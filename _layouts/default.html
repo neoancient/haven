@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="{{ '/assets/css/style.css' }}">
+    </head>
+    <body>
+        <header>
+            <h1 class="site_title">{{ site.title }}</h1>
+            <p>{{ site.description }}</p>
+        </header>
+
+        <div id="banner">
+            <span id="logo"></span>
+            <span class="page_title">{{ page.title }}</span>
+        </div>
+        <div class="wrapper">
+            <section>
+                {{ content }}
+            </section>
+            <footer>
+                {% if site.github.is_project_page %}
+                    <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+                {% endif %}
+            </footer>
+        </div>
+    </body>
