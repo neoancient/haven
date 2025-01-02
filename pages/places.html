@@ -1,0 +1,12 @@
+---
+layout: default
+title: Places
+permalink: /places
+---
+<ul>
+    {% for item in site.reference %}
+    {% if item.category == "place" %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+</ul>

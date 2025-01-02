@@ -17,11 +17,25 @@
         </div>
         <div class="wrapper">
             <section>
+                {% if page.aspects %}
+                    <h3>Known Aspects</h3>
+                    <ul>
+                    {% for aspect in page.aspects %}
+                        <li>{{ aspect }}</li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+                {% for section in page.sections %}
+                    {% if section.title %}
+                        <h1>{{ section.title }}</h1>
+                    {% endif %}
+                    {{ section.content | markdownify }}
+                {% endfor %}
                 {{ content }}
             </section>
             <footer>
                 {% if site.github.is_project_page %}
-                    <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+                <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
                 {% endif %}
             </footer>
         </div>

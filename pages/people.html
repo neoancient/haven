@@ -1,0 +1,12 @@
+---
+layout: default
+title: People
+permalink: /people
+---
+<ul>
+{% for item in site.reference %}
+    {% if item.category == "person" %}
+        <li><a href="{{ item.url }})">{{ item.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>

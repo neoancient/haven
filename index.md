@@ -10,12 +10,17 @@ The setting is heavily influenced by the [Black Ocean series by J. S. Morin](htt
 within a futuristic space age setting.
 
 # Table of Contents
-- [Introduction]({{ site.baseurl }}/introduction.html)
-- Basics
-- Character Creation
-- Species and Culture
-- Aspects
-- Skills
-- Stunts
-- Magic
-- Advancement
+- Game Rules
+  - [Introduction]({{ site.baseurl }}/introduction.html)
+  - Basics
+  - Character Creation
+  - Species and Culture
+  - Aspects
+  - Skills
+  - Stunts
+  - Magic
+  - Advancement
+- Reference
+  - [People]({{ site.baseurl }}/people.html)
+  - [Places]({{ site.baseurl }}/places.html)
+  - Factions
