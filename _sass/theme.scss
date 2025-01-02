@@ -114,6 +114,7 @@ header {
     left: 20%;
     padding: 10px 12px;
     margin-top: 6px;
+    margin-left: 36px;
     line-height: 14px;
     font-size: 18px;
     color:#333;
@@ -125,10 +126,10 @@ header {
     position:absolute;
     height: 36px;
     width: 36px;
-    right: 7px;
+    left: 7px;
     top: 7px;
     display: block;
-    background: url(..images/skull_and_crossbones.png);
+    background: url(../images/skull_and_crossbones.png);
   }
 }
 
