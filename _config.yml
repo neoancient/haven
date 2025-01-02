@@ -20,8 +20,8 @@
 
 title: Pirates of Haven
 description: Space Pirates in a High Fantasy/Hard Science Fiction Setting
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/haven" # the subpath of your site, e.g. /blog
+url: "http://neoancient.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
