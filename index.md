@@ -11,16 +11,18 @@ within a futuristic space age setting.
 
 # Table of Contents
 - Game Rules
-  - [Introduction]({{ site.baseurl }}/introduction.html)
-  - Basics
-  - Character Creation
-  - Species and Culture
-  - Aspects
-  - Skills
-  - Stunts
-  - Magic
-  - Advancement
+  {% for section in site.data.rules_contents %}
+  {% if section.link %}
+  - [{{ section.title }}]({{ section.link }})
+  {% else %}
+  - {{ section.title }}
+  {% endif %}
+  {% endfor %}
 - Reference
-  - [People]({{ site.baseurl }}/people.html)
-  - [Places]({{ site.baseurl }}/places.html)
-  - Factions
+  {% for section in site.data.reference_contents %}
+  {% if section.link %}
+  - [{{ section.title }}]({{ section.link }})
+    {% else %}
+  - {{ section.title }}
+    {% endif %}
+    {% endfor %}
