@@ -1,0 +1,22 @@
+<div class="sidebar">
+    <h1>Game Rules</h1>
+    <div class="entry">
+        {% for section in site.data.rules_contents %}
+        {% if section.link %}
+        <a href="{{ section.link }}">{{ section.title }}</a><br/>
+        {% else %}
+        {{ section.title }}<br/>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <h1>Reference</h1>
+    <div class="entry">
+        {% for section in site.data.reference_contents %}
+        {% if section.link %}
+        <a href="{{ section.link }}">{{ section.title }}</a><br/>
+        {% else %}
+        {{ section.title }}<br/>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
