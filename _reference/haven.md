@@ -3,7 +3,8 @@ layout: reference
 category: place
 title: Haven
 aspects:
-  - Villianous Hive of Scummery and Wretchedness
+  - name: Villianous Hive of Scummery and Wretchedness
+    known: true
 sections:
   - content: >-
         Haven is an outpost on a rocky airless world in the Silma system. Initially established as a base of operations for a

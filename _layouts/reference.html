@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang='{{ site.lang | default: "en-US" }}'>
     <head>
         <title>{{ site.title }} | {{ page.title }}</title>
         <meta charset="utf-8">
@@ -21,13 +21,18 @@
                     <h3>Known Aspects</h3>
                     <ul>
                     {% for aspect in page.aspects %}
-                        <li>{{ aspect }}</li>
+                        {% if aspect.known %}
+                            <li>{{ aspect.name }}</li>
+                        {% endif %}
                     {% endfor %}
                     </ul>
                 {% endif %}
+                {% if page.species %}
+                <p><strong>Species: </strong>{{ page.species }}</p>
+                {% endif %}
                 {% for section in page.sections %}
                     {% if section.title %}
-                        <h1>{{ section.title }}</h1>
+                        <h3>{{ section.title }}</h3>
                     {% endif %}
                     {{ section.content | markdownify }}
                 {% endfor %}
