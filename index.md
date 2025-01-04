@@ -13,7 +13,7 @@ within a futuristic space age setting.
 - Game Rules
   {% for section in site.data.rules_contents %}
   {% if section.link %}
-  - [{{ section.title }}]({{ section.link }})
+  - [{{ section.title }}]({{ site.baseurl }}/{{ section.link }})
   {% else %}
   - {{ section.title }}
   {% endif %}
@@ -21,7 +21,7 @@ within a futuristic space age setting.
 - Reference
   {% for section in site.data.reference_contents %}
   {% if section.link %}
-  - [{{ section.title }}]({{ section.link }})
+  - [{{ section.title }}]({{ site.baseurl }}/{{ section.link }})
     {% else %}
   - {{ section.title }}
     {% endif %}
