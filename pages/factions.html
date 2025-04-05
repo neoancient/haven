@@ -1,0 +1,12 @@
+---
+layout: default
+title: Factions
+permalink: /factions
+---
+<ul>
+{% for item in site.reference %}
+    {% if item.category == "faction" %}
+    <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>

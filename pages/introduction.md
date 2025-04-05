@@ -58,7 +58,7 @@ became a reality when Dwarven engineers developed the star drive: an arcanotechn
 astral drops in a controlled and predictable way. Now FTL travel is commonplace and considered safe.
 
 # The Galaxy
-Space travel is now commonplace, but establishment of extrasolar colonies when more slowly than many had hoped. Though
+Space travel is now commonplace, but establishment of extrasolar colonies went more slowly than many had hoped. Though
 many exoplanets were found within the habitable zones of their stars, none were found that could already support life.
 Bases were built under biodomes, but none of them were fully self-sustaining there was a lot of public resistance to
 using Yrth's dwindling resources to support extrasolar bases that provided no direct benefit to Yrth's population. Some

@@ -35,6 +35,9 @@
                 {% if page.species %}
                 <p><strong>Species: </strong>{{ page.species }}</p>
                 {% endif %}
+                {% if page.capital %}
+                <p><strong>Capital: </strong>{{ page.capital }}</p>
+                {% endif %}
                 {% for section in page.sections %}
                     {% if section.title %}
                         <h3>{{ section.title }}</h3>
