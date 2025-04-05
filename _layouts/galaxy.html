@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang='{{ site.lang | default: "en-US" }}'>
+<head>
+    <title>{{ site.title }} | {{ page.title }}</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+<body>
+<a href="{{ site.baseurl }}/index.html">
+    <header>
+        <h1 class="site_title">{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+    </header>
+</a>
+
+<div id="banner">
+    <span id="logo"></span>
+    <span class="page_title">{{ page.title }}</span>
+</div>
+
+{% include sidebar.html %}
+
+<div class="wrapper">
+    <section>
+        {% if page.aspects %}
+        <h3>Known Aspects</h3>
+        <ul>
+            {% for aspect in page.aspects %}
+            {% if aspect.known %}
+            <li>{{ aspect.name }}</li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% if page.faction %}
+        <p><strong>Faction: </strong>{{ page.faction }}</p>
+        {% endif %}
+        {% for section in page.sections %}
+        {% if section.title %}
+        <h3>{{ section.title }}</h3>
+        {% endif %}
+        {{ section.content | markdownify }}
+        {% endfor %}
+        {%if page.surface %}
+        <h3>Surface</h3>
+        <img src="{{ site.baseurl }}/assets/images/surface/{{ page.surface }}" />
+        {% endif %}
+        {{ content }}
+    </section>
+    <footer>
+        {% if site.github.is_project_page %}
+        <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+    </footer>
+</div>
+</body>
+</html>

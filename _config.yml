@@ -27,6 +27,9 @@ collections:
   reference:
     output: true
     sort_by: title
+  galaxy:
+    output: true
+    sort_by: title
 
 # Build settings
 # theme: minima
