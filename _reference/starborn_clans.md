@@ -40,4 +40,8 @@ sections:
     content: >-
       Each clan maintains its own military force. Individual combat is preferred, but some of the larger clans maintain some
       fleet assets.
+  - title: Key Worlds
+    content: |-
+      - [Vay'kaar](/haven/galaxy/vaykaar.html)
+      - [The Blood Pits of Kaelor](/haven/galaxy/blood_pits.html)
 ---
