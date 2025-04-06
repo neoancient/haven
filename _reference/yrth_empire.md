@@ -43,4 +43,18 @@ sections:
     content: >-
       Nearly anyone and anything can be found within the Empire. Even so, the Empire is dominated by humans. Dwarves are
       also of considerable influence.
+  - title: Key Worlds
+    content: |-
+      - [Yrth](/haven/galaxy/yrth.html)
+      - [Carnil](/haven/galaxy/carnil.html)
+      - [Celestara](/haven/galaxy/celestara.html)
+      - [Drakenhold](/haven/galaxy/drakenhold.html)
+      - [Eldros](/haven/galaxy/eldros.html)
+      - [Iskander](/haven/galaxy/iskander.html)
+      - [Kaldrith](/haven/galaxy/kaldrith.html)
+      - [Morvathis](/haven/galaxy/morvathis.html)
+      - [Niraxis](/haven/galaxy/niraxis.html)
+      - [Orentil](/haven/galaxy/orentil.html)
+      - [Varkana Prime](/haven/galaxy/varkana_prime.html)
+      - [Velka's Rest](/haven/galaxy/velkas_rest.html)
 ---
