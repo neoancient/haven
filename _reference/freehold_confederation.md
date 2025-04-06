@@ -30,5 +30,12 @@ sections:
   - title: Military
     content: >-
       Individual member states maintain their own naval forces and are bound by treaty to contribute to the Freehold Militia
-      for defense of other member states. Some worlds are known to use privateers. 
+      for defense of other member states. Some worlds are known to use privateers.
+  - title: Key Worlds
+    content: |-
+      - [Vashti Prime](/haven/galaxy/vashti_prime.html)            
+      - [Caervailis](/haven/galaxy/caervailis.html)      
+      - [Kaelor's Drift](/haven/galaxy/kaelors_drift.html)      
+      - [Khaldun's Rest](/haven/galaxy/khalduns_rest.html)      
+      - [Thornmere](/haven/galaxy/thornmere.html)
 ---
