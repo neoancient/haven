@@ -7,7 +7,7 @@ aspects:
     known: true
   - name: Neutral Until It's Profitable
     known: true
-capital: Mechalon Prime
+capital: Auric Prime
 sections:
   - title: Overview
     content: >-
@@ -26,4 +26,13 @@ sections:
       The Consortium's power is based on wealth, economic manipulation, and strategic resource control rather than military
       force, though members of the Consortium maintain private security fleets to enforce their economic interests. If the
       need arises, they rely on mercenary warships to enforce contracts.
+  - title: Key Worlds
+    content: |-
+      - [Auric Prime](/haven/galaxy/auric_prime.html)
+      - [Gildenspire](/haven/galaxy/gildenspire.html)
+      - [The Grand Bazaar](/haven/galaxy/grand_bazaar.html)
+      - [Kestra-9](/haven/galaxy/kestra_9.html)
+      - [Ormoc](/haven/galaxy/ormoc.html)
+      - [Typhon Exchange](/haven/galaxy/typhon_exchange.html)
+      - [Zentarra](/haven/galaxy/zentarra.html)
 ---
