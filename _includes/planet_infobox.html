@@ -1,0 +1,99 @@
+<div class="infobox">
+    <table>
+        <th colspan="2" class="infobox-header">Orbital characteristics</th>
+        <tr>
+            <td class="infobox-label">Aphelion</td>
+            <td class="infobox-data">{{ page.aphelion }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Perihelion</td>
+            <td class="infobox-data">{{ page.perihelion }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Semi-major axis</td>
+            <td class="infobox-data">{{ page.volume }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Eccentricity</td>
+            <td class="infobox-data">{{ page.eccentricity }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Orbital period</td>
+            <td class="infobox-data">{{ page.orbital_period }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Inclination</td>
+            <td class="infobox-data">{{ page.inclination }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Major satellites</td>
+            <td class="infobox-data">
+                {% if page.major_satellites %}
+                    {% for moon in page.major_satellites %}
+                        {{ moon }}<br />
+                    {% endfor %}
+                {% else %}
+                    None
+                {% endif %}
+            </td>
+        </tr>
+        <th colspan="2" class="infobox-header">Physical characteristics</th>
+        <tr>
+            <td class="infobox-label">Mean radius</td>
+            <td class="infobox-data">{{ page.radius }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Surface area</td>
+            <td class="infobox-data">{{ page.surface_area }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Volume</td>
+            <td class="infobox-data">{{ page.volume }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Mass</td>
+            <td class="infobox-data">{{ page.mass }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Mean density</td>
+            <td class="infobox-data">{{ page.density }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Surface gravity</td>
+            <td class="infobox-data">{{ page.surface_gravity }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Escape velocity</td>
+            <td class="infobox-data">{{ page.escape_velocity }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Synodic rotation period</td>
+            <td class="infobox-data">{{ page.rotation_period }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Axial tilt</td>
+            <td class="infobox-data">{{ page.axial_tilt }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Bond albedo</td>
+            <td class="infobox-data">{{ page.albedo }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Average surface temperature</td>
+            <td class="infobox-data">{{ page.temperature }}</td>
+        </tr>
+        <th colspan="2" class="infobox-header">Atmosphere</th>
+        <tr>
+            <td class="infobox-label">Surface pressure</td>
+            <td class="infobox-data">{{ page.surface_pressure }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Composition by volume</td>
+            <td class="infobox-data">
+            {% for component in page.composition %}
+            {{ component }}<br />
+            {% endfor %}
+            </td>
+        </tr>
+    </table>
+</div>
