@@ -48,7 +48,11 @@
         {{ content }}
     </section>
 
-    {% include planet_infobox.html %}
+    {% if page.category == "planet" %}
+        {% include planet_infobox.html %}
+    {% elsif page.category == "star" %}
+        {% include star_infobox.html %}
+    {% endif %}
 
     <footer>
         {% if site.github.is_project_page %}

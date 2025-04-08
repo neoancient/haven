@@ -1,0 +1,82 @@
+<div class="infobox">
+    <table>
+        <th colspan="2" class="infobox-header">Observation data</th>
+        <tr>
+            <td class="infobox-label">Mean distance from Yrth</td>
+            <td class="infobox-data">{{ page.distance }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Apparent magnitude</td>
+            <td class="infobox-data">{{ page.apparent_magnitude }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Absolute magnitude</td>
+            <td class="infobox-data">{{ page.absolute_magnitude }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Spectral classification</td>
+            <td class="infobox-data">{{ page.spectral_class }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Equatorial coordinates</td>
+            <td class="infobox-data">{{ page.equatorial }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Rectangular coordinates</td>
+            <td class="infobox-data">{{ page.rectangular }}</td>
+        </tr>
+        <th colspan="2" class="infobox-header">Physical characteristics</th>
+        <tr>
+            <td class="infobox-label">Equatorial radius</td>
+            <td class="infobox-data">{{ page.radius }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Surface area</td>
+            <td class="infobox-data">{{ page.surface_area }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Volume</td>
+            <td class="infobox-data">{{ page.volume }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Mass</td>
+            <td class="infobox-data">{{ page.mass }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Mean density</td>
+            <td class="infobox-data">{{ page.density }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Age</td>
+            <td class="infobox-data">{{ page.age }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Equatorial surface gravity</td>
+            <td class="infobox-data">{{ page.surface_gravity }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Surface escape velocity</td>
+            <td class="infobox-data">{{ page.escape_velocity }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Photosphere temperature</td>
+            <td class="infobox-data">{{ page.temperature }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Luminosity</td>
+            <td class="infobox-data">{{ page.luminosity }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Known planets</td>
+            <td class="infobox-data">
+                {% if page.planets %}
+                  {% for planet in page.planets %}
+                    {{ planet }}<br />
+                  {% endfor %}
+                {% else %}
+                    None
+                {% endif %}
+            </td>
+        </tr>
+    </table>
+</div>
