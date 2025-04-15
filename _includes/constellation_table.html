@@ -1,0 +1,28 @@
+<table class="star_list">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Right Ascension</th>
+            <th>Declination</th>
+            <th>Apparent Magnitude</th>
+            <th>Absolute Magnitude</th>
+            <th>Distance (ly)</th>
+            <th>Spectral Class</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for star in page.stars %}
+        <tr>
+            <td>{{ star.name }}</td>
+            <td>{{ star.designation }}</td>
+            <td>{{ star.ra }}</td>
+            <td>{{ star.dec }}</td>
+            <td class="center">{{ star.apparent_magnitude }}</td>
+            <td class="center">{{ star.absolute_magnitude }}</td>
+            <td class="center">{{ star.distance }}</td>
+            <td>{{ star.spectral_class }}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
