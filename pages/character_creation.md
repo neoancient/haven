@@ -19,8 +19,14 @@ The remaining three aspects can be anything that helps round out the character. 
 positive and negative sides. Aspects are a way to tell the gamemaster what sorts of things you want to have
 come up in the story. For more information on selecting aspects, see [Aspects]({{ site.baseurl }}/aspects.html).
 
+# Species and Culture
+Select the character's species or background. Select the three cultural stunts. You may want to wait until after skills
+are assigned for selecting the cultural stunts.
+
 # Skills
-Under construction
+Characters start with ten skills on the character sheet: one at Great (+4), two at Good (+3), three at Fair (+2),
+and four at Average (+1). All other skills are considered Mediocre (+0). At various milestones there are opportunities
+to shift skills around and increase them. See [Advancement]({{ site.baseurl }}/advancement.html)
 
 # Stunts
 Under construction

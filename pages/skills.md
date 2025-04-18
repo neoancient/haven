@@ -75,12 +75,14 @@ It covers movement outside a vehicle, including running, jumping, climbing, and 
 
 ## Burglary
 The **Burglary** skill is used for stealing things, getting into restricted places, and dealing with security systems.
+It can also be used for preventing others doing the same to you.
 - **Overcome:**
   - Override the lock on a door
   - Disable a trap
   - Bypass security system
   - Pick a pocket
   - Cover tracks
+  - Conceal an item so it escapes notice
 - **Advantage:**
   - Case a location
   - Study security measures
