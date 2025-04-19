@@ -196,6 +196,17 @@ their own (with GM approval) if none of these quite fits.
 | Science          | Identifying technological phenomena                          |
 | Will             | Resist mental attacks by reasoning through them analytically |
 
+## Bounty Hunter Background
+
+| Subsituted Skill | Situation                                                                 |
+|:-----------------|:--------------------------------------------------------------------------|
+| Fight            | Trying to incapacitate without killing                                    |
+| Investigate      | Tracking or profiling a target based on minimal clues                     |
+| Notice           | Scanning crowds or checking surveillance for a bounty                     |
+| Science          | Dealing with bounty contracts, jurisdictional quirks, or authority limits |
+| Provoke          | Intimidating someone by referencing your past captures                    |
+| Provoke          | Questioning or wearing down someone mentally during an arrest or standoff |
+
 ## Corporate Background
 
 | Subsituted Skill  | Situation                                                          |
@@ -242,15 +253,27 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Physique         | Endure long hours, repetitive strain, or brutal conditions |
 | Will             | Resist coercion when supported by a group                  |
 
+## Mercenary Background
+
+| Subsituted Skill | Situation                                                                                      |
+|:-----------------|:-----------------------------------------------------------------------------------------------|
+| Athletics        | Making quick, tactical movements such as jumping over terrain or clearing a room               |
+| Fight            | Coordinating with allies, using cover, or holding formation under fire                         |
+| Notice           | React to ambushes, sudden gunfire, or battlefield hazards                                      |
+| Rapport          | Relating to other soldiers, veterans, or mercenaries, especially over shared trauma or respect |
+| Resources        | Procuring weapons, gear, or repairs through unofficial channels                                |
+| Will             | Remaining composed in chaotic combat or when under heavy fire                                  |
+
 ## Military Background
 
-| Subsituted Skill  | Situation                                                            |
-|:------------------|:---------------------------------------------------------------------|
-| Contacts          | Navigating military hierarchies                                      |
-| Fight             | Creating a tactical advantage                                        |
-| Notice            | Analyzing a battlefield or spotting weak points in enemy formations  |
-| Provoke           | Giving orders to subordinates to cowing civilians                    |
-| Rapport           | Rally or inspire allies                                              |
+| Subsituted Skill | Situation                                                            |
+|:-----------------|:---------------------------------------------------------------------|
+| Contacts         | Navigating military hierarchies                                      |
+| Fight            | Creating a tactical advantage                                        |
+| Notice           | Analyzing a battlefield or spotting weak points in enemy formations  |
+| Provoke          | Giving orders to subordinates to cowing civilians                    |
+| Rapport          | Rally or inspire allies                                              |
+| Stealth          | Waiting in ambush, lying low in hostile terrain, or holding position |
 
 ## Pirate Background
 
