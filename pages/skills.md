@@ -8,13 +8,12 @@ using that skill. Skills not appearing on the character sheet are understood to 
 are Average (+1) or Fair (+2) at skills involved in their professions, with anything Good (+3) or higher being a mark
 of some expertise. Player characters are exceptional, and have multiple skills at these higher levels.
 
-Use of a skill falls into one of five categories:
+Use of a skill falls into one of four categories:
 
 - Overcome
 - Create an advantage
 - Attack
 - Defend
-- Block
 
 An **Overcome** action is an attempt to deal with an obstacle or obstruction or resolve an undesired situation.
 
