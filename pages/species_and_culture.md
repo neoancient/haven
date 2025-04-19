@@ -28,6 +28,7 @@ them have integrated into human society. Humans likewise have accepted Dwarves a
 most xenophobic humans don't apply their bigotry to Dwarves.
 
 ### Dwarven Cultural Stunts
+
 | Subsituted Skill  | Situation                                                                                      |
 |:------------------|:-----------------------------------------------------------------------------------------------|
 | Athletics         | Moving in confined spaces                                                                      |
@@ -56,6 +57,7 @@ forces, their mere presence has a disrupting effect on advanced technology. This
 exist within the borders of the Yrth Empire without being bothered.
 
 ### Elven Cultural Stunts
+
 | Subsituted Skill | Situation                                                                                                                                                     |
 |:-----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Athletics        | Dodging or leaping gracefully in combat                                                                                                                       |
@@ -79,6 +81,7 @@ would seem to make a Gnome an ideal stardrive mechanic, but the antisocial and s
 outcast Gnomes leads most ship captains to prefer dealing with the occasional tech blackout.
 
 ### Gnome Cultural Stunts
+
 | Subsituted Skill | Situation                                                                                                                    |
 |:-----------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | Empathy          | Trying to detect deception or manipulation by outsiders                                                                      |
@@ -102,6 +105,7 @@ other Goblins will try to steal their ideas. Then again, they tend to be the pos
 With Others_, as well as _Runs With Scissors_.
 
 ### Goblin Cultural Stunts
+
 | Subsituted Skill | Situation                                                                                                                    |
 |:-----------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | Athletics        | Flee through chaotic environments of your own creation, such as collapsing scaffolds, exploding traps, or rolling barrels    |
@@ -139,6 +143,7 @@ Most Halflings can be found in the Yrth Empire, usually at the edges of Human so
 be very popular with Halflings of a certain stripe.
 
 ### Halfling Cultural Stunts
+
 | Subsituted Skill | Situation                                                                    |
 |:-----------------|:-----------------------------------------------------------------------------|
 | Athletics        | Dodging or tumbling through tight spaces                                     |
@@ -163,6 +168,7 @@ The few settlements Orcs have in space are in the Borderlands, and exist primari
 their raiding ships.
 
 ### Orc Cultural Stunts
+
 | Subsituted Skill | Situation                                                                              |
 |:-----------------|:---------------------------------------------------------------------------------------|
 | Discipline       | Entering a battle trance                                                               |
@@ -180,6 +186,7 @@ get a choice of background. What follows is a sample of possible backgrounds, bu
 their own (with GM approval) if none of these quite fits.
 
 ## Academic Background
+
 | Subsituted Skill | Situation                                                    |
 |:-----------------|:-------------------------------------------------------------|
 | Contacts         | Dealing with other scholars, researchers, or archivists      |
@@ -190,6 +197,7 @@ their own (with GM approval) if none of these quite fits.
 | Will             | Resist mental attacks by reasoning through them analytically |
 
 ## Corporate Background
+
 | Subsituted Skill  | Situation                                                          |
 |:------------------|:-------------------------------------------------------------------|
 | Contacts          | Learning or leveraging corporate connections                       |
@@ -200,6 +208,7 @@ their own (with GM approval) if none of these quite fits.
 | Rapport           | Professional or high-stakes negotiation contests                   |
 
 ## Criminal Background
+
 | Subsituted Skill | Situation                                               |
 |:-----------------|:--------------------------------------------------------|
 | Burglary         | Casing a location or planning a heist                   |
@@ -223,6 +232,7 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Will             | Resisting emotional manipulation by invoking machine-correct reasoning |
 
 ## Industrial Background
+
 | Subsituted Skill | Situation                                                  |
 |:-----------------|:-----------------------------------------------------------|
 | Mechanics        | Wprking with industrial tools, machines, or vehicles       |
@@ -233,6 +243,7 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Will             | Resist coercion when supported by a group                  |
 
 ## Military Background
+
 | Subsituted Skill  | Situation                                                            |
 |:------------------|:---------------------------------------------------------------------|
 | Contacts          | Navigating military hierarchies                                      |
@@ -242,6 +253,7 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Rapport           | Rally or inspire allies                                              |
 
 ## Pirate Background
+
 | Subsituted Skill | Situation                                                              |
 |:-----------------|:-----------------------------------------------------------------------|
 | Fight            | Attacking in close quarters on ships or stations                       |
@@ -252,6 +264,7 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Will             | Resisting coercion, threats, or attempts to buy you out                |
 
 ## Smuggler Background
+
 | Subsituted Skill | Situation                                                             |
 |:-----------------|:----------------------------------------------------------------------|
 | Burglary         | Concealing or retrieving illicit cargo in tight or unexpected places  |
@@ -263,6 +276,7 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Resources        | Bribing customs officials                                             |
 
 ## Spacer Background
+
 | Subsituted Skill | Situation                                                              |
 |:-----------------|:-----------------------------------------------------------------------|
 | Atheltics        | In Zero-G or microgravity environments                                 |
