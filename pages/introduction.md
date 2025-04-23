@@ -49,7 +49,7 @@ largely a curiosity that most people had never heard of, until a human wizard na
 Using a ship constructed with legacy technology that would not suffer too much from magical disruption, he inscribed
 glyphs on the ship that assisted him in moving it perpendicular to reality. The blank space that it shifted into was
 later termed the _Astral Plane_, though it had no real connection with the process of astral projection. After initial
-experiments moving into and out of the astral plane, the Event Horizon's maiden voyage to it to the outskirts of the
+experiments moving into and out of the astral plane, the Event Horizon's maiden voyage took it to the outskirts of the
 solar system in less than an hour.
 
 It was many years before interstellar travel became practical. Some early ships were stranded and lost when their
