@@ -7,6 +7,7 @@ title: Basics
 The Pirates of Haven roleplaying system is based on the [Fate Core rules](http://www.faterpg.com). Some portions, the
 magic system in particular, make use of the Dresden Files RPG, which is based on an earlier edition of the Fate system.
 
+# Aspects and Fate Points
 Fate is similar to many roleplaying games in that the characters have skills, and make dice rolls against a target
 number to determine success of an action. What is distinct in Fate is Aspects. An aspect is a short descriptive phrase
 that can be used, or invoked, by characters to give themselves an advantage. Aspects can also be invoked by their
@@ -22,10 +23,32 @@ a fate point for later use.
 
 For more information, see  [Aspects]({{ site.baseurl }}/aspects)
 
+Every character has a **refresh** value, which is the minimum number of fate points they start a session with. If they
+end a session with more fate points than their refresh value, they keep the extras at the start of the next session. Any
+character that finishes a session with a number of fate points less than their refresh value gets topped up. Refresh can
+be spent for additional **stunts** and **extras**, which reduces the character's control over what happens to them for
+additional special abilities.
+
+Fate points can also be required to activate certain [Stunts]({{ site.baseurl }}/stunts.html) or [Extras]({{ site.baseurl }}/extras.html).
+
 # Dice and Skill Checks
 The Fate system makes use of six-sided dice with two faces each marked with **+**, two with **-**, and two blank. Each
 **+** is read as +1, and each **-** is read as -1. A skill check always uses four dice, leading to a result between -4
 and +4. This is added to the character's skill level and compared with the target.
+
+The determination of the target is depends on whether the opposition is active or passive. Active opposition is when
+another character or entity is in a position to defend against the action. An obvious example is combat, but this could
+also involve a social encounter, such as trying to deceive someone, or a direct contest like a race. Against an active
+defense, the target number is the opposing character's skill check with the appropriate defensive skill. Against passive
+opposition, the target number is determined by GM.
+
+A skill check has four possible outcomes:
+- Fail: The adjusted roll is less than the target
+- Tie: The adjusted roll is the same as the target
+- Succeed: The adjusted roll exceeds the target by one or two
+- Succeed with Style: The adjusted roll exceeds the target by three or more
+
+The effects of each outcome depend on the type of action. See [Actions and Conflict]({{ site.baseurl }}/actions_and_conflict.html).
 
 Skills and target numbers use the same scale, known as the Ladder:
 
