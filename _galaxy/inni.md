@@ -56,9 +56,9 @@ planets:
     escape_velocity: 10.362 km/s<br />(37,302 km/h)
     rotation_period: -243.025 d
     axial_tilt: 177.36°
-    albedo: 0.90
-    temperature: 263 K<br />(-10 °C)
-    surface_pressure: 13,711 kPa<br />(137 atm)
+    albedo: 0.48
+    temperature: 294 K<br />(20 °C)
+    surface_pressure: 91 kPa<br />(1 atm)
     composition:
       - 76.5118% nitrogen
       - 23.4705% oxygen
@@ -138,8 +138,8 @@ planets:
     rotation_period: 1.026 d
     axial_tilt: 25.19°
     albedo: 0.25
-    temperature: 230 K<br />(-44 °C)
-    surface_pressure: 193 kPa<br />(2 atm)
+    temperature: 226 K<br />(-47 °C)
+    surface_pressure: 145 kPa<br />(1 atm)
     composition:
       - 77.3778% nitrogen
       - 20.7170% oxygen

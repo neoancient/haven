@@ -26,8 +26,8 @@ planet:
   rotation_period: 1.026 d
   axial_tilt: 25.19°
   albedo: 0.25
-  temperature: 230 K<br />(-44 °C)
-  surface_pressure: 193 kPa<br />(2 atm)
+  temperature: 226 K<br />(-47 °C)
+  surface_pressure: 145 kPa<br />(1 atm)
   composition:
     - 77.3778% nitrogen
     - 20.7170% oxygen

@@ -56,14 +56,14 @@ planets:
         radius: 10,565.7 km<br/>(1.658 Yrths)
         surface_area: 1.403 × 10<sup>09</sup> km<sup>2</sup><br/>(2.750 Yrths)
         volume: 4.941 × 10<sup>12</sup> km<sup>3</sup><br/>(4.561 Yrths)
-        mass: 1.321 × 10<sup>25</sup> kg<br />(7.513923694210273 Yrths)
+        mass: 1.321 × 10<sup>25</sup> kg<br />
         density: 2.673 g/cm<sup>3</sup>
         surface_gravity: 7.886 m/s<sup>2</sup><br />(0.804 g<sub>0</sub>)
         escape_velocity: 12.918 km/s<br />(46,505 km/h)
         rotation_period: 59.670 d
         axial_tilt: 12.79°
         albedo: 0.30
-        temperature: 3216 K<br />(2943 °C)
+        temperature: 3214 K<br />(2941 °C)
       - name: 6746 Atchianniad I b
         type: Dwarf planet
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 10,646.9 km<br/>(1.671 Yrths)
         surface_area: 1.424 × 10<sup>09</sup> km<sup>2</sup><br/>(2.793 Yrths)
         volume: 5.055 × 10<sup>12</sup> km<sup>3</sup><br/>(4.667 Yrths)
-        mass: 1.097 × 10<sup>25</sup> kg<br />(7.513923694210273 Yrths)
+        mass: 1.097 × 10<sup>25</sup> kg<br />
         density: 2.170 g/cm<sup>3</sup>
         surface_gravity: 6.452 m/s<sup>2</sup><br />(0.658 g<sub>0</sub>)
         escape_velocity: 11.729 km/s<br />(42,224 km/h)
         rotation_period: 33.849 d
         axial_tilt: 41.05°
         albedo: 0.30
-        temperature: 2924 K<br />(2651 °C)
+        temperature: 2922 K<br />(2649 °C)
       - name: 6746 Atchianniad I c
         type: Icy
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 20,350.8 km<br/>(3.194 Yrths)
         surface_area: 5.204 × 10<sup>09</sup> km<sup>2</sup><br/>(10.203 Yrths)
         volume: 3.530 × 10<sup>13</sup> km<sup>3</sup><br/>(32.593 Yrths)
-        mass: 3.570 × 10<sup>25</sup> kg<br />(7.513923694210273 Yrths)
+        mass: 3.570 × 10<sup>25</sup> kg<br />
         density: 1.011 g/cm<sup>3</sup>
         surface_gravity: 5.745 m/s<sup>2</sup><br />(0.586 g<sub>0</sub>)
         escape_velocity: 15.302 km/s<br />(55,086 km/h)
         rotation_period: 55.271 d
         axial_tilt: 19.12°
         albedo: 0.30
-        temperature: 2788 K<br />(2515 °C)
+        temperature: 2786 K<br />(2513 °C)
       - name: 6746 Atchianniad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 8,829.1 km<br/>(1.386 Yrths)
         surface_area: 9.796 × 10<sup>08</sup> km<sup>2</sup><br/>(1.921 Yrths)
         volume: 2.883 × 10<sup>12</sup> km<sup>3</sup><br/>(2.662 Yrths)
-        mass: 7.262 × 10<sup>24</sup> kg<br />(7.513923694210273 Yrths)
+        mass: 7.262 × 10<sup>24</sup> kg<br />
         density: 2.519 g/cm<sup>3</sup>
         surface_gravity: 6.210 m/s<sup>2</sup><br />(0.633 g<sub>0</sub>)
         escape_velocity: 10.478 km/s<br />(37,722 km/h)
         rotation_period: 34.064 d
         axial_tilt: 23.69°
         albedo: 0.30
-        temperature: 2534 K<br />(2261 °C)
+        temperature: 2533 K<br />(2259 °C)
       - name: 6746 Atchianniad I e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -136,14 +136,14 @@ planets:
         radius: 8,394.6 km<br/>(1.318 Yrths)
         surface_area: 8.855 × 10<sup>08</sup> km<sup>2</sup><br/>(1.736 Yrths)
         volume: 2.478 × 10<sup>12</sup> km<sup>3</sup><br/>(2.288 Yrths)
-        mass: 5.003 × 10<sup>24</sup> kg<br />(7.513923694210273 Yrths)
+        mass: 5.003 × 10<sup>24</sup> kg<br />
         density: 2.019 g/cm<sup>3</sup>
         surface_gravity: 4.732 m/s<sup>2</sup><br />(0.483 g<sub>0</sub>)
         escape_velocity: 8.920 km/s<br />(32,110 km/h)
         rotation_period: 47.132 d
         axial_tilt: 15.92°
         albedo: 0.30
-        temperature: 2417 K<br />(2143 °C)
+        temperature: 2415 K<br />(2142 °C)
       - name: 6746 Atchianniad I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -156,14 +156,14 @@ planets:
         radius: 9,236.6 km<br/>(1.450 Yrths)
         surface_area: 1.072 × 10<sup>09</sup> km<sup>2</sup><br/>(2.102 Yrths)
         volume: 3.301 × 10<sup>12</sup> km<sup>3</sup><br/>(3.047 Yrths)
-        mass: 9.220 × 10<sup>24</sup> kg<br />(7.513923694210273 Yrths)
+        mass: 9.220 × 10<sup>24</sup> kg<br />
         density: 2.793 g/cm<sup>3</sup>
         surface_gravity: 7.203 m/s<sup>2</sup><br />(0.735 g<sub>0</sub>)
         escape_velocity: 11.543 km/s<br />(41,556 km/h)
         rotation_period: 33.058 d
         axial_tilt: 22.83°
         albedo: 0.30
-        temperature: 2304 K<br />(2031 °C)
+        temperature: 2302 K<br />(2029 °C)
       - name: 6746 Atchianniad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 10,307.2 km<br/>(1.618 Yrths)
         surface_area: 1.335 × 10<sup>09</sup> km<sup>2</sup><br/>(2.617 Yrths)
         volume: 4.587 × 10<sup>12</sup> km<sup>3</sup><br/>(4.234 Yrths)
-        mass: 7.480 × 10<sup>24</sup> kg<br />(7.513923694210273 Yrths)
+        mass: 7.480 × 10<sup>24</sup> kg<br />
         density: 1.631 g/cm<sup>3</sup>
         surface_gravity: 4.693 m/s<sup>2</sup><br />(0.479 g<sub>0</sub>)
         escape_velocity: 9.842 km/s<br />(35,431 km/h)
         rotation_period: 44.389 d
         axial_tilt: 20.61°
         albedo: 0.30
-        temperature: 1816 K<br />(1542 °C)
+        temperature: 1814 K<br />(1541 °C)
       - name: 6746 Atchianniad I h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -196,14 +196,14 @@ planets:
         radius: 10,509.2 km<br/>(1.650 Yrths)
         surface_area: 1.388 × 10<sup>09</sup> km<sup>2</sup><br/>(2.721 Yrths)
         volume: 4.862 × 10<sup>12</sup> km<sup>3</sup><br/>(4.488 Yrths)
-        mass: 1.310 × 10<sup>25</sup> kg<br />(7.513923694210273 Yrths)
+        mass: 1.310 × 10<sup>25</sup> kg<br />
         density: 2.694 g/cm<sup>3</sup>
         surface_gravity: 7.906 m/s<sup>2</sup><br />(0.806 g<sub>0</sub>)
         escape_velocity: 12.899 km/s<br />(46,437 km/h)
         rotation_period: 36.378 d
         axial_tilt: 28.72°
         albedo: 0.30
-        temperature: 1731 K<br />(1458 °C)
+        temperature: 1730 K<br />(1457 °C)
       - name: 6746 Atchianniad I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -216,14 +216,14 @@ planets:
         radius: 10,811.0 km<br/>(1.697 Yrths)
         surface_area: 1.469 × 10<sup>09</sup> km<sup>2</sup><br/>(2.880 Yrths)
         volume: 5.293 × 10<sup>12</sup> km<sup>3</sup><br/>(4.886 Yrths)
-        mass: 9.877 × 10<sup>24</sup> kg<br />(7.513923694210273 Yrths)
+        mass: 9.877 × 10<sup>24</sup> kg<br />
         density: 1.866 g/cm<sup>3</sup>
         surface_gravity: 5.633 m/s<sup>2</sup><br />(0.574 g<sub>0</sub>)
         escape_velocity: 11.043 km/s<br />(39,756 km/h)
         rotation_period: 55.701 d
         axial_tilt: 23.86°
         albedo: 0.30
-        temperature: 1500 K<br />(1227 °C)
+        temperature: 1499 K<br />(1226 °C)
   - name: <a href="mechalon_prime.html">Mechalon Prime</a> (6746 Atchianniad II)
     type: Terrestrial
     aphelion: 178,430,658 km<br />1.193 AU
@@ -242,14 +242,25 @@ planets:
     rotation_period: 1.387 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 259 K<br />(-14 °C)
-    surface_pressure: 110 kPa<br />(1 atm)
+    temperature: 287 K<br />(13 °C)
+    surface_pressure: 219 kPa<br />(2 atm)
     composition:
-      - 70.1418% nitrogen
-      - 18.2604% oxygen
-      - 10.2219% water vapor
-      - 1.3560% argon
-      - 0.0199% carbon dioxide
+      - 54.6153% nitrogen
+      - 21.5902% carbon dioxide
+      - 11.3579% water vapor
+      - 9.1716% oxygen
+      - 1.5067% argon
+      - 0.8189% carbon monoxide
+      - 0.8120% methane
+      - 0.0849% sulfur dioxide
+      - 0.0141% nitric acid
+      - 0.0085% hydrogen sulfide
+      - 0.0079% nitric oxide
+      - 0.0038% ammonia
+      - 0.0025% ozone
+      - 0.0025% hydrochloric acid
+      - 0.0024% hydrogen cyanide
+      - 0.0008% phosphine
     moons:
       - name: Mechalon Prime a
         type: Rocky
@@ -263,14 +274,14 @@ planets:
         radius: 2,408.8 km<br/>(0.378 Yrths)
         surface_area: 7.291 × 10<sup>07</sup> km<sup>2</sup><br/>(0.143 Yrths)
         volume: 5.854 × 10<sup>10</sup> km<sup>3</sup><br/>(0.054 Yrths)
-        mass: 1.825 × 10<sup>23</sup> kg<br />(1.2263667492935693 Yrths)
+        mass: 1.825 × 10<sup>23</sup> kg<br />
         density: 3.117 g/cm<sup>3</sup>
         surface_gravity: 2.096 m/s<sup>2</sup><br />(0.214 g<sub>0</sub>)
         escape_velocity: 3.180 km/s<br />(11,448 km/h)
         rotation_period: 39.803 d
         axial_tilt: 12.20°
         albedo: 0.30
-        temperature: 3309 K<br />(3035 °C)
+        temperature: 3253 K<br />(2980 °C)
   - name: 6746 Atchianniad III
     type: Terrestrial
     aphelion: 318,761,023 km<br />2.131 AU
@@ -310,14 +321,14 @@ planets:
         radius: 1,389.7 km<br/>(0.218 Yrths)
         surface_area: 2.427 × 10<sup>07</sup> km<sup>2</sup><br/>(0.048 Yrths)
         volume: 1.124 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 1.462 × 10<sup>22</sup> kg<br />(0.34755240722267794 Yrths)
+        mass: 1.462 × 10<sup>22</sup> kg<br />
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 0.504 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 1.185 km/s<br />(4,265 km/h)
         rotation_period: 49.539 d
         axial_tilt: 51.05°
         albedo: 0.30
-        temperature: 3089 K<br />(2816 °C)
+        temperature: 3003 K<br />(2730 °C)
       - name: 6746 Atchianniad III b
         type: Rocky
         formationType: Captured
@@ -330,14 +341,14 @@ planets:
         radius: 1,113.0 km<br/>(0.175 Yrths)
         surface_area: 1.557 × 10<sup>07</sup> km<sup>2</sup><br/>(0.031 Yrths)
         volume: 5.776 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.820 × 10<sup>22</sup> kg<br />(0.34755240722267794 Yrths)
+        mass: 1.820 × 10<sup>22</sup> kg<br />
         density: 3.151 g/cm<sup>3</sup>
         surface_gravity: 0.979 m/s<sup>2</sup><br />(0.100 g<sub>0</sub>)
         escape_velocity: 1.477 km/s<br />(5,318 km/h)
         rotation_period: 33.831 d
         axial_tilt: 17.43°
         albedo: 0.30
-        temperature: 2946 K<br />(2672 °C)
+        temperature: 2863 K<br />(2590 °C)
       - name: 6746 Atchianniad III c
         type: Asteroid
         formationType: Captured
@@ -350,14 +361,14 @@ planets:
         radius: 803.9 km<br/>(0.126 Yrths)
         surface_area: 8.121 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.176 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 6.726 × 10<sup>21</sup> kg<br />(0.34755240722267794 Yrths)
+        mass: 6.726 × 10<sup>21</sup> kg<br />
         density: 3.091 g/cm<sup>3</sup>
         surface_gravity: 0.694 m/s<sup>2</sup><br />(0.071 g<sub>0</sub>)
         escape_velocity: 1.057 km/s<br />(3,804 km/h)
         rotation_period: 34.697 d
         axial_tilt: 29.95°
         albedo: 0.30
-        temperature: 2809 K<br />(2535 °C)
+        temperature: 2730 K<br />(2457 °C)
   - name: 6746 Atchianniad IV
     type: Large terrestrial
     aphelion: 582,912,599 km<br />3.896 AU
@@ -395,14 +406,14 @@ planets:
         radius: 1,844.3 km<br/>(0.289 Yrths)
         surface_area: 4.275 × 10<sup>07</sup> km<sup>2</sup><br/>(0.084 Yrths)
         volume: 2.628 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 5.389 × 10<sup>22</sup> kg<br />(1.9905784257720867 Yrths)
+        mass: 5.389 × 10<sup>22</sup> kg<br />
         density: 2.051 g/cm<sup>3</sup>
         surface_gravity: 1.056 m/s<sup>2</sup><br />(0.108 g<sub>0</sub>)
         escape_velocity: 1.975 km/s<br />(7,110 km/h)
         rotation_period: 43.533 d
         axial_tilt: 29.71°
         albedo: 0.30
-        temperature: 1721 K<br />(1448 °C)
+        temperature: 1680 K<br />(1406 °C)
       - name: 6746 Atchianniad IV b
         type: Rocky
         formationType: Impact formed
@@ -415,14 +426,14 @@ planets:
         radius: 597.8 km<br/>(0.094 Yrths)
         surface_area: 4.492 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.951 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.185 × 10<sup>21</sup> kg<br />(1.9905784257720867 Yrths)
+        mass: 2.185 × 10<sup>21</sup> kg<br />
         density: 2.441 g/cm<sup>3</sup>
         surface_gravity: 0.407 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.699 km/s<br />(2,515 km/h)
         rotation_period: 32.022 d
         axial_tilt: 11.60°
         albedo: 0.30
-        temperature: 1641 K<br />(1368 °C)
+        temperature: 1601 K<br />(1328 °C)
       - name: 6746 Atchianniad IV c
         type: Rocky
         formationType: Captured
@@ -435,14 +446,14 @@ planets:
         radius: 4,996.5 km<br/>(0.784 Yrths)
         surface_area: 3.137 × 10<sup>08</sup> km<sup>2</sup><br/>(0.615 Yrths)
         volume: 5.225 × 10<sup>11</sup> km<sup>3</sup><br/>(0.482 Yrths)
-        mass: 1.499 × 10<sup>24</sup> kg<br />(1.9905784257720867 Yrths)
+        mass: 1.499 × 10<sup>24</sup> kg<br />
         density: 2.869 g/cm<sup>3</sup>
         surface_gravity: 4.002 m/s<sup>2</sup><br />(0.408 g<sub>0</sub>)
         escape_velocity: 6.328 km/s<br />(22,781 km/h)
         rotation_period: 37.768 d
         axial_tilt: 10.70°
         albedo: 0.30
-        temperature: 1565 K<br />(1292 °C)
+        temperature: 1527 K<br />(1254 °C)
       - name: 6746 Atchianniad IV d
         type: Rocky
         formationType: Impact formed
@@ -455,14 +466,14 @@ planets:
         radius: 3,780.0 km<br/>(0.593 Yrths)
         surface_area: 1.796 × 10<sup>08</sup> km<sup>2</sup><br/>(0.352 Yrths)
         volume: 2.262 × 10<sup>11</sup> km<sup>3</sup><br/>(0.209 Yrths)
-        mass: 6.378 × 10<sup>23</sup> kg<br />(1.9905784257720867 Yrths)
+        mass: 6.378 × 10<sup>23</sup> kg<br />
         density: 2.819 g/cm<sup>3</sup>
         surface_gravity: 2.975 m/s<sup>2</sup><br />(0.303 g<sub>0</sub>)
         escape_velocity: 4.746 km/s<br />(17,086 km/h)
         rotation_period: 30.758 d
         axial_tilt: 21.46°
         albedo: 0.30
-        temperature: 1492 K<br />(1219 °C)
+        temperature: 1456 K<br />(1183 °C)
   - name: 6746 Atchianniad V
     type: Gas giant
     aphelion: 1,042,305,086 km<br />6.967 AU
@@ -495,7 +506,7 @@ planets:
         radius: 236,144.2 km<br/>(37.065 Yrths)
         surface_area: 7.008 × 10<sup>11</sup> km<sup>2</sup><br/>(1373.850 Yrths)
         volume: 5.516 × 10<sup>16</sup> km<sup>3</sup><br/>(50922.418 Yrths)
-        mass: 1.278 × 10<sup>29</sup> kg<br />(487.5957484539562 Yrths)
+        mass: 1.278 × 10<sup>29</sup> kg<br />
         density: 2.318 g/cm<sup>3</sup>
         surface_gravity: 152.800 m/s<sup>2</sup><br />(15.581 g<sub>0</sub>)
         escape_velocity: 268.819 km/s<br />(967,749 km/h)
@@ -515,7 +526,7 @@ planets:
         radius: 214,974.2 km<br/>(33.743 Yrths)
         surface_area: 5.807 × 10<sup>11</sup> km<sup>2</sup><br/>(1138.565 Yrths)
         volume: 4.161 × 10<sup>16</sup> km<sup>3</sup><br/>(38418.152 Yrths)
-        mass: 8.771 × 10<sup>28</sup> kg<br />(487.5957484539562 Yrths)
+        mass: 8.771 × 10<sup>28</sup> kg<br />
         density: 2.108 g/cm<sup>3</sup>
         surface_gravity: 126.495 m/s<sup>2</sup><br />(12.899 g<sub>0</sub>)
         escape_velocity: 233.367 km/s<br />(840,120 km/h)
@@ -535,7 +546,7 @@ planets:
         radius: 249,608.4 km<br/>(39.179 Yrths)
         surface_area: 7.829 × 10<sup>11</sup> km<sup>2</sup><br/>(1534.982 Yrths)
         volume: 6.514 × 10<sup>16</sup> km<sup>3</sup><br/>(60138.802 Yrths)
-        mass: 7.120 × 10<sup>28</sup> kg<br />(487.5957484539562 Yrths)
+        mass: 7.120 × 10<sup>28</sup> kg<br />
         density: 1.093 g/cm<sup>3</sup>
         surface_gravity: 76.172 m/s<sup>2</sup><br />(7.767 g<sub>0</sub>)
         escape_velocity: 195.136 km/s<br />(702,491 km/h)
@@ -555,7 +566,7 @@ planets:
         radius: 462,941.4 km<br/>(72.664 Yrths)
         surface_area: 2.693 × 10<sup>12</sup> km<sup>2</sup><br/>(5280.035 Yrths)
         volume: 4.156 × 10<sup>17</sup> km<sup>3</sup><br/>(383667.618 Yrths)
-        mass: 9.188 × 10<sup>29</sup> kg<br />(487.5957484539562 Yrths)
+        mass: 9.188 × 10<sup>29</sup> kg<br />
         density: 2.211 g/cm<sup>3</sup>
         surface_gravity: 285.753 m/s<sup>2</sup><br />(29.139 g<sub>0</sub>)
         escape_velocity: 514.717 km/s<br />(1,852,981 km/h)
@@ -575,7 +586,7 @@ planets:
         radius: 220,077.3 km<br/>(34.544 Yrths)
         surface_area: 6.086 × 10<sup>11</sup> km<sup>2</sup><br/>(1193.261 Yrths)
         volume: 4.465 × 10<sup>16</sup> km<sup>3</sup><br/>(41219.529 Yrths)
-        mass: 7.716 × 10<sup>28</sup> kg<br />(487.5957484539562 Yrths)
+        mass: 7.716 × 10<sup>28</sup> kg<br />
         density: 1.728 g/cm<sup>3</sup>
         surface_gravity: 106.180 m/s<sup>2</sup><br />(10.827 g<sub>0</sub>)
         escape_velocity: 216.331 km/s<br />(778,791 km/h)
@@ -595,7 +606,7 @@ planets:
         radius: 217,075.0 km<br/>(34.072 Yrths)
         surface_area: 5.921 × 10<sup>11</sup> km<sup>2</sup><br/>(1160.926 Yrths)
         volume: 4.285 × 10<sup>16</sup> km<sup>3</sup><br/>(39555.495 Yrths)
-        mass: 1.080 × 10<sup>29</sup> kg<br />(487.5957484539562 Yrths)
+        mass: 1.080 × 10<sup>29</sup> kg<br />
         density: 2.520 g/cm<sup>3</sup>
         surface_gravity: 152.757 m/s<sup>2</sup><br />(15.577 g<sub>0</sub>)
         escape_velocity: 257.700 km/s<br />(927,721 km/h)
@@ -615,7 +626,7 @@ planets:
         radius: 231,696.7 km<br/>(36.367 Yrths)
         surface_area: 6.746 × 10<sup>11</sup> km<sup>2</sup><br/>(1322.588 Yrths)
         volume: 5.210 × 10<sup>16</sup> km<sup>3</sup><br/>(48099.092 Yrths)
-        mass: 7.847 × 10<sup>28</sup> kg<br />(487.5957484539562 Yrths)
+        mass: 7.847 × 10<sup>28</sup> kg<br />
         density: 1.506 g/cm<sup>3</sup>
         surface_gravity: 97.431 m/s<sup>2</sup><br />(9.935 g<sub>0</sub>)
         escape_velocity: 212.627 km/s<br />(765,456 km/h)
@@ -635,7 +646,7 @@ planets:
         radius: 294,916.3 km<br/>(46.290 Yrths)
         surface_area: 1.093 × 10<sup>12</sup> km<sup>2</sup><br/>(2142.803 Yrths)
         volume: 1.074 × 10<sup>17</sup> km<sup>3</sup><br/>(99191.284 Yrths)
-        mass: 7.521 × 10<sup>28</sup> kg<br />(487.5957484539562 Yrths)
+        mass: 7.521 × 10<sup>28</sup> kg<br />
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 57.637 m/s<sup>2</sup><br />(5.877 g<sub>0</sub>)
         escape_velocity: 184.506 km/s<br />(664,221 km/h)
@@ -655,7 +666,7 @@ planets:
         radius: 316,820.2 km<br/>(49.728 Yrths)
         surface_area: 1.261 × 10<sup>12</sup> km<sup>2</sup><br/>(2472.922 Yrths)
         volume: 1.332 × 10<sup>17</sup> km<sup>3</sup><br/>(122974.665 Yrths)
-        mass: 2.578 × 10<sup>29</sup> kg<br />(487.5957484539562 Yrths)
+        mass: 2.578 × 10<sup>29</sup> kg<br />
         density: 1.935 g/cm<sup>3</sup>
         surface_gravity: 171.202 m/s<sup>2</sup><br />(17.458 g<sub>0</sub>)
         escape_velocity: 329.588 km/s<br />(1,186,516 km/h)
@@ -700,7 +711,7 @@ planets:
         radius: 880.0 km<br/>(0.138 Yrths)
         surface_area: 9.731 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.854 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 2.299 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.299 × 10<sup>21</sup> kg<br />
         density: 0.805 g/cm<sup>3</sup>
         surface_gravity: 0.198 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.591 km/s<br />(2,126 km/h)
@@ -720,14 +731,14 @@ planets:
         radius: 599.4 km<br/>(0.094 Yrths)
         surface_area: 4.515 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.021 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.247 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.247 × 10<sup>21</sup> kg<br />
         density: 1.383 g/cm<sup>3</sup>
         surface_gravity: 0.231 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.527 km/s<br />(1,897 km/h)
         rotation_period: 51.316 d
         axial_tilt: 27.84°
         albedo: 0.30
-        temperature: 1408 K<br />(1134 °C)
+        temperature: 1407 K<br />(1134 °C)
       - name: 6746 Atchianniad VI c
         type: Icy
         formationType: Impact formed
@@ -740,14 +751,14 @@ planets:
         radius: 344.6 km<br/>(0.054 Yrths)
         surface_area: 1.492 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.714 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.911 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.911 × 10<sup>20</sup> kg<br />
         density: 1.699 g/cm<sup>3</sup>
         surface_gravity: 0.163 m/s<sup>2</sup><br />(0.017 g<sub>0</sub>)
         escape_velocity: 0.336 km/s<br />(1,209 km/h)
         rotation_period: 41.326 d
         axial_tilt: 10.77°
         albedo: 0.30
-        temperature: 1342 K<br />(1069 °C)
+        temperature: 1342 K<br />(1068 °C)
       - name: 6746 Atchianniad VI d
         type: Icy
         formationType: Impact formed
@@ -760,14 +771,14 @@ planets:
         radius: 682.0 km<br/>(0.107 Yrths)
         surface_area: 5.845 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.329 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.758 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.758 × 10<sup>21</sup> kg<br />
         density: 1.323 g/cm<sup>3</sup>
         surface_gravity: 0.252 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.587 km/s<br />(2,112 km/h)
         rotation_period: 73.123 d
         axial_tilt: 12.11°
         albedo: 0.30
-        temperature: 1280 K<br />(1007 °C)
+        temperature: 1279 K<br />(1006 °C)
       - name: 6746 Atchianniad VI e
         type: Icy
         formationType: Accreted
@@ -780,14 +791,14 @@ planets:
         radius: 527.9 km<br/>(0.083 Yrths)
         surface_area: 3.501 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.161 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 7.577 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 7.577 × 10<sup>20</sup> kg<br />
         density: 1.230 g/cm<sup>3</sup>
         surface_gravity: 0.181 m/s<sup>2</sup><br />(0.018 g<sub>0</sub>)
         escape_velocity: 0.438 km/s<br />(1,576 km/h)
         rotation_period: 76.671 d
         axial_tilt: 13.05°
         albedo: 0.30
-        temperature: 1220 K<br />(947 °C)
+        temperature: 1220 K<br />(946 °C)
       - name: 6746 Atchianniad VI f
         type: Icy
         formationType: Impact formed
@@ -800,7 +811,7 @@ planets:
         radius: 494.7 km<br/>(0.078 Yrths)
         surface_area: 3.076 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.072 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.748 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.748 × 10<sup>20</sup> kg<br />
         density: 0.936 g/cm<sup>3</sup>
         surface_gravity: 0.129 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.358 km/s<br />(1,288 km/h)
@@ -820,14 +831,14 @@ planets:
         radius: 342.7 km<br/>(0.054 Yrths)
         surface_area: 1.476 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.686 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.877 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.877 × 10<sup>20</sup> kg<br />
         density: 2.300 g/cm<sup>3</sup>
         surface_gravity: 0.220 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.389 km/s<br />(1,399 km/h)
         rotation_period: 34.622 d
         axial_tilt: 7.94°
         albedo: 0.30
-        temperature: 1058 K<br />(784 °C)
+        temperature: 1057 K<br />(784 °C)
       - name: 6746 Atchianniad VI h
         type: Asteroid
         formationType: Captured
@@ -840,7 +851,7 @@ planets:
         radius: 547.5 km<br/>(0.086 Yrths)
         surface_area: 3.767 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.876 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.413 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.413 × 10<sup>21</sup> kg<br />
         density: 2.054 g/cm<sup>3</sup>
         surface_gravity: 0.314 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.587 km/s<br />(2,113 km/h)
@@ -860,14 +871,14 @@ planets:
         radius: 599.3 km<br/>(0.094 Yrths)
         surface_area: 4.513 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.015 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.882 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.882 × 10<sup>21</sup> kg<br />
         density: 2.088 g/cm<sup>3</sup>
         surface_gravity: 0.349 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.648 km/s<br />(2,331 km/h)
         rotation_period: 49.081 d
         axial_tilt: 27.42°
         albedo: 0.30
-        temperature: 917 K<br />(644 °C)
+        temperature: 916 K<br />(643 °C)
       - name: 6746 Atchianniad VI j
         type: Icy
         formationType: Impact formed
@@ -880,7 +891,7 @@ planets:
         radius: 633.5 km<br/>(0.099 Yrths)
         surface_area: 5.043 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.065 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.125 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.125 × 10<sup>21</sup> kg<br />
         density: 1.057 g/cm<sup>3</sup>
         surface_gravity: 0.187 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.487 km/s<br />(1,753 km/h)
