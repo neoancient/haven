@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 9658 Dialkeshiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      9658 Dialkeshiad A is a star in the constellation Dialkes
+distance: 454.68 ly
+apparent_magnitude: 7.85
+absolute_magnitude: 2.12
+spectral_class: A3V
+equatorial: |
+  RA: 15<sup>h</sup> 03<sup>m</sup> 22.55<sup>s</sup><br />Dec: -15° 23' 23.42"
+rectangular: 436.80N -75.59W -101.12R
+radius: 1.053 × 10<sup>06</sup> km<br />(1.513 R<sub>☉</sub>)
+mass: 3.502 × 10<sup>30</sup> kg<br />(1.761 M<sub>☉</sub>)
+luminosity: 5.168 × 10<sup>27</sup> W<br />(13.492 L<sub>☉</sub>)
+age: 203.9 Myr
+temperature: 8,995 K
+---

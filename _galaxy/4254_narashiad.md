@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 4254 Narashiad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      4254 Narashiad is a star in the constellation Naras
+distance: 495.07 ly
+apparent_magnitude: 10.99
+absolute_magnitude: 5.08
+spectral_class: F8V
+equatorial: |
+  RA: 15<sup>h</sup> 40<sup>m</sup> 45.34<sup>s</sup><br />Dec: -32° 03' 42.04"
+rectangular: 464.93N -53.68W -161.42R
+radius: 5.458 × 10<sup>05</sup> km<br />(0.785 R<sub>☉</sub>)
+mass: 2.133 × 10<sup>30</sup> kg<br />(1.073 M<sub>☉</sub>)
+luminosity: 3.262 × 10<sup>26</sup> W<br />(0.852 L<sub>☉</sub>)
+age: 3.5 Gyr
+temperature: 6,261 K
+---

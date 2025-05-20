@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 1838 Arniad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      1838 Arniad A is a star in the constellation Arni
+distance: 233.51 ly
+apparent_magnitude: 9.31
+absolute_magnitude: 5.03
+spectral_class: F9V
+equatorial: |
+  RA: 12<sup>h</sup> 31<sup>m</sup> 1.20<sup>s</sup><br />Dec: -69° 46' 24.39"
+rectangular: 120.81N 24.26E -198.35R
+radius: 5.774 × 10<sup>05</sup> km<br />(0.830 R<sub>☉</sub>)
+mass: 2.238 × 10<sup>30</sup> kg<br />(1.126 M<sub>☉</sub>)
+luminosity: 3.452 × 10<sup>26</sup> W<br />(0.901 L<sub>☉</sub>)
+age: 800.7 Myr
+temperature: 6,174 K
+---

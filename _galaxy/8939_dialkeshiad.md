@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 8939 Dialkeshiad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      8939 Dialkeshiad is a star in the constellation Dialkes
+distance: 1054.28 ly
+apparent_magnitude: 15.35
+absolute_magnitude: 7.80
+spectral_class: M4III
+equatorial: |
+  RA: 16<sup>h</sup> 04<sup>m</sup> 39.37<sup>s</sup><br />Dec: -18° 16' 12.40"
+rectangular: 1049.04N -44.03W -95.35R
+radius: 1.649 × 10<sup>06</sup> km<br />(2.370 R<sub>☉</sub>)
+mass: 3.724 × 10<sup>30</sup> kg<br />(1.873 M<sub>☉</sub>)
+luminosity: 1.784 × 10<sup>26</sup> W<br />(0.466 L<sub>☉</sub>)
+age: 9.5 Gyr
+temperature: 3,098 K
+---

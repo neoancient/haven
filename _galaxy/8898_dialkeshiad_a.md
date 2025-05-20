@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 8898 Dialkeshiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      8898 Dialkeshiad A is a star in the constellation Dialkes
+distance: 498.90 ly
+apparent_magnitude: 8.28
+absolute_magnitude: 2.35
+spectral_class: A5V
+equatorial: |
+  RA: 14<sup>h</sup> 32<sup>m</sup> 0.89<sup>s</sup><br />Dec: -26° 49' 27.33"
+rectangular: 428.31N -131.29W -219.57R
+radius: 1.040 × 10<sup>06</sup> km<br />(1.494 R<sub>☉</sub>)
+mass: 3.311 × 10<sup>30</sup> kg<br />(1.665 M<sub>☉</sub>)
+luminosity: 3.958 × 10<sup>27</sup> W<br />(10.333 L<sub>☉</sub>)
+age: 203.9 Myr
+temperature: 8,466 K
+---

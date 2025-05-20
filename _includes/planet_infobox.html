@@ -1,98 +1,123 @@
 <div class="infobox">
     <table>
+        <tr>
+            <td class="infobox-label">Type</td>
+            <td class="infobox-data">{{ include.planet.type }}</td>
+        </tr>
         <th colspan="2" class="infobox-header">Orbital characteristics</th>
         <tr>
             <td class="infobox-label">Aphelion</td>
-            <td class="infobox-data">{{ page.aphelion }}</td>
+            <td class="infobox-data">{{ include.planet.aphelion }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Perihelion</td>
-            <td class="infobox-data">{{ page.perihelion }}</td>
+            <td class="infobox-data">{{ include.planet.perihelion }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Semi-major axis</td>
-            <td class="infobox-data">{{ page.volume }}</td>
+            <td class="infobox-data">{{ include.planet.volume }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Eccentricity</td>
-            <td class="infobox-data">{{ page.eccentricity }}</td>
+            <td class="infobox-data">{{ include.planet.eccentricity }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Orbital period</td>
-            <td class="infobox-data">{{ page.orbital_period }}</td>
+            <td class="infobox-data">{{ include.planet.orbital_period }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Inclination</td>
-            <td class="infobox-data">{{ page.inclination }}</td>
+            <td class="infobox-data">{{ include.planet.inclination }}</td>
         </tr>
+        {% if include.planet.rings %}
         <tr>
-            <td class="infobox-label">Major satellites</td>
+            <td class="infobox-label">Ring system</td>
             <td class="infobox-data">
-                {% if page.major_satellites %}
-                    {% for moon in page.major_satellites %}
-                        {{ moon }}<br />
-                    {% endfor %}
-                {% else %}
-                    None
-                {% endif %}
+                Inner radius: {{ include.planet.rings.innerRadius }}<br />
+                Width: {{ include.planet.rings.width }}<br />
+                Density: {{ include.planet.rings.density }}<br />
             </td>
         </tr>
+        {% endif %}
         <th colspan="2" class="infobox-header">Physical characteristics</th>
         <tr>
             <td class="infobox-label">Mean radius</td>
-            <td class="infobox-data">{{ page.radius }}</td>
+            <td class="infobox-data">{{ include.planet.radius }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Surface area</td>
-            <td class="infobox-data">{{ page.surface_area }}</td>
+            <td class="infobox-data">{{ include.planet.surface_area }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Volume</td>
-            <td class="infobox-data">{{ page.volume }}</td>
+            <td class="infobox-data">{{ include.planet.volume }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Mass</td>
-            <td class="infobox-data">{{ page.mass }}</td>
+            <td class="infobox-data">{{ include.planet.mass }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Mean density</td>
-            <td class="infobox-data">{{ page.density }}</td>
+            <td class="infobox-data">{{ include.planet.density }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Surface gravity</td>
-            <td class="infobox-data">{{ page.surface_gravity }}</td>
+            <td class="infobox-data">{{ include.planet.surface_gravity }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Escape velocity</td>
-            <td class="infobox-data">{{ page.escape_velocity }}</td>
+            <td class="infobox-data">{{ include.planet.escape_velocity }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Synodic rotation period</td>
-            <td class="infobox-data">{{ page.rotation_period }}</td>
+            <td class="infobox-data">{{ include.planet.rotation_period }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Axial tilt</td>
-            <td class="infobox-data">{{ page.axial_tilt }}</td>
+            <td class="infobox-data">{{ include.planet.axial_tilt }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Bond albedo</td>
-            <td class="infobox-data">{{ page.albedo }}</td>
+            <td class="infobox-data">{{ include.planet.albedo }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Average surface temperature</td>
-            <td class="infobox-data">{{ page.temperature }}</td>
+            <td class="infobox-data">{{ include.planet.temperature }}</td>
         </tr>
         <th colspan="2" class="infobox-header">Atmosphere</th>
+        {% if include.planet.surface_pressure %}
         <tr>
             <td class="infobox-label">Surface pressure</td>
-            <td class="infobox-data">{{ page.surface_pressure }}</td>
+            <td class="infobox-data">{{ include.planet.surface_pressure }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Composition by volume</td>
             <td class="infobox-data">
-            {% for component in page.composition %}
+            {% for component in include.planet.composition %}
             {{ component }}<br />
             {% endfor %}
+            </td>
+        </tr>
+        {% else %}
+        <tr>
+            <td colspan="2" class="infobox-label">None</td>
+        </tr>
+        {% endif %}
+        <tr>
+            <td class="infobox-label">Major satellites</td>
+            <td class="infobox-data">
+                {% if include.planet.moons %}
+                <table>
+                    {% for moon in include.planet.moons %}
+                    <tr>
+                        <td class="infobox-label">{{ moon.name }}</td>
+                        <td>{% include moon_infobox.html moon=moon %}</td>
+                    </tr>
+                {% endfor %}
+                </table>
+            {% else %}
+            None
+            {% endif %}
             </td>
         </tr>
     </table>

@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 767 Oniad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      767 Oniad is a star in the constellation Oni
+distance: 1063.55 ly
+apparent_magnitude: 9.91
+absolute_magnitude: 2.34
+spectral_class: A5V
+equatorial: |
+  RA: 15<sup>h</sup> 45<sup>m</sup> 34.29<sup>s</sup><br />Dec: -72° 10' 37.20"
+rectangular: 758.11N 176.50E -724.75R
+radius: 1.004 × 10<sup>06</sup> km<br />(1.444 R<sub>☉</sub>)
+mass: 3.333 × 10<sup>30</sup> kg<br />(1.676 M<sub>☉</sub>)
+luminosity: 3.991 × 10<sup>27</sup> W<br />(10.420 L<sub>☉</sub>)
+age: 1.1 Gyr
+temperature: 8,632 K
+---

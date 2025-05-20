@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 2552 Lunaiad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      2552 Lunaiad is a star in the constellation Luna
+distance: 897.74 ly
+apparent_magnitude: 11.83
+absolute_magnitude: 4.64
+spectral_class: F3V
+equatorial: |
+  RA: 9<sup>h</sup> 32<sup>m</sup> 58.47<sup>s</sup><br />Dec: -60° 07' 11.04"
+rectangular: 163.48N 95.42E -877.55R
+radius: 5.463 × 10<sup>05</sup> km<br />(0.785 R<sub>☉</sub>)
+mass: 2.511 × 10<sup>30</sup> kg<br />(1.263 M<sub>☉</sub>)
+luminosity: 4.704 × 10<sup>26</sup> W<br />(1.228 L<sub>☉</sub>)
+age: 3.5 Gyr
+temperature: 6,858 K
+---

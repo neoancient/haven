@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 1531 Lunaiad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      1531 Lunaiad is a star in the constellation Luna
+distance: 216.05 ly
+apparent_magnitude: 9.05
+absolute_magnitude: 4.95
+spectral_class: F6V
+equatorial: |
+  RA: 9<sup>h</sup> 07<sup>m</sup> 57.25<sup>s</sup><br />Dec: -65° 06' 52.47"
+rectangular: 45.26N 43.00E -206.84R
+radius: 5.304 × 10<sup>05</sup> km<br />(0.762 R<sub>☉</sub>)
+mass: 2.357 × 10<sup>30</sup> kg<br />(1.185 M<sub>☉</sub>)
+luminosity: 3.626 × 10<sup>26</sup> W<br />(0.947 L<sub>☉</sub>)
+age: 3.5 Gyr
+temperature: 6,522 K
+---

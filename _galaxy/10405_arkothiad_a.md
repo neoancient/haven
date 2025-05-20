@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 10405 Arkothiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      10405 Arkothiad A is a star in the constellation Arkoth
+distance: 272.06 ly
+apparent_magnitude: 7.93
+absolute_magnitude: 3.32
+spectral_class: A8V
+equatorial: |
+  RA: 15<sup>h</sup> 09<sup>m</sup> 22.84<sup>s</sup><br />Dec: -49° 30' 48.61"
+rectangular: 222.02N -20.36W -155.91R
+radius: 7.774 × 10<sup>05</sup> km<br />(1.118 R<sub>☉</sub>)
+mass: 2.913 × 10<sup>30</sup> kg<br />(1.465 M<sub>☉</sub>)
+luminosity: 1.492 × 10<sup>27</sup> W<br />(3.897 L<sub>☉</sub>)
+age: 203.9 Myr
+temperature: 7,672 K
+---

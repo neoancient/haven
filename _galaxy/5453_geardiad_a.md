@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 5453 Geardiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      5453 Geardiad A is a star in the constellation Geard
+distance: 286.02 ly
+apparent_magnitude: 8.07
+absolute_magnitude: 3.36
+spectral_class: A7V
+equatorial: |
+  RA: 14<sup>h</sup> 53<sup>m</sup> 22.39<sup>s</sup><br />Dec: 2° 08' 2.71"
+rectangular: 285.76N -9.43W -7.49R
+radius: 7.324 × 10<sup>05</sup> km<br />(1.053 R<sub>☉</sub>)
+mass: 2.927 × 10<sup>30</sup> kg<br />(1.472 M<sub>☉</sub>)
+luminosity: 1.488 × 10<sup>27</sup> W<br />(3.886 L<sub>☉</sub>)
+age: 203.9 Myr
+temperature: 7,899 K
+---

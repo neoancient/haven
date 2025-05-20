@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 5040 Athiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      5040 Athiad A is a star in the constellation Ath
+distance: 276.70 ly
+apparent_magnitude: 8.43
+absolute_magnitude: 3.79
+spectral_class: K1III
+equatorial: |
+  RA: 14<sup>h</sup> 07<sup>m</sup> 32.44<sup>s</sup><br />Dec: -55° 21' 19.10"
+rectangular: 191.07N -20.65W -199.08R
+radius: 1.745 × 10<sup>06</sup> km<br />(2.508 R<sub>☉</sub>)
+mass: 1.972 × 10<sup>30</sup> kg<br />(0.992 M<sub>☉</sub>)
+luminosity: 1.597 × 10<sup>27</sup> W<br />(4.171 L<sub>☉</sub>)
+age: 4.1 Gyr
+temperature: 5,209 K
+---

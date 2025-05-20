@@ -31,32 +31,12 @@
             <td class="infobox-data">{{ page.radius }}</td>
         </tr>
         <tr>
-            <td class="infobox-label">Surface area</td>
-            <td class="infobox-data">{{ page.surface_area }}</td>
-        </tr>
-        <tr>
-            <td class="infobox-label">Volume</td>
-            <td class="infobox-data">{{ page.volume }}</td>
-        </tr>
-        <tr>
             <td class="infobox-label">Mass</td>
             <td class="infobox-data">{{ page.mass }}</td>
         </tr>
         <tr>
-            <td class="infobox-label">Mean density</td>
-            <td class="infobox-data">{{ page.density }}</td>
-        </tr>
-        <tr>
             <td class="infobox-label">Age</td>
             <td class="infobox-data">{{ page.age }}</td>
-        </tr>
-        <tr>
-            <td class="infobox-label">Equatorial surface gravity</td>
-            <td class="infobox-data">{{ page.surface_gravity }}</td>
-        </tr>
-        <tr>
-            <td class="infobox-label">Surface escape velocity</td>
-            <td class="infobox-data">{{ page.escape_velocity }}</td>
         </tr>
         <tr>
             <td class="infobox-label">Photosphere temperature</td>
@@ -66,17 +46,16 @@
             <td class="infobox-label">Luminosity</td>
             <td class="infobox-data">{{ page.luminosity }}</td>
         </tr>
+        {% if page.planets %}
+        <th colspan="2" class="infobox-header">Planets</th>
+        {% for planet in page.planets %}
         <tr>
-            <td class="infobox-label">Known planets</td>
-            <td class="infobox-data">
-                {% if page.planets %}
-                  {% for planet in page.planets %}
-                    {{ planet }}<br />
-                  {% endfor %}
-                {% else %}
-                    None
-                {% endif %}
+            <td class="infobox-label">{{ planet.name }}</td>
+            <td class="planet-data">
+                {% include planet_infobox.html planet=planet %}
             </td>
         </tr>
+        {% endfor %}
+        {% endif %}
     </table>
 </div>

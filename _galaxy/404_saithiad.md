@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 404 Saithiad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      404 Saithiad is a star in the constellation Saith
+distance: 2132.05 ly
+apparent_magnitude: 18.02
+absolute_magnitude: 8.94
+spectral_class: M6III
+equatorial: |
+  RA: 11<sup>h</sup> 30<sup>m</sup> 31.11<sup>s</sup><br />Dec: -62° 05' 45.37"
+rectangular: 854.20N 23.74E -1953.31R
+radius: 1.517 × 10<sup>06</sup> km<br />(2.180 R<sub>☉</sub>)
+mass: 2.972 × 10<sup>30</sup> kg<br />(1.495 M<sub>☉</sub>)
+luminosity: 9.869 × 10<sup>25</sup> W<br />(0.258 L<sub>☉</sub>)
+age: 9.5 Gyr
+temperature: 2,785 K
+---
