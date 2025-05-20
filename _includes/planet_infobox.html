@@ -103,20 +103,22 @@
             <td colspan="2" class="infobox-label">None</td>
         </tr>
         {% endif %}
-    </table>
-    <tr>
-        <td class="infobox-label">Major satellites</td>
-        <td class="infobox-data">
-            {% if include.planet.moons %}
-            {% for moon in include.planet.moons %}
-            <tr>
-                <td class="infobox-label">{{ moon.name }}</td>
-                <td>{% include moon_infobox.html moon=moon %}</td>
-            </tr>
-            {% endfor %}
+        <tr>
+            <td class="infobox-label">Major satellites</td>
+            <td class="infobox-data">
+                {% if include.planet.moons %}
+                <table>
+                    {% for moon in include.planet.moons %}
+                    <tr>
+                        <td class="infobox-label">{{ moon.name }}</td>
+                        <td>{% include moon_infobox.html moon=moon %}</td>
+                    </tr>
+                {% endfor %}
+                </table>
             {% else %}
             None
             {% endif %}
-        </td>
-    </tr>
+            </td>
+        </tr>
+    </table>
 </div>
