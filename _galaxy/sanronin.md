@@ -26,14 +26,15 @@ planet:
   rotation_period: 1.026 d
   axial_tilt: 25.19°
   albedo: 0.25
-  temperature: 276 K<br />(3 °C)
-  surface_pressure: 1 kPa<br />(0 atm)
+  temperature: 230 K<br />(-44 °C)
+  surface_pressure: 193 kPa<br />(2 atm)
   composition:
-    - 95.5963% carbon dioxide
-    - 2.7084% nitrogen
-    - 1.6050% argon
-    - 0.0602% carbon monoxide
-    - 0.0301% water vapor
+    - 77.3778% nitrogen
+    - 20.7170% oxygen
+    - 1.7552% argon
+    - 0.1200% carbon dioxide
+    - 0.0300% water vapor
+    - 0.0001% carbon monoxide
   moons:
     - name: <a href="fabran.html">Fabran</a>
       type: Asteroid
@@ -47,14 +48,14 @@ planet:
       radius: 11.1 km<br/>(0.002 Yrths)
       surface_area: 1.540 × 10<sup>03</sup> km<sup>2</sup><br/>(0.000 Yrths)
       volume: 5.682 × 10<sup>03</sup> km<sup>3</sup><br/>(0.000 Yrths)
-      mass: 1.066 × 10<sup>16</sup> kg<br />(0.10745311453449431 Yrths)
+      mass: 1.066 × 10<sup>16</sup> kg<br />
       density: 1.876 g/cm<sup>3</sup>
       surface_gravity: 0.006 m/s<sup>2</sup><br />(0.001 g<sub>0</sub>)
       escape_velocity: 0.011 km/s<br />(41 km/h)
       rotation_period: 0.319 d
       axial_tilt: 0.00°
       albedo: 0.07
-      temperature: 45378 K<br />(45105 °C)
+      temperature: 34520 K<br />(34247 °C)
     - name: <a href="donfi.html">Donfi</a>
       type: Asteroid
       formationType: Captured
@@ -67,12 +68,12 @@ planet:
       radius: 6.2 km<br/>(0.001 Yrths)
       surface_area: 4.847 × 10<sup>02</sup> km<sup>2</sup><br/>(0.000 Yrths)
       volume: 1.004 × 10<sup>03</sup> km<sup>3</sup><br/>(0.000 Yrths)
-      mass: 1.476 × 10<sup>15</sup> kg<br />(0.10745311453449431 Yrths)
+      mass: 1.476 × 10<sup>15</sup> kg<br />
       density: 1.471 g/cm<sup>3</sup>
       surface_gravity: 0.003 m/s<sup>2</sup><br />(0.000 g<sub>0</sub>)
       escape_velocity: 0.006 km/s<br />(20 km/h)
       rotation_period: 1.263 d
       axial_tilt: 0.00°
       albedo: 0.07
-      temperature: 28709 K<br />(28436 °C)
+      temperature: 21839 K<br />(21566 °C)
 ---
