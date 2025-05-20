@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 79759 Arkothiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      79759 Arkothiad A is a star in the constellation Arkoth
+distance: 457.97 ly
+apparent_magnitude: 7.58
+absolute_magnitude: 1.84
+spectral_class: B9V
+equatorial: |
+  RA: 14<sup>h</sup> 54<sup>m</sup> 6.10<sup>s</sup><br />Dec: -34° 31' 18.25"
+rectangular: 396.03N -85.63W -213.46R
+radius: 1.128 × 10<sup>06</sup> km<br />(1.621 R<sub>☉</sub>)
+mass: 4.144 × 10<sup>30</sup> kg<br />(2.084 M<sub>☉</sub>)
+luminosity: 9.397 × 10<sup>27</sup> W<br />(24.535 L<sub>☉</sub>)
+age: 36.8 Myr
+temperature: 10,091 K
+---

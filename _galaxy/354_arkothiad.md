@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 354 Arkothiad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      354 Arkothiad is a star in the constellation Arkoth
+distance: 1338.13 ly
+apparent_magnitude: 17.87
+absolute_magnitude: 9.81
+spectral_class: M7III
+equatorial: |
+  RA: 15<sup>h</sup> 08<sup>m</sup> 52.79<sup>s</sup><br />Dec: -52° 20' 23.29"
+rectangular: 1071.28N -70.48W -798.74R
+radius: 1.224 × 10<sup>06</sup> km<br />(1.759 R<sub>☉</sub>)
+mass: 2.402 × 10<sup>30</sup> kg<br />(1.208 M<sub>☉</sub>)
+luminosity: 5.547 × 10<sup>25</sup> W<br />(0.145 L<sub>☉</sub>)
+age: 9.5 Gyr
+temperature: 2,685 K
+---

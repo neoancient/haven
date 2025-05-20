@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 1714 Oniad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      1714 Oniad A is a star in the constellation Oni
+distance: 1061.94 ly
+apparent_magnitude: 6.79
+absolute_magnitude: -0.77
+spectral_class: B8V
+equatorial: |
+  RA: 15<sup>h</sup> 08<sup>m</sup> 36.60<sup>s</sup><br />Dec: -79° 18' 44.32"
+rectangular: 671.83N 256.36E -781.43R
+radius: 2.963 × 10<sup>06</sup> km<br />(4.259 R<sub>☉</sub>)
+mass: 4.462 × 10<sup>30</sup> kg<br />(2.244 M<sub>☉</sub>)
+luminosity: 1.282 × 10<sup>29</sup> W<br />(334.821 L<sub>☉</sub>)
+age: 36.8 Myr
+temperature: 11,966 K
+---

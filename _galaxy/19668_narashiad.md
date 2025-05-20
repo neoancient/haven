@@ -1,0 +1,208 @@
+---
+layout: galaxy
+category: star
+title: 19668 Narashiad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      19668 Narashiad is a star in the constellation Naras
+distance: 408.90 ly
+apparent_magnitude: 8.04
+absolute_magnitude: 2.54
+spectral_class: F8III
+equatorial: |
+  RA: 15<sup>h</sup> 30<sup>m</sup> 42.37<sup>s</sup><br />Dec: -42° 09' 47.51"
+rectangular: 360.74N -38.63W -188.61R
+radius: 1.765 × 10<sup>06</sup> km<br />(2.536 R<sub>☉</sub>)
+mass: 2.522 × 10<sup>30</sup> kg<br />(1.268 M<sub>☉</sub>)
+luminosity: 3.350 × 10<sup>27</sup> W<br />(8.747 L<sub>☉</sub>)
+age: 3.1 Gyr
+temperature: 6,234 K
+planets:
+  - name: 19668 Narashiad I
+    type: Gas giant
+    aphelion: 316,955,895 km<br />2.119 AU
+    perihelion: 288,121,679 km<br />1.926 AU
+    semi_major_axis: 302,538,787 km<br />2.022 AU
+    eccentricity: 0.048
+    orbital_period: 932.74 d<br />2.554 y
+    inclination: 37.64°
+    radius: 111.8 km<br/>(0.018 Yrths)
+    surface_area: 1.571 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
+    volume: 5.855 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
+    mass: 9.151 × 10<sup>25</sup> kg<br />(15.323353953290713 Yrths)
+    density: 15630101.576 g/cm<sup>3</sup>
+    surface_gravity: 487911.331 m/s<sup>2</sup><br />(49753.109 g<sub>0</sub>)
+    escape_velocity: 330.535 km/s<br />(1,189,926 km/h)
+    rotation_period: 0.317 d
+    axial_tilt: 0.00°
+    albedo: 0.40
+    temperature: 296 K<br />(23 °C)
+    moons:
+      - name: 19668 Narashiad I a
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 7,391,214 km<br />
+        perihelion: 6,142,093 km<br />
+        semi_major_axis: 6,766,654 km<br />
+        eccentricity: 0.092
+        orbital_period: 0.04 d<br />
+        inclination: 2.66°
+        radius: 36,850.1 km<br/>(5.784 Yrths)
+        surface_area: 1.706 × 10<sup>10</sup> km<sup>2</sup><br/>(33.455 Yrths)
+        volume: 2.096 × 10<sup>14</sup> km<sup>3</sup><br/>(193.505 Yrths)
+        mass: 3.354 × 10<sup>26</sup> kg<br />(15.323353953290713 Yrths)
+        density: 1.600 g/cm<sup>3</sup>
+        surface_gravity: 16.461 m/s<sup>2</sup><br />(1.679 g<sub>0</sub>)
+        escape_velocity: 34.855 km/s<br />(125,477 km/h)
+        rotation_period: 42.451 d
+        axial_tilt: 28.63°
+        albedo: 0.30
+        temperature: 2059 K<br />(1786 °C)
+      - name: 19668 Narashiad I b
+        type: Icy
+        formationType: Accreted
+        aphelion: 29,560,931 km<br />
+        perihelion: 26,971,053 km<br />
+        semi_major_axis: 28,265,992 km<br />
+        eccentricity: 0.046
+        orbital_period: 0.04 d<br />
+        inclination: 0.72°
+        radius: 55,299.0 km<br/>(8.680 Yrths)
+        surface_area: 3.843 × 10<sup>10</sup> km<sup>2</sup><br/>(75.339 Yrths)
+        volume: 7.083 × 10<sup>14</sup> km<sup>3</sup><br/>(653.928 Yrths)
+        mass: 4.958 × 10<sup>26</sup> kg<br />(15.323353953290713 Yrths)
+        density: 0.700 g/cm<sup>3</sup>
+        surface_gravity: 10.807 m/s<sup>2</sup><br />(1.102 g<sub>0</sub>)
+        escape_velocity: 34.596 km/s<br />(124,546 km/h)
+        rotation_period: 77.322 d
+        axial_tilt: 19.40°
+        albedo: 0.30
+        temperature: 1007 K<br />(734 °C)
+      - name: 19668 Narashiad I c
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 31,681,525 km<br />
+        perihelion: 30,503,657 km<br />
+        semi_major_axis: 31,092,591 km<br />
+        eccentricity: 0.019
+        orbital_period: 0.04 d<br />
+        inclination: 0.33°
+        radius: 31,949.2 km<br/>(5.015 Yrths)
+        surface_area: 1.283 × 10<sup>10</sup> km<sup>2</sup><br/>(25.148 Yrths)
+        volume: 1.366 × 10<sup>14</sup> km<sup>3</sup><br/>(126.112 Yrths)
+        mass: 2.870 × 10<sup>26</sup> kg<br />(15.323353953290713 Yrths)
+        density: 2.101 g/cm<sup>3</sup>
+        surface_gravity: 18.739 m/s<sup>2</sup><br />(1.911 g<sub>0</sub>)
+        escape_velocity: 34.627 km/s<br />(124,657 km/h)
+        rotation_period: 61.095 d
+        axial_tilt: 28.49°
+        albedo: 0.30
+        temperature: 960 K<br />(687 °C)
+      - name: 19668 Narashiad I d
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 64,221,880 km<br />
+        perihelion: 56,959,449 km<br />
+        semi_major_axis: 60,590,664 km<br />
+        eccentricity: 0.060
+        orbital_period: 0.04 d<br />
+        inclination: 2.66°
+        radius: 32,821.8 km<br/>(5.152 Yrths)
+        surface_area: 1.354 × 10<sup>10</sup> km<sup>2</sup><br/>(26.540 Yrths)
+        volume: 1.481 × 10<sup>14</sup> km<sup>3</sup><br/>(136.730 Yrths)
+        mass: 3.830 × 10<sup>26</sup> kg<br />(15.323353953290713 Yrths)
+        density: 2.586 g/cm<sup>3</sup>
+        surface_gravity: 23.696 m/s<sup>2</sup><br />(2.416 g<sub>0</sub>)
+        escape_velocity: 39.467 km/s<br />(142,080 km/h)
+        rotation_period: 34.371 d
+        axial_tilt: 17.11°
+        albedo: 0.30
+        temperature: 688 K<br />(415 °C)
+      - name: 19668 Narashiad I e
+        type: Icy
+        formationType: Captured
+        aphelion: 80,998,329 km<br />
+        perihelion: 80,294,019 km<br />
+        semi_major_axis: 80,646,174 km<br />
+        eccentricity: 0.004
+        orbital_period: 0.04 d<br />
+        inclination: 3.45°
+        radius: 40,956.5 km<br/>(6.429 Yrths)
+        surface_area: 2.108 × 10<sup>10</sup> km<sup>2</sup><br/>(41.327 Yrths)
+        volume: 2.878 × 10<sup>14</sup> km<sup>3</sup><br/>(265.671 Yrths)
+        mass: 2.972 × 10<sup>26</sup> kg<br />(15.323353953290713 Yrths)
+        density: 1.033 g/cm<sup>3</sup>
+        surface_gravity: 11.809 m/s<sup>2</sup><br />(1.204 g<sub>0</sub>)
+        escape_velocity: 31.123 km/s<br />(112,043 km/h)
+        rotation_period: 52.134 d
+        axial_tilt: 17.31°
+        albedo: 0.30
+        temperature: 596 K<br />(323 °C)
+  - name: 19668 Narashiad II
+    type: Large terrestrial
+    aphelion: 621,641,346 km<br />4.155 AU
+    perihelion: 516,477,084 km<br />3.452 AU
+    semi_major_axis: 569,059,215 km<br />3.804 AU
+    eccentricity: 0.092
+    orbital_period: 2,406.17 d<br />6.588 y
+    inclination: 35.31°
+    radius: 12,093.9 km<br/>(1.898 Yrths)
+    surface_area: 1.838 × 10<sup>09</sup> km<sup>2</sup><br/>(3.603 Yrths)
+    volume: 7.409 × 10<sup>12</sup> km<sup>3</sup><br/>(6.840 Yrths)
+    mass: 5.700 × 10<sup>25</sup> kg<br />(9.544769779817923 Yrths)
+    density: 7.693 g/cm<sup>3</sup>
+    surface_gravity: 25.976 m/s<sup>2</sup><br />(2.649 g<sub>0</sub>)
+    escape_velocity: 25.083 km/s<br />(90,299 km/h)
+    rotation_period: 0.540 d
+    axial_tilt: 0.00°
+    albedo: 0.35
+    temperature: 321 K<br />(47 °C)
+    surface_pressure: 843 kPa<br />(8 atm)
+    composition:
+      - 95.5669% methane
+      - 3.3106% phosphine
+      - 1.1225% ammonia
+    moons:
+      - name: 19668 Narashiad II a
+        type: Asteroid
+        formationType: Captured
+        aphelion: 5,607,670 km<br />
+        perihelion: 5,548,165 km<br />
+        semi_major_axis: 5,577,918 km<br />
+        eccentricity: 0.005
+        orbital_period: 0.14 d<br />
+        inclination: 2.56°
+        radius: 7,462.5 km<br/>(1.171 Yrths)
+        surface_area: 6.998 × 10<sup>08</sup> km<sup>2</sup><br/>(1.372 Yrths)
+        volume: 1.741 × 10<sup>12</sup> km<sup>3</sup><br/>(1.607 Yrths)
+        mass: 3.728 × 10<sup>24</sup> kg<br />(9.544769779817923 Yrths)
+        density: 2.141 g/cm<sup>3</sup>
+        surface_gravity: 4.462 m/s<sup>2</sup><br />(0.455 g<sub>0</sub>)
+        escape_velocity: 8.166 km/s<br />(29,397 km/h)
+        rotation_period: 59.240 d
+        axial_tilt: 22.94°
+        albedo: 0.30
+        temperature: 2379 K<br />(2106 °C)
+      - name: 19668 Narashiad II b
+        type: Icy
+        formationType: Impact formed
+        aphelion: 6,498,124 km<br />
+        perihelion: 5,773,295 km<br />
+        semi_major_axis: 6,135,709 km<br />
+        eccentricity: 0.059
+        orbital_period: 0.14 d<br />
+        inclination: 0.85°
+        radius: 17,377.2 km<br/>(2.728 Yrths)
+        surface_area: 3.795 × 10<sup>09</sup> km<sup>2</sup><br/>(7.439 Yrths)
+        volume: 2.198 × 10<sup>13</sup> km<sup>3</sup><br/>(20.292 Yrths)
+        mass: 2.293 × 10<sup>25</sup> kg<br />(9.544769779817923 Yrths)
+        density: 1.043 g/cm<sup>3</sup>
+        surface_gravity: 5.061 m/s<sup>2</sup><br />(0.516 g<sub>0</sub>)
+        escape_velocity: 13.271 km/s<br />(47,777 km/h)
+        rotation_period: 53.513 d
+        axial_tilt: 26.70°
+        albedo: 0.30
+        temperature: 2268 K<br />(1995 °C)
+---

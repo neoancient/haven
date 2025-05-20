@@ -46,7 +46,8 @@ sections:
   - title: Key Worlds
     content: |-
       - [Yrth](/haven/galaxy/yrth.html)
-      - [Carnil](/haven/galaxy/carnil.html)
+      - [Sanronin](/haven/galaxy/sanronin.html)
+      - [Niriar](/haven/galaxy/niriar.html)
       - [Celestara](/haven/galaxy/celestara.html)
       - [Drakenhold](/haven/galaxy/drakenhold.html)
       - [Eldros](/haven/galaxy/eldros.html)
@@ -54,7 +55,6 @@ sections:
       - [Kaldrith](/haven/galaxy/kaldrith.html)
       - [Morvathis](/haven/galaxy/morvathis.html)
       - [Niraxis](/haven/galaxy/niraxis.html)
-      - [Orentil](/haven/galaxy/orentil.html)
       - [Varkana Prime](/haven/galaxy/varkana_prime.html)
       - [Velka's Rest](/haven/galaxy/velkas_rest.html)
 ---

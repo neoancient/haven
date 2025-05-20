@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 2030 Noniashad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      2030 Noniashad A is a star in the constellation Nonias
+distance: 453.77 ly
+apparent_magnitude: 8.00
+absolute_magnitude: 2.29
+spectral_class: A4V
+equatorial: |
+  RA: 16<sup>h</sup> 42<sup>m</sup> 7.98<sup>s</sup><br />Dec: -62° 13' 43.61"
+rectangular: 378.55N 45.47E -246.06R
+radius: 9.943 × 10<sup>05</sup> km<br />(1.429 R<sub>☉</sub>)
+mass: 3.372 × 10<sup>30</sup> kg<br />(1.696 M<sub>☉</sub>)
+luminosity: 4.327 × 10<sup>27</sup> W<br />(11.298 L<sub>☉</sub>)
+age: 203.9 Myr
+temperature: 8,853 K
+---

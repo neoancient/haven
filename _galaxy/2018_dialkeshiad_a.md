@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 2018 Dialkeshiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      2018 Dialkeshiad A is a star in the constellation Dialkes
+distance: 634.01 ly
+apparent_magnitude: 6.64
+absolute_magnitude: 0.20
+spectral_class: A6III
+equatorial: |
+  RA: 15<sup>h</sup> 49<sup>m</sup> 4.48<sup>s</sup><br />Dec: -26° 18' 42.30"
+rectangular: 613.40N -58.97W -149.09R
+radius: 2.916 × 10<sup>06</sup> km<br />(4.192 R<sub>☉</sub>)
+mass: 4.714 × 10<sup>30</sup> kg<br />(2.371 M<sub>☉</sub>)
+luminosity: 2.697 × 10<sup>28</sup> W<br />(70.417 L<sub>☉</sub>)
+age: 1.1 Gyr
+temperature: 8,167 K
+---

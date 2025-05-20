@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 338 Reggiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      338 Reggiad A is a star in the constellation Reg
+distance: 1135.46 ly
+apparent_magnitude: 6.73
+absolute_magnitude: -0.97
+spectral_class: A4III
+equatorial: |
+  RA: 10<sup>h</sup> 19<sup>m</sup> 35.85<sup>s</sup><br />Dec: -47° 06' 52.38"
+rectangular: 156.25N -161.31W -1113.03R
+radius: 4.624 × 10<sup>06</sup> km<br />(6.647 R<sub>☉</sub>)
+mass: 6.683 × 10<sup>30</sup> kg<br />(3.361 M<sub>☉</sub>)
+luminosity: 8.890 × 10<sup>28</sup> W<br />(232.107 L<sub>☉</sub>)
+age: 1.1 Gyr
+temperature: 8,740 K
+---

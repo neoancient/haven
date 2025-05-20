@@ -49,10 +49,15 @@
     </section>
 
     {% if page.category == "planet" %}
-        {% include planet_infobox.html %}
+        {% include planet_infobox.html planet=page.planet %}
     {% elsif page.category == "star" %}
         {% include star_infobox.html %}
-    {% elsif page.category == "constellation %}
+    {% elsif page.category == "moon" %}
+        {% include moon_infobox.html moon=page.moon %}
+    {% elsif page.category == "multiStar" %}
+        {% include multistar_infobox.html %}
+    {% elsif page.category == "constellation" %}
+        <h3>Stars in Order of Apparent Magnitude from Yrth</h3>
         {% include constellation_table.html %}
     {% endif %}
 

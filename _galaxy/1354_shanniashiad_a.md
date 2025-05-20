@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 1354 Shanniashiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      1354 Shanniashiad A is a star in the constellation Shannias
+distance: 1190.71 ly
+apparent_magnitude: 6.68
+absolute_magnitude: -1.13
+spectral_class: A4III
+equatorial: |
+  RA: 17<sup>h</sup> 18<sup>m</sup> 31.82<sup>s</sup><br />Dec: -36° 43' 40.43"
+rectangular: 1173.94N -1.72W -199.17R
+radius: 4.901 × 10<sup>06</sup> km<br />(7.045 R<sub>☉</sub>)
+mass: 7.129 × 10<sup>30</sup> kg<br />(3.585 M<sub>☉</sub>)
+luminosity: 1.030 × 10<sup>29</sup> W<br />(268.974 L<sub>☉</sub>)
+age: 1.1 Gyr
+temperature: 8,808 K
+---

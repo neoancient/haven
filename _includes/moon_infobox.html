@@ -1,0 +1,97 @@
+<div class="infobox">
+    <table>
+        <th colspan="2" class="infobox-header">Orbital characteristics</th>
+        <tr>
+            <td class="infobox-label">Type</td>
+            <td class="infobox-data">{{ include.moon.type }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Formation</td>
+            <td class="infobox-data">{{ include.moon.formationType }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Aphelion</td>
+            <td class="infobox-data">{{ include.moon.aphelion }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Perihelion</td>
+            <td class="infobox-data">{{ include.moon.perihelion }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Semi-major axis</td>
+            <td class="infobox-data">{{ include.moon.volume }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Eccentricity</td>
+            <td class="infobox-data">{{ include.moon.eccentricity }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Orbital period</td>
+            <td class="infobox-data">{{ include.moon.orbital_period }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Inclination</td>
+            <td class="infobox-data">{{ include.moon.inclination }}</td>
+        </tr>
+        <th colspan="2" class="infobox-header">Physical characteristics</th>
+        <tr>
+            <td class="infobox-label">Mean radius</td>
+            <td class="infobox-data">{{ include.moon.radius }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Surface area</td>
+            <td class="infobox-data">{{ include.moon.surface_area }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Volume</td>
+            <td class="infobox-data">{{ include.moon.volume }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Mass</td>
+            <td class="infobox-data">{{ include.moon.mass }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Mean density</td>
+            <td class="infobox-data">{{ include.moon.density }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Surface gravity</td>
+            <td class="infobox-data">{{ include.moon.surface_gravity }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Escape velocity</td>
+            <td class="infobox-data">{{ include.moon.escape_velocity }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Synodic rotation period</td>
+            <td class="infobox-data">{{ include.moon.rotation_period }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Axial tilt</td>
+            <td class="infobox-data">{{ include.moon.axial_tilt }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Bond albedo</td>
+            <td class="infobox-data">{{ include.moon.albedo }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Average surface temperature</td>
+            <td class="infobox-data">{{ include.moon.temperature }}</td>
+        </tr>
+        {% if include.moon.surface_pressure %}
+        <th colspan="2" class="infobox-header">Atmosphere</th>
+        <tr>
+            <td class="infobox-label">Surface pressure</td>
+            <td class="infobox-data">{{ include.moon.surface_pressure }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Composition by volume</td>
+            <td class="infobox-data">
+            {% for component in include.moon.composition %}
+            {{ component }}<br />
+            {% endfor %}
+            </td>
+        </tr>
+        {% endif %}
+    </table>
+</div>

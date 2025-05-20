@@ -1,0 +1,20 @@
+<div class="infobox">
+    <table>
+        <th colspan="2" class="infobox-header">Observation data</th>
+        <tr>
+            <td class="infobox-label">Mean distance from Yrth</td>
+            <td class="infobox-data">{{ page.distance }}</td>
+        </tr>
+        <tr>
+            <td class="infobox-label">Apparent magnitude</td>
+            <td class="infobox-data">{{ page.apparent_magnitude }}</td>
+        </tr>
+        <th colspan="2" class="infobox-header">Planets</th>
+        {% for object in page.objects %}
+        <tr>
+            <td class="infobox-label">{{ object.name }}</td>
+            <td class="infoboxt-data">{{ object.description }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>

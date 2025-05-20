@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 5099 Arkothiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      5099 Arkothiad A is a star in the constellation Arkoth
+distance: 475.67 ly
+apparent_magnitude: 8.57
+absolute_magnitude: 2.75
+spectral_class: F9III
+equatorial: |
+  RA: 15<sup>h</sup> 03<sup>m</sup> 58.11<sup>s</sup><br />Dec: -34° 12' 33.67"
+rectangular: 419.65N -80.62W -208.95R
+radius: 1.640 × 10<sup>06</sup> km<br />(2.357 R<sub>☉</sub>)
+mass: 2.463 × 10<sup>30</sup> kg<br />(1.238 M<sub>☉</sub>)
+luminosity: 2.766 × 10<sup>27</sup> W<br />(7.223 L<sub>☉</sub>)
+age: 2.3 Gyr
+temperature: 6,164 K
+---

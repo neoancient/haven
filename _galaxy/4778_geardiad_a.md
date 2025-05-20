@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 4778 Geardiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      4778 Geardiad A is a star in the constellation Geard
+distance: 614.05 ly
+apparent_magnitude: 8.15
+absolute_magnitude: 1.78
+spectral_class: A9III
+equatorial: |
+  RA: 14<sup>h</sup> 11<sup>m</sup> 27.72<sup>s</sup><br />Dec: -7° 41' 50.54"
+rectangular: 555.94N -200.16W -167.09R
+radius: 1.546 × 10<sup>06</sup> km<br />(2.222 R<sub>☉</sub>)
+mass: 4.024 × 10<sup>30</sup> kg<br />(2.024 M<sub>☉</sub>)
+luminosity: 5.433 × 10<sup>27</sup> W<br />(14.185 L<sub>☉</sub>)
+age: 1.1 Gyr
+temperature: 7,516 K
+---

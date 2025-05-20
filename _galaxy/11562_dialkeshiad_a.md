@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 11562 Dialkeshiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      11562 Dialkeshiad A is a star in the constellation Dialkes
+distance: 393.64 ly
+apparent_magnitude: 7.25
+absolute_magnitude: 1.84
+spectral_class: B9V
+equatorial: |
+  RA: 15<sup>h</sup> 18<sup>m</sup> 46.56<sup>s</sup><br />Dec: -26° 42' 20.13"
+rectangular: 368.34N -59.89W -125.25R
+radius: 1.128 × 10<sup>06</sup> km<br />(1.621 R<sub>☉</sub>)
+mass: 4.144 × 10<sup>30</sup> kg<br />(2.084 M<sub>☉</sub>)
+luminosity: 9.397 × 10<sup>27</sup> W<br />(24.535 L<sub>☉</sub>)
+age: 36.8 Myr
+temperature: 10,091 K
+---

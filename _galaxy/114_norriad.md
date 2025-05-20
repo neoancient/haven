@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 114 Norriad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      114 Norriad is a star in the constellation Nor
+distance: 300.70 ly
+apparent_magnitude: 10.75
+absolute_magnitude: 5.92
+spectral_class: K2V
+equatorial: |
+  RA: 8<sup>h</sup> 21<sup>m</sup> 23.90<sup>s</sup><br />Dec: -41° 22' 12.86"
+rectangular: -57.50S 13.54E -294.84R
+radius: 6.608 × 10<sup>05</sup> km<br />(0.950 R<sub>☉</sub>)
+mass: 1.512 × 10<sup>30</sup> kg<br />(0.760 M<sub>☉</sub>)
+luminosity: 1.984 × 10<sup>26</sup> W<br />(0.518 L<sub>☉</sub>)
+age: 8.4 Gyr
+temperature: 5,025 K
+---

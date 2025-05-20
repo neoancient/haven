@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 924 Noniashad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      924 Noniashad is a star in the constellation Nonias
+distance: 657.92 ly
+apparent_magnitude: 12.15
+absolute_magnitude: 5.63
+spectral_class: G4V
+equatorial: |
+  RA: 16<sup>h</sup> 55<sup>m</sup> 12.10<sup>s</sup><br />Dec: -62° 22' 50.33"
+rectangular: 554.16N 72.21E -347.21R
+radius: 5.166 × 10<sup>05</sup> km<br />(0.743 R<sub>☉</sub>)
+mass: 1.711 × 10<sup>30</sup> kg<br />(0.861 M<sub>☉</sub>)
+luminosity: 2.048 × 10<sup>26</sup> W<br />(0.535 L<sub>☉</sub>)
+age: 7.0 Gyr
+temperature: 5,728 K
+---

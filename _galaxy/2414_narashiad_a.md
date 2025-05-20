@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 2414 Narashiad A (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      2414 Narashiad A is a star in the constellation Naras
+distance: 159.18 ly
+apparent_magnitude: 8.47
+absolute_magnitude: 5.03
+spectral_class: F9V
+equatorial: |
+  RA: 15<sup>h</sup> 47<sup>m</sup> 58.92<sup>s</sup><br />Dec: -43° 23' 55.74"
+rectangular: 142.73N -10.63W -69.68R
+radius: 5.774 × 10<sup>05</sup> km<br />(0.830 R<sub>☉</sub>)
+mass: 2.238 × 10<sup>30</sup> kg<br />(1.126 M<sub>☉</sub>)
+luminosity: 3.452 × 10<sup>26</sup> W<br />(0.901 L<sub>☉</sub>)
+age: 800.7 Myr
+temperature: 6,174 K
+---

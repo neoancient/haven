@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 26 Shanniashiad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      26 Shanniashiad is a star in the constellation Shannias
+distance: 122.03 ly
+apparent_magnitude: 8.79
+absolute_magnitude: 5.92
+spectral_class: K2V
+equatorial: |
+  RA: 16<sup>h</sup> 21<sup>m</sup> 49.66<sup>s</sup><br />Dec: -43° 59' 27.46"
+rectangular: 113.06N -3.32W -45.80R
+radius: 6.608 × 10<sup>05</sup> km<br />(0.950 R<sub>☉</sub>)
+mass: 1.512 × 10<sup>30</sup> kg<br />(0.760 M<sub>☉</sub>)
+luminosity: 1.984 × 10<sup>26</sup> W<br />(0.518 L<sub>☉</sub>)
+age: 8.4 Gyr
+temperature: 5,025 K
+---

@@ -43,5 +43,5 @@ sections:
   - title: Key Worlds
     content: |-
       - [Vay'kaar](/haven/galaxy/vaykaar.html)
-      - [The Blood Pits of Kaelor](/haven/galaxy/blood_pits.html)
+      - [The Blood Pits of Kaelor](/haven/galaxy/the_blood_pits_of_kaelor.html)
 ---

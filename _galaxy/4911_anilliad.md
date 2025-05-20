@@ -1,0 +1,22 @@
+---
+layout: galaxy
+category: star
+title: 4911 Anilliad (Star)
+faction: None
+sections:
+  - title:
+    content: >-
+      4911 Anilliad is a star in the constellation Anil
+distance: 405.52 ly
+apparent_magnitude: 12.54
+absolute_magnitude: 7.06
+spectral_class: K6V
+equatorial: |
+  RA: 15<sup>h</sup> 56<sup>m</sup> 50.61<sup>s</sup><br />Dec: -59° 35' 26.47"
+rectangular: 330.12N 19.39E -234.72R
+radius: 5.742 × 10<sup>05</sup> km<br />(0.825 R<sub>☉</sub>)
+mass: 1.343 × 10<sup>30</sup> kg<br />(0.675 M<sub>☉</sub>)
+luminosity: 9.397 × 10<sup>25</sup> W<br />(0.245 L<sub>☉</sub>)
+age: 8.4 Gyr
+temperature: 4,472 K
+---
