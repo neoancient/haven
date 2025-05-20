@@ -3,19 +3,20 @@ layout: reference
 category: person
 title: Marius Goldfinger
 species: Human
+illustration: marius_goldfinger.png
 aspects:
-  - name: Charting Stars and Chaos
-  - name: Stars Don’t Lie, but People Do
-  - name: Eyes Like a Star Map
-  - name: Drift in the Deep
-  - name: Risk It All for the Treasure
+  - name: Merchant of Fortune and Betrayal
+  - name: A Deal Gone Sour
+  - name: Gold Buys Silence
+    known: true
+  - name: Whispers in the Dark
+  - name: I Always Get My Cut
+    known: true
 sections:
   - title: Appearance 
     content: >-
-      Eliza has weathered skin and an intricate star map tattooed on her arm. She carries a sextant-like magical tool
-      for astral navigation.
+      Marius dresses extravagantly, flaunting gold rings and chains. His smile is as polished as his appearance.
   - title: Background
     content: >-
-      Eliza grew up among pirates, learning the trade routes and hidden paths of the astral plane. She’s an expert at
-      navigating astral drops, especially those requiring unconventional routes.
+      Marius profits by trading goods, secrets, and favors. While he’s trusted enough to do business in Haven, few truly believe he has anyone’s back but his own.
 ---

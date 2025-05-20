@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Annie
 species: Human
+illustration: annie.png
 aspects:
   - name: Clever Street Urchin with a Talent for Trouble
     known: true

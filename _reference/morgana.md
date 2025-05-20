@@ -1,8 +1,9 @@
 ---
 layout: reference
 category: person
-title: Madam Morgana
+title: Madame Morgana
 species: Human
+illustration: madame_morgana.png
 aspects:
   - name: Mystic Oracle with Secrets Hidden in Shadows
   - name: Visions Are a Curse as Much as a Gift

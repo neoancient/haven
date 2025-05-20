@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Aldric Ironforge
 species: Dwarf
+illustration: aldric_ironforge.png
 aspects:
   - name: Master Smith of Metal and Magic
     known: true

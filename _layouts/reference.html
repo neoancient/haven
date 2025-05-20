@@ -38,6 +38,9 @@
                 {% if page.capital %}
                 <p><strong>Capital: </strong>{{ page.capital }}</p>
                 {% endif %}
+                {% if page.illustration %}
+                <img class="illustration" src="{{ site.baseurl }}/assets/images/illustrations/{{ page.illustration }}" />
+                {% endif %}
                 {% for section in page.sections %}
                     {% if section.title %}
                         <h3>{{ section.title }}</h3>

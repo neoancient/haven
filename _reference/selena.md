@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Selena the Siren
 species: Human
+illustration: selena_the_siren.png
 aspects:
   - name: Songstress of Secrets and Shadows
   - name: A Web of Lies Ready to Snap

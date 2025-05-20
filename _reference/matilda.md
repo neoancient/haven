@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Matilda the Healer
 species: Human
+illustration: matilda_the_healer.png
 aspects:
   - name: Battlefield Healer with a Heart of Gold
   - name: Haunted by What She Couldn’t Save

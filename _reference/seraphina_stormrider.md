@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Seraphina Stormrider
 species: Human
+illustration: seraphina_stormrider.png
 aspects:
   - name: Elemental Sorceress with a Stormy Reputation
     known: true

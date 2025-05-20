@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Orion Swiftfoot
 species: Half-Elf
+illustration: orion_swiftfoot.png
 aspects:
   - name: Charming Smuggler with a Ship and a Secret
   - name: Running from Old Debts and Older Enemies

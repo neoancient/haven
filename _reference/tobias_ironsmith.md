@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Tobias Ironsmith
 species: Human
+illustration: tobias_ironsmith.png
 aspects:
   - name: Hardened Veteran with a Blaster
     known: true

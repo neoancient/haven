@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Fizzbin
 species: Goblin
+illustration: fizzbin.png
 aspects:
   - name: Explosive Engineer Extraordinaire
     known: true

@@ -19,6 +19,8 @@ sections:
       forces, and the Empire has decided to ignore the presence of the Elves.
   - title: History
     content: >-
+      <img class="illustration-right" src="../assets/images/illustrations/lifeships.png" />
+      
       The Elves were the first to leave Yrth and head to the stars. Sustained by their living ships, they have been able
       to travel indefinitely, as long as they visit stars frequently enough for the organic ships to replenish their
       stores of energy. Some felt the desire to have earth under their feet again. While they did not find any worlds already

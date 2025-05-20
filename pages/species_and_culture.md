@@ -18,6 +18,7 @@ the gamemaster to develop the cultural stunts.
 # Species
 
 ## Dwarf
+<img class="illustration" src="{{ site.baseurl }}/assets/images/illustrations/dwarf.png" />
 Dwarves are stocky, bearded (including the women), and steadfast (some would say stubborn). Their traditions say they
 formed from the bedrock of the mountains, and they have the fortitude and endurance to show for it. Traditionally at
 home in vast cavern systems, they still prefer to make their homes underground. Known for their craftsmanship, they
@@ -41,6 +42,7 @@ most xenophobic humans don't apply their bigotry to Dwarves.
 | Will              | Defending against a magical mental attack                                                      |
 
 ## Elf
+<img class="illustration" src="{{ site.baseurl }}/assets/images/illustrations/elf.png" />
 Elves are creatures of woodlands and mystery. Tall, lithe, and graceful, they resemble humans but have an aura about them
 that makes confusion unlikely. They seem to belong to another world, or another time.
 
@@ -72,6 +74,7 @@ exist within the borders of the Yrth Empire without being bothered.
 | Will             | Using magic to produce an enchantment, glamor, or affect growing things, even if you have no other magical ability. Each category requires a separate stunt.  |
 
 ## Gnome
+<img class="illustration" src="{{ site.baseurl }}/assets/images/illustrations/gnome.png" />
 Gnomes are intensely social creatures, but only with other Gnome-kind. Gnomes have few dealings with other peoples.
 Gnomes found outside Gnome society are outcasts, and the separation takes a deep psychological toll on the outcast Gnome.
 
@@ -95,6 +98,8 @@ outcast Gnomes leads most ship captains to prefer dealing with the occasional te
 | Will             | Using magic for technomancy, even if you have no other magical ability                                                       |
 
 ## Goblin
+<img class="illustration" src="{{ site.baseurl }}/assets/images/illustrations/goblin.png" />
+
 Goblins are short (about 1m tall) humanoids with large, pointed ears and a variety of skin colors - green and purple seem
 to be the most common. Dedicated tinkerers, they have their own type of genius but tend to get excited about their
 projects and overlook safety precautions. Considered a hazard by most established societies, they are found mostly
@@ -133,6 +138,7 @@ whatever means necessary.
 Half-Orcs can select their cultural stunts from both the Orc list and a Human background list.
 
 ## Halfling
+<img class="illustration" src="{{ site.baseurl }}/assets/images/illustrations/halfling.png" />
 Halflings are like humans in many ways. About 1 - 1.25 meters tall (in the modern era), many Human scholars believe that
 Halflings are an early offshoot of Humans - a hypothesis that Halflings almost universally reject. Despite the resemblance
 to Humans, Halflings generally prefer to keep to themselves, away from the "Big People." Among Halfling virtues are Being
@@ -158,6 +164,7 @@ be very popular with Halflings of a certain stripe.
 | Will             | Resisting coercion, intimidation, or mental pressure                         |
 
 ## Orc
+<img class="illustration" src="{{ site.baseurl }}/assets/images/illustrations/orc.png" />
 Orcs are warlike, revelling in raids and displays of martial prowess. Considered cruel by other peoples, Orcs believe
 that the weak are flawed and deserve whatever happens to them. Ownership in Orc society is based on who is strong
 enough to take what they want and keep it. Orc technology is brutally functional. They have no use for beauty. While

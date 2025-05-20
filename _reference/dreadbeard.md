@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Dreadbeard
 species: Human
+illustration: dreadbeard.png
 aspects:
   - name: Captain of the Void Kraken
     known: true

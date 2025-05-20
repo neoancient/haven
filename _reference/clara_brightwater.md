@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Clara Brightwater
 species: Human
+illustration: clara_brightwater.png
 aspects:
   - name: Explorer of the Unknown
     known: true

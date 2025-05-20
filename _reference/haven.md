@@ -2,6 +2,7 @@
 layout: reference
 category: place
 title: Haven
+illustration: haven.png
 aspects:
   - name: Villianous Hive of Scummery and Wretchedness
     known: true
