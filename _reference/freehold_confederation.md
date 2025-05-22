@@ -2,12 +2,13 @@
 layout: reference
 category: faction
 title: Freehold Confederation
+illustration: freehold_confederation.png
 aspects:
   - name: Don't Tread on Me
     known: true
   - name: Freedom Isn't Free
     known: true
-capital: Vashti Prime
+capital: <a href="/haven/galaxy/vashti_prime.html">Vashti Prime</a>
 sections:
   - title: Overview
     content: >-

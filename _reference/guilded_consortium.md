@@ -2,12 +2,13 @@
 layout: reference
 category: faction
 title: Gilded Consortium
+illustration: gilded_consortium.png
 aspects:
   - name: Everything Has a Price
     known: true
   - name: Neutral Until It's Profitable
     known: true
-capital: Auric Prime
+capital: <a href="/haven/galaxy/auric_prime.html">Auric Prime</a>
 sections:
   - title: Overview
     content: >-
