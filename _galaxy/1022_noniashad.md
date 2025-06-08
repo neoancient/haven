@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1022 Noniashad is a star in the constellation Nonias
+      1022 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 432.85 ly
 apparent_magnitude: 10.88
 absolute_magnitude: 5.27

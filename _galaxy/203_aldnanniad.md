@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      203 Aldnanniad is a star in the constellation Aldnan
+      203 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 423.83 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 4.71

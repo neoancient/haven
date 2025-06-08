@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13443 Dialkeshiad A is a star in the constellation Dialkes
+      13443 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 474.35 ly
 apparent_magnitude: 8.66
 absolute_magnitude: 2.84

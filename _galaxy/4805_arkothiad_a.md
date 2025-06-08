@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4805 Arkothiad A is a star in the constellation Arkoth
+      4805 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 877.87 ly
 apparent_magnitude: 6.85
 absolute_magnitude: -0.30

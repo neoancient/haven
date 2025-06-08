@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0122 Reggiad is a star in the constellation Reg
+      0122 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 170.85 ly
 apparent_magnitude: 6.18
 absolute_magnitude: 2.58
@@ -31,14 +31,14 @@ planets:
     radius: 8,919.3 km<br/>(1.400 Yrths)
     surface_area: 9.997 × 10<sup>08</sup> km<sup>2</sup><br/>(1.960 Yrths)
     volume: 2.972 × 10<sup>12</sup> km<sup>3</sup><br/>(2.744 Yrths)
-    mass: 2.066 × 10<sup>25</sup> kg<br />(3.459508685107048 Yrths)
+    mass: 2.066 × 10<sup>25</sup> kg<br />(3.46 Yrths)
     density: 6.951 g/cm<sup>3</sup>
     surface_gravity: 17.310 m/s<sup>2</sup><br />(1.765 g<sub>0</sub>)
     escape_velocity: 17.584 km/s<br />(63,303 km/h)
     rotation_period: 0.752 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 437 K<br />(164 °C)
+    temperature: 450 K<br />(177 °C)
     surface_pressure: 1,334 kPa<br />(13 atm)
     composition:
       - 88.9565% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 4,813.0 km<br/>(0.755 Yrths)
         surface_area: 2.911 × 10<sup>08</sup> km<sup>2</sup><br/>(0.571 Yrths)
         volume: 4.670 × 10<sup>11</sup> km<sup>3</sup><br/>(0.431 Yrths)
-        mass: 1.063 × 10<sup>24</sup> kg<br />(3.459508685107048 Yrths)
+        mass: 1.063 × 10<sup>24</sup> kg<br />(0.178 Yrths)
         density: 2.277 g/cm<sup>3</sup>
         surface_gravity: 3.060 m/s<sup>2</sup><br />(0.312 g<sub>0</sub>)
         escape_velocity: 5.431 km/s<br />(19,551 km/h)
         rotation_period: 47.045 d
         axial_tilt: 15.53°
         albedo: 0.30
-        temperature: 3730 K<br />(3457 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0122 Reggiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 5,512.3 km<br/>(0.865 Yrths)
         surface_area: 3.818 × 10<sup>08</sup> km<sup>2</sup><br/>(0.749 Yrths)
         volume: 7.016 × 10<sup>11</sup> km<sup>3</sup><br/>(0.648 Yrths)
-        mass: 1.546 × 10<sup>24</sup> kg<br />(3.459508685107048 Yrths)
+        mass: 1.546 × 10<sup>24</sup> kg<br />(0.259 Yrths)
         density: 2.203 g/cm<sup>3</sup>
         surface_gravity: 3.390 m/s<sup>2</sup><br />(0.346 g<sub>0</sub>)
         escape_velocity: 6.118 km/s<br />(22,025 km/h)
         rotation_period: 45.835 d
         axial_tilt: 19.41°
         albedo: 0.30
-        temperature: 3556 K<br />(3283 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0122 Reggiad I c
         type: Rocky
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 2,650.2 km<br/>(0.416 Yrths)
         surface_area: 8.826 × 10<sup>07</sup> km<sup>2</sup><br/>(0.173 Yrths)
         volume: 7.797 × 10<sup>10</sup> km<sup>3</sup><br/>(0.072 Yrths)
-        mass: 2.523 × 10<sup>23</sup> kg<br />(3.459508685107048 Yrths)
+        mass: 2.523 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 3.236 g/cm<sup>3</sup>
         surface_gravity: 2.395 m/s<sup>2</sup><br />(0.244 g<sub>0</sub>)
         escape_velocity: 3.565 km/s<br />(12,834 km/h)
         rotation_period: 39.756 d
         axial_tilt: 16.11°
         albedo: 0.30
-        temperature: 3391 K<br />(3118 °C)
+        temperature: 308 K<br />(35 °C)
   - name: 0122 Reggiad II
     type: Gas giant
     aphelion: 557,043,622 km<br />3.724 AU
@@ -117,7 +117,7 @@ planets:
     radius: 252.9 km<br/>(0.040 Yrths)
     surface_area: 8.034 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.771 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.841 × 10<sup>27</sup> kg<br />(475.65546385464364 Yrths)
+    mass: 2.841 × 10<sup>27</sup> kg<br />(475.66 Yrths)
     density: 41949672.669 g/cm<sup>3</sup>
     surface_gravity: 2961408.420 m/s<sup>2</sup><br />(301979.618 g<sub>0</sub>)
     escape_velocity: 1224.592 km/s<br />(4,408,532 km/h)
@@ -138,14 +138,14 @@ planets:
         radius: 345,532.4 km<br/>(54.235 Yrths)
         surface_area: 1.500 × 10<sup>12</sup> km<sup>2</sup><br/>(2941.455 Yrths)
         volume: 1.728 × 10<sup>17</sup> km<sup>3</sup><br/>(159530.361 Yrths)
-        mass: 2.336 × 10<sup>29</sup> kg<br />(475.65546385464364 Yrths)
+        mass: 2.336 × 10<sup>29</sup> kg<br />(39112.403 Yrths)
         density: 1.352 g/cm<sup>3</sup>
         surface_gravity: 130.399 m/s<sup>2</sup><br />(13.297 g<sub>0</sub>)
         escape_velocity: 300.394 km/s<br />(1,081,417 km/h)
         rotation_period: 59.249 d
         axial_tilt: 18.59°
         albedo: 0.30
-        temperature: 1076 K<br />(803 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0122 Reggiad II b
         type: Asteroid
         formationType: Captured
@@ -158,14 +158,14 @@ planets:
         radius: 245,748.5 km<br/>(38.573 Yrths)
         surface_area: 7.589 × 10<sup>11</sup> km<sup>2</sup><br/>(1487.875 Yrths)
         volume: 6.217 × 10<sup>16</sup> km<sup>3</sup><br/>(57391.770 Yrths)
-        mass: 1.937 × 10<sup>29</sup> kg<br />(475.65546385464364 Yrths)
+        mass: 1.937 × 10<sup>29</sup> kg<br />(32435.132 Yrths)
         density: 3.116 g/cm<sup>3</sup>
         surface_gravity: 213.781 m/s<sup>2</sup><br />(21.800 g<sub>0</sub>)
         escape_velocity: 324.370 km/s<br />(1,167,731 km/h)
         rotation_period: 54.582 d
         axial_tilt: 61.45°
         albedo: 0.30
-        temperature: 889 K<br />(616 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0122 Reggiad II c
         type: Dwarf planet
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 236,206.6 km<br/>(37.075 Yrths)
         surface_area: 7.011 × 10<sup>11</sup> km<sup>2</sup><br/>(1374.576 Yrths)
         volume: 5.520 × 10<sup>16</sup> km<sup>3</sup><br/>(50962.795 Yrths)
-        mass: 1.247 × 10<sup>29</sup> kg<br />(475.65546385464364 Yrths)
+        mass: 1.247 × 10<sup>29</sup> kg<br />(20881.083 Yrths)
         density: 2.259 g/cm<sup>3</sup>
         surface_gravity: 148.972 m/s<sup>2</sup><br />(15.191 g<sub>0</sub>)
         escape_velocity: 265.466 km/s<br />(955,676 km/h)
         rotation_period: 33.506 d
         axial_tilt: 37.22°
         albedo: 0.30
-        temperature: 771 K<br />(497 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0122 Reggiad II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -198,14 +198,14 @@ planets:
         radius: 244,417.2 km<br/>(38.364 Yrths)
         surface_area: 7.507 × 10<sup>11</sup> km<sup>2</sup><br/>(1471.798 Yrths)
         volume: 6.116 × 10<sup>16</sup> km<sup>3</sup><br/>(56464.082 Yrths)
-        mass: 1.311 × 10<sup>29</sup> kg<br />(475.65546385464364 Yrths)
+        mass: 1.311 × 10<sup>29</sup> kg<br />(21949.297 Yrths)
         density: 2.143 g/cm<sup>3</sup>
         surface_gravity: 146.249 m/s<sup>2</sup><br />(14.913 g<sub>0</sub>)
         escape_velocity: 267.561 km/s<br />(963,218 km/h)
         rotation_period: 42.047 d
         axial_tilt: 9.18°
         albedo: 0.30
-        temperature: 735 K<br />(462 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0122 Reggiad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -218,14 +218,14 @@ planets:
         radius: 248,501.7 km<br/>(39.005 Yrths)
         surface_area: 7.760 × 10<sup>11</sup> km<sup>2</sup><br/>(1521.400 Yrths)
         volume: 6.428 × 10<sup>16</sup> km<sup>3</sup><br/>(59342.393 Yrths)
-        mass: 1.652 × 10<sup>29</sup> kg<br />(475.65546385464364 Yrths)
+        mass: 1.652 × 10<sup>29</sup> kg<br />(27655.036 Yrths)
         density: 2.569 g/cm<sup>3</sup>
         surface_gravity: 178.259 m/s<sup>2</sup><br />(18.177 g<sub>0</sub>)
         escape_velocity: 297.852 km/s<br />(1,072,266 km/h)
         rotation_period: 50.726 d
         axial_tilt: 20.55°
         albedo: 0.30
-        temperature: 552 K<br />(279 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0122 Reggiad II f
         type: Rocky
         formationType: Accreted
@@ -238,14 +238,14 @@ planets:
         radius: 271,323.2 km<br/>(42.587 Yrths)
         surface_area: 9.251 × 10<sup>11</sup> km<sup>2</sup><br/>(1813.672 Yrths)
         volume: 8.367 × 10<sup>16</sup> km<sup>3</sup><br/>(77239.268 Yrths)
-        mass: 2.261 × 10<sup>29</sup> kg<br />(475.65546385464364 Yrths)
+        mass: 2.261 × 10<sup>29</sup> kg<br />(37864.512 Yrths)
         density: 2.703 g/cm<sup>3</sup>
         surface_gravity: 204.736 m/s<sup>2</sup><br />(20.877 g<sub>0</sub>)
         escape_velocity: 333.542 km/s<br />(1,200,751 km/h)
         rotation_period: 41.259 d
         axial_tilt: 6.50°
         albedo: 0.30
-        temperature: 234 K<br />(-39 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0122 Reggiad II g
         type: Icy
         formationType: Impact formed
@@ -258,14 +258,14 @@ planets:
         radius: 274,342.5 km<br/>(43.061 Yrths)
         surface_area: 9.458 × 10<sup>11</sup> km<sup>2</sup><br/>(1854.262 Yrths)
         volume: 8.649 × 10<sup>16</sup> km<sup>3</sup><br/>(79846.623 Yrths)
-        mass: 1.313 × 10<sup>29</sup> kg<br />(475.65546385464364 Yrths)
+        mass: 1.313 × 10<sup>29</sup> kg<br />(21985.983 Yrths)
         density: 1.518 g/cm<sup>3</sup>
         surface_gravity: 116.277 m/s<sup>2</sup><br />(11.857 g<sub>0</sub>)
         escape_velocity: 252.758 km/s<br />(909,927 km/h)
         rotation_period: 50.735 d
         axial_tilt: 23.11°
         albedo: 0.30
-        temperature: 168 K<br />(-105 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0122 Reggiad II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -278,14 +278,14 @@ planets:
         radius: 266,830.3 km<br/>(41.882 Yrths)
         surface_area: 8.947 × 10<sup>11</sup> km<sup>2</sup><br/>(1754.102 Yrths)
         volume: 7.958 × 10<sup>16</sup> km<sup>3</sup><br/>(73465.331 Yrths)
-        mass: 1.488 × 10<sup>29</sup> kg<br />(475.65546385464364 Yrths)
+        mass: 1.488 × 10<sup>29</sup> kg<br />(24917.744 Yrths)
         density: 1.870 g/cm<sup>3</sup>
         surface_gravity: 139.307 m/s<sup>2</sup><br />(14.205 g<sub>0</sub>)
         escape_velocity: 272.844 km/s<br />(982,239 km/h)
         rotation_period: 38.159 d
         axial_tilt: 16.90°
         albedo: 0.30
-        temperature: 139 K<br />(-135 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0122 Reggiad II i
         type: Icy
         formationType: Accreted
@@ -298,12 +298,12 @@ planets:
         radius: 288,932.4 km<br/>(45.351 Yrths)
         surface_area: 1.049 × 10<sup>12</sup> km<sup>2</sup><br/>(2056.729 Yrths)
         volume: 1.010 × 10<sup>17</sup> km<sup>3</sup><br/>(93275.109 Yrths)
-        mass: 1.362 × 10<sup>29</sup> kg<br />(475.65546385464364 Yrths)
+        mass: 1.362 × 10<sup>29</sup> kg<br />(22813.756 Yrths)
         density: 1.348 g/cm<sup>3</sup>
         surface_gravity: 108.778 m/s<sup>2</sup><br />(11.092 g<sub>0</sub>)
         escape_velocity: 250.887 km/s<br />(903,193 km/h)
         rotation_period: 70.840 d
         axial_tilt: 12.19°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 225 K<br />(-48 °C)
 ---

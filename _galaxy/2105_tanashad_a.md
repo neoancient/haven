@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2105 Tanashad A is a star in the constellation Tanas
+      2105 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 548.94 ly
 apparent_magnitude: 6.87
 absolute_magnitude: 0.74

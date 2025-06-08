@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      234 Rukentuaiad A is a star in the constellation Rukentua
+      234 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 283.68 ly
 apparent_magnitude: 8.17
 absolute_magnitude: 3.48

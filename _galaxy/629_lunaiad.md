@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      629 Lunaiad is a star in the constellation Luna
+      629 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 666.37 ly
 apparent_magnitude: 11.80
 absolute_magnitude: 5.25

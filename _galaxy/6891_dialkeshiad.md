@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6891 Dialkeshiad is a star in the constellation Dialkes
+      6891 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 444.65 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 4.96

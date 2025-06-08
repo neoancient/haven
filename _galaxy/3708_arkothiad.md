@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3708 Arkothiad is a star in the constellation Arkoth
+      3708 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 687.70 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 4.70

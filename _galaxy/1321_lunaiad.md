@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1321 Lunaiad is a star in the constellation Luna
+      1321 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 357.45 ly
 apparent_magnitude: 11.22
 absolute_magnitude: 6.02

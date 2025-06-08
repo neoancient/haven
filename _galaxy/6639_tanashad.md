@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6639 Tanashad is a star in the constellation Tanas
+      6639 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 490.96 ly
 apparent_magnitude: 13.73
 absolute_magnitude: 7.85

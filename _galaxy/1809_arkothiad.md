@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1809 Arkothiad is a star in the constellation Arkoth
+      1809 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 418.20 ly
 apparent_magnitude: 12.30
 absolute_magnitude: 6.76

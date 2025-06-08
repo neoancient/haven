@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2753 Dialkeshiad is a star in the constellation Dialkes
+      2753 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 407.09 ly
 apparent_magnitude: 11.31
 absolute_magnitude: 5.82

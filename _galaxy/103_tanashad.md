@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      103 Tanashad is a star in the constellation Tanas
+      103 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 184.05 ly
 apparent_magnitude: 10.07
 absolute_magnitude: 6.31

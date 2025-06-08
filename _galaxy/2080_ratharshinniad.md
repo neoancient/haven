@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2080 Ratharshinniad is a star in the constellation Ratharshin
+      2080 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 364.71 ly
 apparent_magnitude: 10.86
 absolute_magnitude: 5.62

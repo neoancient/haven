@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2274 Tanashad is a star in the constellation Tanas
+      2274 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1122.63 ly
 apparent_magnitude: 8.35
 absolute_magnitude: 0.67

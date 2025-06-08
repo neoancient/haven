@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1151 Noniashad is a star in the constellation Nonias
+      1151 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 696.07 ly
 apparent_magnitude: 12.26
 absolute_magnitude: 5.61

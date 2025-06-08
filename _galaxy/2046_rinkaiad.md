@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2046 Rinkaiad is a star in the constellation Rinka
+      2046 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 208.19 ly
 apparent_magnitude: 11.17
 absolute_magnitude: 7.14

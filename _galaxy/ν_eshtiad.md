@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Eshtiad is a star in the constellation Eshti
+      ν Eshtiad is a star in the constellation <a href="eshti.html">Eshti</a>
 distance: 36.05 ly
 apparent_magnitude: 5.35
 absolute_magnitude: 5.14
@@ -31,14 +31,14 @@ planets:
     radius: 3,693.3 km<br/>(0.580 Yrths)
     surface_area: 1.714 × 10<sup>08</sup> km<sup>2</sup><br/>(0.336 Yrths)
     volume: 2.110 × 10<sup>11</sup> km<sup>3</sup><br/>(0.195 Yrths)
-    mass: 1.063 × 10<sup>24</sup> kg<br />(0.17800780249647344 Yrths)
+    mass: 1.063 × 10<sup>24</sup> kg<br />(0.18 Yrths)
     density: 5.038 g/cm<sup>3</sup>
     surface_gravity: 5.195 m/s<sup>2</sup><br />(0.530 g<sub>0</sub>)
     escape_velocity: 6.199 km/s<br />(22,315 km/h)
     rotation_period: 1.849 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 302 K<br />(29 °C)
+    temperature: 282 K<br />(9 °C)
     surface_pressure: 22 kPa<br />(0 atm)
     composition:
       - 95.5582% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 810.7 km<br/>(0.127 Yrths)
         surface_area: 8.260 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.232 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.529 × 10<sup>21</sup> kg<br />(0.17800780249647344 Yrths)
+        mass: 5.529 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.477 g/cm<sup>3</sup>
         surface_gravity: 0.561 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 0.954 km/s<br />(3,435 km/h)
         rotation_period: 41.035 d
         axial_tilt: 17.84°
         albedo: 0.30
-        temperature: 5243 K<br />(4969 °C)
+        temperature: 274 K<br />(1 °C)
   - name: ν Eshtiad II
     type: Large terrestrial
     aphelion: 228,452,961 km<br />1.527 AU
@@ -77,14 +77,14 @@ planets:
     radius: 6,192.4 km<br/>(0.972 Yrths)
     surface_area: 4.819 × 10<sup>08</sup> km<sup>2</sup><br/>(0.945 Yrths)
     volume: 9.946 × 10<sup>11</sup> km<sup>3</sup><br/>(0.918 Yrths)
-    mass: 7.092 × 10<sup>24</sup> kg<br />(1.187590993588739 Yrths)
+    mass: 7.092 × 10<sup>24</sup> kg<br />(1.19 Yrths)
     density: 7.131 g/cm<sup>3</sup>
     surface_gravity: 12.328 m/s<sup>2</sup><br />(1.257 g<sub>0</sub>)
     escape_velocity: 12.365 km/s<br />(44,513 km/h)
     rotation_period: 0.861 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 298 K<br />(25 °C)
+    temperature: 266 K<br />(-7 °C)
     surface_pressure: 1,589 kPa<br />(16 atm)
     composition:
       - 99.2350% nitrogen
@@ -102,14 +102,14 @@ planets:
         radius: 4,041.3 km<br/>(0.634 Yrths)
         surface_area: 2.052 × 10<sup>08</sup> km<sup>2</sup><br/>(0.402 Yrths)
         volume: 2.765 × 10<sup>11</sup> km<sup>3</sup><br/>(0.255 Yrths)
-        mass: 9.683 × 10<sup>23</sup> kg<br />(1.187590993588739 Yrths)
+        mass: 9.683 × 10<sup>23</sup> kg<br />(0.162 Yrths)
         density: 3.502 g/cm<sup>3</sup>
         surface_gravity: 3.952 m/s<sup>2</sup><br />(0.403 g<sub>0</sub>)
         escape_velocity: 5.655 km/s<br />(20,359 km/h)
         rotation_period: 49.918 d
         axial_tilt: 23.10°
         albedo: 0.30
-        temperature: 2937 K<br />(2664 °C)
+        temperature: 210 K<br />(-63 °C)
   - name: ν Eshtiad III
     type: Terrestrial
     aphelion: 376,961,641 km<br />2.520 AU
@@ -121,14 +121,14 @@ planets:
     radius: 4,906.6 km<br/>(0.770 Yrths)
     surface_area: 3.025 × 10<sup>08</sup> km<sup>2</sup><br/>(0.593 Yrths)
     volume: 4.948 × 10<sup>11</sup> km<sup>3</sup><br/>(0.457 Yrths)
-    mass: 2.408 × 10<sup>24</sup> kg<br />(0.4031682081878422 Yrths)
+    mass: 2.408 × 10<sup>24</sup> kg<br />(0.40 Yrths)
     density: 4.866 g/cm<sup>3</sup>
     surface_gravity: 6.666 m/s<sup>2</sup><br />(0.680 g<sub>0</sub>)
     escape_velocity: 8.093 km/s<br />(29,136 km/h)
     rotation_period: 1.330 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 187 K<br />(-86 °C)
+    temperature: 232 K<br />(-41 °C)
     surface_pressure: 26 kPa<br />(0 atm)
     composition:
       - 94.5496% ammonia
@@ -149,14 +149,14 @@ planets:
         radius: 1,276.7 km<br/>(0.200 Yrths)
         surface_area: 2.048 × 10<sup>07</sup> km<sup>2</sup><br/>(0.040 Yrths)
         volume: 8.717 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 9.166 × 10<sup>21</sup> kg<br />(0.4031682081878422 Yrths)
+        mass: 9.166 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 1.052 g/cm<sup>3</sup>
         surface_gravity: 0.375 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.979 km/s<br />(3,524 km/h)
         rotation_period: 79.847 d
         axial_tilt: 22.96°
         albedo: 0.30
-        temperature: 2810 K<br />(2537 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: ν Eshtiad III b
         type: Asteroid
         formationType: Captured
@@ -169,14 +169,14 @@ planets:
         radius: 1,282.6 km<br/>(0.201 Yrths)
         surface_area: 2.067 × 10<sup>07</sup> km<sup>2</sup><br/>(0.041 Yrths)
         volume: 8.838 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 2.417 × 10<sup>22</sup> kg<br />(0.4031682081878422 Yrths)
+        mass: 2.417 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.735 g/cm<sup>3</sup>
         surface_gravity: 0.979 m/s<sup>2</sup><br />(0.100 g<sub>0</sub>)
         escape_velocity: 1.586 km/s<br />(5,710 km/h)
         rotation_period: 44.901 d
         axial_tilt: 34.11°
         albedo: 0.30
-        temperature: 2679 K<br />(2406 °C)
+        temperature: 162 K<br />(-111 °C)
   - name: ν Eshtiad IV
     type: Ice giant
     aphelion: 659,656,917 km<br />4.409 AU
@@ -188,14 +188,14 @@ planets:
     radius: 23,743.7 km<br/>(3.727 Yrths)
     surface_area: 7.084 × 10<sup>09</sup> km<sup>2</sup><br/>(13.889 Yrths)
     volume: 5.607 × 10<sup>13</sup> km<sup>3</sup><br/>(51.763 Yrths)
-    mass: 8.565 × 10<sup>25</sup> kg<br />(14.341256969144867 Yrths)
+    mass: 8.565 × 10<sup>25</sup> kg<br />(14.34 Yrths)
     density: 1.527 g/cm<sup>3</sup>
     surface_gravity: 10.126 m/s<sup>2</sup><br />(1.033 g<sub>0</sub>)
     escape_velocity: 21.943 km/s<br />(78,995 km/h)
     rotation_period: 0.349 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 243 K<br />(-30 °C)
+    temperature: 220 K<br />(-53 °C)
     composition:
       - 91.2187% hydrogen
       - 8.7813% helium
@@ -212,14 +212,14 @@ planets:
         radius: 18,388.4 km<br/>(2.886 Yrths)
         surface_area: 4.249 × 10<sup>09</sup> km<sup>2</sup><br/>(8.331 Yrths)
         volume: 2.604 × 10<sup>13</sup> km<sup>3</sup><br/>(24.044 Yrths)
-        mass: 3.829 × 10<sup>25</sup> kg<br />(14.341256969144867 Yrths)
+        mass: 3.829 × 10<sup>25</sup> kg<br />(6.412 Yrths)
         density: 1.470 g/cm<sup>3</sup>
         surface_gravity: 7.549 m/s<sup>2</sup><br />(0.770 g<sub>0</sub>)
         escape_velocity: 16.673 km/s<br />(60,023 km/h)
         rotation_period: 67.740 d
         axial_tilt: 13.64°
         albedo: 0.30
-        temperature: 1144 K<br />(871 °C)
+        temperature: 124 K<br />(-149 °C)
       - name: ν Eshtiad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -232,14 +232,14 @@ planets:
         radius: 30,052.6 km<br/>(4.717 Yrths)
         surface_area: 1.135 × 10<sup>10</sup> km<sup>2</sup><br/>(22.251 Yrths)
         volume: 1.137 × 10<sup>14</sup> km<sup>3</sup><br/>(104.959 Yrths)
-        mass: 2.348 × 10<sup>26</sup> kg<br />(14.341256969144867 Yrths)
+        mass: 2.348 × 10<sup>26</sup> kg<br />(39.322 Yrths)
         density: 2.066 g/cm<sup>3</sup>
         surface_gravity: 17.331 m/s<sup>2</sup><br />(1.767 g<sub>0</sub>)
         escape_velocity: 32.297 km/s<br />(116,268 km/h)
         rotation_period: 43.337 d
         axial_tilt: 15.00°
         albedo: 0.30
-        temperature: 1091 K<br />(818 °C)
+        temperature: 124 K<br />(-149 °C)
       - name: ν Eshtiad IV c
         type: Icy
         formationType: Captured
@@ -252,14 +252,14 @@ planets:
         radius: 23,587.1 km<br/>(3.702 Yrths)
         surface_area: 6.991 × 10<sup>09</sup> km<sup>2</sup><br/>(13.707 Yrths)
         volume: 5.497 × 10<sup>13</sup> km<sup>3</sup><br/>(50.746 Yrths)
-        mass: 8.289 × 10<sup>25</sup> kg<br />(14.341256969144867 Yrths)
+        mass: 8.289 × 10<sup>25</sup> kg<br />(13.880 Yrths)
         density: 1.508 g/cm<sup>3</sup>
         surface_gravity: 9.930 m/s<sup>2</sup><br />(1.013 g<sub>0</sub>)
         escape_velocity: 21.659 km/s<br />(77,971 km/h)
         rotation_period: 76.028 d
         axial_tilt: 14.68°
         albedo: 0.30
-        temperature: 1040 K<br />(767 °C)
+        temperature: 124 K<br />(-149 °C)
       - name: ν Eshtiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -272,14 +272,14 @@ planets:
         radius: 32,829.5 km<br/>(5.153 Yrths)
         surface_area: 1.354 × 10<sup>10</sup> km<sup>2</sup><br/>(26.553 Yrths)
         volume: 1.482 × 10<sup>14</sup> km<sup>3</sup><br/>(136.827 Yrths)
-        mass: 3.582 × 10<sup>26</sup> kg<br />(14.341256969144867 Yrths)
+        mass: 3.582 × 10<sup>26</sup> kg<br />(59.987 Yrths)
         density: 2.417 g/cm<sup>3</sup>
         surface_gravity: 22.155 m/s<sup>2</sup><br />(2.259 g<sub>0</sub>)
         escape_velocity: 38.166 km/s<br />(137,397 km/h)
         rotation_period: 34.477 d
         axial_tilt: 22.48°
         albedo: 0.30
-        temperature: 992 K<br />(719 °C)
+        temperature: 124 K<br />(-149 °C)
   - name: ν Eshtiad V
     type: Gas giant
     aphelion: 955,958,529 km<br />6.390 AU
@@ -291,7 +291,7 @@ planets:
     radius: 224.7 km<br/>(0.035 Yrths)
     surface_area: 6.343 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.750 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.657 × 10<sup>27</sup> kg<br />(277.3913145224788 Yrths)
+    mass: 1.657 × 10<sup>27</sup> kg<br />(277.39 Yrths)
     density: 34877069.639 g/cm<sup>3</sup>
     surface_gravity: 2187624.127 m/s<sup>2</sup><br />(223075.579 g<sub>0</sub>)
     escape_velocity: 992.111 km/s<br />(3,571,599 km/h)
@@ -312,14 +312,14 @@ planets:
         radius: 156,488.2 km<br/>(24.563 Yrths)
         surface_area: 3.077 × 10<sup>11</sup> km<sup>2</sup><br/>(603.320 Yrths)
         volume: 1.605 × 10<sup>16</sup> km<sup>3</sup><br/>(14819.104 Yrths)
-        mass: 4.457 × 10<sup>28</sup> kg<br />(277.3913145224788 Yrths)
+        mass: 4.457 × 10<sup>28</sup> kg<br />(7462.597 Yrths)
         density: 2.776 g/cm<sup>3</sup>
         surface_gravity: 121.301 m/s<sup>2</sup><br />(12.369 g<sub>0</sub>)
         escape_velocity: 194.976 km/s<br />(701,915 km/h)
         rotation_period: 33.341 d
         axial_tilt: 37.82°
         albedo: 0.30
-        temperature: 444 K<br />(171 °C)
+        temperature: 96 K<br />(-178 °C)
       - name: ν Eshtiad V b
         type: Icy
         formationType: Accreted
@@ -332,14 +332,14 @@ planets:
         radius: 193,872.0 km<br/>(30.430 Yrths)
         surface_area: 4.723 × 10<sup>11</sup> km<sup>2</sup><br/>(926.009 Yrths)
         volume: 3.052 × 10<sup>16</sup> km<sup>3</sup><br/>(28178.815 Yrths)
-        mass: 4.265 × 10<sup>28</sup> kg<br />(277.3913145224788 Yrths)
+        mass: 4.265 × 10<sup>28</sup> kg<br />(7142.288 Yrths)
         density: 1.397 g/cm<sup>3</sup>
         surface_gravity: 75.638 m/s<sup>2</sup><br />(7.713 g<sub>0</sub>)
         escape_velocity: 171.372 km/s<br />(616,938 km/h)
         rotation_period: 64.623 d
         axial_tilt: 12.21°
         albedo: 0.30
-        temperature: 263 K<br />(-10 °C)
+        temperature: 96 K<br />(-178 °C)
       - name: ν Eshtiad V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -352,14 +352,14 @@ planets:
         radius: 181,329.7 km<br/>(28.462 Yrths)
         surface_area: 4.132 × 10<sup>11</sup> km<sup>2</sup><br/>(810.071 Yrths)
         volume: 2.497 × 10<sup>16</sup> km<sup>3</sup><br/>(23056.014 Yrths)
-        mass: 6.237 × 10<sup>28</sup> kg<br />(277.3913145224788 Yrths)
+        mass: 6.237 × 10<sup>28</sup> kg<br />(10443.911 Yrths)
         density: 2.497 g/cm<sup>3</sup>
         surface_gravity: 126.433 m/s<sup>2</sup><br />(12.893 g<sub>0</sub>)
         escape_velocity: 214.277 km/s<br />(771,396 km/h)
         rotation_period: 54.920 d
         axial_tilt: 24.31°
         albedo: 0.30
-        temperature: 239 K<br />(-34 °C)
+        temperature: 96 K<br />(-178 °C)
       - name: ν Eshtiad V d
         type: Asteroid
         formationType: Captured
@@ -372,14 +372,14 @@ planets:
         radius: 174,368.6 km<br/>(27.369 Yrths)
         surface_area: 3.821 × 10<sup>11</sup> km<sup>2</sup><br/>(749.068 Yrths)
         volume: 2.221 × 10<sup>16</sup> km<sup>3</sup><br/>(20501.332 Yrths)
-        mass: 5.580 × 10<sup>28</sup> kg<br />(277.3913145224788 Yrths)
+        mass: 5.580 × 10<sup>28</sup> kg<br />(9344.353 Yrths)
         density: 2.513 g/cm<sup>3</sup>
         surface_gravity: 122.334 m/s<sup>2</sup><br />(12.475 g<sub>0</sub>)
         escape_velocity: 206.689 km/s<br />(744,082 km/h)
         rotation_period: 37.675 d
         axial_tilt: 23.96°
         albedo: 0.30
-        temperature: 188 K<br />(-85 °C)
+        temperature: 96 K<br />(-178 °C)
       - name: ν Eshtiad V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -392,14 +392,14 @@ planets:
         radius: 155,362.5 km<br/>(24.386 Yrths)
         surface_area: 3.033 × 10<sup>11</sup> km<sup>2</sup><br/>(594.671 Yrths)
         volume: 1.571 × 10<sup>16</sup> km<sup>3</sup><br/>(14501.589 Yrths)
-        mass: 4.398 × 10<sup>28</sup> kg<br />(277.3913145224788 Yrths)
+        mass: 4.398 × 10<sup>28</sup> kg<br />(7364.873 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 121.453 m/s<sup>2</sup><br />(12.385 g<sub>0</sub>)
         escape_velocity: 194.396 km/s<br />(699,826 km/h)
         rotation_period: 40.955 d
         axial_tilt: 28.26°
         albedo: 0.30
-        temperature: 156 K<br />(-118 °C)
+        temperature: 96 K<br />(-178 °C)
       - name: ν Eshtiad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -412,14 +412,14 @@ planets:
         radius: 204,701.2 km<br/>(32.130 Yrths)
         surface_area: 5.266 × 10<sup>11</sup> km<sup>2</sup><br/>(1032.346 Yrths)
         volume: 3.593 × 10<sup>16</sup> km<sup>3</sup><br/>(33169.441 Yrths)
-        mass: 6.095 × 10<sup>28</sup> kg<br />(277.3913145224788 Yrths)
+        mass: 6.095 × 10<sup>28</sup> kg<br />(10206.446 Yrths)
         density: 1.696 g/cm<sup>3</sup>
         surface_gravity: 96.955 m/s<sup>2</sup><br />(9.887 g<sub>0</sub>)
         escape_velocity: 199.368 km/s<br />(717,724 km/h)
         rotation_period: 46.079 d
         axial_tilt: 21.82°
         albedo: 0.30
-        temperature: 66 K<br />(-207 °C)
+        temperature: 96 K<br />(-178 °C)
       - name: ν Eshtiad V g
         type: Ice/rock hybrid
         formationType: Captured
@@ -432,14 +432,14 @@ planets:
         radius: 160,374.5 km<br/>(25.173 Yrths)
         surface_area: 3.232 × 10<sup>11</sup> km<sup>2</sup><br/>(633.659 Yrths)
         volume: 1.728 × 10<sup>16</sup> km<sup>3</sup><br/>(15950.822 Yrths)
-        mass: 4.512 × 10<sup>28</sup> kg<br />(277.3913145224788 Yrths)
+        mass: 4.512 × 10<sup>28</sup> kg<br />(7555.950 Yrths)
         density: 2.612 g/cm<sup>3</sup>
         surface_gravity: 116.938 m/s<sup>2</sup><br />(11.924 g<sub>0</sub>)
         escape_velocity: 193.800 km/s<br />(697,681 km/h)
         rotation_period: 47.274 d
         axial_tilt: 22.85°
         albedo: 0.30
-        temperature: 55 K<br />(-219 °C)
+        temperature: 96 K<br />(-178 °C)
       - name: ν Eshtiad V h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -452,14 +452,14 @@ planets:
         radius: 181,152.2 km<br/>(28.434 Yrths)
         surface_area: 4.124 × 10<sup>11</sup> km<sup>2</sup><br/>(808.485 Yrths)
         volume: 2.490 × 10<sup>16</sup> km<sup>3</sup><br/>(22988.359 Yrths)
-        mass: 4.992 × 10<sup>28</sup> kg<br />(277.3913145224788 Yrths)
+        mass: 4.992 × 10<sup>28</sup> kg<br />(8359.598 Yrths)
         density: 2.005 g/cm<sup>3</sup>
         surface_gravity: 101.399 m/s<sup>2</sup><br />(10.340 g<sub>0</sub>)
         escape_velocity: 191.800 km/s<br />(690,480 km/h)
         rotation_period: 51.604 d
         axial_tilt: 25.09°
         albedo: 0.30
-        temperature: 39 K<br />(-234 °C)
+        temperature: 96 K<br />(-178 °C)
   - name: ν Eshtiad VI
     type: Gas giant
     aphelion: 1,750,722,282 km<br />11.703 AU
@@ -471,7 +471,7 @@ planets:
     radius: 186.0 km<br/>(0.029 Yrths)
     surface_area: 4.346 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.694 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.364 × 10<sup>26</sup> kg<br />(123.30536971279415 Yrths)
+    mass: 7.364 × 10<sup>26</sup> kg<br />(123.31 Yrths)
     density: 27335367.688 g/cm<sup>3</sup>
     surface_gravity: 1419250.434 m/s<sup>2</sup><br />(144723.268 g<sub>0</sub>)
     escape_velocity: 727.033 km/s<br />(2,617,318 km/h)
@@ -492,14 +492,14 @@ planets:
         radius: 114,601.6 km<br/>(17.988 Yrths)
         surface_area: 1.650 × 10<sup>11</sup> km<sup>2</sup><br/>(323.568 Yrths)
         volume: 6.305 × 10<sup>15</sup> km<sup>3</sup><br/>(5820.345 Yrths)
-        mass: 1.812 × 10<sup>28</sup> kg<br />(123.30536971279415 Yrths)
+        mass: 1.812 × 10<sup>28</sup> kg<br />(3034.345 Yrths)
         density: 2.874 g/cm<sup>3</sup>
         surface_gravity: 91.964 m/s<sup>2</sup><br />(9.378 g<sub>0</sub>)
         escape_velocity: 145.283 km/s<br />(523,019 km/h)
         rotation_period: 44.451 d
         axial_tilt: 17.91°
         albedo: 0.30
-        temperature: 280 K<br />(7 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: ν Eshtiad VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -512,14 +512,14 @@ planets:
         radius: 89,237.8 km<br/>(14.007 Yrths)
         surface_area: 1.001 × 10<sup>11</sup> km<sup>2</sup><br/>(196.192 Yrths)
         volume: 2.977 × 10<sup>15</sup> km<sup>3</sup><br/>(2748.042 Yrths)
-        mass: 5.431 × 10<sup>27</sup> kg<br />(123.30536971279415 Yrths)
+        mass: 5.431 × 10<sup>27</sup> kg<br />(909.392 Yrths)
         density: 1.824 g/cm<sup>3</sup>
         surface_gravity: 45.456 m/s<sup>2</sup><br />(4.635 g<sub>0</sub>)
         escape_velocity: 90.132 km/s<br />(324,475 km/h)
         rotation_period: 40.746 d
         axial_tilt: 23.30°
         albedo: 0.30
-        temperature: 231 K<br />(-42 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: ν Eshtiad VI c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -532,14 +532,14 @@ planets:
         radius: 113,304.9 km<br/>(17.784 Yrths)
         surface_area: 1.613 × 10<sup>11</sup> km<sup>2</sup><br/>(316.287 Yrths)
         volume: 6.093 × 10<sup>15</sup> km<sup>3</sup><br/>(5625.003 Yrths)
-        mass: 1.517 × 10<sup>28</sup> kg<br />(123.30536971279415 Yrths)
+        mass: 1.517 × 10<sup>28</sup> kg<br />(2540.881 Yrths)
         density: 2.490 g/cm<sup>3</sup>
         surface_gravity: 78.781 m/s<sup>2</sup><br />(8.033 g<sub>0</sub>)
         escape_velocity: 133.704 km/s<br />(481,336 km/h)
         rotation_period: 49.147 d
         axial_tilt: 11.88°
         albedo: 0.30
-        temperature: 200 K<br />(-73 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: ν Eshtiad VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -552,14 +552,14 @@ planets:
         radius: 110,087.7 km<br/>(17.279 Yrths)
         surface_area: 1.523 × 10<sup>11</sup> km<sup>2</sup><br/>(298.581 Yrths)
         volume: 5.589 × 10<sup>15</sup> km<sup>3</sup><br/>(5159.332 Yrths)
-        mass: 1.066 × 10<sup>28</sup> kg<br />(123.30536971279415 Yrths)
+        mass: 1.066 × 10<sup>28</sup> kg<br />(1784.552 Yrths)
         density: 1.907 g/cm<sup>3</sup>
         surface_gravity: 58.612 m/s<sup>2</sup><br />(5.977 g<sub>0</sub>)
         escape_velocity: 113.677 km/s<br />(409,238 km/h)
         rotation_period: 46.693 d
         axial_tilt: 20.60°
         albedo: 0.30
-        temperature: 70 K<br />(-203 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: ν Eshtiad VI e
         type: Asteroid
         formationType: Captured
@@ -572,14 +572,14 @@ planets:
         radius: 112,860.2 km<br/>(17.715 Yrths)
         surface_area: 1.601 × 10<sup>11</sup> km<sup>2</sup><br/>(313.810 Yrths)
         volume: 6.022 × 10<sup>15</sup> km<sup>3</sup><br/>(5559.043 Yrths)
-        mass: 7.828 × 10<sup>27</sup> kg<br />(123.30536971279415 Yrths)
+        mass: 7.828 × 10<sup>27</sup> kg<br />(1310.796 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 40.963 m/s<sup>2</sup><br />(4.177 g<sub>0</sub>)
         escape_velocity: 96.222 km/s<br />(346,400 km/h)
         rotation_period: 47.296 d
         axial_tilt: 37.67°
         albedo: 0.30
-        temperature: 53 K<br />(-220 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: ν Eshtiad VI f
         type: Ice/rock hybrid
         formationType: Captured
@@ -592,14 +592,14 @@ planets:
         radius: 82,050.7 km<br/>(12.879 Yrths)
         surface_area: 8.460 × 10<sup>10</sup> km<sup>2</sup><br/>(165.863 Yrths)
         volume: 2.314 × 10<sup>15</sup> km<sup>3</sup><br/>(2136.109 Yrths)
-        mass: 4.811 × 10<sup>27</sup> kg<br />(123.30536971279415 Yrths)
+        mass: 4.811 × 10<sup>27</sup> kg<br />(805.570 Yrths)
         density: 2.079 g/cm<sup>3</sup>
         surface_gravity: 47.629 m/s<sup>2</sup><br />(4.857 g<sub>0</sub>)
         escape_velocity: 88.468 km/s<br />(318,486 km/h)
         rotation_period: 43.798 d
         axial_tilt: 9.63°
         albedo: 0.30
-        temperature: 46 K<br />(-227 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: ν Eshtiad VI g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -612,14 +612,14 @@ planets:
         radius: 91,750.7 km<br/>(14.401 Yrths)
         surface_area: 1.058 × 10<sup>11</sup> km<sup>2</sup><br/>(207.397 Yrths)
         volume: 3.235 × 10<sup>15</sup> km<sup>3</sup><br/>(2986.792 Yrths)
-        mass: 5.177 × 10<sup>27</sup> kg<br />(123.30536971279415 Yrths)
+        mass: 5.177 × 10<sup>27</sup> kg<br />(866.795 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 40.986 m/s<sup>2</sup><br />(4.179 g<sub>0</sub>)
         escape_velocity: 86.782 km/s<br />(312,416 km/h)
         rotation_period: 65.869 d
         axial_tilt: 18.02°
         albedo: 0.30
-        temperature: 31 K<br />(-242 °C)
+        temperature: 73 K<br />(-200 °C)
   - name: ν Eshtiad VII
     type: Ice giant
     aphelion: 2,738,028,078 km<br />18.302 AU
@@ -631,14 +631,14 @@ planets:
     radius: 30,435.3 km<br/>(4.777 Yrths)
     surface_area: 1.164 × 10<sup>10</sup> km<sup>2</sup><br/>(22.821 Yrths)
     volume: 1.181 × 10<sup>14</sup> km<sup>3</sup><br/>(109.021 Yrths)
-    mass: 1.194 × 10<sup>26</sup> kg<br />(19.989153742925975 Yrths)
+    mass: 1.194 × 10<sup>26</sup> kg<br />(19.99 Yrths)
     density: 1.011 g/cm<sup>3</sup>
     surface_gravity: 8.590 m/s<sup>2</sup><br />(0.876 g<sub>0</sub>)
     escape_velocity: 22.882 km/s<br />(82,374 km/h)
     rotation_period: 0.321 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 105 K<br />(-168 °C)
+    temperature: 96 K<br />(-177 °C)
     composition:
       - 80.9576% hydrogen
       - 12.7148% helium
@@ -658,14 +658,14 @@ planets:
         radius: 14,503.2 km<br/>(2.276 Yrths)
         surface_area: 2.643 × 10<sup>09</sup> km<sup>2</sup><br/>(5.182 Yrths)
         volume: 1.278 × 10<sup>13</sup> km<sup>3</sup><br/>(11.797 Yrths)
-        mass: 2.721 × 10<sup>25</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 2.721 × 10<sup>25</sup> kg<br />(4.556 Yrths)
         density: 2.129 g/cm<sup>3</sup>
         surface_gravity: 8.621 m/s<sup>2</sup><br />(0.879 g<sub>0</sub>)
         escape_velocity: 15.825 km/s<br />(56,969 km/h)
         rotation_period: 35.089 d
         axial_tilt: 17.78°
         albedo: 0.30
-        temperature: 493 K<br />(219 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: ν Eshtiad VII b
         type: Icy
         formationType: Accreted
@@ -678,14 +678,14 @@ planets:
         radius: 15,503.2 km<br/>(2.433 Yrths)
         surface_area: 3.020 × 10<sup>09</sup> km<sup>2</sup><br/>(5.921 Yrths)
         volume: 1.561 × 10<sup>13</sup> km<sup>3</sup><br/>(14.409 Yrths)
-        mass: 2.235 × 10<sup>25</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 2.235 × 10<sup>25</sup> kg<br />(3.743 Yrths)
         density: 1.432 g/cm<sup>3</sup>
         surface_gravity: 6.198 m/s<sup>2</sup><br />(0.632 g<sub>0</sub>)
         escape_velocity: 13.872 km/s<br />(49,941 km/h)
         rotation_period: 70.986 d
         axial_tilt: 17.99°
         albedo: 0.30
-        temperature: 470 K<br />(197 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: ν Eshtiad VII c
         type: Asteroid
         formationType: Captured
@@ -698,14 +698,14 @@ planets:
         radius: 21,801.6 km<br/>(3.422 Yrths)
         surface_area: 5.973 × 10<sup>09</sup> km<sup>2</sup><br/>(11.710 Yrths)
         volume: 4.341 × 10<sup>13</sup> km<sup>3</sup><br/>(40.072 Yrths)
-        mass: 1.006 × 10<sup>26</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 1.006 × 10<sup>26</sup> kg<br />(16.842 Yrths)
         density: 2.317 g/cm<sup>3</sup>
         surface_gravity: 14.105 m/s<sup>2</sup><br />(1.438 g<sub>0</sub>)
         escape_velocity: 24.816 km/s<br />(89,338 km/h)
         rotation_period: 42.315 d
         axial_tilt: 63.98°
         albedo: 0.30
-        temperature: 448 K<br />(175 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: ν Eshtiad VII d
         type: Icy
         formationType: Accreted
@@ -718,14 +718,14 @@ planets:
         radius: 15,693.8 km<br/>(2.463 Yrths)
         surface_area: 3.095 × 10<sup>09</sup> km<sup>2</sup><br/>(6.068 Yrths)
         volume: 1.619 × 10<sup>13</sup> km<sup>3</sup><br/>(14.947 Yrths)
-        mass: 2.135 × 10<sup>25</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 2.135 × 10<sup>25</sup> kg<br />(3.576 Yrths)
         density: 1.319 g/cm<sup>3</sup>
         surface_gravity: 5.779 m/s<sup>2</sup><br />(0.589 g<sub>0</sub>)
         escape_velocity: 13.477 km/s<br />(48,516 km/h)
         rotation_period: 50.324 d
         axial_tilt: 14.22°
         albedo: 0.30
-        temperature: 407 K<br />(134 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: ν Eshtiad VII e
         type: Dwarf planet
         formationType: Captured
@@ -738,14 +738,14 @@ planets:
         radius: 14,352.5 km<br/>(2.253 Yrths)
         surface_area: 2.589 × 10<sup>09</sup> km<sup>2</sup><br/>(5.075 Yrths)
         volume: 1.238 × 10<sup>13</sup> km<sup>3</sup><br/>(11.433 Yrths)
-        mass: 2.330 × 10<sup>25</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 2.330 × 10<sup>25</sup> kg<br />(3.901 Yrths)
         density: 1.881 g/cm<sup>3</sup>
         surface_gravity: 7.539 m/s<sup>2</sup><br />(0.769 g<sub>0</sub>)
         escape_velocity: 14.720 km/s<br />(52,994 km/h)
         rotation_period: 47.852 d
         axial_tilt: 41.19°
         albedo: 0.30
-        temperature: 388 K<br />(115 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: ν Eshtiad VII f
         type: Icy
         formationType: Captured
@@ -758,14 +758,14 @@ planets:
         radius: 38,067.8 km<br/>(5.975 Yrths)
         surface_area: 1.821 × 10<sup>10</sup> km<sup>2</sup><br/>(35.703 Yrths)
         volume: 2.311 × 10<sup>14</sup> km<sup>3</sup><br/>(213.329 Yrths)
-        mass: 2.198 × 10<sup>26</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 2.198 × 10<sup>26</sup> kg<br />(36.811 Yrths)
         density: 0.951 g/cm<sup>3</sup>
         surface_gravity: 10.111 m/s<sup>2</sup><br />(1.031 g<sub>0</sub>)
         escape_velocity: 27.764 km/s<br />(99,951 km/h)
         rotation_period: 82.111 d
         axial_tilt: 22.72°
         albedo: 0.30
-        temperature: 370 K<br />(97 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: ν Eshtiad VII g
         type: Dwarf planet
         formationType: Accreted
@@ -778,14 +778,14 @@ planets:
         radius: 27,683.8 km<br/>(4.345 Yrths)
         surface_area: 9.631 × 10<sup>09</sup> km<sup>2</sup><br/>(18.882 Yrths)
         volume: 8.887 × 10<sup>13</sup> km<sup>3</sup><br/>(82.046 Yrths)
-        mass: 1.066 × 10<sup>26</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 1.066 × 10<sup>26</sup> kg<br />(17.858 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 9.275 m/s<sup>2</sup><br />(0.946 g<sub>0</sub>)
         escape_velocity: 22.677 km/s<br />(81,636 km/h)
         rotation_period: 54.709 d
         axial_tilt: 24.39°
         albedo: 0.30
-        temperature: 353 K<br />(80 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: ν Eshtiad VII h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -798,14 +798,14 @@ planets:
         radius: 14,443.9 km<br/>(2.267 Yrths)
         surface_area: 2.622 × 10<sup>09</sup> km<sup>2</sup><br/>(5.140 Yrths)
         volume: 1.262 × 10<sup>13</sup> km<sup>3</sup><br/>(11.653 Yrths)
-        mass: 2.134 × 10<sup>25</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 2.134 × 10<sup>25</sup> kg<br />(3.574 Yrths)
         density: 1.691 g/cm<sup>3</sup>
         surface_gravity: 6.818 m/s<sup>2</sup><br />(0.695 g<sub>0</sub>)
         escape_velocity: 14.044 km/s<br />(50,558 km/h)
         rotation_period: 47.670 d
         axial_tilt: 25.96°
         albedo: 0.30
-        temperature: 336 K<br />(63 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: ν Eshtiad VII i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -818,14 +818,14 @@ planets:
         radius: 34,766.6 km<br/>(5.457 Yrths)
         surface_area: 1.519 × 10<sup>10</sup> km<sup>2</sup><br/>(29.779 Yrths)
         volume: 1.760 × 10<sup>14</sup> km<sup>3</sup><br/>(162.504 Yrths)
-        mass: 4.151 × 10<sup>26</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 4.151 × 10<sup>26</sup> kg<br />(69.516 Yrths)
         density: 2.358 g/cm<sup>3</sup>
         surface_gravity: 22.893 m/s<sup>2</sup><br />(2.334 g<sub>0</sub>)
         escape_velocity: 39.924 km/s<br />(143,728 km/h)
         rotation_period: 47.646 d
         axial_tilt: 16.54°
         albedo: 0.30
-        temperature: 321 K<br />(48 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: ν Eshtiad VII j
         type: Ice/rock hybrid
         formationType: Captured
@@ -838,14 +838,14 @@ planets:
         radius: 22,687.1 km<br/>(3.561 Yrths)
         surface_area: 6.468 × 10<sup>09</sup> km<sup>2</sup><br/>(12.681 Yrths)
         volume: 4.891 × 10<sup>13</sup> km<sup>3</sup><br/>(45.156 Yrths)
-        mass: 1.129 × 10<sup>26</sup> kg<br />(19.989153742925975 Yrths)
+        mass: 1.129 × 10<sup>26</sup> kg<br />(18.909 Yrths)
         density: 2.309 g/cm<sup>3</sup>
         surface_gravity: 14.624 m/s<sup>2</sup><br />(1.491 g<sub>0</sub>)
         escape_velocity: 25.777 km/s<br />(92,796 km/h)
         rotation_period: 47.037 d
         axial_tilt: 14.76°
         albedo: 0.30
-        temperature: 306 K<br />(33 °C)
+        temperature: 56 K<br />(-217 °C)
   - name: ν Eshtiad VIII
     type: Gas giant
     aphelion: 4,633,800,370 km<br />30.975 AU
@@ -857,7 +857,7 @@ planets:
     radius: 229.0 km<br/>(0.036 Yrths)
     surface_area: 6.592 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.033 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.798 × 10<sup>27</sup> kg<br />(301.0155098284475 Yrths)
+    mass: 1.798 × 10<sup>27</sup> kg<br />(301.02 Yrths)
     density: 35717983.321 g/cm<sup>3</sup>
     surface_gravity: 2284034.557 m/s<sup>2</sup><br />(232906.707 g<sub>0</sub>)
     escape_velocity: 1023.568 km/s<br />(3,684,845 km/h)
@@ -878,14 +878,14 @@ planets:
         radius: 143,760.0 km<br/>(22.565 Yrths)
         surface_area: 2.597 × 10<sup>11</sup> km<sup>2</sup><br/>(509.168 Yrths)
         volume: 1.245 × 10<sup>16</sup> km<sup>3</sup><br/>(11489.236 Yrths)
-        mass: 2.529 × 10<sup>28</sup> kg<br />(301.0155098284475 Yrths)
+        mass: 2.529 × 10<sup>28</sup> kg<br />(4234.896 Yrths)
         density: 2.032 g/cm<sup>3</sup>
         surface_gravity: 81.565 m/s<sup>2</sup><br />(8.317 g<sub>0</sub>)
         escape_velocity: 153.243 km/s<br />(551,674 km/h)
         rotation_period: 41.064 d
         axial_tilt: 8.83°
         albedo: 0.30
-        temperature: 229 K<br />(-44 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: ν Eshtiad VIII b
         type: Icy
         formationType: Captured
@@ -898,14 +898,14 @@ planets:
         radius: 174,619.7 km<br/>(27.409 Yrths)
         surface_area: 3.832 × 10<sup>11</sup> km<sup>2</sup><br/>(751.227 Yrths)
         volume: 2.230 × 10<sup>16</sup> km<sup>3</sup><br/>(20590.018 Yrths)
-        mass: 2.343 × 10<sup>28</sup> kg<br />(301.0155098284475 Yrths)
+        mass: 2.343 × 10<sup>28</sup> kg<br />(3922.992 Yrths)
         density: 1.050 g/cm<sup>3</sup>
         surface_gravity: 51.211 m/s<sup>2</sup><br />(5.222 g<sub>0</sub>)
         escape_velocity: 133.826 km/s<br />(481,773 km/h)
         rotation_period: 51.411 d
         axial_tilt: 25.29°
         albedo: 0.30
-        temperature: 181 K<br />(-92 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: ν Eshtiad VIII c
         type: Icy
         formationType: Accreted
@@ -918,14 +918,14 @@ planets:
         radius: 169,410.6 km<br/>(26.591 Yrths)
         surface_area: 3.607 × 10<sup>11</sup> km<sup>2</sup><br/>(707.076 Yrths)
         volume: 2.037 × 10<sup>16</sup> km<sup>3</sup><br/>(18801.788 Yrths)
-        mass: 2.652 × 10<sup>28</sup> kg<br />(301.0155098284475 Yrths)
+        mass: 2.652 × 10<sup>28</sup> kg<br />(4441.065 Yrths)
         density: 1.302 g/cm<sup>3</sup>
         surface_gravity: 61.594 m/s<sup>2</sup><br />(6.281 g<sub>0</sub>)
         escape_velocity: 144.561 km/s<br />(520,419 km/h)
         rotation_period: 47.447 d
         axial_tilt: 25.51°
         albedo: 0.30
-        temperature: 164 K<br />(-109 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: ν Eshtiad VIII d
         type: Asteroid
         formationType: Captured
@@ -938,14 +938,14 @@ planets:
         radius: 255,847.1 km<br/>(40.158 Yrths)
         surface_area: 8.226 × 10<sup>11</sup> km<sup>2</sup><br/>(1612.671 Yrths)
         volume: 7.015 × 10<sup>16</sup> km<sup>3</sup><br/>(64761.786 Yrths)
-        mass: 1.367 × 10<sup>29</sup> kg<br />(301.0155098284475 Yrths)
+        mass: 1.367 × 10<sup>29</sup> kg<br />(22893.854 Yrths)
         density: 1.949 g/cm<sup>3</sup>
         surface_gravity: 139.217 m/s<sup>2</sup><br />(14.196 g<sub>0</sub>)
         escape_velocity: 267.083 km/s<br />(961,500 km/h)
         rotation_period: 41.530 d
         axial_tilt: 24.65°
         albedo: 0.30
-        temperature: 112 K<br />(-161 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: ν Eshtiad VIII e
         type: Dwarf planet
         formationType: Captured
@@ -958,12 +958,12 @@ planets:
         radius: 175,326.8 km<br/>(27.520 Yrths)
         surface_area: 3.863 × 10<sup>11</sup> km<sup>2</sup><br/>(757.324 Yrths)
         volume: 2.258 × 10<sup>16</sup> km<sup>3</sup><br/>(20841.178 Yrths)
-        mass: 2.884 × 10<sup>28</sup> kg<br />(301.0155098284475 Yrths)
+        mass: 2.884 × 10<sup>28</sup> kg<br />(4829.989 Yrths)
         density: 1.278 g/cm<sup>3</sup>
         surface_gravity: 62.544 m/s<sup>2</sup><br />(6.378 g<sub>0</sub>)
         escape_velocity: 148.193 km/s<br />(533,494 km/h)
         rotation_period: 65.745 d
         axial_tilt: 21.98°
         albedo: 0.30
-        temperature: 52 K<br />(-221 °C)
+        temperature: 43 K<br />(-230 °C)
 ---

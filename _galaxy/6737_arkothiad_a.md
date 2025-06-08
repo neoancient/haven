@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6737 Arkothiad A is a star in the constellation Arkoth
+      6737 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 270.50 ly
 apparent_magnitude: 10.62
 absolute_magnitude: 6.02

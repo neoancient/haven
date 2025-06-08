@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9001 Dialkeshiad is a star in the constellation Dialkes
+      9001 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 306.10 ly
 apparent_magnitude: 11.29
 absolute_magnitude: 6.43

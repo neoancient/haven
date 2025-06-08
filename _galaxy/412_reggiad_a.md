@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      412 Reggiad A is a star in the constellation Reg
+      412 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 667.54 ly
 apparent_magnitude: 6.78
 absolute_magnitude: 0.22

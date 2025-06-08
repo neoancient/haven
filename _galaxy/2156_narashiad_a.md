@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2156 Narashiad A is a star in the constellation Naras
+      2156 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 322.59 ly
 apparent_magnitude: 7.73
 absolute_magnitude: 2.75

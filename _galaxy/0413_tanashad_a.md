@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0413 Tanashad A is a star in the constellation Tanas
+      0413 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 252.91 ly
 apparent_magnitude: 6.39
 absolute_magnitude: 1.94

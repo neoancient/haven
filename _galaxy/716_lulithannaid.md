@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      716 Lulithannaid is a star in the constellation Lulithan
+      716 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 1052.73 ly
 apparent_magnitude: 9.51
 absolute_magnitude: 1.96

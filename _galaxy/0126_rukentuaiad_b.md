@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0126 Rukentuaiad B is a star in the constellation Rukentua
+      0126 Rukentuaiad B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 193.16 ly
 apparent_magnitude: 9.07
 absolute_magnitude: 5.21

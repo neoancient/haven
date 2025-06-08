@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1661 Arniad A is a star in the constellation Arni
+      1661 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 180.30 ly
 apparent_magnitude: 8.02
 absolute_magnitude: 4.31

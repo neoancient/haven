@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      31109 Dialkeshiad is a star in the constellation Dialkes
+      31109 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 557.48 ly
 apparent_magnitude: 9.88
 absolute_magnitude: 3.72

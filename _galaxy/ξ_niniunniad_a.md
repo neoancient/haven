@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ξ Niniunniad A is a star in the constellation Niniun
+      ξ Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 67.84 ly
 apparent_magnitude: 4.47
 absolute_magnitude: 2.88

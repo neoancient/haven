@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      604 Reggiad is a star in the constellation Reg
+      604 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 155.47 ly
 apparent_magnitude: 9.31
 absolute_magnitude: 5.92

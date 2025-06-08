@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1814 Noniashad A is a star in the constellation Nonias
+      1814 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 708.25 ly
 apparent_magnitude: 7.04
 absolute_magnitude: 0.36

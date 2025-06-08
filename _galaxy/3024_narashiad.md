@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3024 Narashiad is a star in the constellation Naras
+      3024 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 435.84 ly
 apparent_magnitude: 11.15
 absolute_magnitude: 5.52

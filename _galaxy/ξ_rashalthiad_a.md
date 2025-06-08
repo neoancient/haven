@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ξ Rashalthiad A is a star in the constellation Rashalth
+      ξ Rashalthiad A is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 16.18 ly
 apparent_magnitude: 6.12
 absolute_magnitude: 7.64

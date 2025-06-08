@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1338 Urthiad A is a star in the constellation Urth
+      1338 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 446.38 ly
 apparent_magnitude: 7.97
 absolute_magnitude: 2.29

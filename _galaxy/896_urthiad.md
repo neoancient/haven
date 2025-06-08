@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      896 Urthiad is a star in the constellation Urth
+      896 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 212.81 ly
 apparent_magnitude: 9.10
 absolute_magnitude: 5.03

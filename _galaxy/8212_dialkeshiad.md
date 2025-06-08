@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8212 Dialkeshiad is a star in the constellation Dialkes
+      8212 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 479.95 ly
 apparent_magnitude: 10.82
 absolute_magnitude: 4.98

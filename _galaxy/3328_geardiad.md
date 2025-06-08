@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3328 Geardiad is a star in the constellation Geard
+      3328 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 268.02 ly
 apparent_magnitude: 9.07
 absolute_magnitude: 4.50

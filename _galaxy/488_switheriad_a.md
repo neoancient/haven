@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      488 Switheriad A is a star in the constellation Swither
+      488 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 235.66 ly
 apparent_magnitude: 9.56
 absolute_magnitude: 5.27

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0102 Kenmulliad is a star in the constellation Kenmul
+      0102 Kenmulliad is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 162.55 ly
 apparent_magnitude: 6.40
 absolute_magnitude: 2.91
@@ -31,14 +31,14 @@ planets:
     radius: 3,071.4 km<br/>(0.482 Yrths)
     surface_area: 1.185 × 10<sup>08</sup> km<sup>2</sup><br/>(0.232 Yrths)
     volume: 1.214 × 10<sup>11</sup> km<sup>3</sup><br/>(0.112 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.921 g/cm<sup>3</sup>
     surface_gravity: 4.220 m/s<sup>2</sup><br />(0.430 g<sub>0</sub>)
     escape_velocity: 5.095 km/s<br />(18,341 km/h)
     rotation_period: 2.004 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 882 K<br />(609 °C)
+    temperature: 886 K<br />(613 °C)
     surface_pressure: 5 kPa<br />(0 atm)
     composition:
       - 85.9334% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 547.4 km<br/>(0.086 Yrths)
         surface_area: 3.766 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.871 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.836 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.836 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.672 g/cm<sup>3</sup>
         surface_gravity: 0.408 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.669 km/s<br />(2,409 km/h)
         rotation_period: 51.684 d
         axial_tilt: 19.95°
         albedo: 0.30
-        temperature: 25145 K<br />(24872 °C)
+        temperature: 849 K<br />(576 °C)
       - name: 0102 Kenmulliad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -77,12 +77,12 @@ planets:
         radius: 473.5 km<br/>(0.074 Yrths)
         surface_area: 2.817 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.446 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.106 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.106 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.488 g/cm<sup>3</sup>
         surface_gravity: 0.329 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.558 km/s<br />(2,010 km/h)
         rotation_period: 44.825 d
         axial_tilt: 13.02°
         albedo: 0.30
-        temperature: 23975 K<br />(23702 °C)
+        temperature: 849 K<br />(576 °C)
 ---

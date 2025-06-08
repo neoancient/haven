@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Rukentuaiad A is a star in the constellation Rukentua
+      ο Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 247.21 ly
 apparent_magnitude: 4.33
 absolute_magnitude: -0.06

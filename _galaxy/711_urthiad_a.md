@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      711 Urthiad A is a star in the constellation Urth
+      711 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 638.88 ly
 apparent_magnitude: 6.54
 absolute_magnitude: 0.08

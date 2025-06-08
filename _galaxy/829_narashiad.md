@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      829 Narashiad is a star in the constellation Naras
+      829 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 519.60 ly
 apparent_magnitude: 8.76
 absolute_magnitude: 2.74

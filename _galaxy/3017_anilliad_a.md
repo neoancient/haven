@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3017 Anilliad A is a star in the constellation Anil
+      3017 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 463.33 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 1.77

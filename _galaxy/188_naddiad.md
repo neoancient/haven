@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      188 Naddiad is a star in the constellation Naddi
+      188 Naddiad is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 350.56 ly
 apparent_magnitude: 11.08
 absolute_magnitude: 5.92

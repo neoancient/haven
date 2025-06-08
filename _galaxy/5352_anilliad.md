@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5352 Anilliad is a star in the constellation Anil
+      5352 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 657.29 ly
 apparent_magnitude: 11.87
 absolute_magnitude: 5.35

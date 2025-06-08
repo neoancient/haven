@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4733 Arkothiad is a star in the constellation Arkoth
+      4733 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 569.94 ly
 apparent_magnitude: 10.97
 absolute_magnitude: 4.76

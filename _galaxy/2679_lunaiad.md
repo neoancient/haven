@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2679 Lunaiad is a star in the constellation Luna
+      2679 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 389.63 ly
 apparent_magnitude: 10.34
 absolute_magnitude: 4.95

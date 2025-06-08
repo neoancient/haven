@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      924 Noniashad A is a star in the constellation Nonias
+      924 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 657.92 ly
 apparent_magnitude: 6.95
 absolute_magnitude: 0.43

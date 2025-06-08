@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Sheltha A is a star in the constellation Sheltua
+      Sheltha A is a star in the constellation <a href="sheltua.html">Sheltua</a>
 distance: 516.54 ly
 apparent_magnitude: 4.04
 absolute_magnitude: -1.96

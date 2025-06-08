@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2022 Tanashad A is a star in the constellation Tanas
+      2022 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 233.82 ly
 apparent_magnitude: 8.78
 absolute_magnitude: 4.50

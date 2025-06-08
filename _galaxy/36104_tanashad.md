@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      36104 Tanashad is a star in the constellation Tanas
+      36104 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 508.14 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 4.76

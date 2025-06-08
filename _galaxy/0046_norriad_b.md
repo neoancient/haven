@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0046 Norriad B is a star in the constellation Nor
+      0046 Norriad B is a star in the constellation <a href="nor.html">Nor</a>
 distance: 3155.90 ly
 apparent_magnitude: 9.99
 absolute_magnitude: 0.06

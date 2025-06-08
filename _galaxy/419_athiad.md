@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      419 Athiad is a star in the constellation Ath
+      419 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 554.08 ly
 apparent_magnitude: 7.04
 absolute_magnitude: 0.89
@@ -31,7 +31,7 @@ planets:
     radius: 125.5 km<br/>(0.020 Yrths)
     surface_area: 1.980 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 8.287 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.456 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
+    mass: 1.456 × 10<sup>26</sup> kg<br />(24.37 Yrths)
     density: 17564627.037 g/cm<sup>3</sup>
     surface_gravity: 615622.094 m/s<sup>2</sup><br />(62775.983 g<sub>0</sub>)
     escape_velocity: 393.416 km/s<br />(1,416,298 km/h)
@@ -41,46 +41,26 @@ planets:
     temperature: 292 K<br />(19 °C)
     moons:
       - name: 419 Athiad I a
-        type: Icy
+        type: Ice/rock hybrid
         formationType: Captured
-        aphelion: 10,937,023 km<br />
-        perihelion: 4,708,479 km<br />
-        semi_major_axis: 7,822,751 km<br />
-        eccentricity: 0.398
+        aphelion: 15,676,383 km<br />
+        perihelion: 14,812,276 km<br />
+        semi_major_axis: 15,244,329 km<br />
+        eccentricity: 0.028
         orbital_period: 0.11 d<br />
-        inclination: 15.57°
-        radius: 31,366.8 km<br/>(4.923 Yrths)
-        surface_area: 1.236 × 10<sup>10</sup> km<sup>2</sup><br/>(24.240 Yrths)
-        volume: 1.293 × 10<sup>14</sup> km<sup>3</sup><br/>(119.340 Yrths)
-        mass: 1.966 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
-        density: 1.521 g/cm<sup>3</sup>
-        surface_gravity: 13.321 m/s<sup>2</sup><br />(1.358 g<sub>0</sub>)
-        escape_velocity: 28.927 km/s<br />(104,138 km/h)
-        rotation_period: 56.908 d
-        axial_tilt: 14.47°
+        inclination: 5.86°
+        radius: 16,967.1 km<br/>(2.663 Yrths)
+        surface_area: 3.618 × 10<sup>09</sup> km<sup>2</sup><br/>(7.093 Yrths)
+        volume: 2.046 × 10<sup>13</sup> km<sup>3</sup><br/>(18.889 Yrths)
+        mass: 4.630 × 10<sup>25</sup> kg<br />(7.753 Yrths)
+        density: 2.263 g/cm<sup>3</sup>
+        surface_gravity: 10.719 m/s<sup>2</sup><br />(1.093 g<sub>0</sub>)
+        escape_velocity: 19.085 km/s<br />(68,707 km/h)
+        rotation_period: 47.029 d
+        axial_tilt: 23.67°
         albedo: 0.30
-        temperature: 2778 K<br />(2505 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 419 Athiad I b
-        type: Rocky
-        formationType: Impact formed
-        aphelion: 16,793,235 km<br />
-        perihelion: 16,744,290 km<br />
-        semi_major_axis: 16,768,762 km<br />
-        eccentricity: 0.001
-        orbital_period: 0.11 d<br />
-        inclination: 2.84°
-        radius: 25,497.2 km<br/>(4.002 Yrths)
-        surface_area: 8.169 × 10<sup>09</sup> km<sup>2</sup><br/>(16.017 Yrths)
-        volume: 6.943 × 10<sup>13</sup> km<sup>3</sup><br/>(64.099 Yrths)
-        mass: 2.062 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
-        density: 2.970 g/cm<sup>3</sup>
-        surface_gravity: 21.139 m/s<sup>2</sup><br />(2.156 g<sub>0</sub>)
-        escape_velocity: 32.855 km/s<br />(118,278 km/h)
-        rotation_period: 32.515 d
-        axial_tilt: 9.34°
-        albedo: 0.30
-        temperature: 1898 K<br />(1625 °C)
-      - name: 419 Athiad I c
         type: Icy
         formationType: Accreted
         aphelion: 22,564,341 km<br />
@@ -92,35 +72,15 @@ planets:
         radius: 40,181.0 km<br/>(6.307 Yrths)
         surface_area: 2.029 × 10<sup>10</sup> km<sup>2</sup><br/>(39.776 Yrths)
         volume: 2.717 × 10<sup>14</sup> km<sup>3</sup><br/>(250.865 Yrths)
-        mass: 2.249 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
+        mass: 2.249 × 10<sup>26</sup> kg<br />(37.652 Yrths)
         density: 0.827 g/cm<sup>3</sup>
         surface_gravity: 9.283 m/s<sup>2</sup><br />(0.947 g<sub>0</sub>)
         escape_velocity: 27.331 km/s<br />(98,393 km/h)
         rotation_period: 59.921 d
         axial_tilt: 16.48°
         albedo: 0.30
-        temperature: 1645 K<br />(1372 °C)
-      - name: 419 Athiad I d
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 31,145,440 km<br />
-        perihelion: 22,867,079 km<br />
-        semi_major_axis: 27,006,260 km<br />
-        eccentricity: 0.153
-        orbital_period: 0.11 d<br />
-        inclination: 23.70°
-        radius: 28,588.4 km<br/>(4.487 Yrths)
-        surface_area: 1.027 × 10<sup>10</sup> km<sup>2</sup><br/>(20.136 Yrths)
-        volume: 9.787 × 10<sup>13</sup> km<sup>3</sup><br/>(90.354 Yrths)
-        mass: 2.277 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
-        density: 2.327 g/cm<sup>3</sup>
-        surface_gravity: 18.573 m/s<sup>2</sup><br />(1.894 g<sub>0</sub>)
-        escape_velocity: 32.609 km/s<br />(117,393 km/h)
-        rotation_period: 38.125 d
-        axial_tilt: 24.51°
-        albedo: 0.30
-        temperature: 1495 K<br />(1222 °C)
-      - name: 419 Athiad I e
+        temperature: 303 K<br />(30 °C)
+      - name: 419 Athiad I c
         type: Icy
         formationType: Captured
         aphelion: 70,175,223 km<br />
@@ -132,15 +92,75 @@ planets:
         radius: 31,192.5 km<br/>(4.896 Yrths)
         surface_area: 1.223 × 10<sup>10</sup> km<sup>2</sup><br/>(23.971 Yrths)
         volume: 1.271 × 10<sup>14</sup> km<sup>3</sup><br/>(117.362 Yrths)
-        mass: 2.326 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
+        mass: 2.326 × 10<sup>26</sup> kg<br />(38.950 Yrths)
         density: 1.830 g/cm<sup>3</sup>
         surface_gravity: 15.935 m/s<sup>2</sup><br />(1.625 g<sub>0</sub>)
         escape_velocity: 31.550 km/s<br />(113,582 km/h)
         rotation_period: 45.371 d
         axial_tilt: 19.17°
         albedo: 0.30
-        temperature: 928 K<br />(655 °C)
+        temperature: 303 K<br />(30 °C)
+      - name: 419 Athiad I d
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 85,697,778 km<br />
+        perihelion: 83,816,644 km<br />
+        semi_major_axis: 84,757,211 km<br />
+        eccentricity: 0.011
+        orbital_period: 0.11 d<br />
+        inclination: 6.20°
+        radius: 17,056.7 km<br/>(2.677 Yrths)
+        surface_area: 3.656 × 10<sup>09</sup> km<sup>2</sup><br/>(7.168 Yrths)
+        volume: 2.079 × 10<sup>13</sup> km<sup>3</sup><br/>(19.190 Yrths)
+        mass: 4.262 × 10<sup>25</sup> kg<br />(7.136 Yrths)
+        density: 2.050 g/cm<sup>3</sup>
+        surface_gravity: 9.763 m/s<sup>2</sup><br />(0.996 g<sub>0</sub>)
+        escape_velocity: 18.262 km/s<br />(65,745 km/h)
+        rotation_period: 41.573 d
+        axial_tilt: 16.26°
+        albedo: 0.30
+        temperature: 303 K<br />(30 °C)
+      - name: 419 Athiad I e
+        type: Icy
+        formationType: Accreted
+        aphelion: 103,297,975 km<br />
+        perihelion: 101,814,476 km<br />
+        semi_major_axis: 102,556,226 km<br />
+        eccentricity: 0.007
+        orbital_period: 0.11 d<br />
+        inclination: 0.39°
+        radius: 26,566.1 km<br/>(4.170 Yrths)
+        surface_area: 8.869 × 10<sup>09</sup> km<sup>2</sup><br/>(17.388 Yrths)
+        volume: 7.854 × 10<sup>13</sup> km<sup>3</sup><br/>(72.504 Yrths)
+        mass: 1.047 × 10<sup>26</sup> kg<br />(17.539 Yrths)
+        density: 1.334 g/cm<sup>3</sup>
+        surface_gravity: 9.892 m/s<sup>2</sup><br />(1.009 g<sub>0</sub>)
+        escape_velocity: 22.941 km/s<br />(82,588 km/h)
+        rotation_period: 58.307 d
+        axial_tilt: 20.28°
+        albedo: 0.30
+        temperature: 303 K<br />(30 °C)
       - name: 419 Athiad I f
+        type: Asteroid
+        formationType: Captured
+        aphelion: 301,343,086 km<br />
+        perihelion: 182,301,345 km<br />
+        semi_major_axis: 241,822,215 km<br />
+        eccentricity: 0.246
+        orbital_period: 0.11 d<br />
+        inclination: 76.39°
+        radius: 16,834.4 km<br/>(2.642 Yrths)
+        surface_area: 3.561 × 10<sup>09</sup> km<sup>2</sup><br/>(6.982 Yrths)
+        volume: 1.998 × 10<sup>13</sup> km<sup>3</sup><br/>(18.449 Yrths)
+        mass: 3.846 × 10<sup>25</sup> kg<br />(6.440 Yrths)
+        density: 1.925 g/cm<sup>3</sup>
+        surface_gravity: 9.046 m/s<sup>2</sup><br />(0.922 g<sub>0</sub>)
+        escape_velocity: 17.464 km/s<br />(62,869 km/h)
+        rotation_period: 52.139 d
+        axial_tilt: 47.36°
+        albedo: 0.30
+        temperature: 303 K<br />(30 °C)
+      - name: 419 Athiad I g
         type: Icy
         formationType: Captured
         aphelion: 302,459,830 km<br />
@@ -152,35 +172,35 @@ planets:
         radius: 34,784.9 km<br/>(5.460 Yrths)
         surface_area: 1.521 × 10<sup>10</sup> km<sup>2</sup><br/>(29.810 Yrths)
         volume: 1.763 × 10<sup>14</sup> km<sup>3</sup><br/>(162.760 Yrths)
-        mass: 2.674 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
+        mass: 2.674 × 10<sup>26</sup> kg<br />(44.776 Yrths)
         density: 1.517 g/cm<sup>3</sup>
         surface_gravity: 14.730 m/s<sup>2</sup><br />(1.502 g<sub>0</sub>)
         escape_velocity: 32.034 km/s<br />(115,321 km/h)
         rotation_period: 41.828 d
         axial_tilt: 20.42°
         albedo: 0.30
-        temperature: 454 K<br />(181 °C)
-      - name: 419 Athiad I g
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 499,667,655 km<br />
-        perihelion: 442,818,518 km<br />
-        semi_major_axis: 471,243,086 km<br />
-        eccentricity: 0.060
-        orbital_period: 0.11 d<br />
-        inclination: 2.37°
-        radius: 32,076.8 km<br/>(5.035 Yrths)
-        surface_area: 1.293 × 10<sup>10</sup> km<sup>2</sup><br/>(25.349 Yrths)
-        volume: 1.382 × 10<sup>14</sup> km<sup>3</sup><br/>(127.630 Yrths)
-        mass: 2.212 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
-        density: 1.600 g/cm<sup>3</sup>
-        surface_gravity: 14.329 m/s<sup>2</sup><br />(1.461 g<sub>0</sub>)
-        escape_velocity: 30.340 km/s<br />(109,223 km/h)
-        rotation_period: 50.367 d
-        axial_tilt: 18.78°
-        albedo: 0.30
-        temperature: 358 K<br />(85 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 419 Athiad I h
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 406,929,081 km<br />
+        perihelion: 371,985,111 km<br />
+        semi_major_axis: 389,457,096 km<br />
+        eccentricity: 0.045
+        orbital_period: 0.11 d<br />
+        inclination: 1.65°
+        radius: 18,005.7 km<br/>(2.826 Yrths)
+        surface_area: 4.074 × 10<sup>09</sup> km<sup>2</sup><br/>(7.987 Yrths)
+        volume: 2.445 × 10<sup>13</sup> km<sup>3</sup><br/>(22.574 Yrths)
+        mass: 5.198 × 10<sup>25</sup> kg<br />(8.704 Yrths)
+        density: 2.126 g/cm<sup>3</sup>
+        surface_gravity: 10.686 m/s<sup>2</sup><br />(1.090 g<sub>0</sub>)
+        escape_velocity: 19.630 km/s<br />(70,669 km/h)
+        rotation_period: 50.469 d
+        axial_tilt: 27.18°
+        albedo: 0.30
+        temperature: 303 K<br />(30 °C)
+      - name: 419 Athiad I i
         type: Icy
         formationType: Accreted
         aphelion: 706,119,127 km<br />
@@ -192,15 +212,35 @@ planets:
         radius: 38,409.0 km<br/>(6.029 Yrths)
         surface_area: 1.854 × 10<sup>10</sup> km<sup>2</sup><br/>(36.345 Yrths)
         volume: 2.373 × 10<sup>14</sup> km<sup>3</sup><br/>(219.117 Yrths)
-        mass: 3.250 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
+        mass: 3.250 × 10<sup>26</sup> kg<br />(54.424 Yrths)
         density: 1.369 g/cm<sup>3</sup>
         surface_gravity: 14.684 m/s<sup>2</sup><br />(1.497 g<sub>0</sub>)
         escape_velocity: 33.609 km/s<br />(120,992 km/h)
         rotation_period: 52.397 d
         axial_tilt: 21.32°
         albedo: 0.30
-        temperature: 310 K<br />(37 °C)
-      - name: 419 Athiad I i
+        temperature: 303 K<br />(30 °C)
+      - name: 419 Athiad I j
+        type: Icy
+        formationType: Accreted
+        aphelion: 919,233,391 km<br />
+        perihelion: 750,438,355 km<br />
+        semi_major_axis: 834,835,873 km<br />
+        eccentricity: 0.101
+        orbital_period: 0.11 d<br />
+        inclination: 2.40°
+        radius: 20,327.5 km<br/>(3.191 Yrths)
+        surface_area: 5.193 × 10<sup>09</sup> km<sup>2</sup><br/>(10.180 Yrths)
+        volume: 3.518 × 10<sup>13</sup> km<sup>3</sup><br/>(32.481 Yrths)
+        mass: 5.625 × 10<sup>25</sup> kg<br />(9.419 Yrths)
+        density: 1.599 g/cm<sup>3</sup>
+        surface_gravity: 9.074 m/s<sup>2</sup><br />(0.925 g<sub>0</sub>)
+        escape_velocity: 19.219 km/s<br />(69,190 km/h)
+        rotation_period: 65.781 d
+        axial_tilt: 14.43°
+        albedo: 0.30
+        temperature: 303 K<br />(30 °C)
+      - name: 419 Athiad I k
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 1,103,810,932 km<br />
@@ -212,15 +252,35 @@ planets:
         radius: 31,328.9 km<br/>(4.917 Yrths)
         surface_area: 1.233 × 10<sup>10</sup> km<sup>2</sup><br/>(24.181 Yrths)
         volume: 1.288 × 10<sup>14</sup> km<sup>3</sup><br/>(118.908 Yrths)
-        mass: 2.416 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
+        mass: 2.416 × 10<sup>26</sup> kg<br />(40.455 Yrths)
         density: 1.876 g/cm<sup>3</sup>
         surface_gravity: 16.406 m/s<sup>2</sup><br />(1.673 g<sub>0</sub>)
         escape_velocity: 32.084 km/s<br />(115,503 km/h)
         rotation_period: 66.547 d
         axial_tilt: 29.65°
         albedo: 0.30
-        temperature: 244 K<br />(-29 °C)
-      - name: 419 Athiad I j
+        temperature: 303 K<br />(30 °C)
+      - name: 419 Athiad I l
+        type: Icy
+        formationType: Captured
+        aphelion: 1,228,517,152 km<br />
+        perihelion: 1,216,049,251 km<br />
+        semi_major_axis: 1,222,283,202 km<br />
+        eccentricity: 0.005
+        orbital_period: 0.11 d<br />
+        inclination: 0.45°
+        radius: 28,400.4 km<br/>(4.458 Yrths)
+        surface_area: 1.014 × 10<sup>10</sup> km<sup>2</sup><br/>(19.872 Yrths)
+        volume: 9.595 × 10<sup>13</sup> km<sup>3</sup><br/>(88.583 Yrths)
+        mass: 1.089 × 10<sup>26</sup> kg<br />(18.234 Yrths)
+        density: 1.135 g/cm<sup>3</sup>
+        surface_gravity: 8.999 m/s<sup>2</sup><br />(0.918 g<sub>0</sub>)
+        escape_velocity: 22.624 km/s<br />(81,445 km/h)
+        rotation_period: 81.784 d
+        axial_tilt: 21.64°
+        albedo: 0.30
+        temperature: 303 K<br />(30 °C)
+      - name: 419 Athiad I m
         type: Icy
         formationType: Accreted
         aphelion: 1,399,359,786 km<br />
@@ -232,14 +292,14 @@ planets:
         radius: 48,674.2 km<br/>(7.640 Yrths)
         surface_area: 2.977 × 10<sup>10</sup> km<sup>2</sup><br/>(58.369 Yrths)
         volume: 4.830 × 10<sup>14</sup> km<sup>3</sup><br/>(445.937 Yrths)
-        mass: 3.381 × 10<sup>26</sup> kg<br />(24.37358710796021 Yrths)
+        mass: 3.381 × 10<sup>26</sup> kg<br />(56.619 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 9.513 m/s<sup>2</sup><br />(0.970 g<sub>0</sub>)
         escape_velocity: 30.452 km/s<br />(109,626 km/h)
         rotation_period: 70.181 d
         axial_tilt: 14.73°
         albedo: 0.30
-        temperature: 212 K<br />(-61 °C)
+        temperature: 303 K<br />(30 °C)
   - name: 419 Athiad II
     type: Gas dwarf
     aphelion: 1,437,300,823 km<br />9.608 AU
@@ -251,14 +311,14 @@ planets:
     radius: 15,520.2 km<br/>(2.436 Yrths)
     surface_area: 3.027 × 10<sup>09</sup> km<sup>2</sup><br/>(5.934 Yrths)
     volume: 1.566 × 10<sup>13</sup> km<sup>3</sup><br/>(14.457 Yrths)
-    mass: 3.427 × 10<sup>25</sup> kg<br />(5.7378453466992285 Yrths)
+    mass: 3.427 × 10<sup>25</sup> kg<br />(5.74 Yrths)
     density: 2.188 g/cm<sup>3</sup>
     surface_gravity: 9.482 m/s<sup>2</sup><br />(0.967 g<sub>0</sub>)
     escape_velocity: 17.167 km/s<br />(61,802 km/h)
     rotation_period: 0.470 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 322 K<br />(49 °C)
+    temperature: 290 K<br />(17 °C)
     composition:
       - 69.2250% hydrogen
       - 26.8457% helium
@@ -279,14 +339,14 @@ planets:
         radius: 13,056.6 km<br/>(2.049 Yrths)
         surface_area: 2.142 × 10<sup>09</sup> km<sup>2</sup><br/>(4.200 Yrths)
         volume: 9.323 × 10<sup>12</sup> km<sup>3</sup><br/>(8.607 Yrths)
-        mass: 9.811 × 10<sup>24</sup> kg<br />(5.7378453466992285 Yrths)
+        mass: 9.811 × 10<sup>24</sup> kg<br />(1.643 Yrths)
         density: 1.052 g/cm<sup>3</sup>
         surface_gravity: 3.836 m/s<sup>2</sup><br />(0.391 g<sub>0</sub>)
         escape_velocity: 10.015 km/s<br />(36,056 km/h)
         rotation_period: 82.451 d
         axial_tilt: 15.24°
         albedo: 0.30
-        temperature: 2417 K<br />(2144 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 419 Athiad II b
         type: Rocky
         formationType: Captured
@@ -299,14 +359,14 @@ planets:
         radius: 9,350.7 km<br/>(1.468 Yrths)
         surface_area: 1.099 × 10<sup>09</sup> km<sup>2</sup><br/>(2.154 Yrths)
         volume: 3.425 × 10<sup>12</sup> km<sup>3</sup><br/>(3.162 Yrths)
-        mass: 1.162 × 10<sup>25</sup> kg<br />(5.7378453466992285 Yrths)
+        mass: 1.162 × 10<sup>25</sup> kg<br />(1.945 Yrths)
         density: 3.392 g/cm<sup>3</sup>
         surface_gravity: 8.855 m/s<sup>2</sup><br />(0.903 g<sub>0</sub>)
         escape_velocity: 12.877 km/s<br />(46,357 km/h)
         rotation_period: 32.783 d
         axial_tilt: 8.07°
         albedo: 0.30
-        temperature: 2305 K<br />(2032 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 419 Athiad II c
         type: Icy
         formationType: Captured
@@ -319,14 +379,14 @@ planets:
         radius: 10,963.1 km<br/>(1.721 Yrths)
         surface_area: 1.510 × 10<sup>09</sup> km<sup>2</sup><br/>(2.961 Yrths)
         volume: 5.519 × 10<sup>12</sup> km<sup>3</sup><br/>(5.095 Yrths)
-        mass: 3.864 × 10<sup>24</sup> kg<br />(5.7378453466992285 Yrths)
+        mass: 3.864 × 10<sup>24</sup> kg<br />(0.647 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 2.143 m/s<sup>2</sup><br />(0.218 g<sub>0</sub>)
         escape_velocity: 6.859 km/s<br />(24,692 km/h)
         rotation_period: 112.116 d
         axial_tilt: 21.28°
         albedo: 0.30
-        temperature: 2197 K<br />(1924 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 419 Athiad II d
         type: Icy
         formationType: Accreted
@@ -339,14 +399,14 @@ planets:
         radius: 8,389.2 km<br/>(1.317 Yrths)
         surface_area: 8.844 × 10<sup>08</sup> km<sup>2</sup><br/>(1.734 Yrths)
         volume: 2.473 × 10<sup>12</sup> km<sup>3</sup><br/>(2.283 Yrths)
-        mass: 1.731 × 10<sup>24</sup> kg<br />(5.7378453466992285 Yrths)
+        mass: 1.731 × 10<sup>24</sup> kg<br />(0.290 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 1.640 m/s<sup>2</sup><br />(0.167 g<sub>0</sub>)
         escape_velocity: 5.248 km/s<br />(18,894 km/h)
         rotation_period: 88.052 d
         axial_tilt: 26.23°
         albedo: 0.30
-        temperature: 1998 K<br />(1725 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 419 Athiad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -359,14 +419,14 @@ planets:
         radius: 7,556.6 km<br/>(1.186 Yrths)
         surface_area: 7.176 × 10<sup>08</sup> km<sup>2</sup><br/>(1.407 Yrths)
         volume: 1.807 × 10<sup>12</sup> km<sup>3</sup><br/>(1.669 Yrths)
-        mass: 4.296 × 10<sup>24</sup> kg<br />(5.7378453466992285 Yrths)
+        mass: 4.296 × 10<sup>24</sup> kg<br />(0.719 Yrths)
         density: 2.377 g/cm<sup>3</sup>
         surface_gravity: 5.014 m/s<sup>2</sup><br />(0.511 g<sub>0</sub>)
         escape_velocity: 8.711 km/s<br />(31,361 km/h)
         rotation_period: 33.464 d
         axial_tilt: 23.69°
         albedo: 0.30
-        temperature: 1905 K<br />(1632 °C)
+        temperature: 207 K<br />(-66 °C)
   - name: 419 Athiad III
     type: Gas dwarf
     aphelion: 3,122,387,393 km<br />20.872 AU
@@ -378,14 +438,14 @@ planets:
     radius: 19,556.0 km<br/>(3.070 Yrths)
     surface_area: 4.806 × 10<sup>09</sup> km<sup>2</sup><br/>(9.422 Yrths)
     volume: 3.133 × 10<sup>13</sup> km<sup>3</sup><br/>(28.921 Yrths)
-    mass: 7.976 × 10<sup>25</sup> kg<br />(13.355004033604953 Yrths)
+    mass: 7.976 × 10<sup>25</sup> kg<br />(13.36 Yrths)
     density: 2.546 g/cm<sup>3</sup>
     surface_gravity: 13.900 m/s<sup>2</sup><br />(1.417 g<sub>0</sub>)
     escape_velocity: 23.332 km/s<br />(83,997 km/h)
     rotation_period: 0.380 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 214 K<br />(-59 °C)
+    temperature: 191 K<br />(-82 °C)
     composition:
       - 78.1825% hydrogen
       - 18.4716% helium
@@ -406,14 +466,14 @@ planets:
         radius: 13,392.9 km<br/>(2.102 Yrths)
         surface_area: 2.254 × 10<sup>09</sup> km<sup>2</sup><br/>(4.419 Yrths)
         volume: 1.006 × 10<sup>13</sup> km<sup>3</sup><br/>(9.290 Yrths)
-        mass: 2.606 × 10<sup>25</sup> kg<br />(13.355004033604953 Yrths)
+        mass: 2.606 × 10<sup>25</sup> kg<br />(4.364 Yrths)
         density: 2.590 g/cm<sup>3</sup>
         surface_gravity: 9.685 m/s<sup>2</sup><br />(0.988 g<sub>0</sub>)
         escape_velocity: 16.117 km/s<br />(58,022 km/h)
         rotation_period: 32.219 d
         axial_tilt: 29.63°
         albedo: 0.30
-        temperature: 1433 K<br />(1160 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 419 Athiad III b
         type: Asteroid
         formationType: Captured
@@ -426,14 +486,14 @@ planets:
         radius: 18,097.9 km<br/>(2.841 Yrths)
         surface_area: 4.116 × 10<sup>09</sup> km<sup>2</sup><br/>(8.069 Yrths)
         volume: 2.483 × 10<sup>13</sup> km<sup>3</sup><br/>(22.922 Yrths)
-        mass: 4.889 × 10<sup>25</sup> kg<br />(13.355004033604953 Yrths)
+        mass: 4.889 × 10<sup>25</sup> kg<br />(8.187 Yrths)
         density: 1.969 g/cm<sup>3</sup>
         surface_gravity: 9.950 m/s<sup>2</sup><br />(1.015 g<sub>0</sub>)
         escape_velocity: 18.990 km/s<br />(68,365 km/h)
         rotation_period: 45.198 d
         axial_tilt: 42.02°
         albedo: 0.30
-        temperature: 1366 K<br />(1093 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 419 Athiad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -446,14 +506,14 @@ planets:
         radius: 15,520.3 km<br/>(2.436 Yrths)
         surface_area: 3.027 × 10<sup>09</sup> km<sup>2</sup><br/>(5.935 Yrths)
         volume: 1.566 × 10<sup>13</sup> km<sup>3</sup><br/>(14.457 Yrths)
-        mass: 3.500 × 10<sup>25</sup> kg<br />(13.355004033604953 Yrths)
+        mass: 3.500 × 10<sup>25</sup> kg<br />(5.861 Yrths)
         density: 2.235 g/cm<sup>3</sup>
         surface_gravity: 9.685 m/s<sup>2</sup><br />(0.988 g<sub>0</sub>)
         escape_velocity: 17.350 km/s<br />(62,461 km/h)
         rotation_period: 65.261 d
         axial_tilt: 19.40°
         albedo: 0.30
-        temperature: 1303 K<br />(1029 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 419 Athiad III d
         type: Icy
         formationType: Captured
@@ -466,14 +526,14 @@ planets:
         radius: 10,385.5 km<br/>(1.630 Yrths)
         surface_area: 1.355 × 10<sup>09</sup> km<sup>2</sup><br/>(2.657 Yrths)
         volume: 4.692 × 10<sup>12</sup> km<sup>3</sup><br/>(4.332 Yrths)
-        mass: 5.968 × 10<sup>24</sup> kg<br />(13.355004033604953 Yrths)
+        mass: 5.968 × 10<sup>24</sup> kg<br />(0.999 Yrths)
         density: 1.272 g/cm<sup>3</sup>
         surface_gravity: 3.688 m/s<sup>2</sup><br />(0.376 g<sub>0</sub>)
         escape_velocity: 8.758 km/s<br />(31,529 km/h)
         rotation_period: 57.192 d
         axial_tilt: 12.28°
         albedo: 0.30
-        temperature: 1184 K<br />(911 °C)
+        temperature: 141 K<br />(-132 °C)
   - name: 419 Athiad IV
     type: Gas dwarf
     aphelion: 6,809,764,742 km<br />45.520 AU
@@ -485,14 +545,14 @@ planets:
     radius: 20,781.3 km<br/>(3.262 Yrths)
     surface_area: 5.427 × 10<sup>09</sup> km<sup>2</sup><br/>(10.640 Yrths)
     volume: 3.759 × 10<sup>13</sup> km<sup>3</sup><br/>(34.705 Yrths)
-    mass: 8.808 × 10<sup>25</sup> kg<br />(14.7492285451179 Yrths)
+    mass: 8.808 × 10<sup>25</sup> kg<br />(14.75 Yrths)
     density: 2.343 g/cm<sup>3</sup>
     surface_gravity: 13.594 m/s<sup>2</sup><br />(1.386 g<sub>0</sub>)
     escape_velocity: 23.786 km/s<br />(85,630 km/h)
     rotation_period: 0.367 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 141 K<br />(-132 °C)
+    temperature: 125 K<br />(-148 °C)
     composition:
       - 76.1098% hydrogen
       - 21.3805% helium
@@ -511,14 +571,14 @@ planets:
         radius: 15,506.5 km<br/>(2.434 Yrths)
         surface_area: 3.022 × 10<sup>09</sup> km<sup>2</sup><br/>(5.924 Yrths)
         volume: 1.562 × 10<sup>13</sup> km<sup>3</sup><br/>(14.418 Yrths)
-        mass: 1.821 × 10<sup>25</sup> kg<br />(14.7492285451179 Yrths)
+        mass: 1.821 × 10<sup>25</sup> kg<br />(3.049 Yrths)
         density: 1.166 g/cm<sup>3</sup>
         surface_gravity: 5.048 m/s<sup>2</sup><br />(0.515 g<sub>0</sub>)
         escape_velocity: 12.521 km/s<br />(45,075 km/h)
         rotation_period: 63.637 d
         axial_tilt: 20.17°
         albedo: 0.30
-        temperature: 961 K<br />(688 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 419 Athiad IV b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -531,14 +591,14 @@ planets:
         radius: 25,818.3 km<br/>(4.052 Yrths)
         surface_area: 8.377 × 10<sup>09</sup> km<sup>2</sup><br/>(16.423 Yrths)
         volume: 7.209 × 10<sup>13</sup> km<sup>3</sup><br/>(66.552 Yrths)
-        mass: 1.612 × 10<sup>26</sup> kg<br />(14.7492285451179 Yrths)
+        mass: 1.612 × 10<sup>26</sup> kg<br />(26.989 Yrths)
         density: 2.236 g/cm<sup>3</sup>
         surface_gravity: 16.116 m/s<sup>2</sup><br />(1.643 g<sub>0</sub>)
         escape_velocity: 28.867 km/s<br />(103,922 km/h)
         rotation_period: 35.355 d
         axial_tilt: 8.88°
         albedo: 0.30
-        temperature: 916 K<br />(643 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 419 Athiad IV c
         type: Icy
         formationType: Accreted
@@ -551,14 +611,14 @@ planets:
         radius: 16,177.9 km<br/>(2.539 Yrths)
         surface_area: 3.289 × 10<sup>09</sup> km<sup>2</sup><br/>(6.448 Yrths)
         volume: 1.774 × 10<sup>13</sup> km<sup>3</sup><br/>(16.374 Yrths)
-        mass: 1.877 × 10<sup>25</sup> kg<br />(14.7492285451179 Yrths)
+        mass: 1.877 × 10<sup>25</sup> kg<br />(3.142 Yrths)
         density: 1.058 g/cm<sup>3</sup>
         surface_gravity: 4.779 m/s<sup>2</sup><br />(0.487 g<sub>0</sub>)
         escape_velocity: 12.444 km/s<br />(44,797 km/h)
         rotation_period: 84.122 d
         axial_tilt: 12.30°
         albedo: 0.30
-        temperature: 874 K<br />(601 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 419 Athiad IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -571,14 +631,14 @@ planets:
         radius: 9,602.2 km<br/>(1.507 Yrths)
         surface_area: 1.159 × 10<sup>09</sup> km<sup>2</sup><br/>(2.272 Yrths)
         volume: 3.709 × 10<sup>12</sup> km<sup>3</sup><br/>(3.424 Yrths)
-        mass: 8.912 × 10<sup>24</sup> kg<br />(14.7492285451179 Yrths)
+        mass: 8.912 × 10<sup>24</sup> kg<br />(1.492 Yrths)
         density: 2.403 g/cm<sup>3</sup>
         surface_gravity: 6.442 m/s<sup>2</sup><br />(0.657 g<sub>0</sub>)
         escape_velocity: 11.130 km/s<br />(40,070 km/h)
         rotation_period: 35.865 d
         axial_tilt: 15.67°
         albedo: 0.30
-        temperature: 833 K<br />(560 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 419 Athiad IV e
         type: Ice/rock hybrid
         formationType: Captured
@@ -591,12 +651,12 @@ planets:
         radius: 15,251.1 km<br/>(2.394 Yrths)
         surface_area: 2.923 × 10<sup>09</sup> km<sup>2</sup><br/>(5.730 Yrths)
         volume: 1.486 × 10<sup>13</sup> km<sup>3</sup><br/>(13.718 Yrths)
-        mass: 3.274 × 10<sup>25</sup> kg<br />(14.7492285451179 Yrths)
+        mass: 3.274 × 10<sup>25</sup> kg<br />(5.483 Yrths)
         density: 2.204 g/cm<sup>3</sup>
         surface_gravity: 9.383 m/s<sup>2</sup><br />(0.957 g<sub>0</sub>)
         escape_velocity: 16.929 km/s<br />(60,943 km/h)
         rotation_period: 50.596 d
         axial_tilt: 29.60°
         albedo: 0.30
-        temperature: 757 K<br />(484 °C)
+        temperature: 96 K<br />(-177 °C)
 ---

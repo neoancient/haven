@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1082 Geardiad A is a star in the constellation Geard
+      1082 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 128.46 ly
 apparent_magnitude: 7.48
 absolute_magnitude: 4.50

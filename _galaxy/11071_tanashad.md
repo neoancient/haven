@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11071 Tanashad is a star in the constellation Tanas
+      11071 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 203.47 ly
 apparent_magnitude: 9.14
 absolute_magnitude: 5.16
@@ -31,7 +31,7 @@ planets:
     radius: 2,881.5 km<br/>(0.452 Yrths)
     surface_area: 1.043 × 10<sup>08</sup> km<sup>2</sup><br/>(0.205 Yrths)
     volume: 1.002 × 10<sup>11</sup> km<sup>3</sup><br/>(0.093 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.959 g/cm<sup>3</sup>
     surface_gravity: 4.794 m/s<sup>2</sup><br />(0.489 g<sub>0</sub>)
     escape_velocity: 5.260 km/s<br />(18,935 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 159.9 km<br/>(0.025 Yrths)
         surface_area: 3.211 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 1.711 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.927 × 10<sup>19</sup> kg<br />(0.1 Yrths)
+        mass: 4.927 × 10<sup>19</sup> kg<br />(0.000 Yrths)
         density: 2.880 g/cm<sup>3</sup>
         surface_gravity: 0.129 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.203 km/s<br />(730 km/h)
         rotation_period: 30.019 d
         axial_tilt: 20.04°
         albedo: 0.30
-        temperature: 6617 K<br />(6344 °C)
+        temperature: 323 K<br />(50 °C)
       - name: 11071 Tanashad I b
         type: Icy
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 740.9 km<br/>(0.116 Yrths)
         surface_area: 6.899 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.704 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.707 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.707 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.002 g/cm<sup>3</sup>
         surface_gravity: 0.207 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.555 km/s<br />(1,997 km/h)
         rotation_period: 57.180 d
         axial_tilt: 21.24°
         albedo: 0.30
-        temperature: 6309 K<br />(6036 °C)
+        temperature: 323 K<br />(50 °C)
       - name: 11071 Tanashad I c
         type: Rocky
         formationType: Impact formed
@@ -92,14 +92,14 @@ planets:
         radius: 139.5 km<br/>(0.022 Yrths)
         surface_area: 2.445 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
         volume: 1.137 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.616 × 10<sup>19</sup> kg<br />(0.1 Yrths)
+        mass: 3.616 × 10<sup>19</sup> kg<br />(0.000 Yrths)
         density: 3.181 g/cm<sup>3</sup>
         surface_gravity: 0.124 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.186 km/s<br />(670 km/h)
         rotation_period: 36.219 d
         axial_tilt: 11.93°
         albedo: 0.30
-        temperature: 6015 K<br />(5742 °C)
+        temperature: 323 K<br />(50 °C)
   - name: 11071 Tanashad II
     type: Terrestrial
     aphelion: 156,429,844 km<br />1.046 AU
@@ -111,14 +111,14 @@ planets:
     radius: 6,060.7 km<br/>(0.951 Yrths)
     surface_area: 4.616 × 10<sup>08</sup> km<sup>2</sup><br/>(0.905 Yrths)
     volume: 9.325 × 10<sup>11</sup> km<sup>3</sup><br/>(0.861 Yrths)
-    mass: 5.757 × 10<sup>24</sup> kg<br />(0.963944442126062 Yrths)
+    mass: 5.757 × 10<sup>24</sup> kg<br />(0.96 Yrths)
     density: 6.173 g/cm<sup>3</sup>
     surface_gravity: 10.446 m/s<sup>2</sup><br />(1.065 g<sub>0</sub>)
     escape_velocity: 11.260 km/s<br />(40,536 km/h)
     rotation_period: 1.475 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 325 K<br />(52 °C)
+    temperature: 785 K<br />(512 °C)
     surface_pressure: 21 kPa<br />(0 atm)
     composition:
       - 57.9070% carbon dioxide
@@ -139,14 +139,14 @@ planets:
         radius: 2,698.3 km<br/>(0.424 Yrths)
         surface_area: 9.150 × 10<sup>07</sup> km<sup>2</sup><br/>(0.179 Yrths)
         volume: 8.229 × 10<sup>10</sup> km<sup>3</sup><br/>(0.076 Yrths)
-        mass: 1.933 × 10<sup>23</sup> kg<br />(0.963944442126062 Yrths)
+        mass: 1.933 × 10<sup>23</sup> kg<br />(0.032 Yrths)
         density: 2.349 g/cm<sup>3</sup>
         surface_gravity: 1.769 m/s<sup>2</sup><br />(0.180 g<sub>0</sub>)
         escape_velocity: 3.092 km/s<br />(11,132 km/h)
         rotation_period: 34.460 d
         axial_tilt: 15.26°
         albedo: 0.30
-        temperature: 4151 K<br />(3878 °C)
+        temperature: 245 K<br />(-28 °C)
   - name: 11071 Tanashad III
     type: Large terrestrial
     aphelion: 264,920,960 km<br />1.771 AU
@@ -158,14 +158,14 @@ planets:
     radius: 10,521.5 km<br/>(1.651 Yrths)
     surface_area: 1.391 × 10<sup>09</sup> km<sup>2</sup><br/>(2.727 Yrths)
     volume: 4.879 × 10<sup>12</sup> km<sup>3</sup><br/>(4.504 Yrths)
-    mass: 3.198 × 10<sup>25</sup> kg<br />(5.355567785911006 Yrths)
+    mass: 3.198 × 10<sup>25</sup> kg<br />(5.36 Yrths)
     density: 6.556 g/cm<sup>3</sup>
     surface_gravity: 19.257 m/s<sup>2</sup><br />(1.964 g<sub>0</sub>)
     escape_velocity: 20.144 km/s<br />(72,518 km/h)
     rotation_period: 0.787 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 233 K<br />(-41 °C)
+    temperature: 312 K<br />(39 °C)
     surface_pressure: 88 kPa<br />(1 atm)
     composition:
       - 88.5059% ammonia
@@ -184,14 +184,14 @@ planets:
         radius: 8,728.0 km<br/>(1.370 Yrths)
         surface_area: 9.573 × 10<sup>08</sup> km<sup>2</sup><br/>(1.877 Yrths)
         volume: 2.785 × 10<sup>12</sup> km<sup>3</sup><br/>(2.571 Yrths)
-        mass: 9.346 × 10<sup>24</sup> kg<br />(5.355567785911006 Yrths)
+        mass: 9.346 × 10<sup>24</sup> kg<br />(1.565 Yrths)
         density: 3.356 g/cm<sup>3</sup>
         surface_gravity: 8.177 m/s<sup>2</sup><br />(0.834 g<sub>0</sub>)
         escape_velocity: 11.955 km/s<br />(43,039 km/h)
         rotation_period: 43.324 d
         axial_tilt: 12.18°
         albedo: 0.30
-        temperature: 2082 K<br />(1809 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 11071 Tanashad III b
         type: Asteroid
         formationType: Captured
@@ -204,14 +204,14 @@ planets:
         radius: 2,802.0 km<br/>(0.440 Yrths)
         surface_area: 9.866 × 10<sup>07</sup> km<sup>2</sup><br/>(0.193 Yrths)
         volume: 9.215 × 10<sup>10</sup> km<sup>3</sup><br/>(0.085 Yrths)
-        mass: 2.659 × 10<sup>23</sup> kg<br />(5.355567785911006 Yrths)
+        mass: 2.659 × 10<sup>23</sup> kg<br />(0.045 Yrths)
         density: 2.885 g/cm<sup>3</sup>
         surface_gravity: 2.257 m/s<sup>2</sup><br />(0.230 g<sub>0</sub>)
         escape_velocity: 3.559 km/s<br />(12,812 km/h)
         rotation_period: 35.679 d
         axial_tilt: 24.95°
         albedo: 0.30
-        temperature: 1985 K<br />(1712 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 11071 Tanashad III c
         type: Rocky
         formationType: Accreted
@@ -224,14 +224,14 @@ planets:
         radius: 7,897.3 km<br/>(1.240 Yrths)
         surface_area: 7.837 × 10<sup>08</sup> km<sup>2</sup><br/>(1.537 Yrths)
         volume: 2.063 × 10<sup>12</sup> km<sup>3</sup><br/>(1.905 Yrths)
-        mass: 6.402 × 10<sup>24</sup> kg<br />(5.355567785911006 Yrths)
+        mass: 6.402 × 10<sup>24</sup> kg<br />(1.072 Yrths)
         density: 3.103 g/cm<sup>3</sup>
         surface_gravity: 6.841 m/s<sup>2</sup><br />(0.698 g<sub>0</sub>)
         escape_velocity: 10.402 km/s<br />(37,448 km/h)
         rotation_period: 50.655 d
         axial_tilt: 14.24°
         albedo: 0.30
-        temperature: 1893 K<br />(1620 °C)
+        temperature: 186 K<br />(-87 °C)
   - name: 11071 Tanashad IV
     type: Gas giant
     aphelion: 444,465,552 km<br />2.971 AU
@@ -243,7 +243,7 @@ planets:
     radius: 213.9 km<br/>(0.034 Yrths)
     surface_area: 5.752 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.102 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.355 × 10<sup>27</sup> kg<br />(226.81530473769456 Yrths)
+    mass: 1.355 × 10<sup>27</sup> kg<br />(226.82 Yrths)
     density: 33021303.659 g/cm<sup>3</sup>
     surface_gravity: 1972431.916 m/s<sup>2</sup><br />(201132.080 g<sub>0</sub>)
     escape_velocity: 919.311 km/s<br />(3,309,519 km/h)
@@ -264,14 +264,14 @@ planets:
         radius: 185,930.1 km<br/>(29.184 Yrths)
         surface_area: 4.344 × 10<sup>11</sup> km<sup>2</sup><br/>(851.695 Yrths)
         volume: 2.692 × 10<sup>16</sup> km<sup>3</sup><br/>(24855.708 Yrths)
-        mass: 2.420 × 10<sup>28</sup> kg<br />(226.81530473769456 Yrths)
+        mass: 2.420 × 10<sup>28</sup> kg<br />(4052.359 Yrths)
         density: 0.899 g/cm<sup>3</sup>
         surface_gravity: 46.660 m/s<sup>2</sup><br />(4.758 g<sub>0</sub>)
         escape_velocity: 131.813 km/s<br />(474,525 km/h)
         rotation_period: 68.777 d
         axial_tilt: 18.35°
         albedo: 0.30
-        temperature: 231 K<br />(-42 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 11071 Tanashad IV b
         type: Asteroid
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 181,359.8 km<br/>(28.466 Yrths)
         surface_area: 4.133 × 10<sup>11</sup> km<sup>2</sup><br/>(810.339 Yrths)
         volume: 2.499 × 10<sup>16</sup> km<sup>3</sup><br/>(23067.472 Yrths)
-        mass: 4.110 × 10<sup>28</sup> kg<br />(226.81530473769456 Yrths)
+        mass: 4.110 × 10<sup>28</sup> kg<br />(6882.200 Yrths)
         density: 1.645 g/cm<sup>3</sup>
         surface_gravity: 83.288 m/s<sup>2</sup><br />(8.493 g<sub>0</sub>)
         escape_velocity: 173.929 km/s<br />(626,143 km/h)
         rotation_period: 54.014 d
         axial_tilt: 17.52°
         albedo: 0.30
-        temperature: 200 K<br />(-73 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 11071 Tanashad IV c
         type: Icy
         formationType: Accreted
@@ -304,14 +304,14 @@ planets:
         radius: 147,546.9 km<br/>(23.159 Yrths)
         surface_area: 2.736 × 10<sup>11</sup> km<sup>2</sup><br/>(536.346 Yrths)
         volume: 1.345 × 10<sup>16</sup> km<sup>3</sup><br/>(12421.307 Yrths)
-        mass: 1.656 × 10<sup>28</sup> kg<br />(226.81530473769456 Yrths)
+        mass: 1.656 × 10<sup>28</sup> kg<br />(2773.093 Yrths)
         density: 1.231 g/cm<sup>3</sup>
         surface_gravity: 50.704 m/s<sup>2</sup><br />(5.170 g<sub>0</sub>)
         escape_velocity: 122.404 km/s<br />(440,654 km/h)
         rotation_period: 65.776 d
         axial_tilt: 16.31°
         albedo: 0.30
-        temperature: 143 K<br />(-130 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 11071 Tanashad IV d
         type: Icy
         formationType: Accreted
@@ -324,14 +324,14 @@ planets:
         radius: 193,932.8 km<br/>(30.440 Yrths)
         surface_area: 4.726 × 10<sup>11</sup> km<sup>2</sup><br/>(926.590 Yrths)
         volume: 3.055 × 10<sup>16</sup> km<sup>3</sup><br/>(28205.326 Yrths)
-        mass: 3.782 × 10<sup>28</sup> kg<br />(226.81530473769456 Yrths)
+        mass: 3.782 × 10<sup>28</sup> kg<br />(6332.397 Yrths)
         density: 1.238 g/cm<sup>3</sup>
         surface_gravity: 67.020 m/s<sup>2</sup><br />(6.834 g<sub>0</sub>)
         escape_velocity: 161.338 km/s<br />(580,816 km/h)
         rotation_period: 64.103 d
         axial_tilt: 18.10°
         albedo: 0.30
-        temperature: 103 K<br />(-171 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 11071 Tanashad IV e
         type: Dwarf planet
         formationType: Accreted
@@ -344,14 +344,14 @@ planets:
         radius: 141,801.9 km<br/>(22.257 Yrths)
         surface_area: 2.527 × 10<sup>11</sup> km<sup>2</sup><br/>(495.392 Yrths)
         volume: 1.194 × 10<sup>16</sup> km<sup>3</sup><br/>(11026.144 Yrths)
-        mass: 2.250 × 10<sup>28</sup> kg<br />(226.81530473769456 Yrths)
+        mass: 2.250 × 10<sup>28</sup> kg<br />(3768.176 Yrths)
         density: 1.884 g/cm<sup>3</sup>
         surface_gravity: 74.594 m/s<sup>2</sup><br />(7.606 g<sub>0</sub>)
         escape_velocity: 145.547 km/s<br />(523,968 km/h)
         rotation_period: 42.474 d
         axial_tilt: 14.41°
         albedo: 0.30
-        temperature: 98 K<br />(-175 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 11071 Tanashad IV f
         type: Dwarf planet
         formationType: Accreted
@@ -364,14 +364,14 @@ planets:
         radius: 164,726.2 km<br/>(25.856 Yrths)
         surface_area: 3.410 × 10<sup>11</sup> km<sup>2</sup><br/>(668.513 Yrths)
         volume: 1.872 × 10<sup>16</sup> km<sup>3</sup><br/>(17284.830 Yrths)
-        mass: 2.916 × 10<sup>28</sup> kg<br />(226.81530473769456 Yrths)
+        mass: 2.916 × 10<sup>28</sup> kg<br />(4882.842 Yrths)
         density: 1.557 g/cm<sup>3</sup>
         surface_gravity: 71.628 m/s<sup>2</sup><br />(7.304 g<sub>0</sub>)
         escape_velocity: 153.721 km/s<br />(553,395 km/h)
         rotation_period: 57.076 d
         axial_tilt: 18.60°
         albedo: 0.30
-        temperature: 81 K<br />(-192 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 11071 Tanashad IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -384,14 +384,14 @@ planets:
         radius: 135,982.0 km<br/>(21.344 Yrths)
         surface_area: 2.324 × 10<sup>11</sup> km<sup>2</sup><br/>(455.562 Yrths)
         volume: 1.053 × 10<sup>16</sup> km<sup>3</sup><br/>(9723.465 Yrths)
-        mass: 2.506 × 10<sup>28</sup> kg<br />(226.81530473769456 Yrths)
+        mass: 2.506 × 10<sup>28</sup> kg<br />(4196.178 Yrths)
         density: 2.379 g/cm<sup>3</sup>
         surface_gravity: 90.329 m/s<sup>2</sup><br />(9.211 g<sub>0</sub>)
         escape_velocity: 156.843 km/s<br />(564,633 km/h)
         rotation_period: 38.766 d
         axial_tilt: 17.45°
         albedo: 0.30
-        temperature: 77 K<br />(-196 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 11071 Tanashad IV h
         type: Icy
         formationType: Captured
@@ -404,14 +404,14 @@ planets:
         radius: 185,066.8 km<br/>(29.048 Yrths)
         surface_area: 4.304 × 10<sup>11</sup> km<sup>2</sup><br/>(843.805 Yrths)
         volume: 2.655 × 10<sup>16</sup> km<sup>3</sup><br/>(24511.106 Yrths)
-        mass: 3.705 × 10<sup>28</sup> kg<br />(226.81530473769456 Yrths)
+        mass: 3.705 × 10<sup>28</sup> kg<br />(6203.435 Yrths)
         density: 1.395 g/cm<sup>3</sup>
         surface_gravity: 72.096 m/s<sup>2</sup><br />(7.352 g<sub>0</sub>)
         escape_velocity: 163.467 km/s<br />(588,481 km/h)
         rotation_period: 53.782 d
         axial_tilt: 12.80°
         albedo: 0.30
-        temperature: 74 K<br />(-200 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 11071 Tanashad IV i
         type: Icy
         formationType: Accreted
@@ -424,14 +424,14 @@ planets:
         radius: 122,702.5 km<br/>(19.260 Yrths)
         surface_area: 1.892 × 10<sup>11</sup> km<sup>2</sup><br/>(370.930 Yrths)
         volume: 7.738 × 10<sup>15</sup> km<sup>3</sup><br/>(7143.937 Yrths)
-        mass: 1.314 × 10<sup>28</sup> kg<br />(226.81530473769456 Yrths)
+        mass: 1.314 × 10<sup>28</sup> kg<br />(2200.516 Yrths)
         density: 1.698 g/cm<sup>3</sup>
         surface_gravity: 58.177 m/s<sup>2</sup><br />(5.932 g<sub>0</sub>)
         escape_velocity: 119.568 km/s<br />(430,443 km/h)
         rotation_period: 67.180 d
         axial_tilt: 21.99°
         albedo: 0.30
-        temperature: 70 K<br />(-203 °C)
+        temperature: 141 K<br />(-132 °C)
   - name: 11071 Tanashad V
     type: Large terrestrial
     aphelion: 795,404,038 km<br />5.317 AU
@@ -443,14 +443,14 @@ planets:
     radius: 7,860.5 km<br/>(1.234 Yrths)
     surface_area: 7.764 × 10<sup>08</sup> km<sup>2</sup><br/>(1.522 Yrths)
     volume: 2.034 × 10<sup>12</sup> km<sup>3</sup><br/>(1.878 Yrths)
-    mass: 1.279 × 10<sup>25</sup> kg<br />(2.1421060037952033 Yrths)
+    mass: 1.279 × 10<sup>25</sup> kg<br />(2.14 Yrths)
     density: 6.288 g/cm<sup>3</sup>
     surface_gravity: 13.800 m/s<sup>2</sup><br />(1.407 g<sub>0</sub>)
     escape_velocity: 14.739 km/s<br />(53,061 km/h)
     rotation_period: 0.801 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 142 K<br />(-132 °C)
+    temperature: 194 K<br />(-79 °C)
     surface_pressure: 191 kPa<br />(2 atm)
     composition:
       - 91.5776% methane
@@ -469,14 +469,14 @@ planets:
         radius: 2,246.4 km<br/>(0.353 Yrths)
         surface_area: 6.341 × 10<sup>07</sup> km<sup>2</sup><br/>(0.124 Yrths)
         volume: 4.749 × 10<sup>10</sup> km<sup>3</sup><br/>(0.044 Yrths)
-        mass: 1.073 × 10<sup>23</sup> kg<br />(2.1421060037952033 Yrths)
+        mass: 1.073 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 2.260 g/cm<sup>3</sup>
         surface_gravity: 1.418 m/s<sup>2</sup><br />(0.145 g<sub>0</sub>)
         escape_velocity: 2.525 km/s<br />(9,091 km/h)
         rotation_period: 41.967 d
         axial_tilt: 18.11°
         albedo: 0.30
-        temperature: 1404 K<br />(1131 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 11071 Tanashad V b
         type: Rocky
         formationType: Captured
@@ -489,14 +489,14 @@ planets:
         radius: 3,826.0 km<br/>(0.601 Yrths)
         surface_area: 1.839 × 10<sup>08</sup> km<sup>2</sup><br/>(0.361 Yrths)
         volume: 2.346 × 10<sup>11</sup> km<sup>3</sup><br/>(0.217 Yrths)
-        mass: 6.211 × 10<sup>23</sup> kg<br />(2.1421060037952033 Yrths)
+        mass: 6.211 × 10<sup>23</sup> kg<br />(0.104 Yrths)
         density: 2.648 g/cm<sup>3</sup>
         surface_gravity: 2.828 m/s<sup>2</sup><br />(0.288 g<sub>0</sub>)
         escape_velocity: 4.655 km/s<br />(16,759 km/h)
         rotation_period: 36.562 d
         axial_tilt: 16.79°
         albedo: 0.30
-        temperature: 1339 K<br />(1066 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 11071 Tanashad V c
         type: Dwarf planet
         formationType: Captured
@@ -509,14 +509,14 @@ planets:
         radius: 5,590.6 km<br/>(0.878 Yrths)
         surface_area: 3.928 × 10<sup>08</sup> km<sup>2</sup><br/>(0.770 Yrths)
         volume: 7.319 × 10<sup>11</sup> km<sup>3</sup><br/>(0.676 Yrths)
-        mass: 1.205 × 10<sup>24</sup> kg<br />(2.1421060037952033 Yrths)
+        mass: 1.205 × 10<sup>24</sup> kg<br />(0.202 Yrths)
         density: 1.646 g/cm<sup>3</sup>
         surface_gravity: 2.570 m/s<sup>2</sup><br />(0.262 g<sub>0</sub>)
         escape_velocity: 5.364 km/s<br />(19,309 km/h)
         rotation_period: 61.483 d
         axial_tilt: 14.82°
         albedo: 0.30
-        temperature: 1276 K<br />(1003 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 11071 Tanashad V d
         type: Icy
         formationType: Impact formed
@@ -529,14 +529,14 @@ planets:
         radius: 5,179.8 km<br/>(0.813 Yrths)
         surface_area: 3.372 × 10<sup>08</sup> km<sup>2</sup><br/>(0.661 Yrths)
         volume: 5.821 × 10<sup>11</sup> km<sup>3</sup><br/>(0.537 Yrths)
-        mass: 9.933 × 10<sup>23</sup> kg<br />(2.1421060037952033 Yrths)
+        mass: 9.933 × 10<sup>23</sup> kg<br />(0.166 Yrths)
         density: 1.706 g/cm<sup>3</sup>
         surface_gravity: 2.468 m/s<sup>2</sup><br />(0.252 g<sub>0</sub>)
         escape_velocity: 5.059 km/s<br />(18,214 km/h)
         rotation_period: 61.614 d
         axial_tilt: 13.63°
         albedo: 0.30
-        temperature: 1217 K<br />(944 °C)
+        temperature: 107 K<br />(-166 °C)
   - name: 11071 Tanashad VI
     type: Large terrestrial
     aphelion: 1,328,537,290 km<br />8.881 AU
@@ -548,14 +548,14 @@ planets:
     radius: 8,821.3 km<br/>(1.385 Yrths)
     surface_area: 9.779 × 10<sup>08</sup> km<sup>2</sup><br/>(1.917 Yrths)
     volume: 2.875 × 10<sup>12</sup> km<sup>3</sup><br/>(2.654 Yrths)
-    mass: 2.009 × 10<sup>25</sup> kg<br />(3.364866918434787 Yrths)
+    mass: 2.009 × 10<sup>25</sup> kg<br />(3.36 Yrths)
     density: 6.989 g/cm<sup>3</sup>
     surface_gravity: 17.212 m/s<sup>2</sup><br />(1.755 g<sub>0</sub>)
     escape_velocity: 17.438 km/s<br />(62,777 km/h)
     rotation_period: 0.675 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 109 K<br />(-164 °C)
+    temperature: 150 K<br />(-124 °C)
     surface_pressure: 225 kPa<br />(2 atm)
     composition:
       - 92.0187% methane
@@ -574,14 +574,14 @@ planets:
         radius: 3,533.4 km<br/>(0.555 Yrths)
         surface_area: 1.569 × 10<sup>08</sup> km<sup>2</sup><br/>(0.308 Yrths)
         volume: 1.848 × 10<sup>11</sup> km<sup>3</sup><br/>(0.171 Yrths)
-        mass: 5.661 × 10<sup>23</sup> kg<br />(3.364866918434787 Yrths)
+        mass: 5.661 × 10<sup>23</sup> kg<br />(0.095 Yrths)
         density: 3.063 g/cm<sup>3</sup>
         surface_gravity: 3.022 m/s<sup>2</sup><br />(0.308 g<sub>0</sub>)
         escape_velocity: 4.624 km/s<br />(16,648 km/h)
         rotation_period: 43.595 d
         axial_tilt: 11.58°
         albedo: 0.30
-        temperature: 989 K<br />(716 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 11071 Tanashad VI b
         type: Icy
         formationType: Accreted
@@ -594,14 +594,14 @@ planets:
         radius: 6,175.2 km<br/>(0.969 Yrths)
         surface_area: 4.792 × 10<sup>08</sup> km<sup>2</sup><br/>(0.939 Yrths)
         volume: 9.864 × 10<sup>11</sup> km<sup>3</sup><br/>(0.911 Yrths)
-        mass: 1.002 × 10<sup>24</sup> kg<br />(3.364866918434787 Yrths)
+        mass: 1.002 × 10<sup>24</sup> kg<br />(0.168 Yrths)
         density: 1.016 g/cm<sup>3</sup>
         surface_gravity: 1.752 m/s<sup>2</sup><br />(0.179 g<sub>0</sub>)
         escape_velocity: 4.655 km/s<br />(16,758 km/h)
         rotation_period: 63.570 d
         axial_tilt: 11.17°
         albedo: 0.30
-        temperature: 943 K<br />(670 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 11071 Tanashad VI c
         type: Rocky
         formationType: Captured
@@ -614,14 +614,14 @@ planets:
         radius: 6,088.4 km<br/>(0.956 Yrths)
         surface_area: 4.658 × 10<sup>08</sup> km<sup>2</sup><br/>(0.913 Yrths)
         volume: 9.454 × 10<sup>11</sup> km<sup>3</sup><br/>(0.873 Yrths)
-        mass: 2.839 × 10<sup>24</sup> kg<br />(3.364866918434787 Yrths)
+        mass: 2.839 × 10<sup>24</sup> kg<br />(0.475 Yrths)
         density: 3.003 g/cm<sup>3</sup>
         surface_gravity: 5.104 m/s<sup>2</sup><br />(0.520 g<sub>0</sub>)
         escape_velocity: 7.889 km/s<br />(28,401 km/h)
         rotation_period: 34.042 d
         axial_tilt: 18.55°
         albedo: 0.30
-        temperature: 899 K<br />(626 °C)
+        temperature: 81 K<br />(-192 °C)
   - name: 11071 Tanashad VII
     type: Gas giant
     aphelion: 2,384,587,354 km<br />15.940 AU
@@ -633,7 +633,7 @@ planets:
     radius: 218.0 km<br/>(0.034 Yrths)
     surface_area: 5.970 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.338 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.454 × 10<sup>27</sup> kg<br />(243.47521419249867 Yrths)
+    mass: 1.454 × 10<sup>27</sup> kg<br />(243.48 Yrths)
     density: 33521009.772 g/cm<sup>3</sup>
     surface_gravity: 2039911.877 m/s<sup>2</sup><br />(208013.121 g<sub>0</sub>)
     escape_velocity: 943.649 km/s<br />(3,397,135 km/h)
@@ -654,14 +654,14 @@ planets:
         radius: 177,117.2 km<br/>(27.801 Yrths)
         surface_area: 3.942 × 10<sup>11</sup> km<sup>2</sup><br/>(772.869 Yrths)
         volume: 2.327 × 10<sup>16</sup> km<sup>3</sup><br/>(21486.174 Yrths)
-        mass: 3.697 × 10<sup>28</sup> kg<br />(243.47521419249867 Yrths)
+        mass: 3.697 × 10<sup>28</sup> kg<br />(6190.019 Yrths)
         density: 1.588 g/cm<sup>3</sup>
         surface_gravity: 78.543 m/s<sup>2</sup><br />(8.009 g<sub>0</sub>)
         escape_velocity: 166.914 km/s<br />(600,891 km/h)
         rotation_period: 65.382 d
         axial_tilt: 18.64°
         albedo: 0.30
-        temperature: 312 K<br />(39 °C)
+        temperature: 62 K<br />(-212 °C)
       - name: 11071 Tanashad VII b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -674,14 +674,14 @@ planets:
         radius: 158,377.9 km<br/>(24.859 Yrths)
         surface_area: 3.152 × 10<sup>11</sup> km<sup>2</sup><br/>(617.979 Yrths)
         volume: 1.664 × 10<sup>16</sup> km<sup>3</sup><br/>(15362.456 Yrths)
-        mass: 3.240 × 10<sup>28</sup> kg<br />(243.47521419249867 Yrths)
+        mass: 3.240 × 10<sup>28</sup> kg<br />(5424.810 Yrths)
         density: 1.947 g/cm<sup>3</sup>
         surface_gravity: 86.086 m/s<sup>2</sup><br />(8.778 g<sub>0</sub>)
         escape_velocity: 165.243 km/s<br />(594,874 km/h)
         rotation_period: 48.711 d
         axial_tilt: 29.75°
         albedo: 0.30
-        temperature: 194 K<br />(-79 °C)
+        temperature: 62 K<br />(-212 °C)
       - name: 11071 Tanashad VII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -694,14 +694,14 @@ planets:
         radius: 123,425.9 km<br/>(19.373 Yrths)
         surface_area: 1.914 × 10<sup>11</sup> km<sup>2</sup><br/>(375.316 Yrths)
         volume: 7.876 × 10<sup>15</sup> km<sup>3</sup><br/>(7271.029 Yrths)
-        mass: 1.997 × 10<sup>28</sup> kg<br />(243.47521419249867 Yrths)
+        mass: 1.997 × 10<sup>28</sup> kg<br />(3343.102 Yrths)
         density: 2.535 g/cm<sup>3</sup>
         surface_gravity: 87.352 m/s<sup>2</sup><br />(8.907 g<sub>0</sub>)
         escape_velocity: 146.943 km/s<br />(528,995 km/h)
         rotation_period: 46.305 d
         axial_tilt: 24.67°
         albedo: 0.30
-        temperature: 126 K<br />(-147 °C)
+        temperature: 62 K<br />(-212 °C)
       - name: 11071 Tanashad VII d
         type: Icy
         formationType: Accreted
@@ -714,14 +714,14 @@ planets:
         radius: 149,841.9 km<br/>(23.519 Yrths)
         surface_area: 2.821 × 10<sup>11</sup> km<sup>2</sup><br/>(553.161 Yrths)
         volume: 1.409 × 10<sup>16</sup> km<sup>3</sup><br/>(13009.988 Yrths)
-        mass: 2.647 × 10<sup>28</sup> kg<br />(243.47521419249867 Yrths)
+        mass: 2.647 × 10<sup>28</sup> kg<br />(4433.153 Yrths)
         density: 1.879 g/cm<sup>3</sup>
         surface_gravity: 78.593 m/s<sup>2</sup><br />(8.014 g<sub>0</sub>)
         escape_velocity: 153.574 km/s<br />(552,866 km/h)
         rotation_period: 44.579 d
         axial_tilt: 14.42°
         albedo: 0.30
-        temperature: 120 K<br />(-153 °C)
+        temperature: 62 K<br />(-212 °C)
       - name: 11071 Tanashad VII e
         type: Icy
         formationType: Accreted
@@ -734,14 +734,14 @@ planets:
         radius: 196,042.4 km<br/>(30.771 Yrths)
         surface_area: 4.830 × 10<sup>11</sup> km<sup>2</sup><br/>(946.858 Yrths)
         volume: 3.156 × 10<sup>16</sup> km<sup>3</sup><br/>(29135.814 Yrths)
-        mass: 3.041 × 10<sup>28</sup> kg<br />(243.47521419249867 Yrths)
+        mass: 3.041 × 10<sup>28</sup> kg<br />(5091.659 Yrths)
         density: 0.963 g/cm<sup>3</sup>
         surface_gravity: 52.735 m/s<sup>2</sup><br />(5.377 g<sub>0</sub>)
         escape_velocity: 143.891 km/s<br />(518,006 km/h)
         rotation_period: 77.473 d
         axial_tilt: 5.93°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 62 K<br />(-212 °C)
       - name: 11071 Tanashad VII f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -754,14 +754,14 @@ planets:
         radius: 158,373.6 km<br/>(24.859 Yrths)
         surface_area: 3.152 × 10<sup>11</sup> km<sup>2</sup><br/>(617.946 Yrths)
         volume: 1.664 × 10<sup>16</sup> km<sup>3</sup><br/>(15361.223 Yrths)
-        mass: 2.973 × 10<sup>28</sup> kg<br />(243.47521419249867 Yrths)
+        mass: 2.973 × 10<sup>28</sup> kg<br />(4978.928 Yrths)
         density: 1.787 g/cm<sup>3</sup>
         surface_gravity: 79.014 m/s<sup>2</sup><br />(8.057 g<sub>0</sub>)
         escape_velocity: 158.309 km/s<br />(569,911 km/h)
         rotation_period: 37.655 d
         axial_tilt: 13.26°
         albedo: 0.30
-        temperature: 95 K<br />(-178 °C)
+        temperature: 62 K<br />(-212 °C)
       - name: 11071 Tanashad VII g
         type: Icy
         formationType: Impact formed
@@ -774,14 +774,14 @@ planets:
         radius: 148,454.8 km<br/>(23.302 Yrths)
         surface_area: 2.769 × 10<sup>11</sup> km<sup>2</sup><br/>(542.967 Yrths)
         volume: 1.370 × 10<sup>16</sup> km<sup>3</sup><br/>(12652.031 Yrths)
-        mass: 1.810 × 10<sup>28</sup> kg<br />(243.47521419249867 Yrths)
+        mass: 1.810 × 10<sup>28</sup> kg<br />(3030.303 Yrths)
         density: 1.320 g/cm<sup>3</sup>
         surface_gravity: 54.731 m/s<sup>2</sup><br />(5.581 g<sub>0</sub>)
         escape_velocity: 127.563 km/s<br />(459,226 km/h)
         rotation_period: 44.953 d
         axial_tilt: 11.38°
         albedo: 0.30
-        temperature: 75 K<br />(-198 °C)
+        temperature: 62 K<br />(-212 °C)
   - name: 11071 Tanashad VIII
     type: Ice giant
     aphelion: 4,307,455,811 km<br />28.793 AU
@@ -793,14 +793,14 @@ planets:
     radius: 26,823.9 km<br/>(4.210 Yrths)
     surface_area: 9.042 × 10<sup>09</sup> km<sup>2</sup><br/>(17.727 Yrths)
     volume: 8.085 × 10<sup>13</sup> km<sup>3</sup><br/>(74.635 Yrths)
-    mass: 1.321 × 10<sup>26</sup> kg<br />(22.12529078038698 Yrths)
+    mass: 1.321 × 10<sup>26</sup> kg<br />(22.13 Yrths)
     density: 1.634 g/cm<sup>3</sup>
     surface_gravity: 12.240 m/s<sup>2</sup><br />(1.248 g<sub>0</sub>)
     escape_velocity: 25.643 km/s<br />(92,313 km/h)
     rotation_period: 0.325 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 85 K<br />(-188 °C)
+    temperature: 77 K<br />(-196 °C)
     composition:
       - 73.5147% hydrogen
       - 24.2194% helium
@@ -818,14 +818,14 @@ planets:
         radius: 29,149.8 km<br/>(4.575 Yrths)
         surface_area: 1.068 × 10<sup>10</sup> km<sup>2</sup><br/>(20.934 Yrths)
         volume: 1.038 × 10<sup>14</sup> km<sup>3</sup><br/>(95.782 Yrths)
-        mass: 1.758 × 10<sup>26</sup> kg<br />(22.12529078038698 Yrths)
+        mass: 1.758 × 10<sup>26</sup> kg<br />(29.430 Yrths)
         density: 1.694 g/cm<sup>3</sup>
         surface_gravity: 13.787 m/s<sup>2</sup><br />(1.406 g<sub>0</sub>)
         escape_velocity: 28.370 km/s<br />(102,132 km/h)
         rotation_period: 40.802 d
         axial_tilt: 22.97°
         albedo: 0.30
-        temperature: 389 K<br />(115 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 11071 Tanashad VIII b
         type: Rocky
         formationType: Accreted
@@ -838,15 +838,35 @@ planets:
         radius: 12,658.0 km<br/>(1.987 Yrths)
         surface_area: 2.013 × 10<sup>09</sup> km<sup>2</sup><br/>(3.947 Yrths)
         volume: 8.495 × 10<sup>12</sup> km<sup>3</sup><br/>(7.843 Yrths)
-        mass: 2.273 × 10<sup>25</sup> kg<br />(22.12529078038698 Yrths)
+        mass: 2.273 × 10<sup>25</sup> kg<br />(3.805 Yrths)
         density: 2.675 g/cm<sup>3</sup>
         surface_gravity: 9.454 m/s<sup>2</sup><br />(0.964 g<sub>0</sub>)
         escape_velocity: 15.481 km/s<br />(55,732 km/h)
         rotation_period: 38.863 d
         axial_tilt: 17.71°
         albedo: 0.30
-        temperature: 353 K<br />(80 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 11071 Tanashad VIII c
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 82,925,578 km<br />
+        perihelion: 71,590,279 km<br />
+        semi_major_axis: 77,257,929 km<br />
+        eccentricity: 0.073
+        orbital_period: 1.74 d<br />
+        inclination: 2.01°
+        radius: 10,668.0 km<br/>(1.674 Yrths)
+        surface_area: 1.430 × 10<sup>09</sup> km<sup>2</sup><br/>(2.804 Yrths)
+        volume: 5.086 × 10<sup>12</sup> km<sup>3</sup><br/>(4.695 Yrths)
+        mass: 1.190 × 10<sup>25</sup> kg<br />(1.993 Yrths)
+        density: 2.341 g/cm<sup>3</sup>
+        surface_gravity: 6.972 m/s<sup>2</sup><br />(0.711 g<sub>0</sub>)
+        escape_velocity: 12.205 km/s<br />(43,936 km/h)
+        rotation_period: 50.565 d
+        axial_tilt: 29.53°
+        albedo: 0.30
+        temperature: 47 K<br />(-226 °C)
+      - name: 11071 Tanashad VIII d
         type: Dwarf planet
         formationType: Impact formed
         aphelion: 88,481,060 km<br />
@@ -858,15 +878,15 @@ planets:
         radius: 21,989.7 km<br/>(3.452 Yrths)
         surface_area: 6.076 × 10<sup>09</sup> km<sup>2</sup><br/>(11.913 Yrths)
         volume: 4.454 × 10<sup>13</sup> km<sup>3</sup><br/>(41.118 Yrths)
-        mass: 7.260 × 10<sup>25</sup> kg<br />(22.12529078038698 Yrths)
+        mass: 7.260 × 10<sup>25</sup> kg<br />(12.157 Yrths)
         density: 1.630 g/cm<sup>3</sup>
         surface_gravity: 10.008 m/s<sup>2</sup><br />(1.020 g<sub>0</sub>)
         escape_velocity: 20.993 km/s<br />(75,576 km/h)
         rotation_period: 45.181 d
         axial_tilt: 38.67°
         albedo: 0.30
-        temperature: 321 K<br />(48 °C)
-      - name: 11071 Tanashad VIII d
+        temperature: 47 K<br />(-226 °C)
+      - name: 11071 Tanashad VIII e
         type: Icy
         formationType: Accreted
         aphelion: 106,658,758 km<br />
@@ -878,15 +898,35 @@ planets:
         radius: 27,324.6 km<br/>(4.289 Yrths)
         surface_area: 9.382 × 10<sup>09</sup> km<sup>2</sup><br/>(18.395 Yrths)
         volume: 8.546 × 10<sup>13</sup> km<sup>3</sup><br/>(78.893 Yrths)
-        mass: 1.078 × 10<sup>26</sup> kg<br />(22.12529078038698 Yrths)
+        mass: 1.078 × 10<sup>26</sup> kg<br />(18.043 Yrths)
         density: 1.261 g/cm<sup>3</sup>
         surface_gravity: 9.619 m/s<sup>2</sup><br />(0.981 g<sub>0</sub>)
         escape_velocity: 22.943 km/s<br />(82,595 km/h)
         rotation_period: 81.978 d
         axial_tilt: 24.11°
         albedo: 0.30
-        temperature: 306 K<br />(33 °C)
-      - name: 11071 Tanashad VIII e
+        temperature: 47 K<br />(-226 °C)
+      - name: 11071 Tanashad VIII f
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 113,438,066 km<br />
+        perihelion: 92,222,541 km<br />
+        semi_major_axis: 102,830,303 km<br />
+        eccentricity: 0.103
+        orbital_period: 1.74 d<br />
+        inclination: 2.70°
+        radius: 10,370.3 km<br/>(1.628 Yrths)
+        surface_area: 1.351 × 10<sup>09</sup> km<sup>2</sup><br/>(2.650 Yrths)
+        volume: 4.672 × 10<sup>12</sup> km<sup>3</sup><br/>(4.313 Yrths)
+        mass: 9.969 × 10<sup>24</sup> kg<br />(1.669 Yrths)
+        density: 2.134 g/cm<sup>3</sup>
+        surface_gravity: 6.179 m/s<sup>2</sup><br />(0.630 g<sub>0</sub>)
+        escape_velocity: 11.328 km/s<br />(40,781 km/h)
+        rotation_period: 44.601 d
+        axial_tilt: 18.47°
+        albedo: 0.30
+        temperature: 47 K<br />(-226 °C)
+      - name: 11071 Tanashad VIII g
         type: Icy
         formationType: Captured
         aphelion: 148,475,585 km<br />
@@ -898,15 +938,15 @@ planets:
         radius: 65,339.6 km<br/>(10.256 Yrths)
         surface_area: 5.365 × 10<sup>10</sup> km<sup>2</sup><br/>(105.181 Yrths)
         volume: 1.168 × 10<sup>15</sup> km<sup>3</sup><br/>(1078.715 Yrths)
-        mass: 9.253 × 10<sup>26</sup> kg<br />(22.12529078038698 Yrths)
+        mass: 9.253 × 10<sup>26</sup> kg<br />(154.943 Yrths)
         density: 0.792 g/cm<sup>3</sup>
         surface_gravity: 14.446 m/s<sup>2</sup><br />(1.473 g<sub>0</sub>)
         escape_velocity: 43.479 km/s<br />(156,523 km/h)
         rotation_period: 61.906 d
         axial_tilt: 22.04°
         albedo: 0.30
-        temperature: 278 K<br />(5 °C)
-      - name: 11071 Tanashad VIII f
+        temperature: 47 K<br />(-226 °C)
+      - name: 11071 Tanashad VIII h
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 156,843,243 km<br />
@@ -918,15 +958,15 @@ planets:
         radius: 36,655.8 km<br/>(5.754 Yrths)
         surface_area: 1.688 × 10<sup>10</sup> km<sup>2</sup><br/>(33.103 Yrths)
         volume: 2.063 × 10<sup>14</sup> km<sup>3</sup><br/>(190.460 Yrths)
-        mass: 3.837 × 10<sup>26</sup> kg<br />(22.12529078038698 Yrths)
+        mass: 3.837 × 10<sup>26</sup> kg<br />(64.243 Yrths)
         density: 1.860 g/cm<sup>3</sup>
         surface_gravity: 19.032 m/s<sup>2</sup><br />(1.941 g<sub>0</sub>)
         escape_velocity: 37.378 km/s<br />(134,562 km/h)
         rotation_period: 57.117 d
         axial_tilt: 17.56°
         albedo: 0.30
-        temperature: 265 K<br />(-8 °C)
-      - name: 11071 Tanashad VIII g
+        temperature: 47 K<br />(-226 °C)
+      - name: 11071 Tanashad VIII i
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 162,944,564 km<br />
@@ -938,15 +978,15 @@ planets:
         radius: 15,823.0 km<br/>(2.484 Yrths)
         surface_area: 3.146 × 10<sup>09</sup> km<sup>2</sup><br/>(6.168 Yrths)
         volume: 1.659 × 10<sup>13</sup> km<sup>3</sup><br/>(15.319 Yrths)
-        mass: 3.513 × 10<sup>25</sup> kg<br />(22.12529078038698 Yrths)
+        mass: 3.513 × 10<sup>25</sup> kg<br />(5.882 Yrths)
         density: 2.117 g/cm<sup>3</sup>
         surface_gravity: 9.352 m/s<sup>2</sup><br />(0.954 g<sub>0</sub>)
         escape_velocity: 17.215 km/s<br />(61,975 km/h)
         rotation_period: 65.128 d
         axial_tilt: 27.67°
         albedo: 0.30
-        temperature: 253 K<br />(-20 °C)
-      - name: 11071 Tanashad VIII h
+        temperature: 47 K<br />(-226 °C)
+      - name: 11071 Tanashad VIII j
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 157,756,163 km<br />
@@ -958,14 +998,14 @@ planets:
         radius: 15,970.0 km<br/>(2.507 Yrths)
         surface_area: 3.205 × 10<sup>09</sup> km<sup>2</sup><br/>(6.283 Yrths)
         volume: 1.706 × 10<sup>13</sup> km<sup>3</sup><br/>(15.750 Yrths)
-        mass: 3.388 × 10<sup>25</sup> kg<br />(22.12529078038698 Yrths)
+        mass: 3.388 × 10<sup>25</sup> kg<br />(5.673 Yrths)
         density: 1.986 g/cm<sup>3</sup>
         surface_gravity: 8.854 m/s<sup>2</sup><br />(0.903 g<sub>0</sub>)
         escape_velocity: 16.828 km/s<br />(60,582 km/h)
         rotation_period: 46.417 d
         axial_tilt: 27.27°
         albedo: 0.30
-        temperature: 241 K<br />(-32 °C)
+        temperature: 47 K<br />(-226 °C)
   - name: 11071 Tanashad IX
     type: Ice giant
     aphelion: 8,036,437,972 km<br />53.720 AU
@@ -977,14 +1017,14 @@ planets:
     radius: 26,704.8 km<br/>(4.192 Yrths)
     surface_area: 8.962 × 10<sup>09</sup> km<sup>2</sup><br/>(17.570 Yrths)
     volume: 7.977 × 10<sup>13</sup> km<sup>3</sup><br/>(73.645 Yrths)
-    mass: 9.604 × 10<sup>25</sup> kg<br />(16.08213080484749 Yrths)
+    mass: 9.604 × 10<sup>25</sup> kg<br />(16.08 Yrths)
     density: 1.204 g/cm<sup>3</sup>
     surface_gravity: 8.976 m/s<sup>2</sup><br />(0.915 g<sub>0</sub>)
     escape_velocity: 21.911 km/s<br />(78,878 km/h)
     rotation_period: 0.336 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 69 K<br />(-205 °C)
+    temperature: 64 K<br />(-209 °C)
     composition:
       - 60.2641% hydrogen
       - 32.2612% helium
@@ -1003,14 +1043,14 @@ planets:
         radius: 12,990.4 km<br/>(2.039 Yrths)
         surface_area: 2.121 × 10<sup>09</sup> km<sup>2</sup><br/>(4.157 Yrths)
         volume: 9.182 × 10<sup>12</sup> km<sup>3</sup><br/>(8.477 Yrths)
-        mass: 2.311 × 10<sup>25</sup> kg<br />(16.08213080484749 Yrths)
+        mass: 2.311 × 10<sup>25</sup> kg<br />(3.869 Yrths)
         density: 2.517 g/cm<sup>3</sup>
         surface_gravity: 9.127 m/s<sup>2</sup><br />(0.931 g<sub>0</sub>)
         escape_velocity: 15.409 km/s<br />(55,474 km/h)
         rotation_period: 58.082 d
         axial_tilt: 19.41°
         albedo: 0.30
-        temperature: 314 K<br />(41 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 11071 Tanashad IX b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1023,14 +1063,14 @@ planets:
         radius: 38,459.9 km<br/>(6.037 Yrths)
         surface_area: 1.859 × 10<sup>10</sup> km<sup>2</sup><br/>(36.442 Yrths)
         volume: 2.383 × 10<sup>14</sup> km<sup>3</sup><br/>(219.989 Yrths)
-        mass: 6.017 × 10<sup>26</sup> kg<br />(16.08213080484749 Yrths)
+        mass: 6.017 × 10<sup>26</sup> kg<br />(100.749 Yrths)
         density: 2.525 g/cm<sup>3</sup>
         surface_gravity: 27.112 m/s<sup>2</sup><br />(2.765 g<sub>0</sub>)
         escape_velocity: 45.698 km/s<br />(164,512 km/h)
         rotation_period: 31.524 d
         axial_tilt: 19.20°
         albedo: 0.30
-        temperature: 299 K<br />(26 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 11071 Tanashad IX c
         type: Icy
         formationType: Accreted
@@ -1043,14 +1083,14 @@ planets:
         radius: 24,913.0 km<br/>(3.910 Yrths)
         surface_area: 7.799 × 10<sup>09</sup> km<sup>2</sup><br/>(15.291 Yrths)
         volume: 6.477 × 10<sup>13</sup> km<sup>3</sup><br/>(59.794 Yrths)
-        mass: 6.596 × 10<sup>25</sup> kg<br />(16.08213080484749 Yrths)
+        mass: 6.596 × 10<sup>25</sup> kg<br />(11.046 Yrths)
         density: 1.018 g/cm<sup>3</sup>
         surface_gravity: 7.084 m/s<sup>2</sup><br />(0.722 g<sub>0</sub>)
         escape_velocity: 18.800 km/s<br />(67,680 km/h)
         rotation_period: 49.672 d
         axial_tilt: 17.01°
         albedo: 0.30
-        temperature: 272 K<br />(-1 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 11071 Tanashad IX d
         type: Asteroid
         formationType: Captured
@@ -1063,14 +1103,14 @@ planets:
         radius: 11,649.7 km<br/>(1.829 Yrths)
         surface_area: 1.705 × 10<sup>09</sup> km<sup>2</sup><br/>(3.344 Yrths)
         volume: 6.623 × 10<sup>12</sup> km<sup>3</sup><br/>(6.114 Yrths)
-        mass: 1.361 × 10<sup>25</sup> kg<br />(16.08213080484749 Yrths)
+        mass: 1.361 × 10<sup>25</sup> kg<br />(2.278 Yrths)
         density: 2.054 g/cm<sup>3</sup>
         surface_gravity: 6.682 m/s<sup>2</sup><br />(0.681 g<sub>0</sub>)
         escape_velocity: 12.486 km/s<br />(44,949 km/h)
         rotation_period: 39.875 d
         axial_tilt: 35.08°
         albedo: 0.30
-        temperature: 259 K<br />(-14 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 11071 Tanashad IX e
         type: Dwarf planet
         formationType: Captured
@@ -1083,14 +1123,14 @@ planets:
         radius: 21,945.7 km<br/>(3.445 Yrths)
         surface_area: 6.052 × 10<sup>09</sup> km<sup>2</sup><br/>(11.865 Yrths)
         volume: 4.427 × 10<sup>13</sup> km<sup>3</sup><br/>(40.872 Yrths)
-        mass: 8.609 × 10<sup>25</sup> kg<br />(16.08213080484749 Yrths)
+        mass: 8.609 × 10<sup>25</sup> kg<br />(14.416 Yrths)
         density: 1.945 g/cm<sup>3</sup>
         surface_gravity: 11.915 m/s<sup>2</sup><br />(1.215 g<sub>0</sub>)
         escape_velocity: 22.884 km/s<br />(82,381 km/h)
         rotation_period: 60.570 d
         axial_tilt: 19.59°
         albedo: 0.30
-        temperature: 247 K<br />(-26 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 11071 Tanashad IX f
         type: Icy
         formationType: Impact formed
@@ -1103,14 +1143,14 @@ planets:
         radius: 21,752.0 km<br/>(3.414 Yrths)
         surface_area: 5.946 × 10<sup>09</sup> km<sup>2</sup><br/>(11.657 Yrths)
         volume: 4.311 × 10<sup>13</sup> km<sup>3</sup><br/>(39.799 Yrths)
-        mass: 4.907 × 10<sup>25</sup> kg<br />(16.08213080484749 Yrths)
+        mass: 4.907 × 10<sup>25</sup> kg<br />(8.217 Yrths)
         density: 1.138 g/cm<sup>3</sup>
         surface_gravity: 6.912 m/s<sup>2</sup><br />(0.705 g<sub>0</sub>)
         escape_velocity: 17.353 km/s<br />(62,471 km/h)
         rotation_period: 67.503 d
         axial_tilt: 28.68°
         albedo: 0.30
-        temperature: 236 K<br />(-37 °C)
+        temperature: 35 K<br />(-238 °C)
   - name: 11071 Tanashad X
     type: Gas giant
     aphelion: 12,135,226,544 km<br />81.118 AU
@@ -1122,7 +1162,7 @@ planets:
     radius: 175.1 km<br/>(0.027 Yrths)
     surface_area: 3.854 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.250 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.690 × 10<sup>26</sup> kg<br />(95.2758216960228 Yrths)
+    mass: 5.690 × 10<sup>26</sup> kg<br />(95.28 Yrths)
     density: 25291673.263 g/cm<sup>3</sup>
     surface_gravity: 1236595.615 m/s<sup>2</sup><br />(126097.660 g<sub>0</sub>)
     escape_velocity: 658.562 km/s<br />(2,370,822 km/h)
@@ -1143,14 +1183,14 @@ planets:
         radius: 63,720.5 km<br/>(10.002 Yrths)
         surface_area: 5.102 × 10<sup>10</sup> km<sup>2</sup><br/>(100.033 Yrths)
         volume: 1.084 × 10<sup>15</sup> km<sup>3</sup><br/>(1000.495 Yrths)
-        mass: 2.900 × 10<sup>27</sup> kg<br />(95.2758216960228 Yrths)
+        mass: 2.900 × 10<sup>27</sup> kg<br />(485.577 Yrths)
         density: 2.676 g/cm<sup>3</sup>
         surface_gravity: 47.603 m/s<sup>2</sup><br />(4.854 g<sub>0</sub>)
         escape_velocity: 77.941 km/s<br />(280,588 km/h)
         rotation_period: 41.202 d
         axial_tilt: 31.58°
         albedo: 0.30
-        temperature: 125 K<br />(-148 °C)
+        temperature: 27 K<br />(-246 °C)
       - name: 11071 Tanashad X b
         type: Icy
         formationType: Impact formed
@@ -1163,14 +1203,14 @@ planets:
         radius: 74,883.8 km<br/>(11.754 Yrths)
         surface_area: 7.047 × 10<sup>10</sup> km<sup>2</sup><br/>(138.153 Yrths)
         volume: 1.759 × 10<sup>15</sup> km<sup>3</sup><br/>(1623.834 Yrths)
-        mass: 2.944 × 10<sup>27</sup> kg<br />(95.2758216960228 Yrths)
+        mass: 2.944 × 10<sup>27</sup> kg<br />(492.974 Yrths)
         density: 1.674 g/cm<sup>3</sup>
         surface_gravity: 34.993 m/s<sup>2</sup><br />(3.568 g<sub>0</sub>)
         escape_velocity: 72.443 km/s<br />(260,794 km/h)
         rotation_period: 52.264 d
         axial_tilt: 22.70°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 27 K<br />(-246 °C)
       - name: 11071 Tanashad X c
         type: Icy
         formationType: Accreted
@@ -1183,14 +1223,14 @@ planets:
         radius: 79,173.4 km<br/>(12.427 Yrths)
         surface_area: 7.877 × 10<sup>10</sup> km<sup>2</sup><br/>(154.434 Yrths)
         volume: 2.079 × 10<sup>15</sup> km<sup>3</sup><br/>(1919.180 Yrths)
-        mass: 3.255 × 10<sup>27</sup> kg<br />(95.2758216960228 Yrths)
+        mass: 3.255 × 10<sup>27</sup> kg<br />(545.092 Yrths)
         density: 1.566 g/cm<sup>3</sup>
         surface_gravity: 34.614 m/s<sup>2</sup><br />(3.530 g<sub>0</sub>)
         escape_velocity: 74.084 km/s<br />(266,702 km/h)
         rotation_period: 41.950 d
         axial_tilt: 25.12°
         albedo: 0.30
-        temperature: 48 K<br />(-225 °C)
+        temperature: 27 K<br />(-246 °C)
       - name: 11071 Tanashad X d
         type: Icy
         formationType: Captured
@@ -1203,14 +1243,14 @@ planets:
         radius: 96,208.0 km<br/>(15.101 Yrths)
         surface_area: 1.163 × 10<sup>11</sup> km<sup>2</sup><br/>(228.038 Yrths)
         volume: 3.730 × 10<sup>15</sup> km<sup>3</sup><br/>(3443.582 Yrths)
-        mass: 3.483 × 10<sup>27</sup> kg<br />(95.2758216960228 Yrths)
+        mass: 3.483 × 10<sup>27</sup> kg<br />(583.167 Yrths)
         density: 0.934 g/cm<sup>3</sup>
         surface_gravity: 25.079 m/s<sup>2</sup><br />(2.557 g<sub>0</sub>)
         escape_velocity: 69.513 km/s<br />(250,248 km/h)
         rotation_period: 100.058 d
         axial_tilt: 27.10°
         albedo: 0.30
-        temperature: 42 K<br />(-231 °C)
+        temperature: 27 K<br />(-246 °C)
       - name: 11071 Tanashad X e
         type: Icy
         formationType: Accreted
@@ -1223,14 +1263,14 @@ planets:
         radius: 106,801.3 km<br/>(16.764 Yrths)
         surface_area: 1.433 × 10<sup>11</sup> km<sup>2</sup><br/>(281.021 Yrths)
         volume: 5.103 × 10<sup>15</sup> km<sup>3</sup><br/>(4710.935 Yrths)
-        mass: 6.517 × 10<sup>27</sup> kg<br />(95.2758216960228 Yrths)
+        mass: 6.517 × 10<sup>27</sup> kg<br />(1091.312 Yrths)
         density: 1.277 g/cm<sup>3</sup>
         surface_gravity: 38.083 m/s<sup>2</sup><br />(3.883 g<sub>0</sub>)
         escape_velocity: 90.253 km/s<br />(324,912 km/h)
         rotation_period: 75.636 d
         axial_tilt: 17.26°
         albedo: 0.30
-        temperature: 32 K<br />(-242 °C)
+        temperature: 27 K<br />(-246 °C)
       - name: 11071 Tanashad X f
         type: Icy
         formationType: Accreted
@@ -1243,14 +1283,14 @@ planets:
         radius: 90,963.5 km<br/>(14.278 Yrths)
         surface_area: 1.040 × 10<sup>11</sup> km<sup>2</sup><br/>(203.854 Yrths)
         volume: 3.153 × 10<sup>15</sup> km<sup>3</sup><br/>(2910.571 Yrths)
-        mass: 3.212 × 10<sup>27</sup> kg<br />(95.2758216960228 Yrths)
+        mass: 3.212 × 10<sup>27</sup> kg<br />(537.865 Yrths)
         density: 1.019 g/cm<sup>3</sup>
         surface_gravity: 25.875 m/s<sup>2</sup><br />(2.638 g<sub>0</sub>)
         escape_velocity: 68.656 km/s<br />(247,163 km/h)
         rotation_period: 63.500 d
         axial_tilt: 16.01°
         albedo: 0.30
-        temperature: 30 K<br />(-243 °C)
+        temperature: 27 K<br />(-246 °C)
       - name: 11071 Tanashad X g
         type: Icy
         formationType: Captured
@@ -1263,14 +1303,14 @@ planets:
         radius: 71,503.0 km<br/>(11.223 Yrths)
         surface_area: 6.425 × 10<sup>10</sup> km<sup>2</sup><br/>(125.960 Yrths)
         volume: 1.531 × 10<sup>15</sup> km<sup>3</sup><br/>(1413.677 Yrths)
-        mass: 2.909 × 10<sup>27</sup> kg<br />(95.2758216960228 Yrths)
+        mass: 2.909 × 10<sup>27</sup> kg<br />(487.187 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 37.930 m/s<sup>2</sup><br />(3.868 g<sub>0</sub>)
         escape_velocity: 73.699 km/s<br />(265,317 km/h)
         rotation_period: 47.707 d
         axial_tilt: 26.47°
         albedo: 0.30
-        temperature: 19 K<br />(-255 °C)
+        temperature: 27 K<br />(-246 °C)
       - name: 11071 Tanashad X h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1283,12 +1323,12 @@ planets:
         radius: 67,722.1 km<br/>(10.630 Yrths)
         surface_area: 5.763 × 10<sup>10</sup> km<sup>2</sup><br/>(112.991 Yrths)
         volume: 1.301 × 10<sup>15</sup> km<sup>3</sup><br/>(1201.068 Yrths)
-        mass: 3.095 × 10<sup>27</sup> kg<br />(95.2758216960228 Yrths)
+        mass: 3.095 × 10<sup>27</sup> kg<br />(518.305 Yrths)
         density: 2.379 g/cm<sup>3</sup>
         surface_gravity: 44.984 m/s<sup>2</sup><br />(4.587 g<sub>0</sub>)
         escape_velocity: 78.110 km/s<br />(281,195 km/h)
         rotation_period: 50.094 d
         axial_tilt: 11.08°
         albedo: 0.30
-        temperature: 12 K<br />(-262 °C)
+        temperature: 27 K<br />(-246 °C)
 ---

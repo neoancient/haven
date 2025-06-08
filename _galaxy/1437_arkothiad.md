@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1437 Arkothiad is a star in the constellation Arkoth
+      1437 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 418.67 ly
 apparent_magnitude: 11.75
 absolute_magnitude: 6.20

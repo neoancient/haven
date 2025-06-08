@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3278 Narashiad is a star in the constellation Naras
+      3278 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 345.68 ly
 apparent_magnitude: 9.83
 absolute_magnitude: 4.70

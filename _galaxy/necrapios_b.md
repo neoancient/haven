@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Necrapios B is a star in the constellation Nurranpug
+      Necrapios B is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 267.47 ly
 apparent_magnitude: 13.61
 absolute_magnitude: 9.04

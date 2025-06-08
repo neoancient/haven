@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Mioruaniad D is a star in the constellation Mioruane
+      τ Mioruaniad D is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 628.05 ly
 apparent_magnitude: 12.32
 absolute_magnitude: 5.90
@@ -31,14 +31,14 @@ planets:
     radius: 3,971.3 km<br/>(0.623 Yrths)
     surface_area: 1.982 × 10<sup>08</sup> km<sup>2</sup><br/>(0.389 Yrths)
     volume: 2.624 × 10<sup>11</sup> km<sup>3</sup><br/>(0.242 Yrths)
-    mass: 1.281 × 10<sup>24</sup> kg<br />(0.21446682455204008 Yrths)
+    mass: 1.281 × 10<sup>24</sup> kg<br />(0.21 Yrths)
     density: 4.882 g/cm<sup>3</sup>
     surface_gravity: 5.413 m/s<sup>2</sup><br />(0.552 g<sub>0</sub>)
     escape_velocity: 6.561 km/s<br />(23,621 km/h)
     rotation_period: 2.518 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 349 K<br />(76 °C)
+    temperature: 1045 K<br />(772 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 88.2609% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 974.9 km<br/>(0.153 Yrths)
         surface_area: 1.194 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.882 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.158 × 10<sup>22</sup> kg<br />(0.21446682455204008 Yrths)
+        mass: 1.158 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.984 g/cm<sup>3</sup>
         surface_gravity: 0.812 m/s<sup>2</sup><br />(0.083 g<sub>0</sub>)
         escape_velocity: 1.259 km/s<br />(4,534 km/h)
         rotation_period: 38.411 d
         axial_tilt: 17.27°
         albedo: 0.30
-        temperature: 6045 K<br />(5772 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: τ Mioruaniad D II
     type: Large terrestrial
     aphelion: 294,142,146 km<br />1.966 AU
@@ -76,14 +76,14 @@ planets:
     radius: 4,378.4 km<br/>(0.687 Yrths)
     surface_area: 2.409 × 10<sup>08</sup> km<sup>2</sup><br/>(0.472 Yrths)
     volume: 3.516 × 10<sup>11</sup> km<sup>3</sup><br/>(0.325 Yrths)
-    mass: 2.519 × 10<sup>24</sup> kg<br />(0.421850699746961 Yrths)
+    mass: 2.519 × 10<sup>24</sup> kg<br />(0.42 Yrths)
     density: 7.165 g/cm<sup>3</sup>
     surface_gravity: 8.759 m/s<sup>2</sup><br />(0.893 g<sub>0</sub>)
     escape_velocity: 8.764 km/s<br />(31,550 km/h)
     rotation_period: 1.682 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 273 K<br />(-1 °C)
+    temperature: 544 K<br />(271 °C)
     surface_pressure: 177 kPa<br />(2 atm)
     composition:
       - 47.1248% carbon dioxide
@@ -102,14 +102,14 @@ planets:
         radius: 2,094.2 km<br/>(0.329 Yrths)
         surface_area: 5.511 × 10<sup>07</sup> km<sup>2</sup><br/>(0.108 Yrths)
         volume: 3.847 × 10<sup>10</sup> km<sup>3</sup><br/>(0.036 Yrths)
-        mass: 9.121 × 10<sup>22</sup> kg<br />(0.421850699746961 Yrths)
+        mass: 9.121 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 2.371 g/cm<sup>3</sup>
         surface_gravity: 1.386 m/s<sup>2</sup><br />(0.141 g<sub>0</sub>)
         escape_velocity: 2.411 km/s<br />(8,680 km/h)
         rotation_period: 46.071 d
         axial_tilt: 21.82°
         albedo: 0.30
-        temperature: 3676 K<br />(3403 °C)
+        temperature: 189 K<br />(-84 °C)
   - name: τ Mioruaniad D III
     type: Large terrestrial
     aphelion: 509,468,034 km<br />3.406 AU
@@ -121,14 +121,14 @@ planets:
     radius: 6,013.5 km<br/>(0.944 Yrths)
     surface_area: 4.544 × 10<sup>08</sup> km<sup>2</sup><br/>(0.891 Yrths)
     volume: 9.109 × 10<sup>11</sup> km<sup>3</sup><br/>(0.841 Yrths)
-    mass: 6.243 × 10<sup>24</sup> kg<br />(1.045335116025043 Yrths)
+    mass: 6.243 × 10<sup>24</sup> kg<br />(1.05 Yrths)
     density: 6.853 g/cm<sup>3</sup>
     surface_gravity: 11.506 m/s<sup>2</sup><br />(1.173 g<sub>0</sub>)
     escape_velocity: 11.772 km/s<br />(42,378 km/h)
     rotation_period: 1.152 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 228 K<br />(-45 °C)
+    temperature: 515 K<br />(242 °C)
     surface_pressure: 406 kPa<br />(4 atm)
     composition:
       - 65.4738% carbon dioxide
@@ -147,14 +147,14 @@ planets:
         radius: 1,673.4 km<br/>(0.263 Yrths)
         surface_area: 3.519 × 10<sup>07</sup> km<sup>2</sup><br/>(0.069 Yrths)
         volume: 1.963 × 10<sup>10</sup> km<sup>3</sup><br/>(0.018 Yrths)
-        mass: 5.570 × 10<sup>22</sup> kg<br />(1.045335116025043 Yrths)
+        mass: 5.570 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 2.837 g/cm<sup>3</sup>
         surface_gravity: 1.326 m/s<sup>2</sup><br />(0.135 g<sub>0</sub>)
         escape_velocity: 2.108 km/s<br />(7,588 km/h)
         rotation_period: 47.123 d
         axial_tilt: 23.68°
         albedo: 0.30
-        temperature: 2509 K<br />(2236 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: τ Mioruaniad D III b
         type: Rocky
         formationType: Captured
@@ -167,12 +167,12 @@ planets:
         radius: 3,844.5 km<br/>(0.603 Yrths)
         surface_area: 1.857 × 10<sup>08</sup> km<sup>2</sup><br/>(0.364 Yrths)
         volume: 2.380 × 10<sup>11</sup> km<sup>3</sup><br/>(0.220 Yrths)
-        mass: 6.339 × 10<sup>23</sup> kg<br />(1.045335116025043 Yrths)
+        mass: 6.339 × 10<sup>23</sup> kg<br />(0.106 Yrths)
         density: 2.663 g/cm<sup>3</sup>
         surface_gravity: 2.858 m/s<sup>2</sup><br />(0.291 g<sub>0</sub>)
         escape_velocity: 4.691 km/s<br />(16,889 km/h)
         rotation_period: 33.303 d
         axial_tilt: 17.71°
         albedo: 0.30
-        temperature: 2392 K<br />(2119 °C)
+        temperature: 144 K<br />(-129 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      15621 Dialkeshiad A is a star in the constellation Dialkes
+      15621 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 280.27 ly
 apparent_magnitude: 7.33
 absolute_magnitude: 2.66

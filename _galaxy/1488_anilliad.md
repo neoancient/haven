@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1488 Anilliad is a star in the constellation Anil
+      1488 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 493.96 ly
 apparent_magnitude: 12.66
 absolute_magnitude: 6.76

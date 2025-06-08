@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1104 Narashiad is a star in the constellation Naras
+      1104 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 590.76 ly
 apparent_magnitude: 13.96
 absolute_magnitude: 7.67

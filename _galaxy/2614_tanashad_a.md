@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2614 Tanashad A is a star in the constellation Tanas
+      2614 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1019.97 ly
 apparent_magnitude: 7.06
 absolute_magnitude: -0.41

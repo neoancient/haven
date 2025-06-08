@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8334 Athiad is a star in the constellation Ath
+      8334 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 437.87 ly
 apparent_magnitude: 11.34
 absolute_magnitude: 5.70

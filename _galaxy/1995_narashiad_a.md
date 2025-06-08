@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1995 Narashiad A is a star in the constellation Naras
+      1995 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 673.40 ly
 apparent_magnitude: 8.68
 absolute_magnitude: 2.10

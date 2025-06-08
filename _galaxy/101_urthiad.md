@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      101 Urthiad is a star in the constellation Urth
+      101 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 656.11 ly
 apparent_magnitude: 17.49
 absolute_magnitude: 10.97

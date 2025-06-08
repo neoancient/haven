@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0004 Tanoshernaiad C is a star in the constellation Tanosherna
+      0004 Tanoshernaiad C is a star in the constellation <a href="tanosherna.html">Tanosherna</a>
 distance: 282.61 ly
 apparent_magnitude: 10.08
 absolute_magnitude: 5.39
@@ -31,14 +31,14 @@ planets:
     radius: 6,132.2 km<br/>(0.963 Yrths)
     surface_area: 4.726 × 10<sup>08</sup> km<sup>2</sup><br/>(0.926 Yrths)
     volume: 9.659 × 10<sup>11</sup> km<sup>3</sup><br/>(0.892 Yrths)
-    mass: 7.868 × 10<sup>24</sup> kg<br />(1.3175600902565061 Yrths)
+    mass: 7.868 × 10<sup>24</sup> kg<br />(1.32 Yrths)
     density: 8.146 g/cm<sup>3</sup>
     surface_gravity: 13.947 m/s<sup>2</sup><br />(1.422 g<sub>0</sub>)
     escape_velocity: 13.087 km/s<br />(47,115 km/h)
     rotation_period: 2.444 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 368 K<br />(95 °C)
+    temperature: 461 K<br />(187 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 85.9750% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 3,840.1 km<br/>(0.603 Yrths)
         surface_area: 1.853 × 10<sup>08</sup> km<sup>2</sup><br/>(0.363 Yrths)
         volume: 2.372 × 10<sup>11</sup> km<sup>3</sup><br/>(0.219 Yrths)
-        mass: 4.215 × 10<sup>23</sup> kg<br />(1.3175600902565061 Yrths)
+        mass: 4.215 × 10<sup>23</sup> kg<br />(0.071 Yrths)
         density: 1.777 g/cm<sup>3</sup>
         surface_gravity: 1.905 m/s<sup>2</sup><br />(0.194 g<sub>0</sub>)
         escape_velocity: 3.828 km/s<br />(13,780 km/h)
         rotation_period: 72.939 d
         axial_tilt: 14.51°
         albedo: 0.30
-        temperature: 4497 K<br />(4224 °C)
+        temperature: 327 K<br />(54 °C)
   - name: 0004 Tanoshernaiad C II
     type: Large terrestrial
     aphelion: 137,636,822 km<br />0.920 AU
@@ -77,14 +77,14 @@ planets:
     radius: 7,936.7 km<br/>(1.246 Yrths)
     surface_area: 7.916 × 10<sup>08</sup> km<sup>2</sup><br/>(1.552 Yrths)
     volume: 2.094 × 10<sup>12</sup> km<sup>3</sup><br/>(1.933 Yrths)
-    mass: 1.622 × 10<sup>25</sup> kg<br />(2.7154118173963746 Yrths)
+    mass: 1.622 × 10<sup>25</sup> kg<br />(2.72 Yrths)
     density: 7.744 g/cm<sup>3</sup>
     surface_gravity: 17.159 m/s<sup>2</sup><br />(1.750 g<sub>0</sub>)
     escape_velocity: 16.515 km/s<br />(59,454 km/h)
     rotation_period: 1.288 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 313 K<br />(40 °C)
+    temperature: 339 K<br />(66 °C)
     surface_pressure: 153 kPa<br />(2 atm)
     composition:
       - 85.3043% nitrogen
@@ -104,14 +104,14 @@ planets:
         radius: 2,480.6 km<br/>(0.389 Yrths)
         surface_area: 7.733 × 10<sup>07</sup> km<sup>2</sup><br/>(0.152 Yrths)
         volume: 6.394 × 10<sup>10</sup> km<sup>3</sup><br/>(0.059 Yrths)
-        mass: 1.072 × 10<sup>23</sup> kg<br />(2.7154118173963746 Yrths)
+        mass: 1.072 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 1.677 g/cm<sup>3</sup>
         surface_gravity: 1.161 m/s<sup>2</sup><br />(0.118 g<sub>0</sub>)
         escape_velocity: 2.402 km/s<br />(8,647 km/h)
         rotation_period: 47.397 d
         axial_tilt: 19.23°
         albedo: 0.30
-        temperature: 3012 K<br />(2739 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 0004 Tanoshernaiad C II b
         type: Rocky
         formationType: Impact formed
@@ -124,14 +124,14 @@ planets:
         radius: 4,807.4 km<br/>(0.755 Yrths)
         surface_area: 2.904 × 10<sup>08</sup> km<sup>2</sup><br/>(0.569 Yrths)
         volume: 4.654 × 10<sup>11</sup> km<sup>3</sup><br/>(0.430 Yrths)
-        mass: 1.415 × 10<sup>24</sup> kg<br />(2.7154118173963746 Yrths)
+        mass: 1.415 × 10<sup>24</sup> kg<br />(0.237 Yrths)
         density: 3.040 g/cm<sup>3</sup>
         surface_gravity: 4.081 m/s<sup>2</sup><br />(0.416 g<sub>0</sub>)
         escape_velocity: 6.268 km/s<br />(22,565 km/h)
         rotation_period: 48.335 d
         axial_tilt: 18.76°
         albedo: 0.30
-        temperature: 2872 K<br />(2599 °C)
+        temperature: 250 K<br />(-23 °C)
   - name: 0004 Tanoshernaiad C III
     type: Large terrestrial
     aphelion: 213,996,276 km<br />1.430 AU
@@ -143,14 +143,14 @@ planets:
     radius: 7,444.5 km<br/>(1.168 Yrths)
     surface_area: 6.964 × 10<sup>08</sup> km<sup>2</sup><br/>(1.365 Yrths)
     volume: 1.728 × 10<sup>12</sup> km<sup>3</sup><br/>(1.595 Yrths)
-    mass: 1.037 × 10<sup>25</sup> kg<br />(1.7372109731325844 Yrths)
+    mass: 1.037 × 10<sup>25</sup> kg<br />(1.74 Yrths)
     density: 6.003 g/cm<sup>3</sup>
     surface_gravity: 12.477 m/s<sup>2</sup><br />(1.272 g<sub>0</sub>)
     escape_velocity: 13.639 km/s<br />(49,101 km/h)
     rotation_period: 1.198 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 308 K<br />(35 °C)
+    temperature: 763 K<br />(490 °C)
     surface_pressure: 294 kPa<br />(3 atm)
     composition:
       - 77.4610% carbon dioxide
@@ -168,14 +168,14 @@ planets:
         radius: 4,699.7 km<br/>(0.738 Yrths)
         surface_area: 2.776 × 10<sup>08</sup> km<sup>2</sup><br/>(0.544 Yrths)
         volume: 4.348 × 10<sup>11</sup> km<sup>3</sup><br/>(0.401 Yrths)
-        mass: 1.328 × 10<sup>24</sup> kg<br />(1.7372109731325844 Yrths)
+        mass: 1.328 × 10<sup>24</sup> kg<br />(0.222 Yrths)
         density: 3.054 g/cm<sup>3</sup>
         surface_gravity: 4.008 m/s<sup>2</sup><br />(0.409 g<sub>0</sub>)
         escape_velocity: 6.142 km/s<br />(22,110 km/h)
         rotation_period: 51.345 d
         axial_tilt: 17.86°
         albedo: 0.30
-        temperature: 3058 K<br />(2785 °C)
+        temperature: 192 K<br />(-82 °C)
       - name: 0004 Tanoshernaiad C III b
         type: Rocky
         formationType: Accreted
@@ -188,14 +188,14 @@ planets:
         radius: 3,054.2 km<br/>(0.479 Yrths)
         surface_area: 1.172 × 10<sup>08</sup> km<sup>2</sup><br/>(0.230 Yrths)
         volume: 1.193 × 10<sup>11</sup> km<sup>3</sup><br/>(0.110 Yrths)
-        mass: 3.538 × 10<sup>23</sup> kg<br />(1.7372109731325844 Yrths)
+        mass: 3.538 × 10<sup>23</sup> kg<br />(0.059 Yrths)
         density: 2.965 g/cm<sup>3</sup>
         surface_gravity: 2.528 m/s<sup>2</sup><br />(0.258 g<sub>0</sub>)
         escape_velocity: 3.932 km/s<br />(14,156 km/h)
         rotation_period: 29.006 d
         axial_tilt: 20.07°
         albedo: 0.30
-        temperature: 2916 K<br />(2643 °C)
+        temperature: 192 K<br />(-82 °C)
       - name: 0004 Tanoshernaiad C III c
         type: Rocky
         formationType: Captured
@@ -208,14 +208,14 @@ planets:
         radius: 1,785.7 km<br/>(0.280 Yrths)
         surface_area: 4.007 × 10<sup>07</sup> km<sup>2</sup><br/>(0.079 Yrths)
         volume: 2.385 × 10<sup>10</sup> km<sup>3</sup><br/>(0.022 Yrths)
-        mass: 7.643 × 10<sup>22</sup> kg<br />(1.7372109731325844 Yrths)
+        mass: 7.643 × 10<sup>22</sup> kg<br />(0.013 Yrths)
         density: 3.204 g/cm<sup>3</sup>
         surface_gravity: 1.598 m/s<sup>2</sup><br />(0.163 g<sub>0</sub>)
         escape_velocity: 2.390 km/s<br />(8,605 km/h)
         rotation_period: 33.040 d
         axial_tilt: 21.29°
         albedo: 0.30
-        temperature: 2780 K<br />(2507 °C)
+        temperature: 192 K<br />(-82 °C)
   - name: 0004 Tanoshernaiad C IV
     type: Gas giant
     aphelion: 370,806,876 km<br />2.479 AU
@@ -227,7 +227,7 @@ planets:
     radius: 200.6 km<br/>(0.031 Yrths)
     surface_area: 5.059 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.383 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.038 × 10<sup>27</sup> kg<br />(173.87624451761963 Yrths)
+    mass: 1.038 × 10<sup>27</sup> kg<br />(173.88 Yrths)
     density: 30692958.274 g/cm<sup>3</sup>
     surface_gravity: 1719310.607 m/s<sup>2</sup><br />(175320.890 g<sub>0</sub>)
     escape_velocity: 831.175 km/s<br />(2,992,230 km/h)
@@ -248,14 +248,14 @@ planets:
         radius: 144,813.8 km<br/>(22.730 Yrths)
         surface_area: 2.635 × 10<sup>11</sup> km<sup>2</sup><br/>(516.660 Yrths)
         volume: 1.272 × 10<sup>16</sup> km<sup>3</sup><br/>(11743.759 Yrths)
-        mass: 1.861 × 10<sup>28</sup> kg<br />(173.87624451761963 Yrths)
+        mass: 1.861 × 10<sup>28</sup> kg<br />(3116.837 Yrths)
         density: 1.463 g/cm<sup>3</sup>
         surface_gravity: 59.160 m/s<sup>2</sup><br />(6.033 g<sub>0</sub>)
         escape_velocity: 130.987 km/s<br />(471,555 km/h)
         rotation_period: 43.106 d
         axial_tilt: 20.77°
         albedo: 0.30
-        temperature: 711 K<br />(438 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0004 Tanoshernaiad C IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -268,14 +268,14 @@ planets:
         radius: 148,747.1 km<br/>(23.348 Yrths)
         surface_area: 2.780 × 10<sup>11</sup> km<sup>2</sup><br/>(545.107 Yrths)
         volume: 1.379 × 10<sup>16</sup> km<sup>3</sup><br/>(12726.899 Yrths)
-        mass: 2.987 × 10<sup>28</sup> kg<br />(173.87624451761963 Yrths)
+        mass: 2.987 × 10<sup>28</sup> kg<br />(5001.470 Yrths)
         density: 2.167 g/cm<sup>3</sup>
         surface_gravity: 89.978 m/s<sup>2</sup><br />(9.175 g<sub>0</sub>)
         escape_velocity: 163.720 km/s<br />(589,393 km/h)
         rotation_period: 36.487 d
         axial_tilt: 19.54°
         albedo: 0.30
-        temperature: 647 K<br />(374 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0004 Tanoshernaiad C IV c
         type: Dwarf planet
         formationType: Accreted
@@ -288,14 +288,14 @@ planets:
         radius: 133,859.6 km<br/>(21.011 Yrths)
         surface_area: 2.252 × 10<sup>11</sup> km<sup>2</sup><br/>(441.452 Yrths)
         volume: 1.005 × 10<sup>16</sup> km<sup>3</sup><br/>(9275.248 Yrths)
-        mass: 1.833 × 10<sup>28</sup> kg<br />(173.87624451761963 Yrths)
+        mass: 1.833 × 10<sup>28</sup> kg<br />(3069.509 Yrths)
         density: 1.825 g/cm<sup>3</sup>
         surface_gravity: 68.188 m/s<sup>2</sup><br />(6.953 g<sub>0</sub>)
         escape_velocity: 135.203 km/s<br />(486,732 km/h)
         rotation_period: 41.094 d
         axial_tilt: 14.98°
         albedo: 0.30
-        temperature: 486 K<br />(213 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0004 Tanoshernaiad C IV d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -308,14 +308,14 @@ planets:
         radius: 112,470.5 km<br/>(17.654 Yrths)
         surface_area: 1.590 × 10<sup>11</sup> km<sup>2</sup><br/>(311.646 Yrths)
         volume: 5.959 × 10<sup>15</sup> km<sup>3</sup><br/>(5501.650 Yrths)
-        mass: 1.542 × 10<sup>28</sup> kg<br />(173.87624451761963 Yrths)
+        mass: 1.542 × 10<sup>28</sup> kg<br />(2582.828 Yrths)
         density: 2.588 g/cm<sup>3</sup>
         surface_gravity: 81.274 m/s<sup>2</sup><br />(8.288 g<sub>0</sub>)
         escape_velocity: 135.303 km/s<br />(487,089 km/h)
         rotation_period: 48.397 d
         axial_tilt: 20.80°
         albedo: 0.30
-        temperature: 402 K<br />(128 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0004 Tanoshernaiad C IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -328,14 +328,14 @@ planets:
         radius: 129,928.8 km<br/>(20.394 Yrths)
         surface_area: 2.121 × 10<sup>11</sup> km<sup>2</sup><br/>(415.906 Yrths)
         volume: 9.188 × 10<sup>15</sup> km<sup>3</sup><br/>(8481.897 Yrths)
-        mass: 2.359 × 10<sup>28</sup> kg<br />(173.87624451761963 Yrths)
+        mass: 2.359 × 10<sup>28</sup> kg<br />(3950.809 Yrths)
         density: 2.568 g/cm<sup>3</sup>
         surface_gravity: 93.156 m/s<sup>2</sup><br />(9.499 g<sub>0</sub>)
         escape_velocity: 155.693 km/s<br />(560,494 km/h)
         rotation_period: 36.700 d
         axial_tilt: 11.19°
         albedo: 0.30
-        temperature: 316 K<br />(43 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0004 Tanoshernaiad C IV f
         type: Icy
         formationType: Accreted
@@ -348,14 +348,14 @@ planets:
         radius: 153,615.3 km<br/>(24.112 Yrths)
         surface_area: 2.965 × 10<sup>11</sup> km<sup>2</sup><br/>(581.372 Yrths)
         volume: 1.518 × 10<sup>16</sup> km<sup>3</sup><br/>(14017.833 Yrths)
-        mass: 1.510 × 10<sup>28</sup> kg<br />(173.87624451761963 Yrths)
+        mass: 1.510 × 10<sup>28</sup> kg<br />(2528.612 Yrths)
         density: 0.995 g/cm<sup>3</sup>
         surface_gravity: 42.653 m/s<sup>2</sup><br />(4.349 g<sub>0</sub>)
         escape_velocity: 114.552 km/s<br />(412,386 km/h)
         rotation_period: 75.923 d
         axial_tilt: 9.88°
         albedo: 0.30
-        temperature: 262 K<br />(-12 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0004 Tanoshernaiad C IV g
         type: Icy
         formationType: Captured
@@ -368,14 +368,14 @@ planets:
         radius: 156,095.2 km<br/>(24.501 Yrths)
         surface_area: 3.062 × 10<sup>11</sup> km<sup>2</sup><br/>(600.294 Yrths)
         volume: 1.593 × 10<sup>16</sup> km<sup>3</sup><br/>(14707.741 Yrths)
-        mass: 1.688 × 10<sup>28</sup> kg<br />(173.87624451761963 Yrths)
+        mass: 1.688 × 10<sup>28</sup> kg<br />(2826.021 Yrths)
         density: 1.059 g/cm<sup>3</sup>
         surface_gravity: 46.167 m/s<sup>2</sup><br />(4.708 g<sub>0</sub>)
         escape_velocity: 120.135 km/s<br />(432,487 km/h)
         rotation_period: 65.318 d
         axial_tilt: 8.01°
         albedo: 0.30
-        temperature: 238 K<br />(-35 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0004 Tanoshernaiad C IV h
         type: Icy
         formationType: Accreted
@@ -388,14 +388,14 @@ planets:
         radius: 162,796.1 km<br/>(25.553 Yrths)
         surface_area: 3.330 × 10<sup>11</sup> km<sup>2</sup><br/>(652.939 Yrths)
         volume: 1.807 × 10<sup>16</sup> km<sup>3</sup><br/>(16684.353 Yrths)
-        mass: 2.257 × 10<sup>28</sup> kg<br />(173.87624451761963 Yrths)
+        mass: 2.257 × 10<sup>28</sup> kg<br />(3779.993 Yrths)
         density: 1.249 g/cm<sup>3</sup>
         surface_gravity: 56.773 m/s<sup>2</sup><br />(5.789 g<sub>0</sub>)
         escape_velocity: 136.051 km/s<br />(489,783 km/h)
         rotation_period: 44.533 d
         axial_tilt: 27.67°
         albedo: 0.30
-        temperature: 206 K<br />(-67 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0004 Tanoshernaiad C IV i
         type: Icy
         formationType: Impact formed
@@ -408,14 +408,14 @@ planets:
         radius: 127,442.5 km<br/>(20.004 Yrths)
         surface_area: 2.041 × 10<sup>11</sup> km<sup>2</sup><br/>(400.141 Yrths)
         volume: 8.670 × 10<sup>15</sup> km<sup>3</sup><br/>(8004.242 Yrths)
-        mass: 1.190 × 10<sup>28</sup> kg<br />(173.87624451761963 Yrths)
+        mass: 1.190 × 10<sup>28</sup> kg<br />(1992.722 Yrths)
         density: 1.373 g/cm<sup>3</sup>
         surface_gravity: 48.838 m/s<sup>2</sup><br />(4.980 g<sub>0</sub>)
         escape_velocity: 111.646 km/s<br />(401,926 km/h)
         rotation_period: 60.291 d
         axial_tilt: 20.26°
         albedo: 0.30
-        temperature: 187 K<br />(-86 °C)
+        temperature: 147 K<br />(-126 °C)
   - name: 0004 Tanoshernaiad C V
     type: Ice giant
     aphelion: 632,222,427 km<br />4.226 AU
@@ -427,14 +427,14 @@ planets:
     radius: 4,562.1 km<br/>(0.716 Yrths)
     surface_area: 2.615 × 10<sup>08</sup> km<sup>2</sup><br/>(0.513 Yrths)
     volume: 3.977 × 10<sup>11</sup> km<sup>3</sup><br/>(0.367 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.502 g/cm<sup>3</sup>
     surface_gravity: 1.913 m/s<sup>2</sup><br />(0.195 g<sub>0</sub>)
     escape_velocity: 4.180 km/s<br />(15,049 km/h)
     rotation_period: 0.976 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 201 K<br />(-72 °C)
+    temperature: 180 K<br />(-93 °C)
     composition:
       - 84.1949% hydrogen
       - 15.8051% helium
@@ -451,14 +451,14 @@ planets:
         radius: 691.7 km<br/>(0.109 Yrths)
         surface_area: 6.012 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.386 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.218 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.218 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.309 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.654 km/s<br />(2,355 km/h)
         rotation_period: 54.314 d
         axial_tilt: 17.22°
         albedo: 0.30
-        temperature: 2285 K<br />(2012 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0004 Tanoshernaiad C V b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -471,14 +471,14 @@ planets:
         radius: 489.7 km<br/>(0.077 Yrths)
         surface_area: 3.013 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.918 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 9.028 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.028 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.836 g/cm<sup>3</sup>
         surface_gravity: 0.251 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.496 km/s<br />(1,786 km/h)
         rotation_period: 41.122 d
         axial_tilt: 11.72°
         albedo: 0.30
-        temperature: 2179 K<br />(1906 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0004 Tanoshernaiad C V c
         type: Icy
         formationType: Accreted
@@ -491,14 +491,14 @@ planets:
         radius: 453.1 km<br/>(0.071 Yrths)
         surface_area: 2.580 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.896 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.250 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.250 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 0.834 g/cm<sup>3</sup>
         surface_gravity: 0.106 m/s<sup>2</sup><br />(0.011 g<sub>0</sub>)
         escape_velocity: 0.309 km/s<br />(1,114 km/h)
         rotation_period: 56.198 d
         axial_tilt: 26.61°
         albedo: 0.30
-        temperature: 2077 K<br />(1804 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0004 Tanoshernaiad C V d
         type: Icy
         formationType: Impact formed
@@ -511,14 +511,14 @@ planets:
         radius: 546.2 km<br/>(0.086 Yrths)
         surface_area: 3.749 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.826 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 4.778 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.778 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.107 m/s<sup>2</sup><br />(0.011 g<sub>0</sub>)
         escape_velocity: 0.342 km/s<br />(1,230 km/h)
         rotation_period: 75.598 d
         axial_tilt: 14.13°
         albedo: 0.30
-        temperature: 1981 K<br />(1708 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0004 Tanoshernaiad C V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -531,14 +531,14 @@ planets:
         radius: 509.3 km<br/>(0.080 Yrths)
         surface_area: 3.260 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.535 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 8.856 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 8.856 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.228 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.482 km/s<br />(1,734 km/h)
         rotation_period: 54.487 d
         axial_tilt: 16.79°
         albedo: 0.30
-        temperature: 1889 K<br />(1615 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0004 Tanoshernaiad C V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -551,14 +551,14 @@ planets:
         radius: 378.2 km<br/>(0.059 Yrths)
         surface_area: 1.797 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.266 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.899 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.899 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.162 g/cm<sup>3</sup>
         surface_gravity: 0.228 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.416 km/s<br />(1,497 km/h)
         rotation_period: 46.545 d
         axial_tilt: 29.38°
         albedo: 0.30
-        temperature: 1801 K<br />(1528 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0004 Tanoshernaiad C V g
         type: Asteroid
         formationType: Captured
@@ -571,14 +571,14 @@ planets:
         radius: 1,242.0 km<br/>(0.195 Yrths)
         surface_area: 1.938 × 10<sup>07</sup> km<sup>2</sup><br/>(0.038 Yrths)
         volume: 8.025 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 2.016 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 2.016 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.512 g/cm<sup>3</sup>
         surface_gravity: 0.871 m/s<sup>2</sup><br />(0.089 g<sub>0</sub>)
         escape_velocity: 1.472 km/s<br />(5,299 km/h)
         rotation_period: 31.342 d
         axial_tilt: 46.24°
         albedo: 0.30
-        temperature: 1717 K<br />(1444 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0004 Tanoshernaiad C V h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -591,14 +591,14 @@ planets:
         radius: 484.3 km<br/>(0.076 Yrths)
         surface_area: 2.947 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.757 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 8.912 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 8.912 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.873 g/cm<sup>3</sup>
         surface_gravity: 0.253 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.496 km/s<br />(1,784 km/h)
         rotation_period: 44.318 d
         axial_tilt: 7.76°
         albedo: 0.30
-        temperature: 1637 K<br />(1364 °C)
+        temperature: 112 K<br />(-161 °C)
   - name: 0004 Tanoshernaiad C VI
     type: Gas giant
     aphelion: 1,161,462,595 km<br />7.764 AU
@@ -610,7 +610,7 @@ planets:
     radius: 219.1 km<br/>(0.034 Yrths)
     surface_area: 6.033 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.407 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.490 × 10<sup>27</sup> kg<br />(249.49594262256716 Yrths)
+    mass: 1.490 × 10<sup>27</sup> kg<br />(249.50 Yrths)
     density: 33811596.169 g/cm<sup>3</sup>
     surface_gravity: 2068457.985 m/s<sup>2</sup><br />(210924.014 g<sub>0</sub>)
     escape_velocity: 952.733 km/s<br />(3,429,840 km/h)
@@ -631,14 +631,14 @@ planets:
         radius: 175,250.9 km<br/>(27.508 Yrths)
         surface_area: 3.859 × 10<sup>11</sup> km<sup>2</sup><br/>(756.668 Yrths)
         volume: 2.255 × 10<sup>16</sup> km<sup>3</sup><br/>(20814.109 Yrths)
-        mass: 3.151 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 3.151 × 10<sup>28</sup> kg<br />(5276.371 Yrths)
         density: 1.398 g/cm<sup>3</sup>
         surface_gravity: 68.383 m/s<sup>2</sup><br />(6.973 g<sub>0</sub>)
         escape_velocity: 154.923 km/s<br />(557,722 km/h)
         rotation_period: 52.455 d
         axial_tilt: 15.58°
         albedo: 0.30
-        temperature: 393 K<br />(119 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI b
         type: Icy
         formationType: Accreted
@@ -651,14 +651,14 @@ planets:
         radius: 256,766.3 km<br/>(40.302 Yrths)
         surface_area: 8.285 × 10<sup>11</sup> km<sup>2</sup><br/>(1624.280 Yrths)
         volume: 7.091 × 10<sup>16</sup> km<sup>3</sup><br/>(65462.287 Yrths)
-        mass: 6.812 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 6.812 × 10<sup>28</sup> kg<br />(11406.539 Yrths)
         density: 0.961 g/cm<sup>3</sup>
         surface_gravity: 68.867 m/s<sup>2</sup><br />(7.023 g<sub>0</sub>)
         escape_velocity: 188.185 km/s<br />(677,467 km/h)
         rotation_period: 64.367 d
         axial_tilt: 14.60°
         albedo: 0.30
-        temperature: 357 K<br />(84 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -671,14 +671,14 @@ planets:
         radius: 163,810.1 km<br/>(25.712 Yrths)
         surface_area: 3.372 × 10<sup>11</sup> km<sup>2</sup><br/>(661.099 Yrths)
         volume: 1.841 × 10<sup>16</sup> km<sup>3</sup><br/>(16998.068 Yrths)
-        mass: 3.554 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 3.554 × 10<sup>28</sup> kg<br />(5951.081 Yrths)
         density: 1.930 g/cm<sup>3</sup>
         surface_gravity: 88.278 m/s<sup>2</sup><br />(9.002 g<sub>0</sub>)
         escape_velocity: 170.179 km/s<br />(612,643 km/h)
         rotation_period: 36.301 d
         axial_tilt: 13.52°
         albedo: 0.30
-        temperature: 268 K<br />(-5 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI d
         type: Rocky
         formationType: Captured
@@ -691,14 +691,14 @@ planets:
         radius: 139,311.5 km<br/>(21.867 Yrths)
         surface_area: 2.439 × 10<sup>11</sup> km<sup>2</sup><br/>(478.144 Yrths)
         volume: 1.133 × 10<sup>16</sup> km<sup>3</sup><br/>(10455.332 Yrths)
-        mass: 3.867 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 3.867 × 10<sup>28</sup> kg<br />(6474.633 Yrths)
         density: 3.414 g/cm<sup>3</sup>
         surface_gravity: 132.794 m/s<sup>2</sup><br />(13.541 g<sub>0</sub>)
         escape_velocity: 192.483 km/s<br />(692,938 km/h)
         rotation_period: 43.803 d
         axial_tilt: 17.17°
         albedo: 0.30
-        temperature: 244 K<br />(-29 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -711,14 +711,14 @@ planets:
         radius: 202,693.1 km<br/>(31.815 Yrths)
         surface_area: 5.163 × 10<sup>11</sup> km<sup>2</sup><br/>(1012.191 Yrths)
         volume: 3.488 × 10<sup>16</sup> km<sup>3</sup><br/>(32202.809 Yrths)
-        mass: 8.771 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 8.771 × 10<sup>28</sup> kg<br />(14686.336 Yrths)
         density: 2.514 g/cm<sup>3</sup>
         surface_gravity: 142.289 m/s<sup>2</sup><br />(14.509 g<sub>0</sub>)
         escape_velocity: 240.334 km/s<br />(865,202 km/h)
         rotation_period: 48.119 d
         axial_tilt: 16.03°
         albedo: 0.30
-        temperature: 222 K<br />(-52 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI f
         type: Asteroid
         formationType: Captured
@@ -731,14 +731,14 @@ planets:
         radius: 160,008.1 km<br/>(25.115 Yrths)
         surface_area: 3.217 × 10<sup>11</sup> km<sup>2</sup><br/>(630.767 Yrths)
         volume: 1.716 × 10<sup>16</sup> km<sup>3</sup><br/>(15841.755 Yrths)
-        mass: 3.803 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 3.803 × 10<sup>28</sup> kg<br />(6367.934 Yrths)
         density: 2.216 g/cm<sup>3</sup>
         surface_gravity: 99.003 m/s<sup>2</sup><br />(10.096 g<sub>0</sub>)
         escape_velocity: 178.117 km/s<br />(641,222 km/h)
         rotation_period: 47.021 d
         axial_tilt: 40.79°
         albedo: 0.30
-        temperature: 201 K<br />(-72 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI g
         type: Icy
         formationType: Accreted
@@ -751,14 +751,14 @@ planets:
         radius: 249,455.7 km<br/>(39.155 Yrths)
         surface_area: 7.820 × 10<sup>11</sup> km<sup>2</sup><br/>(1533.105 Yrths)
         volume: 6.502 × 10<sup>16</sup> km<sup>3</sup><br/>(60028.523 Yrths)
-        mass: 6.277 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 6.277 × 10<sup>28</sup> kg<br />(10510.551 Yrths)
         density: 0.965 g/cm<sup>3</sup>
         surface_gravity: 67.232 m/s<sup>2</sup><br />(6.856 g<sub>0</sub>)
         escape_velocity: 183.271 km/s<br />(659,776 km/h)
         rotation_period: 76.212 d
         axial_tilt: 9.33°
         albedo: 0.30
-        temperature: 81 K<br />(-192 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI h
         type: Icy
         formationType: Accreted
@@ -771,14 +771,14 @@ planets:
         radius: 177,756.3 km<br/>(27.901 Yrths)
         surface_area: 3.971 × 10<sup>11</sup> km<sup>2</sup><br/>(778.457 Yrths)
         volume: 2.353 × 10<sup>16</sup> km<sup>3</sup><br/>(21719.607 Yrths)
-        mass: 3.965 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 3.965 × 10<sup>28</sup> kg<br />(6638.976 Yrths)
         density: 1.685 g/cm<sup>3</sup>
         surface_gravity: 83.635 m/s<sup>2</sup><br />(8.528 g<sub>0</sub>)
         escape_velocity: 172.550 km/s<br />(621,181 km/h)
         rotation_period: 45.417 d
         axial_tilt: 8.19°
         albedo: 0.30
-        temperature: 74 K<br />(-199 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI i
         type: Icy
         formationType: Accreted
@@ -791,14 +791,14 @@ planets:
         radius: 200,867.9 km<br/>(31.528 Yrths)
         surface_area: 5.070 × 10<sup>11</sup> km<sup>2</sup><br/>(994.044 Yrths)
         volume: 3.395 × 10<sup>16</sup> km<sup>3</sup><br/>(31340.685 Yrths)
-        mass: 3.987 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 3.987 × 10<sup>28</sup> kg<br />(6676.361 Yrths)
         density: 1.174 g/cm<sup>3</sup>
         surface_gravity: 65.865 m/s<sup>2</sup><br />(6.716 g<sub>0</sub>)
         escape_velocity: 162.777 km/s<br />(585,996 km/h)
         rotation_period: 69.507 d
         axial_tilt: 17.61°
         albedo: 0.30
-        temperature: 61 K<br />(-212 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI j
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -811,14 +811,14 @@ planets:
         radius: 149,231.2 km<br/>(23.424 Yrths)
         surface_area: 2.799 × 10<sup>11</sup> km<sup>2</sup><br/>(548.661 Yrths)
         volume: 1.392 × 10<sup>16</sup> km<sup>3</sup><br/>(12851.571 Yrths)
-        mass: 3.013 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 3.013 × 10<sup>28</sup> kg<br />(5044.921 Yrths)
         density: 2.164 g/cm<sup>3</sup>
         surface_gravity: 90.172 m/s<sup>2</sup><br />(9.195 g<sub>0</sub>)
         escape_velocity: 164.163 km/s<br />(590,987 km/h)
         rotation_period: 34.452 d
         axial_tilt: 24.17°
         albedo: 0.30
-        temperature: 56 K<br />(-218 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0004 Tanoshernaiad C VI k
         type: Icy
         formationType: Accreted
@@ -831,14 +831,14 @@ planets:
         radius: 187,702.8 km<br/>(29.462 Yrths)
         surface_area: 4.427 × 10<sup>11</sup> km<sup>2</sup><br/>(868.013 Yrths)
         volume: 2.770 × 10<sup>16</sup> km<sup>3</sup><br/>(25573.469 Yrths)
-        mass: 3.585 × 10<sup>28</sup> kg<br />(249.49594262256716 Yrths)
+        mass: 3.585 × 10<sup>28</sup> kg<br />(6003.444 Yrths)
         density: 1.294 g/cm<sup>3</sup>
         surface_gravity: 67.826 m/s<sup>2</sup><br />(6.916 g<sub>0</sub>)
         escape_velocity: 159.677 km/s<br />(574,838 km/h)
         rotation_period: 47.359 d
         axial_tilt: 23.80°
         albedo: 0.30
-        temperature: 48 K<br />(-225 °C)
+        temperature: 86 K<br />(-187 °C)
   - name: 0004 Tanoshernaiad C VII
     type: Ice giant
     aphelion: 1,858,048,581 km<br />12.420 AU
@@ -850,14 +850,14 @@ planets:
     radius: 26,719.9 km<br/>(4.194 Yrths)
     surface_area: 8.972 × 10<sup>09</sup> km<sup>2</sup><br/>(17.590 Yrths)
     volume: 7.991 × 10<sup>13</sup> km<sup>3</sup><br/>(73.771 Yrths)
-    mass: 1.275 × 10<sup>26</sup> kg<br />(21.35069447227277 Yrths)
+    mass: 1.275 × 10<sup>26</sup> kg<br />(21.35 Yrths)
     density: 1.596 g/cm<sup>3</sup>
     surface_gravity: 11.904 m/s<sup>2</sup><br />(1.214 g<sub>0</sub>)
     escape_velocity: 25.239 km/s<br />(90,859 km/h)
     rotation_period: 0.354 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 117 K<br />(-156 °C)
+    temperature: 105 K<br />(-168 °C)
     composition:
       - 94.8692% hydrogen
       - 5.1308% helium
@@ -874,14 +874,14 @@ planets:
         radius: 33,025.5 km<br/>(5.184 Yrths)
         surface_area: 1.371 × 10<sup>10</sup> km<sup>2</sup><br/>(26.871 Yrths)
         volume: 1.509 × 10<sup>14</sup> km<sup>3</sup><br/>(139.292 Yrths)
-        mass: 3.658 × 10<sup>26</sup> kg<br />(21.35069447227277 Yrths)
+        mass: 3.658 × 10<sup>26</sup> kg<br />(61.251 Yrths)
         density: 2.424 g/cm<sup>3</sup>
         surface_gravity: 22.354 m/s<sup>2</sup><br />(2.279 g<sub>0</sub>)
         escape_velocity: 38.451 km/s<br />(138,425 km/h)
         rotation_period: 52.719 d
         axial_tilt: 36.86°
         albedo: 0.30
-        temperature: 522 K<br />(249 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0004 Tanoshernaiad C VII b
         type: Asteroid
         formationType: Captured
@@ -894,14 +894,14 @@ planets:
         radius: 13,719.2 km<br/>(2.153 Yrths)
         surface_area: 2.365 × 10<sup>09</sup> km<sup>2</sup><br/>(4.637 Yrths)
         volume: 1.082 × 10<sup>13</sup> km<sup>3</sup><br/>(9.985 Yrths)
-        mass: 2.612 × 10<sup>25</sup> kg<br />(21.35069447227277 Yrths)
+        mass: 2.612 × 10<sup>25</sup> kg<br />(4.374 Yrths)
         density: 2.415 g/cm<sup>3</sup>
         surface_gravity: 9.250 m/s<sup>2</sup><br />(0.943 g<sub>0</sub>)
         escape_velocity: 15.942 km/s<br />(57,391 km/h)
         rotation_period: 63.183 d
         axial_tilt: 27.79°
         albedo: 0.30
-        temperature: 453 K<br />(180 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0004 Tanoshernaiad C VII c
         type: Icy
         formationType: Accreted
@@ -914,14 +914,14 @@ planets:
         radius: 40,771.3 km<br/>(6.400 Yrths)
         surface_area: 2.089 × 10<sup>10</sup> km<sup>2</sup><br/>(40.954 Yrths)
         volume: 2.839 × 10<sup>14</sup> km<sup>3</sup><br/>(262.085 Yrths)
-        mass: 3.543 × 10<sup>26</sup> kg<br />(21.35069447227277 Yrths)
+        mass: 3.543 × 10<sup>26</sup> kg<br />(59.328 Yrths)
         density: 1.248 g/cm<sup>3</sup>
         surface_gravity: 14.206 m/s<sup>2</sup><br />(1.449 g<sub>0</sub>)
         escape_velocity: 34.059 km/s<br />(122,611 km/h)
         rotation_period: 63.835 d
         axial_tilt: 21.86°
         albedo: 0.30
-        temperature: 432 K<br />(159 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0004 Tanoshernaiad C VII d
         type: Icy
         formationType: Accreted
@@ -934,14 +934,14 @@ planets:
         radius: 20,208.0 km<br/>(3.172 Yrths)
         surface_area: 5.132 × 10<sup>09</sup> km<sup>2</sup><br/>(10.061 Yrths)
         volume: 3.457 × 10<sup>13</sup> km<sup>3</sup><br/>(31.912 Yrths)
-        mass: 2.616 × 10<sup>25</sup> kg<br />(21.35069447227277 Yrths)
+        mass: 2.616 × 10<sup>25</sup> kg<br />(4.380 Yrths)
         density: 0.757 g/cm<sup>3</sup>
         surface_gravity: 4.270 m/s<sup>2</sup><br />(0.435 g<sub>0</sub>)
         escape_velocity: 13.145 km/s<br />(47,322 km/h)
         rotation_period: 80.938 d
         axial_tilt: 9.26°
         albedo: 0.30
-        temperature: 324 K<br />(51 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0004 Tanoshernaiad C VII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -954,14 +954,14 @@ planets:
         radius: 15,113.6 km<br/>(2.372 Yrths)
         surface_area: 2.870 × 10<sup>09</sup> km<sup>2</sup><br/>(5.628 Yrths)
         volume: 1.446 × 10<sup>13</sup> km<sup>3</sup><br/>(13.350 Yrths)
-        mass: 2.758 × 10<sup>25</sup> kg<br />(21.35069447227277 Yrths)
+        mass: 2.758 × 10<sup>25</sup> kg<br />(4.618 Yrths)
         density: 1.907 g/cm<sup>3</sup>
         surface_gravity: 8.048 m/s<sup>2</sup><br />(0.821 g<sub>0</sub>)
         escape_velocity: 15.607 km/s<br />(56,187 km/h)
         rotation_period: 70.659 d
         axial_tilt: 15.51°
         albedo: 0.30
-        temperature: 309 K<br />(36 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0004 Tanoshernaiad C VII f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -974,14 +974,14 @@ planets:
         radius: 24,271.2 km<br/>(3.810 Yrths)
         surface_area: 7.403 × 10<sup>09</sup> km<sup>2</sup><br/>(14.513 Yrths)
         volume: 5.989 × 10<sup>13</sup> km<sup>3</sup><br/>(55.291 Yrths)
-        mass: 1.401 × 10<sup>26</sup> kg<br />(21.35069447227277 Yrths)
+        mass: 1.401 × 10<sup>26</sup> kg<br />(23.465 Yrths)
         density: 2.340 g/cm<sup>3</sup>
         surface_gravity: 15.855 m/s<sup>2</sup><br />(1.617 g<sub>0</sub>)
         escape_velocity: 27.762 km/s<br />(99,942 km/h)
         rotation_period: 36.541 d
         axial_tilt: 19.31°
         albedo: 0.30
-        temperature: 281 K<br />(8 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0004 Tanoshernaiad C VII g
         type: Icy
         formationType: Accreted
@@ -994,14 +994,14 @@ planets:
         radius: 23,720.4 km<br/>(3.723 Yrths)
         surface_area: 7.071 × 10<sup>09</sup> km<sup>2</sup><br/>(13.862 Yrths)
         volume: 5.591 × 10<sup>13</sup> km<sup>3</sup><br/>(51.611 Yrths)
-        mass: 6.281 × 10<sup>25</sup> kg<br />(21.35069447227277 Yrths)
+        mass: 6.281 × 10<sup>25</sup> kg<br />(10.517 Yrths)
         density: 1.123 g/cm<sup>3</sup>
         surface_gravity: 7.440 m/s<sup>2</sup><br />(0.759 g<sub>0</sub>)
         escape_velocity: 18.800 km/s<br />(67,680 km/h)
         rotation_period: 78.677 d
         axial_tilt: 10.96°
         albedo: 0.30
-        temperature: 268 K<br />(-5 °C)
+        temperature: 66 K<br />(-207 °C)
   - name: 0004 Tanoshernaiad C VIII
     type: Gas giant
     aphelion: 3,502,698,077 km<br />23.414 AU
@@ -1013,7 +1013,7 @@ planets:
     radius: 233.7 km<br/>(0.037 Yrths)
     surface_area: 6.861 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.344 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.959 × 10<sup>27</sup> kg<br />(327.9830837113333 Yrths)
+    mass: 1.959 × 10<sup>27</sup> kg<br />(327.98 Yrths)
     density: 36653314.999 g/cm<sup>3</sup>
     surface_gravity: 2391155.099 m/s<sup>2</sup><br />(243829.962 g<sub>0</sub>)
     escape_velocity: 1057.812 km/s<br />(3,808,124 km/h)
@@ -1034,14 +1034,14 @@ planets:
         radius: 194,943.9 km<br/>(30.599 Yrths)
         surface_area: 4.776 × 10<sup>11</sup> km<sup>2</sup><br/>(936.277 Yrths)
         volume: 3.103 × 10<sup>16</sup> km<sup>3</sup><br/>(28648.798 Yrths)
-        mass: 8.303 × 10<sup>28</sup> kg<br />(327.9830837113333 Yrths)
+        mass: 8.303 × 10<sup>28</sup> kg<br />(13902.421 Yrths)
         density: 2.675 g/cm<sup>3</sup>
         surface_gravity: 145.615 m/s<sup>2</sup><br />(14.849 g<sub>0</sub>)
         escape_velocity: 238.434 km/s<br />(858,362 km/h)
         rotation_period: 32.582 d
         axial_tilt: 11.78°
         albedo: 0.30
-        temperature: 220 K<br />(-53 °C)
+        temperature: 50 K<br />(-223 °C)
       - name: 0004 Tanoshernaiad C VIII b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1054,14 +1054,14 @@ planets:
         radius: 235,366.9 km<br/>(36.943 Yrths)
         surface_area: 6.961 × 10<sup>11</sup> km<sup>2</sup><br/>(1364.821 Yrths)
         volume: 5.462 × 10<sup>16</sup> km<sup>3</sup><br/>(50421.217 Yrths)
-        mass: 1.225 × 10<sup>29</sup> kg<br />(327.9830837113333 Yrths)
+        mass: 1.225 × 10<sup>29</sup> kg<br />(20506.425 Yrths)
         density: 2.242 g/cm<sup>3</sup>
         surface_gravity: 147.345 m/s<sup>2</sup><br />(15.025 g<sub>0</sub>)
         escape_velocity: 263.542 km/s<br />(948,752 km/h)
         rotation_period: 56.913 d
         axial_tilt: 24.33°
         albedo: 0.30
-        temperature: 165 K<br />(-108 °C)
+        temperature: 50 K<br />(-223 °C)
       - name: 0004 Tanoshernaiad C VIII c
         type: Rocky
         formationType: Captured
@@ -1074,14 +1074,14 @@ planets:
         radius: 172,806.1 km<br/>(27.124 Yrths)
         surface_area: 3.753 × 10<sup>11</sup> km<sup>2</sup><br/>(735.704 Yrths)
         volume: 2.162 × 10<sup>16</sup> km<sup>3</sup><br/>(19955.122 Yrths)
-        mass: 6.166 × 10<sup>28</sup> kg<br />(327.9830837113333 Yrths)
+        mass: 6.166 × 10<sup>28</sup> kg<br />(10325.013 Yrths)
         density: 2.853 g/cm<sup>3</sup>
         surface_gravity: 137.628 m/s<sup>2</sup><br />(14.034 g<sub>0</sub>)
         escape_velocity: 218.245 km/s<br />(785,681 km/h)
         rotation_period: 43.327 d
         axial_tilt: 8.79°
         albedo: 0.30
-        temperature: 113 K<br />(-160 °C)
+        temperature: 50 K<br />(-223 °C)
       - name: 0004 Tanoshernaiad C VIII d
         type: Icy
         formationType: Accreted
@@ -1094,14 +1094,14 @@ planets:
         radius: 207,093.6 km<br/>(32.506 Yrths)
         surface_area: 5.389 × 10<sup>11</sup> km<sup>2</sup><br/>(1056.618 Yrths)
         volume: 3.720 × 10<sup>16</sup> km<sup>3</sup><br/>(34346.086 Yrths)
-        mass: 5.217 × 10<sup>28</sup> kg<br />(327.9830837113333 Yrths)
+        mass: 5.217 × 10<sup>28</sup> kg<br />(8735.221 Yrths)
         density: 1.402 g/cm<sup>3</sup>
         surface_gravity: 81.073 m/s<sup>2</sup><br />(8.267 g<sub>0</sub>)
         escape_velocity: 183.371 km/s<br />(660,137 km/h)
         rotation_period: 42.285 d
         axial_tilt: 21.85°
         albedo: 0.30
-        temperature: 103 K<br />(-171 °C)
+        temperature: 50 K<br />(-223 °C)
       - name: 0004 Tanoshernaiad C VIII e
         type: Icy
         formationType: Accreted
@@ -1114,14 +1114,14 @@ planets:
         radius: 218,603.5 km<br/>(34.312 Yrths)
         surface_area: 6.005 × 10<sup>11</sup> km<sup>2</sup><br/>(1177.332 Yrths)
         volume: 4.376 × 10<sup>16</sup> km<sup>3</sup><br/>(40396.931 Yrths)
-        mass: 4.989 × 10<sup>28</sup> kg<br />(327.9830837113333 Yrths)
+        mass: 4.989 × 10<sup>28</sup> kg<br />(8354.492 Yrths)
         density: 1.140 g/cm<sup>3</sup>
         surface_gravity: 69.589 m/s<sup>2</sup><br />(7.096 g<sub>0</sub>)
         escape_velocity: 174.546 km/s<br />(628,365 km/h)
         rotation_period: 63.948 d
         axial_tilt: 14.70°
         albedo: 0.30
-        temperature: 98 K<br />(-175 °C)
+        temperature: 50 K<br />(-223 °C)
       - name: 0004 Tanoshernaiad C VIII f
         type: Icy
         formationType: Captured
@@ -1134,14 +1134,14 @@ planets:
         radius: 277,170.4 km<br/>(43.505 Yrths)
         surface_area: 9.654 × 10<sup>11</sup> km<sup>2</sup><br/>(1892.685 Yrths)
         volume: 8.919 × 10<sup>16</sup> km<sup>3</sup><br/>(82341.271 Yrths)
-        mass: 1.259 × 10<sup>29</sup> kg<br />(327.9830837113333 Yrths)
+        mass: 1.259 × 10<sup>29</sup> kg<br />(21084.569 Yrths)
         density: 1.412 g/cm<sup>3</sup>
         surface_gravity: 109.246 m/s<sup>2</sup><br />(11.140 g<sub>0</sub>)
         escape_velocity: 246.256 km/s<br />(886,521 km/h)
         rotation_period: 43.941 d
         axial_tilt: 17.87°
         albedo: 0.30
-        temperature: 89 K<br />(-184 °C)
+        temperature: 50 K<br />(-223 °C)
       - name: 0004 Tanoshernaiad C VIII g
         type: Icy
         formationType: Captured
@@ -1154,14 +1154,14 @@ planets:
         radius: 295,397.6 km<br/>(46.366 Yrths)
         surface_area: 1.097 × 10<sup>12</sup> km<sup>2</sup><br/>(2149.803 Yrths)
         volume: 1.080 × 10<sup>17</sup> km<sup>3</sup><br/>(99677.665 Yrths)
-        mass: 8.542 × 10<sup>28</sup> kg<br />(327.9830837113333 Yrths)
+        mass: 8.542 × 10<sup>28</sup> kg<br />(14303.539 Yrths)
         density: 0.791 g/cm<sup>3</sup>
         surface_gravity: 65.248 m/s<sup>2</sup><br />(6.653 g<sub>0</sub>)
         escape_velocity: 196.470 km/s<br />(707,292 km/h)
         rotation_period: 81.467 d
         axial_tilt: 20.89°
         albedo: 0.30
-        temperature: 55 K<br />(-218 °C)
+        temperature: 50 K<br />(-223 °C)
       - name: 0004 Tanoshernaiad C VIII h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1174,7 +1174,7 @@ planets:
         radius: 402,616.5 km<br/>(63.195 Yrths)
         surface_area: 2.037 × 10<sup>12</sup> km<sup>2</sup><br/>(3993.632 Yrths)
         volume: 2.734 × 10<sup>17</sup> km<sup>3</sup><br/>(252378.310 Yrths)
-        mass: 4.490 × 10<sup>29</sup> kg<br />(327.9830837113333 Yrths)
+        mass: 4.490 × 10<sup>29</sup> kg<br />(75181.435 Yrths)
         density: 1.642 g/cm<sup>3</sup>
         surface_gravity: 184.613 m/s<sup>2</sup><br />(18.825 g<sub>0</sub>)
         escape_velocity: 385.822 km/s<br />(1,388,960 km/h)

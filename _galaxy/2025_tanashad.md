@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2025 Tanashad is a star in the constellation Tanas
+      2025 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 231.94 ly
 apparent_magnitude: 6.84
 absolute_magnitude: 2.58
@@ -31,14 +31,14 @@ planets:
     radius: 10,268.1 km<br/>(1.612 Yrths)
     surface_area: 1.325 × 10<sup>09</sup> km<sup>2</sup><br/>(2.598 Yrths)
     volume: 4.535 × 10<sup>12</sup> km<sup>3</sup><br/>(4.187 Yrths)
-    mass: 9.939 × 10<sup>24</sup> kg<br />(1.6642050630905203 Yrths)
+    mass: 9.939 × 10<sup>24</sup> kg<br />(1.66 Yrths)
     density: 2.192 g/cm<sup>3</sup>
     surface_gravity: 6.283 m/s<sup>2</sup><br />(0.641 g<sub>0</sub>)
     escape_velocity: 11.367 km/s<br />(40,920 km/h)
     rotation_period: 0.581 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 576 K<br />(303 °C)
+    temperature: 519 K<br />(246 °C)
     composition:
       - 78.6341% hydrogen
       - 19.4801% helium
@@ -59,14 +59,14 @@ planets:
         radius: 4,831.7 km<br/>(0.758 Yrths)
         surface_area: 2.934 × 10<sup>08</sup> km<sup>2</sup><br/>(0.575 Yrths)
         volume: 4.725 × 10<sup>11</sup> km<sup>3</sup><br/>(0.436 Yrths)
-        mass: 1.049 × 10<sup>24</sup> kg<br />(1.6642050630905203 Yrths)
+        mass: 1.049 × 10<sup>24</sup> kg<br />(0.176 Yrths)
         density: 2.221 g/cm<sup>3</sup>
         surface_gravity: 2.996 m/s<sup>2</sup><br />(0.305 g<sub>0</sub>)
         escape_velocity: 5.384 km/s<br />(19,383 km/h)
         rotation_period: 50.227 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 5289 K<br />(5016 °C)
+        temperature: 376 K<br />(102 °C)
       - name: 2025 Tanashad I b
         type: Icy
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 2,147.9 km<br/>(0.337 Yrths)
         surface_area: 5.798 × 10<sup>07</sup> km<sup>2</sup><br/>(0.114 Yrths)
         volume: 4.151 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 6.074 × 10<sup>22</sup> kg<br />(1.6642050630905203 Yrths)
+        mass: 6.074 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 1.463 g/cm<sup>3</sup>
         surface_gravity: 0.878 m/s<sup>2</sup><br />(0.089 g<sub>0</sub>)
         escape_velocity: 1.943 km/s<br />(6,994 km/h)
         rotation_period: 79.850 d
         axial_tilt: 8.50°
         albedo: 0.30
-        temperature: 5043 K<br />(4770 °C)
+        temperature: 376 K<br />(102 °C)
       - name: 2025 Tanashad I c
         type: Icy
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 4,165.4 km<br/>(0.654 Yrths)
         surface_area: 2.180 × 10<sup>08</sup> km<sup>2</sup><br/>(0.427 Yrths)
         volume: 3.027 × 10<sup>11</sup> km<sup>3</sup><br/>(0.279 Yrths)
-        mass: 4.571 × 10<sup>23</sup> kg<br />(1.6642050630905203 Yrths)
+        mass: 4.571 × 10<sup>23</sup> kg<br />(0.077 Yrths)
         density: 1.510 g/cm<sup>3</sup>
         surface_gravity: 1.756 m/s<sup>2</sup><br />(0.179 g<sub>0</sub>)
         escape_velocity: 3.827 km/s<br />(13,779 km/h)
         rotation_period: 44.826 d
         axial_tilt: 6.79°
         albedo: 0.30
-        temperature: 4808 K<br />(4535 °C)
+        temperature: 376 K<br />(102 °C)
       - name: 2025 Tanashad I d
         type: Rocky
         formationType: Accreted
@@ -119,14 +119,14 @@ planets:
         radius: 3,850.9 km<br/>(0.604 Yrths)
         surface_area: 1.864 × 10<sup>08</sup> km<sup>2</sup><br/>(0.365 Yrths)
         volume: 2.392 × 10<sup>11</sup> km<sup>3</sup><br/>(0.221 Yrths)
-        mass: 8.612 × 10<sup>23</sup> kg<br />(1.6642050630905203 Yrths)
+        mass: 8.612 × 10<sup>23</sup> kg<br />(0.144 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 3.871 m/s<sup>2</sup><br />(0.395 g<sub>0</sub>)
         escape_velocity: 5.464 km/s<br />(19,669 km/h)
         rotation_period: 51.971 d
         axial_tilt: 17.91°
         albedo: 0.30
-        temperature: 4584 K<br />(4311 °C)
+        temperature: 376 K<br />(102 °C)
   - name: 2025 Tanashad II
     type: Large terrestrial
     aphelion: 373,022,487 km<br />2.493 AU
@@ -138,14 +138,14 @@ planets:
     radius: 6,396.2 km<br/>(1.004 Yrths)
     surface_area: 5.141 × 10<sup>08</sup> km<sup>2</sup><br/>(1.008 Yrths)
     volume: 1.096 × 10<sup>12</sup> km<sup>3</sup><br/>(1.012 Yrths)
-    mass: 7.805 × 10<sup>24</sup> kg<br />(1.3070137935767208 Yrths)
+    mass: 7.805 × 10<sup>24</sup> kg<br />(1.31 Yrths)
     density: 7.121 g/cm<sup>3</sup>
     surface_gravity: 12.717 m/s<sup>2</sup><br />(1.297 g<sub>0</sub>)
     escape_velocity: 12.763 km/s<br />(45,947 km/h)
     rotation_period: 0.789 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 468 K<br />(195 °C)
+    temperature: 899 K<br />(626 °C)
     surface_pressure: 3,156 kPa<br />(31 atm)
     composition:
       - 45.7219% carbon dioxide
@@ -165,14 +165,14 @@ planets:
         radius: 2,776.7 km<br/>(0.436 Yrths)
         surface_area: 9.689 × 10<sup>07</sup> km<sup>2</sup><br/>(0.190 Yrths)
         volume: 8.967 × 10<sup>10</sup> km<sup>3</sup><br/>(0.083 Yrths)
-        mass: 9.702 × 10<sup>22</sup> kg<br />(1.3070137935767208 Yrths)
+        mass: 9.702 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 1.082 g/cm<sup>3</sup>
         surface_gravity: 0.839 m/s<sup>2</sup><br />(0.086 g<sub>0</sub>)
         escape_velocity: 2.160 km/s<br />(7,775 km/h)
         rotation_period: 55.527 d
         axial_tilt: 16.33°
         albedo: 0.30
-        temperature: 4654 K<br />(4380 °C)
+        temperature: 275 K<br />(2 °C)
       - name: 2025 Tanashad II b
         type: Rocky
         formationType: Accreted
@@ -185,12 +185,12 @@ planets:
         radius: 4,216.0 km<br/>(0.662 Yrths)
         surface_area: 2.234 × 10<sup>08</sup> km<sup>2</sup><br/>(0.438 Yrths)
         volume: 3.139 × 10<sup>11</sup> km<sup>3</sup><br/>(0.290 Yrths)
-        mass: 7.533 × 10<sup>23</sup> kg<br />(1.3070137935767208 Yrths)
+        mass: 7.533 × 10<sup>23</sup> kg<br />(0.126 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 2.825 m/s<sup>2</sup><br />(0.288 g<sub>0</sub>)
         escape_velocity: 4.884 km/s<br />(17,582 km/h)
         rotation_period: 45.333 d
         axial_tilt: 22.32°
         albedo: 0.30
-        temperature: 4437 K<br />(4164 °C)
+        temperature: 275 K<br />(2 °C)
 ---

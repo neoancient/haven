@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1017 Lunaiad A is a star in the constellation Luna
+      1017 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 347.21 ly
 apparent_magnitude: 7.17
 absolute_magnitude: 2.03

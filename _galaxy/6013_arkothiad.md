@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6013 Arkothiad is a star in the constellation Arkoth
+      6013 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 407.22 ly
 apparent_magnitude: 20.05
 absolute_magnitude: 14.57

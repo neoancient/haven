@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11192 Arkothiad A is a star in the constellation Arkoth
+      11192 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 376.18 ly
 apparent_magnitude: 8.91
 absolute_magnitude: 3.60

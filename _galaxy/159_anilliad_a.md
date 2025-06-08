@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      159 Anilliad A is a star in the constellation Anil
+      159 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 326.19 ly
 apparent_magnitude: 9.84
 absolute_magnitude: 4.84

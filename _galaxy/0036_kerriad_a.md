@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0036 Kerriad A is a star in the constellation Kerr
+      0036 Kerriad A is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 233.42 ly
 apparent_magnitude: 6.05
 absolute_magnitude: 1.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12020 Tanashad is a star in the constellation Tanas
+      12020 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 252.33 ly
 apparent_magnitude: 10.77
 absolute_magnitude: 6.32

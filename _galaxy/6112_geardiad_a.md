@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6112 Geardiad A is a star in the constellation Geard
+      6112 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 324.27 ly
 apparent_magnitude: 7.64
 absolute_magnitude: 2.65

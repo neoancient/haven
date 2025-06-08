@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      196 Ratharshinniad A is a star in the constellation Ratharshin
+      196 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 489.54 ly
 apparent_magnitude: 7.54
 absolute_magnitude: 1.66

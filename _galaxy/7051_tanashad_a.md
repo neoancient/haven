@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7051 Tanashad A is a star in the constellation Tanas
+      7051 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 246.92 ly
 apparent_magnitude: 6.62
 absolute_magnitude: 2.22

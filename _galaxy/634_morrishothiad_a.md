@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      634 Morrishothiad A is a star in the constellation Morrishoth
+      634 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 183.74 ly
 apparent_magnitude: 9.44
 absolute_magnitude: 5.69

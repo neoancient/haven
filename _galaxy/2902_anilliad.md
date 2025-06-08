@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2902 Anilliad is a star in the constellation Anil
+      2902 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 834.75 ly
 apparent_magnitude: 13.05
 absolute_magnitude: 6.01

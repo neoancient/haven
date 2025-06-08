@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0229 Tanashad B is a star in the constellation Tanas
+      0229 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 680.44 ly
 apparent_magnitude: 11.88
 absolute_magnitude: 5.28

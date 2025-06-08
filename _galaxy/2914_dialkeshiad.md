@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2914 Dialkeshiad is a star in the constellation Dialkes
+      2914 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 229.79 ly
 apparent_magnitude: 15.80
 absolute_magnitude: 11.56

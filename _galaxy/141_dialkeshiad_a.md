@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      141 Dialkeshiad A is a star in the constellation Dialkes
+      141 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 250.98 ly
 apparent_magnitude: 9.70
 absolute_magnitude: 5.27

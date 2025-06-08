@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1423 Arkothiad is a star in the constellation Arkoth
+      1423 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 236.23 ly
 apparent_magnitude: 9.40
 absolute_magnitude: 5.10
@@ -31,14 +31,14 @@ planets:
     radius: 27,948.5 km<br/>(4.387 Yrths)
     surface_area: 9.816 × 10<sup>09</sup> km<sup>2</sup><br/>(19.244 Yrths)
     volume: 9.145 × 10<sup>13</sup> km<sup>3</sup><br/>(84.422 Yrths)
-    mass: 1.615 × 10<sup>26</sup> kg<br />(27.039424751044393 Yrths)
+    mass: 1.615 × 10<sup>26</sup> kg<br />(27.04 Yrths)
     density: 1.766 g/cm<sup>3</sup>
     surface_gravity: 13.779 m/s<sup>2</sup><br />(1.405 g<sub>0</sub>)
     escape_velocity: 27.771 km/s<br />(99,977 km/h)
     rotation_period: 0.958 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 533 K<br />(260 °C)
+    temperature: 474 K<br />(200 °C)
     composition:
       - 85.1183% hydrogen
       - 11.7772% helium
@@ -56,14 +56,14 @@ planets:
         radius: 21,224.2 km<br/>(3.331 Yrths)
         surface_area: 5.661 × 10<sup>09</sup> km<sup>2</sup><br/>(11.098 Yrths)
         volume: 4.005 × 10<sup>13</sup> km<sup>3</sup><br/>(36.972 Yrths)
-        mass: 1.009 × 10<sup>26</sup> kg<br />(27.039424751044393 Yrths)
+        mass: 1.009 × 10<sup>26</sup> kg<br />(16.899 Yrths)
         density: 2.520 g/cm<sup>3</sup>
         surface_gravity: 14.932 m/s<sup>2</sup><br />(1.523 g<sub>0</sub>)
         escape_velocity: 25.194 km/s<br />(90,697 km/h)
         rotation_period: 31.757 d
         axial_tilt: 18.36°
         albedo: 0.30
-        temperature: 2599 K<br />(2326 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 1423 Arkothiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 36,041.3 km<br/>(5.657 Yrths)
         surface_area: 1.632 × 10<sup>10</sup> km<sup>2</sup><br/>(32.003 Yrths)
         volume: 1.961 × 10<sup>14</sup> km<sup>3</sup><br/>(181.041 Yrths)
-        mass: 3.515 × 10<sup>26</sup> kg<br />(27.039424751044393 Yrths)
+        mass: 3.515 × 10<sup>26</sup> kg<br />(58.861 Yrths)
         density: 1.792 g/cm<sup>3</sup>
         surface_gravity: 18.037 m/s<sup>2</sup><br />(1.839 g<sub>0</sub>)
         escape_velocity: 36.082 km/s<br />(129,895 km/h)
         rotation_period: 43.438 d
         axial_tilt: 16.09°
         albedo: 0.30
-        temperature: 2478 K<br />(2205 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 1423 Arkothiad I c
         type: Dwarf planet
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 15,843.3 km<br/>(2.487 Yrths)
         surface_area: 3.154 × 10<sup>09</sup> km<sup>2</sup><br/>(6.184 Yrths)
         volume: 1.666 × 10<sup>13</sup> km<sup>3</sup><br/>(15.379 Yrths)
-        mass: 4.131 × 10<sup>25</sup> kg<br />(27.039424751044393 Yrths)
+        mass: 4.131 × 10<sup>25</sup> kg<br />(6.917 Yrths)
         density: 2.480 g/cm<sup>3</sup>
         surface_gravity: 10.969 m/s<sup>2</sup><br />(1.119 g<sub>0</sub>)
         escape_velocity: 18.656 km/s<br />(67,161 km/h)
         rotation_period: 37.293 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 2363 K<br />(2090 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 1423 Arkothiad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -116,14 +116,14 @@ planets:
         radius: 22,993.1 km<br/>(3.609 Yrths)
         surface_area: 6.644 × 10<sup>09</sup> km<sup>2</sup><br/>(13.025 Yrths)
         volume: 5.092 × 10<sup>13</sup> km<sup>3</sup><br/>(47.008 Yrths)
-        mass: 1.222 × 10<sup>26</sup> kg<br />(27.039424751044393 Yrths)
+        mass: 1.222 × 10<sup>26</sup> kg<br />(20.464 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 15.408 m/s<sup>2</sup><br />(1.571 g<sub>0</sub>)
         escape_velocity: 26.637 km/s<br />(95,892 km/h)
         rotation_period: 60.612 d
         axial_tilt: 17.62°
         albedo: 0.30
-        temperature: 2253 K<br />(1980 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 1423 Arkothiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 21,763.1 km<br/>(3.416 Yrths)
         surface_area: 5.952 × 10<sup>09</sup> km<sup>2</sup><br/>(11.669 Yrths)
         volume: 4.318 × 10<sup>13</sup> km<sup>3</sup><br/>(39.860 Yrths)
-        mass: 1.166 × 10<sup>26</sup> kg<br />(27.039424751044393 Yrths)
+        mass: 1.166 × 10<sup>26</sup> kg<br />(19.522 Yrths)
         density: 2.700 g/cm<sup>3</sup>
         surface_gravity: 16.407 m/s<sup>2</sup><br />(1.673 g<sub>0</sub>)
         escape_velocity: 26.741 km/s<br />(96,269 km/h)
         rotation_period: 42.455 d
         axial_tilt: 14.55°
         albedo: 0.30
-        temperature: 2148 K<br />(1875 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 1423 Arkothiad I f
         type: Asteroid
         formationType: Captured
@@ -156,14 +156,14 @@ planets:
         radius: 14,793.8 km<br/>(2.322 Yrths)
         surface_area: 2.750 × 10<sup>09</sup> km<sup>2</sup><br/>(5.392 Yrths)
         volume: 1.356 × 10<sup>13</sup> km<sup>3</sup><br/>(12.520 Yrths)
-        mass: 3.346 × 10<sup>25</sup> kg<br />(27.039424751044393 Yrths)
+        mass: 3.346 × 10<sup>25</sup> kg<br />(5.602 Yrths)
         density: 2.467 g/cm<sup>3</sup>
         surface_gravity: 10.189 m/s<sup>2</sup><br />(1.039 g<sub>0</sub>)
         escape_velocity: 17.375 km/s<br />(62,550 km/h)
         rotation_period: 50.295 d
         axial_tilt: 17.83°
         albedo: 0.30
-        temperature: 1953 K<br />(1680 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 1423 Arkothiad I g
         type: Dwarf planet
         formationType: Captured
@@ -176,14 +176,14 @@ planets:
         radius: 27,556.2 km<br/>(4.325 Yrths)
         surface_area: 9.542 × 10<sup>09</sup> km<sup>2</sup><br/>(18.708 Yrths)
         volume: 8.765 × 10<sup>13</sup> km<sup>3</sup><br/>(80.916 Yrths)
-        mass: 1.105 × 10<sup>26</sup> kg<br />(27.039424751044393 Yrths)
+        mass: 1.105 × 10<sup>26</sup> kg<br />(18.502 Yrths)
         density: 1.261 g/cm<sup>3</sup>
         surface_gravity: 9.699 m/s<sup>2</sup><br />(0.989 g<sub>0</sub>)
         escape_velocity: 23.136 km/s<br />(83,288 km/h)
         rotation_period: 57.218 d
         axial_tilt: 11.16°
         albedo: 0.30
-        temperature: 1862 K<br />(1589 °C)
+        temperature: 322 K<br />(49 °C)
   - name: 1423 Arkothiad II
     type: Terrestrial
     aphelion: 152,632,553 km<br />1.020 AU
@@ -195,14 +195,14 @@ planets:
     radius: 7,682.4 km<br/>(1.206 Yrths)
     surface_area: 7.417 × 10<sup>08</sup> km<sup>2</sup><br/>(1.454 Yrths)
     volume: 1.899 × 10<sup>12</sup> km<sup>3</sup><br/>(1.753 Yrths)
-    mass: 9.659 × 10<sup>24</sup> kg<br />(1.6173564983148796 Yrths)
+    mass: 9.659 × 10<sup>24</sup> kg<br />(1.62 Yrths)
     density: 5.086 g/cm<sup>3</sup>
     surface_gravity: 10.908 m/s<sup>2</sup><br />(1.112 g<sub>0</sub>)
     escape_velocity: 12.955 km/s<br />(46,637 km/h)
     rotation_period: 1.315 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 296 K<br />(23 °C)
+    temperature: 605 K<br />(331 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 64.3593% methane
@@ -221,14 +221,14 @@ planets:
         radius: 5,430.4 km<br/>(0.852 Yrths)
         surface_area: 3.706 × 10<sup>08</sup> km<sup>2</sup><br/>(0.727 Yrths)
         volume: 6.708 × 10<sup>11</sup> km<sup>3</sup><br/>(0.619 Yrths)
-        mass: 8.535 × 10<sup>23</sup> kg<br />(1.6173564983148796 Yrths)
+        mass: 8.535 × 10<sup>23</sup> kg<br />(0.143 Yrths)
         density: 1.272 g/cm<sup>3</sup>
         surface_gravity: 1.929 m/s<sup>2</sup><br />(0.197 g<sub>0</sub>)
         escape_velocity: 4.580 km/s<br />(16,489 km/h)
         rotation_period: 73.716 d
         axial_tilt: 19.85°
         albedo: 0.30
-        temperature: 3601 K<br />(3328 °C)
+        temperature: 244 K<br />(-29 °C)
   - name: 1423 Arkothiad III
     type: Large terrestrial
     aphelion: 272,376,293 km<br />1.821 AU
@@ -240,14 +240,14 @@ planets:
     radius: 11,022.0 km<br/>(1.730 Yrths)
     surface_area: 1.527 × 10<sup>09</sup> km<sup>2</sup><br/>(2.993 Yrths)
     volume: 5.609 × 10<sup>12</sup> km<sup>3</sup><br/>(5.178 Yrths)
-    mass: 3.501 × 10<sup>25</sup> kg<br />(5.86314350789688 Yrths)
+    mass: 3.501 × 10<sup>25</sup> kg<br />(5.86 Yrths)
     density: 6.243 g/cm<sup>3</sup>
     surface_gravity: 19.211 m/s<sup>2</sup><br />(1.959 g<sub>0</sub>)
     escape_velocity: 20.593 km/s<br />(74,134 km/h)
     rotation_period: 0.809 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 234 K<br />(-39 °C)
+    temperature: 274 K<br />(1 °C)
     surface_pressure: 158 kPa<br />(2 atm)
     composition:
       - 84.9440% nitrogen
@@ -266,14 +266,14 @@ planets:
         radius: 4,148.3 km<br/>(0.651 Yrths)
         surface_area: 2.162 × 10<sup>08</sup> km<sup>2</sup><br/>(0.424 Yrths)
         volume: 2.990 × 10<sup>11</sup> km<sup>3</sup><br/>(0.276 Yrths)
-        mass: 4.770 × 10<sup>23</sup> kg<br />(5.86314350789688 Yrths)
+        mass: 4.770 × 10<sup>23</sup> kg<br />(0.080 Yrths)
         density: 1.595 g/cm<sup>3</sup>
         surface_gravity: 1.848 m/s<sup>2</sup><br />(0.188 g<sub>0</sub>)
         escape_velocity: 3.918 km/s<br />(14,104 km/h)
         rotation_period: 50.352 d
         axial_tilt: 22.91°
         albedo: 0.30
-        temperature: 1994 K<br />(1720 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 1423 Arkothiad III b
         type: Asteroid
         formationType: Captured
@@ -286,14 +286,14 @@ planets:
         radius: 5,891.5 km<br/>(0.925 Yrths)
         surface_area: 4.362 × 10<sup>08</sup> km<sup>2</sup><br/>(0.855 Yrths)
         volume: 8.566 × 10<sup>11</sup> km<sup>3</sup><br/>(0.791 Yrths)
-        mass: 2.923 × 10<sup>24</sup> kg<br />(5.86314350789688 Yrths)
+        mass: 2.923 × 10<sup>24</sup> kg<br />(0.489 Yrths)
         density: 3.412 g/cm<sup>3</sup>
         surface_gravity: 5.612 m/s<sup>2</sup><br />(0.572 g<sub>0</sub>)
         escape_velocity: 8.137 km/s<br />(29,295 km/h)
         rotation_period: 29.142 d
         axial_tilt: 50.95°
         albedo: 0.30
-        temperature: 1901 K<br />(1628 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 1423 Arkothiad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -306,14 +306,14 @@ planets:
         radius: 11,054.3 km<br/>(1.735 Yrths)
         surface_area: 1.536 × 10<sup>09</sup> km<sup>2</sup><br/>(3.011 Yrths)
         volume: 5.658 × 10<sup>12</sup> km<sup>3</sup><br/>(5.224 Yrths)
-        mass: 1.359 × 10<sup>25</sup> kg<br />(5.86314350789688 Yrths)
+        mass: 1.359 × 10<sup>25</sup> kg<br />(2.275 Yrths)
         density: 2.402 g/cm<sup>3</sup>
         surface_gravity: 7.412 m/s<sup>2</sup><br />(0.756 g<sub>0</sub>)
         escape_velocity: 12.810 km/s<br />(46,115 km/h)
         rotation_period: 40.643 d
         axial_tilt: 20.12°
         albedo: 0.30
-        temperature: 1812 K<br />(1539 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 1423 Arkothiad III d
         type: Icy
         formationType: Impact formed
@@ -326,14 +326,14 @@ planets:
         radius: 8,444.6 km<br/>(1.325 Yrths)
         surface_area: 8.961 × 10<sup>08</sup> km<sup>2</sup><br/>(1.757 Yrths)
         volume: 2.522 × 10<sup>12</sup> km<sup>3</sup><br/>(2.329 Yrths)
-        mass: 4.231 × 10<sup>24</sup> kg<br />(5.86314350789688 Yrths)
+        mass: 4.231 × 10<sup>24</sup> kg<br />(0.708 Yrths)
         density: 1.677 g/cm<sup>3</sup>
         surface_gravity: 3.955 m/s<sup>2</sup><br />(0.403 g<sub>0</sub>)
         escape_velocity: 8.178 km/s<br />(29,441 km/h)
         rotation_period: 44.167 d
         axial_tilt: 20.88°
         albedo: 0.30
-        temperature: 1728 K<br />(1455 °C)
+        temperature: 184 K<br />(-89 °C)
   - name: 1423 Arkothiad IV
     type: Terrestrial
     aphelion: 488,255,495 km<br />3.264 AU
@@ -345,14 +345,14 @@ planets:
     radius: 6,732.4 km<br/>(1.057 Yrths)
     surface_area: 5.696 × 10<sup>08</sup> km<sup>2</sup><br/>(1.117 Yrths)
     volume: 1.278 × 10<sup>12</sup> km<sup>3</sup><br/>(1.180 Yrths)
-    mass: 6.720 × 10<sup>24</sup> kg<br />(1.125186644572085 Yrths)
+    mass: 6.720 × 10<sup>24</sup> kg<br />(1.13 Yrths)
     density: 5.257 g/cm<sup>3</sup>
     surface_gravity: 9.881 m/s<sup>2</sup><br />(1.008 g<sub>0</sub>)
     escape_velocity: 11.543 km/s<br />(41,553 km/h)
     rotation_period: 1.030 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 161 K<br />(-113 °C)
+    temperature: 229 K<br />(-44 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 90.0353% methane
@@ -374,14 +374,14 @@ planets:
         radius: 1,811.8 km<br/>(0.284 Yrths)
         surface_area: 4.125 × 10<sup>07</sup> km<sup>2</sup><br/>(0.081 Yrths)
         volume: 2.491 × 10<sup>10</sup> km<sup>3</sup><br/>(0.023 Yrths)
-        mass: 7.365 × 10<sup>22</sup> kg<br />(1.125186644572085 Yrths)
+        mass: 7.365 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 2.956 g/cm<sup>3</sup>
         surface_gravity: 1.495 m/s<sup>2</sup><br />(0.152 g<sub>0</sub>)
         escape_velocity: 2.329 km/s<br />(8,386 km/h)
         rotation_period: 38.213 d
         axial_tilt: 13.24°
         albedo: 0.30
-        temperature: 2027 K<br />(1754 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 1423 Arkothiad IV b
         type: Rocky
         formationType: Impact formed
@@ -394,14 +394,14 @@ planets:
         radius: 2,949.6 km<br/>(0.463 Yrths)
         surface_area: 1.093 × 10<sup>08</sup> km<sup>2</sup><br/>(0.214 Yrths)
         volume: 1.075 × 10<sup>11</sup> km<sup>3</sup><br/>(0.099 Yrths)
-        mass: 2.666 × 10<sup>23</sup> kg<br />(1.125186644572085 Yrths)
+        mass: 2.666 × 10<sup>23</sup> kg<br />(0.045 Yrths)
         density: 2.480 g/cm<sup>3</sup>
         surface_gravity: 2.043 m/s<sup>2</sup><br />(0.208 g<sub>0</sub>)
         escape_velocity: 3.474 km/s<br />(12,505 km/h)
         rotation_period: 51.455 d
         axial_tilt: 7.11°
         albedo: 0.30
-        temperature: 1933 K<br />(1660 °C)
+        temperature: 139 K<br />(-134 °C)
   - name: 1423 Arkothiad V
     type: Ice giant
     aphelion: 817,264,689 km<br />5.463 AU
@@ -413,14 +413,14 @@ planets:
     radius: 26,124.8 km<br/>(4.101 Yrths)
     surface_area: 8.577 × 10<sup>09</sup> km<sup>2</sup><br/>(16.815 Yrths)
     volume: 7.469 × 10<sup>13</sup> km<sup>3</sup><br/>(68.950 Yrths)
-    mass: 1.083 × 10<sup>26</sup> kg<br />(18.129492844533466 Yrths)
+    mass: 1.083 × 10<sup>26</sup> kg<br />(18.13 Yrths)
     density: 1.450 g/cm<sup>3</sup>
     surface_gravity: 10.573 m/s<sup>2</sup><br />(1.078 g<sub>0</sub>)
     escape_velocity: 23.520 km/s<br />(84,673 km/h)
     rotation_period: 0.410 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 186 K<br />(-88 °C)
+    temperature: 166 K<br />(-107 °C)
     composition:
       - 87.5179% hydrogen
       - 12.4821% helium
@@ -437,14 +437,14 @@ planets:
         radius: 38,274.3 km<br/>(6.008 Yrths)
         surface_area: 1.841 × 10<sup>10</sup> km<sup>2</sup><br/>(36.091 Yrths)
         volume: 2.349 × 10<sup>14</sup> km<sup>3</sup><br/>(216.820 Yrths)
-        mass: 3.204 × 10<sup>26</sup> kg<br />(18.129492844533466 Yrths)
+        mass: 3.204 × 10<sup>26</sup> kg<br />(53.652 Yrths)
         density: 1.364 g/cm<sup>3</sup>
         surface_gravity: 14.578 m/s<sup>2</sup><br />(1.487 g<sub>0</sub>)
         escape_velocity: 33.428 km/s<br />(120,342 km/h)
         rotation_period: 54.254 d
         axial_tilt: 26.85°
         albedo: 0.30
-        temperature: 865 K<br />(592 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 1423 Arkothiad V b
         type: Icy
         formationType: Accreted
@@ -457,14 +457,14 @@ planets:
         radius: 23,157.2 km<br/>(3.635 Yrths)
         surface_area: 6.739 × 10<sup>09</sup> km<sup>2</sup><br/>(13.212 Yrths)
         volume: 5.202 × 10<sup>13</sup> km<sup>3</sup><br/>(48.021 Yrths)
-        mass: 6.585 × 10<sup>25</sup> kg<br />(18.129492844533466 Yrths)
+        mass: 6.585 × 10<sup>25</sup> kg<br />(11.026 Yrths)
         density: 1.266 g/cm<sup>3</sup>
         surface_gravity: 8.185 m/s<sup>2</sup><br />(0.835 g<sub>0</sub>)
         escape_velocity: 19.483 km/s<br />(70,138 km/h)
         rotation_period: 84.963 d
         axial_tilt: 14.08°
         albedo: 0.30
-        temperature: 825 K<br />(552 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 1423 Arkothiad V c
         type: Dwarf planet
         formationType: Captured
@@ -477,14 +477,14 @@ planets:
         radius: 27,692.7 km<br/>(4.347 Yrths)
         surface_area: 9.637 × 10<sup>09</sup> km<sup>2</sup><br/>(18.894 Yrths)
         volume: 8.896 × 10<sup>13</sup> km<sup>3</sup><br/>(82.125 Yrths)
-        mass: 1.611 × 10<sup>26</sup> kg<br />(18.129492844533466 Yrths)
+        mass: 1.611 × 10<sup>26</sup> kg<br />(26.972 Yrths)
         density: 1.811 g/cm<sup>3</sup>
         surface_gravity: 13.999 m/s<sup>2</sup><br />(1.428 g<sub>0</sub>)
         escape_velocity: 27.864 km/s<br />(100,311 km/h)
         rotation_period: 58.998 d
         axial_tilt: 26.45°
         albedo: 0.30
-        temperature: 750 K<br />(477 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 1423 Arkothiad V d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -497,14 +497,14 @@ planets:
         radius: 25,380.8 km<br/>(3.984 Yrths)
         surface_area: 8.095 × 10<sup>09</sup> km<sup>2</sup><br/>(15.871 Yrths)
         volume: 6.849 × 10<sup>13</sup> km<sup>3</sup><br/>(63.225 Yrths)
-        mass: 1.124 × 10<sup>26</sup> kg<br />(18.129492844533466 Yrths)
+        mass: 1.124 × 10<sup>26</sup> kg<br />(18.822 Yrths)
         density: 1.641 g/cm<sup>3</sup>
         surface_gravity: 11.630 m/s<sup>2</sup><br />(1.186 g<sub>0</sub>)
         escape_velocity: 24.314 km/s<br />(87,531 km/h)
         rotation_period: 58.472 d
         axial_tilt: 29.07°
         albedo: 0.30
-        temperature: 715 K<br />(442 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 1423 Arkothiad V e
         type: Icy
         formationType: Captured
@@ -517,14 +517,14 @@ planets:
         radius: 29,080.1 km<br/>(4.564 Yrths)
         surface_area: 1.063 × 10<sup>10</sup> km<sup>2</sup><br/>(20.834 Yrths)
         volume: 1.030 × 10<sup>14</sup> km<sup>3</sup><br/>(95.096 Yrths)
-        mass: 1.815 × 10<sup>26</sup> kg<br />(18.129492844533466 Yrths)
+        mass: 1.815 × 10<sup>26</sup> kg<br />(30.386 Yrths)
         density: 1.762 g/cm<sup>3</sup>
         surface_gravity: 14.303 m/s<sup>2</sup><br />(1.458 g<sub>0</sub>)
         escape_velocity: 28.862 km/s<br />(103,902 km/h)
         rotation_period: 67.677 d
         axial_tilt: 13.16°
         albedo: 0.30
-        temperature: 650 K<br />(377 °C)
+        temperature: 105 K<br />(-168 °C)
   - name: 1423 Arkothiad VI
     type: Gas dwarf
     aphelion: 1,466,634,298 km<br />9.804 AU
@@ -536,14 +536,14 @@ planets:
     radius: 14,590.5 km<br/>(2.290 Yrths)
     surface_area: 2.675 × 10<sup>09</sup> km<sup>2</sup><br/>(5.245 Yrths)
     volume: 1.301 × 10<sup>13</sup> km<sup>3</sup><br/>(12.011 Yrths)
-    mass: 3.642 × 10<sup>25</sup> kg<br />(6.098773112678011 Yrths)
+    mass: 3.642 × 10<sup>25</sup> kg<br />(6.10 Yrths)
     density: 2.799 g/cm<sup>3</sup>
     surface_gravity: 11.404 m/s<sup>2</sup><br />(1.163 g<sub>0</sub>)
     escape_velocity: 18.254 km/s<br />(65,715 km/h)
     rotation_period: 0.460 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 113 K<br />(-161 °C)
+    temperature: 99 K<br />(-174 °C)
     composition:
       - 89.3984% hydrogen
       - 9.3820% helium
@@ -562,14 +562,14 @@ planets:
         radius: 9,908.0 km<br/>(1.555 Yrths)
         surface_area: 1.234 × 10<sup>09</sup> km<sup>2</sup><br/>(2.419 Yrths)
         volume: 4.074 × 10<sup>12</sup> km<sup>3</sup><br/>(3.761 Yrths)
-        mass: 9.771 × 10<sup>24</sup> kg<br />(6.098773112678011 Yrths)
+        mass: 9.771 × 10<sup>24</sup> kg<br />(1.636 Yrths)
         density: 2.398 g/cm<sup>3</sup>
         surface_gravity: 6.634 m/s<sup>2</sup><br />(0.676 g<sub>0</sub>)
         escape_velocity: 11.473 km/s<br />(41,303 km/h)
         rotation_period: 33.792 d
         axial_tilt: 55.50°
         albedo: 0.30
-        temperature: 823 K<br />(550 °C)
+        temperature: 80 K<br />(-193 °C)
       - name: 1423 Arkothiad VI b
         type: Ice/rock hybrid
         formationType: Captured
@@ -582,14 +582,14 @@ planets:
         radius: 5,566.1 km<br/>(0.874 Yrths)
         surface_area: 3.893 × 10<sup>08</sup> km<sup>2</sup><br/>(0.763 Yrths)
         volume: 7.223 × 10<sup>11</sup> km<sup>3</sup><br/>(0.667 Yrths)
-        mass: 1.891 × 10<sup>24</sup> kg<br />(6.098773112678011 Yrths)
+        mass: 1.891 × 10<sup>24</sup> kg<br />(0.317 Yrths)
         density: 2.618 g/cm<sup>3</sup>
         surface_gravity: 4.068 m/s<sup>2</sup><br />(0.415 g<sub>0</sub>)
         escape_velocity: 6.734 km/s<br />(24,242 km/h)
         rotation_period: 36.680 d
         axial_tilt: 16.72°
         albedo: 0.30
-        temperature: 785 K<br />(512 °C)
+        temperature: 80 K<br />(-193 °C)
       - name: 1423 Arkothiad VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -602,14 +602,14 @@ planets:
         radius: 5,603.7 km<br/>(0.880 Yrths)
         surface_area: 3.946 × 10<sup>08</sup> km<sup>2</sup><br/>(0.774 Yrths)
         volume: 7.371 × 10<sup>11</sup> km<sup>3</sup><br/>(0.680 Yrths)
-        mass: 1.241 × 10<sup>24</sup> kg<br />(6.098773112678011 Yrths)
+        mass: 1.241 × 10<sup>24</sup> kg<br />(0.208 Yrths)
         density: 1.683 g/cm<sup>3</sup>
         surface_gravity: 2.633 m/s<sup>2</sup><br />(0.269 g<sub>0</sub>)
         escape_velocity: 5.436 km/s<br />(19,571 km/h)
         rotation_period: 43.961 d
         axial_tilt: 23.71°
         albedo: 0.30
-        temperature: 748 K<br />(475 °C)
+        temperature: 80 K<br />(-193 °C)
       - name: 1423 Arkothiad VI d
         type: Ice/rock hybrid
         formationType: Captured
@@ -622,14 +622,14 @@ planets:
         radius: 12,945.6 km<br/>(2.032 Yrths)
         surface_area: 2.106 × 10<sup>09</sup> km<sup>2</sup><br/>(4.129 Yrths)
         volume: 9.088 × 10<sup>12</sup> km<sup>3</sup><br/>(8.390 Yrths)
-        mass: 2.339 × 10<sup>25</sup> kg<br />(6.098773112678011 Yrths)
+        mass: 2.339 × 10<sup>25</sup> kg<br />(3.917 Yrths)
         density: 2.574 g/cm<sup>3</sup>
         surface_gravity: 9.303 m/s<sup>2</sup><br />(0.949 g<sub>0</sub>)
         escape_velocity: 15.531 km/s<br />(55,911 km/h)
         rotation_period: 43.902 d
         axial_tilt: 19.91°
         albedo: 0.30
-        temperature: 714 K<br />(440 °C)
+        temperature: 80 K<br />(-193 °C)
   - name: 1423 Arkothiad VII
     type: Gas giant
     aphelion: 2,528,259,199 km<br />16.900 AU
@@ -641,7 +641,7 @@ planets:
     radius: 154.9 km<br/>(0.024 Yrths)
     surface_area: 3.015 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.556 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.363 × 10<sup>26</sup> kg<br />(56.3103332907068 Yrths)
+    mass: 3.363 × 10<sup>26</sup> kg<br />(56.31 Yrths)
     density: 21605548.727 g/cm<sup>3</sup>
     surface_gravity: 934303.536 m/s<sup>2</sup><br />(95272.446 g<sub>0</sub>)
     escape_velocity: 538.348 km/s<br />(1,938,051 km/h)
@@ -662,14 +662,14 @@ planets:
         radius: 59,544.4 km<br/>(9.346 Yrths)
         surface_area: 4.455 × 10<sup>10</sup> km<sup>2</sup><br/>(87.351 Yrths)
         volume: 8.843 × 10<sup>14</sup> km<sup>3</sup><br/>(816.396 Yrths)
-        mass: 1.202 × 10<sup>27</sup> kg<br />(56.3103332907068 Yrths)
+        mass: 1.202 × 10<sup>27</sup> kg<br />(201.256 Yrths)
         density: 1.359 g/cm<sup>3</sup>
         surface_gravity: 22.594 m/s<sup>2</sup><br />(2.304 g<sub>0</sub>)
         escape_velocity: 51.908 km/s<br />(186,868 km/h)
         rotation_period: 84.184 d
         axial_tilt: 20.06°
         albedo: 0.30
-        temperature: 430 K<br />(156 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 1423 Arkothiad VII b
         type: Icy
         formationType: Captured
@@ -682,14 +682,14 @@ planets:
         radius: 53,149.0 km<br/>(8.342 Yrths)
         surface_area: 3.550 × 10<sup>10</sup> km<sup>2</sup><br/>(69.595 Yrths)
         volume: 6.289 × 10<sup>14</sup> km<sup>3</sup><br/>(580.582 Yrths)
-        mass: 8.387 × 10<sup>26</sup> kg<br />(56.3103332907068 Yrths)
+        mass: 8.387 × 10<sup>26</sup> kg<br />(140.434 Yrths)
         density: 1.334 g/cm<sup>3</sup>
         surface_gravity: 19.789 m/s<sup>2</sup><br />(2.018 g<sub>0</sub>)
         escape_velocity: 45.895 km/s<br />(165,223 km/h)
         rotation_period: 56.143 d
         axial_tilt: 12.48°
         albedo: 0.30
-        temperature: 323 K<br />(50 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 1423 Arkothiad VII c
         type: Asteroid
         formationType: Captured
@@ -702,14 +702,14 @@ planets:
         radius: 44,633.3 km<br/>(7.006 Yrths)
         surface_area: 2.503 × 10<sup>10</sup> km<sup>2</sup><br/>(49.080 Yrths)
         volume: 3.724 × 10<sup>14</sup> km<sup>3</sup><br/>(343.839 Yrths)
-        mass: 9.624 × 10<sup>26</sup> kg<br />(56.3103332907068 Yrths)
+        mass: 9.624 × 10<sup>26</sup> kg<br />(161.146 Yrths)
         density: 2.584 g/cm<sup>3</sup>
         surface_gravity: 32.199 m/s<sup>2</sup><br />(3.283 g<sub>0</sub>)
         escape_velocity: 53.649 km/s<br />(193,135 km/h)
         rotation_period: 39.480 d
         axial_tilt: 50.28°
         albedo: 0.30
-        temperature: 103 K<br />(-170 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 1423 Arkothiad VII d
         type: Rocky
         formationType: Accreted
@@ -722,14 +722,14 @@ planets:
         radius: 51,355.8 km<br/>(8.061 Yrths)
         surface_area: 3.314 × 10<sup>10</sup> km<sup>2</sup><br/>(64.978 Yrths)
         volume: 5.674 × 10<sup>14</sup> km<sup>3</sup><br/>(523.776 Yrths)
-        mass: 1.674 × 10<sup>27</sup> kg<br />(56.3103332907068 Yrths)
+        mass: 1.674 × 10<sup>27</sup> kg<br />(280.386 Yrths)
         density: 2.951 g/cm<sup>3</sup>
         surface_gravity: 42.317 m/s<sup>2</sup><br />(4.315 g<sub>0</sub>)
         escape_velocity: 65.972 km/s<br />(237,500 km/h)
         rotation_period: 39.454 d
         axial_tilt: 18.24°
         albedo: 0.30
-        temperature: 98 K<br />(-175 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 1423 Arkothiad VII e
         type: Icy
         formationType: Accreted
@@ -742,14 +742,14 @@ planets:
         radius: 53,197.5 km<br/>(8.350 Yrths)
         surface_area: 3.556 × 10<sup>10</sup> km<sup>2</sup><br/>(69.721 Yrths)
         volume: 6.306 × 10<sup>14</sup> km<sup>3</sup><br/>(582.170 Yrths)
-        mass: 8.650 × 10<sup>26</sup> kg<br />(56.3103332907068 Yrths)
+        mass: 8.650 × 10<sup>26</sup> kg<br />(144.839 Yrths)
         density: 1.372 g/cm<sup>3</sup>
         surface_gravity: 20.372 m/s<sup>2</sup><br />(2.077 g<sub>0</sub>)
         escape_velocity: 46.588 km/s<br />(167,717 km/h)
         rotation_period: 45.904 d
         axial_tilt: 20.61°
         albedo: 0.30
-        temperature: 77 K<br />(-196 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 1423 Arkothiad VII f
         type: Rocky
         formationType: Captured
@@ -762,14 +762,14 @@ planets:
         radius: 72,161.2 km<br/>(11.327 Yrths)
         surface_area: 6.544 × 10<sup>10</sup> km<sup>2</sup><br/>(128.290 Yrths)
         volume: 1.574 × 10<sup>15</sup> km<sup>3</sup><br/>(1453.075 Yrths)
-        mass: 4.826 × 10<sup>27</sup> kg<br />(56.3103332907068 Yrths)
+        mass: 4.826 × 10<sup>27</sup> kg<br />(808.170 Yrths)
         density: 3.066 g/cm<sup>3</sup>
         surface_gravity: 61.778 m/s<sup>2</sup><br />(6.300 g<sub>0</sub>)
         escape_velocity: 94.488 km/s<br />(340,157 km/h)
         rotation_period: 34.230 d
         axial_tilt: 12.97°
         albedo: 0.30
-        temperature: 64 K<br />(-209 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 1423 Arkothiad VII g
         type: Icy
         formationType: Captured
@@ -782,14 +782,14 @@ planets:
         radius: 58,832.8 km<br/>(9.234 Yrths)
         surface_area: 4.350 × 10<sup>10</sup> km<sup>2</sup><br/>(85.275 Yrths)
         volume: 8.530 × 10<sup>14</sup> km<sup>3</sup><br/>(787.472 Yrths)
-        mass: 1.042 × 10<sup>27</sup> kg<br />(56.3103332907068 Yrths)
+        mass: 1.042 × 10<sup>27</sup> kg<br />(174.502 Yrths)
         density: 1.222 g/cm<sup>3</sup>
         surface_gravity: 20.068 m/s<sup>2</sup><br />(2.046 g<sub>0</sub>)
         escape_velocity: 48.626 km/s<br />(175,054 km/h)
         rotation_period: 46.017 d
         axial_tilt: 27.83°
         albedo: 0.30
-        temperature: 44 K<br />(-230 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 1423 Arkothiad VII h
         type: Icy
         formationType: Accreted
@@ -802,12 +802,12 @@ planets:
         radius: 52,206.9 km<br/>(8.194 Yrths)
         surface_area: 3.425 × 10<sup>10</sup> km<sup>2</sup><br/>(67.149 Yrths)
         volume: 5.960 × 10<sup>14</sup> km<sup>3</sup><br/>(550.251 Yrths)
-        mass: 1.001 × 10<sup>27</sup> kg<br />(56.3103332907068 Yrths)
+        mass: 1.001 × 10<sup>27</sup> kg<br />(167.603 Yrths)
         density: 1.679 g/cm<sup>3</sup>
         surface_gravity: 24.477 m/s<sup>2</sup><br />(2.496 g<sub>0</sub>)
         escape_velocity: 50.589 km/s<br />(182,120 km/h)
         rotation_period: 66.580 d
         axial_tilt: 7.10°
         albedo: 0.30
-        temperature: 40 K<br />(-234 °C)
+        temperature: 60 K<br />(-213 °C)
 ---

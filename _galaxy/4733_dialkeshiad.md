@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4733 Dialkeshiad is a star in the constellation Dialkes
+      4733 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 289.09 ly
 apparent_magnitude: 16.30
 absolute_magnitude: 11.56

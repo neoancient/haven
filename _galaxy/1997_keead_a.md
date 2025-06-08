@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1997 Keead A is a star in the constellation Kee
+      1997 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 489.76 ly
 apparent_magnitude: 7.44
 absolute_magnitude: 1.56

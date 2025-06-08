@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7466 Athiad is a star in the constellation Ath
+      7466 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 453.31 ly
 apparent_magnitude: 10.16
 absolute_magnitude: 4.45

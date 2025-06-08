@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      149 Rukentuaiad A is a star in the constellation Rukentua
+      149 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 323.53 ly
 apparent_magnitude: 7.28
 absolute_magnitude: 2.30

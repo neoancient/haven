@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0026 Orshenniad is a star in the constellation Orshen
+      0026 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 35.58 ly
 apparent_magnitude: 5.74
 absolute_magnitude: 5.55
@@ -31,7 +31,7 @@ planets:
     radius: 185.4 km<br/>(0.029 Yrths)
     surface_area: 4.322 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.672 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.197 × 10<sup>27</sup> kg<br />(200.47482782726973 Yrths)
+    mass: 1.197 × 10<sup>27</sup> kg<br />(200.47 Yrths)
     density: 44814608.651 g/cm<sup>3</sup>
     surface_gravity: 2320321.234 m/s<sup>2</sup><br />(236606.918 g<sub>0</sub>)
     escape_velocity: 928.316 km/s<br />(3,341,937 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 120,582.5 km<br/>(18.927 Yrths)
         surface_area: 1.827 × 10<sup>11</sup> km<sup>2</sup><br/>(358.223 Yrths)
         volume: 7.344 × 10<sup>15</sup> km<sup>3</sup><br/>(6780.010 Yrths)
-        mass: 1.986 × 10<sup>28</sup> kg<br />(200.47482782726973 Yrths)
+        mass: 1.986 × 10<sup>28</sup> kg<br />(3326.056 Yrths)
         density: 2.705 g/cm<sup>3</sup>
         surface_gravity: 91.053 m/s<sup>2</sup><br />(9.285 g<sub>0</sub>)
         escape_velocity: 148.286 km/s<br />(533,830 km/h)
         rotation_period: 47.760 d
         axial_tilt: 13.45°
         albedo: 0.30
-        temperature: 1788 K<br />(1515 °C)
+        temperature: 335 K<br />(61 °C)
       - name: 0026 Orshenniad I b
         type: Rocky
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 143,905.1 km<br/>(22.588 Yrths)
         surface_area: 2.602 × 10<sup>11</sup> km<sup>2</sup><br/>(510.196 Yrths)
         volume: 1.248 × 10<sup>16</sup> km<sup>3</sup><br/>(11524.065 Yrths)
-        mass: 3.870 × 10<sup>28</sup> kg<br />(200.47482782726973 Yrths)
+        mass: 3.870 × 10<sup>28</sup> kg<br />(6481.034 Yrths)
         density: 3.101 g/cm<sup>3</sup>
         surface_gravity: 124.574 m/s<sup>2</sup><br />(12.703 g<sub>0</sub>)
         escape_velocity: 189.479 km/s<br />(682,126 km/h)
         rotation_period: 30.087 d
         axial_tilt: 17.26°
         albedo: 0.30
-        temperature: 1625 K<br />(1352 °C)
+        temperature: 335 K<br />(61 °C)
       - name: 0026 Orshenniad I c
         type: Icy
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 164,993.8 km<br/>(25.898 Yrths)
         surface_area: 3.421 × 10<sup>11</sup> km<sup>2</sup><br/>(670.687 Yrths)
         volume: 1.881 × 10<sup>16</sup> km<sup>3</sup><br/>(17369.198 Yrths)
-        mass: 3.073 × 10<sup>28</sup> kg<br />(200.47482782726973 Yrths)
+        mass: 3.073 × 10<sup>28</sup> kg<br />(5145.913 Yrths)
         density: 1.633 g/cm<sup>3</sup>
         surface_gravity: 75.243 m/s<sup>2</sup><br />(7.673 g<sub>0</sub>)
         escape_velocity: 157.679 km/s<br />(567,646 km/h)
         rotation_period: 43.490 d
         axial_tilt: 15.93°
         albedo: 0.30
-        temperature: 657 K<br />(384 °C)
+        temperature: 335 K<br />(61 °C)
       - name: 0026 Orshenniad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 212,897.9 km<br/>(33.417 Yrths)
         surface_area: 5.696 × 10<sup>11</sup> km<sup>2</sup><br/>(1116.677 Yrths)
         volume: 4.042 × 10<sup>16</sup> km<sup>3</sup><br/>(37315.661 Yrths)
-        mass: 1.125 × 10<sup>29</sup> kg<br />(200.47482782726973 Yrths)
+        mass: 1.125 × 10<sup>29</sup> kg<br />(18836.827 Yrths)
         density: 2.783 g/cm<sup>3</sup>
         surface_gravity: 165.425 m/s<sup>2</sup><br />(16.869 g<sub>0</sub>)
         escape_velocity: 265.580 km/s<br />(956,089 km/h)
         rotation_period: 44.377 d
         axial_tilt: 19.45°
         albedo: 0.30
-        temperature: 449 K<br />(176 °C)
+        temperature: 335 K<br />(61 °C)
       - name: 0026 Orshenniad I e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 169,567.0 km<br/>(26.615 Yrths)
         surface_area: 3.613 × 10<sup>11</sup> km<sup>2</sup><br/>(708.382 Yrths)
         volume: 2.042 × 10<sup>16</sup> km<sup>3</sup><br/>(18853.892 Yrths)
-        mass: 5.451 × 10<sup>28</sup> kg<br />(200.47482782726973 Yrths)
+        mass: 5.451 × 10<sup>28</sup> kg<br />(9127.383 Yrths)
         density: 2.669 g/cm<sup>3</sup>
         surface_gravity: 126.357 m/s<sup>2</sup><br />(12.885 g<sub>0</sub>)
         escape_velocity: 207.148 km/s<br />(745,732 km/h)
         rotation_period: 35.663 d
         axial_tilt: 13.59°
         albedo: 0.30
-        temperature: 389 K<br />(116 °C)
+        temperature: 335 K<br />(61 °C)
   - name: 0026 Orshenniad II
     type: Terrestrial
     aphelion: 108,449,023 km<br />0.725 AU
@@ -151,14 +151,14 @@ planets:
     radius: 4,414.5 km<br/>(0.693 Yrths)
     surface_area: 2.449 × 10<sup>08</sup> km<sup>2</sup><br/>(0.480 Yrths)
     volume: 3.604 × 10<sup>11</sup> km<sup>3</sup><br/>(0.333 Yrths)
-    mass: 2.268 × 10<sup>24</sup> kg<br />(0.3798385281106813 Yrths)
+    mass: 2.268 × 10<sup>24</sup> kg<br />(0.38 Yrths)
     density: 6.295 g/cm<sup>3</sup>
     surface_gravity: 7.758 m/s<sup>2</sup><br />(0.791 g<sub>0</sub>)
     escape_velocity: 8.282 km/s<br />(29,815 km/h)
     rotation_period: 2.253 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 341 K<br />(67 °C)
+    temperature: 736 K<br />(463 °C)
     surface_pressure: 18 kPa<br />(0 atm)
     composition:
       - 48.0001% carbon dioxide
@@ -178,14 +178,14 @@ planets:
         radius: 1,504.1 km<br/>(0.236 Yrths)
         surface_area: 2.843 × 10<sup>07</sup> km<sup>2</sup><br/>(0.056 Yrths)
         volume: 1.425 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 4.170 × 10<sup>22</sup> kg<br />(0.3798385281106813 Yrths)
+        mass: 4.170 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 2.926 g/cm<sup>3</sup>
         surface_gravity: 1.229 m/s<sup>2</sup><br />(0.125 g<sub>0</sub>)
         escape_velocity: 1.924 km/s<br />(6,926 km/h)
         rotation_period: 32.107 d
         axial_tilt: 59.93°
         albedo: 0.30
-        temperature: 5220 K<br />(4947 °C)
+        temperature: 267 K<br />(-7 °C)
   - name: 0026 Orshenniad III
     type: Terrestrial
     aphelion: 174,588,446 km<br />1.167 AU
@@ -197,7 +197,7 @@ planets:
     radius: 7,283.7 km<br/>(1.143 Yrths)
     surface_area: 6.667 × 10<sup>08</sup> km<sup>2</sup><br/>(1.307 Yrths)
     volume: 1.619 × 10<sup>12</sup> km<sup>3</sup><br/>(1.494 Yrths)
-    mass: 7.625 × 10<sup>24</sup> kg<br />(1.2768497309643765 Yrths)
+    mass: 7.625 × 10<sup>24</sup> kg<br />(1.28 Yrths)
     density: 4.711 g/cm<sup>3</sup>
     surface_gravity: 9.580 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
     escape_velocity: 11.821 km/s<br />(42,557 km/h)
@@ -218,12 +218,12 @@ planets:
         radius: 3,260.7 km<br/>(0.512 Yrths)
         surface_area: 1.336 × 10<sup>08</sup> km<sup>2</sup><br/>(0.262 Yrths)
         volume: 1.452 × 10<sup>11</sup> km<sup>3</sup><br/>(0.134 Yrths)
-        mass: 4.395 × 10<sup>23</sup> kg<br />(1.2768497309643765 Yrths)
+        mass: 4.395 × 10<sup>23</sup> kg<br />(0.074 Yrths)
         density: 3.026 g/cm<sup>3</sup>
         surface_gravity: 2.755 m/s<sup>2</sup><br />(0.281 g<sub>0</sub>)
         escape_velocity: 4.241 km/s<br />(15,269 km/h)
         rotation_period: 50.331 d
         axial_tilt: 48.48°
         albedo: 0.30
-        temperature: 2899 K<br />(2626 °C)
+        temperature: 212 K<br />(-61 °C)
 ---

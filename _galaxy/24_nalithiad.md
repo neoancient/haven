@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      24 Nalithiad is a star in the constellation Nalith
+      24 Nalithiad is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 858.90 ly
 apparent_magnitude: 8.96
 absolute_magnitude: 1.86

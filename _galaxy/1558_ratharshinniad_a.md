@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1558 Ratharshinniad A is a star in the constellation Ratharshin
+      1558 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 632.32 ly
 apparent_magnitude: 6.57
 absolute_magnitude: 0.13

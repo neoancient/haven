@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      135 Anilliad is a star in the constellation Anil
+      135 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 510.68 ly
 apparent_magnitude: 11.17
 absolute_magnitude: 5.20

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7861 Tanashad is a star in the constellation Tanas
+      7861 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 267.63 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 6.83

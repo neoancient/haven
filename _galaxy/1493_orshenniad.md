@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1493 Orshenniad is a star in the constellation Orshen
+      1493 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 275.58 ly
 apparent_magnitude: 9.62
 absolute_magnitude: 4.98

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Anasoiad C is a star in the constellation Anaso
+      τ Anasoiad C is a star in the constellation <a href="anaso.html">Anaso</a>
 distance: 746.32 ly
 apparent_magnitude: 9.53
 absolute_magnitude: 2.73
@@ -31,7 +31,7 @@ planets:
     radius: 6,820.3 km<br/>(1.071 Yrths)
     surface_area: 5.846 × 10<sup>08</sup> km<sup>2</sup><br/>(1.146 Yrths)
     volume: 1.329 × 10<sup>12</sup> km<sup>3</sup><br/>(1.227 Yrths)
-    mass: 6.348 × 10<sup>24</sup> kg<br />(1.062972955812065 Yrths)
+    mass: 6.348 × 10<sup>24</sup> kg<br />(1.06 Yrths)
     density: 4.777 g/cm<sup>3</sup>
     surface_gravity: 9.096 m/s<sup>2</sup><br />(0.928 g<sub>0</sub>)
     escape_velocity: 11.146 km/s<br />(40,127 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 4,180.9 km<br/>(0.656 Yrths)
         surface_area: 2.197 × 10<sup>08</sup> km<sup>2</sup><br/>(0.431 Yrths)
         volume: 3.061 × 10<sup>11</sup> km<sup>3</sup><br/>(0.283 Yrths)
-        mass: 3.481 × 10<sup>23</sup> kg<br />(1.062972955812065 Yrths)
+        mass: 3.481 × 10<sup>23</sup> kg<br />(0.058 Yrths)
         density: 1.137 g/cm<sup>3</sup>
         surface_gravity: 1.327 m/s<sup>2</sup><br />(0.135 g<sub>0</sub>)
         escape_velocity: 3.334 km/s<br />(12,002 km/h)
         rotation_period: 49.203 d
         axial_tilt: 16.04°
         albedo: 0.30
-        temperature: 5575 K<br />(5302 °C)
+        temperature: 370 K<br />(97 °C)
   - name: τ Anasoiad C II
     type: Terrestrial
     aphelion: 368,033,098 km<br />2.460 AU
@@ -71,7 +71,7 @@ planets:
     radius: 6,455.0 km<br/>(1.013 Yrths)
     surface_area: 5.236 × 10<sup>08</sup> km<sup>2</sup><br/>(1.027 Yrths)
     volume: 1.127 × 10<sup>12</sup> km<sup>3</sup><br/>(1.040 Yrths)
-    mass: 5.938 × 10<sup>24</sup> kg<br />(0.9942447040339617 Yrths)
+    mass: 5.938 × 10<sup>24</sup> kg<br />(0.99 Yrths)
     density: 5.270 g/cm<sup>3</sup>
     surface_gravity: 9.498 m/s<sup>2</sup><br />(0.969 g<sub>0</sub>)
     escape_velocity: 11.081 km/s<br />(39,891 km/h)
@@ -90,7 +90,7 @@ planets:
     radius: 228.7 km<br/>(0.036 Yrths)
     surface_area: 6.572 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.010 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.793 × 10<sup>27</sup> kg<br />(300.2797223327035 Yrths)
+    mass: 1.793 × 10<sup>27</sup> kg<br />(300.28 Yrths)
     density: 35791584.042 g/cm<sup>3</sup>
     surface_gravity: 2285306.075 m/s<sup>2</sup><br />(233036.366 g<sub>0</sub>)
     escape_velocity: 1023.084 km/s<br />(3,683,103 km/h)
@@ -111,14 +111,14 @@ planets:
         radius: 105,593.8 km<br/>(16.574 Yrths)
         surface_area: 1.401 × 10<sup>11</sup> km<sup>2</sup><br/>(274.702 Yrths)
         volume: 4.932 × 10<sup>15</sup> km<sup>3</sup><br/>(4552.949 Yrths)
-        mass: 1.156 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 1.156 × 10<sup>28</sup> kg<br />(1936.385 Yrths)
         density: 2.345 g/cm<sup>3</sup>
         surface_gravity: 69.127 m/s<sup>2</sup><br />(7.049 g<sub>0</sub>)
         escape_velocity: 120.908 km/s<br />(435,268 km/h)
         rotation_period: 51.372 d
         axial_tilt: 17.08°
         albedo: 0.30
-        temperature: 1074 K<br />(801 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -131,14 +131,14 @@ planets:
         radius: 110,989.3 km<br/>(17.421 Yrths)
         surface_area: 1.548 × 10<sup>11</sup> km<sup>2</sup><br/>(303.492 Yrths)
         volume: 5.727 × 10<sup>15</sup> km<sup>3</sup><br/>(5287.130 Yrths)
-        mass: 1.147 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 1.147 × 10<sup>28</sup> kg<br />(1919.863 Yrths)
         density: 2.002 g/cm<sup>3</sup>
         surface_gravity: 62.036 m/s<sup>2</sup><br />(6.326 g<sub>0</sub>)
         escape_velocity: 117.428 km/s<br />(422,742 km/h)
         rotation_period: 47.891 d
         axial_tilt: 19.73°
         albedo: 0.30
-        temperature: 1024 K<br />(751 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -151,14 +151,14 @@ planets:
         radius: 102,728.3 km<br/>(16.124 Yrths)
         surface_area: 1.326 × 10<sup>11</sup> km<sup>2</sup><br/>(259.995 Yrths)
         volume: 4.541 × 10<sup>15</sup> km<sup>3</sup><br/>(4192.257 Yrths)
-        mass: 1.130 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 1.130 × 10<sup>28</sup> kg<br />(1892.190 Yrths)
         density: 2.488 g/cm<sup>3</sup>
         surface_gravity: 71.371 m/s<sup>2</sup><br />(7.278 g<sub>0</sub>)
         escape_velocity: 121.176 km/s<br />(436,232 km/h)
         rotation_period: 36.747 d
         axial_tilt: 23.74°
         albedo: 0.30
-        temperature: 931 K<br />(658 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -171,14 +171,14 @@ planets:
         radius: 133,444.3 km<br/>(20.946 Yrths)
         surface_area: 2.238 × 10<sup>11</sup> km<sup>2</sup><br/>(438.717 Yrths)
         volume: 9.954 × 10<sup>15</sup> km<sup>3</sup><br/>(9189.189 Yrths)
-        mass: 2.160 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 2.160 × 10<sup>28</sup> kg<br />(3616.607 Yrths)
         density: 2.170 g/cm<sup>3</sup>
         surface_gravity: 80.842 m/s<sup>2</sup><br />(8.244 g<sub>0</sub>)
         escape_velocity: 146.987 km/s<br />(529,153 km/h)
         rotation_period: 62.047 d
         axial_tilt: 17.53°
         albedo: 0.30
-        temperature: 807 K<br />(534 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -191,14 +191,14 @@ planets:
         radius: 124,542.8 km<br/>(19.548 Yrths)
         surface_area: 1.949 × 10<sup>11</sup> km<sup>2</sup><br/>(382.140 Yrths)
         volume: 8.092 × 10<sup>15</sup> km<sup>3</sup><br/>(7470.212 Yrths)
-        mass: 2.059 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 2.059 × 10<sup>28</sup> kg<br />(3447.078 Yrths)
         density: 2.544 g/cm<sup>3</sup>
         surface_gravity: 88.461 m/s<sup>2</sup><br />(9.020 g<sub>0</sub>)
         escape_velocity: 148.540 km/s<br />(534,745 km/h)
         rotation_period: 46.142 d
         axial_tilt: 21.90°
         albedo: 0.30
-        temperature: 769 K<br />(496 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -211,14 +211,14 @@ planets:
         radius: 148,976.9 km<br/>(23.384 Yrths)
         surface_area: 2.789 × 10<sup>11</sup> km<sup>2</sup><br/>(546.793 Yrths)
         volume: 1.385 × 10<sup>16</sup> km<sup>3</sup><br/>(12785.977 Yrths)
-        mass: 2.948 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 2.948 × 10<sup>28</sup> kg<br />(4936.542 Yrths)
         density: 2.129 g/cm<sup>3</sup>
         surface_gravity: 88.536 m/s<sup>2</sup><br />(9.028 g<sub>0</sub>)
         escape_velocity: 162.529 km/s<br />(585,103 km/h)
         rotation_period: 47.154 d
         axial_tilt: 22.57°
         albedo: 0.30
-        temperature: 551 K<br />(278 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III g
         type: Icy
         formationType: Accreted
@@ -231,14 +231,14 @@ planets:
         radius: 160,916.8 km<br/>(25.258 Yrths)
         surface_area: 3.254 × 10<sup>11</sup> km<sup>2</sup><br/>(637.951 Yrths)
         volume: 1.745 × 10<sup>16</sup> km<sup>3</sup><br/>(16113.175 Yrths)
-        mass: 1.222 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 1.222 × 10<sup>28</sup> kg<br />(2045.836 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 31.449 m/s<sup>2</sup><br />(3.207 g<sub>0</sub>)
         escape_velocity: 100.673 km/s<br />(362,422 km/h)
         rotation_period: 62.980 d
         axial_tilt: 13.00°
         albedo: 0.30
-        temperature: 478 K<br />(205 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III h
         type: Icy
         formationType: Impact formed
@@ -251,14 +251,14 @@ planets:
         radius: 136,212.4 km<br/>(21.380 Yrths)
         surface_area: 2.332 × 10<sup>11</sup> km<sup>2</sup><br/>(457.107 Yrths)
         volume: 1.059 × 10<sup>16</sup> km<sup>3</sup><br/>(9772.972 Yrths)
-        mass: 1.470 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 1.470 × 10<sup>28</sup> kg<br />(2461.550 Yrths)
         density: 1.389 g/cm<sup>3</sup>
         surface_gravity: 52.809 m/s<sup>2</sup><br />(5.385 g<sub>0</sub>)
         escape_velocity: 120.026 km/s<br />(432,092 km/h)
         rotation_period: 82.875 d
         axial_tilt: 16.30°
         albedo: 0.30
-        temperature: 456 K<br />(182 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -271,14 +271,14 @@ planets:
         radius: 138,124.2 km<br/>(21.680 Yrths)
         surface_area: 2.397 × 10<sup>11</sup> km<sup>2</sup><br/>(470.028 Yrths)
         volume: 1.104 × 10<sup>16</sup> km<sup>3</sup><br/>(10190.279 Yrths)
-        mass: 2.395 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 2.395 × 10<sup>28</sup> kg<br />(4009.569 Yrths)
         density: 2.169 g/cm<sup>3</sup>
         surface_gravity: 83.655 m/s<sup>2</sup><br />(8.530 g<sub>0</sub>)
         escape_velocity: 152.122 km/s<br />(547,639 km/h)
         rotation_period: 36.840 d
         axial_tilt: 11.04°
         albedo: 0.30
-        temperature: 395 K<br />(122 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -291,14 +291,14 @@ planets:
         radius: 329,851.2 km<br/>(51.774 Yrths)
         surface_area: 1.367 × 10<sup>12</sup> km<sup>2</sup><br/>(2680.532 Yrths)
         volume: 1.503 × 10<sup>17</sup> km<sup>3</sup><br/>(138781.472 Yrths)
-        mass: 3.217 × 10<sup>29</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 3.217 × 10<sup>29</sup> kg<br />(53869.320 Yrths)
         density: 2.140 g/cm<sup>3</sup>
         surface_gravity: 197.079 m/s<sup>2</sup><br />(20.097 g<sub>0</sub>)
         escape_velocity: 360.819 km/s<br />(1,298,949 km/h)
         rotation_period: 35.968 d
         axial_tilt: 16.22°
         albedo: 0.30
-        temperature: 342 K<br />(69 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: τ Anasoiad C III k
         type: Ice/rock hybrid
         formationType: Captured
@@ -311,12 +311,12 @@ planets:
         radius: 157,732.3 km<br/>(24.758 Yrths)
         surface_area: 3.126 × 10<sup>11</sup> km<sup>2</sup><br/>(612.952 Yrths)
         volume: 1.644 × 10<sup>16</sup> km<sup>3</sup><br/>(15175.367 Yrths)
-        mass: 3.150 × 10<sup>28</sup> kg<br />(300.2797223327035 Yrths)
+        mass: 3.150 × 10<sup>28</sup> kg<br />(5274.260 Yrths)
         density: 1.916 g/cm<sup>3</sup>
         surface_gravity: 84.383 m/s<sup>2</sup><br />(8.605 g<sub>0</sub>)
         escape_velocity: 163.267 km/s<br />(587,761 km/h)
         rotation_period: 49.125 d
         axial_tilt: 12.46°
         albedo: 0.30
-        temperature: 326 K<br />(53 °C)
+        temperature: 201 K<br />(-72 °C)
 ---

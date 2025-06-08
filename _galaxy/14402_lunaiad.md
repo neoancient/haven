@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      14402 Lunaiad is a star in the constellation Luna
+      14402 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 535.93 ly
 apparent_magnitude: 10.82
 absolute_magnitude: 4.74

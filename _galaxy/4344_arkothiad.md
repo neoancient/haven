@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4344 Arkothiad is a star in the constellation Arkoth
+      4344 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 811.50 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 4.34

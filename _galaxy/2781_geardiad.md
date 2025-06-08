@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2781 Geardiad is a star in the constellation Geard
+      2781 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 302.19 ly
 apparent_magnitude: 10.19
 absolute_magnitude: 5.36
@@ -31,14 +31,14 @@ planets:
     radius: 6,916.8 km<br/>(1.086 Yrths)
     surface_area: 6.012 × 10<sup>08</sup> km<sup>2</sup><br/>(1.179 Yrths)
     volume: 1.386 × 10<sup>12</sup> km<sup>3</sup><br/>(1.280 Yrths)
-    mass: 9.722 × 10<sup>24</sup> kg<br />(1.6279656047384718 Yrths)
+    mass: 9.722 × 10<sup>24</sup> kg<br />(1.63 Yrths)
     density: 7.014 g/cm<sup>3</sup>
     surface_gravity: 13.545 m/s<sup>2</sup><br />(1.381 g<sub>0</sub>)
     escape_velocity: 13.698 km/s<br />(49,312 km/h)
     rotation_period: 1.111 d
     axial_tilt: 81.31°
     albedo: 0.35
-    temperature: 532 K<br />(259 °C)
+    temperature: 1396 K<br />(1123 °C)
     surface_pressure: 258 kPa<br />(3 atm)
     composition:
       - 87.1898% carbon dioxide
@@ -56,14 +56,14 @@ planets:
     radius: 7,334.0 km<br/>(1.151 Yrths)
     surface_area: 6.759 × 10<sup>08</sup> km<sup>2</sup><br/>(1.325 Yrths)
     volume: 1.652 × 10<sup>12</sup> km<sup>3</sup><br/>(1.525 Yrths)
-    mass: 1.147 × 10<sup>25</sup> kg<br />(1.9209829834960395 Yrths)
+    mass: 1.147 × 10<sup>25</sup> kg<br />(1.92 Yrths)
     density: 6.943 g/cm<sup>3</sup>
     surface_gravity: 14.216 m/s<sup>2</sup><br />(1.450 g<sub>0</sub>)
     escape_velocity: 14.450 km/s<br />(52,020 km/h)
     rotation_period: 0.934 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 307 K<br />(34 °C)
+    temperature: 292 K<br />(19 °C)
     surface_pressure: 154 kPa<br />(2 atm)
     composition:
       - 78.7044% nitrogen
@@ -81,14 +81,14 @@ planets:
         radius: 5,465.4 km<br/>(0.858 Yrths)
         surface_area: 3.754 × 10<sup>08</sup> km<sup>2</sup><br/>(0.736 Yrths)
         volume: 6.838 × 10<sup>11</sup> km<sup>3</sup><br/>(0.631 Yrths)
-        mass: 7.705 × 10<sup>23</sup> kg<br />(1.9209829834960395 Yrths)
+        mass: 7.705 × 10<sup>23</sup> kg<br />(0.129 Yrths)
         density: 1.127 g/cm<sup>3</sup>
         surface_gravity: 1.719 m/s<sup>2</sup><br />(0.175 g<sub>0</sub>)
         escape_velocity: 4.338 km/s<br />(15,617 km/h)
         rotation_period: 82.517 d
         axial_tilt: 19.19°
         albedo: 0.30
-        temperature: 3133 K<br />(2859 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: 2781 Geardiad III
     type: Terrestrial
     aphelion: 227,108,303 km<br />1.518 AU
@@ -100,7 +100,7 @@ planets:
     radius: 5,930.4 km<br/>(0.931 Yrths)
     surface_area: 4.420 × 10<sup>08</sup> km<sup>2</sup><br/>(0.866 Yrths)
     volume: 8.736 × 10<sup>11</sup> km<sup>3</sup><br/>(0.807 Yrths)
-    mass: 4.388 × 10<sup>24</sup> kg<br />(0.7347220975391497 Yrths)
+    mass: 4.388 × 10<sup>24</sup> kg<br />(0.73 Yrths)
     density: 5.022 g/cm<sup>3</sup>
     surface_gravity: 8.316 m/s<sup>2</sup><br />(0.848 g<sub>0</sub>)
     escape_velocity: 9.938 km/s<br />(35,777 km/h)
@@ -121,12 +121,12 @@ planets:
         radius: 2,188.7 km<br/>(0.344 Yrths)
         surface_area: 6.020 × 10<sup>07</sup> km<sup>2</sup><br/>(0.118 Yrths)
         volume: 4.392 × 10<sup>10</sup> km<sup>3</sup><br/>(0.041 Yrths)
-        mass: 1.300 × 10<sup>23</sup> kg<br />(0.7347220975391497 Yrths)
+        mass: 1.300 × 10<sup>23</sup> kg<br />(0.022 Yrths)
         density: 2.961 g/cm<sup>3</sup>
         surface_gravity: 1.809 m/s<sup>2</sup><br />(0.184 g<sub>0</sub>)
         escape_velocity: 2.816 km/s<br />(10,138 km/h)
         rotation_period: 46.984 d
         axial_tilt: 16.26°
         albedo: 0.30
-        temperature: 2778 K<br />(2505 °C)
+        temperature: 190 K<br />(-83 °C)
 ---

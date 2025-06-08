@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4298 Noniashad is a star in the constellation Nonias
+      4298 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 414.09 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 5.27

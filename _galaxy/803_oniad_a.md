@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      803 Oniad A is a star in the constellation Oni
+      803 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1152.74 ly
 apparent_magnitude: 7.10
 absolute_magnitude: -0.65

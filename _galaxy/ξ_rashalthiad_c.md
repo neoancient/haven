@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ξ Rashalthiad C is a star in the constellation Rashalth
+      ξ Rashalthiad C is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 16.18 ly
 apparent_magnitude: 10.18
 absolute_magnitude: 11.70

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4534 Tanashad A is a star in the constellation Tanas
+      4534 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 833.25 ly
 apparent_magnitude: 6.74
 absolute_magnitude: -0.30

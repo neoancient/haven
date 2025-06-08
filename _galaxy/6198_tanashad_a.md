@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6198 Tanashad A is a star in the constellation Tanas
+      6198 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 254.46 ly
 apparent_magnitude: 6.97
 absolute_magnitude: 2.51

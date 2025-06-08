@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6986 Arkothiad is a star in the constellation Arkoth
+      6986 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 280.53 ly
 apparent_magnitude: 14.54
 absolute_magnitude: 9.86

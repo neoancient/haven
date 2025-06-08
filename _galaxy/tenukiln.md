@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tenukiln is a star in the constellation Enlin
+      Tenukiln is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 71.32 ly
 apparent_magnitude: 0.08
 absolute_magnitude: -1.62

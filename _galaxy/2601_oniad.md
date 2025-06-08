@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2601 Oniad is a star in the constellation Oni
+      2601 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 537.23 ly
 apparent_magnitude: 10.00
 absolute_magnitude: 3.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4190 Narashiad is a star in the constellation Naras
+      4190 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 344.63 ly
 apparent_magnitude: 12.26
 absolute_magnitude: 7.14

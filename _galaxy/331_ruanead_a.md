@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      331 Ruanead A is a star in the constellation Ruane
+      331 Ruanead A is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 204.01 ly
 apparent_magnitude: 8.38
 absolute_magnitude: 4.40

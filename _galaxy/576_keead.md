@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      576 Keead is a star in the constellation Kee
+      576 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 364.84 ly
 apparent_magnitude: 13.14
 absolute_magnitude: 7.90

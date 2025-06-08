@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Lelniad B is a star in the constellation Leln
+      0002 Lelniad B is a star in the constellation <a href="leln.html">Leln</a>
 distance: 87.48 ly
 apparent_magnitude: 7.04
 absolute_magnitude: 4.90

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2301 Anilliad is a star in the constellation Anil
+      2301 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 427.21 ly
 apparent_magnitude: 10.49
 absolute_magnitude: 4.91

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0007 Ratharshinniad B is a star in the constellation Ratharshin
+      0007 Ratharshinniad B is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 128.32 ly
 apparent_magnitude: 8.93
 absolute_magnitude: 5.96

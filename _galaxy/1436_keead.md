@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1436 Keead is a star in the constellation Kee
+      1436 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 553.19 ly
 apparent_magnitude: 12.62
 absolute_magnitude: 6.47

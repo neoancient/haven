@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0078 Lulithannaid B is a star in the constellation Lulithan
+      0078 Lulithannaid B is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 2307.91 ly
 apparent_magnitude: 10.35
 absolute_magnitude: 1.10

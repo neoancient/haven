@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0120 Niunioiad B is a star in the constellation Niunio
+      0120 Niunioiad B is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 2223.63 ly
 apparent_magnitude: 18.01
 absolute_magnitude: 8.84

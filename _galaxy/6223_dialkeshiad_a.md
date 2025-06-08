@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6223 Dialkeshiad A is a star in the constellation Dialkes
+      6223 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 314.65 ly
 apparent_magnitude: 11.71
 absolute_magnitude: 6.79

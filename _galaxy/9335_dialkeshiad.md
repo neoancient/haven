@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9335 Dialkeshiad is a star in the constellation Dialkes
+      9335 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 342.02 ly
 apparent_magnitude: 10.09
 absolute_magnitude: 4.98

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      239 Orshenniad A is a star in the constellation Orshen
+      239 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 446.69 ly
 apparent_magnitude: 7.06
 absolute_magnitude: 1.37

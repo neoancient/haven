@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9916 Dialkeshiad is a star in the constellation Dialkes
+      9916 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 396.04 ly
 apparent_magnitude: 9.06
 absolute_magnitude: 3.64

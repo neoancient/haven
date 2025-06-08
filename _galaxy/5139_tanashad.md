@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5139 Tanashad is a star in the constellation Tanas
+      5139 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 318.99 ly
 apparent_magnitude: 9.51
 absolute_magnitude: 4.56

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3476 Athiad is a star in the constellation Ath
+      3476 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 239.87 ly
 apparent_magnitude: 20.74
 absolute_magnitude: 16.41

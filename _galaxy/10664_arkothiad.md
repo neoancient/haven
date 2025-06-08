@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10664 Arkothiad is a star in the constellation Arkoth
+      10664 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 183.34 ly
 apparent_magnitude: 9.77
 absolute_magnitude: 6.02

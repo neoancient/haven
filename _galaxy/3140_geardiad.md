@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3140 Geardiad is a star in the constellation Geard
+      3140 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 348.29 ly
 apparent_magnitude: 9.53
 absolute_magnitude: 4.39
@@ -31,14 +31,14 @@ planets:
     radius: 32,778.5 km<br/>(5.145 Yrths)
     surface_area: 1.350 × 10<sup>10</sup> km<sup>2</sup><br/>(26.471 Yrths)
     volume: 1.475 × 10<sup>14</sup> km<sup>3</sup><br/>(136.190 Yrths)
-    mass: 1.713 × 10<sup>26</sup> kg<br />(28.68422791768038 Yrths)
+    mass: 1.713 × 10<sup>26</sup> kg<br />(28.68 Yrths)
     density: 1.161 g/cm<sup>3</sup>
     surface_gravity: 10.627 m/s<sup>2</sup><br />(1.084 g<sub>0</sub>)
     escape_velocity: 26.412 km/s<br />(95,084 km/h)
     rotation_period: 0.370 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 449 K<br />(176 °C)
+    temperature: 408 K<br />(135 °C)
     composition:
       - 64.0164% hydrogen
       - 32.9837% helium
@@ -57,14 +57,14 @@ planets:
         radius: 21,738.6 km<br/>(3.412 Yrths)
         surface_area: 5.938 × 10<sup>09</sup> km<sup>2</sup><br/>(11.643 Yrths)
         volume: 4.303 × 10<sup>13</sup> km<sup>3</sup><br/>(39.726 Yrths)
-        mass: 1.105 × 10<sup>26</sup> kg<br />(28.68422791768038 Yrths)
+        mass: 1.105 × 10<sup>26</sup> kg<br />(18.503 Yrths)
         density: 2.568 g/cm<sup>3</sup>
         surface_gravity: 15.585 m/s<sup>2</sup><br />(1.589 g<sub>0</sub>)
         escape_velocity: 26.049 km/s<br />(93,775 km/h)
         rotation_period: 50.700 d
         axial_tilt: 12.85°
         albedo: 0.30
-        temperature: 1959 K<br />(1686 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 3140 Geardiad I b
         type: Rocky
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 24,163.7 km<br/>(3.793 Yrths)
         surface_area: 7.337 × 10<sup>09</sup> km<sup>2</sup><br/>(14.385 Yrths)
         volume: 5.910 × 10<sup>13</sup> km<sup>3</sup><br/>(54.559 Yrths)
-        mass: 1.544 × 10<sup>26</sup> kg<br />(28.68422791768038 Yrths)
+        mass: 1.544 × 10<sup>26</sup> kg<br />(25.851 Yrths)
         density: 2.612 g/cm<sup>3</sup>
         surface_gravity: 17.623 m/s<sup>2</sup><br />(1.797 g<sub>0</sub>)
         escape_velocity: 29.203 km/s<br />(105,132 km/h)
         rotation_period: 35.436 d
         axial_tilt: 17.40°
         albedo: 0.30
-        temperature: 1868 K<br />(1595 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 3140 Geardiad I c
         type: Icy
         formationType: Impact formed
@@ -97,14 +97,14 @@ planets:
         radius: 11,507.9 km<br/>(1.806 Yrths)
         surface_area: 1.664 × 10<sup>09</sup> km<sup>2</sup><br/>(3.263 Yrths)
         volume: 6.384 × 10<sup>12</sup> km<sup>3</sup><br/>(5.893 Yrths)
-        mass: 8.982 × 10<sup>24</sup> kg<br />(28.68422791768038 Yrths)
+        mass: 8.982 × 10<sup>24</sup> kg<br />(1.504 Yrths)
         density: 1.407 g/cm<sup>3</sup>
         surface_gravity: 4.521 m/s<sup>2</sup><br />(0.461 g<sub>0</sub>)
         escape_velocity: 10.207 km/s<br />(36,746 km/h)
         rotation_period: 48.982 d
         axial_tilt: 14.65°
         albedo: 0.30
-        temperature: 1698 K<br />(1425 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 3140 Geardiad I d
         type: Icy
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 15,608.8 km<br/>(2.450 Yrths)
         surface_area: 3.062 × 10<sup>09</sup> km<sup>2</sup><br/>(6.002 Yrths)
         volume: 1.593 × 10<sup>13</sup> km<sup>3</sup><br/>(14.706 Yrths)
-        mass: 1.556 × 10<sup>25</sup> kg<br />(28.68422791768038 Yrths)
+        mass: 1.556 × 10<sup>25</sup> kg<br />(2.605 Yrths)
         density: 0.977 g/cm<sup>3</sup>
         surface_gravity: 4.256 m/s<sup>2</sup><br />(0.434 g<sub>0</sub>)
         escape_velocity: 11.535 km/s<br />(41,526 km/h)
         rotation_period: 87.884 d
         axial_tilt: 21.17°
         albedo: 0.30
-        temperature: 1619 K<br />(1346 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 3140 Geardiad I e
         type: Rocky
         formationType: Accreted
@@ -137,14 +137,14 @@ planets:
         radius: 30,542.8 km<br/>(4.794 Yrths)
         surface_area: 1.172 × 10<sup>10</sup> km<sup>2</sup><br/>(22.983 Yrths)
         volume: 1.193 × 10<sup>14</sup> km<sup>3</sup><br/>(110.180 Yrths)
-        mass: 3.488 × 10<sup>26</sup> kg<br />(28.68422791768038 Yrths)
+        mass: 3.488 × 10<sup>26</sup> kg<br />(58.411 Yrths)
         density: 2.923 g/cm<sup>3</sup>
         surface_gravity: 24.924 m/s<sup>2</sup><br />(2.542 g<sub>0</sub>)
         escape_velocity: 39.046 km/s<br />(140,564 km/h)
         rotation_period: 36.346 d
         axial_tilt: 21.95°
         albedo: 0.30
-        temperature: 1544 K<br />(1270 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 3140 Geardiad I f
         type: Asteroid
         formationType: Captured
@@ -157,14 +157,14 @@ planets:
         radius: 16,507.6 km<br/>(2.591 Yrths)
         surface_area: 3.424 × 10<sup>09</sup> km<sup>2</sup><br/>(6.714 Yrths)
         volume: 1.884 × 10<sup>13</sup> km<sup>3</sup><br/>(17.395 Yrths)
-        mass: 3.736 × 10<sup>25</sup> kg<br />(28.68422791768038 Yrths)
+        mass: 3.736 × 10<sup>25</sup> kg<br />(6.256 Yrths)
         density: 1.983 g/cm<sup>3</sup>
         surface_gravity: 9.138 m/s<sup>2</sup><br />(0.932 g<sub>0</sub>)
         escape_velocity: 17.381 km/s<br />(62,571 km/h)
         rotation_period: 54.967 d
         axial_tilt: 57.19°
         albedo: 0.30
-        temperature: 1472 K<br />(1199 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 3140 Geardiad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 16,420.2 km<br/>(2.577 Yrths)
         surface_area: 3.388 × 10<sup>09</sup> km<sup>2</sup><br/>(6.643 Yrths)
         volume: 1.854 × 10<sup>13</sup> km<sup>3</sup><br/>(17.120 Yrths)
-        mass: 4.025 × 10<sup>25</sup> kg<br />(28.68422791768038 Yrths)
+        mass: 4.025 × 10<sup>25</sup> kg<br />(6.739 Yrths)
         density: 2.170 g/cm<sup>3</sup>
         surface_gravity: 9.949 m/s<sup>2</sup><br />(1.015 g<sub>0</sub>)
         escape_velocity: 18.088 km/s<br />(65,117 km/h)
         rotation_period: 34.227 d
         axial_tilt: 23.79°
         albedo: 0.30
-        temperature: 1403 K<br />(1130 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 3140 Geardiad I h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -197,14 +197,14 @@ planets:
         radius: 12,488.9 km<br/>(1.960 Yrths)
         surface_area: 1.960 × 10<sup>09</sup> km<sup>2</sup><br/>(3.843 Yrths)
         volume: 8.159 × 10<sup>12</sup> km<sup>3</sup><br/>(7.533 Yrths)
-        mass: 1.693 × 10<sup>25</sup> kg<br />(28.68422791768038 Yrths)
+        mass: 1.693 × 10<sup>25</sup> kg<br />(2.835 Yrths)
         density: 2.075 g/cm<sup>3</sup>
         surface_gravity: 7.235 m/s<sup>2</sup><br />(0.738 g<sub>0</sub>)
         escape_velocity: 13.452 km/s<br />(48,427 km/h)
         rotation_period: 68.012 d
         axial_tilt: 20.02°
         albedo: 0.30
-        temperature: 1338 K<br />(1065 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 3140 Geardiad I i
         type: Icy
         formationType: Accreted
@@ -217,14 +217,14 @@ planets:
         radius: 57,124.9 km<br/>(8.966 Yrths)
         surface_area: 4.101 × 10<sup>10</sup> km<sup>2</sup><br/>(80.396 Yrths)
         volume: 7.808 × 10<sup>14</sup> km<sup>3</sup><br/>(720.866 Yrths)
-        mass: 9.938 × 10<sup>26</sup> kg<br />(28.68422791768038 Yrths)
+        mass: 9.938 × 10<sup>26</sup> kg<br />(166.408 Yrths)
         density: 1.273 g/cm<sup>3</sup>
         surface_gravity: 20.298 m/s<sup>2</sup><br />(2.070 g<sub>0</sub>)
         escape_velocity: 48.189 km/s<br />(173,482 km/h)
         rotation_period: 58.076 d
         axial_tilt: 15.49°
         albedo: 0.30
-        temperature: 1276 K<br />(1003 °C)
+        temperature: 229 K<br />(-44 °C)
   - name: 3140 Geardiad II
     type: Gas giant
     aphelion: 462,922,672 km<br />3.094 AU
@@ -236,7 +236,7 @@ planets:
     radius: 158.8 km<br/>(0.025 Yrths)
     surface_area: 3.168 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.677 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.764 × 10<sup>26</sup> kg<br />(63.03164074033257 Yrths)
+    mass: 3.764 × 10<sup>26</sup> kg<br />(63.03 Yrths)
     density: 22448177.521 g/cm<sup>3</sup>
     surface_gravity: 995150.324 m/s<sup>2</sup><br />(101477.092 g<sub>0</sub>)
     escape_velocity: 562.543 km/s<br />(2,025,154 km/h)
@@ -257,14 +257,14 @@ planets:
         radius: 55,455.9 km<br/>(8.704 Yrths)
         surface_area: 3.865 × 10<sup>10</sup> km<sup>2</sup><br/>(75.767 Yrths)
         volume: 7.144 × 10<sup>14</sup> km<sup>3</sup><br/>(659.510 Yrths)
-        mass: 2.314 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 2.314 × 10<sup>27</sup> kg<br />(387.469 Yrths)
         density: 3.239 g/cm<sup>3</sup>
         surface_gravity: 50.151 m/s<sup>2</sup><br />(5.114 g<sub>0</sub>)
         escape_velocity: 74.632 km/s<br />(268,674 km/h)
         rotation_period: 40.726 d
         axial_tilt: 16.99°
         albedo: 0.30
-        temperature: 1130 K<br />(857 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -277,14 +277,14 @@ planets:
         radius: 65,687.5 km<br/>(10.310 Yrths)
         surface_area: 5.422 × 10<sup>10</sup> km<sup>2</sup><br/>(106.304 Yrths)
         volume: 1.187 × 10<sup>15</sup> km<sup>3</sup><br/>(1096.039 Yrths)
-        mass: 2.655 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 2.655 × 10<sup>27</sup> kg<br />(444.540 Yrths)
         density: 2.236 g/cm<sup>3</sup>
         surface_gravity: 41.009 m/s<sup>2</sup><br />(4.182 g<sub>0</sub>)
         escape_velocity: 73.450 km/s<br />(264,420 km/h)
         rotation_period: 52.014 d
         axial_tilt: 20.11°
         albedo: 0.30
-        temperature: 702 K<br />(429 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II c
         type: Asteroid
         formationType: Captured
@@ -297,14 +297,14 @@ planets:
         radius: 82,648.7 km<br/>(12.973 Yrths)
         surface_area: 8.584 × 10<sup>10</sup> km<sup>2</sup><br/>(168.290 Yrths)
         volume: 2.365 × 10<sup>15</sup> km<sup>3</sup><br/>(2183.161 Yrths)
-        mass: 6.044 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 6.044 × 10<sup>27</sup> kg<br />(1012.129 Yrths)
         density: 2.556 g/cm<sup>3</sup>
         surface_gravity: 58.979 m/s<sup>2</sup><br />(6.014 g<sub>0</sub>)
         escape_velocity: 98.805 km/s<br />(355,697 km/h)
         rotation_period: 51.607 d
         axial_tilt: 30.08°
         albedo: 0.30
-        temperature: 608 K<br />(335 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II d
         type: Icy
         formationType: Accreted
@@ -317,14 +317,14 @@ planets:
         radius: 81,529.6 km<br/>(12.797 Yrths)
         surface_area: 8.353 × 10<sup>10</sup> km<sup>2</sup><br/>(163.763 Yrths)
         volume: 2.270 × 10<sup>15</sup> km<sup>3</sup><br/>(2095.672 Yrths)
-        mass: 2.239 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 2.239 × 10<sup>27</sup> kg<br />(374.863 Yrths)
         density: 0.986 g/cm<sup>3</sup>
         surface_gravity: 22.448 m/s<sup>2</sup><br />(2.289 g<sub>0</sub>)
         escape_velocity: 60.542 km/s<br />(217,951 km/h)
         rotation_period: 53.565 d
         axial_tilt: 15.86°
         albedo: 0.30
-        temperature: 580 K<br />(307 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II e
         type: Icy
         formationType: Accreted
@@ -337,14 +337,14 @@ planets:
         radius: 71,597.1 km<br/>(11.238 Yrths)
         surface_area: 6.442 × 10<sup>10</sup> km<sup>2</sup><br/>(126.292 Yrths)
         volume: 1.537 × 10<sup>15</sup> km<sup>3</sup><br/>(1419.266 Yrths)
-        mass: 2.272 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 2.272 × 10<sup>27</sup> kg<br />(380.369 Yrths)
         density: 1.478 g/cm<sup>3</sup>
         surface_gravity: 29.536 m/s<sup>2</sup><br />(3.012 g<sub>0</sub>)
         escape_velocity: 65.078 km/s<br />(234,280 km/h)
         rotation_period: 71.711 d
         axial_tilt: 10.36°
         albedo: 0.30
-        temperature: 457 K<br />(184 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -357,14 +357,14 @@ planets:
         radius: 65,256.3 km<br/>(10.243 Yrths)
         surface_area: 5.351 × 10<sup>10</sup> km<sup>2</sup><br/>(104.913 Yrths)
         volume: 1.164 × 10<sup>15</sup> km<sup>3</sup><br/>(1074.592 Yrths)
-        mass: 2.394 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 2.394 × 10<sup>27</sup> kg<br />(400.849 Yrths)
         density: 2.057 g/cm<sup>3</sup>
         surface_gravity: 37.469 m/s<sup>2</sup><br />(3.821 g<sub>0</sub>)
         escape_velocity: 69.977 km/s<br />(251,918 km/h)
         rotation_period: 38.759 d
         axial_tilt: 15.52°
         albedo: 0.30
-        temperature: 416 K<br />(142 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II g
         type: Icy
         formationType: Impact formed
@@ -377,14 +377,14 @@ planets:
         radius: 69,248.5 km<br/>(10.869 Yrths)
         surface_area: 6.026 × 10<sup>10</sup> km<sup>2</sup><br/>(118.142 Yrths)
         volume: 1.391 × 10<sup>15</sup> km<sup>3</sup><br/>(1284.129 Yrths)
-        mass: 2.338 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 2.338 × 10<sup>27</sup> kg<br />(391.463 Yrths)
         density: 1.681 g/cm<sup>3</sup>
         surface_gravity: 32.494 m/s<sup>2</sup><br />(3.313 g<sub>0</sub>)
         escape_velocity: 67.130 km/s<br />(241,669 km/h)
         rotation_period: 59.172 d
         axial_tilt: 24.47°
         albedo: 0.30
-        temperature: 298 K<br />(25 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II h
         type: Asteroid
         formationType: Captured
@@ -397,14 +397,14 @@ planets:
         radius: 69,138.6 km<br/>(10.852 Yrths)
         surface_area: 6.007 × 10<sup>10</sup> km<sup>2</sup><br/>(117.768 Yrths)
         volume: 1.384 × 10<sup>15</sup> km<sup>3</sup><br/>(1278.022 Yrths)
-        mass: 2.621 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 2.621 × 10<sup>27</sup> kg<br />(438.956 Yrths)
         density: 1.894 g/cm<sup>3</sup>
         surface_gravity: 36.552 m/s<sup>2</sup><br />(3.727 g<sub>0</sub>)
         escape_velocity: 71.142 km/s<br />(256,112 km/h)
         rotation_period: 49.200 d
         axial_tilt: 55.45°
         albedo: 0.30
-        temperature: 271 K<br />(-3 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II i
         type: Asteroid
         formationType: Captured
@@ -417,14 +417,14 @@ planets:
         radius: 65,769.2 km<br/>(10.323 Yrths)
         surface_area: 5.436 × 10<sup>10</sup> km<sup>2</sup><br/>(106.569 Yrths)
         volume: 1.192 × 10<sup>15</sup> km<sup>3</sup><br/>(1100.133 Yrths)
-        mass: 4.024 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 4.024 × 10<sup>27</sup> kg<br />(673.882 Yrths)
         density: 3.377 g/cm<sup>3</sup>
         surface_gravity: 62.012 m/s<sup>2</sup><br />(6.323 g<sub>0</sub>)
         escape_velocity: 90.377 km/s<br />(325,357 km/h)
         rotation_period: 30.540 d
         axial_tilt: 33.67°
         albedo: 0.30
-        temperature: 258 K<br />(-15 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II j
         type: Icy
         formationType: Accreted
@@ -437,14 +437,14 @@ planets:
         radius: 86,668.4 km<br/>(13.604 Yrths)
         surface_area: 9.439 × 10<sup>10</sup> km<sup>2</sup><br/>(185.057 Yrths)
         volume: 2.727 × 10<sup>15</sup> km<sup>3</sup><br/>(2517.439 Yrths)
-        mass: 2.695 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 2.695 × 10<sup>27</sup> kg<br />(451.314 Yrths)
         density: 0.988 g/cm<sup>3</sup>
         surface_gravity: 23.916 m/s<sup>2</sup><br />(2.439 g<sub>0</sub>)
         escape_velocity: 64.430 km/s<br />(231,947 km/h)
         rotation_period: 60.808 d
         axial_tilt: 17.05°
         albedo: 0.30
-        temperature: 194 K<br />(-79 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II k
         type: Icy
         formationType: Accreted
@@ -457,14 +457,14 @@ planets:
         radius: 72,716.0 km<br/>(11.414 Yrths)
         surface_area: 6.645 × 10<sup>10</sup> km<sup>2</sup><br/>(130.270 Yrths)
         volume: 1.611 × 10<sup>15</sup> km<sup>3</sup><br/>(1486.848 Yrths)
-        mass: 2.433 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 2.433 × 10<sup>27</sup> kg<br />(407.397 Yrths)
         density: 1.511 g/cm<sup>3</sup>
         surface_gravity: 30.669 m/s<sup>2</sup><br />(3.127 g<sub>0</sub>)
         escape_velocity: 66.830 km/s<br />(240,588 km/h)
         rotation_period: 46.125 d
         axial_tilt: 11.13°
         albedo: 0.30
-        temperature: 176 K<br />(-97 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 3140 Geardiad II l
         type: Ice/rock hybrid
         formationType: Captured
@@ -477,14 +477,14 @@ planets:
         radius: 79,665.4 km<br/>(12.504 Yrths)
         surface_area: 7.975 × 10<sup>10</sup> km<sup>2</sup><br/>(156.360 Yrths)
         volume: 2.118 × 10<sup>15</sup> km<sup>3</sup><br/>(1955.181 Yrths)
-        mass: 4.354 × 10<sup>27</sup> kg<br />(63.03164074033257 Yrths)
+        mass: 4.354 × 10<sup>27</sup> kg<br />(729.019 Yrths)
         density: 2.056 g/cm<sup>3</sup>
         surface_gravity: 45.723 m/s<sup>2</sup><br />(4.662 g<sub>0</sub>)
         escape_velocity: 85.411 km/s<br />(307,479 km/h)
         rotation_period: 52.817 d
         axial_tilt: 14.19°
         albedo: 0.30
-        temperature: 126 K<br />(-147 °C)
+        temperature: 166 K<br />(-107 °C)
   - name: 3140 Geardiad III
     type: Large terrestrial
     aphelion: 831,696,890 km<br />5.559 AU
@@ -496,14 +496,14 @@ planets:
     radius: 12,250.5 km<br/>(1.923 Yrths)
     surface_area: 1.886 × 10<sup>09</sup> km<sup>2</sup><br/>(3.697 Yrths)
     volume: 7.701 × 10<sup>12</sup> km<sup>3</sup><br/>(7.109 Yrths)
-    mass: 5.248 × 10<sup>25</sup> kg<br />(8.787938465902522 Yrths)
+    mass: 5.248 × 10<sup>25</sup> kg<br />(8.79 Yrths)
     density: 6.815 g/cm<sup>3</sup>
     surface_gravity: 23.309 m/s<sup>2</sup><br />(2.377 g<sub>0</sub>)
     escape_velocity: 23.914 km/s<br />(86,089 km/h)
     rotation_period: 0.503 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 165 K<br />(-108 °C)
+    temperature: 199 K<br />(-74 °C)
     surface_pressure: 480 kPa<br />(5 atm)
     composition:
       - 89.6974% methane
@@ -523,14 +523,14 @@ planets:
         radius: 14,047.4 km<br/>(2.205 Yrths)
         surface_area: 2.480 × 10<sup>09</sup> km<sup>2</sup><br/>(4.862 Yrths)
         volume: 1.161 × 10<sup>13</sup> km<sup>3</sup><br/>(10.719 Yrths)
-        mass: 3.139 × 10<sup>25</sup> kg<br />(8.787938465902522 Yrths)
+        mass: 3.139 × 10<sup>25</sup> kg<br />(5.256 Yrths)
         density: 2.703 g/cm<sup>3</sup>
         surface_gravity: 10.601 m/s<sup>2</sup><br />(1.081 g<sub>0</sub>)
         escape_velocity: 17.270 km/s<br />(62,172 km/h)
         rotation_period: 35.379 d
         axial_tilt: 10.08°
         albedo: 0.30
-        temperature: 1309 K<br />(1035 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 3140 Geardiad III b
         type: Rocky
         formationType: Impact formed
@@ -543,14 +543,14 @@ planets:
         radius: 8,346.5 km<br/>(1.310 Yrths)
         surface_area: 8.754 × 10<sup>08</sup> km<sup>2</sup><br/>(1.716 Yrths)
         volume: 2.436 × 10<sup>12</sup> km<sup>3</sup><br/>(2.248 Yrths)
-        mass: 7.384 × 10<sup>24</sup> kg<br />(8.787938465902522 Yrths)
+        mass: 7.384 × 10<sup>24</sup> kg<br />(1.237 Yrths)
         density: 3.032 g/cm<sup>3</sup>
         surface_gravity: 7.065 m/s<sup>2</sup><br />(0.720 g<sub>0</sub>)
         escape_velocity: 10.867 km/s<br />(39,123 km/h)
         rotation_period: 29.710 d
         axial_tilt: 11.59°
         albedo: 0.30
-        temperature: 1248 K<br />(974 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 3140 Geardiad III c
         type: Rocky
         formationType: Impact formed
@@ -563,14 +563,14 @@ planets:
         radius: 9,895.8 km<br/>(1.553 Yrths)
         surface_area: 1.231 × 10<sup>09</sup> km<sup>2</sup><br/>(2.413 Yrths)
         volume: 4.059 × 10<sup>12</sup> km<sup>3</sup><br/>(3.747 Yrths)
-        mass: 1.177 × 10<sup>25</sup> kg<br />(8.787938465902522 Yrths)
+        mass: 1.177 × 10<sup>25</sup> kg<br />(1.971 Yrths)
         density: 2.899 g/cm<sup>3</sup>
         surface_gravity: 8.011 m/s<sup>2</sup><br />(0.817 g<sub>0</sub>)
         escape_velocity: 12.600 km/s<br />(45,360 km/h)
         rotation_period: 32.954 d
         axial_tilt: 20.55°
         albedo: 0.30
-        temperature: 1190 K<br />(916 °C)
+        temperature: 120 K<br />(-153 °C)
   - name: 3140 Geardiad IV
     type: Gas giant
     aphelion: 1,699,683,309 km<br />11.362 AU
@@ -582,7 +582,7 @@ planets:
     radius: 178.0 km<br/>(0.028 Yrths)
     surface_area: 3.979 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.360 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.100 × 10<sup>26</sup> kg<br />(102.14090415621588 Yrths)
+    mass: 6.100 × 10<sup>26</sup> kg<br />(102.14 Yrths)
     density: 25842324.145 g/cm<sup>3</sup>
     surface_gravity: 1283914.307 m/s<sup>2</sup><br />(130922.823 g<sub>0</sub>)
     escape_velocity: 676.438 km/s<br />(2,435,175 km/h)
@@ -603,14 +603,14 @@ planets:
         radius: 97,378.4 km<br/>(15.285 Yrths)
         surface_area: 1.192 × 10<sup>11</sup> km<sup>2</sup><br/>(233.620 Yrths)
         volume: 3.868 × 10<sup>15</sup> km<sup>3</sup><br/>(3570.799 Yrths)
-        mass: 4.392 × 10<sup>27</sup> kg<br />(102.14090415621588 Yrths)
+        mass: 4.392 × 10<sup>27</sup> kg<br />(735.365 Yrths)
         density: 1.135 g/cm<sup>3</sup>
         surface_gravity: 30.868 m/s<sup>2</sup><br />(3.148 g<sub>0</sub>)
         escape_velocity: 77.589 km/s<br />(279,319 km/h)
         rotation_period: 62.555 d
         axial_tilt: 13.92°
         albedo: 0.30
-        temperature: 431 K<br />(158 °C)
+        temperature: 87 K<br />(-186 °C)
       - name: 3140 Geardiad IV b
         type: Icy
         formationType: Accreted
@@ -623,14 +623,14 @@ planets:
         radius: 86,020.5 km<br/>(13.502 Yrths)
         surface_area: 9.299 × 10<sup>10</sup> km<sup>2</sup><br/>(182.301 Yrths)
         volume: 2.666 × 10<sup>15</sup> km<sup>3</sup><br/>(2461.408 Yrths)
-        mass: 4.067 × 10<sup>27</sup> kg<br />(102.14090415621588 Yrths)
+        mass: 4.067 × 10<sup>27</sup> kg<br />(680.948 Yrths)
         density: 1.525 g/cm<sup>3</sup>
         surface_gravity: 36.631 m/s<sup>2</sup><br />(3.735 g<sub>0</sub>)
         escape_velocity: 79.439 km/s<br />(285,980 km/h)
         rotation_period: 41.825 d
         axial_tilt: 24.56°
         albedo: 0.30
-        temperature: 64 K<br />(-209 °C)
+        temperature: 87 K<br />(-186 °C)
       - name: 3140 Geardiad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -643,14 +643,14 @@ planets:
         radius: 71,079.7 km<br/>(11.157 Yrths)
         surface_area: 6.349 × 10<sup>10</sup> km<sup>2</sup><br/>(124.473 Yrths)
         volume: 1.504 × 10<sup>15</sup> km<sup>3</sup><br/>(1388.717 Yrths)
-        mass: 3.149 × 10<sup>27</sup> kg<br />(102.14090415621588 Yrths)
+        mass: 3.149 × 10<sup>27</sup> kg<br />(527.341 Yrths)
         density: 2.094 g/cm<sup>3</sup>
         surface_gravity: 41.547 m/s<sup>2</sup><br />(4.237 g<sub>0</sub>)
         escape_velocity: 76.904 km/s<br />(276,856 km/h)
         rotation_period: 47.083 d
         axial_tilt: 18.17°
         albedo: 0.30
-        temperature: 48 K<br />(-225 °C)
+        temperature: 87 K<br />(-186 °C)
       - name: 3140 Geardiad IV d
         type: Icy
         formationType: Captured
@@ -663,14 +663,14 @@ planets:
         radius: 106,879.9 km<br/>(16.776 Yrths)
         surface_area: 1.435 × 10<sup>11</sup> km<sup>2</sup><br/>(281.434 Yrths)
         volume: 5.114 × 10<sup>15</sup> km<sup>3</sup><br/>(4721.341 Yrths)
-        mass: 6.230 × 10<sup>27</sup> kg<br />(102.14090415621588 Yrths)
+        mass: 6.230 × 10<sup>27</sup> kg<br />(1043.234 Yrths)
         density: 1.218 g/cm<sup>3</sup>
         surface_gravity: 36.352 m/s<sup>2</sup><br />(3.707 g<sub>0</sub>)
         escape_velocity: 88.211 km/s<br />(317,558 km/h)
         rotation_period: 60.515 d
         axial_tilt: 15.66°
         albedo: 0.30
-        temperature: 31 K<br />(-242 °C)
+        temperature: 87 K<br />(-186 °C)
       - name: 3140 Geardiad IV e
         type: Asteroid
         formationType: Captured
@@ -683,12 +683,12 @@ planets:
         radius: 95,713.5 km<br/>(15.023 Yrths)
         surface_area: 1.151 × 10<sup>11</sup> km<sup>2</sup><br/>(225.700 Yrths)
         volume: 3.673 × 10<sup>15</sup> km<sup>3</sup><br/>(3390.758 Yrths)
-        mass: 8.203 × 10<sup>27</sup> kg<br />(102.14090415621588 Yrths)
+        mass: 8.203 × 10<sup>27</sup> kg<br />(1373.624 Yrths)
         density: 2.233 g/cm<sup>3</sup>
         surface_gravity: 59.684 m/s<sup>2</sup><br />(6.086 g<sub>0</sub>)
         escape_velocity: 106.961 km/s<br />(385,059 km/h)
         rotation_period: 41.867 d
         axial_tilt: 22.26°
         albedo: 0.30
-        temperature: 21 K<br />(-252 °C)
+        temperature: 87 K<br />(-186 °C)
 ---

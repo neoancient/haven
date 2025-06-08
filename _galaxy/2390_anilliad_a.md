@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2390 Anilliad A is a star in the constellation Anil
+      2390 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 458.26 ly
 apparent_magnitude: 7.11
 absolute_magnitude: 1.37

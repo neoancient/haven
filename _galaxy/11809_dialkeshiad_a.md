@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11809 Dialkeshiad A is a star in the constellation Dialkes
+      11809 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 302.29 ly
 apparent_magnitude: 7.73
 absolute_magnitude: 2.90

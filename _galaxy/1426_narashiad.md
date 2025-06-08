@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1426 Narashiad is a star in the constellation Naras
+      1426 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 454.29 ly
 apparent_magnitude: 11.39
 absolute_magnitude: 5.67

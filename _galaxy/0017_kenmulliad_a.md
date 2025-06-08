@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0017 Kenmulliad A is a star in the constellation Kenmul
+      0017 Kenmulliad A is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 149.44 ly
 apparent_magnitude: 6.69
 absolute_magnitude: 3.39

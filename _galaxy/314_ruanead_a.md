@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      314 Ruanead A is a star in the constellation Ruane
+      314 Ruanead A is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 158.96 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 4.40

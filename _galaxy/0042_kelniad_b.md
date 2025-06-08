@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0042 Kelniad B is a star in the constellation Keln
+      0042 Kelniad B is a star in the constellation <a href="keln.html">Keln</a>
 distance: 165.42 ly
 apparent_magnitude: 8.47
 absolute_magnitude: 4.94

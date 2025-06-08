@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6550 Tanashad A is a star in the constellation Tanas
+      6550 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 412.38 ly
 apparent_magnitude: 7.40
 absolute_magnitude: 1.89

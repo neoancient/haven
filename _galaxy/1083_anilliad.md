@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1083 Anilliad is a star in the constellation Anil
+      1083 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 388.16 ly
 apparent_magnitude: 20.90
 absolute_magnitude: 15.52

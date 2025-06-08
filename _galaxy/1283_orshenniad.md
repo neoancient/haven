@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1283 Orshenniad is a star in the constellation Orshen
+      1283 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 237.70 ly
 apparent_magnitude: 9.15
 absolute_magnitude: 4.83

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      761 Saithiad is a star in the constellation Saith
+      761 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1018.37 ly
 apparent_magnitude: 11.66
 absolute_magnitude: 4.19

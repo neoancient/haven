@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1006 Lulithannaid is a star in the constellation Lulithan
+      1006 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 376.66 ly
 apparent_magnitude: 9.87
 absolute_magnitude: 4.55

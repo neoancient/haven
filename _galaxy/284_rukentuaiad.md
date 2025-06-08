@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      284 Rukentuaiad is a star in the constellation Rukentua
+      284 Rukentuaiad is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 870.36 ly
 apparent_magnitude: 18.07
 absolute_magnitude: 10.94

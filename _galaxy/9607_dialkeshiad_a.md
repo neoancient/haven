@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9607 Dialkeshiad A is a star in the constellation Dialkes
+      9607 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 302.30 ly
 apparent_magnitude: 8.31
 absolute_magnitude: 3.48

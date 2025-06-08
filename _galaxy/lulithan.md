@@ -7,7 +7,7 @@ sections:
   - content: >-
       Lulithan is a constellation representing a Bard.
 stars:
-  - name:
+  - name: <a href="tennas.html">Tennas</a>
     designation: α Lulithannaid
     ra: 14<sup>h</sup> 22<sup>m</sup> 8.33<sup>s</sup>
     dec: 18° 14' 46.58"
@@ -72,7 +72,7 @@ stars:
     distance: 150.63
     spectral_class: M9Ia
   - name:
-    designation: 6 Lulithannaid
+    designation: <a href="6_lulithannaid.html">6 Lulithannaid</a>
     ra: 13<sup>h</sup> 44<sup>m</sup> 56.57<sup>s</sup>
     dec: 27° 17' 29.29"
     apparent_magnitude: 3.91
@@ -200,7 +200,7 @@ stars:
     distance: 264.72
     spectral_class: A5V
   - name:
-    designation: 891 Lulithannaid
+    designation: <a href="891_lulithannaid.html">891 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 9.99<sup>s</sup>
     dec: 18° 30' 43.67"
     apparent_magnitude: 4.49
@@ -304,7 +304,7 @@ stars:
     distance: 315.22
     spectral_class: F4III
   - name:
-    designation: 0011 Lulithannaid
+    designation: <a href="0011_lulithannaid.html">0011 Lulithannaid</a>
     ra: 14<sup>h</sup> 40<sup>m</sup> 5.74<sup>s</sup>
     dec: 36° 06' 53.48"
     apparent_magnitude: 4.79
@@ -312,7 +312,7 @@ stars:
     distance: 382.48
     spectral_class: B9IV + A3V + G9V
   - name:
-    designation: 0003 Lulithannaid
+    designation: <a href="0003_lulithannaid.html">0003 Lulithannaid</a>
     ra: 14<sup>h</sup> 13<sup>m</sup> 54.69<sup>s</sup>
     dec: 28° 39' 21.33"
     apparent_magnitude: 4.81
@@ -320,7 +320,7 @@ stars:
     distance: 505.43
     spectral_class: B8V + A2V + F8V
   - name:
-    designation: 17 Lulithannaid
+    designation: <a href="17_lulithannaid.html">17 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 46.25<sup>s</sup>
     dec: 9° 42' 5.12"
     apparent_magnitude: 4.81
@@ -344,7 +344,7 @@ stars:
     distance: 191.45
     spectral_class: A9V
   - name:
-    designation: 902 Lulithannaid
+    designation: <a href="902_lulithannaid.html">902 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 7.18<sup>s</sup>
     dec: 18° 58' 44.32"
     apparent_magnitude: 4.83
@@ -392,7 +392,7 @@ stars:
     distance: 122.73
     spectral_class: A3V + M2III
   - name:
-    designation: 95 Lulithannaid
+    designation: <a href="95_lulithannaid.html">95 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 17.55<sup>s</sup>
     dec: 12° 48' 28.22"
     apparent_magnitude: 4.89
@@ -440,7 +440,7 @@ stars:
     distance: 604.39
     spectral_class: A1III + M1III
   - name:
-    designation: 22 Lulithannaid
+    designation: <a href="22_lulithannaid.html">22 Lulithannaid</a>
     ra: 13<sup>h</sup> 31<sup>m</sup> 48.96<sup>s</sup>
     dec: 12° 29' 20.10"
     apparent_magnitude: 4.97
@@ -456,7 +456,7 @@ stars:
     distance: 29.85
     spectral_class: G4V + DA
   - name:
-    designation: 21 Lulithannaid
+    designation: <a href="21_lulithannaid.html">21 Lulithannaid</a>
     ra: 13<sup>h</sup> 45<sup>m</sup> 14.89<sup>s</sup>
     dec: 7° 48' 14.59"
     apparent_magnitude: 4.98
@@ -464,7 +464,7 @@ stars:
     distance: 214.40
     spectral_class: K6II
   - name:
-    designation: 740 Lulithannaid
+    designation: <a href="740_lulithannaid.html">740 Lulithannaid</a>
     ra: 13<sup>h</sup> 43<sup>m</sup> 26.15<sup>s</sup>
     dec: 15° 49' 1.17"
     apparent_magnitude: 4.98
@@ -552,7 +552,7 @@ stars:
     distance: 129.96
     spectral_class: G1V + A8V
   - name:
-    designation: υ Lulithannaid
+    designation: <a href="υ_lulithannaid.html">υ Lulithannaid</a>
     ra: 14<sup>h</sup> 08<sup>m</sup> 32.84<sup>s</sup>
     dec: 20° 09' 23.46"
     apparent_magnitude: 5.18
@@ -560,7 +560,7 @@ stars:
     distance: 29.18
     spectral_class: G6V
   - name:
-    designation: 28 Lulithannaid
+    designation: <a href="28_lulithannaid.html">28 Lulithannaid</a>
     ra: 13<sup>h</sup> 32<sup>m</sup> 23.81<sup>s</sup>
     dec: 10° 13' 51.11"
     apparent_magnitude: 5.18
@@ -584,7 +584,7 @@ stars:
     distance: 118.82
     spectral_class: G8III
   - name:
-    designation: 29 Lulithannaid
+    designation: <a href="29_lulithannaid.html">29 Lulithannaid</a>
     ra: 13<sup>h</sup> 47<sup>m</sup> 26.22<sup>s</sup>
     dec: 9° 56' 27.41"
     apparent_magnitude: 5.20
@@ -624,7 +624,7 @@ stars:
     distance: 8,973.90
     spectral_class: B6III + B3III + B6Ib + B9V + B7V
   - name:
-    designation: 32 Lulithannaid
+    designation: <a href="32_lulithannaid.html">32 Lulithannaid</a>
     ra: 13<sup>h</sup> 49<sup>m</sup> 56.63<sup>s</sup>
     dec: 10° 12' 13.49"
     apparent_magnitude: 5.22
@@ -704,7 +704,7 @@ stars:
     distance: 119.79
     spectral_class: A9V
   - name:
-    designation: 34 Lulithannaid
+    designation: <a href="34_lulithannaid.html">34 Lulithannaid</a>
     ra: 13<sup>h</sup> 35<sup>m</sup> 40.80<sup>s</sup>
     dec: 12° 09' 45.85"
     apparent_magnitude: 5.28
@@ -736,7 +736,7 @@ stars:
     distance: 102.51
     spectral_class: A6V
   - name:
-    designation: 35 Lulithannaid
+    designation: <a href="35_lulithannaid.html">35 Lulithannaid</a>
     ra: 14<sup>h</sup> 07<sup>m</sup> 33.91<sup>s</sup>
     dec: 10° 11' 22.73"
     apparent_magnitude: 5.33
@@ -744,7 +744,7 @@ stars:
     distance: 222.18
     spectral_class: K7II
   - name:
-    designation: 51 Lulithannaid
+    designation: <a href="51_lulithannaid.html">51 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 55.14<sup>s</sup>
     dec: 13° 46' 6.49"
     apparent_magnitude: 5.33
@@ -776,7 +776,7 @@ stars:
     distance: 168.10
     spectral_class: F7V
   - name:
-    designation: 37 Lulithannaid
+    designation: <a href="37_lulithannaid.html">37 Lulithannaid</a>
     ra: 13<sup>h</sup> 39<sup>m</sup> 13.72<sup>s</sup>
     dec: 12° 48' 50.33"
     apparent_magnitude: 5.39
@@ -800,7 +800,7 @@ stars:
     distance: 187.53
     spectral_class: K2V
   - name:
-    designation: 558 Lulithannaid
+    designation: <a href="558_lulithannaid.html">558 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 44.55<sup>s</sup>
     dec: 12° 04' 22.80"
     apparent_magnitude: 5.40
@@ -808,7 +808,7 @@ stars:
     distance: 340.82
     spectral_class: K2III + K5III + A9III
   - name:
-    designation: 42 Lulithannaid
+    designation: <a href="42_lulithannaid.html">42 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 9.70<sup>s</sup>
     dec: 8° 23' 31.26"
     apparent_magnitude: 5.40
@@ -816,7 +816,7 @@ stars:
     distance: 226.96
     spectral_class: G3V
   - name:
-    designation: 72 Lulithannaid
+    designation: <a href="72_lulithannaid.html">72 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 47.81<sup>s</sup>
     dec: 8° 53' 32.52"
     apparent_magnitude: 5.40
@@ -840,7 +840,7 @@ stars:
     distance: 217.50
     spectral_class: K3III
   - name:
-    designation: σ Lulithannaid
+    designation: <a href="σ_lulithannaid.html">σ Lulithannaid</a>
     ra: 14<sup>h</sup> 59<sup>m</sup> 40.19<sup>s</sup>
     dec: 14° 18' 44.23"
     apparent_magnitude: 5.41
@@ -848,7 +848,7 @@ stars:
     distance: 31.93
     spectral_class: G9V
   - name:
-    designation: 61 Lulithannaid
+    designation: <a href="61_lulithannaid.html">61 Lulithannaid</a>
     ra: 13<sup>h</sup> 39<sup>m</sup> 36.99<sup>s</sup>
     dec: 9° 55' 21.47"
     apparent_magnitude: 5.42
@@ -864,7 +864,7 @@ stars:
     distance: 149.12
     spectral_class: A3V + F1V
   - name:
-    designation: 39 Lulithannaid
+    designation: <a href="39_lulithannaid.html">39 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 5.77<sup>s</sup>
     dec: 12° 53' 24.29"
     apparent_magnitude: 5.43
@@ -968,7 +968,7 @@ stars:
     distance: 176.27
     spectral_class: G8II
   - name:
-    designation: 43 Lulithannaid
+    designation: <a href="43_lulithannaid.html">43 Lulithannaid</a>
     ra: 14<sup>h</sup> 10<sup>m</sup> 6.57<sup>s</sup>
     dec: 11° 05' 27.45"
     apparent_magnitude: 5.50
@@ -976,7 +976,7 @@ stars:
     distance: 178.67
     spectral_class: F9V
   - name:
-    designation: 45 Lulithannaid
+    designation: <a href="45_lulithannaid.html">45 Lulithannaid</a>
     ra: 13<sup>h</sup> 45<sup>m</sup> 43.36<sup>s</sup>
     dec: 15° 13' 59.33"
     apparent_magnitude: 5.50
@@ -1048,7 +1048,7 @@ stars:
     distance: 346.59
     spectral_class: K1II
   - name:
-    designation: 48 Lulithannaid
+    designation: <a href="48_lulithannaid.html">48 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 30.55<sup>s</sup>
     dec: 14° 00' 8.03"
     apparent_magnitude: 5.58
@@ -1056,7 +1056,7 @@ stars:
     distance: 186.57
     spectral_class: G8V
   - name:
-    designation: 66 Lulithannaid
+    designation: <a href="66_lulithannaid.html">66 Lulithannaid</a>
     ra: 13<sup>h</sup> 56<sup>m</sup> 16.69<sup>s</sup>
     dec: 11° 00' 13.49"
     apparent_magnitude: 5.59
@@ -1064,7 +1064,7 @@ stars:
     distance: 240.95
     spectral_class: F2V
   - name:
-    designation: 49 Lulithannaid
+    designation: <a href="49_lulithannaid.html">49 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 32.58<sup>s</sup>
     dec: 10° 06' 4.42"
     apparent_magnitude: 5.59
@@ -1072,7 +1072,7 @@ stars:
     distance: 207.23
     spectral_class: G7V
   - name:
-    designation: 443 Lulithannaid
+    designation: <a href="443_lulithannaid.html">443 Lulithannaid</a>
     ra: 13<sup>h</sup> 39<sup>m</sup> 42.83<sup>s</sup>
     dec: 9° 20' 41.18"
     apparent_magnitude: 5.59
@@ -1080,7 +1080,7 @@ stars:
     distance: 418.42
     spectral_class: A3V + K8III + A9III
   - name:
-    designation: 0064 Lulithannaid
+    designation: <a href="0064_lulithannaid.html">0064 Lulithannaid</a>
     ra: 15<sup>h</sup> 06<sup>m</sup> 1.29<sup>s</sup>
     dec: 22° 46' 43.50"
     apparent_magnitude: 5.60
@@ -1120,7 +1120,7 @@ stars:
     distance: 357.76
     spectral_class: A8IV
   - name:
-    designation: 976 Lulithannaid
+    designation: <a href="976_lulithannaid.html">976 Lulithannaid</a>
     ra: 14<sup>h</sup> 41<sup>m</sup> 6.11<sup>s</sup>
     dec: 53° 44' 14.26"
     apparent_magnitude: 5.62
@@ -1136,7 +1136,7 @@ stars:
     distance: 690.47
     spectral_class: A3III + A6V
   - name:
-    designation: 619 Lulithannaid
+    designation: <a href="619_lulithannaid.html">619 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 37.84<sup>s</sup>
     dec: 12° 24' 18.14"
     apparent_magnitude: 5.64
@@ -1160,7 +1160,7 @@ stars:
     distance: 7,985.38
     spectral_class: B1III + B4V
   - name:
-    designation: 55 Lulithannaid
+    designation: <a href="55_lulithannaid.html">55 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 31.70<sup>s</sup>
     dec: 8° 11' 50.23"
     apparent_magnitude: 5.65
@@ -1168,7 +1168,7 @@ stars:
     distance: 256.51
     spectral_class: G1V
   - name:
-    designation: 908 Lulithannaid
+    designation: <a href="908_lulithannaid.html">908 Lulithannaid</a>
     ra: 14<sup>h</sup> 28<sup>m</sup> 55.86<sup>s</sup>
     dec: 29° 10' 8.51"
     apparent_magnitude: 5.66
@@ -1232,7 +1232,7 @@ stars:
     distance: 211.19
     spectral_class: A5V
   - name:
-    designation: 68 Lulithannaid
+    designation: <a href="68_lulithannaid.html">68 Lulithannaid</a>
     ra: 13<sup>h</sup> 44<sup>m</sup> 59.49<sup>s</sup>
     dec: 8° 19' 25.67"
     apparent_magnitude: 5.69
@@ -1336,7 +1336,7 @@ stars:
     distance: 264.01
     spectral_class: G5III
   - name:
-    designation: 62 Lulithannaid
+    designation: <a href="62_lulithannaid.html">62 Lulithannaid</a>
     ra: 13<sup>h</sup> 40<sup>m</sup> 6.05<sup>s</sup>
     dec: 7° 56' 18.60"
     apparent_magnitude: 5.76
@@ -1352,7 +1352,7 @@ stars:
     distance: 145.62
     spectral_class: G2III
   - name:
-    designation: 978 Lulithannaid
+    designation: <a href="978_lulithannaid.html">978 Lulithannaid</a>
     ra: 14<sup>h</sup> 51<sup>m</sup> 28.50<sup>s</sup>
     dec: 54° 14' 26.66"
     apparent_magnitude: 5.76
@@ -1392,7 +1392,7 @@ stars:
     distance: 530.16
     spectral_class: A7II + M4III
   - name:
-    designation: 64 Lulithannaid
+    designation: <a href="64_lulithannaid.html">64 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 13.53<sup>s</sup>
     dec: 14° 34' 4.99"
     apparent_magnitude: 5.78
@@ -1472,7 +1472,7 @@ stars:
     distance: 231.99
     spectral_class: G9II
   - name:
-    designation: 0078 Lulithannaid
+    designation: <a href="0078_lulithannaid.html">0078 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 29.33<sup>s</sup>
     dec: 30° 47' 10.97"
     apparent_magnitude: 5.84
@@ -1528,7 +1528,7 @@ stars:
     distance: 672.26
     spectral_class: A6III
   - name:
-    designation: 0031 Lulithannaid
+    designation: <a href="0031_lulithannaid.html">0031 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 30.02<sup>s</sup>
     dec: 14° 11' 55.43"
     apparent_magnitude: 5.86
@@ -1568,7 +1568,7 @@ stars:
     distance: 260.38
     spectral_class: K8II
   - name:
-    designation: 0067 Lulithannaid
+    designation: <a href="0067_lulithannaid.html">0067 Lulithannaid</a>
     ra: 15<sup>h</sup> 07<sup>m</sup> 9.34<sup>s</sup>
     dec: 24° 38' 50.36"
     apparent_magnitude: 5.89
@@ -1584,7 +1584,7 @@ stars:
     distance: 1,301.72
     spectral_class: B7V + M9III
   - name:
-    designation: 74 Lulithannaid
+    designation: <a href="74_lulithannaid.html">74 Lulithannaid</a>
     ra: 13<sup>h</sup> 47<sup>m</sup> 52.70<sup>s</sup>
     dec: 10° 19' 53.27"
     apparent_magnitude: 5.89
@@ -1592,7 +1592,7 @@ stars:
     distance: 194.15
     spectral_class: G9V
   - name:
-    designation: 574 Lulithannaid
+    designation: <a href="574_lulithannaid.html">574 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 59.49<sup>s</sup>
     dec: 12° 07' 4.07"
     apparent_magnitude: 5.89
@@ -1624,7 +1624,7 @@ stars:
     distance: 670.35
     spectral_class: A0IV + F9III + G5IV + F9V
   - name:
-    designation: 0050 Lulithannaid
+    designation: <a href="0050_lulithannaid.html">0050 Lulithannaid</a>
     ra: 15<sup>h</sup> 08<sup>m</sup> 56.14<sup>s</sup>
     dec: 18° 16' 31.28"
     apparent_magnitude: 5.91
@@ -1664,7 +1664,7 @@ stars:
     distance: 615.72
     spectral_class: A1IV
   - name:
-    designation: 776 Lulithannaid
+    designation: <a href="776_lulithannaid.html">776 Lulithannaid</a>
     ra: 14<sup>h</sup> 08<sup>m</sup> 30.40<sup>s</sup>
     dec: 26° 17' 19.61"
     apparent_magnitude: 5.93
@@ -1688,7 +1688,7 @@ stars:
     distance: 2,890.43
     spectral_class: K3Iab
   - name:
-    designation: 0021 Lulithannaid
+    designation: <a href="0021_lulithannaid.html">0021 Lulithannaid</a>
     ra: 14<sup>h</sup> 14<sup>m</sup> 13.95<sup>s</sup>
     dec: 9° 01' 16.46"
     apparent_magnitude: 5.94
@@ -1752,7 +1752,7 @@ stars:
     distance: 670.71
     spectral_class: A5III
   - name:
-    designation: 754 Lulithannaid
+    designation: <a href="754_lulithannaid.html">754 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 28.46<sup>s</sup>
     dec: 8° 24' 47.67"
     apparent_magnitude: 5.96
@@ -1800,7 +1800,7 @@ stars:
     distance: 369.00
     spectral_class: A4V
   - name:
-    designation: 83 Lulithannaid
+    designation: <a href="83_lulithannaid.html">83 Lulithannaid</a>
     ra: 13<sup>h</sup> 52<sup>m</sup> 14.45<sup>s</sup>
     dec: 12° 20' 1.95"
     apparent_magnitude: 5.97
@@ -1808,7 +1808,7 @@ stars:
     distance: 352.22
     spectral_class: F9V + F9V + A6V
   - name:
-    designation: 427 Lulithannaid
+    designation: <a href="427_lulithannaid.html">427 Lulithannaid</a>
     ra: 14<sup>h</sup> 10<sup>m</sup> 20.60<sup>s</sup>
     dec: 7° 57' 1.50"
     apparent_magnitude: 5.98
@@ -1840,7 +1840,7 @@ stars:
     distance: 236.62
     spectral_class: M0III
   - name:
-    designation: 85 Lulithannaid
+    designation: <a href="85_lulithannaid.html">85 Lulithannaid</a>
     ra: 13<sup>h</sup> 52<sup>m</sup> 28.63<sup>s</sup>
     dec: 12° 17' 14.37"
     apparent_magnitude: 5.99
@@ -1880,7 +1880,7 @@ stars:
     distance: 342.83
     spectral_class: G6V + F7III
   - name:
-    designation: 788 Lulithannaid
+    designation: <a href="788_lulithannaid.html">788 Lulithannaid</a>
     ra: 13<sup>h</sup> 32<sup>m</sup> 57.16<sup>s</sup>
     dec: 39° 06' 57.40"
     apparent_magnitude: 6.01
@@ -1888,7 +1888,7 @@ stars:
     distance: 226.38
     spectral_class: A7V
   - name:
-    designation: 0052 Lulithannaid
+    designation: <a href="0052_lulithannaid.html">0052 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 49.91<sup>s</sup>
     dec: 22° 24' 25.10"
     apparent_magnitude: 6.01
@@ -1944,7 +1944,7 @@ stars:
     distance: 592.66
     spectral_class: A5III + K7III
   - name:
-    designation: 919 Lulithannaid
+    designation: <a href="919_lulithannaid.html">919 Lulithannaid</a>
     ra: 14<sup>h</sup> 39<sup>m</sup> 39.23<sup>s</sup>
     dec: 12° 41' 15.45"
     apparent_magnitude: 6.03
@@ -1968,7 +1968,7 @@ stars:
     distance: 444.75
     spectral_class: A8IV
   - name:
-    designation: 0099 Lulithannaid
+    designation: <a href="0099_lulithannaid.html">0099 Lulithannaid</a>
     ra: 14<sup>h</sup> 37<sup>m</sup> 9.98<sup>s</sup>
     dec: 39° 22' 9.62"
     apparent_magnitude: 6.03
@@ -2040,7 +2040,7 @@ stars:
     distance: 237.58
     spectral_class: A2V
   - name:
-    designation: 92 Lulithannaid
+    designation: <a href="92_lulithannaid.html">92 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 17.02<sup>s</sup>
     dec: 9° 07' 3.29"
     apparent_magnitude: 6.05
@@ -2072,7 +2072,7 @@ stars:
     distance: 375.48
     spectral_class: A2V
   - name:
-    designation: 1028 Lulithannaid
+    designation: <a href="1028_lulithannaid.html">1028 Lulithannaid</a>
     ra: 13<sup>h</sup> 47<sup>m</sup> 36.58<sup>s</sup>
     dec: 12° 54' 48.34"
     apparent_magnitude: 6.06
@@ -2120,7 +2120,7 @@ stars:
     distance: 184.51
     spectral_class: A6V
   - name:
-    designation: 0123 Lulithannaid
+    designation: <a href="0123_lulithannaid.html">0123 Lulithannaid</a>
     ra: 13<sup>h</sup> 29<sup>m</sup> 58.60<sup>s</sup>
     dec: 47° 15' 37.68"
     apparent_magnitude: 6.08
@@ -2192,7 +2192,7 @@ stars:
     distance: 246.30
     spectral_class: A5V
   - name:
-    designation: 0032 Lulithannaid
+    designation: <a href="0032_lulithannaid.html">0032 Lulithannaid</a>
     ra: 13<sup>h</sup> 44<sup>m</sup> 31.24<sup>s</sup>
     dec: 11° 33' 27.19"
     apparent_magnitude: 6.12
@@ -2200,7 +2200,7 @@ stars:
     distance: 82.33
     spectral_class: G7V + G4V + G1V
   - name:
-    designation: 0154 Lulithannaid
+    designation: <a href="0154_lulithannaid.html">0154 Lulithannaid</a>
     ra: 13<sup>h</sup> 47<sup>m</sup> 19.38<sup>s</sup>
     dec: 59° 57' 59.17"
     apparent_magnitude: 6.12
@@ -2208,7 +2208,7 @@ stars:
     distance: 1,679.75
     spectral_class: B6V + M6III + M8III + A7V
   - name:
-    designation: 0082 Lulithannaid
+    designation: <a href="0082_lulithannaid.html">0082 Lulithannaid</a>
     ra: 14<sup>h</sup> 16<sup>m</sup> 35.06<sup>s</sup>
     dec: 33° 01' 35.20"
     apparent_magnitude: 6.12
@@ -2224,7 +2224,7 @@ stars:
     distance: 383.35
     spectral_class: F6V + A2V
   - name:
-    designation: 109 Lulithannaid
+    designation: <a href="109_lulithannaid.html">109 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 17.33<sup>s</sup>
     dec: 12° 41' 36.57"
     apparent_magnitude: 6.13
@@ -2264,7 +2264,7 @@ stars:
     distance: 481.46
     spectral_class: G3V + G3II
   - name:
-    designation: 1016 Lulithannaid
+    designation: <a href="1016_lulithannaid.html">1016 Lulithannaid</a>
     ra: 14<sup>h</sup> 01<sup>m</sup> 1.21<sup>s</sup>
     dec: 13° 53' 55.87"
     apparent_magnitude: 6.14
@@ -2368,7 +2368,7 @@ stars:
     distance: 213.47
     spectral_class: F8III + G6V
   - name:
-    designation: 0061 Lulithannaid
+    designation: <a href="0061_lulithannaid.html">0061 Lulithannaid</a>
     ra: 14<sup>h</sup> 15<sup>m</sup> 14.68<sup>s</sup>
     dec: 24° 30' 15.65"
     apparent_magnitude: 6.17
@@ -2384,7 +2384,7 @@ stars:
     distance: 482.01
     spectral_class: F1V + F4III
   - name:
-    designation: 111 Lulithannaid
+    designation: <a href="111_lulithannaid.html">111 Lulithannaid</a>
     ra: 13<sup>h</sup> 50<sup>m</sup> 59.93<sup>s</sup>
     dec: 8° 10' 20.44"
     apparent_magnitude: 6.18
@@ -2424,7 +2424,7 @@ stars:
     distance: 212.94
     spectral_class: A5V
   - name:
-    designation: 0060 Lulithannaid
+    designation: <a href="0060_lulithannaid.html">0060 Lulithannaid</a>
     ra: 14<sup>h</sup> 18<sup>m</sup> 49.37<sup>s</sup>
     dec: 25° 04' 56.25"
     apparent_magnitude: 6.20
@@ -2600,7 +2600,7 @@ stars:
     distance: 208.62
     spectral_class: F8III + F4V
   - name:
-    designation: 123 Lulithannaid
+    designation: <a href="123_lulithannaid.html">123 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 52.39<sup>s</sup>
     dec: 11° 12' 41.12"
     apparent_magnitude: 6.26
@@ -2616,7 +2616,7 @@ stars:
     distance: 349.79
     spectral_class: F6V + A6V
   - name:
-    designation: 0087 Lulithannaid
+    designation: <a href="0087_lulithannaid.html">0087 Lulithannaid</a>
     ra: 14<sup>h</sup> 49<sup>m</sup> 9.06<sup>s</sup>
     dec: 36° 34' 16.84"
     apparent_magnitude: 6.26
@@ -2664,7 +2664,7 @@ stars:
     distance: 242.27
     spectral_class: K8III
   - name:
-    designation: 842 Lulithannaid
+    designation: <a href="842_lulithannaid.html">842 Lulithannaid</a>
     ra: 14<sup>h</sup> 51<sup>m</sup> 18.45<sup>s</sup>
     dec: 28° 17' 49.39"
     apparent_magnitude: 6.27
@@ -2688,7 +2688,7 @@ stars:
     distance: 449.36
     spectral_class: G9III + A4V
   - name:
-    designation: 127 Lulithannaid
+    designation: <a href="127_lulithannaid.html">127 Lulithannaid</a>
     ra: 13<sup>h</sup> 31<sup>m</sup> 4.64<sup>s</sup>
     dec: 19° 29' 51.85"
     apparent_magnitude: 6.28
@@ -2704,7 +2704,7 @@ stars:
     distance: 231.74
     spectral_class: M8V + F6V
   - name:
-    designation: 640 Lulithannaid
+    designation: <a href="640_lulithannaid.html">640 Lulithannaid</a>
     ra: 13<sup>h</sup> 59<sup>m</sup> 55.72<sup>s</sup>
     dec: 8° 44' 6.87"
     apparent_magnitude: 6.28
@@ -2736,7 +2736,7 @@ stars:
     distance: 1,064.99
     spectral_class: A2III
   - name:
-    designation: 129 Lulithannaid
+    designation: <a href="129_lulithannaid.html">129 Lulithannaid</a>
     ra: 13<sup>h</sup> 39<sup>m</sup> 7.90<sup>s</sup>
     dec: 13° 11' 44.13"
     apparent_magnitude: 6.29
@@ -2752,7 +2752,7 @@ stars:
     distance: 173.28
     spectral_class: G6II + DB
   - name:
-    designation: 882 Lulithannaid
+    designation: <a href="882_lulithannaid.html">882 Lulithannaid</a>
     ra: 13<sup>h</sup> 43<sup>m</sup> 2.00<sup>s</sup>
     dec: 16° 10' 18.13"
     apparent_magnitude: 6.30
@@ -2816,7 +2816,7 @@ stars:
     distance: 346.25
     spectral_class: F9V + A7V
   - name:
-    designation: 845 Lulithannaid
+    designation: <a href="845_lulithannaid.html">845 Lulithannaid</a>
     ra: 14<sup>h</sup> 14<sup>m</sup> 43.61<sup>s</sup>
     dec: 37° 21' 39.19"
     apparent_magnitude: 6.31
@@ -2840,7 +2840,7 @@ stars:
     distance: 11,366.13
     spectral_class: B2III + B8V
   - name:
-    designation: 135 Lulithannaid
+    designation: <a href="135_lulithannaid.html">135 Lulithannaid</a>
     ra: 13<sup>h</sup> 57<sup>m</sup> 6.72<sup>s</sup>
     dec: 8° 25' 27.38"
     apparent_magnitude: 6.33
@@ -2888,7 +2888,7 @@ stars:
     distance: 1,956.52
     spectral_class: B6V
   - name:
-    designation: 138 Lulithannaid
+    designation: <a href="138_lulithannaid.html">138 Lulithannaid</a>
     ra: 13<sup>h</sup> 40<sup>m</sup> 44.26<sup>s</sup>
     dec: 9° 45' 17.57"
     apparent_magnitude: 6.34
@@ -2920,7 +2920,7 @@ stars:
     distance: 293.70
     spectral_class: F6V
   - name:
-    designation: 140 Lulithannaid
+    designation: <a href="140_lulithannaid.html">140 Lulithannaid</a>
     ra: 13<sup>h</sup> 49<sup>m</sup> 35.22<sup>s</sup>
     dec: 14° 48' 56.08"
     apparent_magnitude: 6.35
@@ -2936,7 +2936,7 @@ stars:
     distance: 433.64
     spectral_class: F3III + M1III
   - name:
-    designation: 0033 Lulithannaid
+    designation: <a href="0033_lulithannaid.html">0033 Lulithannaid</a>
     ra: 14<sup>h</sup> 48<sup>m</sup> 14.17<sup>s</sup>
     dec: 15° 15' 0.07"
     apparent_magnitude: 6.36
@@ -3080,7 +3080,7 @@ stars:
     distance: 366.53
     spectral_class: F3III
   - name:
-    designation: 151 Lulithannaid
+    designation: <a href="151_lulithannaid.html">151 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 48.87<sup>s</sup>
     dec: 15° 39' 29.49"
     apparent_magnitude: 6.38
@@ -3176,7 +3176,7 @@ stars:
     distance: 1,090.02
     spectral_class: B9III + K3III
   - name:
-    designation: 224 Lulithannaid
+    designation: <a href="224_lulithannaid.html">224 Lulithannaid</a>
     ra: 13<sup>h</sup> 58<sup>m</sup> 5.93<sup>s</sup>
     dec: 9° 39' 39.23"
     apparent_magnitude: 6.41
@@ -3232,7 +3232,7 @@ stars:
     distance: 415.61
     spectral_class: A5V
   - name:
-    designation: 0079 Lulithannaid
+    designation: <a href="0079_lulithannaid.html">0079 Lulithannaid</a>
     ra: 13<sup>h</sup> 40<sup>m</sup> 24.78<sup>s</sup>
     dec: 31° 38' 27.60"
     apparent_magnitude: 6.42
@@ -3272,7 +3272,7 @@ stars:
     distance: 280.17
     spectral_class: A8III
   - name:
-    designation: 228 Lulithannaid
+    designation: <a href="228_lulithannaid.html">228 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 17.72<sup>s</sup>
     dec: 9° 58' 37.18"
     apparent_magnitude: 6.43
@@ -3304,7 +3304,7 @@ stars:
     distance: 216.25
     spectral_class: F8III + A7V
   - name:
-    designation: 157 Lulithannaid
+    designation: <a href="157_lulithannaid.html">157 Lulithannaid</a>
     ra: 13<sup>h</sup> 46<sup>m</sup> 2.26<sup>s</sup>
     dec: 11° 23' 12.63"
     apparent_magnitude: 6.43
@@ -3320,7 +3320,7 @@ stars:
     distance: 285.93
     spectral_class: F6III
   - name:
-    designation: 0144 Lulithannaid
+    designation: <a href="0144_lulithannaid.html">0144 Lulithannaid</a>
     ra: 15<sup>h</sup> 07<sup>m</sup> 40.54<sup>s</sup>
     dec: 58° 34' 28.24"
     apparent_magnitude: 6.44
@@ -3344,7 +3344,7 @@ stars:
     distance: 2,421.60
     spectral_class: B6V + K7III + M9III
   - name:
-    designation: 160 Lulithannaid
+    designation: <a href="160_lulithannaid.html">160 Lulithannaid</a>
     ra: 13<sup>h</sup> 57<sup>m</sup> 12.74<sup>s</sup>
     dec: 8° 02' 30.37"
     apparent_magnitude: 6.45
@@ -3352,7 +3352,7 @@ stars:
     distance: 257.39
     spectral_class: G5V
   - name:
-    designation: 173 Lulithannaid
+    designation: <a href="173_lulithannaid.html">173 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 54.15<sup>s</sup>
     dec: 18° 42' 45.54"
     apparent_magnitude: 6.45
@@ -3368,7 +3368,7 @@ stars:
     distance: 552.08
     spectral_class: K8Ib
   - name:
-    designation: 161 Lulithannaid
+    designation: <a href="161_lulithannaid.html">161 Lulithannaid</a>
     ra: 13<sup>h</sup> 58<sup>m</sup> 0.01<sup>s</sup>
     dec: 12° 05' 35.70"
     apparent_magnitude: 6.45
@@ -3376,7 +3376,7 @@ stars:
     distance: 326.76
     spectral_class: K1III + M4III + A9V + A5V
   - name:
-    designation: 175 Lulithannaid
+    designation: <a href="175_lulithannaid.html">175 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 30.46<sup>s</sup>
     dec: 17° 24' 11.14"
     apparent_magnitude: 6.45
@@ -3392,7 +3392,7 @@ stars:
     distance: 320.42
     spectral_class: F9V + A6V
   - name:
-    designation: 181 Lulithannaid
+    designation: <a href="181_lulithannaid.html">181 Lulithannaid</a>
     ra: 13<sup>h</sup> 29<sup>m</sup> 57.52<sup>s</sup>
     dec: 15° 09' 47.30"
     apparent_magnitude: 6.46
@@ -3408,7 +3408,7 @@ stars:
     distance: 2,237.01
     spectral_class: A4II + B7V
   - name:
-    designation: 164 Lulithannaid
+    designation: <a href="164_lulithannaid.html">164 Lulithannaid</a>
     ra: 14<sup>h</sup> 18<sup>m</sup> 43.85<sup>s</sup>
     dec: 8° 25' 30.92"
     apparent_magnitude: 6.46
@@ -3416,7 +3416,7 @@ stars:
     distance: 382.00
     spectral_class: K1III + M4III + A9V + A5V
   - name:
-    designation: 231 Lulithannaid
+    designation: <a href="231_lulithannaid.html">231 Lulithannaid</a>
     ra: 13<sup>h</sup> 50<sup>m</sup> 46.75<sup>s</sup>
     dec: 9° 35' 52.24"
     apparent_magnitude: 6.46
@@ -3424,7 +3424,7 @@ stars:
     distance: 308.73
     spectral_class: G8V + K6V + A9IV
   - name:
-    designation: 0138 Lulithannaid
+    designation: <a href="0138_lulithannaid.html">0138 Lulithannaid</a>
     ra: 13<sup>h</sup> 54<sup>m</sup> 5.28<sup>s</sup>
     dec: 53° 36' 33.50"
     apparent_magnitude: 6.46
@@ -3512,7 +3512,7 @@ stars:
     distance: 315.04
     spectral_class: F8V + A1V
   - name:
-    designation: 167 Lulithannaid
+    designation: <a href="167_lulithannaid.html">167 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 10.98<sup>s</sup>
     dec: 8° 19' 45.74"
     apparent_magnitude: 6.48
@@ -3544,7 +3544,7 @@ stars:
     distance: 256.06
     spectral_class: F5III
   - name:
-    designation: 170 Lulithannaid
+    designation: <a href="170_lulithannaid.html">170 Lulithannaid</a>
     ra: 13<sup>h</sup> 59<sup>m</sup> 29.59<sup>s</sup>
     dec: 9° 51' 0.27"
     apparent_magnitude: 6.48
@@ -3560,7 +3560,7 @@ stars:
     distance: 251.62
     spectral_class: G5V + G8V
   - name:
-    designation: 885 Lulithannaid
+    designation: <a href="885_lulithannaid.html">885 Lulithannaid</a>
     ra: 14<sup>h</sup> 00<sup>m</sup> 58.38<sup>s</sup>
     dec: 10° 46' 28.69"
     apparent_magnitude: 6.49
@@ -3568,7 +3568,7 @@ stars:
     distance: 295.71
     spectral_class: G4V + F2V + M8III + A4V
   - name:
-    designation: 749 Lulithannaid
+    designation: <a href="749_lulithannaid.html">749 Lulithannaid</a>
     ra: 13<sup>h</sup> 52<sup>m</sup> 36.28<sup>s</sup>
     dec: 15° 04' 33.94"
     apparent_magnitude: 6.49
@@ -3584,7 +3584,7 @@ stars:
     distance: 14,566.87
     spectral_class: O2IV + O5III
   - name:
-    designation: 1040 Lulithannaid
+    designation: <a href="1040_lulithannaid.html">1040 Lulithannaid</a>
     ra: 13<sup>h</sup> 31<sup>m</sup> 59.11<sup>s</sup>
     dec: 13° 07' 39.30"
     apparent_magnitude: 6.49
@@ -3632,7 +3632,7 @@ stars:
     distance: 1,075.76
     spectral_class: B8V
   - name:
-    designation: 0056 Lulithannaid
+    designation: <a href="0056_lulithannaid.html">0056 Lulithannaid</a>
     ra: 14<sup>h</sup> 00<sup>m</sup> 45.02<sup>s</sup>
     dec: 23° 51' 12.01"
     apparent_magnitude: 6.49
@@ -3640,7 +3640,7 @@ stars:
     distance: 66.97
     spectral_class: F4V
   - name:
-    designation: 0037 Lulithannaid
+    designation: <a href="0037_lulithannaid.html">0037 Lulithannaid</a>
     ra: 14<sup>h</sup> 47<sup>m</sup> 52.75<sup>s</sup>
     dec: 12° 48' 12.39"
     apparent_magnitude: 6.49
@@ -3696,7 +3696,7 @@ stars:
     distance: 327.57
     spectral_class: G2V + A4V
   - name:
-    designation: 191 Lulithannaid
+    designation: <a href="191_lulithannaid.html">191 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 43.16<sup>s</sup>
     dec: 15° 31' 30.32"
     apparent_magnitude: 6.50
@@ -3784,7 +3784,7 @@ stars:
     distance: 295.99
     spectral_class: A7V
   - name:
-    designation: 1109 Lulithannaid
+    designation: <a href="1109_lulithannaid.html">1109 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 36.36<sup>s</sup>
     dec: 11° 26' 48.26"
     apparent_magnitude: 6.53
@@ -3848,7 +3848,7 @@ stars:
     distance: 319.90
     spectral_class: F5IV
   - name:
-    designation: 184 Lulithannaid
+    designation: <a href="184_lulithannaid.html">184 Lulithannaid</a>
     ra: 14<sup>h</sup> 12<sup>m</sup> 35.99<sup>s</sup>
     dec: 7° 51' 3.95"
     apparent_magnitude: 6.54
@@ -4048,7 +4048,7 @@ stars:
     distance: 389.12
     spectral_class: A4V
   - name:
-    designation: 897 Lulithannaid
+    designation: <a href="897_lulithannaid.html">897 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 0.16<sup>s</sup>
     dec: 20° 25' 9.25"
     apparent_magnitude: 6.60
@@ -4064,7 +4064,7 @@ stars:
     distance: 244.22
     spectral_class: A6V
   - name:
-    designation: 200 Lulithannaid
+    designation: <a href="200_lulithannaid.html">200 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 24.35<sup>s</sup>
     dec: 13° 44' 36.80"
     apparent_magnitude: 6.61
@@ -4104,7 +4104,7 @@ stars:
     distance: 1,952.37
     spectral_class: A1II
   - name:
-    designation: 202 Lulithannaid
+    designation: <a href="202_lulithannaid.html">202 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 11.49<sup>s</sup>
     dec: 17° 59' 28.84"
     apparent_magnitude: 6.62
@@ -4120,7 +4120,7 @@ stars:
     distance: 376.57
     spectral_class: K3IV + A2V
   - name:
-    designation: 203 Lulithannaid
+    designation: <a href="203_lulithannaid.html">203 Lulithannaid</a>
     ra: 14<sup>h</sup> 07<sup>m</sup> 21.21<sup>s</sup>
     dec: 10° 31' 10.73"
     apparent_magnitude: 6.62
@@ -4136,7 +4136,7 @@ stars:
     distance: 613.76
     spectral_class: F4III + A9III
   - name:
-    designation: 206 Lulithannaid
+    designation: <a href="206_lulithannaid.html">206 Lulithannaid</a>
     ra: 14<sup>h</sup> 15<sup>m</sup> 18.51<sup>s</sup>
     dec: 10° 39' 54.57"
     apparent_magnitude: 6.63
@@ -4144,7 +4144,7 @@ stars:
     distance: 349.14
     spectral_class: K1III + M4III + A9V + A5V
   - name:
-    designation: 211 Lulithannaid
+    designation: <a href="211_lulithannaid.html">211 Lulithannaid</a>
     ra: 14<sup>h</sup> 02<sup>m</sup> 2.70<sup>s</sup>
     dec: 9° 20' 25.53"
     apparent_magnitude: 6.63
@@ -4168,7 +4168,7 @@ stars:
     distance: 338.91
     spectral_class: F5III
   - name:
-    designation: 207 Lulithannaid
+    designation: <a href="207_lulithannaid.html">207 Lulithannaid</a>
     ra: 13<sup>h</sup> 47<sup>m</sup> 49.91<sup>s</sup>
     dec: 10° 59' 38.78"
     apparent_magnitude: 6.63
@@ -4224,7 +4224,7 @@ stars:
     distance: 1,961.01
     spectral_class: A1II
   - name:
-    designation: 797 Lulithannaid
+    designation: <a href="797_lulithannaid.html">797 Lulithannaid</a>
     ra: 14<sup>h</sup> 23<sup>m</sup> 54.68<sup>s</sup>
     dec: 61° 45' 33.01"
     apparent_magnitude: 6.65
@@ -4232,7 +4232,7 @@ stars:
     distance: 351.72
     spectral_class: K9III + M7III + F5V + A8III
   - name:
-    designation: 250 Lulithannaid
+    designation: <a href="250_lulithannaid.html">250 Lulithannaid</a>
     ra: 13<sup>h</sup> 39<sup>m</sup> 47.04<sup>s</sup>
     dec: 11° 20' 58.34"
     apparent_magnitude: 6.65
@@ -4336,7 +4336,7 @@ stars:
     distance: 1,290.91
     spectral_class: A5II
   - name:
-    designation: 894 Lulithannaid
+    designation: <a href="894_lulithannaid.html">894 Lulithannaid</a>
     ra: 14<sup>h</sup> 28<sup>m</sup> 41.73<sup>s</sup>
     dec: 8° 02' 36.30"
     apparent_magnitude: 6.67
@@ -4376,7 +4376,7 @@ stars:
     distance: 627.13
     spectral_class: A9II
   - name:
-    designation: 990 Lulithannaid
+    designation: <a href="990_lulithannaid.html">990 Lulithannaid</a>
     ra: 15<sup>h</sup> 05<sup>m</sup> 51.81<sup>s</sup>
     dec: 45° 51' 58.54"
     apparent_magnitude: 6.68
@@ -4416,7 +4416,7 @@ stars:
     distance: 416.00
     spectral_class: A2V
   - name:
-    designation: 972 Lulithannaid
+    designation: <a href="972_lulithannaid.html">972 Lulithannaid</a>
     ra: 13<sup>h</sup> 59<sup>m</sup> 37.78<sup>s</sup>
     dec: 25° 03' 38.70"
     apparent_magnitude: 6.69
@@ -4440,7 +4440,7 @@ stars:
     distance: 343.01
     spectral_class: G7V + DC + A9V
   - name:
-    designation: 226 Lulithannaid
+    designation: <a href="226_lulithannaid.html">226 Lulithannaid</a>
     ra: 13<sup>h</sup> 58<sup>m</sup> 20.47<sup>s</sup>
     dec: 11° 37' 17.63"
     apparent_magnitude: 6.70
@@ -4464,7 +4464,7 @@ stars:
     distance: 365.50
     spectral_class: F3V + DQ + DA + F3II
   - name:
-    designation: 229 Lulithannaid
+    designation: <a href="229_lulithannaid.html">229 Lulithannaid</a>
     ra: 14<sup>h</sup> 08<sup>m</sup> 22.28<sup>s</sup>
     dec: 10° 03' 20.10"
     apparent_magnitude: 6.71
@@ -4496,7 +4496,7 @@ stars:
     distance: 789.92
     spectral_class: A6III
   - name:
-    designation: 898 Lulithannaid
+    designation: <a href="898_lulithannaid.html">898 Lulithannaid</a>
     ra: 14<sup>h</sup> 07<sup>m</sup> 15.69<sup>s</sup>
     dec: 10° 33' 17.19"
     apparent_magnitude: 6.71
@@ -4520,7 +4520,7 @@ stars:
     distance: 334.67
     spectral_class: DC + G9III
   - name:
-    designation: 286 Lulithannaid
+    designation: <a href="286_lulithannaid.html">286 Lulithannaid</a>
     ra: 13<sup>h</sup> 31<sup>m</sup> 5.38<sup>s</sup>
     dec: 9° 27' 44.02"
     apparent_magnitude: 6.72
@@ -4544,7 +4544,7 @@ stars:
     distance: 330.36
     spectral_class: A4V
   - name:
-    designation: 954 Lulithannaid
+    designation: <a href="954_lulithannaid.html">954 Lulithannaid</a>
     ra: 14<sup>h</sup> 26<sup>m</sup> 7.76<sup>s</sup>
     dec: 19° 03' 22.68"
     apparent_magnitude: 6.72
@@ -4616,7 +4616,7 @@ stars:
     distance: 296.19
     spectral_class: M9III + G3V
   - name:
-    designation: 241 Lulithannaid
+    designation: <a href="241_lulithannaid.html">241 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 34.33<sup>s</sup>
     dec: 15° 09' 13.78"
     apparent_magnitude: 6.73
@@ -4648,7 +4648,7 @@ stars:
     distance: 353.06
     spectral_class: A5V
   - name:
-    designation: 923 Lulithannaid
+    designation: <a href="923_lulithannaid.html">923 Lulithannaid</a>
     ra: 14<sup>h</sup> 33<sup>m</sup> 54.44<sup>s</sup>
     dec: 11° 16' 14.46"
     apparent_magnitude: 6.74
@@ -4664,7 +4664,7 @@ stars:
     distance: 367.45
     spectral_class: G4V + A6V
   - name:
-    designation: 591 Lulithannaid
+    designation: <a href="591_lulithannaid.html">591 Lulithannaid</a>
     ra: 13<sup>h</sup> 45<sup>m</sup> 16.84<sup>s</sup>
     dec: 10° 29' 37.96"
     apparent_magnitude: 6.75
@@ -4760,7 +4760,7 @@ stars:
     distance: 462.75
     spectral_class: K4III + A7III
   - name:
-    designation: 712 Lulithannaid
+    designation: <a href="712_lulithannaid.html">712 Lulithannaid</a>
     ra: 14<sup>h</sup> 12<sup>m</sup> 15.28<sup>s</sup>
     dec: 10° 38' 3.33"
     apparent_magnitude: 6.78
@@ -4784,7 +4784,7 @@ stars:
     distance: 1,105.03
     spectral_class: K7III + DA + A7II
   - name:
-    designation: 858 Lulithannaid
+    designation: <a href="858_lulithannaid.html">858 Lulithannaid</a>
     ra: 13<sup>h</sup> 50<sup>m</sup> 18.25<sup>s</sup>
     dec: 50° 03' 18.89"
     apparent_magnitude: 6.78
@@ -4792,7 +4792,7 @@ stars:
     distance: 349.88
     spectral_class: K7III + K4III + A8III
   - name:
-    designation: 256 Lulithannaid
+    designation: <a href="256_lulithannaid.html">256 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 19.45<sup>s</sup>
     dec: 11° 07' 41.77"
     apparent_magnitude: 6.78
@@ -4880,7 +4880,7 @@ stars:
     distance: 264.80
     spectral_class: M9III + A4V
   - name:
-    designation: 259 Lulithannaid
+    designation: <a href="259_lulithannaid.html">259 Lulithannaid</a>
     ra: 13<sup>h</sup> 46<sup>m</sup> 22.42<sup>s</sup>
     dec: 14° 00' 46.80"
     apparent_magnitude: 6.80
@@ -4936,7 +4936,7 @@ stars:
     distance: 663.40
     spectral_class: A9II
   - name:
-    designation: 263 Lulithannaid
+    designation: <a href="263_lulithannaid.html">263 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 34.50<sup>s</sup>
     dec: 17° 19' 56.95"
     apparent_magnitude: 6.81
@@ -4952,7 +4952,7 @@ stars:
     distance: 269.97
     spectral_class: F0III
   - name:
-    designation: 928 Lulithannaid
+    designation: <a href="928_lulithannaid.html">928 Lulithannaid</a>
     ra: 14<sup>h</sup> 05<sup>m</sup> 51.62<sup>s</sup>
     dec: 13° 44' 18.05"
     apparent_magnitude: 6.81
@@ -4976,7 +4976,7 @@ stars:
     distance: 367.77
     spectral_class: G6V + A6V
   - name:
-    designation: 1041 Lulithannaid
+    designation: <a href="1041_lulithannaid.html">1041 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 12.49<sup>s</sup>
     dec: 10° 48' 27.72"
     apparent_magnitude: 6.81
@@ -4992,7 +4992,7 @@ stars:
     distance: 590.24
     spectral_class: A8III
   - name:
-    designation: 643 Lulithannaid
+    designation: <a href="643_lulithannaid.html">643 Lulithannaid</a>
     ra: 13<sup>h</sup> 53<sup>m</sup> 57.34<sup>s</sup>
     dec: 7° 58' 20.69"
     apparent_magnitude: 6.82
@@ -5024,7 +5024,7 @@ stars:
     distance: 350.52
     spectral_class: A4V
   - name:
-    designation: 295 Lulithannaid
+    designation: <a href="295_lulithannaid.html">295 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 9.20<sup>s</sup>
     dec: 16° 28' 53.78"
     apparent_magnitude: 6.83
@@ -5048,7 +5048,7 @@ stars:
     distance: 431.24
     spectral_class: G2V + B9V
   - name:
-    designation: 273 Lulithannaid
+    designation: <a href="273_lulithannaid.html">273 Lulithannaid</a>
     ra: 13<sup>h</sup> 55<sup>m</sup> 27.17<sup>s</sup>
     dec: 10° 10' 43.88"
     apparent_magnitude: 6.83
@@ -5056,7 +5056,7 @@ stars:
     distance: 579.23
     spectral_class: F6V + F4V + A8III
   - name:
-    designation: 275 Lulithannaid
+    designation: <a href="275_lulithannaid.html">275 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 38.84<sup>s</sup>
     dec: 13° 03' 33.62"
     apparent_magnitude: 6.83
@@ -5072,7 +5072,7 @@ stars:
     distance: 266.81
     spectral_class: G7IV
   - name:
-    designation: 278 Lulithannaid
+    designation: <a href="278_lulithannaid.html">278 Lulithannaid</a>
     ra: 13<sup>h</sup> 32<sup>m</sup> 28.70<sup>s</sup>
     dec: 8° 29' 22.83"
     apparent_magnitude: 6.85
@@ -5096,7 +5096,7 @@ stars:
     distance: 279.02
     spectral_class: F0III
   - name:
-    designation: 280 Lulithannaid
+    designation: <a href="280_lulithannaid.html">280 Lulithannaid</a>
     ra: 14<sup>h</sup> 00<sup>m</sup> 8.79<sup>s</sup>
     dec: 10° 08' 2.48"
     apparent_magnitude: 6.85
@@ -5136,7 +5136,7 @@ stars:
     distance: 656.97
     spectral_class: A9II
   - name:
-    designation: 288 Lulithannaid
+    designation: <a href="288_lulithannaid.html">288 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 56.58<sup>s</sup>
     dec: 14° 15' 1.66"
     apparent_magnitude: 6.86
@@ -5144,7 +5144,7 @@ stars:
     distance: 576.83
     spectral_class: F2II
   - name:
-    designation: 284 Lulithannaid
+    designation: <a href="284_lulithannaid.html">284 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 27.16<sup>s</sup>
     dec: 9° 14' 18.69"
     apparent_magnitude: 6.86
@@ -5192,7 +5192,7 @@ stars:
     distance: 770.62
     spectral_class: A6III
   - name:
-    designation: 290 Lulithannaid
+    designation: <a href="290_lulithannaid.html">290 Lulithannaid</a>
     ra: 13<sup>h</sup> 31<sup>m</sup> 55.27<sup>s</sup>
     dec: 11° 38' 56.61"
     apparent_magnitude: 6.88
@@ -5200,7 +5200,7 @@ stars:
     distance: 270.08
     spectral_class: F1V
   - name:
-    designation: 861 Lulithannaid
+    designation: <a href="861_lulithannaid.html">861 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 6.36<sup>s</sup>
     dec: 17° 48' 12.33"
     apparent_magnitude: 6.88
@@ -5208,7 +5208,7 @@ stars:
     distance: 794.04
     spectral_class: A5III
   - name:
-    designation: 291 Lulithannaid
+    designation: <a href="291_lulithannaid.html">291 Lulithannaid</a>
     ra: 13<sup>h</sup> 35<sup>m</sup> 32.69<sup>s</sup>
     dec: 15° 19' 15.90"
     apparent_magnitude: 6.88
@@ -5232,7 +5232,7 @@ stars:
     distance: 621.04
     spectral_class: A8III
   - name:
-    designation: 293 Lulithannaid
+    designation: <a href="293_lulithannaid.html">293 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 19.28<sup>s</sup>
     dec: 16° 58' 13.81"
     apparent_magnitude: 6.88
@@ -5512,7 +5512,7 @@ stars:
     distance: 287.06
     spectral_class: G8III
   - name:
-    designation: 661 Lulithannaid
+    designation: <a href="661_lulithannaid.html">661 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 44.77<sup>s</sup>
     dec: 10° 52' 52.06"
     apparent_magnitude: 6.95
@@ -5568,7 +5568,7 @@ stars:
     distance: 1,218.32
     spectral_class: A2III
   - name:
-    designation: 325 Lulithannaid
+    designation: <a href="325_lulithannaid.html">325 Lulithannaid</a>
     ra: 14<sup>h</sup> 00<sup>m</sup> 43.94<sup>s</sup>
     dec: 11° 29' 31.44"
     apparent_magnitude: 6.96
@@ -5704,7 +5704,7 @@ stars:
     distance: 612.36
     spectral_class: F9II
   - name:
-    designation: 1042 Lulithannaid
+    designation: <a href="1042_lulithannaid.html">1042 Lulithannaid</a>
     ra: 13<sup>h</sup> 43<sup>m</sup> 1.54<sup>s</sup>
     dec: 17° 23' 18.58"
     apparent_magnitude: 6.98
@@ -5728,7 +5728,7 @@ stars:
     distance: 522.60
     spectral_class: A8III
   - name:
-    designation: 893 Lulithannaid
+    designation: <a href="893_lulithannaid.html">893 Lulithannaid</a>
     ra: 14<sup>h</sup> 26<sup>m</sup> 30.40<sup>s</sup>
     dec: 9° 16' 42.83"
     apparent_magnitude: 6.99
@@ -5736,7 +5736,7 @@ stars:
     distance: 197.67
     spectral_class: G2V
   - name:
-    designation: 1006 Lulithannaid
+    designation: <a href="1006_lulithannaid.html">1006 Lulithannaid</a>
     ra: 13<sup>h</sup> 43<sup>m</sup> 43.78<sup>s</sup>
     dec: 41° 20' 53.24"
     apparent_magnitude: 6.99
@@ -5744,7 +5744,7 @@ stars:
     distance: 376.66
     spectral_class: K7III + K4III + A8III
   - name:
-    designation: 339 Lulithannaid
+    designation: <a href="339_lulithannaid.html">339 Lulithannaid</a>
     ra: 13<sup>h</sup> 35<sup>m</sup> 44.30<sup>s</sup>
     dec: 13° 44' 48.09"
     apparent_magnitude: 6.99
@@ -5752,7 +5752,7 @@ stars:
     distance: 658.63
     spectral_class: G3V + G8V + A7III + A5V
   - name:
-    designation: 341 Lulithannaid
+    designation: <a href="341_lulithannaid.html">341 Lulithannaid</a>
     ra: 13<sup>h</sup> 51<sup>m</sup> 14.79<sup>s</sup>
     dec: 8° 07' 48.46"
     apparent_magnitude: 6.99
@@ -5840,7 +5840,7 @@ stars:
     distance: 359.22
     spectral_class: K3V + A7V
   - name:
-    designation: 347 Lulithannaid
+    designation: <a href="347_lulithannaid.html">347 Lulithannaid</a>
     ra: 14<sup>h</sup> 02<sup>m</sup> 11.26<sup>s</sup>
     dec: 10° 48' 44.85"
     apparent_magnitude: 7.01
@@ -5904,7 +5904,7 @@ stars:
     distance: 946.25
     spectral_class: A4III
   - name:
-    designation: 367 Lulithannaid
+    designation: <a href="367_lulithannaid.html">367 Lulithannaid</a>
     ra: 13<sup>h</sup> 39<sup>m</sup> 23.09<sup>s</sup>
     dec: 13° 30' 53.24"
     apparent_magnitude: 7.01
@@ -5992,7 +5992,7 @@ stars:
     distance: 304.87
     spectral_class: A5V
   - name:
-    designation: 371 Lulithannaid
+    designation: <a href="371_lulithannaid.html">371 Lulithannaid</a>
     ra: 13<sup>h</sup> 56<sup>m</sup> 33.12<sup>s</sup>
     dec: 13° 47' 58.40"
     apparent_magnitude: 7.02
@@ -6016,7 +6016,7 @@ stars:
     distance: 1,140.14
     spectral_class: A3III
   - name:
-    designation: 358 Lulithannaid
+    designation: <a href="358_lulithannaid.html">358 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 11.96<sup>s</sup>
     dec: 13° 51' 55.12"
     apparent_magnitude: 7.02
@@ -6048,7 +6048,7 @@ stars:
     distance: 202.24
     spectral_class: G4V + F2V
   - name:
-    designation: 359 Lulithannaid
+    designation: <a href="359_lulithannaid.html">359 Lulithannaid</a>
     ra: 13<sup>h</sup> 56<sup>m</sup> 54.26<sup>s</sup>
     dec: 10° 04' 34.33"
     apparent_magnitude: 7.03
@@ -6056,7 +6056,7 @@ stars:
     distance: 323.31
     spectral_class: F9V
   - name:
-    designation: 1054 Lulithannaid
+    designation: <a href="1054_lulithannaid.html">1054 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 33.61<sup>s</sup>
     dec: 16° 48' 47.12"
     apparent_magnitude: 7.03
@@ -6120,7 +6120,7 @@ stars:
     distance: 387.70
     spectral_class: A6IV
   - name:
-    designation: 362 Lulithannaid
+    designation: <a href="362_lulithannaid.html">362 Lulithannaid</a>
     ra: 13<sup>h</sup> 48<sup>m</sup> 35.15<sup>s</sup>
     dec: 12° 21' 21.07"
     apparent_magnitude: 7.04
@@ -6176,7 +6176,7 @@ stars:
     distance: 273.04
     spectral_class: F2V + F6V + A7V
   - name:
-    designation: 372 Lulithannaid
+    designation: <a href="372_lulithannaid.html">372 Lulithannaid</a>
     ra: 13<sup>h</sup> 44<sup>m</sup> 9.58<sup>s</sup>
     dec: 11° 23' 5.00"
     apparent_magnitude: 7.06
@@ -6200,7 +6200,7 @@ stars:
     distance: 1,138.84
     spectral_class: A3III
   - name:
-    designation: 380 Lulithannaid
+    designation: <a href="380_lulithannaid.html">380 Lulithannaid</a>
     ra: 14<sup>h</sup> 14<sup>m</sup> 41.18<sup>s</sup>
     dec: 9° 23' 32.88"
     apparent_magnitude: 7.06
@@ -6312,7 +6312,7 @@ stars:
     distance: 454.13
     spectral_class: K9V + G2III
   - name:
-    designation: 385 Lulithannaid
+    designation: <a href="385_lulithannaid.html">385 Lulithannaid</a>
     ra: 13<sup>h</sup> 51<sup>m</sup> 15.53<sup>s</sup>
     dec: 10° 01' 49.27"
     apparent_magnitude: 7.08
@@ -6416,7 +6416,7 @@ stars:
     distance: 251.99
     spectral_class: M7V + G2V
   - name:
-    designation: 397 Lulithannaid
+    designation: <a href="397_lulithannaid.html">397 Lulithannaid</a>
     ra: 13<sup>h</sup> 52<sup>m</sup> 40.53<sup>s</sup>
     dec: 12° 22' 46.52"
     apparent_magnitude: 7.10
@@ -6488,7 +6488,7 @@ stars:
     distance: 332.25
     spectral_class: G6V + A9V
   - name:
-    designation: 401 Lulithannaid
+    designation: <a href="401_lulithannaid.html">401 Lulithannaid</a>
     ra: 14<sup>h</sup> 02<sup>m</sup> 4.80<sup>s</sup>
     dec: 8° 54' 34.22"
     apparent_magnitude: 7.11
@@ -6512,7 +6512,7 @@ stars:
     distance: 826.28
     spectral_class: A1IV
   - name:
-    designation: 403 Lulithannaid
+    designation: <a href="403_lulithannaid.html">403 Lulithannaid</a>
     ra: 13<sup>h</sup> 52<sup>m</sup> 51.89<sup>s</sup>
     dec: 8° 29' 17.78"
     apparent_magnitude: 7.12
@@ -6536,7 +6536,7 @@ stars:
     distance: 372.58
     spectral_class: A2V
   - name:
-    designation: 406 Lulithannaid
+    designation: <a href="406_lulithannaid.html">406 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 40.22<sup>s</sup>
     dec: 12° 42' 34.04"
     apparent_magnitude: 7.12
@@ -6560,7 +6560,7 @@ stars:
     distance: 591.28
     spectral_class: A8III
   - name:
-    designation: 408 Lulithannaid
+    designation: <a href="408_lulithannaid.html">408 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 7.70<sup>s</sup>
     dec: 18° 00' 27.76"
     apparent_magnitude: 7.13
@@ -6608,7 +6608,7 @@ stars:
     distance: 704.49
     spectral_class: A8III
   - name:
-    designation: 412 Lulithannaid
+    designation: <a href="412_lulithannaid.html">412 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 29.30<sup>s</sup>
     dec: 15° 14' 1.75"
     apparent_magnitude: 7.13
@@ -6624,7 +6624,7 @@ stars:
     distance: 277.33
     spectral_class: F4V
   - name:
-    designation: 745 Lulithannaid
+    designation: <a href="745_lulithannaid.html">745 Lulithannaid</a>
     ra: 13<sup>h</sup> 31<sup>m</sup> 16.10<sup>s</sup>
     dec: 10° 43' 29.02"
     apparent_magnitude: 7.14
@@ -6656,7 +6656,7 @@ stars:
     distance: 358.35
     spectral_class: G6V + A3V
   - name:
-    designation: 423 Lulithannaid
+    designation: <a href="423_lulithannaid.html">423 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 19.49<sup>s</sup>
     dec: 8° 58' 15.93"
     apparent_magnitude: 7.15
@@ -6840,7 +6840,7 @@ stars:
     distance: 280.16
     spectral_class: K8II
   - name:
-    designation: 446 Lulithannaid
+    designation: <a href="446_lulithannaid.html">446 Lulithannaid</a>
     ra: 13<sup>h</sup> 54<sup>m</sup> 6.73<sup>s</sup>
     dec: 11° 27' 7.52"
     apparent_magnitude: 7.19
@@ -6912,7 +6912,7 @@ stars:
     distance: 1,006.28
     spectral_class: F3V + A1IV
   - name:
-    designation: 460 Lulithannaid
+    designation: <a href="460_lulithannaid.html">460 Lulithannaid</a>
     ra: 13<sup>h</sup> 50<sup>m</sup> 32.95<sup>s</sup>
     dec: 15° 28' 5.45"
     apparent_magnitude: 7.21
@@ -6976,7 +6976,7 @@ stars:
     distance: 972.30
     spectral_class: K9III + A5III
   - name:
-    designation: 474 Lulithannaid
+    designation: <a href="474_lulithannaid.html">474 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 21.32<sup>s</sup>
     dec: 13° 53' 6.00"
     apparent_magnitude: 7.22
@@ -7000,7 +7000,7 @@ stars:
     distance: 402.99
     spectral_class: F9II
   - name:
-    designation: 469 Lulithannaid
+    designation: <a href="469_lulithannaid.html">469 Lulithannaid</a>
     ra: 14<sup>h</sup> 06<sup>m</sup> 30.93<sup>s</sup>
     dec: 12° 05' 1.06"
     apparent_magnitude: 7.23
@@ -7016,7 +7016,7 @@ stars:
     distance: 955.44
     spectral_class: A6V + G9III + A4III
   - name:
-    designation: 521 Lulithannaid
+    designation: <a href="521_lulithannaid.html">521 Lulithannaid</a>
     ra: 14<sup>h</sup> 15<sup>m</sup> 27.80<sup>s</sup>
     dec: 9° 19' 47.62"
     apparent_magnitude: 7.23
@@ -7040,7 +7040,7 @@ stars:
     distance: 1,464.34
     spectral_class: A2III
   - name:
-    designation: 475 Lulithannaid
+    designation: <a href="475_lulithannaid.html">475 Lulithannaid</a>
     ra: 13<sup>h</sup> 57<sup>m</sup> 12.90<sup>s</sup>
     dec: 9° 23' 54.48"
     apparent_magnitude: 7.23
@@ -7064,7 +7064,7 @@ stars:
     distance: 1,474.41
     spectral_class: K3Ib
   - name:
-    designation: 484 Lulithannaid
+    designation: <a href="484_lulithannaid.html">484 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 53.08<sup>s</sup>
     dec: 18° 17' 20.84"
     apparent_magnitude: 7.23
@@ -7120,7 +7120,7 @@ stars:
     distance: 510.82
     spectral_class: A9III
   - name:
-    designation: 479 Lulithannaid
+    designation: <a href="479_lulithannaid.html">479 Lulithannaid</a>
     ra: 13<sup>h</sup> 50<sup>m</sup> 57.06<sup>s</sup>
     dec: 15° 53' 40.29"
     apparent_magnitude: 7.24
@@ -7160,7 +7160,7 @@ stars:
     distance: 726.56
     spectral_class: A8III
   - name:
-    designation: 483 Lulithannaid
+    designation: <a href="483_lulithannaid.html">483 Lulithannaid</a>
     ra: 13<sup>h</sup> 49<sup>m</sup> 14.96<sup>s</sup>
     dec: 8° 08' 47.41"
     apparent_magnitude: 7.25
@@ -7192,7 +7192,7 @@ stars:
     distance: 578.83
     spectral_class: F5V + G7V + F3V + F1III
   - name:
-    designation: 492 Lulithannaid
+    designation: <a href="492_lulithannaid.html">492 Lulithannaid</a>
     ra: 13<sup>h</sup> 43<sup>m</sup> 50.11<sup>s</sup>
     dec: 11° 43' 45.77"
     apparent_magnitude: 7.25
@@ -7216,7 +7216,7 @@ stars:
     distance: 685.92
     spectral_class: G4V + A3IV
   - name:
-    designation: 507 Lulithannaid
+    designation: <a href="507_lulithannaid.html">507 Lulithannaid</a>
     ra: 13<sup>h</sup> 32<sup>m</sup> 19.94<sup>s</sup>
     dec: 9° 06' 49.44"
     apparent_magnitude: 7.26
@@ -7344,7 +7344,7 @@ stars:
     distance: 434.72
     spectral_class: A2V
   - name:
-    designation: 1027 Lulithannaid
+    designation: <a href="1027_lulithannaid.html">1027 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 45.32<sup>s</sup>
     dec: 7° 58' 19.94"
     apparent_magnitude: 7.28
@@ -7456,7 +7456,7 @@ stars:
     distance: 351.77
     spectral_class: A6V
   - name:
-    designation: 520 Lulithannaid
+    designation: <a href="520_lulithannaid.html">520 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 53.93<sup>s</sup>
     dec: 16° 33' 13.14"
     apparent_magnitude: 7.30
@@ -7472,7 +7472,7 @@ stars:
     distance: 226.58
     spectral_class: F0IV
   - name:
-    designation: 522 Lulithannaid
+    designation: <a href="522_lulithannaid.html">522 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 45.01<sup>s</sup>
     dec: 9° 45' 36.00"
     apparent_magnitude: 7.30
@@ -7592,7 +7592,7 @@ stars:
     distance: 486.02
     spectral_class: F0III
   - name:
-    designation: 534 Lulithannaid
+    designation: <a href="534_lulithannaid.html">534 Lulithannaid</a>
     ra: 13<sup>h</sup> 49<sup>m</sup> 22.54<sup>s</sup>
     dec: 11° 04' 16.72"
     apparent_magnitude: 7.32
@@ -7640,7 +7640,7 @@ stars:
     distance: 405.61
     spectral_class: G7V + A3V
   - name:
-    designation: 539 Lulithannaid
+    designation: <a href="539_lulithannaid.html">539 Lulithannaid</a>
     ra: 13<sup>h</sup> 43<sup>m</sup> 35.91<sup>s</sup>
     dec: 10° 39' 43.96"
     apparent_magnitude: 7.33
@@ -7696,7 +7696,7 @@ stars:
     distance: 492.00
     spectral_class: A9V + F4III
   - name:
-    designation: 546 Lulithannaid
+    designation: <a href="546_lulithannaid.html">546 Lulithannaid</a>
     ra: 14<sup>h</sup> 21<sup>m</sup> 9.26<sup>s</sup>
     dec: 8° 49' 47.88"
     apparent_magnitude: 7.34
@@ -7760,7 +7760,7 @@ stars:
     distance: 653.61
     spectral_class: A7III
   - name:
-    designation: 594 Lulithannaid
+    designation: <a href="594_lulithannaid.html">594 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 32.69<sup>s</sup>
     dec: 12° 21' 43.25"
     apparent_magnitude: 7.35
@@ -7800,7 +7800,7 @@ stars:
     distance: 527.73
     spectral_class: A7III
   - name:
-    designation: 563 Lulithannaid
+    designation: <a href="563_lulithannaid.html">563 Lulithannaid</a>
     ra: 13<sup>h</sup> 32<sup>m</sup> 14.68<sup>s</sup>
     dec: 15° 59' 2.95"
     apparent_magnitude: 7.36
@@ -7928,7 +7928,7 @@ stars:
     distance: 229.64
     spectral_class: A7V
   - name:
-    designation: 728 Lulithannaid
+    designation: <a href="728_lulithannaid.html">728 Lulithannaid</a>
     ra: 13<sup>h</sup> 55<sup>m</sup> 5.49<sup>s</sup>
     dec: 8° 01' 55.37"
     apparent_magnitude: 7.38
@@ -7976,7 +7976,7 @@ stars:
     distance: 289.02
     spectral_class: A8V
   - name:
-    designation: 715 Lulithannaid
+    designation: <a href="715_lulithannaid.html">715 Lulithannaid</a>
     ra: 13<sup>h</sup> 58<sup>m</sup> 17.59<sup>s</sup>
     dec: 9° 02' 18.08"
     apparent_magnitude: 7.39
@@ -8040,7 +8040,7 @@ stars:
     distance: 1,132.94
     spectral_class: K9III + A2III
   - name:
-    designation: 631 Lulithannaid
+    designation: <a href="631_lulithannaid.html">631 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 57.87<sup>s</sup>
     dec: 9° 02' 20.27"
     apparent_magnitude: 7.41
@@ -8056,7 +8056,7 @@ stars:
     distance: 988.68
     spectral_class: A1IV
   - name:
-    designation: 604 Lulithannaid
+    designation: <a href="604_lulithannaid.html">604 Lulithannaid</a>
     ra: 13<sup>h</sup> 31<sup>m</sup> 5.47<sup>s</sup>
     dec: 17° 49' 49.35"
     apparent_magnitude: 7.41
@@ -8104,7 +8104,7 @@ stars:
     distance: 1,382.51
     spectral_class: K5III + A0III
   - name:
-    designation: 611 Lulithannaid
+    designation: <a href="611_lulithannaid.html">611 Lulithannaid</a>
     ra: 13<sup>h</sup> 44<sup>m</sup> 2.96<sup>s</sup>
     dec: 10° 13' 10.23"
     apparent_magnitude: 7.42
@@ -8112,7 +8112,7 @@ stars:
     distance: 472.58
     spectral_class: A6V
   - name:
-    designation: 613 Lulithannaid
+    designation: <a href="613_lulithannaid.html">613 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 0.43<sup>s</sup>
     dec: 11° 20' 56.12"
     apparent_magnitude: 7.42
@@ -8120,7 +8120,7 @@ stars:
     distance: 306.20
     spectral_class: G1V + G7V + A8V
   - name:
-    designation: 614 Lulithannaid
+    designation: <a href="614_lulithannaid.html">614 Lulithannaid</a>
     ra: 13<sup>h</sup> 48<sup>m</sup> 53.00<sup>s</sup>
     dec: 11° 33' 41.15"
     apparent_magnitude: 7.42
@@ -8128,7 +8128,7 @@ stars:
     distance: 892.68
     spectral_class: A5III
   - name:
-    designation: 615 Lulithannaid
+    designation: <a href="615_lulithannaid.html">615 Lulithannaid</a>
     ra: 14<sup>h</sup> 01<sup>m</sup> 24.69<sup>s</sup>
     dec: 11° 53' 36.20"
     apparent_magnitude: 7.42
@@ -8224,7 +8224,7 @@ stars:
     distance: 500.12
     spectral_class: F7III
   - name:
-    designation: 635 Lulithannaid
+    designation: <a href="635_lulithannaid.html">635 Lulithannaid</a>
     ra: 14<sup>h</sup> 02<sup>m</sup> 4.74<sup>s</sup>
     dec: 8° 00' 23.13"
     apparent_magnitude: 7.44
@@ -8240,7 +8240,7 @@ stars:
     distance: 330.75
     spectral_class: G0V + A7V
   - name:
-    designation: 636 Lulithannaid
+    designation: <a href="636_lulithannaid.html">636 Lulithannaid</a>
     ra: 13<sup>h</sup> 44<sup>m</sup> 11.98<sup>s</sup>
     dec: 13° 16' 55.49"
     apparent_magnitude: 7.45
@@ -8256,7 +8256,7 @@ stars:
     distance: 1,381.07
     spectral_class: K5III + A0III
   - name:
-    designation: 730 Lulithannaid
+    designation: <a href="730_lulithannaid.html">730 Lulithannaid</a>
     ra: 13<sup>h</sup> 55<sup>m</sup> 10.20<sup>s</sup>
     dec: 8° 24' 12.38"
     apparent_magnitude: 7.45
@@ -8360,7 +8360,7 @@ stars:
     distance: 728.62
     spectral_class: A7III
   - name:
-    designation: 650 Lulithannaid
+    designation: <a href="650_lulithannaid.html">650 Lulithannaid</a>
     ra: 14<sup>h</sup> 02<sup>m</sup> 34.77<sup>s</sup>
     dec: 10° 42' 0.86"
     apparent_magnitude: 7.46
@@ -8368,7 +8368,7 @@ stars:
     distance: 262.10
     spectral_class: G2V
   - name:
-    designation: 652 Lulithannaid
+    designation: <a href="652_lulithannaid.html">652 Lulithannaid</a>
     ra: 14<sup>h</sup> 13<sup>m</sup> 2.11<sup>s</sup>
     dec: 9° 22' 11.08"
     apparent_magnitude: 7.46
@@ -8416,7 +8416,7 @@ stars:
     distance: 429.67
     spectral_class: G5V + F6III
   - name:
-    designation: 662 Lulithannaid
+    designation: <a href="662_lulithannaid.html">662 Lulithannaid</a>
     ra: 13<sup>h</sup> 50<sup>m</sup> 58.75<sup>s</sup>
     dec: 11° 47' 4.84"
     apparent_magnitude: 7.48
@@ -8496,7 +8496,7 @@ stars:
     distance: 318.34
     spectral_class: K7II
   - name:
-    designation: 671 Lulithannaid
+    designation: <a href="671_lulithannaid.html">671 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 6.38<sup>s</sup>
     dec: 16° 57' 39.20"
     apparent_magnitude: 7.49
@@ -8560,7 +8560,7 @@ stars:
     distance: 443.21
     spectral_class: M9III + A4V
   - name:
-    designation: 681 Lulithannaid
+    designation: <a href="681_lulithannaid.html">681 Lulithannaid</a>
     ra: 13<sup>h</sup> 35<sup>m</sup> 23.77<sup>s</sup>
     dec: 16° 12' 56.36"
     apparent_magnitude: 7.50
@@ -8680,7 +8680,7 @@ stars:
     distance: 871.87
     spectral_class: M3III + A5III
   - name:
-    designation: 1084 Lulithannaid
+    designation: <a href="1084_lulithannaid.html">1084 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 19.42<sup>s</sup>
     dec: 12° 50' 18.58"
     apparent_magnitude: 7.52
@@ -8720,7 +8720,7 @@ stars:
     distance: 381.58
     spectral_class: G7V + A3V
   - name:
-    designation: 707 Lulithannaid
+    designation: <a href="707_lulithannaid.html">707 Lulithannaid</a>
     ra: 14<sup>h</sup> 07<sup>m</sup> 58.67<sup>s</sup>
     dec: 8° 41' 46.74"
     apparent_magnitude: 7.52
@@ -8736,7 +8736,7 @@ stars:
     distance: 520.25
     spectral_class: A6IV
   - name:
-    designation: 709 Lulithannaid
+    designation: <a href="709_lulithannaid.html">709 Lulithannaid</a>
     ra: 13<sup>h</sup> 45<sup>m</sup> 11.24<sup>s</sup>
     dec: 12° 11' 2.94"
     apparent_magnitude: 7.53
@@ -8752,7 +8752,7 @@ stars:
     distance: 1,011.27
     spectral_class: A6V + G9III + A4III
   - name:
-    designation: 716 Lulithannaid
+    designation: <a href="716_lulithannaid.html">716 Lulithannaid</a>
     ra: 13<sup>h</sup> 57<sup>m</sup> 27.84<sup>s</sup>
     dec: 13° 07' 10.34"
     apparent_magnitude: 7.53
@@ -8880,7 +8880,7 @@ stars:
     distance: 413.54
     spectral_class: M2III + A5V
   - name:
-    designation: 746 Lulithannaid
+    designation: <a href="746_lulithannaid.html">746 Lulithannaid</a>
     ra: 14<sup>h</sup> 00<sup>m</sup> 55.03<sup>s</sup>
     dec: 12° 55' 54.53"
     apparent_magnitude: 7.56
@@ -8896,7 +8896,7 @@ stars:
     distance: 363.07
     spectral_class: M2III + A5V
   - name:
-    designation: 755 Lulithannaid
+    designation: <a href="755_lulithannaid.html">755 Lulithannaid</a>
     ra: 14<sup>h</sup> 13<sup>m</sup> 45.62<sup>s</sup>
     dec: 9° 32' 41.89"
     apparent_magnitude: 7.57
@@ -8904,7 +8904,7 @@ stars:
     distance: 1,237.61
     spectral_class: G7III + M7III + A2III
   - name:
-    designation: 757 Lulithannaid
+    designation: <a href="757_lulithannaid.html">757 Lulithannaid</a>
     ra: 13<sup>h</sup> 43<sup>m</sup> 13.84<sup>s</sup>
     dec: 10° 15' 10.62"
     apparent_magnitude: 7.57
@@ -8984,7 +8984,7 @@ stars:
     distance: 874.13
     spectral_class: M3III + A5III
   - name:
-    designation: 768 Lulithannaid
+    designation: <a href="768_lulithannaid.html">768 Lulithannaid</a>
     ra: 13<sup>h</sup> 35<sup>m</sup> 15.96<sup>s</sup>
     dec: 14° 04' 57.04"
     apparent_magnitude: 7.58
@@ -9000,7 +9000,7 @@ stars:
     distance: 750.86
     spectral_class: A7III
   - name:
-    designation: 769 Lulithannaid
+    designation: <a href="769_lulithannaid.html">769 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 5.06<sup>s</sup>
     dec: 18° 05' 41.10"
     apparent_magnitude: 7.58
@@ -9040,7 +9040,7 @@ stars:
     distance: 474.67
     spectral_class: F5II
   - name:
-    designation: 777 Lulithannaid
+    designation: <a href="777_lulithannaid.html">777 Lulithannaid</a>
     ra: 13<sup>h</sup> 47<sup>m</sup> 36.19<sup>s</sup>
     dec: 15° 45' 48.28"
     apparent_magnitude: 7.59
@@ -9112,7 +9112,7 @@ stars:
     distance: 597.65
     spectral_class: A9V + F4III
   - name:
-    designation: 790 Lulithannaid
+    designation: <a href="790_lulithannaid.html">790 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 38.79<sup>s</sup>
     dec: 15° 49' 28.28"
     apparent_magnitude: 7.60
@@ -9128,7 +9128,7 @@ stars:
     distance: 882.73
     spectral_class: K4III + K9III + A6III
   - name:
-    designation: 793 Lulithannaid
+    designation: <a href="793_lulithannaid.html">793 Lulithannaid</a>
     ra: 13<sup>h</sup> 57<sup>m</sup> 38.02<sup>s</sup>
     dec: 11° 37' 10.30"
     apparent_magnitude: 7.61
@@ -9160,7 +9160,7 @@ stars:
     distance: 537.07
     spectral_class: A6IV
   - name:
-    designation: 802 Lulithannaid
+    designation: <a href="802_lulithannaid.html">802 Lulithannaid</a>
     ra: 13<sup>h</sup> 50<sup>m</sup> 49.59<sup>s</sup>
     dec: 13° 46' 24.69"
     apparent_magnitude: 7.61
@@ -9168,7 +9168,7 @@ stars:
     distance: 460.78
     spectral_class: A8III
   - name:
-    designation: 803 Lulithannaid
+    designation: <a href="803_lulithannaid.html">803 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 3.61<sup>s</sup>
     dec: 11° 28' 13.44"
     apparent_magnitude: 7.61
@@ -9256,7 +9256,7 @@ stars:
     distance: 393.38
     spectral_class: F8III
   - name:
-    designation: 825 Lulithannaid
+    designation: <a href="825_lulithannaid.html">825 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 17.50<sup>s</sup>
     dec: 13° 32' 30.46"
     apparent_magnitude: 7.63
@@ -9304,7 +9304,7 @@ stars:
     distance: 407.61
     spectral_class: F8V + A2V
   - name:
-    designation: 837 Lulithannaid
+    designation: <a href="837_lulithannaid.html">837 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 51.63<sup>s</sup>
     dec: 8° 07' 2.96"
     apparent_magnitude: 7.64
@@ -9512,7 +9512,7 @@ stars:
     distance: 377.05
     spectral_class: G5II
   - name:
-    designation: 878 Lulithannaid
+    designation: <a href="878_lulithannaid.html">878 Lulithannaid</a>
     ra: 13<sup>h</sup> 49<sup>m</sup> 50.44<sup>s</sup>
     dec: 15° 12' 38.95"
     apparent_magnitude: 7.68
@@ -9616,7 +9616,7 @@ stars:
     distance: 527.52
     spectral_class: G5V + A4V
   - name:
-    designation: 909 Lulithannaid
+    designation: <a href="909_lulithannaid.html">909 Lulithannaid</a>
     ra: 14<sup>h</sup> 04<sup>m</sup> 44.26<sup>s</sup>
     dec: 10° 46' 29.55"
     apparent_magnitude: 7.71
@@ -9632,7 +9632,7 @@ stars:
     distance: 427.67
     spectral_class: F8V + A5IV
   - name:
-    designation: 912 Lulithannaid
+    designation: <a href="912_lulithannaid.html">912 Lulithannaid</a>
     ra: 13<sup>h</sup> 55<sup>m</sup> 56.12<sup>s</sup>
     dec: 11° 34' 56.93"
     apparent_magnitude: 7.71
@@ -9648,7 +9648,7 @@ stars:
     distance: 242.44
     spectral_class: G6V + A6V
   - name:
-    designation: 920 Lulithannaid
+    designation: <a href="920_lulithannaid.html">920 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 16.26<sup>s</sup>
     dec: 17° 03' 26.94"
     apparent_magnitude: 7.71
@@ -9656,7 +9656,7 @@ stars:
     distance: 396.88
     spectral_class: A6V
   - name:
-    designation: 921 Lulithannaid
+    designation: <a href="921_lulithannaid.html">921 Lulithannaid</a>
     ra: 14<sup>h</sup> 15<sup>m</sup> 28.03<sup>s</sup>
     dec: 10° 31' 20.40"
     apparent_magnitude: 7.71
@@ -9696,7 +9696,7 @@ stars:
     distance: 308.05
     spectral_class: F9V + A8V
   - name:
-    designation: 930 Lulithannaid
+    designation: <a href="930_lulithannaid.html">930 Lulithannaid</a>
     ra: 13<sup>h</sup> 35<sup>m</sup> 32.77<sup>s</sup>
     dec: 18° 02' 22.16"
     apparent_magnitude: 7.72
@@ -9768,7 +9768,7 @@ stars:
     distance: 745.42
     spectral_class: F2III + A8III
   - name:
-    designation: 943 Lulithannaid
+    designation: <a href="943_lulithannaid.html">943 Lulithannaid</a>
     ra: 13<sup>h</sup> 56<sup>m</sup> 34.87<sup>s</sup>
     dec: 9° 53' 37.45"
     apparent_magnitude: 7.73
@@ -9816,7 +9816,7 @@ stars:
     distance: 476.19
     spectral_class: F3III
   - name:
-    designation: 950 Lulithannaid
+    designation: <a href="950_lulithannaid.html">950 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 32.15<sup>s</sup>
     dec: 18° 16' 13.68"
     apparent_magnitude: 7.74
@@ -9848,7 +9848,7 @@ stars:
     distance: 733.84
     spectral_class: A9V + A8II
   - name:
-    designation: 957 Lulithannaid
+    designation: <a href="957_lulithannaid.html">957 Lulithannaid</a>
     ra: 13<sup>h</sup> 46<sup>m</sup> 32.56<sup>s</sup>
     dec: 14° 09' 43.73"
     apparent_magnitude: 7.74
@@ -9896,7 +9896,7 @@ stars:
     distance: 509.70
     spectral_class: A5V
   - name:
-    designation: 962 Lulithannaid
+    designation: <a href="962_lulithannaid.html">962 Lulithannaid</a>
     ra: 14<sup>h</sup> 07<sup>m</sup> 27.56<sup>s</sup>
     dec: 9° 17' 57.46"
     apparent_magnitude: 7.75
@@ -9904,7 +9904,7 @@ stars:
     distance: 358.92
     spectral_class: G9V + M4III + K9V + G8II
   - name:
-    designation: 963 Lulithannaid
+    designation: <a href="963_lulithannaid.html">963 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 4.67<sup>s</sup>
     dec: 13° 22' 17.98"
     apparent_magnitude: 7.75
@@ -9952,7 +9952,7 @@ stars:
     distance: 699.69
     spectral_class: F5V + G7V + F3V + F1III
   - name:
-    designation: 981 Lulithannaid
+    designation: <a href="981_lulithannaid.html">981 Lulithannaid</a>
     ra: 13<sup>h</sup> 46<sup>m</sup> 42.11<sup>s</sup>
     dec: 14° 37' 58.41"
     apparent_magnitude: 7.76
@@ -10208,7 +10208,7 @@ stars:
     distance: 915.33
     spectral_class: K4III + K9III + A6III
   - name:
-    designation: 1073 Lulithannaid
+    designation: <a href="1073_lulithannaid.html">1073 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 15.44<sup>s</sup>
     dec: 12° 55' 45.64"
     apparent_magnitude: 7.83
@@ -10224,7 +10224,7 @@ stars:
     distance: 427.60
     spectral_class: A8III
   - name:
-    designation: 1077 Lulithannaid
+    designation: <a href="1077_lulithannaid.html">1077 Lulithannaid</a>
     ra: 14<sup>h</sup> 10<sup>m</sup> 55.66<sup>s</sup>
     dec: 9° 58' 32.30"
     apparent_magnitude: 7.83
@@ -10232,7 +10232,7 @@ stars:
     distance: 448.65
     spectral_class: A9III
   - name:
-    designation: 1079 Lulithannaid
+    designation: <a href="1079_lulithannaid.html">1079 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 26.89<sup>s</sup>
     dec: 15° 15' 49.06"
     apparent_magnitude: 7.83
@@ -10264,7 +10264,7 @@ stars:
     distance: 272.01
     spectral_class: A5V
   - name:
-    designation: 1089 Lulithannaid
+    designation: <a href="1089_lulithannaid.html">1089 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 43.30<sup>s</sup>
     dec: 17° 28' 44.03"
     apparent_magnitude: 7.84
@@ -10328,7 +10328,7 @@ stars:
     distance: 524.91
     spectral_class: F1II
   - name:
-    designation: 1118 Lulithannaid
+    designation: <a href="1118_lulithannaid.html">1118 Lulithannaid</a>
     ra: 13<sup>h</sup> 46<sup>m</sup> 17.66<sup>s</sup>
     dec: 13° 07' 3.80"
     apparent_magnitude: 7.85
@@ -10528,7 +10528,7 @@ stars:
     distance: 1,013.23
     spectral_class: A7V + A5III
   - name:
-    designation: 1182 Lulithannaid
+    designation: <a href="1182_lulithannaid.html">1182 Lulithannaid</a>
     ra: 14<sup>h</sup> 06<sup>m</sup> 21.72<sup>s</sup>
     dec: 8° 25' 36.92"
     apparent_magnitude: 7.90
@@ -10560,7 +10560,7 @@ stars:
     distance: 443.23
     spectral_class: F5V + B9V
   - name:
-    designation: 1198 Lulithannaid
+    designation: <a href="1198_lulithannaid.html">1198 Lulithannaid</a>
     ra: 13<sup>h</sup> 44<sup>m</sup> 12.40<sup>s</sup>
     dec: 10° 46' 31.95"
     apparent_magnitude: 7.90
@@ -10712,7 +10712,7 @@ stars:
     distance: 354.77
     spectral_class: K6II
   - name:
-    designation: 1256 Lulithannaid
+    designation: <a href="1256_lulithannaid.html">1256 Lulithannaid</a>
     ra: 14<sup>h</sup> 09<sup>m</sup> 5.09<sup>s</sup>
     dec: 11° 40' 32.80"
     apparent_magnitude: 7.94
@@ -10752,7 +10752,7 @@ stars:
     distance: 545.90
     spectral_class: F1II
   - name:
-    designation: 1263 Lulithannaid
+    designation: <a href="1263_lulithannaid.html">1263 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 56.55<sup>s</sup>
     dec: 8° 06' 22.30"
     apparent_magnitude: 7.94
@@ -10784,7 +10784,7 @@ stars:
     distance: 328.36
     spectral_class: A5V
   - name:
-    designation: 1280 Lulithannaid
+    designation: <a href="1280_lulithannaid.html">1280 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 52.61<sup>s</sup>
     dec: 11° 04' 15.09"
     apparent_magnitude: 7.95
@@ -10792,7 +10792,7 @@ stars:
     distance: 441.70
     spectral_class: K1V + G5V + F6V + A3V
   - name:
-    designation: 1279 Lulithannaid
+    designation: <a href="1279_lulithannaid.html">1279 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 18.48<sup>s</sup>
     dec: 11° 52' 36.31"
     apparent_magnitude: 7.95
@@ -10800,7 +10800,7 @@ stars:
     distance: 366.40
     spectral_class: A4V
   - name:
-    designation: 1288 Lulithannaid
+    designation: <a href="1288_lulithannaid.html">1288 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 53.78<sup>s</sup>
     dec: 17° 16' 10.58"
     apparent_magnitude: 7.96
@@ -10864,7 +10864,7 @@ stars:
     distance: 748.12
     spectral_class: B9V + A8II
   - name:
-    designation: 1299 Lulithannaid
+    designation: <a href="1299_lulithannaid.html">1299 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 11.39<sup>s</sup>
     dec: 16° 02' 11.32"
     apparent_magnitude: 7.96
@@ -11016,7 +11016,7 @@ stars:
     distance: 360.77
     spectral_class: A6V
   - name:
-    designation: 1358 Lulithannaid
+    designation: <a href="1358_lulithannaid.html">1358 Lulithannaid</a>
     ra: 13<sup>h</sup> 59<sup>m</sup> 58.46<sup>s</sup>
     dec: 10° 12' 8.19"
     apparent_magnitude: 8.00
@@ -11024,7 +11024,7 @@ stars:
     distance: 604.93
     spectral_class: A7III
   - name:
-    designation: 1367 Lulithannaid
+    designation: <a href="1367_lulithannaid.html">1367 Lulithannaid</a>
     ra: 13<sup>h</sup> 45<sup>m</sup> 57.97<sup>s</sup>
     dec: 7° 58' 52.94"
     apparent_magnitude: 8.00
@@ -11040,7 +11040,7 @@ stars:
     distance: 451.80
     spectral_class: K9III + K1III + A4V
   - name:
-    designation: 1380 Lulithannaid
+    designation: <a href="1380_lulithannaid.html">1380 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 11.25<sup>s</sup>
     dec: 12° 10' 25.61"
     apparent_magnitude: 8.01
@@ -11072,7 +11072,7 @@ stars:
     distance: 659.84
     spectral_class: M2III + A4IV
   - name:
-    designation: 1390 Lulithannaid
+    designation: <a href="1390_lulithannaid.html">1390 Lulithannaid</a>
     ra: 13<sup>h</sup> 54<sup>m</sup> 16.82<sup>s</sup>
     dec: 11° 20' 30.85"
     apparent_magnitude: 8.01
@@ -11088,7 +11088,7 @@ stars:
     distance: 408.68
     spectral_class: A5V
   - name:
-    designation: 1396 Lulithannaid
+    designation: <a href="1396_lulithannaid.html">1396 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 18.31<sup>s</sup>
     dec: 17° 56' 37.49"
     apparent_magnitude: 8.02
@@ -11144,7 +11144,7 @@ stars:
     distance: 615.99
     spectral_class: A7III
   - name:
-    designation: 1422 Lulithannaid
+    designation: <a href="1422_lulithannaid.html">1422 Lulithannaid</a>
     ra: 13<sup>h</sup> 35<sup>m</sup> 40.83<sup>s</sup>
     dec: 12° 41' 38.53"
     apparent_magnitude: 8.03
@@ -11240,7 +11240,7 @@ stars:
     distance: 336.63
     spectral_class: A6V
   - name:
-    designation: 1470 Lulithannaid
+    designation: <a href="1470_lulithannaid.html">1470 Lulithannaid</a>
     ra: 14<sup>h</sup> 08<sup>m</sup> 22.72<sup>s</sup>
     dec: 11° 58' 20.58"
     apparent_magnitude: 8.05
@@ -11304,7 +11304,7 @@ stars:
     distance: 504.91
     spectral_class: F9II
   - name:
-    designation: 1506 Lulithannaid
+    designation: <a href="1506_lulithannaid.html">1506 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 14.21<sup>s</sup>
     dec: 15° 45' 1.52"
     apparent_magnitude: 8.07
@@ -11336,7 +11336,7 @@ stars:
     distance: 384.51
     spectral_class: A7V
   - name:
-    designation: 1525 Lulithannaid
+    designation: <a href="1525_lulithannaid.html">1525 Lulithannaid</a>
     ra: 13<sup>h</sup> 48<sup>m</sup> 25.07<sup>s</sup>
     dec: 11° 05' 38.90"
     apparent_magnitude: 8.08
@@ -11360,7 +11360,7 @@ stars:
     distance: 845.47
     spectral_class: A6III
   - name:
-    designation: 1539 Lulithannaid
+    designation: <a href="1539_lulithannaid.html">1539 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 7.79<sup>s</sup>
     dec: 13° 40' 17.03"
     apparent_magnitude: 8.09
@@ -11376,7 +11376,7 @@ stars:
     distance: 422.18
     spectral_class: A5V
   - name:
-    designation: 1549 Lulithannaid
+    designation: <a href="1549_lulithannaid.html">1549 Lulithannaid</a>
     ra: 13<sup>h</sup> 47<sup>m</sup> 2.90<sup>s</sup>
     dec: 17° 15' 26.52"
     apparent_magnitude: 8.09
@@ -11440,7 +11440,7 @@ stars:
     distance: 570.87
     spectral_class: A1V
   - name:
-    designation: 1580 Lulithannaid
+    designation: <a href="1580_lulithannaid.html">1580 Lulithannaid</a>
     ra: 13<sup>h</sup> 49<sup>m</sup> 29.13<sup>s</sup>
     dec: 10° 19' 55.15"
     apparent_magnitude: 8.11
@@ -11464,7 +11464,7 @@ stars:
     distance: 467.13
     spectral_class: F4III
   - name:
-    designation: 1587 Lulithannaid
+    designation: <a href="1587_lulithannaid.html">1587 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 46.24<sup>s</sup>
     dec: 12° 41' 7.48"
     apparent_magnitude: 8.11
@@ -11480,7 +11480,7 @@ stars:
     distance: 253.60
     spectral_class: G3V + A5V
   - name:
-    designation: 1608 Lulithannaid
+    designation: <a href="1608_lulithannaid.html">1608 Lulithannaid</a>
     ra: 13<sup>h</sup> 45<sup>m</sup> 15.50<sup>s</sup>
     dec: 17° 27' 11.36"
     apparent_magnitude: 8.12
@@ -11512,7 +11512,7 @@ stars:
     distance: 352.93
     spectral_class: K5V + A8V
   - name:
-    designation: 1634 Lulithannaid
+    designation: <a href="1634_lulithannaid.html">1634 Lulithannaid</a>
     ra: 13<sup>h</sup> 53<sup>m</sup> 22.47<sup>s</sup>
     dec: 9° 04' 11.20"
     apparent_magnitude: 8.13
@@ -11528,7 +11528,7 @@ stars:
     distance: 908.48
     spectral_class: A6III
   - name:
-    designation: 1652 Lulithannaid
+    designation: <a href="1652_lulithannaid.html">1652 Lulithannaid</a>
     ra: 13<sup>h</sup> 48<sup>m</sup> 50.36<sup>s</sup>
     dec: 9° 59' 22.83"
     apparent_magnitude: 8.14
@@ -11576,7 +11576,7 @@ stars:
     distance: 801.78
     spectral_class: A8III
   - name:
-    designation: 1688 Lulithannaid
+    designation: <a href="1688_lulithannaid.html">1688 Lulithannaid</a>
     ra: 13<sup>h</sup> 47<sup>m</sup> 47.89<sup>s</sup>
     dec: 15° 33' 16.15"
     apparent_magnitude: 8.15
@@ -11696,7 +11696,7 @@ stars:
     distance: 337.28
     spectral_class: K5V + A8V
   - name:
-    designation: 1772 Lulithannaid
+    designation: <a href="1772_lulithannaid.html">1772 Lulithannaid</a>
     ra: 13<sup>h</sup> 53<sup>m</sup> 38.74<sup>s</sup>
     dec: 15° 46' 20.29"
     apparent_magnitude: 8.19
@@ -11720,7 +11720,7 @@ stars:
     distance: 741.84
     spectral_class: A6III
   - name:
-    designation: 1777 Lulithannaid
+    designation: <a href="1777_lulithannaid.html">1777 Lulithannaid</a>
     ra: 13<sup>h</sup> 39<sup>m</sup> 0.56<sup>s</sup>
     dec: 16° 18' 25.71"
     apparent_magnitude: 8.19
@@ -11760,7 +11760,7 @@ stars:
     distance: 518.12
     spectral_class: F3V + A4IV
   - name:
-    designation: 1787 Lulithannaid
+    designation: <a href="1787_lulithannaid.html">1787 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 8.09<sup>s</sup>
     dec: 15° 48' 40.21"
     apparent_magnitude: 8.19
@@ -11864,7 +11864,7 @@ stars:
     distance: 434.08
     spectral_class: G6V + A5V
   - name:
-    designation: 1852 Lulithannaid
+    designation: <a href="1852_lulithannaid.html">1852 Lulithannaid</a>
     ra: 13<sup>h</sup> 35<sup>m</sup> 17.22<sup>s</sup>
     dec: 12° 24' 30.48"
     apparent_magnitude: 8.22
@@ -11960,7 +11960,7 @@ stars:
     distance: 660.42
     spectral_class: A6III
   - name:
-    designation: 1922 Lulithannaid
+    designation: <a href="1922_lulithannaid.html">1922 Lulithannaid</a>
     ra: 13<sup>h</sup> 45<sup>m</sup> 38.26<sup>s</sup>
     dec: 11° 22' 40.24"
     apparent_magnitude: 8.25
@@ -11976,7 +11976,7 @@ stars:
     distance: 829.72
     spectral_class: A4IV
   - name:
-    designation: 1963 Lulithannaid
+    designation: <a href="1963_lulithannaid.html">1963 Lulithannaid</a>
     ra: 13<sup>h</sup> 56<sup>m</sup> 36.53<sup>s</sup>
     dec: 9° 39' 34.84"
     apparent_magnitude: 8.26
@@ -11984,7 +11984,7 @@ stars:
     distance: 222.75
     spectral_class: G9III
   - name:
-    designation: 1965 Lulithannaid
+    designation: <a href="1965_lulithannaid.html">1965 Lulithannaid</a>
     ra: 13<sup>h</sup> 45<sup>m</sup> 47.51<sup>s</sup>
     dec: 8° 10' 35.63"
     apparent_magnitude: 8.26
@@ -12104,7 +12104,7 @@ stars:
     distance: 689.15
     spectral_class: F4V + F9V + A8III
   - name:
-    designation: 2044 Lulithannaid
+    designation: <a href="2044_lulithannaid.html">2044 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 33.97<sup>s</sup>
     dec: 13° 22' 8.77"
     apparent_magnitude: 8.29
@@ -12112,7 +12112,7 @@ stars:
     distance: 433.02
     spectral_class: A9III
   - name:
-    designation: 2056 Lulithannaid
+    designation: <a href="2056_lulithannaid.html">2056 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 46.79<sup>s</sup>
     dec: 9° 27' 20.02"
     apparent_magnitude: 8.30
@@ -12248,7 +12248,7 @@ stars:
     distance: 573.47
     spectral_class: F3III
   - name:
-    designation: 2150 Lulithannaid
+    designation: <a href="2150_lulithannaid.html">2150 Lulithannaid</a>
     ra: 13<sup>h</sup> 35<sup>m</sup> 45.05<sup>s</sup>
     dec: 17° 04' 22.99"
     apparent_magnitude: 8.33
@@ -12280,7 +12280,7 @@ stars:
     distance: 675.20
     spectral_class: A4V + K2II + A8III
   - name:
-    designation: 2166 Lulithannaid
+    designation: <a href="2166_lulithannaid.html">2166 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 40.76<sup>s</sup>
     dec: 15° 53' 57.04"
     apparent_magnitude: 8.33
@@ -12312,7 +12312,7 @@ stars:
     distance: 513.13
     spectral_class: A1V
   - name:
-    designation: 2198 Lulithannaid
+    designation: <a href="2198_lulithannaid.html">2198 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 45.80<sup>s</sup>
     dec: 16° 05' 24.78"
     apparent_magnitude: 8.34
@@ -12336,7 +12336,7 @@ stars:
     distance: 468.33
     spectral_class: F6V + A2V
   - name:
-    designation: 2217 Lulithannaid
+    designation: <a href="2217_lulithannaid.html">2217 Lulithannaid</a>
     ra: 13<sup>h</sup> 46<sup>m</sup> 32.70<sup>s</sup>
     dec: 11° 25' 19.40"
     apparent_magnitude: 8.35
@@ -12384,7 +12384,7 @@ stars:
     distance: 398.06
     spectral_class: F2V + A3V
   - name:
-    designation: 2268 Lulithannaid
+    designation: <a href="2268_lulithannaid.html">2268 Lulithannaid</a>
     ra: 14<sup>h</sup> 27<sup>m</sup> 54.55<sup>s</sup>
     dec: 7° 50' 53.60"
     apparent_magnitude: 8.37
@@ -12416,7 +12416,7 @@ stars:
     distance: 376.57
     spectral_class: G4V + F8III
   - name:
-    designation: 2274 Lulithannaid
+    designation: <a href="2274_lulithannaid.html">2274 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 55.60<sup>s</sup>
     dec: 13° 30' 31.23"
     apparent_magnitude: 8.37
@@ -12464,7 +12464,7 @@ stars:
     distance: 449.10
     spectral_class: G2V + F6III
   - name:
-    designation: 2319 Lulithannaid
+    designation: <a href="2319_lulithannaid.html">2319 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 58.79<sup>s</sup>
     dec: 16° 08' 40.33"
     apparent_magnitude: 8.38
@@ -12528,7 +12528,7 @@ stars:
     distance: 373.50
     spectral_class: A4V
   - name:
-    designation: 2398 Lulithannaid
+    designation: <a href="2398_lulithannaid.html">2398 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 32.53<sup>s</sup>
     dec: 15° 33' 0.46"
     apparent_magnitude: 8.41
@@ -12552,7 +12552,7 @@ stars:
     distance: 392.00
     spectral_class: A8IV
   - name:
-    designation: 2433 Lulithannaid
+    designation: <a href="2433_lulithannaid.html">2433 Lulithannaid</a>
     ra: 13<sup>h</sup> 39<sup>m</sup> 46.47<sup>s</sup>
     dec: 10° 36' 34.35"
     apparent_magnitude: 8.42
@@ -12704,7 +12704,7 @@ stars:
     distance: 769.29
     spectral_class: K9Ib
   - name:
-    designation: 2578 Lulithannaid
+    designation: <a href="2578_lulithannaid.html">2578 Lulithannaid</a>
     ra: 13<sup>h</sup> 45<sup>m</sup> 33.58<sup>s</sup>
     dec: 8° 55' 48.51"
     apparent_magnitude: 8.46
@@ -12720,7 +12720,7 @@ stars:
     distance: 319.19
     spectral_class: F3V + A3V
   - name:
-    designation: 2593 Lulithannaid
+    designation: <a href="2593_lulithannaid.html">2593 Lulithannaid</a>
     ra: 13<sup>h</sup> 44<sup>m</sup> 48.34<sup>s</sup>
     dec: 15° 45' 30.27"
     apparent_magnitude: 8.46
@@ -12736,7 +12736,7 @@ stars:
     distance: 529.93
     spectral_class: F2III
   - name:
-    designation: 2602 Lulithannaid
+    designation: <a href="2602_lulithannaid.html">2602 Lulithannaid</a>
     ra: 13<sup>h</sup> 54<sup>m</sup> 39.01<sup>s</sup>
     dec: 13° 23' 36.18"
     apparent_magnitude: 8.47
@@ -12744,7 +12744,7 @@ stars:
     distance: 657.14
     spectral_class: F3V + F6V + A6III
   - name:
-    designation: 2616 Lulithannaid
+    designation: <a href="2616_lulithannaid.html">2616 Lulithannaid</a>
     ra: 13<sup>h</sup> 53<sup>m</sup> 42.86<sup>s</sup>
     dec: 11° 09' 38.72"
     apparent_magnitude: 8.47
@@ -12752,7 +12752,7 @@ stars:
     distance: 496.11
     spectral_class: F4III
   - name:
-    designation: 2619 Lulithannaid
+    designation: <a href="2619_lulithannaid.html">2619 Lulithannaid</a>
     ra: 14<sup>h</sup> 02<sup>m</sup> 27.45<sup>s</sup>
     dec: 7° 52' 41.80"
     apparent_magnitude: 8.47
@@ -12872,7 +12872,7 @@ stars:
     distance: 622.57
     spectral_class: F9II
   - name:
-    designation: 2718 Lulithannaid
+    designation: <a href="2718_lulithannaid.html">2718 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 58.51<sup>s</sup>
     dec: 15° 19' 49.61"
     apparent_magnitude: 8.50
@@ -12928,7 +12928,7 @@ stars:
     distance: 857.74
     spectral_class: A9V + A8II
   - name:
-    designation: 2771 Lulithannaid
+    designation: <a href="2771_lulithannaid.html">2771 Lulithannaid</a>
     ra: 14<sup>h</sup> 02<sup>m</sup> 53.04<sup>s</sup>
     dec: 11° 32' 14.15"
     apparent_magnitude: 8.51
@@ -12984,7 +12984,7 @@ stars:
     distance: 310.56
     spectral_class: F5V + A4V
   - name:
-    designation: 2817 Lulithannaid
+    designation: <a href="2817_lulithannaid.html">2817 Lulithannaid</a>
     ra: 13<sup>h</sup> 46<sup>m</sup> 19.87<sup>s</sup>
     dec: 11° 54' 2.83"
     apparent_magnitude: 8.52
@@ -12992,7 +12992,7 @@ stars:
     distance: 439.76
     spectral_class: G4V + F9V + G3V + A6V
   - name:
-    designation: 2821 Lulithannaid
+    designation: <a href="2821_lulithannaid.html">2821 Lulithannaid</a>
     ra: 13<sup>h</sup> 31<sup>m</sup> 26.27<sup>s</sup>
     dec: 16° 15' 55.50"
     apparent_magnitude: 8.52
@@ -13088,7 +13088,7 @@ stars:
     distance: 218.51
     spectral_class: G9V + A7V
   - name:
-    designation: 3050 Lulithannaid
+    designation: <a href="3050_lulithannaid.html">3050 Lulithannaid</a>
     ra: 14<sup>h</sup> 16<sup>m</sup> 8.40<sup>s</sup>
     dec: 10° 58' 10.18"
     apparent_magnitude: 8.58
@@ -13096,7 +13096,7 @@ stars:
     distance: 166.88
     spectral_class: G9III
   - name:
-    designation: 3061 Lulithannaid
+    designation: <a href="3061_lulithannaid.html">3061 Lulithannaid</a>
     ra: 13<sup>h</sup> 33<sup>m</sup> 43.99<sup>s</sup>
     dec: 14° 08' 1.67"
     apparent_magnitude: 8.58
@@ -13104,7 +13104,7 @@ stars:
     distance: 429.56
     spectral_class: G4V + F9V + G3V + A6V
   - name:
-    designation: 3085 Lulithannaid
+    designation: <a href="3085_lulithannaid.html">3085 Lulithannaid</a>
     ra: 13<sup>h</sup> 50<sup>m</sup> 37.35<sup>s</sup>
     dec: 11° 50' 14.47"
     apparent_magnitude: 8.59
@@ -13120,7 +13120,7 @@ stars:
     distance: 556.82
     spectral_class: F3III
   - name:
-    designation: 3118 Lulithannaid
+    designation: <a href="3118_lulithannaid.html">3118 Lulithannaid</a>
     ra: 13<sup>h</sup> 58<sup>m</sup> 46.72<sup>s</sup>
     dec: 13° 23' 42.32"
     apparent_magnitude: 8.60
@@ -13192,7 +13192,7 @@ stars:
     distance: 471.63
     spectral_class: A8III
   - name:
-    designation: 3245 Lulithannaid
+    designation: <a href="3245_lulithannaid.html">3245 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 16.36<sup>s</sup>
     dec: 13° 15' 53.27"
     apparent_magnitude: 8.63
@@ -13216,7 +13216,7 @@ stars:
     distance: 533.03
     spectral_class: A7III
   - name:
-    designation: 3287 Lulithannaid
+    designation: <a href="3287_lulithannaid.html">3287 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 40.61<sup>s</sup>
     dec: 13° 51' 13.81"
     apparent_magnitude: 8.64
@@ -13320,7 +13320,7 @@ stars:
     distance: 794.54
     spectral_class: F7V + A7III
   - name:
-    designation: 3442 Lulithannaid
+    designation: <a href="3442_lulithannaid.html">3442 Lulithannaid</a>
     ra: 14<sup>h</sup> 17<sup>m</sup> 53.01<sup>s</sup>
     dec: 10° 46' 46.82"
     apparent_magnitude: 8.67
@@ -13376,7 +13376,7 @@ stars:
     distance: 514.35
     spectral_class: A7III
   - name:
-    designation: 3576 Lulithannaid
+    designation: <a href="3576_lulithannaid.html">3576 Lulithannaid</a>
     ra: 13<sup>h</sup> 52<sup>m</sup> 47.13<sup>s</sup>
     dec: 15° 36' 28.80"
     apparent_magnitude: 8.70
@@ -13400,7 +13400,7 @@ stars:
     distance: 599.06
     spectral_class: F3III
   - name:
-    designation: 3606 Lulithannaid
+    designation: <a href="3606_lulithannaid.html">3606 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 58.75<sup>s</sup>
     dec: 13° 33' 0.48"
     apparent_magnitude: 8.70
@@ -13448,7 +13448,7 @@ stars:
     distance: 484.33
     spectral_class: F3III
   - name:
-    designation: 3786 Lulithannaid
+    designation: <a href="3786_lulithannaid.html">3786 Lulithannaid</a>
     ra: 13<sup>h</sup> 55<sup>m</sup> 50.45<sup>s</sup>
     dec: 10° 37' 32.95"
     apparent_magnitude: 8.74
@@ -13472,7 +13472,7 @@ stars:
     distance: 260.62
     spectral_class: A7V
   - name:
-    designation: 3817 Lulithannaid
+    designation: <a href="3817_lulithannaid.html">3817 Lulithannaid</a>
     ra: 14<sup>h</sup> 06<sup>m</sup> 50.73<sup>s</sup>
     dec: 7° 49' 35.49"
     apparent_magnitude: 8.74
@@ -13488,7 +13488,7 @@ stars:
     distance: 429.71
     spectral_class: A8V + A1V
   - name:
-    designation: 3865 Lulithannaid
+    designation: <a href="3865_lulithannaid.html">3865 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 43.55<sup>s</sup>
     dec: 8° 30' 53.90"
     apparent_magnitude: 8.75
@@ -13504,7 +13504,7 @@ stars:
     distance: 522.49
     spectral_class: G9V + A5IV
   - name:
-    designation: 3887 Lulithannaid
+    designation: <a href="3887_lulithannaid.html">3887 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 31.27<sup>s</sup>
     dec: 12° 32' 38.73"
     apparent_magnitude: 8.76
@@ -13520,7 +13520,7 @@ stars:
     distance: 245.73
     spectral_class: F7V + K0III
   - name:
-    designation: 3974 Lulithannaid
+    designation: <a href="3974_lulithannaid.html">3974 Lulithannaid</a>
     ra: 14<sup>h</sup> 00<sup>m</sup> 12.08<sup>s</sup>
     dec: 10° 33' 23.66"
     apparent_magnitude: 8.77
@@ -13544,7 +13544,7 @@ stars:
     distance: 314.57
     spectral_class: G3III + A7V
   - name:
-    designation: 4079 Lulithannaid
+    designation: <a href="4079_lulithannaid.html">4079 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 43.65<sup>s</sup>
     dec: 13° 35' 57.06"
     apparent_magnitude: 8.79
@@ -13584,7 +13584,7 @@ stars:
     distance: 563.75
     spectral_class: DA + F5II
   - name:
-    designation: 4160 Lulithannaid
+    designation: <a href="4160_lulithannaid.html">4160 Lulithannaid</a>
     ra: 13<sup>h</sup> 48<sup>m</sup> 38.18<sup>s</sup>
     dec: 14° 21' 26.32"
     apparent_magnitude: 8.81
@@ -13616,7 +13616,7 @@ stars:
     distance: 398.81
     spectral_class: G9V + A6V
   - name:
-    designation: 4257 Lulithannaid
+    designation: <a href="4257_lulithannaid.html">4257 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 49.94<sup>s</sup>
     dec: 16° 50' 27.51"
     apparent_magnitude: 8.82
@@ -13624,7 +13624,7 @@ stars:
     distance: 532.75
     spectral_class: A1V
   - name:
-    designation: 4309 Lulithannaid
+    designation: <a href="4309_lulithannaid.html">4309 Lulithannaid</a>
     ra: 13<sup>h</sup> 43<sup>m</sup> 25.77<sup>s</sup>
     dec: 16° 07' 43.78"
     apparent_magnitude: 8.83
@@ -13816,7 +13816,7 @@ stars:
     distance: 476.38
     spectral_class: B9V
   - name:
-    designation: 5199 Lulithannaid
+    designation: <a href="5199_lulithannaid.html">5199 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 13.14<sup>s</sup>
     dec: 14° 58' 27.79"
     apparent_magnitude: 8.97
@@ -13840,7 +13840,7 @@ stars:
     distance: 561.51
     spectral_class: F7II
   - name:
-    designation: 5238 Lulithannaid
+    designation: <a href="5238_lulithannaid.html">5238 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 14.13<sup>s</sup>
     dec: 16° 35' 54.01"
     apparent_magnitude: 8.97
@@ -13856,7 +13856,7 @@ stars:
     distance: 478.66
     spectral_class: A3V
   - name:
-    designation: 5383 Lulithannaid
+    designation: <a href="5383_lulithannaid.html">5383 Lulithannaid</a>
     ra: 13<sup>h</sup> 56<sup>m</sup> 45.02<sup>s</sup>
     dec: 12° 15' 47.62"
     apparent_magnitude: 8.99
@@ -13880,7 +13880,7 @@ stars:
     distance: 288.16
     spectral_class: F9III
   - name:
-    designation: 5514 Lulithannaid
+    designation: <a href="5514_lulithannaid.html">5514 Lulithannaid</a>
     ra: 13<sup>h</sup> 51<sup>m</sup> 8.86<sup>s</sup>
     dec: 12° 15' 50.76"
     apparent_magnitude: 9.01
@@ -13960,7 +13960,7 @@ stars:
     distance: 634.54
     spectral_class: G3V + M9III + F6III + G6III + A2V
   - name:
-    designation: 5803 Lulithannaid
+    designation: <a href="5803_lulithannaid.html">5803 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 42.75<sup>s</sup>
     dec: 13° 13' 40.71"
     apparent_magnitude: 9.05
@@ -14072,7 +14072,7 @@ stars:
     distance: 464.72
     spectral_class: G5V + A5V
   - name:
-    designation: 6073 Lulithannaid
+    designation: <a href="6073_lulithannaid.html">6073 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 43.53<sup>s</sup>
     dec: 14° 59' 37.62"
     apparent_magnitude: 9.08
@@ -14080,7 +14080,7 @@ stars:
     distance: 467.52
     spectral_class: A5V
   - name:
-    designation: 6151 Lulithannaid
+    designation: <a href="6151_lulithannaid.html">6151 Lulithannaid</a>
     ra: 13<sup>h</sup> 43<sup>m</sup> 13.30<sup>s</sup>
     dec: 13° 16' 43.52"
     apparent_magnitude: 9.09
@@ -14088,7 +14088,7 @@ stars:
     distance: 426.10
     spectral_class: A5V
   - name:
-    designation: 6178 Lulithannaid
+    designation: <a href="6178_lulithannaid.html">6178 Lulithannaid</a>
     ra: 14<sup>h</sup> 12<sup>m</sup> 8.27<sup>s</sup>
     dec: 12° 03' 19.42"
     apparent_magnitude: 9.09
@@ -14112,7 +14112,7 @@ stars:
     distance: 471.18
     spectral_class: A3V + A4V
   - name:
-    designation: 6392 Lulithannaid
+    designation: <a href="6392_lulithannaid.html">6392 Lulithannaid</a>
     ra: 14<sup>h</sup> 19<sup>m</sup> 33.40<sup>s</sup>
     dec: 9° 24' 37.95"
     apparent_magnitude: 9.12
@@ -14144,7 +14144,7 @@ stars:
     distance: 523.83
     spectral_class: A9III
   - name:
-    designation: 6742 Lulithannaid
+    designation: <a href="6742_lulithannaid.html">6742 Lulithannaid</a>
     ra: 13<sup>h</sup> 51<sup>m</sup> 27.10<sup>s</sup>
     dec: 12° 18' 47.85"
     apparent_magnitude: 9.16
@@ -14152,7 +14152,7 @@ stars:
     distance: 479.47
     spectral_class: A5V
   - name:
-    designation: 6895 Lulithannaid
+    designation: <a href="6895_lulithannaid.html">6895 Lulithannaid</a>
     ra: 13<sup>h</sup> 40<sup>m</sup> 34.74<sup>s</sup>
     dec: 14° 44' 25.23"
     apparent_magnitude: 9.17
@@ -14168,7 +14168,7 @@ stars:
     distance: 527.82
     spectral_class: F6III
   - name:
-    designation: 7001 Lulithannaid
+    designation: <a href="7001_lulithannaid.html">7001 Lulithannaid</a>
     ra: 13<sup>h</sup> 39<sup>m</sup> 52.01<sup>s</sup>
     dec: 16° 19' 16.15"
     apparent_magnitude: 9.18
@@ -14216,7 +14216,7 @@ stars:
     distance: 545.09
     spectral_class: A9III
   - name:
-    designation: 7331 Lulithannaid
+    designation: <a href="7331_lulithannaid.html">7331 Lulithannaid</a>
     ra: 14<sup>h</sup> 00<sup>m</sup> 10.60<sup>s</sup>
     dec: 12° 28' 2.74"
     apparent_magnitude: 9.22
@@ -14256,7 +14256,7 @@ stars:
     distance: 539.75
     spectral_class: F6III
   - name:
-    designation: 7685 Lulithannaid
+    designation: <a href="7685_lulithannaid.html">7685 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 11.88<sup>s</sup>
     dec: 15° 09' 48.37"
     apparent_magnitude: 9.25
@@ -14272,7 +14272,7 @@ stars:
     distance: 591.55
     spectral_class: A9V + F6II
   - name:
-    designation: 7793 Lulithannaid
+    designation: <a href="7793_lulithannaid.html">7793 Lulithannaid</a>
     ra: 13<sup>h</sup> 40<sup>m</sup> 9.95<sup>s</sup>
     dec: 11° 49' 21.19"
     apparent_magnitude: 9.26
@@ -14280,7 +14280,7 @@ stars:
     distance: 289.02
     spectral_class: A6V
   - name:
-    designation: 7833 Lulithannaid
+    designation: <a href="7833_lulithannaid.html">7833 Lulithannaid</a>
     ra: 13<sup>h</sup> 30<sup>m</sup> 40.59<sup>s</sup>
     dec: 16° 51' 55.39"
     apparent_magnitude: 9.26
@@ -14288,7 +14288,7 @@ stars:
     distance: 356.73
     spectral_class: A6V
   - name:
-    designation: 7993 Lulithannaid
+    designation: <a href="7993_lulithannaid.html">7993 Lulithannaid</a>
     ra: 13<sup>h</sup> 46<sup>m</sup> 12.13<sup>s</sup>
     dec: 14° 17' 21.76"
     apparent_magnitude: 9.28
@@ -14296,7 +14296,7 @@ stars:
     distance: 427.22
     spectral_class: F9III
   - name:
-    designation: 8150 Lulithannaid
+    designation: <a href="8150_lulithannaid.html">8150 Lulithannaid</a>
     ra: 13<sup>h</sup> 50<sup>m</sup> 39.91<sup>s</sup>
     dec: 15° 25' 14.82"
     apparent_magnitude: 9.29
@@ -14424,7 +14424,7 @@ stars:
     distance: 648.85
     spectral_class: G3V + M9III + F6III + G6III + A2V
   - name:
-    designation: 8779 Lulithannaid
+    designation: <a href="8779_lulithannaid.html">8779 Lulithannaid</a>
     ra: 13<sup>h</sup> 38<sup>m</sup> 55.99<sup>s</sup>
     dec: 16° 38' 3.41"
     apparent_magnitude: 9.35
@@ -14472,7 +14472,7 @@ stars:
     distance: 413.65
     spectral_class: G5V + A5V
   - name:
-    designation: 8899 Lulithannaid
+    designation: <a href="8899_lulithannaid.html">8899 Lulithannaid</a>
     ra: 13<sup>h</sup> 57<sup>m</sup> 27.50<sup>s</sup>
     dec: 9° 44' 59.43"
     apparent_magnitude: 9.36
@@ -14536,7 +14536,7 @@ stars:
     distance: 581.10
     spectral_class: F7II
   - name:
-    designation: 9452 Lulithannaid
+    designation: <a href="9452_lulithannaid.html">9452 Lulithannaid</a>
     ra: 13<sup>h</sup> 46<sup>m</sup> 34.05<sup>s</sup>
     dec: 14° 17' 34.60"
     apparent_magnitude: 9.40
@@ -14648,7 +14648,7 @@ stars:
     distance: 541.60
     spectral_class: F6III
   - name:
-    designation: 9950 Lulithannaid
+    designation: <a href="9950_lulithannaid.html">9950 Lulithannaid</a>
     ra: 13<sup>h</sup> 42<sup>m</sup> 46.19<sup>s</sup>
     dec: 9° 00' 10.23"
     apparent_magnitude: 9.44
@@ -14672,7 +14672,7 @@ stars:
     distance: 567.67
     spectral_class: F8V + A0V
   - name:
-    designation: 10225 Lulithannaid
+    designation: <a href="10225_lulithannaid.html">10225 Lulithannaid</a>
     ra: 13<sup>h</sup> 32<sup>m</sup> 16.09<sup>s</sup>
     dec: 15° 21' 9.18"
     apparent_magnitude: 9.46
@@ -14680,7 +14680,7 @@ stars:
     distance: 362.50
     spectral_class: G2V + G3V + M0III + A8V
   - name:
-    designation: 10374 Lulithannaid
+    designation: <a href="10374_lulithannaid.html">10374 Lulithannaid</a>
     ra: 13<sup>h</sup> 54<sup>m</sup> 40.59<sup>s</sup>
     dec: 13° 17' 4.20"
     apparent_magnitude: 9.47
@@ -14688,7 +14688,7 @@ stars:
     distance: 569.83
     spectral_class: F4III
   - name:
-    designation: 10377 Lulithannaid
+    designation: <a href="10377_lulithannaid.html">10377 Lulithannaid</a>
     ra: 14<sup>h</sup> 14<sup>m</sup> 4.14<sup>s</sup>
     dec: 9° 29' 10.49"
     apparent_magnitude: 9.47
@@ -14728,7 +14728,7 @@ stars:
     distance: 520.22
     spectral_class: F6III
   - name:
-    designation: 10699 Lulithannaid
+    designation: <a href="10699_lulithannaid.html">10699 Lulithannaid</a>
     ra: 13<sup>h</sup> 37<sup>m</sup> 45.04<sup>s</sup>
     dec: 10° 51' 37.83"
     apparent_magnitude: 9.49
@@ -14832,7 +14832,7 @@ stars:
     distance: 605.51
     spectral_class: A9V + F6II
   - name:
-    designation: 11964 Lulithannaid
+    designation: <a href="11964_lulithannaid.html">11964 Lulithannaid</a>
     ra: 13<sup>h</sup> 34<sup>m</sup> 39.93<sup>s</sup>
     dec: 16° 10' 50.39"
     apparent_magnitude: 9.57
@@ -14872,7 +14872,7 @@ stars:
     distance: 543.51
     spectral_class: A9III
   - name:
-    designation: 13575 Lulithannaid
+    designation: <a href="13575_lulithannaid.html">13575 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 28.03<sup>s</sup>
     dec: 15° 55' 32.46"
     apparent_magnitude: 9.66
@@ -14880,7 +14880,7 @@ stars:
     distance: 530.21
     spectral_class: A2V
   - name:
-    designation: 14194 Lulithannaid
+    designation: <a href="14194_lulithannaid.html">14194 Lulithannaid</a>
     ra: 13<sup>h</sup> 36<sup>m</sup> 40.71<sup>s</sup>
     dec: 16° 24' 11.52"
     apparent_magnitude: 9.69
@@ -14920,7 +14920,7 @@ stars:
     distance: 453.75
     spectral_class: G4V + A4V
   - name:
-    designation: 14799 Lulithannaid
+    designation: <a href="14799_lulithannaid.html">14799 Lulithannaid</a>
     ra: 13<sup>h</sup> 31<sup>m</sup> 34.38<sup>s</sup>
     dec: 16° 22' 35.31"
     apparent_magnitude: 9.72
@@ -14960,7 +14960,7 @@ stars:
     distance: 505.56
     spectral_class: F7V + A2V
   - name:
-    designation: 15927 Lulithannaid
+    designation: <a href="15927_lulithannaid.html">15927 Lulithannaid</a>
     ra: 13<sup>h</sup> 49<sup>m</sup> 53.61<sup>s</sup>
     dec: 11° 43' 43.28"
     apparent_magnitude: 9.78
@@ -14976,7 +14976,7 @@ stars:
     distance: 508.55
     spectral_class: F7III
   - name:
-    designation: 16106 Lulithannaid
+    designation: <a href="16106_lulithannaid.html">16106 Lulithannaid</a>
     ra: 14<sup>h</sup> 07<sup>m</sup> 53.33<sup>s</sup>
     dec: 8° 54' 22.89"
     apparent_magnitude: 9.79
@@ -15032,7 +15032,7 @@ stars:
     distance: 495.51
     spectral_class: F7V + A2V
   - name:
-    designation: 17098 Lulithannaid
+    designation: <a href="17098_lulithannaid.html">17098 Lulithannaid</a>
     ra: 13<sup>h</sup> 47<sup>m</sup> 22.79<sup>s</sup>
     dec: 13° 53' 20.66"
     apparent_magnitude: 9.83
@@ -15064,7 +15064,7 @@ stars:
     distance: 577.54
     spectral_class: A9III
   - name:
-    designation: 19010 Lulithannaid
+    designation: <a href="19010_lulithannaid.html">19010 Lulithannaid</a>
     ra: 14<sup>h</sup> 05<sup>m</sup> 29.14<sup>s</sup>
     dec: 9° 34' 22.22"
     apparent_magnitude: 9.91
@@ -15080,7 +15080,7 @@ stars:
     distance: 506.00
     spectral_class: A7IV
   - name:
-    designation: 19968 Lulithannaid
+    designation: <a href="19968_lulithannaid.html">19968 Lulithannaid</a>
     ra: 13<sup>h</sup> 41<sup>m</sup> 54.63<sup>s</sup>
     dec: 14° 33' 30.76"
     apparent_magnitude: 9.94
@@ -15120,7 +15120,7 @@ stars:
     distance: 395.73
     spectral_class: A2V
   - name:
-    designation: 24296 Lulithannaid
+    designation: <a href="24296_lulithannaid.html">24296 Lulithannaid</a>
     ra: 14<sup>h</sup> 06<sup>m</sup> 26.72<sup>s</sup>
     dec: 8° 32' 19.54"
     apparent_magnitude: 10.08
@@ -15136,7 +15136,7 @@ stars:
     distance: 452.05
     spectral_class: A1V
   - name:
-    designation: 27466 Lulithannaid
+    designation: <a href="27466_lulithannaid.html">27466 Lulithannaid</a>
     ra: 14<sup>h</sup> 18<sup>m</sup> 46.24<sup>s</sup>
     dec: 8° 57' 23.32"
     apparent_magnitude: 10.17
@@ -15152,7 +15152,7 @@ stars:
     distance: 439.75
     spectral_class: G2V + A4V
   - name:
-    designation: 37134 Lulithannaid
+    designation: <a href="37134_lulithannaid.html">37134 Lulithannaid</a>
     ra: 13<sup>h</sup> 59<sup>m</sup> 7.35<sup>s</sup>
     dec: 10° 44' 5.57"
     apparent_magnitude: 10.39

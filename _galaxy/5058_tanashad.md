@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5058 Tanashad is a star in the constellation Tanas
+      5058 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 355.15 ly
 apparent_magnitude: 11.38
 absolute_magnitude: 6.20

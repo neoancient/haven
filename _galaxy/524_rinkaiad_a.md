@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      524 Rinkaiad A is a star in the constellation Rinka
+      524 Rinkaiad A is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 553.26 ly
 apparent_magnitude: 7.50
 absolute_magnitude: 1.36

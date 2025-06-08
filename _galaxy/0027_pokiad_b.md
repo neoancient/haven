@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0027 Pokiad B is a star in the constellation Poke
+      0027 Pokiad B is a star in the constellation <a href="poke.html">Poke</a>
 distance: 59.37 ly
 apparent_magnitude: 10.67
 absolute_magnitude: 9.37

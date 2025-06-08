@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3958 Shanniashiad is a star in the constellation Shannias
+      3958 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1018.00 ly
 apparent_magnitude: 12.83
 absolute_magnitude: 5.35

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3606 Saithiad A is a star in the constellation Saith
+      3606 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 443.58 ly
 apparent_magnitude: 7.08
 absolute_magnitude: 1.42

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Tyurnioliad A is a star in the constellation Tyurniol
+      ο Tyurnioliad A is a star in the constellation <a href="tyurniol.html">Tyurniol</a>
 distance: 76.25 ly
 apparent_magnitude: 7.23
 absolute_magnitude: 5.39

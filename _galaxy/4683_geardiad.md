@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4683 Geardiad is a star in the constellation Geard
+      4683 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 558.79 ly
 apparent_magnitude: 11.01
 absolute_magnitude: 4.84

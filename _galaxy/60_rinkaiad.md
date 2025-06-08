@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      60 Rinkaiad is a star in the constellation Rinka
+      60 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 351.07 ly
 apparent_magnitude: 10.43
 absolute_magnitude: 5.27

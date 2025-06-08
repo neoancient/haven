@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      475 Morrishothiad is a star in the constellation Morrishoth
+      475 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 551.81 ly
 apparent_magnitude: 11.20
 absolute_magnitude: 5.05

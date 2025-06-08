@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2497 Arniad is a star in the constellation Arni
+      2497 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 650.30 ly
 apparent_magnitude: 11.77
 absolute_magnitude: 5.28

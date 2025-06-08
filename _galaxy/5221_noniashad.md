@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5221 Noniashad is a star in the constellation Nonias
+      5221 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 129.46 ly
 apparent_magnitude: 8.59
 absolute_magnitude: 5.59
@@ -31,7 +31,7 @@ planets:
     radius: 6,512.0 km<br/>(1.022 Yrths)
     surface_area: 5.329 × 10<sup>08</sup> km<sup>2</sup><br/>(1.045 Yrths)
     volume: 1.157 × 10<sup>12</sup> km<sup>3</sup><br/>(1.068 Yrths)
-    mass: 7.131 × 10<sup>24</sup> kg<br />(1.1941364760210538 Yrths)
+    mass: 7.131 × 10<sup>24</sup> kg<br />(1.19 Yrths)
     density: 6.165 g/cm<sup>3</sup>
     surface_gravity: 11.209 m/s<sup>2</sup><br />(1.143 g<sub>0</sub>)
     escape_velocity: 12.091 km/s<br />(43,526 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 2,770.1 km<br/>(0.435 Yrths)
         surface_area: 9.643 × 10<sup>07</sup> km<sup>2</sup><br/>(0.189 Yrths)
         volume: 8.904 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
-        mass: 2.753 × 10<sup>23</sup> kg<br />(1.1941364760210538 Yrths)
+        mass: 2.753 × 10<sup>23</sup> kg<br />(0.046 Yrths)
         density: 3.092 g/cm<sup>3</sup>
         surface_gravity: 2.391 m/s<sup>2</sup><br />(0.244 g<sub>0</sub>)
         escape_velocity: 3.642 km/s<br />(13,112 km/h)
         rotation_period: 36.353 d
         axial_tilt: 15.50°
         albedo: 0.30
-        temperature: 4574 K<br />(4301 °C)
+        temperature: 342 K<br />(68 °C)
   - name: 5221 Noniashad II
     type: Gas giant
     aphelion: 102,036,661 km<br />0.682 AU
@@ -71,7 +71,7 @@ planets:
     radius: 143.7 km<br/>(0.023 Yrths)
     surface_area: 2.593 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.242 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.812 × 10<sup>26</sup> kg<br />(47.09453611000485 Yrths)
+    mass: 2.812 × 10<sup>26</sup> kg<br />(47.09 Yrths)
     density: 22649897.240 g/cm<sup>3</sup>
     surface_gravity: 908411.781 m/s<sup>2</sup><br />(92632.222 g<sub>0</sub>)
     escape_velocity: 511.219 km/s<br />(1,840,389 km/h)
@@ -92,14 +92,14 @@ planets:
         radius: 42,308.7 km<br/>(6.641 Yrths)
         surface_area: 2.249 × 10<sup>10</sup> km<sup>2</sup><br/>(44.101 Yrths)
         volume: 3.172 × 10<sup>14</sup> km<sup>3</sup><br/>(292.865 Yrths)
-        mass: 5.781 × 10<sup>26</sup> kg<br />(47.09453611000485 Yrths)
+        mass: 5.781 × 10<sup>26</sup> kg<br />(96.795 Yrths)
         density: 1.822 g/cm<sup>3</sup>
         surface_gravity: 21.524 m/s<sup>2</sup><br />(2.195 g<sub>0</sub>)
         escape_velocity: 42.706 km/s<br />(153,741 km/h)
         rotation_period: 72.287 d
         axial_tilt: 15.31°
         albedo: 0.30
-        temperature: 1560 K<br />(1287 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 5221 Noniashad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 41,656.0 km<br/>(6.538 Yrths)
         surface_area: 2.181 × 10<sup>10</sup> km<sup>2</sup><br/>(42.750 Yrths)
         volume: 3.028 × 10<sup>14</sup> km<sup>3</sup><br/>(279.517 Yrths)
-        mass: 6.618 × 10<sup>26</sup> kg<br />(47.09453611000485 Yrths)
+        mass: 6.618 × 10<sup>26</sup> kg<br />(110.813 Yrths)
         density: 2.186 g/cm<sup>3</sup>
         surface_gravity: 25.420 m/s<sup>2</sup><br />(2.592 g<sub>0</sub>)
         escape_velocity: 46.050 km/s<br />(165,782 km/h)
         rotation_period: 52.598 d
         axial_tilt: 26.19°
         albedo: 0.30
-        temperature: 1353 K<br />(1079 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 5221 Noniashad II c
         type: Rocky
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 34,952.9 km<br/>(5.486 Yrths)
         surface_area: 1.535 × 10<sup>10</sup> km<sup>2</sup><br/>(30.099 Yrths)
         volume: 1.789 × 10<sup>14</sup> km<sup>3</sup><br/>(165.130 Yrths)
-        mass: 5.094 × 10<sup>26</sup> kg<br />(47.09453611000485 Yrths)
+        mass: 5.094 × 10<sup>26</sup> kg<br />(85.295 Yrths)
         density: 2.848 g/cm<sup>3</sup>
         surface_gravity: 27.790 m/s<sup>2</sup><br />(2.834 g<sub>0</sub>)
         escape_velocity: 44.106 km/s<br />(158,781 km/h)
         rotation_period: 47.467 d
         axial_tilt: 11.34°
         albedo: 0.30
-        temperature: 1230 K<br />(956 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 5221 Noniashad II d
         type: Icy
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 40,971.1 km<br/>(6.431 Yrths)
         surface_area: 2.109 × 10<sup>10</sup> km<sup>2</sup><br/>(41.356 Yrths)
         volume: 2.881 × 10<sup>14</sup> km<sup>3</sup><br/>(265.956 Yrths)
-        mass: 5.474 × 10<sup>26</sup> kg<br />(47.09453611000485 Yrths)
+        mass: 5.474 × 10<sup>26</sup> kg<br />(91.655 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 21.734 m/s<sup>2</sup><br />(2.216 g<sub>0</sub>)
         escape_velocity: 42.230 km/s<br />(152,026 km/h)
         rotation_period: 42.863 d
         axial_tilt: 19.46°
         albedo: 0.30
-        temperature: 924 K<br />(651 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 5221 Noniashad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -172,14 +172,14 @@ planets:
         radius: 51,526.1 km<br/>(8.088 Yrths)
         surface_area: 3.336 × 10<sup>10</sup> km<sup>2</sup><br/>(65.409 Yrths)
         volume: 5.730 × 10<sup>14</sup> km<sup>3</sup><br/>(529.005 Yrths)
-        mass: 1.416 × 10<sup>27</sup> kg<br />(47.09453611000485 Yrths)
+        mass: 1.416 × 10<sup>27</sup> kg<br />(237.174 Yrths)
         density: 2.472 g/cm<sup>3</sup>
         surface_gravity: 35.559 m/s<sup>2</sup><br />(3.626 g<sub>0</sub>)
         escape_velocity: 60.576 km/s<br />(218,072 km/h)
         rotation_period: 31.603 d
         axial_tilt: 12.66°
         albedo: 0.30
-        temperature: 881 K<br />(608 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 5221 Noniashad II f
         type: Icy
         formationType: Captured
@@ -192,14 +192,14 @@ planets:
         radius: 56,694.9 km<br/>(8.899 Yrths)
         surface_area: 4.039 × 10<sup>10</sup> km<sup>2</sup><br/>(79.191 Yrths)
         volume: 7.633 × 10<sup>14</sup> km<sup>3</sup><br/>(704.709 Yrths)
-        mass: 9.972 × 10<sup>26</sup> kg<br />(47.09453611000485 Yrths)
+        mass: 9.972 × 10<sup>26</sup> kg<br />(166.981 Yrths)
         density: 1.306 g/cm<sup>3</sup>
         surface_gravity: 20.678 m/s<sup>2</sup><br />(2.109 g<sub>0</sub>)
         escape_velocity: 48.455 km/s<br />(174,438 km/h)
         rotation_period: 84.209 d
         axial_tilt: 12.34°
         albedo: 0.30
-        temperature: 728 K<br />(455 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 5221 Noniashad II g
         type: Ice/rock hybrid
         formationType: Captured
@@ -212,14 +212,14 @@ planets:
         radius: 43,310.2 km<br/>(6.798 Yrths)
         surface_area: 2.357 × 10<sup>10</sup> km<sup>2</sup><br/>(46.213 Yrths)
         volume: 3.403 × 10<sup>14</sup> km<sup>3</sup><br/>(314.157 Yrths)
-        mass: 6.821 × 10<sup>26</sup> kg<br />(47.09453611000485 Yrths)
+        mass: 6.821 × 10<sup>26</sup> kg<br />(114.224 Yrths)
         density: 2.005 g/cm<sup>3</sup>
         surface_gravity: 24.239 m/s<sup>2</sup><br />(2.472 g<sub>0</sub>)
         escape_velocity: 45.852 km/s<br />(165,068 km/h)
         rotation_period: 44.704 d
         axial_tilt: 12.20°
         albedo: 0.30
-        temperature: 547 K<br />(274 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 5221 Noniashad II h
         type: Icy
         formationType: Captured
@@ -232,14 +232,14 @@ planets:
         radius: 104,195.8 km<br/>(16.355 Yrths)
         surface_area: 1.364 × 10<sup>11</sup> km<sup>2</sup><br/>(267.476 Yrths)
         volume: 4.738 × 10<sup>15</sup> km<sup>3</sup><br/>(4374.500 Yrths)
-        mass: 7.481 × 10<sup>27</sup> kg<br />(47.09453611000485 Yrths)
+        mass: 7.481 × 10<sup>27</sup> kg<br />(1252.690 Yrths)
         density: 1.579 g/cm<sup>3</sup>
         surface_gravity: 45.928 m/s<sup>2</sup><br />(4.683 g<sub>0</sub>)
         escape_velocity: 97.898 km/s<br />(352,433 km/h)
         rotation_period: 72.185 d
         axial_tilt: 8.49°
         albedo: 0.30
-        temperature: 392 K<br />(119 °C)
+        temperature: 273 K<br />(-0 °C)
   - name: 5221 Noniashad III
     type: Terrestrial
     aphelion: 149,598,529 km<br />1.000 AU
@@ -251,7 +251,7 @@ planets:
     radius: 6,105.1 km<br/>(0.958 Yrths)
     surface_area: 4.684 × 10<sup>08</sup> km<sup>2</sup><br/>(0.918 Yrths)
     volume: 9.532 × 10<sup>11</sup> km<sup>3</sup><br/>(0.880 Yrths)
-    mass: 5.900 × 10<sup>24</sup> kg<br />(0.987971222725885 Yrths)
+    mass: 5.900 × 10<sup>24</sup> kg<br />(0.99 Yrths)
     density: 6.190 g/cm<sup>3</sup>
     surface_gravity: 10.551 m/s<sup>2</sup><br />(1.076 g<sub>0</sub>)
     escape_velocity: 11.358 km/s<br />(40,889 km/h)
@@ -272,14 +272,14 @@ planets:
         radius: 2,170.4 km<br/>(0.341 Yrths)
         surface_area: 5.920 × 10<sup>07</sup> km<sup>2</sup><br/>(0.116 Yrths)
         volume: 4.283 × 10<sup>10</sup> km<sup>3</sup><br/>(0.040 Yrths)
-        mass: 1.048 × 10<sup>23</sup> kg<br />(0.987971222725885 Yrths)
+        mass: 1.048 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 2.446 g/cm<sup>3</sup>
         surface_gravity: 1.482 m/s<sup>2</sup><br />(0.151 g<sub>0</sub>)
         escape_velocity: 2.538 km/s<br />(9,138 km/h)
         rotation_period: 47.133 d
         axial_tilt: 8.75°
         albedo: 0.30
-        temperature: 3012 K<br />(2739 °C)
+        temperature: 218 K<br />(-55 °C)
       - name: 5221 Noniashad III b
         type: Asteroid
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 2,784.1 km<br/>(0.437 Yrths)
         surface_area: 9.740 × 10<sup>07</sup> km<sup>2</sup><br/>(0.191 Yrths)
         volume: 9.040 × 10<sup>10</sup> km<sup>3</sup><br/>(0.083 Yrths)
-        mass: 2.122 × 10<sup>23</sup> kg<br />(0.987971222725885 Yrths)
+        mass: 2.122 × 10<sup>23</sup> kg<br />(0.036 Yrths)
         density: 2.347 g/cm<sup>3</sup>
         surface_gravity: 1.825 m/s<sup>2</sup><br />(0.186 g<sub>0</sub>)
         escape_velocity: 3.190 km/s<br />(11,482 km/h)
         rotation_period: 54.943 d
         axial_tilt: 52.29°
         albedo: 0.30
-        temperature: 2872 K<br />(2599 °C)
+        temperature: 218 K<br />(-55 °C)
   - name: 5221 Noniashad IV
     type: Gas giant
     aphelion: 234,459,205 km<br />1.567 AU
@@ -311,7 +311,7 @@ planets:
     radius: 187.8 km<br/>(0.029 Yrths)
     surface_area: 4.432 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.775 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.960 × 10<sup>26</sup> kg<br />(133.29645411708677 Yrths)
+    mass: 7.960 × 10<sup>26</sup> kg<br />(133.30 Yrths)
     density: 28688489.212 g/cm<sup>3</sup>
     surface_gravity: 1504272.133 m/s<sup>2</sup><br />(153393.068 g<sub>0</sub>)
     escape_velocity: 752.194 km/s<br />(2,707,899 km/h)
@@ -332,14 +332,14 @@ planets:
         radius: 105,225.1 km<br/>(16.516 Yrths)
         surface_area: 1.391 × 10<sup>11</sup> km<sup>2</sup><br/>(272.787 Yrths)
         volume: 4.880 × 10<sup>15</sup> km<sup>3</sup><br/>(4505.415 Yrths)
-        mass: 1.406 × 10<sup>28</sup> kg<br />(133.29645411708677 Yrths)
+        mass: 1.406 × 10<sup>28</sup> kg<br />(2353.960 Yrths)
         density: 2.881 g/cm<sup>3</sup>
         surface_gravity: 84.625 m/s<sup>2</sup><br />(8.629 g<sub>0</sub>)
         escape_velocity: 133.542 km/s<br />(480,751 km/h)
         rotation_period: 51.886 d
         axial_tilt: 54.29°
         albedo: 0.30
-        temperature: 921 K<br />(648 °C)
+        temperature: 174 K<br />(-99 °C)
       - name: 5221 Noniashad IV b
         type: Icy
         formationType: Accreted
@@ -352,14 +352,14 @@ planets:
         radius: 105,719.8 km<br/>(16.594 Yrths)
         surface_area: 1.405 × 10<sup>11</sup> km<sup>2</sup><br/>(275.358 Yrths)
         volume: 4.949 × 10<sup>15</sup> km<sup>3</sup><br/>(4569.260 Yrths)
-        mass: 7.594 × 10<sup>27</sup> kg<br />(133.29645411708677 Yrths)
+        mass: 7.594 × 10<sup>27</sup> kg<br />(1271.653 Yrths)
         density: 1.534 g/cm<sup>3</sup>
         surface_gravity: 45.289 m/s<sup>2</sup><br />(4.618 g<sub>0</sub>)
         escape_velocity: 97.923 km/s<br />(352,522 km/h)
         rotation_period: 45.889 d
         axial_tilt: 12.18°
         albedo: 0.30
-        temperature: 878 K<br />(605 °C)
+        temperature: 174 K<br />(-99 °C)
       - name: 5221 Noniashad IV c
         type: Asteroid
         formationType: Captured
@@ -372,14 +372,14 @@ planets:
         radius: 97,008.5 km<br/>(15.227 Yrths)
         surface_area: 1.183 × 10<sup>11</sup> km<sup>2</sup><br/>(231.848 Yrths)
         volume: 3.824 × 10<sup>15</sup> km<sup>3</sup><br/>(3530.256 Yrths)
-        mass: 1.317 × 10<sup>28</sup> kg<br />(133.29645411708677 Yrths)
+        mass: 1.317 × 10<sup>28</sup> kg<br />(2204.486 Yrths)
         density: 3.443 g/cm<sup>3</sup>
         surface_gravity: 93.245 m/s<sup>2</sup><br />(9.508 g<sub>0</sub>)
         escape_velocity: 134.594 km/s<br />(484,539 km/h)
         rotation_period: 34.656 d
         axial_tilt: 42.83°
         albedo: 0.30
-        temperature: 629 K<br />(356 °C)
+        temperature: 174 K<br />(-99 °C)
       - name: 5221 Noniashad IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -392,14 +392,14 @@ planets:
         radius: 105,952.6 km<br/>(16.630 Yrths)
         surface_area: 1.411 × 10<sup>11</sup> km<sup>2</sup><br/>(276.572 Yrths)
         volume: 4.982 × 10<sup>15</sup> km<sup>3</sup><br/>(4599.513 Yrths)
-        mass: 1.168 × 10<sup>28</sup> kg<br />(133.29645411708677 Yrths)
+        mass: 1.168 × 10<sup>28</sup> kg<br />(1956.579 Yrths)
         density: 2.345 g/cm<sup>3</sup>
         surface_gravity: 69.376 m/s<sup>2</sup><br />(7.074 g<sub>0</sub>)
         escape_velocity: 121.331 km/s<br />(436,791 km/h)
         rotation_period: 52.080 d
         axial_tilt: 10.39°
         albedo: 0.30
-        temperature: 410 K<br />(136 °C)
+        temperature: 174 K<br />(-99 °C)
       - name: 5221 Noniashad IV e
         type: Rocky
         formationType: Accreted
@@ -412,14 +412,14 @@ planets:
         radius: 102,355.6 km<br/>(16.066 Yrths)
         surface_area: 1.317 × 10<sup>11</sup> km<sup>2</sup><br/>(258.112 Yrths)
         volume: 4.492 × 10<sup>15</sup> km<sup>3</sup><br/>(4146.784 Yrths)
-        mass: 1.579 × 10<sup>28</sup> kg<br />(133.29645411708677 Yrths)
+        mass: 1.579 × 10<sup>28</sup> kg<br />(2643.907 Yrths)
         density: 3.515 g/cm<sup>3</sup>
         surface_gravity: 100.452 m/s<sup>2</sup><br />(10.243 g<sub>0</sub>)
         escape_velocity: 143.498 km/s<br />(516,592 km/h)
         rotation_period: 33.048 d
         axial_tilt: 8.33°
         albedo: 0.30
-        temperature: 308 K<br />(35 °C)
+        temperature: 174 K<br />(-99 °C)
   - name: 5221 Noniashad V
     type: Gas giant
     aphelion: 373,974,508 km<br />2.500 AU
@@ -431,14 +431,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.894 g/cm<sup>3</sup>
     surface_gravity: 31873.850 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 425 K<br />(152 °C)
+    temperature: 399 K<br />(125 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -454,14 +454,14 @@ planets:
         radius: 990.7 km<br/>(0.155 Yrths)
         surface_area: 1.233 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 4.073 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 8.911 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 8.911 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.188 g/cm<sup>3</sup>
         surface_gravity: 0.605 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 1.096 km/s<br />(3,945 km/h)
         rotation_period: 43.570 d
         axial_tilt: 11.37°
         albedo: 0.30
-        temperature: 2218 K<br />(1945 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5221 Noniashad V b
         type: Icy
         formationType: Impact formed
@@ -474,14 +474,14 @@ planets:
         radius: 1,025.5 km<br/>(0.161 Yrths)
         surface_area: 1.321 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.517 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 3.162 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.162 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.200 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.642 km/s<br />(2,310 km/h)
         rotation_period: 76.290 d
         axial_tilt: 12.02°
         albedo: 0.30
-        temperature: 1445 K<br />(1171 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5221 Noniashad V c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -494,14 +494,14 @@ planets:
         radius: 557.1 km<br/>(0.087 Yrths)
         surface_area: 3.900 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.243 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.566 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.566 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.162 g/cm<sup>3</sup>
         surface_gravity: 0.336 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.612 km/s<br />(2,205 km/h)
         rotation_period: 35.211 d
         axial_tilt: 25.19°
         albedo: 0.30
-        temperature: 1252 K<br />(979 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5221 Noniashad V d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -514,14 +514,14 @@ planets:
         radius: 727.9 km<br/>(0.114 Yrths)
         surface_area: 6.658 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.615 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 4.155 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.155 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.573 g/cm<sup>3</sup>
         surface_gravity: 0.523 m/s<sup>2</sup><br />(0.053 g<sub>0</sub>)
         escape_velocity: 0.873 km/s<br />(3,143 km/h)
         rotation_period: 37.806 d
         axial_tilt: 25.68°
         albedo: 0.30
-        temperature: 1138 K<br />(865 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5221 Noniashad V e
         type: Icy
         formationType: Impact formed
@@ -534,14 +534,14 @@ planets:
         radius: 720.9 km<br/>(0.113 Yrths)
         surface_area: 6.530 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.569 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.874 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.874 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.194 g/cm<sup>3</sup>
         surface_gravity: 0.240 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.589 km/s<br />(2,121 km/h)
         rotation_period: 46.950 d
         axial_tilt: 23.79°
         albedo: 0.30
-        temperature: 1085 K<br />(812 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5221 Noniashad V f
         type: Icy
         formationType: Accreted
@@ -554,14 +554,14 @@ planets:
         radius: 593.9 km<br/>(0.093 Yrths)
         surface_area: 4.433 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.775 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.650 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.650 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.880 g/cm<sup>3</sup>
         surface_gravity: 0.312 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.609 km/s<br />(2,192 km/h)
         rotation_period: 67.719 d
         axial_tilt: 14.51°
         albedo: 0.30
-        temperature: 941 K<br />(668 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5221 Noniashad V g
         type: Icy
         formationType: Accreted
@@ -574,14 +574,14 @@ planets:
         radius: 822.4 km<br/>(0.129 Yrths)
         surface_area: 8.498 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.330 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.331 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.331 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.001 g/cm<sup>3</sup>
         surface_gravity: 0.230 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.615 km/s<br />(2,214 km/h)
         rotation_period: 98.966 d
         axial_tilt: 18.86°
         albedo: 0.30
-        temperature: 777 K<br />(504 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5221 Noniashad V h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -594,14 +594,14 @@ planets:
         radius: 727.7 km<br/>(0.114 Yrths)
         surface_area: 6.654 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.614 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.099 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.099 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.920 g/cm<sup>3</sup>
         surface_gravity: 0.390 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.754 km/s<br />(2,714 km/h)
         rotation_period: 54.468 d
         axial_tilt: 24.46°
         albedo: 0.30
-        temperature: 707 K<br />(434 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5221 Noniashad V i
         type: Rocky
         formationType: Impact formed
@@ -614,14 +614,14 @@ planets:
         radius: 906.4 km<br/>(0.142 Yrths)
         surface_area: 1.032 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.119 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 7.741 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.741 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.482 g/cm<sup>3</sup>
         surface_gravity: 0.628 m/s<sup>2</sup><br />(0.064 g<sub>0</sub>)
         escape_velocity: 1.068 km/s<br />(3,844 km/h)
         rotation_period: 55.349 d
         axial_tilt: 10.76°
         albedo: 0.30
-        temperature: 418 K<br />(145 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5221 Noniashad V j
         type: Asteroid
         formationType: Captured
@@ -634,12 +634,12 @@ planets:
         radius: 545.8 km<br/>(0.086 Yrths)
         surface_area: 3.743 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.810 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.975 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.975 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.900 g/cm<sup>3</sup>
         surface_gravity: 0.442 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 0.695 km/s<br />(2,502 km/h)
         rotation_period: 34.497 d
         axial_tilt: 32.21°
         albedo: 0.30
-        temperature: 399 K<br />(126 °C)
+        temperature: 139 K<br />(-134 °C)
 ---

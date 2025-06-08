@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      20342 Narashiad is a star in the constellation Naras
+      20342 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 547.81 ly
 apparent_magnitude: 9.85
 absolute_magnitude: 3.72

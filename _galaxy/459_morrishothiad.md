@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      459 Morrishothiad is a star in the constellation Morrishoth
+      459 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 664.53 ly
 apparent_magnitude: 12.22
 absolute_magnitude: 5.67

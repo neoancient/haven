@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0014 Erkiderniad is a star in the constellation Erkidern
+      0014 Erkiderniad is a star in the constellation <a href="erkidern.html">Erkidern</a>
 distance: 519.60 ly
 apparent_magnitude: 5.94
 absolute_magnitude: -0.07
@@ -31,14 +31,14 @@ planets:
     radius: 11,472.8 km<br/>(1.801 Yrths)
     surface_area: 1.654 × 10<sup>09</sup> km<sup>2</sup><br/>(3.243 Yrths)
     volume: 6.326 × 10<sup>12</sup> km<sup>3</sup><br/>(5.840 Yrths)
-    mass: 4.113 × 10<sup>25</sup> kg<br />(6.886487446230129 Yrths)
+    mass: 4.113 × 10<sup>25</sup> kg<br />(6.89 Yrths)
     density: 6.502 g/cm<sup>3</sup>
     surface_gravity: 20.825 m/s<sup>2</sup><br />(2.124 g<sub>0</sub>)
     escape_velocity: 21.875 km/s<br />(78,749 km/h)
     rotation_period: 0.570 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 1010 K<br />(737 °C)
+    temperature: 2255 K<br />(1982 °C)
     surface_pressure: 2,295 kPa<br />(23 atm)
     composition:
       - 57.8487% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 13,758.0 km<br/>(2.159 Yrths)
         surface_area: 2.379 × 10<sup>09</sup> km<sup>2</sup><br/>(4.663 Yrths)
         volume: 1.091 × 10<sup>13</sup> km<sup>3</sup><br/>(10.070 Yrths)
-        mass: 9.736 × 10<sup>24</sup> kg<br />(6.886487446230129 Yrths)
+        mass: 9.736 × 10<sup>24</sup> kg<br />(1.630 Yrths)
         density: 0.893 g/cm<sup>3</sup>
         surface_gravity: 3.429 m/s<sup>2</sup><br />(0.350 g<sub>0</sub>)
         escape_velocity: 9.719 km/s<br />(34,990 km/h)
         rotation_period: 98.282 d
         axial_tilt: 11.26°
         albedo: 0.30
-        temperature: 7878 K<br />(7605 °C)
+        temperature: 577 K<br />(304 °C)
       - name: 0014 Erkiderniad I b
         type: Icy
         formationType: Impact formed
@@ -77,12 +77,12 @@ planets:
         radius: 8,200.5 km<br/>(1.287 Yrths)
         surface_area: 8.451 × 10<sup>08</sup> km<sup>2</sup><br/>(1.657 Yrths)
         volume: 2.310 × 10<sup>12</sup> km<sup>3</sup><br/>(2.133 Yrths)
-        mass: 1.617 × 10<sup>24</sup> kg<br />(6.886487446230129 Yrths)
+        mass: 1.617 × 10<sup>24</sup> kg<br />(0.271 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 1.603 m/s<sup>2</sup><br />(0.163 g<sub>0</sub>)
         escape_velocity: 5.130 km/s<br />(18,469 km/h)
         rotation_period: 68.531 d
         axial_tilt: 10.99°
         albedo: 0.30
-        temperature: 7511 K<br />(7238 °C)
+        temperature: 577 K<br />(304 °C)
 ---

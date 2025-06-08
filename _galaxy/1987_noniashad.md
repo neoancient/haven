@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1987 Noniashad is a star in the constellation Nonias
+      1987 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 648.74 ly
 apparent_magnitude: 12.46
 absolute_magnitude: 5.97

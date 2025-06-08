@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12035 Tanashad A is a star in the constellation Tanas
+      12035 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 256.93 ly
 apparent_magnitude: 9.61
 absolute_magnitude: 5.13

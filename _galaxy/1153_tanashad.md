@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1153 Tanashad is a star in the constellation Tanas
+      1153 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 948.80 ly
 apparent_magnitude: 12.53
 absolute_magnitude: 5.21

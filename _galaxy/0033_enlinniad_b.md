@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0033 Enlinniad B is a star in the constellation Enlin
+      0033 Enlinniad B is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 166.98 ly
 apparent_magnitude: 8.81
 absolute_magnitude: 5.27

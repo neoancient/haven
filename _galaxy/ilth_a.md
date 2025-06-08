@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ilth A is a star in the constellation Rukentua
+      Ilth A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 2008.99 ly
 apparent_magnitude: 2.46
 absolute_magnitude: -6.48

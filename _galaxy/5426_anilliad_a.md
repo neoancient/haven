@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5426 Anilliad A is a star in the constellation Anil
+      5426 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 745.96 ly
 apparent_magnitude: 6.90
 absolute_magnitude: 0.10

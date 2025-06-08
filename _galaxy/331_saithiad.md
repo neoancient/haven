@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      331 Saithiad is a star in the constellation Saith
+      331 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 907.07 ly
 apparent_magnitude: 11.41
 absolute_magnitude: 4.19

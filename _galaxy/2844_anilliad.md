@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2844 Anilliad is a star in the constellation Anil
+      2844 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 486.83 ly
 apparent_magnitude: 11.49
 absolute_magnitude: 5.62

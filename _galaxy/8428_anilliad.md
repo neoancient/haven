@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8428 Anilliad is a star in the constellation Anil
+      8428 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 754.29 ly
 apparent_magnitude: 8.40
 absolute_magnitude: 1.58

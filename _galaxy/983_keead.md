@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      983 Keead is a star in the constellation Kee
+      983 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1236.03 ly
 apparent_magnitude: 17.33
 absolute_magnitude: 9.43

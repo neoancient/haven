@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      506 Switheriad A is a star in the constellation Swither
+      506 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 542.09 ly
 apparent_magnitude: 7.11
 absolute_magnitude: 1.01

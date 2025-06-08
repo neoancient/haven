@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1988 Noniashad is a star in the constellation Nonias
+      1988 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 1042.57 ly
 apparent_magnitude: 12.36
 absolute_magnitude: 4.84

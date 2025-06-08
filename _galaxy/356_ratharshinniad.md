@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      356 Ratharshinniad is a star in the constellation Ratharshin
+      356 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 598.70 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 5.00

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0007 Ricksonniad is a star in the constellation Rickson
+      0007 Ricksonniad is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 363.13 ly
 apparent_magnitude: 6.46
 absolute_magnitude: 1.23
@@ -31,7 +31,7 @@ planets:
     radius: 234.8 km<br/>(0.037 Yrths)
     surface_area: 6.926 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.420 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.138 × 10<sup>27</sup> kg<br />(358.0236863290059 Yrths)
+    mass: 2.138 × 10<sup>27</sup> kg<br />(358.02 Yrths)
     density: 39451339.923 g/cm<sup>3</sup>
     surface_gravity: 2585791.586 m/s<sup>2</sup><br />(263677.360 g<sub>0</sub>)
     escape_velocity: 1102.605 km/s<br />(3,969,379 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 238,945.6 km<br/>(37.505 Yrths)
         surface_area: 7.175 × 10<sup>11</sup> km<sup>2</sup><br/>(1406.640 Yrths)
         volume: 5.715 × 10<sup>16</sup> km<sup>3</sup><br/>(52756.295 Yrths)
-        mass: 1.208 × 10<sup>29</sup> kg<br />(358.0236863290059 Yrths)
+        mass: 1.208 × 10<sup>29</sup> kg<br />(20227.060 Yrths)
         density: 2.114 g/cm<sup>3</sup>
         surface_gravity: 141.017 m/s<sup>2</sup><br />(14.380 g<sub>0</sub>)
         escape_velocity: 259.773 km/s<br />(935,184 km/h)
         rotation_period: 45.183 d
         axial_tilt: 14.44°
         albedo: 0.30
-        temperature: 1748 K<br />(1475 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 0007 Ricksonniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 203,781.7 km<br/>(31.986 Yrths)
         surface_area: 5.218 × 10<sup>11</sup> km<sup>2</sup><br/>(1023.093 Yrths)
         volume: 3.545 × 10<sup>16</sup> km<sup>3</sup><br/>(32724.496 Yrths)
-        mass: 9.406 × 10<sup>28</sup> kg<br />(358.0236863290059 Yrths)
+        mass: 9.406 × 10<sup>28</sup> kg<br />(15749.645 Yrths)
         density: 2.653 g/cm<sup>3</sup>
         surface_gravity: 150.965 m/s<sup>2</sup><br />(15.394 g<sub>0</sub>)
         escape_velocity: 248.216 km/s<br />(893,579 km/h)
         rotation_period: 34.892 d
         axial_tilt: 17.12°
         albedo: 0.30
-        temperature: 1515 K<br />(1242 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 0007 Ricksonniad I c
         type: Dwarf planet
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 140,366.0 km<br/>(22.032 Yrths)
         surface_area: 2.476 × 10<sup>11</sup> km<sup>2</sup><br/>(485.410 Yrths)
         volume: 1.158 × 10<sup>16</sup> km<sup>3</sup><br/>(10694.562 Yrths)
-        mass: 2.860 × 10<sup>28</sup> kg<br />(358.0236863290059 Yrths)
+        mass: 2.860 × 10<sup>28</sup> kg<br />(4788.996 Yrths)
         density: 2.469 g/cm<sup>3</sup>
         surface_gravity: 96.751 m/s<sup>2</sup><br />(9.866 g<sub>0</sub>)
         escape_velocity: 164.918 km/s<br />(593,706 km/h)
         rotation_period: 40.168 d
         axial_tilt: 46.50°
         albedo: 0.30
-        temperature: 1445 K<br />(1172 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 0007 Ricksonniad I d
         type: Icy
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 156,164.2 km<br/>(24.512 Yrths)
         surface_area: 3.065 × 10<sup>11</sup> km<sup>2</sup><br/>(600.824 Yrths)
         volume: 1.595 × 10<sup>16</sup> km<sup>3</sup><br/>(14727.240 Yrths)
-        mass: 2.074 × 10<sup>28</sup> kg<br />(358.0236863290059 Yrths)
+        mass: 2.074 × 10<sup>28</sup> kg<br />(3472.176 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 56.673 m/s<sup>2</sup><br />(5.779 g<sub>0</sub>)
         escape_velocity: 133.134 km/s<br />(479,281 km/h)
         rotation_period: 44.268 d
         axial_tilt: 23.77°
         albedo: 0.30
-        temperature: 1194 K<br />(921 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 0007 Ricksonniad I e
         type: Dwarf planet
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 171,667.2 km<br/>(26.945 Yrths)
         surface_area: 3.703 × 10<sup>11</sup> km<sup>2</sup><br/>(726.038 Yrths)
         volume: 2.119 × 10<sup>16</sup> km<sup>3</sup><br/>(19563.177 Yrths)
-        mass: 3.877 × 10<sup>28</sup> kg<br />(358.0236863290059 Yrths)
+        mass: 3.877 × 10<sup>28</sup> kg<br />(6492.492 Yrths)
         density: 1.830 g/cm<sup>3</sup>
         surface_gravity: 87.695 m/s<sup>2</sup><br />(8.942 g<sub>0</sub>)
         escape_velocity: 173.636 km/s<br />(625,090 km/h)
         rotation_period: 53.175 d
         axial_tilt: 26.02°
         albedo: 0.30
-        temperature: 1138 K<br />(865 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 0007 Ricksonniad I f
         type: Rocky
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 138,319.5 km<br/>(21.711 Yrths)
         surface_area: 2.404 × 10<sup>11</sup> km<sup>2</sup><br/>(471.359 Yrths)
         volume: 1.109 × 10<sup>16</sup> km<sup>3</sup><br/>(10233.579 Yrths)
-        mass: 3.467 × 10<sup>28</sup> kg<br />(358.0236863290059 Yrths)
+        mass: 3.467 × 10<sup>28</sup> kg<br />(5804.965 Yrths)
         density: 3.127 g/cm<sup>3</sup>
         surface_gravity: 120.773 m/s<sup>2</sup><br />(12.315 g<sub>0</sub>)
         escape_velocity: 182.909 km/s<br />(658,474 km/h)
         rotation_period: 51.242 d
         axial_tilt: 17.40°
         albedo: 0.30
-        temperature: 987 K<br />(714 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 0007 Ricksonniad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 169,109.8 km<br/>(26.544 Yrths)
         surface_area: 3.594 × 10<sup>11</sup> km<sup>2</sup><br/>(704.567 Yrths)
         volume: 2.026 × 10<sup>16</sup> km<sup>3</sup><br/>(18701.794 Yrths)
-        mass: 3.726 × 10<sup>28</sup> kg<br />(358.0236863290059 Yrths)
+        mass: 3.726 × 10<sup>28</sup> kg<br />(6238.847 Yrths)
         density: 1.839 g/cm<sup>3</sup>
         surface_gravity: 86.837 m/s<sup>2</sup><br />(8.855 g<sub>0</sub>)
         escape_velocity: 171.493 km/s<br />(617,374 km/h)
         rotation_period: 72.008 d
         axial_tilt: 19.52°
         albedo: 0.30
-        temperature: 941 K<br />(668 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 0007 Ricksonniad I h
         type: Icy
         formationType: Accreted
@@ -192,14 +192,14 @@ planets:
         radius: 178,711.1 km<br/>(28.051 Yrths)
         surface_area: 4.013 × 10<sup>11</sup> km<sup>2</sup><br/>(786.843 Yrths)
         volume: 2.391 × 10<sup>16</sup> km<sup>3</sup><br/>(22071.503 Yrths)
-        mass: 2.712 × 10<sup>28</sup> kg<br />(358.0236863290059 Yrths)
+        mass: 2.712 × 10<sup>28</sup> kg<br />(4540.488 Yrths)
         density: 1.134 g/cm<sup>3</sup>
         surface_gravity: 56.589 m/s<sup>2</sup><br />(5.771 g<sub>0</sub>)
         escape_velocity: 142.316 km/s<br />(512,337 km/h)
         rotation_period: 87.449 d
         axial_tilt: 23.30°
         albedo: 0.30
-        temperature: 816 K<br />(542 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 0007 Ricksonniad I i
         type: Icy
         formationType: Accreted
@@ -212,14 +212,14 @@ planets:
         radius: 299,707.7 km<br/>(47.042 Yrths)
         surface_area: 1.129 × 10<sup>12</sup> km<sup>2</sup><br/>(2212.995 Yrths)
         volume: 1.128 × 10<sup>17</sup> km<sup>3</sup><br/>(104104.784 Yrths)
-        mass: 1.016 × 10<sup>29</sup> kg<br />(358.0236863290059 Yrths)
+        mass: 1.016 × 10<sup>29</sup> kg<br />(17016.580 Yrths)
         density: 0.901 g/cm<sup>3</sup>
         surface_gravity: 75.407 m/s<sup>2</sup><br />(7.689 g<sub>0</sub>)
         escape_velocity: 212.748 km/s<br />(765,892 km/h)
         rotation_period: 64.004 d
         axial_tilt: 21.57°
         albedo: 0.30
-        temperature: 584 K<br />(311 °C)
+        temperature: 304 K<br />(31 °C)
   - name: 0007 Ricksonniad II
     type: Terrestrial
     aphelion: 1,337,004,234 km<br />8.937 AU
@@ -231,7 +231,7 @@ planets:
     radius: 8,188.5 km<br/>(1.285 Yrths)
     surface_area: 8.426 × 10<sup>08</sup> km<sup>2</sup><br/>(1.652 Yrths)
     volume: 2.300 × 10<sup>12</sup> km<sup>3</sup><br/>(2.123 Yrths)
-    mass: 1.163 × 10<sup>25</sup> kg<br />(1.9468350851825786 Yrths)
+    mass: 1.163 × 10<sup>25</sup> kg<br />(1.95 Yrths)
     density: 5.055 g/cm<sup>3</sup>
     surface_gravity: 11.557 m/s<sup>2</sup><br />(1.179 g<sub>0</sub>)
     escape_velocity: 13.767 km/s<br />(49,561 km/h)
@@ -252,14 +252,14 @@ planets:
         radius: 5,760.9 km<br/>(0.904 Yrths)
         surface_area: 4.171 × 10<sup>08</sup> km<sup>2</sup><br/>(0.818 Yrths)
         volume: 8.009 × 10<sup>11</sup> km<sup>3</sup><br/>(0.739 Yrths)
-        mass: 1.194 × 10<sup>24</sup> kg<br />(1.9468350851825786 Yrths)
+        mass: 1.194 × 10<sup>24</sup> kg<br />(0.200 Yrths)
         density: 1.491 g/cm<sup>3</sup>
         surface_gravity: 2.397 m/s<sup>2</sup><br />(0.244 g<sub>0</sub>)
         escape_velocity: 5.259 km/s<br />(18,934 km/h)
         rotation_period: 64.885 d
         axial_tilt: 11.27°
         albedo: 0.30
-        temperature: 2887 K<br />(2614 °C)
+        temperature: 211 K<br />(-63 °C)
   - name: 0007 Ricksonniad III
     type: Large terrestrial
     aphelion: 2,790,622,032 km<br />18.654 AU
@@ -271,14 +271,14 @@ planets:
     radius: 8,985.4 km<br/>(1.410 Yrths)
     surface_area: 1.015 × 10<sup>09</sup> km<sup>2</sup><br/>(1.989 Yrths)
     volume: 3.039 × 10<sup>12</sup> km<sup>3</sup><br/>(2.805 Yrths)
-    mass: 1.911 × 10<sup>25</sup> kg<br />(3.2002903418876123 Yrths)
+    mass: 1.911 × 10<sup>25</sup> kg<br />(3.20 Yrths)
     density: 6.289 g/cm<sup>3</sup>
     surface_gravity: 15.778 m/s<sup>2</sup><br />(1.609 g<sub>0</sub>)
     escape_velocity: 16.850 km/s<br />(60,661 km/h)
     rotation_period: 0.665 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 209 K<br />(-64 °C)
+    temperature: 299 K<br />(26 °C)
     surface_pressure: 582 kPa<br />(6 atm)
     composition:
       - 82.7838% methane
@@ -299,14 +299,14 @@ planets:
         radius: 2,791.6 km<br/>(0.438 Yrths)
         surface_area: 9.793 × 10<sup>07</sup> km<sup>2</sup><br/>(0.192 Yrths)
         volume: 9.113 × 10<sup>10</sup> km<sup>3</sup><br/>(0.084 Yrths)
-        mass: 2.861 × 10<sup>23</sup> kg<br />(3.2002903418876123 Yrths)
+        mass: 2.861 × 10<sup>23</sup> kg<br />(0.048 Yrths)
         density: 3.140 g/cm<sup>3</sup>
         surface_gravity: 2.447 m/s<sup>2</sup><br />(0.250 g<sub>0</sub>)
         escape_velocity: 3.699 km/s<br />(13,316 km/h)
         rotation_period: 39.286 d
         axial_tilt: 17.33°
         albedo: 0.30
-        temperature: 1986 K<br />(1713 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0007 Ricksonniad III b
         type: Rocky
         formationType: Impact formed
@@ -319,14 +319,14 @@ planets:
         radius: 5,752.3 km<br/>(0.903 Yrths)
         surface_area: 4.158 × 10<sup>08</sup> km<sup>2</sup><br/>(0.815 Yrths)
         volume: 7.973 × 10<sup>11</sup> km<sup>3</sup><br/>(0.736 Yrths)
-        mass: 2.177 × 10<sup>24</sup> kg<br />(3.2002903418876123 Yrths)
+        mass: 2.177 × 10<sup>24</sup> kg<br />(0.365 Yrths)
         density: 2.731 g/cm<sup>3</sup>
         surface_gravity: 4.386 m/s<sup>2</sup><br />(0.447 g<sub>0</sub>)
         escape_velocity: 7.108 km/s<br />(25,588 km/h)
         rotation_period: 30.688 d
         axial_tilt: 6.72°
         albedo: 0.30
-        temperature: 1894 K<br />(1621 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0007 Ricksonniad III c
         type: Rocky
         formationType: Accreted
@@ -339,14 +339,14 @@ planets:
         radius: 5,547.3 km<br/>(0.871 Yrths)
         surface_area: 3.867 × 10<sup>08</sup> km<sup>2</sup><br/>(0.758 Yrths)
         volume: 7.151 × 10<sup>11</sup> km<sup>3</sup><br/>(0.660 Yrths)
-        mass: 2.096 × 10<sup>24</sup> kg<br />(3.2002903418876123 Yrths)
+        mass: 2.096 × 10<sup>24</sup> kg<br />(0.351 Yrths)
         density: 2.931 g/cm<sup>3</sup>
         surface_gravity: 4.539 m/s<sup>2</sup><br />(0.463 g<sub>0</sub>)
         escape_velocity: 7.101 km/s<br />(25,565 km/h)
         rotation_period: 34.144 d
         axial_tilt: 12.46°
         albedo: 0.30
-        temperature: 1806 K<br />(1532 °C)
+        temperature: 146 K<br />(-127 °C)
   - name: 0007 Ricksonniad IV
     type: Large terrestrial
     aphelion: 5,380,537,530 km<br />35.966 AU
@@ -358,15 +358,15 @@ planets:
     radius: 2,710.4 km<br/>(0.425 Yrths)
     surface_area: 9.232 × 10<sup>07</sup> km<sup>2</sup><br/>(0.181 Yrths)
     volume: 8.341 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 7.160 g/cm<sup>3</sup>
     surface_gravity: 5.418 m/s<sup>2</sup><br />(0.553 g<sub>0</sub>)
     escape_velocity: 5.423 km/s<br />(19,524 km/h)
     rotation_period: 1.531 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 132 K<br />(-141 °C)
-    surface_pressure: 252 kPa<br />(2 atm)
+    temperature: 149 K<br />(-124 °C)
+    surface_pressure: 252 kPa<br />(3 atm)
     composition:
       - 97.6198% ammonia
       - 1.9276% carbon dioxide
@@ -384,14 +384,14 @@ planets:
         radius: 809.5 km<br/>(0.127 Yrths)
         surface_area: 8.234 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.222 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.155 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.155 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.870 g/cm<sup>3</sup>
         surface_gravity: 0.423 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.828 km/s<br />(2,980 km/h)
         rotation_period: 46.912 d
         axial_tilt: 28.48°
         albedo: 0.30
-        temperature: 2352 K<br />(2079 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0007 Ricksonniad IV b
         type: Rocky
         formationType: Captured
@@ -404,12 +404,12 @@ planets:
         radius: 511.2 km<br/>(0.080 Yrths)
         surface_area: 3.283 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.594 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.561 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.561 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.791 g/cm<sup>3</sup>
         surface_gravity: 0.398 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.639 km/s<br />(2,299 km/h)
         rotation_period: 33.424 d
         axial_tilt: 13.32°
         albedo: 0.30
-        temperature: 2243 K<br />(1970 °C)
+        temperature: 101 K<br />(-172 °C)
 ---

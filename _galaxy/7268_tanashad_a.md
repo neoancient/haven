@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7268 Tanashad A is a star in the constellation Tanas
+      7268 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 171.72 ly
 apparent_magnitude: 7.49
 absolute_magnitude: 3.89

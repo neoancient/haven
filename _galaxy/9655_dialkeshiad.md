@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9655 Dialkeshiad is a star in the constellation Dialkes
+      9655 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 394.17 ly
 apparent_magnitude: 10.44
 absolute_magnitude: 5.03

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1687 Ratharshinniad is a star in the constellation Ratharshin
+      1687 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 245.79 ly
 apparent_magnitude: 17.47
 absolute_magnitude: 13.09

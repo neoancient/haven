@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      391 Morrishothiad is a star in the constellation Morrishoth
+      391 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 448.07 ly
 apparent_magnitude: 11.71
 absolute_magnitude: 6.02

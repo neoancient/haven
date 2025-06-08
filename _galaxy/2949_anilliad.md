@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2949 Anilliad is a star in the constellation Anil
+      2949 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 616.53 ly
 apparent_magnitude: 8.24
 absolute_magnitude: 1.86
@@ -31,14 +31,14 @@ planets:
     radius: 10,490.9 km<br/>(1.647 Yrths)
     surface_area: 1.383 × 10<sup>09</sup> km<sup>2</sup><br/>(2.712 Yrths)
     volume: 4.836 × 10<sup>12</sup> km<sup>3</sup><br/>(4.465 Yrths)
-    mass: 3.271 × 10<sup>25</sup> kg<br />(5.477550466952081 Yrths)
+    mass: 3.271 × 10<sup>25</sup> kg<br />(5.48 Yrths)
     density: 6.764 g/cm<sup>3</sup>
     surface_gravity: 19.811 m/s<sup>2</sup><br />(2.020 g<sub>0</sub>)
     escape_velocity: 20.402 km/s<br />(73,446 km/h)
     rotation_period: 0.722 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 645 K<br />(372 °C)
+    temperature: 597 K<br />(324 °C)
     surface_pressure: 1,603 kPa<br />(16 atm)
     composition:
       - 72.9450% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 9,611.7 km<br/>(1.509 Yrths)
         surface_area: 1.161 × 10<sup>09</sup> km<sup>2</sup><br/>(2.276 Yrths)
         volume: 3.720 × 10<sup>12</sup> km<sup>3</sup><br/>(3.434 Yrths)
-        mass: 6.186 × 10<sup>24</sup> kg<br />(5.477550466952081 Yrths)
+        mass: 6.186 × 10<sup>24</sup> kg<br />(1.036 Yrths)
         density: 1.663 g/cm<sup>3</sup>
         surface_gravity: 4.463 m/s<sup>2</sup><br />(0.455 g<sub>0</sub>)
         escape_velocity: 9.269 km/s<br />(33,367 km/h)
         rotation_period: 72.535 d
         axial_tilt: 19.58°
         albedo: 0.30
-        temperature: 5210 K<br />(4937 °C)
+        temperature: 453 K<br />(179 °C)
       - name: 2949 Anilliad I b
         type: Rocky
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 9,985.7 km<br/>(1.567 Yrths)
         surface_area: 1.253 × 10<sup>09</sup> km<sup>2</sup><br/>(2.457 Yrths)
         volume: 4.171 × 10<sup>12</sup> km<sup>3</sup><br/>(3.850 Yrths)
-        mass: 1.219 × 10<sup>25</sup> kg<br />(5.477550466952081 Yrths)
+        mass: 1.219 × 10<sup>25</sup> kg<br />(2.041 Yrths)
         density: 2.922 g/cm<sup>3</sup>
         surface_gravity: 8.147 m/s<sup>2</sup><br />(0.831 g<sub>0</sub>)
         escape_velocity: 12.764 km/s<br />(45,952 km/h)
         rotation_period: 37.554 d
         axial_tilt: 14.43°
         albedo: 0.30
-        temperature: 4968 K<br />(4695 °C)
+        temperature: 453 K<br />(179 °C)
   - name: 2949 Anilliad II
     type: Gas giant
     aphelion: 331,193,654 km<br />2.214 AU
@@ -96,14 +96,14 @@ planets:
     radius: 177.8 km<br/>(0.028 Yrths)
     surface_area: 3.970 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.353 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.262 × 10<sup>26</sup> kg<br />(104.85976824179345 Yrths)
+    mass: 6.262 × 10<sup>26</sup> kg<br />(104.86 Yrths)
     density: 26618796.639 g/cm<sup>3</sup>
     surface_gravity: 1321022.869 m/s<sup>2</sup><br />(134706.844 g<sub>0</sub>)
     escape_velocity: 685.762 km/s<br />(2,468,744 km/h)
     rotation_period: 0.262 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1372 K<br />(1099 °C)
+    temperature: 1380 K<br />(1107 °C)
     composition:
       - 49.6148% hydrogen
       - 36.3217% helium
@@ -122,14 +122,14 @@ planets:
         radius: 121,063.8 km<br/>(19.002 Yrths)
         surface_area: 1.842 × 10<sup>11</sup> km<sup>2</sup><br/>(361.088 Yrths)
         volume: 7.432 × 10<sup>15</sup> km<sup>3</sup><br/>(6861.517 Yrths)
-        mass: 1.754 × 10<sup>28</sup> kg<br />(104.85976824179345 Yrths)
+        mass: 1.754 × 10<sup>28</sup> kg<br />(2937.774 Yrths)
         density: 2.361 g/cm<sup>3</sup>
         surface_gravity: 79.786 m/s<sup>2</sup><br />(8.136 g<sub>0</sub>)
         escape_velocity: 139.085 km/s<br />(500,705 km/h)
         rotation_period: 50.083 d
         axial_tilt: 13.13°
         albedo: 0.30
-        temperature: 2064 K<br />(1790 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 2949 Anilliad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -142,14 +142,14 @@ planets:
         radius: 103,944.2 km<br/>(16.315 Yrths)
         surface_area: 1.358 × 10<sup>11</sup> km<sup>2</sup><br/>(266.186 Yrths)
         volume: 4.704 × 10<sup>15</sup> km<sup>3</sup><br/>(4342.884 Yrths)
-        mass: 7.600 × 10<sup>27</sup> kg<br />(104.85976824179345 Yrths)
+        mass: 7.600 × 10<sup>27</sup> kg<br />(1272.628 Yrths)
         density: 1.616 g/cm<sup>3</sup>
         surface_gravity: 46.885 m/s<sup>2</sup><br />(4.781 g<sub>0</sub>)
         escape_velocity: 98.794 km/s<br />(355,657 km/h)
         rotation_period: 41.081 d
         axial_tilt: 23.62°
         albedo: 0.30
-        temperature: 1968 K<br />(1694 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 2949 Anilliad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -162,14 +162,14 @@ planets:
         radius: 86,835.6 km<br/>(13.630 Yrths)
         surface_area: 9.476 × 10<sup>10</sup> km<sup>2</sup><br/>(185.772 Yrths)
         volume: 2.743 × 10<sup>15</sup> km<sup>3</sup><br/>(2532.039 Yrths)
-        mass: 7.258 × 10<sup>27</sup> kg<br />(104.85976824179345 Yrths)
+        mass: 7.258 × 10<sup>27</sup> kg<br />(1215.378 Yrths)
         density: 2.646 g/cm<sup>3</sup>
         surface_gravity: 64.158 m/s<sup>2</sup><br />(6.542 g<sub>0</sub>)
         escape_velocity: 105.629 km/s<br />(380,266 km/h)
         rotation_period: 51.377 d
         axial_tilt: 13.83°
         albedo: 0.30
-        temperature: 1876 K<br />(1603 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 2949 Anilliad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -182,15 +182,35 @@ planets:
         radius: 109,141.7 km<br/>(17.131 Yrths)
         surface_area: 1.497 × 10<sup>11</sup> km<sup>2</sup><br/>(293.472 Yrths)
         volume: 5.446 × 10<sup>15</sup> km<sup>3</sup><br/>(5027.465 Yrths)
-        mass: 1.006 × 10<sup>28</sup> kg<br />(104.85976824179345 Yrths)
+        mass: 1.006 × 10<sup>28</sup> kg<br />(1684.094 Yrths)
         density: 1.847 g/cm<sup>3</sup>
         surface_gravity: 56.276 m/s<sup>2</sup><br />(5.739 g<sub>0</sub>)
         escape_velocity: 110.909 km/s<br />(399,271 km/h)
         rotation_period: 58.635 d
         axial_tilt: 27.42°
         albedo: 0.30
-        temperature: 1626 K<br />(1353 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 2949 Anilliad II e
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 23,768,426 km<br />
+        perihelion: 17,229,214 km<br />
+        semi_major_axis: 20,498,820 km<br />
+        eccentricity: 0.160
+        orbital_period: 0.02 d<br />
+        inclination: 30.06°
+        radius: 17,780.3 km<br/>(2.791 Yrths)
+        surface_area: 3.973 × 10<sup>09</sup> km<sup>2</sup><br/>(7.789 Yrths)
+        volume: 2.355 × 10<sup>13</sup> km<sup>3</sup><br/>(21.737 Yrths)
+        mass: 4.627 × 10<sup>25</sup> kg<br />(7.748 Yrths)
+        density: 1.965 g/cm<sup>3</sup>
+        surface_gravity: 9.756 m/s<sup>2</sup><br />(0.995 g<sub>0</sub>)
+        escape_velocity: 18.638 km/s<br />(67,098 km/h)
+        rotation_period: 56.480 d
+        axial_tilt: 22.84°
+        albedo: 0.30
+        temperature: 339 K<br />(66 °C)
+      - name: 2949 Anilliad II f
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 54,559,362 km<br />
@@ -202,15 +222,15 @@ planets:
         radius: 115,279.4 km<br/>(18.094 Yrths)
         surface_area: 1.670 × 10<sup>11</sup> km<sup>2</sup><br/>(327.407 Yrths)
         volume: 6.417 × 10<sup>15</sup> km<sup>3</sup><br/>(5924.236 Yrths)
-        mass: 1.418 × 10<sup>28</sup> kg<br />(104.85976824179345 Yrths)
+        mass: 1.418 × 10<sup>28</sup> kg<br />(2375.149 Yrths)
         density: 2.210 g/cm<sup>3</sup>
         surface_gravity: 71.142 m/s<sup>2</sup><br />(7.254 g<sub>0</sub>)
         escape_velocity: 128.158 km/s<br />(461,371 km/h)
         rotation_period: 34.458 d
         axial_tilt: 28.61°
         albedo: 0.30
-        temperature: 834 K<br />(561 °C)
-      - name: 2949 Anilliad II f
+        temperature: 339 K<br />(66 °C)
+      - name: 2949 Anilliad II g
         type: Icy
         formationType: Accreted
         aphelion: 127,121,268 km<br />
@@ -222,14 +242,14 @@ planets:
         radius: 117,107.3 km<br/>(18.381 Yrths)
         surface_area: 1.723 × 10<sup>11</sup> km<sup>2</sup><br/>(337.872 Yrths)
         volume: 6.727 × 10<sup>15</sup> km<sup>3</sup><br/>(6210.536 Yrths)
-        mass: 6.929 × 10<sup>27</sup> kg<br />(104.85976824179345 Yrths)
+        mass: 6.929 × 10<sup>27</sup> kg<br />(1160.179 Yrths)
         density: 1.030 g/cm<sup>3</sup>
         surface_gravity: 33.674 m/s<sup>2</sup><br />(3.434 g<sub>0</sub>)
         escape_velocity: 88.869 km/s<br />(319,927 km/h)
         rotation_period: 61.434 d
         axial_tilt: 17.58°
         albedo: 0.30
-        temperature: 543 K<br />(270 °C)
+        temperature: 339 K<br />(66 °C)
   - name: 2949 Anilliad III
     type: Gas dwarf
     aphelion: 597,659,311 km<br />3.995 AU
@@ -241,14 +261,14 @@ planets:
     radius: 25,208.3 km<br/>(3.957 Yrths)
     surface_area: 7.985 × 10<sup>09</sup> km<sup>2</sup><br/>(15.656 Yrths)
     volume: 6.710 × 10<sup>13</sup> km<sup>3</sup><br/>(61.945 Yrths)
-    mass: 1.677 × 10<sup>26</sup> kg<br />(28.07319633081049 Yrths)
+    mass: 1.677 × 10<sup>26</sup> kg<br />(28.07 Yrths)
     density: 2.499 g/cm<sup>3</sup>
     surface_gravity: 17.585 m/s<sup>2</sup><br />(1.793 g<sub>0</sub>)
     escape_velocity: 29.796 km/s<br />(107,264 km/h)
     rotation_period: 0.348 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 422 K<br />(148 °C)
+    temperature: 379 K<br />(106 °C)
     composition:
       - 88.5327% hydrogen
       - 10.2435% helium
@@ -267,14 +287,14 @@ planets:
         radius: 11,811.2 km<br/>(1.854 Yrths)
         surface_area: 1.753 × 10<sup>09</sup> km<sup>2</sup><br/>(3.437 Yrths)
         volume: 6.902 × 10<sup>12</sup> km<sup>3</sup><br/>(6.372 Yrths)
-        mass: 1.516 × 10<sup>25</sup> kg<br />(28.07319633081049 Yrths)
+        mass: 1.516 × 10<sup>25</sup> kg<br />(2.539 Yrths)
         density: 2.197 g/cm<sup>3</sup>
         surface_gravity: 7.245 m/s<sup>2</sup><br />(0.739 g<sub>0</sub>)
         escape_velocity: 13.091 km/s<br />(47,128 km/h)
         rotation_period: 57.500 d
         axial_tilt: 24.38°
         albedo: 0.30
-        temperature: 2207 K<br />(1933 °C)
+        temperature: 254 K<br />(-20 °C)
       - name: 2949 Anilliad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -287,14 +307,14 @@ planets:
         radius: 25,030.0 km<br/>(3.929 Yrths)
         surface_area: 7.873 × 10<sup>09</sup> km<sup>2</sup><br/>(15.435 Yrths)
         volume: 6.569 × 10<sup>13</sup> km<sup>3</sup><br/>(60.640 Yrths)
-        mass: 1.627 × 10<sup>26</sup> kg<br />(28.07319633081049 Yrths)
+        mass: 1.627 × 10<sup>26</sup> kg<br />(27.251 Yrths)
         density: 2.478 g/cm<sup>3</sup>
         surface_gravity: 17.314 m/s<sup>2</sup><br />(1.766 g<sub>0</sub>)
         escape_velocity: 29.460 km/s<br />(106,057 km/h)
         rotation_period: 31.804 d
         axial_tilt: 17.40°
         albedo: 0.30
-        temperature: 2104 K<br />(1831 °C)
+        temperature: 254 K<br />(-20 °C)
       - name: 2949 Anilliad III c
         type: Icy
         formationType: Captured
@@ -307,14 +327,14 @@ planets:
         radius: 32,149.1 km<br/>(5.046 Yrths)
         surface_area: 1.299 × 10<sup>10</sup> km<sup>2</sup><br/>(25.464 Yrths)
         volume: 1.392 × 10<sup>14</sup> km<sup>3</sup><br/>(128.495 Yrths)
-        mass: 2.296 × 10<sup>26</sup> kg<br />(28.07319633081049 Yrths)
+        mass: 2.296 × 10<sup>26</sup> kg<br />(38.442 Yrths)
         density: 1.649 g/cm<sup>3</sup>
         surface_gravity: 14.805 m/s<sup>2</sup><br />(1.510 g<sub>0</sub>)
         escape_velocity: 30.874 km/s<br />(111,147 km/h)
         rotation_period: 40.082 d
         axial_tilt: 17.80°
         albedo: 0.30
-        temperature: 2006 K<br />(1733 °C)
+        temperature: 254 K<br />(-20 °C)
       - name: 2949 Anilliad III d
         type: Icy
         formationType: Accreted
@@ -327,14 +347,14 @@ planets:
         radius: 33,600.9 km<br/>(5.274 Yrths)
         surface_area: 1.419 × 10<sup>10</sup> km<sup>2</sup><br/>(27.816 Yrths)
         volume: 1.589 × 10<sup>14</sup> km<sup>3</sup><br/>(146.700 Yrths)
-        mass: 2.112 × 10<sup>26</sup> kg<br />(28.07319633081049 Yrths)
+        mass: 2.112 × 10<sup>26</sup> kg<br />(35.358 Yrths)
         density: 1.329 g/cm<sup>3</sup>
         surface_gravity: 12.466 m/s<sup>2</sup><br />(1.271 g<sub>0</sub>)
         escape_velocity: 28.963 km/s<br />(104,267 km/h)
         rotation_period: 67.902 d
         axial_tilt: 17.74°
         albedo: 0.30
-        temperature: 1913 K<br />(1639 °C)
+        temperature: 254 K<br />(-20 °C)
   - name: 2949 Anilliad IV
     type: Ice giant
     aphelion: 1,069,554,816 km<br />7.149 AU
@@ -346,14 +366,14 @@ planets:
     radius: 37,153.1 km<br/>(5.832 Yrths)
     surface_area: 1.735 × 10<sup>10</sup> km<sup>2</sup><br/>(34.007 Yrths)
     volume: 2.148 × 10<sup>14</sup> km<sup>3</sup><br/>(198.318 Yrths)
-    mass: 3.316 × 10<sup>26</sup> kg<br />(55.52047225612794 Yrths)
+    mass: 3.316 × 10<sup>26</sup> kg<br />(55.52 Yrths)
     density: 1.543 g/cm<sup>3</sup>
     surface_gravity: 16.010 m/s<sup>2</sup><br />(1.633 g<sub>0</sub>)
     escape_velocity: 34.515 km/s<br />(124,254 km/h)
     rotation_period: 0.296 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 426 K<br />(153 °C)
+    temperature: 417 K<br />(144 °C)
     composition:
       - 70.4240% helium
       - 10.0806% ammonia
@@ -373,14 +393,14 @@ planets:
         radius: 41,089.2 km<br/>(6.449 Yrths)
         surface_area: 2.122 × 10<sup>10</sup> km<sup>2</sup><br/>(41.595 Yrths)
         volume: 2.906 × 10<sup>14</sup> km<sup>3</sup><br/>(268.263 Yrths)
-        mass: 3.412 × 10<sup>26</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 3.412 × 10<sup>26</sup> kg<br />(57.127 Yrths)
         density: 1.174 g/cm<sup>3</sup>
         surface_gravity: 13.469 m/s<sup>2</sup><br />(1.373 g<sub>0</sub>)
         escape_velocity: 33.292 km/s<br />(119,850 km/h)
         rotation_period: 75.583 d
         axial_tilt: 5.91°
         albedo: 0.30
-        temperature: 1484 K<br />(1211 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV b
         type: Dwarf planet
         formationType: Captured
@@ -393,14 +413,14 @@ planets:
         radius: 40,053.8 km<br/>(6.287 Yrths)
         surface_area: 2.016 × 10<sup>10</sup> km<sup>2</sup><br/>(39.525 Yrths)
         volume: 2.692 × 10<sup>14</sup> km<sup>3</sup><br/>(248.489 Yrths)
-        mass: 4.421 × 10<sup>26</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 4.421 × 10<sup>26</sup> kg<br />(74.029 Yrths)
         density: 1.643 g/cm<sup>3</sup>
         surface_gravity: 18.368 m/s<sup>2</sup><br />(1.873 g<sub>0</sub>)
         escape_velocity: 38.385 km/s<br />(138,185 km/h)
         rotation_period: 54.872 d
         axial_tilt: 29.20°
         albedo: 0.30
-        temperature: 1415 K<br />(1142 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV c
         type: Asteroid
         formationType: Captured
@@ -413,14 +433,14 @@ planets:
         radius: 50,637.6 km<br/>(7.948 Yrths)
         surface_area: 3.222 × 10<sup>10</sup> km<sup>2</sup><br/>(63.173 Yrths)
         volume: 5.439 × 10<sup>14</sup> km<sup>3</sup><br/>(502.107 Yrths)
-        mass: 1.014 × 10<sup>27</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 1.014 × 10<sup>27</sup> kg<br />(169.758 Yrths)
         density: 1.864 g/cm<sup>3</sup>
         surface_gravity: 26.352 m/s<sup>2</sup><br />(2.687 g<sub>0</sub>)
         escape_velocity: 51.696 km/s<br />(186,105 km/h)
         rotation_period: 45.813 d
         axial_tilt: 53.41°
         albedo: 0.30
-        temperature: 1350 K<br />(1076 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -433,14 +453,14 @@ planets:
         radius: 38,611.7 km<br/>(6.061 Yrths)
         surface_area: 1.873 × 10<sup>10</sup> km<sup>2</sup><br/>(36.730 Yrths)
         volume: 2.411 × 10<sup>14</sup> km<sup>3</sup><br/>(222.605 Yrths)
-        mass: 5.723 × 10<sup>26</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 5.723 × 10<sup>26</sup> kg<br />(95.838 Yrths)
         density: 2.374 g/cm<sup>3</sup>
         surface_gravity: 25.588 m/s<sup>2</sup><br />(2.609 g<sub>0</sub>)
         escape_velocity: 44.482 km/s<br />(160,136 km/h)
         rotation_period: 39.064 d
         axial_tilt: 29.76°
         albedo: 0.30
-        temperature: 1287 K<br />(1014 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV e
         type: Asteroid
         formationType: Captured
@@ -453,14 +473,14 @@ planets:
         radius: 32,874.1 km<br/>(5.160 Yrths)
         surface_area: 1.358 × 10<sup>10</sup> km<sup>2</sup><br/>(26.625 Yrths)
         volume: 1.488 × 10<sup>14</sup> km<sup>3</sup><br/>(137.385 Yrths)
-        mass: 3.197 × 10<sup>26</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 3.197 × 10<sup>26</sup> kg<br />(53.537 Yrths)
         density: 2.148 g/cm<sup>3</sup>
         surface_gravity: 19.719 m/s<sup>2</sup><br />(2.011 g<sub>0</sub>)
         escape_velocity: 36.031 km/s<br />(129,711 km/h)
         rotation_period: 58.309 d
         axial_tilt: 22.44°
         albedo: 0.30
-        temperature: 1227 K<br />(954 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -473,14 +493,14 @@ planets:
         radius: 21,728.3 km<br/>(3.410 Yrths)
         surface_area: 5.933 × 10<sup>09</sup> km<sup>2</sup><br/>(11.631 Yrths)
         volume: 4.297 × 10<sup>13</sup> km<sup>3</sup><br/>(39.669 Yrths)
-        mass: 7.214 × 10<sup>25</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 7.214 × 10<sup>25</sup> kg<br />(12.080 Yrths)
         density: 1.679 g/cm<sup>3</sup>
         surface_gravity: 10.184 m/s<sup>2</sup><br />(1.039 g<sub>0</sub>)
         escape_velocity: 21.052 km/s<br />(75,787 km/h)
         rotation_period: 46.623 d
         axial_tilt: 22.56°
         albedo: 0.30
-        temperature: 1170 K<br />(897 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -493,14 +513,14 @@ planets:
         radius: 51,916.8 km<br/>(8.149 Yrths)
         surface_area: 3.387 × 10<sup>10</sup> km<sup>2</sup><br/>(66.405 Yrths)
         volume: 5.862 × 10<sup>14</sup> km<sup>3</sup><br/>(541.128 Yrths)
-        mass: 1.249 × 10<sup>27</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 1.249 × 10<sup>27</sup> kg<br />(209.061 Yrths)
         density: 2.130 g/cm<sup>3</sup>
         surface_gravity: 30.874 m/s<sup>2</sup><br />(3.148 g<sub>0</sub>)
         escape_velocity: 56.658 km/s<br />(203,969 km/h)
         rotation_period: 63.444 d
         axial_tilt: 7.64°
         albedo: 0.30
-        temperature: 1115 K<br />(842 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV h
         type: Icy
         formationType: Captured
@@ -513,14 +533,14 @@ planets:
         radius: 48,873.8 km<br/>(7.671 Yrths)
         surface_area: 3.002 × 10<sup>10</sup> km<sup>2</sup><br/>(58.849 Yrths)
         volume: 4.890 × 10<sup>14</sup> km<sup>3</sup><br/>(451.445 Yrths)
-        mass: 3.757 × 10<sup>26</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 3.757 × 10<sup>26</sup> kg<br />(62.915 Yrths)
         density: 0.768 g/cm<sup>3</sup>
         surface_gravity: 10.484 m/s<sup>2</sup><br />(1.069 g<sub>0</sub>)
         escape_velocity: 32.034 km/s<br />(115,324 km/h)
         rotation_period: 64.057 d
         axial_tilt: 13.26°
         albedo: 0.30
-        temperature: 1063 K<br />(790 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV i
         type: Ice/rock hybrid
         formationType: Captured
@@ -533,14 +553,14 @@ planets:
         radius: 28,925.8 km<br/>(4.540 Yrths)
         surface_area: 1.051 × 10<sup>10</sup> km<sup>2</sup><br/>(20.614 Yrths)
         volume: 1.014 × 10<sup>14</sup> km<sup>3</sup><br/>(93.591 Yrths)
-        mass: 2.101 × 10<sup>26</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 2.101 × 10<sup>26</sup> kg<br />(35.188 Yrths)
         density: 2.073 g/cm<sup>3</sup>
         surface_gravity: 16.740 m/s<sup>2</sup><br />(1.707 g<sub>0</sub>)
         escape_velocity: 31.141 km/s<br />(112,108 km/h)
         rotation_period: 34.919 d
         axial_tilt: 32.55°
         albedo: 0.30
-        temperature: 967 K<br />(694 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV j
         type: Ice/rock hybrid
         formationType: Captured
@@ -553,14 +573,14 @@ planets:
         radius: 21,504.0 km<br/>(3.375 Yrths)
         surface_area: 5.811 × 10<sup>09</sup> km<sup>2</sup><br/>(11.393 Yrths)
         volume: 4.165 × 10<sup>13</sup> km<sup>3</sup><br/>(38.453 Yrths)
-        mass: 6.936 × 10<sup>25</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 6.936 × 10<sup>25</sup> kg<br />(11.614 Yrths)
         density: 1.665 g/cm<sup>3</sup>
         surface_gravity: 9.997 m/s<sup>2</sup><br />(1.019 g<sub>0</sub>)
         escape_velocity: 20.749 km/s<br />(74,698 km/h)
         rotation_period: 41.153 d
         axial_tilt: 17.14°
         albedo: 0.30
-        temperature: 922 K<br />(649 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 2949 Anilliad IV k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -573,12 +593,12 @@ planets:
         radius: 54,365.7 km<br/>(8.533 Yrths)
         surface_area: 3.714 × 10<sup>10</sup> km<sup>2</sup><br/>(72.817 Yrths)
         volume: 6.731 × 10<sup>14</sup> km<sup>3</sup><br/>(621.374 Yrths)
-        mass: 1.379 × 10<sup>27</sup> kg<br />(55.52047225612794 Yrths)
+        mass: 1.379 × 10<sup>27</sup> kg<br />(230.911 Yrths)
         density: 2.049 g/cm<sup>3</sup>
         surface_gravity: 31.098 m/s<sup>2</sup><br />(3.171 g<sub>0</sub>)
         escape_velocity: 58.189 km/s<br />(209,479 km/h)
         rotation_period: 38.142 d
         axial_tilt: 20.06°
         albedo: 0.30
-        temperature: 879 K<br />(606 °C)
+        temperature: 190 K<br />(-83 °C)
 ---

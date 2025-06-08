@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      584 Anilliad is a star in the constellation Anil
+      584 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 458.03 ly
 apparent_magnitude: 10.92
 absolute_magnitude: 5.18

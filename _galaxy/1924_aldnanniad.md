@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1924 Aldnanniad is a star in the constellation Aldnan
+      1924 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 692.72 ly
 apparent_magnitude: 11.57
 absolute_magnitude: 4.93

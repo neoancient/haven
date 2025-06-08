@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8150 Arkothiad A is a star in the constellation Arkoth
+      8150 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 465.17 ly
 apparent_magnitude: 8.61
 absolute_magnitude: 2.84

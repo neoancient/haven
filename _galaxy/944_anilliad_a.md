@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      944 Anilliad A is a star in the constellation Anil
+      944 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 407.97 ly
 apparent_magnitude: 10.46
 absolute_magnitude: 4.97

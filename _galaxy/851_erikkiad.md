@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      851 Erikkiad is a star in the constellation Erik
+      851 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 300.95 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 6.50

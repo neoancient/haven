@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0151 Tanashad B is a star in the constellation Tanas
+      0151 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 783.94 ly
 apparent_magnitude: 12.05
 absolute_magnitude: 5.15

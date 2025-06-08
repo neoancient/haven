@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      102 Arniad is a star in the constellation Arni
+      102 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1342.81 ly
 apparent_magnitude: 9.05
 absolute_magnitude: 0.98

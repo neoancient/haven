@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Irsaiad B is a star in the constellation Irsa
+      0028 Irsaiad B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 720.34 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 3.78

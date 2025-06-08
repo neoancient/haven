@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2025 Narashiad is a star in the constellation Naras
+      2025 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 491.88 ly
 apparent_magnitude: 11.48
 absolute_magnitude: 5.58

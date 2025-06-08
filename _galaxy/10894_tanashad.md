@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10894 Tanashad is a star in the constellation Tanas
+      10894 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 110.63 ly
 apparent_magnitude: 19.06
 absolute_magnitude: 16.41

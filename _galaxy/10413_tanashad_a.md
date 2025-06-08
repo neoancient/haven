@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10413 Tanashad A is a star in the constellation Tanas
+      10413 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 452.65 ly
 apparent_magnitude: 7.59
 absolute_magnitude: 1.88

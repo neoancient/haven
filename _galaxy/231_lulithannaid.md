@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      231 Lulithannaid is a star in the constellation Lulithan
+      231 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 308.73 ly
 apparent_magnitude: 12.02
 absolute_magnitude: 7.14

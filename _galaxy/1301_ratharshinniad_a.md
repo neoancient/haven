@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1301 Ratharshinniad A is a star in the constellation Ratharshin
+      1301 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 916.75 ly
 apparent_magnitude: 6.83
 absolute_magnitude: -0.41

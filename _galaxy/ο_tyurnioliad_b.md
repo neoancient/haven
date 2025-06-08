@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Tyurnioliad B is a star in the constellation Tyurniol
+      ο Tyurnioliad B is a star in the constellation <a href="tyurniol.html">Tyurniol</a>
 distance: 76.25 ly
 apparent_magnitude: 7.62
 absolute_magnitude: 5.78

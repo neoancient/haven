@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Linnikiln B is a star in the constellation Dialkes
+      Linnikiln B is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 924.01 ly
 apparent_magnitude: 4.12
 absolute_magnitude: -3.14

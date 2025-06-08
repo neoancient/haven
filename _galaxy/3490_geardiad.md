@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3490 Geardiad is a star in the constellation Geard
+      3490 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1294.14 ly
 apparent_magnitude: 17.42
 absolute_magnitude: 9.43

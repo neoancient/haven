@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0006 Kinanniad is a star in the constellation Kinan
+      0006 Kinanniad is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 376.60 ly
 apparent_magnitude: 5.34
 absolute_magnitude: 0.03
@@ -31,14 +31,14 @@ planets:
     radius: 207.6 km<br/>(0.033 Yrths)
     surface_area: 5.415 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.747 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.210 × 10<sup>27</sup> kg<br />(202.61451680976768 Yrths)
+    mass: 1.210 × 10<sup>27</sup> kg<br />(202.61 Yrths)
     density: 32294973.928 g/cm<sup>3</sup>
     surface_gravity: 1871666.947 m/s<sup>2</sup><br />(190856.913 g<sub>0</sub>)
     escape_velocity: 882.102 km/s<br />(3,175,565 km/h)
     rotation_period: 0.245 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1560 K<br />(1287 °C)
+    temperature: 1503 K<br />(1229 °C)
     composition:
       - 79.1393% hydrogen
       - 17.3215% helium
@@ -56,14 +56,14 @@ planets:
         radius: 123,006.9 km<br/>(19.307 Yrths)
         surface_area: 1.901 × 10<sup>11</sup> km<sup>2</sup><br/>(372.772 Yrths)
         volume: 7.796 × 10<sup>15</sup> km<sup>3</sup><br/>(7197.231 Yrths)
-        mass: 1.906 × 10<sup>28</sup> kg<br />(202.61451680976768 Yrths)
+        mass: 1.906 × 10<sup>28</sup> kg<br />(3191.247 Yrths)
         density: 2.445 g/cm<sup>3</sup>
         surface_gravity: 83.953 m/s<sup>2</sup><br />(8.561 g<sub>0</sub>)
         escape_velocity: 143.811 km/s<br />(517,721 km/h)
         rotation_period: 45.009 d
         axial_tilt: 17.35°
         albedo: 0.30
-        temperature: 1907 K<br />(1634 °C)
+        temperature: 375 K<br />(101 °C)
       - name: 0006 Kinanniad I b
         type: Icy
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 174,099.8 km<br/>(27.327 Yrths)
         surface_area: 3.809 × 10<sup>11</sup> km<sup>2</sup><br/>(746.761 Yrths)
         volume: 2.210 × 10<sup>16</sup> km<sup>3</sup><br/>(20406.665 Yrths)
-        mass: 3.098 × 10<sup>28</sup> kg<br />(202.61451680976768 Yrths)
+        mass: 3.098 × 10<sup>28</sup> kg<br />(5188.137 Yrths)
         density: 1.402 g/cm<sup>3</sup>
         surface_gravity: 68.132 m/s<sup>2</sup><br />(6.948 g<sub>0</sub>)
         escape_velocity: 154.129 km/s<br />(554,864 km/h)
         rotation_period: 45.310 d
         axial_tilt: 22.45°
         albedo: 0.30
-        temperature: 1653 K<br />(1380 °C)
+        temperature: 375 K<br />(101 °C)
       - name: 0006 Kinanniad I c
         type: Icy
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 240,274.2 km<br/>(37.714 Yrths)
         surface_area: 7.255 × 10<sup>11</sup> km<sup>2</sup><br/>(1422.326 Yrths)
         volume: 5.810 × 10<sup>16</sup> km<sup>3</sup><br/>(53641.224 Yrths)
-        mass: 6.062 × 10<sup>28</sup> kg<br />(202.61451680976768 Yrths)
+        mass: 6.062 × 10<sup>28</sup> kg<br />(10150.309 Yrths)
         density: 1.043 g/cm<sup>3</sup>
         surface_gravity: 69.984 m/s<sup>2</sup><br />(7.136 g<sub>0</sub>)
         escape_velocity: 183.512 km/s<br />(660,642 km/h)
         rotation_period: 52.765 d
         axial_tilt: 19.20°
         albedo: 0.30
-        temperature: 1026 K<br />(753 °C)
+        temperature: 375 K<br />(101 °C)
       - name: 0006 Kinanniad I d
         type: Asteroid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 107,724.2 km<br/>(16.909 Yrths)
         surface_area: 1.458 × 10<sup>11</sup> km<sup>2</sup><br/>(285.898 Yrths)
         volume: 5.236 × 10<sup>15</sup> km<sup>3</sup><br/>(4834.114 Yrths)
-        mass: 1.013 × 10<sup>28</sup> kg<br />(202.61451680976768 Yrths)
+        mass: 1.013 × 10<sup>28</sup> kg<br />(1696.069 Yrths)
         density: 1.934 g/cm<sup>3</sup>
         surface_gravity: 58.177 m/s<sup>2</sup><br />(5.932 g<sub>0</sub>)
         escape_velocity: 112.032 km/s<br />(403,316 km/h)
         rotation_period: 71.105 d
         axial_tilt: 26.67°
         albedo: 0.30
-        temperature: 809 K<br />(536 °C)
+        temperature: 375 K<br />(101 °C)
       - name: 0006 Kinanniad I e
         type: Icy
         formationType: Accreted
@@ -136,12 +136,12 @@ planets:
         radius: 167,599.1 km<br/>(26.307 Yrths)
         surface_area: 3.530 × 10<sup>11</sup> km<sup>2</sup><br/>(692.035 Yrths)
         volume: 1.972 × 10<sup>16</sup> km<sup>3</sup><br/>(18205.072 Yrths)
-        mass: 2.002 × 10<sup>28</sup> kg<br />(202.61451680976768 Yrths)
+        mass: 2.002 × 10<sup>28</sup> kg<br />(3352.610 Yrths)
         density: 1.015 g/cm<sup>3</sup>
         surface_gravity: 47.509 m/s<sup>2</sup><br />(4.845 g<sub>0</sub>)
         escape_velocity: 126.280 km/s<br />(454,607 km/h)
         rotation_period: 62.497 d
         axial_tilt: 16.35°
         albedo: 0.30
-        temperature: 771 K<br />(498 °C)
+        temperature: 375 K<br />(101 °C)
 ---

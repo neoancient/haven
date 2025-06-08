@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9758 Arkothiad is a star in the constellation Arkoth
+      9758 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 574.24 ly
 apparent_magnitude: 11.41
 absolute_magnitude: 5.18

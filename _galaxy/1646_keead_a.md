@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1646 Keead A is a star in the constellation Kee
+      1646 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 567.95 ly
 apparent_magnitude: 7.98
 absolute_magnitude: 1.78

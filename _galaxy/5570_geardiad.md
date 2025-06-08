@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5570 Geardiad is a star in the constellation Geard
+      5570 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 349.93 ly
 apparent_magnitude: 9.89
 absolute_magnitude: 4.74

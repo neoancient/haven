@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2742 Dialkeshiad A is a star in the constellation Dialkes
+      2742 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 571.85 ly
 apparent_magnitude: 8.18
 absolute_magnitude: 1.96

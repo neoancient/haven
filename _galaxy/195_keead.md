@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      195 Keead is a star in the constellation Kee
+      195 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 494.89 ly
 apparent_magnitude: 7.68
 absolute_magnitude: 1.77

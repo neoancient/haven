@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8339 Dialkeshiad is a star in the constellation Dialkes
+      8339 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 517.23 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 5.03

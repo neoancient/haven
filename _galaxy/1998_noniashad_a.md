@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1998 Noniashad A is a star in the constellation Nonias
+      1998 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 386.64 ly
 apparent_magnitude: 8.95
 absolute_magnitude: 3.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8518 Arkothiad A is a star in the constellation Arkoth
+      8518 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 342.74 ly
 apparent_magnitude: 10.03
 absolute_magnitude: 4.92

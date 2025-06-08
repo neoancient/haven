@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1390 Lunaiad is a star in the constellation Luna
+      1390 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 388.09 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 6.02

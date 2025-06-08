@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0311 Tanashad C is a star in the constellation Tanas
+      0311 Tanashad C is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 185.24 ly
 apparent_magnitude: 8.20
 absolute_magnitude: 4.43

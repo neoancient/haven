@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7845 Arkothiad A is a star in the constellation Arkoth
+      7845 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 571.05 ly
 apparent_magnitude: 7.97
 absolute_magnitude: 1.75

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      990 Lulithannaid is a star in the constellation Lulithan
+      990 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 332.00 ly
 apparent_magnitude: 10.01
 absolute_magnitude: 4.97

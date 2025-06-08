@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13 Morrishothiad is a star in the constellation Morrishoth
+      13 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 320.97 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 6.02

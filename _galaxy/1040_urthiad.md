@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1040 Urthiad is a star in the constellation Urth
+      1040 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 906.75 ly
 apparent_magnitude: 6.95
 absolute_magnitude: -0.27
@@ -31,14 +31,14 @@ planets:
     radius: 237.2 km<br/>(0.037 Yrths)
     surface_area: 7.073 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.593 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.138 × 10<sup>27</sup> kg<br />(357.9287676113391 Yrths)
+    mass: 2.138 × 10<sup>27</sup> kg<br />(357.93 Yrths)
     density: 38215108.769 g/cm<sup>3</sup>
     surface_gravity: 2531263.524 m/s<sup>2</sup><br />(258117.046 g<sub>0</sub>)
     escape_velocity: 1096.673 km/s<br />(3,948,024 km/h)
     rotation_period: 0.231 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2492 K<br />(2219 °C)
+    temperature: 2382 K<br />(2109 °C)
     composition:
       - 69.4573% hydrogen
       - 30.0186% helium
@@ -56,14 +56,14 @@ planets:
         radius: 248,789.0 km<br/>(39.050 Yrths)
         surface_area: 7.778 × 10<sup>11</sup> km<sup>2</sup><br/>(1524.920 Yrths)
         volume: 6.450 × 10<sup>16</sup> km<sup>3</sup><br/>(59548.489 Yrths)
-        mass: 1.522 × 10<sup>29</sup> kg<br />(357.9287676113391 Yrths)
+        mass: 1.522 × 10<sup>29</sup> kg<br />(25487.511 Yrths)
         density: 2.360 g/cm<sup>3</sup>
         surface_gravity: 163.908 m/s<sup>2</sup><br />(16.714 g<sub>0</sub>)
         escape_velocity: 285.776 km/s<br />(1,028,794 km/h)
         rotation_period: 49.185 d
         axial_tilt: 29.20°
         albedo: 0.30
-        temperature: 2044 K<br />(1771 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 1040 Urthiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 197,960.2 km<br/>(31.072 Yrths)
         surface_area: 4.925 × 10<sup>11</sup> km<sup>2</sup><br/>(965.473 Yrths)
         volume: 3.250 × 10<sup>16</sup> km<sup>3</sup><br/>(29999.258 Yrths)
-        mass: 5.950 × 10<sup>28</sup> kg<br />(357.9287676113391 Yrths)
+        mass: 5.950 × 10<sup>28</sup> kg<br />(9963.803 Yrths)
         density: 1.831 g/cm<sup>3</sup>
         surface_gravity: 101.206 m/s<sup>2</sup><br />(10.320 g<sub>0</sub>)
         escape_velocity: 200.309 km/s<br />(721,114 km/h)
         rotation_period: 67.262 d
         axial_tilt: 14.25°
         albedo: 0.30
-        temperature: 1858 K<br />(1585 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 1040 Urthiad I c
         type: Icy
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 292,965.5 km<br/>(45.984 Yrths)
         surface_area: 1.079 × 10<sup>12</sup> km<sup>2</sup><br/>(2114.549 Yrths)
         volume: 1.053 × 10<sup>17</sup> km<sup>3</sup><br/>(97235.869 Yrths)
-        mass: 1.097 × 10<sup>29</sup> kg<br />(357.9287676113391 Yrths)
+        mass: 1.097 × 10<sup>29</sup> kg<br />(18377.099 Yrths)
         density: 1.042 g/cm<sup>3</sup>
         surface_gravity: 85.228 m/s<sup>2</sup><br />(8.691 g<sub>0</sub>)
         escape_velocity: 223.619 km/s<br />(805,027 km/h)
         rotation_period: 53.606 d
         axial_tilt: 11.09°
         albedo: 0.30
-        temperature: 1771 K<br />(1498 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 1040 Urthiad I d
         type: Icy
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 264,041.9 km<br/>(41.444 Yrths)
         surface_area: 8.761 × 10<sup>11</sup> km<sup>2</sup><br/>(1717.634 Yrths)
         volume: 7.711 × 10<sup>16</sup> km<sup>3</sup><br/>(71186.203 Yrths)
-        mass: 8.324 × 10<sup>28</sup> kg<br />(357.9287676113391 Yrths)
+        mass: 8.324 × 10<sup>28</sup> kg<br />(13937.686 Yrths)
         density: 1.079 g/cm<sup>3</sup>
         surface_gravity: 79.576 m/s<sup>2</sup><br />(8.114 g<sub>0</sub>)
         escape_velocity: 205.134 km/s<br />(738,481 km/h)
         rotation_period: 65.821 d
         axial_tilt: 13.78°
         albedo: 0.30
-        temperature: 1154 K<br />(880 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 1040 Urthiad I e
         type: Rocky
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 250,437.7 km<br/>(39.309 Yrths)
         surface_area: 7.882 × 10<sup>11</sup> km<sup>2</sup><br/>(1545.198 Yrths)
         volume: 6.579 × 10<sup>16</sup> km<sup>3</sup><br/>(60740.181 Yrths)
-        mass: 2.141 × 10<sup>29</sup> kg<br />(357.9287676113391 Yrths)
+        mass: 2.141 × 10<sup>29</sup> kg<br />(35854.479 Yrths)
         density: 3.254 g/cm<sup>3</sup>
         surface_gravity: 227.552 m/s<sup>2</sup><br />(23.204 g<sub>0</sub>)
         escape_velocity: 337.831 km/s<br />(1,216,192 km/h)
         rotation_period: 50.080 d
         axial_tilt: 15.72°
         albedo: 0.30
-        temperature: 1000 K<br />(727 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 1040 Urthiad I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -156,14 +156,14 @@ planets:
         radius: 186,466.5 km<br/>(29.268 Yrths)
         surface_area: 4.369 × 10<sup>11</sup> km<sup>2</sup><br/>(856.617 Yrths)
         volume: 2.716 × 10<sup>16</sup> km<sup>3</sup><br/>(25071.463 Yrths)
-        mass: 5.398 × 10<sup>28</sup> kg<br />(357.9287676113391 Yrths)
+        mass: 5.398 × 10<sup>28</sup> kg<br />(9038.454 Yrths)
         density: 1.988 g/cm<sup>3</sup>
         surface_gravity: 103.473 m/s<sup>2</sup><br />(10.551 g<sub>0</sub>)
         escape_velocity: 196.573 km/s<br />(707,664 km/h)
         rotation_period: 49.228 d
         axial_tilt: 23.12°
         albedo: 0.30
-        temperature: 909 K<br />(636 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 1040 Urthiad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 174,986.2 km<br/>(27.466 Yrths)
         surface_area: 3.848 × 10<sup>11</sup> km<sup>2</sup><br/>(754.384 Yrths)
         volume: 2.244 × 10<sup>16</sup> km<sup>3</sup><br/>(20719.948 Yrths)
-        mass: 4.952 × 10<sup>28</sup> kg<br />(357.9287676113391 Yrths)
+        mass: 4.952 × 10<sup>28</sup> kg<br />(8292.237 Yrths)
         density: 2.206 g/cm<sup>3</sup>
         surface_gravity: 107.795 m/s<sup>2</sup><br />(10.992 g<sub>0</sub>)
         escape_velocity: 194.362 km/s<br />(699,704 km/h)
         rotation_period: 39.127 d
         axial_tilt: 21.04°
         albedo: 0.30
-        temperature: 867 K<br />(594 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 1040 Urthiad I h
         type: Icy
         formationType: Accreted
@@ -196,14 +196,14 @@ planets:
         radius: 210,431.1 km<br/>(33.030 Yrths)
         surface_area: 5.565 × 10<sup>11</sup> km<sup>2</sup><br/>(1090.950 Yrths)
         volume: 3.903 × 10<sup>16</sup> km<sup>3</sup><br/>(36033.547 Yrths)
-        mass: 5.978 × 10<sup>28</sup> kg<br />(357.9287676113391 Yrths)
+        mass: 5.978 × 10<sup>28</sup> kg<br />(10010.278 Yrths)
         density: 1.532 g/cm<sup>3</sup>
         surface_gravity: 89.983 m/s<sup>2</sup><br />(9.176 g<sub>0</sub>)
         escape_velocity: 194.736 km/s<br />(701,049 km/h)
         rotation_period: 50.204 d
         axial_tilt: 15.50°
         albedo: 0.30
-        temperature: 788 K<br />(515 °C)
+        temperature: 588 K<br />(315 °C)
   - name: 1040 Urthiad II
     type: Gas dwarf
     aphelion: 1,135,462,046 km<br />7.590 AU
@@ -215,14 +215,14 @@ planets:
     radius: 31,695.5 km<br/>(4.975 Yrths)
     surface_area: 1.262 × 10<sup>10</sup> km<sup>2</sup><br/>(24.750 Yrths)
     volume: 1.334 × 10<sup>14</sup> km<sup>3</sup><br/>(123.132 Yrths)
-    mass: 2.297 × 10<sup>26</sup> kg<br />(38.463457546218315 Yrths)
+    mass: 2.297 × 10<sup>26</sup> kg<br />(38.46 Yrths)
     density: 1.722 g/cm<sup>3</sup>
     surface_gravity: 15.240 m/s<sup>2</sup><br />(1.554 g<sub>0</sub>)
     escape_velocity: 31.103 km/s<br />(111,971 km/h)
     rotation_period: 0.317 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 675 K<br />(402 °C)
+    temperature: 626 K<br />(352 °C)
     composition:
       - 77.3252% hydrogen
       - 15.0693% helium
@@ -243,14 +243,14 @@ planets:
         radius: 26,292.2 km<br/>(4.127 Yrths)
         surface_area: 8.687 × 10<sup>09</sup> km<sup>2</sup><br/>(17.031 Yrths)
         volume: 7.613 × 10<sup>13</sup> km<sup>3</sup><br/>(70.284 Yrths)
-        mass: 1.483 × 10<sup>26</sup> kg<br />(38.463457546218315 Yrths)
+        mass: 1.483 × 10<sup>26</sup> kg<br />(24.836 Yrths)
         density: 1.948 g/cm<sup>3</sup>
         surface_gravity: 14.301 m/s<sup>2</sup><br />(1.458 g<sub>0</sub>)
         escape_velocity: 27.441 km/s<br />(98,789 km/h)
         rotation_period: 62.903 d
         axial_tilt: 11.54°
         albedo: 0.30
-        temperature: 3524 K<br />(3251 °C)
+        temperature: 411 K<br />(138 °C)
       - name: 1040 Urthiad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 28,261.4 km<br/>(4.436 Yrths)
         surface_area: 1.004 × 10<sup>10</sup> km<sup>2</sup><br/>(19.678 Yrths)
         volume: 9.455 × 10<sup>13</sup> km<sup>3</sup><br/>(87.289 Yrths)
-        mass: 2.370 × 10<sup>26</sup> kg<br />(38.463457546218315 Yrths)
+        mass: 2.370 × 10<sup>26</sup> kg<br />(39.690 Yrths)
         density: 2.507 g/cm<sup>3</sup>
         surface_gravity: 19.780 m/s<sup>2</sup><br />(2.017 g<sub>0</sub>)
         escape_velocity: 33.460 km/s<br />(120,455 km/h)
         rotation_period: 46.290 d
         axial_tilt: 13.63°
         albedo: 0.30
-        temperature: 3360 K<br />(3087 °C)
+        temperature: 411 K<br />(138 °C)
       - name: 1040 Urthiad II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -283,14 +283,14 @@ planets:
         radius: 39,616.3 km<br/>(6.218 Yrths)
         surface_area: 1.972 × 10<sup>10</sup> km<sup>2</sup><br/>(38.666 Yrths)
         volume: 2.604 × 10<sup>14</sup> km<sup>3</sup><br/>(240.435 Yrths)
-        mass: 5.695 × 10<sup>26</sup> kg<br />(38.463457546218315 Yrths)
+        mass: 5.695 × 10<sup>26</sup> kg<br />(95.364 Yrths)
         density: 2.187 g/cm<sup>3</sup>
         surface_gravity: 24.186 m/s<sup>2</sup><br />(2.466 g<sub>0</sub>)
         escape_velocity: 43.806 km/s<br />(157,701 km/h)
         rotation_period: 51.573 d
         axial_tilt: 14.73°
         albedo: 0.30
-        temperature: 3055 K<br />(2781 °C)
+        temperature: 411 K<br />(138 °C)
       - name: 1040 Urthiad II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -303,12 +303,12 @@ planets:
         radius: 36,711.8 km<br/>(5.762 Yrths)
         surface_area: 1.694 × 10<sup>10</sup> km<sup>2</sup><br/>(33.204 Yrths)
         volume: 2.073 × 10<sup>14</sup> km<sup>3</sup><br/>(191.334 Yrths)
-        mass: 5.027 × 10<sup>26</sup> kg<br />(38.463457546218315 Yrths)
+        mass: 5.027 × 10<sup>26</sup> kg<br />(84.179 Yrths)
         density: 2.426 g/cm<sup>3</sup>
         surface_gravity: 24.862 m/s<sup>2</sup><br />(2.535 g<sub>0</sub>)
         escape_velocity: 42.754 km/s<br />(153,915 km/h)
         rotation_period: 46.799 d
         axial_tilt: 12.51°
         albedo: 0.30
-        temperature: 2912 K<br />(2639 °C)
+        temperature: 411 K<br />(138 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1406 Ratharshinniad is a star in the constellation Ratharshin
+      1406 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 183.25 ly
 apparent_magnitude: 16.84
 absolute_magnitude: 13.09

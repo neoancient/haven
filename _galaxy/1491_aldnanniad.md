@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1491 Aldnanniad is a star in the constellation Aldnan
+      1491 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 443.39 ly
 apparent_magnitude: 10.42
 absolute_magnitude: 4.76

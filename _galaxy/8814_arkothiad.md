@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8814 Arkothiad is a star in the constellation Arkoth
+      8814 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 610.11 ly
 apparent_magnitude: 11.01
 absolute_magnitude: 4.65

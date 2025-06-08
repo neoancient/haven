@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1143 Ratharshinniad is a star in the constellation Ratharshin
+      1143 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 301.14 ly
 apparent_magnitude: 7.54
 absolute_magnitude: 2.72
@@ -31,14 +31,14 @@ planets:
     radius: 3,957.5 km<br/>(0.621 Yrths)
     surface_area: 1.968 × 10<sup>08</sup> km<sup>2</sup><br/>(0.386 Yrths)
     volume: 2.596 × 10<sup>11</sup> km<sup>3</sup><br/>(0.240 Yrths)
-    mass: 1.747 × 10<sup>24</sup> kg<br />(0.2924629184232043 Yrths)
+    mass: 1.747 × 10<sup>24</sup> kg<br />(0.29 Yrths)
     density: 6.727 g/cm<sup>3</sup>
     surface_gravity: 7.433 m/s<sup>2</sup><br />(0.758 g<sub>0</sub>)
     escape_velocity: 7.675 km/s<br />(27,632 km/h)
     rotation_period: 1.652 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 365 K<br />(92 °C)
+    temperature: 456 K<br />(183 °C)
     surface_pressure: 36 kPa<br />(0 atm)
     composition:
       - 87.3622% methane
@@ -57,14 +57,14 @@ planets:
         radius: 1,565.6 km<br/>(0.246 Yrths)
         surface_area: 3.080 × 10<sup>07</sup> km<sup>2</sup><br/>(0.060 Yrths)
         volume: 1.607 × 10<sup>10</sup> km<sup>3</sup><br/>(0.015 Yrths)
-        mass: 3.054 × 10<sup>22</sup> kg<br />(0.2924629184232043 Yrths)
+        mass: 3.054 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 0.831 m/s<sup>2</sup><br />(0.085 g<sub>0</sub>)
         escape_velocity: 1.614 km/s<br />(5,809 km/h)
         rotation_period: 57.937 d
         axial_tilt: 21.09°
         albedo: 0.30
-        temperature: 5800 K<br />(5526 °C)
+        temperature: 309 K<br />(36 °C)
   - name: 1143 Ratharshinniad II
     type: Large terrestrial
     aphelion: 523,250,957 km<br />3.498 AU
@@ -76,14 +76,14 @@ planets:
     radius: 11,647.5 km<br/>(1.828 Yrths)
     surface_area: 1.705 × 10<sup>09</sup> km<sup>2</sup><br/>(3.342 Yrths)
     volume: 6.619 × 10<sup>12</sup> km<sup>3</sup><br/>(6.111 Yrths)
-    mass: 4.754 × 10<sup>25</sup> kg<br />(7.959659050367936 Yrths)
+    mass: 4.754 × 10<sup>25</sup> kg<br />(7.96 Yrths)
     density: 7.182 g/cm<sup>3</sup>
     surface_gravity: 23.354 m/s<sup>2</sup><br />(2.381 g<sub>0</sub>)
     escape_velocity: 23.340 km/s<br />(84,025 km/h)
     rotation_period: 0.607 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 387 K<br />(114 °C)
+    temperature: 874 K<br />(601 °C)
     surface_pressure: 1,396 kPa<br />(14 atm)
     composition:
       - 65.9880% carbon dioxide
@@ -103,14 +103,14 @@ planets:
         radius: 12,754.4 km<br/>(2.002 Yrths)
         surface_area: 2.044 × 10<sup>09</sup> km<sup>2</sup><br/>(4.008 Yrths)
         volume: 8.691 × 10<sup>12</sup> km<sup>3</sup><br/>(8.023 Yrths)
-        mass: 9.450 × 10<sup>24</sup> kg<br />(7.959659050367936 Yrths)
+        mass: 9.450 × 10<sup>24</sup> kg<br />(1.582 Yrths)
         density: 1.087 g/cm<sup>3</sup>
         surface_gravity: 3.872 m/s<sup>2</sup><br />(0.395 g<sub>0</sub>)
         escape_velocity: 9.945 km/s<br />(35,803 km/h)
         rotation_period: 51.462 d
         axial_tilt: 22.32°
         albedo: 0.30
-        temperature: 2864 K<br />(2591 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 1143 Ratharshinniad II b
         type: Rocky
         formationType: Impact formed
@@ -123,14 +123,14 @@ planets:
         radius: 11,562.1 km<br/>(1.815 Yrths)
         surface_area: 1.680 × 10<sup>09</sup> km<sup>2</sup><br/>(3.294 Yrths)
         volume: 6.474 × 10<sup>12</sup> km<sup>3</sup><br/>(5.977 Yrths)
-        mass: 2.094 × 10<sup>25</sup> kg<br />(7.959659050367936 Yrths)
+        mass: 2.094 × 10<sup>25</sup> kg<br />(3.506 Yrths)
         density: 3.234 g/cm<sup>3</sup>
         surface_gravity: 10.440 m/s<sup>2</sup><br />(1.065 g<sub>0</sub>)
         escape_velocity: 15.548 km/s<br />(55,974 km/h)
         rotation_period: 42.195 d
         axial_tilt: 9.79°
         albedo: 0.30
-        temperature: 2730 K<br />(2457 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 1143 Ratharshinniad II c
         type: Asteroid
         formationType: Captured
@@ -143,14 +143,14 @@ planets:
         radius: 11,634.2 km<br/>(1.826 Yrths)
         surface_area: 1.701 × 10<sup>09</sup> km<sup>2</sup><br/>(3.335 Yrths)
         volume: 6.596 × 10<sup>12</sup> km<sup>3</sup><br/>(6.090 Yrths)
-        mass: 1.571 × 10<sup>25</sup> kg<br />(7.959659050367936 Yrths)
+        mass: 1.571 × 10<sup>25</sup> kg<br />(2.631 Yrths)
         density: 2.382 g/cm<sup>3</sup>
         surface_gravity: 7.737 m/s<sup>2</sup><br />(0.789 g<sub>0</sub>)
         escape_velocity: 13.427 km/s<br />(48,336 km/h)
         rotation_period: 35.111 d
         axial_tilt: 18.77°
         albedo: 0.30
-        temperature: 2603 K<br />(2330 °C)
+        temperature: 226 K<br />(-47 °C)
   - name: 1143 Ratharshinniad III
     type: Gas giant
     aphelion: 967,490,952 km<br />6.467 AU
@@ -162,7 +162,7 @@ planets:
     radius: 230.8 km<br/>(0.036 Yrths)
     surface_area: 6.692 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.148 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.904 × 10<sup>27</sup> kg<br />(318.80947772261993 Yrths)
+    mass: 1.904 × 10<sup>27</sup> kg<br />(318.81 Yrths)
     density: 36983379.568 g/cm<sup>3</sup>
     surface_gravity: 2382849.228 m/s<sup>2</sup><br />(242982.999 g<sub>0</sub>)
     escape_velocity: 1049.423 km/s<br />(3,777,924 km/h)
@@ -183,14 +183,14 @@ planets:
         radius: 386,246.0 km<br/>(60.626 Yrths)
         surface_area: 1.875 × 10<sup>12</sup> km<sup>2</sup><br/>(3675.469 Yrths)
         volume: 2.414 × 10<sup>17</sup> km<sup>3</sup><br/>(222827.663 Yrths)
-        mass: 3.428 × 10<sup>29</sup> kg<br />(318.80947772261993 Yrths)
+        mass: 3.428 × 10<sup>29</sup> kg<br />(57393.945 Yrths)
         density: 1.420 g/cm<sup>3</sup>
         surface_gravity: 153.135 m/s<sup>2</sup><br />(15.615 g<sub>0</sub>)
         escape_velocity: 344.175 km/s<br />(1,239,029 km/h)
         rotation_period: 44.811 d
         axial_tilt: 11.31°
         albedo: 0.30
-        temperature: 700 K<br />(427 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1143 Ratharshinniad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -203,14 +203,14 @@ planets:
         radius: 207,522.0 km<br/>(32.573 Yrths)
         surface_area: 5.412 × 10<sup>11</sup> km<sup>2</sup><br/>(1060.995 Yrths)
         volume: 3.744 × 10<sup>16</sup> km<sup>3</sup><br/>(34559.692 Yrths)
-        mass: 8.707 × 10<sup>28</sup> kg<br />(318.80947772261993 Yrths)
+        mass: 8.707 × 10<sup>28</sup> kg<br />(14579.377 Yrths)
         density: 2.326 g/cm<sup>3</sup>
         surface_gravity: 134.755 m/s<sup>2</sup><br />(13.741 g<sub>0</sub>)
         escape_velocity: 236.655 km/s<br />(851,957 km/h)
         rotation_period: 43.925 d
         axial_tilt: 10.53°
         albedo: 0.30
-        temperature: 343 K<br />(70 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1143 Ratharshinniad III c
         type: Icy
         formationType: Accreted
@@ -223,14 +223,14 @@ planets:
         radius: 320,555.8 km<br/>(50.315 Yrths)
         surface_area: 1.291 × 10<sup>12</sup> km<sup>2</sup><br/>(2531.582 Yrths)
         volume: 1.380 × 10<sup>17</sup> km<sup>3</sup><br/>(127376.105 Yrths)
-        mass: 9.658 × 10<sup>28</sup> kg<br />(318.80947772261993 Yrths)
+        mass: 9.658 × 10<sup>28</sup> kg<br />(16172.517 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 62.648 m/s<sup>2</sup><br />(6.388 g<sub>0</sub>)
         escape_velocity: 200.546 km/s<br />(721,967 km/h)
         rotation_period: 80.140 d
         axial_tilt: 17.66°
         albedo: 0.30
-        temperature: 234 K<br />(-39 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1143 Ratharshinniad III d
         type: Asteroid
         formationType: Captured
@@ -243,14 +243,14 @@ planets:
         radius: 212,880.5 km<br/>(33.414 Yrths)
         surface_area: 5.695 × 10<sup>11</sup> km<sup>2</sup><br/>(1116.494 Yrths)
         volume: 4.041 × 10<sup>16</sup> km<sup>3</sup><br/>(37306.502 Yrths)
-        mass: 1.161 × 10<sup>29</sup> kg<br />(318.80947772261993 Yrths)
+        mass: 1.161 × 10<sup>29</sup> kg<br />(19441.536 Yrths)
         density: 2.873 g/cm<sup>3</sup>
         surface_gravity: 170.763 m/s<sup>2</sup><br />(17.413 g<sub>0</sub>)
         escape_velocity: 269.821 km/s<br />(971,354 km/h)
         rotation_period: 42.990 d
         axial_tilt: 12.06°
         albedo: 0.30
-        temperature: 223 K<br />(-50 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1143 Ratharshinniad III e
         type: Dwarf planet
         formationType: Accreted
@@ -263,14 +263,14 @@ planets:
         radius: 189,514.4 km<br/>(29.746 Yrths)
         surface_area: 4.513 × 10<sup>11</sup> km<sup>2</sup><br/>(884.849 Yrths)
         volume: 2.851 × 10<sup>16</sup> km<sup>3</sup><br/>(26321.081 Yrths)
-        mass: 6.830 × 10<sup>28</sup> kg<br />(318.80947772261993 Yrths)
+        mass: 6.830 × 10<sup>28</sup> kg<br />(11436.063 Yrths)
         density: 2.395 g/cm<sup>3</sup>
         surface_gravity: 126.744 m/s<sup>2</sup><br />(12.924 g<sub>0</sub>)
         escape_velocity: 219.328 km/s<br />(789,582 km/h)
         rotation_period: 41.089 d
         axial_tilt: 36.20°
         albedo: 0.30
-        temperature: 184 K<br />(-89 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1143 Ratharshinniad III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -283,12 +283,12 @@ planets:
         radius: 261,696.4 km<br/>(41.076 Yrths)
         surface_area: 8.606 × 10<sup>11</sup> km<sup>2</sup><br/>(1687.254 Yrths)
         volume: 7.507 × 10<sup>16</sup> km<sup>3</sup><br/>(69305.965 Yrths)
-        mass: 1.446 × 10<sup>29</sup> kg<br />(318.80947772261993 Yrths)
+        mass: 1.446 × 10<sup>29</sup> kg<br />(24217.480 Yrths)
         density: 1.926 g/cm<sup>3</sup>
         surface_gravity: 140.757 m/s<sup>2</sup><br />(14.353 g<sub>0</sub>)
         escape_velocity: 271.608 km/s<br />(977,791 km/h)
         rotation_period: 40.852 d
         axial_tilt: 22.97°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 166 K<br />(-107 °C)
 ---

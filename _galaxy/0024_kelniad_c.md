@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Kelniad C is a star in the constellation Keln
+      0024 Kelniad C is a star in the constellation <a href="keln.html">Keln</a>
 distance: 353.44 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 5.59
@@ -31,14 +31,14 @@ planets:
     radius: 9,591.6 km<br/>(1.506 Yrths)
     surface_area: 1.156 × 10<sup>09</sup> km<sup>2</sup><br/>(2.267 Yrths)
     volume: 3.696 × 10<sup>12</sup> km<sup>3</sup><br/>(3.412 Yrths)
-    mass: 2.328 × 10<sup>25</sup> kg<br />(3.898511213692466 Yrths)
+    mass: 2.328 × 10<sup>25</sup> kg<br />(3.90 Yrths)
     density: 6.299 g/cm<sup>3</sup>
     surface_gravity: 16.868 m/s<sup>2</sup><br />(1.720 g<sub>0</sub>)
     escape_velocity: 18.000 km/s<br />(64,801 km/h)
     rotation_period: 1.103 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 386 K<br />(113 °C)
+    temperature: 1062 K<br />(789 °C)
     surface_pressure: 176 kPa<br />(2 atm)
     composition:
       - 95.9524% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 4,020.8 km<br/>(0.631 Yrths)
         surface_area: 2.032 × 10<sup>08</sup> km<sup>2</sup><br/>(0.398 Yrths)
         volume: 2.723 × 10<sup>11</sup> km<sup>3</sup><br/>(0.251 Yrths)
-        mass: 9.508 × 10<sup>23</sup> kg<br />(3.898511213692466 Yrths)
+        mass: 9.508 × 10<sup>23</sup> kg<br />(0.159 Yrths)
         density: 3.492 g/cm<sup>3</sup>
         surface_gravity: 3.920 m/s<sup>2</sup><br />(0.400 g<sub>0</sub>)
         escape_velocity: 5.618 km/s<br />(20,226 km/h)
         rotation_period: 40.688 d
         axial_tilt: 19.29°
         albedo: 0.30
-        temperature: 3718 K<br />(3445 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 0024 Kelniad C I b
         type: Rocky
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 3,143.0 km<br/>(0.493 Yrths)
         surface_area: 1.241 × 10<sup>08</sup> km<sup>2</sup><br/>(0.243 Yrths)
         volume: 1.300 × 10<sup>11</sup> km<sup>3</sup><br/>(0.120 Yrths)
-        mass: 4.617 × 10<sup>23</sup> kg<br />(3.898511213692466 Yrths)
+        mass: 4.617 × 10<sup>23</sup> kg<br />(0.077 Yrths)
         density: 3.550 g/cm<sup>3</sup>
         surface_gravity: 3.115 m/s<sup>2</sup><br />(0.318 g<sub>0</sub>)
         escape_velocity: 4.428 km/s<br />(15,941 km/h)
         rotation_period: 36.461 d
         axial_tilt: 12.08°
         albedo: 0.30
-        temperature: 3545 K<br />(3272 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 0024 Kelniad C I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -97,12 +97,12 @@ planets:
         radius: 9,270.9 km<br/>(1.455 Yrths)
         surface_area: 1.080 × 10<sup>09</sup> km<sup>2</sup><br/>(2.118 Yrths)
         volume: 3.338 × 10<sup>12</sup> km<sup>3</sup><br/>(3.081 Yrths)
-        mass: 6.334 × 10<sup>24</sup> kg<br />(3.898511213692466 Yrths)
+        mass: 6.334 × 10<sup>24</sup> kg<br />(1.061 Yrths)
         density: 1.898 g/cm<sup>3</sup>
         surface_gravity: 4.912 m/s<sup>2</sup><br />(0.501 g<sub>0</sub>)
         escape_velocity: 9.550 km/s<br />(34,379 km/h)
         rotation_period: 60.885 d
         axial_tilt: 33.79°
         albedo: 0.30
-        temperature: 3380 K<br />(3107 °C)
+        temperature: 238 K<br />(-35 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5139 Athiad A is a star in the constellation Ath
+      5139 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 690.81 ly
 apparent_magnitude: 7.55
 absolute_magnitude: 0.92

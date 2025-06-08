@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2046 Geardiad is a star in the constellation Geard
+      2046 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 316.63 ly
 apparent_magnitude: 19.37
 absolute_magnitude: 14.43

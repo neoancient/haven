@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Fyaru A is a star in the constellation Kerr
+      Fyaru A is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 687.49 ly
 apparent_magnitude: 0.82
 absolute_magnitude: -5.79

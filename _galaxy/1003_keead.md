@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1003 Keead is a star in the constellation Kee
+      1003 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 455.36 ly
 apparent_magnitude: 11.13
 absolute_magnitude: 5.41

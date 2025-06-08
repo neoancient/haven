@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6339 Narashiad A is a star in the constellation Naras
+      6339 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 396.21 ly
 apparent_magnitude: 7.81
 absolute_magnitude: 2.39

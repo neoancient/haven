@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0267 Niniunniad B is a star in the constellation Niniun
+      0267 Niniunniad B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 431.34 ly
 apparent_magnitude: 14.33
 absolute_magnitude: 8.72

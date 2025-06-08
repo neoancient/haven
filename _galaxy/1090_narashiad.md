@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1090 Narashiad is a star in the constellation Naras
+      1090 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 313.59 ly
 apparent_magnitude: 18.36
 absolute_magnitude: 13.44

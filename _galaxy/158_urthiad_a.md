@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      158 Urthiad A is a star in the constellation Urth
+      158 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 438.78 ly
 apparent_magnitude: 6.63
 absolute_magnitude: 0.98

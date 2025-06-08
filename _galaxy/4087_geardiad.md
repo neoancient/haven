@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4087 Geardiad is a star in the constellation Geard
+      4087 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 639.26 ly
 apparent_magnitude: 14.47
 absolute_magnitude: 8.01

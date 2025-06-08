@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3016 Athiad is a star in the constellation Ath
+      3016 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 426.40 ly
 apparent_magnitude: 10.59
 absolute_magnitude: 5.01

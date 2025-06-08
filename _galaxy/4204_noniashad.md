@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4204 Noniashad is a star in the constellation Nonias
+      4204 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 542.45 ly
 apparent_magnitude: 11.93
 absolute_magnitude: 5.82

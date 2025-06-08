@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      372 Nurranpugiad A is a star in the constellation Nurranpug
+      372 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 1092.39 ly
 apparent_magnitude: 7.47
 absolute_magnitude: -0.16

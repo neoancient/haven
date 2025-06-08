@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      219 Naddiad A is a star in the constellation Naddi
+      219 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 334.26 ly
 apparent_magnitude: 10.19
 absolute_magnitude: 5.13

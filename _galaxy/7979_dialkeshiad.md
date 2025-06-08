@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7979 Dialkeshiad is a star in the constellation Dialkes
+      7979 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 595.45 ly
 apparent_magnitude: 7.60
 absolute_magnitude: 1.30
@@ -31,14 +31,14 @@ planets:
     radius: 15,929.9 km<br/>(2.500 Yrths)
     surface_area: 3.189 × 10<sup>09</sup> km<sup>2</sup><br/>(6.252 Yrths)
     volume: 1.693 × 10<sup>13</sup> km<sup>3</sup><br/>(15.632 Yrths)
-    mass: 4.097 × 10<sup>25</sup> kg<br />(6.859904441972945 Yrths)
+    mass: 4.097 × 10<sup>25</sup> kg<br />(6.86 Yrths)
     density: 2.419 g/cm<sup>3</sup>
     surface_gravity: 10.760 m/s<sup>2</sup><br />(1.097 g<sub>0</sub>)
     escape_velocity: 18.528 km/s<br />(66,701 km/h)
     rotation_period: 0.453 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 505 K<br />(232 °C)
+    temperature: 451 K<br />(178 °C)
     composition:
       - 98.6068% hydrogen
       - 0.8295% ammonia
@@ -57,14 +57,14 @@ planets:
         radius: 12,787.1 km<br/>(2.007 Yrths)
         surface_area: 2.055 × 10<sup>09</sup> km<sup>2</sup><br/>(4.028 Yrths)
         volume: 8.758 × 10<sup>12</sup> km<sup>3</sup><br/>(8.085 Yrths)
-        mass: 1.082 × 10<sup>25</sup> kg<br />(6.859904441972945 Yrths)
+        mass: 1.082 × 10<sup>25</sup> kg<br />(1.811 Yrths)
         density: 1.235 g/cm<sup>3</sup>
         surface_gravity: 4.410 m/s<sup>2</sup><br />(0.450 g<sub>0</sub>)
         escape_velocity: 10.627 km/s<br />(38,256 km/h)
         rotation_period: 85.178 d
         axial_tilt: 12.21°
         albedo: 0.30
-        temperature: 3732 K<br />(3459 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 7979 Dialkeshiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 16,304.7 km<br/>(2.559 Yrths)
         surface_area: 3.341 × 10<sup>09</sup> km<sup>2</sup><br/>(6.550 Yrths)
         volume: 1.816 × 10<sup>13</sup> km<sup>3</sup><br/>(16.762 Yrths)
-        mass: 4.443 × 10<sup>25</sup> kg<br />(6.859904441972945 Yrths)
+        mass: 4.443 × 10<sup>25</sup> kg<br />(7.441 Yrths)
         density: 2.447 g/cm<sup>3</sup>
         surface_gravity: 11.141 m/s<sup>2</sup><br />(1.136 g<sub>0</sub>)
         escape_velocity: 19.073 km/s<br />(68,663 km/h)
         rotation_period: 54.692 d
         axial_tilt: 16.65°
         albedo: 0.30
-        temperature: 3558 K<br />(3285 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 7979 Dialkeshiad I c
         type: Icy
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 14,298.9 km<br/>(2.244 Yrths)
         surface_area: 2.569 × 10<sup>09</sup> km<sup>2</sup><br/>(5.037 Yrths)
         volume: 1.225 × 10<sup>13</sup> km<sup>3</sup><br/>(11.305 Yrths)
-        mass: 1.206 × 10<sup>25</sup> kg<br />(6.859904441972945 Yrths)
+        mass: 1.206 × 10<sup>25</sup> kg<br />(2.019 Yrths)
         density: 0.984 g/cm<sup>3</sup>
         surface_gravity: 3.930 m/s<sup>2</sup><br />(0.401 g<sub>0</sub>)
         escape_velocity: 10.609 km/s<br />(38,191 km/h)
         rotation_period: 55.333 d
         axial_tilt: 16.43°
         albedo: 0.30
-        temperature: 3393 K<br />(3120 °C)
+        temperature: 322 K<br />(49 °C)
   - name: 7979 Dialkeshiad II
     type: Large terrestrial
     aphelion: 824,477,126 km<br />5.511 AU
@@ -116,14 +116,14 @@ planets:
     radius: 11,025.3 km<br/>(1.731 Yrths)
     surface_area: 1.528 × 10<sup>09</sup> km<sup>2</sup><br/>(2.995 Yrths)
     volume: 5.614 × 10<sup>12</sup> km<sup>3</sup><br/>(5.183 Yrths)
-    mass: 3.810 × 10<sup>25</sup> kg<br />(6.3794576439749955 Yrths)
+    mass: 3.810 × 10<sup>25</sup> kg<br />(6.38 Yrths)
     density: 6.786 g/cm<sup>3</sup>
     surface_gravity: 20.890 m/s<sup>2</sup><br />(2.130 g<sub>0</sub>)
     escape_velocity: 21.477 km/s<br />(77,317 km/h)
     rotation_period: 0.547 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 370 K<br />(96 °C)
+    temperature: 459 K<br />(185 °C)
     surface_pressure: 4,157 kPa<br />(41 atm)
     composition:
       - 97.9680% methane
@@ -143,14 +143,14 @@ planets:
         radius: 10,663.6 km<br/>(1.674 Yrths)
         surface_area: 1.429 × 10<sup>09</sup> km<sup>2</sup><br/>(2.802 Yrths)
         volume: 5.079 × 10<sup>12</sup> km<sup>3</sup><br/>(4.689 Yrths)
-        mass: 8.771 × 10<sup>24</sup> kg<br />(6.3794576439749955 Yrths)
+        mass: 8.771 × 10<sup>24</sup> kg<br />(1.469 Yrths)
         density: 1.727 g/cm<sup>3</sup>
         surface_gravity: 5.141 m/s<sup>2</sup><br />(0.524 g<sub>0</sub>)
         escape_velocity: 10.478 km/s<br />(37,722 km/h)
         rotation_period: 38.740 d
         axial_tilt: 16.57°
         albedo: 0.30
-        temperature: 2896 K<br />(2623 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 7979 Dialkeshiad II b
         type: Rocky
         formationType: Impact formed
@@ -163,14 +163,14 @@ planets:
         radius: 9,267.6 km<br/>(1.455 Yrths)
         surface_area: 1.079 × 10<sup>09</sup> km<sup>2</sup><br/>(2.116 Yrths)
         volume: 3.334 × 10<sup>12</sup> km<sup>3</sup><br/>(3.078 Yrths)
-        mass: 9.334 × 10<sup>24</sup> kg<br />(6.3794576439749955 Yrths)
+        mass: 9.334 × 10<sup>24</sup> kg<br />(1.563 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 7.244 m/s<sup>2</sup><br />(0.739 g<sub>0</sub>)
         escape_velocity: 11.595 km/s<br />(41,742 km/h)
         rotation_period: 41.304 d
         axial_tilt: 11.75°
         albedo: 0.30
-        temperature: 2762 K<br />(2488 °C)
+        temperature: 235 K<br />(-38 °C)
   - name: 7979 Dialkeshiad III
     type: Large terrestrial
     aphelion: 1,968,304,429 km<br />13.157 AU
@@ -182,14 +182,14 @@ planets:
     radius: 11,105.4 km<br/>(1.743 Yrths)
     surface_area: 1.550 × 10<sup>09</sup> km<sup>2</sup><br/>(3.038 Yrths)
     volume: 5.737 × 10<sup>12</sup> km<sup>3</sup><br/>(5.296 Yrths)
-    mass: 3.883 × 10<sup>25</sup> kg<br />(6.501559438252136 Yrths)
+    mass: 3.883 × 10<sup>25</sup> kg<br />(6.50 Yrths)
     density: 6.768 g/cm<sup>3</sup>
     surface_gravity: 20.984 m/s<sup>2</sup><br />(2.140 g<sub>0</sub>)
     escape_velocity: 21.603 km/s<br />(77,772 km/h)
     rotation_period: 0.534 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 271 K<br />(-2 °C)
+    temperature: 374 K<br />(100 °C)
     surface_pressure: 3,115 kPa<br />(31 atm)
     composition:
       - 92.6024% methane
@@ -208,14 +208,14 @@ planets:
         radius: 7,448.5 km<br/>(1.169 Yrths)
         surface_area: 6.972 × 10<sup>08</sup> km<sup>2</sup><br/>(1.367 Yrths)
         volume: 1.731 × 10<sup>12</sup> km<sup>3</sup><br/>(1.598 Yrths)
-        mass: 5.390 × 10<sup>24</sup> kg<br />(6.501559438252136 Yrths)
+        mass: 5.390 × 10<sup>24</sup> kg<br />(0.903 Yrths)
         density: 3.114 g/cm<sup>3</sup>
         surface_gravity: 6.475 m/s<sup>2</sup><br />(0.660 g<sub>0</sub>)
         escape_velocity: 9.828 km/s<br />(35,382 km/h)
         rotation_period: 54.748 d
         axial_tilt: 13.03°
         albedo: 0.30
-        temperature: 2151 K<br />(1878 °C)
+        temperature: 172 K<br />(-101 °C)
       - name: 7979 Dialkeshiad III b
         type: Rocky
         formationType: Impact formed
@@ -228,12 +228,12 @@ planets:
         radius: 8,248.6 km<br/>(1.295 Yrths)
         surface_area: 8.550 × 10<sup>08</sup> km<sup>2</sup><br/>(1.676 Yrths)
         volume: 2.351 × 10<sup>12</sup> km<sup>3</sup><br/>(2.170 Yrths)
-        mass: 6.691 × 10<sup>24</sup> kg<br />(6.501559438252136 Yrths)
+        mass: 6.691 × 10<sup>24</sup> kg<br />(1.120 Yrths)
         density: 2.846 g/cm<sup>3</sup>
         surface_gravity: 6.555 m/s<sup>2</sup><br />(0.668 g<sub>0</sub>)
         escape_velocity: 10.406 km/s<br />(37,461 km/h)
         rotation_period: 32.683 d
         axial_tilt: 18.78°
         albedo: 0.30
-        temperature: 2051 K<br />(1777 °C)
+        temperature: 172 K<br />(-101 °C)
 ---

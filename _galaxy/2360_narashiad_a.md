@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2360 Narashiad A is a star in the constellation Naras
+      2360 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 639.05 ly
 apparent_magnitude: 8.68
 absolute_magnitude: 2.22

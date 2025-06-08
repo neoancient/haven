@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2039 Lunaiad is a star in the constellation Luna
+      2039 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 487.91 ly
 apparent_magnitude: 12.15
 absolute_magnitude: 6.27

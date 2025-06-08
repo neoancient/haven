@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Arunai B is a star in the constellation Esunrain
+      Arunai B is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 312.23 ly
 apparent_magnitude: 9.63
 absolute_magnitude: 4.73

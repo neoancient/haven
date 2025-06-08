@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0037 Olliad B is a star in the constellation Ol
+      0037 Olliad B is a star in the constellation <a href="ol.html">Ol</a>
 distance: 252.81 ly
 apparent_magnitude: 9.63
 absolute_magnitude: 5.18

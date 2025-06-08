@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      132921 Dialkeshiad A is a star in the constellation Dialkes
+      132921 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 410.39 ly
 apparent_magnitude: 8.34
 absolute_magnitude: 2.84

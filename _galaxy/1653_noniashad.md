@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1653 Noniashad is a star in the constellation Nonias
+      1653 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 333.83 ly
 apparent_magnitude: 9.88
 absolute_magnitude: 4.83

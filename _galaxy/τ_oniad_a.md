@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Oniad A is a star in the constellation Oni
+      τ Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 171.40 ly
 apparent_magnitude: 6.39
 absolute_magnitude: 2.79

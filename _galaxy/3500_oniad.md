@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3500 Oniad is a star in the constellation Oni
+      3500 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 246.85 ly
 apparent_magnitude: 9.35
 absolute_magnitude: 4.96

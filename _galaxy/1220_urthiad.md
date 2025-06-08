@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1220 Urthiad is a star in the constellation Urth
+      1220 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 1159.54 ly
 apparent_magnitude: 15.29
 absolute_magnitude: 7.54

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1420 Dialkeshiad A is a star in the constellation Dialkes
+      1420 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 353.06 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 4.28

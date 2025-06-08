@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      727 Lunaiad is a star in the constellation Luna
+      727 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 608.96 ly
 apparent_magnitude: 12.03
 absolute_magnitude: 5.67

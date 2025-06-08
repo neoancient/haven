@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0067 Shanniashiad C is a star in the constellation Shannias
+      0067 Shanniashiad C is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 385.33 ly
 apparent_magnitude: 10.23
 absolute_magnitude: 4.87
@@ -31,7 +31,7 @@ planets:
     radius: 183.0 km<br/>(0.029 Yrths)
     surface_area: 4.207 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.566 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.928 × 10<sup>26</sup> kg<br />(166.2374184594644 Yrths)
+    mass: 9.928 × 10<sup>26</sup> kg<br />(166.24 Yrths)
     density: 38694995.222 g/cm<sup>3</sup>
     surface_gravity: 1976641.395 m/s<sup>2</sup><br />(201561.328 g<sub>0</sub>)
     escape_velocity: 851.056 km/s<br />(3,063,800 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 114,989.2 km<br/>(18.049 Yrths)
         surface_area: 1.662 × 10<sup>11</sup> km<sup>2</sup><br/>(325.761 Yrths)
         volume: 6.369 × 10<sup>15</sup> km<sup>3</sup><br/>(5879.615 Yrths)
-        mass: 1.284 × 10<sup>28</sup> kg<br />(166.2374184594644 Yrths)
+        mass: 1.284 × 10<sup>28</sup> kg<br />(2149.207 Yrths)
         density: 2.015 g/cm<sup>3</sup>
         surface_gravity: 64.699 m/s<sup>2</sup><br />(6.597 g<sub>0</sub>)
         escape_velocity: 122.064 km/s<br />(439,431 km/h)
         rotation_period: 51.420 d
         axial_tilt: 10.69°
         albedo: 0.30
-        temperature: 1441 K<br />(1167 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0067 Shanniashiad C I b
         type: Asteroid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 108,888.9 km<br/>(17.091 Yrths)
         surface_area: 1.490 × 10<sup>11</sup> km<sup>2</sup><br/>(292.114 Yrths)
         volume: 5.408 × 10<sup>15</sup> km<sup>3</sup><br/>(4992.611 Yrths)
-        mass: 1.976 × 10<sup>28</sup> kg<br />(166.2374184594644 Yrths)
+        mass: 1.976 × 10<sup>28</sup> kg<br />(3309.496 Yrths)
         density: 3.655 g/cm<sup>3</sup>
         surface_gravity: 111.104 m/s<sup>2</sup><br />(11.329 g<sub>0</sub>)
         escape_velocity: 155.656 km/s<br />(560,363 km/h)
         rotation_period: 35.725 d
         axial_tilt: 31.21°
         albedo: 0.30
-        temperature: 1135 K<br />(862 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0067 Shanniashiad C I c
         type: Icy
         formationType: Impact formed
@@ -92,14 +92,14 @@ planets:
         radius: 132,616.8 km<br/>(20.816 Yrths)
         surface_area: 2.210 × 10<sup>11</sup> km<sup>2</sup><br/>(433.294 Yrths)
         volume: 9.770 × 10<sup>15</sup> km<sup>3</sup><br/>(9019.310 Yrths)
-        mass: 1.433 × 10<sup>28</sup> kg<br />(166.2374184594644 Yrths)
+        mass: 1.433 × 10<sup>28</sup> kg<br />(2399.335 Yrths)
         density: 1.467 g/cm<sup>3</sup>
         surface_gravity: 54.304 m/s<sup>2</sup><br />(5.537 g<sub>0</sub>)
         escape_velocity: 120.095 km/s<br />(432,341 km/h)
         rotation_period: 49.142 d
         axial_tilt: 13.58°
         albedo: 0.30
-        temperature: 705 K<br />(432 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0067 Shanniashiad C I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 138,080.3 km<br/>(21.673 Yrths)
         surface_area: 2.396 × 10<sup>11</sup> km<sup>2</sup><br/>(469.730 Yrths)
         volume: 1.103 × 10<sup>16</sup> km<sup>3</sup><br/>(10180.577 Yrths)
-        mass: 1.716 × 10<sup>28</sup> kg<br />(166.2374184594644 Yrths)
+        mass: 1.716 × 10<sup>28</sup> kg<br />(2874.179 Yrths)
         density: 1.557 g/cm<sup>3</sup>
         surface_gravity: 60.005 m/s<sup>2</sup><br />(6.119 g<sub>0</sub>)
         escape_velocity: 128.816 km/s<br />(463,737 km/h)
         rotation_period: 45.956 d
         axial_tilt: 24.86°
         albedo: 0.30
-        temperature: 345 K<br />(72 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0067 Shanniashiad C I e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 113,880.8 km<br/>(17.875 Yrths)
         surface_area: 1.630 × 10<sup>11</sup> km<sup>2</sup><br/>(319.511 Yrths)
         volume: 6.186 × 10<sup>15</sup> km<sup>3</sup><br/>(5711.213 Yrths)
-        mass: 1.277 × 10<sup>28</sup> kg<br />(166.2374184594644 Yrths)
+        mass: 1.277 × 10<sup>28</sup> kg<br />(2137.843 Yrths)
         density: 2.064 g/cm<sup>3</sup>
         surface_gravity: 65.616 m/s<sup>2</sup><br />(6.691 g<sub>0</sub>)
         escape_velocity: 122.332 km/s<br />(440,396 km/h)
         rotation_period: 50.974 d
         axial_tilt: 18.91°
         albedo: 0.30
-        temperature: 259 K<br />(-14 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0067 Shanniashiad C I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 158,695.7 km<br/>(24.909 Yrths)
         surface_area: 3.165 × 10<sup>11</sup> km<sup>2</sup><br/>(620.462 Yrths)
         volume: 1.674 × 10<sup>16</sup> km<sup>3</sup><br/>(15455.123 Yrths)
-        mass: 4.688 × 10<sup>28</sup> kg<br />(166.2374184594644 Yrths)
+        mass: 4.688 × 10<sup>28</sup> kg<br />(7849.141 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 124.059 m/s<sup>2</sup><br />(12.650 g<sub>0</sub>)
         escape_velocity: 198.567 km/s<br />(714,840 km/h)
         rotation_period: 38.177 d
         axial_tilt: 16.78°
         albedo: 0.30
-        temperature: 225 K<br />(-49 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0067 Shanniashiad C I g
         type: Icy
         formationType: Impact formed
@@ -172,14 +172,14 @@ planets:
         radius: 149,748.3 km<br/>(23.505 Yrths)
         surface_area: 2.818 × 10<sup>11</sup> km<sup>2</sup><br/>(552.470 Yrths)
         volume: 1.407 × 10<sup>16</sup> km<sup>3</sup><br/>(12985.632 Yrths)
-        mass: 1.922 × 10<sup>28</sup> kg<br />(166.2374184594644 Yrths)
+        mass: 1.922 × 10<sup>28</sup> kg<br />(3218.498 Yrths)
         density: 1.366 g/cm<sup>3</sup>
         surface_gravity: 57.130 m/s<sup>2</sup><br />(5.826 g<sub>0</sub>)
         escape_velocity: 130.895 km/s<br />(471,222 km/h)
         rotation_period: 46.875 d
         axial_tilt: 20.73°
         albedo: 0.30
-        temperature: 177 K<br />(-96 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0067 Shanniashiad C I h
         type: Icy
         formationType: Accreted
@@ -192,14 +192,14 @@ planets:
         radius: 147,710.1 km<br/>(23.185 Yrths)
         surface_area: 2.742 × 10<sup>11</sup> km<sup>2</sup><br/>(537.533 Yrths)
         volume: 1.350 × 10<sup>16</sup> km<sup>3</sup><br/>(12462.578 Yrths)
-        mass: 1.594 × 10<sup>28</sup> kg<br />(166.2374184594644 Yrths)
+        mass: 1.594 × 10<sup>28</sup> kg<br />(2669.407 Yrths)
         density: 1.181 g/cm<sup>3</sup>
         surface_gravity: 48.700 m/s<sup>2</sup><br />(4.966 g<sub>0</sub>)
         escape_velocity: 120.027 km/s<br />(432,098 km/h)
         rotation_period: 72.922 d
         axial_tilt: 20.05°
         albedo: 0.30
-        temperature: 169 K<br />(-104 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0067 Shanniashiad C I i
         type: Rocky
         formationType: Captured
@@ -212,14 +212,14 @@ planets:
         radius: 121,493.0 km<br/>(19.070 Yrths)
         surface_area: 1.855 × 10<sup>11</sup> km<sup>2</sup><br/>(363.653 Yrths)
         volume: 7.512 × 10<sup>15</sup> km<sup>3</sup><br/>(6934.748 Yrths)
-        mass: 2.180 × 10<sup>28</sup> kg<br />(166.2374184594644 Yrths)
+        mass: 2.180 × 10<sup>28</sup> kg<br />(3650.783 Yrths)
         density: 2.902 g/cm<sup>3</sup>
         surface_gravity: 98.451 m/s<sup>2</sup><br />(10.039 g<sub>0</sub>)
         escape_velocity: 154.773 km/s<br />(557,183 km/h)
         rotation_period: 54.298 d
         axial_tilt: 12.44°
         albedo: 0.30
-        temperature: 133 K<br />(-140 °C)
+        temperature: 320 K<br />(47 °C)
   - name: 0067 Shanniashiad C II
     type: Ice giant
     aphelion: 184,305,394 km<br />1.232 AU
@@ -231,14 +231,14 @@ planets:
     radius: 24,571.6 km<br/>(3.857 Yrths)
     surface_area: 7.587 × 10<sup>09</sup> km<sup>2</sup><br/>(14.875 Yrths)
     volume: 6.214 × 10<sup>13</sup> km<sup>3</sup><br/>(57.369 Yrths)
-    mass: 8.008 × 10<sup>25</sup> kg<br />(13.409252463247059 Yrths)
+    mass: 8.008 × 10<sup>25</sup> kg<br />(13.41 Yrths)
     density: 1.289 g/cm<sup>3</sup>
     surface_gravity: 8.840 m/s<sup>2</sup><br />(0.901 g<sub>0</sub>)
     escape_velocity: 20.858 km/s<br />(75,087 km/h)
     rotation_period: 0.855 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 417 K<br />(144 °C)
+    temperature: 416 K<br />(143 °C)
     composition:
       - 57.6923% hydrogen
       - 38.3455% helium
@@ -257,14 +257,14 @@ planets:
         radius: 10,232.7 km<br/>(1.606 Yrths)
         surface_area: 1.316 × 10<sup>09</sup> km<sup>2</sup><br/>(2.580 Yrths)
         volume: 4.488 × 10<sup>12</sup> km<sup>3</sup><br/>(4.143 Yrths)
-        mass: 1.257 × 10<sup>25</sup> kg<br />(13.409252463247059 Yrths)
+        mass: 1.257 × 10<sup>25</sup> kg<br />(2.104 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 7.999 m/s<sup>2</sup><br />(0.816 g<sub>0</sub>)
         escape_velocity: 12.804 km/s<br />(46,093 km/h)
         rotation_period: 53.794 d
         axial_tilt: 21.06°
         albedo: 0.30
-        temperature: 2099 K<br />(1826 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 0067 Shanniashiad C II b
         type: Icy
         formationType: Captured
@@ -277,14 +277,14 @@ planets:
         radius: 17,317.0 km<br/>(2.718 Yrths)
         surface_area: 3.768 × 10<sup>09</sup> km<sup>2</sup><br/>(7.388 Yrths)
         volume: 2.175 × 10<sup>13</sup> km<sup>3</sup><br/>(20.082 Yrths)
-        mass: 1.603 × 10<sup>25</sup> kg<br />(13.409252463247059 Yrths)
+        mass: 1.603 × 10<sup>25</sup> kg<br />(2.685 Yrths)
         density: 0.737 g/cm<sup>3</sup>
         surface_gravity: 3.564 m/s<sup>2</sup><br />(0.363 g<sub>0</sub>)
         escape_velocity: 11.117 km/s<br />(40,022 km/h)
         rotation_period: 82.407 d
         axial_tilt: 20.72°
         albedo: 0.30
-        temperature: 2001 K<br />(1728 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 0067 Shanniashiad C II c
         type: Icy
         formationType: Accreted
@@ -297,14 +297,14 @@ planets:
         radius: 27,010.5 km<br/>(4.240 Yrths)
         surface_area: 9.168 × 10<sup>09</sup> km<sup>2</sup><br/>(17.974 Yrths)
         volume: 8.254 × 10<sup>13</sup> km<sup>3</sup><br/>(76.204 Yrths)
-        mass: 7.438 × 10<sup>25</sup> kg<br />(13.409252463247059 Yrths)
+        mass: 7.438 × 10<sup>25</sup> kg<br />(12.455 Yrths)
         density: 0.901 g/cm<sup>3</sup>
         surface_gravity: 6.795 m/s<sup>2</sup><br />(0.693 g<sub>0</sub>)
         escape_velocity: 19.172 km/s<br />(69,021 km/h)
         rotation_period: 55.737 d
         axial_tilt: 25.05°
         albedo: 0.30
-        temperature: 1819 K<br />(1546 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 0067 Shanniashiad C II d
         type: Asteroid
         formationType: Captured
@@ -317,14 +317,14 @@ planets:
         radius: 22,437.6 km<br/>(3.522 Yrths)
         surface_area: 6.327 × 10<sup>09</sup> km<sup>2</sup><br/>(12.403 Yrths)
         volume: 4.732 × 10<sup>13</sup> km<sup>3</sup><br/>(43.683 Yrths)
-        mass: 1.035 × 10<sup>26</sup> kg<br />(13.409252463247059 Yrths)
+        mass: 1.035 × 10<sup>26</sup> kg<br />(17.326 Yrths)
         density: 2.187 g/cm<sup>3</sup>
         surface_gravity: 13.699 m/s<sup>2</sup><br />(1.397 g<sub>0</sub>)
         escape_velocity: 24.811 km/s<br />(89,318 km/h)
         rotation_period: 49.041 d
         axial_tilt: 28.41°
         albedo: 0.30
-        temperature: 1654 K<br />(1381 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 0067 Shanniashiad C II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -337,14 +337,14 @@ planets:
         radius: 14,626.5 km<br/>(2.296 Yrths)
         surface_area: 2.688 × 10<sup>09</sup> km<sup>2</sup><br/>(5.271 Yrths)
         volume: 1.311 × 10<sup>13</sup> km<sup>3</sup><br/>(12.100 Yrths)
-        mass: 3.451 × 10<sup>25</sup> kg<br />(13.409252463247059 Yrths)
+        mass: 3.451 × 10<sup>25</sup> kg<br />(5.779 Yrths)
         density: 2.633 g/cm<sup>3</sup>
         surface_gravity: 10.753 m/s<sup>2</sup><br />(1.096 g<sub>0</sub>)
         escape_velocity: 17.748 km/s<br />(63,892 km/h)
         rotation_period: 46.300 d
         axial_tilt: 7.92°
         albedo: 0.30
-        temperature: 1504 K<br />(1230 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 0067 Shanniashiad C II f
         type: Icy
         formationType: Captured
@@ -357,14 +357,14 @@ planets:
         radius: 15,309.6 km<br/>(2.403 Yrths)
         surface_area: 2.945 × 10<sup>09</sup> km<sup>2</sup><br/>(5.774 Yrths)
         volume: 1.503 × 10<sup>13</sup> km<sup>3</sup><br/>(13.876 Yrths)
-        mass: 1.367 × 10<sup>25</sup> kg<br />(13.409252463247059 Yrths)
+        mass: 1.367 × 10<sup>25</sup> kg<br />(2.289 Yrths)
         density: 0.910 g/cm<sup>3</sup>
         surface_gravity: 3.888 m/s<sup>2</sup><br />(0.396 g<sub>0</sub>)
         escape_velocity: 10.918 km/s<br />(39,304 km/h)
         rotation_period: 87.847 d
         axial_tilt: 18.27°
         albedo: 0.30
-        temperature: 1434 K<br />(1160 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 0067 Shanniashiad C II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -377,14 +377,14 @@ planets:
         radius: 10,049.7 km<br/>(1.577 Yrths)
         surface_area: 1.269 × 10<sup>09</sup> km<sup>2</sup><br/>(2.488 Yrths)
         volume: 4.252 × 10<sup>12</sup> km<sup>3</sup><br/>(3.925 Yrths)
-        mass: 1.051 × 10<sup>25</sup> kg<br />(13.409252463247059 Yrths)
+        mass: 1.051 × 10<sup>25</sup> kg<br />(1.759 Yrths)
         density: 2.471 g/cm<sup>3</sup>
         surface_gravity: 6.934 m/s<sup>2</sup><br />(0.707 g<sub>0</sub>)
         escape_velocity: 11.814 km/s<br />(42,530 km/h)
         rotation_period: 61.790 d
         axial_tilt: 13.87°
         albedo: 0.30
-        temperature: 1367 K<br />(1094 °C)
+        temperature: 240 K<br />(-33 °C)
   - name: 0067 Shanniashiad C III
     type: Gas giant
     aphelion: 310,602,522 km<br />2.076 AU
@@ -396,7 +396,7 @@ planets:
     radius: 169.7 km<br/>(0.027 Yrths)
     surface_area: 3.618 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.047 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.135 × 10<sup>26</sup> kg<br />(85.99220049270261 Yrths)
+    mass: 5.135 × 10<sup>26</sup> kg<br />(85.99 Yrths)
     density: 25093170.319 g/cm<sup>3</sup>
     surface_gravity: 1188789.981 m/s<sup>2</sup><br />(121222.842 g<sub>0</sub>)
     escape_velocity: 635.601 km/s<br />(2,288,165 km/h)
@@ -417,14 +417,14 @@ planets:
         radius: 106,897.9 km<br/>(16.779 Yrths)
         surface_area: 1.436 × 10<sup>11</sup> km<sup>2</sup><br/>(281.529 Yrths)
         volume: 5.117 × 10<sup>15</sup> km<sup>3</sup><br/>(4723.730 Yrths)
-        mass: 4.705 × 10<sup>27</sup> kg<br />(85.99220049270261 Yrths)
+        mass: 4.705 × 10<sup>27</sup> kg<br />(787.801 Yrths)
         density: 0.919 g/cm<sup>3</sup>
         surface_gravity: 27.442 m/s<sup>2</sup><br />(2.798 g<sub>0</sub>)
         escape_velocity: 76.648 km/s<br />(275,933 km/h)
         rotation_period: 60.558 d
         axial_tilt: 18.01°
         albedo: 0.30
-        temperature: 1202 K<br />(928 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0067 Shanniashiad C III b
         type: Asteroid
         formationType: Captured
@@ -437,14 +437,14 @@ planets:
         radius: 96,440.4 km<br/>(15.137 Yrths)
         surface_area: 1.169 × 10<sup>11</sup> km<sup>2</sup><br/>(229.141 Yrths)
         volume: 3.757 × 10<sup>15</sup> km<sup>3</sup><br/>(3468.602 Yrths)
-        mass: 9.011 × 10<sup>27</sup> kg<br />(85.99220049270261 Yrths)
+        mass: 9.011 × 10<sup>27</sup> kg<br />(1508.926 Yrths)
         density: 2.398 g/cm<sup>3</sup>
         surface_gravity: 64.578 m/s<sup>2</sup><br />(6.585 g<sub>0</sub>)
         escape_velocity: 111.682 km/s<br />(402,054 km/h)
         rotation_period: 46.757 d
         axial_tilt: 18.64°
         albedo: 0.30
-        temperature: 1092 K<br />(819 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0067 Shanniashiad C III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -457,14 +457,14 @@ planets:
         radius: 78,137.3 km<br/>(12.265 Yrths)
         surface_area: 7.672 × 10<sup>10</sup> km<sup>2</sup><br/>(150.419 Yrths)
         volume: 1.998 × 10<sup>15</sup> km<sup>3</sup><br/>(1844.814 Yrths)
-        mass: 4.771 × 10<sup>27</sup> kg<br />(85.99220049270261 Yrths)
+        mass: 4.771 × 10<sup>27</sup> kg<br />(798.879 Yrths)
         density: 2.387 g/cm<sup>3</sup>
         surface_gravity: 52.083 m/s<sup>2</sup><br />(5.311 g<sub>0</sub>)
         escape_velocity: 90.279 km/s<br />(325,006 km/h)
         rotation_period: 41.711 d
         axial_tilt: 20.85°
         albedo: 0.30
-        temperature: 903 K<br />(630 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0067 Shanniashiad C III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -477,14 +477,14 @@ planets:
         radius: 90,047.7 km<br/>(14.134 Yrths)
         surface_area: 1.019 × 10<sup>11</sup> km<sup>2</sup><br/>(199.770 Yrths)
         volume: 3.058 × 10<sup>15</sup> km<sup>3</sup><br/>(2823.549 Yrths)
-        mass: 6.890 × 10<sup>27</sup> kg<br />(85.99220049270261 Yrths)
+        mass: 6.890 × 10<sup>27</sup> kg<br />(1153.780 Yrths)
         density: 2.253 g/cm<sup>3</sup>
         surface_gravity: 56.639 m/s<sup>2</sup><br />(5.776 g<sub>0</sub>)
         escape_velocity: 101.065 km/s<br />(363,836 km/h)
         rotation_period: 41.637 d
         axial_tilt: 28.72°
         albedo: 0.30
-        temperature: 561 K<br />(287 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0067 Shanniashiad C III e
         type: Icy
         formationType: Captured
@@ -497,14 +497,14 @@ planets:
         radius: 127,325.6 km<br/>(19.985 Yrths)
         surface_area: 2.037 × 10<sup>11</sup> km<sup>2</sup><br/>(399.407 Yrths)
         volume: 8.646 × 10<sup>15</sup> km<sup>3</sup><br/>(7982.231 Yrths)
-        mass: 9.091 × 10<sup>27</sup> kg<br />(85.99220049270261 Yrths)
+        mass: 9.091 × 10<sup>27</sup> kg<br />(1522.337 Yrths)
         density: 1.051 g/cm<sup>3</sup>
         surface_gravity: 37.378 m/s<sup>2</sup><br />(3.811 g<sub>0</sub>)
         escape_velocity: 97.628 km/s<br />(351,462 km/h)
         rotation_period: 70.500 d
         axial_tilt: 15.22°
         albedo: 0.30
-        temperature: 442 K<br />(169 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0067 Shanniashiad C III f
         type: Icy
         formationType: Impact formed
@@ -517,14 +517,14 @@ planets:
         radius: 87,207.7 km<br/>(13.688 Yrths)
         surface_area: 9.557 × 10<sup>10</sup> km<sup>2</sup><br/>(187.368 Yrths)
         volume: 2.778 × 10<sup>15</sup> km<sup>3</sup><br/>(2564.730 Yrths)
-        mass: 5.082 × 10<sup>27</sup> kg<br />(85.99220049270261 Yrths)
+        mass: 5.082 × 10<sup>27</sup> kg<br />(850.952 Yrths)
         density: 1.829 g/cm<sup>3</sup>
         surface_gravity: 44.538 m/s<sup>2</sup><br />(4.542 g<sub>0</sub>)
         escape_velocity: 88.197 km/s<br />(317,508 km/h)
         rotation_period: 62.657 d
         axial_tilt: 6.04°
         albedo: 0.30
-        temperature: 155 K<br />(-118 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0067 Shanniashiad C III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -537,14 +537,14 @@ planets:
         radius: 89,780.4 km<br/>(14.092 Yrths)
         surface_area: 1.013 × 10<sup>11</sup> km<sup>2</sup><br/>(198.586 Yrths)
         volume: 3.031 × 10<sup>15</sup> km<sup>3</sup><br/>(2798.478 Yrths)
-        mass: 5.945 × 10<sup>27</sup> kg<br />(85.99220049270261 Yrths)
+        mass: 5.945 × 10<sup>27</sup> kg<br />(995.538 Yrths)
         density: 1.961 g/cm<sup>3</sup>
         surface_gravity: 49.162 m/s<sup>2</sup><br />(5.013 g<sub>0</sub>)
         escape_velocity: 94.019 km/s<br />(338,469 km/h)
         rotation_period: 40.637 d
         axial_tilt: 11.26°
         albedo: 0.30
-        temperature: 134 K<br />(-139 °C)
+        temperature: 180 K<br />(-94 °C)
   - name: 0067 Shanniashiad C IV
     type: Large terrestrial
     aphelion: 565,905,752 km<br />3.783 AU
@@ -556,14 +556,14 @@ planets:
     radius: 2,855.4 km<br/>(0.448 Yrths)
     surface_area: 1.025 × 10<sup>08</sup> km<sup>2</sup><br/>(0.201 Yrths)
     volume: 9.752 × 10<sup>10</sup> km<sup>3</sup><br/>(0.090 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.124 g/cm<sup>3</sup>
     surface_gravity: 4.882 m/s<sup>2</sup><br />(0.498 g<sub>0</sub>)
     escape_velocity: 5.284 km/s<br />(19,022 km/h)
     rotation_period: 2.025 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 169 K<br />(-104 °C)
+    temperature: 211 K<br />(-62 °C)
     surface_pressure: 117 kPa<br />(1 atm)
     composition:
       - 97.2438% methane
@@ -584,14 +584,14 @@ planets:
         radius: 1,000.8 km<br/>(0.157 Yrths)
         surface_area: 1.259 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.199 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.449 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.449 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.060 g/cm<sup>3</sup>
         surface_gravity: 0.296 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.770 km/s<br />(2,773 km/h)
         rotation_period: 57.571 d
         axial_tilt: 11.43°
         albedo: 0.30
-        temperature: 2914 K<br />(2641 °C)
+        temperature: 135 K<br />(-139 °C)
       - name: 0067 Shanniashiad C IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -604,14 +604,14 @@ planets:
         radius: 411.8 km<br/>(0.065 Yrths)
         surface_area: 2.131 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.925 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.806 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.806 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.985 g/cm<sup>3</sup>
         surface_gravity: 0.228 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.434 km/s<br />(1,562 km/h)
         rotation_period: 64.168 d
         axial_tilt: 28.64°
         albedo: 0.30
-        temperature: 2779 K<br />(2505 °C)
+        temperature: 135 K<br />(-139 °C)
       - name: 0067 Shanniashiad C IV c
         type: Icy
         formationType: Captured
@@ -624,14 +624,14 @@ planets:
         radius: 507.5 km<br/>(0.080 Yrths)
         surface_area: 3.237 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.477 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 7.644 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 7.644 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.396 g/cm<sup>3</sup>
         surface_gravity: 0.198 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.448 km/s<br />(1,614 km/h)
         rotation_period: 43.880 d
         axial_tilt: 20.92°
         albedo: 0.30
-        temperature: 2649 K<br />(2376 °C)
+        temperature: 135 K<br />(-139 °C)
   - name: 0067 Shanniashiad C V
     type: Ice giant
     aphelion: 1,010,801,925 km<br />6.757 AU
@@ -643,14 +643,14 @@ planets:
     radius: 28,640.7 km<br/>(4.495 Yrths)
     surface_area: 1.031 × 10<sup>10</sup> km<sup>2</sup><br/>(20.209 Yrths)
     volume: 9.841 × 10<sup>13</sup> km<sup>3</sup><br/>(90.851 Yrths)
-    mass: 1.576 × 10<sup>26</sup> kg<br />(26.391001297777358 Yrths)
+    mass: 1.576 × 10<sup>26</sup> kg<br />(26.39 Yrths)
     density: 1.602 g/cm<sup>3</sup>
     surface_gravity: 12.806 m/s<sup>2</sup><br />(1.306 g<sub>0</sub>)
     escape_velocity: 27.103 km/s<br />(97,570 km/h)
     rotation_period: 0.396 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 175 K<br />(-98 °C)
+    temperature: 157 K<br />(-117 °C)
     composition:
       - 82.6115% hydrogen
       - 17.3885% helium
@@ -667,14 +667,14 @@ planets:
         radius: 18,685.1 km<br/>(2.933 Yrths)
         surface_area: 4.387 × 10<sup>09</sup> km<sup>2</sup><br/>(8.601 Yrths)
         volume: 2.733 × 10<sup>13</sup> km<sup>3</sup><br/>(25.227 Yrths)
-        mass: 6.508 × 10<sup>25</sup> kg<br />(26.391001297777358 Yrths)
+        mass: 6.508 × 10<sup>25</sup> kg<br />(10.897 Yrths)
         density: 2.381 g/cm<sup>3</sup>
         surface_gravity: 12.423 m/s<sup>2</sup><br />(1.267 g<sub>0</sub>)
         escape_velocity: 21.561 km/s<br />(77,621 km/h)
         rotation_period: 45.155 d
         axial_tilt: 15.53°
         albedo: 0.30
-        temperature: 822 K<br />(548 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0067 Shanniashiad C V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -687,14 +687,14 @@ planets:
         radius: 14,717.2 km<br/>(2.310 Yrths)
         surface_area: 2.722 × 10<sup>09</sup> km<sup>2</sup><br/>(5.336 Yrths)
         volume: 1.335 × 10<sup>13</sup> km<sup>3</sup><br/>(12.327 Yrths)
-        mass: 2.481 × 10<sup>25</sup> kg<br />(26.391001297777358 Yrths)
+        mass: 2.481 × 10<sup>25</sup> kg<br />(4.155 Yrths)
         density: 1.858 g/cm<sup>3</sup>
         surface_gravity: 7.636 m/s<sup>2</sup><br />(0.779 g<sub>0</sub>)
         escape_velocity: 15.002 km/s<br />(54,006 km/h)
         rotation_period: 41.836 d
         axial_tilt: 17.83°
         albedo: 0.30
-        temperature: 783 K<br />(510 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0067 Shanniashiad C V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -707,14 +707,14 @@ planets:
         radius: 36,888.8 km<br/>(5.790 Yrths)
         surface_area: 1.710 × 10<sup>10</sup> km<sup>2</sup><br/>(33.525 Yrths)
         volume: 2.103 × 10<sup>14</sup> km<sup>3</sup><br/>(194.116 Yrths)
-        mass: 4.810 × 10<sup>26</sup> kg<br />(26.391001297777358 Yrths)
+        mass: 4.810 × 10<sup>26</sup> kg<br />(80.542 Yrths)
         density: 2.288 g/cm<sup>3</sup>
         surface_gravity: 23.560 m/s<sup>2</sup><br />(2.402 g<sub>0</sub>)
         escape_velocity: 41.720 km/s<br />(150,192 km/h)
         rotation_period: 39.306 d
         axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 747 K<br />(474 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0067 Shanniashiad C V d
         type: Icy
         formationType: Accreted
@@ -727,14 +727,14 @@ planets:
         radius: 22,763.2 km<br/>(3.573 Yrths)
         surface_area: 6.511 × 10<sup>09</sup> km<sup>2</sup><br/>(12.766 Yrths)
         volume: 4.941 × 10<sup>13</sup> km<sup>3</sup><br/>(45.612 Yrths)
-        mass: 6.268 × 10<sup>25</sup> kg<br />(26.391001297777358 Yrths)
+        mass: 6.268 × 10<sup>25</sup> kg<br />(10.496 Yrths)
         density: 1.269 g/cm<sup>3</sup>
         surface_gravity: 8.063 m/s<sup>2</sup><br />(0.822 g<sub>0</sub>)
         escape_velocity: 19.172 km/s<br />(69,019 km/h)
         rotation_period: 68.059 d
         axial_tilt: 22.06°
         albedo: 0.30
-        temperature: 712 K<br />(439 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0067 Shanniashiad C V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -747,14 +747,14 @@ planets:
         radius: 17,805.7 km<br/>(2.795 Yrths)
         surface_area: 3.984 × 10<sup>09</sup> km<sup>2</sup><br/>(7.811 Yrths)
         volume: 2.365 × 10<sup>13</sup> km<sup>3</sup><br/>(21.830 Yrths)
-        mass: 4.307 × 10<sup>25</sup> kg<br />(26.391001297777358 Yrths)
+        mass: 4.307 × 10<sup>25</sup> kg<br />(7.211 Yrths)
         density: 1.821 g/cm<sup>3</sup>
         surface_gravity: 9.054 m/s<sup>2</sup><br />(0.923 g<sub>0</sub>)
         escape_velocity: 17.968 km/s<br />(64,686 km/h)
         rotation_period: 62.009 d
         axial_tilt: 20.68°
         albedo: 0.30
-        temperature: 679 K<br />(406 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0067 Shanniashiad C V f
         type: Ice/rock hybrid
         formationType: Captured
@@ -767,14 +767,14 @@ planets:
         radius: 16,466.6 km<br/>(2.585 Yrths)
         surface_area: 3.407 × 10<sup>09</sup> km<sup>2</sup><br/>(6.680 Yrths)
         volume: 1.870 × 10<sup>13</sup> km<sup>3</sup><br/>(17.266 Yrths)
-        mass: 4.070 × 10<sup>25</sup> kg<br />(26.391001297777358 Yrths)
+        mass: 4.070 × 10<sup>25</sup> kg<br />(6.814 Yrths)
         density: 2.176 g/cm<sup>3</sup>
         surface_gravity: 10.003 m/s<sup>2</sup><br />(1.020 g<sub>0</sub>)
         escape_velocity: 18.163 km/s<br />(65,387 km/h)
         rotation_period: 47.531 d
         axial_tilt: 25.74°
         albedo: 0.30
-        temperature: 647 K<br />(374 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0067 Shanniashiad C V g
         type: Rocky
         formationType: Accreted
@@ -787,14 +787,14 @@ planets:
         radius: 17,724.9 km<br/>(2.782 Yrths)
         surface_area: 3.948 × 10<sup>09</sup> km<sup>2</sup><br/>(7.740 Yrths)
         volume: 2.333 × 10<sup>13</sup> km<sup>3</sup><br/>(21.534 Yrths)
-        mass: 6.783 × 10<sup>25</sup> kg<br />(26.391001297777358 Yrths)
+        mass: 6.783 × 10<sup>25</sup> kg<br />(11.358 Yrths)
         density: 2.908 g/cm<sup>3</sup>
         surface_gravity: 14.391 m/s<sup>2</sup><br />(1.467 g<sub>0</sub>)
         escape_velocity: 22.602 km/s<br />(81,366 km/h)
         rotation_period: 37.252 d
         axial_tilt: 7.44°
         albedo: 0.30
-        temperature: 617 K<br />(344 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0067 Shanniashiad C V h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -807,14 +807,14 @@ planets:
         radius: 21,613.7 km<br/>(3.393 Yrths)
         surface_area: 5.870 × 10<sup>09</sup> km<sup>2</sup><br/>(11.509 Yrths)
         volume: 4.229 × 10<sup>13</sup> km<sup>3</sup><br/>(39.045 Yrths)
-        mass: 7.827 × 10<sup>25</sup> kg<br />(26.391001297777358 Yrths)
+        mass: 7.827 × 10<sup>25</sup> kg<br />(13.106 Yrths)
         density: 1.851 g/cm<sup>3</sup>
         surface_gravity: 11.167 m/s<sup>2</sup><br />(1.139 g<sub>0</sub>)
         escape_velocity: 21.986 km/s<br />(79,149 km/h)
         rotation_period: 45.744 d
         axial_tilt: 17.03°
         albedo: 0.30
-        temperature: 561 K<br />(288 °C)
+        temperature: 101 K<br />(-172 °C)
   - name: 0067 Shanniashiad C VI
     type: Ice giant
     aphelion: 1,758,325,479 km<br />11.754 AU
@@ -826,14 +826,14 @@ planets:
     radius: 26,510.4 km<br/>(4.161 Yrths)
     surface_area: 8.832 × 10<sup>09</sup> km<sup>2</sup><br/>(17.315 Yrths)
     volume: 7.804 × 10<sup>13</sup> km<sup>3</sup><br/>(72.049 Yrths)
-    mass: 9.061 × 10<sup>25</sup> kg<br />(15.171830976451252 Yrths)
+    mass: 9.061 × 10<sup>25</sup> kg<br />(15.17 Yrths)
     density: 1.161 g/cm<sup>3</sup>
     surface_gravity: 8.593 m/s<sup>2</sup><br />(0.876 g<sub>0</sub>)
     escape_velocity: 21.359 km/s<br />(76,894 km/h)
     rotation_period: 0.384 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 135 K<br />(-138 °C)
+    temperature: 122 K<br />(-151 °C)
     composition:
       - 80.6163% hydrogen
       - 17.6134% helium
@@ -851,14 +851,14 @@ planets:
         radius: 14,044.5 km<br/>(2.204 Yrths)
         surface_area: 2.479 × 10<sup>09</sup> km<sup>2</sup><br/>(4.860 Yrths)
         volume: 1.160 × 10<sup>13</sup> km<sup>3</sup><br/>(10.713 Yrths)
-        mass: 1.857 × 10<sup>25</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 1.857 × 10<sup>25</sup> kg<br />(3.109 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 6.274 m/s<sup>2</sup><br />(0.640 g<sub>0</sub>)
         escape_velocity: 13.284 km/s<br />(47,822 km/h)
         rotation_period: 51.373 d
         axial_tilt: 15.62°
         albedo: 0.30
-        temperature: 644 K<br />(371 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI b
         type: Icy
         formationType: Accreted
@@ -871,14 +871,14 @@ planets:
         radius: 15,464.9 km<br/>(2.427 Yrths)
         surface_area: 3.005 × 10<sup>09</sup> km<sup>2</sup><br/>(5.892 Yrths)
         volume: 1.549 × 10<sup>13</sup> km<sup>3</sup><br/>(14.303 Yrths)
-        mass: 1.242 × 10<sup>25</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 1.242 × 10<sup>25</sup> kg<br />(2.080 Yrths)
         density: 0.802 g/cm<sup>3</sup>
         surface_gravity: 3.461 m/s<sup>2</sup><br />(0.353 g<sub>0</sub>)
         escape_velocity: 10.354 km/s<br />(37,273 km/h)
         rotation_period: 91.382 d
         axial_tilt: 14.47°
         albedo: 0.30
-        temperature: 614 K<br />(341 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI c
         type: Icy
         formationType: Accreted
@@ -891,14 +891,14 @@ planets:
         radius: 23,879.4 km<br/>(3.748 Yrths)
         surface_area: 7.166 × 10<sup>09</sup> km<sup>2</sup><br/>(14.049 Yrths)
         volume: 5.704 × 10<sup>13</sup> km<sup>3</sup><br/>(52.656 Yrths)
-        mass: 6.531 × 10<sup>25</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 6.531 × 10<sup>25</sup> kg<br />(10.936 Yrths)
         density: 1.145 g/cm<sup>3</sup>
         surface_gravity: 7.634 m/s<sup>2</sup><br />(0.778 g<sub>0</sub>)
         escape_velocity: 19.107 km/s<br />(68,785 km/h)
         rotation_period: 81.612 d
         axial_tilt: 16.36°
         albedo: 0.30
-        temperature: 585 K<br />(312 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI d
         type: Dwarf planet
         formationType: Captured
@@ -911,14 +911,14 @@ planets:
         radius: 7,878.5 km<br/>(1.237 Yrths)
         surface_area: 7.800 × 10<sup>08</sup> km<sup>2</sup><br/>(1.529 Yrths)
         volume: 2.048 × 10<sup>12</sup> km<sup>3</sup><br/>(1.891 Yrths)
-        mass: 3.062 × 10<sup>24</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 3.062 × 10<sup>24</sup> kg<br />(0.513 Yrths)
         density: 1.495 g/cm<sup>3</sup>
         surface_gravity: 3.288 m/s<sup>2</sup><br />(0.335 g<sub>0</sub>)
         escape_velocity: 7.203 km/s<br />(25,930 km/h)
         rotation_period: 56.638 d
         axial_tilt: 45.56°
         albedo: 0.30
-        temperature: 558 K<br />(285 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI e
         type: Ice/rock hybrid
         formationType: Captured
@@ -931,14 +931,14 @@ planets:
         radius: 16,597.0 km<br/>(2.605 Yrths)
         surface_area: 3.462 × 10<sup>09</sup> km<sup>2</sup><br/>(6.786 Yrths)
         volume: 1.915 × 10<sup>13</sup> km<sup>3</sup><br/>(17.679 Yrths)
-        mass: 4.657 × 10<sup>25</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 4.657 × 10<sup>25</sup> kg<br />(7.798 Yrths)
         density: 2.432 g/cm<sup>3</sup>
         surface_gravity: 11.268 m/s<sup>2</sup><br />(1.149 g<sub>0</sub>)
         escape_velocity: 19.353 km/s<br />(69,672 km/h)
         rotation_period: 42.855 d
         axial_tilt: 30.60°
         albedo: 0.30
-        temperature: 532 K<br />(259 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI f
         type: Ice/rock hybrid
         formationType: Captured
@@ -951,14 +951,14 @@ planets:
         radius: 25,600.8 km<br/>(4.018 Yrths)
         surface_area: 8.236 × 10<sup>09</sup> km<sup>2</sup><br/>(16.147 Yrths)
         volume: 7.028 × 10<sup>13</sup> km<sup>3</sup><br/>(64.884 Yrths)
-        mass: 1.451 × 10<sup>26</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 1.451 × 10<sup>26</sup> kg<br />(24.288 Yrths)
         density: 2.064 g/cm<sup>3</sup>
         surface_gravity: 14.751 m/s<sup>2</sup><br />(1.504 g<sub>0</sub>)
         escape_velocity: 27.501 km/s<br />(99,004 km/h)
         rotation_period: 35.400 d
         axial_tilt: 25.40°
         albedo: 0.30
-        temperature: 507 K<br />(234 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -971,14 +971,14 @@ planets:
         radius: 13,272.4 km<br/>(2.083 Yrths)
         surface_area: 2.214 × 10<sup>09</sup> km<sup>2</sup><br/>(4.340 Yrths)
         volume: 9.793 × 10<sup>12</sup> km<sup>3</sup><br/>(9.041 Yrths)
-        mass: 2.404 × 10<sup>25</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 2.404 × 10<sup>25</sup> kg<br />(4.026 Yrths)
         density: 2.455 g/cm<sup>3</sup>
         surface_gravity: 9.097 m/s<sup>2</sup><br />(0.928 g<sub>0</sub>)
         escape_velocity: 15.550 km/s<br />(55,982 km/h)
         rotation_period: 53.152 d
         axial_tilt: 19.06°
         albedo: 0.30
-        temperature: 484 K<br />(211 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI h
         type: Icy
         formationType: Accreted
@@ -991,14 +991,14 @@ planets:
         radius: 21,709.6 km<br/>(3.408 Yrths)
         surface_area: 5.923 × 10<sup>09</sup> km<sup>2</sup><br/>(11.612 Yrths)
         volume: 4.286 × 10<sup>13</sup> km<sup>3</sup><br/>(39.567 Yrths)
-        mass: 4.914 × 10<sup>25</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 4.914 × 10<sup>25</sup> kg<br />(8.228 Yrths)
         density: 1.146 g/cm<sup>3</sup>
         surface_gravity: 6.949 m/s<sup>2</sup><br />(0.709 g<sub>0</sub>)
         escape_velocity: 17.382 km/s<br />(62,575 km/h)
         rotation_period: 47.709 d
         axial_tilt: 9.32°
         albedo: 0.30
-        temperature: 461 K<br />(188 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1011,14 +1011,14 @@ planets:
         radius: 6,941.4 km<br/>(1.090 Yrths)
         surface_area: 6.055 × 10<sup>08</sup> km<sup>2</sup><br/>(1.187 Yrths)
         volume: 1.401 × 10<sup>12</sup> km<sup>3</sup><br/>(1.293 Yrths)
-        mass: 3.051 × 10<sup>24</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 3.051 × 10<sup>24</sup> kg<br />(0.511 Yrths)
         density: 2.178 g/cm<sup>3</sup>
         surface_gravity: 4.221 m/s<sup>2</sup><br />(0.430 g<sub>0</sub>)
         escape_velocity: 7.660 km/s<br />(27,577 km/h)
         rotation_period: 51.577 d
         axial_tilt: 21.42°
         albedo: 0.30
-        temperature: 440 K<br />(167 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI j
         type: Icy
         formationType: Impact formed
@@ -1031,14 +1031,14 @@ planets:
         radius: 26,273.0 km<br/>(4.124 Yrths)
         surface_area: 8.674 × 10<sup>09</sup> km<sup>2</sup><br/>(17.006 Yrths)
         volume: 7.597 × 10<sup>13</sup> km<sup>3</sup><br/>(70.131 Yrths)
-        mass: 1.181 × 10<sup>26</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 1.181 × 10<sup>26</sup> kg<br />(19.777 Yrths)
         density: 1.555 g/cm<sup>3</sup>
         surface_gravity: 11.404 m/s<sup>2</sup><br />(1.163 g<sub>0</sub>)
         escape_velocity: 24.496 km/s<br />(88,186 km/h)
         rotation_period: 44.075 d
         axial_tilt: 18.37°
         albedo: 0.30
-        temperature: 419 K<br />(146 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI k
         type: Icy
         formationType: Captured
@@ -1051,14 +1051,14 @@ planets:
         radius: 17,328.7 km<br/>(2.720 Yrths)
         surface_area: 3.773 × 10<sup>09</sup> km<sup>2</sup><br/>(7.398 Yrths)
         volume: 2.180 × 10<sup>13</sup> km<sup>3</sup><br/>(20.122 Yrths)
-        mass: 1.810 × 10<sup>25</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 1.810 × 10<sup>25</sup> kg<br />(3.031 Yrths)
         density: 0.830 g/cm<sup>3</sup>
         surface_gravity: 4.018 m/s<sup>2</sup><br />(0.410 g<sub>0</sub>)
         escape_velocity: 11.808 km/s<br />(42,509 km/h)
         rotation_period: 107.325 d
         axial_tilt: 7.66°
         albedo: 0.30
-        temperature: 400 K<br />(127 °C)
+        temperature: 76 K<br />(-198 °C)
       - name: 0067 Shanniashiad C VI l
         type: Dwarf planet
         formationType: Accreted
@@ -1071,14 +1071,14 @@ planets:
         radius: 23,533.4 km<br/>(3.694 Yrths)
         surface_area: 6.960 × 10<sup>09</sup> km<sup>2</sup><br/>(13.644 Yrths)
         volume: 5.459 × 10<sup>13</sup> km<sup>3</sup><br/>(50.400 Yrths)
-        mass: 9.051 × 10<sup>25</sup> kg<br />(15.171830976451252 Yrths)
+        mass: 9.051 × 10<sup>25</sup> kg<br />(15.156 Yrths)
         density: 1.658 g/cm<sup>3</sup>
         surface_gravity: 10.893 m/s<sup>2</sup><br />(1.111 g<sub>0</sub>)
         escape_velocity: 22.658 km/s<br />(81,570 km/h)
         rotation_period: 63.919 d
         axial_tilt: 19.39°
         albedo: 0.30
-        temperature: 381 K<br />(108 °C)
+        temperature: 76 K<br />(-198 °C)
   - name: 0067 Shanniashiad C VII
     type: Ice giant
     aphelion: 3,248,535,875 km<br />21.715 AU
@@ -1090,14 +1090,14 @@ planets:
     radius: 34,412.0 km<br/>(5.401 Yrths)
     surface_area: 1.488 × 10<sup>10</sup> km<sup>2</sup><br/>(29.175 Yrths)
     volume: 1.707 × 10<sup>14</sup> km<sup>3</sup><br/>(157.582 Yrths)
-    mass: 1.707 × 10<sup>26</sup> kg<br />(28.58868495350793 Yrths)
+    mass: 1.707 × 10<sup>26</sup> kg<br />(28.59 Yrths)
     density: 1.000 g/cm<sup>3</sup>
     surface_gravity: 9.610 m/s<sup>2</sup><br />(0.980 g<sub>0</sub>)
     escape_velocity: 25.735 km/s<br />(92,645 km/h)
     rotation_period: 0.327 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 100 K<br />(-173 °C)
+    temperature: 90 K<br />(-183 °C)
     composition:
       - 90.2369% hydrogen
       - 7.8813% helium
@@ -1115,14 +1115,14 @@ planets:
         radius: 15,065.8 km<br/>(2.365 Yrths)
         surface_area: 2.852 × 10<sup>09</sup> km<sup>2</sup><br/>(5.592 Yrths)
         volume: 1.432 × 10<sup>13</sup> km<sup>3</sup><br/>(13.224 Yrths)
-        mass: 3.462 × 10<sup>25</sup> kg<br />(28.58868495350793 Yrths)
+        mass: 3.462 × 10<sup>25</sup> kg<br />(5.797 Yrths)
         density: 2.417 g/cm<sup>3</sup>
         surface_gravity: 10.167 m/s<sup>2</sup><br />(1.037 g<sub>0</sub>)
         escape_velocity: 17.514 km/s<br />(63,051 km/h)
         rotation_period: 57.446 d
         axial_tilt: 8.24°
         albedo: 0.30
-        temperature: 455 K<br />(182 °C)
+        temperature: 57 K<br />(-217 °C)
       - name: 0067 Shanniashiad C VII b
         type: Icy
         formationType: Accreted
@@ -1135,14 +1135,14 @@ planets:
         radius: 26,120.3 km<br/>(4.100 Yrths)
         surface_area: 8.574 × 10<sup>09</sup> km<sup>2</sup><br/>(16.809 Yrths)
         volume: 7.465 × 10<sup>13</sup> km<sup>3</sup><br/>(68.914 Yrths)
-        mass: 7.637 × 10<sup>25</sup> kg<br />(28.58868495350793 Yrths)
+        mass: 7.637 × 10<sup>25</sup> kg<br />(12.787 Yrths)
         density: 1.023 g/cm<sup>3</sup>
         surface_gravity: 7.460 m/s<sup>2</sup><br />(0.761 g<sub>0</sub>)
         escape_velocity: 19.755 km/s<br />(71,118 km/h)
         rotation_period: 85.802 d
         axial_tilt: 15.65°
         albedo: 0.30
-        temperature: 434 K<br />(161 °C)
+        temperature: 57 K<br />(-217 °C)
       - name: 0067 Shanniashiad C VII c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1155,14 +1155,14 @@ planets:
         radius: 38,401.4 km<br/>(6.028 Yrths)
         surface_area: 1.853 × 10<sup>10</sup> km<sup>2</sup><br/>(36.331 Yrths)
         volume: 2.372 × 10<sup>14</sup> km<sup>3</sup><br/>(218.987 Yrths)
-        mass: 5.960 × 10<sup>26</sup> kg<br />(28.58868495350793 Yrths)
+        mass: 5.960 × 10<sup>26</sup> kg<br />(99.795 Yrths)
         density: 2.512 g/cm<sup>3</sup>
         surface_gravity: 26.937 m/s<sup>2</sup><br />(2.747 g<sub>0</sub>)
         escape_velocity: 45.516 km/s<br />(163,856 km/h)
         rotation_period: 52.936 d
         axial_tilt: 33.16°
         albedo: 0.30
-        temperature: 414 K<br />(141 °C)
+        temperature: 57 K<br />(-217 °C)
       - name: 0067 Shanniashiad C VII d
         type: Icy
         formationType: Accreted
@@ -1175,14 +1175,14 @@ planets:
         radius: 17,934.0 km<br/>(2.815 Yrths)
         surface_area: 4.042 × 10<sup>09</sup> km<sup>2</sup><br/>(7.924 Yrths)
         volume: 2.416 × 10<sup>13</sup> km<sup>3</sup><br/>(22.305 Yrths)
-        mass: 2.863 × 10<sup>25</sup> kg<br />(28.58868495350793 Yrths)
+        mass: 2.863 × 10<sup>25</sup> kg<br />(4.794 Yrths)
         density: 1.185 g/cm<sup>3</sup>
         surface_gravity: 5.934 m/s<sup>2</sup><br />(0.605 g<sub>0</sub>)
         escape_velocity: 14.599 km/s<br />(52,555 km/h)
         rotation_period: 47.970 d
         axial_tilt: 18.96°
         albedo: 0.30
-        temperature: 395 K<br />(121 °C)
+        temperature: 57 K<br />(-217 °C)
       - name: 0067 Shanniashiad C VII e
         type: Icy
         formationType: Accreted
@@ -1195,14 +1195,14 @@ planets:
         radius: 18,284.9 km<br/>(2.870 Yrths)
         surface_area: 4.201 × 10<sup>09</sup> km<sup>2</sup><br/>(8.237 Yrths)
         volume: 2.561 × 10<sup>13</sup> km<sup>3</sup><br/>(23.640 Yrths)
-        mass: 2.983 × 10<sup>25</sup> kg<br />(28.58868495350793 Yrths)
+        mass: 2.983 × 10<sup>25</sup> kg<br />(4.995 Yrths)
         density: 1.165 g/cm<sup>3</sup>
         surface_gravity: 5.947 m/s<sup>2</sup><br />(0.606 g<sub>0</sub>)
         escape_velocity: 14.757 km/s<br />(53,124 km/h)
         rotation_period: 82.732 d
         axial_tilt: 22.33°
         albedo: 0.30
-        temperature: 376 K<br />(103 °C)
+        temperature: 57 K<br />(-217 °C)
       - name: 0067 Shanniashiad C VII f
         type: Dwarf planet
         formationType: Accreted
@@ -1215,14 +1215,14 @@ planets:
         radius: 19,320.6 km<br/>(3.033 Yrths)
         surface_area: 4.691 × 10<sup>09</sup> km<sup>2</sup><br/>(9.197 Yrths)
         volume: 3.021 × 10<sup>13</sup> km<sup>3</sup><br/>(27.889 Yrths)
-        mass: 4.818 × 10<sup>25</sup> kg<br />(28.58868495350793 Yrths)
+        mass: 4.818 × 10<sup>25</sup> kg<br />(8.068 Yrths)
         density: 1.595 g/cm<sup>3</sup>
         surface_gravity: 8.603 m/s<sup>2</sup><br />(0.877 g<sub>0</sub>)
         escape_velocity: 18.245 km/s<br />(65,683 km/h)
         rotation_period: 44.884 d
         axial_tilt: 32.60°
         albedo: 0.30
-        temperature: 359 K<br />(86 °C)
+        temperature: 57 K<br />(-217 °C)
       - name: 0067 Shanniashiad C VII g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1235,14 +1235,14 @@ planets:
         radius: 54,913.4 km<br/>(8.619 Yrths)
         surface_area: 3.789 × 10<sup>10</sup> km<sup>2</sup><br/>(74.292 Yrths)
         volume: 6.936 × 10<sup>14</sup> km<sup>3</sup><br/>(640.342 Yrths)
-        mass: 1.594 × 10<sup>27</sup> kg<br />(28.58868495350793 Yrths)
+        mass: 1.594 × 10<sup>27</sup> kg<br />(266.858 Yrths)
         density: 2.298 g/cm<sup>3</sup>
         surface_gravity: 35.226 m/s<sup>2</sup><br />(3.592 g<sub>0</sub>)
         escape_velocity: 62.241 km/s<br />(224,069 km/h)
         rotation_period: 49.147 d
         axial_tilt: 25.27°
         albedo: 0.30
-        temperature: 342 K<br />(69 °C)
+        temperature: 57 K<br />(-217 °C)
       - name: 0067 Shanniashiad C VII h
         type: Ice/rock hybrid
         formationType: Captured
@@ -1255,14 +1255,14 @@ planets:
         radius: 22,651.8 km<br/>(3.555 Yrths)
         surface_area: 6.448 × 10<sup>09</sup> km<sup>2</sup><br/>(12.641 Yrths)
         volume: 4.869 × 10<sup>13</sup> km<sup>3</sup><br/>(44.945 Yrths)
-        mass: 1.148 × 10<sup>26</sup> kg<br />(28.58868495350793 Yrths)
+        mass: 1.148 × 10<sup>26</sup> kg<br />(19.222 Yrths)
         density: 2.358 g/cm<sup>3</sup>
         surface_gravity: 14.912 m/s<sup>2</sup><br />(1.521 g<sub>0</sub>)
         escape_velocity: 26.009 km/s<br />(93,633 km/h)
         rotation_period: 36.756 d
         axial_tilt: 9.54°
         albedo: 0.30
-        temperature: 311 K<br />(38 °C)
+        temperature: 57 K<br />(-217 °C)
       - name: 0067 Shanniashiad C VII i
         type: Icy
         formationType: Captured
@@ -1275,14 +1275,14 @@ planets:
         radius: 41,049.8 km<br/>(6.443 Yrths)
         surface_area: 2.118 × 10<sup>10</sup> km<sup>2</sup><br/>(41.515 Yrths)
         volume: 2.897 × 10<sup>14</sup> km<sup>3</sup><br/>(267.492 Yrths)
-        mass: 4.114 × 10<sup>26</sup> kg<br />(28.58868495350793 Yrths)
+        mass: 4.114 × 10<sup>26</sup> kg<br />(68.893 Yrths)
         density: 1.420 g/cm<sup>3</sup>
         surface_gravity: 16.274 m/s<sup>2</sup><br />(1.659 g<sub>0</sub>)
         escape_velocity: 36.577 km/s<br />(131,678 km/h)
         rotation_period: 45.742 d
         axial_tilt: 18.98°
         albedo: 0.30
-        temperature: 296 K<br />(23 °C)
+        temperature: 57 K<br />(-217 °C)
   - name: 0067 Shanniashiad C VIII
     type: Ice giant
     aphelion: 5,751,353,555 km<br />38.445 AU
@@ -1294,14 +1294,14 @@ planets:
     radius: 19,214.7 km<br/>(3.016 Yrths)
     surface_area: 4.640 × 10<sup>09</sup> km<sup>2</sup><br/>(9.096 Yrths)
     volume: 2.972 × 10<sup>13</sup> km<sup>3</sup><br/>(27.433 Yrths)
-    mass: 4.342 × 10<sup>25</sup> kg<br />(7.2703892856230885 Yrths)
+    mass: 4.342 × 10<sup>25</sup> kg<br />(7.27 Yrths)
     density: 1.461 g/cm<sup>3</sup>
     surface_gravity: 7.838 m/s<sup>2</sup><br />(0.799 g<sub>0</sub>)
     escape_velocity: 17.368 km/s<br />(62,523 km/h)
     rotation_period: 0.387 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 80 K<br />(-193 °C)
+    temperature: 73 K<br />(-200 °C)
     composition:
       - 58.5383% helium
       - 38.3465% hydrogen
@@ -1320,14 +1320,14 @@ planets:
         radius: 4,746.3 km<br/>(0.745 Yrths)
         surface_area: 2.831 × 10<sup>08</sup> km<sup>2</sup><br/>(0.555 Yrths)
         volume: 4.479 × 10<sup>11</sup> km<sup>3</sup><br/>(0.413 Yrths)
-        mass: 8.450 × 10<sup>23</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 8.450 × 10<sup>23</sup> kg<br />(0.142 Yrths)
         density: 1.887 g/cm<sup>3</sup>
         surface_gravity: 2.500 m/s<sup>2</sup><br />(0.255 g<sub>0</sub>)
         escape_velocity: 4.875 km/s<br />(17,550 km/h)
         rotation_period: 37.773 d
         axial_tilt: 9.50°
         albedo: 0.30
-        temperature: 429 K<br />(156 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII b
         type: Icy
         formationType: Impact formed
@@ -1340,14 +1340,14 @@ planets:
         radius: 6,076.6 km<br/>(0.954 Yrths)
         surface_area: 4.640 × 10<sup>08</sup> km<sup>2</sup><br/>(0.910 Yrths)
         volume: 9.399 × 10<sup>11</sup> km<sup>3</sup><br/>(0.868 Yrths)
-        mass: 6.579 × 10<sup>23</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 6.579 × 10<sup>23</sup> kg<br />(0.110 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 1.188 m/s<sup>2</sup><br />(0.121 g<sub>0</sub>)
         escape_velocity: 3.802 km/s<br />(13,686 km/h)
         rotation_period: 93.535 d
         axial_tilt: 24.57°
         albedo: 0.30
-        temperature: 409 K<br />(136 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII c
         type: Dwarf planet
         formationType: Accreted
@@ -1360,14 +1360,14 @@ planets:
         radius: 10,945.0 km<br/>(1.718 Yrths)
         surface_area: 1.505 × 10<sup>09</sup> km<sup>2</sup><br/>(2.951 Yrths)
         volume: 5.492 × 10<sup>12</sup> km<sup>3</sup><br/>(5.070 Yrths)
-        mass: 9.161 × 10<sup>24</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 9.161 × 10<sup>24</sup> kg<br />(1.534 Yrths)
         density: 1.668 g/cm<sup>3</sup>
         surface_gravity: 5.097 m/s<sup>2</sup><br />(0.520 g<sub>0</sub>)
         escape_velocity: 10.570 km/s<br />(38,053 km/h)
         rotation_period: 74.841 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 390 K<br />(117 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII d
         type: Icy
         formationType: Accreted
@@ -1380,14 +1380,14 @@ planets:
         radius: 5,358.2 km<br/>(0.841 Yrths)
         surface_area: 3.608 × 10<sup>08</sup> km<sup>2</sup><br/>(0.707 Yrths)
         volume: 6.444 × 10<sup>11</sup> km<sup>3</sup><br/>(0.595 Yrths)
-        mass: 9.437 × 10<sup>23</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 9.437 × 10<sup>23</sup> kg<br />(0.158 Yrths)
         density: 1.465 g/cm<sup>3</sup>
         surface_gravity: 2.191 m/s<sup>2</sup><br />(0.223 g<sub>0</sub>)
         escape_velocity: 4.849 km/s<br />(17,456 km/h)
         rotation_period: 56.029 d
         axial_tilt: 20.39°
         albedo: 0.30
-        temperature: 372 K<br />(99 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1400,14 +1400,14 @@ planets:
         radius: 13,170.6 km<br/>(2.067 Yrths)
         surface_area: 2.180 × 10<sup>09</sup> km<sup>2</sup><br/>(4.274 Yrths)
         volume: 9.570 × 10<sup>12</sup> km<sup>3</sup><br/>(8.835 Yrths)
-        mass: 1.697 × 10<sup>25</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 1.697 × 10<sup>25</sup> kg<br />(2.841 Yrths)
         density: 1.773 g/cm<sup>3</sup>
         surface_gravity: 6.519 m/s<sup>2</sup><br />(0.665 g<sub>0</sub>)
         escape_velocity: 13.113 km/s<br />(47,207 km/h)
         rotation_period: 41.073 d
         axial_tilt: 18.69°
         albedo: 0.30
-        temperature: 355 K<br />(81 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII f
         type: Ice/rock hybrid
         formationType: Captured
@@ -1420,14 +1420,14 @@ planets:
         radius: 7,073.1 km<br/>(1.110 Yrths)
         surface_area: 6.287 × 10<sup>08</sup> km<sup>2</sup><br/>(1.233 Yrths)
         volume: 1.482 × 10<sup>12</sup> km<sup>3</sup><br/>(1.368 Yrths)
-        mass: 3.028 × 10<sup>24</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 3.028 × 10<sup>24</sup> kg<br />(0.507 Yrths)
         density: 2.043 g/cm<sup>3</sup>
         surface_gravity: 4.034 m/s<sup>2</sup><br />(0.411 g<sub>0</sub>)
         escape_velocity: 7.559 km/s<br />(27,214 km/h)
         rotation_period: 36.667 d
         axial_tilt: 26.38°
         albedo: 0.30
-        temperature: 322 K<br />(49 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII g
         type: Rocky
         formationType: Captured
@@ -1440,14 +1440,14 @@ planets:
         radius: 6,698.4 km<br/>(1.051 Yrths)
         surface_area: 5.638 × 10<sup>08</sup> km<sup>2</sup><br/>(1.105 Yrths)
         volume: 1.259 × 10<sup>12</sup> km<sup>3</sup><br/>(1.162 Yrths)
-        mass: 3.601 × 10<sup>24</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 3.601 × 10<sup>24</sup> kg<br />(0.603 Yrths)
         density: 2.861 g/cm<sup>3</sup>
         surface_gravity: 5.350 m/s<sup>2</sup><br />(0.546 g<sub>0</sub>)
         escape_velocity: 8.472 km/s<br />(30,498 km/h)
         rotation_period: 43.915 d
         axial_tilt: 11.94°
         albedo: 0.30
-        temperature: 307 K<br />(34 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1460,14 +1460,14 @@ planets:
         radius: 7,169.2 km<br/>(1.125 Yrths)
         surface_area: 6.459 × 10<sup>08</sup> km<sup>2</sup><br/>(1.266 Yrths)
         volume: 1.543 × 10<sup>12</sup> km<sup>3</sup><br/>(1.425 Yrths)
-        mass: 2.556 × 10<sup>24</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 2.556 × 10<sup>24</sup> kg<br />(0.428 Yrths)
         density: 1.656 g/cm<sup>3</sup>
         surface_gravity: 3.315 m/s<sup>2</sup><br />(0.338 g<sub>0</sub>)
         escape_velocity: 6.899 km/s<br />(24,836 km/h)
         rotation_period: 40.943 d
         axial_tilt: 17.23°
         albedo: 0.30
-        temperature: 293 K<br />(20 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1480,14 +1480,14 @@ planets:
         radius: 14,925.3 km<br/>(2.343 Yrths)
         surface_area: 2.799 × 10<sup>09</sup> km<sup>2</sup><br/>(5.488 Yrths)
         volume: 1.393 × 10<sup>13</sup> km<sup>3</sup><br/>(12.857 Yrths)
-        mass: 2.740 × 10<sup>25</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 2.740 × 10<sup>25</sup> kg<br />(4.588 Yrths)
         density: 1.967 g/cm<sup>3</sup>
         surface_gravity: 8.197 m/s<sup>2</sup><br />(0.836 g<sub>0</sub>)
         escape_velocity: 15.653 km/s<br />(56,352 km/h)
         rotation_period: 45.033 d
         axial_tilt: 21.49°
         albedo: 0.30
-        temperature: 279 K<br />(6 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII j
         type: Ice/rock hybrid
         formationType: Captured
@@ -1500,14 +1500,14 @@ planets:
         radius: 8,431.9 km<br/>(1.323 Yrths)
         surface_area: 8.934 × 10<sup>08</sup> km<sup>2</sup><br/>(1.752 Yrths)
         volume: 2.511 × 10<sup>12</sup> km<sup>3</sup><br/>(2.318 Yrths)
-        mass: 5.515 × 10<sup>24</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 5.515 × 10<sup>24</sup> kg<br />(0.924 Yrths)
         density: 2.196 g/cm<sup>3</sup>
         surface_gravity: 5.170 m/s<sup>2</sup><br />(0.527 g<sub>0</sub>)
         escape_velocity: 9.344 km/s<br />(33,639 km/h)
         rotation_period: 40.313 d
         axial_tilt: 16.22°
         albedo: 0.30
-        temperature: 266 K<br />(-7 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1520,14 +1520,14 @@ planets:
         radius: 4,026.4 km<br/>(0.632 Yrths)
         surface_area: 2.037 × 10<sup>08</sup> km<sup>2</sup><br/>(0.399 Yrths)
         volume: 2.734 × 10<sup>11</sup> km<sup>3</sup><br/>(0.252 Yrths)
-        mass: 4.758 × 10<sup>23</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 4.758 × 10<sup>23</sup> kg<br />(0.080 Yrths)
         density: 1.740 g/cm<sup>3</sup>
         surface_gravity: 1.956 m/s<sup>2</sup><br />(0.199 g<sub>0</sub>)
         escape_velocity: 3.972 km/s<br />(14,299 km/h)
         rotation_period: 45.086 d
         axial_tilt: 23.95°
         albedo: 0.30
-        temperature: 254 K<br />(-19 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0067 Shanniashiad C VIII l
         type: Rocky
         formationType: Captured
@@ -1540,14 +1540,14 @@ planets:
         radius: 9,428.3 km<br/>(1.480 Yrths)
         surface_area: 1.117 × 10<sup>09</sup> km<sup>2</sup><br/>(2.190 Yrths)
         volume: 3.511 × 10<sup>12</sup> km<sup>3</sup><br/>(3.241 Yrths)
-        mass: 1.264 × 10<sup>25</sup> kg<br />(7.2703892856230885 Yrths)
+        mass: 1.264 × 10<sup>25</sup> kg<br />(2.116 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 9.476 m/s<sup>2</sup><br />(0.966 g<sub>0</sub>)
         escape_velocity: 13.377 km/s<br />(48,156 km/h)
         rotation_period: 32.507 d
         axial_tilt: 22.71°
         albedo: 0.30
-        temperature: 242 K<br />(-31 °C)
+        temperature: 42 K<br />(-231 °C)
   - name: 0067 Shanniashiad C IX
     type: Ice giant
     aphelion: 9,910,125,519 km<br />66.244 AU
@@ -1559,14 +1559,14 @@ planets:
     radius: 28,059.3 km<br/>(4.404 Yrths)
     surface_area: 9.894 × 10<sup>09</sup> km<sup>2</sup><br/>(19.397 Yrths)
     volume: 9.254 × 10<sup>13</sup> km<sup>3</sup><br/>(85.430 Yrths)
-    mass: 1.283 × 10<sup>26</sup> kg<br />(21.4799618486635 Yrths)
+    mass: 1.283 × 10<sup>26</sup> kg<br />(21.48 Yrths)
     density: 1.386 g/cm<sup>3</sup>
     surface_gravity: 10.860 m/s<sup>2</sup><br />(1.107 g<sub>0</sub>)
     escape_velocity: 24.703 km/s<br />(88,932 km/h)
     rotation_period: 0.322 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 59 K<br />(-214 °C)
+    temperature: 54 K<br />(-220 °C)
     composition:
       - 92.3223% hydrogen
       - 5.1929% helium
@@ -1584,14 +1584,14 @@ planets:
         radius: 19,262.0 km<br/>(3.023 Yrths)
         surface_area: 4.662 × 10<sup>09</sup> km<sup>2</sup><br/>(9.141 Yrths)
         volume: 2.994 × 10<sup>13</sup> km<sup>3</sup><br/>(27.637 Yrths)
-        mass: 6.978 × 10<sup>25</sup> kg<br />(21.4799618486635 Yrths)
+        mass: 6.978 × 10<sup>25</sup> kg<br />(11.685 Yrths)
         density: 2.331 g/cm<sup>3</sup>
         surface_gravity: 12.536 m/s<sup>2</sup><br />(1.278 g<sub>0</sub>)
         escape_velocity: 21.990 km/s<br />(79,166 km/h)
         rotation_period: 43.333 d
         axial_tilt: 20.73°
         albedo: 0.30
-        temperature: 268 K<br />(-5 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 0067 Shanniashiad C IX b
         type: Ice/rock hybrid
         formationType: Captured
@@ -1604,14 +1604,14 @@ planets:
         radius: 20,583.7 km<br/>(3.231 Yrths)
         surface_area: 5.324 × 10<sup>09</sup> km<sup>2</sup><br/>(10.438 Yrths)
         volume: 3.653 × 10<sup>13</sup> km<sup>3</sup><br/>(33.724 Yrths)
-        mass: 7.654 × 10<sup>25</sup> kg<br />(21.4799618486635 Yrths)
+        mass: 7.654 × 10<sup>25</sup> kg<br />(12.816 Yrths)
         density: 2.095 g/cm<sup>3</sup>
         surface_gravity: 12.040 m/s<sup>2</sup><br />(1.228 g<sub>0</sub>)
         escape_velocity: 22.279 km/s<br />(80,204 km/h)
         rotation_period: 58.273 d
         axial_tilt: 29.10°
         albedo: 0.30
-        temperature: 256 K<br />(-18 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 0067 Shanniashiad C IX c
         type: Icy
         formationType: Accreted
@@ -1624,14 +1624,14 @@ planets:
         radius: 41,384.6 km<br/>(6.496 Yrths)
         surface_area: 2.152 × 10<sup>10</sup> km<sup>2</sup><br/>(42.195 Yrths)
         volume: 2.969 × 10<sup>14</sup> km<sup>3</sup><br/>(274.089 Yrths)
-        mass: 3.175 × 10<sup>26</sup> kg<br />(21.4799618486635 Yrths)
+        mass: 3.175 × 10<sup>26</sup> kg<br />(53.161 Yrths)
         density: 1.069 g/cm<sup>3</sup>
         surface_gravity: 12.355 m/s<sup>2</sup><br />(1.260 g<sub>0</sub>)
         escape_velocity: 32.001 km/s<br />(115,202 km/h)
         rotation_period: 64.024 d
         axial_tilt: 28.13°
         albedo: 0.30
-        temperature: 244 K<br />(-29 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 0067 Shanniashiad C IX d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1644,14 +1644,14 @@ planets:
         radius: 37,481.1 km<br/>(5.883 Yrths)
         surface_area: 1.765 × 10<sup>10</sup> km<sup>2</sup><br/>(34.611 Yrths)
         volume: 2.206 × 10<sup>14</sup> km<sup>3</sup><br/>(203.618 Yrths)
-        mass: 4.630 × 10<sup>26</sup> kg<br />(21.4799618486635 Yrths)
+        mass: 4.630 × 10<sup>26</sup> kg<br />(77.535 Yrths)
         density: 2.099 g/cm<sup>3</sup>
         surface_gravity: 21.969 m/s<sup>2</sup><br />(2.240 g<sub>0</sub>)
         escape_velocity: 40.609 km/s<br />(146,192 km/h)
         rotation_period: 34.903 d
         axial_tilt: 8.56°
         albedo: 0.30
-        temperature: 232 K<br />(-41 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 0067 Shanniashiad C IX e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1664,14 +1664,14 @@ planets:
         radius: 23,781.8 km<br/>(3.733 Yrths)
         surface_area: 7.107 × 10<sup>09</sup> km<sup>2</sup><br/>(13.934 Yrths)
         volume: 5.634 × 10<sup>13</sup> km<sup>3</sup><br/>(52.013 Yrths)
-        mass: 1.211 × 10<sup>26</sup> kg<br />(21.4799618486635 Yrths)
+        mass: 1.211 × 10<sup>26</sup> kg<br />(20.273 Yrths)
         density: 2.149 g/cm<sup>3</sup>
         surface_gravity: 14.268 m/s<sup>2</sup><br />(1.455 g<sub>0</sub>)
         escape_velocity: 26.068 km/s<br />(93,846 km/h)
         rotation_period: 56.256 d
         axial_tilt: 16.32°
         albedo: 0.30
-        temperature: 222 K<br />(-52 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 0067 Shanniashiad C IX f
         type: Ice/rock hybrid
         formationType: Captured
@@ -1684,12 +1684,12 @@ planets:
         radius: 27,965.1 km<br/>(4.389 Yrths)
         surface_area: 9.827 × 10<sup>09</sup> km<sup>2</sup><br/>(19.267 Yrths)
         volume: 9.161 × 10<sup>13</sup> km<sup>3</sup><br/>(84.572 Yrths)
-        mass: 1.941 × 10<sup>26</sup> kg<br />(21.4799618486635 Yrths)
+        mass: 1.941 × 10<sup>26</sup> kg<br />(32.509 Yrths)
         density: 2.119 g/cm<sup>3</sup>
         surface_gravity: 16.546 m/s<sup>2</sup><br />(1.687 g<sub>0</sub>)
         escape_velocity: 30.442 km/s<br />(109,590 km/h)
         rotation_period: 41.402 d
         axial_tilt: 28.18°
         albedo: 0.30
-        temperature: 201 K<br />(-72 °C)
+        temperature: 32 K<br />(-241 °C)
 ---

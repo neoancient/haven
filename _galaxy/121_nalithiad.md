@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      121 Nalithiad is a star in the constellation Nalith
+      121 Nalithiad is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 955.05 ly
 apparent_magnitude: 9.19
 absolute_magnitude: 1.86

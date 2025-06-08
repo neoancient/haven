@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      414 Keead is a star in the constellation Kee
+      414 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 316.31 ly
 apparent_magnitude: 10.24
 absolute_magnitude: 5.31

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1524 Noniashad A is a star in the constellation Nonias
+      1524 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 601.33 ly
 apparent_magnitude: 8.39
 absolute_magnitude: 2.07

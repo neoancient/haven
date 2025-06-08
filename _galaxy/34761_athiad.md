@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      34761 Athiad is a star in the constellation Ath
+      34761 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 518.56 ly
 apparent_magnitude: 11.70
 absolute_magnitude: 5.70

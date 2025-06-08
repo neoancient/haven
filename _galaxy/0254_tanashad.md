@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0254 Tanashad is a star in the constellation Tanas
+      0254 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 43.12 ly
 apparent_magnitude: 6.30
 absolute_magnitude: 5.69
@@ -31,14 +31,14 @@ planets:
     radius: 6,452.8 km<br/>(1.013 Yrths)
     surface_area: 5.232 × 10<sup>08</sup> km<sup>2</sup><br/>(1.026 Yrths)
     volume: 1.125 × 10<sup>12</sup> km<sup>3</sup><br/>(1.039 Yrths)
-    mass: 1.124 × 10<sup>25</sup> kg<br />(1.8829367176905834 Yrths)
+    mass: 1.124 × 10<sup>25</sup> kg<br />(1.88 Yrths)
     density: 9.991 g/cm<sup>3</sup>
     surface_gravity: 18.000 m/s<sup>2</sup><br />(1.836 g<sub>0</sub>)
     escape_velocity: 15.252 km/s<br />(54,907 km/h)
     rotation_period: 1.728 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 506 K<br />(233 °C)
+    temperature: 1111 K<br />(838 °C)
     surface_pressure: 276 kPa<br />(3 atm)
     composition:
       - 58.6011% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 3,785.5 km<br/>(0.594 Yrths)
         surface_area: 1.801 × 10<sup>08</sup> km<sup>2</sup><br/>(0.353 Yrths)
         volume: 2.272 × 10<sup>11</sup> km<sup>3</sup><br/>(0.210 Yrths)
-        mass: 6.938 × 10<sup>23</sup> kg<br />(1.8829367176905834 Yrths)
+        mass: 6.938 × 10<sup>23</sup> kg<br />(0.116 Yrths)
         density: 3.053 g/cm<sup>3</sup>
         surface_gravity: 3.227 m/s<sup>2</sup><br />(0.329 g<sub>0</sub>)
         escape_velocity: 4.946 km/s<br />(17,807 km/h)
         rotation_period: 52.398 d
         axial_tilt: 20.82°
         albedo: 0.30
-        temperature: 4935 K<br />(4662 °C)
+        temperature: 331 K<br />(58 °C)
       - name: 0254 Tanashad I b
         type: Rocky
         formationType: Impact formed
@@ -79,14 +79,14 @@ planets:
         radius: 1,081.4 km<br/>(0.170 Yrths)
         surface_area: 1.469 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.297 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.450 × 10<sup>22</sup> kg<br />(1.8829367176905834 Yrths)
+        mass: 1.450 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.738 g/cm<sup>3</sup>
         surface_gravity: 0.827 m/s<sup>2</sup><br />(0.084 g<sub>0</sub>)
         escape_velocity: 1.338 km/s<br />(4,817 km/h)
         rotation_period: 53.858 d
         axial_tilt: 5.79°
         albedo: 0.30
-        temperature: 4705 K<br />(4432 °C)
+        temperature: 331 K<br />(58 °C)
   - name: 0254 Tanashad II
     type: Large terrestrial
     aphelion: 124,065,022 km<br />0.829 AU
@@ -98,14 +98,14 @@ planets:
     radius: 7,912.6 km<br/>(1.242 Yrths)
     surface_area: 7.868 × 10<sup>08</sup> km<sup>2</sup><br/>(1.542 Yrths)
     volume: 2.075 × 10<sup>12</sup> km<sup>3</sup><br/>(1.916 Yrths)
-    mass: 1.491 × 10<sup>25</sup> kg<br />(2.497457947459661 Yrths)
+    mass: 1.491 × 10<sup>25</sup> kg<br />(2.50 Yrths)
     density: 7.187 g/cm<sup>3</sup>
     surface_gravity: 15.878 m/s<sup>2</sup><br />(1.619 g<sub>0</sub>)
     escape_velocity: 15.862 km/s<br />(57,105 km/h)
     rotation_period: 1.314 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 336 K<br />(62 °C)
+    temperature: 423 K<br />(150 °C)
     surface_pressure: 204 kPa<br />(2 atm)
     composition:
       - 80.4063% nitrogen
@@ -124,14 +124,14 @@ planets:
         radius: 5,912.9 km<br/>(0.928 Yrths)
         surface_area: 4.394 × 10<sup>08</sup> km<sup>2</sup><br/>(0.861 Yrths)
         volume: 8.660 × 10<sup>11</sup> km<sup>3</sup><br/>(0.799 Yrths)
-        mass: 2.162 × 10<sup>24</sup> kg<br />(2.497457947459661 Yrths)
+        mass: 2.162 × 10<sup>24</sup> kg<br />(0.362 Yrths)
         density: 2.497 g/cm<sup>3</sup>
         surface_gravity: 4.122 m/s<sup>2</sup><br />(0.420 g<sub>0</sub>)
         escape_velocity: 6.987 km/s<br />(25,152 km/h)
         rotation_period: 44.776 d
         axial_tilt: 9.33°
         albedo: 0.30
-        temperature: 3182 K<br />(2909 °C)
+        temperature: 256 K<br />(-17 °C)
   - name: 0254 Tanashad III
     type: Gas giant
     aphelion: 195,124,028 km<br />1.304 AU
@@ -143,7 +143,7 @@ planets:
     radius: 209.9 km<br/>(0.033 Yrths)
     surface_area: 5.534 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.871 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.325 × 10<sup>27</sup> kg<br />(221.87886845186324 Yrths)
+    mass: 1.325 × 10<sup>27</sup> kg<br />(221.88 Yrths)
     density: 34227952.725 g/cm<sup>3</sup>
     surface_gravity: 2005430.839 m/s<sup>2</sup><br />(204497.034 g<sub>0</sub>)
     escape_velocity: 918.068 km/s<br />(3,305,044 km/h)
@@ -164,14 +164,14 @@ planets:
         radius: 201,527.0 km<br/>(31.632 Yrths)
         surface_area: 5.104 × 10<sup>11</sup> km<sup>2</sup><br/>(1000.579 Yrths)
         volume: 3.428 × 10<sup>16</sup> km<sup>3</sup><br/>(31650.224 Yrths)
-        mass: 1.108 × 10<sup>29</sup> kg<br />(221.87886845186324 Yrths)
+        mass: 1.108 × 10<sup>29</sup> kg<br />(18561.067 Yrths)
         density: 3.233 g/cm<sup>3</sup>
         surface_gravity: 181.917 m/s<sup>2</sup><br />(18.550 g<sub>0</sub>)
         escape_velocity: 270.965 km/s<br />(975,473 km/h)
         rotation_period: 34.090 d
         axial_tilt: 10.86°
         albedo: 0.30
-        temperature: 1106 K<br />(833 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 0254 Tanashad III b
         type: Rocky
         formationType: Captured
@@ -184,14 +184,14 @@ planets:
         radius: 116,338.1 km<br/>(18.261 Yrths)
         surface_area: 1.701 × 10<sup>11</sup> km<sup>2</sup><br/>(333.449 Yrths)
         volume: 6.596 × 10<sup>15</sup> km<sup>3</sup><br/>(6088.963 Yrths)
-        mass: 1.961 × 10<sup>28</sup> kg<br />(221.87886845186324 Yrths)
+        mass: 1.961 × 10<sup>28</sup> kg<br />(3283.657 Yrths)
         density: 2.973 g/cm<sup>3</sup>
         surface_gravity: 96.572 m/s<sup>2</sup><br />(9.848 g<sub>0</sub>)
         escape_velocity: 150.002 km/s<br />(540,005 km/h)
         rotation_period: 32.124 d
         axial_tilt: 7.23°
         albedo: 0.30
-        temperature: 1055 K<br />(782 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 0254 Tanashad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -204,14 +204,14 @@ planets:
         radius: 231,800.1 km<br/>(36.384 Yrths)
         surface_area: 6.752 × 10<sup>11</sup> km<sup>2</sup><br/>(1323.768 Yrths)
         volume: 5.217 × 10<sup>16</sup> km<sup>3</sup><br/>(48163.492 Yrths)
-        mass: 1.240 × 10<sup>29</sup> kg<br />(221.87886845186324 Yrths)
+        mass: 1.240 × 10<sup>29</sup> kg<br />(20770.290 Yrths)
         density: 2.378 g/cm<sup>3</sup>
         surface_gravity: 153.869 m/s<sup>2</sup><br />(15.690 g<sub>0</sub>)
         escape_velocity: 267.265 km/s<br />(962,154 km/h)
         rotation_period: 36.947 d
         axial_tilt: 21.57°
         albedo: 0.30
-        temperature: 1006 K<br />(732 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 0254 Tanashad III d
         type: Icy
         formationType: Accreted
@@ -224,14 +224,14 @@ planets:
         radius: 175,628.3 km<br/>(27.567 Yrths)
         surface_area: 3.876 × 10<sup>11</sup> km<sup>2</sup><br/>(759.930 Yrths)
         volume: 2.269 × 10<sup>16</sup> km<sup>3</sup><br/>(20948.865 Yrths)
-        mass: 3.017 × 10<sup>28</sup> kg<br />(221.87886845186324 Yrths)
+        mass: 3.017 × 10<sup>28</sup> kg<br />(5051.869 Yrths)
         density: 1.330 g/cm<sup>3</sup>
         surface_gravity: 65.193 m/s<sup>2</sup><br />(6.648 g<sub>0</sub>)
         escape_velocity: 151.428 km/s<br />(545,141 km/h)
         rotation_period: 50.939 d
         axial_tilt: 25.55°
         albedo: 0.30
-        temperature: 914 K<br />(641 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 0254 Tanashad III e
         type: Icy
         formationType: Accreted
@@ -244,14 +244,14 @@ planets:
         radius: 178,200.0 km<br/>(27.970 Yrths)
         surface_area: 3.990 × 10<sup>11</sup> km<sup>2</sup><br/>(782.348 Yrths)
         volume: 2.370 × 10<sup>16</sup> km<sup>3</sup><br/>(21882.657 Yrths)
-        mass: 2.533 × 10<sup>28</sup> kg<br />(221.87886845186324 Yrths)
+        mass: 2.533 × 10<sup>28</sup> kg<br />(4241.345 Yrths)
         density: 1.069 g/cm<sup>3</sup>
         surface_gravity: 53.165 m/s<sup>2</sup><br />(5.421 g<sub>0</sub>)
         escape_velocity: 137.745 km/s<br />(495,882 km/h)
         rotation_period: 76.123 d
         axial_tilt: 20.60°
         albedo: 0.30
-        temperature: 792 K<br />(519 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 0254 Tanashad III f
         type: Rocky
         formationType: Impact formed
@@ -264,14 +264,14 @@ planets:
         radius: 165,199.1 km<br/>(25.930 Yrths)
         surface_area: 3.429 × 10<sup>11</sup> km<sup>2</sup><br/>(672.358 Yrths)
         volume: 1.888 × 10<sup>16</sup> km<sup>3</sup><br/>(17434.138 Yrths)
-        mass: 5.843 × 10<sup>28</sup> kg<br />(221.87886845186324 Yrths)
+        mass: 5.843 × 10<sup>28</sup> kg<br />(9783.719 Yrths)
         density: 3.094 g/cm<sup>3</sup>
         surface_gravity: 142.700 m/s<sup>2</sup><br />(14.551 g<sub>0</sub>)
         escape_velocity: 217.283 km/s<br />(782,219 km/h)
         rotation_period: 50.414 d
         axial_tilt: 6.71°
         albedo: 0.30
-        temperature: 655 K<br />(382 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 0254 Tanashad III g
         type: Rocky
         formationType: Accreted
@@ -284,14 +284,14 @@ planets:
         radius: 125,410.7 km<br/>(19.685 Yrths)
         surface_area: 1.976 × 10<sup>11</sup> km<sup>2</sup><br/>(387.484 Yrths)
         volume: 8.262 × 10<sup>15</sup> km<sup>3</sup><br/>(7627.474 Yrths)
-        mass: 2.372 × 10<sup>28</sup> kg<br />(221.87886845186324 Yrths)
+        mass: 2.372 × 10<sup>28</sup> kg<br />(3971.347 Yrths)
         density: 2.871 g/cm<sup>3</sup>
         surface_gravity: 100.509 m/s<sup>2</sup><br />(10.249 g<sub>0</sub>)
         escape_velocity: 158.884 km/s<br />(571,981 km/h)
         rotation_period: 30.853 d
         axial_tilt: 12.91°
         albedo: 0.30
-        temperature: 595 K<br />(322 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 0254 Tanashad III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -304,14 +304,14 @@ planets:
         radius: 284,102.9 km<br/>(44.593 Yrths)
         surface_area: 1.014 × 10<sup>12</sup> km<sup>2</sup><br/>(1988.548 Yrths)
         volume: 9.605 × 10<sup>16</sup> km<sup>3</sup><br/>(88675.596 Yrths)
-        mass: 2.168 × 10<sup>29</sup> kg<br />(221.87886845186324 Yrths)
+        mass: 2.168 × 10<sup>29</sup> kg<br />(36302.555 Yrths)
         density: 2.257 g/cm<sup>3</sup>
         surface_gravity: 179.028 m/s<sup>2</sup><br />(18.256 g<sub>0</sub>)
         escape_velocity: 319.160 km/s<br />(1,148,976 km/h)
         rotation_period: 46.782 d
         axial_tilt: 17.63°
         albedo: 0.30
-        temperature: 568 K<br />(295 °C)
+        temperature: 198 K<br />(-75 °C)
   - name: 0254 Tanashad IV
     type: Gas giant
     aphelion: 295,422,178 km<br />1.975 AU
@@ -323,7 +323,7 @@ planets:
     radius: 143.8 km<br/>(0.023 Yrths)
     surface_area: 2.600 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.247 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.509 × 10<sup>26</sup> kg<br />(42.01567173753663 Yrths)
+    mass: 2.509 × 10<sup>26</sup> kg<br />(42.02 Yrths)
     density: 20127965.884 g/cm<sup>3</sup>
     surface_gravity: 808323.965 m/s<sup>2</sup><br />(82426.105 g<sub>0</sub>)
     escape_velocity: 482.551 km/s<br />(1,737,183 km/h)
@@ -344,14 +344,14 @@ planets:
         radius: 59,566.2 km<br/>(9.350 Yrths)
         surface_area: 4.459 × 10<sup>10</sup> km<sup>2</sup><br/>(87.415 Yrths)
         volume: 8.853 × 10<sup>14</sup> km<sup>3</sup><br/>(817.292 Yrths)
-        mass: 1.946 × 10<sup>27</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 1.946 × 10<sup>27</sup> kg<br />(325.857 Yrths)
         density: 2.198 g/cm<sup>3</sup>
         surface_gravity: 36.556 m/s<sup>2</sup><br />(3.728 g<sub>0</sub>)
         escape_velocity: 66.038 km/s<br />(237,735 km/h)
         rotation_period: 65.764 d
         axial_tilt: 21.28°
         albedo: 0.30
-        temperature: 848 K<br />(575 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV b
         type: Icy
         formationType: Accreted
@@ -364,14 +364,14 @@ planets:
         radius: 98,058.9 km<br/>(15.391 Yrths)
         surface_area: 1.208 × 10<sup>11</sup> km<sup>2</sup><br/>(236.897 Yrths)
         volume: 3.950 × 10<sup>15</sup> km<sup>3</sup><br/>(3646.181 Yrths)
-        mass: 5.162 × 10<sup>27</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 5.162 × 10<sup>27</sup> kg<br />(864.409 Yrths)
         density: 1.307 g/cm<sup>3</sup>
         surface_gravity: 35.783 m/s<sup>2</sup><br />(3.649 g<sub>0</sub>)
         escape_velocity: 83.829 km/s<br />(301,784 km/h)
         rotation_period: 46.887 d
         axial_tilt: 13.97°
         albedo: 0.30
-        temperature: 771 K<br />(498 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -384,14 +384,14 @@ planets:
         radius: 50,106.0 km<br/>(7.865 Yrths)
         surface_area: 3.155 × 10<sup>10</sup> km<sup>2</sup><br/>(61.853 Yrths)
         volume: 5.269 × 10<sup>14</sup> km<sup>3</sup><br/>(486.458 Yrths)
-        mass: 1.045 × 10<sup>27</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 1.045 × 10<sup>27</sup> kg<br />(174.920 Yrths)
         density: 1.982 g/cm<sup>3</sup>
         surface_gravity: 27.733 m/s<sup>2</sup><br />(2.828 g<sub>0</sub>)
         escape_velocity: 52.754 km/s<br />(189,913 km/h)
         rotation_period: 60.239 d
         axial_tilt: 26.26°
         albedo: 0.30
-        temperature: 735 K<br />(462 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -404,14 +404,14 @@ planets:
         radius: 50,702.6 km<br/>(7.958 Yrths)
         surface_area: 3.231 × 10<sup>10</sup> km<sup>2</sup><br/>(63.335 Yrths)
         volume: 5.460 × 10<sup>14</sup> km<sup>3</sup><br/>(504.043 Yrths)
-        mass: 1.168 × 10<sup>27</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 1.168 × 10<sup>27</sup> kg<br />(195.532 Yrths)
         density: 2.139 g/cm<sup>3</sup>
         surface_gravity: 30.276 m/s<sup>2</sup><br />(3.087 g<sub>0</sub>)
         escape_velocity: 55.446 km/s<br />(199,606 km/h)
         rotation_period: 35.194 d
         axial_tilt: 29.76°
         albedo: 0.30
-        temperature: 669 K<br />(395 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV e
         type: Rocky
         formationType: Captured
@@ -424,14 +424,14 @@ planets:
         radius: 44,698.8 km<br/>(7.016 Yrths)
         surface_area: 2.511 × 10<sup>10</sup> km<sup>2</sup><br/>(49.224 Yrths)
         volume: 3.741 × 10<sup>14</sup> km<sup>3</sup><br/>(345.354 Yrths)
-        mass: 1.265 × 10<sup>27</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 1.265 × 10<sup>27</sup> kg<br />(211.886 Yrths)
         density: 3.383 g/cm<sup>3</sup>
         surface_gravity: 42.213 m/s<sup>2</sup><br />(4.305 g<sub>0</sub>)
         escape_velocity: 61.472 km/s<br />(221,301 km/h)
         rotation_period: 38.522 d
         axial_tilt: 6.73°
         albedo: 0.30
-        temperature: 553 K<br />(279 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV f
         type: Icy
         formationType: Impact formed
@@ -444,14 +444,14 @@ planets:
         radius: 57,333.7 km<br/>(8.999 Yrths)
         surface_area: 4.131 × 10<sup>10</sup> km<sup>2</sup><br/>(80.985 Yrths)
         volume: 7.894 × 10<sup>14</sup> km<sup>3</sup><br/>(728.799 Yrths)
-        mass: 1.063 × 10<sup>27</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 1.063 × 10<sup>27</sup> kg<br />(178.011 Yrths)
         density: 1.347 g/cm<sup>3</sup>
         surface_gravity: 21.556 m/s<sup>2</sup><br />(2.198 g<sub>0</sub>)
         escape_velocity: 49.750 km/s<br />(179,101 km/h)
         rotation_period: 44.324 d
         axial_tilt: 19.41°
         albedo: 0.30
-        temperature: 327 K<br />(54 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV g
         type: Icy
         formationType: Captured
@@ -464,14 +464,14 @@ planets:
         radius: 51,336.3 km<br/>(8.058 Yrths)
         surface_area: 3.312 × 10<sup>10</sup> km<sup>2</sup><br/>(64.928 Yrths)
         volume: 5.667 × 10<sup>14</sup> km<sup>3</sup><br/>(523.180 Yrths)
-        mass: 8.531 × 10<sup>26</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 8.531 × 10<sup>26</sup> kg<br />(142.851 Yrths)
         density: 1.505 g/cm<sup>3</sup>
         surface_gravity: 21.576 m/s<sup>2</sup><br />(2.200 g<sub>0</sub>)
         escape_velocity: 47.098 km/s<br />(169,555 km/h)
         rotation_period: 42.952 d
         axial_tilt: 17.18°
         albedo: 0.30
-        temperature: 297 K<br />(24 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -484,14 +484,14 @@ planets:
         radius: 66,911.9 km<br/>(10.503 Yrths)
         surface_area: 5.626 × 10<sup>10</sup> km<sup>2</sup><br/>(110.304 Yrths)
         volume: 1.255 × 10<sup>15</sup> km<sup>3</sup><br/>(1158.476 Yrths)
-        mass: 2.573 × 10<sup>27</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 2.573 × 10<sup>27</sup> kg<br />(430.898 Yrths)
         density: 2.051 g/cm<sup>3</sup>
         surface_gravity: 38.309 m/s<sup>2</sup><br />(3.906 g<sub>0</sub>)
         escape_velocity: 71.650 km/s<br />(257,938 km/h)
         rotation_period: 64.840 d
         axial_tilt: 25.80°
         albedo: 0.30
-        temperature: 284 K<br />(10 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV i
         type: Icy
         formationType: Accreted
@@ -504,14 +504,14 @@ planets:
         radius: 48,403.2 km<br/>(7.597 Yrths)
         surface_area: 2.944 × 10<sup>10</sup> km<sup>2</sup><br/>(57.721 Yrths)
         volume: 4.750 × 10<sup>14</sup> km<sup>3</sup><br/>(438.531 Yrths)
-        mass: 7.098 × 10<sup>26</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 7.098 × 10<sup>26</sup> kg<br />(118.859 Yrths)
         density: 1.494 g/cm<sup>3</sup>
         surface_gravity: 20.194 m/s<sup>2</sup><br />(2.059 g<sub>0</sub>)
         escape_velocity: 44.244 km/s<br />(159,279 km/h)
         rotation_period: 42.526 d
         axial_tilt: 17.07°
         albedo: 0.30
-        temperature: 270 K<br />(-3 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV j
         type: Asteroid
         formationType: Captured
@@ -524,14 +524,14 @@ planets:
         radius: 41,802.0 km<br/>(6.561 Yrths)
         surface_area: 2.196 × 10<sup>10</sup> km<sup>2</sup><br/>(43.051 Yrths)
         volume: 3.060 × 10<sup>14</sup> km<sup>3</sup><br/>(282.468 Yrths)
-        mass: 8.378 × 10<sup>26</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 8.378 × 10<sup>26</sup> kg<br />(140.289 Yrths)
         density: 2.738 g/cm<sup>3</sup>
         surface_gravity: 31.957 m/s<sup>2</sup><br />(3.259 g<sub>0</sub>)
         escape_velocity: 51.724 km/s<br />(186,206 km/h)
         rotation_period: 44.896 d
         axial_tilt: 45.96°
         albedo: 0.30
-        temperature: 234 K<br />(-39 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 0254 Tanashad IV k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -544,14 +544,14 @@ planets:
         radius: 48,292.2 km<br/>(7.580 Yrths)
         surface_area: 2.931 × 10<sup>10</sup> km<sup>2</sup><br/>(57.456 Yrths)
         volume: 4.718 × 10<sup>14</sup> km<sup>3</sup><br/>(435.520 Yrths)
-        mass: 1.217 × 10<sup>27</sup> kg<br />(42.01567173753663 Yrths)
+        mass: 1.217 × 10<sup>27</sup> kg<br />(203.711 Yrths)
         density: 2.579 g/cm<sup>3</sup>
         surface_gravity: 34.769 m/s<sup>2</sup><br />(3.545 g<sub>0</sub>)
         escape_velocity: 57.989 km/s<br />(208,761 km/h)
         rotation_period: 38.598 d
         axial_tilt: 23.26°
         albedo: 0.30
-        temperature: 203 K<br />(-70 °C)
+        temperature: 153 K<br />(-120 °C)
   - name: 0254 Tanashad V
     type: Ice giant
     aphelion: 553,542,617 km<br />3.700 AU
@@ -563,14 +563,14 @@ planets:
     radius: 27,199.8 km<br/>(4.269 Yrths)
     surface_area: 9.297 × 10<sup>09</sup> km<sup>2</sup><br/>(18.227 Yrths)
     volume: 8.429 × 10<sup>13</sup> km<sup>3</sup><br/>(77.817 Yrths)
-    mass: 1.057 × 10<sup>26</sup> kg<br />(17.697104837935353 Yrths)
+    mass: 1.057 × 10<sup>26</sup> kg<br />(17.70 Yrths)
     density: 1.254 g/cm<sup>3</sup>
     surface_gravity: 9.521 m/s<sup>2</sup><br />(0.971 g<sub>0</sub>)
     escape_velocity: 22.774 km/s<br />(81,988 km/h)
     rotation_period: 0.462 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 211 K<br />(-62 °C)
+    temperature: 189 K<br />(-84 °C)
     composition:
       - 63.5944% hydrogen
       - 32.0294% helium
@@ -588,14 +588,14 @@ planets:
         radius: 27,495.9 km<br/>(4.316 Yrths)
         surface_area: 9.500 × 10<sup>09</sup> km<sup>2</sup><br/>(18.626 Yrths)
         volume: 8.707 × 10<sup>13</sup> km<sup>3</sup><br/>(80.386 Yrths)
-        mass: 1.123 × 10<sup>26</sup> kg<br />(17.697104837935353 Yrths)
+        mass: 1.123 × 10<sup>26</sup> kg<br />(18.802 Yrths)
         density: 1.290 g/cm<sup>3</sup>
         surface_gravity: 9.899 m/s<sup>2</sup><br />(1.009 g<sub>0</sub>)
         escape_velocity: 23.348 km/s<br />(84,052 km/h)
         rotation_period: 57.484 d
         axial_tilt: 12.33°
         albedo: 0.30
-        temperature: 1009 K<br />(736 °C)
+        temperature: 119 K<br />(-155 °C)
       - name: 0254 Tanashad V b
         type: Icy
         formationType: Captured
@@ -608,14 +608,14 @@ planets:
         radius: 23,981.6 km<br/>(3.764 Yrths)
         surface_area: 7.227 × 10<sup>09</sup> km<sup>2</sup><br/>(14.169 Yrths)
         volume: 5.777 × 10<sup>13</sup> km<sup>3</sup><br/>(53.335 Yrths)
-        mass: 5.847 × 10<sup>25</sup> kg<br />(17.697104837935353 Yrths)
+        mass: 5.847 × 10<sup>25</sup> kg<br />(9.790 Yrths)
         density: 1.012 g/cm<sup>3</sup>
         surface_gravity: 6.776 m/s<sup>2</sup><br />(0.691 g<sub>0</sub>)
         escape_velocity: 18.040 km/s<br />(64,943 km/h)
         rotation_period: 82.285 d
         axial_tilt: 18.80°
         albedo: 0.30
-        temperature: 917 K<br />(644 °C)
+        temperature: 119 K<br />(-155 °C)
       - name: 0254 Tanashad V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -628,14 +628,14 @@ planets:
         radius: 18,541.0 km<br/>(2.910 Yrths)
         surface_area: 4.320 × 10<sup>09</sup> km<sup>2</sup><br/>(8.469 Yrths)
         volume: 2.670 × 10<sup>13</sup> km<sup>3</sup><br/>(24.648 Yrths)
-        mass: 5.421 × 10<sup>25</sup> kg<br />(17.697104837935353 Yrths)
+        mass: 5.421 × 10<sup>25</sup> kg<br />(9.078 Yrths)
         density: 2.031 g/cm<sup>3</sup>
         surface_gravity: 10.511 m/s<sup>2</sup><br />(1.072 g<sub>0</sub>)
         escape_velocity: 19.756 km/s<br />(71,122 km/h)
         rotation_period: 39.614 d
         axial_tilt: 14.29°
         albedo: 0.30
-        temperature: 795 K<br />(522 °C)
+        temperature: 119 K<br />(-155 °C)
       - name: 0254 Tanashad V d
         type: Icy
         formationType: Impact formed
@@ -648,14 +648,14 @@ planets:
         radius: 20,707.7 km<br/>(3.250 Yrths)
         surface_area: 5.389 × 10<sup>09</sup> km<sup>2</sup><br/>(10.565 Yrths)
         volume: 3.720 × 10<sup>13</sup> km<sup>3</sup><br/>(34.338 Yrths)
-        mass: 3.743 × 10<sup>25</sup> kg<br />(17.697104837935353 Yrths)
+        mass: 3.743 × 10<sup>25</sup> kg<br />(6.268 Yrths)
         density: 1.006 g/cm<sup>3</sup>
         surface_gravity: 5.819 m/s<sup>2</sup><br />(0.593 g<sub>0</sub>)
         escape_velocity: 15.534 km/s<br />(55,923 km/h)
         rotation_period: 64.123 d
         axial_tilt: 8.11°
         albedo: 0.30
-        temperature: 723 K<br />(450 °C)
+        temperature: 119 K<br />(-155 °C)
       - name: 0254 Tanashad V e
         type: Asteroid
         formationType: Captured
@@ -668,14 +668,14 @@ planets:
         radius: 26,979.8 km<br/>(4.235 Yrths)
         surface_area: 9.147 × 10<sup>09</sup> km<sup>2</sup><br/>(17.933 Yrths)
         volume: 8.226 × 10<sup>13</sup> km<sup>3</sup><br/>(75.944 Yrths)
-        mass: 1.723 × 10<sup>26</sup> kg<br />(17.697104837935353 Yrths)
+        mass: 1.723 × 10<sup>26</sup> kg<br />(28.855 Yrths)
         density: 2.095 g/cm<sup>3</sup>
         surface_gravity: 15.779 m/s<sup>2</sup><br />(1.609 g<sub>0</sub>)
         escape_velocity: 29.199 km/s<br />(105,116 km/h)
         rotation_period: 49.726 d
         axial_tilt: 33.11°
         albedo: 0.30
-        temperature: 689 K<br />(416 °C)
+        temperature: 119 K<br />(-155 °C)
       - name: 0254 Tanashad V f
         type: Icy
         formationType: Accreted
@@ -688,14 +688,14 @@ planets:
         radius: 26,556.4 km<br/>(4.168 Yrths)
         surface_area: 8.862 × 10<sup>09</sup> km<sup>2</sup><br/>(17.375 Yrths)
         volume: 7.845 × 10<sup>13</sup> km<sup>3</sup><br/>(72.424 Yrths)
-        mass: 8.818 × 10<sup>25</sup> kg<br />(17.697104837935353 Yrths)
+        mass: 8.818 × 10<sup>25</sup> kg<br />(14.766 Yrths)
         density: 1.124 g/cm<sup>3</sup>
         surface_gravity: 8.334 m/s<sup>2</sup><br />(0.850 g<sub>0</sub>)
         escape_velocity: 21.053 km/s<br />(75,791 km/h)
         rotation_period: 70.729 d
         axial_tilt: 19.87°
         albedo: 0.30
-        temperature: 570 K<br />(296 °C)
+        temperature: 119 K<br />(-155 °C)
       - name: 0254 Tanashad V g
         type: Icy
         formationType: Captured
@@ -708,14 +708,14 @@ planets:
         radius: 26,300.5 km<br/>(4.128 Yrths)
         surface_area: 8.692 × 10<sup>09</sup> km<sup>2</sup><br/>(17.042 Yrths)
         volume: 7.620 × 10<sup>13</sup> km<sup>3</sup><br/>(70.351 Yrths)
-        mass: 8.642 × 10<sup>25</sup> kg<br />(17.697104837935353 Yrths)
+        mass: 8.642 × 10<sup>25</sup> kg<br />(14.471 Yrths)
         density: 1.134 g/cm<sup>3</sup>
         surface_gravity: 8.327 m/s<sup>2</sup><br />(0.849 g<sub>0</sub>)
         escape_velocity: 20.943 km/s<br />(75,395 km/h)
         rotation_period: 63.874 d
         axial_tilt: 25.19°
         albedo: 0.30
-        temperature: 543 K<br />(270 °C)
+        temperature: 119 K<br />(-155 °C)
       - name: 0254 Tanashad V h
         type: Ice/rock hybrid
         formationType: Captured
@@ -728,14 +728,14 @@ planets:
         radius: 28,146.6 km<br/>(4.418 Yrths)
         surface_area: 9.955 × 10<sup>09</sup> km<sup>2</sup><br/>(19.518 Yrths)
         volume: 9.340 × 10<sup>13</sup> km<sup>3</sup><br/>(86.229 Yrths)
-        mass: 2.317 × 10<sup>26</sup> kg<br />(17.697104837935353 Yrths)
+        mass: 2.317 × 10<sup>26</sup> kg<br />(38.798 Yrths)
         density: 2.481 g/cm<sup>3</sup>
         surface_gravity: 19.494 m/s<sup>2</sup><br />(1.988 g<sub>0</sub>)
         escape_velocity: 33.149 km/s<br />(119,337 km/h)
         rotation_period: 33.154 d
         axial_tilt: 18.35°
         albedo: 0.30
-        temperature: 518 K<br />(245 °C)
+        temperature: 119 K<br />(-155 °C)
       - name: 0254 Tanashad V i
         type: Icy
         formationType: Accreted
@@ -748,14 +748,14 @@ planets:
         radius: 34,415.1 km<br/>(5.402 Yrths)
         surface_area: 1.488 × 10<sup>10</sup> km<sup>2</sup><br/>(29.180 Yrths)
         volume: 1.707 × 10<sup>14</sup> km<sup>3</sup><br/>(157.625 Yrths)
-        mass: 2.063 × 10<sup>26</sup> kg<br />(17.697104837935353 Yrths)
+        mass: 2.063 × 10<sup>26</sup> kg<br />(34.544 Yrths)
         density: 1.208 g/cm<sup>3</sup>
         surface_gravity: 11.609 m/s<sup>2</sup><br />(1.184 g<sub>0</sub>)
         escape_velocity: 28.287 km/s<br />(101,833 km/h)
         rotation_period: 58.546 d
         axial_tilt: 5.13°
         albedo: 0.30
-        temperature: 494 K<br />(221 °C)
+        temperature: 119 K<br />(-155 °C)
   - name: 0254 Tanashad VI
     type: Ice giant
     aphelion: 902,279,876 km<br />6.031 AU
@@ -767,14 +767,14 @@ planets:
     radius: 20,404.7 km<br/>(3.203 Yrths)
     surface_area: 5.232 × 10<sup>09</sup> km<sup>2</sup><br/>(10.258 Yrths)
     volume: 3.559 × 10<sup>13</sup> km<sup>3</sup><br/>(32.853 Yrths)
-    mass: 3.566 × 10<sup>25</sup> kg<br />(5.9719474772785786 Yrths)
+    mass: 3.566 × 10<sup>25</sup> kg<br />(5.97 Yrths)
     density: 1.002 g/cm<sup>3</sup>
     surface_gravity: 5.709 m/s<sup>2</sup><br />(0.582 g<sub>0</sub>)
     escape_velocity: 15.275 km/s<br />(54,989 km/h)
     rotation_period: 0.477 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 167 K<br />(-106 °C)
+    temperature: 152 K<br />(-122 °C)
     composition:
       - 80.4343% hydrogen
       - 17.5305% helium
@@ -793,14 +793,14 @@ planets:
         radius: 15,859.3 km<br/>(2.489 Yrths)
         surface_area: 3.161 × 10<sup>09</sup> km<sup>2</sup><br/>(6.197 Yrths)
         volume: 1.671 × 10<sup>13</sup> km<sup>3</sup><br/>(15.425 Yrths)
-        mass: 3.394 × 10<sup>25</sup> kg<br />(5.9719474772785786 Yrths)
+        mass: 3.394 × 10<sup>25</sup> kg<br />(5.683 Yrths)
         density: 2.031 g/cm<sup>3</sup>
         surface_gravity: 8.994 m/s<sup>2</sup><br />(0.917 g<sub>0</sub>)
         escape_velocity: 16.902 km/s<br />(60,846 km/h)
         rotation_period: 62.573 d
         axial_tilt: 23.38°
         albedo: 0.30
-        temperature: 937 K<br />(664 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: 0254 Tanashad VI b
         type: Icy
         formationType: Captured
@@ -813,14 +813,14 @@ planets:
         radius: 17,566.4 km<br/>(2.757 Yrths)
         surface_area: 3.878 × 10<sup>09</sup> km<sup>2</sup><br/>(7.602 Yrths)
         volume: 2.271 × 10<sup>13</sup> km<sup>3</sup><br/>(20.962 Yrths)
-        mass: 2.491 × 10<sup>25</sup> kg<br />(5.9719474772785786 Yrths)
+        mass: 2.491 × 10<sup>25</sup> kg<br />(4.172 Yrths)
         density: 1.097 g/cm<sup>3</sup>
         surface_gravity: 5.382 m/s<sup>2</sup><br />(0.549 g<sub>0</sub>)
         escape_velocity: 13.760 km/s<br />(49,534 km/h)
         rotation_period: 69.768 d
         axial_tilt: 18.00°
         albedo: 0.30
-        temperature: 852 K<br />(578 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: 0254 Tanashad VI c
         type: Icy
         formationType: Captured
@@ -833,14 +833,14 @@ planets:
         radius: 9,624.3 km<br/>(1.511 Yrths)
         surface_area: 1.164 × 10<sup>09</sup> km<sup>2</sup><br/>(2.282 Yrths)
         volume: 3.734 × 10<sup>12</sup> km<sup>3</sup><br/>(3.447 Yrths)
-        mass: 5.521 × 10<sup>24</sup> kg<br />(5.9719474772785786 Yrths)
+        mass: 5.521 × 10<sup>24</sup> kg<br />(0.924 Yrths)
         density: 1.479 g/cm<sup>3</sup>
         surface_gravity: 3.973 m/s<sup>2</sup><br />(0.405 g<sub>0</sub>)
         escape_velocity: 8.751 km/s<br />(31,503 km/h)
         rotation_period: 78.977 d
         axial_tilt: 19.10°
         albedo: 0.30
-        temperature: 812 K<br />(539 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: 0254 Tanashad VI d
         type: Icy
         formationType: Accreted
@@ -853,14 +853,14 @@ planets:
         radius: 12,798.4 km<br/>(2.009 Yrths)
         surface_area: 2.058 × 10<sup>09</sup> km<sup>2</sup><br/>(4.035 Yrths)
         volume: 8.781 × 10<sup>12</sup> km<sup>3</sup><br/>(8.107 Yrths)
-        mass: 1.294 × 10<sup>25</sup> kg<br />(5.9719474772785786 Yrths)
+        mass: 1.294 × 10<sup>25</sup> kg<br />(2.166 Yrths)
         density: 1.473 g/cm<sup>3</sup>
         surface_gravity: 5.264 m/s<sup>2</sup><br />(0.537 g<sub>0</sub>)
         escape_velocity: 11.615 km/s<br />(41,815 km/h)
         rotation_period: 55.547 d
         axial_tilt: 16.34°
         albedo: 0.30
-        temperature: 774 K<br />(501 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: 0254 Tanashad VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -873,14 +873,14 @@ planets:
         radius: 8,977.5 km<br/>(1.409 Yrths)
         surface_area: 1.013 × 10<sup>09</sup> km<sup>2</sup><br/>(1.986 Yrths)
         volume: 3.031 × 10<sup>12</sup> km<sup>3</sup><br/>(2.798 Yrths)
-        mass: 7.278 × 10<sup>24</sup> kg<br />(5.9719474772785786 Yrths)
+        mass: 7.278 × 10<sup>24</sup> kg<br />(1.219 Yrths)
         density: 2.401 g/cm<sup>3</sup>
         surface_gravity: 6.019 m/s<sup>2</sup><br />(0.614 g<sub>0</sub>)
         escape_velocity: 10.402 km/s<br />(37,449 km/h)
         rotation_period: 61.689 d
         axial_tilt: 19.80°
         albedo: 0.30
-        temperature: 704 K<br />(431 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: 0254 Tanashad VI f
         type: Icy
         formationType: Accreted
@@ -893,14 +893,14 @@ planets:
         radius: 11,919.3 km<br/>(1.871 Yrths)
         surface_area: 1.785 × 10<sup>09</sup> km<sup>2</sup><br/>(3.500 Yrths)
         volume: 7.093 × 10<sup>12</sup> km<sup>3</sup><br/>(6.548 Yrths)
-        mass: 1.032 × 10<sup>25</sup> kg<br />(5.9719474772785786 Yrths)
+        mass: 1.032 × 10<sup>25</sup> kg<br />(1.729 Yrths)
         density: 1.455 g/cm<sup>3</sup>
         surface_gravity: 4.843 m/s<sup>2</sup><br />(0.494 g<sub>0</sub>)
         escape_velocity: 10.752 km/s<br />(38,708 km/h)
         rotation_period: 50.309 d
         axial_tilt: 24.39°
         albedo: 0.30
-        temperature: 671 K<br />(398 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: 0254 Tanashad VI g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -913,14 +913,14 @@ planets:
         radius: 10,384.9 km<br/>(1.630 Yrths)
         surface_area: 1.355 × 10<sup>09</sup> km<sup>2</sup><br/>(2.657 Yrths)
         volume: 4.691 × 10<sup>12</sup> km<sup>3</sup><br/>(4.331 Yrths)
-        mass: 9.437 × 10<sup>24</sup> kg<br />(5.9719474772785786 Yrths)
+        mass: 9.437 × 10<sup>24</sup> kg<br />(1.580 Yrths)
         density: 2.012 g/cm<sup>3</sup>
         surface_gravity: 5.833 m/s<sup>2</sup><br />(0.595 g<sub>0</sub>)
         escape_velocity: 11.014 km/s<br />(39,650 km/h)
         rotation_period: 41.517 d
         axial_tilt: 20.94°
         albedo: 0.30
-        temperature: 640 K<br />(367 °C)
+        temperature: 92 K<br />(-181 °C)
   - name: 0254 Tanashad VII
     type: Gas giant
     aphelion: 1,378,373,575 km<br />9.214 AU
@@ -932,7 +932,7 @@ planets:
     radius: 134.8 km<br/>(0.021 Yrths)
     surface_area: 2.283 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.026 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.855 × 10<sup>26</sup> kg<br />(31.063260590396435 Yrths)
+    mass: 1.855 × 10<sup>26</sup> kg<br />(31.06 Yrths)
     density: 18084011.215 g/cm<sup>3</sup>
     surface_gravity: 680550.908 m/s<sup>2</sup><br />(69396.879 g<sub>0</sub>)
     escape_velocity: 428.618 km/s<br />(1,543,026 km/h)
@@ -953,14 +953,14 @@ planets:
         radius: 35,489.4 km<br/>(5.570 Yrths)
         surface_area: 1.583 × 10<sup>10</sup> km<sup>2</sup><br/>(31.030 Yrths)
         volume: 1.872 × 10<sup>14</sup> km<sup>3</sup><br/>(172.851 Yrths)
-        mass: 4.697 × 10<sup>26</sup> kg<br />(31.063260590396435 Yrths)
+        mass: 4.697 × 10<sup>26</sup> kg<br />(78.655 Yrths)
         density: 2.509 g/cm<sup>3</sup>
         surface_gravity: 24.858 m/s<sup>2</sup><br />(2.535 g<sub>0</sub>)
         escape_velocity: 42.033 km/s<br />(151,319 km/h)
         rotation_period: 34.346 d
         axial_tilt: 20.39°
         albedo: 0.30
-        temperature: 433 K<br />(160 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0254 Tanashad VII b
         type: Icy
         formationType: Accreted
@@ -973,14 +973,14 @@ planets:
         radius: 62,545.9 km<br/>(9.817 Yrths)
         surface_area: 4.916 × 10<sup>10</sup> km<sup>2</sup><br/>(96.379 Yrths)
         volume: 1.025 × 10<sup>15</sup> km<sup>3</sup><br/>(946.182 Yrths)
-        mass: 1.318 × 10<sup>27</sup> kg<br />(31.063260590396435 Yrths)
+        mass: 1.318 × 10<sup>27</sup> kg<br />(220.659 Yrths)
         density: 1.286 g/cm<sup>3</sup>
         surface_gravity: 22.452 m/s<sup>2</sup><br />(2.289 g<sub>0</sub>)
         escape_velocity: 53.032 km/s<br />(190,916 km/h)
         rotation_period: 64.815 d
         axial_tilt: 26.14°
         albedo: 0.30
-        temperature: 413 K<br />(140 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0254 Tanashad VII c
         type: Asteroid
         formationType: Captured
@@ -993,14 +993,14 @@ planets:
         radius: 41,256.7 km<br/>(6.476 Yrths)
         surface_area: 2.139 × 10<sup>10</sup> km<sup>2</sup><br/>(41.935 Yrths)
         volume: 2.942 × 10<sup>14</sup> km<sup>3</sup><br/>(271.556 Yrths)
-        mass: 6.984 × 10<sup>26</sup> kg<br />(31.063260590396435 Yrths)
+        mass: 6.984 × 10<sup>26</sup> kg<br />(116.941 Yrths)
         density: 2.374 g/cm<sup>3</sup>
         surface_gravity: 27.347 m/s<sup>2</sup><br />(2.789 g<sub>0</sub>)
         escape_velocity: 47.535 km/s<br />(171,126 km/h)
         rotation_period: 61.788 d
         axial_tilt: 33.42°
         albedo: 0.30
-        temperature: 212 K<br />(-61 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0254 Tanashad VII d
         type: Asteroid
         formationType: Captured
@@ -1013,14 +1013,14 @@ planets:
         radius: 33,897.1 km<br/>(5.321 Yrths)
         surface_area: 1.444 × 10<sup>10</sup> km<sup>2</sup><br/>(28.308 Yrths)
         volume: 1.631 × 10<sup>14</sup> km<sup>3</sup><br/>(150.614 Yrths)
-        mass: 4.098 × 10<sup>26</sup> kg<br />(31.063260590396435 Yrths)
+        mass: 4.098 × 10<sup>26</sup> kg<br />(68.627 Yrths)
         density: 2.512 g/cm<sup>3</sup>
         surface_gravity: 23.774 m/s<sup>2</sup><br />(2.424 g<sub>0</sub>)
         escape_velocity: 40.174 km/s<br />(144,626 km/h)
         rotation_period: 43.521 d
         axial_tilt: 40.71°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0254 Tanashad VII e
         type: Dwarf planet
         formationType: Accreted
@@ -1033,14 +1033,14 @@ planets:
         radius: 64,191.7 km<br/>(10.076 Yrths)
         surface_area: 5.178 × 10<sup>10</sup> km<sup>2</sup><br/>(101.518 Yrths)
         volume: 1.108 × 10<sup>15</sup> km<sup>3</sup><br/>(1022.856 Yrths)
-        mass: 1.831 × 10<sup>27</sup> kg<br />(31.063260590396435 Yrths)
+        mass: 1.831 × 10<sup>27</sup> kg<br />(306.672 Yrths)
         density: 1.653 g/cm<sup>3</sup>
         surface_gravity: 29.625 m/s<sup>2</sup><br />(3.021 g<sub>0</sub>)
         escape_velocity: 61.713 km/s<br />(222,166 km/h)
         rotation_period: 53.981 d
         axial_tilt: 38.48°
         albedo: 0.30
-        temperature: 61 K<br />(-212 °C)
+        temperature: 71 K<br />(-202 °C)
   - name: 0254 Tanashad VIII
     type: Gas giant
     aphelion: 2,752,906,505 km<br />18.402 AU
@@ -1052,7 +1052,7 @@ planets:
     radius: 255.4 km<br/>(0.040 Yrths)
     surface_area: 8.196 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.977 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.868 × 10<sup>27</sup> kg<br />(480.16140876890256 Yrths)
+    mass: 2.868 × 10<sup>27</sup> kg<br />(480.16 Yrths)
     density: 41097703.138 g/cm<sup>3</sup>
     surface_gravity: 2930370.569 m/s<sup>2</sup><br />(298814.638 g<sub>0</sub>)
     escape_velocity: 1224.253 km/s<br />(4,407,311 km/h)
@@ -1073,14 +1073,14 @@ planets:
         radius: 227,080.1 km<br/>(35.643 Yrths)
         surface_area: 6.480 × 10<sup>11</sup> km<sup>2</sup><br/>(1270.407 Yrths)
         volume: 4.905 × 10<sup>16</sup> km<sup>3</sup><br/>(45280.841 Yrths)
-        mass: 1.524 × 10<sup>29</sup> kg<br />(480.16140876890256 Yrths)
+        mass: 1.524 × 10<sup>29</sup> kg<br />(25526.745 Yrths)
         density: 3.108 g/cm<sup>3</sup>
         surface_gravity: 197.048 m/s<sup>2</sup><br />(20.093 g<sub>0</sub>)
         escape_velocity: 299.355 km/s<br />(1,077,677 km/h)
         rotation_period: 33.717 d
         axial_tilt: 10.27°
         albedo: 0.30
-        temperature: 269 K<br />(-4 °C)
+        temperature: 55 K<br />(-218 °C)
       - name: 0254 Tanashad VIII b
         type: Icy
         formationType: Accreted
@@ -1093,14 +1093,14 @@ planets:
         radius: 404,916.2 km<br/>(63.556 Yrths)
         surface_area: 2.060 × 10<sup>12</sup> km<sup>2</sup><br/>(4039.383 Yrths)
         volume: 2.781 × 10<sup>17</sup> km<sup>3</sup><br/>(256727.618 Yrths)
-        mass: 3.630 × 10<sup>29</sup> kg<br />(480.16140876890256 Yrths)
+        mass: 3.630 × 10<sup>29</sup> kg<br />(60775.677 Yrths)
         density: 1.305 g/cm<sup>3</sup>
         surface_gravity: 147.549 m/s<sup>2</sup><br />(15.046 g<sub>0</sub>)
         escape_velocity: 345.908 km/s<br />(1,245,267 km/h)
         rotation_period: 55.761 d
         axial_tilt: 21.57°
         albedo: 0.30
-        temperature: 234 K<br />(-40 °C)
+        temperature: 55 K<br />(-218 °C)
       - name: 0254 Tanashad VIII c
         type: Icy
         formationType: Accreted
@@ -1113,14 +1113,14 @@ planets:
         radius: 326,601.9 km<br/>(51.264 Yrths)
         surface_area: 1.340 × 10<sup>12</sup> km<sup>2</sup><br/>(2627.980 Yrths)
         volume: 1.459 × 10<sup>17</sup> km<sup>3</sup><br/>(134720.342 Yrths)
-        mass: 1.486 × 10<sup>29</sup> kg<br />(480.16140876890256 Yrths)
+        mass: 1.486 × 10<sup>29</sup> kg<br />(24888.541 Yrths)
         density: 1.019 g/cm<sup>3</sup>
         surface_gravity: 92.875 m/s<sup>2</sup><br />(9.471 g<sub>0</sub>)
         escape_velocity: 246.472 km/s<br />(887,300 km/h)
         rotation_period: 69.547 d
         axial_tilt: 12.63°
         albedo: 0.30
-        temperature: 160 K<br />(-114 °C)
+        temperature: 55 K<br />(-218 °C)
       - name: 0254 Tanashad VIII d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1133,14 +1133,14 @@ planets:
         radius: 249,994.9 km<br/>(39.240 Yrths)
         surface_area: 7.854 × 10<sup>11</sup> km<sup>2</sup><br/>(1539.738 Yrths)
         volume: 6.545 × 10<sup>16</sup> km<sup>3</sup><br/>(60418.567 Yrths)
-        mass: 1.697 × 10<sup>29</sup> kg<br />(480.16140876890256 Yrths)
+        mass: 1.697 × 10<sup>29</sup> kg<br />(28420.389 Yrths)
         density: 2.593 g/cm<sup>3</sup>
         surface_gravity: 181.010 m/s<sup>2</sup><br />(18.458 g<sub>0</sub>)
         escape_velocity: 301.042 km/s<br />(1,083,752 km/h)
         rotation_period: 36.549 d
         axial_tilt: 13.52°
         albedo: 0.30
-        temperature: 152 K<br />(-121 °C)
+        temperature: 55 K<br />(-218 °C)
       - name: 0254 Tanashad VIII e
         type: Icy
         formationType: Accreted
@@ -1153,14 +1153,14 @@ planets:
         radius: 452,640.9 km<br/>(71.047 Yrths)
         surface_area: 2.575 × 10<sup>12</sup> km<sup>2</sup><br/>(5047.688 Yrths)
         volume: 3.885 × 10<sup>17</sup> km<sup>3</sup><br/>(358623.464 Yrths)
-        mass: 4.681 × 10<sup>29</sup> kg<br />(480.16140876890256 Yrths)
+        mass: 4.681 × 10<sup>29</sup> kg<br />(78390.603 Yrths)
         density: 1.205 g/cm<sup>3</sup>
         surface_gravity: 152.297 m/s<sup>2</sup><br />(15.530 g<sub>0</sub>)
         escape_velocity: 371.563 km/s<br />(1,337,628 km/h)
         rotation_period: 62.943 d
         axial_tilt: 14.49°
         albedo: 0.30
-        temperature: 126 K<br />(-147 °C)
+        temperature: 55 K<br />(-218 °C)
       - name: 0254 Tanashad VIII f
         type: Icy
         formationType: Captured
@@ -1173,14 +1173,14 @@ planets:
         radius: 424,929.5 km<br/>(66.697 Yrths)
         surface_area: 2.269 × 10<sup>12</sup> km<sup>2</sup><br/>(4448.551 Yrths)
         volume: 3.214 × 10<sup>17</sup> km<sup>3</sup><br/>(296707.052 Yrths)
-        mass: 2.928 × 10<sup>29</sup> kg<br />(480.16140876890256 Yrths)
+        mass: 2.928 × 10<sup>29</sup> kg<br />(49021.128 Yrths)
         density: 0.911 g/cm<sup>3</sup>
         surface_gravity: 108.065 m/s<sup>2</sup><br />(11.020 g<sub>0</sub>)
         escape_velocity: 303.257 km/s<br />(1,091,726 km/h)
         rotation_period: 75.977 d
         axial_tilt: 25.03°
         albedo: 0.30
-        temperature: 94 K<br />(-179 °C)
+        temperature: 55 K<br />(-218 °C)
       - name: 0254 Tanashad VIII g
         type: Rocky
         formationType: Accreted
@@ -1193,14 +1193,14 @@ planets:
         radius: 228,062.2 km<br/>(35.797 Yrths)
         surface_area: 6.536 × 10<sup>11</sup> km<sup>2</sup><br/>(1281.420 Yrths)
         volume: 4.969 × 10<sup>16</sup> km<sup>3</sup><br/>(45870.873 Yrths)
-        mass: 1.297 × 10<sup>29</sup> kg<br />(480.16140876890256 Yrths)
+        mass: 1.297 × 10<sup>29</sup> kg<br />(21724.207 Yrths)
         density: 2.611 g/cm<sup>3</sup>
         surface_gravity: 166.254 m/s<sup>2</sup><br />(16.953 g<sub>0</sub>)
         escape_velocity: 275.564 km/s<br />(992,032 km/h)
         rotation_period: 44.715 d
         axial_tilt: 22.75°
         albedo: 0.30
-        temperature: 59 K<br />(-215 °C)
+        temperature: 55 K<br />(-218 °C)
       - name: 0254 Tanashad VIII h
         type: Icy
         formationType: Accreted
@@ -1213,14 +1213,14 @@ planets:
         radius: 351,826.8 km<br/>(55.223 Yrths)
         surface_area: 1.555 × 10<sup>12</sup> km<sup>2</sup><br/>(3049.598 Yrths)
         volume: 1.824 × 10<sup>17</sup> km<sup>3</sup><br/>(168408.435 Yrths)
-        mass: 1.404 × 10<sup>29</sup> kg<br />(480.16140876890256 Yrths)
+        mass: 1.404 × 10<sup>29</sup> kg<br />(23515.107 Yrths)
         density: 0.770 g/cm<sup>3</sup>
         surface_gravity: 75.618 m/s<sup>2</sup><br />(7.711 g<sub>0</sub>)
         escape_velocity: 230.827 km/s<br />(830,978 km/h)
         rotation_period: 63.037 d
         axial_tilt: 19.45°
         albedo: 0.30
-        temperature: 44 K<br />(-229 °C)
+        temperature: 55 K<br />(-218 °C)
       - name: 0254 Tanashad VIII i
         type: Icy
         formationType: Impact formed
@@ -1233,12 +1233,12 @@ planets:
         radius: 313,112.3 km<br/>(49.146 Yrths)
         surface_area: 1.232 × 10<sup>12</sup> km<sup>2</sup><br/>(2415.378 Yrths)
         volume: 1.286 × 10<sup>17</sup> km<sup>3</sup><br/>(118707.350 Yrths)
-        mass: 1.277 × 10<sup>29</sup> kg<br />(480.16140876890256 Yrths)
+        mass: 1.277 × 10<sup>29</sup> kg<br />(21386.191 Yrths)
         density: 0.993 g/cm<sup>3</sup>
         surface_gravity: 86.830 m/s<sup>2</sup><br />(8.854 g<sub>0</sub>)
         escape_velocity: 233.343 km/s<br />(840,034 km/h)
         rotation_period: 53.759 d
         axial_tilt: 11.74°
         albedo: 0.30
-        temperature: 36 K<br />(-237 °C)
+        temperature: 55 K<br />(-218 °C)
 ---

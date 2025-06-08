@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10480 Arkothiad A is a star in the constellation Arkoth
+      10480 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 520.54 ly
 apparent_magnitude: 7.16
 absolute_magnitude: 1.15

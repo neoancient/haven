@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3828 Anilliad is a star in the constellation Anil
+      3828 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 560.28 ly
 apparent_magnitude: 11.26
 absolute_magnitude: 5.08

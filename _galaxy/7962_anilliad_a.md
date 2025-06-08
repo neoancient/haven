@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7962 Anilliad A is a star in the constellation Anil
+      7962 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 539.80 ly
 apparent_magnitude: 7.88
 absolute_magnitude: 1.79

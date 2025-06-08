@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2142 Shanniashiad is a star in the constellation Shannias
+      2142 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 910.49 ly
 apparent_magnitude: 6.79
 absolute_magnitude: -0.44
@@ -31,14 +31,14 @@ planets:
     radius: 236.2 km<br/>(0.037 Yrths)
     surface_area: 7.013 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.523 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.080 × 10<sup>27</sup> kg<br />(348.35191923271265 Yrths)
+    mass: 2.080 × 10<sup>27</sup> kg<br />(348.35 Yrths)
     density: 37668906.617 g/cm<sup>3</sup>
     surface_gravity: 2484523.858 m/s<sup>2</sup><br />(253350.926 g<sub>0</sub>)
     escape_velocity: 1084.199 km/s<br />(3,903,118 km/h)
     rotation_period: 0.232 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1696 K<br />(1423 °C)
+    temperature: 1684 K<br />(1411 °C)
     composition:
       - 72.5451% hydrogen
       - 20.4472% helium
@@ -59,14 +59,14 @@ planets:
         radius: 251,504.0 km<br/>(39.476 Yrths)
         surface_area: 7.949 × 10<sup>11</sup> km<sup>2</sup><br/>(1558.384 Yrths)
         volume: 6.664 × 10<sup>16</sup> km<sup>3</sup><br/>(61519.337 Yrths)
-        mass: 1.764 × 10<sup>29</sup> kg<br />(348.35191923271265 Yrths)
+        mass: 1.764 × 10<sup>29</sup> kg<br />(29533.428 Yrths)
         density: 2.647 g/cm<sup>3</sup>
         surface_gravity: 185.849 m/s<sup>2</sup><br />(18.951 g<sub>0</sub>)
         escape_velocity: 305.958 km/s<br />(1,101,450 km/h)
         rotation_period: 49.307 d
         axial_tilt: 23.52°
         albedo: 0.30
-        temperature: 1870 K<br />(1597 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 2142 Shanniashiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 352,644.5 km<br/>(55.352 Yrths)
         surface_area: 1.563 × 10<sup>12</sup> km<sup>2</sup><br/>(3063.791 Yrths)
         volume: 1.837 × 10<sup>17</sup> km<sup>3</sup><br/>(169585.475 Yrths)
-        mass: 3.917 × 10<sup>29</sup> kg<br />(348.35191923271265 Yrths)
+        mass: 3.917 × 10<sup>29</sup> kg<br />(65581.430 Yrths)
         density: 2.132 g/cm<sup>3</sup>
         surface_gravity: 209.915 m/s<sup>2</sup><br />(21.405 g<sub>0</sub>)
         escape_velocity: 385.034 km/s<br />(1,386,124 km/h)
         rotation_period: 50.175 d
         axial_tilt: 15.01°
         albedo: 0.30
-        temperature: 1339 K<br />(1066 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 2142 Shanniashiad I c
         type: Icy
         formationType: Accreted
@@ -99,14 +99,14 @@ planets:
         radius: 246,743.6 km<br/>(38.729 Yrths)
         surface_area: 7.651 × 10<sup>11</sup> km<sup>2</sup><br/>(1499.950 Yrths)
         volume: 6.293 × 10<sup>16</sup> km<sup>3</sup><br/>(58091.831 Yrths)
-        mass: 5.984 × 10<sup>28</sup> kg<br />(348.35191923271265 Yrths)
+        mass: 5.984 × 10<sup>28</sup> kg<br />(10019.813 Yrths)
         density: 0.951 g/cm<sup>3</sup>
         surface_gravity: 65.509 m/s<sup>2</sup><br />(6.680 g<sub>0</sub>)
         escape_velocity: 179.922 km/s<br />(647,720 km/h)
         rotation_period: 65.253 d
         axial_tilt: 22.72°
         albedo: 0.30
-        temperature: 1107 K<br />(834 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 2142 Shanniashiad I d
         type: Icy
         formationType: Accreted
@@ -119,14 +119,14 @@ planets:
         radius: 391,445.5 km<br/>(61.442 Yrths)
         surface_area: 1.926 × 10<sup>12</sup> km<sup>2</sup><br/>(3775.091 Yrths)
         volume: 2.512 × 10<sup>17</sup> km<sup>3</sup><br/>(231948.271 Yrths)
-        mass: 3.368 × 10<sup>29</sup> kg<br />(348.35191923271265 Yrths)
+        mass: 3.368 × 10<sup>29</sup> kg<br />(56391.240 Yrths)
         density: 1.340 g/cm<sup>3</sup>
         surface_gravity: 146.489 m/s<sup>2</sup><br />(14.938 g<sub>0</sub>)
         escape_velocity: 338.882 km/s<br />(1,219,974 km/h)
         rotation_period: 57.092 d
         axial_tilt: 8.22°
         albedo: 0.30
-        temperature: 1055 K<br />(782 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 2142 Shanniashiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 211,833.3 km<br/>(33.250 Yrths)
         surface_area: 5.639 × 10<sup>11</sup> km<sup>2</sup><br/>(1105.537 Yrths)
         volume: 3.982 × 10<sup>16</sup> km<sup>3</sup><br/>(36758.690 Yrths)
-        mass: 7.143 × 10<sup>28</sup> kg<br />(348.35191923271265 Yrths)
+        mass: 7.143 × 10<sup>28</sup> kg<br />(11960.323 Yrths)
         density: 1.794 g/cm<sup>3</sup>
         surface_gravity: 106.094 m/s<sup>2</sup><br />(10.819 g<sub>0</sub>)
         escape_velocity: 212.154 km/s<br />(763,756 km/h)
         rotation_period: 70.992 d
         axial_tilt: 17.44°
         albedo: 0.30
-        temperature: 625 K<br />(352 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 2142 Shanniashiad I f
         type: Icy
         formationType: Captured
@@ -159,14 +159,14 @@ planets:
         radius: 279,893.7 km<br/>(43.932 Yrths)
         surface_area: 9.845 × 10<sup>11</sup> km<sup>2</sup><br/>(1930.061 Yrths)
         volume: 9.185 × 10<sup>16</sup> km<sup>3</sup><br/>(84792.301 Yrths)
-        mass: 7.507 × 10<sup>28</sup> kg<br />(348.35191923271265 Yrths)
+        mass: 7.507 × 10<sup>28</sup> kg<br />(12569.934 Yrths)
         density: 0.817 g/cm<sup>3</sup>
         surface_gravity: 63.868 m/s<sup>2</sup><br />(6.513 g<sub>0</sub>)
         escape_velocity: 189.212 km/s<br />(681,162 km/h)
         rotation_period: 57.550 d
         axial_tilt: 17.60°
         albedo: 0.30
-        temperature: 492 K<br />(219 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 2142 Shanniashiad I g
         type: Icy
         formationType: Accreted
@@ -179,14 +179,14 @@ planets:
         radius: 284,516.1 km<br/>(44.658 Yrths)
         surface_area: 1.017 × 10<sup>12</sup> km<sup>2</sup><br/>(1994.337 Yrths)
         volume: 9.647 × 10<sup>16</sup> km<sup>3</sup><br/>(89063.112 Yrths)
-        mass: 7.513 × 10<sup>28</sup> kg<br />(348.35191923271265 Yrths)
+        mass: 7.513 × 10<sup>28</sup> kg<br />(12580.444 Yrths)
         density: 0.779 g/cm<sup>3</sup>
         surface_gravity: 61.861 m/s<sup>2</sup><br />(6.308 g<sub>0</sub>)
         escape_velocity: 187.747 km/s<br />(675,888 km/h)
         rotation_period: 96.967 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 407 K<br />(134 °C)
+        temperature: 391 K<br />(118 °C)
   - name: 2142 Shanniashiad II
     type: Gas giant
     aphelion: 2,609,490,985 km<br />17.443 AU
@@ -198,14 +198,14 @@ planets:
     radius: 249.9 km<br/>(0.039 Yrths)
     surface_area: 7.846 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.535 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.622 × 10<sup>27</sup> kg<br />(439.0061300934211 Yrths)
+    mass: 2.622 × 10<sup>27</sup> kg<br />(439.01 Yrths)
     density: 40121312.357 g/cm<sup>3</sup>
     surface_gravity: 2798908.542 m/s<sup>2</sup><br />(285409.242 g<sub>0</sub>)
     escape_velocity: 1183.474 km/s<br />(4,260,505 km/h)
     rotation_period: 0.227 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1135 K<br />(862 °C)
+    temperature: 1097 K<br />(824 °C)
     composition:
       - 82.4843% hydrogen
       - 15.1448% helium
@@ -223,14 +223,14 @@ planets:
         radius: 296,279.6 km<br/>(46.504 Yrths)
         surface_area: 1.103 × 10<sup>12</sup> km<sup>2</sup><br/>(2162.661 Yrths)
         volume: 1.089 × 10<sup>17</sup> km<sup>3</sup><br/>(100573.275 Yrths)
-        mass: 1.730 × 10<sup>29</sup> kg<br />(439.0061300934211 Yrths)
+        mass: 1.730 × 10<sup>29</sup> kg<br />(28969.957 Yrths)
         density: 1.588 g/cm<sup>3</sup>
         surface_gravity: 131.365 m/s<sup>2</sup><br />(13.396 g<sub>0</sub>)
         escape_velocity: 279.191 km/s<br />(1,005,086 km/h)
         rotation_period: 57.447 d
         axial_tilt: 19.07°
         albedo: 0.30
-        temperature: 1072 K<br />(799 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 2142 Shanniashiad II b
         type: Icy
         formationType: Accreted
@@ -243,14 +243,14 @@ planets:
         radius: 291,921.0 km<br/>(45.820 Yrths)
         surface_area: 1.071 × 10<sup>12</sup> km<sup>2</sup><br/>(2099.498 Yrths)
         volume: 1.042 × 10<sup>17</sup> km<sup>3</sup><br/>(96199.615 Yrths)
-        mass: 1.299 × 10<sup>29</sup> kg<br />(439.0061300934211 Yrths)
+        mass: 1.299 × 10<sup>29</sup> kg<br />(21756.978 Yrths)
         density: 1.247 g/cm<sup>3</sup>
         surface_gravity: 101.626 m/s<sup>2</sup><br />(10.363 g<sub>0</sub>)
         escape_velocity: 243.750 km/s<br />(877,499 km/h)
         rotation_period: 44.475 d
         axial_tilt: 19.81°
         albedo: 0.30
-        temperature: 550 K<br />(277 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 2142 Shanniashiad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 255,943.3 km<br/>(40.173 Yrths)
         surface_area: 8.232 × 10<sup>11</sup> km<sup>2</sup><br/>(1613.884 Yrths)
         volume: 7.023 × 10<sup>16</sup> km<sup>3</sup><br/>(64834.861 Yrths)
-        mass: 1.259 × 10<sup>29</sup> kg<br />(439.0061300934211 Yrths)
+        mass: 1.259 × 10<sup>29</sup> kg<br />(21086.490 Yrths)
         density: 1.793 g/cm<sup>3</sup>
         surface_gravity: 128.131 m/s<sup>2</sup><br />(13.066 g<sub>0</sub>)
         escape_velocity: 256.276 km/s<br />(922,594 km/h)
         rotation_period: 51.632 d
         axial_tilt: 32.15°
         albedo: 0.30
-        temperature: 525 K<br />(252 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 2142 Shanniashiad II d
         type: Icy
         formationType: Accreted
@@ -283,14 +283,14 @@ planets:
         radius: 330,122.2 km<br/>(51.816 Yrths)
         surface_area: 1.369 × 10<sup>12</sup> km<sup>2</sup><br/>(2684.937 Yrths)
         volume: 1.507 × 10<sup>17</sup> km<sup>3</sup><br/>(139123.721 Yrths)
-        mass: 2.174 × 10<sup>29</sup> kg<br />(439.0061300934211 Yrths)
+        mass: 2.174 × 10<sup>29</sup> kg<br />(36406.527 Yrths)
         density: 1.443 g/cm<sup>3</sup>
         surface_gravity: 132.974 m/s<sup>2</sup><br />(13.560 g<sub>0</sub>)
         escape_velocity: 296.504 km/s<br />(1,067,413 km/h)
         rotation_period: 52.298 d
         axial_tilt: 16.27°
         albedo: 0.30
-        temperature: 500 K<br />(227 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 2142 Shanniashiad II e
         type: Icy
         formationType: Captured
@@ -303,14 +303,14 @@ planets:
         radius: 345,392.2 km<br/>(54.213 Yrths)
         surface_area: 1.499 × 10<sup>12</sup> km<sup>2</sup><br/>(2939.069 Yrths)
         volume: 1.726 × 10<sup>17</sup> km<sup>3</sup><br/>(159336.317 Yrths)
-        mass: 3.183 × 10<sup>29</sup> kg<br />(439.0061300934211 Yrths)
+        mass: 3.183 × 10<sup>29</sup> kg<br />(53294.959 Yrths)
         density: 1.844 g/cm<sup>3</sup>
         surface_gravity: 177.827 m/s<sup>2</sup><br />(18.133 g<sub>0</sub>)
         escape_velocity: 350.723 km/s<br />(1,262,604 km/h)
         rotation_period: 43.643 d
         axial_tilt: 14.30°
         albedo: 0.30
-        temperature: 477 K<br />(204 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 2142 Shanniashiad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -323,14 +323,14 @@ planets:
         radius: 253,451.0 km<br/>(39.782 Yrths)
         surface_area: 8.072 × 10<sup>11</sup> km<sup>2</sup><br/>(1582.606 Yrths)
         volume: 6.820 × 10<sup>16</sup> km<sup>3</sup><br/>(62959.184 Yrths)
-        mass: 1.181 × 10<sup>29</sup> kg<br />(439.0061300934211 Yrths)
+        mass: 1.181 × 10<sup>29</sup> kg<br />(19779.000 Yrths)
         density: 1.732 g/cm<sup>3</sup>
         surface_gravity: 122.561 m/s<sup>2</sup><br />(12.498 g<sub>0</sub>)
         escape_velocity: 249.421 km/s<br />(897,915 km/h)
         rotation_period: 66.668 d
         axial_tilt: 15.69°
         albedo: 0.30
-        temperature: 269 K<br />(-4 °C)
+        temperature: 271 K<br />(-2 °C)
   - name: 2142 Shanniashiad III
     type: Gas giant
     aphelion: 5,273,728,558 km<br />35.252 AU
@@ -342,14 +342,14 @@ planets:
     radius: 301.5 km<br/>(0.047 Yrths)
     surface_area: 1.143 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 1.148 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.850 × 10<sup>27</sup> kg<br />(979.5350678771251 Yrths)
+    mass: 5.850 × 10<sup>27</sup> kg<br />(979.54 Yrths)
     density: 50937064.560 g/cm<sup>3</sup>
     surface_gravity: 4288226.317 m/s<sup>2</sup><br />(437277.390 g<sub>0</sub>)
     escape_velocity: 1609.230 km/s<br />(5,793,229 km/h)
     rotation_period: 0.209 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 741 K<br />(468 °C)
+    temperature: 705 K<br />(432 °C)
     composition:
       - 82.2345% hydrogen
       - 17.7655% helium
@@ -366,14 +366,14 @@ planets:
         radius: 366,818.2 km<br/>(57.576 Yrths)
         surface_area: 1.691 × 10<sup>12</sup> km<sup>2</sup><br/>(3315.022 Yrths)
         volume: 2.067 × 10<sup>17</sup> km<sup>3</sup><br/>(190866.502 Yrths)
-        mass: 5.228 × 10<sup>29</sup> kg<br />(979.5350678771251 Yrths)
+        mass: 5.228 × 10<sup>29</sup> kg<br />(87536.430 Yrths)
         density: 2.529 g/cm<sup>3</sup>
         surface_gravity: 258.954 m/s<sup>2</sup><br />(26.406 g<sub>0</sub>)
         escape_velocity: 436.161 km/s<br />(1,570,179 km/h)
         rotation_period: 61.060 d
         axial_tilt: 31.65°
         albedo: 0.30
-        temperature: 949 K<br />(676 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 2142 Shanniashiad III b
         type: Asteroid
         formationType: Captured
@@ -386,14 +386,14 @@ planets:
         radius: 528,932.5 km<br/>(83.022 Yrths)
         surface_area: 3.516 × 10<sup>12</sup> km<sup>2</sup><br/>(6892.636 Yrths)
         volume: 6.199 × 10<sup>17</sup> km<sup>3</sup><br/>(572239.740 Yrths)
-        mass: 9.531 × 10<sup>29</sup> kg<br />(979.5350678771251 Yrths)
+        mass: 9.531 × 10<sup>29</sup> kg<br />(159593.556 Yrths)
         density: 1.538 g/cm<sup>3</sup>
         surface_gravity: 227.065 m/s<sup>2</sup><br />(23.154 g<sub>0</sub>)
         escape_velocity: 490.439 km/s<br />(1,765,582 km/h)
         rotation_period: 60.035 d
         axial_tilt: 47.58°
         albedo: 0.30
-        temperature: 384 K<br />(111 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 2142 Shanniashiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -406,14 +406,14 @@ planets:
         radius: 372,213.6 km<br/>(58.423 Yrths)
         surface_area: 1.741 × 10<sup>12</sup> km<sup>2</sup><br/>(3413.259 Yrths)
         volume: 2.160 × 10<sup>17</sup> km<sup>3</sup><br/>(199413.224 Yrths)
-        mass: 4.945 × 10<sup>29</sup> kg<br />(979.5350678771251 Yrths)
+        mass: 4.945 × 10<sup>29</sup> kg<br />(82805.589 Yrths)
         density: 2.289 g/cm<sup>3</sup>
         surface_gravity: 237.909 m/s<sup>2</sup><br />(24.260 g<sub>0</sub>)
         escape_velocity: 421.125 km/s<br />(1,516,052 km/h)
         rotation_period: 62.604 d
         axial_tilt: 9.34°
         albedo: 0.30
-        temperature: 262 K<br />(-11 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 2142 Shanniashiad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -426,14 +426,14 @@ planets:
         radius: 412,946.1 km<br/>(64.817 Yrths)
         surface_area: 2.143 × 10<sup>12</sup> km<sup>2</sup><br/>(4201.181 Yrths)
         volume: 2.950 × 10<sup>17</sup> km<sup>3</sup><br/>(272305.966 Yrths)
-        mass: 5.608 × 10<sup>29</sup> kg<br />(979.5350678771251 Yrths)
+        mass: 5.608 × 10<sup>29</sup> kg<br />(93897.529 Yrths)
         density: 1.901 g/cm<sup>3</sup>
         surface_gravity: 219.181 m/s<sup>2</sup><br />(22.350 g<sub>0</sub>)
         escape_velocity: 425.753 km/s<br />(1,532,712 km/h)
         rotation_period: 70.378 d
         axial_tilt: 15.72°
         albedo: 0.30
-        temperature: 238 K<br />(-35 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 2142 Shanniashiad III e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -446,14 +446,14 @@ planets:
         radius: 467,627.7 km<br/>(73.399 Yrths)
         surface_area: 2.748 × 10<sup>12</sup> km<sup>2</sup><br/>(5387.474 Yrths)
         volume: 4.283 × 10<sup>17</sup> km<sup>3</sup><br/>(395437.416 Yrths)
-        mass: 9.828 × 10<sup>29</sup> kg<br />(979.5350678771251 Yrths)
+        mass: 9.828 × 10<sup>29</sup> kg<br />(164561.571 Yrths)
         density: 2.294 g/cm<sup>3</sup>
         surface_gravity: 299.546 m/s<sup>2</sup><br />(30.545 g<sub>0</sub>)
         escape_velocity: 529.654 km/s<br />(1,906,753 km/h)
         rotation_period: 50.088 d
         axial_tilt: 23.16°
         albedo: 0.30
-        temperature: 155 K<br />(-118 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 2142 Shanniashiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -466,12 +466,12 @@ planets:
         radius: 406,219.7 km<br/>(63.761 Yrths)
         surface_area: 2.074 × 10<sup>12</sup> km<sup>2</sup><br/>(4065.433 Yrths)
         volume: 2.808 × 10<sup>17</sup> km<sup>3</sup><br/>(259215.023 Yrths)
-        mass: 5.787 × 10<sup>29</sup> kg<br />(979.5350678771251 Yrths)
+        mass: 5.787 × 10<sup>29</sup> kg<br />(96909.522 Yrths)
         density: 2.061 g/cm<sup>3</sup>
         surface_gravity: 233.765 m/s<sup>2</sup><br />(23.837 g<sub>0</sub>)
         escape_velocity: 436.094 km/s<br />(1,569,940 km/h)
         rotation_period: 49.708 d
         axial_tilt: 19.32°
         albedo: 0.30
-        temperature: 141 K<br />(-132 °C)
+        temperature: 187 K<br />(-86 °C)
 ---

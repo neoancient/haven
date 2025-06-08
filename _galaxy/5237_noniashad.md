@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5237 Noniashad is a star in the constellation Nonias
+      5237 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 248.64 ly
 apparent_magnitude: 9.19
 absolute_magnitude: 4.78

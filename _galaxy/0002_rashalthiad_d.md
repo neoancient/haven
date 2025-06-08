@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Rashalthiad D is a star in the constellation Rashalth
+      0002 Rashalthiad D is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 221.70 ly
 apparent_magnitude: 8.84
 absolute_magnitude: 4.68

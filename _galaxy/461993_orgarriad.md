@@ -56,14 +56,14 @@ planets:
     escape_velocity: 8.998 km/s<br />(32,391 km/h)
     rotation_period: 3.713 d
     axial_tilt: 0.00°
-    albedo: 0.35
-    temperature: 271 K<br />(-3 °C)
-    surface_pressure: 82 kPa<br />(1 atm)
+    albedo: 0.30
+    temperature: 280 K<br />(7 °C)
+    surface_pressure: 114 kPa<br />(1 atm)
     composition:
-      - 79.4191% nitrogen
+      - 79.3430% nitrogen
       - 19.4264% oxygen
       - 1.1344% argon
-      - 0.0200% carbon dioxide
+      - 0.0961% carbon dioxide
     moons:
       - name: Ormoc a
         type: Rocky
@@ -77,14 +77,14 @@ planets:
         radius: 680.1 km<br/>(0.107 Yrths)
         surface_area: 5.813 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.318 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 4.443 × 10<sup>21</sup> kg<br />(0.42848403033378424 Yrths)
+        mass: 4.443 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.372 g/cm<sup>3</sup>
         surface_gravity: 0.640 m/s<sup>2</sup><br />(0.065 g<sub>0</sub>)
         escape_velocity: 0.934 km/s<br />(3,362 km/h)
         rotation_period: 53.312 d
         axial_tilt: 19.30°
         albedo: 0.30
-        temperature: 3920 K<br />(3647 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: Ormoc b
         type: Rocky
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 798.8 km<br/>(0.125 Yrths)
         surface_area: 8.018 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.135 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 7.126 × 10<sup>21</sup> kg<br />(0.42848403033378424 Yrths)
+        mass: 7.126 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.338 g/cm<sup>3</sup>
         surface_gravity: 0.744 m/s<sup>2</sup><br />(0.076 g<sub>0</sub>)
         escape_velocity: 1.091 km/s<br />(3,928 km/h)
         rotation_period: 28.320 d
         axial_tilt: 19.32°
         albedo: 0.30
-        temperature: 3738 K<br />(3464 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: Ormoc c
         type: Rocky
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 953.1 km<br/>(0.150 Yrths)
         surface_area: 1.141 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.626 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 1.305 × 10<sup>22</sup> kg<br />(0.42848403033378424 Yrths)
+        mass: 1.305 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 0.958 m/s<sup>2</sup><br />(0.098 g<sub>0</sub>)
         escape_velocity: 1.352 km/s<br />(4,868 km/h)
         rotation_period: 27.919 d
         axial_tilt: 21.64°
         albedo: 0.30
-        temperature: 3564 K<br />(3290 °C)
+        temperature: 262 K<br />(-11 °C)
   - name: 461993 Orgarriad III
     type: Large terrestrial
     aphelion: 65,732,827 km<br />0.439 AU
@@ -143,7 +143,7 @@ planets:
     rotation_period: 3.150 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 311 K<br />(38 °C)
+    temperature: 982 K<br />(709 °C)
     surface_pressure: 326 kPa<br />(3 atm)
     composition:
       - 94.2697% carbon dioxide
@@ -161,14 +161,14 @@ planets:
         radius: 1,356.3 km<br/>(0.213 Yrths)
         surface_area: 2.312 × 10<sup>07</sup> km<sup>2</sup><br/>(0.045 Yrths)
         volume: 1.045 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 2.347 × 10<sup>22</sup> kg<br />(0.39906289549574 Yrths)
+        mass: 2.347 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.245 g/cm<sup>3</sup>
         surface_gravity: 0.850 m/s<sup>2</sup><br />(0.087 g<sub>0</sub>)
         escape_velocity: 1.520 km/s<br />(5,471 km/h)
         rotation_period: 38.952 d
         axial_tilt: 28.30°
         albedo: 0.30
-        temperature: 4265 K<br />(3991 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 461993 Orgarriad III b
         type: Rocky
         formationType: Captured
@@ -181,14 +181,14 @@ planets:
         radius: 554.5 km<br/>(0.087 Yrths)
         surface_area: 3.863 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.140 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.002 × 10<sup>21</sup> kg<br />(0.39906289549574 Yrths)
+        mass: 2.002 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.804 g/cm<sup>3</sup>
         surface_gravity: 0.434 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 0.694 km/s<br />(2,499 km/h)
         rotation_period: 30.263 d
         axial_tilt: 22.28°
         albedo: 0.30
-        temperature: 4066 K<br />(3793 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 461993 Orgarriad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -201,14 +201,14 @@ planets:
         radius: 269.2 km<br/>(0.042 Yrths)
         surface_area: 9.105 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 8.169 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.119 × 10<sup>20</sup> kg<br />(0.39906289549574 Yrths)
+        mass: 2.119 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.594 g/cm<sup>3</sup>
         surface_gravity: 0.195 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.324 km/s<br />(1,167 km/h)
         rotation_period: 51.424 d
         axial_tilt: 22.42°
         albedo: 0.30
-        temperature: 3877 K<br />(3604 °C)
+        temperature: 214 K<br />(-59 °C)
   - name: 461993 Orgarriad IV
     type: Gas giant
     aphelion: 99,918,068 km<br />0.668 AU
@@ -241,14 +241,14 @@ planets:
         radius: 108,468.2 km<br/>(17.025 Yrths)
         surface_area: 1.478 × 10<sup>11</sup> km<sup>2</sup><br/>(289.861 Yrths)
         volume: 5.346 × 10<sup>15</sup> km<sup>3</sup><br/>(4934.968 Yrths)
-        mass: 1.226 × 10<sup>28</sup> kg<br />(179.487241512585 Yrths)
+        mass: 1.226 × 10<sup>28</sup> kg<br />(2053.312 Yrths)
         density: 2.294 g/cm<sup>3</sup>
         surface_gravity: 69.468 m/s<sup>2</sup><br />(7.084 g<sub>0</sub>)
         escape_velocity: 122.844 km/s<br />(442,239 km/h)
         rotation_period: 34.353 d
         axial_tilt: 13.06°
         albedo: 0.30
-        temperature: 687 K<br />(414 °C)
+        temperature: 175 K<br />(-98 °C)
       - name: 461993 Orgarriad IV b
         type: Rocky
         formationType: Captured
@@ -261,14 +261,14 @@ planets:
         radius: 132,959.4 km<br/>(20.869 Yrths)
         surface_area: 2.222 × 10<sup>11</sup> km<sup>2</sup><br/>(435.535 Yrths)
         volume: 9.846 × 10<sup>15</sup> km<sup>3</sup><br/>(9089.388 Yrths)
-        mass: 2.616 × 10<sup>28</sup> kg<br />(179.487241512585 Yrths)
+        mass: 2.616 × 10<sup>28</sup> kg<br />(4380.481 Yrths)
         density: 2.657 g/cm<sup>3</sup>
         surface_gravity: 98.632 m/s<sup>2</sup><br />(10.058 g<sub>0</sub>)
         escape_velocity: 162.061 km/s<br />(583,420 km/h)
         rotation_period: 39.158 d
         axial_tilt: 13.23°
         albedo: 0.30
-        temperature: 492 K<br />(219 °C)
+        temperature: 175 K<br />(-98 °C)
       - name: 461993 Orgarriad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -281,14 +281,14 @@ planets:
         radius: 223,059.9 km<br/>(35.012 Yrths)
         surface_area: 6.252 × 10<sup>11</sup> km<sup>2</sup><br/>(1225.823 Yrths)
         volume: 4.649 × 10<sup>16</sup> km<sup>3</sup><br/>(42918.205 Yrths)
-        mass: 1.061 × 10<sup>29</sup> kg<br />(179.487241512585 Yrths)
+        mass: 1.061 × 10<sup>29</sup> kg<br />(17761.170 Yrths)
         density: 2.282 g/cm<sup>3</sup>
         surface_gravity: 142.090 m/s<sup>2</sup><br />(14.489 g<sub>0</sub>)
         escape_velocity: 251.943 km/s<br />(906,996 km/h)
         rotation_period: 38.517 d
         axial_tilt: 21.30°
         albedo: 0.30
-        temperature: 447 K<br />(174 °C)
+        temperature: 175 K<br />(-98 °C)
       - name: 461993 Orgarriad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -301,14 +301,14 @@ planets:
         radius: 122,810.6 km<br/>(19.276 Yrths)
         surface_area: 1.895 × 10<sup>11</sup> km<sup>2</sup><br/>(371.583 Yrths)
         volume: 7.759 × 10<sup>15</sup> km<sup>3</sup><br/>(7162.825 Yrths)
-        mass: 1.698 × 10<sup>28</sup> kg<br />(179.487241512585 Yrths)
+        mass: 1.698 × 10<sup>28</sup> kg<br />(2842.883 Yrths)
         density: 2.188 g/cm<sup>3</sup>
         surface_gravity: 75.028 m/s<sup>2</sup><br />(7.651 g<sub>0</sub>)
         escape_velocity: 135.844 km/s<br />(489,037 km/h)
         rotation_period: 42.115 d
         axial_tilt: 32.42°
         albedo: 0.30
-        temperature: 181 K<br />(-92 °C)
+        temperature: 175 K<br />(-98 °C)
       - name: 461993 Orgarriad IV e
         type: Dwarf planet
         formationType: Captured
@@ -321,14 +321,14 @@ planets:
         radius: 137,443.1 km<br/>(21.573 Yrths)
         surface_area: 2.374 × 10<sup>11</sup> km<sup>2</sup><br/>(465.405 Yrths)
         volume: 1.088 × 10<sup>16</sup> km<sup>3</sup><br/>(10040.292 Yrths)
-        mass: 2.535 × 10<sup>28</sup> kg<br />(179.487241512585 Yrths)
+        mass: 2.535 × 10<sup>28</sup> kg<br />(4244.295 Yrths)
         density: 2.331 g/cm<sup>3</sup>
         surface_gravity: 89.432 m/s<sup>2</sup><br />(9.120 g<sub>0</sub>)
         escape_velocity: 156.899 km/s<br />(564,835 km/h)
         rotation_period: 59.068 d
         axial_tilt: 25.09°
         albedo: 0.30
-        temperature: 97 K<br />(-176 °C)
+        temperature: 175 K<br />(-98 °C)
   - name: 461993 Orgarriad V
     type: Large terrestrial
     aphelion: 148,591,805 km<br />0.993 AU
@@ -347,7 +347,7 @@ planets:
     rotation_period: 1.698 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 159 K<br />(-114 °C)
+    temperature: 171 K<br />(-102 °C)
     surface_pressure: 288 kPa<br />(3 atm)
     composition:
       - 68.3135% nitrogen
@@ -366,14 +366,14 @@ planets:
         radius: 4,981.8 km<br/>(0.782 Yrths)
         surface_area: 3.119 × 10<sup>08</sup> km<sup>2</sup><br/>(0.611 Yrths)
         volume: 5.179 × 10<sup>11</sup> km<sup>3</sup><br/>(0.478 Yrths)
-        mass: 8.771 × 10<sup>23</sup> kg<br />(1.2225376852804715 Yrths)
+        mass: 8.771 × 10<sup>23</sup> kg<br />(0.147 Yrths)
         density: 1.694 g/cm<sup>3</sup>
         surface_gravity: 2.356 m/s<sup>2</sup><br />(0.240 g<sub>0</sub>)
         escape_velocity: 4.848 km/s<br />(17,452 km/h)
         rotation_period: 56.211 d
         axial_tilt: 17.54°
         albedo: 0.30
-        temperature: 1817 K<br />(1544 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 461993 Orgarriad V b
         type: Icy
         formationType: Impact formed
@@ -386,14 +386,14 @@ planets:
         radius: 2,288.7 km<br/>(0.359 Yrths)
         surface_area: 6.583 × 10<sup>07</sup> km<sup>2</sup><br/>(0.129 Yrths)
         volume: 5.022 × 10<sup>10</sup> km<sup>3</sup><br/>(0.046 Yrths)
-        mass: 8.626 × 10<sup>22</sup> kg<br />(1.2225376852804715 Yrths)
+        mass: 8.626 × 10<sup>22</sup> kg<br />(0.014 Yrths)
         density: 1.718 g/cm<sup>3</sup>
         surface_gravity: 1.098 m/s<sup>2</sup><br />(0.112 g<sub>0</sub>)
         escape_velocity: 2.243 km/s<br />(8,075 km/h)
         rotation_period: 38.469 d
         axial_tilt: 13.17°
         albedo: 0.30
-        temperature: 1732 K<br />(1459 °C)
+        temperature: 143 K<br />(-130 °C)
   - name: 461993 Orgarriad VI
     type: Gas giant
     aphelion: 216,965,700 km<br />1.450 AU
@@ -426,14 +426,14 @@ planets:
         radius: 693.9 km<br/>(0.109 Yrths)
         surface_area: 6.051 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.399 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.756 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.756 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.969 g/cm<sup>3</sup>
         surface_gravity: 0.381 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.728 km/s<br />(2,621 km/h)
         rotation_period: 68.514 d
         axial_tilt: 22.78°
         albedo: 0.30
-        temperature: 994 K<br />(721 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 461993 Orgarriad VI b
         type: Asteroid
         formationType: Captured
@@ -446,14 +446,14 @@ planets:
         radius: 676.1 km<br/>(0.106 Yrths)
         surface_area: 5.744 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.294 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.998 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.998 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.316 g/cm<sup>3</sup>
         surface_gravity: 0.437 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 0.769 km/s<br />(2,770 km/h)
         rotation_period: 52.597 d
         axial_tilt: 23.01°
         albedo: 0.30
-        temperature: 862 K<br />(589 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 461993 Orgarriad VI c
         type: Icy
         formationType: Accreted
@@ -466,14 +466,14 @@ planets:
         radius: 875.4 km<br/>(0.137 Yrths)
         surface_area: 9.631 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.810 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.654 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.654 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 0.318 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.746 km/s<br />(2,687 km/h)
         rotation_period: 59.919 d
         axial_tilt: 20.76°
         albedo: 0.30
-        temperature: 617 K<br />(344 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 461993 Orgarriad VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -486,14 +486,14 @@ planets:
         radius: 722.2 km<br/>(0.113 Yrths)
         surface_area: 6.553 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.578 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.524 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.524 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.323 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.683 km/s<br />(2,459 km/h)
         rotation_period: 60.229 d
         axial_tilt: 14.45°
         albedo: 0.30
-        temperature: 422 K<br />(149 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 461993 Orgarriad VI e
         type: Icy
         formationType: Accreted
@@ -506,14 +506,14 @@ planets:
         radius: 791.9 km<br/>(0.124 Yrths)
         surface_area: 7.880 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 2.080 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.025 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.025 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.454 g/cm<sup>3</sup>
         surface_gravity: 0.322 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.714 km/s<br />(2,571 km/h)
         rotation_period: 44.397 d
         axial_tilt: 12.51°
         albedo: 0.30
-        temperature: 402 K<br />(129 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 461993 Orgarriad VI f
         type: Asteroid
         formationType: Captured
@@ -526,14 +526,14 @@ planets:
         radius: 709.0 km<br/>(0.111 Yrths)
         surface_area: 6.316 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.493 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.278 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.278 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.196 g/cm<sup>3</sup>
         surface_gravity: 0.435 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 0.786 km/s<br />(2,828 km/h)
         rotation_period: 37.397 d
         axial_tilt: 17.27°
         albedo: 0.30
-        temperature: 383 K<br />(110 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 461993 Orgarriad VI g
         type: Dwarf planet
         formationType: Accreted
@@ -546,14 +546,14 @@ planets:
         radius: 750.5 km<br/>(0.118 Yrths)
         surface_area: 7.077 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.770 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.066 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.066 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.732 g/cm<sup>3</sup>
         surface_gravity: 0.363 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.738 km/s<br />(2,659 km/h)
         rotation_period: 48.607 d
         axial_tilt: 20.70°
         albedo: 0.30
-        temperature: 227 K<br />(-46 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 461993 Orgarriad VI h
         type: Icy
         formationType: Impact formed
@@ -566,14 +566,14 @@ planets:
         radius: 841.5 km<br/>(0.132 Yrths)
         surface_area: 8.899 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.496 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.867 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.867 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.549 g/cm<sup>3</sup>
         surface_gravity: 0.364 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.783 km/s<br />(2,819 km/h)
         rotation_period: 77.131 d
         axial_tilt: 14.50°
         albedo: 0.30
-        temperature: 188 K<br />(-86 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 461993 Orgarriad VI i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -586,14 +586,14 @@ planets:
         radius: 957.9 km<br/>(0.150 Yrths)
         surface_area: 1.153 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.682 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 9.682 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.682 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.630 g/cm<sup>3</sup>
         surface_gravity: 0.703 m/s<sup>2</sup><br />(0.072 g<sub>0</sub>)
         escape_velocity: 1.162 km/s<br />(4,182 km/h)
         rotation_period: 40.251 d
         axial_tilt: 9.79°
         albedo: 0.30
-        temperature: 80 K<br />(-194 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 461993 Orgarriad VI j
         type: Icy
         formationType: Impact formed
@@ -606,14 +606,14 @@ planets:
         radius: 1,391.1 km<br/>(0.218 Yrths)
         surface_area: 2.432 × 10<sup>07</sup> km<sup>2</sup><br/>(0.048 Yrths)
         volume: 1.128 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 1.258 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.258 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.116 g/cm<sup>3</sup>
         surface_gravity: 0.433 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 1.099 km/s<br />(3,956 km/h)
         rotation_period: 52.063 d
         axial_tilt: 16.69°
         albedo: 0.30
-        temperature: 72 K<br />(-201 °C)
+        temperature: 117 K<br />(-156 °C)
   - name: 461993 Orgarriad VII
     type: Gas giant
     aphelion: 332,888,304 km<br />2.225 AU
@@ -646,14 +646,14 @@ planets:
         radius: 224,644.1 km<br/>(35.260 Yrths)
         surface_area: 6.342 × 10<sup>11</sup> km<sup>2</sup><br/>(1243.296 Yrths)
         volume: 4.749 × 10<sup>16</sup> km<sup>3</sup><br/>(43839.140 Yrths)
-        mass: 1.195 × 10<sup>29</sup> kg<br />(217.3876254434066 Yrths)
+        mass: 1.195 × 10<sup>29</sup> kg<br />(20012.975 Yrths)
         density: 2.517 g/cm<sup>3</sup>
         surface_gravity: 157.855 m/s<sup>2</sup><br />(16.097 g<sub>0</sub>)
         escape_velocity: 266.493 km/s<br />(959,375 km/h)
         rotation_period: 34.148 d
         axial_tilt: 15.74°
         albedo: 0.30
-        temperature: 462 K<br />(189 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 461993 Orgarriad VII b
         type: Icy
         formationType: Impact formed
@@ -666,14 +666,14 @@ planets:
         radius: 186,392.0 km<br/>(29.256 Yrths)
         surface_area: 4.366 × 10<sup>11</sup> km<sup>2</sup><br/>(855.932 Yrths)
         volume: 2.713 × 10<sup>16</sup> km<sup>3</sup><br/>(25041.420 Yrths)
-        mass: 3.053 × 10<sup>28</sup> kg<br />(217.3876254434066 Yrths)
+        mass: 3.053 × 10<sup>28</sup> kg<br />(5111.568 Yrths)
         density: 1.125 g/cm<sup>3</sup>
         surface_gravity: 58.565 m/s<sup>2</sup><br />(5.972 g<sub>0</sub>)
         escape_velocity: 147.857 km/s<br />(532,284 km/h)
         rotation_period: 55.867 d
         axial_tilt: 12.71°
         albedo: 0.30
-        temperature: 440 K<br />(167 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 461993 Orgarriad VII c
         type: Rocky
         formationType: Impact formed
@@ -686,14 +686,14 @@ planets:
         radius: 136,164.0 km<br/>(21.372 Yrths)
         surface_area: 2.330 × 10<sup>11</sup> km<sup>2</sup><br/>(456.783 Yrths)
         volume: 1.057 × 10<sup>16</sup> km<sup>3</sup><br/>(9762.579 Yrths)
-        mass: 2.981 × 10<sup>28</sup> kg<br />(217.3876254434066 Yrths)
+        mass: 2.981 × 10<sup>28</sup> kg<br />(4991.796 Yrths)
         density: 2.819 g/cm<sup>3</sup>
         surface_gravity: 107.169 m/s<sup>2</sup><br />(10.928 g<sub>0</sub>)
         escape_velocity: 170.952 km/s<br />(615,428 km/h)
         rotation_period: 31.022 d
         axial_tilt: 13.27°
         albedo: 0.30
-        temperature: 301 K<br />(28 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 461993 Orgarriad VII d
         type: Icy
         formationType: Captured
@@ -706,14 +706,14 @@ planets:
         radius: 142,393.1 km<br/>(22.350 Yrths)
         surface_area: 2.548 × 10<sup>11</sup> km<sup>2</sup><br/>(499.532 Yrths)
         volume: 1.209 × 10<sup>16</sup> km<sup>3</sup><br/>(11164.631 Yrths)
-        mass: 1.943 × 10<sup>28</sup> kg<br />(217.3876254434066 Yrths)
+        mass: 1.943 × 10<sup>28</sup> kg<br />(3253.653 Yrths)
         density: 1.607 g/cm<sup>3</sup>
         surface_gravity: 63.875 m/s<sup>2</sup><br />(6.513 g<sub>0</sub>)
         escape_velocity: 134.964 km/s<br />(485,871 km/h)
         rotation_period: 48.219 d
         axial_tilt: 21.73°
         albedo: 0.30
-        temperature: 196 K<br />(-77 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 461993 Orgarriad VII e
         type: Icy
         formationType: Impact formed
@@ -726,14 +726,14 @@ planets:
         radius: 190,891.0 km<br/>(29.962 Yrths)
         surface_area: 4.579 × 10<sup>11</sup> km<sup>2</sup><br/>(897.750 Yrths)
         volume: 2.914 × 10<sup>16</sup> km<sup>3</sup><br/>(26898.828 Yrths)
-        mass: 2.376 × 10<sup>28</sup> kg<br />(217.3876254434066 Yrths)
+        mass: 2.376 × 10<sup>28</sup> kg<br />(3977.936 Yrths)
         density: 0.815 g/cm<sup>3</sup>
         surface_gravity: 43.453 m/s<sup>2</sup><br />(4.431 g<sub>0</sub>)
         escape_velocity: 128.888 km/s<br />(463,998 km/h)
         rotation_period: 65.717 d
         axial_tilt: 17.77°
         albedo: 0.30
-        temperature: 134 K<br />(-139 °C)
+        temperature: 96 K<br />(-177 °C)
   - name: 461993 Orgarriad VIII
     type: Ice giant
     aphelion: 500,912,729 km<br />3.348 AU
@@ -752,7 +752,7 @@ planets:
     rotation_period: 0.579 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 128 K<br />(-145 °C)
+    temperature: 129 K<br />(-145 °C)
     composition:
       - 83.6664% hydrogen
       - 13.1133% helium
@@ -771,14 +771,14 @@ planets:
         radius: 12,816.8 km<br/>(2.012 Yrths)
         surface_area: 2.064 × 10<sup>09</sup> km<sup>2</sup><br/>(4.047 Yrths)
         volume: 8.819 × 10<sup>12</sup> km<sup>3</sup><br/>(8.142 Yrths)
-        mass: 2.217 × 10<sup>25</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 2.217 × 10<sup>25</sup> kg<br />(3.712 Yrths)
         density: 2.514 g/cm<sup>3</sup>
         surface_gravity: 8.995 m/s<sup>2</sup><br />(0.917 g<sub>0</sub>)
         escape_velocity: 15.195 km/s<br />(54,701 km/h)
         rotation_period: 60.263 d
         axial_tilt: 28.80°
         albedo: 0.30
-        temperature: 667 K<br />(393 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 461993 Orgarriad VIII b
         type: Icy
         formationType: Captured
@@ -791,14 +791,14 @@ planets:
         radius: 26,242.7 km<br/>(4.119 Yrths)
         surface_area: 8.654 × 10<sup>09</sup> km<sup>2</sup><br/>(16.967 Yrths)
         volume: 7.570 × 10<sup>13</sup> km<sup>3</sup><br/>(69.888 Yrths)
-        mass: 9.841 × 10<sup>25</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 9.841 × 10<sup>25</sup> kg<br />(16.479 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 9.525 m/s<sup>2</sup><br />(0.971 g<sub>0</sub>)
         escape_velocity: 22.374 km/s<br />(80,545 km/h)
         rotation_period: 83.296 d
         axial_tilt: 10.61°
         albedo: 0.30
-        temperature: 636 K<br />(362 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 461993 Orgarriad VIII c
         type: Icy
         formationType: Accreted
@@ -811,14 +811,14 @@ planets:
         radius: 10,437.8 km<br/>(1.638 Yrths)
         surface_area: 1.369 × 10<sup>09</sup> km<sup>2</sup><br/>(2.684 Yrths)
         volume: 4.763 × 10<sup>12</sup> km<sup>3</sup><br/>(4.397 Yrths)
-        mass: 5.945 × 10<sup>24</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 5.945 × 10<sup>24</sup> kg<br />(0.995 Yrths)
         density: 1.248 g/cm<sup>3</sup>
         surface_gravity: 3.637 m/s<sup>2</sup><br />(0.371 g<sub>0</sub>)
         escape_velocity: 8.719 km/s<br />(31,389 km/h)
         rotation_period: 81.524 d
         axial_tilt: 28.59°
         albedo: 0.30
-        temperature: 606 K<br />(333 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 461993 Orgarriad VIII d
         type: Icy
         formationType: Accreted
@@ -831,14 +831,14 @@ planets:
         radius: 10,296.1 km<br/>(1.616 Yrths)
         surface_area: 1.332 × 10<sup>09</sup> km<sup>2</sup><br/>(2.612 Yrths)
         volume: 4.572 × 10<sup>12</sup> km<sup>3</sup><br/>(4.221 Yrths)
-        mass: 5.158 × 10<sup>24</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 5.158 × 10<sup>24</sup> kg<br />(0.864 Yrths)
         density: 1.128 g/cm<sup>3</sup>
         surface_gravity: 3.243 m/s<sup>2</sup><br />(0.331 g<sub>0</sub>)
         escape_velocity: 8.177 km/s<br />(29,439 km/h)
         rotation_period: 56.185 d
         axial_tilt: 14.52°
         albedo: 0.30
-        temperature: 578 K<br />(305 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 461993 Orgarriad VIII e
         type: Ice/rock hybrid
         formationType: Captured
@@ -851,14 +851,14 @@ planets:
         radius: 8,243.8 km<br/>(1.294 Yrths)
         surface_area: 8.540 × 10<sup>08</sup> km<sup>2</sup><br/>(1.674 Yrths)
         volume: 2.347 × 10<sup>12</sup> km<sup>3</sup><br/>(2.166 Yrths)
-        mass: 4.847 × 10<sup>24</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 4.847 × 10<sup>24</sup> kg<br />(0.812 Yrths)
         density: 2.066 g/cm<sup>3</sup>
         surface_gravity: 4.754 m/s<sup>2</sup><br />(0.485 g<sub>0</sub>)
         escape_velocity: 8.859 km/s<br />(31,894 km/h)
         rotation_period: 46.351 d
         axial_tilt: 27.85°
         albedo: 0.30
-        temperature: 525 K<br />(252 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 461993 Orgarriad VIII f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -871,14 +871,14 @@ planets:
         radius: 12,801.6 km<br/>(2.009 Yrths)
         surface_area: 2.059 × 10<sup>09</sup> km<sup>2</sup><br/>(4.038 Yrths)
         volume: 8.788 × 10<sup>12</sup> km<sup>3</sup><br/>(8.113 Yrths)
-        mass: 1.779 × 10<sup>25</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 1.779 × 10<sup>25</sup> kg<br />(2.979 Yrths)
         density: 2.025 g/cm<sup>3</sup>
         surface_gravity: 7.236 m/s<sup>2</sup><br />(0.738 g<sub>0</sub>)
         escape_velocity: 13.621 km/s<br />(49,035 km/h)
         rotation_period: 44.390 d
         axial_tilt: 17.14°
         albedo: 0.30
-        temperature: 501 K<br />(228 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 461993 Orgarriad VIII g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -891,14 +891,14 @@ planets:
         radius: 9,775.6 km<br/>(1.534 Yrths)
         surface_area: 1.201 × 10<sup>09</sup> km<sup>2</sup><br/>(2.354 Yrths)
         volume: 3.913 × 10<sup>12</sup> km<sup>3</sup><br/>(3.613 Yrths)
-        mass: 7.418 × 10<sup>24</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 7.418 × 10<sup>24</sup> kg<br />(1.242 Yrths)
         density: 1.896 g/cm<sup>3</sup>
         surface_gravity: 5.174 m/s<sup>2</sup><br />(0.528 g<sub>0</sub>)
         escape_velocity: 10.065 km/s<br />(36,233 km/h)
         rotation_period: 56.880 d
         axial_tilt: 11.42°
         albedo: 0.30
-        temperature: 478 K<br />(204 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 461993 Orgarriad VIII h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -911,14 +911,14 @@ planets:
         radius: 14,530.8 km<br/>(2.281 Yrths)
         surface_area: 2.653 × 10<sup>09</sup> km<sup>2</sup><br/>(5.202 Yrths)
         volume: 1.285 × 10<sup>13</sup> km<sup>3</sup><br/>(11.864 Yrths)
-        mass: 2.056 × 10<sup>25</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 2.056 × 10<sup>25</sup> kg<br />(3.443 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 6.491 m/s<sup>2</sup><br />(0.662 g<sub>0</sub>)
         escape_velocity: 13.744 km/s<br />(49,478 km/h)
         rotation_period: 55.574 d
         axial_tilt: 30.82°
         albedo: 0.30
-        temperature: 455 K<br />(182 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 461993 Orgarriad VIII i
         type: Ice/rock hybrid
         formationType: Captured
@@ -931,14 +931,14 @@ planets:
         radius: 7,118.0 km<br/>(1.117 Yrths)
         surface_area: 6.367 × 10<sup>08</sup> km<sup>2</sup><br/>(1.248 Yrths)
         volume: 1.511 × 10<sup>12</sup> km<sup>3</sup><br/>(1.395 Yrths)
-        mass: 3.609 × 10<sup>24</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 3.609 × 10<sup>24</sup> kg<br />(0.604 Yrths)
         density: 2.389 g/cm<sup>3</sup>
         surface_gravity: 4.747 m/s<sup>2</sup><br />(0.484 g<sub>0</sub>)
         escape_velocity: 8.226 km/s<br />(29,615 km/h)
         rotation_period: 39.630 d
         axial_tilt: 27.52°
         albedo: 0.30
-        temperature: 414 K<br />(141 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 461993 Orgarriad VIII j
         type: Icy
         formationType: Impact formed
@@ -951,14 +951,14 @@ planets:
         radius: 11,135.5 km<br/>(1.748 Yrths)
         surface_area: 1.558 × 10<sup>09</sup> km<sup>2</sup><br/>(3.055 Yrths)
         volume: 5.784 × 10<sup>12</sup> km<sup>3</sup><br/>(5.340 Yrths)
-        mass: 8.757 × 10<sup>24</sup> kg<br />(12.806928976613774 Yrths)
+        mass: 8.757 × 10<sup>24</sup> kg<br />(1.466 Yrths)
         density: 1.514 g/cm<sup>3</sup>
         surface_gravity: 4.707 m/s<sup>2</sup><br />(0.480 g<sub>0</sub>)
         escape_velocity: 10.245 km/s<br />(36,884 km/h)
         rotation_period: 46.140 d
         axial_tilt: 24.88°
         albedo: 0.30
-        temperature: 395 K<br />(121 °C)
+        temperature: 78 K<br />(-195 °C)
   - name: 461993 Orgarriad IX
     type: Ice giant
     aphelion: 765,494,536 km<br />5.117 AU
@@ -977,7 +977,7 @@ planets:
     rotation_period: 0.507 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 107 K<br />(-166 °C)
+    temperature: 111 K<br />(-163 °C)
     composition:
       - 51.0794% helium
       - 38.7912% hydrogen
@@ -996,14 +996,14 @@ planets:
         radius: 14,316.9 km<br/>(2.247 Yrths)
         surface_area: 2.576 × 10<sup>09</sup> km<sup>2</sup><br/>(5.050 Yrths)
         volume: 1.229 × 10<sup>13</sup> km<sup>3</sup><br/>(11.348 Yrths)
-        mass: 2.657 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 2.657 × 10<sup>25</sup> kg<br />(4.448 Yrths)
         density: 2.161 g/cm<sup>3</sup>
         surface_gravity: 8.639 m/s<sup>2</sup><br />(0.881 g<sub>0</sub>)
         escape_velocity: 15.738 km/s<br />(56,658 km/h)
         rotation_period: 59.634 d
         axial_tilt: 17.54°
         albedo: 0.30
-        temperature: 527 K<br />(254 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX b
         type: Dwarf planet
         formationType: Accreted
@@ -1016,14 +1016,14 @@ planets:
         radius: 15,970.8 km<br/>(2.507 Yrths)
         surface_area: 3.205 × 10<sup>09</sup> km<sup>2</sup><br/>(6.284 Yrths)
         volume: 1.706 × 10<sup>13</sup> km<sup>3</sup><br/>(15.753 Yrths)
-        mass: 3.834 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 3.834 × 10<sup>25</sup> kg<br />(6.420 Yrths)
         density: 2.247 g/cm<sup>3</sup>
         surface_gravity: 10.019 m/s<sup>2</sup><br />(1.022 g<sub>0</sub>)
         escape_velocity: 17.901 km/s<br />(64,443 km/h)
         rotation_period: 42.585 d
         axial_tilt: 12.71°
         albedo: 0.30
-        temperature: 503 K<br />(230 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1036,14 +1036,14 @@ planets:
         radius: 21,691.6 km<br/>(3.405 Yrths)
         surface_area: 5.913 × 10<sup>09</sup> km<sup>2</sup><br/>(11.592 Yrths)
         volume: 4.275 × 10<sup>13</sup> km<sup>3</sup><br/>(39.469 Yrths)
-        mass: 8.699 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 8.699 × 10<sup>25</sup> kg<br />(14.567 Yrths)
         density: 2.035 g/cm<sup>3</sup>
         surface_gravity: 12.323 m/s<sup>2</sup><br />(1.257 g<sub>0</sub>)
         escape_velocity: 23.137 km/s<br />(83,294 km/h)
         rotation_period: 64.587 d
         axial_tilt: 26.91°
         albedo: 0.30
-        temperature: 479 K<br />(206 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX d
         type: Icy
         formationType: Accreted
@@ -1056,14 +1056,14 @@ planets:
         radius: 23,187.8 km<br/>(3.640 Yrths)
         surface_area: 6.757 × 10<sup>09</sup> km<sup>2</sup><br/>(13.247 Yrths)
         volume: 5.222 × 10<sup>13</sup> km<sup>3</sup><br/>(48.212 Yrths)
-        mass: 6.407 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 6.407 × 10<sup>25</sup> kg<br />(10.728 Yrths)
         density: 1.227 g/cm<sup>3</sup>
         surface_gravity: 7.942 m/s<sup>2</sup><br />(0.810 g<sub>0</sub>)
         escape_velocity: 19.204 km/s<br />(69,136 km/h)
         rotation_period: 72.907 d
         axial_tilt: 18.58°
         albedo: 0.30
-        temperature: 457 K<br />(184 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX e
         type: Ice/rock hybrid
         formationType: Captured
@@ -1076,14 +1076,14 @@ planets:
         radius: 11,610.1 km<br/>(1.822 Yrths)
         surface_area: 1.694 × 10<sup>09</sup> km<sup>2</sup><br/>(3.321 Yrths)
         volume: 6.555 × 10<sup>12</sup> km<sup>3</sup><br/>(6.052 Yrths)
-        mass: 1.492 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 1.492 × 10<sup>25</sup> kg<br />(2.499 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 7.378 m/s<sup>2</sup><br />(0.752 g<sub>0</sub>)
         escape_velocity: 13.098 km/s<br />(47,153 km/h)
         rotation_period: 48.131 d
         axial_tilt: 24.55°
         albedo: 0.30
-        temperature: 416 K<br />(142 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX f
         type: Ice/rock hybrid
         formationType: Captured
@@ -1096,14 +1096,14 @@ planets:
         radius: 14,120.6 km<br/>(2.216 Yrths)
         surface_area: 2.506 × 10<sup>09</sup> km<sup>2</sup><br/>(4.912 Yrths)
         volume: 1.179 × 10<sup>13</sup> km<sup>3</sup><br/>(10.888 Yrths)
-        mass: 2.350 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 2.350 × 10<sup>25</sup> kg<br />(3.935 Yrths)
         density: 1.993 g/cm<sup>3</sup>
         surface_gravity: 7.856 m/s<sup>2</sup><br />(0.801 g<sub>0</sub>)
         escape_velocity: 14.905 km/s<br />(53,660 km/h)
         rotation_period: 52.618 d
         axial_tilt: 13.41°
         albedo: 0.30
-        temperature: 396 K<br />(123 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX g
         type: Icy
         formationType: Captured
@@ -1116,14 +1116,14 @@ planets:
         radius: 15,365.0 km<br/>(2.412 Yrths)
         surface_area: 2.967 × 10<sup>09</sup> km<sup>2</sup><br/>(5.816 Yrths)
         volume: 1.519 × 10<sup>13</sup> km<sup>3</sup><br/>(14.027 Yrths)
-        mass: 2.312 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 2.312 × 10<sup>25</sup> kg<br />(3.872 Yrths)
         density: 1.522 g/cm<sup>3</sup>
         surface_gravity: 6.528 m/s<sup>2</sup><br />(0.666 g<sub>0</sub>)
         escape_velocity: 14.173 km/s<br />(51,024 km/h)
         rotation_period: 78.420 d
         axial_tilt: 15.07°
         albedo: 0.30
-        temperature: 360 K<br />(87 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX h
         type: Ice/rock hybrid
         formationType: Captured
@@ -1136,14 +1136,14 @@ planets:
         radius: 17,845.5 km<br/>(2.801 Yrths)
         surface_area: 4.002 × 10<sup>09</sup> km<sup>2</sup><br/>(7.846 Yrths)
         volume: 2.381 × 10<sup>13</sup> km<sup>3</sup><br/>(21.977 Yrths)
-        mass: 4.989 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 4.989 × 10<sup>25</sup> kg<br />(8.354 Yrths)
         density: 2.096 g/cm<sup>3</sup>
         surface_gravity: 10.442 m/s<sup>2</sup><br />(1.065 g<sub>0</sub>)
         escape_velocity: 19.318 km/s<br />(69,546 km/h)
         rotation_period: 38.299 d
         axial_tilt: 23.72°
         albedo: 0.30
-        temperature: 343 K<br />(70 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX i
         type: Dwarf planet
         formationType: Captured
@@ -1156,14 +1156,14 @@ planets:
         radius: 10,276.7 km<br/>(1.613 Yrths)
         surface_area: 1.327 × 10<sup>09</sup> km<sup>2</sup><br/>(2.602 Yrths)
         volume: 4.546 × 10<sup>12</sup> km<sup>3</sup><br/>(4.197 Yrths)
-        mass: 1.259 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 1.259 × 10<sup>25</sup> kg<br />(2.108 Yrths)
         density: 2.769 g/cm<sup>3</sup>
         surface_gravity: 7.943 m/s<sup>2</sup><br />(0.810 g<sub>0</sub>)
         escape_velocity: 12.786 km/s<br />(46,030 km/h)
         rotation_period: 31.412 d
         axial_tilt: 13.09°
         albedo: 0.30
-        temperature: 327 K<br />(54 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX j
         type: Dwarf planet
         formationType: Impact formed
@@ -1176,14 +1176,14 @@ planets:
         radius: 26,385.5 km<br/>(4.141 Yrths)
         surface_area: 8.749 × 10<sup>09</sup> km<sup>2</sup><br/>(17.152 Yrths)
         volume: 7.695 × 10<sup>13</sup> km<sup>3</sup><br/>(71.035 Yrths)
-        mass: 1.040 × 10<sup>26</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 1.040 × 10<sup>26</sup> kg<br />(17.416 Yrths)
         density: 1.352 g/cm<sup>3</sup>
         surface_gravity: 9.958 m/s<sup>2</sup><br />(1.015 g<sub>0</sub>)
         escape_velocity: 22.939 km/s<br />(82,580 km/h)
         rotation_period: 80.057 d
         axial_tilt: 40.51°
         albedo: 0.30
-        temperature: 312 K<br />(39 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX k
         type: Icy
         formationType: Accreted
@@ -1196,14 +1196,14 @@ planets:
         radius: 13,252.5 km<br/>(2.080 Yrths)
         surface_area: 2.207 × 10<sup>09</sup> km<sup>2</sup><br/>(4.327 Yrths)
         volume: 9.750 × 10<sup>12</sup> km<sup>3</sup><br/>(9.001 Yrths)
-        mass: 1.560 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 1.560 × 10<sup>25</sup> kg<br />(2.612 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 5.919 m/s<sup>2</sup><br />(0.604 g<sub>0</sub>)
         escape_velocity: 12.534 km/s<br />(45,122 km/h)
         rotation_period: 61.716 d
         axial_tilt: 23.18°
         albedo: 0.30
-        temperature: 284 K<br />(11 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 461993 Orgarriad IX l
         type: Icy
         formationType: Accreted
@@ -1216,12 +1216,12 @@ planets:
         radius: 20,829.2 km<br/>(3.269 Yrths)
         surface_area: 5.452 × 10<sup>09</sup> km<sup>2</sup><br/>(10.689 Yrths)
         volume: 3.785 × 10<sup>13</sup> km<sup>3</sup><br/>(34.946 Yrths)
-        mass: 4.198 × 10<sup>25</sup> kg<br />(11.956223971774065 Yrths)
+        mass: 4.198 × 10<sup>25</sup> kg<br />(7.030 Yrths)
         density: 1.109 g/cm<sup>3</sup>
         surface_gravity: 6.450 m/s<sup>2</sup><br />(0.658 g<sub>0</sub>)
         escape_velocity: 16.403 km/s<br />(59,050 km/h)
         rotation_period: 80.523 d
         axial_tilt: 17.85°
         albedo: 0.30
-        temperature: 258 K<br />(-15 °C)
+        temperature: 64 K<br />(-209 °C)
 ---

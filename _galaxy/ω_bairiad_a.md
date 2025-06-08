@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ω Bairiad A is a star in the constellation Bair
+      ω Bairiad A is a star in the constellation <a href="bair.html">Bair</a>
 distance: 207.95 ly
 apparent_magnitude: 7.07
 absolute_magnitude: 3.05

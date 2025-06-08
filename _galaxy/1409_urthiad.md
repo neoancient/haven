@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1409 Urthiad is a star in the constellation Urth
+      1409 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 217.37 ly
 apparent_magnitude: 16.17
 absolute_magnitude: 12.05

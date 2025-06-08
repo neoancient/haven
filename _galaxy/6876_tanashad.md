@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6876 Tanashad is a star in the constellation Tanas
+      6876 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 396.67 ly
 apparent_magnitude: 10.41
 absolute_magnitude: 4.98

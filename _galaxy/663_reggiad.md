@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      663 Reggiad is a star in the constellation Reg
+      663 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 272.32 ly
 apparent_magnitude: 10.81
 absolute_magnitude: 6.20

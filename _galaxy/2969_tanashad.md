@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2969 Tanashad is a star in the constellation Tanas
+      2969 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 245.33 ly
 apparent_magnitude: 10.24
 absolute_magnitude: 5.86

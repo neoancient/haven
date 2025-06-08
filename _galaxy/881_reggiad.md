@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      881 Reggiad is a star in the constellation Reg
+      881 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 201.08 ly
 apparent_magnitude: 9.73
 absolute_magnitude: 5.78

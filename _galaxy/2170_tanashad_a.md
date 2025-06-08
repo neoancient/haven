@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2170 Tanashad A is a star in the constellation Tanas
+      2170 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 420.26 ly
 apparent_magnitude: 6.88
 absolute_magnitude: 1.33

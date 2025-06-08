@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8880 Dialkeshiad is a star in the constellation Dialkes
+      8880 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 362.00 ly
 apparent_magnitude: 10.81
 absolute_magnitude: 5.58

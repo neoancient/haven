@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3920 Geardiad is a star in the constellation Geard
+      3920 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 261.96 ly
 apparent_magnitude: 10.95
 absolute_magnitude: 6.43

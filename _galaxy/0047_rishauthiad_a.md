@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0047 Rishauthiad A is a star in the constellation Rishauth
+      0047 Rishauthiad A is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 550.34 ly
 apparent_magnitude: 5.81
 absolute_magnitude: -0.32

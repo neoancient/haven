@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      467 Tanashad is a star in the constellation Tanas
+      467 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 253.95 ly
 apparent_magnitude: 9.05
 absolute_magnitude: 4.59
@@ -31,14 +31,14 @@ planets:
     radius: 8,449.0 km<br/>(1.326 Yrths)
     surface_area: 8.971 × 10<sup>08</sup> km<sup>2</sup><br/>(1.759 Yrths)
     volume: 2.526 × 10<sup>12</sup> km<sup>3</sup><br/>(2.332 Yrths)
-    mass: 1.123 × 10<sup>25</sup> kg<br />(1.880277152514468 Yrths)
+    mass: 1.123 × 10<sup>25</sup> kg<br />(1.88 Yrths)
     density: 4.445 g/cm<sup>3</sup>
     surface_gravity: 10.485 m/s<sup>2</sup><br />(1.069 g<sub>0</sub>)
     escape_velocity: 13.319 km/s<br />(47,950 km/h)
     rotation_period: 1.108 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 249 K<br />(-24 °C)
+    temperature: 323 K<br />(50 °C)
     surface_pressure: 7 kPa<br />(0 atm)
     composition:
       - 81.2755% methane
@@ -57,14 +57,14 @@ planets:
         radius: 3,091.5 km<br/>(0.485 Yrths)
         surface_area: 1.201 × 10<sup>08</sup> km<sup>2</sup><br/>(0.235 Yrths)
         volume: 1.238 × 10<sup>11</sup> km<sup>3</sup><br/>(0.114 Yrths)
-        mass: 8.664 × 10<sup>22</sup> kg<br />(1.880277152514468 Yrths)
+        mass: 8.664 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.604 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 1.934 km/s<br />(6,963 km/h)
         rotation_period: 75.247 d
         axial_tilt: 17.81°
         albedo: 0.30
-        temperature: 3346 K<br />(3073 °C)
+        temperature: 229 K<br />(-45 °C)
       - name: 467 Tanashad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -77,12 +77,12 @@ planets:
         radius: 4,270.0 km<br/>(0.670 Yrths)
         surface_area: 2.291 × 10<sup>08</sup> km<sup>2</sup><br/>(0.449 Yrths)
         volume: 3.261 × 10<sup>11</sup> km<sup>3</sup><br/>(0.301 Yrths)
-        mass: 6.960 × 10<sup>23</sup> kg<br />(1.880277152514468 Yrths)
+        mass: 6.960 × 10<sup>23</sup> kg<br />(0.117 Yrths)
         density: 2.134 g/cm<sup>3</sup>
         surface_gravity: 2.544 m/s<sup>2</sup><br />(0.259 g<sub>0</sub>)
         escape_velocity: 4.665 km/s<br />(16,792 km/h)
         rotation_period: 61.029 d
         axial_tilt: 13.01°
         albedo: 0.30
-        temperature: 3190 K<br />(2917 °C)
+        temperature: 229 K<br />(-45 °C)
 ---

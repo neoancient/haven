@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1914 Arniad A is a star in the constellation Arni
+      1914 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 365.05 ly
 apparent_magnitude: 8.27
 absolute_magnitude: 3.03

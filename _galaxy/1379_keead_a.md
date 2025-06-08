@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1379 Keead A is a star in the constellation Kee
+      1379 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 544.31 ly
 apparent_magnitude: 7.21
 absolute_magnitude: 1.09

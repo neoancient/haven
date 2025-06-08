@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1025 Arniad is a star in the constellation Arni
+      1025 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 200.89 ly
 apparent_magnitude: 8.90
 absolute_magnitude: 4.95

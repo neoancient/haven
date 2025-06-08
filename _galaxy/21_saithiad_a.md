@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      21 Saithiad A is a star in the constellation Saith
+      21 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 210.75 ly
 apparent_magnitude: 7.08
 absolute_magnitude: 3.03

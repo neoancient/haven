@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Caronudra is a star in the constellation Shuli
+      Caronudra is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 2200.83 ly
 apparent_magnitude: 3.07
 absolute_magnitude: -6.08

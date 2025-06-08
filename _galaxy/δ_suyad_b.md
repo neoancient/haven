@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      δ Suyad B is a star in the constellation Su
+      δ Suyad B is a star in the constellation <a href="su.html">Su</a>
 distance: 460.72 ly
 apparent_magnitude: 11.04
 absolute_magnitude: 5.29

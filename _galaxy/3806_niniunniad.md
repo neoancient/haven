@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3806 Niniunniad is a star in the constellation Niniun
+      3806 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 284.46 ly
 apparent_magnitude: 9.27
 absolute_magnitude: 4.56

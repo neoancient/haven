@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1733 Noniashad is a star in the constellation Nonias
+      1733 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 562.81 ly
 apparent_magnitude: 11.17
 absolute_magnitude: 4.98

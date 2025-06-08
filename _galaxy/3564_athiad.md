@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3564 Athiad is a star in the constellation Ath
+      3564 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 302.97 ly
 apparent_magnitude: 10.67
 absolute_magnitude: 5.83
@@ -31,14 +31,14 @@ planets:
     radius: 2,915.1 km<br/>(0.458 Yrths)
     surface_area: 1.068 × 10<sup>08</sup> km<sup>2</sup><br/>(0.209 Yrths)
     volume: 1.038 × 10<sup>11</sup> km<sup>3</sup><br/>(0.096 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.755 g/cm<sup>3</sup>
     surface_gravity: 4.684 m/s<sup>2</sup><br />(0.478 g<sub>0</sub>)
     escape_velocity: 5.229 km/s<br />(18,826 km/h)
     rotation_period: 7.096 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 450 K<br />(177 °C)
+    temperature: 1283 K<br />(1010 °C)
     surface_pressure: 8 kPa<br />(0 atm)
     composition:
       - 83.9543% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 322.6 km<br/>(0.051 Yrths)
         surface_area: 1.308 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.407 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.032 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.032 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.156 g/cm<sup>3</sup>
         surface_gravity: 0.194 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.354 km/s<br />(1,275 km/h)
         rotation_period: 35.945 d
         axial_tilt: 33.21°
         albedo: 0.30
-        temperature: 8596 K<br />(8323 °C)
+        temperature: 334 K<br />(61 °C)
       - name: 3564 Athiad I b
         type: Asteroid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 319.6 km<br/>(0.050 Yrths)
         surface_area: 1.283 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.367 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.674 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.674 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.419 g/cm<sup>3</sup>
         surface_gravity: 0.305 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.442 km/s<br />(1,591 km/h)
         rotation_period: 27.994 d
         axial_tilt: 50.31°
         albedo: 0.30
-        temperature: 8196 K<br />(7923 °C)
+        temperature: 334 K<br />(61 °C)
   - name: 3564 Athiad II
     type: Gas dwarf
     aphelion: 97,346,036 km<br />0.651 AU
@@ -96,14 +96,14 @@ planets:
     radius: 14,230.9 km<br/>(2.234 Yrths)
     surface_area: 2.545 × 10<sup>09</sup> km<sup>2</sup><br/>(4.989 Yrths)
     volume: 1.207 × 10<sup>13</sup> km<sup>3</sup><br/>(11.145 Yrths)
-    mass: 3.352 × 10<sup>25</sup> kg<br />(5.612674334200381 Yrths)
+    mass: 3.352 × 10<sup>25</sup> kg<br />(5.61 Yrths)
     density: 2.777 g/cm<sup>3</sup>
     surface_gravity: 11.032 m/s<sup>2</sup><br />(1.125 g<sub>0</sub>)
     escape_velocity: 17.732 km/s<br />(63,834 km/h)
     rotation_period: 1.394 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 358 K<br />(85 °C)
+    temperature: 331 K<br />(58 °C)
     composition:
       - 95.0685% hydrogen
       - 1.7972% helium
@@ -123,14 +123,14 @@ planets:
         radius: 2,283.9 km<br/>(0.358 Yrths)
         surface_area: 6.555 × 10<sup>07</sup> km<sup>2</sup><br/>(0.129 Yrths)
         volume: 4.990 × 10<sup>10</sup> km<sup>3</sup><br/>(0.046 Yrths)
-        mass: 1.174 × 10<sup>23</sup> kg<br />(5.612674334200381 Yrths)
+        mass: 1.174 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 2.353 g/cm<sup>3</sup>
         surface_gravity: 1.501 m/s<sup>2</sup><br />(0.153 g<sub>0</sub>)
         escape_velocity: 2.620 km/s<br />(9,432 km/h)
         rotation_period: 39.236 d
         axial_tilt: 9.86°
         albedo: 0.30
-        temperature: 2682 K<br />(2409 °C)
+        temperature: 260 K<br />(-14 °C)
       - name: 3564 Athiad II b
         type: Icy
         formationType: Impact formed
@@ -143,14 +143,14 @@ planets:
         radius: 12,395.4 km<br/>(1.946 Yrths)
         surface_area: 1.931 × 10<sup>09</sup> km<sup>2</sup><br/>(3.785 Yrths)
         volume: 7.978 × 10<sup>12</sup> km<sup>3</sup><br/>(7.365 Yrths)
-        mass: 1.183 × 10<sup>25</sup> kg<br />(5.612674334200381 Yrths)
+        mass: 1.183 × 10<sup>25</sup> kg<br />(1.982 Yrths)
         density: 1.484 g/cm<sup>3</sup>
         surface_gravity: 5.134 m/s<sup>2</sup><br />(0.524 g<sub>0</sub>)
         escape_velocity: 11.289 km/s<br />(40,642 km/h)
         rotation_period: 46.326 d
         axial_tilt: 20.11°
         albedo: 0.30
-        temperature: 2557 K<br />(2284 °C)
+        temperature: 260 K<br />(-14 °C)
   - name: 3564 Athiad III
     type: Ice giant
     aphelion: 160,957,940 km<br />1.076 AU
@@ -162,14 +162,14 @@ planets:
     radius: 26,773.2 km<br/>(4.202 Yrths)
     surface_area: 9.008 × 10<sup>09</sup> km<sup>2</sup><br/>(17.660 Yrths)
     volume: 8.039 × 10<sup>13</sup> km<sup>3</sup><br/>(74.213 Yrths)
-    mass: 1.162 × 10<sup>26</sup> kg<br />(19.454062325497777 Yrths)
+    mass: 1.162 × 10<sup>26</sup> kg<br />(19.45 Yrths)
     density: 1.445 g/cm<sup>3</sup>
     surface_gravity: 10.803 m/s<sup>2</sup><br />(1.102 g<sub>0</sub>)
     escape_velocity: 24.068 km/s<br />(86,643 km/h)
     rotation_period: 0.836 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 354 K<br />(81 °C)
+    temperature: 320 K<br />(47 °C)
     composition:
       - 72.8685% hydrogen
       - 25.4029% helium
@@ -187,14 +187,14 @@ planets:
         radius: 23,653.9 km<br/>(3.713 Yrths)
         surface_area: 7.031 × 10<sup>09</sup> km<sup>2</sup><br/>(13.784 Yrths)
         volume: 5.544 × 10<sup>13</sup> km<sup>3</sup><br/>(51.178 Yrths)
-        mass: 6.787 × 10<sup>25</sup> kg<br />(19.454062325497777 Yrths)
+        mass: 6.787 × 10<sup>25</sup> kg<br />(11.365 Yrths)
         density: 1.224 g/cm<sup>3</sup>
         surface_gravity: 8.086 m/s<sup>2</sup><br />(0.825 g<sub>0</sub>)
         escape_velocity: 19.571 km/s<br />(70,457 km/h)
         rotation_period: 59.137 d
         axial_tilt: 23.36°
         albedo: 0.30
-        temperature: 1608 K<br />(1334 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 3564 Athiad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -207,14 +207,14 @@ planets:
         radius: 26,477.0 km<br/>(4.156 Yrths)
         surface_area: 8.809 × 10<sup>09</sup> km<sup>2</sup><br/>(17.271 Yrths)
         volume: 7.775 × 10<sup>13</sup> km<sup>3</sup><br/>(71.777 Yrths)
-        mass: 1.908 × 10<sup>26</sup> kg<br />(19.454062325497777 Yrths)
+        mass: 1.908 × 10<sup>26</sup> kg<br />(31.955 Yrths)
         density: 2.455 g/cm<sup>3</sup>
         surface_gravity: 18.144 m/s<sup>2</sup><br />(1.850 g<sub>0</sub>)
         escape_velocity: 31.018 km/s<br />(111,665 km/h)
         rotation_period: 35.745 d
         axial_tilt: 6.97°
         albedo: 0.30
-        temperature: 1533 K<br />(1260 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 3564 Athiad III c
         type: Icy
         formationType: Captured
@@ -227,14 +227,14 @@ planets:
         radius: 28,556.7 km<br/>(4.482 Yrths)
         surface_area: 1.025 × 10<sup>10</sup> km<sup>2</sup><br/>(20.091 Yrths)
         volume: 9.755 × 10<sup>13</sup> km<sup>3</sup><br/>(90.053 Yrths)
-        mass: 1.378 × 10<sup>26</sup> kg<br />(19.454062325497777 Yrths)
+        mass: 1.378 × 10<sup>26</sup> kg<br />(23.072 Yrths)
         density: 1.413 g/cm<sup>3</sup>
         surface_gravity: 11.262 m/s<sup>2</sup><br />(1.148 g<sub>0</sub>)
         escape_velocity: 25.379 km/s<br />(91,363 km/h)
         rotation_period: 64.882 d
         axial_tilt: 21.66°
         albedo: 0.30
-        temperature: 1461 K<br />(1188 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 3564 Athiad III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -247,14 +247,14 @@ planets:
         radius: 20,764.7 km<br/>(3.259 Yrths)
         surface_area: 5.418 × 10<sup>09</sup> km<sup>2</sup><br/>(10.623 Yrths)
         volume: 3.750 × 10<sup>13</sup> km<sup>3</sup><br/>(34.622 Yrths)
-        mass: 9.269 × 10<sup>25</sup> kg<br />(19.454062325497777 Yrths)
+        mass: 9.269 × 10<sup>25</sup> kg<br />(15.521 Yrths)
         density: 2.471 g/cm<sup>3</sup>
         surface_gravity: 14.328 m/s<sup>2</sup><br />(1.461 g<sub>0</sub>)
         escape_velocity: 24.410 km/s<br />(87,876 km/h)
         rotation_period: 58.580 d
         axial_tilt: 18.17°
         albedo: 0.30
-        temperature: 1267 K<br />(994 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 3564 Athiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -267,14 +267,14 @@ planets:
         radius: 34,502.6 km<br/>(5.416 Yrths)
         surface_area: 1.496 × 10<sup>10</sup> km<sup>2</sup><br/>(29.328 Yrths)
         volume: 1.720 × 10<sup>14</sup> km<sup>3</sup><br/>(158.829 Yrths)
-        mass: 3.169 × 10<sup>26</sup> kg<br />(19.454062325497777 Yrths)
+        mass: 3.169 × 10<sup>26</sup> kg<br />(53.061 Yrths)
         density: 1.842 g/cm<sup>3</sup>
         surface_gravity: 17.742 m/s<sup>2</sup><br />(1.809 g<sub>0</sub>)
         escape_velocity: 35.014 km/s<br />(126,050 km/h)
         rotation_period: 59.839 d
         axial_tilt: 19.19°
         albedo: 0.30
-        temperature: 1208 K<br />(935 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 3564 Athiad III f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -287,12 +287,12 @@ planets:
         radius: 18,235.0 km<br/>(2.862 Yrths)
         surface_area: 4.179 × 10<sup>09</sup> km<sup>2</sup><br/>(8.192 Yrths)
         volume: 2.540 × 10<sup>13</sup> km<sup>3</sup><br/>(23.447 Yrths)
-        mass: 6.476 × 10<sup>25</sup> kg<br />(19.454062325497777 Yrths)
+        mass: 6.476 × 10<sup>25</sup> kg<br />(10.845 Yrths)
         density: 2.550 g/cm<sup>3</sup>
         surface_gravity: 12.982 m/s<sup>2</sup><br />(1.324 g<sub>0</sub>)
         escape_velocity: 21.774 km/s<br />(78,386 km/h)
         rotation_period: 61.010 d
         axial_tilt: 14.94°
         albedo: 0.30
-        temperature: 1152 K<br />(878 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

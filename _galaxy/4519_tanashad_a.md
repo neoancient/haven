@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4519 Tanashad A is a star in the constellation Tanas
+      4519 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 295.25 ly
 apparent_magnitude: 7.45
 absolute_magnitude: 2.66

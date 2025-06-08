@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2123 Saithiad A is a star in the constellation Saith
+      2123 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 2108.99 ly
 apparent_magnitude: 6.63
 absolute_magnitude: -2.43

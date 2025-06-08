@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5513 Geardiad A is a star in the constellation Geard
+      5513 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 122.73 ly
 apparent_magnitude: 9.09
 absolute_magnitude: 6.21

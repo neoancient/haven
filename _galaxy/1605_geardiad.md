@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1605 Geardiad is a star in the constellation Geard
+      1605 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1070.66 ly
 apparent_magnitude: 15.38
 absolute_magnitude: 7.80

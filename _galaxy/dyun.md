@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Dyun is a star in the constellation Leln
+      Dyun is a star in the constellation <a href="leln.html">Leln</a>
 distance: 191.83 ly
 apparent_magnitude: 3.85
 absolute_magnitude: 0.00

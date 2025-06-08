@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Urthiad A is a star in the constellation Urth
+      σ Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 314.59 ly
 apparent_magnitude: 6.56
 absolute_magnitude: 1.64

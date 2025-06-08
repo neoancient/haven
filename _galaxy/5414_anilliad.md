@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5414 Anilliad is a star in the constellation Anil
+      5414 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 764.36 ly
 apparent_magnitude: 8.43
 absolute_magnitude: 1.58

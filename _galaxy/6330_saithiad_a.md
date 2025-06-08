@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6330 Saithiad A is a star in the constellation Saith
+      6330 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 629.55 ly
 apparent_magnitude: 7.61
 absolute_magnitude: 1.18

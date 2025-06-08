@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2083 Saithiad A is a star in the constellation Saith
+      2083 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 225.26 ly
 apparent_magnitude: 7.23
 absolute_magnitude: 3.03

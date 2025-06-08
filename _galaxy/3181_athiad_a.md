@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3181 Athiad A is a star in the constellation Ath
+      3181 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 457.15 ly
 apparent_magnitude: 7.90
 absolute_magnitude: 2.16

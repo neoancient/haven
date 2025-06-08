@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0098 Niniunniad A is a star in the constellation Niniun
+      0098 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 292.27 ly
 apparent_magnitude: 6.60
 absolute_magnitude: 1.84

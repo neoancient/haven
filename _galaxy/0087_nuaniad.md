@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0087 Nuaniad is a star in the constellation Nuani
+      0087 Nuaniad is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 18.85 ly
 apparent_magnitude: 6.00
 absolute_magnitude: 7.19
@@ -31,14 +31,14 @@ planets:
     radius: 7,784.4 km<br/>(1.222 Yrths)
     surface_area: 7.615 × 10<sup>08</sup> km<sup>2</sup><br/>(1.493 Yrths)
     volume: 1.976 × 10<sup>12</sup> km<sup>3</sup><br/>(1.824 Yrths)
-    mass: 9.845 × 10<sup>24</sup> kg<br />(1.6485813064475028 Yrths)
+    mass: 9.845 × 10<sup>24</sup> kg<br />(1.65 Yrths)
     density: 4.983 g/cm<sup>3</sup>
     surface_gravity: 10.829 m/s<sup>2</sup><br />(1.104 g<sub>0</sub>)
     escape_velocity: 12.993 km/s<br />(46,776 km/h)
     rotation_period: 2.558 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 371 K<br />(98 °C)
+    temperature: 1117 K<br />(844 °C)
     surface_pressure: 17 kPa<br />(0 atm)
     composition:
       - 98.4885% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 4,068.6 km<br/>(0.639 Yrths)
         surface_area: 2.080 × 10<sup>08</sup> km<sup>2</sup><br/>(0.408 Yrths)
         volume: 2.821 × 10<sup>11</sup> km<sup>3</sup><br/>(0.260 Yrths)
-        mass: 7.342 × 10<sup>23</sup> kg<br />(1.6485813064475028 Yrths)
+        mass: 7.342 × 10<sup>23</sup> kg<br />(0.123 Yrths)
         density: 2.603 g/cm<sup>3</sup>
         surface_gravity: 2.956 m/s<sup>2</sup><br />(0.301 g<sub>0</sub>)
         escape_velocity: 4.908 km/s<br />(17,669 km/h)
         rotation_period: 36.684 d
         axial_tilt: 10.21°
         albedo: 0.30
-        temperature: 4321 K<br />(4048 °C)
+        temperature: 258 K<br />(-15 °C)
   - name: 0087 Nuaniad II
     type: Gas dwarf
     aphelion: 137,228,840 km<br />0.917 AU
@@ -75,14 +75,14 @@ planets:
     radius: 18,941.6 km<br/>(2.973 Yrths)
     surface_area: 4.509 × 10<sup>09</sup> km<sup>2</sup><br/>(8.839 Yrths)
     volume: 2.847 × 10<sup>13</sup> km<sup>3</sup><br/>(26.280 Yrths)
-    mass: 6.128 × 10<sup>25</sup> kg<br />(10.260577679207396 Yrths)
+    mass: 6.128 × 10<sup>25</sup> kg<br />(10.26 Yrths)
     density: 2.153 g/cm<sup>3</sup>
     surface_gravity: 11.383 m/s<sup>2</sup><br />(1.161 g<sub>0</sub>)
     escape_velocity: 20.780 km/s<br />(74,810 km/h)
     rotation_period: 1.137 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 276 K<br />(2 °C)
+    temperature: 267 K<br />(-6 °C)
     composition:
       - 51.3491% hydrogen
       - 44.4892% helium
@@ -100,14 +100,14 @@ planets:
         radius: 13,111.4 km<br/>(2.058 Yrths)
         surface_area: 2.160 × 10<sup>09</sup> km<sup>2</sup><br/>(4.235 Yrths)
         volume: 9.441 × 10<sup>12</sup> km<sup>3</sup><br/>(8.716 Yrths)
-        mass: 1.157 × 10<sup>25</sup> kg<br />(10.260577679207396 Yrths)
+        mass: 1.157 × 10<sup>25</sup> kg<br />(1.938 Yrths)
         density: 1.226 g/cm<sup>3</sup>
         surface_gravity: 4.488 m/s<sup>2</sup><br />(0.458 g<sub>0</sub>)
         escape_velocity: 10.855 km/s<br />(39,079 km/h)
         rotation_period: 80.899 d
         axial_tilt: 18.00°
         albedo: 0.30
-        temperature: 1898 K<br />(1625 °C)
+        temperature: 203 K<br />(-71 °C)
       - name: 0087 Nuaniad II b
         type: Rocky
         formationType: Accreted
@@ -120,14 +120,14 @@ planets:
         radius: 5,393.0 km<br/>(0.846 Yrths)
         surface_area: 3.655 × 10<sup>08</sup> km<sup>2</sup><br/>(0.717 Yrths)
         volume: 6.570 × 10<sup>11</sup> km<sup>3</sup><br/>(0.607 Yrths)
-        mass: 1.935 × 10<sup>24</sup> kg<br />(10.260577679207396 Yrths)
+        mass: 1.935 × 10<sup>24</sup> kg<br />(0.324 Yrths)
         density: 2.946 g/cm<sup>3</sup>
         surface_gravity: 4.435 m/s<sup>2</sup><br />(0.452 g<sub>0</sub>)
         escape_velocity: 6.921 km/s<br />(24,917 km/h)
         rotation_period: 30.869 d
         axial_tilt: 8.48°
         albedo: 0.30
-        temperature: 1809 K<br />(1536 °C)
+        temperature: 203 K<br />(-71 °C)
       - name: 0087 Nuaniad II c
         type: Dwarf planet
         formationType: Captured
@@ -140,14 +140,14 @@ planets:
         radius: 5,734.4 km<br/>(0.900 Yrths)
         surface_area: 4.132 × 10<sup>08</sup> km<sup>2</sup><br/>(0.810 Yrths)
         volume: 7.899 × 10<sup>11</sup> km<sup>3</sup><br/>(0.729 Yrths)
-        mass: 1.092 × 10<sup>24</sup> kg<br />(10.260577679207396 Yrths)
+        mass: 1.092 × 10<sup>24</sup> kg<br />(0.183 Yrths)
         density: 1.382 g/cm<sup>3</sup>
         surface_gravity: 2.213 m/s<sup>2</sup><br />(0.226 g<sub>0</sub>)
         escape_velocity: 5.042 km/s<br />(18,150 km/h)
         rotation_period: 81.589 d
         axial_tilt: 26.67°
         albedo: 0.30
-        temperature: 1725 K<br />(1452 °C)
+        temperature: 203 K<br />(-71 °C)
       - name: 0087 Nuaniad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -160,14 +160,14 @@ planets:
         radius: 15,457.6 km<br/>(2.426 Yrths)
         surface_area: 3.003 × 10<sup>09</sup> km<sup>2</sup><br/>(5.887 Yrths)
         volume: 1.547 × 10<sup>13</sup> km<sup>3</sup><br/>(14.283 Yrths)
-        mass: 4.151 × 10<sup>25</sup> kg<br />(10.260577679207396 Yrths)
+        mass: 4.151 × 10<sup>25</sup> kg<br />(6.951 Yrths)
         density: 2.683 g/cm<sup>3</sup>
         surface_gravity: 11.580 m/s<sup>2</sup><br />(1.181 g<sub>0</sub>)
         escape_velocity: 18.934 km/s<br />(68,161 km/h)
         rotation_period: 37.354 d
         axial_tilt: 19.50°
         albedo: 0.30
-        temperature: 1645 K<br />(1372 °C)
+        temperature: 203 K<br />(-71 °C)
   - name: 0087 Nuaniad III
     type: Ice giant
     aphelion: 222,766,465 km<br />1.489 AU
@@ -179,14 +179,14 @@ planets:
     radius: 28,853.6 km<br/>(4.529 Yrths)
     surface_area: 1.046 × 10<sup>10</sup> km<sup>2</sup><br/>(20.511 Yrths)
     volume: 1.006 × 10<sup>14</sup> km<sup>3</sup><br/>(92.891 Yrths)
-    mass: 1.278 × 10<sup>26</sup> kg<br />(21.401271807654613 Yrths)
+    mass: 1.278 × 10<sup>26</sup> kg<br />(21.40 Yrths)
     density: 1.270 g/cm<sup>3</sup>
     surface_gravity: 10.232 m/s<sup>2</sup><br />(1.043 g<sub>0</sub>)
     escape_velocity: 24.316 km/s<br />(87,539 km/h)
     rotation_period: 0.803 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 278 K<br />(5 °C)
+    temperature: 251 K<br />(-22 °C)
     composition:
       - 90.0082% hydrogen
       - 8.5420% helium
@@ -204,14 +204,14 @@ planets:
         radius: 20,358.2 km<br/>(3.195 Yrths)
         surface_area: 5.208 × 10<sup>09</sup> km<sup>2</sup><br/>(10.211 Yrths)
         volume: 3.534 × 10<sup>13</sup> km<sup>3</sup><br/>(32.628 Yrths)
-        mass: 9.896 × 10<sup>25</sup> kg<br />(21.401271807654613 Yrths)
+        mass: 9.896 × 10<sup>25</sup> kg<br />(16.571 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 15.915 m/s<sup>2</sup><br />(1.623 g<sub>0</sub>)
         escape_velocity: 25.473 km/s<br />(91,703 km/h)
         rotation_period: 56.923 d
         axial_tilt: 34.88°
         albedo: 0.30
-        temperature: 1193 K<br />(919 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0087 Nuaniad III b
         type: Rocky
         formationType: Impact formed
@@ -224,14 +224,14 @@ planets:
         radius: 23,856.1 km<br/>(3.744 Yrths)
         surface_area: 7.152 × 10<sup>09</sup> km<sup>2</sup><br/>(14.021 Yrths)
         volume: 5.687 × 10<sup>13</sup> km<sup>3</sup><br/>(52.502 Yrths)
-        mass: 1.489 × 10<sup>26</sup> kg<br />(21.401271807654613 Yrths)
+        mass: 1.489 × 10<sup>26</sup> kg<br />(24.939 Yrths)
         density: 2.619 g/cm<sup>3</sup>
         surface_gravity: 17.443 m/s<sup>2</sup><br />(1.779 g<sub>0</sub>)
         escape_velocity: 28.868 km/s<br />(103,924 km/h)
         rotation_period: 31.663 d
         axial_tilt: 10.67°
         albedo: 0.30
-        temperature: 986 K<br />(712 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0087 Nuaniad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -244,14 +244,14 @@ planets:
         radius: 21,430.5 km<br/>(3.364 Yrths)
         surface_area: 5.771 × 10<sup>09</sup> km<sup>2</sup><br/>(11.315 Yrths)
         volume: 4.123 × 10<sup>13</sup> km<sup>3</sup><br/>(38.060 Yrths)
-        mass: 9.306 × 10<sup>25</sup> kg<br />(21.401271807654613 Yrths)
+        mass: 9.306 × 10<sup>25</sup> kg<br />(15.583 Yrths)
         density: 2.257 g/cm<sup>3</sup>
         surface_gravity: 13.506 m/s<sup>2</sup><br />(1.377 g<sub>0</sub>)
         escape_velocity: 24.076 km/s<br />(86,673 km/h)
         rotation_period: 44.881 d
         axial_tilt: 17.73°
         albedo: 0.30
-        temperature: 940 K<br />(667 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0087 Nuaniad III d
         type: Icy
         formationType: Captured
@@ -264,14 +264,14 @@ planets:
         radius: 26,560.2 km<br/>(4.169 Yrths)
         surface_area: 8.865 × 10<sup>09</sup> km<sup>2</sup><br/>(17.380 Yrths)
         volume: 7.848 × 10<sup>13</sup> km<sup>3</sup><br/>(72.456 Yrths)
-        mass: 9.918 × 10<sup>25</sup> kg<br />(21.401271807654613 Yrths)
+        mass: 9.918 × 10<sup>25</sup> kg<br />(16.608 Yrths)
         density: 1.264 g/cm<sup>3</sup>
         surface_gravity: 9.371 m/s<sup>2</sup><br />(0.956 g<sub>0</sub>)
         escape_velocity: 22.327 km/s<br />(80,376 km/h)
         rotation_period: 78.982 d
         axial_tilt: 14.17°
         albedo: 0.30
-        temperature: 854 K<br />(581 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0087 Nuaniad III e
         type: Icy
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 25,852.3 km<br/>(4.058 Yrths)
         surface_area: 8.399 × 10<sup>09</sup> km<sup>2</sup><br/>(16.466 Yrths)
         volume: 7.237 × 10<sup>13</sup> km<sup>3</sup><br/>(66.815 Yrths)
-        mass: 8.432 × 10<sup>25</sup> kg<br />(21.401271807654613 Yrths)
+        mass: 8.432 × 10<sup>25</sup> kg<br />(14.120 Yrths)
         density: 1.165 g/cm<sup>3</sup>
         surface_gravity: 8.409 m/s<sup>2</sup><br />(0.858 g<sub>0</sub>)
         escape_velocity: 20.866 km/s<br />(75,118 km/h)
         rotation_period: 52.673 d
         axial_tilt: 10.19°
         albedo: 0.30
-        temperature: 612 K<br />(339 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0087 Nuaniad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -304,14 +304,14 @@ planets:
         radius: 31,436.3 km<br/>(4.934 Yrths)
         surface_area: 1.242 × 10<sup>10</sup> km<sup>2</sup><br/>(24.347 Yrths)
         volume: 1.301 × 10<sup>14</sup> km<sup>3</sup><br/>(120.135 Yrths)
-        mass: 2.156 × 10<sup>26</sup> kg<br />(21.401271807654613 Yrths)
+        mass: 2.156 × 10<sup>26</sup> kg<br />(36.108 Yrths)
         density: 1.657 g/cm<sup>3</sup>
         surface_gravity: 14.544 m/s<sup>2</sup><br />(1.483 g<sub>0</sub>)
         escape_velocity: 30.260 km/s<br />(108,935 km/h)
         rotation_period: 75.531 d
         axial_tilt: 25.73°
         albedo: 0.30
-        temperature: 583 K<br />(310 °C)
+        temperature: 159 K<br />(-114 °C)
   - name: 0087 Nuaniad IV
     type: Large terrestrial
     aphelion: 361,660,007 km<br />2.418 AU
@@ -323,14 +323,14 @@ planets:
     radius: 9,837.5 km<br/>(1.544 Yrths)
     surface_area: 1.216 × 10<sup>09</sup> km<sup>2</sup><br/>(2.384 Yrths)
     volume: 3.988 × 10<sup>12</sup> km<sup>3</sup><br/>(3.682 Yrths)
-    mass: 2.881 × 10<sup>25</sup> kg<br />(4.824727993100313 Yrths)
+    mass: 2.881 × 10<sup>25</sup> kg<br />(4.82 Yrths)
     density: 7.225 g/cm<sup>3</sup>
     surface_gravity: 19.844 m/s<sup>2</sup><br />(2.024 g<sub>0</sub>)
     escape_velocity: 19.773 km/s<br />(71,183 km/h)
     rotation_period: 0.935 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 153 K<br />(-120 °C)
+    temperature: 193 K<br />(-80 °C)
     surface_pressure: 79 kPa<br />(1 atm)
     composition:
       - 98.0210% methane
@@ -349,14 +349,14 @@ planets:
         radius: 9,827.5 km<br/>(1.543 Yrths)
         surface_area: 1.214 × 10<sup>09</sup> km<sup>2</sup><br/>(2.379 Yrths)
         volume: 3.976 × 10<sup>12</sup> km<sup>3</sup><br/>(3.670 Yrths)
-        mass: 1.108 × 10<sup>25</sup> kg<br />(4.824727993100313 Yrths)
+        mass: 1.108 × 10<sup>25</sup> kg<br />(1.855 Yrths)
         density: 2.786 g/cm<sup>3</sup>
         surface_gravity: 7.644 m/s<sup>2</sup><br />(0.779 g<sub>0</sub>)
         escape_velocity: 12.266 km/s<br />(44,157 km/h)
         rotation_period: 36.264 d
         axial_tilt: 17.84°
         albedo: 0.30
-        temperature: 1385 K<br />(1112 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 0087 Nuaniad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -369,14 +369,14 @@ planets:
         radius: 8,574.9 km<br/>(1.346 Yrths)
         surface_area: 9.240 × 10<sup>08</sup> km<sup>2</sup><br/>(1.812 Yrths)
         volume: 2.641 × 10<sup>12</sup> km<sup>3</sup><br/>(2.438 Yrths)
-        mass: 5.767 × 10<sup>24</sup> kg<br />(4.824727993100313 Yrths)
+        mass: 5.767 × 10<sup>24</sup> kg<br />(0.966 Yrths)
         density: 2.184 g/cm<sup>3</sup>
         surface_gravity: 5.228 m/s<sup>2</sup><br />(0.533 g<sub>0</sub>)
         escape_velocity: 9.475 km/s<br />(34,110 km/h)
         rotation_period: 43.860 d
         axial_tilt: 27.03°
         albedo: 0.30
-        temperature: 1320 K<br />(1047 °C)
+        temperature: 125 K<br />(-148 °C)
   - name: 0087 Nuaniad V
     type: Large terrestrial
     aphelion: 586,085,801 km<br />3.918 AU
@@ -388,14 +388,14 @@ planets:
     radius: 10,156.2 km<br/>(1.594 Yrths)
     surface_area: 1.296 × 10<sup>09</sup> km<sup>2</sup><br/>(2.541 Yrths)
     volume: 4.388 × 10<sup>12</sup> km<sup>3</sup><br/>(4.051 Yrths)
-    mass: 2.605 × 10<sup>25</sup> kg<br />(4.36159682573449 Yrths)
+    mass: 2.605 × 10<sup>25</sup> kg<br />(4.36 Yrths)
     density: 5.936 g/cm<sup>3</sup>
     surface_gravity: 16.831 m/s<sup>2</sup><br />(1.716 g<sub>0</sub>)
     escape_velocity: 18.503 km/s<br />(66,610 km/h)
     rotation_period: 0.833 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 125 K<br />(-148 °C)
+    temperature: 149 K<br />(-124 °C)
     surface_pressure: 156 kPa<br />(2 atm)
     composition:
       - 82.0052% methane
@@ -417,14 +417,14 @@ planets:
         radius: 3,847.2 km<br/>(0.604 Yrths)
         surface_area: 1.860 × 10<sup>08</sup> km<sup>2</sup><br/>(0.365 Yrths)
         volume: 2.385 × 10<sup>11</sup> km<sup>3</sup><br/>(0.220 Yrths)
-        mass: 7.796 × 10<sup>23</sup> kg<br />(4.36159682573449 Yrths)
+        mass: 7.796 × 10<sup>23</sup> kg<br />(0.131 Yrths)
         density: 3.268 g/cm<sup>3</sup>
         surface_gravity: 3.511 m/s<sup>2</sup><br />(0.358 g<sub>0</sub>)
         escape_velocity: 5.201 km/s<br />(18,723 km/h)
         rotation_period: 50.133 d
         axial_tilt: 11.15°
         albedo: 0.30
-        temperature: 1099 K<br />(826 °C)
+        temperature: 98 K<br />(-175 °C)
       - name: 0087 Nuaniad V b
         type: Icy
         formationType: Captured
@@ -437,14 +437,14 @@ planets:
         radius: 9,346.3 km<br/>(1.467 Yrths)
         surface_area: 1.098 × 10<sup>09</sup> km<sup>2</sup><br/>(2.152 Yrths)
         volume: 3.420 × 10<sup>12</sup> km<sup>3</sup><br/>(3.157 Yrths)
-        mass: 6.498 × 10<sup>24</sup> kg<br />(4.36159682573449 Yrths)
+        mass: 6.498 × 10<sup>24</sup> kg<br />(1.088 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 4.958 m/s<sup>2</sup><br />(0.506 g<sub>0</sub>)
         escape_velocity: 9.633 km/s<br />(34,680 km/h)
         rotation_period: 49.248 d
         axial_tilt: 21.07°
         albedo: 0.30
-        temperature: 1048 K<br />(775 °C)
+        temperature: 98 K<br />(-175 °C)
       - name: 0087 Nuaniad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -457,14 +457,14 @@ planets:
         radius: 6,057.3 km<br/>(0.951 Yrths)
         surface_area: 4.611 × 10<sup>08</sup> km<sup>2</sup><br/>(0.904 Yrths)
         volume: 9.309 × 10<sup>11</sup> km<sup>3</sup><br/>(0.859 Yrths)
-        mass: 1.541 × 10<sup>24</sup> kg<br />(4.36159682573449 Yrths)
+        mass: 1.541 × 10<sup>24</sup> kg<br />(0.258 Yrths)
         density: 1.655 g/cm<sup>3</sup>
         surface_gravity: 2.800 m/s<sup>2</sup><br />(0.285 g<sub>0</sub>)
         escape_velocity: 5.828 km/s<br />(20,979 km/h)
         rotation_period: 59.066 d
         axial_tilt: 18.01°
         albedo: 0.30
-        temperature: 999 K<br />(726 °C)
+        temperature: 98 K<br />(-175 °C)
   - name: 0087 Nuaniad VI
     type: Large terrestrial
     aphelion: 948,782,690 km<br />6.342 AU
@@ -476,14 +476,14 @@ planets:
     radius: 8,782.2 km<br/>(1.378 Yrths)
     surface_area: 9.692 × 10<sup>08</sup> km<sup>2</sup><br/>(1.900 Yrths)
     volume: 2.837 × 10<sup>12</sup> km<sup>3</sup><br/>(2.619 Yrths)
-    mass: 1.623 × 10<sup>25</sup> kg<br />(2.717464889447212 Yrths)
+    mass: 1.623 × 10<sup>25</sup> kg<br />(2.72 Yrths)
     density: 5.720 g/cm<sup>3</sup>
     surface_gravity: 14.025 m/s<sup>2</sup><br />(1.430 g<sub>0</sub>)
     escape_velocity: 15.706 km/s<br />(56,541 km/h)
     rotation_period: 0.839 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 122 K<br />(-151 °C)
+    temperature: 271 K<br />(-2 °C)
     surface_pressure: 439 kPa<br />(4 atm)
     composition:
       - 64.0608% carbon dioxide
@@ -503,12 +503,12 @@ planets:
         radius: 7,447.9 km<br/>(1.169 Yrths)
         surface_area: 6.971 × 10<sup>08</sup> km<sup>2</sup><br/>(1.367 Yrths)
         volume: 1.731 × 10<sup>12</sup> km<sup>3</sup><br/>(1.598 Yrths)
-        mass: 5.297 × 10<sup>24</sup> kg<br />(2.717464889447212 Yrths)
+        mass: 5.297 × 10<sup>24</sup> kg<br />(0.887 Yrths)
         density: 3.061 g/cm<sup>3</sup>
         surface_gravity: 6.365 m/s<sup>2</sup><br />(0.649 g<sub>0</sub>)
         escape_velocity: 9.744 km/s<br />(35,077 km/h)
         rotation_period: 40.806 d
         axial_tilt: 5.85°
         albedo: 0.30
-        temperature: 1086 K<br />(813 °C)
+        temperature: 77 K<br />(-196 °C)
 ---

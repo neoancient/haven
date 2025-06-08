@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3913 Arkothiad is a star in the constellation Arkoth
+      3913 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 489.68 ly
 apparent_magnitude: 11.21
 absolute_magnitude: 5.33

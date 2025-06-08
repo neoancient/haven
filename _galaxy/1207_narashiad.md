@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1207 Narashiad is a star in the constellation Naras
+      1207 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 358.91 ly
 apparent_magnitude: 11.25
 absolute_magnitude: 6.04

@@ -7,7 +7,7 @@ sections:
   - content: >-
       Irsa is a constellation representing a Ship.
 stars:
-  - name:
+  - name: <a href="leranen.html">Leranen</a>
     designation: α Irsaiad
     ra: 7<sup>h</sup> 09<sup>m</sup> 40.35<sup>s</sup>
     dec: -28° 03' 48.93"
@@ -15,7 +15,7 @@ stars:
     absolute_magnitude: -5.86
     distance: 247.93
     spectral_class: B4III + B2V
-  - name:
+  - name: <a href="naishith.html">Naishith</a>
     designation: β Irsaiad
     ra: 6<sup>h</sup> 44<sup>m</sup> 41.51<sup>s</sup>
     dec: -28° 48' 24.88"
@@ -23,7 +23,7 @@ stars:
     absolute_magnitude: -6.23
     distance: 1,148.62
     spectral_class: O8III + B5V
-  - name:
+  - name: <a href="talcu.html">Talcu</a>
     designation: γ Irsaiad
     ra: 6<sup>h</sup> 45<sup>m</sup> 8.84<sup>s</sup>
     dec: -19° 04' 35.28"
@@ -31,7 +31,7 @@ stars:
     absolute_magnitude: -5.65
     distance: 1,021.47
     spectral_class: O9III + B5V + B3V
-  - name:
+  - name: <a href="eden.html">Eden</a>
     designation: δ Irsaiad
     ra: 7<sup>h</sup> 03<sup>m</sup> 29.80<sup>s</sup>
     dec: -31° 16' 7.49"
@@ -39,7 +39,7 @@ stars:
     absolute_magnitude: -2.79
     distance: 293.88
     spectral_class: B5V + K4III + K8III + K8III
-  - name:
+  - name: <a href="gil.html">Gil</a>
     designation: ε Irsaiad
     ra: 7<sup>h</sup> 07<sup>m</sup> 50.45<sup>s</sup>
     dec: -14° 19' 38.47"
@@ -47,7 +47,7 @@ stars:
     absolute_magnitude: -2.58
     distance: 331.23
     spectral_class: B6V + A2V + K3III
-  - name:
+  - name: <a href="fay.html">Fay</a>
     designation: ζ Irsaiad
     ra: 6<sup>h</sup> 24<sup>m</sup> 31.00<sup>s</sup>
     dec: -18° 02' 25.65"
@@ -56,7 +56,7 @@ stars:
     distance: 2,411.58
     spectral_class: B3III + B8V
   - name:
-    designation: η Irsaiad
+    designation: <a href="η_irsaiad.html">η Irsaiad</a>
     ra: 6<sup>h</sup> 17<sup>m</sup> 52.74<sup>s</sup>
     dec: -24° 30' 27.44"
     apparent_magnitude: 3.02
@@ -160,7 +160,7 @@ stars:
     distance: 1,034.02
     spectral_class: B4V
   - name:
-    designation: ψ Irsaiad
+    designation: <a href="ψ_irsaiad.html">ψ Irsaiad</a>
     ra: 6<sup>h</sup> 28<sup>m</sup> 13.73<sup>s</sup>
     dec: -18° 13' 34.66"
     apparent_magnitude: 4.33
@@ -312,7 +312,7 @@ stars:
     distance: 400.04
     spectral_class: A0IV
   - name:
-    designation: 0028 Irsaiad
+    designation: <a href="0028_irsaiad.html">0028 Irsaiad</a>
     ra: 7<sup>h</sup> 37<sup>m</sup> 48.36<sup>s</sup>
     dec: -22° 33' 38.89"
     apparent_magnitude: 4.92
@@ -376,7 +376,7 @@ stars:
     distance: 346.12
     spectral_class: A7III
   - name:
-    designation: 73 Irsaiad
+    designation: <a href="73_irsaiad.html">73 Irsaiad</a>
     ra: 7<sup>h</sup> 47<sup>m</sup> 26.44<sup>s</sup>
     dec: -32° 52' 27.71"
     apparent_magnitude: 5.06
@@ -592,7 +592,7 @@ stars:
     distance: 620.61
     spectral_class: A5III + A1V
   - name:
-    designation: 0006 Irsaiad
+    designation: <a href="0006_irsaiad.html">0006 Irsaiad</a>
     ra: 7<sup>h</sup> 20<sup>m</sup> 31.23<sup>s</sup>
     dec: -35° 52' 14.39"
     apparent_magnitude: 5.36
@@ -688,7 +688,7 @@ stars:
     distance: 251.48
     spectral_class: K6III
   - name:
-    designation: 0033 Irsaiad
+    designation: <a href="0033_irsaiad.html">0033 Irsaiad</a>
     ra: 7<sup>h</sup> 05<sup>m</sup> 7.95<sup>s</sup>
     dec: -20° 42' 19.01"
     apparent_magnitude: 5.46
@@ -696,7 +696,7 @@ stars:
     distance: 711.06
     spectral_class: A2III + A4V + K4III
   - name:
-    designation: 0035 Irsaiad
+    designation: <a href="0035_irsaiad.html">0035 Irsaiad</a>
     ra: 6<sup>h</sup> 55<sup>m</sup> 57.20<sup>s</sup>
     dec: -19° 57' 20.32"
     apparent_magnitude: 5.47
@@ -720,7 +720,7 @@ stars:
     distance: 630.15
     spectral_class: A4III + M7III
   - name:
-    designation: 133 Irsaiad
+    designation: <a href="133_irsaiad.html">133 Irsaiad</a>
     ra: 7<sup>h</sup> 43<sup>m</sup> 23.24<sup>s</sup>
     dec: -28° 31' 58.37"
     apparent_magnitude: 5.50
@@ -728,7 +728,7 @@ stars:
     distance: 272.78
     spectral_class: F1V
   - name:
-    designation: 0103 Irsaiad
+    designation: <a href="0103_irsaiad.html">0103 Irsaiad</a>
     ra: 6<sup>h</sup> 30<sup>m</sup> 18.52<sup>s</sup>
     dec: -34° 29' 40.71"
     apparent_magnitude: 5.52
@@ -760,7 +760,7 @@ stars:
     distance: 224.44
     spectral_class: K7II
   - name:
-    designation: 140 Irsaiad
+    designation: <a href="140_irsaiad.html">140 Irsaiad</a>
     ra: 7<sup>h</sup> 40<sup>m</sup> 53.11<sup>s</sup>
     dec: -29° 13' 34.03"
     apparent_magnitude: 5.54
@@ -816,7 +816,7 @@ stars:
     distance: 289.04
     spectral_class: A9II + M6III
   - name:
-    designation: 0354 Irsaiad
+    designation: <a href="0354_irsaiad.html">0354 Irsaiad</a>
     ra: 7<sup>h</sup> 52<sup>m</sup> 17.74<sup>s</sup>
     dec: -13° 46' 26.27"
     apparent_magnitude: 5.57
@@ -976,7 +976,7 @@ stars:
     distance: 559.34
     spectral_class: A4III
   - name:
-    designation: 0308 Irsaiad
+    designation: <a href="0308_irsaiad.html">0308 Irsaiad</a>
     ra: 7<sup>h</sup> 37<sup>m</sup> 7.00<sup>s</sup>
     dec: -16° 58' 38.28"
     apparent_magnitude: 5.66
@@ -1040,7 +1040,7 @@ stars:
     distance: 241.00
     spectral_class: B9V + K4III + M7III
   - name:
-    designation: 0266 Irsaiad
+    designation: <a href="0266_irsaiad.html">0266 Irsaiad</a>
     ra: 6<sup>h</sup> 16<sup>m</sup> 22.07<sup>s</sup>
     dec: -17° 59' 20.43"
     apparent_magnitude: 5.70
@@ -1064,7 +1064,7 @@ stars:
     distance: 1,093.55
     spectral_class: B7V + M6III + F2V
   - name:
-    designation: 0180 Irsaiad
+    designation: <a href="0180_irsaiad.html">0180 Irsaiad</a>
     ra: 6<sup>h</sup> 42<sup>m</sup> 43.16<sup>s</sup>
     dec: -24° 56' 39.31"
     apparent_magnitude: 5.73
@@ -1096,7 +1096,7 @@ stars:
     distance: 558.27
     spectral_class: A1IV
   - name:
-    designation: 0226 Irsaiad
+    designation: <a href="0226_irsaiad.html">0226 Irsaiad</a>
     ra: 6<sup>h</sup> 13<sup>m</sup> 39.67<sup>s</sup>
     dec: -21° 58' 4.22"
     apparent_magnitude: 5.74
@@ -1104,7 +1104,7 @@ stars:
     distance: 700.98
     spectral_class: A4III
   - name:
-    designation: 0076 Irsaiad
+    designation: <a href="0076_irsaiad.html">0076 Irsaiad</a>
     ra: 6<sup>h</sup> 12<sup>m</sup> 25.47<sup>s</sup>
     dec: -38° 42' 35.16"
     apparent_magnitude: 5.74
@@ -1192,7 +1192,7 @@ stars:
     distance: 378.92
     spectral_class: A5IV + A7V
   - name:
-    designation: 200 Irsaiad
+    designation: <a href="200_irsaiad.html">200 Irsaiad</a>
     ra: 7<sup>h</sup> 41<sup>m</sup> 11.77<sup>s</sup>
     dec: -32° 18' 59.42"
     apparent_magnitude: 5.79
@@ -1248,7 +1248,7 @@ stars:
     distance: 448.60
     spectral_class: A7III
   - name:
-    designation: 0200 Irsaiad
+    designation: <a href="0200_irsaiad.html">0200 Irsaiad</a>
     ra: 7<sup>h</sup> 19<sup>m</sup> 0.06<sup>s</sup>
     dec: -23° 16' 59.10"
     apparent_magnitude: 5.82
@@ -1256,7 +1256,7 @@ stars:
     distance: 312.01
     spectral_class: F0III
   - name:
-    designation: 0141 Irsaiad
+    designation: <a href="0141_irsaiad.html">0141 Irsaiad</a>
     ra: 6<sup>h</sup> 54<sup>m</sup> 3.04<sup>s</sup>
     dec: -28° 11' 34.50"
     apparent_magnitude: 5.82
@@ -1264,7 +1264,7 @@ stars:
     distance: 530.45
     spectral_class: A7II + G8III + K1III
   - name:
-    designation: 0077 Irsaiad
+    designation: <a href="0077_irsaiad.html">0077 Irsaiad</a>
     ra: 7<sup>h</sup> 06<sup>m</sup> 54.35<sup>s</sup>
     dec: -38° 00' 4.36"
     apparent_magnitude: 5.82
@@ -1312,7 +1312,7 @@ stars:
     distance: 44.66
     spectral_class: F6V
   - name:
-    designation: 0088 Irsaiad
+    designation: <a href="0088_irsaiad.html">0088 Irsaiad</a>
     ra: 7<sup>h</sup> 37<sup>m</sup> 15.05<sup>s</sup>
     dec: -35° 05' 49.15"
     apparent_magnitude: 5.84
@@ -1360,7 +1360,7 @@ stars:
     distance: 333.53
     spectral_class: A8III + G4III
   - name:
-    designation: 0135 Irsaiad
+    designation: <a href="0135_irsaiad.html">0135 Irsaiad</a>
     ra: 6<sup>h</sup> 19<sup>m</sup> 24.70<sup>s</sup>
     dec: -28° 33' 21.76"
     apparent_magnitude: 5.86
@@ -1376,7 +1376,7 @@ stars:
     distance: 3,327.51
     spectral_class: B3V + B3V
   - name:
-    designation: 222 Irsaiad
+    designation: <a href="222_irsaiad.html">222 Irsaiad</a>
     ra: 7<sup>h</sup> 47<sup>m</sup> 44.55<sup>s</sup>
     dec: -34° 07' 28.94"
     apparent_magnitude: 5.87
@@ -1472,7 +1472,7 @@ stars:
     distance: 278.22
     spectral_class: K3III
   - name:
-    designation: 0274 Irsaiad
+    designation: <a href="0274_irsaiad.html">0274 Irsaiad</a>
     ra: 6<sup>h</sup> 55<sup>m</sup> 54.31<sup>s</sup>
     dec: -15° 37' 39.07"
     apparent_magnitude: 5.91
@@ -1512,7 +1512,7 @@ stars:
     distance: 380.40
     spectral_class: A7III + F3V
   - name:
-    designation: 0280 Irsaiad
+    designation: <a href="0280_irsaiad.html">0280 Irsaiad</a>
     ra: 6<sup>h</sup> 52<sup>m</sup> 58.10<sup>s</sup>
     dec: -18° 55' 12.03"
     apparent_magnitude: 5.93
@@ -1592,7 +1592,7 @@ stars:
     distance: 720.56
     spectral_class: A4III + M7III
   - name:
-    designation: 257 Irsaiad
+    designation: <a href="257_irsaiad.html">257 Irsaiad</a>
     ra: 7<sup>h</sup> 47<sup>m</sup> 52.28<sup>s</sup>
     dec: -32° 20' 56.53"
     apparent_magnitude: 5.97
@@ -1608,7 +1608,7 @@ stars:
     distance: 655.91
     spectral_class: A5III
   - name:
-    designation: 0335 Irsaiad
+    designation: <a href="0335_irsaiad.html">0335 Irsaiad</a>
     ra: 7<sup>h</sup> 23<sup>m</sup> 56.70<sup>s</sup>
     dec: -13° 22' 56.07"
     apparent_magnitude: 5.98
@@ -1616,7 +1616,7 @@ stars:
     distance: 19.02
     spectral_class: K5V
   - name:
-    designation: 0316 Irsaiad
+    designation: <a href="0316_irsaiad.html">0316 Irsaiad</a>
     ra: 6<sup>h</sup> 10<sup>m</sup> 27.01<sup>s</sup>
     dec: -14° 53' 58.65"
     apparent_magnitude: 5.98
@@ -1648,7 +1648,7 @@ stars:
     distance: 756.64
     spectral_class: A5II + K4III
   - name:
-    designation: 268 Irsaiad
+    designation: <a href="268_irsaiad.html">268 Irsaiad</a>
     ra: 7<sup>h</sup> 40<sup>m</sup> 41.76<sup>s</sup>
     dec: -32° 01' 52.54"
     apparent_magnitude: 6.00
@@ -1664,7 +1664,7 @@ stars:
     distance: 2,937.15
     spectral_class: B2V + B7V
   - name:
-    designation: 0182 Irsaiad
+    designation: <a href="0182_irsaiad.html">0182 Irsaiad</a>
     ra: 6<sup>h</sup> 37<sup>m</sup> 38.58<sup>s</sup>
     dec: -26° 59' 22.78"
     apparent_magnitude: 6.02
@@ -1680,7 +1680,7 @@ stars:
     distance: 1,891.21
     spectral_class: B6V + G6III + K2III
   - name:
-    designation: 0073 Irsaiad
+    designation: <a href="0073_irsaiad.html">0073 Irsaiad</a>
     ra: 6<sup>h</sup> 36<sup>m</sup> 47.73<sup>s</sup>
     dec: -37° 17' 31.25"
     apparent_magnitude: 6.02
@@ -1696,7 +1696,7 @@ stars:
     distance: 435.10
     spectral_class: A6III
   - name:
-    designation: 0320 Irsaiad
+    designation: <a href="0320_irsaiad.html">0320 Irsaiad</a>
     ra: 6<sup>h</sup> 49<sup>m</sup> 5.73<sup>s</sup>
     dec: -12° 35' 34.21"
     apparent_magnitude: 6.03
@@ -1712,7 +1712,7 @@ stars:
     distance: 842.11
     spectral_class: A4III + M6III
   - name:
-    designation: 0318 Irsaiad
+    designation: <a href="0318_irsaiad.html">0318 Irsaiad</a>
     ra: 6<sup>h</sup> 08<sup>m</sup> 29.19<sup>s</sup>
     dec: -12° 37' 43.40"
     apparent_magnitude: 6.04
@@ -1752,7 +1752,7 @@ stars:
     distance: 562.34
     spectral_class: A7III + K7III
   - name:
-    designation: 0187 Irsaiad
+    designation: <a href="0187_irsaiad.html">0187 Irsaiad</a>
     ra: 6<sup>h</sup> 58<sup>m</sup> 58.23<sup>s</sup>
     dec: -23° 16' 52.01"
     apparent_magnitude: 6.05
@@ -1760,7 +1760,7 @@ stars:
     distance: 135.18
     spectral_class: G2III
   - name:
-    designation: 285 Irsaiad
+    designation: <a href="285_irsaiad.html">285 Irsaiad</a>
     ra: 7<sup>h</sup> 36<sup>m</sup> 54.94<sup>s</sup>
     dec: -30° 33' 14.59"
     apparent_magnitude: 6.05
@@ -1768,7 +1768,7 @@ stars:
     distance: 276.02
     spectral_class: G1V
   - name:
-    designation: 0361 Irsaiad
+    designation: <a href="0361_irsaiad.html">0361 Irsaiad</a>
     ra: 6<sup>h</sup> 23<sup>m</sup> 51.66<sup>s</sup>
     dec: -10° 34' 16.06"
     apparent_magnitude: 6.05
@@ -1792,7 +1792,7 @@ stars:
     distance: 1,012.25
     spectral_class: A2III + K1III
   - name:
-    designation: 0350 Irsaiad
+    designation: <a href="0350_irsaiad.html">0350 Irsaiad</a>
     ra: 7<sup>h</sup> 29<sup>m</sup> 45.58<sup>s</sup>
     dec: -11° 13' 10.18"
     apparent_magnitude: 6.07
@@ -1928,7 +1928,7 @@ stars:
     distance: 898.73
     spectral_class: A3III
   - name:
-    designation: 0334 Irsaiad
+    designation: <a href="0334_irsaiad.html">0334 Irsaiad</a>
     ra: 7<sup>h</sup> 11<sup>m</sup> 45.11<sup>s</sup>
     dec: -14° 31' 47.66"
     apparent_magnitude: 6.11
@@ -1936,7 +1936,7 @@ stars:
     distance: 1,505.82
     spectral_class: A0II + K3III + K9III + M9III
   - name:
-    designation: 0101 Irsaiad
+    designation: <a href="0101_irsaiad.html">0101 Irsaiad</a>
     ra: 6<sup>h</sup> 11<sup>m</sup> 9.20<sup>s</sup>
     dec: -32° 50' 6.51"
     apparent_magnitude: 6.12
@@ -1960,7 +1960,7 @@ stars:
     distance: 434.55
     spectral_class: A6IV + G4V
   - name:
-    designation: 317 Irsaiad
+    designation: <a href="317_irsaiad.html">317 Irsaiad</a>
     ra: 7<sup>h</sup> 37<sup>m</sup> 2.35<sup>s</sup>
     dec: -34° 42' 25.01"
     apparent_magnitude: 6.13
@@ -1968,7 +1968,7 @@ stars:
     distance: 267.68
     spectral_class: G9V
   - name:
-    designation: 0324 Irsaiad
+    designation: <a href="0324_irsaiad.html">0324 Irsaiad</a>
     ra: 6<sup>h</sup> 41<sup>m</sup> 40.28<sup>s</sup>
     dec: -13° 28' 22.08"
     apparent_magnitude: 6.14
@@ -2008,7 +2008,7 @@ stars:
     distance: 422.41
     spectral_class: A8III + K9III
   - name:
-    designation: 0283 Irsaiad
+    designation: <a href="0283_irsaiad.html">0283 Irsaiad</a>
     ra: 6<sup>h</sup> 39<sup>m</sup> 56.64<sup>s</sup>
     dec: -16° 19' 19.71"
     apparent_magnitude: 6.15
@@ -2016,7 +2016,7 @@ stars:
     distance: 260.75
     spectral_class: A2V + F5V + F2V + M6III
   - name:
-    designation: 0355 Irsaiad
+    designation: <a href="0355_irsaiad.html">0355 Irsaiad</a>
     ra: 7<sup>h</sup> 32<sup>m</sup> 49.74<sup>s</sup>
     dec: -13° 24' 5.91"
     apparent_magnitude: 6.15
@@ -2104,7 +2104,7 @@ stars:
     distance: 3,037.11
     spectral_class: B1V + B7V
   - name:
-    designation: 0309 Irsaiad
+    designation: <a href="0309_irsaiad.html">0309 Irsaiad</a>
     ra: 7<sup>h</sup> 39<sup>m</sup> 25.41<sup>s</sup>
     dec: -17° 10' 53.12"
     apparent_magnitude: 6.19
@@ -2144,7 +2144,7 @@ stars:
     distance: 166.66
     spectral_class: A5V
   - name:
-    designation: 0358 Irsaiad
+    designation: <a href="0358_irsaiad.html">0358 Irsaiad</a>
     ra: 7<sup>h</sup> 38<sup>m</sup> 11.59<sup>s</sup>
     dec: -11° 32' 10.11"
     apparent_magnitude: 6.20
@@ -2192,7 +2192,7 @@ stars:
     distance: 551.76
     spectral_class: A7III
   - name:
-    designation: 0193 Irsaiad
+    designation: <a href="0193_irsaiad.html">0193 Irsaiad</a>
     ra: 7<sup>h</sup> 22<sup>m</sup> 47.53<sup>s</sup>
     dec: -24° 13' 23.59"
     apparent_magnitude: 6.22
@@ -2304,7 +2304,7 @@ stars:
     distance: 691.71
     spectral_class: A6III
   - name:
-    designation: 0137 Irsaiad
+    designation: <a href="0137_irsaiad.html">0137 Irsaiad</a>
     ra: 6<sup>h</sup> 33<sup>m</sup> 21.10<sup>s</sup>
     dec: -30° 51' 34.47"
     apparent_magnitude: 6.25
@@ -2504,7 +2504,7 @@ stars:
     distance: 1,117.57
     spectral_class: A1III
   - name:
-    designation: 0345 Irsaiad
+    designation: <a href="0345_irsaiad.html">0345 Irsaiad</a>
     ra: 7<sup>h</sup> 25<sup>m</sup> 14.48<sup>s</sup>
     dec: -12° 43' 42.29"
     apparent_magnitude: 6.29
@@ -2632,7 +2632,7 @@ stars:
     distance: 2,710.33
     spectral_class: B4V
   - name:
-    designation: 0347 Irsaiad
+    designation: <a href="0347_irsaiad.html">0347 Irsaiad</a>
     ra: 6<sup>h</sup> 59<sup>m</sup> 27.31<sup>s</sup>
     dec: -13° 40' 41.64"
     apparent_magnitude: 6.33
@@ -2664,7 +2664,7 @@ stars:
     distance: 385.11
     spectral_class: A8III
   - name:
-    designation: 0092 Irsaiad
+    designation: <a href="0092_irsaiad.html">0092 Irsaiad</a>
     ra: 7<sup>h</sup> 44<sup>m</sup> 36.01<sup>s</sup>
     dec: -34° 44' 41.23"
     apparent_magnitude: 6.33
@@ -2696,7 +2696,7 @@ stars:
     distance: 283.11
     spectral_class: A9III
   - name:
-    designation: 0147 Irsaiad
+    designation: <a href="0147_irsaiad.html">0147 Irsaiad</a>
     ra: 6<sup>h</sup> 44<sup>m</sup> 47.63<sup>s</sup>
     dec: -29° 20' 10.27"
     apparent_magnitude: 6.35
@@ -2784,7 +2784,7 @@ stars:
     distance: 185.62
     spectral_class: A5V + M8III
   - name:
-    designation: 0356 Irsaiad
+    designation: <a href="0356_irsaiad.html">0356 Irsaiad</a>
     ra: 7<sup>h</sup> 38<sup>m</sup> 27.73<sup>s</sup>
     dec: -13° 12' 57.14"
     apparent_magnitude: 6.37
@@ -2848,7 +2848,7 @@ stars:
     distance: 1,389.55
     spectral_class: A5II + A3V
   - name:
-    designation: 0286 Irsaiad
+    designation: <a href="0286_irsaiad.html">0286 Irsaiad</a>
     ra: 7<sup>h</sup> 04<sup>m</sup> 49.40<sup>s</sup>
     dec: -18° 42' 17.95"
     apparent_magnitude: 6.38
@@ -2960,7 +2960,7 @@ stars:
     distance: 963.86
     spectral_class: A3III
   - name:
-    designation: 0146 Irsaiad
+    designation: <a href="0146_irsaiad.html">0146 Irsaiad</a>
     ra: 7<sup>h</sup> 09<sup>m</sup> 57.02<sup>s</sup>
     dec: -27° 48' 45.17"
     apparent_magnitude: 6.40
@@ -3000,7 +3000,7 @@ stars:
     distance: 313.94
     spectral_class: A1V + A9V
   - name:
-    designation: 0221 Irsaiad
+    designation: <a href="0221_irsaiad.html">0221 Irsaiad</a>
     ra: 6<sup>h</sup> 31<sup>m</sup> 42.87<sup>s</sup>
     dec: -21° 00' 39.83"
     apparent_magnitude: 6.40
@@ -3016,7 +3016,7 @@ stars:
     distance: 1,448.22
     spectral_class: A4II + A6V + DQ + K0II
   - name:
-    designation: 0357 Irsaiad
+    designation: <a href="0357_irsaiad.html">0357 Irsaiad</a>
     ra: 7<sup>h</sup> 43<sup>m</sup> 59.57<sup>s</sup>
     dec: -11° 42' 24.08"
     apparent_magnitude: 6.41
@@ -3048,7 +3048,7 @@ stars:
     distance: 711.21
     spectral_class: A2IV
   - name:
-    designation: 0227 Irsaiad
+    designation: <a href="0227_irsaiad.html">0227 Irsaiad</a>
     ra: 6<sup>h</sup> 25<sup>m</sup> 38.56<sup>s</sup>
     dec: -23° 20' 42.27"
     apparent_magnitude: 6.42
@@ -3080,7 +3080,7 @@ stars:
     distance: 871.19
     spectral_class: A4III + M1III
   - name:
-    designation: 0325 Irsaiad
+    designation: <a href="0325_irsaiad.html">0325 Irsaiad</a>
     ra: 6<sup>h</sup> 41<sup>m</sup> 48.98<sup>s</sup>
     dec: -11° 49' 58.35"
     apparent_magnitude: 6.42
@@ -3136,7 +3136,7 @@ stars:
     distance: 1,476.58
     spectral_class: A3II
   - name:
-    designation: 0339 Irsaiad
+    designation: <a href="0339_irsaiad.html">0339 Irsaiad</a>
     ra: 7<sup>h</sup> 02<sup>m</sup> 45.03<sup>s</sup>
     dec: -13° 37' 21.57"
     apparent_magnitude: 6.43
@@ -3168,7 +3168,7 @@ stars:
     distance: 2,534.15
     spectral_class: G2Ib
   - name:
-    designation: 0062 Irsaiad
+    designation: <a href="0062_irsaiad.html">0062 Irsaiad</a>
     ra: 7<sup>h</sup> 41<sup>m</sup> 1.13<sup>s</sup>
     dec: -38° 54' 59.09"
     apparent_magnitude: 6.45
@@ -3184,7 +3184,7 @@ stars:
     distance: 1,074.46
     spectral_class: A6II
   - name:
-    designation: 0332 Irsaiad
+    designation: <a href="0332_irsaiad.html">0332 Irsaiad</a>
     ra: 7<sup>h</sup> 22<sup>m</sup> 3.75<sup>s</sup>
     dec: -11° 32' 11.27"
     apparent_magnitude: 6.46
@@ -3208,7 +3208,7 @@ stars:
     distance: 303.10
     spectral_class: F6III + DO
   - name:
-    designation: 0250 Irsaiad
+    designation: <a href="0250_irsaiad.html">0250 Irsaiad</a>
     ra: 7<sup>h</sup> 41<sup>m</sup> 45.33<sup>s</sup>
     dec: -19° 14' 39.29"
     apparent_magnitude: 6.46
@@ -3344,7 +3344,7 @@ stars:
     distance: 415.00
     spectral_class: A6IV
   - name:
-    designation: 535 Irsaiad
+    designation: <a href="535_irsaiad.html">535 Irsaiad</a>
     ra: 7<sup>h</sup> 51<sup>m</sup> 27.82<sup>s</sup>
     dec: -25° 33' 27.56"
     apparent_magnitude: 6.50
@@ -3360,7 +3360,7 @@ stars:
     distance: 286.24
     spectral_class: K5III
   - name:
-    designation: 598 Irsaiad
+    designation: <a href="598_irsaiad.html">598 Irsaiad</a>
     ra: 7<sup>h</sup> 44<sup>m</sup> 25.35<sup>s</sup>
     dec: -35° 32' 44.61"
     apparent_magnitude: 6.58
@@ -3376,7 +3376,7 @@ stars:
     distance: 313.05
     spectral_class: A9V
   - name:
-    designation: 628 Irsaiad
+    designation: <a href="628_irsaiad.html">628 Irsaiad</a>
     ra: 7<sup>h</sup> 48<sup>m</sup> 8.39<sup>s</sup>
     dec: -32° 15' 42.26"
     apparent_magnitude: 6.62
@@ -3384,7 +3384,7 @@ stars:
     distance: 306.10
     spectral_class: G0V
   - name:
-    designation: 649 Irsaiad
+    designation: <a href="649_irsaiad.html">649 Irsaiad</a>
     ra: 7<sup>h</sup> 51<sup>m</sup> 39.08<sup>s</sup>
     dec: -27° 24' 27.79"
     apparent_magnitude: 6.64
@@ -3400,7 +3400,7 @@ stars:
     distance: 317.25
     spectral_class: F0V
   - name:
-    designation: 684 Irsaiad
+    designation: <a href="684_irsaiad.html">684 Irsaiad</a>
     ra: 7<sup>h</sup> 38<sup>m</sup> 20.21<sup>s</sup>
     dec: -29° 22' 0.87"
     apparent_magnitude: 6.68
@@ -3432,7 +3432,7 @@ stars:
     distance: 298.21
     spectral_class: G2V
   - name:
-    designation: 922 Irsaiad
+    designation: <a href="922_irsaiad.html">922 Irsaiad</a>
     ra: 7<sup>h</sup> 51<sup>m</sup> 41.39<sup>s</sup>
     dec: -26° 31' 52.20"
     apparent_magnitude: 6.90
@@ -3456,7 +3456,7 @@ stars:
     distance: 316.59
     spectral_class: M8Ib
   - name:
-    designation: 1168 Irsaiad
+    designation: <a href="1168_irsaiad.html">1168 Irsaiad</a>
     ra: 7<sup>h</sup> 52<sup>m</sup> 3.66<sup>s</sup>
     dec: -35° 38' 55.15"
     apparent_magnitude: 7.07
@@ -3464,7 +3464,7 @@ stars:
     distance: 313.06
     spectral_class: G6V
   - name:
-    designation: 1193 Irsaiad
+    designation: <a href="1193_irsaiad.html">1193 Irsaiad</a>
     ra: 7<sup>h</sup> 38<sup>m</sup> 16.87<sup>s</sup>
     dec: -35° 14' 48.88"
     apparent_magnitude: 7.08
@@ -3480,7 +3480,7 @@ stars:
     distance: 333.96
     spectral_class: Magnetar + K0III
   - name:
-    designation: 1244 Irsaiad
+    designation: <a href="1244_irsaiad.html">1244 Irsaiad</a>
     ra: 7<sup>h</sup> 45<sup>m</sup> 47.75<sup>s</sup>
     dec: -39° 07' 34.40"
     apparent_magnitude: 7.12
@@ -3504,7 +3504,7 @@ stars:
     distance: 328.04
     spectral_class: F5V + F8V
   - name:
-    designation: 1465 Irsaiad
+    designation: <a href="1465_irsaiad.html">1465 Irsaiad</a>
     ra: 7<sup>h</sup> 50<sup>m</sup> 41.17<sup>s</sup>
     dec: -31° 18' 38.25"
     apparent_magnitude: 7.23
@@ -3512,7 +3512,7 @@ stars:
     distance: 325.88
     spectral_class: K6V + K3V + G4V
   - name:
-    designation: 1505 Irsaiad
+    designation: <a href="1505_irsaiad.html">1505 Irsaiad</a>
     ra: 7<sup>h</sup> 34<sup>m</sup> 56.09<sup>s</sup>
     dec: -33° 05' 53.62"
     apparent_magnitude: 7.25
@@ -3584,7 +3584,7 @@ stars:
     distance: 354.95
     spectral_class: A9V
   - name:
-    designation: 5412 Irsaiad
+    designation: <a href="5412_irsaiad.html">5412 Irsaiad</a>
     ra: 7<sup>h</sup> 38<sup>m</sup> 12.74<sup>s</sup>
     dec: -31° 46' 10.69"
     apparent_magnitude: 8.18
@@ -3599,12 +3599,12 @@ stars:
     absolute_magnitude: 2.99
     distance: 402.90
     spectral_class: G5II
-  - name: 
+  - name:
     designation: <a href="13571_irsaiad.html">13571 Irsaiad</a>
     ra: 6<sup>h</sup> 22<sup>m</sup> 24.00<sup>s</sup>
     dec: -12° 41' 60.00"
-    apparent_magnitude: 8.84
-    absolute_magnitude: 3.58
+    apparent_magnitude: 10.27
+    absolute_magnitude: 5.01
     distance: 367.87
-    spectral_class: G8III
+    spectral_class: F5V
 ---

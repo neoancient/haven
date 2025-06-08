@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5476 Noniashad is a star in the constellation Nonias
+      5476 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 189.94 ly
 apparent_magnitude: 7.98
 absolute_magnitude: 4.16
@@ -31,14 +31,14 @@ planets:
     radius: 195.9 km<br/>(0.031 Yrths)
     surface_area: 4.821 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.147 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.456 × 10<sup>26</sup> kg<br />(158.33156946160045 Yrths)
+    mass: 9.456 × 10<sup>26</sup> kg<br />(158.33 Yrths)
     density: 30042589.215 g/cm<sup>3</sup>
     surface_gravity: 1642842.154 m/s<sup>2</sup><br />(167523.278 g<sub>0</sub>)
     escape_velocity: 802.758 km/s<br />(2,889,929 km/h)
     rotation_period: 0.251 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1289 K<br />(1016 °C)
+    temperature: 1227 K<br />(954 °C)
     composition:
       - 52.1428% hydrogen
       - 43.3924% helium
@@ -56,14 +56,14 @@ planets:
         radius: 151,038.1 km<br/>(23.707 Yrths)
         surface_area: 2.867 × 10<sup>11</sup> km<sup>2</sup><br/>(562.028 Yrths)
         volume: 1.443 × 10<sup>16</sup> km<sup>3</sup><br/>(13324.067 Yrths)
-        mass: 1.936 × 10<sup>28</sup> kg<br />(158.33156946160045 Yrths)
+        mass: 1.936 × 10<sup>28</sup> kg<br />(3241.434 Yrths)
         density: 1.341 g/cm<sup>3</sup>
         surface_gravity: 56.559 m/s<sup>2</sup><br />(5.767 g<sub>0</sub>)
         escape_velocity: 130.799 km/s<br />(470,875 km/h)
         rotation_period: 53.844 d
         axial_tilt: 7.19°
         albedo: 0.30
-        temperature: 1482 K<br />(1209 °C)
+        temperature: 321 K<br />(48 °C)
       - name: 5476 Noniashad I b
         type: Icy
         formationType: Captured
@@ -76,15 +76,35 @@ planets:
         radius: 164,865.9 km<br/>(25.878 Yrths)
         surface_area: 3.416 × 10<sup>11</sup> km<sup>2</sup><br/>(669.648 Yrths)
         volume: 1.877 × 10<sup>16</sup> km<sup>3</sup><br/>(17328.860 Yrths)
-        mass: 1.563 × 10<sup>28</sup> kg<br />(158.33156946160045 Yrths)
+        mass: 1.563 × 10<sup>28</sup> kg<br />(2617.165 Yrths)
         density: 0.833 g/cm<sup>3</sup>
         surface_gravity: 38.327 m/s<sup>2</sup><br />(3.908 g<sub>0</sub>)
         escape_velocity: 112.494 km/s<br />(404,977 km/h)
         rotation_period: 57.880 d
         axial_tilt: 19.30°
         albedo: 0.30
-        temperature: 1285 K<br />(1011 °C)
+        temperature: 321 K<br />(48 °C)
       - name: 5476 Noniashad I c
+        type: Icy
+        formationType: Captured
+        aphelion: 20,217,113 km<br />
+        perihelion: 16,558,298 km<br />
+        semi_major_axis: 18,387,706 km<br />
+        eccentricity: 0.099
+        orbital_period: 0.00 d<br />
+        inclination: 4.58°
+        radius: 34,488.6 km<br/>(5.413 Yrths)
+        surface_area: 1.495 × 10<sup>10</sup> km<sup>2</sup><br/>(29.305 Yrths)
+        volume: 1.718 × 10<sup>14</sup> km<sup>3</sup><br/>(158.637 Yrths)
+        mass: 1.739 × 10<sup>26</sup> kg<br />(29.114 Yrths)
+        density: 1.012 g/cm<sup>3</sup>
+        surface_gravity: 9.743 m/s<sup>2</sup><br />(0.994 g<sub>0</sub>)
+        escape_velocity: 25.941 km/s<br />(93,389 km/h)
+        rotation_period: 72.544 d
+        axial_tilt: 22.33°
+        albedo: 0.30
+        temperature: 321 K<br />(48 °C)
+      - name: 5476 Noniashad I d
         type: Icy
         formationType: Accreted
         aphelion: 22,250,365 km<br />
@@ -96,15 +116,15 @@ planets:
         radius: 140,823.1 km<br/>(22.104 Yrths)
         surface_area: 2.492 × 10<sup>11</sup> km<sup>2</sup><br/>(488.577 Yrths)
         volume: 1.170 × 10<sup>16</sup> km<sup>3</sup><br/>(10799.392 Yrths)
-        mass: 1.783 × 10<sup>28</sup> kg<br />(158.33156946160045 Yrths)
+        mass: 1.783 × 10<sup>28</sup> kg<br />(2985.370 Yrths)
         density: 1.524 g/cm<sup>3</sup>
         surface_gravity: 59.922 m/s<sup>2</sup><br />(6.110 g<sub>0</sub>)
         escape_velocity: 129.999 km/s<br />(467,996 km/h)
         rotation_period: 57.963 d
         axial_tilt: 13.76°
         albedo: 0.30
-        temperature: 761 K<br />(487 °C)
-      - name: 5476 Noniashad I d
+        temperature: 321 K<br />(48 °C)
+      - name: 5476 Noniashad I e
         type: Icy
         formationType: Captured
         aphelion: 490,018,029 km<br />
@@ -116,15 +136,15 @@ planets:
         radius: 139,799.1 km<br/>(21.943 Yrths)
         surface_area: 2.456 × 10<sup>11</sup> km<sup>2</sup><br/>(481.497 Yrths)
         volume: 1.144 × 10<sup>16</sup> km<sup>3</sup><br/>(10565.512 Yrths)
-        mass: 2.174 × 10<sup>28</sup> kg<br />(158.33156946160045 Yrths)
+        mass: 2.174 × 10<sup>28</sup> kg<br />(3641.127 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 74.159 m/s<sup>2</sup><br />(7.562 g<sub>0</sub>)
         escape_velocity: 144.093 km/s<br />(518,735 km/h)
         rotation_period: 53.285 d
         axial_tilt: 19.05°
         albedo: 0.30
-        temperature: 191 K<br />(-82 °C)
-      - name: 5476 Noniashad I e
+        temperature: 321 K<br />(48 °C)
+      - name: 5476 Noniashad I f
         type: Icy
         formationType: Impact formed
         aphelion: 405,475,671 km<br />
@@ -136,15 +156,15 @@ planets:
         radius: 165,703.5 km<br/>(26.009 Yrths)
         surface_area: 3.450 × 10<sup>11</sup> km<sup>2</sup><br/>(676.469 Yrths)
         volume: 1.906 × 10<sup>16</sup> km<sup>3</sup><br/>(17594.298 Yrths)
-        mass: 2.866 × 10<sup>28</sup> kg<br />(158.33156946160045 Yrths)
+        mass: 2.866 × 10<sup>28</sup> kg<br />(4799.170 Yrths)
         density: 1.504 g/cm<sup>3</sup>
         surface_gravity: 69.573 m/s<sup>2</sup><br />(7.094 g<sub>0</sub>)
         escape_velocity: 151.948 km/s<br />(547,013 km/h)
         rotation_period: 53.186 d
         axial_tilt: 25.71°
         albedo: 0.30
-        temperature: 182 K<br />(-91 °C)
-      - name: 5476 Noniashad I f
+        temperature: 321 K<br />(48 °C)
+      - name: 5476 Noniashad I g
         type: Rocky
         formationType: Accreted
         aphelion: 445,217,367 km<br />
@@ -156,14 +176,14 @@ planets:
         radius: 138,892.2 km<br/>(21.801 Yrths)
         surface_area: 2.424 × 10<sup>11</sup> km<sup>2</sup><br/>(475.270 Yrths)
         volume: 1.122 × 10<sup>16</sup> km<sup>3</sup><br/>(10361.223 Yrths)
-        mass: 3.580 × 10<sup>28</sup> kg<br />(158.33156946160045 Yrths)
+        mass: 3.580 × 10<sup>28</sup> kg<br />(5994.001 Yrths)
         density: 3.189 g/cm<sup>3</sup>
         surface_gravity: 123.679 m/s<sup>2</sup><br />(12.612 g<sub>0</sub>)
         escape_velocity: 185.480 km/s<br />(667,728 km/h)
         rotation_period: 46.455 d
         axial_tilt: 21.60°
         albedo: 0.30
-        temperature: 174 K<br />(-100 °C)
+        temperature: 321 K<br />(48 °C)
   - name: 5476 Noniashad II
     type: Large terrestrial
     aphelion: 227,954,202 km<br />1.524 AU
@@ -175,14 +195,14 @@ planets:
     radius: 11,410.8 km<br/>(1.791 Yrths)
     surface_area: 1.636 × 10<sup>09</sup> km<sup>2</sup><br/>(3.208 Yrths)
     volume: 6.224 × 10<sup>12</sup> km<sup>3</sup><br/>(5.745 Yrths)
-    mass: 3.859 × 10<sup>25</sup> kg<br />(6.461559496260819 Yrths)
+    mass: 3.859 × 10<sup>25</sup> kg<br />(6.46 Yrths)
     density: 6.200 g/cm<sup>3</sup>
     surface_gravity: 19.753 m/s<sup>2</sup><br />(2.014 g<sub>0</sub>)
     escape_velocity: 21.247 km/s<br />(76,488 km/h)
     rotation_period: 0.572 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 366 K<br />(93 °C)
+    temperature: 319 K<br />(45 °C)
     surface_pressure: 3,940 kPa<br />(39 atm)
     composition:
       - 98.2843% nitrogen
@@ -201,14 +221,14 @@ planets:
         radius: 5,333.4 km<br/>(0.837 Yrths)
         surface_area: 3.575 × 10<sup>08</sup> km<sup>2</sup><br/>(0.701 Yrths)
         volume: 6.355 × 10<sup>11</sup> km<sup>3</sup><br/>(0.587 Yrths)
-        mass: 1.884 × 10<sup>24</sup> kg<br />(6.461559496260819 Yrths)
+        mass: 1.884 × 10<sup>24</sup> kg<br />(0.315 Yrths)
         density: 2.964 g/cm<sup>3</sup>
         surface_gravity: 4.414 m/s<sup>2</sup><br />(0.450 g<sub>0</sub>)
         escape_velocity: 6.866 km/s<br />(24,718 km/h)
         rotation_period: 30.221 d
         axial_tilt: 14.26°
         albedo: 0.30
-        temperature: 2694 K<br />(2421 °C)
+        temperature: 246 K<br />(-28 °C)
       - name: 5476 Noniashad II b
         type: Rocky
         formationType: Accreted
@@ -221,14 +241,14 @@ planets:
         radius: 6,694.8 km<br/>(1.051 Yrths)
         surface_area: 5.632 × 10<sup>08</sup> km<sup>2</sup><br/>(1.104 Yrths)
         volume: 1.257 × 10<sup>12</sup> km<sup>3</sup><br/>(1.160 Yrths)
-        mass: 4.163 × 10<sup>24</sup> kg<br />(6.461559496260819 Yrths)
+        mass: 4.163 × 10<sup>24</sup> kg<br />(0.697 Yrths)
         density: 3.312 g/cm<sup>3</sup>
         surface_gravity: 6.191 m/s<sup>2</sup><br />(0.631 g<sub>0</sub>)
         escape_velocity: 9.111 km/s<br />(32,800 km/h)
         rotation_period: 38.401 d
         axial_tilt: 10.57°
         albedo: 0.30
-        temperature: 2569 K<br />(2295 °C)
+        temperature: 246 K<br />(-28 °C)
       - name: 5476 Noniashad II c
         type: Icy
         formationType: Captured
@@ -241,14 +261,14 @@ planets:
         radius: 6,183.6 km<br/>(0.971 Yrths)
         surface_area: 4.805 × 10<sup>08</sup> km<sup>2</sup><br/>(0.942 Yrths)
         volume: 9.904 × 10<sup>11</sup> km<sup>3</sup><br/>(0.914 Yrths)
-        mass: 1.186 × 10<sup>24</sup> kg<br />(6.461559496260819 Yrths)
+        mass: 1.186 × 10<sup>24</sup> kg<br />(0.199 Yrths)
         density: 1.197 g/cm<sup>3</sup>
         surface_gravity: 2.067 m/s<sup>2</sup><br />(0.211 g<sub>0</sub>)
         escape_velocity: 5.059 km/s<br />(18,213 km/h)
         rotation_period: 68.093 d
         axial_tilt: 20.85°
         albedo: 0.30
-        temperature: 2449 K<br />(2176 °C)
+        temperature: 246 K<br />(-28 °C)
       - name: 5476 Noniashad II d
         type: Rocky
         formationType: Impact formed
@@ -261,12 +281,12 @@ planets:
         radius: 6,902.6 km<br/>(1.083 Yrths)
         surface_area: 5.987 × 10<sup>08</sup> km<sup>2</sup><br/>(1.174 Yrths)
         volume: 1.378 × 10<sup>12</sup> km<sup>3</sup><br/>(1.272 Yrths)
-        mass: 3.850 × 10<sup>24</sup> kg<br />(6.461559496260819 Yrths)
+        mass: 3.850 × 10<sup>24</sup> kg<br />(0.645 Yrths)
         density: 2.795 g/cm<sup>3</sup>
         surface_gravity: 5.385 m/s<sup>2</sup><br />(0.549 g<sub>0</sub>)
         escape_velocity: 8.628 km/s<br />(31,062 km/h)
         rotation_period: 48.688 d
         axial_tilt: 23.73°
         albedo: 0.30
-        temperature: 2335 K<br />(2062 °C)
+        temperature: 246 K<br />(-28 °C)
 ---

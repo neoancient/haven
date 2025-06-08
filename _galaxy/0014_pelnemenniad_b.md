@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0014 Pelnemenniad B is a star in the constellation Pelnemen
+      0014 Pelnemenniad B is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 193.07 ly
 apparent_magnitude: 9.14
 absolute_magnitude: 5.28

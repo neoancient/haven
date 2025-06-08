@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1395 Keead is a star in the constellation Kee
+      1395 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 557.56 ly
 apparent_magnitude: 7.71
 absolute_magnitude: 1.55
@@ -31,14 +31,14 @@ planets:
     radius: 156.8 km<br/>(0.025 Yrths)
     surface_area: 3.089 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.615 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.679 × 10<sup>26</sup> kg<br />(61.596564957004155 Yrths)
+    mass: 3.679 × 10<sup>26</sup> kg<br />(61.60 Yrths)
     density: 22783377.584 g/cm<sup>3</sup>
     surface_gravity: 997346.334 m/s<sup>2</sup><br />(101701.023 g<sub>0</sub>)
     escape_velocity: 559.622 km/s<br />(2,014,637 km/h)
     rotation_period: 0.276 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1268 K<br />(994 °C)
+    temperature: 1233 K<br />(960 °C)
     composition:
       - 80.1277% hydrogen
       - 12.6156% helium
@@ -47,6 +47,26 @@ planets:
       - 0.8851% argon
     moons:
       - name: 1395 Keead I a
+        type: Icy
+        formationType: Accreted
+        aphelion: 7,870,616 km<br />
+        perihelion: 6,447,043 km<br />
+        semi_major_axis: 7,158,829 km<br />
+        eccentricity: 0.099
+        orbital_period: 0.04 d<br />
+        inclination: 4.42°
+        radius: 21,045.7 km<br/>(3.303 Yrths)
+        surface_area: 5.566 × 10<sup>09</sup> km<sup>2</sup><br/>(10.912 Yrths)
+        volume: 3.905 × 10<sup>13</sup> km<sup>3</sup><br/>(36.047 Yrths)
+        mass: 6.452 × 10<sup>25</sup> kg<br />(10.804 Yrths)
+        density: 1.652 g/cm<sup>3</sup>
+        surface_gravity: 9.709 m/s<sup>2</sup><br />(0.990 g<sub>0</sub>)
+        escape_velocity: 20.230 km/s<br />(72,826 km/h)
+        rotation_period: 46.177 d
+        axial_tilt: 20.06°
+        albedo: 0.30
+        temperature: 312 K<br />(39 °C)
+      - name: 1395 Keead I b
         type: Rocky
         formationType: Captured
         aphelion: 8,893,412 km<br />
@@ -58,15 +78,15 @@ planets:
         radius: 37,290.3 km<br/>(5.853 Yrths)
         surface_area: 1.747 × 10<sup>10</sup> km<sup>2</sup><br/>(34.259 Yrths)
         volume: 2.172 × 10<sup>14</sup> km<sup>3</sup><br/>(200.523 Yrths)
-        mass: 6.775 × 10<sup>26</sup> kg<br />(61.596564957004155 Yrths)
+        mass: 6.775 × 10<sup>26</sup> kg<br />(113.447 Yrths)
         density: 3.119 g/cm<sup>3</sup>
         surface_gravity: 32.474 m/s<sup>2</sup><br />(3.311 g<sub>0</sub>)
         escape_velocity: 49.247 km/s<br />(177,287 km/h)
         rotation_period: 50.278 d
         axial_tilt: 19.13°
         albedo: 0.30
-        temperature: 2172 K<br />(1899 °C)
-      - name: 1395 Keead I b
+        temperature: 312 K<br />(39 °C)
+      - name: 1395 Keead I c
         type: Rocky
         formationType: Captured
         aphelion: 14,550,701 km<br />
@@ -78,15 +98,15 @@ planets:
         radius: 85,312.3 km<br/>(13.391 Yrths)
         surface_area: 9.146 × 10<sup>10</sup> km<sup>2</sup><br/>(179.311 Yrths)
         volume: 2.601 × 10<sup>15</sup> km<sup>3</sup><br/>(2401.109 Yrths)
-        mass: 7.573 × 10<sup>27</sup> kg<br />(61.596564957004155 Yrths)
+        mass: 7.573 × 10<sup>27</sup> kg<br />(1268.092 Yrths)
         density: 2.912 g/cm<sup>3</sup>
         surface_gravity: 69.353 m/s<sup>2</sup><br />(7.072 g<sub>0</sub>)
         escape_velocity: 108.855 km/s<br />(391,877 km/h)
         rotation_period: 57.811 d
         axial_tilt: 16.52°
         albedo: 0.30
-        temperature: 1712 K<br />(1439 °C)
-      - name: 1395 Keead I c
+        temperature: 312 K<br />(39 °C)
+      - name: 1395 Keead I d
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 28,139,371 km<br />
@@ -98,15 +118,15 @@ planets:
         radius: 59,366.3 km<br/>(9.318 Yrths)
         surface_area: 4.429 × 10<sup>10</sup> km<sup>2</sup><br/>(86.829 Yrths)
         volume: 8.764 × 10<sup>14</sup> km<sup>3</sup><br/>(809.090 Yrths)
-        mass: 1.683 × 10<sup>27</sup> kg<br />(61.596564957004155 Yrths)
+        mass: 1.683 × 10<sup>27</sup> kg<br />(281.799 Yrths)
         density: 1.920 g/cm<sup>3</sup>
         surface_gravity: 31.827 m/s<sup>2</sup><br />(3.245 g<sub>0</sub>)
         escape_velocity: 61.515 km/s<br />(221,452 km/h)
         rotation_period: 53.590 d
         axial_tilt: 26.88°
         albedo: 0.30
-        temperature: 1286 K<br />(1013 °C)
-      - name: 1395 Keead I d
+        temperature: 312 K<br />(39 °C)
+      - name: 1395 Keead I e
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 30,136,719 km<br />
@@ -118,15 +138,35 @@ planets:
         radius: 42,601.8 km<br/>(6.687 Yrths)
         surface_area: 2.281 × 10<sup>10</sup> km<sup>2</sup><br/>(44.714 Yrths)
         volume: 3.239 × 10<sup>14</sup> km<sup>3</sup><br/>(298.993 Yrths)
-        mass: 6.857 × 10<sup>26</sup> kg<br />(61.596564957004155 Yrths)
+        mass: 6.857 × 10<sup>26</sup> kg<br />(114.814 Yrths)
         density: 2.117 g/cm<sup>3</sup>
         surface_gravity: 25.181 m/s<sup>2</sup><br />(2.568 g<sub>0</sub>)
         escape_velocity: 46.351 km/s<br />(166,865 km/h)
         rotation_period: 49.196 d
         axial_tilt: 31.79°
         albedo: 0.30
-        temperature: 1226 K<br />(953 °C)
-      - name: 1395 Keead I e
+        temperature: 312 K<br />(39 °C)
+      - name: 1395 Keead I f
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 29,909,642 km<br />
+        perihelion: 29,898,770 km<br />
+        semi_major_axis: 29,904,206 km<br />
+        eccentricity: 0.000
+        orbital_period: 0.04 d<br />
+        inclination: 0.59°
+        radius: 16,528.6 km<br/>(2.594 Yrths)
+        surface_area: 3.433 × 10<sup>09</sup> km<sup>2</sup><br/>(6.731 Yrths)
+        volume: 1.891 × 10<sup>13</sup> km<sup>3</sup><br/>(17.462 Yrths)
+        mass: 4.323 × 10<sup>25</sup> kg<br />(7.239 Yrths)
+        density: 2.286 g/cm<sup>3</sup>
+        surface_gravity: 10.547 m/s<sup>2</sup><br />(1.076 g<sub>0</sub>)
+        escape_velocity: 18.685 km/s<br />(67,267 km/h)
+        rotation_period: 51.126 d
+        axial_tilt: 9.08°
+        albedo: 0.30
+        temperature: 312 K<br />(39 °C)
+      - name: 1395 Keead I g
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 36,758,626 km<br />
@@ -138,15 +178,15 @@ planets:
         radius: 49,643.4 km<br/>(7.792 Yrths)
         surface_area: 3.097 × 10<sup>10</sup> km<sup>2</sup><br/>(60.717 Yrths)
         volume: 5.125 × 10<sup>14</sup> km<sup>3</sup><br/>(473.111 Yrths)
-        mass: 1.110 × 10<sup>27</sup> kg<br />(61.596564957004155 Yrths)
+        mass: 1.110 × 10<sup>27</sup> kg<br />(185.876 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 30.022 m/s<sup>2</sup><br />(3.061 g<sub>0</sub>)
         escape_velocity: 54.633 km/s<br />(196,680 km/h)
         rotation_period: 51.332 d
         axial_tilt: 23.45°
         albedo: 0.30
-        temperature: 1063 K<br />(790 °C)
-      - name: 1395 Keead I f
+        temperature: 312 K<br />(39 °C)
+      - name: 1395 Keead I h
         type: Icy
         formationType: Accreted
         aphelion: 49,242,310 km<br />
@@ -158,15 +198,15 @@ planets:
         radius: 62,690.0 km<br/>(9.840 Yrths)
         surface_area: 4.939 × 10<sup>10</sup> km<sup>2</sup><br/>(96.823 Yrths)
         volume: 1.032 × 10<sup>15</sup> km<sup>3</sup><br/>(952.733 Yrths)
-        mass: 1.591 × 10<sup>27</sup> kg<br />(61.596564957004155 Yrths)
+        mass: 1.591 × 10<sup>27</sup> kg<br />(266.439 Yrths)
         density: 1.542 g/cm<sup>3</sup>
         surface_gravity: 26.986 m/s<sup>2</sup><br />(2.752 g<sub>0</sub>)
         escape_velocity: 58.207 km/s<br />(209,546 km/h)
         rotation_period: 54.991 d
         axial_tilt: 16.24°
         albedo: 0.30
-        temperature: 1013 K<br />(740 °C)
-      - name: 1395 Keead I g
+        temperature: 312 K<br />(39 °C)
+      - name: 1395 Keead I i
         type: Dwarf planet
         formationType: Captured
         aphelion: 57,858,661 km<br />
@@ -178,15 +218,15 @@ planets:
         radius: 44,823.1 km<br/>(7.035 Yrths)
         surface_area: 2.525 × 10<sup>10</sup> km<sup>2</sup><br/>(49.498 Yrths)
         volume: 3.772 × 10<sup>14</sup> km<sup>3</sup><br/>(348.243 Yrths)
-        mass: 7.670 × 10<sup>26</sup> kg<br />(61.596564957004155 Yrths)
+        mass: 7.670 × 10<sup>26</sup> kg<br />(128.425 Yrths)
         density: 2.033 g/cm<sup>3</sup>
         surface_gravity: 25.444 m/s<sup>2</sup><br />(2.595 g<sub>0</sub>)
         escape_velocity: 47.792 km/s<br />(172,050 km/h)
         rotation_period: 49.358 d
         axial_tilt: 6.35°
         albedo: 0.30
-        temperature: 921 K<br />(648 °C)
-      - name: 1395 Keead I h
+        temperature: 312 K<br />(39 °C)
+      - name: 1395 Keead I j
         type: Icy
         formationType: Accreted
         aphelion: 64,991,424 km<br />
@@ -198,14 +238,14 @@ planets:
         radius: 51,492.6 km<br/>(8.082 Yrths)
         surface_area: 3.332 × 10<sup>10</sup> km<sup>2</sup><br/>(65.324 Yrths)
         volume: 5.719 × 10<sup>14</sup> km<sup>3</sup><br/>(527.973 Yrths)
-        mass: 8.308 × 10<sup>26</sup> kg<br />(61.596564957004155 Yrths)
+        mass: 8.308 × 10<sup>26</sup> kg<br />(139.111 Yrths)
         density: 1.453 g/cm<sup>3</sup>
         surface_gravity: 20.884 m/s<sup>2</sup><br />(2.130 g<sub>0</sub>)
         escape_velocity: 46.407 km/s<br />(167,066 km/h)
         rotation_period: 66.071 d
         axial_tilt: 13.55°
         albedo: 0.30
-        temperature: 838 K<br />(564 °C)
+        temperature: 312 K<br />(39 °C)
   - name: 1395 Keead II
     type: Gas giant
     aphelion: 915,037,347 km<br />6.117 AU
@@ -217,7 +257,7 @@ planets:
     radius: 273.9 km<br/>(0.043 Yrths)
     surface_area: 9.429 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 8.609 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.928 × 10<sup>27</sup> kg<br />(657.7394589742447 Yrths)
+    mass: 3.928 × 10<sup>27</sup> kg<br />(657.74 Yrths)
     density: 45626440.360 g/cm<sup>3</sup>
     surface_gravity: 3489346.650 m/s<sup>2</sup><br />(355814.335 g<sub>0</sub>)
     escape_velocity: 1383.545 km/s<br />(4,980,762 km/h)
@@ -238,14 +278,14 @@ planets:
         radius: 233,106.1 km<br/>(36.589 Yrths)
         surface_area: 6.828 × 10<sup>11</sup> km<sup>2</sup><br/>(1338.728 Yrths)
         volume: 5.306 × 10<sup>16</sup> km<sup>3</sup><br/>(48982.205 Yrths)
-        mass: 1.691 × 10<sup>29</sup> kg<br />(657.7394589742447 Yrths)
+        mass: 1.691 × 10<sup>29</sup> kg<br />(28318.392 Yrths)
         density: 3.187 g/cm<sup>3</sup>
         surface_gravity: 207.442 m/s<sup>2</sup><br />(21.153 g<sub>0</sub>)
         escape_velocity: 311.197 km/s<br />(1,120,309 km/h)
         rotation_period: 39.345 d
         axial_tilt: 36.12°
         albedo: 0.30
-        temperature: 1126 K<br />(853 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 1395 Keead II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -258,14 +298,14 @@ planets:
         radius: 203,904.3 km<br/>(32.005 Yrths)
         surface_area: 5.225 × 10<sup>11</sup> km<sup>2</sup><br/>(1024.324 Yrths)
         volume: 3.551 × 10<sup>16</sup> km<sup>3</sup><br/>(32783.575 Yrths)
-        mass: 8.290 × 10<sup>28</sup> kg<br />(657.7394589742447 Yrths)
+        mass: 8.290 × 10<sup>28</sup> kg<br />(13882.005 Yrths)
         density: 2.335 g/cm<sup>3</sup>
         surface_gravity: 132.903 m/s<sup>2</sup><br />(13.552 g<sub>0</sub>)
         escape_velocity: 232.965 km/s<br />(838,674 km/h)
         rotation_period: 43.142 d
         axial_tilt: 13.55°
         albedo: 0.30
-        temperature: 1024 K<br />(751 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 1395 Keead II c
         type: Icy
         formationType: Impact formed
@@ -278,14 +318,14 @@ planets:
         radius: 466,788.0 km<br/>(73.268 Yrths)
         surface_area: 2.738 × 10<sup>12</sup> km<sup>2</sup><br/>(5368.145 Yrths)
         volume: 4.260 × 10<sup>17</sup> km<sup>3</sup><br/>(393311.202 Yrths)
-        mass: 5.900 × 10<sup>29</sup> kg<br />(657.7394589742447 Yrths)
+        mass: 5.900 × 10<sup>29</sup> kg<br />(98795.637 Yrths)
         density: 1.385 g/cm<sup>3</sup>
         surface_gravity: 180.482 m/s<sup>2</sup><br />(18.404 g<sub>0</sub>)
         escape_velocity: 410.759 km/s<br />(1,478,731 km/h)
         rotation_period: 43.310 d
         axial_tilt: 21.00°
         albedo: 0.30
-        temperature: 887 K<br />(614 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 1395 Keead II d
         type: Dwarf planet
         formationType: Captured
@@ -298,14 +338,14 @@ planets:
         radius: 230,677.7 km<br/>(36.207 Yrths)
         surface_area: 6.687 × 10<sup>11</sup> km<sup>2</sup><br/>(1310.980 Yrths)
         volume: 5.142 × 10<sup>16</sup> km<sup>3</sup><br/>(47467.239 Yrths)
-        mass: 7.904 × 10<sup>28</sup> kg<br />(657.7394589742447 Yrths)
+        mass: 7.904 × 10<sup>28</sup> kg<br />(13235.662 Yrths)
         density: 1.537 g/cm<sup>3</sup>
         surface_gravity: 99.008 m/s<sup>2</sup><br />(10.096 g<sub>0</sub>)
         escape_velocity: 213.869 km/s<br />(769,928 km/h)
         rotation_period: 40.211 d
         axial_tilt: 27.84°
         albedo: 0.30
-        temperature: 212 K<br />(-61 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 1395 Keead II e
         type: Icy
         formationType: Accreted
@@ -318,14 +358,14 @@ planets:
         radius: 215,566.6 km<br/>(33.836 Yrths)
         surface_area: 5.839 × 10<sup>11</sup> km<sup>2</sup><br/>(1144.848 Yrths)
         volume: 4.196 × 10<sup>16</sup> km<sup>3</sup><br/>(38736.625 Yrths)
-        mass: 7.356 × 10<sup>28</sup> kg<br />(657.7394589742447 Yrths)
+        mass: 7.356 × 10<sup>28</sup> kg<br />(12317.310 Yrths)
         density: 1.753 g/cm<sup>3</sup>
         surface_gravity: 105.509 m/s<sup>2</sup><br />(10.759 g<sub>0</sub>)
         escape_velocity: 213.425 km/s<br />(768,329 km/h)
         rotation_period: 53.663 d
         axial_tilt: 18.62°
         albedo: 0.30
-        temperature: 114 K<br />(-159 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 1395 Keead II f
         type: Icy
         formationType: Accreted
@@ -338,12 +378,12 @@ planets:
         radius: 263,389.1 km<br/>(41.342 Yrths)
         surface_area: 8.718 × 10<sup>11</sup> km<sup>2</sup><br/>(1709.151 Yrths)
         volume: 7.654 × 10<sup>16</sup> km<sup>3</sup><br/>(70659.510 Yrths)
-        mass: 1.110 × 10<sup>29</sup> kg<br />(657.7394589742447 Yrths)
+        mass: 1.110 × 10<sup>29</sup> kg<br />(18589.155 Yrths)
         density: 1.450 g/cm<sup>3</sup>
         surface_gravity: 106.660 m/s<sup>2</sup><br />(10.876 g<sub>0</sub>)
         escape_velocity: 237.197 km/s<br />(853,908 km/h)
         rotation_period: 53.966 d
         axial_tilt: 11.83°
         albedo: 0.30
-        temperature: 56 K<br />(-217 °C)
+        temperature: 229 K<br />(-44 °C)
 ---

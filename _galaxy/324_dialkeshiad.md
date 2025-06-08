@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      324 Dialkeshiad is a star in the constellation Dialkes
+      324 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 304.77 ly
 apparent_magnitude: 11.28
 absolute_magnitude: 6.43

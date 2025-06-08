@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      82 Nurranpugiad A is a star in the constellation Nurranpug
+      82 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 1022.21 ly
 apparent_magnitude: 6.55
 absolute_magnitude: -0.93

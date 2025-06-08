@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4929 Athiad is a star in the constellation Ath
+      4929 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 609.35 ly
 apparent_magnitude: 12.05
 absolute_magnitude: 5.70

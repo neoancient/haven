@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2127 Lunaiad A is a star in the constellation Luna
+      2127 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 199.08 ly
 apparent_magnitude: 8.23
 absolute_magnitude: 4.31

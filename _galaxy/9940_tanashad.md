@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9940 Tanashad is a star in the constellation Tanas
+      9940 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 336.04 ly
 apparent_magnitude: 17.12
 absolute_magnitude: 12.05

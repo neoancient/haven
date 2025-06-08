@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0089 Olliad D is a star in the constellation Ol
+      0089 Olliad D is a star in the constellation <a href="ol.html">Ol</a>
 distance: 187.24 ly
 apparent_magnitude: 9.30
 absolute_magnitude: 5.51

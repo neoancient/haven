@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      151556 Arkothiad is a star in the constellation Arkoth
+      151556 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 721.05 ly
 apparent_magnitude: 14.81
 absolute_magnitude: 8.09

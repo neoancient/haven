@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6235 Arkothiad is a star in the constellation Arkoth
+      6235 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 283.80 ly
 apparent_magnitude: 17.22
 absolute_magnitude: 12.52

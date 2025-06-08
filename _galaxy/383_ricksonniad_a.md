@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      383 Ricksonniad A is a star in the constellation Rickson
+      383 Ricksonniad A is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 522.00 ly
 apparent_magnitude: 7.86
 absolute_magnitude: 1.84

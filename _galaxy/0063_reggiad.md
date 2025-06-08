@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0063 Reggiad is a star in the constellation Reg
+      0063 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 2420.37 ly
 apparent_magnitude: 6.30
 absolute_magnitude: -3.05
@@ -31,14 +31,14 @@ planets:
     radius: 29,710.2 km<br/>(4.663 Yrths)
     surface_area: 1.109 × 10<sup>10</sup> km<sup>2</sup><br/>(21.747 Yrths)
     volume: 1.099 × 10<sup>14</sup> km<sup>3</sup><br/>(101.414 Yrths)
-    mass: 1.692 × 10<sup>26</sup> kg<br />(28.33071621949993 Yrths)
+    mass: 1.692 × 10<sup>26</sup> kg<br />(28.33 Yrths)
     density: 1.540 g/cm<sup>3</sup>
     surface_gravity: 12.776 m/s<sup>2</sup><br />(1.303 g<sub>0</sub>)
     escape_velocity: 27.571 km/s<br />(99,256 km/h)
     rotation_period: 0.332 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 3261 K<br />(2988 °C)
+    temperature: 2969 K<br />(2696 °C)
     composition:
       - 92.9331% hydrogen
       - 4.8549% helium
@@ -56,14 +56,14 @@ planets:
         radius: 24,376.7 km<br/>(3.826 Yrths)
         surface_area: 7.467 × 10<sup>09</sup> km<sup>2</sup><br/>(14.640 Yrths)
         volume: 6.068 × 10<sup>13</sup> km<sup>3</sup><br/>(56.015 Yrths)
-        mass: 1.247 × 10<sup>26</sup> kg<br />(28.33071621949993 Yrths)
+        mass: 1.247 × 10<sup>26</sup> kg<br />(20.878 Yrths)
         density: 2.055 g/cm<sup>3</sup>
         surface_gravity: 13.985 m/s<sup>2</sup><br />(1.426 g<sub>0</sub>)
         escape_velocity: 26.130 km/s<br />(94,067 km/h)
         rotation_period: 49.868 d
         axial_tilt: 26.74°
         albedo: 0.30
-        temperature: 17497 K<br />(17224 °C)
+        temperature: 1652 K<br />(1379 °C)
       - name: 0063 Reggiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 44,216.8 km<br/>(6.940 Yrths)
         surface_area: 2.457 × 10<sup>10</sup> km<sup>2</sup><br/>(48.168 Yrths)
         volume: 3.621 × 10<sup>14</sup> km<sup>3</sup><br/>(334.301 Yrths)
-        mass: 7.543 × 10<sup>26</sup> kg<br />(28.33071621949993 Yrths)
+        mass: 7.543 × 10<sup>26</sup> kg<br />(126.298 Yrths)
         density: 2.083 g/cm<sup>3</sup>
         surface_gravity: 25.713 m/s<sup>2</sup><br />(2.622 g<sub>0</sub>)
         escape_velocity: 47.718 km/s<br />(171,785 km/h)
         rotation_period: 50.014 d
         axial_tilt: 9.02°
         albedo: 0.30
-        temperature: 16683 K<br />(16410 °C)
+        temperature: 1652 K<br />(1379 °C)
       - name: 0063 Reggiad I c
         type: Icy
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 40,837.5 km<br/>(6.410 Yrths)
         surface_area: 2.096 × 10<sup>10</sup> km<sup>2</sup><br/>(41.087 Yrths)
         volume: 2.853 × 10<sup>14</sup> km<sup>3</sup><br/>(263.363 Yrths)
-        mass: 4.070 × 10<sup>26</sup> kg<br />(28.33071621949993 Yrths)
+        mass: 4.070 × 10<sup>26</sup> kg<br />(68.149 Yrths)
         density: 1.427 g/cm<sup>3</sup>
         surface_gravity: 16.266 m/s<sup>2</sup><br />(1.659 g<sub>0</sub>)
         escape_velocity: 36.474 km/s<br />(131,305 km/h)
         rotation_period: 56.573 d
         axial_tilt: 22.94°
         albedo: 0.30
-        temperature: 15906 K<br />(15633 °C)
+        temperature: 1652 K<br />(1379 °C)
       - name: 0063 Reggiad I d
         type: Rocky
         formationType: Impact formed
@@ -116,14 +116,14 @@ planets:
         radius: 37,333.9 km<br/>(5.860 Yrths)
         surface_area: 1.752 × 10<sup>10</sup> km<sup>2</sup><br/>(34.339 Yrths)
         volume: 2.180 × 10<sup>14</sup> km<sup>3</sup><br/>(201.228 Yrths)
-        mass: 6.474 × 10<sup>26</sup> kg<br />(28.33071621949993 Yrths)
+        mass: 6.474 × 10<sup>26</sup> kg<br />(108.405 Yrths)
         density: 2.970 g/cm<sup>3</sup>
         surface_gravity: 30.958 m/s<sup>2</sup><br />(3.157 g<sub>0</sub>)
         escape_velocity: 48.112 km/s<br />(173,202 km/h)
         rotation_period: 31.424 d
         axial_tilt: 16.89°
         albedo: 0.30
-        temperature: 15166 K<br />(14893 °C)
+        temperature: 1652 K<br />(1379 °C)
       - name: 0063 Reggiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 19,090.5 km<br/>(2.996 Yrths)
         surface_area: 4.580 × 10<sup>09</sup> km<sup>2</sup><br/>(8.979 Yrths)
         volume: 2.914 × 10<sup>13</sup> km<sup>3</sup><br/>(26.905 Yrths)
-        mass: 5.970 × 10<sup>25</sup> kg<br />(28.33071621949993 Yrths)
+        mass: 5.970 × 10<sup>25</sup> kg<br />(9.996 Yrths)
         density: 2.048 g/cm<sup>3</sup>
         surface_gravity: 10.918 m/s<sup>2</sup><br />(1.113 g<sub>0</sub>)
         escape_velocity: 20.431 km/s<br />(73,551 km/h)
         rotation_period: 52.423 d
         axial_tilt: 24.56°
         albedo: 0.30
-        temperature: 13787 K<br />(13514 °C)
+        temperature: 1652 K<br />(1379 °C)
       - name: 0063 Reggiad I f
         type: Ice/rock hybrid
         formationType: Captured
@@ -156,14 +156,14 @@ planets:
         radius: 20,198.0 km<br/>(3.170 Yrths)
         surface_area: 5.127 × 10<sup>09</sup> km<sup>2</sup><br/>(10.051 Yrths)
         volume: 3.452 × 10<sup>13</sup> km<sup>3</sup><br/>(31.864 Yrths)
-        mass: 8.089 × 10<sup>25</sup> kg<br />(28.33071621949993 Yrths)
+        mass: 8.089 × 10<sup>25</sup> kg<br />(13.544 Yrths)
         density: 2.343 g/cm<sup>3</sup>
         surface_gravity: 13.215 m/s<sup>2</sup><br />(1.348 g<sub>0</sub>)
         escape_velocity: 23.121 km/s<br />(83,235 km/h)
         rotation_period: 48.942 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 13146 K<br />(12873 °C)
+        temperature: 1652 K<br />(1379 °C)
       - name: 0063 Reggiad I g
         type: Asteroid
         formationType: Captured
@@ -176,14 +176,14 @@ planets:
         radius: 21,921.6 km<br/>(3.441 Yrths)
         surface_area: 6.039 × 10<sup>09</sup> km<sup>2</sup><br/>(11.839 Yrths)
         volume: 4.413 × 10<sup>13</sup> km<sup>3</sup><br/>(40.738 Yrths)
-        mass: 1.181 × 10<sup>26</sup> kg<br />(28.33071621949993 Yrths)
+        mass: 1.181 × 10<sup>26</sup> kg<br />(19.772 Yrths)
         density: 2.676 g/cm<sup>3</sup>
         surface_gravity: 16.378 m/s<sup>2</sup><br />(1.670 g<sub>0</sub>)
         escape_velocity: 26.815 km/s<br />(96,532 km/h)
         rotation_period: 52.804 d
         axial_tilt: 40.48°
         albedo: 0.30
-        temperature: 12534 K<br />(12261 °C)
+        temperature: 1652 K<br />(1379 °C)
   - name: 0063 Reggiad II
     type: Gas giant
     aphelion: 967,908,163 km<br />6.470 AU
@@ -195,14 +195,14 @@ planets:
     radius: 197.9 km<br/>(0.031 Yrths)
     surface_area: 4.923 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.248 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.680 × 10<sup>26</sup> kg<br />(162.09120805579116 Yrths)
+    mass: 9.680 × 10<sup>26</sup> kg<br />(162.09 Yrths)
     density: 29801909.310 g/cm<sup>3</sup>
     surface_gravity: 1646888.909 m/s<sup>2</sup><br />(167935.932 g<sub>0</sub>)
     escape_velocity: 807.978 km/s<br />(2,908,722 km/h)
     rotation_period: 0.251 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 4865 K<br />(4592 °C)
+    temperature: 4695 K<br />(4422 °C)
     composition:
       - 80.6557% hydrogen
       - 16.2759% helium
@@ -222,14 +222,14 @@ planets:
         radius: 123,300.8 km<br/>(19.353 Yrths)
         surface_area: 1.910 × 10<sup>11</sup> km<sup>2</sup><br/>(374.556 Yrths)
         volume: 7.852 × 10<sup>15</sup> km<sup>3</sup><br/>(7248.943 Yrths)
-        mass: 1.639 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 1.639 × 10<sup>28</sup> kg<br />(2744.719 Yrths)
         density: 2.088 g/cm<sup>3</sup>
         surface_gravity: 71.862 m/s<sup>2</sup><br />(7.328 g<sub>0</sub>)
         escape_velocity: 133.212 km/s<br />(479,564 km/h)
         rotation_period: 67.285 d
         axial_tilt: 11.59°
         albedo: 0.30
-        temperature: 8779 K<br />(8505 °C)
+        temperature: 1161 K<br />(888 °C)
       - name: 0063 Reggiad II b
         type: Icy
         formationType: Accreted
@@ -242,14 +242,14 @@ planets:
         radius: 165,240.9 km<br/>(25.936 Yrths)
         surface_area: 3.431 × 10<sup>11</sup> km<sup>2</sup><br/>(672.698 Yrths)
         volume: 1.890 × 10<sup>16</sup> km<sup>3</sup><br/>(17447.369 Yrths)
-        mass: 1.898 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 1.898 × 10<sup>28</sup> kg<br />(3177.370 Yrths)
         density: 1.004 g/cm<sup>3</sup>
         surface_gravity: 46.320 m/s<sup>2</sup><br />(4.723 g<sub>0</sub>)
         escape_velocity: 123.809 km/s<br />(445,713 km/h)
         rotation_period: 65.537 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 8370 K<br />(8097 °C)
+        temperature: 1161 K<br />(888 °C)
       - name: 0063 Reggiad II c
         type: Icy
         formationType: Accreted
@@ -262,14 +262,14 @@ planets:
         radius: 159,083.9 km<br/>(24.970 Yrths)
         surface_area: 3.180 × 10<sup>11</sup> km<sup>2</sup><br/>(623.501 Yrths)
         volume: 1.686 × 10<sup>16</sup> km<sup>3</sup><br/>(15568.835 Yrths)
-        mass: 1.350 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 1.350 × 10<sup>28</sup> kg<br />(2259.811 Yrths)
         density: 0.800 g/cm<sup>3</sup>
         surface_gravity: 35.543 m/s<sup>2</sup><br />(3.624 g<sub>0</sub>)
         escape_velocity: 106.414 km/s<br />(383,092 km/h)
         rotation_period: 70.818 d
         axial_tilt: 11.43°
         albedo: 0.30
-        temperature: 7609 K<br />(7336 °C)
+        temperature: 1161 K<br />(888 °C)
       - name: 0063 Reggiad II d
         type: Asteroid
         formationType: Captured
@@ -282,14 +282,14 @@ planets:
         radius: 117,908.5 km<br/>(18.507 Yrths)
         surface_area: 1.747 × 10<sup>11</sup> km<sup>2</sup><br/>(342.512 Yrths)
         volume: 6.866 × 10<sup>15</sup> km<sup>3</sup><br/>(6338.887 Yrths)
-        mass: 1.921 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 1.921 × 10<sup>28</sup> kg<br />(3217.448 Yrths)
         density: 2.798 g/cm<sup>3</sup>
         surface_gravity: 92.121 m/s<sup>2</sup><br />(9.394 g<sub>0</sub>)
         escape_velocity: 147.489 km/s<br />(530,962 km/h)
         rotation_period: 29.652 d
         axial_tilt: 52.63°
         albedo: 0.30
-        temperature: 6917 K<br />(6644 °C)
+        temperature: 1161 K<br />(888 °C)
       - name: 0063 Reggiad II e
         type: Icy
         formationType: Accreted
@@ -302,14 +302,14 @@ planets:
         radius: 235,174.5 km<br/>(36.913 Yrths)
         surface_area: 6.950 × 10<sup>11</sup> km<sup>2</sup><br/>(1362.590 Yrths)
         volume: 5.448 × 10<sup>16</sup> km<sup>3</sup><br/>(50297.641 Yrths)
-        mass: 8.851 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 8.851 × 10<sup>28</sup> kg<br />(14820.830 Yrths)
         density: 1.625 g/cm<sup>3</sup>
         surface_gravity: 106.667 m/s<sup>2</sup><br />(10.877 g<sub>0</sub>)
         escape_velocity: 224.140 km/s<br />(806,903 km/h)
         rotation_period: 47.465 d
         axial_tilt: 21.17°
         albedo: 0.30
-        temperature: 5451 K<br />(5178 °C)
+        temperature: 1161 K<br />(888 °C)
       - name: 0063 Reggiad II f
         type: Icy
         formationType: Accreted
@@ -322,14 +322,14 @@ planets:
         radius: 138,889.3 km<br/>(21.800 Yrths)
         surface_area: 2.424 × 10<sup>11</sup> km<sup>2</sup><br/>(475.250 Yrths)
         volume: 1.122 × 10<sup>16</sup> km<sup>3</sup><br/>(10360.562 Yrths)
-        mass: 1.245 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 1.245 × 10<sup>28</sup> kg<br />(2083.914 Yrths)
         density: 1.109 g/cm<sup>3</sup>
         surface_gravity: 43.001 m/s<sup>2</sup><br />(4.385 g<sub>0</sub>)
         escape_velocity: 109.366 km/s<br />(393,718 km/h)
         rotation_period: 61.055 d
         axial_tilt: 13.61°
         albedo: 0.30
-        temperature: 4955 K<br />(4682 °C)
+        temperature: 1161 K<br />(888 °C)
       - name: 0063 Reggiad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -342,14 +342,14 @@ planets:
         radius: 121,704.2 km<br/>(19.103 Yrths)
         surface_area: 1.861 × 10<sup>11</sup> km<sup>2</sup><br/>(364.918 Yrths)
         volume: 7.551 × 10<sup>15</sup> km<sup>3</sup><br/>(6970.976 Yrths)
-        mass: 1.531 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 1.531 × 10<sup>28</sup> kg<br />(2564.364 Yrths)
         density: 2.028 g/cm<sup>3</sup>
         surface_gravity: 68.914 m/s<sup>2</sup><br />(7.027 g<sub>0</sub>)
         escape_velocity: 129.603 km/s<br />(466,571 km/h)
         rotation_period: 40.894 d
         axial_tilt: 18.36°
         albedo: 0.30
-        temperature: 4725 K<br />(4452 °C)
+        temperature: 1161 K<br />(888 °C)
       - name: 0063 Reggiad II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -362,14 +362,14 @@ planets:
         radius: 201,163.8 km<br/>(31.575 Yrths)
         surface_area: 5.085 × 10<sup>11</sup> km<sup>2</sup><br/>(996.976 Yrths)
         volume: 3.410 × 10<sup>16</sup> km<sup>3</sup><br/>(31479.433 Yrths)
-        mass: 7.585 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 7.585 × 10<sup>28</sup> kg<br />(12700.165 Yrths)
         density: 2.224 g/cm<sup>3</sup>
         surface_gravity: 124.924 m/s<sup>2</sup><br />(12.739 g<sub>0</sub>)
         escape_velocity: 224.340 km/s<br />(807,625 km/h)
         rotation_period: 34.435 d
         axial_tilt: 14.60°
         albedo: 0.30
-        temperature: 4505 K<br />(4232 °C)
+        temperature: 1161 K<br />(888 °C)
       - name: 0063 Reggiad II i
         type: Dwarf planet
         formationType: Accreted
@@ -382,14 +382,14 @@ planets:
         radius: 143,199.5 km<br/>(22.477 Yrths)
         surface_area: 2.577 × 10<sup>11</sup> km<sup>2</sup><br/>(505.205 Yrths)
         volume: 1.230 × 10<sup>16</sup> km<sup>3</sup><br/>(11355.374 Yrths)
-        mass: 2.432 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 2.432 × 10<sup>28</sup> kg<br />(4071.986 Yrths)
         density: 1.977 g/cm<sup>3</sup>
         surface_gravity: 79.042 m/s<sup>2</sup><br />(8.060 g<sub>0</sub>)
         escape_velocity: 150.560 km/s<br />(542,017 km/h)
         rotation_period: 69.699 d
         axial_tilt: 40.69°
         albedo: 0.30
-        temperature: 3550 K<br />(3277 °C)
+        temperature: 1161 K<br />(888 °C)
       - name: 0063 Reggiad II j
         type: Icy
         formationType: Accreted
@@ -402,14 +402,14 @@ planets:
         radius: 150,959.8 km<br/>(23.695 Yrths)
         surface_area: 2.864 × 10<sup>11</sup> km<sup>2</sup><br/>(561.445 Yrths)
         volume: 1.441 × 10<sup>16</sup> km<sup>3</sup><br/>(13303.352 Yrths)
-        mass: 1.588 × 10<sup>28</sup> kg<br />(162.09120805579116 Yrths)
+        mass: 1.588 × 10<sup>28</sup> kg<br />(2658.444 Yrths)
         density: 1.102 g/cm<sup>3</sup>
         surface_gravity: 46.435 m/s<sup>2</sup><br />(4.735 g<sub>0</sub>)
         escape_velocity: 118.484 km/s<br />(426,544 km/h)
         rotation_period: 51.661 d
         axial_tilt: 18.30°
         albedo: 0.30
-        temperature: 2934 K<br />(2661 °C)
+        temperature: 1161 K<br />(888 °C)
   - name: 0063 Reggiad III
     type: Gas dwarf
     aphelion: 1,957,463,520 km<br />13.085 AU
@@ -421,14 +421,14 @@ planets:
     radius: 15,595.3 km<br/>(2.448 Yrths)
     surface_area: 3.056 × 10<sup>09</sup> km<sup>2</sup><br/>(5.992 Yrths)
     volume: 1.589 × 10<sup>13</sup> km<sup>3</sup><br/>(14.668 Yrths)
-    mass: 3.494 × 10<sup>25</sup> kg<br />(5.851159347911961 Yrths)
+    mass: 3.494 × 10<sup>25</sup> kg<br />(5.85 Yrths)
     density: 2.199 g/cm<sup>3</sup>
     surface_gravity: 9.576 m/s<sup>2</sup><br />(0.976 g<sub>0</sub>)
     escape_velocity: 17.294 km/s<br />(62,259 km/h)
     rotation_period: 0.443 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 1226 K<br />(952 °C)
+    temperature: 1096 K<br />(823 °C)
     composition:
       - 87.8348% hydrogen
       - 9.5632% helium
@@ -446,14 +446,14 @@ planets:
         radius: 6,710.5 km<br/>(1.053 Yrths)
         surface_area: 5.659 × 10<sup>08</sup> km<sup>2</sup><br/>(1.109 Yrths)
         volume: 1.266 × 10<sup>12</sup> km<sup>3</sup><br/>(1.169 Yrths)
-        mass: 3.263 × 10<sup>24</sup> kg<br />(5.851159347911961 Yrths)
+        mass: 3.263 × 10<sup>24</sup> kg<br />(0.546 Yrths)
         density: 2.578 g/cm<sup>3</sup>
         surface_gravity: 4.830 m/s<sup>2</sup><br />(0.493 g<sub>0</sub>)
         escape_velocity: 8.057 km/s<br />(29,005 km/h)
         rotation_period: 37.064 d
         axial_tilt: 30.91°
         albedo: 0.30
-        temperature: 11261 K<br />(10988 °C)
+        temperature: 817 K<br />(543 °C)
       - name: 0063 Reggiad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -466,14 +466,14 @@ planets:
         radius: 10,226.3 km<br/>(1.605 Yrths)
         surface_area: 1.314 × 10<sup>09</sup> km<sup>2</sup><br/>(2.576 Yrths)
         volume: 4.480 × 10<sup>12</sup> km<sup>3</sup><br/>(4.136 Yrths)
-        mass: 1.166 × 10<sup>25</sup> kg<br />(5.851159347911961 Yrths)
+        mass: 1.166 × 10<sup>25</sup> kg<br />(1.953 Yrths)
         density: 2.603 g/cm<sup>3</sup>
         surface_gravity: 7.432 m/s<sup>2</sup><br />(0.758 g<sub>0</sub>)
         escape_velocity: 12.337 km/s<br />(44,415 km/h)
         rotation_period: 53.146 d
         axial_tilt: 19.20°
         albedo: 0.30
-        temperature: 10737 K<br />(10464 °C)
+        temperature: 817 K<br />(543 °C)
       - name: 0063 Reggiad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -486,14 +486,14 @@ planets:
         radius: 4,346.0 km<br/>(0.682 Yrths)
         surface_area: 2.374 × 10<sup>08</sup> km<sup>2</sup><br/>(0.465 Yrths)
         volume: 3.438 × 10<sup>11</sup> km<sup>3</sup><br/>(0.317 Yrths)
-        mass: 7.736 × 10<sup>23</sup> kg<br />(5.851159347911961 Yrths)
+        mass: 7.736 × 10<sup>23</sup> kg<br />(0.130 Yrths)
         density: 2.250 g/cm<sup>3</sup>
         surface_gravity: 2.730 m/s<sup>2</sup><br />(0.278 g<sub>0</sub>)
         escape_velocity: 4.874 km/s<br />(17,548 km/h)
         rotation_period: 35.163 d
         axial_tilt: 29.16°
         albedo: 0.30
-        temperature: 10237 K<br />(9964 °C)
+        temperature: 817 K<br />(543 °C)
       - name: 0063 Reggiad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -506,14 +506,14 @@ planets:
         radius: 4,497.4 km<br/>(0.706 Yrths)
         surface_area: 2.542 × 10<sup>08</sup> km<sup>2</sup><br/>(0.498 Yrths)
         volume: 3.810 × 10<sup>11</sup> km<sup>3</sup><br/>(0.352 Yrths)
-        mass: 9.238 × 10<sup>23</sup> kg<br />(5.851159347911961 Yrths)
+        mass: 9.238 × 10<sup>23</sup> kg<br />(0.155 Yrths)
         density: 2.424 g/cm<sup>3</sup>
         surface_gravity: 3.044 m/s<sup>2</sup><br />(0.310 g<sub>0</sub>)
         escape_velocity: 5.236 km/s<br />(18,851 km/h)
         rotation_period: 41.585 d
         axial_tilt: 23.36°
         albedo: 0.30
-        temperature: 9761 K<br />(9488 °C)
+        temperature: 817 K<br />(543 °C)
   - name: 0063 Reggiad IV
     type: Gas giant
     aphelion: 3,959,159,181 km<br />26.465 AU
@@ -525,14 +525,14 @@ planets:
     radius: 247.1 km<br/>(0.039 Yrths)
     surface_area: 7.670 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.316 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.490 × 10<sup>27</sup> kg<br />(416.86770117946764 Yrths)
+    mass: 2.490 × 10<sup>27</sup> kg<br />(416.87 Yrths)
     density: 39414270.434 g/cm<sup>3</sup>
     surface_gravity: 2718630.405 m/s<sup>2</sup><br />(277223.150 g<sub>0</sub>)
     escape_velocity: 1159.794 km/s<br />(4,175,259 km/h)
     rotation_period: 0.228 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2503 K<br />(2230 °C)
+    temperature: 2431 K<br />(2157 °C)
     composition:
       - 79.7768% hydrogen
       - 14.6609% helium
@@ -554,14 +554,14 @@ planets:
         radius: 311,636.4 km<br/>(48.915 Yrths)
         surface_area: 1.220 × 10<sup>12</sup> km<sup>2</sup><br/>(2392.661 Yrths)
         volume: 1.268 × 10<sup>17</sup> km<sup>3</sup><br/>(117036.641 Yrths)
-        mass: 2.572 × 10<sup>29</sup> kg<br />(416.86770117946764 Yrths)
+        mass: 2.572 × 10<sup>29</sup> kg<br />(43064.594 Yrths)
         density: 2.029 g/cm<sup>3</sup>
         surface_gravity: 176.506 m/s<sup>2</sup><br />(17.999 g<sub>0</sub>)
         escape_velocity: 331.905 km/s<br />(1,194,858 km/h)
         rotation_period: 61.789 d
         axial_tilt: 40.26°
         albedo: 0.30
-        temperature: 3066 K<br />(2793 °C)
+        temperature: 574 K<br />(301 °C)
       - name: 0063 Reggiad IV b
         type: Asteroid
         formationType: Captured
@@ -574,14 +574,14 @@ planets:
         radius: 243,919.6 km<br/>(38.286 Yrths)
         surface_area: 7.477 × 10<sup>11</sup> km<sup>2</sup><br/>(1465.812 Yrths)
         volume: 6.079 × 10<sup>16</sup> km<sup>3</sup><br/>(56119.948 Yrths)
-        mass: 1.506 × 10<sup>29</sup> kg<br />(416.86770117946764 Yrths)
+        mass: 1.506 × 10<sup>29</sup> kg<br />(25218.943 Yrths)
         density: 2.478 g/cm<sup>3</sup>
         surface_gravity: 168.721 m/s<sup>2</sup><br />(17.205 g<sub>0</sub>)
         escape_velocity: 287.090 km/s<br />(1,033,523 km/h)
         rotation_period: 31.717 d
         axial_tilt: 42.33°
         albedo: 0.30
-        temperature: 2923 K<br />(2650 °C)
+        temperature: 574 K<br />(301 °C)
       - name: 0063 Reggiad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -594,14 +594,14 @@ planets:
         radius: 240,972.8 km<br/>(37.823 Yrths)
         surface_area: 7.297 × 10<sup>11</sup> km<sup>2</sup><br/>(1430.609 Yrths)
         volume: 5.861 × 10<sup>16</sup> km<sup>3</sup><br/>(54110.477 Yrths)
-        mass: 1.386 × 10<sup>29</sup> kg<br />(416.86770117946764 Yrths)
+        mass: 1.386 × 10<sup>29</sup> kg<br />(23207.898 Yrths)
         density: 2.365 g/cm<sup>3</sup>
         surface_gravity: 159.087 m/s<sup>2</sup><br />(16.222 g<sub>0</sub>)
         escape_velocity: 277.084 km/s<br />(997,503 km/h)
         rotation_period: 32.795 d
         axial_tilt: 17.92°
         albedo: 0.30
-        temperature: 1364 K<br />(1090 °C)
+        temperature: 574 K<br />(301 °C)
       - name: 0063 Reggiad IV d
         type: Icy
         formationType: Accreted
@@ -614,14 +614,14 @@ planets:
         radius: 278,383.6 km<br/>(43.695 Yrths)
         surface_area: 9.739 × 10<sup>11</sup> km<sup>2</sup><br/>(1909.291 Yrths)
         volume: 9.037 × 10<sup>16</sup> km<sup>3</sup><br/>(83427.328 Yrths)
-        mass: 1.091 × 10<sup>29</sup> kg<br />(416.86770117946764 Yrths)
+        mass: 1.091 × 10<sup>29</sup> kg<br />(18271.718 Yrths)
         density: 1.207 g/cm<sup>3</sup>
         surface_gravity: 93.849 m/s<sup>2</sup><br />(9.570 g<sub>0</sub>)
         escape_velocity: 228.742 km/s<br />(823,471 km/h)
         rotation_period: 61.726 d
         axial_tilt: 13.21°
         albedo: 0.30
-        temperature: 1240 K<br />(967 °C)
+        temperature: 574 K<br />(301 °C)
       - name: 0063 Reggiad IV e
         type: Icy
         formationType: Accreted
@@ -634,14 +634,14 @@ planets:
         radius: 267,432.3 km<br/>(41.976 Yrths)
         surface_area: 8.987 × 10<sup>11</sup> km<sup>2</sup><br/>(1762.026 Yrths)
         volume: 8.012 × 10<sup>16</sup> km<sup>3</sup><br/>(73963.689 Yrths)
-        mass: 1.198 × 10<sup>29</sup> kg<br />(416.86770117946764 Yrths)
+        mass: 1.198 × 10<sup>29</sup> kg<br />(20054.697 Yrths)
         density: 1.495 g/cm<sup>3</sup>
         surface_gravity: 111.615 m/s<sup>2</sup><br />(11.382 g<sub>0</sub>)
         escape_velocity: 244.500 km/s<br />(880,200 km/h)
         rotation_period: 50.634 d
         axial_tilt: 21.55°
         albedo: 0.30
-        temperature: 1182 K<br />(909 °C)
+        temperature: 574 K<br />(301 °C)
       - name: 0063 Reggiad IV f
         type: Dwarf planet
         formationType: Accreted
@@ -654,14 +654,14 @@ planets:
         radius: 235,565.7 km<br/>(36.975 Yrths)
         surface_area: 6.973 × 10<sup>11</sup> km<sup>2</sup><br/>(1367.127 Yrths)
         volume: 5.476 × 10<sup>16</sup> km<sup>3</sup><br/>(50549.098 Yrths)
-        mass: 1.196 × 10<sup>29</sup> kg<br />(416.86770117946764 Yrths)
+        mass: 1.196 × 10<sup>29</sup> kg<br />(20022.750 Yrths)
         density: 2.184 g/cm<sup>3</sup>
         surface_gravity: 143.627 m/s<sup>2</sup><br />(14.646 g<sub>0</sub>)
         escape_velocity: 260.306 km/s<br />(937,100 km/h)
         rotation_period: 58.344 d
         axial_tilt: 40.61°
         albedo: 0.30
-        temperature: 931 K<br />(658 °C)
+        temperature: 574 K<br />(301 °C)
       - name: 0063 Reggiad IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -674,14 +674,14 @@ planets:
         radius: 269,676.0 km<br/>(42.329 Yrths)
         surface_area: 9.139 × 10<sup>11</sup> km<sup>2</sup><br/>(1791.716 Yrths)
         volume: 8.215 × 10<sup>16</sup> km<sup>3</sup><br/>(75840.978 Yrths)
-        mass: 1.904 × 10<sup>29</sup> kg<br />(416.86770117946764 Yrths)
+        mass: 1.904 × 10<sup>29</sup> kg<br />(31877.757 Yrths)
         density: 2.317 g/cm<sup>3</sup>
         surface_gravity: 174.477 m/s<sup>2</sup><br />(17.792 g<sub>0</sub>)
         escape_velocity: 306.973 km/s<br />(1,105,104 km/h)
         rotation_period: 39.073 d
         axial_tilt: 15.68°
         albedo: 0.30
-        temperature: 636 K<br />(363 °C)
+        temperature: 574 K<br />(301 °C)
       - name: 0063 Reggiad IV h
         type: Asteroid
         formationType: Captured
@@ -694,12 +694,12 @@ planets:
         radius: 233,768.0 km<br/>(36.693 Yrths)
         surface_area: 6.867 × 10<sup>11</sup> km<sup>2</sup><br/>(1346.341 Yrths)
         volume: 5.351 × 10<sup>16</sup> km<sup>3</sup><br/>(49400.631 Yrths)
-        mass: 1.373 × 10<sup>29</sup> kg<br />(416.86770117946764 Yrths)
+        mass: 1.373 × 10<sup>29</sup> kg<br />(22984.723 Yrths)
         density: 2.565 g/cm<sup>3</sup>
         surface_gravity: 167.419 m/s<sup>2</sup><br />(17.072 g<sub>0</sub>)
         escape_velocity: 279.966 km/s<br />(1,007,877 km/h)
         rotation_period: 46.076 d
         axial_tilt: 23.16°
         albedo: 0.30
-        temperature: 526 K<br />(253 °C)
+        temperature: 574 K<br />(301 °C)
 ---

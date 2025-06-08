@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0032 Nishediad A is a star in the constellation Nishedi
+      0032 Nishediad A is a star in the constellation <a href="nishedi.html">Nishedi</a>
 distance: 290.47 ly
 apparent_magnitude: 6.84
 absolute_magnitude: 2.09

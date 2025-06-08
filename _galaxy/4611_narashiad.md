@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4611 Narashiad is a star in the constellation Naras
+      4611 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 325.03 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 6.04

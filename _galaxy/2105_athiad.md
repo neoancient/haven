@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2105 Athiad is a star in the constellation Ath
+      2105 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 487.33 ly
 apparent_magnitude: 8.45
 absolute_magnitude: 2.58

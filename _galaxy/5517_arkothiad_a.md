@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5517 Arkothiad A is a star in the constellation Arkoth
+      5517 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 256.60 ly
 apparent_magnitude: 8.79
 absolute_magnitude: 4.31

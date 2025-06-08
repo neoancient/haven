@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2074 Oniad is a star in the constellation Oni
+      2074 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 473.38 ly
 apparent_magnitude: 11.01
 absolute_magnitude: 5.20

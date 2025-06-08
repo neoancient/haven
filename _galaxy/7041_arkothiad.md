@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7041 Arkothiad is a star in the constellation Arkoth
+      7041 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 280.81 ly
 apparent_magnitude: 10.04
 absolute_magnitude: 5.37
@@ -31,14 +31,14 @@ planets:
     radius: 4,221.7 km<br/>(0.663 Yrths)
     surface_area: 2.240 × 10<sup>08</sup> km<sup>2</sup><br/>(0.439 Yrths)
     volume: 3.152 × 10<sup>11</sup> km<sup>3</sup><br/>(0.291 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.895 g/cm<sup>3</sup>
     surface_gravity: 2.233 m/s<sup>2</sup><br />(0.228 g<sub>0</sub>)
     escape_velocity: 4.345 km/s<br />(15,644 km/h)
     rotation_period: 3.340 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 423 K<br />(150 °C)
+    temperature: 367 K<br />(94 °C)
     composition:
       - 82.0687% hydrogen
       - 17.9313% helium
@@ -55,14 +55,14 @@ planets:
         radius: 641.2 km<br/>(0.101 Yrths)
         surface_area: 5.167 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.104 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.081 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.081 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.790 g/cm<sup>3</sup>
         surface_gravity: 0.500 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 0.801 km/s<br />(2,883 km/h)
         rotation_period: 49.683 d
         axial_tilt: 44.84°
         albedo: 0.30
-        temperature: 6636 K<br />(6363 °C)
+        temperature: 326 K<br />(53 °C)
       - name: 7041 Arkothiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -75,14 +75,14 @@ planets:
         radius: 648.4 km<br/>(0.102 Yrths)
         surface_area: 5.283 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.142 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.033 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.033 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.780 g/cm<sup>3</sup>
         surface_gravity: 0.322 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.647 km/s<br />(2,329 km/h)
         rotation_period: 72.115 d
         axial_tilt: 17.39°
         albedo: 0.30
-        temperature: 6327 K<br />(6054 °C)
+        temperature: 326 K<br />(53 °C)
       - name: 7041 Arkothiad I c
         type: Dwarf planet
         formationType: Captured
@@ -95,14 +95,14 @@ planets:
         radius: 524.9 km<br/>(0.082 Yrths)
         surface_area: 3.462 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.057 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.266 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.266 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.089 g/cm<sup>3</sup>
         surface_gravity: 0.306 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.567 km/s<br />(2,042 km/h)
         rotation_period: 51.733 d
         axial_tilt: 11.79°
         albedo: 0.30
-        temperature: 6033 K<br />(5759 °C)
+        temperature: 326 K<br />(53 °C)
       - name: 7041 Arkothiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -115,14 +115,14 @@ planets:
         radius: 371.6 km<br/>(0.058 Yrths)
         surface_area: 1.735 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 2.150 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.608 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.608 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.678 g/cm<sup>3</sup>
         surface_gravity: 0.174 m/s<sup>2</sup><br />(0.018 g<sub>0</sub>)
         escape_velocity: 0.360 km/s<br />(1,296 km/h)
         rotation_period: 57.923 d
         axial_tilt: 7.83°
         albedo: 0.30
-        temperature: 5484 K<br />(5211 °C)
+        temperature: 326 K<br />(53 °C)
       - name: 7041 Arkothiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -135,14 +135,14 @@ planets:
         radius: 496.3 km<br/>(0.078 Yrths)
         surface_area: 3.096 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.122 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 9.242 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.242 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.805 g/cm<sup>3</sup>
         surface_gravity: 0.250 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.499 km/s<br />(1,795 km/h)
         rotation_period: 68.731 d
         axial_tilt: 10.49°
         albedo: 0.30
-        temperature: 5229 K<br />(4956 °C)
+        temperature: 326 K<br />(53 °C)
   - name: 7041 Arkothiad II
     type: Gas dwarf
     aphelion: 129,257,868 km<br />0.864 AU
@@ -154,14 +154,14 @@ planets:
     radius: 18,990.6 km<br/>(2.981 Yrths)
     surface_area: 4.532 × 10<sup>09</sup> km<sup>2</sup><br/>(8.885 Yrths)
     volume: 2.869 × 10<sup>13</sup> km<sup>3</sup><br/>(26.484 Yrths)
-    mass: 6.394 × 10<sup>25</sup> kg<br />(10.70623142145135 Yrths)
+    mass: 6.394 × 10<sup>25</sup> kg<br />(10.71 Yrths)
     density: 2.229 g/cm<sup>3</sup>
     surface_gravity: 11.817 m/s<sup>2</sup><br />(1.205 g<sub>0</sub>)
     escape_velocity: 21.200 km/s<br />(76,318 km/h)
     rotation_period: 0.923 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 320 K<br />(46 °C)
+    temperature: 277 K<br />(4 °C)
     composition:
       - 88.9324% hydrogen
       - 11.0676% helium
@@ -178,14 +178,14 @@ planets:
         radius: 18,122.1 km<br/>(2.844 Yrths)
         surface_area: 4.127 × 10<sup>09</sup> km<sup>2</sup><br/>(8.091 Yrths)
         volume: 2.493 × 10<sup>13</sup> km<sup>3</sup><br/>(23.015 Yrths)
-        mass: 5.445 × 10<sup>25</sup> kg<br />(10.70623142145135 Yrths)
+        mass: 5.445 × 10<sup>25</sup> kg<br />(9.117 Yrths)
         density: 2.184 g/cm<sup>3</sup>
         surface_gravity: 11.051 m/s<sup>2</sup><br />(1.127 g<sub>0</sub>)
         escape_velocity: 20.027 km/s<br />(72,096 km/h)
         rotation_period: 57.258 d
         axial_tilt: 14.17°
         albedo: 0.30
-        temperature: 2327 K<br />(2054 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 7041 Arkothiad II b
         type: Asteroid
         formationType: Captured
@@ -198,14 +198,14 @@ planets:
         radius: 17,681.4 km<br/>(2.775 Yrths)
         surface_area: 3.929 × 10<sup>09</sup> km<sup>2</sup><br/>(7.702 Yrths)
         volume: 2.315 × 10<sup>13</sup> km<sup>3</sup><br/>(21.376 Yrths)
-        mass: 3.982 × 10<sup>25</sup> kg<br />(10.70623142145135 Yrths)
+        mass: 3.982 × 10<sup>25</sup> kg<br />(6.668 Yrths)
         density: 1.720 g/cm<sup>3</sup>
         surface_gravity: 8.490 m/s<sup>2</sup><br />(0.866 g<sub>0</sub>)
         escape_velocity: 17.339 km/s<br />(62,421 km/h)
         rotation_period: 43.915 d
         axial_tilt: 27.36°
         albedo: 0.30
-        temperature: 2219 K<br />(1946 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 7041 Arkothiad II c
         type: Icy
         formationType: Captured
@@ -218,14 +218,14 @@ planets:
         radius: 15,057.0 km<br/>(2.363 Yrths)
         surface_area: 2.849 × 10<sup>09</sup> km<sup>2</sup><br/>(5.586 Yrths)
         volume: 1.430 × 10<sup>13</sup> km<sup>3</sup><br/>(13.201 Yrths)
-        mass: 1.985 × 10<sup>25</sup> kg<br />(10.70623142145135 Yrths)
+        mass: 1.985 × 10<sup>25</sup> kg<br />(3.323 Yrths)
         density: 1.388 g/cm<sup>3</sup>
         surface_gravity: 5.834 m/s<sup>2</sup><br />(0.595 g<sub>0</sub>)
         escape_velocity: 13.264 km/s<br />(47,750 km/h)
         rotation_period: 53.132 d
         axial_tilt: 26.37°
         albedo: 0.30
-        temperature: 2116 K<br />(1842 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 7041 Arkothiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -238,14 +238,14 @@ planets:
         radius: 13,752.5 km<br/>(2.159 Yrths)
         surface_area: 2.377 × 10<sup>09</sup> km<sup>2</sup><br/>(4.660 Yrths)
         volume: 1.090 × 10<sup>13</sup> km<sup>3</sup><br/>(10.058 Yrths)
-        mass: 2.293 × 10<sup>25</sup> kg<br />(10.70623142145135 Yrths)
+        mass: 2.293 × 10<sup>25</sup> kg<br />(3.840 Yrths)
         density: 2.105 g/cm<sup>3</sup>
         surface_gravity: 8.081 m/s<sup>2</sup><br />(0.824 g<sub>0</sub>)
         escape_velocity: 14.919 km/s<br />(53,708 km/h)
         rotation_period: 42.650 d
         axial_tilt: 21.57°
         albedo: 0.30
-        temperature: 1923 K<br />(1650 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: 7041 Arkothiad III
     type: Large terrestrial
     aphelion: 226,885,465 km<br />1.517 AU
@@ -257,14 +257,14 @@ planets:
     radius: 9,940.8 km<br/>(1.560 Yrths)
     surface_area: 1.242 × 10<sup>09</sup> km<sup>2</sup><br/>(2.435 Yrths)
     volume: 4.115 × 10<sup>12</sup> km<sup>3</sup><br/>(3.799 Yrths)
-    mass: 2.890 × 10<sup>25</sup> kg<br />(4.8395654675241895 Yrths)
+    mass: 2.890 × 10<sup>25</sup> kg<br />(4.84 Yrths)
     density: 7.024 g/cm<sup>3</sup>
     surface_gravity: 19.494 m/s<sup>2</sup><br />(1.988 g<sub>0</sub>)
     escape_velocity: 19.700 km/s<br />(70,921 km/h)
     rotation_period: 0.915 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 313 K<br />(40 °C)
+    temperature: 878 K<br />(605 °C)
     surface_pressure: 208 kPa<br />(2 atm)
     composition:
       - 95.5898% carbon dioxide
@@ -282,14 +282,14 @@ planets:
         radius: 10,413.2 km<br/>(1.634 Yrths)
         surface_area: 1.363 × 10<sup>09</sup> km<sup>2</sup><br/>(2.671 Yrths)
         volume: 4.730 × 10<sup>12</sup> km<sup>3</sup><br/>(4.366 Yrths)
-        mass: 1.367 × 10<sup>25</sup> kg<br />(4.8395654675241895 Yrths)
+        mass: 1.367 × 10<sup>25</sup> kg<br />(2.289 Yrths)
         density: 2.890 g/cm<sup>3</sup>
         surface_gravity: 8.403 m/s<sup>2</sup><br />(0.857 g<sub>0</sub>)
         escape_velocity: 13.238 km/s<br />(47,655 km/h)
         rotation_period: 50.780 d
         axial_tilt: 23.37°
         albedo: 0.30
-        temperature: 2684 K<br />(2411 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 7041 Arkothiad III b
         type: Rocky
         formationType: Captured
@@ -302,14 +302,14 @@ planets:
         radius: 5,852.4 km<br/>(0.919 Yrths)
         surface_area: 4.304 × 10<sup>08</sup> km<sup>2</sup><br/>(0.844 Yrths)
         volume: 8.396 × 10<sup>11</sup> km<sup>3</sup><br/>(0.775 Yrths)
-        mass: 2.679 × 10<sup>24</sup> kg<br />(4.8395654675241895 Yrths)
+        mass: 2.679 × 10<sup>24</sup> kg<br />(0.449 Yrths)
         density: 3.191 g/cm<sup>3</sup>
         surface_gravity: 5.214 m/s<sup>2</sup><br />(0.532 g<sub>0</sub>)
         escape_velocity: 7.817 km/s<br />(28,142 km/h)
         rotation_period: 39.132 d
         axial_tilt: 15.57°
         albedo: 0.30
-        temperature: 2559 K<br />(2286 °C)
+        temperature: 190 K<br />(-83 °C)
   - name: 7041 Arkothiad IV
     type: Gas giant
     aphelion: 379,046,282 km<br />2.534 AU
@@ -321,7 +321,7 @@ planets:
     radius: 184.4 km<br/>(0.029 Yrths)
     surface_area: 4.274 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.628 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.227 × 10<sup>26</sup> kg<br />(121.01698508631534 Yrths)
+    mass: 7.227 × 10<sup>26</sup> kg<br />(121.02 Yrths)
     density: 27502740.813 g/cm<sup>3</sup>
     surface_gravity: 1416167.162 m/s<sup>2</sup><br />(144408.861 g<sub>0</sub>)
     escape_velocity: 723.243 km/s<br />(2,603,673 km/h)
@@ -342,14 +342,14 @@ planets:
         radius: 87,054.1 km<br/>(13.664 Yrths)
         surface_area: 9.523 × 10<sup>10</sup> km<sup>2</sup><br/>(186.708 Yrths)
         volume: 2.763 × 10<sup>15</sup> km<sup>3</sup><br/>(2551.203 Yrths)
-        mass: 7.138 × 10<sup>27</sup> kg<br />(121.01698508631534 Yrths)
+        mass: 7.138 × 10<sup>27</sup> kg<br />(1195.312 Yrths)
         density: 2.583 g/cm<sup>3</sup>
         surface_gravity: 62.782 m/s<sup>2</sup><br />(6.402 g<sub>0</sub>)
         escape_velocity: 104.622 km/s<br />(376,640 km/h)
         rotation_period: 51.212 d
         axial_tilt: 12.43°
         albedo: 0.30
-        temperature: 465 K<br />(192 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 7041 Arkothiad IV b
         type: Rocky
         formationType: Accreted
@@ -362,14 +362,14 @@ planets:
         radius: 93,982.3 km<br/>(14.752 Yrths)
         surface_area: 1.110 × 10<sup>11</sup> km<sup>2</sup><br/>(217.609 Yrths)
         volume: 3.477 × 10<sup>15</sup> km<sup>3</sup><br/>(3210.075 Yrths)
-        mass: 1.235 × 10<sup>28</sup> kg<br />(121.01698508631534 Yrths)
+        mass: 1.235 × 10<sup>28</sup> kg<br />(2068.561 Yrths)
         density: 3.553 g/cm<sup>3</sup>
         surface_gravity: 93.221 m/s<sup>2</sup><br />(9.506 g<sub>0</sub>)
         escape_velocity: 132.461 km/s<br />(476,861 km/h)
         rotation_period: 49.438 d
         axial_tilt: 13.42°
         albedo: 0.30
-        temperature: 135 K<br />(-138 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 7041 Arkothiad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -382,14 +382,14 @@ planets:
         radius: 112,764.9 km<br/>(17.700 Yrths)
         surface_area: 1.598 × 10<sup>11</sup> km<sup>2</sup><br/>(313.280 Yrths)
         volume: 6.006 × 10<sup>15</sup> km<sup>3</sup><br/>(5544.965 Yrths)
-        mass: 9.610 × 10<sup>27</sup> kg<br />(121.01698508631534 Yrths)
+        mass: 9.610 × 10<sup>27</sup> kg<br />(1609.201 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 50.373 m/s<sup>2</sup><br />(5.137 g<sub>0</sub>)
         escape_velocity: 106.659 km/s<br />(383,971 km/h)
         rotation_period: 52.795 d
         axial_tilt: 19.52°
         albedo: 0.30
-        temperature: 73 K<br />(-201 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 7041 Arkothiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -402,14 +402,14 @@ planets:
         radius: 115,389.5 km<br/>(18.112 Yrths)
         surface_area: 1.673 × 10<sup>11</sup> km<sup>2</sup><br/>(328.033 Yrths)
         volume: 6.436 × 10<sup>15</sup> km<sup>3</sup><br/>(5941.230 Yrths)
-        mass: 1.370 × 10<sup>28</sup> kg<br />(121.01698508631534 Yrths)
+        mass: 1.370 × 10<sup>28</sup> kg<br />(2293.249 Yrths)
         density: 2.128 g/cm<sup>3</sup>
         surface_gravity: 68.557 m/s<sup>2</sup><br />(6.991 g<sub>0</sub>)
         escape_velocity: 125.869 km/s<br />(453,130 km/h)
         rotation_period: 35.751 d
         axial_tilt: 19.37°
         albedo: 0.30
-        temperature: 45 K<br />(-228 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 7041 Arkothiad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -422,14 +422,14 @@ planets:
         radius: 91,011.3 km<br/>(14.285 Yrths)
         surface_area: 1.041 × 10<sup>11</sup> km<sup>2</sup><br/>(204.068 Yrths)
         volume: 3.158 × 10<sup>15</sup> km<sup>3</sup><br/>(2915.161 Yrths)
-        mass: 6.025 × 10<sup>27</sup> kg<br />(121.01698508631534 Yrths)
+        mass: 6.025 × 10<sup>27</sup> kg<br />(1008.843 Yrths)
         density: 1.908 g/cm<sup>3</sup>
         surface_gravity: 48.481 m/s<sup>2</sup><br />(4.944 g<sub>0</sub>)
         escape_velocity: 94.003 km/s<br />(338,411 km/h)
         rotation_period: 36.148 d
         axial_tilt: 19.56°
         albedo: 0.30
-        temperature: 19 K<br />(-254 °C)
+        temperature: 146 K<br />(-128 °C)
   - name: 7041 Arkothiad V
     type: Gas giant
     aphelion: 649,097,399 km<br />4.339 AU
@@ -441,7 +441,7 @@ planets:
     radius: 243.7 km<br/>(0.038 Yrths)
     surface_area: 7.463 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 6.062 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.359 × 10<sup>27</sup> kg<br />(394.9398769607035 Yrths)
+    mass: 2.359 × 10<sup>27</sup> kg<br />(394.94 Yrths)
     density: 38906232.173 g/cm<sup>3</sup>
     surface_gravity: 2647107.250 m/s<sup>2</sup><br />(269929.818 g<sub>0</sub>)
     escape_velocity: 1136.631 km/s<br />(4,091,871 km/h)
@@ -462,14 +462,14 @@ planets:
         radius: 293,039.6 km<br/>(45.996 Yrths)
         surface_area: 1.079 × 10<sup>12</sup> km<sup>2</sup><br/>(2115.619 Yrths)
         volume: 1.054 × 10<sup>17</sup> km<sup>3</sup><br/>(97309.682 Yrths)
-        mass: 1.575 × 10<sup>29</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 1.575 × 10<sup>29</sup> kg<br />(26374.445 Yrths)
         density: 1.494 g/cm<sup>3</sup>
         surface_gravity: 122.255 m/s<sup>2</sup><br />(12.467 g<sub>0</sub>)
         escape_velocity: 267.859 km/s<br />(964,292 km/h)
         rotation_period: 48.238 d
         axial_tilt: 26.37°
         albedo: 0.30
-        temperature: 448 K<br />(175 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 7041 Arkothiad V b
         type: Icy
         formationType: Captured
@@ -482,14 +482,14 @@ planets:
         radius: 189,142.0 km<br/>(29.688 Yrths)
         surface_area: 4.496 × 10<sup>11</sup> km<sup>2</sup><br/>(881.375 Yrths)
         volume: 2.834 × 10<sup>16</sup> km<sup>3</sup><br/>(26166.235 Yrths)
-        mass: 3.280 × 10<sup>28</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 3.280 × 10<sup>28</sup> kg<br />(5491.924 Yrths)
         density: 1.157 g/cm<sup>3</sup>
         surface_gravity: 61.106 m/s<sup>2</sup><br />(6.231 g<sub>0</sub>)
         escape_velocity: 152.141 km/s<br />(547,707 km/h)
         rotation_period: 48.706 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 408 K<br />(135 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 7041 Arkothiad V c
         type: Icy
         formationType: Accreted
@@ -502,14 +502,14 @@ planets:
         radius: 214,698.4 km<br/>(33.699 Yrths)
         surface_area: 5.793 × 10<sup>11</sup> km<sup>2</sup><br/>(1135.645 Yrths)
         volume: 4.145 × 10<sup>16</sup> km<sup>3</sup><br/>(38270.459 Yrths)
-        mass: 4.425 × 10<sup>28</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 4.425 × 10<sup>28</sup> kg<br />(7410.124 Yrths)
         density: 1.068 g/cm<sup>3</sup>
         surface_gravity: 63.989 m/s<sup>2</sup><br />(6.525 g<sub>0</sub>)
         escape_velocity: 165.873 km/s<br />(597,143 km/h)
         rotation_period: 90.319 d
         axial_tilt: 17.50°
         albedo: 0.30
-        temperature: 266 K<br />(-8 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 7041 Arkothiad V d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -522,14 +522,14 @@ planets:
         radius: 165,888.2 km<br/>(26.038 Yrths)
         surface_area: 3.458 × 10<sup>11</sup> km<sup>2</sup><br/>(677.979 Yrths)
         volume: 1.912 × 10<sup>16</sup> km<sup>3</sup><br/>(17653.225 Yrths)
-        mass: 4.224 × 10<sup>28</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 4.224 × 10<sup>28</sup> kg<br />(7072.205 Yrths)
         density: 2.209 g/cm<sup>3</sup>
         surface_gravity: 102.296 m/s<sup>2</sup><br />(10.431 g<sub>0</sub>)
         escape_velocity: 184.352 km/s<br />(663,666 km/h)
         rotation_period: 33.487 d
         axial_tilt: 21.58°
         albedo: 0.30
-        temperature: 219 K<br />(-54 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 7041 Arkothiad V e
         type: Icy
         formationType: Accreted
@@ -542,14 +542,14 @@ planets:
         radius: 255,978.1 km<br/>(40.179 Yrths)
         surface_area: 8.234 × 10<sup>11</sup> km<sup>2</sup><br/>(1614.323 Yrths)
         volume: 7.026 × 10<sup>16</sup> km<sup>3</sup><br/>(64861.280 Yrths)
-        mass: 8.880 × 10<sup>28</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 8.880 × 10<sup>28</sup> kg<br />(14869.098 Yrths)
         density: 1.264 g/cm<sup>3</sup>
         surface_gravity: 90.326 m/s<sup>2</sup><br />(9.211 g<sub>0</sub>)
         escape_velocity: 215.188 km/s<br />(774,678 km/h)
         rotation_period: 47.101 d
         axial_tilt: 18.86°
         albedo: 0.30
-        temperature: 143 K<br />(-130 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 7041 Arkothiad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -562,14 +562,14 @@ planets:
         radius: 182,908.1 km<br/>(28.709 Yrths)
         surface_area: 4.204 × 10<sup>11</sup> km<sup>2</sup><br/>(824.234 Yrths)
         volume: 2.563 × 10<sup>16</sup> km<sup>3</sup><br/>(23663.334 Yrths)
-        mass: 4.101 × 10<sup>28</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 4.101 × 10<sup>28</sup> kg<br />(6867.324 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 81.707 m/s<sup>2</sup><br />(8.332 g<sub>0</sub>)
         escape_velocity: 173.004 km/s<br />(622,813 km/h)
         rotation_period: 58.215 d
         axial_tilt: 21.96°
         albedo: 0.30
-        temperature: 124 K<br />(-149 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 7041 Arkothiad V g
         type: Icy
         formationType: Accreted
@@ -582,14 +582,14 @@ planets:
         radius: 169,880.6 km<br/>(26.665 Yrths)
         surface_area: 3.627 × 10<sup>11</sup> km<sup>2</sup><br/>(711.005 Yrths)
         volume: 2.054 × 10<sup>16</sup> km<sup>3</sup><br/>(18958.704 Yrths)
-        mass: 3.498 × 10<sup>28</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 3.498 × 10<sup>28</sup> kg<br />(5857.760 Yrths)
         density: 1.703 g/cm<sup>3</sup>
         surface_gravity: 80.794 m/s<sup>2</sup><br />(8.239 g<sub>0</sub>)
         escape_velocity: 165.795 km/s<br />(596,862 km/h)
         rotation_period: 44.424 d
         axial_tilt: 23.89°
         albedo: 0.30
-        temperature: 113 K<br />(-161 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 7041 Arkothiad V h
         type: Ice/rock hybrid
         formationType: Captured
@@ -602,14 +602,14 @@ planets:
         radius: 175,328.5 km<br/>(27.520 Yrths)
         surface_area: 3.863 × 10<sup>11</sup> km<sup>2</sup><br/>(757.338 Yrths)
         volume: 2.258 × 10<sup>16</sup> km<sup>3</sup><br/>(20841.778 Yrths)
-        mass: 5.107 × 10<sup>28</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 5.107 × 10<sup>28</sup> kg<br />(8550.940 Yrths)
         density: 2.262 g/cm<sup>3</sup>
         surface_gravity: 110.725 m/s<sup>2</sup><br />(11.291 g<sub>0</sub>)
         escape_velocity: 197.178 km/s<br />(709,841 km/h)
         rotation_period: 48.953 d
         axial_tilt: 18.85°
         albedo: 0.30
-        temperature: 102 K<br />(-171 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 7041 Arkothiad V i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -622,14 +622,14 @@ planets:
         radius: 200,583.7 km<br/>(31.484 Yrths)
         surface_area: 5.056 × 10<sup>11</sup> km<sup>2</sup><br/>(991.233 Yrths)
         volume: 3.380 × 10<sup>16</sup> km<sup>3</sup><br/>(31207.857 Yrths)
-        mass: 7.575 × 10<sup>28</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 7.575 × 10<sup>28</sup> kg<br />(12683.869 Yrths)
         density: 2.241 g/cm<sup>3</sup>
         surface_gravity: 125.486 m/s<sup>2</sup><br />(12.796 g<sub>0</sub>)
         escape_velocity: 224.520 km/s<br />(808,274 km/h)
         rotation_period: 47.171 d
         axial_tilt: 24.61°
         albedo: 0.30
-        temperature: 85 K<br />(-189 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 7041 Arkothiad V j
         type: Ice/rock hybrid
         formationType: Captured
@@ -642,12 +642,12 @@ planets:
         radius: 337,844.3 km<br/>(53.028 Yrths)
         surface_area: 1.434 × 10<sup>12</sup> km<sup>2</sup><br/>(2812.017 Yrths)
         volume: 1.615 × 10<sup>17</sup> km<sup>3</sup><br/>(149116.903 Yrths)
-        mass: 4.364 × 10<sup>29</sup> kg<br />(394.9398769607035 Yrths)
+        mass: 4.364 × 10<sup>29</sup> kg<br />(73079.366 Yrths)
         density: 2.702 g/cm<sup>3</sup>
         surface_gravity: 254.858 m/s<sup>2</sup><br />(25.988 g<sub>0</sub>)
         escape_velocity: 415.257 km/s<br />(1,494,925 km/h)
         rotation_period: 38.762 d
         axial_tilt: 18.61°
         albedo: 0.30
-        temperature: 43 K<br />(-230 °C)
+        temperature: 111 K<br />(-162 °C)
 ---

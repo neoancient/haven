@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1298 Dialkeshiad is a star in the constellation Dialkes
+      1298 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 332.43 ly
 apparent_magnitude: 12.11
 absolute_magnitude: 7.06

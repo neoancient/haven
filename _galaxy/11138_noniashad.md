@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11138 Noniashad is a star in the constellation Nonias
+      11138 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 847.52 ly
 apparent_magnitude: 13.08
 absolute_magnitude: 6.01

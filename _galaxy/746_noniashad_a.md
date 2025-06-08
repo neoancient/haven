@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      746 Noniashad A is a star in the constellation Nonias
+      746 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 493.59 ly
 apparent_magnitude: 8.26
 absolute_magnitude: 2.36

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2736 Athiad is a star in the constellation Ath
+      2736 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 142.06 ly
 apparent_magnitude: 9.12
 absolute_magnitude: 5.92

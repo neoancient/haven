@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0068 Neralniad B is a star in the constellation Neraln
+      0068 Neralniad B is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 607.08 ly
 apparent_magnitude: 11.95
 absolute_magnitude: 5.60

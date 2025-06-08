@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      427 Reggiad is a star in the constellation Reg
+      427 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 625.74 ly
 apparent_magnitude: 11.66
 absolute_magnitude: 5.25

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      933 Shanniashiad A is a star in the constellation Shannias
+      933 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 471.92 ly
 apparent_magnitude: 7.62
 absolute_magnitude: 1.82

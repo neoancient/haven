@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0318 Irsaiad B is a star in the constellation Irsa
+      0318 Irsaiad B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 75.48 ly
 apparent_magnitude: 6.61
 absolute_magnitude: 4.79

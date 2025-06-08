@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4063 Arkothiad is a star in the constellation Arkoth
+      4063 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 697.32 ly
 apparent_magnitude: 11.35
 absolute_magnitude: 4.70

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      273 Arkothiad is a star in the constellation Arkoth
+      273 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 190.73 ly
 apparent_magnitude: 20.24
 absolute_magnitude: 16.41

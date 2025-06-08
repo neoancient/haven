@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      159 Urthiad A is a star in the constellation Urth
+      159 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 328.76 ly
 apparent_magnitude: 7.67
 absolute_magnitude: 2.65

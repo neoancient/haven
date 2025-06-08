@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      36098 Anilliad is a star in the constellation Anil
+      36098 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 770.68 ly
 apparent_magnitude: 12.84
 absolute_magnitude: 5.97

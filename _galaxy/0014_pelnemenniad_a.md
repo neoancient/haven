@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0014 Pelnemenniad A is a star in the constellation Pelnemen
+      0014 Pelnemenniad A is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 193.07 ly
 apparent_magnitude: 5.45
 absolute_magnitude: 1.59

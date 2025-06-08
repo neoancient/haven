@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Turiorshen B is a star in the constellation Poke
+      Turiorshen B is a star in the constellation <a href="poke.html">Poke</a>
 distance: 105.85 ly
 apparent_magnitude: 6.97
 absolute_magnitude: 4.41

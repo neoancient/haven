@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0010 Niodionraiad is a star in the constellation Niodionra
+      0010 Niodionraiad is a star in the constellation <a href="niodionra.html">Niodionra</a>
 distance: 1096.94 ly
 apparent_magnitude: 5.87
 absolute_magnitude: -1.76
@@ -31,14 +31,14 @@ planets:
     radius: 17,141.8 km<br/>(2.691 Yrths)
     surface_area: 3.693 × 10<sup>09</sup> km<sup>2</sup><br/>(7.239 Yrths)
     volume: 2.110 × 10<sup>13</sup> km<sup>3</sup><br/>(19.478 Yrths)
-    mass: 4.866 × 10<sup>25</sup> kg<br />(8.147352453150553 Yrths)
+    mass: 4.866 × 10<sup>25</sup> kg<br />(8.15 Yrths)
     density: 2.306 g/cm<sup>3</sup>
     surface_gravity: 11.037 m/s<sup>2</sup><br />(1.125 g<sub>0</sub>)
     escape_velocity: 19.465 km/s<br />(70,074 km/h)
     rotation_period: 0.431 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 1858 K<br />(1585 °C)
+    temperature: 1688 K<br />(1415 °C)
     composition:
       - 86.9188% hydrogen
       - 12.0463% helium
@@ -59,14 +59,14 @@ planets:
         radius: 4,002.8 km<br/>(0.628 Yrths)
         surface_area: 2.013 × 10<sup>08</sup> km<sup>2</sup><br/>(0.395 Yrths)
         volume: 2.686 × 10<sup>11</sup> km<sup>3</sup><br/>(0.248 Yrths)
-        mass: 7.453 × 10<sup>23</sup> kg<br />(8.147352453150553 Yrths)
+        mass: 7.453 × 10<sup>23</sup> kg<br />(0.125 Yrths)
         density: 2.774 g/cm<sup>3</sup>
         surface_gravity: 3.100 m/s<sup>2</sup><br />(0.316 g<sub>0</sub>)
         escape_velocity: 4.985 km/s<br />(17,947 km/h)
         rotation_period: 57.727 d
         axial_tilt: 47.64°
         albedo: 0.30
-        temperature: 14617 K<br />(14344 °C)
+        temperature: 1252 K<br />(979 °C)
       - name: 0010 Niodionraiad I b
         type: Rocky
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 9,551.5 km<br/>(1.499 Yrths)
         surface_area: 1.146 × 10<sup>09</sup> km<sup>2</sup><br/>(2.248 Yrths)
         volume: 3.650 × 10<sup>12</sup> km<sup>3</sup><br/>(3.370 Yrths)
-        mass: 9.589 × 10<sup>24</sup> kg<br />(8.147352453150553 Yrths)
+        mass: 9.589 × 10<sup>24</sup> kg<br />(1.606 Yrths)
         density: 2.627 g/cm<sup>3</sup>
         surface_gravity: 7.006 m/s<sup>2</sup><br />(0.714 g<sub>0</sub>)
         escape_velocity: 11.576 km/s<br />(41,675 km/h)
         rotation_period: 48.514 d
         axial_tilt: 8.24°
         albedo: 0.30
-        temperature: 13937 K<br />(13664 °C)
+        temperature: 1252 K<br />(979 °C)
       - name: 0010 Niodionraiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 4,961.7 km<br/>(0.779 Yrths)
         surface_area: 3.094 × 10<sup>08</sup> km<sup>2</sup><br/>(0.607 Yrths)
         volume: 5.117 × 10<sup>11</sup> km<sup>3</sup><br/>(0.472 Yrths)
-        mass: 1.320 × 10<sup>24</sup> kg<br />(8.147352453150553 Yrths)
+        mass: 1.320 × 10<sup>24</sup> kg<br />(0.221 Yrths)
         density: 2.580 g/cm<sup>3</sup>
         surface_gravity: 3.574 m/s<sup>2</sup><br />(0.364 g<sub>0</sub>)
         escape_velocity: 5.959 km/s<br />(21,454 km/h)
         rotation_period: 40.331 d
         axial_tilt: 14.73°
         albedo: 0.30
-        temperature: 13288 K<br />(13015 °C)
+        temperature: 1252 K<br />(979 °C)
       - name: 0010 Niodionraiad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -119,14 +119,14 @@ planets:
         radius: 16,186.4 km<br/>(2.541 Yrths)
         surface_area: 3.292 × 10<sup>09</sup> km<sup>2</sup><br/>(6.455 Yrths)
         volume: 1.776 × 10<sup>13</sup> km<sup>3</sup><br/>(16.399 Yrths)
-        mass: 4.470 × 10<sup>25</sup> kg<br />(8.147352453150553 Yrths)
+        mass: 4.470 × 10<sup>25</sup> kg<br />(7.484 Yrths)
         density: 2.516 g/cm<sup>3</sup>
         surface_gravity: 11.371 m/s<sup>2</sup><br />(1.159 g<sub>0</sub>)
         escape_velocity: 19.199 km/s<br />(69,116 km/h)
         rotation_period: 33.609 d
         axial_tilt: 20.18°
         albedo: 0.30
-        temperature: 12080 K<br />(11807 °C)
+        temperature: 1252 K<br />(979 °C)
   - name: 0010 Niodionraiad II
     type: Gas giant
     aphelion: 370,516,335 km<br />2.477 AU
@@ -138,14 +138,14 @@ planets:
     radius: 242.3 km<br/>(0.038 Yrths)
     surface_area: 7.380 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.961 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.302 × 10<sup>27</sup> kg<br />(385.38551533484133 Yrths)
+    mass: 2.302 × 10<sup>27</sup> kg<br />(385.39 Yrths)
     density: 38609950.050 g/cm<sup>3</sup>
     surface_gravity: 2612239.838 m/s<sup>2</sup><br />(266374.331 g<sub>0</sub>)
     escape_velocity: 1125.955 km/s<br />(4,053,437 km/h)
     rotation_period: 0.230 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 3902 K<br />(3629 °C)
+    temperature: 3743 K<br />(3469 °C)
     composition:
       - 88.1402% hydrogen
       - 8.4651% helium
@@ -166,14 +166,14 @@ planets:
         radius: 177,051.5 km<br/>(27.790 Yrths)
         surface_area: 3.939 × 10<sup>11</sup> km<sup>2</sup><br/>(772.296 Yrths)
         volume: 2.325 × 10<sup>16</sup> km<sup>3</sup><br/>(21462.272 Yrths)
-        mass: 7.352 × 10<sup>28</sup> kg<br />(385.38551533484133 Yrths)
+        mass: 7.352 × 10<sup>28</sup> kg<br />(12310.137 Yrths)
         density: 3.162 g/cm<sup>3</sup>
         surface_gravity: 156.315 m/s<sup>2</sup><br />(15.940 g<sub>0</sub>)
         escape_velocity: 235.429 km/s<br />(847,543 km/h)
         rotation_period: 28.303 d
         axial_tilt: 25.64°
         albedo: 0.30
-        temperature: 4862 K<br />(4589 °C)
+        temperature: 914 K<br />(641 °C)
       - name: 0010 Niodionraiad II b
         type: Icy
         formationType: Accreted
@@ -186,14 +186,14 @@ planets:
         radius: 298,510.0 km<br/>(46.854 Yrths)
         surface_area: 1.120 × 10<sup>12</sup> km<sup>2</sup><br/>(2195.344 Yrths)
         volume: 1.114 × 10<sup>17</sup> km<sup>3</sup><br/>(102861.752 Yrths)
-        mass: 1.517 × 10<sup>29</sup> kg<br />(385.38551533484133 Yrths)
+        mass: 1.517 × 10<sup>29</sup> kg<br />(25409.702 Yrths)
         density: 1.362 g/cm<sup>3</sup>
         surface_gravity: 113.506 m/s<sup>2</sup><br />(11.574 g<sub>0</sub>)
         escape_velocity: 260.494 km/s<br />(937,779 km/h)
         rotation_period: 62.249 d
         axial_tilt: 21.16°
         albedo: 0.30
-        temperature: 4420 K<br />(4147 °C)
+        temperature: 914 K<br />(641 °C)
       - name: 0010 Niodionraiad II c
         type: Icy
         formationType: Accreted
@@ -206,14 +206,14 @@ planets:
         radius: 228,715.7 km<br/>(35.899 Yrths)
         surface_area: 6.574 × 10<sup>11</sup> km<sup>2</sup><br/>(1288.774 Yrths)
         volume: 5.012 × 10<sup>16</sup> km<sup>3</sup><br/>(46266.324 Yrths)
-        mass: 8.073 × 10<sup>28</sup> kg<br />(385.38551533484133 Yrths)
+        mass: 8.073 × 10<sup>28</sup> kg<br />(13518.481 Yrths)
         density: 1.611 g/cm<sup>3</sup>
         surface_gravity: 102.866 m/s<sup>2</sup><br />(10.489 g<sub>0</sub>)
         escape_velocity: 217.067 km/s<br />(781,441 km/h)
         rotation_period: 57.045 d
         axial_tilt: 13.54°
         albedo: 0.30
-        temperature: 3831 K<br />(3558 °C)
+        temperature: 914 K<br />(641 °C)
       - name: 0010 Niodionraiad II d
         type: Rocky
         formationType: Captured
@@ -226,14 +226,14 @@ planets:
         radius: 170,976.6 km<br/>(26.837 Yrths)
         surface_area: 3.674 × 10<sup>11</sup> km<sup>2</sup><br/>(720.208 Yrths)
         volume: 2.094 × 10<sup>16</sup> km<sup>3</sup><br/>(19328.012 Yrths)
-        mass: 6.229 × 10<sup>28</sup> kg<br />(385.38551533484133 Yrths)
+        mass: 6.229 × 10<sup>28</sup> kg<br />(10430.409 Yrths)
         density: 2.975 g/cm<sup>3</sup>
         surface_gravity: 142.025 m/s<sup>2</sup><br />(14.482 g<sub>0</sub>)
         escape_velocity: 220.526 km/s<br />(793,894 km/h)
         rotation_period: 39.422 d
         axial_tilt: 10.42°
         albedo: 0.30
-        temperature: 3653 K<br />(3380 °C)
+        temperature: 914 K<br />(641 °C)
       - name: 0010 Niodionraiad II e
         type: Icy
         formationType: Accreted
@@ -246,14 +246,14 @@ planets:
         radius: 233,220.1 km<br/>(36.607 Yrths)
         surface_area: 6.835 × 10<sup>11</sup> km<sup>2</sup><br/>(1340.037 Yrths)
         volume: 5.314 × 10<sup>16</sup> km<sup>3</sup><br/>(49054.084 Yrths)
-        mass: 6.063 × 10<sup>28</sup> kg<br />(385.38551533484133 Yrths)
+        mass: 6.063 × 10<sup>28</sup> kg<br />(10152.190 Yrths)
         density: 1.141 g/cm<sup>3</sup>
         surface_gravity: 74.296 m/s<sup>2</sup><br />(7.576 g<sub>0</sub>)
         escape_velocity: 186.284 km/s<br />(670,621 km/h)
         rotation_period: 72.814 d
         axial_tilt: 18.09°
         albedo: 0.30
-        temperature: 3321 K<br />(3048 °C)
+        temperature: 914 K<br />(641 °C)
       - name: 0010 Niodionraiad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -266,14 +266,14 @@ planets:
         radius: 194,089.5 km<br/>(30.465 Yrths)
         surface_area: 4.734 × 10<sup>11</sup> km<sup>2</sup><br/>(928.088 Yrths)
         volume: 3.063 × 10<sup>16</sup> km<sup>3</sup><br/>(28273.764 Yrths)
-        mass: 5.834 × 10<sup>28</sup> kg<br />(385.38551533484133 Yrths)
+        mass: 5.834 × 10<sup>28</sup> kg<br />(9768.124 Yrths)
         density: 1.905 g/cm<sup>3</sup>
         surface_gravity: 103.215 m/s<sup>2</sup><br />(10.525 g<sub>0</sub>)
         escape_velocity: 200.301 km/s<br />(721,082 km/h)
         rotation_period: 64.390 d
         axial_tilt: 20.19°
         albedo: 0.30
-        temperature: 3019 K<br />(2746 °C)
+        temperature: 914 K<br />(641 °C)
       - name: 0010 Niodionraiad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -286,12 +286,12 @@ planets:
         radius: 184,820.0 km<br/>(29.010 Yrths)
         surface_area: 4.292 × 10<sup>11</sup> km<sup>2</sup><br/>(841.556 Yrths)
         volume: 2.644 × 10<sup>16</sup> km<sup>3</sup><br/>(24413.171 Yrths)
-        mass: 5.777 × 10<sup>28</sup> kg<br />(385.38551533484133 Yrths)
+        mass: 5.777 × 10<sup>28</sup> kg<br />(9673.832 Yrths)
         density: 2.185 g/cm<sup>3</sup>
         surface_gravity: 112.729 m/s<sup>2</sup><br />(11.495 g<sub>0</sub>)
         escape_velocity: 204.269 km/s<br />(735,368 km/h)
         rotation_period: 51.019 d
         axial_tilt: 15.28°
         albedo: 0.30
-        temperature: 2495 K<br />(2222 °C)
+        temperature: 914 K<br />(641 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      17779 Dialkeshiad is a star in the constellation Dialkes
+      17779 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 662.91 ly
 apparent_magnitude: 11.89
 absolute_magnitude: 5.35

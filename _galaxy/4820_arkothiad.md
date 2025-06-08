@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4820 Arkothiad is a star in the constellation Arkoth
+      4820 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 606.45 ly
 apparent_magnitude: 8.92
 absolute_magnitude: 2.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1533 Lunaiad is a star in the constellation Luna
+      1533 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 220.95 ly
 apparent_magnitude: 10.15
 absolute_magnitude: 6.00

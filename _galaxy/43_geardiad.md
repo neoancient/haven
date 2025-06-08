@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      43 Geardiad is a star in the constellation Geard
+      43 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 181.56 ly
 apparent_magnitude: 16.82
 absolute_magnitude: 13.09

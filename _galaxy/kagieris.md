@@ -42,14 +42,14 @@ planet:
       radius: 233.5 km<br/>(0.037 Yrths)
       surface_area: 6.852 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
       volume: 5.333 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-      mass: 6.400 × 10<sup>19</sup> kg<br />(14.536168787675821 Yrths)
+      mass: 6.400 × 10<sup>19</sup> kg<br />(0.000 Yrths)
       density: 1.200 g/cm<sup>3</sup>
       surface_gravity: 0.078 m/s<sup>2</sup><br />(0.008 g<sub>0</sub>)
       escape_velocity: 0.191 km/s<br />(689 km/h)
       rotation_period: 1.410 d
       axial_tilt: 0.00°
       albedo: 0.32
-      temperature: 8579 K<br />(8306 °C)
+      temperature: 58 K<br />(-215 °C)
     - name: <a href="kednia.html">Kednia</a>
       type: Ice/rock hybrid
       formationType: Accreted
@@ -62,14 +62,14 @@ planet:
       radius: 580.1 km<br/>(0.091 Yrths)
       surface_area: 4.228 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
       volume: 8.176 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-      mass: 1.300 × 10<sup>21</sup> kg<br />(14.536168787675821 Yrths)
+      mass: 1.300 × 10<sup>21</sup> kg<br />(0.000 Yrths)
       density: 1.590 g/cm<sup>3</sup>
       surface_gravity: 0.258 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
       escape_velocity: 0.547 km/s<br />(1,969 km/h)
       rotation_period: 2.520 d
       axial_tilt: 0.00°
       albedo: 0.39
-      temperature: 6887 K<br />(6614 °C)
+      temperature: 56 K<br />(-217 °C)
     - name: <a href="fontir.html">Fontir</a>
       type: Ice/rock hybrid
       formationType: Accreted
@@ -82,14 +82,14 @@ planet:
       radius: 606.7 km<br/>(0.095 Yrths)
       surface_area: 4.625 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
       volume: 9.353 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-      mass: 1.300 × 10<sup>21</sup> kg<br />(14.536168787675821 Yrths)
+      mass: 1.300 × 10<sup>21</sup> kg<br />(0.000 Yrths)
       density: 1.390 g/cm<sup>3</sup>
       surface_gravity: 0.235 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
       escape_velocity: 0.535 km/s<br />(1,925 km/h)
       rotation_period: 4.140 d
       axial_tilt: 0.00°
       albedo: 0.10
-      temperature: 6431 K<br />(6157 °C)
+      temperature: 62 K<br />(-211 °C)
     - name: <a href="logia.html">Logia</a>
       type: Ice/rock hybrid
       formationType: Accreted
@@ -102,14 +102,14 @@ planet:
       radius: 780.1 km<br/>(0.122 Yrths)
       surface_area: 7.647 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
       volume: 1.988 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-      mass: 3.400 × 10<sup>21</sup> kg<br />(14.536168787675821 Yrths)
+      mass: 3.400 × 10<sup>21</sup> kg<br />(0.001 Yrths)
       density: 1.710 g/cm<sup>3</sup>
       surface_gravity: 0.372 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
       escape_velocity: 0.763 km/s<br />(2,746 km/h)
       rotation_period: 8.710 d
       axial_tilt: 0.00°
       albedo: 0.28
-      temperature: 4751 K<br />(4478 °C)
+      temperature: 58 K<br />(-215 °C)
     - name: <a href="nernos.html">Nernos</a>
       type: Ice/rock hybrid
       formationType: Accreted
@@ -122,14 +122,14 @@ planet:
       radius: 760.2 km<br/>(0.119 Yrths)
       surface_area: 7.263 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
       volume: 1.840 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-      mass: 3.000 × 10<sup>21</sup> kg<br />(14.536168787675821 Yrths)
+      mass: 3.000 × 10<sup>21</sup> kg<br />(0.001 Yrths)
       density: 1.630 g/cm<sup>3</sup>
       surface_gravity: 0.346 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
       escape_velocity: 0.726 km/s<br />(2,613 km/h)
       rotation_period: 13.460 d
       axial_tilt: 0.00°
       albedo: 0.23
-      temperature: 4176 K<br />(3902 °C)
+      temperature: 59 K<br />(-214 °C)
   rings:
     - innerRadius: 38000.0 km
     - width: 12000.0 km

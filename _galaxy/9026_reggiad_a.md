@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9026 Reggiad A is a star in the constellation Reg
+      9026 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 726.83 ly
 apparent_magnitude: 7.56
 absolute_magnitude: 0.82

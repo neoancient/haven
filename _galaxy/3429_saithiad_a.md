@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3429 Saithiad A is a star in the constellation Saith
+      3429 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 388.19 ly
 apparent_magnitude: 8.11
 absolute_magnitude: 2.73

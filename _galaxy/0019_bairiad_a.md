@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0019 Bairiad A is a star in the constellation Bair
+      0019 Bairiad A is a star in the constellation <a href="bair.html">Bair</a>
 distance: 528.76 ly
 apparent_magnitude: 6.68
 absolute_magnitude: 0.63

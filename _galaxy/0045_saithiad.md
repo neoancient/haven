@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0045 Saithiad is a star in the constellation Saith
+      0045 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1155.29 ly
 apparent_magnitude: 6.44
 absolute_magnitude: -1.30
@@ -31,14 +31,14 @@ planets:
     radius: 8,646.8 km<br/>(1.357 Yrths)
     surface_area: 9.395 × 10<sup>08</sup> km<sup>2</sup><br/>(1.842 Yrths)
     volume: 2.708 × 10<sup>12</sup> km<sup>3</sup><br/>(2.500 Yrths)
-    mass: 1.331 × 10<sup>25</sup> kg<br />(2.229507491092706 Yrths)
+    mass: 1.331 × 10<sup>25</sup> kg<br />(2.23 Yrths)
     density: 4.917 g/cm<sup>3</sup>
     surface_gravity: 11.870 m/s<sup>2</sup><br />(1.210 g<sub>0</sub>)
     escape_velocity: 14.337 km/s<br />(51,613 km/h)
     rotation_period: 0.790 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 534 K<br />(261 °C)
+    temperature: 783 K<br />(509 °C)
     surface_pressure: 70 kPa<br />(1 atm)
     composition:
       - 84.9737% methane
@@ -58,12 +58,12 @@ planets:
         radius: 3,580.1 km<br/>(0.562 Yrths)
         surface_area: 1.611 × 10<sup>08</sup> km<sup>2</sup><br/>(0.316 Yrths)
         volume: 1.922 × 10<sup>11</sup> km<sup>3</sup><br/>(0.177 Yrths)
-        mass: 6.033 × 10<sup>23</sup> kg<br />(2.229507491092706 Yrths)
+        mass: 6.033 × 10<sup>23</sup> kg<br />(0.101 Yrths)
         density: 3.139 g/cm<sup>3</sup>
         surface_gravity: 3.138 m/s<sup>2</sup><br />(0.320 g<sub>0</sub>)
         escape_velocity: 4.743 km/s<br />(17,075 km/h)
         rotation_period: 33.917 d
         axial_tilt: 10.16°
         albedo: 0.30
-        temperature: 7140 K<br />(6867 °C)
+        temperature: 420 K<br />(147 °C)
 ---

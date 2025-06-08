@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      822 Oniad is a star in the constellation Oni
+      822 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1116.16 ly
 apparent_magnitude: 15.21
 absolute_magnitude: 7.54

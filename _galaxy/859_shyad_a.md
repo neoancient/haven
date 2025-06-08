@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      859 Shyad A is a star in the constellation Shy
+      859 Shyad A is a star in the constellation <a href="shy.html">Shy</a>
 distance: 858.60 ly
 apparent_magnitude: 6.96
 absolute_magnitude: -0.14

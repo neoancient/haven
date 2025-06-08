@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3562 Narashiad is a star in the constellation Naras
+      3562 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 476.56 ly
 apparent_magnitude: 10.91
 absolute_magnitude: 5.08

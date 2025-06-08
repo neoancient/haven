@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2432 Anilliad is a star in the constellation Anil
+      2432 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 453.94 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 5.01

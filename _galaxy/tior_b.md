@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tior B is a star in the constellation Emnia
+      Tior B is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 886.62 ly
 apparent_magnitude: 3.62
 absolute_magnitude: -3.55

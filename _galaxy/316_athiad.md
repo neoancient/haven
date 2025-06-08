@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      316 Athiad is a star in the constellation Ath
+      316 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 798.99 ly
 apparent_magnitude: 11.45
 absolute_magnitude: 4.50

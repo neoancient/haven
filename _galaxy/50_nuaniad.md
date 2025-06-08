@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      50 Nuaniad is a star in the constellation Nuani
+      50 Nuaniad is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 215.86 ly
 apparent_magnitude: 8.88
 absolute_magnitude: 4.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6183 Tanashad is a star in the constellation Tanas
+      6183 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 254.23 ly
 apparent_magnitude: 7.17
 absolute_magnitude: 2.72
@@ -31,14 +31,14 @@ planets:
     radius: 8,828.0 km<br/>(1.386 Yrths)
     surface_area: 9.793 × 10<sup>08</sup> km<sup>2</sup><br/>(1.920 Yrths)
     volume: 2.882 × 10<sup>12</sup> km<sup>3</sup><br/>(2.660 Yrths)
-    mass: 1.814 × 10<sup>25</sup> kg<br />(3.037017873659422 Yrths)
+    mass: 1.814 × 10<sup>25</sup> kg<br />(3.04 Yrths)
     density: 6.294 g/cm<sup>3</sup>
     surface_gravity: 15.512 m/s<sup>2</sup><br />(1.582 g<sub>0</sub>)
     escape_velocity: 16.560 km/s<br />(59,617 km/h)
     rotation_period: 0.674 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 571 K<br />(297 °C)
+    temperature: 726 K<br />(453 °C)
     surface_pressure: 2,649 kPa<br />(26 atm)
     composition:
       - 80.3808% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 5,334.2 km<br/>(0.837 Yrths)
         surface_area: 3.576 × 10<sup>08</sup> km<sup>2</sup><br/>(0.701 Yrths)
         volume: 6.358 × 10<sup>11</sup> km<sup>3</sup><br/>(0.587 Yrths)
-        mass: 1.763 × 10<sup>24</sup> kg<br />(3.037017873659422 Yrths)
+        mass: 1.763 × 10<sup>24</sup> kg<br />(0.295 Yrths)
         density: 2.772 g/cm<sup>3</sup>
         surface_gravity: 4.129 m/s<sup>2</sup><br />(0.421 g<sub>0</sub>)
         escape_velocity: 6.642 km/s<br />(23,909 km/h)
         rotation_period: 32.868 d
         axial_tilt: 20.18°
         albedo: 0.30
-        temperature: 4958 K<br />(4685 °C)
+        temperature: 371 K<br />(98 °C)
       - name: 6183 Tanashad I b
         type: Rocky
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 5,816.1 km<br/>(0.913 Yrths)
         surface_area: 4.251 × 10<sup>08</sup> km<sup>2</sup><br/>(0.833 Yrths)
         volume: 8.241 × 10<sup>11</sup> km<sup>3</sup><br/>(0.761 Yrths)
-        mass: 2.330 × 10<sup>24</sup> kg<br />(3.037017873659422 Yrths)
+        mass: 2.330 × 10<sup>24</sup> kg<br />(0.390 Yrths)
         density: 2.828 g/cm<sup>3</sup>
         surface_gravity: 4.592 m/s<sup>2</sup><br />(0.468 g<sub>0</sub>)
         escape_velocity: 7.313 km/s<br />(26,328 km/h)
         rotation_period: 45.038 d
         axial_tilt: 19.65°
         albedo: 0.30
-        temperature: 4727 K<br />(4454 °C)
+        temperature: 371 K<br />(98 °C)
       - name: 6183 Tanashad I c
         type: Asteroid
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 3,787.9 km<br/>(0.595 Yrths)
         surface_area: 1.803 × 10<sup>08</sup> km<sup>2</sup><br/>(0.353 Yrths)
         volume: 2.276 × 10<sup>11</sup> km<sup>3</sup><br/>(0.210 Yrths)
-        mass: 3.515 × 10<sup>23</sup> kg<br />(3.037017873659422 Yrths)
+        mass: 3.515 × 10<sup>23</sup> kg<br />(0.059 Yrths)
         density: 1.544 g/cm<sup>3</sup>
         surface_gravity: 1.633 m/s<sup>2</sup><br />(0.167 g<sub>0</sub>)
         escape_velocity: 3.520 km/s<br />(12,671 km/h)
         rotation_period: 51.948 d
         axial_tilt: 43.90°
         albedo: 0.30
-        temperature: 4507 K<br />(4234 °C)
+        temperature: 371 K<br />(98 °C)
   - name: 6183 Tanashad II
     type: Ice giant
     aphelion: 359,599,442 km<br />2.404 AU
@@ -117,14 +117,14 @@ planets:
     radius: 21,398.9 km<br/>(3.359 Yrths)
     surface_area: 5.754 × 10<sup>09</sup> km<sup>2</sup><br/>(11.282 Yrths)
     volume: 4.105 × 10<sup>13</sup> km<sup>3</sup><br/>(37.892 Yrths)
-    mass: 5.104 × 10<sup>25</sup> kg<br />(8.545756947532242 Yrths)
+    mass: 5.104 × 10<sup>25</sup> kg<br />(8.55 Yrths)
     density: 1.243 g/cm<sup>3</sup>
     surface_gravity: 7.429 m/s<sup>2</sup><br />(0.757 g<sub>0</sub>)
     escape_velocity: 17.843 km/s<br />(64,233 km/h)
     rotation_period: 0.383 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 570 K<br />(297 °C)
+    temperature: 520 K<br />(247 °C)
     composition:
       - 95.7503% helium
       - 2.6655% krypton
@@ -142,14 +142,14 @@ planets:
         radius: 13,096.7 km<br/>(2.056 Yrths)
         surface_area: 2.155 × 10<sup>09</sup> km<sup>2</sup><br/>(4.226 Yrths)
         volume: 9.410 × 10<sup>12</sup> km<sup>3</sup><br/>(8.687 Yrths)
-        mass: 2.341 × 10<sup>25</sup> kg<br />(8.545756947532242 Yrths)
+        mass: 2.341 × 10<sup>25</sup> kg<br />(3.919 Yrths)
         density: 2.487 g/cm<sup>3</sup>
         surface_gravity: 9.095 m/s<sup>2</sup><br />(0.927 g<sub>0</sub>)
         escape_velocity: 15.446 km/s<br />(55,604 km/h)
         rotation_period: 41.204 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 2776 K<br />(2503 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 6183 Tanashad II b
         type: Dwarf planet
         formationType: Accreted
@@ -162,14 +162,14 @@ planets:
         radius: 31,773.7 km<br/>(4.987 Yrths)
         surface_area: 1.269 × 10<sup>10</sup> km<sup>2</sup><br/>(24.873 Yrths)
         volume: 1.344 × 10<sup>14</sup> km<sup>3</sup><br/>(124.046 Yrths)
-        mass: 2.101 × 10<sup>26</sup> kg<br />(8.545756947532242 Yrths)
+        mass: 2.101 × 10<sup>26</sup> kg<br />(35.180 Yrths)
         density: 1.564 g/cm<sup>3</sup>
         surface_gravity: 13.871 m/s<sup>2</sup><br />(1.414 g<sub>0</sub>)
         escape_velocity: 29.709 km/s<br />(106,954 km/h)
         rotation_period: 67.293 d
         axial_tilt: 17.10°
         albedo: 0.30
-        temperature: 2647 K<br />(2373 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 6183 Tanashad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -182,14 +182,14 @@ planets:
         radius: 8,940.7 km<br/>(1.403 Yrths)
         surface_area: 1.005 × 10<sup>09</sup> km<sup>2</sup><br/>(1.969 Yrths)
         volume: 2.994 × 10<sup>12</sup> km<sup>3</sup><br/>(2.764 Yrths)
-        mass: 6.224 × 10<sup>24</sup> kg<br />(8.545756947532242 Yrths)
+        mass: 6.224 × 10<sup>24</sup> kg<br />(1.042 Yrths)
         density: 2.079 g/cm<sup>3</sup>
         surface_gravity: 5.190 m/s<sup>2</sup><br />(0.529 g<sub>0</sub>)
         escape_velocity: 9.640 km/s<br />(34,703 km/h)
         rotation_period: 40.064 d
         axial_tilt: 29.86°
         albedo: 0.30
-        temperature: 2406 K<br />(2133 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 6183 Tanashad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -202,14 +202,14 @@ planets:
         radius: 10,048.1 km<br/>(1.577 Yrths)
         surface_area: 1.269 × 10<sup>09</sup> km<sup>2</sup><br/>(2.487 Yrths)
         volume: 4.249 × 10<sup>12</sup> km<sup>3</sup><br/>(3.923 Yrths)
-        mass: 1.190 × 10<sup>25</sup> kg<br />(8.545756947532242 Yrths)
+        mass: 1.190 × 10<sup>25</sup> kg<br />(1.992 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 7.855 m/s<sup>2</sup><br />(0.801 g<sub>0</sub>)
         escape_velocity: 12.573 km/s<br />(45,261 km/h)
         rotation_period: 30.193 d
         axial_tilt: 22.93°
         albedo: 0.30
-        temperature: 2187 K<br />(1914 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 6183 Tanashad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -222,14 +222,14 @@ planets:
         radius: 8,774.4 km<br/>(1.377 Yrths)
         surface_area: 9.675 × 10<sup>08</sup> km<sup>2</sup><br/>(1.897 Yrths)
         volume: 2.830 × 10<sup>12</sup> km<sup>3</sup><br/>(2.612 Yrths)
-        mass: 6.389 × 10<sup>24</sup> kg<br />(8.545756947532242 Yrths)
+        mass: 6.389 × 10<sup>24</sup> kg<br />(1.070 Yrths)
         density: 2.258 g/cm<sup>3</sup>
         surface_gravity: 5.531 m/s<sup>2</sup><br />(0.564 g<sub>0</sub>)
         escape_velocity: 9.859 km/s<br />(35,492 km/h)
         rotation_period: 33.854 d
         axial_tilt: 28.30°
         albedo: 0.30
-        temperature: 2085 K<br />(1812 °C)
+        temperature: 273 K<br />(-0 °C)
   - name: 6183 Tanashad III
     type: Large terrestrial
     aphelion: 687,809,183 km<br />4.598 AU
@@ -241,15 +241,15 @@ planets:
     radius: 10,307.7 km<br/>(1.618 Yrths)
     surface_area: 1.335 × 10<sup>09</sup> km<sup>2</sup><br/>(2.618 Yrths)
     volume: 4.587 × 10<sup>12</sup> km<sup>3</sup><br/>(4.235 Yrths)
-    mass: 2.792 × 10<sup>25</sup> kg<br />(4.674830353277932 Yrths)
+    mass: 2.792 × 10<sup>25</sup> kg<br />(4.67 Yrths)
     density: 6.086 g/cm<sup>3</sup>
     surface_gravity: 17.514 m/s<sup>2</sup><br />(1.786 g<sub>0</sub>)
     escape_velocity: 19.014 km/s<br />(68,451 km/h)
     rotation_period: 0.578 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 304 K<br />(31 °C)
-    surface_pressure: 4,908 kPa<br />(48 atm)
+    temperature: 267 K<br />(-6 °C)
+    surface_pressure: 4,908 kPa<br />(49 atm)
     composition:
       - 96.9633% nitrogen
       - 3.0367% ammonia
@@ -266,14 +266,14 @@ planets:
         radius: 7,648.9 km<br/>(1.201 Yrths)
         surface_area: 7.352 × 10<sup>08</sup> km<sup>2</sup><br/>(1.441 Yrths)
         volume: 1.875 × 10<sup>12</sup> km<sup>3</sup><br/>(1.731 Yrths)
-        mass: 5.304 × 10<sup>24</sup> kg<br />(4.674830353277932 Yrths)
+        mass: 5.304 × 10<sup>24</sup> kg<br />(0.888 Yrths)
         density: 2.830 g/cm<sup>3</sup>
         surface_gravity: 6.043 m/s<sup>2</sup><br />(0.616 g<sub>0</sub>)
         escape_velocity: 9.621 km/s<br />(34,636 km/h)
         rotation_period: 49.652 d
         axial_tilt: 19.82°
         albedo: 0.30
-        temperature: 2371 K<br />(2098 °C)
+        temperature: 201 K<br />(-72 °C)
   - name: 6183 Tanashad IV
     type: Terrestrial
     aphelion: 1,281,833,570 km<br />8.568 AU
@@ -285,14 +285,14 @@ planets:
     radius: 9,159.4 km<br/>(1.438 Yrths)
     surface_area: 1.054 × 10<sup>09</sup> km<sup>2</sup><br/>(2.067 Yrths)
     volume: 3.219 × 10<sup>12</sup> km<sup>3</sup><br/>(2.972 Yrths)
-    mass: 1.859 × 10<sup>25</sup> kg<br />(3.1125347317175764 Yrths)
+    mass: 1.859 × 10<sup>25</sup> kg<br />(3.11 Yrths)
     density: 5.775 g/cm<sup>3</sup>
     surface_gravity: 14.768 m/s<sup>2</sup><br />(1.506 g<sub>0</sub>)
     escape_velocity: 16.459 km/s<br />(59,252 km/h)
     rotation_period: 0.712 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 204 K<br />(-69 °C)
+    temperature: 279 K<br />(6 °C)
     surface_pressure: 271 kPa<br />(3 atm)
     composition:
       - 89.9666% methane
@@ -311,12 +311,12 @@ planets:
         radius: 6,900.8 km<br/>(1.083 Yrths)
         surface_area: 5.984 × 10<sup>08</sup> km<sup>2</sup><br/>(1.173 Yrths)
         volume: 1.377 × 10<sup>12</sup> km<sup>3</sup><br/>(1.271 Yrths)
-        mass: 2.084 × 10<sup>24</sup> kg<br />(3.1125347317175764 Yrths)
+        mass: 2.084 × 10<sup>24</sup> kg<br />(0.349 Yrths)
         density: 1.514 g/cm<sup>3</sup>
         surface_gravity: 2.917 m/s<sup>2</sup><br />(0.297 g<sub>0</sub>)
         escape_velocity: 6.349 km/s<br />(22,858 km/h)
         rotation_period: 69.831 d
         axial_tilt: 22.03°
         albedo: 0.30
-        temperature: 1996 K<br />(1723 °C)
+        temperature: 148 K<br />(-125 °C)
 ---

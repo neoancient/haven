@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9745 Dialkeshiad is a star in the constellation Dialkes
+      9745 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 402.59 ly
 apparent_magnitude: 13.36
 absolute_magnitude: 7.90

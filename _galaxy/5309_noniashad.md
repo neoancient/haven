@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5309 Noniashad is a star in the constellation Nonias
+      5309 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 622.47 ly
 apparent_magnitude: 12.01
 absolute_magnitude: 5.61

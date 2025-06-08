@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12203 Dialkeshiad A is a star in the constellation Dialkes
+      12203 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 374.70 ly
 apparent_magnitude: 9.00
 absolute_magnitude: 3.70

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8302 Dialkeshiad is a star in the constellation Dialkes
+      8302 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 459.81 ly
 apparent_magnitude: 10.49
 absolute_magnitude: 4.75

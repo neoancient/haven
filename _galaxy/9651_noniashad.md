@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9651 Noniashad is a star in the constellation Nonias
+      9651 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 508.83 ly
 apparent_magnitude: 10.89
 absolute_magnitude: 4.92

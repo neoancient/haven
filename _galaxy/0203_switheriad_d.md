@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0203 Switheriad D is a star in the constellation Swither
+      0203 Switheriad D is a star in the constellation <a href="swither.html">Swither</a>
 distance: 62.47 ly
 apparent_magnitude: 17.29
 absolute_magnitude: 15.88
@@ -31,14 +31,14 @@ planets:
     radius: 4,293.8 km<br/>(0.674 Yrths)
     surface_area: 2.317 × 10<sup>08</sup> km<sup>2</sup><br/>(0.454 Yrths)
     volume: 3.316 × 10<sup>11</sup> km<sup>3</sup><br/>(0.306 Yrths)
-    mass: 2.117 × 10<sup>25</sup> kg<br />(3.5442924909152844 Yrths)
+    mass: 2.117 × 10<sup>25</sup> kg<br />(3.54 Yrths)
     density: 63.832 g/cm<sup>3</sup>
     surface_gravity: 76.521 m/s<sup>2</sup><br />(7.803 g<sub>0</sub>)
     escape_velocity: 25.652 km/s<br />(92,347 km/h)
     rotation_period: 6.495 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 323 K<br />(50 °C)
+    temperature: 288 K<br />(15 °C)
     composition:
       - 100.0000% helium
     moons:
@@ -54,14 +54,14 @@ planets:
         radius: 5,260.8 km<br/>(0.826 Yrths)
         surface_area: 3.478 × 10<sup>08</sup> km<sup>2</sup><br/>(0.682 Yrths)
         volume: 6.099 × 10<sup>11</sup> km<sup>3</sup><br/>(0.563 Yrths)
-        mass: 7.579 × 10<sup>23</sup> kg<br />(3.5442924909152844 Yrths)
+        mass: 7.579 × 10<sup>23</sup> kg<br />(0.127 Yrths)
         density: 1.243 g/cm<sup>3</sup>
         surface_gravity: 1.825 m/s<sup>2</sup><br />(0.186 g<sub>0</sub>)
         escape_velocity: 4.385 km/s<br />(15,787 km/h)
         rotation_period: 0.000 d
         axial_tilt: 12.20°
         albedo: 0.30
-        temperature: 1659 K<br />(1386 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0203 Switheriad D I b
         type: Icy
         formationType: Impact formed
@@ -74,14 +74,14 @@ planets:
         radius: 8,739.0 km<br/>(1.372 Yrths)
         surface_area: 9.597 × 10<sup>08</sup> km<sup>2</sup><br/>(1.882 Yrths)
         volume: 2.796 × 10<sup>12</sup> km<sup>3</sup><br/>(2.581 Yrths)
-        mass: 4.294 × 10<sup>24</sup> kg<br />(3.5442924909152844 Yrths)
+        mass: 4.294 × 10<sup>24</sup> kg<br />(0.719 Yrths)
         density: 1.536 g/cm<sup>3</sup>
         surface_gravity: 3.748 m/s<sup>2</sup><br />(0.382 g<sub>0</sub>)
         escape_velocity: 8.099 km/s<br />(29,157 km/h)
         rotation_period: 0.000 d
         axial_tilt: 12.78°
         albedo: 0.30
-        temperature: 1582 K<br />(1309 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 0203 Switheriad D II
     type: Terrestrial
     aphelion: 9,750,222 km<br />0.065 AU
@@ -93,14 +93,14 @@ planets:
     radius: 3,079.8 km<br/>(0.483 Yrths)
     surface_area: 1.192 × 10<sup>08</sup> km<sup>2</sup><br/>(0.234 Yrths)
     volume: 1.224 × 10<sup>11</sup> km<sup>3</sup><br/>(0.113 Yrths)
-    mass: 3.740 × 10<sup>24</sup> kg<br />(0.6261922592597831 Yrths)
+    mass: 3.740 × 10<sup>24</sup> kg<br />(0.63 Yrths)
     density: 30.562 g/cm<sup>3</sup>
     surface_gravity: 26.279 m/s<sup>2</sup><br />(2.680 g<sub>0</sub>)
     escape_velocity: 12.731 km/s<br />(45,833 km/h)
     rotation_period: 12.979 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 223 K<br />(-50 °C)
+    temperature: 277 K<br />(4 °C)
     surface_pressure: 87 kPa<br />(1 atm)
     composition:
       - 84.0211% nitrogen
@@ -120,14 +120,14 @@ planets:
         radius: 1,457.4 km<br/>(0.229 Yrths)
         surface_area: 2.669 × 10<sup>07</sup> km<sup>2</sup><br/>(0.052 Yrths)
         volume: 1.297 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 3.716 × 10<sup>22</sup> kg<br />(0.6261922592597831 Yrths)
+        mass: 3.716 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 2.865 g/cm<sup>3</sup>
         surface_gravity: 1.166 m/s<sup>2</sup><br />(0.119 g<sub>0</sub>)
         escape_velocity: 1.845 km/s<br />(6,641 km/h)
         rotation_period: 28.970 d
         axial_tilt: 9.52°
         albedo: 0.30
-        temperature: 2036 K<br />(1763 °C)
+        temperature: 178 K<br />(-96 °C)
   - name: 0203 Switheriad D III
     type: Terrestrial
     aphelion: 12,695,736 km<br />0.085 AU
@@ -139,14 +139,14 @@ planets:
     radius: 2,964.9 km<br/>(0.465 Yrths)
     surface_area: 1.105 × 10<sup>08</sup> km<sup>2</sup><br/>(0.217 Yrths)
     volume: 1.092 × 10<sup>11</sup> km<sup>3</sup><br/>(0.101 Yrths)
-    mass: 4.180 × 10<sup>24</sup> kg<br />(0.6999377372498554 Yrths)
+    mass: 4.180 × 10<sup>24</sup> kg<br />(0.70 Yrths)
     density: 38.289 g/cm<sup>3</sup>
     surface_gravity: 31.695 m/s<sup>2</sup><br />(3.232 g<sub>0</sub>)
     escape_velocity: 13.718 km/s<br />(49,386 km/h)
     rotation_period: 9.682 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 234 K<br />(-39 °C)
+    temperature: 531 K<br />(258 °C)
     surface_pressure: 136 kPa<br />(1 atm)
     composition:
       - 59.9321% carbon dioxide
@@ -165,14 +165,14 @@ planets:
         radius: 1,186.6 km<br/>(0.186 Yrths)
         surface_area: 1.769 × 10<sup>07</sup> km<sup>2</sup><br/>(0.035 Yrths)
         volume: 6.999 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.929 × 10<sup>22</sup> kg<br />(0.6999377372498554 Yrths)
+        mass: 1.929 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.756 g/cm<sup>3</sup>
         surface_gravity: 0.913 m/s<sup>2</sup><br />(0.093 g<sub>0</sub>)
         escape_velocity: 1.473 km/s<br />(5,303 km/h)
         rotation_period: 37.989 d
         axial_tilt: 44.75°
         albedo: 0.30
-        temperature: 2036 K<br />(1763 °C)
+        temperature: 156 K<br />(-117 °C)
   - name: 0203 Switheriad D IV
     type: Large terrestrial
     aphelion: 16,557,148 km<br />0.111 AU
@@ -184,7 +184,7 @@ planets:
     radius: 2,706.6 km<br/>(0.425 Yrths)
     surface_area: 9.206 × 10<sup>07</sup> km<sup>2</sup><br/>(0.180 Yrths)
     volume: 8.306 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-    mass: 7.202 × 10<sup>24</sup> kg<br />(1.2060251733994272 Yrths)
+    mass: 7.202 × 10<sup>24</sup> kg<br />(1.21 Yrths)
     density: 86.715 g/cm<sup>3</sup>
     surface_gravity: 65.529 m/s<sup>2</sup><br />(6.682 g<sub>0</sub>)
     escape_velocity: 18.847 km/s<br />(67,849 km/h)
@@ -205,12 +205,12 @@ planets:
         radius: 2,655.6 km<br/>(0.417 Yrths)
         surface_area: 8.862 × 10<sup>07</sup> km<sup>2</sup><br/>(0.174 Yrths)
         volume: 7.844 × 10<sup>10</sup> km<sup>3</sup><br/>(0.072 Yrths)
-        mass: 2.530 × 10<sup>23</sup> kg<br />(1.2060251733994272 Yrths)
+        mass: 2.530 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 3.226 g/cm<sup>3</sup>
         surface_gravity: 2.392 m/s<sup>2</sup><br />(0.244 g<sub>0</sub>)
         escape_velocity: 3.566 km/s<br />(12,839 km/h)
         rotation_period: 33.399 d
         axial_tilt: 11.81°
         albedo: 0.30
-        temperature: 1340 K<br />(1067 °C)
+        temperature: 137 K<br />(-137 °C)
 ---

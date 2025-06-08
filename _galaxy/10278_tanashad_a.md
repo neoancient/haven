@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10278 Tanashad A is a star in the constellation Tanas
+      10278 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 854.87 ly
 apparent_magnitude: 7.02
 absolute_magnitude: -0.08

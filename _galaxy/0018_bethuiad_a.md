@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0018 Bethuiad A is a star in the constellation Bethu
+      0018 Bethuiad A is a star in the constellation <a href="bethu.html">Bethu</a>
 distance: 1634.03 ly
 apparent_magnitude: 6.49
 absolute_magnitude: -2.01

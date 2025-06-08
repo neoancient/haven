@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2241 Tanashad is a star in the constellation Tanas
+      2241 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 334.66 ly
 apparent_magnitude: 9.90
 absolute_magnitude: 4.85

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      632 Narashiad A is a star in the constellation Naras
+      632 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 402.73 ly
 apparent_magnitude: 8.84
 absolute_magnitude: 3.38

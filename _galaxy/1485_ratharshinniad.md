@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1485 Ratharshinniad is a star in the constellation Ratharshin
+      1485 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 946.90 ly
 apparent_magnitude: 12.11
 absolute_magnitude: 4.80

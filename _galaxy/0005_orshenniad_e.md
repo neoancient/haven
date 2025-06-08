@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Orshenniad E is a star in the constellation Orshen
+      0005 Orshenniad E is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 304.35 ly
 apparent_magnitude: 11.98
 absolute_magnitude: 7.13

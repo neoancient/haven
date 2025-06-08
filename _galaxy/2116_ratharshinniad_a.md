@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2116 Ratharshinniad A is a star in the constellation Ratharshin
+      2116 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 148.37 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 6.69

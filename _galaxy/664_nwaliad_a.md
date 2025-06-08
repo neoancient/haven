@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      664 Nwaliad A is a star in the constellation Nwal
+      664 Nwaliad A is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 1090.86 ly
 apparent_magnitude: 7.15
 absolute_magnitude: -0.48

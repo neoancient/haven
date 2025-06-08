@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2310 Arkothiad A is a star in the constellation Arkoth
+      2310 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 517.80 ly
 apparent_magnitude: 9.38
 absolute_magnitude: 3.38

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      494 Narashiad is a star in the constellation Naras
+      494 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 335.96 ly
 apparent_magnitude: 17.59
 absolute_magnitude: 12.52

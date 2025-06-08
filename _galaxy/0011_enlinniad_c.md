@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0011 Enlinniad C is a star in the constellation Enlin
+      0011 Enlinniad C is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 139.35 ly
 apparent_magnitude: 7.33
 absolute_magnitude: 4.17
@@ -31,7 +31,7 @@ planets:
     radius: 226.3 km<br/>(0.036 Yrths)
     surface_area: 6.435 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.854 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.712 × 10<sup>27</sup> kg<br />(286.6798706236649 Yrths)
+    mass: 1.712 × 10<sup>27</sup> kg<br />(286.68 Yrths)
     density: 35270409.831 g/cm<sup>3</sup>
     surface_gravity: 2228372.703 m/s<sup>2</sup><br />(227230.777 g<sub>0</sub>)
     escape_velocity: 1004.940 km/s<br />(3,617,783 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 212,355.6 km<br/>(33.332 Yrths)
         surface_area: 5.667 × 10<sup>11</sup> km<sup>2</sup><br/>(1110.995 Yrths)
         volume: 4.011 × 10<sup>16</sup> km<sup>3</sup><br/>(37031.240 Yrths)
-        mass: 3.622 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 3.622 × 10<sup>28</sup> kg<br />(6065.745 Yrths)
         density: 0.903 g/cm<sup>3</sup>
         surface_gravity: 53.542 m/s<sup>2</sup><br />(5.460 g<sub>0</sub>)
         escape_velocity: 150.900 km/s<br />(543,238 km/h)
         rotation_period: 88.013 d
         axial_tilt: 10.48°
         albedo: 0.30
-        temperature: 1232 K<br />(959 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I b
         type: Icy
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 228,446.3 km<br/>(35.857 Yrths)
         surface_area: 6.558 × 10<sup>11</sup> km<sup>2</sup><br/>(1285.740 Yrths)
         volume: 4.994 × 10<sup>16</sup> km<sup>3</sup><br/>(46103.032 Yrths)
-        mass: 5.983 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 5.983 × 10<sup>28</sup> kg<br />(10019.020 Yrths)
         density: 1.198 g/cm<sup>3</sup>
         surface_gravity: 76.418 m/s<sup>2</sup><br />(7.792 g<sub>0</sub>)
         escape_velocity: 186.981 km/s<br />(673,133 km/h)
         rotation_period: 73.138 d
         axial_tilt: 9.14°
         albedo: 0.30
-        temperature: 842 K<br />(569 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I c
         type: Rocky
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 132,488.9 km<br/>(20.796 Yrths)
         surface_area: 2.206 × 10<sup>11</sup> km<sup>2</sup><br/>(432.458 Yrths)
         volume: 9.742 × 10<sup>15</sup> km<sup>3</sup><br/>(8993.232 Yrths)
-        mass: 2.937 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 2.937 × 10<sup>28</sup> kg<br />(4917.639 Yrths)
         density: 3.015 g/cm<sup>3</sup>
         surface_gravity: 111.515 m/s<sup>2</sup><br />(11.371 g<sub>0</sub>)
         escape_velocity: 172.015 km/s<br />(619,254 km/h)
         rotation_period: 35.496 d
         axial_tilt: 9.12°
         albedo: 0.30
-        temperature: 803 K<br />(529 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -112,14 +112,14 @@ planets:
         radius: 169,012.4 km<br/>(26.528 Yrths)
         surface_area: 3.590 × 10<sup>11</sup> km<sup>2</sup><br/>(703.756 Yrths)
         volume: 2.022 × 10<sup>16</sup> km<sup>3</sup><br/>(18669.522 Yrths)
-        mass: 3.335 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 3.335 × 10<sup>28</sup> kg<br />(5584.311 Yrths)
         density: 1.649 g/cm<sup>3</sup>
         surface_gravity: 77.816 m/s<sup>2</sup><br />(7.935 g<sub>0</sub>)
         escape_velocity: 162.294 km/s<br />(584,259 km/h)
         rotation_period: 43.396 d
         axial_tilt: 16.16°
         albedo: 0.30
-        temperature: 765 K<br />(492 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 150,010.0 km<br/>(23.546 Yrths)
         surface_area: 2.828 × 10<sup>11</sup> km<sup>2</sup><br/>(554.402 Yrths)
         volume: 1.414 × 10<sup>16</sup> km<sup>3</sup><br/>(13053.815 Yrths)
-        mass: 2.712 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 2.712 × 10<sup>28</sup> kg<br />(4541.853 Yrths)
         density: 1.918 g/cm<sup>3</sup>
         surface_gravity: 80.339 m/s<sup>2</sup><br />(8.192 g<sub>0</sub>)
         escape_velocity: 155.358 km/s<br />(559,290 km/h)
         rotation_period: 69.670 d
         axial_tilt: 18.92°
         albedo: 0.30
-        temperature: 632 K<br />(359 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I f
         type: Icy
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 203,075.6 km<br/>(31.875 Yrths)
         surface_area: 5.182 × 10<sup>11</sup> km<sup>2</sup><br/>(1016.015 Yrths)
         volume: 3.508 × 10<sup>16</sup> km<sup>3</sup><br/>(32385.467 Yrths)
-        mass: 4.324 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 4.324 × 10<sup>28</sup> kg<br />(7240.986 Yrths)
         density: 1.233 g/cm<sup>3</sup>
         surface_gravity: 69.891 m/s<sup>2</sup><br />(7.127 g<sub>0</sub>)
         escape_velocity: 168.596 km/s<br />(606,946 km/h)
         rotation_period: 54.654 d
         axial_tilt: 11.96°
         albedo: 0.30
-        temperature: 523 K<br />(250 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I g
         type: Icy
         formationType: Captured
@@ -172,14 +172,14 @@ planets:
         radius: 183,817.7 km<br/>(28.852 Yrths)
         surface_area: 4.246 × 10<sup>11</sup> km<sup>2</sup><br/>(832.452 Yrths)
         volume: 2.602 × 10<sup>16</sup> km<sup>3</sup><br/>(24018.130 Yrths)
-        mass: 2.601 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 2.601 × 10<sup>28</sup> kg<br />(4355.374 Yrths)
         density: 1.000 g/cm<sup>3</sup>
         surface_gravity: 51.308 m/s<sup>2</sup><br />(5.232 g<sub>0</sub>)
         escape_velocity: 137.435 km/s<br />(494,765 km/h)
         rotation_period: 84.418 d
         axial_tilt: 18.69°
         albedo: 0.30
-        temperature: 453 K<br />(180 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -192,14 +192,14 @@ planets:
         radius: 153,561.7 km<br/>(24.103 Yrths)
         surface_area: 2.963 × 10<sup>11</sup> km<sup>2</sup><br/>(580.966 Yrths)
         volume: 1.517 × 10<sup>16</sup> km<sup>3</sup><br/>(14003.164 Yrths)
-        mass: 2.758 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 2.758 × 10<sup>28</sup> kg<br />(4618.772 Yrths)
         density: 1.818 g/cm<sup>3</sup>
         surface_gravity: 77.964 m/s<sup>2</sup><br />(7.950 g<sub>0</sub>)
         escape_velocity: 154.846 km/s<br />(557,445 km/h)
         rotation_period: 40.375 d
         axial_tilt: 8.78°
         albedo: 0.30
-        temperature: 374 K<br />(101 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -212,14 +212,14 @@ planets:
         radius: 189,727.8 km<br/>(29.780 Yrths)
         surface_area: 4.523 × 10<sup>11</sup> km<sup>2</sup><br/>(886.843 Yrths)
         volume: 2.861 × 10<sup>16</sup> km<sup>3</sup><br/>(26410.098 Yrths)
-        mass: 4.577 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 4.577 × 10<sup>28</sup> kg<br />(7664.461 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 84.753 m/s<sup>2</sup><br />(8.642 g<sub>0</sub>)
         escape_velocity: 179.454 km/s<br />(646,034 km/h)
         rotation_period: 42.866 d
         axial_tilt: 16.47°
         albedo: 0.30
-        temperature: 268 K<br />(-5 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -232,14 +232,14 @@ planets:
         radius: 171,768.3 km<br/>(26.961 Yrths)
         surface_area: 3.708 × 10<sup>11</sup> km<sup>2</sup><br/>(726.893 Yrths)
         volume: 2.123 × 10<sup>16</sup> km<sup>3</sup><br/>(19597.737 Yrths)
-        mass: 3.397 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 3.397 × 10<sup>28</sup> kg<br />(5687.449 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 76.730 m/s<sup>2</sup><br />(7.824 g<sub>0</sub>)
         escape_velocity: 162.467 km/s<br />(584,881 km/h)
         rotation_period: 67.538 d
         axial_tilt: 19.93°
         albedo: 0.30
-        temperature: 211 K<br />(-62 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I k
         type: Icy
         formationType: Accreted
@@ -252,14 +252,14 @@ planets:
         radius: 160,096.5 km<br/>(25.129 Yrths)
         surface_area: 3.221 × 10<sup>11</sup> km<sup>2</sup><br/>(631.464 Yrths)
         volume: 1.719 × 10<sup>16</sup> km<sup>3</sup><br/>(15868.011 Yrths)
-        mass: 2.605 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 2.605 × 10<sup>28</sup> kg<br />(4361.918 Yrths)
         density: 1.516 g/cm<sup>3</sup>
         surface_gravity: 67.741 m/s<sup>2</sup><br />(6.908 g<sub>0</sub>)
         escape_velocity: 147.376 km/s<br />(530,552 km/h)
         rotation_period: 48.698 d
         axial_tilt: 17.75°
         albedo: 0.30
-        temperature: 202 K<br />(-72 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0011 Enlinniad C I l
         type: Rocky
         formationType: Impact formed
@@ -272,14 +272,14 @@ planets:
         radius: 186,400.7 km<br/>(29.258 Yrths)
         surface_area: 4.366 × 10<sup>11</sup> km<sup>2</sup><br/>(856.012 Yrths)
         volume: 2.713 × 10<sup>16</sup> km<sup>3</sup><br/>(25044.937 Yrths)
-        mass: 8.036 × 10<sup>28</sup> kg<br />(286.6798706236649 Yrths)
+        mass: 8.036 × 10<sup>28</sup> kg<br />(13456.545 Yrths)
         density: 2.962 g/cm<sup>3</sup>
         surface_gravity: 154.161 m/s<sup>2</sup><br />(15.720 g<sub>0</sub>)
         escape_velocity: 239.895 km/s<br />(863,621 km/h)
         rotation_period: 57.453 d
         axial_tilt: 11.06°
         albedo: 0.30
-        temperature: 183 K<br />(-90 °C)
+        temperature: 223 K<br />(-50 °C)
   - name: 0011 Enlinniad C II
     type: Large terrestrial
     aphelion: 788,127,267 km<br />5.268 AU
@@ -291,14 +291,14 @@ planets:
     radius: 9,117.9 km<br/>(1.431 Yrths)
     surface_area: 1.045 × 10<sup>09</sup> km<sup>2</sup><br/>(2.048 Yrths)
     volume: 3.175 × 10<sup>12</sup> km<sup>3</sup><br/>(2.931 Yrths)
-    mass: 2.072 × 10<sup>25</sup> kg<br />(3.4692513046673144 Yrths)
+    mass: 2.072 × 10<sup>25</sup> kg<br />(3.47 Yrths)
     density: 6.525 g/cm<sup>3</sup>
     surface_gravity: 16.610 m/s<sup>2</sup><br />(1.694 g<sub>0</sub>)
     escape_velocity: 17.416 km/s<br />(62,698 km/h)
     rotation_period: 0.756 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 211 K<br />(-62 °C)
+    temperature: 249 K<br />(-24 °C)
     surface_pressure: 277 kPa<br />(3 atm)
     composition:
       - 85.1907% nitrogen
@@ -317,14 +317,14 @@ planets:
         radius: 6,029.6 km<br/>(0.946 Yrths)
         surface_area: 4.569 × 10<sup>08</sup> km<sup>2</sup><br/>(0.896 Yrths)
         volume: 9.182 × 10<sup>11</sup> km<sup>3</sup><br/>(0.848 Yrths)
-        mass: 1.041 × 10<sup>24</sup> kg<br />(3.4692513046673144 Yrths)
+        mass: 1.041 × 10<sup>24</sup> kg<br />(0.174 Yrths)
         density: 1.134 g/cm<sup>3</sup>
         surface_gravity: 1.908 m/s<sup>2</sup><br />(0.195 g<sub>0</sub>)
         escape_velocity: 4.800 km/s<br />(17,281 km/h)
         rotation_period: 54.874 d
         axial_tilt: 26.53°
         albedo: 0.30
-        temperature: 2216 K<br />(1943 °C)
+        temperature: 160 K<br />(-114 °C)
       - name: 0011 Enlinniad C II b
         type: Icy
         formationType: Captured
@@ -337,14 +337,14 @@ planets:
         radius: 9,924.2 km<br/>(1.558 Yrths)
         surface_area: 1.238 × 10<sup>09</sup> km<sup>2</sup><br/>(2.426 Yrths)
         volume: 4.094 × 10<sup>12</sup> km<sup>3</sup><br/>(3.780 Yrths)
-        mass: 6.075 × 10<sup>24</sup> kg<br />(3.4692513046673144 Yrths)
+        mass: 6.075 × 10<sup>24</sup> kg<br />(1.017 Yrths)
         density: 1.484 g/cm<sup>3</sup>
         surface_gravity: 4.111 m/s<sup>2</sup><br />(0.419 g<sub>0</sub>)
         escape_velocity: 9.040 km/s<br />(32,543 km/h)
         rotation_period: 62.411 d
         axial_tilt: 16.13°
         albedo: 0.30
-        temperature: 2113 K<br />(1840 °C)
+        temperature: 160 K<br />(-114 °C)
       - name: 0011 Enlinniad C II c
         type: Rocky
         formationType: Impact formed
@@ -357,12 +357,12 @@ planets:
         radius: 3,351.9 km<br/>(0.526 Yrths)
         surface_area: 1.412 × 10<sup>08</sup> km<sup>2</sup><br/>(0.277 Yrths)
         volume: 1.577 × 10<sup>11</sup> km<sup>3</sup><br/>(0.146 Yrths)
-        mass: 4.684 × 10<sup>23</sup> kg<br />(3.4692513046673144 Yrths)
+        mass: 4.684 × 10<sup>23</sup> kg<br />(0.078 Yrths)
         density: 2.969 g/cm<sup>3</sup>
         surface_gravity: 2.779 m/s<sup>2</sup><br />(0.283 g<sub>0</sub>)
         escape_velocity: 4.319 km/s<br />(15,548 km/h)
         rotation_period: 32.154 d
         axial_tilt: 5.37°
         albedo: 0.30
-        temperature: 2015 K<br />(1742 °C)
+        temperature: 160 K<br />(-114 °C)
 ---

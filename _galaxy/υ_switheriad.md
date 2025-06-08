@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      υ Switheriad is a star in the constellation Swither
+      υ Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 259.92 ly
 apparent_magnitude: 5.48
 absolute_magnitude: 0.97
@@ -31,14 +31,14 @@ planets:
     radius: 5,485.8 km<br/>(0.861 Yrths)
     surface_area: 3.782 × 10<sup>08</sup> km<sup>2</sup><br/>(0.741 Yrths)
     volume: 6.915 × 10<sup>11</sup> km<sup>3</sup><br/>(0.638 Yrths)
-    mass: 3.273 × 10<sup>24</sup> kg<br />(0.5481188350560905 Yrths)
+    mass: 3.273 × 10<sup>24</sup> kg<br />(0.55 Yrths)
     density: 4.734 g/cm<sup>3</sup>
     surface_gravity: 7.250 m/s<sup>2</sup><br />(0.739 g<sub>0</sub>)
     escape_velocity: 8.925 km/s<br />(32,129 km/h)
     rotation_period: 1.263 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 346 K<br />(73 °C)
+    temperature: 321 K<br />(48 °C)
     surface_pressure: 39 kPa<br />(0 atm)
     composition:
       - 94.0613% nitrogen
@@ -56,12 +56,12 @@ planets:
         radius: 1,813.1 km<br/>(0.285 Yrths)
         surface_area: 4.131 × 10<sup>07</sup> km<sup>2</sup><br/>(0.081 Yrths)
         volume: 2.497 × 10<sup>10</sup> km<sup>3</sup><br/>(0.023 Yrths)
-        mass: 6.684 × 10<sup>22</sup> kg<br />(0.5481188350560905 Yrths)
+        mass: 6.684 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 2.677 g/cm<sup>3</sup>
         surface_gravity: 1.355 m/s<sup>2</sup><br />(0.138 g<sub>0</sub>)
         escape_velocity: 2.218 km/s<br />(7,986 km/h)
         rotation_period: 37.474 d
         axial_tilt: 11.87°
         albedo: 0.30
-        temperature: 5223 K<br />(4950 °C)
+        temperature: 303 K<br />(30 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4162 Geardiad is a star in the constellation Geard
+      4162 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 523.50 ly
 apparent_magnitude: 15.46
 absolute_magnitude: 9.43

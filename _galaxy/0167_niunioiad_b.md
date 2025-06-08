@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0167 Niunioiad B is a star in the constellation Niunio
+      0167 Niunioiad B is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 324.89 ly
 apparent_magnitude: 8.06
 absolute_magnitude: 3.07

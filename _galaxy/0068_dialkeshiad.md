@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0068 Dialkeshiad is a star in the constellation Dialkes
+      0068 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 692.25 ly
 apparent_magnitude: 5.96
 absolute_magnitude: -0.67
@@ -31,14 +31,14 @@ planets:
     radius: 17,070.8 km<br/>(2.679 Yrths)
     surface_area: 3.662 × 10<sup>09</sup> km<sup>2</sup><br/>(7.179 Yrths)
     volume: 2.084 × 10<sup>13</sup> km<sup>3</sup><br/>(19.237 Yrths)
-    mass: 5.030 × 10<sup>25</sup> kg<br />(8.422957905482857 Yrths)
+    mass: 5.030 × 10<sup>25</sup> kg<br />(8.42 Yrths)
     density: 2.414 g/cm<sup>3</sup>
     surface_gravity: 11.505 m/s<sup>2</sup><br />(1.173 g<sub>0</sub>)
     escape_velocity: 19.833 km/s<br />(71,398 km/h)
     rotation_period: 0.434 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 641 K<br />(368 °C)
+    temperature: 573 K<br />(300 °C)
     composition:
       - 50.6208% hydrogen
       - 48.4698% helium
@@ -57,14 +57,14 @@ planets:
         radius: 23,562.3 km<br/>(3.698 Yrths)
         surface_area: 6.977 × 10<sup>09</sup> km<sup>2</sup><br/>(13.678 Yrths)
         volume: 5.479 × 10<sup>13</sup> km<sup>3</sup><br/>(50.586 Yrths)
-        mass: 9.647 × 10<sup>25</sup> kg<br />(8.422957905482857 Yrths)
+        mass: 9.647 × 10<sup>25</sup> kg<br />(16.153 Yrths)
         density: 1.760 g/cm<sup>3</sup>
         surface_gravity: 11.581 m/s<sup>2</sup><br />(1.181 g<sub>0</sub>)
         escape_velocity: 23.377 km/s<br />(84,159 km/h)
         rotation_period: 38.934 d
         axial_tilt: 8.39°
         albedo: 0.30
-        temperature: 4786 K<br />(4513 °C)
+        temperature: 401 K<br />(127 °C)
   - name: 0068 Dialkeshiad II
     type: Terrestrial
     aphelion: 2,802,434,752 km<br />18.733 AU
@@ -76,14 +76,14 @@ planets:
     radius: 8,297.9 km<br/>(1.302 Yrths)
     surface_area: 8.653 × 10<sup>08</sup> km<sup>2</sup><br/>(1.696 Yrths)
     volume: 2.393 × 10<sup>12</sup> km<sup>3</sup><br/>(2.209 Yrths)
-    mass: 1.247 × 10<sup>25</sup> kg<br />(2.0874753072335492 Yrths)
+    mass: 1.247 × 10<sup>25</sup> kg<br />(2.09 Yrths)
     density: 5.209 g/cm<sup>3</sup>
     surface_gravity: 12.068 m/s<sup>2</sup><br />(1.231 g<sub>0</sub>)
     escape_velocity: 14.161 km/s<br />(50,981 km/h)
     rotation_period: 0.804 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 442 K<br />(169 °C)
+    temperature: 1146 K<br />(873 °C)
     surface_pressure: 178 kPa<br />(2 atm)
     composition:
       - 84.0888% carbon dioxide

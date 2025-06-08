@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0065 Nishiad B is a star in the constellation Nishi
+      0065 Nishiad B is a star in the constellation <a href="nishi.html">Nishi</a>
 distance: 221.88 ly
 apparent_magnitude: 9.89
 absolute_magnitude: 5.73

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      939 Ratharshinniad is a star in the constellation Ratharshin
+      939 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1121.99 ly
 apparent_magnitude: 8.35
 absolute_magnitude: 0.67

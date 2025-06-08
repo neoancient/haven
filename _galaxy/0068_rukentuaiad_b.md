@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0068 Rukentuaiad B is a star in the constellation Rukentua
+      0068 Rukentuaiad B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 187.66 ly
 apparent_magnitude: 8.65
 absolute_magnitude: 4.85

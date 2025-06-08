@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      732 Narashiad is a star in the constellation Naras
+      732 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 305.78 ly
 apparent_magnitude: 11.09
 absolute_magnitude: 6.23
@@ -31,14 +31,14 @@ planets:
     radius: 4,663.7 km<br/>(0.732 Yrths)
     surface_area: 2.733 × 10<sup>08</sup> km<sup>2</sup><br/>(0.536 Yrths)
     volume: 4.249 × 10<sup>11</sup> km<sup>3</sup><br/>(0.392 Yrths)
-    mass: 1.959 × 10<sup>24</sup> kg<br />(0.32796670843963277 Yrths)
+    mass: 1.959 × 10<sup>24</sup> kg<br />(0.33 Yrths)
     density: 4.610 g/cm<sup>3</sup>
     surface_gravity: 6.002 m/s<sup>2</sup><br />(0.612 g<sub>0</sub>)
     escape_velocity: 7.487 km/s<br />(26,954 km/h)
     rotation_period: 3.986 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 431 K<br />(158 °C)
+    temperature: 1168 K<br />(895 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 78.5260% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 841.4 km<br/>(0.132 Yrths)
         surface_area: 8.897 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.495 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 8.097 × 10<sup>21</sup> kg<br />(0.32796670843963277 Yrths)
+        mass: 8.097 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.245 g/cm<sup>3</sup>
         surface_gravity: 0.762 m/s<sup>2</sup><br />(0.078 g<sub>0</sub>)
         escape_velocity: 1.133 km/s<br />(4,080 km/h)
         rotation_period: 30.836 d
         axial_tilt: 8.09°
         albedo: 0.30
-        temperature: 6441 K<br />(6167 °C)
+        temperature: 318 K<br />(45 °C)
   - name: 732 Narashiad II
     type: Large terrestrial
     aphelion: 97,536,803 km<br />0.652 AU
@@ -78,14 +78,14 @@ planets:
     radius: 6,597.0 km<br/>(1.035 Yrths)
     surface_area: 5.469 × 10<sup>08</sup> km<sup>2</sup><br/>(1.072 Yrths)
     volume: 1.203 × 10<sup>12</sup> km<sup>3</sup><br/>(1.110 Yrths)
-    mass: 8.369 × 10<sup>24</sup> kg<br />(1.4013893219115285 Yrths)
+    mass: 8.369 × 10<sup>24</sup> kg<br />(1.40 Yrths)
     density: 6.959 g/cm<sup>3</sup>
     surface_gravity: 12.817 m/s<sup>2</sup><br />(1.307 g<sub>0</sub>)
     escape_velocity: 13.013 km/s<br />(46,847 km/h)
     rotation_period: 1.497 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 408 K<br />(135 °C)
+    temperature: 1040 K<br />(767 °C)
     surface_pressure: 332 kPa<br />(3 atm)
     composition:
       - 82.7951% carbon dioxide
@@ -104,14 +104,14 @@ planets:
         radius: 3,971.4 km<br/>(0.623 Yrths)
         surface_area: 1.982 × 10<sup>08</sup> km<sup>2</sup><br/>(0.389 Yrths)
         volume: 2.624 × 10<sup>11</sup> km<sup>3</sup><br/>(0.242 Yrths)
-        mass: 7.901 × 10<sup>23</sup> kg<br />(1.4013893219115285 Yrths)
+        mass: 7.901 × 10<sup>23</sup> kg<br />(0.132 Yrths)
         density: 3.011 g/cm<sup>3</sup>
         surface_gravity: 3.339 m/s<sup>2</sup><br />(0.340 g<sub>0</sub>)
         escape_velocity: 5.153 km/s<br />(18,552 km/h)
         rotation_period: 29.331 d
         axial_tilt: 13.90°
         albedo: 0.30
-        temperature: 4007 K<br />(3733 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 732 Narashiad II b
         type: Rocky
         formationType: Captured
@@ -124,14 +124,14 @@ planets:
         radius: 2,599.7 km<br/>(0.408 Yrths)
         surface_area: 8.493 × 10<sup>07</sup> km<sup>2</sup><br/>(0.167 Yrths)
         volume: 7.360 × 10<sup>10</sup> km<sup>3</sup><br/>(0.068 Yrths)
-        mass: 2.187 × 10<sup>23</sup> kg<br />(1.4013893219115285 Yrths)
+        mass: 2.187 × 10<sup>23</sup> kg<br />(0.037 Yrths)
         density: 2.972 g/cm<sup>3</sup>
         surface_gravity: 2.157 m/s<sup>2</sup><br />(0.220 g<sub>0</sub>)
         escape_velocity: 3.351 km/s<br />(12,065 km/h)
         rotation_period: 44.876 d
         axial_tilt: 8.53°
         albedo: 0.30
-        temperature: 3820 K<br />(3547 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: 732 Narashiad III
     type: Large terrestrial
     aphelion: 156,592,241 km<br />1.047 AU
@@ -143,14 +143,14 @@ planets:
     radius: 7,129.8 km<br/>(1.119 Yrths)
     surface_area: 6.388 × 10<sup>08</sup> km<sup>2</sup><br/>(1.252 Yrths)
     volume: 1.518 × 10<sup>12</sup> km<sup>3</sup><br/>(1.402 Yrths)
-    mass: 9.832 × 10<sup>24</sup> kg<br />(1.646414170464996 Yrths)
+    mass: 9.832 × 10<sup>24</sup> kg<br />(1.65 Yrths)
     density: 6.476 g/cm<sup>3</sup>
     surface_gravity: 12.892 m/s<sup>2</sup><br />(1.315 g<sub>0</sub>)
     escape_velocity: 13.568 km/s<br />(48,844 km/h)
     rotation_period: 1.216 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 241 K<br />(-32 °C)
+    temperature: 215 K<br />(-58 °C)
     surface_pressure: 174 kPa<br />(2 atm)
     composition:
       - 93.3262% nitrogen
@@ -168,14 +168,14 @@ planets:
         radius: 3,782.9 km<br/>(0.594 Yrths)
         surface_area: 1.798 × 10<sup>08</sup> km<sup>2</sup><br/>(0.353 Yrths)
         volume: 2.268 × 10<sup>11</sup> km<sup>3</sup><br/>(0.209 Yrths)
-        mass: 5.110 × 10<sup>23</sup> kg<br />(1.646414170464996 Yrths)
+        mass: 5.110 × 10<sup>23</sup> kg<br />(0.086 Yrths)
         density: 2.253 g/cm<sup>3</sup>
         surface_gravity: 2.380 m/s<sup>2</sup><br />(0.243 g<sub>0</sub>)
         escape_velocity: 4.246 km/s<br />(15,287 km/h)
         rotation_period: 38.593 d
         axial_tilt: 19.33°
         albedo: 0.30
-        temperature: 2401 K<br />(2128 °C)
+        temperature: 195 K<br />(-78 °C)
       - name: 732 Narashiad III b
         type: Icy
         formationType: Captured
@@ -188,14 +188,14 @@ planets:
         radius: 3,620.0 km<br/>(0.568 Yrths)
         surface_area: 1.647 × 10<sup>08</sup> km<sup>2</sup><br/>(0.323 Yrths)
         volume: 1.987 × 10<sup>11</sup> km<sup>3</sup><br/>(0.183 Yrths)
-        mass: 3.046 × 10<sup>23</sup> kg<br />(1.646414170464996 Yrths)
+        mass: 3.046 × 10<sup>23</sup> kg<br />(0.051 Yrths)
         density: 1.533 g/cm<sup>3</sup>
         surface_gravity: 1.549 m/s<sup>2</sup><br />(0.158 g<sub>0</sub>)
         escape_velocity: 3.351 km/s<br />(12,065 km/h)
         rotation_period: 70.460 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 2290 K<br />(2016 °C)
+        temperature: 195 K<br />(-78 °C)
   - name: 732 Narashiad IV
     type: Gas giant
     aphelion: 247,126,441 km<br />1.652 AU
@@ -207,7 +207,7 @@ planets:
     radius: 222.6 km<br/>(0.035 Yrths)
     surface_area: 6.226 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.619 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.595 × 10<sup>27</sup> kg<br />(267.04008244524715 Yrths)
+    mass: 1.595 × 10<sup>27</sup> kg<br />(267.04 Yrths)
     density: 34527131.486 g/cm<sup>3</sup>
     surface_gravity: 2145594.149 m/s<sup>2</sup><br />(218789.714 g<sub>0</sub>)
     escape_velocity: 977.968 km/s<br />(3,520,686 km/h)
@@ -228,14 +228,14 @@ planets:
         radius: 152,676.0 km<br/>(23.964 Yrths)
         surface_area: 2.929 × 10<sup>11</sup> km<sup>2</sup><br/>(574.284 Yrths)
         volume: 1.491 × 10<sup>16</sup> km<sup>3</sup><br/>(13762.263 Yrths)
-        mass: 2.832 × 10<sup>28</sup> kg<br />(267.04008244524715 Yrths)
+        mass: 2.832 × 10<sup>28</sup> kg<br />(4742.803 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 80.990 m/s<sup>2</sup><br />(8.259 g<sub>0</sub>)
         escape_velocity: 157.366 km/s<br />(566,516 km/h)
         rotation_period: 42.271 d
         axial_tilt: 24.03°
         albedo: 0.30
-        temperature: 730 K<br />(457 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 732 Narashiad IV b
         type: Rocky
         formationType: Captured
@@ -248,14 +248,14 @@ planets:
         radius: 148,755.7 km<br/>(23.349 Yrths)
         surface_area: 2.781 × 10<sup>11</sup> km<sup>2</sup><br/>(545.170 Yrths)
         volume: 1.379 × 10<sup>16</sup> km<sup>3</sup><br/>(12729.110 Yrths)
-        mass: 3.943 × 10<sup>28</sup> kg<br />(267.04008244524715 Yrths)
+        mass: 3.943 × 10<sup>28</sup> kg<br />(6602.539 Yrths)
         density: 2.860 g/cm<sup>3</sup>
         surface_gravity: 118.768 m/s<sup>2</sup><br />(12.111 g<sub>0</sub>)
         escape_velocity: 188.103 km/s<br />(677,172 km/h)
         rotation_period: 30.921 d
         axial_tilt: 9.09°
         albedo: 0.30
-        temperature: 696 K<br />(423 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 732 Narashiad IV c
         type: Rocky
         formationType: Captured
@@ -268,14 +268,14 @@ planets:
         radius: 141,701.5 km<br/>(22.242 Yrths)
         surface_area: 2.523 × 10<sup>11</sup> km<sup>2</sup><br/>(494.691 Yrths)
         volume: 1.192 × 10<sup>16</sup> km<sup>3</sup><br/>(11002.733 Yrths)
-        mass: 3.570 × 10<sup>28</sup> kg<br />(267.04008244524715 Yrths)
+        mass: 3.570 × 10<sup>28</sup> kg<br />(5978.361 Yrths)
         density: 2.996 g/cm<sup>3</sup>
         surface_gravity: 118.514 m/s<sup>2</sup><br />(12.085 g<sub>0</sub>)
         escape_velocity: 183.393 km/s<br />(660,213 km/h)
         rotation_period: 42.084 d
         axial_tilt: 11.55°
         albedo: 0.30
-        temperature: 576 K<br />(302 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 732 Narashiad IV d
         type: Icy
         formationType: Captured
@@ -288,14 +288,14 @@ planets:
         radius: 181,446.0 km<br/>(28.480 Yrths)
         surface_area: 4.137 × 10<sup>11</sup> km<sup>2</sup><br/>(811.110 Yrths)
         volume: 2.502 × 10<sup>16</sup> km<sup>3</sup><br/>(23100.404 Yrths)
-        mass: 2.279 × 10<sup>28</sup> kg<br />(267.04008244524715 Yrths)
+        mass: 2.279 × 10<sup>28</sup> kg<br />(3815.628 Yrths)
         density: 0.911 g/cm<sup>3</sup>
         surface_gravity: 46.133 m/s<sup>2</sup><br />(4.704 g<sub>0</sub>)
         escape_velocity: 129.475 km/s<br />(466,111 km/h)
         rotation_period: 54.426 d
         axial_tilt: 5.87°
         albedo: 0.30
-        temperature: 549 K<br />(276 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 732 Narashiad IV e
         type: Icy
         formationType: Accreted
@@ -308,14 +308,14 @@ planets:
         radius: 194,999.7 km<br/>(30.607 Yrths)
         surface_area: 4.778 × 10<sup>11</sup> km<sup>2</sup><br/>(936.812 Yrths)
         volume: 3.106 × 10<sup>16</sup> km<sup>3</sup><br/>(28673.385 Yrths)
-        mass: 4.393 × 10<sup>28</sup> kg<br />(267.04008244524715 Yrths)
+        mass: 4.393 × 10<sup>28</sup> kg<br />(7356.465 Yrths)
         density: 1.414 g/cm<sup>3</sup>
         surface_gravity: 77.008 m/s<sup>2</sup><br />(7.853 g<sub>0</sub>)
         escape_velocity: 173.418 km/s<br />(624,307 km/h)
         rotation_period: 50.161 d
         axial_tilt: 15.12°
         albedo: 0.30
-        temperature: 499 K<br />(226 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 732 Narashiad IV f
         type: Asteroid
         formationType: Captured
@@ -328,14 +328,14 @@ planets:
         radius: 225,257.7 km<br/>(35.357 Yrths)
         surface_area: 6.376 × 10<sup>11</sup> km<sup>2</sup><br/>(1250.098 Yrths)
         volume: 4.788 × 10<sup>16</sup> km<sup>3</sup><br/>(44199.365 Yrths)
-        mass: 1.074 × 10<sup>29</sup> kg<br />(267.04008244524715 Yrths)
+        mass: 1.074 × 10<sup>29</sup> kg<br />(17981.867 Yrths)
         density: 2.243 g/cm<sup>3</sup>
         surface_gravity: 141.062 m/s<sup>2</sup><br />(14.384 g<sub>0</sub>)
         escape_velocity: 252.264 km/s<br />(908,151 km/h)
         rotation_period: 60.079 d
         axial_tilt: 50.86°
         albedo: 0.30
-        temperature: 432 K<br />(159 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 732 Narashiad IV g
         type: Ice/rock hybrid
         formationType: Captured
@@ -348,14 +348,14 @@ planets:
         radius: 133,017.7 km<br/>(20.879 Yrths)
         surface_area: 2.223 × 10<sup>11</sup> km<sup>2</sup><br/>(435.917 Yrths)
         volume: 9.859 × 10<sup>15</sup> km<sup>3</sup><br/>(9101.349 Yrths)
-        mass: 2.656 × 10<sup>28</sup> kg<br />(267.04008244524715 Yrths)
+        mass: 2.656 × 10<sup>28</sup> kg<br />(4447.310 Yrths)
         density: 2.694 g/cm<sup>3</sup>
         surface_gravity: 100.049 m/s<sup>2</sup><br />(10.202 g<sub>0</sub>)
         escape_velocity: 163.257 km/s<br />(587,725 km/h)
         rotation_period: 39.504 d
         axial_tilt: 22.08°
         albedo: 0.30
-        temperature: 282 K<br />(8 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 732 Narashiad IV h
         type: Rocky
         formationType: Accreted
@@ -368,14 +368,14 @@ planets:
         radius: 123,749.1 km<br/>(19.424 Yrths)
         surface_area: 1.924 × 10<sup>11</sup> km<sup>2</sup><br/>(377.284 Yrths)
         volume: 7.938 × 10<sup>15</sup> km<sup>3</sup><br/>(7328.298 Yrths)
-        mass: 2.759 × 10<sup>28</sup> kg<br />(267.04008244524715 Yrths)
+        mass: 2.759 × 10<sup>28</sup> kg<br />(4619.769 Yrths)
         density: 3.476 g/cm<sup>3</sup>
         surface_gravity: 120.080 m/s<sup>2</sup><br />(12.245 g<sub>0</sub>)
         escape_velocity: 172.511 km/s<br />(621,040 km/h)
         rotation_period: 44.556 d
         axial_tilt: 14.66°
         albedo: 0.30
-        temperature: 244 K<br />(-29 °C)
+        temperature: 153 K<br />(-120 °C)
   - name: 732 Narashiad V
     type: Gas giant
     aphelion: 390,763,942 km<br />2.612 AU
@@ -387,7 +387,7 @@ planets:
     radius: 226.9 km<br/>(0.036 Yrths)
     surface_area: 6.469 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.893 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.728 × 10<sup>27</sup> kg<br />(289.35988025934194 Yrths)
+    mass: 1.728 × 10<sup>27</sup> kg<br />(289.36 Yrths)
     density: 35320072.185 g/cm<sup>3</sup>
     surface_gravity: 2237392.886 m/s<sup>2</sup><br />(228150.580 g<sub>0</sub>)
     escape_velocity: 1008.298 km/s<br />(3,629,873 km/h)
@@ -408,14 +408,14 @@ planets:
         radius: 244,651.5 km<br/>(38.401 Yrths)
         surface_area: 7.522 × 10<sup>11</sup> km<sup>2</sup><br/>(1474.622 Yrths)
         volume: 6.134 × 10<sup>16</sup> km<sup>3</sup><br/>(56626.655 Yrths)
-        mass: 5.791 × 10<sup>28</sup> kg<br />(289.35988025934194 Yrths)
+        mass: 5.791 × 10<sup>28</sup> kg<br />(9697.027 Yrths)
         density: 0.944 g/cm<sup>3</sup>
         surface_gravity: 64.488 m/s<sup>2</sup><br />(6.576 g<sub>0</sub>)
         escape_velocity: 177.756 km/s<br />(639,920 km/h)
         rotation_period: 98.463 d
         axial_tilt: 16.58°
         albedo: 0.30
-        temperature: 593 K<br />(319 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 732 Narashiad V b
         type: Icy
         formationType: Accreted
@@ -428,14 +428,14 @@ planets:
         radius: 259,119.9 km<br/>(40.672 Yrths)
         surface_area: 8.437 × 10<sup>11</sup> km<sup>2</sup><br/>(1654.194 Yrths)
         volume: 7.288 × 10<sup>16</sup> km<sup>3</sup><br/>(67278.991 Yrths)
-        mass: 7.730 × 10<sup>28</sup> kg<br />(289.35988025934194 Yrths)
+        mass: 7.730 × 10<sup>28</sup> kg<br />(12943.942 Yrths)
         density: 1.061 g/cm<sup>3</sup>
         surface_gravity: 76.736 m/s<sup>2</sup><br />(7.825 g<sub>0</sub>)
         escape_velocity: 199.554 km/s<br />(718,395 km/h)
         rotation_period: 67.541 d
         axial_tilt: 17.49°
         albedo: 0.30
-        temperature: 539 K<br />(265 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 732 Narashiad V c
         type: Icy
         formationType: Accreted
@@ -448,14 +448,14 @@ planets:
         radius: 276,267.9 km<br/>(43.363 Yrths)
         surface_area: 9.591 × 10<sup>11</sup> km<sup>2</sup><br/>(1880.381 Yrths)
         volume: 8.832 × 10<sup>16</sup> km<sup>3</sup><br/>(81539.614 Yrths)
-        mass: 9.716 × 10<sup>28</sup> kg<br />(289.35988025934194 Yrths)
+        mass: 9.716 × 10<sup>28</sup> kg<br />(16269.626 Yrths)
         density: 1.100 g/cm<sup>3</sup>
         surface_gravity: 84.850 m/s<sup>2</sup><br />(8.652 g<sub>0</sub>)
         escape_velocity: 216.671 km/s<br />(780,017 km/h)
         rotation_period: 64.882 d
         axial_tilt: 26.51°
         albedo: 0.30
-        temperature: 424 K<br />(151 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 732 Narashiad V d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -468,14 +468,14 @@ planets:
         radius: 169,474.0 km<br/>(26.601 Yrths)
         surface_area: 3.609 × 10<sup>11</sup> km<sup>2</sup><br/>(707.605 Yrths)
         volume: 2.039 × 10<sup>16</sup> km<sup>3</sup><br/>(18822.890 Yrths)
-        mass: 5.463 × 10<sup>28</sup> kg<br />(289.35988025934194 Yrths)
+        mass: 5.463 × 10<sup>28</sup> kg<br />(9148.251 Yrths)
         density: 2.680 g/cm<sup>3</sup>
         surface_gravity: 126.785 m/s<sup>2</sup><br />(12.928 g<sub>0</sub>)
         escape_velocity: 207.441 km/s<br />(746,789 km/h)
         rotation_period: 42.844 d
         axial_tilt: 10.79°
         albedo: 0.30
-        temperature: 386 K<br />(113 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 732 Narashiad V e
         type: Dwarf planet
         formationType: Accreted
@@ -488,14 +488,14 @@ planets:
         radius: 168,979.8 km<br/>(26.523 Yrths)
         surface_area: 3.588 × 10<sup>11</sup> km<sup>2</sup><br/>(703.484 Yrths)
         volume: 2.021 × 10<sup>16</sup> km<sup>3</sup><br/>(18658.705 Yrths)
-        mass: 3.664 × 10<sup>28</sup> kg<br />(289.35988025934194 Yrths)
+        mass: 3.664 × 10<sup>28</sup> kg<br />(6134.679 Yrths)
         density: 1.813 g/cm<sup>3</sup>
         surface_gravity: 85.518 m/s<sup>2</sup><br />(8.720 g<sub>0</sub>)
         escape_velocity: 170.120 km/s<br />(612,433 km/h)
         rotation_period: 37.705 d
         axial_tilt: 26.93°
         albedo: 0.30
-        temperature: 351 K<br />(78 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 732 Narashiad V f
         type: Icy
         formationType: Captured
@@ -508,14 +508,14 @@ planets:
         radius: 194,387.4 km<br/>(30.511 Yrths)
         surface_area: 4.748 × 10<sup>11</sup> km<sup>2</sup><br/>(930.938 Yrths)
         volume: 3.077 × 10<sup>16</sup> km<sup>3</sup><br/>(28404.117 Yrths)
-        mass: 4.732 × 10<sup>28</sup> kg<br />(289.35988025934194 Yrths)
+        mass: 4.732 × 10<sup>28</sup> kg<br />(7922.881 Yrths)
         density: 1.538 g/cm<sup>3</sup>
         surface_gravity: 83.461 m/s<sup>2</sup><br />(8.511 g<sub>0</sub>)
         escape_velocity: 180.254 km/s<br />(648,915 km/h)
         rotation_period: 42.331 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 264 K<br />(-10 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 732 Narashiad V g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -528,12 +528,12 @@ planets:
         radius: 174,915.4 km<br/>(27.455 Yrths)
         surface_area: 3.845 × 10<sup>11</sup> km<sup>2</sup><br/>(753.774 Yrths)
         volume: 2.242 × 10<sup>16</sup> km<sup>3</sup><br/>(20694.807 Yrths)
-        mass: 3.911 × 10<sup>28</sup> kg<br />(289.35988025934194 Yrths)
+        mass: 3.911 × 10<sup>28</sup> kg<br />(6548.311 Yrths)
         density: 1.745 g/cm<sup>3</sup>
         surface_gravity: 85.194 m/s<sup>2</sup><br />(8.687 g<sub>0</sub>)
         escape_velocity: 172.754 km/s<br />(621,915 km/h)
         rotation_period: 50.232 d
         axial_tilt: 20.30°
         albedo: 0.30
-        temperature: 180 K<br />(-93 °C)
+        temperature: 120 K<br />(-153 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3354 Arkothiad is a star in the constellation Arkoth
+      3354 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 145.94 ly
 apparent_magnitude: 9.18
 absolute_magnitude: 5.92

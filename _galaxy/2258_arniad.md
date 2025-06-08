@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2258 Arniad is a star in the constellation Arni
+      2258 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1051.41 ly
 apparent_magnitude: 11.73
 absolute_magnitude: 4.19

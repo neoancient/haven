@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2579 Noniashad A is a star in the constellation Nonias
+      2579 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 423.20 ly
 apparent_magnitude: 7.54
 absolute_magnitude: 1.97

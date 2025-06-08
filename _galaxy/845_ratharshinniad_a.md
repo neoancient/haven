@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      845 Ratharshinniad A is a star in the constellation Ratharshin
+      845 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 483.74 ly
 apparent_magnitude: 7.52
 absolute_magnitude: 1.66

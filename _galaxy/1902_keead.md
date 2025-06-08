@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1902 Keead is a star in the constellation Kee
+      1902 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1024.78 ly
 apparent_magnitude: 12.61
 absolute_magnitude: 5.12

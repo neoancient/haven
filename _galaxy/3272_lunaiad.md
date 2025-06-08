@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3272 Lunaiad is a star in the constellation Luna
+      3272 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 1107.16 ly
 apparent_magnitude: 17.15
 absolute_magnitude: 9.50

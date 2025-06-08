@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2201 Arniad A is a star in the constellation Arni
+      2201 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 383.20 ly
 apparent_magnitude: 10.46
 absolute_magnitude: 5.11

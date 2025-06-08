@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      645 Anilliad is a star in the constellation Anil
+      645 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 539.48 ly
 apparent_magnitude: 10.01
 absolute_magnitude: 3.92

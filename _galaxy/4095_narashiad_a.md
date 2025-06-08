@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4095 Narashiad A is a star in the constellation Naras
+      4095 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 359.10 ly
 apparent_magnitude: 8.59
 absolute_magnitude: 3.38

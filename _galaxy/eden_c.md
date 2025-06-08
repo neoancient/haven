@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Eden C is a star in the constellation Irsa
+      Eden C is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 293.88 ly
 apparent_magnitude: 10.38
 absolute_magnitude: 5.61

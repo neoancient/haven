@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1672 Reggiad A is a star in the constellation Reg
+      1672 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 99.26 ly
 apparent_magnitude: 7.45
 absolute_magnitude: 5.03

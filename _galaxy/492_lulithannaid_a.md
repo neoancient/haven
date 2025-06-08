@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      492 Lulithannaid A is a star in the constellation Lulithan
+      492 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 514.22 ly
 apparent_magnitude: 8.10
 absolute_magnitude: 2.11

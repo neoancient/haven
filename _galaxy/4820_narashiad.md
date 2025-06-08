@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4820 Narashiad is a star in the constellation Naras
+      4820 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 576.43 ly
 apparent_magnitude: 8.25
 absolute_magnitude: 2.02

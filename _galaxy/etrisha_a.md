@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Etrisha A is a star in the constellation Nuani
+      Etrisha A is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 314.23 ly
 apparent_magnitude: 1.97
 absolute_magnitude: -2.95

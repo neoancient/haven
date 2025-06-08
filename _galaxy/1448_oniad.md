@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1448 Oniad is a star in the constellation Oni
+      1448 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 969.23 ly
 apparent_magnitude: 14.90
 absolute_magnitude: 7.54

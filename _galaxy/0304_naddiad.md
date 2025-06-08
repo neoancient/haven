@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0304 Naddiad is a star in the constellation Naddi
+      0304 Naddiad is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 209.12 ly
 apparent_magnitude: 6.23
 absolute_magnitude: 2.20
@@ -31,14 +31,14 @@ planets:
     radius: 3,577.5 km<br/>(0.562 Yrths)
     surface_area: 1.608 × 10<sup>08</sup> km<sup>2</sup><br/>(0.315 Yrths)
     volume: 1.918 × 10<sup>11</sup> km<sup>3</sup><br/>(0.177 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3.114 g/cm<sup>3</sup>
     surface_gravity: 3.110 m/s<sup>2</sup><br />(0.317 g<sub>0</sub>)
     escape_velocity: 4.720 km/s<br />(16,994 km/h)
     rotation_period: 1.244 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 522 K<br />(249 °C)
+    temperature: 456 K<br />(182 °C)
     composition:
       - 90.1050% hydrogen
       - 9.8614% helium
@@ -56,14 +56,14 @@ planets:
         radius: 774.7 km<br/>(0.122 Yrths)
         surface_area: 7.543 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.948 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.441 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.441 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.280 g/cm<sup>3</sup>
         surface_gravity: 0.493 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
         escape_velocity: 0.875 km/s<br />(3,149 km/h)
         rotation_period: 36.671 d
         axial_tilt: 15.07°
         albedo: 0.30
-        temperature: 8795 K<br />(8522 °C)
+        temperature: 387 K<br />(114 °C)
       - name: 0304 Naddiad I b
         type: Icy
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 779.0 km<br/>(0.122 Yrths)
         surface_area: 7.625 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.980 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.291 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.291 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.157 g/cm<sup>3</sup>
         surface_gravity: 0.252 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.627 km/s<br />(2,256 km/h)
         rotation_period: 84.286 d
         axial_tilt: 13.43°
         albedo: 0.30
-        temperature: 8386 K<br />(8113 °C)
+        temperature: 387 K<br />(114 °C)
       - name: 0304 Naddiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 898.6 km<br/>(0.141 Yrths)
         surface_area: 1.015 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.039 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.469 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.469 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.129 g/cm<sup>3</sup>
         surface_gravity: 0.534 m/s<sup>2</sup><br />(0.054 g<sub>0</sub>)
         escape_velocity: 0.980 km/s<br />(3,529 km/h)
         rotation_period: 55.061 d
         axial_tilt: 27.60°
         albedo: 0.30
-        temperature: 7996 K<br />(7722 °C)
+        temperature: 387 K<br />(114 °C)
     rings:
       - innerRadius: 21035.092161324297 km
       - width: 8309.727833982402 km
@@ -119,14 +119,14 @@ planets:
     radius: 11,414.1 km<br/>(1.792 Yrths)
     surface_area: 1.637 × 10<sup>09</sup> km<sup>2</sup><br/>(3.210 Yrths)
     volume: 6.229 × 10<sup>12</sup> km<sup>3</sup><br/>(5.750 Yrths)
-    mass: 4.132 × 10<sup>25</sup> kg<br />(6.919645425665775 Yrths)
+    mass: 4.132 × 10<sup>25</sup> kg<br />(6.92 Yrths)
     density: 6.634 g/cm<sup>3</sup>
     surface_gravity: 21.142 m/s<sup>2</sup><br />(2.156 g<sub>0</sub>)
     escape_velocity: 21.984 km/s<br />(79,141 km/h)
     rotation_period: 0.578 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 445 K<br />(171 °C)
+    temperature: 660 K<br />(387 °C)
     surface_pressure: 2,849 kPa<br />(28 atm)
     composition:
       - 86.9264% methane
@@ -146,14 +146,14 @@ planets:
         radius: 7,884.0 km<br/>(1.237 Yrths)
         surface_area: 7.811 × 10<sup>08</sup> km<sup>2</sup><br/>(1.531 Yrths)
         volume: 2.053 × 10<sup>12</sup> km<sup>3</sup><br/>(1.895 Yrths)
-        mass: 3.182 × 10<sup>24</sup> kg<br />(6.919645425665775 Yrths)
+        mass: 3.182 × 10<sup>24</sup> kg<br />(0.533 Yrths)
         density: 1.550 g/cm<sup>3</sup>
         surface_gravity: 3.412 m/s<sup>2</sup><br />(0.348 g<sub>0</sub>)
         escape_velocity: 7.340 km/s<br />(26,425 km/h)
         rotation_period: 76.218 d
         axial_tilt: 18.85°
         albedo: 0.30
-        temperature: 3409 K<br />(3136 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 0304 Naddiad II b
         type: Rocky
         formationType: Captured
@@ -166,14 +166,14 @@ planets:
         radius: 9,561.5 km<br/>(1.501 Yrths)
         surface_area: 1.149 × 10<sup>09</sup> km<sup>2</sup><br/>(2.252 Yrths)
         volume: 3.662 × 10<sup>12</sup> km<sup>3</sup><br/>(3.380 Yrths)
-        mass: 9.420 × 10<sup>24</sup> kg<br />(6.919645425665775 Yrths)
+        mass: 9.420 × 10<sup>24</sup> kg<br />(1.577 Yrths)
         density: 2.573 g/cm<sup>3</sup>
         surface_gravity: 6.868 m/s<sup>2</sup><br />(0.700 g<sub>0</sub>)
         escape_velocity: 11.468 km/s<br />(41,285 km/h)
         rotation_period: 57.580 d
         axial_tilt: 9.03°
         albedo: 0.30
-        temperature: 3250 K<br />(2977 °C)
+        temperature: 280 K<br />(7 °C)
   - name: 0304 Naddiad III
     type: Terrestrial
     aphelion: 844,387,586 km<br />5.644 AU
@@ -185,14 +185,14 @@ planets:
     radius: 7,962.1 km<br/>(1.250 Yrths)
     surface_area: 7.966 × 10<sup>08</sup> km<sup>2</sup><br/>(1.562 Yrths)
     volume: 2.114 × 10<sup>12</sup> km<sup>3</sup><br/>(1.952 Yrths)
-    mass: 1.027 × 10<sup>25</sup> kg<br />(1.7201799075051187 Yrths)
+    mass: 1.027 × 10<sup>25</sup> kg<br />(1.72 Yrths)
     density: 4.859 g/cm<sup>3</sup>
     surface_gravity: 10.801 m/s<sup>2</sup><br />(1.101 g<sub>0</sub>)
     escape_velocity: 13.124 km/s<br />(47,245 km/h)
     rotation_period: 0.856 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 264 K<br />(-9 °C)
+    temperature: 319 K<br />(46 °C)
     surface_pressure: 163 kPa<br />(2 atm)
     composition:
       - 84.9948% nitrogen
@@ -212,14 +212,14 @@ planets:
         radius: 5,018.1 km<br/>(0.788 Yrths)
         surface_area: 3.164 × 10<sup>08</sup> km<sup>2</sup><br/>(0.620 Yrths)
         volume: 5.293 × 10<sup>11</sup> km<sup>3</sup><br/>(0.489 Yrths)
-        mass: 1.002 × 10<sup>24</sup> kg<br />(1.7201799075051187 Yrths)
+        mass: 1.002 × 10<sup>24</sup> kg<br />(0.168 Yrths)
         density: 1.893 g/cm<sup>3</sup>
         surface_gravity: 2.652 m/s<sup>2</sup><br />(0.270 g<sub>0</sub>)
         escape_velocity: 5.162 km/s<br />(18,585 km/h)
         rotation_period: 38.832 d
         axial_tilt: 35.12°
         albedo: 0.30
-        temperature: 2995 K<br />(2722 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 0304 Naddiad IV
     type: Gas giant
     aphelion: 1,703,806,370 km<br />11.389 AU
@@ -231,7 +231,7 @@ planets:
     radius: 220.0 km<br/>(0.035 Yrths)
     surface_area: 6.084 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.462 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.516 × 10<sup>27</sup> kg<br />(253.7907650176509 Yrths)
+    mass: 1.516 × 10<sup>27</sup> kg<br />(253.79 Yrths)
     density: 33969105.458 g/cm<sup>3</sup>
     surface_gravity: 2086714.839 m/s<sup>2</sup><br />(212785.695 g<sub>0</sub>)
     escape_velocity: 958.911 km/s<br />(3,452,081 km/h)
@@ -252,14 +252,14 @@ planets:
         radius: 196,495.7 km<br/>(30.842 Yrths)
         surface_area: 4.852 × 10<sup>11</sup> km<sup>2</sup><br/>(951.242 Yrths)
         volume: 3.178 × 10<sup>16</sup> km<sup>3</sup><br/>(29338.384 Yrths)
-        mass: 3.941 × 10<sup>28</sup> kg<br />(253.7907650176509 Yrths)
+        mass: 3.941 × 10<sup>28</sup> kg<br />(6599.243 Yrths)
         density: 1.240 g/cm<sup>3</sup>
         surface_gravity: 68.034 m/s<sup>2</sup><br />(6.938 g<sub>0</sub>)
         escape_velocity: 163.624 km/s<br />(589,048 km/h)
         rotation_period: 45.841 d
         axial_tilt: 22.00°
         albedo: 0.30
-        temperature: 859 K<br />(586 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0304 Naddiad IV b
         type: Icy
         formationType: Captured
@@ -272,14 +272,14 @@ planets:
         radius: 216,112.2 km<br/>(33.921 Yrths)
         surface_area: 5.869 × 10<sup>11</sup> km<sup>2</sup><br/>(1150.650 Yrths)
         volume: 4.228 × 10<sup>16</sup> km<sup>3</sup><br/>(39031.461 Yrths)
-        mass: 7.632 × 10<sup>28</sup> kg<br />(253.7907650176509 Yrths)
+        mass: 7.632 × 10<sup>28</sup> kg<br />(12780.012 Yrths)
         density: 1.805 g/cm<sup>3</sup>
         surface_gravity: 108.920 m/s<sup>2</sup><br />(11.107 g<sub>0</sub>)
         escape_velocity: 217.122 km/s<br />(781,639 km/h)
         rotation_period: 45.507 d
         axial_tilt: 13.45°
         albedo: 0.30
-        temperature: 616 K<br />(343 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0304 Naddiad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 184,127.4 km<br/>(28.901 Yrths)
         surface_area: 4.260 × 10<sup>11</sup> km<sup>2</sup><br/>(835.260 Yrths)
         volume: 2.615 × 10<sup>16</sup> km<sup>3</sup><br/>(24139.716 Yrths)
-        mass: 6.274 × 10<sup>28</sup> kg<br />(253.7907650176509 Yrths)
+        mass: 6.274 × 10<sup>28</sup> kg<br />(10506.269 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 123.352 m/s<sup>2</sup><br />(12.578 g<sub>0</sub>)
         escape_velocity: 213.276 km/s<br />(767,795 km/h)
         rotation_period: 40.006 d
         axial_tilt: 22.55°
         albedo: 0.30
-        temperature: 534 K<br />(261 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0304 Naddiad IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -312,14 +312,14 @@ planets:
         radius: 192,506.4 km<br/>(30.216 Yrths)
         surface_area: 4.657 × 10<sup>11</sup> km<sup>2</sup><br/>(913.009 Yrths)
         volume: 2.988 × 10<sup>16</sup> km<sup>3</sup><br/>(27587.517 Yrths)
-        mass: 6.064 × 10<sup>28</sup> kg<br />(253.7907650176509 Yrths)
+        mass: 6.064 × 10<sup>28</sup> kg<br />(10153.549 Yrths)
         density: 2.029 g/cm<sup>3</sup>
         surface_gravity: 109.059 m/s<sup>2</sup><br />(11.121 g<sub>0</sub>)
         escape_velocity: 205.052 km/s<br />(738,187 km/h)
         rotation_period: 43.016 d
         axial_tilt: 18.63°
         albedo: 0.30
-        temperature: 509 K<br />(236 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0304 Naddiad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -332,14 +332,14 @@ planets:
         radius: 201,395.4 km<br/>(31.611 Yrths)
         surface_area: 5.097 × 10<sup>11</sup> km<sup>2</sup><br/>(999.272 Yrths)
         volume: 3.422 × 10<sup>16</sup> km<sup>3</sup><br/>(31588.265 Yrths)
-        mass: 5.800 × 10<sup>28</sup> kg<br />(253.7907650176509 Yrths)
+        mass: 5.800 × 10<sup>28</sup> kg<br />(9711.183 Yrths)
         density: 1.695 g/cm<sup>3</sup>
         surface_gravity: 95.304 m/s<sup>2</sup><br />(9.718 g<sub>0</sub>)
         escape_velocity: 196.060 km/s<br />(705,816 km/h)
         rotation_period: 50.753 d
         axial_tilt: 13.75°
         albedo: 0.30
-        temperature: 316 K<br />(43 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0304 Naddiad IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -352,12 +352,12 @@ planets:
         radius: 169,434.8 km<br/>(26.595 Yrths)
         surface_area: 3.608 × 10<sup>11</sup> km<sup>2</sup><br/>(707.278 Yrths)
         volume: 2.037 × 10<sup>16</sup> km<sup>3</sup><br/>(18809.832 Yrths)
-        mass: 4.666 × 10<sup>28</sup> kg<br />(253.7907650176509 Yrths)
+        mass: 4.666 × 10<sup>28</sup> kg<br />(7812.300 Yrths)
         density: 2.290 g/cm<sup>3</sup>
         surface_gravity: 108.320 m/s<sup>2</sup><br />(11.046 g<sub>0</sub>)
         escape_velocity: 191.719 km/s<br />(690,190 km/h)
         rotation_period: 51.965 d
         axial_tilt: 12.20°
         albedo: 0.30
-        temperature: 226 K<br />(-47 °C)
+        temperature: 146 K<br />(-127 °C)
 ---

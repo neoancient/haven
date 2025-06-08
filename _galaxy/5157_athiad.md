@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5157 Athiad is a star in the constellation Ath
+      5157 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 995.31 ly
 apparent_magnitude: 9.77
 absolute_magnitude: 2.34

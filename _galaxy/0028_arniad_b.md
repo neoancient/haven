@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Arniad B is a star in the constellation Arni
+      0028 Arniad B is a star in the constellation <a href="arni.html">Arni</a>
 distance: 871.51 ly
 apparent_magnitude: 14.62
 absolute_magnitude: 7.48

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      749 Narashiad is a star in the constellation Naras
+      749 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 309.09 ly
 apparent_magnitude: 19.45
 absolute_magnitude: 14.57

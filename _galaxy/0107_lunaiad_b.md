@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0107 Lunaiad B is a star in the constellation Luna
+      0107 Lunaiad B is a star in the constellation <a href="luna.html">Luna</a>
 distance: 940.96 ly
 apparent_magnitude: 12.64
 absolute_magnitude: 5.34

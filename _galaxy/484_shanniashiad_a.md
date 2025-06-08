@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      484 Shanniashiad A is a star in the constellation Shannias
+      484 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1179.22 ly
 apparent_magnitude: 6.66
 absolute_magnitude: -1.13

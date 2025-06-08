@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2041 Narashiad A is a star in the constellation Naras
+      2041 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 460.09 ly
 apparent_magnitude: 9.44
 absolute_magnitude: 3.70

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ε Guashiad B is a star in the constellation Guashi
+      ε Guashiad B is a star in the constellation <a href="guashi.html">Guashi</a>
 distance: 66.54 ly
 apparent_magnitude: 12.72
 absolute_magnitude: 11.17

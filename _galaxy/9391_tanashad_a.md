@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9391 Tanashad A is a star in the constellation Tanas
+      9391 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1134.58 ly
 apparent_magnitude: 6.56
 absolute_magnitude: -1.15

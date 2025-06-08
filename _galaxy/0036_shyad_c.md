@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0036 Shyad C is a star in the constellation Shy
+      0036 Shyad C is a star in the constellation <a href="shy.html">Shy</a>
 distance: 696.98 ly
 apparent_magnitude: 13.30
 absolute_magnitude: 6.65

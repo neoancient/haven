@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      64 Tanashad A is a star in the constellation Tanas
+      64 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 194.33 ly
 apparent_magnitude: 6.91
 absolute_magnitude: 3.03

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8060 Tanashad A is a star in the constellation Tanas
+      8060 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 471.74 ly
 apparent_magnitude: 7.91
 absolute_magnitude: 2.11

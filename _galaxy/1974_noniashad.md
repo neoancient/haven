@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1974 Noniashad is a star in the constellation Nonias
+      1974 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 816.09 ly
 apparent_magnitude: 12.52
 absolute_magnitude: 5.53

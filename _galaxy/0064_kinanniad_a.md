@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0064 Kinanniad A is a star in the constellation Kinan
+      0064 Kinanniad A is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 405.34 ly
 apparent_magnitude: 6.12
 absolute_magnitude: 0.65

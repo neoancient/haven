@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4416 Anilliad is a star in the constellation Anil
+      4416 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 375.79 ly
 apparent_magnitude: 8.43
 absolute_magnitude: 3.12
@@ -31,14 +31,14 @@ planets:
     radius: 16,299.3 km<br/>(2.558 Yrths)
     surface_area: 3.338 × 10<sup>09</sup> km<sup>2</sup><br/>(6.545 Yrths)
     volume: 1.814 × 10<sup>13</sup> km<sup>3</sup><br/>(16.745 Yrths)
-    mass: 4.107 × 10<sup>25</sup> kg<br />(6.876528213734743 Yrths)
+    mass: 4.107 × 10<sup>25</sup> kg<br />(6.88 Yrths)
     density: 2.264 g/cm<sup>3</sup>
     surface_gravity: 10.303 m/s<sup>2</sup><br />(1.051 g<sub>0</sub>)
     escape_velocity: 18.339 km/s<br />(66,021 km/h)
     rotation_period: 0.474 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 561 K<br />(288 °C)
+    temperature: 534 K<br />(261 °C)
     composition:
       - 71.4643% hydrogen
       - 25.0023% helium
@@ -59,14 +59,14 @@ planets:
         radius: 22,197.8 km<br/>(3.484 Yrths)
         surface_area: 6.192 × 10<sup>09</sup> km<sup>2</sup><br/>(12.140 Yrths)
         volume: 4.582 × 10<sup>13</sup> km<sup>3</sup><br/>(42.297 Yrths)
-        mass: 4.878 × 10<sup>25</sup> kg<br />(6.876528213734743 Yrths)
+        mass: 4.878 × 10<sup>25</sup> kg<br />(8.168 Yrths)
         density: 1.065 g/cm<sup>3</sup>
         surface_gravity: 6.598 m/s<sup>2</sup><br />(0.673 g<sub>0</sub>)
         escape_velocity: 17.127 km/s<br />(61,656 km/h)
         rotation_period: 87.578 d
         axial_tilt: 22.69°
         albedo: 0.30
-        temperature: 3931 K<br />(3658 °C)
+        temperature: 357 K<br />(84 °C)
       - name: 4416 Anilliad I b
         type: Icy
         formationType: Impact formed
@@ -79,14 +79,14 @@ planets:
         radius: 9,582.4 km<br/>(1.504 Yrths)
         surface_area: 1.154 × 10<sup>09</sup> km<sup>2</sup><br/>(2.262 Yrths)
         volume: 3.686 × 10<sup>12</sup> km<sup>3</sup><br/>(3.403 Yrths)
-        mass: 3.832 × 10<sup>24</sup> kg<br />(6.876528213734743 Yrths)
+        mass: 3.832 × 10<sup>24</sup> kg<br />(0.642 Yrths)
         density: 1.040 g/cm<sup>3</sup>
         surface_gravity: 2.781 m/s<sup>2</sup><br />(0.284 g<sub>0</sub>)
         escape_velocity: 7.306 km/s<br />(26,301 km/h)
         rotation_period: 87.510 d
         axial_tilt: 19.89°
         albedo: 0.30
-        temperature: 3748 K<br />(3475 °C)
+        temperature: 357 K<br />(84 °C)
   - name: 4416 Anilliad II
     type: Ice giant
     aphelion: 314,043,116 km<br />2.099 AU
@@ -98,14 +98,14 @@ planets:
     radius: 29,048.8 km<br/>(4.560 Yrths)
     surface_area: 1.060 × 10<sup>10</sup> km<sup>2</sup><br/>(20.789 Yrths)
     volume: 1.027 × 10<sup>14</sup> km<sup>3</sup><br/>(94.790 Yrths)
-    mass: 1.411 × 10<sup>26</sup> kg<br />(23.63200399693802 Yrths)
+    mass: 1.411 × 10<sup>26</sup> kg<br />(23.63 Yrths)
     density: 1.375 g/cm<sup>3</sup>
     surface_gravity: 11.148 m/s<sup>2</sup><br />(1.137 g<sub>0</sub>)
     escape_velocity: 25.466 km/s<br />(91,678 km/h)
     rotation_period: 0.335 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 555 K<br />(282 °C)
+    temperature: 508 K<br />(235 °C)
     composition:
       - 93.1781% hydrogen
       - 5.2950% helium
@@ -126,14 +126,14 @@ planets:
         radius: 29,057.6 km<br/>(4.561 Yrths)
         surface_area: 1.061 × 10<sup>10</sup> km<sup>2</sup><br/>(20.802 Yrths)
         volume: 1.028 × 10<sup>14</sup> km<sup>3</sup><br/>(94.876 Yrths)
-        mass: 2.578 × 10<sup>26</sup> kg<br />(23.63200399693802 Yrths)
+        mass: 2.578 × 10<sup>26</sup> kg<br />(43.172 Yrths)
         density: 2.509 g/cm<sup>3</sup>
         surface_gravity: 20.352 m/s<sup>2</sup><br />(2.075 g<sub>0</sub>)
         escape_velocity: 34.415 km/s<br />(123,894 km/h)
         rotation_period: 37.116 d
         axial_tilt: 9.60°
         albedo: 0.30
-        temperature: 2376 K<br />(2103 °C)
+        temperature: 266 K<br />(-7 °C)
       - name: 4416 Anilliad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -146,14 +146,14 @@ planets:
         radius: 16,499.6 km<br/>(2.590 Yrths)
         surface_area: 3.421 × 10<sup>09</sup> km<sup>2</sup><br/>(6.707 Yrths)
         volume: 1.882 × 10<sup>13</sup> km<sup>3</sup><br/>(17.370 Yrths)
-        mass: 4.680 × 10<sup>25</sup> kg<br />(23.63200399693802 Yrths)
+        mass: 4.680 × 10<sup>25</sup> kg<br />(7.837 Yrths)
         density: 2.487 g/cm<sup>3</sup>
         surface_gravity: 11.458 m/s<sup>2</sup><br />(1.168 g<sub>0</sub>)
         escape_velocity: 19.458 km/s<br />(70,050 km/h)
         rotation_period: 37.450 d
         axial_tilt: 32.13°
         albedo: 0.30
-        temperature: 2266 K<br />(1993 °C)
+        temperature: 266 K<br />(-7 °C)
       - name: 4416 Anilliad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -166,14 +166,14 @@ planets:
         radius: 20,486.0 km<br/>(3.216 Yrths)
         surface_area: 5.274 × 10<sup>09</sup> km<sup>2</sup><br/>(10.339 Yrths)
         volume: 3.601 × 10<sup>13</sup> km<sup>3</sup><br/>(33.247 Yrths)
-        mass: 1.008 × 10<sup>26</sup> kg<br />(23.63200399693802 Yrths)
+        mass: 1.008 × 10<sup>26</sup> kg<br />(16.885 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 16.015 m/s<sup>2</sup><br />(1.633 g<sub>0</sub>)
         escape_velocity: 25.633 km/s<br />(92,279 km/h)
         rotation_period: 34.643 d
         axial_tilt: 16.65°
         albedo: 0.30
-        temperature: 2160 K<br />(1887 °C)
+        temperature: 266 K<br />(-7 °C)
       - name: 4416 Anilliad II d
         type: Icy
         formationType: Captured
@@ -186,14 +186,14 @@ planets:
         radius: 26,793.8 km<br/>(4.206 Yrths)
         surface_area: 9.021 × 10<sup>09</sup> km<sup>2</sup><br/>(17.687 Yrths)
         volume: 8.057 × 10<sup>13</sup> km<sup>3</sup><br/>(74.384 Yrths)
-        mass: 1.296 × 10<sup>26</sup> kg<br />(23.63200399693802 Yrths)
+        mass: 1.296 × 10<sup>26</sup> kg<br />(21.706 Yrths)
         density: 1.609 g/cm<sup>3</sup>
         surface_gravity: 12.035 m/s<sup>2</sup><br />(1.227 g<sub>0</sub>)
         escape_velocity: 25.412 km/s<br />(91,485 km/h)
         rotation_period: 64.113 d
         axial_tilt: 21.11°
         albedo: 0.30
-        temperature: 1964 K<br />(1691 °C)
+        temperature: 266 K<br />(-7 °C)
       - name: 4416 Anilliad II e
         type: Icy
         formationType: Accreted
@@ -206,14 +206,14 @@ planets:
         radius: 24,972.7 km<br/>(3.920 Yrths)
         surface_area: 7.837 × 10<sup>09</sup> km<sup>2</sup><br/>(15.364 Yrths)
         volume: 6.524 × 10<sup>13</sup> km<sup>3</sup><br/>(60.225 Yrths)
-        mass: 9.554 × 10<sup>25</sup> kg<br />(23.63200399693802 Yrths)
+        mass: 9.554 × 10<sup>25</sup> kg<br />(15.999 Yrths)
         density: 1.465 g/cm<sup>3</sup>
         surface_gravity: 10.211 m/s<sup>2</sup><br />(1.041 g<sub>0</sub>)
         escape_velocity: 22.599 km/s<br />(81,356 km/h)
         rotation_period: 56.150 d
         axial_tilt: 18.67°
         albedo: 0.30
-        temperature: 1785 K<br />(1512 °C)
+        temperature: 266 K<br />(-7 °C)
       - name: 4416 Anilliad II f
         type: Dwarf planet
         formationType: Accreted
@@ -226,14 +226,14 @@ planets:
         radius: 22,339.7 km<br/>(3.506 Yrths)
         surface_area: 6.271 × 10<sup>09</sup> km<sup>2</sup><br/>(12.295 Yrths)
         volume: 4.670 × 10<sup>13</sup> km<sup>3</sup><br/>(43.113 Yrths)
-        mass: 7.974 × 10<sup>25</sup> kg<br />(23.63200399693802 Yrths)
+        mass: 7.974 × 10<sup>25</sup> kg<br />(13.352 Yrths)
         density: 1.707 g/cm<sup>3</sup>
         surface_gravity: 10.650 m/s<sup>2</sup><br />(1.086 g<sub>0</sub>)
         escape_velocity: 21.828 km/s<br />(78,581 km/h)
         rotation_period: 38.305 d
         axial_tilt: 15.71°
         albedo: 0.30
-        temperature: 1623 K<br />(1350 °C)
+        temperature: 266 K<br />(-7 °C)
       - name: 4416 Anilliad II g
         type: Rocky
         formationType: Captured
@@ -246,14 +246,14 @@ planets:
         radius: 14,098.7 km<br/>(2.213 Yrths)
         surface_area: 2.498 × 10<sup>09</sup> km<sup>2</sup><br/>(4.897 Yrths)
         volume: 1.174 × 10<sup>13</sup> km<sup>3</sup><br/>(10.837 Yrths)
-        mass: 3.967 × 10<sup>25</sup> kg<br />(23.63200399693802 Yrths)
+        mass: 3.967 × 10<sup>25</sup> kg<br />(6.642 Yrths)
         density: 3.379 g/cm<sup>3</sup>
         surface_gravity: 13.301 m/s<sup>2</sup><br />(1.356 g<sub>0</sub>)
         escape_velocity: 19.379 km/s<br />(69,766 km/h)
         rotation_period: 44.271 d
         axial_tilt: 24.12°
         albedo: 0.30
-        temperature: 1476 K<br />(1202 °C)
+        temperature: 266 K<br />(-7 °C)
   - name: 4416 Anilliad III
     type: Gas giant
     aphelion: 533,876,709 km<br />3.569 AU
@@ -265,14 +265,14 @@ planets:
     radius: 205.2 km<br/>(0.032 Yrths)
     surface_area: 5.290 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.617 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.124 × 10<sup>27</sup> kg<br />(188.18166008601523 Yrths)
+    mass: 1.124 × 10<sup>27</sup> kg<br />(188.18 Yrths)
     density: 31066521.954 g/cm<sup>3</sup>
     surface_gravity: 1779518.938 m/s<sup>2</sup><br />(181460.431 g<sub>0</sub>)
     escape_velocity: 855.094 km/s<br />(3,078,338 km/h)
     rotation_period: 0.247 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 796 K<br />(523 °C)
+    temperature: 775 K<br />(502 °C)
     composition:
       - 75.7403% hydrogen
       - 16.7702% helium
@@ -291,14 +291,14 @@ planets:
         radius: 127,516.5 km<br/>(20.015 Yrths)
         surface_area: 2.043 × 10<sup>11</sup> km<sup>2</sup><br/>(400.606 Yrths)
         volume: 8.685 × 10<sup>15</sup> km<sup>3</sup><br/>(8018.189 Yrths)
-        mass: 9.191 × 10<sup>27</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 9.191 × 10<sup>27</sup> kg<br />(1538.980 Yrths)
         density: 1.058 g/cm<sup>3</sup>
         surface_gravity: 37.674 m/s<sup>2</sup><br />(3.842 g<sub>0</sub>)
         escape_velocity: 98.087 km/s<br />(353,113 km/h)
         rotation_period: 93.196 d
         axial_tilt: 19.25°
         albedo: 0.30
-        temperature: 943 K<br />(670 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III b
         type: Rocky
         formationType: Captured
@@ -311,14 +311,14 @@ planets:
         radius: 93,387.4 km<br/>(14.658 Yrths)
         surface_area: 1.096 × 10<sup>11</sup> km<sup>2</sup><br/>(214.863 Yrths)
         volume: 3.412 × 10<sup>15</sup> km<sup>3</sup><br/>(3149.505 Yrths)
-        mass: 1.162 × 10<sup>28</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 1.162 × 10<sup>28</sup> kg<br />(1946.493 Yrths)
         density: 3.407 g/cm<sup>3</sup>
         surface_gravity: 88.841 m/s<sup>2</sup><br />(9.059 g<sub>0</sub>)
         escape_velocity: 128.902 km/s<br />(464,048 km/h)
         rotation_period: 36.097 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 743 K<br />(470 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III c
         type: Icy
         formationType: Accreted
@@ -331,14 +331,14 @@ planets:
         radius: 129,114.5 km<br/>(20.266 Yrths)
         surface_area: 2.095 × 10<sup>11</sup> km<sup>2</sup><br/>(410.710 Yrths)
         volume: 9.016 × 10<sup>15</sup> km<sup>3</sup><br/>(8323.433 Yrths)
-        mass: 1.053 × 10<sup>28</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 1.053 × 10<sup>28</sup> kg<br />(1763.393 Yrths)
         density: 1.168 g/cm<sup>3</sup>
         surface_gravity: 42.105 m/s<sup>2</sup><br />(4.294 g<sub>0</sub>)
         escape_velocity: 104.343 km/s<br />(375,636 km/h)
         rotation_period: 79.222 d
         axial_tilt: 13.96°
         albedo: 0.30
-        temperature: 709 K<br />(436 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III d
         type: Icy
         formationType: Accreted
@@ -351,14 +351,14 @@ planets:
         radius: 116,317.1 km<br/>(18.257 Yrths)
         surface_area: 1.700 × 10<sup>11</sup> km<sup>2</sup><br/>(333.328 Yrths)
         volume: 6.592 × 10<sup>15</sup> km<sup>3</sup><br/>(6085.667 Yrths)
-        mass: 8.142 × 10<sup>27</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 8.142 × 10<sup>27</sup> kg<br />(1363.374 Yrths)
         density: 1.235 g/cm<sup>3</sup>
         surface_gravity: 40.111 m/s<sup>2</sup><br />(4.090 g<sub>0</sub>)
         escape_velocity: 96.664 km/s<br />(347,989 km/h)
         rotation_period: 79.274 d
         axial_tilt: 25.75°
         albedo: 0.30
-        temperature: 586 K<br />(313 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III e
         type: Icy
         formationType: Accreted
@@ -371,14 +371,14 @@ planets:
         radius: 110,218.2 km<br/>(17.300 Yrths)
         surface_area: 1.527 × 10<sup>11</sup> km<sup>2</sup><br/>(299.290 Yrths)
         volume: 5.609 × 10<sup>15</sup> km<sup>3</sup><br/>(5177.706 Yrths)
-        mass: 9.635 × 10<sup>27</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 9.635 × 10<sup>27</sup> kg<br />(1613.345 Yrths)
         density: 1.718 g/cm<sup>3</sup>
         surface_gravity: 52.864 m/s<sup>2</sup><br />(5.391 g<sub>0</sub>)
         escape_velocity: 108.023 km/s<br />(388,881 km/h)
         rotation_period: 54.377 d
         axial_tilt: 15.41°
         albedo: 0.30
-        temperature: 381 K<br />(108 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III f
         type: Icy
         formationType: Captured
@@ -391,14 +391,14 @@ planets:
         radius: 374,735.8 km<br/>(58.819 Yrths)
         surface_area: 1.765 × 10<sup>12</sup> km<sup>2</sup><br/>(3459.675 Yrths)
         volume: 2.204 × 10<sup>17</sup> km<sup>3</sup><br/>(203494.604 Yrths)
-        mass: 1.585 × 10<sup>29</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 1.585 × 10<sup>29</sup> kg<br />(26535.462 Yrths)
         density: 0.719 g/cm<sup>3</sup>
         surface_gravity: 75.216 m/s<sup>2</sup><br />(7.670 g<sub>0</sub>)
         escape_velocity: 237.590 km/s<br />(855,325 km/h)
         rotation_period: 86.358 d
         axial_tilt: 18.70°
         albedo: 0.30
-        temperature: 301 K<br />(27 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III g
         type: Icy
         formationType: Captured
@@ -411,14 +411,14 @@ planets:
         radius: 139,804.8 km<br/>(21.944 Yrths)
         surface_area: 2.456 × 10<sup>11</sup> km<sup>2</sup><br/>(481.536 Yrths)
         volume: 1.145 × 10<sup>16</sup> km<sup>3</sup><br/>(10566.796 Yrths)
-        mass: 1.592 × 10<sup>28</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 1.592 × 10<sup>28</sup> kg<br />(2666.269 Yrths)
         density: 1.391 g/cm<sup>3</sup>
         surface_gravity: 54.299 m/s<sup>2</sup><br />(5.537 g<sub>0</sub>)
         escape_velocity: 123.302 km/s<br />(443,886 km/h)
         rotation_period: 49.512 d
         axial_tilt: 6.21°
         albedo: 0.30
-        temperature: 287 K<br />(13 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III h
         type: Ice/rock hybrid
         formationType: Captured
@@ -431,14 +431,14 @@ planets:
         radius: 273,715.9 km<br/>(42.963 Yrths)
         surface_area: 9.415 × 10<sup>11</sup> km<sup>2</sup><br/>(1845.801 Yrths)
         volume: 8.590 × 10<sup>16</sup> km<sup>3</sup><br/>(79300.725 Yrths)
-        mass: 1.417 × 10<sup>29</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 1.417 × 10<sup>29</sup> kg<br />(23721.451 Yrths)
         density: 1.649 g/cm<sup>3</sup>
         surface_gravity: 126.031 m/s<sup>2</sup><br />(12.852 g<sub>0</sub>)
         escape_velocity: 262.844 km/s<br />(946,239 km/h)
         rotation_period: 55.622 d
         axial_tilt: 15.28°
         albedo: 0.30
-        temperature: 261 K<br />(-13 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III i
         type: Icy
         formationType: Captured
@@ -451,14 +451,14 @@ planets:
         radius: 122,587.5 km<br/>(19.241 Yrths)
         surface_area: 1.888 × 10<sup>11</sup> km<sup>2</sup><br/>(370.235 Yrths)
         volume: 7.717 × 10<sup>15</sup> km<sup>3</sup><br/>(7123.860 Yrths)
-        mass: 6.618 × 10<sup>27</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 6.618 × 10<sup>27</sup> kg<br />(1108.180 Yrths)
         density: 0.858 g/cm<sup>3</sup>
         surface_gravity: 29.353 m/s<sup>2</sup><br />(2.993 g<sub>0</sub>)
         escape_velocity: 84.891 km/s<br />(305,606 km/h)
         rotation_period: 57.720 d
         axial_tilt: 11.16°
         albedo: 0.30
-        temperature: 248 K<br />(-25 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III j
         type: Icy
         formationType: Captured
@@ -471,14 +471,14 @@ planets:
         radius: 162,776.7 km<br/>(25.550 Yrths)
         surface_area: 3.330 × 10<sup>11</sup> km<sup>2</sup><br/>(652.784 Yrths)
         volume: 1.807 × 10<sup>16</sup> km<sup>3</sup><br/>(16678.385 Yrths)
-        mass: 2.905 × 10<sup>28</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 2.905 × 10<sup>28</sup> kg<br />(4864.447 Yrths)
         density: 1.608 g/cm<sup>3</sup>
         surface_gravity: 73.078 m/s<sup>2</sup><br />(7.452 g<sub>0</sub>)
         escape_velocity: 154.347 km/s<br />(555,649 km/h)
         rotation_period: 50.831 d
         axial_tilt: 16.24°
         albedo: 0.30
-        temperature: 237 K<br />(-36 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 4416 Anilliad III k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -491,12 +491,12 @@ planets:
         radius: 133,883.2 km<br/>(21.014 Yrths)
         surface_area: 2.252 × 10<sup>11</sup> km<sup>2</sup><br/>(441.608 Yrths)
         volume: 1.005 × 10<sup>16</sup> km<sup>3</sup><br/>(9280.159 Yrths)
-        mass: 1.892 × 10<sup>28</sup> kg<br />(188.18166008601523 Yrths)
+        mass: 1.892 × 10<sup>28</sup> kg<br />(3168.107 Yrths)
         density: 1.882 g/cm<sup>3</sup>
         surface_gravity: 70.353 m/s<sup>2</sup><br />(7.174 g<sub>0</sub>)
         escape_velocity: 137.346 km/s<br />(494,444 km/h)
         rotation_period: 43.054 d
         axial_tilt: 29.36°
         albedo: 0.30
-        temperature: 215 K<br />(-58 °C)
+        temperature: 198 K<br />(-75 °C)
 ---

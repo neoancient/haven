@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1295 Orshenniad A is a star in the constellation Orshen
+      1295 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 325.96 ly
 apparent_magnitude: 7.16
 absolute_magnitude: 2.16

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1947 Athiad is a star in the constellation Ath
+      1947 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 564.20 ly
 apparent_magnitude: 11.47
 absolute_magnitude: 5.28

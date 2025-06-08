@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      394 Niniunniad A is a star in the constellation Niniun
+      394 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 271.13 ly
 apparent_magnitude: 6.96
 absolute_magnitude: 2.36

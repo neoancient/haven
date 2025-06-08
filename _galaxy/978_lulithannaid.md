@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      978 Lulithannaid is a star in the constellation Lulithan
+      978 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 171.71 ly
 apparent_magnitude: 8.39
 absolute_magnitude: 4.78

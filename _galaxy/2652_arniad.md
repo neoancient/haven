@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2652 Arniad is a star in the constellation Arni
+      2652 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 455.17 ly
 apparent_magnitude: 10.48
 absolute_magnitude: 4.76

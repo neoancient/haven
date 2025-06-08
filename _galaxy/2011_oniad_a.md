@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2011 Oniad A is a star in the constellation Oni
+      2011 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 925.74 ly
 apparent_magnitude: 6.74
 absolute_magnitude: -0.52

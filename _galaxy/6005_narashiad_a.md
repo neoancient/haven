@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6005 Narashiad A is a star in the constellation Naras
+      6005 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 491.77 ly
 apparent_magnitude: 8.13
 absolute_magnitude: 2.24

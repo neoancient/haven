@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Leranen B is a star in the constellation Irsa
+      Leranen B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 247.93 ly
 apparent_magnitude: 1.02
 absolute_magnitude: -3.38

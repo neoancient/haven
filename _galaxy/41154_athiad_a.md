@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      41154 Athiad A is a star in the constellation Ath
+      41154 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 552.72 ly
 apparent_magnitude: 8.59
 absolute_magnitude: 2.44

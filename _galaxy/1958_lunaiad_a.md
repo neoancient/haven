@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1958 Lunaiad A is a star in the constellation Luna
+      1958 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 810.57 ly
 apparent_magnitude: 7.21
 absolute_magnitude: 0.23

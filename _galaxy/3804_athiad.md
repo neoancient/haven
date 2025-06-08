@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3804 Athiad is a star in the constellation Ath
+      3804 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 295.19 ly
 apparent_magnitude: 10.36
 absolute_magnitude: 5.58
@@ -31,14 +31,14 @@ planets:
     radius: 11,385.4 km<br/>(1.787 Yrths)
     surface_area: 1.629 × 10<sup>09</sup> km<sup>2</sup><br/>(3.194 Yrths)
     volume: 6.182 × 10<sup>12</sup> km<sup>3</sup><br/>(5.707 Yrths)
-    mass: 4.217 × 10<sup>25</sup> kg<br />(7.06177175642664 Yrths)
+    mass: 4.217 × 10<sup>25</sup> kg<br />(7.06 Yrths)
     density: 6.822 g/cm<sup>3</sup>
     surface_gravity: 21.685 m/s<sup>2</sup><br />(2.211 g<sub>0</sub>)
     escape_velocity: 22.236 km/s<br />(80,050 km/h)
     rotation_period: 1.009 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 293 K<br />(20 °C)
+    temperature: 422 K<br />(149 °C)
     surface_pressure: 52 kPa<br />(1 atm)
     composition:
       - 89.9078% methane
@@ -57,14 +57,14 @@ planets:
         radius: 5,731.8 km<br/>(0.900 Yrths)
         surface_area: 4.128 × 10<sup>08</sup> km<sup>2</sup><br/>(0.809 Yrths)
         volume: 7.888 × 10<sup>11</sup> km<sup>3</sup><br/>(0.728 Yrths)
-        mass: 2.505 × 10<sup>24</sup> kg<br />(7.06177175642664 Yrths)
+        mass: 2.505 × 10<sup>24</sup> kg<br />(0.419 Yrths)
         density: 3.175 g/cm<sup>3</sup>
         surface_gravity: 5.081 m/s<sup>2</sup><br />(0.518 g<sub>0</sub>)
         escape_velocity: 7.637 km/s<br />(27,494 km/h)
         rotation_period: 32.565 d
         axial_tilt: 12.30°
         albedo: 0.30
-        temperature: 2738 K<br />(2465 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 3804 Athiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 2,994.5 km<br/>(0.470 Yrths)
         surface_area: 1.127 × 10<sup>08</sup> km<sup>2</sup><br/>(0.221 Yrths)
         volume: 1.125 × 10<sup>11</sup> km<sup>3</sup><br/>(0.104 Yrths)
-        mass: 3.030 × 10<sup>23</sup> kg<br />(7.06177175642664 Yrths)
+        mass: 3.030 × 10<sup>23</sup> kg<br />(0.051 Yrths)
         density: 2.694 g/cm<sup>3</sup>
         surface_gravity: 2.252 m/s<sup>2</sup><br />(0.230 g<sub>0</sub>)
         escape_velocity: 3.675 km/s<br />(13,231 km/h)
         rotation_period: 30.280 d
         axial_tilt: 13.20°
         albedo: 0.30
-        temperature: 2611 K<br />(2338 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 3804 Athiad I c
         type: Rocky
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 9,657.5 km<br/>(1.516 Yrths)
         surface_area: 1.172 × 10<sup>09</sup> km<sup>2</sup><br/>(2.298 Yrths)
         volume: 3.773 × 10<sup>12</sup> km<sup>3</sup><br/>(3.483 Yrths)
-        mass: 1.210 × 10<sup>25</sup> kg<br />(7.06177175642664 Yrths)
+        mass: 1.210 × 10<sup>25</sup> kg<br />(2.027 Yrths)
         density: 3.208 g/cm<sup>3</sup>
         surface_gravity: 8.650 m/s<sup>2</sup><br />(0.882 g<sub>0</sub>)
         escape_velocity: 12.934 km/s<br />(46,563 km/h)
         rotation_period: 35.418 d
         axial_tilt: 20.14°
         albedo: 0.30
-        temperature: 2489 K<br />(2216 °C)
+        temperature: 240 K<br />(-33 °C)
   - name: 3804 Athiad II
     type: Ice giant
     aphelion: 381,548,335 km<br />2.550 AU
@@ -116,14 +116,14 @@ planets:
     radius: 32,675.4 km<br/>(5.129 Yrths)
     surface_area: 1.342 × 10<sup>10</sup> km<sup>2</sup><br/>(26.304 Yrths)
     volume: 1.461 × 10<sup>14</sup> km<sup>3</sup><br/>(134.909 Yrths)
-    mass: 2.198 × 10<sup>26</sup> kg<br />(36.809793038439366 Yrths)
+    mass: 2.198 × 10<sup>26</sup> kg<br />(36.81 Yrths)
     density: 1.504 g/cm<sup>3</sup>
     surface_gravity: 13.723 m/s<sup>2</sup><br />(1.399 g<sub>0</sub>)
     escape_velocity: 29.967 km/s<br />(107,883 km/h)
     rotation_period: 0.551 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 293 K<br />(20 °C)
+    temperature: 260 K<br />(-13 °C)
     composition:
       - 71.5337% hydrogen
       - 28.4663% helium
@@ -140,14 +140,14 @@ planets:
         radius: 27,834.5 km<br/>(4.369 Yrths)
         surface_area: 9.736 × 10<sup>09</sup> km<sup>2</sup><br/>(19.088 Yrths)
         volume: 9.033 × 10<sup>13</sup> km<sup>3</sup><br/>(83.393 Yrths)
-        mass: 1.716 × 10<sup>26</sup> kg<br />(36.809793038439366 Yrths)
+        mass: 1.716 × 10<sup>26</sup> kg<br />(28.741 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 14.766 m/s<sup>2</sup><br />(1.506 g<sub>0</sub>)
         escape_velocity: 28.691 km/s<br />(103,286 km/h)
         rotation_period: 40.081 d
         axial_tilt: 30.18°
         albedo: 0.30
-        temperature: 1455 K<br />(1182 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3804 Athiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -160,14 +160,14 @@ planets:
         radius: 25,986.5 km<br/>(4.079 Yrths)
         surface_area: 8.486 × 10<sup>09</sup> km<sup>2</sup><br/>(16.637 Yrths)
         volume: 7.351 × 10<sup>13</sup> km<sup>3</sup><br/>(67.861 Yrths)
-        mass: 1.333 × 10<sup>26</sup> kg<br />(36.809793038439366 Yrths)
+        mass: 1.333 × 10<sup>26</sup> kg<br />(22.314 Yrths)
         density: 1.813 g/cm<sup>3</sup>
         surface_gravity: 13.153 m/s<sup>2</sup><br />(1.341 g<sub>0</sub>)
         escape_velocity: 26.163 km/s<br />(94,188 km/h)
         rotation_period: 43.781 d
         axial_tilt: 20.89°
         albedo: 0.30
-        temperature: 1387 K<br />(1114 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3804 Athiad II c
         type: Icy
         formationType: Accreted
@@ -180,14 +180,14 @@ planets:
         radius: 41,873.6 km<br/>(6.573 Yrths)
         surface_area: 2.203 × 10<sup>10</sup> km<sup>2</sup><br/>(43.198 Yrths)
         volume: 3.075 × 10<sup>14</sup> km<sup>3</sup><br/>(283.922 Yrths)
-        mass: 3.664 × 10<sup>26</sup> kg<br />(36.809793038439366 Yrths)
+        mass: 3.664 × 10<sup>26</sup> kg<br />(61.351 Yrths)
         density: 1.191 g/cm<sup>3</sup>
         surface_gravity: 13.928 m/s<sup>2</sup><br />(1.420 g<sub>0</sub>)
         escape_velocity: 34.176 km/s<br />(123,033 km/h)
         rotation_period: 52.128 d
         axial_tilt: 14.90°
         albedo: 0.30
-        temperature: 1203 K<br />(929 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3804 Athiad II d
         type: Dwarf planet
         formationType: Impact formed
@@ -200,14 +200,14 @@ planets:
         radius: 27,772.6 km<br/>(4.359 Yrths)
         surface_area: 9.693 × 10<sup>09</sup> km<sup>2</sup><br/>(19.003 Yrths)
         volume: 8.973 × 10<sup>13</sup> km<sup>3</sup><br/>(82.838 Yrths)
-        mass: 1.532 × 10<sup>26</sup> kg<br />(36.809793038439366 Yrths)
+        mass: 1.532 × 10<sup>26</sup> kg<br />(25.657 Yrths)
         density: 1.708 g/cm<sup>3</sup>
         surface_gravity: 13.241 m/s<sup>2</sup><br />(1.350 g<sub>0</sub>)
         escape_velocity: 27.138 km/s<br />(97,695 km/h)
         rotation_period: 55.090 d
         axial_tilt: 30.88°
         albedo: 0.30
-        temperature: 1147 K<br />(873 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3804 Athiad II e
         type: Icy
         formationType: Captured
@@ -220,14 +220,14 @@ planets:
         radius: 30,912.4 km<br/>(4.852 Yrths)
         surface_area: 1.201 × 10<sup>10</sup> km<sup>2</sup><br/>(23.542 Yrths)
         volume: 1.237 × 10<sup>14</sup> km<sup>3</sup><br/>(114.229 Yrths)
-        mass: 1.594 × 10<sup>26</sup> kg<br />(36.809793038439366 Yrths)
+        mass: 1.594 × 10<sup>26</sup> kg<br />(26.684 Yrths)
         density: 1.288 g/cm<sup>3</sup>
         surface_gravity: 11.115 m/s<sup>2</sup><br />(1.133 g<sub>0</sub>)
         escape_velocity: 26.232 km/s<br />(94,436 km/h)
         rotation_period: 46.494 d
         axial_tilt: 11.53°
         albedo: 0.30
-        temperature: 948 K<br />(674 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3804 Athiad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -240,14 +240,14 @@ planets:
         radius: 28,750.4 km<br/>(4.513 Yrths)
         surface_area: 1.039 × 10<sup>10</sup> km<sup>2</sup><br/>(20.364 Yrths)
         volume: 9.955 × 10<sup>13</sup> km<sup>3</sup><br/>(91.899 Yrths)
-        mass: 2.256 × 10<sup>26</sup> kg<br />(36.809793038439366 Yrths)
+        mass: 2.256 × 10<sup>26</sup> kg<br />(37.784 Yrths)
         density: 2.267 g/cm<sup>3</sup>
         surface_gravity: 18.195 m/s<sup>2</sup><br />(1.855 g<sub>0</sub>)
         escape_velocity: 32.367 km/s<br />(116,522 km/h)
         rotation_period: 50.583 d
         axial_tilt: 32.25°
         albedo: 0.30
-        temperature: 904 K<br />(630 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3804 Athiad II g
         type: Dwarf planet
         formationType: Impact formed
@@ -260,14 +260,14 @@ planets:
         radius: 27,450.2 km<br/>(4.309 Yrths)
         surface_area: 9.469 × 10<sup>09</sup> km<sup>2</sup><br/>(18.564 Yrths)
         volume: 8.664 × 10<sup>13</sup> km<sup>3</sup><br/>(79.986 Yrths)
-        mass: 1.825 × 10<sup>26</sup> kg<br />(36.809793038439366 Yrths)
+        mass: 1.825 × 10<sup>26</sup> kg<br />(30.557 Yrths)
         density: 2.106 g/cm<sup>3</sup>
         surface_gravity: 16.142 m/s<sup>2</sup><br />(1.646 g<sub>0</sub>)
         escape_velocity: 29.789 km/s<br />(107,241 km/h)
         rotation_period: 38.920 d
         axial_tilt: 42.41°
         albedo: 0.30
-        temperature: 783 K<br />(510 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3804 Athiad II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -280,14 +280,14 @@ planets:
         radius: 23,343.2 km<br/>(3.664 Yrths)
         surface_area: 6.847 × 10<sup>09</sup> km<sup>2</sup><br/>(13.425 Yrths)
         volume: 5.328 × 10<sup>13</sup> km<sup>3</sup><br/>(49.188 Yrths)
-        mass: 1.271 × 10<sup>26</sup> kg<br />(36.809793038439366 Yrths)
+        mass: 1.271 × 10<sup>26</sup> kg<br />(21.278 Yrths)
         density: 2.385 g/cm<sup>3</sup>
         surface_gravity: 15.544 m/s<sup>2</sup><br />(1.585 g<sub>0</sub>)
         escape_velocity: 26.957 km/s<br />(97,044 km/h)
         rotation_period: 40.451 d
         axial_tilt: 26.45°
         albedo: 0.30
-        temperature: 747 K<br />(474 °C)
+        temperature: 180 K<br />(-93 °C)
   - name: 3804 Athiad III
     type: Large terrestrial
     aphelion: 679,747,621 km<br />4.544 AU
@@ -299,14 +299,14 @@ planets:
     radius: 11,353.8 km<br/>(1.782 Yrths)
     surface_area: 1.620 × 10<sup>09</sup> km<sup>2</sup><br/>(3.176 Yrths)
     volume: 6.131 × 10<sup>12</sup> km<sup>3</sup><br/>(5.660 Yrths)
-    mass: 4.215 × 10<sup>25</sup> kg<br />(7.058047680943405 Yrths)
+    mass: 4.215 × 10<sup>25</sup> kg<br />(7.06 Yrths)
     density: 6.875 g/cm<sup>3</sup>
     surface_gravity: 21.794 m/s<sup>2</sup><br />(2.222 g<sub>0</sub>)
     escape_velocity: 22.261 km/s<br />(80,141 km/h)
     rotation_period: 0.708 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 163 K<br />(-110 °C)
+    temperature: 194 K<br />(-79 °C)
     surface_pressure: 70 kPa<br />(1 atm)
     composition:
       - 79.7884% methane
@@ -324,14 +324,14 @@ planets:
         radius: 11,532.9 km<br/>(1.810 Yrths)
         surface_area: 1.671 × 10<sup>09</sup> km<sup>2</sup><br/>(3.277 Yrths)
         volume: 6.426 × 10<sup>12</sup> km<sup>3</sup><br/>(5.932 Yrths)
-        mass: 1.693 × 10<sup>25</sup> kg<br />(7.058047680943405 Yrths)
+        mass: 1.693 × 10<sup>25</sup> kg<br />(2.834 Yrths)
         density: 2.634 g/cm<sup>3</sup>
         surface_gravity: 8.482 m/s<sup>2</sup><br />(0.865 g<sub>0</sub>)
         escape_velocity: 13.997 km/s<br />(50,389 km/h)
         rotation_period: 42.577 d
         axial_tilt: 37.63°
         albedo: 0.30
-        temperature: 1496 K<br />(1222 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 3804 Athiad III b
         type: Icy
         formationType: Impact formed
@@ -344,14 +344,14 @@ planets:
         radius: 6,602.3 km<br/>(1.036 Yrths)
         surface_area: 5.478 × 10<sup>08</sup> km<sup>2</sup><br/>(1.074 Yrths)
         volume: 1.205 × 10<sup>12</sup> km<sup>3</sup><br/>(1.113 Yrths)
-        mass: 1.337 × 10<sup>24</sup> kg<br />(7.058047680943405 Yrths)
+        mass: 1.337 × 10<sup>24</sup> kg<br />(0.224 Yrths)
         density: 1.109 g/cm<sup>3</sup>
         surface_gravity: 2.044 m/s<sup>2</sup><br />(0.208 g<sub>0</sub>)
         escape_velocity: 5.199 km/s<br />(18,715 km/h)
         rotation_period: 65.809 d
         axial_tilt: 21.33°
         albedo: 0.30
-        temperature: 1426 K<br />(1153 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 3804 Athiad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -364,14 +364,14 @@ planets:
         radius: 7,521.9 km<br/>(1.181 Yrths)
         surface_area: 7.110 × 10<sup>08</sup> km<sup>2</sup><br/>(1.394 Yrths)
         volume: 1.783 × 10<sup>12</sup> km<sup>3</sup><br/>(1.646 Yrths)
-        mass: 3.760 × 10<sup>24</sup> kg<br />(7.058047680943405 Yrths)
+        mass: 3.760 × 10<sup>24</sup> kg<br />(0.630 Yrths)
         density: 2.109 g/cm<sup>3</sup>
         surface_gravity: 4.429 m/s<sup>2</sup><br />(0.452 g<sub>0</sub>)
         escape_velocity: 8.168 km/s<br />(29,406 km/h)
         rotation_period: 58.760 d
         axial_tilt: 12.62°
         albedo: 0.30
-        temperature: 1360 K<br />(1086 °C)
+        temperature: 135 K<br />(-138 °C)
   - name: 3804 Athiad IV
     type: Gas giant
     aphelion: 1,182,228,339 km<br />7.903 AU
@@ -383,7 +383,7 @@ planets:
     radius: 263.2 km<br/>(0.041 Yrths)
     surface_area: 8.706 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.638 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.263 × 10<sup>27</sup> kg<br />(546.4642306982284 Yrths)
+    mass: 3.263 × 10<sup>27</sup> kg<br />(546.46 Yrths)
     density: 42726854.931 g/cm<sup>3</sup>
     surface_gravity: 3139807.024 m/s<sup>2</sup><br />(320171.213 g<sub>0</sub>)
     escape_velocity: 1286.501 km/s<br />(4,631,402 km/h)
@@ -404,14 +404,14 @@ planets:
         radius: 294,479.8 km<br/>(46.222 Yrths)
         surface_area: 1.090 × 10<sup>12</sup> km<sup>2</sup><br/>(2136.465 Yrths)
         volume: 1.070 × 10<sup>17</sup> km<sup>3</sup><br/>(98751.460 Yrths)
-        mass: 1.334 × 10<sup>29</sup> kg<br />(546.4642306982284 Yrths)
+        mass: 1.334 × 10<sup>29</sup> kg<br />(22333.228 Yrths)
         density: 1.247 g/cm<sup>3</sup>
         surface_gravity: 102.512 m/s<sup>2</sup><br />(10.453 g<sub>0</sub>)
         escape_velocity: 245.881 km/s<br />(885,173 km/h)
         rotation_period: 45.827 d
         axial_tilt: 8.77°
         albedo: 0.30
-        temperature: 268 K<br />(-5 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 3804 Athiad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -424,14 +424,14 @@ planets:
         radius: 267,506.9 km<br/>(41.988 Yrths)
         surface_area: 8.992 × 10<sup>11</sup> km<sup>2</sup><br/>(1763.010 Yrths)
         volume: 8.019 × 10<sup>16</sup> km<sup>3</sup><br/>(74025.658 Yrths)
-        mass: 1.564 × 10<sup>29</sup> kg<br />(546.4642306982284 Yrths)
+        mass: 1.564 × 10<sup>29</sup> kg<br />(26184.145 Yrths)
         density: 1.950 g/cm<sup>3</sup>
         surface_gravity: 145.648 m/s<sup>2</sup><br />(14.852 g<sub>0</sub>)
         escape_velocity: 279.338 km/s<br />(1,005,615 km/h)
         rotation_period: 49.327 d
         axial_tilt: 24.65°
         albedo: 0.30
-        temperature: 256 K<br />(-17 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 3804 Athiad IV c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -444,14 +444,14 @@ planets:
         radius: 257,005.0 km<br/>(40.340 Yrths)
         surface_area: 8.300 × 10<sup>11</sup> km<sup>2</sup><br/>(1627.302 Yrths)
         volume: 7.111 × 10<sup>16</sup> km<sup>3</sup><br/>(65645.062 Yrths)
-        mass: 1.464 × 10<sup>29</sup> kg<br />(546.4642306982284 Yrths)
+        mass: 1.464 × 10<sup>29</sup> kg<br />(24509.500 Yrths)
         density: 2.058 g/cm<sup>3</sup>
         surface_gravity: 147.702 m/s<sup>2</sup><br />(15.061 g<sub>0</sub>)
         escape_velocity: 275.724 km/s<br />(992,605 km/h)
         rotation_period: 34.651 d
         axial_tilt: 15.60°
         albedo: 0.30
-        temperature: 167 K<br />(-107 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 3804 Athiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -464,14 +464,14 @@ planets:
         radius: 271,157.4 km<br/>(42.561 Yrths)
         surface_area: 9.240 × 10<sup>11</sup> km<sup>2</sup><br/>(1811.456 Yrths)
         volume: 8.351 × 10<sup>16</sup> km<sup>3</sup><br/>(77097.718 Yrths)
-        mass: 1.585 × 10<sup>29</sup> kg<br />(546.4642306982284 Yrths)
+        mass: 1.585 × 10<sup>29</sup> kg<br />(26547.450 Yrths)
         density: 1.898 g/cm<sup>3</sup>
         surface_gravity: 143.720 m/s<sup>2</sup><br />(14.655 g<sub>0</sub>)
         escape_velocity: 279.369 km/s<br />(1,005,729 km/h)
         rotation_period: 38.854 d
         axial_tilt: 19.97°
         albedo: 0.30
-        temperature: 138 K<br />(-135 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 3804 Athiad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -484,14 +484,14 @@ planets:
         radius: 244,340.3 km<br/>(38.352 Yrths)
         surface_area: 7.502 × 10<sup>11</sup> km<sup>2</sup><br/>(1470.872 Yrths)
         volume: 6.110 × 10<sup>16</sup> km<sup>3</sup><br/>(56410.835 Yrths)
-        mass: 1.279 × 10<sup>29</sup> kg<br />(546.4642306982284 Yrths)
+        mass: 1.279 × 10<sup>29</sup> kg<br />(21409.414 Yrths)
         density: 2.092 g/cm<sup>3</sup>
         surface_gravity: 142.742 m/s<sup>2</sup><br />(14.556 g<sub>0</sub>)
         escape_velocity: 264.291 km/s<br />(951,448 km/h)
         rotation_period: 55.574 d
         axial_tilt: 19.51°
         albedo: 0.30
-        temperature: 114 K<br />(-159 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 3804 Athiad IV f
         type: Icy
         formationType: Accreted
@@ -504,14 +504,14 @@ planets:
         radius: 286,023.4 km<br/>(44.895 Yrths)
         surface_area: 1.028 × 10<sup>12</sup> km<sup>2</sup><br/>(2015.524 Yrths)
         volume: 9.802 × 10<sup>16</sup> km<sup>3</sup><br/>(90486.117 Yrths)
-        mass: 1.386 × 10<sup>29</sup> kg<br />(546.4642306982284 Yrths)
+        mass: 1.386 × 10<sup>29</sup> kg<br />(23216.296 Yrths)
         density: 1.415 g/cm<sup>3</sup>
         surface_gravity: 112.960 m/s<sup>2</sup><br />(11.519 g<sub>0</sub>)
         escape_velocity: 254.374 km/s<br />(915,748 km/h)
         rotation_period: 54.940 d
         axial_tilt: 16.96°
         albedo: 0.30
-        temperature: 90 K<br />(-183 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 3804 Athiad IV g
         type: Ice/rock hybrid
         formationType: Captured
@@ -524,12 +524,12 @@ planets:
         radius: 242,837.5 km<br/>(38.116 Yrths)
         surface_area: 7.410 × 10<sup>11</sup> km<sup>2</sup><br/>(1452.835 Yrths)
         volume: 5.998 × 10<sup>16</sup> km<sup>3</sup><br/>(55376.339 Yrths)
-        mass: 1.409 × 10<sup>29</sup> kg<br />(546.4642306982284 Yrths)
+        mass: 1.409 × 10<sup>29</sup> kg<br />(23594.806 Yrths)
         density: 2.349 g/cm<sup>3</sup>
         surface_gravity: 159.265 m/s<sup>2</sup><br />(16.241 g<sub>0</sub>)
         escape_velocity: 278.310 km/s<br />(1,001,914 km/h)
         rotation_period: 38.971 d
         axial_tilt: 14.12°
         albedo: 0.30
-        temperature: 67 K<br />(-206 °C)
+        temperature: 101 K<br />(-172 °C)
 ---

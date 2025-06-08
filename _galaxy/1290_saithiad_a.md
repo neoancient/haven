@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1290 Saithiad A is a star in the constellation Saith
+      1290 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1114.42 ly
 apparent_magnitude: 6.69
 absolute_magnitude: -0.98

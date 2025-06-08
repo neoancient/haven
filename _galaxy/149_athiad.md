@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      149 Athiad is a star in the constellation Ath
+      149 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1280.07 ly
 apparent_magnitude: 12.64
 absolute_magnitude: 4.68

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1851 Anilliad is a star in the constellation Anil
+      1851 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 437.43 ly
 apparent_magnitude: 11.68
 absolute_magnitude: 6.04

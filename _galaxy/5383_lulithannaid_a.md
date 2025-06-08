@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5383 Lulithannaid A is a star in the constellation Lulithan
+      5383 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 457.45 ly
 apparent_magnitude: 7.81
 absolute_magnitude: 2.08

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1240 Ratharshinniad A is a star in the constellation Ratharshin
+      1240 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 428.72 ly
 apparent_magnitude: 7.70
 absolute_magnitude: 2.11

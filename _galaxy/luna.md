@@ -7,7 +7,7 @@ sections:
   - content: >-
       Luna is a constellation representing a Garland.
 stars:
-  - name:
+  - name: <a href="eldich.html">Eldich</a>
     designation: α Lunaiad
     ra: 10<sup>h</sup> 57<sup>m</sup> 10.02<sup>s</sup>
     dec: -61° 28' 11.41"
@@ -15,7 +15,7 @@ stars:
     absolute_magnitude: -6.43
     distance: 451.69
     spectral_class: O5IV + B6Ib
-  - name:
+  - name: <a href="uthnera.html">Uthnera</a>
     designation: β Lunaiad
     ra: 9<sup>h</sup> 02<sup>m</sup> 7.93<sup>s</sup>
     dec: -65° 38' 32.68"
@@ -23,7 +23,7 @@ stars:
     absolute_magnitude: -6.57
     distance: 1,451.99
     spectral_class: O3II
-  - name:
+  - name: <a href="batayolf.html">Batayolf</a>
     designation: γ Lunaiad
     ra: 9<sup>h</sup> 30<sup>m</sup> 32.25<sup>s</sup>
     dec: -59° 47' 3.54"
@@ -31,7 +31,7 @@ stars:
     absolute_magnitude: -6.96
     distance: 1,896.89
     spectral_class: O2III + O3Ib
-  - name:
+  - name: <a href="fatas.html">Fatas</a>
     designation: δ Lunaiad
     ra: 10<sup>h</sup> 06<sup>m</sup> 15.17<sup>s</sup>
     dec: -73° 09' 48.11"
@@ -120,7 +120,7 @@ stars:
     distance: 115.56
     spectral_class: A8V
   - name:
-    designation: 3599 Lunaiad
+    designation: <a href="3599_lunaiad.html">3599 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 7.85<sup>s</sup>
     dec: -63° 20' 25.52"
     apparent_magnitude: 4.10
@@ -184,7 +184,7 @@ stars:
     distance: 163.52
     spectral_class: M9III + A8V
   - name:
-    designation: 2843 Lunaiad
+    designation: <a href="2843_lunaiad.html">2843 Lunaiad</a>
     ra: 10<sup>h</sup> 59<sup>m</sup> 24.31<sup>s</sup>
     dec: -70° 44' 54.03"
     apparent_magnitude: 4.28
@@ -224,7 +224,7 @@ stars:
     distance: 164.97
     spectral_class: G3IV
   - name:
-    designation: 2475 Lunaiad
+    designation: <a href="2475_lunaiad.html">2475 Lunaiad</a>
     ra: 10<sup>h</sup> 51<sup>m</sup> 4.61<sup>s</sup>
     dec: -62° 48' 6.34"
     apparent_magnitude: 4.32
@@ -240,7 +240,7 @@ stars:
     distance: 286.53
     spectral_class: G6III + K8V + A9IV
   - name:
-    designation: 3559 Lunaiad
+    designation: <a href="3559_lunaiad.html">3559 Lunaiad</a>
     ra: 9<sup>h</sup> 20<sup>m</sup> 4.46<sup>s</sup>
     dec: -69° 55' 6.43"
     apparent_magnitude: 4.35
@@ -440,7 +440,7 @@ stars:
     distance: 345.71
     spectral_class: A4V + G7V + A3V
   - name:
-    designation: 2855 Lunaiad
+    designation: <a href="2855_lunaiad.html">2855 Lunaiad</a>
     ra: 9<sup>h</sup> 16<sup>m</sup> 7.46<sup>s</sup>
     dec: -62° 45' 52.78"
     apparent_magnitude: 4.47
@@ -448,7 +448,7 @@ stars:
     distance: 255.92
     spectral_class: A3V
   - name:
-    designation: 2887 Lunaiad
+    designation: <a href="2887_lunaiad.html">2887 Lunaiad</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 1.75<sup>s</sup>
     dec: -71° 27' 38.73"
     apparent_magnitude: 4.48
@@ -456,7 +456,7 @@ stars:
     distance: 314.68
     spectral_class: A3V
   - name:
-    designation: 3645 Lunaiad
+    designation: <a href="3645_lunaiad.html">3645 Lunaiad</a>
     ra: 10<sup>h</sup> 40<sup>m</sup> 53.58<sup>s</sup>
     dec: -61° 18' 14.75"
     apparent_magnitude: 4.49
@@ -520,7 +520,7 @@ stars:
     distance: 387.99
     spectral_class: B8V + F7V
   - name:
-    designation: 3466 Lunaiad
+    designation: <a href="3466_lunaiad.html">3466 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 20.03<sup>s</sup>
     dec: -59° 49' 12.03"
     apparent_magnitude: 4.52
@@ -528,7 +528,7 @@ stars:
     distance: 109.31
     spectral_class: F8V + M9III + DA + F2V
   - name:
-    designation: 2905 Lunaiad
+    designation: <a href="2905_lunaiad.html">2905 Lunaiad</a>
     ra: 10<sup>h</sup> 03<sup>m</sup> 52.19<sup>s</sup>
     dec: -63° 20' 54.75"
     apparent_magnitude: 4.52
@@ -536,7 +536,7 @@ stars:
     distance: 271.46
     spectral_class: A3V
   - name:
-    designation: 2445 Lunaiad
+    designation: <a href="2445_lunaiad.html">2445 Lunaiad</a>
     ra: 10<sup>h</sup> 37<sup>m</sup> 27.48<sup>s</sup>
     dec: -63° 47' 30.44"
     apparent_magnitude: 4.52
@@ -568,7 +568,7 @@ stars:
     distance: 191.47
     spectral_class: A6V
   - name:
-    designation: 1905 Lunaiad
+    designation: <a href="1905_lunaiad.html">1905 Lunaiad</a>
     ra: 11<sup>h</sup> 06<sup>m</sup> 47.20<sup>s</sup>
     dec: -54° 52' 37.25"
     apparent_magnitude: 4.53
@@ -576,7 +576,7 @@ stars:
     distance: 205.79
     spectral_class: G8V + K4IV + G5V + G9V + A6V
   - name:
-    designation: 3174 Lunaiad
+    designation: <a href="3174_lunaiad.html">3174 Lunaiad</a>
     ra: 10<sup>h</sup> 36<sup>m</sup> 16.27<sup>s</sup>
     dec: -57° 31' 42.23"
     apparent_magnitude: 4.54
@@ -856,7 +856,7 @@ stars:
     distance: 272.33
     spectral_class: F5V + A3V
   - name:
-    designation: 2127 Lunaiad
+    designation: <a href="2127_lunaiad.html">2127 Lunaiad</a>
     ra: 11<sup>h</sup> 04<sup>m</sup> 43.94<sup>s</sup>
     dec: -72° 41' 43.28"
     apparent_magnitude: 4.64
@@ -960,7 +960,7 @@ stars:
     distance: 240.12
     spectral_class: K2II
   - name:
-    designation: 1633 Lunaiad
+    designation: <a href="1633_lunaiad.html">1633 Lunaiad</a>
     ra: 10<sup>h</sup> 56<sup>m</sup> 16.19<sup>s</sup>
     dec: -69° 48' 2.02"
     apparent_magnitude: 4.67
@@ -992,7 +992,7 @@ stars:
     distance: 157.07
     spectral_class: F9III
   - name:
-    designation: 2633 Lunaiad
+    designation: <a href="2633_lunaiad.html">2633 Lunaiad</a>
     ra: 10<sup>h</sup> 48<sup>m</sup> 57.64<sup>s</sup>
     dec: -68° 21' 40.75"
     apparent_magnitude: 4.67
@@ -1024,7 +1024,7 @@ stars:
     distance: 250.56
     spectral_class: A4V
   - name:
-    designation: 2160 Lunaiad
+    designation: <a href="2160_lunaiad.html">2160 Lunaiad</a>
     ra: 10<sup>h</sup> 12<sup>m</sup> 25.28<sup>s</sup>
     dec: -58° 26' 52.38"
     apparent_magnitude: 4.69
@@ -1088,7 +1088,7 @@ stars:
     distance: 231.52
     spectral_class: G4V + M8III + F9V + K0V + A5V
   - name:
-    designation: 2118 Lunaiad
+    designation: <a href="2118_lunaiad.html">2118 Lunaiad</a>
     ra: 10<sup>h</sup> 38<sup>m</sup> 22.68<sup>s</sup>
     dec: -55° 35' 36.00"
     apparent_magnitude: 4.72
@@ -1096,7 +1096,7 @@ stars:
     distance: 226.05
     spectral_class: G8V + K4IV + G5V + G9V + A6V
   - name:
-    designation: 3571 Lunaiad
+    designation: <a href="3571_lunaiad.html">3571 Lunaiad</a>
     ra: 9<sup>h</sup> 52<sup>m</sup> 50.85<sup>s</sup>
     dec: -68° 57' 15.28"
     apparent_magnitude: 4.72
@@ -1104,7 +1104,7 @@ stars:
     distance: 168.99
     spectral_class: G3V
   - name:
-    designation: 3625 Lunaiad
+    designation: <a href="3625_lunaiad.html">3625 Lunaiad</a>
     ra: 10<sup>h</sup> 53<sup>m</sup> 7.90<sup>s</sup>
     dec: -62° 13' 58.08"
     apparent_magnitude: 4.72
@@ -1152,7 +1152,7 @@ stars:
     distance: 244.60
     spectral_class: A8IV
   - name:
-    designation: 2859 Lunaiad
+    designation: <a href="2859_lunaiad.html">2859 Lunaiad</a>
     ra: 9<sup>h</sup> 49<sup>m</sup> 56.42<sup>s</sup>
     dec: -63° 55' 51.81"
     apparent_magnitude: 4.73
@@ -1160,7 +1160,7 @@ stars:
     distance: 269.09
     spectral_class: G4V + M8III + A4V
   - name:
-    designation: 3641 Lunaiad
+    designation: <a href="3641_lunaiad.html">3641 Lunaiad</a>
     ra: 10<sup>h</sup> 17<sup>m</sup> 24.10<sup>s</sup>
     dec: -58° 17' 13.40"
     apparent_magnitude: 4.74
@@ -1208,7 +1208,7 @@ stars:
     distance: 241.40
     spectral_class: F9V + A6V
   - name:
-    designation: 1569 Lunaiad
+    designation: <a href="1569_lunaiad.html">1569 Lunaiad</a>
     ra: 9<sup>h</sup> 39<sup>m</sup> 52.40<sup>s</sup>
     dec: -73° 07' 19.79"
     apparent_magnitude: 4.76
@@ -1232,7 +1232,7 @@ stars:
     distance: 237.91
     spectral_class: A4V
   - name:
-    designation: 3340 Lunaiad
+    designation: <a href="3340_lunaiad.html">3340 Lunaiad</a>
     ra: 10<sup>h</sup> 57<sup>m</sup> 26.76<sup>s</sup>
     dec: -55° 58' 9.63"
     apparent_magnitude: 4.77
@@ -1408,7 +1408,7 @@ stars:
     distance: 206.78
     spectral_class: G5V + A7V
   - name:
-    designation: 15 Lunaiad
+    designation: <a href="15_lunaiad.html">15 Lunaiad</a>
     ra: 11<sup>h</sup> 03<sup>m</sup> 42.84<sup>s</sup>
     dec: -68° 12' 2.30"
     apparent_magnitude: 4.81
@@ -1448,7 +1448,7 @@ stars:
     distance: 268.31
     spectral_class: A4V
   - name:
-    designation: 827 Lunaiad
+    designation: <a href="827_lunaiad.html">827 Lunaiad</a>
     ra: 10<sup>h</sup> 29<sup>m</sup> 23.08<sup>s</sup>
     dec: -62° 10' 54.33"
     apparent_magnitude: 4.82
@@ -1472,7 +1472,7 @@ stars:
     distance: 259.53
     spectral_class: G3V + A6V
   - name:
-    designation: 3567 Lunaiad
+    designation: <a href="3567_lunaiad.html">3567 Lunaiad</a>
     ra: 9<sup>h</sup> 14<sup>m</sup> 29.86<sup>s</sup>
     dec: -62° 40' 34.52"
     apparent_magnitude: 4.83
@@ -1600,7 +1600,7 @@ stars:
     distance: 255.59
     spectral_class: A4V
   - name:
-    designation: 2695 Lunaiad
+    designation: <a href="2695_lunaiad.html">2695 Lunaiad</a>
     ra: 10<sup>h</sup> 51<sup>m</sup> 26.92<sup>s</sup>
     dec: -59° 58' 9.31"
     apparent_magnitude: 4.86
@@ -1744,7 +1744,7 @@ stars:
     distance: 199.47
     spectral_class: A6V
   - name:
-    designation: 2696 Lunaiad
+    designation: <a href="2696_lunaiad.html">2696 Lunaiad</a>
     ra: 10<sup>h</sup> 51<sup>m</sup> 54.53<sup>s</sup>
     dec: -60° 23' 39.62"
     apparent_magnitude: 4.89
@@ -1832,7 +1832,7 @@ stars:
     distance: 173.23
     spectral_class: G8V + DA + A6V
   - name:
-    designation: 1130 Lunaiad
+    designation: <a href="1130_lunaiad.html">1130 Lunaiad</a>
     ra: 10<sup>h</sup> 57<sup>m</sup> 57.61<sup>s</sup>
     dec: -69° 22' 25.92"
     apparent_magnitude: 4.92
@@ -1904,7 +1904,7 @@ stars:
     distance: 19,287.15
     spectral_class: B2IV + A9Ia
   - name:
-    designation: 1098 Lunaiad
+    designation: <a href="1098_lunaiad.html">1098 Lunaiad</a>
     ra: 9<sup>h</sup> 52<sup>m</sup> 37.82<sup>s</sup>
     dec: -68° 02' 47.24"
     apparent_magnitude: 4.92
@@ -1936,7 +1936,7 @@ stars:
     distance: 185.55
     spectral_class: G1V + F5V + A6V
   - name:
-    designation: 3502 Lunaiad
+    designation: <a href="3502_lunaiad.html">3502 Lunaiad</a>
     ra: 9<sup>h</sup> 37<sup>m</sup> 21.20<sup>s</sup>
     dec: -70° 24' 45.33"
     apparent_magnitude: 4.93
@@ -1944,7 +1944,7 @@ stars:
     distance: 189.53
     spectral_class: K2V
   - name:
-    designation: 2464 Lunaiad
+    designation: <a href="2464_lunaiad.html">2464 Lunaiad</a>
     ra: 11<sup>h</sup> 04<sup>m</sup> 27.29<sup>s</sup>
     dec: -68° 01' 14.75"
     apparent_magnitude: 4.93
@@ -2024,7 +2024,7 @@ stars:
     distance: 131.15
     spectral_class: K3III
   - name:
-    designation: 3542 Lunaiad
+    designation: <a href="3542_lunaiad.html">3542 Lunaiad</a>
     ra: 9<sup>h</sup> 00<sup>m</sup> 7.30<sup>s</sup>
     dec: -67° 03' 10.00"
     apparent_magnitude: 4.96
@@ -2032,7 +2032,7 @@ stars:
     distance: 181.41
     spectral_class: G3V
   - name:
-    designation: 2466 Lunaiad
+    designation: <a href="2466_lunaiad.html">2466 Lunaiad</a>
     ra: 10<sup>h</sup> 18<sup>m</sup> 10.54<sup>s</sup>
     dec: -65° 41' 53.54"
     apparent_magnitude: 4.96
@@ -2064,7 +2064,7 @@ stars:
     distance: 204.87
     spectral_class: G8III
   - name:
-    designation: 3578 Lunaiad
+    designation: <a href="3578_lunaiad.html">3578 Lunaiad</a>
     ra: 9<sup>h</sup> 01<sup>m</sup> 40.89<sup>s</sup>
     dec: -68° 44' 12.07"
     apparent_magnitude: 4.96
@@ -2088,7 +2088,7 @@ stars:
     distance: 199.89
     spectral_class: K2V + A7V
   - name:
-    designation: 3586 Lunaiad
+    designation: <a href="3586_lunaiad.html">3586 Lunaiad</a>
     ra: 9<sup>h</sup> 06<sup>m</sup> 30.42<sup>s</sup>
     dec: -67° 52' 27.40"
     apparent_magnitude: 4.97
@@ -2096,7 +2096,7 @@ stars:
     distance: 177.33
     spectral_class: F7V
   - name:
-    designation: 3538 Lunaiad
+    designation: <a href="3538_lunaiad.html">3538 Lunaiad</a>
     ra: 9<sup>h</sup> 26<sup>m</sup> 24.12<sup>s</sup>
     dec: -70° 43' 51.52"
     apparent_magnitude: 4.97
@@ -2144,7 +2144,7 @@ stars:
     distance: 345.33
     spectral_class: A0V
   - name:
-    designation: 1561 Lunaiad
+    designation: <a href="1561_lunaiad.html">1561 Lunaiad</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 47.86<sup>s</sup>
     dec: -55° 50' 46.47"
     apparent_magnitude: 4.98
@@ -2168,7 +2168,7 @@ stars:
     distance: 293.85
     spectral_class: A6V
   - name:
-    designation: 1763 Lunaiad
+    designation: <a href="1763_lunaiad.html">1763 Lunaiad</a>
     ra: 11<sup>h</sup> 03<sup>m</sup> 52.09<sup>s</sup>
     dec: -72° 45' 23.41"
     apparent_magnitude: 4.98
@@ -2192,7 +2192,7 @@ stars:
     distance: 360.05
     spectral_class: K1V + F4V + A3V
   - name:
-    designation: 19 Lunaiad
+    designation: <a href="19_lunaiad.html">19 Lunaiad</a>
     ra: 10<sup>h</sup> 15<sup>m</sup> 54.59<sup>s</sup>
     dec: -68° 18' 37.65"
     apparent_magnitude: 4.99
@@ -2216,7 +2216,7 @@ stars:
     distance: 327.47
     spectral_class: M7III + A9III
   - name:
-    designation: 2709 Lunaiad
+    designation: <a href="2709_lunaiad.html">2709 Lunaiad</a>
     ra: 11<sup>h</sup> 15<sup>m</sup> 8.61<sup>s</sup>
     dec: -68° 05' 17.62"
     apparent_magnitude: 4.99
@@ -2232,7 +2232,7 @@ stars:
     distance: 324.23
     spectral_class: G4V + M8III + F9V + K0V + A5V
   - name:
-    designation: 2431 Lunaiad
+    designation: <a href="2431_lunaiad.html">2431 Lunaiad</a>
     ra: 9<sup>h</sup> 29<sup>m</sup> 1.14<sup>s</sup>
     dec: -64° 29' 5.42"
     apparent_magnitude: 5.00
@@ -2248,7 +2248,7 @@ stars:
     distance: 276.01
     spectral_class: M8V + G3II
   - name:
-    designation: 3017 Lunaiad
+    designation: <a href="3017_lunaiad.html">3017 Lunaiad</a>
     ra: 9<sup>h</sup> 56<sup>m</sup> 3.57<sup>s</sup>
     dec: -67° 53' 32.89"
     apparent_magnitude: 5.00
@@ -2256,7 +2256,7 @@ stars:
     distance: 263.42
     spectral_class: A4V
   - name:
-    designation: 852 Lunaiad
+    designation: <a href="852_lunaiad.html">852 Lunaiad</a>
     ra: 8<sup>h</sup> 44<sup>m</sup> 13.38<sup>s</sup>
     dec: -67° 34' 15.39"
     apparent_magnitude: 5.01
@@ -2288,7 +2288,7 @@ stars:
     distance: 282.39
     spectral_class: K1II
   - name:
-    designation: 3490 Lunaiad
+    designation: <a href="3490_lunaiad.html">3490 Lunaiad</a>
     ra: 9<sup>h</sup> 35<sup>m</sup> 36.65<sup>s</sup>
     dec: -72° 23' 40.32"
     apparent_magnitude: 5.01
@@ -2328,7 +2328,7 @@ stars:
     distance: 194.41
     spectral_class: A7V
   - name:
-    designation: 1709 Lunaiad
+    designation: <a href="1709_lunaiad.html">1709 Lunaiad</a>
     ra: 9<sup>h</sup> 59<sup>m</sup> 39.33<sup>s</sup>
     dec: -58° 28' 23.28"
     apparent_magnitude: 5.02
@@ -2360,7 +2360,7 @@ stars:
     distance: 186.74
     spectral_class: G1V + F5V + A6V
   - name:
-    designation: 3543 Lunaiad
+    designation: <a href="3543_lunaiad.html">3543 Lunaiad</a>
     ra: 8<sup>h</sup> 44<sup>m</sup> 12.58<sup>s</sup>
     dec: -66° 47' 38.44"
     apparent_magnitude: 5.02
@@ -2400,7 +2400,7 @@ stars:
     distance: 298.73
     spectral_class: F9V + F1III
   - name:
-    designation: 3600 Lunaiad
+    designation: <a href="3600_lunaiad.html">3600 Lunaiad</a>
     ra: 11<sup>h</sup> 03<sup>m</sup> 17.52<sup>s</sup>
     dec: -70° 24' 13.31"
     apparent_magnitude: 5.03
@@ -2424,7 +2424,7 @@ stars:
     distance: 271.64
     spectral_class: M5Ib
   - name:
-    designation: 3441 Lunaiad
+    designation: <a href="3441_lunaiad.html">3441 Lunaiad</a>
     ra: 10<sup>h</sup> 10<sup>m</sup> 8.77<sup>s</sup>
     dec: -66° 28' 20.73"
     apparent_magnitude: 5.03
@@ -2464,7 +2464,7 @@ stars:
     distance: 344.71
     spectral_class: A2V
   - name:
-    designation: 2808 Lunaiad
+    designation: <a href="2808_lunaiad.html">2808 Lunaiad</a>
     ra: 10<sup>h</sup> 38<sup>m</sup> 15.25<sup>s</sup>
     dec: -65° 33' 49.90"
     apparent_magnitude: 5.04
@@ -2480,7 +2480,7 @@ stars:
     distance: 318.52
     spectral_class: G4V + M8III + F9V + K0V + A5V
   - name:
-    designation: 1760 Lunaiad
+    designation: <a href="1760_lunaiad.html">1760 Lunaiad</a>
     ra: 10<sup>h</sup> 20<sup>m</sup> 9.02<sup>s</sup>
     dec: -69° 25' 18.94"
     apparent_magnitude: 5.04
@@ -2496,7 +2496,7 @@ stars:
     distance: 285.48
     spectral_class: F9V + A5V
   - name:
-    designation: 1105 Lunaiad
+    designation: <a href="1105_lunaiad.html">1105 Lunaiad</a>
     ra: 11<sup>h</sup> 04<sup>m</sup> 41.44<sup>s</sup>
     dec: -68° 43' 35.81"
     apparent_magnitude: 5.05
@@ -2544,7 +2544,7 @@ stars:
     distance: 248.89
     spectral_class: K6III + A4V
   - name:
-    designation: 3592 Lunaiad
+    designation: <a href="3592_lunaiad.html">3592 Lunaiad</a>
     ra: 10<sup>h</sup> 00<sup>m</sup> 14.10<sup>s</sup>
     dec: -66° 04' 52.07"
     apparent_magnitude: 5.06
@@ -2624,7 +2624,7 @@ stars:
     distance: 216.39
     spectral_class: A8V
   - name:
-    designation: 1865 Lunaiad
+    designation: <a href="1865_lunaiad.html">1865 Lunaiad</a>
     ra: 9<sup>h</sup> 55<sup>m</sup> 1.33<sup>s</sup>
     dec: -62° 08' 22.08"
     apparent_magnitude: 5.08
@@ -2688,7 +2688,7 @@ stars:
     distance: 311.89
     spectral_class: G1III + G7III
   - name:
-    designation: 3438 Lunaiad
+    designation: <a href="3438_lunaiad.html">3438 Lunaiad</a>
     ra: 9<sup>h</sup> 40<sup>m</sup> 57.33<sup>s</sup>
     dec: -55° 56' 27.59"
     apparent_magnitude: 5.10
@@ -2696,7 +2696,7 @@ stars:
     distance: 137.97
     spectral_class: A9V
   - name:
-    designation: 2440 Lunaiad
+    designation: <a href="2440_lunaiad.html">2440 Lunaiad</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 34.62<sup>s</sup>
     dec: -65° 21' 20.94"
     apparent_magnitude: 5.10
@@ -2728,7 +2728,7 @@ stars:
     distance: 238.94
     spectral_class: F9V + A6V
   - name:
-    designation: 1017 Lunaiad
+    designation: <a href="1017_lunaiad.html">1017 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 16.08<sup>s</sup>
     dec: -54° 53' 4.84"
     apparent_magnitude: 5.10
@@ -2736,7 +2736,7 @@ stars:
     distance: 347.21
     spectral_class: G7V + F7V + G3V + F8V + A2V
   - name:
-    designation: 3655 Lunaiad
+    designation: <a href="3655_lunaiad.html">3655 Lunaiad</a>
     ra: 10<sup>h</sup> 22<sup>m</sup> 29.11<sup>s</sup>
     dec: -61° 43' 59.49"
     apparent_magnitude: 5.11
@@ -2744,7 +2744,7 @@ stars:
     distance: 93.92
     spectral_class: G5V
   - name:
-    designation: 2893 Lunaiad
+    designation: <a href="2893_lunaiad.html">2893 Lunaiad</a>
     ra: 10<sup>h</sup> 11<sup>m</sup> 19.01<sup>s</sup>
     dec: -68° 09' 36.05"
     apparent_magnitude: 5.11
@@ -2760,7 +2760,7 @@ stars:
     distance: 295.70
     spectral_class: M8V + G3II
   - name:
-    designation: 3563 Lunaiad
+    designation: <a href="3563_lunaiad.html">3563 Lunaiad</a>
     ra: 9<sup>h</sup> 18<sup>m</sup> 12.44<sup>s</sup>
     dec: -67° 36' 6.10"
     apparent_magnitude: 5.11
@@ -2776,7 +2776,7 @@ stars:
     distance: 264.41
     spectral_class: G2V + A7V
   - name:
-    designation: 3448 Lunaiad
+    designation: <a href="3448_lunaiad.html">3448 Lunaiad</a>
     ra: 11<sup>h</sup> 14<sup>m</sup> 6.07<sup>s</sup>
     dec: -67° 19' 6.63"
     apparent_magnitude: 5.12
@@ -2800,7 +2800,7 @@ stars:
     distance: 295.24
     spectral_class: A1V
   - name:
-    designation: 24 Lunaiad
+    designation: <a href="24_lunaiad.html">24 Lunaiad</a>
     ra: 11<sup>h</sup> 07<sup>m</sup> 31.67<sup>s</sup>
     dec: -59° 52' 42.55"
     apparent_magnitude: 5.12
@@ -2832,7 +2832,7 @@ stars:
     distance: 305.98
     spectral_class: F1V + A3V
   - name:
-    designation: 860 Lunaiad
+    designation: <a href="860_lunaiad.html">860 Lunaiad</a>
     ra: 9<sup>h</sup> 46<sup>m</sup> 33.89<sup>s</sup>
     dec: -69° 21' 34.51"
     apparent_magnitude: 5.13
@@ -2840,7 +2840,7 @@ stars:
     distance: 319.30
     spectral_class: F5III
   - name:
-    designation: 3525 Lunaiad
+    designation: <a href="3525_lunaiad.html">3525 Lunaiad</a>
     ra: 9<sup>h</sup> 00<sup>m</sup> 11.96<sup>s</sup>
     dec: -65° 34' 14.74"
     apparent_magnitude: 5.13
@@ -2912,7 +2912,7 @@ stars:
     distance: 1,431.85
     spectral_class: B4V
   - name:
-    designation: 1923 Lunaiad
+    designation: <a href="1923_lunaiad.html">1923 Lunaiad</a>
     ra: 10<sup>h</sup> 09<sup>m</sup> 17.51<sup>s</sup>
     dec: -73° 00' 10.99"
     apparent_magnitude: 5.16
@@ -2952,7 +2952,7 @@ stars:
     distance: 307.07
     spectral_class: F9III
   - name:
-    designation: 2895 Lunaiad
+    designation: <a href="2895_lunaiad.html">2895 Lunaiad</a>
     ra: 9<sup>h</sup> 33<sup>m</sup> 41.38<sup>s</sup>
     dec: -65° 16' 57.91"
     apparent_magnitude: 5.16
@@ -2984,7 +2984,7 @@ stars:
     distance: 315.25
     spectral_class: F6III
   - name:
-    designation: 3410 Lunaiad
+    designation: <a href="3410_lunaiad.html">3410 Lunaiad</a>
     ra: 9<sup>h</sup> 38<sup>m</sup> 47.37<sup>s</sup>
     dec: -72° 28' 2.06"
     apparent_magnitude: 5.17
@@ -3000,7 +3000,7 @@ stars:
     distance: 315.71
     spectral_class: F8V + B9V
   - name:
-    designation: 1267 Lunaiad
+    designation: <a href="1267_lunaiad.html">1267 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 8.18<sup>s</sup>
     dec: -63° 19' 47.70"
     apparent_magnitude: 5.17
@@ -3008,7 +3008,7 @@ stars:
     distance: 271.05
     spectral_class: A3V
   - name:
-    designation: 25 Lunaiad
+    designation: <a href="25_lunaiad.html">25 Lunaiad</a>
     ra: 10<sup>h</sup> 25<sup>m</sup> 48.37<sup>s</sup>
     dec: -57° 27' 45.06"
     apparent_magnitude: 5.17
@@ -3024,7 +3024,7 @@ stars:
     distance: 362.50
     spectral_class: A1V
   - name:
-    designation: 781 Lunaiad
+    designation: <a href="781_lunaiad.html">781 Lunaiad</a>
     ra: 11<sup>h</sup> 14<sup>m</sup> 9.06<sup>s</sup>
     dec: -65° 42' 45.64"
     apparent_magnitude: 5.18
@@ -3032,7 +3032,7 @@ stars:
     distance: 338.39
     spectral_class: A4V
   - name:
-    designation: 1460 Lunaiad
+    designation: <a href="1460_lunaiad.html">1460 Lunaiad</a>
     ra: 9<sup>h</sup> 04<sup>m</sup> 54.11<sup>s</sup>
     dec: -62° 42' 32.20"
     apparent_magnitude: 5.18
@@ -3128,7 +3128,7 @@ stars:
     distance: 262.08
     spectral_class: F9V + A6V
   - name:
-    designation: 2835 Lunaiad
+    designation: <a href="2835_lunaiad.html">2835 Lunaiad</a>
     ra: 8<sup>h</sup> 59<sup>m</sup> 30.24<sup>s</sup>
     dec: -63° 41' 55.33"
     apparent_magnitude: 5.19
@@ -3160,7 +3160,7 @@ stars:
     distance: 138.46
     spectral_class: K6II
   - name:
-    designation: 3634 Lunaiad
+    designation: <a href="3634_lunaiad.html">3634 Lunaiad</a>
     ra: 10<sup>h</sup> 41<sup>m</sup> 19.02<sup>s</sup>
     dec: -63° 25' 42.72"
     apparent_magnitude: 5.20
@@ -3192,7 +3192,7 @@ stars:
     distance: 452.99
     spectral_class: A9III
   - name:
-    designation: 1606 Lunaiad
+    designation: <a href="1606_lunaiad.html">1606 Lunaiad</a>
     ra: 9<sup>h</sup> 55<sup>m</sup> 3.39<sup>s</sup>
     dec: -63° 20' 40.46"
     apparent_magnitude: 5.20
@@ -3216,7 +3216,7 @@ stars:
     distance: 260.15
     spectral_class: F7III
   - name:
-    designation: ρ Lunaiad
+    designation: <a href="ρ_lunaiad.html">ρ Lunaiad</a>
     ra: 9<sup>h</sup> 33<sup>m</sup> 44.06<sup>s</sup>
     dec: -60° 18' 0.60"
     apparent_magnitude: 5.21
@@ -3264,7 +3264,7 @@ stars:
     distance: 349.33
     spectral_class: G4V + A2V
   - name:
-    designation: 1027 Lunaiad
+    designation: <a href="1027_lunaiad.html">1027 Lunaiad</a>
     ra: 10<sup>h</sup> 06<sup>m</sup> 48.11<sup>s</sup>
     dec: -55° 36' 3.47"
     apparent_magnitude: 5.21
@@ -3288,7 +3288,7 @@ stars:
     distance: 295.98
     spectral_class: G5V + A7V
   - name:
-    designation: 26 Lunaiad
+    designation: <a href="26_lunaiad.html">26 Lunaiad</a>
     ra: 10<sup>h</sup> 08<sup>m</sup> 24.94<sup>s</sup>
     dec: -61° 49' 7.31"
     apparent_magnitude: 5.22
@@ -3312,7 +3312,7 @@ stars:
     distance: 141.18
     spectral_class: K1III + G4V
   - name:
-    designation: 615 Lunaiad
+    designation: <a href="615_lunaiad.html">615 Lunaiad</a>
     ra: 10<sup>h</sup> 56<sup>m</sup> 52.61<sup>s</sup>
     dec: -66° 11' 45.31"
     apparent_magnitude: 5.22
@@ -3360,7 +3360,7 @@ stars:
     distance: 189.79
     spectral_class: F9V + A7V
   - name:
-    designation: 3395 Lunaiad
+    designation: <a href="3395_lunaiad.html">3395 Lunaiad</a>
     ra: 10<sup>h</sup> 45<sup>m</sup> 1.32<sup>s</sup>
     dec: -55° 16' 30.31"
     apparent_magnitude: 5.23
@@ -3400,7 +3400,7 @@ stars:
     distance: 301.36
     spectral_class: M5Ib
   - name:
-    designation: 3010 Lunaiad
+    designation: <a href="3010_lunaiad.html">3010 Lunaiad</a>
     ra: 11<sup>h</sup> 07<sup>m</sup> 34.71<sup>s</sup>
     dec: -54° 57' 37.96"
     apparent_magnitude: 5.24
@@ -3408,7 +3408,7 @@ stars:
     distance: 263.80
     spectral_class: A6V
   - name:
-    designation: 820 Lunaiad
+    designation: <a href="820_lunaiad.html">820 Lunaiad</a>
     ra: 10<sup>h</sup> 22<sup>m</sup> 24.39<sup>s</sup>
     dec: -57° 25' 54.35"
     apparent_magnitude: 5.24
@@ -3464,7 +3464,7 @@ stars:
     distance: 271.26
     spectral_class: K6III + A4V
   - name:
-    designation: 2069 Lunaiad
+    designation: <a href="2069_lunaiad.html">2069 Lunaiad</a>
     ra: 9<sup>h</sup> 34<sup>m</sup> 54.21<sup>s</sup>
     dec: -61° 21' 29.01"
     apparent_magnitude: 5.26
@@ -3472,7 +3472,7 @@ stars:
     distance: 291.33
     spectral_class: A4V
   - name:
-    designation: ο Lunaiad
+    designation: <a href="ο_lunaiad.html">ο Lunaiad</a>
     ra: 9<sup>h</sup> 34<sup>m</sup> 20.60<sup>s</sup>
     dec: -71° 09' 10.57"
     apparent_magnitude: 5.27
@@ -3480,7 +3480,7 @@ stars:
     distance: 523.45
     spectral_class: B8V + G1V + G1V
   - name:
-    designation: 3553 Lunaiad
+    designation: <a href="3553_lunaiad.html">3553 Lunaiad</a>
     ra: 8<sup>h</sup> 35<sup>m</sup> 32.08<sup>s</sup>
     dec: -70° 05' 45.90"
     apparent_magnitude: 5.27
@@ -3512,7 +3512,7 @@ stars:
     distance: 223.14
     spectral_class: K8II
   - name:
-    designation: 1040 Lunaiad
+    designation: <a href="1040_lunaiad.html">1040 Lunaiad</a>
     ra: 10<sup>h</sup> 41<sup>m</sup> 53.12<sup>s</sup>
     dec: -71° 34' 16.71"
     apparent_magnitude: 5.27
@@ -3528,7 +3528,7 @@ stars:
     distance: 370.99
     spectral_class: A1V
   - name:
-    designation: 1594 Lunaiad
+    designation: <a href="1594_lunaiad.html">1594 Lunaiad</a>
     ra: 10<sup>h</sup> 13<sup>m</sup> 48.74<sup>s</sup>
     dec: -58° 44' 57.61"
     apparent_magnitude: 5.27
@@ -3536,7 +3536,7 @@ stars:
     distance: 256.23
     spectral_class: F6III
   - name:
-    designation: 1031 Lunaiad
+    designation: <a href="1031_lunaiad.html">1031 Lunaiad</a>
     ra: 10<sup>h</sup> 11<sup>m</sup> 34.67<sup>s</sup>
     dec: -57° 54' 45.15"
     apparent_magnitude: 5.27
@@ -3552,7 +3552,7 @@ stars:
     distance: 342.21
     spectral_class: A7V + A9III
   - name:
-    designation: 0001 Lunaiad
+    designation: <a href="0001_lunaiad.html">0001 Lunaiad</a>
     ra: 9<sup>h</sup> 26<sup>m</sup> 16.55<sup>s</sup>
     dec: -59° 35' 13.90"
     apparent_magnitude: 5.27
@@ -3592,7 +3592,7 @@ stars:
     distance: 370.35
     spectral_class: A2V
   - name:
-    designation: 3320 Lunaiad
+    designation: <a href="3320_lunaiad.html">3320 Lunaiad</a>
     ra: 10<sup>h</sup> 39<sup>m</sup> 13.76<sup>s</sup>
     dec: -56° 51' 7.98"
     apparent_magnitude: 5.28
@@ -3648,7 +3648,7 @@ stars:
     distance: 336.30
     spectral_class: F2V + A2V
   - name:
-    designation: 2847 Lunaiad
+    designation: <a href="2847_lunaiad.html">2847 Lunaiad</a>
     ra: 9<sup>h</sup> 43<sup>m</sup> 31.39<sup>s</sup>
     dec: -65° 09' 28.10"
     apparent_magnitude: 5.29
@@ -3672,7 +3672,7 @@ stars:
     distance: 229.75
     spectral_class: A7V
   - name:
-    designation: 2168 Lunaiad
+    designation: <a href="2168_lunaiad.html">2168 Lunaiad</a>
     ra: 9<sup>h</sup> 58<sup>m</sup> 22.94<sup>s</sup>
     dec: -74° 39' 41.27"
     apparent_magnitude: 5.29
@@ -3680,7 +3680,7 @@ stars:
     distance: 232.71
     spectral_class: F6V + G2V + K2V + G3V + F0V
   - name:
-    designation: 3638 Lunaiad
+    designation: <a href="3638_lunaiad.html">3638 Lunaiad</a>
     ra: 9<sup>h</sup> 52<sup>m</sup> 50.98<sup>s</sup>
     dec: -57° 06' 43.54"
     apparent_magnitude: 5.29
@@ -3720,7 +3720,7 @@ stars:
     distance: 145.08
     spectral_class: F9V + G3V
   - name:
-    designation: 1531 Lunaiad
+    designation: <a href="1531_lunaiad.html">1531 Lunaiad</a>
     ra: 9<sup>h</sup> 07<sup>m</sup> 57.25<sup>s</sup>
     dec: -65° 06' 52.47"
     apparent_magnitude: 5.29
@@ -3776,7 +3776,7 @@ stars:
     distance: 517.92
     spectral_class: B9V + A1V
   - name:
-    designation: 1270 Lunaiad
+    designation: <a href="1270_lunaiad.html">1270 Lunaiad</a>
     ra: 10<sup>h</sup> 28<sup>m</sup> 58.78<sup>s</sup>
     dec: -65° 34' 1.71"
     apparent_magnitude: 5.31
@@ -3800,7 +3800,7 @@ stars:
     distance: 349.68
     spectral_class: G4V + A2V
   - name:
-    designation: 1745 Lunaiad
+    designation: <a href="1745_lunaiad.html">1745 Lunaiad</a>
     ra: 11<sup>h</sup> 07<sup>m</sup> 4.18<sup>s</sup>
     dec: -54° 52' 30.45"
     apparent_magnitude: 5.31
@@ -3872,7 +3872,7 @@ stars:
     distance: 333.91
     spectral_class: F9III
   - name:
-    designation: 3572 Lunaiad
+    designation: <a href="3572_lunaiad.html">3572 Lunaiad</a>
     ra: 9<sup>h</sup> 31<sup>m</sup> 35.58<sup>s</sup>
     dec: -58° 29' 7.78"
     apparent_magnitude: 5.32
@@ -3880,7 +3880,7 @@ stars:
     distance: 148.25
     spectral_class: F8V
   - name:
-    designation: 1089 Lunaiad
+    designation: <a href="1089_lunaiad.html">1089 Lunaiad</a>
     ra: 9<sup>h</sup> 52<sup>m</sup> 31.48<sup>s</sup>
     dec: -63° 27' 9.71"
     apparent_magnitude: 5.32
@@ -3896,7 +3896,7 @@ stars:
     distance: 293.20
     spectral_class: A7V
   - name:
-    designation: 3389 Lunaiad
+    designation: <a href="3389_lunaiad.html">3389 Lunaiad</a>
     ra: 11<sup>h</sup> 04<sup>m</sup> 30.71<sup>s</sup>
     dec: -55° 27' 39.56"
     apparent_magnitude: 5.32
@@ -3904,7 +3904,7 @@ stars:
     distance: 293.49
     spectral_class: A9V
   - name:
-    designation: 30 Lunaiad
+    designation: <a href="30_lunaiad.html">30 Lunaiad</a>
     ra: 10<sup>h</sup> 05<sup>m</sup> 40.29<sup>s</sup>
     dec: -62° 44' 49.28"
     apparent_magnitude: 5.32
@@ -3912,7 +3912,7 @@ stars:
     distance: 233.07
     spectral_class: F3V + F1V + F6V + A7V
   - name:
-    designation: υ Lunaiad
+    designation: <a href="υ_lunaiad.html">υ Lunaiad</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 56.46<sup>s</sup>
     dec: -66° 44' 2.13"
     apparent_magnitude: 5.33
@@ -3952,7 +3952,7 @@ stars:
     distance: 356.79
     spectral_class: A2V
   - name:
-    designation: 2154 Lunaiad
+    designation: <a href="2154_lunaiad.html">2154 Lunaiad</a>
     ra: 9<sup>h</sup> 34<sup>m</sup> 10.08<sup>s</sup>
     dec: -71° 09' 26.45"
     apparent_magnitude: 5.34
@@ -3960,7 +3960,7 @@ stars:
     distance: 254.48
     spectral_class: A6V
   - name:
-    designation: 3590 Lunaiad
+    designation: <a href="3590_lunaiad.html">3590 Lunaiad</a>
     ra: 9<sup>h</sup> 46<sup>m</sup> 49.42<sup>s</sup>
     dec: -73° 48' 23.33"
     apparent_magnitude: 5.34
@@ -4032,7 +4032,7 @@ stars:
     distance: 324.15
     spectral_class: A5V
   - name:
-    designation: 2366 Lunaiad
+    designation: <a href="2366_lunaiad.html">2366 Lunaiad</a>
     ra: 10<sup>h</sup> 11<sup>m</sup> 15.15<sup>s</sup>
     dec: -68° 43' 50.28"
     apparent_magnitude: 5.34
@@ -4040,7 +4040,7 @@ stars:
     distance: 354.84
     spectral_class: A4V
   - name:
-    designation: 3494 Lunaiad
+    designation: <a href="3494_lunaiad.html">3494 Lunaiad</a>
     ra: 9<sup>h</sup> 15<sup>m</sup> 9.96<sup>s</sup>
     dec: -64° 30' 21.18"
     apparent_magnitude: 5.34
@@ -4080,7 +4080,7 @@ stars:
     distance: 379.21
     spectral_class: F4III
   - name:
-    designation: 1461 Lunaiad
+    designation: <a href="1461_lunaiad.html">1461 Lunaiad</a>
     ra: 11<sup>h</sup> 07<sup>m</sup> 58.06<sup>s</sup>
     dec: -56° 01' 11.10"
     apparent_magnitude: 5.34
@@ -4088,7 +4088,7 @@ stars:
     distance: 204.91
     spectral_class: G9V + G8V + A5V
   - name:
-    designation: 102 Lunaiad
+    designation: <a href="102_lunaiad.html">102 Lunaiad</a>
     ra: 9<sup>h</sup> 57<sup>m</sup> 22.85<sup>s</sup>
     dec: -72° 00' 46.85"
     apparent_magnitude: 5.35
@@ -4096,7 +4096,7 @@ stars:
     distance: 281.06
     spectral_class: A3V
   - name:
-    designation: 1521 Lunaiad
+    designation: <a href="1521_lunaiad.html">1521 Lunaiad</a>
     ra: 9<sup>h</sup> 41<sup>m</sup> 10.85<sup>s</sup>
     dec: -60° 44' 2.29"
     apparent_magnitude: 5.35
@@ -4160,7 +4160,7 @@ stars:
     distance: 237.15
     spectral_class: A4V
   - name:
-    designation: 1321 Lunaiad
+    designation: <a href="1321_lunaiad.html">1321 Lunaiad</a>
     ra: 10<sup>h</sup> 53<sup>m</sup> 22.20<sup>s</sup>
     dec: -65° 12' 23.72"
     apparent_magnitude: 5.36
@@ -4216,7 +4216,7 @@ stars:
     distance: 318.27
     spectral_class: F7III
   - name:
-    designation: 3451 Lunaiad
+    designation: <a href="3451_lunaiad.html">3451 Lunaiad</a>
     ra: 9<sup>h</sup> 24<sup>m</sup> 6.66<sup>s</sup>
     dec: -68° 37' 56.77"
     apparent_magnitude: 5.37
@@ -4224,7 +4224,7 @@ stars:
     distance: 162.47
     spectral_class: G5III
   - name:
-    designation: 3280 Lunaiad
+    designation: <a href="3280_lunaiad.html">3280 Lunaiad</a>
     ra: 10<sup>h</sup> 18<sup>m</sup> 29.80<sup>s</sup>
     dec: -55° 19' 22.65"
     apparent_magnitude: 5.37
@@ -4248,7 +4248,7 @@ stars:
     distance: 748.19
     spectral_class: A1III
   - name:
-    designation: 1904 Lunaiad
+    designation: <a href="1904_lunaiad.html">1904 Lunaiad</a>
     ra: 11<sup>h</sup> 07<sup>m</sup> 0.97<sup>s</sup>
     dec: -59° 38' 2.43"
     apparent_magnitude: 5.37
@@ -4296,7 +4296,7 @@ stars:
     distance: 311.41
     spectral_class: K6III + A4V
   - name:
-    designation: 37 Lunaiad
+    designation: <a href="37_lunaiad.html">37 Lunaiad</a>
     ra: 10<sup>h</sup> 20<sup>m</sup> 18.19<sup>s</sup>
     dec: -58° 28' 18.85"
     apparent_magnitude: 5.38
@@ -4328,7 +4328,7 @@ stars:
     distance: 304.94
     spectral_class: A5V
   - name:
-    designation: 1141 Lunaiad
+    designation: <a href="1141_lunaiad.html">1141 Lunaiad</a>
     ra: 10<sup>h</sup> 15<sup>m</sup> 10.02<sup>s</sup>
     dec: -67° 12' 47.82"
     apparent_magnitude: 5.38
@@ -4336,7 +4336,7 @@ stars:
     distance: 356.71
     spectral_class: F5III
   - name:
-    designation: 3564 Lunaiad
+    designation: <a href="3564_lunaiad.html">3564 Lunaiad</a>
     ra: 8<sup>h</sup> 40<sup>m</sup> 39.49<sup>s</sup>
     dec: -63° 49' 31.02"
     apparent_magnitude: 5.38
@@ -4344,7 +4344,7 @@ stars:
     distance: 152.45
     spectral_class: F8V
   - name:
-    designation: 1024 Lunaiad
+    designation: <a href="1024_lunaiad.html">1024 Lunaiad</a>
     ra: 9<sup>h</sup> 28<sup>m</sup> 29.71<sup>s</sup>
     dec: -57° 23' 39.86"
     apparent_magnitude: 5.38
@@ -4424,7 +4424,7 @@ stars:
     distance: 327.86
     spectral_class: A4V
   - name:
-    designation: 3589 Lunaiad
+    designation: <a href="3589_lunaiad.html">3589 Lunaiad</a>
     ra: 10<sup>h</sup> 37<sup>m</sup> 4.15<sup>s</sup>
     dec: -66° 12' 59.66"
     apparent_magnitude: 5.39
@@ -4432,7 +4432,7 @@ stars:
     distance: 168.62
     spectral_class: K2V
   - name:
-    designation: 2879 Lunaiad
+    designation: <a href="2879_lunaiad.html">2879 Lunaiad</a>
     ra: 11<sup>h</sup> 15<sup>m</sup> 29.22<sup>s</sup>
     dec: -69° 16' 51.13"
     apparent_magnitude: 5.39
@@ -4456,7 +4456,7 @@ stars:
     distance: 229.36
     spectral_class: G6V + K6V + F5V
   - name:
-    designation: 3630 Lunaiad
+    designation: <a href="3630_lunaiad.html">3630 Lunaiad</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 10.11<sup>s</sup>
     dec: -54° 56' 30.29"
     apparent_magnitude: 5.40
@@ -4496,7 +4496,7 @@ stars:
     distance: 283.71
     spectral_class: A5V
   - name:
-    designation: 3577 Lunaiad
+    designation: <a href="3577_lunaiad.html">3577 Lunaiad</a>
     ra: 9<sup>h</sup> 28<sup>m</sup> 38.02<sup>s</sup>
     dec: -72° 32' 20.03"
     apparent_magnitude: 5.41
@@ -4512,7 +4512,7 @@ stars:
     distance: 280.55
     spectral_class: A9V
   - name:
-    designation: 2415 Lunaiad
+    designation: <a href="2415_lunaiad.html">2415 Lunaiad</a>
     ra: 9<sup>h</sup> 31<sup>m</sup> 33.47<sup>s</sup>
     dec: -59° 57' 39.10"
     apparent_magnitude: 5.41
@@ -4544,7 +4544,7 @@ stars:
     distance: 198.23
     spectral_class: K8III
   - name:
-    designation: 38 Lunaiad
+    designation: <a href="38_lunaiad.html">38 Lunaiad</a>
     ra: 10<sup>h</sup> 32<sup>m</sup> 35.48<sup>s</sup>
     dec: -64° 54' 28.55"
     apparent_magnitude: 5.42
@@ -4552,7 +4552,7 @@ stars:
     distance: 310.03
     spectral_class: A1V
   - name:
-    designation: 2478 Lunaiad
+    designation: <a href="2478_lunaiad.html">2478 Lunaiad</a>
     ra: 9<sup>h</sup> 49<sup>m</sup> 35.26<sup>s</sup>
     dec: -65° 38' 52.27"
     apparent_magnitude: 5.42
@@ -4584,7 +4584,7 @@ stars:
     distance: 294.85
     spectral_class: F3V + A2V
   - name:
-    designation: 1700 Lunaiad
+    designation: <a href="1700_lunaiad.html">1700 Lunaiad</a>
     ra: 9<sup>h</sup> 45<sup>m</sup> 56.81<sup>s</sup>
     dec: -62° 46' 11.43"
     apparent_magnitude: 5.42
@@ -4592,7 +4592,7 @@ stars:
     distance: 288.56
     spectral_class: A3V
   - name:
-    designation: 3175 Lunaiad
+    designation: <a href="3175_lunaiad.html">3175 Lunaiad</a>
     ra: 11<sup>h</sup> 14<sup>m</sup> 17.40<sup>s</sup>
     dec: -55° 24' 17.45"
     apparent_magnitude: 5.42
@@ -4656,7 +4656,7 @@ stars:
     distance: 372.52
     spectral_class: G1II
   - name:
-    designation: 3598 Lunaiad
+    designation: <a href="3598_lunaiad.html">3598 Lunaiad</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 19.34<sup>s</sup>
     dec: -71° 21' 15.08"
     apparent_magnitude: 5.43
@@ -4680,7 +4680,7 @@ stars:
     distance: 404.92
     spectral_class: K6III + A1V
   - name:
-    designation: 1533 Lunaiad
+    designation: <a href="1533_lunaiad.html">1533 Lunaiad</a>
     ra: 11<sup>h</sup> 11<sup>m</sup> 31.28<sup>s</sup>
     dec: -58° 44' 12.21"
     apparent_magnitude: 5.43
@@ -4688,7 +4688,7 @@ stars:
     distance: 220.95
     spectral_class: G9V + G8V + A5V
   - name:
-    designation: 3369 Lunaiad
+    designation: <a href="3369_lunaiad.html">3369 Lunaiad</a>
     ra: 10<sup>h</sup> 54<sup>m</sup> 49.25<sup>s</sup>
     dec: -55° 43' 50.08"
     apparent_magnitude: 5.44
@@ -4712,7 +4712,7 @@ stars:
     distance: 327.53
     spectral_class: F9V + A6V
   - name:
-    designation: 3350 Lunaiad
+    designation: <a href="3350_lunaiad.html">3350 Lunaiad</a>
     ra: 10<sup>h</sup> 45<sup>m</sup> 25.63<sup>s</sup>
     dec: -55° 40' 12.75"
     apparent_magnitude: 5.44
@@ -4808,7 +4808,7 @@ stars:
     distance: 266.01
     spectral_class: F9V + K5III + A7V
   - name:
-    designation: 3581 Lunaiad
+    designation: <a href="3581_lunaiad.html">3581 Lunaiad</a>
     ra: 8<sup>h</sup> 35<sup>m</sup> 32.14<sup>s</sup>
     dec: -72° 54' 27.60"
     apparent_magnitude: 5.45
@@ -4824,7 +4824,7 @@ stars:
     distance: 275.53
     spectral_class: G8V + DA + A6V
   - name:
-    designation: 3596 Lunaiad
+    designation: <a href="3596_lunaiad.html">3596 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 22.81<sup>s</sup>
     dec: -69° 24' 26.71"
     apparent_magnitude: 5.45
@@ -4960,7 +4960,7 @@ stars:
     distance: 153.06
     spectral_class: Magnetar + K0III
   - name:
-    designation: 1601 Lunaiad
+    designation: <a href="1601_lunaiad.html">1601 Lunaiad</a>
     ra: 9<sup>h</sup> 04<sup>m</sup> 13.27<sup>s</sup>
     dec: -60° 39' 17.24"
     apparent_magnitude: 5.47
@@ -4968,7 +4968,7 @@ stars:
     distance: 262.46
     spectral_class: A3V
   - name:
-    designation: 3579 Lunaiad
+    designation: <a href="3579_lunaiad.html">3579 Lunaiad</a>
     ra: 9<sup>h</sup> 34<sup>m</sup> 7.96<sup>s</sup>
     dec: -73° 06' 14.82"
     apparent_magnitude: 5.47
@@ -5024,7 +5024,7 @@ stars:
     distance: 320.07
     spectral_class: K2V + A7V
   - name:
-    designation: 3549 Lunaiad
+    designation: <a href="3549_lunaiad.html">3549 Lunaiad</a>
     ra: 8<sup>h</sup> 47<sup>m</sup> 49.29<sup>s</sup>
     dec: -68° 54' 58.28"
     apparent_magnitude: 5.48
@@ -5072,7 +5072,7 @@ stars:
     distance: 359.70
     spectral_class: G2V + A2V
   - name:
-    designation: 110 Lunaiad
+    designation: <a href="110_lunaiad.html">110 Lunaiad</a>
     ra: 10<sup>h</sup> 37<sup>m</sup> 23.23<sup>s</sup>
     dec: -59° 22' 17.57"
     apparent_magnitude: 5.49
@@ -5104,7 +5104,7 @@ stars:
     distance: 380.13
     spectral_class: G4V + A2V
   - name:
-    designation: 1849 Lunaiad
+    designation: <a href="1849_lunaiad.html">1849 Lunaiad</a>
     ra: 9<sup>h</sup> 39<sup>m</sup> 48.06<sup>s</sup>
     dec: -65° 45' 2.43"
     apparent_magnitude: 5.49
@@ -5144,7 +5144,7 @@ stars:
     distance: 421.57
     spectral_class: A7IV
   - name:
-    designation: 3182 Lunaiad
+    designation: <a href="3182_lunaiad.html">3182 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 51.97<sup>s</sup>
     dec: -55° 22' 7.27"
     apparent_magnitude: 5.49
@@ -5152,7 +5152,7 @@ stars:
     distance: 292.60
     spectral_class: G3V
   - name:
-    designation: 3393 Lunaiad
+    designation: <a href="3393_lunaiad.html">3393 Lunaiad</a>
     ra: 10<sup>h</sup> 50<sup>m</sup> 9.27<sup>s</sup>
     dec: -56° 33' 25.76"
     apparent_magnitude: 5.49
@@ -5232,7 +5232,7 @@ stars:
     distance: 408.18
     spectral_class: A1V
   - name:
-    designation: 2732 Lunaiad
+    designation: <a href="2732_lunaiad.html">2732 Lunaiad</a>
     ra: 9<sup>h</sup> 34<sup>m</sup> 21.34<sup>s</sup>
     dec: -68° 07' 5.82"
     apparent_magnitude: 5.50
@@ -5280,7 +5280,7 @@ stars:
     distance: 80.48
     spectral_class: K6III + K4III + DA + K9V + F3V
   - name:
-    designation: 106 Lunaiad
+    designation: <a href="106_lunaiad.html">106 Lunaiad</a>
     ra: 8<sup>h</sup> 58<sup>m</sup> 42.01<sup>s</sup>
     dec: -72° 01' 42.85"
     apparent_magnitude: 5.51
@@ -5296,7 +5296,7 @@ stars:
     distance: 353.27
     spectral_class: F7III
   - name:
-    designation: 3358 Lunaiad
+    designation: <a href="3358_lunaiad.html">3358 Lunaiad</a>
     ra: 10<sup>h</sup> 17<sup>m</sup> 20.54<sup>s</sup>
     dec: -56° 05' 30.63"
     apparent_magnitude: 5.52
@@ -5400,7 +5400,7 @@ stars:
     distance: 472.60
     spectral_class: A6IV
   - name:
-    designation: 750 Lunaiad
+    designation: <a href="750_lunaiad.html">750 Lunaiad</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 19.55<sup>s</sup>
     dec: -68° 50' 48.65"
     apparent_magnitude: 5.53
@@ -5408,7 +5408,7 @@ stars:
     distance: 374.14
     spectral_class: A3V
   - name:
-    designation: 0055 Lunaiad
+    designation: <a href="0055_lunaiad.html">0055 Lunaiad</a>
     ra: 10<sup>h</sup> 03<sup>m</sup> 20.27<sup>s</sup>
     dec: -61° 44' 6.34"
     apparent_magnitude: 5.53
@@ -5432,7 +5432,7 @@ stars:
     distance: 288.70
     spectral_class: K9II
   - name:
-    designation: 3396 Lunaiad
+    designation: <a href="3396_lunaiad.html">3396 Lunaiad</a>
     ra: 11<sup>h</sup> 05<sup>m</sup> 26.24<sup>s</sup>
     dec: -56° 25' 13.45"
     apparent_magnitude: 5.53
@@ -5480,7 +5480,7 @@ stars:
     distance: 1,828.97
     spectral_class: B5V + A0III
   - name:
-    designation: 1390 Lunaiad
+    designation: <a href="1390_lunaiad.html">1390 Lunaiad</a>
     ra: 10<sup>h</sup> 42<sup>m</sup> 26.96<sup>s</sup>
     dec: -63° 32' 7.28"
     apparent_magnitude: 5.54
@@ -5504,7 +5504,7 @@ stars:
     distance: 304.34
     spectral_class: A9V
   - name:
-    designation: 1706 Lunaiad
+    designation: <a href="1706_lunaiad.html">1706 Lunaiad</a>
     ra: 9<sup>h</sup> 39<sup>m</sup> 40.87<sup>s</sup>
     dec: -63° 40' 28.21"
     apparent_magnitude: 5.54
@@ -5512,7 +5512,7 @@ stars:
     distance: 256.34
     spectral_class: F3V + F1V + F6V + A7V
   - name:
-    designation: 539 Lunaiad
+    designation: <a href="539_lunaiad.html">539 Lunaiad</a>
     ra: 10<sup>h</sup> 14<sup>m</sup> 39.30<sup>s</sup>
     dec: -61° 31' 25.36"
     apparent_magnitude: 5.54
@@ -5536,7 +5536,7 @@ stars:
     distance: 164.26
     spectral_class: K4V + K7V
   - name:
-    designation: 2793 Lunaiad
+    designation: <a href="2793_lunaiad.html">2793 Lunaiad</a>
     ra: 10<sup>h</sup> 41<sup>m</sup> 8.15<sup>s</sup>
     dec: -64° 19' 52.64"
     apparent_magnitude: 5.54
@@ -5544,7 +5544,7 @@ stars:
     distance: 323.35
     spectral_class: A7V
   - name:
-    designation: 2116 Lunaiad
+    designation: <a href="2116_lunaiad.html">2116 Lunaiad</a>
     ra: 10<sup>h</sup> 37<sup>m</sup> 43.52<sup>s</sup>
     dec: -59° 50' 11.21"
     apparent_magnitude: 5.55
@@ -5584,7 +5584,7 @@ stars:
     distance: 347.64
     spectral_class: F7III
   - name:
-    designation: 3444 Lunaiad
+    designation: <a href="3444_lunaiad.html">3444 Lunaiad</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 19.79<sup>s</sup>
     dec: -66° 06' 13.39"
     apparent_magnitude: 5.55
@@ -5592,7 +5592,7 @@ stars:
     distance: 140.67
     spectral_class: G1V
   - name:
-    designation: 2718 Lunaiad
+    designation: <a href="2718_lunaiad.html">2718 Lunaiad</a>
     ra: 9<sup>h</sup> 24<sup>m</sup> 36.33<sup>s</sup>
     dec: -54° 53' 11.39"
     apparent_magnitude: 5.55
@@ -5600,7 +5600,7 @@ stars:
     distance: 339.77
     spectral_class: F9V + G4V + M2III + DA + A5V
   - name:
-    designation: 3431 Lunaiad
+    designation: <a href="3431_lunaiad.html">3431 Lunaiad</a>
     ra: 10<sup>h</sup> 30<sup>m</sup> 16.41<sup>s</sup>
     dec: -58° 35' 19.38"
     apparent_magnitude: 5.55
@@ -5632,7 +5632,7 @@ stars:
     distance: 349.88
     spectral_class: F6III
   - name:
-    designation: 3649 Lunaiad
+    designation: <a href="3649_lunaiad.html">3649 Lunaiad</a>
     ra: 11<sup>h</sup> 10<sup>m</sup> 55.34<sup>s</sup>
     dec: -65° 08' 41.40"
     apparent_magnitude: 5.55
@@ -5664,7 +5664,7 @@ stars:
     distance: 333.35
     spectral_class: F9V + K5III + A7V
   - name:
-    designation: 1206 Lunaiad
+    designation: <a href="1206_lunaiad.html">1206 Lunaiad</a>
     ra: 8<sup>h</sup> 57<sup>m</sup> 8.59<sup>s</sup>
     dec: -74° 07' 1.20"
     apparent_magnitude: 5.56
@@ -5688,7 +5688,7 @@ stars:
     distance: 365.22
     spectral_class: G3II
   - name:
-    designation: 2342 Lunaiad
+    designation: <a href="2342_lunaiad.html">2342 Lunaiad</a>
     ra: 10<sup>h</sup> 55<sup>m</sup> 32.59<sup>s</sup>
     dec: -55° 33' 34.67"
     apparent_magnitude: 5.56
@@ -5728,7 +5728,7 @@ stars:
     distance: 378.49
     spectral_class: K6III + A4V
   - name:
-    designation: 3545 Lunaiad
+    designation: <a href="3545_lunaiad.html">3545 Lunaiad</a>
     ra: 8<sup>h</sup> 36<sup>m</sup> 21.42<sup>s</sup>
     dec: -65° 12' 50.99"
     apparent_magnitude: 5.57
@@ -5736,7 +5736,7 @@ stars:
     distance: 185.22
     spectral_class: F7V
   - name:
-    designation: 1687 Lunaiad
+    designation: <a href="1687_lunaiad.html">1687 Lunaiad</a>
     ra: 10<sup>h</sup> 00<sup>m</sup> 6.77<sup>s</sup>
     dec: -59° 48' 13.90"
     apparent_magnitude: 5.57
@@ -5744,7 +5744,7 @@ stars:
     distance: 296.89
     spectral_class: F6III
   - name:
-    designation: 54 Lunaiad
+    designation: <a href="54_lunaiad.html">54 Lunaiad</a>
     ra: 9<sup>h</sup> 15<sup>m</sup> 47.46<sup>s</sup>
     dec: -60° 33' 42.86"
     apparent_magnitude: 5.57
@@ -5872,7 +5872,7 @@ stars:
     distance: 460.95
     spectral_class: F4III
   - name:
-    designation: 3437 Lunaiad
+    designation: <a href="3437_lunaiad.html">3437 Lunaiad</a>
     ra: 11<sup>h</sup> 09<sup>m</sup> 48.70<sup>s</sup>
     dec: -63° 32' 50.18"
     apparent_magnitude: 5.59
@@ -5880,7 +5880,7 @@ stars:
     distance: 147.34
     spectral_class: K6III
   - name:
-    designation: 44 Lunaiad
+    designation: <a href="44_lunaiad.html">44 Lunaiad</a>
     ra: 9<sup>h</sup> 48<sup>m</sup> 21.41<sup>s</sup>
     dec: -66° 16' 32.10"
     apparent_magnitude: 5.60
@@ -5896,7 +5896,7 @@ stars:
     distance: 265.93
     spectral_class: G1V + F5V + A6V
   - name:
-    designation: 2800 Lunaiad
+    designation: <a href="2800_lunaiad.html">2800 Lunaiad</a>
     ra: 9<sup>h</sup> 05<sup>m</sup> 39.68<sup>s</sup>
     dec: -59° 38' 54.43"
     apparent_magnitude: 5.60
@@ -5928,7 +5928,7 @@ stars:
     distance: 335.34
     spectral_class: A8III
   - name:
-    designation: 3399 Lunaiad
+    designation: <a href="3399_lunaiad.html">3399 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 40.06<sup>s</sup>
     dec: -55° 04' 17.78"
     apparent_magnitude: 5.60
@@ -6008,7 +6008,7 @@ stars:
     distance: 367.95
     spectral_class: A6V
   - name:
-    designation: 3653 Lunaiad
+    designation: <a href="3653_lunaiad.html">3653 Lunaiad</a>
     ra: 10<sup>h</sup> 13<sup>m</sup> 53.37<sup>s</sup>
     dec: -70° 14' 56.22"
     apparent_magnitude: 5.61
@@ -6016,7 +6016,7 @@ stars:
     distance: 116.24
     spectral_class: G0V
   - name:
-    designation: 2910 Lunaiad
+    designation: <a href="2910_lunaiad.html">2910 Lunaiad</a>
     ra: 9<sup>h</sup> 31<sup>m</sup> 16.59<sup>s</sup>
     dec: -64° 42' 40.58"
     apparent_magnitude: 5.61
@@ -6048,7 +6048,7 @@ stars:
     distance: 107.50
     spectral_class: F8V
   - name:
-    designation: 3597 Lunaiad
+    designation: <a href="3597_lunaiad.html">3597 Lunaiad</a>
     ra: 10<sup>h</sup> 34<sup>m</sup> 36.01<sup>s</sup>
     dec: -70° 07' 5.65"
     apparent_magnitude: 5.62
@@ -6080,7 +6080,7 @@ stars:
     distance: 211.36
     spectral_class: F4III
   - name:
-    designation: 1855 Lunaiad
+    designation: <a href="1855_lunaiad.html">1855 Lunaiad</a>
     ra: 9<sup>h</sup> 31<sup>m</sup> 50.67<sup>s</sup>
     dec: -66° 55' 24.07"
     apparent_magnitude: 5.62
@@ -6096,7 +6096,7 @@ stars:
     distance: 383.82
     spectral_class: A3V
   - name:
-    designation: 2059 Lunaiad
+    designation: <a href="2059_lunaiad.html">2059 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 9.56<sup>s</sup>
     dec: -58° 01' 4.25"
     apparent_magnitude: 5.62
@@ -6120,7 +6120,7 @@ stars:
     distance: 246.99
     spectral_class: K4III + A9IV
   - name:
-    designation: 1837 Lunaiad
+    designation: <a href="1837_lunaiad.html">1837 Lunaiad</a>
     ra: 9<sup>h</sup> 55<sup>m</sup> 52.78<sup>s</sup>
     dec: -62° 54' 9.33"
     apparent_magnitude: 5.63
@@ -6184,7 +6184,7 @@ stars:
     distance: 353.52
     spectral_class: A4V
   - name:
-    designation: 1001 Lunaiad
+    designation: <a href="1001_lunaiad.html">1001 Lunaiad</a>
     ra: 10<sup>h</sup> 22<sup>m</sup> 41.59<sup>s</sup>
     dec: -73° 45' 18.08"
     apparent_magnitude: 5.63
@@ -6232,7 +6232,7 @@ stars:
     distance: 400.09
     spectral_class: A2V
   - name:
-    designation: 3319 Lunaiad
+    designation: <a href="3319_lunaiad.html">3319 Lunaiad</a>
     ra: 10<sup>h</sup> 20<sup>m</sup> 12.60<sup>s</sup>
     dec: -55° 02' 48.62"
     apparent_magnitude: 5.64
@@ -6240,7 +6240,7 @@ stars:
     distance: 297.94
     spectral_class: G7V
   - name:
-    designation: 3623 Lunaiad
+    designation: <a href="3623_lunaiad.html">3623 Lunaiad</a>
     ra: 10<sup>h</sup> 48<sup>m</sup> 16.22<sup>s</sup>
     dec: -57° 36' 20.90"
     apparent_magnitude: 5.64
@@ -6248,7 +6248,7 @@ stars:
     distance: 109.01
     spectral_class: F6V
   - name:
-    designation: 3474 Lunaiad
+    designation: <a href="3474_lunaiad.html">3474 Lunaiad</a>
     ra: 9<sup>h</sup> 45<sup>m</sup> 18.13<sup>s</sup>
     dec: -70° 57' 33.84"
     apparent_magnitude: 5.64
@@ -6280,7 +6280,7 @@ stars:
     distance: 9,223.56
     spectral_class: O4III + B8Ib
   - name:
-    designation: 50 Lunaiad
+    designation: <a href="50_lunaiad.html">50 Lunaiad</a>
     ra: 10<sup>h</sup> 05<sup>m</sup> 0.36<sup>s</sup>
     dec: -71° 56' 14.27"
     apparent_magnitude: 5.65
@@ -6312,7 +6312,7 @@ stars:
     distance: 413.16
     spectral_class: M9III + K4V + F5III + A9V
   - name:
-    designation: 3408 Lunaiad
+    designation: <a href="3408_lunaiad.html">3408 Lunaiad</a>
     ra: 9<sup>h</sup> 51<sup>m</sup> 40.79<sup>s</sup>
     dec: -68° 20' 25.38"
     apparent_magnitude: 5.65
@@ -6320,7 +6320,7 @@ stars:
     distance: 94.13
     spectral_class: F2V
   - name:
-    designation: 3380 Lunaiad
+    designation: <a href="3380_lunaiad.html">3380 Lunaiad</a>
     ra: 10<sup>h</sup> 46<sup>m</sup> 25.96<sup>s</sup>
     dec: -55° 10' 17.38"
     apparent_magnitude: 5.65
@@ -6336,7 +6336,7 @@ stars:
     distance: 310.65
     spectral_class: G7III + F0III
   - name:
-    designation: 734 Lunaiad
+    designation: <a href="734_lunaiad.html">734 Lunaiad</a>
     ra: 11<sup>h</sup> 06<sup>m</sup> 28.68<sup>s</sup>
     dec: -66° 03' 2.31"
     apparent_magnitude: 5.66
@@ -6360,7 +6360,7 @@ stars:
     distance: 257.31
     spectral_class: A9V + G7V + A4V
   - name:
-    designation: 2042 Lunaiad
+    designation: <a href="2042_lunaiad.html">2042 Lunaiad</a>
     ra: 9<sup>h</sup> 21<sup>m</sup> 28.65<sup>s</sup>
     dec: -64° 40' 52.18"
     apparent_magnitude: 5.66
@@ -6456,7 +6456,7 @@ stars:
     distance: 276.22
     spectral_class: A8V
   - name:
-    designation: 1707 Lunaiad
+    designation: <a href="1707_lunaiad.html">1707 Lunaiad</a>
     ra: 11<sup>h</sup> 15<sup>m</sup> 1.11<sup>s</sup>
     dec: -57° 27' 18.17"
     apparent_magnitude: 5.68
@@ -6536,7 +6536,7 @@ stars:
     distance: 329.47
     spectral_class: G2V + F5III
   - name:
-    designation: 555 Lunaiad
+    designation: <a href="555_lunaiad.html">555 Lunaiad</a>
     ra: 10<sup>h</sup> 13<sup>m</sup> 23.32<sup>s</sup>
     dec: -62° 13' 49.94"
     apparent_magnitude: 5.68
@@ -6552,7 +6552,7 @@ stars:
     distance: 276.24
     spectral_class: A9V + G7V + A4V
   - name:
-    designation: 1203 Lunaiad
+    designation: <a href="1203_lunaiad.html">1203 Lunaiad</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 7.39<sup>s</sup>
     dec: -57° 59' 17.67"
     apparent_magnitude: 5.68
@@ -6568,7 +6568,7 @@ stars:
     distance: 168.45
     spectral_class: K5III
   - name:
-    designation: 3546 Lunaiad
+    designation: <a href="3546_lunaiad.html">3546 Lunaiad</a>
     ra: 8<sup>h</sup> 44<sup>m</sup> 37.89<sup>s</sup>
     dec: -67° 41' 51.89"
     apparent_magnitude: 5.69
@@ -6576,7 +6576,7 @@ stars:
     distance: 187.09
     spectral_class: K8III
   - name:
-    designation: 1227 Lunaiad
+    designation: <a href="1227_lunaiad.html">1227 Lunaiad</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 43.69<sup>s</sup>
     dec: -62° 53' 56.42"
     apparent_magnitude: 5.69
@@ -6608,7 +6608,7 @@ stars:
     distance: 486.37
     spectral_class: A9III
   - name:
-    designation: 159 Lunaiad
+    designation: <a href="159_lunaiad.html">159 Lunaiad</a>
     ra: 10<sup>h</sup> 23<sup>m</sup> 46.53<sup>s</sup>
     dec: -58° 46' 49.81"
     apparent_magnitude: 5.69
@@ -6616,7 +6616,7 @@ stars:
     distance: 337.22
     spectral_class: F6III
   - name:
-    designation: 51 Lunaiad
+    designation: <a href="51_lunaiad.html">51 Lunaiad</a>
     ra: 9<sup>h</sup> 48<sup>m</sup> 1.48<sup>s</sup>
     dec: -55° 18' 48.04"
     apparent_magnitude: 5.69
@@ -6632,7 +6632,7 @@ stars:
     distance: 1,019.74
     spectral_class: B8V + A4III
   - name:
-    designation: 3501 Lunaiad
+    designation: <a href="3501_lunaiad.html">3501 Lunaiad</a>
     ra: 9<sup>h</sup> 09<sup>m</sup> 37.26<sup>s</sup>
     dec: -64° 51' 10.04"
     apparent_magnitude: 5.70
@@ -6696,7 +6696,7 @@ stars:
     distance: 290.89
     spectral_class: A6IV + G3V
   - name:
-    designation: 3384 Lunaiad
+    designation: <a href="3384_lunaiad.html">3384 Lunaiad</a>
     ra: 10<sup>h</sup> 53<sup>m</sup> 8.94<sup>s</sup>
     dec: -55° 08' 22.20"
     apparent_magnitude: 5.70
@@ -6704,7 +6704,7 @@ stars:
     distance: 285.68
     spectral_class: K9II
   - name:
-    designation: 3409 Lunaiad
+    designation: <a href="3409_lunaiad.html">3409 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 50.36<sup>s</sup>
     dec: -61° 43' 26.79"
     apparent_magnitude: 5.70
@@ -6712,7 +6712,7 @@ stars:
     distance: 93.09
     spectral_class: F2V
   - name:
-    designation: 2697 Lunaiad
+    designation: <a href="2697_lunaiad.html">2697 Lunaiad</a>
     ra: 10<sup>h</sup> 27<sup>m</sup> 24.96<sup>s</sup>
     dec: -56° 47' 36.79"
     apparent_magnitude: 5.71
@@ -6720,7 +6720,7 @@ stars:
     distance: 370.23
     spectral_class: K2V + G2V + F9III
   - name:
-    designation: 2324 Lunaiad
+    designation: <a href="2324_lunaiad.html">2324 Lunaiad</a>
     ra: 9<sup>h</sup> 54<sup>m</sup> 54.61<sup>s</sup>
     dec: -71° 01' 18.88"
     apparent_magnitude: 5.71
@@ -6736,7 +6736,7 @@ stars:
     distance: 374.54
     spectral_class: M9III + K4V + F5III + A9V
   - name:
-    designation: 765 Lunaiad
+    designation: <a href="765_lunaiad.html">765 Lunaiad</a>
     ra: 11<sup>h</sup> 05<sup>m</sup> 23.61<sup>s</sup>
     dec: -70° 09' 14.76"
     apparent_magnitude: 5.71
@@ -6776,7 +6776,7 @@ stars:
     distance: 157.44
     spectral_class: F9V + G2V
   - name:
-    designation: 1862 Lunaiad
+    designation: <a href="1862_lunaiad.html">1862 Lunaiad</a>
     ra: 11<sup>h</sup> 15<sup>m</sup> 5.27<sup>s</sup>
     dec: -61° 15' 25.64"
     apparent_magnitude: 5.72
@@ -6800,7 +6800,7 @@ stars:
     distance: 304.09
     spectral_class: G4V + F3V
   - name:
-    designation: 3647 Lunaiad
+    designation: <a href="3647_lunaiad.html">3647 Lunaiad</a>
     ra: 11<sup>h</sup> 06<sup>m</sup> 12.60<sup>s</sup>
     dec: -67° 30' 2.50"
     apparent_magnitude: 5.72
@@ -6816,7 +6816,7 @@ stars:
     distance: 349.63
     spectral_class: G3II
   - name:
-    designation: 55 Lunaiad
+    designation: <a href="55_lunaiad.html">55 Lunaiad</a>
     ra: 8<sup>h</sup> 40<sup>m</sup> 31.44<sup>s</sup>
     dec: -60° 46' 13.92"
     apparent_magnitude: 5.73
@@ -6872,7 +6872,7 @@ stars:
     distance: 344.58
     spectral_class: G1V + A8IV
   - name:
-    designation: 2694 Lunaiad
+    designation: <a href="2694_lunaiad.html">2694 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 54.68<sup>s</sup>
     dec: -54° 51' 11.31"
     apparent_magnitude: 5.73
@@ -6976,7 +6976,7 @@ stars:
     distance: 391.96
     spectral_class: A8III
   - name:
-    designation: 992 Lunaiad
+    designation: <a href="992_lunaiad.html">992 Lunaiad</a>
     ra: 10<sup>h</sup> 36<sup>m</sup> 50.52<sup>s</sup>
     dec: -71° 10' 21.45"
     apparent_magnitude: 5.74
@@ -7040,7 +7040,7 @@ stars:
     distance: 434.86
     spectral_class: M9III + K4V + F5III + A9V
   - name:
-    designation: 0090 Lunaiad
+    designation: <a href="0090_lunaiad.html">0090 Lunaiad</a>
     ra: 11<sup>h</sup> 07<sup>m</sup> 20.52<sup>s</sup>
     dec: -60° 00' 39.40"
     apparent_magnitude: 5.75
@@ -7072,7 +7072,7 @@ stars:
     distance: 355.47
     spectral_class: G6V + A5V
   - name:
-    designation: 1755 Lunaiad
+    designation: <a href="1755_lunaiad.html">1755 Lunaiad</a>
     ra: 10<sup>h</sup> 51<sup>m</sup> 16.45<sup>s</sup>
     dec: -73° 50' 36.81"
     apparent_magnitude: 5.75
@@ -7112,7 +7112,7 @@ stars:
     distance: 296.53
     spectral_class: A9III
   - name:
-    designation: 1013 Lunaiad
+    designation: <a href="1013_lunaiad.html">1013 Lunaiad</a>
     ra: 9<sup>h</sup> 44<sup>m</sup> 19.67<sup>s</sup>
     dec: -56° 30' 51.57"
     apparent_magnitude: 5.76
@@ -7136,7 +7136,7 @@ stars:
     distance: 428.77
     spectral_class: A7IV
   - name:
-    designation: 3461 Lunaiad
+    designation: <a href="3461_lunaiad.html">3461 Lunaiad</a>
     ra: 11<sup>h</sup> 12<sup>m</sup> 41.00<sup>s</sup>
     dec: -74° 33' 56.36"
     apparent_magnitude: 5.76
@@ -7184,7 +7184,7 @@ stars:
     distance: 187.17
     spectral_class: DO + G9V
   - name:
-    designation: 3575 Lunaiad
+    designation: <a href="3575_lunaiad.html">3575 Lunaiad</a>
     ra: 9<sup>h</sup> 25<sup>m</sup> 58.54<sup>s</sup>
     dec: -71° 18' 38.79"
     apparent_magnitude: 5.77
@@ -7208,7 +7208,7 @@ stars:
     distance: 490.51
     spectral_class: F1III + A4V
   - name:
-    designation: 62 Lunaiad
+    designation: <a href="62_lunaiad.html">62 Lunaiad</a>
     ra: 9<sup>h</sup> 54<sup>m</sup> 40.48<sup>s</sup>
     dec: -66° 43' 54.34"
     apparent_magnitude: 5.78
@@ -7256,7 +7256,7 @@ stars:
     distance: 402.68
     spectral_class: A1V
   - name:
-    designation: 3372 Lunaiad
+    designation: <a href="3372_lunaiad.html">3372 Lunaiad</a>
     ra: 11<sup>h</sup> 02<sup>m</sup> 46.35<sup>s</sup>
     dec: -56° 04' 46.44"
     apparent_magnitude: 5.78
@@ -7264,7 +7264,7 @@ stars:
     distance: 277.86
     spectral_class: G6V + K9V + DA + Magnetar + K7III
   - name:
-    designation: 1701 Lunaiad
+    designation: <a href="1701_lunaiad.html">1701 Lunaiad</a>
     ra: 8<sup>h</sup> 58<sup>m</sup> 33.96<sup>s</sup>
     dec: -61° 07' 19.17"
     apparent_magnitude: 5.78
@@ -7280,7 +7280,7 @@ stars:
     distance: 383.66
     spectral_class: A9III
   - name:
-    designation: 1305 Lunaiad
+    designation: <a href="1305_lunaiad.html">1305 Lunaiad</a>
     ra: 11<sup>h</sup> 11<sup>m</sup> 10.63<sup>s</sup>
     dec: -55° 53' 34.47"
     apparent_magnitude: 5.78
@@ -7328,7 +7328,7 @@ stars:
     distance: 332.58
     spectral_class: K5V + A8V
   - name:
-    designation: 67 Lunaiad
+    designation: <a href="67_lunaiad.html">67 Lunaiad</a>
     ra: 9<sup>h</sup> 57<sup>m</sup> 0.58<sup>s</sup>
     dec: -60° 01' 53.13"
     apparent_magnitude: 5.79
@@ -7336,7 +7336,7 @@ stars:
     distance: 400.57
     spectral_class: A9III
   - name:
-    designation: 3595 Lunaiad
+    designation: <a href="3595_lunaiad.html">3595 Lunaiad</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 30.00<sup>s</sup>
     dec: -70° 40' 23.80"
     apparent_magnitude: 5.79
@@ -7360,7 +7360,7 @@ stars:
     distance: 482.22
     spectral_class: A9III
   - name:
-    designation: 3407 Lunaiad
+    designation: <a href="3407_lunaiad.html">3407 Lunaiad</a>
     ra: 10<sup>h</sup> 37<sup>m</sup> 44.37<sup>s</sup>
     dec: -69° 13' 4.40"
     apparent_magnitude: 5.80
@@ -7400,7 +7400,7 @@ stars:
     distance: 323.32
     spectral_class: K1V + A9V
   - name:
-    designation: 2027 Lunaiad
+    designation: <a href="2027_lunaiad.html">2027 Lunaiad</a>
     ra: 9<sup>h</sup> 37<sup>m</sup> 49.91<sup>s</sup>
     dec: -62° 10' 58.99"
     apparent_magnitude: 5.80
@@ -7408,7 +7408,7 @@ stars:
     distance: 334.53
     spectral_class: F6III
   - name:
-    designation: 3498 Lunaiad
+    designation: <a href="3498_lunaiad.html">3498 Lunaiad</a>
     ra: 8<sup>h</sup> 56<sup>m</sup> 6.11<sup>s</sup>
     dec: -58° 45' 36.32"
     apparent_magnitude: 5.80
@@ -7416,7 +7416,7 @@ stars:
     distance: 192.41
     spectral_class: K1V + M8V + K4V + DA + G5V
   - name:
-    designation: 3628 Lunaiad
+    designation: <a href="3628_lunaiad.html">3628 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 5.21<sup>s</sup>
     dec: -64° 28' 38.30"
     apparent_magnitude: 5.80
@@ -7424,7 +7424,7 @@ stars:
     distance: 116.57
     spectral_class: G0V
   - name:
-    designation: 2051 Lunaiad
+    designation: <a href="2051_lunaiad.html">2051 Lunaiad</a>
     ra: 9<sup>h</sup> 11<sup>m</sup> 55.79<sup>s</sup>
     dec: -65° 34' 31.14"
     apparent_magnitude: 5.80
@@ -7456,7 +7456,7 @@ stars:
     distance: 389.34
     spectral_class: A9III
   - name:
-    designation: 3548 Lunaiad
+    designation: <a href="3548_lunaiad.html">3548 Lunaiad</a>
     ra: 8<sup>h</sup> 36<sup>m</sup> 18.41<sup>s</sup>
     dec: -65° 08' 12.49"
     apparent_magnitude: 5.81
@@ -7488,7 +7488,7 @@ stars:
     distance: 295.68
     spectral_class: F7III
   - name:
-    designation: 3537 Lunaiad
+    designation: <a href="3537_lunaiad.html">3537 Lunaiad</a>
     ra: 8<sup>h</sup> 40<sup>m</sup> 7.40<sup>s</sup>
     dec: -65° 01' 48.22"
     apparent_magnitude: 5.82
@@ -7512,7 +7512,7 @@ stars:
     distance: 268.93
     spectral_class: A4V
   - name:
-    designation: 3368 Lunaiad
+    designation: <a href="3368_lunaiad.html">3368 Lunaiad</a>
     ra: 10<sup>h</sup> 55<sup>m</sup> 13.28<sup>s</sup>
     dec: -56° 12' 52.93"
     apparent_magnitude: 5.82
@@ -7528,7 +7528,7 @@ stars:
     distance: 410.71
     spectral_class: A1V
   - name:
-    designation: 3540 Lunaiad
+    designation: <a href="3540_lunaiad.html">3540 Lunaiad</a>
     ra: 9<sup>h</sup> 15<sup>m</sup> 30.15<sup>s</sup>
     dec: -69° 41' 2.08"
     apparent_magnitude: 5.82
@@ -7552,7 +7552,7 @@ stars:
     distance: 286.84
     spectral_class: A4V
   - name:
-    designation: 2804 Lunaiad
+    designation: <a href="2804_lunaiad.html">2804 Lunaiad</a>
     ra: 10<sup>h</sup> 35<sup>m</sup> 54.80<sup>s</sup>
     dec: -68° 01' 54.69"
     apparent_magnitude: 5.83
@@ -7560,7 +7560,7 @@ stars:
     distance: 340.01
     spectral_class: G1V + M4III + K0V + A8V
   - name:
-    designation: 2312 Lunaiad
+    designation: <a href="2312_lunaiad.html">2312 Lunaiad</a>
     ra: 10<sup>h</sup> 10<sup>m</sup> 8.17<sup>s</sup>
     dec: -68° 36' 51.33"
     apparent_magnitude: 5.83
@@ -7568,7 +7568,7 @@ stars:
     distance: 398.30
     spectral_class: F6III
   - name:
-    designation: 1600 Lunaiad
+    designation: <a href="1600_lunaiad.html">1600 Lunaiad</a>
     ra: 9<sup>h</sup> 50<sup>m</sup> 47.45<sup>s</sup>
     dec: -68° 09' 28.64"
     apparent_magnitude: 5.83
@@ -7592,7 +7592,7 @@ stars:
     distance: 168.10
     spectral_class: F6V + F2V
   - name:
-    designation: 3558 Lunaiad
+    designation: <a href="3558_lunaiad.html">3558 Lunaiad</a>
     ra: 10<sup>h</sup> 37<sup>m</sup> 2.44<sup>s</sup>
     dec: -74° 44' 3.50"
     apparent_magnitude: 5.83
@@ -7632,7 +7632,7 @@ stars:
     distance: 852.79
     spectral_class: A1III
   - name:
-    designation: 1456 Lunaiad
+    designation: <a href="1456_lunaiad.html">1456 Lunaiad</a>
     ra: 9<sup>h</sup> 08<sup>m</sup> 3.39<sup>s</sup>
     dec: -67° 54' 54.18"
     apparent_magnitude: 5.83
@@ -7656,7 +7656,7 @@ stars:
     distance: 409.48
     spectral_class: A7III
   - name:
-    designation: 3611 Lunaiad
+    designation: <a href="3611_lunaiad.html">3611 Lunaiad</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 15.85<sup>s</sup>
     dec: -62° 05' 14.77"
     apparent_magnitude: 5.84
@@ -7672,7 +7672,7 @@ stars:
     distance: 397.14
     spectral_class: A3V
   - name:
-    designation: 2692 Lunaiad
+    designation: <a href="2692_lunaiad.html">2692 Lunaiad</a>
     ra: 10<sup>h</sup> 47<sup>m</sup> 38.84<sup>s</sup>
     dec: -54° 50' 24.88"
     apparent_magnitude: 5.84
@@ -7688,7 +7688,7 @@ stars:
     distance: 402.97
     spectral_class: G6V + A6IV
   - name:
-    designation: 3555 Lunaiad
+    designation: <a href="3555_lunaiad.html">3555 Lunaiad</a>
     ra: 9<sup>h</sup> 26<sup>m</sup> 8.21<sup>s</sup>
     dec: -73° 26' 10.85"
     apparent_magnitude: 5.84
@@ -7752,7 +7752,7 @@ stars:
     distance: 928.74
     spectral_class: B8V + M0III
   - name:
-    designation: 1271 Lunaiad
+    designation: <a href="1271_lunaiad.html">1271 Lunaiad</a>
     ra: 9<sup>h</sup> 05<sup>m</sup> 23.51<sup>s</sup>
     dec: -74° 13' 13.08"
     apparent_magnitude: 5.85
@@ -7792,7 +7792,7 @@ stars:
     distance: 300.76
     spectral_class: A8V
   - name:
-    designation: 1850 Lunaiad
+    designation: <a href="1850_lunaiad.html">1850 Lunaiad</a>
     ra: 8<sup>h</sup> 51<sup>m</sup> 19.18<sup>s</sup>
     dec: -63° 52' 29.52"
     apparent_magnitude: 5.85
@@ -7864,7 +7864,7 @@ stars:
     distance: 274.39
     spectral_class: A8IV
   - name:
-    designation: 3421 Lunaiad
+    designation: <a href="3421_lunaiad.html">3421 Lunaiad</a>
     ra: 11<sup>h</sup> 05<sup>m</sup> 38.04<sup>s</sup>
     dec: -67° 38' 7.28"
     apparent_magnitude: 5.86
@@ -7920,7 +7920,7 @@ stars:
     distance: 188.48
     spectral_class: K8III
   - name:
-    designation: 2670 Lunaiad
+    designation: <a href="2670_lunaiad.html">2670 Lunaiad</a>
     ra: 9<sup>h</sup> 19<sup>m</sup> 58.17<sup>s</sup>
     dec: -70° 06' 2.01"
     apparent_magnitude: 5.87
@@ -7928,7 +7928,7 @@ stars:
     distance: 420.91
     spectral_class: A3V
   - name:
-    designation: 2062 Lunaiad
+    designation: <a href="2062_lunaiad.html">2062 Lunaiad</a>
     ra: 10<sup>h</sup> 48<sup>m</sup> 59.73<sup>s</sup>
     dec: -61° 25' 19.10"
     apparent_magnitude: 5.87
@@ -7960,7 +7960,7 @@ stars:
     distance: 207.74
     spectral_class: K9II
   - name:
-    designation: 2719 Lunaiad
+    designation: <a href="2719_lunaiad.html">2719 Lunaiad</a>
     ra: 11<sup>h</sup> 11<sup>m</sup> 28.18<sup>s</sup>
     dec: -66° 52' 43.07"
     apparent_magnitude: 5.88
@@ -7984,7 +7984,7 @@ stars:
     distance: 1,155.38
     spectral_class: A2III + A4III + A4V + A8III + K7III
   - name:
-    designation: 752 Lunaiad
+    designation: <a href="752_lunaiad.html">752 Lunaiad</a>
     ra: 10<sup>h</sup> 06<sup>m</sup> 39.40<sup>s</sup>
     dec: -68° 35' 37.03"
     apparent_magnitude: 5.88
@@ -8000,7 +8000,7 @@ stars:
     distance: 380.55
     spectral_class: F3V + A5V
   - name:
-    designation: 1683 Lunaiad
+    designation: <a href="1683_lunaiad.html">1683 Lunaiad</a>
     ra: 9<sup>h</sup> 33<sup>m</sup> 3.84<sup>s</sup>
     dec: -56° 27' 13.69"
     apparent_magnitude: 5.88
@@ -8032,7 +8032,7 @@ stars:
     distance: 571.70
     spectral_class: A5III
   - name:
-    designation: 1859 Lunaiad
+    designation: <a href="1859_lunaiad.html">1859 Lunaiad</a>
     ra: 10<sup>h</sup> 49<sup>m</sup> 9.00<sup>s</sup>
     dec: -56° 28' 17.34"
     apparent_magnitude: 5.89
@@ -8040,7 +8040,7 @@ stars:
     distance: 297.62
     spectral_class: A5V
   - name:
-    designation: 2330 Lunaiad
+    designation: <a href="2330_lunaiad.html">2330 Lunaiad</a>
     ra: 9<sup>h</sup> 48<sup>m</sup> 47.70<sup>s</sup>
     dec: -72° 24' 51.64"
     apparent_magnitude: 5.89
@@ -8056,7 +8056,7 @@ stars:
     distance: 183.88
     spectral_class: F5V
   - name:
-    designation: 3374 Lunaiad
+    designation: <a href="3374_lunaiad.html">3374 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 32.68<sup>s</sup>
     dec: -55° 00' 12.68"
     apparent_magnitude: 5.89
@@ -8080,7 +8080,7 @@ stars:
     distance: 324.22
     spectral_class: F3V + A2V
   - name:
-    designation: 541 Lunaiad
+    designation: <a href="541_lunaiad.html">541 Lunaiad</a>
     ra: 9<sup>h</sup> 31<sup>m</sup> 3.58<sup>s</sup>
     dec: -60° 44' 0.38"
     apparent_magnitude: 5.90
@@ -8128,7 +8128,7 @@ stars:
     distance: 453.18
     spectral_class: G3II
   - name:
-    designation: 2068 Lunaiad
+    designation: <a href="2068_lunaiad.html">2068 Lunaiad</a>
     ra: 11<sup>h</sup> 02<sup>m</sup> 12.26<sup>s</sup>
     dec: -66° 27' 50.67"
     apparent_magnitude: 5.90
@@ -8152,7 +8152,7 @@ stars:
     distance: 320.53
     spectral_class: A5V
   - name:
-    designation: 3364 Lunaiad
+    designation: <a href="3364_lunaiad.html">3364 Lunaiad</a>
     ra: 11<sup>h</sup> 07<sup>m</sup> 10.50<sup>s</sup>
     dec: -57° 10' 28.03"
     apparent_magnitude: 5.91
@@ -8216,7 +8216,7 @@ stars:
     distance: 364.68
     spectral_class: A9III
   - name:
-    designation: 75 Lunaiad
+    designation: <a href="75_lunaiad.html">75 Lunaiad</a>
     ra: 10<sup>h</sup> 00<sup>m</sup> 34.75<sup>s</sup>
     dec: -67° 28' 53.71"
     apparent_magnitude: 5.92
@@ -8272,7 +8272,7 @@ stars:
     distance: 495.03
     spectral_class: M7Iab
   - name:
-    designation: 3624 Lunaiad
+    designation: <a href="3624_lunaiad.html">3624 Lunaiad</a>
     ra: 10<sup>h</sup> 02<sup>m</sup> 29.77<sup>s</sup>
     dec: -58° 23' 59.76"
     apparent_magnitude: 5.92
@@ -8360,7 +8360,7 @@ stars:
     distance: 311.40
     spectral_class: DA + DA + F5III
   - name:
-    designation: 1832 Lunaiad
+    designation: <a href="1832_lunaiad.html">1832 Lunaiad</a>
     ra: 9<sup>h</sup> 29<sup>m</sup> 4.08<sup>s</sup>
     dec: -59° 16' 57.33"
     apparent_magnitude: 5.93
@@ -8368,7 +8368,7 @@ stars:
     distance: 350.45
     spectral_class: A1V
   - name:
-    designation: 1527 Lunaiad
+    designation: <a href="1527_lunaiad.html">1527 Lunaiad</a>
     ra: 9<sup>h</sup> 10<sup>m</sup> 0.33<sup>s</sup>
     dec: -69° 20' 25.98"
     apparent_magnitude: 5.93
@@ -8384,7 +8384,7 @@ stars:
     distance: 439.35
     spectral_class: F8V + A8IV
   - name:
-    designation: 3585 Lunaiad
+    designation: <a href="3585_lunaiad.html">3585 Lunaiad</a>
     ra: 9<sup>h</sup> 39<sup>m</sup> 53.53<sup>s</sup>
     dec: -68° 22' 32.63"
     apparent_magnitude: 5.93
@@ -8400,7 +8400,7 @@ stars:
     distance: 426.21
     spectral_class: F9V + A1V
   - name:
-    designation: 721 Lunaiad
+    designation: <a href="721_lunaiad.html">721 Lunaiad</a>
     ra: 10<sup>h</sup> 28<sup>m</sup> 30.54<sup>s</sup>
     dec: -63° 30' 44.31"
     apparent_magnitude: 5.94
@@ -8432,7 +8432,7 @@ stars:
     distance: 446.36
     spectral_class: G3II
   - name:
-    designation: 751 Lunaiad
+    designation: <a href="751_lunaiad.html">751 Lunaiad</a>
     ra: 9<sup>h</sup> 03<sup>m</sup> 39.61<sup>s</sup>
     dec: -66° 41' 51.45"
     apparent_magnitude: 5.94
@@ -8504,7 +8504,7 @@ stars:
     distance: 333.50
     spectral_class: F7III
   - name:
-    designation: 1259 Lunaiad
+    designation: <a href="1259_lunaiad.html">1259 Lunaiad</a>
     ra: 10<sup>h</sup> 25<sup>m</sup> 50.73<sup>s</sup>
     dec: -59° 46' 49.61"
     apparent_magnitude: 5.95
@@ -8512,7 +8512,7 @@ stars:
     distance: 392.38
     spectral_class: F5III
   - name:
-    designation: 3181 Lunaiad
+    designation: <a href="3181_lunaiad.html">3181 Lunaiad</a>
     ra: 10<sup>h</sup> 50<sup>m</sup> 25.07<sup>s</sup>
     dec: -56° 15' 43.54"
     apparent_magnitude: 5.95
@@ -8544,7 +8544,7 @@ stars:
     distance: 751.77
     spectral_class: A5III + K4III
   - name:
-    designation: 3413 Lunaiad
+    designation: <a href="3413_lunaiad.html">3413 Lunaiad</a>
     ra: 10<sup>h</sup> 22<sup>m</sup> 39.54<sup>s</sup>
     dec: -57° 19' 42.02"
     apparent_magnitude: 5.95
@@ -8600,7 +8600,7 @@ stars:
     distance: 181.81
     spectral_class: K4V
   - name:
-    designation: 1369 Lunaiad
+    designation: <a href="1369_lunaiad.html">1369 Lunaiad</a>
     ra: 11<sup>h</sup> 02<sup>m</sup> 26.74<sup>s</sup>
     dec: -55° 16' 54.34"
     apparent_magnitude: 5.96
@@ -8608,7 +8608,7 @@ stars:
     distance: 479.27
     spectral_class: A9III
   - name:
-    designation: 3353 Lunaiad
+    designation: <a href="3353_lunaiad.html">3353 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 39.85<sup>s</sup>
     dec: -55° 12' 35.08"
     apparent_magnitude: 5.96
@@ -8632,7 +8632,7 @@ stars:
     distance: 502.72
     spectral_class: F4III
   - name:
-    designation: 3528 Lunaiad
+    designation: <a href="3528_lunaiad.html">3528 Lunaiad</a>
     ra: 8<sup>h</sup> 41<sup>m</sup> 45.24<sup>s</sup>
     dec: -59° 53' 17.89"
     apparent_magnitude: 5.96
@@ -8648,7 +8648,7 @@ stars:
     distance: 471.60
     spectral_class: K2IV + F5III + A9III
   - name:
-    designation: 540 Lunaiad
+    designation: <a href="540_lunaiad.html">540 Lunaiad</a>
     ra: 8<sup>h</sup> 42<sup>m</sup> 14.60<sup>s</sup>
     dec: -58° 55' 55.69"
     apparent_magnitude: 5.97
@@ -8784,7 +8784,7 @@ stars:
     distance: 3,916.32
     spectral_class: F3Ib
   - name:
-    designation: 2657 Lunaiad
+    designation: <a href="2657_lunaiad.html">2657 Lunaiad</a>
     ra: 9<sup>h</sup> 37<sup>m</sup> 8.67<sup>s</sup>
     dec: -68° 05' 3.37"
     apparent_magnitude: 5.99
@@ -8848,7 +8848,7 @@ stars:
     distance: 432.76
     spectral_class: M7IV + G5V + A3V
   - name:
-    designation: 3002 Lunaiad
+    designation: <a href="3002_lunaiad.html">3002 Lunaiad</a>
     ra: 8<sup>h</sup> 56<sup>m</sup> 30.35<sup>s</sup>
     dec: -64° 19' 58.04"
     apparent_magnitude: 6.00
@@ -8864,7 +8864,7 @@ stars:
     distance: 447.37
     spectral_class: DA + A9II
   - name:
-    designation: 1002 Lunaiad
+    designation: <a href="1002_lunaiad.html">1002 Lunaiad</a>
     ra: 9<sup>h</sup> 23<sup>m</sup> 48.90<sup>s</sup>
     dec: -72° 32' 10.50"
     apparent_magnitude: 6.00
@@ -8880,7 +8880,7 @@ stars:
     distance: 358.06
     spectral_class: K4III + A1V
   - name:
-    designation: 2149 Lunaiad
+    designation: <a href="2149_lunaiad.html">2149 Lunaiad</a>
     ra: 10<sup>h</sup> 00<sup>m</sup> 4.21<sup>s</sup>
     dec: -75° 05' 8.78"
     apparent_magnitude: 6.00
@@ -8936,7 +8936,7 @@ stars:
     distance: 288.86
     spectral_class: A7V
   - name:
-    designation: 118 Lunaiad
+    designation: <a href="118_lunaiad.html">118 Lunaiad</a>
     ra: 9<sup>h</sup> 55<sup>m</sup> 43.93<sup>s</sup>
     dec: -56° 11' 27.56"
     apparent_magnitude: 6.00
@@ -8952,7 +8952,7 @@ stars:
     distance: 2,433.94
     spectral_class: B3V
   - name:
-    designation: 3433 Lunaiad
+    designation: <a href="3433_lunaiad.html">3433 Lunaiad</a>
     ra: 10<sup>h</sup> 42<sup>m</sup> 52.39<sup>s</sup>
     dec: -65° 27' 39.20"
     apparent_magnitude: 6.00
@@ -9048,7 +9048,7 @@ stars:
     distance: 427.87
     spectral_class: A3V
   - name:
-    designation: 982 Lunaiad
+    designation: <a href="982_lunaiad.html">982 Lunaiad</a>
     ra: 10<sup>h</sup> 00<sup>m</sup> 55.37<sup>s</sup>
     dec: -67° 52' 54.85"
     apparent_magnitude: 6.02
@@ -9112,7 +9112,7 @@ stars:
     distance: 313.52
     spectral_class: K8III + F2V
   - name:
-    designation: 757 Lunaiad
+    designation: <a href="757_lunaiad.html">757 Lunaiad</a>
     ra: 9<sup>h</sup> 29<sup>m</sup> 13.24<sup>s</sup>
     dec: -69° 02' 30.54"
     apparent_magnitude: 6.03
@@ -9144,7 +9144,7 @@ stars:
     distance: 298.48
     spectral_class: F2V
   - name:
-    designation: 2044 Lunaiad
+    designation: <a href="2044_lunaiad.html">2044 Lunaiad</a>
     ra: 8<sup>h</sup> 39<sup>m</sup> 48.62<sup>s</sup>
     dec: -62° 43' 46.09"
     apparent_magnitude: 6.03
@@ -9152,7 +9152,7 @@ stars:
     distance: 343.52
     spectral_class: A3V
   - name:
-    designation: 1773 Lunaiad
+    designation: <a href="1773_lunaiad.html">1773 Lunaiad</a>
     ra: 10<sup>h</sup> 58<sup>m</sup> 21.23<sup>s</sup>
     dec: -57° 30' 23.70"
     apparent_magnitude: 6.03
@@ -9184,7 +9184,7 @@ stars:
     distance: 480.89
     spectral_class: DB + G3II
   - name:
-    designation: 3544 Lunaiad
+    designation: <a href="3544_lunaiad.html">3544 Lunaiad</a>
     ra: 8<sup>h</sup> 37<sup>m</sup> 58.94<sup>s</sup>
     dec: -67° 18' 21.53"
     apparent_magnitude: 6.04
@@ -9208,7 +9208,7 @@ stars:
     distance: 191.31
     spectral_class: M7IV
   - name:
-    designation: 3416 Lunaiad
+    designation: <a href="3416_lunaiad.html">3416 Lunaiad</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 45.66<sup>s</sup>
     dec: -60° 59' 50.92"
     apparent_magnitude: 6.04
@@ -9216,7 +9216,7 @@ stars:
     distance: 135.93
     spectral_class: G2V
   - name:
-    designation: 3382 Lunaiad
+    designation: <a href="3382_lunaiad.html">3382 Lunaiad</a>
     ra: 11<sup>h</sup> 06<sup>m</sup> 54.94<sup>s</sup>
     dec: -56° 23' 40.18"
     apparent_magnitude: 6.04
@@ -9224,7 +9224,7 @@ stars:
     distance: 285.24
     spectral_class: F5V
   - name:
-    designation: 2725 Lunaiad
+    designation: <a href="2725_lunaiad.html">2725 Lunaiad</a>
     ra: 10<sup>h</sup> 46<sup>m</sup> 48.26<sup>s</sup>
     dec: -68° 13' 53.14"
     apparent_magnitude: 6.04
@@ -9240,7 +9240,7 @@ stars:
     distance: 292.94
     spectral_class: DB + K1IV
   - name:
-    designation: 1308 Lunaiad
+    designation: <a href="1308_lunaiad.html">1308 Lunaiad</a>
     ra: 11<sup>h</sup> 10<sup>m</sup> 14.04<sup>s</sup>
     dec: -60° 56' 41.98"
     apparent_magnitude: 6.04
@@ -9264,7 +9264,7 @@ stars:
     distance: 396.77
     spectral_class: A9III
   - name:
-    designation: 546 Lunaiad
+    designation: <a href="546_lunaiad.html">546 Lunaiad</a>
     ra: 9<sup>h</sup> 01<sup>m</sup> 1.78<sup>s</sup>
     dec: -61° 08' 22.00"
     apparent_magnitude: 6.04
@@ -9272,7 +9272,7 @@ stars:
     distance: 356.58
     spectral_class: A2V
   - name:
-    designation: 773 Lunaiad
+    designation: <a href="773_lunaiad.html">773 Lunaiad</a>
     ra: 10<sup>h</sup> 32<sup>m</sup> 3.95<sup>s</sup>
     dec: -59° 24' 15.04"
     apparent_magnitude: 6.04
@@ -9280,7 +9280,7 @@ stars:
     distance: 386.00
     spectral_class: F3V + F6V + A5V
   - name:
-    designation: 3478 Lunaiad
+    designation: <a href="3478_lunaiad.html">3478 Lunaiad</a>
     ra: 9<sup>h</sup> 24<sup>m</sup> 43.66<sup>s</sup>
     dec: -64° 39' 10.26"
     apparent_magnitude: 6.04
@@ -9352,7 +9352,7 @@ stars:
     distance: 408.04
     spectral_class: A9V + G7V + A4V
   - name:
-    designation: 2055 Lunaiad
+    designation: <a href="2055_lunaiad.html">2055 Lunaiad</a>
     ra: 10<sup>h</sup> 29<sup>m</sup> 17.77<sup>s</sup>
     dec: -56° 42' 37.27"
     apparent_magnitude: 6.05
@@ -9368,7 +9368,7 @@ stars:
     distance: 279.51
     spectral_class: K9III + A5V
   - name:
-    designation: 2339 Lunaiad
+    designation: <a href="2339_lunaiad.html">2339 Lunaiad</a>
     ra: 11<sup>h</sup> 02<sup>m</sup> 18.20<sup>s</sup>
     dec: -63° 33' 54.74"
     apparent_magnitude: 6.05
@@ -9384,7 +9384,7 @@ stars:
     distance: 415.87
     spectral_class: F4III
   - name:
-    designation: 0010 Lunaiad
+    designation: <a href="0010_lunaiad.html">0010 Lunaiad</a>
     ra: 9<sup>h</sup> 52<sup>m</sup> 51.68<sup>s</sup>
     dec: -70° 18' 11.51"
     apparent_magnitude: 6.05
@@ -9408,7 +9408,7 @@ stars:
     distance: 2,069.36
     spectral_class: K5Iab
   - name:
-    designation: 2679 Lunaiad
+    designation: <a href="2679_lunaiad.html">2679 Lunaiad</a>
     ra: 9<sup>h</sup> 09<sup>m</sup> 51.56<sup>s</sup>
     dec: -71° 12' 0.29"
     apparent_magnitude: 6.06
@@ -9416,7 +9416,7 @@ stars:
     distance: 389.63
     spectral_class: F3V + F1V + F6V + A7V
   - name:
-    designation: 639 Lunaiad
+    designation: <a href="639_lunaiad.html">639 Lunaiad</a>
     ra: 10<sup>h</sup> 12<sup>m</sup> 22.83<sup>s</sup>
     dec: -57° 42' 3.17"
     apparent_magnitude: 6.06
@@ -9472,7 +9472,7 @@ stars:
     distance: 422.00
     spectral_class: F3V + A2V
   - name:
-    designation: 3264 Lunaiad
+    designation: <a href="3264_lunaiad.html">3264 Lunaiad</a>
     ra: 10<sup>h</sup> 03<sup>m</sup> 17.89<sup>s</sup>
     dec: -54° 45' 18.63"
     apparent_magnitude: 6.06
@@ -9504,7 +9504,7 @@ stars:
     distance: 334.67
     spectral_class: K4III + A9IV
   - name:
-    designation: 84 Lunaiad
+    designation: <a href="84_lunaiad.html">84 Lunaiad</a>
     ra: 9<sup>h</sup> 11<sup>m</sup> 50.16<sup>s</sup>
     dec: -59° 36' 54.44"
     apparent_magnitude: 6.06
@@ -9584,7 +9584,7 @@ stars:
     distance: 524.74
     spectral_class: A1V + A9III
   - name:
-    designation: 2325 Lunaiad
+    designation: <a href="2325_lunaiad.html">2325 Lunaiad</a>
     ra: 9<sup>h</sup> 05<sup>m</sup> 52.30<sup>s</sup>
     dec: -69° 31' 48.36"
     apparent_magnitude: 6.08
@@ -9640,7 +9640,7 @@ stars:
     distance: 332.75
     spectral_class: DZ + F9III
   - name:
-    designation: 3518 Lunaiad
+    designation: <a href="3518_lunaiad.html">3518 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 14.02<sup>s</sup>
     dec: -74° 15' 38.93"
     apparent_magnitude: 6.08
@@ -9648,7 +9648,7 @@ stars:
     distance: 214.59
     spectral_class: K9III
   - name:
-    designation: 94 Lunaiad
+    designation: <a href="94_lunaiad.html">94 Lunaiad</a>
     ra: 9<sup>h</sup> 59<sup>m</sup> 2.92<sup>s</sup>
     dec: -57° 26' 8.27"
     apparent_magnitude: 6.09
@@ -9664,7 +9664,7 @@ stars:
     distance: 325.07
     spectral_class: A5V
   - name:
-    designation: 875 Lunaiad
+    designation: <a href="875_lunaiad.html">875 Lunaiad</a>
     ra: 10<sup>h</sup> 53<sup>m</sup> 31.26<sup>s</sup>
     dec: -54° 57' 20.07"
     apparent_magnitude: 6.09
@@ -9672,7 +9672,7 @@ stars:
     distance: 493.32
     spectral_class: F1V + M8III + A9III
   - name:
-    designation: 100 Lunaiad
+    designation: <a href="100_lunaiad.html">100 Lunaiad</a>
     ra: 9<sup>h</sup> 39<sup>m</sup> 42.10<sup>s</sup>
     dec: -65° 08' 23.19"
     apparent_magnitude: 6.09
@@ -9728,7 +9728,7 @@ stars:
     distance: 312.30
     spectral_class: K0V + F5V
   - name:
-    designation: 3281 Lunaiad
+    designation: <a href="3281_lunaiad.html">3281 Lunaiad</a>
     ra: 10<sup>h</sup> 45<sup>m</sup> 24.09<sup>s</sup>
     dec: -59° 15' 26.60"
     apparent_magnitude: 6.09
@@ -9752,7 +9752,7 @@ stars:
     distance: 440.58
     spectral_class: G2V + A2V
   - name:
-    designation: 1394 Lunaiad
+    designation: <a href="1394_lunaiad.html">1394 Lunaiad</a>
     ra: 10<sup>h</sup> 27<sup>m</sup> 48.05<sup>s</sup>
     dec: -73° 07' 20.87"
     apparent_magnitude: 6.10
@@ -9768,7 +9768,7 @@ stars:
     distance: 372.63
     spectral_class: G8V + F4III
   - name:
-    designation: 3627 Lunaiad
+    designation: <a href="3627_lunaiad.html">3627 Lunaiad</a>
     ra: 9<sup>h</sup> 40<sup>m</sup> 52.25<sup>s</sup>
     dec: -63° 25' 4.76"
     apparent_magnitude: 6.10
@@ -9784,7 +9784,7 @@ stars:
     distance: 392.24
     spectral_class: F7III
   - name:
-    designation: 3278 Lunaiad
+    designation: <a href="3278_lunaiad.html">3278 Lunaiad</a>
     ra: 10<sup>h</sup> 56<sup>m</sup> 59.78<sup>s</sup>
     dec: -58° 19' 55.42"
     apparent_magnitude: 6.10
@@ -9848,7 +9848,7 @@ stars:
     distance: 336.44
     spectral_class: A9V + G7V + A4V
   - name:
-    designation: 1032 Lunaiad
+    designation: <a href="1032_lunaiad.html">1032 Lunaiad</a>
     ra: 10<sup>h</sup> 07<sup>m</sup> 46.98<sup>s</sup>
     dec: -64° 22' 29.78"
     apparent_magnitude: 6.11
@@ -9856,7 +9856,7 @@ stars:
     distance: 404.47
     spectral_class: F3V + F6V + A5V
   - name:
-    designation: 3532 Lunaiad
+    designation: <a href="3532_lunaiad.html">3532 Lunaiad</a>
     ra: 8<sup>h</sup> 52<sup>m</sup> 52.15<sup>s</sup>
     dec: -67° 47' 53.62"
     apparent_magnitude: 6.11
@@ -9872,7 +9872,7 @@ stars:
     distance: 327.22
     spectral_class: A4V
   - name:
-    designation: 3375 Lunaiad
+    designation: <a href="3375_lunaiad.html">3375 Lunaiad</a>
     ra: 11<sup>h</sup> 02<sup>m</sup> 16.23<sup>s</sup>
     dec: -56° 27' 32.40"
     apparent_magnitude: 6.11
@@ -9880,7 +9880,7 @@ stars:
     distance: 294.66
     spectral_class: F6V
   - name:
-    designation: 2021 Lunaiad
+    designation: <a href="2021_lunaiad.html">2021 Lunaiad</a>
     ra: 9<sup>h</sup> 16<sup>m</sup> 28.46<sup>s</sup>
     dec: -58° 42' 38.98"
     apparent_magnitude: 6.11
@@ -9928,7 +9928,7 @@ stars:
     distance: 337.66
     spectral_class: A9III
   - name:
-    designation: 2304 Lunaiad
+    designation: <a href="2304_lunaiad.html">2304 Lunaiad</a>
     ra: 9<sup>h</sup> 41<sup>m</sup> 58.91<sup>s</sup>
     dec: -65° 17' 27.02"
     apparent_magnitude: 6.11
@@ -9936,7 +9936,7 @@ stars:
     distance: 433.48
     spectral_class: A1V
   - name:
-    designation: 885 Lunaiad
+    designation: <a href="885_lunaiad.html">885 Lunaiad</a>
     ra: 9<sup>h</sup> 54<sup>m</sup> 36.48<sup>s</sup>
     dec: -61° 21' 11.85"
     apparent_magnitude: 6.12
@@ -9952,7 +9952,7 @@ stars:
     distance: 418.41
     spectral_class: A8III + M9III
   - name:
-    designation: 2731 Lunaiad
+    designation: <a href="2731_lunaiad.html">2731 Lunaiad</a>
     ra: 10<sup>h</sup> 56<sup>m</sup> 4.86<sup>s</sup>
     dec: -72° 29' 41.64"
     apparent_magnitude: 6.12
@@ -9968,7 +9968,7 @@ stars:
     distance: 2,403.32
     spectral_class: B1V
   - name:
-    designation: 1699 Lunaiad
+    designation: <a href="1699_lunaiad.html">1699 Lunaiad</a>
     ra: 9<sup>h</sup> 37<sup>m</sup> 54.96<sup>s</sup>
     dec: -67° 47' 53.30"
     apparent_magnitude: 6.12
@@ -9992,7 +9992,7 @@ stars:
     distance: 433.48
     spectral_class: F1III
   - name:
-    designation: 3210 Lunaiad
+    designation: <a href="3210_lunaiad.html">3210 Lunaiad</a>
     ra: 10<sup>h</sup> 24<sup>m</sup> 11.73<sup>s</sup>
     dec: -55° 11' 53.55"
     apparent_magnitude: 6.12
@@ -10000,7 +10000,7 @@ stars:
     distance: 331.90
     spectral_class: F1V
   - name:
-    designation: 3499 Lunaiad
+    designation: <a href="3499_lunaiad.html">3499 Lunaiad</a>
     ra: 10<sup>h</sup> 06<sup>m</sup> 12.54<sup>s</sup>
     dec: -65° 54' 27.21"
     apparent_magnitude: 6.13
@@ -10056,7 +10056,7 @@ stars:
     distance: 350.47
     spectral_class: A5V
   - name:
-    designation: 3492 Lunaiad
+    designation: <a href="3492_lunaiad.html">3492 Lunaiad</a>
     ra: 9<sup>h</sup> 22<sup>m</sup> 37.93<sup>s</sup>
     dec: -67° 16' 39.14"
     apparent_magnitude: 6.14
@@ -10064,7 +10064,7 @@ stars:
     distance: 203.56
     spectral_class: G4V
   - name:
-    designation: 93 Lunaiad
+    designation: <a href="93_lunaiad.html">93 Lunaiad</a>
     ra: 8<sup>h</sup> 35<sup>m</sup> 49.87<sup>s</sup>
     dec: -70° 31' 3.51"
     apparent_magnitude: 6.14
@@ -10072,7 +10072,7 @@ stars:
     distance: 467.13
     spectral_class: F9V + K8III + A9II
   - name:
-    designation: 3483 Lunaiad
+    designation: <a href="3483_lunaiad.html">3483 Lunaiad</a>
     ra: 9<sup>h</sup> 13<sup>m</sup> 59.76<sup>s</sup>
     dec: -68° 19' 23.84"
     apparent_magnitude: 6.14
@@ -10128,7 +10128,7 @@ stars:
     distance: 174.91
     spectral_class: F7V + F3V
   - name:
-    designation: 0107 Lunaiad
+    designation: <a href="0107_lunaiad.html">0107 Lunaiad</a>
     ra: 10<sup>h</sup> 50<sup>m</sup> 40.05<sup>s</sup>
     dec: -57° 29' 29.49"
     apparent_magnitude: 6.14
@@ -10232,7 +10232,7 @@ stars:
     distance: 379.47
     spectral_class: G4III + K5II
   - name:
-    designation: 2200 Lunaiad
+    designation: <a href="2200_lunaiad.html">2200 Lunaiad</a>
     ra: 11<sup>h</sup> 10<sup>m</sup> 10.78<sup>s</sup>
     dec: -63° 50' 19.15"
     apparent_magnitude: 6.15
@@ -10240,7 +10240,7 @@ stars:
     distance: 412.83
     spectral_class: A4V
   - name:
-    designation: 3493 Lunaiad
+    designation: <a href="3493_lunaiad.html">3493 Lunaiad</a>
     ra: 9<sup>h</sup> 16<sup>m</sup> 56.38<sup>s</sup>
     dec: -68° 22' 8.91"
     apparent_magnitude: 6.16
@@ -10272,7 +10272,7 @@ stars:
     distance: 478.75
     spectral_class: F0III
   - name:
-    designation: 1003 Lunaiad
+    designation: <a href="1003_lunaiad.html">1003 Lunaiad</a>
     ra: 8<sup>h</sup> 43<sup>m</sup> 50.53<sup>s</sup>
     dec: -72° 13' 8.06"
     apparent_magnitude: 6.16
@@ -10280,7 +10280,7 @@ stars:
     distance: 423.79
     spectral_class: A2V
   - name:
-    designation: 3176 Lunaiad
+    designation: <a href="3176_lunaiad.html">3176 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 14.88<sup>s</sup>
     dec: -55° 54' 46.23"
     apparent_magnitude: 6.16
@@ -10296,7 +10296,7 @@ stars:
     distance: 184.91
     spectral_class: F7V + G4V
   - name:
-    designation: 3582 Lunaiad
+    designation: <a href="3582_lunaiad.html">3582 Lunaiad</a>
     ra: 9<sup>h</sup> 47<sup>m</sup> 0.15<sup>s</sup>
     dec: -74° 12' 31.44"
     apparent_magnitude: 6.16
@@ -10312,7 +10312,7 @@ stars:
     distance: 731.11
     spectral_class: A4III
   - name:
-    designation: 0048 Lunaiad
+    designation: <a href="0048_lunaiad.html">0048 Lunaiad</a>
     ra: 8<sup>h</sup> 45<sup>m</sup> 0.25<sup>s</sup>
     dec: -62° 48' 17.47"
     apparent_magnitude: 6.16
@@ -10320,7 +10320,7 @@ stars:
     distance: 842.26
     spectral_class: A5III
   - name:
-    designation: 3365 Lunaiad
+    designation: <a href="3365_lunaiad.html">3365 Lunaiad</a>
     ra: 10<sup>h</sup> 40<sup>m</sup> 30.47<sup>s</sup>
     dec: -55° 09' 15.62"
     apparent_magnitude: 6.16
@@ -10336,7 +10336,7 @@ stars:
     distance: 382.03
     spectral_class: F5III
   - name:
-    designation: 1146 Lunaiad
+    designation: <a href="1146_lunaiad.html">1146 Lunaiad</a>
     ra: 10<sup>h</sup> 35<sup>m</sup> 2.85<sup>s</sup>
     dec: -57° 29' 51.43"
     apparent_magnitude: 6.16
@@ -10344,7 +10344,7 @@ stars:
     distance: 383.72
     spectral_class: F4III
   - name:
-    designation: 0045 Lunaiad
+    designation: <a href="0045_lunaiad.html">0045 Lunaiad</a>
     ra: 9<sup>h</sup> 17<sup>m</sup> 20.18<sup>s</sup>
     dec: -61° 35' 15.68"
     apparent_magnitude: 6.16
@@ -10352,7 +10352,7 @@ stars:
     distance: 222.22
     spectral_class: F7III
   - name:
-    designation: 3511 Lunaiad
+    designation: <a href="3511_lunaiad.html">3511 Lunaiad</a>
     ra: 10<sup>h</sup> 25<sup>m</sup> 23.60<sup>s</sup>
     dec: -74° 24' 18.71"
     apparent_magnitude: 6.16
@@ -10368,7 +10368,7 @@ stars:
     distance: 1,027.87
     spectral_class: B9III + K3III
   - name:
-    designation: 3535 Lunaiad
+    designation: <a href="3535_lunaiad.html">3535 Lunaiad</a>
     ra: 10<sup>h</sup> 16<sup>m</sup> 45.75<sup>s</sup>
     dec: -73° 51' 16.83"
     apparent_magnitude: 6.16
@@ -10400,7 +10400,7 @@ stars:
     distance: 2,263.93
     spectral_class: B5V
   - name:
-    designation: 3495 Lunaiad
+    designation: <a href="3495_lunaiad.html">3495 Lunaiad</a>
     ra: 9<sup>h</sup> 23<sup>m</sup> 17.87<sup>s</sup>
     dec: -64° 08' 3.35"
     apparent_magnitude: 6.17
@@ -10440,7 +10440,7 @@ stars:
     distance: 124.30
     spectral_class: M4III + A9V
   - name:
-    designation: 2946 Lunaiad
+    designation: <a href="2946_lunaiad.html">2946 Lunaiad</a>
     ra: 10<sup>h</sup> 28<sup>m</sup> 49.01<sup>s</sup>
     dec: -59° 08' 12.37"
     apparent_magnitude: 6.18
@@ -10480,7 +10480,7 @@ stars:
     distance: 367.78
     spectral_class: F0III
   - name:
-    designation: 749 Lunaiad
+    designation: <a href="749_lunaiad.html">749 Lunaiad</a>
     ra: 10<sup>h</sup> 51<sup>m</sup> 49.48<sup>s</sup>
     dec: -72° 23' 41.14"
     apparent_magnitude: 6.18
@@ -10496,7 +10496,7 @@ stars:
     distance: 513.88
     spectral_class: A6IV
   - name:
-    designation: 3184 Lunaiad
+    designation: <a href="3184_lunaiad.html">3184 Lunaiad</a>
     ra: 10<sup>h</sup> 46<sup>m</sup> 7.33<sup>s</sup>
     dec: -60° 59' 50.44"
     apparent_magnitude: 6.19
@@ -10512,7 +10512,7 @@ stars:
     distance: 405.16
     spectral_class: F2III + F6V
   - name:
-    designation: 3388 Lunaiad
+    designation: <a href="3388_lunaiad.html">3388 Lunaiad</a>
     ra: 10<sup>h</sup> 59<sup>m</sup> 8.58<sup>s</sup>
     dec: -55° 53' 56.06"
     apparent_magnitude: 6.19
@@ -10544,7 +10544,7 @@ stars:
     distance: 375.49
     spectral_class: A8III
   - name:
-    designation: 1943 Lunaiad
+    designation: <a href="1943_lunaiad.html">1943 Lunaiad</a>
     ra: 10<sup>h</sup> 39<sup>m</sup> 13.98<sup>s</sup>
     dec: -57° 45' 25.31"
     apparent_magnitude: 6.19
@@ -10568,7 +10568,7 @@ stars:
     distance: 403.99
     spectral_class: A5V + A5V
   - name:
-    designation: 2688 Lunaiad
+    designation: <a href="2688_lunaiad.html">2688 Lunaiad</a>
     ra: 10<sup>h</sup> 29<sup>m</sup> 30.46<sup>s</sup>
     dec: -64° 08' 55.47"
     apparent_magnitude: 6.19
@@ -10592,7 +10592,7 @@ stars:
     distance: 545.54
     spectral_class: A9III
   - name:
-    designation: 3371 Lunaiad
+    designation: <a href="3371_lunaiad.html">3371 Lunaiad</a>
     ra: 11<sup>h</sup> 05<sup>m</sup> 56.02<sup>s</sup>
     dec: -56° 11' 42.83"
     apparent_magnitude: 6.19
@@ -10600,7 +10600,7 @@ stars:
     distance: 278.87
     spectral_class: G2V
   - name:
-    designation: 1848 Lunaiad
+    designation: <a href="1848_lunaiad.html">1848 Lunaiad</a>
     ra: 9<sup>h</sup> 30<sup>m</sup> 9.94<sup>s</sup>
     dec: -70° 03' 28.16"
     apparent_magnitude: 6.20
@@ -10608,7 +10608,7 @@ stars:
     distance: 360.91
     spectral_class: G4III + G3V + K0V + A6V
   - name:
-    designation: 3434 Lunaiad
+    designation: <a href="3434_lunaiad.html">3434 Lunaiad</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 39.72<sup>s</sup>
     dec: -69° 35' 47.71"
     apparent_magnitude: 6.20
@@ -10696,7 +10696,7 @@ stars:
     distance: 500.01
     spectral_class: F1III
   - name:
-    designation: 2357 Lunaiad
+    designation: <a href="2357_lunaiad.html">2357 Lunaiad</a>
     ra: 9<sup>h</sup> 48<sup>m</sup> 36.47<sup>s</sup>
     dec: -61° 39' 17.80"
     apparent_magnitude: 6.20
@@ -10752,7 +10752,7 @@ stars:
     distance: 182.55
     spectral_class: M9II
   - name:
-    designation: 537 Lunaiad
+    designation: <a href="537_lunaiad.html">537 Lunaiad</a>
     ra: 10<sup>h</sup> 08<sup>m</sup> 45.45<sup>s</sup>
     dec: -66° 19' 34.98"
     apparent_magnitude: 6.21
@@ -10808,7 +10808,7 @@ stars:
     distance: 439.72
     spectral_class: A9III
   - name:
-    designation: 1373 Lunaiad
+    designation: <a href="1373_lunaiad.html">1373 Lunaiad</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 27.10<sup>s</sup>
     dec: -59° 57' 21.91"
     apparent_magnitude: 6.21
@@ -10824,7 +10824,7 @@ stars:
     distance: 291.14
     spectral_class: K5III
   - name:
-    designation: 3337 Lunaiad
+    designation: <a href="3337_lunaiad.html">3337 Lunaiad</a>
     ra: 11<sup>h</sup> 01<sup>m</sup> 22.76<sup>s</sup>
     dec: -56° 23' 1.90"
     apparent_magnitude: 6.21
@@ -10832,7 +10832,7 @@ stars:
     distance: 300.14
     spectral_class: M8V + K6V + G5V
   - name:
-    designation: 0043 Lunaiad
+    designation: <a href="0043_lunaiad.html">0043 Lunaiad</a>
     ra: 8<sup>h</sup> 59<sup>m</sup> 12.99<sup>s</sup>
     dec: -62° 50' 58.89"
     apparent_magnitude: 6.22
@@ -10872,7 +10872,7 @@ stars:
     distance: 512.78
     spectral_class: DB + G3II
   - name:
-    designation: 105 Lunaiad
+    designation: <a href="105_lunaiad.html">105 Lunaiad</a>
     ra: 10<sup>h</sup> 21<sup>m</sup> 27.69<sup>s</sup>
     dec: -72° 59' 9.50"
     apparent_magnitude: 6.22
@@ -10944,7 +10944,7 @@ stars:
     distance: 458.01
     spectral_class: A9III
   - name:
-    designation: 3523 Lunaiad
+    designation: <a href="3523_lunaiad.html">3523 Lunaiad</a>
     ra: 9<sup>h</sup> 43<sup>m</sup> 54.81<sup>s</sup>
     dec: -70° 23' 49.05"
     apparent_magnitude: 6.23
@@ -10952,7 +10952,7 @@ stars:
     distance: 186.71
     spectral_class: K5V
   - name:
-    designation: 3282 Lunaiad
+    designation: <a href="3282_lunaiad.html">3282 Lunaiad</a>
     ra: 10<sup>h</sup> 04<sup>m</sup> 39.03<sup>s</sup>
     dec: -55° 25' 39.51"
     apparent_magnitude: 6.23
@@ -10960,7 +10960,7 @@ stars:
     distance: 311.93
     spectral_class: K1IV
   - name:
-    designation: 2194 Lunaiad
+    designation: <a href="2194_lunaiad.html">2194 Lunaiad</a>
     ra: 9<sup>h</sup> 41<sup>m</sup> 42.45<sup>s</sup>
     dec: -59° 14' 49.50"
     apparent_magnitude: 6.23
@@ -11000,7 +11000,7 @@ stars:
     distance: 2,489.51
     spectral_class: B1V + M1II
   - name:
-    designation: 3378 Lunaiad
+    designation: <a href="3378_lunaiad.html">3378 Lunaiad</a>
     ra: 10<sup>h</sup> 42<sup>m</sup> 53.91<sup>s</sup>
     dec: -54° 47' 48.91"
     apparent_magnitude: 6.23
@@ -11040,7 +11040,7 @@ stars:
     distance: 412.83
     spectral_class: G6V + A6IV
   - name:
-    designation: 3383 Lunaiad
+    designation: <a href="3383_lunaiad.html">3383 Lunaiad</a>
     ra: 10<sup>h</sup> 52<sup>m</sup> 43.24<sup>s</sup>
     dec: -55° 23' 40.09"
     apparent_magnitude: 6.24
@@ -11072,7 +11072,7 @@ stars:
     distance: 419.82
     spectral_class: F8III
   - name:
-    designation: 1261 Lunaiad
+    designation: <a href="1261_lunaiad.html">1261 Lunaiad</a>
     ra: 9<sup>h</sup> 26<sup>m</sup> 28.24<sup>s</sup>
     dec: -65° 57' 2.59"
     apparent_magnitude: 6.24
@@ -11176,7 +11176,7 @@ stars:
     distance: 359.31
     spectral_class: A4V
   - name:
-    designation: 1316 Lunaiad
+    designation: <a href="1316_lunaiad.html">1316 Lunaiad</a>
     ra: 9<sup>h</sup> 16<sup>m</sup> 30.98<sup>s</sup>
     dec: -71° 12' 58.02"
     apparent_magnitude: 6.25
@@ -11240,7 +11240,7 @@ stars:
     distance: 5,971.88
     spectral_class: B2IV + B7V
   - name:
-    designation: 2673 Lunaiad
+    designation: <a href="2673_lunaiad.html">2673 Lunaiad</a>
     ra: 8<sup>h</sup> 40<sup>m</sup> 4.39<sup>s</sup>
     dec: -68° 18' 34.57"
     apparent_magnitude: 6.26
@@ -11248,7 +11248,7 @@ stars:
     distance: 435.96
     spectral_class: A3V
   - name:
-    designation: 3529 Lunaiad
+    designation: <a href="3529_lunaiad.html">3529 Lunaiad</a>
     ra: 9<sup>h</sup> 47<sup>m</sup> 56.85<sup>s</sup>
     dec: -58° 37' 6.11"
     apparent_magnitude: 6.26
@@ -11256,7 +11256,7 @@ stars:
     distance: 188.68
     spectral_class: G3V
   - name:
-    designation: 3472 Lunaiad
+    designation: <a href="3472_lunaiad.html">3472 Lunaiad</a>
     ra: 9<sup>h</sup> 24<sup>m</sup> 30.87<sup>s</sup>
     dec: -65° 32' 56.31"
     apparent_magnitude: 6.26
@@ -11264,7 +11264,7 @@ stars:
     distance: 214.57
     spectral_class: G0V
   - name:
-    designation: 3344 Lunaiad
+    designation: <a href="3344_lunaiad.html">3344 Lunaiad</a>
     ra: 11<sup>h</sup> 04<sup>m</sup> 9.93<sup>s</sup>
     dec: -56° 46' 9.90"
     apparent_magnitude: 6.26
@@ -11280,7 +11280,7 @@ stars:
     distance: 398.20
     spectral_class: F9V + A7V
   - name:
-    designation: 3367 Lunaiad
+    designation: <a href="3367_lunaiad.html">3367 Lunaiad</a>
     ra: 10<sup>h</sup> 40<sup>m</sup> 21.12<sup>s</sup>
     dec: -54° 58' 1.86"
     apparent_magnitude: 6.26
@@ -11288,7 +11288,7 @@ stars:
     distance: 282.43
     spectral_class: G8V
   - name:
-    designation: 3185 Lunaiad
+    designation: <a href="3185_lunaiad.html">3185 Lunaiad</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 34.76<sup>s</sup>
     dec: -58° 26' 2.19"
     apparent_magnitude: 6.26
@@ -11312,7 +11312,7 @@ stars:
     distance: 990.36
     spectral_class: A3III + A2V + G9III
   - name:
-    designation: 3459 Lunaiad
+    designation: <a href="3459_lunaiad.html">3459 Lunaiad</a>
     ra: 9<sup>h</sup> 23<sup>m</sup> 58.69<sup>s</sup>
     dec: -74° 41' 30.65"
     apparent_magnitude: 6.26
@@ -11328,7 +11328,7 @@ stars:
     distance: 392.79
     spectral_class: K4III + A9IV
   - name:
-    designation: 3504 Lunaiad
+    designation: <a href="3504_lunaiad.html">3504 Lunaiad</a>
     ra: 8<sup>h</sup> 41<sup>m</sup> 4.56<sup>s</sup>
     dec: -61° 21' 29.96"
     apparent_magnitude: 6.27
@@ -11360,7 +11360,7 @@ stars:
     distance: 4,686.65
     spectral_class: B5IV + A6III + B7V
   - name:
-    designation: 1856 Lunaiad
+    designation: <a href="1856_lunaiad.html">1856 Lunaiad</a>
     ra: 10<sup>h</sup> 38<sup>m</sup> 58.07<sup>s</sup>
     dec: -55° 10' 27.39"
     apparent_magnitude: 6.27
@@ -11408,7 +11408,7 @@ stars:
     distance: 361.75
     spectral_class: M9Iab
   - name:
-    designation: 3652 Lunaiad
+    designation: <a href="3652_lunaiad.html">3652 Lunaiad</a>
     ra: 9<sup>h</sup> 01<sup>m</sup> 36.26<sup>s</sup>
     dec: -74° 17' 54.50"
     apparent_magnitude: 6.27
@@ -11480,7 +11480,7 @@ stars:
     distance: 1,177.25
     spectral_class: A1III
   - name:
-    designation: 2647 Lunaiad
+    designation: <a href="2647_lunaiad.html">2647 Lunaiad</a>
     ra: 9<sup>h</sup> 17<sup>m</sup> 24.14<sup>s</sup>
     dec: -64° 46' 55.26"
     apparent_magnitude: 6.29
@@ -11536,7 +11536,7 @@ stars:
     distance: 532.23
     spectral_class: A7III
   - name:
-    designation: 2521 Lunaiad
+    designation: <a href="2521_lunaiad.html">2521 Lunaiad</a>
     ra: 10<sup>h</sup> 39<sup>m</sup> 4.17<sup>s</sup>
     dec: -64° 29' 9.23"
     apparent_magnitude: 6.29
@@ -11552,7 +11552,7 @@ stars:
     distance: 333.43
     spectral_class: F6V + F2V
   - name:
-    designation: 3302 Lunaiad
+    designation: <a href="3302_lunaiad.html">3302 Lunaiad</a>
     ra: 11<sup>h</sup> 04<sup>m</sup> 6.97<sup>s</sup>
     dec: -68° 43' 35.15"
     apparent_magnitude: 6.29
@@ -11576,7 +11576,7 @@ stars:
     distance: 337.37
     spectral_class: K9III + A5V
   - name:
-    designation: 1180 Lunaiad
+    designation: <a href="1180_lunaiad.html">1180 Lunaiad</a>
     ra: 10<sup>h</sup> 58<sup>m</sup> 59.76<sup>s</sup>
     dec: -57° 59' 56.56"
     apparent_magnitude: 6.30
@@ -11592,7 +11592,7 @@ stars:
     distance: 465.71
     spectral_class: F4III
   - name:
-    designation: 0015 Lunaiad
+    designation: <a href="0015_lunaiad.html">0015 Lunaiad</a>
     ra: 9<sup>h</sup> 26<sup>m</sup> 2.02<sup>s</sup>
     dec: -74° 05' 32.41"
     apparent_magnitude: 6.30
@@ -11600,7 +11600,7 @@ stars:
     distance: 228.93
     spectral_class: A3V + F6V + G3V
   - name:
-    designation: 700 Lunaiad
+    designation: <a href="700_lunaiad.html">700 Lunaiad</a>
     ra: 10<sup>h</sup> 01<sup>m</sup> 25.74<sup>s</sup>
     dec: -59° 55' 21.21"
     apparent_magnitude: 6.30
@@ -11616,7 +11616,7 @@ stars:
     distance: 530.90
     spectral_class: A8III
   - name:
-    designation: 3513 Lunaiad
+    designation: <a href="3513_lunaiad.html">3513 Lunaiad</a>
     ra: 8<sup>h</sup> 44<sup>m</sup> 40.33<sup>s</sup>
     dec: -68° 05' 36.06"
     apparent_magnitude: 6.30
@@ -11664,7 +11664,7 @@ stars:
     distance: 407.41
     spectral_class: G4III + K5II
   - name:
-    designation: 0079 Lunaiad
+    designation: <a href="0079_lunaiad.html">0079 Lunaiad</a>
     ra: 10<sup>h</sup> 25<sup>m</sup> 43.17<sup>s</sup>
     dec: -59° 14' 50.96"
     apparent_magnitude: 6.31
@@ -11704,7 +11704,7 @@ stars:
     distance: 302.07
     spectral_class: A3V
   - name:
-    designation: 3406 Lunaiad
+    designation: <a href="3406_lunaiad.html">3406 Lunaiad</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 28.27<sup>s</sup>
     dec: -66° 41' 56.51"
     apparent_magnitude: 6.31
@@ -11728,7 +11728,7 @@ stars:
     distance: 2,370.73
     spectral_class: B5V + M1III
   - name:
-    designation: 3507 Lunaiad
+    designation: <a href="3507_lunaiad.html">3507 Lunaiad</a>
     ra: 9<sup>h</sup> 32<sup>m</sup> 42.20<sup>s</sup>
     dec: -70° 58' 40.40"
     apparent_magnitude: 6.31
@@ -11744,7 +11744,7 @@ stars:
     distance: 462.72
     spectral_class: F1III
   - name:
-    designation: 1009 Lunaiad
+    designation: <a href="1009_lunaiad.html">1009 Lunaiad</a>
     ra: 11<sup>h</sup> 15<sup>m</sup> 37.08<sup>s</sup>
     dec: -64° 09' 33.82"
     apparent_magnitude: 6.32
@@ -11768,7 +11768,7 @@ stars:
     distance: 338.81
     spectral_class: G9III
   - name:
-    designation: 120 Lunaiad
+    designation: <a href="120_lunaiad.html">120 Lunaiad</a>
     ra: 11<sup>h</sup> 09<sup>m</sup> 19.63<sup>s</sup>
     dec: -57° 33' 9.58"
     apparent_magnitude: 6.32
@@ -11784,7 +11784,7 @@ stars:
     distance: 400.39
     spectral_class: M9III + A8V
   - name:
-    designation: 1311 Lunaiad
+    designation: <a href="1311_lunaiad.html">1311 Lunaiad</a>
     ra: 10<sup>h</sup> 13<sup>m</sup> 59.05<sup>s</sup>
     dec: -67° 29' 26.24"
     apparent_magnitude: 6.32
@@ -11864,7 +11864,7 @@ stars:
     distance: 149.72
     spectral_class: A9V
   - name:
-    designation: 123 Lunaiad
+    designation: <a href="123_lunaiad.html">123 Lunaiad</a>
     ra: 11<sup>h</sup> 15<sup>m</sup> 30.77<sup>s</sup>
     dec: -61° 28' 34.75"
     apparent_magnitude: 6.33
@@ -11968,7 +11968,7 @@ stars:
     distance: 442.52
     spectral_class: A3V
   - name:
-    designation: 128 Lunaiad
+    designation: <a href="128_lunaiad.html">128 Lunaiad</a>
     ra: 9<sup>h</sup> 15<sup>m</sup> 35.49<sup>s</sup>
     dec: -57° 11' 34.34"
     apparent_magnitude: 6.35
@@ -12016,7 +12016,7 @@ stars:
     distance: 346.25
     spectral_class: F1V + A3V
   - name:
-    designation: 3180 Lunaiad
+    designation: <a href="3180_lunaiad.html">3180 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 19.56<sup>s</sup>
     dec: -56° 33' 1.05"
     apparent_magnitude: 6.36
@@ -12032,7 +12032,7 @@ stars:
     distance: 323.72
     spectral_class: G1V + G6V
   - name:
-    designation: 1441 Lunaiad
+    designation: <a href="1441_lunaiad.html">1441 Lunaiad</a>
     ra: 10<sup>h</sup> 53<sup>m</sup> 45.63<sup>s</sup>
     dec: -63° 15' 3.80"
     apparent_magnitude: 6.36
@@ -12056,7 +12056,7 @@ stars:
     distance: 332.07
     spectral_class: A8IV
   - name:
-    designation: 3354 Lunaiad
+    designation: <a href="3354_lunaiad.html">3354 Lunaiad</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 21.85<sup>s</sup>
     dec: -55° 25' 12.26"
     apparent_magnitude: 6.36
@@ -12112,7 +12112,7 @@ stars:
     distance: 449.50
     spectral_class: A8III
   - name:
-    designation: 3341 Lunaiad
+    designation: <a href="3341_lunaiad.html">3341 Lunaiad</a>
     ra: 10<sup>h</sup> 41<sup>m</sup> 32.85<sup>s</sup>
     dec: -54° 44' 14.01"
     apparent_magnitude: 6.37
@@ -12120,7 +12120,7 @@ stars:
     distance: 300.28
     spectral_class: G7V
   - name:
-    designation: 961 Lunaiad
+    designation: <a href="961_lunaiad.html">961 Lunaiad</a>
     ra: 9<sup>h</sup> 40<sup>m</sup> 47.88<sup>s</sup>
     dec: -63° 25' 32.15"
     apparent_magnitude: 6.37
@@ -12128,7 +12128,7 @@ stars:
     distance: 525.59
     spectral_class: A9III
   - name:
-    designation: 2041 Lunaiad
+    designation: <a href="2041_lunaiad.html">2041 Lunaiad</a>
     ra: 9<sup>h</sup> 13<sup>m</sup> 5.63<sup>s</sup>
     dec: -68° 49' 19.00"
     apparent_magnitude: 6.37
@@ -12136,7 +12136,7 @@ stars:
     distance: 382.72
     spectral_class: G4III + G3V + K0V + A6V
   - name:
-    designation: 2720 Lunaiad
+    designation: <a href="2720_lunaiad.html">2720 Lunaiad</a>
     ra: 9<sup>h</sup> 24<sup>m</sup> 34.89<sup>s</sup>
     dec: -61° 27' 29.40"
     apparent_magnitude: 6.37
@@ -12152,7 +12152,7 @@ stars:
     distance: 393.96
     spectral_class: DZ + F9III
   - name:
-    designation: 3385 Lunaiad
+    designation: <a href="3385_lunaiad.html">3385 Lunaiad</a>
     ra: 11<sup>h</sup> 06<sup>m</sup> 16.06<sup>s</sup>
     dec: -55° 28' 40.32"
     apparent_magnitude: 6.37
@@ -12200,7 +12200,7 @@ stars:
     distance: 363.63
     spectral_class: A9III
   - name:
-    designation: 3397 Lunaiad
+    designation: <a href="3397_lunaiad.html">3397 Lunaiad</a>
     ra: 10<sup>h</sup> 46<sup>m</sup> 27.07<sup>s</sup>
     dec: -55° 26' 12.50"
     apparent_magnitude: 6.38
@@ -12264,7 +12264,7 @@ stars:
     distance: 477.62
     spectral_class: F0III
   - name:
-    designation: 2323 Lunaiad
+    designation: <a href="2323_lunaiad.html">2323 Lunaiad</a>
     ra: 9<sup>h</sup> 43<sup>m</sup> 45.58<sup>s</sup>
     dec: -73° 52' 44.97"
     apparent_magnitude: 6.39
@@ -12384,7 +12384,7 @@ stars:
     distance: 346.40
     spectral_class: A8IV
   - name:
-    designation: 1382 Lunaiad
+    designation: <a href="1382_lunaiad.html">1382 Lunaiad</a>
     ra: 9<sup>h</sup> 19<sup>m</sup> 11.06<sup>s</sup>
     dec: -69° 52' 3.76"
     apparent_magnitude: 6.40
@@ -12472,7 +12472,7 @@ stars:
     distance: 713.70
     spectral_class: A6III
   - name:
-    designation: 2335 Lunaiad
+    designation: <a href="2335_lunaiad.html">2335 Lunaiad</a>
     ra: 10<sup>h</sup> 51<sup>m</sup> 21.38<sup>s</sup>
     dec: -62° 05' 22.38"
     apparent_magnitude: 6.41
@@ -12480,7 +12480,7 @@ stars:
     distance: 406.01
     spectral_class: G5V + G7V + A5V
   - name:
-    designation: 2514 Lunaiad
+    designation: <a href="2514_lunaiad.html">2514 Lunaiad</a>
     ra: 9<sup>h</sup> 24<sup>m</sup> 51.57<sup>s</sup>
     dec: -59° 12' 20.96"
     apparent_magnitude: 6.41
@@ -12528,7 +12528,7 @@ stars:
     distance: 1,518.40
     spectral_class: K0Ib
   - name:
-    designation: 3290 Lunaiad
+    designation: <a href="3290_lunaiad.html">3290 Lunaiad</a>
     ra: 10<sup>h</sup> 09<sup>m</sup> 45.39<sup>s</sup>
     dec: -55° 17' 20.47"
     apparent_magnitude: 6.42
@@ -12552,7 +12552,7 @@ stars:
     distance: 424.60
     spectral_class: K9III + A5V
   - name:
-    designation: 154 Lunaiad
+    designation: <a href="154_lunaiad.html">154 Lunaiad</a>
     ra: 8<sup>h</sup> 34<sup>m</sup> 13.90<sup>s</sup>
     dec: -68° 47' 38.57"
     apparent_magnitude: 6.42
@@ -12592,7 +12592,7 @@ stars:
     distance: 5,884.96
     spectral_class: B3V + B1V + B4V + B4V
   - name:
-    designation: 3508 Lunaiad
+    designation: <a href="3508_lunaiad.html">3508 Lunaiad</a>
     ra: 8<sup>h</sup> 47<sup>m</sup> 54.55<sup>s</sup>
     dec: -66° 52' 19.46"
     apparent_magnitude: 6.42
@@ -12616,7 +12616,7 @@ stars:
     distance: 1,205.49
     spectral_class: M1Iab
   - name:
-    designation: 3345 Lunaiad
+    designation: <a href="3345_lunaiad.html">3345 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 53.10<sup>s</sup>
     dec: -55° 04' 9.92"
     apparent_magnitude: 6.42
@@ -12688,7 +12688,7 @@ stars:
     distance: 422.43
     spectral_class: K4III + A9IV
   - name:
-    designation: 2052 Lunaiad
+    designation: <a href="2052_lunaiad.html">2052 Lunaiad</a>
     ra: 10<sup>h</sup> 21<sup>m</sup> 49.62<sup>s</sup>
     dec: -55° 23' 28.05"
     apparent_magnitude: 6.43
@@ -12696,7 +12696,7 @@ stars:
     distance: 344.91
     spectral_class: G5V + G7V + A5V
   - name:
-    designation: 2945 Lunaiad
+    designation: <a href="2945_lunaiad.html">2945 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 26.29<sup>s</sup>
     dec: -65° 25' 30.79"
     apparent_magnitude: 6.43
@@ -12744,7 +12744,7 @@ stars:
     distance: 304.61
     spectral_class: M5II
   - name:
-    designation: 3165 Lunaiad
+    designation: <a href="3165_lunaiad.html">3165 Lunaiad</a>
     ra: 10<sup>h</sup> 39<sup>m</sup> 21.19<sup>s</sup>
     dec: -55° 40' 26.35"
     apparent_magnitude: 6.44
@@ -12784,7 +12784,7 @@ stars:
     distance: 396.60
     spectral_class: F5III
   - name:
-    designation: 3475 Lunaiad
+    designation: <a href="3475_lunaiad.html">3475 Lunaiad</a>
     ra: 9<sup>h</sup> 43<sup>m</sup> 8.04<sup>s</sup>
     dec: -71° 03' 10.21"
     apparent_magnitude: 6.44
@@ -12792,7 +12792,7 @@ stars:
     distance: 201.52
     spectral_class: K4V
   - name:
-    designation: 1698 Lunaiad
+    designation: <a href="1698_lunaiad.html">1698 Lunaiad</a>
     ra: 9<sup>h</sup> 57<sup>m</sup> 48.93<sup>s</sup>
     dec: -73° 03' 16.32"
     apparent_magnitude: 6.44
@@ -12816,7 +12816,7 @@ stars:
     distance: 438.25
     spectral_class: A3V
   - name:
-    designation: 3183 Lunaiad
+    designation: <a href="3183_lunaiad.html">3183 Lunaiad</a>
     ra: 10<sup>h</sup> 55<sup>m</sup> 9.27<sup>s</sup>
     dec: -56° 16' 7.39"
     apparent_magnitude: 6.44
@@ -12824,7 +12824,7 @@ stars:
     distance: 299.11
     spectral_class: F8V
   - name:
-    designation: 1510 Lunaiad
+    designation: <a href="1510_lunaiad.html">1510 Lunaiad</a>
     ra: 10<sup>h</sup> 55<sup>m</sup> 57.86<sup>s</sup>
     dec: -64° 42' 49.61"
     apparent_magnitude: 6.45
@@ -12904,7 +12904,7 @@ stars:
     distance: 333.42
     spectral_class: A7V
   - name:
-    designation: 3500 Lunaiad
+    designation: <a href="3500_lunaiad.html">3500 Lunaiad</a>
     ra: 10<sup>h</sup> 18<sup>m</sup> 44.22<sup>s</sup>
     dec: -68° 31' 27.60"
     apparent_magnitude: 6.45
@@ -12912,7 +12912,7 @@ stars:
     distance: 193.41
     spectral_class: K6V
   - name:
-    designation: 0038 Lunaiad
+    designation: <a href="0038_lunaiad.html">0038 Lunaiad</a>
     ra: 10<sup>h</sup> 09<sup>m</sup> 14.88<sup>s</sup>
     dec: -66° 10' 40.32"
     apparent_magnitude: 6.45
@@ -12936,7 +12936,7 @@ stars:
     distance: 395.82
     spectral_class: A8IV
   - name:
-    designation: 2954 Lunaiad
+    designation: <a href="2954_lunaiad.html">2954 Lunaiad</a>
     ra: 8<sup>h</sup> 51<sup>m</sup> 7.24<sup>s</sup>
     dec: -62° 58' 27.52"
     apparent_magnitude: 6.45
@@ -13024,7 +13024,7 @@ stars:
     distance: 351.17
     spectral_class: G2V + A9V
   - name:
-    designation: 3484 Lunaiad
+    designation: <a href="3484_lunaiad.html">3484 Lunaiad</a>
     ra: 9<sup>h</sup> 46<sup>m</sup> 57.33<sup>s</sup>
     dec: -73° 00' 18.65"
     apparent_magnitude: 6.46
@@ -13152,7 +13152,7 @@ stars:
     distance: 355.32
     spectral_class: A4V
   - name:
-    designation: 2279 Lunaiad
+    designation: <a href="2279_lunaiad.html">2279 Lunaiad</a>
     ra: 9<sup>h</sup> 28<sup>m</sup> 4.67<sup>s</sup>
     dec: -61° 11' 58.64"
     apparent_magnitude: 6.48
@@ -13184,7 +13184,7 @@ stars:
     distance: 516.18
     spectral_class: G6V + A6IV
   - name:
-    designation: 1378 Lunaiad
+    designation: <a href="1378_lunaiad.html">1378 Lunaiad</a>
     ra: 10<sup>h</sup> 10<sup>m</sup> 3.81<sup>s</sup>
     dec: -66° 08' 51.19"
     apparent_magnitude: 6.48
@@ -13304,7 +13304,7 @@ stars:
     distance: 987.84
     spectral_class: A3III
   - name:
-    designation: 3608 Lunaiad
+    designation: <a href="3608_lunaiad.html">3608 Lunaiad</a>
     ra: 11<sup>h</sup> 08<sup>m</sup> 46.72<sup>s</sup>
     dec: -56° 21' 48.03"
     apparent_magnitude: 6.50
@@ -13352,7 +13352,7 @@ stars:
     distance: 463.07
     spectral_class: A9III
   - name:
-    designation: 3391 Lunaiad
+    designation: <a href="3391_lunaiad.html">3391 Lunaiad</a>
     ra: 10<sup>h</sup> 47<sup>m</sup> 49.52<sup>s</sup>
     dec: -55° 16' 1.00"
     apparent_magnitude: 6.51
@@ -13360,7 +13360,7 @@ stars:
     distance: 299.55
     spectral_class: K7III
   - name:
-    designation: 3619 Lunaiad
+    designation: <a href="3619_lunaiad.html">3619 Lunaiad</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 33.74<sup>s</sup>
     dec: -73° 34' 5.98"
     apparent_magnitude: 6.51
@@ -13400,7 +13400,7 @@ stars:
     distance: 398.86
     spectral_class: G5II
   - name:
-    designation: 3347 Lunaiad
+    designation: <a href="3347_lunaiad.html">3347 Lunaiad</a>
     ra: 10<sup>h</sup> 58<sup>m</sup> 45.47<sup>s</sup>
     dec: -56° 12' 37.93"
     apparent_magnitude: 6.52
@@ -13464,7 +13464,7 @@ stars:
     distance: 311.58
     spectral_class: M9V + G3V
   - name:
-    designation: 535 Lunaiad
+    designation: <a href="535_lunaiad.html">535 Lunaiad</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 7.91<sup>s</sup>
     dec: -71° 19' 54.79"
     apparent_magnitude: 6.53
@@ -13504,7 +13504,7 @@ stars:
     distance: 300.63
     spectral_class: K6III
   - name:
-    designation: 2654 Lunaiad
+    designation: <a href="2654_lunaiad.html">2654 Lunaiad</a>
     ra: 11<sup>h</sup> 12<sup>m</sup> 12.67<sup>s</sup>
     dec: -72° 17' 19.86"
     apparent_magnitude: 6.53
@@ -13512,7 +13512,7 @@ stars:
     distance: 407.13
     spectral_class: A8V
   - name:
-    designation: 1682 Lunaiad
+    designation: <a href="1682_lunaiad.html">1682 Lunaiad</a>
     ra: 9<sup>h</sup> 04<sup>m</sup> 36.69<sup>s</sup>
     dec: -57° 48' 9.79"
     apparent_magnitude: 6.54
@@ -13528,7 +13528,7 @@ stars:
     distance: 461.98
     spectral_class: F6V + A9III
   - name:
-    designation: 3615 Lunaiad
+    designation: <a href="3615_lunaiad.html">3615 Lunaiad</a>
     ra: 9<sup>h</sup> 45<sup>m</sup> 54.82<sup>s</sup>
     dec: -61° 47' 43.06"
     apparent_magnitude: 6.54
@@ -13544,7 +13544,7 @@ stars:
     distance: 563.92
     spectral_class: A1V + A9III
   - name:
-    designation: 1847 Lunaiad
+    designation: <a href="1847_lunaiad.html">1847 Lunaiad</a>
     ra: 9<sup>h</sup> 49<sup>m</sup> 52.19<sup>s</sup>
     dec: -74° 39' 12.35"
     apparent_magnitude: 6.54
@@ -13632,7 +13632,7 @@ stars:
     distance: 318.08
     spectral_class: G8V + G4V
   - name:
-    designation: 3271 Lunaiad
+    designation: <a href="3271_lunaiad.html">3271 Lunaiad</a>
     ra: 9<sup>h</sup> 57<sup>m</sup> 11.12<sup>s</sup>
     dec: -56° 34' 18.65"
     apparent_magnitude: 6.55
@@ -13648,7 +13648,7 @@ stars:
     distance: 373.67
     spectral_class: K2III + A4V + F8III
   - name:
-    designation: 3334 Lunaiad
+    designation: <a href="3334_lunaiad.html">3334 Lunaiad</a>
     ra: 10<sup>h</sup> 52<sup>m</sup> 51.43<sup>s</sup>
     dec: -58° 08' 53.69"
     apparent_magnitude: 6.55
@@ -13680,7 +13680,7 @@ stars:
     distance: 484.00
     spectral_class: A8III
   - name:
-    designation: 2684 Lunaiad
+    designation: <a href="2684_lunaiad.html">2684 Lunaiad</a>
     ra: 10<sup>h</sup> 22<sup>m</sup> 34.12<sup>s</sup>
     dec: -62° 37' 15.19"
     apparent_magnitude: 6.55
@@ -13696,7 +13696,7 @@ stars:
     distance: 345.27
     spectral_class: F1V + A3V
   - name:
-    designation: 2669 Lunaiad
+    designation: <a href="2669_lunaiad.html">2669 Lunaiad</a>
     ra: 9<sup>h</sup> 10<sup>m</sup> 4.38<sup>s</sup>
     dec: -72° 45' 58.62"
     apparent_magnitude: 6.55
@@ -13744,7 +13744,7 @@ stars:
     distance: 2,811.02
     spectral_class: B3V
   - name:
-    designation: 3324 Lunaiad
+    designation: <a href="3324_lunaiad.html">3324 Lunaiad</a>
     ra: 10<sup>h</sup> 19<sup>m</sup> 29.98<sup>s</sup>
     dec: -55° 27' 27.58"
     apparent_magnitude: 6.56
@@ -13760,7 +13760,7 @@ stars:
     distance: 397.51
     spectral_class: G8V + F4III
   - name:
-    designation: 3422 Lunaiad
+    designation: <a href="3422_lunaiad.html">3422 Lunaiad</a>
     ra: 10<sup>h</sup> 25<sup>m</sup> 2.47<sup>s</sup>
     dec: -67° 43' 47.01"
     apparent_magnitude: 6.57
@@ -13880,7 +13880,7 @@ stars:
     distance: 363.23
     spectral_class: DA + DA + F5III
   - name:
-    designation: 3506 Lunaiad
+    designation: <a href="3506_lunaiad.html">3506 Lunaiad</a>
     ra: 8<sup>h</sup> 54<sup>m</sup> 31.40<sup>s</sup>
     dec: -66° 02' 11.38"
     apparent_magnitude: 6.57
@@ -13896,7 +13896,7 @@ stars:
     distance: 377.05
     spectral_class: K0V + G4III
   - name:
-    designation: 3423 Lunaiad
+    designation: <a href="3423_lunaiad.html">3423 Lunaiad</a>
     ra: 11<sup>h</sup> 06<sup>m</sup> 2.83<sup>s</sup>
     dec: -64° 13' 52.96"
     apparent_magnitude: 6.58
@@ -13984,7 +13984,7 @@ stars:
     distance: 562.57
     spectral_class: A8III
   - name:
-    designation: 720 Lunaiad
+    designation: <a href="720_lunaiad.html">720 Lunaiad</a>
     ra: 9<sup>h</sup> 49<sup>m</sup> 2.70<sup>s</sup>
     dec: -64° 01' 2.84"
     apparent_magnitude: 6.59
@@ -13992,7 +13992,7 @@ stars:
     distance: 506.23
     spectral_class: F5III
   - name:
-    designation: 641 Lunaiad
+    designation: <a href="641_lunaiad.html">641 Lunaiad</a>
     ra: 10<sup>h</sup> 02<sup>m</sup> 29.26<sup>s</sup>
     dec: -57° 49' 31.59"
     apparent_magnitude: 6.59
@@ -14000,7 +14000,7 @@ stars:
     distance: 553.99
     spectral_class: A8V + M0III + A9III
   - name:
-    designation: 3621 Lunaiad
+    designation: <a href="3621_lunaiad.html">3621 Lunaiad</a>
     ra: 10<sup>h</sup> 31<sup>m</sup> 38.59<sup>s</sup>
     dec: -58° 06' 41.66"
     apparent_magnitude: 6.59
@@ -14024,7 +14024,7 @@ stars:
     distance: 465.36
     spectral_class: A3V
   - name:
-    designation: 1831 Lunaiad
+    designation: <a href="1831_lunaiad.html">1831 Lunaiad</a>
     ra: 9<sup>h</sup> 00<sup>m</sup> 31.36<sup>s</sup>
     dec: -59° 55' 35.07"
     apparent_magnitude: 6.59
@@ -14160,7 +14160,7 @@ stars:
     distance: 344.83
     spectral_class: G9V + A9V
   - name:
-    designation: 3468 Lunaiad
+    designation: <a href="3468_lunaiad.html">3468 Lunaiad</a>
     ra: 9<sup>h</sup> 49<sup>m</sup> 11.67<sup>s</sup>
     dec: -66° 28' 52.63"
     apparent_magnitude: 6.60
@@ -14264,7 +14264,7 @@ stars:
     distance: 4,504.01
     spectral_class: B2V + B4V
   - name:
-    designation: 3342 Lunaiad
+    designation: <a href="3342_lunaiad.html">3342 Lunaiad</a>
     ra: 11<sup>h</sup> 09<sup>m</sup> 39.45<sup>s</sup>
     dec: -56° 37' 9.90"
     apparent_magnitude: 6.61
@@ -14296,7 +14296,7 @@ stars:
     distance: 633.85
     spectral_class: M9III + A6III
   - name:
-    designation: 185 Lunaiad
+    designation: <a href="185_lunaiad.html">185 Lunaiad</a>
     ra: 10<sup>h</sup> 29<sup>m</sup> 3.03<sup>s</sup>
     dec: -57° 12' 31.06"
     apparent_magnitude: 6.62
@@ -14576,7 +14576,7 @@ stars:
     distance: 4,524.23
     spectral_class: B2V + B4V
   - name:
-    designation: 3512 Lunaiad
+    designation: <a href="3512_lunaiad.html">3512 Lunaiad</a>
     ra: 8<sup>h</sup> 36<sup>m</sup> 53.37<sup>s</sup>
     dec: -66° 47' 40.54"
     apparent_magnitude: 6.64
@@ -14608,7 +14608,7 @@ stars:
     distance: 1,733.23
     spectral_class: K9III + K8III + A1V + B7V
   - name:
-    designation: 3262 Lunaiad
+    designation: <a href="3262_lunaiad.html">3262 Lunaiad</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 40.86<sup>s</sup>
     dec: -60° 01' 36.57"
     apparent_magnitude: 6.64
@@ -14632,7 +14632,7 @@ stars:
     distance: 535.06
     spectral_class: A9III
   - name:
-    designation: 411 Lunaiad
+    designation: <a href="411_lunaiad.html">411 Lunaiad</a>
     ra: 10<sup>h</sup> 56<sup>m</sup> 1.23<sup>s</sup>
     dec: -61° 09' 33.48"
     apparent_magnitude: 6.64
@@ -14688,7 +14688,7 @@ stars:
     distance: 2,687.45
     spectral_class: M7III + B5V
   - name:
-    designation: 360 Lunaiad
+    designation: <a href="360_lunaiad.html">360 Lunaiad</a>
     ra: 10<sup>h</sup> 09<sup>m</sup> 8.34<sup>s</sup>
     dec: -59° 38' 41.76"
     apparent_magnitude: 6.64
@@ -14704,7 +14704,7 @@ stars:
     distance: 626.22
     spectral_class: M9III + A6III
   - name:
-    designation: 3195 Lunaiad
+    designation: <a href="3195_lunaiad.html">3195 Lunaiad</a>
     ra: 11<sup>h</sup> 09<sup>m</sup> 19.30<sup>s</sup>
     dec: -56° 40' 31.18"
     apparent_magnitude: 6.64
@@ -14712,7 +14712,7 @@ stars:
     distance: 324.88
     spectral_class: K3III
   - name:
-    designation: 3610 Lunaiad
+    designation: <a href="3610_lunaiad.html">3610 Lunaiad</a>
     ra: 10<sup>h</sup> 11<sup>m</sup> 8.64<sup>s</sup>
     dec: -63° 08' 50.47"
     apparent_magnitude: 6.65
@@ -14736,7 +14736,7 @@ stars:
     distance: 3,313.08
     spectral_class: K1III + B2V + A7III
   - name:
-    designation: 367 Lunaiad
+    designation: <a href="367_lunaiad.html">367 Lunaiad</a>
     ra: 9<sup>h</sup> 49<sup>m</sup> 48.26<sup>s</sup>
     dec: -60° 27' 51.63"
     apparent_magnitude: 6.65
@@ -14768,7 +14768,7 @@ stars:
     distance: 2,872.05
     spectral_class: B3V
   - name:
-    designation: 517 Lunaiad
+    designation: <a href="517_lunaiad.html">517 Lunaiad</a>
     ra: 9<sup>h</sup> 25<sup>m</sup> 52.70<sup>s</sup>
     dec: -57° 46' 20.02"
     apparent_magnitude: 6.65
@@ -14776,7 +14776,7 @@ stars:
     distance: 467.19
     spectral_class: F5III
   - name:
-    designation: 1671 Lunaiad
+    designation: <a href="1671_lunaiad.html">1671 Lunaiad</a>
     ra: 11<sup>h</sup> 01<sup>m</sup> 41.21<sup>s</sup>
     dec: -63° 11' 40.04"
     apparent_magnitude: 6.65
@@ -14792,7 +14792,7 @@ stars:
     distance: 643.02
     spectral_class: M9III + A6III
   - name:
-    designation: 887 Lunaiad
+    designation: <a href="887_lunaiad.html">887 Lunaiad</a>
     ra: 9<sup>h</sup> 45<sup>m</sup> 20.41<sup>s</sup>
     dec: -61° 08' 14.33"
     apparent_magnitude: 6.65
@@ -14992,7 +14992,7 @@ stars:
     distance: 2,035.52
     spectral_class: A6V + B6V
   - name:
-    designation: 2619 Lunaiad
+    designation: <a href="2619_lunaiad.html">2619 Lunaiad</a>
     ra: 9<sup>h</sup> 10<sup>m</sup> 55.01<sup>s</sup>
     dec: -60° 56' 0.40"
     apparent_magnitude: 6.66
@@ -15344,7 +15344,7 @@ stars:
     distance: 745.42
     spectral_class: A6III
   - name:
-    designation: 3487 Lunaiad
+    designation: <a href="3487_lunaiad.html">3487 Lunaiad</a>
     ra: 9<sup>h</sup> 37<sup>m</sup> 5.30<sup>s</sup>
     dec: -73° 01' 49.42"
     apparent_magnitude: 6.68
@@ -15352,7 +15352,7 @@ stars:
     distance: 199.40
     spectral_class: K8V
   - name:
-    designation: 981 Lunaiad
+    designation: <a href="981_lunaiad.html">981 Lunaiad</a>
     ra: 9<sup>h</sup> 23<sup>m</sup> 22.17<sup>s</sup>
     dec: -67° 10' 22.04"
     apparent_magnitude: 6.68
@@ -15360,7 +15360,7 @@ stars:
     distance: 528.30
     spectral_class: F5III
   - name:
-    designation: 3300 Lunaiad
+    designation: <a href="3300_lunaiad.html">3300 Lunaiad</a>
     ra: 10<sup>h</sup> 06<sup>m</sup> 57.04<sup>s</sup>
     dec: -55° 51' 51.55"
     apparent_magnitude: 6.68
@@ -15488,7 +15488,7 @@ stars:
     distance: 424.64
     spectral_class: K4III + A1V
   - name:
-    designation: 1819 Lunaiad
+    designation: <a href="1819_lunaiad.html">1819 Lunaiad</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 16.57<sup>s</sup>
     dec: -65° 39' 2.57"
     apparent_magnitude: 6.70
@@ -15672,7 +15672,7 @@ stars:
     distance: 2,632.59
     spectral_class: B5V + A4III
   - name:
-    designation: 3308 Lunaiad
+    designation: <a href="3308_lunaiad.html">3308 Lunaiad</a>
     ra: 10<sup>h</sup> 05<sup>m</sup> 28.23<sup>s</sup>
     dec: -68° 39' 30.26"
     apparent_magnitude: 6.71
@@ -15944,7 +15944,7 @@ stars:
     distance: 318.31
     spectral_class: G9V + F8V
   - name:
-    designation: 3488 Lunaiad
+    designation: <a href="3488_lunaiad.html">3488 Lunaiad</a>
     ra: 8<sup>h</sup> 35<sup>m</sup> 17.87<sup>s</sup>
     dec: -67° 57' 29.08"
     apparent_magnitude: 6.72
@@ -15952,7 +15952,7 @@ stars:
     distance: 211.33
     spectral_class: F9V
   - name:
-    designation: 3246 Lunaiad
+    designation: <a href="3246_lunaiad.html">3246 Lunaiad</a>
     ra: 10<sup>h</sup> 49<sup>m</sup> 44.10<sup>s</sup>
     dec: -73° 56' 48.19"
     apparent_magnitude: 6.73
@@ -16112,7 +16112,7 @@ stars:
     distance: 1,020.11
     spectral_class: DB + A4III
   - name:
-    designation: 506 Lunaiad
+    designation: <a href="506_lunaiad.html">506 Lunaiad</a>
     ra: 11<sup>h</sup> 14<sup>m</sup> 24.26<sup>s</sup>
     dec: -61° 35' 8.36"
     apparent_magnitude: 6.73
@@ -16208,7 +16208,7 @@ stars:
     distance: 2,648.98
     spectral_class: B5V + A4III
   - name:
-    designation: 2039 Lunaiad
+    designation: <a href="2039_lunaiad.html">2039 Lunaiad</a>
     ra: 9<sup>h</sup> 31<sup>m</sup> 19.47<sup>s</sup>
     dec: -73° 33' 7.43"
     apparent_magnitude: 6.74
@@ -16240,7 +16240,7 @@ stars:
     distance: 1,736.14
     spectral_class: M9III + DO + A2II
   - name:
-    designation: 3330 Lunaiad
+    designation: <a href="3330_lunaiad.html">3330 Lunaiad</a>
     ra: 10<sup>h</sup> 39<sup>m</sup> 23.24<sup>s</sup>
     dec: -57° 57' 9.47"
     apparent_magnitude: 6.74
@@ -16400,7 +16400,7 @@ stars:
     distance: 2,072.21
     spectral_class: A6V + B6V
   - name:
-    designation: 217 Lunaiad
+    designation: <a href="217_lunaiad.html">217 Lunaiad</a>
     ra: 9<sup>h</sup> 29<sup>m</sup> 0.52<sup>s</sup>
     dec: -55° 32' 38.22"
     apparent_magnitude: 6.75
@@ -16704,7 +16704,7 @@ stars:
     distance: 509.24
     spectral_class: M5III + A2V
   - name:
-    designation: 2197 Lunaiad
+    designation: <a href="2197_lunaiad.html">2197 Lunaiad</a>
     ra: 9<sup>h</sup> 33<sup>m</sup> 54.14<sup>s</sup>
     dec: -59° 07' 44.08"
     apparent_magnitude: 6.76
@@ -16880,7 +16880,7 @@ stars:
     distance: 446.66
     spectral_class: A8IV
   - name:
-    designation: 2018 Lunaiad
+    designation: <a href="2018_lunaiad.html">2018 Lunaiad</a>
     ra: 8<sup>h</sup> 52<sup>m</sup> 11.00<sup>s</sup>
     dec: -59° 19' 34.67"
     apparent_magnitude: 6.77
@@ -16960,7 +16960,7 @@ stars:
     distance: 3,407.73
     spectral_class: K1III + B2V + A7III
   - name:
-    designation: 3307 Lunaiad
+    designation: <a href="3307_lunaiad.html">3307 Lunaiad</a>
     ra: 10<sup>h</sup> 59<sup>m</sup> 7.27<sup>s</sup>
     dec: -70° 17' 35.33"
     apparent_magnitude: 6.78
@@ -17056,7 +17056,7 @@ stars:
     distance: 838.66
     spectral_class: K7III + F9V + B9V
   - name:
-    designation: 227 Lunaiad
+    designation: <a href="227_lunaiad.html">227 Lunaiad</a>
     ra: 9<sup>h</sup> 32<sup>m</sup> 35.82<sup>s</sup>
     dec: -57° 36' 2.57"
     apparent_magnitude: 6.78
@@ -17176,7 +17176,7 @@ stars:
     distance: 1,213.31
     spectral_class: A3III
   - name:
-    designation: 1429 Lunaiad
+    designation: <a href="1429_lunaiad.html">1429 Lunaiad</a>
     ra: 10<sup>h</sup> 01<sup>m</sup> 54.49<sup>s</sup>
     dec: -55° 17' 44.04"
     apparent_magnitude: 6.79
@@ -17272,7 +17272,7 @@ stars:
     distance: 671.05
     spectral_class: A7III
   - name:
-    designation: 2302 Lunaiad
+    designation: <a href="2302_lunaiad.html">2302 Lunaiad</a>
     ra: 9<sup>h</sup> 11<sup>m</sup> 1.95<sup>s</sup>
     dec: -64° 51' 44.31"
     apparent_magnitude: 6.79
@@ -17512,7 +17512,7 @@ stars:
     distance: 946.83
     spectral_class: A5V + A6III
   - name:
-    designation: 2286 Lunaiad
+    designation: <a href="2286_lunaiad.html">2286 Lunaiad</a>
     ra: 11<sup>h</sup> 10<sup>m</sup> 26.90<sup>s</sup>
     dec: -69° 43' 54.93"
     apparent_magnitude: 6.81
@@ -17752,7 +17752,7 @@ stars:
     distance: 2,819.15
     spectral_class: K8III + K1III + B5V
   - name:
-    designation: 1573 Lunaiad
+    designation: <a href="1573_lunaiad.html">1573 Lunaiad</a>
     ra: 10<sup>h</sup> 19<sup>m</sup> 22.34<sup>s</sup>
     dec: -55° 24' 48.86"
     apparent_magnitude: 6.82
@@ -17760,7 +17760,7 @@ stars:
     distance: 458.05
     spectral_class: F4III
   - name:
-    designation: 3124 Lunaiad
+    designation: <a href="3124_lunaiad.html">3124 Lunaiad</a>
     ra: 10<sup>h</sup> 12<sup>m</sup> 58.28<sup>s</sup>
     dec: -55° 49' 51.89"
     apparent_magnitude: 6.82
@@ -17816,7 +17816,7 @@ stars:
     distance: 598.34
     spectral_class: A9III
   - name:
-    designation: 1241 Lunaiad
+    designation: <a href="1241_lunaiad.html">1241 Lunaiad</a>
     ra: 10<sup>h</sup> 21<sup>m</sup> 25.38<sup>s</sup>
     dec: -56° 13' 25.74"
     apparent_magnitude: 6.82
@@ -17872,7 +17872,7 @@ stars:
     distance: 613.00
     spectral_class: A9II
   - name:
-    designation: 240 Lunaiad
+    designation: <a href="240_lunaiad.html">240 Lunaiad</a>
     ra: 9<sup>h</sup> 46<sup>m</sup> 42.27<sup>s</sup>
     dec: -56° 20' 43.44"
     apparent_magnitude: 6.82
@@ -17896,7 +17896,7 @@ stars:
     distance: 1,262.64
     spectral_class: A5II
   - name:
-    designation: 1764 Lunaiad
+    designation: <a href="1764_lunaiad.html">1764 Lunaiad</a>
     ra: 10<sup>h</sup> 28<sup>m</sup> 24.27<sup>s</sup>
     dec: -55° 37' 59.43"
     apparent_magnitude: 6.82
@@ -18312,7 +18312,7 @@ stars:
     distance: 1,583.41
     spectral_class: B8V
   - name:
-    designation: 3522 Lunaiad
+    designation: <a href="3522_lunaiad.html">3522 Lunaiad</a>
     ra: 11<sup>h</sup> 02<sup>m</sup> 39.74<sup>s</sup>
     dec: -74° 48' 43.51"
     apparent_magnitude: 6.85
@@ -18344,7 +18344,7 @@ stars:
     distance: 3,463.93
     spectral_class: K1III + B2V + A7III
   - name:
-    designation: 3267 Lunaiad
+    designation: <a href="3267_lunaiad.html">3267 Lunaiad</a>
     ra: 10<sup>h</sup> 03<sup>m</sup> 34.91<sup>s</sup>
     dec: -56° 48' 21.73"
     apparent_magnitude: 6.85
@@ -18456,7 +18456,7 @@ stars:
     distance: 1,584.61
     spectral_class: B8V
   - name:
-    designation: 419 Lunaiad
+    designation: <a href="419_lunaiad.html">419 Lunaiad</a>
     ra: 9<sup>h</sup> 44<sup>m</sup> 18.22<sup>s</sup>
     dec: -60° 02' 31.02"
     apparent_magnitude: 6.86
@@ -18656,7 +18656,7 @@ stars:
     distance: 838.78
     spectral_class: A9V + A7II
   - name:
-    designation: 627 Lunaiad
+    designation: <a href="627_lunaiad.html">627 Lunaiad</a>
     ra: 11<sup>h</sup> 01<sup>m</sup> 2.85<sup>s</sup>
     dec: -57° 58' 37.88"
     apparent_magnitude: 6.86
@@ -18736,7 +18736,7 @@ stars:
     distance: 520.26
     spectral_class: G9III + A9III
   - name:
-    designation: 1495 Lunaiad
+    designation: <a href="1495_lunaiad.html">1495 Lunaiad</a>
     ra: 10<sup>h</sup> 03<sup>m</sup> 30.87<sup>s</sup>
     dec: -56° 39' 27.12"
     apparent_magnitude: 6.87
@@ -18824,7 +18824,7 @@ stars:
     distance: 888.78
     spectral_class: A2V + A5III
   - name:
-    designation: 2005 Lunaiad
+    designation: <a href="2005_lunaiad.html">2005 Lunaiad</a>
     ra: 10<sup>h</sup> 39<sup>m</sup> 37.35<sup>s</sup>
     dec: -65° 24' 7.78"
     apparent_magnitude: 6.87
@@ -18848,7 +18848,7 @@ stars:
     distance: 1,108.31
     spectral_class: A4III
   - name:
-    designation: 3310 Lunaiad
+    designation: <a href="3310_lunaiad.html">3310 Lunaiad</a>
     ra: 10<sup>h</sup> 40<sup>m</sup> 56.95<sup>s</sup>
     dec: -72° 13' 34.08"
     apparent_magnitude: 6.87
@@ -18920,7 +18920,7 @@ stars:
     distance: 2,666.00
     spectral_class: K6III + B6V
   - name:
-    designation: 2936 Lunaiad
+    designation: <a href="2936_lunaiad.html">2936 Lunaiad</a>
     ra: 9<sup>h</sup> 06<sup>m</sup> 51.50<sup>s</sup>
     dec: -58° 24' 30.99"
     apparent_magnitude: 6.88
@@ -19104,7 +19104,7 @@ stars:
     distance: 651.41
     spectral_class: M9III + A6III
   - name:
-    designation: 407 Lunaiad
+    designation: <a href="407_lunaiad.html">407 Lunaiad</a>
     ra: 10<sup>h</sup> 01<sup>m</sup> 19.96<sup>s</sup>
     dec: -59° 14' 33.59"
     apparent_magnitude: 6.89
@@ -19184,7 +19184,7 @@ stars:
     distance: 965.30
     spectral_class: A5III
   - name:
-    designation: 3198 Lunaiad
+    designation: <a href="3198_lunaiad.html">3198 Lunaiad</a>
     ra: 10<sup>h</sup> 49<sup>m</sup> 57.60<sup>s</sup>
     dec: -55° 19' 9.30"
     apparent_magnitude: 6.89
@@ -19312,7 +19312,7 @@ stars:
     distance: 1,853.63
     spectral_class: K9III + K8III + A1V + B7V
   - name:
-    designation: 727 Lunaiad
+    designation: <a href="727_lunaiad.html">727 Lunaiad</a>
     ra: 8<sup>h</sup> 57<sup>m</sup> 37.97<sup>s</sup>
     dec: -67° 35' 22.18"
     apparent_magnitude: 6.90
@@ -19352,7 +19352,7 @@ stars:
     distance: 3,056.81
     spectral_class: A3III + B5V
   - name:
-    designation: 521 Lunaiad
+    designation: <a href="521_lunaiad.html">521 Lunaiad</a>
     ra: 8<sup>h</sup> 42<sup>m</sup> 52.27<sup>s</sup>
     dec: -62° 23' 3.62"
     apparent_magnitude: 6.90
@@ -19448,7 +19448,7 @@ stars:
     distance: 2,262.31
     spectral_class: K8III + B7V
   - name:
-    designation: 865 Lunaiad
+    designation: <a href="865_lunaiad.html">865 Lunaiad</a>
     ra: 10<sup>h</sup> 49<sup>m</sup> 45.18<sup>s</sup>
     dec: -61° 26' 19.96"
     apparent_magnitude: 6.91
@@ -19528,7 +19528,7 @@ stars:
     distance: 1,132.27
     spectral_class: A7II
   - name:
-    designation: 687 Lunaiad
+    designation: <a href="687_lunaiad.html">687 Lunaiad</a>
     ra: 8<sup>h</sup> 45<sup>m</sup> 53.38<sup>s</sup>
     dec: -55° 57' 38.27"
     apparent_magnitude: 6.91
@@ -19568,7 +19568,7 @@ stars:
     distance: 1,162.07
     spectral_class: M0III + A3III
   - name:
-    designation: 509 Lunaiad
+    designation: <a href="509_lunaiad.html">509 Lunaiad</a>
     ra: 8<sup>h</sup> 36<sup>m</sup> 31.59<sup>s</sup>
     dec: -58° 02' 34.19"
     apparent_magnitude: 6.91
@@ -19600,7 +19600,7 @@ stars:
     distance: 333.46
     spectral_class: K5III
   - name:
-    designation: 1297 Lunaiad
+    designation: <a href="1297_lunaiad.html">1297 Lunaiad</a>
     ra: 10<sup>h</sup> 22<sup>m</sup> 38.19<sup>s</sup>
     dec: -58° 44' 46.44"
     apparent_magnitude: 6.91
@@ -19696,7 +19696,7 @@ stars:
     distance: 519.89
     spectral_class: G9III + A9III
   - name:
-    designation: 275 Lunaiad
+    designation: <a href="275_lunaiad.html">275 Lunaiad</a>
     ra: 10<sup>h</sup> 22<sup>m</sup> 34.91<sup>s</sup>
     dec: -55° 22' 15.18"
     apparent_magnitude: 6.92
@@ -19864,7 +19864,7 @@ stars:
     distance: 913.99
     spectral_class: K1III + A4III
   - name:
-    designation: 3193 Lunaiad
+    designation: <a href="3193_lunaiad.html">3193 Lunaiad</a>
     ra: 11<sup>h</sup> 15<sup>m</sup> 43.93<sup>s</sup>
     dec: -56° 46' 4.36"
     apparent_magnitude: 6.93
@@ -19984,7 +19984,7 @@ stars:
     distance: 2,971.47
     spectral_class: M5II + B4V
   - name:
-    designation: 1291 Lunaiad
+    designation: <a href="1291_lunaiad.html">1291 Lunaiad</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 58.07<sup>s</sup>
     dec: -57° 15' 38.67"
     apparent_magnitude: 6.94
@@ -20104,7 +20104,7 @@ stars:
     distance: 782.46
     spectral_class: F4III + A7III
   - name:
-    designation: 3233 Lunaiad
+    designation: <a href="3233_lunaiad.html">3233 Lunaiad</a>
     ra: 10<sup>h</sup> 15<sup>m</sup> 19.49<sup>s</sup>
     dec: -55° 40' 22.88"
     apparent_magnitude: 6.94
@@ -20144,7 +20144,7 @@ stars:
     distance: 1,105.97
     spectral_class: M7III + A2III
   - name:
-    designation: 285 Lunaiad
+    designation: <a href="285_lunaiad.html">285 Lunaiad</a>
     ra: 10<sup>h</sup> 58<sup>m</sup> 22.48<sup>s</sup>
     dec: -55° 02' 10.92"
     apparent_magnitude: 6.95
@@ -20192,7 +20192,7 @@ stars:
     distance: 1,952.80
     spectral_class: A2V + A3II
   - name:
-    designation: 713 Lunaiad
+    designation: <a href="713_lunaiad.html">713 Lunaiad</a>
     ra: 8<sup>h</sup> 45<sup>m</sup> 39.18<sup>s</sup>
     dec: -62° 00' 2.39"
     apparent_magnitude: 6.95
@@ -20200,7 +20200,7 @@ stars:
     distance: 845.22
     spectral_class: A2IV
   - name:
-    designation: 2517 Lunaiad
+    designation: <a href="2517_lunaiad.html">2517 Lunaiad</a>
     ra: 9<sup>h</sup> 18<sup>m</sup> 38.12<sup>s</sup>
     dec: -59° 02' 38.24"
     apparent_magnitude: 6.95
@@ -20344,7 +20344,7 @@ stars:
     distance: 1,103.68
     spectral_class: K4III + Black Hole + A8III
   - name:
-    designation: 948 Lunaiad
+    designation: <a href="948_lunaiad.html">948 Lunaiad</a>
     ra: 8<sup>h</sup> 40<sup>m</sup> 49.26<sup>s</sup>
     dec: -56° 42' 41.17"
     apparent_magnitude: 6.96
@@ -20392,7 +20392,7 @@ stars:
     distance: 2,900.28
     spectral_class: A5III + B5V
   - name:
-    designation: 884 Lunaiad
+    designation: <a href="884_lunaiad.html">884 Lunaiad</a>
     ra: 9<sup>h</sup> 08<sup>m</sup> 57.86<sup>s</sup>
     dec: -54° 55' 19.17"
     apparent_magnitude: 6.96
@@ -20400,7 +20400,7 @@ stars:
     distance: 746.98
     spectral_class: A2V + A1V + F5V + A7III
   - name:
-    designation: 2626 Lunaiad
+    designation: <a href="2626_lunaiad.html">2626 Lunaiad</a>
     ra: 10<sup>h</sup> 36<sup>m</sup> 53.29<sup>s</sup>
     dec: -69° 53' 46.98"
     apparent_magnitude: 6.96
@@ -20488,7 +20488,7 @@ stars:
     distance: 969.64
     spectral_class: A5V + A6III
   - name:
-    designation: 2078 Lunaiad
+    designation: <a href="2078_lunaiad.html">2078 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 52.43<sup>s</sup>
     dec: -61° 45' 4.95"
     apparent_magnitude: 6.96
@@ -20504,7 +20504,7 @@ stars:
     distance: 492.99
     spectral_class: A8III
   - name:
-    designation: 3469 Lunaiad
+    designation: <a href="3469_lunaiad.html">3469 Lunaiad</a>
     ra: 10<sup>h</sup> 22<sup>m</sup> 13.75<sup>s</sup>
     dec: -66° 01' 16.85"
     apparent_magnitude: 6.97
@@ -20512,7 +20512,7 @@ stars:
     distance: 221.49
     spectral_class: K8III
   - name:
-    designation: 3284 Lunaiad
+    designation: <a href="3284_lunaiad.html">3284 Lunaiad</a>
     ra: 9<sup>h</sup> 46<sup>m</sup> 29.76<sup>s</sup>
     dec: -65° 35' 33.45"
     apparent_magnitude: 6.97
@@ -20600,7 +20600,7 @@ stars:
     distance: 818.68
     spectral_class: DB + A6III
   - name:
-    designation: 296 Lunaiad
+    designation: <a href="296_lunaiad.html">296 Lunaiad</a>
     ra: 9<sup>h</sup> 32<sup>m</sup> 50.53<sup>s</sup>
     dec: -56° 35' 11.40"
     apparent_magnitude: 6.97
@@ -20640,7 +20640,7 @@ stars:
     distance: 1,133.80
     spectral_class: A7II
   - name:
-    designation: 2265 Lunaiad
+    designation: <a href="2265_lunaiad.html">2265 Lunaiad</a>
     ra: 8<sup>h</sup> 38<sup>m</sup> 55.91<sup>s</sup>
     dec: -56° 05' 46.72"
     apparent_magnitude: 6.97
@@ -20720,7 +20720,7 @@ stars:
     distance: 517.20
     spectral_class: F6V + A9III
   - name:
-    designation: 2644 Lunaiad
+    designation: <a href="2644_lunaiad.html">2644 Lunaiad</a>
     ra: 8<sup>h</sup> 53<sup>m</sup> 15.48<sup>s</sup>
     dec: -64° 15' 5.26"
     apparent_magnitude: 6.98
@@ -20728,7 +20728,7 @@ stars:
     distance: 557.65
     spectral_class: F5III
   - name:
-    designation: 3516 Lunaiad
+    designation: <a href="3516_lunaiad.html">3516 Lunaiad</a>
     ra: 11<sup>h</sup> 11<sup>m</sup> 33.26<sup>s</sup>
     dec: -72° 46' 8.45"
     apparent_magnitude: 6.98
@@ -20840,7 +20840,7 @@ stars:
     distance: 2,462.59
     spectral_class: DA + G4Ib
   - name:
-    designation: 3213 Lunaiad
+    designation: <a href="3213_lunaiad.html">3213 Lunaiad</a>
     ra: 10<sup>h</sup> 29<sup>m</sup> 17.65<sup>s</sup>
     dec: -55° 19' 38.43"
     apparent_magnitude: 6.98
@@ -21152,7 +21152,7 @@ stars:
     distance: 406.00
     spectral_class: F7III
   - name:
-    designation: 3205 Lunaiad
+    designation: <a href="3205_lunaiad.html">3205 Lunaiad</a>
     ra: 10<sup>h</sup> 41<sup>m</sup> 38.72<sup>s</sup>
     dec: -56° 40' 8.34"
     apparent_magnitude: 7.00
@@ -21184,7 +21184,7 @@ stars:
     distance: 910.46
     spectral_class: A2V + A5III
   - name:
-    designation: 3514 Lunaiad
+    designation: <a href="3514_lunaiad.html">3514 Lunaiad</a>
     ra: 11<sup>h</sup> 11<sup>m</sup> 43.03<sup>s</sup>
     dec: -70° 46' 12.87"
     apparent_magnitude: 7.00
@@ -21304,7 +21304,7 @@ stars:
     distance: 615.93
     spectral_class: A5IV
   - name:
-    designation: 313 Lunaiad
+    designation: <a href="313_lunaiad.html">313 Lunaiad</a>
     ra: 11<sup>h</sup> 02<sup>m</sup> 53.29<sup>s</sup>
     dec: -56° 19' 2.54"
     apparent_magnitude: 7.01
@@ -21328,7 +21328,7 @@ stars:
     distance: 1,124.68
     spectral_class: M7III + A2III
   - name:
-    designation: 3323 Lunaiad
+    designation: <a href="3323_lunaiad.html">3323 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 9.09<sup>s</sup>
     dec: -57° 27' 46.38"
     apparent_magnitude: 7.01
@@ -21344,7 +21344,7 @@ stars:
     distance: 767.01
     spectral_class: F4III + A7III
   - name:
-    designation: 1932 Lunaiad
+    designation: <a href="1932_lunaiad.html">1932 Lunaiad</a>
     ra: 10<sup>h</sup> 18<sup>m</sup> 26.34<sup>s</sup>
     dec: -55° 42' 14.00"
     apparent_magnitude: 7.01
@@ -21592,7 +21592,7 @@ stars:
     distance: 1,739.96
     spectral_class: A2II
   - name:
-    designation: 2176 Lunaiad
+    designation: <a href="2176_lunaiad.html">2176 Lunaiad</a>
     ra: 10<sup>h</sup> 36<sup>m</sup> 4.99<sup>s</sup>
     dec: -59° 59' 37.45"
     apparent_magnitude: 7.03
@@ -21640,7 +21640,7 @@ stars:
     distance: 1,196.77
     spectral_class: M0III + A3III
   - name:
-    designation: 3272 Lunaiad
+    designation: <a href="3272_lunaiad.html">3272 Lunaiad</a>
     ra: 10<sup>h</sup> 53<sup>m</sup> 28.70<sup>s</sup>
     dec: -73° 08' 46.01"
     apparent_magnitude: 7.03
@@ -21744,7 +21744,7 @@ stars:
     distance: 1,200.94
     spectral_class: F5V + B8V
   - name:
-    designation: 3219 Lunaiad
+    designation: <a href="3219_lunaiad.html">3219 Lunaiad</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 17.72<sup>s</sup>
     dec: -59° 27' 25.17"
     apparent_magnitude: 7.04
@@ -21920,7 +21920,7 @@ stars:
     distance: 338.57
     spectral_class: K1V + F9V
   - name:
-    designation: 3051 Lunaiad
+    designation: <a href="3051_lunaiad.html">3051 Lunaiad</a>
     ra: 10<sup>h</sup> 36<sup>m</sup> 52.21<sup>s</sup>
     dec: -59° 11' 36.19"
     apparent_magnitude: 7.05
@@ -21936,7 +21936,7 @@ stars:
     distance: 1,541.34
     spectral_class: F8V + B8V
   - name:
-    designation: 330 Lunaiad
+    designation: <a href="330_lunaiad.html">330 Lunaiad</a>
     ra: 9<sup>h</sup> 45<sup>m</sup> 51.68<sup>s</sup>
     dec: -55° 10' 46.98"
     apparent_magnitude: 7.05
@@ -21968,7 +21968,7 @@ stars:
     distance: 1,302.04
     spectral_class: M0III + B9III
   - name:
-    designation: 2601 Lunaiad
+    designation: <a href="2601_lunaiad.html">2601 Lunaiad</a>
     ra: 8<sup>h</sup> 35<sup>m</sup> 46.78<sup>s</sup>
     dec: -56° 01' 55.94"
     apparent_magnitude: 7.05
@@ -21984,7 +21984,7 @@ stars:
     distance: 759.36
     spectral_class: F7V + A8V + B9V
   - name:
-    designation: 1431 Lunaiad
+    designation: <a href="1431_lunaiad.html">1431 Lunaiad</a>
     ra: 10<sup>h</sup> 48<sup>m</sup> 11.15<sup>s</sup>
     dec: -55° 40' 6.21"
     apparent_magnitude: 7.05
@@ -22064,7 +22064,7 @@ stars:
     distance: 1,776.63
     spectral_class: A3V + B7V
   - name:
-    designation: 3209 Lunaiad
+    designation: <a href="3209_lunaiad.html">3209 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 20.32<sup>s</sup>
     dec: -54° 49' 46.38"
     apparent_magnitude: 7.06
@@ -22120,7 +22120,7 @@ stars:
     distance: 572.45
     spectral_class: A9V + A9II
   - name:
-    designation: 1353 Lunaiad
+    designation: <a href="1353_lunaiad.html">1353 Lunaiad</a>
     ra: 10<sup>h</sup> 20<sup>m</sup> 12.04<sup>s</sup>
     dec: -58° 15' 55.88"
     apparent_magnitude: 7.06
@@ -22216,7 +22216,7 @@ stars:
     distance: 1,512.66
     spectral_class: M9III + B8V
   - name:
-    designation: 1765 Lunaiad
+    designation: <a href="1765_lunaiad.html">1765 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 47.03<sup>s</sup>
     dec: -55° 51' 18.26"
     apparent_magnitude: 7.07
@@ -22304,7 +22304,7 @@ stars:
     distance: 667.80
     spectral_class: M9III + A6III
   - name:
-    designation: 3212 Lunaiad
+    designation: <a href="3212_lunaiad.html">3212 Lunaiad</a>
     ra: 10<sup>h</sup> 32<sup>m</sup> 20.31<sup>s</sup>
     dec: -55° 51' 39.79"
     apparent_magnitude: 7.07
@@ -22712,7 +22712,7 @@ stars:
     distance: 794.49
     spectral_class: A8III + A8III
   - name:
-    designation: 1652 Lunaiad
+    designation: <a href="1652_lunaiad.html">1652 Lunaiad</a>
     ra: 9<sup>h</sup> 27<sup>m</sup> 36.30<sup>s</sup>
     dec: -56° 56' 11.28"
     apparent_magnitude: 7.10
@@ -22744,7 +22744,7 @@ stars:
     distance: 631.65
     spectral_class: F0III
   - name:
-    designation: 1345 Lunaiad
+    designation: <a href="1345_lunaiad.html">1345 Lunaiad</a>
     ra: 10<sup>h</sup> 40<sup>m</sup> 3.07<sup>s</sup>
     dec: -56° 47' 10.51"
     apparent_magnitude: 7.11
@@ -22784,7 +22784,7 @@ stars:
     distance: 657.90
     spectral_class: A5IV
   - name:
-    designation: 1647 Lunaiad
+    designation: <a href="1647_lunaiad.html">1647 Lunaiad</a>
     ra: 10<sup>h</sup> 11<sup>m</sup> 43.76<sup>s</sup>
     dec: -56° 21' 13.10"
     apparent_magnitude: 7.11
@@ -23000,7 +23000,7 @@ stars:
     distance: 1,066.80
     spectral_class: K9III + B8V
   - name:
-    designation: 1494 Lunaiad
+    designation: <a href="1494_lunaiad.html">1494 Lunaiad</a>
     ra: 10<sup>h</sup> 41<sup>m</sup> 18.91<sup>s</sup>
     dec: -55° 03' 49.63"
     apparent_magnitude: 7.12
@@ -23192,7 +23192,7 @@ stars:
     distance: 1,221.38
     spectral_class: K2III + A2III
   - name:
-    designation: 1574 Lunaiad
+    designation: <a href="1574_lunaiad.html">1574 Lunaiad</a>
     ra: 10<sup>h</sup> 56<sup>m</sup> 23.27<sup>s</sup>
     dec: -55° 30' 31.81"
     apparent_magnitude: 7.13
@@ -23224,7 +23224,7 @@ stars:
     distance: 789.28
     spectral_class: K8III + M8III + B9V
   - name:
-    designation: 1497 Lunaiad
+    designation: <a href="1497_lunaiad.html">1497 Lunaiad</a>
     ra: 10<sup>h</sup> 49<sup>m</sup> 3.03<sup>s</sup>
     dec: -56° 21' 38.86"
     apparent_magnitude: 7.13
@@ -23296,7 +23296,7 @@ stars:
     distance: 782.24
     spectral_class: G4III + A8III
   - name:
-    designation: 3252 Lunaiad
+    designation: <a href="3252_lunaiad.html">3252 Lunaiad</a>
     ra: 11<sup>h</sup> 10<sup>m</sup> 56.01<sup>s</sup>
     dec: -68° 36' 33.81"
     apparent_magnitude: 7.14
@@ -23424,7 +23424,7 @@ stars:
     distance: 984.07
     spectral_class: B9V
   - name:
-    designation: 629 Lunaiad
+    designation: <a href="629_lunaiad.html">629 Lunaiad</a>
     ra: 11<sup>h</sup> 14<sup>m</sup> 31.65<sup>s</sup>
     dec: -57° 47' 25.48"
     apparent_magnitude: 7.15
@@ -23552,7 +23552,7 @@ stars:
     distance: 860.62
     spectral_class: A3IV
   - name:
-    designation: 3291 Lunaiad
+    designation: <a href="3291_lunaiad.html">3291 Lunaiad</a>
     ra: 11<sup>h</sup> 02<sup>m</sup> 57.71<sup>s</sup>
     dec: -67° 53' 39.62"
     apparent_magnitude: 7.16
@@ -23568,7 +23568,7 @@ stars:
     distance: 1,097.48
     spectral_class: DB + A4III
   - name:
-    designation: 1787 Lunaiad
+    designation: <a href="1787_lunaiad.html">1787 Lunaiad</a>
     ra: 10<sup>h</sup> 10<sup>m</sup> 6.31<sup>s</sup>
     dec: -58° 21' 9.33"
     apparent_magnitude: 7.16
@@ -23656,7 +23656,7 @@ stars:
     distance: 889.53
     spectral_class: A6III
   - name:
-    designation: 1795 Lunaiad
+    designation: <a href="1795_lunaiad.html">1795 Lunaiad</a>
     ra: 9<sup>h</sup> 26<sup>m</sup> 7.40<sup>s</sup>
     dec: -57° 58' 22.20"
     apparent_magnitude: 7.16
@@ -23672,7 +23672,7 @@ stars:
     distance: 1,323.08
     spectral_class: M0III + B9III
   - name:
-    designation: 2743 Lunaiad
+    designation: <a href="2743_lunaiad.html">2743 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 41.72<sup>s</sup>
     dec: -62° 55' 5.41"
     apparent_magnitude: 7.16
@@ -23720,7 +23720,7 @@ stars:
     distance: 997.84
     spectral_class: A5V + A6III
   - name:
-    designation: 661 Lunaiad
+    designation: <a href="661_lunaiad.html">661 Lunaiad</a>
     ra: 10<sup>h</sup> 48<sup>m</sup> 47.01<sup>s</sup>
     dec: -60° 53' 44.90"
     apparent_magnitude: 7.17
@@ -23928,7 +23928,7 @@ stars:
     distance: 1,013.40
     spectral_class: M9III + A6III
   - name:
-    designation: 868 Lunaiad
+    designation: <a href="868_lunaiad.html">868 Lunaiad</a>
     ra: 11<sup>h</sup> 05<sup>m</sup> 8.04<sup>s</sup>
     dec: -61° 08' 42.42"
     apparent_magnitude: 7.19
@@ -24112,7 +24112,7 @@ stars:
     distance: 1,327.89
     spectral_class: A3III
   - name:
-    designation: 1645 Lunaiad
+    designation: <a href="1645_lunaiad.html">1645 Lunaiad</a>
     ra: 9<sup>h</sup> 39<sup>m</sup> 32.47<sup>s</sup>
     dec: -55° 41' 11.78"
     apparent_magnitude: 7.20
@@ -24408,7 +24408,7 @@ stars:
     distance: 656.87
     spectral_class: A5IV
   - name:
-    designation: 2488 Lunaiad
+    designation: <a href="2488_lunaiad.html">2488 Lunaiad</a>
     ra: 10<sup>h</sup> 19<sup>m</sup> 7.51<sup>s</sup>
     dec: -60° 21' 20.37"
     apparent_magnitude: 7.23
@@ -24464,7 +24464,7 @@ stars:
     distance: 1,056.18
     spectral_class: A3III
   - name:
-    designation: 915 Lunaiad
+    designation: <a href="915_lunaiad.html">915 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 38.96<sup>s</sup>
     dec: -64° 24' 11.69"
     apparent_magnitude: 7.23
@@ -24480,7 +24480,7 @@ stars:
     distance: 408.62
     spectral_class: A9IV
   - name:
-    designation: 422 Lunaiad
+    designation: <a href="422_lunaiad.html">422 Lunaiad</a>
     ra: 10<sup>h</sup> 57<sup>m</sup> 18.30<sup>s</sup>
     dec: -55° 27' 20.08"
     apparent_magnitude: 7.23
@@ -24728,7 +24728,7 @@ stars:
     distance: 659.09
     spectral_class: A8III
   - name:
-    designation: 476 Lunaiad
+    designation: <a href="476_lunaiad.html">476 Lunaiad</a>
     ra: 10<sup>h</sup> 24<sup>m</sup> 23.11<sup>s</sup>
     dec: -55° 55' 11.93"
     apparent_magnitude: 7.26
@@ -24736,7 +24736,7 @@ stars:
     distance: 538.95
     spectral_class: F4III
   - name:
-    designation: 484 Lunaiad
+    designation: <a href="484_lunaiad.html">484 Lunaiad</a>
     ra: 9<sup>h</sup> 36<sup>m</sup> 43.63<sup>s</sup>
     dec: -56° 52' 27.25"
     apparent_magnitude: 7.26
@@ -24800,7 +24800,7 @@ stars:
     distance: 1,317.16
     spectral_class: A2III
   - name:
-    designation: 1784 Lunaiad
+    designation: <a href="1784_lunaiad.html">1784 Lunaiad</a>
     ra: 9<sup>h</sup> 38<sup>m</sup> 2.13<sup>s</sup>
     dec: -56° 57' 57.08"
     apparent_magnitude: 7.26
@@ -24840,7 +24840,7 @@ stars:
     distance: 809.92
     spectral_class: A8II
   - name:
-    designation: 1934 Lunaiad
+    designation: <a href="1934_lunaiad.html">1934 Lunaiad</a>
     ra: 10<sup>h</sup> 34<sup>m</sup> 53.10<sup>s</sup>
     dec: -56° 00' 20.18"
     apparent_magnitude: 7.26
@@ -24992,7 +24992,7 @@ stars:
     distance: 389.90
     spectral_class: M8III + A7V
   - name:
-    designation: 3261 Lunaiad
+    designation: <a href="3261_lunaiad.html">3261 Lunaiad</a>
     ra: 9<sup>h</sup> 26<sup>m</sup> 20.24<sup>s</sup>
     dec: -71° 00' 45.68"
     apparent_magnitude: 7.28
@@ -25104,7 +25104,7 @@ stars:
     distance: 1,732.36
     spectral_class: B8V
   - name:
-    designation: 1972 Lunaiad
+    designation: <a href="1972_lunaiad.html">1972 Lunaiad</a>
     ra: 9<sup>h</sup> 21<sup>m</sup> 28.38<sup>s</sup>
     dec: -57° 47' 13.82"
     apparent_magnitude: 7.29
@@ -25144,7 +25144,7 @@ stars:
     distance: 1,737.82
     spectral_class: B8V
   - name:
-    designation: 3087 Lunaiad
+    designation: <a href="3087_lunaiad.html">3087 Lunaiad</a>
     ra: 9<sup>h</sup> 53<sup>m</sup> 42.57<sup>s</sup>
     dec: -55° 03' 45.29"
     apparent_magnitude: 7.30
@@ -25368,7 +25368,7 @@ stars:
     distance: 1,340.73
     spectral_class: A4III
   - name:
-    designation: 2179 Lunaiad
+    designation: <a href="2179_lunaiad.html">2179 Lunaiad</a>
     ra: 10<sup>h</sup> 51<sup>m</sup> 46.55<sup>s</sup>
     dec: -59° 53' 18.21"
     apparent_magnitude: 7.31
@@ -25472,7 +25472,7 @@ stars:
     distance: 781.14
     spectral_class: B9V + A9III
   - name:
-    designation: 675 Lunaiad
+    designation: <a href="675_lunaiad.html">675 Lunaiad</a>
     ra: 9<sup>h</sup> 47<sup>m</sup> 52.09<sup>s</sup>
     dec: -60° 00' 15.39"
     apparent_magnitude: 7.32
@@ -25728,7 +25728,7 @@ stars:
     distance: 1,237.75
     spectral_class: A7II
   - name:
-    designation: 1962 Lunaiad
+    designation: <a href="1962_lunaiad.html">1962 Lunaiad</a>
     ra: 9<sup>h</sup> 59<sup>m</sup> 22.41<sup>s</sup>
     dec: -58° 11' 58.35"
     apparent_magnitude: 7.35
@@ -25784,7 +25784,7 @@ stars:
     distance: 819.19
     spectral_class: A5V + B9V
   - name:
-    designation: 2232 Lunaiad
+    designation: <a href="2232_lunaiad.html">2232 Lunaiad</a>
     ra: 10<sup>h</sup> 18<sup>m</sup> 45.87<sup>s</sup>
     dec: -62° 43' 43.47"
     apparent_magnitude: 7.35
@@ -25904,7 +25904,7 @@ stars:
     distance: 1,021.86
     spectral_class: A4III
   - name:
-    designation: 1649 Lunaiad
+    designation: <a href="1649_lunaiad.html">1649 Lunaiad</a>
     ra: 10<sup>h</sup> 51<sup>m</sup> 11.01<sup>s</sup>
     dec: -56° 07' 38.18"
     apparent_magnitude: 7.36
@@ -26024,7 +26024,7 @@ stars:
     distance: 746.58
     spectral_class: A8III
   - name:
-    designation: 514 Lunaiad
+    designation: <a href="514_lunaiad.html">514 Lunaiad</a>
     ra: 9<sup>h</sup> 49<sup>m</sup> 30.43<sup>s</sup>
     dec: -55° 36' 7.97"
     apparent_magnitude: 7.37
@@ -26152,7 +26152,7 @@ stars:
     distance: 929.31
     spectral_class: A6III
   - name:
-    designation: 1644 Lunaiad
+    designation: <a href="1644_lunaiad.html">1644 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 24.49<sup>s</sup>
     dec: -54° 51' 24.33"
     apparent_magnitude: 7.38
@@ -26368,7 +26368,7 @@ stars:
     distance: 674.87
     spectral_class: A5IV
   - name:
-    designation: 654 Lunaiad
+    designation: <a href="654_lunaiad.html">654 Lunaiad</a>
     ra: 10<sup>h</sup> 03<sup>m</sup> 22.86<sup>s</sup>
     dec: -59° 16' 19.15"
     apparent_magnitude: 7.40
@@ -26440,7 +26440,7 @@ stars:
     distance: 1,132.68
     spectral_class: K9III + B8V
   - name:
-    designation: 934 Lunaiad
+    designation: <a href="934_lunaiad.html">934 Lunaiad</a>
     ra: 9<sup>h</sup> 37<sup>m</sup> 27.79<sup>s</sup>
     dec: -61° 44' 58.56"
     apparent_magnitude: 7.41
@@ -26552,7 +26552,7 @@ stars:
     distance: 1,259.37
     spectral_class: A6II
   - name:
-    designation: 1958 Lunaiad
+    designation: <a href="1958_lunaiad.html">1958 Lunaiad</a>
     ra: 9<sup>h</sup> 32<sup>m</sup> 13.17<sup>s</sup>
     dec: -56° 48' 21.38"
     apparent_magnitude: 7.42
@@ -26632,7 +26632,7 @@ stars:
     distance: 1,403.76
     spectral_class: K9III + B8V
   - name:
-    designation: 1789 Lunaiad
+    designation: <a href="1789_lunaiad.html">1789 Lunaiad</a>
     ra: 10<sup>h</sup> 50<sup>m</sup> 56.61<sup>s</sup>
     dec: -57° 15' 33.34"
     apparent_magnitude: 7.43
@@ -26760,7 +26760,7 @@ stars:
     distance: 942.85
     spectral_class: A5III
   - name:
-    designation: 3521 Lunaiad
+    designation: <a href="3521_lunaiad.html">3521 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 4.49<sup>s</sup>
     dec: -74° 27' 40.17"
     apparent_magnitude: 7.44
@@ -26792,7 +26792,7 @@ stars:
     distance: 1,095.83
     spectral_class: A3III
   - name:
-    designation: 1783 Lunaiad
+    designation: <a href="1783_lunaiad.html">1783 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 1.96<sup>s</sup>
     dec: -56° 17' 54.46"
     apparent_magnitude: 7.44
@@ -26872,7 +26872,7 @@ stars:
     distance: 1,533.22
     spectral_class: K7III + A1III
   - name:
-    designation: 2204 Lunaiad
+    designation: <a href="2204_lunaiad.html">2204 Lunaiad</a>
     ra: 11<sup>h</sup> 11<sup>m</sup> 44.86<sup>s</sup>
     dec: -55° 34' 10.10"
     apparent_magnitude: 7.45
@@ -26936,7 +26936,7 @@ stars:
     distance: 488.23
     spectral_class: B9V
   - name:
-    designation: 3251 Lunaiad
+    designation: <a href="3251_lunaiad.html">3251 Lunaiad</a>
     ra: 10<sup>h</sup> 57<sup>m</sup> 28.30<sup>s</sup>
     dec: -63° 57' 56.48"
     apparent_magnitude: 7.46
@@ -26952,7 +26952,7 @@ stars:
     distance: 1,185.13
     spectral_class: M6III + A5III
   - name:
-    designation: 2250 Lunaiad
+    designation: <a href="2250_lunaiad.html">2250 Lunaiad</a>
     ra: 9<sup>h</sup> 31<sup>m</sup> 7.74<sup>s</sup>
     dec: -60° 36' 45.18"
     apparent_magnitude: 7.47
@@ -27056,7 +27056,7 @@ stars:
     distance: 746.95
     spectral_class: M9III + A6III
   - name:
-    designation: 908 Lunaiad
+    designation: <a href="908_lunaiad.html">908 Lunaiad</a>
     ra: 9<sup>h</sup> 51<sup>m</sup> 55.67<sup>s</sup>
     dec: -61° 26' 47.01"
     apparent_magnitude: 7.49
@@ -27080,7 +27080,7 @@ stars:
     distance: 395.01
     spectral_class: G6III
   - name:
-    designation: 3120 Lunaiad
+    designation: <a href="3120_lunaiad.html">3120 Lunaiad</a>
     ra: 10<sup>h</sup> 33<sup>m</sup> 15.89<sup>s</sup>
     dec: -58° 53' 23.44"
     apparent_magnitude: 7.49
@@ -27296,7 +27296,7 @@ stars:
     distance: 531.55
     spectral_class: M9III + A6V + A4V + A9III
   - name:
-    designation: 2491 Lunaiad
+    designation: <a href="2491_lunaiad.html">2491 Lunaiad</a>
     ra: 10<sup>h</sup> 35<sup>m</sup> 23.44<sup>s</sup>
     dec: -60° 22' 16.50"
     apparent_magnitude: 7.52
@@ -27368,7 +27368,7 @@ stars:
     distance: 1,253.13
     spectral_class: M7III + A2III
   - name:
-    designation: 3520 Lunaiad
+    designation: <a href="3520_lunaiad.html">3520 Lunaiad</a>
     ra: 11<sup>h</sup> 10<sup>m</sup> 48.57<sup>s</sup>
     dec: -74° 04' 6.56"
     apparent_magnitude: 7.53
@@ -27512,7 +27512,7 @@ stars:
     distance: 1,405.38
     spectral_class: A1III
   - name:
-    designation: 2561 Lunaiad
+    designation: <a href="2561_lunaiad.html">2561 Lunaiad</a>
     ra: 9<sup>h</sup> 59<sup>m</sup> 50.94<sup>s</sup>
     dec: -62° 48' 31.17"
     apparent_magnitude: 7.55
@@ -27584,7 +27584,7 @@ stars:
     distance: 449.60
     spectral_class: F7III
   - name:
-    designation: 2225 Lunaiad
+    designation: <a href="2225_lunaiad.html">2225 Lunaiad</a>
     ra: 9<sup>h</sup> 43<sup>m</sup> 55.10<sup>s</sup>
     dec: -60° 09' 1.20"
     apparent_magnitude: 7.57
@@ -27608,7 +27608,7 @@ stars:
     distance: 500.43
     spectral_class: A9III
   - name:
-    designation: 1964 Lunaiad
+    designation: <a href="1964_lunaiad.html">1964 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 8.97<sup>s</sup>
     dec: -57° 21' 10.60"
     apparent_magnitude: 7.57
@@ -27632,7 +27632,7 @@ stars:
     distance: 801.89
     spectral_class: DO + A7II
   - name:
-    designation: 678 Lunaiad
+    designation: <a href="678_lunaiad.html">678 Lunaiad</a>
     ra: 10<sup>h</sup> 56<sup>m</sup> 18.34<sup>s</sup>
     dec: -55° 45' 46.58"
     apparent_magnitude: 7.57
@@ -27728,7 +27728,7 @@ stars:
     distance: 1,178.57
     spectral_class: K9III + B8V
   - name:
-    designation: 2528 Lunaiad
+    designation: <a href="2528_lunaiad.html">2528 Lunaiad</a>
     ra: 11<sup>h</sup> 03<sup>m</sup> 16.75<sup>s</sup>
     dec: -56° 04' 53.61"
     apparent_magnitude: 7.59
@@ -27920,7 +27920,7 @@ stars:
     distance: 1,273.08
     spectral_class: M7III + A2III
   - name:
-    designation: 1957 Lunaiad
+    designation: <a href="1957_lunaiad.html">1957 Lunaiad</a>
     ra: 10<sup>h</sup> 35<sup>m</sup> 54.33<sup>s</sup>
     dec: -56° 24' 29.62"
     apparent_magnitude: 7.62
@@ -27952,7 +27952,7 @@ stars:
     distance: 939.11
     spectral_class: DB + A6III
   - name:
-    designation: 3060 Lunaiad
+    designation: <a href="3060_lunaiad.html">3060 Lunaiad</a>
     ra: 10<sup>h</sup> 39<sup>m</sup> 56.57<sup>s</sup>
     dec: -59° 54' 11.88"
     apparent_magnitude: 7.62
@@ -28016,7 +28016,7 @@ stars:
     distance: 428.96
     spectral_class: F9III
   - name:
-    designation: 733 Lunaiad
+    designation: <a href="733_lunaiad.html">733 Lunaiad</a>
     ra: 11<sup>h</sup> 08<sup>m</sup> 38.40<sup>s</sup>
     dec: -57° 54' 20.53"
     apparent_magnitude: 7.63
@@ -28072,7 +28072,7 @@ stars:
     distance: 953.74
     spectral_class: A6III
   - name:
-    designation: 2583 Lunaiad
+    designation: <a href="2583_lunaiad.html">2583 Lunaiad</a>
     ra: 9<sup>h</sup> 22<sup>m</sup> 6.99<sup>s</sup>
     dec: -60° 31' 14.33"
     apparent_magnitude: 7.64
@@ -28264,7 +28264,7 @@ stars:
     distance: 1,098.49
     spectral_class: A4III
   - name:
-    designation: 780 Lunaiad
+    designation: <a href="780_lunaiad.html">780 Lunaiad</a>
     ra: 11<sup>h</sup> 10<sup>m</sup> 50.81<sup>s</sup>
     dec: -58° 27' 8.09"
     apparent_magnitude: 7.67
@@ -28320,7 +28320,7 @@ stars:
     distance: 852.11
     spectral_class: F7V + A8V + B9V
   - name:
-    designation: 907 Lunaiad
+    designation: <a href="907_lunaiad.html">907 Lunaiad</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 37.23<sup>s</sup>
     dec: -60° 39' 3.33"
     apparent_magnitude: 7.69
@@ -28512,7 +28512,7 @@ stars:
     distance: 1,066.56
     spectral_class: A2V + A5III
   - name:
-    designation: 3235 Lunaiad
+    designation: <a href="3235_lunaiad.html">3235 Lunaiad</a>
     ra: 10<sup>h</sup> 55<sup>m</sup> 39.78<sup>s</sup>
     dec: -63° 24' 36.13"
     apparent_magnitude: 7.72
@@ -28576,7 +28576,7 @@ stars:
     distance: 995.72
     spectral_class: A5III
   - name:
-    designation: 916 Lunaiad
+    designation: <a href="916_lunaiad.html">916 Lunaiad</a>
     ra: 11<sup>h</sup> 04<sup>m</sup> 26.00<sup>s</sup>
     dec: -60° 40' 53.06"
     apparent_magnitude: 7.74
@@ -28680,7 +28680,7 @@ stars:
     distance: 1,005.06
     spectral_class: A5III
   - name:
-    designation: 3023 Lunaiad
+    designation: <a href="3023_lunaiad.html">3023 Lunaiad</a>
     ra: 10<sup>h</sup> 57<sup>m</sup> 3.20<sup>s</sup>
     dec: -56° 33' 19.18"
     apparent_magnitude: 7.76
@@ -28688,7 +28688,7 @@ stars:
     distance: 1,079.40
     spectral_class: K4III + M6III + K1III + A5III
   - name:
-    designation: 2552 Lunaiad
+    designation: <a href="2552_lunaiad.html">2552 Lunaiad</a>
     ra: 9<sup>h</sup> 32<sup>m</sup> 58.47<sup>s</sup>
     dec: -60° 07' 11.04"
     apparent_magnitude: 7.77
@@ -28696,7 +28696,7 @@ stars:
     distance: 897.74
     spectral_class: A6V + F1V + F3V + A6III
   - name:
-    designation: 3257 Lunaiad
+    designation: <a href="3257_lunaiad.html">3257 Lunaiad</a>
     ra: 10<sup>h</sup> 08<sup>m</sup> 43.10<sup>s</sup>
     dec: -65° 51' 1.02"
     apparent_magnitude: 7.77
@@ -28808,7 +28808,7 @@ stars:
     distance: 811.78
     spectral_class: M9III + A6III
   - name:
-    designation: 2224 Lunaiad
+    designation: <a href="2224_lunaiad.html">2224 Lunaiad</a>
     ra: 10<sup>h</sup> 49<sup>m</sup> 46.24<sup>s</sup>
     dec: -59° 35' 42.06"
     apparent_magnitude: 7.79
@@ -28856,7 +28856,7 @@ stars:
     distance: 1,146.27
     spectral_class: A5III
   - name:
-    designation: 2234 Lunaiad
+    designation: <a href="2234_lunaiad.html">2234 Lunaiad</a>
     ra: 10<sup>h</sup> 55<sup>m</sup> 30.18<sup>s</sup>
     dec: -59° 50' 48.70"
     apparent_magnitude: 7.80
@@ -29008,7 +29008,7 @@ stars:
     distance: 935.79
     spectral_class: F4III + A7III
   - name:
-    designation: 3074 Lunaiad
+    designation: <a href="3074_lunaiad.html">3074 Lunaiad</a>
     ra: 11<sup>h</sup> 01<sup>m</sup> 8.50<sup>s</sup>
     dec: -59° 49' 35.19"
     apparent_magnitude: 7.85
@@ -29224,7 +29224,7 @@ stars:
     distance: 1,020.75
     spectral_class: A5III
   - name:
-    designation: 3231 Lunaiad
+    designation: <a href="3231_lunaiad.html">3231 Lunaiad</a>
     ra: 8<sup>h</sup> 57<sup>m</sup> 32.44<sup>s</sup>
     dec: -71° 01' 16.40"
     apparent_magnitude: 7.93
@@ -29336,7 +29336,7 @@ stars:
     distance: 977.31
     spectral_class: A5III
   - name:
-    designation: 2563 Lunaiad
+    designation: <a href="2563_lunaiad.html">2563 Lunaiad</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 23.24<sup>s</sup>
     dec: -60° 12' 52.40"
     apparent_magnitude: 7.98
@@ -29384,7 +29384,7 @@ stars:
     distance: 575.41
     spectral_class: DO + DQ + F4II
   - name:
-    designation: 3045 Lunaiad
+    designation: <a href="3045_lunaiad.html">3045 Lunaiad</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 18.96<sup>s</sup>
     dec: -56° 42' 8.65"
     apparent_magnitude: 7.99
@@ -29400,7 +29400,7 @@ stars:
     distance: 502.13
     spectral_class: G3III + F8III
   - name:
-    designation: 2551 Lunaiad
+    designation: <a href="2551_lunaiad.html">2551 Lunaiad</a>
     ra: 10<sup>h</sup> 36<sup>m</sup> 19.18<sup>s</sup>
     dec: -60° 00' 15.48"
     apparent_magnitude: 8.00
@@ -29568,7 +29568,7 @@ stars:
     distance: 486.30
     spectral_class: DQ + F3III
   - name:
-    designation: 3116 Lunaiad
+    designation: <a href="3116_lunaiad.html">3116 Lunaiad</a>
     ra: 10<sup>h</sup> 28<sup>m</sup> 58.28<sup>s</sup>
     dec: -58° 56' 0.24"
     apparent_magnitude: 8.09
@@ -29720,7 +29720,7 @@ stars:
     distance: 724.77
     spectral_class: K7Ib
   - name:
-    designation: 3040 Lunaiad
+    designation: <a href="3040_lunaiad.html">3040 Lunaiad</a>
     ra: 11<sup>h</sup> 05<sup>m</sup> 56.72<sup>s</sup>
     dec: -58° 07' 23.11"
     apparent_magnitude: 8.19
@@ -29728,7 +29728,7 @@ stars:
     distance: 437.17
     spectral_class: A6V
   - name:
-    designation: 3092 Lunaiad
+    designation: <a href="3092_lunaiad.html">3092 Lunaiad</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 43.83<sup>s</sup>
     dec: -65° 01' 10.03"
     apparent_magnitude: 8.20
@@ -29736,7 +29736,7 @@ stars:
     distance: 856.66
     spectral_class: G2V + F9V + G5V + F1V + A3IV
   - name:
-    designation: 3106 Lunaiad
+    designation: <a href="3106_lunaiad.html">3106 Lunaiad</a>
     ra: 11<sup>h</sup> 12<sup>m</sup> 7.91<sup>s</sup>
     dec: -67° 22' 45.57"
     apparent_magnitude: 8.21
@@ -29760,7 +29760,7 @@ stars:
     distance: 849.32
     spectral_class: B9V + A9III
   - name:
-    designation: 3243 Lunaiad
+    designation: <a href="3243_lunaiad.html">3243 Lunaiad</a>
     ra: 9<sup>h</sup> 49<sup>m</sup> 13.42<sup>s</sup>
     dec: -70° 24' 17.95"
     apparent_magnitude: 8.22
@@ -29784,7 +29784,7 @@ stars:
     distance: 830.03
     spectral_class: A7III
   - name:
-    designation: 3151 Lunaiad
+    designation: <a href="3151_lunaiad.html">3151 Lunaiad</a>
     ra: 8<sup>h</sup> 46<sup>m</sup> 45.49<sup>s</sup>
     dec: -63° 06' 21.90"
     apparent_magnitude: 8.23
@@ -29920,7 +29920,7 @@ stars:
     distance: 972.81
     spectral_class: M8Ia
   - name:
-    designation: 3123 Lunaiad
+    designation: <a href="3123_lunaiad.html">3123 Lunaiad</a>
     ra: 10<sup>h</sup> 54<sup>m</sup> 2.78<sup>s</sup>
     dec: -62° 17' 53.06"
     apparent_magnitude: 8.29
@@ -29928,7 +29928,7 @@ stars:
     distance: 473.20
     spectral_class: G8V + F8V + A5V
   - name:
-    designation: 3063 Lunaiad
+    designation: <a href="3063_lunaiad.html">3063 Lunaiad</a>
     ra: 9<sup>h</sup> 55<sup>m</sup> 13.84<sup>s</sup>
     dec: -54° 57' 28.98"
     apparent_magnitude: 8.29
@@ -30056,7 +30056,7 @@ stars:
     distance: 675.78
     spectral_class: A8III
   - name:
-    designation: 3131 Lunaiad
+    designation: <a href="3131_lunaiad.html">3131 Lunaiad</a>
     ra: 11<sup>h</sup> 13<sup>m</sup> 26.32<sup>s</sup>
     dec: -64° 26' 1.13"
     apparent_magnitude: 8.47
@@ -30176,7 +30176,7 @@ stars:
     distance: 648.87
     spectral_class: A7III
   - name:
-    designation: 3041 Lunaiad
+    designation: <a href="3041_lunaiad.html">3041 Lunaiad</a>
     ra: 11<sup>h</sup> 08<sup>m</sup> 12.60<sup>s</sup>
     dec: -59° 54' 42.44"
     apparent_magnitude: 8.56
@@ -30224,7 +30224,7 @@ stars:
     distance: 729.69
     spectral_class: A4IV
   - name:
-    designation: 3037 Lunaiad
+    designation: <a href="3037_lunaiad.html">3037 Lunaiad</a>
     ra: 11<sup>h</sup> 09<sup>m</sup> 58.56<sup>s</sup>
     dec: -59° 06' 41.72"
     apparent_magnitude: 8.65
@@ -30264,7 +30264,7 @@ stars:
     distance: 795.35
     spectral_class: A8III
   - name:
-    designation: 3238 Lunaiad
+    designation: <a href="3238_lunaiad.html">3238 Lunaiad</a>
     ra: 10<sup>h</sup> 51<sup>m</sup> 16.85<sup>s</sup>
     dec: -55° 56' 42.35"
     apparent_magnitude: 8.70
@@ -30392,7 +30392,7 @@ stars:
     distance: 474.05
     spectral_class: A5V
   - name:
-    designation: 4163 Lunaiad
+    designation: <a href="4163_lunaiad.html">4163 Lunaiad</a>
     ra: 11<sup>h</sup> 15<sup>m</sup> 39.88<sup>s</sup>
     dec: -58° 44' 27.04"
     apparent_magnitude: 8.89
@@ -30408,7 +30408,7 @@ stars:
     distance: 488.15
     spectral_class: A7IV
   - name:
-    designation: 4368 Lunaiad
+    designation: <a href="4368_lunaiad.html">4368 Lunaiad</a>
     ra: 9<sup>h</sup> 50<sup>m</sup> 40.34<sup>s</sup>
     dec: -64° 41' 35.15"
     apparent_magnitude: 8.92
@@ -30424,7 +30424,7 @@ stars:
     distance: 682.92
     spectral_class: A9III
   - name:
-    designation: 4503 Lunaiad
+    designation: <a href="4503_lunaiad.html">4503 Lunaiad</a>
     ra: 10<sup>h</sup> 48<sup>m</sup> 16.38<sup>s</sup>
     dec: -64° 51' 17.50"
     apparent_magnitude: 8.94
@@ -30456,7 +30456,7 @@ stars:
     distance: 808.82
     spectral_class: A7III
   - name:
-    designation: 5105 Lunaiad
+    designation: <a href="5105_lunaiad.html">5105 Lunaiad</a>
     ra: 11<sup>h</sup> 14<sup>m</sup> 33.10<sup>s</sup>
     dec: -60° 33' 46.02"
     apparent_magnitude: 9.03
@@ -30512,7 +30512,7 @@ stars:
     distance: 610.09
     spectral_class: A8II
   - name:
-    designation: 5918 Lunaiad
+    designation: <a href="5918_lunaiad.html">5918 Lunaiad</a>
     ra: 10<sup>h</sup> 45<sup>m</sup> 57.96<sup>s</sup>
     dec: -56° 55' 21.94"
     apparent_magnitude: 9.14
@@ -30560,7 +30560,7 @@ stars:
     distance: 560.67
     spectral_class: F4III
   - name:
-    designation: 6418 Lunaiad
+    designation: <a href="6418_lunaiad.html">6418 Lunaiad</a>
     ra: 9<sup>h</sup> 18<sup>m</sup> 52.13<sup>s</sup>
     dec: -54° 48' 30.37"
     apparent_magnitude: 9.20
@@ -30751,7 +30751,7 @@ stars:
     absolute_magnitude: 3.54
     distance: 528.06
     spectral_class: A4V + B9V
-  - name: 
+  - name:
     designation: <a href="11417_lunaiad.html">11417 Lunaiad</a>
     ra: 10<sup>h</sup> 28<sup>m</sup> 48.00<sup>s</sup>
     dec: -58° 42' 0.00"
@@ -30808,7 +30808,7 @@ stars:
     distance: 641.96
     spectral_class: K2III + A6IV
   - name:
-    designation: 14402 Lunaiad
+    designation: <a href="14402_lunaiad.html">14402 Lunaiad</a>
     ra: 9<sup>h</sup> 53<sup>m</sup> 24.03<sup>s</sup>
     dec: -60° 24' 8.31"
     apparent_magnitude: 9.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3364 Oniad is a star in the constellation Oni
+      3364 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 596.06 ly
 apparent_magnitude: 11.24
 absolute_magnitude: 4.93

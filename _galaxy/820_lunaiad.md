@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      820 Lunaiad is a star in the constellation Luna
+      820 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 310.48 ly
 apparent_magnitude: 11.08
 absolute_magnitude: 6.19

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3754 Niniunniad is a star in the constellation Niniun
+      3754 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 594.39 ly
 apparent_magnitude: 13.97
 absolute_magnitude: 7.67

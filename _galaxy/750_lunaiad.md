@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      750 Lunaiad is a star in the constellation Luna
+      750 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 374.14 ly
 apparent_magnitude: 7.30
 absolute_magnitude: 2.00
@@ -31,15 +31,15 @@ planets:
     radius: 12,080.6 km<br/>(1.896 Yrths)
     surface_area: 1.834 × 10<sup>09</sup> km<sup>2</sup><br/>(3.596 Yrths)
     volume: 7.385 × 10<sup>12</sup> km<sup>3</sup><br/>(6.818 Yrths)
-    mass: 5.046 × 10<sup>25</sup> kg<br />(8.449366386581124 Yrths)
+    mass: 5.046 × 10<sup>25</sup> kg<br />(8.45 Yrths)
     density: 6.833 g/cm<sup>3</sup>
     surface_gravity: 23.045 m/s<sup>2</sup><br />(2.350 g<sub>0</sub>)
     escape_velocity: 23.613 km/s<br />(85,006 km/h)
     rotation_period: 0.577 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 592 K<br />(319 °C)
-    surface_pressure: 3,482 kPa<br />(34 atm)
+    temperature: 612 K<br />(338 °C)
+    surface_pressure: 3,482 kPa<br />(35 atm)
     composition:
       - 81.2776% nitrogen
       - 12.5896% methane
@@ -58,14 +58,14 @@ planets:
         radius: 10,754.7 km<br/>(1.688 Yrths)
         surface_area: 1.453 × 10<sup>09</sup> km<sup>2</sup><br/>(2.850 Yrths)
         volume: 5.211 × 10<sup>12</sup> km<sup>3</sup><br/>(4.810 Yrths)
-        mass: 1.531 × 10<sup>25</sup> kg<br />(8.449366386581124 Yrths)
+        mass: 1.531 × 10<sup>25</sup> kg<br />(2.563 Yrths)
         density: 2.938 g/cm<sup>3</sup>
         surface_gravity: 8.820 m/s<sup>2</sup><br />(0.899 g<sub>0</sub>)
         escape_velocity: 13.783 km/s<br />(49,620 km/h)
         rotation_period: 33.485 d
         axial_tilt: 9.90°
         albedo: 0.30
-        temperature: 4370 K<br />(4097 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 750 Lunaiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 13,725.6 km<br/>(2.154 Yrths)
         surface_area: 2.367 × 10<sup>09</sup> km<sup>2</sup><br/>(4.641 Yrths)
         volume: 1.083 × 10<sup>13</sup> km<sup>3</sup><br/>(9.999 Yrths)
-        mass: 1.992 × 10<sup>25</sup> kg<br />(8.449366386581124 Yrths)
+        mass: 1.992 × 10<sup>25</sup> kg<br />(3.335 Yrths)
         density: 1.839 g/cm<sup>3</sup>
         surface_gravity: 7.046 m/s<sup>2</sup><br />(0.719 g<sub>0</sub>)
         escape_velocity: 13.917 km/s<br />(50,103 km/h)
         rotation_period: 48.518 d
         axial_tilt: 9.15°
         albedo: 0.30
-        temperature: 4166 K<br />(3893 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 750 Lunaiad I c
         type: Rocky
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 4,714.9 km<br/>(0.740 Yrths)
         surface_area: 2.794 × 10<sup>08</sup> km<sup>2</sup><br/>(0.548 Yrths)
         volume: 4.391 × 10<sup>11</sup> km<sup>3</sup><br/>(0.405 Yrths)
-        mass: 1.328 × 10<sup>24</sup> kg<br />(8.449366386581124 Yrths)
+        mass: 1.328 × 10<sup>24</sup> kg<br />(0.222 Yrths)
         density: 3.026 g/cm<sup>3</sup>
         surface_gravity: 3.983 m/s<sup>2</sup><br />(0.406 g<sub>0</sub>)
         escape_velocity: 6.132 km/s<br />(22,077 km/h)
         rotation_period: 36.525 d
         axial_tilt: 21.99°
         albedo: 0.30
-        temperature: 3973 K<br />(3699 °C)
+        temperature: 391 K<br />(118 °C)
   - name: 750 Lunaiad II
     type: Gas dwarf
     aphelion: 568,440,873 km<br />3.800 AU
@@ -117,14 +117,14 @@ planets:
     radius: 17,198.4 km<br/>(2.699 Yrths)
     surface_area: 3.717 × 10<sup>09</sup> km<sup>2</sup><br/>(7.287 Yrths)
     volume: 2.131 × 10<sup>13</sup> km<sup>3</sup><br/>(19.672 Yrths)
-    mass: 4.128 × 10<sup>25</sup> kg<br />(6.9122728048704065 Yrths)
+    mass: 4.128 × 10<sup>25</sup> kg<br />(6.91 Yrths)
     density: 1.937 g/cm<sup>3</sup>
     surface_gravity: 9.302 m/s<sup>2</sup><br />(0.949 g<sub>0</sub>)
     escape_velocity: 17.900 km/s<br />(64,439 km/h)
     rotation_period: 0.457 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 447 K<br />(173 °C)
+    temperature: 403 K<br />(130 °C)
     composition:
       - 72.4661% hydrogen
       - 22.8291% helium
@@ -145,14 +145,14 @@ planets:
         radius: 7,826.2 km<br/>(1.228 Yrths)
         surface_area: 7.697 × 10<sup>08</sup> km<sup>2</sup><br/>(1.509 Yrths)
         volume: 2.008 × 10<sup>12</sup> km<sup>3</sup><br/>(1.854 Yrths)
-        mass: 1.657 × 10<sup>24</sup> kg<br />(6.9122728048704065 Yrths)
+        mass: 1.657 × 10<sup>24</sup> kg<br />(0.278 Yrths)
         density: 0.825 g/cm<sup>3</sup>
         surface_gravity: 1.803 m/s<sup>2</sup><br />(0.184 g<sub>0</sub>)
         escape_velocity: 5.317 km/s<br />(19,140 km/h)
         rotation_period: 54.897 d
         axial_tilt: 18.63°
         albedo: 0.30
-        temperature: 3186 K<br />(2913 °C)
+        temperature: 281 K<br />(8 °C)
       - name: 750 Lunaiad II b
         type: Icy
         formationType: Impact formed
@@ -165,14 +165,14 @@ planets:
         radius: 8,113.5 km<br/>(1.274 Yrths)
         surface_area: 8.272 × 10<sup>08</sup> km<sup>2</sup><br/>(1.622 Yrths)
         volume: 2.237 × 10<sup>12</sup> km<sup>3</sup><br/>(2.065 Yrths)
-        mass: 1.958 × 10<sup>24</sup> kg<br />(6.9122728048704065 Yrths)
+        mass: 1.958 × 10<sup>24</sup> kg<br />(0.328 Yrths)
         density: 0.875 g/cm<sup>3</sup>
         surface_gravity: 1.982 m/s<sup>2</sup><br />(0.202 g<sub>0</sub>)
         escape_velocity: 5.675 km/s<br />(20,431 km/h)
         rotation_period: 76.572 d
         axial_tilt: 15.90°
         albedo: 0.30
-        temperature: 3038 K<br />(2765 °C)
+        temperature: 281 K<br />(8 °C)
       - name: 750 Lunaiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -185,14 +185,14 @@ planets:
         radius: 19,088.7 km<br/>(2.996 Yrths)
         surface_area: 4.579 × 10<sup>09</sup> km<sup>2</sup><br/>(8.977 Yrths)
         volume: 2.914 × 10<sup>13</sup> km<sup>3</sup><br/>(26.897 Yrths)
-        mass: 6.244 × 10<sup>25</sup> kg<br />(6.9122728048704065 Yrths)
+        mass: 6.244 × 10<sup>25</sup> kg<br />(10.455 Yrths)
         density: 2.143 g/cm<sup>3</sup>
         surface_gravity: 11.421 m/s<sup>2</sup><br />(1.165 g<sub>0</sub>)
         escape_velocity: 20.895 km/s<br />(75,222 km/h)
         rotation_period: 36.047 d
         axial_tilt: 26.71°
         albedo: 0.30
-        temperature: 2897 K<br />(2624 °C)
+        temperature: 281 K<br />(8 °C)
       - name: 750 Lunaiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -205,14 +205,14 @@ planets:
         radius: 7,018.8 km<br/>(1.102 Yrths)
         surface_area: 6.191 × 10<sup>08</sup> km<sup>2</sup><br/>(1.214 Yrths)
         volume: 1.448 × 10<sup>12</sup> km<sup>3</sup><br/>(1.337 Yrths)
-        mass: 2.557 × 10<sup>24</sup> kg<br />(6.9122728048704065 Yrths)
+        mass: 2.557 × 10<sup>24</sup> kg<br />(0.428 Yrths)
         density: 1.766 g/cm<sup>3</sup>
         surface_gravity: 3.460 m/s<sup>2</sup><br />(0.353 g<sub>0</sub>)
         escape_velocity: 6.974 km/s<br />(25,106 km/h)
         rotation_period: 46.475 d
         axial_tilt: 14.53°
         albedo: 0.30
-        temperature: 2633 K<br />(2360 °C)
+        temperature: 281 K<br />(8 °C)
   - name: 750 Lunaiad III
     type: Gas giant
     aphelion: 1,163,068,023 km<br />7.775 AU
@@ -224,7 +224,7 @@ planets:
     radius: 246.5 km<br/>(0.039 Yrths)
     surface_area: 7.637 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 6.275 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.471 × 10<sup>27</sup> kg<br />(413.6847134297514 Yrths)
+    mass: 2.471 × 10<sup>27</sup> kg<br />(413.68 Yrths)
     density: 39368832.953 g/cm<sup>3</sup>
     surface_gravity: 2709608.904 m/s<sup>2</sup><br />(276303.213 g<sub>0</sub>)
     escape_velocity: 1156.612 km/s<br />(4,163,804 km/h)
@@ -245,14 +245,14 @@ planets:
         radius: 232,527.7 km<br/>(36.498 Yrths)
         surface_area: 6.795 × 10<sup>11</sup> km<sup>2</sup><br/>(1332.092 Yrths)
         volume: 5.266 × 10<sup>16</sup> km<sup>3</sup><br/>(48618.476 Yrths)
-        mass: 5.607 × 10<sup>28</sup> kg<br />(413.6847134297514 Yrths)
+        mass: 5.607 × 10<sup>28</sup> kg<br />(9388.639 Yrths)
         density: 1.065 g/cm<sup>3</sup>
         surface_gravity: 69.118 m/s<sup>2</sup><br />(7.048 g<sub>0</sub>)
         escape_velocity: 179.408 km/s<br />(645,869 km/h)
         rotation_period: 66.097 d
         axial_tilt: 20.85°
         albedo: 0.30
-        temperature: 912 K<br />(638 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 750 Lunaiad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -265,14 +265,14 @@ planets:
         radius: 218,041.2 km<br/>(34.224 Yrths)
         surface_area: 5.974 × 10<sup>11</sup> km<sup>2</sup><br/>(1171.284 Yrths)
         volume: 4.342 × 10<sup>16</sup> km<sup>3</sup><br/>(40086.038 Yrths)
-        mass: 9.611 × 10<sup>28</sup> kg<br />(413.6847134297514 Yrths)
+        mass: 9.611 × 10<sup>28</sup> kg<br />(16093.175 Yrths)
         density: 2.213 g/cm<sup>3</sup>
         surface_gravity: 134.741 m/s<sup>2</sup><br />(13.740 g<sub>0</sub>)
         escape_velocity: 242.566 km/s<br />(873,236 km/h)
         rotation_period: 41.901 d
         axial_tilt: 16.60°
         albedo: 0.30
-        temperature: 515 K<br />(241 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 750 Lunaiad III c
         type: Rocky
         formationType: Accreted
@@ -285,14 +285,14 @@ planets:
         radius: 180,398.3 km<br/>(28.316 Yrths)
         surface_area: 4.090 × 10<sup>11</sup> km<sup>2</sup><br/>(801.770 Yrths)
         volume: 2.459 × 10<sup>16</sup> km<sup>3</sup><br/>(22702.558 Yrths)
-        mass: 6.889 × 10<sup>28</sup> kg<br />(413.6847134297514 Yrths)
+        mass: 6.889 × 10<sup>28</sup> kg<br />(11534.735 Yrths)
         density: 2.801 g/cm<sup>3</sup>
         surface_gravity: 141.084 m/s<sup>2</sup><br />(14.387 g<sub>0</sub>)
         escape_velocity: 225.770 km/s<br />(812,770 km/h)
         rotation_period: 42.112 d
         axial_tilt: 20.22°
         albedo: 0.30
-        temperature: 468 K<br />(195 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 750 Lunaiad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -305,14 +305,14 @@ planets:
         radius: 178,708.6 km<br/>(28.050 Yrths)
         surface_area: 4.013 × 10<sup>11</sup> km<sup>2</sup><br/>(786.820 Yrths)
         volume: 2.391 × 10<sup>16</sup> km<sup>3</sup><br/>(22070.554 Yrths)
-        mass: 5.949 × 10<sup>28</sup> kg<br />(413.6847134297514 Yrths)
+        mass: 5.949 × 10<sup>28</sup> kg<br />(9961.410 Yrths)
         density: 2.488 g/cm<sup>3</sup>
         surface_gravity: 124.156 m/s<sup>2</sup><br />(12.660 g<sub>0</sub>)
         escape_velocity: 210.798 km/s<br />(758,871 km/h)
         rotation_period: 35.009 d
         axial_tilt: 20.05°
         albedo: 0.30
-        temperature: 264 K<br />(-9 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 750 Lunaiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -325,14 +325,14 @@ planets:
         radius: 309,472.2 km<br/>(48.575 Yrths)
         surface_area: 1.204 × 10<sup>12</sup> km<sup>2</sup><br/>(2359.544 Yrths)
         volume: 1.242 × 10<sup>17</sup> km<sup>3</sup><br/>(114615.187 Yrths)
-        mass: 2.778 × 10<sup>29</sup> kg<br />(413.6847134297514 Yrths)
+        mass: 2.778 × 10<sup>29</sup> kg<br />(46509.134 Yrths)
         density: 2.237 g/cm<sup>3</sup>
         surface_gravity: 193.300 m/s<sup>2</sup><br />(19.711 g<sub>0</sub>)
         escape_velocity: 346.127 km/s<br />(1,246,059 km/h)
         rotation_period: 37.002 d
         axial_tilt: 23.34°
         albedo: 0.30
-        temperature: 208 K<br />(-65 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 750 Lunaiad III f
         type: Dwarf planet
         formationType: Accreted
@@ -345,14 +345,14 @@ planets:
         radius: 238,425.0 km<br/>(37.423 Yrths)
         surface_area: 7.144 × 10<sup>11</sup> km<sup>2</sup><br/>(1400.517 Yrths)
         volume: 5.677 × 10<sup>16</sup> km<sup>3</sup><br/>(52412.232 Yrths)
-        mass: 1.013 × 10<sup>29</sup> kg<br />(413.6847134297514 Yrths)
+        mass: 1.013 × 10<sup>29</sup> kg<br />(16958.884 Yrths)
         density: 1.784 g/cm<sup>3</sup>
         surface_gravity: 118.749 m/s<sup>2</sup><br />(12.109 g<sub>0</sub>)
         escape_velocity: 238.123 km/s<br />(857,241 km/h)
         rotation_period: 53.583 d
         axial_tilt: 20.90°
         albedo: 0.30
-        temperature: 164 K<br />(-109 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 750 Lunaiad III g
         type: Icy
         formationType: Captured
@@ -365,14 +365,14 @@ planets:
         radius: 199,408.8 km<br/>(31.299 Yrths)
         surface_area: 4.997 × 10<sup>11</sup> km<sup>2</sup><br/>(979.656 Yrths)
         volume: 3.321 × 10<sup>16</sup> km<sup>3</sup><br/>(30662.704 Yrths)
-        mass: 5.032 × 10<sup>28</sup> kg<br />(413.6847134297514 Yrths)
+        mass: 5.032 × 10<sup>28</sup> kg<br />(8426.357 Yrths)
         density: 1.515 g/cm<sup>3</sup>
         surface_gravity: 84.350 m/s<sup>2</sup><br />(8.601 g<sub>0</sub>)
         escape_velocity: 183.538 km/s<br />(660,736 km/h)
         rotation_period: 75.618 d
         axial_tilt: 24.15°
         albedo: 0.30
-        temperature: 156 K<br />(-117 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 750 Lunaiad IV
     type: Gas giant
     aphelion: 2,026,473,787 km<br />13.546 AU
@@ -384,7 +384,7 @@ planets:
     radius: 216.2 km<br/>(0.034 Yrths)
     surface_area: 5.877 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.236 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.407 × 10<sup>27</sup> kg<br />(235.5359689371328 Yrths)
+    mass: 1.407 × 10<sup>27</sup> kg<br />(235.54 Yrths)
     density: 33206308.938 g/cm<sup>3</sup>
     surface_gravity: 2004847.029 m/s<sup>2</sup><br />(204437.502 g<sub>0</sub>)
     escape_velocity: 931.812 km/s<br />(3,354,524 km/h)
@@ -405,14 +405,14 @@ planets:
         radius: 130,760.9 km<br/>(20.524 Yrths)
         surface_area: 2.149 × 10<sup>11</sup> km<sup>2</sup><br/>(421.251 Yrths)
         volume: 9.365 × 10<sup>15</sup> km<sup>3</sup><br/>(8645.910 Yrths)
-        mass: 1.301 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 1.301 × 10<sup>28</sup> kg<br />(2178.476 Yrths)
         density: 1.389 g/cm<sup>3</sup>
         surface_gravity: 50.715 m/s<sup>2</sup><br />(5.171 g<sub>0</sub>)
         escape_velocity: 115.243 km/s<br />(414,875 km/h)
         rotation_period: 55.115 d
         axial_tilt: 55.69°
         albedo: 0.30
-        temperature: 914 K<br />(641 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -425,14 +425,14 @@ planets:
         radius: 125,468.5 km<br/>(19.694 Yrths)
         surface_area: 1.978 × 10<sup>11</sup> km<sup>2</sup><br/>(387.842 Yrths)
         volume: 8.274 × 10<sup>15</sup> km<sup>3</sup><br/>(7638.038 Yrths)
-        mass: 1.855 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 1.855 × 10<sup>28</sup> kg<br />(3106.907 Yrths)
         density: 2.243 g/cm<sup>3</sup>
         surface_gravity: 78.559 m/s<sup>2</sup><br />(8.011 g<sub>0</sub>)
         escape_velocity: 140.499 km/s<br />(505,798 km/h)
         rotation_period: 37.414 d
         axial_tilt: 9.79°
         albedo: 0.30
-        temperature: 871 K<br />(598 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV c
         type: Icy
         formationType: Captured
@@ -445,14 +445,14 @@ planets:
         radius: 169,885.5 km<br/>(26.665 Yrths)
         surface_area: 3.627 × 10<sup>11</sup> km<sup>2</sup><br/>(711.046 Yrths)
         volume: 2.054 × 10<sup>16</sup> km<sup>3</sup><br/>(18960.356 Yrths)
-        mass: 2.865 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 2.865 × 10<sup>28</sup> kg<br />(4797.651 Yrths)
         density: 1.395 g/cm<sup>3</sup>
         surface_gravity: 66.169 m/s<sup>2</sup><br />(6.747 g<sub>0</sub>)
         escape_velocity: 150.042 km/s<br />(540,152 km/h)
         rotation_period: 45.098 d
         axial_tilt: 8.97°
         albedo: 0.30
-        temperature: 755 K<br />(482 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV d
         type: Asteroid
         formationType: Captured
@@ -465,14 +465,14 @@ planets:
         radius: 120,883.3 km<br/>(18.974 Yrths)
         surface_area: 1.836 × 10<sup>11</sup> km<sup>2</sup><br/>(360.013 Yrths)
         volume: 7.399 × 10<sup>15</sup> km<sup>3</sup><br/>(6830.877 Yrths)
-        mass: 1.130 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 1.130 × 10<sup>28</sup> kg<br />(1891.447 Yrths)
         density: 1.527 g/cm<sup>3</sup>
         surface_gravity: 51.523 m/s<sup>2</sup><br />(5.254 g<sub>0</sub>)
         escape_velocity: 111.684 km/s<br />(402,063 km/h)
         rotation_period: 78.032 d
         axial_tilt: 24.47°
         albedo: 0.30
-        temperature: 624 K<br />(351 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV e
         type: Dwarf planet
         formationType: Accreted
@@ -485,14 +485,14 @@ planets:
         radius: 127,671.6 km<br/>(20.039 Yrths)
         surface_area: 2.048 × 10<sup>11</sup> km<sup>2</sup><br/>(401.581 Yrths)
         volume: 8.717 × 10<sup>15</sup> km<sup>3</sup><br/>(8047.482 Yrths)
-        mass: 1.265 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 1.265 × 10<sup>28</sup> kg<br />(2117.951 Yrths)
         density: 1.451 g/cm<sup>3</sup>
         surface_gravity: 51.721 m/s<sup>2</sup><br />(5.274 g<sub>0</sub>)
         escape_velocity: 114.998 km/s<br />(413,991 km/h)
         rotation_period: 80.450 d
         axial_tilt: 16.26°
         albedo: 0.30
-        temperature: 595 K<br />(322 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV f
         type: Rocky
         formationType: Captured
@@ -505,14 +505,14 @@ planets:
         radius: 111,360.8 km<br/>(17.479 Yrths)
         surface_area: 1.558 × 10<sup>11</sup> km<sup>2</sup><br/>(305.527 Yrths)
         volume: 5.785 × 10<sup>15</sup> km<sup>3</sup><br/>(5340.412 Yrths)
-        mass: 1.723 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 1.723 × 10<sup>28</sup> kg<br />(2884.757 Yrths)
         density: 2.978 g/cm<sup>3</sup>
         surface_gravity: 92.593 m/s<sup>2</sup><br />(9.442 g<sub>0</sub>)
         escape_velocity: 143.703 km/s<br />(517,331 km/h)
         rotation_period: 37.989 d
         axial_tilt: 22.31°
         albedo: 0.30
-        temperature: 516 K<br />(243 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV g
         type: Ice/rock hybrid
         formationType: Captured
@@ -525,14 +525,14 @@ planets:
         radius: 121,345.5 km<br/>(19.047 Yrths)
         surface_area: 1.850 × 10<sup>11</sup> km<sup>2</sup><br/>(362.771 Yrths)
         volume: 7.484 × 10<sup>15</sup> km<sup>3</sup><br/>(6909.527 Yrths)
-        mass: 1.474 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 1.474 × 10<sup>28</sup> kg<br />(2467.624 Yrths)
         density: 1.969 g/cm<sup>3</sup>
         surface_gravity: 66.706 m/s<sup>2</sup><br />(6.802 g<sub>0</sub>)
         escape_velocity: 127.323 km/s<br />(458,361 km/h)
         rotation_period: 57.654 d
         axial_tilt: 20.00°
         albedo: 0.30
-        temperature: 406 K<br />(133 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV h
         type: Icy
         formationType: Accreted
@@ -545,14 +545,14 @@ planets:
         radius: 176,547.1 km<br/>(27.711 Yrths)
         surface_area: 3.917 × 10<sup>11</sup> km<sup>2</sup><br/>(767.902 Yrths)
         volume: 2.305 × 10<sup>16</sup> km<sup>3</sup><br/>(21279.378 Yrths)
-        mass: 3.168 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 3.168 × 10<sup>28</sup> kg<br />(5304.851 Yrths)
         density: 1.374 g/cm<sup>3</sup>
         surface_gravity: 67.747 m/s<sup>2</sup><br />(6.908 g<sub>0</sub>)
         escape_velocity: 154.769 km/s<br />(557,169 km/h)
         rotation_period: 59.173 d
         axial_tilt: 11.58°
         albedo: 0.30
-        temperature: 388 K<br />(114 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV i
         type: Ice/rock hybrid
         formationType: Captured
@@ -565,14 +565,14 @@ planets:
         radius: 120,836.5 km<br/>(18.967 Yrths)
         surface_area: 1.835 × 10<sup>11</sup> km<sup>2</sup><br/>(359.734 Yrths)
         volume: 7.391 × 10<sup>15</sup> km<sup>3</sup><br/>(6822.946 Yrths)
-        mass: 1.527 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 1.527 × 10<sup>28</sup> kg<br />(2557.478 Yrths)
         density: 2.067 g/cm<sup>3</sup>
         surface_gravity: 69.719 m/s<sup>2</sup><br />(7.109 g<sub>0</sub>)
         escape_velocity: 129.893 km/s<br />(467,614 km/h)
         rotation_period: 35.969 d
         axial_tilt: 32.17°
         albedo: 0.30
-        temperature: 336 K<br />(63 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV j
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -585,14 +585,14 @@ planets:
         radius: 162,529.2 km<br/>(25.511 Yrths)
         surface_area: 3.320 × 10<sup>11</sup> km<sup>2</sup><br/>(650.800 Yrths)
         volume: 1.798 × 10<sup>16</sup> km<sup>3</sup><br/>(16602.426 Yrths)
-        mass: 3.402 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 3.402 × 10<sup>28</sup> kg<br />(5697.106 Yrths)
         density: 1.892 g/cm<sup>3</sup>
         surface_gravity: 85.847 m/s<sup>2</sup><br />(8.754 g<sub>0</sub>)
         escape_velocity: 167.163 km/s<br />(601,785 km/h)
         rotation_period: 51.663 d
         axial_tilt: 32.30°
         albedo: 0.30
-        temperature: 305 K<br />(32 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV k
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -605,14 +605,14 @@ planets:
         radius: 106,145.6 km<br/>(16.661 Yrths)
         surface_area: 1.416 × 10<sup>11</sup> km<sup>2</sup><br/>(277.580 Yrths)
         volume: 5.009 × 10<sup>15</sup> km<sup>3</sup><br/>(4624.690 Yrths)
-        mass: 1.331 × 10<sup>28</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 1.331 × 10<sup>28</sup> kg<br />(2228.587 Yrths)
         density: 2.657 g/cm<sup>3</sup>
         surface_gravity: 78.734 m/s<sup>2</sup><br />(8.029 g<sub>0</sub>)
         escape_velocity: 129.372 km/s<br />(465,741 km/h)
         rotation_period: 36.491 d
         axial_tilt: 22.63°
         albedo: 0.30
-        temperature: 265 K<br />(-8 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: 750 Lunaiad IV l
         type: Icy
         formationType: Captured
@@ -625,12 +625,12 @@ planets:
         radius: 133,646.3 km<br/>(20.977 Yrths)
         surface_area: 2.245 × 10<sup>11</sup> km<sup>2</sup><br/>(440.047 Yrths)
         volume: 9.999 × 10<sup>15</sup> km<sup>3</sup><br/>(9230.986 Yrths)
-        mass: 9.923 × 10<sup>27</sup> kg<br />(235.5359689371328 Yrths)
+        mass: 9.923 × 10<sup>27</sup> kg<br />(1661.617 Yrths)
         density: 0.992 g/cm<sup>3</sup>
         surface_gravity: 37.030 m/s<sup>2</sup><br />(3.776 g<sub>0</sub>)
         escape_velocity: 99.555 km/s<br />(358,399 km/h)
         rotation_period: 74.532 d
         axial_tilt: 14.85°
         albedo: 0.30
-        temperature: 241 K<br />(-33 °C)
+        temperature: 146 K<br />(-128 °C)
 ---

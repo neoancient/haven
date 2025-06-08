@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3575 Tanashad A is a star in the constellation Tanas
+      3575 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1008.65 ly
 apparent_magnitude: 7.27
 absolute_magnitude: -0.19

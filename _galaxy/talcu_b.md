@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Talcu B is a star in the constellation Irsa
+      Talcu B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 1021.47 ly
 apparent_magnitude: 4.78
 absolute_magnitude: -2.70

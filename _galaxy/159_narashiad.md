@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      159 Narashiad is a star in the constellation Naras
+      159 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 286.72 ly
 apparent_magnitude: 10.11
 absolute_magnitude: 5.39
@@ -31,14 +31,14 @@ planets:
     radius: 3,704.6 km<br/>(0.581 Yrths)
     surface_area: 1.725 × 10<sup>08</sup> km<sup>2</sup><br/>(0.338 Yrths)
     volume: 2.130 × 10<sup>11</sup> km<sup>3</sup><br/>(0.197 Yrths)
-    mass: 1.513 × 10<sup>24</sup> kg<br />(0.2533333157754426 Yrths)
+    mass: 1.513 × 10<sup>24</sup> kg<br />(0.25 Yrths)
     density: 7.104 g/cm<sup>3</sup>
     surface_gravity: 7.347 m/s<sup>2</sup><br />(0.749 g<sub>0</sub>)
     escape_velocity: 7.383 km/s<br />(26,580 km/h)
     rotation_period: 3.785 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 406 K<br />(133 °C)
+    temperature: 876 K<br />(603 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 49.0996% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 749.8 km<br/>(0.118 Yrths)
         surface_area: 7.065 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.766 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.498 × 10<sup>21</sup> kg<br />(0.2533333157754426 Yrths)
+        mass: 5.498 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.113 g/cm<sup>3</sup>
         surface_gravity: 0.652 m/s<sup>2</sup><br />(0.066 g<sub>0</sub>)
         escape_velocity: 0.989 km/s<br />(3,562 km/h)
         rotation_period: 45.367 d
         axial_tilt: 20.67°
         albedo: 0.30
-        temperature: 6611 K<br />(6337 °C)
+        temperature: 326 K<br />(53 °C)
   - name: 159 Narashiad II
     type: Large terrestrial
     aphelion: 128,006,722 km<br />0.856 AU
@@ -78,14 +78,14 @@ planets:
     radius: 9,177.6 km<br/>(1.441 Yrths)
     surface_area: 1.058 × 10<sup>09</sup> km<sup>2</sup><br/>(2.075 Yrths)
     volume: 3.238 × 10<sup>12</sup> km<sup>3</sup><br/>(2.989 Yrths)
-    mass: 2.555 × 10<sup>25</sup> kg<br />(4.278421735309507 Yrths)
+    mass: 2.555 × 10<sup>25</sup> kg<br />(4.28 Yrths)
     density: 7.891 g/cm<sup>3</sup>
     surface_gravity: 20.219 m/s<sup>2</sup><br />(2.062 g<sub>0</sub>)
     escape_velocity: 19.278 km/s<br />(69,400 km/h)
     rotation_period: 1.101 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 402 K<br />(128 °C)
+    temperature: 1087 K<br />(814 °C)
     surface_pressure: 175 kPa<br />(2 atm)
     composition:
       - 92.1419% carbon dioxide
@@ -103,14 +103,14 @@ planets:
         radius: 7,030.1 km<br/>(1.103 Yrths)
         surface_area: 6.211 × 10<sup>08</sup> km<sup>2</sup><br/>(1.218 Yrths)
         volume: 1.455 × 10<sup>12</sup> km<sup>3</sup><br/>(1.344 Yrths)
-        mass: 3.801 × 10<sup>24</sup> kg<br />(4.278421735309507 Yrths)
+        mass: 3.801 × 10<sup>24</sup> kg<br />(0.637 Yrths)
         density: 2.612 g/cm<sup>3</sup>
         surface_gravity: 5.127 m/s<sup>2</sup><br />(0.523 g<sub>0</sub>)
         escape_velocity: 8.496 km/s<br />(30,585 km/h)
         rotation_period: 51.427 d
         axial_tilt: 14.79°
         albedo: 0.30
-        temperature: 3541 K<br />(3268 °C)
+        temperature: 250 K<br />(-24 °C)
   - name: 159 Narashiad III
     type: Large terrestrial
     aphelion: 221,065,627 km<br />1.478 AU
@@ -122,14 +122,14 @@ planets:
     radius: 7,027.3 km<br/>(1.103 Yrths)
     surface_area: 6.206 × 10<sup>08</sup> km<sup>2</sup><br/>(1.217 Yrths)
     volume: 1.454 × 10<sup>12</sup> km<sup>3</sup><br/>(1.342 Yrths)
-    mass: 9.413 × 10<sup>24</sup> kg<br />(1.5762506050597362 Yrths)
+    mass: 9.413 × 10<sup>24</sup> kg<br />(1.58 Yrths)
     density: 6.476 g/cm<sup>3</sup>
     surface_gravity: 12.705 m/s<sup>2</sup><br />(1.296 g<sub>0</sub>)
     escape_velocity: 13.372 km/s<br />(48,139 km/h)
     rotation_period: 1.182 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 283 K<br />(10 °C)
+    temperature: 608 K<br />(335 °C)
     surface_pressure: 198 kPa<br />(2 atm)
     composition:
       - 52.3648% carbon dioxide
@@ -147,14 +147,14 @@ planets:
         radius: 1,741.7 km<br/>(0.273 Yrths)
         surface_area: 3.812 × 10<sup>07</sup> km<sup>2</sup><br/>(0.075 Yrths)
         volume: 2.213 × 10<sup>10</sup> km<sup>3</sup><br/>(0.020 Yrths)
-        mass: 7.581 × 10<sup>22</sup> kg<br />(1.5762506050597362 Yrths)
+        mass: 7.581 × 10<sup>22</sup> kg<br />(0.013 Yrths)
         density: 3.426 g/cm<sup>3</sup>
         surface_gravity: 1.666 m/s<sup>2</sup><br />(0.170 g<sub>0</sub>)
         escape_velocity: 2.410 km/s<br />(8,678 km/h)
         rotation_period: 38.445 d
         axial_tilt: 13.00°
         albedo: 0.30
-        temperature: 2926 K<br />(2653 °C)
+        temperature: 191 K<br />(-82 °C)
       - name: 159 Narashiad III b
         type: Icy
         formationType: Impact formed
@@ -167,14 +167,14 @@ planets:
         radius: 4,123.3 km<br/>(0.647 Yrths)
         surface_area: 2.136 × 10<sup>08</sup> km<sup>2</sup><br/>(0.419 Yrths)
         volume: 2.936 × 10<sup>11</sup> km<sup>3</sup><br/>(0.271 Yrths)
-        mass: 5.015 × 10<sup>23</sup> kg<br />(1.5762506050597362 Yrths)
+        mass: 5.015 × 10<sup>23</sup> kg<br />(0.084 Yrths)
         density: 1.708 g/cm<sup>3</sup>
         surface_gravity: 1.966 m/s<sup>2</sup><br />(0.200 g<sub>0</sub>)
         escape_velocity: 4.029 km/s<br />(14,505 km/h)
         rotation_period: 41.305 d
         axial_tilt: 17.50°
         albedo: 0.30
-        temperature: 2790 K<br />(2517 °C)
+        temperature: 191 K<br />(-82 °C)
   - name: 159 Narashiad IV
     type: Terrestrial
     aphelion: 396,902,413 km<br />2.653 AU
@@ -186,7 +186,7 @@ planets:
     radius: 8,345.2 km<br/>(1.310 Yrths)
     surface_area: 8.751 × 10<sup>08</sup> km<sup>2</sup><br/>(1.716 Yrths)
     volume: 2.434 × 10<sup>12</sup> km<sup>3</sup><br/>(2.247 Yrths)
-    mass: 1.259 × 10<sup>25</sup> kg<br />(2.1085926647651214 Yrths)
+    mass: 1.259 × 10<sup>25</sup> kg<br />(2.11 Yrths)
     density: 5.173 g/cm<sup>3</sup>
     surface_gravity: 12.052 m/s<sup>2</sup><br />(1.229 g<sub>0</sub>)
     escape_velocity: 14.192 km/s<br />(51,093 km/h)
@@ -207,14 +207,14 @@ planets:
         radius: 2,347.7 km<br/>(0.369 Yrths)
         surface_area: 6.926 × 10<sup>07</sup> km<sup>2</sup><br/>(0.136 Yrths)
         volume: 5.421 × 10<sup>10</sup> km<sup>3</sup><br/>(0.050 Yrths)
-        mass: 7.558 × 10<sup>22</sup> kg<br />(2.1085926647651214 Yrths)
+        mass: 7.558 × 10<sup>22</sup> kg<br />(0.013 Yrths)
         density: 1.394 g/cm<sup>3</sup>
         surface_gravity: 0.914 m/s<sup>2</sup><br />(0.093 g<sub>0</sub>)
         escape_velocity: 2.073 km/s<br />(7,463 km/h)
         rotation_period: 51.889 d
         axial_tilt: 42.52°
         albedo: 0.30
-        temperature: 1781 K<br />(1508 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 159 Narashiad IV b
         type: Rocky
         formationType: Impact formed
@@ -227,14 +227,14 @@ planets:
         radius: 3,362.3 km<br/>(0.528 Yrths)
         surface_area: 1.421 × 10<sup>08</sup> km<sup>2</sup><br/>(0.279 Yrths)
         volume: 1.592 × 10<sup>11</sup> km<sup>3</sup><br/>(0.147 Yrths)
-        mass: 4.612 × 10<sup>23</sup> kg<br />(2.1085926647651214 Yrths)
+        mass: 4.612 × 10<sup>23</sup> kg<br />(0.077 Yrths)
         density: 2.897 g/cm<sup>3</sup>
         surface_gravity: 2.719 m/s<sup>2</sup><br />(0.277 g<sub>0</sub>)
         escape_velocity: 4.279 km/s<br />(15,404 km/h)
         rotation_period: 51.482 d
         axial_tilt: 10.50°
         albedo: 0.30
-        temperature: 1698 K<br />(1425 °C)
+        temperature: 146 K<br />(-127 °C)
   - name: 159 Narashiad V
     type: Gas giant
     aphelion: 642,233,873 km<br />4.293 AU
@@ -246,7 +246,7 @@ planets:
     radius: 184.3 km<br/>(0.029 Yrths)
     surface_area: 4.269 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.623 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.123 × 10<sup>26</sup> kg<br />(119.26972892378508 Yrths)
+    mass: 7.123 × 10<sup>26</sup> kg<br />(119.27 Yrths)
     density: 27159336.759 g/cm<sup>3</sup>
     surface_gravity: 1397562.621 m/s<sup>2</sup><br />(142511.726 g<sub>0</sub>)
     escape_velocity: 718.239 km/s<br />(2,585,661 km/h)
@@ -267,14 +267,14 @@ planets:
         radius: 103,722.1 km<br/>(16.280 Yrths)
         surface_area: 1.352 × 10<sup>11</sup> km<sup>2</sup><br/>(265.050 Yrths)
         volume: 4.674 × 10<sup>15</sup> km<sup>3</sup><br/>(4315.106 Yrths)
-        mass: 1.041 × 10<sup>28</sup> kg<br />(119.26972892378508 Yrths)
+        mass: 1.041 × 10<sup>28</sup> kg<br />(1742.409 Yrths)
         density: 2.226 g/cm<sup>3</sup>
         surface_gravity: 64.468 m/s<sup>2</sup><br />(6.574 g<sub>0</sub>)
         escape_velocity: 115.722 km/s<br />(416,600 km/h)
         rotation_period: 34.969 d
         axial_tilt: 14.96°
         albedo: 0.30
-        temperature: 695 K<br />(422 °C)
+        temperature: 112 K<br />(-162 °C)
       - name: 159 Narashiad V b
         type: Icy
         formationType: Captured
@@ -287,14 +287,14 @@ planets:
         radius: 144,228.8 km<br/>(22.638 Yrths)
         surface_area: 2.614 × 10<sup>11</sup> km<sup>2</sup><br/>(512.494 Yrths)
         volume: 1.257 × 10<sup>16</sup> km<sup>3</sup><br/>(11602.009 Yrths)
-        mass: 1.631 × 10<sup>28</sup> kg<br />(119.26972892378508 Yrths)
+        mass: 1.631 × 10<sup>28</sup> kg<br />(2730.629 Yrths)
         density: 1.298 g/cm<sup>3</sup>
         surface_gravity: 52.251 m/s<sup>2</sup><br />(5.328 g<sub>0</sub>)
         escape_velocity: 122.852 km/s<br />(442,268 km/h)
         rotation_period: 59.919 d
         axial_tilt: 12.88°
         albedo: 0.30
-        temperature: 663 K<br />(390 °C)
+        temperature: 112 K<br />(-162 °C)
       - name: 159 Narashiad V c
         type: Icy
         formationType: Accreted
@@ -307,14 +307,14 @@ planets:
         radius: 137,668.2 km<br/>(21.609 Yrths)
         surface_area: 2.382 × 10<sup>11</sup> km<sup>2</sup><br/>(466.930 Yrths)
         volume: 1.093 × 10<sup>16</sup> km<sup>3</sup><br/>(10089.694 Yrths)
-        mass: 1.272 × 10<sup>28</sup> kg<br />(119.26972892378508 Yrths)
+        mass: 1.272 × 10<sup>28</sup> kg<br />(2130.041 Yrths)
         density: 1.164 g/cm<sup>3</sup>
         surface_gravity: 44.736 m/s<sup>2</sup><br />(4.562 g<sub>0</sub>)
         escape_velocity: 111.059 km/s<br />(399,814 km/h)
         rotation_period: 88.263 d
         axial_tilt: 12.03°
         albedo: 0.30
-        temperature: 475 K<br />(202 °C)
+        temperature: 112 K<br />(-162 °C)
       - name: 159 Narashiad V d
         type: Asteroid
         formationType: Captured
@@ -327,14 +327,14 @@ planets:
         radius: 85,529.1 km<br/>(13.425 Yrths)
         surface_area: 9.193 × 10<sup>10</sup> km<sup>2</sup><br/>(180.224 Yrths)
         volume: 2.621 × 10<sup>15</sup> km<sup>3</sup><br/>(2419.461 Yrths)
-        mass: 9.157 × 10<sup>27</sup> kg<br />(119.26972892378508 Yrths)
+        mass: 9.157 × 10<sup>27</sup> kg<br />(1533.375 Yrths)
         density: 3.494 g/cm<sup>3</sup>
         surface_gravity: 83.437 m/s<sup>2</sup><br />(8.508 g<sub>0</sub>)
         escape_velocity: 119.549 km/s<br />(430,376 km/h)
         rotation_period: 43.836 d
         axial_tilt: 49.16°
         albedo: 0.30
-        temperature: 159 K<br />(-114 °C)
+        temperature: 112 K<br />(-162 °C)
       - name: 159 Narashiad V e
         type: Icy
         formationType: Accreted
@@ -347,14 +347,14 @@ planets:
         radius: 197,813.2 km<br/>(31.049 Yrths)
         surface_area: 4.917 × 10<sup>11</sup> km<sup>2</sup><br/>(964.041 Yrths)
         volume: 3.242 × 10<sup>16</sup> km<sup>3</sup><br/>(29932.505 Yrths)
-        mass: 2.270 × 10<sup>28</sup> kg<br />(119.26972892378508 Yrths)
+        mass: 2.270 × 10<sup>28</sup> kg<br />(3800.430 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 38.660 m/s<sup>2</sup><br />(3.942 g<sub>0</sub>)
         escape_velocity: 123.756 km/s<br />(445,522 km/h)
         rotation_period: 63.800 d
         axial_tilt: 17.28°
         albedo: 0.30
-        temperature: 138 K<br />(-136 °C)
+        temperature: 112 K<br />(-162 °C)
   - name: 159 Narashiad VI
     type: Large terrestrial
     aphelion: 1,095,417,958 km<br />7.322 AU
@@ -366,14 +366,14 @@ planets:
     radius: 12,106.4 km<br/>(1.900 Yrths)
     surface_area: 1.842 × 10<sup>09</sup> km<sup>2</sup><br/>(3.611 Yrths)
     volume: 7.433 × 10<sup>12</sup> km<sup>3</sup><br/>(6.862 Yrths)
-    mass: 4.295 × 10<sup>25</sup> kg<br />(7.192168119532064 Yrths)
+    mass: 4.295 × 10<sup>25</sup> kg<br />(7.19 Yrths)
     density: 5.779 g/cm<sup>3</sup>
     surface_gravity: 19.533 m/s<sup>2</sup><br />(1.992 g<sub>0</sub>)
     escape_velocity: 21.762 km/s<br />(78,343 km/h)
     rotation_period: 0.581 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 107 K<br />(-167 °C)
+    temperature: 101 K<br />(-172 °C)
     surface_pressure: 183 kPa<br />(2 atm)
     composition:
       - 68.9144% nitrogen
@@ -393,14 +393,14 @@ planets:
         radius: 4,601.4 km<br/>(0.722 Yrths)
         surface_area: 2.661 × 10<sup>08</sup> km<sup>2</sup><br/>(0.522 Yrths)
         volume: 4.081 × 10<sup>11</sup> km<sup>3</sup><br/>(0.377 Yrths)
-        mass: 1.360 × 10<sup>24</sup> kg<br />(7.192168119532064 Yrths)
+        mass: 1.360 × 10<sup>24</sup> kg<br />(0.228 Yrths)
         density: 3.332 g/cm<sup>3</sup>
         surface_gravity: 4.281 m/s<sup>2</sup><br />(0.437 g<sub>0</sub>)
         escape_velocity: 6.281 km/s<br />(22,611 km/h)
         rotation_period: 44.220 d
         axial_tilt: 14.90°
         albedo: 0.30
-        temperature: 860 K<br />(586 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 159 Narashiad VI b
         type: Rocky
         formationType: Captured
@@ -413,14 +413,14 @@ planets:
         radius: 9,661.2 km<br/>(1.516 Yrths)
         surface_area: 1.173 × 10<sup>09</sup> km<sup>2</sup><br/>(2.300 Yrths)
         volume: 3.777 × 10<sup>12</sup> km<sup>3</sup><br/>(3.487 Yrths)
-        mass: 1.120 × 10<sup>25</sup> kg<br />(7.192168119532064 Yrths)
+        mass: 1.120 × 10<sup>25</sup> kg<br />(1.875 Yrths)
         density: 2.964 g/cm<sup>3</sup>
         surface_gravity: 7.996 m/s<sup>2</sup><br />(0.815 g<sub>0</sub>)
         escape_velocity: 12.438 km/s<br />(44,777 km/h)
         rotation_period: 47.983 d
         axial_tilt: 12.21°
         albedo: 0.30
-        temperature: 820 K<br />(546 °C)
+        temperature: 85 K<br />(-188 °C)
   - name: 159 Narashiad VII
     type: Ice giant
     aphelion: 1,931,172,302 km<br />12.909 AU
@@ -432,14 +432,14 @@ planets:
     radius: 30,299.8 km<br/>(4.756 Yrths)
     surface_area: 1.154 × 10<sup>10</sup> km<sup>2</sup><br/>(22.619 Yrths)
     volume: 1.165 × 10<sup>14</sup> km<sup>3</sup><br/>(107.572 Yrths)
-    mass: 1.508 × 10<sup>26</sup> kg<br />(25.25609640396271 Yrths)
+    mass: 1.508 × 10<sup>26</sup> kg<br />(25.26 Yrths)
     density: 1.294 g/cm<sup>3</sup>
     surface_gravity: 10.950 m/s<sup>2</sup><br />(1.117 g<sub>0</sub>)
     escape_velocity: 25.777 km/s<br />(92,799 km/h)
     rotation_period: 0.340 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 114 K<br />(-159 °C)
+    temperature: 102 K<br />(-171 °C)
     composition:
       - 88.3064% hydrogen
       - 11.6936% helium
@@ -456,14 +456,14 @@ planets:
         radius: 28,750.2 km<br/>(4.513 Yrths)
         surface_area: 1.039 × 10<sup>10</sup> km<sup>2</sup><br/>(20.364 Yrths)
         volume: 9.954 × 10<sup>13</sup> km<sup>3</sup><br/>(91.897 Yrths)
-        mass: 6.968 × 10<sup>25</sup> kg<br />(25.25609640396271 Yrths)
+        mass: 6.968 × 10<sup>25</sup> kg<br />(11.668 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 5.619 m/s<sup>2</sup><br />(0.573 g<sub>0</sub>)
         escape_velocity: 17.987 km/s<br />(64,752 km/h)
         rotation_period: 71.244 d
         axial_tilt: 9.81°
         albedo: 0.30
-        temperature: 456 K<br />(183 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 159 Narashiad VII b
         type: Dwarf planet
         formationType: Captured
@@ -476,14 +476,14 @@ planets:
         radius: 34,855.4 km<br/>(5.471 Yrths)
         surface_area: 1.527 × 10<sup>10</sup> km<sup>2</sup><br/>(29.931 Yrths)
         volume: 1.774 × 10<sup>14</sup> km<sup>3</sup><br/>(163.753 Yrths)
-        mass: 3.925 × 10<sup>26</sup> kg<br />(25.25609640396271 Yrths)
+        mass: 3.925 × 10<sup>26</sup> kg<br />(65.731 Yrths)
         density: 2.213 g/cm<sup>3</sup>
         surface_gravity: 21.536 m/s<sup>2</sup><br />(2.196 g<sub>0</sub>)
         escape_velocity: 38.773 km/s<br />(139,583 km/h)
         rotation_period: 39.766 d
         axial_tilt: 8.66°
         albedo: 0.30
-        temperature: 396 K<br />(122 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 159 Narashiad VII c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -496,35 +496,15 @@ planets:
         radius: 31,627.5 km<br/>(4.964 Yrths)
         surface_area: 1.257 × 10<sup>10</sup> km<sup>2</sup><br/>(24.644 Yrths)
         volume: 1.325 × 10<sup>14</sup> km<sup>3</sup><br/>(122.341 Yrths)
-        mass: 2.994 × 10<sup>26</sup> kg<br />(25.25609640396271 Yrths)
+        mass: 2.994 × 10<sup>26</sup> kg<br />(50.136 Yrths)
         density: 2.259 g/cm<sup>3</sup>
         surface_gravity: 19.950 m/s<sup>2</sup><br />(2.034 g<sub>0</sub>)
         escape_velocity: 35.548 km/s<br />(127,974 km/h)
         rotation_period: 48.640 d
         axial_tilt: 15.25°
         albedo: 0.30
-        temperature: 377 K<br />(104 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 159 Narashiad VII d
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 76,474,476 km<br />
-        perihelion: 59,185,161 km<br />
-        semi_major_axis: 67,829,819 km<br />
-        eccentricity: 0.127
-        orbital_period: 0.52 d<br />
-        inclination: 1.46°
-        radius: 16,794.6 km<br/>(2.636 Yrths)
-        surface_area: 3.544 × 10<sup>09</sup> km<sup>2</sup><br/>(6.949 Yrths)
-        volume: 1.984 × 10<sup>13</sup> km<sup>3</sup><br/>(18.318 Yrths)
-        mass: 4.067 × 10<sup>25</sup> kg<br />(25.25609640396271 Yrths)
-        density: 2.050 g/cm<sup>3</sup>
-        surface_gravity: 9.611 m/s<sup>2</sup><br />(0.980 g<sub>0</sub>)
-        escape_velocity: 17.980 km/s<br />(64,727 km/h)
-        rotation_period: 69.091 d
-        axial_tilt: 16.55°
-        albedo: 0.30
-        temperature: 343 K<br />(70 °C)
-      - name: 159 Narashiad VII e
         type: Asteroid
         formationType: Captured
         aphelion: 83,622,759 km<br />
@@ -536,15 +516,15 @@ planets:
         radius: 19,441.1 km<br/>(3.052 Yrths)
         surface_area: 4.750 × 10<sup>09</sup> km<sup>2</sup><br/>(9.312 Yrths)
         volume: 3.078 × 10<sup>13</sup> km<sup>3</sup><br/>(28.415 Yrths)
-        mass: 7.171 × 10<sup>25</sup> kg<br />(25.25609640396271 Yrths)
+        mass: 7.171 × 10<sup>25</sup> kg<br />(12.008 Yrths)
         density: 2.330 g/cm<sup>3</sup>
         surface_gravity: 12.646 m/s<sup>2</sup><br />(1.290 g<sub>0</sub>)
         escape_velocity: 22.190 km/s<br />(79,882 km/h)
         rotation_period: 57.429 d
         axial_tilt: 22.34°
         albedo: 0.30
-        temperature: 327 K<br />(54 °C)
-      - name: 159 Narashiad VII f
+        temperature: 65 K<br />(-208 °C)
+      - name: 159 Narashiad VII e
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 93,598,079 km<br />
@@ -556,15 +536,15 @@ planets:
         radius: 28,883.3 km<br/>(4.534 Yrths)
         surface_area: 1.048 × 10<sup>10</sup> km<sup>2</sup><br/>(20.553 Yrths)
         volume: 1.009 × 10<sup>14</sup> km<sup>3</sup><br/>(93.179 Yrths)
-        mass: 2.173 × 10<sup>26</sup> kg<br />(25.25609640396271 Yrths)
+        mass: 2.173 × 10<sup>26</sup> kg<br />(36.392 Yrths)
         density: 2.153 g/cm<sup>3</sup>
         surface_gravity: 17.364 m/s<sup>2</sup><br />(1.771 g<sub>0</sub>)
         escape_velocity: 31.693 km/s<br />(114,093 km/h)
         rotation_period: 52.491 d
         axial_tilt: 26.71°
         albedo: 0.30
-        temperature: 297 K<br />(24 °C)
-      - name: 159 Narashiad VII g
+        temperature: 65 K<br />(-208 °C)
+      - name: 159 Narashiad VII f
         type: Icy
         formationType: Impact formed
         aphelion: 108,376,533 km<br />
@@ -576,12 +556,12 @@ planets:
         radius: 45,940.8 km<br/>(7.211 Yrths)
         surface_area: 2.652 × 10<sup>10</sup> km<sup>2</sup><br/>(51.998 Yrths)
         volume: 4.061 × 10<sup>14</sup> km<sup>3</sup><br/>(374.950 Yrths)
-        mass: 6.069 × 10<sup>26</sup> kg<br />(25.25609640396271 Yrths)
+        mass: 6.069 × 10<sup>26</sup> kg<br />(101.620 Yrths)
         density: 1.494 g/cm<sup>3</sup>
         surface_gravity: 19.165 m/s<sup>2</sup><br />(1.954 g<sub>0</sub>)
         escape_velocity: 41.992 km/s<br />(151,171 km/h)
         rotation_period: 76.596 d
         axial_tilt: 16.56°
         albedo: 0.30
-        temperature: 283 K<br />(10 °C)
+        temperature: 65 K<br />(-208 °C)
 ---

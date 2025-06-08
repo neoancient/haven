@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2767 Keead A is a star in the constellation Kee
+      2767 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 453.61 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 2.12

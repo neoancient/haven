@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Derna C is a star in the constellation Niokero
+      Derna C is a star in the constellation <a href="niokero.html">Niokero</a>
 distance: 142.84 ly
 apparent_magnitude: 13.15
 absolute_magnitude: 9.94

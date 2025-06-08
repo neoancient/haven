@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1715 Arniad is a star in the constellation Arni
+      1715 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 278.80 ly
 apparent_magnitude: 10.97
 absolute_magnitude: 6.31

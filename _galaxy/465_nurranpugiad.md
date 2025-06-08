@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      465 Nurranpugiad is a star in the constellation Nurranpug
+      465 Nurranpugiad is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 828.91 ly
 apparent_magnitude: 7.40
 absolute_magnitude: 0.37
@@ -31,14 +31,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.242 g/cm<sup>3</sup>
     surface_gravity: 31873.845 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 1300 K<br />(1027 °C)
+    temperature: 1246 K<br />(973 °C)
     composition:
       - 91.3275% hydrogen
       - 6.0622% helium
@@ -57,14 +57,14 @@ planets:
         radius: 1,215.5 km<br/>(0.191 Yrths)
         surface_area: 1.857 × 10<sup>07</sup> km<sup>2</sup><br/>(0.036 Yrths)
         volume: 7.522 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 5.266 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.266 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.238 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.760 km/s<br />(2,738 km/h)
         rotation_period: 66.952 d
         axial_tilt: 6.92°
         albedo: 0.30
-        temperature: 8556 K<br />(8283 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 465 Nurranpugiad I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 1,068.3 km<br/>(0.168 Yrths)
         surface_area: 1.434 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 5.107 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 3.575 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.575 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.209 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.668 km/s<br />(2,406 km/h)
         rotation_period: 105.778 d
         axial_tilt: 19.29°
         albedo: 0.30
-        temperature: 7778 K<br />(7505 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 465 Nurranpugiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -97,14 +97,14 @@ planets:
         radius: 769.2 km<br/>(0.121 Yrths)
         surface_area: 7.436 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.907 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.069 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.069 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.134 g/cm<sup>3</sup>
         surface_gravity: 0.458 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 0.840 km/s<br />(3,025 km/h)
         rotation_period: 43.053 d
         axial_tilt: 22.71°
         albedo: 0.30
-        temperature: 7071 K<br />(6798 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 465 Nurranpugiad I d
         type: Asteroid
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 819.9 km<br/>(0.129 Yrths)
         surface_area: 8.447 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.309 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 6.457 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.457 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.797 g/cm<sup>3</sup>
         surface_gravity: 0.640 m/s<sup>2</sup><br />(0.065 g<sub>0</sub>)
         escape_velocity: 1.025 km/s<br />(3,691 km/h)
         rotation_period: 38.209 d
         axial_tilt: 21.12°
         albedo: 0.30
-        temperature: 5572 K<br />(5299 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 465 Nurranpugiad I e
         type: Icy
         formationType: Accreted
@@ -137,14 +137,14 @@ planets:
         radius: 1,213.0 km<br/>(0.190 Yrths)
         surface_area: 1.849 × 10<sup>07</sup> km<sup>2</sup><br/>(0.036 Yrths)
         volume: 7.476 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 7.378 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.378 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.987 g/cm<sup>3</sup>
         surface_gravity: 0.334 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.901 km/s<br />(3,244 km/h)
         rotation_period: 54.382 d
         axial_tilt: 10.25°
         albedo: 0.30
-        temperature: 4391 K<br />(4118 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 465 Nurranpugiad I f
         type: Icy
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 1,086.3 km<br/>(0.171 Yrths)
         surface_area: 1.483 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.370 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 4.224 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.224 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.787 g/cm<sup>3</sup>
         surface_gravity: 0.239 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.720 km/s<br />(2,594 km/h)
         rotation_period: 58.427 d
         axial_tilt: 15.05°
         albedo: 0.30
-        temperature: 3629 K<br />(3356 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 465 Nurranpugiad I g
         type: Rocky
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 1,036.5 km<br/>(0.163 Yrths)
         surface_area: 1.350 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.665 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.396 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.396 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.992 g/cm<sup>3</sup>
         surface_gravity: 0.866 m/s<sup>2</sup><br />(0.088 g<sub>0</sub>)
         escape_velocity: 1.341 km/s<br />(4,827 km/h)
         rotation_period: 30.950 d
         axial_tilt: 19.73°
         albedo: 0.30
-        temperature: 3145 K<br />(2872 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 465 Nurranpugiad I h
         type: Icy
         formationType: Accreted
@@ -197,12 +197,12 @@ planets:
         radius: 903.8 km<br/>(0.142 Yrths)
         surface_area: 1.026 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.092 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.743 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.743 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.534 g/cm<sup>3</sup>
         surface_gravity: 0.387 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.837 km/s<br />(3,013 km/h)
         rotation_period: 40.302 d
         axial_tilt: 14.41°
         albedo: 0.30
-        temperature: 2148 K<br />(1875 °C)
+        temperature: 359 K<br />(86 °C)
 ---

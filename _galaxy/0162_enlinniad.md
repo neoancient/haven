@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0162 Enlinniad is a star in the constellation Enlin
+      0162 Enlinniad is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 383.70 ly
 apparent_magnitude: 5.90
 absolute_magnitude: 0.55
@@ -31,14 +31,14 @@ planets:
     radius: 10,091.4 km<br/>(1.584 Yrths)
     surface_area: 1.280 × 10<sup>09</sup> km<sup>2</sup><br/>(2.509 Yrths)
     volume: 4.305 × 10<sup>12</sup> km<sup>3</sup><br/>(3.974 Yrths)
-    mass: 2.901 × 10<sup>25</sup> kg<br />(4.856911269834974 Yrths)
+    mass: 2.901 × 10<sup>25</sup> kg<br />(4.86 Yrths)
     density: 6.738 g/cm<sup>3</sup>
     surface_gravity: 18.984 m/s<sup>2</sup><br />(1.936 g<sub>0</sub>)
     escape_velocity: 19.588 km/s<br />(70,515 km/h)
     rotation_period: 0.564 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 1002 K<br />(729 °C)
+    temperature: 2281 K<br />(2008 °C)
     surface_pressure: 2,905 kPa<br />(29 atm)
     composition:
       - 65.7622% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 2,877.1 km<br/>(0.452 Yrths)
         surface_area: 1.040 × 10<sup>08</sup> km<sup>2</sup><br/>(0.204 Yrths)
         volume: 9.975 × 10<sup>10</sup> km<sup>3</sup><br/>(0.092 Yrths)
-        mass: 2.739 × 10<sup>23</sup> kg<br />(4.856911269834974 Yrths)
+        mass: 2.739 × 10<sup>23</sup> kg<br />(0.046 Yrths)
         density: 2.746 g/cm<sup>3</sup>
         surface_gravity: 2.206 m/s<sup>2</sup><br />(0.225 g<sub>0</sub>)
         escape_velocity: 3.565 km/s<br />(12,834 km/h)
         rotation_period: 30.241 d
         axial_tilt: 13.75°
         albedo: 0.30
-        temperature: 10085 K<br />(9812 °C)
+        temperature: 560 K<br />(287 °C)
       - name: 0162 Enlinniad I b
         type: Asteroid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 7,038.4 km<br/>(1.105 Yrths)
         surface_area: 6.225 × 10<sup>08</sup> km<sup>2</sup><br/>(1.220 Yrths)
         volume: 1.461 × 10<sup>12</sup> km<sup>3</sup><br/>(1.348 Yrths)
-        mass: 4.362 × 10<sup>24</sup> kg<br />(4.856911269834974 Yrths)
+        mass: 4.362 × 10<sup>24</sup> kg<br />(0.730 Yrths)
         density: 2.987 g/cm<sup>3</sup>
         surface_gravity: 5.869 m/s<sup>2</sup><br />(0.598 g<sub>0</sub>)
         escape_velocity: 9.095 km/s<br />(32,744 km/h)
         rotation_period: 47.739 d
         axial_tilt: 24.27°
         albedo: 0.30
-        temperature: 9615 K<br />(9342 °C)
+        temperature: 560 K<br />(287 °C)
       - name: 0162 Enlinniad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -98,12 +98,12 @@ planets:
         radius: 6,516.5 km<br/>(1.023 Yrths)
         surface_area: 5.336 × 10<sup>08</sup> km<sup>2</sup><br/>(1.046 Yrths)
         volume: 1.159 × 10<sup>12</sup> km<sup>3</sup><br/>(1.070 Yrths)
-        mass: 2.780 × 10<sup>24</sup> kg<br />(4.856911269834974 Yrths)
+        mass: 2.780 × 10<sup>24</sup> kg<br />(0.466 Yrths)
         density: 2.398 g/cm<sup>3</sup>
         surface_gravity: 4.364 m/s<sup>2</sup><br />(0.445 g<sub>0</sub>)
         escape_velocity: 7.546 km/s<br />(27,167 km/h)
         rotation_period: 55.517 d
         axial_tilt: 6.32°
         albedo: 0.30
-        temperature: 9168 K<br />(8895 °C)
+        temperature: 560 K<br />(287 °C)
 ---

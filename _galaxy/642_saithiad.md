@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      642 Saithiad is a star in the constellation Saith
+      642 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 378.78 ly
 apparent_magnitude: 8.58
 absolute_magnitude: 3.25
@@ -31,7 +31,7 @@ planets:
     radius: 10,790.0 km<br/>(1.694 Yrths)
     surface_area: 1.463 × 10<sup>09</sup> km<sup>2</sup><br/>(2.868 Yrths)
     volume: 5.262 × 10<sup>12</sup> km<sup>3</sup><br/>(4.858 Yrths)
-    mass: 3.212 × 10<sup>25</sup> kg<br />(5.378709194797354 Yrths)
+    mass: 3.212 × 10<sup>25</sup> kg<br />(5.38 Yrths)
     density: 6.104 g/cm<sup>3</sup>
     surface_gravity: 18.389 m/s<sup>2</sup><br />(1.875 g<sub>0</sub>)
     escape_velocity: 19.935 km/s<br />(71,764 km/h)
@@ -52,12 +52,12 @@ planets:
         radius: 10,393.4 km<br/>(1.631 Yrths)
         surface_area: 1.357 × 10<sup>09</sup> km<sup>2</sup><br/>(2.661 Yrths)
         volume: 4.703 × 10<sup>12</sup> km<sup>3</sup><br/>(4.342 Yrths)
-        mass: 1.372 × 10<sup>25</sup> kg<br />(5.378709194797354 Yrths)
+        mass: 1.372 × 10<sup>25</sup> kg<br />(2.297 Yrths)
         density: 2.916 g/cm<sup>3</sup>
         surface_gravity: 8.463 m/s<sup>2</sup><br />(0.863 g<sub>0</sub>)
         escape_velocity: 13.272 km/s<br />(47,781 km/h)
         rotation_period: 48.309 d
         axial_tilt: 21.25°
         albedo: 0.30
-        temperature: 3376 K<br />(3103 °C)
+        temperature: 248 K<br />(-25 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5307 Switheriad A is a star in the constellation Swither
+      5307 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 178.15 ly
 apparent_magnitude: 7.97
 absolute_magnitude: 4.28

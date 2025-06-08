@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      934 Ratharshinniad A is a star in the constellation Ratharshin
+      934 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 183.36 ly
 apparent_magnitude: 7.33
 absolute_magnitude: 3.58

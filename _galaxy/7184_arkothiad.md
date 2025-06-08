@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7184 Arkothiad is a star in the constellation Arkoth
+      7184 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 604.16 ly
 apparent_magnitude: 7.08
 absolute_magnitude: 0.74

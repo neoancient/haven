@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Tenioshiad A is a star in the constellation Tenios
+      0015 Tenioshiad A is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 169.45 ly
 apparent_magnitude: 5.74
 absolute_magnitude: 2.16

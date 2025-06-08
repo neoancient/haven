@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3678 Oniad is a star in the constellation Oni
+      3678 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 255.21 ly
 apparent_magnitude: 10.08
 absolute_magnitude: 5.62

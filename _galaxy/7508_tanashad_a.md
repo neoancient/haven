@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7508 Tanashad A is a star in the constellation Tanas
+      7508 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 241.25 ly
 apparent_magnitude: 9.48
 absolute_magnitude: 5.13

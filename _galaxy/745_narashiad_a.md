@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      745 Narashiad A is a star in the constellation Naras
+      745 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 556.93 ly
 apparent_magnitude: 6.56
 absolute_magnitude: 0.40

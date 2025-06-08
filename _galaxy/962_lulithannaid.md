@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      962 Lulithannaid is a star in the constellation Lulithan
+      962 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 358.92 ly
 apparent_magnitude: 13.11
 absolute_magnitude: 7.90

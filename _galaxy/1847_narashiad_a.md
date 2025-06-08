@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1847 Narashiad A is a star in the constellation Naras
+      1847 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 512.63 ly
 apparent_magnitude: 7.20
 absolute_magnitude: 1.22

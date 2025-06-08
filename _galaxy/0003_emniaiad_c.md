@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0003 Emniaiad C is a star in the constellation Emnia
+      0003 Emniaiad C is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 215.50 ly
 apparent_magnitude: 8.66
 absolute_magnitude: 4.56

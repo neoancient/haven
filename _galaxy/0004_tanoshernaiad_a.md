@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0004 Tanoshernaiad A is a star in the constellation Tanosherna
+      0004 Tanoshernaiad A is a star in the constellation <a href="tanosherna.html">Tanosherna</a>
 distance: 282.61 ly
 apparent_magnitude: 6.54
 absolute_magnitude: 1.85

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1001 Oniad is a star in the constellation Oni
+      1001 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1085.66 ly
 apparent_magnitude: 9.96
 absolute_magnitude: 2.34

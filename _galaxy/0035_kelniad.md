@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0035 Kelniad is a star in the constellation Keln
+      0035 Kelniad is a star in the constellation <a href="keln.html">Keln</a>
 distance: 3.83 ly
 apparent_magnitude: 6.45
 absolute_magnitude: 11.10
@@ -31,14 +31,14 @@ planets:
     radius: 2,957.6 km<br/>(0.464 Yrths)
     surface_area: 1.099 × 10<sup>08</sup> km<sup>2</sup><br/>(0.216 Yrths)
     volume: 1.084 × 10<sup>11</sup> km<sup>3</sup><br/>(0.100 Yrths)
-    mass: 4.679 × 10<sup>24</sup> kg<br />(0.7834806387305002 Yrths)
+    mass: 4.679 × 10<sup>24</sup> kg<br />(0.78 Yrths)
     density: 43.175 g/cm<sup>3</sup>
     surface_gravity: 35.652 m/s<sup>2</sup><br />(3.635 g<sub>0</sub>)
     escape_velocity: 14.532 km/s<br />(52,315 km/h)
     rotation_period: 3.121 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 385 K<br />(112 °C)
+    temperature: 943 K<br />(670 °C)
     surface_pressure: 100 kPa<br />(1 atm)
     composition:
       - 75.4230% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 2,006.2 km<br/>(0.315 Yrths)
         surface_area: 5.058 × 10<sup>07</sup> km<sup>2</sup><br/>(0.099 Yrths)
         volume: 3.382 × 10<sup>10</sup> km<sup>3</sup><br/>(0.031 Yrths)
-        mass: 9.312 × 10<sup>22</sup> kg<br />(0.7834806387305002 Yrths)
+        mass: 9.312 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 2.753 g/cm<sup>3</sup>
         surface_gravity: 1.542 m/s<sup>2</sup><br />(0.157 g<sub>0</sub>)
         escape_velocity: 2.489 km/s<br />(8,961 km/h)
         rotation_period: 41.153 d
         axial_tilt: 11.44°
         albedo: 0.30
-        temperature: 3798 K<br />(3525 °C)
+        temperature: 255 K<br />(-18 °C)
   - name: 0035 Kelniad II
     type: Terrestrial
     aphelion: 42,596,541 km<br />0.285 AU
@@ -75,14 +75,14 @@ planets:
     radius: 3,034.2 km<br/>(0.476 Yrths)
     surface_area: 1.157 × 10<sup>08</sup> km<sup>2</sup><br/>(0.227 Yrths)
     volume: 1.170 × 10<sup>11</sup> km<sup>3</sup><br/>(0.108 Yrths)
-    mass: 2.008 × 10<sup>24</sup> kg<br />(0.3361529260249949 Yrths)
+    mass: 2.008 × 10<sup>24</sup> kg<br />(0.34 Yrths)
     density: 17.157 g/cm<sup>3</sup>
     surface_gravity: 14.534 m/s<sup>2</sup><br />(1.482 g<sub>0</sub>)
     escape_velocity: 9.398 km/s<br />(33,832 km/h)
     rotation_period: 2.864 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 275 K<br />(2 °C)
+    temperature: 551 K<br />(278 °C)
     surface_pressure: 42 kPa<br />(0 atm)
     composition:
       - 52.0761% ammonia
@@ -103,14 +103,14 @@ planets:
         radius: 905.1 km<br/>(0.142 Yrths)
         surface_area: 1.029 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.105 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 7.479 × 10<sup>21</sup> kg<br />(0.3361529260249949 Yrths)
+        mass: 7.479 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.408 g/cm<sup>3</sup>
         surface_gravity: 0.609 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 1.050 km/s<br />(3,781 km/h)
         rotation_period: 42.376 d
         axial_tilt: 18.22°
         albedo: 0.30
-        temperature: 3302 K<br />(3029 °C)
+        temperature: 208 K<br />(-65 °C)
   - name: 0035 Kelniad III
     type: Large terrestrial
     aphelion: 64,506,319 km<br />0.431 AU
@@ -122,14 +122,14 @@ planets:
     radius: 7,302.9 km<br/>(1.146 Yrths)
     surface_area: 6.702 × 10<sup>08</sup> km<sup>2</sup><br/>(1.314 Yrths)
     volume: 1.631 × 10<sup>12</sup> km<sup>3</sup><br/>(1.506 Yrths)
-    mass: 1.798 × 10<sup>25</sup> kg<br />(3.0114563294163936 Yrths)
+    mass: 1.798 × 10<sup>25</sup> kg<br />(3.01 Yrths)
     density: 11.023 g/cm<sup>3</sup>
     surface_gravity: 22.476 m/s<sup>2</sup><br />(2.292 g<sub>0</sub>)
     escape_velocity: 18.131 km/s<br />(65,271 km/h)
     rotation_period: 0.929 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 229 K<br />(-44 °C)
+    temperature: 350 K<br />(77 °C)
     surface_pressure: 198 kPa<br />(2 atm)
     composition:
       - 79.4842% methane
@@ -148,14 +148,14 @@ planets:
         radius: 6,485.0 km<br/>(1.018 Yrths)
         surface_area: 5.285 × 10<sup>08</sup> km<sup>2</sup><br/>(1.036 Yrths)
         volume: 1.142 × 10<sup>12</sup> km<sup>3</sup><br/>(1.055 Yrths)
-        mass: 1.169 × 10<sup>24</sup> kg<br />(3.0114563294163936 Yrths)
+        mass: 1.169 × 10<sup>24</sup> kg<br />(0.196 Yrths)
         density: 1.024 g/cm<sup>3</sup>
         surface_gravity: 1.853 m/s<sup>2</sup><br />(0.189 g<sub>0</sub>)
         escape_velocity: 4.906 km/s<br />(17,662 km/h)
         rotation_period: 67.368 d
         axial_tilt: 21.05°
         albedo: 0.30
-        temperature: 1762 K<br />(1489 °C)
+        temperature: 169 K<br />(-104 °C)
       - name: 0035 Kelniad III b
         type: Rocky
         formationType: Captured
@@ -168,14 +168,14 @@ planets:
         radius: 4,921.4 km<br/>(0.772 Yrths)
         surface_area: 3.044 × 10<sup>08</sup> km<sup>2</sup><br/>(0.597 Yrths)
         volume: 4.993 × 10<sup>11</sup> km<sup>3</sup><br/>(0.461 Yrths)
-        mass: 1.749 × 10<sup>24</sup> kg<br />(3.0114563294163936 Yrths)
+        mass: 1.749 × 10<sup>24</sup> kg<br />(0.293 Yrths)
         density: 3.503 g/cm<sup>3</sup>
         surface_gravity: 4.813 m/s<sup>2</sup><br />(0.491 g<sub>0</sub>)
         escape_velocity: 6.888 km/s<br />(24,796 km/h)
         rotation_period: 34.901 d
         axial_tilt: 13.67°
         albedo: 0.30
-        temperature: 1680 K<br />(1407 °C)
+        temperature: 169 K<br />(-104 °C)
       - name: 0035 Kelniad III c
         type: Rocky
         formationType: Impact formed
@@ -188,14 +188,14 @@ planets:
         radius: 4,089.2 km<br/>(0.642 Yrths)
         surface_area: 2.101 × 10<sup>08</sup> km<sup>2</sup><br/>(0.412 Yrths)
         volume: 2.864 × 10<sup>11</sup> km<sup>3</sup><br/>(0.264 Yrths)
-        mass: 1.011 × 10<sup>24</sup> kg<br />(3.0114563294163936 Yrths)
+        mass: 1.011 × 10<sup>24</sup> kg<br />(0.169 Yrths)
         density: 3.531 g/cm<sup>3</sup>
         surface_gravity: 4.031 m/s<sup>2</sup><br />(0.411 g<sub>0</sub>)
         escape_velocity: 5.746 km/s<br />(20,685 km/h)
         rotation_period: 27.637 d
         axial_tilt: 7.95°
         albedo: 0.30
-        temperature: 1602 K<br />(1329 °C)
+        temperature: 169 K<br />(-104 °C)
   - name: 0035 Kelniad IV
     type: Terrestrial
     aphelion: 99,678,408 km<br />0.666 AU
@@ -207,7 +207,7 @@ planets:
     radius: 4,920.5 km<br/>(0.772 Yrths)
     surface_area: 3.042 × 10<sup>08</sup> km<sup>2</sup><br/>(0.596 Yrths)
     volume: 4.990 × 10<sup>11</sup> km<sup>3</sup><br/>(0.461 Yrths)
-    mass: 3.394 × 10<sup>24</sup> kg<br />(0.5683315520417818 Yrths)
+    mass: 3.394 × 10<sup>24</sup> kg<br />(0.57 Yrths)
     density: 6.801 g/cm<sup>3</sup>
     surface_gravity: 9.344 m/s<sup>2</sup><br />(0.953 g<sub>0</sub>)
     escape_velocity: 9.596 km/s<br />(34,544 km/h)
@@ -228,14 +228,14 @@ planets:
         radius: 581.3 km<br/>(0.091 Yrths)
         surface_area: 4.246 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.228 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.102 × 10<sup>21</sup> kg<br />(0.5683315520417818 Yrths)
+        mass: 2.102 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.555 g/cm<sup>3</sup>
         surface_gravity: 0.415 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.695 km/s<br />(2,501 km/h)
         rotation_period: 43.971 d
         axial_tilt: 16.59°
         albedo: 0.30
-        temperature: 1735 K<br />(1462 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0035 Kelniad IV b
         type: Rocky
         formationType: Captured
@@ -248,14 +248,14 @@ planets:
         radius: 1,849.9 km<br/>(0.290 Yrths)
         surface_area: 4.301 × 10<sup>07</sup> km<sup>2</sup><br/>(0.084 Yrths)
         volume: 2.652 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 8.941 × 10<sup>22</sup> kg<br />(0.5683315520417818 Yrths)
+        mass: 8.941 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 3.372 g/cm<sup>3</sup>
         surface_gravity: 1.741 m/s<sup>2</sup><br />(0.178 g<sub>0</sub>)
         escape_velocity: 2.540 km/s<br />(9,144 km/h)
         rotation_period: 41.558 d
         axial_tilt: 18.62°
         albedo: 0.30
-        temperature: 1654 K<br />(1381 °C)
+        temperature: 138 K<br />(-135 °C)
   - name: 0035 Kelniad V
     type: Ice giant
     aphelion: 148,053,704 km<br />0.990 AU
@@ -267,14 +267,14 @@ planets:
     radius: 26,348.5 km<br/>(4.136 Yrths)
     surface_area: 8.724 × 10<sup>09</sup> km<sup>2</sup><br/>(17.104 Yrths)
     volume: 7.662 × 10<sup>13</sup> km<sup>3</sup><br/>(70.737 Yrths)
-    mass: 8.858 × 10<sup>25</sup> kg<br />(14.833252148683666 Yrths)
+    mass: 8.858 × 10<sup>25</sup> kg<br />(14.83 Yrths)
     density: 1.156 g/cm<sup>3</sup>
     surface_gravity: 8.505 m/s<sup>2</sup><br />(0.867 g<sub>0</sub>)
     escape_velocity: 21.184 km/s<br />(76,264 km/h)
     rotation_period: 0.509 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 196 K<br />(-78 °C)
+    temperature: 175 K<br />(-98 °C)
     composition:
       - 69.8590% hydrogen
       - 30.1410% helium
@@ -291,14 +291,14 @@ planets:
         radius: 18,008.1 km<br/>(2.827 Yrths)
         surface_area: 4.075 × 10<sup>09</sup> km<sup>2</sup><br/>(7.990 Yrths)
         volume: 2.446 × 10<sup>13</sup> km<sup>3</sup><br/>(22.583 Yrths)
-        mass: 5.674 × 10<sup>25</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 5.674 × 10<sup>25</sup> kg<br />(9.501 Yrths)
         density: 2.319 g/cm<sup>3</sup>
         surface_gravity: 11.662 m/s<sup>2</sup><br />(1.189 g<sub>0</sub>)
         escape_velocity: 20.508 km/s<br />(73,828 km/h)
         rotation_period: 36.032 d
         axial_tilt: 25.58°
         albedo: 0.30
-        temperature: 821 K<br />(548 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V b
         type: Icy
         formationType: Accreted
@@ -311,14 +311,14 @@ planets:
         radius: 27,697.6 km<br/>(4.347 Yrths)
         surface_area: 9.640 × 10<sup>09</sup> km<sup>2</sup><br/>(18.900 Yrths)
         volume: 8.901 × 10<sup>13</sup> km<sup>3</sup><br/>(82.168 Yrths)
-        mass: 1.289 × 10<sup>26</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 1.289 × 10<sup>26</sup> kg<br />(21.576 Yrths)
         density: 1.448 g/cm<sup>3</sup>
         surface_gravity: 11.195 m/s<sup>2</sup><br />(1.142 g<sub>0</sub>)
         escape_velocity: 24.920 km/s<br />(89,710 km/h)
         rotation_period: 65.566 d
         axial_tilt: 25.19°
         albedo: 0.30
-        temperature: 783 K<br />(509 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V c
         type: Icy
         formationType: Accreted
@@ -331,14 +331,14 @@ planets:
         radius: 35,335.0 km<br/>(5.546 Yrths)
         surface_area: 1.569 × 10<sup>10</sup> km<sup>2</sup><br/>(30.761 Yrths)
         volume: 1.848 × 10<sup>14</sup> km<sup>3</sup><br/>(170.605 Yrths)
-        mass: 2.029 × 10<sup>26</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 2.029 × 10<sup>26</sup> kg<br />(33.968 Yrths)
         density: 1.098 g/cm<sup>3</sup>
         surface_gravity: 10.829 m/s<sup>2</sup><br />(1.104 g<sub>0</sub>)
         escape_velocity: 27.683 km/s<br />(99,659 km/h)
         rotation_period: 67.880 d
         axial_tilt: 13.76°
         albedo: 0.30
-        temperature: 746 K<br />(473 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -351,14 +351,14 @@ planets:
         radius: 24,245.6 km<br/>(3.806 Yrths)
         surface_area: 7.387 × 10<sup>09</sup> km<sup>2</sup><br/>(14.483 Yrths)
         volume: 5.970 × 10<sup>13</sup> km<sup>3</sup><br/>(55.116 Yrths)
-        mass: 1.241 × 10<sup>26</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 1.241 × 10<sup>26</sup> kg<br />(20.784 Yrths)
         density: 2.079 g/cm<sup>3</sup>
         surface_gravity: 14.073 m/s<sup>2</sup><br />(1.435 g<sub>0</sub>)
         escape_velocity: 26.141 km/s<br />(94,107 km/h)
         rotation_period: 51.207 d
         axial_tilt: 15.32°
         albedo: 0.30
-        temperature: 711 K<br />(438 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V e
         type: Rocky
         formationType: Accreted
@@ -371,14 +371,14 @@ planets:
         radius: 15,439.9 km<br/>(2.423 Yrths)
         surface_area: 2.996 × 10<sup>09</sup> km<sup>2</sup><br/>(5.873 Yrths)
         volume: 1.542 × 10<sup>13</sup> km<sup>3</sup><br/>(14.233 Yrths)
-        mass: 4.621 × 10<sup>25</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 4.621 × 10<sup>25</sup> kg<br />(7.737 Yrths)
         density: 2.997 g/cm<sup>3</sup>
         surface_gravity: 12.919 m/s<sup>2</sup><br />(1.317 g<sub>0</sub>)
         escape_velocity: 19.987 km/s<br />(71,954 km/h)
         rotation_period: 43.760 d
         axial_tilt: 17.44°
         albedo: 0.30
-        temperature: 678 K<br />(405 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -391,14 +391,14 @@ planets:
         radius: 8,670.3 km<br/>(1.361 Yrths)
         surface_area: 9.447 × 10<sup>08</sup> km<sup>2</sup><br/>(1.852 Yrths)
         volume: 2.730 × 10<sup>12</sup> km<sup>3</sup><br/>(2.520 Yrths)
-        mass: 5.713 × 10<sup>24</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 5.713 × 10<sup>24</sup> kg<br />(0.957 Yrths)
         density: 2.093 g/cm<sup>3</sup>
         surface_gravity: 5.066 m/s<sup>2</sup><br />(0.517 g<sub>0</sub>)
         escape_velocity: 9.379 km/s<br />(33,763 km/h)
         rotation_period: 61.178 d
         axial_tilt: 22.55°
         albedo: 0.30
-        temperature: 647 K<br />(374 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V g
         type: Rocky
         formationType: Captured
@@ -411,14 +411,14 @@ planets:
         radius: 12,671.3 km<br/>(1.989 Yrths)
         surface_area: 2.018 × 10<sup>09</sup> km<sup>2</sup><br/>(3.956 Yrths)
         volume: 8.522 × 10<sup>12</sup> km<sup>3</sup><br/>(7.868 Yrths)
-        mass: 2.549 × 10<sup>25</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 2.549 × 10<sup>25</sup> kg<br />(4.268 Yrths)
         density: 2.991 g/cm<sup>3</sup>
         surface_gravity: 10.581 m/s<sup>2</sup><br />(1.079 g<sub>0</sub>)
         escape_velocity: 16.386 km/s<br />(58,990 km/h)
         rotation_period: 49.424 d
         axial_tilt: 11.18°
         albedo: 0.30
-        temperature: 617 K<br />(343 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V h
         type: Icy
         formationType: Accreted
@@ -431,14 +431,14 @@ planets:
         radius: 10,437.5 km<br/>(1.638 Yrths)
         surface_area: 1.369 × 10<sup>09</sup> km<sup>2</sup><br/>(2.684 Yrths)
         volume: 4.763 × 10<sup>12</sup> km<sup>3</sup><br/>(4.397 Yrths)
-        mass: 7.418 × 10<sup>24</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 7.418 × 10<sup>24</sup> kg<br />(1.242 Yrths)
         density: 1.558 g/cm<sup>3</sup>
         surface_gravity: 4.539 m/s<sup>2</sup><br />(0.463 g<sub>0</sub>)
         escape_velocity: 9.740 km/s<br />(35,065 km/h)
         rotation_period: 77.808 d
         axial_tilt: 25.19°
         albedo: 0.30
-        temperature: 561 K<br />(287 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V i
         type: Icy
         formationType: Accreted
@@ -451,14 +451,14 @@ planets:
         radius: 18,330.4 km<br/>(2.877 Yrths)
         surface_area: 4.222 × 10<sup>09</sup> km<sup>2</sup><br/>(8.278 Yrths)
         volume: 2.580 × 10<sup>13</sup> km<sup>3</sup><br/>(23.817 Yrths)
-        mass: 3.052 × 10<sup>25</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 3.052 × 10<sup>25</sup> kg<br />(5.111 Yrths)
         density: 1.183 g/cm<sup>3</sup>
         surface_gravity: 6.054 m/s<sup>2</sup><br />(0.617 g<sub>0</sub>)
         escape_velocity: 14.908 km/s<br />(53,670 km/h)
         rotation_period: 52.231 d
         axial_tilt: 12.06°
         albedo: 0.30
-        temperature: 534 K<br />(261 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V j
         type: Icy
         formationType: Captured
@@ -471,14 +471,14 @@ planets:
         radius: 17,669.5 km<br/>(2.773 Yrths)
         surface_area: 3.923 × 10<sup>09</sup> km<sup>2</sup><br/>(7.692 Yrths)
         volume: 2.311 × 10<sup>13</sup> km<sup>3</sup><br/>(21.333 Yrths)
-        mass: 2.261 × 10<sup>25</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 2.261 × 10<sup>25</sup> kg<br />(3.786 Yrths)
         density: 0.978 g/cm<sup>3</sup>
         surface_gravity: 4.826 m/s<sup>2</sup><br />(0.492 g<sub>0</sub>)
         escape_velocity: 13.069 km/s<br />(47,047 km/h)
         rotation_period: 60.196 d
         axial_tilt: 17.65°
         albedo: 0.30
-        temperature: 510 K<br />(236 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0035 Kelniad V k
         type: Dwarf planet
         formationType: Accreted
@@ -491,12 +491,12 @@ planets:
         radius: 18,783.5 km<br/>(2.948 Yrths)
         surface_area: 4.434 × 10<sup>09</sup> km<sup>2</sup><br/>(8.692 Yrths)
         volume: 2.776 × 10<sup>13</sup> km<sup>3</sup><br/>(25.628 Yrths)
-        mass: 5.659 × 10<sup>25</sup> kg<br />(14.833252148683666 Yrths)
+        mass: 5.659 × 10<sup>25</sup> kg<br />(9.475 Yrths)
         density: 2.038 g/cm<sup>3</sup>
         surface_gravity: 10.690 m/s<sup>2</sup><br />(1.090 g<sub>0</sub>)
         escape_velocity: 20.053 km/s<br />(72,192 km/h)
         rotation_period: 40.705 d
         axial_tilt: 22.84°
         albedo: 0.30
-        temperature: 486 K<br />(213 °C)
+        temperature: 112 K<br />(-161 °C)
 ---

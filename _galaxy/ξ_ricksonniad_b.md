@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ξ Ricksonniad B is a star in the constellation Rickson
+      ξ Ricksonniad B is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 209.52 ly
 apparent_magnitude: 10.20
 absolute_magnitude: 6.17

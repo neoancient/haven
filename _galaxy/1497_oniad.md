@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1497 Oniad is a star in the constellation Oni
+      1497 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 861.06 ly
 apparent_magnitude: 16.73
 absolute_magnitude: 9.63

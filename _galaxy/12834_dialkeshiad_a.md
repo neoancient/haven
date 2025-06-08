@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12834 Dialkeshiad A is a star in the constellation Dialkes
+      12834 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 594.52 ly
 apparent_magnitude: 7.24
 absolute_magnitude: 0.94

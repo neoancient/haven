@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      476 Morrishothiad A is a star in the constellation Morrishoth
+      476 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 480.16 ly
 apparent_magnitude: 7.57
 absolute_magnitude: 1.73

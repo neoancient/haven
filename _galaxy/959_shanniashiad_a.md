@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      959 Shanniashiad A is a star in the constellation Shannias
+      959 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1039.44 ly
 apparent_magnitude: 7.04
 absolute_magnitude: -0.48

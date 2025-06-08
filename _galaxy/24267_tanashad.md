@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      24267 Tanashad is a star in the constellation Tanas
+      24267 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 515.20 ly
 apparent_magnitude: 11.73
 absolute_magnitude: 5.73

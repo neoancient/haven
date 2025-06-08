@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0077 Rishauthiad B is a star in the constellation Rishauth
+      0077 Rishauthiad B is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 1055.70 ly
 apparent_magnitude: 12.68
 absolute_magnitude: 5.13

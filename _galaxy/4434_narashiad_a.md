@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4434 Narashiad A is a star in the constellation Naras
+      4434 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 380.93 ly
 apparent_magnitude: 8.72
 absolute_magnitude: 3.38

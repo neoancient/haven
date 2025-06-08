@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1885 Geardiad is a star in the constellation Geard
+      1885 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 310.45 ly
 apparent_magnitude: 9.38
 absolute_magnitude: 4.49
@@ -31,7 +31,7 @@ planets:
     radius: 217.3 km<br/>(0.034 Yrths)
     surface_area: 5.933 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.297 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.490 × 10<sup>27</sup> kg<br />(249.5045214027826 Yrths)
+    mass: 1.490 × 10<sup>27</sup> kg<br />(249.50 Yrths)
     density: 34678348.312 g/cm<sup>3</sup>
     surface_gravity: 2103682.377 m/s<sup>2</sup><br />(214515.903 g<sub>0</sub>)
     escape_velocity: 956.772 km/s<br />(3,444,379 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 148,545.9 km<br/>(23.316 Yrths)
         surface_area: 2.773 × 10<sup>11</sup> km<sup>2</sup><br/>(543.633 Yrths)
         volume: 1.373 × 10<sup>16</sup> km<sup>3</sup><br/>(12675.327 Yrths)
-        mass: 1.240 × 10<sup>28</sup> kg<br />(249.5045214027826 Yrths)
+        mass: 1.240 × 10<sup>28</sup> kg<br />(2076.015 Yrths)
         density: 0.903 g/cm<sup>3</sup>
         surface_gravity: 37.449 m/s<sup>2</sup><br />(3.819 g<sub>0</sub>)
         escape_velocity: 105.551 km/s<br />(379,984 km/h)
         rotation_period: 91.553 d
         axial_tilt: 15.44°
         albedo: 0.30
-        temperature: 821 K<br />(547 °C)
+        temperature: 234 K<br />(-39 °C)
       - name: 1885 Geardiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 123,217.3 km<br/>(19.340 Yrths)
         surface_area: 1.908 × 10<sup>11</sup> km<sup>2</sup><br/>(374.048 Yrths)
         volume: 7.836 × 10<sup>15</sup> km<sup>3</sup><br/>(7234.223 Yrths)
-        mass: 1.559 × 10<sup>28</sup> kg<br />(249.5045214027826 Yrths)
+        mass: 1.559 × 10<sup>28</sup> kg<br />(2611.048 Yrths)
         density: 1.990 g/cm<sup>3</sup>
         surface_gravity: 68.455 m/s<sup>2</sup><br />(6.981 g<sub>0</sub>)
         escape_velocity: 129.972 km/s<br />(467,899 km/h)
         rotation_period: 52.062 d
         axial_tilt: 23.47°
         albedo: 0.30
-        temperature: 647 K<br />(373 °C)
+        temperature: 234 K<br />(-39 °C)
       - name: 1885 Geardiad I c
         type: Rocky
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 174,075.1 km<br/>(27.323 Yrths)
         surface_area: 3.808 × 10<sup>11</sup> km<sup>2</sup><br/>(746.549 Yrths)
         volume: 2.210 × 10<sup>16</sup> km<sup>3</sup><br/>(20397.997 Yrths)
-        mass: 6.289 × 10<sup>28</sup> kg<br />(249.5045214027826 Yrths)
+        mass: 6.289 × 10<sup>28</sup> kg<br />(10531.316 Yrths)
         density: 2.846 g/cm<sup>3</sup>
         surface_gravity: 138.339 m/s<sup>2</sup><br />(14.107 g<sub>0</sub>)
         escape_velocity: 219.609 km/s<br />(790,593 km/h)
         rotation_period: 55.316 d
         axial_tilt: 6.60°
         albedo: 0.30
-        temperature: 486 K<br />(213 °C)
+        temperature: 234 K<br />(-39 °C)
       - name: 1885 Geardiad I d
         type: Icy
         formationType: Impact formed
@@ -112,35 +112,15 @@ planets:
         radius: 135,973.2 km<br/>(21.343 Yrths)
         surface_area: 2.323 × 10<sup>11</sup> km<sup>2</sup><br/>(455.503 Yrths)
         volume: 1.053 × 10<sup>16</sup> km<sup>3</sup><br/>(9721.591 Yrths)
-        mass: 1.721 × 10<sup>28</sup> kg<br />(249.5045214027826 Yrths)
+        mass: 1.721 × 10<sup>28</sup> kg<br />(2880.980 Yrths)
         density: 1.634 g/cm<sup>3</sup>
         surface_gravity: 62.025 m/s<sup>2</sup><br />(6.325 g<sub>0</sub>)
         escape_velocity: 129.963 km/s<br />(467,868 km/h)
         rotation_period: 51.806 d
         axial_tilt: 18.18°
         albedo: 0.30
-        temperature: 442 K<br />(168 °C)
+        temperature: 234 K<br />(-39 °C)
       - name: 1885 Geardiad I e
-        type: Icy
-        formationType: Accreted
-        aphelion: 156,373,769 km<br />
-        perihelion: 94,333,964 km<br />
-        semi_major_axis: 125,353,866 km<br />
-        eccentricity: 0.247
-        orbital_period: 0.01 d<br />
-        inclination: 14.11°
-        radius: 21,799.7 km<br/>(3.422 Yrths)
-        surface_area: 5.972 × 10<sup>09</sup> km<sup>2</sup><br/>(11.708 Yrths)
-        volume: 4.340 × 10<sup>13</sup> km<sup>3</sup><br/>(40.062 Yrths)
-        mass: 7.133 × 10<sup>25</sup> kg<br />(249.5045214027826 Yrths)
-        density: 1.644 g/cm<sup>3</sup>
-        surface_gravity: 10.004 m/s<sup>2</sup><br />(1.020 g<sub>0</sub>)
-        escape_velocity: 20.899 km/s<br />(75,235 km/h)
-        rotation_period: 53.005 d
-        axial_tilt: 19.03°
-        albedo: 0.30
-        temperature: 302 K<br />(28 °C)
-      - name: 1885 Geardiad I f
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 159,258,389 km<br />
@@ -152,15 +132,15 @@ planets:
         radius: 185,289.3 km<br/>(29.083 Yrths)
         surface_area: 4.314 × 10<sup>11</sup> km<sup>2</sup><br/>(845.835 Yrths)
         volume: 2.665 × 10<sup>16</sup> km<sup>3</sup><br/>(24599.614 Yrths)
-        mass: 6.961 × 10<sup>28</sup> kg<br />(249.5045214027826 Yrths)
+        mass: 6.961 × 10<sup>28</sup> kg<br />(11656.845 Yrths)
         density: 2.613 g/cm<sup>3</sup>
         surface_gravity: 135.150 m/s<sup>2</sup><br />(13.781 g<sub>0</sub>)
         escape_velocity: 223.946 km/s<br />(806,205 km/h)
         rotation_period: 34.252 d
         axial_tilt: 23.49°
         albedo: 0.30
-        temperature: 274 K<br />(1 °C)
-      - name: 1885 Geardiad I g
+        temperature: 234 K<br />(-39 °C)
+      - name: 1885 Geardiad I f
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 370,957,778 km<br />
@@ -172,15 +152,15 @@ planets:
         radius: 175,360.3 km<br/>(27.525 Yrths)
         surface_area: 3.864 × 10<sup>11</sup> km<sup>2</sup><br/>(757.613 Yrths)
         volume: 2.259 × 10<sup>16</sup> km<sup>3</sup><br/>(20853.112 Yrths)
-        mass: 4.608 × 10<sup>28</sup> kg<br />(249.5045214027826 Yrths)
+        mass: 4.608 × 10<sup>28</sup> kg<br />(7715.393 Yrths)
         density: 2.040 g/cm<sup>3</sup>
         surface_gravity: 99.869 m/s<sup>2</sup><br />(10.184 g<sub>0</sub>)
         escape_velocity: 187.280 km/s<br />(674,208 km/h)
         rotation_period: 57.691 d
         axial_tilt: 20.54°
         albedo: 0.30
-        temperature: 179 K<br />(-95 °C)
-      - name: 1885 Geardiad I h
+        temperature: 234 K<br />(-39 °C)
+      - name: 1885 Geardiad I g
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 537,206,511 km<br />
@@ -192,15 +172,15 @@ planets:
         radius: 117,799.3 km<br/>(18.490 Yrths)
         surface_area: 1.744 × 10<sup>11</sup> km<sup>2</sup><br/>(341.878 Yrths)
         volume: 6.847 × 10<sup>15</sup> km<sup>3</sup><br/>(6321.291 Yrths)
-        mass: 1.589 × 10<sup>28</sup> kg<br />(249.5045214027826 Yrths)
+        mass: 1.589 × 10<sup>28</sup> kg<br />(2660.021 Yrths)
         density: 2.320 g/cm<sup>3</sup>
         surface_gravity: 76.302 m/s<sup>2</sup><br />(7.781 g<sub>0</sub>)
         escape_velocity: 134.168 km/s<br />(483,005 km/h)
         rotation_period: 46.865 d
         axial_tilt: 25.44°
         albedo: 0.30
-        temperature: 148 K<br />(-126 °C)
-      - name: 1885 Geardiad I i
+        temperature: 234 K<br />(-39 °C)
+      - name: 1885 Geardiad I h
         type: Icy
         formationType: Accreted
         aphelion: 722,140,386 km<br />
@@ -212,15 +192,15 @@ planets:
         radius: 148,936.5 km<br/>(23.377 Yrths)
         surface_area: 2.787 × 10<sup>11</sup> km<sup>2</sup><br/>(546.496 Yrths)
         volume: 1.384 × 10<sup>16</sup> km<sup>3</sup><br/>(12775.585 Yrths)
-        mass: 2.162 × 10<sup>28</sup> kg<br />(249.5045214027826 Yrths)
+        mass: 2.162 × 10<sup>28</sup> kg<br />(3620.287 Yrths)
         density: 1.562 g/cm<sup>3</sup>
         surface_gravity: 64.965 m/s<sup>2</sup><br />(6.625 g<sub>0</sub>)
         escape_velocity: 139.203 km/s<br />(501,131 km/h)
         rotation_period: 43.939 d
         axial_tilt: 14.32°
         albedo: 0.30
-        temperature: 141 K<br />(-132 °C)
-      - name: 1885 Geardiad I j
+        temperature: 234 K<br />(-39 °C)
+      - name: 1885 Geardiad I i
         type: Icy
         formationType: Accreted
         aphelion: 2,111,024,929 km<br />
@@ -232,14 +212,14 @@ planets:
         radius: 134,030.1 km<br/>(21.038 Yrths)
         surface_area: 2.257 × 10<sup>11</sup> km<sup>2</sup><br/>(442.578 Yrths)
         volume: 1.009 × 10<sup>16</sup> km<sup>3</sup><br/>(9310.739 Yrths)
-        mass: 1.395 × 10<sup>28</sup> kg<br />(249.5045214027826 Yrths)
+        mass: 1.395 × 10<sup>28</sup> kg<br />(2335.683 Yrths)
         density: 1.383 g/cm<sup>3</sup>
         surface_gravity: 51.754 m/s<sup>2</sup><br />(5.277 g<sub>0</sub>)
         escape_velocity: 117.865 km/s<br />(424,313 km/h)
         rotation_period: 51.889 d
         axial_tilt: 22.63°
         albedo: 0.30
-        temperature: 79 K<br />(-194 °C)
+        temperature: 234 K<br />(-39 °C)
   - name: 1885 Geardiad II
     type: Terrestrial
     aphelion: 422,480,051 km<br />2.824 AU
@@ -251,14 +231,14 @@ planets:
     radius: 6,687.8 km<br/>(1.050 Yrths)
     surface_area: 5.621 × 10<sup>08</sup> km<sup>2</sup><br/>(1.102 Yrths)
     volume: 1.253 × 10<sup>12</sup> km<sup>3</sup><br/>(1.157 Yrths)
-    mass: 7.071 × 10<sup>24</sup> kg<br />(1.1840813971698643 Yrths)
+    mass: 7.071 × 10<sup>24</sup> kg<br />(1.18 Yrths)
     density: 5.644 g/cm<sup>3</sup>
     surface_gravity: 10.538 m/s<sup>2</sup><br />(1.075 g<sub>0</sub>)
     escape_velocity: 11.880 km/s<br />(42,769 km/h)
     rotation_period: 0.985 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 208 K<br />(-65 °C)
+    temperature: 315 K<br />(42 °C)
     surface_pressure: 34 kPa<br />(0 atm)
     composition:
       - 86.0204% methane
@@ -277,14 +257,14 @@ planets:
         radius: 2,084.3 km<br/>(0.327 Yrths)
         surface_area: 5.459 × 10<sup>07</sup> km<sup>2</sup><br/>(0.107 Yrths)
         volume: 3.793 × 10<sup>10</sup> km<sup>3</sup><br/>(0.035 Yrths)
-        mass: 1.107 × 10<sup>23</sup> kg<br />(1.1840813971698643 Yrths)
+        mass: 1.107 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 2.918 g/cm<sup>3</sup>
         surface_gravity: 1.698 m/s<sup>2</sup><br />(0.173 g<sub>0</sub>)
         escape_velocity: 2.662 km/s<br />(9,584 km/h)
         rotation_period: 33.402 d
         axial_tilt: 15.82°
         albedo: 0.30
-        temperature: 2669 K<br />(2395 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 1885 Geardiad II b
         type: Rocky
         formationType: Impact formed
@@ -297,14 +277,14 @@ planets:
         radius: 1,686.2 km<br/>(0.265 Yrths)
         surface_area: 3.573 × 10<sup>07</sup> km<sup>2</sup><br/>(0.070 Yrths)
         volume: 2.008 × 10<sup>10</sup> km<sup>3</sup><br/>(0.019 Yrths)
-        mass: 5.876 × 10<sup>22</sup> kg<br />(1.1840813971698643 Yrths)
+        mass: 5.876 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.926 g/cm<sup>3</sup>
         surface_gravity: 1.377 m/s<sup>2</sup><br />(0.140 g<sub>0</sub>)
         escape_velocity: 2.157 km/s<br />(7,764 km/h)
         rotation_period: 44.902 d
         axial_tilt: 9.88°
         albedo: 0.30
-        temperature: 2544 K<br />(2271 °C)
+        temperature: 171 K<br />(-102 °C)
   - name: 1885 Geardiad III
     type: Ice giant
     aphelion: 735,035,595 km<br />4.913 AU
@@ -316,14 +296,14 @@ planets:
     radius: 24,874.6 km<br/>(3.904 Yrths)
     surface_area: 7.775 × 10<sup>09</sup> km<sup>2</sup><br/>(15.244 Yrths)
     volume: 6.447 × 10<sup>13</sup> km<sup>3</sup><br/>(59.518 Yrths)
-    mass: 8.759 × 10<sup>25</sup> kg<br />(14.666722789315369 Yrths)
+    mass: 8.759 × 10<sup>25</sup> kg<br />(14.67 Yrths)
     density: 1.359 g/cm<sup>3</sup>
     surface_gravity: 9.435 m/s<sup>2</sup><br />(0.962 g<sub>0</sub>)
     escape_velocity: 21.680 km/s<br />(78,049 km/h)
     rotation_period: 0.371 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 232 K<br />(-41 °C)
+    temperature: 212 K<br />(-61 °C)
     composition:
       - 94.0485% hydrogen
       - 2.4561% ammonia
@@ -342,14 +322,14 @@ planets:
         radius: 39,204.0 km<br/>(6.154 Yrths)
         surface_area: 1.931 × 10<sup>10</sup> km<sup>2</sup><br/>(37.866 Yrths)
         volume: 2.524 × 10<sup>14</sup> km<sup>3</sup><br/>(233.006 Yrths)
-        mass: 3.180 × 10<sup>26</sup> kg<br />(14.666722789315369 Yrths)
+        mass: 3.180 × 10<sup>26</sup> kg<br />(53.255 Yrths)
         density: 1.260 g/cm<sup>3</sup>
         surface_gravity: 13.792 m/s<sup>2</sup><br />(1.406 g<sub>0</sub>)
         escape_velocity: 32.907 km/s<br />(118,466 km/h)
         rotation_period: 59.761 d
         axial_tilt: 22.10°
         albedo: 0.30
-        temperature: 1082 K<br />(809 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 1885 Geardiad III b
         type: Icy
         formationType: Impact formed
@@ -362,14 +342,14 @@ planets:
         radius: 28,850.0 km<br/>(4.528 Yrths)
         surface_area: 1.046 × 10<sup>10</sup> km<sup>2</sup><br/>(20.506 Yrths)
         volume: 1.006 × 10<sup>14</sup> km<sup>3</sup><br/>(92.857 Yrths)
-        mass: 1.089 × 10<sup>26</sup> kg<br />(14.666722789315369 Yrths)
+        mass: 1.089 × 10<sup>26</sup> kg<br />(18.231 Yrths)
         density: 1.082 g/cm<sup>3</sup>
         surface_gravity: 8.719 m/s<sup>2</sup><br />(0.889 g<sub>0</sub>)
         escape_velocity: 22.445 km/s<br />(80,801 km/h)
         rotation_period: 65.634 d
         axial_tilt: 9.99°
         albedo: 0.30
-        temperature: 984 K<br />(710 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 1885 Geardiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -382,14 +362,14 @@ planets:
         radius: 17,605.9 km<br/>(2.763 Yrths)
         surface_area: 3.895 × 10<sup>09</sup> km<sup>2</sup><br/>(7.637 Yrths)
         volume: 2.286 × 10<sup>13</sup> km<sup>3</sup><br/>(21.104 Yrths)
-        mass: 5.970 × 10<sup>25</sup> kg<br />(14.666722789315369 Yrths)
+        mass: 5.970 × 10<sup>25</sup> kg<br />(9.997 Yrths)
         density: 2.612 g/cm<sup>3</sup>
         surface_gravity: 12.838 m/s<sup>2</sup><br />(1.309 g<sub>0</sub>)
         escape_velocity: 21.276 km/s<br />(76,592 km/h)
         rotation_period: 32.446 d
         axial_tilt: 22.66°
         albedo: 0.30
-        temperature: 894 K<br />(621 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 1885 Geardiad III d
         type: Asteroid
         formationType: Captured
@@ -402,14 +382,14 @@ planets:
         radius: 22,569.8 km<br/>(3.543 Yrths)
         surface_area: 6.401 × 10<sup>09</sup> km<sup>2</sup><br/>(12.550 Yrths)
         volume: 4.816 × 10<sup>13</sup> km<sup>3</sup><br/>(44.459 Yrths)
-        mass: 1.339 × 10<sup>26</sup> kg<br />(14.666722789315369 Yrths)
+        mass: 1.339 × 10<sup>26</sup> kg<br />(22.426 Yrths)
         density: 2.781 g/cm<sup>3</sup>
         surface_gravity: 17.524 m/s<sup>2</sup><br />(1.787 g<sub>0</sub>)
         escape_velocity: 28.144 km/s<br />(101,319 km/h)
         rotation_period: 31.019 d
         axial_tilt: 46.72°
         albedo: 0.30
-        temperature: 853 K<br />(579 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 1885 Geardiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -422,14 +402,14 @@ planets:
         radius: 15,528.3 km<br/>(2.437 Yrths)
         surface_area: 3.030 × 10<sup>09</sup> km<sup>2</sup><br/>(5.941 Yrths)
         volume: 1.568 × 10<sup>13</sup> km<sup>3</sup><br/>(14.479 Yrths)
-        mass: 3.313 × 10<sup>25</sup> kg<br />(14.666722789315369 Yrths)
+        mass: 3.313 × 10<sup>25</sup> kg<br />(5.548 Yrths)
         density: 2.112 g/cm<sup>3</sup>
         surface_gravity: 9.158 m/s<sup>2</sup><br />(0.934 g<sub>0</sub>)
         escape_velocity: 16.876 km/s<br />(60,754 km/h)
         rotation_period: 43.278 d
         axial_tilt: 18.28°
         albedo: 0.30
-        temperature: 775 K<br />(502 °C)
+        temperature: 125 K<br />(-148 °C)
   - name: 1885 Geardiad IV
     type: Gas giant
     aphelion: 1,398,707,060 km<br />9.350 AU
@@ -441,7 +421,7 @@ planets:
     radius: 218.3 km<br/>(0.034 Yrths)
     surface_area: 5.986 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.355 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.465 × 10<sup>27</sup> kg<br />(245.36409796345484 Yrths)
+    mass: 1.465 × 10<sup>27</sup> kg<br />(245.36 Yrths)
     density: 33644101.355 g/cm<sup>3</sup>
     surface_gravity: 2050177.139 m/s<sup>2</sup><br />(209059.887 g<sub>0</sub>)
     escape_velocity: 946.661 km/s<br />(3,407,979 km/h)
@@ -462,14 +442,14 @@ planets:
         radius: 161,443.6 km<br/>(25.340 Yrths)
         surface_area: 3.275 × 10<sup>11</sup> km<sup>2</sup><br/>(642.135 Yrths)
         volume: 1.763 × 10<sup>16</sup> km<sup>3</sup><br/>(16271.964 Yrths)
-        mass: 4.592 × 10<sup>28</sup> kg<br />(245.36409796345484 Yrths)
+        mass: 4.592 × 10<sup>28</sup> kg<br />(7689.042 Yrths)
         density: 2.605 g/cm<sup>3</sup>
         surface_gravity: 117.427 m/s<sup>2</sup><br />(11.974 g<sub>0</sub>)
         escape_velocity: 194.851 km/s<br />(701,465 km/h)
         rotation_period: 31.096 d
         axial_tilt: 10.62°
         albedo: 0.30
-        temperature: 371 K<br />(98 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 1885 Geardiad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -482,14 +462,14 @@ planets:
         radius: 95,929.2 km<br/>(15.057 Yrths)
         surface_area: 1.156 × 10<sup>11</sup> km<sup>2</sup><br/>(226.718 Yrths)
         volume: 3.698 × 10<sup>15</sup> km<sup>3</sup><br/>(3413.731 Yrths)
-        mass: 1.025 × 10<sup>28</sup> kg<br />(245.36409796345484 Yrths)
+        mass: 1.025 × 10<sup>28</sup> kg<br />(1716.743 Yrths)
         density: 2.773 g/cm<sup>3</sup>
         surface_gravity: 74.257 m/s<sup>2</sup><br />(7.572 g<sub>0</sub>)
         escape_velocity: 119.441 km/s<br />(429,989 km/h)
         rotation_period: 32.473 d
         axial_tilt: 28.28°
         albedo: 0.30
-        temperature: 93 K<br />(-180 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 1885 Geardiad IV c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -502,14 +482,14 @@ planets:
         radius: 120,932.3 km<br/>(18.982 Yrths)
         surface_area: 1.838 × 10<sup>11</sup> km<sup>2</sup><br/>(360.304 Yrths)
         volume: 7.408 × 10<sup>15</sup> km<sup>3</sup><br/>(6839.183 Yrths)
-        mass: 1.609 × 10<sup>28</sup> kg<br />(245.36409796345484 Yrths)
+        mass: 1.609 × 10<sup>28</sup> kg<br />(2694.719 Yrths)
         density: 2.172 g/cm<sup>3</sup>
         surface_gravity: 73.344 m/s<sup>2</sup><br />(7.479 g<sub>0</sub>)
         escape_velocity: 133.279 km/s<br />(479,806 km/h)
         rotation_period: 34.514 d
         axial_tilt: 21.49°
         albedo: 0.30
-        temperature: 73 K<br />(-200 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 1885 Geardiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -522,14 +502,14 @@ planets:
         radius: 96,862.7 km<br/>(15.204 Yrths)
         surface_area: 1.179 × 10<sup>11</sup> km<sup>2</sup><br/>(231.152 Yrths)
         volume: 3.807 × 10<sup>15</sup> km<sup>3</sup><br/>(3514.369 Yrths)
-        mass: 9.336 × 10<sup>27</sup> kg<br />(245.36409796345484 Yrths)
+        mass: 9.336 × 10<sup>27</sup> kg<br />(1563.360 Yrths)
         density: 2.453 g/cm<sup>3</sup>
         surface_gravity: 66.326 m/s<sup>2</sup><br />(6.763 g<sub>0</sub>)
         escape_velocity: 113.430 km/s<br />(408,349 km/h)
         rotation_period: 41.354 d
         axial_tilt: 19.47°
         albedo: 0.30
-        temperature: 46 K<br />(-228 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 1885 Geardiad IV e
         type: Icy
         formationType: Impact formed
@@ -542,14 +522,14 @@ planets:
         radius: 189,015.2 km<br/>(29.668 Yrths)
         surface_area: 4.490 × 10<sup>11</sup> km<sup>2</sup><br/>(880.193 Yrths)
         volume: 2.829 × 10<sup>16</sup> km<sup>3</sup><br/>(26113.624 Yrths)
-        mass: 1.980 × 10<sup>28</sup> kg<br />(245.36409796345484 Yrths)
+        mass: 1.980 × 10<sup>28</sup> kg<br />(3315.559 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 36.940 m/s<sup>2</sup><br />(3.767 g<sub>0</sub>)
         escape_velocity: 118.252 km/s<br />(425,707 km/h)
         rotation_period: 69.865 d
         axial_tilt: 13.22°
         albedo: 0.30
-        temperature: 34 K<br />(-239 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 1885 Geardiad IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -562,14 +542,14 @@ planets:
         radius: 93,097.8 km<br/>(14.613 Yrths)
         surface_area: 1.089 × 10<sup>11</sup> km<sup>2</sup><br/>(213.532 Yrths)
         volume: 3.380 × 10<sup>15</sup> km<sup>3</sup><br/>(3120.292 Yrths)
-        mass: 8.932 × 10<sup>27</sup> kg<br />(245.36409796345484 Yrths)
+        mass: 8.932 × 10<sup>27</sup> kg<br />(1495.655 Yrths)
         density: 2.643 g/cm<sup>3</sup>
         surface_gravity: 68.689 m/s<sup>2</sup><br />(7.004 g<sub>0</sub>)
         escape_velocity: 113.168 km/s<br />(407,405 km/h)
         rotation_period: 37.063 d
         axial_tilt: 12.76°
         albedo: 0.30
-        temperature: 30 K<br />(-243 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 1885 Geardiad IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -582,12 +562,12 @@ planets:
         radius: 234,934.2 km<br/>(36.876 Yrths)
         surface_area: 6.936 × 10<sup>11</sup> km<sup>2</sup><br/>(1359.806 Yrths)
         volume: 5.432 × 10<sup>16</sup> km<sup>3</sup><br/>(50143.618 Yrths)
-        mass: 1.119 × 10<sup>29</sup> kg<br />(245.36409796345484 Yrths)
+        mass: 1.119 × 10<sup>29</sup> kg<br />(18729.530 Yrths)
         density: 2.059 g/cm<sup>3</sup>
         surface_gravity: 135.074 m/s<sup>2</sup><br />(13.774 g<sub>0</sub>)
         escape_velocity: 252.097 km/s<br />(907,550 km/h)
         rotation_period: 41.834 d
         axial_tilt: 26.98°
         albedo: 0.30
-        temperature: 23 K<br />(-250 °C)
+        temperature: 91 K<br />(-182 °C)
 ---

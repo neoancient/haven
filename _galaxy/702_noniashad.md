@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      702 Noniashad is a star in the constellation Nonias
+      702 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 530.44 ly
 apparent_magnitude: 11.73
 absolute_magnitude: 5.67

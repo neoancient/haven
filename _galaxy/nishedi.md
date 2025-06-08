@@ -7,7 +7,7 @@ sections:
   - content: >-
       Nishedi is a constellation representing a Phoenix.
 stars:
-  - name:
+  - name: <a href="nayers.html">Nayers</a>
     designation: α Nishediad
     ra: 2<sup>h</sup> 08<sup>m</sup> 59.11<sup>s</sup>
     dec: 20° 29' 40.40"
@@ -48,7 +48,7 @@ stars:
     distance: 386.29
     spectral_class: A3III + M8III
   - name:
-    designation: ζ Nishediad
+    designation: <a href="ζ_nishediad.html">ζ Nishediad</a>
     ra: 2<sup>h</sup> 01<sup>m</sup> 22.99<sup>s</sup>
     dec: 21° 25' 29.49"
     apparent_magnitude: 4.52
@@ -120,7 +120,7 @@ stars:
     distance: 193.48
     spectral_class: A9III
   - name:
-    designation: μ Nishediad
+    designation: <a href="μ_nishediad.html">μ Nishediad</a>
     ra: 2<sup>h</sup> 34<sup>m</sup> 25.83<sup>s</sup>
     dec: 17° 47' 32.53"
     apparent_magnitude: 5.33
@@ -136,7 +136,7 @@ stars:
     distance: 134.80
     spectral_class: A4V + G2V
   - name:
-    designation: ξ Nishediad
+    designation: <a href="ξ_nishediad.html">ξ Nishediad</a>
     ra: 2<sup>h</sup> 28<sup>m</sup> 41.11<sup>s</sup>
     dec: 22° 41' 46.43"
     apparent_magnitude: 5.45
@@ -152,7 +152,7 @@ stars:
     distance: 404.23
     spectral_class: A8II
   - name:
-    designation: λ Nishediad
+    designation: <a href="λ_nishediad.html">λ Nishediad</a>
     ra: 2<sup>h</sup> 32<sup>m</sup> 3.84<sup>s</sup>
     dec: 14° 13' 48.92"
     apparent_magnitude: 5.48
@@ -208,7 +208,7 @@ stars:
     distance: 2,917.82
     spectral_class: B0V + B3V
   - name:
-    designation: 0009 Nishediad
+    designation: <a href="0009_nishediad.html">0009 Nishediad</a>
     ra: 3<sup>h</sup> 01<sup>m</sup> 46.18<sup>s</sup>
     dec: 12° 49' 44.72"
     apparent_magnitude: 5.70
@@ -224,7 +224,7 @@ stars:
     distance: 234.37
     spectral_class: F6II
   - name:
-    designation: ψ Nishediad
+    designation: <a href="ψ_nishediad.html">ψ Nishediad</a>
     ra: 3<sup>h</sup> 12<sup>m</sup> 20.31<sup>s</sup>
     dec: 11° 16' 58.45"
     apparent_magnitude: 5.79
@@ -272,7 +272,7 @@ stars:
     distance: 787.38
     spectral_class: A5III + M2III
   - name:
-    designation: 0006 Nishediad
+    designation: <a href="0006_nishediad.html">0006 Nishediad</a>
     ra: 3<sup>h</sup> 10<sup>m</sup> 5.58<sup>s</sup>
     dec: 16° 54' 28.06"
     apparent_magnitude: 6.03
@@ -296,7 +296,7 @@ stars:
     distance: 553.11
     spectral_class: A6III
   - name:
-    designation: φ Nishediad
+    designation: <a href="φ_nishediad.html">φ Nishediad</a>
     ra: 1<sup>h</sup> 42<sup>m</sup> 0.66<sup>s</sup>
     dec: 11° 40' 55.19"
     apparent_magnitude: 6.06
@@ -360,7 +360,7 @@ stars:
     distance: 144.13
     spectral_class: A7V
   - name:
-    designation: 0032 Nishediad
+    designation: <a href="0032_nishediad.html">0032 Nishediad</a>
     ra: 3<sup>h</sup> 09<sup>m</sup> 29.53<sup>s</sup>
     dec: 23° 12' 54.77"
     apparent_magnitude: 6.15
@@ -432,7 +432,7 @@ stars:
     distance: 1,101.90
     spectral_class: A2III
   - name:
-    designation: 0019 Nishediad
+    designation: <a href="0019_nishediad.html">0019 Nishediad</a>
     ra: 2<sup>h</sup> 57<sup>m</sup> 40.77<sup>s</sup>
     dec: 19° 29' 24.64"
     apparent_magnitude: 6.42
@@ -488,7 +488,7 @@ stars:
     distance: 233.69
     spectral_class: A4V + G7V
   - name:
-    designation: 0022 Nishediad
+    designation: <a href="0022_nishediad.html">0022 Nishediad</a>
     ra: 1<sup>h</sup> 45<sup>m</sup> 55.82<sup>s</sup>
     dec: 28° 42' 48.80"
     apparent_magnitude: 6.50

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4536 Dialkeshiad is a star in the constellation Dialkes
+      4536 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 321.20 ly
 apparent_magnitude: 11.68
 absolute_magnitude: 6.71

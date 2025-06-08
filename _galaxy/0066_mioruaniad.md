@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0066 Mioruaniad is a star in the constellation Mioruane
+      0066 Mioruaniad is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 365.58 ly
 apparent_magnitude: 6.15
 absolute_magnitude: 0.90
@@ -31,14 +31,14 @@ planets:
     radius: 30,839.4 km<br/>(4.841 Yrths)
     surface_area: 1.195 × 10<sup>10</sup> km<sup>2</sup><br/>(23.431 Yrths)
     volume: 1.229 × 10<sup>14</sup> km<sup>3</sup><br/>(113.422 Yrths)
-    mass: 1.697 × 10<sup>26</sup> kg<br />(28.412517562473536 Yrths)
+    mass: 1.697 × 10<sup>26</sup> kg<br />(28.41 Yrths)
     density: 1.381 g/cm<sup>3</sup>
     surface_gravity: 11.891 m/s<sup>2</sup><br />(1.213 g<sub>0</sub>)
     escape_velocity: 27.101 km/s<br />(97,562 km/h)
     rotation_period: 0.373 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 511 K<br />(238 °C)
+    temperature: 486 K<br />(213 °C)
     composition:
       - 79.9217% hydrogen
       - 10.7954% methane
@@ -56,14 +56,14 @@ planets:
         radius: 23,335.5 km<br/>(3.663 Yrths)
         surface_area: 6.843 × 10<sup>09</sup> km<sup>2</sup><br/>(13.416 Yrths)
         volume: 5.323 × 10<sup>13</sup> km<sup>3</sup><br/>(49.139 Yrths)
-        mass: 1.106 × 10<sup>26</sup> kg<br />(28.412517562473536 Yrths)
+        mass: 1.106 × 10<sup>26</sup> kg<br />(18.513 Yrths)
         density: 2.077 g/cm<sup>3</sup>
         surface_gravity: 13.532 m/s<sup>2</sup><br />(1.380 g<sub>0</sub>)
         escape_velocity: 25.148 km/s<br />(90,533 km/h)
         rotation_period: 36.263 d
         axial_tilt: 20.68°
         albedo: 0.30
-        temperature: 2139 K<br />(1866 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 0066 Mioruaniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 42,583.0 km<br/>(6.684 Yrths)
         surface_area: 2.279 × 10<sup>10</sup> km<sup>2</sup><br/>(44.674 Yrths)
         volume: 3.234 × 10<sup>14</sup> km<sup>3</sup><br/>(298.596 Yrths)
-        mass: 8.074 × 10<sup>26</sup> kg<br />(28.412517562473536 Yrths)
+        mass: 8.074 × 10<sup>26</sup> kg<br />(135.194 Yrths)
         density: 2.496 g/cm<sup>3</sup>
         surface_gravity: 29.677 m/s<sup>2</sup><br />(3.026 g<sub>0</sub>)
         escape_velocity: 50.308 km/s<br />(181,109 km/h)
         rotation_period: 38.166 d
         axial_tilt: 18.78°
         albedo: 0.30
-        temperature: 1945 K<br />(1672 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 0066 Mioruaniad I c
         type: Asteroid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 43,493.3 km<br/>(6.827 Yrths)
         surface_area: 2.377 × 10<sup>10</sup> km<sup>2</sup><br/>(46.605 Yrths)
         volume: 3.446 × 10<sup>14</sup> km<sup>3</sup><br/>(318.159 Yrths)
-        mass: 4.480 × 10<sup>26</sup> kg<br />(28.412517562473536 Yrths)
+        mass: 4.480 × 10<sup>26</sup> kg<br />(75.020 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 15.786 m/s<sup>2</sup><br />(1.610 g<sub>0</sub>)
         escape_velocity: 37.081 km/s<br />(133,493 km/h)
         rotation_period: 47.048 d
         axial_tilt: 54.22°
         albedo: 0.30
-        temperature: 1854 K<br />(1581 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 0066 Mioruaniad I d
         type: Icy
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 25,910.5 km<br/>(4.067 Yrths)
         surface_area: 8.437 × 10<sup>09</sup> km<sup>2</sup><br/>(16.540 Yrths)
         volume: 7.286 × 10<sup>13</sup> km<sup>3</sup><br/>(67.268 Yrths)
-        mass: 7.704 × 10<sup>25</sup> kg<br />(28.412517562473536 Yrths)
+        mass: 7.704 × 10<sup>25</sup> kg<br />(12.901 Yrths)
         density: 1.057 g/cm<sup>3</sup>
         surface_gravity: 7.649 m/s<sup>2</sup><br />(0.780 g<sub>0</sub>)
         escape_velocity: 19.923 km/s<br />(71,722 km/h)
         rotation_period: 91.754 d
         axial_tilt: 5.95°
         albedo: 0.30
-        temperature: 1768 K<br />(1495 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 0066 Mioruaniad I e
         type: Icy
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 22,892.7 km<br/>(3.593 Yrths)
         surface_area: 6.586 × 10<sup>09</sup> km<sup>2</sup><br/>(12.912 Yrths)
         volume: 5.025 × 10<sup>13</sup> km<sup>3</sup><br/>(46.395 Yrths)
-        mass: 6.964 × 10<sup>25</sup> kg<br />(28.412517562473536 Yrths)
+        mass: 6.964 × 10<sup>25</sup> kg<br />(11.660 Yrths)
         density: 1.386 g/cm<sup>3</sup>
         surface_gravity: 8.856 m/s<sup>2</sup><br />(0.903 g<sub>0</sub>)
         escape_velocity: 20.150 km/s<br />(72,542 km/h)
         rotation_period: 67.090 d
         axial_tilt: 21.39°
         albedo: 0.30
-        temperature: 1686 K<br />(1412 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 0066 Mioruaniad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -156,14 +156,14 @@ planets:
         radius: 25,292.2 km<br/>(3.970 Yrths)
         surface_area: 8.039 × 10<sup>09</sup> km<sup>2</sup><br/>(15.760 Yrths)
         volume: 6.777 × 10<sup>13</sup> km<sup>3</sup><br/>(62.566 Yrths)
-        mass: 1.552 × 10<sup>26</sup> kg<br />(28.412517562473536 Yrths)
+        mass: 1.552 × 10<sup>26</sup> kg<br />(25.987 Yrths)
         density: 2.290 g/cm<sup>3</sup>
         surface_gravity: 16.171 m/s<sup>2</sup><br />(1.649 g<sub>0</sub>)
         escape_velocity: 28.620 km/s<br />(103,031 km/h)
         rotation_period: 61.508 d
         axial_tilt: 21.14°
         albedo: 0.30
-        temperature: 1607 K<br />(1334 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 0066 Mioruaniad I g
         type: Rocky
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 20,952.1 km<br/>(3.289 Yrths)
         surface_area: 5.517 × 10<sup>09</sup> km<sup>2</sup><br/>(10.815 Yrths)
         volume: 3.853 × 10<sup>13</sup> km<sup>3</sup><br/>(35.568 Yrths)
-        mass: 1.126 × 10<sup>26</sup> kg<br />(28.412517562473536 Yrths)
+        mass: 1.126 × 10<sup>26</sup> kg<br />(18.863 Yrths)
         density: 2.924 g/cm<sup>3</sup>
         surface_gravity: 17.104 m/s<sup>2</sup><br />(1.744 g<sub>0</sub>)
         escape_velocity: 26.790 km/s<br />(96,443 km/h)
         rotation_period: 47.740 d
         axial_tilt: 18.99°
         albedo: 0.30
-        temperature: 1461 K<br />(1188 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 0066 Mioruaniad I h
         type: Dwarf planet
         formationType: Accreted
@@ -196,14 +196,14 @@ planets:
         radius: 24,620.5 km<br/>(3.864 Yrths)
         surface_area: 7.617 × 10<sup>09</sup> km<sup>2</sup><br/>(14.934 Yrths)
         volume: 6.251 × 10<sup>13</sup> km<sup>3</sup><br/>(57.712 Yrths)
-        mass: 1.015 × 10<sup>26</sup> kg<br />(28.412517562473536 Yrths)
+        mass: 1.015 × 10<sup>26</sup> kg<br />(16.994 Yrths)
         density: 1.623 g/cm<sup>3</sup>
         surface_gravity: 11.160 m/s<sup>2</sup><br />(1.138 g<sub>0</sub>)
         escape_velocity: 23.457 km/s<br />(84,447 km/h)
         rotation_period: 44.480 d
         axial_tilt: 22.86°
         albedo: 0.30
-        temperature: 1266 K<br />(993 °C)
+        temperature: 256 K<br />(-17 °C)
   - name: 0066 Mioruaniad II
     type: Gas giant
     aphelion: 3,061,672,876 km<br />20.466 AU
@@ -215,14 +215,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.880 g/cm<sup>3</sup>
     surface_gravity: 31873.850 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 561 K<br />(288 °C)
+    temperature: 535 K<br />(262 °C)
     composition:
       - 58.8145% hydrogen
       - 35.5541% helium
@@ -243,14 +243,14 @@ planets:
         radius: 779.9 km<br/>(0.122 Yrths)
         surface_area: 7.642 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.987 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.233 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.233 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.124 g/cm<sup>3</sup>
         surface_gravity: 0.245 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.618 km/s<br />(2,226 km/h)
         rotation_period: 48.294 d
         axial_tilt: 8.33°
         albedo: 0.30
-        temperature: 3412 K<br />(3139 °C)
+        temperature: 168 K<br />(-106 °C)
       - name: 0066 Mioruaniad II b
         type: Asteroid
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 652.3 km<br/>(0.102 Yrths)
         surface_area: 5.347 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.162 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.811 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.811 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.418 g/cm<sup>3</sup>
         surface_gravity: 0.440 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 0.758 km/s<br />(2,731 km/h)
         rotation_period: 49.446 d
         axial_tilt: 25.35°
         albedo: 0.30
-        temperature: 2444 K<br />(2171 °C)
+        temperature: 168 K<br />(-106 °C)
       - name: 0066 Mioruaniad II c
         type: Icy
         formationType: Impact formed
@@ -283,14 +283,14 @@ planets:
         radius: 776.3 km<br/>(0.122 Yrths)
         surface_area: 7.572 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.959 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.357 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.357 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.203 g/cm<sup>3</sup>
         surface_gravity: 0.261 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.637 km/s<br />(2,292 km/h)
         rotation_period: 71.102 d
         axial_tilt: 26.82°
         albedo: 0.30
-        temperature: 1836 K<br />(1563 °C)
+        temperature: 168 K<br />(-106 °C)
       - name: 0066 Mioruaniad II d
         type: Icy
         formationType: Impact formed
@@ -303,14 +303,14 @@ planets:
         radius: 894.4 km<br/>(0.140 Yrths)
         surface_area: 1.005 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 2.997 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.232 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.232 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.078 g/cm<sup>3</sup>
         surface_gravity: 0.269 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.695 km/s<br />(2,500 km/h)
         rotation_period: 49.314 d
         axial_tilt: 15.19°
         albedo: 0.30
-        temperature: 1140 K<br />(867 °C)
+        temperature: 168 K<br />(-106 °C)
       - name: 0066 Mioruaniad II e
         type: Icy
         formationType: Accreted
@@ -323,14 +323,14 @@ planets:
         radius: 1,012.9 km<br/>(0.159 Yrths)
         surface_area: 1.289 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.353 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 3.581 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.581 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.823 g/cm<sup>3</sup>
         surface_gravity: 0.233 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.687 km/s<br />(2,473 km/h)
         rotation_period: 73.537 d
         axial_tilt: 12.65°
         albedo: 0.30
-        temperature: 1037 K<br />(763 °C)
+        temperature: 168 K<br />(-106 °C)
       - name: 0066 Mioruaniad II f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -343,14 +343,14 @@ planets:
         radius: 610.9 km<br/>(0.096 Yrths)
         surface_area: 4.690 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.551 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.224 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.224 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.328 g/cm<sup>3</sup>
         surface_gravity: 0.397 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.697 km/s<br />(2,509 km/h)
         rotation_period: 47.155 d
         axial_tilt: 12.82°
         albedo: 0.30
-        temperature: 899 K<br />(625 °C)
+        temperature: 168 K<br />(-106 °C)
       - name: 0066 Mioruaniad II g
         type: Asteroid
         formationType: Captured
@@ -363,14 +363,14 @@ planets:
         radius: 692.8 km<br/>(0.109 Yrths)
         surface_area: 6.031 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.393 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.274 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.274 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.350 g/cm<sup>3</sup>
         surface_gravity: 0.455 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.794 km/s<br />(2,859 km/h)
         rotation_period: 49.937 d
         axial_tilt: 11.59°
         albedo: 0.30
-        temperature: 743 K<br />(469 °C)
+        temperature: 168 K<br />(-106 °C)
       - name: 0066 Mioruaniad II h
         type: Icy
         formationType: Accreted
@@ -383,12 +383,12 @@ planets:
         radius: 897.6 km<br/>(0.141 Yrths)
         surface_area: 1.012 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.029 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 2.538 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.538 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.838 g/cm<sup>3</sup>
         surface_gravity: 0.210 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.614 km/s<br />(2,212 km/h)
         rotation_period: 78.817 d
         axial_tilt: 15.03°
         albedo: 0.30
-        temperature: 532 K<br />(259 °C)
+        temperature: 168 K<br />(-106 °C)
 ---

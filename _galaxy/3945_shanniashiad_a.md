@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3945 Shanniashiad A is a star in the constellation Shannias
+      3945 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1070.91 ly
 apparent_magnitude: 8.24
 absolute_magnitude: 0.66

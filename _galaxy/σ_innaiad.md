@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Innaiad is a star in the constellation Inna
+      σ Innaiad is a star in the constellation <a href="inna.html">Inna</a>
 distance: 1918.22 ly
 apparent_magnitude: 5.71
 absolute_magnitude: -3.13
@@ -31,14 +31,14 @@ planets:
     radius: 47,621.9 km<br/>(7.475 Yrths)
     surface_area: 2.850 × 10<sup>10</sup> km<sup>2</sup><br/>(55.872 Yrths)
     volume: 4.524 × 10<sup>14</sup> km<sup>3</sup><br/>(417.635 Yrths)
-    mass: 5.634 × 10<sup>26</sup> kg<br />(94.34597161502508 Yrths)
+    mass: 5.634 × 10<sup>26</sup> kg<br />(94.35 Yrths)
     density: 1.245 g/cm<sup>3</sup>
     surface_gravity: 16.559 m/s<sup>2</sup><br />(1.689 g<sub>0</sub>)
     escape_velocity: 39.741 km/s<br />(143,067 km/h)
     rotation_period: 0.253 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 1301 K<br />(1028 °C)
+    temperature: 1188 K<br />(914 °C)
     composition:
       - 64.5922% hydrogen
       - 31.7018% helium
@@ -57,14 +57,14 @@ planets:
         radius: 98,435.2 km<br/>(15.451 Yrths)
         surface_area: 1.218 × 10<sup>11</sup> km<sup>2</sup><br/>(238.718 Yrths)
         volume: 3.995 × 10<sup>15</sup> km<sup>3</sup><br/>(3688.317 Yrths)
-        mass: 5.872 × 10<sup>27</sup> kg<br />(94.34597161502508 Yrths)
+        mass: 5.872 × 10<sup>27</sup> kg<br />(983.314 Yrths)
         density: 1.470 g/cm<sup>3</sup>
         surface_gravity: 40.395 m/s<sup>2</sup><br />(4.119 g<sub>0</sub>)
         escape_velocity: 89.238 km/s<br />(321,256 km/h)
         rotation_period: 50.030 d
         axial_tilt: 14.17°
         albedo: 0.30
-        temperature: 4273 K<br />(4000 °C)
+        temperature: 620 K<br />(347 °C)
       - name: σ Innaiad I b
         type: Icy
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 83,157.1 km<br/>(13.052 Yrths)
         surface_area: 8.690 × 10<sup>10</sup> km<sup>2</sup><br/>(170.366 Yrths)
         volume: 2.409 × 10<sup>15</sup> km<sup>3</sup><br/>(2223.692 Yrths)
-        mass: 2.064 × 10<sup>27</sup> kg<br />(94.34597161502508 Yrths)
+        mass: 2.064 × 10<sup>27</sup> kg<br />(345.617 Yrths)
         density: 0.857 g/cm<sup>3</sup>
         surface_gravity: 19.894 m/s<sup>2</sup><br />(2.029 g<sub>0</sub>)
         escape_velocity: 57.561 km/s<br />(207,218 km/h)
         rotation_period: 85.391 d
         axial_tilt: 14.02°
         albedo: 0.30
-        temperature: 4074 K<br />(3801 °C)
+        temperature: 620 K<br />(347 °C)
       - name: σ Innaiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 92,941.0 km<br/>(14.588 Yrths)
         surface_area: 1.085 × 10<sup>11</sup> km<sup>2</sup><br/>(212.814 Yrths)
         volume: 3.363 × 10<sup>15</sup> km<sup>3</sup><br/>(3104.555 Yrths)
-        mass: 6.408 × 10<sup>27</sup> kg<br />(94.34597161502508 Yrths)
+        mass: 6.408 × 10<sup>27</sup> kg<br />(1073.056 Yrths)
         density: 1.906 g/cm<sup>3</sup>
         surface_gravity: 49.447 m/s<sup>2</sup><br />(5.042 g<sub>0</sub>)
         escape_velocity: 95.937 km/s<br />(345,373 km/h)
         rotation_period: 41.843 d
         axial_tilt: 16.06°
         albedo: 0.30
-        temperature: 3704 K<br />(3431 °C)
+        temperature: 620 K<br />(347 °C)
       - name: σ Innaiad I d
         type: Icy
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 75,548.9 km<br/>(11.858 Yrths)
         surface_area: 7.172 × 10<sup>10</sup> km<sup>2</sup><br/>(140.618 Yrths)
         volume: 1.806 × 10<sup>15</sup> km<sup>3</sup><br/>(1667.486 Yrths)
-        mass: 2.917 × 10<sup>27</sup> kg<br />(94.34597161502508 Yrths)
+        mass: 2.917 × 10<sup>27</sup> kg<br />(488.406 Yrths)
         density: 1.615 g/cm<sup>3</sup>
         surface_gravity: 34.061 m/s<sup>2</sup><br />(3.473 g<sub>0</sub>)
         escape_velocity: 71.788 km/s<br />(258,438 km/h)
         rotation_period: 60.812 d
         axial_tilt: 19.93°
         albedo: 0.30
-        temperature: 3532 K<br />(3258 °C)
+        temperature: 620 K<br />(347 °C)
       - name: σ Innaiad I e
         type: Icy
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 83,564.0 km<br/>(13.116 Yrths)
         surface_area: 8.775 × 10<sup>10</sup> km<sup>2</sup><br/>(172.038 Yrths)
         volume: 2.444 × 10<sup>15</sup> km<sup>3</sup><br/>(2256.500 Yrths)
-        mass: 4.470 × 10<sup>27</sup> kg<br />(94.34597161502508 Yrths)
+        mass: 4.470 × 10<sup>27</sup> kg<br />(748.428 Yrths)
         density: 1.829 g/cm<sup>3</sup>
         surface_gravity: 42.663 m/s<sup>2</sup><br />(4.350 g<sub>0</sub>)
         escape_velocity: 84.497 km/s<br />(304,190 km/h)
         rotation_period: 36.808 d
         axial_tilt: 15.36°
         albedo: 0.30
-        temperature: 3367 K<br />(3094 °C)
+        temperature: 620 K<br />(347 °C)
       - name: σ Innaiad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 79,120.1 km<br/>(12.419 Yrths)
         surface_area: 7.867 × 10<sup>10</sup> km<sup>2</sup><br/>(154.226 Yrths)
         volume: 2.075 × 10<sup>15</sup> km<sup>3</sup><br/>(1915.301 Yrths)
-        mass: 3.768 × 10<sup>27</sup> kg<br />(94.34597161502508 Yrths)
+        mass: 3.768 × 10<sup>27</sup> kg<br />(631.003 Yrths)
         density: 1.816 g/cm<sup>3</sup>
         surface_gravity: 40.123 m/s<sup>2</sup><br />(4.091 g<sub>0</sub>)
         escape_velocity: 79.735 km/s<br />(287,047 km/h)
         rotation_period: 71.513 d
         axial_tilt: 19.14°
         albedo: 0.30
-        temperature: 3210 K<br />(2937 °C)
+        temperature: 620 K<br />(347 °C)
       - name: σ Innaiad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 61,051.6 km<br/>(9.583 Yrths)
         surface_area: 4.684 × 10<sup>10</sup> km<sup>2</sup><br/>(91.829 Yrths)
         volume: 9.532 × 10<sup>14</sup> km<sup>3</sup><br/>(879.972 Yrths)
-        mass: 1.855 × 10<sup>27</sup> kg<br />(94.34597161502508 Yrths)
+        mass: 1.855 × 10<sup>27</sup> kg<br />(310.632 Yrths)
         density: 1.946 g/cm<sup>3</sup>
         surface_gravity: 33.173 m/s<sup>2</sup><br />(3.383 g<sub>0</sub>)
         escape_velocity: 63.687 km/s<br />(229,274 km/h)
         rotation_period: 47.645 d
         axial_tilt: 12.36°
         albedo: 0.30
-        temperature: 3061 K<br />(2788 °C)
+        temperature: 620 K<br />(347 °C)
       - name: σ Innaiad I h
         type: Icy
         formationType: Captured
@@ -197,12 +197,12 @@ planets:
         radius: 99,674.7 km<br/>(15.645 Yrths)
         surface_area: 1.248 × 10<sup>11</sup> km<sup>2</sup><br/>(244.768 Yrths)
         volume: 4.148 × 10<sup>15</sup> km<sup>3</sup><br/>(3829.406 Yrths)
-        mass: 3.603 × 10<sup>27</sup> kg<br />(94.34597161502508 Yrths)
+        mass: 3.603 × 10<sup>27</sup> kg<br />(603.353 Yrths)
         density: 0.869 g/cm<sup>3</sup>
         surface_gravity: 24.173 m/s<sup>2</sup><br />(2.465 g<sub>0</sub>)
         escape_velocity: 69.466 km/s<br />(250,077 km/h)
         rotation_period: 78.330 d
         axial_tilt: 15.79°
         albedo: 0.30
-        temperature: 2919 K<br />(2645 °C)
+        temperature: 620 K<br />(347 °C)
 ---

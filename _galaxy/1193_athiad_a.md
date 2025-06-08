@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1193 Athiad A is a star in the constellation Ath
+      1193 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 346.95 ly
 apparent_magnitude: 10.53
 absolute_magnitude: 5.40

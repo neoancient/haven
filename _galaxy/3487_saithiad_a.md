@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3487 Saithiad A is a star in the constellation Saith
+      3487 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 453.18 ly
 apparent_magnitude: 7.89
 absolute_magnitude: 2.18

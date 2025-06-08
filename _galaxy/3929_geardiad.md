@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3929 Geardiad is a star in the constellation Geard
+      3929 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 144.81 ly
 apparent_magnitude: 16.32
 absolute_magnitude: 13.09

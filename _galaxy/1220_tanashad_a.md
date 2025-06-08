@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1220 Tanashad A is a star in the constellation Tanas
+      1220 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 255.76 ly
 apparent_magnitude: 8.87
 absolute_magnitude: 4.40

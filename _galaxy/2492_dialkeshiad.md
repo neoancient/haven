@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2492 Dialkeshiad is a star in the constellation Dialkes
+      2492 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 478.60 ly
 apparent_magnitude: 6.74
 absolute_magnitude: 0.90
@@ -31,14 +31,14 @@ planets:
     radius: 11,429.8 km<br/>(1.794 Yrths)
     surface_area: 1.642 × 10<sup>09</sup> km<sup>2</sup><br/>(3.219 Yrths)
     volume: 6.255 × 10<sup>12</sup> km<sup>3</sup><br/>(5.774 Yrths)
-    mass: 4.898 × 10<sup>25</sup> kg<br />(8.20100192495533 Yrths)
+    mass: 4.898 × 10<sup>25</sup> kg<br />(8.20 Yrths)
     density: 7.830 g/cm<sup>3</sup>
     surface_gravity: 24.988 m/s<sup>2</sup><br />(2.548 g<sub>0</sub>)
     escape_velocity: 23.916 km/s<br />(86,098 km/h)
     rotation_period: 0.626 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 453 K<br />(180 °C)
+    temperature: 510 K<br />(237 °C)
     surface_pressure: 2,225 kPa<br />(22 atm)
     composition:
       - 82.9234% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 10,638.2 km<br/>(1.670 Yrths)
         surface_area: 1.422 × 10<sup>09</sup> km<sup>2</sup><br/>(2.788 Yrths)
         volume: 5.043 × 10<sup>12</sup> km<sup>3</sup><br/>(4.656 Yrths)
-        mass: 1.281 × 10<sup>25</sup> kg<br />(8.20100192495533 Yrths)
+        mass: 1.281 × 10<sup>25</sup> kg<br />(2.144 Yrths)
         density: 2.539 g/cm<sup>3</sup>
         surface_gravity: 7.542 m/s<sup>2</sup><br />(0.769 g<sub>0</sub>)
         escape_velocity: 12.676 km/s<br />(45,635 km/h)
         rotation_period: 40.639 d
         axial_tilt: 20.87°
         albedo: 0.30
-        temperature: 3442 K<br />(3168 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 2492 Dialkeshiad I b
         type: Asteroid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 15,155.2 km<br/>(2.379 Yrths)
         surface_area: 2.886 × 10<sup>09</sup> km<sup>2</sup><br/>(5.659 Yrths)
         volume: 1.458 × 10<sup>13</sup> km<sup>3</sup><br/>(13.460 Yrths)
-        mass: 2.857 × 10<sup>25</sup> kg<br />(8.20100192495533 Yrths)
+        mass: 2.857 × 10<sup>25</sup> kg<br />(4.784 Yrths)
         density: 1.960 g/cm<sup>3</sup>
         surface_gravity: 8.292 m/s<sup>2</sup><br />(0.846 g<sub>0</sub>)
         escape_velocity: 15.864 km/s<br />(57,110 km/h)
         rotation_period: 36.547 d
         axial_tilt: 26.90°
         albedo: 0.30
-        temperature: 3281 K<br />(3008 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 2492 Dialkeshiad I c
         type: Icy
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 8,542.8 km<br/>(1.341 Yrths)
         surface_area: 9.171 × 10<sup>08</sup> km<sup>2</sup><br/>(1.798 Yrths)
         volume: 2.611 × 10<sup>12</sup> km<sup>3</sup><br/>(2.411 Yrths)
-        mass: 3.903 × 10<sup>24</sup> kg<br />(8.20100192495533 Yrths)
+        mass: 3.903 × 10<sup>24</sup> kg<br />(0.653 Yrths)
         density: 1.494 g/cm<sup>3</sup>
         surface_gravity: 3.564 m/s<sup>2</sup><br />(0.363 g<sub>0</sub>)
         escape_velocity: 7.809 km/s<br />(28,112 km/h)
         rotation_period: 64.386 d
         axial_tilt: 16.34°
         albedo: 0.30
-        temperature: 3129 K<br />(2856 °C)
+        temperature: 303 K<br />(30 °C)
   - name: 2492 Dialkeshiad II
     type: Gas dwarf
     aphelion: 1,410,542,119 km<br />9.429 AU
@@ -117,14 +117,14 @@ planets:
     radius: 14,528.4 km<br/>(2.280 Yrths)
     surface_area: 2.652 × 10<sup>09</sup> km<sup>2</sup><br/>(5.200 Yrths)
     volume: 1.285 × 10<sup>13</sup> km<sup>3</sup><br/>(11.859 Yrths)
-    mass: 2.888 × 10<sup>25</sup> kg<br />(4.836658103325901 Yrths)
+    mass: 2.888 × 10<sup>25</sup> kg<br />(4.84 Yrths)
     density: 2.249 g/cm<sup>3</sup>
     surface_gravity: 9.121 m/s<sup>2</sup><br />(0.930 g<sub>0</sub>)
     escape_velocity: 16.291 km/s<br />(58,647 km/h)
     rotation_period: 0.485 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 322 K<br />(49 °C)
+    temperature: 289 K<br />(16 °C)
     composition:
       - 67.6544% hydrogen
       - 27.5551% helium
@@ -145,14 +145,14 @@ planets:
         radius: 6,447.4 km<br/>(1.012 Yrths)
         surface_area: 5.224 × 10<sup>08</sup> km<sup>2</sup><br/>(1.024 Yrths)
         volume: 1.123 × 10<sup>12</sup> km<sup>3</sup><br/>(1.036 Yrths)
-        mass: 2.536 × 10<sup>24</sup> kg<br />(4.836658103325901 Yrths)
+        mass: 2.536 × 10<sup>24</sup> kg<br />(0.425 Yrths)
         density: 2.259 g/cm<sup>3</sup>
         surface_gravity: 4.066 m/s<sup>2</sup><br />(0.415 g<sub>0</sub>)
         escape_velocity: 7.246 km/s<br />(26,086 km/h)
         rotation_period: 63.287 d
         axial_tilt: 10.12°
         albedo: 0.30
-        temperature: 2485 K<br />(2212 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 2492 Dialkeshiad II b
         type: Icy
         formationType: Captured
@@ -165,14 +165,14 @@ planets:
         radius: 6,298.1 km<br/>(0.989 Yrths)
         surface_area: 4.985 × 10<sup>08</sup> km<sup>2</sup><br/>(0.977 Yrths)
         volume: 1.046 × 10<sup>12</sup> km<sup>3</sup><br/>(0.966 Yrths)
-        mass: 1.157 × 10<sup>24</sup> kg<br />(4.836658103325901 Yrths)
+        mass: 1.157 × 10<sup>24</sup> kg<br />(0.194 Yrths)
         density: 1.106 g/cm<sup>3</sup>
         surface_gravity: 1.944 m/s<sup>2</sup><br />(0.198 g<sub>0</sub>)
         escape_velocity: 4.952 km/s<br />(17,828 km/h)
         rotation_period: 68.313 d
         axial_tilt: 25.47°
         albedo: 0.30
-        temperature: 2370 K<br />(2097 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 2492 Dialkeshiad II c
         type: Dwarf planet
         formationType: Impact formed
@@ -185,14 +185,14 @@ planets:
         radius: 11,231.6 km<br/>(1.763 Yrths)
         surface_area: 1.585 × 10<sup>09</sup> km<sup>2</sup><br/>(3.108 Yrths)
         volume: 5.935 × 10<sup>12</sup> km<sup>3</sup><br/>(5.479 Yrths)
-        mass: 1.589 × 10<sup>25</sup> kg<br />(4.836658103325901 Yrths)
+        mass: 1.589 × 10<sup>25</sup> kg<br />(2.661 Yrths)
         density: 2.678 g/cm<sup>3</sup>
         surface_gravity: 8.398 m/s<sup>2</sup><br />(0.856 g<sub>0</sub>)
         escape_velocity: 13.744 km/s<br />(49,479 km/h)
         rotation_period: 35.221 d
         axial_tilt: 11.64°
         albedo: 0.30
-        temperature: 2260 K<br />(1986 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 2492 Dialkeshiad II d
         type: Asteroid
         formationType: Captured
@@ -205,12 +205,12 @@ planets:
         radius: 5,322.4 km<br/>(0.835 Yrths)
         surface_area: 3.560 × 10<sup>08</sup> km<sup>2</sup><br/>(0.698 Yrths)
         volume: 6.316 × 10<sup>11</sup> km<sup>3</sup><br/>(0.583 Yrths)
-        mass: 1.466 × 10<sup>24</sup> kg<br />(4.836658103325901 Yrths)
+        mass: 1.466 × 10<sup>24</sup> kg<br />(0.245 Yrths)
         density: 2.321 g/cm<sup>3</sup>
         surface_gravity: 3.448 m/s<sup>2</sup><br />(0.352 g<sub>0</sub>)
         escape_velocity: 6.063 km/s<br />(21,826 km/h)
         rotation_period: 32.589 d
         axial_tilt: 24.75°
         albedo: 0.30
-        temperature: 2154 K<br />(1881 °C)
+        temperature: 207 K<br />(-66 °C)
 ---

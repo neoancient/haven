@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1568 Aldnanniad is a star in the constellation Aldnan
+      1568 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 682.05 ly
 apparent_magnitude: 11.53
 absolute_magnitude: 4.93

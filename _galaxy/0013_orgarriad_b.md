@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0013 Orgarriad B is a star in the constellation Orgar
+      0013 Orgarriad B is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 464.94 ly
 apparent_magnitude: 10.38
 absolute_magnitude: 4.61

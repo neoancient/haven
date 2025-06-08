@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2027 Shanniashiad A is a star in the constellation Shannias
+      2027 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1176.04 ly
 apparent_magnitude: 8.44
 absolute_magnitude: 0.66

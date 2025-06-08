@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0107 Lunaiad C is a star in the constellation Luna
+      0107 Lunaiad C is a star in the constellation <a href="luna.html">Luna</a>
 distance: 940.96 ly
 apparent_magnitude: 7.81
 absolute_magnitude: 0.51
@@ -31,14 +31,14 @@ planets:
     radius: 217.6 km<br/>(0.034 Yrths)
     surface_area: 5.952 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.318 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.493 × 10<sup>27</sup> kg<br />(250.08230122781808 Yrths)
+    mass: 1.493 × 10<sup>27</sup> kg<br />(250.08 Yrths)
     density: 34590600.807 g/cm<sup>3</sup>
     surface_gravity: 2101752.060 m/s<sup>2</sup><br />(214319.065 g<sub>0</sub>)
     escape_velocity: 957.106 km/s<br />(3,445,580 km/h)
     rotation_period: 0.240 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1555 K<br />(1282 °C)
+    temperature: 1918 K<br />(1645 °C)
     composition:
       - 40.2260% methane
       - 27.0641% helium
@@ -58,14 +58,14 @@ planets:
         radius: 233,439.9 km<br/>(36.641 Yrths)
         surface_area: 6.848 × 10<sup>11</sup> km<sup>2</sup><br/>(1342.564 Yrths)
         volume: 5.329 × 10<sup>16</sup> km<sup>3</sup><br/>(49192.883 Yrths)
-        mass: 7.441 × 10<sup>28</sup> kg<br />(250.08230122781808 Yrths)
+        mass: 7.441 × 10<sup>28</sup> kg<br />(12459.878 Yrths)
         density: 1.396 g/cm<sup>3</sup>
         surface_gravity: 91.012 m/s<sup>2</sup><br />(9.281 g<sub>0</sub>)
         escape_velocity: 206.275 km/s<br />(742,591 km/h)
         rotation_period: 55.256 d
         axial_tilt: 20.57°
         albedo: 0.30
-        temperature: 2059 K<br />(1786 °C)
+        temperature: 356 K<br />(83 °C)
       - name: 0107 Lunaiad C I b
         type: Asteroid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 164,229.0 km<br/>(25.778 Yrths)
         surface_area: 3.389 × 10<sup>11</sup> km<sup>2</sup><br/>(664.484 Yrths)
         volume: 1.855 × 10<sup>16</sup> km<sup>3</sup><br/>(17128.800 Yrths)
-        mass: 5.179 × 10<sup>28</sup> kg<br />(250.08230122781808 Yrths)
+        mass: 5.179 × 10<sup>28</sup> kg<br />(8671.855 Yrths)
         density: 2.791 g/cm<sup>3</sup>
         surface_gravity: 127.982 m/s<sup>2</sup><br />(13.051 g<sub>0</sub>)
         escape_velocity: 205.168 km/s<br />(738,603 km/h)
         rotation_period: 32.570 d
         axial_tilt: 21.97°
         albedo: 0.30
-        temperature: 1057 K<br />(784 °C)
+        temperature: 356 K<br />(83 °C)
       - name: 0107 Lunaiad C I c
         type: Rocky
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 178,018.0 km<br/>(27.942 Yrths)
         surface_area: 3.982 × 10<sup>11</sup> km<sup>2</sup><br/>(780.752 Yrths)
         volume: 2.363 × 10<sup>16</sup> km<sup>3</sup><br/>(21815.706 Yrths)
-        mass: 6.707 × 10<sup>28</sup> kg<br />(250.08230122781808 Yrths)
+        mass: 6.707 × 10<sup>28</sup> kg<br />(11230.957 Yrths)
         density: 2.838 g/cm<sup>3</sup>
         surface_gravity: 141.067 m/s<sup>2</sup><br />(14.385 g<sub>0</sub>)
         escape_velocity: 224.261 km/s<br />(807,340 km/h)
         rotation_period: 45.439 d
         axial_tilt: 14.58°
         albedo: 0.30
-        temperature: 1008 K<br />(734 °C)
+        temperature: 356 K<br />(83 °C)
       - name: 0107 Lunaiad C I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 180,765.5 km<br/>(28.373 Yrths)
         surface_area: 4.106 × 10<sup>11</sup> km<sup>2</sup><br/>(805.038 Yrths)
         volume: 2.474 × 10<sup>16</sup> km<sup>3</sup><br/>(22841.476 Yrths)
-        mass: 5.091 × 10<sup>28</sup> kg<br />(250.08230122781808 Yrths)
+        mass: 5.091 × 10<sup>28</sup> kg<br />(8525.456 Yrths)
         density: 2.058 g/cm<sup>3</sup>
         surface_gravity: 103.854 m/s<sup>2</sup><br />(10.590 g<sub>0</sub>)
         escape_velocity: 193.900 km/s<br />(698,041 km/h)
         rotation_period: 42.015 d
         axial_tilt: 28.35°
         albedo: 0.30
-        temperature: 961 K<br />(688 °C)
+        temperature: 356 K<br />(83 °C)
       - name: 0107 Lunaiad C I e
         type: Rocky
         formationType: Captured
@@ -138,12 +138,12 @@ planets:
         radius: 129,744.7 km<br/>(20.365 Yrths)
         surface_area: 2.115 × 10<sup>11</sup> km<sup>2</sup><br/>(414.728 Yrths)
         volume: 9.149 × 10<sup>15</sup> km<sup>3</sup><br/>(8445.896 Yrths)
-        mass: 2.767 × 10<sup>28</sup> kg<br />(250.08230122781808 Yrths)
+        mass: 2.767 × 10<sup>28</sup> kg<br />(4633.767 Yrths)
         density: 3.025 g/cm<sup>3</sup>
         surface_gravity: 109.570 m/s<sup>2</sup><br />(11.173 g<sub>0</sub>)
         escape_velocity: 168.733 km/s<br />(607,439 km/h)
         rotation_period: 33.171 d
         axial_tilt: 16.94°
         albedo: 0.30
-        temperature: 292 K<br />(19 °C)
+        temperature: 356 K<br />(83 °C)
 ---

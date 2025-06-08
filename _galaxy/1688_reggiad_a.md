@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1688 Reggiad A is a star in the constellation Reg
+      1688 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 118.47 ly
 apparent_magnitude: 7.47
 absolute_magnitude: 4.67

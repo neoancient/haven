@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2127 Shanniashiad is a star in the constellation Shannias
+      2127 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1051.40 ly
 apparent_magnitude: 17.55
 absolute_magnitude: 10.01

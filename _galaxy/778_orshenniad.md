@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      778 Orshenniad is a star in the constellation Orshen
+      778 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 349.08 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 4.83

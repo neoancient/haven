@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0001 Nwaliad A is a star in the constellation Nwal
+      0001 Nwaliad A is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 218.47 ly
 apparent_magnitude: 6.71
 absolute_magnitude: 2.58

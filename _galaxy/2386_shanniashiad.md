@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2386 Shanniashiad is a star in the constellation Shannias
+      2386 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1118.25 ly
 apparent_magnitude: 17.68
 absolute_magnitude: 10.01

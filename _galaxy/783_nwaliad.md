@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      783 Nwaliad is a star in the constellation Nwal
+      783 Nwaliad is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 527.92 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 4.95

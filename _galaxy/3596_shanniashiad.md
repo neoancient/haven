@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3596 Shanniashiad is a star in the constellation Shannias
+      3596 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 975.34 ly
 apparent_magnitude: 17.39
 absolute_magnitude: 10.01

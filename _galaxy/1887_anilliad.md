@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1887 Anilliad is a star in the constellation Anil
+      1887 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 491.92 ly
 apparent_magnitude: 11.59
 absolute_magnitude: 5.70

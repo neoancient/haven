@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      14690 Arkothiad A is a star in the constellation Arkoth
+      14690 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 613.00 ly
 apparent_magnitude: 7.31
 absolute_magnitude: 0.94

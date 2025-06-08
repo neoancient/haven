@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1420 Arkothiad is a star in the constellation Arkoth
+      1420 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 234.70 ly
 apparent_magnitude: 9.18
 absolute_magnitude: 4.89

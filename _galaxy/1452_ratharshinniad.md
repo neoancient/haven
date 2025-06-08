@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1452 Ratharshinniad is a star in the constellation Ratharshin
+      1452 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 423.50 ly
 apparent_magnitude: 10.30
 absolute_magnitude: 4.74

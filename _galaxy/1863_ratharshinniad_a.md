@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1863 Ratharshinniad A is a star in the constellation Ratharshin
+      1863 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 203.52 ly
 apparent_magnitude: 9.39
 absolute_magnitude: 5.42

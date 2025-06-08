@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6879 Dialkeshiad is a star in the constellation Dialkes
+      6879 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 553.13 ly
 apparent_magnitude: 10.93
 absolute_magnitude: 4.78

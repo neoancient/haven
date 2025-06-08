@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10291 Arkothiad is a star in the constellation Arkoth
+      10291 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 213.56 ly
 apparent_magnitude: 10.29
 absolute_magnitude: 6.20

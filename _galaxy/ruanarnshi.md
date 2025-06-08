@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ruanarnshi is a star in the constellation Mioruane
+      Ruanarnshi is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 620.73 ly
 apparent_magnitude: 3.12
 absolute_magnitude: -3.28

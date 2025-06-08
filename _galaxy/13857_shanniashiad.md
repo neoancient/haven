@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13857 Shanniashiad is a star in the constellation Shannias
+      13857 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 508.43 ly
 apparent_magnitude: 9.74
 absolute_magnitude: 3.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      240 Saithiad is a star in the constellation Saith
+      240 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1116.70 ly
 apparent_magnitude: 14.02
 absolute_magnitude: 6.35

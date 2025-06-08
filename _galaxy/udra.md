@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Udra is a star in the constellation Shuli
+      Udra is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 245.24 ly
 apparent_magnitude: 2.79
 absolute_magnitude: -1.59
@@ -31,14 +31,14 @@ planets:
     radius: 6,045.2 km<br/>(0.949 Yrths)
     surface_area: 4.592 × 10<sup>08</sup> km<sup>2</sup><br/>(0.900 Yrths)
     volume: 9.254 × 10<sup>11</sup> km<sup>3</sup><br/>(0.854 Yrths)
-    mass: 4.738 × 10<sup>24</sup> kg<br />(0.7933552170587934 Yrths)
+    mass: 4.738 × 10<sup>24</sup> kg<br />(0.79 Yrths)
     density: 5.120 g/cm<sup>3</sup>
     surface_gravity: 8.641 m/s<sup>2</sup><br />(0.881 g<sub>0</sub>)
     escape_velocity: 10.228 km/s<br />(36,822 km/h)
     rotation_period: 1.101 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 1348 K<br />(1075 °C)
+    temperature: 1517 K<br />(1244 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 66.0725% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 2,601.0 km<br/>(0.408 Yrths)
         surface_area: 8.502 × 10<sup>07</sup> km<sup>2</sup><br/>(0.167 Yrths)
         volume: 7.371 × 10<sup>10</sup> km<sup>3</sup><br/>(0.068 Yrths)
-        mass: 1.448 × 10<sup>23</sup> kg<br />(0.7933552170587934 Yrths)
+        mass: 1.448 × 10<sup>23</sup> kg<br />(0.024 Yrths)
         density: 1.965 g/cm<sup>3</sup>
         surface_gravity: 1.427 m/s<sup>2</sup><br />(0.146 g<sub>0</sub>)
         escape_velocity: 2.726 km/s<br />(9,815 km/h)
         rotation_period: 52.263 d
         axial_tilt: 16.33°
         albedo: 0.30
-        temperature: 21308 K<br />(21035 °C)
+        temperature: 1217 K<br />(944 °C)
   - name: Udra II
     type: Gas giant
     aphelion: 360,389,712 km<br />2.409 AU
@@ -76,14 +76,14 @@ planets:
     radius: 260.3 km<br/>(0.041 Yrths)
     surface_area: 8.513 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.385 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.132 × 10<sup>27</sup> kg<br />(524.4108203413391 Yrths)
+    mass: 3.132 × 10<sup>27</sup> kg<br />(524.41 Yrths)
     density: 42404579.993 g/cm<sup>3</sup>
     surface_gravity: 3081395.788 m/s<sup>2</sup><br />(314214.924 g<sub>0</sub>)
     escape_velocity: 1267.356 km/s<br />(4,562,481 km/h)
     rotation_period: 0.223 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 3896 K<br />(3623 °C)
+    temperature: 3876 K<br />(3603 °C)
     composition:
       - 67.4500% hydrogen
       - 21.9947% helium
@@ -104,14 +104,14 @@ planets:
         radius: 407,751.3 km<br/>(64.001 Yrths)
         surface_area: 2.089 × 10<sup>12</sup> km<sup>2</sup><br/>(4096.148 Yrths)
         volume: 2.840 × 10<sup>17</sup> km<sup>3</sup><br/>(262158.170 Yrths)
-        mass: 7.124 × 10<sup>29</sup> kg<br />(524.4108203413391 Yrths)
+        mass: 7.124 × 10<sup>29</sup> kg<br />(119292.525 Yrths)
         density: 2.509 g/cm<sup>3</sup>
         surface_gravity: 285.600 m/s<sup>2</sup><br />(29.123 g<sub>0</sub>)
         escape_velocity: 482.933 km/s<br />(1,738,558 km/h)
         rotation_period: 46.722 d
         axial_tilt: 22.06°
         albedo: 0.30
-        temperature: 5191 K<br />(4918 °C)
+        temperature: 891 K<br />(618 °C)
       - name: Udra II b
         type: Icy
         formationType: Captured
@@ -124,14 +124,14 @@ planets:
         radius: 233,586.2 km<br/>(36.664 Yrths)
         surface_area: 6.857 × 10<sup>11</sup> km<sup>2</sup><br/>(1344.247 Yrths)
         volume: 5.339 × 10<sup>16</sup> km<sup>3</sup><br/>(49285.422 Yrths)
-        mass: 8.273 × 10<sup>28</sup> kg<br />(524.4108203413391 Yrths)
+        mass: 8.273 × 10<sup>28</sup> kg<br />(13852.673 Yrths)
         density: 1.550 g/cm<sup>3</sup>
         surface_gravity: 101.059 m/s<sup>2</sup><br />(10.305 g<sub>0</sub>)
         escape_velocity: 217.431 km/s<br />(782,751 km/h)
         rotation_period: 43.126 d
         axial_tilt: 18.90°
         albedo: 0.30
-        temperature: 4949 K<br />(4676 °C)
+        temperature: 891 K<br />(618 °C)
       - name: Udra II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -144,14 +144,14 @@ planets:
         radius: 270,141.2 km<br/>(42.402 Yrths)
         surface_area: 9.170 × 10<sup>11</sup> km<sup>2</sup><br/>(1797.904 Yrths)
         volume: 8.258 × 10<sup>16</sup> km<sup>3</sup><br/>(76234.175 Yrths)
-        mass: 1.872 × 10<sup>29</sup> kg<br />(524.4108203413391 Yrths)
+        mass: 1.872 × 10<sup>29</sup> kg<br />(31339.500 Yrths)
         density: 2.266 g/cm<sup>3</sup>
         surface_gravity: 170.941 m/s<sup>2</sup><br />(17.431 g<sub>0</sub>)
         escape_velocity: 304.108 km/s<br />(1,094,790 km/h)
         rotation_period: 40.811 d
         axial_tilt: 26.27°
         albedo: 0.30
-        temperature: 4499 K<br />(4226 °C)
+        temperature: 891 K<br />(618 °C)
       - name: Udra II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -164,14 +164,14 @@ planets:
         radius: 390,347.2 km<br/>(61.269 Yrths)
         surface_area: 1.915 × 10<sup>12</sup> km<sup>2</sup><br/>(3753.936 Yrths)
         volume: 2.491 × 10<sup>17</sup> km<sup>3</sup><br/>(230001.334 Yrths)
-        mass: 6.311 × 10<sup>29</sup> kg<br />(524.4108203413391 Yrths)
+        mass: 6.311 × 10<sup>29</sup> kg<br />(105679.767 Yrths)
         density: 2.533 g/cm<sup>3</sup>
         surface_gravity: 276.074 m/s<sup>2</sup><br />(28.152 g<sub>0</sub>)
         escape_velocity: 464.567 km/s<br />(1,672,440 km/h)
         rotation_period: 52.338 d
         axial_tilt: 26.98°
         albedo: 0.30
-        temperature: 4090 K<br />(3817 °C)
+        temperature: 891 K<br />(618 °C)
       - name: Udra II e
         type: Icy
         formationType: Impact formed
@@ -184,12 +184,12 @@ planets:
         radius: 187,750.8 km<br/>(29.470 Yrths)
         surface_area: 4.430 × 10<sup>11</sup> km<sup>2</sup><br/>(868.457 Yrths)
         volume: 2.772 × 10<sup>16</sup> km<sup>3</sup><br/>(25593.096 Yrths)
-        mass: 4.904 × 10<sup>28</sup> kg<br />(524.4108203413391 Yrths)
+        mass: 4.904 × 10<sup>28</sup> kg<br />(8211.263 Yrths)
         density: 1.769 g/cm<sup>3</sup>
         surface_gravity: 92.722 m/s<sup>2</sup><br />(9.455 g<sub>0</sub>)
         escape_velocity: 186.720 km/s<br />(672,194 km/h)
         rotation_period: 57.248 d
         axial_tilt: 13.41°
         albedo: 0.30
-        temperature: 3900 K<br />(3627 °C)
+        temperature: 891 K<br />(618 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4081 Anilliad is a star in the constellation Anil
+      4081 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 415.82 ly
 apparent_magnitude: 10.23
 absolute_magnitude: 4.70

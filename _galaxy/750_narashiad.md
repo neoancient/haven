@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      750 Narashiad is a star in the constellation Naras
+      750 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 292.79 ly
 apparent_magnitude: 11.77
 absolute_magnitude: 7.00
@@ -31,7 +31,7 @@ planets:
     radius: 5,246.7 km<br/>(0.824 Yrths)
     surface_area: 3.459 × 10<sup>08</sup> km<sup>2</sup><br/>(0.678 Yrths)
     volume: 6.050 × 10<sup>11</sup> km<sup>3</sup><br/>(0.559 Yrths)
-    mass: 3.037 × 10<sup>24</sup> kg<br />(0.508622347358353 Yrths)
+    mass: 3.037 × 10<sup>24</sup> kg<br />(0.51 Yrths)
     density: 5.021 g/cm<sup>3</sup>
     surface_gravity: 7.355 m/s<sup>2</sup><br />(0.750 g<sub>0</sub>)
     escape_velocity: 8.791 km/s<br />(31,647 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 1,432.1 km<br/>(0.225 Yrths)
         surface_area: 2.577 × 10<sup>07</sup> km<sup>2</sup><br/>(0.051 Yrths)
         volume: 1.230 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 3.599 × 10<sup>22</sup> kg<br />(0.508622347358353 Yrths)
+        mass: 3.599 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 2.925 g/cm<sup>3</sup>
         surface_gravity: 1.170 m/s<sup>2</sup><br />(0.119 g<sub>0</sub>)
         escape_velocity: 1.831 km/s<br />(6,593 km/h)
         rotation_period: 40.945 d
         axial_tilt: 9.84°
         albedo: 0.30
-        temperature: 4686 K<br />(4413 °C)
+        temperature: 318 K<br />(45 °C)
   - name: 750 Narashiad II
     type: Gas giant
     aphelion: 75,495,917 km<br />0.505 AU
@@ -71,7 +71,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.498 g/cm<sup>3</sup>
     surface_gravity: 31873.847 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -92,14 +92,14 @@ planets:
         radius: 982.1 km<br/>(0.154 Yrths)
         surface_area: 1.212 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 3.968 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 3.737 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.737 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.942 g/cm<sup>3</sup>
         surface_gravity: 0.258 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.713 km/s<br />(2,566 km/h)
         rotation_period: 66.071 d
         axial_tilt: 28.24°
         albedo: 0.30
-        temperature: 3174 K<br />(2901 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 750 Narashiad II b
         type: Asteroid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 844.7 km<br/>(0.133 Yrths)
         surface_area: 8.966 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.525 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 7.003 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.003 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.774 g/cm<sup>3</sup>
         surface_gravity: 0.654 m/s<sup>2</sup><br />(0.067 g<sub>0</sub>)
         escape_velocity: 1.052 km/s<br />(3,787 km/h)
         rotation_period: 33.846 d
         axial_tilt: 36.13°
         albedo: 0.30
-        temperature: 2168 K<br />(1895 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 750 Narashiad II c
         type: Rocky
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 826.8 km<br/>(0.130 Yrths)
         surface_area: 8.591 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.368 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 7.595 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.595 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.208 g/cm<sup>3</sup>
         surface_gravity: 0.741 m/s<sup>2</sup><br />(0.076 g<sub>0</sub>)
         escape_velocity: 1.107 km/s<br />(3,986 km/h)
         rotation_period: 45.997 d
         axial_tilt: 21.60°
         albedo: 0.30
-        temperature: 1971 K<br />(1698 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 750 Narashiad II d
         type: Rocky
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 665.2 km<br/>(0.104 Yrths)
         surface_area: 5.561 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.233 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 4.041 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.041 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.278 g/cm<sup>3</sup>
         surface_gravity: 0.609 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 0.901 km/s<br />(3,242 km/h)
         rotation_period: 36.375 d
         axial_tilt: 7.52°
         albedo: 0.30
-        temperature: 1879 K<br />(1606 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 750 Narashiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 826.2 km<br/>(0.130 Yrths)
         surface_area: 8.577 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.362 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.991 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.991 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.113 g/cm<sup>3</sup>
         surface_gravity: 0.487 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
         escape_velocity: 0.898 km/s<br />(3,233 km/h)
         rotation_period: 45.771 d
         axial_tilt: 26.38°
         albedo: 0.30
-        temperature: 1708 K<br />(1435 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 750 Narashiad II f
         type: Asteroid
         formationType: Captured
@@ -192,14 +192,14 @@ planets:
         radius: 794.6 km<br/>(0.125 Yrths)
         surface_area: 7.935 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.102 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 7.519 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.519 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.577 g/cm<sup>3</sup>
         surface_gravity: 0.794 m/s<sup>2</sup><br />(0.081 g<sub>0</sub>)
         escape_velocity: 1.124 km/s<br />(4,046 km/h)
         rotation_period: 36.982 d
         axial_tilt: 31.67°
         albedo: 0.30
-        temperature: 877 K<br />(604 °C)
+        temperature: 252 K<br />(-21 °C)
   - name: 750 Narashiad III
     type: Large terrestrial
     aphelion: 123,086,053 km<br />0.823 AU
@@ -211,7 +211,7 @@ planets:
     radius: 8,420.7 km<br/>(1.322 Yrths)
     surface_area: 8.911 × 10<sup>08</sup> km<sup>2</sup><br/>(1.747 Yrths)
     volume: 2.501 × 10<sup>12</sup> km<sup>3</sup><br/>(2.309 Yrths)
-    mass: 1.913 × 10<sup>25</sup> kg<br />(3.203735708524972 Yrths)
+    mass: 1.913 × 10<sup>25</sup> kg<br />(3.20 Yrths)
     density: 7.650 g/cm<sup>3</sup>
     surface_gravity: 17.984 m/s<sup>2</sup><br />(1.834 g<sub>0</sub>)
     escape_velocity: 17.415 km/s<br />(62,695 km/h)
@@ -232,14 +232,14 @@ planets:
         radius: 2,348.6 km<br/>(0.369 Yrths)
         surface_area: 6.931 × 10<sup>07</sup> km<sup>2</sup><br/>(0.136 Yrths)
         volume: 5.426 × 10<sup>10</sup> km<sup>3</sup><br/>(0.050 Yrths)
-        mass: 1.482 × 10<sup>23</sup> kg<br />(3.203735708524972 Yrths)
+        mass: 1.482 × 10<sup>23</sup> kg<br />(0.025 Yrths)
         density: 2.730 g/cm<sup>3</sup>
         surface_gravity: 1.790 m/s<sup>2</sup><br />(0.183 g<sub>0</sub>)
         escape_velocity: 2.902 km/s<br />(10,447 km/h)
         rotation_period: 33.474 d
         axial_tilt: 15.37°
         albedo: 0.30
-        temperature: 2169 K<br />(1896 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 750 Narashiad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -252,14 +252,14 @@ planets:
         radius: 6,563.9 km<br/>(1.030 Yrths)
         surface_area: 5.414 × 10<sup>08</sup> km<sup>2</sup><br/>(1.061 Yrths)
         volume: 1.185 × 10<sup>12</sup> km<sup>3</sup><br/>(1.094 Yrths)
-        mass: 2.910 × 10<sup>24</sup> kg<br />(3.203735708524972 Yrths)
+        mass: 2.910 × 10<sup>24</sup> kg<br />(0.487 Yrths)
         density: 2.456 g/cm<sup>3</sup>
         surface_gravity: 4.501 m/s<sup>2</sup><br />(0.459 g<sub>0</sub>)
         escape_velocity: 7.693 km/s<br />(27,693 km/h)
         rotation_period: 50.875 d
         axial_tilt: 24.08°
         albedo: 0.30
-        temperature: 2068 K<br />(1795 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 750 Narashiad III c
         type: Dwarf planet
         formationType: Captured
@@ -272,14 +272,14 @@ planets:
         radius: 4,496.9 km<br/>(0.706 Yrths)
         surface_area: 2.541 × 10<sup>08</sup> km<sup>2</sup><br/>(0.498 Yrths)
         volume: 3.809 × 10<sup>11</sup> km<sup>3</sup><br/>(0.352 Yrths)
-        mass: 8.564 × 10<sup>23</sup> kg<br />(3.203735708524972 Yrths)
+        mass: 8.564 × 10<sup>23</sup> kg<br />(0.143 Yrths)
         density: 2.248 g/cm<sup>3</sup>
         surface_gravity: 2.823 m/s<sup>2</sup><br />(0.288 g<sub>0</sub>)
         escape_velocity: 5.042 km/s<br />(18,151 km/h)
         rotation_period: 49.891 d
         axial_tilt: 44.82°
         albedo: 0.30
-        temperature: 1972 K<br />(1699 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 750 Narashiad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 4,671.0 km<br/>(0.733 Yrths)
         surface_area: 2.742 × 10<sup>08</sup> km<sup>2</sup><br/>(0.538 Yrths)
         volume: 4.269 × 10<sup>11</sup> km<sup>3</sup><br/>(0.394 Yrths)
-        mass: 9.524 × 10<sup>23</sup> kg<br />(3.203735708524972 Yrths)
+        mass: 9.524 × 10<sup>23</sup> kg<br />(0.159 Yrths)
         density: 2.231 g/cm<sup>3</sup>
         surface_gravity: 2.910 m/s<sup>2</sup><br />(0.297 g<sub>0</sub>)
         escape_velocity: 5.217 km/s<br />(18,782 km/h)
         rotation_period: 42.441 d
         axial_tilt: 18.32°
         albedo: 0.30
-        temperature: 1880 K<br />(1607 °C)
+        temperature: 200 K<br />(-73 °C)
   - name: 750 Narashiad IV
     type: Large terrestrial
     aphelion: 192,167,709 km<br />1.285 AU
@@ -311,14 +311,14 @@ planets:
     radius: 2,786.2 km<br/>(0.437 Yrths)
     surface_area: 9.755 × 10<sup>07</sup> km<sup>2</sup><br/>(0.191 Yrths)
     volume: 9.060 × 10<sup>10</sup> km<sup>3</sup><br/>(0.084 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.592 g/cm<sup>3</sup>
     surface_gravity: 5.128 m/s<sup>2</sup><br />(0.523 g<sub>0</sub>)
     escape_velocity: 5.349 km/s<br />(19,256 km/h)
     rotation_period: 2.822 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 193 K<br />(-80 °C)
+    temperature: 168 K<br />(-105 °C)
     surface_pressure: 146 kPa<br />(1 atm)
     composition:
       - 95.2076% nitrogen
@@ -336,14 +336,14 @@ planets:
         radius: 655.0 km<br/>(0.103 Yrths)
         surface_area: 5.391 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.177 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.438 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.438 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.921 g/cm<sup>3</sup>
         surface_gravity: 0.534 m/s<sup>2</sup><br />(0.054 g<sub>0</sub>)
         escape_velocity: 0.837 km/s<br />(3,013 km/h)
         rotation_period: 30.578 d
         axial_tilt: 16.89°
         albedo: 0.30
-        temperature: 3066 K<br />(2793 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 750 Narashiad IV b
         type: Asteroid
         formationType: Captured
@@ -356,14 +356,14 @@ planets:
         radius: 354.9 km<br/>(0.056 Yrths)
         surface_area: 1.583 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.873 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.413 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.413 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.356 g/cm<sup>3</sup>
         surface_gravity: 0.233 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.407 km/s<br />(1,467 km/h)
         rotation_period: 42.440 d
         axial_tilt: 40.64°
         albedo: 0.30
-        temperature: 2923 K<br />(2650 °C)
+        temperature: 159 K<br />(-114 °C)
   - name: 750 Narashiad V
     type: Ice giant
     aphelion: 306,438,187 km<br />2.048 AU
@@ -375,14 +375,14 @@ planets:
     radius: 27,571.7 km<br/>(4.328 Yrths)
     surface_area: 9.553 × 10<sup>09</sup> km<sup>2</sup><br/>(18.729 Yrths)
     volume: 8.780 × 10<sup>13</sup> km<sup>3</sup><br/>(81.053 Yrths)
-    mass: 1.053 × 10<sup>26</sup> kg<br />(17.630276785701724 Yrths)
+    mass: 1.053 × 10<sup>26</sup> kg<br />(17.63 Yrths)
     density: 1.199 g/cm<sup>3</sup>
     surface_gravity: 9.231 m/s<sup>2</sup><br />(0.941 g<sub>0</sub>)
     escape_velocity: 22.577 km/s<br />(81,279 km/h)
     rotation_period: 0.661 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 220 K<br />(-53 °C)
+    temperature: 199 K<br />(-74 °C)
     composition:
       - 81.7865% hydrogen
       - 12.6012% helium
@@ -401,14 +401,14 @@ planets:
         radius: 22,113.4 km<br/>(3.471 Yrths)
         surface_area: 6.145 × 10<sup>09</sup> km<sup>2</sup><br/>(12.048 Yrths)
         volume: 4.530 × 10<sup>13</sup> km<sup>3</sup><br/>(41.816 Yrths)
-        mass: 7.875 × 10<sup>25</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 7.875 × 10<sup>25</sup> kg<br />(13.187 Yrths)
         density: 1.739 g/cm<sup>3</sup>
         surface_gravity: 10.734 m/s<sup>2</sup><br />(1.095 g<sub>0</sub>)
         escape_velocity: 21.803 km/s<br />(78,491 km/h)
         rotation_period: 70.855 d
         axial_tilt: 30.95°
         albedo: 0.30
-        temperature: 1028 K<br />(755 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V b
         type: Icy
         formationType: Accreted
@@ -421,14 +421,14 @@ planets:
         radius: 19,233.1 km<br/>(3.019 Yrths)
         surface_area: 4.648 × 10<sup>09</sup> km<sup>2</sup><br/>(9.113 Yrths)
         volume: 2.980 × 10<sup>13</sup> km<sup>3</sup><br/>(27.512 Yrths)
-        mass: 5.234 × 10<sup>25</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 5.234 × 10<sup>25</sup> kg<br />(8.764 Yrths)
         density: 1.756 g/cm<sup>3</sup>
         surface_gravity: 9.431 m/s<sup>2</sup><br />(0.962 g<sub>0</sub>)
         escape_velocity: 19.059 km/s<br />(68,613 km/h)
         rotation_period: 38.042 d
         axial_tilt: 16.30°
         albedo: 0.30
-        temperature: 980 K<br />(707 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V c
         type: Asteroid
         formationType: Captured
@@ -441,14 +441,14 @@ planets:
         radius: 8,801.4 km<br/>(1.381 Yrths)
         surface_area: 9.734 × 10<sup>08</sup> km<sup>2</sup><br/>(1.908 Yrths)
         volume: 2.856 × 10<sup>12</sup> km<sup>3</sup><br/>(2.636 Yrths)
-        mass: 1.057 × 10<sup>25</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 1.057 × 10<sup>25</sup> kg<br />(1.769 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 9.092 m/s<sup>2</sup><br />(0.927 g<sub>0</sub>)
         escape_velocity: 12.659 km/s<br />(45,574 km/h)
         rotation_period: 29.397 d
         axial_tilt: 41.14°
         albedo: 0.30
-        temperature: 935 K<br />(662 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V d
         type: Icy
         formationType: Captured
@@ -461,14 +461,14 @@ planets:
         radius: 10,302.0 km<br/>(1.617 Yrths)
         surface_area: 1.334 × 10<sup>09</sup> km<sup>2</sup><br/>(2.615 Yrths)
         volume: 4.580 × 10<sup>12</sup> km<sup>3</sup><br/>(4.228 Yrths)
-        mass: 8.027 × 10<sup>24</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 8.027 × 10<sup>24</sup> kg<br />(1.344 Yrths)
         density: 1.753 g/cm<sup>3</sup>
         surface_gravity: 5.041 m/s<sup>2</sup><br />(0.514 g<sub>0</sub>)
         escape_velocity: 10.199 km/s<br />(36,715 km/h)
         rotation_period: 53.108 d
         axial_tilt: 6.39°
         albedo: 0.30
-        temperature: 891 K<br />(618 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V e
         type: Asteroid
         formationType: Captured
@@ -481,14 +481,14 @@ planets:
         radius: 17,156.4 km<br/>(2.693 Yrths)
         surface_area: 3.699 × 10<sup>09</sup> km<sup>2</sup><br/>(7.252 Yrths)
         volume: 2.115 × 10<sup>13</sup> km<sup>3</sup><br/>(19.528 Yrths)
-        mass: 4.646 × 10<sup>25</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 4.646 × 10<sup>25</sup> kg<br />(7.780 Yrths)
         density: 2.196 g/cm<sup>3</sup>
         surface_gravity: 10.520 m/s<sup>2</sup><br />(1.073 g<sub>0</sub>)
         escape_velocity: 19.013 km/s<br />(68,445 km/h)
         rotation_period: 38.804 d
         axial_tilt: 32.16°
         albedo: 0.30
-        temperature: 850 K<br />(577 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -501,14 +501,14 @@ planets:
         radius: 13,273.7 km<br/>(2.083 Yrths)
         surface_area: 2.214 × 10<sup>09</sup> km<sup>2</sup><br/>(4.341 Yrths)
         volume: 9.796 × 10<sup>12</sup> km<sup>3</sup><br/>(9.044 Yrths)
-        mass: 2.371 × 10<sup>25</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 2.371 × 10<sup>25</sup> kg<br />(3.969 Yrths)
         density: 2.420 g/cm<sup>3</sup>
         surface_gravity: 8.968 m/s<sup>2</sup><br />(0.914 g<sub>0</sub>)
         escape_velocity: 15.440 km/s<br />(55,583 km/h)
         rotation_period: 32.256 d
         axial_tilt: 23.48°
         albedo: 0.30
-        temperature: 810 K<br />(537 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V g
         type: Asteroid
         formationType: Captured
@@ -521,14 +521,14 @@ planets:
         radius: 11,896.3 km<br/>(1.867 Yrths)
         surface_area: 1.778 × 10<sup>09</sup> km<sup>2</sup><br/>(3.487 Yrths)
         volume: 7.052 × 10<sup>12</sup> km<sup>3</sup><br/>(6.511 Yrths)
-        mass: 1.597 × 10<sup>25</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 1.597 × 10<sup>25</sup> kg<br />(2.674 Yrths)
         density: 2.264 g/cm<sup>3</sup>
         surface_gravity: 7.521 m/s<sup>2</sup><br />(0.767 g<sub>0</sub>)
         escape_velocity: 13.386 km/s<br />(48,189 km/h)
         rotation_period: 34.724 d
         axial_tilt: 40.46°
         albedo: 0.30
-        temperature: 737 K<br />(463 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V h
         type: Icy
         formationType: Accreted
@@ -541,14 +541,14 @@ planets:
         radius: 9,103.0 km<br/>(1.429 Yrths)
         surface_area: 1.041 × 10<sup>09</sup> km<sup>2</sup><br/>(2.042 Yrths)
         volume: 3.160 × 10<sup>12</sup> km<sup>3</sup><br/>(2.917 Yrths)
-        mass: 3.228 × 10<sup>24</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 3.228 × 10<sup>24</sup> kg<br />(0.541 Yrths)
         density: 1.022 g/cm<sup>3</sup>
         surface_gravity: 2.597 m/s<sup>2</sup><br />(0.265 g<sub>0</sub>)
         escape_velocity: 6.881 km/s<br />(24,770 km/h)
         rotation_period: 63.515 d
         axial_tilt: 16.80°
         albedo: 0.30
-        temperature: 670 K<br />(396 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -561,14 +561,14 @@ planets:
         radius: 7,818.9 km<br/>(1.227 Yrths)
         surface_area: 7.682 × 10<sup>08</sup> km<sup>2</sup><br/>(1.506 Yrths)
         volume: 2.002 × 10<sup>12</sup> km<sup>3</sup><br/>(1.848 Yrths)
-        mass: 4.189 × 10<sup>24</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 4.189 × 10<sup>24</sup> kg<br />(0.701 Yrths)
         density: 2.092 g/cm<sup>3</sup>
         surface_gravity: 4.567 m/s<sup>2</sup><br />(0.466 g<sub>0</sub>)
         escape_velocity: 8.457 km/s<br />(30,444 km/h)
         rotation_period: 50.325 d
         axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 609 K<br />(336 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V j
         type: Ice/rock hybrid
         formationType: Captured
@@ -581,14 +581,14 @@ planets:
         radius: 12,819.4 km<br/>(2.012 Yrths)
         surface_area: 2.065 × 10<sup>09</sup> km<sup>2</sup><br/>(4.049 Yrths)
         volume: 8.825 × 10<sup>12</sup> km<sup>3</sup><br/>(8.147 Yrths)
-        mass: 1.616 × 10<sup>25</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 1.616 × 10<sup>25</sup> kg<br />(2.707 Yrths)
         density: 1.832 g/cm<sup>3</sup>
         surface_gravity: 6.556 m/s<sup>2</sup><br />(0.669 g<sub>0</sub>)
         escape_velocity: 12.974 km/s<br />(46,706 km/h)
         rotation_period: 67.642 d
         axial_tilt: 17.87°
         albedo: 0.30
-        temperature: 580 K<br />(307 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 750 Narashiad V k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -601,14 +601,14 @@ planets:
         radius: 37,956.3 km<br/>(5.958 Yrths)
         surface_area: 1.810 × 10<sup>10</sup> km<sup>2</sup><br/>(35.494 Yrths)
         volume: 2.291 × 10<sup>14</sup> km<sup>3</sup><br/>(211.460 Yrths)
-        mass: 4.056 × 10<sup>26</sup> kg<br />(17.630276785701724 Yrths)
+        mass: 4.056 × 10<sup>26</sup> kg<br />(67.912 Yrths)
         density: 1.771 g/cm<sup>3</sup>
         surface_gravity: 18.764 m/s<sup>2</sup><br />(1.913 g<sub>0</sub>)
         escape_velocity: 37.767 km/s<br />(135,960 km/h)
         rotation_period: 54.190 d
         axial_tilt: 21.56°
         albedo: 0.30
-        temperature: 553 K<br />(280 °C)
+        temperature: 126 K<br />(-147 °C)
   - name: 750 Narashiad VI
     type: Terrestrial
     aphelion: 487,510,459 km<br />3.259 AU
@@ -620,7 +620,7 @@ planets:
     radius: 5,712.4 km<br/>(0.897 Yrths)
     surface_area: 4.101 × 10<sup>08</sup> km<sup>2</sup><br/>(0.804 Yrths)
     volume: 7.808 × 10<sup>11</sup> km<sup>3</sup><br/>(0.721 Yrths)
-    mass: 3.579 × 10<sup>24</sup> kg<br />(0.5993788015714425 Yrths)
+    mass: 3.579 × 10<sup>24</sup> kg<br />(0.60 Yrths)
     density: 4.584 g/cm<sup>3</sup>
     surface_gravity: 7.311 m/s<sup>2</sup><br />(0.746 g<sub>0</sub>)
     escape_velocity: 9.146 km/s<br />(32,925 km/h)
@@ -641,14 +641,14 @@ planets:
         radius: 2,233.0 km<br/>(0.350 Yrths)
         surface_area: 6.266 × 10<sup>07</sup> km<sup>2</sup><br/>(0.123 Yrths)
         volume: 4.664 × 10<sup>10</sup> km<sup>3</sup><br/>(0.043 Yrths)
-        mass: 6.176 × 10<sup>22</sup> kg<br />(0.5993788015714425 Yrths)
+        mass: 6.176 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 1.324 g/cm<sup>3</sup>
         surface_gravity: 0.826 m/s<sup>2</sup><br />(0.084 g<sub>0</sub>)
         escape_velocity: 1.921 km/s<br />(6,917 km/h)
         rotation_period: 53.770 d
         axial_tilt: 19.27°
         albedo: 0.30
-        temperature: 1431 K<br />(1158 °C)
+        temperature: 100 K<br />(-173 °C)
   - name: 750 Narashiad VII
     type: Gas giant
     aphelion: 770,355,024 km<br />5.149 AU
@@ -660,7 +660,7 @@ planets:
     radius: 189.7 km<br/>(0.030 Yrths)
     surface_area: 4.520 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.858 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.012 × 10<sup>26</sup> kg<br />(134.16055092108482 Yrths)
+    mass: 8.012 × 10<sup>26</sup> kg<br />(134.16 Yrths)
     density: 28035628.512 g/cm<sup>3</sup>
     surface_gravity: 1484557.083 m/s<sup>2</sup><br />(151382.693 g<sub>0</sub>)
     escape_velocity: 750.930 km/s<br />(2,703,347 km/h)
@@ -681,14 +681,14 @@ planets:
         radius: 88,305.4 km<br/>(13.861 Yrths)
         surface_area: 9.799 × 10<sup>10</sup> km<sup>2</sup><br/>(192.114 Yrths)
         volume: 2.884 × 10<sup>15</sup> km<sup>3</sup><br/>(2662.806 Yrths)
-        mass: 7.087 × 10<sup>27</sup> kg<br />(134.16055092108482 Yrths)
+        mass: 7.087 × 10<sup>27</sup> kg<br />(1186.761 Yrths)
         density: 2.457 g/cm<sup>3</sup>
         surface_gravity: 60.579 m/s<sup>2</sup><br />(6.177 g<sub>0</sub>)
         escape_velocity: 103.506 km/s<br />(372,622 km/h)
         rotation_period: 45.114 d
         axial_tilt: 20.82°
         albedo: 0.30
-        temperature: 225 K<br />(-48 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 750 Narashiad VII b
         type: Asteroid
         formationType: Captured
@@ -701,14 +701,14 @@ planets:
         radius: 95,389.7 km<br/>(14.972 Yrths)
         surface_area: 1.143 × 10<sup>11</sup> km<sup>2</sup><br/>(224.175 Yrths)
         volume: 3.636 × 10<sup>15</sup> km<sup>3</sup><br/>(3356.461 Yrths)
-        mass: 4.726 × 10<sup>27</sup> kg<br />(134.16055092108482 Yrths)
+        mass: 4.726 × 10<sup>27</sup> kg<br />(791.437 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 34.622 m/s<sup>2</sup><br />(3.530 g<sub>0</sub>)
         escape_velocity: 81.327 km/s<br />(292,778 km/h)
         rotation_period: 51.981 d
         axial_tilt: 27.36°
         albedo: 0.30
-        temperature: 186 K<br />(-87 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 750 Narashiad VII c
         type: Icy
         formationType: Captured
@@ -721,14 +721,14 @@ planets:
         radius: 108,529.6 km<br/>(17.035 Yrths)
         surface_area: 1.480 × 10<sup>11</sup> km<sup>2</sup><br/>(290.189 Yrths)
         volume: 5.355 × 10<sup>15</sup> km<sup>3</sup><br/>(4943.358 Yrths)
-        mass: 6.466 × 10<sup>27</sup> kg<br />(134.16055092108482 Yrths)
+        mass: 6.466 × 10<sup>27</sup> kg<br />(1082.697 Yrths)
         density: 1.208 g/cm<sup>3</sup>
         surface_gravity: 36.589 m/s<sup>2</sup><br />(3.731 g<sub>0</sub>)
         escape_velocity: 89.178 km/s<br />(321,040 km/h)
         rotation_period: 46.392 d
         axial_tilt: 21.61°
         albedo: 0.30
-        temperature: 161 K<br />(-112 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 750 Narashiad VII d
         type: Icy
         formationType: Captured
@@ -741,14 +741,14 @@ planets:
         radius: 164,419.7 km<br/>(25.808 Yrths)
         surface_area: 3.397 × 10<sup>11</sup> km<sup>2</sup><br/>(666.028 Yrths)
         volume: 1.862 × 10<sup>16</sup> km<sup>3</sup><br/>(17188.533 Yrths)
-        mass: 2.391 × 10<sup>28</sup> kg<br />(134.16055092108482 Yrths)
+        mass: 2.391 × 10<sup>28</sup> kg<br />(4003.308 Yrths)
         density: 1.284 g/cm<sup>3</sup>
         surface_gravity: 58.945 m/s<sup>2</sup><br />(6.011 g<sub>0</sub>)
         escape_velocity: 139.319 km/s<br />(501,548 km/h)
         rotation_period: 49.365 d
         axial_tilt: 10.52°
         albedo: 0.30
-        temperature: 105 K<br />(-168 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 750 Narashiad VII e
         type: Dwarf planet
         formationType: Accreted
@@ -761,14 +761,14 @@ planets:
         radius: 96,213.4 km<br/>(15.102 Yrths)
         surface_area: 1.163 × 10<sup>11</sup> km<sup>2</sup><br/>(228.064 Yrths)
         volume: 3.731 × 10<sup>15</sup> km<sup>3</sup><br/>(3444.165 Yrths)
-        mass: 5.775 × 10<sup>27</sup> kg<br />(134.16055092108482 Yrths)
+        mass: 5.775 × 10<sup>27</sup> kg<br />(966.952 Yrths)
         density: 1.548 g/cm<sup>3</sup>
         surface_gravity: 41.579 m/s<sup>2</sup><br />(4.240 g<sub>0</sub>)
         escape_velocity: 89.508 km/s<br />(322,229 km/h)
         rotation_period: 55.537 d
         axial_tilt: 27.93°
         albedo: 0.30
-        temperature: 83 K<br />(-190 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 750 Narashiad VII f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -781,14 +781,14 @@ planets:
         radius: 91,733.5 km<br/>(14.399 Yrths)
         surface_area: 1.057 × 10<sup>11</sup> km<sup>2</sup><br/>(207.320 Yrths)
         volume: 3.233 × 10<sup>15</sup> km<sup>3</sup><br/>(2985.115 Yrths)
-        mass: 8.495 × 10<sup>27</sup> kg<br />(134.16055092108482 Yrths)
+        mass: 8.495 × 10<sup>27</sup> kg<br />(1422.442 Yrths)
         density: 2.627 g/cm<sup>3</sup>
         surface_gravity: 67.284 m/s<sup>2</sup><br />(6.861 g<sub>0</sub>)
         escape_velocity: 111.181 km/s<br />(400,252 km/h)
         rotation_period: 45.515 d
         axial_tilt: 15.15°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 750 Narashiad VII g
         type: Icy
         formationType: Impact formed
@@ -801,12 +801,12 @@ planets:
         radius: 113,170.4 km<br/>(17.763 Yrths)
         surface_area: 1.609 × 10<sup>11</sup> km<sup>2</sup><br/>(315.537 Yrths)
         volume: 6.071 × 10<sup>15</sup> km<sup>3</sup><br/>(5604.999 Yrths)
-        mass: 9.874 × 10<sup>27</sup> kg<br />(134.16055092108482 Yrths)
+        mass: 9.874 × 10<sup>27</sup> kg<br />(1653.341 Yrths)
         density: 1.626 g/cm<sup>3</sup>
         surface_gravity: 51.385 m/s<sup>2</sup><br />(5.240 g<sub>0</sub>)
         escape_velocity: 107.918 km/s<br />(388,504 km/h)
         rotation_period: 40.607 d
         axial_tilt: 20.59°
         albedo: 0.30
-        temperature: 33 K<br />(-240 °C)
+        temperature: 79 K<br />(-194 °C)
 ---

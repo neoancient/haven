@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0089 Olliad E is a star in the constellation Ol
+      0089 Olliad E is a star in the constellation <a href="ol.html">Ol</a>
 distance: 187.24 ly
 apparent_magnitude: 8.90
 absolute_magnitude: 5.10

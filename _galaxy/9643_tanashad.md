@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9643 Tanashad is a star in the constellation Tanas
+      9643 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 289.03 ly
 apparent_magnitude: 9.72
 absolute_magnitude: 4.98
@@ -31,14 +31,14 @@ planets:
     radius: 2,713.4 km<br/>(0.426 Yrths)
     surface_area: 9.252 × 10<sup>07</sup> km<sup>2</sup><br/>(0.181 Yrths)
     volume: 8.368 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-    mass: 6.594 × 10<sup>23</sup> kg<br />(0.1104170326600128 Yrths)
+    mass: 6.594 × 10<sup>23</sup> kg<br />(0.11 Yrths)
     density: 7.880 g/cm<sup>3</sup>
     surface_gravity: 5.970 m/s<sup>2</sup><br />(0.609 g<sub>0</sub>)
     escape_velocity: 5.696 km/s<br />(20,504 km/h)
     rotation_period: 3.081 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 434 K<br />(160 °C)
+    temperature: 739 K<br />(466 °C)
     surface_pressure: 130 kPa<br />(1 atm)
     composition:
       - 62.8494% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 623.9 km<br/>(0.098 Yrths)
         surface_area: 4.891 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.017 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.944 × 10<sup>21</sup> kg<br />(0.1104170326600128 Yrths)
+        mass: 2.944 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.894 g/cm<sup>3</sup>
         surface_gravity: 0.504 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 0.794 km/s<br />(2,857 km/h)
         rotation_period: 32.793 d
         axial_tilt: 11.66°
         albedo: 0.30
-        temperature: 7269 K<br />(6996 °C)
+        temperature: 321 K<br />(48 °C)
   - name: 9643 Tanashad II
     type: Terrestrial
     aphelion: 162,954,459 km<br />1.089 AU
@@ -76,14 +76,14 @@ planets:
     radius: 7,342.1 km<br/>(1.152 Yrths)
     surface_area: 6.774 × 10<sup>08</sup> km<sup>2</sup><br/>(1.328 Yrths)
     volume: 1.658 × 10<sup>12</sup> km<sup>3</sup><br/>(1.531 Yrths)
-    mass: 7.841 × 10<sup>24</sup> kg<br />(1.313035529635035 Yrths)
+    mass: 7.841 × 10<sup>24</sup> kg<br />(1.31 Yrths)
     density: 4.730 g/cm<sup>3</sup>
     surface_gravity: 9.696 m/s<sup>2</sup><br />(0.989 g<sub>0</sub>)
     escape_velocity: 11.940 km/s<br />(42,984 km/h)
     rotation_period: 1.335 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 264 K<br />(-9 °C)
+    temperature: 327 K<br />(54 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 47.7789% ammonia
@@ -103,14 +103,14 @@ planets:
         radius: 3,489.8 km<br/>(0.548 Yrths)
         surface_area: 1.530 × 10<sup>08</sup> km<sup>2</sup><br/>(0.300 Yrths)
         volume: 1.780 × 10<sup>11</sup> km<sup>3</sup><br/>(0.164 Yrths)
-        mass: 4.929 × 10<sup>23</sup> kg<br />(1.313035529635035 Yrths)
+        mass: 4.929 × 10<sup>23</sup> kg<br />(0.083 Yrths)
         density: 2.769 g/cm<sup>3</sup>
         surface_gravity: 2.698 m/s<sup>2</sup><br />(0.275 g<sub>0</sub>)
         escape_velocity: 4.342 km/s<br />(15,632 km/h)
         rotation_period: 52.043 d
         axial_tilt: 16.47°
         albedo: 0.30
-        temperature: 3326 K<br />(3052 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 9643 Tanashad II b
         type: Rocky
         formationType: Captured
@@ -123,14 +123,14 @@ planets:
         radius: 1,009.7 km<br/>(0.158 Yrths)
         surface_area: 1.281 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.311 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.236 × 10<sup>22</sup> kg<br />(1.313035529635035 Yrths)
+        mass: 1.236 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.868 g/cm<sup>3</sup>
         surface_gravity: 0.808 m/s<sup>2</sup><br />(0.082 g<sub>0</sub>)
         escape_velocity: 1.279 km/s<br />(4,603 km/h)
         rotation_period: 33.153 d
         axial_tilt: 17.32°
         albedo: 0.30
-        temperature: 3171 K<br />(2898 °C)
+        temperature: 242 K<br />(-31 °C)
   - name: 9643 Tanashad III
     type: Terrestrial
     aphelion: 307,420,542 km<br />2.055 AU
@@ -142,14 +142,14 @@ planets:
     radius: 5,380.1 km<br/>(0.844 Yrths)
     surface_area: 3.637 × 10<sup>08</sup> km<sup>2</sup><br/>(0.713 Yrths)
     volume: 6.523 × 10<sup>11</sup> km<sup>3</sup><br/>(0.602 Yrths)
-    mass: 3.406 × 10<sup>24</sup> kg<br />(0.5704006626605949 Yrths)
+    mass: 3.406 × 10<sup>24</sup> kg<br />(0.57 Yrths)
     density: 5.222 g/cm<sup>3</sup>
     surface_gravity: 7.844 m/s<sup>2</sup><br />(0.800 g<sub>0</sub>)
     escape_velocity: 9.193 km/s<br />(33,096 km/h)
     rotation_period: 1.377 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 235 K<br />(-38 °C)
+    temperature: 503 K<br />(230 °C)
     surface_pressure: 22 kPa<br />(0 atm)
     composition:
       - 49.7125% carbon dioxide
@@ -168,14 +168,14 @@ planets:
         radius: 1,421.9 km<br/>(0.223 Yrths)
         surface_area: 2.541 × 10<sup>07</sup> km<sup>2</sup><br/>(0.050 Yrths)
         volume: 1.204 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 2.539 × 10<sup>22</sup> kg<br />(0.5704006626605949 Yrths)
+        mass: 2.539 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.108 g/cm<sup>3</sup>
         surface_gravity: 0.837 m/s<sup>2</sup><br />(0.085 g<sub>0</sub>)
         escape_velocity: 1.544 km/s<br />(5,558 km/h)
         rotation_period: 41.365 d
         axial_tilt: 30.97°
         albedo: 0.30
-        temperature: 3281 K<br />(3008 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 9643 Tanashad III b
         type: Rocky
         formationType: Impact formed
@@ -188,14 +188,14 @@ planets:
         radius: 1,735.8 km<br/>(0.272 Yrths)
         surface_area: 3.786 × 10<sup>07</sup> km<sup>2</sup><br/>(0.074 Yrths)
         volume: 2.191 × 10<sup>10</sup> km<sup>3</sup><br/>(0.020 Yrths)
-        mass: 5.888 × 10<sup>22</sup> kg<br />(0.5704006626605949 Yrths)
+        mass: 5.888 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.687 g/cm<sup>3</sup>
         surface_gravity: 1.302 m/s<sup>2</sup><br />(0.133 g<sub>0</sub>)
         escape_velocity: 2.128 km/s<br />(7,660 km/h)
         rotation_period: 39.736 d
         axial_tilt: 6.87°
         albedo: 0.30
-        temperature: 3128 K<br />(2855 °C)
+        temperature: 182 K<br />(-91 °C)
   - name: 9643 Tanashad IV
     type: Gas dwarf
     aphelion: 524,684,422 km<br />3.507 AU
@@ -207,14 +207,14 @@ planets:
     radius: 18,716.0 km<br/>(2.938 Yrths)
     surface_area: 4.402 × 10<sup>09</sup> km<sup>2</sup><br/>(8.630 Yrths)
     volume: 2.746 × 10<sup>13</sup> km<sup>3</sup><br/>(25.352 Yrths)
-    mass: 5.692 × 10<sup>25</sup> kg<br />(9.531165691476534 Yrths)
+    mass: 5.692 × 10<sup>25</sup> kg<br />(9.53 Yrths)
     density: 2.073 g/cm<sup>3</sup>
     surface_gravity: 10.831 m/s<sup>2</sup><br />(1.104 g<sub>0</sub>)
     escape_velocity: 20.149 km/s<br />(72,535 km/h)
     rotation_period: 0.492 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 196 K<br />(-77 °C)
+    temperature: 180 K<br />(-93 °C)
     composition:
       - 84.9904% hydrogen
       - 9.6791% acetylene
@@ -232,14 +232,14 @@ planets:
         radius: 12,400.1 km<br/>(1.946 Yrths)
         surface_area: 1.932 × 10<sup>09</sup> km<sup>2</sup><br/>(3.788 Yrths)
         volume: 7.987 × 10<sup>12</sup> km<sup>3</sup><br/>(7.373 Yrths)
-        mass: 1.878 × 10<sup>25</sup> kg<br />(9.531165691476534 Yrths)
+        mass: 1.878 × 10<sup>25</sup> kg<br />(3.145 Yrths)
         density: 2.352 g/cm<sup>3</sup>
         surface_gravity: 8.142 m/s<sup>2</sup><br />(0.830 g<sub>0</sub>)
         escape_velocity: 14.220 km/s<br />(51,191 km/h)
         rotation_period: 37.163 d
         axial_tilt: 6.46°
         albedo: 0.30
-        temperature: 1325 K<br />(1052 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 9643 Tanashad IV b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -252,14 +252,14 @@ planets:
         radius: 11,091.6 km<br/>(1.741 Yrths)
         surface_area: 1.546 × 10<sup>09</sup> km<sup>2</sup><br/>(3.031 Yrths)
         volume: 5.716 × 10<sup>12</sup> km<sup>3</sup><br/>(5.277 Yrths)
-        mass: 1.403 × 10<sup>25</sup> kg<br />(9.531165691476534 Yrths)
+        mass: 1.403 × 10<sup>25</sup> kg<br />(2.350 Yrths)
         density: 2.455 g/cm<sup>3</sup>
         surface_gravity: 7.604 m/s<sup>2</sup><br />(0.775 g<sub>0</sub>)
         escape_velocity: 12.996 km/s<br />(46,786 km/h)
         rotation_period: 42.530 d
         axial_tilt: 22.64°
         albedo: 0.30
-        temperature: 1264 K<br />(990 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 9643 Tanashad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -272,14 +272,14 @@ planets:
         radius: 9,141.2 km<br/>(1.435 Yrths)
         surface_area: 1.050 × 10<sup>09</sup> km<sup>2</sup><br/>(2.059 Yrths)
         volume: 3.200 × 10<sup>12</sup> km<sup>3</sup><br/>(2.954 Yrths)
-        mass: 6.481 × 10<sup>24</sup> kg<br />(9.531165691476534 Yrths)
+        mass: 6.481 × 10<sup>24</sup> kg<br />(1.085 Yrths)
         density: 2.026 g/cm<sup>3</sup>
         surface_gravity: 5.170 m/s<sup>2</sup><br />(0.527 g<sub>0</sub>)
         escape_velocity: 9.729 km/s<br />(35,023 km/h)
         rotation_period: 45.162 d
         axial_tilt: 11.29°
         albedo: 0.30
-        temperature: 1205 K<br />(932 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 9643 Tanashad IV d
         type: Icy
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 8,198.2 km<br/>(1.287 Yrths)
         surface_area: 8.446 × 10<sup>08</sup> km<sup>2</sup><br/>(1.656 Yrths)
         volume: 2.308 × 10<sup>12</sup> km<sup>3</sup><br/>(2.131 Yrths)
-        mass: 1.716 × 10<sup>24</sup> kg<br />(9.531165691476534 Yrths)
+        mass: 1.716 × 10<sup>24</sup> kg<br />(0.287 Yrths)
         density: 0.743 g/cm<sup>3</sup>
         surface_gravity: 1.701 m/s<sup>2</sup><br />(0.173 g<sub>0</sub>)
         escape_velocity: 5.285 km/s<br />(19,027 km/h)
         rotation_period: 57.820 d
         axial_tilt: 19.93°
         albedo: 0.30
-        temperature: 1149 K<br />(876 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 9643 Tanashad IV e
         type: Rocky
         formationType: Impact formed
@@ -312,14 +312,14 @@ planets:
         radius: 6,726.6 km<br/>(1.056 Yrths)
         surface_area: 5.686 × 10<sup>08</sup> km<sup>2</sup><br/>(1.115 Yrths)
         volume: 1.275 × 10<sup>12</sup> km<sup>3</sup><br/>(1.177 Yrths)
-        mass: 3.446 × 10<sup>24</sup> kg<br />(9.531165691476534 Yrths)
+        mass: 3.446 × 10<sup>24</sup> kg<br />(0.577 Yrths)
         density: 2.703 g/cm<sup>3</sup>
         surface_gravity: 5.076 m/s<sup>2</sup><br />(0.518 g<sub>0</sub>)
         escape_velocity: 8.269 km/s<br />(29,770 km/h)
         rotation_period: 42.044 d
         axial_tilt: 9.59°
         albedo: 0.30
-        temperature: 1095 K<br />(822 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 9643 Tanashad IV f
         type: Asteroid
         formationType: Captured
@@ -332,14 +332,14 @@ planets:
         radius: 23,076.0 km<br/>(3.622 Yrths)
         surface_area: 6.692 × 10<sup>09</sup> km<sup>2</sup><br/>(13.119 Yrths)
         volume: 5.147 × 10<sup>13</sup> km<sup>3</sup><br/>(47.518 Yrths)
-        mass: 8.703 × 10<sup>25</sup> kg<br />(9.531165691476534 Yrths)
+        mass: 8.703 × 10<sup>25</sup> kg<br />(14.573 Yrths)
         density: 1.691 g/cm<sup>3</sup>
         surface_gravity: 10.893 m/s<sup>2</sup><br />(1.111 g<sub>0</sub>)
         escape_velocity: 22.437 km/s<br />(80,774 km/h)
         rotation_period: 40.010 d
         axial_tilt: 51.52°
         albedo: 0.30
-        temperature: 1044 K<br />(771 °C)
+        temperature: 137 K<br />(-136 °C)
   - name: 9643 Tanashad V
     type: Ice giant
     aphelion: 916,225,015 km<br />6.124 AU
@@ -351,14 +351,14 @@ planets:
     radius: 26,143.9 km<br/>(4.104 Yrths)
     surface_area: 8.589 × 10<sup>09</sup> km<sup>2</sup><br/>(16.839 Yrths)
     volume: 7.485 × 10<sup>13</sup> km<sup>3</sup><br/>(69.101 Yrths)
-    mass: 1.012 × 10<sup>26</sup> kg<br />(16.94980653920991 Yrths)
+    mass: 1.012 × 10<sup>26</sup> kg<br />(16.95 Yrths)
     density: 1.352 g/cm<sup>3</sup>
     surface_gravity: 9.871 m/s<sup>2</sup><br />(1.007 g<sub>0</sub>)
     escape_velocity: 22.734 km/s<br />(81,842 km/h)
     rotation_period: 0.403 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 182 K<br />(-91 °C)
+    temperature: 164 K<br />(-109 °C)
     composition:
       - 86.2423% hydrogen
       - 12.0211% helium
@@ -376,14 +376,14 @@ planets:
         radius: 14,996.5 km<br/>(2.354 Yrths)
         surface_area: 2.826 × 10<sup>09</sup> km<sup>2</sup><br/>(5.541 Yrths)
         volume: 1.413 × 10<sup>13</sup> km<sup>3</sup><br/>(13.042 Yrths)
-        mass: 3.106 × 10<sup>25</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 3.106 × 10<sup>25</sup> kg<br />(5.202 Yrths)
         density: 2.199 g/cm<sup>3</sup>
         surface_gravity: 9.207 m/s<sup>2</sup><br />(0.939 g<sub>0</sub>)
         escape_velocity: 16.629 km/s<br />(59,863 km/h)
         rotation_period: 51.101 d
         axial_tilt: 20.31°
         albedo: 0.30
-        temperature: 902 K<br />(629 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 9643 Tanashad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -396,14 +396,14 @@ planets:
         radius: 8,558.0 km<br/>(1.343 Yrths)
         surface_area: 9.204 × 10<sup>08</sup> km<sup>2</sup><br/>(1.804 Yrths)
         volume: 2.626 × 10<sup>12</sup> km<sup>3</sup><br/>(2.424 Yrths)
-        mass: 4.201 × 10<sup>24</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 4.201 × 10<sup>24</sup> kg<br />(0.703 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 3.823 m/s<sup>2</sup><br />(0.390 g<sub>0</sub>)
         escape_velocity: 8.095 km/s<br />(29,141 km/h)
         rotation_period: 51.651 d
         axial_tilt: 20.14°
         albedo: 0.30
-        temperature: 820 K<br />(547 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 9643 Tanashad V c
         type: Icy
         formationType: Accreted
@@ -416,14 +416,14 @@ planets:
         radius: 11,520.9 km<br/>(1.808 Yrths)
         surface_area: 1.668 × 10<sup>09</sup> km<sup>2</sup><br/>(3.270 Yrths)
         volume: 6.405 × 10<sup>12</sup> km<sup>3</sup><br/>(5.913 Yrths)
-        mass: 7.382 × 10<sup>24</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 7.382 × 10<sup>24</sup> kg<br />(1.236 Yrths)
         density: 1.152 g/cm<sup>3</sup>
         surface_gravity: 3.707 m/s<sup>2</sup><br />(0.378 g<sub>0</sub>)
         escape_velocity: 9.248 km/s<br />(33,295 km/h)
         rotation_period: 50.295 d
         axial_tilt: 17.99°
         albedo: 0.30
-        temperature: 782 K<br />(509 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 9643 Tanashad V d
         type: Ice/rock hybrid
         formationType: Captured
@@ -436,14 +436,14 @@ planets:
         radius: 11,069.3 km<br/>(1.737 Yrths)
         surface_area: 1.540 × 10<sup>09</sup> km<sup>2</sup><br/>(3.019 Yrths)
         volume: 5.681 × 10<sup>12</sup> km<sup>3</sup><br/>(5.245 Yrths)
-        mass: 1.125 × 10<sup>25</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 1.125 × 10<sup>25</sup> kg<br />(1.884 Yrths)
         density: 1.981 g/cm<sup>3</sup>
         surface_gravity: 6.121 m/s<sup>2</sup><br />(0.624 g<sub>0</sub>)
         escape_velocity: 11.649 km/s<br />(41,935 km/h)
         rotation_period: 44.624 d
         axial_tilt: 19.14°
         albedo: 0.30
-        temperature: 746 K<br />(473 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 9643 Tanashad V e
         type: Asteroid
         formationType: Captured
@@ -456,14 +456,14 @@ planets:
         radius: 8,758.0 km<br/>(1.375 Yrths)
         surface_area: 9.639 × 10<sup>08</sup> km<sup>2</sup><br/>(1.890 Yrths)
         volume: 2.814 × 10<sup>12</sup> km<sup>3</sup><br/>(2.598 Yrths)
-        mass: 7.245 × 10<sup>24</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 7.245 × 10<sup>24</sup> kg<br />(1.213 Yrths)
         density: 2.575 g/cm<sup>3</sup>
         surface_gravity: 6.296 m/s<sup>2</sup><br />(0.642 g<sub>0</sub>)
         escape_velocity: 10.508 km/s<br />(37,830 km/h)
         rotation_period: 41.008 d
         axial_tilt: 19.05°
         albedo: 0.30
-        temperature: 711 K<br />(438 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 9643 Tanashad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -476,14 +476,14 @@ planets:
         radius: 27,323.2 km<br/>(4.289 Yrths)
         surface_area: 9.382 × 10<sup>09</sup> km<sup>2</sup><br/>(18.393 Yrths)
         volume: 8.544 × 10<sup>13</sup> km<sup>3</sup><br/>(78.881 Yrths)
-        mass: 1.539 × 10<sup>26</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 1.539 × 10<sup>26</sup> kg<br />(25.779 Yrths)
         density: 1.802 g/cm<sup>3</sup>
         surface_gravity: 13.745 m/s<sup>2</sup><br />(1.402 g<sub>0</sub>)
         escape_velocity: 27.425 km/s<br />(98,729 km/h)
         rotation_period: 47.571 d
         axial_tilt: 19.80°
         albedo: 0.30
-        temperature: 678 K<br />(405 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 9643 Tanashad V g
         type: Ice/rock hybrid
         formationType: Captured
@@ -496,14 +496,14 @@ planets:
         radius: 19,953.2 km<br/>(3.132 Yrths)
         surface_area: 5.003 × 10<sup>09</sup> km<sup>2</sup><br/>(9.809 Yrths)
         volume: 3.328 × 10<sup>13</sup> km<sup>3</sup><br/>(30.719 Yrths)
-        mass: 6.669 × 10<sup>25</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 6.669 × 10<sup>25</sup> kg<br />(11.167 Yrths)
         density: 2.004 g/cm<sup>3</sup>
         surface_gravity: 11.164 m/s<sup>2</sup><br />(1.138 g<sub>0</sub>)
         escape_velocity: 21.122 km/s<br />(76,039 km/h)
         rotation_period: 46.372 d
         axial_tilt: 15.43°
         albedo: 0.30
-        temperature: 646 K<br />(373 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 9643 Tanashad V h
         type: Icy
         formationType: Captured
@@ -516,14 +516,14 @@ planets:
         radius: 16,895.0 km<br/>(2.652 Yrths)
         surface_area: 3.587 × 10<sup>09</sup> km<sup>2</sup><br/>(7.032 Yrths)
         volume: 2.020 × 10<sup>13</sup> km<sup>3</sup><br/>(18.649 Yrths)
-        mass: 2.166 × 10<sup>25</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 2.166 × 10<sup>25</sup> kg<br />(3.627 Yrths)
         density: 1.072 g/cm<sup>3</sup>
         surface_gravity: 5.058 m/s<sup>2</sup><br />(0.516 g<sub>0</sub>)
         escape_velocity: 13.082 km/s<br />(47,094 km/h)
         rotation_period: 78.255 d
         axial_tilt: 9.22°
         albedo: 0.30
-        temperature: 616 K<br />(343 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 9643 Tanashad V i
         type: Icy
         formationType: Captured
@@ -536,14 +536,14 @@ planets:
         radius: 8,435.1 km<br/>(1.324 Yrths)
         surface_area: 8.941 × 10<sup>08</sup> km<sup>2</sup><br/>(1.753 Yrths)
         volume: 2.514 × 10<sup>12</sup> km<sup>3</sup><br/>(2.321 Yrths)
-        mass: 3.123 × 10<sup>24</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 3.123 × 10<sup>24</sup> kg<br />(0.523 Yrths)
         density: 1.242 g/cm<sup>3</sup>
         surface_gravity: 2.925 m/s<sup>2</sup><br />(0.298 g<sub>0</sub>)
         escape_velocity: 7.030 km/s<br />(25,307 km/h)
         rotation_period: 78.659 d
         axial_tilt: 24.91°
         albedo: 0.30
-        temperature: 588 K<br />(314 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 9643 Tanashad V j
         type: Ice/rock hybrid
         formationType: Captured
@@ -556,14 +556,14 @@ planets:
         radius: 15,714.8 km<br/>(2.467 Yrths)
         surface_area: 3.103 × 10<sup>09</sup> km<sup>2</sup><br/>(6.084 Yrths)
         volume: 1.626 × 10<sup>13</sup> km<sup>3</sup><br/>(15.007 Yrths)
-        mass: 4.021 × 10<sup>25</sup> kg<br />(16.94980653920991 Yrths)
+        mass: 4.021 × 10<sup>25</sup> kg<br />(6.733 Yrths)
         density: 2.473 g/cm<sup>3</sup>
         surface_gravity: 10.852 m/s<sup>2</sup><br />(1.107 g<sub>0</sub>)
         escape_velocity: 18.481 km/s<br />(66,532 km/h)
         rotation_period: 38.611 d
         axial_tilt: 17.52°
         albedo: 0.30
-        temperature: 560 K<br />(287 °C)
+        temperature: 103 K<br />(-170 °C)
   - name: 9643 Tanashad VI
     type: Gas giant
     aphelion: 1,644,405,877 km<br />10.992 AU
@@ -575,7 +575,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.359 g/cm<sup>3</sup>
     surface_gravity: 31873.846 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -596,14 +596,14 @@ planets:
         radius: 825.2 km<br/>(0.130 Yrths)
         surface_area: 8.557 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.354 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.436 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.436 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.885 g/cm<sup>3</sup>
         surface_gravity: 0.434 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 0.847 km/s<br />(3,050 km/h)
         rotation_period: 58.414 d
         axial_tilt: 30.14°
         albedo: 0.30
-        temperature: 1452 K<br />(1179 °C)
+        temperature: 78 K<br />(-196 °C)
       - name: 9643 Tanashad VI b
         type: Rocky
         formationType: Accreted
@@ -616,14 +616,14 @@ planets:
         radius: 991.2 km<br/>(0.156 Yrths)
         surface_area: 1.235 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 4.079 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.118 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.118 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.741 g/cm<sup>3</sup>
         surface_gravity: 0.759 m/s<sup>2</sup><br />(0.077 g<sub>0</sub>)
         escape_velocity: 1.227 km/s<br />(4,418 km/h)
         rotation_period: 44.887 d
         axial_tilt: 17.96°
         albedo: 0.30
-        temperature: 1384 K<br />(1111 °C)
+        temperature: 78 K<br />(-196 °C)
       - name: 9643 Tanashad VI c
         type: Icy
         formationType: Impact formed
@@ -636,14 +636,14 @@ planets:
         radius: 1,164.6 km<br/>(0.183 Yrths)
         surface_area: 1.704 × 10<sup>07</sup> km<sup>2</sup><br/>(0.033 Yrths)
         volume: 6.617 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 7.801 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.801 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.179 g/cm<sup>3</sup>
         surface_gravity: 0.383 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.946 km/s<br />(3,404 km/h)
         rotation_period: 49.796 d
         axial_tilt: 14.45°
         albedo: 0.30
-        temperature: 1144 K<br />(871 °C)
+        temperature: 78 K<br />(-196 °C)
       - name: 9643 Tanashad VI d
         type: Icy
         formationType: Accreted
@@ -656,14 +656,14 @@ planets:
         radius: 920.7 km<br/>(0.145 Yrths)
         surface_area: 1.065 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.270 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.877 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.877 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.186 g/cm<sup>3</sup>
         surface_gravity: 0.305 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.750 km/s<br />(2,699 km/h)
         rotation_period: 45.947 d
         axial_tilt: 23.08°
         albedo: 0.30
-        temperature: 992 K<br />(718 °C)
+        temperature: 78 K<br />(-196 °C)
       - name: 9643 Tanashad VI e
         type: Dwarf planet
         formationType: Accreted
@@ -676,14 +676,14 @@ planets:
         radius: 670.3 km<br/>(0.105 Yrths)
         surface_area: 5.646 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.262 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.594 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.594 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.056 g/cm<sup>3</sup>
         surface_gravity: 0.385 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.719 km/s<br />(2,588 km/h)
         rotation_period: 66.863 d
         axial_tilt: 28.05°
         albedo: 0.30
-        temperature: 946 K<br />(672 °C)
+        temperature: 78 K<br />(-196 °C)
       - name: 9643 Tanashad VI f
         type: Asteroid
         formationType: Captured
@@ -696,14 +696,14 @@ planets:
         radius: 719.7 km<br/>(0.113 Yrths)
         surface_area: 6.509 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.561 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.290 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.290 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.467 g/cm<sup>3</sup>
         surface_gravity: 0.295 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.652 km/s<br />(2,346 km/h)
         rotation_period: 69.651 d
         axial_tilt: 24.37°
         albedo: 0.30
-        temperature: 781 K<br />(508 °C)
+        temperature: 78 K<br />(-196 °C)
       - name: 9643 Tanashad VI g
         type: Icy
         formationType: Impact formed
@@ -716,14 +716,14 @@ planets:
         radius: 715.6 km<br/>(0.112 Yrths)
         surface_area: 6.435 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.535 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.236 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.236 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.456 g/cm<sup>3</sup>
         surface_gravity: 0.291 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.646 km/s<br />(2,325 km/h)
         rotation_period: 53.955 d
         axial_tilt: 20.90°
         albedo: 0.30
-        temperature: 226 K<br />(-47 °C)
+        temperature: 78 K<br />(-196 °C)
       - name: 9643 Tanashad VI h
         type: Asteroid
         formationType: Captured
@@ -736,14 +736,14 @@ planets:
         radius: 658.2 km<br/>(0.103 Yrths)
         surface_area: 5.445 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.195 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.727 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.727 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.283 g/cm<sup>3</sup>
         surface_gravity: 0.420 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.744 km/s<br />(2,677 km/h)
         rotation_period: 36.943 d
         axial_tilt: 47.75°
         albedo: 0.30
-        temperature: 206 K<br />(-67 °C)
+        temperature: 78 K<br />(-196 °C)
       - name: 9643 Tanashad VI i
         type: Dwarf planet
         formationType: Accreted
@@ -756,14 +756,14 @@ planets:
         radius: 610.6 km<br/>(0.096 Yrths)
         surface_area: 4.686 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.537 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.515 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.515 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.637 g/cm<sup>3</sup>
         surface_gravity: 0.450 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.742 km/s<br />(2,669 km/h)
         rotation_period: 38.882 d
         axial_tilt: 45.31°
         albedo: 0.30
-        temperature: 196 K<br />(-77 °C)
+        temperature: 78 K<br />(-196 °C)
       - name: 9643 Tanashad VI j
         type: Icy
         formationType: Impact formed
@@ -776,14 +776,14 @@ planets:
         radius: 937.4 km<br/>(0.147 Yrths)
         surface_area: 1.104 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.451 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.224 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.224 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.934 g/cm<sup>3</sup>
         surface_gravity: 0.245 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.678 km/s<br />(2,439 km/h)
         rotation_period: 67.917 d
         axial_tilt: 21.88°
         albedo: 0.30
-        temperature: 187 K<br />(-86 °C)
+        temperature: 78 K<br />(-196 °C)
   - name: 9643 Tanashad VII
     type: Gas giant
     aphelion: 2,788,850,340 km<br />18.642 AU
@@ -795,14 +795,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.444 g/cm<sup>3</sup>
     surface_gravity: 31873.847 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 172 K<br />(-102 °C)
+    temperature: 160 K<br />(-113 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -818,14 +818,14 @@ planets:
         radius: 542.4 km<br/>(0.085 Yrths)
         surface_area: 3.698 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.686 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.667 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.667 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.493 g/cm<sup>3</sup>
         surface_gravity: 0.378 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.640 km/s<br />(2,306 km/h)
         rotation_period: 42.618 d
         axial_tilt: 17.49°
         albedo: 0.30
-        temperature: 861 K<br />(588 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -838,14 +838,14 @@ planets:
         radius: 808.5 km<br/>(0.127 Yrths)
         surface_area: 8.213 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.213 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.151 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.151 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.327 g/cm<sup>3</sup>
         surface_gravity: 0.525 m/s<sup>2</sup><br />(0.054 g<sub>0</sub>)
         escape_velocity: 0.922 km/s<br />(3,320 km/h)
         rotation_period: 45.631 d
         axial_tilt: 19.32°
         albedo: 0.30
-        temperature: 561 K<br />(288 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII c
         type: Icy
         formationType: Impact formed
@@ -858,14 +858,14 @@ planets:
         radius: 719.9 km<br/>(0.113 Yrths)
         surface_area: 6.513 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.563 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.460 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.460 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.934 g/cm<sup>3</sup>
         surface_gravity: 0.188 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.520 km/s<br />(1,873 km/h)
         rotation_period: 79.733 d
         axial_tilt: 20.92°
         albedo: 0.30
-        temperature: 510 K<br />(237 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII d
         type: Icy
         formationType: Accreted
@@ -878,14 +878,14 @@ planets:
         radius: 640.2 km<br/>(0.100 Yrths)
         surface_area: 5.150 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.099 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.246 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.246 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.134 g/cm<sup>3</sup>
         surface_gravity: 0.203 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.510 km/s<br />(1,835 km/h)
         rotation_period: 54.274 d
         axial_tilt: 17.94°
         albedo: 0.30
-        temperature: 442 K<br />(169 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII e
         type: Asteroid
         formationType: Captured
@@ -898,14 +898,14 @@ planets:
         radius: 614.9 km<br/>(0.097 Yrths)
         surface_area: 4.752 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.741 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.197 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.197 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.255 g/cm<sup>3</sup>
         surface_gravity: 0.387 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.691 km/s<br />(2,486 km/h)
         rotation_period: 41.995 d
         axial_tilt: 36.96°
         albedo: 0.30
-        temperature: 317 K<br />(43 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -918,14 +918,14 @@ planets:
         radius: 894.5 km<br/>(0.140 Yrths)
         surface_area: 1.005 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 2.998 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.068 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.068 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.024 g/cm<sup>3</sup>
         surface_gravity: 0.506 m/s<sup>2</sup><br />(0.052 g<sub>0</sub>)
         escape_velocity: 0.952 km/s<br />(3,426 km/h)
         rotation_period: 37.857 d
         axial_tilt: 11.25°
         albedo: 0.30
-        temperature: 274 K<br />(1 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII g
         type: Dwarf planet
         formationType: Accreted
@@ -938,14 +938,14 @@ planets:
         radius: 597.8 km<br/>(0.094 Yrths)
         surface_area: 4.491 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.951 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.724 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.724 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.926 g/cm<sup>3</sup>
         surface_gravity: 0.321 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.620 km/s<br />(2,233 km/h)
         rotation_period: 61.940 d
         axial_tilt: 22.82°
         albedo: 0.30
-        temperature: 262 K<br />(-12 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII h
         type: Icy
         formationType: Accreted
@@ -958,14 +958,14 @@ planets:
         radius: 933.5 km<br/>(0.147 Yrths)
         surface_area: 1.095 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.407 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.844 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.844 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.128 g/cm<sup>3</sup>
         surface_gravity: 0.294 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.741 km/s<br />(2,669 km/h)
         rotation_period: 53.283 d
         axial_tilt: 21.79°
         albedo: 0.30
-        temperature: 216 K<br />(-57 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII i
         type: Icy
         formationType: Impact formed
@@ -978,14 +978,14 @@ planets:
         radius: 882.3 km<br/>(0.138 Yrths)
         surface_area: 9.781 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.877 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.582 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.582 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.245 g/cm<sup>3</sup>
         surface_gravity: 0.307 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.736 km/s<br />(2,650 km/h)
         rotation_period: 59.253 d
         axial_tilt: 20.27°
         albedo: 0.30
-        temperature: 179 K<br />(-94 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -998,14 +998,14 @@ planets:
         radius: 659.6 km<br/>(0.104 Yrths)
         surface_area: 5.467 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.202 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.023 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.023 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.684 g/cm<sup>3</sup>
         surface_gravity: 0.310 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.640 km/s<br />(2,304 km/h)
         rotation_period: 43.904 d
         axial_tilt: 20.63°
         albedo: 0.30
-        temperature: 148 K<br />(-125 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1018,14 +1018,14 @@ planets:
         radius: 567.0 km<br/>(0.089 Yrths)
         surface_area: 4.039 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.634 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.666 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.666 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.182 g/cm<sup>3</sup>
         surface_gravity: 0.345 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.626 km/s<br />(2,254 km/h)
         rotation_period: 44.181 d
         axial_tilt: 30.31°
         albedo: 0.30
-        temperature: 92 K<br />(-181 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 9643 Tanashad VII l
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1038,14 +1038,14 @@ planets:
         radius: 558.7 km<br/>(0.088 Yrths)
         surface_area: 3.923 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.306 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.479 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.479 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.024 g/cm<sup>3</sup>
         surface_gravity: 0.316 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.594 km/s<br />(2,140 km/h)
         rotation_period: 59.609 d
         axial_tilt: 19.49°
         albedo: 0.30
-        temperature: 76 K<br />(-197 °C)
+        temperature: 58 K<br />(-215 °C)
   - name: 9643 Tanashad VIII
     type: Ice giant
     aphelion: 5,351,354,646 km<br />35.771 AU
@@ -1057,14 +1057,14 @@ planets:
     radius: 17,347.4 km<br/>(2.723 Yrths)
     surface_area: 3.782 × 10<sup>09</sup> km<sup>2</sup><br/>(7.414 Yrths)
     volume: 2.187 × 10<sup>13</sup> km<sup>3</sup><br/>(20.188 Yrths)
-    mass: 3.010 × 10<sup>25</sup> kg<br />(5.03949153462904 Yrths)
+    mass: 3.010 × 10<sup>25</sup> kg<br />(5.04 Yrths)
     density: 1.376 g/cm<sup>3</sup>
     surface_gravity: 6.666 m/s<sup>2</sup><br />(0.680 g<sub>0</sub>)
     escape_velocity: 15.218 km/s<br />(54,784 km/h)
     rotation_period: 0.405 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 82 K<br />(-191 °C)
+    temperature: 75 K<br />(-199 °C)
     composition:
       - 82.4366% hydrogen
       - 16.3534% helium
@@ -1082,14 +1082,14 @@ planets:
         radius: 9,547.1 km<br/>(1.499 Yrths)
         surface_area: 1.145 × 10<sup>09</sup> km<sup>2</sup><br/>(2.246 Yrths)
         volume: 3.645 × 10<sup>12</sup> km<sup>3</sup><br/>(3.365 Yrths)
-        mass: 9.001 × 10<sup>24</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 9.001 × 10<sup>24</sup> kg<br />(1.507 Yrths)
         density: 2.469 g/cm<sup>3</sup>
         surface_gravity: 6.582 m/s<sup>2</sup><br />(0.671 g<sub>0</sub>)
         escape_velocity: 11.218 km/s<br />(40,385 km/h)
         rotation_period: 34.730 d
         axial_tilt: 39.14°
         albedo: 0.30
-        temperature: 471 K<br />(198 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII b
         type: Icy
         formationType: Accreted
@@ -1102,14 +1102,14 @@ planets:
         radius: 10,269.2 km<br/>(1.612 Yrths)
         surface_area: 1.325 × 10<sup>09</sup> km<sup>2</sup><br/>(2.598 Yrths)
         volume: 4.536 × 10<sup>12</sup> km<sup>3</sup><br/>(4.188 Yrths)
-        mass: 5.471 × 10<sup>24</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 5.471 × 10<sup>24</sup> kg<br />(0.916 Yrths)
         density: 1.206 g/cm<sup>3</sup>
         surface_gravity: 3.458 m/s<sup>2</sup><br />(0.353 g<sub>0</sub>)
         escape_velocity: 8.433 km/s<br />(30,359 km/h)
         rotation_period: 83.466 d
         axial_tilt: 23.52°
         albedo: 0.30
-        temperature: 428 K<br />(155 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1122,14 +1122,14 @@ planets:
         radius: 11,195.1 km<br/>(1.757 Yrths)
         surface_area: 1.575 × 10<sup>09</sup> km<sup>2</sup><br/>(3.088 Yrths)
         volume: 5.877 × 10<sup>12</sup> km<sup>3</sup><br/>(5.426 Yrths)
-        mass: 1.096 × 10<sup>25</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 1.096 × 10<sup>25</sup> kg<br />(1.836 Yrths)
         density: 1.865 g/cm<sup>3</sup>
         surface_gravity: 5.830 m/s<sup>2</sup><br />(0.594 g<sub>0</sub>)
         escape_velocity: 11.433 km/s<br />(41,158 km/h)
         rotation_period: 58.435 d
         axial_tilt: 14.34°
         albedo: 0.30
-        temperature: 408 K<br />(135 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -1142,14 +1142,14 @@ planets:
         radius: 8,242.7 km<br/>(1.294 Yrths)
         surface_area: 8.538 × 10<sup>08</sup> km<sup>2</sup><br/>(1.674 Yrths)
         volume: 2.346 × 10<sup>12</sup> km<sup>3</sup><br/>(2.166 Yrths)
-        mass: 5.198 × 10<sup>24</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 5.198 × 10<sup>24</sup> kg<br />(0.870 Yrths)
         density: 2.216 g/cm<sup>3</sup>
         surface_gravity: 5.099 m/s<sup>2</sup><br />(0.520 g<sub>0</sub>)
         escape_velocity: 9.175 km/s<br />(33,028 km/h)
         rotation_period: 56.036 d
         axial_tilt: 12.67°
         albedo: 0.30
-        temperature: 389 K<br />(116 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1162,14 +1162,14 @@ planets:
         radius: 6,670.5 km<br/>(1.047 Yrths)
         surface_area: 5.592 × 10<sup>08</sup> km<sup>2</sup><br/>(1.096 Yrths)
         volume: 1.243 × 10<sup>12</sup> km<sup>3</sup><br/>(1.148 Yrths)
-        mass: 3.052 × 10<sup>24</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 3.052 × 10<sup>24</sup> kg<br />(0.511 Yrths)
         density: 2.455 g/cm<sup>3</sup>
         surface_gravity: 4.572 m/s<sup>2</sup><br />(0.466 g<sub>0</sub>)
         escape_velocity: 7.815 km/s<br />(28,135 km/h)
         rotation_period: 37.950 d
         axial_tilt: 14.64°
         albedo: 0.30
-        temperature: 338 K<br />(64 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII f
         type: Icy
         formationType: Impact formed
@@ -1182,14 +1182,14 @@ planets:
         radius: 15,881.9 km<br/>(2.493 Yrths)
         surface_area: 3.170 × 10<sup>09</sup> km<sup>2</sup><br/>(6.214 Yrths)
         volume: 1.678 × 10<sup>13</sup> km<sup>3</sup><br/>(15.491 Yrths)
-        mass: 2.102 × 10<sup>25</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 2.102 × 10<sup>25</sup> kg<br />(3.520 Yrths)
         density: 1.253 g/cm<sup>3</sup>
         surface_gravity: 5.555 m/s<sup>2</sup><br />(0.566 g<sub>0</sub>)
         escape_velocity: 13.292 km/s<br />(47,852 km/h)
         rotation_period: 70.040 d
         axial_tilt: 20.19°
         albedo: 0.30
-        temperature: 322 K<br />(49 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII g
         type: Ice/rock hybrid
         formationType: Captured
@@ -1202,14 +1202,14 @@ planets:
         radius: 11,001.4 km<br/>(1.727 Yrths)
         surface_area: 1.521 × 10<sup>09</sup> km<sup>2</sup><br/>(2.982 Yrths)
         volume: 5.577 × 10<sup>12</sup> km<sup>3</sup><br/>(5.149 Yrths)
-        mass: 1.013 × 10<sup>25</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 1.013 × 10<sup>25</sup> kg<br />(1.697 Yrths)
         density: 1.817 g/cm<sup>3</sup>
         surface_gravity: 5.581 m/s<sup>2</sup><br />(0.569 g<sub>0</sub>)
         escape_velocity: 11.088 km/s<br />(39,919 km/h)
         rotation_period: 46.954 d
         axial_tilt: 14.25°
         albedo: 0.30
-        temperature: 307 K<br />(34 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII h
         type: Ice/rock hybrid
         formationType: Captured
@@ -1222,14 +1222,14 @@ planets:
         radius: 7,435.1 km<br/>(1.167 Yrths)
         surface_area: 6.947 × 10<sup>08</sup> km<sup>2</sup><br/>(1.362 Yrths)
         volume: 1.722 × 10<sup>12</sup> km<sup>3</sup><br/>(1.589 Yrths)
-        mass: 3.899 × 10<sup>24</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 3.899 × 10<sup>24</sup> kg<br />(0.653 Yrths)
         density: 2.264 g/cm<sup>3</sup>
         surface_gravity: 4.700 m/s<sup>2</sup><br />(0.479 g<sub>0</sub>)
         escape_velocity: 8.366 km/s<br />(30,118 km/h)
         rotation_period: 45.047 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 293 K<br />(19 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII i
         type: Icy
         formationType: Accreted
@@ -1242,14 +1242,14 @@ planets:
         radius: 9,167.0 km<br/>(1.439 Yrths)
         surface_area: 1.056 × 10<sup>09</sup> km<sup>2</sup><br/>(2.070 Yrths)
         volume: 3.227 × 10<sup>12</sup> km<sup>3</sup><br/>(2.979 Yrths)
-        mass: 2.476 × 10<sup>24</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 2.476 × 10<sup>24</sup> kg<br />(0.415 Yrths)
         density: 0.767 g/cm<sup>3</sup>
         surface_gravity: 1.964 m/s<sup>2</sup><br />(0.200 g<sub>0</sub>)
         escape_velocity: 6.004 km/s<br />(21,615 km/h)
         rotation_period: 82.854 d
         axial_tilt: 22.09°
         albedo: 0.30
-        temperature: 279 K<br />(6 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII j
         type: Icy
         formationType: Captured
@@ -1262,14 +1262,14 @@ planets:
         radius: 10,662.7 km<br/>(1.674 Yrths)
         surface_area: 1.429 × 10<sup>09</sup> km<sup>2</sup><br/>(2.801 Yrths)
         volume: 5.078 × 10<sup>12</sup> km<sup>3</sup><br/>(4.688 Yrths)
-        mass: 6.265 × 10<sup>24</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 6.265 × 10<sup>24</sup> kg<br />(1.049 Yrths)
         density: 1.234 g/cm<sup>3</sup>
         surface_gravity: 3.673 m/s<sup>2</sup><br />(0.375 g<sub>0</sub>)
         escape_velocity: 8.856 km/s<br />(31,882 km/h)
         rotation_period: 79.508 d
         axial_tilt: 14.97°
         albedo: 0.30
-        temperature: 266 K<br />(-7 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 9643 Tanashad VIII k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1282,14 +1282,14 @@ planets:
         radius: 10,129.7 km<br/>(1.590 Yrths)
         surface_area: 1.289 × 10<sup>09</sup> km<sup>2</sup><br/>(2.528 Yrths)
         volume: 4.354 × 10<sup>12</sup> km<sup>3</sup><br/>(4.019 Yrths)
-        mass: 8.398 × 10<sup>24</sup> kg<br />(5.03949153462904 Yrths)
+        mass: 8.398 × 10<sup>24</sup> kg<br />(1.406 Yrths)
         density: 1.929 g/cm<sup>3</sup>
         surface_gravity: 5.455 m/s<sup>2</sup><br />(0.556 g<sub>0</sub>)
         escape_velocity: 10.520 km/s<br />(37,872 km/h)
         rotation_period: 44.431 d
         axial_tilt: 24.31°
         albedo: 0.30
-        temperature: 254 K<br />(-20 °C)
+        temperature: 44 K<br />(-229 °C)
   - name: 9643 Tanashad IX
     type: Large terrestrial
     aphelion: 9,291,567,228 km<br />62.109 AU
@@ -1301,14 +1301,14 @@ planets:
     radius: 10,064.6 km<br/>(1.580 Yrths)
     surface_area: 1.273 × 10<sup>09</sup> km<sup>2</sup><br/>(2.496 Yrths)
     volume: 4.271 × 10<sup>12</sup> km<sup>3</sup><br/>(3.943 Yrths)
-    mass: 2.565 × 10<sup>25</sup> kg<br />(4.294524122018913 Yrths)
+    mass: 2.565 × 10<sup>25</sup> kg<br />(4.29 Yrths)
     density: 6.006 g/cm<sup>3</sup>
     surface_gravity: 16.875 m/s<sup>2</sup><br />(1.721 g<sub>0</sub>)
     escape_velocity: 18.443 km/s<br />(66,395 km/h)
     rotation_period: 0.590 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 46 K<br />(-228 °C)
+    temperature: 53 K<br />(-220 °C)
     surface_pressure: 533 kPa<br />(5 atm)
     composition:
       - 81.0789% methane
@@ -1327,14 +1327,14 @@ planets:
         radius: 6,492.1 km<br/>(1.019 Yrths)
         surface_area: 5.296 × 10<sup>08</sup> km<sup>2</sup><br/>(1.038 Yrths)
         volume: 1.146 × 10<sup>12</sup> km<sup>3</sup><br/>(1.058 Yrths)
-        mass: 2.097 × 10<sup>24</sup> kg<br />(4.294524122018913 Yrths)
+        mass: 2.097 × 10<sup>24</sup> kg<br />(0.351 Yrths)
         density: 1.830 g/cm<sup>3</sup>
         surface_gravity: 3.316 m/s<sup>2</sup><br />(0.338 g<sub>0</sub>)
         escape_velocity: 6.566 km/s<br />(23,639 km/h)
         rotation_period: 40.487 d
         axial_tilt: 24.86°
         albedo: 0.30
-        temperature: 379 K<br />(106 °C)
+        temperature: 33 K<br />(-240 °C)
       - name: 9643 Tanashad IX b
         type: Icy
         formationType: Captured
@@ -1347,14 +1347,14 @@ planets:
         radius: 11,296.0 km<br/>(1.773 Yrths)
         surface_area: 1.603 × 10<sup>09</sup> km<sup>2</sup><br/>(3.144 Yrths)
         volume: 6.038 × 10<sup>12</sup> km<sup>3</sup><br/>(5.574 Yrths)
-        mass: 8.575 × 10<sup>24</sup> kg<br />(4.294524122018913 Yrths)
+        mass: 8.575 × 10<sup>24</sup> kg<br />(1.436 Yrths)
         density: 1.420 g/cm<sup>3</sup>
         surface_gravity: 4.479 m/s<sup>2</sup><br />(0.457 g<sub>0</sub>)
         escape_velocity: 10.066 km/s<br />(36,239 km/h)
         rotation_period: 61.221 d
         axial_tilt: 24.14°
         albedo: 0.30
-        temperature: 361 K<br />(88 °C)
+        temperature: 33 K<br />(-240 °C)
       - name: 9643 Tanashad IX c
         type: Rocky
         formationType: Impact formed
@@ -1367,14 +1367,14 @@ planets:
         radius: 6,042.1 km<br/>(0.948 Yrths)
         surface_area: 4.588 × 10<sup>08</sup> km<sup>2</sup><br/>(0.899 Yrths)
         volume: 9.240 × 10<sup>11</sup> km<sup>3</sup><br/>(0.853 Yrths)
-        mass: 2.759 × 10<sup>24</sup> kg<br />(4.294524122018913 Yrths)
+        mass: 2.759 × 10<sup>24</sup> kg<br />(0.462 Yrths)
         density: 2.986 g/cm<sup>3</sup>
         surface_gravity: 5.037 m/s<sup>2</sup><br />(0.514 g<sub>0</sub>)
         escape_velocity: 7.807 km/s<br />(28,105 km/h)
         rotation_period: 42.223 d
         axial_tilt: 10.10°
         albedo: 0.30
-        temperature: 345 K<br />(72 °C)
+        temperature: 33 K<br />(-240 °C)
   - name: 9643 Tanashad X
     type: Ice giant
     aphelion: 15,326,415,131 km<br />102.449 AU
@@ -1386,14 +1386,14 @@ planets:
     radius: 4,587.2 km<br/>(0.720 Yrths)
     surface_area: 2.644 × 10<sup>08</sup> km<sup>2</sup><br/>(0.518 Yrths)
     volume: 4.043 × 10<sup>11</sup> km<sup>3</sup><br/>(0.373 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.477 g/cm<sup>3</sup>
     surface_gravity: 1.892 m/s<sup>2</sup><br />(0.193 g<sub>0</sub>)
     escape_velocity: 4.169 km/s<br />(15,007 km/h)
     rotation_period: 0.712 d
     axial_tilt: 90.00°
     albedo: 0.50
-    temperature: 47 K<br />(-226 °C)
+    temperature: 43 K<br />(-231 °C)
     composition:
       - 84.0259% hydrogen
       - 15.5670% helium
@@ -1411,14 +1411,14 @@ planets:
         radius: 536.9 km<br/>(0.084 Yrths)
         surface_area: 3.622 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.481 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 5.325 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.325 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 0.822 g/cm<sup>3</sup>
         surface_gravity: 0.123 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.364 km/s<br />(1,310 km/h)
         rotation_period: 70.960 d
         axial_tilt: 19.39°
         albedo: 0.30
-        temperature: 513 K<br />(240 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X b
         type: Icy
         formationType: Accreted
@@ -1431,14 +1431,14 @@ planets:
         radius: 694.1 km<br/>(0.109 Yrths)
         surface_area: 6.054 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.401 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.819 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.819 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.299 g/cm<sup>3</sup>
         surface_gravity: 0.252 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.591 km/s<br />(2,129 km/h)
         rotation_period: 79.532 d
         axial_tilt: 13.25°
         albedo: 0.30
-        temperature: 489 K<br />(216 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1451,14 +1451,14 @@ planets:
         radius: 703.1 km<br/>(0.110 Yrths)
         surface_area: 6.213 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.456 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.330 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.330 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.314 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.665 km/s<br />(2,394 km/h)
         rotation_period: 56.617 d
         axial_tilt: 27.63°
         albedo: 0.30
-        temperature: 466 K<br />(193 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X d
         type: Icy
         formationType: Accreted
@@ -1471,14 +1471,14 @@ planets:
         radius: 530.9 km<br/>(0.083 Yrths)
         surface_area: 3.541 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.266 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 8.418 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 8.418 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.343 g/cm<sup>3</sup>
         surface_gravity: 0.199 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.460 km/s<br />(1,656 km/h)
         rotation_period: 59.769 d
         axial_tilt: 15.68°
         albedo: 0.30
-        temperature: 445 K<br />(171 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1491,14 +1491,14 @@ planets:
         radius: 535.7 km<br/>(0.084 Yrths)
         surface_area: 3.606 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.438 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.266 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.266 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.966 g/cm<sup>3</sup>
         surface_gravity: 0.294 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.562 km/s<br />(2,022 km/h)
         rotation_period: 49.799 d
         axial_tilt: 18.87°
         albedo: 0.30
-        temperature: 424 K<br />(151 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1511,14 +1511,14 @@ planets:
         radius: 368.0 km<br/>(0.058 Yrths)
         surface_area: 1.702 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 2.088 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.312 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.312 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.065 g/cm<sup>3</sup>
         surface_gravity: 0.212 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.395 km/s<br />(1,424 km/h)
         rotation_period: 43.035 d
         axial_tilt: 26.65°
         albedo: 0.30
-        temperature: 404 K<br />(131 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X g
         type: Dwarf planet
         formationType: Impact formed
@@ -1531,14 +1531,14 @@ planets:
         radius: 492.1 km<br/>(0.077 Yrths)
         surface_area: 3.043 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.991 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 8.488 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 8.488 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.701 g/cm<sup>3</sup>
         surface_gravity: 0.234 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.480 km/s<br />(1,728 km/h)
         rotation_period: 63.402 d
         axial_tilt: 44.29°
         albedo: 0.30
-        temperature: 385 K<br />(112 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1551,14 +1551,14 @@ planets:
         radius: 415.3 km<br/>(0.065 Yrths)
         surface_area: 2.167 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 3.000 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.858 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.858 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.286 g/cm<sup>3</sup>
         surface_gravity: 0.265 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.470 km/s<br />(1,690 km/h)
         rotation_period: 45.346 d
         axial_tilt: 17.43°
         albedo: 0.30
-        temperature: 367 K<br />(94 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X i
         type: Icy
         formationType: Accreted
@@ -1571,14 +1571,14 @@ planets:
         radius: 579.6 km<br/>(0.091 Yrths)
         surface_area: 4.222 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.157 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.231 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.231 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.509 g/cm<sup>3</sup>
         surface_gravity: 0.244 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.532 km/s<br />(1,917 km/h)
         rotation_period: 51.270 d
         axial_tilt: 18.30°
         albedo: 0.30
-        temperature: 350 K<br />(77 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X j
         type: Dwarf planet
         formationType: Impact formed
@@ -1591,14 +1591,14 @@ planets:
         radius: 403.9 km<br/>(0.063 Yrths)
         surface_area: 2.050 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.761 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.189 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.189 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.242 g/cm<sup>3</sup>
         surface_gravity: 0.253 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.452 km/s<br />(1,628 km/h)
         rotation_period: 57.844 d
         axial_tilt: 31.36°
         albedo: 0.30
-        temperature: 318 K<br />(45 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X k
         type: Icy
         formationType: Accreted
@@ -1611,14 +1611,14 @@ planets:
         radius: 712.4 km<br/>(0.112 Yrths)
         surface_area: 6.377 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.514 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.166 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.166 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.430 g/cm<sup>3</sup>
         surface_gravity: 0.284 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.637 km/s<br />(2,294 km/h)
         rotation_period: 42.126 d
         axial_tilt: 28.83°
         albedo: 0.30
-        temperature: 304 K<br />(31 °C)
+        temperature: 25 K<br />(-248 °C)
       - name: 9643 Tanashad X l
         type: Icy
         formationType: Impact formed
@@ -1631,12 +1631,12 @@ planets:
         radius: 1,035.1 km<br/>(0.162 Yrths)
         surface_area: 1.347 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.646 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.733 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.733 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.019 g/cm<sup>3</sup>
         surface_gravity: 0.294 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.781 km/s<br />(2,812 km/h)
         rotation_period: 55.055 d
         axial_tilt: 28.47°
         albedo: 0.30
-        temperature: 290 K<br />(16 °C)
+        temperature: 25 K<br />(-248 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3822 Geardiad is a star in the constellation Geard
+      3822 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 572.29 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 1.83
@@ -31,14 +31,14 @@ planets:
     radius: 3,824.9 km<br/>(0.600 Yrths)
     surface_area: 1.838 × 10<sup>08</sup> km<sup>2</sup><br/>(0.360 Yrths)
     volume: 2.344 × 10<sup>11</sup> km<sup>3</sup><br/>(0.216 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.548 g/cm<sup>3</sup>
     surface_gravity: 2.721 m/s<sup>2</sup><br />(0.277 g<sub>0</sub>)
     escape_velocity: 4.565 km/s<br />(16,435 km/h)
     rotation_period: 1.107 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 525 K<br />(252 °C)
+    temperature: 464 K<br />(191 °C)
     composition:
       - 98.4051% hydrogen
       - 1.0951% helium
@@ -58,14 +58,14 @@ planets:
         radius: 623.0 km<br/>(0.098 Yrths)
         surface_area: 4.878 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.013 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.553 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.553 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.520 g/cm<sup>3</sup>
         surface_gravity: 0.438 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 0.740 km/s<br />(2,663 km/h)
         rotation_period: 36.858 d
         axial_tilt: 16.88°
         albedo: 0.30
-        temperature: 8687 K<br />(8414 °C)
+        temperature: 395 K<br />(122 °C)
       - name: 3822 Geardiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 784.0 km<br/>(0.123 Yrths)
         surface_area: 7.724 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 2.018 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.932 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.932 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.948 g/cm<sup>3</sup>
         surface_gravity: 0.426 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.818 km/s<br />(2,946 km/h)
         rotation_period: 43.322 d
         axial_tilt: 9.89°
         albedo: 0.30
-        temperature: 8282 K<br />(8009 °C)
+        temperature: 395 K<br />(122 °C)
       - name: 3822 Geardiad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 705.6 km<br/>(0.111 Yrths)
         surface_area: 6.257 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.472 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.548 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.548 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.731 g/cm<sup>3</sup>
         surface_gravity: 0.341 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.694 km/s<br />(2,500 km/h)
         rotation_period: 48.188 d
         axial_tilt: 30.84°
         albedo: 0.30
-        temperature: 7897 K<br />(7624 °C)
+        temperature: 395 K<br />(122 °C)
       - name: 3822 Geardiad I d
         type: Icy
         formationType: Impact formed
@@ -118,12 +118,12 @@ planets:
         radius: 886.1 km<br/>(0.139 Yrths)
         surface_area: 9.867 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.914 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.552 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.552 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.219 g/cm<sup>3</sup>
         surface_gravity: 0.302 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.732 km/s<br />(2,634 km/h)
         rotation_period: 51.815 d
         axial_tilt: 26.95°
         albedo: 0.30
-        temperature: 7530 K<br />(7256 °C)
+        temperature: 395 K<br />(122 °C)
 ---

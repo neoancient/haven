@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      619 Saithiad is a star in the constellation Saith
+      619 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 398.74 ly
 apparent_magnitude: 11.29
 absolute_magnitude: 5.86

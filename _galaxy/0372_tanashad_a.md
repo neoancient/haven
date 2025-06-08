@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0372 Tanashad A is a star in the constellation Tanas
+      0372 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1558.08 ly
 apparent_magnitude: 5.62
 absolute_magnitude: -2.77

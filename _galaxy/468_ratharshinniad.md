@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      468 Ratharshinniad is a star in the constellation Ratharshin
+      468 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 363.35 ly
 apparent_magnitude: 10.41
 absolute_magnitude: 5.17

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1629 Arniad is a star in the constellation Arni
+      1629 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 504.06 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 4.74

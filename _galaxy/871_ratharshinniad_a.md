@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      871 Ratharshinniad A is a star in the constellation Ratharshin
+      871 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 977.78 ly
 apparent_magnitude: 6.97
 absolute_magnitude: -0.41

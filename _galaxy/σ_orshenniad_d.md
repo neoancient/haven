@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Orshenniad D is a star in the constellation Orshen
+      σ Orshenniad D is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 184.27 ly
 apparent_magnitude: 9.77
 absolute_magnitude: 6.01
@@ -31,14 +31,14 @@ planets:
     radius: 2,738.0 km<br/>(0.430 Yrths)
     surface_area: 9.420 × 10<sup>07</sup> km<sup>2</sup><br/>(0.185 Yrths)
     volume: 8.597 × 10<sup>10</sup> km<sup>3</sup><br/>(0.079 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.946 g/cm<sup>3</sup>
     surface_gravity: 5.310 m/s<sup>2</sup><br />(0.541 g<sub>0</sub>)
     escape_velocity: 5.396 km/s<br />(19,425 km/h)
     rotation_period: 4.015 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 459 K<br />(186 °C)
+    temperature: 838 K<br />(565 °C)
     surface_pressure: 112 kPa<br />(1 atm)
     composition:
       - 56.7248% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 561.5 km<br/>(0.088 Yrths)
         surface_area: 3.962 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.416 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.959 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.959 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.642 g/cm<sup>3</sup>
         surface_gravity: 0.414 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.682 km/s<br />(2,457 km/h)
         rotation_period: 44.467 d
         axial_tilt: 13.87°
         albedo: 0.30
-        temperature: 7713 K<br />(7440 °C)
+        temperature: 338 K<br />(64 °C)
       - name: σ Orshenniad D I b
         type: Rocky
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 239.4 km<br/>(0.038 Yrths)
         surface_area: 7.204 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 5.750 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.820 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.820 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.165 g/cm<sup>3</sup>
         surface_gravity: 0.212 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.319 km/s<br />(1,147 km/h)
         rotation_period: 32.471 d
         axial_tilt: 9.55°
         albedo: 0.30
-        temperature: 7354 K<br />(7081 °C)
+        temperature: 338 K<br />(64 °C)
       - name: σ Orshenniad D I c
         type: Rocky
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 328.7 km<br/>(0.052 Yrths)
         surface_area: 1.357 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.487 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.849 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.849 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.260 g/cm<sup>3</sup>
         surface_gravity: 0.299 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.444 km/s<br />(1,598 km/h)
         rotation_period: 50.684 d
         axial_tilt: 6.50°
         albedo: 0.30
-        temperature: 7012 K<br />(6739 °C)
+        temperature: 338 K<br />(64 °C)
   - name: σ Orshenniad D II
     type: Ice giant
     aphelion: 86,046,478 km<br />0.575 AU
@@ -116,14 +116,14 @@ planets:
     radius: 28,965.4 km<br/>(4.546 Yrths)
     surface_area: 1.054 × 10<sup>10</sup> km<sup>2</sup><br/>(20.670 Yrths)
     volume: 1.018 × 10<sup>14</sup> km<sup>3</sup><br/>(93.976 Yrths)
-    mass: 1.810 × 10<sup>26</sup> kg<br />(30.304712800169327 Yrths)
+    mass: 1.810 × 10<sup>26</sup> kg<br />(30.30 Yrths)
     density: 1.778 g/cm<sup>3</sup>
     surface_gravity: 14.378 m/s<sup>2</sup><br />(1.466 g<sub>0</sub>)
     escape_velocity: 28.880 km/s<br />(103,967 km/h)
     rotation_period: 0.949 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 437 K<br />(164 °C)
+    temperature: 388 K<br />(115 °C)
     composition:
       - 57.5724% hydrogen
       - 42.4276% helium
@@ -140,14 +140,14 @@ planets:
         radius: 26,507.2 km<br/>(4.161 Yrths)
         surface_area: 8.830 × 10<sup>09</sup> km<sup>2</sup><br/>(17.311 Yrths)
         volume: 7.802 × 10<sup>13</sup> km<sup>3</sup><br/>(72.023 Yrths)
-        mass: 1.664 × 10<sup>26</sup> kg<br />(30.304712800169327 Yrths)
+        mass: 1.664 × 10<sup>26</sup> kg<br />(27.857 Yrths)
         density: 2.132 g/cm<sup>3</sup>
         surface_gravity: 15.781 m/s<sup>2</sup><br />(1.609 g<sub>0</sub>)
         escape_velocity: 28.944 km/s<br />(104,200 km/h)
         rotation_period: 53.054 d
         axial_tilt: 12.06°
         albedo: 0.30
-        temperature: 2048 K<br />(1775 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: σ Orshenniad D II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -160,14 +160,14 @@ planets:
         radius: 43,444.0 km<br/>(6.819 Yrths)
         surface_area: 2.372 × 10<sup>10</sup> km<sup>2</sup><br/>(46.499 Yrths)
         volume: 3.435 × 10<sup>14</sup> km<sup>3</sup><br/>(317.079 Yrths)
-        mass: 8.002 × 10<sup>26</sup> kg<br />(30.304712800169327 Yrths)
+        mass: 8.002 × 10<sup>26</sup> kg<br />(133.992 Yrths)
         density: 2.330 g/cm<sup>3</sup>
         surface_gravity: 28.259 m/s<sup>2</sup><br />(2.882 g<sub>0</sub>)
         escape_velocity: 49.585 km/s<br />(178,507 km/h)
         rotation_period: 43.360 d
         axial_tilt: 20.59°
         albedo: 0.30
-        temperature: 1862 K<br />(1589 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: σ Orshenniad D II c
         type: Icy
         formationType: Accreted
@@ -180,14 +180,14 @@ planets:
         radius: 35,263.7 km<br/>(5.535 Yrths)
         surface_area: 1.563 × 10<sup>10</sup> km<sup>2</sup><br/>(30.637 Yrths)
         volume: 1.837 × 10<sup>14</sup> km<sup>3</sup><br/>(169.574 Yrths)
-        mass: 3.490 × 10<sup>26</sup> kg<br />(30.304712800169327 Yrths)
+        mass: 3.490 × 10<sup>26</sup> kg<br />(58.439 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 18.706 m/s<sup>2</sup><br />(1.908 g<sub>0</sub>)
         escape_velocity: 36.347 km/s<br />(130,849 km/h)
         rotation_period: 69.310 d
         axial_tilt: 13.97°
         albedo: 0.30
-        temperature: 1776 K<br />(1502 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: σ Orshenniad D II d
         type: Asteroid
         formationType: Captured
@@ -200,14 +200,14 @@ planets:
         radius: 31,876.9 km<br/>(5.003 Yrths)
         surface_area: 1.277 × 10<sup>10</sup> km<sup>2</sup><br/>(25.034 Yrths)
         volume: 1.357 × 10<sup>14</sup> km<sup>3</sup><br/>(125.259 Yrths)
-        mass: 3.293 × 10<sup>26</sup> kg<br />(30.304712800169327 Yrths)
+        mass: 3.293 × 10<sup>26</sup> kg<br />(55.133 Yrths)
         density: 2.427 g/cm<sup>3</sup>
         surface_gravity: 21.597 m/s<sup>2</sup><br />(2.202 g<sub>0</sub>)
         escape_velocity: 37.132 km/s<br />(133,674 km/h)
         rotation_period: 61.351 d
         axial_tilt: 40.03°
         albedo: 0.30
-        temperature: 1693 K<br />(1420 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: σ Orshenniad D II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -220,14 +220,14 @@ planets:
         radius: 19,163.0 km<br/>(3.008 Yrths)
         surface_area: 4.615 × 10<sup>09</sup> km<sup>2</sup><br/>(9.047 Yrths)
         volume: 2.948 × 10<sup>13</sup> km<sup>3</sup><br/>(27.212 Yrths)
-        mass: 6.952 × 10<sup>25</sup> kg<br />(30.304712800169327 Yrths)
+        mass: 6.952 × 10<sup>25</sup> kg<br />(11.641 Yrths)
         density: 2.359 g/cm<sup>3</sup>
         surface_gravity: 12.619 m/s<sup>2</sup><br />(1.287 g<sub>0</sub>)
         escape_velocity: 22.006 km/s<br />(79,223 km/h)
         rotation_period: 52.594 d
         axial_tilt: 27.04°
         albedo: 0.30
-        temperature: 1614 K<br />(1341 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: σ Orshenniad D II f
         type: Rocky
         formationType: Accreted
@@ -240,14 +240,14 @@ planets:
         radius: 29,727.2 km<br/>(4.666 Yrths)
         surface_area: 1.111 × 10<sup>10</sup> km<sup>2</sup><br/>(21.772 Yrths)
         volume: 1.100 × 10<sup>14</sup> km<sup>3</sup><br/>(101.588 Yrths)
-        mass: 3.294 × 10<sup>26</sup> kg<br />(30.304712800169327 Yrths)
+        mass: 3.294 × 10<sup>26</sup> kg<br />(55.164 Yrths)
         density: 2.994 g/cm<sup>3</sup>
         surface_gravity: 24.848 m/s<sup>2</sup><br />(2.534 g<sub>0</sub>)
         escape_velocity: 38.462 km/s<br />(138,463 km/h)
         rotation_period: 48.859 d
         axial_tilt: 15.60°
         albedo: 0.30
-        temperature: 1539 K<br />(1266 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: σ Orshenniad D II g
         type: Icy
         formationType: Accreted
@@ -260,14 +260,14 @@ planets:
         radius: 34,846.0 km<br/>(5.469 Yrths)
         surface_area: 1.526 × 10<sup>10</sup> km<sup>2</sup><br/>(29.915 Yrths)
         volume: 1.772 × 10<sup>14</sup> km<sup>3</sup><br/>(163.619 Yrths)
-        mass: 2.552 × 10<sup>26</sup> kg<br />(30.304712800169327 Yrths)
+        mass: 2.552 × 10<sup>26</sup> kg<br />(42.728 Yrths)
         density: 1.440 g/cm<sup>3</sup>
         surface_gravity: 14.007 m/s<sup>2</sup><br />(1.428 g<sub>0</sub>)
         escape_velocity: 31.265 km/s<br />(112,554 km/h)
         rotation_period: 52.067 d
         axial_tilt: 9.27°
         albedo: 0.30
-        temperature: 1334 K<br />(1061 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: σ Orshenniad D II h
         type: Icy
         formationType: Accreted
@@ -280,14 +280,14 @@ planets:
         radius: 27,225.1 km<br/>(4.273 Yrths)
         surface_area: 9.314 × 10<sup>09</sup> km<sup>2</sup><br/>(18.261 Yrths)
         volume: 8.453 × 10<sup>13</sup> km<sup>3</sup><br/>(78.035 Yrths)
-        mass: 1.194 × 10<sup>26</sup> kg<br />(30.304712800169327 Yrths)
+        mass: 1.194 × 10<sup>26</sup> kg<br />(19.991 Yrths)
         density: 1.412 g/cm<sup>3</sup>
         surface_gravity: 10.736 m/s<sup>2</sup><br />(1.095 g<sub>0</sub>)
         escape_velocity: 24.194 km/s<br />(87,099 km/h)
         rotation_period: 53.768 d
         axial_tilt: 15.07°
         albedo: 0.30
-        temperature: 1272 K<br />(999 °C)
+        temperature: 264 K<br />(-9 °C)
   - name: σ Orshenniad D III
     type: Terrestrial
     aphelion: 140,398,487 km<br />0.938 AU
@@ -299,14 +299,14 @@ planets:
     radius: 6,502.0 km<br/>(1.021 Yrths)
     surface_area: 5.313 × 10<sup>08</sup> km<sup>2</sup><br/>(1.042 Yrths)
     volume: 1.151 × 10<sup>12</sup> km<sup>3</sup><br/>(1.063 Yrths)
-    mass: 6.539 × 10<sup>24</sup> kg<br />(1.0949795023842455 Yrths)
+    mass: 6.539 × 10<sup>24</sup> kg<br />(1.09 Yrths)
     density: 5.679 g/cm<sup>3</sup>
     surface_gravity: 10.310 m/s<sup>2</sup><br />(1.051 g<sub>0</sub>)
     escape_velocity: 11.587 km/s<br />(41,712 km/h)
     rotation_period: 1.537 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 301 K<br />(27 °C)
+    temperature: 855 K<br />(582 °C)
     surface_pressure: 27 kPa<br />(0 atm)
     composition:
       - 92.4389% carbon dioxide
@@ -324,14 +324,14 @@ planets:
         radius: 2,983.4 km<br/>(0.468 Yrths)
         surface_area: 1.119 × 10<sup>08</sup> km<sup>2</sup><br/>(0.219 Yrths)
         volume: 1.112 × 10<sup>11</sup> km<sup>3</sup><br/>(0.103 Yrths)
-        mass: 3.831 × 10<sup>23</sup> kg<br />(1.0949795023842455 Yrths)
+        mass: 3.831 × 10<sup>23</sup> kg<br />(0.064 Yrths)
         density: 3.444 g/cm<sup>3</sup>
         surface_gravity: 2.869 m/s<sup>2</sup><br />(0.293 g<sub>0</sub>)
         escape_velocity: 4.140 km/s<br />(14,905 km/h)
         rotation_period: 33.319 d
         axial_tilt: 22.53°
         albedo: 0.30
-        temperature: 3640 K<br />(3367 °C)
+        temperature: 207 K<br />(-66 °C)
   - name: σ Orshenniad D IV
     type: Gas giant
     aphelion: 235,109,912 km<br />1.572 AU
@@ -343,7 +343,7 @@ planets:
     radius: 215.3 km<br/>(0.034 Yrths)
     surface_area: 5.824 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.179 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.441 × 10<sup>27</sup> kg<br />(241.3707345108677 Yrths)
+    mass: 1.441 × 10<sup>27</sup> kg<br />(241.37 Yrths)
     density: 34492735.791 g/cm<sup>3</sup>
     surface_gravity: 2073138.854 m/s<sup>2</sup><br />(211401.330 g<sub>0</sub>)
     escape_velocity: 945.414 km/s<br />(3,403,490 km/h)
@@ -364,14 +364,14 @@ planets:
         radius: 146,606.7 km<br/>(23.012 Yrths)
         surface_area: 2.701 × 10<sup>11</sup> km<sup>2</sup><br/>(529.532 Yrths)
         volume: 1.320 × 10<sup>16</sup> km<sup>3</sup><br/>(12185.356 Yrths)
-        mass: 2.181 × 10<sup>28</sup> kg<br />(241.3707345108677 Yrths)
+        mass: 2.181 × 10<sup>28</sup> kg<br />(3652.014 Yrths)
         density: 1.652 g/cm<sup>3</sup>
         surface_gravity: 67.633 m/s<sup>2</sup><br />(6.897 g<sub>0</sub>)
         escape_velocity: 140.918 km/s<br />(507,306 km/h)
         rotation_period: 45.333 d
         axial_tilt: 15.99°
         albedo: 0.30
-        temperature: 667 K<br />(394 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: σ Orshenniad D IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -384,14 +384,14 @@ planets:
         radius: 142,205.4 km<br/>(22.321 Yrths)
         surface_area: 2.541 × 10<sup>11</sup> km<sup>2</sup><br/>(498.215 Yrths)
         volume: 1.205 × 10<sup>16</sup> km<sup>3</sup><br/>(11120.523 Yrths)
-        mass: 2.711 × 10<sup>28</sup> kg<br />(241.3707345108677 Yrths)
+        mass: 2.711 × 10<sup>28</sup> kg<br />(4539.592 Yrths)
         density: 2.251 g/cm<sup>3</sup>
         surface_gravity: 89.355 m/s<sup>2</sup><br />(9.112 g<sub>0</sub>)
         escape_velocity: 159.525 km/s<br />(574,289 km/h)
         rotation_period: 46.496 d
         axial_tilt: 22.75°
         albedo: 0.30
-        temperature: 435 K<br />(162 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: σ Orshenniad D IV c
         type: Dwarf planet
         formationType: Accreted
@@ -404,14 +404,14 @@ planets:
         radius: 132,158.6 km<br/>(20.744 Yrths)
         surface_area: 2.195 × 10<sup>11</sup> km<sup>2</sup><br/>(430.304 Yrths)
         volume: 9.669 × 10<sup>15</sup> km<sup>3</sup><br/>(8926.137 Yrths)
-        mass: 2.224 × 10<sup>28</sup> kg<br />(241.3707345108677 Yrths)
+        mass: 2.224 × 10<sup>28</sup> kg<br />(3724.619 Yrths)
         density: 2.301 g/cm<sup>3</sup>
         surface_gravity: 84.884 m/s<sup>2</sup><br />(8.656 g<sub>0</sub>)
         escape_velocity: 149.889 km/s<br />(539,602 km/h)
         rotation_period: 36.689 d
         axial_tilt: 12.56°
         albedo: 0.30
-        temperature: 395 K<br />(122 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: σ Orshenniad D IV d
         type: Icy
         formationType: Accreted
@@ -424,14 +424,14 @@ planets:
         radius: 215,755.7 km<br/>(33.865 Yrths)
         surface_area: 5.850 × 10<sup>11</sup> km<sup>2</sup><br/>(1146.857 Yrths)
         volume: 4.207 × 10<sup>16</sup> km<sup>3</sup><br/>(38838.628 Yrths)
-        mass: 6.205 × 10<sup>28</sup> kg<br />(241.3707345108677 Yrths)
+        mass: 6.205 × 10<sup>28</sup> kg<br />(10389.926 Yrths)
         density: 1.475 g/cm<sup>3</sup>
         surface_gravity: 88.843 m/s<sup>2</sup><br />(9.059 g<sub>0</sub>)
         escape_velocity: 195.931 km/s<br />(705,351 km/h)
         rotation_period: 64.366 d
         axial_tilt: 22.02°
         albedo: 0.30
-        temperature: 359 K<br />(86 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: σ Orshenniad D IV e
         type: Icy
         formationType: Accreted
@@ -444,14 +444,14 @@ planets:
         radius: 156,064.1 km<br/>(24.496 Yrths)
         surface_area: 3.061 × 10<sup>11</sup> km<sup>2</sup><br/>(600.054 Yrths)
         volume: 1.592 × 10<sup>16</sup> km<sup>3</sup><br/>(14698.938 Yrths)
-        mass: 2.166 × 10<sup>28</sup> kg<br />(241.3707345108677 Yrths)
+        mass: 2.166 × 10<sup>28</sup> kg<br />(3626.535 Yrths)
         density: 1.360 g/cm<sup>3</sup>
         surface_gravity: 59.268 m/s<sup>2</sup><br />(6.044 g<sub>0</sub>)
         escape_velocity: 136.104 km/s<br />(489,976 km/h)
         rotation_period: 44.047 d
         axial_tilt: 20.01°
         albedo: 0.30
-        temperature: 245 K<br />(-28 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: σ Orshenniad D IV f
         type: Icy
         formationType: Captured
@@ -464,14 +464,14 @@ planets:
         radius: 197,299.3 km<br/>(30.968 Yrths)
         surface_area: 4.892 × 10<sup>11</sup> km<sup>2</sup><br/>(959.038 Yrths)
         volume: 3.217 × 10<sup>16</sup> km<sup>3</sup><br/>(29699.822 Yrths)
-        mass: 3.099 × 10<sup>28</sup> kg<br />(241.3707345108677 Yrths)
+        mass: 3.099 × 10<sup>28</sup> kg<br />(5189.003 Yrths)
         density: 0.963 g/cm<sup>3</sup>
         surface_gravity: 53.060 m/s<sup>2</sup><br />(5.411 g<sub>0</sub>)
         escape_velocity: 144.796 km/s<br />(521,266 km/h)
         rotation_period: 83.880 d
         axial_tilt: 19.50°
         albedo: 0.30
-        temperature: 223 K<br />(-50 °C)
+        temperature: 162 K<br />(-111 °C)
   - name: σ Orshenniad D V
     type: Large terrestrial
     aphelion: 377,083,438 km<br />2.521 AU
@@ -483,14 +483,14 @@ planets:
     radius: 8,467.2 km<br/>(1.329 Yrths)
     surface_area: 9.009 × 10<sup>08</sup> km<sup>2</sup><br/>(1.766 Yrths)
     volume: 2.543 × 10<sup>12</sup> km<sup>3</sup><br/>(2.347 Yrths)
-    mass: 1.598 × 10<sup>25</sup> kg<br />(2.676016596453762 Yrths)
+    mass: 1.598 × 10<sup>25</sup> kg<br />(2.68 Yrths)
     density: 6.285 g/cm<sup>3</sup>
     surface_gravity: 14.857 m/s<sup>2</sup><br />(1.515 g<sub>0</sub>)
     escape_velocity: 15.873 km/s<br />(57,142 km/h)
     rotation_period: 0.897 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 197 K<br />(-76 °C)
+    temperature: 452 K<br />(179 °C)
     surface_pressure: 277 kPa<br />(3 atm)
     composition:
       - 62.6119% carbon dioxide
@@ -509,14 +509,14 @@ planets:
         radius: 5,217.8 km<br/>(0.819 Yrths)
         surface_area: 3.421 × 10<sup>08</sup> km<sup>2</sup><br/>(0.671 Yrths)
         volume: 5.951 × 10<sup>11</sup> km<sup>3</sup><br/>(0.549 Yrths)
-        mass: 5.071 × 10<sup>23</sup> kg<br />(2.676016596453762 Yrths)
+        mass: 5.071 × 10<sup>23</sup> kg<br />(0.085 Yrths)
         density: 0.852 g/cm<sup>3</sup>
         surface_gravity: 1.241 m/s<sup>2</sup><br />(0.127 g<sub>0</sub>)
         escape_velocity: 3.602 km/s<br />(12,966 km/h)
         rotation_period: 86.839 d
         axial_tilt: 13.13°
         albedo: 0.30
-        temperature: 1805 K<br />(1532 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: σ Orshenniad D V b
         type: Rocky
         formationType: Captured
@@ -529,14 +529,14 @@ planets:
         radius: 6,268.8 km<br/>(0.984 Yrths)
         surface_area: 4.938 × 10<sup>08</sup> km<sup>2</sup><br/>(0.968 Yrths)
         volume: 1.032 × 10<sup>12</sup> km<sup>3</sup><br/>(0.953 Yrths)
-        mass: 2.715 × 10<sup>24</sup> kg<br />(2.676016596453762 Yrths)
+        mass: 2.715 × 10<sup>24</sup> kg<br />(0.455 Yrths)
         density: 2.631 g/cm<sup>3</sup>
         surface_gravity: 4.605 m/s<sup>2</sup><br />(0.470 g<sub>0</sub>)
         escape_velocity: 7.603 km/s<br />(27,372 km/h)
         rotation_period: 33.924 d
         axial_tilt: 13.75°
         albedo: 0.30
-        temperature: 1721 K<br />(1448 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: σ Orshenniad D V c
         type: Rocky
         formationType: Captured
@@ -549,14 +549,14 @@ planets:
         radius: 3,117.9 km<br/>(0.489 Yrths)
         surface_area: 1.222 × 10<sup>08</sup> km<sup>2</sup><br/>(0.240 Yrths)
         volume: 1.270 × 10<sup>11</sup> km<sup>3</sup><br/>(0.117 Yrths)
-        mass: 4.033 × 10<sup>23</sup> kg<br />(2.676016596453762 Yrths)
+        mass: 4.033 × 10<sup>23</sup> kg<br />(0.068 Yrths)
         density: 3.177 g/cm<sup>3</sup>
         surface_gravity: 2.765 m/s<sup>2</sup><br />(0.282 g<sub>0</sub>)
         escape_velocity: 4.155 km/s<br />(14,960 km/h)
         rotation_period: 52.274 d
         axial_tilt: 11.39°
         albedo: 0.30
-        temperature: 1641 K<br />(1368 °C)
+        temperature: 127 K<br />(-146 °C)
   - name: σ Orshenniad D VI
     type: Large terrestrial
     aphelion: 614,282,759 km<br />4.106 AU
@@ -568,14 +568,14 @@ planets:
     radius: 10,914.5 km<br/>(1.713 Yrths)
     surface_area: 1.497 × 10<sup>09</sup> km<sup>2</sup><br/>(2.935 Yrths)
     volume: 5.446 × 10<sup>12</sup> km<sup>3</sup><br/>(5.028 Yrths)
-    mass: 3.628 × 10<sup>25</sup> kg<br />(6.0753999589882675 Yrths)
+    mass: 3.628 × 10<sup>25</sup> kg<br />(6.08 Yrths)
     density: 6.662 g/cm<sup>3</sup>
     surface_gravity: 20.300 m/s<sup>2</sup><br />(2.070 g<sub>0</sub>)
     escape_velocity: 21.065 km/s<br />(75,834 km/h)
     rotation_period: 0.660 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 130 K<br />(-143 °C)
+    temperature: 150 K<br />(-123 °C)
     surface_pressure: 242 kPa<br />(2 atm)
     composition:
       - 80.6693% nitrogen
@@ -596,14 +596,14 @@ planets:
         radius: 8,050.5 km<br/>(1.264 Yrths)
         surface_area: 8.144 × 10<sup>08</sup> km<sup>2</sup><br/>(1.597 Yrths)
         volume: 2.185 × 10<sup>12</sup> km<sup>3</sup><br/>(2.018 Yrths)
-        mass: 4.262 × 10<sup>24</sup> kg<br />(6.0753999589882675 Yrths)
+        mass: 4.262 × 10<sup>24</sup> kg<br />(0.714 Yrths)
         density: 1.950 g/cm<sup>3</sup>
         surface_gravity: 4.383 m/s<sup>2</sup><br />(0.447 g<sub>0</sub>)
         escape_velocity: 8.406 km/s<br />(30,263 km/h)
         rotation_period: 50.667 d
         axial_tilt: 22.86°
         albedo: 0.30
-        temperature: 1045 K<br />(772 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: σ Orshenniad D VI b
         type: Rocky
         formationType: Impact formed
@@ -616,14 +616,14 @@ planets:
         radius: 12,204.4 km<br/>(1.916 Yrths)
         surface_area: 1.872 × 10<sup>09</sup> km<sup>2</sup><br/>(3.670 Yrths)
         volume: 7.614 × 10<sup>12</sup> km<sup>3</sup><br/>(7.030 Yrths)
-        mass: 2.111 × 10<sup>25</sup> kg<br />(6.0753999589882675 Yrths)
+        mass: 2.111 × 10<sup>25</sup> kg<br />(3.534 Yrths)
         density: 2.772 g/cm<sup>3</sup>
         surface_gravity: 9.446 m/s<sup>2</sup><br />(0.963 g<sub>0</sub>)
         escape_velocity: 15.194 km/s<br />(54,700 km/h)
         rotation_period: 36.578 d
         axial_tilt: 18.40°
         albedo: 0.30
-        temperature: 997 K<br />(724 °C)
+        temperature: 99 K<br />(-174 °C)
   - name: σ Orshenniad D VII
     type: Large terrestrial
     aphelion: 1,036,585,584 km<br />6.929 AU
@@ -635,14 +635,14 @@ planets:
     radius: 7,275.5 km<br/>(1.142 Yrths)
     surface_area: 6.652 × 10<sup>08</sup> km<sup>2</sup><br/>(1.304 Yrths)
     volume: 1.613 × 10<sup>12</sup> km<sup>3</sup><br/>(1.489 Yrths)
-    mass: 9.280 × 10<sup>24</sup> kg<br />(1.5539317831864607 Yrths)
+    mass: 9.280 × 10<sup>24</sup> kg<br />(1.55 Yrths)
     density: 5.753 g/cm<sup>3</sup>
     surface_gravity: 11.685 m/s<sup>2</sup><br />(1.192 g<sub>0</sub>)
     escape_velocity: 13.049 km/s<br />(46,975 km/h)
     rotation_period: 0.863 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 103 K<br />(-170 °C)
+    temperature: 99 K<br />(-174 °C)
     surface_pressure: 457 kPa<br />(5 atm)
     composition:
       - 72.6932% nitrogen
@@ -661,14 +661,14 @@ planets:
         radius: 3,671.1 km<br/>(0.576 Yrths)
         surface_area: 1.694 × 10<sup>08</sup> km<sup>2</sup><br/>(0.332 Yrths)
         volume: 2.072 × 10<sup>11</sup> km<sup>3</sup><br/>(0.191 Yrths)
-        mass: 6.814 × 10<sup>23</sup> kg<br />(1.5539317831864607 Yrths)
+        mass: 6.814 × 10<sup>23</sup> kg<br />(0.114 Yrths)
         density: 3.288 g/cm<sup>3</sup>
         surface_gravity: 3.370 m/s<sup>2</sup><br />(0.344 g<sub>0</sub>)
         escape_velocity: 4.978 km/s<br />(17,920 km/h)
         rotation_period: 29.840 d
         axial_tilt: 8.40°
         albedo: 0.30
-        temperature: 1001 K<br />(728 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: σ Orshenniad D VII b
         type: Icy
         formationType: Captured
@@ -681,14 +681,14 @@ planets:
         radius: 3,819.2 km<br/>(0.599 Yrths)
         surface_area: 1.833 × 10<sup>08</sup> km<sup>2</sup><br/>(0.359 Yrths)
         volume: 2.333 × 10<sup>11</sup> km<sup>3</sup><br/>(0.215 Yrths)
-        mass: 2.871 × 10<sup>23</sup> kg<br />(1.5539317831864607 Yrths)
+        mass: 2.871 × 10<sup>23</sup> kg<br />(0.048 Yrths)
         density: 1.231 g/cm<sup>3</sup>
         surface_gravity: 1.312 m/s<sup>2</sup><br />(0.134 g<sub>0</sub>)
         escape_velocity: 3.168 km/s<br />(11,405 km/h)
         rotation_period: 52.088 d
         axial_tilt: 23.43°
         albedo: 0.30
-        temperature: 955 K<br />(682 °C)
+        temperature: 78 K<br />(-195 °C)
   - name: σ Orshenniad D VIII
     type: Terrestrial
     aphelion: 1,693,107,430 km<br />11.318 AU
@@ -700,14 +700,14 @@ planets:
     radius: 6,162.0 km<br/>(0.967 Yrths)
     surface_area: 4.771 × 10<sup>08</sup> km<sup>2</sup><br/>(0.935 Yrths)
     volume: 9.800 × 10<sup>11</sup> km<sup>3</sup><br/>(0.905 Yrths)
-    mass: 4.639 × 10<sup>24</sup> kg<br />(0.7768622613170048 Yrths)
+    mass: 4.639 × 10<sup>24</sup> kg<br />(0.78 Yrths)
     density: 4.734 g/cm<sup>3</sup>
     surface_gravity: 8.144 m/s<sup>2</sup><br />(0.830 g<sub>0</sub>)
     escape_velocity: 10.025 km/s<br />(36,091 km/h)
     rotation_period: 1.085 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 70 K<br />(-203 °C)
+    temperature: 87 K<br />(-186 °C)
     surface_pressure: 25 kPa<br />(0 atm)
     composition:
       - 77.5506% methane
@@ -726,14 +726,14 @@ planets:
         radius: 2,737.0 km<br/>(0.430 Yrths)
         surface_area: 9.414 × 10<sup>07</sup> km<sup>2</sup><br/>(0.185 Yrths)
         volume: 8.589 × 10<sup>10</sup> km<sup>3</sup><br/>(0.079 Yrths)
-        mass: 1.276 × 10<sup>23</sup> kg<br />(0.7768622613170048 Yrths)
+        mass: 1.276 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 1.486 g/cm<sup>3</sup>
         surface_gravity: 1.136 m/s<sup>2</sup><br />(0.116 g<sub>0</sub>)
         escape_velocity: 2.495 km/s<br />(8,982 km/h)
         rotation_period: 62.634 d
         axial_tilt: 13.45°
         albedo: 0.30
-        temperature: 903 K<br />(630 °C)
+        temperature: 61 K<br />(-212 °C)
   - name: σ Orshenniad D IX
     type: Ice giant
     aphelion: 2,693,935,246 km<br />18.008 AU
@@ -745,14 +745,14 @@ planets:
     radius: 22,080.2 km<br/>(3.466 Yrths)
     surface_area: 6.127 × 10<sup>09</sup> km<sup>2</sup><br/>(12.011 Yrths)
     volume: 4.509 × 10<sup>13</sup> km<sup>3</sup><br/>(41.628 Yrths)
-    mass: 5.055 × 10<sup>25</sup> kg<br />(8.464178439389459 Yrths)
+    mass: 5.055 × 10<sup>25</sup> kg<br />(8.46 Yrths)
     density: 1.121 g/cm<sup>3</sup>
     surface_gravity: 6.911 m/s<sup>2</sup><br />(0.705 g<sub>0</sub>)
     escape_velocity: 17.481 km/s<br />(62,932 km/h)
     rotation_period: 0.389 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 88 K<br />(-185 °C)
+    temperature: 80 K<br />(-193 °C)
     composition:
       - 56.0145% hydrogen
       - 43.3770% helium
@@ -770,14 +770,14 @@ planets:
         radius: 15,666.8 km<br/>(2.459 Yrths)
         surface_area: 3.084 × 10<sup>09</sup> km<sup>2</sup><br/>(6.047 Yrths)
         volume: 1.611 × 10<sup>13</sup> km<sup>3</sup><br/>(14.870 Yrths)
-        mass: 4.193 × 10<sup>25</sup> kg<br />(8.464178439389459 Yrths)
+        mass: 4.193 × 10<sup>25</sup> kg<br />(7.021 Yrths)
         density: 2.603 g/cm<sup>3</sup>
         surface_gravity: 11.386 m/s<sup>2</sup><br />(1.161 g<sub>0</sub>)
         escape_velocity: 18.901 km/s<br />(68,043 km/h)
         rotation_period: 36.711 d
         axial_tilt: 30.84°
         albedo: 0.30
-        temperature: 436 K<br />(162 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: σ Orshenniad D IX b
         type: Dwarf planet
         formationType: Accreted
@@ -790,14 +790,14 @@ planets:
         radius: 11,615.5 km<br/>(1.823 Yrths)
         surface_area: 1.695 × 10<sup>09</sup> km<sup>2</sup><br/>(3.324 Yrths)
         volume: 6.564 × 10<sup>12</sup> km<sup>3</sup><br/>(6.060 Yrths)
-        mass: 1.303 × 10<sup>25</sup> kg<br />(8.464178439389459 Yrths)
+        mass: 1.303 × 10<sup>25</sup> kg<br />(2.183 Yrths)
         density: 1.986 g/cm<sup>3</sup>
         surface_gravity: 6.439 m/s<sup>2</sup><br />(0.657 g<sub>0</sub>)
         escape_velocity: 12.239 km/s<br />(44,061 km/h)
         rotation_period: 44.399 d
         axial_tilt: 17.50°
         albedo: 0.30
-        temperature: 415 K<br />(142 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: σ Orshenniad D IX c
         type: Dwarf planet
         formationType: Impact formed
@@ -810,14 +810,14 @@ planets:
         radius: 15,407.5 km<br/>(2.418 Yrths)
         surface_area: 2.983 × 10<sup>09</sup> km<sup>2</sup><br/>(5.849 Yrths)
         volume: 1.532 × 10<sup>13</sup> km<sup>3</sup><br/>(14.144 Yrths)
-        mass: 2.175 × 10<sup>25</sup> kg<br />(8.464178439389459 Yrths)
+        mass: 2.175 × 10<sup>25</sup> kg<br />(3.642 Yrths)
         density: 1.420 g/cm<sup>3</sup>
         surface_gravity: 6.107 m/s<sup>2</sup><br />(0.623 g<sub>0</sub>)
         escape_velocity: 13.727 km/s<br />(49,418 km/h)
         rotation_period: 42.470 d
         axial_tilt: 32.10°
         albedo: 0.30
-        temperature: 396 K<br />(123 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: σ Orshenniad D IX d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -830,14 +830,14 @@ planets:
         radius: 17,280.6 km<br/>(2.712 Yrths)
         surface_area: 3.753 × 10<sup>09</sup> km<sup>2</sup><br/>(7.357 Yrths)
         volume: 2.162 × 10<sup>13</sup> km<sup>3</sup><br/>(19.955 Yrths)
-        mass: 5.362 × 10<sup>25</sup> kg<br />(8.464178439389459 Yrths)
+        mass: 5.362 × 10<sup>25</sup> kg<br />(8.978 Yrths)
         density: 2.480 g/cm<sup>3</sup>
         surface_gravity: 11.967 m/s<sup>2</sup><br />(1.220 g<sub>0</sub>)
         escape_velocity: 20.351 km/s<br />(73,264 km/h)
         rotation_period: 38.001 d
         axial_tilt: 17.39°
         albedo: 0.30
-        temperature: 377 K<br />(104 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: σ Orshenniad D IX e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -850,14 +850,14 @@ planets:
         radius: 15,997.4 km<br/>(2.511 Yrths)
         surface_area: 3.216 × 10<sup>09</sup> km<sup>2</sup><br/>(6.305 Yrths)
         volume: 1.715 × 10<sup>13</sup> km<sup>3</sup><br/>(15.832 Yrths)
-        mass: 3.590 × 10<sup>25</sup> kg<br />(8.464178439389459 Yrths)
+        mass: 3.590 × 10<sup>25</sup> kg<br />(6.011 Yrths)
         density: 2.093 g/cm<sup>3</sup>
         surface_gravity: 9.349 m/s<sup>2</sup><br />(0.953 g<sub>0</sub>)
         escape_velocity: 17.307 km/s<br />(62,306 km/h)
         rotation_period: 35.717 d
         axial_tilt: 10.43°
         albedo: 0.30
-        temperature: 360 K<br />(87 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: σ Orshenniad D IX f
         type: Asteroid
         formationType: Captured
@@ -870,14 +870,14 @@ planets:
         radius: 14,953.2 km<br/>(2.347 Yrths)
         surface_area: 2.810 × 10<sup>09</sup> km<sup>2</sup><br/>(5.509 Yrths)
         volume: 1.401 × 10<sup>13</sup> km<sup>3</sup><br/>(12.929 Yrths)
-        mass: 2.647 × 10<sup>25</sup> kg<br />(8.464178439389459 Yrths)
+        mass: 2.647 × 10<sup>25</sup> kg<br />(4.433 Yrths)
         density: 1.890 g/cm<sup>3</sup>
         surface_gravity: 7.892 m/s<sup>2</sup><br />(0.805 g<sub>0</sub>)
         escape_velocity: 15.373 km/s<br />(55,344 km/h)
         rotation_period: 63.451 d
         axial_tilt: 28.55°
         albedo: 0.30
-        temperature: 343 K<br />(70 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: σ Orshenniad D IX g
         type: Icy
         formationType: Captured
@@ -890,12 +890,12 @@ planets:
         radius: 12,719.1 km<br/>(1.996 Yrths)
         surface_area: 2.033 × 10<sup>09</sup> km<sup>2</sup><br/>(3.986 Yrths)
         volume: 8.619 × 10<sup>12</sup> km<sup>3</sup><br/>(7.957 Yrths)
-        mass: 1.163 × 10<sup>25</sup> kg<br />(8.464178439389459 Yrths)
+        mass: 1.163 × 10<sup>25</sup> kg<br />(1.948 Yrths)
         density: 1.350 g/cm<sup>3</sup>
         surface_gravity: 4.793 m/s<sup>2</sup><br />(0.489 g<sub>0</sub>)
         escape_velocity: 11.049 km/s<br />(39,778 km/h)
         rotation_period: 79.947 d
         axial_tilt: 14.35°
         albedo: 0.30
-        temperature: 327 K<br />(54 °C)
+        temperature: 48 K<br />(-226 °C)
 ---

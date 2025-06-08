@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7685 Arkothiad is a star in the constellation Arkoth
+      7685 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 383.11 ly
 apparent_magnitude: 10.31
 absolute_magnitude: 4.96

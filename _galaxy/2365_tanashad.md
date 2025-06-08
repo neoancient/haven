@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2365 Tanashad is a star in the constellation Tanas
+      2365 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 552.32 ly
 apparent_magnitude: 10.88
 absolute_magnitude: 4.74

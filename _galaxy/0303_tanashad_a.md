@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0303 Tanashad A is a star in the constellation Tanas
+      0303 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 790.40 ly
 apparent_magnitude: 6.31
 absolute_magnitude: -0.61

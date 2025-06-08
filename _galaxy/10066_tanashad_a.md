@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10066 Tanashad A is a star in the constellation Tanas
+      10066 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 327.97 ly
 apparent_magnitude: 11.80
 absolute_magnitude: 6.79

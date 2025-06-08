@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7510 Arkothiad is a star in the constellation Arkoth
+      7510 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 700.01 ly
 apparent_magnitude: 11.35
 absolute_magnitude: 4.70

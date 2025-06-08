@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8247 Dialkeshiad is a star in the constellation Dialkes
+      8247 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 482.56 ly
 apparent_magnitude: 11.18
 absolute_magnitude: 5.33

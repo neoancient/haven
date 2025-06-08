@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2684 Lunaiad is a star in the constellation Luna
+      2684 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 432.91 ly
 apparent_magnitude: 11.81
 absolute_magnitude: 6.20

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6116 Anilliad A is a star in the constellation Anil
+      6116 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 380.19 ly
 apparent_magnitude: 7.47
 absolute_magnitude: 2.14

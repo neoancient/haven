@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0169 Niunioiad A is a star in the constellation Niunio
+      0169 Niunioiad A is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 173.51 ly
 apparent_magnitude: 6.52
 absolute_magnitude: 2.89

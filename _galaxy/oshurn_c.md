@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Oshurn C is a star in the constellation Rayom
+      Oshurn C is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 10995.54 ly
 apparent_magnitude: 6.65
 absolute_magnitude: -5.99

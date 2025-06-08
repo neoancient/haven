@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Orgarriad A is a star in the constellation Orgar
+      ψ Orgarriad A is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 903.65 ly
 apparent_magnitude: 5.28
 absolute_magnitude: -1.93

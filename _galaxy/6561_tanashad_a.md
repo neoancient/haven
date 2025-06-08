@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6561 Tanashad A is a star in the constellation Tanas
+      6561 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 354.63 ly
 apparent_magnitude: 7.54
 absolute_magnitude: 2.36

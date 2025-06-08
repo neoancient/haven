@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6334 Tanashad A is a star in the constellation Tanas
+      6334 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 203.81 ly
 apparent_magnitude: 9.09
 absolute_magnitude: 5.11

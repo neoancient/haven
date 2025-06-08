@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7336 Arkothiad A is a star in the constellation Arkoth
+      7336 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 373.42 ly
 apparent_magnitude: 7.65
 absolute_magnitude: 2.36

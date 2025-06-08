@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3342 Athiad is a star in the constellation Ath
+      3342 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1310.10 ly
 apparent_magnitude: 12.69
 absolute_magnitude: 4.68

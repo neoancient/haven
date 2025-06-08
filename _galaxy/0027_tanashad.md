@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0027 Tanashad is a star in the constellation Tanas
+      0027 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 43.78 ly
 apparent_magnitude: 5.26
 absolute_magnitude: 4.62
@@ -31,14 +31,14 @@ planets:
     radius: 6,371.4 km<br/>(1.000 Yrths)
     surface_area: 5.101 × 10<sup>08</sup> km<sup>2</sup><br/>(1.000 Yrths)
     volume: 1.083 × 10<sup>12</sup> km<sup>3</sup><br/>(1.000 Yrths)
-    mass: 5.999 × 10<sup>24</sup> kg<br />(1.004499712885185 Yrths)
+    mass: 5.999 × 10<sup>24</sup> kg<br />(1.00 Yrths)
     density: 5.537 g/cm<sup>3</sup>
     surface_gravity: 9.850 m/s<sup>2</sup><br />(1.004 g<sub>0</sub>)
     escape_velocity: 11.211 km/s<br />(40,359 km/h)
     rotation_period: 1.180 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 338 K<br />(65 °C)
+    temperature: 957 K<br />(684 °C)
     surface_pressure: 24 kPa<br />(0 atm)
     composition:
       - 90.8646% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 3,055.9 km<br/>(0.480 Yrths)
         surface_area: 1.173 × 10<sup>08</sup> km<sup>2</sup><br/>(0.230 Yrths)
         volume: 1.195 × 10<sup>11</sup> km<sup>3</sup><br/>(0.110 Yrths)
-        mass: 3.231 × 10<sup>23</sup> kg<br />(1.004499712885185 Yrths)
+        mass: 3.231 × 10<sup>23</sup> kg<br />(0.054 Yrths)
         density: 2.703 g/cm<sup>3</sup>
         surface_gravity: 2.306 m/s<sup>2</sup><br />(0.235 g<sub>0</sub>)
         escape_velocity: 3.757 km/s<br />(13,525 km/h)
         rotation_period: 47.262 d
         axial_tilt: 25.44°
         albedo: 0.30
-        temperature: 4169 K<br />(3896 °C)
+        temperature: 235 K<br />(-38 °C)
   - name: 0027 Tanashad II
     type: Terrestrial
     aphelion: 459,944,939 km<br />3.074 AU
@@ -75,14 +75,14 @@ planets:
     radius: 8,132.5 km<br/>(1.276 Yrths)
     surface_area: 8.311 × 10<sup>08</sup> km<sup>2</sup><br/>(1.629 Yrths)
     volume: 2.253 × 10<sup>12</sup> km<sup>3</sup><br/>(2.080 Yrths)
-    mass: 1.139 × 10<sup>25</sup> kg<br />(1.9068542383193716 Yrths)
+    mass: 1.139 × 10<sup>25</sup> kg<br />(1.91 Yrths)
     density: 5.054 g/cm<sup>3</sup>
     surface_gravity: 11.476 m/s<sup>2</sup><br />(1.170 g<sub>0</sub>)
     escape_velocity: 13.672 km/s<br />(49,218 km/h)
     rotation_period: 0.872 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 191 K<br />(-82 °C)
+    temperature: 226 K<br />(-48 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 93.6264% ammonia
@@ -100,14 +100,14 @@ planets:
         radius: 3,332.1 km<br/>(0.523 Yrths)
         surface_area: 1.395 × 10<sup>08</sup> km<sup>2</sup><br/>(0.274 Yrths)
         volume: 1.550 × 10<sup>11</sup> km<sup>3</sup><br/>(0.143 Yrths)
-        mass: 4.404 × 10<sup>23</sup> kg<br />(1.9068542383193716 Yrths)
+        mass: 4.404 × 10<sup>23</sup> kg<br />(0.074 Yrths)
         density: 2.842 g/cm<sup>3</sup>
         surface_gravity: 2.644 m/s<sup>2</sup><br />(0.270 g<sub>0</sub>)
         escape_velocity: 4.200 km/s<br />(15,121 km/h)
         rotation_period: 57.076 d
         axial_tilt: 15.72°
         albedo: 0.30
-        temperature: 2201 K<br />(1928 °C)
+        temperature: 175 K<br />(-99 °C)
   - name: 0027 Tanashad III
     type: Gas giant
     aphelion: 814,421,658 km<br />5.444 AU
@@ -119,7 +119,7 @@ planets:
     radius: 216.4 km<br/>(0.034 Yrths)
     surface_area: 5.885 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.245 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.410 × 10<sup>27</sup> kg<br />(236.13761729017253 Yrths)
+    mass: 1.410 × 10<sup>27</sup> kg<br />(236.14 Yrths)
     density: 33221437.793 g/cm<sup>3</sup>
     surface_gravity: 2007162.038 m/s<sup>2</sup><br />(204673.567 g<sub>0</sub>)
     escape_velocity: 932.676 km/s<br />(3,357,633 km/h)
@@ -140,14 +140,14 @@ planets:
         radius: 131,812.4 km<br/>(20.689 Yrths)
         surface_area: 2.183 × 10<sup>11</sup> km<sup>2</sup><br/>(428.053 Yrths)
         volume: 9.593 × 10<sup>15</sup> km<sup>3</sup><br/>(8856.166 Yrths)
-        mass: 1.384 × 10<sup>28</sup> kg<br />(236.13761729017253 Yrths)
+        mass: 1.384 × 10<sup>28</sup> kg<br />(2316.684 Yrths)
         density: 1.442 g/cm<sup>3</sup>
         surface_gravity: 53.075 m/s<sup>2</sup><br />(5.412 g<sub>0</sub>)
         escape_velocity: 118.368 km/s<br />(426,124 km/h)
         rotation_period: 43.036 d
         axial_tilt: 11.65°
         albedo: 0.30
-        temperature: 510 K<br />(237 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0027 Tanashad III b
         type: Icy
         formationType: Captured
@@ -160,14 +160,14 @@ planets:
         radius: 209,806.0 km<br/>(32.931 Yrths)
         surface_area: 5.532 × 10<sup>11</sup> km<sup>2</sup><br/>(1084.477 Yrths)
         volume: 3.868 × 10<sup>16</sup> km<sup>3</sup><br/>(35713.366 Yrths)
-        mass: 4.170 × 10<sup>28</sup> kg<br />(236.13761729017253 Yrths)
+        mass: 4.170 × 10<sup>28</sup> kg<br />(6982.737 Yrths)
         density: 1.078 g/cm<sup>3</sup>
         surface_gravity: 63.143 m/s<sup>2</sup><br />(6.439 g<sub>0</sub>)
         escape_velocity: 162.885 km/s<br />(586,387 km/h)
         rotation_period: 66.872 d
         axial_tilt: 13.48°
         albedo: 0.30
-        temperature: 349 K<br />(75 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0027 Tanashad III c
         type: Icy
         formationType: Impact formed
@@ -180,14 +180,14 @@ planets:
         radius: 144,447.1 km<br/>(22.673 Yrths)
         surface_area: 2.622 × 10<sup>11</sup> km<sup>2</sup><br/>(514.046 Yrths)
         volume: 1.262 × 10<sup>16</sup> km<sup>3</sup><br/>(11654.758 Yrths)
-        mass: 1.249 × 10<sup>28</sup> kg<br />(236.13761729017253 Yrths)
+        mass: 1.249 × 10<sup>28</sup> kg<br />(2092.099 Yrths)
         density: 0.990 g/cm<sup>3</sup>
         surface_gravity: 39.912 m/s<sup>2</sup><br />(4.070 g<sub>0</sub>)
         escape_velocity: 107.452 km/s<br />(386,827 km/h)
         rotation_period: 62.859 d
         axial_tilt: 16.32°
         albedo: 0.30
-        temperature: 179 K<br />(-94 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0027 Tanashad III d
         type: Icy
         formationType: Impact formed
@@ -200,14 +200,14 @@ planets:
         radius: 127,892.3 km<br/>(20.074 Yrths)
         surface_area: 2.055 × 10<sup>11</sup> km<sup>2</sup><br/>(402.971 Yrths)
         volume: 8.762 × 10<sup>15</sup> km<sup>3</sup><br/>(8089.281 Yrths)
-        mass: 1.585 × 10<sup>28</sup> kg<br />(236.13761729017253 Yrths)
+        mass: 1.585 × 10<sup>28</sup> kg<br />(2653.463 Yrths)
         density: 1.808 g/cm<sup>3</sup>
         surface_gravity: 64.574 m/s<sup>2</sup><br />(6.585 g<sub>0</sub>)
         escape_velocity: 128.606 km/s<br />(462,983 km/h)
         rotation_period: 40.970 d
         axial_tilt: 13.18°
         albedo: 0.30
-        temperature: 88 K<br />(-186 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0027 Tanashad III e
         type: Asteroid
         formationType: Captured
@@ -220,14 +220,14 @@ planets:
         radius: 140,123.2 km<br/>(21.994 Yrths)
         surface_area: 2.467 × 10<sup>11</sup> km<sup>2</sup><br/>(483.732 Yrths)
         volume: 1.152 × 10<sup>16</sup> km<sup>3</sup><br/>(10639.171 Yrths)
-        mass: 3.181 × 10<sup>28</sup> kg<br />(236.13761729017253 Yrths)
+        mass: 3.181 × 10<sup>28</sup> kg<br />(5326.080 Yrths)
         density: 2.760 g/cm<sup>3</sup>
         surface_gravity: 107.975 m/s<sup>2</sup><br />(11.010 g<sub>0</sub>)
         escape_velocity: 174.071 km/s<br />(626,656 km/h)
         rotation_period: 32.748 d
         axial_tilt: 14.54°
         albedo: 0.30
-        temperature: 54 K<br />(-219 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0027 Tanashad III f
         type: Icy
         formationType: Accreted
@@ -240,14 +240,14 @@ planets:
         radius: 128,305.6 km<br/>(20.139 Yrths)
         surface_area: 2.069 × 10<sup>11</sup> km<sup>2</sup><br/>(405.579 Yrths)
         volume: 8.848 × 10<sup>15</sup> km<sup>3</sup><br/>(8167.964 Yrths)
-        mass: 1.412 × 10<sup>28</sup> kg<br />(236.13761729017253 Yrths)
+        mass: 1.412 × 10<sup>28</sup> kg<br />(2364.102 Yrths)
         density: 1.596 g/cm<sup>3</sup>
         surface_gravity: 57.162 m/s<sup>2</sup><br />(5.829 g<sub>0</sub>)
         escape_velocity: 121.196 km/s<br />(436,305 km/h)
         rotation_period: 57.023 d
         axial_tilt: 8.90°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0027 Tanashad III g
         type: Icy
         formationType: Impact formed
@@ -260,14 +260,14 @@ planets:
         radius: 175,600.8 km<br/>(27.563 Yrths)
         surface_area: 3.875 × 10<sup>11</sup> km<sup>2</sup><br/>(759.693 Yrths)
         volume: 2.268 × 10<sup>16</sup> km<sup>3</sup><br/>(20939.042 Yrths)
-        mass: 1.737 × 10<sup>28</sup> kg<br />(236.13761729017253 Yrths)
+        mass: 1.737 × 10<sup>28</sup> kg<br />(2908.956 Yrths)
         density: 0.766 g/cm<sup>3</sup>
         surface_gravity: 37.551 m/s<sup>2</sup><br />(3.829 g<sub>0</sub>)
         escape_velocity: 114.917 km/s<br />(413,700 km/h)
         rotation_period: 93.222 d
         axial_tilt: 22.51°
         albedo: 0.30
-        temperature: 47 K<br />(-226 °C)
+        temperature: 130 K<br />(-143 °C)
   - name: 0027 Tanashad IV
     type: Large terrestrial
     aphelion: 1,478,077,878 km<br />9.880 AU
@@ -279,14 +279,14 @@ planets:
     radius: 10,874.7 km<br/>(1.707 Yrths)
     surface_area: 1.486 × 10<sup>09</sup> km<sup>2</sup><br/>(2.914 Yrths)
     volume: 5.387 × 10<sup>12</sup> km<sup>3</sup><br/>(4.973 Yrths)
-    mass: 3.716 × 10<sup>25</sup> kg<br />(6.223187346887042 Yrths)
+    mass: 3.716 × 10<sup>25</sup> kg<br />(6.22 Yrths)
     density: 6.899 g/cm<sup>3</sup>
     surface_gravity: 20.947 m/s<sup>2</sup><br />(2.136 g<sub>0</sub>)
     escape_velocity: 21.359 km/s<br />(76,892 km/h)
     rotation_period: 0.574 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 119 K<br />(-154 °C)
+    temperature: 104 K<br />(-169 °C)
     surface_pressure: 191 kPa<br />(2 atm)
     composition:
       - 96.5072% nitrogen
@@ -303,7 +303,7 @@ planets:
     radius: 246.1 km<br/>(0.039 Yrths)
     surface_area: 7.614 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 6.247 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.448 × 10<sup>27</sup> kg<br />(409.8536327336493 Yrths)
+    mass: 2.448 × 10<sup>27</sup> kg<br />(409.85 Yrths)
     density: 39181548.285 g/cm<sup>3</sup>
     surface_gravity: 2692644.907 m/s<sup>2</sup><br />(274573.367 g<sub>0</sub>)
     escape_velocity: 1152.115 km/s<br />(4,147,613 km/h)
@@ -324,14 +324,14 @@ planets:
         radius: 218,374.9 km<br/>(34.276 Yrths)
         surface_area: 5.993 × 10<sup>11</sup> km<sup>2</sup><br/>(1174.871 Yrths)
         volume: 4.362 × 10<sup>16</sup> km<sup>3</sup><br/>(40270.333 Yrths)
-        mass: 5.665 × 10<sup>28</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 5.665 × 10<sup>28</sup> kg<br />(9486.723 Yrths)
         density: 1.299 g/cm<sup>3</sup>
         surface_gravity: 79.186 m/s<sup>2</sup><br />(8.075 g<sub>0</sub>)
         escape_velocity: 186.095 km/s<br />(669,942 km/h)
         rotation_period: 45.419 d
         axial_tilt: 17.33°
         albedo: 0.30
-        temperature: 245 K<br />(-28 °C)
+        temperature: 72 K<br />(-202 °C)
       - name: 0027 Tanashad V b
         type: Icy
         formationType: Captured
@@ -344,14 +344,14 @@ planets:
         radius: 224,020.3 km<br/>(35.162 Yrths)
         surface_area: 6.306 × 10<sup>11</sup> km<sup>2</sup><br/>(1236.401 Yrths)
         volume: 4.709 × 10<sup>16</sup> km<sup>3</sup><br/>(43474.948 Yrths)
-        mass: 4.845 × 10<sup>28</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 4.845 × 10<sup>28</sup> kg<br />(8113.608 Yrths)
         density: 1.029 g/cm<sup>3</sup>
         surface_gravity: 64.354 m/s<sup>2</sup><br />(6.562 g<sub>0</sub>)
         escape_velocity: 169.919 km/s<br />(611,707 km/h)
         rotation_period: 75.146 d
         axial_tilt: 22.62°
         albedo: 0.30
-        temperature: 202 K<br />(-71 °C)
+        temperature: 72 K<br />(-202 °C)
       - name: 0027 Tanashad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -364,14 +364,14 @@ planets:
         radius: 165,331.2 km<br/>(25.951 Yrths)
         surface_area: 3.435 × 10<sup>11</sup> km<sup>2</sup><br/>(673.433 Yrths)
         volume: 1.893 × 10<sup>16</sup> km<sup>3</sup><br/>(17475.972 Yrths)
-        mass: 3.558 × 10<sup>28</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 3.558 × 10<sup>28</sup> kg<br />(5957.339 Yrths)
         density: 1.879 g/cm<sup>3</sup>
         surface_gravity: 86.752 m/s<sup>2</sup><br />(8.846 g<sub>0</sub>)
         escape_velocity: 169.483 km/s<br />(610,139 km/h)
         rotation_period: 36.959 d
         axial_tilt: 27.66°
         albedo: 0.30
-        temperature: 120 K<br />(-153 °C)
+        temperature: 72 K<br />(-202 °C)
       - name: 0027 Tanashad V d
         type: Icy
         formationType: Captured
@@ -384,14 +384,14 @@ planets:
         radius: 190,407.2 km<br/>(29.887 Yrths)
         surface_area: 4.556 × 10<sup>11</sup> km<sup>2</sup><br/>(893.206 Yrths)
         volume: 2.892 × 10<sup>16</sup> km<sup>3</sup><br/>(26694.835 Yrths)
-        mass: 4.057 × 10<sup>28</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 4.057 × 10<sup>28</sup> kg<br />(6792.749 Yrths)
         density: 1.403 g/cm<sup>3</sup>
         surface_gravity: 74.579 m/s<sup>2</sup><br />(7.605 g<sub>0</sub>)
         escape_velocity: 168.639 km/s<br />(607,102 km/h)
         rotation_period: 45.904 d
         axial_tilt: 8.22°
         albedo: 0.30
-        temperature: 82 K<br />(-191 °C)
+        temperature: 72 K<br />(-202 °C)
       - name: 0027 Tanashad V e
         type: Ice/rock hybrid
         formationType: Captured
@@ -404,14 +404,14 @@ planets:
         radius: 141,178.9 km<br/>(22.160 Yrths)
         surface_area: 2.505 × 10<sup>11</sup> km<sup>2</sup><br/>(491.049 Yrths)
         volume: 1.179 × 10<sup>16</sup> km<sup>3</sup><br/>(10881.450 Yrths)
-        mass: 2.798 × 10<sup>28</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 2.798 × 10<sup>28</sup> kg<br />(4685.836 Yrths)
         density: 2.374 g/cm<sup>3</sup>
         surface_gravity: 93.580 m/s<sup>2</sup><br />(9.543 g<sub>0</sub>)
         escape_velocity: 162.662 km/s<br />(585,584 km/h)
         rotation_period: 36.838 d
         axial_tilt: 8.99°
         albedo: 0.30
-        temperature: 71 K<br />(-202 °C)
+        temperature: 72 K<br />(-202 °C)
       - name: 0027 Tanashad V f
         type: Ice/rock hybrid
         formationType: Captured
@@ -424,14 +424,14 @@ planets:
         radius: 132,074.6 km<br/>(20.731 Yrths)
         surface_area: 2.192 × 10<sup>11</sup> km<sup>2</sup><br/>(429.757 Yrths)
         volume: 9.650 × 10<sup>15</sup> km<sup>3</sup><br/>(8909.116 Yrths)
-        mass: 2.544 × 10<sup>28</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 2.544 × 10<sup>28</sup> kg<br />(4260.245 Yrths)
         density: 2.636 g/cm<sup>3</sup>
         surface_gravity: 97.215 m/s<sup>2</sup><br />(9.913 g<sub>0</sub>)
         escape_velocity: 160.356 km/s<br />(577,282 km/h)
         rotation_period: 35.703 d
         axial_tilt: 26.01°
         albedo: 0.30
-        temperature: 56 K<br />(-217 °C)
+        temperature: 72 K<br />(-202 °C)
       - name: 0027 Tanashad V g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -444,14 +444,14 @@ planets:
         radius: 140,618.8 km<br/>(22.072 Yrths)
         surface_area: 2.485 × 10<sup>11</sup> km<sup>2</sup><br/>(487.160 Yrths)
         volume: 1.165 × 10<sup>16</sup> km<sup>3</sup><br/>(10752.447 Yrths)
-        mass: 2.411 × 10<sup>28</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 2.411 × 10<sup>28</sup> kg<br />(4036.864 Yrths)
         density: 2.070 g/cm<sup>3</sup>
         surface_gravity: 81.263 m/s<sup>2</sup><br />(8.287 g<sub>0</sub>)
         escape_velocity: 151.279 km/s<br />(544,604 km/h)
         rotation_period: 57.017 d
         axial_tilt: 23.45°
         albedo: 0.30
-        temperature: 51 K<br />(-222 °C)
+        temperature: 72 K<br />(-202 °C)
       - name: 0027 Tanashad V h
         type: Icy
         formationType: Captured
@@ -464,14 +464,14 @@ planets:
         radius: 285,130.7 km<br/>(44.754 Yrths)
         surface_area: 1.022 × 10<sup>12</sup> km<sup>2</sup><br/>(2002.963 Yrths)
         volume: 9.710 × 10<sup>16</sup> km<sup>3</sup><br/>(89641.539 Yrths)
-        mass: 1.308 × 10<sup>29</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 1.308 × 10<sup>29</sup> kg<br />(21902.309 Yrths)
         density: 1.347 g/cm<sup>3</sup>
         surface_gravity: 107.235 m/s<sup>2</sup><br />(10.935 g<sub>0</sub>)
         escape_velocity: 247.458 km/s<br />(890,847 km/h)
         rotation_period: 58.465 d
         axial_tilt: 20.70°
         albedo: 0.30
-        temperature: 42 K<br />(-231 °C)
+        temperature: 72 K<br />(-202 °C)
       - name: 0027 Tanashad V i
         type: Ice/rock hybrid
         formationType: Captured
@@ -484,14 +484,14 @@ planets:
         radius: 139,611.9 km<br/>(21.914 Yrths)
         surface_area: 2.449 × 10<sup>11</sup> km<sup>2</sup><br/>(480.208 Yrths)
         volume: 1.140 × 10<sup>16</sup> km<sup>3</sup><br/>(10523.109 Yrths)
-        mass: 2.987 × 10<sup>28</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 2.987 × 10<sup>28</sup> kg<br />(5001.721 Yrths)
         density: 2.620 g/cm<sup>3</sup>
         surface_gravity: 102.144 m/s<sup>2</sup><br />(10.416 g<sub>0</sub>)
         escape_velocity: 168.996 km/s<br />(608,386 km/h)
         rotation_period: 38.409 d
         axial_tilt: 15.93°
         albedo: 0.30
-        temperature: 36 K<br />(-237 °C)
+        temperature: 72 K<br />(-202 °C)
       - name: 0027 Tanashad V j
         type: Ice/rock hybrid
         formationType: Captured
@@ -504,12 +504,12 @@ planets:
         radius: 161,086.3 km<br/>(25.284 Yrths)
         surface_area: 3.261 × 10<sup>11</sup> km<sup>2</sup><br/>(639.296 Yrths)
         volume: 1.751 × 10<sup>16</sup> km<sup>3</sup><br/>(16164.141 Yrths)
-        mass: 3.410 × 10<sup>28</sup> kg<br />(409.8536327336493 Yrths)
+        mass: 3.410 × 10<sup>28</sup> kg<br />(5710.266 Yrths)
         density: 1.948 g/cm<sup>3</sup>
         surface_gravity: 87.594 m/s<sup>2</sup><br />(8.932 g<sub>0</sub>)
         escape_velocity: 168.103 km/s<br />(605,173 km/h)
         rotation_period: 52.813 d
         axial_tilt: 22.37°
         albedo: 0.30
-        temperature: 29 K<br />(-244 °C)
+        temperature: 72 K<br />(-202 °C)
 ---

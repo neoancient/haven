@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1921 Keead A is a star in the constellation Kee
+      1921 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 483.04 ly
 apparent_magnitude: 7.12
 absolute_magnitude: 1.26

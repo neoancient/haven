@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2313 Athiad is a star in the constellation Ath
+      2313 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 554.77 ly
 apparent_magnitude: 10.89
 absolute_magnitude: 4.74

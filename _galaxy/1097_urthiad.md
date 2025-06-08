@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1097 Urthiad is a star in the constellation Urth
+      1097 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 585.32 ly
 apparent_magnitude: 12.54
 absolute_magnitude: 6.27

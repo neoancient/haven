@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1723 Tanashad is a star in the constellation Tanas
+      1723 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 290.40 ly
 apparent_magnitude: 9.31
 absolute_magnitude: 4.56
@@ -31,14 +31,14 @@ planets:
     radius: 17,588.7 km<br/>(2.761 Yrths)
     surface_area: 3.888 × 10<sup>09</sup> km<sup>2</sup><br/>(7.622 Yrths)
     volume: 2.279 × 10<sup>13</sup> km<sup>3</sup><br/>(21.042 Yrths)
-    mass: 5.061 × 10<sup>25</sup> kg<br />(8.473806205840019 Yrths)
+    mass: 5.061 × 10<sup>25</sup> kg<br />(8.47 Yrths)
     density: 2.220 g/cm<sup>3</sup>
     surface_gravity: 10.903 m/s<sup>2</sup><br />(1.112 g<sub>0</sub>)
     escape_velocity: 19.597 km/s<br />(70,551 km/h)
     rotation_period: 0.602 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 364 K<br />(90 °C)
+    temperature: 366 K<br />(93 °C)
     composition:
       - 71.0491% hydrogen
       - 24.2661% helium
@@ -56,14 +56,14 @@ planets:
         radius: 7,205.5 km<br/>(1.131 Yrths)
         surface_area: 6.524 × 10<sup>08</sup> km<sup>2</sup><br/>(1.279 Yrths)
         volume: 1.567 × 10<sup>12</sup> km<sup>3</sup><br/>(1.447 Yrths)
-        mass: 1.679 × 10<sup>24</sup> kg<br />(8.473806205840019 Yrths)
+        mass: 1.679 × 10<sup>24</sup> kg<br />(0.281 Yrths)
         density: 1.071 g/cm<sup>3</sup>
         surface_gravity: 2.155 m/s<sup>2</sup><br />(0.220 g<sub>0</sub>)
         escape_velocity: 5.576 km/s<br />(20,075 km/h)
         rotation_period: 50.798 d
         axial_tilt: 16.16°
         albedo: 0.30
-        temperature: 2385 K<br />(2112 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1723 Tanashad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 13,657.7 km<br/>(2.144 Yrths)
         surface_area: 2.344 × 10<sup>09</sup> km<sup>2</sup><br/>(4.596 Yrths)
         volume: 1.067 × 10<sup>13</sup> km<sup>3</sup><br/>(9.852 Yrths)
-        mass: 2.582 × 10<sup>25</sup> kg<br />(8.473806205840019 Yrths)
+        mass: 2.582 × 10<sup>25</sup> kg<br />(4.324 Yrths)
         density: 2.420 g/cm<sup>3</sup>
         surface_gravity: 9.227 m/s<sup>2</sup><br />(0.941 g<sub>0</sub>)
         escape_velocity: 15.887 km/s<br />(57,192 km/h)
         rotation_period: 38.941 d
         axial_tilt: 24.25°
         albedo: 0.30
-        temperature: 2274 K<br />(2001 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1723 Tanashad I c
         type: Asteroid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 6,099.2 km<br/>(0.957 Yrths)
         surface_area: 4.675 × 10<sup>08</sup> km<sup>2</sup><br/>(0.916 Yrths)
         volume: 9.504 × 10<sup>11</sup> km<sup>3</sup><br/>(0.877 Yrths)
-        mass: 2.720 × 10<sup>24</sup> kg<br />(8.473806205840019 Yrths)
+        mass: 2.720 × 10<sup>24</sup> kg<br />(0.455 Yrths)
         density: 2.862 g/cm<sup>3</sup>
         surface_gravity: 4.874 m/s<sup>2</sup><br />(0.497 g<sub>0</sub>)
         escape_velocity: 7.716 km/s<br />(27,777 km/h)
         rotation_period: 53.693 d
         axial_tilt: 11.80°
         albedo: 0.30
-        temperature: 2168 K<br />(1895 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1723 Tanashad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 4,739.1 km<br/>(0.744 Yrths)
         surface_area: 2.822 × 10<sup>08</sup> km<sup>2</sup><br/>(0.553 Yrths)
         volume: 4.458 × 10<sup>11</sup> km<sup>3</sup><br/>(0.412 Yrths)
-        mass: 1.078 × 10<sup>24</sup> kg<br />(8.473806205840019 Yrths)
+        mass: 1.078 × 10<sup>24</sup> kg<br />(0.181 Yrths)
         density: 2.419 g/cm<sup>3</sup>
         surface_gravity: 3.200 m/s<sup>2</sup><br />(0.326 g<sub>0</sub>)
         escape_velocity: 5.511 km/s<br />(19,841 km/h)
         rotation_period: 45.837 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 2068 K<br />(1794 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1723 Tanashad I e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -136,14 +136,14 @@ planets:
         radius: 4,914.8 km<br/>(0.771 Yrths)
         surface_area: 3.035 × 10<sup>08</sup> km<sup>2</sup><br/>(0.595 Yrths)
         volume: 4.973 × 10<sup>11</sup> km<sup>3</sup><br/>(0.459 Yrths)
-        mass: 1.044 × 10<sup>24</sup> kg<br />(8.473806205840019 Yrths)
+        mass: 1.044 × 10<sup>24</sup> kg<br />(0.175 Yrths)
         density: 2.099 g/cm<sup>3</sup>
         surface_gravity: 2.881 m/s<sup>2</sup><br />(0.294 g<sub>0</sub>)
         escape_velocity: 5.325 km/s<br />(19,169 km/h)
         rotation_period: 35.421 d
         axial_tilt: 9.05°
         albedo: 0.30
-        temperature: 1971 K<br />(1698 °C)
+        temperature: 237 K<br />(-36 °C)
   - name: 1723 Tanashad II
     type: Large terrestrial
     aphelion: 387,618,688 km<br />2.591 AU
@@ -155,14 +155,14 @@ planets:
     radius: 10,723.2 km<br/>(1.683 Yrths)
     surface_area: 1.445 × 10<sup>09</sup> km<sup>2</sup><br/>(2.833 Yrths)
     volume: 5.165 × 10<sup>12</sup> km<sup>3</sup><br/>(4.768 Yrths)
-    mass: 3.179 × 10<sup>25</sup> kg<br />(5.32244716881324 Yrths)
+    mass: 3.179 × 10<sup>25</sup> kg<br />(5.32 Yrths)
     density: 6.154 g/cm<sup>3</sup>
     surface_gravity: 18.425 m/s<sup>2</sup><br />(1.879 g<sub>0</sub>)
     escape_velocity: 19.892 km/s<br />(71,610 km/h)
     rotation_period: 0.672 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 227 K<br />(-46 °C)
+    temperature: 220 K<br />(-54 °C)
     surface_pressure: 342 kPa<br />(3 atm)
     composition:
       - 56.3927% nitrogen
@@ -183,14 +183,14 @@ planets:
         radius: 6,548.8 km<br/>(1.028 Yrths)
         surface_area: 5.389 × 10<sup>08</sup> km<sup>2</sup><br/>(1.057 Yrths)
         volume: 1.176 × 10<sup>12</sup> km<sup>3</sup><br/>(1.086 Yrths)
-        mass: 3.666 × 10<sup>24</sup> kg<br />(5.32244716881324 Yrths)
+        mass: 3.666 × 10<sup>24</sup> kg<br />(0.614 Yrths)
         density: 3.117 g/cm<sup>3</sup>
         surface_gravity: 5.698 m/s<sup>2</sup><br />(0.581 g<sub>0</sub>)
         escape_velocity: 8.645 km/s<br />(31,122 km/h)
         rotation_period: 32.151 d
         axial_tilt: 21.57°
         albedo: 0.30
-        temperature: 1984 K<br />(1711 °C)
+        temperature: 174 K<br />(-99 °C)
       - name: 1723 Tanashad II b
         type: Icy
         formationType: Captured
@@ -203,14 +203,14 @@ planets:
         radius: 14,918.5 km<br/>(2.342 Yrths)
         surface_area: 2.797 × 10<sup>09</sup> km<sup>2</sup><br/>(5.483 Yrths)
         volume: 1.391 × 10<sup>13</sup> km<sup>3</sup><br/>(12.840 Yrths)
-        mass: 1.212 × 10<sup>25</sup> kg<br />(5.32244716881324 Yrths)
+        mass: 1.212 × 10<sup>25</sup> kg<br />(2.029 Yrths)
         density: 0.871 g/cm<sup>3</sup>
         surface_gravity: 3.629 m/s<sup>2</sup><br />(0.370 g<sub>0</sub>)
         escape_velocity: 10.413 km/s<br />(37,488 km/h)
         rotation_period: 81.859 d
         axial_tilt: 19.77°
         albedo: 0.30
-        temperature: 1892 K<br />(1618 °C)
+        temperature: 174 K<br />(-99 °C)
   - name: 1723 Tanashad III
     type: Gas giant
     aphelion: 694,359,339 km<br />4.641 AU
@@ -222,7 +222,7 @@ planets:
     radius: 202.4 km<br/>(0.032 Yrths)
     surface_area: 5.146 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.471 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.067 × 10<sup>27</sup> kg<br />(178.74845861149808 Yrths)
+    mass: 1.067 × 10<sup>27</sup> kg<br />(178.75 Yrths)
     density: 30756395.378 g/cm<sup>3</sup>
     surface_gravity: 1737612.043 m/s<sup>2</sup><br />(177187.117 g<sub>0</sub>)
     escape_velocity: 839.156 km/s<br />(3,020,961 km/h)
@@ -243,14 +243,14 @@ planets:
         radius: 125,421.7 km<br/>(19.686 Yrths)
         surface_area: 1.977 × 10<sup>11</sup> km<sup>2</sup><br/>(387.552 Yrths)
         volume: 8.264 × 10<sup>15</sup> km<sup>3</sup><br/>(7629.483 Yrths)
-        mass: 1.983 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 1.983 × 10<sup>28</sup> kg<br />(3321.222 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 84.040 m/s<sup>2</sup><br />(8.570 g<sub>0</sub>)
         escape_velocity: 145.292 km/s<br />(523,050 km/h)
         rotation_period: 41.116 d
         axial_tilt: 21.34°
         albedo: 0.30
-        temperature: 631 K<br />(358 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III b
         type: Rocky
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 103,587.3 km<br/>(16.259 Yrths)
         surface_area: 1.348 × 10<sup>11</sup> km<sup>2</sup><br/>(264.361 Yrths)
         volume: 4.656 × 10<sup>15</sup> km<sup>3</sup><br/>(4298.304 Yrths)
-        mass: 1.218 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 1.218 × 10<sup>28</sup> kg<br />(2040.338 Yrths)
         density: 2.617 g/cm<sup>3</sup>
         surface_gravity: 75.688 m/s<sup>2</sup><br />(7.718 g<sub>0</sub>)
         escape_velocity: 125.307 km/s<br />(451,105 km/h)
         rotation_period: 58.116 d
         axial_tilt: 17.55°
         albedo: 0.30
-        temperature: 547 K<br />(274 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III c
         type: Icy
         formationType: Captured
@@ -283,14 +283,14 @@ planets:
         radius: 154,589.6 km<br/>(24.265 Yrths)
         surface_area: 3.003 × 10<sup>11</sup> km<sup>2</sup><br/>(588.770 Yrths)
         volume: 1.547 × 10<sup>16</sup> km<sup>3</sup><br/>(14286.250 Yrths)
-        mass: 1.799 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 1.799 × 10<sup>28</sup> kg<br />(3012.610 Yrths)
         density: 1.163 g/cm<sup>3</sup>
         surface_gravity: 50.179 m/s<sup>2</sup><br />(5.117 g<sub>0</sub>)
         escape_velocity: 124.640 km/s<br />(448,706 km/h)
         rotation_period: 69.372 d
         axial_tilt: 10.44°
         albedo: 0.30
-        temperature: 522 K<br />(249 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -303,14 +303,14 @@ planets:
         radius: 246,707.1 km<br/>(38.723 Yrths)
         surface_area: 7.648 × 10<sup>11</sup> km<sup>2</sup><br/>(1499.506 Yrths)
         volume: 6.290 × 10<sup>16</sup> km<sup>3</sup><br/>(58066.048 Yrths)
-        mass: 1.305 × 10<sup>29</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 1.305 × 10<sup>29</sup> kg<br />(21855.225 Yrths)
         density: 2.075 g/cm<sup>3</sup>
         surface_gravity: 142.931 m/s<sup>2</sup><br />(14.575 g<sub>0</sub>)
         escape_velocity: 265.745 km/s<br />(956,681 km/h)
         rotation_period: 36.441 d
         axial_tilt: 11.48°
         albedo: 0.30
-        temperature: 392 K<br />(119 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -323,14 +323,14 @@ planets:
         radius: 145,448.3 km<br/>(22.830 Yrths)
         surface_area: 2.658 × 10<sup>11</sup> km<sup>2</sup><br/>(521.197 Yrths)
         volume: 1.289 × 10<sup>16</sup> km<sup>3</sup><br/>(11898.794 Yrths)
-        mass: 2.583 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 2.583 × 10<sup>28</sup> kg<br />(4325.063 Yrths)
         density: 2.004 g/cm<sup>3</sup>
         surface_gravity: 81.379 m/s<sup>2</sup><br />(8.298 g<sub>0</sub>)
         escape_velocity: 153.964 km/s<br />(554,271 km/h)
         rotation_period: 64.575 d
         axial_tilt: 22.59°
         albedo: 0.30
-        temperature: 356 K<br />(83 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -343,14 +343,14 @@ planets:
         radius: 122,507.9 km<br/>(19.229 Yrths)
         surface_area: 1.886 × 10<sup>11</sup> km<sup>2</sup><br/>(369.754 Yrths)
         volume: 7.702 × 10<sup>15</sup> km<sup>3</sup><br/>(7109.992 Yrths)
-        mass: 1.640 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 1.640 × 10<sup>28</sup> kg<br />(2745.475 Yrths)
         density: 2.129 g/cm<sup>3</sup>
         surface_gravity: 72.816 m/s<sup>2</sup><br />(7.425 g<sub>0</sub>)
         escape_velocity: 133.661 km/s<br />(481,179 km/h)
         rotation_period: 43.054 d
         axial_tilt: 26.25°
         albedo: 0.30
-        temperature: 295 K<br />(21 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III g
         type: Icy
         formationType: Accreted
@@ -363,14 +363,14 @@ planets:
         radius: 138,774.1 km<br/>(21.782 Yrths)
         surface_area: 2.420 × 10<sup>11</sup> km<sup>2</sup><br/>(474.462 Yrths)
         volume: 1.119 × 10<sup>16</sup> km<sup>3</sup><br/>(10334.808 Yrths)
-        mass: 2.127 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 2.127 × 10<sup>28</sup> kg<br />(3561.620 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 73.615 m/s<sup>2</sup><br />(7.507 g<sub>0</sub>)
         escape_velocity: 143.037 km/s<br />(514,932 km/h)
         rotation_period: 38.278 d
         axial_tilt: 11.58°
         albedo: 0.30
-        temperature: 243 K<br />(-30 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III h
         type: Rocky
         formationType: Captured
@@ -383,14 +383,14 @@ planets:
         radius: 111,048.6 km<br/>(17.430 Yrths)
         surface_area: 1.550 × 10<sup>11</sup> km<sup>2</sup><br/>(303.816 Yrths)
         volume: 5.736 × 10<sup>15</sup> km<sup>3</sup><br/>(5295.623 Yrths)
-        mass: 1.535 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 1.535 × 10<sup>28</sup> kg<br />(2570.068 Yrths)
         density: 2.676 g/cm<sup>3</sup>
         surface_gravity: 82.957 m/s<sup>2</sup><br />(8.459 g<sub>0</sub>)
         escape_velocity: 135.829 km/s<br />(488,985 km/h)
         rotation_period: 35.671 d
         axial_tilt: 16.80°
         albedo: 0.30
-        temperature: 159 K<br />(-115 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -403,14 +403,14 @@ planets:
         radius: 120,379.2 km<br/>(18.895 Yrths)
         surface_area: 1.821 × 10<sup>11</sup> km<sup>2</sup><br/>(357.016 Yrths)
         volume: 7.307 × 10<sup>15</sup> km<sup>3</sup><br/>(6745.771 Yrths)
-        mass: 1.384 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 1.384 × 10<sup>28</sup> kg<br />(2316.904 Yrths)
         density: 1.894 g/cm<sup>3</sup>
         surface_gravity: 63.642 m/s<sup>2</sup><br />(6.490 g<sub>0</sub>)
         escape_velocity: 123.867 km/s<br />(445,922 km/h)
         rotation_period: 70.494 d
         axial_tilt: 26.49°
         albedo: 0.30
-        temperature: 119 K<br />(-154 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III j
         type: Icy
         formationType: Accreted
@@ -423,14 +423,14 @@ planets:
         radius: 144,981.7 km<br/>(22.756 Yrths)
         surface_area: 2.641 × 10<sup>11</sup> km<sup>2</sup><br/>(517.858 Yrths)
         volume: 1.277 × 10<sup>16</sup> km<sup>3</sup><br/>(11784.642 Yrths)
-        mass: 1.650 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 1.650 × 10<sup>28</sup> kg<br />(2762.333 Yrths)
         density: 1.292 g/cm<sup>3</sup>
         surface_gravity: 52.310 m/s<sup>2</sup><br />(5.334 g<sub>0</sub>)
         escape_velocity: 123.242 km/s<br />(443,672 km/h)
         rotation_period: 51.500 d
         axial_tilt: 20.20°
         albedo: 0.30
-        temperature: 71 K<br />(-203 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 1723 Tanashad III k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -443,14 +443,14 @@ planets:
         radius: 137,125.5 km<br/>(21.523 Yrths)
         surface_area: 2.363 × 10<sup>11</sup> km<sup>2</sup><br/>(463.256 Yrths)
         volume: 1.080 × 10<sup>16</sup> km<sup>3</sup><br/>(9970.842 Yrths)
-        mass: 1.874 × 10<sup>28</sup> kg<br />(178.74845861149808 Yrths)
+        mass: 1.874 × 10<sup>28</sup> kg<br />(3137.744 Yrths)
         density: 1.735 g/cm<sup>3</sup>
         surface_gravity: 66.423 m/s<sup>2</sup><br />(6.773 g<sub>0</sub>)
         escape_velocity: 135.060 km/s<br />(486,217 km/h)
         rotation_period: 58.401 d
         axial_tilt: 26.97°
         albedo: 0.30
-        temperature: 64 K<br />(-209 °C)
+        temperature: 128 K<br />(-145 °C)
   - name: 1723 Tanashad IV
     type: Gas dwarf
     aphelion: 1,305,722,024 km<br />8.728 AU
@@ -462,14 +462,14 @@ planets:
     radius: 24,656.2 km<br/>(3.870 Yrths)
     surface_area: 7.639 × 10<sup>09</sup> km<sup>2</sup><br/>(14.977 Yrths)
     volume: 6.279 × 10<sup>13</sup> km<sup>3</sup><br/>(57.963 Yrths)
-    mass: 1.456 × 10<sup>26</sup> kg<br />(24.38578645640018 Yrths)
+    mass: 1.456 × 10<sup>26</sup> kg<br />(24.39 Yrths)
     density: 2.319 g/cm<sup>3</sup>
     surface_gravity: 15.967 m/s<sup>2</sup><br />(1.628 g<sub>0</sub>)
     escape_velocity: 28.079 km/s<br />(101,085 km/h)
     rotation_period: 0.342 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 131 K<br />(-142 °C)
+    temperature: 115 K<br />(-158 °C)
     composition:
       - 77.3543% hydrogen
       - 22.6457% helium
@@ -486,14 +486,14 @@ planets:
         radius: 37,118.9 km<br/>(5.826 Yrths)
         surface_area: 1.731 × 10<sup>10</sup> km<sup>2</sup><br/>(33.945 Yrths)
         volume: 2.142 × 10<sup>14</sup> km<sup>3</sup><br/>(197.772 Yrths)
-        mass: 2.161 × 10<sup>26</sup> kg<br />(24.38578645640018 Yrths)
+        mass: 2.161 × 10<sup>26</sup> kg<br />(36.178 Yrths)
         density: 1.009 g/cm<sup>3</sup>
         surface_gravity: 10.452 m/s<sup>2</sup><br />(1.066 g<sub>0</sub>)
         escape_velocity: 27.874 km/s<br />(100,347 km/h)
         rotation_period: 80.978 d
         axial_tilt: 14.81°
         albedo: 0.30
-        temperature: 821 K<br />(548 °C)
+        temperature: 94 K<br />(-179 °C)
       - name: 1723 Tanashad IV b
         type: Icy
         formationType: Captured
@@ -506,14 +506,14 @@ planets:
         radius: 25,033.9 km<br/>(3.929 Yrths)
         surface_area: 7.875 × 10<sup>09</sup> km<sup>2</sup><br/>(15.440 Yrths)
         volume: 6.572 × 10<sup>13</sup> km<sup>3</sup><br/>(60.668 Yrths)
-        mass: 1.068 × 10<sup>26</sup> kg<br />(24.38578645640018 Yrths)
+        mass: 1.068 × 10<sup>26</sup> kg<br />(17.875 Yrths)
         density: 1.624 g/cm<sup>3</sup>
         surface_gravity: 11.354 m/s<sup>2</sup><br />(1.158 g<sub>0</sub>)
         escape_velocity: 23.858 km/s<br />(85,890 km/h)
         rotation_period: 48.608 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 783 K<br />(510 °C)
+        temperature: 94 K<br />(-179 °C)
       - name: 1723 Tanashad IV c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -526,12 +526,12 @@ planets:
         radius: 23,751.3 km<br/>(3.728 Yrths)
         surface_area: 7.089 × 10<sup>09</sup> km<sup>2</sup><br/>(13.898 Yrths)
         volume: 5.612 × 10<sup>13</sup> km<sup>3</sup><br/>(51.813 Yrths)
-        mass: 9.251 × 10<sup>25</sup> kg<br />(24.38578645640018 Yrths)
+        mass: 9.251 × 10<sup>25</sup> kg<br />(15.491 Yrths)
         density: 1.648 g/cm<sup>3</sup>
         surface_gravity: 10.930 m/s<sup>2</sup><br />(1.115 g<sub>0</sub>)
         escape_velocity: 22.802 km/s<br />(82,086 km/h)
         rotation_period: 38.943 d
         axial_tilt: 25.31°
         albedo: 0.30
-        temperature: 747 K<br />(473 °C)
+        temperature: 94 K<br />(-179 °C)
 ---

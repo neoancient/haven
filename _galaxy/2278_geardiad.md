@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2278 Geardiad is a star in the constellation Geard
+      2278 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 161.64 ly
 apparent_magnitude: 7.86
 absolute_magnitude: 4.39

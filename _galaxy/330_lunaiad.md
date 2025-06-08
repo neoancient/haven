@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      330 Lunaiad is a star in the constellation Luna
+      330 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 750.81 ly
 apparent_magnitude: 11.45
 absolute_magnitude: 4.64

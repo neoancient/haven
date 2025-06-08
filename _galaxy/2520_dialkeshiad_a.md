@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2520 Dialkeshiad A is a star in the constellation Dialkes
+      2520 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 567.74 ly
 apparent_magnitude: 8.30
 absolute_magnitude: 2.10

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2800 Lunaiad is a star in the constellation Luna
+      2800 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 358.66 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 6.19

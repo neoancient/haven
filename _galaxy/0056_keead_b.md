@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0056 Keead B is a star in the constellation Kee
+      0056 Keead B is a star in the constellation <a href="kee.html">Kee</a>
 distance: 60.15 ly
 apparent_magnitude: 17.67
 absolute_magnitude: 16.34

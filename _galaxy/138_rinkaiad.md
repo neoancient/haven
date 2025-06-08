@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      138 Rinkaiad is a star in the constellation Rinka
+      138 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 390.73 ly
 apparent_magnitude: 10.47
 absolute_magnitude: 5.08

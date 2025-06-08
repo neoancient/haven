@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Tanashad B is a star in the constellation Tanas
+      σ Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1612.83 ly
 apparent_magnitude: 14.37
 absolute_magnitude: 5.90

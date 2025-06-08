@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1696 Ratharshinniad is a star in the constellation Ratharshin
+      1696 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 265.79 ly
 apparent_magnitude: 8.06
 absolute_magnitude: 3.51
@@ -31,14 +31,14 @@ planets:
     radius: 10,716.3 km<br/>(1.682 Yrths)
     surface_area: 1.443 × 10<sup>09</sup> km<sup>2</sup><br/>(2.829 Yrths)
     volume: 5.155 × 10<sup>12</sup> km<sup>3</sup><br/>(4.759 Yrths)
-    mass: 3.106 × 10<sup>25</sup> kg<br />(5.2015167627152525 Yrths)
+    mass: 3.106 × 10<sup>25</sup> kg<br />(5.20 Yrths)
     density: 6.026 g/cm<sup>3</sup>
     surface_gravity: 18.029 m/s<sup>2</sup><br />(1.838 g<sub>0</sub>)
     escape_velocity: 19.671 km/s<br />(70,815 km/h)
     rotation_period: 0.927 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 300 K<br />(26 °C)
+    temperature: 263 K<br />(-10 °C)
     surface_pressure: 115 kPa<br />(1 atm)
     composition:
       - 98.6310% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 9,783.4 km<br/>(1.536 Yrths)
         surface_area: 1.203 × 10<sup>09</sup> km<sup>2</sup><br/>(2.358 Yrths)
         volume: 3.922 × 10<sup>12</sup> km<sup>3</sup><br/>(3.621 Yrths)
-        mass: 9.702 × 10<sup>24</sup> kg<br />(5.2015167627152525 Yrths)
+        mass: 9.702 × 10<sup>24</sup> kg<br />(1.625 Yrths)
         density: 2.473 g/cm<sup>3</sup>
         surface_gravity: 6.756 m/s<sup>2</sup><br />(0.689 g<sub>0</sub>)
         escape_velocity: 11.506 km/s<br />(41,420 km/h)
         rotation_period: 50.381 d
         axial_tilt: 9.46°
         albedo: 0.30
-        temperature: 3387 K<br />(3113 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 1696 Ratharshinniad I b
         type: Icy
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 6,485.6 km<br/>(1.018 Yrths)
         surface_area: 5.286 × 10<sup>08</sup> km<sup>2</sup><br/>(1.036 Yrths)
         volume: 1.143 × 10<sup>12</sup> km<sup>3</sup><br/>(1.055 Yrths)
-        mass: 1.741 × 10<sup>24</sup> kg<br />(5.2015167627152525 Yrths)
+        mass: 1.741 × 10<sup>24</sup> kg<br />(0.291 Yrths)
         density: 1.523 g/cm<sup>3</sup>
         surface_gravity: 2.758 m/s<sup>2</sup><br />(0.281 g<sub>0</sub>)
         escape_velocity: 5.986 km/s<br />(21,549 km/h)
         rotation_period: 55.136 d
         axial_tilt: 14.82°
         albedo: 0.30
-        temperature: 3229 K<br />(2956 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 1696 Ratharshinniad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -96,12 +96,12 @@ planets:
         radius: 1,734.7 km<br/>(0.272 Yrths)
         surface_area: 3.781 × 10<sup>07</sup> km<sup>2</sup><br/>(0.074 Yrths)
         volume: 2.186 × 10<sup>10</sup> km<sup>3</sup><br/>(0.020 Yrths)
-        mass: 5.576 × 10<sup>22</sup> kg<br />(5.2015167627152525 Yrths)
+        mass: 5.576 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 2.550 g/cm<sup>3</sup>
         surface_gravity: 1.235 m/s<sup>2</sup><br />(0.126 g<sub>0</sub>)
         escape_velocity: 2.071 km/s<br />(7,457 km/h)
         rotation_period: 53.981 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 3079 K<br />(2806 °C)
+        temperature: 250 K<br />(-23 °C)
 ---

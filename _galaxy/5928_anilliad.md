@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5928 Anilliad is a star in the constellation Anil
+      5928 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 701.81 ly
 apparent_magnitude: 12.29
 absolute_magnitude: 5.63

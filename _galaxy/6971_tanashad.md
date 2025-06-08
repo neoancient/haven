@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6971 Tanashad is a star in the constellation Tanas
+      6971 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 221.64 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 6.83

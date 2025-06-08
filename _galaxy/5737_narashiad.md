@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5737 Narashiad is a star in the constellation Naras
+      5737 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 469.94 ly
 apparent_magnitude: 7.92
 absolute_magnitude: 2.13

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rishot Tiasra A is a star in the constellation Rishauth
+      Rishot Tiasra A is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 287.12 ly
 apparent_magnitude: 2.38
 absolute_magnitude: -2.34

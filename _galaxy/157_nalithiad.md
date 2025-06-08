@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      157 Nalithiad is a star in the constellation Nalith
+      157 Nalithiad is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 406.63 ly
 apparent_magnitude: 10.46
 absolute_magnitude: 4.98

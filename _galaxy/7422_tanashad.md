@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7422 Tanashad is a star in the constellation Tanas
+      7422 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 436.85 ly
 apparent_magnitude: 10.40
 absolute_magnitude: 4.76

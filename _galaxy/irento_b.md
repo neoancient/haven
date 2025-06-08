@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Irento B is a star in the constellation Esunrain
+      Irento B is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 13974.31 ly
 apparent_magnitude: 4.26
 absolute_magnitude: -8.90

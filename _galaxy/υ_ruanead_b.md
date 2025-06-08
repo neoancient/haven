@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      υ Ruanead B is a star in the constellation Ruane
+      υ Ruanead B is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 1261.21 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 2.56

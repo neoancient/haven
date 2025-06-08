@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11085 Arkothiad is a star in the constellation Arkoth
+      11085 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 301.43 ly
 apparent_magnitude: 16.88
 absolute_magnitude: 12.05

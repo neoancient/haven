@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6882 Oniad A is a star in the constellation Oni
+      6882 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 352.96 ly
 apparent_magnitude: 8.08
 absolute_magnitude: 2.91

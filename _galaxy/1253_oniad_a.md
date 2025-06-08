@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1253 Oniad A is a star in the constellation Oni
+      1253 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 426.87 ly
 apparent_magnitude: 6.96
 absolute_magnitude: 1.37

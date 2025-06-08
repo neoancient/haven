@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3395 Lunaiad A is a star in the constellation Luna
+      3395 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 265.45 ly
 apparent_magnitude: 10.61
 absolute_magnitude: 6.05

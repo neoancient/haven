@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4300 Tanashad is a star in the constellation Tanas
+      4300 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 177.58 ly
 apparent_magnitude: 9.60
 absolute_magnitude: 5.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6623 Tanashad A is a star in the constellation Tanas
+      6623 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 212.38 ly
 apparent_magnitude: 8.47
 absolute_magnitude: 4.40

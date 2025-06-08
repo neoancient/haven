@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0123 Lulithannaid is a star in the constellation Lulithan
+      0123 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 403.19 ly
 apparent_magnitude: 6.08
 absolute_magnitude: 0.62
@@ -31,14 +31,14 @@ planets:
     radius: 7,970.3 km<br/>(1.251 Yrths)
     surface_area: 7.983 × 10<sup>08</sup> km<sup>2</sup><br/>(1.565 Yrths)
     volume: 2.121 × 10<sup>12</sup> km<sup>3</sup><br/>(1.958 Yrths)
-    mass: 8.177 × 10<sup>24</sup> kg<br />(1.3692999277465918 Yrths)
+    mass: 8.177 × 10<sup>24</sup> kg<br />(1.37 Yrths)
     density: 3.856 g/cm<sup>3</sup>
     surface_gravity: 8.580 m/s<sup>2</sup><br />(0.875 g<sub>0</sub>)
     escape_velocity: 11.703 km/s<br />(42,130 km/h)
     rotation_period: 0.957 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 616 K<br />(343 °C)
+    temperature: 679 K<br />(406 °C)
     surface_pressure: 33 kPa<br />(0 atm)
     composition:
       - 81.3056% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 4,043.9 km<br/>(0.635 Yrths)
         surface_area: 2.055 × 10<sup>08</sup> km<sup>2</sup><br/>(0.403 Yrths)
         volume: 2.770 × 10<sup>11</sup> km<sup>3</sup><br/>(0.256 Yrths)
-        mass: 6.621 × 10<sup>23</sup> kg<br />(1.3692999277465918 Yrths)
+        mass: 6.621 × 10<sup>23</sup> kg<br />(0.111 Yrths)
         density: 2.390 g/cm<sup>3</sup>
         surface_gravity: 2.699 m/s<sup>2</sup><br />(0.275 g<sub>0</sub>)
         escape_velocity: 4.675 km/s<br />(16,830 km/h)
         rotation_period: 38.685 d
         axial_tilt: 31.66°
         albedo: 0.30
-        temperature: 7945 K<br />(7672 °C)
+        temperature: 538 K<br />(264 °C)
   - name: 0123 Lulithannaid II
     type: Large terrestrial
     aphelion: 499,962,037 km<br />3.342 AU
@@ -76,14 +76,14 @@ planets:
     radius: 12,770.1 km<br/>(2.004 Yrths)
     surface_area: 2.049 × 10<sup>09</sup> km<sup>2</sup><br/>(4.018 Yrths)
     volume: 8.723 × 10<sup>12</sup> km<sup>3</sup><br/>(8.053 Yrths)
-    mass: 5.193 × 10<sup>25</sup> kg<br />(8.69560541831005 Yrths)
+    mass: 5.193 × 10<sup>25</sup> kg<br />(8.70 Yrths)
     density: 5.953 g/cm<sup>3</sup>
     surface_gravity: 21.225 m/s<sup>2</sup><br />(2.164 g<sub>0</sub>)
     escape_velocity: 23.299 km/s<br />(83,875 km/h)
     rotation_period: 0.519 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 568 K<br />(295 °C)
+    temperature: 572 K<br />(299 °C)
     surface_pressure: 2,103 kPa<br />(21 atm)
     composition:
       - 61.0520% nitrogen
@@ -104,12 +104,12 @@ planets:
         radius: 11,494.8 km<br/>(1.804 Yrths)
         surface_area: 1.660 × 10<sup>09</sup> km<sup>2</sup><br/>(3.255 Yrths)
         volume: 6.362 × 10<sup>12</sup> km<sup>3</sup><br/>(5.873 Yrths)
-        mass: 1.833 × 10<sup>25</sup> kg<br />(8.69560541831005 Yrths)
+        mass: 1.833 × 10<sup>25</sup> kg<br />(3.069 Yrths)
         density: 2.881 g/cm<sup>3</sup>
         surface_gravity: 9.246 m/s<sup>2</sup><br />(0.943 g<sub>0</sub>)
         escape_velocity: 14.589 km/s<br />(52,520 km/h)
         rotation_period: 36.847 d
         axial_tilt: 12.01°
         albedo: 0.30
-        temperature: 4221 K<br />(3948 °C)
+        temperature: 388 K<br />(115 °C)
 ---

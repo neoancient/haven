@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Kelniad B is a star in the constellation Keln
+      0024 Kelniad B is a star in the constellation <a href="keln.html">Keln</a>
 distance: 353.44 ly
 apparent_magnitude: 9.93
 absolute_magnitude: 4.76

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3826 Narashiad is a star in the constellation Naras
+      3826 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 257.75 ly
 apparent_magnitude: 19.06
 absolute_magnitude: 14.57

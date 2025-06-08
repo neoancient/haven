@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      419 Shanniashiad A is a star in the constellation Shannias
+      419 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 496.06 ly
 apparent_magnitude: 8.27
 absolute_magnitude: 2.36

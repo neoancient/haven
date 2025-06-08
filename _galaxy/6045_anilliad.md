@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6045 Anilliad is a star in the constellation Anil
+      6045 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 130.71 ly
 apparent_magnitude: 12.88
 absolute_magnitude: 9.86

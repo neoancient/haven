@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      347 Lulithannaid A is a star in the constellation Lulithan
+      347 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 259.66 ly
 apparent_magnitude: 9.78
 absolute_magnitude: 5.27

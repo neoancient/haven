@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      322 Ratharshinniad is a star in the constellation Ratharshin
+      322 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 973.43 ly
 apparent_magnitude: 12.17
 absolute_magnitude: 4.80

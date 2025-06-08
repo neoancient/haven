@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      555 Lunaiad is a star in the constellation Luna
+      555 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 295.77 ly
 apparent_magnitude: 9.74
 absolute_magnitude: 4.95

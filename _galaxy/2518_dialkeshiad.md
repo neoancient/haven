@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2518 Dialkeshiad is a star in the constellation Dialkes
+      2518 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 529.37 ly
 apparent_magnitude: 11.78
 absolute_magnitude: 5.73

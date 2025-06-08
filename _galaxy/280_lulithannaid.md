@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      280 Lulithannaid is a star in the constellation Lulithan
+      280 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 434.28 ly
 apparent_magnitude: 10.05
 absolute_magnitude: 4.43

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      596 Saithiad is a star in the constellation Saith
+      596 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 241.93 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 5.92

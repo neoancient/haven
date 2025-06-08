@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5702 Anilliad is a star in the constellation Anil
+      5702 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 479.44 ly
 apparent_magnitude: 11.42
 absolute_magnitude: 5.58

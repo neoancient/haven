@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      603 Dialkeshiad is a star in the constellation Dialkes
+      603 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 259.98 ly
 apparent_magnitude: 10.53
 absolute_magnitude: 6.02

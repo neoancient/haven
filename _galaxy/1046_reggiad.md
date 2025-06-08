@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1046 Reggiad is a star in the constellation Reg
+      1046 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 641.14 ly
 apparent_magnitude: 11.72
 absolute_magnitude: 5.25

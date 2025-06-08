@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4751 Geardiad is a star in the constellation Geard
+      4751 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 636.18 ly
 apparent_magnitude: 7.12
 absolute_magnitude: 0.67

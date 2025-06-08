@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5828 Narashiad is a star in the constellation Naras
+      5828 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 462.75 ly
 apparent_magnitude: 7.78
 absolute_magnitude: 2.02

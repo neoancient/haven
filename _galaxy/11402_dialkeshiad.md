@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11402 Dialkeshiad is a star in the constellation Dialkes
+      11402 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 288.07 ly
 apparent_magnitude: 8.37
 absolute_magnitude: 3.64

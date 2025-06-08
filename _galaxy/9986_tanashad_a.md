@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9986 Tanashad A is a star in the constellation Tanas
+      9986 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 183.41 ly
 apparent_magnitude: 7.02
 absolute_magnitude: 3.27

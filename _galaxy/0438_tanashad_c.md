@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0438 Tanashad C is a star in the constellation Tanas
+      0438 Tanashad C is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 365.34 ly
 apparent_magnitude: 10.44
 absolute_magnitude: 5.19
@@ -31,14 +31,14 @@ planets:
     radius: 15,291.1 km<br/>(2.400 Yrths)
     surface_area: 2.938 × 10<sup>09</sup> km<sup>2</sup><br/>(5.761 Yrths)
     volume: 1.498 × 10<sup>13</sup> km<sup>3</sup><br/>(13.826 Yrths)
-    mass: 4.933 × 10<sup>25</sup> kg<br />(8.260892576345093 Yrths)
+    mass: 4.933 × 10<sup>25</sup> kg<br />(8.26 Yrths)
     density: 3.294 g/cm<sup>3</sup>
     surface_gravity: 14.063 m/s<sup>2</sup><br />(1.434 g<sub>0</sub>)
     escape_velocity: 20.753 km/s<br />(74,709 km/h)
     rotation_period: 1.120 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 435 K<br />(162 °C)
+    temperature: 394 K<br />(121 °C)
     composition:
       - 82.4058% hydrogen
       - 15.8699% helium
@@ -57,14 +57,14 @@ planets:
         radius: 4,017.0 km<br/>(0.631 Yrths)
         surface_area: 2.028 × 10<sup>08</sup> km<sup>2</sup><br/>(0.398 Yrths)
         volume: 2.715 × 10<sup>11</sup> km<sup>3</sup><br/>(0.251 Yrths)
-        mass: 6.469 × 10<sup>23</sup> kg<br />(8.260892576345093 Yrths)
+        mass: 6.469 × 10<sup>23</sup> kg<br />(0.108 Yrths)
         density: 2.383 g/cm<sup>3</sup>
         surface_gravity: 2.672 m/s<sup>2</sup><br />(0.272 g<sub>0</sub>)
         escape_velocity: 4.637 km/s<br />(16,691 km/h)
         rotation_period: 60.221 d
         axial_tilt: 13.94°
         albedo: 0.30
-        temperature: 3189 K<br />(2916 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0438 Tanashad C I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 12,267.1 km<br/>(1.925 Yrths)
         surface_area: 1.891 × 10<sup>09</sup> km<sup>2</sup><br/>(3.707 Yrths)
         volume: 7.732 × 10<sup>12</sup> km<sup>3</sup><br/>(7.138 Yrths)
-        mass: 1.999 × 10<sup>25</sup> kg<br />(8.260892576345093 Yrths)
+        mass: 1.999 × 10<sup>25</sup> kg<br />(3.347 Yrths)
         density: 2.585 g/cm<sup>3</sup>
         surface_gravity: 8.854 m/s<sup>2</sup><br />(0.903 g<sub>0</sub>)
         escape_velocity: 14.749 km/s<br />(53,096 km/h)
         rotation_period: 45.602 d
         axial_tilt: 14.55°
         albedo: 0.30
-        temperature: 3041 K<br />(2767 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0438 Tanashad C I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 11,324.9 km<br/>(1.778 Yrths)
         surface_area: 1.612 × 10<sup>09</sup> km<sup>2</sup><br/>(3.160 Yrths)
         volume: 6.084 × 10<sup>12</sup> km<sup>3</sup><br/>(5.617 Yrths)
-        mass: 1.263 × 10<sup>25</sup> kg<br />(8.260892576345093 Yrths)
+        mass: 1.263 × 10<sup>25</sup> kg<br />(2.115 Yrths)
         density: 2.076 g/cm<sup>3</sup>
         surface_gravity: 6.563 m/s<sup>2</sup><br />(0.669 g<sub>0</sub>)
         escape_velocity: 12.201 km/s<br />(43,924 km/h)
         rotation_period: 47.207 d
         axial_tilt: 12.49°
         albedo: 0.30
-        temperature: 2899 K<br />(2626 °C)
+        temperature: 324 K<br />(51 °C)
   - name: 0438 Tanashad C II
     type: Terrestrial
     aphelion: 150,154,946 km<br />1.004 AU
@@ -116,7 +116,7 @@ planets:
     radius: 4,064.9 km<br/>(0.638 Yrths)
     surface_area: 2.076 × 10<sup>08</sup> km<sup>2</sup><br/>(0.407 Yrths)
     volume: 2.813 × 10<sup>11</sup> km<sup>3</sup><br/>(0.260 Yrths)
-    mass: 1.617 × 10<sup>24</sup> kg<br />(0.2707214071737156 Yrths)
+    mass: 1.617 × 10<sup>24</sup> kg<br />(0.27 Yrths)
     density: 5.746 g/cm<sup>3</sup>
     surface_gravity: 6.522 m/s<sup>2</sup><br />(0.665 g<sub>0</sub>)
     escape_velocity: 7.286 km/s<br />(26,231 km/h)
@@ -137,14 +137,14 @@ planets:
         radius: 586.8 km<br/>(0.092 Yrths)
         surface_area: 4.327 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.462 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.328 × 10<sup>21</sup> kg<br />(0.2707214071737156 Yrths)
+        mass: 2.328 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.752 g/cm<sup>3</sup>
         surface_gravity: 0.451 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.728 km/s<br />(2,620 km/h)
         rotation_period: 32.873 d
         axial_tilt: 17.63°
         albedo: 0.30
-        temperature: 4260 K<br />(3987 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0438 Tanashad C II b
         type: Asteroid
         formationType: Captured
@@ -157,14 +157,14 @@ planets:
         radius: 1,290.0 km<br/>(0.202 Yrths)
         surface_area: 2.091 × 10<sup>07</sup> km<sup>2</sup><br/>(0.041 Yrths)
         volume: 8.992 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 2.060 × 10<sup>22</sup> kg<br />(0.2707214071737156 Yrths)
+        mass: 2.060 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.291 g/cm<sup>3</sup>
         surface_gravity: 0.825 m/s<sup>2</sup><br />(0.084 g<sub>0</sub>)
         escape_velocity: 1.460 km/s<br />(5,256 km/h)
         rotation_period: 33.027 d
         axial_tilt: 42.63°
         albedo: 0.30
-        temperature: 4062 K<br />(3789 °C)
+        temperature: 246 K<br />(-27 °C)
   - name: 0438 Tanashad C III
     type: Ice giant
     aphelion: 249,533,105 km<br />1.668 AU
@@ -176,14 +176,14 @@ planets:
     radius: 27,700.4 km<br/>(4.348 Yrths)
     surface_area: 9.642 × 10<sup>09</sup> km<sup>2</sup><br/>(18.904 Yrths)
     volume: 8.903 × 10<sup>13</sup> km<sup>3</sup><br/>(82.193 Yrths)
-    mass: 1.533 × 10<sup>26</sup> kg<br />(25.665691488885052 Yrths)
+    mass: 1.533 × 10<sup>26</sup> kg<br />(25.67 Yrths)
     density: 1.722 g/cm<sup>3</sup>
     surface_gravity: 13.314 m/s<sup>2</sup><br />(1.358 g<sub>0</sub>)
     escape_velocity: 27.178 km/s<br />(97,839 km/h)
     rotation_period: 0.527 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 320 K<br />(47 °C)
+    temperature: 286 K<br />(13 °C)
     composition:
       - 67.9807% hydrogen
       - 32.0193% helium
@@ -200,14 +200,14 @@ planets:
         radius: 18,708.8 km<br/>(2.937 Yrths)
         surface_area: 4.398 × 10<sup>09</sup> km<sup>2</sup><br/>(8.623 Yrths)
         volume: 2.743 × 10<sup>13</sup> km<sup>3</sup><br/>(25.323 Yrths)
-        mass: 9.470 × 10<sup>25</sup> kg<br />(25.665691488885052 Yrths)
+        mass: 9.470 × 10<sup>25</sup> kg<br />(15.857 Yrths)
         density: 3.452 g/cm<sup>3</sup>
         surface_gravity: 18.033 m/s<sup>2</sup><br />(1.839 g<sub>0</sub>)
         escape_velocity: 25.994 km/s<br />(93,578 km/h)
         rotation_period: 51.724 d
         axial_tilt: 7.66°
         albedo: 0.30
-        temperature: 1514 K<br />(1241 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 0438 Tanashad C III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -220,14 +220,14 @@ planets:
         radius: 21,427.5 km<br/>(3.363 Yrths)
         surface_area: 5.770 × 10<sup>09</sup> km<sup>2</sup><br/>(11.312 Yrths)
         volume: 4.121 × 10<sup>13</sup> km<sup>3</sup><br/>(38.044 Yrths)
-        mass: 8.881 × 10<sup>25</sup> kg<br />(25.665691488885052 Yrths)
+        mass: 8.881 × 10<sup>25</sup> kg<br />(14.871 Yrths)
         density: 2.155 g/cm<sup>3</sup>
         surface_gravity: 12.892 m/s<sup>2</sup><br />(1.315 g<sub>0</sub>)
         escape_velocity: 23.521 km/s<br />(84,677 km/h)
         rotation_period: 49.123 d
         axial_tilt: 19.69°
         albedo: 0.30
-        temperature: 1313 K<br />(1039 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 0438 Tanashad C III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -240,14 +240,14 @@ planets:
         radius: 34,615.6 km<br/>(5.433 Yrths)
         surface_area: 1.506 × 10<sup>10</sup> km<sup>2</sup><br/>(29.521 Yrths)
         volume: 1.737 × 10<sup>14</sup> km<sup>3</sup><br/>(160.396 Yrths)
-        mass: 3.675 × 10<sup>26</sup> kg<br />(25.665691488885052 Yrths)
+        mass: 3.675 × 10<sup>26</sup> kg<br />(61.538 Yrths)
         density: 2.115 g/cm<sup>3</sup>
         surface_gravity: 20.442 m/s<sup>2</sup><br />(2.085 g<sub>0</sub>)
         escape_velocity: 37.645 km/s<br />(135,523 km/h)
         rotation_period: 44.408 d
         axial_tilt: 21.71°
         albedo: 0.30
-        temperature: 1252 K<br />(978 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 0438 Tanashad C III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -260,14 +260,14 @@ planets:
         radius: 22,308.1 km<br/>(3.502 Yrths)
         surface_area: 6.254 × 10<sup>09</sup> km<sup>2</sup><br/>(12.261 Yrths)
         volume: 4.650 × 10<sup>13</sup> km<sup>3</sup><br/>(42.930 Yrths)
-        mass: 1.033 × 10<sup>26</sup> kg<br />(25.665691488885052 Yrths)
+        mass: 1.033 × 10<sup>26</sup> kg<br />(17.301 Yrths)
         density: 2.222 g/cm<sup>3</sup>
         surface_gravity: 13.838 m/s<sup>2</sup><br />(1.411 g<sub>0</sub>)
         escape_velocity: 24.864 km/s<br />(89,512 km/h)
         rotation_period: 35.811 d
         axial_tilt: 15.78°
         albedo: 0.30
-        temperature: 1193 K<br />(920 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 0438 Tanashad C III e
         type: Icy
         formationType: Captured
@@ -280,14 +280,14 @@ planets:
         radius: 30,214.7 km<br/>(4.743 Yrths)
         surface_area: 1.147 × 10<sup>10</sup> km<sup>2</sup><br/>(22.492 Yrths)
         volume: 1.155 × 10<sup>14</sup> km<sup>3</sup><br/>(106.668 Yrths)
-        mass: 1.388 × 10<sup>26</sup> kg<br />(25.665691488885052 Yrths)
+        mass: 1.388 × 10<sup>26</sup> kg<br />(23.245 Yrths)
         density: 1.201 g/cm<sup>3</sup>
         surface_gravity: 10.135 m/s<sup>2</sup><br />(1.033 g<sub>0</sub>)
         escape_velocity: 24.765 km/s<br />(89,153 km/h)
         rotation_period: 74.130 d
         axial_tilt: 7.86°
         albedo: 0.30
-        temperature: 1138 K<br />(865 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 0438 Tanashad C III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -300,14 +300,14 @@ planets:
         radius: 23,544.5 km<br/>(3.696 Yrths)
         surface_area: 6.966 × 10<sup>09</sup> km<sup>2</sup><br/>(13.657 Yrths)
         volume: 5.467 × 10<sup>13</sup> km<sup>3</sup><br/>(50.472 Yrths)
-        mass: 1.363 × 10<sup>26</sup> kg<br />(25.665691488885052 Yrths)
+        mass: 1.363 × 10<sup>26</sup> kg<br />(22.820 Yrths)
         density: 2.493 g/cm<sup>3</sup>
         surface_gravity: 16.386 m/s<sup>2</sup><br />(1.671 g<sub>0</sub>)
         escape_velocity: 27.797 km/s<br />(100,068 km/h)
         rotation_period: 33.086 d
         axial_tilt: 20.80°
         albedo: 0.30
-        temperature: 986 K<br />(713 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 0438 Tanashad C III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -320,14 +320,14 @@ planets:
         radius: 30,068.1 km<br/>(4.720 Yrths)
         surface_area: 1.136 × 10<sup>10</sup> km<sup>2</sup><br/>(22.274 Yrths)
         volume: 1.139 × 10<sup>14</sup> km<sup>3</sup><br/>(105.122 Yrths)
-        mass: 2.995 × 10<sup>26</sup> kg<br />(25.665691488885052 Yrths)
+        mass: 2.995 × 10<sup>26</sup> kg<br />(50.157 Yrths)
         density: 2.631 g/cm<sup>3</sup>
         surface_gravity: 22.083 m/s<sup>2</sup><br />(2.252 g<sub>0</sub>)
         escape_velocity: 36.466 km/s<br />(131,278 km/h)
         rotation_period: 33.275 d
         axial_tilt: 24.98°
         albedo: 0.30
-        temperature: 940 K<br />(667 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 0438 Tanashad C III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -340,14 +340,14 @@ planets:
         radius: 25,069.7 km<br/>(3.935 Yrths)
         surface_area: 7.898 × 10<sup>09</sup> km<sup>2</sup><br/>(15.484 Yrths)
         volume: 6.600 × 10<sup>13</sup> km<sup>3</sup><br/>(60.929 Yrths)
-        mass: 1.776 × 10<sup>26</sup> kg<br />(25.665691488885052 Yrths)
+        mass: 1.776 × 10<sup>26</sup> kg<br />(29.735 Yrths)
         density: 2.691 g/cm<sup>3</sup>
         surface_gravity: 18.832 m/s<sup>2</sup><br />(1.920 g<sub>0</sub>)
         escape_velocity: 30.749 km/s<br />(110,698 km/h)
         rotation_period: 45.117 d
         axial_tilt: 15.57°
         albedo: 0.30
-        temperature: 897 K<br />(623 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 0438 Tanashad C III i
         type: Icy
         formationType: Captured
@@ -360,14 +360,14 @@ planets:
         radius: 23,122.8 km<br/>(3.629 Yrths)
         surface_area: 6.719 × 10<sup>09</sup> km<sup>2</sup><br/>(13.172 Yrths)
         volume: 5.179 × 10<sup>13</sup> km<sup>3</sup><br/>(47.808 Yrths)
-        mass: 8.334 × 10<sup>25</sup> kg<br />(25.665691488885052 Yrths)
+        mass: 8.334 × 10<sup>25</sup> kg<br />(13.955 Yrths)
         density: 1.609 g/cm<sup>3</sup>
         surface_gravity: 10.389 m/s<sup>2</sup><br />(1.059 g<sub>0</sub>)
         escape_velocity: 21.934 km/s<br />(78,964 km/h)
         rotation_period: 46.215 d
         axial_tilt: 27.97°
         albedo: 0.30
-        temperature: 855 K<br />(582 °C)
+        temperature: 187 K<br />(-87 °C)
   - name: 0438 Tanashad C IV
     type: Terrestrial
     aphelion: 437,456,197 km<br />2.924 AU
@@ -379,14 +379,14 @@ planets:
     radius: 7,134.0 km<br/>(1.120 Yrths)
     surface_area: 6.395 × 10<sup>08</sup> km<sup>2</sup><br/>(1.254 Yrths)
     volume: 1.521 × 10<sup>12</sup> km<sup>3</sup><br/>(1.404 Yrths)
-    mass: 7.009 × 10<sup>24</sup> kg<br />(1.1736534824656466 Yrths)
+    mass: 7.009 × 10<sup>24</sup> kg<br />(1.17 Yrths)
     density: 4.609 g/cm<sup>3</sup>
     surface_gravity: 9.179 m/s<sup>2</sup><br />(0.936 g<sub>0</sub>)
     escape_velocity: 11.452 km/s<br />(41,227 km/h)
     rotation_period: 1.011 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 153 K<br />(-120 °C)
+    temperature: 149 K<br />(-124 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 91.7018% nitrogen
@@ -407,14 +407,14 @@ planets:
         radius: 2,796.4 km<br/>(0.439 Yrths)
         surface_area: 9.826 × 10<sup>07</sup> km<sup>2</sup><br/>(0.193 Yrths)
         volume: 9.159 × 10<sup>10</sup> km<sup>3</sup><br/>(0.085 Yrths)
-        mass: 1.725 × 10<sup>23</sup> kg<br />(1.1736534824656466 Yrths)
+        mass: 1.725 × 10<sup>23</sup> kg<br />(0.029 Yrths)
         density: 1.884 g/cm<sup>3</sup>
         surface_gravity: 1.471 m/s<sup>2</sup><br />(0.150 g<sub>0</sub>)
         escape_velocity: 2.870 km/s<br />(10,331 km/h)
         rotation_period: 67.887 d
         axial_tilt: 20.94°
         albedo: 0.30
-        temperature: 1930 K<br />(1656 °C)
+        temperature: 142 K<br />(-132 °C)
   - name: 0438 Tanashad C V
     type: Gas giant
     aphelion: 790,213,121 km<br />5.282 AU
@@ -426,7 +426,7 @@ planets:
     radius: 222.6 km<br/>(0.035 Yrths)
     surface_area: 6.227 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.621 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.596 × 10<sup>27</sup> kg<br />(267.23777234314645 Yrths)
+    mass: 1.596 × 10<sup>27</sup> kg<br />(267.24 Yrths)
     density: 34537395.330 g/cm<sup>3</sup>
     surface_gravity: 2146548.776 m/s<sup>2</sup><br />(218887.059 g<sub>0</sub>)
     escape_velocity: 978.258 km/s<br />(3,521,729 km/h)
@@ -447,14 +447,14 @@ planets:
         radius: 248,059.5 km<br/>(38.936 Yrths)
         surface_area: 7.733 × 10<sup>11</sup> km<sup>2</sup><br/>(1515.990 Yrths)
         volume: 6.394 × 10<sup>16</sup> km<sup>3</sup><br/>(59026.170 Yrths)
-        mass: 5.760 × 10<sup>28</sup> kg<br />(267.23777234314645 Yrths)
+        mass: 5.760 × 10<sup>28</sup> kg<br />(9645.306 Yrths)
         density: 0.901 g/cm<sup>3</sup>
         surface_gravity: 62.394 m/s<sup>2</sup><br />(6.362 g<sub>0</sub>)
         escape_velocity: 176.059 km/s<br />(633,812 km/h)
         rotation_period: 56.732 d
         axial_tilt: 20.50°
         albedo: 0.30
-        temperature: 590 K<br />(317 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0438 Tanashad C V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -467,14 +467,14 @@ planets:
         radius: 179,689.4 km<br/>(28.204 Yrths)
         surface_area: 4.057 × 10<sup>11</sup> km<sup>2</sup><br/>(795.480 Yrths)
         volume: 2.430 × 10<sup>16</sup> km<sup>3</sup><br/>(22435.939 Yrths)
-        mass: 3.888 × 10<sup>28</sup> kg<br />(267.23777234314645 Yrths)
+        mass: 3.888 × 10<sup>28</sup> kg<br />(6511.122 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 80.269 m/s<sup>2</sup><br />(8.185 g<sub>0</sub>)
         escape_velocity: 169.959 km/s<br />(611,853 km/h)
         rotation_period: 72.178 d
         axial_tilt: 21.59°
         albedo: 0.30
-        temperature: 423 K<br />(150 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0438 Tanashad C V c
         type: Icy
         formationType: Accreted
@@ -487,14 +487,14 @@ planets:
         radius: 302,806.3 km<br/>(47.529 Yrths)
         surface_area: 1.152 × 10<sup>12</sup> km<sup>2</sup><br/>(2258.992 Yrths)
         volume: 1.163 × 10<sup>17</sup> km<sup>3</sup><br/>(107367.308 Yrths)
-        mass: 8.141 × 10<sup>28</sup> kg<br />(267.23777234314645 Yrths)
+        mass: 8.141 × 10<sup>28</sup> kg<br />(13632.068 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 59.179 m/s<sup>2</sup><br />(6.035 g<sub>0</sub>)
         escape_velocity: 189.442 km/s<br />(681,991 km/h)
         rotation_period: 106.356 d
         axial_tilt: 18.44°
         albedo: 0.30
-        temperature: 228 K<br />(-46 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0438 Tanashad C V d
         type: Icy
         formationType: Captured
@@ -507,14 +507,14 @@ planets:
         radius: 182,338.7 km<br/>(28.620 Yrths)
         surface_area: 4.178 × 10<sup>11</sup> km<sup>2</sup><br/>(819.111 Yrths)
         volume: 2.539 × 10<sup>16</sup> km<sup>3</sup><br/>(23443.038 Yrths)
-        mass: 3.971 × 10<sup>28</sup> kg<br />(267.23777234314645 Yrths)
+        mass: 3.971 × 10<sup>28</sup> kg<br />(6650.049 Yrths)
         density: 1.564 g/cm<sup>3</sup>
         surface_gravity: 79.616 m/s<sup>2</sup><br />(8.119 g<sub>0</sub>)
         escape_velocity: 170.510 km/s<br />(613,837 km/h)
         rotation_period: 47.394 d
         axial_tilt: 9.29°
         albedo: 0.30
-        temperature: 207 K<br />(-66 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0438 Tanashad C V e
         type: Dwarf planet
         formationType: Accreted
@@ -527,14 +527,14 @@ planets:
         radius: 189,992.2 km<br/>(29.821 Yrths)
         surface_area: 4.536 × 10<sup>11</sup> km<sup>2</sup><br/>(889.317 Yrths)
         volume: 2.873 × 10<sup>16</sup> km<sup>3</sup><br/>(26520.682 Yrths)
-        mass: 5.605 × 10<sup>28</sup> kg<br />(267.23777234314645 Yrths)
+        mass: 5.605 × 10<sup>28</sup> kg<br />(9386.004 Yrths)
         density: 1.951 g/cm<sup>3</sup>
         surface_gravity: 103.501 m/s<sup>2</sup><br />(10.554 g<sub>0</sub>)
         escape_velocity: 198.450 km/s<br />(714,419 km/h)
         rotation_period: 37.297 d
         axial_tilt: 36.18°
         albedo: 0.30
-        temperature: 188 K<br />(-85 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0438 Tanashad C V f
         type: Ice/rock hybrid
         formationType: Captured
@@ -547,14 +547,14 @@ planets:
         radius: 153,559.8 km<br/>(24.103 Yrths)
         surface_area: 2.963 × 10<sup>11</sup> km<sup>2</sup><br/>(580.951 Yrths)
         volume: 1.517 × 10<sup>16</sup> km<sup>3</sup><br/>(14002.629 Yrths)
-        mass: 3.274 × 10<sup>28</sup> kg<br />(267.23777234314645 Yrths)
+        mass: 3.274 × 10<sup>28</sup> kg<br />(5482.924 Yrths)
         density: 2.159 g/cm<sup>3</sup>
         surface_gravity: 92.554 m/s<sup>2</sup><br />(9.438 g<sub>0</sub>)
         escape_velocity: 168.712 km/s<br />(607,362 km/h)
         rotation_period: 46.297 d
         axial_tilt: 17.64°
         albedo: 0.30
-        temperature: 179 K<br />(-94 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0438 Tanashad C V g
         type: Ice/rock hybrid
         formationType: Captured
@@ -567,14 +567,14 @@ planets:
         radius: 168,750.4 km<br/>(26.487 Yrths)
         surface_area: 3.578 × 10<sup>11</sup> km<sup>2</sup><br/>(701.576 Yrths)
         volume: 2.013 × 10<sup>16</sup> km<sup>3</sup><br/>(18582.835 Yrths)
-        mass: 4.282 × 10<sup>28</sup> kg<br />(267.23777234314645 Yrths)
+        mass: 4.282 × 10<sup>28</sup> kg<br />(7169.809 Yrths)
         density: 2.127 g/cm<sup>3</sup>
         surface_gravity: 100.220 m/s<sup>2</sup><br />(10.220 g<sub>0</sub>)
         escape_velocity: 184.039 km/s<br />(662,539 km/h)
         rotation_period: 40.104 d
         axial_tilt: 16.83°
         albedo: 0.30
-        temperature: 135 K<br />(-138 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0438 Tanashad C V h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -587,14 +587,14 @@ planets:
         radius: 152,001.9 km<br/>(23.858 Yrths)
         surface_area: 2.903 × 10<sup>11</sup> km<sup>2</sup><br/>(569.223 Yrths)
         volume: 1.471 × 10<sup>16</sup> km<sup>3</sup><br/>(13580.754 Yrths)
-        mass: 2.538 × 10<sup>28</sup> kg<br />(267.23777234314645 Yrths)
+        mass: 2.538 × 10<sup>28</sup> kg<br />(4249.479 Yrths)
         density: 1.725 g/cm<sup>3</sup>
         surface_gravity: 73.211 m/s<sup>2</sup><br />(7.465 g<sub>0</sub>)
         escape_velocity: 149.287 km/s<br />(537,432 km/h)
         rotation_period: 72.805 d
         axial_tilt: 33.33°
         albedo: 0.30
-        temperature: 88 K<br />(-185 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0438 Tanashad C V i
         type: Icy
         formationType: Accreted
@@ -607,14 +607,14 @@ planets:
         radius: 188,915.6 km<br/>(29.652 Yrths)
         surface_area: 4.485 × 10<sup>11</sup> km<sup>2</sup><br/>(879.266 Yrths)
         volume: 2.824 × 10<sup>16</sup> km<sup>3</sup><br/>(26072.386 Yrths)
-        mass: 3.211 × 10<sup>28</sup> kg<br />(267.23777234314645 Yrths)
+        mass: 3.211 × 10<sup>28</sup> kg<br />(5376.083 Yrths)
         density: 1.137 g/cm<sup>3</sup>
         surface_gravity: 59.961 m/s<sup>2</sup><br />(6.114 g<sub>0</sub>)
         escape_velocity: 150.618 km/s<br />(542,225 km/h)
         rotation_period: 73.094 d
         axial_tilt: 16.08°
         albedo: 0.30
-        temperature: 69 K<br />(-204 °C)
+        temperature: 107 K<br />(-166 °C)
   - name: 0438 Tanashad C VI
     type: Gas giant
     aphelion: 1,338,689,430 km<br />8.948 AU
@@ -626,7 +626,7 @@ planets:
     radius: 175.1 km<br/>(0.027 Yrths)
     surface_area: 3.854 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.250 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.697 × 10<sup>26</sup> kg<br />(95.40242451356004 Yrths)
+    mass: 5.697 × 10<sup>26</sup> kg<br />(95.40 Yrths)
     density: 25319727.662 g/cm<sup>3</sup>
     surface_gravity: 1238057.788 m/s<sup>2</sup><br />(126246.760 g<sub>0</sub>)
     escape_velocity: 658.975 km/s<br />(2,372,310 km/h)
@@ -647,14 +647,14 @@ planets:
         radius: 55,886.8 km<br/>(8.772 Yrths)
         surface_area: 3.925 × 10<sup>10</sup> km<sup>2</sup><br/>(76.949 Yrths)
         volume: 7.312 × 10<sup>14</sup> km<sup>3</sup><br/>(675.003 Yrths)
-        mass: 1.481 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 1.481 × 10<sup>27</sup> kg<br />(247.958 Yrths)
         density: 2.025 g/cm<sup>3</sup>
         surface_gravity: 31.601 m/s<sup>2</sup><br />(3.222 g<sub>0</sub>)
         escape_velocity: 59.472 km/s<br />(214,099 km/h)
         rotation_period: 36.608 d
         axial_tilt: 55.52°
         albedo: 0.30
-        temperature: 532 K<br />(259 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI b
         type: Ice/rock hybrid
         formationType: Captured
@@ -667,14 +667,14 @@ planets:
         radius: 70,804.1 km<br/>(11.113 Yrths)
         surface_area: 6.300 × 10<sup>10</sup> km<sup>2</sup><br/>(123.510 Yrths)
         volume: 1.487 × 10<sup>15</sup> km<sup>3</sup><br/>(1372.626 Yrths)
-        mass: 3.212 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 3.212 × 10<sup>27</sup> kg<br />(537.914 Yrths)
         density: 2.161 g/cm<sup>3</sup>
         surface_gravity: 42.710 m/s<sup>2</sup><br />(4.355 g<sub>0</sub>)
         escape_velocity: 77.822 km/s<br />(280,161 km/h)
         rotation_period: 41.415 d
         axial_tilt: 10.76°
         albedo: 0.30
-        temperature: 363 K<br />(90 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI c
         type: Icy
         formationType: Impact formed
@@ -687,14 +687,14 @@ planets:
         radius: 98,335.8 km<br/>(15.435 Yrths)
         surface_area: 1.215 × 10<sup>11</sup> km<sup>2</sup><br/>(238.236 Yrths)
         volume: 3.983 × 10<sup>15</sup> km<sup>3</sup><br/>(3677.153 Yrths)
-        mass: 5.017 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 5.017 × 10<sup>27</sup> kg<br />(840.005 Yrths)
         density: 1.259 g/cm<sup>3</sup>
         surface_gravity: 34.578 m/s<sup>2</sup><br />(3.526 g<sub>0</sub>)
         escape_velocity: 82.521 km/s<br />(297,075 km/h)
         rotation_period: 66.600 d
         axial_tilt: 23.69°
         albedo: 0.30
-        temperature: 237 K<br />(-37 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI d
         type: Dwarf planet
         formationType: Accreted
@@ -707,14 +707,14 @@ planets:
         radius: 65,782.9 km<br/>(10.325 Yrths)
         surface_area: 5.438 × 10<sup>10</sup> km<sup>2</sup><br/>(106.613 Yrths)
         volume: 1.192 × 10<sup>15</sup> km<sup>3</sup><br/>(1100.820 Yrths)
-        mass: 3.170 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 3.170 × 10<sup>27</sup> kg<br />(530.808 Yrths)
         density: 2.658 g/cm<sup>3</sup>
         surface_gravity: 48.826 m/s<sup>2</sup><br />(4.979 g<sub>0</sub>)
         escape_velocity: 80.203 km/s<br />(288,730 km/h)
         rotation_period: 40.771 d
         axial_tilt: 24.09°
         albedo: 0.30
-        temperature: 205 K<br />(-68 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -727,14 +727,14 @@ planets:
         radius: 52,537.1 km<br/>(8.246 Yrths)
         surface_area: 3.469 × 10<sup>10</sup> km<sup>2</sup><br/>(68.001 Yrths)
         volume: 6.074 × 10<sup>14</sup> km<sup>3</sup><br/>(560.758 Yrths)
-        mass: 1.635 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 1.635 × 10<sup>27</sup> kg<br />(273.765 Yrths)
         density: 2.692 g/cm<sup>3</sup>
         surface_gravity: 39.480 m/s<sup>2</sup><br />(4.026 g<sub>0</sub>)
         escape_velocity: 64.452 km/s<br />(232,026 km/h)
         rotation_period: 36.095 d
         axial_tilt: 30.16°
         albedo: 0.30
-        temperature: 134 K<br />(-140 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI f
         type: Icy
         formationType: Captured
@@ -747,14 +747,14 @@ planets:
         radius: 63,942.4 km<br/>(10.036 Yrths)
         surface_area: 5.138 × 10<sup>10</sup> km<sup>2</sup><br/>(100.731 Yrths)
         volume: 1.095 × 10<sup>15</sup> km<sup>3</sup><br/>(1010.984 Yrths)
-        mass: 1.751 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 1.751 × 10<sup>27</sup> kg<br />(293.211 Yrths)
         density: 1.599 g/cm<sup>3</sup>
         surface_gravity: 28.545 m/s<sup>2</sup><br />(2.911 g<sub>0</sub>)
         escape_velocity: 60.461 km/s<br />(217,659 km/h)
         rotation_period: 73.028 d
         axial_tilt: 14.79°
         albedo: 0.30
-        temperature: 96 K<br />(-177 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI g
         type: Dwarf planet
         formationType: Captured
@@ -767,14 +767,14 @@ planets:
         radius: 122,259.9 km<br/>(19.190 Yrths)
         surface_area: 1.878 × 10<sup>11</sup> km<sup>2</sup><br/>(368.259 Yrths)
         volume: 7.655 × 10<sup>15</sup> km<sup>3</sup><br/>(7066.910 Yrths)
-        mass: 1.543 × 10<sup>28</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 1.543 × 10<sup>28</sup> kg<br />(2583.282 Yrths)
         density: 2.015 g/cm<sup>3</sup>
         surface_gravity: 68.792 m/s<sup>2</sup><br />(7.015 g<sub>0</sub>)
         escape_velocity: 129.784 km/s<br />(467,223 km/h)
         rotation_period: 35.985 d
         axial_tilt: 30.08°
         albedo: 0.30
-        temperature: 87 K<br />(-186 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI h
         type: Rocky
         formationType: Accreted
@@ -787,14 +787,14 @@ planets:
         radius: 54,109.9 km<br/>(8.493 Yrths)
         surface_area: 3.679 × 10<sup>10</sup> km<sup>2</sup><br/>(72.134 Yrths)
         volume: 6.636 × 10<sup>14</sup> km<sup>3</sup><br/>(612.643 Yrths)
-        mass: 1.889 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 1.889 × 10<sup>27</sup> kg<br />(316.289 Yrths)
         density: 2.846 g/cm<sup>3</sup>
         surface_gravity: 43.000 m/s<sup>2</sup><br />(4.385 g<sub>0</sub>)
         escape_velocity: 68.262 km/s<br />(245,745 km/h)
         rotation_period: 55.793 d
         axial_tilt: 14.06°
         albedo: 0.30
-        temperature: 69 K<br />(-205 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI i
         type: Icy
         formationType: Captured
@@ -807,14 +807,14 @@ planets:
         radius: 66,927.7 km<br/>(10.505 Yrths)
         surface_area: 5.629 × 10<sup>10</sup> km<sup>2</sup><br/>(110.356 Yrths)
         volume: 1.256 × 10<sup>15</sup> km<sup>3</sup><br/>(1159.300 Yrths)
-        mass: 1.744 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 1.744 × 10<sup>27</sup> kg<br />(292.112 Yrths)
         density: 1.389 g/cm<sup>3</sup>
         surface_gravity: 25.958 m/s<sup>2</sup><br />(2.647 g<sub>0</sub>)
         escape_velocity: 58.986 km/s<br />(212,350 km/h)
         rotation_period: 47.483 d
         axial_tilt: 18.34°
         albedo: 0.30
-        temperature: 59 K<br />(-214 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -827,14 +827,14 @@ planets:
         radius: 57,608.0 km<br/>(9.042 Yrths)
         surface_area: 4.170 × 10<sup>10</sup> km<sup>2</sup><br/>(81.762 Yrths)
         volume: 8.008 × 10<sup>14</sup> km<sup>3</sup><br/>(739.306 Yrths)
-        mass: 1.958 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 1.958 × 10<sup>27</sup> kg<br />(327.801 Yrths)
         density: 2.445 g/cm<sup>3</sup>
         surface_gravity: 39.317 m/s<sup>2</sup><br />(4.009 g<sub>0</sub>)
         escape_velocity: 67.351 km/s<br />(242,462 km/h)
         rotation_period: 33.552 d
         axial_tilt: 13.61°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 82 K<br />(-192 °C)
       - name: 0438 Tanashad C VI k
         type: Icy
         formationType: Accreted
@@ -847,14 +847,14 @@ planets:
         radius: 57,892.0 km<br/>(9.087 Yrths)
         surface_area: 4.212 × 10<sup>10</sup> km<sup>2</sup><br/>(82.570 Yrths)
         volume: 8.127 × 10<sup>14</sup> km<sup>3</sup><br/>(750.295 Yrths)
-        mass: 1.544 × 10<sup>27</sup> kg<br />(95.40242451356004 Yrths)
+        mass: 1.544 × 10<sup>27</sup> kg<br />(258.569 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 30.710 m/s<sup>2</sup><br />(3.132 g<sub>0</sub>)
         escape_velocity: 59.670 km/s<br />(214,813 km/h)
         rotation_period: 39.652 d
         axial_tilt: 6.36°
         albedo: 0.30
-        temperature: 47 K<br />(-226 °C)
+        temperature: 82 K<br />(-192 °C)
   - name: 0438 Tanashad C VII
     type: Ice giant
     aphelion: 2,298,208,548 km<br />15.362 AU
@@ -866,14 +866,14 @@ planets:
     radius: 28,999.4 km<br/>(4.552 Yrths)
     surface_area: 1.057 × 10<sup>10</sup> km<sup>2</sup><br/>(20.719 Yrths)
     volume: 1.022 × 10<sup>14</sup> km<sup>3</sup><br/>(94.307 Yrths)
-    mass: 1.458 × 10<sup>26</sup> kg<br />(24.40584987839408 Yrths)
+    mass: 1.458 × 10<sup>26</sup> kg<br />(24.41 Yrths)
     density: 1.427 g/cm<sup>3</sup>
     surface_gravity: 11.552 m/s<sup>2</sup><br />(1.178 g<sub>0</sub>)
     escape_velocity: 25.902 km/s<br />(93,247 km/h)
     rotation_period: 0.330 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 111 K<br />(-162 °C)
+    temperature: 100 K<br />(-173 °C)
     composition:
       - 79.8074% hydrogen
       - 18.8155% helium
@@ -891,14 +891,14 @@ planets:
         radius: 26,415.0 km<br/>(4.146 Yrths)
         surface_area: 8.768 × 10<sup>09</sup> km<sup>2</sup><br/>(17.190 Yrths)
         volume: 7.720 × 10<sup>13</sup> km<sup>3</sup><br/>(71.274 Yrths)
-        mass: 1.637 × 10<sup>26</sup> kg<br />(24.40584987839408 Yrths)
+        mass: 1.637 × 10<sup>26</sup> kg<br />(27.418 Yrths)
         density: 2.121 g/cm<sup>3</sup>
         surface_gravity: 15.641 m/s<sup>2</sup><br />(1.595 g<sub>0</sub>)
         escape_velocity: 28.765 km/s<br />(103,555 km/h)
         rotation_period: 36.433 d
         axial_tilt: 17.81°
         albedo: 0.30
-        temperature: 484 K<br />(210 °C)
+        temperature: 62 K<br />(-211 °C)
       - name: 0438 Tanashad C VII b
         type: Dwarf planet
         formationType: Accreted
@@ -911,14 +911,14 @@ planets:
         radius: 30,177.0 km<br/>(4.737 Yrths)
         surface_area: 1.144 × 10<sup>10</sup> km<sup>2</sup><br/>(22.436 Yrths)
         volume: 1.151 × 10<sup>14</sup> km<sup>3</sup><br/>(106.268 Yrths)
-        mass: 2.722 × 10<sup>26</sup> kg<br />(24.40584987839408 Yrths)
+        mass: 2.722 × 10<sup>26</sup> kg<br />(45.585 Yrths)
         density: 2.365 g/cm<sup>3</sup>
         surface_gravity: 19.925 m/s<sup>2</sup><br />(2.032 g<sub>0</sub>)
         escape_velocity: 34.702 km/s<br />(124,926 km/h)
         rotation_period: 51.178 d
         axial_tilt: 42.60°
         albedo: 0.30
-        temperature: 400 K<br />(126 °C)
+        temperature: 62 K<br />(-211 °C)
       - name: 0438 Tanashad C VII c
         type: Icy
         formationType: Captured
@@ -931,14 +931,14 @@ planets:
         radius: 33,393.5 km<br/>(5.241 Yrths)
         surface_area: 1.401 × 10<sup>10</sup> km<sup>2</sup><br/>(27.473 Yrths)
         volume: 1.560 × 10<sup>14</sup> km<sup>3</sup><br/>(144.000 Yrths)
-        mass: 1.862 × 10<sup>26</sup> kg<br />(24.40584987839408 Yrths)
+        mass: 1.862 × 10<sup>26</sup> kg<br />(31.185 Yrths)
         density: 1.194 g/cm<sup>3</sup>
         surface_gravity: 11.132 m/s<sup>2</sup><br />(1.135 g<sub>0</sub>)
         escape_velocity: 27.285 km/s<br />(98,226 km/h)
         rotation_period: 46.902 d
         axial_tilt: 13.88°
         albedo: 0.30
-        temperature: 363 K<br />(90 °C)
+        temperature: 62 K<br />(-211 °C)
       - name: 0438 Tanashad C VII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -951,14 +951,14 @@ planets:
         radius: 20,115.3 km<br/>(3.157 Yrths)
         surface_area: 5.085 × 10<sup>09</sup> km<sup>2</sup><br/>(9.969 Yrths)
         volume: 3.409 × 10<sup>13</sup> km<sup>3</sup><br/>(31.474 Yrths)
-        mass: 8.373 × 10<sup>25</sup> kg<br />(24.40584987839408 Yrths)
+        mass: 8.373 × 10<sup>25</sup> kg<br />(14.021 Yrths)
         density: 2.456 g/cm<sup>3</sup>
         surface_gravity: 13.793 m/s<sup>2</sup><br />(1.406 g<sub>0</sub>)
         escape_velocity: 23.572 km/s<br />(84,860 km/h)
         rotation_period: 39.034 d
         axial_tilt: 18.58°
         albedo: 0.30
-        temperature: 330 K<br />(57 °C)
+        temperature: 62 K<br />(-211 °C)
       - name: 0438 Tanashad C VII e
         type: Icy
         formationType: Accreted
@@ -971,14 +971,14 @@ planets:
         radius: 31,385.5 km<br/>(4.926 Yrths)
         surface_area: 1.238 × 10<sup>10</sup> km<sup>2</sup><br/>(24.269 Yrths)
         volume: 1.295 × 10<sup>14</sup> km<sup>3</sup><br/>(119.554 Yrths)
-        mass: 2.421 × 10<sup>26</sup> kg<br />(24.40584987839408 Yrths)
+        mass: 2.421 × 10<sup>26</sup> kg<br />(40.542 Yrths)
         density: 1.870 g/cm<sup>3</sup>
         surface_gravity: 16.383 m/s<sup>2</sup><br />(1.671 g<sub>0</sub>)
         escape_velocity: 32.090 km/s<br />(115,523 km/h)
         rotation_period: 47.278 d
         axial_tilt: 17.27°
         albedo: 0.30
-        temperature: 300 K<br />(27 °C)
+        temperature: 62 K<br />(-211 °C)
       - name: 0438 Tanashad C VII f
         type: Icy
         formationType: Accreted
@@ -991,14 +991,14 @@ planets:
         radius: 38,857.7 km<br/>(6.099 Yrths)
         surface_area: 1.897 × 10<sup>10</sup> km<sup>2</sup><br/>(37.200 Yrths)
         volume: 2.458 × 10<sup>14</sup> km<sup>3</sup><br/>(226.886 Yrths)
-        mass: 3.775 × 10<sup>26</sup> kg<br />(24.40584987839408 Yrths)
+        mass: 3.775 × 10<sup>26</sup> kg<br />(63.210 Yrths)
         density: 1.536 g/cm<sup>3</sup>
         surface_gravity: 16.664 m/s<sup>2</sup><br />(1.699 g<sub>0</sub>)
         escape_velocity: 36.011 km/s<br />(129,639 km/h)
         rotation_period: 63.165 d
         axial_tilt: 14.33°
         albedo: 0.30
-        temperature: 286 K<br />(13 °C)
+        temperature: 62 K<br />(-211 °C)
       - name: 0438 Tanashad C VII g
         type: Dwarf planet
         formationType: Accreted
@@ -1011,14 +1011,14 @@ planets:
         radius: 20,596.0 km<br/>(3.233 Yrths)
         surface_area: 5.331 × 10<sup>09</sup> km<sup>2</sup><br/>(10.451 Yrths)
         volume: 3.660 × 10<sup>13</sup> km<sup>3</sup><br/>(33.785 Yrths)
-        mass: 1.025 × 10<sup>26</sup> kg<br />(24.40584987839408 Yrths)
+        mass: 1.025 × 10<sup>26</sup> kg<br />(17.158 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 16.101 m/s<sup>2</sup><br />(1.642 g<sub>0</sub>)
         escape_velocity: 25.771 km/s<br />(92,774 km/h)
         rotation_period: 30.263 d
         axial_tilt: 20.83°
         albedo: 0.30
-        temperature: 260 K<br />(-13 °C)
+        temperature: 62 K<br />(-211 °C)
   - name: 0438 Tanashad C VIII
     type: Ice giant
     aphelion: 4,191,565,638 km<br />28.018 AU
@@ -1030,14 +1030,14 @@ planets:
     radius: 21,805.1 km<br/>(3.423 Yrths)
     surface_area: 5.975 × 10<sup>09</sup> km<sup>2</sup><br/>(11.714 Yrths)
     volume: 4.343 × 10<sup>13</sup> km<sup>3</sup><br/>(40.091 Yrths)
-    mass: 5.305 × 10<sup>25</sup> kg<br />(8.882983037130584 Yrths)
+    mass: 5.305 × 10<sup>25</sup> kg<br />(8.88 Yrths)
     density: 1.222 g/cm<sup>3</sup>
     surface_gravity: 7.437 m/s<sup>2</sup><br />(0.758 g<sub>0</sub>)
     escape_velocity: 18.021 km/s<br />(64,876 km/h)
     rotation_period: 0.373 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 89 K<br />(-184 °C)
+    temperature: 82 K<br />(-191 °C)
     composition:
       - 78.6975% hydrogen
       - 12.7691% helium
@@ -1056,14 +1056,14 @@ planets:
         radius: 14,957.5 km<br/>(2.348 Yrths)
         surface_area: 2.811 × 10<sup>09</sup> km<sup>2</sup><br/>(5.512 Yrths)
         volume: 1.402 × 10<sup>13</sup> km<sup>3</sup><br/>(12.941 Yrths)
-        mass: 3.164 × 10<sup>25</sup> kg<br />(8.882983037130584 Yrths)
+        mass: 3.164 × 10<sup>25</sup> kg<br />(5.299 Yrths)
         density: 2.257 g/cm<sup>3</sup>
         surface_gravity: 9.427 m/s<sup>2</sup><br />(0.961 g<sub>0</sub>)
         escape_velocity: 16.805 km/s<br />(60,496 km/h)
         rotation_period: 46.067 d
         axial_tilt: 17.97°
         albedo: 0.30
-        temperature: 396 K<br />(123 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0438 Tanashad C VIII b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1076,14 +1076,14 @@ planets:
         radius: 11,912.3 km<br/>(1.870 Yrths)
         surface_area: 1.783 × 10<sup>09</sup> km<sup>2</sup><br/>(3.496 Yrths)
         volume: 7.081 × 10<sup>12</sup> km<sup>3</sup><br/>(6.537 Yrths)
-        mass: 1.673 × 10<sup>25</sup> kg<br />(8.882983037130584 Yrths)
+        mass: 1.673 × 10<sup>25</sup> kg<br />(2.801 Yrths)
         density: 2.362 g/cm<sup>3</sup>
         surface_gravity: 7.857 m/s<sup>2</sup><br />(0.801 g<sub>0</sub>)
         escape_velocity: 13.691 km/s<br />(49,288 km/h)
         rotation_period: 38.407 d
         axial_tilt: 9.81°
         albedo: 0.30
-        temperature: 360 K<br />(87 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0438 Tanashad C VIII c
         type: Icy
         formationType: Captured
@@ -1096,14 +1096,14 @@ planets:
         radius: 20,413.3 km<br/>(3.204 Yrths)
         surface_area: 5.236 × 10<sup>09</sup> km<sup>2</sup><br/>(10.266 Yrths)
         volume: 3.563 × 10<sup>13</sup> km<sup>3</sup><br/>(32.894 Yrths)
-        mass: 3.073 × 10<sup>25</sup> kg<br />(8.882983037130584 Yrths)
+        mass: 3.073 × 10<sup>25</sup> kg<br />(5.145 Yrths)
         density: 0.862 g/cm<sup>3</sup>
         surface_gravity: 4.915 m/s<sup>2</sup><br />(0.501 g<sub>0</sub>)
         escape_velocity: 14.175 km/s<br />(51,029 km/h)
         rotation_period: 89.868 d
         axial_tilt: 20.29°
         albedo: 0.30
-        temperature: 343 K<br />(70 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0438 Tanashad C VIII d
         type: Icy
         formationType: Accreted
@@ -1116,14 +1116,14 @@ planets:
         radius: 17,013.9 km<br/>(2.671 Yrths)
         surface_area: 3.638 × 10<sup>09</sup> km<sup>2</sup><br/>(7.132 Yrths)
         volume: 2.063 × 10<sup>13</sup> km<sup>3</sup><br/>(19.045 Yrths)
-        mass: 2.889 × 10<sup>25</sup> kg<br />(8.882983037130584 Yrths)
+        mass: 2.889 × 10<sup>25</sup> kg<br />(4.837 Yrths)
         density: 1.400 g/cm<sup>3</sup>
         surface_gravity: 6.651 m/s<sup>2</sup><br />(0.678 g<sub>0</sub>)
         escape_velocity: 15.054 km/s<br />(54,196 km/h)
         rotation_period: 44.631 d
         axial_tilt: 24.16°
         albedo: 0.30
-        temperature: 297 K<br />(24 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0438 Tanashad C VIII e
         type: Asteroid
         formationType: Captured
@@ -1136,14 +1136,14 @@ planets:
         radius: 10,015.3 km<br/>(1.572 Yrths)
         surface_area: 1.260 × 10<sup>09</sup> km<sup>2</sup><br/>(2.471 Yrths)
         volume: 4.208 × 10<sup>12</sup> km<sup>3</sup><br/>(3.885 Yrths)
-        mass: 1.176 × 10<sup>25</sup> kg<br />(8.882983037130584 Yrths)
+        mass: 1.176 × 10<sup>25</sup> kg<br />(1.970 Yrths)
         density: 2.796 g/cm<sup>3</sup>
         surface_gravity: 7.817 m/s<sup>2</sup><br />(0.797 g<sub>0</sub>)
         escape_velocity: 12.522 km/s<br />(45,078 km/h)
         rotation_period: 53.094 d
         axial_tilt: 35.95°
         albedo: 0.30
-        temperature: 284 K<br />(10 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0438 Tanashad C VIII f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1156,12 +1156,12 @@ planets:
         radius: 14,704.3 km<br/>(2.308 Yrths)
         surface_area: 2.717 × 10<sup>09</sup> km<sup>2</sup><br/>(5.327 Yrths)
         volume: 1.332 × 10<sup>13</sup> km<sup>3</sup><br/>(12.295 Yrths)
-        mass: 2.791 × 10<sup>25</sup> kg<br />(8.882983037130584 Yrths)
+        mass: 2.791 × 10<sup>25</sup> kg<br />(4.674 Yrths)
         density: 2.096 g/cm<sup>3</sup>
         surface_gravity: 8.605 m/s<sup>2</sup><br />(0.877 g<sub>0</sub>)
         escape_velocity: 15.919 km/s<br />(57,308 km/h)
         rotation_period: 35.994 d
         axial_tilt: 28.29°
         albedo: 0.30
-        temperature: 270 K<br />(-3 °C)
+        temperature: 47 K<br />(-226 °C)
 ---

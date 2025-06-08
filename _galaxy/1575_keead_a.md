@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1575 Keead A is a star in the constellation Kee
+      1575 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 551.56 ly
 apparent_magnitude: 7.92
 absolute_magnitude: 1.78

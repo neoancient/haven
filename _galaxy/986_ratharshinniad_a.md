@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      986 Ratharshinniad A is a star in the constellation Ratharshin
+      986 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 567.39 ly
 apparent_magnitude: 8.31
 absolute_magnitude: 2.11

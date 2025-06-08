@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      972 Narashiad A is a star in the constellation Naras
+      972 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 479.93 ly
 apparent_magnitude: 6.71
 absolute_magnitude: 0.87

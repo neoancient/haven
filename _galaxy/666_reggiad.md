@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      666 Reggiad is a star in the constellation Reg
+      666 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 270.19 ly
 apparent_magnitude: 9.55
 absolute_magnitude: 4.96

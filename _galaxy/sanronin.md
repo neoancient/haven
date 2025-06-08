@@ -26,7 +26,7 @@ planet:
   rotation_period: 1.026 d
   axial_tilt: 25.19°
   albedo: 0.25
-  temperature: 226 K<br />(-47 °C)
+  temperature: 228 K<br />(-45 °C)
   surface_pressure: 145 kPa<br />(1 atm)
   composition:
     - 77.3778% nitrogen
@@ -48,14 +48,14 @@ planet:
       radius: 11.1 km<br/>(0.002 Yrths)
       surface_area: 1.540 × 10<sup>03</sup> km<sup>2</sup><br/>(0.000 Yrths)
       volume: 5.682 × 10<sup>03</sup> km<sup>3</sup><br/>(0.000 Yrths)
-      mass: 1.066 × 10<sup>16</sup> kg<br />
+      mass: 1.066 × 10<sup>16</sup> kg<br />(0.000 Yrths)
       density: 1.876 g/cm<sup>3</sup>
       surface_gravity: 0.006 m/s<sup>2</sup><br />(0.001 g<sub>0</sub>)
       escape_velocity: 0.011 km/s<br />(41 km/h)
       rotation_period: 0.319 d
       axial_tilt: 0.00°
       albedo: 0.07
-      temperature: 34520 K<br />(34247 °C)
+      temperature: 221 K<br />(-52 °C)
     - name: <a href="donfi.html">Donfi</a>
       type: Asteroid
       formationType: Captured
@@ -68,12 +68,12 @@ planet:
       radius: 6.2 km<br/>(0.001 Yrths)
       surface_area: 4.847 × 10<sup>02</sup> km<sup>2</sup><br/>(0.000 Yrths)
       volume: 1.004 × 10<sup>03</sup> km<sup>3</sup><br/>(0.000 Yrths)
-      mass: 1.476 × 10<sup>15</sup> kg<br />
+      mass: 1.476 × 10<sup>15</sup> kg<br />(0.000 Yrths)
       density: 1.471 g/cm<sup>3</sup>
       surface_gravity: 0.003 m/s<sup>2</sup><br />(0.000 g<sub>0</sub>)
       escape_velocity: 0.006 km/s<br />(20 km/h)
       rotation_period: 1.263 d
       axial_tilt: 0.00°
       albedo: 0.07
-      temperature: 21839 K<br />(21566 °C)
+      temperature: 222 K<br />(-52 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Saithiad B is a star in the constellation Saith
+      ο Saithiad B is a star in the constellation <a href="saith.html">Saith</a>
 distance: 141.63 ly
 apparent_magnitude: 8.68
 absolute_magnitude: 5.49

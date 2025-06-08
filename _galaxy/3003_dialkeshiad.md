@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3003 Dialkeshiad is a star in the constellation Dialkes
+      3003 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 271.86 ly
 apparent_magnitude: 14.47
 absolute_magnitude: 9.86

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5282 Noniashad is a star in the constellation Nonias
+      5282 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 386.20 ly
 apparent_magnitude: 11.16
 absolute_magnitude: 5.79

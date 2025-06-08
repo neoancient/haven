@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2677 Narashiad is a star in the constellation Naras
+      2677 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 440.34 ly
 apparent_magnitude: 13.32
 absolute_magnitude: 7.67

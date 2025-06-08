@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1594 Dialkeshiad is a star in the constellation Dialkes
+      1594 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 484.67 ly
 apparent_magnitude: 8.60
 absolute_magnitude: 2.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      350 Keead is a star in the constellation Kee
+      350 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1049.55 ly
 apparent_magnitude: 9.50
 absolute_magnitude: 1.96

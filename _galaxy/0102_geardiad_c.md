@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0102 Geardiad C is a star in the constellation Geard
+      0102 Geardiad C is a star in the constellation <a href="geard.html">Geard</a>
 distance: 215.29 ly
 apparent_magnitude: 8.48
 absolute_magnitude: 4.38

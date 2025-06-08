@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2159 Narashiad is a star in the constellation Naras
+      2159 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 602.31 ly
 apparent_magnitude: 7.91
 absolute_magnitude: 1.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0019 Pokiad A is a star in the constellation Poke
+      0019 Pokiad A is a star in the constellation <a href="poke.html">Poke</a>
 distance: 326.21 ly
 apparent_magnitude: 6.81
 absolute_magnitude: 1.81

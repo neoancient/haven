@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3775 Narashiad is a star in the constellation Naras
+      3775 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 276.81 ly
 apparent_magnitude: 11.71
 absolute_magnitude: 7.06

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4003 Arkothiad A is a star in the constellation Arkoth
+      4003 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 446.72 ly
 apparent_magnitude: 7.99
 absolute_magnitude: 2.30

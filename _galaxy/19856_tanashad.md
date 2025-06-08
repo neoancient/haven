@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      19856 Tanashad is a star in the constellation Tanas
+      19856 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 653.30 ly
 apparent_magnitude: 11.79
 absolute_magnitude: 5.29

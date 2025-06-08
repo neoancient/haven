@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      186 Rukentuaiad A is a star in the constellation Rukentua
+      186 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 479.13 ly
 apparent_magnitude: 7.10
 absolute_magnitude: 1.26

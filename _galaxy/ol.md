@@ -8,7 +8,7 @@ sections:
       Ol is a constellation representing a Dome.
 stars:
   - name:
-    designation: α Olliad
+    designation: <a href="α_olliad.html">α Olliad</a>
     ra: 8<sup>h</sup> 18<sup>m</sup> 52.96<sup>s</sup>
     dec: 17° 45' 18.34"
     apparent_magnitude: 3.53
@@ -128,7 +128,7 @@ stars:
     distance: 1,299.43
     spectral_class: B6V + M8III
   - name:
-    designation: ξ Olliad
+    designation: <a href="ξ_olliad.html">ξ Olliad</a>
     ra: 8<sup>h</sup> 34<sup>m</sup> 9.91<sup>s</sup>
     dec: 11° 55' 37.08"
     apparent_magnitude: 5.05
@@ -176,7 +176,7 @@ stars:
     distance: 410.40
     spectral_class: A3IV
   - name:
-    designation: τ Olliad
+    designation: <a href="τ_olliad.html">τ Olliad</a>
     ra: 7<sup>h</sup> 54<sup>m</sup> 58.83<sup>s</sup>
     dec: 16° 36' 37.90"
     apparent_magnitude: 5.19
@@ -184,7 +184,7 @@ stars:
     distance: 283.18
     spectral_class: A4IV + F4V + F9V + G1V
   - name:
-    designation: φ Olliad
+    designation: <a href="φ_olliad.html">φ Olliad</a>
     ra: 8<sup>h</sup> 09<sup>m</sup> 16.83<sup>s</sup>
     dec: 16° 40' 36.23"
     apparent_magnitude: 5.24
@@ -216,7 +216,7 @@ stars:
     distance: 334.08
     spectral_class: A7III
   - name:
-    designation: 21 Olliad
+    designation: <a href="21_olliad.html">21 Olliad</a>
     ra: 8<sup>h</sup> 44<sup>m</sup> 24.91<sup>s</sup>
     dec: 31° 37' 49.80"
     apparent_magnitude: 5.41
@@ -232,7 +232,7 @@ stars:
     distance: 179.36
     spectral_class: A2V
   - name:
-    designation: ω Olliad
+    designation: <a href="ω_olliad.html">ω Olliad</a>
     ra: 7<sup>h</sup> 56<sup>m</sup> 25.18<sup>s</sup>
     dec: 19° 37' 9.57"
     apparent_magnitude: 5.41
@@ -240,7 +240,7 @@ stars:
     distance: 40.66
     spectral_class: F5V
   - name:
-    designation: 0002 Olliad
+    designation: <a href="0002_olliad.html">0002 Olliad</a>
     ra: 8<sup>h</sup> 50<sup>m</sup> 48.99<sup>s</sup>
     dec: 20° 34' 41.26"
     apparent_magnitude: 5.43
@@ -280,7 +280,7 @@ stars:
     distance: 1,238.19
     spectral_class: B7V + A1V
   - name:
-    designation: η Olliad
+    designation: <a href="η_olliad.html">η Olliad</a>
     ra: 8<sup>h</sup> 06<sup>m</sup> 12.41<sup>s</sup>
     dec: 9° 35' 39.58"
     apparent_magnitude: 5.49
@@ -320,7 +320,7 @@ stars:
     distance: 510.65
     spectral_class: A7II + M7III
   - name:
-    designation: 0091 Olliad
+    designation: <a href="0091_olliad.html">0091 Olliad</a>
     ra: 8<sup>h</sup> 48<sup>m</sup> 41.04<sup>s</sup>
     dec: 23° 28' 33.03"
     apparent_magnitude: 5.56
@@ -336,7 +336,7 @@ stars:
     distance: 373.43
     spectral_class: A8III
   - name:
-    designation: 0080 Olliad
+    designation: <a href="0080_olliad.html">0080 Olliad</a>
     ra: 8<sup>h</sup> 09<sup>m</sup> 40.50<sup>s</sup>
     dec: 26° 27' 9.81"
     apparent_magnitude: 5.58
@@ -424,7 +424,7 @@ stars:
     distance: 378.70
     spectral_class: K7Ib
   - name:
-    designation: 0058 Olliad
+    designation: <a href="0058_olliad.html">0058 Olliad</a>
     ra: 8<sup>h</sup> 15<sup>m</sup> 26.01<sup>s</sup>
     dec: 21° 05' 1.19"
     apparent_magnitude: 5.69
@@ -448,7 +448,7 @@ stars:
     distance: 654.12
     spectral_class: A6III + A8III + M9III
   - name:
-    designation: 0117 Olliad
+    designation: <a href="0117_olliad.html">0117 Olliad</a>
     ra: 8<sup>h</sup> 56<sup>m</sup> 35.71<sup>s</sup>
     dec: 31° 54' 52.16"
     apparent_magnitude: 5.79
@@ -480,7 +480,7 @@ stars:
     distance: 174.32
     spectral_class: A2V
   - name:
-    designation: 0043 Olliad
+    designation: <a href="0043_olliad.html">0043 Olliad</a>
     ra: 8<sup>h</sup> 17<sup>m</sup> 46.89<sup>s</sup>
     dec: 16° 20' 33.13"
     apparent_magnitude: 5.85
@@ -592,7 +592,7 @@ stars:
     distance: 60.58
     spectral_class: F9V + G9V
   - name:
-    designation: 0042 Olliad
+    designation: <a href="0042_olliad.html">0042 Olliad</a>
     ra: 8<sup>h</sup> 08<sup>m</sup> 12.01<sup>s</sup>
     dec: 18° 10' 0.13"
     apparent_magnitude: 5.99
@@ -600,7 +600,7 @@ stars:
     distance: 45.27
     spectral_class: G1V
   - name:
-    designation: 46 Olliad
+    designation: <a href="46_olliad.html">46 Olliad</a>
     ra: 9<sup>h</sup> 16<sup>m</sup> 9.99<sup>s</sup>
     dec: 25° 09' 34.13"
     apparent_magnitude: 5.99
@@ -632,7 +632,7 @@ stars:
     distance: 140.74
     spectral_class: A6V
   - name:
-    designation: 0085 Olliad
+    designation: <a href="0085_olliad.html">0085 Olliad</a>
     ra: 8<sup>h</sup> 12<sup>m</sup> 4.22<sup>s</sup>
     dec: 23° 22' 24.44"
     apparent_magnitude: 6.01
@@ -648,7 +648,7 @@ stars:
     distance: 1,445.86
     spectral_class: A1III + A2III
   - name:
-    designation: 48 Olliad
+    designation: <a href="48_olliad.html">48 Olliad</a>
     ra: 9<sup>h</sup> 09<sup>m</sup> 40.99<sup>s</sup>
     dec: 30° 20' 24.93"
     apparent_magnitude: 6.02
@@ -760,7 +760,7 @@ stars:
     distance: 250.50
     spectral_class: A2V + M7III
   - name:
-    designation: 0088 Olliad
+    designation: <a href="0088_olliad.html">0088 Olliad</a>
     ra: 9<sup>h</sup> 06<sup>m</sup> 38.92<sup>s</sup>
     dec: 23° 21' 56.26"
     apparent_magnitude: 6.15
@@ -784,7 +784,7 @@ stars:
     distance: 124.63
     spectral_class: A8V + G6V
   - name:
-    designation: 0074 Olliad
+    designation: <a href="0074_olliad.html">0074 Olliad</a>
     ra: 7<sup>h</sup> 54<sup>m</sup> 56.21<sup>s</sup>
     dec: 24° 41' 2.04"
     apparent_magnitude: 6.16
@@ -832,7 +832,7 @@ stars:
     distance: 200.43
     spectral_class: A3V
   - name:
-    designation: 0030 Olliad
+    designation: <a href="0030_olliad.html">0030 Olliad</a>
     ra: 8<sup>h</sup> 28<sup>m</sup> 57.82<sup>s</sup>
     dec: 11° 29' 36.97"
     apparent_magnitude: 6.21
@@ -856,7 +856,7 @@ stars:
     distance: 520.74
     spectral_class: A3IV
   - name:
-    designation: 0087 Olliad
+    designation: <a href="0087_olliad.html">0087 Olliad</a>
     ra: 8<sup>h</sup> 33<sup>m</sup> 58.59<sup>s</sup>
     dec: 26° 54' 0.73"
     apparent_magnitude: 6.21
@@ -912,7 +912,7 @@ stars:
     distance: 229.75
     spectral_class: A3V + F6V + F7V
   - name:
-    designation: 0046 Olliad
+    designation: <a href="0046_olliad.html">0046 Olliad</a>
     ra: 8<sup>h</sup> 42<sup>m</sup> 25.53<sup>s</sup>
     dec: 17° 39' 7.06"
     apparent_magnitude: 6.25
@@ -920,7 +920,7 @@ stars:
     distance: 717.68
     spectral_class: A5III
   - name:
-    designation: 0075 Olliad
+    designation: <a href="0075_olliad.html">0075 Olliad</a>
     ra: 8<sup>h</sup> 05<sup>m</sup> 59.72<sup>s</sup>
     dec: 24° 54' 3.38"
     apparent_magnitude: 6.26
@@ -928,7 +928,7 @@ stars:
     distance: 107.69
     spectral_class: K0III
   - name:
-    designation: 0025 Olliad
+    designation: <a href="0025_olliad.html">0025 Olliad</a>
     ra: 8<sup>h</sup> 51<sup>m</sup> 41.89<sup>s</sup>
     dec: 9° 43' 42.61"
     apparent_magnitude: 6.26
@@ -1008,7 +1008,7 @@ stars:
     distance: 540.36
     spectral_class: A5IV
   - name:
-    designation: 0049 Olliad
+    designation: <a href="0049_olliad.html">0049 Olliad</a>
     ra: 8<sup>h</sup> 48<sup>m</sup> 14.71<sup>s</sup>
     dec: 18° 47' 24.15"
     apparent_magnitude: 6.34
@@ -1016,7 +1016,7 @@ stars:
     distance: 194.97
     spectral_class: A5V + K3V + F9V
   - name:
-    designation: 0089 Olliad
+    designation: <a href="0089_olliad.html">0089 Olliad</a>
     ra: 9<sup>h</sup> 16<sup>m</sup> 4.94<sup>s</sup>
     dec: 25° 31' 57.34"
     apparent_magnitude: 6.34
@@ -1048,7 +1048,7 @@ stars:
     distance: 820.68
     spectral_class: A5III + M9III
   - name:
-    designation: 0070 Olliad
+    designation: <a href="0070_olliad.html">0070 Olliad</a>
     ra: 8<sup>h</sup> 56<sup>m</sup> 26.78<sup>s</sup>
     dec: 20° 13' 28.45"
     apparent_magnitude: 6.35
@@ -1064,7 +1064,7 @@ stars:
     distance: 577.96
     spectral_class: A8III
   - name:
-    designation: 0039 Olliad
+    designation: <a href="0039_olliad.html">0039 Olliad</a>
     ra: 9<sup>h</sup> 15<sup>m</sup> 7.05<sup>s</sup>
     dec: 15° 02' 23.91"
     apparent_magnitude: 6.37
@@ -1072,7 +1072,7 @@ stars:
     distance: 280.70
     spectral_class: A2V
   - name:
-    designation: 0052 Olliad
+    designation: <a href="0052_olliad.html">0052 Olliad</a>
     ra: 8<sup>h</sup> 58<sup>m</sup> 5.94<sup>s</sup>
     dec: 18° 54' 41.68"
     apparent_magnitude: 6.38
@@ -1080,7 +1080,7 @@ stars:
     distance: 50.02
     spectral_class: G7V
   - name:
-    designation: 0037 Olliad
+    designation: <a href="0037_olliad.html">0037 Olliad</a>
     ra: 9<sup>h</sup> 09<sup>m</sup> 23.39<sup>s</sup>
     dec: 14° 47' 25.80"
     apparent_magnitude: 6.39
@@ -1144,7 +1144,7 @@ stars:
     distance: 826.98
     spectral_class: A1IV + A3V
   - name:
-    designation: 0038 Olliad
+    designation: <a href="0038_olliad.html">0038 Olliad</a>
     ra: 9<sup>h</sup> 11<sup>m</sup> 27.49<sup>s</sup>
     dec: 14° 36' 33.41"
     apparent_magnitude: 6.43
@@ -1152,7 +1152,7 @@ stars:
     distance: 99.97
     spectral_class: F6IV + M2V + DA + M3V
   - name:
-    designation: 86 Olliad
+    designation: <a href="86_olliad.html">86 Olliad</a>
     ra: 9<sup>h</sup> 11<sup>m</sup> 49.71<sup>s</sup>
     dec: 18° 28' 41.52"
     apparent_magnitude: 6.44
@@ -1176,7 +1176,7 @@ stars:
     distance: 219.78
     spectral_class: A5V
   - name:
-    designation: 0016 Olliad
+    designation: <a href="0016_olliad.html">0016 Olliad</a>
     ra: 8<sup>h</sup> 28<sup>m</sup> 56.97<sup>s</sup>
     dec: 8° 01' 8.17"
     apparent_magnitude: 6.45
@@ -1184,7 +1184,7 @@ stars:
     distance: 401.46
     spectral_class: F2III + K9III + G4V
   - name:
-    designation: 0066 Olliad
+    designation: <a href="0066_olliad.html">0066 Olliad</a>
     ra: 8<sup>h</sup> 45<sup>m</sup> 15.85<sup>s</sup>
     dec: 22° 50' 7.92"
     apparent_magnitude: 6.46
@@ -1216,7 +1216,7 @@ stars:
     distance: 831.59
     spectral_class: A5III
   - name:
-    designation: 0021 Olliad
+    designation: <a href="0021_olliad.html">0021 Olliad</a>
     ra: 8<sup>h</sup> 33<sup>m</sup> 19.41<sup>s</sup>
     dec: 9° 17' 53.37"
     apparent_magnitude: 6.49
@@ -1256,7 +1256,7 @@ stars:
     distance: 195.61
     spectral_class: M9V + K4V
   - name:
-    designation: 124 Olliad
+    designation: <a href="124_olliad.html">124 Olliad</a>
     ra: 8<sup>h</sup> 52<sup>m</sup> 15.66<sup>s</sup>
     dec: 30° 15' 13.53"
     apparent_magnitude: 6.71
@@ -1280,7 +1280,7 @@ stars:
     distance: 217.47
     spectral_class: F5V
   - name:
-    designation: 174 Olliad
+    designation: <a href="174_olliad.html">174 Olliad</a>
     ra: 9<sup>h</sup> 12<sup>m</sup> 47.76<sup>s</sup>
     dec: 28° 50' 41.07"
     apparent_magnitude: 6.95
@@ -1304,7 +1304,7 @@ stars:
     distance: 940.83
     spectral_class: A5III
   - name:
-    designation: 261 Olliad
+    designation: <a href="261_olliad.html">261 Olliad</a>
     ra: 9<sup>h</sup> 14<sup>m</sup> 28.37<sup>s</sup>
     dec: 32° 31' 45.75"
     apparent_magnitude: 7.25
@@ -1312,7 +1312,7 @@ stars:
     distance: 214.73
     spectral_class: G8V
   - name:
-    designation: 285 Olliad
+    designation: <a href="285_olliad.html">285 Olliad</a>
     ra: 9<sup>h</sup> 05<sup>m</sup> 45.63<sup>s</sup>
     dec: 26° 24' 28.75"
     apparent_magnitude: 7.31
@@ -1352,7 +1352,7 @@ stars:
     distance: 867.47
     spectral_class: F9V + A3IV
   - name:
-    designation: 739 Olliad
+    designation: <a href="739_olliad.html">739 Olliad</a>
     ra: 9<sup>h</sup> 03<sup>m</sup> 51.12<sup>s</sup>
     dec: 25° 04' 6.34"
     apparent_magnitude: 8.00

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6051 Dialkeshiad is a star in the constellation Dialkes
+      6051 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 263.98 ly
 apparent_magnitude: 10.88
 absolute_magnitude: 6.34
@@ -31,14 +31,14 @@ planets:
     radius: 9,694.0 km<br/>(1.522 Yrths)
     surface_area: 1.181 × 10<sup>09</sup> km<sup>2</sup><br/>(2.315 Yrths)
     volume: 3.816 × 10<sup>12</sup> km<sup>3</sup><br/>(3.523 Yrths)
-    mass: 2.736 × 10<sup>25</sup> kg<br />(4.581789723760415 Yrths)
+    mass: 2.736 × 10<sup>25</sup> kg<br />(4.58 Yrths)
     density: 7.171 g/cm<sup>3</sup>
     surface_gravity: 19.407 m/s<sup>2</sup><br />(1.979 g<sub>0</sub>)
     escape_velocity: 19.411 km/s<br />(69,879 km/h)
     rotation_period: 0.820 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 501 K<br />(228 °C)
+    temperature: 1401 K<br />(1128 °C)
     surface_pressure: 114 kPa<br />(1 atm)
     composition:
       - 96.6221% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 8,353.8 km<br/>(1.311 Yrths)
         surface_area: 8.769 × 10<sup>08</sup> km<sup>2</sup><br/>(1.719 Yrths)
         volume: 2.442 × 10<sup>12</sup> km<sup>3</sup><br/>(2.254 Yrths)
-        mass: 3.312 × 10<sup>24</sup> kg<br />(4.581789723760415 Yrths)
+        mass: 3.312 × 10<sup>24</sup> kg<br />(0.555 Yrths)
         density: 1.356 g/cm<sup>3</sup>
         surface_gravity: 3.163 m/s<sup>2</sup><br />(0.323 g<sub>0</sub>)
         escape_velocity: 7.275 km/s<br />(26,188 km/h)
         rotation_period: 63.944 d
         axial_tilt: 20.01°
         albedo: 0.30
-        temperature: 4348 K<br />(4075 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 6051 Dialkeshiad II
     type: Terrestrial
     aphelion: 102,104,342 km<br />0.683 AU
@@ -76,14 +76,14 @@ planets:
     radius: 6,872.4 km<br/>(1.079 Yrths)
     surface_area: 5.935 × 10<sup>08</sup> km<sup>2</sup><br/>(1.164 Yrths)
     volume: 1.360 × 10<sup>12</sup> km<sup>3</sup><br/>(1.255 Yrths)
-    mass: 6.594 × 10<sup>24</sup> kg<br />(1.1041577234675195 Yrths)
+    mass: 6.594 × 10<sup>24</sup> kg<br />(1.10 Yrths)
     density: 4.850 g/cm<sup>3</sup>
     surface_gravity: 9.306 m/s<sup>2</sup><br />(0.949 g<sub>0</sub>)
     escape_velocity: 11.317 km/s<br />(40,742 km/h)
     rotation_period: 1.209 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 358 K<br />(85 °C)
+    temperature: 1036 K<br />(763 °C)
     surface_pressure: 24 kPa<br />(0 atm)
     composition:
       - 94.2670% carbon dioxide
@@ -102,14 +102,14 @@ planets:
         radius: 2,057.7 km<br/>(0.323 Yrths)
         surface_area: 5.321 × 10<sup>07</sup> km<sup>2</sup><br/>(0.104 Yrths)
         volume: 3.650 × 10<sup>10</sup> km<sup>3</sup><br/>(0.034 Yrths)
-        mass: 1.236 × 10<sup>23</sup> kg<br />(1.1041577234675195 Yrths)
+        mass: 1.236 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 3.387 g/cm<sup>3</sup>
         surface_gravity: 1.946 m/s<sup>2</sup><br />(0.198 g<sub>0</sub>)
         escape_velocity: 2.832 km/s<br />(10,195 km/h)
         rotation_period: 41.307 d
         axial_tilt: 19.57°
         albedo: 0.30
-        temperature: 4259 K<br />(3986 °C)
+        temperature: 247 K<br />(-26 °C)
       - name: 6051 Dialkeshiad II b
         type: Rocky
         formationType: Impact formed
@@ -122,14 +122,14 @@ planets:
         radius: 2,370.6 km<br/>(0.372 Yrths)
         surface_area: 7.062 × 10<sup>07</sup> km<sup>2</sup><br/>(0.138 Yrths)
         volume: 5.580 × 10<sup>10</sup> km<sup>3</sup><br/>(0.052 Yrths)
-        mass: 1.643 × 10<sup>23</sup> kg<br />(1.1041577234675195 Yrths)
+        mass: 1.643 × 10<sup>23</sup> kg<br />(0.028 Yrths)
         density: 2.943 g/cm<sup>3</sup>
         surface_gravity: 1.948 m/s<sup>2</sup><br />(0.199 g<sub>0</sub>)
         escape_velocity: 3.041 km/s<br />(10,948 km/h)
         rotation_period: 33.859 d
         axial_tilt: 14.77°
         albedo: 0.30
-        temperature: 4061 K<br />(3787 °C)
+        temperature: 247 K<br />(-26 °C)
   - name: 6051 Dialkeshiad III
     type: Large terrestrial
     aphelion: 175,845,475 km<br />1.175 AU
@@ -141,14 +141,14 @@ planets:
     radius: 6,559.6 km<br/>(1.030 Yrths)
     surface_area: 5.407 × 10<sup>08</sup> km<sup>2</sup><br/>(1.060 Yrths)
     volume: 1.182 × 10<sup>12</sup> km<sup>3</sup><br/>(1.091 Yrths)
-    mass: 7.601 × 10<sup>24</sup> kg<br />(1.2727399212552057 Yrths)
+    mass: 7.601 × 10<sup>24</sup> kg<br />(1.27 Yrths)
     density: 6.429 g/cm<sup>3</sup>
     surface_gravity: 11.774 m/s<sup>2</sup><br />(1.201 g<sub>0</sub>)
     escape_velocity: 12.437 km/s<br />(44,772 km/h)
     rotation_period: 0.926 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 239 K<br />(-35 °C)
+    temperature: 234 K<br />(-39 °C)
     surface_pressure: 171 kPa<br />(2 atm)
     composition:
       - 72.2803% nitrogen
@@ -168,14 +168,14 @@ planets:
         radius: 3,817.8 km<br/>(0.599 Yrths)
         surface_area: 1.832 × 10<sup>08</sup> km<sup>2</sup><br/>(0.359 Yrths)
         volume: 2.331 × 10<sup>11</sup> km<sup>3</sup><br/>(0.215 Yrths)
-        mass: 6.565 × 10<sup>23</sup> kg<br />(1.2727399212552057 Yrths)
+        mass: 6.565 × 10<sup>23</sup> kg<br />(0.110 Yrths)
         density: 2.817 g/cm<sup>3</sup>
         surface_gravity: 3.002 m/s<sup>2</sup><br />(0.306 g<sub>0</sub>)
         escape_velocity: 4.791 km/s<br />(17,248 km/h)
         rotation_period: 48.629 d
         axial_tilt: 9.20°
         albedo: 0.30
-        temperature: 2493 K<br />(2220 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 6051 Dialkeshiad III b
         type: Rocky
         formationType: Accreted
@@ -188,14 +188,14 @@ planets:
         radius: 853.8 km<br/>(0.134 Yrths)
         surface_area: 9.160 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.607 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 8.002 × 10<sup>21</sup> kg<br />(1.2727399212552057 Yrths)
+        mass: 8.002 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.069 g/cm<sup>3</sup>
         surface_gravity: 0.732 m/s<sup>2</sup><br />(0.075 g<sub>0</sub>)
         escape_velocity: 1.119 km/s<br />(4,027 km/h)
         rotation_period: 37.101 d
         axial_tilt: 11.13°
         albedo: 0.30
-        temperature: 2377 K<br />(2104 °C)
+        temperature: 192 K<br />(-81 °C)
   - name: 6051 Dialkeshiad IV
     type: Gas giant
     aphelion: 294,188,030 km<br />1.966 AU
@@ -207,7 +207,7 @@ planets:
     radius: 174.5 km<br/>(0.027 Yrths)
     surface_area: 3.825 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.224 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.602 × 10<sup>26</sup> kg<br />(93.80500804361752 Yrths)
+    mass: 5.602 × 10<sup>26</sup> kg<br />(93.81 Yrths)
     density: 25183451.483 g/cm<sup>3</sup>
     surface_gravity: 1226687.487 m/s<sup>2</sup><br />(125087.312 g<sub>0</sub>)
     escape_velocity: 654.687 km/s<br />(2,356,874 km/h)
@@ -228,14 +228,14 @@ planets:
         radius: 111,440.2 km<br/>(17.492 Yrths)
         surface_area: 1.561 × 10<sup>11</sup> km<sup>2</sup><br/>(305.962 Yrths)
         volume: 5.797 × 10<sup>15</sup> km<sup>3</sup><br/>(5351.830 Yrths)
-        mass: 1.194 × 10<sup>28</sup> kg<br />(93.80500804361752 Yrths)
+        mass: 1.194 × 10<sup>28</sup> kg<br />(1998.789 Yrths)
         density: 2.059 g/cm<sup>3</sup>
         surface_gravity: 64.065 m/s<sup>2</sup><br />(6.533 g<sub>0</sub>)
         escape_velocity: 119.575 km/s<br />(430,470 km/h)
         rotation_period: 54.341 d
         axial_tilt: 42.32°
         albedo: 0.30
-        temperature: 852 K<br />(579 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 6051 Dialkeshiad IV b
         type: Rocky
         formationType: Captured
@@ -248,14 +248,14 @@ planets:
         radius: 91,996.4 km<br/>(14.440 Yrths)
         surface_area: 1.064 × 10<sup>11</sup> km<sup>2</sup><br/>(208.510 Yrths)
         volume: 3.261 × 10<sup>15</sup> km<sup>3</sup><br/>(3010.857 Yrths)
-        mass: 8.244 × 10<sup>27</sup> kg<br />(93.80500804361752 Yrths)
+        mass: 8.244 × 10<sup>27</sup> kg<br />(1380.372 Yrths)
         density: 2.528 g/cm<sup>3</sup>
         surface_gravity: 64.922 m/s<sup>2</sup><br />(6.620 g<sub>0</sub>)
         escape_velocity: 109.368 km/s<br />(393,725 km/h)
         rotation_period: 32.035 d
         axial_tilt: 14.56°
         albedo: 0.30
-        temperature: 459 K<br />(185 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 6051 Dialkeshiad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -268,14 +268,14 @@ planets:
         radius: 100,090.5 km<br/>(15.710 Yrths)
         surface_area: 1.259 × 10<sup>11</sup> km<sup>2</sup><br/>(246.814 Yrths)
         volume: 4.200 × 10<sup>15</sup> km<sup>3</sup><br/>(3877.531 Yrths)
-        mass: 1.028 × 10<sup>28</sup> kg<br />(93.80500804361752 Yrths)
+        mass: 1.028 × 10<sup>28</sup> kg<br />(1720.618 Yrths)
         density: 2.446 g/cm<sup>3</sup>
         surface_gravity: 68.365 m/s<sup>2</sup><br />(6.971 g<sub>0</sub>)
         escape_velocity: 117.064 km/s<br />(421,431 km/h)
         rotation_period: 57.649 d
         axial_tilt: 12.52°
         albedo: 0.30
-        temperature: 417 K<br />(144 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 6051 Dialkeshiad IV d
         type: Rocky
         formationType: Accreted
@@ -288,14 +288,14 @@ planets:
         radius: 84,033.4 km<br/>(13.190 Yrths)
         surface_area: 8.874 × 10<sup>10</sup> km<sup>2</sup><br/>(173.976 Yrths)
         volume: 2.486 × 10<sup>15</sup> km<sup>3</sup><br/>(2294.736 Yrths)
-        mass: 7.596 × 10<sup>27</sup> kg<br />(93.80500804361752 Yrths)
+        mass: 7.596 × 10<sup>27</sup> kg<br />(1272.019 Yrths)
         density: 3.056 g/cm<sup>3</sup>
         surface_gravity: 71.701 m/s<sup>2</sup><br />(7.311 g<sub>0</sub>)
         escape_velocity: 109.850 km/s<br />(395,459 km/h)
         rotation_period: 32.385 d
         axial_tilt: 17.88°
         albedo: 0.30
-        temperature: 127 K<br />(-146 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 6051 Dialkeshiad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -308,14 +308,14 @@ planets:
         radius: 95,997.1 km<br/>(15.068 Yrths)
         surface_area: 1.158 × 10<sup>11</sup> km<sup>2</sup><br/>(227.039 Yrths)
         volume: 3.706 × 10<sup>15</sup> km<sup>3</sup><br/>(3420.987 Yrths)
-        mass: 9.007 × 10<sup>27</sup> kg<br />(93.80500804361752 Yrths)
+        mass: 9.007 × 10<sup>27</sup> kg<br />(1508.232 Yrths)
         density: 2.431 g/cm<sup>3</sup>
         surface_gravity: 65.146 m/s<sup>2</sup><br />(6.643 g<sub>0</sub>)
         escape_velocity: 111.914 km/s<br />(402,889 km/h)
         rotation_period: 56.385 d
         axial_tilt: 29.89°
         albedo: 0.30
-        temperature: 121 K<br />(-152 °C)
+        temperature: 149 K<br />(-124 °C)
   - name: 6051 Dialkeshiad V
     type: Large terrestrial
     aphelion: 474,042,384 km<br />3.169 AU
@@ -327,14 +327,14 @@ planets:
     radius: 5,245.4 km<br/>(0.823 Yrths)
     surface_area: 3.458 × 10<sup>08</sup> km<sup>2</sup><br/>(0.678 Yrths)
     volume: 6.045 × 10<sup>11</sup> km<sup>3</sup><br/>(0.558 Yrths)
-    mass: 3.375 × 10<sup>24</sup> kg<br />(0.5652105961943562 Yrths)
+    mass: 3.375 × 10<sup>24</sup> kg<br />(0.57 Yrths)
     density: 5.584 g/cm<sup>3</sup>
     surface_gravity: 8.177 m/s<sup>2</sup><br />(0.834 g<sub>0</sub>)
     escape_velocity: 9.268 km/s<br />(33,365 km/h)
     rotation_period: 1.028 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 146 K<br />(-127 °C)
+    temperature: 179 K<br />(-94 °C)
     surface_pressure: 118 kPa<br />(1 atm)
     composition:
       - 92.0195% methane
@@ -353,14 +353,14 @@ planets:
         radius: 1,343.5 km<br/>(0.211 Yrths)
         surface_area: 2.268 × 10<sup>07</sup> km<sup>2</sup><br/>(0.044 Yrths)
         volume: 1.016 × 10<sup>10</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 1.634 × 10<sup>22</sup> kg<br />(0.5652105961943562 Yrths)
+        mass: 1.634 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.609 g/cm<sup>3</sup>
         surface_gravity: 0.603 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 1.274 km/s<br />(4,587 km/h)
         rotation_period: 54.985 d
         axial_tilt: 20.03°
         albedo: 0.30
-        temperature: 1790 K<br />(1517 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 6051 Dialkeshiad V b
         type: Rocky
         formationType: Accreted
@@ -373,12 +373,12 @@ planets:
         radius: 1,684.7 km<br/>(0.264 Yrths)
         surface_area: 3.567 × 10<sup>07</sup> km<sup>2</sup><br/>(0.070 Yrths)
         volume: 2.003 × 10<sup>10</sup> km<sup>3</sup><br/>(0.018 Yrths)
-        mass: 6.107 × 10<sup>22</sup> kg<br />(0.5652105961943562 Yrths)
+        mass: 6.107 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 3.049 g/cm<sup>3</sup>
         surface_gravity: 1.434 m/s<sup>2</sup><br />(0.146 g<sub>0</sub>)
         escape_velocity: 2.200 km/s<br />(7,919 km/h)
         rotation_period: 43.803 d
         axial_tilt: 17.75°
         albedo: 0.30
-        temperature: 1707 K<br />(1434 °C)
+        temperature: 116 K<br />(-157 °C)
 ---

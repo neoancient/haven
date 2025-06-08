@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8130 Tanashad A is a star in the constellation Tanas
+      8130 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 176.34 ly
 apparent_magnitude: 7.25
 absolute_magnitude: 3.58

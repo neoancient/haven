@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1277 Oniad is a star in the constellation Oni
+      1277 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 951.78 ly
 apparent_magnitude: 14.86
 absolute_magnitude: 7.54

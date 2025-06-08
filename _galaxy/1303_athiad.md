@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1303 Athiad is a star in the constellation Ath
+      1303 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1407.82 ly
 apparent_magnitude: 12.85
 absolute_magnitude: 4.68

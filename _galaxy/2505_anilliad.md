@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2505 Anilliad is a star in the constellation Anil
+      2505 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 509.05 ly
 apparent_magnitude: 11.76
 absolute_magnitude: 5.79

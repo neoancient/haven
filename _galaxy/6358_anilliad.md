@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6358 Anilliad is a star in the constellation Anil
+      6358 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 189.30 ly
 apparent_magnitude: 10.10
 absolute_magnitude: 6.28
@@ -31,14 +31,14 @@ planets:
     radius: 2,845.8 km<br/>(0.447 Yrths)
     surface_area: 1.018 × 10<sup>08</sup> km<sup>2</sup><br/>(0.200 Yrths)
     volume: 9.654 × 10<sup>10</sup> km<sup>3</sup><br/>(0.089 Yrths)
-    mass: 1.842 × 10<sup>25</sup> kg<br />(3.0851514384694765 Yrths)
+    mass: 1.842 × 10<sup>25</sup> kg<br />(3.09 Yrths)
     density: 190.850 g/cm<sup>3</sup>
     surface_gravity: 151.636 m/s<sup>2</sup><br />(15.463 g<sub>0</sub>)
     escape_velocity: 29.398 km/s<br />(105,832 km/h)
     rotation_period: 1.871 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 610 K<br />(337 °C)
+    temperature: 1500 K<br />(1227 °C)
     surface_pressure: 712 kPa<br />(7 atm)
     composition:
       - 76.4761% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 5,081.7 km<br/>(0.798 Yrths)
         surface_area: 3.245 × 10<sup>08</sup> km<sup>2</sup><br/>(0.636 Yrths)
         volume: 5.497 × 10<sup>11</sup> km<sup>3</sup><br/>(0.507 Yrths)
-        mass: 1.808 × 10<sup>24</sup> kg<br />(3.0851514384694765 Yrths)
+        mass: 1.808 × 10<sup>24</sup> kg<br />(0.303 Yrths)
         density: 3.289 g/cm<sup>3</sup>
         surface_gravity: 4.666 m/s<sup>2</sup><br />(0.476 g<sub>0</sub>)
         escape_velocity: 6.891 km/s<br />(24,808 km/h)
         rotation_period: 28.475 d
         axial_tilt: 7.49°
         albedo: 0.30
-        temperature: 5337 K<br />(5064 °C)
+        temperature: 360 K<br />(86 °C)
       - name: 6358 Anilliad I b
         type: Rocky
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 3,916.9 km<br/>(0.615 Yrths)
         surface_area: 1.928 × 10<sup>08</sup> km<sup>2</sup><br/>(0.378 Yrths)
         volume: 2.517 × 10<sup>11</sup> km<sup>3</sup><br/>(0.232 Yrths)
-        mass: 6.217 × 10<sup>23</sup> kg<br />(3.0851514384694765 Yrths)
+        mass: 6.217 × 10<sup>23</sup> kg<br />(0.104 Yrths)
         density: 2.470 g/cm<sup>3</sup>
         surface_gravity: 2.701 m/s<sup>2</sup><br />(0.275 g<sub>0</sub>)
         escape_velocity: 4.603 km/s<br />(16,570 km/h)
         rotation_period: 32.638 d
         axial_tilt: 21.21°
         albedo: 0.30
-        temperature: 5089 K<br />(4816 °C)
+        temperature: 360 K<br />(86 °C)
   - name: 6358 Anilliad II
     type: Ice giant
     aphelion: 139,475,420 km<br />0.932 AU
@@ -95,14 +95,14 @@ planets:
     radius: 12,311.2 km<br/>(1.932 Yrths)
     surface_area: 1.905 × 10<sup>09</sup> km<sup>2</sup><br/>(3.734 Yrths)
     volume: 7.816 × 10<sup>12</sup> km<sup>3</sup><br/>(7.216 Yrths)
-    mass: 5.388 × 10<sup>25</sup> kg<br />(9.021574548527543 Yrths)
+    mass: 5.388 × 10<sup>25</sup> kg<br />(9.02 Yrths)
     density: 6.893 g/cm<sup>3</sup>
     surface_gravity: 23.693 m/s<sup>2</sup><br />(2.416 g<sub>0</sub>)
     escape_velocity: 24.170 km/s<br />(87,010 km/h)
     rotation_period: 1.100 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 468 K<br />(195 °C)
+    temperature: 420 K<br />(147 °C)
     composition:
       - 52.5481% helium
       - 47.4519% hydrogen
@@ -119,14 +119,14 @@ planets:
         radius: 16,444.8 km<br/>(2.581 Yrths)
         surface_area: 3.398 × 10<sup>09</sup> km<sup>2</sup><br/>(6.663 Yrths)
         volume: 1.863 × 10<sup>13</sup> km<sup>3</sup><br/>(17.197 Yrths)
-        mass: 1.831 × 10<sup>25</sup> kg<br />(9.021574548527543 Yrths)
+        mass: 1.831 × 10<sup>25</sup> kg<br />(3.066 Yrths)
         density: 0.983 g/cm<sup>3</sup>
         surface_gravity: 4.513 m/s<sup>2</sup><br />(0.460 g<sub>0</sub>)
         escape_velocity: 12.191 km/s<br />(43,888 km/h)
         rotation_period: 97.873 d
         axial_tilt: 19.13°
         albedo: 0.30
-        temperature: 2128 K<br />(1855 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 6358 Anilliad II b
         type: Icy
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 9,318.9 km<br/>(1.463 Yrths)
         surface_area: 1.091 × 10<sup>09</sup> km<sup>2</sup><br/>(2.139 Yrths)
         volume: 3.390 × 10<sup>12</sup> km<sup>3</sup><br/>(3.129 Yrths)
-        mass: 4.645 × 10<sup>24</sup> kg<br />(9.021574548527543 Yrths)
+        mass: 4.645 × 10<sup>24</sup> kg<br />(0.778 Yrths)
         density: 1.370 g/cm<sup>3</sup>
         surface_gravity: 3.565 m/s<sup>2</sup><br />(0.364 g<sub>0</sub>)
         escape_velocity: 8.157 km/s<br />(29,364 km/h)
         rotation_period: 79.269 d
         axial_tilt: 22.35°
         albedo: 0.30
-        temperature: 2029 K<br />(1756 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 6358 Anilliad II c
         type: Rocky
         formationType: Accreted
@@ -159,14 +159,14 @@ planets:
         radius: 11,552.8 km<br/>(1.813 Yrths)
         surface_area: 1.677 × 10<sup>09</sup> km<sup>2</sup><br/>(3.288 Yrths)
         volume: 6.459 × 10<sup>12</sup> km<sup>3</sup><br/>(5.963 Yrths)
-        mass: 2.087 × 10<sup>25</sup> kg<br />(9.021574548527543 Yrths)
+        mass: 2.087 × 10<sup>25</sup> kg<br />(3.494 Yrths)
         density: 3.231 g/cm<sup>3</sup>
         surface_gravity: 10.421 m/s<sup>2</sup><br />(1.063 g<sub>0</sub>)
         escape_velocity: 15.528 km/s<br />(55,901 km/h)
         rotation_period: 33.854 d
         axial_tilt: 18.24°
         albedo: 0.30
-        temperature: 1759 K<br />(1486 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 6358 Anilliad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -179,14 +179,14 @@ planets:
         radius: 6,892.3 km<br/>(1.082 Yrths)
         surface_area: 5.970 × 10<sup>08</sup> km<sup>2</sup><br/>(1.170 Yrths)
         volume: 1.371 × 10<sup>12</sup> km<sup>3</sup><br/>(1.266 Yrths)
-        mass: 3.739 × 10<sup>24</sup> kg<br />(9.021574548527543 Yrths)
+        mass: 3.739 × 10<sup>24</sup> kg<br />(0.626 Yrths)
         density: 2.726 g/cm<sup>3</sup>
         surface_gravity: 5.246 m/s<sup>2</sup><br />(0.535 g<sub>0</sub>)
         escape_velocity: 8.509 km/s<br />(30,633 km/h)
         rotation_period: 56.903 d
         axial_tilt: 16.19°
         albedo: 0.30
-        temperature: 1599 K<br />(1326 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 6358 Anilliad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -199,14 +199,14 @@ planets:
         radius: 12,840.4 km<br/>(2.015 Yrths)
         surface_area: 2.072 × 10<sup>09</sup> km<sup>2</sup><br/>(4.062 Yrths)
         volume: 8.868 × 10<sup>12</sup> km<sup>3</sup><br/>(8.187 Yrths)
-        mass: 2.239 × 10<sup>25</sup> kg<br />(9.021574548527543 Yrths)
+        mass: 2.239 × 10<sup>25</sup> kg<br />(3.749 Yrths)
         density: 2.524 g/cm<sup>3</sup>
         surface_gravity: 9.050 m/s<sup>2</sup><br />(0.923 g<sub>0</sub>)
         escape_velocity: 15.255 km/s<br />(54,919 km/h)
         rotation_period: 47.353 d
         axial_tilt: 13.58°
         albedo: 0.30
-        temperature: 1386 K<br />(1113 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 6358 Anilliad II f
         type: Icy
         formationType: Impact formed
@@ -219,14 +219,14 @@ planets:
         radius: 10,138.7 km<br/>(1.591 Yrths)
         surface_area: 1.292 × 10<sup>09</sup> km<sup>2</sup><br/>(2.532 Yrths)
         volume: 4.365 × 10<sup>12</sup> km<sup>3</sup><br/>(4.030 Yrths)
-        mass: 6.550 × 10<sup>24</sup> kg<br />(9.021574548527543 Yrths)
+        mass: 6.550 × 10<sup>24</sup> kg<br />(1.097 Yrths)
         density: 1.500 g/cm<sup>3</sup>
         surface_gravity: 4.247 m/s<sup>2</sup><br />(0.433 g<sub>0</sub>)
         escape_velocity: 9.286 km/s<br />(33,430 km/h)
         rotation_period: 69.493 d
         axial_tilt: 25.95°
         albedo: 0.30
-        temperature: 1322 K<br />(1048 °C)
+        temperature: 261 K<br />(-12 °C)
   - name: 6358 Anilliad III
     type: Large terrestrial
     aphelion: 264,185,155 km<br />1.766 AU
@@ -238,7 +238,7 @@ planets:
     radius: 11,296.5 km<br/>(1.773 Yrths)
     surface_area: 1.604 × 10<sup>09</sup> km<sup>2</sup><br/>(3.144 Yrths)
     volume: 6.038 × 10<sup>12</sup> km<sup>3</sup><br/>(5.575 Yrths)
-    mass: 4.396 × 10<sup>25</sup> kg<br />(7.361032451200648 Yrths)
+    mass: 4.396 × 10<sup>25</sup> kg<br />(7.36 Yrths)
     density: 7.280 g/cm<sup>3</sup>
     surface_gravity: 22.961 m/s<sup>2</sup><br />(2.341 g<sub>0</sub>)
     escape_velocity: 22.792 km/s<br />(82,050 km/h)
@@ -259,14 +259,14 @@ planets:
         radius: 808.6 km<br/>(0.127 Yrths)
         surface_area: 8.217 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.215 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 6.924 × 10<sup>21</sup> kg<br />(7.361032451200648 Yrths)
+        mass: 6.924 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.126 g/cm<sup>3</sup>
         surface_gravity: 0.706 m/s<sup>2</sup><br />(0.072 g<sub>0</sub>)
         escape_velocity: 1.069 km/s<br />(3,849 km/h)
         rotation_period: 41.456 d
         axial_tilt: 10.22°
         albedo: 0.30
-        temperature: 1936 K<br />(1663 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 6358 Anilliad III b
         type: Icy
         formationType: Captured
@@ -279,14 +279,14 @@ planets:
         radius: 8,835.5 km<br/>(1.387 Yrths)
         surface_area: 9.810 × 10<sup>08</sup> km<sup>2</sup><br/>(1.923 Yrths)
         volume: 2.889 × 10<sup>12</sup> km<sup>3</sup><br/>(2.667 Yrths)
-        mass: 2.985 × 10<sup>24</sup> kg<br />(7.361032451200648 Yrths)
+        mass: 2.985 × 10<sup>24</sup> kg<br />(0.500 Yrths)
         density: 1.033 g/cm<sup>3</sup>
         surface_gravity: 2.548 m/s<sup>2</sup><br />(0.260 g<sub>0</sub>)
         escape_velocity: 6.715 km/s<br />(24,175 km/h)
         rotation_period: 51.483 d
         axial_tilt: 23.89°
         albedo: 0.30
-        temperature: 1846 K<br />(1573 °C)
+        temperature: 190 K<br />(-83 °C)
       - name: 6358 Anilliad III c
         type: Rocky
         formationType: Accreted
@@ -299,12 +299,12 @@ planets:
         radius: 9,260.4 km<br/>(1.454 Yrths)
         surface_area: 1.078 × 10<sup>09</sup> km<sup>2</sup><br/>(2.113 Yrths)
         volume: 3.326 × 10<sup>12</sup> km<sup>3</sup><br/>(3.071 Yrths)
-        mass: 9.852 × 10<sup>24</sup> kg<br />(7.361032451200648 Yrths)
+        mass: 9.852 × 10<sup>24</sup> kg<br />(1.650 Yrths)
         density: 2.962 g/cm<sup>3</sup>
         surface_gravity: 7.657 m/s<sup>2</sup><br />(0.781 g<sub>0</sub>)
         escape_velocity: 11.917 km/s<br />(42,900 km/h)
         rotation_period: 55.785 d
         axial_tilt: 16.00°
         albedo: 0.30
-        temperature: 1760 K<br />(1487 °C)
+        temperature: 190 K<br />(-83 °C)
 ---

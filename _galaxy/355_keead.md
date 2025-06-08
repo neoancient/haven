@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      355 Keead is a star in the constellation Kee
+      355 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 380.21 ly
 apparent_magnitude: 10.64
 absolute_magnitude: 5.31

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nursen B is a star in the constellation Rishauth
+      Nursen B is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 219.84 ly
 apparent_magnitude: 9.02
 absolute_magnitude: 4.88

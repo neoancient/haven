@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      138 Naddiad A is a star in the constellation Naddi
+      138 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 291.34 ly
 apparent_magnitude: 11.05
 absolute_magnitude: 6.29

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      277 Shyad is a star in the constellation Shy
+      277 Shyad is a star in the constellation <a href="shy.html">Shy</a>
 distance: 903.71 ly
 apparent_magnitude: 17.22
 absolute_magnitude: 10.01

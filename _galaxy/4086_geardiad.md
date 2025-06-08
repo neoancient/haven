@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4086 Geardiad is a star in the constellation Geard
+      4086 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 152.73 ly
 apparent_magnitude: 16.44
 absolute_magnitude: 13.09

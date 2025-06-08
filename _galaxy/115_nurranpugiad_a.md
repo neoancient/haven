@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      115 Nurranpugiad A is a star in the constellation Nurranpug
+      115 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 442.62 ly
 apparent_magnitude: 7.22
 absolute_magnitude: 1.56

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1150 Arkothiad is a star in the constellation Arkoth
+      1150 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1036.01 ly
 apparent_magnitude: 7.98
 absolute_magnitude: 0.47

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6817 Dialkeshiad A is a star in the constellation Dialkes
+      6817 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 821.77 ly
 apparent_magnitude: 6.81
 absolute_magnitude: -0.19

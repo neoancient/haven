@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Kird A is a star in the constellation Swither
+      Kird A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 1512.61 ly
 apparent_magnitude: 2.21
 absolute_magnitude: -6.12

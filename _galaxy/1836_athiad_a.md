@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1836 Athiad A is a star in the constellation Ath
+      1836 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 434.29 ly
 apparent_magnitude: 7.61
 absolute_magnitude: 1.99

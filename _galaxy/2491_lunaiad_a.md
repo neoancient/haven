@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2491 Lunaiad A is a star in the constellation Luna
+      2491 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 705.31 ly
 apparent_magnitude: 7.20
 absolute_magnitude: 0.52

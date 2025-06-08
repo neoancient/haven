@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ι Dialkeshiad B is a star in the constellation Dialkes
+      ι Dialkeshiad B is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 723.09 ly
 apparent_magnitude: 8.76
 absolute_magnitude: 2.03

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Mioruaniad is a star in the constellation Mioruane
+      ψ Mioruaniad is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 53.92 ly
 apparent_magnitude: 5.36
 absolute_magnitude: 4.27
@@ -31,7 +31,7 @@ planets:
     radius: 264.9 km<br/>(0.042 Yrths)
     surface_area: 8.818 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.787 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.410 × 10<sup>27</sup> kg<br />(571.0401636866122 Yrths)
+    mass: 3.410 × 10<sup>27</sup> kg<br />(571.04 Yrths)
     density: 43795679.567 g/cm<sup>3</sup>
     surface_gravity: 3239103.490 m/s<sup>2</sup><br />(330296.634 g<sub>0</sub>)
     escape_velocity: 1310.891 km/s<br />(4,719,208 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 405,685.8 km<br/>(63.677 Yrths)
         surface_area: 2.068 × 10<sup>12</sup> km<sup>2</sup><br/>(4054.753 Yrths)
         volume: 2.797 × 10<sup>17</sup> km<sup>3</sup><br/>(258194.229 Yrths)
-        mass: 3.160 × 10<sup>29</sup> kg<br />(571.0401636866122 Yrths)
+        mass: 3.160 × 10<sup>29</sup> kg<br />(52912.299 Yrths)
         density: 1.130 g/cm<sup>3</sup>
         surface_gravity: 127.971 m/s<sup>2</sup><br />(13.049 g<sub>0</sub>)
         escape_velocity: 322.449 km/s<br />(1,160,817 km/h)
         rotation_period: 73.472 d
         axial_tilt: 21.66°
         albedo: 0.30
-        temperature: 1559 K<br />(1286 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ψ Mioruaniad I b
         type: Icy
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 343,612.1 km<br/>(53.934 Yrths)
         surface_area: 1.484 × 10<sup>12</sup> km<sup>2</sup><br/>(2908.852 Yrths)
         volume: 1.699 × 10<sup>17</sup> km<sup>3</sup><br/>(156885.396 Yrths)
-        mass: 2.040 × 10<sup>29</sup> kg<br />(571.0401636866122 Yrths)
+        mass: 2.040 × 10<sup>29</sup> kg<br />(34163.790 Yrths)
         density: 1.201 g/cm<sup>3</sup>
         surface_gravity: 115.177 m/s<sup>2</sup><br />(11.745 g<sub>0</sub>)
         escape_velocity: 281.531 km/s<br />(1,013,512 km/h)
         rotation_period: 53.219 d
         axial_tilt: 18.46°
         albedo: 0.30
-        temperature: 1486 K<br />(1213 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ψ Mioruaniad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 232,290.0 km<br/>(36.461 Yrths)
         surface_area: 6.781 × 10<sup>11</sup> km<sup>2</sup><br/>(1329.370 Yrths)
         volume: 5.250 × 10<sup>16</sup> km<sup>3</sup><br/>(48469.537 Yrths)
-        mass: 1.259 × 10<sup>29</sup> kg<br />(571.0401636866122 Yrths)
+        mass: 1.259 × 10<sup>29</sup> kg<br />(21079.036 Yrths)
         density: 2.398 g/cm<sup>3</sup>
         surface_gravity: 155.498 m/s<sup>2</sup><br />(15.856 g<sub>0</sub>)
         escape_velocity: 268.960 km/s<br />(968,256 km/h)
         rotation_period: 61.387 d
         axial_tilt: 14.28°
         albedo: 0.30
-        temperature: 1417 K<br />(1144 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ψ Mioruaniad I d
         type: Icy
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 358,723.6 km<br/>(56.306 Yrths)
         surface_area: 1.617 × 10<sup>12</sup> km<sup>2</sup><br/>(3170.331 Yrths)
         volume: 1.934 × 10<sup>17</sup> km<sup>3</sup><br/>(178507.684 Yrths)
-        mass: 1.354 × 10<sup>29</sup> kg<br />(571.0401636866122 Yrths)
+        mass: 1.354 × 10<sup>29</sup> kg<br />(22664.523 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 70.107 m/s<sup>2</sup><br />(7.149 g<sub>0</sub>)
         escape_velocity: 224.425 km/s<br />(807,930 km/h)
         rotation_period: 87.146 d
         axial_tilt: 11.92°
         albedo: 0.30
-        temperature: 661 K<br />(388 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ψ Mioruaniad I e
         type: Asteroid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 212,874.8 km<br/>(33.413 Yrths)
         surface_area: 5.695 × 10<sup>11</sup> km<sup>2</sup><br/>(1116.435 Yrths)
         volume: 4.041 × 10<sup>16</sup> km<sup>3</sup><br/>(37303.531 Yrths)
-        mass: 1.109 × 10<sup>29</sup> kg<br />(571.0401636866122 Yrths)
+        mass: 1.109 × 10<sup>29</sup> kg<br />(18565.387 Yrths)
         density: 2.744 g/cm<sup>3</sup>
         surface_gravity: 163.077 m/s<sup>2</sup><br />(16.629 g<sub>0</sub>)
         escape_velocity: 263.674 km/s<br />(949,227 km/h)
         rotation_period: 36.994 d
         axial_tilt: 34.95°
         albedo: 0.30
-        temperature: 546 K<br />(273 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ψ Mioruaniad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 291,338.8 km<br/>(45.729 Yrths)
         surface_area: 1.067 × 10<sup>12</sup> km<sup>2</sup><br/>(2091.133 Yrths)
         volume: 1.036 × 10<sup>17</sup> km<sup>3</sup><br/>(95625.200 Yrths)
-        mass: 2.185 × 10<sup>29</sup> kg<br />(571.0401636866122 Yrths)
+        mass: 2.185 × 10<sup>29</sup> kg<br />(36579.972 Yrths)
         density: 2.109 g/cm<sup>3</sup>
         surface_gravity: 171.547 m/s<sup>2</sup><br />(17.493 g<sub>0</sub>)
         escape_velocity: 316.374 km/s<br />(1,138,945 km/h)
         rotation_period: 61.928 d
         axial_tilt: 14.66°
         albedo: 0.30
-        temperature: 280 K<br />(7 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ψ Mioruaniad I g
         type: Icy
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 400,160.6 km<br/>(62.810 Yrths)
         surface_area: 2.012 × 10<sup>12</sup> km<sup>2</sup><br/>(3945.058 Yrths)
         volume: 2.684 × 10<sup>17</sup> km<sup>3</sup><br/>(247787.864 Yrths)
-        mass: 1.879 × 10<sup>29</sup> kg<br />(571.0401636866122 Yrths)
+        mass: 1.879 × 10<sup>29</sup> kg<br />(31460.795 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 78.205 m/s<sup>2</sup><br />(7.975 g<sub>0</sub>)
         escape_velocity: 250.349 km/s<br />(901,256 km/h)
         rotation_period: 81.878 d
         axial_tilt: 12.38°
         albedo: 0.30
-        temperature: 221 K<br />(-52 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ψ Mioruaniad I h
         type: Rocky
         formationType: Impact formed
@@ -192,14 +192,14 @@ planets:
         radius: 327,070.4 km<br/>(51.337 Yrths)
         surface_area: 1.344 × 10<sup>12</sup> km<sup>2</sup><br/>(2635.525 Yrths)
         volume: 1.466 × 10<sup>17</sup> km<sup>3</sup><br/>(135300.927 Yrths)
-        mass: 4.131 × 10<sup>29</sup> kg<br />(571.0401636866122 Yrths)
+        mass: 4.131 × 10<sup>29</sup> kg<br />(69179.904 Yrths)
         density: 2.819 g/cm<sup>3</sup>
         surface_gravity: 257.415 m/s<sup>2</sup><br />(26.249 g<sub>0</sub>)
         escape_velocity: 410.627 km/s<br />(1,478,256 km/h)
         rotation_period: 37.092 d
         axial_tilt: 14.15°
         albedo: 0.30
-        temperature: 151 K<br />(-122 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ψ Mioruaniad I i
         type: Asteroid
         formationType: Captured
@@ -212,12 +212,12 @@ planets:
         radius: 271,870.7 km<br/>(42.673 Yrths)
         surface_area: 9.288 × 10<sup>11</sup> km<sup>2</sup><br/>(1820.999 Yrths)
         volume: 8.417 × 10<sup>16</sup> km<sup>3</sup><br/>(77707.789 Yrths)
-        mass: 3.071 × 10<sup>29</sup> kg<br />(571.0401636866122 Yrths)
+        mass: 3.071 × 10<sup>29</sup> kg<br />(51416.175 Yrths)
         density: 3.648 g/cm<sup>3</sup>
         surface_gravity: 276.892 m/s<sup>2</sup><br />(28.235 g<sub>0</sub>)
         escape_velocity: 388.281 km/s<br />(1,397,812 km/h)
         rotation_period: 29.558 d
         axial_tilt: 37.04°
         albedo: 0.30
-        temperature: 125 K<br />(-148 °C)
+        temperature: 259 K<br />(-14 °C)
 ---

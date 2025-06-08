@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      393 Shanniashiad is a star in the constellation Shannias
+      393 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 331.65 ly
 apparent_magnitude: 17.87
 absolute_magnitude: 12.83

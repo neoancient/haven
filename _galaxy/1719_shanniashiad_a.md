@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1719 Shanniashiad A is a star in the constellation Shannias
+      1719 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1212.33 ly
 apparent_magnitude: 6.72
 absolute_magnitude: -1.13

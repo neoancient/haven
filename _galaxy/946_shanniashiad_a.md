@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      946 Shanniashiad A is a star in the constellation Shannias
+      946 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1161.17 ly
 apparent_magnitude: 6.87
 absolute_magnitude: -0.89

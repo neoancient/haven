@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      936 Reggiad is a star in the constellation Reg
+      936 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 345.78 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 5.37

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0090 Rishauthiad is a star in the constellation Rishauth
+      0090 Rishauthiad is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 2261.87 ly
 apparent_magnitude: 5.71
 absolute_magnitude: -3.49
@@ -31,14 +31,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.651 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 6277 K<br />(6004 °C)
+    temperature: 6145 K<br />(5872 °C)
     composition:
       - 67.1581% hydrogen
       - 27.3124% helium
@@ -58,14 +58,14 @@ planets:
         radius: 929.3 km<br/>(0.146 Yrths)
         surface_area: 1.085 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.362 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 2.354 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.354 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.182 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.581 km/s<br />(2,093 km/h)
         rotation_period: 67.401 d
         axial_tilt: 25.89°
         albedo: 0.30
-        temperature: 44960 K<br />(44687 °C)
+        temperature: 1775 K<br />(1502 °C)
       - name: 0090 Rishauthiad I b
         type: Icy
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 1,186.5 km<br/>(0.186 Yrths)
         surface_area: 1.769 × 10<sup>07</sup> km<sup>2</sup><br/>(0.035 Yrths)
         volume: 6.997 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 4.898 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.898 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.232 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.742 km/s<br />(2,672 km/h)
         rotation_period: 77.116 d
         axial_tilt: 14.21°
         albedo: 0.30
-        temperature: 40872 K<br />(40599 °C)
+        temperature: 1775 K<br />(1502 °C)
       - name: 0090 Rishauthiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 835.5 km<br/>(0.131 Yrths)
         surface_area: 8.772 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.443 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.346 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.346 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.779 g/cm<sup>3</sup>
         surface_gravity: 0.415 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.833 km/s<br />(3,000 km/h)
         rotation_period: 54.976 d
         axial_tilt: 22.10°
         albedo: 0.30
-        temperature: 38970 K<br />(38697 °C)
+        temperature: 1775 K<br />(1502 °C)
       - name: 0090 Rishauthiad I d
         type: Dwarf planet
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 869.1 km<br/>(0.136 Yrths)
         surface_area: 9.491 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.749 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.734 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.734 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.722 g/cm<sup>3</sup>
         surface_gravity: 0.418 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.853 km/s<br />(3,070 km/h)
         rotation_period: 58.016 d
         axial_tilt: 37.73°
         albedo: 0.30
-        temperature: 33779 K<br />(33506 °C)
+        temperature: 1775 K<br />(1502 °C)
       - name: 0090 Rishauthiad I e
         type: Icy
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 810.7 km<br/>(0.127 Yrths)
         surface_area: 8.259 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.232 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.653 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.653 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.189 g/cm<sup>3</sup>
         surface_gravity: 0.269 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.661 km/s<br />(2,380 km/h)
         rotation_period: 65.897 d
         axial_tilt: 28.82°
         albedo: 0.30
-        temperature: 24198 K<br />(23924 °C)
+        temperature: 1775 K<br />(1502 °C)
       - name: 0090 Rishauthiad I f
         type: Icy
         formationType: Impact formed
@@ -158,14 +158,14 @@ planets:
         radius: 820.6 km<br/>(0.129 Yrths)
         surface_area: 8.461 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.314 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.012 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.012 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.302 g/cm<sup>3</sup>
         surface_gravity: 0.298 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.700 km/s<br />(2,520 km/h)
         rotation_period: 47.035 d
         axial_tilt: 16.63°
         albedo: 0.30
-        temperature: 21998 K<br />(21725 °C)
+        temperature: 1775 K<br />(1502 °C)
       - name: 0090 Rishauthiad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -178,14 +178,14 @@ planets:
         radius: 632.3 km<br/>(0.099 Yrths)
         surface_area: 5.024 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.059 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.277 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.277 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.151 g/cm<sup>3</sup>
         surface_gravity: 0.380 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.693 km/s<br />(2,496 km/h)
         rotation_period: 57.121 d
         axial_tilt: 30.90°
         albedo: 0.30
-        temperature: 14326 K<br />(14052 °C)
+        temperature: 1775 K<br />(1502 °C)
       - name: 0090 Rishauthiad I h
         type: Icy
         formationType: Accreted
@@ -198,14 +198,14 @@ planets:
         radius: 911.4 km<br/>(0.143 Yrths)
         surface_area: 1.044 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.171 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.800 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.800 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.198 g/cm<sup>3</sup>
         surface_gravity: 0.305 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.746 km/s<br />(2,686 km/h)
         rotation_period: 80.548 d
         axial_tilt: 27.41°
         albedo: 0.30
-        temperature: 11288 K<br />(11015 °C)
+        temperature: 1775 K<br />(1502 °C)
       - name: 0090 Rishauthiad I i
         type: Icy
         formationType: Accreted
@@ -218,14 +218,14 @@ planets:
         radius: 730.5 km<br/>(0.115 Yrths)
         surface_area: 6.706 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.633 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.238 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.238 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.370 g/cm<sup>3</sup>
         surface_gravity: 0.280 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.639 km/s<br />(2,302 km/h)
         rotation_period: 63.332 d
         axial_tilt: 14.66°
         albedo: 0.30
-        temperature: 6683 K<br />(6410 °C)
+        temperature: 1775 K<br />(1502 °C)
       - name: 0090 Rishauthiad I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -238,14 +238,14 @@ planets:
         radius: 985.7 km<br/>(0.155 Yrths)
         surface_area: 1.221 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 4.012 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 8.602 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 8.602 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.144 g/cm<sup>3</sup>
         surface_gravity: 0.590 m/s<sup>2</sup><br />(0.060 g<sub>0</sub>)
         escape_velocity: 1.079 km/s<br />(3,886 km/h)
         rotation_period: 43.897 d
         axial_tilt: 11.75°
         albedo: 0.30
-        temperature: 6075 K<br />(5802 °C)
+        temperature: 1775 K<br />(1502 °C)
   - name: 0090 Rishauthiad II
     type: Ice giant
     aphelion: 1,181,945,119 km<br />7.901 AU
@@ -257,14 +257,14 @@ planets:
     radius: 34,264.9 km<br/>(5.378 Yrths)
     surface_area: 1.475 × 10<sup>10</sup> km<sup>2</sup><br/>(28.926 Yrths)
     volume: 1.685 × 10<sup>14</sup> km<sup>3</sup><br/>(155.570 Yrths)
-    mass: 2.104 × 10<sup>26</sup> kg<br />(35.22829249539825 Yrths)
+    mass: 2.104 × 10<sup>26</sup> kg<br />(35.23 Yrths)
     density: 1.248 g/cm<sup>3</sup>
     surface_gravity: 11.943 m/s<sup>2</sup><br />(1.218 g<sub>0</sub>)
     escape_velocity: 28.629 km/s<br />(103,063 km/h)
     rotation_period: 0.295 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 2455 K<br />(2182 °C)
+    temperature: 2229 K<br />(1956 °C)
     composition:
       - 78.1014% hydrogen
       - 17.5852% helium
@@ -282,14 +282,14 @@ planets:
         radius: 79,815.2 km<br/>(12.528 Yrths)
         surface_area: 8.005 × 10<sup>10</sup> km<sup>2</sup><br/>(156.948 Yrths)
         volume: 2.130 × 10<sup>15</sup> km<sup>3</sup><br/>(1966.227 Yrths)
-        mass: 1.922 × 10<sup>27</sup> kg<br />(35.22829249539825 Yrths)
+        mass: 1.922 × 10<sup>27</sup> kg<br />(321.909 Yrths)
         density: 0.903 g/cm<sup>3</sup>
         surface_gravity: 20.114 m/s<sup>2</sup><br />(2.051 g<sub>0</sub>)
         escape_velocity: 56.702 km/s<br />(204,129 km/h)
         rotation_period: 53.887 d
         axial_tilt: 16.71°
         albedo: 0.30
-        temperature: 13432 K<br />(13159 °C)
+        temperature: 1229 K<br />(956 °C)
       - name: 0090 Rishauthiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -302,14 +302,14 @@ planets:
         radius: 56,236.4 km<br/>(8.827 Yrths)
         surface_area: 3.974 × 10<sup>10</sup> km<sup>2</sup><br/>(77.915 Yrths)
         volume: 7.450 × 10<sup>14</sup> km<sup>3</sup><br/>(687.749 Yrths)
-        mass: 1.577 × 10<sup>27</sup> kg<br />(35.22829249539825 Yrths)
+        mass: 1.577 × 10<sup>27</sup> kg<br />(264.070 Yrths)
         density: 2.117 g/cm<sup>3</sup>
         surface_gravity: 33.237 m/s<sup>2</sup><br />(3.389 g<sub>0</sub>)
         escape_velocity: 61.183 km/s<br />(220,258 km/h)
         rotation_period: 58.366 d
         axial_tilt: 29.92°
         albedo: 0.30
-        temperature: 12807 K<br />(12534 °C)
+        temperature: 1229 K<br />(956 °C)
       - name: 0090 Rishauthiad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -322,14 +322,14 @@ planets:
         radius: 31,791.4 km<br/>(4.990 Yrths)
         surface_area: 1.270 × 10<sup>10</sup> km<sup>2</sup><br/>(24.900 Yrths)
         volume: 1.346 × 10<sup>14</sup> km<sup>3</sup><br/>(124.252 Yrths)
-        mass: 2.709 × 10<sup>26</sup> kg<br />(35.22829249539825 Yrths)
+        mass: 2.709 × 10<sup>26</sup> kg<br />(45.353 Yrths)
         density: 2.012 g/cm<sup>3</sup>
         surface_gravity: 17.862 m/s<sup>2</sup><br />(1.821 g<sub>0</sub>)
         escape_velocity: 33.723 km/s<br />(121,403 km/h)
         rotation_period: 47.308 d
         axial_tilt: 30.56°
         albedo: 0.30
-        temperature: 12211 K<br />(11938 °C)
+        temperature: 1229 K<br />(956 °C)
       - name: 0090 Rishauthiad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -342,14 +342,14 @@ planets:
         radius: 24,030.1 km<br/>(3.772 Yrths)
         surface_area: 7.256 × 10<sup>09</sup> km<sup>2</sup><br/>(14.226 Yrths)
         volume: 5.812 × 10<sup>13</sup> km<sup>3</sup><br/>(53.659 Yrths)
-        mass: 1.384 × 10<sup>26</sup> kg<br />(35.22829249539825 Yrths)
+        mass: 1.384 × 10<sup>26</sup> kg<br />(23.167 Yrths)
         density: 2.380 g/cm<sup>3</sup>
         surface_gravity: 15.970 m/s<sup>2</sup><br />(1.628 g<sub>0</sub>)
         escape_velocity: 27.723 km/s<br />(99,802 km/h)
         rotation_period: 40.931 d
         axial_tilt: 23.70°
         albedo: 0.30
-        temperature: 11642 K<br />(11369 °C)
+        temperature: 1229 K<br />(956 °C)
       - name: 0090 Rishauthiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -362,14 +362,14 @@ planets:
         radius: 28,169.2 km<br/>(4.421 Yrths)
         surface_area: 9.971 × 10<sup>09</sup> km<sup>2</sup><br/>(19.549 Yrths)
         volume: 9.363 × 10<sup>13</sup> km<sup>3</sup><br/>(86.437 Yrths)
-        mass: 1.693 × 10<sup>26</sup> kg<br />(35.22829249539825 Yrths)
+        mass: 1.693 × 10<sup>26</sup> kg<br />(28.346 Yrths)
         density: 1.808 g/cm<sup>3</sup>
         surface_gravity: 14.219 m/s<sup>2</sup><br />(1.450 g<sub>0</sub>)
         escape_velocity: 28.323 km/s<br />(101,963 km/h)
         rotation_period: 62.980 d
         axial_tilt: 18.01°
         albedo: 0.30
-        temperature: 11101 K<br />(10827 °C)
+        temperature: 1229 K<br />(956 °C)
       - name: 0090 Rishauthiad II f
         type: Rocky
         formationType: Captured
@@ -382,14 +382,14 @@ planets:
         radius: 26,134.8 km<br/>(4.102 Yrths)
         surface_area: 8.583 × 10<sup>09</sup> km<sup>2</sup><br/>(16.828 Yrths)
         volume: 7.477 × 10<sup>13</sup> km<sup>3</sup><br/>(69.030 Yrths)
-        mass: 2.176 × 10<sup>26</sup> kg<br />(35.22829249539825 Yrths)
+        mass: 2.176 × 10<sup>26</sup> kg<br />(36.434 Yrths)
         density: 2.910 g/cm<sup>3</sup>
         surface_gravity: 21.233 m/s<sup>2</sup><br />(2.165 g<sub>0</sub>)
         escape_velocity: 33.337 km/s<br />(120,012 km/h)
         rotation_period: 32.902 d
         axial_tilt: 10.56°
         albedo: 0.30
-        temperature: 10584 K<br />(10311 °C)
+        temperature: 1229 K<br />(956 °C)
       - name: 0090 Rishauthiad II g
         type: Dwarf planet
         formationType: Accreted
@@ -402,12 +402,12 @@ planets:
         radius: 25,380.0 km<br/>(3.984 Yrths)
         surface_area: 8.095 × 10<sup>09</sup> km<sup>2</sup><br/>(15.870 Yrths)
         volume: 6.848 × 10<sup>13</sup> km<sup>3</sup><br/>(63.219 Yrths)
-        mass: 1.871 × 10<sup>26</sup> kg<br />(35.22829249539825 Yrths)
+        mass: 1.871 × 10<sup>26</sup> kg<br />(31.330 Yrths)
         density: 2.732 g/cm<sup>3</sup>
         surface_gravity: 19.360 m/s<sup>2</sup><br />(1.974 g<sub>0</sub>)
         escape_velocity: 31.370 km/s<br />(112,931 km/h)
         rotation_period: 53.642 d
         axial_tilt: 47.70°
         albedo: 0.30
-        temperature: 9622 K<br />(9349 °C)
+        temperature: 1229 K<br />(956 °C)
 ---

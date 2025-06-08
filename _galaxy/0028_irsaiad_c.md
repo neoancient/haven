@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Irsaiad C is a star in the constellation Irsa
+      0028 Irsaiad C is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 720.34 ly
 apparent_magnitude: 16.67
 absolute_magnitude: 9.95
@@ -31,7 +31,7 @@ planets:
     radius: 4,690.7 km<br/>(0.736 Yrths)
     surface_area: 2.765 × 10<sup>08</sup> km<sup>2</sup><br/>(0.542 Yrths)
     volume: 4.323 × 10<sup>11</sup> km<sup>3</sup><br/>(0.399 Yrths)
-    mass: 1.253 × 10<sup>26</sup> kg<br />(20.986100092887693 Yrths)
+    mass: 1.253 × 10<sup>26</sup> kg<br />(20.99 Yrths)
     density: 289.908 g/cm<sup>3</sup>
     surface_gravity: 379.664 m/s<sup>2</sup><br />(38.715 g<sub>0</sub>)
     escape_velocity: 59.721 km/s<br />(214,995 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 25,058.9 km<br/>(3.933 Yrths)
         surface_area: 7.891 × 10<sup>09</sup> km<sup>2</sup><br/>(15.471 Yrths)
         volume: 6.591 × 10<sup>13</sup> km<sup>3</sup><br/>(60.850 Yrths)
-        mass: 2.166 × 10<sup>26</sup> kg<br />(20.986100092887693 Yrths)
+        mass: 2.166 × 10<sup>26</sup> kg<br />(36.277 Yrths)
         density: 3.287 g/cm<sup>3</sup>
         surface_gravity: 22.996 m/s<sup>2</sup><br />(2.345 g<sub>0</sub>)
         escape_velocity: 33.971 km/s<br />(122,297 km/h)
         rotation_period: 27.088 d
         axial_tilt: 14.08°
         albedo: 0.30
-        temperature: 2849 K<br />(2576 °C)
+        temperature: 331 K<br />(58 °C)
       - name: 0028 Irsaiad C I b
         type: Rocky
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 19,391.8 km<br/>(3.044 Yrths)
         surface_area: 4.725 × 10<sup>09</sup> km<sup>2</sup><br/>(9.264 Yrths)
         volume: 3.055 × 10<sup>13</sup> km<sup>3</sup><br/>(28.199 Yrths)
-        mass: 9.915 × 10<sup>25</sup> kg<br />(20.986100092887693 Yrths)
+        mass: 9.915 × 10<sup>25</sup> kg<br />(16.603 Yrths)
         density: 3.246 g/cm<sup>3</sup>
         surface_gravity: 17.575 m/s<sup>2</sup><br />(1.792 g<sub>0</sub>)
         escape_velocity: 26.126 km/s<br />(94,052 km/h)
         rotation_period: 46.405 d
         axial_tilt: 10.62°
         albedo: 0.30
-        temperature: 2716 K<br />(2443 °C)
+        temperature: 331 K<br />(58 °C)
       - name: 0028 Irsaiad C I c
         type: Icy
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 37,377.8 km<br/>(5.867 Yrths)
         surface_area: 1.756 × 10<sup>10</sup> km<sup>2</sup><br/>(34.420 Yrths)
         volume: 2.187 × 10<sup>14</sup> km<sup>3</sup><br/>(201.939 Yrths)
-        mass: 3.152 × 10<sup>26</sup> kg<br />(20.986100092887693 Yrths)
+        mass: 3.152 × 10<sup>26</sup> kg<br />(52.776 Yrths)
         density: 1.441 g/cm<sup>3</sup>
         surface_gravity: 15.036 m/s<sup>2</sup><br />(1.533 g<sub>0</sub>)
         escape_velocity: 33.550 km/s<br />(120,779 km/h)
         rotation_period: 60.567 d
         axial_tilt: 13.81°
         albedo: 0.30
-        temperature: 2590 K<br />(2317 °C)
+        temperature: 331 K<br />(58 °C)
       - name: 0028 Irsaiad C I d
         type: Rocky
         formationType: Captured
@@ -112,12 +112,12 @@ planets:
         radius: 21,002.6 km<br/>(3.297 Yrths)
         surface_area: 5.543 × 10<sup>09</sup> km<sup>2</sup><br/>(10.867 Yrths)
         volume: 3.881 × 10<sup>13</sup> km<sup>3</sup><br/>(35.826 Yrths)
-        mass: 1.138 × 10<sup>26</sup> kg<br />(20.986100092887693 Yrths)
+        mass: 1.138 × 10<sup>26</sup> kg<br />(19.052 Yrths)
         density: 2.932 g/cm<sup>3</sup>
         surface_gravity: 17.192 m/s<sup>2</sup><br />(1.753 g<sub>0</sub>)
         escape_velocity: 26.891 km/s<br />(96,808 km/h)
         rotation_period: 29.662 d
         axial_tilt: 12.55°
         albedo: 0.30
-        temperature: 2469 K<br />(2196 °C)
+        temperature: 331 K<br />(58 °C)
 ---

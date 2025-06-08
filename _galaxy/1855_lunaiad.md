@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1855 Lunaiad is a star in the constellation Luna
+      1855 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 273.04 ly
 apparent_magnitude: 9.56
 absolute_magnitude: 4.95

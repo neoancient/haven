@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0014 Lelniad is a star in the constellation Leln
+      0014 Lelniad is a star in the constellation <a href="leln.html">Leln</a>
 distance: 19.01 ly
 apparent_magnitude: 6.14
 absolute_magnitude: 7.32
@@ -31,14 +31,14 @@ planets:
     radius: 9,125.8 km<br/>(1.432 Yrths)
     surface_area: 1.047 × 10<sup>09</sup> km<sup>2</sup><br/>(2.052 Yrths)
     volume: 3.183 × 10<sup>12</sup> km<sup>3</sup><br/>(2.939 Yrths)
-    mass: 2.302 × 10<sup>25</sup> kg<br />(3.8550042306494103 Yrths)
+    mass: 2.302 × 10<sup>25</sup> kg<br />(3.86 Yrths)
     density: 7.232 g/cm<sup>3</sup>
     surface_gravity: 18.426 m/s<sup>2</sup><br />(1.879 g<sub>0</sub>)
     escape_velocity: 18.351 km/s<br />(66,063 km/h)
     rotation_period: 2.044 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 470 K<br />(197 °C)
+    temperature: 1152 K<br />(878 °C)
     surface_pressure: 95 kPa<br />(1 atm)
     composition:
       - 72.7056% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 5,325.3 km<br/>(0.836 Yrths)
         surface_area: 3.564 × 10<sup>08</sup> km<sup>2</sup><br/>(0.699 Yrths)
         volume: 6.326 × 10<sup>11</sup> km<sup>3</sup><br/>(0.584 Yrths)
-        mass: 1.807 × 10<sup>24</sup> kg<br />(3.8550042306494103 Yrths)
+        mass: 1.807 × 10<sup>24</sup> kg<br />(0.303 Yrths)
         density: 2.857 g/cm<sup>3</sup>
         surface_gravity: 4.248 m/s<sup>2</sup><br />(0.433 g<sub>0</sub>)
         escape_velocity: 6.731 km/s<br />(24,230 km/h)
         rotation_period: 58.400 d
         axial_tilt: 13.42°
         albedo: 0.30
-        temperature: 4181 K<br />(3908 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0014 Lelniad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 5,675.2 km<br/>(0.891 Yrths)
         surface_area: 4.047 × 10<sup>08</sup> km<sup>2</sup><br/>(0.793 Yrths)
         volume: 7.656 × 10<sup>11</sup> km<sup>3</sup><br/>(0.707 Yrths)
-        mass: 1.982 × 10<sup>24</sup> kg<br />(3.8550042306494103 Yrths)
+        mass: 1.982 × 10<sup>24</sup> kg<br />(0.332 Yrths)
         density: 2.588 g/cm<sup>3</sup>
         surface_gravity: 4.101 m/s<sup>2</sup><br />(0.418 g<sub>0</sub>)
         escape_velocity: 6.827 km/s<br />(24,579 km/h)
         rotation_period: 38.451 d
         axial_tilt: 9.12°
         albedo: 0.30
-        temperature: 3986 K<br />(3713 °C)
+        temperature: 318 K<br />(45 °C)
   - name: 0014 Lelniad II
     type: Large terrestrial
     aphelion: 69,114,685 km<br />0.462 AU
@@ -95,14 +95,14 @@ planets:
     radius: 7,961.3 km<br/>(1.250 Yrths)
     surface_area: 7.965 × 10<sup>08</sup> km<sup>2</sup><br/>(1.562 Yrths)
     volume: 2.114 × 10<sup>12</sup> km<sup>3</sup><br/>(1.951 Yrths)
-    mass: 1.403 × 10<sup>25</sup> kg<br />(2.348503208478428 Yrths)
+    mass: 1.403 × 10<sup>25</sup> kg<br />(2.35 Yrths)
     density: 6.636 g/cm<sup>3</sup>
     surface_gravity: 14.749 m/s<sup>2</sup><br />(1.504 g<sub>0</sub>)
     escape_velocity: 15.335 km/s<br />(55,206 km/h)
     rotation_period: 1.888 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 379 K<br />(106 °C)
+    temperature: 836 K<br />(563 °C)
     surface_pressure: 190 kPa<br />(2 atm)
     composition:
       - 62.1725% carbon dioxide
@@ -123,14 +123,14 @@ planets:
         radius: 1,825.9 km<br/>(0.287 Yrths)
         surface_area: 4.189 × 10<sup>07</sup> km<sup>2</sup><br/>(0.082 Yrths)
         volume: 2.550 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 9.179 × 10<sup>22</sup> kg<br />(2.348503208478428 Yrths)
+        mass: 9.179 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 1.835 m/s<sup>2</sup><br />(0.187 g<sub>0</sub>)
         escape_velocity: 2.590 km/s<br />(9,326 km/h)
         rotation_period: 46.407 d
         axial_tilt: 12.64°
         albedo: 0.30
-        temperature: 3499 K<br />(3226 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 0014 Lelniad II b
         type: Rocky
         formationType: Impact formed
@@ -143,12 +143,12 @@ planets:
         radius: 3,902.8 km<br/>(0.613 Yrths)
         surface_area: 1.914 × 10<sup>08</sup> km<sup>2</sup><br/>(0.375 Yrths)
         volume: 2.490 × 10<sup>11</sup> km<sup>3</sup><br/>(0.230 Yrths)
-        mass: 8.208 × 10<sup>23</sup> kg<br />(2.348503208478428 Yrths)
+        mass: 8.208 × 10<sup>23</sup> kg<br />(0.137 Yrths)
         density: 3.296 g/cm<sup>3</sup>
         surface_gravity: 3.591 m/s<sup>2</sup><br />(0.366 g<sub>0</sub>)
         escape_velocity: 5.298 km/s<br />(19,074 km/h)
         rotation_period: 51.264 d
         axial_tilt: 19.67°
         albedo: 0.30
-        temperature: 3336 K<br />(3063 °C)
+        temperature: 254 K<br />(-19 °C)
 ---

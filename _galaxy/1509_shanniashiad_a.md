@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1509 Shanniashiad A is a star in the constellation Shannias
+      1509 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1130.07 ly
 apparent_magnitude: 7.22
 absolute_magnitude: -0.48

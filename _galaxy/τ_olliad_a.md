@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Olliad A is a star in the constellation Ol
+      τ Olliad A is a star in the constellation <a href="ol.html">Ol</a>
 distance: 283.18 ly
 apparent_magnitude: 5.25
 absolute_magnitude: 0.55

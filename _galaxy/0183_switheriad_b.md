@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0183 Switheriad B is a star in the constellation Swither
+      0183 Switheriad B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 1000.60 ly
 apparent_magnitude: 18.44
 absolute_magnitude: 11.01

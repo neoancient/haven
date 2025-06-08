@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5018 Geardiad is a star in the constellation Geard
+      5018 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 805.05 ly
 apparent_magnitude: 8.93
 absolute_magnitude: 1.96

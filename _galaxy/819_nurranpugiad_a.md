@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      819 Nurranpugiad A is a star in the constellation Nurranpug
+      819 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 629.52 ly
 apparent_magnitude: 8.21
 absolute_magnitude: 1.78

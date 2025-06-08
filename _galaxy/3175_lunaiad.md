@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3175 Lunaiad is a star in the constellation Luna
+      3175 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 310.41 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 5.74

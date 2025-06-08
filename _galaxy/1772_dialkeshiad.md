@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1772 Dialkeshiad is a star in the constellation Dialkes
+      1772 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 486.97 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 4.81

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      939 Aldnanniad A is a star in the constellation Aldnan
+      939 Aldnanniad A is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 292.71 ly
 apparent_magnitude: 6.86
 absolute_magnitude: 2.09

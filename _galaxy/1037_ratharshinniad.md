@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1037 Ratharshinniad is a star in the constellation Ratharshin
+      1037 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 244.59 ly
 apparent_magnitude: 8.76
 absolute_magnitude: 4.39

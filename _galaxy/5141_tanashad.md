@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5141 Tanashad is a star in the constellation Tanas
+      5141 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 322.99 ly
 apparent_magnitude: 10.00
 absolute_magnitude: 5.02

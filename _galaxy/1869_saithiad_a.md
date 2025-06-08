@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1869 Saithiad A is a star in the constellation Saith
+      1869 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 867.40 ly
 apparent_magnitude: 6.63
 absolute_magnitude: -0.50

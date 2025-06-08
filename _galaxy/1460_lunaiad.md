@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1460 Lunaiad is a star in the constellation Luna
+      1460 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 199.46 ly
 apparent_magnitude: 8.88
 absolute_magnitude: 4.95

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Ononniad is a star in the constellation Onon
+      τ Ononniad is a star in the constellation <a href="onon.html">Onon</a>
 distance: 56.62 ly
 apparent_magnitude: 6.13
 absolute_magnitude: 4.93
@@ -31,14 +31,14 @@ planets:
     radius: 8,476.0 km<br/>(1.330 Yrths)
     surface_area: 9.028 × 10<sup>08</sup> km<sup>2</sup><br/>(1.770 Yrths)
     volume: 2.551 × 10<sup>12</sup> km<sup>3</sup><br/>(2.355 Yrths)
-    mass: 1.852 × 10<sup>25</sup> kg<br />(3.1009873147880476 Yrths)
+    mass: 1.852 × 10<sup>25</sup> kg<br />(3.10 Yrths)
     density: 7.260 g/cm<sup>3</sup>
     surface_gravity: 17.181 m/s<sup>2</sup><br />(1.752 g<sub>0</sub>)
     escape_velocity: 17.078 km/s<br />(61,480 km/h)
     rotation_period: 0.955 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 482 K<br />(209 °C)
+    temperature: 1088 K<br />(815 °C)
     surface_pressure: 186 kPa<br />(2 atm)
     composition:
       - 59.6738% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 6,651.7 km<br/>(1.044 Yrths)
         surface_area: 5.560 × 10<sup>08</sup> km<sup>2</sup><br/>(1.090 Yrths)
         volume: 1.233 × 10<sup>12</sup> km<sup>3</sup><br/>(1.138 Yrths)
-        mass: 1.701 × 10<sup>24</sup> kg<br />(3.1009873147880476 Yrths)
+        mass: 1.701 × 10<sup>24</sup> kg<br />(0.285 Yrths)
         density: 1.380 g/cm<sup>3</sup>
         surface_gravity: 2.562 m/s<sup>2</sup><br />(0.261 g<sub>0</sub>)
         escape_velocity: 5.842 km/s<br />(21,032 km/h)
         rotation_period: 50.245 d
         axial_tilt: 17.74°
         albedo: 0.30
-        temperature: 4539 K<br />(4266 °C)
+        temperature: 321 K<br />(48 °C)
       - name: τ Ononniad I b
         type: Rocky
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 5,055.5 km<br/>(0.794 Yrths)
         surface_area: 3.212 × 10<sup>08</sup> km<sup>2</sup><br/>(0.630 Yrths)
         volume: 5.412 × 10<sup>11</sup> km<sup>3</sup><br/>(0.500 Yrths)
-        mass: 1.669 × 10<sup>24</sup> kg<br />(3.1009873147880476 Yrths)
+        mass: 1.669 × 10<sup>24</sup> kg<br />(0.279 Yrths)
         density: 3.083 g/cm<sup>3</sup>
         surface_gravity: 4.352 m/s<sup>2</sup><br />(0.444 g<sub>0</sub>)
         escape_velocity: 6.638 km/s<br />(23,897 km/h)
         rotation_period: 41.745 d
         axial_tilt: 14.07°
         albedo: 0.30
-        temperature: 4328 K<br />(4054 °C)
+        temperature: 321 K<br />(48 °C)
       - name: τ Ononniad I c
         type: Rocky
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 2,789.9 km<br/>(0.438 Yrths)
         surface_area: 9.781 × 10<sup>07</sup> km<sup>2</sup><br/>(0.192 Yrths)
         volume: 9.096 × 10<sup>10</sup> km<sup>3</sup><br/>(0.084 Yrths)
-        mass: 2.796 × 10<sup>23</sup> kg<br />(3.1009873147880476 Yrths)
+        mass: 2.796 × 10<sup>23</sup> kg<br />(0.047 Yrths)
         density: 3.074 g/cm<sup>3</sup>
         surface_gravity: 2.394 m/s<sup>2</sup><br />(0.244 g<sub>0</sub>)
         escape_velocity: 3.657 km/s<br />(13,167 km/h)
         rotation_period: 28.725 d
         axial_tilt: 11.73°
         albedo: 0.30
-        temperature: 4126 K<br />(3853 °C)
+        temperature: 321 K<br />(48 °C)
   - name: τ Ononniad II
     type: Ice giant
     aphelion: 172,917,109 km<br />1.156 AU
@@ -116,14 +116,14 @@ planets:
     radius: 19,543.9 km<br/>(3.068 Yrths)
     surface_area: 4.800 × 10<sup>09</sup> km<sup>2</sup><br/>(9.410 Yrths)
     volume: 3.127 × 10<sup>13</sup> km<sup>3</sup><br/>(28.868 Yrths)
-    mass: 4.132 × 10<sup>25</sup> kg<br />(6.919216077107244 Yrths)
+    mass: 4.132 × 10<sup>25</sup> kg<br />(6.92 Yrths)
     density: 1.321 g/cm<sup>3</sup>
     surface_gravity: 7.211 m/s<sup>2</sup><br />(0.735 g<sub>0</sub>)
     escape_velocity: 16.800 km/s<br />(60,479 km/h)
     rotation_period: 0.587 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 442 K<br />(169 °C)
+    temperature: 455 K<br />(182 °C)
     composition:
       - 84.9811% hydrogen
       - 8.5981% helium
@@ -144,14 +144,14 @@ planets:
         radius: 11,431.5 km<br/>(1.794 Yrths)
         surface_area: 1.642 × 10<sup>09</sup> km<sup>2</sup><br/>(3.219 Yrths)
         volume: 6.257 × 10<sup>12</sup> km<sup>3</sup><br/>(5.777 Yrths)
-        mass: 1.573 × 10<sup>25</sup> kg<br />(6.919216077107244 Yrths)
+        mass: 1.573 × 10<sup>25</sup> kg<br />(2.634 Yrths)
         density: 2.513 g/cm<sup>3</sup>
         surface_gravity: 8.022 m/s<sup>2</sup><br />(0.818 g<sub>0</sub>)
         escape_velocity: 13.552 km/s<br />(48,786 km/h)
         rotation_period: 56.640 d
         axial_tilt: 28.40°
         albedo: 0.30
-        temperature: 2368 K<br />(2095 °C)
+        temperature: 241 K<br />(-32 °C)
       - name: τ Ononniad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -164,14 +164,14 @@ planets:
         radius: 17,290.0 km<br/>(2.714 Yrths)
         surface_area: 3.757 × 10<sup>09</sup> km<sup>2</sup><br/>(7.365 Yrths)
         volume: 2.165 × 10<sup>13</sup> km<sup>3</sup><br/>(19.988 Yrths)
-        mass: 4.531 × 10<sup>25</sup> kg<br />(6.919216077107244 Yrths)
+        mass: 4.531 × 10<sup>25</sup> kg<br />(7.587 Yrths)
         density: 2.093 g/cm<sup>3</sup>
         surface_gravity: 10.103 m/s<sup>2</sup><br />(1.030 g<sub>0</sub>)
         escape_velocity: 18.704 km/s<br />(67,333 km/h)
         rotation_period: 36.258 d
         axial_tilt: 24.56°
         albedo: 0.30
-        temperature: 2258 K<br />(1985 °C)
+        temperature: 241 K<br />(-32 °C)
       - name: τ Ononniad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -184,14 +184,14 @@ planets:
         radius: 15,385.9 km<br/>(2.415 Yrths)
         surface_area: 2.975 × 10<sup>09</sup> km<sup>2</sup><br/>(5.832 Yrths)
         volume: 1.526 × 10<sup>13</sup> km<sup>3</sup><br/>(14.085 Yrths)
-        mass: 2.876 × 10<sup>25</sup> kg<br />(6.919216077107244 Yrths)
+        mass: 2.876 × 10<sup>25</sup> kg<br />(4.815 Yrths)
         density: 1.885 g/cm<sup>3</sup>
         surface_gravity: 8.096 m/s<sup>2</sup><br />(0.826 g<sub>0</sub>)
         escape_velocity: 15.795 km/s<br />(56,861 km/h)
         rotation_period: 52.686 d
         axial_tilt: 18.91°
         albedo: 0.30
-        temperature: 2153 K<br />(1880 °C)
+        temperature: 241 K<br />(-32 °C)
       - name: τ Ononniad II d
         type: Icy
         formationType: Accreted
@@ -204,14 +204,14 @@ planets:
         radius: 13,282.4 km<br/>(2.085 Yrths)
         surface_area: 2.217 × 10<sup>09</sup> km<sup>2</sup><br/>(4.346 Yrths)
         volume: 9.816 × 10<sup>12</sup> km<sup>3</sup><br/>(9.062 Yrths)
-        mass: 1.234 × 10<sup>25</sup> kg<br />(6.919216077107244 Yrths)
+        mass: 1.234 × 10<sup>25</sup> kg<br />(2.066 Yrths)
         density: 1.257 g/cm<sup>3</sup>
         surface_gravity: 4.662 m/s<sup>2</sup><br />(0.475 g<sub>0</sub>)
         escape_velocity: 11.136 km/s<br />(40,090 km/h)
         rotation_period: 48.140 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 1866 K<br />(1593 °C)
+        temperature: 241 K<br />(-32 °C)
       - name: τ Ononniad II e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -224,14 +224,14 @@ planets:
         radius: 11,543.3 km<br/>(1.812 Yrths)
         surface_area: 1.674 × 10<sup>09</sup> km<sup>2</sup><br/>(3.283 Yrths)
         volume: 6.443 × 10<sup>12</sup> km<sup>3</sup><br/>(5.948 Yrths)
-        mass: 1.458 × 10<sup>25</sup> kg<br />(6.919216077107244 Yrths)
+        mass: 1.458 × 10<sup>25</sup> kg<br />(2.442 Yrths)
         density: 2.264 g/cm<sup>3</sup>
         surface_gravity: 7.295 m/s<sup>2</sup><br />(0.744 g<sub>0</sub>)
         escape_velocity: 12.986 km/s<br />(46,751 km/h)
         rotation_period: 39.477 d
         axial_tilt: 19.77°
         albedo: 0.30
-        temperature: 1779 K<br />(1506 °C)
+        temperature: 241 K<br />(-32 °C)
       - name: τ Ononniad II f
         type: Rocky
         formationType: Accreted
@@ -244,14 +244,14 @@ planets:
         radius: 9,436.4 km<br/>(1.481 Yrths)
         surface_area: 1.119 × 10<sup>09</sup> km<sup>2</sup><br/>(2.194 Yrths)
         volume: 3.520 × 10<sup>12</sup> km<sup>3</sup><br/>(3.249 Yrths)
-        mass: 1.251 × 10<sup>25</sup> kg<br />(6.919216077107244 Yrths)
+        mass: 1.251 × 10<sup>25</sup> kg<br />(2.094 Yrths)
         density: 3.553 g/cm<sup>3</sup>
         surface_gravity: 9.361 m/s<sup>2</sup><br />(0.955 g<sub>0</sub>)
         escape_velocity: 13.300 km/s<br />(47,881 km/h)
         rotation_period: 37.135 d
         axial_tilt: 6.20°
         albedo: 0.30
-        temperature: 1696 K<br />(1423 °C)
+        temperature: 241 K<br />(-32 °C)
   - name: τ Ononniad III
     type: Large terrestrial
     aphelion: 307,052,368 km<br />2.052 AU
@@ -263,14 +263,14 @@ planets:
     radius: 6,394.6 km<br/>(1.004 Yrths)
     surface_area: 5.138 × 10<sup>08</sup> km<sup>2</sup><br/>(1.007 Yrths)
     volume: 1.095 × 10<sup>12</sup> km<sup>3</sup><br/>(1.011 Yrths)
-    mass: 7.309 × 10<sup>24</sup> kg<br />(1.2239228320962636 Yrths)
+    mass: 7.309 × 10<sup>24</sup> kg<br />(1.22 Yrths)
     density: 6.674 g/cm<sup>3</sup>
     surface_gravity: 11.914 m/s<sup>2</sup><br />(1.215 g<sub>0</sub>)
     escape_velocity: 12.352 km/s<br />(44,468 km/h)
     rotation_period: 0.943 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 244 K<br />(-29 °C)
+    temperature: 361 K<br />(88 °C)
     surface_pressure: 224 kPa<br />(2 atm)
     composition:
       - 69.6029% nitrogen
@@ -290,14 +290,14 @@ planets:
         radius: 4,505.1 km<br/>(0.707 Yrths)
         surface_area: 2.551 × 10<sup>08</sup> km<sup>2</sup><br/>(0.500 Yrths)
         volume: 3.830 × 10<sup>11</sup> km<sup>3</sup><br/>(0.354 Yrths)
-        mass: 8.079 × 10<sup>23</sup> kg<br />(1.2239228320962636 Yrths)
+        mass: 8.079 × 10<sup>23</sup> kg<br />(0.135 Yrths)
         density: 2.109 g/cm<sup>3</sup>
         surface_gravity: 2.653 m/s<sup>2</sup><br />(0.271 g<sub>0</sub>)
         escape_velocity: 4.893 km/s<br />(17,614 km/h)
         rotation_period: 45.730 d
         axial_tilt: 25.24°
         albedo: 0.30
-        temperature: 2652 K<br />(2379 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: τ Ononniad III b
         type: Rocky
         formationType: Accreted
@@ -310,14 +310,14 @@ planets:
         radius: 2,637.5 km<br/>(0.414 Yrths)
         surface_area: 8.742 × 10<sup>07</sup> km<sup>2</sup><br/>(0.171 Yrths)
         volume: 7.685 × 10<sup>10</sup> km<sup>3</sup><br/>(0.071 Yrths)
-        mass: 2.662 × 10<sup>23</sup> kg<br />(1.2239228320962636 Yrths)
+        mass: 2.662 × 10<sup>23</sup> kg<br />(0.045 Yrths)
         density: 3.464 g/cm<sup>3</sup>
         surface_gravity: 2.551 m/s<sup>2</sup><br />(0.260 g<sub>0</sub>)
         escape_velocity: 3.671 km/s<br />(13,215 km/h)
         rotation_period: 38.170 d
         axial_tilt: 6.30°
         albedo: 0.30
-        temperature: 2529 K<br />(2255 °C)
+        temperature: 181 K<br />(-92 °C)
   - name: τ Ononniad IV
     type: Gas giant
     aphelion: 523,713,649 km<br />3.501 AU
@@ -329,7 +329,7 @@ planets:
     radius: 155.4 km<br/>(0.024 Yrths)
     surface_area: 3.033 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.571 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.415 × 10<sup>26</sup> kg<br />(57.184663028000415 Yrths)
+    mass: 3.415 × 10<sup>26</sup> kg<br />(57.18 Yrths)
     density: 21744867.612 g/cm<sup>3</sup>
     surface_gravity: 943147.157 m/s<sup>2</sup><br />(96174.245 g<sub>0</sub>)
     escape_velocity: 541.700 km/s<br />(1,950,119 km/h)
@@ -350,14 +350,14 @@ planets:
         radius: 69,802.4 km<br/>(10.956 Yrths)
         surface_area: 6.123 × 10<sup>10</sup> km<sup>2</sup><br/>(120.040 Yrths)
         volume: 1.425 × 10<sup>15</sup> km<sup>3</sup><br/>(1315.189 Yrths)
-        mass: 2.567 × 10<sup>27</sup> kg<br />(57.184663028000415 Yrths)
+        mass: 2.567 × 10<sup>27</sup> kg<br />(429.767 Yrths)
         density: 1.802 g/cm<sup>3</sup>
         surface_gravity: 35.110 m/s<sup>2</sup><br />(3.580 g<sub>0</sub>)
         escape_velocity: 70.058 km/s<br />(252,210 km/h)
         rotation_period: 47.138 d
         axial_tilt: 28.56°
         albedo: 0.30
-        temperature: 805 K<br />(532 °C)
+        temperature: 136 K<br />(-137 °C)
       - name: τ Ononniad IV b
         type: Icy
         formationType: Accreted
@@ -370,14 +370,14 @@ planets:
         radius: 78,569.2 km<br/>(12.332 Yrths)
         surface_area: 7.757 × 10<sup>10</sup> km<sup>2</sup><br/>(152.086 Yrths)
         volume: 2.032 × 10<sup>15</sup> km<sup>3</sup><br/>(1875.571 Yrths)
-        mass: 2.188 × 10<sup>27</sup> kg<br />(57.184663028000415 Yrths)
+        mass: 2.188 × 10<sup>27</sup> kg<br />(366.348 Yrths)
         density: 1.077 g/cm<sup>3</sup>
         surface_gravity: 23.623 m/s<sup>2</sup><br />(2.409 g<sub>0</sub>)
         escape_velocity: 60.968 km/s<br />(219,483 km/h)
         rotation_period: 77.224 d
         axial_tilt: 10.40°
         albedo: 0.30
-        temperature: 634 K<br />(361 °C)
+        temperature: 136 K<br />(-137 °C)
       - name: τ Ononniad IV c
         type: Asteroid
         formationType: Captured
@@ -390,14 +390,14 @@ planets:
         radius: 76,503.8 km<br/>(12.008 Yrths)
         surface_area: 7.355 × 10<sup>10</sup> km<sup>2</sup><br/>(144.195 Yrths)
         volume: 1.876 × 10<sup>15</sup> km<sup>3</sup><br/>(1731.513 Yrths)
-        mass: 6.513 × 10<sup>27</sup> kg<br />(57.184663028000415 Yrths)
+        mass: 6.513 × 10<sup>27</sup> kg<br />(1090.673 Yrths)
         density: 3.473 g/cm<sup>3</sup>
         surface_gravity: 74.176 m/s<sup>2</sup><br />(7.564 g<sub>0</sub>)
         escape_velocity: 106.606 km/s<br />(383,783 km/h)
         rotation_period: 31.535 d
         axial_tilt: 18.24°
         albedo: 0.30
-        temperature: 605 K<br />(332 °C)
+        temperature: 136 K<br />(-137 °C)
       - name: τ Ononniad IV d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -410,35 +410,15 @@ planets:
         radius: 63,505.4 km<br/>(9.968 Yrths)
         surface_area: 5.068 × 10<sup>10</sup> km<sup>2</sup><br/>(99.359 Yrths)
         volume: 1.073 × 10<sup>15</sup> km<sup>3</sup><br/>(990.399 Yrths)
-        mass: 2.076 × 10<sup>27</sup> kg<br />(57.184663028000415 Yrths)
+        mass: 2.076 × 10<sup>27</sup> kg<br />(347.663 Yrths)
         density: 1.935 g/cm<sup>3</sup>
         surface_gravity: 34.314 m/s<sup>2</sup><br />(3.499 g<sub>0</sub>)
         escape_velocity: 66.062 km/s<br />(237,823 km/h)
         rotation_period: 46.409 d
         axial_tilt: 28.62°
         albedo: 0.30
-        temperature: 550 K<br />(277 °C)
+        temperature: 136 K<br />(-137 °C)
       - name: τ Ononniad IV e
-        type: Icy
-        formationType: Impact formed
-        aphelion: 111,313,290 km<br />
-        perihelion: 90,171,010 km<br />
-        semi_major_axis: 100,742,150 km<br />
-        eccentricity: 0.105
-        orbital_period: 0.05 d<br />
-        inclination: 3.83°
-        radius: 23,686.1 km<br/>(3.718 Yrths)
-        surface_area: 7.050 × 10<sup>09</sup> km<sup>2</sup><br/>(13.822 Yrths)
-        volume: 5.566 × 10<sup>13</sup> km<sup>3</sup><br/>(51.387 Yrths)
-        mass: 8.102 × 10<sup>25</sup> kg<br />(57.184663028000415 Yrths)
-        density: 1.455 g/cm<sup>3</sup>
-        surface_gravity: 9.625 m/s<sup>2</sup><br />(0.981 g<sub>0</sub>)
-        escape_velocity: 21.368 km/s<br />(76,924 km/h)
-        rotation_period: 73.759 d
-        axial_tilt: 20.63°
-        albedo: 0.30
-        temperature: 310 K<br />(37 °C)
-      - name: τ Ononniad IV f
         type: Icy
         formationType: Captured
         aphelion: 289,667,571 km<br />
@@ -450,15 +430,15 @@ planets:
         radius: 87,770.1 km<br/>(13.777 Yrths)
         surface_area: 9.681 × 10<sup>10</sup> km<sup>2</sup><br/>(189.792 Yrths)
         volume: 2.832 × 10<sup>15</sup> km<sup>3</sup><br/>(2614.673 Yrths)
-        mass: 4.237 × 10<sup>27</sup> kg<br />(57.184663028000415 Yrths)
+        mass: 4.237 × 10<sup>27</sup> kg<br />(709.456 Yrths)
         density: 1.496 g/cm<sup>3</sup>
         surface_gravity: 36.658 m/s<sup>2</sup><br />(3.738 g<sub>0</sub>)
         escape_velocity: 80.273 km/s<br />(288,981 km/h)
         rotation_period: 57.524 d
         axial_tilt: 8.62°
         albedo: 0.30
-        temperature: 193 K<br />(-80 °C)
-      - name: τ Ononniad IV g
+        temperature: 136 K<br />(-137 °C)
+      - name: τ Ononniad IV f
         type: Icy
         formationType: Impact formed
         aphelion: 1,166,664,486 km<br />
@@ -470,14 +450,14 @@ planets:
         radius: 71,297.7 km<br/>(11.191 Yrths)
         surface_area: 6.388 × 10<sup>10</sup> km<sup>2</sup><br/>(125.238 Yrths)
         volume: 1.518 × 10<sup>15</sup> km<sup>3</sup><br/>(1401.536 Yrths)
-        mass: 2.660 × 10<sup>27</sup> kg<br />(57.184663028000415 Yrths)
+        mass: 2.660 × 10<sup>27</sup> kg<br />(445.448 Yrths)
         density: 1.752 g/cm<sup>3</sup>
         surface_gravity: 34.880 m/s<sup>2</sup><br />(3.557 g<sub>0</sub>)
         escape_velocity: 70.573 km/s<br />(254,063 km/h)
         rotation_period: 42.061 d
         axial_tilt: 25.76°
         albedo: 0.30
-        temperature: 99 K<br />(-174 °C)
+        temperature: 136 K<br />(-137 °C)
   - name: τ Ononniad V
     type: Large terrestrial
     aphelion: 979,753,321 km<br />6.549 AU
@@ -489,14 +469,14 @@ planets:
     radius: 9,885.6 km<br/>(1.552 Yrths)
     surface_area: 1.228 × 10<sup>09</sup> km<sup>2</sup><br/>(2.408 Yrths)
     volume: 4.047 × 10<sup>12</sup> km<sup>3</sup><br/>(3.736 Yrths)
-    mass: 2.653 × 10<sup>25</sup> kg<br />(4.4423945851219875 Yrths)
+    mass: 2.653 × 10<sup>25</sup> kg<br />(4.44 Yrths)
     density: 6.556 g/cm<sup>3</sup>
     surface_gravity: 18.095 m/s<sup>2</sup><br />(1.845 g<sub>0</sub>)
     escape_velocity: 18.927 km/s<br />(68,138 km/h)
     rotation_period: 0.611 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 129 K<br />(-145 °C)
+    temperature: 158 K<br />(-115 °C)
     surface_pressure: 119 kPa<br />(1 atm)
     composition:
       - 82.4329% methane
@@ -515,14 +495,14 @@ planets:
         radius: 3,000.2 km<br/>(0.471 Yrths)
         surface_area: 1.131 × 10<sup>08</sup> km<sup>2</sup><br/>(0.222 Yrths)
         volume: 1.131 × 10<sup>11</sup> km<sup>3</sup><br/>(0.104 Yrths)
-        mass: 3.107 × 10<sup>23</sup> kg<br />(4.4423945851219875 Yrths)
+        mass: 3.107 × 10<sup>23</sup> kg<br />(0.052 Yrths)
         density: 2.747 g/cm<sup>3</sup>
         surface_gravity: 2.301 m/s<sup>2</sup><br />(0.235 g<sub>0</sub>)
         escape_velocity: 3.718 km/s<br />(13,385 km/h)
         rotation_period: 54.290 d
         axial_tilt: 17.67°
         albedo: 0.30
-        temperature: 1174 K<br />(901 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: τ Ononniad V b
         type: Asteroid
         formationType: Captured
@@ -535,14 +515,14 @@ planets:
         radius: 1,159.3 km<br/>(0.182 Yrths)
         surface_area: 1.689 × 10<sup>07</sup> km<sup>2</sup><br/>(0.033 Yrths)
         volume: 6.527 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.506 × 10<sup>22</sup> kg<br />(4.4423945851219875 Yrths)
+        mass: 1.506 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.308 g/cm<sup>3</sup>
         surface_gravity: 0.747 m/s<sup>2</sup><br />(0.076 g<sub>0</sub>)
         escape_velocity: 1.317 km/s<br />(4,741 km/h)
         rotation_period: 38.803 d
         axial_tilt: 55.39°
         albedo: 0.30
-        temperature: 1119 K<br />(846 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: τ Ononniad V c
         type: Icy
         formationType: Captured
@@ -555,14 +535,14 @@ planets:
         radius: 2,230.3 km<br/>(0.350 Yrths)
         surface_area: 6.251 × 10<sup>07</sup> km<sup>2</sup><br/>(0.123 Yrths)
         volume: 4.647 × 10<sup>10</sup> km<sup>3</sup><br/>(0.043 Yrths)
-        mass: 5.097 × 10<sup>22</sup> kg<br />(4.4423945851219875 Yrths)
+        mass: 5.097 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 1.097 g/cm<sup>3</sup>
         surface_gravity: 0.683 m/s<sup>2</sup><br />(0.070 g<sub>0</sub>)
         escape_velocity: 1.747 km/s<br />(6,288 km/h)
         rotation_period: 78.202 d
         axial_tilt: 14.29°
         albedo: 0.30
-        temperature: 1067 K<br />(794 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: τ Ononniad V d
         type: Icy
         formationType: Accreted
@@ -575,12 +555,12 @@ planets:
         radius: 13,710.9 km<br/>(2.152 Yrths)
         surface_area: 2.362 × 10<sup>09</sup> km<sup>2</sup><br/>(4.631 Yrths)
         volume: 1.080 × 10<sup>13</sup> km<sup>3</sup><br/>(9.967 Yrths)
-        mass: 7.558 × 10<sup>24</sup> kg<br />(4.4423945851219875 Yrths)
+        mass: 7.558 × 10<sup>24</sup> kg<br />(1.265 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 2.680 m/s<sup>2</sup><br />(0.273 g<sub>0</sub>)
         escape_velocity: 8.578 km/s<br />(30,880 km/h)
         rotation_period: 78.258 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 1018 K<br />(744 °C)
+        temperature: 102 K<br />(-171 °C)
 ---

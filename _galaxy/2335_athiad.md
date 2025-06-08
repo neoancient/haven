@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2335 Athiad is a star in the constellation Ath
+      2335 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 668.60 ly
 apparent_magnitude: 11.84
 absolute_magnitude: 5.28

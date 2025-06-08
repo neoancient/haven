@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1949 Keead A is a star in the constellation Kee
+      1949 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 612.75 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 1.78

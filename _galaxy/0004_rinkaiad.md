@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0004 Rinkaiad is a star in the constellation Rinka
+      0004 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 279.35 ly
 apparent_magnitude: 6.26
 absolute_magnitude: 1.60
@@ -31,15 +31,15 @@ planets:
     radius: 9,912.2 km<br/>(1.556 Yrths)
     surface_area: 1.235 × 10<sup>09</sup> km<sup>2</sup><br/>(2.421 Yrths)
     volume: 4.079 × 10<sup>12</sup> km<sup>3</sup><br/>(3.766 Yrths)
-    mass: 2.362 × 10<sup>25</sup> kg<br />(3.9554361150488844 Yrths)
+    mass: 2.362 × 10<sup>25</sup> kg<br />(3.96 Yrths)
     density: 5.790 g/cm<sup>3</sup>
     surface_gravity: 16.025 m/s<sup>2</sup><br />(1.634 g<sub>0</sub>)
     escape_velocity: 17.836 km/s<br />(64,208 km/h)
     rotation_period: 0.633 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 769 K<br />(496 °C)
-    surface_pressure: 3,478 kPa<br />(34 atm)
+    temperature: 2031 K<br />(1758 °C)
+    surface_pressure: 3,478 kPa<br />(35 atm)
     composition:
       - 87.1866% carbon dioxide
       - 4.5097% methane
@@ -58,14 +58,14 @@ planets:
         radius: 7,600.6 km<br/>(1.193 Yrths)
         surface_area: 7.259 × 10<sup>08</sup> km<sup>2</sup><br/>(1.423 Yrths)
         volume: 1.839 × 10<sup>12</sup> km<sup>3</sup><br/>(1.698 Yrths)
-        mass: 6.093 × 10<sup>24</sup> kg<br />(3.9554361150488844 Yrths)
+        mass: 6.093 × 10<sup>24</sup> kg<br />(1.020 Yrths)
         density: 3.313 g/cm<sup>3</sup>
         surface_gravity: 7.030 m/s<sup>2</sup><br />(0.717 g<sub>0</sub>)
         escape_velocity: 10.344 km/s<br />(37,239 km/h)
         rotation_period: 30.449 d
         axial_tilt: 16.72°
         albedo: 0.30
-        temperature: 6590 K<br />(6317 °C)
+        temperature: 402 K<br />(128 °C)
   - name: 0004 Rinkaiad II
     type: Gas dwarf
     aphelion: 629,863,219 km<br />4.210 AU
@@ -77,14 +77,14 @@ planets:
     radius: 21,934.6 km<br/>(3.443 Yrths)
     surface_area: 6.046 × 10<sup>09</sup> km<sup>2</sup><br/>(11.853 Yrths)
     volume: 4.421 × 10<sup>13</sup> km<sup>3</sup><br/>(40.810 Yrths)
-    mass: 7.775 × 10<sup>25</sup> kg<br />(13.019410227042977 Yrths)
+    mass: 7.775 × 10<sup>25</sup> kg<br />(13.02 Yrths)
     density: 1.759 g/cm<sup>3</sup>
     surface_gravity: 10.771 m/s<sup>2</sup><br />(1.098 g<sub>0</sub>)
     escape_velocity: 21.752 km/s<br />(78,309 km/h)
     rotation_period: 0.384 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 451 K<br />(177 °C)
+    temperature: 403 K<br />(130 °C)
     composition:
       - 94.8865% hydrogen
       - 3.8671% helium
@@ -102,14 +102,14 @@ planets:
         radius: 17,454.5 km<br/>(2.740 Yrths)
         surface_area: 3.828 × 10<sup>09</sup> km<sup>2</sup><br/>(7.506 Yrths)
         volume: 2.227 × 10<sup>13</sup> km<sup>3</sup><br/>(20.564 Yrths)
-        mass: 4.608 × 10<sup>25</sup> kg<br />(13.019410227042977 Yrths)
+        mass: 4.608 × 10<sup>25</sup> kg<br />(7.715 Yrths)
         density: 2.069 g/cm<sup>3</sup>
         surface_gravity: 10.080 m/s<sup>2</sup><br />(1.028 g<sub>0</sub>)
         escape_velocity: 18.771 km/s<br />(67,577 km/h)
         rotation_period: 42.994 d
         axial_tilt: 21.11°
         albedo: 0.30
-        temperature: 2961 K<br />(2688 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0004 Rinkaiad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -122,14 +122,14 @@ planets:
         radius: 13,259.4 km<br/>(2.081 Yrths)
         surface_area: 2.209 × 10<sup>09</sup> km<sup>2</sup><br/>(4.331 Yrths)
         volume: 9.765 × 10<sup>12</sup> km<sup>3</sup><br/>(9.015 Yrths)
-        mass: 1.562 × 10<sup>25</sup> kg<br />(13.019410227042977 Yrths)
+        mass: 1.562 × 10<sup>25</sup> kg<br />(2.616 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 5.923 m/s<sup>2</sup><br />(0.604 g<sub>0</sub>)
         escape_velocity: 12.541 km/s<br />(45,149 km/h)
         rotation_period: 54.218 d
         axial_tilt: 14.11°
         albedo: 0.30
-        temperature: 2824 K<br />(2551 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0004 Rinkaiad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 12,476.1 km<br/>(1.958 Yrths)
         surface_area: 1.956 × 10<sup>09</sup> km<sup>2</sup><br/>(3.835 Yrths)
         volume: 8.134 × 10<sup>12</sup> km<sup>3</sup><br/>(7.509 Yrths)
-        mass: 2.057 × 10<sup>25</sup> kg<br />(13.019410227042977 Yrths)
+        mass: 2.057 × 10<sup>25</sup> kg<br />(3.444 Yrths)
         density: 2.529 g/cm<sup>3</sup>
         surface_gravity: 8.808 m/s<sup>2</sup><br />(0.898 g<sub>0</sub>)
         escape_velocity: 14.835 km/s<br />(53,406 km/h)
         rotation_period: 31.566 d
         axial_tilt: 10.52°
         albedo: 0.30
-        temperature: 2692 K<br />(2419 °C)
+        temperature: 284 K<br />(11 °C)
   - name: 0004 Rinkaiad III
     type: Gas dwarf
     aphelion: 1,226,344,432 km<br />8.197 AU
@@ -161,14 +161,14 @@ planets:
     radius: 4,050.1 km<br/>(0.636 Yrths)
     surface_area: 2.061 × 10<sup>08</sup> km<sup>2</sup><br/>(0.404 Yrths)
     volume: 2.783 × 10<sup>11</sup> km<sup>3</sup><br/>(0.257 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.146 g/cm<sup>3</sup>
     surface_gravity: 2.427 m/s<sup>2</sup><br />(0.247 g<sub>0</sub>)
     escape_velocity: 4.437 km/s<br />(15,971 km/h)
     rotation_period: 1.000 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 280 K<br />(7 °C)
+    temperature: 246 K<br />(-27 °C)
     composition:
       - 89.9580% hydrogen
       - 9.4044% helium
@@ -188,14 +188,14 @@ planets:
         radius: 410.0 km<br/>(0.064 Yrths)
         surface_area: 2.112 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.887 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.862 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.862 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.031 g/cm<sup>3</sup>
         surface_gravity: 0.232 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.437 km/s<br />(1,573 km/h)
         rotation_period: 49.897 d
         axial_tilt: 10.07°
         albedo: 0.30
-        temperature: 4721 K<br />(4447 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 0004 Rinkaiad III b
         type: Icy
         formationType: Captured
@@ -208,14 +208,14 @@ planets:
         radius: 621.3 km<br/>(0.098 Yrths)
         surface_area: 4.851 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.005 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.196 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.196 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.190 g/cm<sup>3</sup>
         surface_gravity: 0.206 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.507 km/s<br />(1,825 km/h)
         rotation_period: 52.426 d
         axial_tilt: 16.01°
         albedo: 0.30
-        temperature: 4501 K<br />(4228 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 0004 Rinkaiad III c
         type: Asteroid
         formationType: Captured
@@ -228,14 +228,14 @@ planets:
         radius: 356.2 km<br/>(0.056 Yrths)
         surface_area: 1.595 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.893 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.390 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.390 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.318 g/cm<sup>3</sup>
         surface_gravity: 0.231 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.406 km/s<br />(1,460 km/h)
         rotation_period: 55.275 d
         axial_tilt: 18.32°
         albedo: 0.30
-        temperature: 4092 K<br />(3819 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 0004 Rinkaiad III d
         type: Asteroid
         formationType: Captured
@@ -248,12 +248,12 @@ planets:
         radius: 771.4 km<br/>(0.121 Yrths)
         surface_area: 7.477 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.923 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.609 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.609 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.357 g/cm<sup>3</sup>
         surface_gravity: 0.292 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.672 km/s<br />(2,419 km/h)
         rotation_period: 49.393 d
         axial_tilt: 19.51°
         albedo: 0.30
-        temperature: 3901 K<br />(3628 °C)
+        temperature: 201 K<br />(-72 °C)
 ---

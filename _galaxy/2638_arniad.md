@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2638 Arniad is a star in the constellation Arni
+      2638 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 440.55 ly
 apparent_magnitude: 7.41
 absolute_magnitude: 1.75
@@ -31,14 +31,14 @@ planets:
     radius: 236.2 km<br/>(0.037 Yrths)
     surface_area: 7.010 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.519 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.056 × 10<sup>27</sup> kg<br />(344.2756485533353 Yrths)
+    mass: 2.056 × 10<sup>27</sup> kg<br />(344.28 Yrths)
     density: 37250283.427 g/cm<sup>3</sup>
     surface_gravity: 2456425.414 m/s<sup>2</sup><br />(250485.682 g<sub>0</sub>)
     escape_velocity: 1077.944 km/s<br />(3,880,599 km/h)
     rotation_period: 0.232 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1702 K<br />(1429 °C)
+    temperature: 1633 K<br />(1360 °C)
     composition:
       - 79.9107% hydrogen
       - 18.1645% helium
@@ -58,14 +58,14 @@ planets:
         radius: 155,170.8 km<br/>(24.356 Yrths)
         surface_area: 3.026 × 10<sup>11</sup> km<sup>2</sup><br/>(593.205 Yrths)
         volume: 1.565 × 10<sup>16</sup> km<sup>3</sup><br/>(14447.969 Yrths)
-        mass: 2.099 × 10<sup>28</sup> kg<br />(344.2756485533353 Yrths)
+        mass: 2.099 × 10<sup>28</sup> kg<br />(3514.858 Yrths)
         density: 1.341 g/cm<sup>3</sup>
         surface_gravity: 58.106 m/s<sup>2</sup><br />(5.925 g<sub>0</sub>)
         escape_velocity: 134.378 km/s<br />(483,759 km/h)
         rotation_period: 51.274 d
         axial_tilt: 9.30°
         albedo: 0.30
-        temperature: 1407 K<br />(1134 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2638 Arniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 138,933.3 km<br/>(21.807 Yrths)
         surface_area: 2.426 × 10<sup>11</sup> km<sup>2</sup><br/>(475.551 Yrths)
         volume: 1.123 × 10<sup>16</sup> km<sup>3</sup><br/>(10370.410 Yrths)
-        mass: 2.557 × 10<sup>28</sup> kg<br />(344.2756485533353 Yrths)
+        mass: 2.557 × 10<sup>28</sup> kg<br />(4282.019 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 88.302 m/s<sup>2</sup><br />(9.004 g<sub>0</sub>)
         escape_velocity: 156.747 km/s<br />(564,289 km/h)
         rotation_period: 58.559 d
         axial_tilt: 7.10°
         albedo: 0.30
-        temperature: 1341 K<br />(1068 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2638 Arniad I c
         type: Icy
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 198,509.9 km<br/>(31.158 Yrths)
         surface_area: 4.952 × 10<sup>11</sup> km<sup>2</sup><br/>(970.843 Yrths)
         volume: 3.277 × 10<sup>16</sup> km<sup>3</sup><br/>(30249.862 Yrths)
-        mass: 2.294 × 10<sup>28</sup> kg<br />(344.2756485533353 Yrths)
+        mass: 2.294 × 10<sup>28</sup> kg<br />(3840.724 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 38.796 m/s<sup>2</sup><br />(3.956 g<sub>0</sub>)
         escape_velocity: 124.192 km/s<br />(447,091 km/h)
         rotation_period: 66.067 d
         axial_tilt: 22.09°
         albedo: 0.30
-        temperature: 1279 K<br />(1006 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2638 Arniad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -118,14 +118,14 @@ planets:
         radius: 156,632.9 km<br/>(24.585 Yrths)
         surface_area: 3.083 × 10<sup>11</sup> km<sup>2</sup><br/>(604.437 Yrths)
         volume: 1.610 × 10<sup>16</sup> km<sup>3</sup><br/>(14860.251 Yrths)
-        mass: 3.972 × 10<sup>28</sup> kg<br />(344.2756485533353 Yrths)
+        mass: 3.972 × 10<sup>28</sup> kg<br />(6650.963 Yrths)
         density: 2.468 g/cm<sup>3</sup>
         surface_gravity: 107.908 m/s<sup>2</sup><br />(11.004 g<sub>0</sub>)
         escape_velocity: 183.983 km/s<br />(662,340 km/h)
         rotation_period: 39.025 d
         axial_tilt: 22.32°
         albedo: 0.30
-        temperature: 688 K<br />(415 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2638 Arniad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -138,14 +138,14 @@ planets:
         radius: 145,538.7 km<br/>(22.844 Yrths)
         surface_area: 2.662 × 10<sup>11</sup> km<sup>2</sup><br/>(521.845 Yrths)
         volume: 1.291 × 10<sup>16</sup> km<sup>3</sup><br/>(11921.005 Yrths)
-        mass: 3.019 × 10<sup>28</sup> kg<br />(344.2756485533353 Yrths)
+        mass: 3.019 × 10<sup>28</sup> kg<br />(5055.318 Yrths)
         density: 2.338 g/cm<sup>3</sup>
         surface_gravity: 95.001 m/s<sup>2</sup><br />(9.687 g<sub>0</sub>)
         escape_velocity: 166.404 km/s<br />(599,053 km/h)
         rotation_period: 64.021 d
         axial_tilt: 29.16°
         albedo: 0.30
-        temperature: 292 K<br />(19 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2638 Arniad I f
         type: Asteroid
         formationType: Captured
@@ -158,14 +158,14 @@ planets:
         radius: 175,117.7 km<br/>(27.487 Yrths)
         surface_area: 3.854 × 10<sup>11</sup> km<sup>2</sup><br/>(755.518 Yrths)
         volume: 2.249 × 10<sup>16</sup> km<sup>3</sup><br/>(20766.678 Yrths)
-        mass: 5.561 × 10<sup>28</sup> kg<br />(344.2756485533353 Yrths)
+        mass: 5.561 × 10<sup>28</sup> kg<br />(9311.499 Yrths)
         density: 2.472 g/cm<sup>3</sup>
         surface_gravity: 120.864 m/s<sup>2</sup><br />(12.325 g<sub>0</sub>)
         escape_velocity: 205.884 km/s<br />(741,182 km/h)
         rotation_period: 50.237 d
         axial_tilt: 37.89°
         albedo: 0.30
-        temperature: 173 K<br />(-100 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2638 Arniad I g
         type: Rocky
         formationType: Accreted
@@ -178,14 +178,14 @@ planets:
         radius: 111,268.8 km<br/>(17.465 Yrths)
         surface_area: 1.556 × 10<sup>11</sup> km<sup>2</sup><br/>(305.022 Yrths)
         volume: 5.770 × 10<sup>15</sup> km<sup>3</sup><br/>(5327.174 Yrths)
-        mass: 1.950 × 10<sup>28</sup> kg<br />(344.2756485533353 Yrths)
+        mass: 1.950 × 10<sup>28</sup> kg<br />(3265.489 Yrths)
         density: 3.380 g/cm<sup>3</sup>
         surface_gravity: 104.988 m/s<sup>2</sup><br />(10.706 g<sub>0</sub>)
         escape_velocity: 152.956 km/s<br />(550,640 km/h)
         rotation_period: 29.411 d
         axial_tilt: 19.83°
         albedo: 0.30
-        temperature: 130 K<br />(-143 °C)
+        temperature: 398 K<br />(125 °C)
   - name: 2638 Arniad II
     type: Gas dwarf
     aphelion: 663,851,466 km<br />4.438 AU
@@ -197,14 +197,14 @@ planets:
     radius: 11,998.6 km<br/>(1.883 Yrths)
     surface_area: 1.809 × 10<sup>09</sup> km<sup>2</sup><br/>(3.547 Yrths)
     volume: 7.236 × 10<sup>12</sup> km<sup>3</sup><br/>(6.680 Yrths)
-    mass: 1.321 × 10<sup>25</sup> kg<br />(2.2120430817997625 Yrths)
+    mass: 1.321 × 10<sup>25</sup> kg<br />(2.21 Yrths)
     density: 1.826 g/cm<sup>3</sup>
     surface_gravity: 6.116 m/s<sup>2</sup><br />(0.624 g<sub>0</sub>)
     escape_velocity: 12.123 km/s<br />(43,643 km/h)
     rotation_period: 0.538 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 438 K<br />(165 °C)
+    temperature: 397 K<br />(124 °C)
     composition:
       - 85.6888% hydrogen
       - 8.7475% helium
@@ -226,14 +226,14 @@ planets:
         radius: 7,518.0 km<br/>(1.180 Yrths)
         surface_area: 7.103 × 10<sup>08</sup> km<sup>2</sup><br/>(1.392 Yrths)
         volume: 1.780 × 10<sup>12</sup> km<sup>3</sup><br/>(1.643 Yrths)
-        mass: 1.246 × 10<sup>24</sup> kg<br />(2.2120430817997625 Yrths)
+        mass: 1.246 × 10<sup>24</sup> kg<br />(0.209 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 1.469 m/s<sup>2</sup><br />(0.150 g<sub>0</sub>)
         escape_velocity: 4.703 km/s<br />(16,932 km/h)
         rotation_period: 110.559 d
         axial_tilt: 7.96°
         albedo: 0.30
-        temperature: 3934 K<br />(3661 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 2638 Arniad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -246,14 +246,14 @@ planets:
         radius: 3,874.8 km<br/>(0.608 Yrths)
         surface_area: 1.887 × 10<sup>08</sup> km<sup>2</sup><br/>(0.370 Yrths)
         volume: 2.437 × 10<sup>11</sup> km<sup>3</sup><br/>(0.225 Yrths)
-        mass: 5.329 × 10<sup>23</sup> kg<br />(2.2120430817997625 Yrths)
+        mass: 5.329 × 10<sup>23</sup> kg<br />(0.089 Yrths)
         density: 2.187 g/cm<sup>3</sup>
         surface_gravity: 2.366 m/s<sup>2</sup><br />(0.241 g<sub>0</sub>)
         escape_velocity: 4.285 km/s<br />(15,425 km/h)
         rotation_period: 40.896 d
         axial_tilt: 20.41°
         albedo: 0.30
-        temperature: 3751 K<br />(3478 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 2638 Arniad II c
         type: Icy
         formationType: Impact formed
@@ -266,14 +266,14 @@ planets:
         radius: 5,269.4 km<br/>(0.827 Yrths)
         surface_area: 3.489 × 10<sup>08</sup> km<sup>2</sup><br/>(0.684 Yrths)
         volume: 6.129 × 10<sup>11</sup> km<sup>3</sup><br/>(0.566 Yrths)
-        mass: 6.275 × 10<sup>23</sup> kg<br />(2.2120430817997625 Yrths)
+        mass: 6.275 × 10<sup>23</sup> kg<br />(0.105 Yrths)
         density: 1.024 g/cm<sup>3</sup>
         surface_gravity: 1.506 m/s<sup>2</sup><br />(0.154 g<sub>0</sub>)
         escape_velocity: 3.987 km/s<br />(14,353 km/h)
         rotation_period: 55.441 d
         axial_tilt: 16.99°
         albedo: 0.30
-        temperature: 3577 K<br />(3303 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 2638 Arniad II d
         type: Asteroid
         formationType: Captured
@@ -286,14 +286,14 @@ planets:
         radius: 3,930.0 km<br/>(0.617 Yrths)
         surface_area: 1.941 × 10<sup>08</sup> km<sup>2</sup><br/>(0.381 Yrths)
         volume: 2.543 × 10<sup>11</sup> km<sup>3</sup><br/>(0.235 Yrths)
-        mass: 6.779 × 10<sup>23</sup> kg<br />(2.2120430817997625 Yrths)
+        mass: 6.779 × 10<sup>23</sup> kg<br />(0.114 Yrths)
         density: 2.666 g/cm<sup>3</sup>
         surface_gravity: 2.925 m/s<sup>2</sup><br />(0.298 g<sub>0</sub>)
         escape_velocity: 4.798 km/s<br />(17,274 km/h)
         rotation_period: 45.958 d
         axial_tilt: 18.59°
         albedo: 0.30
-        temperature: 3410 K<br />(3137 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 2638 Arniad II e
         type: Icy
         formationType: Captured
@@ -306,12 +306,12 @@ planets:
         radius: 7,310.8 km<br/>(1.148 Yrths)
         surface_area: 6.716 × 10<sup>08</sup> km<sup>2</sup><br/>(1.317 Yrths)
         volume: 1.637 × 10<sup>12</sup> km<sup>3</sup><br/>(1.511 Yrths)
-        mass: 1.991 × 10<sup>24</sup> kg<br />(2.2120430817997625 Yrths)
+        mass: 1.991 × 10<sup>24</sup> kg<br />(0.333 Yrths)
         density: 1.216 g/cm<sup>3</sup>
         surface_gravity: 2.483 m/s<sup>2</sup><br />(0.253 g<sub>0</sub>)
         escape_velocity: 6.029 km/s<br />(21,705 km/h)
         rotation_period: 88.973 d
         axial_tilt: 7.99°
         albedo: 0.30
-        temperature: 3100 K<br />(2827 °C)
+        temperature: 283 K<br />(10 °C)
 ---

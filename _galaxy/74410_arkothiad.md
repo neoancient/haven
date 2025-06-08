@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      74410 Arkothiad is a star in the constellation Arkoth
+      74410 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 447.37 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 5.30

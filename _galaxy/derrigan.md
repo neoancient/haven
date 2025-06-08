@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Derrigan is a star in the constellation Derriath
+      Derrigan is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 69.74 ly
 apparent_magnitude: 2.90
 absolute_magnitude: 1.25

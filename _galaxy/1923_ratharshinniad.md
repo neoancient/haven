@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1923 Ratharshinniad is a star in the constellation Ratharshin
+      1923 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 265.91 ly
 apparent_magnitude: 10.23
 absolute_magnitude: 5.67

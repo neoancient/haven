@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Shur is a star in the constellation Neraln
+      Shur is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 195.13 ly
 apparent_magnitude: 2.90
 absolute_magnitude: -0.98

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3289 Tanashad A is a star in the constellation Tanas
+      3289 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 802.69 ly
 apparent_magnitude: 6.88
 absolute_magnitude: -0.08

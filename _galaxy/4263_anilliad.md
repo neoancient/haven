@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4263 Anilliad is a star in the constellation Anil
+      4263 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 330.49 ly
 apparent_magnitude: 12.09
 absolute_magnitude: 7.06

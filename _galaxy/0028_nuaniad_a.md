@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Nuaniad A is a star in the constellation Nuani
+      0028 Nuaniad A is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 97.63 ly
 apparent_magnitude: 6.04
 absolute_magnitude: 3.66

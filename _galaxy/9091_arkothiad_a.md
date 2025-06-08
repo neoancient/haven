@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9091 Arkothiad A is a star in the constellation Arkoth
+      9091 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 432.68 ly
 apparent_magnitude: 11.10
 absolute_magnitude: 5.49

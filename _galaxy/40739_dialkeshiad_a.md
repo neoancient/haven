@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      40739 Dialkeshiad A is a star in the constellation Dialkes
+      40739 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 693.19 ly
 apparent_magnitude: 7.57
 absolute_magnitude: 0.94

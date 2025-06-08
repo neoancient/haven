@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13490 Tanashad is a star in the constellation Tanas
+      13490 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 265.30 ly
 apparent_magnitude: 9.39
 absolute_magnitude: 4.83

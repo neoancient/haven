@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      259 Lulithannaid A is a star in the constellation Lulithan
+      259 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 418.83 ly
 apparent_magnitude: 9.02
 absolute_magnitude: 3.48

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Sheiben is a star in the constellation Arkoth
+      Sheiben is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 2145.06 ly
 apparent_magnitude: 2.68
 absolute_magnitude: -6.41

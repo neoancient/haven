@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1175 Narashiad is a star in the constellation Naras
+      1175 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 322.69 ly
 apparent_magnitude: 20.50
 absolute_magnitude: 15.52

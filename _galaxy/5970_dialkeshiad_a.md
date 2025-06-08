@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5970 Dialkeshiad A is a star in the constellation Dialkes
+      5970 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 430.07 ly
 apparent_magnitude: 8.26
 absolute_magnitude: 2.66

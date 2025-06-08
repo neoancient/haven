@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      845 Ratharshinniad is a star in the constellation Ratharshin
+      845 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 483.74 ly
 apparent_magnitude: 10.46
 absolute_magnitude: 4.60

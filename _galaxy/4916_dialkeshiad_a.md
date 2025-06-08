@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4916 Dialkeshiad A is a star in the constellation Dialkes
+      4916 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 349.09 ly
 apparent_magnitude: 10.19
 absolute_magnitude: 5.04

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6881 Athiad is a star in the constellation Ath
+      6881 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 681.28 ly
 apparent_magnitude: 12.22
 absolute_magnitude: 5.62

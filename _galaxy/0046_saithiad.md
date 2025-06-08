@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0046 Saithiad is a star in the constellation Saith
+      0046 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 38.97 ly
 apparent_magnitude: 6.46
 absolute_magnitude: 6.08
@@ -31,14 +31,14 @@ planets:
     radius: 5,892.3 km<br/>(0.925 Yrths)
     surface_area: 4.363 × 10<sup>08</sup> km<sup>2</sup><br/>(0.855 Yrths)
     volume: 8.569 × 10<sup>11</sup> km<sup>3</sup><br/>(0.791 Yrths)
-    mass: 4.762 × 10<sup>24</sup> kg<br />(0.7973906880408925 Yrths)
+    mass: 4.762 × 10<sup>24</sup> kg<br />(0.80 Yrths)
     density: 5.557 g/cm<sup>3</sup>
     surface_gravity: 9.142 m/s<sup>2</sup><br />(0.932 g<sub>0</sub>)
     escape_velocity: 10.387 km/s<br />(37,392 km/h)
     rotation_period: 3.406 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 339 K<br />(66 °C)
+    temperature: 355 K<br />(82 °C)
     surface_pressure: 9 kPa<br />(0 atm)
     composition:
       - 65.4927% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 2,433.6 km<br/>(0.382 Yrths)
         surface_area: 7.443 × 10<sup>07</sup> km<sup>2</sup><br/>(0.146 Yrths)
         volume: 6.038 × 10<sup>10</sup> km<sup>3</sup><br/>(0.056 Yrths)
-        mass: 8.785 × 10<sup>22</sup> kg<br />(0.7973906880408925 Yrths)
+        mass: 8.785 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 1.455 g/cm<sup>3</sup>
         surface_gravity: 0.989 m/s<sup>2</sup><br />(0.101 g<sub>0</sub>)
         escape_velocity: 2.195 km/s<br />(7,902 km/h)
         rotation_period: 51.087 d
         axial_tilt: 14.65°
         albedo: 0.30
-        temperature: 4556 K<br />(4283 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 0046 Saithiad I b
         type: Icy
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 1,278.0 km<br/>(0.201 Yrths)
         surface_area: 2.052 × 10<sup>07</sup> km<sup>2</sup><br/>(0.040 Yrths)
         volume: 8.744 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 1.246 × 10<sup>22</sup> kg<br />(0.7973906880408925 Yrths)
+        mass: 1.246 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.425 g/cm<sup>3</sup>
         surface_gravity: 0.508 m/s<sup>2</sup><br />(0.052 g<sub>0</sub>)
         escape_velocity: 1.141 km/s<br />(4,106 km/h)
         rotation_period: 73.338 d
         axial_tilt: 10.71°
         albedo: 0.30
-        temperature: 4344 K<br />(4071 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 0046 Saithiad II
     type: Large terrestrial
     aphelion: 100,586,600 km<br />0.672 AU
@@ -97,14 +97,14 @@ planets:
     radius: 2,796.7 km<br/>(0.439 Yrths)
     surface_area: 9.829 × 10<sup>07</sup> km<sup>2</sup><br/>(0.193 Yrths)
     volume: 9.163 × 10<sup>10</sup> km<sup>3</sup><br/>(0.085 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.517 g/cm<sup>3</sup>
     surface_gravity: 5.089 m/s<sup>2</sup><br />(0.519 g<sub>0</sub>)
     escape_velocity: 5.339 km/s<br />(19,220 km/h)
     rotation_period: 3.241 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 394 K<br />(120 °C)
+    temperature: 1070 K<br />(797 °C)
     surface_pressure: 145 kPa<br />(1 atm)
     composition:
       - 92.2489% carbon dioxide
@@ -123,14 +123,14 @@ planets:
         radius: 490.8 km<br/>(0.077 Yrths)
         surface_area: 3.027 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.953 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.494 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.494 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.311 g/cm<sup>3</sup>
         surface_gravity: 0.180 m/s<sup>2</sup><br />(0.018 g<sub>0</sub>)
         escape_velocity: 0.420 km/s<br />(1,513 km/h)
         rotation_period: 48.502 d
         axial_tilt: 7.33°
         albedo: 0.30
-        temperature: 6501 K<br />(6228 °C)
+        temperature: 248 K<br />(-26 °C)
       - name: 0046 Saithiad II b
         type: Dwarf planet
         formationType: Captured
@@ -143,14 +143,14 @@ planets:
         radius: 514.4 km<br/>(0.081 Yrths)
         surface_area: 3.325 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 5.702 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 9.559 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.559 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.676 g/cm<sup>3</sup>
         surface_gravity: 0.241 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.498 km/s<br />(1,793 km/h)
         rotation_period: 41.213 d
         axial_tilt: 13.22°
         albedo: 0.30
-        temperature: 6198 K<br />(5925 °C)
+        temperature: 248 K<br />(-26 °C)
       - name: 0046 Saithiad II c
         type: Asteroid
         formationType: Captured
@@ -163,14 +163,14 @@ planets:
         radius: 300.4 km<br/>(0.047 Yrths)
         surface_area: 1.134 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 1.135 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.025 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.025 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.665 g/cm<sup>3</sup>
         surface_gravity: 0.223 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.367 km/s<br />(1,320 km/h)
         rotation_period: 30.480 d
         axial_tilt: 50.04°
         albedo: 0.30
-        temperature: 5910 K<br />(5637 °C)
+        temperature: 248 K<br />(-26 °C)
   - name: 0046 Saithiad III
     type: Gas giant
     aphelion: 162,159,419 km<br />1.084 AU
@@ -182,7 +182,7 @@ planets:
     radius: 212.9 km<br/>(0.033 Yrths)
     surface_area: 5.698 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.045 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.328 × 10<sup>27</sup> kg<br />(222.3964116761838 Yrths)
+    mass: 1.328 × 10<sup>27</sup> kg<br />(222.40 Yrths)
     density: 32837885.535 g/cm<sup>3</sup>
     surface_gravity: 1952275.665 m/s<sup>2</sup><br />(199076.715 g<sub>0</sub>)
     escape_velocity: 912.454 km/s<br />(3,284,835 km/h)
@@ -203,14 +203,14 @@ planets:
         radius: 207,991.6 km<br/>(32.647 Yrths)
         surface_area: 5.436 × 10<sup>11</sup> km<sup>2</sup><br/>(1065.801 Yrths)
         volume: 3.769 × 10<sup>16</sup> km<sup>3</sup><br/>(34794.796 Yrths)
-        mass: 5.434 × 10<sup>28</sup> kg<br />(222.3964116761838 Yrths)
+        mass: 5.434 × 10<sup>28</sup> kg<br />(9099.906 Yrths)
         density: 1.442 g/cm<sup>3</sup>
         surface_gravity: 83.730 m/s<sup>2</sup><br />(8.538 g<sub>0</sub>)
         escape_velocity: 186.755 km/s<br />(672,320 km/h)
         rotation_period: 57.595 d
         axial_tilt: 15.88°
         albedo: 0.30
-        temperature: 635 K<br />(362 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 0046 Saithiad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -223,35 +223,15 @@ planets:
         radius: 148,059.3 km<br/>(23.240 Yrths)
         surface_area: 2.755 × 10<sup>11</sup> km<sup>2</sup><br/>(540.078 Yrths)
         volume: 1.360 × 10<sup>16</sup> km<sup>3</sup><br/>(12551.180 Yrths)
-        mass: 2.980 × 10<sup>28</sup> kg<br />(222.3964116761838 Yrths)
+        mass: 2.980 × 10<sup>28</sup> kg<br />(4990.058 Yrths)
         density: 2.192 g/cm<sup>3</sup>
         surface_gravity: 90.609 m/s<sup>2</sup><br />(9.240 g<sub>0</sub>)
         escape_velocity: 163.913 km/s<br />(590,086 km/h)
         rotation_period: 50.427 d
         axial_tilt: 26.81°
         albedo: 0.30
-        temperature: 605 K<br />(332 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 0046 Saithiad III c
-        type: Icy
-        formationType: Accreted
-        aphelion: 66,671,552 km<br />
-        perihelion: 58,576,154 km<br />
-        semi_major_axis: 62,623,853 km<br />
-        eccentricity: 0.065
-        orbital_period: 0.00 d<br />
-        inclination: 4.63°
-        radius: 24,043.0 km<br/>(3.774 Yrths)
-        surface_area: 7.264 × 10<sup>09</sup> km<sup>2</sup><br/>(14.242 Yrths)
-        volume: 5.822 × 10<sup>13</sup> km<sup>3</sup><br/>(53.746 Yrths)
-        mass: 8.119 × 10<sup>25</sup> kg<br />(222.3964116761838 Yrths)
-        density: 1.395 g/cm<sup>3</sup>
-        surface_gravity: 9.361 m/s<sup>2</sup><br />(0.955 g<sub>0</sub>)
-        escape_velocity: 21.231 km/s<br />(76,432 km/h)
-        rotation_period: 65.603 d
-        axial_tilt: 11.95°
-        albedo: 0.30
-        temperature: 311 K<br />(37 °C)
-      - name: 0046 Saithiad III d
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 75,847,553 km<br />
@@ -263,15 +243,15 @@ planets:
         radius: 143,552.4 km<br/>(22.532 Yrths)
         surface_area: 2.590 × 10<sup>11</sup> km<sup>2</sup><br/>(507.698 Yrths)
         volume: 1.239 × 10<sup>16</sup> km<sup>3</sup><br/>(11439.542 Yrths)
-        mass: 3.406 × 10<sup>28</sup> kg<br />(222.3964116761838 Yrths)
+        mass: 3.406 × 10<sup>28</sup> kg<br />(5703.108 Yrths)
         density: 2.749 g/cm<sup>3</sup>
         surface_gravity: 110.161 m/s<sup>2</sup><br />(11.233 g<sub>0</sub>)
         escape_velocity: 177.962 km/s<br />(640,665 km/h)
         rotation_period: 30.179 d
         axial_tilt: 19.67°
         albedo: 0.30
-        temperature: 282 K<br />(9 °C)
-      - name: 0046 Saithiad III e
+        temperature: 193 K<br />(-80 °C)
+      - name: 0046 Saithiad III d
         type: Icy
         formationType: Captured
         aphelion: 113,315,713 km<br />
@@ -283,15 +263,15 @@ planets:
         radius: 175,888.2 km<br/>(27.608 Yrths)
         surface_area: 3.888 × 10<sup>11</sup> km<sup>2</sup><br/>(762.181 Yrths)
         volume: 2.279 × 10<sup>16</sup> km<sup>3</sup><br/>(21042.027 Yrths)
-        mass: 2.910 × 10<sup>28</sup> kg<br />(222.3964116761838 Yrths)
+        mass: 2.910 × 10<sup>28</sup> kg<br />(4872.111 Yrths)
         density: 1.277 g/cm<sup>3</sup>
         surface_gravity: 62.687 m/s<sup>2</sup><br />(6.392 g<sub>0</sub>)
         escape_velocity: 148.600 km/s<br />(534,959 km/h)
         rotation_period: 71.390 d
         axial_tilt: 28.17°
         albedo: 0.30
-        temperature: 257 K<br />(-16 °C)
-      - name: 0046 Saithiad III f
+        temperature: 193 K<br />(-80 °C)
+      - name: 0046 Saithiad III e
         type: Icy
         formationType: Accreted
         aphelion: 143,701,590 km<br />
@@ -303,14 +283,14 @@ planets:
         radius: 212,196.7 km<br/>(33.307 Yrths)
         surface_area: 5.658 × 10<sup>11</sup> km<sup>2</sup><br/>(1109.334 Yrths)
         volume: 4.002 × 10<sup>16</sup> km<sup>3</sup><br/>(36948.200 Yrths)
-        mass: 7.032 × 10<sup>28</sup> kg<br />(222.3964116761838 Yrths)
+        mass: 7.032 × 10<sup>28</sup> kg<br />(11774.918 Yrths)
         density: 1.757 g/cm<sup>3</sup>
         surface_gravity: 104.092 m/s<sup>2</sup><br />(10.614 g<sub>0</sub>)
         escape_velocity: 210.323 km/s<br />(757,164 km/h)
         rotation_period: 49.597 d
         axial_tilt: 17.41°
         albedo: 0.30
-        temperature: 212 K<br />(-61 °C)
+        temperature: 193 K<br />(-80 °C)
   - name: 0046 Saithiad IV
     type: Large terrestrial
     aphelion: 277,602,234 km<br />1.856 AU
@@ -322,14 +302,14 @@ planets:
     radius: 9,981.8 km<br/>(1.567 Yrths)
     surface_area: 1.252 × 10<sup>09</sup> km<sup>2</sup><br/>(2.455 Yrths)
     volume: 4.166 × 10<sup>12</sup> km<sup>3</sup><br/>(3.846 Yrths)
-    mass: 2.625 × 10<sup>25</sup> kg<br />(4.396030934295619 Yrths)
+    mass: 2.625 × 10<sup>25</sup> kg<br />(4.40 Yrths)
     density: 6.302 g/cm<sup>3</sup>
     surface_gravity: 17.562 m/s<sup>2</sup><br />(1.791 g<sub>0</sub>)
     escape_velocity: 18.737 km/s<br />(67,454 km/h)
     rotation_period: 0.891 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 199 K<br />(-74 °C)
+    temperature: 281 K<br />(8 °C)
     surface_pressure: 193 kPa<br />(2 atm)
     composition:
       - 72.0908% nitrogen
@@ -350,14 +330,14 @@ planets:
         radius: 7,760.6 km<br/>(1.218 Yrths)
         surface_area: 7.568 × 10<sup>08</sup> km<sup>2</sup><br/>(1.484 Yrths)
         volume: 1.958 × 10<sup>12</sup> km<sup>3</sup><br/>(1.807 Yrths)
-        mass: 5.051 × 10<sup>24</sup> kg<br />(4.396030934295619 Yrths)
+        mass: 5.051 × 10<sup>24</sup> kg<br />(0.846 Yrths)
         density: 2.580 g/cm<sup>3</sup>
         surface_gravity: 5.590 m/s<sup>2</sup><br />(0.570 g<sub>0</sub>)
         escape_velocity: 9.321 km/s<br />(33,556 km/h)
         rotation_period: 36.408 d
         axial_tilt: 16.94°
         albedo: 0.30
-        temperature: 1719 K<br />(1446 °C)
+        temperature: 151 K<br />(-123 °C)
       - name: 0046 Saithiad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -370,14 +350,14 @@ planets:
         radius: 9,670.9 km<br/>(1.518 Yrths)
         surface_area: 1.175 × 10<sup>09</sup> km<sup>2</sup><br/>(2.304 Yrths)
         volume: 3.789 × 10<sup>12</sup> km<sup>3</sup><br/>(3.498 Yrths)
-        mass: 8.704 × 10<sup>24</sup> kg<br />(4.396030934295619 Yrths)
+        mass: 8.704 × 10<sup>24</sup> kg<br />(1.457 Yrths)
         density: 2.297 g/cm<sup>3</sup>
         surface_gravity: 6.203 m/s<sup>2</sup><br />(0.633 g<sub>0</sub>)
         escape_velocity: 10.961 km/s<br />(39,459 km/h)
         rotation_period: 33.957 d
         axial_tilt: 33.24°
         albedo: 0.30
-        temperature: 1639 K<br />(1366 °C)
+        temperature: 151 K<br />(-123 °C)
   - name: 0046 Saithiad V
     type: Ice giant
     aphelion: 452,944,679 km<br />3.028 AU
@@ -389,14 +369,14 @@ planets:
     radius: 31,008.8 km<br/>(4.867 Yrths)
     surface_area: 1.208 × 10<sup>10</sup> km<sup>2</sup><br/>(23.689 Yrths)
     volume: 1.249 × 10<sup>14</sup> km<sup>3</sup><br/>(115.301 Yrths)
-    mass: 1.463 × 10<sup>26</sup> kg<br />(24.50350573125951 Yrths)
+    mass: 1.463 × 10<sup>26</sup> kg<br />(24.50 Yrths)
     density: 1.172 g/cm<sup>3</sup>
     surface_gravity: 10.144 m/s<sup>2</sup><br />(1.034 g<sub>0</sub>)
     escape_velocity: 25.099 km/s<br />(90,355 km/h)
     rotation_period: 0.482 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 201 K<br />(-73 °C)
+    temperature: 179 K<br />(-94 °C)
     composition:
       - 87.4265% hydrogen
       - 11.4657% helium
@@ -414,14 +394,14 @@ planets:
         radius: 21,229.3 km<br/>(3.332 Yrths)
         surface_area: 5.663 × 10<sup>09</sup> km<sup>2</sup><br/>(11.103 Yrths)
         volume: 4.008 × 10<sup>13</sup> km<sup>3</sup><br/>(36.998 Yrths)
-        mass: 5.429 × 10<sup>25</sup> kg<br />(24.50350573125951 Yrths)
+        mass: 5.429 × 10<sup>25</sup> kg<br />(9.092 Yrths)
         density: 1.355 g/cm<sup>3</sup>
         surface_gravity: 8.030 m/s<sup>2</sup><br />(0.819 g<sub>0</sub>)
         escape_velocity: 18.477 km/s<br />(66,517 km/h)
         rotation_period: 46.884 d
         axial_tilt: 15.50°
         albedo: 0.30
-        temperature: 942 K<br />(669 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0046 Saithiad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -434,14 +414,14 @@ planets:
         radius: 21,948.4 km<br/>(3.445 Yrths)
         surface_area: 6.054 × 10<sup>09</sup> km<sup>2</sup><br/>(11.868 Yrths)
         volume: 4.429 × 10<sup>13</sup> km<sup>3</sup><br/>(40.887 Yrths)
-        mass: 1.034 × 10<sup>26</sup> kg<br />(24.50350573125951 Yrths)
+        mass: 1.034 × 10<sup>26</sup> kg<br />(17.318 Yrths)
         density: 2.335 g/cm<sup>3</sup>
         surface_gravity: 14.310 m/s<sup>2</sup><br />(1.459 g<sub>0</sub>)
         escape_velocity: 25.080 km/s<br />(90,289 km/h)
         rotation_period: 36.631 d
         axial_tilt: 29.68°
         albedo: 0.30
-        temperature: 898 K<br />(625 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0046 Saithiad V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -454,14 +434,14 @@ planets:
         radius: 18,670.9 km<br/>(2.931 Yrths)
         surface_area: 4.381 × 10<sup>09</sup> km<sup>2</sup><br/>(8.588 Yrths)
         volume: 2.726 × 10<sup>13</sup> km<sup>3</sup><br/>(25.169 Yrths)
-        mass: 6.438 × 10<sup>25</sup> kg<br />(24.50350573125951 Yrths)
+        mass: 6.438 × 10<sup>25</sup> kg<br />(10.780 Yrths)
         density: 2.361 g/cm<sup>3</sup>
         surface_gravity: 12.309 m/s<sup>2</sup><br />(1.255 g<sub>0</sub>)
         escape_velocity: 21.454 km/s<br />(77,234 km/h)
         rotation_period: 37.092 d
         axial_tilt: 29.63°
         albedo: 0.30
-        temperature: 856 K<br />(583 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0046 Saithiad V d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -474,14 +454,14 @@ planets:
         radius: 15,983.8 km<br/>(2.509 Yrths)
         surface_area: 3.210 × 10<sup>09</sup> km<sup>2</sup><br/>(6.294 Yrths)
         volume: 1.711 × 10<sup>13</sup> km<sup>3</sup><br/>(15.791 Yrths)
-        mass: 4.515 × 10<sup>25</sup> kg<br />(24.50350573125951 Yrths)
+        mass: 4.515 × 10<sup>25</sup> kg<br />(7.560 Yrths)
         density: 2.639 g/cm<sup>3</sup>
         surface_gravity: 11.779 m/s<sup>2</sup><br />(1.201 g<sub>0</sub>)
         escape_velocity: 19.418 km/s<br />(69,904 km/h)
         rotation_period: 49.320 d
         axial_tilt: 19.74°
         albedo: 0.30
-        temperature: 817 K<br />(543 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0046 Saithiad V e
         type: Icy
         formationType: Accreted
@@ -494,14 +474,14 @@ planets:
         radius: 15,996.5 km<br/>(2.511 Yrths)
         surface_area: 3.216 × 10<sup>09</sup> km<sup>2</sup><br/>(6.304 Yrths)
         volume: 1.715 × 10<sup>13</sup> km<sup>3</sup><br/>(15.829 Yrths)
-        mass: 3.180 × 10<sup>25</sup> kg<br />(24.50350573125951 Yrths)
+        mass: 3.180 × 10<sup>25</sup> kg<br />(5.324 Yrths)
         density: 1.854 g/cm<sup>3</sup>
         surface_gravity: 8.282 m/s<sup>2</sup><br />(0.845 g<sub>0</sub>)
         escape_velocity: 16.289 km/s<br />(58,641 km/h)
         rotation_period: 41.179 d
         axial_tilt: 13.33°
         albedo: 0.30
-        temperature: 708 K<br />(435 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0046 Saithiad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -514,14 +494,14 @@ planets:
         radius: 14,215.7 km<br/>(2.231 Yrths)
         surface_area: 2.539 × 10<sup>09</sup> km<sup>2</sup><br/>(4.979 Yrths)
         volume: 1.203 × 10<sup>13</sup> km<sup>3</sup><br/>(11.109 Yrths)
-        mass: 2.406 × 10<sup>25</sup> kg<br />(24.50350573125951 Yrths)
+        mass: 2.406 × 10<sup>25</sup> kg<br />(4.029 Yrths)
         density: 1.999 g/cm<sup>3</sup>
         surface_gravity: 7.936 m/s<sup>2</sup><br />(0.809 g<sub>0</sub>)
         escape_velocity: 15.031 km/s<br />(54,111 km/h)
         rotation_period: 47.737 d
         axial_tilt: 12.14°
         albedo: 0.30
-        temperature: 675 K<br />(402 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0046 Saithiad V g
         type: Icy
         formationType: Accreted
@@ -534,14 +514,14 @@ planets:
         radius: 46,322.8 km<br/>(7.271 Yrths)
         surface_area: 2.696 × 10<sup>10</sup> km<sup>2</sup><br/>(52.866 Yrths)
         volume: 4.164 × 10<sup>14</sup> km<sup>3</sup><br/>(384.380 Yrths)
-        mass: 5.224 × 10<sup>26</sup> kg<br />(24.50350573125951 Yrths)
+        mass: 5.224 × 10<sup>26</sup> kg<br />(87.471 Yrths)
         density: 1.255 g/cm<sup>3</sup>
         surface_gravity: 16.226 m/s<sup>2</sup><br />(1.655 g<sub>0</sub>)
         escape_velocity: 38.798 km/s<br />(139,673 km/h)
         rotation_period: 47.194 d
         axial_tilt: 27.31°
         albedo: 0.30
-        temperature: 643 K<br />(370 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0046 Saithiad V h
         type: Icy
         formationType: Captured
@@ -554,14 +534,14 @@ planets:
         radius: 20,755.1 km<br/>(3.258 Yrths)
         surface_area: 5.413 × 10<sup>09</sup> km<sup>2</sup><br/>(10.613 Yrths)
         volume: 3.745 × 10<sup>13</sup> km<sup>3</sup><br/>(34.574 Yrths)
-        mass: 5.764 × 10<sup>25</sup> kg<br />(24.50350573125951 Yrths)
+        mass: 5.764 × 10<sup>25</sup> kg<br />(9.652 Yrths)
         density: 1.539 g/cm<sup>3</sup>
         surface_gravity: 8.919 m/s<sup>2</sup><br />(0.910 g<sub>0</sub>)
         escape_velocity: 19.255 km/s<br />(69,317 km/h)
         rotation_period: 52.875 d
         axial_tilt: 28.12°
         albedo: 0.30
-        temperature: 613 K<br />(340 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0046 Saithiad V i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -574,14 +554,14 @@ planets:
         radius: 19,935.5 km<br/>(3.129 Yrths)
         surface_area: 4.994 × 10<sup>09</sup> km<sup>2</sup><br/>(9.791 Yrths)
         volume: 3.319 × 10<sup>13</sup> km<sup>3</sup><br/>(30.638 Yrths)
-        mass: 6.246 × 10<sup>25</sup> kg<br />(24.50350573125951 Yrths)
+        mass: 6.246 × 10<sup>25</sup> kg<br />(10.459 Yrths)
         density: 1.882 g/cm<sup>3</sup>
         surface_gravity: 10.475 m/s<sup>2</sup><br />(1.068 g<sub>0</sub>)
         escape_velocity: 20.451 km/s<br />(73,622 km/h)
         rotation_period: 39.166 d
         axial_tilt: 20.07°
         albedo: 0.30
-        temperature: 585 K<br />(312 °C)
+        temperature: 117 K<br />(-156 °C)
   - name: 0046 Saithiad VI
     type: Ice giant
     aphelion: 744,683,848 km<br />4.978 AU
@@ -593,14 +573,14 @@ planets:
     radius: 22,351.3 km<br/>(3.508 Yrths)
     surface_area: 6.278 × 10<sup>09</sup> km<sup>2</sup><br/>(12.308 Yrths)
     volume: 4.677 × 10<sup>13</sup> km<sup>3</sup><br/>(43.180 Yrths)
-    mass: 8.232 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+    mass: 8.232 × 10<sup>25</sup> kg<br />(13.78 Yrths)
     density: 1.760 g/cm<sup>3</sup>
     surface_gravity: 10.982 m/s<sup>2</sup><br />(1.120 g<sub>0</sub>)
     escape_velocity: 22.172 km/s<br />(79,820 km/h)
     rotation_period: 0.451 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 168 K<br />(-105 °C)
+    temperature: 154 K<br />(-119 °C)
     composition:
       - 74.6281% hydrogen
       - 20.2461% helium
@@ -620,14 +600,14 @@ planets:
         radius: 9,879.9 km<br/>(1.551 Yrths)
         surface_area: 1.227 × 10<sup>09</sup> km<sup>2</sup><br/>(2.405 Yrths)
         volume: 4.040 × 10<sup>12</sup> km<sup>3</sup><br/>(3.729 Yrths)
-        mass: 9.296 × 10<sup>24</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 9.296 × 10<sup>24</sup> kg<br />(1.557 Yrths)
         density: 2.301 g/cm<sup>3</sup>
         surface_gravity: 6.348 m/s<sup>2</sup><br />(0.647 g<sub>0</sub>)
         escape_velocity: 11.207 km/s<br />(40,346 km/h)
         rotation_period: 35.421 d
         axial_tilt: 25.27°
         albedo: 0.30
-        temperature: 736 K<br />(463 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI b
         type: Icy
         formationType: Accreted
@@ -640,14 +620,14 @@ planets:
         radius: 17,255.5 km<br/>(2.708 Yrths)
         surface_area: 3.742 × 10<sup>09</sup> km<sup>2</sup><br/>(7.336 Yrths)
         volume: 2.152 × 10<sup>13</sup> km<sup>3</sup><br/>(19.868 Yrths)
-        mass: 3.961 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 3.961 × 10<sup>25</sup> kg<br />(6.632 Yrths)
         density: 1.840 g/cm<sup>3</sup>
         surface_gravity: 8.866 m/s<sup>2</sup><br />(0.904 g<sub>0</sub>)
         escape_velocity: 17.504 km/s<br />(63,014 km/h)
         rotation_period: 50.257 d
         axial_tilt: 22.87°
         albedo: 0.30
-        temperature: 702 K<br />(429 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -660,14 +640,14 @@ planets:
         radius: 13,036.1 km<br/>(2.046 Yrths)
         surface_area: 2.136 × 10<sup>09</sup> km<sup>2</sup><br/>(4.187 Yrths)
         volume: 9.280 × 10<sup>12</sup> km<sup>3</sup><br/>(8.567 Yrths)
-        mass: 1.741 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 1.741 × 10<sup>25</sup> kg<br />(2.915 Yrths)
         density: 1.876 g/cm<sup>3</sup>
         surface_gravity: 6.827 m/s<sup>2</sup><br />(0.696 g<sub>0</sub>)
         escape_velocity: 13.350 km/s<br />(48,061 km/h)
         rotation_period: 52.251 d
         axial_tilt: 27.53°
         albedo: 0.30
-        temperature: 669 K<br />(396 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI d
         type: Icy
         formationType: Accreted
@@ -680,14 +660,14 @@ planets:
         radius: 16,022.0 km<br/>(2.515 Yrths)
         surface_area: 3.226 × 10<sup>09</sup> km<sup>2</sup><br/>(6.324 Yrths)
         volume: 1.723 × 10<sup>13</sup> km<sup>3</sup><br/>(15.905 Yrths)
-        mass: 2.252 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 2.252 × 10<sup>25</sup> kg<br />(3.770 Yrths)
         density: 1.307 g/cm<sup>3</sup>
         surface_gravity: 5.846 m/s<sup>2</sup><br />(0.596 g<sub>0</sub>)
         escape_velocity: 13.696 km/s<br />(49,307 km/h)
         rotation_period: 66.551 d
         axial_tilt: 11.07°
         albedo: 0.30
-        temperature: 638 K<br />(365 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -700,14 +680,14 @@ planets:
         radius: 25,717.0 km<br/>(4.037 Yrths)
         surface_area: 8.311 × 10<sup>09</sup> km<sup>2</sup><br/>(16.294 Yrths)
         volume: 7.124 × 10<sup>13</sup> km<sup>3</sup><br/>(65.772 Yrths)
-        mass: 1.425 × 10<sup>26</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 1.425 × 10<sup>26</sup> kg<br />(23.854 Yrths)
         density: 2.000 g/cm<sup>3</sup>
         surface_gravity: 14.357 m/s<sup>2</sup><br />(1.464 g<sub>0</sub>)
         escape_velocity: 27.193 km/s<br />(97,893 km/h)
         rotation_period: 37.181 d
         axial_tilt: 28.90°
         albedo: 0.30
-        temperature: 609 K<br />(335 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI f
         type: Ice/rock hybrid
         formationType: Captured
@@ -720,14 +700,14 @@ planets:
         radius: 19,478.5 km<br/>(3.057 Yrths)
         surface_area: 4.768 × 10<sup>09</sup> km<sup>2</sup><br/>(9.348 Yrths)
         volume: 3.096 × 10<sup>13</sup> km<sup>3</sup><br/>(28.579 Yrths)
-        mass: 6.271 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 6.271 × 10<sup>25</sup> kg<br />(10.501 Yrths)
         density: 2.026 g/cm<sup>3</sup>
         surface_gravity: 11.016 m/s<sup>2</sup><br />(1.123 g<sub>0</sub>)
         escape_velocity: 20.730 km/s<br />(74,629 km/h)
         rotation_period: 50.514 d
         axial_tilt: 33.42°
         albedo: 0.30
-        temperature: 580 K<br />(307 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI g
         type: Dwarf planet
         formationType: Accreted
@@ -740,14 +720,14 @@ planets:
         radius: 13,464.9 km<br/>(2.113 Yrths)
         surface_area: 2.278 × 10<sup>09</sup> km<sup>2</sup><br/>(4.467 Yrths)
         volume: 1.023 × 10<sup>13</sup> km<sup>3</sup><br/>(9.440 Yrths)
-        mass: 2.399 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 2.399 × 10<sup>25</sup> kg<br />(4.017 Yrths)
         density: 2.346 g/cm<sup>3</sup>
         surface_gravity: 8.820 m/s<sup>2</sup><br />(0.899 g<sub>0</sub>)
         escape_velocity: 15.422 km/s<br />(55,519 km/h)
         rotation_period: 43.792 d
         axial_tilt: 19.31°
         albedo: 0.30
-        temperature: 553 K<br />(280 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -760,14 +740,14 @@ planets:
         radius: 17,911.6 km<br/>(2.811 Yrths)
         surface_area: 4.032 × 10<sup>09</sup> km<sup>2</sup><br/>(7.904 Yrths)
         volume: 2.407 × 10<sup>13</sup> km<sup>3</sup><br/>(22.222 Yrths)
-        mass: 6.171 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 6.171 × 10<sup>25</sup> kg<br />(10.333 Yrths)
         density: 2.564 g/cm<sup>3</sup>
         surface_gravity: 12.820 m/s<sup>2</sup><br />(1.307 g<sub>0</sub>)
         escape_velocity: 21.445 km/s<br />(77,202 km/h)
         rotation_period: 40.128 d
         axial_tilt: 22.44°
         albedo: 0.30
-        temperature: 527 K<br />(254 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI i
         type: Icy
         formationType: Accreted
@@ -780,14 +760,14 @@ planets:
         radius: 19,038.8 km<br/>(2.988 Yrths)
         surface_area: 4.555 × 10<sup>09</sup> km<sup>2</sup><br/>(8.930 Yrths)
         volume: 2.891 × 10<sup>13</sup> km<sup>3</sup><br/>(26.687 Yrths)
-        mass: 4.669 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 4.669 × 10<sup>25</sup> kg<br />(7.817 Yrths)
         density: 1.615 g/cm<sup>3</sup>
         surface_gravity: 8.585 m/s<sup>2</sup><br />(0.875 g<sub>0</sub>)
         escape_velocity: 18.092 km/s<br />(65,132 km/h)
         rotation_period: 47.333 d
         axial_tilt: 19.45°
         albedo: 0.30
-        temperature: 503 K<br />(230 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -800,14 +780,14 @@ planets:
         radius: 16,023.2 km<br/>(2.515 Yrths)
         surface_area: 3.226 × 10<sup>09</sup> km<sup>2</sup><br/>(6.325 Yrths)
         volume: 1.723 × 10<sup>13</sup> km<sup>3</sup><br/>(15.908 Yrths)
-        mass: 3.418 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 3.418 × 10<sup>25</sup> kg<br />(5.724 Yrths)
         density: 1.984 g/cm<sup>3</sup>
         surface_gravity: 8.874 m/s<sup>2</sup><br />(0.905 g<sub>0</sub>)
         escape_velocity: 16.875 km/s<br />(60,750 km/h)
         rotation_period: 50.077 d
         axial_tilt: 18.16°
         albedo: 0.30
-        temperature: 480 K<br />(206 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI k
         type: Icy
         formationType: Accreted
@@ -820,14 +800,14 @@ planets:
         radius: 12,604.9 km<br/>(1.978 Yrths)
         surface_area: 1.997 × 10<sup>09</sup> km<sup>2</sup><br/>(3.914 Yrths)
         volume: 8.389 × 10<sup>12</sup> km<sup>3</sup><br/>(7.745 Yrths)
-        mass: 1.337 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 1.337 × 10<sup>25</sup> kg<br />(2.238 Yrths)
         density: 1.593 g/cm<sup>3</sup>
         surface_gravity: 5.607 m/s<sup>2</sup><br />(0.572 g<sub>0</sub>)
         escape_velocity: 11.897 km/s<br />(42,830 km/h)
         rotation_period: 65.305 d
         axial_tilt: 15.96°
         albedo: 0.30
-        temperature: 457 K<br />(184 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 0046 Saithiad VI l
         type: Icy
         formationType: Captured
@@ -840,14 +820,14 @@ planets:
         radius: 15,589.8 km<br/>(2.447 Yrths)
         surface_area: 3.054 × 10<sup>09</sup> km<sup>2</sup><br/>(5.988 Yrths)
         volume: 1.587 × 10<sup>13</sup> km<sup>3</sup><br/>(14.652 Yrths)
-        mass: 1.264 × 10<sup>25</sup> kg<br />(13.78372997857987 Yrths)
+        mass: 1.264 × 10<sup>25</sup> kg<br />(2.116 Yrths)
         density: 0.796 g/cm<sup>3</sup>
         surface_gravity: 3.466 m/s<sup>2</sup><br />(0.353 g<sub>0</sub>)
         escape_velocity: 10.403 km/s<br />(37,449 km/h)
         rotation_period: 69.110 d
         axial_tilt: 15.17°
         albedo: 0.30
-        temperature: 436 K<br />(163 °C)
+        temperature: 92 K<br />(-182 °C)
   - name: 0046 Saithiad VII
     type: Ice giant
     aphelion: 1,206,433,595 km<br />8.064 AU
@@ -859,14 +839,14 @@ planets:
     radius: 22,926.7 km<br/>(3.599 Yrths)
     surface_area: 6.605 × 10<sup>09</sup> km<sup>2</sup><br/>(12.950 Yrths)
     volume: 5.048 × 10<sup>13</sup> km<sup>3</sup><br/>(46.601 Yrths)
-    mass: 7.911 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+    mass: 7.911 × 10<sup>25</sup> kg<br />(13.25 Yrths)
     density: 1.567 g/cm<sup>3</sup>
     surface_gravity: 10.032 m/s<sup>2</sup><br />(1.023 g<sub>0</sub>)
     escape_velocity: 21.462 km/s<br />(77,264 km/h)
     rotation_period: 0.406 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 133 K<br />(-140 °C)
+    temperature: 124 K<br />(-150 °C)
     composition:
       - 78.0406% hydrogen
       - 12.8861% helium
@@ -885,14 +865,14 @@ planets:
         radius: 21,389.6 km<br/>(3.357 Yrths)
         surface_area: 5.749 × 10<sup>09</sup> km<sup>2</sup><br/>(11.272 Yrths)
         volume: 4.099 × 10<sup>13</sup> km<sup>3</sup><br/>(37.843 Yrths)
-        mass: 4.663 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 4.663 × 10<sup>25</sup> kg<br />(7.808 Yrths)
         density: 1.138 g/cm<sup>3</sup>
         surface_gravity: 6.793 m/s<sup>2</sup><br />(0.693 g<sub>0</sub>)
         escape_velocity: 17.059 km/s<br />(61,412 km/h)
         rotation_period: 85.929 d
         axial_tilt: 15.31°
         albedo: 0.30
-        temperature: 607 K<br />(334 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0046 Saithiad VII b
         type: Icy
         formationType: Accreted
@@ -905,14 +885,14 @@ planets:
         radius: 23,757.2 km<br/>(3.729 Yrths)
         surface_area: 7.093 × 10<sup>09</sup> km<sup>2</sup><br/>(13.905 Yrths)
         volume: 5.617 × 10<sup>13</sup> km<sup>3</sup><br/>(51.852 Yrths)
-        mass: 6.848 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 6.848 × 10<sup>25</sup> kg<br />(11.466 Yrths)
         density: 1.219 g/cm<sup>3</sup>
         surface_gravity: 8.087 m/s<sup>2</sup><br />(0.825 g<sub>0</sub>)
         escape_velocity: 19.615 km/s<br />(70,615 km/h)
         rotation_period: 53.793 d
         axial_tilt: 22.92°
         albedo: 0.30
-        temperature: 579 K<br />(306 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0046 Saithiad VII c
         type: Asteroid
         formationType: Captured
@@ -925,14 +905,14 @@ planets:
         radius: 11,273.2 km<br/>(1.769 Yrths)
         surface_area: 1.597 × 10<sup>09</sup> km<sup>2</sup><br/>(3.131 Yrths)
         volume: 6.001 × 10<sup>12</sup> km<sup>3</sup><br/>(5.540 Yrths)
-        mass: 1.469 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 1.469 × 10<sup>25</sup> kg<br />(2.459 Yrths)
         density: 2.447 g/cm<sup>3</sup>
         surface_gravity: 7.703 m/s<sup>2</sup><br />(0.786 g<sub>0</sub>)
         escape_velocity: 13.188 km/s<br />(47,476 km/h)
         rotation_period: 57.577 d
         axial_tilt: 27.63°
         albedo: 0.30
-        temperature: 526 K<br />(253 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0046 Saithiad VII d
         type: Icy
         formationType: Accreted
@@ -945,14 +925,14 @@ planets:
         radius: 22,622.1 km<br/>(3.551 Yrths)
         surface_area: 6.431 × 10<sup>09</sup> km<sup>2</sup><br/>(12.608 Yrths)
         volume: 4.849 × 10<sup>13</sup> km<sup>3</sup><br/>(44.769 Yrths)
-        mass: 6.439 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 6.439 × 10<sup>25</sup> kg<br />(10.781 Yrths)
         density: 1.328 g/cm<sup>3</sup>
         surface_gravity: 8.386 m/s<sup>2</sup><br />(0.855 g<sub>0</sub>)
         escape_velocity: 19.491 km/s<br />(70,169 km/h)
         rotation_period: 62.531 d
         axial_tilt: 15.20°
         albedo: 0.30
-        temperature: 502 K<br />(229 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0046 Saithiad VII e
         type: Icy
         formationType: Impact formed
@@ -965,14 +945,14 @@ planets:
         radius: 24,968.8 km<br/>(3.919 Yrths)
         surface_area: 7.834 × 10<sup>09</sup> km<sup>2</sup><br/>(15.360 Yrths)
         volume: 6.520 × 10<sup>13</sup> km<sup>3</sup><br/>(60.196 Yrths)
-        mass: 5.591 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 5.591 × 10<sup>25</sup> kg<br />(9.362 Yrths)
         density: 0.857 g/cm<sup>3</sup>
         surface_gravity: 5.977 m/s<sup>2</sup><br />(0.610 g<sub>0</sub>)
         escape_velocity: 17.288 km/s<br />(62,238 km/h)
         rotation_period: 76.399 d
         axial_tilt: 7.82°
         albedo: 0.30
-        temperature: 478 K<br />(205 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0046 Saithiad VII f
         type: Icy
         formationType: Captured
@@ -985,14 +965,14 @@ planets:
         radius: 17,477.2 km<br/>(2.743 Yrths)
         surface_area: 3.838 × 10<sup>09</sup> km<sup>2</sup><br/>(7.525 Yrths)
         volume: 2.236 × 10<sup>13</sup> km<sup>3</sup><br/>(20.644 Yrths)
-        mass: 3.117 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 3.117 × 10<sup>25</sup> kg<br />(5.220 Yrths)
         density: 1.394 g/cm<sup>3</sup>
         surface_gravity: 6.802 m/s<sup>2</sup><br />(0.694 g<sub>0</sub>)
         escape_velocity: 15.430 km/s<br />(55,548 km/h)
         rotation_period: 64.831 d
         axial_tilt: 23.81°
         albedo: 0.30
-        temperature: 435 K<br />(162 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0046 Saithiad VII g
         type: Icy
         formationType: Captured
@@ -1005,14 +985,14 @@ planets:
         radius: 24,323.6 km<br/>(3.818 Yrths)
         surface_area: 7.435 × 10<sup>09</sup> km<sup>2</sup><br/>(14.576 Yrths)
         volume: 6.028 × 10<sup>13</sup> km<sup>3</sup><br/>(55.649 Yrths)
-        mass: 7.869 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 7.869 × 10<sup>25</sup> kg<br />(13.176 Yrths)
         density: 1.305 g/cm<sup>3</sup>
         surface_gravity: 8.865 m/s<sup>2</sup><br />(0.904 g<sub>0</sub>)
         escape_velocity: 20.780 km/s<br />(74,809 km/h)
         rotation_period: 76.661 d
         axial_tilt: 17.34°
         albedo: 0.30
-        temperature: 395 K<br />(122 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0046 Saithiad VII h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1025,14 +1005,14 @@ planets:
         radius: 16,672.9 km<br/>(2.617 Yrths)
         surface_area: 3.493 × 10<sup>09</sup> km<sup>2</sup><br/>(6.849 Yrths)
         volume: 1.941 × 10<sup>13</sup> km<sup>3</sup><br/>(17.923 Yrths)
-        mass: 3.385 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 3.385 × 10<sup>25</sup> kg<br />(5.668 Yrths)
         density: 1.744 g/cm<sup>3</sup>
         surface_gravity: 8.116 m/s<sup>2</sup><br />(0.828 g<sub>0</sub>)
         escape_velocity: 16.462 km/s<br />(59,264 km/h)
         rotation_period: 51.792 d
         axial_tilt: 15.19°
         albedo: 0.30
-        temperature: 377 K<br />(104 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0046 Saithiad VII i
         type: Asteroid
         formationType: Captured
@@ -1045,14 +1025,14 @@ planets:
         radius: 10,613.1 km<br/>(1.666 Yrths)
         surface_area: 1.415 × 10<sup>09</sup> km<sup>2</sup><br/>(2.775 Yrths)
         volume: 5.007 × 10<sup>12</sup> km<sup>3</sup><br/>(4.623 Yrths)
-        mass: 1.503 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 1.503 × 10<sup>25</sup> kg<br />(2.517 Yrths)
         density: 3.002 g/cm<sup>3</sup>
         surface_gravity: 8.894 m/s<sup>2</sup><br />(0.907 g<sub>0</sub>)
         escape_velocity: 13.749 km/s<br />(49,498 km/h)
         rotation_period: 52.419 d
         axial_tilt: 29.34°
         albedo: 0.30
-        temperature: 359 K<br />(86 °C)
+        temperature: 71 K<br />(-202 °C)
       - name: 0046 Saithiad VII j
         type: Ice/rock hybrid
         formationType: Captured
@@ -1065,12 +1045,12 @@ planets:
         radius: 12,183.2 km<br/>(1.912 Yrths)
         surface_area: 1.865 × 10<sup>09</sup> km<sup>2</sup><br/>(3.657 Yrths)
         volume: 7.575 × 10<sup>12</sup> km<sup>3</sup><br/>(6.993 Yrths)
-        mass: 1.738 × 10<sup>25</sup> kg<br />(13.247608578296452 Yrths)
+        mass: 1.738 × 10<sup>25</sup> kg<br />(2.910 Yrths)
         density: 2.294 g/cm<sup>3</sup>
         surface_gravity: 7.803 m/s<sup>2</sup><br />(0.796 g<sub>0</sub>)
         escape_velocity: 13.799 km/s<br />(49,675 km/h)
         rotation_period: 38.256 d
         axial_tilt: 11.25°
         albedo: 0.30
-        temperature: 343 K<br />(70 °C)
+        temperature: 71 K<br />(-202 °C)
 ---

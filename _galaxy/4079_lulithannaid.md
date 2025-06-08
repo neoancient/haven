@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4079 Lulithannaid is a star in the constellation Lulithan
+      4079 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 405.00 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 5.03

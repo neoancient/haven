@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3141 Oniad is a star in the constellation Oni
+      3141 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 630.57 ly
 apparent_magnitude: 10.35
 absolute_magnitude: 3.92

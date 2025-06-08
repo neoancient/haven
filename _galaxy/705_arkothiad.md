@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      705 Arkothiad is a star in the constellation Arkoth
+      705 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 332.15 ly
 apparent_magnitude: 10.00
 absolute_magnitude: 4.96

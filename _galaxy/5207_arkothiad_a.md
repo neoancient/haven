@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5207 Arkothiad A is a star in the constellation Arkoth
+      5207 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 255.25 ly
 apparent_magnitude: 8.75
 absolute_magnitude: 4.28

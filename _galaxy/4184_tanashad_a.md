@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4184 Tanashad A is a star in the constellation Tanas
+      4184 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 225.25 ly
 apparent_magnitude: 7.11
 absolute_magnitude: 2.91

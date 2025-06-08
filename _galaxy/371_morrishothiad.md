@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      371 Morrishothiad is a star in the constellation Morrishoth
+      371 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 869.55 ly
 apparent_magnitude: 6.93
 absolute_magnitude: -0.20
@@ -31,14 +31,14 @@ planets:
     radius: 16,751.1 km<br/>(2.629 Yrths)
     surface_area: 3.526 × 10<sup>09</sup> km<sup>2</sup><br/>(6.913 Yrths)
     volume: 1.969 × 10<sup>13</sup> km<sup>3</sup><br/>(18.176 Yrths)
-    mass: 3.474 × 10<sup>25</sup> kg<br />(5.81778853843186 Yrths)
+    mass: 3.474 × 10<sup>25</sup> kg<br />(5.82 Yrths)
     density: 1.765 g/cm<sup>3</sup>
     surface_gravity: 8.253 m/s<sup>2</sup><br />(0.842 g<sub>0</sub>)
     escape_velocity: 16.639 km/s<br />(59,901 km/h)
     rotation_period: 0.525 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 900 K<br />(627 °C)
+    temperature: 812 K<br />(538 °C)
     composition:
       - 51.3255% hydrogen
       - 43.1814% helium
@@ -60,14 +60,14 @@ planets:
         radius: 9,423.2 km<br/>(1.479 Yrths)
         surface_area: 1.116 × 10<sup>09</sup> km<sup>2</sup><br/>(2.188 Yrths)
         volume: 3.505 × 10<sup>12</sup> km<sup>3</sup><br/>(3.236 Yrths)
-        mass: 7.384 × 10<sup>24</sup> kg<br />(5.81778853843186 Yrths)
+        mass: 7.384 × 10<sup>24</sup> kg<br />(1.236 Yrths)
         density: 2.107 g/cm<sup>3</sup>
         surface_gravity: 5.543 m/s<sup>2</sup><br />(0.565 g<sub>0</sub>)
         escape_velocity: 10.227 km/s<br />(36,819 km/h)
         rotation_period: 61.202 d
         axial_tilt: 17.25°
         albedo: 0.30
-        temperature: 6789 K<br />(6516 °C)
+        temperature: 583 K<br />(310 °C)
       - name: 371 Morrishothiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -80,14 +80,14 @@ planets:
         radius: 16,263.2 km<br/>(2.553 Yrths)
         surface_area: 3.324 × 10<sup>09</sup> km<sup>2</sup><br/>(6.516 Yrths)
         volume: 1.802 × 10<sup>13</sup> km<sup>3</sup><br/>(16.634 Yrths)
-        mass: 3.887 × 10<sup>25</sup> kg<br />(5.81778853843186 Yrths)
+        mass: 3.887 × 10<sup>25</sup> kg<br />(6.508 Yrths)
         density: 2.157 g/cm<sup>3</sup>
         surface_gravity: 9.795 m/s<sup>2</sup><br />(0.999 g<sub>0</sub>)
         escape_velocity: 17.861 km/s<br />(64,300 km/h)
         rotation_period: 48.892 d
         axial_tilt: 19.76°
         albedo: 0.30
-        temperature: 6473 K<br />(6200 °C)
+        temperature: 583 K<br />(310 °C)
       - name: 371 Morrishothiad I c
         type: Icy
         formationType: Impact formed
@@ -100,14 +100,14 @@ planets:
         radius: 2,136.3 km<br/>(0.335 Yrths)
         surface_area: 5.735 × 10<sup>07</sup> km<sup>2</sup><br/>(0.112 Yrths)
         volume: 4.084 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 6.085 × 10<sup>22</sup> kg<br />(5.81778853843186 Yrths)
+        mass: 6.085 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 1.490 g/cm<sup>3</sup>
         surface_gravity: 0.889 m/s<sup>2</sup><br />(0.091 g<sub>0</sub>)
         escape_velocity: 1.950 km/s<br />(7,020 km/h)
         rotation_period: 63.592 d
         axial_tilt: 27.87°
         albedo: 0.30
-        temperature: 6172 K<br />(5899 °C)
+        temperature: 583 K<br />(310 °C)
       - name: 371 Morrishothiad I d
         type: Icy
         formationType: Impact formed
@@ -120,14 +120,14 @@ planets:
         radius: 6,164.7 km<br/>(0.968 Yrths)
         surface_area: 4.776 × 10<sup>08</sup> km<sup>2</sup><br/>(0.936 Yrths)
         volume: 9.813 × 10<sup>11</sup> km<sup>3</sup><br/>(0.906 Yrths)
-        mass: 8.294 × 10<sup>23</sup> kg<br />(5.81778853843186 Yrths)
+        mass: 8.294 × 10<sup>23</sup> kg<br />(0.139 Yrths)
         density: 0.845 g/cm<sup>3</sup>
         surface_gravity: 1.455 m/s<sup>2</sup><br />(0.148 g<sub>0</sub>)
         escape_velocity: 4.238 km/s<br />(15,256 km/h)
         rotation_period: 85.951 d
         axial_tilt: 26.39°
         albedo: 0.30
-        temperature: 5885 K<br />(5611 °C)
+        temperature: 583 K<br />(310 °C)
   - name: 371 Morrishothiad II
     type: Ice giant
     aphelion: 734,050,365 km<br />4.907 AU
@@ -139,14 +139,14 @@ planets:
     radius: 27,829.8 km<br/>(4.368 Yrths)
     surface_area: 9.733 × 10<sup>09</sup> km<sup>2</sup><br/>(19.081 Yrths)
     volume: 9.029 × 10<sup>13</sup> km<sup>3</sup><br/>(83.350 Yrths)
-    mass: 1.178 × 10<sup>26</sup> kg<br />(19.724942963290925 Yrths)
+    mass: 1.178 × 10<sup>26</sup> kg<br />(19.72 Yrths)
     density: 1.305 g/cm<sup>3</sup>
     surface_gravity: 10.138 m/s<sup>2</sup><br />(1.034 g<sub>0</sub>)
     escape_velocity: 23.770 km/s<br />(85,572 km/h)
     rotation_period: 0.363 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 856 K<br />(582 °C)
+    temperature: 803 K<br />(530 °C)
     composition:
       - 56.0098% helium
       - 33.2315% hydrogen
@@ -167,14 +167,14 @@ planets:
         radius: 23,553.0 km<br/>(3.697 Yrths)
         surface_area: 6.971 × 10<sup>09</sup> km<sup>2</sup><br/>(13.667 Yrths)
         volume: 5.473 × 10<sup>13</sup> km<sup>3</sup><br/>(50.526 Yrths)
-        mass: 1.330 × 10<sup>26</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 1.330 × 10<sup>26</sup> kg<br />(22.269 Yrths)
         density: 2.430 g/cm<sup>3</sup>
         surface_gravity: 15.979 m/s<sup>2</sup><br />(1.629 g<sub>0</sub>)
         escape_velocity: 27.454 km/s<br />(98,835 km/h)
         rotation_period: 31.851 d
         axial_tilt: 18.17°
         albedo: 0.30
-        temperature: 3895 K<br />(3622 °C)
+        temperature: 409 K<br />(136 °C)
       - name: 371 Morrishothiad II b
         type: Icy
         formationType: Accreted
@@ -187,14 +187,14 @@ planets:
         radius: 22,370.3 km<br/>(3.511 Yrths)
         surface_area: 6.289 × 10<sup>09</sup> km<sup>2</sup><br/>(12.329 Yrths)
         volume: 4.689 × 10<sup>13</sup> km<sup>3</sup><br/>(43.291 Yrths)
-        mass: 6.251 × 10<sup>25</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 6.251 × 10<sup>25</sup> kg<br />(10.467 Yrths)
         density: 1.333 g/cm<sup>3</sup>
         surface_gravity: 8.326 m/s<sup>2</sup><br />(0.849 g<sub>0</sub>)
         escape_velocity: 19.314 km/s<br />(69,529 km/h)
         rotation_period: 68.610 d
         axial_tilt: 20.81°
         albedo: 0.30
-        temperature: 3714 K<br />(3441 °C)
+        temperature: 409 K<br />(136 °C)
       - name: 371 Morrishothiad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -207,14 +207,14 @@ planets:
         radius: 24,025.2 km<br/>(3.771 Yrths)
         surface_area: 7.253 × 10<sup>09</sup> km<sup>2</sup><br/>(14.221 Yrths)
         volume: 5.809 × 10<sup>13</sup> km<sup>3</sup><br/>(53.626 Yrths)
-        mass: 1.478 × 10<sup>26</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 1.478 × 10<sup>26</sup> kg<br />(24.747 Yrths)
         density: 2.544 g/cm<sup>3</sup>
         surface_gravity: 17.066 m/s<sup>2</sup><br />(1.740 g<sub>0</sub>)
         escape_velocity: 28.655 km/s<br />(103,160 km/h)
         rotation_period: 45.855 d
         axial_tilt: 10.26°
         albedo: 0.30
-        temperature: 3541 K<br />(3268 °C)
+        temperature: 409 K<br />(136 °C)
       - name: 371 Morrishothiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -227,14 +227,14 @@ planets:
         radius: 17,556.7 km<br/>(2.756 Yrths)
         surface_area: 3.873 × 10<sup>09</sup> km<sup>2</sup><br/>(7.594 Yrths)
         volume: 2.267 × 10<sup>13</sup> km<sup>3</sup><br/>(20.927 Yrths)
-        mass: 4.934 × 10<sup>25</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 4.934 × 10<sup>25</sup> kg<br />(8.262 Yrths)
         density: 2.177 g/cm<sup>3</sup>
         surface_gravity: 10.669 m/s<sup>2</sup><br />(1.088 g<sub>0</sub>)
         escape_velocity: 19.368 km/s<br />(69,726 km/h)
         rotation_period: 60.130 d
         axial_tilt: 30.73°
         albedo: 0.30
-        temperature: 3376 K<br />(3103 °C)
+        temperature: 409 K<br />(136 °C)
       - name: 371 Morrishothiad II e
         type: Icy
         formationType: Captured
@@ -247,14 +247,14 @@ planets:
         radius: 14,572.0 km<br/>(2.287 Yrths)
         surface_area: 2.668 × 10<sup>09</sup> km<sup>2</sup><br/>(5.231 Yrths)
         volume: 1.296 × 10<sup>13</sup> km<sup>3</sup><br/>(11.966 Yrths)
-        mass: 2.411 × 10<sup>25</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 2.411 × 10<sup>25</sup> kg<br />(4.037 Yrths)
         density: 1.860 g/cm<sup>3</sup>
         surface_gravity: 7.568 m/s<sup>2</sup><br />(0.772 g<sub>0</sub>)
         escape_velocity: 14.861 km/s<br />(53,500 km/h)
         rotation_period: 56.135 d
         axial_tilt: 15.80°
         albedo: 0.30
-        temperature: 3219 K<br />(2946 °C)
+        temperature: 409 K<br />(136 °C)
       - name: 371 Morrishothiad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -267,14 +267,14 @@ planets:
         radius: 22,424.9 km<br/>(3.520 Yrths)
         surface_area: 6.319 × 10<sup>09</sup> km<sup>2</sup><br/>(12.389 Yrths)
         volume: 4.724 × 10<sup>13</sup> km<sup>3</sup><br/>(43.608 Yrths)
-        mass: 1.192 × 10<sup>26</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 1.192 × 10<sup>26</sup> kg<br />(19.966 Yrths)
         density: 2.524 g/cm<sup>3</sup>
         surface_gravity: 15.804 m/s<sup>2</sup><br />(1.612 g<sub>0</sub>)
         escape_velocity: 26.641 km/s<br />(95,909 km/h)
         rotation_period: 59.356 d
         axial_tilt: 14.41°
         albedo: 0.30
-        temperature: 2926 K<br />(2653 °C)
+        temperature: 409 K<br />(136 °C)
       - name: 371 Morrishothiad II g
         type: Icy
         formationType: Accreted
@@ -287,14 +287,14 @@ planets:
         radius: 30,976.2 km<br/>(4.862 Yrths)
         surface_area: 1.206 × 10<sup>10</sup> km<sup>2</sup><br/>(23.640 Yrths)
         volume: 1.245 × 10<sup>14</sup> km<sup>3</sup><br/>(114.937 Yrths)
-        mass: 1.171 × 10<sup>26</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 1.171 × 10<sup>26</sup> kg<br />(19.612 Yrths)
         density: 0.941 g/cm<sup>3</sup>
         surface_gravity: 8.136 m/s<sup>2</sup><br />(0.830 g<sub>0</sub>)
         escape_velocity: 22.466 km/s<br />(80,878 km/h)
         rotation_period: 66.654 d
         axial_tilt: 27.67°
         albedo: 0.30
-        temperature: 2660 K<br />(2387 °C)
+        temperature: 409 K<br />(136 °C)
       - name: 371 Morrishothiad II h
         type: Asteroid
         formationType: Captured
@@ -307,14 +307,14 @@ planets:
         radius: 23,867.2 km<br/>(3.746 Yrths)
         surface_area: 7.158 × 10<sup>09</sup> km<sup>2</sup><br/>(14.034 Yrths)
         volume: 5.695 × 10<sup>13</sup> km<sup>3</sup><br/>(52.575 Yrths)
-        mass: 1.177 × 10<sup>26</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 1.177 × 10<sup>26</sup> kg<br />(19.703 Yrths)
         density: 2.066 g/cm<sup>3</sup>
         surface_gravity: 13.768 m/s<sup>2</sup><br />(1.404 g<sub>0</sub>)
         escape_velocity: 25.653 km/s<br />(92,351 km/h)
         rotation_period: 38.380 d
         axial_tilt: 17.83°
         albedo: 0.30
-        temperature: 2418 K<br />(2145 °C)
+        temperature: 409 K<br />(136 °C)
       - name: 371 Morrishothiad II i
         type: Ice/rock hybrid
         formationType: Captured
@@ -327,14 +327,14 @@ planets:
         radius: 18,947.7 km<br/>(2.974 Yrths)
         surface_area: 4.512 × 10<sup>09</sup> km<sup>2</sup><br/>(8.845 Yrths)
         volume: 2.849 × 10<sup>13</sup> km<sup>3</sup><br/>(26.305 Yrths)
-        mass: 6.990 × 10<sup>25</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 6.990 × 10<sup>25</sup> kg<br />(11.705 Yrths)
         density: 2.453 g/cm<sup>3</sup>
         surface_gravity: 12.977 m/s<sup>2</sup><br />(1.323 g<sub>0</sub>)
         escape_velocity: 22.191 km/s<br />(79,887 km/h)
         rotation_period: 53.853 d
         axial_tilt: 18.20°
         albedo: 0.30
-        temperature: 2306 K<br />(2033 °C)
+        temperature: 409 K<br />(136 °C)
       - name: 371 Morrishothiad II j
         type: Icy
         formationType: Captured
@@ -347,12 +347,12 @@ planets:
         radius: 15,470.8 km<br/>(2.428 Yrths)
         surface_area: 3.008 × 10<sup>09</sup> km<sup>2</sup><br/>(5.897 Yrths)
         volume: 1.551 × 10<sup>13</sup> km<sup>3</sup><br/>(14.319 Yrths)
-        mass: 2.533 × 10<sup>25</sup> kg<br />(19.724942963290925 Yrths)
+        mass: 2.533 × 10<sup>25</sup> kg<br />(4.242 Yrths)
         density: 1.633 g/cm<sup>3</sup>
         surface_gravity: 7.055 m/s<sup>2</sup><br />(0.719 g<sub>0</sub>)
         escape_velocity: 14.784 km/s<br />(53,223 km/h)
         rotation_period: 47.050 d
         axial_tilt: 20.22°
         albedo: 0.30
-        temperature: 2199 K<br />(1925 °C)
+        temperature: 409 K<br />(136 °C)
 ---

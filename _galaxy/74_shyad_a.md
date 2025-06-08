@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      74 Shyad A is a star in the constellation Shy
+      74 Shyad A is a star in the constellation <a href="shy.html">Shy</a>
 distance: 430.40 ly
 apparent_magnitude: 7.64
 absolute_magnitude: 2.03

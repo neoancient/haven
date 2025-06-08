@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      400 Ratharshinniad is a star in the constellation Ratharshin
+      400 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 651.02 ly
 apparent_magnitude: 10.31
 absolute_magnitude: 3.81

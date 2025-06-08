@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tior A is a star in the constellation Emnia
+      Tior A is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 886.62 ly
 apparent_magnitude: 2.15
 absolute_magnitude: -5.02

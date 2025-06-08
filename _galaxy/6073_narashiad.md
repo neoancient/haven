@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6073 Narashiad is a star in the constellation Naras
+      6073 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 537.49 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 2.74

@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0230 Niniunniad is a star in the constellation Niniun
+      0230 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 96.11 ly
 apparent_magnitude: 6.27
 absolute_magnitude: 3.92
@@ -31,15 +31,15 @@ planets:
     radius: 8,540.7 km<br/>(1.341 Yrths)
     surface_area: 9.166 × 10<sup>08</sup> km<sup>2</sup><br/>(1.797 Yrths)
     volume: 2.610 × 10<sup>12</sup> km<sup>3</sup><br/>(2.409 Yrths)
-    mass: 1.700 × 10<sup>25</sup> kg<br />(2.8470822422018656 Yrths)
+    mass: 1.700 × 10<sup>25</sup> kg<br />(2.85 Yrths)
     density: 6.515 g/cm<sup>3</sup>
     surface_gravity: 15.536 m/s<sup>2</sup><br />(1.584 g<sub>0</sub>)
     escape_velocity: 16.302 km/s<br />(58,686 km/h)
     rotation_period: 0.873 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 614 K<br />(341 °C)
-    surface_pressure: 4,471 kPa<br />(44 atm)
+    temperature: 1459 K<br />(1186 °C)
+    surface_pressure: 4,471 kPa<br />(45 atm)
     composition:
       - 72.2141% carbon dioxide
       - 23.2274% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 2,021.1 km<br/>(0.317 Yrths)
         surface_area: 5.133 × 10<sup>07</sup> km<sup>2</sup><br/>(0.101 Yrths)
         volume: 3.458 × 10<sup>10</sup> km<sup>3</sup><br/>(0.032 Yrths)
-        mass: 1.035 × 10<sup>23</sup> kg<br />(2.8470822422018656 Yrths)
+        mass: 1.035 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 2.992 g/cm<sup>3</sup>
         surface_gravity: 1.688 m/s<sup>2</sup><br />(0.172 g<sub>0</sub>)
         escape_velocity: 2.614 km/s<br />(9,411 km/h)
         rotation_period: 33.310 d
         axial_tilt: 13.96°
         albedo: 0.30
-        temperature: 5142 K<br />(4869 °C)
+        temperature: 330 K<br />(57 °C)
       - name: 0230 Niniunniad I b
         type: Rocky
         formationType: Impact formed
@@ -79,12 +79,12 @@ planets:
         radius: 6,985.8 km<br/>(1.096 Yrths)
         surface_area: 6.133 × 10<sup>08</sup> km<sup>2</sup><br/>(1.202 Yrths)
         volume: 1.428 × 10<sup>12</sup> km<sup>3</sup><br/>(1.318 Yrths)
-        mass: 4.328 × 10<sup>24</sup> kg<br />(2.8470822422018656 Yrths)
+        mass: 4.328 × 10<sup>24</sup> kg<br />(0.725 Yrths)
         density: 3.031 g/cm<sup>3</sup>
         surface_gravity: 5.911 m/s<sup>2</sup><br />(0.603 g<sub>0</sub>)
         escape_velocity: 9.094 km/s<br />(32,739 km/h)
         rotation_period: 49.522 d
         axial_tilt: 19.09°
         albedo: 0.30
-        temperature: 4903 K<br />(4630 °C)
+        temperature: 330 K<br />(57 °C)
 ---

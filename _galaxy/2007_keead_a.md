@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2007 Keead A is a star in the constellation Kee
+      2007 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 615.69 ly
 apparent_magnitude: 8.82
 absolute_magnitude: 2.44

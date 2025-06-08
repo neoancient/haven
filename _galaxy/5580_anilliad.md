@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5580 Anilliad is a star in the constellation Anil
+      5580 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 556.95 ly
 apparent_magnitude: 7.73
 absolute_magnitude: 1.57
@@ -31,14 +31,14 @@ planets:
     radius: 224.8 km<br/>(0.035 Yrths)
     surface_area: 6.349 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.757 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.751 × 10<sup>27</sup> kg<br />(293.2092581318019 Yrths)
+    mass: 1.751 × 10<sup>27</sup> kg<br />(293.21 Yrths)
     density: 36809742.122 g/cm<sup>3</sup>
     surface_gravity: 2310022.281 m/s<sup>2</sup><br />(235556.717 g<sub>0</sub>)
     escape_velocity: 1019.747 km/s<br />(3,671,088 km/h)
     rotation_period: 0.236 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1222 K<br />(949 °C)
+    temperature: 1162 K<br />(889 °C)
     composition:
       - 75.6706% hydrogen
       - 18.3579% helium
@@ -56,14 +56,14 @@ planets:
         radius: 202,816.9 km<br/>(31.834 Yrths)
         surface_area: 5.169 × 10<sup>11</sup> km<sup>2</sup><br/>(1013.429 Yrths)
         volume: 3.495 × 10<sup>16</sup> km<sup>3</sup><br/>(32261.889 Yrths)
-        mass: 4.000 × 10<sup>28</sup> kg<br />(293.2092581318019 Yrths)
+        mass: 4.000 × 10<sup>28</sup> kg<br />(6697.847 Yrths)
         density: 1.145 g/cm<sup>3</sup>
         surface_gravity: 64.813 m/s<sup>2</sup><br />(6.609 g<sub>0</sub>)
         escape_velocity: 162.253 km/s<br />(584,112 km/h)
         rotation_period: 46.593 d
         axial_tilt: 14.95°
         albedo: 0.30
-        temperature: 1525 K<br />(1252 °C)
+        temperature: 313 K<br />(40 °C)
       - name: 5580 Anilliad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 101,525.8 km<br/>(15.936 Yrths)
         surface_area: 1.295 × 10<sup>11</sup> km<sup>2</sup><br/>(253.944 Yrths)
         volume: 4.383 × 10<sup>15</sup> km<sup>3</sup><br/>(4046.749 Yrths)
-        mass: 1.059 × 10<sup>28</sup> kg<br />(293.2092581318019 Yrths)
+        mass: 1.059 × 10<sup>28</sup> kg<br />(1773.384 Yrths)
         density: 2.416 g/cm<sup>3</sup>
         surface_gravity: 68.484 m/s<sup>2</sup><br />(6.983 g<sub>0</sub>)
         escape_velocity: 118.002 km/s<br />(424,809 km/h)
         rotation_period: 37.240 d
         axial_tilt: 24.79°
         albedo: 0.30
-        temperature: 1454 K<br />(1181 °C)
+        temperature: 313 K<br />(40 °C)
       - name: 5580 Anilliad I c
         type: Icy
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 126,233.9 km<br/>(19.814 Yrths)
         surface_area: 2.002 × 10<sup>11</sup> km<sup>2</sup><br/>(392.588 Yrths)
         volume: 8.426 × 10<sup>15</sup> km<sup>3</sup><br/>(7778.671 Yrths)
-        mass: 8.571 × 10<sup>27</sup> kg<br />(293.2092581318019 Yrths)
+        mass: 8.571 × 10<sup>27</sup> kg<br />(1435.142 Yrths)
         density: 1.017 g/cm<sup>3</sup>
         surface_gravity: 35.849 m/s<sup>2</sup><br />(3.656 g<sub>0</sub>)
         escape_velocity: 95.200 km/s<br />(342,720 km/h)
         rotation_period: 87.938 d
         axial_tilt: 18.84°
         albedo: 0.30
-        temperature: 1260 K<br />(987 °C)
+        temperature: 313 K<br />(40 °C)
       - name: 5580 Anilliad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 306,333.5 km<br/>(48.082 Yrths)
         surface_area: 1.179 × 10<sup>12</sup> km<sup>2</sup><br/>(2311.926 Yrths)
         volume: 1.204 × 10<sup>17</sup> km<sup>3</sup><br/>(111163.130 Yrths)
-        mass: 2.740 × 10<sup>29</sup> kg<br />(293.2092581318019 Yrths)
+        mass: 2.740 × 10<sup>29</sup> kg<br />(45878.701 Yrths)
         density: 2.275 g/cm<sup>3</sup>
         surface_gravity: 194.607 m/s<sup>2</sup><br />(19.844 g<sub>0</sub>)
         escape_velocity: 345.530 km/s<br />(1,243,909 km/h)
         rotation_period: 36.150 d
         axial_tilt: 27.75°
         albedo: 0.30
-        temperature: 1201 K<br />(928 °C)
+        temperature: 313 K<br />(40 °C)
       - name: 5580 Anilliad I e
         type: Icy
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 121,451.3 km<br/>(19.063 Yrths)
         surface_area: 1.854 × 10<sup>11</sup> km<sup>2</sup><br/>(363.403 Yrths)
         volume: 7.504 × 10<sup>15</sup> km<sup>3</sup><br/>(6927.613 Yrths)
-        mass: 1.231 × 10<sup>28</sup> kg<br />(293.2092581318019 Yrths)
+        mass: 1.231 × 10<sup>28</sup> kg<br />(2060.694 Yrths)
         density: 1.640 g/cm<sup>3</sup>
         surface_gravity: 55.609 m/s<sup>2</sup><br />(5.671 g<sub>0</sub>)
         escape_velocity: 116.301 km/s<br />(418,684 km/h)
         rotation_period: 43.650 d
         axial_tilt: 19.18°
         albedo: 0.30
-        temperature: 1092 K<br />(819 °C)
+        temperature: 313 K<br />(40 °C)
       - name: 5580 Anilliad I f
         type: Asteroid
         formationType: Captured
@@ -156,12 +156,12 @@ planets:
         radius: 133,211.9 km<br/>(20.909 Yrths)
         surface_area: 2.230 × 10<sup>11</sup> km<sup>2</sup><br/>(437.190 Yrths)
         volume: 9.902 × 10<sup>15</sup> km<sup>3</sup><br/>(9141.257 Yrths)
-        mass: 2.589 × 10<sup>28</sup> kg<br />(293.2092581318019 Yrths)
+        mass: 2.589 × 10<sup>28</sup> kg<br />(4335.661 Yrths)
         density: 2.615 g/cm<sup>3</sup>
         surface_gravity: 97.254 m/s<sup>2</sup><br />(9.917 g<sub>0</sub>)
         escape_velocity: 161.077 km/s<br />(579,878 km/h)
         rotation_period: 36.965 d
         axial_tilt: 18.59°
         albedo: 0.30
-        temperature: 993 K<br />(720 °C)
+        temperature: 313 K<br />(40 °C)
 ---

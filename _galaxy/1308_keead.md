@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1308 Keead is a star in the constellation Kee
+      1308 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 570.00 ly
 apparent_magnitude: 8.94
 absolute_magnitude: 2.72

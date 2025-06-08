@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Bethuiad is a star in the constellation Bethu
+      ο Bethuiad is a star in the constellation <a href="bethu.html">Bethu</a>
 distance: 186.27 ly
 apparent_magnitude: 6.47
 absolute_magnitude: 2.69
@@ -31,14 +31,14 @@ planets:
     radius: 7,454.5 km<br/>(1.170 Yrths)
     surface_area: 6.983 × 10<sup>08</sup> km<sup>2</sup><br/>(1.369 Yrths)
     volume: 1.735 × 10<sup>12</sup> km<sup>3</sup><br/>(1.602 Yrths)
-    mass: 9.587 × 10<sup>24</sup> kg<br />(1.6052684603163891 Yrths)
+    mass: 9.587 × 10<sup>24</sup> kg<br />(1.61 Yrths)
     density: 5.525 g/cm<sup>3</sup>
     surface_gravity: 11.499 m/s<sup>2</sup><br />(1.173 g<sub>0</sub>)
     escape_velocity: 13.102 km/s<br />(47,168 km/h)
     rotation_period: 1.002 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 258 K<br />(-15 °C)
+    temperature: 250 K<br />(-23 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 90.4229% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 3,347.5 km<br/>(0.525 Yrths)
         surface_area: 1.408 × 10<sup>08</sup> km<sup>2</sup><br/>(0.276 Yrths)
         volume: 1.571 × 10<sup>11</sup> km<sup>3</sup><br/>(0.145 Yrths)
-        mass: 4.817 × 10<sup>23</sup> kg<br />(1.6052684603163891 Yrths)
+        mass: 4.817 × 10<sup>23</sup> kg<br />(0.081 Yrths)
         density: 3.066 g/cm<sup>3</sup>
         surface_gravity: 2.865 m/s<sup>2</sup><br />(0.292 g<sub>0</sub>)
         escape_velocity: 4.383 km/s<br />(15,777 km/h)
         rotation_period: 42.175 d
         axial_tilt: 12.09°
         albedo: 0.30
-        temperature: 4193 K<br />(3920 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: ο Bethuiad II
     type: Large terrestrial
     aphelion: 1,366,625,654 km<br />9.135 AU
@@ -77,14 +77,14 @@ planets:
     radius: 6,583.2 km<br/>(1.033 Yrths)
     surface_area: 5.446 × 10<sup>08</sup> km<sup>2</sup><br/>(1.068 Yrths)
     volume: 1.195 × 10<sup>12</sup> km<sup>3</sup><br/>(1.103 Yrths)
-    mass: 7.425 × 10<sup>24</sup> kg<br />(1.2433248610518615 Yrths)
+    mass: 7.425 × 10<sup>24</sup> kg<br />(1.24 Yrths)
     density: 6.213 g/cm<sup>3</sup>
     surface_gravity: 11.419 m/s<sup>2</sup><br />(1.164 g<sub>0</sub>)
     escape_velocity: 12.270 km/s<br />(44,173 km/h)
     rotation_period: 1.104 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 213 K<br />(-60 °C)
+    temperature: 256 K<br />(-17 °C)
     surface_pressure: 161 kPa<br />(2 atm)
     composition:
       - 87.9750% methane
@@ -104,14 +104,14 @@ planets:
         radius: 2,720.3 km<br/>(0.427 Yrths)
         surface_area: 9.299 × 10<sup>07</sup> km<sup>2</sup><br/>(0.182 Yrths)
         volume: 8.432 × 10<sup>10</sup> km<sup>3</sup><br/>(0.078 Yrths)
-        mass: 2.387 × 10<sup>23</sup> kg<br />(1.2433248610518615 Yrths)
+        mass: 2.387 × 10<sup>23</sup> kg<br />(0.040 Yrths)
         density: 2.831 g/cm<sup>3</sup>
         surface_gravity: 2.150 m/s<sup>2</sup><br />(0.219 g<sub>0</sub>)
         escape_velocity: 3.423 km/s<br />(12,321 km/h)
         rotation_period: 30.295 d
         axial_tilt: 16.05°
         albedo: 0.30
-        temperature: 3132 K<br />(2859 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: ο Bethuiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -124,14 +124,14 @@ planets:
         radius: 1,851.4 km<br/>(0.291 Yrths)
         surface_area: 4.307 × 10<sup>07</sup> km<sup>2</sup><br/>(0.084 Yrths)
         volume: 2.658 × 10<sup>10</sup> km<sup>3</sup><br/>(0.025 Yrths)
-        mass: 6.042 × 10<sup>22</sup> kg<br />(1.2433248610518615 Yrths)
+        mass: 6.042 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.273 g/cm<sup>3</sup>
         surface_gravity: 1.175 m/s<sup>2</sup><br />(0.120 g<sub>0</sub>)
         escape_velocity: 2.087 km/s<br />(7,514 km/h)
         rotation_period: 36.785 d
         axial_tilt: 17.71°
         albedo: 0.30
-        temperature: 2986 K<br />(2713 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: ο Bethuiad II c
         type: Asteroid
         formationType: Captured
@@ -144,14 +144,14 @@ planets:
         radius: 3,780.0 km<br/>(0.593 Yrths)
         surface_area: 1.796 × 10<sup>08</sup> km<sup>2</sup><br/>(0.352 Yrths)
         volume: 2.262 × 10<sup>11</sup> km<sup>3</sup><br/>(0.209 Yrths)
-        mass: 3.692 × 10<sup>23</sup> kg<br />(1.2433248610518615 Yrths)
+        mass: 3.692 × 10<sup>23</sup> kg<br />(0.062 Yrths)
         density: 1.632 g/cm<sup>3</sup>
         surface_gravity: 1.722 m/s<sup>2</sup><br />(0.176 g<sub>0</sub>)
         escape_velocity: 3.611 km/s<br />(12,998 km/h)
         rotation_period: 70.146 d
         axial_tilt: 60.23°
         albedo: 0.30
-        temperature: 2847 K<br />(2574 °C)
+        temperature: 167 K<br />(-106 °C)
   - name: ο Bethuiad III
     type: Gas giant
     aphelion: 2,979,838,924 km<br />19.919 AU
@@ -163,7 +163,7 @@ planets:
     radius: 229.0 km<br/>(0.036 Yrths)
     surface_area: 6.592 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.033 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.798 × 10<sup>27</sup> kg<br />(301.00438617814206 Yrths)
+    mass: 1.798 × 10<sup>27</sup> kg<br />(301.00 Yrths)
     density: 35718583.988 g/cm<sup>3</sup>
     surface_gravity: 2284032.029 m/s<sup>2</sup><br />(232906.449 g<sub>0</sub>)
     escape_velocity: 1023.558 km/s<br />(3,684,810 km/h)
@@ -184,14 +184,14 @@ planets:
         radius: 167,553.7 km<br/>(26.299 Yrths)
         surface_area: 3.528 × 10<sup>11</sup> km<sup>2</sup><br/>(691.660 Yrths)
         volume: 1.970 × 10<sup>16</sup> km<sup>3</sup><br/>(18190.274 Yrths)
-        mass: 3.421 × 10<sup>28</sup> kg<br />(301.00438617814206 Yrths)
+        mass: 3.421 × 10<sup>28</sup> kg<br />(5728.683 Yrths)
         density: 1.736 g/cm<sup>3</sup>
         surface_gravity: 81.224 m/s<sup>2</sup><br />(8.283 g<sub>0</sub>)
         escape_velocity: 165.093 km/s<br />(594,334 km/h)
         rotation_period: 55.517 d
         axial_tilt: 19.62°
         albedo: 0.30
-        temperature: 682 K<br />(409 °C)
+        temperature: 115 K<br />(-158 °C)
       - name: ο Bethuiad III b
         type: Icy
         formationType: Captured
@@ -204,14 +204,14 @@ planets:
         radius: 196,345.0 km<br/>(30.819 Yrths)
         surface_area: 4.845 × 10<sup>11</sup> km<sup>2</sup><br/>(949.784 Yrths)
         volume: 3.171 × 10<sup>16</sup> km<sup>3</sup><br/>(29270.965 Yrths)
-        mass: 3.202 × 10<sup>28</sup> kg<br />(301.00438617814206 Yrths)
+        mass: 3.202 × 10<sup>28</sup> kg<br />(5361.404 Yrths)
         density: 1.010 g/cm<sup>3</sup>
         surface_gravity: 55.357 m/s<sup>2</sup><br />(5.645 g<sub>0</sub>)
         escape_velocity: 147.539 km/s<br />(531,141 km/h)
         rotation_period: 94.553 d
         axial_tilt: 13.32°
         albedo: 0.30
-        temperature: 444 K<br />(171 °C)
+        temperature: 115 K<br />(-158 °C)
       - name: ο Bethuiad III c
         type: Icy
         formationType: Captured
@@ -224,14 +224,14 @@ planets:
         radius: 228,945.6 km<br/>(35.936 Yrths)
         surface_area: 6.587 × 10<sup>11</sup> km<sup>2</sup><br/>(1291.366 Yrths)
         volume: 5.027 × 10<sup>16</sup> km<sup>3</sup><br/>(46405.987 Yrths)
-        mass: 6.918 × 10<sup>28</sup> kg<br />(301.00438617814206 Yrths)
+        mass: 6.918 × 10<sup>28</sup> kg<br />(11584.052 Yrths)
         density: 1.376 g/cm<sup>3</sup>
         surface_gravity: 87.969 m/s<sup>2</sup><br />(8.970 g<sub>0</sub>)
         escape_velocity: 200.836 km/s<br />(723,010 km/h)
         rotation_period: 54.387 d
         axial_tilt: 15.84°
         albedo: 0.30
-        temperature: 404 K<br />(131 °C)
+        temperature: 115 K<br />(-158 °C)
       - name: ο Bethuiad III d
         type: Dwarf planet
         formationType: Captured
@@ -244,14 +244,14 @@ planets:
         radius: 202,988.3 km<br/>(31.861 Yrths)
         surface_area: 5.178 × 10<sup>11</sup> km<sup>2</sup><br/>(1015.142 Yrths)
         volume: 3.503 × 10<sup>16</sup> km<sup>3</sup><br/>(32343.759 Yrths)
-        mass: 5.374 × 10<sup>28</sup> kg<br />(301.00438617814206 Yrths)
+        mass: 5.374 × 10<sup>28</sup> kg<br />(8998.378 Yrths)
         density: 1.534 g/cm<sup>3</sup>
         surface_gravity: 86.928 m/s<sup>2</sup><br />(8.864 g<sub>0</sub>)
         escape_velocity: 187.985 km/s<br />(676,748 km/h)
         rotation_period: 53.804 d
         axial_tilt: 25.29°
         albedo: 0.30
-        temperature: 289 K<br />(16 °C)
+        temperature: 115 K<br />(-158 °C)
       - name: ο Bethuiad III e
         type: Dwarf planet
         formationType: Accreted
@@ -264,14 +264,14 @@ planets:
         radius: 195,722.1 km<br/>(30.721 Yrths)
         surface_area: 4.814 × 10<sup>11</sup> km<sup>2</sup><br/>(943.767 Yrths)
         volume: 3.141 × 10<sup>16</sup> km<sup>3</sup><br/>(28993.248 Yrths)
-        mass: 4.844 × 10<sup>28</sup> kg<br />(301.00438617814206 Yrths)
+        mass: 4.844 × 10<sup>28</sup> kg<br />(8111.757 Yrths)
         density: 1.543 g/cm<sup>3</sup>
         surface_gravity: 84.289 m/s<sup>2</sup><br />(8.595 g<sub>0</sub>)
         escape_velocity: 181.767 km/s<br />(654,362 km/h)
         rotation_period: 76.851 d
         axial_tilt: 38.65°
         albedo: 0.30
-        temperature: 141 K<br />(-132 °C)
+        temperature: 115 K<br />(-158 °C)
       - name: ο Bethuiad III f
         type: Icy
         formationType: Accreted
@@ -284,14 +284,14 @@ planets:
         radius: 205,234.9 km<br/>(32.214 Yrths)
         surface_area: 5.293 × 10<sup>11</sup> km<sup>2</sup><br/>(1037.737 Yrths)
         volume: 3.621 × 10<sup>16</sup> km<sup>3</sup><br/>(33429.566 Yrths)
-        mass: 4.725 × 10<sup>28</sup> kg<br />(301.00438617814206 Yrths)
+        mass: 4.725 × 10<sup>28</sup> kg<br />(7911.965 Yrths)
         density: 1.305 g/cm<sup>3</sup>
         surface_gravity: 74.768 m/s<sup>2</sup><br />(7.624 g<sub>0</sub>)
         escape_velocity: 175.305 km/s<br />(631,098 km/h)
         rotation_period: 71.081 d
         axial_tilt: 8.76°
         albedo: 0.30
-        temperature: 117 K<br />(-156 °C)
+        temperature: 115 K<br />(-158 °C)
       - name: ο Bethuiad III g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -304,12 +304,12 @@ planets:
         radius: 160,266.5 km<br/>(25.156 Yrths)
         surface_area: 3.228 × 10<sup>11</sup> km<sup>2</sup><br/>(632.805 Yrths)
         volume: 1.724 × 10<sup>16</sup> km<sup>3</sup><br/>(15918.614 Yrths)
-        mass: 3.508 × 10<sup>28</sup> kg<br />(301.00438617814206 Yrths)
+        mass: 3.508 × 10<sup>28</sup> kg<br />(5873.423 Yrths)
         density: 2.034 g/cm<sup>3</sup>
         surface_gravity: 91.021 m/s<sup>2</sup><br />(9.282 g<sub>0</sub>)
         escape_velocity: 170.924 km/s<br />(615,325 km/h)
         rotation_period: 46.656 d
         axial_tilt: 30.49°
         albedo: 0.30
-        temperature: 101 K<br />(-172 °C)
+        temperature: 115 K<br />(-158 °C)
 ---

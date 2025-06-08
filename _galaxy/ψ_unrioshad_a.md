@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Unrioshad A is a star in the constellation Unrios
+      ψ Unrioshad A is a star in the constellation <a href="unrios.html">Unrios</a>
 distance: 101.31 ly
 apparent_magnitude: 5.99
 absolute_magnitude: 3.53

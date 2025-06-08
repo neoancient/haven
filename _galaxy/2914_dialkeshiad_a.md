@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2914 Dialkeshiad A is a star in the constellation Dialkes
+      2914 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 229.79 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 6.79

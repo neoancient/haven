@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7016 Narashiad is a star in the constellation Naras
+      7016 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 477.55 ly
 apparent_magnitude: 11.34
 absolute_magnitude: 5.51

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1056 Urthiad A is a star in the constellation Urth
+      1056 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 374.13 ly
 apparent_magnitude: 8.72
 absolute_magnitude: 3.42

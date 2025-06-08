@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0251 Naddiad A is a star in the constellation Naddi
+      0251 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 1946.47 ly
 apparent_magnitude: 6.33
 absolute_magnitude: -2.55

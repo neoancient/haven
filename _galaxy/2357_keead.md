@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2357 Keead is a star in the constellation Kee
+      2357 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 315.68 ly
 apparent_magnitude: 9.63
 absolute_magnitude: 4.70

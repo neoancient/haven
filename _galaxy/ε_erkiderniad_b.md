@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ε Erkiderniad B is a star in the constellation Erkidern
+      ε Erkiderniad B is a star in the constellation <a href="erkidern.html">Erkidern</a>
 distance: 494.47 ly
 apparent_magnitude: 14.37
 absolute_magnitude: 8.46

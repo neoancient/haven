@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Rukentuaiad B is a star in the constellation Rukentua
+      ο Rukentuaiad B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 247.21 ly
 apparent_magnitude: 9.46
 absolute_magnitude: 5.06

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0012 Guashiad C is a star in the constellation Guashi
+      0012 Guashiad C is a star in the constellation <a href="guashi.html">Guashi</a>
 distance: 141.85 ly
 apparent_magnitude: 7.94
 absolute_magnitude: 4.75
@@ -31,7 +31,7 @@ planets:
     radius: 193.5 km<br/>(0.030 Yrths)
     surface_area: 4.706 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.036 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.923 × 10<sup>26</sup> kg<br />(166.16133499651693 Yrths)
+    mass: 9.923 × 10<sup>26</sup> kg<br />(166.16 Yrths)
     density: 32683794.448 g/cm<sup>3</sup>
     surface_gravity: 1765956.753 m/s<sup>2</sup><br />(180077.473 g<sub>0</sub>)
     escape_velocity: 827.316 km/s<br />(2,978,337 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 140,909.3 km<br/>(22.117 Yrths)
         surface_area: 2.495 × 10<sup>11</sup> km<sup>2</sup><br/>(489.175 Yrths)
         volume: 1.172 × 10<sup>16</sup> km<sup>3</sup><br/>(10819.216 Yrths)
-        mass: 3.556 × 10<sup>28</sup> kg<br />(166.16133499651693 Yrths)
+        mass: 3.556 × 10<sup>28</sup> kg<br />(5954.338 Yrths)
         density: 3.034 g/cm<sup>3</sup>
         surface_gravity: 119.369 m/s<sup>2</sup><br />(12.172 g<sub>0</sub>)
         escape_velocity: 183.537 km/s<br />(660,735 km/h)
         rotation_period: 29.184 d
         axial_tilt: 6.87°
         albedo: 0.30
-        temperature: 1284 K<br />(1011 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 0012 Guashiad C I b
         type: Dwarf planet
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 113,140.7 km<br/>(17.759 Yrths)
         surface_area: 1.609 × 10<sup>11</sup> km<sup>2</sup><br/>(315.372 Yrths)
         volume: 6.067 × 10<sup>15</sup> km<sup>3</sup><br/>(5600.592 Yrths)
-        mass: 1.403 × 10<sup>28</sup> kg<br />(166.16133499651693 Yrths)
+        mass: 1.403 × 10<sup>28</sup> kg<br />(2348.798 Yrths)
         density: 2.312 g/cm<sup>3</sup>
         surface_gravity: 73.037 m/s<sup>2</sup><br />(7.448 g<sub>0</sub>)
         escape_velocity: 128.644 km/s<br />(463,120 km/h)
         rotation_period: 38.036 d
         axial_tilt: 18.51°
         albedo: 0.30
-        temperature: 1224 K<br />(951 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 0012 Guashiad C I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 77,024.3 km<br/>(12.090 Yrths)
         surface_area: 7.455 × 10<sup>10</sup> km<sup>2</sup><br/>(146.164 Yrths)
         volume: 1.914 × 10<sup>15</sup> km<sup>3</sup><br/>(1767.099 Yrths)
-        mass: 3.950 × 10<sup>27</sup> kg<br />(166.16133499651693 Yrths)
+        mass: 3.950 × 10<sup>27</sup> kg<br />(661.405 Yrths)
         density: 2.064 g/cm<sup>3</sup>
         surface_gravity: 44.376 m/s<sup>2</sup><br />(4.525 g<sub>0</sub>)
         escape_velocity: 82.737 km/s<br />(297,852 km/h)
         rotation_period: 64.664 d
         axial_tilt: 28.71°
         albedo: 0.30
-        temperature: 797 K<br />(524 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 0012 Guashiad C I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 87,276.4 km<br/>(13.699 Yrths)
         surface_area: 9.572 × 10<sup>10</sup> km<sup>2</sup><br/>(187.663 Yrths)
         volume: 2.785 × 10<sup>15</sup> km<sup>3</sup><br/>(2570.793 Yrths)
-        mass: 6.994 × 10<sup>27</sup> kg<br />(166.16133499651693 Yrths)
+        mass: 6.994 × 10<sup>27</sup> kg<br />(1171.092 Yrths)
         density: 2.511 g/cm<sup>3</sup>
         surface_gravity: 61.197 m/s<sup>2</sup><br />(6.240 g<sub>0</sub>)
         escape_velocity: 103.425 km/s<br />(372,330 km/h)
         rotation_period: 45.842 d
         axial_tilt: 14.06°
         albedo: 0.30
-        temperature: 659 K<br />(386 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 0012 Guashiad C I e
         type: Icy
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 90,735.2 km<br/>(14.242 Yrths)
         surface_area: 1.035 × 10<sup>11</sup> km<sup>2</sup><br/>(202.832 Yrths)
         volume: 3.129 × 10<sup>15</sup> km<sup>3</sup><br/>(2888.711 Yrths)
-        mass: 4.758 × 10<sup>27</sup> kg<br />(166.16133499651693 Yrths)
+        mass: 4.758 × 10<sup>27</sup> kg<br />(796.796 Yrths)
         density: 1.521 g/cm<sup>3</sup>
         surface_gravity: 38.524 m/s<sup>2</sup><br />(3.928 g<sub>0</sub>)
         escape_velocity: 83.669 km/s<br />(301,208 km/h)
         rotation_period: 67.394 d
         axial_tilt: 15.61°
         albedo: 0.30
-        temperature: 544 K<br />(271 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 0012 Guashiad C I f
         type: Asteroid
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 71,160.8 km<br/>(11.169 Yrths)
         surface_area: 6.363 × 10<sup>10</sup> km<sup>2</sup><br/>(124.757 Yrths)
         volume: 1.509 × 10<sup>15</sup> km<sup>3</sup><br/>(1393.475 Yrths)
-        mass: 4.299 × 10<sup>27</sup> kg<br />(166.16133499651693 Yrths)
+        mass: 4.299 × 10<sup>27</sup> kg<br />(719.863 Yrths)
         density: 2.848 g/cm<sup>3</sup>
         surface_gravity: 56.585 m/s<sup>2</sup><br />(5.770 g<sub>0</sub>)
         escape_velocity: 89.801 km/s<br />(323,284 km/h)
         rotation_period: 35.194 d
         axial_tilt: 11.63°
         albedo: 0.30
-        temperature: 472 K<br />(199 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 0012 Guashiad C I g
         type: Rocky
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 114,252.3 km<br/>(17.933 Yrths)
         surface_area: 1.640 × 10<sup>11</sup> km<sup>2</sup><br/>(321.599 Yrths)
         volume: 6.247 × 10<sup>15</sup> km<sup>3</sup><br/>(5767.288 Yrths)
-        mass: 1.969 × 10<sup>28</sup> kg<br />(166.16133499651693 Yrths)
+        mass: 1.969 × 10<sup>28</sup> kg<br />(3296.958 Yrths)
         density: 3.152 g/cm<sup>3</sup>
         surface_gravity: 100.536 m/s<sup>2</sup><br />(10.252 g<sub>0</sub>)
         escape_velocity: 151.671 km/s<br />(546,015 km/h)
         rotation_period: 32.158 d
         axial_tilt: 13.02°
         albedo: 0.30
-        temperature: 409 K<br />(136 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 0012 Guashiad C I h
         type: Dwarf planet
         formationType: Accreted
@@ -192,14 +192,14 @@ planets:
         radius: 82,523.2 km<br/>(12.953 Yrths)
         surface_area: 8.558 × 10<sup>10</sup> km<sup>2</sup><br/>(167.779 Yrths)
         volume: 2.354 × 10<sup>15</sup> km<sup>3</sup><br/>(2173.227 Yrths)
-        mass: 5.817 × 10<sup>27</sup> kg<br />(166.16133499651693 Yrths)
+        mass: 5.817 × 10<sup>27</sup> kg<br />(973.969 Yrths)
         density: 2.471 g/cm<sup>3</sup>
         surface_gravity: 56.928 m/s<sup>2</sup><br />(5.805 g<sub>0</sub>)
         escape_velocity: 96.998 km/s<br />(349,192 km/h)
         rotation_period: 41.613 d
         axial_tilt: 37.00°
         albedo: 0.30
-        temperature: 355 K<br />(81 °C)
+        temperature: 248 K<br />(-25 °C)
   - name: 0012 Guashiad C II
     type: Large terrestrial
     aphelion: 308,953,639 km<br />2.065 AU
@@ -211,14 +211,14 @@ planets:
     radius: 6,606.3 km<br/>(1.037 Yrths)
     surface_area: 5.484 × 10<sup>08</sup> km<sup>2</sup><br/>(1.075 Yrths)
     volume: 1.208 × 10<sup>12</sup> km<sup>3</sup><br/>(1.115 Yrths)
-    mass: 9.267 × 10<sup>24</sup> kg<br />(1.5517846239052469 Yrths)
+    mass: 9.267 × 10<sup>24</sup> kg<br />(1.55 Yrths)
     density: 7.673 g/cm<sup>3</sup>
     surface_gravity: 14.153 m/s<sup>2</sup><br />(1.443 g<sub>0</sub>)
     escape_velocity: 13.684 km/s<br />(49,263 km/h)
     rotation_period: 1.033 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 250 K<br />(-23 °C)
+    temperature: 276 K<br />(3 °C)
     surface_pressure: 433 kPa<br />(4 atm)
     composition:
       - 84.1423% nitrogen
@@ -240,14 +240,14 @@ planets:
         radius: 2,133.5 km<br/>(0.335 Yrths)
         surface_area: 5.720 × 10<sup>07</sup> km<sup>2</sup><br/>(0.112 Yrths)
         volume: 4.068 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 1.324 × 10<sup>23</sup> kg<br />(1.5517846239052469 Yrths)
+        mass: 1.324 × 10<sup>23</sup> kg<br />(0.022 Yrths)
         density: 3.256 g/cm<sup>3</sup>
         surface_gravity: 1.939 m/s<sup>2</sup><br />(0.198 g<sub>0</sub>)
         escape_velocity: 2.879 km/s<br />(10,363 km/h)
         rotation_period: 30.591 d
         axial_tilt: 14.98°
         albedo: 0.30
-        temperature: 2612 K<br />(2339 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 0012 Guashiad C II b
         type: Rocky
         formationType: Impact formed
@@ -260,14 +260,14 @@ planets:
         radius: 2,783.9 km<br/>(0.437 Yrths)
         surface_area: 9.739 × 10<sup>07</sup> km<sup>2</sup><br/>(0.191 Yrths)
         volume: 9.037 × 10<sup>10</sup> km<sup>3</sup><br/>(0.083 Yrths)
-        mass: 2.505 × 10<sup>23</sup> kg<br />(1.5517846239052469 Yrths)
+        mass: 2.505 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 2.772 g/cm<sup>3</sup>
         surface_gravity: 2.154 m/s<sup>2</sup><br />(0.220 g<sub>0</sub>)
         escape_velocity: 3.466 km/s<br />(12,477 km/h)
         rotation_period: 56.332 d
         axial_tilt: 8.98°
         albedo: 0.30
-        temperature: 2491 K<br />(2218 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 0012 Guashiad C II c
         type: Rocky
         formationType: Accreted
@@ -280,14 +280,14 @@ planets:
         radius: 3,780.4 km<br/>(0.593 Yrths)
         surface_area: 1.796 × 10<sup>08</sup> km<sup>2</sup><br/>(0.352 Yrths)
         volume: 2.263 × 10<sup>11</sup> km<sup>3</sup><br/>(0.209 Yrths)
-        mass: 6.648 × 10<sup>23</sup> kg<br />(1.5517846239052469 Yrths)
+        mass: 6.648 × 10<sup>23</sup> kg<br />(0.111 Yrths)
         density: 2.938 g/cm<sup>3</sup>
         surface_gravity: 3.100 m/s<sup>2</sup><br />(0.316 g<sub>0</sub>)
         escape_velocity: 4.845 km/s<br />(17,442 km/h)
         rotation_period: 49.909 d
         axial_tilt: 21.51°
         albedo: 0.30
-        temperature: 2375 K<br />(2102 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 0012 Guashiad C II d
         type: Asteroid
         formationType: Captured
@@ -300,12 +300,12 @@ planets:
         radius: 2,661.2 km<br/>(0.418 Yrths)
         surface_area: 8.899 × 10<sup>07</sup> km<sup>2</sup><br/>(0.174 Yrths)
         volume: 7.894 × 10<sup>10</sup> km<sup>3</sup><br/>(0.073 Yrths)
-        mass: 2.004 × 10<sup>23</sup> kg<br />(1.5517846239052469 Yrths)
+        mass: 2.004 × 10<sup>23</sup> kg<br />(0.034 Yrths)
         density: 2.538 g/cm<sup>3</sup>
         surface_gravity: 1.886 m/s<sup>2</sup><br />(0.192 g<sub>0</sub>)
         escape_velocity: 3.170 km/s<br />(11,412 km/h)
         rotation_period: 43.145 d
         axial_tilt: 48.17°
         albedo: 0.30
-        temperature: 2264 K<br />(1991 °C)
+        temperature: 186 K<br />(-87 °C)
 ---

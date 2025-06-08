@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4901 Athiad is a star in the constellation Ath
+      4901 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 489.78 ly
 apparent_magnitude: 9.75
 absolute_magnitude: 3.87

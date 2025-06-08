@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      521 Lunaiad is a star in the constellation Luna
+      521 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 568.10 ly
 apparent_magnitude: 11.88
 absolute_magnitude: 5.67

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      975 Reggiad is a star in the constellation Reg
+      975 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 519.21 ly
 apparent_magnitude: 15.99
 absolute_magnitude: 9.98

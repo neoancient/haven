@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1346 Oniad is a star in the constellation Oni
+      1346 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 918.75 ly
 apparent_magnitude: 9.59
 absolute_magnitude: 2.34

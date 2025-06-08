@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      558 Niniunniad A is a star in the constellation Niniun
+      558 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 433.89 ly
 apparent_magnitude: 7.28
 absolute_magnitude: 1.66

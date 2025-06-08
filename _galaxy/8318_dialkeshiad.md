@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8318 Dialkeshiad is a star in the constellation Dialkes
+      8318 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 635.69 ly
 apparent_magnitude: 8.07
 absolute_magnitude: 1.62
@@ -31,15 +31,15 @@ planets:
     radius: 10,164.6 km<br/>(1.595 Yrths)
     surface_area: 1.298 × 10<sup>09</sup> km<sup>2</sup><br/>(2.545 Yrths)
     volume: 4.399 × 10<sup>12</sup> km<sup>3</sup><br/>(4.061 Yrths)
-    mass: 2.899 × 10<sup>25</sup> kg<br />(4.854096572610083 Yrths)
+    mass: 2.899 × 10<sup>25</sup> kg<br />(4.85 Yrths)
     density: 6.590 g/cm<sup>3</sup>
     surface_gravity: 18.701 m/s<sup>2</sup><br />(1.907 g<sub>0</sub>)
     escape_velocity: 19.511 km/s<br />(70,241 km/h)
     rotation_period: 0.641 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 617 K<br />(344 °C)
-    surface_pressure: 2,374 kPa<br />(23 atm)
+    temperature: 833 K<br />(560 °C)
+    surface_pressure: 2,374 kPa<br />(24 atm)
     composition:
       - 80.0346% nitrogen
       - 19.9654% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 3,093.6 km<br/>(0.486 Yrths)
         surface_area: 1.203 × 10<sup>08</sup> km<sup>2</sup><br/>(0.236 Yrths)
         volume: 1.240 × 10<sup>11</sup> km<sup>3</sup><br/>(0.114 Yrths)
-        mass: 2.304 × 10<sup>23</sup> kg<br />(4.854096572610083 Yrths)
+        mass: 2.304 × 10<sup>23</sup> kg<br />(0.039 Yrths)
         density: 1.858 g/cm<sup>3</sup>
         surface_gravity: 1.605 m/s<sup>2</sup><br />(0.164 g<sub>0</sub>)
         escape_velocity: 3.153 km/s<br />(11,351 km/h)
         rotation_period: 50.268 d
         axial_tilt: 29.78°
         albedo: 0.30
-        temperature: 5207 K<br />(4934 °C)
+        temperature: 400 K<br />(127 °C)
       - name: 8318 Dialkeshiad I b
         type: Rocky
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 9,268.5 km<br/>(1.455 Yrths)
         surface_area: 1.080 × 10<sup>09</sup> km<sup>2</sup><br/>(2.116 Yrths)
         volume: 3.335 × 10<sup>12</sup> km<sup>3</sup><br/>(3.079 Yrths)
-        mass: 9.485 × 10<sup>24</sup> kg<br />(4.854096572610083 Yrths)
+        mass: 9.485 × 10<sup>24</sup> kg<br />(1.588 Yrths)
         density: 2.844 g/cm<sup>3</sup>
         surface_gravity: 7.359 m/s<sup>2</sup><br />(0.750 g<sub>0</sub>)
         escape_velocity: 11.688 km/s<br />(42,075 km/h)
         rotation_period: 34.402 d
         axial_tilt: 10.51°
         albedo: 0.30
-        temperature: 4964 K<br />(4691 °C)
+        temperature: 400 K<br />(127 °C)
   - name: 8318 Dialkeshiad II
     type: Gas giant
     aphelion: 655,892,486 km<br />4.384 AU
@@ -95,14 +95,14 @@ planets:
     radius: 128.1 km<br/>(0.020 Yrths)
     surface_area: 2.063 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 8.808 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.498 × 10<sup>26</sup> kg<br />(25.08600972386981 Yrths)
+    mass: 1.498 × 10<sup>26</sup> kg<br />(25.09 Yrths)
     density: 17008470.439 g/cm<sup>3</sup>
     surface_gravity: 608371.874 m/s<sup>2</sup><br />(62036.666 g<sub>0</sub>)
     escape_velocity: 395.088 km/s<br />(1,422,317 km/h)
     rotation_period: 0.302 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1150 K<br />(876 °C)
+    temperature: 1110 K<br />(837 °C)
     composition:
       - 90.0195% hydrogen
       - 4.7028% helium
@@ -110,86 +110,66 @@ planets:
       - 0.7978% ammonia
     moons:
       - name: 8318 Dialkeshiad II a
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 10,850,690 km<br />
-        perihelion: 10,242,368 km<br />
-        semi_major_axis: 10,546,529 km<br />
-        eccentricity: 0.029
+        type: Icy
+        formationType: Captured
+        aphelion: 10,660,090 km<br />
+        perihelion: 5,187,436 km<br />
+        semi_major_axis: 7,923,763 km<br />
+        eccentricity: 0.345
         orbital_period: 0.09 d<br />
-        inclination: 3.00°
-        radius: 35,694.4 km<br/>(5.603 Yrths)
-        surface_area: 1.601 × 10<sup>10</sup> km<sup>2</sup><br/>(31.390 Yrths)
-        volume: 1.905 × 10<sup>14</sup> km<sup>3</sup><br/>(175.864 Yrths)
-        mass: 4.343 × 10<sup>26</sup> kg<br />(25.08600972386981 Yrths)
-        density: 2.280 g/cm<sup>3</sup>
-        surface_gravity: 22.718 m/s<sup>2</sup><br />(2.317 g<sub>0</sub>)
-        escape_velocity: 40.299 km/s<br />(145,077 km/h)
-        rotation_period: 35.407 d
-        axial_tilt: 29.16°
+        inclination: 51.17°
+        radius: 20,569.8 km<br/>(3.229 Yrths)
+        surface_area: 5.317 × 10<sup>09</sup> km<sup>2</sup><br/>(10.424 Yrths)
+        volume: 3.646 × 10<sup>13</sup> km<sup>3</sup><br/>(33.656 Yrths)
+        mass: 5.837 × 10<sup>25</sup> kg<br />(9.774 Yrths)
+        density: 1.601 g/cm<sup>3</sup>
+        surface_gravity: 9.195 m/s<sup>2</sup><br />(0.938 g<sub>0</sub>)
+        escape_velocity: 19.463 km/s<br />(70,066 km/h)
+        rotation_period: 54.423 d
+        axial_tilt: 19.96°
         albedo: 0.30
-        temperature: 2082 K<br />(1809 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 8318 Dialkeshiad II b
         type: Ice/rock hybrid
         formationType: Captured
-        aphelion: 16,293,258 km<br />
-        perihelion: 14,589,087 km<br />
-        semi_major_axis: 15,441,173 km<br />
-        eccentricity: 0.055
+        aphelion: 10,492,112 km<br />
+        perihelion: 8,683,395 km<br />
+        semi_major_axis: 9,587,753 km<br />
+        eccentricity: 0.094
         orbital_period: 0.09 d<br />
-        inclination: 3.51°
-        radius: 40,887.2 km<br/>(6.418 Yrths)
-        surface_area: 2.101 × 10<sup>10</sup> km<sup>2</sup><br/>(41.187 Yrths)
-        volume: 2.863 × 10<sup>14</sup> km<sup>3</sup><br/>(264.325 Yrths)
-        mass: 5.584 × 10<sup>26</sup> kg<br />(25.08600972386981 Yrths)
-        density: 1.950 g/cm<sup>3</sup>
-        surface_gravity: 22.262 m/s<sup>2</sup><br />(2.270 g<sub>0</sub>)
-        escape_velocity: 42.696 km/s<br />(153,705 km/h)
-        rotation_period: 44.610 d
-        axial_tilt: 15.53°
+        inclination: 1.66°
+        radius: 13,516.0 km<br/>(2.121 Yrths)
+        surface_area: 2.296 × 10<sup>09</sup> km<sup>2</sup><br/>(4.501 Yrths)
+        volume: 1.034 × 10<sup>13</sup> km<sup>3</sup><br/>(9.548 Yrths)
+        mass: 2.488 × 10<sup>25</sup> kg<br />(4.165 Yrths)
+        density: 2.405 g/cm<sup>3</sup>
+        surface_gravity: 9.076 m/s<sup>2</sup><br />(0.925 g<sub>0</sub>)
+        escape_velocity: 15.674 km/s<br />(56,427 km/h)
+        rotation_period: 52.766 d
+        axial_tilt: 29.11°
         albedo: 0.30
-        temperature: 1721 K<br />(1448 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 8318 Dialkeshiad II c
-        type: Icy
-        formationType: Captured
-        aphelion: 27,301,685 km<br />
-        perihelion: 22,434,641 km<br />
-        semi_major_axis: 24,868,163 km<br />
-        eccentricity: 0.098
-        orbital_period: 0.09 d<br />
-        inclination: 2.28°
-        radius: 43,949.4 km<br/>(6.898 Yrths)
-        surface_area: 2.427 × 10<sup>10</sup> km<sup>2</sup><br/>(47.587 Yrths)
-        volume: 3.556 × 10<sup>14</sup> km<sup>3</sup><br/>(328.273 Yrths)
-        mass: 3.263 × 10<sup>26</sup> kg<br />(25.08600972386981 Yrths)
-        density: 0.918 g/cm<sup>3</sup>
-        surface_gravity: 11.259 m/s<sup>2</sup><br />(1.148 g<sub>0</sub>)
-        escape_velocity: 31.480 km/s<br />(113,327 km/h)
-        rotation_period: 53.823 d
-        axial_tilt: 11.62°
-        albedo: 0.30
-        temperature: 1356 K<br />(1083 °C)
-      - name: 8318 Dialkeshiad II d
         type: Ice/rock hybrid
         formationType: Accreted
-        aphelion: 38,529,356 km<br />
-        perihelion: 34,289,599 km<br />
-        semi_major_axis: 36,409,478 km<br />
-        eccentricity: 0.058
+        aphelion: 49,178,858 km<br />
+        perihelion: 38,932,078 km<br />
+        semi_major_axis: 44,055,468 km<br />
+        eccentricity: 0.116
         orbital_period: 0.09 d<br />
-        inclination: 3.26°
-        radius: 30,036.0 km<br/>(4.714 Yrths)
-        surface_area: 1.134 × 10<sup>10</sup> km<sup>2</sup><br/>(22.226 Yrths)
-        volume: 1.135 × 10<sup>14</sup> km<sup>3</sup><br/>(104.786 Yrths)
-        mass: 2.986 × 10<sup>26</sup> kg<br />(25.08600972386981 Yrths)
-        density: 2.631 g/cm<sup>3</sup>
-        surface_gravity: 22.064 m/s<sup>2</sup><br />(2.250 g<sub>0</sub>)
-        escape_velocity: 36.431 km/s<br />(131,151 km/h)
-        rotation_period: 44.592 d
-        axial_tilt: 22.14°
+        inclination: 1.86°
+        radius: 14,267.5 km<br/>(2.239 Yrths)
+        surface_area: 2.558 × 10<sup>09</sup> km<sup>2</sup><br/>(5.015 Yrths)
+        volume: 1.217 × 10<sup>13</sup> km<sup>3</sup><br/>(11.231 Yrths)
+        mass: 2.710 × 10<sup>25</sup> kg<br />(4.538 Yrths)
+        density: 2.228 g/cm<sup>3</sup>
+        surface_gravity: 8.874 m/s<sup>2</sup><br />(0.905 g<sub>0</sub>)
+        escape_velocity: 15.923 km/s<br />(57,324 km/h)
+        rotation_period: 37.990 d
+        axial_tilt: 19.66°
         albedo: 0.30
-        temperature: 1121 K<br />(847 °C)
-      - name: 8318 Dialkeshiad II e
+        temperature: 284 K<br />(11 °C)
+      - name: 8318 Dialkeshiad II d
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 77,244,568 km<br />
@@ -201,15 +181,55 @@ planets:
         radius: 41,756.0 km<br/>(6.554 Yrths)
         surface_area: 2.191 × 10<sup>10</sup> km<sup>2</sup><br/>(42.956 Yrths)
         volume: 3.050 × 10<sup>14</sup> km<sup>3</sup><br/>(281.537 Yrths)
-        mass: 7.761 × 10<sup>26</sup> kg<br />(25.08600972386981 Yrths)
+        mass: 7.761 × 10<sup>26</sup> kg<br />(129.953 Yrths)
         density: 2.545 g/cm<sup>3</sup>
         surface_gravity: 29.668 m/s<sup>2</sup><br />(3.025 g<sub>0</sub>)
         escape_velocity: 49.809 km/s<br />(179,314 km/h)
         rotation_period: 39.527 d
         axial_tilt: 13.18°
         albedo: 0.30
-        temperature: 803 K<br />(530 °C)
+        temperature: 284 K<br />(11 °C)
+      - name: 8318 Dialkeshiad II e
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 153,877,777 km<br />
+        perihelion: 97,513,006 km<br />
+        semi_major_axis: 125,695,391 km<br />
+        eccentricity: 0.224
+        orbital_period: 0.09 d<br />
+        inclination: 13.45°
+        radius: 15,202.9 km<br/>(2.386 Yrths)
+        surface_area: 2.904 × 10<sup>09</sup> km<sup>2</sup><br/>(5.694 Yrths)
+        volume: 1.472 × 10<sup>13</sup> km<sup>3</sup><br/>(13.588 Yrths)
+        mass: 3.379 × 10<sup>25</sup> kg<br />(5.658 Yrths)
+        density: 2.296 g/cm<sup>3</sup>
+        surface_gravity: 9.744 m/s<sup>2</sup><br />(0.994 g<sub>0</sub>)
+        escape_velocity: 17.225 km/s<br />(62,009 km/h)
+        rotation_period: 49.502 d
+        axial_tilt: 20.32°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
       - name: 8318 Dialkeshiad II f
+        type: Icy
+        formationType: Captured
+        aphelion: 148,545,508 km<br />
+        perihelion: 127,984,353 km<br />
+        semi_major_axis: 138,264,931 km<br />
+        eccentricity: 0.074
+        orbital_period: 0.09 d<br />
+        inclination: 1.43°
+        radius: 18,148.5 km<br/>(2.849 Yrths)
+        surface_area: 4.139 × 10<sup>09</sup> km<sup>2</sup><br/>(8.115 Yrths)
+        volume: 2.504 × 10<sup>13</sup> km<sup>3</sup><br/>(23.115 Yrths)
+        mass: 4.596 × 10<sup>25</sup> kg<br />(7.696 Yrths)
+        density: 1.836 g/cm<sup>3</sup>
+        surface_gravity: 9.301 m/s<sup>2</sup><br />(0.948 g<sub>0</sub>)
+        escape_velocity: 18.386 km/s<br />(66,190 km/h)
+        rotation_period: 39.969 d
+        axial_tilt: 25.17°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
+      - name: 8318 Dialkeshiad II g
         type: Dwarf planet
         formationType: Accreted
         aphelion: 183,414,323 km<br />
@@ -221,14 +241,134 @@ planets:
         radius: 57,347.0 km<br/>(9.001 Yrths)
         surface_area: 4.133 × 10<sup>10</sup> km<sup>2</sup><br/>(81.023 Yrths)
         volume: 7.900 × 10<sup>14</sup> km<sup>3</sup><br/>(729.305 Yrths)
-        mass: 1.484 × 10<sup>27</sup> kg<br />(25.08600972386981 Yrths)
+        mass: 1.484 × 10<sup>27</sup> kg<br />(248.483 Yrths)
         density: 1.878 g/cm<sup>3</sup>
         surface_gravity: 30.075 m/s<sup>2</sup><br />(3.067 g<sub>0</sub>)
         escape_velocity: 58.772 km/s<br />(211,580 km/h)
         rotation_period: 68.390 d
         axial_tilt: 17.89°
         albedo: 0.30
-        temperature: 523 K<br />(250 °C)
+        temperature: 284 K<br />(11 °C)
+      - name: 8318 Dialkeshiad II h
+        type: Icy
+        formationType: Accreted
+        aphelion: 206,864,815 km<br />
+        perihelion: 161,196,430 km<br />
+        semi_major_axis: 184,030,623 km<br />
+        eccentricity: 0.124
+        orbital_period: 0.09 d<br />
+        inclination: 3.35°
+        radius: 21,813.7 km<br/>(3.424 Yrths)
+        surface_area: 5.980 × 10<sup>09</sup> km<sup>2</sup><br/>(11.723 Yrths)
+        volume: 4.348 × 10<sup>13</sup> km<sup>3</sup><br/>(40.139 Yrths)
+        mass: 6.481 × 10<sup>25</sup> kg<br />(10.852 Yrths)
+        density: 1.491 g/cm<sup>3</sup>
+        surface_gravity: 9.078 m/s<sup>2</sup><br />(0.926 g<sub>0</sub>)
+        escape_velocity: 19.914 km/s<br />(71,692 km/h)
+        rotation_period: 48.650 d
+        axial_tilt: 16.50°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
+      - name: 8318 Dialkeshiad II i
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 258,310,232 km<br />
+        perihelion: 187,043,874 km<br />
+        semi_major_axis: 222,677,053 km<br />
+        eccentricity: 0.160
+        orbital_period: 0.09 d<br />
+        inclination: 23.00°
+        radius: 18,930.2 km<br/>(2.971 Yrths)
+        surface_area: 4.503 × 10<sup>09</sup> km<sup>2</sup><br/>(8.829 Yrths)
+        volume: 2.842 × 10<sup>13</sup> km<sup>3</sup><br/>(26.233 Yrths)
+        mass: 5.614 × 10<sup>25</sup> kg<br />(9.401 Yrths)
+        density: 1.976 g/cm<sup>3</sup>
+        surface_gravity: 10.442 m/s<sup>2</sup><br />(1.065 g<sub>0</sub>)
+        escape_velocity: 19.897 km/s<br />(71,628 km/h)
+        rotation_period: 36.368 d
+        axial_tilt: 26.66°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
+      - name: 8318 Dialkeshiad II j
+        type: Icy
+        formationType: Accreted
+        aphelion: 331,597,113 km<br />
+        perihelion: 320,445,834 km<br />
+        semi_major_axis: 326,021,474 km<br />
+        eccentricity: 0.017
+        orbital_period: 0.09 d<br />
+        inclination: 4.21°
+        radius: 28,832.8 km<br/>(4.526 Yrths)
+        surface_area: 1.045 × 10<sup>10</sup> km<sup>2</sup><br/>(20.481 Yrths)
+        volume: 1.004 × 10<sup>14</sup> km<sup>3</sup><br/>(92.691 Yrths)
+        mass: 1.187 × 10<sup>26</sup> kg<br />(19.876 Yrths)
+        density: 1.182 g/cm<sup>3</sup>
+        surface_gravity: 9.517 m/s<sup>2</sup><br />(0.970 g<sub>0</sub>)
+        escape_velocity: 23.442 km/s<br />(84,392 km/h)
+        rotation_period: 49.967 d
+        axial_tilt: 19.08°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
+      - name: 8318 Dialkeshiad II k
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 848,151,209 km<br />
+        perihelion: 843,080,269 km<br />
+        semi_major_axis: 845,615,739 km<br />
+        eccentricity: 0.003
+        orbital_period: 0.09 d<br />
+        inclination: 1.62°
+        radius: 14,617.6 km<br/>(2.294 Yrths)
+        surface_area: 2.685 × 10<sup>09</sup> km<sup>2</sup><br/>(5.264 Yrths)
+        volume: 1.308 × 10<sup>13</sup> km<sup>3</sup><br/>(12.078 Yrths)
+        mass: 2.846 × 10<sup>25</sup> kg<br />(4.766 Yrths)
+        density: 2.176 g/cm<sup>3</sup>
+        surface_gravity: 8.879 m/s<sup>2</sup><br />(0.905 g<sub>0</sub>)
+        escape_velocity: 16.122 km/s<br />(58,040 km/h)
+        rotation_period: 49.092 d
+        axial_tilt: 15.99°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
+      - name: 8318 Dialkeshiad II l
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 1,140,438,688 km<br />
+        perihelion: 1,110,590,410 km<br />
+        semi_major_axis: 1,125,514,549 km<br />
+        eccentricity: 0.013
+        orbital_period: 0.09 d<br />
+        inclination: 1.16°
+        radius: 19,231.0 km<br/>(3.019 Yrths)
+        surface_area: 4.647 × 10<sup>09</sup> km<sup>2</sup><br/>(9.111 Yrths)
+        volume: 2.979 × 10<sup>13</sup> km<sup>3</sup><br/>(27.503 Yrths)
+        mass: 5.711 × 10<sup>25</sup> kg<br />(9.563 Yrths)
+        density: 1.917 g/cm<sup>3</sup>
+        surface_gravity: 10.292 m/s<sup>2</sup><br />(1.050 g<sub>0</sub>)
+        escape_velocity: 19.910 km/s<br />(71,676 km/h)
+        rotation_period: 50.848 d
+        axial_tilt: 24.66°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
+      - name: 8318 Dialkeshiad II m
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 1,251,589,148 km<br />
+        perihelion: 1,224,542,860 km<br />
+        semi_major_axis: 1,238,066,004 km<br />
+        eccentricity: 0.011
+        orbital_period: 0.09 d<br />
+        inclination: 3.93°
+        radius: 18,655.1 km<br/>(2.928 Yrths)
+        surface_area: 4.373 × 10<sup>09</sup> km<sup>2</sup><br/>(8.574 Yrths)
+        volume: 2.719 × 10<sup>13</sup> km<sup>3</sup><br/>(25.106 Yrths)
+        mass: 5.069 × 10<sup>25</sup> kg<br />(8.489 Yrths)
+        density: 1.864 g/cm<sup>3</sup>
+        surface_gravity: 9.709 m/s<sup>2</sup><br />(0.990 g<sub>0</sub>)
+        escape_velocity: 19.046 km/s<br />(68,565 km/h)
+        rotation_period: 41.976 d
+        axial_tilt: 27.50°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
   - name: 8318 Dialkeshiad III
     type: Gas giant
     aphelion: 1,266,301,732 km<br />8.465 AU
@@ -240,14 +380,14 @@ planets:
     radius: 237.0 km<br/>(0.037 Yrths)
     surface_area: 7.057 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.575 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.084 × 10<sup>27</sup> kg<br />(348.9698211908928 Yrths)
+    mass: 2.084 × 10<sup>27</sup> kg<br />(348.97 Yrths)
     density: 37382840.139 g/cm<sup>3</sup>
     surface_gravity: 2473389.875 m/s<sup>2</sup><br />(252215.576 g<sub>0</sub>)
     escape_velocity: 1083.463 km/s<br />(3,900,465 km/h)
     rotation_period: 0.232 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 769 K<br />(496 °C)
+    temperature: 730 K<br />(457 °C)
     composition:
       - 88.9145% hydrogen
       - 11.0855% helium
@@ -264,14 +404,14 @@ planets:
         radius: 225,234.8 km<br/>(35.353 Yrths)
         surface_area: 6.375 × 10<sup>11</sup> km<sup>2</sup><br/>(1249.844 Yrths)
         volume: 4.786 × 10<sup>16</sup> km<sup>3</sup><br/>(44185.919 Yrths)
-        mass: 6.200 × 10<sup>28</sup> kg<br />(348.9698211908928 Yrths)
+        mass: 6.200 × 10<sup>28</sup> kg<br />(10381.600 Yrths)
         density: 1.295 g/cm<sup>3</sup>
         surface_gravity: 81.457 m/s<sup>2</sup><br />(8.306 g<sub>0</sub>)
         escape_velocity: 191.687 km/s<br />(690,072 km/h)
         rotation_period: 48.039 d
         axial_tilt: 15.07°
         albedo: 0.30
-        temperature: 998 K<br />(725 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 8318 Dialkeshiad III b
         type: Asteroid
         formationType: Captured
@@ -284,14 +424,14 @@ planets:
         radius: 239,660.0 km<br/>(37.617 Yrths)
         surface_area: 7.218 × 10<sup>11</sup> km<sup>2</sup><br/>(1415.063 Yrths)
         volume: 5.766 × 10<sup>16</sup> km<sup>3</sup><br/>(53230.884 Yrths)
-        mass: 8.095 × 10<sup>28</sup> kg<br />(348.9698211908928 Yrths)
+        mass: 8.095 × 10<sup>28</sup> kg<br />(13555.121 Yrths)
         density: 1.404 g/cm<sup>3</sup>
         surface_gravity: 93.940 m/s<sup>2</sup><br />(9.579 g<sub>0</sub>)
         escape_velocity: 212.340 km/s<br />(764,424 km/h)
         rotation_period: 43.971 d
         axial_tilt: 41.36°
         albedo: 0.30
-        temperature: 682 K<br />(409 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 8318 Dialkeshiad III c
         type: Icy
         formationType: Captured
@@ -304,14 +444,14 @@ planets:
         radius: 278,552.1 km<br/>(43.722 Yrths)
         surface_area: 9.750 × 10<sup>11</sup> km<sup>2</sup><br/>(1911.603 Yrths)
         volume: 9.053 × 10<sup>16</sup> km<sup>3</sup><br/>(83578.876 Yrths)
-        mass: 1.337 × 10<sup>29</sup> kg<br />(348.9698211908928 Yrths)
+        mass: 1.337 × 10<sup>29</sup> kg<br />(22384.173 Yrths)
         density: 1.477 g/cm<sup>3</sup>
         surface_gravity: 114.832 m/s<sup>2</sup><br />(11.710 g<sub>0</sub>)
         escape_velocity: 253.102 km/s<br />(911,166 km/h)
         rotation_period: 43.532 d
         axial_tilt: 20.12°
         albedo: 0.30
-        temperature: 650 K<br />(377 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 8318 Dialkeshiad III d
         type: Icy
         formationType: Captured
@@ -324,14 +464,14 @@ planets:
         radius: 248,691.6 km<br/>(39.035 Yrths)
         surface_area: 7.772 × 10<sup>11</sup> km<sup>2</sup><br/>(1523.726 Yrths)
         volume: 6.443 × 10<sup>16</sup> km<sup>3</sup><br/>(59478.550 Yrths)
-        mass: 7.668 × 10<sup>28</sup> kg<br />(348.9698211908928 Yrths)
+        mass: 7.668 × 10<sup>28</sup> kg<br />(12840.485 Yrths)
         density: 1.190 g/cm<sup>3</sup>
         surface_gravity: 82.641 m/s<sup>2</sup><br />(8.427 g<sub>0</sub>)
         escape_velocity: 202.879 km/s<br />(730,366 km/h)
         rotation_period: 86.842 d
         axial_tilt: 9.80°
         albedo: 0.30
-        temperature: 564 K<br />(290 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 8318 Dialkeshiad III e
         type: Icy
         formationType: Impact formed
@@ -344,14 +484,14 @@ planets:
         radius: 356,617.0 km<br/>(55.975 Yrths)
         surface_area: 1.598 × 10<sup>12</sup> km<sup>2</sup><br/>(3133.205 Yrths)
         volume: 1.900 × 10<sup>17</sup> km<sup>3</sup><br/>(175381.303 Yrths)
-        mass: 2.916 × 10<sup>29</sup> kg<br />(348.9698211908928 Yrths)
+        mass: 2.916 × 10<sup>29</sup> kg<br />(48822.945 Yrths)
         density: 1.535 g/cm<sup>3</sup>
         surface_gravity: 152.811 m/s<sup>2</sup><br />(15.582 g<sub>0</sub>)
         escape_velocity: 330.361 km/s<br />(1,189,299 km/h)
         rotation_period: 53.464 d
         axial_tilt: 16.50°
         albedo: 0.30
-        temperature: 512 K<br />(239 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 8318 Dialkeshiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -364,14 +504,14 @@ planets:
         radius: 267,770.7 km<br/>(42.030 Yrths)
         surface_area: 9.010 × 10<sup>11</sup> km<sup>2</sup><br/>(1766.489 Yrths)
         volume: 8.042 × 10<sup>16</sup> km<sup>3</sup><br/>(74244.866 Yrths)
-        mass: 1.287 × 10<sup>29</sup> kg<br />(348.9698211908928 Yrths)
+        mass: 1.287 × 10<sup>29</sup> kg<br />(21546.564 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 119.616 m/s<sup>2</sup><br />(12.197 g<sub>0</sub>)
         escape_velocity: 253.271 km/s<br />(911,775 km/h)
         rotation_period: 72.887 d
         axial_tilt: 18.15°
         albedo: 0.30
-        temperature: 488 K<br />(215 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 8318 Dialkeshiad III g
         type: Icy
         formationType: Accreted
@@ -384,12 +524,12 @@ planets:
         radius: 484,987.8 km<br/>(76.124 Yrths)
         surface_area: 2.956 × 10<sup>12</sup> km<sup>2</sup><br/>(5794.906 Yrths)
         volume: 4.778 × 10<sup>17</sup> km<sup>3</sup><br/>(441133.012 Yrths)
-        mass: 4.309 × 10<sup>29</sup> kg<br />(348.9698211908928 Yrths)
+        mass: 4.309 × 10<sup>29</sup> kg<br />(72154.586 Yrths)
         density: 0.902 g/cm<sup>3</sup>
         surface_gravity: 122.106 m/s<sup>2</sup><br />(12.451 g<sub>0</sub>)
         escape_velocity: 344.385 km/s<br />(1,239,786 km/h)
         rotation_period: 87.206 d
         axial_tilt: 19.77°
         albedo: 0.30
-        temperature: 318 K<br />(45 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

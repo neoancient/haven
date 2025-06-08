@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      963 Saithiad is a star in the constellation Saith
+      963 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 342.54 ly
 apparent_magnitude: 7.87
 absolute_magnitude: 2.77

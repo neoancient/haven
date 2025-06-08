@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Ratharshinniad B is a star in the constellation Ratharshin
+      0024 Ratharshinniad B is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 317.30 ly
 apparent_magnitude: 9.86
 absolute_magnitude: 4.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1490 Shanniashiad is a star in the constellation Shannias
+      1490 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 594.53 ly
 apparent_magnitude: 10.86
 absolute_magnitude: 4.56

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5320 Narashiad is a star in the constellation Naras
+      5320 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 397.94 ly
 apparent_magnitude: 12.57
 absolute_magnitude: 7.14

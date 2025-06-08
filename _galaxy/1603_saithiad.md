@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1603 Saithiad is a star in the constellation Saith
+      1603 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 639.05 ly
 apparent_magnitude: 14.31
 absolute_magnitude: 7.85

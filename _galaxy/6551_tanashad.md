@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6551 Tanashad is a star in the constellation Tanas
+      6551 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 408.03 ly
 apparent_magnitude: 10.09
 absolute_magnitude: 4.60

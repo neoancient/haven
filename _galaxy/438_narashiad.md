@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      438 Narashiad is a star in the constellation Naras
+      438 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 605.05 ly
 apparent_magnitude: 7.92
 absolute_magnitude: 1.58

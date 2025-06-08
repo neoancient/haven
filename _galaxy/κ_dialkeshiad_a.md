@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      κ Dialkeshiad A is a star in the constellation Dialkes
+      κ Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 796.93 ly
 apparent_magnitude: 4.42
 absolute_magnitude: -2.52

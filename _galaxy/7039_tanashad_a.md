@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7039 Tanashad A is a star in the constellation Tanas
+      7039 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 228.06 ly
 apparent_magnitude: 9.33
 absolute_magnitude: 5.11

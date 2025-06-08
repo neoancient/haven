@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2331 Keead A is a star in the constellation Kee
+      2331 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 306.94 ly
 apparent_magnitude: 7.78
 absolute_magnitude: 2.91

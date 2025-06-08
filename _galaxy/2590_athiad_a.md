@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2590 Athiad A is a star in the constellation Ath
+      2590 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 277.56 ly
 apparent_magnitude: 8.93
 absolute_magnitude: 4.28

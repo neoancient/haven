@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1082 Tanashad A is a star in the constellation Tanas
+      1082 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 385.29 ly
 apparent_magnitude: 7.72
 absolute_magnitude: 2.36

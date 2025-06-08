@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Lyeth B is a star in the constellation Nurranpug
+      Lyeth B is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 429.89 ly
 apparent_magnitude: 16.46
 absolute_magnitude: 10.86

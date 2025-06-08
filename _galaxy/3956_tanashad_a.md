@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3956 Tanashad A is a star in the constellation Tanas
+      3956 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1032.40 ly
 apparent_magnitude: 7.32
 absolute_magnitude: -0.19

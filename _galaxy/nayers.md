@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nayers is a star in the constellation Nishedi
+      Nayers is a star in the constellation <a href="nishedi.html">Nishedi</a>
 distance: 1382.18 ly
 apparent_magnitude: 2.01
 absolute_magnitude: -6.13

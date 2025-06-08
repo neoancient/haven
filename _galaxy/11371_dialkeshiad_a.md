@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11371 Dialkeshiad A is a star in the constellation Dialkes
+      11371 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 464.67 ly
 apparent_magnitude: 6.77
 absolute_magnitude: 1.00

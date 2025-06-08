@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      655715 Reggiad A is a star in the constellation Reg
+      655715 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 602.76 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 1.71

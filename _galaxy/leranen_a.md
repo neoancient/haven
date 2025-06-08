@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Leranen A is a star in the constellation Irsa
+      Leranen A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 247.93 ly
 apparent_magnitude: -1.34
 absolute_magnitude: -5.75

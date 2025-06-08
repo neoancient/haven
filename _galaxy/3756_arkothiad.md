@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3756 Arkothiad is a star in the constellation Arkoth
+      3756 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 441.28 ly
 apparent_magnitude: 10.10
 absolute_magnitude: 4.45

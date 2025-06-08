@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4059 Anilliad is a star in the constellation Anil
+      4059 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 350.92 ly
 apparent_magnitude: 11.52
 absolute_magnitude: 6.37

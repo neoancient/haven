@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0046 Shanniashiad B is a star in the constellation Shannias
+      0046 Shanniashiad B is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 192.10 ly
 apparent_magnitude: 8.79
 absolute_magnitude: 4.94

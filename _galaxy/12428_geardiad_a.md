@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12428 Geardiad A is a star in the constellation Geard
+      12428 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 622.41 ly
 apparent_magnitude: 8.50
 absolute_magnitude: 2.10

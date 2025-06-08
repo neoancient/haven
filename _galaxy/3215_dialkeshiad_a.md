@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3215 Dialkeshiad A is a star in the constellation Dialkes
+      3215 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 355.72 ly
 apparent_magnitude: 8.54
 absolute_magnitude: 3.36

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8653 Dialkeshiad is a star in the constellation Dialkes
+      8653 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 289.22 ly
 apparent_magnitude: 8.07
 absolute_magnitude: 3.33
@@ -31,7 +31,7 @@ planets:
     radius: 230.1 km<br/>(0.036 Yrths)
     surface_area: 6.651 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.101 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.908 × 10<sup>27</sup> kg<br />(319.4730759870414 Yrths)
+    mass: 1.908 × 10<sup>27</sup> kg<br />(319.47 Yrths)
     density: 37404432.482 g/cm<sup>3</sup>
     surface_gravity: 2402565.447 m/s<sup>2</sup><br />(244993.494 g<sub>0</sub>)
     escape_velocity: 1052.134 km/s<br />(3,787,683 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 218,553.5 km<br/>(34.304 Yrths)
         surface_area: 6.002 × 10<sup>11</sup> km<sup>2</sup><br/>(1176.794 Yrths)
         volume: 4.373 × 10<sup>16</sup> km<sup>3</sup><br/>(40369.228 Yrths)
-        mass: 5.179 × 10<sup>28</sup> kg<br />(319.4730759870414 Yrths)
+        mass: 5.179 × 10<sup>28</sup> kg<br />(8672.489 Yrths)
         density: 1.184 g/cm<sup>3</sup>
         surface_gravity: 72.271 m/s<sup>2</sup><br />(7.370 g<sub>0</sub>)
         escape_velocity: 177.857 km/s<br />(640,285 km/h)
         rotation_period: 46.257 d
         axial_tilt: 29.04°
         albedo: 0.30
-        temperature: 812 K<br />(539 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 8653 Dialkeshiad I b
         type: Icy
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 137,110.1 km<br/>(21.521 Yrths)
         surface_area: 2.362 × 10<sup>11</sup> km<sup>2</sup><br/>(463.152 Yrths)
         volume: 1.080 × 10<sup>16</sup> km<sup>3</sup><br/>(9967.494 Yrths)
-        mass: 1.637 × 10<sup>28</sup> kg<br />(319.4730759870414 Yrths)
+        mass: 1.637 × 10<sup>28</sup> kg<br />(2741.107 Yrths)
         density: 1.516 g/cm<sup>3</sup>
         surface_gravity: 58.039 m/s<sup>2</sup><br />(5.918 g<sub>0</sub>)
         escape_velocity: 126.243 km/s<br />(454,473 km/h)
         rotation_period: 41.879 d
         axial_tilt: 18.62°
         albedo: 0.30
-        temperature: 555 K<br />(282 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 8653 Dialkeshiad I c
         type: Icy
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 153,290.5 km<br/>(24.061 Yrths)
         surface_area: 2.953 × 10<sup>11</sup> km<sup>2</sup><br/>(578.915 Yrths)
         volume: 1.509 × 10<sup>16</sup> km<sup>3</sup><br/>(13929.083 Yrths)
-        mass: 2.063 × 10<sup>28</sup> kg<br />(319.4730759870414 Yrths)
+        mass: 2.063 × 10<sup>28</sup> kg<br />(3453.973 Yrths)
         density: 1.367 g/cm<sup>3</sup>
         surface_gravity: 58.509 m/s<sup>2</sup><br />(5.966 g<sub>0</sub>)
         escape_velocity: 134.023 km/s<br />(482,483 km/h)
         rotation_period: 44.332 d
         axial_tilt: 12.64°
         albedo: 0.30
-        temperature: 437 K<br />(164 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 8653 Dialkeshiad I d
         type: Asteroid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 168,980.0 km<br/>(26.523 Yrths)
         surface_area: 3.588 × 10<sup>11</sup> km<sup>2</sup><br/>(703.486 Yrths)
         volume: 2.021 × 10<sup>16</sup> km<sup>3</sup><br/>(18658.772 Yrths)
-        mass: 6.544 × 10<sup>28</sup> kg<br />(319.4730759870414 Yrths)
+        mass: 6.544 × 10<sup>28</sup> kg<br />(10957.932 Yrths)
         density: 3.238 g/cm<sup>3</sup>
         surface_gravity: 152.754 m/s<sup>2</sup><br />(15.577 g<sub>0</sub>)
         escape_velocity: 227.365 km/s<br />(818,516 km/h)
         rotation_period: 52.189 d
         axial_tilt: 25.56°
         albedo: 0.30
-        temperature: 397 K<br />(124 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 8653 Dialkeshiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 158,524.9 km<br/>(24.882 Yrths)
         surface_area: 3.158 × 10<sup>11</sup> km<sup>2</sup><br/>(619.127 Yrths)
         volume: 1.669 × 10<sup>16</sup> km<sup>3</sup><br/>(15405.293 Yrths)
-        mass: 3.948 × 10<sup>28</sup> kg<br />(319.4730759870414 Yrths)
+        mass: 3.948 × 10<sup>28</sup> kg<br />(6611.067 Yrths)
         density: 2.366 g/cm<sup>3</sup>
         surface_gravity: 104.716 m/s<sup>2</sup><br />(10.678 g<sub>0</sub>)
         escape_velocity: 182.333 km/s<br />(656,398 km/h)
         rotation_period: 42.143 d
         axial_tilt: 12.60°
         albedo: 0.30
-        temperature: 177 K<br />(-96 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 8653 Dialkeshiad I f
         type: Rocky
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 108,942.5 km<br/>(17.100 Yrths)
         surface_area: 1.491 × 10<sup>11</sup> km<sup>2</sup><br/>(292.402 Yrths)
         volume: 5.416 × 10<sup>15</sup> km<sup>3</sup><br/>(4999.994 Yrths)
-        mass: 1.713 × 10<sup>28</sup> kg<br />(319.4730759870414 Yrths)
+        mass: 1.713 × 10<sup>28</sup> kg<br />(2868.942 Yrths)
         density: 3.163 g/cm<sup>3</sup>
         surface_gravity: 96.219 m/s<sup>2</sup><br />(9.812 g<sub>0</sub>)
         escape_velocity: 144.890 km/s<br />(521,606 km/h)
         rotation_period: 29.318 d
         axial_tilt: 16.24°
         albedo: 0.30
-        temperature: 86 K<br />(-187 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 8653 Dialkeshiad I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -172,14 +172,14 @@ planets:
         radius: 232,794.6 km<br/>(36.540 Yrths)
         surface_area: 6.810 × 10<sup>11</sup> km<sup>2</sup><br/>(1335.151 Yrths)
         volume: 5.285 × 10<sup>16</sup> km<sup>3</sup><br/>(48786.063 Yrths)
-        mass: 1.117 × 10<sup>29</sup> kg<br />(319.4730759870414 Yrths)
+        mass: 1.117 × 10<sup>29</sup> kg<br />(18704.626 Yrths)
         density: 2.114 g/cm<sup>3</sup>
         surface_gravity: 137.385 m/s<sup>2</sup><br />(14.009 g<sub>0</sub>)
         escape_velocity: 253.085 km/s<br />(911,105 km/h)
         rotation_period: 40.154 d
         axial_tilt: 21.42°
         albedo: 0.30
-        temperature: 82 K<br />(-191 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 8653 Dialkeshiad I h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -192,14 +192,14 @@ planets:
         radius: 143,443.7 km<br/>(22.515 Yrths)
         surface_area: 2.586 × 10<sup>11</sup> km<sup>2</sup><br/>(506.930 Yrths)
         volume: 1.236 × 10<sup>16</sup> km<sup>3</sup><br/>(11413.569 Yrths)
-        mass: 2.404 × 10<sup>28</sup> kg<br />(319.4730759870414 Yrths)
+        mass: 2.404 × 10<sup>28</sup> kg<br />(4025.088 Yrths)
         density: 1.944 g/cm<sup>3</sup>
         surface_gravity: 77.866 m/s<sup>2</sup><br />(7.940 g<sub>0</sub>)
         escape_velocity: 149.563 km/s<br />(538,428 km/h)
         rotation_period: 37.580 d
         axial_tilt: 23.17°
         albedo: 0.30
-        temperature: 47 K<br />(-227 °C)
+        temperature: 238 K<br />(-35 °C)
   - name: 8653 Dialkeshiad II
     type: Large terrestrial
     aphelion: 823,348,172 km<br />5.504 AU
@@ -211,14 +211,14 @@ planets:
     radius: 8,500.7 km<br/>(1.334 Yrths)
     surface_area: 9.081 × 10<sup>08</sup> km<sup>2</sup><br/>(1.780 Yrths)
     volume: 2.573 × 10<sup>12</sup> km<sup>3</sup><br/>(2.375 Yrths)
-    mass: 1.623 × 10<sup>25</sup> kg<br />(2.717986051647409 Yrths)
+    mass: 1.623 × 10<sup>25</sup> kg<br />(2.72 Yrths)
     density: 6.308 g/cm<sup>3</sup>
     surface_gravity: 14.972 m/s<sup>2</sup><br />(1.527 g<sub>0</sub>)
     escape_velocity: 15.965 km/s<br />(57,475 km/h)
     rotation_period: 0.774 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 216 K<br />(-57 °C)
+    temperature: 211 K<br />(-62 °C)
     surface_pressure: 303 kPa<br />(3 atm)
     composition:
       - 66.0822% nitrogen
@@ -238,14 +238,14 @@ planets:
         radius: 7,217.7 km<br/>(1.133 Yrths)
         surface_area: 6.547 × 10<sup>08</sup> km<sup>2</sup><br/>(1.283 Yrths)
         volume: 1.575 × 10<sup>12</sup> km<sup>3</sup><br/>(1.454 Yrths)
-        mass: 5.191 × 10<sup>24</sup> kg<br />(2.717986051647409 Yrths)
+        mass: 5.191 × 10<sup>24</sup> kg<br />(0.869 Yrths)
         density: 3.296 g/cm<sup>3</sup>
         surface_gravity: 6.642 m/s<sup>2</sup><br />(0.677 g<sub>0</sub>)
         escape_velocity: 9.798 km/s<br />(35,274 km/h)
         rotation_period: 39.482 d
         axial_tilt: 20.29°
         albedo: 0.30
-        temperature: 2061 K<br />(1788 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 8653 Dialkeshiad II b
         type: Rocky
         formationType: Impact formed
@@ -258,14 +258,14 @@ planets:
         radius: 2,463.5 km<br/>(0.387 Yrths)
         surface_area: 7.627 × 10<sup>07</sup> km<sup>2</sup><br/>(0.150 Yrths)
         volume: 6.263 × 10<sup>10</sup> km<sup>3</sup><br/>(0.058 Yrths)
-        mass: 1.887 × 10<sup>23</sup> kg<br />(2.717986051647409 Yrths)
+        mass: 1.887 × 10<sup>23</sup> kg<br />(0.032 Yrths)
         density: 3.013 g/cm<sup>3</sup>
         surface_gravity: 2.072 m/s<sup>2</sup><br />(0.211 g<sub>0</sub>)
         escape_velocity: 3.197 km/s<br />(11,510 km/h)
         rotation_period: 30.965 d
         axial_tilt: 18.59°
         albedo: 0.30
-        temperature: 1965 K<br />(1692 °C)
+        temperature: 167 K<br />(-106 °C)
   - name: 8653 Dialkeshiad III
     type: Gas dwarf
     aphelion: 1,653,724,998 km<br />11.054 AU
@@ -277,14 +277,14 @@ planets:
     radius: 3,730.5 km<br/>(0.586 Yrths)
     surface_area: 1.749 × 10<sup>08</sup> km<sup>2</sup><br/>(0.343 Yrths)
     volume: 2.175 × 10<sup>11</sup> km<sup>3</sup><br/>(0.201 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.746 g/cm<sup>3</sup>
     surface_gravity: 2.860 m/s<sup>2</sup><br />(0.292 g<sub>0</sub>)
     escape_velocity: 4.623 km/s<br />(16,642 km/h)
     rotation_period: 1.036 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 165 K<br />(-108 °C)
+    temperature: 145 K<br />(-129 °C)
     composition:
       - 82.1282% hydrogen
       - 17.0432% helium
@@ -302,14 +302,14 @@ planets:
         radius: 544.6 km<br/>(0.085 Yrths)
         surface_area: 3.727 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.766 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.528 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.528 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.259 g/cm<sup>3</sup>
         surface_gravity: 0.343 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.612 km/s<br />(2,203 km/h)
         rotation_period: 51.733 d
         axial_tilt: 32.22°
         albedo: 0.30
-        temperature: 2356 K<br />(2083 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 8653 Dialkeshiad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -322,14 +322,14 @@ planets:
         radius: 708.3 km<br/>(0.111 Yrths)
         surface_area: 6.305 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.489 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.903 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.903 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.950 g/cm<sup>3</sup>
         surface_gravity: 0.386 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.740 km/s<br />(2,663 km/h)
         rotation_period: 36.742 d
         axial_tilt: 22.46°
         albedo: 0.30
-        temperature: 2246 K<br />(1973 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 8653 Dialkeshiad III c
         type: Icy
         formationType: Captured
@@ -342,14 +342,14 @@ planets:
         radius: 1,388.3 km<br/>(0.218 Yrths)
         surface_area: 2.422 × 10<sup>07</sup> km<sup>2</sup><br/>(0.047 Yrths)
         volume: 1.121 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 7.845 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.845 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.271 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.869 km/s<br />(3,127 km/h)
         rotation_period: 62.239 d
         axial_tilt: 15.41°
         albedo: 0.30
-        temperature: 2142 K<br />(1868 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 8653 Dialkeshiad III d
         type: Icy
         formationType: Captured
@@ -362,14 +362,14 @@ planets:
         radius: 863.5 km<br/>(0.136 Yrths)
         surface_area: 9.370 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.697 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.888 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.888 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.169 m/s<sup>2</sup><br />(0.017 g<sub>0</sub>)
         escape_velocity: 0.540 km/s<br />(1,945 km/h)
         rotation_period: 73.637 d
         axial_tilt: 22.18°
         albedo: 0.30
-        temperature: 2042 K<br />(1769 °C)
+        temperature: 117 K<br />(-156 °C)
   - name: 8653 Dialkeshiad IV
     type: Gas dwarf
     aphelion: 3,414,506,434 km<br />22.824 AU
@@ -381,14 +381,14 @@ planets:
     radius: 7,000.3 km<br/>(1.099 Yrths)
     surface_area: 6.158 × 10<sup>08</sup> km<sup>2</sup><br/>(1.207 Yrths)
     volume: 1.437 × 10<sup>12</sup> km<sup>3</sup><br/>(1.327 Yrths)
-    mass: 3.517 × 10<sup>24</sup> kg<br />(0.5888637223861456 Yrths)
+    mass: 3.517 × 10<sup>24</sup> kg<br />(0.59 Yrths)
     density: 2.447 g/cm<sup>3</sup>
     surface_gravity: 4.783 m/s<sup>2</sup><br />(0.488 g<sub>0</sub>)
     escape_velocity: 8.189 km/s<br />(29,480 km/h)
     rotation_period: 0.706 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 119 K<br />(-155 °C)
+    temperature: 104 K<br />(-169 °C)
     composition:
       - 75.3775% hydrogen
       - 24.2094% helium
@@ -406,14 +406,14 @@ planets:
         radius: 2,290.2 km<br/>(0.359 Yrths)
         surface_area: 6.591 × 10<sup>07</sup> km<sup>2</sup><br/>(0.129 Yrths)
         volume: 5.032 × 10<sup>10</sup> km<sup>3</sup><br/>(0.046 Yrths)
-        mass: 5.000 × 10<sup>22</sup> kg<br />(0.5888637223861456 Yrths)
+        mass: 5.000 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 0.994 g/cm<sup>3</sup>
         surface_gravity: 0.635 m/s<sup>2</sup><br />(0.065 g<sub>0</sub>)
         escape_velocity: 1.707 km/s<br />(6,146 km/h)
         rotation_period: 53.949 d
         axial_tilt: 9.62°
         albedo: 0.30
-        temperature: 1290 K<br />(1017 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 8653 Dialkeshiad IV b
         type: Icy
         formationType: Accreted
@@ -426,14 +426,14 @@ planets:
         radius: 3,882.2 km<br/>(0.609 Yrths)
         surface_area: 1.894 × 10<sup>08</sup> km<sup>2</sup><br/>(0.371 Yrths)
         volume: 2.451 × 10<sup>11</sup> km<sup>3</sup><br/>(0.226 Yrths)
-        mass: 2.347 × 10<sup>23</sup> kg<br />(0.5888637223861456 Yrths)
+        mass: 2.347 × 10<sup>23</sup> kg<br />(0.039 Yrths)
         density: 0.958 g/cm<sup>3</sup>
         surface_gravity: 1.038 m/s<sup>2</sup><br />(0.106 g<sub>0</sub>)
         escape_velocity: 2.841 km/s<br />(10,226 km/h)
         rotation_period: 69.344 d
         axial_tilt: 12.41°
         albedo: 0.30
-        temperature: 1230 K<br />(957 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 8653 Dialkeshiad IV c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -446,14 +446,14 @@ planets:
         radius: 2,138.9 km<br/>(0.336 Yrths)
         surface_area: 5.749 × 10<sup>07</sup> km<sup>2</sup><br/>(0.113 Yrths)
         volume: 4.099 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 6.868 × 10<sup>22</sup> kg<br />(0.5888637223861456 Yrths)
+        mass: 6.868 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 1.676 g/cm<sup>3</sup>
         surface_gravity: 1.001 m/s<sup>2</sup><br />(0.102 g<sub>0</sub>)
         escape_velocity: 2.070 km/s<br />(7,453 km/h)
         rotation_period: 40.357 d
         axial_tilt: 14.76°
         albedo: 0.30
-        temperature: 1173 K<br />(900 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 8653 Dialkeshiad IV d
         type: Asteroid
         formationType: Captured
@@ -466,14 +466,14 @@ planets:
         radius: 1,159.3 km<br/>(0.182 Yrths)
         surface_area: 1.689 × 10<sup>07</sup> km<sup>2</sup><br/>(0.033 Yrths)
         volume: 6.526 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.692 × 10<sup>22</sup> kg<br />(0.5888637223861456 Yrths)
+        mass: 1.692 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.592 g/cm<sup>3</sup>
         surface_gravity: 0.839 m/s<sup>2</sup><br />(0.086 g<sub>0</sub>)
         escape_velocity: 1.396 km/s<br />(5,024 km/h)
         rotation_period: 31.828 d
         axial_tilt: 60.46°
         albedo: 0.30
-        temperature: 1066 K<br />(793 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 8653 Dialkeshiad IV e
         type: Ice/rock hybrid
         formationType: Captured
@@ -486,14 +486,14 @@ planets:
         radius: 1,396.8 km<br/>(0.219 Yrths)
         surface_area: 2.452 × 10<sup>07</sup> km<sup>2</sup><br/>(0.048 Yrths)
         volume: 1.141 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 2.973 × 10<sup>22</sup> kg<br />(0.5888637223861456 Yrths)
+        mass: 2.973 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.604 g/cm<sup>3</sup>
         surface_gravity: 1.016 m/s<sup>2</sup><br />(0.104 g<sub>0</sub>)
         escape_velocity: 1.686 km/s<br />(6,068 km/h)
         rotation_period: 37.107 d
         axial_tilt: 12.98°
         albedo: 0.30
-        temperature: 1016 K<br />(743 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 8653 Dialkeshiad IV f
         type: Icy
         formationType: Impact formed
@@ -506,14 +506,14 @@ planets:
         radius: 1,476.5 km<br/>(0.232 Yrths)
         surface_area: 2.739 × 10<sup>07</sup> km<sup>2</sup><br/>(0.054 Yrths)
         volume: 1.348 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 1.681 × 10<sup>22</sup> kg<br />(0.5888637223861456 Yrths)
+        mass: 1.681 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.247 g/cm<sup>3</sup>
         surface_gravity: 0.514 m/s<sup>2</sup><br />(0.052 g<sub>0</sub>)
         escape_velocity: 1.233 km/s<br />(4,438 km/h)
         rotation_period: 56.189 d
         axial_tilt: 21.23°
         albedo: 0.30
-        temperature: 969 K<br />(696 °C)
+        temperature: 82 K<br />(-191 °C)
   - name: 8653 Dialkeshiad V
     type: Ice giant
     aphelion: 7,119,612,584 km<br />47.591 AU
@@ -525,14 +525,14 @@ planets:
     radius: 30,847.7 km<br/>(4.842 Yrths)
     surface_area: 1.196 × 10<sup>10</sup> km<sup>2</sup><br/>(23.444 Yrths)
     volume: 1.230 × 10<sup>14</sup> km<sup>3</sup><br/>(113.513 Yrths)
-    mass: 1.897 × 10<sup>26</sup> kg<br />(31.767012007486407 Yrths)
+    mass: 1.897 × 10<sup>26</sup> kg<br />(31.77 Yrths)
     density: 1.543 g/cm<sup>3</sup>
     surface_gravity: 13.288 m/s<sup>2</sup><br />(1.355 g<sub>0</sub>)
     escape_velocity: 28.652 km/s<br />(103,147 km/h)
     rotation_period: 0.304 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 101 K<br />(-172 °C)
+    temperature: 93 K<br />(-180 °C)
     composition:
       - 90.1998% hydrogen
       - 5.2607% methane
@@ -550,55 +550,15 @@ planets:
         radius: 27,817.2 km<br/>(4.366 Yrths)
         surface_area: 9.724 × 10<sup>09</sup> km<sup>2</sup><br/>(19.064 Yrths)
         volume: 9.016 × 10<sup>13</sup> km<sup>3</sup><br/>(83.237 Yrths)
-        mass: 2.147 × 10<sup>26</sup> kg<br />(31.767012007486407 Yrths)
+        mass: 2.147 × 10<sup>26</sup> kg<br />(35.948 Yrths)
         density: 2.381 g/cm<sup>3</sup>
         surface_gravity: 18.492 m/s<sup>2</sup><br />(1.886 g<sub>0</sub>)
         escape_velocity: 32.097 km/s<br />(115,548 km/h)
         rotation_period: 49.581 d
         axial_tilt: 21.60°
         albedo: 0.30
-        temperature: 445 K<br />(172 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 8653 Dialkeshiad V b
-        type: Icy
-        formationType: Impact formed
-        aphelion: 137,860,383 km<br />
-        perihelion: 113,908,844 km<br />
-        semi_major_axis: 125,884,614 km<br />
-        eccentricity: 0.095
-        orbital_period: 3.18 d<br />
-        inclination: 0.00°
-        radius: 20,771.8 km<br/>(3.260 Yrths)
-        surface_area: 5.422 × 10<sup>09</sup> km<sup>2</sup><br/>(10.630 Yrths)
-        volume: 3.754 × 10<sup>13</sup> km<sup>3</sup><br/>(34.658 Yrths)
-        mass: 4.247 × 10<sup>25</sup> kg<br />(31.767012007486407 Yrths)
-        density: 1.131 g/cm<sup>3</sup>
-        surface_gravity: 6.560 m/s<sup>2</sup><br />(0.669 g<sub>0</sub>)
-        escape_velocity: 16.520 km/s<br />(59,471 km/h)
-        rotation_period: 46.859 d
-        axial_tilt: 23.93°
-        albedo: 0.30
-        temperature: 424 K<br />(151 °C)
-      - name: 8653 Dialkeshiad V c
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 160,216,751 km<br />
-        perihelion: 116,729,399 km<br />
-        semi_major_axis: 138,473,075 km<br />
-        eccentricity: 0.157
-        orbital_period: 3.18 d<br />
-        inclination: 35.89°
-        radius: 16,790.2 km<br/>(2.635 Yrths)
-        surface_area: 3.543 × 10<sup>09</sup> km<sup>2</sup><br/>(6.945 Yrths)
-        volume: 1.983 × 10<sup>13</sup> km<sup>3</sup><br/>(18.304 Yrths)
-        mass: 5.041 × 10<sup>25</sup> kg<br />(31.767012007486407 Yrths)
-        density: 2.543 g/cm<sup>3</sup>
-        surface_gravity: 11.919 m/s<sup>2</sup><br />(1.215 g<sub>0</sub>)
-        escape_velocity: 20.019 km/s<br />(72,070 km/h)
-        rotation_period: 51.180 d
-        axial_tilt: 25.55°
-        albedo: 0.30
-        temperature: 405 K<br />(131 °C)
-      - name: 8653 Dialkeshiad V d
         type: Icy
         formationType: Impact formed
         aphelion: 152,320,517 km<br />
@@ -610,35 +570,15 @@ planets:
         radius: 28,540.0 km<br/>(4.480 Yrths)
         surface_area: 1.024 × 10<sup>10</sup> km<sup>2</sup><br/>(20.067 Yrths)
         volume: 9.738 × 10<sup>13</sup> km<sup>3</sup><br/>(89.895 Yrths)
-        mass: 1.396 × 10<sup>26</sup> kg<br />(31.767012007486407 Yrths)
+        mass: 1.396 × 10<sup>26</sup> kg<br />(23.371 Yrths)
         density: 1.433 g/cm<sup>3</sup>
         surface_gravity: 11.421 m/s<sup>2</sup><br />(1.165 g<sub>0</sub>)
         escape_velocity: 25.550 km/s<br />(91,979 km/h)
         rotation_period: 49.511 d
         axial_tilt: 19.81°
         albedo: 0.30
-        temperature: 386 K<br />(113 °C)
-      - name: 8653 Dialkeshiad V e
-        type: Icy
-        formationType: Captured
-        aphelion: 172,777,941 km<br />
-        perihelion: 162,326,900 km<br />
-        semi_major_axis: 167,552,421 km<br />
-        eccentricity: 0.031
-        orbital_period: 3.18 d<br />
-        inclination: 2.34°
-        radius: 21,167.8 km<br/>(3.323 Yrths)
-        surface_area: 5.631 × 10<sup>09</sup> km<sup>2</sup><br/>(11.039 Yrths)
-        volume: 3.973 × 10<sup>13</sup> km<sup>3</sup><br/>(36.678 Yrths)
-        mass: 5.349 × 10<sup>25</sup> kg<br />(31.767012007486407 Yrths)
-        density: 1.346 g/cm<sup>3</sup>
-        surface_gravity: 7.956 m/s<sup>2</sup><br />(0.811 g<sub>0</sub>)
-        escape_velocity: 18.365 km/s<br />(66,115 km/h)
-        rotation_period: 78.753 d
-        axial_tilt: 22.92°
-        albedo: 0.30
-        temperature: 368 K<br />(95 °C)
-      - name: 8653 Dialkeshiad V f
+        temperature: 58 K<br />(-215 °C)
+      - name: 8653 Dialkeshiad V c
         type: Icy
         formationType: Accreted
         aphelion: 217,470,860 km<br />
@@ -650,15 +590,15 @@ planets:
         radius: 37,571.5 km<br/>(5.897 Yrths)
         surface_area: 1.774 × 10<sup>10</sup> km<sup>2</sup><br/>(34.778 Yrths)
         volume: 2.222 × 10<sup>14</sup> km<sup>3</sup><br/>(205.094 Yrths)
-        mass: 3.482 × 10<sup>26</sup> kg<br />(31.767012007486407 Yrths)
+        mass: 3.482 × 10<sup>26</sup> kg<br />(58.314 Yrths)
         density: 1.568 g/cm<sup>3</sup>
         surface_gravity: 16.443 m/s<sup>2</sup><br />(1.677 g<sub>0</sub>)
         escape_velocity: 35.175 km/s<br />(126,630 km/h)
         rotation_period: 41.533 d
         axial_tilt: 25.35°
         albedo: 0.30
-        temperature: 351 K<br />(78 °C)
-      - name: 8653 Dialkeshiad V g
+        temperature: 58 K<br />(-215 °C)
+      - name: 8653 Dialkeshiad V d
         type: Icy
         formationType: Impact formed
         aphelion: 274,843,666 km<br />
@@ -670,35 +610,15 @@ planets:
         radius: 34,338.2 km<br/>(5.390 Yrths)
         surface_area: 1.482 × 10<sup>10</sup> km<sup>2</sup><br/>(29.050 Yrths)
         volume: 1.696 × 10<sup>14</sup> km<sup>3</sup><br/>(156.571 Yrths)
-        mass: 1.792 × 10<sup>26</sup> kg<br />(31.767012007486407 Yrths)
+        mass: 1.792 × 10<sup>26</sup> kg<br />(30.005 Yrths)
         density: 1.057 g/cm<sup>3</sup>
         surface_gravity: 10.129 m/s<sup>2</sup><br />(1.033 g<sub>0</sub>)
         escape_velocity: 26.393 km/s<br />(95,014 km/h)
         rotation_period: 59.086 d
         axial_tilt: 17.89°
         albedo: 0.30
-        temperature: 290 K<br />(17 °C)
-      - name: 8653 Dialkeshiad V h
-        type: Asteroid
-        formationType: Captured
-        aphelion: 328,398,932 km<br />
-        perihelion: 265,259,736 km<br />
-        semi_major_axis: 296,829,334 km<br />
-        eccentricity: 0.106
-        orbital_period: 3.18 d<br />
-        inclination: 0.12°
-        radius: 24,323.1 km<br/>(3.818 Yrths)
-        surface_area: 7.434 × 10<sup>09</sup> km<sup>2</sup><br/>(14.575 Yrths)
-        volume: 6.028 × 10<sup>13</sup> km<sup>3</sup><br/>(55.646 Yrths)
-        mass: 8.209 × 10<sup>25</sup> kg<br />(31.767012007486407 Yrths)
-        density: 1.362 g/cm<sup>3</sup>
-        surface_gravity: 9.249 m/s<sup>2</sup><br />(0.943 g<sub>0</sub>)
-        escape_velocity: 21.225 km/s<br />(76,411 km/h)
-        rotation_period: 51.189 d
-        axial_tilt: 17.81°
-        albedo: 0.30
-        temperature: 276 K<br />(3 °C)
-      - name: 8653 Dialkeshiad V i
+        temperature: 58 K<br />(-215 °C)
+      - name: 8653 Dialkeshiad V e
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 378,564,415 km<br />
@@ -710,12 +630,12 @@ planets:
         radius: 30,519.0 km<br/>(4.790 Yrths)
         surface_area: 1.170 × 10<sup>10</sup> km<sup>2</sup><br/>(22.947 Yrths)
         volume: 1.191 × 10<sup>14</sup> km<sup>3</sup><br/>(109.923 Yrths)
-        mass: 2.451 × 10<sup>26</sup> kg<br />(31.767012007486407 Yrths)
+        mass: 2.451 × 10<sup>26</sup> kg<br />(41.043 Yrths)
         density: 2.059 g/cm<sup>3</sup>
         surface_gravity: 17.540 m/s<sup>2</sup><br />(1.789 g<sub>0</sub>)
         escape_velocity: 32.742 km/s<br />(117,873 km/h)
         rotation_period: 42.398 d
         axial_tilt: 31.80°
         albedo: 0.30
-        temperature: 251 K<br />(-22 °C)
+        temperature: 58 K<br />(-215 °C)
 ---

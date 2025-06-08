@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2601 Lunaiad A is a star in the constellation Luna
+      2601 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 2107.73 ly
 apparent_magnitude: 6.81
 absolute_magnitude: -2.24

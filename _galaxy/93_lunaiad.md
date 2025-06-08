@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      93 Lunaiad is a star in the constellation Luna
+      93 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 467.13 ly
 apparent_magnitude: 11.45
 absolute_magnitude: 5.67

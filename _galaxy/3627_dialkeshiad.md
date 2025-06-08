@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3627 Dialkeshiad is a star in the constellation Dialkes
+      3627 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 285.74 ly
 apparent_magnitude: 14.58
 absolute_magnitude: 9.86

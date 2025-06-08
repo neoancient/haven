@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2073 Geardiad is a star in the constellation Geard
+      2073 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 374.58 ly
 apparent_magnitude: 9.17
 absolute_magnitude: 3.87
@@ -31,14 +31,14 @@ planets:
     radius: 8,140.3 km<br/>(1.278 Yrths)
     surface_area: 8.327 × 10<sup>08</sup> km<sup>2</sup><br/>(1.633 Yrths)
     volume: 2.260 × 10<sup>12</sup> km<sup>3</sup><br/>(2.086 Yrths)
-    mass: 1.486 × 10<sup>25</sup> kg<br />(2.487899606594708 Yrths)
+    mass: 1.486 × 10<sup>25</sup> kg<br />(2.49 Yrths)
     density: 6.576 g/cm<sup>3</sup>
     surface_gravity: 14.945 m/s<sup>2</sup><br />(1.524 g<sub>0</sub>)
     escape_velocity: 15.609 km/s<br />(56,192 km/h)
     rotation_period: 1.201 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 327 K<br />(54 °C)
+    temperature: 409 K<br />(136 °C)
     surface_pressure: 146 kPa<br />(1 atm)
     composition:
       - 79.5809% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 4,158.7 km<br/>(0.653 Yrths)
         surface_area: 2.173 × 10<sup>08</sup> km<sup>2</sup><br/>(0.426 Yrths)
         volume: 3.013 × 10<sup>11</sup> km<sup>3</sup><br/>(0.278 Yrths)
-        mass: 7.836 × 10<sup>23</sup> kg<br />(2.487899606594708 Yrths)
+        mass: 7.836 × 10<sup>23</sup> kg<br />(0.131 Yrths)
         density: 2.601 g/cm<sup>3</sup>
         surface_gravity: 3.020 m/s<sup>2</sup><br />(0.308 g<sub>0</sub>)
         escape_velocity: 5.015 km/s<br />(18,055 km/h)
         rotation_period: 48.712 d
         axial_tilt: 29.05°
         albedo: 0.30
-        temperature: 4039 K<br />(3766 °C)
+        temperature: 256 K<br />(-18 °C)
       - name: 2073 Geardiad I b
         type: Icy
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 4,352.6 km<br/>(0.683 Yrths)
         surface_area: 2.381 × 10<sup>08</sup> km<sup>2</sup><br/>(0.467 Yrths)
         volume: 3.454 × 10<sup>11</sup> km<sup>3</sup><br/>(0.319 Yrths)
-        mass: 5.739 × 10<sup>23</sup> kg<br />(2.487899606594708 Yrths)
+        mass: 5.739 × 10<sup>23</sup> kg<br />(0.096 Yrths)
         density: 1.662 g/cm<sup>3</sup>
         surface_gravity: 2.019 m/s<sup>2</sup><br />(0.206 g<sub>0</sub>)
         escape_velocity: 4.195 km/s<br />(15,103 km/h)
         rotation_period: 65.360 d
         axial_tilt: 25.18°
         albedo: 0.30
-        temperature: 3851 K<br />(3578 °C)
+        temperature: 256 K<br />(-18 °C)
       - name: 2073 Geardiad I c
         type: Rocky
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 2,108.1 km<br/>(0.331 Yrths)
         surface_area: 5.585 × 10<sup>07</sup> km<sup>2</sup><br/>(0.109 Yrths)
         volume: 3.924 × 10<sup>10</sup> km<sup>3</sup><br/>(0.036 Yrths)
-        mass: 1.366 × 10<sup>23</sup> kg<br />(2.487899606594708 Yrths)
+        mass: 1.366 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 3.482 g/cm<sup>3</sup>
         surface_gravity: 2.049 m/s<sup>2</sup><br />(0.209 g<sub>0</sub>)
         escape_velocity: 2.941 km/s<br />(10,589 km/h)
         rotation_period: 41.489 d
         axial_tilt: 13.38°
         albedo: 0.30
-        temperature: 3672 K<br />(3399 °C)
+        temperature: 256 K<br />(-18 °C)
   - name: 2073 Geardiad II
     type: Terrestrial
     aphelion: 702,701,340 km<br />4.697 AU
@@ -118,14 +118,14 @@ planets:
     radius: 5,932.6 km<br/>(0.931 Yrths)
     surface_area: 4.423 × 10<sup>08</sup> km<sup>2</sup><br/>(0.867 Yrths)
     volume: 8.746 × 10<sup>11</sup> km<sup>3</sup><br/>(0.807 Yrths)
-    mass: 4.833 × 10<sup>24</sup> kg<br />(0.8092666709023791 Yrths)
+    mass: 4.833 × 10<sup>24</sup> kg<br />(0.81 Yrths)
     density: 5.526 g/cm<sup>3</sup>
     surface_gravity: 9.152 m/s<sup>2</sup><br />(0.933 g<sub>0</sub>)
     escape_velocity: 10.428 km/s<br />(37,541 km/h)
     rotation_period: 1.157 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 213 K<br />(-60 °C)
+    temperature: 284 K<br />(11 °C)
     surface_pressure: 18 kPa<br />(0 atm)
     composition:
       - 97.8655% methane
@@ -144,14 +144,14 @@ planets:
         radius: 2,970.2 km<br/>(0.466 Yrths)
         surface_area: 1.109 × 10<sup>08</sup> km<sup>2</sup><br/>(0.217 Yrths)
         volume: 1.098 × 10<sup>11</sup> km<sup>3</sup><br/>(0.101 Yrths)
-        mass: 2.385 × 10<sup>23</sup> kg<br />(0.8092666709023791 Yrths)
+        mass: 2.385 × 10<sup>23</sup> kg<br />(0.040 Yrths)
         density: 2.172 g/cm<sup>3</sup>
         surface_gravity: 1.801 m/s<sup>2</sup><br />(0.184 g<sub>0</sub>)
         escape_velocity: 3.274 km/s<br />(11,785 km/h)
         rotation_period: 34.715 d
         axial_tilt: 16.91°
         albedo: 0.30
-        temperature: 3550 K<br />(3277 °C)
+        temperature: 187 K<br />(-86 °C)
   - name: 2073 Geardiad III
     type: Gas dwarf
     aphelion: 1,316,852,713 km<br />8.802 AU
@@ -163,14 +163,14 @@ planets:
     radius: 24,723.2 km<br/>(3.881 Yrths)
     surface_area: 7.681 × 10<sup>09</sup> km<sup>2</sup><br/>(15.059 Yrths)
     volume: 6.330 × 10<sup>13</sup> km<sup>3</sup><br/>(58.438 Yrths)
-    mass: 9.499 × 10<sup>25</sup> kg<br />(15.90614277555776 Yrths)
+    mass: 9.499 × 10<sup>25</sup> kg<br />(15.91 Yrths)
     density: 1.501 g/cm<sup>3</sup>
     surface_gravity: 10.358 m/s<sup>2</sup><br />(1.056 g<sub>0</sub>)
     escape_velocity: 22.647 km/s<br />(81,529 km/h)
     rotation_period: 0.408 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 177 K<br />(-96 °C)
+    temperature: 154 K<br />(-119 °C)
     composition:
       - 79.7507% hydrogen
       - 17.2681% helium
@@ -189,14 +189,14 @@ planets:
         radius: 17,366.7 km<br/>(2.726 Yrths)
         surface_area: 3.790 × 10<sup>09</sup> km<sup>2</sup><br/>(7.431 Yrths)
         volume: 2.194 × 10<sup>13</sup> km<sup>3</sup><br/>(20.255 Yrths)
-        mass: 2.877 × 10<sup>25</sup> kg<br />(15.90614277555776 Yrths)
+        mass: 2.877 × 10<sup>25</sup> kg<br />(4.817 Yrths)
         density: 1.311 g/cm<sup>3</sup>
         surface_gravity: 6.358 m/s<sup>2</sup><br />(0.648 g<sub>0</sub>)
         escape_velocity: 14.870 km/s<br />(53,533 km/h)
         rotation_period: 47.487 d
         axial_tilt: 16.59°
         albedo: 0.30
-        temperature: 1505 K<br />(1232 °C)
+        temperature: 137 K<br />(-137 °C)
       - name: 2073 Geardiad III b
         type: Rocky
         formationType: Accreted
@@ -209,14 +209,14 @@ planets:
         radius: 18,937.4 km<br/>(2.972 Yrths)
         surface_area: 4.507 × 10<sup>09</sup> km<sup>2</sup><br/>(8.835 Yrths)
         volume: 2.845 × 10<sup>13</sup> km<sup>3</sup><br/>(26.263 Yrths)
-        mass: 8.458 × 10<sup>25</sup> kg<br />(15.90614277555776 Yrths)
+        mass: 8.458 × 10<sup>25</sup> kg<br />(14.163 Yrths)
         density: 2.973 g/cm<sup>3</sup>
         surface_gravity: 15.720 m/s<sup>2</sup><br />(1.603 g<sub>0</sub>)
         escape_velocity: 24.417 km/s<br />(87,903 km/h)
         rotation_period: 56.190 d
         axial_tilt: 10.64°
         albedo: 0.30
-        temperature: 1435 K<br />(1162 °C)
+        temperature: 137 K<br />(-137 °C)
       - name: 2073 Geardiad III c
         type: Asteroid
         formationType: Captured
@@ -229,14 +229,14 @@ planets:
         radius: 16,193.0 km<br/>(2.542 Yrths)
         surface_area: 3.295 × 10<sup>09</sup> km<sup>2</sup><br/>(6.460 Yrths)
         volume: 1.779 × 10<sup>13</sup> km<sup>3</sup><br/>(16.419 Yrths)
-        mass: 3.825 × 10<sup>25</sup> kg<br />(15.90614277555776 Yrths)
+        mass: 3.825 × 10<sup>25</sup> kg<br />(6.405 Yrths)
         density: 2.151 g/cm<sup>3</sup>
         surface_gravity: 9.724 m/s<sup>2</sup><br />(0.992 g<sub>0</sub>)
         escape_velocity: 17.758 km/s<br />(63,928 km/h)
         rotation_period: 58.174 d
         axial_tilt: 16.77°
         albedo: 0.30
-        temperature: 1368 K<br />(1095 °C)
+        temperature: 137 K<br />(-137 °C)
       - name: 2073 Geardiad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -249,12 +249,12 @@ planets:
         radius: 17,047.6 km<br/>(2.676 Yrths)
         surface_area: 3.652 × 10<sup>09</sup> km<sup>2</sup><br/>(7.160 Yrths)
         volume: 2.075 × 10<sup>13</sup> km<sup>3</sup><br/>(19.159 Yrths)
-        mass: 3.320 × 10<sup>25</sup> kg<br />(15.90614277555776 Yrths)
+        mass: 3.320 × 10<sup>25</sup> kg<br />(5.560 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 7.615 m/s<sup>2</sup><br />(0.777 g<sub>0</sub>)
         escape_velocity: 16.124 km/s<br />(58,048 km/h)
         rotation_period: 43.526 d
         axial_tilt: 20.89°
         albedo: 0.30
-        temperature: 1244 K<br />(971 °C)
+        temperature: 137 K<br />(-137 °C)
 ---

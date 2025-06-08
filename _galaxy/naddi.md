@@ -5656,6 +5656,14 @@ stars:
     distance: 548.65
     spectral_class: F9V + A2V
   - name:
+    designation: <a href="16841_naddiad.html">16841 Naddiad</a>
+    ra: 8<sup>h</sup> 49<sup>m</sup> 31.20<sup>s</sup>
+    dec: -20° 58' 12.00"
+    apparent_magnitude: 9.26
+    absolute_magnitude: 5.64
+    distance: 173.19
+    spectral_class: G6V
+  - name:
     designation: 5901 Naddiad
     ra: 9<sup>h</sup> 12<sup>m</sup> 47.76<sup>s</sup>
     dec: -39° 08' 3.92"
@@ -5663,12 +5671,4 @@ stars:
     absolute_magnitude: 3.12
     distance: 565.64
     spectral_class: A7IV
-  - name: 
-    designation: <a href="16841_naddiad.html">16841 Naddiad</a>
-    ra: 8<sup>h</sup> 49<sup>m</sup> 31.20<sup>s</sup>
-    dec: -20° 58' 12.00"
-    apparent_magnitude: 10.08
-    absolute_magnitude: 6.45
-    distance: 173.19
-    spectral_class: K3V
 ---

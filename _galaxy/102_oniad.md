@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      102 Oniad is a star in the constellation Oni
+      102 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 762.49 ly
 apparent_magnitude: 12.37
 absolute_magnitude: 5.53

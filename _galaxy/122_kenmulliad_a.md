@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      122 Kenmulliad A is a star in the constellation Kenmul
+      122 Kenmulliad A is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 398.42 ly
 apparent_magnitude: 7.73
 absolute_magnitude: 2.30

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8263 Arkothiad is a star in the constellation Arkoth
+      8263 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 623.33 ly
 apparent_magnitude: 11.73
 absolute_magnitude: 5.32

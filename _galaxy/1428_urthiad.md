@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1428 Urthiad is a star in the constellation Urth
+      1428 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 220.52 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 6.84

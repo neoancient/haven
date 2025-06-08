@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      163 Arniad is a star in the constellation Arni
+      163 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 537.71 ly
 apparent_magnitude: 11.36
 absolute_magnitude: 5.28

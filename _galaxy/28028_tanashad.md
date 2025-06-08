@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      28028 Tanashad is a star in the constellation Tanas
+      28028 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 469.73 ly
 apparent_magnitude: 10.55
 absolute_magnitude: 4.76

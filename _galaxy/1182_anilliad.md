@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1182 Anilliad is a star in the constellation Anil
+      1182 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 706.61 ly
 apparent_magnitude: 12.31
 absolute_magnitude: 5.63

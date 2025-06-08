@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6846 Tanashad A is a star in the constellation Tanas
+      6846 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 163.17 ly
 apparent_magnitude: 7.38
 absolute_magnitude: 3.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6831 Athiad is a star in the constellation Ath
+      6831 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 469.52 ly
 apparent_magnitude: 10.24
 absolute_magnitude: 4.45

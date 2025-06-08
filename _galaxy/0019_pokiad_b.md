@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0019 Pokiad B is a star in the constellation Poke
+      0019 Pokiad B is a star in the constellation <a href="poke.html">Poke</a>
 distance: 326.21 ly
 apparent_magnitude: 8.25
 absolute_magnitude: 3.25

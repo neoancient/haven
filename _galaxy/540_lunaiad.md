@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      540 Lunaiad is a star in the constellation Luna
+      540 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 385.23 ly
 apparent_magnitude: 11.38
 absolute_magnitude: 6.02

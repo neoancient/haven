@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      18837 Dialkeshiad A is a star in the constellation Dialkes
+      18837 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 507.10 ly
 apparent_magnitude: 8.14
 absolute_magnitude: 2.18

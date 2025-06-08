@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1721 Keead A is a star in the constellation Kee
+      1721 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 570.17 ly
 apparent_magnitude: 7.99
 absolute_magnitude: 1.78

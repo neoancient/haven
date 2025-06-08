@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1106 Arniad A is a star in the constellation Arni
+      1106 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1077.17 ly
 apparent_magnitude: 6.70
 absolute_magnitude: -0.89

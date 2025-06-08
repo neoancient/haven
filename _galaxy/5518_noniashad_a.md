@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5518 Noniashad A is a star in the constellation Nonias
+      5518 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 509.67 ly
 apparent_magnitude: 8.11
 absolute_magnitude: 2.14

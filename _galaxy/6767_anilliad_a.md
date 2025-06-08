@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6767 Anilliad A is a star in the constellation Anil
+      6767 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 376.65 ly
 apparent_magnitude: 9.01
 absolute_magnitude: 3.70

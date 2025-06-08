@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      19968 Lulithannaid A is a star in the constellation Lulithan
+      19968 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 573.54 ly
 apparent_magnitude: 7.91
 absolute_magnitude: 1.68

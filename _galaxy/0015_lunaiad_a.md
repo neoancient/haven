@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Lunaiad A is a star in the constellation Luna
+      0015 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 228.93 ly
 apparent_magnitude: 6.44
 absolute_magnitude: 2.21

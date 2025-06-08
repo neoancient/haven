@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0062 Norriad is a star in the constellation Nor
+      0062 Norriad is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1948.45 ly
 apparent_magnitude: 6.41
 absolute_magnitude: -2.47
@@ -31,14 +31,14 @@ planets:
     radius: 208.5 km<br/>(0.033 Yrths)
     surface_area: 5.464 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.797 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.206 × 10<sup>27</sup> kg<br />(201.87258574132684 Yrths)
+    mass: 1.206 × 10<sup>27</sup> kg<br />(201.87 Yrths)
     density: 31746855.174 g/cm<sup>3</sup>
     surface_gravity: 1848167.583 m/s<sup>2</sup><br />(188460.645 g<sub>0</sub>)
     escape_velocity: 878.514 km/s<br />(3,162,649 km/h)
     rotation_period: 0.245 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 5935 K<br />(5662 °C)
+    temperature: 6326 K<br />(6052 °C)
     composition:
       - 55.0387% hydrogen
       - 38.3777% helium
@@ -57,14 +57,14 @@ planets:
         radius: 120,262.1 km<br/>(18.876 Yrths)
         surface_area: 1.817 × 10<sup>11</sup> km<sup>2</sup><br/>(356.322 Yrths)
         volume: 7.286 × 10<sup>15</sup> km<sup>3</sup><br/>(6726.097 Yrths)
-        mass: 2.375 × 10<sup>28</sup> kg<br />(201.87258574132684 Yrths)
+        mass: 2.375 × 10<sup>28</sup> kg<br />(3977.205 Yrths)
         density: 3.260 g/cm<sup>3</sup>
         surface_gravity: 109.460 m/s<sup>2</sup><br />(11.162 g<sub>0</sub>)
         escape_velocity: 162.369 km/s<br />(584,527 km/h)
         rotation_period: 34.856 d
         axial_tilt: 24.80°
         albedo: 0.30
-        temperature: 7779 K<br />(7506 °C)
+        temperature: 1398 K<br />(1125 °C)
       - name: 0062 Norriad I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 151,747.9 km<br/>(23.819 Yrths)
         surface_area: 2.894 × 10<sup>11</sup> km<sup>2</sup><br/>(567.322 Yrths)
         volume: 1.464 × 10<sup>16</sup> km<sup>3</sup><br/>(13512.788 Yrths)
-        mass: 2.593 × 10<sup>28</sup> kg<br />(201.87258574132684 Yrths)
+        mass: 2.593 × 10<sup>28</sup> kg<br />(4342.222 Yrths)
         density: 1.772 g/cm<sup>3</sup>
         surface_gravity: 75.059 m/s<sup>2</sup><br />(7.654 g<sub>0</sub>)
         escape_velocity: 151.033 km/s<br />(543,720 km/h)
         rotation_period: 62.019 d
         axial_tilt: 24.10°
         albedo: 0.30
-        temperature: 2726 K<br />(2453 °C)
+        temperature: 1398 K<br />(1125 °C)
       - name: 0062 Norriad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 215,115.1 km<br/>(33.765 Yrths)
         surface_area: 5.815 × 10<sup>11</sup> km<sup>2</sup><br/>(1140.057 Yrths)
         volume: 4.170 × 10<sup>16</sup> km<sup>3</sup><br/>(38493.717 Yrths)
-        mass: 6.671 × 10<sup>28</sup> kg<br />(201.87258574132684 Yrths)
+        mass: 6.671 × 10<sup>28</sup> kg<br />(11171.242 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 96.094 m/s<sup>2</sup><br />(9.799 g<sub>0</sub>)
         escape_velocity: 203.467 km/s<br />(732,480 km/h)
         rotation_period: 39.845 d
         axial_tilt: 21.29°
         albedo: 0.30
-        temperature: 2479 K<br />(2205 °C)
+        temperature: 1398 K<br />(1125 °C)
       - name: 0062 Norriad I d
         type: Icy
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 209,083.9 km<br/>(32.818 Yrths)
         surface_area: 5.494 × 10<sup>11</sup> km<sup>2</sup><br/>(1077.026 Yrths)
         volume: 3.829 × 10<sup>16</sup> km<sup>3</sup><br/>(35345.917 Yrths)
-        mass: 4.093 × 10<sup>28</sup> kg<br />(201.87258574132684 Yrths)
+        mass: 4.093 × 10<sup>28</sup> kg<br />(6853.549 Yrths)
         density: 1.069 g/cm<sup>3</sup>
         surface_gravity: 62.404 m/s<sup>2</sup><br />(6.363 g<sub>0</sub>)
         escape_velocity: 161.650 km/s<br />(581,939 km/h)
         rotation_period: 87.556 d
         axial_tilt: 24.68°
         albedo: 0.30
-        temperature: 1862 K<br />(1589 °C)
+        temperature: 1398 K<br />(1125 °C)
       - name: 0062 Norriad I e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -137,14 +137,14 @@ planets:
         radius: 130,625.0 km<br/>(20.503 Yrths)
         surface_area: 2.144 × 10<sup>11</sup> km<sup>2</sup><br/>(420.375 Yrths)
         volume: 9.336 × 10<sup>15</sup> km<sup>3</sup><br/>(8618.980 Yrths)
-        mass: 2.078 × 10<sup>28</sup> kg<br />(201.87258574132684 Yrths)
+        mass: 2.078 × 10<sup>28</sup> kg<br />(3479.346 Yrths)
         density: 2.226 g/cm<sup>3</sup>
         surface_gravity: 81.167 m/s<sup>2</sup><br />(8.277 g<sub>0</sub>)
         escape_velocity: 145.718 km/s<br />(524,585 km/h)
         rotation_period: 35.276 d
         axial_tilt: 21.15°
         albedo: 0.30
-        temperature: 1693 K<br />(1420 °C)
+        temperature: 1398 K<br />(1125 °C)
   - name: 0062 Norriad II
     type: Large terrestrial
     aphelion: 716,774,558 km<br />4.791 AU
@@ -156,14 +156,14 @@ planets:
     radius: 11,886.1 km<br/>(1.866 Yrths)
     surface_area: 1.775 × 10<sup>09</sup> km<sup>2</sup><br/>(3.481 Yrths)
     volume: 7.034 × 10<sup>12</sup> km<sup>3</sup><br/>(6.494 Yrths)
-    mass: 4.796 × 10<sup>25</sup> kg<br />(8.030101741469123 Yrths)
+    mass: 4.796 × 10<sup>25</sup> kg<br />(8.03 Yrths)
     density: 6.818 g/cm<sup>3</sup>
     surface_gravity: 22.624 m/s<sup>2</sup><br />(2.307 g<sub>0</sub>)
     escape_velocity: 23.207 km/s<br />(83,545 km/h)
     rotation_period: 0.498 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 1452 K<br />(1179 °C)
+    temperature: 1741 K<br />(1468 °C)
     surface_pressure: 1,024 kPa<br />(10 atm)
     composition:
       - 77.5889% methane
@@ -182,12 +182,12 @@ planets:
         radius: 11,210.5 km<br/>(1.760 Yrths)
         surface_area: 1.579 × 10<sup>09</sup> km<sup>2</sup><br/>(3.096 Yrths)
         volume: 5.902 × 10<sup>12</sup> km<sup>3</sup><br/>(5.448 Yrths)
-        mass: 1.561 × 10<sup>25</sup> kg<br />(8.030101741469123 Yrths)
+        mass: 1.561 × 10<sup>25</sup> kg<br />(2.614 Yrths)
         density: 2.645 g/cm<sup>3</sup>
         surface_gravity: 8.278 m/s<sup>2</sup><br />(0.844 g<sub>0</sub>)
         escape_velocity: 13.633 km/s<br />(49,078 km/h)
         rotation_period: 36.746 d
         axial_tilt: 9.80°
         albedo: 0.30
-        temperature: 12649 K<br />(12376 °C)
+        temperature: 1009 K<br />(735 °C)
 ---

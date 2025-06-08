@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Soshezia A is a star in the constellation Erik
+      Soshezia A is a star in the constellation <a href="erik.html">Erik</a>
 distance: 815.36 ly
 apparent_magnitude: 3.76
 absolute_magnitude: -3.23

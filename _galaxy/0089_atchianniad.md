@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0089 Atchianniad is a star in the constellation Atchian
+      0089 Atchianniad is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 43.65 ly
 apparent_magnitude: 5.55
 absolute_magnitude: 4.91
@@ -31,14 +31,14 @@ planets:
     radius: 8,285.5 km<br/>(1.300 Yrths)
     surface_area: 8.627 × 10<sup>08</sup> km<sup>2</sup><br/>(1.691 Yrths)
     volume: 2.383 × 10<sup>12</sup> km<sup>3</sup><br/>(2.200 Yrths)
-    mass: 2.036 × 10<sup>25</sup> kg<br />(3.409245699930092 Yrths)
+    mass: 2.036 × 10<sup>25</sup> kg<br />(3.41 Yrths)
     density: 8.546 g/cm<sup>3</sup>
     surface_gravity: 19.768 m/s<sup>2</sup><br />(2.016 g<sub>0</sub>)
     escape_velocity: 18.111 km/s<br />(65,200 km/h)
     rotation_period: 1.434 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 390 K<br />(117 °C)
+    temperature: 379 K<br />(106 °C)
     surface_pressure: 124 kPa<br />(1 atm)
     composition:
       - 60.5309% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 3,707.4 km<br/>(0.582 Yrths)
         surface_area: 1.727 × 10<sup>08</sup> km<sup>2</sup><br/>(0.339 Yrths)
         volume: 2.135 × 10<sup>11</sup> km<sup>3</sup><br/>(0.197 Yrths)
-        mass: 6.598 × 10<sup>23</sup> kg<br />(3.409245699930092 Yrths)
+        mass: 6.598 × 10<sup>23</sup> kg<br />(0.110 Yrths)
         density: 3.091 g/cm<sup>3</sup>
         surface_gravity: 3.200 m/s<sup>2</sup><br />(0.326 g<sub>0</sub>)
         escape_velocity: 4.874 km/s<br />(17,547 km/h)
         rotation_period: 48.434 d
         axial_tilt: 8.00°
         albedo: 0.30
-        temperature: 3714 K<br />(3441 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0089 Atchianniad I b
         type: Rocky
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 4,230.4 km<br/>(0.664 Yrths)
         surface_area: 2.249 × 10<sup>08</sup> km<sup>2</sup><br/>(0.441 Yrths)
         volume: 3.171 × 10<sup>11</sup> km<sup>3</sup><br/>(0.293 Yrths)
-        mass: 1.142 × 10<sup>24</sup> kg<br />(3.409245699930092 Yrths)
+        mass: 1.142 × 10<sup>24</sup> kg<br />(0.191 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 4.252 m/s<sup>2</sup><br />(0.434 g<sub>0</sub>)
         escape_velocity: 6.002 km/s<br />(21,607 km/h)
         rotation_period: 29.763 d
         axial_tilt: 22.17°
         albedo: 0.30
-        temperature: 3542 K<br />(3268 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0089 Atchianniad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 4,865.0 km<br/>(0.764 Yrths)
         surface_area: 2.974 × 10<sup>08</sup> km<sup>2</sup><br/>(0.583 Yrths)
         volume: 4.823 × 10<sup>11</sup> km<sup>3</sup><br/>(0.445 Yrths)
-        mass: 8.872 × 10<sup>23</sup> kg<br />(3.409245699930092 Yrths)
+        mass: 8.872 × 10<sup>23</sup> kg<br />(0.149 Yrths)
         density: 1.840 g/cm<sup>3</sup>
         surface_gravity: 2.499 m/s<sup>2</sup><br />(0.255 g<sub>0</sub>)
         escape_velocity: 4.934 km/s<br />(17,762 km/h)
         rotation_period: 46.909 d
         axial_tilt: 12.80°
         albedo: 0.30
-        temperature: 3377 K<br />(3104 °C)
+        temperature: 320 K<br />(47 °C)
   - name: 0089 Atchianniad II
     type: Ice giant
     aphelion: 169,565,873 km<br />1.133 AU
@@ -117,14 +117,14 @@ planets:
     radius: 22,261.8 km<br/>(3.494 Yrths)
     surface_area: 6.228 × 10<sup>09</sup> km<sup>2</sup><br/>(12.210 Yrths)
     volume: 4.621 × 10<sup>13</sup> km<sup>3</sup><br/>(42.664 Yrths)
-    mass: 6.864 × 10<sup>25</sup> kg<br />(11.494389694773064 Yrths)
+    mass: 6.864 × 10<sup>25</sup> kg<br />(11.49 Yrths)
     density: 1.485 g/cm<sup>3</sup>
     surface_gravity: 9.232 m/s<sup>2</sup><br />(0.941 g<sub>0</sub>)
     escape_velocity: 20.288 km/s<br />(73,037 km/h)
     rotation_period: 0.846 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 418 K<br />(145 °C)
+    temperature: 374 K<br />(101 °C)
     composition:
       - 73.9144% hydrogen
       - 26.0856% helium
@@ -141,14 +141,14 @@ planets:
         radius: 8,973.6 km<br/>(1.409 Yrths)
         surface_area: 1.012 × 10<sup>09</sup> km<sup>2</sup><br/>(1.984 Yrths)
         volume: 3.027 × 10<sup>12</sup> km<sup>3</sup><br/>(2.794 Yrths)
-        mass: 7.603 × 10<sup>24</sup> kg<br />(11.494389694773064 Yrths)
+        mass: 7.603 × 10<sup>24</sup> kg<br />(1.273 Yrths)
         density: 2.512 g/cm<sup>3</sup>
         surface_gravity: 6.293 m/s<sup>2</sup><br />(0.642 g<sub>0</sub>)
         escape_velocity: 10.635 km/s<br />(38,285 km/h)
         rotation_period: 31.771 d
         axial_tilt: 23.35°
         albedo: 0.30
-        temperature: 2249 K<br />(1976 °C)
+        temperature: 241 K<br />(-33 °C)
       - name: 0089 Atchianniad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -161,14 +161,14 @@ planets:
         radius: 25,530.9 km<br/>(4.007 Yrths)
         surface_area: 8.191 × 10<sup>09</sup> km<sup>2</sup><br/>(16.059 Yrths)
         volume: 6.971 × 10<sup>13</sup> km<sup>3</sup><br/>(64.354 Yrths)
-        mass: 1.642 × 10<sup>26</sup> kg<br />(11.494389694773064 Yrths)
+        mass: 1.642 × 10<sup>26</sup> kg<br />(27.495 Yrths)
         density: 2.356 g/cm<sup>3</sup>
         surface_gravity: 16.791 m/s<sup>2</sup><br />(1.712 g<sub>0</sub>)
         escape_velocity: 29.300 km/s<br />(105,482 km/h)
         rotation_period: 37.396 d
         axial_tilt: 15.19°
         albedo: 0.30
-        temperature: 2044 K<br />(1771 °C)
+        temperature: 241 K<br />(-33 °C)
       - name: 0089 Atchianniad II c
         type: Icy
         formationType: Captured
@@ -181,14 +181,14 @@ planets:
         radius: 9,881.5 km<br/>(1.551 Yrths)
         surface_area: 1.227 × 10<sup>09</sup> km<sup>2</sup><br/>(2.406 Yrths)
         volume: 4.042 × 10<sup>12</sup> km<sup>3</sup><br/>(3.731 Yrths)
-        mass: 7.126 × 10<sup>24</sup> kg<br />(11.494389694773064 Yrths)
+        mass: 7.126 × 10<sup>24</sup> kg<br />(1.193 Yrths)
         density: 1.763 g/cm<sup>3</sup>
         surface_gravity: 4.864 m/s<sup>2</sup><br />(0.496 g<sub>0</sub>)
         escape_velocity: 9.812 km/s<br />(35,321 km/h)
         rotation_period: 41.850 d
         axial_tilt: 14.03°
         albedo: 0.30
-        temperature: 1949 K<br />(1676 °C)
+        temperature: 241 K<br />(-33 °C)
       - name: 0089 Atchianniad II d
         type: Icy
         formationType: Captured
@@ -201,14 +201,14 @@ planets:
         radius: 14,699.0 km<br/>(2.307 Yrths)
         surface_area: 2.715 × 10<sup>09</sup> km<sup>2</sup><br/>(5.323 Yrths)
         volume: 1.330 × 10<sup>13</sup> km<sup>3</sup><br/>(12.281 Yrths)
-        mass: 2.293 × 10<sup>25</sup> kg<br />(11.494389694773064 Yrths)
+        mass: 2.293 × 10<sup>25</sup> kg<br />(3.840 Yrths)
         density: 1.724 g/cm<sup>3</sup>
         surface_gravity: 7.074 m/s<sup>2</sup><br />(0.721 g<sub>0</sub>)
         escape_velocity: 14.430 km/s<br />(51,949 km/h)
         rotation_period: 56.953 d
         axial_tilt: 27.05°
         albedo: 0.30
-        temperature: 1859 K<br />(1585 °C)
+        temperature: 241 K<br />(-33 °C)
       - name: 0089 Atchianniad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -221,14 +221,14 @@ planets:
         radius: 15,007.7 km<br/>(2.356 Yrths)
         surface_area: 2.830 × 10<sup>09</sup> km<sup>2</sup><br/>(5.549 Yrths)
         volume: 1.416 × 10<sup>13</sup> km<sup>3</sup><br/>(13.071 Yrths)
-        mass: 3.421 × 10<sup>25</sup> kg<br />(11.494389694773064 Yrths)
+        mass: 3.421 × 10<sup>25</sup> kg<br />(5.729 Yrths)
         density: 2.416 g/cm<sup>3</sup>
         surface_gravity: 10.124 m/s<sup>2</sup><br />(1.032 g<sub>0</sub>)
         escape_velocity: 17.444 km/s<br />(62,799 km/h)
         rotation_period: 34.694 d
         axial_tilt: 17.66°
         albedo: 0.30
-        temperature: 1772 K<br />(1499 °C)
+        temperature: 241 K<br />(-33 °C)
       - name: 0089 Atchianniad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -241,14 +241,14 @@ planets:
         radius: 11,340.4 km<br/>(1.780 Yrths)
         surface_area: 1.616 × 10<sup>09</sup> km<sup>2</sup><br/>(3.168 Yrths)
         volume: 6.109 × 10<sup>12</sup> km<sup>3</sup><br/>(5.640 Yrths)
-        mass: 1.070 × 10<sup>25</sup> kg<br />(11.494389694773064 Yrths)
+        mass: 1.070 × 10<sup>25</sup> kg<br />(1.792 Yrths)
         density: 1.752 g/cm<sup>3</sup>
         surface_gravity: 5.546 m/s<sup>2</sup><br />(0.566 g<sub>0</sub>)
         escape_velocity: 11.223 km/s<br />(40,404 km/h)
         rotation_period: 60.405 d
         axial_tilt: 14.78°
         albedo: 0.30
-        temperature: 1690 K<br />(1416 °C)
+        temperature: 241 K<br />(-33 °C)
       - name: 0089 Atchianniad II g
         type: Asteroid
         formationType: Captured
@@ -261,14 +261,14 @@ planets:
         radius: 8,262.8 km<br/>(1.297 Yrths)
         surface_area: 8.580 × 10<sup>08</sup> km<sup>2</sup><br/>(1.682 Yrths)
         volume: 2.363 × 10<sup>12</sup> km<sup>3</sup><br/>(2.182 Yrths)
-        mass: 7.089 × 10<sup>24</sup> kg<br />(11.494389694773064 Yrths)
+        mass: 7.089 × 10<sup>24</sup> kg<br />(1.187 Yrths)
         density: 3.000 g/cm<sup>3</sup>
         surface_gravity: 6.920 m/s<sup>2</sup><br />(0.706 g<sub>0</sub>)
         escape_velocity: 10.701 km/s<br />(38,525 km/h)
         rotation_period: 30.442 d
         axial_tilt: 49.35°
         albedo: 0.30
-        temperature: 1611 K<br />(1338 °C)
+        temperature: 241 K<br />(-33 °C)
   - name: 0089 Atchianniad III
     type: Large terrestrial
     aphelion: 300,835,802 km<br />2.011 AU
@@ -280,14 +280,14 @@ planets:
     radius: 8,547.8 km<br/>(1.342 Yrths)
     surface_area: 9.182 × 10<sup>08</sup> km<sup>2</sup><br/>(1.800 Yrths)
     volume: 2.616 × 10<sup>12</sup> km<sup>3</sup><br/>(2.415 Yrths)
-    mass: 1.682 × 10<sup>25</sup> kg<br />(2.81567273681717 Yrths)
+    mass: 1.682 × 10<sup>25</sup> kg<br />(2.82 Yrths)
     density: 6.428 g/cm<sup>3</sup>
     surface_gravity: 15.339 m/s<sup>2</sup><br />(1.564 g<sub>0</sub>)
     escape_velocity: 16.205 km/s<br />(58,337 km/h)
     rotation_period: 1.001 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 219 K<br />(-55 °C)
+    temperature: 277 K<br />(4 °C)
     surface_pressure: 65 kPa<br />(1 atm)
     composition:
       - 100.0000% methane
@@ -304,14 +304,14 @@ planets:
         radius: 5,644.7 km<br/>(0.886 Yrths)
         surface_area: 4.004 × 10<sup>08</sup> km<sup>2</sup><br/>(0.785 Yrths)
         volume: 7.534 × 10<sup>11</sup> km<sup>3</sup><br/>(0.696 Yrths)
-        mass: 2.136 × 10<sup>24</sup> kg<br />(2.81567273681717 Yrths)
+        mass: 2.136 × 10<sup>24</sup> kg<br />(0.358 Yrths)
         density: 2.835 g/cm<sup>3</sup>
         surface_gravity: 4.468 m/s<sup>2</sup><br />(0.456 g<sub>0</sub>)
         escape_velocity: 7.107 km/s<br />(25,585 km/h)
         rotation_period: 38.550 d
         axial_tilt: 11.55°
         albedo: 0.30
-        temperature: 2241 K<br />(1968 °C)
+        temperature: 181 K<br />(-93 °C)
       - name: 0089 Atchianniad III b
         type: Rocky
         formationType: Captured
@@ -324,14 +324,14 @@ planets:
         radius: 1,295.3 km<br/>(0.203 Yrths)
         surface_area: 2.108 × 10<sup>07</sup> km<sup>2</sup><br/>(0.041 Yrths)
         volume: 9.103 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 2.415 × 10<sup>22</sup> kg<br />(2.81567273681717 Yrths)
+        mass: 2.415 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.653 g/cm<sup>3</sup>
         surface_gravity: 0.959 m/s<sup>2</sup><br />(0.098 g<sub>0</sub>)
         escape_velocity: 1.578 km/s<br />(5,679 km/h)
         rotation_period: 50.756 d
         axial_tilt: 6.18°
         albedo: 0.30
-        temperature: 2137 K<br />(1864 °C)
+        temperature: 181 K<br />(-93 °C)
       - name: 0089 Atchianniad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -344,14 +344,14 @@ planets:
         radius: 2,929.8 km<br/>(0.460 Yrths)
         surface_area: 1.079 × 10<sup>08</sup> km<sup>2</sup><br/>(0.211 Yrths)
         volume: 1.053 × 10<sup>11</sup> km<sup>3</sup><br/>(0.097 Yrths)
-        mass: 2.327 × 10<sup>23</sup> kg<br />(2.81567273681717 Yrths)
+        mass: 2.327 × 10<sup>23</sup> kg<br />(0.039 Yrths)
         density: 2.209 g/cm<sup>3</sup>
         surface_gravity: 1.807 m/s<sup>2</sup><br />(0.184 g<sub>0</sub>)
         escape_velocity: 3.256 km/s<br />(11,722 km/h)
         rotation_period: 39.395 d
         axial_tilt: 32.02°
         albedo: 0.30
-        temperature: 2037 K<br />(1764 °C)
+        temperature: 181 K<br />(-93 °C)
   - name: 0089 Atchianniad IV
     type: Large terrestrial
     aphelion: 533,728,741 km<br />3.568 AU
@@ -363,14 +363,14 @@ planets:
     radius: 7,588.9 km<br/>(1.191 Yrths)
     surface_area: 7.237 × 10<sup>08</sup> km<sup>2</sup><br/>(1.419 Yrths)
     volume: 1.831 × 10<sup>12</sup> km<sup>3</sup><br/>(1.690 Yrths)
-    mass: 1.216 × 10<sup>25</sup> kg<br />(2.035911091472481 Yrths)
+    mass: 1.216 × 10<sup>25</sup> kg<br />(2.04 Yrths)
     density: 6.641 g/cm<sup>3</sup>
     surface_gravity: 14.072 m/s<sup>2</sup><br />(1.435 g<sub>0</sub>)
     escape_velocity: 14.624 km/s<br />(52,647 km/h)
     rotation_period: 0.936 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 172 K<br />(-101 °C)
+    temperature: 215 K<br />(-58 °C)
     surface_pressure: 136 kPa<br />(1 atm)
     composition:
       - 95.1798% methane
@@ -388,14 +388,14 @@ planets:
         radius: 5,693.3 km<br/>(0.894 Yrths)
         surface_area: 4.073 × 10<sup>08</sup> km<sup>2</sup><br/>(0.799 Yrths)
         volume: 7.730 × 10<sup>11</sup> km<sup>3</sup><br/>(0.714 Yrths)
-        mass: 1.988 × 10<sup>24</sup> kg<br />(2.035911091472481 Yrths)
+        mass: 1.988 × 10<sup>24</sup> kg<br />(0.333 Yrths)
         density: 2.572 g/cm<sup>3</sup>
         surface_gravity: 4.088 m/s<sup>2</sup><br />(0.417 g<sub>0</sub>)
         escape_velocity: 6.828 km/s<br />(24,579 km/h)
         rotation_period: 52.075 d
         axial_tilt: 15.31°
         albedo: 0.30
-        temperature: 1777 K<br />(1504 °C)
+        temperature: 136 K<br />(-138 °C)
   - name: 0089 Atchianniad V
     type: Gas giant
     aphelion: 952,017,569 km<br />6.364 AU
@@ -407,7 +407,7 @@ planets:
     radius: 178.5 km<br/>(0.028 Yrths)
     surface_area: 4.005 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.383 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.198 × 10<sup>26</sup> kg<br />(103.77660014122836 Yrths)
+    mass: 6.198 × 10<sup>26</sup> kg<br />(103.78 Yrths)
     density: 26004789.467 g/cm<sup>3</sup>
     surface_gravity: 1296135.682 m/s<sup>2</sup><br />(132169.057 g<sub>0</sub>)
     escape_velocity: 680.740 km/s<br />(2,450,664 km/h)
@@ -428,14 +428,14 @@ planets:
         radius: 82,722.2 km<br/>(12.984 Yrths)
         surface_area: 8.599 × 10<sup>10</sup> km<sup>2</sup><br/>(168.589 Yrths)
         volume: 2.371 × 10<sup>15</sup> km<sup>3</sup><br/>(2188.989 Yrths)
-        mass: 4.169 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 4.169 × 10<sup>27</sup> kg<br />(698.109 Yrths)
         density: 1.758 g/cm<sup>3</sup>
         surface_gravity: 40.608 m/s<sup>2</sup><br />(4.141 g<sub>0</sub>)
         escape_velocity: 82.022 km/s<br />(295,278 km/h)
         rotation_period: 43.462 d
         axial_tilt: 10.17°
         albedo: 0.30
-        temperature: 545 K<br />(272 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -448,14 +448,14 @@ planets:
         radius: 81,473.3 km<br/>(12.788 Yrths)
         surface_area: 8.341 × 10<sup>10</sup> km<sup>2</sup><br/>(163.537 Yrths)
         volume: 2.265 × 10<sup>15</sup> km<sup>3</sup><br/>(2091.336 Yrths)
-        mass: 4.674 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 4.674 × 10<sup>27</sup> kg<br />(782.713 Yrths)
         density: 2.063 g/cm<sup>3</sup>
         surface_gravity: 46.936 m/s<sup>2</sup><br />(4.786 g<sub>0</sub>)
         escape_velocity: 87.513 km/s<br />(315,046 km/h)
         rotation_period: 49.674 d
         axial_tilt: 13.26°
         albedo: 0.30
-        temperature: 429 K<br />(156 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V c
         type: Icy
         formationType: Impact formed
@@ -468,14 +468,14 @@ planets:
         radius: 104,408.0 km<br/>(16.388 Yrths)
         surface_area: 1.370 × 10<sup>11</sup> km<sup>2</sup><br/>(268.567 Yrths)
         volume: 4.767 × 10<sup>15</sup> km<sup>3</sup><br/>(4401.274 Yrths)
-        mass: 5.018 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 5.018 × 10<sup>27</sup> kg<br />(840.248 Yrths)
         density: 1.053 g/cm<sup>3</sup>
         surface_gravity: 30.681 m/s<sup>2</sup><br />(3.129 g<sub>0</sub>)
         escape_velocity: 80.097 km/s<br />(288,348 km/h)
         rotation_period: 51.313 d
         axial_tilt: 21.87°
         albedo: 0.30
-        temperature: 293 K<br />(20 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V d
         type: Icy
         formationType: Accreted
@@ -488,14 +488,14 @@ planets:
         radius: 99,651.7 km<br/>(15.641 Yrths)
         surface_area: 1.248 × 10<sup>11</sup> km<sup>2</sup><br/>(244.655 Yrths)
         volume: 4.145 × 10<sup>15</sup> km<sup>3</sup><br/>(3826.758 Yrths)
-        mass: 4.045 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 4.045 × 10<sup>27</sup> kg<br />(677.407 Yrths)
         density: 0.976 g/cm<sup>3</sup>
         surface_gravity: 27.153 m/s<sup>2</sup><br />(2.769 g<sub>0</sub>)
         escape_velocity: 73.614 km/s<br />(265,010 km/h)
         rotation_period: 51.361 d
         axial_tilt: 12.12°
         albedo: 0.30
-        temperature: 182 K<br />(-91 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V e
         type: Icy
         formationType: Accreted
@@ -508,14 +508,14 @@ planets:
         radius: 126,112.2 km<br/>(19.795 Yrths)
         surface_area: 1.999 × 10<sup>11</sup> km<sup>2</sup><br/>(391.831 Yrths)
         volume: 8.402 × 10<sup>15</sup> km<sup>3</sup><br/>(7756.190 Yrths)
-        mass: 6.729 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 6.729 × 10<sup>27</sup> kg<br />(1126.774 Yrths)
         density: 0.801 g/cm<sup>3</sup>
         surface_gravity: 28.201 m/s<sup>2</sup><br />(2.876 g<sub>0</sub>)
         escape_velocity: 84.395 km/s<br />(303,823 km/h)
         rotation_period: 70.740 d
         axial_tilt: 25.92°
         albedo: 0.30
-        temperature: 158 K<br />(-115 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -528,14 +528,14 @@ planets:
         radius: 87,594.1 km<br/>(13.749 Yrths)
         surface_area: 9.642 × 10<sup>10</sup> km<sup>2</sup><br/>(189.032 Yrths)
         volume: 2.815 × 10<sup>15</sup> km<sup>3</sup><br/>(2598.975 Yrths)
-        mass: 6.462 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 6.462 × 10<sup>27</sup> kg<br />(1082.058 Yrths)
         density: 2.295 g/cm<sup>3</sup>
         surface_gravity: 56.135 m/s<sup>2</sup><br />(5.724 g<sub>0</sub>)
         escape_velocity: 99.235 km/s<br />(357,246 km/h)
         rotation_period: 46.461 d
         axial_tilt: 9.59°
         albedo: 0.30
-        temperature: 113 K<br />(-160 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -548,14 +548,14 @@ planets:
         radius: 83,201.6 km<br/>(13.059 Yrths)
         surface_area: 8.699 × 10<sup>10</sup> km<sup>2</sup><br/>(170.549 Yrths)
         volume: 2.413 × 10<sup>15</sup> km<sup>3</sup><br/>(2227.267 Yrths)
-        mass: 5.283 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 5.283 × 10<sup>27</sup> kg<br />(884.632 Yrths)
         density: 2.190 g/cm<sup>3</sup>
         surface_gravity: 50.867 m/s<sup>2</sup><br />(5.187 g<sub>0</sub>)
         escape_velocity: 92.065 km/s<br />(331,433 km/h)
         rotation_period: 34.278 d
         axial_tilt: 21.55°
         albedo: 0.30
-        temperature: 108 K<br />(-165 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V h
         type: Rocky
         formationType: Captured
@@ -568,14 +568,14 @@ planets:
         radius: 85,581.6 km<br/>(13.433 Yrths)
         surface_area: 9.204 × 10<sup>10</sup> km<sup>2</sup><br/>(180.445 Yrths)
         volume: 2.626 × 10<sup>15</sup> km<sup>3</sup><br/>(2423.921 Yrths)
-        mass: 7.607 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 7.607 × 10<sup>27</sup> kg<br />(1273.766 Yrths)
         density: 2.897 g/cm<sup>3</sup>
         surface_gravity: 69.225 m/s<sup>2</sup><br />(7.059 g<sub>0</sub>)
         escape_velocity: 108.926 km/s<br />(392,134 km/h)
         rotation_period: 50.540 d
         axial_tilt: 5.59°
         albedo: 0.30
-        temperature: 93 K<br />(-180 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V i
         type: Icy
         formationType: Captured
@@ -588,14 +588,14 @@ planets:
         radius: 88,592.9 km<br/>(13.906 Yrths)
         surface_area: 9.863 × 10<sup>10</sup> km<sup>2</sup><br/>(193.367 Yrths)
         volume: 2.913 × 10<sup>15</sup> km<sup>3</sup><br/>(2688.899 Yrths)
-        mass: 5.350 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 5.350 × 10<sup>27</sup> kg<br />(895.926 Yrths)
         density: 1.837 g/cm<sup>3</sup>
         surface_gravity: 45.437 m/s<sup>2</sup><br />(4.633 g<sub>0</sub>)
         escape_velocity: 89.787 km/s<br />(323,234 km/h)
         rotation_period: 44.182 d
         axial_tilt: 13.31°
         albedo: 0.30
-        temperature: 85 K<br />(-188 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V j
         type: Icy
         formationType: Captured
@@ -608,14 +608,14 @@ planets:
         radius: 112,381.8 km<br/>(17.640 Yrths)
         surface_area: 1.587 × 10<sup>11</sup> km<sup>2</sup><br/>(311.155 Yrths)
         volume: 5.945 × 10<sup>15</sup> km<sup>3</sup><br/>(5488.645 Yrths)
-        mass: 5.812 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 5.812 × 10<sup>27</sup> kg<br />(973.273 Yrths)
         density: 0.978 g/cm<sup>3</sup>
         surface_gravity: 30.675 m/s<sup>2</sup><br />(3.128 g<sub>0</sub>)
         escape_velocity: 83.090 km/s<br />(299,123 km/h)
         rotation_period: 57.930 d
         axial_tilt: 7.30°
         albedo: 0.30
-        temperature: 61 K<br />(-212 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V k
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -628,14 +628,14 @@ planets:
         radius: 75,650.9 km<br/>(11.874 Yrths)
         surface_area: 7.192 × 10<sup>10</sup> km<sup>2</sup><br/>(140.998 Yrths)
         volume: 1.814 × 10<sup>15</sup> km<sup>3</sup><br/>(1674.250 Yrths)
-        mass: 4.940 × 10<sup>27</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 4.940 × 10<sup>27</sup> kg<br />(827.204 Yrths)
         density: 2.724 g/cm<sup>3</sup>
         surface_gravity: 57.533 m/s<sup>2</sup><br />(5.867 g<sub>0</sub>)
         escape_velocity: 93.363 km/s<br />(336,108 km/h)
         rotation_period: 34.855 d
         axial_tilt: 16.77°
         albedo: 0.30
-        temperature: 50 K<br />(-223 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0089 Atchianniad V l
         type: Icy
         formationType: Accreted
@@ -648,14 +648,14 @@ planets:
         radius: 146,775.6 km<br/>(23.038 Yrths)
         surface_area: 2.707 × 10<sup>11</sup> km<sup>2</sup><br/>(530.753 Yrths)
         volume: 1.324 × 10<sup>16</sup> km<sup>3</sup><br/>(12227.528 Yrths)
-        mass: 2.057 × 10<sup>28</sup> kg<br />(103.77660014122836 Yrths)
+        mass: 2.057 × 10<sup>28</sup> kg<br />(3443.704 Yrths)
         density: 1.553 g/cm<sup>3</sup>
         surface_gravity: 63.629 m/s<sup>2</sup><br />(6.488 g<sub>0</sub>)
         escape_velocity: 136.761 km/s<br />(492,341 km/h)
         rotation_period: 51.724 d
         axial_tilt: 14.32°
         albedo: 0.30
-        temperature: 48 K<br />(-225 °C)
+        temperature: 102 K<br />(-171 °C)
   - name: 0089 Atchianniad VI
     type: Ice giant
     aphelion: 1,754,179,093 km<br />11.726 AU
@@ -667,14 +667,14 @@ planets:
     radius: 19,095.2 km<br/>(2.997 Yrths)
     surface_area: 4.582 × 10<sup>09</sup> km<sup>2</sup><br/>(8.983 Yrths)
     volume: 2.916 × 10<sup>13</sup> km<sup>3</sup><br/>(26.924 Yrths)
-    mass: 4.134 × 10<sup>25</sup> kg<br />(6.922741268967737 Yrths)
+    mass: 4.134 × 10<sup>25</sup> kg<br />(6.92 Yrths)
     density: 1.418 g/cm<sup>3</sup>
     surface_gravity: 7.557 m/s<sup>2</sup><br />(0.771 g<sub>0</sub>)
     escape_velocity: 17.000 km/s<br />(61,201 km/h)
     rotation_period: 0.429 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 142 K<br />(-131 °C)
+    temperature: 130 K<br />(-143 °C)
     composition:
       - 51.3311% hydrogen
       - 45.5028% helium
@@ -693,14 +693,14 @@ planets:
         radius: 6,345.5 km<br/>(0.996 Yrths)
         surface_area: 5.060 × 10<sup>08</sup> km<sup>2</sup><br/>(0.992 Yrths)
         volume: 1.070 × 10<sup>12</sup> km<sup>3</sup><br/>(0.988 Yrths)
-        mass: 2.482 × 10<sup>24</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 2.482 × 10<sup>24</sup> kg<br />(0.416 Yrths)
         density: 2.319 g/cm<sup>3</sup>
         surface_gravity: 4.108 m/s<sup>2</sup><br />(0.419 g<sub>0</sub>)
         escape_velocity: 7.225 km/s<br />(26,011 km/h)
         rotation_period: 35.511 d
         axial_tilt: 18.15°
         albedo: 0.30
-        temperature: 779 K<br />(505 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI b
         type: Icy
         formationType: Captured
@@ -713,14 +713,14 @@ planets:
         radius: 9,105.2 km<br/>(1.429 Yrths)
         surface_area: 1.042 × 10<sup>09</sup> km<sup>2</sup><br/>(2.043 Yrths)
         volume: 3.162 × 10<sup>12</sup> km<sup>3</sup><br/>(2.919 Yrths)
-        mass: 4.901 × 10<sup>24</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 4.901 × 10<sup>24</sup> kg<br />(0.821 Yrths)
         density: 1.550 g/cm<sup>3</sup>
         surface_gravity: 3.940 m/s<sup>2</sup><br />(0.402 g<sub>0</sub>)
         escape_velocity: 8.476 km/s<br />(30,515 km/h)
         rotation_period: 60.966 d
         axial_tilt: 19.87°
         albedo: 0.30
-        temperature: 742 K<br />(469 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -733,14 +733,14 @@ planets:
         radius: 10,132.9 km<br/>(1.590 Yrths)
         surface_area: 1.290 × 10<sup>09</sup> km<sup>2</sup><br/>(2.530 Yrths)
         volume: 4.358 × 10<sup>12</sup> km<sup>3</sup><br/>(4.023 Yrths)
-        mass: 7.829 × 10<sup>24</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 7.829 × 10<sup>24</sup> kg<br />(1.311 Yrths)
         density: 1.796 g/cm<sup>3</sup>
         surface_gravity: 5.082 m/s<sup>2</sup><br />(0.518 g<sub>0</sub>)
         escape_velocity: 10.156 km/s<br />(36,560 km/h)
         rotation_period: 49.366 d
         axial_tilt: 17.95°
         albedo: 0.30
-        temperature: 643 K<br />(370 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI d
         type: Icy
         formationType: Accreted
@@ -753,14 +753,14 @@ planets:
         radius: 6,973.5 km<br/>(1.095 Yrths)
         surface_area: 6.111 × 10<sup>08</sup> km<sup>2</sup><br/>(1.198 Yrths)
         volume: 1.421 × 10<sup>12</sup> km<sup>3</sup><br/>(1.311 Yrths)
-        mass: 1.653 × 10<sup>24</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 1.653 × 10<sup>24</sup> kg<br />(0.277 Yrths)
         density: 1.164 g/cm<sup>3</sup>
         surface_gravity: 2.266 m/s<sup>2</sup><br />(0.231 g<sub>0</sub>)
         escape_velocity: 5.626 km/s<br />(20,252 km/h)
         rotation_period: 60.577 d
         axial_tilt: 20.07°
         albedo: 0.30
-        temperature: 613 K<br />(340 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI e
         type: Ice/rock hybrid
         formationType: Captured
@@ -773,14 +773,14 @@ planets:
         radius: 10,128.9 km<br/>(1.590 Yrths)
         surface_area: 1.289 × 10<sup>09</sup> km<sup>2</sup><br/>(2.528 Yrths)
         volume: 4.353 × 10<sup>12</sup> km<sup>3</sup><br/>(4.019 Yrths)
-        mass: 1.167 × 10<sup>25</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 1.167 × 10<sup>25</sup> kg<br />(1.954 Yrths)
         density: 2.681 g/cm<sup>3</sup>
         surface_gravity: 7.582 m/s<sup>2</sup><br />(0.773 g<sub>0</sub>)
         escape_velocity: 12.402 km/s<br />(44,646 km/h)
         rotation_period: 42.061 d
         axial_tilt: 21.10°
         albedo: 0.30
-        temperature: 585 K<br />(312 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -793,14 +793,14 @@ planets:
         radius: 12,404.2 km<br/>(1.947 Yrths)
         surface_area: 1.934 × 10<sup>09</sup> km<sup>2</sup><br/>(3.791 Yrths)
         volume: 7.995 × 10<sup>12</sup> km<sup>3</sup><br/>(7.380 Yrths)
-        mass: 1.378 × 10<sup>25</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 1.378 × 10<sup>25</sup> kg<br />(2.308 Yrths)
         density: 1.724 g/cm<sup>3</sup>
         surface_gravity: 5.970 m/s<sup>2</sup><br />(0.609 g<sub>0</sub>)
         escape_velocity: 12.178 km/s<br />(43,842 km/h)
         rotation_period: 45.380 d
         axial_tilt: 9.56°
         albedo: 0.30
-        temperature: 558 K<br />(285 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI g
         type: Icy
         formationType: Captured
@@ -813,14 +813,14 @@ planets:
         radius: 16,582.1 km<br/>(2.603 Yrths)
         surface_area: 3.455 × 10<sup>09</sup> km<sup>2</sup><br/>(6.774 Yrths)
         volume: 1.910 × 10<sup>13</sup> km<sup>3</sup><br/>(17.632 Yrths)
-        mass: 2.294 × 10<sup>25</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 2.294 × 10<sup>25</sup> kg<br />(3.842 Yrths)
         density: 1.201 g/cm<sup>3</sup>
         surface_gravity: 5.562 m/s<sup>2</sup><br />(0.567 g<sub>0</sub>)
         escape_velocity: 13.591 km/s<br />(48,926 km/h)
         rotation_period: 76.635 d
         axial_tilt: 19.11°
         albedo: 0.30
-        temperature: 532 K<br />(259 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI h
         type: Icy
         formationType: Accreted
@@ -833,14 +833,14 @@ planets:
         radius: 8,712.6 km<br/>(1.368 Yrths)
         surface_area: 9.539 × 10<sup>08</sup> km<sup>2</sup><br/>(1.870 Yrths)
         volume: 2.770 × 10<sup>12</sup> km<sup>3</sup><br/>(2.558 Yrths)
-        mass: 3.904 × 10<sup>24</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 3.904 × 10<sup>24</sup> kg<br />(0.654 Yrths)
         density: 1.409 g/cm<sup>3</sup>
         surface_gravity: 3.428 m/s<sup>2</sup><br />(0.350 g<sub>0</sub>)
         escape_velocity: 7.734 km/s<br />(27,842 km/h)
         rotation_period: 82.664 d
         axial_tilt: 13.55°
         albedo: 0.30
-        temperature: 483 K<br />(210 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI i
         type: Icy
         formationType: Captured
@@ -853,14 +853,14 @@ planets:
         radius: 7,676.3 km<br/>(1.205 Yrths)
         surface_area: 7.405 × 10<sup>08</sup> km<sup>2</sup><br/>(1.452 Yrths)
         volume: 1.895 × 10<sup>12</sup> km<sup>3</sup><br/>(1.749 Yrths)
-        mass: 2.856 × 10<sup>24</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 2.856 × 10<sup>24</sup> kg<br />(0.478 Yrths)
         density: 1.507 g/cm<sup>3</sup>
         surface_gravity: 3.231 m/s<sup>2</sup><br />(0.329 g<sub>0</sub>)
         escape_velocity: 7.047 km/s<br />(25,371 km/h)
         rotation_period: 55.362 d
         axial_tilt: 5.79°
         albedo: 0.30
-        temperature: 461 K<br />(188 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI j
         type: Ice/rock hybrid
         formationType: Captured
@@ -873,14 +873,14 @@ planets:
         radius: 9,120.3 km<br/>(1.432 Yrths)
         surface_area: 1.045 × 10<sup>09</sup> km<sup>2</sup><br/>(2.049 Yrths)
         volume: 3.178 × 10<sup>12</sup> km<sup>3</sup><br/>(2.934 Yrths)
-        mass: 7.732 × 10<sup>24</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 7.732 × 10<sup>24</sup> kg<br />(1.295 Yrths)
         density: 2.433 g/cm<sup>3</sup>
         surface_gravity: 6.196 m/s<sup>2</sup><br />(0.632 g<sub>0</sub>)
         escape_velocity: 10.638 km/s<br />(38,298 km/h)
         rotation_period: 47.014 d
         axial_tilt: 15.52°
         albedo: 0.30
-        temperature: 439 K<br />(166 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI k
         type: Asteroid
         formationType: Captured
@@ -893,14 +893,14 @@ planets:
         radius: 6,607.3 km<br/>(1.037 Yrths)
         surface_area: 5.486 × 10<sup>08</sup> km<sup>2</sup><br/>(1.076 Yrths)
         volume: 1.208 × 10<sup>12</sup> km<sup>3</sup><br/>(1.115 Yrths)
-        mass: 2.319 × 10<sup>24</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 2.319 × 10<sup>24</sup> kg<br />(0.388 Yrths)
         density: 1.919 g/cm<sup>3</sup>
         surface_gravity: 3.541 m/s<sup>2</sup><br />(0.361 g<sub>0</sub>)
         escape_velocity: 6.845 km/s<br />(24,643 km/h)
         rotation_period: 36.237 d
         axial_tilt: 21.34°
         albedo: 0.30
-        temperature: 419 K<br />(146 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0089 Atchianniad VI l
         type: Icy
         formationType: Captured
@@ -913,14 +913,14 @@ planets:
         radius: 6,298.1 km<br/>(0.989 Yrths)
         surface_area: 4.985 × 10<sup>08</sup> km<sup>2</sup><br/>(0.977 Yrths)
         volume: 1.046 × 10<sup>12</sup> km<sup>3</sup><br/>(0.966 Yrths)
-        mass: 1.185 × 10<sup>24</sup> kg<br />(6.922741268967737 Yrths)
+        mass: 1.185 × 10<sup>24</sup> kg<br />(0.198 Yrths)
         density: 1.133 g/cm<sup>3</sup>
         surface_gravity: 1.992 m/s<sup>2</sup><br />(0.203 g<sub>0</sub>)
         escape_velocity: 5.012 km/s<br />(18,045 km/h)
         rotation_period: 50.409 d
         axial_tilt: 14.45°
         albedo: 0.30
-        temperature: 400 K<br />(126 °C)
+        temperature: 76 K<br />(-197 °C)
   - name: 0089 Atchianniad VII
     type: Gas dwarf
     aphelion: 3,072,397,390 km<br />20.537 AU
@@ -932,14 +932,14 @@ planets:
     radius: 21,600.5 km<br/>(3.390 Yrths)
     surface_area: 5.863 × 10<sup>09</sup> km<sup>2</sup><br/>(11.495 Yrths)
     volume: 4.222 × 10<sup>13</sup> km<sup>3</sup><br/>(38.973 Yrths)
-    mass: 1.100 × 10<sup>26</sup> kg<br />(18.42716002856642 Yrths)
+    mass: 1.100 × 10<sup>26</sup> kg<br />(18.43 Yrths)
     density: 2.607 g/cm<sup>3</sup>
     surface_gravity: 15.721 m/s<sup>2</sup><br />(1.603 g<sub>0</sub>)
     escape_velocity: 26.078 km/s<br />(93,881 km/h)
     rotation_period: 0.357 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 80 K<br />(-193 °C)
+    temperature: 71 K<br />(-202 °C)
     composition:
       - 80.4112% hydrogen
       - 17.3463% helium
@@ -957,14 +957,14 @@ planets:
         radius: 25,191.9 km<br/>(3.954 Yrths)
         surface_area: 7.975 × 10<sup>09</sup> km<sup>2</sup><br/>(15.635 Yrths)
         volume: 6.697 × 10<sup>13</sup> km<sup>3</sup><br/>(61.824 Yrths)
-        mass: 9.854 × 10<sup>25</sup> kg<br />(18.42716002856642 Yrths)
+        mass: 9.854 × 10<sup>25</sup> kg<br />(16.500 Yrths)
         density: 1.471 g/cm<sup>3</sup>
         surface_gravity: 10.349 m/s<sup>2</sup><br />(1.055 g<sub>0</sub>)
         escape_velocity: 22.850 km/s<br />(82,260 km/h)
         rotation_period: 53.849 d
         axial_tilt: 6.08°
         albedo: 0.30
-        temperature: 473 K<br />(200 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0089 Atchianniad VII b
         type: Icy
         formationType: Impact formed
@@ -977,14 +977,14 @@ planets:
         radius: 8,068.4 km<br/>(1.266 Yrths)
         surface_area: 8.181 × 10<sup>08</sup> km<sup>2</sup><br/>(1.604 Yrths)
         volume: 2.200 × 10<sup>12</sup> km<sup>3</sup><br/>(2.031 Yrths)
-        mass: 2.350 × 10<sup>24</sup> kg<br />(18.42716002856642 Yrths)
+        mass: 2.350 × 10<sup>24</sup> kg<br />(0.393 Yrths)
         density: 1.068 g/cm<sup>3</sup>
         surface_gravity: 2.406 m/s<sup>2</sup><br />(0.245 g<sub>0</sub>)
         escape_velocity: 6.235 km/s<br />(22,445 km/h)
         rotation_period: 55.208 d
         axial_tilt: 20.56°
         albedo: 0.30
-        temperature: 451 K<br />(178 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0089 Atchianniad VII c
         type: Icy
         formationType: Accreted
@@ -997,14 +997,14 @@ planets:
         radius: 19,753.8 km<br/>(3.101 Yrths)
         surface_area: 4.904 × 10<sup>09</sup> km<sup>2</sup><br/>(9.614 Yrths)
         volume: 3.229 × 10<sup>13</sup> km<sup>3</sup><br/>(29.808 Yrths)
-        mass: 4.888 × 10<sup>25</sup> kg<br />(18.42716002856642 Yrths)
+        mass: 4.888 × 10<sup>25</sup> kg<br />(8.185 Yrths)
         density: 1.514 g/cm<sup>3</sup>
         surface_gravity: 8.350 m/s<sup>2</sup><br />(0.851 g<sub>0</sub>)
         escape_velocity: 18.175 km/s<br />(65,430 km/h)
         rotation_period: 76.159 d
         axial_tilt: 15.37°
         albedo: 0.30
-        temperature: 430 K<br />(157 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0089 Atchianniad VII d
         type: Icy
         formationType: Captured
@@ -1017,14 +1017,14 @@ planets:
         radius: 7,964.6 km<br/>(1.250 Yrths)
         surface_area: 7.971 × 10<sup>08</sup> km<sup>2</sup><br/>(1.563 Yrths)
         volume: 2.116 × 10<sup>12</sup> km<sup>3</sup><br/>(1.954 Yrths)
-        mass: 2.967 × 10<sup>24</sup> kg<br />(18.42716002856642 Yrths)
+        mass: 2.967 × 10<sup>24</sup> kg<br />(0.497 Yrths)
         density: 1.402 g/cm<sup>3</sup>
         surface_gravity: 3.118 m/s<sup>2</sup><br />(0.318 g<sub>0</sub>)
         escape_velocity: 7.052 km/s<br />(25,388 km/h)
         rotation_period: 45.172 d
         axial_tilt: 11.29°
         albedo: 0.30
-        temperature: 410 K<br />(137 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0089 Atchianniad VII e
         type: Ice/rock hybrid
         formationType: Captured
@@ -1037,14 +1037,14 @@ planets:
         radius: 6,335.4 km<br/>(0.994 Yrths)
         surface_area: 5.044 × 10<sup>08</sup> km<sup>2</sup><br/>(0.989 Yrths)
         volume: 1.065 × 10<sup>12</sup> km<sup>3</sup><br/>(0.983 Yrths)
-        mass: 2.144 × 10<sup>24</sup> kg<br />(18.42716002856642 Yrths)
+        mass: 2.144 × 10<sup>24</sup> kg<br />(0.359 Yrths)
         density: 2.013 g/cm<sup>3</sup>
         surface_gravity: 3.560 m/s<sup>2</sup><br />(0.363 g<sub>0</sub>)
         escape_velocity: 6.721 km/s<br />(24,196 km/h)
         rotation_period: 36.933 d
         axial_tilt: 18.15°
         albedo: 0.30
-        temperature: 391 K<br />(118 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0089 Atchianniad VII f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1057,12 +1057,12 @@ planets:
         radius: 16,214.2 km<br/>(2.545 Yrths)
         surface_area: 3.304 × 10<sup>09</sup> km<sup>2</sup><br/>(6.477 Yrths)
         volume: 1.786 × 10<sup>13</sup> km<sup>3</sup><br/>(16.484 Yrths)
-        mass: 2.857 × 10<sup>25</sup> kg<br />(18.42716002856642 Yrths)
+        mass: 2.857 × 10<sup>25</sup> kg<br />(4.784 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 7.243 m/s<sup>2</sup><br />(0.739 g<sub>0</sub>)
         escape_velocity: 15.336 km/s<br />(55,210 km/h)
         rotation_period: 69.781 d
         axial_tilt: 6.03°
         albedo: 0.30
-        temperature: 373 K<br />(100 °C)
+        temperature: 57 K<br />(-216 °C)
 ---

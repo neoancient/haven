@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13059 Tanashad is a star in the constellation Tanas
+      13059 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 299.63 ly
 apparent_magnitude: 11.02
 absolute_magnitude: 6.20

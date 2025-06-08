@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1556 Oniad is a star in the constellation Oni
+      1556 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1359.12 ly
 apparent_magnitude: 6.66
 absolute_magnitude: -1.44
@@ -31,14 +31,14 @@ planets:
     radius: 265.2 km<br/>(0.042 Yrths)
     surface_area: 8.840 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.815 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.414 × 10<sup>27</sup> kg<br />(571.6219018706498 Yrths)
+    mass: 3.414 × 10<sup>27</sup> kg<br />(571.62 Yrths)
     density: 43680929.055 g/cm<sup>3</sup>
     surface_gravity: 3234540.728 m/s<sup>2</sup><br />(329831.362 g<sub>0</sub>)
     escape_velocity: 1310.763 km/s<br />(4,718,747 km/h)
     rotation_period: 0.221 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1809 K<br />(1536 °C)
+    temperature: 1741 K<br />(1468 °C)
     composition:
       - 78.2315% hydrogen
       - 18.0019% helium
@@ -58,14 +58,14 @@ planets:
         radius: 470,164.3 km<br/>(73.798 Yrths)
         surface_area: 2.778 × 10<sup>12</sup> km<sup>2</sup><br/>(5446.081 Yrths)
         volume: 4.353 × 10<sup>17</sup> km<sup>3</sup><br/>(401907.529 Yrths)
-        mass: 3.731 × 10<sup>29</sup> kg<br />(571.6219018706498 Yrths)
+        mass: 3.731 × 10<sup>29</sup> kg<br />(62481.455 Yrths)
         density: 0.857 g/cm<sup>3</sup>
         surface_gravity: 112.509 m/s<sup>2</sup><br />(11.473 g<sub>0</sub>)
         escape_velocity: 325.483 km/s<br />(1,171,739 km/h)
         rotation_period: 65.800 d
         axial_tilt: 5.39°
         albedo: 0.30
-        temperature: 2416 K<br />(2143 °C)
+        temperature: 421 K<br />(148 °C)
       - name: 1556 Oniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 384,521.1 km<br/>(60.355 Yrths)
         surface_area: 1.858 × 10<sup>12</sup> km<sup>2</sup><br/>(3642.714 Yrths)
         volume: 2.381 × 10<sup>17</sup> km<sup>3</sup><br/>(219855.610 Yrths)
-        mass: 4.185 × 10<sup>29</sup> kg<br />(571.6219018706498 Yrths)
+        mass: 4.185 × 10<sup>29</sup> kg<br />(70080.270 Yrths)
         density: 1.757 g/cm<sup>3</sup>
         surface_gravity: 188.665 m/s<sup>2</sup><br />(19.238 g<sub>0</sub>)
         escape_velocity: 381.167 km/s<br />(1,372,202 km/h)
         rotation_period: 38.390 d
         axial_tilt: 19.42°
         albedo: 0.30
-        temperature: 1573 K<br />(1300 °C)
+        temperature: 421 K<br />(148 °C)
       - name: 1556 Oniad I c
         type: Icy
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 513,232.5 km<br/>(80.558 Yrths)
         surface_area: 3.310 × 10<sup>12</sup> km<sup>2</sup><br/>(6489.528 Yrths)
         volume: 5.663 × 10<sup>17</sup> km<sup>3</sup><br/>(522780.891 Yrths)
-        mass: 5.238 × 10<sup>29</sup> kg<br />(571.6219018706498 Yrths)
+        mass: 5.238 × 10<sup>29</sup> kg<br />(87715.805 Yrths)
         density: 0.925 g/cm<sup>3</sup>
         surface_gravity: 132.552 m/s<sup>2</sup><br />(13.517 g<sub>0</sub>)
         escape_velocity: 369.113 km/s<br />(1,328,808 km/h)
         rotation_period: 53.053 d
         axial_tilt: 10.29°
         albedo: 0.30
-        temperature: 1127 K<br />(854 °C)
+        temperature: 421 K<br />(148 °C)
       - name: 1556 Oniad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 395,466.0 km<br/>(62.073 Yrths)
         surface_area: 1.965 × 10<sup>12</sup> km<sup>2</sup><br/>(3853.036 Yrths)
         volume: 2.591 × 10<sup>17</sup> km<sup>3</sup><br/>(239168.853 Yrths)
-        mass: 5.854 × 10<sup>29</sup> kg<br />(571.6219018706498 Yrths)
+        mass: 5.854 × 10<sup>29</sup> kg<br />(98031.957 Yrths)
         density: 2.260 g/cm<sup>3</sup>
         surface_gravity: 249.508 m/s<sup>2</sup><br />(25.443 g<sub>0</sub>)
         escape_velocity: 444.536 km/s<br />(1,600,330 km/h)
         rotation_period: 45.578 d
         axial_tilt: 26.23°
         albedo: 0.30
-        temperature: 607 K<br />(333 °C)
+        temperature: 421 K<br />(148 °C)
       - name: 1556 Oniad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 444,977.8 km<br/>(69.844 Yrths)
         surface_area: 2.488 × 10<sup>12</sup> km<sup>2</sup><br/>(4878.222 Yrths)
         volume: 3.691 × 10<sup>17</sup> km<sup>3</sup><br/>(340715.854 Yrths)
-        mass: 1.004 × 10<sup>30</sup> kg<br />(571.6219018706498 Yrths)
+        mass: 1.004 × 10<sup>30</sup> kg<br />(168108.697 Yrths)
         density: 2.720 g/cm<sup>3</sup>
         surface_gravity: 337.948 m/s<sup>2</sup><br />(34.461 g<sub>0</sub>)
         escape_velocity: 548.787 km/s<br />(1,975,632 km/h)
         rotation_period: 53.838 d
         axial_tilt: 18.03°
         albedo: 0.30
-        temperature: 456 K<br />(183 °C)
+        temperature: 421 K<br />(148 °C)
   - name: 1556 Oniad II
     type: Large terrestrial
     aphelion: 4,262,797,114 km<br />28.495 AU
@@ -157,14 +157,14 @@ planets:
     radius: 14,394.2 km<br/>(2.259 Yrths)
     surface_area: 2.604 × 10<sup>09</sup> km<sup>2</sup><br/>(5.105 Yrths)
     volume: 1.249 × 10<sup>13</sup> km<sup>3</sup><br/>(11.533 Yrths)
-    mass: 7.158 × 10<sup>25</sup> kg<br />(11.986605533753757 Yrths)
+    mass: 7.158 × 10<sup>25</sup> kg<br />(11.99 Yrths)
     density: 5.730 g/cm<sup>3</sup>
     surface_gravity: 23.028 m/s<sup>2</sup><br />(2.348 g<sub>0</sub>)
     escape_velocity: 25.765 km/s<br />(92,754 km/h)
     rotation_period: 0.471 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 428 K<br />(155 °C)
+    temperature: 513 K<br />(240 °C)
     surface_pressure: 2,897 kPa<br />(29 atm)
     composition:
       - 70.3116% methane
@@ -182,14 +182,14 @@ planets:
         radius: 16,345.8 km<br/>(2.566 Yrths)
         surface_area: 3.358 × 10<sup>09</sup> km<sup>2</sup><br/>(6.583 Yrths)
         volume: 1.829 × 10<sup>13</sup> km<sup>3</sup><br/>(16.889 Yrths)
-        mass: 4.803 × 10<sup>25</sup> kg<br />(11.986605533753757 Yrths)
+        mass: 4.803 × 10<sup>25</sup> kg<br />(8.043 Yrths)
         density: 2.625 g/cm<sup>3</sup>
         surface_gravity: 11.982 m/s<sup>2</sup><br />(1.222 g<sub>0</sub>)
         escape_velocity: 19.805 km/s<br />(71,297 km/h)
         rotation_period: 36.720 d
         axial_tilt: 23.03°
         albedo: 0.30
-        temperature: 3507 K<br />(3234 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 1556 Oniad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 18,338.9 km<br/>(2.879 Yrths)
         surface_area: 4.226 × 10<sup>09</sup> km<sup>2</sup><br/>(8.286 Yrths)
         volume: 2.584 × 10<sup>13</sup> km<sup>3</sup><br/>(23.851 Yrths)
-        mass: 4.646 × 10<sup>25</sup> kg<br />(11.986605533753757 Yrths)
+        mass: 4.646 × 10<sup>25</sup> kg<br />(7.779 Yrths)
         density: 1.798 g/cm<sup>3</sup>
         surface_gravity: 9.207 m/s<sup>2</sup><br />(0.939 g<sub>0</sub>)
         escape_velocity: 18.389 km/s<br />(66,199 km/h)
         rotation_period: 48.766 d
         axial_tilt: 14.00°
         albedo: 0.30
-        temperature: 3344 K<br />(3071 °C)
+        temperature: 280 K<br />(7 °C)
   - name: 1556 Oniad III
     type: Ice giant
     aphelion: 9,674,107,897 km<br />64.666 AU
@@ -221,14 +221,14 @@ planets:
     radius: 41,432.8 km<br/>(6.503 Yrths)
     surface_area: 2.157 × 10<sup>10</sup> km<sup>2</sup><br/>(42.293 Yrths)
     volume: 2.979 × 10<sup>14</sup> km<sup>3</sup><br/>(275.049 Yrths)
-    mass: 3.036 × 10<sup>26</sup> kg<br />(50.84052592768437 Yrths)
+    mass: 3.036 × 10<sup>26</sup> kg<br />(50.84 Yrths)
     density: 1.019 g/cm<sup>3</sup>
     surface_gravity: 11.788 m/s<sup>2</sup><br />(1.202 g<sub>0</sub>)
     escape_velocity: 31.276 km/s<br />(112,593 km/h)
     rotation_period: 0.282 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 396 K<br />(123 °C)
+    temperature: 364 K<br />(91 °C)
     composition:
       - 85.0965% hydrogen
       - 14.2236% helium
@@ -246,14 +246,14 @@ planets:
         radius: 42,795.3 km<br/>(6.717 Yrths)
         surface_area: 2.301 × 10<sup>10</sup> km<sup>2</sup><br/>(45.121 Yrths)
         volume: 3.283 × 10<sup>14</sup> km<sup>3</sup><br/>(303.085 Yrths)
-        mass: 8.354 × 10<sup>26</sup> kg<br />(50.84052592768437 Yrths)
+        mass: 8.354 × 10<sup>26</sup> kg<br />(139.880 Yrths)
         density: 2.544 g/cm<sup>3</sup>
         surface_gravity: 30.402 m/s<sup>2</sup><br />(3.100 g<sub>0</sub>)
         escape_velocity: 51.046 km/s<br />(183,764 km/h)
         rotation_period: 58.051 d
         axial_tilt: 21.83°
         albedo: 0.30
-        temperature: 1675 K<br />(1402 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 1556 Oniad III b
         type: Icy
         formationType: Captured
@@ -266,14 +266,14 @@ planets:
         radius: 39,335.1 km<br/>(6.174 Yrths)
         surface_area: 1.944 × 10<sup>10</sup> km<sup>2</sup><br/>(38.119 Yrths)
         volume: 2.549 × 10<sup>14</sup> km<sup>3</sup><br/>(235.352 Yrths)
-        mass: 3.128 × 10<sup>26</sup> kg<br />(50.84052592768437 Yrths)
+        mass: 3.128 × 10<sup>26</sup> kg<br />(52.382 Yrths)
         density: 1.227 g/cm<sup>3</sup>
         surface_gravity: 13.476 m/s<sup>2</sup><br />(1.374 g<sub>0</sub>)
         escape_velocity: 32.582 km/s<br />(117,296 km/h)
         rotation_period: 57.222 d
         axial_tilt: 9.13°
         albedo: 0.30
-        temperature: 1598 K<br />(1324 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 1556 Oniad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -286,14 +286,14 @@ planets:
         radius: 41,987.6 km<br/>(6.590 Yrths)
         surface_area: 2.215 × 10<sup>10</sup> km<sup>2</sup><br/>(43.434 Yrths)
         volume: 3.101 × 10<sup>14</sup> km<sup>3</sup><br/>(286.247 Yrths)
-        mass: 8.214 × 10<sup>26</sup> kg<br />(50.84052592768437 Yrths)
+        mass: 8.214 × 10<sup>26</sup> kg<br />(137.546 Yrths)
         density: 2.649 g/cm<sup>3</sup>
         surface_gravity: 31.056 m/s<sup>2</sup><br />(3.167 g<sub>0</sub>)
         escape_velocity: 51.102 km/s<br />(183,968 km/h)
         rotation_period: 54.691 d
         axial_tilt: 14.49°
         albedo: 0.30
-        temperature: 1523 K<br />(1250 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 1556 Oniad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -306,14 +306,14 @@ planets:
         radius: 31,400.6 km<br/>(4.929 Yrths)
         surface_area: 1.239 × 10<sup>10</sup> km<sup>2</sup><br/>(24.292 Yrths)
         volume: 1.297 × 10<sup>14</sup> km<sup>3</sup><br/>(119.727 Yrths)
-        mass: 2.898 × 10<sup>26</sup> kg<br />(50.84052592768437 Yrths)
+        mass: 2.898 × 10<sup>26</sup> kg<br />(48.519 Yrths)
         density: 2.234 g/cm<sup>3</sup>
         surface_gravity: 19.587 m/s<sup>2</sup><br />(1.997 g<sub>0</sub>)
         escape_velocity: 35.097 km/s<br />(126,348 km/h)
         rotation_period: 34.112 d
         axial_tilt: 17.32°
         albedo: 0.30
-        temperature: 1385 K<br />(1112 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 1556 Oniad III e
         type: Icy
         formationType: Accreted
@@ -326,14 +326,14 @@ planets:
         radius: 43,367.8 km<br/>(6.807 Yrths)
         surface_area: 2.363 × 10<sup>10</sup> km<sup>2</sup><br/>(46.336 Yrths)
         volume: 3.417 × 10<sup>14</sup> km<sup>3</sup><br/>(315.413 Yrths)
-        mass: 5.582 × 10<sup>26</sup> kg<br />(50.84052592768437 Yrths)
+        mass: 5.582 × 10<sup>26</sup> kg<br />(93.463 Yrths)
         density: 1.634 g/cm<sup>3</sup>
         surface_gravity: 19.781 m/s<sup>2</sup><br />(2.017 g<sub>0</sub>)
         escape_velocity: 41.449 km/s<br />(149,217 km/h)
         rotation_period: 49.871 d
         axial_tilt: 23.20°
         albedo: 0.30
-        temperature: 1320 K<br />(1047 °C)
+        temperature: 186 K<br />(-87 °C)
   - name: 1556 Oniad IV
     type: Gas giant
     aphelion: 21,924,770,479 km<br />146.556 AU
@@ -345,7 +345,7 @@ planets:
     radius: 284.8 km<br/>(0.045 Yrths)
     surface_area: 1.019 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 9.675 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.573 × 10<sup>27</sup> kg<br />(765.8208531333046 Yrths)
+    mass: 4.573 × 10<sup>27</sup> kg<br />(765.82 Yrths)
     density: 47273163.198 g/cm<sup>3</sup>
     surface_gravity: 3758667.690 m/s<sup>2</sup><br />(383277.438 g<sub>0</sub>)
     escape_velocity: 1464.145 km/s<br />(5,270,922 km/h)
@@ -366,14 +366,14 @@ planets:
         radius: 313,556.2 km<br/>(49.216 Yrths)
         surface_area: 1.235 × 10<sup>12</sup> km<sup>2</sup><br/>(2422.231 Yrths)
         volume: 1.291 × 10<sup>17</sup> km<sup>3</sup><br/>(119212.890 Yrths)
-        mass: 2.098 × 10<sup>29</sup> kg<br />(765.8208531333046 Yrths)
+        mass: 2.098 × 10<sup>29</sup> kg<br />(35133.505 Yrths)
         density: 1.625 g/cm<sup>3</sup>
         surface_gravity: 142.242 m/s<sup>2</sup><br />(14.505 g<sub>0</sub>)
         escape_velocity: 298.869 km/s<br />(1,075,928 km/h)
         rotation_period: 63.507 d
         axial_tilt: 22.98°
         albedo: 0.30
-        temperature: 742 K<br />(468 °C)
+        temperature: 124 K<br />(-150 °C)
       - name: 1556 Oniad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -386,14 +386,14 @@ planets:
         radius: 271,288.8 km<br/>(42.582 Yrths)
         surface_area: 9.249 × 10<sup>11</sup> km<sup>2</sup><br/>(1813.212 Yrths)
         volume: 8.363 × 10<sup>16</sup> km<sup>3</sup><br/>(77209.856 Yrths)
-        mass: 1.744 × 10<sup>29</sup> kg<br />(765.8208531333046 Yrths)
+        mass: 1.744 × 10<sup>29</sup> kg<br />(29208.064 Yrths)
         density: 2.086 g/cm<sup>3</sup>
         surface_gravity: 157.970 m/s<sup>2</sup><br />(16.108 g<sub>0</sub>)
         escape_velocity: 292.963 km/s<br />(1,054,668 km/h)
         rotation_period: 38.396 d
         axial_tilt: 21.94°
         albedo: 0.30
-        temperature: 461 K<br />(187 °C)
+        temperature: 124 K<br />(-150 °C)
       - name: 1556 Oniad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -406,14 +406,14 @@ planets:
         radius: 278,153.9 km<br/>(43.659 Yrths)
         surface_area: 9.723 × 10<sup>11</sup> km<sup>2</sup><br/>(1906.142 Yrths)
         volume: 9.015 × 10<sup>16</sup> km<sup>3</sup><br/>(83220.980 Yrths)
-        mass: 1.693 × 10<sup>29</sup> kg<br />(765.8208531333046 Yrths)
+        mass: 1.693 × 10<sup>29</sup> kg<br />(28356.880 Yrths)
         density: 1.879 g/cm<sup>3</sup>
         surface_gravity: 145.889 m/s<sup>2</sup><br />(14.877 g<sub>0</sub>)
         escape_velocity: 285.078 km/s<br />(1,026,282 km/h)
         rotation_period: 39.339 d
         axial_tilt: 25.20°
         albedo: 0.30
-        temperature: 381 K<br />(107 °C)
+        temperature: 124 K<br />(-150 °C)
       - name: 1556 Oniad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -426,14 +426,14 @@ planets:
         radius: 334,277.3 km<br/>(52.469 Yrths)
         surface_area: 1.404 × 10<sup>12</sup> km<sup>2</sup><br/>(2752.951 Yrths)
         volume: 1.565 × 10<sup>17</sup> km<sup>3</sup><br/>(144443.408 Yrths)
-        mass: 2.649 × 10<sup>29</sup> kg<br />(765.8208531333046 Yrths)
+        mass: 2.649 × 10<sup>29</sup> kg<br />(44357.674 Yrths)
         density: 1.693 g/cm<sup>3</sup>
         surface_gravity: 158.012 m/s<sup>2</sup><br />(16.113 g<sub>0</sub>)
         escape_velocity: 325.244 km/s<br />(1,170,877 km/h)
         rotation_period: 43.425 d
         axial_tilt: 14.92°
         albedo: 0.30
-        temperature: 161 K<br />(-112 °C)
+        temperature: 124 K<br />(-150 °C)
       - name: 1556 Oniad IV e
         type: Rocky
         formationType: Captured
@@ -446,14 +446,14 @@ planets:
         radius: 270,518.1 km<br/>(42.461 Yrths)
         surface_area: 9.196 × 10<sup>11</sup> km<sup>2</sup><br/>(1802.924 Yrths)
         volume: 8.292 × 10<sup>16</sup> km<sup>3</sup><br/>(76553.691 Yrths)
-        mass: 2.269 × 10<sup>29</sup> kg<br />(765.8208531333046 Yrths)
+        mass: 2.269 × 10<sup>29</sup> kg<br />(37996.733 Yrths)
         density: 2.736 g/cm<sup>3</sup>
         surface_gravity: 206.676 m/s<sup>2</sup><br />(21.075 g<sub>0</sub>)
         escape_velocity: 334.621 km/s<br />(1,204,634 km/h)
         rotation_period: 30.325 d
         axial_tilt: 14.39°
         albedo: 0.30
-        temperature: 140 K<br />(-133 °C)
+        temperature: 124 K<br />(-150 °C)
       - name: 1556 Oniad IV f
         type: Icy
         formationType: Accreted
@@ -466,12 +466,12 @@ planets:
         radius: 295,607.1 km<br/>(46.399 Yrths)
         surface_area: 1.098 × 10<sup>12</sup> km<sup>2</sup><br/>(2152.854 Yrths)
         volume: 1.082 × 10<sup>17</sup> km<sup>3</sup><br/>(99889.985 Yrths)
-        mass: 1.838 × 10<sup>29</sup> kg<br />(765.8208531333046 Yrths)
+        mass: 1.838 × 10<sup>29</sup> kg<br />(30773.427 Yrths)
         density: 1.698 g/cm<sup>3</sup>
         surface_gravity: 140.179 m/s<sup>2</sup><br />(14.294 g<sub>0</sub>)
         escape_velocity: 288.077 km/s<br />(1,037,076 km/h)
         rotation_period: 43.637 d
         axial_tilt: 19.38°
         albedo: 0.30
-        temperature: 105 K<br />(-168 °C)
+        temperature: 124 K<br />(-150 °C)
 ---

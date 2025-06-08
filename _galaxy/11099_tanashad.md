@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11099 Tanashad is a star in the constellation Tanas
+      11099 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 250.43 ly
 apparent_magnitude: 17.26
 absolute_magnitude: 12.83

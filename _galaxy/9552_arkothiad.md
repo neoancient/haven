@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9552 Arkothiad is a star in the constellation Arkoth
+      9552 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 332.49 ly
 apparent_magnitude: 20.56
 absolute_magnitude: 15.52

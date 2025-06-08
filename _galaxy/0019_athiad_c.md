@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0019 Athiad C is a star in the constellation Ath
+      0019 Athiad C is a star in the constellation <a href="ath.html">Ath</a>
 distance: 92.77 ly
 apparent_magnitude: 7.27
 absolute_magnitude: 5.00
@@ -31,14 +31,14 @@ planets:
     radius: 6,207.1 km<br/>(0.974 Yrths)
     surface_area: 4.842 × 10<sup>08</sup> km<sup>2</sup><br/>(0.949 Yrths)
     volume: 1.002 × 10<sup>12</sup> km<sup>3</sup><br/>(0.925 Yrths)
-    mass: 4.390 × 10<sup>24</sup> kg<br />(0.7351799138492794 Yrths)
+    mass: 4.390 × 10<sup>24</sup> kg<br />(0.74 Yrths)
     density: 4.383 g/cm<sup>3</sup>
     surface_gravity: 7.595 m/s<sup>2</sup><br />(0.775 g<sub>0</sub>)
     escape_velocity: 9.717 km/s<br />(34,981 km/h)
     rotation_period: 1.345 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 300 K<br />(27 °C)
+    temperature: 306 K<br />(33 °C)
     surface_pressure: 30 kPa<br />(0 atm)
     composition:
       - 74.1228% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 1,658.6 km<br/>(0.260 Yrths)
         surface_area: 3.457 × 10<sup>07</sup> km<sup>2</sup><br/>(0.068 Yrths)
         volume: 1.911 × 10<sup>10</sup> km<sup>3</sup><br/>(0.018 Yrths)
-        mass: 5.645 × 10<sup>22</sup> kg<br />(0.7351799138492794 Yrths)
+        mass: 5.645 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 2.953 g/cm<sup>3</sup>
         surface_gravity: 1.368 m/s<sup>2</sup><br />(0.139 g<sub>0</sub>)
         escape_velocity: 2.131 km/s<br />(7,673 km/h)
         rotation_period: 33.947 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 4091 K<br />(3818 °C)
+        temperature: 265 K<br />(-9 °C)
   - name: 0019 Athiad C II
     type: Gas dwarf
     aphelion: 243,204,835 km<br />1.626 AU
@@ -76,14 +76,14 @@ planets:
     radius: 11,089.0 km<br/>(1.741 Yrths)
     surface_area: 1.545 × 10<sup>09</sup> km<sup>2</sup><br/>(3.030 Yrths)
     volume: 5.712 × 10<sup>12</sup> km<sup>3</sup><br/>(5.273 Yrths)
-    mass: 1.530 × 10<sup>25</sup> kg<br />(2.5620261742076487 Yrths)
+    mass: 1.530 × 10<sup>25</sup> kg<br />(2.56 Yrths)
     density: 2.679 g/cm<sup>3</sup>
     surface_gravity: 8.293 m/s<sup>2</sup><br />(0.846 g<sub>0</sub>)
     escape_velocity: 13.571 km/s<br />(48,857 km/h)
     rotation_period: 0.635 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 299 K<br />(26 °C)
+    temperature: 272 K<br />(-1 °C)
     composition:
       - 89.1054% hydrogen
       - 8.0103% helium
@@ -105,14 +105,14 @@ planets:
         radius: 6,526.2 km<br/>(1.024 Yrths)
         surface_area: 5.352 × 10<sup>08</sup> km<sup>2</sup><br/>(1.049 Yrths)
         volume: 1.164 × 10<sup>12</sup> km<sup>3</sup><br/>(1.075 Yrths)
-        mass: 2.304 × 10<sup>24</sup> kg<br />(2.5620261742076487 Yrths)
+        mass: 2.304 × 10<sup>24</sup> kg<br />(0.386 Yrths)
         density: 1.979 g/cm<sup>3</sup>
         surface_gravity: 3.605 m/s<sup>2</sup><br />(0.368 g<sub>0</sub>)
         escape_velocity: 6.865 km/s<br />(24,712 km/h)
         rotation_period: 58.816 d
         axial_tilt: 19.85°
         albedo: 0.30
-        temperature: 2503 K<br />(2230 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0019 Athiad C II b
         type: Asteroid
         formationType: Captured
@@ -125,14 +125,14 @@ planets:
         radius: 6,229.2 km<br/>(0.978 Yrths)
         surface_area: 4.876 × 10<sup>08</sup> km<sup>2</sup><br/>(0.956 Yrths)
         volume: 1.012 × 10<sup>12</sup> km<sup>3</sup><br/>(0.935 Yrths)
-        mass: 1.750 × 10<sup>24</sup> kg<br />(2.5620261742076487 Yrths)
+        mass: 1.750 × 10<sup>24</sup> kg<br />(0.293 Yrths)
         density: 1.728 g/cm<sup>3</sup>
         surface_gravity: 3.006 m/s<sup>2</sup><br />(0.306 g<sub>0</sub>)
         escape_velocity: 6.123 km/s<br />(22,044 km/h)
         rotation_period: 71.568 d
         axial_tilt: 32.44°
         albedo: 0.30
-        temperature: 2387 K<br />(2114 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0019 Athiad C II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -145,14 +145,14 @@ planets:
         radius: 7,266.5 km<br/>(1.141 Yrths)
         surface_area: 6.635 × 10<sup>08</sup> km<sup>2</sup><br/>(1.301 Yrths)
         volume: 1.607 × 10<sup>12</sup> km<sup>3</sup><br/>(1.484 Yrths)
-        mass: 3.096 × 10<sup>24</sup> kg<br />(2.5620261742076487 Yrths)
+        mass: 3.096 × 10<sup>24</sup> kg<br />(0.518 Yrths)
         density: 1.926 g/cm<sup>3</sup>
         surface_gravity: 3.908 m/s<sup>2</sup><br />(0.398 g<sub>0</sub>)
         escape_velocity: 7.541 km/s<br />(27,148 km/h)
         rotation_period: 70.893 d
         axial_tilt: 17.56°
         albedo: 0.30
-        temperature: 2170 K<br />(1897 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0019 Athiad C II d
         type: Rocky
         formationType: Captured
@@ -165,14 +165,14 @@ planets:
         radius: 3,884.6 km<br/>(0.610 Yrths)
         surface_area: 1.896 × 10<sup>08</sup> km<sup>2</sup><br/>(0.372 Yrths)
         volume: 2.455 × 10<sup>11</sup> km<sup>3</sup><br/>(0.227 Yrths)
-        mass: 6.955 × 10<sup>23</sup> kg<br />(2.5620261742076487 Yrths)
+        mass: 6.955 × 10<sup>23</sup> kg<br />(0.116 Yrths)
         density: 2.832 g/cm<sup>3</sup>
         surface_gravity: 3.072 m/s<sup>2</sup><br />(0.313 g<sub>0</sub>)
         escape_velocity: 4.889 km/s<br />(17,599 km/h)
         rotation_period: 32.190 d
         axial_tilt: 10.26°
         albedo: 0.30
-        temperature: 2069 K<br />(1796 °C)
+        temperature: 202 K<br />(-72 °C)
   - name: 0019 Athiad C III
     type: Ice giant
     aphelion: 400,617,619 km<br />2.678 AU
@@ -184,14 +184,14 @@ planets:
     radius: 21,199.0 km<br/>(3.327 Yrths)
     surface_area: 5.647 × 10<sup>09</sup> km<sup>2</sup><br/>(11.072 Yrths)
     volume: 3.991 × 10<sup>13</sup> km<sup>3</sup><br/>(36.840 Yrths)
-    mass: 6.496 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+    mass: 6.496 × 10<sup>25</sup> kg<br />(10.88 Yrths)
     density: 1.628 g/cm<sup>3</sup>
     surface_gravity: 9.634 m/s<sup>2</sup><br />(0.982 g<sub>0</sub>)
     escape_velocity: 20.225 km/s<br />(72,809 km/h)
     rotation_period: 0.412 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 294 K<br />(21 °C)
+    temperature: 269 K<br />(-4 °C)
     composition:
       - 65.2279% hydrogen
       - 30.7385% helium
@@ -210,14 +210,14 @@ planets:
         radius: 19,222.7 km<br/>(3.017 Yrths)
         surface_area: 4.643 × 10<sup>09</sup> km<sup>2</sup><br/>(9.104 Yrths)
         volume: 2.975 × 10<sup>13</sup> km<sup>3</sup><br/>(27.467 Yrths)
-        mass: 6.662 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 6.662 × 10<sup>25</sup> kg<br />(11.155 Yrths)
         density: 2.239 g/cm<sup>3</sup>
         surface_gravity: 12.016 m/s<sup>2</sup><br />(1.225 g<sub>0</sub>)
         escape_velocity: 21.508 km/s<br />(77,429 km/h)
         rotation_period: 48.187 d
         axial_tilt: 35.04°
         albedo: 0.30
-        temperature: 1499 K<br />(1226 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -230,14 +230,14 @@ planets:
         radius: 7,498.1 km<br/>(1.177 Yrths)
         surface_area: 7.065 × 10<sup>08</sup> km<sup>2</sup><br/>(1.385 Yrths)
         volume: 1.766 × 10<sup>12</sup> km<sup>3</sup><br/>(1.630 Yrths)
-        mass: 3.677 × 10<sup>24</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 3.677 × 10<sup>24</sup> kg<br />(0.616 Yrths)
         density: 2.082 g/cm<sup>3</sup>
         surface_gravity: 4.359 m/s<sup>2</sup><br />(0.445 g<sub>0</sub>)
         escape_velocity: 8.091 km/s<br />(29,126 km/h)
         rotation_period: 43.038 d
         axial_tilt: 19.97°
         albedo: 0.30
-        temperature: 1429 K<br />(1156 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -250,14 +250,14 @@ planets:
         radius: 15,152.8 km<br/>(2.378 Yrths)
         surface_area: 2.885 × 10<sup>09</sup> km<sup>2</sup><br/>(5.657 Yrths)
         volume: 1.457 × 10<sup>13</sup> km<sup>3</sup><br/>(13.454 Yrths)
-        mass: 3.081 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 3.081 × 10<sup>25</sup> kg<br />(5.159 Yrths)
         density: 2.114 g/cm<sup>3</sup>
         surface_gravity: 8.943 m/s<sup>2</sup><br />(0.912 g<sub>0</sub>)
         escape_velocity: 16.474 km/s<br />(59,307 km/h)
         rotation_period: 48.601 d
         axial_tilt: 24.37°
         albedo: 0.30
-        temperature: 1363 K<br />(1090 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -270,14 +270,14 @@ planets:
         radius: 7,564.6 km<br/>(1.187 Yrths)
         surface_area: 7.191 × 10<sup>08</sup> km<sup>2</sup><br/>(1.410 Yrths)
         volume: 1.813 × 10<sup>12</sup> km<sup>3</sup><br/>(1.674 Yrths)
-        mass: 3.711 × 10<sup>24</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 3.711 × 10<sup>24</sup> kg<br />(0.621 Yrths)
         density: 2.047 g/cm<sup>3</sup>
         surface_gravity: 4.322 m/s<sup>2</sup><br />(0.441 g<sub>0</sub>)
         escape_velocity: 8.092 km/s<br />(29,132 km/h)
         rotation_period: 41.370 d
         axial_tilt: 23.00°
         albedo: 0.30
-        temperature: 1299 K<br />(1026 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -290,14 +290,14 @@ planets:
         radius: 13,047.3 km<br/>(2.048 Yrths)
         surface_area: 2.139 × 10<sup>09</sup> km<sup>2</sup><br/>(4.194 Yrths)
         volume: 9.304 × 10<sup>12</sup> km<sup>3</sup><br/>(8.589 Yrths)
-        mass: 1.739 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 1.739 × 10<sup>25</sup> kg<br />(2.912 Yrths)
         density: 1.869 g/cm<sup>3</sup>
         surface_gravity: 6.808 m/s<sup>2</sup><br />(0.694 g<sub>0</sub>)
         escape_velocity: 13.338 km/s<br />(48,016 km/h)
         rotation_period: 39.421 d
         axial_tilt: 21.10°
         albedo: 0.30
-        temperature: 1239 K<br />(966 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III f
         type: Rocky
         formationType: Impact formed
@@ -310,14 +310,14 @@ planets:
         radius: 13,299.6 km<br/>(2.088 Yrths)
         surface_area: 2.223 × 10<sup>09</sup> km<sup>2</sup><br/>(4.358 Yrths)
         volume: 9.854 × 10<sup>12</sup> km<sup>3</sup><br/>(9.097 Yrths)
-        mass: 3.077 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 3.077 × 10<sup>25</sup> kg<br />(5.152 Yrths)
         density: 3.123 g/cm<sup>3</sup>
         surface_gravity: 11.594 m/s<sup>2</sup><br />(1.182 g<sub>0</sub>)
         escape_velocity: 17.573 km/s<br />(63,264 km/h)
         rotation_period: 34.964 d
         axial_tilt: 14.70°
         albedo: 0.30
-        temperature: 1181 K<br />(908 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -330,14 +330,14 @@ planets:
         radius: 19,447.3 km<br/>(3.052 Yrths)
         surface_area: 4.753 × 10<sup>09</sup> km<sup>2</sup><br/>(9.318 Yrths)
         volume: 3.081 × 10<sup>13</sup> km<sup>3</sup><br/>(28.442 Yrths)
-        mass: 6.215 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 6.215 × 10<sup>25</sup> kg<br />(10.408 Yrths)
         density: 2.017 g/cm<sup>3</sup>
         surface_gravity: 10.954 m/s<sup>2</sup><br />(1.117 g<sub>0</sub>)
         escape_velocity: 20.655 km/s<br />(74,358 km/h)
         rotation_period: 44.227 d
         axial_tilt: 16.71°
         albedo: 0.30
-        temperature: 1126 K<br />(853 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -350,14 +350,14 @@ planets:
         radius: 13,591.5 km<br/>(2.133 Yrths)
         surface_area: 2.321 × 10<sup>09</sup> km<sup>2</sup><br/>(4.551 Yrths)
         volume: 1.052 × 10<sup>13</sup> km<sup>3</sup><br/>(9.709 Yrths)
-        mass: 1.795 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 1.795 × 10<sup>25</sup> kg<br />(3.005 Yrths)
         density: 1.706 g/cm<sup>3</sup>
         surface_gravity: 6.475 m/s<sup>2</sup><br />(0.660 g<sub>0</sub>)
         escape_velocity: 13.276 km/s<br />(47,794 km/h)
         rotation_period: 41.566 d
         axial_tilt: 8.72°
         albedo: 0.30
-        temperature: 1074 K<br />(801 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III i
         type: Dwarf planet
         formationType: Impact formed
@@ -370,14 +370,14 @@ planets:
         radius: 11,175.7 km<br/>(1.754 Yrths)
         surface_area: 1.569 × 10<sup>09</sup> km<sup>2</sup><br/>(3.077 Yrths)
         volume: 5.847 × 10<sup>12</sup> km<sup>3</sup><br/>(5.398 Yrths)
-        mass: 9.110 × 10<sup>24</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 9.110 × 10<sup>24</sup> kg<br />(1.525 Yrths)
         density: 1.558 g/cm<sup>3</sup>
         surface_gravity: 4.861 m/s<sup>2</sup><br />(0.496 g<sub>0</sub>)
         escape_velocity: 10.431 km/s<br />(37,552 km/h)
         rotation_period: 42.561 d
         axial_tilt: 26.39°
         albedo: 0.30
-        temperature: 931 K<br />(658 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III j
         type: Icy
         formationType: Captured
@@ -390,14 +390,14 @@ planets:
         radius: 20,277.4 km<br/>(3.183 Yrths)
         surface_area: 5.167 × 10<sup>09</sup> km<sup>2</sup><br/>(10.130 Yrths)
         volume: 3.492 × 10<sup>13</sup> km<sup>3</sup><br/>(32.241 Yrths)
-        mass: 4.646 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 4.646 × 10<sup>25</sup> kg<br />(7.780 Yrths)
         density: 1.330 g/cm<sup>3</sup>
         surface_gravity: 7.532 m/s<sup>2</sup><br />(0.768 g<sub>0</sub>)
         escape_velocity: 17.489 km/s<br />(62,959 km/h)
         rotation_period: 63.250 d
         axial_tilt: 22.48°
         albedo: 0.30
-        temperature: 887 K<br />(614 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III k
         type: Icy
         formationType: Captured
@@ -410,14 +410,14 @@ planets:
         radius: 21,914.5 km<br/>(3.440 Yrths)
         surface_area: 6.035 × 10<sup>09</sup> km<sup>2</sup><br/>(11.832 Yrths)
         volume: 4.408 × 10<sup>13</sup> km<sup>3</sup><br/>(40.698 Yrths)
-        mass: 5.750 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 5.750 × 10<sup>25</sup> kg<br />(9.628 Yrths)
         density: 1.304 g/cm<sup>3</sup>
         surface_gravity: 7.980 m/s<sup>2</sup><br />(0.814 g<sub>0</sub>)
         escape_velocity: 18.715 km/s<br />(67,373 km/h)
         rotation_period: 51.196 d
         axial_tilt: 21.39°
         albedo: 0.30
-        temperature: 846 K<br />(573 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 0019 Athiad C III l
         type: Ice/rock hybrid
         formationType: Captured
@@ -430,14 +430,14 @@ planets:
         radius: 18,905.7 km<br/>(2.967 Yrths)
         surface_area: 4.492 × 10<sup>09</sup> km<sup>2</sup><br/>(8.806 Yrths)
         volume: 2.831 × 10<sup>13</sup> km<sup>3</sup><br/>(26.131 Yrths)
-        mass: 5.479 × 10<sup>25</sup> kg<br />(10.877375504478456 Yrths)
+        mass: 5.479 × 10<sup>25</sup> kg<br />(9.175 Yrths)
         density: 1.936 g/cm<sup>3</sup>
         surface_gravity: 10.218 m/s<sup>2</sup><br />(1.042 g<sub>0</sub>)
         escape_velocity: 19.669 km/s<br />(70,809 km/h)
         rotation_period: 64.454 d
         axial_tilt: 32.62°
         albedo: 0.30
-        temperature: 807 K<br />(534 °C)
+        temperature: 154 K<br />(-120 °C)
   - name: 0019 Athiad C IV
     type: Terrestrial
     aphelion: 691,899,536 km<br />4.625 AU
@@ -449,14 +449,14 @@ planets:
     radius: 3,310.1 km<br/>(0.520 Yrths)
     surface_area: 1.377 × 10<sup>08</sup> km<sup>2</sup><br/>(0.270 Yrths)
     volume: 1.519 × 10<sup>11</sup> km<sup>3</sup><br/>(0.140 Yrths)
-    mass: 7.191 × 10<sup>23</sup> kg<br />(0.1204152437037148 Yrths)
+    mass: 7.191 × 10<sup>23</sup> kg<br />(0.12 Yrths)
     density: 4.733 g/cm<sup>3</sup>
     surface_gravity: 4.374 m/s<sup>2</sup><br />(0.446 g<sub>0</sub>)
     escape_velocity: 5.385 km/s<br />(19,386 km/h)
     rotation_period: 1.905 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 130 K<br />(-143 °C)
+    temperature: 124 K<br />(-149 °C)
     surface_pressure: 23 kPa<br />(0 atm)
     composition:
       - 89.6036% nitrogen
@@ -477,14 +477,14 @@ planets:
         radius: 538.7 km<br/>(0.085 Yrths)
         surface_area: 3.646 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.547 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 9.597 × 10<sup>20</sup> kg<br />(0.1204152437037148 Yrths)
+        mass: 9.597 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.466 g/cm<sup>3</sup>
         surface_gravity: 0.220 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.488 km/s<br />(1,756 km/h)
         rotation_period: 46.218 d
         axial_tilt: 45.83°
         albedo: 0.30
-        temperature: 2429 K<br />(2156 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0019 Athiad C IV b
         type: Icy
         formationType: Captured
@@ -497,12 +497,12 @@ planets:
         radius: 755.5 km<br/>(0.119 Yrths)
         surface_area: 7.173 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.807 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.688 × 10<sup>21</sup> kg<br />(0.1204152437037148 Yrths)
+        mass: 2.688 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.488 g/cm<sup>3</sup>
         surface_gravity: 0.314 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.689 km/s<br />(2,481 km/h)
         rotation_period: 46.748 d
         axial_tilt: 26.77°
         albedo: 0.30
-        temperature: 2316 K<br />(2043 °C)
+        temperature: 117 K<br />(-156 °C)
 ---

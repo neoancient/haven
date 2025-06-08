@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8440 Arkothiad is a star in the constellation Arkoth
+      8440 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 549.16 ly
 apparent_magnitude: 11.30
 absolute_magnitude: 5.17

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1913 Geardiad A is a star in the constellation Geard
+      1913 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 448.85 ly
 apparent_magnitude: 7.80
 absolute_magnitude: 2.11

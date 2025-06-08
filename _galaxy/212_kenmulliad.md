@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      212 Kenmulliad is a star in the constellation Kenmul
+      212 Kenmulliad is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 375.31 ly
 apparent_magnitude: 9.74
 absolute_magnitude: 4.43

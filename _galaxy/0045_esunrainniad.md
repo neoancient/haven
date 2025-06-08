@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0045 Esunrainniad is a star in the constellation Esunrain
+      0045 Esunrainniad is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 5025.28 ly
 apparent_magnitude: 5.95
 absolute_magnitude: -4.99
@@ -31,14 +31,14 @@ planets:
     radius: 14,357.3 km<br/>(2.254 Yrths)
     surface_area: 2.590 × 10<sup>09</sup> km<sup>2</sup><br/>(5.078 Yrths)
     volume: 1.240 × 10<sup>13</sup> km<sup>3</sup><br/>(11.445 Yrths)
-    mass: 7.719 × 10<sup>25</sup> kg<br />(12.924620802928551 Yrths)
+    mass: 7.719 × 10<sup>25</sup> kg<br />(12.92 Yrths)
     density: 6.226 g/cm<sup>3</sup>
     surface_gravity: 24.958 m/s<sup>2</sup><br />(2.545 g<sub>0</sub>)
     escape_velocity: 26.789 km/s<br />(96,439 km/h)
     rotation_period: 0.440 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 1113 K<br />(840 °C)
+    temperature: 2715 K<br />(2442 °C)
     surface_pressure: 8,466 kPa<br />(84 atm)
     composition:
       - 74.6374% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 21,596.8 km<br/>(3.390 Yrths)
         surface_area: 5.861 × 10<sup>09</sup> km<sup>2</sup><br/>(11.491 Yrths)
         volume: 4.219 × 10<sup>13</sup> km<sup>3</sup><br/>(38.954 Yrths)
-        mass: 7.339 × 10<sup>25</sup> kg<br />(12.924620802928551 Yrths)
+        mass: 7.339 × 10<sup>25</sup> kg<br />(12.289 Yrths)
         density: 1.739 g/cm<sup>3</sup>
         surface_gravity: 10.488 m/s<sup>2</sup><br />(1.069 g<sub>0</sub>)
         escape_velocity: 21.299 km/s<br />(76,675 km/h)
         rotation_period: 47.344 d
         axial_tilt: 11.24°
         albedo: 0.30
-        temperature: 7527 K<br />(7254 °C)
+        temperature: 573 K<br />(300 °C)
       - name: 0045 Esunrainniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -79,12 +79,12 @@ planets:
         radius: 9,235.5 km<br/>(1.450 Yrths)
         surface_area: 1.072 × 10<sup>09</sup> km<sup>2</sup><br/>(2.101 Yrths)
         volume: 3.300 × 10<sup>12</sup> km<sup>3</sup><br/>(3.046 Yrths)
-        mass: 8.646 × 10<sup>24</sup> kg<br />(12.924620802928551 Yrths)
+        mass: 8.646 × 10<sup>24</sup> kg<br />(1.448 Yrths)
         density: 2.620 g/cm<sup>3</sup>
         surface_gravity: 6.756 m/s<sup>2</sup><br />(0.689 g<sub>0</sub>)
         escape_velocity: 11.179 km/s<br />(40,244 km/h)
         rotation_period: 43.564 d
         axial_tilt: 24.21°
         albedo: 0.30
-        temperature: 7177 K<br />(6903 °C)
+        temperature: 573 K<br />(300 °C)
 ---

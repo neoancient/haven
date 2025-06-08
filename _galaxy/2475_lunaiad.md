@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2475 Lunaiad is a star in the constellation Luna
+      2475 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 244.06 ly
 apparent_magnitude: 6.53
 absolute_magnitude: 2.16
@@ -31,14 +31,14 @@ planets:
     radius: 7,170.0 km<br/>(1.125 Yrths)
     surface_area: 6.460 × 10<sup>08</sup> km<sup>2</sup><br/>(1.267 Yrths)
     volume: 1.544 × 10<sup>12</sup> km<sup>3</sup><br/>(1.425 Yrths)
-    mass: 8.179 × 10<sup>24</sup> kg<br />(1.369477889381932 Yrths)
+    mass: 8.179 × 10<sup>24</sup> kg<br />(1.37 Yrths)
     density: 5.297 g/cm<sup>3</sup>
     surface_gravity: 10.604 m/s<sup>2</sup><br />(1.081 g<sub>0</sub>)
     escape_velocity: 12.339 km/s<br />(44,422 km/h)
     rotation_period: 0.994 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 594 K<br />(321 °C)
+    temperature: 1431 K<br />(1158 °C)
     surface_pressure: 133 kPa<br />(1 atm)
     composition:
       - 73.1448% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 2,718.7 km<br/>(0.427 Yrths)
         surface_area: 9.288 × 10<sup>07</sup> km<sup>2</sup><br/>(0.182 Yrths)
         volume: 8.417 × 10<sup>10</sup> km<sup>3</sup><br/>(0.078 Yrths)
-        mass: 2.390 × 10<sup>23</sup> kg<br />(1.369477889381932 Yrths)
+        mass: 2.390 × 10<sup>23</sup> kg<br />(0.040 Yrths)
         density: 2.840 g/cm<sup>3</sup>
         surface_gravity: 2.155 m/s<sup>2</sup><br />(0.220 g<sub>0</sub>)
         escape_velocity: 3.426 km/s<br />(12,333 km/h)
         rotation_period: 47.577 d
         axial_tilt: 11.35°
         albedo: 0.30
-        temperature: 7099 K<br />(6826 °C)
+        temperature: 388 K<br />(114 °C)
   - name: 2475 Lunaiad II
     type: Terrestrial
     aphelion: 480,283,753 km<br />3.210 AU
@@ -76,14 +76,14 @@ planets:
     radius: 8,082.9 km<br/>(1.269 Yrths)
     surface_area: 8.210 × 10<sup>08</sup> km<sup>2</sup><br/>(1.610 Yrths)
     volume: 2.212 × 10<sup>12</sup> km<sup>3</sup><br/>(2.042 Yrths)
-    mass: 1.130 × 10<sup>25</sup> kg<br />(1.891896384015543 Yrths)
+    mass: 1.130 × 10<sup>25</sup> kg<br />(1.89 Yrths)
     density: 5.108 g/cm<sup>3</sup>
     surface_gravity: 11.527 m/s<sup>2</sup><br />(1.175 g<sub>0</sub>)
     escape_velocity: 13.660 km/s<br />(49,175 km/h)
     rotation_period: 0.848 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 464 K<br />(191 °C)
+    temperature: 1251 K<br />(977 °C)
     surface_pressure: 208 kPa<br />(2 atm)
     composition:
       - 91.9058% carbon dioxide
@@ -103,12 +103,12 @@ planets:
         radius: 6,032.8 km<br/>(0.947 Yrths)
         surface_area: 4.574 × 10<sup>08</sup> km<sup>2</sup><br/>(0.897 Yrths)
         volume: 9.197 × 10<sup>11</sup> km<sup>3</sup><br/>(0.849 Yrths)
-        mass: 1.219 × 10<sup>24</sup> kg<br />(1.891896384015543 Yrths)
+        mass: 1.219 × 10<sup>24</sup> kg<br />(0.204 Yrths)
         density: 1.325 g/cm<sup>3</sup>
         surface_gravity: 2.232 m/s<sup>2</sup><br />(0.228 g<sub>0</sub>)
         escape_velocity: 5.193 km/s<br />(18,694 km/h)
         rotation_period: 53.804 d
         axial_tilt: 11.35°
         albedo: 0.30
-        temperature: 5106 K<br />(4833 °C)
+        temperature: 280 K<br />(7 °C)
 ---

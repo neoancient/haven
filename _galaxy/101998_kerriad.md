@@ -21,860 +21,822 @@ age: 3.6 Gyr
 temperature: 4,428 K
 planets:
   - name: 101998 Kerriad I
-    type: Ice giant
-    aphelion: 40,610,286 km<br />0.271 AU
-    perihelion: 38,691,522 km<br />0.259 AU
-    semi_major_axis: 39,650,904 km<br />0.265 AU
-    eccentricity: 0.024
-    orbital_period: 62.62 d<br />0.171 y
-    inclination: 19.99°
-    radius: 25,097.6 km<br/>(3.939 Yrths)
-    surface_area: 7.915 × 10<sup>09</sup> km<sup>2</sup><br/>(15.518 Yrths)
-    volume: 6.622 × 10<sup>13</sup> km<sup>3</sup><br/>(61.133 Yrths)
-    mass: 9.999 × 10<sup>25</sup> kg<br />(16.74 Yrths)
-    density: 1.510 g/cm<sup>3</sup>
-    surface_gravity: 10.581 m/s<sup>2</sup><br />(1.079 g<sub>0</sub>)
-    escape_velocity: 23.062 km/s<br />(83,022 km/h)
-    rotation_period: 1.122 d
-    axial_tilt: 0.00°
-    albedo: 0.50
-    temperature: 484 K<br />(211 °C)
-    composition:
-      - 61.9162% hydrogen
-      - 38.0838% helium
-    moons:
-      - name: 101998 Kerriad I a
-        type: Icy
-        formationType: Captured
-        aphelion: 692,749 km<br />
-        perihelion: 488,833 km<br />
-        semi_major_axis: 590,791 km<br />
-        eccentricity: 0.173
-        orbital_period: 0.00 d<br />
-        inclination: 35.20°
-        radius: 24,379.1 km<br/>(3.827 Yrths)
-        surface_area: 7.469 × 10<sup>09</sup> km<sup>2</sup><br/>(14.643 Yrths)
-        volume: 6.069 × 10<sup>13</sup> km<sup>3</sup><br/>(56.031 Yrths)
-        mass: 8.931 × 10<sup>25</sup> kg<br />(16.743856429965337 Yrths)
-        density: 1.472 g/cm<sup>3</sup>
-        surface_gravity: 10.016 m/s<sup>2</sup><br />(1.021 g<sub>0</sub>)
-        escape_velocity: 22.114 km/s<br />(79,611 km/h)
-        rotation_period: 42.287 d
-        axial_tilt: 15.15°
-        albedo: 0.30
-        temperature: 2612 K<br />(2339 °C)
-      - name: 101998 Kerriad I b
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 737,936 km<br />
-        perihelion: 691,778 km<br />
-        semi_major_axis: 714,857 km<br />
-        eccentricity: 0.032
-        orbital_period: 0.00 d<br />
-        inclination: 0.95°
-        radius: 18,881.0 km<br/>(2.964 Yrths)
-        surface_area: 4.480 × 10<sup>09</sup> km<sup>2</sup><br/>(8.783 Yrths)
-        volume: 2.819 × 10<sup>13</sup> km<sup>3</sup><br/>(26.029 Yrths)
-        mass: 5.549 × 10<sup>25</sup> kg<br />(16.743856429965337 Yrths)
-        density: 1.968 g/cm<sup>3</sup>
-        surface_gravity: 10.375 m/s<sup>2</sup><br />(1.058 g<sub>0</sub>)
-        escape_velocity: 19.807 km/s<br />(71,304 km/h)
-        rotation_period: 64.361 d
-        axial_tilt: 18.24°
-        albedo: 0.30
-        temperature: 2375 K<br />(2101 °C)
-      - name: 101998 Kerriad I c
-        type: Rocky
-        formationType: Accreted
-        aphelion: 822,971 km<br />
-        perihelion: 749,714 km<br />
-        semi_major_axis: 786,343 km<br />
-        eccentricity: 0.047
-        orbital_period: 0.00 d<br />
-        inclination: 2.23°
-        radius: 8,383.0 km<br/>(1.316 Yrths)
-        surface_area: 8.831 × 10<sup>08</sup> km<sup>2</sup><br/>(1.731 Yrths)
-        volume: 2.468 × 10<sup>12</sup> km<sup>3</sup><br/>(2.278 Yrths)
-        mass: 8.367 × 10<sup>24</sup> kg<br />(16.743856429965337 Yrths)
-        density: 3.391 g/cm<sup>3</sup>
-        surface_gravity: 7.936 m/s<sup>2</sup><br />(0.809 g<sub>0</sub>)
-        escape_velocity: 11.543 km/s<br />(41,554 km/h)
-        rotation_period: 29.183 d
-        axial_tilt: 18.05°
-        albedo: 0.30
-        temperature: 2264 K<br />(1991 °C)
-      - name: 101998 Kerriad I d
-        type: Rocky
-        formationType: Captured
-        aphelion: 949,118 km<br />
-        perihelion: 780,836 km<br />
-        semi_major_axis: 864,977 km<br />
-        eccentricity: 0.097
-        orbital_period: 0.00 d<br />
-        inclination: 0.00°
-        radius: 12,656.5 km<br/>(1.987 Yrths)
-        surface_area: 2.013 × 10<sup>09</sup> km<sup>2</sup><br/>(3.947 Yrths)
-        volume: 8.492 × 10<sup>12</sup> km<sup>3</sup><br/>(7.840 Yrths)
-        mass: 2.210 × 10<sup>25</sup> kg<br />(16.743856429965337 Yrths)
-        density: 2.602 g/cm<sup>3</sup>
-        surface_gravity: 9.195 m/s<sup>2</sup><br />(0.938 g<sub>0</sub>)
-        escape_velocity: 15.267 km/s<br />(54,961 km/h)
-        rotation_period: 37.806 d
-        axial_tilt: 15.00°
-        albedo: 0.30
-        temperature: 2159 K<br />(1886 °C)
-  - name: <a href="volanti_nexus.html">Volanti Nexus</a> (101998 Kerriad II)
     type: Terrestrial
-    aphelion: 63,623,259 km<br />0.425 AU
-    perihelion: 59,580,556 km<br />0.398 AU
-    semi_major_axis: 61,601,908 km<br />0.412 AU
-    eccentricity: 0.033
-    orbital_period: 121.27 d<br />0.332 y
-    inclination: 37.59°
-    radius: 6,924.1 km<br/>(1.087 Yrths)
-    surface_area: 6.025 × 10<sup>08</sup> km<sup>2</sup><br/>(1.181 Yrths)
-    volume: 1.391 × 10<sup>12</sup> km<sup>3</sup><br/>(1.284 Yrths)
-    mass: 6.970 × 10<sup>24</sup> kg<br />(1.17 Yrths)
-    density: 5.012 g/cm<sup>3</sup>
-    surface_gravity: 9.690 m/s<sup>2</sup><br />(0.988 g<sub>0</sub>)
-    escape_velocity: 11.592 km/s<br />(41,730 km/h)
-    rotation_period: 1.994 d
+    aphelion: 40,013,730 km<br />0.267 AU
+    perihelion: 39,288,077 km<br />0.263 AU
+    semi_major_axis: 39,650,904 km<br />0.265 AU
+    eccentricity: 0.009
+    orbital_period: 62.62 d<br />0.171 y
+    inclination: 12.74°
+    radius: 3,144.8 km<br/>(0.494 Yrths)
+    surface_area: 1.243 × 10<sup>08</sup> km<sup>2</sup><br/>(0.244 Yrths)
+    volume: 1.303 × 10<sup>11</sup> km<sup>3</sup><br/>(0.120 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
+    density: 4.584 g/cm<sup>3</sup>
+    surface_gravity: 4.025 m/s<sup>2</sup><br />(0.410 g<sub>0</sub>)
+    escape_velocity: 5.035 km/s<br />(18,125 km/h)
+    rotation_period: 6.023 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 269 K<br />(-4 °C)
-    surface_pressure: 84 kPa<br />(1 atm)
+    temperature: 704 K<br />(431 °C)
+    surface_pressure: 5 kPa<br />(0 atm)
     composition:
-      - 78.7534% nitrogen
-      - 20.5951% oxygen
-      - 0.6315% argon
-      - 0.0200% carbon dioxide
+      - 73.0282% methane
+      - 24.8961% carbon dioxide
+      - 2.0756% hydrogen sulfide
+    moons:
+      - name: 101998 Kerriad I a
+        type: Rocky
+        formationType: Accreted
+        aphelion: 107,193 km<br />
+        perihelion: 107,184 km<br />
+        semi_major_axis: 107,189 km<br />
+        eccentricity: 0.000
+        orbital_period: 0.03 d<br />
+        inclination: 1.99°
+        radius: 518.2 km<br/>(0.081 Yrths)
+        surface_area: 3.375 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
+        volume: 5.830 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
+        mass: 1.927 × 10<sup>21</sup> kg<br />(0.000 Yrths)
+        density: 3.305 g/cm<sup>3</sup>
+        surface_gravity: 0.478 m/s<sup>2</sup><br />(0.049 g<sub>0</sub>)
+        escape_velocity: 0.704 km/s<br />(2,536 km/h)
+        rotation_period: 39.153 d
+        axial_tilt: 8.91°
+        albedo: 0.30
+        temperature: 319 K<br />(46 °C)
+  - name: <a href="volanti_nexus.html">Volanti Nexus</a> (101998 Kerriad II)
+    type: Terrestrial
+    aphelion: 63,008,288 km<br />0.421 AU
+    perihelion: 60,195,527 km<br />0.402 AU
+    semi_major_axis: 61,601,908 km<br />0.412 AU
+    eccentricity: 0.023
+    orbital_period: 121.27 d<br />0.332 y
+    inclination: 15.84°
+    radius: 7,517.1 km<br/>(1.180 Yrths)
+    surface_area: 7.101 × 10<sup>08</sup> km<sup>2</sup><br/>(1.392 Yrths)
+    volume: 1.779 × 10<sup>12</sup> km<sup>3</sup><br/>(1.643 Yrths)
+    mass: 8.101 × 10<sup>24</sup> kg<br />(1.36 Yrths)
+    density: 4.553 g/cm<sup>3</sup>
+    surface_gravity: 9.556 m/s<sup>2</sup><br />(0.974 g<sub>0</sub>)
+    escape_velocity: 11.994 km/s<br />(43,179 km/h)
+    rotation_period: 1.906 d
+    axial_tilt: 0.00°
+    albedo: 0.30
+    temperature: 278 K<br />(4 °C)
+    surface_pressure: 123 kPa<br />(1 atm)
+    composition:
+      - 77.3374% nitrogen
+      - 20.2505% oxygen
+      - 1.6732% hydrogen sulfide
+      - 0.6209% argon
+      - 0.1180% carbon dioxide
     moons:
       - name: Volanti Nexus a
         type: Rocky
-        formationType: Captured
-        aphelion: 378,262 km<br />
-        perihelion: 377,211 km<br />
-        semi_major_axis: 377,737 km<br />
-        eccentricity: 0.001
+        formationType: Impact formed
+        aphelion: 468,806 km<br />
+        perihelion: 325,512 km<br />
+        semi_major_axis: 397,159 km<br />
+        eccentricity: 0.180
         orbital_period: 0.01 d<br />
-        inclination: 3.63°
-        radius: 3,006.0 km<br/>(0.472 Yrths)
-        surface_area: 1.135 × 10<sup>08</sup> km<sup>2</sup><br/>(0.223 Yrths)
-        volume: 1.138 × 10<sup>11</sup> km<sup>3</sup><br/>(0.105 Yrths)
-        mass: 3.210 × 10<sup>23</sup> kg<br />(1.1670755618598394 Yrths)
-        density: 2.822 g/cm<sup>3</sup>
-        surface_gravity: 2.368 m/s<sup>2</sup><br />(0.241 g<sub>0</sub>)
-        escape_velocity: 3.776 km/s<br />(13,592 km/h)
-        rotation_period: 44.783 d
-        axial_tilt: 9.19°
+        inclination: 6.01°
+        radius: 2,126.1 km<br/>(0.334 Yrths)
+        surface_area: 5.681 × 10<sup>07</sup> km<sup>2</sup><br/>(0.111 Yrths)
+        volume: 4.026 × 10<sup>10</sup> km<sup>3</sup><br/>(0.037 Yrths)
+        mass: 1.449 × 10<sup>23</sup> kg<br />(0.024 Yrths)
+        density: 3.600 g/cm<sup>3</sup>
+        surface_gravity: 2.137 m/s<sup>2</sup><br />(0.218 g<sub>0</sub>)
+        escape_velocity: 3.016 km/s<br />(10,859 km/h)
+        rotation_period: 51.340 d
+        axial_tilt: 9.90°
         albedo: 0.30
-        temperature: 3267 K<br />(2994 °C)
+        temperature: 256 K<br />(-17 °C)
   - name: 101998 Kerriad III
     type: Terrestrial
-    aphelion: 96,725,342 km<br />0.647 AU
-    perihelion: 94,684,924 km<br />0.633 AU
+    aphelion: 97,506,906 km<br />0.652 AU
+    perihelion: 93,903,360 km<br />0.628 AU
     semi_major_axis: 95,705,133 km<br />0.640 AU
-    eccentricity: 0.011
+    eccentricity: 0.019
     orbital_period: 234.83 d<br />0.643 y
-    inclination: 37.64°
-    radius: 5,717.0 km<br/>(0.897 Yrths)
-    surface_area: 4.107 × 10<sup>08</sup> km<sup>2</sup><br/>(0.805 Yrths)
-    volume: 7.827 × 10<sup>11</sup> km<sup>3</sup><br/>(0.723 Yrths)
-    mass: 4.035 × 10<sup>24</sup> kg<br />(0.68 Yrths)
-    density: 5.155 g/cm<sup>3</sup>
-    surface_gravity: 8.229 m/s<sup>2</sup><br />(0.839 g<sub>0</sub>)
-    escape_velocity: 9.707 km/s<br />(34,944 km/h)
-    rotation_period: 1.740 d
+    inclination: 22.54°
+    radius: 7,171.8 km<br/>(1.126 Yrths)
+    surface_area: 6.463 × 10<sup>08</sup> km<sup>2</sup><br/>(1.267 Yrths)
+    volume: 1.545 × 10<sup>12</sup> km<sup>3</sup><br/>(1.426 Yrths)
+    mass: 8.242 × 10<sup>24</sup> kg<br />(1.38 Yrths)
+    density: 5.334 g/cm<sup>3</sup>
+    surface_gravity: 10.680 m/s<sup>2</sup><br />(1.089 g<sub>0</sub>)
+    escape_velocity: 12.386 km/s<br />(44,588 km/h)
+    rotation_period: 1.404 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 218 K<br />(-55 °C)
+    temperature: 288 K<br />(14 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
-      - 79.0783% nitrogen
-      - 13.6761% carbon dioxide
-      - 3.9779% hydrochloric acid
-      - 2.5915% carbon monoxide
-      - 0.6762% sulfur dioxide
+      - 86.0745% nitrogen
+      - 11.6172% carbon dioxide
+      - 2.3083% carbon monoxide
     moons:
       - name: 101998 Kerriad III a
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 494,479 km<br />
-        perihelion: 483,756 km<br />
-        semi_major_axis: 489,118 km<br />
-        eccentricity: 0.011
-        orbital_period: 0.04 d<br />
-        inclination: 0.28°
-        radius: 306.0 km<br/>(0.048 Yrths)
-        surface_area: 1.177 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
-        volume: 1.201 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.231 × 10<sup>20</sup> kg<br />(0.6756918588101326 Yrths)
-        density: 1.858 g/cm<sup>3</sup>
-        surface_gravity: 0.159 m/s<sup>2</sup><br />(0.016 g<sub>0</sub>)
-        escape_velocity: 0.312 km/s<br />(1,123 km/h)
-        rotation_period: 39.406 d
-        axial_tilt: 18.49°
-        albedo: 0.30
-        temperature: 3007 K<br />(2734 °C)
-      - name: 101998 Kerriad III b
         type: Rocky
         formationType: Impact formed
-        aphelion: 560,913 km<br />
-        perihelion: 515,146 km<br />
-        semi_major_axis: 538,030 km<br />
-        eccentricity: 0.043
-        orbital_period: 0.04 d<br />
-        inclination: 2.35°
-        radius: 1,621.5 km<br/>(0.255 Yrths)
-        surface_area: 3.304 × 10<sup>07</sup> km<sup>2</sup><br/>(0.065 Yrths)
-        volume: 1.786 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
-        mass: 4.286 × 10<sup>22</sup> kg<br />(0.6756918588101326 Yrths)
-        density: 2.400 g/cm<sup>3</sup>
-        surface_gravity: 1.087 m/s<sup>2</sup><br />(0.111 g<sub>0</sub>)
-        escape_velocity: 1.878 km/s<br />(6,762 km/h)
-        rotation_period: 32.686 d
-        axial_tilt: 20.23°
+        aphelion: 690,274 km<br />
+        perihelion: 550,886 km<br />
+        semi_major_axis: 620,580 km<br />
+        eccentricity: 0.112
+        orbital_period: 0.03 d<br />
+        inclination: 1.15°
+        radius: 2,196.6 km<br/>(0.345 Yrths)
+        surface_area: 6.063 × 10<sup>07</sup> km<sup>2</sup><br/>(0.119 Yrths)
+        volume: 4.440 × 10<sup>10</sup> km<sup>3</sup><br/>(0.041 Yrths)
+        mass: 1.289 × 10<sup>23</sup> kg<br />(0.022 Yrths)
+        density: 2.902 g/cm<sup>3</sup>
+        surface_gravity: 1.780 m/s<sup>2</sup><br />(0.182 g<sub>0</sub>)
+        escape_velocity: 2.798 km/s<br />(10,074 km/h)
+        rotation_period: 35.162 d
+        axial_tilt: 18.69°
         albedo: 0.30
-        temperature: 2867 K<br />(2594 °C)
-  - name: 101998 Kerriad IV
-    type: Terrestrial
-    aphelion: 148,688,130 km<br />0.994 AU
-    perihelion: 148,688,130 km<br />0.994 AU
-    semi_major_axis: 148,688,130 km<br />0.994 AU
-    eccentricity: 0.000
-    orbital_period: 454.74 d<br />1.245 y
-    inclination: 37.22°
-    radius: 5,351.0 km<br/>(0.840 Yrths)
-    surface_area: 3.598 × 10<sup>08</sup> km<sup>2</sup><br/>(0.705 Yrths)
-    volume: 6.418 × 10<sup>11</sup> km<sup>3</sup><br/>(0.592 Yrths)
-    mass: 3.599 × 10<sup>24</sup> kg<br />(0.60 Yrths)
-    density: 5.608 g/cm<sup>3</sup>
-    surface_gravity: 8.377 m/s<sup>2</sup><br />(0.854 g<sub>0</sub>)
-    escape_velocity: 9.475 km/s<br />(34,110 km/h)
-    rotation_period: 1.462 d
-    axial_tilt: 0.00°
-    albedo: 0.30
-    temperature: 170 K<br />(-103 °C)
-    surface_pressure: 22 kPa<br />(0 atm)
-    composition:
-      - 69.3821% nitrogen
-      - 21.5021% ammonia
-      - 4.8910% hydrogen sulfide
-      - 4.2248% water vapor
-    moons:
-      - name: 101998 Kerriad IV a
+        temperature: 205 K<br />(-68 °C)
+      - name: 101998 Kerriad III b
         type: Asteroid
         formationType: Captured
-        aphelion: 777,335 km<br />
-        perihelion: 685,571 km<br />
-        semi_major_axis: 731,453 km<br />
-        eccentricity: 0.063
-        orbital_period: 0.08 d<br />
-        inclination: 2.72°
-        radius: 725.6 km<br/>(0.114 Yrths)
-        surface_area: 6.616 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
-        volume: 1.600 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.637 × 10<sup>21</sup> kg<br />(0.6026203497899263 Yrths)
-        density: 2.273 g/cm<sup>3</sup>
-        surface_gravity: 0.460 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
-        escape_velocity: 0.818 km/s<br />(2,945 km/h)
-        rotation_period: 49.275 d
-        axial_tilt: 39.57°
+        aphelion: 866,577 km<br />
+        perihelion: 498,699 km<br />
+        semi_major_axis: 682,638 km<br />
+        eccentricity: 0.269
+        orbital_period: 0.03 d<br />
+        inclination: 38.78°
+        radius: 2,767.7 km<br/>(0.434 Yrths)
+        surface_area: 9.626 × 10<sup>07</sup> km<sup>2</sup><br/>(0.189 Yrths)
+        volume: 8.881 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
+        mass: 3.286 × 10<sup>23</sup> kg<br />(0.055 Yrths)
+        density: 3.700 g/cm<sup>3</sup>
+        surface_gravity: 2.859 m/s<sup>2</sup><br />(0.292 g<sub>0</sub>)
+        escape_velocity: 3.981 km/s<br />(14,331 km/h)
+        rotation_period: 50.514 d
+        axial_tilt: 18.71°
         albedo: 0.30
-        temperature: 2384 K<br />(2111 °C)
-      - name: 101998 Kerriad IV b
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 935,577 km<br />
-        perihelion: 673,620 km<br />
-        semi_major_axis: 804,598 km<br />
-        eccentricity: 0.163
-        orbital_period: 0.08 d<br />
-        inclination: 21.22°
-        radius: 1,649.9 km<br/>(0.259 Yrths)
-        surface_area: 3.421 × 10<sup>07</sup> km<sup>2</sup><br/>(0.067 Yrths)
-        volume: 1.881 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 3.975 × 10<sup>22</sup> kg<br />(0.6026203497899263 Yrths)
-        density: 2.113 g/cm<sup>3</sup>
-        surface_gravity: 0.973 m/s<sup>2</sup><br />(0.099 g<sub>0</sub>)
-        escape_velocity: 1.793 km/s<br />(6,456 km/h)
-        rotation_period: 36.100 d
-        axial_tilt: 20.88°
-        albedo: 0.30
-        temperature: 2273 K<br />(2000 °C)
-  - name: 101998 Kerriad V
-    type: Terrestrial
-    aphelion: 232,433,163 km<br />1.554 AU
-    perihelion: 229,572,572 km<br />1.535 AU
-    semi_major_axis: 231,002,868 km<br />1.544 AU
-    eccentricity: 0.006
-    orbital_period: 880.58 d<br />2.411 y
-    inclination: 0.00°
-    radius: 7,133.7 km<br/>(1.120 Yrths)
-    surface_area: 6.395 × 10<sup>08</sup> km<sup>2</sup><br/>(1.254 Yrths)
-    volume: 1.521 × 10<sup>12</sup> km<sup>3</sup><br/>(1.404 Yrths)
-    mass: 7.440 × 10<sup>24</sup> kg<br />(1.25 Yrths)
-    density: 4.892 g/cm<sup>3</sup>
-    surface_gravity: 9.744 m/s<sup>2</sup><br />(0.994 g<sub>0</sub>)
-    escape_velocity: 11.799 km/s<br />(42,476 km/h)
-    rotation_period: 1.042 d
+        temperature: 205 K<br />(-68 °C)
+  - name: 101998 Kerriad IV
+    type: Large terrestrial
+    aphelion: 148,937,982 km<br />0.996 AU
+    perihelion: 148,438,279 km<br />0.992 AU
+    semi_major_axis: 148,688,130 km<br />0.994 AU
+    eccentricity: 0.002
+    orbital_period: 454.74 d<br />1.245 y
+    inclination: 42.73°
+    radius: 6,618.4 km<br/>(1.039 Yrths)
+    surface_area: 5.504 × 10<sup>08</sup> km<sup>2</sup><br/>(1.079 Yrths)
+    volume: 1.214 × 10<sup>12</sup> km<sup>3</sup><br/>(1.121 Yrths)
+    mass: 7.552 × 10<sup>24</sup> kg<br />(1.26 Yrths)
+    density: 6.219 g/cm<sup>3</sup>
+    surface_gravity: 11.491 m/s<sup>2</sup><br />(1.172 g<sub>0</sub>)
+    escape_velocity: 12.342 km/s<br />(44,430 km/h)
+    rotation_period: 1.111 d
     axial_tilt: 0.00°
-    albedo: 0.30
-    temperature: 165 K<br />(-108 °C)
-    surface_pressure: 22 kPa<br />(0 atm)
+    albedo: 0.35
+    temperature: 260 K<br />(-13 °C)
+    surface_pressure: 99 kPa<br />(1 atm)
     composition:
-      - 68.2803% carbon dioxide
-      - 18.1467% nitrogen
-      - 11.1980% methane
-      - 2.3750% argon
+      - 76.4518% methane
+      - 20.8447% ammonia
+      - 1.0425% water vapor
+      - 0.7975% carbon dioxide
+      - 0.4898% nitric oxide
+      - 0.3736% hydrogen sulfide
+    moons:
+      - name: 101998 Kerriad IV a
+        type: Rocky
+        formationType: Captured
+        aphelion: 1,031,952 km<br />
+        perihelion: 840,948 km<br />
+        semi_major_axis: 936,450 km<br />
+        eccentricity: 0.102
+        orbital_period: 0.05 d<br />
+        inclination: 3.17°
+        radius: 2,308.3 km<br/>(0.362 Yrths)
+        surface_area: 6.696 × 10<sup>07</sup> km<sup>2</sup><br/>(0.131 Yrths)
+        volume: 5.152 × 10<sup>10</sup> km<sup>3</sup><br/>(0.048 Yrths)
+        mass: 1.426 × 10<sup>23</sup> kg<br />(0.024 Yrths)
+        density: 2.768 g/cm<sup>3</sup>
+        surface_gravity: 1.784 m/s<sup>2</sup><br />(0.182 g<sub>0</sub>)
+        escape_velocity: 2.872 km/s<br />(10,338 km/h)
+        rotation_period: 56.720 d
+        axial_tilt: 19.01°
+        albedo: 0.30
+        temperature: 165 K<br />(-109 °C)
+      - name: 101998 Kerriad IV b
+        type: Asteroid
+        formationType: Captured
+        aphelion: 1,072,890 km<br />
+        perihelion: 987,300 km<br />
+        semi_major_axis: 1,030,095 km<br />
+        eccentricity: 0.042
+        orbital_period: 0.05 d<br />
+        inclination: 2.58°
+        radius: 2,798.4 km<br/>(0.439 Yrths)
+        surface_area: 9.841 × 10<sup>07</sup> km<sup>2</sup><br/>(0.193 Yrths)
+        volume: 9.180 × 10<sup>10</sup> km<sup>3</sup><br/>(0.085 Yrths)
+        mass: 2.443 × 10<sup>23</sup> kg<br />(0.041 Yrths)
+        density: 2.661 g/cm<sup>3</sup>
+        surface_gravity: 2.079 m/s<sup>2</sup><br />(0.212 g<sub>0</sub>)
+        escape_velocity: 3.413 km/s<br />(12,288 km/h)
+        rotation_period: 56.955 d
+        axial_tilt: 50.28°
+        albedo: 0.30
+        temperature: 165 K<br />(-109 °C)
+      - name: 101998 Kerriad IV c
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 1,335,549 km<br />
+        perihelion: 930,659 km<br />
+        semi_major_axis: 1,133,104 km<br />
+        eccentricity: 0.179
+        orbital_period: 0.05 d<br />
+        inclination: 60.29°
+        radius: 1,434.0 km<br/>(0.225 Yrths)
+        surface_area: 2.584 × 10<sup>07</sup> km<sup>2</sup><br/>(0.051 Yrths)
+        volume: 1.235 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
+        mass: 2.670 × 10<sup>22</sup> kg<br />(0.004 Yrths)
+        density: 2.162 g/cm<sup>3</sup>
+        surface_gravity: 0.865 m/s<sup>2</sup><br />(0.088 g<sub>0</sub>)
+        escape_velocity: 1.577 km/s<br />(5,676 km/h)
+        rotation_period: 34.562 d
+        axial_tilt: 11.94°
+        albedo: 0.30
+        temperature: 165 K<br />(-109 °C)
+  - name: 101998 Kerriad V
+    type: Large terrestrial
+    aphelion: 237,106,611 km<br />1.585 AU
+    perihelion: 224,899,124 km<br />1.503 AU
+    semi_major_axis: 231,002,868 km<br />1.544 AU
+    eccentricity: 0.026
+    orbital_period: 880.58 d<br />2.411 y
+    inclination: 80.95°
+    radius: 9,110.8 km<br/>(1.430 Yrths)
+    surface_area: 1.043 × 10<sup>09</sup> km<sup>2</sup><br/>(2.045 Yrths)
+    volume: 3.168 × 10<sup>12</sup> km<sup>3</sup><br/>(2.924 Yrths)
+    mass: 2.187 × 10<sup>25</sup> kg<br />(3.66 Yrths)
+    density: 6.903 g/cm<sup>3</sup>
+    surface_gravity: 17.560 m/s<sup>2</sup><br />(1.791 g<sub>0</sub>)
+    escape_velocity: 17.900 km/s<br />(64,440 km/h)
+    rotation_period: 0.772 d
+    axial_tilt: 0.00°
+    albedo: 0.35
+    temperature: 130 K<br />(-143 °C)
     moons:
       - name: 101998 Kerriad V a
         type: Rocky
         formationType: Impact formed
-        aphelion: 1,606,278 km<br />
-        perihelion: 1,288,988 km<br />
-        semi_major_axis: 1,447,633 km<br />
-        eccentricity: 0.110
-        orbital_period: 0.10 d<br />
-        inclination: 3.31°
-        radius: 2,986.7 km<br/>(0.469 Yrths)
-        surface_area: 1.121 × 10<sup>08</sup> km<sup>2</sup><br/>(0.220 Yrths)
-        volume: 1.116 × 10<sup>11</sup> km<sup>3</sup><br/>(0.103 Yrths)
-        mass: 3.275 × 10<sup>23</sup> kg<br />(1.245767762968251 Yrths)
-        density: 2.935 g/cm<sup>3</sup>
-        surface_gravity: 2.447 m/s<sup>2</sup><br />(0.250 g<sub>0</sub>)
-        escape_velocity: 3.826 km/s<br />(13,774 km/h)
-        rotation_period: 37.219 d
-        axial_tilt: 16.85°
+        aphelion: 2,843,340 km<br />
+        perihelion: 1,304,088 km<br />
+        semi_major_axis: 2,073,714 km<br />
+        eccentricity: 0.371
+        orbital_period: 0.06 d<br />
+        inclination: 51.13°
+        radius: 6,309.0 km<br/>(0.990 Yrths)
+        surface_area: 5.002 × 10<sup>08</sup> km<sup>2</sup><br/>(0.981 Yrths)
+        volume: 1.052 × 10<sup>12</sup> km<sup>3</sup><br/>(0.971 Yrths)
+        mass: 3.441 × 10<sup>24</sup> kg<br />(0.576 Yrths)
+        density: 3.272 g/cm<sup>3</sup>
+        surface_gravity: 5.763 m/s<sup>2</sup><br />(0.588 g<sub>0</sub>)
+        escape_velocity: 8.533 km/s<br />(30,719 km/h)
+        rotation_period: 40.284 d
+        axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 2054 K<br />(1781 °C)
-      - name: 101998 Kerriad V b
-        type: Asteroid
-        formationType: Captured
-        aphelion: 1,625,646 km<br />
-        perihelion: 1,559,147 km<br />
-        semi_major_axis: 1,592,396 km<br />
-        eccentricity: 0.021
-        orbital_period: 0.10 d<br />
-        inclination: 1.54°
-        radius: 2,140.3 km<br/>(0.336 Yrths)
-        surface_area: 5.757 × 10<sup>07</sup> km<sup>2</sup><br/>(0.113 Yrths)
-        volume: 4.107 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 9.159 × 10<sup>22</sup> kg<br />(1.245767762968251 Yrths)
-        density: 2.230 g/cm<sup>3</sup>
-        surface_gravity: 1.333 m/s<sup>2</sup><br />(0.136 g<sub>0</sub>)
-        escape_velocity: 2.390 km/s<br />(8,604 km/h)
-        rotation_period: 35.681 d
-        axial_tilt: 43.73°
-        albedo: 0.30
-        temperature: 1958 K<br />(1685 °C)
+        temperature: 132 K<br />(-141 °C)
   - name: 101998 Kerriad VI
-    type: Ice giant
-    aphelion: 366,360,121 km<br />2.449 AU
-    perihelion: 351,415,059 km<br />2.349 AU
+    type: Gas giant
+    aphelion: 363,879,373 km<br />2.432 AU
+    perihelion: 353,895,808 km<br />2.366 AU
     semi_major_axis: 358,887,590 km<br />2.399 AU
-    eccentricity: 0.021
+    eccentricity: 0.014
     orbital_period: 1,705.23 d<br />4.669 y
-    inclination: 36.56°
-    radius: 20,480.8 km<br/>(3.215 Yrths)
-    surface_area: 5.271 × 10<sup>09</sup> km<sup>2</sup><br/>(10.334 Yrths)
-    volume: 3.599 × 10<sup>13</sup> km<sup>3</sup><br/>(33.222 Yrths)
-    mass: 5.293 × 10<sup>25</sup> kg<br />(8.86 Yrths)
-    density: 1.471 g/cm<sup>3</sup>
-    surface_gravity: 8.410 m/s<sup>2</sup><br />(0.858 g<sub>0</sub>)
-    escape_velocity: 18.573 km/s<br />(66,865 km/h)
-    rotation_period: 0.479 d
+    inclination: 49.35°
+    radius: 189.2 km<br/>(0.030 Yrths)
+    surface_area: 4.499 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
+    volume: 2.838 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
+    mass: 7.934 × 10<sup>26</sup> kg<br />(132.85 Yrths)
+    density: 27958608.296 g/cm<sup>3</sup>
+    surface_gravity: 1477000.226 m/s<sup>2</sup><br />(150612.108 g<sub>0</sub>)
+    escape_velocity: 748.135 km/s<br />(2,693,288 km/h)
+    rotation_period: 0.256 d
     axial_tilt: 0.00°
-    albedo: 0.50
-    temperature: 174 K<br />(-99 °C)
-    composition:
-      - 73.6566% hydrogen
-      - 22.3483% helium
-      - 3.1414% argon
-      - 0.8537% methane
+    albedo: 0.40
+    temperature: 102 K<br />(-171 °C)
     moons:
       - name: 101998 Kerriad VI a
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 4,873,497 km<br />
-        perihelion: 3,777,717 km<br />
-        semi_major_axis: 4,325,607 km<br />
-        eccentricity: 0.127
-        orbital_period: 0.07 d<br />
-        inclination: 0.97°
-        radius: 12,610.6 km<br/>(1.979 Yrths)
-        surface_area: 1.998 × 10<sup>09</sup> km<sup>2</sup><br/>(3.918 Yrths)
-        volume: 8.400 × 10<sup>12</sup> km<sup>3</sup><br/>(7.755 Yrths)
-        mass: 1.653 × 10<sup>25</sup> kg<br />(8.86297347034766 Yrths)
-        density: 1.968 g/cm<sup>3</sup>
-        surface_gravity: 6.929 m/s<sup>2</sup><br />(0.707 g<sub>0</sub>)
-        escape_velocity: 13.229 km/s<br />(47,623 km/h)
-        rotation_period: 39.284 d
-        axial_tilt: 21.50°
-        albedo: 0.30
-        temperature: 966 K<br />(693 °C)
-      - name: 101998 Kerriad VI b
         type: Icy
-        formationType: Impact formed
-        aphelion: 5,335,801 km<br />
-        perihelion: 5,132,167 km<br />
-        semi_major_axis: 5,233,984 km<br />
-        eccentricity: 0.019
-        orbital_period: 0.07 d<br />
-        inclination: 4.35°
-        radius: 3,653.3 km<br/>(0.573 Yrths)
-        surface_area: 1.677 × 10<sup>08</sup> km<sup>2</sup><br/>(0.329 Yrths)
-        volume: 2.042 × 10<sup>11</sup> km<sup>3</sup><br/>(0.189 Yrths)
-        mass: 2.693 × 10<sup>23</sup> kg<br />(8.86297347034766 Yrths)
-        density: 1.319 g/cm<sup>3</sup>
-        surface_gravity: 1.345 m/s<sup>2</sup><br />(0.137 g<sub>0</sub>)
-        escape_velocity: 3.137 km/s<br />(11,293 km/h)
-        rotation_period: 56.394 d
-        axial_tilt: 19.48°
+        formationType: Accreted
+        aphelion: 51,754,726 km<br />
+        perihelion: 46,259,388 km<br />
+        semi_major_axis: 49,007,057 km<br />
+        eccentricity: 0.056
+        orbital_period: 0.02 d<br />
+        inclination: 1.30°
+        radius: 148,630.2 km<br/>(23.329 Yrths)
+        surface_area: 2.776 × 10<sup>11</sup> km<sup>2</sup><br/>(544.251 Yrths)
+        volume: 1.375 × 10<sup>16</sup> km<sup>3</sup><br/>(12696.928 Yrths)
+        mass: 1.636 × 10<sup>28</sup> kg<br />(2740.023 Yrths)
+        density: 1.190 g/cm<sup>3</sup>
+        surface_gravity: 49.371 m/s<sup>2</sup><br />(5.034 g<sub>0</sub>)
+        escape_velocity: 121.228 km/s<br />(436,419 km/h)
+        rotation_period: 54.604 d
+        axial_tilt: 16.13°
         albedo: 0.30
-        temperature: 878 K<br />(605 °C)
-      - name: 101998 Kerriad VI c
+        temperature: 106 K<br />(-167 °C)
+      - name: 101998 Kerriad VI b
         type: Asteroid
         formationType: Captured
-        aphelion: 5,880,696 km<br />
-        perihelion: 5,634,069 km<br />
-        semi_major_axis: 5,757,383 km<br />
-        eccentricity: 0.021
-        orbital_period: 0.07 d<br />
-        inclination: 3.49°
-        radius: 5,214.5 km<br/>(0.818 Yrths)
-        surface_area: 3.417 × 10<sup>08</sup> km<sup>2</sup><br/>(0.670 Yrths)
-        volume: 5.939 × 10<sup>11</sup> km<sup>3</sup><br/>(0.548 Yrths)
-        mass: 1.389 × 10<sup>24</sup> kg<br />(8.86297347034766 Yrths)
-        density: 2.338 g/cm<sup>3</sup>
-        surface_gravity: 3.404 m/s<sup>2</sup><br />(0.347 g<sub>0</sub>)
-        escape_velocity: 5.962 km/s<br />(21,463 km/h)
-        rotation_period: 54.002 d
-        axial_tilt: 48.31°
+        aphelion: 1,248,262,053 km<br />
+        perihelion: 1,028,130,883 km<br />
+        semi_major_axis: 1,138,196,468 km<br />
+        eccentricity: 0.097
+        orbital_period: 0.02 d<br />
+        inclination: 2.88°
+        radius: 90,369.4 km<br/>(14.184 Yrths)
+        surface_area: 1.026 × 10<sup>11</sup> km<sup>2</sup><br/>(201.200 Yrths)
+        volume: 3.091 × 10<sup>15</sup> km<sup>3</sup><br/>(2853.919 Yrths)
+        mass: 8.016 × 10<sup>27</sup> kg<br />(1342.211 Yrths)
+        density: 2.593 g/cm<sup>3</sup>
+        surface_gravity: 65.420 m/s<sup>2</sup><br />(6.671 g<sub>0</sub>)
+        escape_velocity: 108.812 km/s<br />(391,724 km/h)
+        rotation_period: 45.891 d
+        axial_tilt: 35.68°
         albedo: 0.30
-        temperature: 837 K<br />(564 °C)
+        temperature: 106 K<br />(-167 °C)
+      - name: 101998 Kerriad VI c
+        type: Icy
+        formationType: Captured
+        aphelion: 1,673,461,067 km<br />
+        perihelion: 1,080,974,386 km<br />
+        semi_major_axis: 1,377,217,726 km<br />
+        eccentricity: 0.215
+        orbital_period: 0.02 d<br />
+        inclination: 20.80°
+        radius: 133,697.3 km<br/>(20.985 Yrths)
+        surface_area: 2.246 × 10<sup>11</sup> km<sup>2</sup><br/>(440.382 Yrths)
+        volume: 1.001 × 10<sup>16</sup> km<sup>3</sup><br/>(9241.548 Yrths)
+        mass: 1.374 × 10<sup>28</sup> kg<br />(2301.523 Yrths)
+        density: 1.373 g/cm<sup>3</sup>
+        surface_gravity: 51.251 m/s<sup>2</sup><br />(5.226 g<sub>0</sub>)
+        escape_velocity: 117.145 km/s<br />(421,722 km/h)
+        rotation_period: 47.072 d
+        axial_tilt: 14.47°
+        albedo: 0.30
+        temperature: 106 K<br />(-167 °C)
       - name: 101998 Kerriad VI d
-        type: Dwarf planet
+        type: Icy
         formationType: Accreted
-        aphelion: 6,503,613 km<br />
-        perihelion: 6,162,629 km<br />
-        semi_major_axis: 6,333,121 km<br />
-        eccentricity: 0.027
-        orbital_period: 0.07 d<br />
-        inclination: 0.91°
-        radius: 9,478.0 km<br/>(1.488 Yrths)
-        surface_area: 1.129 × 10<sup>09</sup> km<sup>2</sup><br/>(2.213 Yrths)
-        volume: 3.566 × 10<sup>12</sup> km<sup>3</sup><br/>(3.292 Yrths)
-        mass: 4.977 × 10<sup>24</sup> kg<br />(8.86297347034766 Yrths)
-        density: 1.396 g/cm<sup>3</sup>
-        surface_gravity: 3.693 m/s<sup>2</sup><br />(0.377 g<sub>0</sub>)
-        escape_velocity: 8.373 km/s<br />(30,141 km/h)
-        rotation_period: 62.240 d
-        axial_tilt: 30.34°
+        aphelion: 2,290,813,718 km<br />
+        perihelion: 2,145,232,123 km<br />
+        semi_major_axis: 2,218,022,921 km<br />
+        eccentricity: 0.033
+        orbital_period: 0.02 d<br />
+        inclination: 0.15°
+        radius: 135,621.0 km<br/>(21.287 Yrths)
+        surface_area: 2.311 × 10<sup>11</sup> km<sup>2</sup><br/>(453.147 Yrths)
+        volume: 1.045 × 10<sup>16</sup> km<sup>3</sup><br/>(9646.249 Yrths)
+        mass: 1.437 × 10<sup>28</sup> kg<br />(2406.271 Yrths)
+        density: 1.375 g/cm<sup>3</sup>
+        surface_gravity: 52.075 m/s<sup>2</sup><br />(5.310 g<sub>0</sub>)
+        escape_velocity: 118.929 km/s<br />(428,143 km/h)
+        rotation_period: 47.466 d
+        axial_tilt: 21.07°
         albedo: 0.30
-        temperature: 798 K<br />(525 °C)
+        temperature: 106 K<br />(-167 °C)
       - name: 101998 Kerriad VI e
         type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 7,164,259 km<br />
-        perihelion: 6,768,607 km<br />
-        semi_major_axis: 6,966,433 km<br />
-        eccentricity: 0.028
-        orbital_period: 0.07 d<br />
-        inclination: 0.09°
-        radius: 14,308.2 km<br/>(2.246 Yrths)
-        surface_area: 2.573 × 10<sup>09</sup> km<sup>2</sup><br/>(5.044 Yrths)
-        volume: 1.227 × 10<sup>13</sup> km<sup>3</sup><br/>(11.327 Yrths)
-        mass: 2.150 × 10<sup>25</sup> kg<br />(8.86297347034766 Yrths)
-        density: 1.752 g/cm<sup>3</sup>
-        surface_gravity: 7.001 m/s<sup>2</sup><br />(0.714 g<sub>0</sub>)
-        escape_velocity: 14.164 km/s<br />(50,989 km/h)
-        rotation_period: 40.250 d
-        axial_tilt: 14.45°
-        albedo: 0.30
-        temperature: 761 K<br />(488 °C)
-      - name: 101998 Kerriad VI f
-        type: Asteroid
-        formationType: Captured
-        aphelion: 9,109,472 km<br />
-        perihelion: 6,216,681 km<br />
-        semi_major_axis: 7,663,076 km<br />
-        eccentricity: 0.189
-        orbital_period: 0.07 d<br />
-        inclination: 21.31°
-        radius: 12,747.1 km<br/>(2.001 Yrths)
-        surface_area: 2.042 × 10<sup>09</sup> km<sup>2</sup><br/>(4.003 Yrths)
-        volume: 8.676 × 10<sup>12</sup> km<sup>3</sup><br/>(8.010 Yrths)
-        mass: 1.719 × 10<sup>25</sup> kg<br />(8.86297347034766 Yrths)
-        density: 1.982 g/cm<sup>3</sup>
-        surface_gravity: 7.053 m/s<sup>2</sup><br />(0.719 g<sub>0</sub>)
-        escape_velocity: 13.418 km/s<br />(48,306 km/h)
-        rotation_period: 69.463 d
-        axial_tilt: 30.56°
-        albedo: 0.30
-        temperature: 726 K<br />(452 °C)
-      - name: 101998 Kerriad VI g
-        type: Asteroid
-        formationType: Captured
-        aphelion: 9,059,015 km<br />
-        perihelion: 7,799,753 km<br />
-        semi_major_axis: 8,429,384 km<br />
-        eccentricity: 0.075
-        orbital_period: 0.07 d<br />
-        inclination: 3.27°
-        radius: 5,536.5 km<br/>(0.869 Yrths)
-        surface_area: 3.852 × 10<sup>08</sup> km<sup>2</sup><br/>(0.755 Yrths)
-        volume: 7.109 × 10<sup>11</sup> km<sup>3</sup><br/>(0.656 Yrths)
-        mass: 9.241 × 10<sup>23</sup> kg<br />(8.86297347034766 Yrths)
-        density: 1.300 g/cm<sup>3</sup>
-        surface_gravity: 2.009 m/s<sup>2</sup><br />(0.205 g<sub>0</sub>)
-        escape_velocity: 4.720 km/s<br />(16,993 km/h)
-        rotation_period: 69.183 d
-        axial_tilt: 23.80°
-        albedo: 0.30
-        temperature: 692 K<br />(419 °C)
-      - name: 101998 Kerriad VI h
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 9,925,744 km<br />
-        perihelion: 8,618,901 km<br />
-        semi_major_axis: 9,272,322 km<br />
-        eccentricity: 0.070
-        orbital_period: 0.07 d<br />
-        inclination: 2.47°
-        radius: 11,904.7 km<br/>(1.869 Yrths)
-        surface_area: 1.781 × 10<sup>09</sup> km<sup>2</sup><br/>(3.492 Yrths)
-        volume: 7.067 × 10<sup>12</sup> km<sup>3</sup><br/>(6.524 Yrths)
-        mass: 1.702 × 10<sup>25</sup> kg<br />(8.86297347034766 Yrths)
-        density: 2.408 g/cm<sup>3</sup>
-        surface_gravity: 8.004 m/s<sup>2</sup><br />(0.816 g<sub>0</sub>)
-        escape_velocity: 13.814 km/s<br />(49,730 km/h)
-        rotation_period: 43.740 d
-        axial_tilt: 21.14°
-        albedo: 0.30
-        temperature: 660 K<br />(386 °C)
-      - name: 101998 Kerriad VI i
-        type: Icy
-        formationType: Captured
-        aphelion: 11,599,517 km<br />
-        perihelion: 8,799,592 km<br />
-        semi_major_axis: 10,199,555 km<br />
-        eccentricity: 0.137
-        orbital_period: 0.07 d<br />
-        inclination: 5.40°
-        radius: 10,930.3 km<br/>(1.716 Yrths)
-        surface_area: 1.501 × 10<sup>09</sup> km<sup>2</sup><br/>(2.943 Yrths)
-        volume: 5.470 × 10<sup>12</sup> km<sup>3</sup><br/>(5.050 Yrths)
-        mass: 4.277 × 10<sup>24</sup> kg<br />(8.86297347034766 Yrths)
-        density: 0.782 g/cm<sup>3</sup>
-        surface_gravity: 2.386 m/s<sup>2</sup><br />(0.243 g<sub>0</sub>)
-        escape_velocity: 7.227 km/s<br />(26,017 km/h)
-        rotation_period: 58.348 d
-        axial_tilt: 19.71°
-        albedo: 0.30
-        temperature: 629 K<br />(356 °C)
-      - name: 101998 Kerriad VI j
-        type: Icy
         formationType: Accreted
-        aphelion: 14,788,179 km<br />
-        perihelion: 7,650,841 km<br />
-        semi_major_axis: 11,219,510 km<br />
-        eccentricity: 0.318
-        orbital_period: 0.07 d<br />
-        inclination: 7.14°
-        radius: 9,235.6 km<br/>(1.450 Yrths)
-        surface_area: 1.072 × 10<sup>09</sup> km<sup>2</sup><br/>(2.101 Yrths)
-        volume: 3.300 × 10<sup>12</sup> km<sup>3</sup><br/>(3.046 Yrths)
-        mass: 3.718 × 10<sup>24</sup> kg<br />(8.86297347034766 Yrths)
-        density: 1.127 g/cm<sup>3</sup>
-        surface_gravity: 2.905 m/s<sup>2</sup><br />(0.296 g<sub>0</sub>)
-        escape_velocity: 7.331 km/s<br />(26,391 km/h)
-        rotation_period: 73.702 d
-        axial_tilt: 24.03°
+        aphelion: 10,312,366,674 km<br />
+        perihelion: 6,533,510,026 km<br />
+        semi_major_axis: 8,422,938,350 km<br />
+        eccentricity: 0.224
+        orbital_period: 0.02 d<br />
+        inclination: 27.23°
+        radius: 115,769.1 km<br/>(18.171 Yrths)
+        surface_area: 1.684 × 10<sup>11</sup> km<sup>2</sup><br/>(330.194 Yrths)
+        volume: 6.499 × 10<sup>15</sup> km<sup>3</sup><br/>(6000.048 Yrths)
+        mass: 1.314 × 10<sup>28</sup> kg<br />(2199.794 Yrths)
+        density: 2.021 g/cm<sup>3</sup>
+        surface_gravity: 65.333 m/s<sup>2</sup><br />(6.662 g<sub>0</sub>)
+        escape_velocity: 123.076 km/s<br />(443,073 km/h)
+        rotation_period: 59.718 d
+        axial_tilt: 15.86°
         albedo: 0.30
-        temperature: 600 K<br />(326 °C)
-      - name: 101998 Kerriad VI k
-        type: Icy
-        formationType: Captured
-        aphelion: 12,855,877 km<br />
-        perihelion: 11,827,046 km<br />
-        semi_major_axis: 12,341,461 km<br />
-        eccentricity: 0.042
-        orbital_period: 0.07 d<br />
-        inclination: 2.83°
-        radius: 9,407.1 km<br/>(1.477 Yrths)
-        surface_area: 1.112 × 10<sup>09</sup> km<sup>2</sup><br/>(2.180 Yrths)
-        volume: 3.487 × 10<sup>12</sup> km<sup>3</sup><br/>(3.219 Yrths)
-        mass: 3.598 × 10<sup>24</sup> kg<br />(8.86297347034766 Yrths)
-        density: 1.032 g/cm<sup>3</sup>
-        surface_gravity: 2.710 m/s<sup>2</sup><br />(0.276 g<sub>0</sub>)
-        escape_velocity: 7.146 km/s<br />(25,724 km/h)
-        rotation_period: 72.163 d
-        axial_tilt: 17.92°
-        albedo: 0.30
-        temperature: 572 K<br />(299 °C)
-      - name: 101998 Kerriad VI l
-        type: Icy
-        formationType: Captured
-        aphelion: 19,126,137 km<br />
-        perihelion: 8,025,077 km<br />
-        semi_major_axis: 13,575,607 km<br />
-        eccentricity: 0.409
-        orbital_period: 0.07 d<br />
-        inclination: 65.03°
-        radius: 9,399.3 km<br/>(1.475 Yrths)
-        surface_area: 1.110 × 10<sup>09</sup> km<sup>2</sup><br/>(2.177 Yrths)
-        volume: 3.478 × 10<sup>12</sup> km<sup>3</sup><br/>(3.211 Yrths)
-        mass: 3.270 × 10<sup>24</sup> kg<br />(8.86297347034766 Yrths)
-        density: 0.940 g/cm<sup>3</sup>
-        surface_gravity: 2.467 m/s<sup>2</sup><br />(0.252 g<sub>0</sub>)
-        escape_velocity: 6.815 km/s<br />(24,533 km/h)
-        rotation_period: 63.125 d
-        axial_tilt: 27.56°
-        albedo: 0.30
-        temperature: 545 K<br />(272 °C)
+        temperature: 106 K<br />(-167 °C)
   - name: 101998 Kerriad VII
-    type: Ice giant
-    aphelion: 563,490,535 km<br />3.767 AU
-    perihelion: 551,649,755 km<br />3.687 AU
+    type: Large terrestrial
+    aphelion: 563,148,648 km<br />3.764 AU
+    perihelion: 551,991,642 km<br />3.690 AU
     semi_major_axis: 557,570,145 km<br />3.727 AU
-    eccentricity: 0.011
+    eccentricity: 0.010
     orbital_period: 3,302.13 d<br />9.041 y
-    inclination: 0.00°
-    radius: 30,641.4 km<br/>(4.810 Yrths)
-    surface_area: 1.180 × 10<sup>10</sup> km<sup>2</sup><br/>(23.131 Yrths)
-    volume: 1.205 × 10<sup>14</sup> km<sup>3</sup><br/>(111.251 Yrths)
-    mass: 1.783 × 10<sup>26</sup> kg<br />(29.85 Yrths)
-    density: 1.479 g/cm<sup>3</sup>
-    surface_gravity: 12.655 m/s<sup>2</sup><br />(1.290 g<sub>0</sub>)
-    escape_velocity: 27.867 km/s<br />(100,321 km/h)
-    rotation_period: 0.362 d
+    inclination: 52.82°
+    radius: 8,944.8 km<br/>(1.404 Yrths)
+    surface_area: 1.005 × 10<sup>09</sup> km<sup>2</sup><br/>(1.971 Yrths)
+    volume: 2.998 × 10<sup>12</sup> km<sup>3</sup><br/>(2.768 Yrths)
+    mass: 2.151 × 10<sup>25</sup> kg<br />(3.60 Yrths)
+    density: 7.175 g/cm<sup>3</sup>
+    surface_gravity: 17.918 m/s<sup>2</sup><br />(1.827 g<sub>0</sub>)
+    escape_velocity: 17.916 km/s<br />(64,498 km/h)
+    rotation_period: 0.681 d
     axial_tilt: 0.00°
-    albedo: 0.50
-    temperature: 133 K<br />(-141 °C)
+    albedo: 0.35
+    temperature: 97 K<br />(-176 °C)
+    surface_pressure: 370 kPa<br />(4 atm)
     composition:
-      - 81.0099% hydrogen
-      - 13.2402% helium
-      - 5.7499% nitrogen
+      - 95.2216% nitrogen
+      - 4.7784% hydrogen cyanide
     moons:
       - name: 101998 Kerriad VII a
-        type: Asteroid
+        type: Rocky
         formationType: Captured
-        aphelion: 10,097,402 km<br />
-        perihelion: 10,049,270 km<br />
-        semi_major_axis: 10,073,336 km<br />
-        eccentricity: 0.002
-        orbital_period: 0.08 d<br />
-        inclination: 4.42°
-        radius: 17,539.6 km<br/>(2.753 Yrths)
-        surface_area: 3.866 × 10<sup>09</sup> km<sup>2</sup><br/>(7.579 Yrths)
-        volume: 2.260 × 10<sup>13</sup> km<sup>3</sup><br/>(20.866 Yrths)
-        mass: 4.171 × 10<sup>25</sup> kg<br />(29.849361452385512 Yrths)
-        density: 1.846 g/cm<sup>3</sup>
-        surface_gravity: 9.037 m/s<sup>2</sup><br />(0.922 g<sub>0</sub>)
-        escape_velocity: 17.817 km/s<br />(64,142 km/h)
-        rotation_period: 42.606 d
-        axial_tilt: 26.94°
+        aphelion: 5,007,654 km<br />
+        perihelion: 4,947,769 km<br />
+        semi_major_axis: 4,977,712 km<br />
+        eccentricity: 0.006
+        orbital_period: 0.22 d<br />
+        inclination: 0.56°
+        radius: 4,568.8 km<br/>(0.717 Yrths)
+        surface_area: 2.623 × 10<sup>08</sup> km<sup>2</sup><br/>(0.514 Yrths)
+        volume: 3.995 × 10<sup>11</sup> km<sup>3</sup><br/>(0.369 Yrths)
+        mass: 1.086 × 10<sup>24</sup> kg<br />(0.182 Yrths)
+        density: 2.719 g/cm<sup>3</sup>
+        surface_gravity: 3.468 m/s<sup>2</sup><br />(0.354 g<sub>0</sub>)
+        escape_velocity: 5.633 km/s<br />(20,279 km/h)
+        rotation_period: 51.905 d
+        axial_tilt: 17.05°
         albedo: 0.30
-        temperature: 633 K<br />(359 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 101998 Kerriad VII b
         type: Icy
         formationType: Impact formed
-        aphelion: 11,128,516 km<br />
-        perihelion: 11,032,823 km<br />
-        semi_major_axis: 11,080,669 km<br />
-        eccentricity: 0.004
-        orbital_period: 0.08 d<br />
-        inclination: 4.51°
-        radius: 18,364.2 km<br/>(2.882 Yrths)
-        surface_area: 4.238 × 10<sup>09</sup> km<sup>2</sup><br/>(8.309 Yrths)
-        volume: 2.594 × 10<sup>13</sup> km<sup>3</sup><br/>(23.949 Yrths)
-        mass: 4.647 × 10<sup>25</sup> kg<br />(29.849361452385512 Yrths)
-        density: 1.791 g/cm<sup>3</sup>
-        surface_gravity: 9.185 m/s<sup>2</sup><br />(0.937 g<sub>0</sub>)
-        escape_velocity: 18.380 km/s<br />(66,166 km/h)
-        rotation_period: 42.540 d
-        axial_tilt: 10.88°
+        aphelion: 5,494,043 km<br />
+        perihelion: 5,456,922 km<br />
+        semi_major_axis: 5,475,483 km<br />
+        eccentricity: 0.003
+        orbital_period: 0.22 d<br />
+        inclination: 0.64°
+        radius: 7,551.8 km<br/>(1.185 Yrths)
+        surface_area: 7.167 × 10<sup>08</sup> km<sup>2</sup><br/>(1.405 Yrths)
+        volume: 1.804 × 10<sup>12</sup> km<sup>3</sup><br/>(1.665 Yrths)
+        mass: 2.832 × 10<sup>24</sup> kg<br />(0.474 Yrths)
+        density: 1.570 g/cm<sup>3</sup>
+        surface_gravity: 3.310 m/s<sup>2</sup><br />(0.338 g<sub>0</sub>)
+        escape_velocity: 7.076 km/s<br />(25,473 km/h)
+        rotation_period: 50.944 d
+        axial_tilt: 26.05°
         albedo: 0.30
-        temperature: 603 K<br />(330 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 101998 Kerriad VII c
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 14,049,462 km<br />
-        perihelion: 12,765,758 km<br />
-        semi_major_axis: 13,407,610 km<br />
-        eccentricity: 0.048
-        orbital_period: 0.08 d<br />
-        inclination: 0.00°
-        radius: 14,049.0 km<br/>(2.205 Yrths)
-        surface_area: 2.480 × 10<sup>09</sup> km<sup>2</sup><br/>(4.863 Yrths)
-        volume: 1.162 × 10<sup>13</sup> km<sup>3</sup><br/>(10.723 Yrths)
-        mass: 3.081 × 10<sup>25</sup> kg<br />(29.849361452385512 Yrths)
-        density: 2.652 g/cm<sup>3</sup>
-        surface_gravity: 10.403 m/s<sup>2</sup><br />(1.061 g<sub>0</sub>)
-        escape_velocity: 17.109 km/s<br />(61,592 km/h)
-        rotation_period: 46.631 d
-        axial_tilt: 20.11°
+        type: Rocky
+        formationType: Impact formed
+        aphelion: 6,093,701 km<br />
+        perihelion: 5,952,361 km<br />
+        semi_major_axis: 6,023,031 km<br />
+        eccentricity: 0.012
+        orbital_period: 0.22 d<br />
+        inclination: 2.93°
+        radius: 2,946.3 km<br/>(0.462 Yrths)
+        surface_area: 1.091 × 10<sup>08</sup> km<sup>2</sup><br/>(0.214 Yrths)
+        volume: 1.071 × 10<sup>11</sup> km<sup>3</sup><br/>(0.099 Yrths)
+        mass: 3.857 × 10<sup>23</sup> kg<br />(0.065 Yrths)
+        density: 3.600 g/cm<sup>3</sup>
+        surface_gravity: 2.961 m/s<sup>2</sup><br />(0.302 g<sub>0</sub>)
+        escape_velocity: 4.180 km/s<br />(15,048 km/h)
+        rotation_period: 46.392 d
+        axial_tilt: 17.93°
         albedo: 0.30
-        temperature: 548 K<br />(275 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 101998 Kerriad VII d
         type: Asteroid
         formationType: Captured
-        aphelion: 16,990,946 km<br />
-        perihelion: 15,455,470 km<br />
-        semi_major_axis: 16,223,208 km<br />
-        eccentricity: 0.047
-        orbital_period: 0.08 d<br />
-        inclination: 0.00°
-        radius: 18,267.1 km<br/>(2.867 Yrths)
-        surface_area: 4.193 × 10<sup>09</sup> km<sup>2</sup><br/>(8.221 Yrths)
-        volume: 2.553 × 10<sup>13</sup> km<sup>3</sup><br/>(23.572 Yrths)
-        mass: 3.319 × 10<sup>25</sup> kg<br />(29.849361452385512 Yrths)
-        density: 1.300 g/cm<sup>3</sup>
-        surface_gravity: 6.630 m/s<sup>2</sup><br />(0.676 g<sub>0</sub>)
-        escape_velocity: 15.574 km/s<br />(56,067 km/h)
-        rotation_period: 83.169 d
-        axial_tilt: 11.85°
+        aphelion: 6,904,104 km<br />
+        perihelion: 6,346,564 km<br />
+        semi_major_axis: 6,625,334 km<br />
+        eccentricity: 0.042
+        orbital_period: 0.22 d<br />
+        inclination: 0.76°
+        radius: 3,793.8 km<br/>(0.595 Yrths)
+        surface_area: 1.809 × 10<sup>08</sup> km<sup>2</sup><br/>(0.355 Yrths)
+        volume: 2.287 × 10<sup>11</sup> km<sup>3</sup><br/>(0.211 Yrths)
+        mass: 6.133 × 10<sup>23</sup> kg<br />(0.103 Yrths)
+        density: 2.682 g/cm<sup>3</sup>
+        surface_gravity: 2.840 m/s<sup>2</sup><br />(0.290 g<sub>0</sub>)
+        escape_velocity: 4.645 km/s<br />(16,723 km/h)
+        rotation_period: 31.579 d
+        axial_tilt: 40.45°
         albedo: 0.30
-        temperature: 498 K<br />(225 °C)
-      - name: 101998 Kerriad VII e
+        temperature: 85 K<br />(-188 °C)
+  - name: 101998 Kerriad VIII
+    type: Ice giant
+    aphelion: 874,364,429 km<br />5.845 AU
+    perihelion: 858,124,936 km<br />5.736 AU
+    semi_major_axis: 866,244,683 km<br />5.790 AU
+    eccentricity: 0.009
+    orbital_period: 6,394.48 d<br />17.507 y
+    inclination: 0.49°
+    radius: 23,941.2 km<br/>(3.758 Yrths)
+    surface_area: 7.203 × 10<sup>09</sup> km<sup>2</sup><br/>(14.121 Yrths)
+    volume: 5.748 × 10<sup>13</sup> km<sup>3</sup><br/>(53.066 Yrths)
+    mass: 9.341 × 10<sup>25</sup> kg<br />(15.64 Yrths)
+    density: 1.625 g/cm<sup>3</sup>
+    surface_gravity: 10.863 m/s<sup>2</sup><br />(1.108 g<sub>0</sub>)
+    escape_velocity: 22.822 km/s<br />(82,159 km/h)
+    rotation_period: 0.372 d
+    axial_tilt: 0.00°
+    albedo: 0.50
+    temperature: 111 K<br />(-162 °C)
+    composition:
+      - 74.0400% hydrogen
+      - 24.6667% helium
+      - 0.6668% hydrogen cyanide
+      - 0.6264% acetylene
+    moons:
+      - name: 101998 Kerriad VIII a
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 14,577,595 km<br />
+        perihelion: 10,657,060 km<br />
+        semi_major_axis: 12,617,327 km<br />
+        eccentricity: 0.155
+        orbital_period: 0.21 d<br />
+        inclination: 34.35°
+        radius: 15,484.8 km<br/>(2.431 Yrths)
+        surface_area: 3.013 × 10<sup>09</sup> km<sup>2</sup><br/>(5.907 Yrths)
+        volume: 1.555 × 10<sup>13</sup> km<sup>3</sup><br/>(14.358 Yrths)
+        mass: 3.976 × 10<sup>25</sup> kg<br />(6.658 Yrths)
+        density: 2.557 g/cm<sup>3</sup>
+        surface_gravity: 11.052 m/s<sup>2</sup><br />(1.127 g<sub>0</sub>)
+        escape_velocity: 18.514 km/s<br />(66,649 km/h)
+        rotation_period: 49.133 d
+        axial_tilt: 15.62°
+        albedo: 0.30
+        temperature: 68 K<br />(-205 °C)
+      - name: 101998 Kerriad VIII b
         type: Ice/rock hybrid
         formationType: Captured
-        aphelion: 20,255,919 km<br />
-        perihelion: 15,435,138 km<br />
-        semi_major_axis: 17,845,529 km<br />
-        eccentricity: 0.135
-        orbital_period: 0.08 d<br />
-        inclination: 2.33°
-        radius: 21,212.7 km<br/>(3.330 Yrths)
-        surface_area: 5.655 × 10<sup>09</sup> km<sup>2</sup><br/>(11.086 Yrths)
-        volume: 3.998 × 10<sup>13</sup> km<sup>3</sup><br/>(36.912 Yrths)
-        mass: 8.049 × 10<sup>25</sup> kg<br />(29.849361452385512 Yrths)
-        density: 2.013 g/cm<sup>3</sup>
-        surface_gravity: 11.922 m/s<sup>2</sup><br />(1.216 g<sub>0</sub>)
-        escape_velocity: 22.505 km/s<br />(81,019 km/h)
-        rotation_period: 47.923 d
-        axial_tilt: 25.80°
+        aphelion: 14,160,818 km<br />
+        perihelion: 13,597,303 km<br />
+        semi_major_axis: 13,879,060 km<br />
+        eccentricity: 0.020
+        orbital_period: 0.21 d<br />
+        inclination: 1.45°
+        radius: 18,407.8 km<br/>(2.889 Yrths)
+        surface_area: 4.258 × 10<sup>09</sup> km<sup>2</sup><br/>(8.348 Yrths)
+        volume: 2.613 × 10<sup>13</sup> km<sup>3</sup><br/>(24.120 Yrths)
+        mass: 4.976 × 10<sup>25</sup> kg<br />(8.333 Yrths)
+        density: 1.905 g/cm<sup>3</sup>
+        surface_gravity: 9.789 m/s<sup>2</sup><br />(0.998 g<sub>0</sub>)
+        escape_velocity: 18.997 km/s<br />(68,387 km/h)
+        rotation_period: 70.023 d
+        axial_tilt: 30.20°
         albedo: 0.30
-        temperature: 475 K<br />(202 °C)
-      - name: 101998 Kerriad VII f
-        type: Ice/rock hybrid
+        temperature: 68 K<br />(-205 °C)
+      - name: 101998 Kerriad VIII c
+        type: Asteroid
         formationType: Captured
-        aphelion: 19,780,041 km<br />
-        perihelion: 19,480,122 km<br />
-        semi_major_axis: 19,630,082 km<br />
-        eccentricity: 0.008
-        orbital_period: 0.08 d<br />
-        inclination: 2.87°
-        radius: 19,584.1 km<br/>(3.074 Yrths)
-        surface_area: 4.820 × 10<sup>09</sup> km<sup>2</sup><br/>(9.449 Yrths)
-        volume: 3.146 × 10<sup>13</sup> km<sup>3</sup><br/>(29.046 Yrths)
-        mass: 5.629 × 10<sup>25</sup> kg<br />(29.849361452385512 Yrths)
-        density: 1.789 g/cm<sup>3</sup>
-        surface_gravity: 9.783 m/s<sup>2</sup><br />(0.998 g<sub>0</sub>)
-        escape_velocity: 19.588 km/s<br />(70,516 km/h)
-        rotation_period: 45.244 d
-        axial_tilt: 17.56°
+        aphelion: 18,675,342 km<br />
+        perihelion: 14,911,984 km<br />
+        semi_major_axis: 16,793,663 km<br />
+        eccentricity: 0.112
+        orbital_period: 0.21 d<br />
+        inclination: 1.42°
+        radius: 12,874.4 km<br/>(2.021 Yrths)
+        surface_area: 2.083 × 10<sup>09</sup> km<sup>2</sup><br/>(4.084 Yrths)
+        volume: 8.939 × 10<sup>12</sup> km<sup>3</sup><br/>(8.252 Yrths)
+        mass: 2.348 × 10<sup>25</sup> kg<br />(3.931 Yrths)
+        density: 2.627 g/cm<sup>3</sup>
+        surface_gravity: 9.441 m/s<sup>2</sup><br />(0.963 g<sub>0</sub>)
+        escape_velocity: 15.602 km/s<br />(56,169 km/h)
+        rotation_period: 32.895 d
+        axial_tilt: 45.92°
         albedo: 0.30
-        temperature: 453 K<br />(180 °C)
-      - name: 101998 Kerriad VII g
-        type: Ice/rock hybrid
+        temperature: 68 K<br />(-205 °C)
+      - name: 101998 Kerriad VIII d
+        type: Icy
         formationType: Captured
-        aphelion: 24,109,224 km<br />
-        perihelion: 23,395,574 km<br />
-        semi_major_axis: 23,752,399 km<br />
-        eccentricity: 0.015
-        orbital_period: 0.08 d<br />
-        inclination: 4.27°
-        radius: 25,964.5 km<br/>(4.075 Yrths)
-        surface_area: 8.472 × 10<sup>09</sup> km<sup>2</sup><br/>(16.609 Yrths)
-        volume: 7.332 × 10<sup>13</sup> km<sup>3</sup><br/>(67.689 Yrths)
-        mass: 1.400 × 10<sup>26</sup> kg<br />(29.849361452385512 Yrths)
-        density: 1.909 g/cm<sup>3</sup>
-        surface_gravity: 13.839 m/s<sup>2</sup><br />(1.411 g<sub>0</sub>)
-        escape_velocity: 26.826 km/s<br />(96,572 km/h)
-        rotation_period: 42.338 d
+        aphelion: 21,730,742 km<br />
+        perihelion: 15,215,316 km<br />
+        semi_major_axis: 18,473,029 km<br />
+        eccentricity: 0.176
+        orbital_period: 0.21 d<br />
+        inclination: 64.68°
+        radius: 14,763.4 km<br/>(2.317 Yrths)
+        surface_area: 2.739 × 10<sup>09</sup> km<sup>2</sup><br/>(5.370 Yrths)
+        volume: 1.348 × 10<sup>13</sup> km<sup>3</sup><br/>(12.443 Yrths)
+        mass: 1.618 × 10<sup>25</sup> kg<br />(2.709 Yrths)
+        density: 1.200 g/cm<sup>3</sup>
+        surface_gravity: 4.947 m/s<sup>2</sup><br />(0.504 g<sub>0</sub>)
+        escape_velocity: 12.094 km/s<br />(43,537 km/h)
+        rotation_period: 63.497 d
         axial_tilt: 16.07°
         albedo: 0.30
-        temperature: 412 K<br />(139 °C)
-      - name: 101998 Kerriad VII h
+        temperature: 68 K<br />(-205 °C)
+      - name: 101998 Kerriad VIII e
+        type: Icy
+        formationType: Impact formed
+        aphelion: 21,530,773 km<br />
+        perihelion: 19,109,891 km<br />
+        semi_major_axis: 20,320,332 km<br />
+        eccentricity: 0.060
+        orbital_period: 0.21 d<br />
+        inclination: 1.00°
+        radius: 38,020.1 km<br/>(5.968 Yrths)
+        surface_area: 1.817 × 10<sup>10</sup> km<sup>2</sup><br/>(35.613 Yrths)
+        volume: 2.302 × 10<sup>14</sup> km<sup>3</sup><br/>(212.528 Yrths)
+        mass: 3.179 × 10<sup>26</sup> kg<br />(53.224 Yrths)
+        density: 1.381 g/cm<sup>3</sup>
+        surface_gravity: 14.656 m/s<sup>2</sup><br />(1.495 g<sub>0</sub>)
+        escape_velocity: 33.406 km/s<br />(120,262 km/h)
+        rotation_period: 78.116 d
+        axial_tilt: 16.77°
+        albedo: 0.30
+        temperature: 68 K<br />(-205 °C)
+      - name: 101998 Kerriad VIII f
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 25,613,743 km<br />
+        perihelion: 19,090,987 km<br />
+        semi_major_axis: 22,352,365 km<br />
+        eccentricity: 0.146
+        orbital_period: 0.21 d<br />
+        inclination: 1.26°
+        radius: 18,759.7 km<br/>(2.945 Yrths)
+        surface_area: 4.422 × 10<sup>09</sup> km<sup>2</sup><br/>(8.670 Yrths)
+        volume: 2.765 × 10<sup>13</sup> km<sup>3</sup><br/>(25.530 Yrths)
+        mass: 4.653 × 10<sup>25</sup> kg<br />(7.791 Yrths)
+        density: 1.683 g/cm<sup>3</sup>
+        surface_gravity: 8.812 m/s<sup>2</sup><br />(0.899 g<sub>0</sub>)
+        escape_velocity: 18.196 km/s<br />(65,504 km/h)
+        rotation_period: 46.903 d
+        axial_tilt: 34.20°
+        albedo: 0.30
+        temperature: 68 K<br />(-205 °C)
+      - name: 101998 Kerriad VIII g
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 31,055,189 km<br />
+        perihelion: 18,120,015 km<br />
+        semi_major_axis: 24,587,602 km<br />
+        eccentricity: 0.263
+        orbital_period: 0.21 d<br />
+        inclination: 48.83°
+        radius: 19,330.1 km<br/>(3.034 Yrths)
+        surface_area: 4.695 × 10<sup>09</sup> km<sup>2</sup><br/>(9.206 Yrths)
+        volume: 3.025 × 10<sup>13</sup> km<sup>3</sup><br/>(27.931 Yrths)
+        mass: 8.471 × 10<sup>25</sup> kg<br />(14.185 Yrths)
+        density: 2.800 g/cm<sup>3</sup>
+        surface_gravity: 15.111 m/s<sup>2</sup><br />(1.541 g<sub>0</sub>)
+        escape_velocity: 24.187 km/s<br />(87,072 km/h)
+        rotation_period: 37.403 d
+        axial_tilt: 17.03°
+        albedo: 0.30
+        temperature: 68 K<br />(-205 °C)
+      - name: 101998 Kerriad VIII h
+        type: Dwarf planet
+        formationType: Accreted
+        aphelion: 28,034,722 km<br />
+        perihelion: 26,058,002 km<br />
+        semi_major_axis: 27,046,362 km<br />
+        eccentricity: 0.037
+        orbital_period: 0.21 d<br />
+        inclination: 4.45°
+        radius: 14,564.7 km<br/>(2.286 Yrths)
+        surface_area: 2.666 × 10<sup>09</sup> km<sup>2</sup><br/>(5.226 Yrths)
+        volume: 1.294 × 10<sup>13</sup> km<sup>3</sup><br/>(11.948 Yrths)
+        mass: 3.542 × 10<sup>25</sup> kg<br />(5.931 Yrths)
+        density: 2.737 g/cm<sup>3</sup>
+        surface_gravity: 11.128 m/s<sup>2</sup><br />(1.135 g<sub>0</sub>)
+        escape_velocity: 18.017 km/s<br />(64,860 km/h)
+        rotation_period: 30.672 d
+        axial_tilt: 13.28°
+        albedo: 0.30
+        temperature: 68 K<br />(-205 °C)
+  - name: 101998 Kerriad IX
+    type: Ice giant
+    aphelion: 1,382,139,829 km<br />9.239 AU
+    perihelion: 1,309,467,162 km<br />8.753 AU
+    semi_major_axis: 1,345,803,495 km<br />8.996 AU
+    eccentricity: 0.027
+    orbital_period: 12,382.75 d<br />33.902 y
+    inclination: 1.14°
+    radius: 21,853.7 km<br/>(3.430 Yrths)
+    surface_area: 6.001 × 10<sup>09</sup> km<sup>2</sup><br/>(11.766 Yrths)
+    volume: 4.372 × 10<sup>13</sup> km<sup>3</sup><br/>(40.360 Yrths)
+    mass: 7.462 × 10<sup>25</sup> kg<br />(12.49 Yrths)
+    density: 1.707 g/cm<sup>3</sup>
+    surface_gravity: 10.414 m/s<sup>2</sup><br />(1.062 g<sub>0</sub>)
+    escape_velocity: 21.349 km/s<br />(76,857 km/h)
+    rotation_period: 0.368 d
+    axial_tilt: 0.00°
+    albedo: 0.50
+    temperature: 93 K<br />(-181 °C)
+    composition:
+      - 87.4661% hydrogen
+      - 8.2236% helium
+      - 2.8335% ammonia
+      - 1.4768% nitrogen
+    moons:
+      - name: 101998 Kerriad IX a
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 23,262,117 km<br />
+        perihelion: 16,751,777 km<br />
+        semi_major_axis: 20,006,947 km<br />
+        eccentricity: 0.163
+        orbital_period: 0.45 d<br />
+        inclination: 59.81°
+        radius: 16,664.0 km<br/>(2.616 Yrths)
+        surface_area: 3.490 × 10<sup>09</sup> km<sup>2</sup><br/>(6.841 Yrths)
+        volume: 1.938 × 10<sup>13</sup> km<sup>3</sup><br/>(17.894 Yrths)
+        mass: 3.811 × 10<sup>25</sup> kg<br />(6.381 Yrths)
+        density: 1.966 g/cm<sup>3</sup>
+        surface_gravity: 9.147 m/s<sup>2</sup><br />(0.933 g<sub>0</sub>)
+        escape_velocity: 17.472 km/s<br />(62,898 km/h)
+        rotation_period: 67.936 d
+        axial_tilt: 24.01°
+        albedo: 0.30
+        temperature: 55 K<br />(-218 °C)
+      - name: 101998 Kerriad IX b
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 29,016,847 km<br />
+        perihelion: 19,399,964 km<br />
+        semi_major_axis: 24,208,406 km<br />
+        eccentricity: 0.199
+        orbital_period: 0.45 d<br />
+        inclination: 3.10°
+        radius: 15,283.4 km<br/>(2.399 Yrths)
+        surface_area: 2.935 × 10<sup>09</sup> km<sup>2</sup><br/>(5.755 Yrths)
+        volume: 1.495 × 10<sup>13</sup> km<sup>3</sup><br/>(13.805 Yrths)
+        mass: 3.002 × 10<sup>25</sup> kg<br />(5.026 Yrths)
+        density: 2.007 g/cm<sup>3</sup>
+        surface_gravity: 8.565 m/s<sup>2</sup><br />(0.873 g<sub>0</sub>)
+        escape_velocity: 16.191 km/s<br />(58,289 km/h)
+        rotation_period: 35.578 d
+        axial_tilt: 22.22°
+        albedo: 0.30
+        temperature: 55 K<br />(-218 °C)
+      - name: 101998 Kerriad IX c
         type: Icy
         formationType: Accreted
-        aphelion: 27,389,402 km<br />
-        perihelion: 24,865,876 km<br />
-        semi_major_axis: 26,127,639 km<br />
-        eccentricity: 0.048
-        orbital_period: 0.08 d<br />
-        inclination: 3.99°
-        radius: 28,697.9 km<br/>(4.504 Yrths)
-        surface_area: 1.035 × 10<sup>10</sup> km<sup>2</sup><br/>(20.290 Yrths)
-        volume: 9.900 × 10<sup>13</sup> km<sup>3</sup><br/>(91.396 Yrths)
-        mass: 1.638 × 10<sup>26</sup> kg<br />(29.849361452385512 Yrths)
-        density: 1.654 g/cm<sup>3</sup>
-        surface_gravity: 13.253 m/s<sup>2</sup><br />(1.351 g<sub>0</sub>)
-        escape_velocity: 27.599 km/s<br />(99,355 km/h)
-        rotation_period: 65.440 d
-        axial_tilt: 15.23°
+        aphelion: 33,076,138 km<br />
+        perihelion: 31,366,638 km<br />
+        semi_major_axis: 32,221,388 km<br />
+        eccentricity: 0.027
+        orbital_period: 0.45 d<br />
+        inclination: 2.39°
+        radius: 15,607.5 km<br/>(2.450 Yrths)
+        surface_area: 3.061 × 10<sup>09</sup> km<sup>2</sup><br/>(6.001 Yrths)
+        volume: 1.593 × 10<sup>13</sup> km<sup>3</sup><br/>(14.702 Yrths)
+        mass: 2.968 × 10<sup>25</sup> kg<br />(4.969 Yrths)
+        density: 1.863 g/cm<sup>3</sup>
+        surface_gravity: 8.120 m/s<sup>2</sup><br />(0.828 g<sub>0</sub>)
+        escape_velocity: 15.931 km/s<br />(57,352 km/h)
+        rotation_period: 60.470 d
+        axial_tilt: 25.57°
         albedo: 0.30
-        temperature: 393 K<br />(120 °C)
-      - name: 101998 Kerriad VII i
+        temperature: 55 K<br />(-218 °C)
+      - name: 101998 Kerriad IX d
+        type: Icy
+        formationType: Captured
+        aphelion: 39,813,690 km<br />
+        perihelion: 31,073,363 km<br />
+        semi_major_axis: 35,443,527 km<br />
+        eccentricity: 0.123
+        orbital_period: 0.45 d<br />
+        inclination: 5.18°
+        radius: 22,278.9 km<br/>(3.497 Yrths)
+        surface_area: 6.237 × 10<sup>09</sup> km<sup>2</sup><br/>(12.228 Yrths)
+        volume: 4.632 × 10<sup>13</sup> km<sup>3</sup><br/>(42.762 Yrths)
+        mass: 3.754 × 10<sup>25</sup> kg<br />(6.286 Yrths)
+        density: 0.810 g/cm<sup>3</sup>
+        surface_gravity: 5.041 m/s<sup>2</sup><br />(0.514 g<sub>0</sub>)
+        escape_velocity: 14.998 km/s<br />(53,991 km/h)
+        rotation_period: 67.402 d
+        axial_tilt: 22.90°
+        albedo: 0.30
+        temperature: 55 K<br />(-218 °C)
+      - name: 101998 Kerriad IX e
         type: Ice/rock hybrid
         formationType: Accreted
-        aphelion: 29,088,890 km<br />
-        perihelion: 28,391,915 km<br />
-        semi_major_axis: 28,740,403 km<br />
-        eccentricity: 0.012
-        orbital_period: 0.08 d<br />
-        inclination: 5.04°
-        radius: 21,338.1 km<br/>(3.349 Yrths)
-        surface_area: 5.722 × 10<sup>09</sup> km<sup>2</sup><br/>(11.218 Yrths)
-        volume: 4.070 × 10<sup>13</sup> km<sup>3</sup><br/>(37.570 Yrths)
-        mass: 9.437 × 10<sup>25</sup> kg<br />(29.849361452385512 Yrths)
-        density: 2.319 g/cm<sup>3</sup>
-        surface_gravity: 13.814 m/s<sup>2</sup><br />(1.409 g<sub>0</sub>)
-        escape_velocity: 24.297 km/s<br />(87,468 km/h)
-        rotation_period: 39.151 d
-        axial_tilt: 28.12°
+        aphelion: 54,261,785 km<br />
+        perihelion: 31,511,549 km<br />
+        semi_major_axis: 42,886,667 km<br />
+        eccentricity: 0.265
+        orbital_period: 0.45 d<br />
+        inclination: 48.05°
+        radius: 22,366.8 km<br/>(3.511 Yrths)
+        surface_area: 6.287 × 10<sup>09</sup> km<sup>2</sup><br/>(12.325 Yrths)
+        volume: 4.687 × 10<sup>13</sup> km<sup>3</sup><br/>(43.270 Yrths)
+        mass: 1.042 × 10<sup>26</sup> kg<br />(17.442 Yrths)
+        density: 2.222 g/cm<sup>3</sup>
+        surface_gravity: 13.878 m/s<sup>2</sup><br />(1.415 g<sub>0</sub>)
+        escape_velocity: 24.933 km/s<br />(89,760 km/h)
+        rotation_period: 41.357 d
+        axial_tilt: 20.79°
         albedo: 0.30
-        temperature: 374 K<br />(101 °C)
-      - name: 101998 Kerriad VII j
-        type: Icy
-        formationType: Accreted
-        aphelion: 41,376,071 km<br />
-        perihelion: 28,175,703 km<br />
-        semi_major_axis: 34,775,887 km<br />
-        eccentricity: 0.190
-        orbital_period: 0.08 d<br />
-        inclination: 68.76°
-        radius: 21,777.4 km<br/>(3.418 Yrths)
-        surface_area: 5.960 × 10<sup>09</sup> km<sup>2</sup><br/>(11.684 Yrths)
-        volume: 4.326 × 10<sup>13</sup> km<sup>3</sup><br/>(39.939 Yrths)
-        mass: 3.667 × 10<sup>25</sup> kg<br />(29.849361452385512 Yrths)
-        density: 0.848 g/cm<sup>3</sup>
-        surface_gravity: 5.154 m/s<sup>2</sup><br />(0.526 g<sub>0</sub>)
-        escape_velocity: 14.992 km/s<br />(53,973 km/h)
-        rotation_period: 69.061 d
-        axial_tilt: 14.60°
-        albedo: 0.30
-        temperature: 340 K<br />(67 °C)
-      - name: 101998 Kerriad VII k
-        type: Icy
-        formationType: Accreted
-        aphelion: 48,749,531 km<br />
-        perihelion: 27,757,420 km<br />
-        semi_major_axis: 38,253,476 km<br />
-        eccentricity: 0.274
-        orbital_period: 0.08 d<br />
-        inclination: 9.59°
-        radius: 39,985.7 km<br/>(6.276 Yrths)
-        surface_area: 2.009 × 10<sup>10</sup> km<sup>2</sup><br/>(39.391 Yrths)
-        volume: 2.678 × 10<sup>14</sup> km<sup>3</sup><br/>(247.224 Yrths)
-        mass: 4.996 × 10<sup>26</sup> kg<br />(29.849361452385512 Yrths)
-        density: 1.866 g/cm<sup>3</sup>
-        surface_gravity: 20.828 m/s<sup>2</sup><br />(2.124 g<sub>0</sub>)
-        escape_velocity: 40.840 km/s<br />(147,025 km/h)
-        rotation_period: 38.178 d
-        axial_tilt: 16.66°
-        albedo: 0.30
-        temperature: 325 K<br />(51 °C)
+        temperature: 55 K<br />(-218 °C)
 ---

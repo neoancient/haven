@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2029 Shanniashiad is a star in the constellation Shannias
+      2029 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1085.66 ly
 apparent_magnitude: 15.41
 absolute_magnitude: 7.80

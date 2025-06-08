@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0016 Niunioiad B is a star in the constellation Niunio
+      0016 Niunioiad B is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 394.74 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 5.22

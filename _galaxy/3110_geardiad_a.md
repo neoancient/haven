@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3110 Geardiad A is a star in the constellation Geard
+      3110 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 473.25 ly
 apparent_magnitude: 7.87
 absolute_magnitude: 2.06

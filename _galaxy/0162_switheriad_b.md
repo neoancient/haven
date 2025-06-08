@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0162 Switheriad B is a star in the constellation Swither
+      0162 Switheriad B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 94.94 ly
 apparent_magnitude: 8.39
 absolute_magnitude: 6.07

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Turiorshen A is a star in the constellation Poke
+      Turiorshen A is a star in the constellation <a href="poke.html">Poke</a>
 distance: 105.85 ly
 apparent_magnitude: 0.76
 absolute_magnitude: -1.79

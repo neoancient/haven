@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3425 Saithiad is a star in the constellation Saith
+      3425 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 447.13 ly
 apparent_magnitude: 11.13
 absolute_magnitude: 5.45

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2193 Keead is a star in the constellation Kee
+      2193 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 198.49 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 7.14

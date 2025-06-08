@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6449 Anilliad A is a star in the constellation Anil
+      6449 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 209.39 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 4.01

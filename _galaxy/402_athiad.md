@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      402 Athiad is a star in the constellation Ath
+      402 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1303.84 ly
 apparent_magnitude: 12.68
 absolute_magnitude: 4.68

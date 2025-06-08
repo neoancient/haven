@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3804 Geardiad is a star in the constellation Geard
+      3804 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 437.77 ly
 apparent_magnitude: 10.07
 absolute_magnitude: 4.43

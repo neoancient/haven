@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0045 Geardiad is a star in the constellation Geard
+      0045 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 5815.42 ly
 apparent_magnitude: 5.59
 absolute_magnitude: -5.66
@@ -31,14 +31,14 @@ planets:
     radius: 335.1 km<br/>(0.053 Yrths)
     surface_area: 1.411 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
     volume: 1.576 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.185 × 10<sup>27</sup> kg<br />(1537.9818625947655 Yrths)
+    mass: 9.185 × 10<sup>27</sup> kg<br />(1537.98 Yrths)
     density: 58263242.416 g/cm<sup>3</sup>
     surface_gravity: 5451239.508 m/s<sup>2</sup><br />(555871.731 g<sub>0</sub>)
     escape_velocity: 1912.738 km/s<br />(6,885,856 km/h)
     rotation_period: 0.200 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 3119 K<br />(2845 °C)
+    temperature: 3073 K<br />(2800 °C)
     composition:
       - 92.7358% hydrogen
       - 4.6470% ammonia
@@ -57,14 +57,14 @@ planets:
         radius: 667,046.3 km<br/>(104.700 Yrths)
         surface_area: 5.591 × 10<sup>12</sup> km<sup>2</sup><br/>(10962.175 Yrths)
         volume: 1.243 × 10<sup>18</sup> km<sup>3</sup><br/>(1147744.187 Yrths)
-        mass: 1.276 × 10<sup>30</sup> kg<br />(1537.9818625947655 Yrths)
+        mass: 1.276 × 10<sup>30</sup> kg<br />(213693.312 Yrths)
         density: 1.026 g/cm<sup>3</sup>
         surface_gravity: 191.168 m/s<sup>2</sup><br />(19.494 g<sub>0</sub>)
         escape_velocity: 505.353 km/s<br />(1,819,272 km/h)
         rotation_period: 57.662 d
         axial_tilt: 10.63°
         albedo: 0.30
-        temperature: 3564 K<br />(3291 °C)
+        temperature: 701 K<br />(428 °C)
       - name: 0045 Geardiad I b
         type: Asteroid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 453,326.9 km<br/>(71.155 Yrths)
         surface_area: 2.582 × 10<sup>12</sup> km<sup>2</sup><br/>(5062.998 Yrths)
         volume: 3.902 × 10<sup>17</sup> km<sup>3</sup><br/>(360256.378 Yrths)
-        mass: 1.115 × 10<sup>30</sup> kg<br />(1537.9818625947655 Yrths)
+        mass: 1.115 × 10<sup>30</sup> kg<br />(186761.489 Yrths)
         density: 2.858 g/cm<sup>3</sup>
         surface_gravity: 361.743 m/s<sup>2</sup><br />(36.888 g<sub>0</sub>)
         escape_velocity: 573.081 km/s<br />(2,063,090 km/h)
         rotation_period: 31.634 d
         axial_tilt: 37.03°
         albedo: 0.30
-        temperature: 3398 K<br />(3125 °C)
+        temperature: 701 K<br />(428 °C)
       - name: 0045 Geardiad I c
         type: Asteroid
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 496,754.3 km<br/>(77.971 Yrths)
         surface_area: 3.101 × 10<sup>12</sup> km<sup>2</sup><br/>(6079.502 Yrths)
         volume: 5.135 × 10<sup>17</sup> km<sup>3</sup><br/>(474025.865 Yrths)
-        mass: 7.340 × 10<sup>29</sup> kg<br />(1537.9818625947655 Yrths)
+        mass: 7.340 × 10<sup>29</sup> kg<br />(122913.845 Yrths)
         density: 1.430 g/cm<sup>3</sup>
         surface_gravity: 198.268 m/s<sup>2</sup><br />(20.218 g<sub>0</sub>)
         escape_velocity: 444.127 km/s<br />(1,598,858 km/h)
         rotation_period: 53.181 d
         axial_tilt: 53.20°
         albedo: 0.30
-        temperature: 2321 K<br />(2048 °C)
+        temperature: 701 K<br />(428 °C)
       - name: 0045 Geardiad I d
         type: Rocky
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 372,876.1 km<br/>(58.527 Yrths)
         surface_area: 1.747 × 10<sup>12</sup> km<sup>2</sup><br/>(3425.420 Yrths)
         volume: 2.172 × 10<sup>17</sup> km<sup>3</sup><br/>(200479.836 Yrths)
-        mass: 7.105 × 10<sup>29</sup> kg<br />(1537.9818625947655 Yrths)
+        mass: 7.105 × 10<sup>29</sup> kg<br />(118965.979 Yrths)
         density: 3.272 g/cm<sup>3</sup>
         surface_gravity: 340.588 m/s<sup>2</sup><br />(34.730 g<sub>0</sub>)
         escape_velocity: 504.321 km/s<br />(1,815,555 km/h)
         rotation_period: 54.466 d
         axial_tilt: 10.56°
         albedo: 0.30
-        temperature: 2213 K<br />(1940 °C)
+        temperature: 701 K<br />(428 °C)
       - name: 0045 Geardiad I e
         type: Asteroid
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 467,344.1 km<br/>(73.355 Yrths)
         surface_area: 2.745 × 10<sup>12</sup> km<sup>2</sup><br/>(5380.943 Yrths)
         volume: 4.276 × 10<sup>17</sup> km<sup>3</sup><br/>(394718.612 Yrths)
-        mass: 7.663 × 10<sup>29</sup> kg<br />(1537.9818625947655 Yrths)
+        mass: 7.663 × 10<sup>29</sup> kg<br />(128308.769 Yrths)
         density: 1.792 g/cm<sup>3</sup>
         surface_gravity: 233.840 m/s<sup>2</sup><br />(23.845 g<sub>0</sub>)
         escape_velocity: 467.829 km/s<br />(1,684,186 km/h)
         rotation_period: 47.207 d
         axial_tilt: 33.52°
         albedo: 0.30
-        temperature: 2110 K<br />(1837 °C)
+        temperature: 701 K<br />(428 °C)
       - name: 0045 Geardiad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 437,379.8 km<br/>(68.652 Yrths)
         surface_area: 2.404 × 10<sup>12</sup> km<sup>2</sup><br/>(4713.052 Yrths)
         volume: 3.505 × 10<sup>17</sup> km<sup>3</sup><br/>(323558.861 Yrths)
-        mass: 7.171 × 10<sup>29</sup> kg<br />(1537.9818625947655 Yrths)
+        mass: 7.171 × 10<sup>29</sup> kg<br />(120084.729 Yrths)
         density: 2.046 g/cm<sup>3</sup>
         surface_gravity: 249.865 m/s<sup>2</sup><br />(25.479 g<sub>0</sub>)
         escape_velocity: 467.835 km/s<br />(1,684,204 km/h)
         rotation_period: 44.604 d
         axial_tilt: 10.53°
         albedo: 0.30
-        temperature: 672 K<br />(399 °C)
+        temperature: 701 K<br />(428 °C)
       - name: 0045 Geardiad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -177,12 +177,12 @@ planets:
         radius: 719,452.9 km<br/>(112.926 Yrths)
         surface_area: 6.505 × 10<sup>12</sup> km<sup>2</sup><br/>(12752.331 Yrths)
         volume: 1.560 × 10<sup>18</sup> km<sup>3</sup><br/>(1440072.446 Yrths)
-        mass: 3.309 × 10<sup>30</sup> kg<br />(1537.9818625947655 Yrths)
+        mass: 3.309 × 10<sup>30</sup> kg<br />(554158.941 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 426.153 m/s<sup>2</sup><br />(43.456 g<sub>0</sub>)
         escape_velocity: 783.599 km/s<br />(2,820,956 km/h)
         rotation_period: 34.196 d
         axial_tilt: 29.01°
         albedo: 0.30
-        temperature: 459 K<br />(186 °C)
+        temperature: 701 K<br />(428 °C)
 ---

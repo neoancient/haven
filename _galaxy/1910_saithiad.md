@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1910 Saithiad is a star in the constellation Saith
+      1910 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 658.63 ly
 apparent_magnitude: 11.73
 absolute_magnitude: 5.20

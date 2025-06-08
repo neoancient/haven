@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3874 Anilliad A is a star in the constellation Anil
+      3874 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 510.67 ly
 apparent_magnitude: 7.39
 absolute_magnitude: 1.42

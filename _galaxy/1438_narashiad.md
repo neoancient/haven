@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1438 Narashiad is a star in the constellation Naras
+      1438 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 580.98 ly
 apparent_magnitude: 14.64
 absolute_magnitude: 8.38

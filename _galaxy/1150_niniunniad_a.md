@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1150 Niniunniad A is a star in the constellation Niniun
+      1150 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 370.51 ly
 apparent_magnitude: 7.27
 absolute_magnitude: 1.99

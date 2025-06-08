@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9241 Arkothiad is a star in the constellation Arkoth
+      9241 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1412.69 ly
 apparent_magnitude: 17.99
 absolute_magnitude: 9.81

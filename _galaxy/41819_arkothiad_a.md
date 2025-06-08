@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      41819 Arkothiad A is a star in the constellation Arkoth
+      41819 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 469.88 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 2.35

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11145 Dialkeshiad is a star in the constellation Dialkes
+      11145 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 259.08 ly
 apparent_magnitude: 9.17
 absolute_magnitude: 4.67

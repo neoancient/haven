@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1331 Anilliad A is a star in the constellation Anil
+      1331 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 417.48 ly
 apparent_magnitude: 11.56
 absolute_magnitude: 6.02

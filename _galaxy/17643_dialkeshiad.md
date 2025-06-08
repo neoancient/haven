@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      17643 Dialkeshiad is a star in the constellation Dialkes
+      17643 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 572.78 ly
 apparent_magnitude: 11.57
 absolute_magnitude: 5.35

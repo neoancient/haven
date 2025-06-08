@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0091 Kinanniad C is a star in the constellation Kinan
+      0091 Kinanniad C is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 117.09 ly
 apparent_magnitude: 7.45
 absolute_magnitude: 4.67
@@ -31,14 +31,14 @@ planets:
     radius: 33,852.2 km<br/>(5.313 Yrths)
     surface_area: 1.440 × 10<sup>10</sup> km<sup>2</sup><br/>(28.233 Yrths)
     volume: 1.625 × 10<sup>14</sup> km<sup>3</sup><br/>(150.016 Yrths)
-    mass: 1.637 × 10<sup>26</sup> kg<br />(27.412318766141322 Yrths)
+    mass: 1.637 × 10<sup>26</sup> kg<br />(27.41 Yrths)
     density: 1.007 g/cm<sup>3</sup>
     surface_gravity: 9.522 m/s<sup>2</sup><br />(0.971 g<sub>0</sub>)
     escape_velocity: 25.407 km/s<br />(91,466 km/h)
     rotation_period: 0.666 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 388 K<br />(115 °C)
+    temperature: 346 K<br />(73 °C)
     composition:
       - 81.7644% hydrogen
       - 10.5007% helium
@@ -56,14 +56,14 @@ planets:
         radius: 29,863.4 km<br/>(4.687 Yrths)
         surface_area: 1.121 × 10<sup>10</sup> km<sup>2</sup><br/>(21.972 Yrths)
         volume: 1.116 × 10<sup>14</sup> km<sup>3</sup><br/>(102.989 Yrths)
-        mass: 2.250 × 10<sup>26</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 2.250 × 10<sup>26</sup> kg<br />(37.670 Yrths)
         density: 2.017 g/cm<sup>3</sup>
         surface_gravity: 16.813 m/s<sup>2</sup><br />(1.714 g<sub>0</sub>)
         escape_velocity: 31.711 km/s<br />(114,158 km/h)
         rotation_period: 50.729 d
         axial_tilt: 14.62°
         albedo: 0.30
-        temperature: 2057 K<br />(1784 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I b
         type: Icy
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 14,952.1 km<br/>(2.347 Yrths)
         surface_area: 2.809 × 10<sup>09</sup> km<sup>2</sup><br/>(5.508 Yrths)
         volume: 1.400 × 10<sup>13</sup> km<sup>3</sup><br/>(12.927 Yrths)
-        mass: 2.271 × 10<sup>25</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 2.271 × 10<sup>25</sup> kg<br />(3.803 Yrths)
         density: 1.622 g/cm<sup>3</sup>
         surface_gravity: 6.772 m/s<sup>2</sup><br />(0.691 g<sub>0</sub>)
         escape_velocity: 14.240 km/s<br />(51,264 km/h)
         rotation_period: 65.443 d
         axial_tilt: 25.79°
         albedo: 0.30
-        temperature: 1961 K<br />(1688 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 39,491.6 km<br/>(6.199 Yrths)
         surface_area: 1.960 × 10<sup>10</sup> km<sup>2</sup><br/>(38.423 Yrths)
         volume: 2.580 × 10<sup>14</sup> km<sup>3</sup><br/>(238.172 Yrths)
-        mass: 6.094 × 10<sup>26</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 6.094 × 10<sup>26</sup> kg<br />(102.046 Yrths)
         density: 2.362 g/cm<sup>3</sup>
         surface_gravity: 26.045 m/s<sup>2</sup><br />(2.656 g<sub>0</sub>)
         escape_velocity: 45.386 km/s<br />(163,390 km/h)
         rotation_period: 53.242 d
         axial_tilt: 29.31°
         albedo: 0.30
-        temperature: 1870 K<br />(1597 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 18,688.3 km<br/>(2.933 Yrths)
         surface_area: 4.389 × 10<sup>09</sup> km<sup>2</sup><br/>(8.604 Yrths)
         volume: 2.734 × 10<sup>13</sup> km<sup>3</sup><br/>(25.240 Yrths)
-        mass: 6.261 × 10<sup>25</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 6.261 × 10<sup>25</sup> kg<br />(10.484 Yrths)
         density: 2.290 g/cm<sup>3</sup>
         surface_gravity: 11.949 m/s<sup>2</sup><br />(1.218 g<sub>0</sub>)
         escape_velocity: 21.148 km/s<br />(76,132 km/h)
         rotation_period: 55.105 d
         axial_tilt: 16.09°
         albedo: 0.30
-        temperature: 1783 K<br />(1510 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I e
         type: Icy
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 45,816.0 km<br/>(7.191 Yrths)
         surface_area: 2.638 × 10<sup>10</sup> km<sup>2</sup><br/>(51.715 Yrths)
         volume: 4.028 × 10<sup>14</sup> km<sup>3</sup><br/>(371.903 Yrths)
-        mass: 7.191 × 10<sup>26</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 7.191 × 10<sup>26</sup> kg<br />(120.419 Yrths)
         density: 1.785 g/cm<sup>3</sup>
         surface_gravity: 22.835 m/s<sup>2</sup><br />(2.328 g<sub>0</sub>)
         escape_velocity: 45.774 km/s<br />(164,785 km/h)
         rotation_period: 37.195 d
         axial_tilt: 15.01°
         albedo: 0.30
-        temperature: 1700 K<br />(1427 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I f
         type: Ice/rock hybrid
         formationType: Captured
@@ -156,14 +156,14 @@ planets:
         radius: 24,341.9 km<br/>(3.821 Yrths)
         surface_area: 7.446 × 10<sup>09</sup> km<sup>2</sup><br/>(14.598 Yrths)
         volume: 6.042 × 10<sup>13</sup> km<sup>3</sup><br/>(55.775 Yrths)
-        mass: 1.181 × 10<sup>26</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 1.181 × 10<sup>26</sup> kg<br />(19.772 Yrths)
         density: 1.954 g/cm<sup>3</sup>
         surface_gravity: 13.282 m/s<sup>2</sup><br />(1.354 g<sub>0</sub>)
         escape_velocity: 25.446 km/s<br />(91,606 km/h)
         rotation_period: 48.076 d
         axial_tilt: 22.52°
         albedo: 0.30
-        temperature: 1621 K<br />(1347 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -176,14 +176,14 @@ planets:
         radius: 38,372.2 km<br/>(6.023 Yrths)
         surface_area: 1.850 × 10<sup>10</sup> km<sup>2</sup><br/>(36.276 Yrths)
         volume: 2.367 × 10<sup>14</sup> km<sup>3</sup><br/>(218.488 Yrths)
-        mass: 4.707 × 10<sup>26</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 4.707 × 10<sup>26</sup> kg<br />(78.817 Yrths)
         density: 1.989 g/cm<sup>3</sup>
         surface_gravity: 21.307 m/s<sup>2</sup><br />(2.173 g<sub>0</sub>)
         escape_velocity: 40.465 km/s<br />(145,674 km/h)
         rotation_period: 36.314 d
         axial_tilt: 30.17°
         albedo: 0.30
-        temperature: 1545 K<br />(1272 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I h
         type: Ice/rock hybrid
         formationType: Captured
@@ -196,14 +196,14 @@ planets:
         radius: 16,737.6 km<br/>(2.627 Yrths)
         surface_area: 3.520 × 10<sup>09</sup> km<sup>2</sup><br/>(6.902 Yrths)
         volume: 1.964 × 10<sup>13</sup> km<sup>3</sup><br/>(18.132 Yrths)
-        mass: 4.001 × 10<sup>25</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 4.001 × 10<sup>25</sup> kg<br />(6.699 Yrths)
         density: 2.037 g/cm<sup>3</sup>
         surface_gravity: 9.519 m/s<sup>2</sup><br />(0.971 g<sub>0</sub>)
         escape_velocity: 17.862 km/s<br />(64,305 km/h)
         rotation_period: 50.836 d
         axial_tilt: 9.57°
         albedo: 0.30
-        temperature: 1473 K<br />(1200 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I i
         type: Icy
         formationType: Accreted
@@ -216,14 +216,14 @@ planets:
         radius: 35,319.6 km<br/>(5.544 Yrths)
         surface_area: 1.568 × 10<sup>10</sup> km<sup>2</sup><br/>(30.734 Yrths)
         volume: 1.846 × 10<sup>14</sup> km<sup>3</sup><br/>(170.382 Yrths)
-        mass: 2.897 × 10<sup>26</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 2.897 × 10<sup>26</sup> kg<br />(48.518 Yrths)
         density: 1.570 g/cm<sup>3</sup>
         surface_gravity: 15.481 m/s<sup>2</sup><br />(1.579 g<sub>0</sub>)
         escape_velocity: 33.092 km/s<br />(119,131 km/h)
         rotation_period: 62.108 d
         axial_tilt: 13.28°
         albedo: 0.30
-        temperature: 1405 K<br />(1132 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -236,14 +236,14 @@ planets:
         radius: 12,591.8 km<br/>(1.976 Yrths)
         surface_area: 1.992 × 10<sup>09</sup> km<sup>2</sup><br/>(3.906 Yrths)
         volume: 8.363 × 10<sup>12</sup> km<sup>3</sup><br/>(7.720 Yrths)
-        mass: 2.051 × 10<sup>25</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 2.051 × 10<sup>25</sup> kg<br />(3.435 Yrths)
         density: 2.453 g/cm<sup>3</sup>
         surface_gravity: 8.624 m/s<sup>2</sup><br />(0.879 g<sub>0</sub>)
         escape_velocity: 14.747 km/s<br />(53,089 km/h)
         rotation_period: 57.318 d
         axial_tilt: 15.03°
         albedo: 0.30
-        temperature: 1339 K<br />(1066 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -256,14 +256,14 @@ planets:
         radius: 21,359.8 km<br/>(3.353 Yrths)
         surface_area: 5.733 × 10<sup>09</sup> km<sup>2</sup><br/>(11.240 Yrths)
         volume: 4.082 × 10<sup>13</sup> km<sup>3</sup><br/>(37.685 Yrths)
-        mass: 8.231 × 10<sup>25</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 8.231 × 10<sup>25</sup> kg<br />(13.782 Yrths)
         density: 2.016 g/cm<sup>3</sup>
         surface_gravity: 12.024 m/s<sup>2</sup><br />(1.226 g<sub>0</sub>)
         escape_velocity: 22.680 km/s<br />(81,647 km/h)
         rotation_period: 35.058 d
         axial_tilt: 8.94°
         albedo: 0.30
-        temperature: 1218 K<br />(944 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0091 Kinanniad C I l
         type: Icy
         formationType: Captured
@@ -276,12 +276,12 @@ planets:
         radius: 16,924.0 km<br/>(2.656 Yrths)
         surface_area: 3.599 × 10<sup>09</sup> km<sup>2</sup><br/>(7.056 Yrths)
         volume: 2.030 × 10<sup>13</sup> km<sup>3</sup><br/>(18.745 Yrths)
-        mass: 3.355 × 10<sup>25</sup> kg<br />(27.412318766141322 Yrths)
+        mass: 3.355 × 10<sup>25</sup> kg<br />(5.618 Yrths)
         density: 1.652 g/cm<sup>3</sup>
         surface_gravity: 7.808 m/s<sup>2</sup><br />(0.796 g<sub>0</sub>)
         escape_velocity: 16.268 km/s<br />(58,564 km/h)
         rotation_period: 46.136 d
         axial_tilt: 19.14°
         albedo: 0.30
-        temperature: 1161 K<br />(888 °C)
+        temperature: 228 K<br />(-45 °C)
 ---

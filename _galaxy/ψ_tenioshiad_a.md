@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Tenioshiad A is a star in the constellation Tenios
+      ψ Tenioshiad A is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 236.69 ly
 apparent_magnitude: 6.45
 absolute_magnitude: 2.15

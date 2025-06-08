@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0022 Arkothiad B is a star in the constellation Arkoth
+      0022 Arkothiad B is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 348.61 ly
 apparent_magnitude: 9.05
 absolute_magnitude: 3.90

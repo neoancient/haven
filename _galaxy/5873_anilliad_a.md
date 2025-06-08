@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5873 Anilliad A is a star in the constellation Anil
+      5873 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 401.33 ly
 apparent_magnitude: 8.23
 absolute_magnitude: 2.78

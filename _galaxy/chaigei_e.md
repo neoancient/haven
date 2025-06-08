@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Chaigei E is a star in the constellation Atchian
+      Chaigei E is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 2729.99 ly
 apparent_magnitude: 0.61
 absolute_magnitude: -9.00

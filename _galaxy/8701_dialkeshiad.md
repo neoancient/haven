@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8701 Dialkeshiad is a star in the constellation Dialkes
+      8701 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 296.98 ly
 apparent_magnitude: 9.54
 absolute_magnitude: 4.75

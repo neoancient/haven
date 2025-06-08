@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2466 Keead A is a star in the constellation Kee
+      2466 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 198.32 ly
 apparent_magnitude: 7.95
 absolute_magnitude: 4.03

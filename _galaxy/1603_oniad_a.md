@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1603 Oniad A is a star in the constellation Oni
+      1603 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 493.09 ly
 apparent_magnitude: 7.27
 absolute_magnitude: 1.37

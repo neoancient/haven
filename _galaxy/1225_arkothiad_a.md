@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1225 Arkothiad A is a star in the constellation Arkoth
+      1225 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 191.77 ly
 apparent_magnitude: 7.73
 absolute_magnitude: 3.89

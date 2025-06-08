@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      323 Norriad is a star in the constellation Nor
+      323 Norriad is a star in the constellation <a href="nor.html">Nor</a>
 distance: 2122.10 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 1.61

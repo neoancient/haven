@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0048 Switheriad B is a star in the constellation Swither
+      0048 Switheriad B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 664.84 ly
 apparent_magnitude: 11.10
 absolute_magnitude: 4.55

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      281 Rinkaiad is a star in the constellation Rinka
+      281 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 729.82 ly
 apparent_magnitude: 11.60
 absolute_magnitude: 4.86

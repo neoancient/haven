@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1628 Tanashad A is a star in the constellation Tanas
+      1628 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 354.30 ly
 apparent_magnitude: 7.11
 absolute_magnitude: 1.93

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      95716 Dialkeshiad is a star in the constellation Dialkes
+      95716 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 613.01 ly
 apparent_magnitude: 11.55
 absolute_magnitude: 5.18

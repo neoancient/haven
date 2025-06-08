@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      15410 Shanniashiad A is a star in the constellation Shannias
+      15410 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 288.10 ly
 apparent_magnitude: 7.39
 absolute_magnitude: 2.66

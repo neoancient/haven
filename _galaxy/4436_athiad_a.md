@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4436 Athiad A is a star in the constellation Ath
+      4436 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1469.98 ly
 apparent_magnitude: 6.83
 absolute_magnitude: -1.44

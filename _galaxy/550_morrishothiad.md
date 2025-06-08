@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      550 Morrishothiad is a star in the constellation Morrishoth
+      550 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 391.41 ly
 apparent_magnitude: 10.08
 absolute_magnitude: 4.68

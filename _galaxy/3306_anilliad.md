@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3306 Anilliad is a star in the constellation Anil
+      3306 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 619.83 ly
 apparent_magnitude: 12.37
 absolute_magnitude: 5.97

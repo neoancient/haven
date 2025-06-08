@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6639 Arkothiad A is a star in the constellation Arkoth
+      6639 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 300.01 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 4.01

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      323 Erikkiad is a star in the constellation Erik
+      323 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1570.21 ly
 apparent_magnitude: 13.49
 absolute_magnitude: 5.08

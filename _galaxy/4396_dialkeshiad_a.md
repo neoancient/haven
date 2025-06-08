@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4396 Dialkeshiad A is a star in the constellation Dialkes
+      4396 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 545.76 ly
 apparent_magnitude: 6.88
 absolute_magnitude: 0.77

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10018 Tanashad A is a star in the constellation Tanas
+      10018 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 433.84 ly
 apparent_magnitude: 9.00
 absolute_magnitude: 3.38

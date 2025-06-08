@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      η Warshaiad A is a star in the constellation Warsha
+      η Warshaiad A is a star in the constellation <a href="warsha.html">Warsha</a>
 distance: 659.22 ly
 apparent_magnitude: 4.83
 absolute_magnitude: -1.70

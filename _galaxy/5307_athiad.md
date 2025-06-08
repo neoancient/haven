@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5307 Athiad is a star in the constellation Ath
+      5307 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 377.40 ly
 apparent_magnitude: 11.14
 absolute_magnitude: 5.82

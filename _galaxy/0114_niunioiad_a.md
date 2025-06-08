@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0114 Niunioiad A is a star in the constellation Niunio
+      0114 Niunioiad A is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 97.71 ly
 apparent_magnitude: 6.74
 absolute_magnitude: 4.36

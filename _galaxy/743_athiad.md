@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      743 Athiad is a star in the constellation Ath
+      743 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 358.87 ly
 apparent_magnitude: 10.21
 absolute_magnitude: 5.00
@@ -31,14 +31,14 @@ planets:
     radius: 7,125.0 km<br/>(1.118 Yrths)
     surface_area: 6.379 × 10<sup>08</sup> km<sup>2</sup><br/>(1.251 Yrths)
     volume: 1.515 × 10<sup>12</sup> km<sup>3</sup><br/>(1.399 Yrths)
-    mass: 1.144 × 10<sup>25</sup> kg<br />(1.9159604426423018 Yrths)
+    mass: 1.144 × 10<sup>25</sup> kg<br />(1.92 Yrths)
     density: 7.552 g/cm<sup>3</sup>
     surface_gravity: 15.023 m/s<sup>2</sup><br />(1.532 g<sub>0</sub>)
     escape_velocity: 14.641 km/s<br />(52,708 km/h)
     rotation_period: 1.563 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 392 K<br />(119 °C)
+    temperature: 362 K<br />(89 °C)
     surface_pressure: 139 kPa<br />(1 atm)
     composition:
       - 79.7096% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 3,874.8 km<br/>(0.608 Yrths)
         surface_area: 1.887 × 10<sup>08</sup> km<sup>2</sup><br/>(0.370 Yrths)
         volume: 2.437 × 10<sup>11</sup> km<sup>3</sup><br/>(0.225 Yrths)
-        mass: 5.405 × 10<sup>23</sup> kg<br />(1.9159604426423018 Yrths)
+        mass: 5.405 × 10<sup>23</sup> kg<br />(0.091 Yrths)
         density: 2.218 g/cm<sup>3</sup>
         surface_gravity: 2.400 m/s<sup>2</sup><br />(0.245 g<sub>0</sub>)
         escape_velocity: 4.315 km/s<br />(15,535 km/h)
         rotation_period: 64.154 d
         axial_tilt: 11.14°
         albedo: 0.30
-        temperature: 4061 K<br />(3788 °C)
+        temperature: 321 K<br />(48 °C)
       - name: 743 Athiad I b
         type: Rocky
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 1,701.1 km<br/>(0.267 Yrths)
         surface_area: 3.636 × 10<sup>07</sup> km<sup>2</sup><br/>(0.071 Yrths)
         volume: 2.062 × 10<sup>10</sup> km<sup>3</sup><br/>(0.019 Yrths)
-        mass: 5.740 × 10<sup>22</sup> kg<br />(1.9159604426423018 Yrths)
+        mass: 5.740 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.784 g/cm<sup>3</sup>
         surface_gravity: 1.322 m/s<sup>2</sup><br />(0.135 g<sub>0</sub>)
         escape_velocity: 2.122 km/s<br />(7,640 km/h)
         rotation_period: 53.414 d
         axial_tilt: 18.57°
         albedo: 0.30
-        temperature: 3872 K<br />(3599 °C)
+        temperature: 321 K<br />(48 °C)
       - name: 743 Athiad I c
         type: Rocky
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 4,866.4 km<br/>(0.764 Yrths)
         surface_area: 2.976 × 10<sup>08</sup> km<sup>2</sup><br/>(0.583 Yrths)
         volume: 4.827 × 10<sup>11</sup> km<sup>3</sup><br/>(0.446 Yrths)
-        mass: 1.266 × 10<sup>24</sup> kg<br />(1.9159604426423018 Yrths)
+        mass: 1.266 × 10<sup>24</sup> kg<br />(0.212 Yrths)
         density: 2.623 g/cm<sup>3</sup>
         surface_gravity: 3.563 m/s<sup>2</sup><br />(0.363 g<sub>0</sub>)
         escape_velocity: 5.893 km/s<br />(21,215 km/h)
         rotation_period: 34.888 d
         axial_tilt: 20.33°
         albedo: 0.30
-        temperature: 3692 K<br />(3419 °C)
+        temperature: 321 K<br />(48 °C)
   - name: 743 Athiad II
     type: Ice giant
     aphelion: 160,372,636 km<br />1.072 AU
@@ -117,14 +117,14 @@ planets:
     radius: 22,796.8 km<br/>(3.578 Yrths)
     surface_area: 6.531 × 10<sup>09</sup> km<sup>2</sup><br/>(12.804 Yrths)
     volume: 4.963 × 10<sup>13</sup> km<sup>3</sup><br/>(45.814 Yrths)
-    mass: 8.379 × 10<sup>25</sup> kg<br />(14.030859300086977 Yrths)
+    mass: 8.379 × 10<sup>25</sup> kg<br />(14.03 Yrths)
     density: 1.688 g/cm<sup>3</sup>
     surface_gravity: 10.747 m/s<sup>2</sup><br />(1.096 g<sub>0</sub>)
     escape_velocity: 22.150 km/s<br />(79,742 km/h)
     rotation_period: 0.781 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 422 K<br />(149 °C)
+    temperature: 390 K<br />(116 °C)
     composition:
       - 91.1577% hydrogen
       - 6.6489% helium
@@ -144,14 +144,14 @@ planets:
         radius: 10,879.4 km<br/>(1.708 Yrths)
         surface_area: 1.487 × 10<sup>09</sup> km<sup>2</sup><br/>(2.916 Yrths)
         volume: 5.394 × 10<sup>12</sup> km<sup>3</sup><br/>(4.980 Yrths)
-        mass: 1.051 × 10<sup>25</sup> kg<br />(14.030859300086977 Yrths)
+        mass: 1.051 × 10<sup>25</sup> kg<br />(1.759 Yrths)
         density: 1.948 g/cm<sup>3</sup>
         surface_gravity: 5.916 m/s<sup>2</sup><br />(0.603 g<sub>0</sub>)
         escape_velocity: 11.354 km/s<br />(40,873 km/h)
         rotation_period: 53.535 d
         axial_tilt: 28.70°
         albedo: 0.30
-        temperature: 2187 K<br />(1914 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 743 Athiad II b
         type: Dwarf planet
         formationType: Captured
@@ -164,14 +164,14 @@ planets:
         radius: 7,566.6 km<br/>(1.188 Yrths)
         surface_area: 7.195 × 10<sup>08</sup> km<sup>2</sup><br/>(1.411 Yrths)
         volume: 1.815 × 10<sup>12</sup> km<sup>3</sup><br/>(1.675 Yrths)
-        mass: 3.999 × 10<sup>24</sup> kg<br />(14.030859300086977 Yrths)
+        mass: 3.999 × 10<sup>24</sup> kg<br />(0.670 Yrths)
         density: 2.204 g/cm<sup>3</sup>
         surface_gravity: 4.656 m/s<sup>2</sup><br />(0.475 g<sub>0</sub>)
         escape_velocity: 8.400 km/s<br />(30,239 km/h)
         rotation_period: 46.149 d
         axial_tilt: 38.08°
         albedo: 0.30
-        temperature: 2085 K<br />(1812 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 743 Athiad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -184,14 +184,14 @@ planets:
         radius: 4,835.9 km<br/>(0.759 Yrths)
         surface_area: 2.939 × 10<sup>08</sup> km<sup>2</sup><br/>(0.576 Yrths)
         volume: 4.737 × 10<sup>11</sup> km<sup>3</sup><br/>(0.437 Yrths)
-        mass: 1.080 × 10<sup>24</sup> kg<br />(14.030859300086977 Yrths)
+        mass: 1.080 × 10<sup>24</sup> kg<br />(0.181 Yrths)
         density: 2.281 g/cm<sup>3</sup>
         surface_gravity: 3.079 m/s<sup>2</sup><br />(0.314 g<sub>0</sub>)
         escape_velocity: 5.461 km/s<br />(19,659 km/h)
         rotation_period: 52.799 d
         axial_tilt: 19.88°
         albedo: 0.30
-        temperature: 1988 K<br />(1715 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 743 Athiad II d
         type: Icy
         formationType: Accreted
@@ -204,14 +204,14 @@ planets:
         radius: 27,984.3 km<br/>(4.392 Yrths)
         surface_area: 9.841 × 10<sup>09</sup> km<sup>2</sup><br/>(19.294 Yrths)
         volume: 9.180 × 10<sup>13</sup> km<sup>3</sup><br/>(84.746 Yrths)
-        mass: 1.351 × 10<sup>26</sup> kg<br />(14.030859300086977 Yrths)
+        mass: 1.351 × 10<sup>26</sup> kg<br />(22.620 Yrths)
         density: 1.472 g/cm<sup>3</sup>
         surface_gravity: 11.497 m/s<sup>2</sup><br />(1.172 g<sub>0</sub>)
         escape_velocity: 25.384 km/s<br />(91,383 km/h)
         rotation_period: 51.551 d
         axial_tilt: 19.53°
         albedo: 0.30
-        temperature: 1807 K<br />(1534 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 743 Athiad II e
         type: Icy
         formationType: Accreted
@@ -224,14 +224,14 @@ planets:
         radius: 9,227.1 km<br/>(1.448 Yrths)
         surface_area: 1.070 × 10<sup>09</sup> km<sup>2</sup><br/>(2.098 Yrths)
         volume: 3.291 × 10<sup>12</sup> km<sup>3</sup><br/>(3.038 Yrths)
-        mass: 4.461 × 10<sup>24</sup> kg<br />(14.030859300086977 Yrths)
+        mass: 4.461 × 10<sup>24</sup> kg<br />(0.747 Yrths)
         density: 1.356 g/cm<sup>3</sup>
         surface_gravity: 3.492 m/s<sup>2</sup><br />(0.356 g<sub>0</sub>)
         escape_velocity: 8.033 km/s<br />(28,920 km/h)
         rotation_period: 58.495 d
         axial_tilt: 17.76°
         albedo: 0.30
-        temperature: 1723 K<br />(1450 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 743 Athiad II f
         type: Icy
         formationType: Captured
@@ -244,14 +244,14 @@ planets:
         radius: 14,509.2 km<br/>(2.277 Yrths)
         surface_area: 2.645 × 10<sup>09</sup> km<sup>2</sup><br/>(5.187 Yrths)
         volume: 1.279 × 10<sup>13</sup> km<sup>3</sup><br/>(11.812 Yrths)
-        mass: 2.197 × 10<sup>25</sup> kg<br />(14.030859300086977 Yrths)
+        mass: 2.197 × 10<sup>25</sup> kg<br />(3.679 Yrths)
         density: 1.717 g/cm<sup>3</sup>
         surface_gravity: 6.956 m/s<sup>2</sup><br />(0.709 g<sub>0</sub>)
         escape_velocity: 14.217 km/s<br />(51,181 km/h)
         rotation_period: 47.960 d
         axial_tilt: 21.19°
         albedo: 0.30
-        temperature: 1643 K<br />(1370 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 743 Athiad II g
         type: Dwarf planet
         formationType: Accreted
@@ -264,14 +264,14 @@ planets:
         radius: 13,830.1 km<br/>(2.171 Yrths)
         surface_area: 2.404 × 10<sup>09</sup> km<sup>2</sup><br/>(4.712 Yrths)
         volume: 1.108 × 10<sup>13</sup> km<sup>3</sup><br/>(10.229 Yrths)
-        mass: 2.765 × 10<sup>25</sup> kg<br />(14.030859300086977 Yrths)
+        mass: 2.765 × 10<sup>25</sup> kg<br />(4.630 Yrths)
         density: 2.495 g/cm<sup>3</sup>
         surface_gravity: 9.635 m/s<sup>2</sup><br />(0.982 g<sub>0</sub>)
         escape_velocity: 16.336 km/s<br />(58,809 km/h)
         rotation_period: 44.677 d
         axial_tilt: 38.40°
         albedo: 0.30
-        temperature: 1494 K<br />(1220 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 743 Athiad II h
         type: Ice/rock hybrid
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 9,951.7 km<br/>(1.562 Yrths)
         surface_area: 1.245 × 10<sup>09</sup> km<sup>2</sup><br/>(2.440 Yrths)
         volume: 4.128 × 10<sup>12</sup> km<sup>3</sup><br/>(3.811 Yrths)
-        mass: 8.367 × 10<sup>24</sup> kg<br />(14.030859300086977 Yrths)
+        mass: 8.367 × 10<sup>24</sup> kg<br />(1.401 Yrths)
         density: 2.027 g/cm<sup>3</sup>
         surface_gravity: 5.631 m/s<sup>2</sup><br />(0.574 g<sub>0</sub>)
         escape_velocity: 10.594 km/s<br />(38,138 km/h)
         rotation_period: 41.436 d
         axial_tilt: 20.83°
         albedo: 0.30
-        temperature: 1424 K<br />(1151 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 743 Athiad II i
         type: Icy
         formationType: Captured
@@ -304,14 +304,14 @@ planets:
         radius: 9,039.7 km<br/>(1.419 Yrths)
         surface_area: 1.027 × 10<sup>09</sup> km<sup>2</sup><br/>(2.013 Yrths)
         volume: 3.094 × 10<sup>12</sup> km<sup>3</sup><br/>(2.857 Yrths)
-        mass: 2.882 × 10<sup>24</sup> kg<br />(14.030859300086977 Yrths)
+        mass: 2.882 × 10<sup>24</sup> kg<br />(0.483 Yrths)
         density: 0.931 g/cm<sup>3</sup>
         surface_gravity: 2.350 m/s<sup>2</sup><br />(0.240 g<sub>0</sub>)
         escape_velocity: 6.523 km/s<br />(23,483 km/h)
         rotation_period: 75.952 d
         axial_tilt: 23.57°
         albedo: 0.30
-        temperature: 1358 K<br />(1085 °C)
+        temperature: 242 K<br />(-31 °C)
   - name: 743 Athiad III
     type: Ice giant
     aphelion: 283,240,552 km<br />1.893 AU
@@ -323,14 +323,14 @@ planets:
     radius: 4,569.6 km<br/>(0.717 Yrths)
     surface_area: 2.624 × 10<sup>08</sup> km<sup>2</sup><br/>(0.514 Yrths)
     volume: 3.997 × 10<sup>11</sup> km<sup>3</sup><br/>(0.369 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.494 g/cm<sup>3</sup>
     surface_gravity: 1.906 m/s<sup>2</sup><br />(0.194 g<sub>0</sub>)
     escape_velocity: 4.177 km/s<br />(15,036 km/h)
     rotation_period: 1.269 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 319 K<br />(46 °C)
+    temperature: 287 K<br />(13 °C)
     composition:
       - 92.5810% hydrogen
       - 7.2995% helium
@@ -349,14 +349,14 @@ planets:
         radius: 1,222.2 km<br/>(0.192 Yrths)
         surface_area: 1.877 × 10<sup>07</sup> km<sup>2</sup><br/>(0.037 Yrths)
         volume: 7.648 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 2.423 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 2.423 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 3.168 g/cm<sup>3</sup>
         surface_gravity: 1.081 m/s<sup>2</sup><br />(0.110 g<sub>0</sub>)
         escape_velocity: 1.627 km/s<br />(5,856 km/h)
         rotation_period: 39.816 d
         axial_tilt: 10.09°
         albedo: 0.30
-        temperature: 3576 K<br />(3302 °C)
+        temperature: 183 K<br />(-91 °C)
       - name: 743 Athiad III b
         type: Asteroid
         formationType: Captured
@@ -369,14 +369,14 @@ planets:
         radius: 503.0 km<br/>(0.079 Yrths)
         surface_area: 3.180 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.331 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.466 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.466 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.750 g/cm<sup>3</sup>
         surface_gravity: 0.386 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.624 km/s<br />(2,245 km/h)
         rotation_period: 32.352 d
         axial_tilt: 17.62°
         albedo: 0.30
-        temperature: 3409 K<br />(3136 °C)
+        temperature: 183 K<br />(-91 °C)
       - name: 743 Athiad III c
         type: Asteroid
         formationType: Captured
@@ -389,14 +389,14 @@ planets:
         radius: 638.7 km<br/>(0.100 Yrths)
         surface_area: 5.126 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.091 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.418 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.418 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.216 g/cm<sup>3</sup>
         surface_gravity: 0.395 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.711 km/s<br />(2,559 km/h)
         rotation_period: 34.774 d
         axial_tilt: 26.61°
         albedo: 0.30
-        temperature: 3099 K<br />(2826 °C)
+        temperature: 183 K<br />(-91 °C)
       - name: 743 Athiad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -409,14 +409,14 @@ planets:
         radius: 536.7 km<br/>(0.084 Yrths)
         surface_area: 3.620 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.477 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.447 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.447 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.234 g/cm<sup>3</sup>
         surface_gravity: 0.335 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.600 km/s<br />(2,159 km/h)
         rotation_period: 59.210 d
         axial_tilt: 8.11°
         albedo: 0.30
-        temperature: 2955 K<br />(2682 °C)
+        temperature: 183 K<br />(-91 °C)
       - name: 743 Athiad III e
         type: Icy
         formationType: Captured
@@ -429,14 +429,14 @@ planets:
         radius: 490.9 km<br/>(0.077 Yrths)
         surface_area: 3.028 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.955 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.433 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.433 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.298 g/cm<sup>3</sup>
         surface_gravity: 0.178 m/s<sup>2</sup><br />(0.018 g<sub>0</sub>)
         escape_velocity: 0.418 km/s<br />(1,506 km/h)
         rotation_period: 44.035 d
         axial_tilt: 15.75°
         albedo: 0.30
-        temperature: 2818 K<br />(2544 °C)
+        temperature: 183 K<br />(-91 °C)
   - name: 743 Athiad IV
     type: Gas dwarf
     aphelion: 541,938,086 km<br />3.623 AU
@@ -448,14 +448,14 @@ planets:
     radius: 3,888.6 km<br/>(0.610 Yrths)
     surface_area: 1.900 × 10<sup>08</sup> km<sup>2</sup><br/>(0.373 Yrths)
     volume: 2.463 × 10<sup>11</sup> km<sup>3</sup><br/>(0.227 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.425 g/cm<sup>3</sup>
     surface_gravity: 2.632 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
     escape_velocity: 4.528 km/s<br />(16,300 km/h)
     rotation_period: 1.248 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 184 K<br />(-89 °C)
+    temperature: 160 K<br />(-113 °C)
     composition:
       - 91.2362% hydrogen
       - 8.5793% helium
@@ -473,14 +473,14 @@ planets:
         radius: 1,008.6 km<br/>(0.158 Yrths)
         surface_area: 1.278 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.297 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 3.322 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.322 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.773 g/cm<sup>3</sup>
         surface_gravity: 0.218 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.663 km/s<br />(2,387 km/h)
         rotation_period: 61.587 d
         axial_tilt: 19.12°
         albedo: 0.30
-        temperature: 2826 K<br />(2553 °C)
+        temperature: 138 K<br />(-136 °C)
       - name: 743 Athiad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -493,14 +493,14 @@ planets:
         radius: 783.8 km<br/>(0.123 Yrths)
         surface_area: 7.719 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 2.017 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.647 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.647 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 0.613 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 0.981 km/s<br />(3,530 km/h)
         rotation_period: 49.555 d
         axial_tilt: 25.32°
         albedo: 0.30
-        temperature: 2694 K<br />(2421 °C)
+        temperature: 138 K<br />(-136 °C)
       - name: 743 Athiad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -513,14 +513,14 @@ planets:
         radius: 485.3 km<br/>(0.076 Yrths)
         surface_area: 2.959 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.787 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 9.566 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.566 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.998 g/cm<sup>3</sup>
         surface_gravity: 0.271 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.513 km/s<br />(1,847 km/h)
         rotation_period: 38.924 d
         axial_tilt: 23.40°
         albedo: 0.30
-        temperature: 2569 K<br />(2296 °C)
+        temperature: 138 K<br />(-136 °C)
       - name: 743 Athiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -533,14 +533,14 @@ planets:
         radius: 485.6 km<br/>(0.076 Yrths)
         surface_area: 2.963 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.797 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 7.675 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 7.675 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.217 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.459 km/s<br />(1,654 km/h)
         rotation_period: 40.403 d
         axial_tilt: 29.25°
         albedo: 0.30
-        temperature: 2449 K<br />(2176 °C)
+        temperature: 138 K<br />(-136 °C)
   - name: 743 Athiad V
     type: Ice giant
     aphelion: 949,424,195 km<br />6.346 AU
@@ -552,14 +552,14 @@ planets:
     radius: 23,679.5 km<br/>(3.717 Yrths)
     surface_area: 7.046 × 10<sup>09</sup> km<sup>2</sup><br/>(13.814 Yrths)
     volume: 5.562 × 10<sup>13</sup> km<sup>3</sup><br/>(51.344 Yrths)
-    mass: 7.805 × 10<sup>25</sup> kg<br />(13.069374095631103 Yrths)
+    mass: 7.805 × 10<sup>25</sup> kg<br />(13.07 Yrths)
     density: 1.403 g/cm<sup>3</sup>
     surface_gravity: 9.278 m/s<sup>2</sup><br />(0.946 g<sub>0</sub>)
     escape_velocity: 20.976 km/s<br />(75,513 km/h)
     rotation_period: 0.426 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 184 K<br />(-89 °C)
+    temperature: 166 K<br />(-107 °C)
     composition:
       - 70.5332% hydrogen
       - 27.1129% helium
@@ -577,14 +577,14 @@ planets:
         radius: 14,959.1 km<br/>(2.348 Yrths)
         surface_area: 2.812 × 10<sup>09</sup> km<sup>2</sup><br/>(5.513 Yrths)
         volume: 1.402 × 10<sup>13</sup> km<sup>3</sup><br/>(12.945 Yrths)
-        mass: 1.974 × 10<sup>25</sup> kg<br />(13.069374095631103 Yrths)
+        mass: 1.974 × 10<sup>25</sup> kg<br />(3.305 Yrths)
         density: 1.408 g/cm<sup>3</sup>
         surface_gravity: 5.879 m/s<sup>2</sup><br />(0.599 g<sub>0</sub>)
         escape_velocity: 13.271 km/s<br />(47,777 km/h)
         rotation_period: 52.059 d
         axial_tilt: 11.62°
         albedo: 0.30
-        temperature: 946 K<br />(673 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 743 Athiad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -597,14 +597,14 @@ planets:
         radius: 23,104.1 km<br/>(3.626 Yrths)
         surface_area: 6.708 × 10<sup>09</sup> km<sup>2</sup><br/>(13.151 Yrths)
         volume: 5.166 × 10<sup>13</sup> km<sup>3</sup><br/>(47.692 Yrths)
-        mass: 1.033 × 10<sup>26</sup> kg<br />(13.069374095631103 Yrths)
+        mass: 1.033 × 10<sup>26</sup> kg<br />(17.290 Yrths)
         density: 1.999 g/cm<sup>3</sup>
         surface_gravity: 12.893 m/s<sup>2</sup><br />(1.315 g<sub>0</sub>)
         escape_velocity: 24.425 km/s<br />(87,930 km/h)
         rotation_period: 42.657 d
         axial_tilt: 17.90°
         albedo: 0.30
-        temperature: 860 K<br />(587 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 743 Athiad V c
         type: Icy
         formationType: Captured
@@ -617,14 +617,14 @@ planets:
         radius: 18,688.7 km<br/>(2.933 Yrths)
         surface_area: 4.389 × 10<sup>09</sup> km<sup>2</sup><br/>(8.605 Yrths)
         volume: 2.734 × 10<sup>13</sup> km<sup>3</sup><br/>(25.241 Yrths)
-        mass: 2.716 × 10<sup>25</sup> kg<br />(13.069374095631103 Yrths)
+        mass: 2.716 × 10<sup>25</sup> kg<br />(4.547 Yrths)
         density: 0.993 g/cm<sup>3</sup>
         surface_gravity: 5.182 m/s<sup>2</sup><br />(0.528 g<sub>0</sub>)
         escape_velocity: 13.927 km/s<br />(50,137 km/h)
         rotation_period: 70.456 d
         axial_tilt: 12.06°
         albedo: 0.30
-        temperature: 820 K<br />(547 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 743 Athiad V d
         type: Icy
         formationType: Accreted
@@ -637,14 +637,14 @@ planets:
         radius: 13,575.5 km<br/>(2.131 Yrths)
         surface_area: 2.316 × 10<sup>09</sup> km<sup>2</sup><br/>(4.540 Yrths)
         volume: 1.048 × 10<sup>13</sup> km<sup>3</sup><br/>(9.675 Yrths)
-        mass: 1.991 × 10<sup>25</sup> kg<br />(13.069374095631103 Yrths)
+        mass: 1.991 × 10<sup>25</sup> kg<br />(3.334 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 7.201 m/s<sup>2</sup><br />(0.734 g<sub>0</sub>)
         escape_velocity: 13.992 km/s<br />(50,373 km/h)
         rotation_period: 44.132 d
         axial_tilt: 10.71°
         albedo: 0.30
-        temperature: 782 K<br />(509 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 743 Athiad V e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -657,14 +657,14 @@ planets:
         radius: 11,901.8 km<br/>(1.868 Yrths)
         surface_area: 1.780 × 10<sup>09</sup> km<sup>2</sup><br/>(3.490 Yrths)
         volume: 7.062 × 10<sup>12</sup> km<sup>3</sup><br/>(6.520 Yrths)
-        mass: 1.563 × 10<sup>25</sup> kg<br />(13.069374095631103 Yrths)
+        mass: 1.563 × 10<sup>25</sup> kg<br />(2.618 Yrths)
         density: 2.214 g/cm<sup>3</sup>
         surface_gravity: 7.357 m/s<sup>2</sup><br />(0.750 g<sub>0</sub>)
         escape_velocity: 13.242 km/s<br />(47,671 km/h)
         rotation_period: 38.123 d
         axial_tilt: 24.08°
         albedo: 0.30
-        temperature: 616 K<br />(343 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 743 Athiad V f
         type: Icy
         formationType: Accreted
@@ -677,14 +677,14 @@ planets:
         radius: 23,455.4 km<br/>(3.682 Yrths)
         surface_area: 6.913 × 10<sup>09</sup> km<sup>2</sup><br/>(13.554 Yrths)
         volume: 5.405 × 10<sup>13</sup> km<sup>3</sup><br/>(49.900 Yrths)
-        mass: 1.027 × 10<sup>26</sup> kg<br />(13.069374095631103 Yrths)
+        mass: 1.027 × 10<sup>26</sup> kg<br />(17.197 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 12.442 m/s<sup>2</sup><br />(1.269 g<sub>0</sub>)
         escape_velocity: 24.176 km/s<br />(87,033 km/h)
         rotation_period: 38.842 d
         axial_tilt: 10.92°
         albedo: 0.30
-        temperature: 587 K<br />(314 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 743 Athiad V g
         type: Icy
         formationType: Impact formed
@@ -697,14 +697,14 @@ planets:
         radius: 25,639.4 km<br/>(4.024 Yrths)
         surface_area: 8.261 × 10<sup>09</sup> km<sup>2</sup><br/>(16.196 Yrths)
         volume: 7.060 × 10<sup>13</sup> km<sup>3</sup><br/>(65.178 Yrths)
-        mass: 8.766 × 10<sup>25</sup> kg<br />(13.069374095631103 Yrths)
+        mass: 8.766 × 10<sup>25</sup> kg<br />(14.679 Yrths)
         density: 1.242 g/cm<sup>3</sup>
         surface_gravity: 8.888 m/s<sup>2</sup><br />(0.906 g<sub>0</sub>)
         escape_velocity: 21.364 km/s<br />(76,909 km/h)
         rotation_period: 75.759 d
         axial_tilt: 13.53°
         albedo: 0.30
-        temperature: 534 K<br />(261 °C)
+        temperature: 104 K<br />(-169 °C)
   - name: 743 Athiad VI
     type: Large terrestrial
     aphelion: 1,598,415,875 km<br />10.685 AU
@@ -716,14 +716,14 @@ planets:
     radius: 9,879.3 km<br/>(1.551 Yrths)
     surface_area: 1.226 × 10<sup>09</sup> km<sup>2</sup><br/>(2.405 Yrths)
     volume: 4.039 × 10<sup>12</sup> km<sup>3</sup><br/>(3.729 Yrths)
-    mass: 2.522 × 10<sup>25</sup> kg<br />(4.223338616449309 Yrths)
+    mass: 2.522 × 10<sup>25</sup> kg<br />(4.22 Yrths)
     density: 6.245 g/cm<sup>3</sup>
     surface_gravity: 17.224 m/s<sup>2</sup><br />(1.756 g<sub>0</sub>)
     escape_velocity: 18.460 km/s<br />(66,458 km/h)
     rotation_period: 0.644 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 132 K<br />(-142 °C)
+    temperature: 350 K<br />(76 °C)
     surface_pressure: 378 kPa<br />(4 atm)
     composition:
       - 90.8003% carbon dioxide
@@ -744,14 +744,14 @@ planets:
         radius: 8,099.5 km<br/>(1.271 Yrths)
         surface_area: 8.244 × 10<sup>08</sup> km<sup>2</sup><br/>(1.616 Yrths)
         volume: 2.226 × 10<sup>12</sup> km<sup>3</sup><br/>(2.055 Yrths)
-        mass: 4.607 × 10<sup>24</sup> kg<br />(4.223338616449309 Yrths)
+        mass: 4.607 × 10<sup>24</sup> kg<br />(0.771 Yrths)
         density: 2.070 g/cm<sup>3</sup>
         surface_gravity: 4.681 m/s<sup>2</sup><br />(0.477 g<sub>0</sub>)
         escape_velocity: 8.714 km/s<br />(31,370 km/h)
         rotation_period: 66.153 d
         axial_tilt: 18.27°
         albedo: 0.30
-        temperature: 1119 K<br />(846 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 743 Athiad VI b
         type: Icy
         formationType: Impact formed
@@ -764,14 +764,14 @@ planets:
         radius: 5,901.5 km<br/>(0.926 Yrths)
         surface_area: 4.377 × 10<sup>08</sup> km<sup>2</sup><br/>(0.858 Yrths)
         volume: 8.610 × 10<sup>11</sup> km<sup>3</sup><br/>(0.795 Yrths)
-        mass: 1.556 × 10<sup>24</sup> kg<br />(4.223338616449309 Yrths)
+        mass: 1.556 × 10<sup>24</sup> kg<br />(0.261 Yrths)
         density: 1.808 g/cm<sup>3</sup>
         surface_gravity: 2.979 m/s<sup>2</sup><br />(0.304 g<sub>0</sub>)
         escape_velocity: 5.933 km/s<br />(21,360 km/h)
         rotation_period: 50.076 d
         axial_tilt: 13.66°
         albedo: 0.30
-        temperature: 1067 K<br />(794 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 743 Athiad VI c
         type: Rocky
         formationType: Captured
@@ -784,14 +784,14 @@ planets:
         radius: 4,834.4 km<br/>(0.759 Yrths)
         surface_area: 2.937 × 10<sup>08</sup> km<sup>2</sup><br/>(0.576 Yrths)
         volume: 4.733 × 10<sup>11</sup> km<sup>3</sup><br/>(0.437 Yrths)
-        mass: 1.530 × 10<sup>24</sup> kg<br />(4.223338616449309 Yrths)
+        mass: 1.530 × 10<sup>24</sup> kg<br />(0.256 Yrths)
         density: 3.233 g/cm<sup>3</sup>
         surface_gravity: 4.364 m/s<sup>2</sup><br />(0.445 g<sub>0</sub>)
         escape_velocity: 6.500 km/s<br />(23,400 km/h)
         rotation_period: 35.485 d
         axial_tilt: 8.84°
         albedo: 0.30
-        temperature: 1017 K<br />(744 °C)
+        temperature: 78 K<br />(-195 °C)
   - name: 743 Athiad VII
     type: Gas giant
     aphelion: 2,720,817,881 km<br />18.187 AU
@@ -803,7 +803,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.138 g/cm<sup>3</sup>
     surface_gravity: 31873.845 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -824,14 +824,14 @@ planets:
         radius: 657.7 km<br/>(0.103 Yrths)
         surface_area: 5.436 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.192 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.625 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.625 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.203 g/cm<sup>3</sup>
         surface_gravity: 0.404 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.730 km/s<br />(2,628 km/h)
         rotation_period: 44.549 d
         axial_tilt: 29.40°
         albedo: 0.30
-        temperature: 621 K<br />(347 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 743 Athiad VII b
         type: Asteroid
         formationType: Captured
@@ -844,14 +844,14 @@ planets:
         radius: 736.7 km<br/>(0.116 Yrths)
         surface_area: 6.820 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.675 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.573 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.573 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.536 g/cm<sup>3</sup>
         surface_gravity: 0.316 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.683 km/s<br />(2,458 km/h)
         rotation_period: 70.032 d
         axial_tilt: 60.70°
         albedo: 0.30
-        temperature: 318 K<br />(45 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 743 Athiad VII c
         type: Icy
         formationType: Accreted
@@ -864,14 +864,14 @@ planets:
         radius: 800.9 km<br/>(0.126 Yrths)
         surface_area: 8.061 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.152 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.857 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.857 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.863 g/cm<sup>3</sup>
         surface_gravity: 0.193 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.556 km/s<br />(2,003 km/h)
         rotation_period: 74.426 d
         axial_tilt: 18.99°
         albedo: 0.30
-        temperature: 289 K<br />(16 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 743 Athiad VII d
         type: Icy
         formationType: Impact formed
@@ -884,14 +884,14 @@ planets:
         radius: 1,062.1 km<br/>(0.167 Yrths)
         surface_area: 1.417 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 5.018 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 3.914 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.914 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.780 g/cm<sup>3</sup>
         surface_gravity: 0.231 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.701 km/s<br />(2,525 km/h)
         rotation_period: 63.787 d
         axial_tilt: 26.93°
         albedo: 0.30
-        temperature: 263 K<br />(-10 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 743 Athiad VII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -904,14 +904,14 @@ planets:
         radius: 588.5 km<br/>(0.092 Yrths)
         surface_area: 4.353 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.539 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.818 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.818 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.129 g/cm<sup>3</sup>
         surface_gravity: 0.350 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.642 km/s<br />(2,312 km/h)
         rotation_period: 49.868 d
         axial_tilt: 33.11°
         albedo: 0.30
-        temperature: 180 K<br />(-93 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 743 Athiad VII f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -924,14 +924,14 @@ planets:
         radius: 1,049.7 km<br/>(0.165 Yrths)
         surface_area: 1.385 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.845 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 8.925 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 8.925 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.842 g/cm<sup>3</sup>
         surface_gravity: 0.540 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 1.065 km/s<br />(3,835 km/h)
         rotation_period: 43.635 d
         axial_tilt: 16.49°
         albedo: 0.30
-        temperature: 156 K<br />(-117 °C)
+        temperature: 59 K<br />(-214 °C)
   - name: 743 Athiad VIII
     type: Gas giant
     aphelion: 4,782,017,806 km<br />31.965 AU
@@ -943,7 +943,7 @@ planets:
     radius: 217.2 km<br/>(0.034 Yrths)
     surface_area: 5.929 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.292 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.432 × 10<sup>27</sup> kg<br />(239.7959852061571 Yrths)
+    mass: 1.432 × 10<sup>27</sup> kg<br />(239.80 Yrths)
     density: 33362796.861 g/cm<sup>3</sup>
     surface_gravity: 2023193.227 m/s<sup>2</sup><br />(206308.294 g<sub>0</sub>)
     escape_velocity: 938.131 km/s<br />(3,377,273 km/h)
@@ -964,14 +964,14 @@ planets:
         radius: 149,870.9 km<br/>(23.524 Yrths)
         surface_area: 2.823 × 10<sup>11</sup> km<sup>2</sup><br/>(553.375 Yrths)
         volume: 1.410 × 10<sup>16</sup> km<sup>3</sup><br/>(13017.542 Yrths)
-        mass: 1.676 × 10<sup>28</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 1.676 × 10<sup>28</sup> kg<br />(2805.979 Yrths)
         density: 1.188 g/cm<sup>3</sup>
         surface_gravity: 49.726 m/s<sup>2</sup><br />(5.071 g<sub>0</sub>)
         escape_velocity: 122.169 km/s<br />(439,809 km/h)
         rotation_period: 69.900 d
         axial_tilt: 24.98°
         albedo: 0.30
-        temperature: 196 K<br />(-77 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 743 Athiad VIII b
         type: Asteroid
         formationType: Captured
@@ -984,14 +984,14 @@ planets:
         radius: 213,139.8 km<br/>(33.455 Yrths)
         surface_area: 5.709 × 10<sup>11</sup> km<sup>2</sup><br/>(1119.216 Yrths)
         volume: 4.056 × 10<sup>16</sup> km<sup>3</sup><br/>(37443.040 Yrths)
-        mass: 6.111 × 10<sup>28</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 6.111 × 10<sup>28</sup> kg<br />(10232.456 Yrths)
         density: 1.507 g/cm<sup>3</sup>
         surface_gravity: 89.657 m/s<sup>2</sup><br />(9.143 g<sub>0</sub>)
         escape_velocity: 195.630 km/s<br />(704,268 km/h)
         rotation_period: 42.858 d
         axial_tilt: 54.84°
         albedo: 0.30
-        temperature: 178 K<br />(-95 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 743 Athiad VIII c
         type: Icy
         formationType: Accreted
@@ -1004,14 +1004,14 @@ planets:
         radius: 139,154.1 km<br/>(21.842 Yrths)
         surface_area: 2.433 × 10<sup>11</sup> km<sup>2</sup><br/>(477.064 Yrths)
         volume: 1.129 × 10<sup>16</sup> km<sup>3</sup><br/>(10419.932 Yrths)
-        mass: 1.418 × 10<sup>28</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 1.418 × 10<sup>28</sup> kg<br />(2374.412 Yrths)
         density: 1.256 g/cm<sup>3</sup>
         surface_gravity: 48.809 m/s<sup>2</sup><br />(4.977 g<sub>0</sub>)
         escape_velocity: 116.629 km/s<br />(419,866 km/h)
         rotation_period: 77.858 d
         axial_tilt: 21.98°
         albedo: 0.30
-        temperature: 162 K<br />(-111 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 743 Athiad VIII d
         type: Dwarf planet
         formationType: Impact formed
@@ -1024,14 +1024,14 @@ planets:
         radius: 129,298.8 km<br/>(20.295 Yrths)
         surface_area: 2.101 × 10<sup>11</sup> km<sup>2</sup><br/>(411.883 Yrths)
         volume: 9.055 × 10<sup>15</sup> km<sup>3</sup><br/>(8359.115 Yrths)
-        mass: 1.740 × 10<sup>28</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 1.740 × 10<sup>28</sup> kg<br />(2913.679 Yrths)
         density: 1.922 g/cm<sup>3</sup>
         surface_gravity: 69.373 m/s<sup>2</sup><br />(7.074 g<sub>0</sub>)
         escape_velocity: 134.030 km/s<br />(482,507 km/h)
         rotation_period: 36.423 d
         axial_tilt: 12.99°
         albedo: 0.30
-        temperature: 155 K<br />(-118 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 743 Athiad VIII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1044,14 +1044,14 @@ planets:
         radius: 114,797.4 km<br/>(18.019 Yrths)
         surface_area: 1.656 × 10<sup>11</sup> km<sup>2</sup><br/>(324.675 Yrths)
         volume: 6.337 × 10<sup>15</sup> km<sup>3</sup><br/>(5850.237 Yrths)
-        mass: 1.494 × 10<sup>28</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 1.494 × 10<sup>28</sup> kg<br />(2502.301 Yrths)
         density: 2.358 g/cm<sup>3</sup>
         surface_gravity: 75.581 m/s<sup>2</sup><br />(7.707 g<sub>0</sub>)
         escape_velocity: 131.820 km/s<br />(474,552 km/h)
         rotation_period: 37.524 d
         axial_tilt: 30.52°
         albedo: 0.30
-        temperature: 128 K<br />(-145 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 743 Athiad VIII f
         type: Ice/rock hybrid
         formationType: Captured
@@ -1064,14 +1064,14 @@ planets:
         radius: 121,469.3 km<br/>(19.066 Yrths)
         surface_area: 1.854 × 10<sup>11</sup> km<sup>2</sup><br/>(363.511 Yrths)
         volume: 7.507 × 10<sup>15</sup> km<sup>3</sup><br/>(6930.694 Yrths)
-        mass: 1.569 × 10<sup>28</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 1.569 × 10<sup>28</sup> kg<br />(2627.449 Yrths)
         density: 2.090 g/cm<sup>3</sup>
         surface_gravity: 70.882 m/s<sup>2</sup><br />(7.228 g<sub>0</sub>)
         escape_velocity: 131.314 km/s<br />(472,731 km/h)
         rotation_period: 38.687 d
         axial_tilt: 22.80°
         albedo: 0.30
-        temperature: 63 K<br />(-211 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 743 Athiad VIII g
         type: Dwarf planet
         formationType: Impact formed
@@ -1084,14 +1084,14 @@ planets:
         radius: 246,114.5 km<br/>(38.630 Yrths)
         surface_area: 7.612 × 10<sup>11</sup> km<sup>2</sup><br/>(1492.310 Yrths)
         volume: 6.245 × 10<sup>16</sup> km<sup>3</sup><br/>(57648.583 Yrths)
-        mass: 1.551 × 10<sup>29</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 1.551 × 10<sup>29</sup> kg<br />(25972.427 Yrths)
         density: 2.484 g/cm<sup>3</sup>
         surface_gravity: 170.677 m/s<sup>2</sup><br />(17.404 g<sub>0</sub>)
         escape_velocity: 290.045 km/s<br />(1,044,162 km/h)
         rotation_period: 46.895 d
         axial_tilt: 24.16°
         albedo: 0.30
-        temperature: 60 K<br />(-214 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 743 Athiad VIII h
         type: Ice/rock hybrid
         formationType: Captured
@@ -1104,14 +1104,14 @@ planets:
         radius: 176,600.7 km<br/>(27.719 Yrths)
         surface_area: 3.919 × 10<sup>11</sup> km<sup>2</sup><br/>(768.369 Yrths)
         volume: 2.307 × 10<sup>16</sup> km<sup>3</sup><br/>(21298.770 Yrths)
-        mass: 5.090 × 10<sup>28</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 5.090 × 10<sup>28</sup> kg<br />(8522.494 Yrths)
         density: 2.206 g/cm<sup>3</sup>
         surface_gravity: 108.772 m/s<sup>2</sup><br />(11.092 g<sub>0</sub>)
         escape_velocity: 196.139 km/s<br />(706,102 km/h)
         rotation_period: 44.686 d
         axial_tilt: 13.02°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 743 Athiad VIII i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1124,14 +1124,14 @@ planets:
         radius: 120,016.5 km<br/>(18.838 Yrths)
         surface_area: 1.810 × 10<sup>11</sup> km<sup>2</sup><br/>(354.868 Yrths)
         volume: 7.241 × 10<sup>15</sup> km<sup>3</sup><br/>(6684.973 Yrths)
-        mass: 1.590 × 10<sup>28</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 1.590 × 10<sup>28</sup> kg<br />(2661.658 Yrths)
         density: 2.195 g/cm<sup>3</sup>
         surface_gravity: 73.554 m/s<sup>2</sup><br />(7.500 g<sub>0</sub>)
         escape_velocity: 132.964 km/s<br />(478,670 km/h)
         rotation_period: 56.836 d
         axial_tilt: 23.15°
         albedo: 0.30
-        temperature: 41 K<br />(-232 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 743 Athiad VIII j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1144,14 +1144,14 @@ planets:
         radius: 118,223.6 km<br/>(18.557 Yrths)
         surface_area: 1.756 × 10<sup>11</sup> km<sup>2</sup><br/>(344.345 Yrths)
         volume: 6.922 × 10<sup>15</sup> km<sup>3</sup><br/>(6389.844 Yrths)
-        mass: 1.356 × 10<sup>28</sup> kg<br />(239.7959852061571 Yrths)
+        mass: 1.356 × 10<sup>28</sup> kg<br />(2270.784 Yrths)
         density: 1.959 g/cm<sup>3</sup>
         surface_gravity: 64.670 m/s<sup>2</sup><br />(6.595 g<sub>0</sub>)
         escape_velocity: 123.741 km/s<br />(445,467 km/h)
         rotation_period: 43.275 d
         axial_tilt: 25.76°
         albedo: 0.30
-        temperature: 37 K<br />(-236 °C)
+        temperature: 44 K<br />(-229 °C)
   - name: 743 Athiad IX
     type: Large terrestrial
     aphelion: 8,921,829,163 km<br />59.638 AU
@@ -1163,14 +1163,14 @@ planets:
     radius: 8,547.2 km<br/>(1.342 Yrths)
     surface_area: 9.180 × 10<sup>08</sup> km<sup>2</sup><br/>(1.800 Yrths)
     volume: 2.616 × 10<sup>12</sup> km<sup>3</sup><br/>(2.415 Yrths)
-    mass: 1.669 × 10<sup>25</sup> kg<br />(2.793981664845573 Yrths)
+    mass: 1.669 × 10<sup>25</sup> kg<br />(2.79 Yrths)
     density: 6.379 g/cm<sup>3</sup>
     surface_gravity: 15.223 m/s<sup>2</sup><br />(1.552 g<sub>0</sub>)
     escape_velocity: 16.143 km/s<br />(58,114 km/h)
     rotation_period: 0.658 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 46 K<br />(-227 °C)
+    temperature: 54 K<br />(-219 °C)
     surface_pressure: 491 kPa<br />(5 atm)
     composition:
       - 84.7468% methane
@@ -1188,14 +1188,14 @@ planets:
         radius: 5,188.2 km<br/>(0.814 Yrths)
         surface_area: 3.383 × 10<sup>08</sup> km<sup>2</sup><br/>(0.663 Yrths)
         volume: 5.850 × 10<sup>11</sup> km<sup>3</sup><br/>(0.540 Yrths)
-        mass: 6.806 × 10<sup>23</sup> kg<br />(2.793981664845573 Yrths)
+        mass: 6.806 × 10<sup>23</sup> kg<br />(0.114 Yrths)
         density: 1.163 g/cm<sup>3</sup>
         surface_gravity: 1.685 m/s<sup>2</sup><br />(0.172 g<sub>0</sub>)
         escape_velocity: 4.185 km/s<br />(15,064 km/h)
         rotation_period: 84.450 d
         axial_tilt: 14.14°
         albedo: 0.30
-        temperature: 411 K<br />(138 °C)
+        temperature: 33 K<br />(-240 °C)
       - name: 743 Athiad IX b
         type: Ice/rock hybrid
         formationType: Captured
@@ -1208,14 +1208,14 @@ planets:
         radius: 6,420.1 km<br/>(1.008 Yrths)
         surface_area: 5.180 × 10<sup>08</sup> km<sup>2</sup><br/>(1.015 Yrths)
         volume: 1.108 × 10<sup>12</sup> km<sup>3</sup><br/>(1.023 Yrths)
-        mass: 2.402 × 10<sup>24</sup> kg<br />(2.793981664845573 Yrths)
+        mass: 2.402 × 10<sup>24</sup> kg<br />(0.402 Yrths)
         density: 2.167 g/cm<sup>3</sup>
         surface_gravity: 3.884 m/s<sup>2</sup><br />(0.396 g<sub>0</sub>)
         escape_velocity: 7.067 km/s<br />(25,441 km/h)
         rotation_period: 45.893 d
         axial_tilt: 18.47°
         albedo: 0.30
-        temperature: 392 K<br />(119 °C)
+        temperature: 33 K<br />(-240 °C)
       - name: 743 Athiad IX c
         type: Rocky
         formationType: Captured
@@ -1228,12 +1228,12 @@ planets:
         radius: 2,533.9 km<br/>(0.398 Yrths)
         surface_area: 8.069 × 10<sup>07</sup> km<sup>2</sup><br/>(0.158 Yrths)
         volume: 6.815 × 10<sup>10</sup> km<sup>3</sup><br/>(0.063 Yrths)
-        mass: 2.221 × 10<sup>23</sup> kg<br />(2.793981664845573 Yrths)
+        mass: 2.221 × 10<sup>23</sup> kg<br />(0.037 Yrths)
         density: 3.260 g/cm<sup>3</sup>
         surface_gravity: 2.306 m/s<sup>2</sup><br />(0.235 g<sub>0</sub>)
         escape_velocity: 3.421 km/s<br />(12,315 km/h)
         rotation_period: 49.630 d
         axial_tilt: 18.15°
         albedo: 0.30
-        temperature: 374 K<br />(100 °C)
+        temperature: 33 K<br />(-240 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10225 Lulithannaid A is a star in the constellation Lulithan
+      10225 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 362.50 ly
 apparent_magnitude: 8.55
 absolute_magnitude: 3.32

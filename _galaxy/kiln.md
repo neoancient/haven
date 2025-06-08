@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Kiln is a star in the constellation Rinka
+      Kiln is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 178.45 ly
 apparent_magnitude: 4.10
 absolute_magnitude: 0.41

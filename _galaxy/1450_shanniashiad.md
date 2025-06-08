@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1450 Shanniashiad is a star in the constellation Shannias
+      1450 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 655.99 ly
 apparent_magnitude: 11.07
 absolute_magnitude: 4.56

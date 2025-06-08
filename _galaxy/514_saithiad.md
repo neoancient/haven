@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      514 Saithiad is a star in the constellation Saith
+      514 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1125.34 ly
 apparent_magnitude: 12.28
 absolute_magnitude: 4.59

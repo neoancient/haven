@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1141 Narashiad is a star in the constellation Naras
+      1141 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 318.71 ly
 apparent_magnitude: 19.52
 absolute_magnitude: 14.57

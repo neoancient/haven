@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6155 Dialkeshiad is a star in the constellation Dialkes
+      6155 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 612.96 ly
 apparent_magnitude: 12.20
 absolute_magnitude: 5.83

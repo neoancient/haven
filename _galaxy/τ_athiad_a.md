@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Athiad A is a star in the constellation Ath
+      τ Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 193.96 ly
 apparent_magnitude: 6.63
 absolute_magnitude: 2.75

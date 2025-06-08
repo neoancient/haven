@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1557 Shanniashiad A is a star in the constellation Shannias
+      1557 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1140.29 ly
 apparent_magnitude: 7.24
 absolute_magnitude: -0.48

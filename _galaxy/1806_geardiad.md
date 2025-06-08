@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1806 Geardiad is a star in the constellation Geard
+      1806 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 287.42 ly
 apparent_magnitude: 20.25
 absolute_magnitude: 15.52

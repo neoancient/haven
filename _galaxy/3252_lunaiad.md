@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3252 Lunaiad is a star in the constellation Luna
+      3252 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 472.50 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 5.18

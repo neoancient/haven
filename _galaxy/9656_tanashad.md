@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9656 Tanashad is a star in the constellation Tanas
+      9656 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 215.56 ly
 apparent_magnitude: 7.94
 absolute_magnitude: 3.84

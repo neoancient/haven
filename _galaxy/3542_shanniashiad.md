@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3542 Shanniashiad is a star in the constellation Shannias
+      3542 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 177.13 ly
 apparent_magnitude: 15.72
 absolute_magnitude: 12.05

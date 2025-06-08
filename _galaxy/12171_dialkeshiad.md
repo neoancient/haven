@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12171 Dialkeshiad is a star in the constellation Dialkes
+      12171 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 458.17 ly
 apparent_magnitude: 10.55
 absolute_magnitude: 4.81

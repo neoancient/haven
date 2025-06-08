@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Gil B is a star in the constellation Irsa
+      Gil B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 331.23 ly
 apparent_magnitude: 7.25
 absolute_magnitude: 2.21

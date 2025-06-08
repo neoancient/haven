@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4312 Noniashad is a star in the constellation Nonias
+      4312 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 435.92 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 4.35

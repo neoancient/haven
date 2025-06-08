@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0212 Switheriad A is a star in the constellation Swither
+      0212 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 443.68 ly
 apparent_magnitude: 5.61
 absolute_magnitude: -0.06

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      75 Nalithiad is a star in the constellation Nalith
+      75 Nalithiad is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 355.72 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 5.08

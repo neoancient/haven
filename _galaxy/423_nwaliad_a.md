@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      423 Nwaliad A is a star in the constellation Nwal
+      423 Nwaliad A is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 1123.30 ly
 apparent_magnitude: 6.80
 absolute_magnitude: -0.89

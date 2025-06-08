@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0121 Niniunniad is a star in the constellation Niniun
+      0121 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 277.34 ly
 apparent_magnitude: 6.31
 absolute_magnitude: 1.67
@@ -31,14 +31,14 @@ planets:
     radius: 25,563.2 km<br/>(4.012 Yrths)
     surface_area: 8.212 × 10<sup>09</sup> km<sup>2</sup><br/>(16.100 Yrths)
     volume: 6.997 × 10<sup>13</sup> km<sup>3</sup><br/>(64.599 Yrths)
-    mass: 1.037 × 10<sup>26</sup> kg<br />(17.369946897406518 Yrths)
+    mass: 1.037 × 10<sup>26</sup> kg<br />(17.37 Yrths)
     density: 1.482 g/cm<sup>3</sup>
     surface_gravity: 10.580 m/s<sup>2</sup><br />(1.079 g<sub>0</sub>)
     escape_velocity: 23.274 km/s<br />(83,786 km/h)
     rotation_period: 0.473 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 611 K<br />(338 °C)
+    temperature: 569 K<br />(295 °C)
     composition:
       - 53.0505% hydrogen
       - 41.7991% helium
@@ -57,14 +57,14 @@ planets:
         radius: 16,788.4 km<br/>(2.635 Yrths)
         surface_area: 3.542 × 10<sup>09</sup> km<sup>2</sup><br/>(6.944 Yrths)
         volume: 1.982 × 10<sup>13</sup> km<sup>3</sup><br/>(18.298 Yrths)
-        mass: 4.698 × 10<sup>25</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 4.698 × 10<sup>25</sup> kg<br />(7.866 Yrths)
         density: 2.370 g/cm<sup>3</sup>
         surface_gravity: 11.109 m/s<sup>2</sup><br />(1.133 g<sub>0</sub>)
         escape_velocity: 19.326 km/s<br />(69,575 km/h)
         rotation_period: 63.225 d
         axial_tilt: 20.68°
         albedo: 0.30
-        temperature: 2858 K<br />(2585 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0121 Niniunniad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 12,934.5 km<br/>(2.030 Yrths)
         surface_area: 2.102 × 10<sup>09</sup> km<sup>2</sup><br/>(4.122 Yrths)
         volume: 9.064 × 10<sup>12</sup> km<sup>3</sup><br/>(8.368 Yrths)
-        mass: 1.885 × 10<sup>25</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 1.885 × 10<sup>25</sup> kg<br />(3.157 Yrths)
         density: 2.080 g/cm<sup>3</sup>
         surface_gravity: 7.511 m/s<sup>2</sup><br />(0.766 g<sub>0</sub>)
         escape_velocity: 13.949 km/s<br />(50,215 km/h)
         rotation_period: 49.560 d
         axial_tilt: 16.64°
         albedo: 0.30
-        temperature: 2725 K<br />(2452 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0121 Niniunniad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 16,523.9 km<br/>(2.594 Yrths)
         surface_area: 3.431 × 10<sup>09</sup> km<sup>2</sup><br/>(6.727 Yrths)
         volume: 1.890 × 10<sup>13</sup> km<sup>3</sup><br/>(17.447 Yrths)
-        mass: 3.460 × 10<sup>25</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 3.460 × 10<sup>25</sup> kg<br />(5.793 Yrths)
         density: 1.831 g/cm<sup>3</sup>
         surface_gravity: 8.446 m/s<sup>2</sup><br />(0.861 g<sub>0</sub>)
         escape_velocity: 16.718 km/s<br />(60,185 km/h)
         rotation_period: 60.815 d
         axial_tilt: 22.38°
         albedo: 0.30
-        temperature: 2599 K<br />(2325 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0121 Niniunniad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 14,332.1 km<br/>(2.250 Yrths)
         surface_area: 2.581 × 10<sup>09</sup> km<sup>2</sup><br/>(5.061 Yrths)
         volume: 1.233 × 10<sup>13</sup> km<sup>3</sup><br/>(11.384 Yrths)
-        mass: 2.178 × 10<sup>25</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 2.178 × 10<sup>25</sup> kg<br />(3.646 Yrths)
         density: 1.766 g/cm<sup>3</sup>
         surface_gravity: 7.066 m/s<sup>2</sup><br />(0.721 g<sub>0</sub>)
         escape_velocity: 14.241 km/s<br />(51,268 km/h)
         rotation_period: 40.032 d
         axial_tilt: 11.81°
         albedo: 0.30
-        temperature: 2478 K<br />(2204 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0121 Niniunniad I e
         type: Asteroid
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 11,603.9 km<br/>(1.821 Yrths)
         surface_area: 1.692 × 10<sup>09</sup> km<sup>2</sup><br/>(3.317 Yrths)
         volume: 6.545 × 10<sup>12</sup> km<sup>3</sup><br/>(6.042 Yrths)
-        mass: 1.116 × 10<sup>25</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 1.116 × 10<sup>25</sup> kg<br />(1.869 Yrths)
         density: 1.705 g/cm<sup>3</sup>
         surface_gravity: 5.524 m/s<sup>2</sup><br />(0.563 g<sub>0</sub>)
         escape_velocity: 11.331 km/s<br />(40,790 km/h)
         rotation_period: 42.812 d
         axial_tilt: 33.56°
         albedo: 0.30
-        temperature: 2362 K<br />(2089 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0121 Niniunniad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 40,126.3 km<br/>(6.298 Yrths)
         surface_area: 2.023 × 10<sup>10</sup> km<sup>2</sup><br/>(39.668 Yrths)
         volume: 2.706 × 10<sup>14</sup> km<sup>3</sup><br/>(249.842 Yrths)
-        mass: 6.343 × 10<sup>26</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 6.343 × 10<sup>26</sup> kg<br />(106.210 Yrths)
         density: 2.344 g/cm<sup>3</sup>
         surface_gravity: 26.257 m/s<sup>2</sup><br />(2.677 g<sub>0</sub>)
         escape_velocity: 45.935 km/s<br />(165,367 km/h)
         rotation_period: 54.515 d
         axial_tilt: 19.26°
         albedo: 0.30
-        temperature: 2252 K<br />(1979 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0121 Niniunniad I g
         type: Icy
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 23,806.9 km<br/>(3.737 Yrths)
         surface_area: 7.122 × 10<sup>09</sup> km<sup>2</sup><br/>(13.963 Yrths)
         volume: 5.652 × 10<sup>13</sup> km<sup>3</sup><br/>(52.178 Yrths)
-        mass: 4.958 × 10<sup>25</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 4.958 × 10<sup>25</sup> kg<br />(8.302 Yrths)
         density: 0.877 g/cm<sup>3</sup>
         surface_gravity: 5.831 m/s<sup>2</sup><br />(0.595 g<sub>0</sub>)
         escape_velocity: 16.673 km/s<br />(60,024 km/h)
         rotation_period: 54.381 d
         axial_tilt: 19.89°
         albedo: 0.30
-        temperature: 2048 K<br />(1774 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0121 Niniunniad I h
         type: Icy
         formationType: Captured
@@ -197,14 +197,14 @@ planets:
         radius: 13,930.9 km<br/>(2.187 Yrths)
         surface_area: 2.439 × 10<sup>09</sup> km<sup>2</sup><br/>(4.781 Yrths)
         volume: 1.132 × 10<sup>13</sup> km<sup>3</sup><br/>(10.455 Yrths)
-        mass: 1.998 × 10<sup>25</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 1.998 × 10<sup>25</sup> kg<br />(3.345 Yrths)
         density: 1.764 g/cm<sup>3</sup>
         surface_gravity: 6.861 m/s<sup>2</sup><br />(0.700 g<sub>0</sub>)
         escape_velocity: 13.835 km/s<br />(49,806 km/h)
         rotation_period: 58.746 d
         axial_tilt: 18.69°
         albedo: 0.30
-        temperature: 1952 K<br />(1679 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0121 Niniunniad I i
         type: Ice/rock hybrid
         formationType: Captured
@@ -217,14 +217,14 @@ planets:
         radius: 9,935.2 km<br/>(1.559 Yrths)
         surface_area: 1.240 × 10<sup>09</sup> km<sup>2</sup><br/>(2.432 Yrths)
         volume: 4.108 × 10<sup>12</sup> km<sup>3</sup><br/>(3.792 Yrths)
-        mass: 8.683 × 10<sup>24</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 8.683 × 10<sup>24</sup> kg<br />(1.454 Yrths)
         density: 2.114 g/cm<sup>3</sup>
         surface_gravity: 5.863 m/s<sup>2</sup><br />(0.598 g<sub>0</sub>)
         escape_velocity: 10.801 km/s<br />(38,883 km/h)
         rotation_period: 34.434 d
         axial_tilt: 22.34°
         albedo: 0.30
-        temperature: 1861 K<br />(1588 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0121 Niniunniad I j
         type: Icy
         formationType: Captured
@@ -237,14 +237,14 @@ planets:
         radius: 14,715.7 km<br/>(2.310 Yrths)
         surface_area: 2.721 × 10<sup>09</sup> km<sup>2</sup><br/>(5.335 Yrths)
         volume: 1.335 × 10<sup>13</sup> km<sup>3</sup><br/>(12.323 Yrths)
-        mass: 1.007 × 10<sup>25</sup> kg<br />(17.369946897406518 Yrths)
+        mass: 1.007 × 10<sup>25</sup> kg<br />(1.687 Yrths)
         density: 0.755 g/cm<sup>3</sup>
         surface_gravity: 3.101 m/s<sup>2</sup><br />(0.316 g<sub>0</sub>)
         escape_velocity: 9.559 km/s<br />(34,413 km/h)
         rotation_period: 97.146 d
         axial_tilt: 22.29°
         albedo: 0.30
-        temperature: 1692 K<br />(1419 °C)
+        temperature: 305 K<br />(32 °C)
   - name: 0121 Niniunniad II
     type: Terrestrial
     aphelion: 938,548,558 km<br />6.274 AU
@@ -256,14 +256,14 @@ planets:
     radius: 7,210.1 km<br/>(1.132 Yrths)
     surface_area: 6.533 × 10<sup>08</sup> km<sup>2</sup><br/>(1.281 Yrths)
     volume: 1.570 × 10<sup>12</sup> km<sup>3</sup><br/>(1.449 Yrths)
-    mass: 7.966 × 10<sup>24</sup> kg<br />(1.3338358779178894 Yrths)
+    mass: 7.966 × 10<sup>24</sup> kg<br />(1.33 Yrths)
     density: 5.074 g/cm<sup>3</sup>
     surface_gravity: 10.213 m/s<sup>2</sup><br />(1.041 g<sub>0</sub>)
     escape_velocity: 12.144 km/s<br />(43,718 km/h)
     rotation_period: 0.934 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 260 K<br />(-13 °C)
+    temperature: 235 K<br />(-38 °C)
     surface_pressure: 97 kPa<br />(1 atm)
     composition:
       - 90.4821% nitrogen
@@ -283,14 +283,14 @@ planets:
         radius: 2,216.7 km<br/>(0.348 Yrths)
         surface_area: 6.175 × 10<sup>07</sup> km<sup>2</sup><br/>(0.121 Yrths)
         volume: 4.562 × 10<sup>10</sup> km<sup>3</sup><br/>(0.042 Yrths)
-        mass: 1.181 × 10<sup>23</sup> kg<br />(1.3338358779178894 Yrths)
+        mass: 1.181 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 2.589 g/cm<sup>3</sup>
         surface_gravity: 1.602 m/s<sup>2</sup><br />(0.163 g<sub>0</sub>)
         escape_velocity: 2.667 km/s<br />(9,602 km/h)
         rotation_period: 32.796 d
         axial_tilt: 33.63°
         albedo: 0.30
-        temperature: 3094 K<br />(2821 °C)
+        temperature: 215 K<br />(-58 °C)
       - name: 0121 Niniunniad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -303,14 +303,14 @@ planets:
         radius: 2,111.2 km<br/>(0.331 Yrths)
         surface_area: 5.601 × 10<sup>07</sup> km<sup>2</sup><br/>(0.110 Yrths)
         volume: 3.942 × 10<sup>10</sup> km<sup>3</sup><br/>(0.036 Yrths)
-        mass: 9.780 × 10<sup>22</sup> kg<br />(1.3338358779178894 Yrths)
+        mass: 9.780 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 2.481 g/cm<sup>3</sup>
         surface_gravity: 1.463 m/s<sup>2</sup><br />(0.149 g<sub>0</sub>)
         escape_velocity: 2.487 km/s<br />(8,952 km/h)
         rotation_period: 36.395 d
         axial_tilt: 25.29°
         albedo: 0.30
-        temperature: 2950 K<br />(2677 °C)
+        temperature: 215 K<br />(-58 °C)
   - name: 0121 Niniunniad III
     type: Large terrestrial
     aphelion: 1,971,718,765 km<br />13.180 AU
@@ -322,14 +322,14 @@ planets:
     radius: 11,708.9 km<br/>(1.838 Yrths)
     surface_area: 1.723 × 10<sup>09</sup> km<sup>2</sup><br/>(3.378 Yrths)
     volume: 6.724 × 10<sup>12</sup> km<sup>3</sup><br/>(6.208 Yrths)
-    mass: 4.464 × 10<sup>25</sup> kg<br />(7.4742762714961755 Yrths)
+    mass: 4.464 × 10<sup>25</sup> kg<br />(7.47 Yrths)
     density: 6.638 g/cm<sup>3</sup>
     surface_gravity: 21.701 m/s<sup>2</sup><br />(2.213 g<sub>0</sub>)
     escape_velocity: 22.558 km/s<br />(81,209 km/h)
     rotation_period: 0.549 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 215 K<br />(-58 °C)
+    temperature: 287 K<br />(14 °C)
     surface_pressure: 595 kPa<br />(6 atm)
     composition:
       - 91.7818% methane
@@ -349,14 +349,14 @@ planets:
         radius: 9,141.4 km<br/>(1.435 Yrths)
         surface_area: 1.050 × 10<sup>09</sup> km<sup>2</sup><br/>(2.059 Yrths)
         volume: 3.200 × 10<sup>12</sup> km<sup>3</sup><br/>(2.954 Yrths)
-        mass: 1.131 × 10<sup>25</sup> kg<br />(7.4742762714961755 Yrths)
+        mass: 1.131 × 10<sup>25</sup> kg<br />(1.893 Yrths)
         density: 3.534 g/cm<sup>3</sup>
         surface_gravity: 9.019 m/s<sup>2</sup><br />(0.920 g<sub>0</sub>)
         escape_velocity: 12.849 km/s<br />(46,258 km/h)
         rotation_period: 30.752 d
         axial_tilt: 16.88°
         albedo: 0.30
-        temperature: 1738 K<br />(1464 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 0121 Niniunniad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -369,14 +369,14 @@ planets:
         radius: 10,274.3 km<br/>(1.613 Yrths)
         surface_area: 1.327 × 10<sup>09</sup> km<sup>2</sup><br/>(2.601 Yrths)
         volume: 4.543 × 10<sup>12</sup> km<sup>3</sup><br/>(4.194 Yrths)
-        mass: 7.505 × 10<sup>24</sup> kg<br />(7.4742762714961755 Yrths)
+        mass: 7.505 × 10<sup>24</sup> kg<br />(1.257 Yrths)
         density: 1.652 g/cm<sup>3</sup>
         surface_gravity: 4.739 m/s<sup>2</sup><br />(0.483 g<sub>0</sub>)
         escape_velocity: 9.875 km/s<br />(35,548 km/h)
         rotation_period: 48.494 d
         axial_tilt: 18.23°
         albedo: 0.30
-        temperature: 1657 K<br />(1384 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 0121 Niniunniad III c
         type: Dwarf planet
         formationType: Impact formed
@@ -389,14 +389,14 @@ planets:
         radius: 14,178.6 km<br/>(2.225 Yrths)
         surface_area: 2.526 × 10<sup>09</sup> km<sup>2</sup><br/>(4.953 Yrths)
         volume: 1.194 × 10<sup>13</sup> km<sup>3</sup><br/>(11.022 Yrths)
-        mass: 1.910 × 10<sup>25</sup> kg<br />(7.4742762714961755 Yrths)
+        mass: 1.910 × 10<sup>25</sup> kg<br />(3.198 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 6.333 m/s<sup>2</sup><br />(0.646 g<sub>0</sub>)
         escape_velocity: 13.410 km/s<br />(48,275 km/h)
         rotation_period: 63.043 d
         axial_tilt: 21.34°
         albedo: 0.30
-        temperature: 1580 K<br />(1306 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 0121 Niniunniad III d
         type: Rocky
         formationType: Captured
@@ -409,14 +409,14 @@ planets:
         radius: 5,999.9 km<br/>(0.942 Yrths)
         surface_area: 4.524 × 10<sup>08</sup> km<sup>2</sup><br/>(0.887 Yrths)
         volume: 9.047 × 10<sup>11</sup> km<sup>3</sup><br/>(0.835 Yrths)
-        mass: 2.771 × 10<sup>24</sup> kg<br />(7.4742762714961755 Yrths)
+        mass: 2.771 × 10<sup>24</sup> kg<br />(0.464 Yrths)
         density: 3.063 g/cm<sup>3</sup>
         surface_gravity: 5.131 m/s<sup>2</sup><br />(0.523 g<sub>0</sub>)
         escape_velocity: 7.852 km/s<br />(28,267 km/h)
         rotation_period: 33.048 d
         axial_tilt: 23.35°
         albedo: 0.30
-        temperature: 1506 K<br />(1233 °C)
+        temperature: 152 K<br />(-121 °C)
   - name: 0121 Niniunniad IV
     type: Ice giant
     aphelion: 3,766,677,438 km<br />25.178 AU
@@ -428,14 +428,14 @@ planets:
     radius: 33,157.5 km<br/>(5.204 Yrths)
     surface_area: 1.382 × 10<sup>10</sup> km<sup>2</sup><br/>(27.086 Yrths)
     volume: 1.527 × 10<sup>14</sup> km<sup>3</sup><br/>(140.968 Yrths)
-    mass: 2.310 × 10<sup>26</sup> kg<br />(38.68758452275304 Yrths)
+    mass: 2.310 × 10<sup>26</sup> kg<br />(38.69 Yrths)
     density: 1.513 g/cm<sup>3</sup>
     surface_gravity: 14.007 m/s<sup>2</sup><br />(1.428 g<sub>0</sub>)
     escape_velocity: 30.498 km/s<br />(109,793 km/h)
     rotation_period: 0.302 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 201 K<br />(-72 °C)
+    temperature: 188 K<br />(-85 °C)
     composition:
       - 83.1927% hydrogen
       - 9.6322% helium
@@ -454,14 +454,14 @@ planets:
         radius: 49,207.7 km<br/>(7.724 Yrths)
         surface_area: 3.043 × 10<sup>10</sup> km<sup>2</sup><br/>(59.656 Yrths)
         volume: 4.991 × 10<sup>14</sup> km<sup>3</sup><br/>(460.763 Yrths)
-        mass: 8.527 × 10<sup>26</sup> kg<br />(38.68758452275304 Yrths)
+        mass: 8.527 × 10<sup>26</sup> kg<br />(142.790 Yrths)
         density: 1.709 g/cm<sup>3</sup>
         surface_gravity: 23.473 m/s<sup>2</sup><br />(2.394 g<sub>0</sub>)
         escape_velocity: 48.096 km/s<br />(173,146 km/h)
         rotation_period: 54.644 d
         axial_tilt: 13.43°
         albedo: 0.30
-        temperature: 660 K<br />(387 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0121 Niniunniad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -474,14 +474,14 @@ planets:
         radius: 39,642.7 km<br/>(6.222 Yrths)
         surface_area: 1.975 × 10<sup>10</sup> km<sup>2</sup><br/>(38.718 Yrths)
         volume: 2.610 × 10<sup>14</sup> km<sup>3</sup><br/>(240.916 Yrths)
-        mass: 5.531 × 10<sup>26</sup> kg<br />(38.68758452275304 Yrths)
+        mass: 5.531 × 10<sup>26</sup> kg<br />(92.621 Yrths)
         density: 2.120 g/cm<sup>3</sup>
         surface_gravity: 23.460 m/s<sup>2</sup><br />(2.392 g<sub>0</sub>)
         escape_velocity: 43.157 km/s<br />(155,365 km/h)
         rotation_period: 43.598 d
         axial_tilt: 30.37°
         albedo: 0.30
-        temperature: 600 K<br />(327 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0121 Niniunniad IV c
         type: Icy
         formationType: Accreted
@@ -494,14 +494,14 @@ planets:
         radius: 71,814.5 km<br/>(11.272 Yrths)
         surface_area: 6.481 × 10<sup>10</sup> km<sup>2</sup><br/>(127.060 Yrths)
         volume: 1.551 × 10<sup>15</sup> km<sup>3</sup><br/>(1432.233 Yrths)
-        mass: 1.086 × 10<sup>27</sup> kg<br />(38.68758452275304 Yrths)
+        mass: 1.086 × 10<sup>27</sup> kg<br />(181.846 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 14.035 m/s<sup>2</sup><br />(1.431 g<sub>0</sub>)
         escape_velocity: 44.929 km/s<br />(161,743 km/h)
         rotation_period: 65.025 d
         axial_tilt: 16.70°
         albedo: 0.30
-        temperature: 546 K<br />(272 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0121 Niniunniad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -514,14 +514,14 @@ planets:
         radius: 38,069.3 km<br/>(5.975 Yrths)
         surface_area: 1.821 × 10<sup>10</sup> km<sup>2</sup><br/>(35.705 Yrths)
         volume: 2.311 × 10<sup>14</sup> km<sup>3</sup><br/>(213.354 Yrths)
-        mass: 5.723 × 10<sup>26</sup> kg<br />(38.68758452275304 Yrths)
+        mass: 5.723 × 10<sup>26</sup> kg<br />(95.835 Yrths)
         density: 2.476 g/cm<sup>3</sup>
         surface_gravity: 26.321 m/s<sup>2</sup><br />(2.684 g<sub>0</sub>)
         escape_velocity: 44.797 km/s<br />(161,270 km/h)
         rotation_period: 31.695 d
         axial_tilt: 20.98°
         albedo: 0.30
-        temperature: 520 K<br />(247 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0121 Niniunniad IV e
         type: Icy
         formationType: Impact formed
@@ -534,12 +534,12 @@ planets:
         radius: 58,434.5 km<br/>(9.172 Yrths)
         surface_area: 4.291 × 10<sup>10</sup> km<sup>2</sup><br/>(84.125 Yrths)
         volume: 8.358 × 10<sup>14</sup> km<sup>3</sup><br/>(771.589 Yrths)
-        mass: 1.207 × 10<sup>27</sup> kg<br />(38.68758452275304 Yrths)
+        mass: 1.207 × 10<sup>27</sup> kg<br />(202.046 Yrths)
         density: 1.444 g/cm<sup>3</sup>
         surface_gravity: 23.553 m/s<sup>2</sup><br />(2.402 g<sub>0</sub>)
         escape_velocity: 52.501 km/s<br />(189,004 km/h)
         rotation_period: 60.115 d
         axial_tilt: 11.93°
         albedo: 0.30
-        temperature: 451 K<br />(178 °C)
+        temperature: 107 K<br />(-166 °C)
 ---

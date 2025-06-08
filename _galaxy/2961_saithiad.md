@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2961 Saithiad is a star in the constellation Saith
+      2961 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 256.21 ly
 apparent_magnitude: 8.86
 absolute_magnitude: 4.39

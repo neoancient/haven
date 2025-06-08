@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0035 Derriathiad is a star in the constellation Derriath
+      0035 Derriathiad is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 239.36 ly
 apparent_magnitude: 5.80
 absolute_magnitude: 1.47
@@ -31,7 +31,7 @@ planets:
     radius: 209.1 km<br/>(0.033 Yrths)
     surface_area: 5.493 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.828 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.343 × 10<sup>27</sup> kg<br />(224.88901107304676 Yrths)
+    mass: 1.343 × 10<sup>27</sup> kg<br />(224.89 Yrths)
     density: 35085475.550 g/cm<sup>3</sup>
     surface_gravity: 2047966.032 m/s<sup>2</sup><br />(208834.417 g<sub>0</sub>)
     escape_velocity: 926.012 km/s<br />(3,333,643 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 145,258.9 km<br/>(22.800 Yrths)
         surface_area: 2.652 × 10<sup>11</sup> km<sup>2</sup><br/>(519.841 Yrths)
         volume: 1.284 × 10<sup>16</sup> km<sup>3</sup><br/>(11852.372 Yrths)
-        mass: 3.507 × 10<sup>28</sup> kg<br />(224.88901107304676 Yrths)
+        mass: 3.507 × 10<sup>28</sup> kg<br />(5872.864 Yrths)
         density: 2.732 g/cm<sup>3</sup>
         surface_gravity: 110.790 m/s<sup>2</sup><br />(11.297 g<sub>0</sub>)
         escape_velocity: 179.528 km/s<br />(646,300 km/h)
         rotation_period: 44.060 d
         axial_tilt: 20.35°
         albedo: 0.30
-        temperature: 1872 K<br />(1599 °C)
+        temperature: 305 K<br />(31 °C)
       - name: 0035 Derriathiad I b
         type: Icy
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 210,711.3 km<br/>(33.074 Yrths)
         surface_area: 5.579 × 10<sup>11</sup> km<sup>2</sup><br/>(1093.857 Yrths)
         volume: 3.919 × 10<sup>16</sup> km<sup>3</sup><br/>(36177.693 Yrths)
-        mass: 4.248 × 10<sup>28</sup> kg<br />(224.88901107304676 Yrths)
+        mass: 4.248 × 10<sup>28</sup> kg<br />(7112.812 Yrths)
         density: 1.084 g/cm<sup>3</sup>
         surface_gravity: 63.768 m/s<sup>2</sup><br />(6.503 g<sub>0</sub>)
         escape_velocity: 164.042 km/s<br />(590,550 km/h)
         rotation_period: 47.791 d
         axial_tilt: 15.04°
         albedo: 0.30
-        temperature: 1279 K<br />(1005 °C)
+        temperature: 305 K<br />(31 °C)
       - name: 0035 Derriathiad I c
         type: Icy
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 265,799.9 km<br/>(41.720 Yrths)
         surface_area: 8.878 × 10<sup>11</sup> km<sup>2</sup><br/>(1740.582 Yrths)
         volume: 7.866 × 10<sup>16</sup> km<sup>3</sup><br/>(72617.550 Yrths)
-        mass: 8.747 × 10<sup>28</sup> kg<br />(224.88901107304676 Yrths)
+        mass: 8.747 × 10<sup>28</sup> kg<br />(14646.259 Yrths)
         density: 1.112 g/cm<sup>3</sup>
         surface_gravity: 82.519 m/s<sup>2</sup><br />(8.415 g<sub>0</sub>)
         escape_velocity: 209.587 km/s<br />(754,512 km/h)
         rotation_period: 55.840 d
         axial_tilt: 25.88°
         albedo: 0.30
-        temperature: 757 K<br />(484 °C)
+        temperature: 305 K<br />(31 °C)
       - name: 0035 Derriathiad I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 188,354.6 km<br/>(29.564 Yrths)
         surface_area: 4.458 × 10<sup>11</sup> km<sup>2</sup><br/>(874.052 Yrths)
         volume: 2.799 × 10<sup>16</sup> km<sup>3</sup><br/>(25840.794 Yrths)
-        mass: 3.299 × 10<sup>28</sup> kg<br />(224.88901107304676 Yrths)
+        mass: 3.299 × 10<sup>28</sup> kg<br />(5524.600 Yrths)
         density: 1.179 g/cm<sup>3</sup>
         surface_gravity: 61.985 m/s<sup>2</sup><br />(6.321 g<sub>0</sub>)
         escape_velocity: 152.911 km/s<br />(550,481 km/h)
         rotation_period: 83.621 d
         axial_tilt: 19.97°
         albedo: 0.30
-        temperature: 470 K<br />(197 °C)
+        temperature: 305 K<br />(31 °C)
       - name: 0035 Derriathiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 140,857.7 km<br/>(22.109 Yrths)
         surface_area: 2.493 × 10<sup>11</sup> km<sup>2</sup><br/>(488.817 Yrths)
         volume: 1.171 × 10<sup>16</sup> km<sup>3</sup><br/>(10807.350 Yrths)
-        mass: 2.332 × 10<sup>28</sup> kg<br />(224.88901107304676 Yrths)
+        mass: 2.332 × 10<sup>28</sup> kg<br />(3904.909 Yrths)
         density: 1.992 g/cm<sup>3</sup>
         surface_gravity: 78.340 m/s<sup>2</sup><br />(7.988 g<sub>0</sub>)
         escape_velocity: 148.660 km/s<br />(535,174 km/h)
         rotation_period: 52.338 d
         axial_tilt: 25.18°
         albedo: 0.30
-        temperature: 353 K<br />(80 °C)
+        temperature: 305 K<br />(31 °C)
       - name: 0035 Derriathiad I f
         type: Icy
         formationType: Impact formed
@@ -152,14 +152,14 @@ planets:
         radius: 199,457.2 km<br/>(31.307 Yrths)
         surface_area: 4.999 × 10<sup>11</sup> km<sup>2</sup><br/>(980.132 Yrths)
         volume: 3.324 × 10<sup>16</sup> km<sup>3</sup><br/>(30685.036 Yrths)
-        mass: 3.189 × 10<sup>28</sup> kg<br />(224.88901107304676 Yrths)
+        mass: 3.189 × 10<sup>28</sup> kg<br />(5339.715 Yrths)
         density: 0.959 g/cm<sup>3</sup>
         surface_gravity: 53.426 m/s<sup>2</sup><br />(5.448 g<sub>0</sub>)
         escape_velocity: 146.087 km/s<br />(525,914 km/h)
         rotation_period: 59.999 d
         axial_tilt: 22.32°
         albedo: 0.30
-        temperature: 278 K<br />(5 °C)
+        temperature: 305 K<br />(31 °C)
       - name: 0035 Derriathiad I g
         type: Dwarf planet
         formationType: Captured
@@ -172,12 +172,12 @@ planets:
         radius: 159,464.1 km<br/>(25.030 Yrths)
         surface_area: 3.195 × 10<sup>11</sup> km<sup>2</sup><br/>(626.485 Yrths)
         volume: 1.699 × 10<sup>16</sup> km<sup>3</sup><br/>(15680.716 Yrths)
-        mass: 2.921 × 10<sup>28</sup> kg<br />(224.88901107304676 Yrths)
+        mass: 2.921 × 10<sup>28</sup> kg<br />(4890.457 Yrths)
         density: 1.719 g/cm<sup>3</sup>
         surface_gravity: 76.553 m/s<sup>2</sup><br />(7.806 g<sub>0</sub>)
         escape_velocity: 156.358 km/s<br />(562,890 km/h)
         rotation_period: 45.840 d
         axial_tilt: 28.18°
         albedo: 0.30
-        temperature: 241 K<br />(-32 °C)
+        temperature: 305 K<br />(31 °C)
 ---

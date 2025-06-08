@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      51760 Shanniashiad A is a star in the constellation Shannias
+      51760 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 174.93 ly
 apparent_magnitude: 9.65
 absolute_magnitude: 6.00

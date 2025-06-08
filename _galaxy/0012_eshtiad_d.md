@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0012 Eshtiad D is a star in the constellation Eshti
+      0012 Eshtiad D is a star in the constellation <a href="eshti.html">Eshti</a>
 distance: 365.65 ly
 apparent_magnitude: 10.54
 absolute_magnitude: 5.29
@@ -31,14 +31,14 @@ planets:
     radius: 6,557.5 km<br/>(1.029 Yrths)
     surface_area: 5.404 × 10<sup>08</sup> km<sup>2</sup><br/>(1.059 Yrths)
     volume: 1.181 × 10<sup>12</sup> km<sup>3</sup><br/>(1.090 Yrths)
-    mass: 6.621 × 10<sup>24</sup> kg<br />(1.1086687868940377 Yrths)
+    mass: 6.621 × 10<sup>24</sup> kg<br />(1.11 Yrths)
     density: 5.605 g/cm<sup>3</sup>
     surface_gravity: 10.263 m/s<sup>2</sup><br />(1.046 g<sub>0</sub>)
     escape_velocity: 11.609 km/s<br />(41,794 km/h)
     rotation_period: 1.425 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 344 K<br />(71 °C)
+    temperature: 375 K<br />(102 °C)
     surface_pressure: 50 kPa<br />(0 atm)
     composition:
       - 88.6014% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 2,855.0 km<br/>(0.448 Yrths)
         surface_area: 1.024 × 10<sup>08</sup> km<sup>2</sup><br/>(0.201 Yrths)
         volume: 9.748 × 10<sup>10</sup> km<sup>3</sup><br/>(0.090 Yrths)
-        mass: 2.974 × 10<sup>23</sup> kg<br />(1.1086687868940377 Yrths)
+        mass: 2.974 × 10<sup>23</sup> kg<br />(0.050 Yrths)
         density: 3.051 g/cm<sup>3</sup>
         surface_gravity: 2.432 m/s<sup>2</sup><br />(0.248 g<sub>0</sub>)
         escape_velocity: 3.729 km/s<br />(13,425 km/h)
         rotation_period: 38.133 d
         axial_tilt: 20.19°
         albedo: 0.30
-        temperature: 4167 K<br />(3894 °C)
+        temperature: 290 K<br />(17 °C)
   - name: 0012 Eshtiad D II
     type: Terrestrial
     aphelion: 159,406,814 km<br />1.066 AU
@@ -77,14 +77,14 @@ planets:
     radius: 8,586.0 km<br/>(1.348 Yrths)
     surface_area: 9.264 × 10<sup>08</sup> km<sup>2</sup><br/>(1.816 Yrths)
     volume: 2.651 × 10<sup>12</sup> km<sup>3</sup><br/>(2.448 Yrths)
-    mass: 1.217 × 10<sup>25</sup> kg<br />(2.0383025968811332 Yrths)
+    mass: 1.217 × 10<sup>25</sup> kg<br />(2.04 Yrths)
     density: 4.591 g/cm<sup>3</sup>
     surface_gravity: 11.006 m/s<sup>2</sup><br />(1.122 g<sub>0</sub>)
     escape_velocity: 13.757 km/s<br />(49,524 km/h)
     rotation_period: 0.965 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 270 K<br />(-3 °C)
+    temperature: 356 K<br />(83 °C)
     surface_pressure: 37 kPa<br />(0 atm)
     composition:
       - 78.4367% nitrogen
@@ -104,12 +104,12 @@ planets:
         radius: 3,296.5 km<br/>(0.517 Yrths)
         surface_area: 1.366 × 10<sup>08</sup> km<sup>2</sup><br/>(0.268 Yrths)
         volume: 1.501 × 10<sup>11</sup> km<sup>3</sup><br/>(0.139 Yrths)
-        mass: 4.564 × 10<sup>23</sup> kg<br />(2.0383025968811332 Yrths)
+        mass: 4.564 × 10<sup>23</sup> kg<br />(0.076 Yrths)
         density: 3.041 g/cm<sup>3</sup>
         surface_gravity: 2.799 m/s<sup>2</sup><br />(0.285 g<sub>0</sub>)
         escape_velocity: 4.299 km/s<br />(15,476 km/h)
         rotation_period: 29.842 d
         axial_tilt: 16.51°
         albedo: 0.30
-        temperature: 3013 K<br />(2740 °C)
+        temperature: 226 K<br />(-47 °C)
 ---

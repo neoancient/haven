@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0137 Switheriad A is a star in the constellation Swither
+      0137 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 165.90 ly
 apparent_magnitude: 6.42
 absolute_magnitude: 2.89

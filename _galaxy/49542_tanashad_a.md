@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      49542 Tanashad A is a star in the constellation Tanas
+      49542 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 623.45 ly
 apparent_magnitude: 7.34
 absolute_magnitude: 0.94

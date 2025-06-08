@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4108 Dialkeshiad A is a star in the constellation Dialkes
+      4108 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 264.96 ly
 apparent_magnitude: 11.34
 absolute_magnitude: 6.79

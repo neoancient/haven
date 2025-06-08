@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7244 Tanashad is a star in the constellation Tanas
+      7244 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 195.41 ly
 apparent_magnitude: 8.78
 absolute_magnitude: 4.89

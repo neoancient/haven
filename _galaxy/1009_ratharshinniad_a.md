@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1009 Ratharshinniad A is a star in the constellation Ratharshin
+      1009 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 457.81 ly
 apparent_magnitude: 7.85
 absolute_magnitude: 2.11

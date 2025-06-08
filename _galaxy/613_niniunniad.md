@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      613 Niniunniad is a star in the constellation Niniun
+      613 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 202.84 ly
 apparent_magnitude: 7.77
 absolute_magnitude: 3.81
@@ -31,14 +31,14 @@ planets:
     radius: 7,650.1 km<br/>(1.201 Yrths)
     surface_area: 7.354 × 10<sup>08</sup> km<sup>2</sup><br/>(1.442 Yrths)
     volume: 1.875 × 10<sup>12</sup> km<sup>3</sup><br/>(1.731 Yrths)
-    mass: 9.892 × 10<sup>24</sup> kg<br />(1.6563605817439433 Yrths)
+    mass: 9.892 × 10<sup>24</sup> kg<br />(1.66 Yrths)
     density: 5.275 g/cm<sup>3</sup>
     surface_gravity: 11.266 m/s<sup>2</sup><br />(1.149 g<sub>0</sub>)
     escape_velocity: 13.138 km/s<br />(47,296 km/h)
     rotation_period: 0.983 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 419 K<br />(146 °C)
+    temperature: 502 K<br />(229 °C)
     surface_pressure: 107 kPa<br />(1 atm)
     composition:
       - 85.7581% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 3,193.8 km<br/>(0.501 Yrths)
         surface_area: 1.282 × 10<sup>08</sup> km<sup>2</sup><br/>(0.251 Yrths)
         volume: 1.365 × 10<sup>11</sup> km<sup>3</sup><br/>(0.126 Yrths)
-        mass: 3.248 × 10<sup>23</sup> kg<br />(1.6563605817439433 Yrths)
+        mass: 3.248 × 10<sup>23</sup> kg<br />(0.054 Yrths)
         density: 2.380 g/cm<sup>3</sup>
         surface_gravity: 2.122 m/s<sup>2</sup><br />(0.216 g<sub>0</sub>)
         escape_velocity: 3.684 km/s<br />(13,264 km/h)
         rotation_period: 63.153 d
         axial_tilt: 23.22°
         albedo: 0.30
-        temperature: 4770 K<br />(4497 °C)
+        temperature: 334 K<br />(61 °C)
   - name: 613 Niniunniad II
     type: Gas dwarf
     aphelion: 258,620,506 km<br />1.729 AU
@@ -77,14 +77,14 @@ planets:
     radius: 20,567.3 km<br/>(3.228 Yrths)
     surface_area: 5.316 × 10<sup>09</sup> km<sup>2</sup><br/>(10.422 Yrths)
     volume: 3.644 × 10<sup>13</sup> km<sup>3</sup><br/>(33.644 Yrths)
-    mass: 5.526 × 10<sup>25</sup> kg<br />(9.252506125288331 Yrths)
+    mass: 5.526 × 10<sup>25</sup> kg<br />(9.25 Yrths)
     density: 1.516 g/cm<sup>3</sup>
     surface_gravity: 8.706 m/s<sup>2</sup><br />(0.888 g<sub>0</sub>)
     escape_velocity: 18.937 km/s<br />(68,174 km/h)
     rotation_period: 0.456 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 407 K<br />(134 °C)
+    temperature: 365 K<br />(92 °C)
     composition:
       - 68.6047% hydrogen
       - 27.3705% helium
@@ -104,14 +104,14 @@ planets:
         radius: 12,622.1 km<br/>(1.981 Yrths)
         surface_area: 2.002 × 10<sup>09</sup> km<sup>2</sup><br/>(3.925 Yrths)
         volume: 8.423 × 10<sup>12</sup> km<sup>3</sup><br/>(7.776 Yrths)
-        mass: 1.193 × 10<sup>25</sup> kg<br />(9.252506125288331 Yrths)
+        mass: 1.193 × 10<sup>25</sup> kg<br />(1.998 Yrths)
         density: 1.417 g/cm<sup>3</sup>
         surface_gravity: 4.992 m/s<sup>2</sup><br />(0.509 g<sub>0</sub>)
         escape_velocity: 11.234 km/s<br />(40,442 km/h)
         rotation_period: 49.936 d
         axial_tilt: 28.06°
         albedo: 0.30
-        temperature: 2624 K<br />(2351 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 613 Niniunniad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -124,14 +124,14 @@ planets:
         radius: 20,317.0 km<br/>(3.189 Yrths)
         surface_area: 5.187 × 10<sup>09</sup> km<sup>2</sup><br/>(10.170 Yrths)
         volume: 3.513 × 10<sup>13</sup> km<sup>3</sup><br/>(32.431 Yrths)
-        mass: 6.473 × 10<sup>25</sup> kg<br />(9.252506125288331 Yrths)
+        mass: 6.473 × 10<sup>25</sup> kg<br />(10.840 Yrths)
         density: 1.843 g/cm<sup>3</sup>
         surface_gravity: 10.453 m/s<sup>2</sup><br />(1.066 g<sub>0</sub>)
         escape_velocity: 20.623 km/s<br />(74,243 km/h)
         rotation_period: 36.763 d
         axial_tilt: 28.84°
         albedo: 0.30
-        temperature: 2502 K<br />(2229 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 613 Niniunniad II c
         type: Icy
         formationType: Impact formed
@@ -144,14 +144,14 @@ planets:
         radius: 17,759.8 km<br/>(2.788 Yrths)
         surface_area: 3.964 × 10<sup>09</sup> km<sup>2</sup><br/>(7.771 Yrths)
         volume: 2.346 × 10<sup>13</sup> km<sup>3</sup><br/>(21.662 Yrths)
-        mass: 2.777 × 10<sup>25</sup> kg<br />(9.252506125288331 Yrths)
+        mass: 2.777 × 10<sup>25</sup> kg<br />(4.651 Yrths)
         density: 1.184 g/cm<sup>3</sup>
         surface_gravity: 5.869 m/s<sup>2</sup><br />(0.598 g<sub>0</sub>)
         escape_velocity: 14.448 km/s<br />(52,014 km/h)
         rotation_period: 49.191 d
         axial_tilt: 12.48°
         albedo: 0.30
-        temperature: 2386 K<br />(2113 °C)
+        temperature: 253 K<br />(-20 °C)
   - name: 613 Niniunniad III
     type: Large terrestrial
     aphelion: 432,813,005 km<br />2.893 AU
@@ -163,14 +163,14 @@ planets:
     radius: 7,538.8 km<br/>(1.183 Yrths)
     surface_area: 7.142 × 10<sup>08</sup> km<sup>2</sup><br/>(1.400 Yrths)
     volume: 1.795 × 10<sup>12</sup> km<sup>3</sup><br/>(1.657 Yrths)
-    mass: 1.179 × 10<sup>25</sup> kg<br />(1.9735189386673124 Yrths)
+    mass: 1.179 × 10<sup>25</sup> kg<br />(1.97 Yrths)
     density: 6.567 g/cm<sup>3</sup>
     surface_gravity: 13.822 m/s<sup>2</sup><br />(1.409 g<sub>0</sub>)
     escape_velocity: 14.446 km/s<br />(52,006 km/h)
     rotation_period: 0.753 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 361 K<br />(88 °C)
+    temperature: 938 K<br />(665 °C)
     surface_pressure: 2,933 kPa<br />(29 atm)
     composition:
       - 83.9927% carbon dioxide
@@ -190,14 +190,14 @@ planets:
         radius: 2,801.2 km<br/>(0.440 Yrths)
         surface_area: 9.861 × 10<sup>07</sup> km<sup>2</sup><br/>(0.193 Yrths)
         volume: 9.207 × 10<sup>10</sup> km<sup>3</sup><br/>(0.085 Yrths)
-        mass: 3.128 × 10<sup>23</sup> kg<br />(1.9735189386673124 Yrths)
+        mass: 3.128 × 10<sup>23</sup> kg<br />(0.052 Yrths)
         density: 3.397 g/cm<sup>3</sup>
         surface_gravity: 2.657 m/s<sup>2</sup><br />(0.271 g<sub>0</sub>)
         escape_velocity: 3.861 km/s<br />(13,899 km/h)
         rotation_period: 40.733 d
         axial_tilt: 13.54°
         albedo: 0.30
-        temperature: 3303 K<br />(3030 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 613 Niniunniad III b
         type: Rocky
         formationType: Impact formed
@@ -210,14 +210,14 @@ planets:
         radius: 4,083.0 km<br/>(0.641 Yrths)
         surface_area: 2.095 × 10<sup>08</sup> km<sup>2</sup><br/>(0.411 Yrths)
         volume: 2.851 × 10<sup>11</sup> km<sup>3</sup><br/>(0.263 Yrths)
-        mass: 8.108 × 10<sup>23</sup> kg<br />(1.9735189386673124 Yrths)
+        mass: 8.108 × 10<sup>23</sup> kg<br />(0.136 Yrths)
         density: 2.844 g/cm<sup>3</sup>
         surface_gravity: 3.242 m/s<sup>2</sup><br />(0.331 g<sub>0</sub>)
         escape_velocity: 5.149 km/s<br />(18,535 km/h)
         rotation_period: 29.495 d
         axial_tilt: 19.49°
         albedo: 0.30
-        temperature: 3149 K<br />(2876 °C)
+        temperature: 192 K<br />(-81 °C)
   - name: 613 Niniunniad IV
     type: Ice giant
     aphelion: 714,468,990 km<br />4.776 AU
@@ -229,14 +229,14 @@ planets:
     radius: 29,872.5 km<br/>(4.689 Yrths)
     surface_area: 1.121 × 10<sup>10</sup> km<sup>2</sup><br/>(21.985 Yrths)
     volume: 1.117 × 10<sup>14</sup> km<sup>3</sup><br/>(103.085 Yrths)
-    mass: 1.735 × 10<sup>26</sup> kg<br />(29.048273977598566 Yrths)
+    mass: 1.735 × 10<sup>26</sup> kg<br />(29.05 Yrths)
     density: 1.554 g/cm<sup>3</sup>
     surface_gravity: 12.957 m/s<sup>2</sup><br />(1.321 g<sub>0</sub>)
     escape_velocity: 27.842 km/s<br />(100,232 km/h)
     rotation_period: 0.319 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 311 K<br />(38 °C)
+    temperature: 294 K<br />(21 °C)
     composition:
       - 70.6637% hydrogen
       - 21.0291% helium
@@ -258,14 +258,14 @@ planets:
         radius: 46,775.0 km<br/>(7.342 Yrths)
         surface_area: 2.749 × 10<sup>10</sup> km<sup>2</sup><br/>(53.903 Yrths)
         volume: 4.287 × 10<sup>14</sup> km<sup>3</sup><br/>(395.749 Yrths)
-        mass: 5.275 × 10<sup>26</sup> kg<br />(29.048273977598566 Yrths)
+        mass: 5.275 × 10<sup>26</sup> kg<br />(88.326 Yrths)
         density: 1.230 g/cm<sup>3</sup>
         surface_gravity: 16.069 m/s<sup>2</sup><br />(1.639 g<sub>0</sub>)
         escape_velocity: 38.798 km/s<br />(139,674 km/h)
         rotation_period: 71.756 d
         axial_tilt: 9.41°
         albedo: 0.30
-        temperature: 1252 K<br />(979 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 613 Niniunniad IV b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -278,14 +278,14 @@ planets:
         radius: 44,241.0 km<br/>(6.944 Yrths)
         surface_area: 2.460 × 10<sup>10</sup> km<sup>2</sup><br/>(48.221 Yrths)
         volume: 3.627 × 10<sup>14</sup> km<sup>3</sup><br/>(334.850 Yrths)
-        mass: 7.737 × 10<sup>26</sup> kg<br />(29.048273977598566 Yrths)
+        mass: 7.737 × 10<sup>26</sup> kg<br />(129.562 Yrths)
         density: 2.133 g/cm<sup>3</sup>
         surface_gravity: 26.349 m/s<sup>2</sup><br />(2.687 g<sub>0</sub>)
         escape_velocity: 48.317 km/s<br />(173,943 km/h)
         rotation_period: 54.875 d
         axial_tilt: 19.98°
         albedo: 0.30
-        temperature: 1138 K<br />(865 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 613 Niniunniad IV c
         type: Dwarf planet
         formationType: Accreted
@@ -298,14 +298,14 @@ planets:
         radius: 31,547.8 km<br/>(4.952 Yrths)
         surface_area: 1.251 × 10<sup>10</sup> km<sup>2</sup><br/>(24.520 Yrths)
         volume: 1.315 × 10<sup>14</sup> km<sup>3</sup><br/>(121.419 Yrths)
-        mass: 3.128 × 10<sup>26</sup> kg<br />(29.048273977598566 Yrths)
+        mass: 3.128 × 10<sup>26</sup> kg<br />(52.376 Yrths)
         density: 2.378 g/cm<sup>3</sup>
         surface_gravity: 20.947 m/s<sup>2</sup><br />(2.136 g<sub>0</sub>)
         escape_velocity: 36.380 km/s<br />(130,967 km/h)
         rotation_period: 41.776 d
         axial_tilt: 19.53°
         albedo: 0.30
-        temperature: 1085 K<br />(812 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 613 Niniunniad IV d
         type: Icy
         formationType: Captured
@@ -318,14 +318,14 @@ planets:
         radius: 39,317.2 km<br/>(6.171 Yrths)
         surface_area: 1.943 × 10<sup>10</sup> km<sup>2</sup><br/>(38.085 Yrths)
         volume: 2.546 × 10<sup>14</sup> km<sup>3</sup><br/>(235.031 Yrths)
-        mass: 3.928 × 10<sup>26</sup> kg<br />(29.048273977598566 Yrths)
+        mass: 3.928 × 10<sup>26</sup> kg<br />(65.773 Yrths)
         density: 1.543 g/cm<sup>3</sup>
         surface_gravity: 16.936 m/s<sup>2</sup><br />(1.727 g<sub>0</sub>)
         escape_velocity: 36.518 km/s<br />(131,466 km/h)
         rotation_period: 49.904 d
         axial_tilt: 20.47°
         albedo: 0.30
-        temperature: 1035 K<br />(762 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 613 Niniunniad IV e
         type: Asteroid
         formationType: Captured
@@ -338,14 +338,14 @@ planets:
         radius: 28,680.9 km<br/>(4.502 Yrths)
         surface_area: 1.034 × 10<sup>10</sup> km<sup>2</sup><br/>(20.266 Yrths)
         volume: 9.882 × 10<sup>13</sup> km<sup>3</sup><br/>(91.234 Yrths)
-        mass: 2.352 × 10<sup>26</sup> kg<br />(29.048273977598566 Yrths)
+        mass: 2.352 × 10<sup>26</sup> kg<br />(39.392 Yrths)
         density: 2.380 g/cm<sup>3</sup>
         surface_gravity: 19.061 m/s<sup>2</sup><br />(1.944 g<sub>0</sub>)
         escape_velocity: 33.089 km/s<br />(119,121 km/h)
         rotation_period: 36.665 d
         axial_tilt: 48.67°
         albedo: 0.30
-        temperature: 941 K<br />(668 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 613 Niniunniad IV f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -358,14 +358,14 @@ planets:
         radius: 32,472.3 km<br/>(5.097 Yrths)
         surface_area: 1.325 × 10<sup>10</sup> km<sup>2</sup><br/>(25.978 Yrths)
         volume: 1.434 × 10<sup>14</sup> km<sup>3</sup><br/>(132.409 Yrths)
-        mass: 2.482 × 10<sup>26</sup> kg<br />(29.048273977598566 Yrths)
+        mass: 2.482 × 10<sup>26</sup> kg<br />(41.557 Yrths)
         density: 1.730 g/cm<sup>3</sup>
         surface_gravity: 15.688 m/s<sup>2</sup><br />(1.600 g<sub>0</sub>)
         escape_velocity: 31.941 km/s<br />(114,986 km/h)
         rotation_period: 42.194 d
         axial_tilt: 24.07°
         albedo: 0.30
-        temperature: 897 K<br />(624 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 613 Niniunniad IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -378,12 +378,12 @@ planets:
         radius: 34,822.5 km<br/>(5.466 Yrths)
         surface_area: 1.524 × 10<sup>10</sup> km<sup>2</sup><br/>(29.875 Yrths)
         volume: 1.769 × 10<sup>14</sup> km<sup>3</sup><br/>(163.289 Yrths)
-        mass: 3.504 × 10<sup>26</sup> kg<br />(29.048273977598566 Yrths)
+        mass: 3.504 × 10<sup>26</sup> kg<br />(58.679 Yrths)
         density: 1.981 g/cm<sup>3</sup>
         surface_gravity: 19.262 m/s<sup>2</sup><br />(1.964 g<sub>0</sub>)
         escape_velocity: 36.651 km/s<br />(131,945 km/h)
         rotation_period: 53.552 d
         axial_tilt: 9.13°
         albedo: 0.30
-        temperature: 855 K<br />(582 °C)
+        temperature: 145 K<br />(-128 °C)
 ---

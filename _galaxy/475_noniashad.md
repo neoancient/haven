@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      475 Noniashad is a star in the constellation Nonias
+      475 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 476.40 ly
 apparent_magnitude: 11.00
 absolute_magnitude: 5.18

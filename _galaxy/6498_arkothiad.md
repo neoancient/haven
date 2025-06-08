@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6498 Arkothiad is a star in the constellation Arkoth
+      6498 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 230.10 ly
 apparent_magnitude: 15.80
 absolute_magnitude: 11.56

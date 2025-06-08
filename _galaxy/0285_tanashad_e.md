@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0285 Tanashad E is a star in the constellation Tanas
+      0285 Tanashad E is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1531.52 ly
 apparent_magnitude: 12.80
 absolute_magnitude: 4.44

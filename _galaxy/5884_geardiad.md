@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5884 Geardiad is a star in the constellation Geard
+      5884 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 147.26 ly
 apparent_magnitude: 14.83
 absolute_magnitude: 11.56

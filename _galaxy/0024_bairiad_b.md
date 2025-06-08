@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Bairiad B is a star in the constellation Bair
+      0024 Bairiad B is a star in the constellation <a href="bair.html">Bair</a>
 distance: 1207.64 ly
 apparent_magnitude: 15.23
 absolute_magnitude: 7.39

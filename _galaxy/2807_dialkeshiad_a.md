@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2807 Dialkeshiad A is a star in the constellation Dialkes
+      2807 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 323.02 ly
 apparent_magnitude: 9.78
 absolute_magnitude: 4.81

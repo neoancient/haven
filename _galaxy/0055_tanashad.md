@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0055 Tanashad is a star in the constellation Tanas
+      0055 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 50.23 ly
 apparent_magnitude: 5.01
 absolute_magnitude: 4.07
@@ -31,14 +31,14 @@ planets:
     radius: 3,171.5 km<br/>(0.498 Yrths)
     surface_area: 1.264 × 10<sup>08</sup> km<sup>2</sup><br/>(0.248 Yrths)
     volume: 1.336 × 10<sup>11</sup> km<sup>3</sup><br/>(0.123 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.469 g/cm<sup>3</sup>
     surface_gravity: 3.957 m/s<sup>2</sup><br />(0.404 g<sub>0</sub>)
     escape_velocity: 5.014 km/s<br />(18,049 km/h)
     rotation_period: 2.288 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 270 K<br />(-3 °C)
+    temperature: 329 K<br />(56 °C)
     surface_pressure: 4 kPa<br />(0 atm)
     composition:
       - 91.8783% ammonia
@@ -59,14 +59,14 @@ planets:
         radius: 354.7 km<br/>(0.056 Yrths)
         surface_area: 1.581 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.869 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.954 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.954 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.186 g/cm<sup>3</sup>
         surface_gravity: 0.315 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.473 km/s<br />(1,704 km/h)
         rotation_period: 39.181 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 6738 K<br />(6465 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0055 Tanashad I b
         type: Icy
         formationType: Impact formed
@@ -79,12 +79,12 @@ planets:
         radius: 584.4 km<br/>(0.092 Yrths)
         surface_area: 4.292 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.361 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 6.117 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.117 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 0.732 g/cm<sup>3</sup>
         surface_gravity: 0.119 m/s<sup>2</sup><br />(0.012 g<sub>0</sub>)
         escape_velocity: 0.374 km/s<br />(1,346 km/h)
         rotation_period: 109.193 d
         axial_tilt: 18.63°
         albedo: 0.30
-        temperature: 6425 K<br />(6152 °C)
+        temperature: 255 K<br />(-18 °C)
 ---

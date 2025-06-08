@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      976 Geardiad is a star in the constellation Geard
+      976 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 182.70 ly
 apparent_magnitude: 10.19
 absolute_magnitude: 6.45
@@ -31,14 +31,14 @@ planets:
     radius: 4,833.9 km<br/>(0.759 Yrths)
     surface_area: 2.936 × 10<sup>08</sup> km<sup>2</sup><br/>(0.576 Yrths)
     volume: 4.731 × 10<sup>11</sup> km<sup>3</sup><br/>(0.437 Yrths)
-    mass: 2.592 × 10<sup>24</sup> kg<br />(0.4340429242559412 Yrths)
+    mass: 2.592 × 10<sup>24</sup> kg<br />(0.43 Yrths)
     density: 5.479 g/cm<sup>3</sup>
     surface_gravity: 7.394 m/s<sup>2</sup><br />(0.754 g<sub>0</sub>)
     escape_velocity: 8.461 km/s<br />(30,458 km/h)
     rotation_period: 4.896 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 386 K<br />(113 °C)
+    temperature: 792 K<br />(519 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 54.8858% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 1,327.7 km<br/>(0.208 Yrths)
         surface_area: 2.215 × 10<sup>07</sup> km<sup>2</sup><br/>(0.043 Yrths)
         volume: 9.804 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 3.529 × 10<sup>22</sup> kg<br />(0.4340429242559412 Yrths)
+        mass: 3.529 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 1.334 m/s<sup>2</sup><br />(0.136 g<sub>0</sub>)
         escape_velocity: 1.884 km/s<br />(6,781 km/h)
         rotation_period: 39.819 d
         axial_tilt: 10.94°
         albedo: 0.30
-        temperature: 5593 K<br />(5320 °C)
+        temperature: 318 K<br />(44 °C)
   - name: 976 Geardiad II
     type: Large terrestrial
     aphelion: 98,561,235 km<br />0.659 AU
@@ -76,15 +76,15 @@ planets:
     radius: 8,430.1 km<br/>(1.323 Yrths)
     surface_area: 8.930 × 10<sup>08</sup> km<sup>2</sup><br/>(1.751 Yrths)
     volume: 2.509 × 10<sup>12</sup> km<sup>3</sup><br/>(2.317 Yrths)
-    mass: 1.570 × 10<sup>25</sup> kg<br />(2.6293493091686955 Yrths)
+    mass: 1.570 × 10<sup>25</sup> kg<br />(2.63 Yrths)
     density: 6.257 g/cm<sup>3</sup>
     surface_gravity: 14.727 m/s<sup>2</sup><br />(1.502 g<sub>0</sub>)
     escape_velocity: 15.768 km/s<br />(56,766 km/h)
     rotation_period: 1.679 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 388 K<br />(115 °C)
-    surface_pressure: 252 kPa<br />(2 atm)
+    temperature: 924 K<br />(650 °C)
+    surface_pressure: 252 kPa<br />(3 atm)
     composition:
       - 72.8894% carbon dioxide
       - 25.2279% nitrogen
@@ -102,14 +102,14 @@ planets:
         radius: 10,059.7 km<br/>(1.579 Yrths)
         surface_area: 1.272 × 10<sup>09</sup> km<sup>2</sup><br/>(2.493 Yrths)
         volume: 4.264 × 10<sup>12</sup> km<sup>3</sup><br/>(3.937 Yrths)
-        mass: 2.985 × 10<sup>24</sup> kg<br />(2.6293493091686955 Yrths)
+        mass: 2.985 × 10<sup>24</sup> kg<br />(0.500 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 1.966 m/s<sup>2</sup><br />(0.200 g<sub>0</sub>)
         escape_velocity: 6.294 km/s<br />(22,657 km/h)
         rotation_period: 67.451 d
         axial_tilt: 12.88°
         albedo: 0.30
-        temperature: 3502 K<br />(3229 °C)
+        temperature: 248 K<br />(-25 °C)
   - name: 976 Geardiad III
     type: Gas giant
     aphelion: 161,847,435 km<br />1.082 AU
@@ -121,7 +121,7 @@ planets:
     radius: 168.3 km<br/>(0.026 Yrths)
     surface_area: 3.560 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.997 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.876 × 10<sup>26</sup> kg<br />(81.63933422708777 Yrths)
+    mass: 4.876 × 10<sup>26</sup> kg<br />(81.64 Yrths)
     density: 24414238.113 g/cm<sup>3</sup>
     surface_gravity: 1147212.036 m/s<sup>2</sup><br />(116983.071 g<sub>0</sub>)
     escape_velocity: 621.841 km/s<br />(2,238,629 km/h)
@@ -142,14 +142,14 @@ planets:
         radius: 62,312.7 km<br/>(9.781 Yrths)
         surface_area: 4.879 × 10<sup>10</sup> km<sup>2</sup><br/>(95.662 Yrths)
         volume: 1.013 × 10<sup>15</sup> km<sup>3</sup><br/>(935.634 Yrths)
-        mass: 2.598 × 10<sup>27</sup> kg<br />(81.63933422708777 Yrths)
+        mass: 2.598 × 10<sup>27</sup> kg<br />(435.087 Yrths)
         density: 2.564 g/cm<sup>3</sup>
         surface_gravity: 44.602 m/s<sup>2</sup><br />(4.548 g<sub>0</sub>)
         escape_velocity: 74.607 km/s<br />(268,584 km/h)
         rotation_period: 57.600 d
         axial_tilt: 14.48°
         albedo: 0.30
-        temperature: 579 K<br />(306 °C)
+        temperature: 194 K<br />(-80 °C)
       - name: 976 Geardiad III b
         type: Rocky
         formationType: Accreted
@@ -162,14 +162,14 @@ planets:
         radius: 61,037.5 km<br/>(9.581 Yrths)
         surface_area: 4.682 × 10<sup>10</sup> km<sup>2</sup><br/>(91.787 Yrths)
         volume: 9.525 × 10<sup>14</sup> km<sup>3</sup><br/>(879.363 Yrths)
-        mass: 3.429 × 10<sup>27</sup> kg<br />(81.63933422708777 Yrths)
+        mass: 3.429 × 10<sup>27</sup> kg<br />(574.199 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 61.349 m/s<sup>2</sup><br />(6.256 g<sub>0</sub>)
         escape_velocity: 86.599 km/s<br />(311,755 km/h)
         rotation_period: 28.068 d
         axial_tilt: 16.83°
         albedo: 0.30
-        temperature: 396 K<br />(123 °C)
+        temperature: 194 K<br />(-80 °C)
       - name: 976 Geardiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -182,14 +182,14 @@ planets:
         radius: 64,819.2 km<br/>(10.174 Yrths)
         surface_area: 5.280 × 10<sup>10</sup> km<sup>2</sup><br/>(103.512 Yrths)
         volume: 1.141 × 10<sup>15</sup> km<sup>3</sup><br/>(1053.144 Yrths)
-        mass: 2.484 × 10<sup>27</sup> kg<br />(81.63933422708777 Yrths)
+        mass: 2.484 × 10<sup>27</sup> kg<br />(415.907 Yrths)
         density: 2.177 g/cm<sup>3</sup>
         surface_gravity: 39.403 m/s<sup>2</sup><br />(4.018 g<sub>0</sub>)
         escape_velocity: 71.519 km/s<br />(257,470 km/h)
         rotation_period: 44.577 d
         axial_tilt: 21.63°
         albedo: 0.30
-        temperature: 234 K<br />(-39 °C)
+        temperature: 194 K<br />(-80 °C)
       - name: 976 Geardiad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 70,198.9 km<br/>(11.019 Yrths)
         surface_area: 6.193 × 10<sup>10</sup> km<sup>2</sup><br/>(121.407 Yrths)
         volume: 1.449 × 10<sup>15</sup> km<sup>3</sup><br/>(1337.728 Yrths)
-        mass: 3.540 × 10<sup>27</sup> kg<br />(81.63933422708777 Yrths)
+        mass: 3.540 × 10<sup>27</sup> kg<br />(592.824 Yrths)
         density: 2.443 g/cm<sup>3</sup>
         surface_gravity: 47.885 m/s<sup>2</sup><br />(4.883 g<sub>0</sub>)
         escape_velocity: 82.049 km/s<br />(295,378 km/h)
         rotation_period: 32.883 d
         axial_tilt: 23.32°
         albedo: 0.30
-        temperature: 223 K<br />(-50 °C)
+        temperature: 194 K<br />(-80 °C)
       - name: 976 Geardiad III e
         type: Rocky
         formationType: Accreted
@@ -222,14 +222,14 @@ planets:
         radius: 69,135.6 km<br/>(10.852 Yrths)
         surface_area: 6.006 × 10<sup>10</sup> km<sup>2</sup><br/>(117.757 Yrths)
         volume: 1.384 × 10<sup>15</sup> km<sup>3</sup><br/>(1277.857 Yrths)
-        mass: 4.437 × 10<sup>27</sup> kg<br />(81.63933422708777 Yrths)
+        mass: 4.437 × 10<sup>27</sup> kg<br />(742.896 Yrths)
         density: 3.205 g/cm<sup>3</sup>
         surface_gravity: 61.867 m/s<sup>2</sup><br />(6.309 g<sub>0</sub>)
         escape_velocity: 92.553 km/s<br />(333,191 km/h)
         rotation_period: 37.720 d
         axial_tilt: 15.78°
         albedo: 0.30
-        temperature: 168 K<br />(-105 °C)
+        temperature: 194 K<br />(-80 °C)
       - name: 976 Geardiad III f
         type: Rocky
         formationType: Accreted
@@ -242,14 +242,14 @@ planets:
         radius: 58,072.3 km<br/>(9.115 Yrths)
         surface_area: 4.238 × 10<sup>10</sup> km<sup>2</sup><br/>(83.085 Yrths)
         volume: 8.203 × 10<sup>14</sup> km<sup>3</sup><br/>(757.328 Yrths)
-        mass: 2.359 × 10<sup>27</sup> kg<br />(81.63933422708777 Yrths)
+        mass: 2.359 × 10<sup>27</sup> kg<br />(395.031 Yrths)
         density: 2.876 g/cm<sup>3</sup>
         surface_gravity: 46.626 m/s<sup>2</sup><br />(4.755 g<sub>0</sub>)
         escape_velocity: 73.639 km/s<br />(265,101 km/h)
         rotation_period: 34.463 d
         axial_tilt: 21.58°
         albedo: 0.30
-        temperature: 160 K<br />(-113 °C)
+        temperature: 194 K<br />(-80 °C)
   - name: 976 Geardiad IV
     type: Terrestrial
     aphelion: 260,991,356 km<br />1.745 AU
@@ -261,14 +261,14 @@ planets:
     radius: 3,613.0 km<br/>(0.567 Yrths)
     surface_area: 1.640 × 10<sup>08</sup> km<sup>2</sup><br/>(0.322 Yrths)
     volume: 1.976 × 10<sup>11</sup> km<sup>3</sup><br/>(0.182 Yrths)
-    mass: 9.407 × 10<sup>23</sup> kg<br />(0.15751425882973413 Yrths)
+    mass: 9.407 × 10<sup>23</sup> kg<br />(0.16 Yrths)
     density: 4.762 g/cm<sup>3</sup>
     surface_gravity: 4.803 m/s<sup>2</sup><br />(0.490 g<sub>0</sub>)
     escape_velocity: 5.895 km/s<br />(21,223 km/h)
     rotation_period: 2.267 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 163 K<br />(-110 °C)
+    temperature: 164 K<br />(-109 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 77.5726% nitrogen
@@ -287,12 +287,12 @@ planets:
         radius: 892.2 km<br/>(0.140 Yrths)
         surface_area: 1.000 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 2.974 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 8.807 × 10<sup>21</sup> kg<br />(0.15751425882973413 Yrths)
+        mass: 8.807 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.961 g/cm<sup>3</sup>
         surface_gravity: 0.738 m/s<sup>2</sup><br />(0.075 g<sub>0</sub>)
         escape_velocity: 1.148 km/s<br />(4,133 km/h)
         rotation_period: 41.841 d
         axial_tilt: 22.86°
         albedo: 0.30
-        temperature: 2769 K<br />(2496 °C)
+        temperature: 151 K<br />(-122 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1530 Anilliad A is a star in the constellation Anil
+      1530 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 492.28 ly
 apparent_magnitude: 8.65
 absolute_magnitude: 2.75

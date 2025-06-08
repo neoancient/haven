@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2625 Arkothiad is a star in the constellation Arkoth
+      2625 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 387.84 ly
 apparent_magnitude: 18.82
 absolute_magnitude: 13.44

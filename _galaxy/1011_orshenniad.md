@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1011 Orshenniad is a star in the constellation Orshen
+      1011 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 528.14 ly
 apparent_magnitude: 10.75
 absolute_magnitude: 4.71

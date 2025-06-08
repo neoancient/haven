@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      262 Anilliad is a star in the constellation Anil
+      262 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 239.97 ly
 apparent_magnitude: 20.74
 absolute_magnitude: 16.41

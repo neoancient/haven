@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0056 Emniaiad C is a star in the constellation Emnia
+      0056 Emniaiad C is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 83.91 ly
 apparent_magnitude: 7.21
 absolute_magnitude: 5.16
@@ -31,14 +31,14 @@ planets:
     radius: 8,167.1 km<br/>(1.282 Yrths)
     surface_area: 8.382 × 10<sup>08</sup> km<sup>2</sup><br/>(1.643 Yrths)
     volume: 2.282 × 10<sup>12</sup> km<sup>3</sup><br/>(2.107 Yrths)
-    mass: 1.180 × 10<sup>25</sup> kg<br />(1.9750844416276518 Yrths)
+    mass: 1.180 × 10<sup>25</sup> kg<br />(1.98 Yrths)
     density: 5.169 g/cm<sup>3</sup>
     surface_gravity: 11.787 m/s<sup>2</sup><br />(1.202 g<sub>0</sub>)
     escape_velocity: 13.885 km/s<br />(49,985 km/h)
     rotation_period: 1.272 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 394 K<br />(121 °C)
+    temperature: 999 K<br />(726 °C)
     surface_pressure: 37 kPa<br />(0 atm)
     composition:
       - 73.2955% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 3,063.1 km<br/>(0.481 Yrths)
         surface_area: 1.179 × 10<sup>08</sup> km<sup>2</sup><br/>(0.231 Yrths)
         volume: 1.204 × 10<sup>11</sup> km<sup>3</sup><br/>(0.111 Yrths)
-        mass: 3.876 × 10<sup>23</sup> kg<br />(1.9750844416276518 Yrths)
+        mass: 3.876 × 10<sup>23</sup> kg<br />(0.065 Yrths)
         density: 3.219 g/cm<sup>3</sup>
         surface_gravity: 2.753 m/s<sup>2</sup><br />(0.281 g<sub>0</sub>)
         escape_velocity: 4.110 km/s<br />(14,795 km/h)
         rotation_period: 45.204 d
         axial_tilt: 11.52°
         albedo: 0.30
-        temperature: 4425 K<br />(4151 °C)
+        temperature: 278 K<br />(5 °C)
   - name: 0056 Emniaiad C II
     type: Gas dwarf
     aphelion: 192,312,044 km<br />1.286 AU
@@ -78,14 +78,14 @@ planets:
     radius: 10,345.8 km<br/>(1.624 Yrths)
     surface_area: 1.345 × 10<sup>09</sup> km<sup>2</sup><br/>(2.637 Yrths)
     volume: 4.639 × 10<sup>12</sup> km<sup>3</sup><br/>(4.282 Yrths)
-    mass: 1.204 × 10<sup>25</sup> kg<br />(2.015752028725086 Yrths)
+    mass: 1.204 × 10<sup>25</sup> kg<br />(2.02 Yrths)
     density: 2.595 g/cm<sup>3</sup>
     surface_gravity: 7.496 m/s<sup>2</sup><br />(0.764 g<sub>0</sub>)
     escape_velocity: 12.463 km/s<br />(44,866 km/h)
     rotation_period: 0.842 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 337 K<br />(64 °C)
+    temperature: 362 K<br />(89 °C)
     composition:
       - 69.2762% helium
       - 17.9749% nitrogen
@@ -104,14 +104,14 @@ planets:
         radius: 4,139.2 km<br/>(0.650 Yrths)
         surface_area: 2.153 × 10<sup>08</sup> km<sup>2</sup><br/>(0.422 Yrths)
         volume: 2.971 × 10<sup>11</sup> km<sup>3</sup><br/>(0.274 Yrths)
-        mass: 4.404 × 10<sup>23</sup> kg<br />(2.015752028725086 Yrths)
+        mass: 4.404 × 10<sup>23</sup> kg<br />(0.074 Yrths)
         density: 1.483 g/cm<sup>3</sup>
         surface_gravity: 1.713 m/s<sup>2</sup><br />(0.175 g<sub>0</sub>)
         escape_velocity: 3.769 km/s<br />(13,567 km/h)
         rotation_period: 43.947 d
         axial_tilt: 15.53°
         albedo: 0.30
-        temperature: 2763 K<br />(2490 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 0056 Emniaiad C II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -124,14 +124,14 @@ planets:
         radius: 4,536.1 km<br/>(0.712 Yrths)
         surface_area: 2.586 × 10<sup>08</sup> km<sup>2</sup><br/>(0.507 Yrths)
         volume: 3.910 × 10<sup>11</sup> km<sup>3</sup><br/>(0.361 Yrths)
-        mass: 1.003 × 10<sup>24</sup> kg<br />(2.015752028725086 Yrths)
+        mass: 1.003 × 10<sup>24</sup> kg<br />(0.168 Yrths)
         density: 2.565 g/cm<sup>3</sup>
         surface_gravity: 3.249 m/s<sup>2</sup><br />(0.331 g<sub>0</sub>)
         escape_velocity: 5.432 km/s<br />(19,557 km/h)
         rotation_period: 58.518 d
         axial_tilt: 26.24°
         albedo: 0.30
-        temperature: 2635 K<br />(2362 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 0056 Emniaiad C II c
         type: Icy
         formationType: Accreted
@@ -144,14 +144,14 @@ planets:
         radius: 3,720.3 km<br/>(0.584 Yrths)
         surface_area: 1.739 × 10<sup>08</sup> km<sup>2</sup><br/>(0.341 Yrths)
         volume: 2.157 × 10<sup>11</sup> km<sup>3</sup><br/>(0.199 Yrths)
-        mass: 2.694 × 10<sup>23</sup> kg<br />(2.015752028725086 Yrths)
+        mass: 2.694 × 10<sup>23</sup> kg<br />(0.045 Yrths)
         density: 1.249 g/cm<sup>3</sup>
         surface_gravity: 1.297 m/s<sup>2</sup><br />(0.132 g<sub>0</sub>)
         escape_velocity: 3.109 km/s<br />(11,193 km/h)
         rotation_period: 54.387 d
         axial_tilt: 20.16°
         albedo: 0.30
-        temperature: 2512 K<br />(2239 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 0056 Emniaiad C II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -164,14 +164,14 @@ planets:
         radius: 2,714.4 km<br/>(0.426 Yrths)
         surface_area: 9.259 × 10<sup>07</sup> km<sup>2</sup><br/>(0.182 Yrths)
         volume: 8.378 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-        mass: 1.778 × 10<sup>23</sup> kg<br />(2.015752028725086 Yrths)
+        mass: 1.778 × 10<sup>23</sup> kg<br />(0.030 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 1.608 m/s<sup>2</sup><br />(0.164 g<sub>0</sub>)
         escape_velocity: 2.957 km/s<br />(10,645 km/h)
         rotation_period: 63.614 d
         axial_tilt: 7.38°
         albedo: 0.30
-        temperature: 2284 K<br />(2011 °C)
+        temperature: 214 K<br />(-59 °C)
   - name: 0056 Emniaiad C III
     type: Gas dwarf
     aphelion: 317,097,188 km<br />2.120 AU
@@ -183,14 +183,14 @@ planets:
     radius: 11,656.7 km<br/>(1.830 Yrths)
     surface_area: 1.707 × 10<sup>09</sup> km<sup>2</sup><br/>(3.348 Yrths)
     volume: 6.635 × 10<sup>12</sup> km<sup>3</sup><br/>(6.125 Yrths)
-    mass: 1.427 × 10<sup>25</sup> kg<br />(2.388911211531827 Yrths)
+    mass: 1.427 × 10<sup>25</sup> kg<br />(2.39 Yrths)
     density: 2.150 g/cm<sup>3</sup>
     surface_gravity: 6.998 m/s<sup>2</sup><br />(0.714 g<sub>0</sub>)
     escape_velocity: 12.782 km/s<br />(46,014 km/h)
     rotation_period: 0.673 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 237 K<br />(-36 °C)
+    temperature: 208 K<br />(-65 °C)
     composition:
       - 97.0207% hydrogen
       - 2.9793% helium
@@ -207,14 +207,14 @@ planets:
         radius: 4,439.7 km<br/>(0.697 Yrths)
         surface_area: 2.477 × 10<sup>08</sup> km<sup>2</sup><br/>(0.486 Yrths)
         volume: 3.666 × 10<sup>11</sup> km<sup>3</sup><br/>(0.338 Yrths)
-        mass: 3.952 × 10<sup>23</sup> kg<br />(2.388911211531827 Yrths)
+        mass: 3.952 × 10<sup>23</sup> kg<br />(0.066 Yrths)
         density: 1.078 g/cm<sup>3</sup>
         surface_gravity: 1.336 m/s<sup>2</sup><br />(0.136 g<sub>0</sub>)
         escape_velocity: 3.447 km/s<br />(12,409 km/h)
         rotation_period: 54.014 d
         axial_tilt: 10.07°
         albedo: 0.30
-        temperature: 2041 K<br />(1768 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0056 Emniaiad C III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -227,14 +227,14 @@ planets:
         radius: 7,339.7 km<br/>(1.152 Yrths)
         surface_area: 6.770 × 10<sup>08</sup> km<sup>2</sup><br/>(1.327 Yrths)
         volume: 1.656 × 10<sup>12</sup> km<sup>3</sup><br/>(1.529 Yrths)
-        mass: 2.985 × 10<sup>24</sup> kg<br />(2.388911211531827 Yrths)
+        mass: 2.985 × 10<sup>24</sup> kg<br />(0.500 Yrths)
         density: 1.802 g/cm<sup>3</sup>
         surface_gravity: 3.693 m/s<sup>2</sup><br />(0.377 g<sub>0</sub>)
         escape_velocity: 7.368 km/s<br />(26,523 km/h)
         rotation_period: 39.541 d
         axial_tilt: 25.14°
         albedo: 0.30
-        temperature: 1946 K<br />(1673 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0056 Emniaiad C III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -247,14 +247,14 @@ planets:
         radius: 4,817.9 km<br/>(0.756 Yrths)
         surface_area: 2.917 × 10<sup>08</sup> km<sup>2</sup><br/>(0.572 Yrths)
         volume: 4.685 × 10<sup>11</sup> km<sup>3</sup><br/>(0.432 Yrths)
-        mass: 1.006 × 10<sup>24</sup> kg<br />(2.388911211531827 Yrths)
+        mass: 1.006 × 10<sup>24</sup> kg<br />(0.168 Yrths)
         density: 2.147 g/cm<sup>3</sup>
         surface_gravity: 2.887 m/s<sup>2</sup><br />(0.294 g<sub>0</sub>)
         escape_velocity: 5.278 km/s<br />(19,002 km/h)
         rotation_period: 54.474 d
         axial_tilt: 24.26°
         albedo: 0.30
-        temperature: 1856 K<br />(1583 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0056 Emniaiad C III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -267,14 +267,14 @@ planets:
         radius: 3,186.5 km<br/>(0.500 Yrths)
         surface_area: 1.276 × 10<sup>08</sup> km<sup>2</sup><br/>(0.250 Yrths)
         volume: 1.355 × 10<sup>11</sup> km<sup>3</sup><br/>(0.125 Yrths)
-        mass: 2.840 × 10<sup>23</sup> kg<br />(2.388911211531827 Yrths)
+        mass: 2.840 × 10<sup>23</sup> kg<br />(0.048 Yrths)
         density: 2.096 g/cm<sup>3</sup>
         surface_gravity: 1.864 m/s<sup>2</sup><br />(0.190 g<sub>0</sub>)
         escape_velocity: 3.449 km/s<br />(12,418 km/h)
         rotation_period: 55.339 d
         axial_tilt: 25.64°
         albedo: 0.30
-        temperature: 1769 K<br />(1496 °C)
+        temperature: 165 K<br />(-108 °C)
   - name: 0056 Emniaiad C IV
     type: Ice giant
     aphelion: 527,169,381 km<br />3.524 AU
@@ -286,14 +286,14 @@ planets:
     radius: 20,996.2 km<br/>(3.296 Yrths)
     surface_area: 5.540 × 10<sup>09</sup> km<sup>2</sup><br/>(10.861 Yrths)
     volume: 3.877 × 10<sup>13</sup> km<sup>3</sup><br/>(35.793 Yrths)
-    mass: 4.082 × 10<sup>25</sup> kg<br />(6.835673784117909 Yrths)
+    mass: 4.082 × 10<sup>25</sup> kg<br />(6.84 Yrths)
     density: 1.053 g/cm<sup>3</sup>
     surface_gravity: 6.172 m/s<sup>2</sup><br />(0.629 g<sub>0</sub>)
     escape_velocity: 16.110 km/s<br />(57,996 km/h)
     rotation_period: 0.470 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 232 K<br />(-42 °C)
+    temperature: 209 K<br />(-64 °C)
     composition:
       - 79.1310% hydrogen
       - 19.3340% helium
@@ -312,14 +312,14 @@ planets:
         radius: 18,757.7 km<br/>(2.944 Yrths)
         surface_area: 4.422 × 10<sup>09</sup> km<sup>2</sup><br/>(8.669 Yrths)
         volume: 2.765 × 10<sup>13</sup> km<sup>3</sup><br/>(25.522 Yrths)
-        mass: 6.294 × 10<sup>25</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 6.294 × 10<sup>25</sup> kg<br />(10.540 Yrths)
         density: 2.277 g/cm<sup>3</sup>
         surface_gravity: 11.923 m/s<sup>2</sup><br />(1.216 g<sub>0</sub>)
         escape_velocity: 21.164 km/s<br />(76,191 km/h)
         rotation_period: 47.479 d
         axial_tilt: 22.58°
         albedo: 0.30
-        temperature: 1322 K<br />(1049 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -332,14 +332,14 @@ planets:
         radius: 6,185.5 km<br/>(0.971 Yrths)
         surface_area: 4.808 × 10<sup>08</sup> km<sup>2</sup><br/>(0.943 Yrths)
         volume: 9.913 × 10<sup>11</sup> km<sup>3</sup><br/>(0.915 Yrths)
-        mass: 2.239 × 10<sup>24</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 2.239 × 10<sup>24</sup> kg<br />(0.375 Yrths)
         density: 2.259 g/cm<sup>3</sup>
         surface_gravity: 3.901 m/s<sup>2</sup><br />(0.398 g<sub>0</sub>)
         escape_velocity: 6.952 km/s<br />(25,026 km/h)
         rotation_period: 34.182 d
         axial_tilt: 12.90°
         albedo: 0.30
-        temperature: 1261 K<br />(988 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV c
         type: Icy
         formationType: Captured
@@ -352,14 +352,14 @@ planets:
         radius: 10,260.7 km<br/>(1.611 Yrths)
         surface_area: 1.323 × 10<sup>09</sup> km<sup>2</sup><br/>(2.594 Yrths)
         volume: 4.525 × 10<sup>12</sup> km<sup>3</sup><br/>(4.177 Yrths)
-        mass: 4.476 × 10<sup>24</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 4.476 × 10<sup>24</sup> kg<br />(0.750 Yrths)
         density: 0.989 g/cm<sup>3</sup>
         surface_gravity: 2.834 m/s<sup>2</sup><br />(0.289 g<sub>0</sub>)
         escape_velocity: 7.631 km/s<br />(27,472 km/h)
         rotation_period: 80.940 d
         axial_tilt: 27.47°
         albedo: 0.30
-        temperature: 1202 K<br />(929 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV d
         type: Icy
         formationType: Accreted
@@ -372,14 +372,14 @@ planets:
         radius: 10,053.6 km<br/>(1.578 Yrths)
         surface_area: 1.270 × 10<sup>09</sup> km<sup>2</sup><br/>(2.490 Yrths)
         volume: 4.257 × 10<sup>12</sup> km<sup>3</sup><br/>(3.930 Yrths)
-        mass: 6.412 × 10<sup>24</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 6.412 × 10<sup>24</sup> kg<br />(1.074 Yrths)
         density: 1.506 g/cm<sup>3</sup>
         surface_gravity: 4.228 m/s<sup>2</sup><br />(0.431 g<sub>0</sub>)
         escape_velocity: 9.227 km/s<br />(33,217 km/h)
         rotation_period: 75.200 d
         axial_tilt: 23.38°
         albedo: 0.30
-        temperature: 1093 K<br />(820 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV e
         type: Ice/rock hybrid
         formationType: Captured
@@ -392,14 +392,14 @@ planets:
         radius: 8,163.5 km<br/>(1.281 Yrths)
         surface_area: 8.375 × 10<sup>08</sup> km<sup>2</sup><br/>(1.642 Yrths)
         volume: 2.279 × 10<sup>12</sup> km<sup>3</sup><br/>(2.104 Yrths)
-        mass: 5.310 × 10<sup>24</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 5.310 × 10<sup>24</sup> kg<br />(0.889 Yrths)
         density: 2.330 g/cm<sup>3</sup>
         surface_gravity: 5.311 m/s<sup>2</sup><br />(0.542 g<sub>0</sub>)
         escape_velocity: 9.318 km/s<br />(33,545 km/h)
         rotation_period: 61.780 d
         axial_tilt: 24.20°
         albedo: 0.30
-        temperature: 993 K<br />(720 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV f
         type: Asteroid
         formationType: Captured
@@ -412,14 +412,14 @@ planets:
         radius: 7,757.7 km<br/>(1.218 Yrths)
         surface_area: 7.563 × 10<sup>08</sup> km<sup>2</sup><br/>(1.483 Yrths)
         volume: 1.956 × 10<sup>12</sup> km<sup>3</sup><br/>(1.805 Yrths)
-        mass: 3.945 × 10<sup>24</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 3.945 × 10<sup>24</sup> kg<br />(0.661 Yrths)
         density: 2.017 g/cm<sup>3</sup>
         surface_gravity: 4.369 m/s<sup>2</sup><br />(0.446 g<sub>0</sub>)
         escape_velocity: 8.239 km/s<br />(29,662 km/h)
         rotation_period: 53.534 d
         axial_tilt: 11.84°
         albedo: 0.30
-        temperature: 947 K<br />(674 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV g
         type: Icy
         formationType: Accreted
@@ -432,14 +432,14 @@ planets:
         radius: 11,017.9 km<br/>(1.729 Yrths)
         surface_area: 1.525 × 10<sup>09</sup> km<sup>2</sup><br/>(2.991 Yrths)
         volume: 5.603 × 10<sup>12</sup> km<sup>3</sup><br/>(5.172 Yrths)
-        mass: 8.084 × 10<sup>24</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 8.084 × 10<sup>24</sup> kg<br />(1.354 Yrths)
         density: 1.443 g/cm<sup>3</sup>
         surface_gravity: 4.438 m/s<sup>2</sup><br />(0.453 g<sub>0</sub>)
         escape_velocity: 9.896 km/s<br />(35,626 km/h)
         rotation_period: 57.186 d
         axial_tilt: 17.51°
         albedo: 0.30
-        temperature: 903 K<br />(630 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -452,14 +452,14 @@ planets:
         radius: 7,447.9 km<br/>(1.169 Yrths)
         surface_area: 6.971 × 10<sup>08</sup> km<sup>2</sup><br/>(1.367 Yrths)
         volume: 1.731 × 10<sup>12</sup> km<sup>3</sup><br/>(1.598 Yrths)
-        mass: 2.769 × 10<sup>24</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 2.769 × 10<sup>24</sup> kg<br />(0.464 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 3.327 m/s<sup>2</sup><br />(0.339 g<sub>0</sub>)
         escape_velocity: 7.045 km/s<br />(25,361 km/h)
         rotation_period: 75.920 d
         axial_tilt: 26.00°
         albedo: 0.30
-        temperature: 821 K<br />(548 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -472,14 +472,14 @@ planets:
         radius: 10,596.1 km<br/>(1.663 Yrths)
         surface_area: 1.411 × 10<sup>09</sup> km<sup>2</sup><br/>(2.766 Yrths)
         volume: 4.983 × 10<sup>12</sup> km<sup>3</sup><br/>(4.601 Yrths)
-        mass: 1.011 × 10<sup>25</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 1.011 × 10<sup>25</sup> kg<br />(1.693 Yrths)
         density: 2.029 g/cm<sup>3</sup>
         surface_gravity: 6.003 m/s<sup>2</sup><br />(0.612 g<sub>0</sub>)
         escape_velocity: 11.287 km/s<br />(40,633 km/h)
         rotation_period: 52.417 d
         axial_tilt: 16.59°
         albedo: 0.30
-        temperature: 783 K<br />(510 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV j
         type: Icy
         formationType: Captured
@@ -492,14 +492,14 @@ planets:
         radius: 11,111.8 km<br/>(1.744 Yrths)
         surface_area: 1.552 × 10<sup>09</sup> km<sup>2</sup><br/>(3.042 Yrths)
         volume: 5.747 × 10<sup>12</sup> km<sup>3</sup><br/>(5.306 Yrths)
-        mass: 7.537 × 10<sup>24</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 7.537 × 10<sup>24</sup> kg<br />(1.262 Yrths)
         density: 1.312 g/cm<sup>3</sup>
         surface_gravity: 4.069 m/s<sup>2</sup><br />(0.415 g<sub>0</sub>)
         escape_velocity: 9.516 km/s<br />(34,256 km/h)
         rotation_period: 56.455 d
         axial_tilt: 16.31°
         albedo: 0.30
-        temperature: 746 K<br />(473 °C)
+        temperature: 128 K<br />(-146 °C)
       - name: 0056 Emniaiad C IV k
         type: Icy
         formationType: Captured
@@ -512,12 +512,12 @@ planets:
         radius: 15,055.3 km<br/>(2.363 Yrths)
         surface_area: 2.848 × 10<sup>09</sup> km<sup>2</sup><br/>(5.584 Yrths)
         volume: 1.429 × 10<sup>13</sup> km<sup>3</sup><br/>(13.196 Yrths)
-        mass: 1.053 × 10<sup>25</sup> kg<br />(6.835673784117909 Yrths)
+        mass: 1.053 × 10<sup>25</sup> kg<br />(1.764 Yrths)
         density: 0.737 g/cm<sup>3</sup>
         surface_gravity: 3.098 m/s<sup>2</sup><br />(0.316 g<sub>0</sub>)
         escape_velocity: 9.664 km/s<br />(34,792 km/h)
         rotation_period: 83.391 d
         axial_tilt: 14.50°
         albedo: 0.30
-        temperature: 712 K<br />(439 °C)
+        temperature: 128 K<br />(-146 °C)
 ---

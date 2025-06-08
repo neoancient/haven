@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1353 Arniad is a star in the constellation Arni
+      1353 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 784.34 ly
 apparent_magnitude: 11.41
 absolute_magnitude: 4.50

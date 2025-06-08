@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      756 Norriad is a star in the constellation Nor
+      756 Norriad is a star in the constellation <a href="nor.html">Nor</a>
 distance: 467.98 ly
 apparent_magnitude: 11.57
 absolute_magnitude: 5.79

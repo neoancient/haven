@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11901 Dialkeshiad A is a star in the constellation Dialkes
+      11901 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 469.48 ly
 apparent_magnitude: 8.63
 absolute_magnitude: 2.84

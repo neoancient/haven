@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2006 Arniad is a star in the constellation Arni
+      2006 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 931.72 ly
 apparent_magnitude: 11.78
 absolute_magnitude: 4.50

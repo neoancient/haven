@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      467 Nwaliad is a star in the constellation Nwal
+      467 Nwaliad is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 832.69 ly
 apparent_magnitude: 11.45
 absolute_magnitude: 4.42

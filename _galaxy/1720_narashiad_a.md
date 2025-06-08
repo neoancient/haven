@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1720 Narashiad A is a star in the constellation Naras
+      1720 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 486.10 ly
 apparent_magnitude: 11.35
 absolute_magnitude: 5.49

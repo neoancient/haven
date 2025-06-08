@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1343 Reggiad A is a star in the constellation Reg
+      1343 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 299.25 ly
 apparent_magnitude: 11.11
 absolute_magnitude: 6.29

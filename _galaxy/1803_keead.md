@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1803 Keead is a star in the constellation Kee
+      1803 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 431.82 ly
 apparent_magnitude: 12.08
 absolute_magnitude: 6.47

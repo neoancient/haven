@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2402 Tanashad is a star in the constellation Tanas
+      2402 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 244.63 ly
 apparent_magnitude: 9.17
 absolute_magnitude: 4.79

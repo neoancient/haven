@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0059 Arkothiad B is a star in the constellation Arkoth
+      0059 Arkothiad B is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 260.46 ly
 apparent_magnitude: 9.72
 absolute_magnitude: 5.21

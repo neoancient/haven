@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0034 Rishauthiad A is a star in the constellation Rishauth
+      0034 Rishauthiad A is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 122.91 ly
 apparent_magnitude: 6.66
 absolute_magnitude: 3.77

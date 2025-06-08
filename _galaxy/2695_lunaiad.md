@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2695 Lunaiad is a star in the constellation Luna
+      2695 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 363.10 ly
 apparent_magnitude: 8.00
 absolute_magnitude: 2.77

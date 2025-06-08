@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0031 Orshenniad A is a star in the constellation Orshen
+      0031 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 242.38 ly
 apparent_magnitude: 6.25
 absolute_magnitude: 1.90

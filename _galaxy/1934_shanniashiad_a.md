@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1934 Shanniashiad A is a star in the constellation Shannias
+      1934 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 806.88 ly
 apparent_magnitude: 6.79
 absolute_magnitude: -0.18

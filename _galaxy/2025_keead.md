@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2025 Keead is a star in the constellation Kee
+      2025 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 213.27 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 6.43

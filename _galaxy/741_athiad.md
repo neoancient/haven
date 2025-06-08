@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      741 Athiad is a star in the constellation Ath
+      741 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 486.03 ly
 apparent_magnitude: 7.65
 absolute_magnitude: 1.78
@@ -31,14 +31,14 @@ planets:
     radius: 4,246.0 km<br/>(0.666 Yrths)
     surface_area: 2.266 × 10<sup>08</sup> km<sup>2</sup><br/>(0.444 Yrths)
     volume: 3.207 × 10<sup>11</sup> km<sup>3</sup><br/>(0.296 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.862 g/cm<sup>3</sup>
     surface_gravity: 2.208 m/s<sup>2</sup><br />(0.225 g<sub>0</sub>)
     escape_velocity: 4.333 km/s<br />(15,599 km/h)
     rotation_period: 1.131 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 402 K<br />(129 °C)
+    temperature: 350 K<br />(77 °C)
     composition:
       - 91.4060% hydrogen
       - 8.5586% helium
@@ -56,14 +56,14 @@ planets:
         radius: 224.5 km<br/>(0.035 Yrths)
         surface_area: 6.333 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 4.739 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.041 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.041 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.197 g/cm<sup>3</sup>
         surface_gravity: 0.138 m/s<sup>2</sup><br />(0.014 g<sub>0</sub>)
         escape_velocity: 0.249 km/s<br />(896 km/h)
         rotation_period: 44.751 d
         axial_tilt: 20.12°
         albedo: 0.30
-        temperature: 7056 K<br />(6782 °C)
+        temperature: 302 K<br />(29 °C)
       - name: 741 Athiad I b
         type: Asteroid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 674.7 km<br/>(0.106 Yrths)
         surface_area: 5.721 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.287 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.660 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.660 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.845 g/cm<sup>3</sup>
         surface_gravity: 0.536 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 0.851 km/s<br />(3,063 km/h)
         rotation_period: 33.839 d
         axial_tilt: 18.12°
         albedo: 0.30
-        temperature: 6727 K<br />(6454 °C)
+        temperature: 302 K<br />(29 °C)
       - name: 741 Athiad I c
         type: Icy
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 703.4 km<br/>(0.110 Yrths)
         surface_area: 6.217 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.458 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.513 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.513 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.038 g/cm<sup>3</sup>
         surface_gravity: 0.204 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.536 km/s<br />(1,929 km/h)
         rotation_period: 50.579 d
         axial_tilt: 10.86°
         albedo: 0.30
-        temperature: 6414 K<br />(6141 °C)
+        temperature: 302 K<br />(29 °C)
       - name: 741 Athiad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 521.9 km<br/>(0.082 Yrths)
         surface_area: 3.423 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 5.956 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.321 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.321 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.219 g/cm<sup>3</sup>
         surface_gravity: 0.323 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.581 km/s<br />(2,093 km/h)
         rotation_period: 43.565 d
         axial_tilt: 21.21°
         albedo: 0.30
-        temperature: 5831 K<br />(5558 °C)
+        temperature: 302 K<br />(29 °C)
       - name: 741 Athiad I e
         type: Icy
         formationType: Captured
@@ -136,12 +136,12 @@ planets:
         radius: 348.5 km<br/>(0.055 Yrths)
         surface_area: 1.526 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.772 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.539 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.539 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.432 g/cm<sup>3</sup>
         surface_gravity: 0.139 m/s<sup>2</sup><br />(0.014 g<sub>0</sub>)
         escape_velocity: 0.312 km/s<br />(1,123 km/h)
         rotation_period: 52.074 d
         axial_tilt: 17.69°
         albedo: 0.30
-        temperature: 5560 K<br />(5287 °C)
+        temperature: 302 K<br />(29 °C)
 ---

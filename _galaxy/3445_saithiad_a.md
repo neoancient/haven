@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3445 Saithiad A is a star in the constellation Saith
+      3445 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 322.34 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 6.00

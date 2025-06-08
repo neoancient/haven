@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      82105 Dialkeshiad A is a star in the constellation Dialkes
+      82105 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 476.96 ly
 apparent_magnitude: 7.67
 absolute_magnitude: 1.84

@@ -11,70 +11,51 @@ sections:
       Omega Redoubt is a terrestrial planet in the <a href="19296_kinanniad.html">19296 Kinanniad</a> system.
       Omega Redoubt is a heavily fortified world that produces the majority of the Domininion's elite soldiers. 
 planet:
-  aphelion: 285,921,078 km<br />1.911 AU
-  perihelion: 283,779,664 km<br />1.897 AU
-  semi_major_axis: 284,850,371 km<br />1.904 AU
-  eccentricity: 0.004
-  orbital_period: 738.57 d<br />2.022 y
-  inclination: 36.72°
-  radius: 6,198.8 km<br/>(0.973 Yrths)
-  surface_area: 4.829 × 10<sup>08</sup> km<sup>2</sup><br/>(0.947 Yrths)
-  volume: 9.977 × 10<sup>11</sup> km<sup>3</sup><br/>(0.921 Yrths)
-  mass: 5.527 × 10<sup>24</sup> kg<br />(0.93 Yrths)
-  density: 5.540 g/cm<sup>3</sup>
-  surface_gravity: 9.587 m/s<sup>2</sup><br />(0.978 g<sub>0</sub>)
-  escape_velocity: 10.910 km/s<br />(39,275 km/h)
-  rotation_period: 1.341 d
+  aphelion: 49,728,149 km<br />0.332 AU
+  perihelion: 48,858,172 km<br />0.327 AU
+  semi_major_axis: 49,293,160 km<br />0.329 AU
+  eccentricity: 0.009
+  orbital_period: 88.19 d<br />0.241 y
+  inclination: 18.43°
+  radius: 6,148.4 km<br/>(0.965 Yrths)
+  surface_area: 4.750 × 10<sup>08</sup> km<sup>2</sup><br/>(0.931 Yrths)
+  volume: 9.736 × 10<sup>11</sup> km<sup>3</sup><br/>(0.899 Yrths)
+  mass: 5.509 × 10<sup>24</sup> kg<br />(0.92 Yrths)
+  density: 5.659 g/cm<sup>3</sup>
+  surface_gravity: 9.714 m/s<sup>2</sup><br />(0.991 g<sub>0</sub>)
+  escape_velocity: 10.937 km/s<br />(39,372 km/h)
+  rotation_period: 3.894 d
   axial_tilt: 0.00°
   albedo: 0.30
-  temperature: 249 K<br />(-24 °C)
-  surface_pressure: 129 kPa<br />(1 atm)
+  temperature: 281 K<br />(8 °C)
+  surface_pressure: 117 kPa<br />(1 atm)
   composition:
-    - 70.8044% nitrogen
-    - 22.8258% oxygen
-    - 5.1373% water vapor
-    - 1.1548% argon
-    - 0.0776% carbon dioxide
-    - 0.0002% nitric acid
+    - 73.4517% nitrogen
+    - 23.6834% oxygen
+    - 1.5727% hydrogen sulfide
+    - 1.1982% argon
+    - 0.0933% carbon dioxide
+    - 0.0007% methane
+    - 0.0001% hydrochloric acid
   moons:
     - name: Omega Redoubt a
       type: Rocky
-      formationType: Accreted
-      aphelion: 1,321,520 km<br />
-      perihelion: 1,010,563 km<br />
-      semi_major_axis: 1,166,042 km<br />
-      eccentricity: 0.133
-      orbital_period: 0.16 d<br />
-      inclination: 2.26°
-      radius: 2,240.3 km<br/>(0.352 Yrths)
-      surface_area: 6.307 × 10<sup>07</sup> km<sup>2</sup><br/>(0.124 Yrths)
-      volume: 4.710 × 10<sup>10</sup> km<sup>3</sup><br/>(0.043 Yrths)
-      mass: 1.456 × 10<sup>23</sup> kg<br />(0.9254781951544289 Yrths)
-      density: 3.091 g/cm<sup>3</sup>
-      surface_gravity: 1.934 m/s<sup>2</sup><br />(0.197 g<sub>0</sub>)
-      escape_velocity: 2.945 km/s<br />(10,604 km/h)
-      rotation_period: 37.038 d
-      axial_tilt: 12.87°
+      formationType: Impact formed
+      aphelion: 287,379 km<br />
+      perihelion: 277,496 km<br />
+      semi_major_axis: 282,438 km<br />
+      eccentricity: 0.017
+      orbital_period: 0.01 d<br />
+      inclination: 5.12°
+      radius: 2,310.8 km<br/>(0.363 Yrths)
+      surface_area: 6.710 × 10<sup>07</sup> km<sup>2</sup><br/>(0.132 Yrths)
+      volume: 5.168 × 10<sup>10</sup> km<sup>3</sup><br/>(0.048 Yrths)
+      mass: 1.629 × 10<sup>23</sup> kg<br />(0.027 Yrths)
+      density: 3.151 g/cm<sup>3</sup>
+      surface_gravity: 2.033 m/s<sup>2</sup><br />(0.207 g<sub>0</sub>)
+      escape_velocity: 3.067 km/s<br />(11,042 km/h)
+      rotation_period: 50.398 d
+      axial_tilt: 9.61°
       albedo: 0.30
-      temperature: 3631 K<br />(3358 °C)
-    - name: Omega Redoubt b
-      type: Ice/rock hybrid
-      formationType: Accreted
-      aphelion: 1,470,977 km<br />
-      perihelion: 1,094,315 km<br />
-      semi_major_axis: 1,282,646 km<br />
-      eccentricity: 0.147
-      orbital_period: 0.16 d<br />
-      inclination: 3.77°
-      radius: 2,012.6 km<br/>(0.316 Yrths)
-      surface_area: 5.090 × 10<sup>07</sup> km<sup>2</sup><br/>(0.100 Yrths)
-      volume: 3.415 × 10<sup>10</sup> km<sup>3</sup><br/>(0.032 Yrths)
-      mass: 8.747 × 10<sup>22</sup> kg<br />(0.9254781951544289 Yrths)
-      density: 2.562 g/cm<sup>3</sup>
-      surface_gravity: 1.439 m/s<sup>2</sup><br />(0.147 g<sub>0</sub>)
-      escape_velocity: 2.409 km/s<br />(8,671 km/h)
-      rotation_period: 57.582 d
-      axial_tilt: 16.49°
-      albedo: 0.30
-      temperature: 3462 K<br />(3189 °C)
+      temperature: 260 K<br />(-13 °C)
 ---

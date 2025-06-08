@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0022 Reggiad B is a star in the constellation Reg
+      0022 Reggiad B is a star in the constellation <a href="reg.html">Reg</a>
 distance: 19790.03 ly
 apparent_magnitude: 4.90
 absolute_magnitude: -9.02

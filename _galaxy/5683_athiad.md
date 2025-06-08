@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5683 Athiad is a star in the constellation Ath
+      5683 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 640.63 ly
 apparent_magnitude: 9.04
 absolute_magnitude: 2.58

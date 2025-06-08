@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1283 Shanniashiad is a star in the constellation Shannias
+      1283 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 569.82 ly
 apparent_magnitude: 10.77
 absolute_magnitude: 4.56

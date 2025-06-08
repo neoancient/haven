@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1584 Anilliad A is a star in the constellation Anil
+      1584 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 1167.27 ly
 apparent_magnitude: 6.52
 absolute_magnitude: -1.25

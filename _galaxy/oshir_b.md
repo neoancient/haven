@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Oshir B is a star in the constellation Geard
+      Oshir B is a star in the constellation <a href="geard.html">Geard</a>
 distance: 397.30 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 3.41

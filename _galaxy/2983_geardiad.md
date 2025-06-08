@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2983 Geardiad is a star in the constellation Geard
+      2983 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1077.59 ly
 apparent_magnitude: 9.52
 absolute_magnitude: 1.93

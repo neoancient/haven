@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10269 Dialkeshiad is a star in the constellation Dialkes
+      10269 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 587.09 ly
 apparent_magnitude: 12.11
 absolute_magnitude: 5.83

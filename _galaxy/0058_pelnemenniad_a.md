@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0058 Pelnemenniad A is a star in the constellation Pelnemen
+      0058 Pelnemenniad A is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 124.83 ly
 apparent_magnitude: 6.32
 absolute_magnitude: 3.40

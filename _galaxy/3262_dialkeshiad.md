@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3262 Dialkeshiad is a star in the constellation Dialkes
+      3262 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 355.03 ly
 apparent_magnitude: 11.95
 absolute_magnitude: 6.76

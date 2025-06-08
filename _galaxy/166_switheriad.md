@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      166 Switheriad is a star in the constellation Swither
+      166 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 296.52 ly
 apparent_magnitude: 11.22
 absolute_magnitude: 6.43

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      184 Lulithannaid A is a star in the constellation Lulithan
+      184 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 254.68 ly
 apparent_magnitude: 9.35
 absolute_magnitude: 4.89

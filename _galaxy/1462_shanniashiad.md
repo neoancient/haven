@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1462 Shanniashiad is a star in the constellation Shannias
+      1462 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1052.85 ly
 apparent_magnitude: 12.90
 absolute_magnitude: 5.35

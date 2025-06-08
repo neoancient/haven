@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9346 Arkothiad is a star in the constellation Arkoth
+      9346 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 413.97 ly
 apparent_magnitude: 10.51
 absolute_magnitude: 4.99

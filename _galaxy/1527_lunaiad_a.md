@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1527 Lunaiad A is a star in the constellation Luna
+      1527 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 303.51 ly
 apparent_magnitude: 7.50
 absolute_magnitude: 2.65

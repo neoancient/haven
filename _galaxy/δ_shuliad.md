@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      δ Shuliad is a star in the constellation Shuli
+      δ Shuliad is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 100.41 ly
 apparent_magnitude: 3.29
 absolute_magnitude: 0.85
@@ -31,14 +31,14 @@ planets:
     radius: 8,905.3 km<br/>(1.398 Yrths)
     surface_area: 9.966 × 10<sup>08</sup> km<sup>2</sup><br/>(1.954 Yrths)
     volume: 2.958 × 10<sup>12</sup> km<sup>3</sup><br/>(2.731 Yrths)
-    mass: 1.421 × 10<sup>25</sup> kg<br />(2.3792003547517604 Yrths)
+    mass: 1.421 × 10<sup>25</sup> kg<br />(2.38 Yrths)
     density: 4.803 g/cm<sup>3</sup>
     surface_gravity: 11.942 m/s<sup>2</sup><br />(1.218 g<sub>0</sub>)
     escape_velocity: 14.594 km/s<br />(52,538 km/h)
     rotation_period: 0.779 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 323 K<br />(50 °C)
+    temperature: 391 K<br />(118 °C)
     surface_pressure: 103 kPa<br />(1 atm)
     composition:
       - 75.6960% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 5,926.4 km<br/>(0.930 Yrths)
         surface_area: 4.414 × 10<sup>08</sup> km<sup>2</sup><br/>(0.865 Yrths)
         volume: 8.719 × 10<sup>11</sup> km<sup>3</sup><br/>(0.805 Yrths)
-        mass: 1.243 × 10<sup>24</sup> kg<br />(2.3792003547517604 Yrths)
+        mass: 1.243 × 10<sup>24</sup> kg<br />(0.208 Yrths)
         density: 1.426 g/cm<sup>3</sup>
         surface_gravity: 2.359 m/s<sup>2</sup><br />(0.241 g<sub>0</sub>)
         escape_velocity: 5.292 km/s<br />(19,051 km/h)
         rotation_period: 78.869 d
         axial_tilt: 53.10°
         albedo: 0.30
-        temperature: 3529 K<br />(3256 °C)
+        temperature: 256 K<br />(-17 °C)
   - name: δ Shuliad II
     type: Ice giant
     aphelion: 2,889,284,796 km<br />19.313 AU
@@ -78,14 +78,14 @@ planets:
     radius: 28,751.1 km<br/>(4.513 Yrths)
     surface_area: 1.039 × 10<sup>10</sup> km<sup>2</sup><br/>(20.365 Yrths)
     volume: 9.955 × 10<sup>13</sup> km<sup>3</sup><br/>(91.905 Yrths)
-    mass: 1.424 × 10<sup>26</sup> kg<br />(23.85142568642192 Yrths)
+    mass: 1.424 × 10<sup>26</sup> kg<br />(23.85 Yrths)
     density: 1.431 g/cm<sup>3</sup>
     surface_gravity: 11.485 m/s<sup>2</sup><br />(1.171 g<sub>0</sub>)
     escape_velocity: 25.716 km/s<br />(92,579 km/h)
     rotation_period: 0.327 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 332 K<br />(59 °C)
+    temperature: 305 K<br />(32 °C)
     composition:
       - 69.8906% hydrogen
       - 26.5070% helium
@@ -104,14 +104,14 @@ planets:
         radius: 32,768.2 km<br/>(5.143 Yrths)
         surface_area: 1.349 × 10<sup>10</sup> km<sup>2</sup><br/>(26.454 Yrths)
         volume: 1.474 × 10<sup>14</sup> km<sup>3</sup><br/>(136.061 Yrths)
-        mass: 3.489 × 10<sup>26</sup> kg<br />(23.85142568642192 Yrths)
+        mass: 3.489 × 10<sup>26</sup> kg<br />(58.425 Yrths)
         density: 2.367 g/cm<sup>3</sup>
         surface_gravity: 21.658 m/s<sup>2</sup><br />(2.209 g<sub>0</sub>)
         escape_velocity: 37.701 km/s<br />(135,723 km/h)
         rotation_period: 43.606 d
         axial_tilt: 25.78°
         albedo: 0.30
-        temperature: 1370 K<br />(1097 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: δ Shuliad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -124,14 +124,14 @@ planets:
         radius: 39,278.7 km<br/>(6.165 Yrths)
         surface_area: 1.939 × 10<sup>10</sup> km<sup>2</sup><br/>(38.010 Yrths)
         volume: 2.538 × 10<sup>14</sup> km<sup>3</sup><br/>(234.341 Yrths)
-        mass: 4.660 × 10<sup>26</sup> kg<br />(23.85142568642192 Yrths)
+        mass: 4.660 × 10<sup>26</sup> kg<br />(78.030 Yrths)
         density: 1.836 g/cm<sup>3</sup>
         surface_gravity: 20.132 m/s<sup>2</sup><br />(2.053 g<sub>0</sub>)
         escape_velocity: 39.795 km/s<br />(143,262 km/h)
         rotation_period: 41.437 d
         axial_tilt: 25.78°
         albedo: 0.30
-        temperature: 1306 K<br />(1033 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: δ Shuliad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -144,14 +144,14 @@ planets:
         radius: 26,856.5 km<br/>(4.215 Yrths)
         surface_area: 9.064 × 10<sup>09</sup> km<sup>2</sup><br/>(17.770 Yrths)
         volume: 8.114 × 10<sup>13</sup> km<sup>3</sup><br/>(74.908 Yrths)
-        mass: 1.729 × 10<sup>26</sup> kg<br />(23.85142568642192 Yrths)
+        mass: 1.729 × 10<sup>26</sup> kg<br />(28.955 Yrths)
         density: 2.131 g/cm<sup>3</sup>
         surface_gravity: 15.979 m/s<sup>2</sup><br />(1.629 g<sub>0</sub>)
         escape_velocity: 29.316 km/s<br />(105,539 km/h)
         rotation_period: 41.456 d
         axial_tilt: 9.90°
         albedo: 0.30
-        temperature: 1079 K<br />(806 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: δ Shuliad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -164,14 +164,14 @@ planets:
         radius: 32,019.2 km<br/>(5.026 Yrths)
         surface_area: 1.288 × 10<sup>10</sup> km<sup>2</sup><br/>(25.258 Yrths)
         volume: 1.375 × 10<sup>14</sup> km<sup>3</sup><br/>(126.942 Yrths)
-        mass: 2.749 × 10<sup>26</sup> kg<br />(23.85142568642192 Yrths)
+        mass: 2.749 × 10<sup>26</sup> kg<br />(46.039 Yrths)
         density: 2.000 g/cm<sup>3</sup>
         surface_gravity: 17.875 m/s<sup>2</sup><br />(1.823 g<sub>0</sub>)
         escape_velocity: 33.856 km/s<br />(121,881 km/h)
         rotation_period: 39.863 d
         axial_tilt: 23.77°
         albedo: 0.30
-        temperature: 936 K<br />(662 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: δ Shuliad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -184,14 +184,14 @@ planets:
         radius: 31,282.3 km<br/>(4.910 Yrths)
         surface_area: 1.230 × 10<sup>10</sup> km<sup>2</sup><br/>(24.109 Yrths)
         volume: 1.282 × 10<sup>14</sup> km<sup>3</sup><br/>(118.379 Yrths)
-        mass: 2.052 × 10<sup>26</sup> kg<br />(23.85142568642192 Yrths)
+        mass: 2.052 × 10<sup>26</sup> kg<br />(34.355 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 13.974 m/s<sup>2</sup><br />(1.425 g<sub>0</sub>)
         escape_velocity: 29.588 km/s<br />(106,518 km/h)
         rotation_period: 51.881 d
         axial_tilt: 23.13°
         albedo: 0.30
-        temperature: 892 K<br />(619 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: δ Shuliad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -204,14 +204,14 @@ planets:
         radius: 26,649.5 km<br/>(4.183 Yrths)
         surface_area: 8.925 × 10<sup>09</sup> km<sup>2</sup><br/>(17.497 Yrths)
         volume: 7.928 × 10<sup>13</sup> km<sup>3</sup><br/>(73.188 Yrths)
-        mass: 1.970 × 10<sup>26</sup> kg<br />(23.85142568642192 Yrths)
+        mass: 1.970 × 10<sup>26</sup> kg<br />(32.980 Yrths)
         density: 2.484 g/cm<sup>3</sup>
         surface_gravity: 18.485 m/s<sup>2</sup><br />(1.885 g<sub>0</sub>)
         escape_velocity: 31.409 km/s<br />(113,074 km/h)
         rotation_period: 53.704 d
         axial_tilt: 22.58°
         albedo: 0.30
-        temperature: 851 K<br />(577 °C)
+        temperature: 167 K<br />(-106 °C)
   - name: δ Shuliad III
     type: Ice giant
     aphelion: 5,943,752,442 km<br />39.731 AU
@@ -223,14 +223,14 @@ planets:
     radius: 32,239.7 km<br/>(5.060 Yrths)
     surface_area: 1.306 × 10<sup>10</sup> km<sup>2</sup><br/>(25.607 Yrths)
     volume: 1.404 × 10<sup>14</sup> km<sup>3</sup><br/>(129.583 Yrths)
-    mass: 1.827 × 10<sup>26</sup> kg<br />(30.585237727931453 Yrths)
+    mass: 1.827 × 10<sup>26</sup> kg<br />(30.59 Yrths)
     density: 1.301 g/cm<sup>3</sup>
     surface_gravity: 11.713 m/s<sup>2</sup><br />(1.194 g<sub>0</sub>)
     escape_velocity: 27.500 km/s<br />(99,001 km/h)
     rotation_period: 0.305 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 213 K<br />(-60 °C)
+    temperature: 194 K<br />(-79 °C)
     composition:
       - 74.1070% hydrogen
       - 24.9291% helium
@@ -248,14 +248,14 @@ planets:
         radius: 23,303.1 km<br/>(3.658 Yrths)
         surface_area: 6.824 × 10<sup>09</sup> km<sup>2</sup><br/>(13.379 Yrths)
         volume: 5.301 × 10<sup>13</sup> km<sup>3</sup><br/>(48.935 Yrths)
-        mass: 1.337 × 10<sup>26</sup> kg<br />(30.585237727931453 Yrths)
+        mass: 1.337 × 10<sup>26</sup> kg<br />(22.395 Yrths)
         density: 2.523 g/cm<sup>3</sup>
         surface_gravity: 16.415 m/s<sup>2</sup><br />(1.674 g<sub>0</sub>)
         escape_velocity: 27.678 km/s<br />(99,643 km/h)
         rotation_period: 39.408 d
         axial_tilt: 19.45°
         albedo: 0.30
-        temperature: 902 K<br />(629 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: δ Shuliad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -268,14 +268,14 @@ planets:
         radius: 26,512.2 km<br/>(4.161 Yrths)
         surface_area: 8.833 × 10<sup>09</sup> km<sup>2</sup><br/>(17.317 Yrths)
         volume: 7.806 × 10<sup>13</sup> km<sup>3</sup><br/>(72.064 Yrths)
-        mass: 1.916 × 10<sup>26</sup> kg<br />(30.585237727931453 Yrths)
+        mass: 1.916 × 10<sup>26</sup> kg<br />(32.081 Yrths)
         density: 2.454 g/cm<sup>3</sup>
         surface_gravity: 18.168 m/s<sup>2</sup><br />(1.853 g<sub>0</sub>)
         escape_velocity: 31.059 km/s<br />(111,811 km/h)
         rotation_period: 60.497 d
         axial_tilt: 22.53°
         albedo: 0.30
-        temperature: 782 K<br />(508 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: δ Shuliad III c
         type: Asteroid
         formationType: Captured
@@ -288,14 +288,14 @@ planets:
         radius: 53,413.2 km<br/>(8.384 Yrths)
         surface_area: 3.585 × 10<sup>10</sup> km<sup>2</sup><br/>(70.288 Yrths)
         volume: 6.383 × 10<sup>14</sup> km<sup>3</sup><br/>(589.283 Yrths)
-        mass: 1.092 × 10<sup>27</sup> kg<br />(30.585237727931453 Yrths)
+        mass: 1.092 × 10<sup>27</sup> kg<br />(182.900 Yrths)
         density: 1.711 g/cm<sup>3</sup>
         surface_gravity: 25.518 m/s<sup>2</sup><br />(2.602 g<sub>0</sub>)
         escape_velocity: 52.247 km/s<br />(188,089 km/h)
         rotation_period: 47.760 d
         axial_tilt: 23.94°
         albedo: 0.30
-        temperature: 745 K<br />(472 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: δ Shuliad III d
         type: Icy
         formationType: Accreted
@@ -308,14 +308,14 @@ planets:
         radius: 50,939.4 km<br/>(7.996 Yrths)
         surface_area: 3.261 × 10<sup>10</sup> km<sup>2</sup><br/>(63.928 Yrths)
         volume: 5.537 × 10<sup>14</sup> km<sup>3</sup><br/>(511.137 Yrths)
-        mass: 3.876 × 10<sup>26</sup> kg<br />(30.585237727931453 Yrths)
+        mass: 3.876 × 10<sup>26</sup> kg<br />(64.897 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 9.955 m/s<sup>2</sup><br />(1.015 g<sub>0</sub>)
         escape_velocity: 31.869 km/s<br />(114,727 km/h)
         rotation_period: 77.516 d
         axial_tilt: 16.45°
         albedo: 0.30
-        temperature: 677 K<br />(404 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: δ Shuliad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -328,14 +328,14 @@ planets:
         radius: 37,100.0 km<br/>(5.823 Yrths)
         surface_area: 1.730 × 10<sup>10</sup> km<sup>2</sup><br/>(33.910 Yrths)
         volume: 2.139 × 10<sup>14</sup> km<sup>3</sup><br/>(197.469 Yrths)
-        mass: 4.334 × 10<sup>26</sup> kg<br />(30.585237727931453 Yrths)
+        mass: 4.334 × 10<sup>26</sup> kg<br />(72.568 Yrths)
         density: 2.026 g/cm<sup>3</sup>
         surface_gravity: 20.986 m/s<sup>2</sup><br />(2.140 g<sub>0</sub>)
         escape_velocity: 39.488 km/s<br />(142,156 km/h)
         rotation_period: 58.459 d
         axial_tilt: 15.79°
         albedo: 0.30
-        temperature: 646 K<br />(373 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: δ Shuliad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -348,14 +348,14 @@ planets:
         radius: 33,880.4 km<br/>(5.318 Yrths)
         surface_area: 1.442 × 10<sup>10</sup> km<sup>2</sup><br/>(28.280 Yrths)
         volume: 1.629 × 10<sup>14</sup> km<sup>3</sup><br/>(150.392 Yrths)
-        mass: 3.097 × 10<sup>26</sup> kg<br />(30.585237727931453 Yrths)
+        mass: 3.097 × 10<sup>26</sup> kg<br />(51.865 Yrths)
         density: 1.901 g/cm<sup>3</sup>
         surface_gravity: 17.985 m/s<sup>2</sup><br />(1.834 g<sub>0</sub>)
         escape_velocity: 34.933 km/s<br />(125,760 km/h)
         rotation_period: 67.611 d
         axial_tilt: 21.67°
         albedo: 0.30
-        temperature: 616 K<br />(343 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: δ Shuliad III g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -368,14 +368,14 @@ planets:
         radius: 25,226.8 km<br/>(3.960 Yrths)
         surface_area: 7.997 × 10<sup>09</sup> km<sup>2</sup><br/>(15.679 Yrths)
         volume: 6.725 × 10<sup>13</sup> km<sup>3</sup><br/>(62.082 Yrths)
-        mass: 1.535 × 10<sup>26</sup> kg<br />(30.585237727931453 Yrths)
+        mass: 1.535 × 10<sup>26</sup> kg<br />(25.696 Yrths)
         density: 2.282 g/cm<sup>3</sup>
         surface_gravity: 16.072 m/s<sup>2</sup><br />(1.639 g<sub>0</sub>)
         escape_velocity: 28.496 km/s<br />(102,584 km/h)
         rotation_period: 61.032 d
         axial_tilt: 12.82°
         albedo: 0.30
-        temperature: 587 K<br />(314 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: δ Shuliad III h
         type: Icy
         formationType: Accreted
@@ -388,12 +388,12 @@ planets:
         radius: 42,110.1 km<br/>(6.610 Yrths)
         surface_area: 2.228 × 10<sup>10</sup> km<sup>2</sup><br/>(43.687 Yrths)
         volume: 3.128 × 10<sup>14</sup> km<sup>3</sup><br/>(288.759 Yrths)
-        mass: 2.189 × 10<sup>26</sup> kg<br />(30.585237727931453 Yrths)
+        mass: 2.189 × 10<sup>26</sup> kg<br />(36.663 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 8.230 m/s<sup>2</sup><br />(0.839 g<sub>0</sub>)
         escape_velocity: 26.345 km/s<br />(94,842 km/h)
         rotation_period: 62.445 d
         axial_tilt: 19.20°
         albedo: 0.30
-        temperature: 534 K<br />(261 °C)
+        temperature: 109 K<br />(-164 °C)
 ---

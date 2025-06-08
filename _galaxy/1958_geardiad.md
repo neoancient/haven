@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1958 Geardiad is a star in the constellation Geard
+      1958 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 953.78 ly
 apparent_magnitude: 12.13
 absolute_magnitude: 4.80

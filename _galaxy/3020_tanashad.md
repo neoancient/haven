@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3020 Tanashad is a star in the constellation Tanas
+      3020 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 204.51 ly
 apparent_magnitude: 10.82
 absolute_magnitude: 6.83

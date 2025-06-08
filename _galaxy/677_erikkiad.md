@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      677 Erikkiad is a star in the constellation Erik
+      677 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1271.26 ly
 apparent_magnitude: 12.06
 absolute_magnitude: 4.11

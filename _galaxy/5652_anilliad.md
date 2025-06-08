@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5652 Anilliad is a star in the constellation Anil
+      5652 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 432.21 ly
 apparent_magnitude: 10.08
 absolute_magnitude: 4.47
@@ -31,14 +31,14 @@ planets:
     radius: 13,150.5 km<br/>(2.064 Yrths)
     surface_area: 2.173 × 10<sup>09</sup> km<sup>2</sup><br/>(4.261 Yrths)
     volume: 9.526 × 10<sup>12</sup> km<sup>3</sup><br/>(8.794 Yrths)
-    mass: 5.779 × 10<sup>25</sup> kg<br />(9.677552636240119 Yrths)
+    mass: 5.779 × 10<sup>25</sup> kg<br />(9.68 Yrths)
     density: 6.067 g/cm<sup>3</sup>
     surface_gravity: 22.275 m/s<sup>2</sup><br />(2.271 g<sub>0</sub>)
     escape_velocity: 24.221 km/s<br />(87,195 km/h)
     rotation_period: 0.822 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 260 K<br />(-13 °C)
+    temperature: 244 K<br />(-29 °C)
     surface_pressure: 38 kPa<br />(0 atm)
     composition:
       - 91.8461% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 10,693.8 km<br/>(1.679 Yrths)
         surface_area: 1.437 × 10<sup>09</sup> km<sup>2</sup><br/>(2.817 Yrths)
         volume: 5.123 × 10<sup>12</sup> km<sup>3</sup><br/>(4.729 Yrths)
-        mass: 1.644 × 10<sup>25</sup> kg<br />(9.677552636240119 Yrths)
+        mass: 1.644 × 10<sup>25</sup> kg<br />(2.752 Yrths)
         density: 3.209 g/cm<sup>3</sup>
         surface_gravity: 9.580 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
         escape_velocity: 14.324 km/s<br />(51,566 km/h)
         rotation_period: 33.942 d
         axial_tilt: 12.59°
         albedo: 0.30
-        temperature: 2178 K<br />(1905 °C)
+        temperature: 232 K<br />(-41 °C)
       - name: 5652 Anilliad I b
         type: Asteroid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 9,280.2 km<br/>(1.457 Yrths)
         surface_area: 1.082 × 10<sup>09</sup> km<sup>2</sup><br/>(2.122 Yrths)
         volume: 3.348 × 10<sup>12</sup> km<sup>3</sup><br/>(3.091 Yrths)
-        mass: 7.940 × 10<sup>24</sup> kg<br />(9.677552636240119 Yrths)
+        mass: 7.940 × 10<sup>24</sup> kg<br />(1.330 Yrths)
         density: 2.372 g/cm<sup>3</sup>
         surface_gravity: 6.145 m/s<sup>2</sup><br />(0.627 g<sub>0</sub>)
         escape_velocity: 10.687 km/s<br />(38,473 km/h)
         rotation_period: 46.575 d
         axial_tilt: 19.58°
         albedo: 0.30
-        temperature: 2077 K<br />(1803 °C)
+        temperature: 232 K<br />(-41 °C)
       - name: 5652 Anilliad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 6,894.3 km<br/>(1.082 Yrths)
         surface_area: 5.973 × 10<sup>08</sup> km<sup>2</sup><br/>(1.171 Yrths)
         volume: 1.373 × 10<sup>12</sup> km<sup>3</sup><br/>(1.267 Yrths)
-        mass: 2.832 × 10<sup>24</sup> kg<br />(9.677552636240119 Yrths)
+        mass: 2.832 × 10<sup>24</sup> kg<br />(0.474 Yrths)
         density: 2.063 g/cm<sup>3</sup>
         surface_gravity: 3.972 m/s<sup>2</sup><br />(0.405 g<sub>0</sub>)
         escape_velocity: 7.405 km/s<br />(26,659 km/h)
         rotation_period: 52.489 d
         axial_tilt: 26.26°
         albedo: 0.30
-        temperature: 1980 K<br />(1707 °C)
+        temperature: 232 K<br />(-41 °C)
   - name: 5652 Anilliad II
     type: Gas giant
     aphelion: 496,647,817 km<br />3.320 AU
@@ -115,7 +115,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.735 g/cm<sup>3</sup>
     surface_gravity: 31873.849 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -136,14 +136,14 @@ planets:
         radius: 1,016.2 km<br/>(0.160 Yrths)
         surface_area: 1.298 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.396 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 5.608 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.608 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.276 g/cm<sup>3</sup>
         surface_gravity: 0.362 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.858 km/s<br />(3,090 km/h)
         rotation_period: 55.621 d
         axial_tilt: 9.74°
         albedo: 0.30
-        temperature: 3429 K<br />(3156 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 5652 Anilliad II b
         type: Asteroid
         formationType: Captured
@@ -156,14 +156,14 @@ planets:
         radius: 887.7 km<br/>(0.139 Yrths)
         surface_area: 9.902 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.930 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 7.311 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.311 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.496 g/cm<sup>3</sup>
         surface_gravity: 0.618 m/s<sup>2</sup><br />(0.063 g<sub>0</sub>)
         escape_velocity: 1.049 km/s<br />(3,775 km/h)
         rotation_period: 40.871 d
         axial_tilt: 27.42°
         albedo: 0.30
-        temperature: 1387 K<br />(1113 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 5652 Anilliad II c
         type: Icy
         formationType: Impact formed
@@ -176,14 +176,14 @@ planets:
         radius: 905.3 km<br/>(0.142 Yrths)
         surface_area: 1.030 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.107 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.826 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.826 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.553 g/cm<sup>3</sup>
         surface_gravity: 0.393 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.844 km/s<br />(3,037 km/h)
         rotation_period: 52.981 d
         axial_tilt: 18.45°
         albedo: 0.30
-        temperature: 993 K<br />(720 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 5652 Anilliad II d
         type: Icy
         formationType: Accreted
@@ -196,14 +196,14 @@ planets:
         radius: 1,645.2 km<br/>(0.258 Yrths)
         surface_area: 3.401 × 10<sup>07</sup> km<sup>2</sup><br/>(0.067 Yrths)
         volume: 1.865 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 1.813 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.813 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 0.972 g/cm<sup>3</sup>
         surface_gravity: 0.447 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 1.213 km/s<br />(4,367 km/h)
         rotation_period: 67.122 d
         axial_tilt: 13.27°
         albedo: 0.30
-        temperature: 535 K<br />(261 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 5652 Anilliad II e
         type: Icy
         formationType: Accreted
@@ -216,14 +216,14 @@ planets:
         radius: 1,243.8 km<br/>(0.195 Yrths)
         surface_area: 1.944 × 10<sup>07</sup> km<sup>2</sup><br/>(0.038 Yrths)
         volume: 8.059 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.531 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.531 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 0.660 m/s<sup>2</sup><br />(0.067 g<sub>0</sub>)
         escape_velocity: 1.282 km/s<br />(4,615 km/h)
         rotation_period: 45.251 d
         axial_tilt: 24.56°
         albedo: 0.30
-        temperature: 332 K<br />(59 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 5652 Anilliad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -236,14 +236,14 @@ planets:
         radius: 855.2 km<br/>(0.134 Yrths)
         surface_area: 9.190 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.620 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.002 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.002 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.909 g/cm<sup>3</sup>
         surface_gravity: 0.456 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.884 km/s<br />(3,181 km/h)
         rotation_period: 54.258 d
         axial_tilt: 21.86°
         albedo: 0.30
-        temperature: 302 K<br />(29 °C)
+        temperature: 171 K<br />(-102 °C)
   - name: 5652 Anilliad III
     type: Gas giant
     aphelion: 941,341,246 km<br />6.292 AU
@@ -255,7 +255,7 @@ planets:
     radius: 253.9 km<br/>(0.040 Yrths)
     surface_area: 8.098 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.852 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.796 × 10<sup>27</sup> kg<br />(468.1573679544779 Yrths)
+    mass: 2.796 × 10<sup>27</sup> kg<br />(468.16 Yrths)
     density: 40802894.474 g/cm<sup>3</sup>
     surface_gravity: 2891831.794 m/s<sup>2</sup><br />(294884.777 g<sub>0</sub>)
     escape_velocity: 1212.509 km/s<br />(4,365,033 km/h)
@@ -276,14 +276,14 @@ planets:
         radius: 194,503.1 km<br/>(30.529 Yrths)
         surface_area: 4.754 × 10<sup>11</sup> km<sup>2</sup><br/>(932.047 Yrths)
         volume: 3.082 × 10<sup>16</sup> km<sup>3</sup><br/>(28454.875 Yrths)
-        mass: 6.075 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 6.075 × 10<sup>28</sup> kg<br />(10172.764 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 107.034 m/s<sup>2</sup><br />(10.914 g<sub>0</sub>)
         escape_velocity: 204.190 km/s<br />(735,083 km/h)
         rotation_period: 53.124 d
         axial_tilt: 28.67°
         albedo: 0.30
-        temperature: 487 K<br />(214 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III b
         type: Rocky
         formationType: Accreted
@@ -296,14 +296,14 @@ planets:
         radius: 208,750.5 km<br/>(32.766 Yrths)
         surface_area: 5.476 × 10<sup>11</sup> km<sup>2</sup><br/>(1073.593 Yrths)
         volume: 3.810 × 10<sup>16</sup> km<sup>3</sup><br/>(35177.081 Yrths)
-        mass: 1.016 × 10<sup>29</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 1.016 × 10<sup>29</sup> kg<br />(17013.301 Yrths)
         density: 2.666 g/cm<sup>3</sup>
         surface_gravity: 155.407 m/s<sup>2</sup><br />(15.847 g<sub>0</sub>)
         escape_velocity: 254.893 km/s<br />(917,616 km/h)
         rotation_period: 35.601 d
         axial_tilt: 17.44°
         albedo: 0.30
-        temperature: 179 K<br />(-94 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III c
         type: Rocky
         formationType: Accreted
@@ -316,14 +316,14 @@ planets:
         radius: 151,980.6 km<br/>(23.855 Yrths)
         surface_area: 2.903 × 10<sup>11</sup> km<sup>2</sup><br/>(569.064 Yrths)
         volume: 1.470 × 10<sup>16</sup> km<sup>3</sup><br/>(13575.067 Yrths)
-        mass: 4.673 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 4.673 × 10<sup>28</sup> kg<br />(7824.964 Yrths)
         density: 3.178 g/cm<sup>3</sup>
         surface_gravity: 134.847 m/s<sup>2</sup><br />(13.751 g<sub>0</sub>)
         escape_velocity: 202.593 km/s<br />(729,335 km/h)
         rotation_period: 51.226 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 163 K<br />(-110 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -336,14 +336,14 @@ planets:
         radius: 182,560.3 km<br/>(28.655 Yrths)
         surface_area: 4.188 × 10<sup>11</sup> km<sup>2</sup><br/>(821.103 Yrths)
         volume: 2.549 × 10<sup>16</sup> km<sup>3</sup><br/>(23528.620 Yrths)
-        mass: 5.517 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 5.517 × 10<sup>28</sup> kg<br />(9238.233 Yrths)
         density: 2.165 g/cm<sup>3</sup>
         surface_gravity: 110.335 m/s<sup>2</sup><br />(11.251 g<sub>0</sub>)
         escape_velocity: 200.849 km/s<br />(723,055 km/h)
         rotation_period: 52.122 d
         axial_tilt: 18.97°
         albedo: 0.30
-        temperature: 122 K<br />(-151 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -356,14 +356,14 @@ planets:
         radius: 171,975.1 km<br/>(26.993 Yrths)
         surface_area: 3.717 × 10<sup>11</sup> km<sup>2</sup><br/>(728.645 Yrths)
         volume: 2.131 × 10<sup>16</sup> km<sup>3</sup><br/>(19668.629 Yrths)
-        mass: 5.553 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 5.553 × 10<sup>28</sup> kg<br />(9299.139 Yrths)
         density: 2.607 g/cm<sup>3</sup>
         surface_gravity: 125.155 m/s<sup>2</sup><br />(12.762 g<sub>0</sub>)
         escape_velocity: 207.619 km/s<br />(747,427 km/h)
         rotation_period: 38.335 d
         axial_tilt: 16.11°
         albedo: 0.30
-        temperature: 84 K<br />(-190 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -376,14 +376,14 @@ planets:
         radius: 199,842.8 km<br/>(31.368 Yrths)
         surface_area: 5.019 × 10<sup>11</sup> km<sup>2</sup><br/>(983.925 Yrths)
         volume: 3.343 × 10<sup>16</sup> km<sup>3</sup><br/>(30863.347 Yrths)
-        mass: 6.705 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 6.705 × 10<sup>28</sup> kg<br />(11228.228 Yrths)
         density: 2.006 g/cm<sup>3</sup>
         surface_gravity: 111.910 m/s<sup>2</sup><br />(11.412 g<sub>0</sub>)
         escape_velocity: 211.636 km/s<br />(761,889 km/h)
         rotation_period: 57.702 d
         axial_tilt: 20.26°
         albedo: 0.30
-        temperature: 80 K<br />(-193 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III g
         type: Icy
         formationType: Captured
@@ -396,14 +396,14 @@ planets:
         radius: 587,739.0 km<br/>(92.252 Yrths)
         surface_area: 4.341 × 10<sup>12</sup> km<sup>2</sup><br/>(8510.475 Yrths)
         volume: 8.504 × 10<sup>17</sup> km<sup>3</sup><br/>(785110.288 Yrths)
-        mass: 5.953 × 10<sup>29</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 5.953 × 10<sup>29</sup> kg<br />(99682.824 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 114.865 m/s<sup>2</sup><br />(11.713 g<sub>0</sub>)
         escape_velocity: 367.702 km/s<br />(1,323,726 km/h)
         rotation_period: 85.106 d
         axial_tilt: 15.69°
         albedo: 0.30
-        temperature: 60 K<br />(-213 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III h
         type: Icy
         formationType: Captured
@@ -416,14 +416,14 @@ planets:
         radius: 207,769.9 km<br/>(32.612 Yrths)
         surface_area: 5.425 × 10<sup>11</sup> km<sup>2</sup><br/>(1063.531 Yrths)
         volume: 3.757 × 10<sup>16</sup> km<sup>3</sup><br/>(34683.695 Yrths)
-        mass: 6.476 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 6.476 × 10<sup>28</sup> kg<br />(10843.493 Yrths)
         density: 1.724 g/cm<sup>3</sup>
         surface_gravity: 99.986 m/s<sup>2</sup><br />(10.196 g<sub>0</sub>)
         escape_velocity: 203.972 km/s<br />(734,300 km/h)
         rotation_period: 43.951 d
         axial_tilt: 15.50°
         albedo: 0.30
-        temperature: 57 K<br />(-216 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III i
         type: Icy
         formationType: Captured
@@ -436,14 +436,14 @@ planets:
         radius: 282,834.6 km<br/>(44.394 Yrths)
         surface_area: 1.005 × 10<sup>12</sup> km<sup>2</sup><br/>(1970.834 Yrths)
         volume: 9.477 × 10<sup>16</sup> km<sup>3</sup><br/>(87493.335 Yrths)
-        mass: 6.634 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 6.634 × 10<sup>28</sup> kg<br />(11108.736 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 55.276 m/s<sup>2</sup><br />(5.637 g<sub>0</sub>)
         escape_velocity: 176.947 km/s<br />(637,010 km/h)
         rotation_period: 75.151 d
         axial_tilt: 13.84°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III j
         type: Rocky
         formationType: Captured
@@ -456,14 +456,14 @@ planets:
         radius: 159,842.4 km<br/>(25.089 Yrths)
         surface_area: 3.211 × 10<sup>11</sup> km<sup>2</sup><br/>(629.461 Yrths)
         volume: 1.711 × 10<sup>16</sup> km<sup>3</sup><br/>(15792.579 Yrths)
-        mass: 5.067 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 5.067 × 10<sup>28</sup> kg<br />(8484.146 Yrths)
         density: 2.962 g/cm<sup>3</sup>
         surface_gravity: 132.178 m/s<sup>2</sup><br />(13.478 g<sub>0</sub>)
         escape_velocity: 205.701 km/s<br />(740,523 km/h)
         rotation_period: 50.274 d
         axial_tilt: 14.44°
         albedo: 0.30
-        temperature: 47 K<br />(-226 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -476,14 +476,14 @@ planets:
         radius: 180,199.7 km<br/>(28.284 Yrths)
         surface_area: 4.081 × 10<sup>11</sup> km<sup>2</sup><br/>(800.005 Yrths)
         volume: 2.451 × 10<sup>16</sup> km<sup>3</sup><br/>(22627.645 Yrths)
-        mass: 5.113 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 5.113 × 10<sup>28</sup> kg<br />(8561.887 Yrths)
         density: 2.086 g/cm<sup>3</sup>
         surface_gravity: 104.954 m/s<sup>2</sup><br />(10.702 g<sub>0</sub>)
         escape_velocity: 194.619 km/s<br />(700,629 km/h)
         rotation_period: 55.012 d
         axial_tilt: 14.44°
         albedo: 0.30
-        temperature: 29 K<br />(-244 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 5652 Anilliad III l
         type: Icy
         formationType: Captured
@@ -496,14 +496,14 @@ planets:
         radius: 234,156.9 km<br/>(36.754 Yrths)
         surface_area: 6.890 × 10<sup>11</sup> km<sup>2</sup><br/>(1350.823 Yrths)
         volume: 5.378 × 10<sup>16</sup> km<sup>3</sup><br/>(49647.549 Yrths)
-        mass: 8.061 × 10<sup>28</sup> kg<br />(468.1573679544779 Yrths)
+        mass: 8.061 × 10<sup>28</sup> kg<br />(13497.980 Yrths)
         density: 1.499 g/cm<sup>3</sup>
         surface_gravity: 97.992 m/s<sup>2</sup><br />(9.992 g<sub>0</sub>)
         escape_velocity: 214.367 km/s<br />(771,723 km/h)
         rotation_period: 44.289 d
         axial_tilt: 17.44°
         albedo: 0.30
-        temperature: 27 K<br />(-247 °C)
+        temperature: 126 K<br />(-147 °C)
   - name: 5652 Anilliad IV
     type: Ice giant
     aphelion: 1,666,695,979 km<br />11.141 AU
@@ -515,14 +515,14 @@ planets:
     radius: 23,867.4 km<br/>(3.746 Yrths)
     surface_area: 7.158 × 10<sup>09</sup> km<sup>2</sup><br/>(14.034 Yrths)
     volume: 5.695 × 10<sup>13</sup> km<sup>3</sup><br/>(52.577 Yrths)
-    mass: 7.221 × 10<sup>25</sup> kg<br />(12.091665758718023 Yrths)
+    mass: 7.221 × 10<sup>25</sup> kg<br />(12.09 Yrths)
     density: 1.268 g/cm<sup>3</sup>
     surface_gravity: 8.449 m/s<sup>2</sup><br />(0.862 g<sub>0</sub>)
     escape_velocity: 20.096 km/s<br />(72,347 km/h)
     rotation_period: 0.410 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 174 K<br />(-99 °C)
+    temperature: 172 K<br />(-101 °C)
     composition:
       - 56.6507% hydrogen
       - 17.7472% helium
@@ -542,14 +542,14 @@ planets:
         radius: 14,113.7 km<br/>(2.215 Yrths)
         surface_area: 2.503 × 10<sup>09</sup> km<sup>2</sup><br/>(4.908 Yrths)
         volume: 1.178 × 10<sup>13</sup> km<sup>3</sup><br/>(10.872 Yrths)
-        mass: 2.421 × 10<sup>25</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 2.421 × 10<sup>25</sup> kg<br />(4.053 Yrths)
         density: 2.055 g/cm<sup>3</sup>
         surface_gravity: 8.099 m/s<sup>2</sup><br />(0.826 g<sub>0</sub>)
         escape_velocity: 15.131 km/s<br />(54,470 km/h)
         rotation_period: 41.206 d
         axial_tilt: 8.26°
         albedo: 0.30
-        temperature: 809 K<br />(536 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 5652 Anilliad IV b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -562,14 +562,14 @@ planets:
         radius: 14,957.6 km<br/>(2.348 Yrths)
         surface_area: 2.811 × 10<sup>09</sup> km<sup>2</sup><br/>(5.512 Yrths)
         volume: 1.402 × 10<sup>13</sup> km<sup>3</sup><br/>(12.941 Yrths)
-        mass: 2.940 × 10<sup>25</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 2.940 × 10<sup>25</sup> kg<br />(4.924 Yrths)
         density: 2.098 g/cm<sup>3</sup>
         surface_gravity: 8.760 m/s<sup>2</sup><br />(0.893 g<sub>0</sub>)
         escape_velocity: 16.199 km/s<br />(58,317 km/h)
         rotation_period: 46.758 d
         axial_tilt: 14.19°
         albedo: 0.30
-        temperature: 771 K<br />(498 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 5652 Anilliad IV c
         type: Rocky
         formationType: Accreted
@@ -582,14 +582,14 @@ planets:
         radius: 9,396.4 km<br/>(1.475 Yrths)
         surface_area: 1.110 × 10<sup>09</sup> km<sup>2</sup><br/>(2.175 Yrths)
         volume: 3.475 × 10<sup>12</sup> km<sup>3</sup><br/>(3.208 Yrths)
-        mass: 9.615 × 10<sup>24</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 9.615 × 10<sup>24</sup> kg<br />(1.610 Yrths)
         density: 2.767 g/cm<sup>3</sup>
         surface_gravity: 7.259 m/s<sup>2</sup><br />(0.740 g<sub>0</sub>)
         escape_velocity: 11.687 km/s<br />(42,074 km/h)
         rotation_period: 40.031 d
         axial_tilt: 16.54°
         albedo: 0.30
-        temperature: 735 K<br />(462 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 5652 Anilliad IV d
         type: Icy
         formationType: Accreted
@@ -602,14 +602,14 @@ planets:
         radius: 12,660.1 km<br/>(1.987 Yrths)
         surface_area: 2.014 × 10<sup>09</sup> km<sup>2</sup><br/>(3.949 Yrths)
         volume: 8.500 × 10<sup>12</sup> km<sup>3</sup><br/>(7.847 Yrths)
-        mass: 9.640 × 10<sup>24</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 9.640 × 10<sup>24</sup> kg<br />(1.614 Yrths)
         density: 1.134 g/cm<sup>3</sup>
         surface_gravity: 4.009 m/s<sup>2</sup><br />(0.409 g<sub>0</sub>)
         escape_velocity: 10.082 km/s<br />(36,294 km/h)
         rotation_period: 81.148 d
         axial_tilt: 21.98°
         albedo: 0.30
-        temperature: 701 K<br />(428 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 5652 Anilliad IV e
         type: Icy
         formationType: Captured
@@ -622,14 +622,14 @@ planets:
         radius: 9,869.8 km<br/>(1.549 Yrths)
         surface_area: 1.224 × 10<sup>09</sup> km<sup>2</sup><br/>(2.400 Yrths)
         volume: 4.027 × 10<sup>12</sup> km<sup>3</sup><br/>(3.718 Yrths)
-        mass: 4.672 × 10<sup>24</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 4.672 × 10<sup>24</sup> kg<br />(0.782 Yrths)
         density: 1.160 g/cm<sup>3</sup>
         surface_gravity: 3.197 m/s<sup>2</sup><br />(0.326 g<sub>0</sub>)
         escape_velocity: 7.949 km/s<br />(28,617 km/h)
         rotation_period: 47.250 d
         axial_tilt: 20.90°
         albedo: 0.30
-        temperature: 669 K<br />(395 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 5652 Anilliad IV f
         type: Ice/rock hybrid
         formationType: Captured
@@ -642,14 +642,14 @@ planets:
         radius: 14,220.4 km<br/>(2.232 Yrths)
         surface_area: 2.541 × 10<sup>09</sup> km<sup>2</sup><br/>(4.982 Yrths)
         volume: 1.205 × 10<sup>13</sup> km<sup>3</sup><br/>(11.120 Yrths)
-        mass: 2.425 × 10<sup>25</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 2.425 × 10<sup>25</sup> kg<br />(4.061 Yrths)
         density: 2.013 g/cm<sup>3</sup>
         surface_gravity: 7.994 m/s<sup>2</sup><br />(0.815 g<sub>0</sub>)
         escape_velocity: 15.088 km/s<br />(54,317 km/h)
         rotation_period: 38.753 d
         axial_tilt: 24.11°
         albedo: 0.30
-        temperature: 637 K<br />(364 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 5652 Anilliad IV g
         type: Icy
         formationType: Captured
@@ -662,14 +662,14 @@ planets:
         radius: 21,131.6 km<br/>(3.317 Yrths)
         surface_area: 5.611 × 10<sup>09</sup> km<sup>2</sup><br/>(11.001 Yrths)
         volume: 3.953 × 10<sup>13</sup> km<sup>3</sup><br/>(36.490 Yrths)
-        mass: 3.603 × 10<sup>25</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 3.603 × 10<sup>25</sup> kg<br />(6.033 Yrths)
         density: 0.911 g/cm<sup>3</sup>
         surface_gravity: 5.378 m/s<sup>2</sup><br />(0.548 g<sub>0</sub>)
         escape_velocity: 15.086 km/s<br />(54,309 km/h)
         rotation_period: 81.153 d
         axial_tilt: 10.69°
         albedo: 0.30
-        temperature: 608 K<br />(335 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 5652 Anilliad IV h
         type: Dwarf planet
         formationType: Captured
@@ -682,14 +682,14 @@ planets:
         radius: 14,568.7 km<br/>(2.287 Yrths)
         surface_area: 2.667 × 10<sup>09</sup> km<sup>2</sup><br/>(5.229 Yrths)
         volume: 1.295 × 10<sup>13</sup> km<sup>3</sup><br/>(11.958 Yrths)
-        mass: 2.271 × 10<sup>25</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 2.271 × 10<sup>25</sup> kg<br />(3.802 Yrths)
         density: 1.753 g/cm<sup>3</sup>
         surface_gravity: 7.131 m/s<sup>2</sup><br />(0.727 g<sub>0</sub>)
         escape_velocity: 14.424 km/s<br />(51,928 km/h)
         rotation_period: 51.265 d
         axial_tilt: 13.37°
         albedo: 0.30
-        temperature: 580 K<br />(306 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 5652 Anilliad IV i
         type: Icy
         formationType: Impact formed
@@ -702,14 +702,14 @@ planets:
         radius: 16,984.4 km<br/>(2.666 Yrths)
         surface_area: 3.625 × 10<sup>09</sup> km<sup>2</sup><br/>(7.107 Yrths)
         volume: 2.052 × 10<sup>13</sup> km<sup>3</sup><br/>(18.946 Yrths)
-        mass: 3.103 × 10<sup>25</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 3.103 × 10<sup>25</sup> kg<br />(5.196 Yrths)
         density: 1.512 g/cm<sup>3</sup>
         surface_gravity: 7.170 m/s<sup>2</sup><br />(0.731 g<sub>0</sub>)
         escape_velocity: 15.617 km/s<br />(56,222 km/h)
         rotation_period: 57.406 d
         axial_tilt: 17.48°
         albedo: 0.30
-        temperature: 553 K<br />(279 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 5652 Anilliad IV j
         type: Icy
         formationType: Accreted
@@ -722,14 +722,14 @@ planets:
         radius: 35,738.6 km<br/>(5.610 Yrths)
         surface_area: 1.605 × 10<sup>10</sup> km<sup>2</sup><br/>(31.467 Yrths)
         volume: 1.912 × 10<sup>14</sup> km<sup>3</sup><br/>(176.519 Yrths)
-        mass: 1.441 × 10<sup>26</sup> kg<br />(12.091665758718023 Yrths)
+        mass: 1.441 × 10<sup>26</sup> kg<br />(24.136 Yrths)
         density: 0.754 g/cm<sup>3</sup>
         surface_gravity: 7.522 m/s<sup>2</sup><br />(0.767 g<sub>0</sub>)
         escape_velocity: 23.203 km/s<br />(83,529 km/h)
         rotation_period: 80.634 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 502 K<br />(229 °C)
+        temperature: 93 K<br />(-180 °C)
   - name: 5652 Anilliad V
     type: Large terrestrial
     aphelion: 3,062,061,847 km<br />20.468 AU
@@ -741,7 +741,7 @@ planets:
     radius: 11,898.9 km<br/>(1.868 Yrths)
     surface_area: 1.779 × 10<sup>09</sup> km<sup>2</sup><br/>(3.488 Yrths)
     volume: 7.057 × 10<sup>12</sup> km<sup>3</sup><br/>(6.515 Yrths)
-    mass: 4.017 × 10<sup>25</sup> kg<br />(6.725575074624201 Yrths)
+    mass: 4.017 × 10<sup>25</sup> kg<br />(6.73 Yrths)
     density: 5.692 g/cm<sup>3</sup>
     surface_gravity: 18.908 m/s<sup>2</sup><br />(1.928 g<sub>0</sub>)
     escape_velocity: 21.227 km/s<br />(76,417 km/h)
@@ -762,14 +762,14 @@ planets:
         radius: 6,567.9 km<br/>(1.031 Yrths)
         surface_area: 5.421 × 10<sup>08</sup> km<sup>2</sup><br/>(1.063 Yrths)
         volume: 1.187 × 10<sup>12</sup> km<sup>3</sup><br/>(1.096 Yrths)
-        mass: 1.200 × 10<sup>24</sup> kg<br />(6.725575074624201 Yrths)
+        mass: 1.200 × 10<sup>24</sup> kg<br />(0.201 Yrths)
         density: 1.011 g/cm<sup>3</sup>
         surface_gravity: 1.854 m/s<sup>2</sup><br />(0.189 g<sub>0</sub>)
         escape_velocity: 4.938 km/s<br />(17,777 km/h)
         rotation_period: 86.532 d
         axial_tilt: 20.35°
         albedo: 0.30
-        temperature: 683 K<br />(410 °C)
+        temperature: 69 K<br />(-204 °C)
       - name: 5652 Anilliad V b
         type: Icy
         formationType: Accreted
@@ -782,14 +782,14 @@ planets:
         radius: 6,394.5 km<br/>(1.004 Yrths)
         surface_area: 5.138 × 10<sup>08</sup> km<sup>2</sup><br/>(1.007 Yrths)
         volume: 1.095 × 10<sup>12</sup> km<sup>3</sup><br/>(1.011 Yrths)
-        mass: 1.691 × 10<sup>24</sup> kg<br />(6.725575074624201 Yrths)
+        mass: 1.691 × 10<sup>24</sup> kg<br />(0.283 Yrths)
         density: 1.544 g/cm<sup>3</sup>
         surface_gravity: 2.756 m/s<sup>2</sup><br />(0.281 g<sub>0</sub>)
         escape_velocity: 5.941 km/s<br />(21,387 km/h)
         rotation_period: 43.002 d
         axial_tilt: 20.51°
         albedo: 0.30
-        temperature: 651 K<br />(378 °C)
+        temperature: 69 K<br />(-204 °C)
       - name: 5652 Anilliad V c
         type: Icy
         formationType: Captured
@@ -802,14 +802,14 @@ planets:
         radius: 4,581.9 km<br/>(0.719 Yrths)
         surface_area: 2.638 × 10<sup>08</sup> km<sup>2</sup><br/>(0.517 Yrths)
         volume: 4.029 × 10<sup>11</sup> km<sup>3</sup><br/>(0.372 Yrths)
-        mass: 3.992 × 10<sup>23</sup> kg<br />(6.725575074624201 Yrths)
+        mass: 3.992 × 10<sup>23</sup> kg<br />(0.067 Yrths)
         density: 0.991 g/cm<sup>3</sup>
         surface_gravity: 1.267 m/s<sup>2</sup><br />(0.129 g<sub>0</sub>)
         escape_velocity: 3.410 km/s<br />(12,277 km/h)
         rotation_period: 73.436 d
         axial_tilt: 10.99°
         albedo: 0.30
-        temperature: 621 K<br />(348 °C)
+        temperature: 69 K<br />(-204 °C)
       - name: 5652 Anilliad V d
         type: Icy
         formationType: Captured
@@ -822,12 +822,12 @@ planets:
         radius: 12,698.6 km<br/>(1.993 Yrths)
         surface_area: 2.026 × 10<sup>09</sup> km<sup>2</sup><br/>(3.973 Yrths)
         volume: 8.577 × 10<sup>12</sup> km<sup>3</sup><br/>(7.919 Yrths)
-        mass: 9.564 × 10<sup>24</sup> kg<br />(6.725575074624201 Yrths)
+        mass: 9.564 × 10<sup>24</sup> kg<br />(1.602 Yrths)
         density: 1.115 g/cm<sup>3</sup>
         surface_gravity: 3.953 m/s<sup>2</sup><br />(0.403 g<sub>0</sub>)
         escape_velocity: 10.027 km/s<br />(36,097 km/h)
         rotation_period: 70.358 d
         axial_tilt: 25.30°
         albedo: 0.30
-        temperature: 592 K<br />(319 °C)
+        temperature: 69 K<br />(-204 °C)
 ---

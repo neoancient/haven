@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4708 Tanashad A is a star in the constellation Tanas
+      4708 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1068.41 ly
 apparent_magnitude: 7.39
 absolute_magnitude: -0.19

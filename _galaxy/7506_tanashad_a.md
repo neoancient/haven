@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7506 Tanashad A is a star in the constellation Tanas
+      7506 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 247.50 ly
 apparent_magnitude: 7.31
 absolute_magnitude: 2.91

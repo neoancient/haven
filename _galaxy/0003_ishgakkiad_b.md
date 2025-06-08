@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0003 Ishgakkiad B is a star in the constellation Ishgak
+      0003 Ishgakkiad B is a star in the constellation <a href="ishgak.html">Ishgak</a>
 distance: 104.91 ly
 apparent_magnitude: 8.01
 absolute_magnitude: 5.47

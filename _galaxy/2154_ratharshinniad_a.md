@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2154 Ratharshinniad A is a star in the constellation Ratharshin
+      2154 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 154.14 ly
 apparent_magnitude: 9.59
 absolute_magnitude: 6.21

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2028 Dialkeshiad A is a star in the constellation Dialkes
+      2028 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 320.14 ly
 apparent_magnitude: 9.77
 absolute_magnitude: 4.81

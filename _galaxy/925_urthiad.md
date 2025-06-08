@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      925 Urthiad is a star in the constellation Urth
+      925 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 714.38 ly
 apparent_magnitude: 17.68
 absolute_magnitude: 10.97

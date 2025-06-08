@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4954 Anilliad is a star in the constellation Anil
+      4954 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 621.04 ly
 apparent_magnitude: 11.48
 absolute_magnitude: 5.08

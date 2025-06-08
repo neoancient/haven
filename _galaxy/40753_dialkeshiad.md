@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      40753 Dialkeshiad is a star in the constellation Dialkes
+      40753 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 515.72 ly
 apparent_magnitude: 11.31
 absolute_magnitude: 5.32

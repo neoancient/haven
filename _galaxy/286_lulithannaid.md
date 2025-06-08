@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      286 Lulithannaid is a star in the constellation Lulithan
+      286 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 426.11 ly
 apparent_magnitude: 12.05
 absolute_magnitude: 6.47

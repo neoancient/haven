@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2226 Ratharshinniad is a star in the constellation Ratharshin
+      2226 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 301.96 ly
 apparent_magnitude: 10.42
 absolute_magnitude: 5.58

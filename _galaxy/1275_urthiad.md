@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1275 Urthiad is a star in the constellation Urth
+      1275 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 1656.82 ly
 apparent_magnitude: 13.60
 absolute_magnitude: 5.08

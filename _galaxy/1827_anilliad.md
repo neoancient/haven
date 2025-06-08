@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1827 Anilliad is a star in the constellation Anil
+      1827 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 402.34 ly
 apparent_magnitude: 20.98
 absolute_magnitude: 15.52

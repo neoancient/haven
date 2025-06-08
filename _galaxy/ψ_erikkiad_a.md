@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Erikkiad A is a star in the constellation Erik
+      ψ Erikkiad A is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1160.67 ly
 apparent_magnitude: 6.48
 absolute_magnitude: -1.28

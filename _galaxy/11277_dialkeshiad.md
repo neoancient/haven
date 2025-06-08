@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11277 Dialkeshiad is a star in the constellation Dialkes
+      11277 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 143.09 ly
 apparent_magnitude: 9.23
 absolute_magnitude: 6.02

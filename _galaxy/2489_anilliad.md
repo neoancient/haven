@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2489 Anilliad is a star in the constellation Anil
+      2489 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 645.66 ly
 apparent_magnitude: 12.10
 absolute_magnitude: 5.62

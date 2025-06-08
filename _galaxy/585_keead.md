@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      585 Keead is a star in the constellation Kee
+      585 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 185.53 ly
 apparent_magnitude: 16.86
 absolute_magnitude: 13.09

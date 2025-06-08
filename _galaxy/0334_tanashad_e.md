@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0334 Tanashad E is a star in the constellation Tanas
+      0334 Tanashad E is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 2134.24 ly
 apparent_magnitude: 17.95
 absolute_magnitude: 8.87

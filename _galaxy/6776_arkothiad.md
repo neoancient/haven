@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6776 Arkothiad is a star in the constellation Arkoth
+      6776 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 349.70 ly
 apparent_magnitude: 10.11
 absolute_magnitude: 4.96

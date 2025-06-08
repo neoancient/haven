@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0089 Naddiad B is a star in the constellation Naddi
+      0089 Naddiad B is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 2334.87 ly
 apparent_magnitude: 16.48
 absolute_magnitude: 7.21

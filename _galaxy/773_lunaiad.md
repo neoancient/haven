@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      773 Lunaiad is a star in the constellation Luna
+      773 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 386.00 ly
 apparent_magnitude: 10.33
 absolute_magnitude: 4.96

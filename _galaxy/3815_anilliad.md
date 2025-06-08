@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3815 Anilliad is a star in the constellation Anil
+      3815 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 624.17 ly
 apparent_magnitude: 11.49
 absolute_magnitude: 5.08

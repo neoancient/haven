@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      101 Shanniashiad A is a star in the constellation Shannias
+      101 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 432.16 ly
 apparent_magnitude: 7.64
 absolute_magnitude: 2.03

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      944 Dialkeshiad is a star in the constellation Dialkes
+      944 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1072.73 ly
 apparent_magnitude: 15.38
 absolute_magnitude: 7.80

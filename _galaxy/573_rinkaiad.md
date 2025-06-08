@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      573 Rinkaiad is a star in the constellation Rinka
+      573 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 466.22 ly
 apparent_magnitude: 10.48
 absolute_magnitude: 4.71

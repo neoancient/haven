@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5908 Geardiad is a star in the constellation Geard
+      5908 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 177.57 ly
 apparent_magnitude: 19.20
 absolute_magnitude: 15.52

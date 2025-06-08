@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      181 Reggiad is a star in the constellation Reg
+      181 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 659.67 ly
 apparent_magnitude: 9.31
 absolute_magnitude: 2.78

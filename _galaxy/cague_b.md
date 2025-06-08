@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Cague B is a star in the constellation Shannias
+      Cague B is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 3039.84 ly
 apparent_magnitude: 2.49
 absolute_magnitude: -7.36

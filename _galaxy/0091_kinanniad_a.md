@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0091 Kinanniad A is a star in the constellation Kinan
+      0091 Kinanniad A is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 117.09 ly
 apparent_magnitude: 6.83
 absolute_magnitude: 4.05

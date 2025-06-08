@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      217 Arkothiad A is a star in the constellation Arkoth
+      217 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 342.49 ly
 apparent_magnitude: 7.45
 absolute_magnitude: 2.34

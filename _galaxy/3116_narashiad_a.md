@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3116 Narashiad A is a star in the constellation Naras
+      3116 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 604.08 ly
 apparent_magnitude: 8.23
 absolute_magnitude: 1.89

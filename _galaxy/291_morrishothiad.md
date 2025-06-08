@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      291 Morrishothiad is a star in the constellation Morrishoth
+      291 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 549.15 ly
 apparent_magnitude: 11.81
 absolute_magnitude: 5.67

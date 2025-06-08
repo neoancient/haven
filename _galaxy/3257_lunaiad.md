@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3257 Lunaiad is a star in the constellation Luna
+      3257 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 400.05 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 5.62

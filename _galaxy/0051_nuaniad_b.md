@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Nuaniad B is a star in the constellation Nuani
+      0051 Nuaniad B is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 265.87 ly
 apparent_magnitude: 8.95
 absolute_magnitude: 4.39

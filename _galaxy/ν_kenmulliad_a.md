@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Kenmulliad A is a star in the constellation Kenmul
+      ν Kenmulliad A is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 335.08 ly
 apparent_magnitude: 4.96
 absolute_magnitude: -0.10

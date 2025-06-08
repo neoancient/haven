@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7054 Arkothiad A is a star in the constellation Arkoth
+      7054 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 212.80 ly
 apparent_magnitude: 10.37
 absolute_magnitude: 6.29

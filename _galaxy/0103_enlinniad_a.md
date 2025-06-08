@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0103 Enlinniad A is a star in the constellation Enlin
+      0103 Enlinniad A is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 147.15 ly
 apparent_magnitude: 6.65
 absolute_magnitude: 3.38

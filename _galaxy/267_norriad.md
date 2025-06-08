@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      267 Norriad is a star in the constellation Nor
+      267 Norriad is a star in the constellation <a href="nor.html">Nor</a>
 distance: 376.51 ly
 apparent_magnitude: 10.69
 absolute_magnitude: 5.37

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3041 Lunaiad A is a star in the constellation Luna
+      3041 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 465.94 ly
 apparent_magnitude: 8.68
 absolute_magnitude: 2.91

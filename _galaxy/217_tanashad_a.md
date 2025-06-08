@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      217 Tanashad A is a star in the constellation Tanas
+      217 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 254.67 ly
 apparent_magnitude: 7.13
 absolute_magnitude: 2.66

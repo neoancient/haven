@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3768 Anilliad is a star in the constellation Anil
+      3768 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 460.19 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 4.98

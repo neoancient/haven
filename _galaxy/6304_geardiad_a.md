@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6304 Geardiad A is a star in the constellation Geard
+      6304 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 361.50 ly
 apparent_magnitude: 8.88
 absolute_magnitude: 3.66

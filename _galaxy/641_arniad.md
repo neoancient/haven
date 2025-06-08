@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      641 Arniad is a star in the constellation Arni
+      641 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 865.36 ly
 apparent_magnitude: 11.62
 absolute_magnitude: 4.50

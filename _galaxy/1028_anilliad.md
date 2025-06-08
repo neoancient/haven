@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1028 Anilliad is a star in the constellation Anil
+      1028 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 517.65 ly
 apparent_magnitude: 13.67
 absolute_magnitude: 7.67

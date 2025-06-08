@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11841 Dialkeshiad is a star in the constellation Dialkes
+      11841 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 248.74 ly
 apparent_magnitude: 10.00
 absolute_magnitude: 5.58

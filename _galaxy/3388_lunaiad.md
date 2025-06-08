@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3388 Lunaiad is a star in the constellation Luna
+      3388 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 300.46 ly
 apparent_magnitude: 9.69
 absolute_magnitude: 4.87
@@ -31,14 +31,14 @@ planets:
     radius: 7,547.8 km<br/>(1.185 Yrths)
     surface_area: 7.159 × 10<sup>08</sup> km<sup>2</sup><br/>(1.404 Yrths)
     volume: 1.801 × 10<sup>12</sup> km<sup>3</sup><br/>(1.663 Yrths)
-    mass: 1.725 × 10<sup>25</sup> kg<br />(2.8879684218840613 Yrths)
+    mass: 1.725 × 10<sup>25</sup> kg<br />(2.89 Yrths)
     density: 9.576 g/cm<sup>3</sup>
     surface_gravity: 20.179 m/s<sup>2</sup><br />(2.058 g<sub>0</sub>)
     escape_velocity: 17.465 km/s<br />(62,873 km/h)
     rotation_period: 1.658 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 471 K<br />(198 °C)
+    temperature: 1032 K<br />(759 °C)
     surface_pressure: 158 kPa<br />(2 atm)
     composition:
       - 55.3681% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 1,896.4 km<br/>(0.298 Yrths)
         surface_area: 4.519 × 10<sup>07</sup> km<sup>2</sup><br/>(0.089 Yrths)
         volume: 2.857 × 10<sup>10</sup> km<sup>3</sup><br/>(0.026 Yrths)
-        mass: 7.858 × 10<sup>22</sup> kg<br />(2.8879684218840613 Yrths)
+        mass: 7.858 × 10<sup>22</sup> kg<br />(0.013 Yrths)
         density: 2.751 g/cm<sup>3</sup>
         surface_gravity: 1.456 m/s<sup>2</sup><br />(0.149 g<sub>0</sub>)
         escape_velocity: 2.352 km/s<br />(8,467 km/h)
         rotation_period: 32.888 d
         axial_tilt: 13.68°
         albedo: 0.30
-        temperature: 4547 K<br />(4274 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 3388 Lunaiad I b
         type: Rocky
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 5,189.7 km<br/>(0.815 Yrths)
         surface_area: 3.385 × 10<sup>08</sup> km<sup>2</sup><br/>(0.664 Yrths)
         volume: 5.855 × 10<sup>11</sup> km<sup>3</sup><br/>(0.541 Yrths)
-        mass: 1.819 × 10<sup>24</sup> kg<br />(2.8879684218840613 Yrths)
+        mass: 1.819 × 10<sup>24</sup> kg<br />(0.305 Yrths)
         density: 3.107 g/cm<sup>3</sup>
         surface_gravity: 4.501 m/s<sup>2</sup><br />(0.459 g<sub>0</sub>)
         escape_velocity: 6.840 km/s<br />(24,624 km/h)
         rotation_period: 45.517 d
         axial_tilt: 19.79°
         albedo: 0.30
-        temperature: 4336 K<br />(4062 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 3388 Lunaiad I c
         type: Asteroid
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 6,278.9 km<br/>(0.986 Yrths)
         surface_area: 4.954 × 10<sup>08</sup> km<sup>2</sup><br/>(0.971 Yrths)
         volume: 1.037 × 10<sup>12</sup> km<sup>3</sup><br/>(0.957 Yrths)
-        mass: 2.851 × 10<sup>24</sup> kg<br />(2.8879684218840613 Yrths)
+        mass: 2.851 × 10<sup>24</sup> kg<br />(0.477 Yrths)
         density: 2.750 g/cm<sup>3</sup>
         surface_gravity: 4.821 m/s<sup>2</sup><br />(0.492 g<sub>0</sub>)
         escape_velocity: 7.786 km/s<br />(28,029 km/h)
         rotation_period: 59.633 d
         axial_tilt: 48.22°
         albedo: 0.30
-        temperature: 4134 K<br />(3861 °C)
+        temperature: 320 K<br />(47 °C)
   - name: 3388 Lunaiad II
     type: Terrestrial
     aphelion: 176,451,624 km<br />1.179 AU
@@ -118,14 +118,14 @@ planets:
     radius: 6,011.0 km<br/>(0.943 Yrths)
     surface_area: 4.540 × 10<sup>08</sup> km<sup>2</sup><br/>(0.890 Yrths)
     volume: 9.098 × 10<sup>11</sup> km<sup>3</sup><br/>(0.840 Yrths)
-    mass: 5.333 × 10<sup>24</sup> kg<br />(0.8930199722985568 Yrths)
+    mass: 5.333 × 10<sup>24</sup> kg<br />(0.89 Yrths)
     density: 5.862 g/cm<sup>3</sup>
     surface_gravity: 9.838 m/s<sup>2</sup><br />(1.003 g<sub>0</sub>)
     escape_velocity: 10.883 km/s<br />(39,178 km/h)
     rotation_period: 1.690 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 264 K<br />(-9 °C)
+    temperature: 287 K<br />(14 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 89.8910% nitrogen
@@ -145,14 +145,14 @@ planets:
         radius: 983.3 km<br/>(0.154 Yrths)
         surface_area: 1.215 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 3.982 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.115 × 10<sup>22</sup> kg<br />(0.8930199722985568 Yrths)
+        mass: 1.115 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 0.769 m/s<sup>2</sup><br />(0.078 g<sub>0</sub>)
         escape_velocity: 1.230 km/s<br />(4,429 km/h)
         rotation_period: 56.744 d
         axial_tilt: 11.90°
         albedo: 0.30
-        temperature: 3507 K<br />(3234 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 3388 Lunaiad II b
         type: Asteroid
         formationType: Captured
@@ -165,14 +165,14 @@ planets:
         radius: 2,269.8 km<br/>(0.356 Yrths)
         surface_area: 6.474 × 10<sup>07</sup> km<sup>2</sup><br/>(0.127 Yrths)
         volume: 4.898 × 10<sup>10</sup> km<sup>3</sup><br/>(0.045 Yrths)
-        mass: 1.770 × 10<sup>23</sup> kg<br />(0.8930199722985568 Yrths)
+        mass: 1.770 × 10<sup>23</sup> kg<br />(0.030 Yrths)
         density: 3.614 g/cm<sup>3</sup>
         surface_gravity: 2.290 m/s<sup>2</sup><br />(0.234 g<sub>0</sub>)
         escape_velocity: 3.227 km/s<br />(11,615 km/h)
         rotation_period: 30.591 d
         axial_tilt: 45.51°
         albedo: 0.30
-        temperature: 3344 K<br />(3071 °C)
+        temperature: 240 K<br />(-33 °C)
   - name: 3388 Lunaiad III
     type: Gas dwarf
     aphelion: 317,421,937 km<br />2.122 AU
@@ -184,14 +184,14 @@ planets:
     radius: 16,617.3 km<br/>(2.608 Yrths)
     surface_area: 3.470 × 10<sup>09</sup> km<sup>2</sup><br/>(6.803 Yrths)
     volume: 1.922 × 10<sup>13</sup> km<sup>3</sup><br/>(17.744 Yrths)
-    mass: 4.053 × 10<sup>25</sup> kg<br />(6.787376260685467 Yrths)
+    mass: 4.053 × 10<sup>25</sup> kg<br />(6.79 Yrths)
     density: 2.109 g/cm<sup>3</sup>
     surface_gravity: 9.784 m/s<sup>2</sup><br />(0.998 g<sub>0</sub>)
     escape_velocity: 18.045 km/s<br />(64,961 km/h)
     rotation_period: 0.725 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 247 K<br />(-26 °C)
+    temperature: 216 K<br />(-57 °C)
     composition:
       - 93.0547% hydrogen
       - 5.3163% helium
@@ -211,14 +211,14 @@ planets:
         radius: 10,318.8 km<br/>(1.620 Yrths)
         surface_area: 1.338 × 10<sup>09</sup> km<sup>2</sup><br/>(2.623 Yrths)
         volume: 4.602 × 10<sup>12</sup> km<sup>3</sup><br/>(4.249 Yrths)
-        mass: 1.028 × 10<sup>25</sup> kg<br />(6.787376260685467 Yrths)
+        mass: 1.028 × 10<sup>25</sup> kg<br />(1.722 Yrths)
         density: 2.234 g/cm<sup>3</sup>
         surface_gravity: 6.437 m/s<sup>2</sup><br />(0.656 g<sub>0</sub>)
         escape_velocity: 11.533 km/s<br />(41,521 km/h)
         rotation_period: 40.462 d
         axial_tilt: 23.62°
         albedo: 0.30
-        temperature: 1843 K<br />(1570 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3388 Lunaiad III b
         type: Icy
         formationType: Captured
@@ -231,14 +231,14 @@ planets:
         radius: 6,217.9 km<br/>(0.976 Yrths)
         surface_area: 4.858 × 10<sup>08</sup> km<sup>2</sup><br/>(0.953 Yrths)
         volume: 1.007 × 10<sup>12</sup> km<sup>3</sup><br/>(0.930 Yrths)
-        mass: 1.302 × 10<sup>24</sup> kg<br />(6.787376260685467 Yrths)
+        mass: 1.302 × 10<sup>24</sup> kg<br />(0.218 Yrths)
         density: 1.293 g/cm<sup>3</sup>
         surface_gravity: 2.245 m/s<sup>2</sup><br />(0.229 g<sub>0</sub>)
         escape_velocity: 5.287 km/s<br />(19,034 km/h)
         rotation_period: 47.889 d
         axial_tilt: 14.92°
         albedo: 0.30
-        temperature: 1757 K<br />(1484 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3388 Lunaiad III c
         type: Icy
         formationType: Captured
@@ -251,14 +251,14 @@ planets:
         radius: 10,348.0 km<br/>(1.624 Yrths)
         surface_area: 1.346 × 10<sup>09</sup> km<sup>2</sup><br/>(2.638 Yrths)
         volume: 4.642 × 10<sup>12</sup> km<sup>3</sup><br/>(4.285 Yrths)
-        mass: 5.290 × 10<sup>24</sup> kg<br />(6.787376260685467 Yrths)
+        mass: 5.290 × 10<sup>24</sup> kg<br />(0.886 Yrths)
         density: 1.140 g/cm<sup>3</sup>
         surface_gravity: 3.293 m/s<sup>2</sup><br />(0.336 g<sub>0</sub>)
         escape_velocity: 8.261 km/s<br />(29,739 km/h)
         rotation_period: 65.064 d
         axial_tilt: 13.64°
         albedo: 0.30
-        temperature: 1675 K<br />(1402 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 3388 Lunaiad III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -271,14 +271,14 @@ planets:
         radius: 7,771.3 km<br/>(1.220 Yrths)
         surface_area: 7.589 × 10<sup>08</sup> km<sup>2</sup><br/>(1.488 Yrths)
         volume: 1.966 × 10<sup>12</sup> km<sup>3</sup><br/>(1.815 Yrths)
-        mass: 5.198 × 10<sup>24</sup> kg<br />(6.787376260685467 Yrths)
+        mass: 5.198 × 10<sup>24</sup> kg<br />(0.870 Yrths)
         density: 2.644 g/cm<sup>3</sup>
         surface_gravity: 5.737 m/s<sup>2</sup><br />(0.585 g<sub>0</sub>)
         escape_velocity: 9.449 km/s<br />(34,016 km/h)
         rotation_period: 36.087 d
         axial_tilt: 21.25°
         albedo: 0.30
-        temperature: 1597 K<br />(1324 °C)
+        temperature: 180 K<br />(-93 °C)
   - name: 3388 Lunaiad IV
     type: Large terrestrial
     aphelion: 547,119,000 km<br />3.657 AU
@@ -290,14 +290,14 @@ planets:
     radius: 11,005.0 km<br/>(1.727 Yrths)
     surface_area: 1.522 × 10<sup>09</sup> km<sup>2</sup><br/>(2.984 Yrths)
     volume: 5.583 × 10<sup>12</sup> km<sup>3</sup><br/>(5.154 Yrths)
-    mass: 3.545 × 10<sup>25</sup> kg<br />(5.935770353402802 Yrths)
+    mass: 3.545 × 10<sup>25</sup> kg<br />(5.94 Yrths)
     density: 6.350 g/cm<sup>3</sup>
     surface_gravity: 19.509 m/s<sup>2</sup><br />(1.989 g<sub>0</sub>)
     escape_velocity: 20.736 km/s<br />(74,649 km/h)
     rotation_period: 0.758 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 163 K<br />(-110 °C)
+    temperature: 170 K<br />(-103 °C)
     surface_pressure: 97 kPa<br />(1 atm)
     composition:
       - 71.7365% ammonia
@@ -316,14 +316,14 @@ planets:
         radius: 8,756.4 km<br/>(1.374 Yrths)
         surface_area: 9.635 × 10<sup>08</sup> km<sup>2</sup><br/>(1.889 Yrths)
         volume: 2.812 × 10<sup>12</sup> km<sup>3</sup><br/>(2.596 Yrths)
-        mass: 7.579 × 10<sup>24</sup> kg<br />(5.935770353402802 Yrths)
+        mass: 7.579 × 10<sup>24</sup> kg<br />(1.269 Yrths)
         density: 2.695 g/cm<sup>3</sup>
         surface_gravity: 6.589 m/s<sup>2</sup><br />(0.672 g<sub>0</sub>)
         escape_velocity: 10.749 km/s<br />(38,697 km/h)
         rotation_period: 31.187 d
         axial_tilt: 16.35°
         albedo: 0.30
-        temperature: 1443 K<br />(1170 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 3388 Lunaiad IV b
         type: Asteroid
         formationType: Captured
@@ -336,14 +336,14 @@ planets:
         radius: 4,716.3 km<br/>(0.740 Yrths)
         surface_area: 2.795 × 10<sup>08</sup> km<sup>2</sup><br/>(0.548 Yrths)
         volume: 4.394 × 10<sup>11</sup> km<sup>3</sup><br/>(0.406 Yrths)
-        mass: 9.691 × 10<sup>23</sup> kg<br />(5.935770353402802 Yrths)
+        mass: 9.691 × 10<sup>23</sup> kg<br />(0.162 Yrths)
         density: 2.205 g/cm<sup>3</sup>
         surface_gravity: 2.904 m/s<sup>2</sup><br />(0.296 g<sub>0</sub>)
         escape_velocity: 5.237 km/s<br />(18,854 km/h)
         rotation_period: 41.976 d
         axial_tilt: 45.32°
         albedo: 0.30
-        temperature: 1376 K<br />(1102 °C)
+        temperature: 135 K<br />(-138 °C)
   - name: 3388 Lunaiad V
     type: Large terrestrial
     aphelion: 973,236,659 km<br />6.506 AU
@@ -355,14 +355,14 @@ planets:
     radius: 10,015.9 km<br/>(1.572 Yrths)
     surface_area: 1.261 × 10<sup>09</sup> km<sup>2</sup><br/>(2.472 Yrths)
     volume: 4.209 × 10<sup>12</sup> km<sup>3</sup><br/>(3.886 Yrths)
-    mass: 2.872 × 10<sup>25</sup> kg<br />(4.809197419317105 Yrths)
+    mass: 2.872 × 10<sup>25</sup> kg<br />(4.81 Yrths)
     density: 6.824 g/cm<sup>3</sup>
     surface_gravity: 19.082 m/s<sup>2</sup><br />(1.946 g<sub>0</sub>)
     escape_velocity: 19.564 km/s<br />(70,432 km/h)
     rotation_period: 0.706 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 127 K<br />(-146 °C)
+    temperature: 156 K<br />(-118 °C)
     surface_pressure: 117 kPa<br />(1 atm)
     composition:
       - 81.2516% methane
@@ -382,14 +382,14 @@ planets:
         radius: 8,698.3 km<br/>(1.365 Yrths)
         surface_area: 9.508 × 10<sup>08</sup> km<sup>2</sup><br/>(1.864 Yrths)
         volume: 2.757 × 10<sup>12</sup> km<sup>3</sup><br/>(2.545 Yrths)
-        mass: 7.331 × 10<sup>24</sup> kg<br />(4.809197419317105 Yrths)
+        mass: 7.331 × 10<sup>24</sup> kg<br />(1.227 Yrths)
         density: 2.659 g/cm<sup>3</sup>
         surface_gravity: 6.458 m/s<sup>2</sup><br />(0.659 g<sub>0</sub>)
         escape_velocity: 10.606 km/s<br />(38,183 km/h)
         rotation_period: 55.665 d
         axial_tilt: 19.26°
         albedo: 0.30
-        temperature: 1148 K<br />(875 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 3388 Lunaiad V b
         type: Asteroid
         formationType: Captured
@@ -402,14 +402,14 @@ planets:
         radius: 6,069.1 km<br/>(0.953 Yrths)
         surface_area: 4.629 × 10<sup>08</sup> km<sup>2</sup><br/>(0.907 Yrths)
         volume: 9.364 × 10<sup>11</sup> km<sup>3</sup><br/>(0.864 Yrths)
-        mass: 2.519 × 10<sup>24</sup> kg<br />(4.809197419317105 Yrths)
+        mass: 2.519 × 10<sup>24</sup> kg<br />(0.422 Yrths)
         density: 2.690 g/cm<sup>3</sup>
         surface_gravity: 4.558 m/s<sup>2</sup><br />(0.465 g<sub>0</sub>)
         escape_velocity: 7.444 km/s<br />(26,797 km/h)
         rotation_period: 38.539 d
         axial_tilt: 60.48°
         albedo: 0.30
-        temperature: 1095 K<br />(822 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 3388 Lunaiad V c
         type: Icy
         formationType: Impact formed
@@ -422,14 +422,14 @@ planets:
         radius: 5,948.8 km<br/>(0.934 Yrths)
         surface_area: 4.447 × 10<sup>08</sup> km<sup>2</sup><br/>(0.872 Yrths)
         volume: 8.818 × 10<sup>11</sup> km<sup>3</sup><br/>(0.814 Yrths)
-        mass: 1.354 × 10<sup>24</sup> kg<br />(4.809197419317105 Yrths)
+        mass: 1.354 × 10<sup>24</sup> kg<br />(0.227 Yrths)
         density: 1.535 g/cm<sup>3</sup>
         surface_gravity: 2.549 m/s<sup>2</sup><br />(0.260 g<sub>0</sub>)
         escape_velocity: 5.511 km/s<br />(19,840 km/h)
         rotation_period: 72.246 d
         axial_tilt: 20.80°
         albedo: 0.30
-        temperature: 1044 K<br />(771 °C)
+        temperature: 101 K<br />(-172 °C)
   - name: 3388 Lunaiad VI
     type: Large terrestrial
     aphelion: 1,738,447,180 km<br />11.621 AU
@@ -441,14 +441,14 @@ planets:
     radius: 7,766.0 km<br/>(1.219 Yrths)
     surface_area: 7.579 × 10<sup>08</sup> km<sup>2</sup><br/>(1.486 Yrths)
     volume: 1.962 × 10<sup>12</sup> km<sup>3</sup><br/>(1.811 Yrths)
-    mass: 1.335 × 10<sup>25</sup> kg<br />(2.2347590978871947 Yrths)
+    mass: 1.335 × 10<sup>25</sup> kg<br />(2.23 Yrths)
     density: 6.802 g/cm<sup>3</sup>
     surface_gravity: 14.749 m/s<sup>2</sup><br />(1.504 g<sub>0</sub>)
     escape_velocity: 15.146 km/s<br />(54,525 km/h)
     rotation_period: 0.784 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 103 K<br />(-170 °C)
+    temperature: 113 K<br />(-160 °C)
     surface_pressure: 473 kPa<br />(5 atm)
     composition:
       - 85.0544% nitrogen
@@ -467,14 +467,14 @@ planets:
         radius: 6,463.4 km<br/>(1.015 Yrths)
         surface_area: 5.250 × 10<sup>08</sup> km<sup>2</sup><br/>(1.029 Yrths)
         volume: 1.131 × 10<sup>12</sup> km<sup>3</sup><br/>(1.044 Yrths)
-        mass: 2.668 × 10<sup>24</sup> kg<br />(2.2347590978871947 Yrths)
+        mass: 2.668 × 10<sup>24</sup> kg<br />(0.447 Yrths)
         density: 2.359 g/cm<sup>3</sup>
         surface_gravity: 4.257 m/s<sup>2</sup><br />(0.434 g<sub>0</sub>)
         escape_velocity: 7.423 km/s<br />(26,723 km/h)
         rotation_period: 32.371 d
         axial_tilt: 16.24°
         albedo: 0.30
-        temperature: 964 K<br />(691 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 3388 Lunaiad VI b
         type: Icy
         formationType: Accreted
@@ -487,14 +487,14 @@ planets:
         radius: 3,347.7 km<br/>(0.525 Yrths)
         surface_area: 1.408 × 10<sup>08</sup> km<sup>2</sup><br/>(0.276 Yrths)
         volume: 1.572 × 10<sup>11</sup> km<sup>3</sup><br/>(0.145 Yrths)
-        mass: 2.543 × 10<sup>23</sup> kg<br />(2.2347590978871947 Yrths)
+        mass: 2.543 × 10<sup>23</sup> kg<br />(0.043 Yrths)
         density: 1.618 g/cm<sup>3</sup>
         surface_gravity: 1.512 m/s<sup>2</sup><br />(0.154 g<sub>0</sub>)
         escape_velocity: 3.184 km/s<br />(11,463 km/h)
         rotation_period: 75.333 d
         axial_tilt: 15.39°
         albedo: 0.30
-        temperature: 919 K<br />(646 °C)
+        temperature: 76 K<br />(-197 °C)
   - name: 3388 Lunaiad VII
     type: Ice giant
     aphelion: 3,158,842,760 km<br />21.115 AU
@@ -506,14 +506,14 @@ planets:
     radius: 7,375.4 km<br/>(1.158 Yrths)
     surface_area: 6.836 × 10<sup>08</sup> km<sup>2</sup><br/>(1.340 Yrths)
     volume: 1.681 × 10<sup>12</sup> km<sup>3</sup><br/>(1.551 Yrths)
-    mass: 2.241 × 10<sup>24</sup> kg<br />(0.3752866904441561 Yrths)
+    mass: 2.241 × 10<sup>24</sup> kg<br />(0.38 Yrths)
     density: 1.334 g/cm<sup>3</sup>
     surface_gravity: 2.746 m/s<sup>2</sup><br />(0.280 g<sub>0</sub>)
     escape_velocity: 6.369 km/s<br />(22,928 km/h)
     rotation_period: 0.634 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 106 K<br />(-167 °C)
+    temperature: 96 K<br />(-177 °C)
     composition:
       - 72.9760% hydrogen
       - 26.0496% helium
@@ -532,14 +532,14 @@ planets:
         radius: 924.7 km<br/>(0.145 Yrths)
         surface_area: 1.074 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.311 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 9.272 × 10<sup>21</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 9.272 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 0.723 m/s<sup>2</sup><br />(0.074 g<sub>0</sub>)
         escape_velocity: 1.157 km/s<br />(4,165 km/h)
         rotation_period: 53.254 d
         axial_tilt: 9.46°
         albedo: 0.30
-        temperature: 944 K<br />(670 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 3388 Lunaiad VII b
         type: Icy
         formationType: Accreted
@@ -552,14 +552,14 @@ planets:
         radius: 2,718.9 km<br/>(0.427 Yrths)
         surface_area: 9.289 × 10<sup>07</sup> km<sup>2</sup><br/>(0.182 Yrths)
         volume: 8.419 × 10<sup>10</sup> km<sup>3</sup><br/>(0.078 Yrths)
-        mass: 1.214 × 10<sup>23</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 1.214 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 1.442 g/cm<sup>3</sup>
         surface_gravity: 1.095 m/s<sup>2</sup><br />(0.112 g<sub>0</sub>)
         escape_velocity: 2.442 km/s<br />(8,790 km/h)
         rotation_period: 52.133 d
         axial_tilt: 13.99°
         albedo: 0.30
-        temperature: 818 K<br />(545 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 3388 Lunaiad VII c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -572,14 +572,14 @@ planets:
         radius: 1,644.6 km<br/>(0.258 Yrths)
         surface_area: 3.399 × 10<sup>07</sup> km<sup>2</sup><br/>(0.067 Yrths)
         volume: 1.863 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 3.445 × 10<sup>22</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 3.445 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 1.849 g/cm<sup>3</sup>
         surface_gravity: 0.849 m/s<sup>2</sup><br />(0.087 g<sub>0</sub>)
         escape_velocity: 1.672 km/s<br />(6,020 km/h)
         rotation_period: 42.958 d
         axial_tilt: 20.57°
         albedo: 0.30
-        temperature: 780 K<br />(507 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 3388 Lunaiad VII d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -592,14 +592,14 @@ planets:
         radius: 1,249.5 km<br/>(0.196 Yrths)
         surface_area: 1.962 × 10<sup>07</sup> km<sup>2</sup><br/>(0.038 Yrths)
         volume: 8.172 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 1.684 × 10<sup>22</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 1.684 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.060 g/cm<sup>3</sup>
         surface_gravity: 0.719 m/s<sup>2</sup><br />(0.073 g<sub>0</sub>)
         escape_velocity: 1.341 km/s<br />(4,828 km/h)
         rotation_period: 41.918 d
         axial_tilt: 24.85°
         albedo: 0.30
-        temperature: 709 K<br />(436 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 3388 Lunaiad VII e
         type: Dwarf planet
         formationType: Impact formed
@@ -612,14 +612,14 @@ planets:
         radius: 1,434.0 km<br/>(0.225 Yrths)
         surface_area: 2.584 × 10<sup>07</sup> km<sup>2</sup><br/>(0.051 Yrths)
         volume: 1.235 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 2.711 × 10<sup>22</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 2.711 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.195 g/cm<sup>3</sup>
         surface_gravity: 0.879 m/s<sup>2</sup><br />(0.090 g<sub>0</sub>)
         escape_velocity: 1.589 km/s<br />(5,719 km/h)
         rotation_period: 56.980 d
         axial_tilt: 32.99°
         albedo: 0.30
-        temperature: 676 K<br />(403 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 3388 Lunaiad VII f
         type: Icy
         formationType: Impact formed
@@ -632,14 +632,14 @@ planets:
         radius: 2,599.9 km<br/>(0.408 Yrths)
         surface_area: 8.494 × 10<sup>07</sup> km<sup>2</sup><br/>(0.167 Yrths)
         volume: 7.361 × 10<sup>10</sup> km<sup>3</sup><br/>(0.068 Yrths)
-        mass: 7.270 × 10<sup>22</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 7.270 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 0.988 g/cm<sup>3</sup>
         surface_gravity: 0.717 m/s<sup>2</sup><br />(0.073 g<sub>0</sub>)
         escape_velocity: 1.932 km/s<br />(6,955 km/h)
         rotation_period: 96.523 d
         axial_tilt: 20.24°
         albedo: 0.30
-        temperature: 644 K<br />(371 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 3388 Lunaiad VII g
         type: Icy
         formationType: Impact formed
@@ -652,14 +652,14 @@ planets:
         radius: 1,001.3 km<br/>(0.157 Yrths)
         surface_area: 1.260 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.205 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 6.034 × 10<sup>21</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 6.034 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.435 g/cm<sup>3</sup>
         surface_gravity: 0.401 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.897 km/s<br />(3,229 km/h)
         rotation_period: 47.272 d
         axial_tilt: 20.83°
         albedo: 0.30
-        temperature: 614 K<br />(341 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 3388 Lunaiad VII h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -672,14 +672,14 @@ planets:
         radius: 1,088.3 km<br/>(0.171 Yrths)
         surface_area: 1.488 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.399 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.431 × 10<sup>22</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 1.431 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.651 g/cm<sup>3</sup>
         surface_gravity: 0.805 m/s<sup>2</sup><br />(0.082 g<sub>0</sub>)
         escape_velocity: 1.325 km/s<br />(4,770 km/h)
         rotation_period: 44.972 d
         axial_tilt: 15.87°
         albedo: 0.30
-        temperature: 559 K<br />(285 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 3388 Lunaiad VII i
         type: Asteroid
         formationType: Captured
@@ -692,14 +692,14 @@ planets:
         radius: 1,726.2 km<br/>(0.271 Yrths)
         surface_area: 3.744 × 10<sup>07</sup> km<sup>2</sup><br/>(0.073 Yrths)
         volume: 2.154 × 10<sup>10</sup> km<sup>3</sup><br/>(0.020 Yrths)
-        mass: 6.215 × 10<sup>22</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 6.215 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.884 g/cm<sup>3</sup>
         surface_gravity: 1.390 m/s<sup>2</sup><br />(0.142 g<sub>0</sub>)
         escape_velocity: 2.192 km/s<br />(7,892 km/h)
         rotation_period: 52.841 d
         axial_tilt: 37.02°
         albedo: 0.30
-        temperature: 533 K<br />(259 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 3388 Lunaiad VII j
         type: Icy
         formationType: Accreted
@@ -712,14 +712,14 @@ planets:
         radius: 1,849.1 km<br/>(0.290 Yrths)
         surface_area: 4.297 × 10<sup>07</sup> km<sup>2</sup><br/>(0.084 Yrths)
         volume: 2.648 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 3.218 × 10<sup>22</sup> kg<br />(0.3752866904441561 Yrths)
+        mass: 3.218 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 1.215 g/cm<sup>3</sup>
         surface_gravity: 0.627 m/s<sup>2</sup><br />(0.064 g<sub>0</sub>)
         escape_velocity: 1.524 km/s<br />(5,487 km/h)
         rotation_period: 81.789 d
         axial_tilt: 17.72°
         albedo: 0.30
-        temperature: 484 K<br />(211 °C)
+        temperature: 57 K<br />(-216 °C)
   - name: 3388 Lunaiad VIII
     type: Ice giant
     aphelion: 5,485,633,404 km<br />36.669 AU
@@ -731,14 +731,14 @@ planets:
     radius: 27,042.4 km<br/>(4.245 Yrths)
     surface_area: 9.190 × 10<sup>09</sup> km<sup>2</sup><br/>(18.017 Yrths)
     volume: 8.284 × 10<sup>13</sup> km<sup>3</sup><br/>(76.474 Yrths)
-    mass: 1.202 × 10<sup>26</sup> kg<br />(20.132516136907082 Yrths)
+    mass: 1.202 × 10<sup>26</sup> kg<br />(20.13 Yrths)
     density: 1.451 g/cm<sup>3</sup>
     surface_gravity: 10.958 m/s<sup>2</sup><br />(1.117 g<sub>0</sub>)
     escape_velocity: 24.362 km/s<br />(87,701 km/h)
     rotation_period: 0.334 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 78 K<br />(-196 °C)
+    temperature: 70 K<br />(-203 °C)
     composition:
       - 92.0709% hydrogen
       - 5.0067% helium
@@ -756,14 +756,14 @@ planets:
         radius: 34,730.7 km<br/>(5.451 Yrths)
         surface_area: 1.516 × 10<sup>10</sup> km<sup>2</sup><br/>(29.718 Yrths)
         volume: 1.755 × 10<sup>14</sup> km<sup>3</sup><br/>(162.001 Yrths)
-        mass: 3.605 × 10<sup>26</sup> kg<br />(20.132516136907082 Yrths)
+        mass: 3.605 × 10<sup>26</sup> kg<br />(60.362 Yrths)
         density: 2.054 g/cm<sup>3</sup>
         surface_gravity: 19.919 m/s<sup>2</sup><br />(2.031 g<sub>0</sub>)
         escape_velocity: 37.222 km/s<br />(134,000 km/h)
         rotation_period: 38.201 d
         axial_tilt: 19.48°
         albedo: 0.30
-        temperature: 364 K<br />(91 °C)
+        temperature: 43 K<br />(-231 °C)
       - name: 3388 Lunaiad VIII b
         type: Ice/rock hybrid
         formationType: Captured
@@ -776,14 +776,14 @@ planets:
         radius: 30,251.9 km<br/>(4.748 Yrths)
         surface_area: 1.150 × 10<sup>10</sup> km<sup>2</sup><br/>(22.547 Yrths)
         volume: 1.160 × 10<sup>14</sup> km<sup>3</sup><br/>(107.062 Yrths)
-        mass: 2.157 × 10<sup>26</sup> kg<br />(20.132516136907082 Yrths)
+        mass: 2.157 × 10<sup>26</sup> kg<br />(36.112 Yrths)
         density: 1.860 g/cm<sup>3</sup>
         surface_gravity: 15.707 m/s<sup>2</sup><br />(1.602 g<sub>0</sub>)
         escape_velocity: 30.848 km/s<br />(111,053 km/h)
         rotation_period: 68.294 d
         axial_tilt: 19.22°
         albedo: 0.30
-        temperature: 347 K<br />(74 °C)
+        temperature: 43 K<br />(-231 °C)
       - name: 3388 Lunaiad VIII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -796,14 +796,14 @@ planets:
         radius: 26,632.3 km<br/>(4.180 Yrths)
         surface_area: 8.913 × 10<sup>09</sup> km<sup>2</sup><br/>(17.474 Yrths)
         volume: 7.913 × 10<sup>13</sup> km<sup>3</sup><br/>(73.048 Yrths)
-        mass: 1.679 × 10<sup>26</sup> kg<br />(20.132516136907082 Yrths)
+        mass: 1.679 × 10<sup>26</sup> kg<br />(28.120 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 15.781 m/s<sup>2</sup><br />(1.609 g<sub>0</sub>)
         escape_velocity: 29.012 km/s<br />(104,443 km/h)
         rotation_period: 37.201 d
         axial_tilt: 7.81°
         albedo: 0.30
-        temperature: 331 K<br />(58 °C)
+        temperature: 43 K<br />(-231 °C)
       - name: 3388 Lunaiad VIII d
         type: Icy
         formationType: Captured
@@ -816,14 +816,14 @@ planets:
         radius: 38,631.5 km<br/>(6.064 Yrths)
         surface_area: 1.875 × 10<sup>10</sup> km<sup>2</sup><br/>(36.768 Yrths)
         volume: 2.415 × 10<sup>14</sup> km<sup>3</sup><br/>(222.947 Yrths)
-        mass: 3.373 × 10<sup>26</sup> kg<br />(20.132516136907082 Yrths)
+        mass: 3.373 × 10<sup>26</sup> kg<br />(56.485 Yrths)
         density: 1.397 g/cm<sup>3</sup>
         surface_gravity: 15.066 m/s<sup>2</sup><br />(1.536 g<sub>0</sub>)
         escape_velocity: 34.141 km/s<br />(122,907 km/h)
         rotation_period: 82.861 d
         axial_tilt: 11.97°
         albedo: 0.30
-        temperature: 316 K<br />(42 °C)
+        temperature: 43 K<br />(-231 °C)
       - name: 3388 Lunaiad VIII e
         type: Icy
         formationType: Accreted
@@ -836,14 +836,14 @@ planets:
         radius: 20,255.1 km<br/>(3.179 Yrths)
         surface_area: 5.156 × 10<sup>09</sup> km<sup>2</sup><br/>(10.108 Yrths)
         volume: 3.481 × 10<sup>13</sup> km<sup>3</sup><br/>(32.135 Yrths)
-        mass: 4.469 × 10<sup>25</sup> kg<br />(20.132516136907082 Yrths)
+        mass: 4.469 × 10<sup>25</sup> kg<br />(7.484 Yrths)
         density: 1.284 g/cm<sup>3</sup>
         surface_gravity: 7.261 m/s<sup>2</sup><br />(0.740 g<sub>0</sub>)
         escape_velocity: 17.162 km/s<br />(61,783 km/h)
         rotation_period: 62.288 d
         axial_tilt: 14.41°
         albedo: 0.30
-        temperature: 301 K<br />(28 °C)
+        temperature: 43 K<br />(-231 °C)
       - name: 3388 Lunaiad VIII f
         type: Asteroid
         formationType: Captured
@@ -856,14 +856,14 @@ planets:
         radius: 19,616.8 km<br/>(3.079 Yrths)
         surface_area: 4.836 × 10<sup>09</sup> km<sup>2</sup><br/>(9.481 Yrths)
         volume: 3.162 × 10<sup>13</sup> km<sup>3</sup><br/>(29.192 Yrths)
-        mass: 5.976 × 10<sup>25</sup> kg<br />(20.132516136907082 Yrths)
+        mass: 5.976 × 10<sup>25</sup> kg<br />(10.006 Yrths)
         density: 1.890 g/cm<sup>3</sup>
         surface_gravity: 10.350 m/s<sup>2</sup><br />(1.055 g<sub>0</sub>)
         escape_velocity: 20.165 km/s<br />(72,593 km/h)
         rotation_period: 40.093 d
         axial_tilt: 24.39°
         albedo: 0.30
-        temperature: 287 K<br />(14 °C)
+        temperature: 43 K<br />(-231 °C)
       - name: 3388 Lunaiad VIII g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -876,14 +876,14 @@ planets:
         radius: 15,557.6 km<br/>(2.442 Yrths)
         surface_area: 3.042 × 10<sup>09</sup> km<sup>2</sup><br/>(5.963 Yrths)
         volume: 1.577 × 10<sup>13</sup> km<sup>3</sup><br/>(14.561 Yrths)
-        mass: 3.958 × 10<sup>25</sup> kg<br />(20.132516136907082 Yrths)
+        mass: 3.958 × 10<sup>25</sup> kg<br />(6.627 Yrths)
         density: 2.509 g/cm<sup>3</sup>
         surface_gravity: 10.899 m/s<sup>2</sup><br />(1.111 g<sub>0</sub>)
         escape_velocity: 18.428 km/s<br />(66,340 km/h)
         rotation_period: 41.739 d
         axial_tilt: 30.19°
         albedo: 0.30
-        temperature: 274 K<br />(0 °C)
+        temperature: 43 K<br />(-231 °C)
   - name: 3388 Lunaiad IX
     type: Gas giant
     aphelion: 9,929,150,559 km<br />66.371 AU
@@ -895,7 +895,7 @@ planets:
     radius: 234.0 km<br/>(0.037 Yrths)
     surface_area: 6.880 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.367 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.970 × 10<sup>27</sup> kg<br />(329.90085798907074 Yrths)
+    mass: 1.970 × 10<sup>27</sup> kg<br />(329.90 Yrths)
     density: 36711795.934 g/cm<sup>3</sup>
     surface_gravity: 2398354.233 m/s<sup>2</sup><br />(244564.070 g<sub>0</sub>)
     escape_velocity: 1060.152 km/s<br />(3,816,546 km/h)
@@ -916,14 +916,14 @@ planets:
         radius: 200,936.7 km<br/>(31.539 Yrths)
         surface_area: 5.074 × 10<sup>11</sup> km<sup>2</sup><br/>(994.726 Yrths)
         volume: 3.398 × 10<sup>16</sup> km<sup>3</sup><br/>(31372.930 Yrths)
-        mass: 3.427 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 3.427 × 10<sup>28</sup> kg<br />(5738.404 Yrths)
         density: 1.008 g/cm<sup>3</sup>
         surface_gravity: 56.573 m/s<sup>2</sup><br />(5.769 g<sub>0</sub>)
         escape_velocity: 150.884 km/s<br />(543,183 km/h)
         rotation_period: 57.529 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 148 K<br />(-125 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX b
         type: Icy
         formationType: Accreted
@@ -936,14 +936,14 @@ planets:
         radius: 230,348.2 km<br/>(36.156 Yrths)
         surface_area: 6.668 × 10<sup>11</sup> km<sup>2</sup><br/>(1307.238 Yrths)
         volume: 5.120 × 10<sup>16</sup> km<sup>3</sup><br/>(47264.159 Yrths)
-        mass: 3.850 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 3.850 × 10<sup>28</sup> kg<br />(6445.960 Yrths)
         density: 0.752 g/cm<sup>3</sup>
         surface_gravity: 48.356 m/s<sup>2</sup><br />(4.931 g<sub>0</sub>)
         escape_velocity: 149.358 km/s<br />(537,690 km/h)
         rotation_period: 106.512 d
         axial_tilt: 19.31°
         albedo: 0.30
-        temperature: 135 K<br />(-138 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX c
         type: Icy
         formationType: Captured
@@ -956,14 +956,14 @@ planets:
         radius: 180,592.8 km<br/>(28.346 Yrths)
         surface_area: 4.098 × 10<sup>11</sup> km<sup>2</sup><br/>(803.500 Yrths)
         volume: 2.467 × 10<sup>16</sup> km<sup>3</sup><br/>(22776.066 Yrths)
-        mass: 3.524 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 3.524 × 10<sup>28</sup> kg<br />(5900.339 Yrths)
         density: 1.428 g/cm<sup>3</sup>
         surface_gravity: 72.013 m/s<sup>2</sup><br />(7.343 g<sub>0</sub>)
         escape_velocity: 161.386 km/s<br />(580,990 km/h)
         rotation_period: 47.818 d
         axial_tilt: 15.52°
         albedo: 0.30
-        temperature: 117 K<br />(-156 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -976,14 +976,14 @@ planets:
         radius: 158,604.5 km<br/>(24.895 Yrths)
         surface_area: 3.161 × 10<sup>11</sup> km<sup>2</sup><br/>(619.749 Yrths)
         volume: 1.671 × 10<sup>16</sup> km<sup>3</sup><br/>(15428.487 Yrths)
-        mass: 3.906 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 3.906 × 10<sup>28</sup> kg<br />(6539.764 Yrths)
         density: 2.337 g/cm<sup>3</sup>
         surface_gravity: 103.483 m/s<sup>2</sup><br />(10.552 g<sub>0</sub>)
         escape_velocity: 181.301 km/s<br />(652,685 km/h)
         rotation_period: 35.550 d
         axial_tilt: 25.31°
         albedo: 0.30
-        temperature: 101 K<br />(-172 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX e
         type: Icy
         formationType: Captured
@@ -996,14 +996,14 @@ planets:
         radius: 231,991.9 km<br/>(36.414 Yrths)
         surface_area: 6.763 × 10<sup>11</sup> km<sup>2</sup><br/>(1325.960 Yrths)
         volume: 5.230 × 10<sup>16</sup> km<sup>3</sup><br/>(48283.180 Yrths)
-        mass: 5.129 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 5.129 × 10<sup>28</sup> kg<br />(8587.692 Yrths)
         density: 0.981 g/cm<sup>3</sup>
         surface_gravity: 63.514 m/s<sup>2</sup><br />(6.477 g<sub>0</sub>)
         escape_velocity: 171.783 km/s<br />(618,418 km/h)
         rotation_period: 68.128 d
         axial_tilt: 19.83°
         albedo: 0.30
-        temperature: 88 K<br />(-185 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX f
         type: Rocky
         formationType: Impact formed
@@ -1016,14 +1016,14 @@ planets:
         radius: 140,257.3 km<br/>(22.015 Yrths)
         surface_area: 2.472 × 10<sup>11</sup> km<sup>2</sup><br/>(484.658 Yrths)
         volume: 1.156 × 10<sup>16</sup> km<sup>3</sup><br/>(10669.732 Yrths)
-        mass: 3.234 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 3.234 × 10<sup>28</sup> kg<br />(5416.082 Yrths)
         density: 2.799 g/cm<sup>3</sup>
         surface_gravity: 109.590 m/s<sup>2</sup><br />(11.175 g<sub>0</sub>)
         escape_velocity: 175.452 km/s<br />(631,626 km/h)
         rotation_period: 35.502 d
         axial_tilt: 20.89°
         albedo: 0.30
-        temperature: 80 K<br />(-193 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX g
         type: Icy
         formationType: Accreted
@@ -1036,14 +1036,14 @@ planets:
         radius: 160,309.8 km<br/>(25.162 Yrths)
         surface_area: 3.229 × 10<sup>11</sup> km<sup>2</sup><br/>(633.148 Yrths)
         volume: 1.726 × 10<sup>16</sup> km<sup>3</sup><br/>(15931.535 Yrths)
-        mass: 2.820 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 2.820 × 10<sup>28</sup> kg<br />(4722.613 Yrths)
         density: 1.634 g/cm<sup>3</sup>
         surface_gravity: 73.147 m/s<sup>2</sup><br />(7.459 g<sub>0</sub>)
         escape_velocity: 153.246 km/s<br />(551,685 km/h)
         rotation_period: 75.725 d
         axial_tilt: 11.71°
         albedo: 0.30
-        temperature: 41 K<br />(-232 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX h
         type: Icy
         formationType: Captured
@@ -1056,14 +1056,14 @@ planets:
         radius: 194,071.7 km<br/>(30.462 Yrths)
         surface_area: 4.733 × 10<sup>11</sup> km<sup>2</sup><br/>(927.917 Yrths)
         volume: 3.062 × 10<sup>16</sup> km<sup>3</sup><br/>(28265.969 Yrths)
-        mass: 3.491 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 3.491 × 10<sup>28</sup> kg<br />(5845.930 Yrths)
         density: 1.140 g/cm<sup>3</sup>
         surface_gravity: 61.782 m/s<sup>2</sup><br />(6.300 g<sub>0</sub>)
         escape_velocity: 154.961 km/s<br />(557,861 km/h)
         rotation_period: 53.402 d
         axial_tilt: 15.64°
         albedo: 0.30
-        temperature: 28 K<br />(-245 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX i
         type: Ice/rock hybrid
         formationType: Captured
@@ -1076,14 +1076,14 @@ planets:
         radius: 206,638.3 km<br/>(32.434 Yrths)
         surface_area: 5.366 × 10<sup>11</sup> km<sup>2</sup><br/>(1051.978 Yrths)
         volume: 3.696 × 10<sup>16</sup> km<sup>3</sup><br/>(34120.056 Yrths)
-        mass: 5.913 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 5.913 × 10<sup>28</sup> kg<br />(9901.964 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 92.307 m/s<sup>2</sup><br />(9.413 g<sub>0</sub>)
         escape_velocity: 195.449 km/s<br />(703,616 km/h)
         rotation_period: 63.337 d
         axial_tilt: 32.15°
         albedo: 0.30
-        temperature: 20 K<br />(-253 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX j
         type: Ice/rock hybrid
         formationType: Captured
@@ -1096,14 +1096,14 @@ planets:
         radius: 174,344.1 km<br/>(27.365 Yrths)
         surface_area: 3.820 × 10<sup>11</sup> km<sup>2</sup><br/>(748.857 Yrths)
         volume: 2.220 × 10<sup>16</sup> km<sup>3</sup><br/>(20492.678 Yrths)
-        mass: 4.247 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 4.247 × 10<sup>28</sup> kg<br />(7110.708 Yrths)
         density: 1.913 g/cm<sup>3</sup>
         surface_gravity: 93.118 m/s<sup>2</sup><br />(9.495 g<sub>0</sub>)
         escape_velocity: 180.314 km/s<br />(649,132 km/h)
         rotation_period: 63.808 d
         axial_tilt: 26.25°
         albedo: 0.30
-        temperature: 13 K<br />(-260 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX k
         type: Icy
         formationType: Captured
@@ -1116,14 +1116,14 @@ planets:
         radius: 187,104.5 km<br/>(29.368 Yrths)
         surface_area: 4.399 × 10<sup>11</sup> km<sup>2</sup><br/>(862.489 Yrths)
         volume: 2.744 × 10<sup>16</sup> km<sup>3</sup><br/>(25329.703 Yrths)
-        mass: 2.808 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 2.808 × 10<sup>28</sup> kg<br />(4701.363 Yrths)
         density: 1.023 g/cm<sup>3</sup>
         surface_gravity: 53.455 m/s<sup>2</sup><br />(5.451 g<sub>0</sub>)
         escape_velocity: 141.530 km/s<br />(509,507 km/h)
         rotation_period: 51.969 d
         axial_tilt: 17.39°
         albedo: 0.30
-        temperature: 10 K<br />(-263 °C)
+        temperature: 32 K<br />(-241 °C)
       - name: 3388 Lunaiad IX l
         type: Icy
         formationType: Captured
@@ -1136,12 +1136,12 @@ planets:
         radius: 193,765.5 km<br/>(30.414 Yrths)
         surface_area: 4.718 × 10<sup>11</sup> km<sup>2</sup><br/>(924.991 Yrths)
         volume: 3.047 × 10<sup>16</sup> km<sup>3</sup><br/>(28132.373 Yrths)
-        mass: 2.971 × 10<sup>28</sup> kg<br />(329.90085798907074 Yrths)
+        mass: 2.971 × 10<sup>28</sup> kg<br />(4975.525 Yrths)
         density: 0.975 g/cm<sup>3</sup>
         surface_gravity: 52.750 m/s<sup>2</sup><br />(5.379 g<sub>0</sub>)
         escape_velocity: 143.073 km/s<br />(515,064 km/h)
         rotation_period: 58.287 d
         axial_tilt: 23.08°
         albedo: 0.30
-        temperature: 9 K<br />(-264 °C)
+        temperature: 32 K<br />(-241 °C)
 ---

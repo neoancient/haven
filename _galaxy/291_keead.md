@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      291 Keead is a star in the constellation Kee
+      291 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 329.09 ly
 apparent_magnitude: 9.85
 absolute_magnitude: 4.83

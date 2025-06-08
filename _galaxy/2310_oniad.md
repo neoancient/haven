@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2310 Oniad is a star in the constellation Oni
+      2310 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 451.14 ly
 apparent_magnitude: 10.61
 absolute_magnitude: 4.91

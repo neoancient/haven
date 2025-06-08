@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2936 Lunaiad is a star in the constellation Luna
+      2936 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 571.93 ly
 apparent_magnitude: 11.89
 absolute_magnitude: 5.67

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2796 Tanashad A is a star in the constellation Tanas
+      2796 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 924.08 ly
 apparent_magnitude: 7.19
 absolute_magnitude: -0.08

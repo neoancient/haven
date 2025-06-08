@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      260 Aldnanniad is a star in the constellation Aldnan
+      260 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 388.55 ly
 apparent_magnitude: 10.21
 absolute_magnitude: 4.83

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0050 Rukentuaiad C is a star in the constellation Rukentua
+      0050 Rukentuaiad C is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 175.86 ly
 apparent_magnitude: 9.51
 absolute_magnitude: 5.85
@@ -31,7 +31,7 @@ planets:
     radius: 5,340.2 km<br/>(0.838 Yrths)
     surface_area: 3.584 × 10<sup>08</sup> km<sup>2</sup><br/>(0.703 Yrths)
     volume: 6.379 × 10<sup>11</sup> km<sup>3</sup><br/>(0.589 Yrths)
-    mass: 5.516 × 10<sup>24</sup> kg<br />(0.9235613718147313 Yrths)
+    mass: 5.516 × 10<sup>24</sup> kg<br />(0.92 Yrths)
     density: 8.646 g/cm<sup>3</sup>
     surface_gravity: 12.891 m/s<sup>2</sup><br />(1.315 g<sub>0</sub>)
     escape_velocity: 11.742 km/s<br />(42,270 km/h)
@@ -50,14 +50,14 @@ planets:
     radius: 8,447.1 km<br/>(1.326 Yrths)
     surface_area: 8.967 × 10<sup>08</sup> km<sup>2</sup><br/>(1.758 Yrths)
     volume: 2.525 × 10<sup>12</sup> km<sup>3</sup><br/>(2.331 Yrths)
-    mass: 1.764 × 10<sup>25</sup> kg<br />(2.9535606967868855 Yrths)
+    mass: 1.764 × 10<sup>25</sup> kg<br />(2.95 Yrths)
     density: 6.986 g/cm<sup>3</sup>
     surface_gravity: 16.477 m/s<sup>2</sup><br />(1.680 g<sub>0</sub>)
     escape_velocity: 16.695 km/s<br />(60,103 km/h)
     rotation_period: 1.264 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 395 K<br />(121 °C)
+    temperature: 914 K<br />(641 °C)
     surface_pressure: 177 kPa<br />(2 atm)
     composition:
       - 65.6158% carbon dioxide
@@ -77,14 +77,14 @@ planets:
         radius: 7,010.1 km<br/>(1.100 Yrths)
         surface_area: 6.175 × 10<sup>08</sup> km<sup>2</sup><br/>(1.211 Yrths)
         volume: 1.443 × 10<sup>12</sup> km<sup>3</sup><br/>(1.332 Yrths)
-        mass: 3.661 × 10<sup>24</sup> kg<br />(2.9535606967868855 Yrths)
+        mass: 3.661 × 10<sup>24</sup> kg<br />(0.613 Yrths)
         density: 2.537 g/cm<sup>3</sup>
         surface_gravity: 4.965 m/s<sup>2</sup><br />(0.506 g<sub>0</sub>)
         escape_velocity: 8.349 km/s<br />(30,057 km/h)
         rotation_period: 50.687 d
         axial_tilt: 27.61°
         albedo: 0.30
-        temperature: 3663 K<br />(3389 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 0050 Rukentuaiad C II b
         type: Rocky
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 4,150.5 km<br/>(0.651 Yrths)
         surface_area: 2.165 × 10<sup>08</sup> km<sup>2</sup><br/>(0.424 Yrths)
         volume: 2.995 × 10<sup>11</sup> km<sup>3</sup><br/>(0.276 Yrths)
-        mass: 9.345 × 10<sup>23</sup> kg<br />(2.9535606967868855 Yrths)
+        mass: 9.345 × 10<sup>23</sup> kg<br />(0.156 Yrths)
         density: 3.120 g/cm<sup>3</sup>
         surface_gravity: 3.616 m/s<sup>2</sup><br />(0.369 g<sub>0</sub>)
         escape_velocity: 5.482 km/s<br />(19,736 km/h)
         rotation_period: 30.979 d
         axial_tilt: 14.16°
         albedo: 0.30
-        temperature: 3492 K<br />(3219 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 0050 Rukentuaiad C II c
         type: Asteroid
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 1,836.5 km<br/>(0.288 Yrths)
         surface_area: 4.238 × 10<sup>07</sup> km<sup>2</sup><br/>(0.083 Yrths)
         volume: 2.594 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 9.428 × 10<sup>22</sup> kg<br />(2.9535606967868855 Yrths)
+        mass: 9.428 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 3.634 g/cm<sup>3</sup>
         surface_gravity: 1.863 m/s<sup>2</sup><br />(0.190 g<sub>0</sub>)
         escape_velocity: 2.618 km/s<br />(9,424 km/h)
         rotation_period: 34.531 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 3330 K<br />(3057 °C)
+        temperature: 261 K<br />(-12 °C)
   - name: 0050 Rukentuaiad C III
     type: Large terrestrial
     aphelion: 153,799,814 km<br />1.028 AU
@@ -136,14 +136,14 @@ planets:
     radius: 8,828.6 km<br/>(1.386 Yrths)
     surface_area: 9.795 × 10<sup>08</sup> km<sup>2</sup><br/>(1.920 Yrths)
     volume: 2.883 × 10<sup>12</sup> km<sup>3</sup><br/>(2.661 Yrths)
-    mass: 2.292 × 10<sup>25</sup> kg<br />(3.8372747870470607 Yrths)
+    mass: 2.292 × 10<sup>25</sup> kg<br />(3.84 Yrths)
     density: 7.950 g/cm<sup>3</sup>
     surface_gravity: 19.596 m/s<sup>2</sup><br />(1.998 g<sub>0</sub>)
     escape_velocity: 18.614 km/s<br />(67,011 km/h)
     rotation_period: 0.995 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 254 K<br />(-19 °C)
+    temperature: 247 K<br />(-26 °C)
     surface_pressure: 180 kPa<br />(2 atm)
     composition:
       - 72.5297% nitrogen
@@ -161,14 +161,14 @@ planets:
         radius: 5,830.8 km<br/>(0.915 Yrths)
         surface_area: 4.272 × 10<sup>08</sup> km<sup>2</sup><br/>(0.838 Yrths)
         volume: 8.304 × 10<sup>11</sup> km<sup>3</sup><br/>(0.767 Yrths)
-        mass: 9.532 × 10<sup>23</sup> kg<br />(3.8372747870470607 Yrths)
+        mass: 9.532 × 10<sup>23</sup> kg<br />(0.160 Yrths)
         density: 1.148 g/cm<sup>3</sup>
         surface_gravity: 1.869 m/s<sup>2</sup><br />(0.191 g<sub>0</sub>)
         escape_velocity: 4.671 km/s<br />(16,817 km/h)
         rotation_period: 68.101 d
         axial_tilt: 23.23°
         albedo: 0.30
-        temperature: 2256 K<br />(1983 °C)
+        temperature: 203 K<br />(-70 °C)
       - name: 0050 Rukentuaiad C III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -181,14 +181,14 @@ planets:
         radius: 8,520.5 km<br/>(1.337 Yrths)
         surface_area: 9.123 × 10<sup>08</sup> km<sup>2</sup><br/>(1.789 Yrths)
         volume: 2.591 × 10<sup>12</sup> km<sup>3</sup><br/>(2.392 Yrths)
-        mass: 6.961 × 10<sup>24</sup> kg<br />(3.8372747870470607 Yrths)
+        mass: 6.961 × 10<sup>24</sup> kg<br />(1.166 Yrths)
         density: 2.687 g/cm<sup>3</sup>
         surface_gravity: 6.391 m/s<sup>2</sup><br />(0.652 g<sub>0</sub>)
         escape_velocity: 10.443 km/s<br />(37,595 km/h)
         rotation_period: 32.007 d
         axial_tilt: 15.16°
         albedo: 0.30
-        temperature: 2151 K<br />(1878 °C)
+        temperature: 203 K<br />(-70 °C)
       - name: 0050 Rukentuaiad C III c
         type: Rocky
         formationType: Impact formed
@@ -201,14 +201,14 @@ planets:
         radius: 4,997.8 km<br/>(0.784 Yrths)
         surface_area: 3.139 × 10<sup>08</sup> km<sup>2</sup><br/>(0.615 Yrths)
         volume: 5.229 × 10<sup>11</sup> km<sup>3</sup><br/>(0.483 Yrths)
-        mass: 1.711 × 10<sup>24</sup> kg<br />(3.8372747870470607 Yrths)
+        mass: 1.711 × 10<sup>24</sup> kg<br />(0.287 Yrths)
         density: 3.273 g/cm<sup>3</sup>
         surface_gravity: 4.567 m/s<sup>2</sup><br />(0.466 g<sub>0</sub>)
         escape_velocity: 6.761 km/s<br />(24,339 km/h)
         rotation_period: 50.519 d
         axial_tilt: 8.12°
         albedo: 0.30
-        temperature: 2051 K<br />(1778 °C)
+        temperature: 203 K<br />(-70 °C)
   - name: 0050 Rukentuaiad C IV
     type: Ice giant
     aphelion: 255,706,427 km<br />1.709 AU
@@ -220,14 +220,14 @@ planets:
     radius: 21,106.1 km<br/>(3.313 Yrths)
     surface_area: 5.598 × 10<sup>09</sup> km<sup>2</sup><br/>(10.975 Yrths)
     volume: 3.938 × 10<sup>13</sup> km<sup>3</sup><br/>(36.358 Yrths)
-    mass: 4.601 × 10<sup>25</sup> kg<br />(7.704253546579443 Yrths)
+    mass: 4.601 × 10<sup>25</sup> kg<br />(7.70 Yrths)
     density: 1.168 g/cm<sup>3</sup>
     surface_gravity: 6.884 m/s<sup>2</sup><br />(0.702 g<sub>0</sub>)
     escape_velocity: 17.058 km/s<br />(61,410 km/h)
     rotation_period: 0.642 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 278 K<br />(5 °C)
+    temperature: 251 K<br />(-22 °C)
     composition:
       - 77.2865% hydrogen
       - 20.6889% helium
@@ -245,14 +245,14 @@ planets:
         radius: 4,692.7 km<br/>(0.737 Yrths)
         surface_area: 2.767 × 10<sup>08</sup> km<sup>2</sup><br/>(0.543 Yrths)
         volume: 4.329 × 10<sup>11</sup> km<sup>3</sup><br/>(0.400 Yrths)
-        mass: 1.212 × 10<sup>24</sup> kg<br />(7.704253546579443 Yrths)
+        mass: 1.212 × 10<sup>24</sup> kg<br />(0.203 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 3.668 m/s<sup>2</sup><br />(0.374 g<sub>0</sub>)
         escape_velocity: 5.872 km/s<br />(21,138 km/h)
         rotation_period: 31.483 d
         axial_tilt: 19.82°
         albedo: 0.30
-        temperature: 1545 K<br />(1272 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 0050 Rukentuaiad C IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -265,14 +265,14 @@ planets:
         radius: 8,080.0 km<br/>(1.268 Yrths)
         surface_area: 8.204 × 10<sup>08</sup> km<sup>2</sup><br/>(1.608 Yrths)
         volume: 2.210 × 10<sup>12</sup> km<sup>3</sup><br/>(2.040 Yrths)
-        mass: 4.102 × 10<sup>24</sup> kg<br />(7.704253546579443 Yrths)
+        mass: 4.102 × 10<sup>24</sup> kg<br />(0.687 Yrths)
         density: 1.857 g/cm<sup>3</sup>
         surface_gravity: 4.188 m/s<sup>2</sup><br />(0.427 g<sub>0</sub>)
         escape_velocity: 8.233 km/s<br />(29,637 km/h)
         rotation_period: 59.524 d
         axial_tilt: 12.56°
         albedo: 0.30
-        temperature: 1405 K<br />(1132 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 0050 Rukentuaiad C IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -285,14 +285,14 @@ planets:
         radius: 7,549.3 km<br/>(1.185 Yrths)
         surface_area: 7.162 × 10<sup>08</sup> km<sup>2</sup><br/>(1.404 Yrths)
         volume: 1.802 × 10<sup>12</sup> km<sup>3</sup><br/>(1.664 Yrths)
-        mass: 3.141 × 10<sup>24</sup> kg<br />(7.704253546579443 Yrths)
+        mass: 3.141 × 10<sup>24</sup> kg<br />(0.526 Yrths)
         density: 1.743 g/cm<sup>3</sup>
         surface_gravity: 3.674 m/s<sup>2</sup><br />(0.375 g<sub>0</sub>)
         escape_velocity: 7.453 km/s<br />(26,830 km/h)
         rotation_period: 41.103 d
         axial_tilt: 17.82°
         albedo: 0.30
-        temperature: 1340 K<br />(1066 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 0050 Rukentuaiad C IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -305,14 +305,14 @@ planets:
         radius: 8,923.5 km<br/>(1.401 Yrths)
         surface_area: 1.001 × 10<sup>09</sup> km<sup>2</sup><br/>(1.962 Yrths)
         volume: 2.976 × 10<sup>12</sup> km<sup>3</sup><br/>(2.748 Yrths)
-        mass: 6.736 × 10<sup>24</sup> kg<br />(7.704253546579443 Yrths)
+        mass: 6.736 × 10<sup>24</sup> kg<br />(1.128 Yrths)
         density: 2.263 g/cm<sup>3</sup>
         surface_gravity: 5.638 m/s<sup>2</sup><br />(0.575 g<sub>0</sub>)
         escape_velocity: 10.038 km/s<br />(36,137 km/h)
         rotation_period: 43.646 d
         axial_tilt: 22.52°
         albedo: 0.30
-        temperature: 1277 K<br />(1004 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 0050 Rukentuaiad C IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -325,14 +325,14 @@ planets:
         radius: 8,923.1 km<br/>(1.401 Yrths)
         surface_area: 1.001 × 10<sup>09</sup> km<sup>2</sup><br/>(1.962 Yrths)
         volume: 2.976 × 10<sup>12</sup> km<sup>3</sup><br/>(2.747 Yrths)
-        mass: 6.907 × 10<sup>24</sup> kg<br />(7.704253546579443 Yrths)
+        mass: 6.907 × 10<sup>24</sup> kg<br />(1.157 Yrths)
         density: 2.321 g/cm<sup>3</sup>
         surface_gravity: 5.782 m/s<sup>2</sup><br />(0.590 g<sub>0</sub>)
         escape_velocity: 10.165 km/s<br />(36,595 km/h)
         rotation_period: 49.864 d
         axial_tilt: 11.56°
         albedo: 0.30
-        temperature: 1218 K<br />(945 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 0050 Rukentuaiad C IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -345,14 +345,14 @@ planets:
         radius: 8,946.1 km<br/>(1.404 Yrths)
         surface_area: 1.006 × 10<sup>09</sup> km<sup>2</sup><br/>(1.972 Yrths)
         volume: 2.999 × 10<sup>12</sup> km<sup>3</sup><br/>(2.769 Yrths)
-        mass: 6.602 × 10<sup>24</sup> kg<br />(7.704253546579443 Yrths)
+        mass: 6.602 × 10<sup>24</sup> kg<br />(1.105 Yrths)
         density: 2.201 g/cm<sup>3</sup>
         surface_gravity: 5.498 m/s<sup>2</sup><br />(0.561 g<sub>0</sub>)
         escape_velocity: 9.925 km/s<br />(35,731 km/h)
         rotation_period: 42.592 d
         axial_tilt: 26.94°
         albedo: 0.30
-        temperature: 1161 K<br />(888 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 0050 Rukentuaiad C IV g
         type: Ice/rock hybrid
         formationType: Captured
@@ -365,14 +365,14 @@ planets:
         radius: 7,340.1 km<br/>(1.152 Yrths)
         surface_area: 6.770 × 10<sup>08</sup> km<sup>2</sup><br/>(1.327 Yrths)
         volume: 1.656 × 10<sup>12</sup> km<sup>3</sup><br/>(1.529 Yrths)
-        mass: 3.875 × 10<sup>24</sup> kg<br />(7.704253546579443 Yrths)
+        mass: 3.875 × 10<sup>24</sup> kg<br />(0.649 Yrths)
         density: 2.339 g/cm<sup>3</sup>
         surface_gravity: 4.793 m/s<sup>2</sup><br />(0.489 g<sub>0</sub>)
         escape_velocity: 8.394 km/s<br />(30,219 km/h)
         rotation_period: 43.220 d
         axial_tilt: 11.24°
         albedo: 0.30
-        temperature: 1107 K<br />(834 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 0050 Rukentuaiad C IV h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -385,14 +385,14 @@ planets:
         radius: 12,973.5 km<br/>(2.036 Yrths)
         surface_area: 2.115 × 10<sup>09</sup> km<sup>2</sup><br/>(4.147 Yrths)
         volume: 9.147 × 10<sup>12</sup> km<sup>3</sup><br/>(8.444 Yrths)
-        mass: 2.132 × 10<sup>25</sup> kg<br />(7.704253546579443 Yrths)
+        mass: 2.132 × 10<sup>25</sup> kg<br />(3.570 Yrths)
         density: 2.331 g/cm<sup>3</sup>
         surface_gravity: 8.444 m/s<sup>2</sup><br />(0.861 g<sub>0</sub>)
         escape_velocity: 14.812 km/s<br />(53,323 km/h)
         rotation_period: 34.488 d
         axial_tilt: 31.15°
         albedo: 0.30
-        temperature: 1056 K<br />(782 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 0050 Rukentuaiad C IV i
         type: Ice/rock hybrid
         formationType: Captured
@@ -405,14 +405,14 @@ planets:
         radius: 14,116.9 km<br/>(2.216 Yrths)
         surface_area: 2.504 × 10<sup>09</sup> km<sup>2</sup><br/>(4.910 Yrths)
         volume: 1.178 × 10<sup>13</sup> km<sup>3</sup><br/>(10.879 Yrths)
-        mass: 2.310 × 10<sup>25</sup> kg<br />(7.704253546579443 Yrths)
+        mass: 2.310 × 10<sup>25</sup> kg<br />(3.868 Yrths)
         density: 1.960 g/cm<sup>3</sup>
         surface_gravity: 7.725 m/s<sup>2</sup><br />(0.788 g<sub>0</sub>)
         escape_velocity: 14.779 km/s<br />(53,204 km/h)
         rotation_period: 40.984 d
         axial_tilt: 24.88°
         albedo: 0.30
-        temperature: 960 K<br />(686 °C)
+        temperature: 158 K<br />(-115 °C)
   - name: 0050 Rukentuaiad C V
     type: Terrestrial
     aphelion: 424,140,426 km<br />2.835 AU
@@ -424,7 +424,7 @@ planets:
     radius: 7,126.3 km<br/>(1.119 Yrths)
     surface_area: 6.382 × 10<sup>08</sup> km<sup>2</sup><br/>(1.251 Yrths)
     volume: 1.516 × 10<sup>12</sup> km<sup>3</sup><br/>(1.400 Yrths)
-    mass: 7.422 × 10<sup>24</sup> kg<br />(1.2427458810694518 Yrths)
+    mass: 7.422 × 10<sup>24</sup> kg<br />(1.24 Yrths)
     density: 4.896 g/cm<sup>3</sup>
     surface_gravity: 9.741 m/s<sup>2</sup><br />(0.993 g<sub>0</sub>)
     escape_velocity: 11.791 km/s<br />(42,446 km/h)
@@ -445,14 +445,14 @@ planets:
         radius: 2,709.8 km<br/>(0.425 Yrths)
         surface_area: 9.228 × 10<sup>07</sup> km<sup>2</sup><br/>(0.181 Yrths)
         volume: 8.335 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-        mass: 2.706 × 10<sup>23</sup> kg<br />(1.2427458810694518 Yrths)
+        mass: 2.706 × 10<sup>23</sup> kg<br />(0.045 Yrths)
         density: 3.246 g/cm<sup>3</sup>
         surface_gravity: 2.456 m/s<sup>2</sup><br />(0.250 g<sub>0</sub>)
         escape_velocity: 3.651 km/s<br />(13,143 km/h)
         rotation_period: 37.486 d
         axial_tilt: 11.58°
         albedo: 0.30
-        temperature: 1631 K<br />(1357 °C)
+        temperature: 124 K<br />(-150 °C)
       - name: 0050 Rukentuaiad C V b
         type: Rocky
         formationType: Accreted
@@ -465,14 +465,14 @@ planets:
         radius: 2,833.3 km<br/>(0.445 Yrths)
         surface_area: 1.009 × 10<sup>08</sup> km<sup>2</sup><br/>(0.198 Yrths)
         volume: 9.527 × 10<sup>10</sup> km<sup>3</sup><br/>(0.088 Yrths)
-        mass: 2.901 × 10<sup>23</sup> kg<br />(1.2427458810694518 Yrths)
+        mass: 2.901 × 10<sup>23</sup> kg<br />(0.049 Yrths)
         density: 3.045 g/cm<sup>3</sup>
         surface_gravity: 2.408 m/s<sup>2</sup><br />(0.246 g<sub>0</sub>)
         escape_velocity: 3.697 km/s<br />(13,308 km/h)
         rotation_period: 40.026 d
         axial_tilt: 7.86°
         albedo: 0.30
-        temperature: 1555 K<br />(1282 °C)
+        temperature: 124 K<br />(-150 °C)
   - name: 0050 Rukentuaiad C VI
     type: Ice giant
     aphelion: 687,858,537 km<br />4.598 AU
@@ -484,14 +484,14 @@ planets:
     radius: 28,453.0 km<br/>(4.466 Yrths)
     surface_area: 1.017 × 10<sup>10</sup> km<sup>2</sup><br/>(19.945 Yrths)
     volume: 9.649 × 10<sup>13</sup> km<sup>3</sup><br/>(89.076 Yrths)
-    mass: 1.150 × 10<sup>26</sup> kg<br />(19.25180112009249 Yrths)
+    mass: 1.150 × 10<sup>26</sup> kg<br />(19.25 Yrths)
     density: 1.192 g/cm<sup>3</sup>
     surface_gravity: 9.466 m/s<sup>2</sup><br />(0.965 g<sub>0</sub>)
     escape_velocity: 23.225 km/s<br />(83,609 km/h)
     rotation_period: 0.408 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 172 K<br />(-101 °C)
+    temperature: 155 K<br />(-118 °C)
     composition:
       - 64.5332% hydrogen
       - 32.0991% helium
@@ -510,14 +510,14 @@ planets:
         radius: 16,477.1 km<br/>(2.586 Yrths)
         surface_area: 3.412 × 10<sup>09</sup> km<sup>2</sup><br/>(6.689 Yrths)
         volume: 1.874 × 10<sup>13</sup> km<sup>3</sup><br/>(17.299 Yrths)
-        mass: 4.155 × 10<sup>25</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 4.155 × 10<sup>25</sup> kg<br />(6.958 Yrths)
         density: 2.218 g/cm<sup>3</sup>
         surface_gravity: 10.201 m/s<sup>2</sup><br />(1.040 g<sub>0</sub>)
         escape_velocity: 18.348 km/s<br />(66,052 km/h)
         rotation_period: 38.427 d
         axial_tilt: 15.12°
         albedo: 0.30
-        temperature: 805 K<br />(532 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 0050 Rukentuaiad C VI b
         type: Icy
         formationType: Impact formed
@@ -530,14 +530,14 @@ planets:
         radius: 19,993.4 km<br/>(3.138 Yrths)
         surface_area: 5.023 × 10<sup>09</sup> km<sup>2</sup><br/>(9.848 Yrths)
         volume: 3.348 × 10<sup>13</sup> km<sup>3</sup><br/>(30.906 Yrths)
-        mass: 3.960 × 10<sup>25</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 3.960 × 10<sup>25</sup> kg<br />(6.630 Yrths)
         density: 1.183 g/cm<sup>3</sup>
         surface_gravity: 6.602 m/s<sup>2</sup><br />(0.673 g<sub>0</sub>)
         escape_velocity: 16.259 km/s<br />(58,532 km/h)
         rotation_period: 70.197 d
         axial_tilt: 12.78°
         albedo: 0.30
-        temperature: 768 K<br />(495 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 0050 Rukentuaiad C VI c
         type: Icy
         formationType: Accreted
@@ -550,14 +550,14 @@ planets:
         radius: 30,045.2 km<br/>(4.716 Yrths)
         surface_area: 1.134 × 10<sup>10</sup> km<sup>2</sup><br/>(22.240 Yrths)
         volume: 1.136 × 10<sup>14</sup> km<sup>3</sup><br/>(104.883 Yrths)
-        mass: 8.310 × 10<sup>25</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 8.310 × 10<sup>25</sup> kg<br />(13.915 Yrths)
         density: 0.731 g/cm<sup>3</sup>
         surface_gravity: 6.136 m/s<sup>2</sup><br />(0.626 g<sub>0</sub>)
         escape_velocity: 19.215 km/s<br />(69,173 km/h)
         rotation_period: 61.688 d
         axial_tilt: 10.98°
         albedo: 0.30
-        temperature: 698 K<br />(425 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 0050 Rukentuaiad C VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -570,14 +570,14 @@ planets:
         radius: 14,328.4 km<br/>(2.249 Yrths)
         surface_area: 2.580 × 10<sup>09</sup> km<sup>2</sup><br/>(5.058 Yrths)
         volume: 1.232 × 10<sup>13</sup> km<sup>3</sup><br/>(11.375 Yrths)
-        mass: 2.426 × 10<sup>25</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 2.426 × 10<sup>25</sup> kg<br />(4.062 Yrths)
         density: 1.969 g/cm<sup>3</sup>
         surface_gravity: 7.876 m/s<sup>2</sup><br />(0.803 g<sub>0</sub>)
         escape_velocity: 15.033 km/s<br />(54,120 km/h)
         rotation_period: 59.307 d
         axial_tilt: 22.37°
         albedo: 0.30
-        temperature: 665 K<br />(392 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 0050 Rukentuaiad C VI e
         type: Icy
         formationType: Accreted
@@ -590,14 +590,14 @@ planets:
         radius: 14,772.2 km<br/>(2.319 Yrths)
         surface_area: 2.742 × 10<sup>09</sup> km<sup>2</sup><br/>(5.376 Yrths)
         volume: 1.350 × 10<sup>13</sup> km<sup>3</sup><br/>(12.466 Yrths)
-        mass: 1.395 × 10<sup>25</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 1.395 × 10<sup>25</sup> kg<br />(2.335 Yrths)
         density: 1.033 g/cm<sup>3</sup>
         surface_gravity: 4.260 m/s<sup>2</sup><br />(0.434 g<sub>0</sub>)
         escape_velocity: 11.226 km/s<br />(40,414 km/h)
         rotation_period: 49.772 d
         axial_tilt: 11.74°
         albedo: 0.30
-        temperature: 634 K<br />(361 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 0050 Rukentuaiad C VI f
         type: Dwarf planet
         formationType: Accreted
@@ -610,14 +610,14 @@ planets:
         radius: 22,308.3 km<br/>(3.502 Yrths)
         surface_area: 6.254 × 10<sup>09</sup> km<sup>2</sup><br/>(12.261 Yrths)
         volume: 4.650 × 10<sup>13</sup> km<sup>3</sup><br/>(42.931 Yrths)
-        mass: 7.107 × 10<sup>25</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 7.107 × 10<sup>25</sup> kg<br />(11.901 Yrths)
         density: 1.528 g/cm<sup>3</sup>
         surface_gravity: 9.519 m/s<sup>2</sup><br />(0.971 g<sub>0</sub>)
         escape_velocity: 20.622 km/s<br />(74,239 km/h)
         rotation_period: 77.292 d
         axial_tilt: 22.32°
         albedo: 0.30
-        temperature: 605 K<br />(332 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 0050 Rukentuaiad C VI g
         type: Asteroid
         formationType: Captured
@@ -630,14 +630,14 @@ planets:
         radius: 14,067.6 km<br/>(2.208 Yrths)
         surface_area: 2.487 × 10<sup>09</sup> km<sup>2</sup><br/>(4.876 Yrths)
         volume: 1.166 × 10<sup>13</sup> km<sup>3</sup><br/>(10.765 Yrths)
-        mass: 3.014 × 10<sup>25</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 3.014 × 10<sup>25</sup> kg<br />(5.047 Yrths)
         density: 2.585 g/cm<sup>3</sup>
         surface_gravity: 10.152 m/s<sup>2</sup><br />(1.035 g<sub>0</sub>)
         escape_velocity: 16.912 km/s<br />(60,883 km/h)
         rotation_period: 42.195 d
         axial_tilt: 38.19°
         albedo: 0.30
-        temperature: 577 K<br />(304 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 0050 Rukentuaiad C VI h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -650,14 +650,14 @@ planets:
         radius: 18,531.3 km<br/>(2.909 Yrths)
         surface_area: 4.315 × 10<sup>09</sup> km<sup>2</sup><br/>(8.461 Yrths)
         volume: 2.666 × 10<sup>13</sup> km<sup>3</sup><br/>(24.609 Yrths)
-        mass: 4.629 × 10<sup>25</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 4.629 × 10<sup>25</sup> kg<br />(7.750 Yrths)
         density: 1.736 g/cm<sup>3</sup>
         surface_gravity: 8.984 m/s<sup>2</sup><br />(0.916 g<sub>0</sub>)
         escape_velocity: 18.259 km/s<br />(65,734 km/h)
         rotation_period: 60.637 d
         axial_tilt: 15.39°
         albedo: 0.30
-        temperature: 550 K<br />(277 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 0050 Rukentuaiad C VI i
         type: Ice/rock hybrid
         formationType: Captured
@@ -670,14 +670,14 @@ planets:
         radius: 10,741.9 km<br/>(1.686 Yrths)
         surface_area: 1.450 × 10<sup>09</sup> km<sup>2</sup><br/>(2.843 Yrths)
         volume: 5.192 × 10<sup>12</sup> km<sup>3</sup><br/>(4.793 Yrths)
-        mass: 9.236 × 10<sup>24</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 9.236 × 10<sup>24</sup> kg<br />(1.547 Yrths)
         density: 1.779 g/cm<sup>3</sup>
         surface_gravity: 5.335 m/s<sup>2</sup><br />(0.544 g<sub>0</sub>)
         escape_velocity: 10.713 km/s<br />(38,568 km/h)
         rotation_period: 63.274 d
         axial_tilt: 14.23°
         albedo: 0.30
-        temperature: 524 K<br />(251 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: 0050 Rukentuaiad C VI j
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -690,14 +690,14 @@ planets:
         radius: 21,727.4 km<br/>(3.410 Yrths)
         surface_area: 5.932 × 10<sup>09</sup> km<sup>2</sup><br/>(11.631 Yrths)
         volume: 4.296 × 10<sup>13</sup> km<sup>3</sup><br/>(39.664 Yrths)
-        mass: 8.634 × 10<sup>25</sup> kg<br />(19.25180112009249 Yrths)
+        mass: 8.634 × 10<sup>25</sup> kg<br />(14.457 Yrths)
         density: 2.009 g/cm<sup>3</sup>
         surface_gravity: 12.190 m/s<sup>2</sup><br />(1.243 g<sub>0</sub>)
         escape_velocity: 23.031 km/s<br />(82,911 km/h)
         rotation_period: 63.728 d
         axial_tilt: 26.26°
         albedo: 0.30
-        temperature: 500 K<br />(227 °C)
+        temperature: 96 K<br />(-177 °C)
   - name: 0050 Rukentuaiad C VII
     type: Gas dwarf
     aphelion: 1,139,450,233 km<br />7.617 AU
@@ -709,14 +709,14 @@ planets:
     radius: 18,077.4 km<br/>(2.837 Yrths)
     surface_area: 4.107 × 10<sup>09</sup> km<sup>2</sup><br/>(8.051 Yrths)
     volume: 2.475 × 10<sup>13</sup> km<sup>3</sup><br/>(22.845 Yrths)
-    mass: 5.529 × 10<sup>25</sup> kg<br />(9.258900150422567 Yrths)
+    mass: 5.529 × 10<sup>25</sup> kg<br />(9.26 Yrths)
     density: 2.235 g/cm<sup>3</sup>
     surface_gravity: 11.278 m/s<sup>2</sup><br />(1.150 g<sub>0</sub>)
     escape_velocity: 20.206 km/s<br />(72,743 km/h)
     rotation_period: 0.427 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 107 K<br />(-166 °C)
+    temperature: 96 K<br />(-177 °C)
     composition:
       - 60.8102% hydrogen
       - 35.2245% helium
@@ -734,14 +734,14 @@ planets:
         radius: 25,881.9 km<br/>(4.062 Yrths)
         surface_area: 8.418 × 10<sup>09</sup> km<sup>2</sup><br/>(16.504 Yrths)
         volume: 7.262 × 10<sup>13</sup> km<sup>3</sup><br/>(67.045 Yrths)
-        mass: 1.081 × 10<sup>26</sup> kg<br />(9.258900150422567 Yrths)
+        mass: 1.081 × 10<sup>26</sup> kg<br />(18.097 Yrths)
         density: 1.488 g/cm<sup>3</sup>
         surface_gravity: 10.754 m/s<sup>2</sup><br />(1.097 g<sub>0</sub>)
         escape_velocity: 23.610 km/s<br />(84,995 km/h)
         rotation_period: 56.440 d
         axial_tilt: 22.50°
         albedo: 0.30
-        temperature: 710 K<br />(437 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0050 Rukentuaiad C VII b
         type: Icy
         formationType: Captured
@@ -754,14 +754,14 @@ planets:
         radius: 7,158.2 km<br/>(1.124 Yrths)
         surface_area: 6.439 × 10<sup>08</sup> km<sup>2</sup><br/>(1.262 Yrths)
         volume: 1.536 × 10<sup>12</sup> km<sup>3</sup><br/>(1.418 Yrths)
-        mass: 1.714 × 10<sup>24</sup> kg<br />(9.258900150422567 Yrths)
+        mass: 1.714 × 10<sup>24</sup> kg<br />(0.287 Yrths)
         density: 1.116 g/cm<sup>3</sup>
         surface_gravity: 2.230 m/s<sup>2</sup><br />(0.227 g<sub>0</sub>)
         escape_velocity: 5.654 km/s<br />(20,353 km/h)
         rotation_period: 52.330 d
         axial_tilt: 23.25°
         albedo: 0.30
-        temperature: 677 K<br />(404 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0050 Rukentuaiad C VII c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -774,14 +774,14 @@ planets:
         radius: 6,617.0 km<br/>(1.039 Yrths)
         surface_area: 5.502 × 10<sup>08</sup> km<sup>2</sup><br/>(1.079 Yrths)
         volume: 1.214 × 10<sup>12</sup> km<sup>3</sup><br/>(1.120 Yrths)
-        mass: 2.686 × 10<sup>24</sup> kg<br />(9.258900150422567 Yrths)
+        mass: 2.686 × 10<sup>24</sup> kg<br />(0.450 Yrths)
         density: 2.213 g/cm<sup>3</sup>
         surface_gravity: 4.089 m/s<sup>2</sup><br />(0.417 g<sub>0</sub>)
         escape_velocity: 7.361 km/s<br />(26,499 km/h)
         rotation_period: 61.078 d
         axial_tilt: 19.97°
         albedo: 0.30
-        temperature: 646 K<br />(372 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0050 Rukentuaiad C VII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -794,14 +794,14 @@ planets:
         radius: 4,682.2 km<br/>(0.735 Yrths)
         surface_area: 2.755 × 10<sup>08</sup> km<sup>2</sup><br/>(0.540 Yrths)
         volume: 4.300 × 10<sup>11</sup> km<sup>3</sup><br/>(0.397 Yrths)
-        mass: 1.047 × 10<sup>24</sup> kg<br />(9.258900150422567 Yrths)
+        mass: 1.047 × 10<sup>24</sup> kg<br />(0.175 Yrths)
         density: 2.435 g/cm<sup>3</sup>
         surface_gravity: 3.183 m/s<sup>2</sup><br />(0.325 g<sub>0</sub>)
         escape_velocity: 5.464 km/s<br />(19,669 km/h)
         rotation_period: 48.071 d
         axial_tilt: 26.29°
         albedo: 0.30
-        temperature: 587 K<br />(314 °C)
+        temperature: 75 K<br />(-198 °C)
   - name: 0050 Rukentuaiad C VIII
     type: Ice giant
     aphelion: 1,880,699,198 km<br />12.572 AU
@@ -813,14 +813,14 @@ planets:
     radius: 24,336.1 km<br/>(3.820 Yrths)
     surface_area: 7.442 × 10<sup>09</sup> km<sup>2</sup><br/>(14.591 Yrths)
     volume: 6.037 × 10<sup>13</sup> km<sup>3</sup><br/>(55.735 Yrths)
-    mass: 8.026 × 10<sup>25</sup> kg<br />(13.439858061003289 Yrths)
+    mass: 8.026 × 10<sup>25</sup> kg<br />(13.44 Yrths)
     density: 1.329 g/cm<sup>3</sup>
     surface_gravity: 9.033 m/s<sup>2</sup><br />(0.921 g<sub>0</sub>)
     escape_velocity: 20.982 km/s<br />(75,536 km/h)
     rotation_period: 0.369 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 107 K<br />(-167 °C)
+    temperature: 97 K<br />(-176 °C)
     composition:
       - 89.5331% hydrogen
       - 7.9201% helium
@@ -840,14 +840,14 @@ planets:
         radius: 10,790.9 km<br/>(1.694 Yrths)
         surface_area: 1.463 × 10<sup>09</sup> km<sup>2</sup><br/>(2.869 Yrths)
         volume: 5.263 × 10<sup>12</sup> km<sup>3</sup><br/>(4.859 Yrths)
-        mass: 8.669 × 10<sup>24</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 8.669 × 10<sup>24</sup> kg<br />(1.452 Yrths)
         density: 1.647 g/cm<sup>3</sup>
         surface_gravity: 4.962 m/s<sup>2</sup><br />(0.506 g<sub>0</sub>)
         escape_velocity: 10.356 km/s<br />(37,280 km/h)
         rotation_period: 70.325 d
         axial_tilt: 17.08°
         albedo: 0.30
-        temperature: 519 K<br />(246 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 0050 Rukentuaiad C VIII b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -860,14 +860,14 @@ planets:
         radius: 12,129.6 km<br/>(1.904 Yrths)
         surface_area: 1.849 × 10<sup>09</sup> km<sup>2</sup><br/>(3.625 Yrths)
         volume: 7.475 × 10<sup>12</sup> km<sup>3</sup><br/>(6.901 Yrths)
-        mass: 1.236 × 10<sup>25</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 1.236 × 10<sup>25</sup> kg<br />(2.070 Yrths)
         density: 1.654 g/cm<sup>3</sup>
         surface_gravity: 5.600 m/s<sup>2</sup><br />(0.571 g<sub>0</sub>)
         escape_velocity: 11.663 km/s<br />(41,987 km/h)
         rotation_period: 47.210 d
         axial_tilt: 23.39°
         albedo: 0.30
-        temperature: 472 K<br />(199 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 0050 Rukentuaiad C VIII c
         type: Asteroid
         formationType: Captured
@@ -880,14 +880,14 @@ planets:
         radius: 16,581.7 km<br/>(2.603 Yrths)
         surface_area: 3.455 × 10<sup>09</sup> km<sup>2</sup><br/>(6.774 Yrths)
         volume: 1.910 × 10<sup>13</sup> km<sup>3</sup><br/>(17.631 Yrths)
-        mass: 2.891 × 10<sup>25</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 2.891 × 10<sup>25</sup> kg<br />(4.841 Yrths)
         density: 1.514 g/cm<sup>3</sup>
         surface_gravity: 7.008 m/s<sup>2</sup><br />(0.715 g<sub>0</sub>)
         escape_velocity: 15.255 km/s<br />(54,919 km/h)
         rotation_period: 54.592 d
         axial_tilt: 41.42°
         albedo: 0.30
-        temperature: 429 K<br />(156 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 0050 Rukentuaiad C VIII d
         type: Icy
         formationType: Accreted
@@ -900,14 +900,14 @@ planets:
         radius: 17,362.7 km<br/>(2.725 Yrths)
         surface_area: 3.788 × 10<sup>09</sup> km<sup>2</sup><br/>(7.427 Yrths)
         volume: 2.193 × 10<sup>13</sup> km<sup>3</sup><br/>(20.241 Yrths)
-        mass: 3.193 × 10<sup>25</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 3.193 × 10<sup>25</sup> kg<br />(5.347 Yrths)
         density: 1.457 g/cm<sup>3</sup>
         surface_gravity: 7.061 m/s<sup>2</sup><br />(0.720 g<sub>0</sub>)
         escape_velocity: 15.669 km/s<br />(56,408 km/h)
         rotation_period: 44.516 d
         axial_tilt: 16.22°
         albedo: 0.30
-        temperature: 390 K<br />(117 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 0050 Rukentuaiad C VIII e
         type: Ice/rock hybrid
         formationType: Captured
@@ -920,14 +920,14 @@ planets:
         radius: 9,940.5 km<br/>(1.560 Yrths)
         surface_area: 1.242 × 10<sup>09</sup> km<sup>2</sup><br/>(2.434 Yrths)
         volume: 4.115 × 10<sup>12</sup> km<sup>3</sup><br/>(3.798 Yrths)
-        mass: 8.909 × 10<sup>24</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 8.909 × 10<sup>24</sup> kg<br />(1.492 Yrths)
         density: 2.165 g/cm<sup>3</sup>
         surface_gravity: 6.009 m/s<sup>2</sup><br />(0.613 g<sub>0</sub>)
         escape_velocity: 10.937 km/s<br />(39,375 km/h)
         rotation_period: 55.370 d
         axial_tilt: 28.53°
         albedo: 0.30
-        temperature: 372 K<br />(99 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 0050 Rukentuaiad C VIII f
         type: Icy
         formationType: Captured
@@ -940,14 +940,14 @@ planets:
         radius: 13,712.1 km<br/>(2.152 Yrths)
         surface_area: 2.363 × 10<sup>09</sup> km<sup>2</sup><br/>(4.632 Yrths)
         volume: 1.080 × 10<sup>13</sup> km<sup>3</sup><br/>(9.970 Yrths)
-        mass: 1.844 × 10<sup>25</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 1.844 × 10<sup>25</sup> kg<br />(3.088 Yrths)
         density: 1.708 g/cm<sup>3</sup>
         surface_gravity: 6.538 m/s<sup>2</sup><br />(0.667 g<sub>0</sub>)
         escape_velocity: 13.400 km/s<br />(48,239 km/h)
         rotation_period: 45.157 d
         axial_tilt: 16.57°
         albedo: 0.30
-        temperature: 355 K<br />(82 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 0050 Rukentuaiad C VIII g
         type: Ice/rock hybrid
         formationType: Captured
@@ -960,14 +960,14 @@ planets:
         radius: 10,531.8 km<br/>(1.653 Yrths)
         surface_area: 1.394 × 10<sup>09</sup> km<sup>2</sup><br/>(2.733 Yrths)
         volume: 4.893 × 10<sup>12</sup> km<sup>3</sup><br/>(4.517 Yrths)
-        mass: 1.009 × 10<sup>25</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 1.009 × 10<sup>25</sup> kg<br />(1.690 Yrths)
         density: 2.062 g/cm<sup>3</sup>
         surface_gravity: 6.064 m/s<sup>2</sup><br />(0.618 g<sub>0</sub>)
         escape_velocity: 11.310 km/s<br />(40,715 km/h)
         rotation_period: 42.100 d
         axial_tilt: 13.31°
         albedo: 0.30
-        temperature: 338 K<br />(65 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 0050 Rukentuaiad C VIII h
         type: Asteroid
         formationType: Captured
@@ -980,14 +980,14 @@ planets:
         radius: 18,529.2 km<br/>(2.908 Yrths)
         surface_area: 4.314 × 10<sup>09</sup> km<sup>2</sup><br/>(8.459 Yrths)
         volume: 2.665 × 10<sup>13</sup> km<sup>3</sup><br/>(24.601 Yrths)
-        mass: 7.509 × 10<sup>25</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 7.509 × 10<sup>25</sup> kg<br />(12.574 Yrths)
         density: 2.818 g/cm<sup>3</sup>
         surface_gravity: 14.577 m/s<sup>2</sup><br />(1.486 g<sub>0</sub>)
         escape_velocity: 23.258 km/s<br />(83,730 km/h)
         rotation_period: 31.317 d
         axial_tilt: 58.27°
         albedo: 0.30
-        temperature: 323 K<br />(49 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 0050 Rukentuaiad C VIII i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1000,14 +1000,14 @@ planets:
         radius: 21,808.0 km<br/>(3.423 Yrths)
         surface_area: 5.976 × 10<sup>09</sup> km<sup>2</sup><br/>(11.717 Yrths)
         volume: 4.344 × 10<sup>13</sup> km<sup>3</sup><br/>(40.108 Yrths)
-        mass: 8.773 × 10<sup>25</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 8.773 × 10<sup>25</sup> kg<br />(14.691 Yrths)
         density: 2.019 g/cm<sup>3</sup>
         surface_gravity: 12.295 m/s<sup>2</sup><br />(1.254 g<sub>0</sub>)
         escape_velocity: 23.173 km/s<br />(83,424 km/h)
         rotation_period: 45.660 d
         axial_tilt: 11.17°
         albedo: 0.30
-        temperature: 308 K<br />(34 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 0050 Rukentuaiad C VIII j
         type: Icy
         formationType: Captured
@@ -1020,14 +1020,14 @@ planets:
         radius: 29,600.2 km<br/>(4.646 Yrths)
         surface_area: 1.101 × 10<sup>10</sup> km<sup>2</sup><br/>(21.586 Yrths)
         volume: 1.086 × 10<sup>14</sup> km<sup>3</sup><br/>(100.291 Yrths)
-        mass: 1.657 × 10<sup>26</sup> kg<br />(13.439858061003289 Yrths)
+        mass: 1.657 × 10<sup>26</sup> kg<br />(27.743 Yrths)
         density: 1.525 g/cm<sup>3</sup>
         surface_gravity: 12.604 m/s<sup>2</sup><br />(1.285 g<sub>0</sub>)
         escape_velocity: 27.334 km/s<br />(98,404 km/h)
         rotation_period: 42.211 d
         axial_tilt: 23.23°
         albedo: 0.30
-        temperature: 293 K<br />(20 °C)
+        temperature: 58 K<br />(-215 °C)
   - name: 0050 Rukentuaiad C IX
     type: Ice giant
     aphelion: 3,068,020,852 km<br />20.508 AU
@@ -1039,14 +1039,14 @@ planets:
     radius: 30,177.0 km<br/>(4.737 Yrths)
     surface_area: 1.144 × 10<sup>10</sup> km<sup>2</sup><br/>(22.435 Yrths)
     volume: 1.151 × 10<sup>14</sup> km<sup>3</sup><br/>(106.268 Yrths)
-    mass: 1.853 × 10<sup>26</sup> kg<br />(31.022351897517613 Yrths)
+    mass: 1.853 × 10<sup>26</sup> kg<br />(31.02 Yrths)
     density: 1.609 g/cm<sup>3</sup>
     surface_gravity: 13.560 m/s<sup>2</sup><br />(1.383 g<sub>0</sub>)
     escape_velocity: 28.627 km/s<br />(103,058 km/h)
     rotation_period: 0.314 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 81 K<br />(-193 °C)
+    temperature: 72 K<br />(-201 °C)
     composition:
       - 71.8180% hydrogen
       - 28.1820% helium
@@ -1063,14 +1063,14 @@ planets:
         radius: 43,473.5 km<br/>(6.824 Yrths)
         surface_area: 2.375 × 10<sup>10</sup> km<sup>2</sup><br/>(46.562 Yrths)
         volume: 3.442 × 10<sup>14</sup> km<sup>3</sup><br/>(317.725 Yrths)
-        mass: 3.835 × 10<sup>26</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 3.835 × 10<sup>26</sup> kg<br />(64.222 Yrths)
         density: 1.114 g/cm<sup>3</sup>
         surface_gravity: 13.526 m/s<sup>2</sup><br />(1.379 g<sub>0</sub>)
         escape_velocity: 34.317 km/s<br />(123,541 km/h)
         rotation_period: 63.841 d
         axial_tilt: 21.95°
         albedo: 0.30
-        temperature: 352 K<br />(79 °C)
+        temperature: 46 K<br />(-228 °C)
       - name: 0050 Rukentuaiad C IX b
         type: Icy
         formationType: Accreted
@@ -1083,14 +1083,14 @@ planets:
         radius: 28,096.6 km<br/>(4.410 Yrths)
         surface_area: 9.920 × 10<sup>09</sup> km<sup>2</sup><br/>(19.449 Yrths)
         volume: 9.291 × 10<sup>13</sup> km<sup>3</sup><br/>(85.770 Yrths)
-        mass: 1.161 × 10<sup>26</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 1.161 × 10<sup>26</sup> kg<br />(19.440 Yrths)
         density: 1.250 g/cm<sup>3</sup>
         surface_gravity: 9.802 m/s<sup>2</sup><br />(1.000 g<sub>0</sub>)
         escape_velocity: 23.486 km/s<br />(84,548 km/h)
         rotation_period: 84.191 d
         axial_tilt: 10.82°
         albedo: 0.30
-        temperature: 320 K<br />(47 °C)
+        temperature: 46 K<br />(-228 °C)
       - name: 0050 Rukentuaiad C IX c
         type: Icy
         formationType: Accreted
@@ -1103,14 +1103,14 @@ planets:
         radius: 29,808.1 km<br/>(4.679 Yrths)
         surface_area: 1.117 × 10<sup>10</sup> km<sup>2</sup><br/>(21.890 Yrths)
         volume: 1.109 × 10<sup>14</sup> km<sup>3</sup><br/>(102.419 Yrths)
-        mass: 1.257 × 10<sup>26</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 1.257 × 10<sup>26</sup> kg<br />(21.055 Yrths)
         density: 1.133 g/cm<sup>3</sup>
         surface_gravity: 9.433 m/s<sup>2</sup><br />(0.962 g<sub>0</sub>)
         escape_velocity: 23.730 km/s<br />(85,427 km/h)
         rotation_period: 55.490 d
         axial_tilt: 7.49°
         albedo: 0.30
-        temperature: 305 K<br />(32 °C)
+        temperature: 46 K<br />(-228 °C)
       - name: 0050 Rukentuaiad C IX d
         type: Icy
         formationType: Accreted
@@ -1123,14 +1123,14 @@ planets:
         radius: 41,237.9 km<br/>(6.473 Yrths)
         surface_area: 2.137 × 10<sup>10</sup> km<sup>2</sup><br/>(41.897 Yrths)
         volume: 2.938 × 10<sup>14</sup> km<sup>3</sup><br/>(271.186 Yrths)
-        mass: 3.738 × 10<sup>26</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 3.738 × 10<sup>26</sup> kg<br />(62.589 Yrths)
         density: 1.272 g/cm<sup>3</sup>
         surface_gravity: 14.650 m/s<sup>2</sup><br />(1.494 g<sub>0</sub>)
         escape_velocity: 34.784 km/s<br />(125,222 km/h)
         rotation_period: 61.426 d
         axial_tilt: 17.44°
         albedo: 0.30
-        temperature: 291 K<br />(17 °C)
+        temperature: 46 K<br />(-228 °C)
       - name: 0050 Rukentuaiad C IX e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1143,14 +1143,14 @@ planets:
         radius: 11,597.9 km<br/>(1.820 Yrths)
         surface_area: 1.690 × 10<sup>09</sup> km<sup>2</sup><br/>(3.314 Yrths)
         volume: 6.535 × 10<sup>12</sup> km<sup>3</sup><br/>(6.033 Yrths)
-        mass: 1.436 × 10<sup>25</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 1.436 × 10<sup>25</sup> kg<br />(2.404 Yrths)
         density: 2.197 g/cm<sup>3</sup>
         surface_gravity: 7.114 m/s<sup>2</sup><br />(0.725 g<sub>0</sub>)
         escape_velocity: 12.854 km/s<br />(46,276 km/h)
         rotation_period: 46.051 d
         axial_tilt: 17.41°
         albedo: 0.30
-        temperature: 277 K<br />(4 °C)
+        temperature: 46 K<br />(-228 °C)
       - name: 0050 Rukentuaiad C IX f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1163,14 +1163,14 @@ planets:
         radius: 26,765.1 km<br/>(4.201 Yrths)
         surface_area: 9.002 × 10<sup>09</sup> km<sup>2</sup><br/>(17.649 Yrths)
         volume: 8.032 × 10<sup>13</sup> km<sup>3</sup><br/>(74.146 Yrths)
-        mass: 1.729 × 10<sup>26</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 1.729 × 10<sup>26</sup> kg<br />(28.954 Yrths)
         density: 2.153 g/cm<sup>3</sup>
         surface_gravity: 16.088 m/s<sup>2</sup><br />(1.641 g<sub>0</sub>)
         escape_velocity: 29.366 km/s<br />(105,718 km/h)
         rotation_period: 60.666 d
         axial_tilt: 21.54°
         albedo: 0.30
-        temperature: 264 K<br />(-9 °C)
+        temperature: 46 K<br />(-228 °C)
       - name: 0050 Rukentuaiad C IX g
         type: Dwarf planet
         formationType: Captured
@@ -1183,14 +1183,14 @@ planets:
         radius: 15,250.2 km<br/>(2.394 Yrths)
         surface_area: 2.923 × 10<sup>09</sup> km<sup>2</sup><br/>(5.730 Yrths)
         volume: 1.486 × 10<sup>13</sup> km<sup>3</sup><br/>(13.715 Yrths)
-        mass: 3.663 × 10<sup>25</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 3.663 × 10<sup>25</sup> kg<br />(6.133 Yrths)
         density: 2.465 g/cm<sup>3</sup>
         surface_gravity: 10.497 m/s<sup>2</sup><br />(1.070 g<sub>0</sub>)
         escape_velocity: 17.905 km/s<br />(64,459 km/h)
         rotation_period: 40.764 d
         axial_tilt: 10.24°
         albedo: 0.30
-        temperature: 252 K<br />(-21 °C)
+        temperature: 46 K<br />(-228 °C)
       - name: 0050 Rukentuaiad C IX h
         type: Icy
         formationType: Captured
@@ -1203,14 +1203,14 @@ planets:
         radius: 30,208.1 km<br/>(4.742 Yrths)
         surface_area: 1.147 × 10<sup>10</sup> km<sup>2</sup><br/>(22.482 Yrths)
         volume: 1.155 × 10<sup>14</sup> km<sup>3</sup><br/>(106.598 Yrths)
-        mass: 1.895 × 10<sup>26</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 1.895 × 10<sup>26</sup> kg<br />(31.729 Yrths)
         density: 1.641 g/cm<sup>3</sup>
         surface_gravity: 13.840 m/s<sup>2</sup><br />(1.411 g<sub>0</sub>)
         escape_velocity: 28.937 km/s<br />(104,171 km/h)
         rotation_period: 61.950 d
         axial_tilt: 15.19°
         albedo: 0.30
-        temperature: 240 K<br />(-33 °C)
+        temperature: 46 K<br />(-228 °C)
       - name: 0050 Rukentuaiad C IX i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1223,14 +1223,14 @@ planets:
         radius: 23,460.7 km<br/>(3.682 Yrths)
         surface_area: 6.917 × 10<sup>09</sup> km<sup>2</sup><br/>(13.560 Yrths)
         volume: 5.409 × 10<sup>13</sup> km<sup>3</sup><br/>(49.935 Yrths)
-        mass: 8.654 × 10<sup>25</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 8.654 × 10<sup>25</sup> kg<br />(14.492 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 10.480 m/s<sup>2</sup><br />(1.069 g<sub>0</sub>)
         escape_velocity: 22.190 km/s<br />(79,885 km/h)
         rotation_period: 45.460 d
         axial_tilt: 11.73°
         albedo: 0.30
-        temperature: 229 K<br />(-44 °C)
+        temperature: 46 K<br />(-228 °C)
       - name: 0050 Rukentuaiad C IX j
         type: Icy
         formationType: Captured
@@ -1243,12 +1243,12 @@ planets:
         radius: 31,623.8 km<br/>(4.964 Yrths)
         surface_area: 1.257 × 10<sup>10</sup> km<sup>2</sup><br/>(24.638 Yrths)
         volume: 1.325 × 10<sup>14</sup> km<sup>3</sup><br/>(122.298 Yrths)
-        mass: 1.221 × 10<sup>26</sup> kg<br />(31.022351897517613 Yrths)
+        mass: 1.221 × 10<sup>26</sup> kg<br />(20.441 Yrths)
         density: 0.921 g/cm<sup>3</sup>
         surface_gravity: 8.136 m/s<sup>2</sup><br />(0.830 g<sub>0</sub>)
         escape_velocity: 22.700 km/s<br />(81,719 km/h)
         rotation_period: 56.077 d
         axial_tilt: 8.34°
         albedo: 0.30
-        temperature: 218 K<br />(-55 °C)
+        temperature: 46 K<br />(-228 °C)
 ---

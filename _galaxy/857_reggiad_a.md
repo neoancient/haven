@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      857 Reggiad A is a star in the constellation Reg
+      857 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 293.66 ly
 apparent_magnitude: 6.80
 absolute_magnitude: 2.03

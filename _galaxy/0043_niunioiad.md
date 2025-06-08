@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0043 Niunioiad is a star in the constellation Niunio
+      0043 Niunioiad is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 205.27 ly
 apparent_magnitude: 6.17
 absolute_magnitude: 2.17
@@ -31,14 +31,14 @@ planets:
     radius: 14,122.3 km<br/>(2.217 Yrths)
     surface_area: 2.506 × 10<sup>09</sup> km<sup>2</sup><br/>(4.914 Yrths)
     volume: 1.180 × 10<sup>13</sup> km<sup>3</sup><br/>(10.892 Yrths)
-    mass: 2.591 × 10<sup>25</sup> kg<br />(4.339187198328246 Yrths)
+    mass: 2.591 × 10<sup>25</sup> kg<br />(4.34 Yrths)
     density: 2.196 g/cm<sup>3</sup>
     surface_gravity: 8.660 m/s<sup>2</sup><br />(0.883 g<sub>0</sub>)
     escape_velocity: 15.651 km/s<br />(56,342 km/h)
     rotation_period: 0.588 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 604 K<br />(331 °C)
+    temperature: 537 K<br />(264 °C)
     composition:
       - 98.8827% hydrogen
       - 1.1173% argon
@@ -55,14 +55,14 @@ planets:
         radius: 9,387.1 km<br/>(1.473 Yrths)
         surface_area: 1.107 × 10<sup>09</sup> km<sup>2</sup><br/>(2.171 Yrths)
         volume: 3.465 × 10<sup>12</sup> km<sup>3</sup><br/>(3.199 Yrths)
-        mass: 8.416 × 10<sup>24</sup> kg<br />(4.339187198328246 Yrths)
+        mass: 8.416 × 10<sup>24</sup> kg<br />(1.409 Yrths)
         density: 2.429 g/cm<sup>3</sup>
         surface_gravity: 6.366 m/s<sup>2</sup><br />(0.649 g<sub>0</sub>)
         escape_velocity: 10.940 km/s<br />(39,383 km/h)
         rotation_period: 33.178 d
         axial_tilt: 16.42°
         albedo: 0.30
-        temperature: 4688 K<br />(4415 °C)
+        temperature: 387 K<br />(113 °C)
       - name: 0043 Niunioiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -75,14 +75,14 @@ planets:
         radius: 3,406.8 km<br/>(0.535 Yrths)
         surface_area: 1.458 × 10<sup>08</sup> km<sup>2</sup><br/>(0.286 Yrths)
         volume: 1.656 × 10<sup>11</sup> km<sup>3</sup><br/>(0.153 Yrths)
-        mass: 3.861 × 10<sup>23</sup> kg<br />(4.339187198328246 Yrths)
+        mass: 3.861 × 10<sup>23</sup> kg<br />(0.065 Yrths)
         density: 2.331 g/cm<sup>3</sup>
         surface_gravity: 2.217 m/s<sup>2</sup><br />(0.226 g<sub>0</sub>)
         escape_velocity: 3.890 km/s<br />(14,002 km/h)
         rotation_period: 48.238 d
         axial_tilt: 13.85°
         albedo: 0.30
-        temperature: 4470 K<br />(4197 °C)
+        temperature: 387 K<br />(113 °C)
   - name: 0043 Niunioiad II
     type: Large terrestrial
     aphelion: 438,793,908 km<br />2.933 AU
@@ -94,7 +94,7 @@ planets:
     radius: 9,532.5 km<br/>(1.496 Yrths)
     surface_area: 1.142 × 10<sup>09</sup> km<sup>2</sup><br/>(2.239 Yrths)
     volume: 3.628 × 10<sup>12</sup> km<sup>3</sup><br/>(3.350 Yrths)
-    mass: 2.416 × 10<sup>25</sup> kg<br />(4.045548878584863 Yrths)
+    mass: 2.416 × 10<sup>25</sup> kg<br />(4.05 Yrths)
     density: 6.659 g/cm<sup>3</sup>
     surface_gravity: 17.722 m/s<sup>2</sup><br />(1.807 g<sub>0</sub>)
     escape_velocity: 18.393 km/s<br />(66,216 km/h)
@@ -115,14 +115,14 @@ planets:
         radius: 7,256.0 km<br/>(1.139 Yrths)
         surface_area: 6.616 × 10<sup>08</sup> km<sup>2</sup><br/>(1.297 Yrths)
         volume: 1.600 × 10<sup>12</sup> km<sup>3</sup><br/>(1.477 Yrths)
-        mass: 4.674 × 10<sup>24</sup> kg<br />(4.045548878584863 Yrths)
+        mass: 4.674 × 10<sup>24</sup> kg<br />(0.783 Yrths)
         density: 2.921 g/cm<sup>3</sup>
         surface_gravity: 5.917 m/s<sup>2</sup><br />(0.603 g<sub>0</sub>)
         escape_velocity: 9.273 km/s<br />(33,383 km/h)
         rotation_period: 33.257 d
         axial_tilt: 15.71°
         albedo: 0.30
-        temperature: 3432 K<br />(3159 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 0043 Niunioiad II b
         type: Rocky
         formationType: Impact formed
@@ -135,14 +135,14 @@ planets:
         radius: 5,033.3 km<br/>(0.790 Yrths)
         surface_area: 3.184 × 10<sup>08</sup> km<sup>2</sup><br/>(0.624 Yrths)
         volume: 5.341 × 10<sup>11</sup> km<sup>3</sup><br/>(0.493 Yrths)
-        mass: 1.391 × 10<sup>24</sup> kg<br />(4.045548878584863 Yrths)
+        mass: 1.391 × 10<sup>24</sup> kg<br />(0.233 Yrths)
         density: 2.605 g/cm<sup>3</sup>
         surface_gravity: 3.660 m/s<sup>2</sup><br />(0.373 g<sub>0</sub>)
         escape_velocity: 6.074 km/s<br />(21,868 km/h)
         rotation_period: 33.047 d
         axial_tilt: 23.13°
         albedo: 0.30
-        temperature: 3272 K<br />(2999 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 0043 Niunioiad II c
         type: Icy
         formationType: Impact formed
@@ -155,14 +155,14 @@ planets:
         radius: 8,509.7 km<br/>(1.336 Yrths)
         surface_area: 9.100 × 10<sup>08</sup> km<sup>2</sup><br/>(1.784 Yrths)
         volume: 2.581 × 10<sup>12</sup> km<sup>3</sup><br/>(2.383 Yrths)
-        mass: 3.425 × 10<sup>24</sup> kg<br />(4.045548878584863 Yrths)
+        mass: 3.425 × 10<sup>24</sup> kg<br />(0.574 Yrths)
         density: 1.327 g/cm<sup>3</sup>
         surface_gravity: 3.153 m/s<sup>2</sup><br />(0.321 g<sub>0</sub>)
         escape_velocity: 7.330 km/s<br />(26,388 km/h)
         rotation_period: 43.690 d
         axial_tilt: 7.68°
         albedo: 0.30
-        temperature: 3120 K<br />(2847 °C)
+        temperature: 280 K<br />(7 °C)
   - name: 0043 Niunioiad III
     type: Terrestrial
     aphelion: 930,556,636 km<br />6.220 AU
@@ -174,7 +174,7 @@ planets:
     radius: 5,826.6 km<br/>(0.915 Yrths)
     surface_area: 4.266 × 10<sup>08</sup> km<sup>2</sup><br/>(0.836 Yrths)
     volume: 8.286 × 10<sup>11</sup> km<sup>3</sup><br/>(0.765 Yrths)
-    mass: 4.115 × 10<sup>24</sup> kg<br />(0.6890253570694485 Yrths)
+    mass: 4.115 × 10<sup>24</sup> kg<br />(0.69 Yrths)
     density: 4.966 g/cm<sup>3</sup>
     surface_gravity: 8.079 m/s<sup>2</sup><br />(0.824 g<sub>0</sub>)
     escape_velocity: 9.709 km/s<br />(34,953 km/h)
@@ -195,14 +195,14 @@ planets:
         radius: 2,491.3 km<br/>(0.391 Yrths)
         surface_area: 7.800 × 10<sup>07</sup> km<sup>2</sup><br/>(0.153 Yrths)
         volume: 6.477 × 10<sup>10</sup> km<sup>3</sup><br/>(0.060 Yrths)
-        mass: 1.729 × 10<sup>23</sup> kg<br />(0.6890253570694485 Yrths)
+        mass: 1.729 × 10<sup>23</sup> kg<br />(0.029 Yrths)
         density: 2.669 g/cm<sup>3</sup>
         surface_gravity: 1.856 m/s<sup>2</sup><br />(0.189 g<sub>0</sub>)
         escape_velocity: 3.043 km/s<br />(10,956 km/h)
         rotation_period: 32.809 d
         axial_tilt: 17.19°
         albedo: 0.30
-        temperature: 3336 K<br />(3062 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 0043 Niunioiad IV
     type: Gas giant
     aphelion: 1,630,816,323 km<br />10.901 AU
@@ -214,7 +214,7 @@ planets:
     radius: 234.3 km<br/>(0.037 Yrths)
     surface_area: 6.900 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.390 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.985 × 10<sup>27</sup> kg<br />(332.446141213978 Yrths)
+    mass: 1.985 × 10<sup>27</sup> kg<br />(332.45 Yrths)
     density: 36835711.191 g/cm<sup>3</sup>
     surface_gravity: 2409914.108 m/s<sup>2</sup><br />(245742.849 g<sub>0</sub>)
     escape_velocity: 1063.468 km/s<br />(3,828,485 km/h)
@@ -235,14 +235,14 @@ planets:
         radius: 205,798.7 km<br/>(32.302 Yrths)
         surface_area: 5.322 × 10<sup>11</sup> km<sup>2</sup><br/>(1043.446 Yrths)
         volume: 3.651 × 10<sup>16</sup> km<sup>3</sup><br/>(33705.832 Yrths)
-        mass: 6.722 × 10<sup>28</sup> kg<br />(332.446141213978 Yrths)
+        mass: 6.722 × 10<sup>28</sup> kg<br />(11255.535 Yrths)
         density: 1.841 g/cm<sup>3</sup>
         surface_gravity: 105.783 m/s<sup>2</sup><br />(10.787 g<sub>0</sub>)
         escape_velocity: 208.804 km/s<br />(751,696 km/h)
         rotation_period: 49.453 d
         axial_tilt: 26.07°
         albedo: 0.30
-        temperature: 647 K<br />(374 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0043 Niunioiad IV b
         type: Icy
         formationType: Accreted
@@ -255,14 +255,14 @@ planets:
         radius: 189,037.1 km<br/>(29.672 Yrths)
         surface_area: 4.491 × 10<sup>11</sup> km<sup>2</sup><br/>(880.398 Yrths)
         volume: 2.830 × 10<sup>16</sup> km<sup>3</sup><br/>(26122.730 Yrths)
-        mass: 5.376 × 10<sup>28</sup> kg<br />(332.446141213978 Yrths)
+        mass: 5.376 × 10<sup>28</sup> kg<br />(9002.514 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 100.278 m/s<sup>2</sup><br />(10.226 g<sub>0</sub>)
         escape_velocity: 194.844 km/s<br />(701,437 km/h)
         rotation_period: 42.611 d
         axial_tilt: 19.58°
         albedo: 0.30
-        temperature: 510 K<br />(237 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0043 Niunioiad IV c
         type: Rocky
         formationType: Captured
@@ -275,14 +275,14 @@ planets:
         radius: 185,831.8 km<br/>(29.168 Yrths)
         surface_area: 4.340 × 10<sup>11</sup> km<sup>2</sup><br/>(850.794 Yrths)
         volume: 2.688 × 10<sup>16</sup> km<sup>3</sup><br/>(24816.297 Yrths)
-        mass: 7.781 × 10<sup>28</sup> kg<br />(332.446141213978 Yrths)
+        mass: 7.781 × 10<sup>28</sup> kg<br />(13028.705 Yrths)
         density: 2.894 g/cm<sup>3</sup>
         surface_gravity: 150.175 m/s<sup>2</sup><br />(15.314 g<sub>0</sub>)
         escape_velocity: 236.411 km/s<br />(851,081 km/h)
         rotation_period: 40.332 d
         axial_tilt: 14.59°
         albedo: 0.30
-        temperature: 365 K<br />(92 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0043 Niunioiad IV d
         type: Icy
         formationType: Captured
@@ -295,14 +295,14 @@ planets:
         radius: 224,273.9 km<br/>(35.202 Yrths)
         surface_area: 6.321 × 10<sup>11</sup> km<sup>2</sup><br/>(1239.202 Yrths)
         volume: 4.725 × 10<sup>16</sup> km<sup>3</sup><br/>(43622.759 Yrths)
-        mass: 5.630 × 10<sup>28</sup> kg<br />(332.446141213978 Yrths)
+        mass: 5.630 × 10<sup>28</sup> kg<br />(9427.811 Yrths)
         density: 1.192 g/cm<sup>3</sup>
         surface_gravity: 74.609 m/s<sup>2</sup><br />(7.608 g<sub>0</sub>)
         escape_velocity: 183.060 km/s<br />(659,017 km/h)
         rotation_period: 56.020 d
         axial_tilt: 25.72°
         albedo: 0.30
-        temperature: 288 K<br />(15 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0043 Niunioiad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -315,12 +315,12 @@ planets:
         radius: 257,324.1 km<br/>(40.390 Yrths)
         surface_area: 8.321 × 10<sup>11</sup> km<sup>2</sup><br/>(1631.344 Yrths)
         volume: 7.137 × 10<sup>16</sup> km<sup>3</sup><br/>(65889.825 Yrths)
-        mass: 1.246 × 10<sup>29</sup> kg<br />(332.446141213978 Yrths)
+        mass: 1.246 × 10<sup>29</sup> kg<br />(20868.182 Yrths)
         density: 1.746 g/cm<sup>3</sup>
         surface_gravity: 125.447 m/s<sup>2</sup><br />(12.792 g<sub>0</sub>)
         escape_velocity: 254.261 km/s<br />(915,340 km/h)
         rotation_period: 64.462 d
         axial_tilt: 14.77°
         albedo: 0.30
-        temperature: 262 K<br />(-11 °C)
+        temperature: 146 K<br />(-127 °C)
 ---

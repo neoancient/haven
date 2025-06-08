@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0011 Derriathiad A is a star in the constellation Derriath
+      0011 Derriathiad A is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 230.16 ly
 apparent_magnitude: 7.64
 absolute_magnitude: 3.40

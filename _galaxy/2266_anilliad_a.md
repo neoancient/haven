@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2266 Anilliad A is a star in the constellation Anil
+      2266 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 460.07 ly
 apparent_magnitude: 7.88
 absolute_magnitude: 2.13

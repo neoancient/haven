@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7506 Arkothiad is a star in the constellation Arkoth
+      7506 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 306.91 ly
 apparent_magnitude: 14.73
 absolute_magnitude: 9.86

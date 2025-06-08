@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      333 Keead is a star in the constellation Kee
+      333 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 335.83 ly
 apparent_magnitude: 10.37
 absolute_magnitude: 5.31

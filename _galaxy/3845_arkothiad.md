@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3845 Arkothiad is a star in the constellation Arkoth
+      3845 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 400.36 ly
 apparent_magnitude: 10.62
 absolute_magnitude: 5.17

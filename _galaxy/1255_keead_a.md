@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1255 Keead A is a star in the constellation Kee
+      1255 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 691.99 ly
 apparent_magnitude: 8.41
 absolute_magnitude: 1.78

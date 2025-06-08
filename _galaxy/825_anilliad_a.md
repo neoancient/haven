@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      825 Anilliad A is a star in the constellation Anil
+      825 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 381.39 ly
 apparent_magnitude: 7.81
 absolute_magnitude: 2.47

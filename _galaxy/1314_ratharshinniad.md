@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1314 Ratharshinniad is a star in the constellation Ratharshin
+      1314 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 443.31 ly
 apparent_magnitude: 10.40
 absolute_magnitude: 4.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2959 Ratharshinniad is a star in the constellation Ratharshin
+      2959 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 478.15 ly
 apparent_magnitude: 11.56
 absolute_magnitude: 5.73

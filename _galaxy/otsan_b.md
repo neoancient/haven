@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Otsan B is a star in the constellation Rashalth
+      Otsan B is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 488.81 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 4.85

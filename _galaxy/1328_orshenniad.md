@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1328 Orshenniad is a star in the constellation Orshen
+      1328 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 629.85 ly
 apparent_magnitude: 11.36
 absolute_magnitude: 4.93

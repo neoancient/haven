@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      132 Dialkeshiad A is a star in the constellation Dialkes
+      132 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 246.68 ly
 apparent_magnitude: 9.29
 absolute_magnitude: 4.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2164 Saithiad A is a star in the constellation Saith
+      2164 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 305.32 ly
 apparent_magnitude: 8.62
 absolute_magnitude: 3.76

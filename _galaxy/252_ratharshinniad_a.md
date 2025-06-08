@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      252 Ratharshinniad A is a star in the constellation Ratharshin
+      252 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 804.03 ly
 apparent_magnitude: 6.82
 absolute_magnitude: -0.14

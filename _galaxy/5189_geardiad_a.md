@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5189 Geardiad A is a star in the constellation Geard
+      5189 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 190.30 ly
 apparent_magnitude: 9.10
 absolute_magnitude: 5.27

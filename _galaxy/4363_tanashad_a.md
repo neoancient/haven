@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4363 Tanashad A is a star in the constellation Tanas
+      4363 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 609.59 ly
 apparent_magnitude: 7.18
 absolute_magnitude: 0.82

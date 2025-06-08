@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      315 Reggiad is a star in the constellation Reg
+      315 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 884.00 ly
 apparent_magnitude: 10.41
 absolute_magnitude: 3.24

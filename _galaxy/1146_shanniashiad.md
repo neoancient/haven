@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1146 Shanniashiad is a star in the constellation Shannias
+      1146 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 972.86 ly
 apparent_magnitude: 12.73
 absolute_magnitude: 5.35

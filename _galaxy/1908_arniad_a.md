@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1908 Arniad A is a star in the constellation Arni
+      1908 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 341.62 ly
 apparent_magnitude: 10.23
 absolute_magnitude: 5.13

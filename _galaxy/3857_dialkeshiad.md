@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3857 Dialkeshiad is a star in the constellation Dialkes
+      3857 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 528.66 ly
 apparent_magnitude: 11.23
 absolute_magnitude: 5.18

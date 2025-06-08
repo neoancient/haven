@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1824 Arkothiad A is a star in the constellation Arkoth
+      1824 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 403.82 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 4.81

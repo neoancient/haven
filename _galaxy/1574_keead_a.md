@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1574 Keead A is a star in the constellation Kee
+      1574 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 468.55 ly
 apparent_magnitude: 7.89
 absolute_magnitude: 2.10

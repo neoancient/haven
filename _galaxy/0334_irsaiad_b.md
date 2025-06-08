@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0334 Irsaiad B is a star in the constellation Irsa
+      0334 Irsaiad B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 1505.82 ly
 apparent_magnitude: 12.29
 absolute_magnitude: 3.97

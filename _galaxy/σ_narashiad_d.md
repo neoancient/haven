@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Narashiad D is a star in the constellation Naras
+      σ Narashiad D is a star in the constellation <a href="naras.html">Naras</a>
 distance: 358.84 ly
 apparent_magnitude: 11.41
 absolute_magnitude: 6.20
@@ -31,14 +31,14 @@ planets:
     radius: 7,498.6 km<br/>(1.177 Yrths)
     surface_area: 7.066 × 10<sup>08</sup> km<sup>2</sup><br/>(1.385 Yrths)
     volume: 1.766 × 10<sup>12</sup> km<sup>3</sup><br/>(1.630 Yrths)
-    mass: 2.869 × 10<sup>25</sup> kg<br />(4.804103694001404 Yrths)
+    mass: 2.869 × 10<sup>25</sup> kg<br />(4.80 Yrths)
     density: 16.244 g/cm<sup>3</sup>
     surface_gravity: 34.009 m/s<sup>2</sup><br />(3.468 g<sub>0</sub>)
     escape_velocity: 22.599 km/s<br />(81,357 km/h)
     rotation_period: 1.421 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 511 K<br />(238 °C)
+    temperature: 1126 K<br />(852 °C)
     surface_pressure: 192 kPa<br />(2 atm)
     composition:
       - 62.6247% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 2,879.6 km<br/>(0.452 Yrths)
         surface_area: 1.042 × 10<sup>08</sup> km<sup>2</sup><br/>(0.204 Yrths)
         volume: 1.000 × 10<sup>11</sup> km<sup>3</sup><br/>(0.092 Yrths)
-        mass: 3.546 × 10<sup>23</sup> kg<br />(4.804103694001404 Yrths)
+        mass: 3.546 × 10<sup>23</sup> kg<br />(0.059 Yrths)
         density: 3.545 g/cm<sup>3</sup>
         surface_gravity: 2.850 m/s<sup>2</sup><br />(0.291 g<sub>0</sub>)
         escape_velocity: 4.054 km/s<br />(14,595 km/h)
         rotation_period: 50.420 d
         axial_tilt: 14.62°
         albedo: 0.30
-        temperature: 4338 K<br />(4065 °C)
+        temperature: 342 K<br />(69 °C)
       - name: σ Narashiad D I b
         type: Rocky
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 5,863.0 km<br/>(0.920 Yrths)
         surface_area: 4.320 × 10<sup>08</sup> km<sup>2</sup><br/>(0.847 Yrths)
         volume: 8.442 × 10<sup>11</sup> km<sup>3</sup><br/>(0.779 Yrths)
-        mass: 3.039 × 10<sup>24</sup> kg<br />(4.804103694001404 Yrths)
+        mass: 3.039 × 10<sup>24</sup> kg<br />(0.509 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 5.893 m/s<sup>2</sup><br />(0.601 g<sub>0</sub>)
         escape_velocity: 8.318 km/s<br />(29,946 km/h)
         rotation_period: 44.488 d
         axial_tilt: 7.92°
         albedo: 0.30
-        temperature: 4136 K<br />(3863 °C)
+        temperature: 342 K<br />(69 °C)
   - name: σ Narashiad D II
     type: Large terrestrial
     aphelion: 76,184,407 km<br />0.509 AU
@@ -95,7 +95,7 @@ planets:
     radius: 8,578.8 km<br/>(1.347 Yrths)
     surface_area: 9.248 × 10<sup>08</sup> km<sup>2</sup><br/>(1.813 Yrths)
     volume: 2.645 × 10<sup>12</sup> km<sup>3</sup><br/>(2.442 Yrths)
-    mass: 2.200 × 10<sup>25</sup> kg<br />(3.6844199934725133 Yrths)
+    mass: 2.200 × 10<sup>25</sup> kg<br />(3.68 Yrths)
     density: 8.320 g/cm<sup>3</sup>
     surface_gravity: 19.927 m/s<sup>2</sup><br />(2.032 g<sub>0</sub>)
     escape_velocity: 18.503 km/s<br />(66,612 km/h)
@@ -116,14 +116,14 @@ planets:
         radius: 2,288.3 km<br/>(0.359 Yrths)
         surface_area: 6.580 × 10<sup>07</sup> km<sup>2</sup><br/>(0.129 Yrths)
         volume: 5.019 × 10<sup>10</sup> km<sup>3</sup><br/>(0.046 Yrths)
-        mass: 1.214 × 10<sup>23</sup> kg<br />(3.6844199934725133 Yrths)
+        mass: 1.214 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 2.418 g/cm<sup>3</sup>
         surface_gravity: 1.545 m/s<sup>2</sup><br />(0.158 g<sub>0</sub>)
         escape_velocity: 2.661 km/s<br />(9,579 km/h)
         rotation_period: 34.822 d
         axial_tilt: 11.09°
         albedo: 0.30
-        temperature: 2963 K<br />(2690 °C)
+        temperature: 270 K<br />(-3 °C)
       - name: σ Narashiad D II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 9,606.8 km<br/>(1.508 Yrths)
         surface_area: 1.160 × 10<sup>09</sup> km<sup>2</sup><br/>(2.274 Yrths)
         volume: 3.714 × 10<sup>12</sup> km<sup>3</sup><br/>(3.429 Yrths)
-        mass: 6.885 × 10<sup>24</sup> kg<br />(3.6844199934725133 Yrths)
+        mass: 6.885 × 10<sup>24</sup> kg<br />(1.153 Yrths)
         density: 1.854 g/cm<sup>3</sup>
         surface_gravity: 4.972 m/s<sup>2</sup><br />(0.507 g<sub>0</sub>)
         escape_velocity: 9.781 km/s<br />(35,211 km/h)
         rotation_period: 37.801 d
         axial_tilt: 12.59°
         albedo: 0.30
-        temperature: 2825 K<br />(2552 °C)
+        temperature: 270 K<br />(-3 °C)
   - name: σ Narashiad D III
     type: Ice giant
     aphelion: 122,633,984 km<br />0.820 AU
@@ -155,14 +155,14 @@ planets:
     radius: 26,941.8 km<br/>(4.229 Yrths)
     surface_area: 9.121 × 10<sup>09</sup> km<sup>2</sup><br/>(17.883 Yrths)
     volume: 8.192 × 10<sup>13</sup> km<sup>3</sup><br/>(75.624 Yrths)
-    mass: 1.128 × 10<sup>26</sup> kg<br />(18.892270560964416 Yrths)
+    mass: 1.128 × 10<sup>26</sup> kg<br />(18.89 Yrths)
     density: 1.377 g/cm<sup>3</sup>
     surface_gravity: 10.360 m/s<sup>2</sup><br />(1.056 g<sub>0</sub>)
     escape_velocity: 23.643 km/s<br />(85,116 km/h)
     rotation_period: 0.755 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 368 K<br />(95 °C)
+    temperature: 355 K<br />(82 °C)
     composition:
       - 66.2198% hydrogen
       - 29.8912% helium
@@ -181,14 +181,14 @@ planets:
         radius: 24,963.3 km<br/>(3.918 Yrths)
         surface_area: 7.831 × 10<sup>09</sup> km<sup>2</sup><br/>(15.353 Yrths)
         volume: 6.516 × 10<sup>13</sup> km<sup>3</sup><br/>(60.156 Yrths)
-        mass: 2.147 × 10<sup>26</sup> kg<br />(18.892270560964416 Yrths)
+        mass: 2.147 × 10<sup>26</sup> kg<br />(35.958 Yrths)
         density: 3.295 g/cm<sup>3</sup>
         surface_gravity: 22.968 m/s<sup>2</sup><br />(2.342 g<sub>0</sub>)
         escape_velocity: 33.886 km/s<br />(121,990 km/h)
         rotation_period: 36.867 d
         axial_tilt: 16.83°
         albedo: 0.30
-        temperature: 1786 K<br />(1513 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: σ Narashiad D III b
         type: Rocky
         formationType: Accreted
@@ -201,14 +201,14 @@ planets:
         radius: 18,465.3 km<br/>(2.898 Yrths)
         surface_area: 4.285 × 10<sup>09</sup> km<sup>2</sup><br/>(8.400 Yrths)
         volume: 2.637 × 10<sup>13</sup> km<sup>3</sup><br/>(24.347 Yrths)
-        mass: 7.582 × 10<sup>25</sup> kg<br />(18.892270560964416 Yrths)
+        mass: 7.582 × 10<sup>25</sup> kg<br />(12.696 Yrths)
         density: 2.875 g/cm<sup>3</sup>
         surface_gravity: 14.821 m/s<sup>2</sup><br />(1.511 g<sub>0</sub>)
         escape_velocity: 23.412 km/s<br />(84,282 km/h)
         rotation_period: 36.597 d
         axial_tilt: 20.79°
         albedo: 0.30
-        temperature: 1703 K<br />(1430 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: σ Narashiad D III c
         type: Icy
         formationType: Accreted
@@ -221,14 +221,14 @@ planets:
         radius: 12,965.7 km<br/>(2.035 Yrths)
         surface_area: 2.113 × 10<sup>09</sup> km<sup>2</sup><br/>(4.142 Yrths)
         volume: 9.130 × 10<sup>12</sup> km<sup>3</sup><br/>(8.429 Yrths)
-        mass: 1.324 × 10<sup>25</sup> kg<br />(18.892270560964416 Yrths)
+        mass: 1.324 × 10<sup>25</sup> kg<br />(2.217 Yrths)
         density: 1.450 g/cm<sup>3</sup>
         surface_gravity: 5.250 m/s<sup>2</sup><br />(0.535 g<sub>0</sub>)
         escape_velocity: 11.676 km/s<br />(42,034 km/h)
         rotation_period: 49.340 d
         axial_tilt: 21.20°
         albedo: 0.30
-        temperature: 1624 K<br />(1351 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: σ Narashiad D III d
         type: Icy
         formationType: Accreted
@@ -241,14 +241,14 @@ planets:
         radius: 18,215.4 km<br/>(2.859 Yrths)
         surface_area: 4.170 × 10<sup>09</sup> km<sup>2</sup><br/>(8.175 Yrths)
         volume: 2.532 × 10<sup>13</sup> km<sup>3</sup><br/>(23.372 Yrths)
-        mass: 3.809 × 10<sup>25</sup> kg<br />(18.892270560964416 Yrths)
+        mass: 3.809 × 10<sup>25</sup> kg<br />(6.378 Yrths)
         density: 1.505 g/cm<sup>3</sup>
         surface_gravity: 7.652 m/s<sup>2</sup><br />(0.780 g<sub>0</sub>)
         escape_velocity: 16.708 km/s<br />(60,148 km/h)
         rotation_period: 62.851 d
         axial_tilt: 9.12°
         albedo: 0.30
-        temperature: 1548 K<br />(1275 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: σ Narashiad D III e
         type: Icy
         formationType: Captured
@@ -261,14 +261,14 @@ planets:
         radius: 20,053.7 km<br/>(3.148 Yrths)
         surface_area: 5.054 × 10<sup>09</sup> km<sup>2</sup><br/>(9.908 Yrths)
         volume: 3.378 × 10<sup>13</sup> km<sup>3</sup><br/>(31.186 Yrths)
-        mass: 5.148 × 10<sup>25</sup> kg<br />(18.892270560964416 Yrths)
+        mass: 5.148 × 10<sup>25</sup> kg<br />(8.620 Yrths)
         density: 1.524 g/cm<sup>3</sup>
         surface_gravity: 8.532 m/s<sup>2</sup><br />(0.870 g<sub>0</sub>)
         escape_velocity: 18.511 km/s<br />(66,641 km/h)
         rotation_period: 52.954 d
         axial_tilt: 27.59°
         albedo: 0.30
-        temperature: 1408 K<br />(1134 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: σ Narashiad D III f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -281,14 +281,14 @@ planets:
         radius: 17,631.3 km<br/>(2.767 Yrths)
         surface_area: 3.906 × 10<sup>09</sup> km<sup>2</sup><br/>(7.659 Yrths)
         volume: 2.296 × 10<sup>13</sup> km<sup>3</sup><br/>(21.195 Yrths)
-        mass: 5.323 × 10<sup>25</sup> kg<br />(18.892270560964416 Yrths)
+        mass: 5.323 × 10<sup>25</sup> kg<br />(8.913 Yrths)
         density: 2.318 g/cm<sup>3</sup>
         surface_gravity: 11.412 m/s<sup>2</sup><br />(1.164 g<sub>0</sub>)
         escape_velocity: 20.074 km/s<br />(72,267 km/h)
         rotation_period: 51.797 d
         axial_tilt: 18.84°
         albedo: 0.30
-        temperature: 1342 K<br />(1069 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: σ Narashiad D III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -301,14 +301,14 @@ planets:
         radius: 14,390.0 km<br/>(2.259 Yrths)
         surface_area: 2.602 × 10<sup>09</sup> km<sup>2</sup><br/>(5.102 Yrths)
         volume: 1.248 × 10<sup>13</sup> km<sup>3</sup><br/>(11.523 Yrths)
-        mass: 3.371 × 10<sup>25</sup> kg<br />(18.892270560964416 Yrths)
+        mass: 3.371 × 10<sup>25</sup> kg<br />(5.645 Yrths)
         density: 2.701 g/cm<sup>3</sup>
         surface_gravity: 10.852 m/s<sup>2</sup><br />(1.107 g<sub>0</sub>)
         escape_velocity: 17.684 km/s<br />(63,664 km/h)
         rotation_period: 59.760 d
         axial_tilt: 14.17°
         albedo: 0.30
-        temperature: 1280 K<br />(1007 °C)
+        temperature: 213 K<br />(-60 °C)
   - name: σ Narashiad D IV
     type: Terrestrial
     aphelion: 196,955,040 km<br />1.317 AU
@@ -320,14 +320,14 @@ planets:
     radius: 6,028.2 km<br/>(0.946 Yrths)
     surface_area: 4.566 × 10<sup>08</sup> km<sup>2</sup><br/>(0.895 Yrths)
     volume: 9.176 × 10<sup>11</sup> km<sup>3</sup><br/>(0.847 Yrths)
-    mass: 5.223 × 10<sup>24</sup> kg<br />(0.8745420132534975 Yrths)
+    mass: 5.223 × 10<sup>24</sup> kg<br />(0.87 Yrths)
     density: 5.692 g/cm<sup>3</sup>
     surface_gravity: 9.580 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
     escape_velocity: 10.754 km/s<br />(38,715 km/h)
     rotation_period: 1.308 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 183 K<br />(-90 °C)
+    temperature: 170 K<br />(-103 °C)
     surface_pressure: 19 kPa<br />(0 atm)
     composition:
       - 98.6371% nitrogen
@@ -345,14 +345,14 @@ planets:
         radius: 2,766.7 km<br/>(0.434 Yrths)
         surface_area: 9.619 × 10<sup>07</sup> km<sup>2</sup><br/>(0.189 Yrths)
         volume: 8.871 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
-        mass: 2.520 × 10<sup>23</sup> kg<br />(0.8745420132534975 Yrths)
+        mass: 2.520 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 2.840 g/cm<sup>3</sup>
         surface_gravity: 2.194 m/s<sup>2</sup><br />(0.224 g<sub>0</sub>)
         escape_velocity: 3.487 km/s<br />(12,552 km/h)
         rotation_period: 56.034 d
         axial_tilt: 16.69°
         albedo: 0.30
-        temperature: 2341 K<br />(2067 °C)
+        temperature: 168 K<br />(-105 °C)
       - name: σ Narashiad D IV b
         type: Rocky
         formationType: Impact formed
@@ -365,14 +365,14 @@ planets:
         radius: 957.2 km<br/>(0.150 Yrths)
         surface_area: 1.151 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.674 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 1.020 × 10<sup>22</sup> kg<br />(0.8745420132534975 Yrths)
+        mass: 1.020 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.776 g/cm<sup>3</sup>
         surface_gravity: 0.742 m/s<sup>2</sup><br />(0.076 g<sub>0</sub>)
         escape_velocity: 1.193 km/s<br />(4,293 km/h)
         rotation_period: 36.423 d
         axial_tilt: 18.68°
         albedo: 0.30
-        temperature: 2232 K<br />(1958 °C)
+        temperature: 168 K<br />(-105 °C)
   - name: σ Narashiad D V
     type: Ice giant
     aphelion: 318,108,834 km<br />2.126 AU
@@ -384,14 +384,14 @@ planets:
     radius: 30,821.7 km<br/>(4.838 Yrths)
     surface_area: 1.194 × 10<sup>10</sup> km<sup>2</sup><br/>(23.404 Yrths)
     volume: 1.226 × 10<sup>14</sup> km<sup>3</sup><br/>(113.226 Yrths)
-    mass: 1.709 × 10<sup>26</sup> kg<br />(28.621434538828577 Yrths)
+    mass: 1.709 × 10<sup>26</sup> kg<br />(28.62 Yrths)
     density: 1.394 g/cm<sup>3</sup>
     surface_gravity: 11.993 m/s<sup>2</sup><br />(1.223 g<sub>0</sub>)
     escape_velocity: 27.208 km/s<br />(97,948 km/h)
     rotation_period: 0.472 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 227 K<br />(-46 °C)
+    temperature: 206 K<br />(-67 °C)
     composition:
       - 72.5064% hydrogen
       - 24.4816% helium
@@ -409,14 +409,14 @@ planets:
         radius: 19,133.6 km<br/>(3.003 Yrths)
         surface_area: 4.600 × 10<sup>09</sup> km<sup>2</sup><br/>(9.019 Yrths)
         volume: 2.934 × 10<sup>13</sup> km<sup>3</sup><br/>(27.087 Yrths)
-        mass: 6.544 × 10<sup>25</sup> kg<br />(28.621434538828577 Yrths)
+        mass: 6.544 × 10<sup>25</sup> kg<br />(10.958 Yrths)
         density: 2.230 g/cm<sup>3</sup>
         surface_gravity: 11.914 m/s<sup>2</sup><br />(1.215 g<sub>0</sub>)
         escape_velocity: 21.367 km/s<br />(76,921 km/h)
         rotation_period: 47.979 d
         axial_tilt: 19.08°
         albedo: 0.30
-        temperature: 939 K<br />(666 °C)
+        temperature: 132 K<br />(-141 °C)
       - name: σ Narashiad D V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -429,14 +429,14 @@ planets:
         radius: 16,434.9 km<br/>(2.580 Yrths)
         surface_area: 3.394 × 10<sup>09</sup> km<sup>2</sup><br/>(6.655 Yrths)
         volume: 1.859 × 10<sup>13</sup> km<sup>3</sup><br/>(17.166 Yrths)
-        mass: 4.999 × 10<sup>25</sup> kg<br />(28.621434538828577 Yrths)
+        mass: 4.999 × 10<sup>25</sup> kg<br />(8.371 Yrths)
         density: 2.689 g/cm<sup>3</sup>
         surface_gravity: 12.336 m/s<sup>2</sup><br />(1.258 g<sub>0</sub>)
         escape_velocity: 20.150 km/s<br />(72,542 km/h)
         rotation_period: 48.930 d
         axial_tilt: 21.67°
         albedo: 0.30
-        temperature: 854 K<br />(581 °C)
+        temperature: 132 K<br />(-141 °C)
       - name: σ Narashiad D V c
         type: Icy
         formationType: Accreted
@@ -449,14 +449,14 @@ planets:
         radius: 20,463.8 km<br/>(3.212 Yrths)
         surface_area: 5.262 × 10<sup>09</sup> km<sup>2</sup><br/>(10.317 Yrths)
         volume: 3.590 × 10<sup>13</sup> km<sup>3</sup><br/>(33.139 Yrths)
-        mass: 5.164 × 10<sup>25</sup> kg<br />(28.621434538828577 Yrths)
+        mass: 5.164 × 10<sup>25</sup> kg<br />(8.646 Yrths)
         density: 1.438 g/cm<sup>3</sup>
         surface_gravity: 8.219 m/s<sup>2</sup><br />(0.838 g<sub>0</sub>)
         escape_velocity: 18.353 km/s<br />(66,070 km/h)
         rotation_period: 44.036 d
         axial_tilt: 22.84°
         albedo: 0.30
-        temperature: 814 K<br />(541 °C)
+        temperature: 132 K<br />(-141 °C)
       - name: σ Narashiad D V d
         type: Dwarf planet
         formationType: Captured
@@ -469,14 +469,14 @@ planets:
         radius: 20,121.1 km<br/>(3.158 Yrths)
         surface_area: 5.088 × 10<sup>09</sup> km<sup>2</sup><br/>(9.974 Yrths)
         volume: 3.412 × 10<sup>13</sup> km<sup>3</sup><br/>(31.502 Yrths)
-        mass: 7.472 × 10<sup>25</sup> kg<br />(28.621434538828577 Yrths)
+        mass: 7.472 × 10<sup>25</sup> kg<br />(12.511 Yrths)
         density: 2.190 g/cm<sup>3</sup>
         surface_gravity: 12.301 m/s<sup>2</sup><br />(1.254 g<sub>0</sub>)
         escape_velocity: 22.264 km/s<br />(80,150 km/h)
         rotation_period: 56.136 d
         axial_tilt: 23.83°
         albedo: 0.30
-        temperature: 776 K<br />(503 °C)
+        temperature: 132 K<br />(-141 °C)
       - name: σ Narashiad D V e
         type: Ice/rock hybrid
         formationType: Captured
@@ -489,14 +489,14 @@ planets:
         radius: 28,434.9 km<br/>(4.463 Yrths)
         surface_area: 1.016 × 10<sup>10</sup> km<sup>2</sup><br/>(19.920 Yrths)
         volume: 9.630 × 10<sup>13</sup> km<sup>3</sup><br/>(88.906 Yrths)
-        mass: 2.129 × 10<sup>26</sup> kg<br />(28.621434538828577 Yrths)
+        mass: 2.129 × 10<sup>26</sup> kg<br />(35.643 Yrths)
         density: 2.210 g/cm<sup>3</sup>
         surface_gravity: 17.547 m/s<sup>2</sup><br />(1.789 g<sub>0</sub>)
         escape_velocity: 31.611 km/s<br />(113,800 km/h)
         rotation_period: 38.111 d
         axial_tilt: 26.27°
         albedo: 0.30
-        temperature: 673 K<br />(400 °C)
+        temperature: 132 K<br />(-141 °C)
       - name: σ Narashiad D V f
         type: Rocky
         formationType: Accreted
@@ -509,14 +509,14 @@ planets:
         radius: 21,342.8 km<br/>(3.350 Yrths)
         surface_area: 5.724 × 10<sup>09</sup> km<sup>2</sup><br/>(11.222 Yrths)
         volume: 4.072 × 10<sup>13</sup> km<sup>3</sup><br/>(37.595 Yrths)
-        mass: 1.177 × 10<sup>26</sup> kg<br />(28.621434538828577 Yrths)
+        mass: 1.177 × 10<sup>26</sup> kg<br />(19.710 Yrths)
         density: 2.890 g/cm<sup>3</sup>
         surface_gravity: 17.223 m/s<sup>2</sup><br />(1.756 g<sub>0</sub>)
         escape_velocity: 27.133 km/s<br />(97,678 km/h)
         rotation_period: 32.637 d
         axial_tilt: 21.08°
         albedo: 0.30
-        temperature: 612 K<br />(339 °C)
+        temperature: 132 K<br />(-141 °C)
       - name: σ Narashiad D V g
         type: Icy
         formationType: Impact formed
@@ -529,14 +529,14 @@ planets:
         radius: 22,991.7 km<br/>(3.609 Yrths)
         surface_area: 6.643 × 10<sup>09</sup> km<sup>2</sup><br/>(13.023 Yrths)
         volume: 5.091 × 10<sup>13</sup> km<sup>3</sup><br/>(46.999 Yrths)
-        mass: 5.122 × 10<sup>25</sup> kg<br />(28.621434538828577 Yrths)
+        mass: 5.122 × 10<sup>25</sup> kg<br />(8.576 Yrths)
         density: 1.006 g/cm<sup>3</sup>
         surface_gravity: 6.458 m/s<sup>2</sup><br />(0.659 g<sub>0</sub>)
         escape_velocity: 17.244 km/s<br />(62,078 km/h)
         rotation_period: 74.452 d
         axial_tilt: 19.41°
         albedo: 0.30
-        temperature: 556 K<br />(283 °C)
+        temperature: 132 K<br />(-141 °C)
       - name: σ Narashiad D V h
         type: Icy
         formationType: Captured
@@ -549,12 +549,12 @@ planets:
         radius: 52,100.0 km<br/>(8.178 Yrths)
         surface_area: 3.411 × 10<sup>10</sup> km<sup>2</sup><br/>(66.874 Yrths)
         volume: 5.924 × 10<sup>14</sup> km<sup>3</sup><br/>(546.878 Yrths)
-        mass: 4.681 × 10<sup>26</sup> kg<br />(28.621434538828577 Yrths)
+        mass: 4.681 × 10<sup>26</sup> kg<br />(78.375 Yrths)
         density: 0.790 g/cm<sup>3</sup>
         surface_gravity: 11.493 m/s<sup>2</sup><br />(1.172 g<sub>0</sub>)
         escape_velocity: 34.630 km/s<br />(124,667 km/h)
         rotation_period: 75.781 d
         axial_tilt: 14.81°
         albedo: 0.30
-        temperature: 482 K<br />(209 °C)
+        temperature: 132 K<br />(-141 °C)
 ---

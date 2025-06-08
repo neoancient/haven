@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4219 Athiad A is a star in the constellation Ath
+      4219 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 589.83 ly
 apparent_magnitude: 8.13
 absolute_magnitude: 1.84

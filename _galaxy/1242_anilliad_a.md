@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1242 Anilliad A is a star in the constellation Anil
+      1242 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 454.02 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 3.11

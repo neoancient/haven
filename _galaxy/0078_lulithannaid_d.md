@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0078 Lulithannaid D is a star in the constellation Lulithan
+      0078 Lulithannaid D is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 2307.91 ly
 apparent_magnitude: 7.67
 absolute_magnitude: -1.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0069 Kinanniad A is a star in the constellation Kinan
+      0069 Kinanniad A is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 73.99 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 6.37

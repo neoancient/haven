@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1343 Oniad A is a star in the constellation Oni
+      1343 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 200.66 ly
 apparent_magnitude: 7.37
 absolute_magnitude: 3.42

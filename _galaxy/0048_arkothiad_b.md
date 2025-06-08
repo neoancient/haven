@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0048 Arkothiad B is a star in the constellation Arkoth
+      0048 Arkothiad B is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 245.66 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 6.40

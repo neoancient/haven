@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4322 Ratharshinniad is a star in the constellation Ratharshin
+      4322 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 535.26 ly
 apparent_magnitude: 11.81
 absolute_magnitude: 5.73

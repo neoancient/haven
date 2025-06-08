@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2593 Athiad is a star in the constellation Ath
+      2593 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 617.38 ly
 apparent_magnitude: 8.02
 absolute_magnitude: 1.63
@@ -31,14 +31,14 @@ planets:
     radius: 7,310.8 km<br/>(1.148 Yrths)
     surface_area: 6.716 × 10<sup>08</sup> km<sup>2</sup><br/>(1.317 Yrths)
     volume: 1.637 × 10<sup>12</sup> km<sup>3</sup><br/>(1.511 Yrths)
-    mass: 1.170 × 10<sup>25</sup> kg<br />(1.9599098285600414 Yrths)
+    mass: 1.170 × 10<sup>25</sup> kg<br />(1.96 Yrths)
     density: 7.151 g/cm<sup>3</sup>
     surface_gravity: 14.596 m/s<sup>2</sup><br />(1.488 g<sub>0</sub>)
     escape_velocity: 14.619 km/s<br />(52,628 km/h)
     rotation_period: 0.713 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 726 K<br />(453 °C)
+    temperature: 1786 K<br />(1513 °C)
     surface_pressure: 2,553 kPa<br />(25 atm)
     composition:
       - 65.1373% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 3,745.2 km<br/>(0.588 Yrths)
         surface_area: 1.763 × 10<sup>08</sup> km<sup>2</sup><br/>(0.346 Yrths)
         volume: 2.200 × 10<sup>11</sup> km<sup>3</sup><br/>(0.203 Yrths)
-        mass: 6.560 × 10<sup>23</sup> kg<br />(1.9599098285600414 Yrths)
+        mass: 6.560 × 10<sup>23</sup> kg<br />(0.110 Yrths)
         density: 2.981 g/cm<sup>3</sup>
         surface_gravity: 3.118 m/s<sup>2</sup><br />(0.318 g<sub>0</sub>)
         escape_velocity: 4.836 km/s<br />(17,408 km/h)
         rotation_period: 36.162 d
         axial_tilt: 57.90°
         albedo: 0.30
-        temperature: 7104 K<br />(6831 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 2593 Athiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 3,552.7 km<br/>(0.558 Yrths)
         surface_area: 1.586 × 10<sup>08</sup> km<sup>2</sup><br/>(0.311 Yrths)
         volume: 1.878 × 10<sup>11</sup> km<sup>3</sup><br/>(0.173 Yrths)
-        mass: 3.639 × 10<sup>23</sup> kg<br />(1.9599098285600414 Yrths)
+        mass: 3.639 × 10<sup>23</sup> kg<br />(0.061 Yrths)
         density: 1.937 g/cm<sup>3</sup>
         surface_gravity: 1.921 m/s<sup>2</sup><br />(0.196 g<sub>0</sub>)
         escape_velocity: 3.697 km/s<br />(13,311 km/h)
         rotation_period: 41.287 d
         axial_tilt: 13.47°
         albedo: 0.30
-        temperature: 6774 K<br />(6501 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 2593 Athiad I c
         type: Rocky
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 3,748.2 km<br/>(0.588 Yrths)
         surface_area: 1.765 × 10<sup>08</sup> km<sup>2</sup><br/>(0.346 Yrths)
         volume: 2.206 × 10<sup>11</sup> km<sup>3</sup><br/>(0.204 Yrths)
-        mass: 6.480 × 10<sup>23</sup> kg<br />(1.9599098285600414 Yrths)
+        mass: 6.480 × 10<sup>23</sup> kg<br />(0.109 Yrths)
         density: 2.938 g/cm<sup>3</sup>
         surface_gravity: 3.074 m/s<sup>2</sup><br />(0.314 g<sub>0</sub>)
         escape_velocity: 4.804 km/s<br />(17,294 km/h)
         rotation_period: 34.269 d
         axial_tilt: 7.91°
         albedo: 0.30
-        temperature: 6459 K<br />(6185 °C)
+        temperature: 401 K<br />(128 °C)
   - name: 2593 Athiad II
     type: Gas giant
     aphelion: 582,969,721 km<br />3.897 AU
@@ -117,14 +117,14 @@ planets:
     radius: 158.8 km<br/>(0.025 Yrths)
     surface_area: 3.168 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.677 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.740 × 10<sup>26</sup> kg<br />(62.628341439664695 Yrths)
+    mass: 3.740 × 10<sup>26</sup> kg<br />(62.63 Yrths)
     density: 22306537.858 g/cm<sup>3</sup>
     surface_gravity: 988841.859 m/s<sup>2</sup><br />(100833.808 g<sub>0</sub>)
     escape_velocity: 560.749 km/s<br />(2,018,695 km/h)
     rotation_period: 0.275 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1199 K<br />(926 °C)
+    temperature: 1165 K<br />(892 °C)
     composition:
       - 88.9207% hydrogen
       - 7.6794% helium
@@ -142,14 +142,14 @@ planets:
         radius: 104,706.5 km<br/>(16.435 Yrths)
         surface_area: 1.378 × 10<sup>11</sup> km<sup>2</sup><br/>(270.105 Yrths)
         volume: 4.809 × 10<sup>15</sup> km<sup>3</sup><br/>(4439.136 Yrths)
-        mass: 9.876 × 10<sup>27</sup> kg<br />(62.628341439664695 Yrths)
+        mass: 9.876 × 10<sup>27</sup> kg<br />(1653.731 Yrths)
         density: 2.054 g/cm<sup>3</sup>
         surface_gravity: 60.042 m/s<sup>2</sup><br />(6.123 g<sub>0</sub>)
         escape_velocity: 112.208 km/s<br />(403,948 km/h)
         rotation_period: 60.288 d
         axial_tilt: 16.94°
         albedo: 0.30
-        temperature: 2277 K<br />(2004 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2593 Athiad II b
         type: Rocky
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 58,523.7 km<br/>(9.186 Yrths)
         surface_area: 4.304 × 10<sup>10</sup> km<sup>2</sup><br/>(84.382 Yrths)
         volume: 8.396 × 10<sup>14</sup> km<sup>3</sup><br/>(775.127 Yrths)
-        mass: 2.532 × 10<sup>27</sup> kg<br />(62.628341439664695 Yrths)
+        mass: 2.532 × 10<sup>27</sup> kg<br />(423.973 Yrths)
         density: 3.016 g/cm<sup>3</sup>
         surface_gravity: 49.273 m/s<sup>2</sup><br />(5.024 g<sub>0</sub>)
         escape_velocity: 75.994 km/s<br />(273,580 km/h)
         rotation_period: 47.361 d
         axial_tilt: 24.13°
         albedo: 0.30
-        temperature: 2171 K<br />(1898 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2593 Athiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -182,14 +182,14 @@ planets:
         radius: 72,969.6 km<br/>(11.453 Yrths)
         surface_area: 6.691 × 10<sup>10</sup> km<sup>2</sup><br/>(131.180 Yrths)
         volume: 1.627 × 10<sup>15</sup> km<sup>3</sup><br/>(1502.463 Yrths)
-        mass: 3.947 × 10<sup>27</sup> kg<br />(62.628341439664695 Yrths)
+        mass: 3.947 × 10<sup>27</sup> kg<br />(660.875 Yrths)
         density: 2.425 g/cm<sup>3</sup>
         surface_gravity: 49.405 m/s<sup>2</sup><br />(5.038 g<sub>0</sub>)
         escape_velocity: 84.970 km/s<br />(305,892 km/h)
         rotation_period: 49.617 d
         axial_tilt: 29.93°
         albedo: 0.30
-        temperature: 2070 K<br />(1797 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2593 Athiad II d
         type: Icy
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 113,973.1 km<br/>(17.889 Yrths)
         surface_area: 1.632 × 10<sup>11</sup> km<sup>2</sup><br/>(320.029 Yrths)
         volume: 6.201 × 10<sup>15</sup> km<sup>3</sup><br/>(5725.110 Yrths)
-        mass: 7.279 × 10<sup>27</sup> kg<br />(62.628341439664695 Yrths)
+        mass: 7.279 × 10<sup>27</sup> kg<br />(1218.830 Yrths)
         density: 1.174 g/cm<sup>3</sup>
         surface_gravity: 37.349 m/s<sup>2</sup><br />(3.808 g<sub>0</sub>)
         escape_velocity: 92.331 km/s<br />(332,392 km/h)
         rotation_period: 47.678 d
         axial_tilt: 13.21°
         albedo: 0.30
-        temperature: 1794 K<br />(1521 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2593 Athiad II e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -222,14 +222,14 @@ planets:
         radius: 111,775.2 km<br/>(17.544 Yrths)
         surface_area: 1.570 × 10<sup>11</sup> km<sup>2</sup><br/>(307.805 Yrths)
         volume: 5.850 × 10<sup>15</sup> km<sup>3</sup><br/>(5400.241 Yrths)
-        mass: 1.463 × 10<sup>28</sup> kg<br />(62.628341439664695 Yrths)
+        mass: 1.463 × 10<sup>28</sup> kg<br />(2449.414 Yrths)
         density: 2.501 g/cm<sup>3</sup>
         surface_gravity: 78.038 m/s<sup>2</sup><br />(7.958 g<sub>0</sub>)
         escape_velocity: 132.171 km/s<br />(475,816 km/h)
         rotation_period: 53.261 d
         axial_tilt: 22.88°
         albedo: 0.30
-        temperature: 1711 K<br />(1437 °C)
+        temperature: 284 K<br />(11 °C)
   - name: 2593 Athiad III
     type: Ice giant
     aphelion: 1,184,162,164 km<br />7.916 AU
@@ -241,14 +241,14 @@ planets:
     radius: 23,860.0 km<br/>(3.745 Yrths)
     surface_area: 7.154 × 10<sup>09</sup> km<sup>2</sup><br/>(14.026 Yrths)
     volume: 5.690 × 10<sup>13</sup> km<sup>3</sup><br/>(52.528 Yrths)
-    mass: 7.935 × 10<sup>25</sup> kg<br />(13.287356871692028 Yrths)
+    mass: 7.935 × 10<sup>25</sup> kg<br />(13.29 Yrths)
     density: 1.395 g/cm<sup>3</sup>
     surface_gravity: 9.290 m/s<sup>2</sup><br />(0.947 g<sub>0</sub>)
     escape_velocity: 21.070 km/s<br />(75,851 km/h)
     rotation_period: 0.340 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 415 K<br />(142 °C)
+    temperature: 380 K<br />(106 °C)
     composition:
       - 79.5611% hydrogen
       - 18.9020% helium
@@ -267,14 +267,14 @@ planets:
         radius: 29,874.8 km<br/>(4.689 Yrths)
         surface_area: 1.122 × 10<sup>10</sup> km<sup>2</sup><br/>(21.989 Yrths)
         volume: 1.117 × 10<sup>14</sup> km<sup>3</sup><br/>(103.108 Yrths)
-        mass: 1.203 × 10<sup>26</sup> kg<br />(13.287356871692028 Yrths)
+        mass: 1.203 × 10<sup>26</sup> kg<br />(20.146 Yrths)
         density: 1.077 g/cm<sup>3</sup>
         surface_gravity: 8.985 m/s<sup>2</sup><br />(0.916 g<sub>0</sub>)
         escape_velocity: 23.186 km/s<br />(83,469 km/h)
         rotation_period: 58.968 d
         axial_tilt: 18.64°
         albedo: 0.30
-        temperature: 2087 K<br />(1814 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 2593 Athiad III b
         type: Asteroid
         formationType: Captured
@@ -287,14 +287,14 @@ planets:
         radius: 23,756.2 km<br/>(3.729 Yrths)
         surface_area: 7.092 × 10<sup>09</sup> km<sup>2</sup><br/>(13.904 Yrths)
         volume: 5.616 × 10<sup>13</sup> km<sup>3</sup><br/>(51.845 Yrths)
-        mass: 1.375 × 10<sup>26</sup> kg<br />(13.287356871692028 Yrths)
+        mass: 1.375 × 10<sup>26</sup> kg<br />(23.022 Yrths)
         density: 2.448 g/cm<sup>3</sup>
         surface_gravity: 16.238 m/s<sup>2</sup><br />(1.656 g<sub>0</sub>)
         escape_velocity: 27.795 km/s<br />(100,060 km/h)
         rotation_period: 31.783 d
         axial_tilt: 20.56°
         albedo: 0.30
-        temperature: 1990 K<br />(1717 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 2593 Athiad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -307,14 +307,14 @@ planets:
         radius: 24,063.3 km<br/>(3.777 Yrths)
         surface_area: 7.276 × 10<sup>09</sup> km<sup>2</sup><br/>(14.266 Yrths)
         volume: 5.837 × 10<sup>13</sup> km<sup>3</sup><br/>(53.882 Yrths)
-        mass: 1.619 × 10<sup>26</sup> kg<br />(13.287356871692028 Yrths)
+        mass: 1.619 × 10<sup>26</sup> kg<br />(27.115 Yrths)
         density: 2.774 g/cm<sup>3</sup>
         surface_gravity: 18.639 m/s<sup>2</sup><br />(1.901 g<sub>0</sub>)
         escape_velocity: 29.971 km/s<br />(107,896 km/h)
         rotation_period: 32.491 d
         axial_tilt: 31.88°
         albedo: 0.30
-        temperature: 1898 K<br />(1624 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 2593 Athiad III d
         type: Icy
         formationType: Captured
@@ -327,14 +327,14 @@ planets:
         radius: 15,747.7 km<br/>(2.472 Yrths)
         surface_area: 3.116 × 10<sup>09</sup> km<sup>2</sup><br/>(6.110 Yrths)
         volume: 1.636 × 10<sup>13</sup> km<sup>3</sup><br/>(15.102 Yrths)
-        mass: 1.617 × 10<sup>25</sup> kg<br />(13.287356871692028 Yrths)
+        mass: 1.617 × 10<sup>25</sup> kg<br />(2.708 Yrths)
         density: 0.989 g/cm<sup>3</sup>
         surface_gravity: 4.347 m/s<sup>2</sup><br />(0.443 g<sub>0</sub>)
         escape_velocity: 11.709 km/s<br />(42,153 km/h)
         rotation_period: 63.780 d
         axial_tilt: 19.37°
         albedo: 0.30
-        temperature: 1725 K<br />(1452 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 2593 Athiad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -347,14 +347,14 @@ planets:
         radius: 14,697.4 km<br/>(2.307 Yrths)
         surface_area: 2.715 × 10<sup>09</sup> km<sup>2</sup><br/>(5.322 Yrths)
         volume: 1.330 × 10<sup>13</sup> km<sup>3</sup><br/>(12.277 Yrths)
-        mass: 3.096 × 10<sup>25</sup> kg<br />(13.287356871692028 Yrths)
+        mass: 3.096 × 10<sup>25</sup> kg<br />(5.185 Yrths)
         density: 2.328 g/cm<sup>3</sup>
         surface_gravity: 9.554 m/s<sup>2</sup><br />(0.974 g<sub>0</sub>)
         escape_velocity: 16.769 km/s<br />(60,370 km/h)
         rotation_period: 34.914 d
         axial_tilt: 26.45°
         albedo: 0.30
-        temperature: 1645 K<br />(1372 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 2593 Athiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -367,14 +367,14 @@ planets:
         radius: 14,487.3 km<br/>(2.274 Yrths)
         surface_area: 2.637 × 10<sup>09</sup> km<sup>2</sup><br/>(5.171 Yrths)
         volume: 1.274 × 10<sup>13</sup> km<sup>3</sup><br/>(11.758 Yrths)
-        mass: 3.140 × 10<sup>25</sup> kg<br />(13.287356871692028 Yrths)
+        mass: 3.140 × 10<sup>25</sup> kg<br />(5.257 Yrths)
         density: 2.465 g/cm<sup>3</sup>
         surface_gravity: 9.971 m/s<sup>2</sup><br />(1.017 g<sub>0</sub>)
         escape_velocity: 17.009 km/s<br />(61,231 km/h)
         rotation_period: 43.591 d
         axial_tilt: 21.76°
         albedo: 0.30
-        temperature: 1568 K<br />(1295 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 2593 Athiad III g
         type: Icy
         formationType: Accreted
@@ -387,14 +387,14 @@ planets:
         radius: 34,677.6 km<br/>(5.443 Yrths)
         surface_area: 1.511 × 10<sup>10</sup> km<sup>2</sup><br/>(29.627 Yrths)
         volume: 1.747 × 10<sup>14</sup> km<sup>3</sup><br/>(161.259 Yrths)
-        mass: 1.223 × 10<sup>26</sup> kg<br />(13.287356871692028 Yrths)
+        mass: 1.223 × 10<sup>26</sup> kg<br />(20.474 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 6.777 m/s<sup>2</sup><br />(0.691 g<sub>0</sub>)
         escape_velocity: 21.695 km/s<br />(78,102 km/h)
         rotation_period: 112.478 d
         axial_tilt: 19.21°
         albedo: 0.30
-        temperature: 1495 K<br />(1222 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 2593 Athiad III h
         type: Asteroid
         formationType: Captured
@@ -407,14 +407,14 @@ planets:
         radius: 13,257.0 km<br/>(2.081 Yrths)
         surface_area: 2.209 × 10<sup>09</sup> km<sup>2</sup><br/>(4.330 Yrths)
         volume: 9.759 × 10<sup>12</sup> km<sup>3</sup><br/>(9.010 Yrths)
-        mass: 1.583 × 10<sup>25</sup> kg<br />(13.287356871692028 Yrths)
+        mass: 1.583 × 10<sup>25</sup> kg<br />(2.651 Yrths)
         density: 1.622 g/cm<sup>3</sup>
         surface_gravity: 6.004 m/s<sup>2</sup><br />(0.612 g<sub>0</sub>)
         escape_velocity: 12.626 km/s<br />(45,453 km/h)
         rotation_period: 49.960 d
         axial_tilt: 16.95°
         albedo: 0.30
-        temperature: 1426 K<br />(1152 °C)
+        temperature: 202 K<br />(-72 °C)
   - name: 2593 Athiad IV
     type: Ice giant
     aphelion: 2,276,336,657 km<br />15.216 AU
@@ -426,14 +426,14 @@ planets:
     radius: 34,020.0 km<br/>(5.340 Yrths)
     surface_area: 1.454 × 10<sup>10</sup> km<sup>2</sup><br/>(28.514 Yrths)
     volume: 1.649 × 10<sup>14</sup> km<sup>3</sup><br/>(152.257 Yrths)
-    mass: 2.686 × 10<sup>26</sup> kg<br />(44.9810127108137 Yrths)
+    mass: 2.686 × 10<sup>26</sup> kg<br />(44.98 Yrths)
     density: 1.629 g/cm<sup>3</sup>
     surface_gravity: 15.470 m/s<sup>2</sup><br />(1.578 g<sub>0</sub>)
     escape_velocity: 32.466 km/s<br />(116,877 km/h)
     rotation_period: 0.283 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 313 K<br />(40 °C)
+    temperature: 296 K<br />(22 °C)
     composition:
       - 77.0543% hydrogen
       - 14.5651% helium
@@ -453,14 +453,14 @@ planets:
         radius: 36,224.3 km<br/>(5.686 Yrths)
         surface_area: 1.649 × 10<sup>10</sup> km<sup>2</sup><br/>(32.328 Yrths)
         volume: 1.991 × 10<sup>14</sup> km<sup>3</sup><br/>(183.813 Yrths)
-        mass: 6.025 × 10<sup>26</sup> kg<br />(44.9810127108137 Yrths)
+        mass: 6.025 × 10<sup>26</sup> kg<br />(100.881 Yrths)
         density: 3.026 g/cm<sup>3</sup>
         surface_gravity: 30.602 m/s<sup>2</sup><br />(3.121 g<sub>0</sub>)
         escape_velocity: 47.118 km/s<br />(169,623 km/h)
         rotation_period: 33.389 d
         axial_tilt: 16.06°
         albedo: 0.30
-        temperature: 1212 K<br />(938 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 2593 Athiad IV b
         type: Dwarf planet
         formationType: Captured
@@ -473,14 +473,14 @@ planets:
         radius: 51,320.8 km<br/>(8.055 Yrths)
         surface_area: 3.310 × 10<sup>10</sup> km<sup>2</sup><br/>(64.889 Yrths)
         volume: 5.662 × 10<sup>14</sup> km<sup>3</sup><br/>(522.707 Yrths)
-        mass: 1.166 × 10<sup>27</sup> kg<br />(44.9810127108137 Yrths)
+        mass: 1.166 × 10<sup>27</sup> kg<br />(195.184 Yrths)
         density: 2.059 g/cm<sup>3</sup>
         surface_gravity: 29.498 m/s<sup>2</sup><br />(3.008 g<sub>0</sub>)
         escape_velocity: 55.062 km/s<br />(198,224 km/h)
         rotation_period: 67.848 d
         axial_tilt: 32.36°
         albedo: 0.30
-        temperature: 1101 K<br />(828 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 2593 Athiad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -493,14 +493,14 @@ planets:
         radius: 33,449.3 km<br/>(5.250 Yrths)
         surface_area: 1.406 × 10<sup>10</sup> km<sup>2</sup><br/>(27.565 Yrths)
         volume: 1.568 × 10<sup>14</sup> km<sup>3</sup><br/>(144.723 Yrths)
-        mass: 4.389 × 10<sup>26</sup> kg<br />(44.9810127108137 Yrths)
+        mass: 4.389 × 10<sup>26</sup> kg<br />(73.500 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 26.149 m/s<sup>2</sup><br />(2.666 g<sub>0</sub>)
         escape_velocity: 41.853 km/s<br />(150,671 km/h)
         rotation_period: 31.958 d
         axial_tilt: 23.43°
         albedo: 0.30
-        temperature: 1050 K<br />(777 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 2593 Athiad IV d
         type: Dwarf planet
         formationType: Impact formed
@@ -513,14 +513,14 @@ planets:
         radius: 36,920.3 km<br/>(5.795 Yrths)
         surface_area: 1.713 × 10<sup>10</sup> km<sup>2</sup><br/>(33.583 Yrths)
         volume: 2.108 × 10<sup>14</sup> km<sup>3</sup><br/>(194.614 Yrths)
-        mass: 4.791 × 10<sup>26</sup> kg<br />(44.9810127108137 Yrths)
+        mass: 4.791 × 10<sup>26</sup> kg<br />(80.228 Yrths)
         density: 2.273 g/cm<sup>3</sup>
         surface_gravity: 23.428 m/s<sup>2</sup><br />(2.389 g<sub>0</sub>)
         escape_velocity: 41.621 km/s<br />(149,834 km/h)
         rotation_period: 35.015 d
         axial_tilt: 28.54°
         albedo: 0.30
-        temperature: 955 K<br />(682 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 2593 Athiad IV e
         type: Icy
         formationType: Accreted
@@ -533,14 +533,14 @@ planets:
         radius: 45,920.7 km<br/>(7.208 Yrths)
         surface_area: 2.650 × 10<sup>10</sup> km<sup>2</sup><br/>(51.952 Yrths)
         volume: 4.056 × 10<sup>14</sup> km<sup>3</sup><br/>(374.457 Yrths)
-        mass: 4.085 × 10<sup>26</sup> kg<br />(44.9810127108137 Yrths)
+        mass: 4.085 × 10<sup>26</sup> kg<br />(68.408 Yrths)
         density: 1.007 g/cm<sup>3</sup>
         surface_gravity: 12.913 m/s<sup>2</sup><br />(1.317 g<sub>0</sub>)
         escape_velocity: 34.461 km/s<br />(124,060 km/h)
         rotation_period: 90.741 d
         axial_tilt: 25.25°
         albedo: 0.30
-        temperature: 910 K<br />(637 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 2593 Athiad IV f
         type: Asteroid
         formationType: Captured
@@ -553,12 +553,12 @@ planets:
         radius: 37,731.9 km<br/>(5.922 Yrths)
         surface_area: 1.789 × 10<sup>10</sup> km<sup>2</sup><br/>(35.075 Yrths)
         volume: 2.250 × 10<sup>14</sup> km<sup>3</sup><br/>(207.731 Yrths)
-        mass: 5.485 × 10<sup>26</sup> kg<br />(44.9810127108137 Yrths)
+        mass: 5.485 × 10<sup>26</sup> kg<br />(91.845 Yrths)
         density: 2.438 g/cm<sup>3</sup>
         surface_gravity: 25.679 m/s<sup>2</sup><br />(2.619 g<sub>0</sub>)
         escape_velocity: 44.051 km/s<br />(158,582 km/h)
         rotation_period: 60.143 d
         axial_tilt: 13.37°
         albedo: 0.30
-        temperature: 868 K<br />(595 °C)
+        temperature: 143 K<br />(-130 °C)
 ---

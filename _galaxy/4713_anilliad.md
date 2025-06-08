@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4713 Anilliad is a star in the constellation Anil
+      4713 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 512.20 ly
 apparent_magnitude: 11.65
 absolute_magnitude: 5.67

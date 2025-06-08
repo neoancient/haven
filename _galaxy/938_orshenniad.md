@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      938 Orshenniad is a star in the constellation Orshen
+      938 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 466.65 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 5.62

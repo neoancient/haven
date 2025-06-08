@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1465 Irsaiad is a star in the constellation Irsa
+      1465 Irsaiad is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 325.88 ly
 apparent_magnitude: 11.31
 absolute_magnitude: 6.31

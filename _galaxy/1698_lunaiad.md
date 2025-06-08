@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1698 Lunaiad is a star in the constellation Luna
+      1698 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 448.56 ly
 apparent_magnitude: 11.97
 absolute_magnitude: 6.27

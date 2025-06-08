@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1518 Anilliad is a star in the constellation Anil
+      1518 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 431.03 ly
 apparent_magnitude: 12.32
 absolute_magnitude: 6.71

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0108 Enlinniad B is a star in the constellation Enlin
+      0108 Enlinniad B is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 89.20 ly
 apparent_magnitude: 8.68
 absolute_magnitude: 6.49

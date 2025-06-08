@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      710 Erikkiad A is a star in the constellation Erik
+      710 Erikkiad A is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1024.22 ly
 apparent_magnitude: 7.41
 absolute_magnitude: -0.08

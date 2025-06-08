@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0113 Nuaniad B is a star in the constellation Nuani
+      0113 Nuaniad B is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 238.78 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 4.51

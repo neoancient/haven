@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2790 Geardiad is a star in the constellation Geard
+      2790 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 332.06 ly
 apparent_magnitude: 12.18
 absolute_magnitude: 7.14

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1792 Keead is a star in the constellation Kee
+      1792 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 320.53 ly
 apparent_magnitude: 10.07
 absolute_magnitude: 5.11

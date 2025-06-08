@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1961 Geardiad is a star in the constellation Geard
+      1961 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 224.26 ly
 apparent_magnitude: 9.08
 absolute_magnitude: 4.89

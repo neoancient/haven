@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      60 Nurranpugiad A is a star in the constellation Nurranpug
+      60 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 1150.95 ly
 apparent_magnitude: 6.59
 absolute_magnitude: -1.15

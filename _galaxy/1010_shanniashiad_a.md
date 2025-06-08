@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1010 Shanniashiad A is a star in the constellation Shannias
+      1010 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 555.42 ly
 apparent_magnitude: 8.13
 absolute_magnitude: 1.97

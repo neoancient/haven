@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10061 Dialkeshiad is a star in the constellation Dialkes
+      10061 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 533.27 ly
 apparent_magnitude: 11.34
 absolute_magnitude: 5.27

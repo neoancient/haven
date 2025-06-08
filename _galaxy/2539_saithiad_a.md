@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2539 Saithiad A is a star in the constellation Saith
+      2539 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 337.13 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 3.76

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      797 Switheriad A is a star in the constellation Swither
+      797 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 323.39 ly
 apparent_magnitude: 7.89
 absolute_magnitude: 2.91

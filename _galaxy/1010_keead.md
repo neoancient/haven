@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1010 Keead is a star in the constellation Kee
+      1010 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 391.65 ly
 apparent_magnitude: 10.71
 absolute_magnitude: 5.31

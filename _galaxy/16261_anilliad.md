@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16261 Anilliad is a star in the constellation Anil
+      16261 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 756.76 ly
 apparent_magnitude: 8.41
 absolute_magnitude: 1.58

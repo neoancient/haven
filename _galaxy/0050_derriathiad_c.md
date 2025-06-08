@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0050 Derriathiad C is a star in the constellation Derriath
+      0050 Derriathiad C is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 832.30 ly
 apparent_magnitude: 12.70
 absolute_magnitude: 5.67
@@ -31,14 +31,14 @@ planets:
     radius: 29,762.6 km<br/>(4.672 Yrths)
     surface_area: 1.113 × 10<sup>10</sup> km<sup>2</sup><br/>(21.824 Yrths)
     volume: 1.104 × 10<sup>14</sup> km<sup>3</sup><br/>(101.951 Yrths)
-    mass: 1.804 × 10<sup>26</sup> kg<br />(30.208615135366742 Yrths)
+    mass: 1.804 × 10<sup>26</sup> kg<br />(30.21 Yrths)
     density: 1.634 g/cm<sup>3</sup>
     surface_gravity: 13.574 m/s<sup>2</sup><br />(1.384 g<sub>0</sub>)
     escape_velocity: 28.445 km/s<br />(102,402 km/h)
     rotation_period: 0.683 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 407 K<br />(134 °C)
+    temperature: 369 K<br />(96 °C)
     composition:
       - 69.5747% hydrogen
       - 26.0321% helium
@@ -56,14 +56,14 @@ planets:
         radius: 21,904.2 km<br/>(3.438 Yrths)
         surface_area: 6.029 × 10<sup>09</sup> km<sup>2</sup><br/>(11.821 Yrths)
         volume: 4.402 × 10<sup>13</sup> km<sup>3</sup><br/>(40.641 Yrths)
-        mass: 1.459 × 10<sup>26</sup> kg<br />(30.208615135366742 Yrths)
+        mass: 1.459 × 10<sup>26</sup> kg<br />(24.431 Yrths)
         density: 3.314 g/cm<sup>3</sup>
         surface_gravity: 20.269 m/s<sup>2</sup><br />(2.067 g<sub>0</sub>)
         escape_velocity: 29.818 km/s<br />(107,346 km/h)
         rotation_period: 34.853 d
         axial_tilt: 24.13°
         albedo: 0.30
-        temperature: 1748 K<br />(1475 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0050 Derriathiad C I b
         type: Rocky
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 23,606.9 km<br/>(3.705 Yrths)
         surface_area: 7.003 × 10<sup>09</sup> km<sup>2</sup><br/>(13.730 Yrths)
         volume: 5.511 × 10<sup>13</sup> km<sup>3</sup><br/>(50.874 Yrths)
-        mass: 1.559 × 10<sup>26</sup> kg<br />(30.208615135366742 Yrths)
+        mass: 1.559 × 10<sup>26</sup> kg<br />(26.102 Yrths)
         density: 2.829 g/cm<sup>3</sup>
         surface_gravity: 18.643 m/s<sup>2</sup><br />(1.901 g<sub>0</sub>)
         escape_velocity: 29.689 km/s<br />(106,879 km/h)
         rotation_period: 33.461 d
         axial_tilt: 14.88°
         albedo: 0.30
-        temperature: 1666 K<br />(1393 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0050 Derriathiad C I c
         type: Icy
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 30,388.6 km<br/>(4.770 Yrths)
         surface_area: 1.160 × 10<sup>10</sup> km<sup>2</sup><br/>(22.751 Yrths)
         volume: 1.175 × 10<sup>14</sup> km<sup>3</sup><br/>(108.520 Yrths)
-        mass: 1.979 × 10<sup>26</sup> kg<br />(30.208615135366742 Yrths)
+        mass: 1.979 × 10<sup>26</sup> kg<br />(33.139 Yrths)
         density: 1.684 g/cm<sup>3</sup>
         surface_gravity: 14.284 m/s<sup>2</sup><br />(1.457 g<sub>0</sub>)
         escape_velocity: 29.485 km/s<br />(106,144 km/h)
         rotation_period: 72.444 d
         axial_tilt: 7.63°
         albedo: 0.30
-        temperature: 1589 K<br />(1316 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0050 Derriathiad C I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 48,967.0 km<br/>(7.686 Yrths)
         surface_area: 3.013 × 10<sup>10</sup> km<sup>2</sup><br/>(59.073 Yrths)
         volume: 4.918 × 10<sup>14</sup> km<sup>3</sup><br/>(454.033 Yrths)
-        mass: 1.113 × 10<sup>27</sup> kg<br />(30.208615135366742 Yrths)
+        mass: 1.113 × 10<sup>27</sup> kg<br />(186.397 Yrths)
         density: 2.263 g/cm<sup>3</sup>
         surface_gravity: 30.943 m/s<sup>2</sup><br />(3.155 g<sub>0</sub>)
         escape_velocity: 55.086 km/s<br />(198,311 km/h)
         rotation_period: 35.976 d
         axial_tilt: 21.58°
         albedo: 0.30
-        temperature: 1515 K<br />(1242 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0050 Derriathiad C I e
         type: Dwarf planet
         formationType: Captured
@@ -136,12 +136,12 @@ planets:
         radius: 23,678.7 km<br/>(3.717 Yrths)
         surface_area: 7.046 × 10<sup>09</sup> km<sup>2</sup><br/>(13.813 Yrths)
         volume: 5.561 × 10<sup>13</sup> km<sup>3</sup><br/>(51.339 Yrths)
-        mass: 1.162 × 10<sup>26</sup> kg<br />(30.208615135366742 Yrths)
+        mass: 1.162 × 10<sup>26</sup> kg<br />(19.461 Yrths)
         density: 2.090 g/cm<sup>3</sup>
         surface_gravity: 13.816 m/s<sup>2</sup><br />(1.409 g<sub>0</sub>)
         escape_velocity: 25.597 km/s<br />(92,148 km/h)
         rotation_period: 43.478 d
         axial_tilt: 40.12°
         albedo: 0.30
-        temperature: 1313 K<br />(1040 °C)
+        temperature: 245 K<br />(-28 °C)
 ---

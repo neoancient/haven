@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      353 Rukentuaiad is a star in the constellation Rukentua
+      353 Rukentuaiad is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 365.92 ly
 apparent_magnitude: 13.72
 absolute_magnitude: 8.47

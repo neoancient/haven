@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1387 Keead A is a star in the constellation Kee
+      1387 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 695.88 ly
 apparent_magnitude: 8.43
 absolute_magnitude: 1.78

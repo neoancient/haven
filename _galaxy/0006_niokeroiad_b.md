@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0006 Niokeroiad B is a star in the constellation Niokero
+      0006 Niokeroiad B is a star in the constellation <a href="niokero.html">Niokero</a>
 distance: 3252.24 ly
 apparent_magnitude: 7.74
 absolute_magnitude: -2.26

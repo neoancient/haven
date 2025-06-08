@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1401 Tanashad is a star in the constellation Tanas
+      1401 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1039.25 ly
 apparent_magnitude: 7.98
 absolute_magnitude: 0.47

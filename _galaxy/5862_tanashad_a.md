@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5862 Tanashad A is a star in the constellation Tanas
+      5862 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 366.43 ly
 apparent_magnitude: 7.62
 absolute_magnitude: 2.37

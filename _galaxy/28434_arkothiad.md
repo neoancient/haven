@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      28434 Arkothiad is a star in the constellation Arkoth
+      28434 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 700.34 ly
 apparent_magnitude: 14.75
 absolute_magnitude: 8.09

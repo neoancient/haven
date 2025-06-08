@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1735 Ratharshinniad is a star in the constellation Ratharshin
+      1735 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 356.54 ly
 apparent_magnitude: 12.33
 absolute_magnitude: 7.14

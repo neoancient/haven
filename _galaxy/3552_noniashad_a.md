@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3552 Noniashad A is a star in the constellation Nonias
+      3552 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 828.05 ly
 apparent_magnitude: 6.88
 absolute_magnitude: -0.14

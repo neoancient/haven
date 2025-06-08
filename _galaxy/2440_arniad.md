@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2440 Arniad is a star in the constellation Arni
+      2440 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 252.50 ly
 apparent_magnitude: 6.99
 absolute_magnitude: 2.55
@@ -31,14 +31,14 @@ planets:
     radius: 8,579.9 km<br/>(1.347 Yrths)
     surface_area: 9.251 × 10<sup>08</sup> km<sup>2</sup><br/>(1.814 Yrths)
     volume: 2.646 × 10<sup>12</sup> km<sup>3</sup><br/>(2.442 Yrths)
-    mass: 7.752 × 10<sup>24</sup> kg<br />(1.2980955563034868 Yrths)
+    mass: 7.752 × 10<sup>24</sup> kg<br />(1.30 Yrths)
     density: 2.930 g/cm<sup>3</sup>
     surface_gravity: 7.019 m/s<sup>2</sup><br />(0.716 g<sub>0</sub>)
     escape_velocity: 10.982 km/s<br />(39,536 km/h)
     rotation_period: 0.710 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 468 K<br />(195 °C)
+    temperature: 417 K<br />(144 °C)
     composition:
       - 55.9263% helium
       - 42.4744% hydrogen
@@ -56,14 +56,14 @@ planets:
         radius: 2,058.1 km<br/>(0.323 Yrths)
         surface_area: 5.323 × 10<sup>07</sup> km<sup>2</sup><br/>(0.104 Yrths)
         volume: 3.652 × 10<sup>10</sup> km<sup>3</sup><br/>(0.034 Yrths)
-        mass: 1.022 × 10<sup>23</sup> kg<br />(1.2980955563034868 Yrths)
+        mass: 1.022 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 1.609 m/s<sup>2</sup><br />(0.164 g<sub>0</sub>)
         escape_velocity: 2.575 km/s<br />(9,271 km/h)
         rotation_period: 56.840 d
         axial_tilt: 18.65°
         albedo: 0.30
-        temperature: 4341 K<br />(4067 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 2440 Arniad I b
         type: Icy
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 5,471.5 km<br/>(0.859 Yrths)
         surface_area: 3.762 × 10<sup>08</sup> km<sup>2</sup><br/>(0.738 Yrths)
         volume: 6.861 × 10<sup>11</sup> km<sup>3</sup><br/>(0.633 Yrths)
-        mass: 9.451 × 10<sup>23</sup> kg<br />(1.2980955563034868 Yrths)
+        mass: 9.451 × 10<sup>23</sup> kg<br />(0.158 Yrths)
         density: 1.377 g/cm<sup>3</sup>
         surface_gravity: 2.104 m/s<sup>2</sup><br />(0.215 g<sub>0</sub>)
         escape_velocity: 4.802 km/s<br />(17,287 km/h)
         rotation_period: 49.947 d
         axial_tilt: 11.59°
         albedo: 0.30
-        temperature: 4139 K<br />(3865 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 2440 Arniad I c
         type: Rocky
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 3,591.7 km<br/>(0.564 Yrths)
         surface_area: 1.621 × 10<sup>08</sup> km<sup>2</sup><br/>(0.318 Yrths)
         volume: 1.941 × 10<sup>11</sup> km<sup>3</sup><br/>(0.179 Yrths)
-        mass: 5.830 × 10<sup>23</sup> kg<br />(1.2980955563034868 Yrths)
+        mass: 5.830 × 10<sup>23</sup> kg<br />(0.098 Yrths)
         density: 3.004 g/cm<sup>3</sup>
         surface_gravity: 3.012 m/s<sup>2</sup><br />(0.307 g<sub>0</sub>)
         escape_velocity: 4.655 km/s<br />(16,757 km/h)
         rotation_period: 35.455 d
         axial_tilt: 6.96°
         albedo: 0.30
-        temperature: 3946 K<br />(3673 °C)
+        temperature: 308 K<br />(35 °C)
   - name: 2440 Arniad II
     type: Gas giant
     aphelion: 612,624,981 km<br />4.095 AU
@@ -115,7 +115,7 @@ planets:
     radius: 260.9 km<br/>(0.041 Yrths)
     surface_area: 8.555 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.441 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.229 × 10<sup>27</sup> kg<br />(540.6247418427937 Yrths)
+    mass: 3.229 × 10<sup>27</sup> kg<br />(540.62 Yrths)
     density: 43390882.631 g/cm<sup>3</sup>
     surface_gravity: 3160914.300 m/s<sup>2</sup><br />(322323.556 g<sub>0</sub>)
     escape_velocity: 1285.201 km/s<br />(4,626,722 km/h)
@@ -136,14 +136,14 @@ planets:
         radius: 297,209.0 km<br/>(46.650 Yrths)
         surface_area: 1.110 × 10<sup>12</sup> km<sup>2</sup><br/>(2176.249 Yrths)
         volume: 1.100 × 10<sup>17</sup> km<sup>3</sup><br/>(101522.667 Yrths)
-        mass: 2.434 × 10<sup>29</sup> kg<br />(540.6247418427937 Yrths)
+        mass: 2.434 × 10<sup>29</sup> kg<br />(40756.693 Yrths)
         density: 2.213 g/cm<sup>3</sup>
         surface_gravity: 183.658 m/s<sup>2</sup><br />(18.728 g<sub>0</sub>)
         escape_velocity: 330.633 km/s<br />(1,190,279 km/h)
         rotation_period: 34.085 d
         axial_tilt: 25.41°
         albedo: 0.30
-        temperature: 1053 K<br />(779 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 2440 Arniad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -156,14 +156,14 @@ planets:
         radius: 313,292.9 km<br/>(49.175 Yrths)
         surface_area: 1.233 × 10<sup>12</sup> km<sup>2</sup><br/>(2418.164 Yrths)
         volume: 1.288 × 10<sup>17</sup> km<sup>3</sup><br/>(118912.811 Yrths)
-        mass: 2.239 × 10<sup>29</sup> kg<br />(540.6247418427937 Yrths)
+        mass: 2.239 × 10<sup>29</sup> kg<br />(37484.984 Yrths)
         density: 1.738 g/cm<sup>3</sup>
         surface_gravity: 152.017 m/s<sup>2</sup><br />(15.501 g<sub>0</sub>)
         escape_velocity: 308.838 km/s<br />(1,111,818 km/h)
         rotation_period: 47.555 d
         axial_tilt: 13.93°
         albedo: 0.30
-        temperature: 957 K<br />(684 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 2440 Arniad II c
         type: Icy
         formationType: Captured
@@ -176,14 +176,14 @@ planets:
         radius: 284,030.1 km<br/>(44.582 Yrths)
         surface_area: 1.014 × 10<sup>12</sup> km<sup>2</sup><br/>(1987.530 Yrths)
         volume: 9.598 × 10<sup>16</sup> km<sup>3</sup><br/>(88607.495 Yrths)
-        mass: 1.390 × 10<sup>29</sup> kg<br />(540.6247418427937 Yrths)
+        mass: 1.390 × 10<sup>29</sup> kg<br />(23271.336 Yrths)
         density: 1.448 g/cm<sup>3</sup>
         surface_gravity: 114.823 m/s<sup>2</sup><br />(11.709 g<sub>0</sub>)
         escape_velocity: 255.568 km/s<br />(920,044 km/h)
         rotation_period: 65.018 d
         axial_tilt: 14.79°
         albedo: 0.30
-        temperature: 829 K<br />(556 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 2440 Arniad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -196,14 +196,14 @@ planets:
         radius: 233,703.9 km<br/>(36.682 Yrths)
         surface_area: 6.863 × 10<sup>11</sup> km<sup>2</sup><br/>(1345.602 Yrths)
         volume: 5.347 × 10<sup>16</sup> km<sup>3</sup><br/>(49359.970 Yrths)
-        mass: 1.271 × 10<sup>29</sup> kg<br />(540.6247418427937 Yrths)
+        mass: 1.271 × 10<sup>29</sup> kg<br />(21279.238 Yrths)
         density: 2.377 g/cm<sup>3</sup>
         surface_gravity: 155.082 m/s<sup>2</sup><br />(15.814 g<sub>0</sub>)
         escape_velocity: 269.416 km/s<br />(969,896 km/h)
         rotation_period: 35.922 d
         axial_tilt: 22.29°
         albedo: 0.30
-        temperature: 594 K<br />(321 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 2440 Arniad II e
         type: Icy
         formationType: Impact formed
@@ -216,14 +216,14 @@ planets:
         radius: 281,821.4 km<br/>(44.235 Yrths)
         surface_area: 9.981 × 10<sup>11</sup> km<sup>2</sup><br/>(1956.738 Yrths)
         volume: 9.376 × 10<sup>16</sup> km<sup>3</sup><br/>(86556.345 Yrths)
-        mass: 1.317 × 10<sup>29</sup> kg<br />(540.6247418427937 Yrths)
+        mass: 1.317 × 10<sup>29</sup> kg<br />(22050.821 Yrths)
         density: 1.405 g/cm<sup>3</sup>
         surface_gravity: 110.513 m/s<sup>2</sup><br />(11.269 g<sub>0</sub>)
         escape_velocity: 249.749 km/s<br />(899,095 km/h)
         rotation_period: 45.491 d
         axial_tilt: 12.03°
         albedo: 0.30
-        temperature: 352 K<br />(79 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 2440 Arniad II f
         type: Dwarf planet
         formationType: Impact formed
@@ -236,14 +236,14 @@ planets:
         radius: 351,459.1 km<br/>(55.165 Yrths)
         surface_area: 1.552 × 10<sup>12</sup> km<sup>2</sup><br/>(3043.227 Yrths)
         volume: 1.818 × 10<sup>17</sup> km<sup>3</sup><br/>(167880.980 Yrths)
-        mass: 3.794 × 10<sup>29</sup> kg<br />(540.6247418427937 Yrths)
+        mass: 3.794 × 10<sup>29</sup> kg<br />(63528.461 Yrths)
         density: 2.086 g/cm<sup>3</sup>
         surface_gravity: 204.717 m/s<sup>2</sup><br />(20.875 g<sub>0</sub>)
         escape_velocity: 379.599 km/s<br />(1,366,555 km/h)
         rotation_period: 64.498 d
         axial_tilt: 33.10°
         albedo: 0.30
-        temperature: 218 K<br />(-55 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 2440 Arniad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -256,14 +256,14 @@ planets:
         radius: 274,882.6 km<br/>(43.146 Yrths)
         surface_area: 9.495 × 10<sup>11</sup> km<sup>2</sup><br/>(1861.569 Yrths)
         volume: 8.700 × 10<sup>16</sup> km<sup>3</sup><br/>(80319.092 Yrths)
-        mass: 1.803 × 10<sup>29</sup> kg<br />(540.6247418427937 Yrths)
+        mass: 1.803 × 10<sup>29</sup> kg<br />(30198.916 Yrths)
         density: 2.073 g/cm<sup>3</sup>
         surface_gravity: 159.086 m/s<sup>2</sup><br />(16.222 g<sub>0</sub>)
         escape_velocity: 295.937 km/s<br />(1,065,375 km/h)
         rotation_period: 36.419 d
         axial_tilt: 23.94°
         albedo: 0.30
-        temperature: 181 K<br />(-93 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 2440 Arniad II h
         type: Icy
         formationType: Captured
@@ -276,14 +276,14 @@ planets:
         radius: 394,042.6 km<br/>(61.849 Yrths)
         surface_area: 1.951 × 10<sup>12</sup> km<sup>2</sup><br/>(3825.350 Yrths)
         volume: 2.563 × 10<sup>17</sup> km<sup>3</sup><br/>(236595.678 Yrths)
-        mass: 4.161 × 10<sup>29</sup> kg<br />(540.6247418427937 Yrths)
+        mass: 4.161 × 10<sup>29</sup> kg<br />(69668.815 Yrths)
         density: 1.623 g/cm<sup>3</sup>
         surface_gravity: 178.603 m/s<sup>2</sup><br />(18.212 g<sub>0</sub>)
         escape_velocity: 375.427 km/s<br />(1,351,537 km/h)
         rotation_period: 40.323 d
         axial_tilt: 10.97°
         albedo: 0.30
-        temperature: 149 K<br />(-124 °C)
+        temperature: 225 K<br />(-48 °C)
   - name: 2440 Arniad III
     type: Large terrestrial
     aphelion: 1,265,004,621 km<br />8.456 AU
@@ -295,14 +295,14 @@ planets:
     radius: 12,807.1 km<br/>(2.010 Yrths)
     surface_area: 2.061 × 10<sup>09</sup> km<sup>2</sup><br/>(4.041 Yrths)
     volume: 8.799 × 10<sup>12</sup> km<sup>3</sup><br/>(8.123 Yrths)
-    mass: 6.140 × 10<sup>25</sup> kg<br />(10.281547155607774 Yrths)
+    mass: 6.140 × 10<sup>25</sup> kg<br />(10.28 Yrths)
     density: 6.978 g/cm<sup>3</sup>
     surface_gravity: 24.951 m/s<sup>2</sup><br />(2.544 g<sub>0</sub>)
     escape_velocity: 25.298 km/s<br />(91,072 km/h)
     rotation_period: 0.492 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 253 K<br />(-20 °C)
+    temperature: 368 K<br />(95 °C)
     surface_pressure: 1,805 kPa<br />(18 atm)
     composition:
       - 71.7751% nitrogen
@@ -321,14 +321,14 @@ planets:
         radius: 18,029.3 km<br/>(2.830 Yrths)
         surface_area: 4.085 × 10<sup>09</sup> km<sup>2</sup><br/>(8.008 Yrths)
         volume: 2.455 × 10<sup>13</sup> km<sup>3</sup><br/>(22.663 Yrths)
-        mass: 5.641 × 10<sup>25</sup> kg<br />(10.281547155607774 Yrths)
+        mass: 5.641 × 10<sup>25</sup> kg<br />(9.446 Yrths)
         density: 2.298 g/cm<sup>3</sup>
         surface_gravity: 11.567 m/s<sup>2</sup><br />(1.180 g<sub>0</sub>)
         escape_velocity: 20.437 km/s<br />(73,573 km/h)
         rotation_period: 36.097 d
         axial_tilt: 29.47°
         albedo: 0.30
-        temperature: 1769 K<br />(1496 °C)
+        temperature: 164 K<br />(-109 °C)
       - name: 2440 Arniad III b
         type: Icy
         formationType: Impact formed
@@ -341,12 +341,12 @@ planets:
         radius: 7,133.1 km<br/>(1.120 Yrths)
         surface_area: 6.394 × 10<sup>08</sup> km<sup>2</sup><br/>(1.254 Yrths)
         volume: 1.520 × 10<sup>12</sup> km<sup>3</sup><br/>(1.403 Yrths)
-        mass: 1.498 × 10<sup>24</sup> kg<br />(10.281547155607774 Yrths)
+        mass: 1.498 × 10<sup>24</sup> kg<br />(0.251 Yrths)
         density: 0.985 g/cm<sup>3</sup>
         surface_gravity: 1.963 m/s<sup>2</sup><br />(0.200 g<sub>0</sub>)
         escape_velocity: 5.295 km/s<br />(19,061 km/h)
         rotation_period: 51.792 d
         axial_tilt: 26.72°
         albedo: 0.30
-        temperature: 1687 K<br />(1414 °C)
+        temperature: 164 K<br />(-109 °C)
 ---

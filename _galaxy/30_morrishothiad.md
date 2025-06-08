@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      30 Morrishothiad is a star in the constellation Morrishoth
+      30 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 354.08 ly
 apparent_magnitude: 10.52
 absolute_magnitude: 5.34

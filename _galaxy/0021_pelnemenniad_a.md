@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0021 Pelnemenniad A is a star in the constellation Pelnemen
+      0021 Pelnemenniad A is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 384.46 ly
 apparent_magnitude: 7.19
 absolute_magnitude: 1.84

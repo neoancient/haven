@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1043 Reggiad is a star in the constellation Reg
+      1043 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 599.50 ly
 apparent_magnitude: 11.18
 absolute_magnitude: 4.86

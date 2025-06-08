@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      868 Lunaiad is a star in the constellation Luna
+      868 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 681.82 ly
 apparent_magnitude: 11.85
 absolute_magnitude: 5.25

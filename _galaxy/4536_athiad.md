@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4536 Athiad is a star in the constellation Ath
+      4536 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 373.81 ly
 apparent_magnitude: 11.72
 absolute_magnitude: 6.43

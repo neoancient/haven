@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      382 Athiad is a star in the constellation Ath
+      382 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 256.86 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 6.31

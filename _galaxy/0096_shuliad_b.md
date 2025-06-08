@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0096 Shuliad B is a star in the constellation Shuli
+      0096 Shuliad B is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 1012.67 ly
 apparent_magnitude: 11.90
 absolute_magnitude: 4.44

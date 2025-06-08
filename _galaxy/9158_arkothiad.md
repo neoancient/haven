@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9158 Arkothiad is a star in the constellation Arkoth
+      9158 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 512.13 ly
 apparent_magnitude: 11.43
 absolute_magnitude: 5.45

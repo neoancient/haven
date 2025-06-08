@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1154 Shyad A is a star in the constellation Shy
+      1154 Shyad A is a star in the constellation <a href="shy.html">Shy</a>
 distance: 538.79 ly
 apparent_magnitude: 7.45
 absolute_magnitude: 1.36

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      υ Anasoiad B is a star in the constellation Anaso
+      υ Anasoiad B is a star in the constellation <a href="anaso.html">Anaso</a>
 distance: 517.12 ly
 apparent_magnitude: 9.93
 absolute_magnitude: 3.93

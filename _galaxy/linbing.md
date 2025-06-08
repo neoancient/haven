@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Linbing is a star in the constellation Arkoth
+      Linbing is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 215.31 ly
 apparent_magnitude: 3.22
 absolute_magnitude: -0.88

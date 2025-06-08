@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0325 Irsaiad B is a star in the constellation Irsa
+      0325 Irsaiad B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 239.22 ly
 apparent_magnitude: 6.85
 absolute_magnitude: 2.52

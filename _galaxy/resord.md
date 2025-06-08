@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Resord is a star in the constellation Geard
+      Resord is a star in the constellation <a href="geard.html">Geard</a>
 distance: 89.69 ly
 apparent_magnitude: 0.98
 absolute_magnitude: -1.22

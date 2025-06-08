@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1951 Anilliad is a star in the constellation Anil
+      1951 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 467.06 ly
 apparent_magnitude: 11.70
 absolute_magnitude: 5.92

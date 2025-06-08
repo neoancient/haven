@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0160 Enlinniad is a star in the constellation Enlin
+      0160 Enlinniad is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 33.26 ly
 apparent_magnitude: 6.36
 absolute_magnitude: 6.31
@@ -31,14 +31,14 @@ planets:
     radius: 2,693.1 km<br/>(0.423 Yrths)
     surface_area: 9.114 × 10<sup>07</sup> km<sup>2</sup><br/>(0.179 Yrths)
     volume: 8.182 × 10<sup>10</sup> km<sup>3</sup><br/>(0.076 Yrths)
-    mass: 4.960 × 10<sup>24</sup> kg<br />(0.8305244315661277 Yrths)
+    mass: 4.960 × 10<sup>24</sup> kg<br />(0.83 Yrths)
     density: 60.621 g/cm<sup>3</sup>
     surface_gravity: 45.581 m/s<sup>2</sup><br />(4.648 g<sub>0</sub>)
     escape_velocity: 15.679 km/s<br />(56,446 km/h)
     rotation_period: 2.768 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 609 K<br />(335 °C)
+    temperature: 1431 K<br />(1157 °C)
     surface_pressure: 1,850 kPa<br />(18 atm)
     composition:
       - 70.7195% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 687.8 km<br/>(0.108 Yrths)
         surface_area: 5.945 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.363 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.271 × 10<sup>21</sup> kg<br />(0.8305244315661277 Yrths)
+        mass: 3.271 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 0.461 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 0.797 km/s<br />(2,868 km/h)
         rotation_period: 35.407 d
         axial_tilt: 23.75°
         albedo: 0.30
-        temperature: 5994 K<br />(5721 °C)
+        temperature: 345 K<br />(72 °C)
       - name: 0160 Enlinniad I b
         type: Rocky
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 1,945.5 km<br/>(0.305 Yrths)
         surface_area: 4.756 × 10<sup>07</sup> km<sup>2</sup><br/>(0.093 Yrths)
         volume: 3.084 × 10<sup>10</sup> km<sup>3</sup><br/>(0.028 Yrths)
-        mass: 8.500 × 10<sup>22</sup> kg<br />(0.8305244315661277 Yrths)
+        mass: 8.500 × 10<sup>22</sup> kg<br />(0.014 Yrths)
         density: 2.756 g/cm<sup>3</sup>
         surface_gravity: 1.497 m/s<sup>2</sup><br />(0.153 g<sub>0</sub>)
         escape_velocity: 2.415 km/s<br />(8,694 km/h)
         rotation_period: 49.949 d
         axial_tilt: 11.13°
         albedo: 0.30
-        temperature: 5715 K<br />(5442 °C)
+        temperature: 345 K<br />(72 °C)
       - name: 0160 Enlinniad I c
         type: Rocky
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 762.5 km<br/>(0.120 Yrths)
         surface_area: 7.307 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.857 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.662 × 10<sup>21</sup> kg<br />(0.8305244315661277 Yrths)
+        mass: 4.662 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.510 g/cm<sup>3</sup>
         surface_gravity: 0.534 m/s<sup>2</sup><br />(0.054 g<sub>0</sub>)
         escape_velocity: 0.903 km/s<br />(3,252 km/h)
         rotation_period: 49.141 d
         axial_tilt: 10.92°
         albedo: 0.30
-        temperature: 5449 K<br />(5176 °C)
+        temperature: 345 K<br />(72 °C)
   - name: 0160 Enlinniad II
     type: Terrestrial
     aphelion: 75,065,187 km<br />0.502 AU
@@ -117,14 +117,14 @@ planets:
     radius: 6,066.8 km<br/>(0.952 Yrths)
     surface_area: 4.625 × 10<sup>08</sup> km<sup>2</sup><br/>(0.907 Yrths)
     volume: 9.354 × 10<sup>11</sup> km<sup>3</sup><br/>(0.864 Yrths)
-    mass: 8.558 × 10<sup>24</sup> kg<br />(1.4330694599755154 Yrths)
+    mass: 8.558 × 10<sup>24</sup> kg<br />(1.43 Yrths)
     density: 9.150 g/cm<sup>3</sup>
     surface_gravity: 15.498 m/s<sup>2</sup><br />(1.580 g<sub>0</sub>)
     escape_velocity: 13.722 km/s<br />(49,401 km/h)
     rotation_period: 2.558 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 366 K<br />(92 °C)
+    temperature: 875 K<br />(602 °C)
     surface_pressure: 22 kPa<br />(0 atm)
     composition:
       - 65.1448% carbon dioxide
@@ -143,14 +143,14 @@ planets:
         radius: 3,329.3 km<br/>(0.523 Yrths)
         surface_area: 1.393 × 10<sup>08</sup> km<sup>2</sup><br/>(0.273 Yrths)
         volume: 1.546 × 10<sup>11</sup> km<sup>3</sup><br/>(0.143 Yrths)
-        mass: 4.307 × 10<sup>23</sup> kg<br />(1.4330694599755154 Yrths)
+        mass: 4.307 × 10<sup>23</sup> kg<br />(0.072 Yrths)
         density: 2.786 g/cm<sup>3</sup>
         surface_gravity: 2.590 m/s<sup>2</sup><br />(0.264 g<sub>0</sub>)
         escape_velocity: 4.156 km/s<br />(14,961 km/h)
         rotation_period: 32.637 d
         axial_tilt: 20.33°
         albedo: 0.30
-        temperature: 4260 K<br />(3986 °C)
+        temperature: 273 K<br />(-0 °C)
   - name: 0160 Enlinniad III
     type: Gas giant
     aphelion: 119,238,664 km<br />0.797 AU
@@ -162,7 +162,7 @@ planets:
     radius: 113.3 km<br/>(0.018 Yrths)
     surface_area: 1.614 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 6.098 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.123 × 10<sup>26</sup> kg<br />(18.80769368637405 Yrths)
+    mass: 1.123 × 10<sup>26</sup> kg<br />(18.81 Yrths)
     density: 18418104.380 g/cm<sup>3</sup>
     surface_gravity: 582805.391 m/s<sup>2</sup><br />(59429.611 g<sub>0</sub>)
     escape_velocity: 363.713 km/s<br />(1,309,366 km/h)
@@ -183,14 +183,14 @@ planets:
         radius: 31,844.4 km<br/>(4.998 Yrths)
         surface_area: 1.274 × 10<sup>10</sup> km<sup>2</sup><br/>(24.983 Yrths)
         volume: 1.353 × 10<sup>14</sup> km<sup>3</sup><br/>(124.875 Yrths)
-        mass: 3.803 × 10<sup>26</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 3.803 × 10<sup>26</sup> kg<br />(63.685 Yrths)
         density: 2.812 g/cm<sup>3</sup>
         surface_gravity: 24.998 m/s<sup>2</sup><br />(2.549 g<sub>0</sub>)
         escape_velocity: 39.928 km/s<br />(143,742 km/h)
         rotation_period: 39.824 d
         axial_tilt: 49.19°
         albedo: 0.30
-        temperature: 1807 K<br />(1534 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III b
         type: Asteroid
         formationType: Captured
@@ -203,14 +203,14 @@ planets:
         radius: 20,278.9 km<br/>(3.183 Yrths)
         surface_area: 5.168 × 10<sup>09</sup> km<sup>2</sup><br/>(10.131 Yrths)
         volume: 3.493 × 10<sup>13</sup> km<sup>3</sup><br/>(32.248 Yrths)
-        mass: 7.983 × 10<sup>25</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 7.983 × 10<sup>25</sup> kg<br />(13.367 Yrths)
         density: 2.285 g/cm<sup>3</sup>
         surface_gravity: 12.939 m/s<sup>2</sup><br />(1.319 g<sub>0</sub>)
         escape_velocity: 22.923 km/s<br />(82,523 km/h)
         rotation_period: 58.699 d
         axial_tilt: 28.84°
         albedo: 0.30
-        temperature: 731 K<br />(458 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -223,14 +223,14 @@ planets:
         radius: 22,053.2 km<br/>(3.461 Yrths)
         surface_area: 6.112 × 10<sup>09</sup> km<sup>2</sup><br/>(11.982 Yrths)
         volume: 4.493 × 10<sup>13</sup> km<sup>3</sup><br/>(41.475 Yrths)
-        mass: 8.870 × 10<sup>25</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 8.870 × 10<sup>25</sup> kg<br />(14.853 Yrths)
         density: 1.974 g/cm<sup>3</sup>
         surface_gravity: 12.157 m/s<sup>2</sup><br />(1.240 g<sub>0</sub>)
         escape_velocity: 23.172 km/s<br />(83,418 km/h)
         rotation_period: 68.983 d
         axial_tilt: 20.11°
         albedo: 0.30
-        temperature: 576 K<br />(303 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -243,14 +243,14 @@ planets:
         radius: 21,467.9 km<br/>(3.370 Yrths)
         surface_area: 5.791 × 10<sup>09</sup> km<sup>2</sup><br/>(11.354 Yrths)
         volume: 4.144 × 10<sup>13</sup> km<sup>3</sup><br/>(38.260 Yrths)
-        mass: 9.203 × 10<sup>25</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 9.203 × 10<sup>25</sup> kg<br />(15.410 Yrths)
         density: 2.221 g/cm<sup>3</sup>
         surface_gravity: 13.310 m/s<sup>2</sup><br />(1.357 g<sub>0</sub>)
         escape_velocity: 23.921 km/s<br />(86,117 km/h)
         rotation_period: 65.315 d
         axial_tilt: 21.63°
         albedo: 0.30
-        temperature: 499 K<br />(226 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III e
         type: Asteroid
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 26,002.9 km<br/>(4.081 Yrths)
         surface_area: 8.497 × 10<sup>09</sup> km<sup>2</sup><br/>(16.658 Yrths)
         volume: 7.365 × 10<sup>13</sup> km<sup>3</sup><br/>(67.990 Yrths)
-        mass: 1.645 × 10<sup>26</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 1.645 × 10<sup>26</sup> kg<br />(27.549 Yrths)
         density: 2.234 g/cm<sup>3</sup>
         surface_gravity: 16.218 m/s<sup>2</sup><br />(1.654 g<sub>0</sub>)
         escape_velocity: 29.062 km/s<br />(104,621 km/h)
         rotation_period: 36.166 d
         axial_tilt: 43.06°
         albedo: 0.30
-        temperature: 454 K<br />(181 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III f
         type: Icy
         formationType: Impact formed
@@ -283,14 +283,14 @@ planets:
         radius: 30,735.7 km<br/>(4.824 Yrths)
         surface_area: 1.187 × 10<sup>10</sup> km<sup>2</sup><br/>(23.274 Yrths)
         volume: 1.216 × 10<sup>14</sup> km<sup>3</sup><br/>(112.281 Yrths)
-        mass: 9.620 × 10<sup>25</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 9.620 × 10<sup>25</sup> kg<br />(16.108 Yrths)
         density: 0.791 g/cm<sup>3</sup>
         surface_gravity: 6.787 m/s<sup>2</sup><br />(0.692 g<sub>0</sub>)
         escape_velocity: 20.440 km/s<br />(73,583 km/h)
         rotation_period: 61.868 d
         axial_tilt: 16.36°
         albedo: 0.30
-        temperature: 375 K<br />(102 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -303,14 +303,14 @@ planets:
         radius: 19,645.7 km<br/>(3.084 Yrths)
         surface_area: 4.850 × 10<sup>09</sup> km<sup>2</sup><br/>(9.509 Yrths)
         volume: 3.176 × 10<sup>13</sup> km<sup>3</sup><br/>(29.321 Yrths)
-        mass: 6.669 × 10<sup>25</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 6.669 × 10<sup>25</sup> kg<br />(11.168 Yrths)
         density: 2.100 g/cm<sup>3</sup>
         surface_gravity: 11.518 m/s<sup>2</sup><br />(1.174 g<sub>0</sub>)
         escape_velocity: 21.288 km/s<br />(76,636 km/h)
         rotation_period: 45.174 d
         axial_tilt: 27.97°
         albedo: 0.30
-        temperature: 325 K<br />(52 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III h
         type: Rocky
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 24,459.9 km<br/>(3.839 Yrths)
         surface_area: 7.518 × 10<sup>09</sup> km<sup>2</sup><br/>(14.740 Yrths)
         volume: 6.130 × 10<sup>13</sup> km<sup>3</sup><br/>(56.590 Yrths)
-        mass: 1.706 × 10<sup>26</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 1.706 × 10<sup>26</sup> kg<br />(28.561 Yrths)
         density: 2.783 g/cm<sup>3</sup>
         surface_gravity: 19.002 m/s<sup>2</sup><br />(1.938 g<sub>0</sub>)
         escape_velocity: 30.510 km/s<br />(109,834 km/h)
         rotation_period: 53.973 d
         axial_tilt: 15.79°
         albedo: 0.30
-        temperature: 282 K<br />(9 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -343,14 +343,14 @@ planets:
         radius: 22,865.8 km<br/>(3.589 Yrths)
         surface_area: 6.570 × 10<sup>09</sup> km<sup>2</sup><br/>(12.881 Yrths)
         volume: 5.008 × 10<sup>13</sup> km<sup>3</sup><br/>(46.231 Yrths)
-        mass: 1.167 × 10<sup>26</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 1.167 × 10<sup>26</sup> kg<br />(19.543 Yrths)
         density: 2.331 g/cm<sup>3</sup>
         surface_gravity: 14.879 m/s<sup>2</sup><br />(1.517 g<sub>0</sub>)
         escape_velocity: 26.103 km/s<br />(93,969 km/h)
         rotation_period: 45.110 d
         axial_tilt: 17.30°
         albedo: 0.30
-        temperature: 202 K<br />(-71 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III j
         type: Rocky
         formationType: Accreted
@@ -363,14 +363,14 @@ planets:
         radius: 20,587.0 km<br/>(3.231 Yrths)
         surface_area: 5.326 × 10<sup>09</sup> km<sup>2</sup><br/>(10.442 Yrths)
         volume: 3.655 × 10<sup>13</sup> km<sup>3</sup><br/>(33.741 Yrths)
-        mass: 9.489 × 10<sup>25</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 9.489 × 10<sup>25</sup> kg<br />(15.890 Yrths)
         density: 2.596 g/cm<sup>3</sup>
         surface_gravity: 14.923 m/s<sup>2</sup><br />(1.522 g<sub>0</sub>)
         escape_velocity: 24.805 km/s<br />(89,298 km/h)
         rotation_period: 35.790 d
         axial_tilt: 17.44°
         albedo: 0.30
-        temperature: 167 K<br />(-106 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 0160 Enlinniad III k
         type: Icy
         formationType: Accreted
@@ -383,14 +383,14 @@ planets:
         radius: 29,832.8 km<br/>(4.683 Yrths)
         surface_area: 1.118 × 10<sup>10</sup> km<sup>2</sup><br/>(21.927 Yrths)
         volume: 1.112 × 10<sup>14</sup> km<sup>3</sup><br/>(102.674 Yrths)
-        mass: 1.311 × 10<sup>26</sup> kg<br />(18.80769368637405 Yrths)
+        mass: 1.311 × 10<sup>26</sup> kg<br />(21.949 Yrths)
         density: 1.179 g/cm<sup>3</sup>
         surface_gravity: 9.816 m/s<sup>2</sup><br />(1.001 g<sub>0</sub>)
         escape_velocity: 24.218 km/s<br />(87,184 km/h)
         rotation_period: 89.952 d
         axial_tilt: 14.44°
         albedo: 0.30
-        temperature: 145 K<br />(-129 °C)
+        temperature: 216 K<br />(-57 °C)
   - name: 0160 Enlinniad IV
     type: Terrestrial
     aphelion: 196,493,888 km<br />1.313 AU
@@ -402,14 +402,14 @@ planets:
     radius: 5,398.9 km<br/>(0.847 Yrths)
     surface_area: 3.663 × 10<sup>08</sup> km<sup>2</sup><br/>(0.718 Yrths)
     volume: 6.592 × 10<sup>11</sup> km<sup>3</sup><br/>(0.609 Yrths)
-    mass: 3.779 × 10<sup>24</sup> kg<br />(0.6327834356808341 Yrths)
+    mass: 3.779 × 10<sup>24</sup> kg<br />(0.63 Yrths)
     density: 5.733 g/cm<sup>3</sup>
     surface_gravity: 8.641 m/s<sup>2</sup><br />(0.881 g<sub>0</sub>)
     escape_velocity: 9.666 km/s<br />(34,798 km/h)
     rotation_period: 1.661 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 190 K<br />(-83 °C)
+    temperature: 219 K<br />(-54 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 52.5146% nitrogen
@@ -429,14 +429,14 @@ planets:
         radius: 1,742.0 km<br/>(0.273 Yrths)
         surface_area: 3.813 × 10<sup>07</sup> km<sup>2</sup><br/>(0.075 Yrths)
         volume: 2.214 × 10<sup>10</sup> km<sup>3</sup><br/>(0.020 Yrths)
-        mass: 6.200 × 10<sup>22</sup> kg<br />(0.6327834356808341 Yrths)
+        mass: 6.200 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 1.362 m/s<sup>2</sup><br />(0.139 g<sub>0</sub>)
         escape_velocity: 2.180 km/s<br />(7,847 km/h)
         rotation_period: 39.486 d
         axial_tilt: 8.95°
         albedo: 0.30
-        temperature: 2584 K<br />(2311 °C)
+        temperature: 171 K<br />(-102 °C)
   - name: 0160 Enlinniad V
     type: Gas giant
     aphelion: 289,709,395 km<br />1.937 AU
@@ -448,7 +448,7 @@ planets:
     radius: 168.5 km<br/>(0.026 Yrths)
     surface_area: 3.567 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.003 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.991 × 10<sup>26</sup> kg<br />(83.56740123636328 Yrths)
+    mass: 4.991 × 10<sup>26</sup> kg<br />(83.57 Yrths)
     density: 24915296.939 g/cm<sup>3</sup>
     surface_gravity: 1171938.360 m/s<sup>2</sup><br />(119504.455 g<sub>0</sub>)
     escape_velocity: 628.824 km/s<br />(2,263,767 km/h)
@@ -469,14 +469,14 @@ planets:
         radius: 89,019.6 km<br/>(13.973 Yrths)
         surface_area: 9.958 × 10<sup>10</sup> km<sup>2</sup><br/>(195.234 Yrths)
         volume: 2.955 × 10<sup>15</sup> km<sup>3</sup><br/>(2727.934 Yrths)
-        mass: 9.011 × 10<sup>27</sup> kg<br />(83.56740123636328 Yrths)
+        mass: 9.011 × 10<sup>27</sup> kg<br />(1508.891 Yrths)
         density: 3.050 g/cm<sup>3</sup>
         surface_gravity: 75.792 m/s<sup>2</sup><br />(7.729 g<sub>0</sub>)
         escape_velocity: 116.242 km/s<br />(418,472 km/h)
         rotation_period: 53.022 d
         axial_tilt: 15.25°
         albedo: 0.30
-        temperature: 432 K<br />(159 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 0160 Enlinniad V b
         type: Icy
         formationType: Accreted
@@ -489,14 +489,14 @@ planets:
         radius: 119,423.9 km<br/>(18.745 Yrths)
         surface_area: 1.792 × 10<sup>11</sup> km<sup>2</sup><br/>(351.372 Yrths)
         volume: 7.134 × 10<sup>15</sup> km<sup>3</sup><br/>(6586.441 Yrths)
-        mass: 4.994 × 10<sup>27</sup> kg<br />(83.56740123636328 Yrths)
+        mass: 4.994 × 10<sup>27</sup> kg<br />(836.258 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 23.340 m/s<sup>2</sup><br />(2.380 g<sub>0</sub>)
         escape_velocity: 74.714 km/s<br />(268,971 km/h)
         rotation_period: 63.745 d
         axial_tilt: 18.96°
         albedo: 0.30
-        temperature: 393 K<br />(120 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 0160 Enlinniad V c
         type: Icy
         formationType: Impact formed
@@ -509,14 +509,14 @@ planets:
         radius: 152,734.4 km<br/>(23.973 Yrths)
         surface_area: 2.931 × 10<sup>11</sup> km<sup>2</sup><br/>(574.723 Yrths)
         volume: 1.492 × 10<sup>16</sup> km<sup>3</sup><br/>(13778.049 Yrths)
-        mass: 1.862 × 10<sup>28</sup> kg<br />(83.56740123636328 Yrths)
+        mass: 1.862 × 10<sup>28</sup> kg<br />(3117.286 Yrths)
         density: 1.247 g/cm<sup>3</sup>
         surface_gravity: 53.191 m/s<sup>2</sup><br />(5.424 g<sub>0</sub>)
         escape_velocity: 127.555 km/s<br />(459,198 km/h)
         rotation_period: 80.193 d
         axial_tilt: 29.15°
         albedo: 0.30
-        temperature: 175 K<br />(-98 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 0160 Enlinniad V d
         type: Rocky
         formationType: Captured
@@ -529,14 +529,14 @@ planets:
         radius: 74,413.0 km<br/>(11.680 Yrths)
         surface_area: 6.958 × 10<sup>10</sup> km<sup>2</sup><br/>(136.421 Yrths)
         volume: 1.726 × 10<sup>15</sup> km<sup>3</sup><br/>(1593.397 Yrths)
-        mass: 6.214 × 10<sup>27</sup> kg<br />(83.56740123636328 Yrths)
+        mass: 6.214 × 10<sup>27</sup> kg<br />(1040.443 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 74.792 m/s<sup>2</sup><br />(7.627 g<sub>0</sub>)
         escape_velocity: 105.575 km/s<br />(380,071 km/h)
         rotation_period: 38.208 d
         axial_tilt: 6.65°
         albedo: 0.30
-        temperature: 99 K<br />(-175 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 0160 Enlinniad V e
         type: Icy
         formationType: Impact formed
@@ -549,14 +549,14 @@ planets:
         radius: 117,981.5 km<br/>(18.519 Yrths)
         surface_area: 1.749 × 10<sup>11</sup> km<sup>2</sup><br/>(342.935 Yrths)
         volume: 6.879 × 10<sup>15</sup> km<sup>3</sup><br/>(6350.654 Yrths)
-        mass: 7.838 × 10<sup>27</sup> kg<br />(83.56740123636328 Yrths)
+        mass: 7.838 × 10<sup>27</sup> kg<br />(1312.424 Yrths)
         density: 1.139 g/cm<sup>3</sup>
         surface_gravity: 37.530 m/s<sup>2</sup><br />(3.827 g<sub>0</sub>)
         escape_velocity: 94.169 km/s<br />(339,008 km/h)
         rotation_period: 75.523 d
         axial_tilt: 26.52°
         albedo: 0.30
-        temperature: 53 K<br />(-220 °C)
+        temperature: 135 K<br />(-138 °C)
   - name: 0160 Enlinniad VI
     type: Gas giant
     aphelion: 486,293,889 km<br />3.251 AU
@@ -568,7 +568,7 @@ planets:
     radius: 214.5 km<br/>(0.034 Yrths)
     surface_area: 5.783 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.136 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.376 × 10<sup>27</sup> kg<br />(230.4613254305952 Yrths)
+    mass: 1.376 × 10<sup>27</sup> kg<br />(230.46 Yrths)
     density: 33279811.019 g/cm<sup>3</sup>
     surface_gravity: 1993280.166 m/s<sup>2</sup><br />(203258.010 g<sub>0</sub>)
     escape_velocity: 925.413 km/s<br />(3,331,485 km/h)
@@ -589,14 +589,14 @@ planets:
         radius: 119,088.1 km<br/>(18.692 Yrths)
         surface_area: 1.782 × 10<sup>11</sup> km<sup>2</sup><br/>(349.399 Yrths)
         volume: 7.074 × 10<sup>15</sup> km<sup>3</sup><br/>(6531.047 Yrths)
-        mass: 2.008 × 10<sup>28</sup> kg<br />(230.4613254305952 Yrths)
+        mass: 2.008 × 10<sup>28</sup> kg<br />(3362.911 Yrths)
         density: 2.839 g/cm<sup>3</sup>
         surface_gravity: 94.387 m/s<sup>2</sup><br />(9.625 g<sub>0</sub>)
         escape_velocity: 150.038 km/s<br />(540,137 km/h)
         rotation_period: 29.533 d
         axial_tilt: 13.69°
         albedo: 0.30
-        temperature: 171 K<br />(-102 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0160 Enlinniad VI b
         type: Ice/rock hybrid
         formationType: Captured
@@ -609,14 +609,14 @@ planets:
         radius: 144,866.5 km<br/>(22.738 Yrths)
         surface_area: 2.637 × 10<sup>11</sup> km<sup>2</sup><br/>(517.036 Yrths)
         volume: 1.273 × 10<sup>16</sup> km<sup>3</sup><br/>(11756.585 Yrths)
-        mass: 2.594 × 10<sup>28</sup> kg<br />(230.4613254305952 Yrths)
+        mass: 2.594 × 10<sup>28</sup> kg<br />(4343.350 Yrths)
         density: 2.037 g/cm<sup>3</sup>
         surface_gravity: 82.381 m/s<sup>2</sup><br />(8.400 g<sub>0</sub>)
         escape_velocity: 154.599 km/s<br />(556,556 km/h)
         rotation_period: 42.861 d
         axial_tilt: 21.35°
         albedo: 0.30
-        temperature: 117 K<br />(-156 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0160 Enlinniad VI c
         type: Rocky
         formationType: Accreted
@@ -629,14 +629,14 @@ planets:
         radius: 118,084.0 km<br/>(18.535 Yrths)
         surface_area: 1.752 × 10<sup>11</sup> km<sup>2</sup><br/>(343.532 Yrths)
         volume: 6.897 × 10<sup>15</sup> km<sup>3</sup><br/>(6367.221 Yrths)
-        mass: 2.266 × 10<sup>28</sup> kg<br />(230.4613254305952 Yrths)
+        mass: 2.266 × 10<sup>28</sup> kg<br />(3794.770 Yrths)
         density: 3.286 g/cm<sup>3</sup>
         surface_gravity: 108.328 m/s<sup>2</sup><br />(11.046 g<sub>0</sub>)
         escape_velocity: 160.057 km/s<br />(576,206 km/h)
         rotation_period: 47.090 d
         axial_tilt: 6.78°
         albedo: 0.30
-        temperature: 111 K<br />(-162 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0160 Enlinniad VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -649,14 +649,14 @@ planets:
         radius: 162,198.6 km<br/>(25.459 Yrths)
         surface_area: 3.306 × 10<sup>11</sup> km<sup>2</sup><br/>(648.155 Yrths)
         volume: 1.787 × 10<sup>16</sup> km<sup>3</sup><br/>(16501.303 Yrths)
-        mass: 4.443 × 10<sup>28</sup> kg<br />(230.4613254305952 Yrths)
+        mass: 4.443 × 10<sup>28</sup> kg<br />(7440.221 Yrths)
         density: 2.486 g/cm<sup>3</sup>
         surface_gravity: 112.571 m/s<sup>2</sup><br />(11.479 g<sub>0</sub>)
         escape_velocity: 191.226 km/s<br />(688,414 km/h)
         rotation_period: 38.504 d
         axial_tilt: 17.54°
         albedo: 0.30
-        temperature: 63 K<br />(-210 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0160 Enlinniad VI e
         type: Icy
         formationType: Accreted
@@ -669,14 +669,14 @@ planets:
         radius: 157,616.0 km<br/>(24.740 Yrths)
         surface_area: 3.122 × 10<sup>11</sup> km<sup>2</sup><br/>(612.048 Yrths)
         volume: 1.640 × 10<sup>16</sup> km<sup>3</sup><br/>(15141.821 Yrths)
-        mass: 2.234 × 10<sup>28</sup> kg<br />(230.4613254305952 Yrths)
+        mass: 2.234 × 10<sup>28</sup> kg<br />(3741.272 Yrths)
         density: 1.362 g/cm<sup>3</sup>
         surface_gravity: 59.945 m/s<sup>2</sup><br />(6.113 g<sub>0</sub>)
         escape_velocity: 137.558 km/s<br />(495,210 km/h)
         rotation_period: 76.570 d
         axial_tilt: 10.36°
         albedo: 0.30
-        temperature: 31 K<br />(-242 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0160 Enlinniad VI f
         type: Icy
         formationType: Captured
@@ -689,14 +689,14 @@ planets:
         radius: 177,061.4 km<br/>(27.792 Yrths)
         surface_area: 3.940 × 10<sup>11</sup> km<sup>2</sup><br/>(772.383 Yrths)
         volume: 2.325 × 10<sup>16</sup> km<sup>3</sup><br/>(21465.900 Yrths)
-        mass: 2.503 × 10<sup>28</sup> kg<br />(230.4613254305952 Yrths)
+        mass: 2.503 × 10<sup>28</sup> kg<br />(4191.517 Yrths)
         density: 1.077 g/cm<sup>3</sup>
         surface_gravity: 53.218 m/s<sup>2</sup><br />(5.427 g<sub>0</sub>)
         escape_velocity: 137.373 km/s<br />(494,543 km/h)
         rotation_period: 81.344 d
         axial_tilt: 5.92°
         albedo: 0.30
-        temperature: 27 K<br />(-246 °C)
+        temperature: 107 K<br />(-166 °C)
       - name: 0160 Enlinniad VI g
         type: Dwarf planet
         formationType: Captured
@@ -709,14 +709,14 @@ planets:
         radius: 166,345.1 km<br/>(26.110 Yrths)
         surface_area: 3.477 × 10<sup>11</sup> km<sup>2</sup><br/>(681.718 Yrths)
         volume: 1.928 × 10<sup>16</sup> km<sup>3</sup><br/>(17799.471 Yrths)
-        mass: 2.927 × 10<sup>28</sup> kg<br />(230.4613254305952 Yrths)
+        mass: 2.927 × 10<sup>28</sup> kg<br />(4901.090 Yrths)
         density: 1.518 g/cm<sup>3</sup>
         surface_gravity: 70.503 m/s<sup>2</sup><br />(7.189 g<sub>0</sub>)
         escape_velocity: 153.257 km/s<br />(551,724 km/h)
         rotation_period: 76.362 d
         axial_tilt: 34.88°
         albedo: 0.30
-        temperature: 20 K<br />(-253 °C)
+        temperature: 107 K<br />(-166 °C)
   - name: 0160 Enlinniad VII
     type: Ice giant
     aphelion: 814,204,076 km<br />5.443 AU
@@ -728,14 +728,14 @@ planets:
     radius: 17,784.9 km<br/>(2.792 Yrths)
     surface_area: 3.975 × 10<sup>09</sup> km<sup>2</sup><br/>(7.793 Yrths)
     volume: 2.356 × 10<sup>13</sup> km<sup>3</sup><br/>(21.754 Yrths)
-    mass: 3.171 × 10<sup>25</sup> kg<br />(5.310065754809567 Yrths)
+    mass: 3.171 × 10<sup>25</sup> kg<br />(5.31 Yrths)
     density: 1.346 g/cm<sup>3</sup>
     surface_gravity: 6.682 m/s<sup>2</sup><br />(0.681 g<sub>0</sub>)
     escape_velocity: 15.428 km/s<br />(55,540 km/h)
     rotation_period: 0.527 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 156 K<br />(-117 °C)
+    temperature: 141 K<br />(-132 °C)
     composition:
       - 87.2270% hydrogen
       - 10.5272% helium
@@ -754,14 +754,14 @@ planets:
         radius: 7,409.7 km<br/>(1.163 Yrths)
         surface_area: 6.899 × 10<sup>08</sup> km<sup>2</sup><br/>(1.353 Yrths)
         volume: 1.704 × 10<sup>12</sup> km<sup>3</sup><br/>(1.573 Yrths)
-        mass: 4.282 × 10<sup>24</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 4.282 × 10<sup>24</sup> kg<br />(0.717 Yrths)
         density: 2.513 g/cm<sup>3</sup>
         surface_gravity: 5.198 m/s<sup>2</sup><br />(0.530 g<sub>0</sub>)
         escape_velocity: 8.783 km/s<br />(31,618 km/h)
         rotation_period: 49.520 d
         axial_tilt: 24.03°
         albedo: 0.30
-        temperature: 835 K<br />(562 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -774,14 +774,14 @@ planets:
         radius: 6,001.0 km<br/>(0.942 Yrths)
         surface_area: 4.525 × 10<sup>08</sup> km<sup>2</sup><br/>(0.887 Yrths)
         volume: 9.052 × 10<sup>11</sup> km<sup>3</sup><br/>(0.836 Yrths)
-        mass: 1.547 × 10<sup>24</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 1.547 × 10<sup>24</sup> kg<br />(0.259 Yrths)
         density: 1.709 g/cm<sup>3</sup>
         surface_gravity: 2.863 m/s<sup>2</sup><br />(0.292 g<sub>0</sub>)
         escape_velocity: 5.865 km/s<br />(21,116 km/h)
         rotation_period: 62.754 d
         axial_tilt: 22.96°
         albedo: 0.30
-        temperature: 796 K<br />(523 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII c
         type: Dwarf planet
         formationType: Accreted
@@ -794,14 +794,14 @@ planets:
         radius: 5,018.6 km<br/>(0.788 Yrths)
         surface_area: 3.165 × 10<sup>08</sup> km<sup>2</sup><br/>(0.621 Yrths)
         volume: 5.295 × 10<sup>11</sup> km<sup>3</sup><br/>(0.489 Yrths)
-        mass: 1.225 × 10<sup>24</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 1.225 × 10<sup>24</sup> kg<br />(0.205 Yrths)
         density: 2.314 g/cm<sup>3</sup>
         surface_gravity: 3.243 m/s<sup>2</sup><br />(0.331 g<sub>0</sub>)
         escape_velocity: 5.709 km/s<br />(20,552 km/h)
         rotation_period: 60.729 d
         axial_tilt: 25.21°
         albedo: 0.30
-        temperature: 759 K<br />(486 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -814,14 +814,14 @@ planets:
         radius: 14,325.8 km<br/>(2.249 Yrths)
         surface_area: 2.579 × 10<sup>09</sup> km<sup>2</sup><br/>(5.056 Yrths)
         volume: 1.232 × 10<sup>13</sup> km<sup>3</sup><br/>(11.369 Yrths)
-        mass: 2.593 × 10<sup>25</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 2.593 × 10<sup>25</sup> kg<br />(4.343 Yrths)
         density: 2.106 g/cm<sup>3</sup>
         surface_gravity: 8.423 m/s<sup>2</sup><br />(0.859 g<sub>0</sub>)
         escape_velocity: 15.545 km/s<br />(55,963 km/h)
         rotation_period: 47.528 d
         axial_tilt: 15.75°
         albedo: 0.30
-        temperature: 724 K<br />(451 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII e
         type: Icy
         formationType: Accreted
@@ -834,14 +834,14 @@ planets:
         radius: 5,289.5 km<br/>(0.830 Yrths)
         surface_area: 3.516 × 10<sup>08</sup> km<sup>2</sup><br/>(0.689 Yrths)
         volume: 6.199 × 10<sup>11</sup> km<sup>3</sup><br/>(0.572 Yrths)
-        mass: 6.860 × 10<sup>23</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 6.860 × 10<sup>23</sup> kg<br />(0.115 Yrths)
         density: 1.107 g/cm<sup>3</sup>
         surface_gravity: 1.634 m/s<sup>2</sup><br />(0.167 g<sub>0</sub>)
         escape_velocity: 4.161 km/s<br />(14,978 km/h)
         rotation_period: 59.148 d
         axial_tilt: 13.99°
         albedo: 0.30
-        temperature: 690 K<br />(417 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII f
         type: Ice/rock hybrid
         formationType: Captured
@@ -854,14 +854,14 @@ planets:
         radius: 6,231.0 km<br/>(0.978 Yrths)
         surface_area: 4.879 × 10<sup>08</sup> km<sup>2</sup><br/>(0.957 Yrths)
         volume: 1.013 × 10<sup>12</sup> km<sup>3</sup><br/>(0.936 Yrths)
-        mass: 2.152 × 10<sup>24</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 2.152 × 10<sup>24</sup> kg<br />(0.360 Yrths)
         density: 2.123 g/cm<sup>3</sup>
         surface_gravity: 3.694 m/s<sup>2</sup><br />(0.377 g<sub>0</sub>)
         escape_velocity: 6.789 km/s<br />(24,442 km/h)
         rotation_period: 36.114 d
         axial_tilt: 19.88°
         albedo: 0.30
-        temperature: 658 K<br />(385 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII g
         type: Ice/rock hybrid
         formationType: Captured
@@ -874,14 +874,14 @@ planets:
         radius: 6,027.9 km<br/>(0.946 Yrths)
         surface_area: 4.566 × 10<sup>08</sup> km<sup>2</sup><br/>(0.895 Yrths)
         volume: 9.175 × 10<sup>11</sup> km<sup>3</sup><br/>(0.847 Yrths)
-        mass: 1.827 × 10<sup>24</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 1.827 × 10<sup>24</sup> kg<br />(0.306 Yrths)
         density: 1.991 g/cm<sup>3</sup>
         surface_gravity: 3.351 m/s<sup>2</sup><br />(0.342 g<sub>0</sub>)
         escape_velocity: 6.360 km/s<br />(22,896 km/h)
         rotation_period: 53.139 d
         axial_tilt: 23.60°
         albedo: 0.30
-        temperature: 628 K<br />(354 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -894,14 +894,14 @@ planets:
         radius: 14,800.1 km<br/>(2.323 Yrths)
         surface_area: 2.753 × 10<sup>09</sup> km<sup>2</sup><br/>(5.397 Yrths)
         volume: 1.358 × 10<sup>13</sup> km<sup>3</sup><br/>(12.536 Yrths)
-        mass: 2.173 × 10<sup>25</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 2.173 × 10<sup>25</sup> kg<br />(3.638 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 6.611 m/s<sup>2</sup><br />(0.674 g<sub>0</sub>)
         escape_velocity: 13.999 km/s<br />(50,395 km/h)
         rotation_period: 75.795 d
         axial_tilt: 20.20°
         albedo: 0.30
-        temperature: 598 K<br />(325 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -914,14 +914,14 @@ planets:
         radius: 3,812.6 km<br/>(0.598 Yrths)
         surface_area: 1.827 × 10<sup>08</sup> km<sup>2</sup><br/>(0.358 Yrths)
         volume: 2.321 × 10<sup>11</sup> km<sup>3</sup><br/>(0.214 Yrths)
-        mass: 5.219 × 10<sup>23</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 5.219 × 10<sup>23</sup> kg<br />(0.087 Yrths)
         density: 2.248 g/cm<sup>3</sup>
         surface_gravity: 2.393 m/s<sup>2</sup><br />(0.244 g<sub>0</sub>)
         escape_velocity: 4.275 km/s<br />(15,389 km/h)
         rotation_period: 36.078 d
         axial_tilt: 27.42°
         albedo: 0.30
-        temperature: 544 K<br />(271 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -934,14 +934,14 @@ planets:
         radius: 8,131.4 km<br/>(1.276 Yrths)
         surface_area: 8.309 × 10<sup>08</sup> km<sup>2</sup><br/>(1.629 Yrths)
         volume: 2.252 × 10<sup>12</sup> km<sup>3</sup><br/>(2.079 Yrths)
-        mass: 3.917 × 10<sup>24</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 3.917 × 10<sup>24</sup> kg<br />(0.656 Yrths)
         density: 1.739 g/cm<sup>3</sup>
         surface_gravity: 3.949 m/s<sup>2</sup><br />(0.403 g<sub>0</sub>)
         escape_velocity: 8.019 km/s<br />(28,868 km/h)
         rotation_period: 43.963 d
         axial_tilt: 16.80°
         albedo: 0.30
-        temperature: 519 K<br />(246 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII k
         type: Dwarf planet
         formationType: Captured
@@ -954,14 +954,14 @@ planets:
         radius: 6,975.7 km<br/>(1.095 Yrths)
         surface_area: 6.115 × 10<sup>08</sup> km<sup>2</sup><br/>(1.199 Yrths)
         volume: 1.422 × 10<sup>12</sup> km<sup>3</sup><br/>(1.313 Yrths)
-        mass: 2.516 × 10<sup>24</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 2.516 × 10<sup>24</sup> kg<br />(0.421 Yrths)
         density: 1.769 g/cm<sup>3</sup>
         surface_gravity: 3.446 m/s<sup>2</sup><br />(0.351 g<sub>0</sub>)
         escape_velocity: 6.938 km/s<br />(24,978 km/h)
         rotation_period: 60.136 d
         axial_tilt: 35.22°
         albedo: 0.30
-        temperature: 495 K<br />(221 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0160 Enlinniad VII l
         type: Ice/rock hybrid
         formationType: Captured
@@ -974,14 +974,14 @@ planets:
         radius: 5,981.4 km<br/>(0.939 Yrths)
         surface_area: 4.496 × 10<sup>08</sup> km<sup>2</sup><br/>(0.881 Yrths)
         volume: 8.964 × 10<sup>11</sup> km<sup>3</sup><br/>(0.828 Yrths)
-        mass: 1.527 × 10<sup>24</sup> kg<br />(5.310065754809567 Yrths)
+        mass: 1.527 × 10<sup>24</sup> kg<br />(0.256 Yrths)
         density: 1.704 g/cm<sup>3</sup>
         surface_gravity: 2.846 m/s<sup>2</sup><br />(0.290 g<sub>0</sub>)
         escape_velocity: 5.839 km/s<br />(21,019 km/h)
         rotation_period: 45.080 d
         axial_tilt: 22.11°
         albedo: 0.30
-        temperature: 472 K<br />(198 °C)
+        temperature: 85 K<br />(-188 °C)
     rings:
       - innerRadius: 10691.072724942429 km
       - width: 17752.14709792551 km

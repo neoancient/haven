@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2392 Narashiad is a star in the constellation Naras
+      2392 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 388.02 ly
 apparent_magnitude: 10.01
 absolute_magnitude: 4.63

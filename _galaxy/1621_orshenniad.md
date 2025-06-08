@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1621 Orshenniad is a star in the constellation Orshen
+      1621 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 681.17 ly
 apparent_magnitude: 12.23
 absolute_magnitude: 5.63

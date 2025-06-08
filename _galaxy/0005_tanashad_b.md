@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Tanashad B is a star in the constellation Tanas
+      0005 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1022.25 ly
 apparent_magnitude: 5.05
 absolute_magnitude: -2.43

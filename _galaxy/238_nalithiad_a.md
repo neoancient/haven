@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      238 Nalithiad A is a star in the constellation Nalith
+      238 Nalithiad A is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 242.29 ly
 apparent_magnitude: 9.84
 absolute_magnitude: 5.49

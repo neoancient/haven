@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      453 Tanashad is a star in the constellation Tanas
+      453 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 264.66 ly
 apparent_magnitude: 10.31
 absolute_magnitude: 5.76

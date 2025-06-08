@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2074 Noniashad is a star in the constellation Nonias
+      2074 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 739.86 ly
 apparent_magnitude: 12.79
 absolute_magnitude: 6.01

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1611 Keead A is a star in the constellation Kee
+      1611 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 353.88 ly
 apparent_magnitude: 7.65
 absolute_magnitude: 2.48

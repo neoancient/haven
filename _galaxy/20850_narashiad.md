@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      20850 Narashiad is a star in the constellation Naras
+      20850 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 474.46 ly
 apparent_magnitude: 11.16
 absolute_magnitude: 5.35

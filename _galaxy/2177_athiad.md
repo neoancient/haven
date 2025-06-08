@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2177 Athiad is a star in the constellation Ath
+      2177 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 824.08 ly
 apparent_magnitude: 11.52
 absolute_magnitude: 4.50

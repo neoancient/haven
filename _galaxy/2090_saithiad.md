@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2090 Saithiad is a star in the constellation Saith
+      2090 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 990.92 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 3.61

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      99 Nurranpugiad is a star in the constellation Nurranpug
+      99 Nurranpugiad is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 946.15 ly
 apparent_magnitude: 6.78
 absolute_magnitude: -0.54
@@ -31,14 +31,14 @@ planets:
     radius: 222.5 km<br/>(0.035 Yrths)
     surface_area: 6.220 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.613 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.607 × 10<sup>27</sup> kg<br />(269.1257942923731 Yrths)
+    mass: 1.607 × 10<sup>27</sup> kg<br />(269.13 Yrths)
     density: 34839793.797 g/cm<sup>3</sup>
     surface_gravity: 2164132.853 m/s<sup>2</sup><br />(220680.136 g<sub>0</sub>)
     escape_velocity: 981.982 km/s<br />(3,535,136 km/h)
     rotation_period: 0.238 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1664 K<br />(1391 °C)
+    temperature: 1600 K<br />(1327 °C)
     composition:
       - 52.2229% helium
       - 46.1708% hydrogen
@@ -56,14 +56,14 @@ planets:
         radius: 134,758.8 km<br/>(21.152 Yrths)
         surface_area: 2.282 × 10<sup>11</sup> km<sup>2</sup><br/>(447.403 Yrths)
         volume: 1.025 × 10<sup>16</sup> km<sup>3</sup><br/>(9463.426 Yrths)
-        mass: 2.267 × 10<sup>28</sup> kg<br />(269.1257942923731 Yrths)
+        mass: 2.267 × 10<sup>28</sup> kg<br />(3796.689 Yrths)
         density: 2.212 g/cm<sup>3</sup>
         surface_gravity: 83.220 m/s<sup>2</sup><br />(8.486 g<sub>0</sub>)
         escape_velocity: 149.866 km/s<br />(539,516 km/h)
         rotation_period: 34.957 d
         axial_tilt: 32.85°
         albedo: 0.30
-        temperature: 2245 K<br />(1972 °C)
+        temperature: 392 K<br />(119 °C)
       - name: 99 Nurranpugiad I b
         type: Icy
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 219,236.0 km<br/>(34.412 Yrths)
         surface_area: 6.040 × 10<sup>11</sup> km<sup>2</sup><br/>(1184.155 Yrths)
         volume: 4.414 × 10<sup>16</sup> km<sup>3</sup><br/>(40748.606 Yrths)
-        mass: 3.438 × 10<sup>28</sup> kg<br />(269.1257942923731 Yrths)
+        mass: 3.438 × 10<sup>28</sup> kg<br />(5756.502 Yrths)
         density: 0.779 g/cm<sup>3</sup>
         surface_gravity: 47.673 m/s<sup>2</sup><br />(4.861 g<sub>0</sub>)
         escape_velocity: 144.678 km/s<br />(520,839 km/h)
         rotation_period: 87.922 d
         axial_tilt: 18.24°
         albedo: 0.30
-        temperature: 1208 K<br />(935 °C)
+        temperature: 392 K<br />(119 °C)
       - name: 99 Nurranpugiad I c
         type: Rocky
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 128,645.6 km<br/>(20.192 Yrths)
         surface_area: 2.080 × 10<sup>11</sup> km<sup>2</sup><br/>(407.732 Yrths)
         volume: 8.918 × 10<sup>15</sup> km<sup>3</sup><br/>(8233.078 Yrths)
-        mass: 2.947 × 10<sup>28</sup> kg<br />(269.1257942923731 Yrths)
+        mass: 2.947 × 10<sup>28</sup> kg<br />(4935.147 Yrths)
         density: 3.305 g/cm<sup>3</sup>
         surface_gravity: 118.699 m/s<sup>2</sup><br />(12.104 g<sub>0</sub>)
         escape_velocity: 174.876 km/s<br />(629,554 km/h)
         rotation_period: 35.528 d
         axial_tilt: 5.58°
         albedo: 0.30
-        temperature: 1098 K<br />(825 °C)
+        temperature: 392 K<br />(119 °C)
       - name: 99 Nurranpugiad I d
         type: Rocky
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 177,531.3 km<br/>(27.866 Yrths)
         surface_area: 3.961 × 10<sup>11</sup> km<sup>2</sup><br/>(776.488 Yrths)
         volume: 2.344 × 10<sup>16</sup> km<sup>3</sup><br/>(21637.249 Yrths)
-        mass: 8.100 × 10<sup>28</sup> kg<br />(269.1257942923731 Yrths)
+        mass: 8.100 × 10<sup>28</sup> kg<br />(13564.116 Yrths)
         density: 3.456 g/cm<sup>3</sup>
         surface_gravity: 171.308 m/s<sup>2</sup><br />(17.469 g<sub>0</sub>)
         escape_velocity: 246.795 km/s<br />(888,461 km/h)
         rotation_period: 37.798 d
         axial_tilt: 15.28°
         albedo: 0.30
-        temperature: 787 K<br />(514 °C)
+        temperature: 392 K<br />(119 °C)
       - name: 99 Nurranpugiad I e
         type: Icy
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 148,763.2 km<br/>(23.350 Yrths)
         surface_area: 2.781 × 10<sup>11</sup> km<sup>2</sup><br/>(545.225 Yrths)
         volume: 1.379 × 10<sup>16</sup> km<sup>3</sup><br/>(12731.026 Yrths)
-        mass: 2.246 × 10<sup>28</sup> kg<br />(269.1257942923731 Yrths)
+        mass: 2.246 × 10<sup>28</sup> kg<br />(3760.101 Yrths)
         density: 1.628 g/cm<sup>3</sup>
         surface_gravity: 67.631 m/s<sup>2</sup><br />(6.896 g<sub>0</sub>)
         escape_velocity: 141.948 km/s<br />(511,013 km/h)
         rotation_period: 46.352 d
         axial_tilt: 9.59°
         albedo: 0.30
-        temperature: 715 K<br />(442 °C)
+        temperature: 392 K<br />(119 °C)
       - name: 99 Nurranpugiad I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -156,14 +156,14 @@ planets:
         radius: 154,649.4 km<br/>(24.274 Yrths)
         surface_area: 3.005 × 10<sup>11</sup> km<sup>2</sup><br/>(589.225 Yrths)
         volume: 1.549 × 10<sup>16</sup> km<sup>3</sup><br/>(14302.829 Yrths)
-        mass: 3.900 × 10<sup>28</sup> kg<br />(269.1257942923731 Yrths)
+        mass: 3.900 × 10<sup>28</sup> kg<br />(6530.154 Yrths)
         density: 2.517 g/cm<sup>3</sup>
         surface_gravity: 108.683 m/s<sup>2</sup><br />(11.083 g<sub>0</sub>)
         escape_velocity: 183.470 km/s<br />(660,492 km/h)
         rotation_period: 34.912 d
         axial_tilt: 24.89°
         albedo: 0.30
-        temperature: 620 K<br />(347 °C)
+        temperature: 392 K<br />(119 °C)
       - name: 99 Nurranpugiad I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -176,14 +176,14 @@ planets:
         radius: 138,926.0 km<br/>(21.806 Yrths)
         surface_area: 2.425 × 10<sup>11</sup> km<sup>2</sup><br/>(475.501 Yrths)
         volume: 1.123 × 10<sup>16</sup> km<sup>3</sup><br/>(10368.782 Yrths)
-        mass: 2.866 × 10<sup>28</sup> kg<br />(269.1257942923731 Yrths)
+        mass: 2.866 × 10<sup>28</sup> kg<br />(4799.536 Yrths)
         density: 2.552 g/cm<sup>3</sup>
         surface_gravity: 98.985 m/s<sup>2</sup><br />(10.094 g<sub>0</sub>)
         escape_velocity: 165.953 km/s<br />(597,432 km/h)
         rotation_period: 46.447 d
         axial_tilt: 22.72°
         albedo: 0.30
-        temperature: 591 K<br />(318 °C)
+        temperature: 392 K<br />(119 °C)
       - name: 99 Nurranpugiad I h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -196,14 +196,14 @@ planets:
         radius: 146,360.8 km<br/>(22.973 Yrths)
         surface_area: 2.692 × 10<sup>11</sup> km<sup>2</sup><br/>(527.758 Yrths)
         volume: 1.313 × 10<sup>16</sup> km<sup>3</sup><br/>(12124.160 Yrths)
-        mass: 2.717 × 10<sup>28</sup> kg<br />(269.1257942923731 Yrths)
+        mass: 2.717 × 10<sup>28</sup> kg<br />(4549.530 Yrths)
         density: 2.069 g/cm<sup>3</sup>
         surface_gravity: 84.538 m/s<sup>2</sup><br />(8.620 g<sub>0</sub>)
         escape_velocity: 157.416 km/s<br />(566,697 km/h)
         rotation_period: 59.916 d
         axial_tilt: 26.92°
         albedo: 0.30
-        temperature: 512 K<br />(239 °C)
+        temperature: 392 K<br />(119 °C)
       - name: 99 Nurranpugiad I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -216,14 +216,14 @@ planets:
         radius: 192,720.8 km<br/>(30.250 Yrths)
         surface_area: 4.667 × 10<sup>11</sup> km<sup>2</sup><br/>(915.044 Yrths)
         volume: 2.998 × 10<sup>16</sup> km<sup>3</sup><br/>(27679.799 Yrths)
-        mass: 5.325 × 10<sup>28</sup> kg<br />(269.1257942923731 Yrths)
+        mass: 5.325 × 10<sup>28</sup> kg<br />(8917.157 Yrths)
         density: 1.776 g/cm<sup>3</sup>
         surface_gravity: 95.566 m/s<sup>2</sup><br />(9.745 g<sub>0</sub>)
         escape_velocity: 192.055 km/s<br />(691,400 km/h)
         rotation_period: 55.650 d
         axial_tilt: 23.71°
         albedo: 0.30
-        temperature: 466 K<br />(193 °C)
+        temperature: 392 K<br />(119 °C)
   - name: 99 Nurranpugiad II
     type: Gas giant
     aphelion: 1,554,340,546 km<br />10.390 AU
@@ -235,14 +235,14 @@ planets:
     radius: 244.6 km<br/>(0.038 Yrths)
     surface_area: 7.515 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 6.126 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.390 × 10<sup>27</sup> kg<br />(400.2350100333967 Yrths)
+    mass: 2.390 × 10<sup>27</sup> kg<br />(400.24 Yrths)
     density: 39014805.137 g/cm<sup>3</sup>
     surface_gravity: 2663829.428 m/s<sup>2</sup><br />(271635.006 g<sub>0</sub>)
     escape_velocity: 1142.218 km/s<br />(4,111,986 km/h)
     rotation_period: 0.229 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1150 K<br />(877 °C)
+    temperature: 1107 K<br />(834 °C)
     composition:
       - 79.7566% hydrogen
       - 18.4403% helium
@@ -260,14 +260,14 @@ planets:
         radius: 339,777.4 km<br/>(53.332 Yrths)
         surface_area: 1.451 × 10<sup>12</sup> km<sup>2</sup><br/>(2844.289 Yrths)
         volume: 1.643 × 10<sup>17</sup> km<sup>3</sup><br/>(151691.267 Yrths)
-        mass: 1.963 × 10<sup>29</sup> kg<br />(400.2350100333967 Yrths)
+        mass: 1.963 × 10<sup>29</sup> kg<br />(32876.236 Yrths)
         density: 1.195 g/cm<sup>3</sup>
         surface_gravity: 113.352 m/s<sup>2</sup><br />(11.559 g<sub>0</sub>)
         escape_velocity: 277.729 km/s<br />(999,825 km/h)
         rotation_period: 47.251 d
         axial_tilt: 20.95°
         albedo: 0.30
-        temperature: 1524 K<br />(1251 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 99 Nurranpugiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -280,14 +280,14 @@ planets:
         radius: 313,952.5 km<br/>(49.278 Yrths)
         surface_area: 1.239 × 10<sup>12</sup> km<sup>2</sup><br/>(2428.358 Yrths)
         volume: 1.296 × 10<sup>17</sup> km<sup>3</sup><br/>(119665.556 Yrths)
-        mass: 2.143 × 10<sup>29</sup> kg<br />(400.2350100333967 Yrths)
+        mass: 2.143 × 10<sup>29</sup> kg<br />(35881.241 Yrths)
         density: 1.653 g/cm<sup>3</sup>
         surface_gravity: 144.902 m/s<sup>2</sup><br />(14.776 g<sub>0</sub>)
         escape_velocity: 301.842 km/s<br />(1,086,631 km/h)
         rotation_period: 46.237 d
         axial_tilt: 18.54°
         albedo: 0.30
-        temperature: 820 K<br />(547 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 99 Nurranpugiad II c
         type: Icy
         formationType: Impact formed
@@ -300,14 +300,14 @@ planets:
         radius: 404,746.3 km<br/>(63.529 Yrths)
         surface_area: 2.059 × 10<sup>12</sup> km<sup>2</sup><br/>(4035.995 Yrths)
         volume: 2.777 × 10<sup>17</sup> km<sup>3</sup><br/>(256404.667 Yrths)
-        mass: 4.845 × 10<sup>29</sup> kg<br />(400.2350100333967 Yrths)
+        mass: 4.845 × 10<sup>29</sup> kg<br />(81120.710 Yrths)
         density: 1.744 g/cm<sup>3</sup>
         surface_gravity: 197.107 m/s<sup>2</sup><br />(20.099 g<sub>0</sub>)
         escape_velocity: 399.717 km/s<br />(1,438,980 km/h)
         rotation_period: 53.829 d
         axial_tilt: 12.46°
         albedo: 0.30
-        temperature: 365 K<br />(92 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 99 Nurranpugiad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -320,14 +320,14 @@ planets:
         radius: 255,114.5 km<br/>(40.043 Yrths)
         surface_area: 8.179 × 10<sup>11</sup> km<sup>2</sup><br/>(1603.448 Yrths)
         volume: 6.955 × 10<sup>16</sup> km<sup>3</sup><br/>(64207.003 Yrths)
-        mass: 1.458 × 10<sup>29</sup> kg<br />(400.2350100333967 Yrths)
+        mass: 1.458 × 10<sup>29</sup> kg<br />(24414.458 Yrths)
         density: 2.096 g/cm<sup>3</sup>
         surface_gravity: 149.318 m/s<sup>2</sup><br />(15.226 g<sub>0</sub>)
         escape_velocity: 276.206 km/s<br />(994,343 km/h)
         rotation_period: 37.525 d
         axial_tilt: 10.47°
         albedo: 0.30
-        temperature: 227 K<br />(-47 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 99 Nurranpugiad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -340,12 +340,12 @@ planets:
         radius: 372,206.0 km<br/>(58.422 Yrths)
         surface_area: 1.741 × 10<sup>12</sup> km<sup>2</sup><br/>(3413.120 Yrths)
         volume: 2.160 × 10<sup>17</sup> km<sup>3</sup><br/>(199401.003 Yrths)
-        mass: 3.575 × 10<sup>29</sup> kg<br />(400.2350100333967 Yrths)
+        mass: 3.575 × 10<sup>29</sup> kg<br />(59865.604 Yrths)
         density: 1.655 g/cm<sup>3</sup>
         surface_gravity: 172.007 m/s<sup>2</sup><br />(17.540 g<sub>0</sub>)
         escape_velocity: 358.076 km/s<br />(1,289,072 km/h)
         rotation_period: 41.562 d
         axial_tilt: 30.72°
         albedo: 0.30
-        temperature: 178 K<br />(-95 °C)
+        temperature: 271 K<br />(-2 °C)
 ---

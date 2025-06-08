@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5321 Narashiad is a star in the constellation Naras
+      5321 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 467.93 ly
 apparent_magnitude: 15.59
 absolute_magnitude: 9.81

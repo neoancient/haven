@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1193 Keead is a star in the constellation Kee
+      1193 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 435.70 ly
 apparent_magnitude: 10.36
 absolute_magnitude: 4.73

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1881 Shanniashiad A is a star in the constellation Shannias
+      1881 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 653.82 ly
 apparent_magnitude: 7.46
 absolute_magnitude: 0.95

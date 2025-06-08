@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Innad Erna is a star in the constellation Inna
+      Innad Erna is a star in the constellation <a href="inna.html">Inna</a>
 distance: 234.03 ly
 apparent_magnitude: 4.03
 absolute_magnitude: -0.25

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3629 Oniad A is a star in the constellation Oni
+      3629 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 184.06 ly
 apparent_magnitude: 9.81
 absolute_magnitude: 6.05

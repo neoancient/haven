@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      507 Aldnanniad is a star in the constellation Aldnan
+      507 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 613.95 ly
 apparent_magnitude: 11.30
 absolute_magnitude: 4.93

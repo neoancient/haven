@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      π Guashiad A is a star in the constellation Guashi
+      π Guashiad A is a star in the constellation <a href="guashi.html">Guashi</a>
 distance: 579.90 ly
 apparent_magnitude: 5.54
 absolute_magnitude: -0.71

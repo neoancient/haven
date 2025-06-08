@@ -7,7 +7,7 @@ sections:
   - content: >-
       Kerr is a constellation representing a Poplar.
 stars:
-  - name:
+  - name: <a href="fyaru.html">Fyaru</a>
     designation: α Kerriad
     ra: 7<sup>h</sup> 07<sup>m</sup> 6.32<sup>s</sup>
     dec: -4° 49' 20.74"
@@ -15,7 +15,7 @@ stars:
     absolute_magnitude: -6.28
     distance: 687.49
     spectral_class: B4III + B9Ib
-  - name:
+  - name: <a href="nane.html">Nane</a>
     designation: β Kerriad
     ra: 7<sup>h</sup> 38<sup>m</sup> 43.82<sup>s</sup>
     dec: -3° 18' 2.27"
@@ -192,7 +192,7 @@ stars:
     distance: 154.64
     spectral_class: A3V
   - name:
-    designation: 0012 Kerriad
+    designation: <a href="0012_kerriad.html">0012 Kerriad</a>
     ra: 7<sup>h</sup> 34<sup>m</sup> 30.64<sup>s</sup>
     dec: -8° 48' 55.58"
     apparent_magnitude: 5.58
@@ -248,7 +248,7 @@ stars:
     distance: 576.01
     spectral_class: A7III + K6III + K7III + A6V + M0III
   - name:
-    designation: 0055 Kerriad
+    designation: <a href="0055_kerriad.html">0055 Kerriad</a>
     ra: 7<sup>h</sup> 35<sup>m</sup> 19.14<sup>s</sup>
     dec: 3° 20' 44.63"
     apparent_magnitude: 5.68
@@ -376,7 +376,7 @@ stars:
     distance: 110.96
     spectral_class: A9V
   - name:
-    designation: 0083 Kerriad
+    designation: <a href="0083_kerriad.html">0083 Kerriad</a>
     ra: 7<sup>h</sup> 43<sup>m</sup> 3.58<sup>s</sup>
     dec: 8° 19' 38.41"
     apparent_magnitude: 5.91
@@ -400,7 +400,7 @@ stars:
     distance: 599.77
     spectral_class: A1IV
   - name:
-    designation: 0036 Kerriad
+    designation: <a href="0036_kerriad.html">0036 Kerriad</a>
     ra: 7<sup>h</sup> 07<sup>m</sup> 32.63<sup>s</sup>
     dec: -1° 44' 7.01"
     apparent_magnitude: 5.93
@@ -448,7 +448,7 @@ stars:
     distance: 722.66
     spectral_class: A7II
   - name:
-    designation: 0035 Kerriad
+    designation: <a href="0035_kerriad.html">0035 Kerriad</a>
     ra: 7<sup>h</sup> 21<sup>m</sup> 5.89<sup>s</sup>
     dec: 0° 08' 56.67"
     apparent_magnitude: 6.08
@@ -512,7 +512,7 @@ stars:
     distance: 336.68
     spectral_class: F2III + DA
   - name:
-    designation: 0015 Kerriad
+    designation: <a href="0015_kerriad.html">0015 Kerriad</a>
     ra: 7<sup>h</sup> 41<sup>m</sup> 56.16<sup>s</sup>
     dec: -9° 15' 8.58"
     apparent_magnitude: 6.18
@@ -568,7 +568,7 @@ stars:
     distance: 358.12
     spectral_class: A4IV
   - name:
-    designation: 0062 Kerriad
+    designation: <a href="0062_kerriad.html">0062 Kerriad</a>
     ra: 7<sup>h</sup> 07<sup>m</sup> 21.86<sup>s</sup>
     dec: 4° 54' 3.43"
     apparent_magnitude: 6.22
@@ -576,7 +576,7 @@ stars:
     distance: 942.51
     spectral_class: A3III
   - name:
-    designation: 0051 Kerriad
+    designation: <a href="0051_kerriad.html">0051 Kerriad</a>
     ra: 7<sup>h</sup> 18<sup>m</sup> 40.46<sup>s</sup>
     dec: 1° 32' 29.08"
     apparent_magnitude: 6.24
@@ -600,7 +600,7 @@ stars:
     distance: 296.71
     spectral_class: F6III
   - name:
-    designation: 0010 Kerriad
+    designation: <a href="0010_kerriad.html">0010 Kerriad</a>
     ra: 7<sup>h</sup> 34<sup>m</sup> 39.93<sup>s</sup>
     dec: -9° 58' 21.94"
     apparent_magnitude: 6.27
@@ -696,7 +696,7 @@ stars:
     distance: 1,211.37
     spectral_class: A0III
   - name:
-    designation: 0067 Kerriad
+    designation: <a href="0067_kerriad.html">0067 Kerriad</a>
     ra: 7<sup>h</sup> 51<sup>m</sup> 55.43<sup>s</sup>
     dec: 4° 12' 35.13"
     apparent_magnitude: 6.35
@@ -704,7 +704,7 @@ stars:
     distance: 38.22
     spectral_class: G8V
   - name:
-    designation: 0081 Kerriad
+    designation: <a href="0081_kerriad.html">0081 Kerriad</a>
     ra: 7<sup>h</sup> 31<sup>m</sup> 12.15<sup>s</sup>
     dec: 10° 12' 11.72"
     apparent_magnitude: 6.35
@@ -712,7 +712,7 @@ stars:
     distance: 325.08
     spectral_class: F4III
   - name:
-    designation: 0071 Kerriad
+    designation: <a href="0071_kerriad.html">0071 Kerriad</a>
     ra: 7<sup>h</sup> 30<sup>m</sup> 7.30<sup>s</sup>
     dec: 6° 39' 11.18"
     apparent_magnitude: 6.36
@@ -736,7 +736,7 @@ stars:
     distance: 1,079.90
     spectral_class: A2III
   - name:
-    designation: 0087 Kerriad
+    designation: <a href="0087_kerriad.html">0087 Kerriad</a>
     ra: 7<sup>h</sup> 23<sup>m</sup> 8.81<sup>s</sup>
     dec: 12° 30' 35.62"
     apparent_magnitude: 6.38
@@ -760,7 +760,7 @@ stars:
     distance: 975.06
     spectral_class: A6II
   - name:
-    designation: 0021 Kerriad
+    designation: <a href="0021_kerriad.html">0021 Kerriad</a>
     ra: 6<sup>h</sup> 59<sup>m</sup> 33.32<sup>s</sup>
     dec: -5° 03' 47.53"
     apparent_magnitude: 6.38
@@ -800,7 +800,7 @@ stars:
     distance: 328.17
     spectral_class: A9III + F9V + M1III + A5V + K4III
   - name:
-    designation: 0057 Kerriad
+    designation: <a href="0057_kerriad.html">0057 Kerriad</a>
     ra: 7<sup>h</sup> 45<sup>m</sup> 36.47<sup>s</sup>
     dec: 0° 41' 34.98"
     apparent_magnitude: 6.43
@@ -840,7 +840,7 @@ stars:
     distance: 514.12
     spectral_class: A9III
   - name:
-    designation: 0022 Kerriad
+    designation: <a href="0022_kerriad.html">0022 Kerriad</a>
     ra: 7<sup>h</sup> 04<sup>m</sup> 40.22<sup>s</sup>
     dec: -5° 01' 45.49"
     apparent_magnitude: 6.46
@@ -864,7 +864,7 @@ stars:
     distance: 1,590.86
     spectral_class: M7Iab + B7V
   - name:
-    designation: 0080 Kerriad
+    designation: <a href="0080_kerriad.html">0080 Kerriad</a>
     ra: 7<sup>h</sup> 17<sup>m</sup> 5.58<sup>s</sup>
     dec: 9° 02' 24.42"
     apparent_magnitude: 6.47
@@ -912,7 +912,7 @@ stars:
     distance: 1,786.70
     spectral_class: A4II + A2V + A1III
   - name:
-    designation: 0075 Kerriad
+    designation: <a href="0075_kerriad.html">0075 Kerriad</a>
     ra: 7<sup>h</sup> 13<sup>m</sup> 0.94<sup>s</sup>
     dec: 9° 54' 51.10"
     apparent_magnitude: 6.50
@@ -927,7 +927,15 @@ stars:
     absolute_magnitude: 2.83
     distance: 176.87
     spectral_class: A5V
-  - name: 
+  - name:
+    designation: <a href="36996_kerriad.html">36996 Kerriad</a>
+    ra: 7<sup>h</sup> 22<sup>m</sup> 0.00<sup>s</sup>
+    dec: -2° 17' 60.00"
+    apparent_magnitude: 10.33
+    absolute_magnitude: 4.97
+    distance: 385.40
+    spectral_class: F6V
+  - name:
     designation: <a href="21077_kerriad.html">21077 Kerriad</a>
     ra: 7<sup>h</sup> 15<sup>m</sup> 57.60<sup>s</sup>
     dec: -10° 12' 36.00"
@@ -935,7 +943,7 @@ stars:
     absolute_magnitude: 7.79
     distance: 119.38
     spectral_class: K8V
-  - name: 
+  - name:
     designation: <a href="28930_kerriad.html">28930 Kerriad</a>
     ra: 7<sup>h</sup> 42<sup>m</sup> 24.00<sup>s</sup>
     dec: -8° 11' 60.00"
@@ -943,23 +951,7 @@ stars:
     absolute_magnitude: 5.80
     distance: 332.01
     spectral_class: G6V
-  - name: 
-    designation: <a href="32731_kerriad.html">32731 Kerriad</a>
-    ra: 7<sup>h</sup> 22<sup>m</sup> 48.00<sup>s</sup>
-    dec: -5° 29' 60.00"
-    apparent_magnitude: 10.93
-    absolute_magnitude: 5.23
-    distance: 451.00
-    spectral_class: K8III
-  - name: 
-    designation: <a href="36996_kerriad.html">36996 Kerriad</a>
-    ra: 7<sup>h</sup> 22<sup>m</sup> 0.00<sup>s</sup>
-    dec: -2° 17' 60.00"
-    apparent_magnitude: 11.02
-    absolute_magnitude: 5.66
-    distance: 385.40
-    spectral_class: K8III
-  - name: 
+  - name:
     designation: <a href="55793_kerriad.html">55793 Kerriad</a>
     ra: 7<sup>h</sup> 35<sup>m</sup> 26.40<sup>s</sup>
     dec: -8° 30' 0.00"
@@ -967,7 +959,7 @@ stars:
     absolute_magnitude: 7.93
     distance: 154.91
     spectral_class: K8V
-  - name: 
+  - name:
     designation: <a href="101998_kerriad.html">101998 Kerriad</a>
     ra: 7<sup>h</sup> 01<sup>m</sup> 12.00<sup>s</sup>
     dec: -9° 06' 0.00"
@@ -975,4 +967,12 @@ stars:
     absolute_magnitude: 7.45
     distance: 236.94
     spectral_class: K6V
+  - name: <a href="kestra.html">Kestra</a>
+    designation: 32731 Kerriad
+    ra: 7<sup>h</sup> 22<sup>m</sup> 48.00<sup>s</sup>
+    dec: -5° 29' 60.00"
+    apparent_magnitude: 13.87
+    absolute_magnitude: 8.17
+    distance: 451.00
+    spectral_class: K8V
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4530 Dialkeshiad is a star in the constellation Dialkes
+      4530 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 380.34 ly
 apparent_magnitude: 9.90
 absolute_magnitude: 4.56

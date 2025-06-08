@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1609 Geardiad is a star in the constellation Geard
+      1609 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 413.21 ly
 apparent_magnitude: 10.25
 absolute_magnitude: 4.74

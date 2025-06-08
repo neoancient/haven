@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5919 Narashiad is a star in the constellation Naras
+      5919 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 246.50 ly
 apparent_magnitude: 9.06
 absolute_magnitude: 4.67

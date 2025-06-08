@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11192 Saithiad is a star in the constellation Saith
+      11192 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 719.47 ly
 apparent_magnitude: 12.00
 absolute_magnitude: 5.29

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11361 Arkothiad A is a star in the constellation Arkoth
+      11361 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 289.53 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 6.05

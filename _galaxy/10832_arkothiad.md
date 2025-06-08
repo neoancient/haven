@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10832 Arkothiad is a star in the constellation Arkoth
+      10832 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 320.11 ly
 apparent_magnitude: 19.39
 absolute_magnitude: 14.43

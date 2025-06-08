@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0003 Ishgakkiad D is a star in the constellation Ishgak
+      0003 Ishgakkiad D is a star in the constellation <a href="ishgak.html">Ishgak</a>
 distance: 104.91 ly
 apparent_magnitude: 7.39
 absolute_magnitude: 4.85
@@ -31,7 +31,7 @@ planets:
     radius: 150.8 km<br/>(0.024 Yrths)
     surface_area: 2.857 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.436 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.367 × 10<sup>26</sup> kg<br />(56.37301386240056 Yrths)
+    mass: 3.367 × 10<sup>26</sup> kg<br />(56.37 Yrths)
     density: 23448672.959 g/cm<sup>3</sup>
     surface_gravity: 987076.980 m/s<sup>2</sup><br />(100653.840 g<sub>0</sub>)
     escape_velocity: 545.946 km/s<br />(1,965,404 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 87,828.7 km<br/>(13.786 Yrths)
         surface_area: 9.694 × 10<sup>10</sup> km<sup>2</sup><br/>(190.046 Yrths)
         volume: 2.838 × 10<sup>15</sup> km<sup>3</sup><br/>(2619.912 Yrths)
-        mass: 2.450 × 10<sup>27</sup> kg<br />(56.37301386240056 Yrths)
+        mass: 2.450 × 10<sup>27</sup> kg<br />(410.310 Yrths)
         density: 0.863 g/cm<sup>3</sup>
         surface_gravity: 21.173 m/s<sup>2</sup><br />(2.159 g<sub>0</sub>)
         escape_velocity: 61.026 km/s<br />(219,694 km/h)
         rotation_period: 94.751 d
         axial_tilt: 16.72°
         albedo: 0.30
-        temperature: 2299 K<br />(2026 °C)
+        temperature: 320 K<br />(46 °C)
       - name: 0003 Ishgakkiad D I b
         type: Icy
         formationType: Accreted
@@ -72,15 +72,35 @@ planets:
         radius: 83,001.0 km<br/>(13.028 Yrths)
         surface_area: 8.657 × 10<sup>10</sup> km<sup>2</sup><br/>(169.727 Yrths)
         volume: 2.395 × 10<sup>15</sup> km<sup>3</sup><br/>(2211.196 Yrths)
-        mass: 2.952 × 10<sup>27</sup> kg<br />(56.37301386240056 Yrths)
+        mass: 2.952 × 10<sup>27</sup> kg<br />(494.239 Yrths)
         density: 1.232 g/cm<sup>3</sup>
         surface_gravity: 28.557 m/s<sup>2</sup><br />(2.912 g<sub>0</sub>)
         escape_velocity: 68.898 km/s<br />(248,032 km/h)
         rotation_period: 74.089 d
         axial_tilt: 12.38°
         albedo: 0.30
-        temperature: 1428 K<br />(1154 °C)
+        temperature: 320 K<br />(46 °C)
       - name: 0003 Ishgakkiad D I c
+        type: Icy
+        formationType: Captured
+        aphelion: 6,127,539 km<br />
+        perihelion: 4,822,448 km<br />
+        semi_major_axis: 5,474,994 km<br />
+        eccentricity: 0.119
+        orbital_period: 0.00 d<br />
+        inclination: 3.80°
+        radius: 48,886.9 km<br/>(7.673 Yrths)
+        surface_area: 3.003 × 10<sup>10</sup> km<sup>2</sup><br/>(58.880 Yrths)
+        volume: 4.894 × 10<sup>14</sup> km<sup>3</sup><br/>(451.810 Yrths)
+        mass: 3.799 × 10<sup>26</sup> kg<br />(63.609 Yrths)
+        density: 0.776 g/cm<sup>3</sup>
+        surface_gravity: 10.594 m/s<sup>2</sup><br />(1.080 g<sub>0</sub>)
+        escape_velocity: 32.206 km/s<br />(115,942 km/h)
+        rotation_period: 82.911 d
+        axial_tilt: 12.68°
+        albedo: 0.30
+        temperature: 320 K<br />(46 °C)
+      - name: 0003 Ishgakkiad D I d
         type: Icy
         formationType: Accreted
         aphelion: 12,541,706 km<br />
@@ -92,15 +112,15 @@ planets:
         radius: 62,891.5 km<br/>(9.872 Yrths)
         surface_area: 4.970 × 10<sup>10</sup> km<sup>2</sup><br/>(97.447 Yrths)
         volume: 1.042 × 10<sup>15</sup> km<sup>3</sup><br/>(961.953 Yrths)
-        mass: 1.789 × 10<sup>27</sup> kg<br />(56.37301386240056 Yrths)
+        mass: 1.789 × 10<sup>27</sup> kg<br />(299.579 Yrths)
         density: 1.717 g/cm<sup>3</sup>
         surface_gravity: 30.148 m/s<sup>2</sup><br />(3.074 g<sub>0</sub>)
         escape_velocity: 61.622 km/s<br />(221,840 km/h)
         rotation_period: 40.038 d
         axial_tilt: 15.81°
         albedo: 0.30
-        temperature: 930 K<br />(656 °C)
-      - name: 0003 Ishgakkiad D I d
+        temperature: 320 K<br />(46 °C)
+      - name: 0003 Ishgakkiad D I e
         type: Icy
         formationType: Accreted
         aphelion: 13,623,474 km<br />
@@ -112,15 +132,15 @@ planets:
         radius: 86,524.1 km<br/>(13.581 Yrths)
         surface_area: 9.408 × 10<sup>10</sup> km<sup>2</sup><br/>(184.442 Yrths)
         volume: 2.713 × 10<sup>15</sup> km<sup>3</sup><br/>(2504.890 Yrths)
-        mass: 2.610 × 10<sup>27</sup> kg<br />(56.37301386240056 Yrths)
+        mass: 2.610 × 10<sup>27</sup> kg<br />(436.968 Yrths)
         density: 0.962 g/cm<sup>3</sup>
         surface_gravity: 23.233 m/s<sup>2</sup><br />(2.369 g<sub>0</sub>)
         escape_velocity: 63.450 km/s<br />(228,421 km/h)
         rotation_period: 59.778 d
         axial_tilt: 21.54°
         albedo: 0.30
-        temperature: 886 K<br />(613 °C)
-      - name: 0003 Ishgakkiad D I e
+        temperature: 320 K<br />(46 °C)
+      - name: 0003 Ishgakkiad D I f
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 20,988,026 km<br />
@@ -132,14 +152,34 @@ planets:
         radius: 92,803.0 km<br/>(14.566 Yrths)
         surface_area: 1.082 × 10<sup>11</sup> km<sup>2</sup><br/>(212.182 Yrths)
         volume: 3.348 × 10<sup>15</sup> km<sup>3</sup><br/>(3090.743 Yrths)
-        mass: 8.783 × 10<sup>27</sup> kg<br />(56.37301386240056 Yrths)
+        mass: 8.783 × 10<sup>27</sup> kg<br />(1470.736 Yrths)
         density: 2.623 g/cm<sup>3</sup>
         surface_gravity: 67.975 m/s<sup>2</sup><br />(6.931 g<sub>0</sub>)
         escape_velocity: 112.399 km/s<br />(404,638 km/h)
         rotation_period: 48.007 d
         axial_tilt: 10.76°
         albedo: 0.30
-        temperature: 768 K<br />(495 °C)
+        temperature: 320 K<br />(46 °C)
+      - name: 0003 Ishgakkiad D I g
+        type: Icy
+        formationType: Accreted
+        aphelion: 20,591,077 km<br />
+        perihelion: 17,211,250 km<br />
+        semi_major_axis: 18,901,163 km<br />
+        eccentricity: 0.089
+        orbital_period: 0.00 d<br />
+        inclination: 3.68°
+        radius: 24,889.9 km<br/>(3.907 Yrths)
+        surface_area: 7.785 × 10<sup>09</sup> km<sup>2</sup><br/>(15.263 Yrths)
+        volume: 6.459 × 10<sup>13</sup> km<sup>3</sup><br/>(59.628 Yrths)
+        mass: 8.993 × 10<sup>25</sup> kg<br />(15.058 Yrths)
+        density: 1.392 g/cm<sup>3</sup>
+        surface_gravity: 9.675 m/s<sup>2</sup><br />(0.987 g<sub>0</sub>)
+        escape_velocity: 21.961 km/s<br />(79,060 km/h)
+        rotation_period: 50.100 d
+        axial_tilt: 14.48°
+        albedo: 0.30
+        temperature: 320 K<br />(46 °C)
   - name: 0003 Ishgakkiad D II
     type: Ice giant
     aphelion: 182,467,106 km<br />1.220 AU
@@ -151,14 +191,14 @@ planets:
     radius: 28,241.6 km<br/>(4.433 Yrths)
     surface_area: 1.002 × 10<sup>10</sup> km<sup>2</sup><br/>(19.650 Yrths)
     volume: 9.435 × 10<sup>13</sup> km<sup>3</sup><br/>(87.105 Yrths)
-    mass: 1.335 × 10<sup>26</sup> kg<br />(22.359585025336198 Yrths)
+    mass: 1.335 × 10<sup>26</sup> kg<br />(22.36 Yrths)
     density: 1.415 g/cm<sup>3</sup>
     surface_gravity: 11.159 m/s<sup>2</sup><br />(1.138 g<sub>0</sub>)
     escape_velocity: 25.123 km/s<br />(90,441 km/h)
     rotation_period: 0.532 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 407 K<br />(134 °C)
+    temperature: 363 K<br />(90 °C)
     composition:
       - 70.0583% hydrogen
       - 28.5657% helium
@@ -176,14 +216,14 @@ planets:
         radius: 15,339.3 km<br/>(2.408 Yrths)
         surface_area: 2.957 × 10<sup>09</sup> km<sup>2</sup><br/>(5.797 Yrths)
         volume: 1.512 × 10<sup>13</sup> km<sup>3</sup><br/>(13.957 Yrths)
-        mass: 4.365 × 10<sup>25</sup> kg<br />(22.359585025336198 Yrths)
+        mass: 4.365 × 10<sup>25</sup> kg<br />(7.309 Yrths)
         density: 2.887 g/cm<sup>3</sup>
         surface_gravity: 12.365 m/s<sup>2</sup><br />(1.261 g<sub>0</sub>)
         escape_velocity: 19.490 km/s<br />(70,164 km/h)
         rotation_period: 34.487 d
         axial_tilt: 26.47°
         albedo: 0.30
-        temperature: 2008 K<br />(1734 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 0003 Ishgakkiad D II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -196,14 +236,14 @@ planets:
         radius: 17,085.5 km<br/>(2.682 Yrths)
         surface_area: 3.668 × 10<sup>09</sup> km<sup>2</sup><br/>(7.192 Yrths)
         volume: 2.089 × 10<sup>13</sup> km<sup>3</sup><br/>(19.287 Yrths)
-        mass: 5.087 × 10<sup>25</sup> kg<br />(22.359585025336198 Yrths)
+        mass: 5.087 × 10<sup>25</sup> kg<br />(8.517 Yrths)
         density: 2.435 g/cm<sup>3</sup>
         surface_gravity: 11.614 m/s<sup>2</sup><br />(1.184 g<sub>0</sub>)
         escape_velocity: 19.935 km/s<br />(71,766 km/h)
         rotation_period: 42.392 d
         axial_tilt: 26.22°
         albedo: 0.30
-        temperature: 1659 K<br />(1386 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 0003 Ishgakkiad D II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -216,14 +256,14 @@ planets:
         radius: 21,730.1 km<br/>(3.411 Yrths)
         surface_area: 5.934 × 10<sup>09</sup> km<sup>2</sup><br/>(11.633 Yrths)
         volume: 4.298 × 10<sup>13</sup> km<sup>3</sup><br/>(39.679 Yrths)
-        mass: 7.631 × 10<sup>25</sup> kg<br />(22.359585025336198 Yrths)
+        mass: 7.631 × 10<sup>25</sup> kg<br />(12.778 Yrths)
         density: 1.775 g/cm<sup>3</sup>
         surface_gravity: 10.771 m/s<sup>2</sup><br />(1.098 g<sub>0</sub>)
         escape_velocity: 21.651 km/s<br />(77,944 km/h)
         rotation_period: 71.124 d
         axial_tilt: 21.39°
         albedo: 0.30
-        temperature: 1371 K<br />(1098 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 0003 Ishgakkiad D II d
         type: Icy
         formationType: Accreted
@@ -236,14 +276,14 @@ planets:
         radius: 44,354.1 km<br/>(6.962 Yrths)
         surface_area: 2.472 × 10<sup>10</sup> km<sup>2</sup><br/>(48.468 Yrths)
         volume: 3.655 × 10<sup>14</sup> km<sup>3</sup><br/>(337.426 Yrths)
-        mass: 4.193 × 10<sup>26</sup> kg<br />(22.359585025336198 Yrths)
+        mass: 4.193 × 10<sup>26</sup> kg<br />(70.211 Yrths)
         density: 1.147 g/cm<sup>3</sup>
         surface_gravity: 14.206 m/s<sup>2</sup><br />(1.449 g<sub>0</sub>)
         escape_velocity: 35.523 km/s<br />(127,884 km/h)
         rotation_period: 71.714 d
         axial_tilt: 21.33°
         albedo: 0.30
-        temperature: 1307 K<br />(1034 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 0003 Ishgakkiad D II e
         type: Icy
         formationType: Impact formed
@@ -256,14 +296,14 @@ planets:
         radius: 31,673.4 km<br/>(4.971 Yrths)
         surface_area: 1.261 × 10<sup>10</sup> km<sup>2</sup><br/>(24.716 Yrths)
         volume: 1.331 × 10<sup>14</sup> km<sup>3</sup><br/>(122.875 Yrths)
-        mass: 1.660 × 10<sup>26</sup> kg<br />(22.359585025336198 Yrths)
+        mass: 1.660 × 10<sup>26</sup> kg<br />(27.796 Yrths)
         density: 1.247 g/cm<sup>3</sup>
         surface_gravity: 11.029 m/s<sup>2</sup><br />(1.125 g<sub>0</sub>)
         escape_velocity: 26.450 km/s<br />(95,218 km/h)
         rotation_period: 68.263 d
         axial_tilt: 17.28°
         albedo: 0.30
-        temperature: 1133 K<br />(860 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 0003 Ishgakkiad D II f
         type: Asteroid
         formationType: Captured
@@ -276,14 +316,14 @@ planets:
         radius: 14,044.7 km<br/>(2.204 Yrths)
         surface_area: 2.479 × 10<sup>09</sup> km<sup>2</sup><br/>(4.860 Yrths)
         volume: 1.160 × 10<sup>13</sup> km<sup>3</sup><br/>(10.713 Yrths)
-        mass: 3.321 × 10<sup>25</sup> kg<br />(22.359585025336198 Yrths)
+        mass: 3.321 × 10<sup>25</sup> kg<br />(5.561 Yrths)
         density: 2.862 g/cm<sup>3</sup>
         surface_gravity: 11.222 m/s<sup>2</sup><br />(1.144 g<sub>0</sub>)
         escape_velocity: 17.767 km/s<br />(63,961 km/h)
         rotation_period: 30.165 d
         axial_tilt: 47.93°
         albedo: 0.30
-        temperature: 1081 K<br />(807 °C)
+        temperature: 239 K<br />(-34 °C)
   - name: 0003 Ishgakkiad D III
     type: Large terrestrial
     aphelion: 346,351,216 km<br />2.315 AU
@@ -295,14 +335,14 @@ planets:
     radius: 10,800.2 km<br/>(1.695 Yrths)
     surface_area: 1.466 × 10<sup>09</sup> km<sup>2</sup><br/>(2.874 Yrths)
     volume: 5.277 × 10<sup>12</sup> km<sup>3</sup><br/>(4.872 Yrths)
-    mass: 3.404 × 10<sup>25</sup> kg<br />(5.700145439711459 Yrths)
+    mass: 3.404 × 10<sup>25</sup> kg<br />(5.70 Yrths)
     density: 6.451 g/cm<sup>3</sup>
     surface_gravity: 19.452 m/s<sup>2</sup><br />(1.984 g<sub>0</sub>)
     escape_velocity: 20.512 km/s<br />(73,843 km/h)
     rotation_period: 0.669 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 222 K<br />(-51 °C)
+    temperature: 224 K<br />(-49 °C)
     surface_pressure: 148 kPa<br />(1 atm)
     composition:
       - 93.9197% nitrogen
@@ -321,14 +361,14 @@ planets:
         radius: 9,486.3 km<br/>(1.489 Yrths)
         surface_area: 1.131 × 10<sup>09</sup> km<sup>2</sup><br/>(2.217 Yrths)
         volume: 3.576 × 10<sup>12</sup> km<sup>3</sup><br/>(3.301 Yrths)
-        mass: 9.182 × 10<sup>24</sup> kg<br />(5.700145439711459 Yrths)
+        mass: 9.182 × 10<sup>24</sup> kg<br />(1.537 Yrths)
         density: 2.568 g/cm<sup>3</sup>
         surface_gravity: 6.801 m/s<sup>2</sup><br />(0.693 g<sub>0</sub>)
         escape_velocity: 11.367 km/s<br />(40,920 km/h)
         rotation_period: 61.645 d
         axial_tilt: 21.17°
         albedo: 0.30
-        temperature: 1924 K<br />(1651 °C)
+        temperature: 179 K<br />(-94 °C)
       - name: 0003 Ishgakkiad D III b
         type: Asteroid
         formationType: Captured
@@ -341,14 +381,14 @@ planets:
         radius: 10,818.9 km<br/>(1.698 Yrths)
         surface_area: 1.471 × 10<sup>09</sup> km<sup>2</sup><br/>(2.884 Yrths)
         volume: 5.304 × 10<sup>12</sup> km<sup>3</sup><br/>(4.897 Yrths)
-        mass: 1.420 × 10<sup>25</sup> kg<br />(5.700145439711459 Yrths)
+        mass: 1.420 × 10<sup>25</sup> kg<br />(2.379 Yrths)
         density: 2.678 g/cm<sup>3</sup>
         surface_gravity: 8.089 m/s<sup>2</sup><br />(0.825 g<sub>0</sub>)
         escape_velocity: 13.238 km/s<br />(47,659 km/h)
         rotation_period: 45.463 d
         axial_tilt: 30.79°
         albedo: 0.30
-        temperature: 1834 K<br />(1561 °C)
+        temperature: 179 K<br />(-94 °C)
   - name: 0003 Ishgakkiad D IV
     type: Terrestrial
     aphelion: 703,685,878 km<br />4.704 AU
@@ -360,14 +400,14 @@ planets:
     radius: 6,319.5 km<br/>(0.992 Yrths)
     surface_area: 5.019 × 10<sup>08</sup> km<sup>2</sup><br/>(0.984 Yrths)
     volume: 1.057 × 10<sup>12</sup> km<sup>3</sup><br/>(0.976 Yrths)
-    mass: 6.075 × 10<sup>24</sup> kg<br />(1.0173260932348234 Yrths)
+    mass: 6.075 × 10<sup>24</sup> kg<br />(1.02 Yrths)
     density: 5.747 g/cm<sup>3</sup>
     surface_gravity: 10.140 m/s<sup>2</sup><br />(1.034 g<sub>0</sub>)
     escape_velocity: 11.328 km/s<br />(40,782 km/h)
     rotation_period: 1.018 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 152 K<br />(-121 °C)
+    temperature: 197 K<br />(-76 °C)
     surface_pressure: 17 kPa<br />(0 atm)
     composition:
       - 89.0838% methane
@@ -387,14 +427,14 @@ planets:
         radius: 2,693.3 km<br/>(0.423 Yrths)
         surface_area: 9.116 × 10<sup>07</sup> km<sup>2</sup><br/>(0.179 Yrths)
         volume: 8.184 × 10<sup>10</sup> km<sup>3</sup><br/>(0.076 Yrths)
-        mass: 9.874 × 10<sup>22</sup> kg<br />(1.0173260932348234 Yrths)
+        mass: 9.874 × 10<sup>22</sup> kg<br />(0.017 Yrths)
         density: 1.207 g/cm<sup>3</sup>
         surface_gravity: 0.907 m/s<sup>2</sup><br />(0.093 g<sub>0</sub>)
         escape_velocity: 2.212 km/s<br />(7,964 km/h)
         rotation_period: 54.100 d
         axial_tilt: 16.18°
         albedo: 0.30
-        temperature: 1968 K<br />(1695 °C)
+        temperature: 134 K<br />(-139 °C)
       - name: 0003 Ishgakkiad D IV b
         type: Icy
         formationType: Impact formed
@@ -407,14 +447,14 @@ planets:
         radius: 2,557.6 km<br/>(0.401 Yrths)
         surface_area: 8.220 × 10<sup>07</sup> km<sup>2</sup><br/>(0.161 Yrths)
         volume: 7.008 × 10<sup>10</sup> km<sup>3</sup><br/>(0.065 Yrths)
-        mass: 8.900 × 10<sup>22</sup> kg<br />(1.0173260932348234 Yrths)
+        mass: 8.900 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 1.270 g/cm<sup>3</sup>
         surface_gravity: 0.907 m/s<sup>2</sup><br />(0.092 g<sub>0</sub>)
         escape_velocity: 2.155 km/s<br />(7,759 km/h)
         rotation_period: 57.920 d
         axial_tilt: 18.06°
         albedo: 0.30
-        temperature: 1876 K<br />(1603 °C)
+        temperature: 134 K<br />(-139 °C)
   - name: 0003 Ishgakkiad D V
     type: Gas giant
     aphelion: 1,007,658,069 km<br />6.736 AU
@@ -426,7 +466,7 @@ planets:
     radius: 201.5 km<br/>(0.032 Yrths)
     surface_area: 5.101 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.425 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.038 × 10<sup>27</sup> kg<br />(173.88847529212333 Yrths)
+    mass: 1.038 × 10<sup>27</sup> kg<br />(173.89 Yrths)
     density: 30317375.820 g/cm<sup>3</sup>
     surface_gravity: 1705295.963 m/s<sup>2</sup><br />(173891.794 g<sub>0</sub>)
     escape_velocity: 829.491 km/s<br />(2,986,166 km/h)
@@ -447,14 +487,14 @@ planets:
         radius: 129,652.2 km<br/>(20.350 Yrths)
         surface_area: 2.112 × 10<sup>11</sup> km<sup>2</sup><br/>(414.138 Yrths)
         volume: 9.129 × 10<sup>15</sup> km<sup>3</sup><br/>(8427.858 Yrths)
-        mass: 1.988 × 10<sup>28</sup> kg<br />(173.88847529212333 Yrths)
+        mass: 1.988 × 10<sup>28</sup> kg<br />(3328.489 Yrths)
         density: 2.177 g/cm<sup>3</sup>
         surface_gravity: 78.818 m/s<sup>2</sup><br />(8.037 g<sub>0</sub>)
         escape_velocity: 143.058 km/s<br />(515,008 km/h)
         rotation_period: 55.857 d
         axial_tilt: 46.10°
         albedo: 0.30
-        temperature: 428 K<br />(155 °C)
+        temperature: 100 K<br />(-173 °C)
       - name: 0003 Ishgakkiad D V b
         type: Icy
         formationType: Captured
@@ -467,14 +507,14 @@ planets:
         radius: 168,805.1 km<br/>(26.496 Yrths)
         surface_area: 3.581 × 10<sup>11</sup> km<sup>2</sup><br/>(702.031 Yrths)
         volume: 2.015 × 10<sup>16</sup> km<sup>3</sup><br/>(18600.908 Yrths)
-        mass: 1.667 × 10<sup>28</sup> kg<br />(173.88847529212333 Yrths)
+        mass: 1.667 × 10<sup>28</sup> kg<br />(2790.726 Yrths)
         density: 0.827 g/cm<sup>3</sup>
         surface_gravity: 38.984 m/s<sup>2</sup><br />(3.975 g<sub>0</sub>)
         escape_velocity: 114.800 km/s<br />(413,282 km/h)
         rotation_period: 85.390 d
         axial_tilt: 22.72°
         albedo: 0.30
-        temperature: 371 K<br />(98 °C)
+        temperature: 100 K<br />(-173 °C)
       - name: 0003 Ishgakkiad D V c
         type: Dwarf planet
         formationType: Captured
@@ -487,14 +527,14 @@ planets:
         radius: 126,957.5 km<br/>(19.927 Yrths)
         surface_area: 2.025 × 10<sup>11</sup> km<sup>2</sup><br/>(397.101 Yrths)
         volume: 8.572 × 10<sup>15</sup> km<sup>3</sup><br/>(7913.195 Yrths)
-        mass: 1.755 × 10<sup>28</sup> kg<br />(173.88847529212333 Yrths)
+        mass: 1.755 × 10<sup>28</sup> kg<br />(2938.918 Yrths)
         density: 2.048 g/cm<sup>3</sup>
         surface_gravity: 72.578 m/s<sup>2</sup><br />(7.401 g<sub>0</sub>)
         escape_velocity: 135.845 km/s<br />(489,041 km/h)
         rotation_period: 44.719 d
         axial_tilt: 16.54°
         albedo: 0.30
-        temperature: 354 K<br />(81 °C)
+        temperature: 100 K<br />(-173 °C)
       - name: 0003 Ishgakkiad D V d
         type: Icy
         formationType: Captured
@@ -507,14 +547,14 @@ planets:
         radius: 220,101.3 km<br/>(34.547 Yrths)
         surface_area: 6.088 × 10<sup>11</sup> km<sup>2</sup><br/>(1193.521 Yrths)
         volume: 4.466 × 10<sup>16</sup> km<sup>3</sup><br/>(41233.025 Yrths)
-        mass: 5.423 × 10<sup>28</sup> kg<br />(173.88847529212333 Yrths)
+        mass: 5.423 × 10<sup>28</sup> kg<br />(9080.368 Yrths)
         density: 1.214 g/cm<sup>3</sup>
         surface_gravity: 74.609 m/s<sup>2</sup><br />(7.608 g<sub>0</sub>)
         escape_velocity: 181.350 km/s<br />(652,861 km/h)
         rotation_period: 67.117 d
         axial_tilt: 13.60°
         albedo: 0.30
-        temperature: 118 K<br />(-155 °C)
+        temperature: 100 K<br />(-173 °C)
       - name: 0003 Ishgakkiad D V e
         type: Icy
         formationType: Captured
@@ -527,14 +567,14 @@ planets:
         radius: 154,979.0 km<br/>(24.326 Yrths)
         surface_area: 3.018 × 10<sup>11</sup> km<sup>2</sup><br/>(591.739 Yrths)
         volume: 1.559 × 10<sup>16</sup> km<sup>3</sup><br/>(14394.471 Yrths)
-        mass: 2.260 × 10<sup>28</sup> kg<br />(173.88847529212333 Yrths)
+        mass: 2.260 × 10<sup>28</sup> kg<br />(3784.028 Yrths)
         density: 1.449 g/cm<sup>3</sup>
         surface_gravity: 62.711 m/s<sup>2</sup><br />(6.395 g<sub>0</sub>)
         escape_velocity: 139.514 km/s<br />(502,251 km/h)
         rotation_period: 44.132 d
         axial_tilt: 15.70°
         albedo: 0.30
-        temperature: 85 K<br />(-188 °C)
+        temperature: 100 K<br />(-173 °C)
       - name: 0003 Ishgakkiad D V f
         type: Ice/rock hybrid
         formationType: Captured
@@ -547,14 +587,14 @@ planets:
         radius: 127,212.3 km<br/>(19.967 Yrths)
         surface_area: 2.034 × 10<sup>11</sup> km<sup>2</sup><br/>(398.697 Yrths)
         volume: 8.623 × 10<sup>15</sup> km<sup>3</sup><br/>(7960.951 Yrths)
-        mass: 1.792 × 10<sup>28</sup> kg<br />(173.88847529212333 Yrths)
+        mass: 1.792 × 10<sup>28</sup> kg<br />(3000.239 Yrths)
         density: 2.078 g/cm<sup>3</sup>
         surface_gravity: 73.796 m/s<sup>2</sup><br />(7.525 g<sub>0</sub>)
         escape_velocity: 137.117 km/s<br />(493,621 km/h)
         rotation_period: 34.566 d
         axial_tilt: 28.34°
         albedo: 0.30
-        temperature: 67 K<br />(-206 °C)
+        temperature: 100 K<br />(-173 °C)
       - name: 0003 Ishgakkiad D V g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -567,14 +607,14 @@ planets:
         radius: 123,528.5 km<br/>(19.389 Yrths)
         surface_area: 1.918 × 10<sup>11</sup> km<sup>2</sup><br/>(375.941 Yrths)
         volume: 7.896 × 10<sup>15</sup> km<sup>3</sup><br/>(7289.181 Yrths)
-        mass: 1.776 × 10<sup>28</sup> kg<br />(173.88847529212333 Yrths)
+        mass: 1.776 × 10<sup>28</sup> kg<br />(2974.187 Yrths)
         density: 2.250 g/cm<sup>3</sup>
         surface_gravity: 77.584 m/s<sup>2</sup><br />(7.911 g<sub>0</sub>)
         escape_velocity: 138.541 km/s<br />(498,748 km/h)
         rotation_period: 35.151 d
         axial_tilt: 18.16°
         albedo: 0.30
-        temperature: 41 K<br />(-232 °C)
+        temperature: 100 K<br />(-173 °C)
       - name: 0003 Ishgakkiad D V h
         type: Icy
         formationType: Accreted
@@ -587,14 +627,14 @@ planets:
         radius: 161,356.8 km<br/>(25.327 Yrths)
         surface_area: 3.272 × 10<sup>11</sup> km<sup>2</sup><br/>(641.445 Yrths)
         volume: 1.760 × 10<sup>16</sup> km<sup>3</sup><br/>(16245.728 Yrths)
-        mass: 1.886 × 10<sup>28</sup> kg<br />(173.88847529212333 Yrths)
+        mass: 1.886 × 10<sup>28</sup> kg<br />(3158.704 Yrths)
         density: 1.072 g/cm<sup>3</sup>
         surface_gravity: 48.291 m/s<sup>2</sup><br />(4.924 g<sub>0</sub>)
         escape_velocity: 124.922 km/s<br />(449,719 km/h)
         rotation_period: 49.288 d
         axial_tilt: 11.81°
         albedo: 0.30
-        temperature: 36 K<br />(-237 °C)
+        temperature: 100 K<br />(-173 °C)
       - name: 0003 Ishgakkiad D V i
         type: Icy
         formationType: Accreted
@@ -607,14 +647,14 @@ planets:
         radius: 185,307.5 km<br/>(29.086 Yrths)
         surface_area: 4.315 × 10<sup>11</sup> km<sup>2</sup><br/>(846.001 Yrths)
         volume: 2.665 × 10<sup>16</sup> km<sup>3</sup><br/>(24606.873 Yrths)
-        mass: 3.089 × 10<sup>28</sup> kg<br />(173.88847529212333 Yrths)
+        mass: 3.089 × 10<sup>28</sup> kg<br />(5172.101 Yrths)
         density: 1.159 g/cm<sup>3</sup>
         surface_gravity: 59.954 m/s<sup>2</sup><br />(6.114 g<sub>0</sub>)
         escape_velocity: 149.164 km/s<br />(536,991 km/h)
         rotation_period: 68.414 d
         axial_tilt: 16.89°
         albedo: 0.30
-        temperature: 34 K<br />(-239 °C)
+        temperature: 100 K<br />(-173 °C)
   - name: 0003 Ishgakkiad D VI
     type: Ice giant
     aphelion: 2,226,860,688 km<br />14.885 AU
@@ -626,14 +666,14 @@ planets:
     radius: 22,100.0 km<br/>(3.469 Yrths)
     surface_area: 6.138 × 10<sup>09</sup> km<sup>2</sup><br/>(12.033 Yrths)
     volume: 4.521 × 10<sup>13</sup> km<sup>3</sup><br/>(41.740 Yrths)
-    mass: 7.205 × 10<sup>25</sup> kg<br />(12.064518784415293 Yrths)
+    mass: 7.205 × 10<sup>25</sup> kg<br />(12.06 Yrths)
     density: 1.594 g/cm<sup>3</sup>
     surface_gravity: 9.832 m/s<sup>2</sup><br />(1.003 g<sub>0</sub>)
     escape_velocity: 20.861 km/s<br />(75,100 km/h)
     rotation_period: 0.364 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 137 K<br />(-137 °C)
+    temperature: 123 K<br />(-150 °C)
     composition:
       - 81.7952% hydrogen
       - 17.3502% helium
@@ -651,14 +691,14 @@ planets:
         radius: 18,976.5 km<br/>(2.979 Yrths)
         surface_area: 4.525 × 10<sup>09</sup> km<sup>2</sup><br/>(8.872 Yrths)
         volume: 2.862 × 10<sup>13</sup> km<sup>3</sup><br/>(26.426 Yrths)
-        mass: 2.430 × 10<sup>25</sup> kg<br />(12.064518784415293 Yrths)
+        mass: 2.430 × 10<sup>25</sup> kg<br />(4.069 Yrths)
         density: 0.849 g/cm<sup>3</sup>
         surface_gravity: 4.498 m/s<sup>2</sup><br />(0.459 g<sub>0</sub>)
         escape_velocity: 13.075 km/s<br />(47,069 km/h)
         rotation_period: 104.644 d
         axial_tilt: 13.89°
         albedo: 0.30
-        temperature: 698 K<br />(425 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0003 Ishgakkiad D VI b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -671,14 +711,14 @@ planets:
         radius: 11,698.4 km<br/>(1.836 Yrths)
         surface_area: 1.720 × 10<sup>09</sup> km<sup>2</sup><br/>(3.372 Yrths)
         volume: 6.706 × 10<sup>12</sup> km<sup>3</sup><br/>(6.191 Yrths)
-        mass: 1.499 × 10<sup>25</sup> kg<br />(12.064518784415293 Yrths)
+        mass: 1.499 × 10<sup>25</sup> kg<br />(2.510 Yrths)
         density: 2.236 g/cm<sup>3</sup>
         surface_gravity: 7.302 m/s<sup>2</sup><br />(0.745 g<sub>0</sub>)
         escape_velocity: 13.079 km/s<br />(47,086 km/h)
         rotation_period: 62.835 d
         axial_tilt: 28.73°
         albedo: 0.30
-        temperature: 666 K<br />(393 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0003 Ishgakkiad D VI c
         type: Ice/rock hybrid
         formationType: Captured
@@ -691,14 +731,14 @@ planets:
         radius: 21,882.9 km<br/>(3.435 Yrths)
         surface_area: 6.018 × 10<sup>09</sup> km<sup>2</sup><br/>(11.798 Yrths)
         volume: 4.389 × 10<sup>13</sup> km<sup>3</sup><br/>(40.522 Yrths)
-        mass: 1.134 × 10<sup>26</sup> kg<br />(12.064518784415293 Yrths)
+        mass: 1.134 × 10<sup>26</sup> kg<br />(18.981 Yrths)
         density: 2.582 g/cm<sup>3</sup>
         surface_gravity: 15.778 m/s<sup>2</sup><br />(1.609 g<sub>0</sub>)
         escape_velocity: 26.296 km/s<br />(94,664 km/h)
         rotation_period: 43.803 d
         axial_tilt: 21.00°
         albedo: 0.30
-        temperature: 635 K<br />(362 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0003 Ishgakkiad D VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -711,14 +751,14 @@ planets:
         radius: 10,059.3 km<br/>(1.579 Yrths)
         surface_area: 1.272 × 10<sup>09</sup> km<sup>2</sup><br/>(2.493 Yrths)
         volume: 4.264 × 10<sup>12</sup> km<sup>3</sup><br/>(3.936 Yrths)
-        mass: 9.307 × 10<sup>24</sup> kg<br />(12.064518784415293 Yrths)
+        mass: 9.307 × 10<sup>24</sup> kg<br />(1.558 Yrths)
         density: 2.183 g/cm<sup>3</sup>
         surface_gravity: 6.130 m/s<sup>2</sup><br />(0.625 g<sub>0</sub>)
         escape_velocity: 11.113 km/s<br />(40,007 km/h)
         rotation_period: 55.367 d
         axial_tilt: 8.70°
         albedo: 0.30
-        temperature: 577 K<br />(304 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0003 Ishgakkiad D VI e
         type: Asteroid
         formationType: Captured
@@ -731,14 +771,14 @@ planets:
         radius: 13,134.9 km<br/>(2.062 Yrths)
         surface_area: 2.168 × 10<sup>09</sup> km<sup>2</sup><br/>(4.250 Yrths)
         volume: 9.492 × 10<sup>12</sup> km<sup>3</sup><br/>(8.763 Yrths)
-        mass: 3.032 × 10<sup>25</sup> kg<br />(12.064518784415293 Yrths)
+        mass: 3.032 × 10<sup>25</sup> kg<br />(5.077 Yrths)
         density: 3.194 g/cm<sup>3</sup>
         surface_gravity: 11.714 m/s<sup>2</sup><br />(1.194 g<sub>0</sub>)
         escape_velocity: 17.554 km/s<br />(63,194 km/h)
         rotation_period: 36.642 d
         axial_tilt: 34.77°
         albedo: 0.30
-        temperature: 500 K<br />(227 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0003 Ishgakkiad D VI f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -751,14 +791,14 @@ planets:
         radius: 8,887.0 km<br/>(1.395 Yrths)
         surface_area: 9.925 × 10<sup>08</sup> km<sup>2</sup><br/>(1.946 Yrths)
         volume: 2.940 × 10<sup>12</sup> km<sup>3</sup><br/>(2.714 Yrths)
-        mass: 6.488 × 10<sup>24</sup> kg<br />(12.064518784415293 Yrths)
+        mass: 6.488 × 10<sup>24</sup> kg<br />(1.086 Yrths)
         density: 2.207 g/cm<sup>3</sup>
         surface_gravity: 5.475 m/s<sup>2</sup><br />(0.558 g<sub>0</sub>)
         escape_velocity: 9.872 km/s<br />(35,538 km/h)
         rotation_period: 42.266 d
         axial_tilt: 12.59°
         albedo: 0.30
-        temperature: 455 K<br />(182 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0003 Ishgakkiad D VI g
         type: Icy
         formationType: Captured
@@ -771,14 +811,14 @@ planets:
         radius: 12,801.7 km<br/>(2.009 Yrths)
         surface_area: 2.059 × 10<sup>09</sup> km<sup>2</sup><br/>(4.038 Yrths)
         volume: 8.788 × 10<sup>12</sup> km<sup>3</sup><br/>(8.113 Yrths)
-        mass: 9.661 × 10<sup>24</sup> kg<br />(12.064518784415293 Yrths)
+        mass: 9.661 × 10<sup>24</sup> kg<br />(1.618 Yrths)
         density: 1.099 g/cm<sup>3</sup>
         surface_gravity: 3.929 m/s<sup>2</sup><br />(0.401 g<sub>0</sub>)
         escape_velocity: 10.037 km/s<br />(36,133 km/h)
         rotation_period: 59.297 d
         axial_tilt: 16.47°
         albedo: 0.30
-        temperature: 414 K<br />(140 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0003 Ishgakkiad D VI h
         type: Icy
         formationType: Captured
@@ -791,14 +831,14 @@ planets:
         radius: 13,461.8 km<br/>(2.113 Yrths)
         surface_area: 2.277 × 10<sup>09</sup> km<sup>2</sup><br/>(4.465 Yrths)
         volume: 1.022 × 10<sup>13</sup> km<sup>3</sup><br/>(9.434 Yrths)
-        mass: 9.558 × 10<sup>24</sup> kg<br />(12.064518784415293 Yrths)
+        mass: 9.558 × 10<sup>24</sup> kg<br />(1.600 Yrths)
         density: 0.935 g/cm<sup>3</sup>
         surface_gravity: 3.515 m/s<sup>2</sup><br />(0.358 g<sub>0</sub>)
         escape_velocity: 9.735 km/s<br />(35,047 km/h)
         rotation_period: 92.642 d
         axial_tilt: 14.68°
         albedo: 0.30
-        temperature: 376 K<br />(103 °C)
+        temperature: 75 K<br />(-198 °C)
   - name: 0003 Ishgakkiad D VII
     type: Gas giant
     aphelion: 3,592,386,507 km<br />24.013 AU
@@ -810,7 +850,7 @@ planets:
     radius: 241.7 km<br/>(0.038 Yrths)
     surface_area: 7.340 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.914 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.263 × 10<sup>27</sup> kg<br />(378.99913907124824 Yrths)
+    mass: 2.263 × 10<sup>27</sup> kg<br />(379.00 Yrths)
     density: 38273940.392 g/cm<sup>3</sup>
     surface_gravity: 2582636.500 m/s<sup>2</sup><br />(263355.631 g<sub>0</sub>)
     escape_velocity: 1118.070 km/s<br />(4,025,054 km/h)
@@ -831,14 +871,14 @@ planets:
         radius: 238,320.5 km<br/>(37.407 Yrths)
         surface_area: 7.137 × 10<sup>11</sup> km<sup>2</sup><br/>(1399.290 Yrths)
         volume: 5.670 × 10<sup>16</sup> km<sup>3</sup><br/>(52343.364 Yrths)
-        mass: 7.563 × 10<sup>28</sup> kg<br />(378.99913907124824 Yrths)
+        mass: 7.563 × 10<sup>28</sup> kg<br />(12664.165 Yrths)
         density: 1.334 g/cm<sup>3</sup>
         surface_gravity: 88.754 m/s<sup>2</sup><br />(9.050 g<sub>0</sub>)
         escape_velocity: 205.819 km/s<br />(740,948 km/h)
         rotation_period: 64.892 d
         axial_tilt: 24.17°
         albedo: 0.30
-        temperature: 255 K<br />(-18 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: 0003 Ishgakkiad D VII b
         type: Icy
         formationType: Captured
@@ -851,14 +891,14 @@ planets:
         radius: 230,175.3 km<br/>(36.129 Yrths)
         surface_area: 6.658 × 10<sup>11</sup> km<sup>2</sup><br/>(1305.275 Yrths)
         volume: 5.108 × 10<sup>16</sup> km<sup>3</sup><br/>(47157.755 Yrths)
-        mass: 7.184 × 10<sup>28</sup> kg<br />(378.99913907124824 Yrths)
+        mass: 7.184 × 10<sup>28</sup> kg<br />(12029.137 Yrths)
         density: 1.406 g/cm<sup>3</sup>
         surface_gravity: 90.376 m/s<sup>2</sup><br />(9.216 g<sub>0</sub>)
         escape_velocity: 204.111 km/s<br />(734,798 km/h)
         rotation_period: 59.362 d
         axial_tilt: 14.33°
         albedo: 0.30
-        temperature: 201 K<br />(-72 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: 0003 Ishgakkiad D VII c
         type: Icy
         formationType: Captured
@@ -871,14 +911,14 @@ planets:
         radius: 195,394.6 km<br/>(30.669 Yrths)
         surface_area: 4.798 × 10<sup>11</sup> km<sup>2</sup><br/>(940.611 Yrths)
         volume: 3.125 × 10<sup>16</sup> km<sup>3</sup><br/>(28847.938 Yrths)
-        mass: 5.910 × 10<sup>28</sup> kg<br />(378.99913907124824 Yrths)
+        mass: 5.910 × 10<sup>28</sup> kg<br />(9895.928 Yrths)
         density: 1.891 g/cm<sup>3</sup>
         surface_gravity: 103.173 m/s<sup>2</sup><br />(10.521 g<sub>0</sub>)
         escape_velocity: 200.932 km/s<br />(723,356 km/h)
         rotation_period: 69.325 d
         axial_tilt: 19.99°
         albedo: 0.30
-        temperature: 125 K<br />(-148 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: 0003 Ishgakkiad D VII d
         type: Icy
         formationType: Impact formed
@@ -891,14 +931,14 @@ planets:
         radius: 236,997.5 km<br/>(37.199 Yrths)
         surface_area: 7.058 × 10<sup>11</sup> km<sup>2</sup><br/>(1383.797 Yrths)
         volume: 5.576 × 10<sup>16</sup> km<sup>3</sup><br/>(51476.465 Yrths)
-        mass: 7.087 × 10<sup>28</sup> kg<br />(378.99913907124824 Yrths)
+        mass: 7.087 × 10<sup>28</sup> kg<br />(11867.606 Yrths)
         density: 1.271 g/cm<sup>3</sup>
         surface_gravity: 84.103 m/s<sup>2</sup><br />(8.576 g<sub>0</sub>)
         escape_velocity: 199.796 km/s<br />(719,267 km/h)
         rotation_period: 73.274 d
         axial_tilt: 15.40°
         albedo: 0.30
-        temperature: 103 K<br />(-170 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: 0003 Ishgakkiad D VII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -911,14 +951,14 @@ planets:
         radius: 167,356.4 km<br/>(26.268 Yrths)
         surface_area: 3.520 × 10<sup>11</sup> km<sup>2</sup><br/>(690.033 Yrths)
         volume: 1.963 × 10<sup>16</sup> km<sup>3</sup><br/>(18126.102 Yrths)
-        mass: 5.280 × 10<sup>28</sup> kg<br />(378.99913907124824 Yrths)
+        mass: 5.280 × 10<sup>28</sup> kg<br />(8841.070 Yrths)
         density: 2.689 g/cm<sup>3</sup>
         surface_gravity: 125.648 m/s<sup>2</sup><br />(12.813 g<sub>0</sub>)
         escape_velocity: 205.215 km/s<br />(738,774 km/h)
         rotation_period: 51.724 d
         axial_tilt: 21.54°
         albedo: 0.30
-        temperature: 98 K<br />(-175 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: 0003 Ishgakkiad D VII f
         type: Icy
         formationType: Captured
@@ -931,14 +971,14 @@ planets:
         radius: 194,485.0 km<br/>(30.527 Yrths)
         surface_area: 4.753 × 10<sup>11</sup> km<sup>2</sup><br/>(931.874 Yrths)
         volume: 3.081 × 10<sup>16</sup> km<sup>3</sup><br/>(28446.955 Yrths)
-        mass: 4.712 × 10<sup>28</sup> kg<br />(378.99913907124824 Yrths)
+        mass: 4.712 × 10<sup>28</sup> kg<br />(7890.767 Yrths)
         density: 1.529 g/cm<sup>3</sup>
         surface_gravity: 83.039 m/s<sup>2</sup><br />(8.468 g<sub>0</sub>)
         escape_velocity: 179.843 km/s<br />(647,436 km/h)
         rotation_period: 42.671 d
         axial_tilt: 23.40°
         albedo: 0.30
-        temperature: 94 K<br />(-179 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: 0003 Ishgakkiad D VII g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -951,14 +991,14 @@ planets:
         radius: 203,335.0 km<br/>(31.916 Yrths)
         surface_area: 5.196 × 10<sup>11</sup> km<sup>2</sup><br/>(1018.613 Yrths)
         volume: 3.521 × 10<sup>16</sup> km<sup>3</sup><br/>(32509.763 Yrths)
-        mass: 7.283 × 10<sup>28</sup> kg<br />(378.99913907124824 Yrths)
+        mass: 7.283 × 10<sup>28</sup> kg<br />(12195.025 Yrths)
         density: 2.068 g/cm<sup>3</sup>
         surface_gravity: 117.407 m/s<sup>2</sup><br />(11.972 g<sub>0</sub>)
         escape_velocity: 218.657 km/s<br />(787,165 km/h)
         rotation_period: 46.464 d
         axial_tilt: 17.87°
         albedo: 0.30
-        temperature: 85 K<br />(-188 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: 0003 Ishgakkiad D VII h
         type: Icy
         formationType: Accreted
@@ -971,14 +1011,14 @@ planets:
         radius: 244,350.2 km<br/>(38.354 Yrths)
         surface_area: 7.503 × 10<sup>11</sup> km<sup>2</sup><br/>(1470.992 Yrths)
         volume: 6.111 × 10<sup>16</sup> km<sup>3</sup><br/>(56417.699 Yrths)
-        mass: 1.096 × 10<sup>29</sup> kg<br />(378.99913907124824 Yrths)
+        mass: 1.096 × 10<sup>29</sup> kg<br />(18346.999 Yrths)
         density: 1.793 g/cm<sup>3</sup>
         surface_gravity: 122.314 m/s<sup>2</sup><br />(12.473 g<sub>0</sub>)
         escape_velocity: 244.655 km/s<br />(880,758 km/h)
         rotation_period: 40.342 d
         axial_tilt: 16.20°
         albedo: 0.30
-        temperature: 74 K<br />(-199 °C)
+        temperature: 56 K<br />(-217 °C)
       - name: 0003 Ishgakkiad D VII i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -991,14 +1031,14 @@ planets:
         radius: 175,717.3 km<br/>(27.581 Yrths)
         surface_area: 3.880 × 10<sup>11</sup> km<sup>2</sup><br/>(760.701 Yrths)
         volume: 2.273 × 10<sup>16</sup> km<sup>3</sup><br/>(20980.744 Yrths)
-        mass: 5.291 × 10<sup>28</sup> kg<br />(378.99913907124824 Yrths)
+        mass: 5.291 × 10<sup>28</sup> kg<br />(8859.736 Yrths)
         density: 2.328 g/cm<sup>3</sup>
         surface_gravity: 114.216 m/s<sup>2</sup><br />(11.647 g<sub>0</sub>)
         escape_velocity: 200.485 km/s<br />(721,744 km/h)
         rotation_period: 48.583 d
         axial_tilt: 24.03°
         albedo: 0.30
-        temperature: 56 K<br />(-218 °C)
+        temperature: 56 K<br />(-217 °C)
   - name: 0003 Ishgakkiad D VIII
     type: Gas giant
     aphelion: 5,729,235,259 km<br />38.297 AU
@@ -1010,7 +1050,7 @@ planets:
     radius: 185.0 km<br/>(0.029 Yrths)
     surface_area: 4.299 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.651 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.193 × 10<sup>26</sup> kg<br />(120.45176144111113 Yrths)
+    mass: 7.193 × 10<sup>26</sup> kg<br />(120.45 Yrths)
     density: 27135214.760 g/cm<sup>3</sup>
     surface_gravity: 1401333.980 m/s<sup>2</sup><br />(142896.298 g<sub>0</sub>)
     escape_velocity: 720.498 km/s<br />(2,593,791 km/h)
@@ -1031,14 +1071,14 @@ planets:
         radius: 84,671.7 km<br/>(13.290 Yrths)
         surface_area: 9.009 × 10<sup>10</sup> km<sup>2</sup><br/>(176.629 Yrths)
         volume: 2.543 × 10<sup>15</sup> km<sup>3</sup><br/>(2347.425 Yrths)
-        mass: 5.522 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 5.522 × 10<sup>27</sup> kg<br />(924.699 Yrths)
         density: 2.172 g/cm<sup>3</sup>
         surface_gravity: 51.340 m/s<sup>2</sup><br />(5.235 g<sub>0</sub>)
         escape_velocity: 93.306 km/s<br />(335,901 km/h)
         rotation_period: 35.801 d
         axial_tilt: 21.98°
         albedo: 0.30
-        temperature: 242 K<br />(-31 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII b
         type: Icy
         formationType: Captured
@@ -1051,14 +1091,14 @@ planets:
         radius: 118,367.2 km<br/>(18.579 Yrths)
         surface_area: 1.761 × 10<sup>11</sup> km<sup>2</sup><br/>(345.182 Yrths)
         volume: 6.947 × 10<sup>15</sup> km<sup>3</sup><br/>(6413.150 Yrths)
-        mass: 8.620 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 8.620 × 10<sup>27</sup> kg<br />(1443.459 Yrths)
         density: 1.241 g/cm<sup>3</sup>
         surface_gravity: 41.009 m/s<sup>2</sup><br />(4.182 g<sub>0</sub>)
         escape_velocity: 98.597 km/s<br />(354,950 km/h)
         rotation_period: 50.118 d
         axial_tilt: 24.89°
         albedo: 0.30
-        temperature: 191 K<br />(-82 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII c
         type: Asteroid
         formationType: Captured
@@ -1071,14 +1111,14 @@ planets:
         radius: 80,230.7 km<br/>(12.593 Yrths)
         surface_area: 8.089 × 10<sup>10</sup> km<sup>2</sup><br/>(158.586 Yrths)
         volume: 2.163 × 10<sup>15</sup> km<sup>3</sup><br/>(1997.097 Yrths)
-        mass: 6.283 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 6.283 × 10<sup>27</sup> kg<br />(1052.116 Yrths)
         density: 2.905 g/cm<sup>3</sup>
         surface_gravity: 65.061 m/s<sup>2</sup><br />(6.634 g<sub>0</sub>)
         escape_velocity: 102.244 km/s<br />(368,080 km/h)
         rotation_period: 40.027 d
         axial_tilt: 24.73°
         albedo: 0.30
-        temperature: 174 K<br />(-99 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII d
         type: Icy
         formationType: Accreted
@@ -1091,14 +1131,14 @@ planets:
         radius: 107,064.6 km<br/>(16.805 Yrths)
         surface_area: 1.440 × 10<sup>11</sup> km<sup>2</sup><br/>(282.408 Yrths)
         volume: 5.141 × 10<sup>15</sup> km<sup>3</sup><br/>(4745.856 Yrths)
-        mass: 6.373 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 6.373 × 10<sup>27</sup> kg<br />(1067.185 Yrths)
         density: 1.240 g/cm<sup>3</sup>
         surface_gravity: 37.058 m/s<sup>2</sup><br />(3.779 g<sub>0</sub>)
         escape_velocity: 89.140 km/s<br />(320,906 km/h)
         rotation_period: 49.705 d
         axial_tilt: 12.57°
         albedo: 0.30
-        temperature: 130 K<br />(-143 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII e
         type: Icy
         formationType: Accreted
@@ -1111,14 +1151,14 @@ planets:
         radius: 91,597.8 km<br/>(14.377 Yrths)
         surface_area: 1.054 × 10<sup>11</sup> km<sup>2</sup><br/>(206.707 Yrths)
         volume: 3.219 × 10<sup>15</sup> km<sup>3</sup><br/>(2971.883 Yrths)
-        mass: 4.172 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 4.172 × 10<sup>27</sup> kg<br />(698.552 Yrths)
         density: 1.296 g/cm<sup>3</sup>
         surface_gravity: 33.141 m/s<sup>2</sup><br />(3.379 g<sub>0</sub>)
         escape_velocity: 77.971 km/s<br />(280,697 km/h)
         rotation_period: 75.444 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 89 K<br />(-184 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII f
         type: Icy
         formationType: Accreted
@@ -1131,14 +1171,14 @@ planets:
         radius: 114,981.2 km<br/>(18.048 Yrths)
         surface_area: 1.661 × 10<sup>11</sup> km<sup>2</sup><br/>(325.716 Yrths)
         volume: 6.368 × 10<sup>15</sup> km<sup>3</sup><br/>(5878.385 Yrths)
-        mass: 5.171 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 5.171 × 10<sup>27</sup> kg<br />(865.798 Yrths)
         density: 0.812 g/cm<sup>3</sup>
         surface_gravity: 26.067 m/s<sup>2</sup><br />(2.658 g<sub>0</sub>)
         escape_velocity: 77.477 km/s<br />(278,917 km/h)
         rotation_period: 70.996 d
         axial_tilt: 20.05°
         albedo: 0.30
-        temperature: 36 K<br />(-237 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1151,14 +1191,14 @@ planets:
         radius: 76,432.0 km<br/>(11.997 Yrths)
         surface_area: 7.341 × 10<sup>10</sup> km<sup>2</sup><br/>(143.925 Yrths)
         volume: 1.870 × 10<sup>15</sup> km<sup>3</sup><br/>(1726.645 Yrths)
-        mass: 3.491 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 3.491 × 10<sup>27</sup> kg<br />(584.511 Yrths)
         density: 1.866 g/cm<sup>3</sup>
         surface_gravity: 39.827 m/s<sup>2</sup><br />(4.061 g<sub>0</sub>)
         escape_velocity: 78.079 km/s<br />(281,086 km/h)
         rotation_period: 42.138 d
         axial_tilt: 24.03°
         albedo: 0.30
-        temperature: 18 K<br />(-256 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII h
         type: Icy
         formationType: Captured
@@ -1171,14 +1211,14 @@ planets:
         radius: 109,665.1 km<br/>(17.213 Yrths)
         surface_area: 1.511 × 10<sup>11</sup> km<sup>2</sup><br/>(296.293 Yrths)
         volume: 5.525 × 10<sup>15</sup> km<sup>3</sup><br/>(5100.145 Yrths)
-        mass: 9.129 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 9.129 × 10<sup>27</sup> kg<br />(1528.585 Yrths)
         density: 1.652 g/cm<sup>3</sup>
         surface_gravity: 50.593 m/s<sup>2</sup><br />(5.159 g<sub>0</sub>)
         escape_velocity: 105.412 km/s<br />(379,482 km/h)
         rotation_period: 56.698 d
         axial_tilt: 11.59°
         albedo: 0.30
-        temperature: 17 K<br />(-256 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII i
         type: Icy
         formationType: Impact formed
@@ -1191,14 +1231,14 @@ planets:
         radius: 85,826.4 km<br/>(13.471 Yrths)
         surface_area: 9.257 × 10<sup>10</sup> km<sup>2</sup><br/>(181.479 Yrths)
         volume: 2.648 × 10<sup>15</sup> km<sup>3</sup><br/>(2444.783 Yrths)
-        mass: 3.940 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 3.940 × 10<sup>27</sup> kg<br />(659.733 Yrths)
         density: 1.488 g/cm<sup>3</sup>
         surface_gravity: 35.650 m/s<sup>2</sup><br />(3.635 g<sub>0</sub>)
         escape_velocity: 78.280 km/s<br />(281,808 km/h)
         rotation_period: 47.251 d
         axial_tilt: 23.84°
         albedo: 0.30
-        temperature: 15 K<br />(-259 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII j
         type: Icy
         formationType: Captured
@@ -1211,14 +1251,14 @@ planets:
         radius: 105,281.6 km<br/>(16.525 Yrths)
         surface_area: 1.393 × 10<sup>11</sup> km<sup>2</sup><br/>(273.080 Yrths)
         volume: 4.888 × 10<sup>15</sup> km<sup>3</sup><br/>(4512.680 Yrths)
-        mass: 7.361 × 10<sup>27</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 7.361 × 10<sup>27</sup> kg<br />(1232.648 Yrths)
         density: 1.506 g/cm<sup>3</sup>
         surface_gravity: 44.266 m/s<sup>2</sup><br />(4.514 g<sub>0</sub>)
         escape_velocity: 96.610 km/s<br />(347,795 km/h)
         rotation_period: 76.731 d
         axial_tilt: 12.44°
         albedo: 0.30
-        temperature: 6 K<br />(-267 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 0003 Ishgakkiad D VIII k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1231,14 +1271,14 @@ planets:
         radius: 135,235.1 km<br/>(21.227 Yrths)
         surface_area: 2.298 × 10<sup>11</sup> km<sup>2</sup><br/>(450.571 Yrths)
         volume: 1.036 × 10<sup>16</sup> km<sup>3</sup><br/>(9564.124 Yrths)
-        mass: 2.447 × 10<sup>28</sup> kg<br />(120.45176144111113 Yrths)
+        mass: 2.447 × 10<sup>28</sup> kg<br />(4097.174 Yrths)
         density: 2.362 g/cm<sup>3</sup>
         surface_gravity: 89.175 m/s<sup>2</sup><br />(9.093 g<sub>0</sub>)
         escape_velocity: 155.409 km/s<br />(559,471 km/h)
         rotation_period: 36.865 d
         axial_tilt: 31.98°
         albedo: 0.30
-        temperature: 5 K<br />(-268 °C)
+        temperature: 42 K<br />(-231 °C)
   - name: 0003 Ishgakkiad D IX
     type: Ice giant
     aphelion: 11,660,736,420 km<br />77.946 AU
@@ -1250,14 +1290,14 @@ planets:
     radius: 27,742.2 km<br/>(4.354 Yrths)
     surface_area: 9.671 × 10<sup>09</sup> km<sup>2</sup><br/>(18.961 Yrths)
     volume: 8.944 × 10<sup>13</sup> km<sup>3</sup><br/>(82.566 Yrths)
-    mass: 1.361 × 10<sup>26</sup> kg<br />(22.79337624076586 Yrths)
+    mass: 1.361 × 10<sup>26</sup> kg<br />(22.79 Yrths)
     density: 1.522 g/cm<sup>3</sup>
     surface_gravity: 11.789 m/s<sup>2</sup><br />(1.202 g<sub>0</sub>)
     escape_velocity: 25.592 km/s<br />(92,133 km/h)
     rotation_period: 0.315 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 58 K<br />(-215 °C)
+    temperature: 53 K<br />(-220 °C)
     composition:
       - 61.2650% hydrogen
       - 34.0939% helium
@@ -1275,14 +1315,14 @@ planets:
         radius: 14,928.3 km<br/>(2.343 Yrths)
         surface_area: 2.800 × 10<sup>09</sup> km<sup>2</sup><br/>(5.490 Yrths)
         volume: 1.394 × 10<sup>13</sup> km<sup>3</sup><br/>(12.865 Yrths)
-        mass: 1.268 × 10<sup>25</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 1.268 × 10<sup>25</sup> kg<br />(2.123 Yrths)
         density: 0.910 g/cm<sup>3</sup>
         surface_gravity: 3.792 m/s<sup>2</sup><br />(0.387 g<sub>0</sub>)
         escape_velocity: 10.648 km/s<br />(38,332 km/h)
         rotation_period: 97.818 d
         axial_tilt: 23.34°
         albedo: 0.30
-        temperature: 264 K<br />(-9 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX b
         type: Ice/rock hybrid
         formationType: Captured
@@ -1295,14 +1335,14 @@ planets:
         radius: 14,500.0 km<br/>(2.276 Yrths)
         surface_area: 2.642 × 10<sup>09</sup> km<sup>2</sup><br/>(5.180 Yrths)
         volume: 1.277 × 10<sup>13</sup> km<sup>3</sup><br/>(11.789 Yrths)
-        mass: 2.562 × 10<sup>25</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 2.562 × 10<sup>25</sup> kg<br />(4.290 Yrths)
         density: 2.006 g/cm<sup>3</sup>
         surface_gravity: 8.122 m/s<sup>2</sup><br />(0.828 g<sub>0</sub>)
         escape_velocity: 15.357 km/s<br />(55,287 km/h)
         rotation_period: 40.882 d
         axial_tilt: 24.79°
         albedo: 0.30
-        temperature: 252 K<br />(-21 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1315,14 +1355,14 @@ planets:
         radius: 12,629.4 km<br/>(1.982 Yrths)
         surface_area: 2.004 × 10<sup>09</sup> km<sup>2</sup><br/>(3.930 Yrths)
         volume: 8.438 × 10<sup>12</sup> km<sup>3</sup><br/>(7.790 Yrths)
-        mass: 2.120 × 10<sup>25</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 2.120 × 10<sup>25</sup> kg<br />(3.549 Yrths)
         density: 2.512 g/cm<sup>3</sup>
         surface_gravity: 8.858 m/s<sup>2</sup><br />(0.903 g<sub>0</sub>)
         escape_velocity: 14.968 km/s<br />(53,885 km/h)
         rotation_period: 34.082 d
         axial_tilt: 8.29°
         albedo: 0.30
-        temperature: 229 K<br />(-44 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1335,14 +1375,14 @@ planets:
         radius: 14,451.2 km<br/>(2.268 Yrths)
         surface_area: 2.624 × 10<sup>09</sup> km<sup>2</sup><br/>(5.145 Yrths)
         volume: 1.264 × 10<sup>13</sup> km<sup>3</sup><br/>(11.671 Yrths)
-        mass: 2.910 × 10<sup>25</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 2.910 × 10<sup>25</sup> kg<br />(4.873 Yrths)
         density: 2.302 g/cm<sup>3</sup>
         surface_gravity: 9.288 m/s<sup>2</sup><br />(0.947 g<sub>0</sub>)
         escape_velocity: 16.395 km/s<br />(59,023 km/h)
         rotation_period: 40.427 d
         axial_tilt: 22.88°
         albedo: 0.30
-        temperature: 218 K<br />(-55 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1355,14 +1395,14 @@ planets:
         radius: 27,347.8 km<br/>(4.293 Yrths)
         surface_area: 9.398 × 10<sup>09</sup> km<sup>2</sup><br/>(18.426 Yrths)
         volume: 8.568 × 10<sup>13</sup> km<sup>3</sup><br/>(79.094 Yrths)
-        mass: 1.969 × 10<sup>26</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 1.969 × 10<sup>26</sup> kg<br />(32.975 Yrths)
         density: 2.298 g/cm<sup>3</sup>
         surface_gravity: 17.550 m/s<sup>2</sup><br />(1.790 g<sub>0</sub>)
         escape_velocity: 31.003 km/s<br />(111,612 km/h)
         rotation_period: 57.071 d
         axial_tilt: 19.46°
         albedo: 0.30
-        temperature: 208 K<br />(-65 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX f
         type: Asteroid
         formationType: Captured
@@ -1375,14 +1415,14 @@ planets:
         radius: 34,279.4 km<br/>(5.381 Yrths)
         surface_area: 1.477 × 10<sup>10</sup> km<sup>2</sup><br/>(28.950 Yrths)
         volume: 1.687 × 10<sup>14</sup> km<sup>3</sup><br/>(155.767 Yrths)
-        mass: 4.714 × 10<sup>26</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 4.714 × 10<sup>26</sup> kg<br />(78.932 Yrths)
         density: 2.794 g/cm<sup>3</sup>
         surface_gravity: 26.738 m/s<sup>2</sup><br />(2.726 g<sub>0</sub>)
         escape_velocity: 42.844 km/s<br />(154,238 km/h)
         rotation_period: 32.222 d
         axial_tilt: 59.91°
         albedo: 0.30
-        temperature: 198 K<br />(-75 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX g
         type: Ice/rock hybrid
         formationType: Captured
@@ -1395,14 +1435,14 @@ planets:
         radius: 7,689.3 km<br/>(1.207 Yrths)
         surface_area: 7.430 × 10<sup>08</sup> km<sup>2</sup><br/>(1.457 Yrths)
         volume: 1.904 × 10<sup>12</sup> km<sup>3</sup><br/>(1.758 Yrths)
-        mass: 3.935 × 10<sup>24</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 3.935 × 10<sup>24</sup> kg<br />(0.659 Yrths)
         density: 2.066 g/cm<sup>3</sup>
         surface_gravity: 4.436 m/s<sup>2</sup><br />(0.452 g<sub>0</sub>)
         escape_velocity: 8.265 km/s<br />(29,753 km/h)
         rotation_period: 40.469 d
         axial_tilt: 16.18°
         albedo: 0.30
-        temperature: 189 K<br />(-84 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX h
         type: Icy
         formationType: Captured
@@ -1415,14 +1455,14 @@ planets:
         radius: 24,697.7 km<br/>(3.877 Yrths)
         surface_area: 7.665 × 10<sup>09</sup> km<sup>2</sup><br/>(15.028 Yrths)
         volume: 6.310 × 10<sup>13</sup> km<sup>3</sup><br/>(58.257 Yrths)
-        mass: 8.561 × 10<sup>25</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 8.561 × 10<sup>25</sup> kg<br />(14.336 Yrths)
         density: 1.357 g/cm<sup>3</sup>
         surface_gravity: 9.355 m/s<sup>2</sup><br />(0.954 g<sub>0</sub>)
         escape_velocity: 21.511 km/s<br />(77,440 km/h)
         rotation_period: 52.164 d
         axial_tilt: 20.08°
         albedo: 0.30
-        temperature: 180 K<br />(-93 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX i
         type: Asteroid
         formationType: Captured
@@ -1435,14 +1475,14 @@ planets:
         radius: 36,158.5 km<br/>(5.675 Yrths)
         surface_area: 1.643 × 10<sup>10</sup> km<sup>2</sup><br/>(32.211 Yrths)
         volume: 1.980 × 10<sup>14</sup> km<sup>3</sup><br/>(182.814 Yrths)
-        mass: 5.733 × 10<sup>26</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 5.733 × 10<sup>26</sup> kg<br />(95.996 Yrths)
         density: 2.895 g/cm<sup>3</sup>
         surface_gravity: 29.226 m/s<sup>2</sup><br />(2.980 g<sub>0</sub>)
         escape_velocity: 46.004 km/s<br />(165,615 km/h)
         rotation_period: 31.812 d
         axial_tilt: 31.36°
         albedo: 0.30
-        temperature: 172 K<br />(-101 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1455,14 +1495,14 @@ planets:
         radius: 29,043.9 km<br/>(4.559 Yrths)
         surface_area: 1.060 × 10<sup>10</sup> km<sup>2</sup><br/>(20.782 Yrths)
         volume: 1.026 × 10<sup>14</sup> km<sup>3</sup><br/>(94.742 Yrths)
-        mass: 2.234 × 10<sup>26</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 2.234 × 10<sup>26</sup> kg<br />(37.408 Yrths)
         density: 2.177 g/cm<sup>3</sup>
         surface_gravity: 17.652 m/s<sup>2</sup><br />(1.800 g<sub>0</sub>)
         escape_velocity: 32.043 km/s<br />(115,355 km/h)
         rotation_period: 45.592 d
         axial_tilt: 27.55°
         albedo: 0.30
-        temperature: 164 K<br />(-109 °C)
+        temperature: 31 K<br />(-242 °C)
       - name: 0003 Ishgakkiad D IX k
         type: Ice/rock hybrid
         formationType: Captured
@@ -1475,14 +1515,14 @@ planets:
         radius: 13,696.2 km<br/>(2.150 Yrths)
         surface_area: 2.357 × 10<sup>09</sup> km<sup>2</sup><br/>(4.621 Yrths)
         volume: 1.076 × 10<sup>13</sup> km<sup>3</sup><br/>(9.935 Yrths)
-        mass: 2.414 × 10<sup>25</sup> kg<br />(22.79337624076586 Yrths)
+        mass: 2.414 × 10<sup>25</sup> kg<br />(4.043 Yrths)
         density: 2.244 g/cm<sup>3</sup>
         surface_gravity: 8.579 m/s<sup>2</sup><br />(0.875 g<sub>0</sub>)
         escape_velocity: 15.340 km/s<br />(55,224 km/h)
         rotation_period: 33.619 d
         axial_tilt: 24.50°
         albedo: 0.30
-        temperature: 156 K<br />(-117 °C)
+        temperature: 31 K<br />(-242 °C)
   - name: 0003 Ishgakkiad D X
     type: Gas giant
     aphelion: 18,250,956,724 km<br />121.998 AU
@@ -1494,7 +1534,7 @@ planets:
     radius: 219.9 km<br/>(0.035 Yrths)
     surface_area: 6.078 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.456 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.510 × 10<sup>27</sup> kg<br />(252.91577044358286 Yrths)
+    mass: 1.510 × 10<sup>27</sup> kg<br />(252.92 Yrths)
     density: 33897904.578 g/cm<sup>3</sup>
     surface_gravity: 2081400.388 m/s<sup>2</sup><br />(212243.772 g<sub>0</sub>)
     escape_velocity: 957.473 km/s<br />(3,446,904 km/h)
@@ -1515,14 +1555,14 @@ planets:
         radius: 150,230.0 km<br/>(23.580 Yrths)
         surface_area: 2.836 × 10<sup>11</sup> km<sup>2</sup><br/>(556.030 Yrths)
         volume: 1.420 × 10<sup>16</sup> km<sup>3</sup><br/>(13111.346 Yrths)
-        mass: 1.886 × 10<sup>28</sup> kg<br />(252.91577044358286 Yrths)
+        mass: 1.886 × 10<sup>28</sup> kg<br />(3158.080 Yrths)
         density: 1.328 g/cm<sup>3</sup>
         surface_gravity: 55.699 m/s<sup>2</sup><br />(5.680 g<sub>0</sub>)
         escape_velocity: 129.453 km/s<br />(466,030 km/h)
         rotation_period: 49.476 d
         axial_tilt: 16.66°
         albedo: 0.30
-        temperature: 75 K<br />(-199 °C)
+        temperature: 24 K<br />(-250 °C)
       - name: 0003 Ishgakkiad D X b
         type: Dwarf planet
         formationType: Accreted
@@ -1535,14 +1575,14 @@ planets:
         radius: 156,645.0 km<br/>(24.587 Yrths)
         surface_area: 3.083 × 10<sup>11</sup> km<sup>2</sup><br/>(604.530 Yrths)
         volume: 1.610 × 10<sup>16</sup> km<sup>3</sup><br/>(14863.704 Yrths)
-        mass: 2.978 × 10<sup>28</sup> kg<br />(252.91577044358286 Yrths)
+        mass: 2.978 × 10<sup>28</sup> kg<br />(4986.483 Yrths)
         density: 1.850 g/cm<sup>3</sup>
         surface_gravity: 80.890 m/s<sup>2</sup><br />(8.249 g<sub>0</sub>)
         escape_velocity: 159.300 km/s<br />(573,481 km/h)
         rotation_period: 65.995 d
         axial_tilt: 15.46°
         albedo: 0.30
-        temperature: 71 K<br />(-202 °C)
+        temperature: 24 K<br />(-250 °C)
       - name: 0003 Ishgakkiad D X c
         type: Asteroid
         formationType: Captured
@@ -1555,14 +1595,14 @@ planets:
         radius: 281,493.9 km<br/>(44.184 Yrths)
         surface_area: 9.957 × 10<sup>11</sup> km<sup>2</sup><br/>(1952.193 Yrths)
         volume: 9.343 × 10<sup>16</sup> km<sup>3</sup><br/>(86254.971 Yrths)
-        mass: 1.817 × 10<sup>29</sup> kg<br />(252.91577044358286 Yrths)
+        mass: 1.817 × 10<sup>29</sup> kg<br />(30432.390 Yrths)
         density: 1.945 g/cm<sup>3</sup>
         surface_gravity: 152.874 m/s<sup>2</sup><br />(15.589 g<sub>0</sub>)
         escape_velocity: 293.570 km/s<br />(1,056,851 km/h)
         rotation_period: 60.133 d
         axial_tilt: 43.83°
         albedo: 0.30
-        temperature: 32 K<br />(-242 °C)
+        temperature: 24 K<br />(-250 °C)
       - name: 0003 Ishgakkiad D X d
         type: Icy
         formationType: Impact formed
@@ -1575,14 +1615,14 @@ planets:
         radius: 209,094.0 km<br/>(32.820 Yrths)
         surface_area: 5.494 × 10<sup>11</sup> km<sup>2</sup><br/>(1077.129 Yrths)
         volume: 3.829 × 10<sup>16</sup> km<sup>3</sup><br/>(35351.004 Yrths)
-        mass: 4.666 × 10<sup>28</sup> kg<br />(252.91577044358286 Yrths)
+        mass: 4.666 × 10<sup>28</sup> kg<br />(7813.544 Yrths)
         density: 1.219 g/cm<sup>3</sup>
         surface_gravity: 71.138 m/s<sup>2</sup><br />(7.254 g<sub>0</sub>)
         escape_velocity: 172.596 km/s<br />(621,346 km/h)
         rotation_period: 86.831 d
         axial_tilt: 19.78°
         albedo: 0.30
-        temperature: 30 K<br />(-243 °C)
+        temperature: 24 K<br />(-250 °C)
       - name: 0003 Ishgakkiad D X e
         type: Icy
         formationType: Accreted
@@ -1595,14 +1635,14 @@ planets:
         radius: 132,719.0 km<br/>(20.832 Yrths)
         surface_area: 2.213 × 10<sup>11</sup> km<sup>2</sup><br/>(433.961 Yrths)
         volume: 9.792 × 10<sup>15</sup> km<sup>3</sup><br/>(9040.163 Yrths)
-        mass: 1.861 × 10<sup>28</sup> kg<br />(252.91577044358286 Yrths)
+        mass: 1.861 × 10<sup>28</sup> kg<br />(3115.455 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 70.403 m/s<sup>2</sup><br />(7.179 g<sub>0</sub>)
         escape_velocity: 136.796 km/s<br />(492,464 km/h)
         rotation_period: 48.465 d
         axial_tilt: 17.83°
         albedo: 0.30
-        temperature: 15 K<br />(-258 °C)
+        temperature: 24 K<br />(-250 °C)
   - name: 0003 Ishgakkiad D XI
     type: Gas giant
     aphelion: 36,514,293,460 km<br />244.080 AU
@@ -1614,7 +1654,7 @@ planets:
     radius: 248.2 km<br/>(0.039 Yrths)
     surface_area: 7.741 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.404 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.536 × 10<sup>27</sup> kg<br />(424.65191281985227 Yrths)
+    mass: 2.536 × 10<sup>27</sup> kg<br />(424.65 Yrths)
     density: 39599465.162 g/cm<sup>3</sup>
     surface_gravity: 2744009.861 m/s<sup>2</sup><br />(279811.134 g<sub>0</sub>)
     escape_velocity: 1167.881 km/s<br />(4,204,370 km/h)
@@ -1635,14 +1675,14 @@ planets:
         radius: 214,501.0 km<br/>(33.668 Yrths)
         surface_area: 5.782 × 10<sup>11</sup> km<sup>2</sup><br/>(1133.557 Yrths)
         volume: 4.134 × 10<sup>16</sup> km<sup>3</sup><br/>(38164.968 Yrths)
-        mass: 1.160 × 10<sup>29</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 1.160 × 10<sup>29</sup> kg<br />(19418.351 Yrths)
         density: 2.805 g/cm<sup>3</sup>
         surface_gravity: 167.992 m/s<sup>2</sup><br />(17.130 g<sub>0</sub>)
         escape_velocity: 268.639 km/s<br />(967,101 km/h)
         rotation_period: 34.877 d
         axial_tilt: 19.62°
         albedo: 0.30
-        temperature: 79 K<br />(-195 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI b
         type: Icy
         formationType: Captured
@@ -1655,14 +1695,14 @@ planets:
         radius: 208,013.1 km<br/>(32.650 Yrths)
         surface_area: 5.437 × 10<sup>11</sup> km<sup>2</sup><br/>(1066.022 Yrths)
         volume: 3.770 × 10<sup>16</sup> km<sup>3</sup><br/>(34805.606 Yrths)
-        mass: 6.438 × 10<sup>28</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 6.438 × 10<sup>28</sup> kg<br />(10779.725 Yrths)
         density: 1.708 g/cm<sup>3</sup>
         surface_gravity: 99.166 m/s<sup>2</sup><br />(10.112 g<sub>0</sub>)
         escape_velocity: 203.253 km/s<br />(731,710 km/h)
         rotation_period: 45.921 d
         axial_tilt: 8.71°
         albedo: 0.30
-        temperature: 59 K<br />(-214 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI c
         type: Ice/rock hybrid
         formationType: Captured
@@ -1675,14 +1715,14 @@ planets:
         radius: 192,870.2 km<br/>(30.273 Yrths)
         surface_area: 4.675 × 10<sup>11</sup> km<sup>2</sup><br/>(916.463 Yrths)
         volume: 3.005 × 10<sup>16</sup> km<sup>3</sup><br/>(27744.235 Yrths)
-        mass: 6.686 × 10<sup>28</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 6.686 × 10<sup>28</sup> kg<br />(11194.943 Yrths)
         density: 2.225 g/cm<sup>3</sup>
         surface_gravity: 119.792 m/s<sup>2</sup><br />(12.215 g<sub>0</sub>)
         escape_velocity: 215.108 km/s<br />(774,388 km/h)
         rotation_period: 59.128 d
         axial_tilt: 13.07°
         albedo: 0.30
-        temperature: 56 K<br />(-217 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI d
         type: Icy
         formationType: Accreted
@@ -1695,14 +1735,14 @@ planets:
         radius: 283,945.8 km<br/>(44.568 Yrths)
         surface_area: 1.013 × 10<sup>12</sup> km<sup>2</sup><br/>(1986.350 Yrths)
         volume: 9.589 × 10<sup>16</sup> km<sup>3</sup><br/>(88528.612 Yrths)
-        mass: 1.215 × 10<sup>29</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 1.215 × 10<sup>29</sup> kg<br />(20336.927 Yrths)
         density: 1.267 g/cm<sup>3</sup>
         surface_gravity: 100.404 m/s<sup>2</sup><br />(10.238 g<sub>0</sub>)
         escape_velocity: 238.948 km/s<br />(860,211 km/h)
         rotation_period: 49.976 d
         axial_tilt: 22.72°
         albedo: 0.30
-        temperature: 51 K<br />(-222 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI e
         type: Ice/rock hybrid
         formationType: Captured
@@ -1715,14 +1755,14 @@ planets:
         radius: 189,658.4 km<br/>(29.769 Yrths)
         surface_area: 4.520 × 10<sup>11</sup> km<sup>2</sup><br/>(886.194 Yrths)
         volume: 2.858 × 10<sup>16</sup> km<sup>3</sup><br/>(26381.138 Yrths)
-        mass: 6.854 × 10<sup>28</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 6.854 × 10<sup>28</sup> kg<br />(11476.198 Yrths)
         density: 2.398 g/cm<sup>3</sup>
         surface_gravity: 126.996 m/s<sup>2</sup><br />(12.950 g<sub>0</sub>)
         escape_velocity: 219.630 km/s<br />(790,666 km/h)
         rotation_period: 44.335 d
         axial_tilt: 26.59°
         albedo: 0.30
-        temperature: 44 K<br />(-229 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1735,14 +1775,14 @@ planets:
         radius: 174,484.6 km<br/>(27.387 Yrths)
         surface_area: 3.826 × 10<sup>11</sup> km<sup>2</sup><br/>(750.065 Yrths)
         volume: 2.225 × 10<sup>16</sup> km<sup>3</sup><br/>(20542.276 Yrths)
-        mass: 5.505 × 10<sup>28</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 5.505 × 10<sup>28</sup> kg<br />(9217.405 Yrths)
         density: 2.474 g/cm<sup>3</sup>
         surface_gravity: 120.512 m/s<sup>2</sup><br />(12.289 g<sub>0</sub>)
         escape_velocity: 205.212 km/s<br />(738,765 km/h)
         rotation_period: 40.359 d
         axial_tilt: 29.72°
         albedo: 0.30
-        temperature: 42 K<br />(-231 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI g
         type: Asteroid
         formationType: Captured
@@ -1755,14 +1795,14 @@ planets:
         radius: 181,030.8 km<br/>(28.415 Yrths)
         surface_area: 4.118 × 10<sup>11</sup> km<sup>2</sup><br/>(807.401 Yrths)
         volume: 2.485 × 10<sup>16</sup> km<sup>3</sup><br/>(22942.157 Yrths)
-        mass: 5.204 × 10<sup>28</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 5.204 × 10<sup>28</sup> kg<br />(8714.427 Yrths)
         density: 2.094 g/cm<sup>3</sup>
         surface_gravity: 105.845 m/s<sup>2</sup><br />(10.793 g<sub>0</sub>)
         escape_velocity: 195.894 km/s<br />(705,218 km/h)
         rotation_period: 35.877 d
         axial_tilt: 31.18°
         albedo: 0.30
-        temperature: 40 K<br />(-233 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI h
         type: Asteroid
         formationType: Captured
@@ -1775,14 +1815,14 @@ planets:
         radius: 196,026.2 km<br/>(30.769 Yrths)
         surface_area: 4.829 × 10<sup>11</sup> km<sup>2</sup><br/>(946.702 Yrths)
         volume: 3.155 × 10<sup>16</sup> km<sup>3</sup><br/>(29128.602 Yrths)
-        mass: 6.226 × 10<sup>28</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 6.226 × 10<sup>28</sup> kg<br />(10425.087 Yrths)
         density: 1.973 g/cm<sup>3</sup>
         surface_gravity: 107.991 m/s<sup>2</sup><br />(11.012 g<sub>0</sub>)
         escape_velocity: 205.902 km/s<br />(741,247 km/h)
         rotation_period: 52.454 d
         axial_tilt: 44.08°
         albedo: 0.30
-        temperature: 32 K<br />(-241 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI i
         type: Icy
         formationType: Accreted
@@ -1795,14 +1835,14 @@ planets:
         radius: 212,647.6 km<br/>(33.377 Yrths)
         surface_area: 5.682 × 10<sup>11</sup> km<sup>2</sup><br/>(1114.053 Yrths)
         volume: 4.028 × 10<sup>16</sup> km<sup>3</sup><br/>(37184.221 Yrths)
-        mass: 5.806 × 10<sup>28</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 5.806 × 10<sup>28</sup> kg<br />(9721.794 Yrths)
         density: 1.441 g/cm<sup>3</sup>
         surface_gravity: 85.578 m/s<sup>2</sup><br />(8.727 g<sub>0</sub>)
         escape_velocity: 190.906 km/s<br />(687,263 km/h)
         rotation_period: 42.866 d
         axial_tilt: 17.85°
         albedo: 0.30
-        temperature: 29 K<br />(-244 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI j
         type: Icy
         formationType: Accreted
@@ -1815,14 +1855,14 @@ planets:
         radius: 215,489.6 km<br/>(33.824 Yrths)
         surface_area: 5.835 × 10<sup>11</sup> km<sup>2</sup><br/>(1144.030 Yrths)
         volume: 4.191 × 10<sup>16</sup> km<sup>3</sup><br/>(38695.127 Yrths)
-        mass: 6.834 × 10<sup>28</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 6.834 × 10<sup>28</sup> kg<br />(11443.957 Yrths)
         density: 1.631 g/cm<sup>3</sup>
         surface_gravity: 98.098 m/s<sup>2</sup><br />(10.003 g<sub>0</sub>)
         escape_velocity: 205.756 km/s<br />(740,722 km/h)
         rotation_period: 58.215 d
         axial_tilt: 8.71°
         albedo: 0.30
-        temperature: 21 K<br />(-252 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI k
         type: Icy
         formationType: Accreted
@@ -1835,14 +1875,14 @@ planets:
         radius: 292,131.3 km<br/>(45.853 Yrths)
         surface_area: 1.072 × 10<sup>12</sup> km<sup>2</sup><br/>(2102.524 Yrths)
         volume: 1.044 × 10<sup>17</sup> km<sup>3</sup><br/>(96407.624 Yrths)
-        mass: 1.231 × 10<sup>29</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 1.231 × 10<sup>29</sup> kg<br />(20616.735 Yrths)
         density: 1.179 g/cm<sup>3</sup>
         surface_gravity: 96.161 m/s<sup>2</sup><br />(9.806 g<sub>0</sub>)
         escape_velocity: 237.191 km/s<br />(853,889 km/h)
         rotation_period: 49.160 d
         axial_tilt: 17.43°
         albedo: 0.30
-        temperature: 18 K<br />(-255 °C)
+        temperature: 18 K<br />(-256 °C)
       - name: 0003 Ishgakkiad D XI l
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1855,12 +1895,12 @@ planets:
         radius: 210,861.3 km<br/>(33.097 Yrths)
         surface_area: 5.587 × 10<sup>11</sup> km<sup>2</sup><br/>(1095.415 Yrths)
         volume: 3.927 × 10<sup>16</sup> km<sup>3</sup><br/>(36254.998 Yrths)
-        mass: 7.848 × 10<sup>28</sup> kg<br />(424.65191281985227 Yrths)
+        mass: 7.848 × 10<sup>28</sup> kg<br />(13140.880 Yrths)
         density: 1.998 g/cm<sup>3</sup>
         surface_gravity: 117.643 m/s<sup>2</sup><br />(11.996 g<sub>0</sub>)
         escape_velocity: 222.890 km/s<br />(802,406 km/h)
         rotation_period: 35.153 d
         axial_tilt: 29.03°
         albedo: 0.30
-        temperature: 14 K<br />(-259 °C)
+        temperature: 18 K<br />(-256 °C)
 ---

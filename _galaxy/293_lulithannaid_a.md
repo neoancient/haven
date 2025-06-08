@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      293 Lulithannaid A is a star in the constellation Lulithan
+      293 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 564.59 ly
 apparent_magnitude: 6.70
 absolute_magnitude: 0.51

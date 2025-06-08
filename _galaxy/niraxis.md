@@ -26,14 +26,14 @@ planet:
   rotation_period: 2.333 d
   axial_tilt: 0.00°
   albedo: 0.30
-  temperature: 271 K<br />(-2 °C)
-  surface_pressure: 81 kPa<br />(1 atm)
+  temperature: 278 K<br />(4 °C)
+  surface_pressure: 121 kPa<br />(1 atm)
   composition:
-    - 77.2077% nitrogen
+    - 77.1115% nitrogen
     - 20.4289% oxygen
     - 1.5236% argon
     - 0.8199% hydrogen sulfide
-    - 0.0198% carbon dioxide
+    - 0.1160% carbon dioxide
     - 0.0001% carbon monoxide
   moons:
     - name: Niraxis a
@@ -48,12 +48,12 @@ planet:
       radius: 2,403.2 km<br/>(0.377 Yrths)
       surface_area: 7.258 × 10<sup>07</sup> km<sup>2</sup><br/>(0.142 Yrths)
       volume: 5.814 × 10<sup>10</sup> km<sup>3</sup><br/>(0.054 Yrths)
-      mass: 1.480 × 10<sup>23</sup> kg<br />
+      mass: 1.480 × 10<sup>23</sup> kg<br />(0.025 Yrths)
       density: 2.546 g/cm<sup>3</sup>
       surface_gravity: 1.709 m/s<sup>2</sup><br />(0.174 g<sub>0</sub>)
       escape_velocity: 2.868 km/s<br />(10,323 km/h)
       rotation_period: 44.297 d
       axial_tilt: 17.97°
       albedo: 0.30
-      temperature: 3383 K<br />(3109 °C)
+      temperature: 257 K<br />(-16 °C)
 ---

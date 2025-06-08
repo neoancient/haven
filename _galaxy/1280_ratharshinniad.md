@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1280 Ratharshinniad is a star in the constellation Ratharshin
+      1280 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 312.68 ly
 apparent_magnitude: 10.18
 absolute_magnitude: 5.27

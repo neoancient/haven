@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1987 Noniashad A is a star in the constellation Nonias
+      1987 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 648.74 ly
 apparent_magnitude: 6.91
 absolute_magnitude: 0.42

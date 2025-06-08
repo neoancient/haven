@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0047 Nuariad D is a star in the constellation Nuari
+      0047 Nuariad D is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 840.49 ly
 apparent_magnitude: 9.39
 absolute_magnitude: 2.33
@@ -31,14 +31,14 @@ planets:
     radius: 11,765.5 km<br/>(1.847 Yrths)
     surface_area: 1.740 × 10<sup>09</sup> km<sup>2</sup><br/>(3.410 Yrths)
     volume: 6.822 × 10<sup>12</sup> km<sup>3</sup><br/>(6.298 Yrths)
-    mass: 4.320 × 10<sup>25</sup> kg<br />(7.234070658209319 Yrths)
+    mass: 4.320 × 10<sup>25</sup> kg<br />(7.23 Yrths)
     density: 6.333 g/cm<sup>3</sup>
     surface_gravity: 20.801 m/s<sup>2</sup><br />(2.121 g<sub>0</sub>)
     escape_velocity: 22.139 km/s<br />(79,701 km/h)
     rotation_period: 0.521 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 706 K<br />(433 °C)
+    temperature: 1644 K<br />(1371 °C)
     surface_pressure: 5,455 kPa<br />(54 atm)
     composition:
       - 57.7273% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 9,794.8 km<br/>(1.537 Yrths)
         surface_area: 1.206 × 10<sup>09</sup> km<sup>2</sup><br/>(2.364 Yrths)
         volume: 3.936 × 10<sup>12</sup> km<sup>3</sup><br/>(3.634 Yrths)
-        mass: 1.304 × 10<sup>25</sup> kg<br />(7.234070658209319 Yrths)
+        mass: 1.304 × 10<sup>25</sup> kg<br />(2.184 Yrths)
         density: 3.313 g/cm<sup>3</sup>
         surface_gravity: 9.060 m/s<sup>2</sup><br />(0.924 g<sub>0</sub>)
         escape_velocity: 13.332 km/s<br />(47,993 km/h)
         rotation_period: 45.375 d
         axial_tilt: 8.59°
         albedo: 0.30
-        temperature: 5150 K<br />(4877 °C)
+        temperature: 382 K<br />(109 °C)
       - name: 0047 Nuariad D I b
         type: Rocky
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 10,964.7 km<br/>(1.721 Yrths)
         surface_area: 1.511 × 10<sup>09</sup> km<sup>2</sup><br/>(2.962 Yrths)
         volume: 5.522 × 10<sup>12</sup> km<sup>3</sup><br/>(5.098 Yrths)
-        mass: 1.872 × 10<sup>25</sup> kg<br />(7.234070658209319 Yrths)
+        mass: 1.872 × 10<sup>25</sup> kg<br />(3.135 Yrths)
         density: 3.391 g/cm<sup>3</sup>
         surface_gravity: 10.381 m/s<sup>2</sup><br />(1.059 g<sub>0</sub>)
         escape_velocity: 15.098 km/s<br />(54,354 km/h)
         rotation_period: 31.658 d
         axial_tilt: 14.06°
         albedo: 0.30
-        temperature: 4910 K<br />(4637 °C)
+        temperature: 382 K<br />(109 °C)
   - name: 0047 Nuariad D II
     type: Large terrestrial
     aphelion: 435,508,047 km<br />2.911 AU
@@ -98,15 +98,15 @@ planets:
     radius: 11,300.0 km<br/>(1.774 Yrths)
     surface_area: 1.605 × 10<sup>09</sup> km<sup>2</sup><br/>(3.146 Yrths)
     volume: 6.044 × 10<sup>12</sup> km<sup>3</sup><br/>(5.580 Yrths)
-    mass: 3.448 × 10<sup>25</sup> kg<br />(5.773110097477854 Yrths)
+    mass: 3.448 × 10<sup>25</sup> kg<br />(5.77 Yrths)
     density: 5.704 g/cm<sup>3</sup>
     surface_gravity: 17.996 m/s<sup>2</sup><br />(1.835 g<sub>0</sub>)
     escape_velocity: 20.181 km/s<br />(72,652 km/h)
     rotation_period: 0.545 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 519 K<br />(246 °C)
-    surface_pressure: 5,989 kPa<br />(59 atm)
+    temperature: 1197 K<br />(924 °C)
+    surface_pressure: 5,989 kPa<br />(60 atm)
     composition:
       - 67.0561% carbon dioxide
       - 25.4238% nitrogen
@@ -126,14 +126,14 @@ planets:
         radius: 13,181.7 km<br/>(2.069 Yrths)
         surface_area: 2.183 × 10<sup>09</sup> km<sup>2</sup><br/>(4.281 Yrths)
         volume: 9.594 × 10<sup>12</sup> km<sup>3</sup><br/>(8.857 Yrths)
-        mass: 1.546 × 10<sup>25</sup> kg<br />(5.773110097477854 Yrths)
+        mass: 1.546 × 10<sup>25</sup> kg<br />(2.589 Yrths)
         density: 1.611 g/cm<sup>3</sup>
         surface_gravity: 5.930 m/s<sup>2</sup><br />(0.605 g<sub>0</sub>)
         escape_velocity: 12.512 km/s<br />(45,042 km/h)
         rotation_period: 64.466 d
         axial_tilt: 21.86°
         albedo: 0.30
-        temperature: 3909 K<br />(3636 °C)
+        temperature: 278 K<br />(5 °C)
       - name: 0047 Nuariad D II b
         type: Rocky
         formationType: Captured
@@ -146,12 +146,12 @@ planets:
         radius: 8,498.9 km<br/>(1.334 Yrths)
         surface_area: 9.077 × 10<sup>08</sup> km<sup>2</sup><br/>(1.780 Yrths)
         volume: 2.571 × 10<sup>12</sup> km<sup>3</sup><br/>(2.374 Yrths)
-        mass: 8.589 × 10<sup>24</sup> kg<br />(5.773110097477854 Yrths)
+        mass: 8.589 × 10<sup>24</sup> kg<br />(1.438 Yrths)
         density: 3.340 g/cm<sup>3</sup>
         surface_gravity: 7.925 m/s<sup>2</sup><br />(0.808 g<sub>0</sub>)
         escape_velocity: 11.614 km/s<br />(41,812 km/h)
         rotation_period: 49.167 d
         axial_tilt: 7.64°
         albedo: 0.30
-        temperature: 3727 K<br />(3454 °C)
+        temperature: 278 K<br />(5 °C)
 ---

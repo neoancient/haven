@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      629 Reggiad is a star in the constellation Reg
+      629 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 268.25 ly
 apparent_magnitude: 10.77
 absolute_magnitude: 6.20

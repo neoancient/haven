@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4644 Athiad is a star in the constellation Ath
+      4644 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1163.37 ly
 apparent_magnitude: 8.23
 absolute_magnitude: 0.47

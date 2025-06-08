@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6244 Arkothiad is a star in the constellation Arkoth
+      6244 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 316.84 ly
 apparent_magnitude: 9.72
 absolute_magnitude: 4.78

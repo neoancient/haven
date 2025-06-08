@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ceorarash B is a star in the constellation Keln
+      Ceorarash B is a star in the constellation <a href="keln.html">Keln</a>
 distance: 261.04 ly
 apparent_magnitude: 8.80
 absolute_magnitude: 4.29

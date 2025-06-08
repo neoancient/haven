@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5524 Anilliad is a star in the constellation Anil
+      5524 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 287.68 ly
 apparent_magnitude: 11.76
 absolute_magnitude: 7.04

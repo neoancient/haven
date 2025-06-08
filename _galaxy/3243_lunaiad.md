@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3243 Lunaiad is a star in the constellation Luna
+      3243 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 498.82 ly
 apparent_magnitude: 8.93
 absolute_magnitude: 3.01

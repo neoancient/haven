@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3721 Narashiad is a star in the constellation Naras
+      3721 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 390.11 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 5.67

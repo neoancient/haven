@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      736 Aldnanniad is a star in the constellation Aldnan
+      736 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 754.98 ly
 apparent_magnitude: 6.76
 absolute_magnitude: -0.06
@@ -31,14 +31,14 @@ planets:
     radius: 14,251.4 km<br/>(2.237 Yrths)
     surface_area: 2.552 × 10<sup>09</sup> km<sup>2</sup><br/>(5.004 Yrths)
     volume: 1.212 × 10<sup>13</sup> km<sup>3</sup><br/>(11.193 Yrths)
-    mass: 7.830 × 10<sup>25</sup> kg<br />(13.110647030383348 Yrths)
+    mass: 7.830 × 10<sup>25</sup> kg<br />(13.11 Yrths)
     density: 6.458 g/cm<sup>3</sup>
     surface_gravity: 25.695 m/s<sup>2</sup><br />(2.620 g<sub>0</sub>)
     escape_velocity: 27.081 km/s<br />(97,491 km/h)
     rotation_period: 0.462 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 482 K<br />(209 °C)
+    temperature: 520 K<br />(247 °C)
     surface_pressure: 9,981 kPa<br />(99 atm)
     composition:
       - 85.2557% nitrogen
@@ -60,14 +60,14 @@ planets:
         radius: 10,146.8 km<br/>(1.593 Yrths)
         surface_area: 1.294 × 10<sup>09</sup> km<sup>2</sup><br/>(2.537 Yrths)
         volume: 4.376 × 10<sup>12</sup> km<sup>3</sup><br/>(4.040 Yrths)
-        mass: 4.714 × 10<sup>24</sup> kg<br />(13.110647030383348 Yrths)
+        mass: 4.714 × 10<sup>24</sup> kg<br />(0.789 Yrths)
         density: 1.077 g/cm<sup>3</sup>
         surface_gravity: 3.052 m/s<sup>2</sup><br />(0.311 g<sub>0</sub>)
         escape_velocity: 7.875 km/s<br />(28,349 km/h)
         rotation_period: 62.920 d
         axial_tilt: 6.79°
         albedo: 0.30
-        temperature: 3225 K<br />(2952 °C)
+        temperature: 298 K<br />(25 °C)
       - name: 736 Aldnanniad I b
         type: Dwarf planet
         formationType: Captured
@@ -80,12 +80,12 @@ planets:
         radius: 22,790.6 km<br/>(3.577 Yrths)
         surface_area: 6.527 × 10<sup>09</sup> km<sup>2</sup><br/>(12.797 Yrths)
         volume: 4.959 × 10<sup>13</sup> km<sup>3</sup><br/>(45.777 Yrths)
-        mass: 1.151 × 10<sup>26</sup> kg<br />(13.110647030383348 Yrths)
+        mass: 1.151 × 10<sup>26</sup> kg<br />(19.273 Yrths)
         density: 2.321 g/cm<sup>3</sup>
         surface_gravity: 14.770 m/s<sup>2</sup><br />(1.506 g<sub>0</sub>)
         escape_velocity: 25.964 km/s<br />(93,471 km/h)
         rotation_period: 39.706 d
         axial_tilt: 37.71°
         albedo: 0.30
-        temperature: 3075 K<br />(2802 °C)
+        temperature: 298 K<br />(25 °C)
 ---

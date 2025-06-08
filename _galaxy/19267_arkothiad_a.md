@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      19267 Arkothiad A is a star in the constellation Arkoth
+      19267 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 544.47 ly
 apparent_magnitude: 7.96
 absolute_magnitude: 1.84

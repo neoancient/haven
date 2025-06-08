@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      166 Geardiad is a star in the constellation Geard
+      166 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1039.52 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 1.93

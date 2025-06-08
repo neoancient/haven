@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10052 Tanashad A is a star in the constellation Tanas
+      10052 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 228.22 ly
 apparent_magnitude: 6.96
 absolute_magnitude: 2.74

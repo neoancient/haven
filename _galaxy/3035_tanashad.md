@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3035 Tanashad is a star in the constellation Tanas
+      3035 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 470.66 ly
 apparent_magnitude: 13.64
 absolute_magnitude: 7.85

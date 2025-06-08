@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10375 Arkothiad is a star in the constellation Arkoth
+      10375 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 291.25 ly
 apparent_magnitude: 10.96
 absolute_magnitude: 6.20

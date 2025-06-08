@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      997 Noniashad is a star in the constellation Nonias
+      997 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 636.32 ly
 apparent_magnitude: 9.20
 absolute_magnitude: 2.74

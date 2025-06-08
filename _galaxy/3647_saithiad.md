@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3647 Saithiad is a star in the constellation Saith
+      3647 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 301.73 ly
 apparent_magnitude: 10.87
 absolute_magnitude: 6.04

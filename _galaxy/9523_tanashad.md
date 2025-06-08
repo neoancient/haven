@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9523 Tanashad is a star in the constellation Tanas
+      9523 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 501.25 ly
 apparent_magnitude: 10.94
 absolute_magnitude: 5.01

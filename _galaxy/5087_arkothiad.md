@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5087 Arkothiad is a star in the constellation Arkoth
+      5087 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1457.81 ly
 apparent_magnitude: 18.06
 absolute_magnitude: 9.81

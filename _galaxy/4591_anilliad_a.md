@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4591 Anilliad A is a star in the constellation Anil
+      4591 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 479.56 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 5.49

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      30 Lunaiad is a star in the constellation Luna
+      30 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 233.07 ly
 apparent_magnitude: 9.22
 absolute_magnitude: 4.95

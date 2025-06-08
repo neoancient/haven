@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1461 Anilliad A is a star in the constellation Anil
+      1461 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 519.85 ly
 apparent_magnitude: 8.74
 absolute_magnitude: 2.73

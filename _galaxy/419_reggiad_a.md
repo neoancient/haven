@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      419 Reggiad A is a star in the constellation Reg
+      419 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 560.29 ly
 apparent_magnitude: 7.03
 absolute_magnitude: 0.85

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1053 Ratharshinniad is a star in the constellation Ratharshin
+      1053 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1146.66 ly
 apparent_magnitude: 8.40
 absolute_magnitude: 0.67

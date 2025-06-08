@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      52532 Tanashad A is a star in the constellation Tanas
+      52532 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 415.15 ly
 apparent_magnitude: 7.88
 absolute_magnitude: 2.35

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0102 Geardiad B is a star in the constellation Geard
+      0102 Geardiad B is a star in the constellation <a href="geard.html">Geard</a>
 distance: 215.29 ly
 apparent_magnitude: 9.27
 absolute_magnitude: 5.17

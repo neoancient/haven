@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1904 Dialkeshiad is a star in the constellation Dialkes
+      1904 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 602.55 ly
 apparent_magnitude: 8.46
 absolute_magnitude: 2.13

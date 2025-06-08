@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      17210 Tanashad is a star in the constellation Tanas
+      17210 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 366.31 ly
 apparent_magnitude: 11.46
 absolute_magnitude: 6.20

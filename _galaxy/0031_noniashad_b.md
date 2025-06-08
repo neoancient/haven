@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0031 Noniashad B is a star in the constellation Nonias
+      0031 Noniashad B is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 282.78 ly
 apparent_magnitude: 6.71
 absolute_magnitude: 2.02

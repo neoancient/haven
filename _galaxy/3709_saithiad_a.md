@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3709 Saithiad A is a star in the constellation Saith
+      3709 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 206.46 ly
 apparent_magnitude: 7.48
 absolute_magnitude: 3.48

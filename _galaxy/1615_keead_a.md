@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1615 Keead A is a star in the constellation Kee
+      1615 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 375.60 ly
 apparent_magnitude: 7.42
 absolute_magnitude: 2.11

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10728 Dialkeshiad is a star in the constellation Dialkes
+      10728 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 191.74 ly
 apparent_magnitude: 18.28
 absolute_magnitude: 14.43

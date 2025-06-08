@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1193 Anilliad is a star in the constellation Anil
+      1193 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 373.83 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 6.02

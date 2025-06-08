@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0117 Reggiad D is a star in the constellation Reg
+      0117 Reggiad D is a star in the constellation <a href="reg.html">Reg</a>
 distance: 2005.87 ly
 apparent_magnitude: 16.58
 absolute_magnitude: 7.64

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9996 Dialkeshiad A is a star in the constellation Dialkes
+      9996 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 340.70 ly
 apparent_magnitude: 9.13
 absolute_magnitude: 4.03

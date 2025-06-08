@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1852 Lulithannaid A is a star in the constellation Lulithan
+      1852 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 390.27 ly
 apparent_magnitude: 9.09
 absolute_magnitude: 3.70

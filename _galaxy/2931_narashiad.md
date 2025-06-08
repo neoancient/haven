@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2931 Narashiad is a star in the constellation Naras
+      2931 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 1091.35 ly
 apparent_magnitude: 7.00
 absolute_magnitude: -0.62
@@ -31,14 +31,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.749 g/cm<sup>3</sup>
     surface_gravity: 31873.849 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 1449 K<br />(1176 °C)
+    temperature: 1410 K<br />(1137 °C)
     composition:
       - 92.3790% helium
       - 7.6210% ethane
@@ -55,14 +55,14 @@ planets:
         radius: 1,086.8 km<br/>(0.171 Yrths)
         surface_area: 1.484 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.376 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 7.820 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.820 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.454 g/cm<sup>3</sup>
         surface_gravity: 0.441 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 0.980 km/s<br />(3,528 km/h)
         rotation_period: 46.667 d
         axial_tilt: 14.39°
         albedo: 0.30
-        temperature: 9925 K<br />(9652 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2931 Narashiad I b
         type: Icy
         formationType: Impact formed
@@ -75,14 +75,14 @@ planets:
         radius: 897.1 km<br/>(0.141 Yrths)
         surface_area: 1.011 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.024 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.692 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.692 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.552 g/cm<sup>3</sup>
         surface_gravity: 0.389 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.836 km/s<br />(3,008 km/h)
         rotation_period: 71.008 d
         axial_tilt: 16.26°
         albedo: 0.30
-        temperature: 7457 K<br />(7183 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2931 Narashiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -95,14 +95,14 @@ planets:
         radius: 870.9 km<br/>(0.137 Yrths)
         surface_area: 9.530 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.767 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 5.175 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.175 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.870 g/cm<sup>3</sup>
         surface_gravity: 0.455 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.891 km/s<br />(3,206 km/h)
         rotation_period: 70.964 d
         axial_tilt: 16.11°
         albedo: 0.30
-        temperature: 2492 K<br />(2219 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2931 Narashiad I d
         type: Icy
         formationType: Accreted
@@ -115,14 +115,14 @@ planets:
         radius: 1,241.1 km<br/>(0.195 Yrths)
         surface_area: 1.936 × 10<sup>07</sup> km<sup>2</sup><br/>(0.038 Yrths)
         volume: 8.007 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.070 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.070 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.337 g/cm<sup>3</sup>
         surface_gravity: 0.463 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 1.073 km/s<br />(3,862 km/h)
         rotation_period: 61.709 d
         axial_tilt: 16.02°
         albedo: 0.30
-        temperature: 1964 K<br />(1690 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 2931 Narashiad I e
         type: Icy
         formationType: Impact formed
@@ -135,14 +135,14 @@ planets:
         radius: 1,218.1 km<br/>(0.191 Yrths)
         surface_area: 1.865 × 10<sup>07</sup> km<sup>2</sup><br/>(0.037 Yrths)
         volume: 7.571 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.007 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.007 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.329 g/cm<sup>3</sup>
         surface_gravity: 0.452 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 1.050 km/s<br />(3,781 km/h)
         rotation_period: 65.125 d
         axial_tilt: 17.83°
         albedo: 0.30
-        temperature: 1057 K<br />(784 °C)
+        temperature: 398 K<br />(125 °C)
   - name: 2931 Narashiad II
     type: Large terrestrial
     aphelion: 2,137,553,429 km<br />14.288 AU
@@ -154,15 +154,15 @@ planets:
     radius: 13,532.7 km<br/>(2.124 Yrths)
     surface_area: 2.301 × 10<sup>09</sup> km<sup>2</sup><br/>(4.512 Yrths)
     volume: 1.038 × 10<sup>13</sup> km<sup>3</sup><br/>(9.584 Yrths)
-    mass: 6.639 × 10<sup>25</sup> kg<br />(11.117490557285437 Yrths)
+    mass: 6.639 × 10<sup>25</sup> kg<br />(11.12 Yrths)
     density: 6.396 g/cm<sup>3</sup>
     surface_gravity: 24.164 m/s<sup>2</sup><br />(2.464 g<sub>0</sub>)
     escape_velocity: 25.591 km/s<br />(92,128 km/h)
     rotation_period: 0.469 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 568 K<br />(294 °C)
-    surface_pressure: 9,815 kPa<br />(97 atm)
+    temperature: 1590 K<br />(1317 °C)
+    surface_pressure: 9,815 kPa<br />(98 atm)
     composition:
       - 97.8577% carbon dioxide
       - 2.1423% ammonia
@@ -179,14 +179,14 @@ planets:
         radius: 17,527.9 km<br/>(2.751 Yrths)
         surface_area: 3.861 × 10<sup>09</sup> km<sup>2</sup><br/>(7.569 Yrths)
         volume: 2.256 × 10<sup>13</sup> km<sup>3</sup><br/>(20.824 Yrths)
-        mass: 8.120 × 10<sup>25</sup> kg<br />(11.117490557285437 Yrths)
+        mass: 8.120 × 10<sup>25</sup> kg<br />(13.597 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 17.617 m/s<sup>2</sup><br />(1.796 g<sub>0</sub>)
         escape_velocity: 24.868 km/s<br />(89,525 km/h)
         rotation_period: 46.461 d
         axial_tilt: 12.35°
         albedo: 0.30
-        temperature: 4103 K<br />(3830 °C)
+        temperature: 273 K<br />(0 °C)
   - name: 2931 Narashiad III
     type: Large terrestrial
     aphelion: 3,558,932,622 km<br />23.790 AU
@@ -198,7 +198,7 @@ planets:
     radius: 9,788.4 km<br/>(1.536 Yrths)
     surface_area: 1.204 × 10<sup>09</sup> km<sup>2</sup><br/>(2.361 Yrths)
     volume: 3.928 × 10<sup>12</sup> km<sup>3</sup><br/>(3.627 Yrths)
-    mass: 2.640 × 10<sup>25</sup> kg<br />(4.420775625269539 Yrths)
+    mass: 2.640 × 10<sup>25</sup> kg<br />(4.42 Yrths)
     density: 6.720 g/cm<sup>3</sup>
     surface_gravity: 18.366 m/s<sup>2</sup><br />(1.873 g<sub>0</sub>)
     escape_velocity: 18.975 km/s<br />(68,308 km/h)
@@ -219,14 +219,14 @@ planets:
         radius: 9,222.5 km<br/>(1.448 Yrths)
         surface_area: 1.069 × 10<sup>09</sup> km<sup>2</sup><br/>(2.095 Yrths)
         volume: 3.286 × 10<sup>12</sup> km<sup>3</sup><br/>(3.033 Yrths)
-        mass: 9.031 × 10<sup>24</sup> kg<br />(4.420775625269539 Yrths)
+        mass: 9.031 × 10<sup>24</sup> kg<br />(1.512 Yrths)
         density: 2.749 g/cm<sup>3</sup>
         surface_gravity: 7.077 m/s<sup>2</sup><br />(0.722 g<sub>0</sub>)
         escape_velocity: 11.433 km/s<br />(41,160 km/h)
         rotation_period: 35.304 d
         axial_tilt: 52.43°
         albedo: 0.30
-        temperature: 2483 K<br />(2210 °C)
+        temperature: 188 K<br />(-85 °C)
   - name: 2931 Narashiad IV
     type: Ice giant
     aphelion: 11,805,918,159 km<br />78.917 AU
@@ -238,14 +238,14 @@ planets:
     radius: 35,281.7 km<br/>(5.538 Yrths)
     surface_area: 1.564 × 10<sup>10</sup> km<sup>2</sup><br/>(30.668 Yrths)
     volume: 1.840 × 10<sup>14</sup> km<sup>3</sup><br/>(169.835 Yrths)
-    mass: 2.100 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+    mass: 2.100 × 10<sup>26</sup> kg<br />(35.16 Yrths)
     density: 1.141 g/cm<sup>3</sup>
     surface_gravity: 11.242 m/s<sup>2</sup><br />(1.146 g<sub>0</sub>)
     escape_velocity: 28.184 km/s<br />(101,463 km/h)
     rotation_period: 0.294 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 270 K<br />(-3 °C)
+    temperature: 249 K<br />(-24 °C)
     composition:
       - 80.9236% hydrogen
       - 16.6690% helium
@@ -266,14 +266,14 @@ planets:
         radius: 42,749.9 km<br/>(6.710 Yrths)
         surface_area: 2.297 × 10<sup>10</sup> km<sup>2</sup><br/>(45.025 Yrths)
         volume: 3.273 × 10<sup>14</sup> km<sup>3</sup><br/>(302.122 Yrths)
-        mass: 4.668 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+        mass: 4.668 × 10<sup>26</sup> kg<br />(78.163 Yrths)
         density: 1.426 g/cm<sup>3</sup>
         surface_gravity: 17.024 m/s<sup>2</sup><br />(1.736 g<sub>0</sub>)
         escape_velocity: 38.178 km/s<br />(137,440 km/h)
         rotation_period: 47.536 d
         axial_tilt: 17.41°
         albedo: 0.30
-        temperature: 1209 K<br />(936 °C)
+        temperature: 129 K<br />(-144 °C)
       - name: 2931 Narashiad IV b
         type: Asteroid
         formationType: Captured
@@ -286,14 +286,14 @@ planets:
         radius: 27,081.1 km<br/>(4.251 Yrths)
         surface_area: 9.216 × 10<sup>09</sup> km<sup>2</sup><br/>(18.068 Yrths)
         volume: 8.319 × 10<sup>13</sup> km<sup>3</sup><br/>(76.803 Yrths)
-        mass: 1.754 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+        mass: 1.754 × 10<sup>26</sup> kg<br />(29.365 Yrths)
         density: 2.108 g/cm<sup>3</sup>
         surface_gravity: 15.938 m/s<sup>2</sup><br />(1.625 g<sub>0</sub>)
         escape_velocity: 29.401 km/s<br />(105,843 km/h)
         rotation_period: 38.199 d
         axial_tilt: 57.04°
         albedo: 0.30
-        temperature: 1099 K<br />(826 °C)
+        temperature: 129 K<br />(-144 °C)
       - name: 2931 Narashiad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -306,14 +306,14 @@ planets:
         radius: 34,359.8 km<br/>(5.393 Yrths)
         surface_area: 1.484 × 10<sup>10</sup> km<sup>2</sup><br/>(29.086 Yrths)
         volume: 1.699 × 10<sup>14</sup> km<sup>3</sup><br/>(156.865 Yrths)
-        mass: 3.565 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+        mass: 3.565 × 10<sup>26</sup> kg<br />(59.694 Yrths)
         density: 2.098 g/cm<sup>3</sup>
         surface_gravity: 20.127 m/s<sup>2</sup><br />(2.052 g<sub>0</sub>)
         escape_velocity: 37.215 km/s<br />(133,974 km/h)
         rotation_period: 54.639 d
         axial_tilt: 16.39°
         albedo: 0.30
-        temperature: 1048 K<br />(775 °C)
+        temperature: 129 K<br />(-144 °C)
       - name: 2931 Narashiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -326,14 +326,14 @@ planets:
         radius: 46,642.3 km<br/>(7.321 Yrths)
         surface_area: 2.734 × 10<sup>10</sup> km<sup>2</sup><br/>(53.598 Yrths)
         volume: 4.250 × 10<sup>14</sup> km<sup>3</sup><br/>(392.389 Yrths)
-        mass: 9.842 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+        mass: 9.842 × 10<sup>26</sup> kg<br />(164.802 Yrths)
         density: 2.316 g/cm<sup>3</sup>
         surface_gravity: 30.154 m/s<sup>2</sup><br />(3.075 g<sub>0</sub>)
         escape_velocity: 53.073 km/s<br />(191,061 km/h)
         rotation_period: 46.100 d
         axial_tilt: 28.12°
         albedo: 0.30
-        temperature: 999 K<br />(726 °C)
+        temperature: 129 K<br />(-144 °C)
       - name: 2931 Narashiad IV e
         type: Icy
         formationType: Captured
@@ -346,14 +346,14 @@ planets:
         radius: 37,594.6 km<br/>(5.901 Yrths)
         surface_area: 1.776 × 10<sup>10</sup> km<sup>2</sup><br/>(34.821 Yrths)
         volume: 2.226 × 10<sup>14</sup> km<sup>3</sup><br/>(205.472 Yrths)
-        mass: 2.388 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+        mass: 2.388 × 10<sup>26</sup> kg<br />(39.991 Yrths)
         density: 1.073 g/cm<sup>3</sup>
         surface_gravity: 11.263 m/s<sup>2</sup><br />(1.149 g<sub>0</sub>)
         escape_velocity: 29.120 km/s<br />(104,834 km/h)
         rotation_period: 66.472 d
         axial_tilt: 21.47°
         albedo: 0.30
-        temperature: 953 K<br />(680 °C)
+        temperature: 129 K<br />(-144 °C)
       - name: 2931 Narashiad IV f
         type: Icy
         formationType: Accreted
@@ -366,14 +366,14 @@ planets:
         radius: 42,266.5 km<br/>(6.634 Yrths)
         surface_area: 2.245 × 10<sup>10</sup> km<sup>2</sup><br/>(44.013 Yrths)
         volume: 3.163 × 10<sup>14</sup> km<sup>3</sup><br/>(291.988 Yrths)
-        mass: 4.685 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+        mass: 4.685 × 10<sup>26</sup> kg<br />(78.454 Yrths)
         density: 1.481 g/cm<sup>3</sup>
         surface_gravity: 17.481 m/s<sup>2</sup><br />(1.783 g<sub>0</sub>)
         escape_velocity: 38.467 km/s<br />(138,481 km/h)
         rotation_period: 79.821 d
         axial_tilt: 18.14°
         albedo: 0.30
-        temperature: 908 K<br />(635 °C)
+        temperature: 129 K<br />(-144 °C)
       - name: 2931 Narashiad IV g
         type: Icy
         formationType: Captured
@@ -386,14 +386,14 @@ planets:
         radius: 28,528.4 km<br/>(4.478 Yrths)
         surface_area: 1.023 × 10<sup>10</sup> km<sup>2</sup><br/>(20.051 Yrths)
         volume: 9.726 × 10<sup>13</sup> km<sup>3</sup><br/>(89.786 Yrths)
-        mass: 1.114 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+        mass: 1.114 × 10<sup>26</sup> kg<br />(18.652 Yrths)
         density: 1.145 g/cm<sup>3</sup>
         surface_gravity: 9.122 m/s<sup>2</sup><br />(0.930 g<sub>0</sub>)
         escape_velocity: 22.830 km/s<br />(82,188 km/h)
         rotation_period: 67.168 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 866 K<br />(593 °C)
+        temperature: 129 K<br />(-144 °C)
       - name: 2931 Narashiad IV h
         type: Ice/rock hybrid
         formationType: Captured
@@ -406,14 +406,14 @@ planets:
         radius: 22,617.4 km<br/>(3.550 Yrths)
         surface_area: 6.428 × 10<sup>09</sup> km<sup>2</sup><br/>(12.603 Yrths)
         volume: 4.846 × 10<sup>13</sup> km<sup>3</sup><br/>(44.741 Yrths)
-        mass: 1.206 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+        mass: 1.206 × 10<sup>26</sup> kg<br />(20.201 Yrths)
         density: 2.489 g/cm<sup>3</sup>
         surface_gravity: 15.719 m/s<sup>2</sup><br />(1.603 g<sub>0</sub>)
         escape_velocity: 26.684 km/s<br />(96,061 km/h)
         rotation_period: 36.628 d
         axial_tilt: 15.71°
         albedo: 0.30
-        temperature: 787 K<br />(514 °C)
+        temperature: 129 K<br />(-144 °C)
       - name: 2931 Narashiad IV i
         type: Icy
         formationType: Accreted
@@ -426,12 +426,12 @@ planets:
         radius: 44,822.7 km<br/>(7.035 Yrths)
         surface_area: 2.525 × 10<sup>10</sup> km<sup>2</sup><br/>(49.497 Yrths)
         volume: 3.772 × 10<sup>14</sup> km<sup>3</sup><br/>(348.235 Yrths)
-        mass: 4.415 × 10<sup>26</sup> kg<br />(35.15617891819361 Yrths)
+        mass: 4.415 × 10<sup>26</sup> kg<br />(73.924 Yrths)
         density: 1.170 g/cm<sup>3</sup>
         surface_gravity: 14.646 m/s<sup>2</sup><br />(1.493 g<sub>0</sub>)
         escape_velocity: 36.259 km/s<br />(130,534 km/h)
         rotation_period: 49.335 d
         axial_tilt: 22.99°
         albedo: 0.30
-        temperature: 751 K<br />(478 °C)
+        temperature: 129 K<br />(-144 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      908 Dialkeshiad A is a star in the constellation Dialkes
+      908 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 386.88 ly
 apparent_magnitude: 8.69
 absolute_magnitude: 3.32

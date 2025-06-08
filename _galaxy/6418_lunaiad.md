@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6418 Lunaiad is a star in the constellation Luna
+      6418 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 503.43 ly
 apparent_magnitude: 7.55
 absolute_magnitude: 1.61
@@ -31,14 +31,14 @@ planets:
     radius: 15,558.2 km<br/>(2.442 Yrths)
     surface_area: 3.042 × 10<sup>09</sup> km<sup>2</sup><br/>(5.964 Yrths)
     volume: 1.577 × 10<sup>13</sup> km<sup>3</sup><br/>(14.563 Yrths)
-    mass: 4.065 × 10<sup>25</sup> kg<br />(6.807067599225972 Yrths)
+    mass: 4.065 × 10<sup>25</sup> kg<br />(6.81 Yrths)
     density: 2.577 g/cm<sup>3</sup>
     surface_gravity: 11.194 m/s<sup>2</sup><br />(1.141 g<sub>0</sub>)
     escape_velocity: 18.676 km/s<br />(67,233 km/h)
     rotation_period: 0.481 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 397 K<br />(124 °C)
+    temperature: 353 K<br />(80 °C)
     composition:
       - 89.9626% hydrogen
       - 9.6723% helium
@@ -56,14 +56,14 @@ planets:
         radius: 12,891.4 km<br/>(2.023 Yrths)
         surface_area: 2.088 × 10<sup>09</sup> km<sup>2</sup><br/>(4.094 Yrths)
         volume: 8.974 × 10<sup>12</sup> km<sup>3</sup><br/>(8.285 Yrths)
-        mass: 1.903 × 10<sup>25</sup> kg<br />(6.807067599225972 Yrths)
+        mass: 1.903 × 10<sup>25</sup> kg<br />(3.187 Yrths)
         density: 2.121 g/cm<sup>3</sup>
         surface_gravity: 7.633 m/s<sup>2</sup><br />(0.778 g<sub>0</sub>)
         escape_velocity: 14.039 km/s<br />(50,539 km/h)
         rotation_period: 42.646 d
         axial_tilt: 17.15°
         albedo: 0.30
-        temperature: 2779 K<br />(2506 °C)
+        temperature: 258 K<br />(-16 °C)
       - name: 6418 Lunaiad I b
         type: Rocky
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 11,303.9 km<br/>(1.774 Yrths)
         surface_area: 1.606 × 10<sup>09</sup> km<sup>2</sup><br/>(3.148 Yrths)
         volume: 6.050 × 10<sup>12</sup> km<sup>3</sup><br/>(5.586 Yrths)
-        mass: 1.789 × 10<sup>25</sup> kg<br />(6.807067599225972 Yrths)
+        mass: 1.789 × 10<sup>25</sup> kg<br />(2.996 Yrths)
         density: 2.957 g/cm<sup>3</sup>
         surface_gravity: 9.333 m/s<sup>2</sup><br />(0.952 g<sub>0</sub>)
         escape_velocity: 14.535 km/s<br />(52,328 km/h)
         rotation_period: 31.342 d
         axial_tilt: 17.45°
         albedo: 0.30
-        temperature: 2650 K<br />(2377 °C)
+        temperature: 258 K<br />(-16 °C)
       - name: 6418 Lunaiad I c
         type: Asteroid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 7,902.3 km<br/>(1.240 Yrths)
         surface_area: 7.847 × 10<sup>08</sup> km<sup>2</sup><br/>(1.538 Yrths)
         volume: 2.067 × 10<sup>12</sup> km<sup>3</sup><br/>(1.908 Yrths)
-        mass: 4.690 × 10<sup>24</sup> kg<br />(6.807067599225972 Yrths)
+        mass: 4.690 × 10<sup>24</sup> kg<br />(0.785 Yrths)
         density: 2.269 g/cm<sup>3</sup>
         surface_gravity: 5.005 m/s<sup>2</sup><br />(0.510 g<sub>0</sub>)
         escape_velocity: 8.900 km/s<br />(32,041 km/h)
         rotation_period: 33.912 d
         axial_tilt: 40.27°
         albedo: 0.30
-        temperature: 2527 K<br />(2254 °C)
+        temperature: 258 K<br />(-16 °C)
       - name: 6418 Lunaiad I d
         type: Icy
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 10,147.0 km<br/>(1.593 Yrths)
         surface_area: 1.294 × 10<sup>09</sup> km<sup>2</sup><br/>(2.537 Yrths)
         volume: 4.376 × 10<sup>12</sup> km<sup>3</sup><br/>(4.040 Yrths)
-        mass: 5.458 × 10<sup>24</sup> kg<br />(6.807067599225972 Yrths)
+        mass: 5.458 × 10<sup>24</sup> kg<br />(0.914 Yrths)
         density: 1.247 g/cm<sup>3</sup>
         surface_gravity: 3.533 m/s<sup>2</sup><br />(0.360 g<sub>0</sub>)
         escape_velocity: 8.474 km/s<br />(30,505 km/h)
         rotation_period: 49.632 d
         axial_tilt: 15.88°
         albedo: 0.30
-        temperature: 2409 K<br />(2136 °C)
+        temperature: 258 K<br />(-16 °C)
   - name: 6418 Lunaiad II
     type: Large terrestrial
     aphelion: 1,645,320,736 km<br />10.998 AU
@@ -135,14 +135,14 @@ planets:
     radius: 13,205.4 km<br/>(2.073 Yrths)
     surface_area: 2.191 × 10<sup>09</sup> km<sup>2</sup><br/>(4.296 Yrths)
     volume: 9.646 × 10<sup>12</sup> km<sup>3</sup><br/>(8.905 Yrths)
-    mass: 6.535 × 10<sup>25</sup> kg<br />(10.942660531143806 Yrths)
+    mass: 6.535 × 10<sup>25</sup> kg<br />(10.94 Yrths)
     density: 6.775 g/cm<sup>3</sup>
     surface_gravity: 24.978 m/s<sup>2</sup><br />(2.547 g<sub>0</sub>)
     escape_velocity: 25.702 km/s<br />(92,526 km/h)
     rotation_period: 0.501 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 303 K<br />(30 °C)
+    temperature: 702 K<br />(428 °C)
     surface_pressure: 1,585 kPa<br />(16 atm)
     composition:
       - 68.0060% carbon dioxide
@@ -162,14 +162,14 @@ planets:
         radius: 9,554.2 km<br/>(1.500 Yrths)
         surface_area: 1.147 × 10<sup>09</sup> km<sup>2</sup><br/>(2.249 Yrths)
         volume: 3.653 × 10<sup>12</sup> km<sup>3</sup><br/>(3.373 Yrths)
-        mass: 1.089 × 10<sup>25</sup> kg<br />(10.942660531143806 Yrths)
+        mass: 1.089 × 10<sup>25</sup> kg<br />(1.824 Yrths)
         density: 2.982 g/cm<sup>3</sup>
         surface_gravity: 7.955 m/s<sup>2</sup><br />(0.811 g<sub>0</sub>)
         escape_velocity: 12.337 km/s<br />(44,414 km/h)
         rotation_period: 35.478 d
         axial_tilt: 10.96°
         albedo: 0.30
-        temperature: 2136 K<br />(1863 °C)
+        temperature: 174 K<br />(-99 °C)
       - name: 6418 Lunaiad II b
         type: Rocky
         formationType: Captured
@@ -182,12 +182,12 @@ planets:
         radius: 17,838.2 km<br/>(2.800 Yrths)
         surface_area: 3.999 × 10<sup>09</sup> km<sup>2</sup><br/>(7.839 Yrths)
         volume: 2.378 × 10<sup>13</sup> km<sup>3</sup><br/>(21.950 Yrths)
-        mass: 5.706 × 10<sup>25</sup> kg<br />(10.942660531143806 Yrths)
+        mass: 5.706 × 10<sup>25</sup> kg<br />(9.555 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 11.953 m/s<sup>2</sup><br />(1.219 g<sub>0</sub>)
         escape_velocity: 20.664 km/s<br />(74,391 km/h)
         rotation_period: 44.302 d
         axial_tilt: 17.96°
         albedo: 0.30
-        temperature: 2036 K<br />(1763 °C)
+        temperature: 174 K<br />(-99 °C)
 ---

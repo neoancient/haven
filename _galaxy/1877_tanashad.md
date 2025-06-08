@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1877 Tanashad is a star in the constellation Tanas
+      1877 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 236.00 ly
 apparent_magnitude: 10.22
 absolute_magnitude: 5.92

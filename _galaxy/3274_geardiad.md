@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3274 Geardiad is a star in the constellation Geard
+      3274 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 315.35 ly
 apparent_magnitude: 10.10
 absolute_magnitude: 5.18
@@ -31,14 +31,14 @@ planets:
     radius: 5,418.1 km<br/>(0.850 Yrths)
     surface_area: 3.689 × 10<sup>08</sup> km<sup>2</sup><br/>(0.723 Yrths)
     volume: 6.662 × 10<sup>11</sup> km<sup>3</sup><br/>(0.615 Yrths)
-    mass: 3.728 × 10<sup>24</sup> kg<br />(0.6242271920191113 Yrths)
+    mass: 3.728 × 10<sup>24</sup> kg<br />(0.62 Yrths)
     density: 5.595 g/cm<sup>3</sup>
     surface_gravity: 8.464 m/s<sup>2</sup><br />(0.863 g<sub>0</sub>)
     escape_velocity: 9.584 km/s<br />(34,501 km/h)
     rotation_period: 1.751 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 260 K<br />(-13 °C)
+    temperature: 285 K<br />(12 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 90.4714% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 1,699.7 km<br/>(0.267 Yrths)
         surface_area: 3.631 × 10<sup>07</sup> km<sup>2</sup><br/>(0.071 Yrths)
         volume: 2.057 × 10<sup>10</sup> km<sup>3</sup><br/>(0.019 Yrths)
-        mass: 6.613 × 10<sup>22</sup> kg<br />(0.6242271920191113 Yrths)
+        mass: 6.613 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 3.215 g/cm<sup>3</sup>
         surface_gravity: 1.526 m/s<sup>2</sup><br />(0.156 g<sub>0</sub>)
         escape_velocity: 2.279 km/s<br />(8,204 km/h)
         rotation_period: 37.907 d
         axial_tilt: 21.85°
         albedo: 0.30
-        temperature: 3915 K<br />(3642 °C)
+        temperature: 236 K<br />(-37 °C)
       - name: 3274 Geardiad I b
         type: Rocky
         formationType: Impact formed
@@ -79,14 +79,14 @@ planets:
         radius: 1,075.9 km<br/>(0.169 Yrths)
         surface_area: 1.455 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.217 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.439 × 10<sup>22</sup> kg<br />(0.6242271920191113 Yrths)
+        mass: 1.439 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.758 g/cm<sup>3</sup>
         surface_gravity: 0.828 m/s<sup>2</sup><br />(0.084 g<sub>0</sub>)
         escape_velocity: 1.336 km/s<br />(4,810 km/h)
         rotation_period: 38.381 d
         axial_tilt: 10.30°
         albedo: 0.30
-        temperature: 3733 K<br />(3460 °C)
+        temperature: 236 K<br />(-37 °C)
   - name: 3274 Geardiad II
     type: Large terrestrial
     aphelion: 431,779,147 km<br />2.886 AU
@@ -98,14 +98,14 @@ planets:
     radius: 9,189.0 km<br/>(1.442 Yrths)
     surface_area: 1.061 × 10<sup>09</sup> km<sup>2</sup><br/>(2.080 Yrths)
     volume: 3.250 × 10<sup>12</sup> km<sup>3</sup><br/>(3.000 Yrths)
-    mass: 2.032 × 10<sup>25</sup> kg<br />(3.403011351649419 Yrths)
+    mass: 2.032 × 10<sup>25</sup> kg<br />(3.40 Yrths)
     density: 6.253 g/cm<sup>3</sup>
     surface_gravity: 16.042 m/s<sup>2</sup><br />(1.636 g<sub>0</sub>)
     escape_velocity: 17.182 km/s<br />(61,856 km/h)
     rotation_period: 1.038 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 218 K<br />(-55 °C)
+    temperature: 249 K<br />(-24 °C)
     surface_pressure: 118 kPa<br />(1 atm)
     composition:
       - 71.2364% methane
@@ -123,14 +123,14 @@ planets:
         radius: 5,391.0 km<br/>(0.846 Yrths)
         surface_area: 3.652 × 10<sup>08</sup> km<sup>2</sup><br/>(0.716 Yrths)
         volume: 6.563 × 10<sup>11</sup> km<sup>3</sup><br/>(0.606 Yrths)
-        mass: 1.673 × 10<sup>24</sup> kg<br />(3.403011351649419 Yrths)
+        mass: 1.673 × 10<sup>24</sup> kg<br />(0.280 Yrths)
         density: 2.549 g/cm<sup>3</sup>
         surface_gravity: 3.837 m/s<sup>2</sup><br />(0.391 g<sub>0</sub>)
         escape_velocity: 6.436 km/s<br />(23,171 km/h)
         rotation_period: 34.159 d
         axial_tilt: 45.34°
         albedo: 0.30
-        temperature: 2231 K<br />(1958 °C)
+        temperature: 175 K<br />(-98 °C)
       - name: 3274 Geardiad II b
         type: Rocky
         formationType: Impact formed
@@ -143,12 +143,12 @@ planets:
         radius: 6,817.2 km<br/>(1.070 Yrths)
         surface_area: 5.840 × 10<sup>08</sup> km<sup>2</sup><br/>(1.145 Yrths)
         volume: 1.327 × 10<sup>12</sup> km<sup>3</sup><br/>(1.225 Yrths)
-        mass: 4.298 × 10<sup>24</sup> kg<br />(3.403011351649419 Yrths)
+        mass: 4.298 × 10<sup>24</sup> kg<br />(0.720 Yrths)
         density: 3.239 g/cm<sup>3</sup>
         surface_gravity: 6.165 m/s<sup>2</sup><br />(0.629 g<sub>0</sub>)
         escape_velocity: 9.174 km/s<br />(33,027 km/h)
         rotation_period: 38.935 d
         axial_tilt: 17.68°
         albedo: 0.30
-        temperature: 2127 K<br />(1854 °C)
+        temperature: 175 K<br />(-98 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Culniad Arnshi B is a star in the constellation Nuani
+      Culniad Arnshi B is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 5437.23 ly
 apparent_magnitude: 3.23
 absolute_magnitude: -7.88

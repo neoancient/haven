@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0010 Pelnemenniad A is a star in the constellation Pelnemen
+      0010 Pelnemenniad A is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 404.81 ly
 apparent_magnitude: 5.28
 absolute_magnitude: -0.19

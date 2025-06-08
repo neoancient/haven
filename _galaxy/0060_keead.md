@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0060 Keead is a star in the constellation Kee
+      0060 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 140.41 ly
 apparent_magnitude: 6.46
 absolute_magnitude: 3.29
@@ -31,14 +31,14 @@ planets:
     radius: 22,446.5 km<br/>(3.523 Yrths)
     surface_area: 6.332 × 10<sup>09</sup> km<sup>2</sup><br/>(12.413 Yrths)
     volume: 4.737 × 10<sup>13</sup> km<sup>3</sup><br/>(43.734 Yrths)
-    mass: 1.140 × 10<sup>26</sup> kg<br />(19.08120845952774 Yrths)
+    mass: 1.140 × 10<sup>26</sup> kg<br />(19.08 Yrths)
     density: 2.405 g/cm<sup>3</sup>
     surface_gravity: 15.075 m/s<sup>2</sup><br />(1.537 g<sub>0</sub>)
     escape_velocity: 26.032 km/s<br />(93,715 km/h)
     rotation_period: 0.571 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 323 K<br />(50 °C)
+    temperature: 284 K<br />(11 °C)
     composition:
       - 78.2306% hydrogen
       - 16.5649% helium
@@ -56,14 +56,14 @@ planets:
         radius: 18,629.0 km<br/>(2.924 Yrths)
         surface_area: 4.361 × 10<sup>09</sup> km<sup>2</sup><br/>(8.550 Yrths)
         volume: 2.708 × 10<sup>13</sup> km<sup>3</sup><br/>(25.000 Yrths)
-        mass: 6.880 × 10<sup>25</sup> kg<br />(19.08120845952774 Yrths)
+        mass: 6.880 × 10<sup>25</sup> kg<br />(11.521 Yrths)
         density: 2.541 g/cm<sup>3</sup>
         surface_gravity: 13.214 m/s<sup>2</sup><br />(1.347 g<sub>0</sub>)
         escape_velocity: 22.204 km/s<br />(79,933 km/h)
         rotation_period: 33.115 d
         axial_tilt: 26.97°
         albedo: 0.30
-        temperature: 2731 K<br />(2458 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 0060 Keead I b
         type: Rocky
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 21,816.9 km<br/>(3.424 Yrths)
         surface_area: 5.981 × 10<sup>09</sup> km<sup>2</sup><br/>(11.727 Yrths)
         volume: 4.350 × 10<sup>13</sup> km<sup>3</sup><br/>(40.156 Yrths)
-        mass: 1.307 × 10<sup>26</sup> kg<br />(19.08120845952774 Yrths)
+        mass: 1.307 × 10<sup>26</sup> kg<br />(21.882 Yrths)
         density: 3.004 g/cm<sup>3</sup>
         surface_gravity: 18.300 m/s<sup>2</sup><br />(1.866 g<sub>0</sub>)
         escape_velocity: 28.277 km/s<br />(101,796 km/h)
         rotation_period: 56.773 d
         axial_tilt: 23.38°
         albedo: 0.30
-        temperature: 2483 K<br />(2210 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 0060 Keead I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 20,620.6 km<br/>(3.237 Yrths)
         surface_area: 5.343 × 10<sup>09</sup> km<sup>2</sup><br/>(10.476 Yrths)
         volume: 3.673 × 10<sup>13</sup> km<sup>3</sup><br/>(33.906 Yrths)
-        mass: 9.474 × 10<sup>25</sup> kg<br />(19.08120845952774 Yrths)
+        mass: 9.474 × 10<sup>25</sup> kg<br />(15.864 Yrths)
         density: 2.580 g/cm<sup>3</sup>
         surface_gravity: 14.851 m/s<sup>2</sup><br />(1.514 g<sub>0</sub>)
         escape_velocity: 24.765 km/s<br />(89,154 km/h)
         rotation_period: 37.520 d
         axial_tilt: 10.10°
         albedo: 0.30
-        temperature: 2367 K<br />(2094 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 0060 Keead I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 21,938.7 km<br/>(3.444 Yrths)
         surface_area: 6.048 × 10<sup>09</sup> km<sup>2</sup><br/>(11.858 Yrths)
         volume: 4.423 × 10<sup>13</sup> km<sup>3</sup><br/>(40.833 Yrths)
-        mass: 8.015 × 10<sup>25</sup> kg<br />(19.08120845952774 Yrths)
+        mass: 8.015 × 10<sup>25</sup> kg<br />(13.421 Yrths)
         density: 1.812 g/cm<sup>3</sup>
         surface_gravity: 11.099 m/s<sup>2</sup><br />(1.132 g<sub>0</sub>)
         escape_velocity: 22.083 km/s<br />(79,499 km/h)
         rotation_period: 63.662 d
         axial_tilt: 9.95°
         albedo: 0.30
-        temperature: 2257 K<br />(1984 °C)
+        temperature: 250 K<br />(-23 °C)
   - name: 0060 Keead II
     type: Large terrestrial
     aphelion: 908,135,063 km<br />6.070 AU
@@ -135,14 +135,14 @@ planets:
     radius: 13,403.1 km<br/>(2.104 Yrths)
     surface_area: 2.257 × 10<sup>09</sup> km<sup>2</sup><br/>(4.426 Yrths)
     volume: 1.009 × 10<sup>13</sup> km<sup>3</sup><br/>(9.311 Yrths)
-    mass: 6.883 × 10<sup>25</sup> kg<br />(11.524661496403525 Yrths)
+    mass: 6.883 × 10<sup>25</sup> kg<br />(11.52 Yrths)
     density: 6.824 g/cm<sup>3</sup>
     surface_gravity: 25.536 m/s<sup>2</sup><br />(2.604 g<sub>0</sub>)
     escape_velocity: 26.181 km/s<br />(94,252 km/h)
     rotation_period: 0.668 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 219 K<br />(-54 °C)
+    temperature: 305 K<br />(32 °C)
     surface_pressure: 61 kPa<br />(1 atm)
     composition:
       - 84.1737% ammonia
@@ -161,14 +161,14 @@ planets:
         radius: 4,346.6 km<br/>(0.682 Yrths)
         surface_area: 2.374 × 10<sup>08</sup> km<sup>2</sup><br/>(0.465 Yrths)
         volume: 3.440 × 10<sup>11</sup> km<sup>3</sup><br/>(0.318 Yrths)
-        mass: 3.347 × 10<sup>23</sup> kg<br />(11.524661496403525 Yrths)
+        mass: 3.347 × 10<sup>23</sup> kg<br />(0.056 Yrths)
         density: 0.973 g/cm<sup>3</sup>
         surface_gravity: 1.181 m/s<sup>2</sup><br />(0.120 g<sub>0</sub>)
         escape_velocity: 3.206 km/s<br />(11,541 km/h)
         rotation_period: 59.904 d
         axial_tilt: 14.27°
         albedo: 0.30
-        temperature: 2260 K<br />(1986 °C)
+        temperature: 178 K<br />(-95 °C)
       - name: 0060 Keead II b
         type: Rocky
         formationType: Captured
@@ -181,14 +181,14 @@ planets:
         radius: 5,752.4 km<br/>(0.903 Yrths)
         surface_area: 4.158 × 10<sup>08</sup> km<sup>2</sup><br/>(0.815 Yrths)
         volume: 7.973 × 10<sup>11</sup> km<sup>3</sup><br/>(0.736 Yrths)
-        mass: 2.755 × 10<sup>24</sup> kg<br />(11.524661496403525 Yrths)
+        mass: 2.755 × 10<sup>24</sup> kg<br />(0.461 Yrths)
         density: 3.455 g/cm<sup>3</sup>
         surface_gravity: 5.549 m/s<sup>2</sup><br />(0.566 g<sub>0</sub>)
         escape_velocity: 7.995 km/s<br />(28,783 km/h)
         rotation_period: 51.271 d
         axial_tilt: 22.45°
         albedo: 0.30
-        temperature: 2154 K<br />(1881 °C)
+        temperature: 178 K<br />(-95 °C)
       - name: 0060 Keead II c
         type: Icy
         formationType: Captured
@@ -201,14 +201,14 @@ planets:
         radius: 17,419.0 km<br/>(2.734 Yrths)
         surface_area: 3.813 × 10<sup>09</sup> km<sup>2</sup><br/>(7.475 Yrths)
         volume: 2.214 × 10<sup>13</sup> km<sup>3</sup><br/>(20.438 Yrths)
-        mass: 2.915 × 10<sup>25</sup> kg<br />(11.524661496403525 Yrths)
+        mass: 2.915 × 10<sup>25</sup> kg<br />(4.881 Yrths)
         density: 1.317 g/cm<sup>3</sup>
         surface_gravity: 6.404 m/s<sup>2</sup><br />(0.653 g<sub>0</sub>)
         escape_velocity: 14.946 km/s<br />(53,807 km/h)
         rotation_period: 51.590 d
         axial_tilt: 15.45°
         albedo: 0.30
-        temperature: 2054 K<br />(1781 °C)
+        temperature: 178 K<br />(-95 °C)
   - name: 0060 Keead III
     type: Ice giant
     aphelion: 1,786,354,345 km<br />11.941 AU
@@ -220,14 +220,14 @@ planets:
     radius: 31,408.3 km<br/>(4.930 Yrths)
     surface_area: 1.240 × 10<sup>10</sup> km<sup>2</sup><br/>(24.304 Yrths)
     volume: 1.298 × 10<sup>14</sup> km<sup>3</sup><br/>(119.815 Yrths)
-    mass: 2.007 × 10<sup>26</sup> kg<br />(33.60841244057258 Yrths)
+    mass: 2.007 × 10<sup>26</sup> kg<br />(33.61 Yrths)
     density: 1.546 g/cm<sup>3</sup>
     surface_gravity: 13.561 m/s<sup>2</sup><br />(1.383 g<sub>0</sub>)
     escape_velocity: 29.206 km/s<br />(105,143 km/h)
     rotation_period: 0.368 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 221 K<br />(-52 °C)
+    temperature: 198 K<br />(-75 °C)
     composition:
       - 100.0000% helium
     moons:
@@ -243,14 +243,14 @@ planets:
         radius: 28,910.7 km<br/>(4.538 Yrths)
         surface_area: 1.050 × 10<sup>10</sup> km<sup>2</sup><br/>(20.592 Yrths)
         volume: 1.012 × 10<sup>14</sup> km<sup>3</sup><br/>(93.444 Yrths)
-        mass: 2.426 × 10<sup>26</sup> kg<br />(33.60841244057258 Yrths)
+        mass: 2.426 × 10<sup>26</sup> kg<br />(40.631 Yrths)
         density: 2.397 g/cm<sup>3</sup>
         surface_gravity: 19.350 m/s<sup>2</sup><br />(1.973 g<sub>0</sub>)
         escape_velocity: 33.471 km/s<br />(120,497 km/h)
         rotation_period: 49.269 d
         axial_tilt: 20.00°
         albedo: 0.30
-        temperature: 1265 K<br />(992 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0060 Keead III b
         type: Icy
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 43,950.8 km<br/>(6.899 Yrths)
         surface_area: 2.427 × 10<sup>10</sup> km<sup>2</sup><br/>(47.590 Yrths)
         volume: 3.556 × 10<sup>14</sup> km<sup>3</sup><br/>(328.304 Yrths)
-        mass: 5.379 × 10<sup>26</sup> kg<br />(33.60841244057258 Yrths)
+        mass: 5.379 × 10<sup>26</sup> kg<br />(90.065 Yrths)
         density: 1.512 g/cm<sup>3</sup>
         surface_gravity: 18.559 m/s<sup>2</sup><br />(1.893 g<sub>0</sub>)
         escape_velocity: 40.418 km/s<br />(145,504 km/h)
         rotation_period: 43.375 d
         axial_tilt: 20.62°
         albedo: 0.30
-        temperature: 1206 K<br />(933 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0060 Keead III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -283,14 +283,14 @@ planets:
         radius: 33,883.9 km<br/>(5.318 Yrths)
         surface_area: 1.443 × 10<sup>10</sup> km<sup>2</sup><br/>(28.286 Yrths)
         volume: 1.630 × 10<sup>14</sup> km<sup>3</sup><br/>(150.438 Yrths)
-        mass: 2.951 × 10<sup>26</sup> kg<br />(33.60841244057258 Yrths)
+        mass: 2.951 × 10<sup>26</sup> kg<br />(49.415 Yrths)
         density: 1.811 g/cm<sup>3</sup>
         surface_gravity: 17.132 m/s<sup>2</sup><br />(1.747 g<sub>0</sub>)
         escape_velocity: 34.097 km/s<br />(122,748 km/h)
         rotation_period: 38.880 d
         axial_tilt: 17.34°
         albedo: 0.30
-        temperature: 1150 K<br />(877 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0060 Keead III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -303,14 +303,14 @@ planets:
         radius: 37,532.3 km<br/>(5.891 Yrths)
         surface_area: 1.770 × 10<sup>10</sup> km<sup>2</sup><br/>(34.705 Yrths)
         volume: 2.215 × 10<sup>14</sup> km<sup>3</sup><br/>(204.453 Yrths)
-        mass: 4.775 × 10<sup>26</sup> kg<br />(33.60841244057258 Yrths)
+        mass: 4.775 × 10<sup>26</sup> kg<br />(79.956 Yrths)
         density: 2.156 g/cm<sup>3</sup>
         surface_gravity: 22.593 m/s<sup>2</sup><br />(2.304 g<sub>0</sub>)
         escape_velocity: 41.210 km/s<br />(148,355 km/h)
         rotation_period: 60.889 d
         axial_tilt: 22.71°
         albedo: 0.30
-        temperature: 1096 K<br />(823 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0060 Keead III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 53,383.0 km<br/>(8.379 Yrths)
         surface_area: 3.581 × 10<sup>10</sup> km<sup>2</sup><br/>(70.209 Yrths)
         volume: 6.372 × 10<sup>14</sup> km<sup>3</sup><br/>(588.282 Yrths)
-        mass: 1.437 × 10<sup>27</sup> kg<br />(33.60841244057258 Yrths)
+        mass: 1.437 × 10<sup>27</sup> kg<br />(240.573 Yrths)
         density: 2.255 g/cm<sup>3</sup>
         surface_gravity: 33.603 m/s<sup>2</sup><br />(3.427 g<sub>0</sub>)
         escape_velocity: 59.938 km/s<br />(215,776 km/h)
         rotation_period: 41.279 d
         axial_tilt: 13.93°
         albedo: 0.30
-        temperature: 906 K<br />(633 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0060 Keead III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -343,14 +343,14 @@ planets:
         radius: 28,489.6 km<br/>(4.472 Yrths)
         surface_area: 1.020 × 10<sup>10</sup> km<sup>2</sup><br/>(19.997 Yrths)
         volume: 9.686 × 10<sup>13</sup> km<sup>3</sup><br/>(89.420 Yrths)
-        mass: 2.219 × 10<sup>26</sup> kg<br />(33.60841244057258 Yrths)
+        mass: 2.219 × 10<sup>26</sup> kg<br />(37.155 Yrths)
         density: 2.291 g/cm<sup>3</sup>
         surface_gravity: 18.221 m/s<sup>2</sup><br />(1.858 g<sub>0</sub>)
         escape_velocity: 32.243 km/s<br />(116,076 km/h)
         rotation_period: 34.344 d
         axial_tilt: 26.52°
         albedo: 0.30
-        temperature: 785 K<br />(512 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0060 Keead III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -363,14 +363,14 @@ planets:
         radius: 33,618.0 km<br/>(5.277 Yrths)
         surface_area: 1.420 × 10<sup>10</sup> km<sup>2</sup><br/>(27.844 Yrths)
         volume: 1.591 × 10<sup>14</sup> km<sup>3</sup><br/>(146.924 Yrths)
-        mass: 4.121 × 10<sup>26</sup> kg<br />(33.60841244057258 Yrths)
+        mass: 4.121 × 10<sup>26</sup> kg<br />(68.999 Yrths)
         density: 2.589 g/cm<sup>3</sup>
         surface_gravity: 24.302 m/s<sup>2</sup><br />(2.478 g<sub>0</sub>)
         escape_velocity: 40.450 km/s<br />(145,618 km/h)
         rotation_period: 31.442 d
         axial_tilt: 20.58°
         albedo: 0.30
-        temperature: 714 K<br />(441 °C)
+        temperature: 127 K<br />(-146 °C)
   - name: 0060 Keead IV
     type: Terrestrial
     aphelion: 3,494,435,895 km<br />23.359 AU
@@ -382,14 +382,14 @@ planets:
     radius: 8,454.1 km<br/>(1.327 Yrths)
     surface_area: 8.981 × 10<sup>08</sup> km<sup>2</sup><br/>(1.761 Yrths)
     volume: 2.531 × 10<sup>12</sup> km<sup>3</sup><br/>(2.337 Yrths)
-    mass: 1.075 × 10<sup>25</sup> kg<br />(1.799902498142128 Yrths)
+    mass: 1.075 × 10<sup>25</sup> kg<br />(1.80 Yrths)
     density: 4.247 g/cm<sup>3</sup>
     surface_gravity: 10.024 m/s<sup>2</sup><br />(1.022 g<sub>0</sub>)
     escape_velocity: 13.028 km/s<br />(46,900 km/h)
     rotation_period: 0.842 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 104 K<br />(-169 °C)
+    temperature: 132 K<br />(-141 °C)
     surface_pressure: 19 kPa<br />(0 atm)
     composition:
       - 84.8811% methane
@@ -408,12 +408,12 @@ planets:
         radius: 3,351.6 km<br/>(0.526 Yrths)
         surface_area: 1.412 × 10<sup>08</sup> km<sup>2</sup><br/>(0.277 Yrths)
         volume: 1.577 × 10<sup>11</sup> km<sup>3</sup><br/>(0.146 Yrths)
-        mass: 4.707 × 10<sup>23</sup> kg<br />(1.799902498142128 Yrths)
+        mass: 4.707 × 10<sup>23</sup> kg<br />(0.079 Yrths)
         density: 2.985 g/cm<sup>3</sup>
         surface_gravity: 2.793 m/s<sup>2</sup><br />(0.285 g<sub>0</sub>)
         escape_velocity: 4.330 km/s<br />(15,588 km/h)
         rotation_period: 34.633 d
         axial_tilt: 20.08°
         albedo: 0.30
-        temperature: 1534 K<br />(1261 °C)
+        temperature: 91 K<br />(-182 °C)
 ---

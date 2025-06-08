@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      911 Noniashad A is a star in the constellation Nonias
+      911 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 489.38 ly
 apparent_magnitude: 7.85
 absolute_magnitude: 1.97

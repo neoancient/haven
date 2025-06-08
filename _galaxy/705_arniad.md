@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      705 Arniad is a star in the constellation Arni
+      705 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1277.75 ly
 apparent_magnitude: 14.32
 absolute_magnitude: 6.35

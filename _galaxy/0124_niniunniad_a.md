@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0124 Niniunniad A is a star in the constellation Niniun
+      0124 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 1471.84 ly
 apparent_magnitude: 6.10
 absolute_magnitude: -2.18

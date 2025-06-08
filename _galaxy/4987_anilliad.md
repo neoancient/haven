@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4987 Anilliad is a star in the constellation Anil
+      4987 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 515.92 ly
 apparent_magnitude: 13.66
 absolute_magnitude: 7.67

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      854 Arniad is a star in the constellation Arni
+      854 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 258.96 ly
 apparent_magnitude: 9.29
 absolute_magnitude: 4.79

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1494 Noniashad A is a star in the constellation Nonias
+      1494 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 406.11 ly
 apparent_magnitude: 6.84
 absolute_magnitude: 1.37

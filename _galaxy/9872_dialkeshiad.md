@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9872 Dialkeshiad is a star in the constellation Dialkes
+      9872 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 329.19 ly
 apparent_magnitude: 12.16
 absolute_magnitude: 7.14

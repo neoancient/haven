@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3165 Arkothiad is a star in the constellation Arkoth
+      3165 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 653.79 ly
 apparent_magnitude: 11.21
 absolute_magnitude: 4.70

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10007 Tanashad A is a star in the constellation Tanas
+      10007 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 253.19 ly
 apparent_magnitude: 9.48
 absolute_magnitude: 5.03

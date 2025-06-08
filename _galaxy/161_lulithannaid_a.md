@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      161 Lulithannaid A is a star in the constellation Lulithan
+      161 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 326.76 ly
 apparent_magnitude: 7.72
 absolute_magnitude: 2.72

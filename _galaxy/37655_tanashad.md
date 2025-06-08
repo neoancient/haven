@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      37655 Tanashad is a star in the constellation Tanas
+      37655 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 497.65 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 4.76

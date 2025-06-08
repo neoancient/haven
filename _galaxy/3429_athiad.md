@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3429 Athiad is a star in the constellation Ath
+      3429 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 386.34 ly
 apparent_magnitude: 10.15
 absolute_magnitude: 4.78

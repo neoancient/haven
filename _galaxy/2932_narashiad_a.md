@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2932 Narashiad A is a star in the constellation Naras
+      2932 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 546.04 ly
 apparent_magnitude: 8.51
 absolute_magnitude: 2.39

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3073 Geardiad is a star in the constellation Geard
+      3073 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 356.05 ly
 apparent_magnitude: 10.78
 absolute_magnitude: 5.58

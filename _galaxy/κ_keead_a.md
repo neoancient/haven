@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      κ Keead A is a star in the constellation Kee
+      κ Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 841.51 ly
 apparent_magnitude: 5.27
 absolute_magnitude: -1.79

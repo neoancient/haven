@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Bairiad is a star in the constellation Bair
+      0002 Bairiad is a star in the constellation <a href="bair.html">Bair</a>
 distance: 265.38 ly
 apparent_magnitude: 5.77
 absolute_magnitude: 1.22
@@ -31,14 +31,14 @@ planets:
     radius: 32,347.8 km<br/>(5.077 Yrths)
     surface_area: 1.315 × 10<sup>10</sup> km<sup>2</sup><br/>(25.780 Yrths)
     volume: 1.418 × 10<sup>14</sup> km<sup>3</sup><br/>(130.892 Yrths)
-    mass: 1.997 × 10<sup>26</sup> kg<br />(33.44768034893308 Yrths)
+    mass: 1.997 × 10<sup>26</sup> kg<br />(33.45 Yrths)
     density: 1.409 g/cm<sup>3</sup>
     surface_gravity: 12.724 m/s<sup>2</sup><br />(1.297 g<sub>0</sub>)
     escape_velocity: 28.710 km/s<br />(103,357 km/h)
     rotation_period: 0.353 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 668 K<br />(395 °C)
+    temperature: 612 K<br />(339 °C)
     composition:
       - 75.2151% hydrogen
       - 23.1800% helium
@@ -59,14 +59,14 @@ planets:
         radius: 24,444.4 km<br/>(3.837 Yrths)
         surface_area: 7.509 × 10<sup>09</sup> km<sup>2</sup><br/>(14.721 Yrths)
         volume: 6.118 × 10<sup>13</sup> km<sup>3</sup><br/>(56.483 Yrths)
-        mass: 1.377 × 10<sup>26</sup> kg<br />(33.44768034893308 Yrths)
+        mass: 1.377 × 10<sup>26</sup> kg<br />(23.057 Yrths)
         density: 2.251 g/cm<sup>3</sup>
         surface_gravity: 15.359 m/s<sup>2</sup><br />(1.566 g<sub>0</sub>)
         escape_velocity: 27.421 km/s<br />(98,717 km/h)
         rotation_period: 46.659 d
         axial_tilt: 34.00°
         albedo: 0.30
-        temperature: 2917 K<br />(2644 °C)
+        temperature: 327 K<br />(54 °C)
       - name: 0002 Bairiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 33,048.8 km<br/>(5.187 Yrths)
         surface_area: 1.373 × 10<sup>10</sup> km<sup>2</sup><br/>(26.909 Yrths)
         volume: 1.512 × 10<sup>14</sup> km<sup>3</sup><br/>(139.586 Yrths)
-        mass: 3.421 × 10<sup>26</sup> kg<br />(33.44768034893308 Yrths)
+        mass: 3.421 × 10<sup>26</sup> kg<br />(57.280 Yrths)
         density: 2.262 g/cm<sup>3</sup>
         surface_gravity: 20.875 m/s<sup>2</sup><br />(2.129 g<sub>0</sub>)
         escape_velocity: 37.171 km/s<br />(133,814 km/h)
         rotation_period: 65.667 d
         axial_tilt: 22.20°
         albedo: 0.30
-        temperature: 2781 K<br />(2508 °C)
+        temperature: 327 K<br />(54 °C)
       - name: 0002 Bairiad I c
         type: Icy
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 43,210.0 km<br/>(6.782 Yrths)
         surface_area: 2.346 × 10<sup>10</sup> km<sup>2</sup><br/>(46.000 Yrths)
         volume: 3.379 × 10<sup>14</sup> km<sup>3</sup><br/>(311.983 Yrths)
-        mass: 3.860 × 10<sup>26</sup> kg<br />(33.44768034893308 Yrths)
+        mass: 3.860 × 10<sup>26</sup> kg<br />(64.631 Yrths)
         density: 1.142 g/cm<sup>3</sup>
         surface_gravity: 13.779 m/s<sup>2</sup><br />(1.405 g<sub>0</sub>)
         escape_velocity: 34.531 km/s<br />(124,311 km/h)
         rotation_period: 66.228 d
         axial_tilt: 21.59°
         albedo: 0.30
-        temperature: 2652 K<br />(2378 °C)
+        temperature: 327 K<br />(54 °C)
       - name: 0002 Bairiad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -119,14 +119,14 @@ planets:
         radius: 17,962.1 km<br/>(2.819 Yrths)
         surface_area: 4.054 × 10<sup>09</sup> km<sup>2</sup><br/>(7.949 Yrths)
         volume: 2.427 × 10<sup>13</sup> km<sup>3</sup><br/>(22.410 Yrths)
-        mass: 5.593 × 10<sup>25</sup> kg<br />(33.44768034893308 Yrths)
+        mass: 5.593 × 10<sup>25</sup> kg<br />(9.365 Yrths)
         density: 2.304 g/cm<sup>3</sup>
         surface_gravity: 11.554 m/s<sup>2</sup><br />(1.178 g<sub>0</sub>)
         escape_velocity: 20.387 km/s<br />(73,392 km/h)
         rotation_period: 41.421 d
         axial_tilt: 13.19°
         albedo: 0.30
-        temperature: 2528 K<br />(2255 °C)
+        temperature: 327 K<br />(54 °C)
       - name: 0002 Bairiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -139,14 +139,14 @@ planets:
         radius: 27,599.3 km<br/>(4.332 Yrths)
         surface_area: 9.572 × 10<sup>09</sup> km<sup>2</sup><br/>(18.766 Yrths)
         volume: 8.806 × 10<sup>13</sup> km<sup>3</sup><br/>(81.297 Yrths)
-        mass: 1.734 × 10<sup>26</sup> kg<br />(33.44768034893308 Yrths)
+        mass: 1.734 × 10<sup>26</sup> kg<br />(29.029 Yrths)
         density: 1.969 g/cm<sup>3</sup>
         surface_gravity: 15.170 m/s<sup>2</sup><br />(1.547 g<sub>0</sub>)
         escape_velocity: 28.956 km/s<br />(104,243 km/h)
         rotation_period: 40.740 d
         axial_tilt: 27.78°
         albedo: 0.30
-        temperature: 2411 K<br />(2137 °C)
+        temperature: 327 K<br />(54 °C)
       - name: 0002 Bairiad I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -159,14 +159,14 @@ planets:
         radius: 21,058.3 km<br/>(3.305 Yrths)
         surface_area: 5.573 × 10<sup>09</sup> km<sup>2</sup><br/>(10.925 Yrths)
         volume: 3.912 × 10<sup>13</sup> km<sup>3</sup><br/>(36.111 Yrths)
-        mass: 1.017 × 10<sup>26</sup> kg<br />(33.44768034893308 Yrths)
+        mass: 1.017 × 10<sup>26</sup> kg<br />(17.036 Yrths)
         density: 2.601 g/cm<sup>3</sup>
         surface_gravity: 15.292 m/s<sup>2</sup><br />(1.559 g<sub>0</sub>)
         escape_velocity: 25.395 km/s<br />(91,422 km/h)
         rotation_period: 39.453 d
         axial_tilt: 21.06°
         albedo: 0.30
-        temperature: 2298 K<br />(2025 °C)
+        temperature: 327 K<br />(54 °C)
       - name: 0002 Bairiad I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -179,14 +179,14 @@ planets:
         radius: 24,077.0 km<br/>(3.779 Yrths)
         surface_area: 7.285 × 10<sup>09</sup> km<sup>2</sup><br/>(14.282 Yrths)
         volume: 5.846 × 10<sup>13</sup> km<sup>3</sup><br/>(53.974 Yrths)
-        mass: 1.342 × 10<sup>26</sup> kg<br />(33.44768034893308 Yrths)
+        mass: 1.342 × 10<sup>26</sup> kg<br />(22.476 Yrths)
         density: 2.296 g/cm<sup>3</sup>
         surface_gravity: 15.433 m/s<sup>2</sup><br />(1.574 g<sub>0</sub>)
         escape_velocity: 27.280 km/s<br />(98,207 km/h)
         rotation_period: 32.989 d
         axial_tilt: 22.51°
         albedo: 0.30
-        temperature: 2191 K<br />(1918 °C)
+        temperature: 327 K<br />(54 °C)
   - name: 0002 Bairiad II
     type: Ice giant
     aphelion: 852,676,407 km<br />5.700 AU
@@ -198,14 +198,14 @@ planets:
     radius: 41,040.2 km<br/>(6.442 Yrths)
     surface_area: 2.117 × 10<sup>10</sup> km<sup>2</sup><br/>(41.496 Yrths)
     volume: 2.895 × 10<sup>14</sup> km<sup>3</sup><br/>(267.304 Yrths)
-    mass: 4.639 × 10<sup>26</sup> kg<br />(77.68134514288957 Yrths)
+    mass: 4.639 × 10<sup>26</sup> kg<br />(77.68 Yrths)
     density: 1.602 g/cm<sup>3</sup>
     surface_gravity: 18.358 m/s<sup>2</sup><br />(1.872 g<sub>0</sub>)
     escape_velocity: 38.845 km/s<br />(139,841 km/h)
     rotation_period: 0.285 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 508 K<br />(235 °C)
+    temperature: 468 K<br />(195 °C)
     composition:
       - 83.9995% hydrogen
       - 11.7558% helium
@@ -226,14 +226,14 @@ planets:
         radius: 100,745.3 km<br/>(15.813 Yrths)
         surface_area: 1.275 × 10<sup>11</sup> km<sup>2</sup><br/>(250.054 Yrths)
         volume: 4.283 × 10<sup>15</sup> km<sup>3</sup><br/>(3954.131 Yrths)
-        mass: 1.000 × 10<sup>28</sup> kg<br />(77.68134514288957 Yrths)
+        mass: 1.000 × 10<sup>28</sup> kg<br />(1675.047 Yrths)
         density: 2.336 g/cm<sup>3</sup>
         surface_gravity: 65.692 m/s<sup>2</sup><br />(6.699 g<sub>0</sub>)
         escape_velocity: 115.127 km/s<br />(414,459 km/h)
         rotation_period: 40.667 d
         axial_tilt: 20.61°
         albedo: 0.30
-        temperature: 1847 K<br />(1573 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 0002 Bairiad II b
         type: Icy
         formationType: Captured
@@ -246,14 +246,14 @@ planets:
         radius: 35,006.9 km<br/>(5.495 Yrths)
         surface_area: 1.540 × 10<sup>10</sup> km<sup>2</sup><br/>(30.192 Yrths)
         volume: 1.797 × 10<sup>14</sup> km<sup>3</sup><br/>(165.896 Yrths)
-        mass: 2.775 × 10<sup>26</sup> kg<br />(77.68134514288957 Yrths)
+        mass: 2.775 × 10<sup>26</sup> kg<br />(46.460 Yrths)
         density: 1.544 g/cm<sup>3</sup>
         surface_gravity: 15.091 m/s<sup>2</sup><br />(1.539 g<sub>0</sub>)
         escape_velocity: 32.527 km/s<br />(117,096 km/h)
         rotation_period: 61.372 d
         axial_tilt: 24.69°
         albedo: 0.30
-        temperature: 1761 K<br />(1488 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 0002 Bairiad II c
         type: Icy
         formationType: Accreted
@@ -266,14 +266,14 @@ planets:
         radius: 81,043.9 km<br/>(12.721 Yrths)
         surface_area: 8.254 × 10<sup>10</sup> km<sup>2</sup><br/>(161.818 Yrths)
         volume: 2.230 × 10<sup>15</sup> km<sup>3</sup><br/>(2058.444 Yrths)
-        mass: 4.164 × 10<sup>27</sup> kg<br />(77.68134514288957 Yrths)
+        mass: 4.164 × 10<sup>27</sup> kg<br />(697.194 Yrths)
         density: 1.867 g/cm<sup>3</sup>
         surface_gravity: 42.252 m/s<sup>2</sup><br />(4.309 g<sub>0</sub>)
         escape_velocity: 82.812 km/s<br />(298,124 km/h)
         rotation_period: 39.685 d
         axial_tilt: 9.99°
         albedo: 0.30
-        temperature: 1679 K<br />(1406 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 0002 Bairiad II d
         type: Icy
         formationType: Captured
@@ -286,14 +286,14 @@ planets:
         radius: 97,165.7 km<br/>(15.251 Yrths)
         surface_area: 1.186 × 10<sup>11</sup> km<sup>2</sup><br/>(232.601 Yrths)
         volume: 3.843 × 10<sup>15</sup> km<sup>3</sup><br/>(3547.453 Yrths)
-        mass: 4.013 × 10<sup>27</sup> kg<br />(77.68134514288957 Yrths)
+        mass: 4.013 × 10<sup>27</sup> kg<br />(672.035 Yrths)
         density: 1.044 g/cm<sup>3</sup>
         surface_gravity: 28.334 m/s<sup>2</sup><br />(2.889 g<sub>0</sub>)
         escape_velocity: 74.254 km/s<br />(267,313 km/h)
         rotation_period: 66.524 d
         axial_tilt: 12.30°
         albedo: 0.30
-        temperature: 1601 K<br />(1327 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 0002 Bairiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -306,14 +306,14 @@ planets:
         radius: 27,795.8 km<br/>(4.363 Yrths)
         surface_area: 9.709 × 10<sup>09</sup> km<sup>2</sup><br/>(19.035 Yrths)
         volume: 8.995 × 10<sup>13</sup> km<sup>3</sup><br/>(83.045 Yrths)
-        mass: 2.198 × 10<sup>26</sup> kg<br />(77.68134514288957 Yrths)
+        mass: 2.198 × 10<sup>26</sup> kg<br />(36.802 Yrths)
         density: 2.443 g/cm<sup>3</sup>
         surface_gravity: 18.960 m/s<sup>2</sup><br />(1.933 g<sub>0</sub>)
         escape_velocity: 32.488 km/s<br />(116,956 km/h)
         rotation_period: 53.234 d
         axial_tilt: 16.21°
         albedo: 0.30
-        temperature: 1455 K<br />(1182 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 0002 Bairiad II f
         type: Dwarf planet
         formationType: Accreted
@@ -326,12 +326,12 @@ planets:
         radius: 64,160.8 km<br/>(10.071 Yrths)
         surface_area: 5.173 × 10<sup>10</sup> km<sup>2</sup><br/>(101.420 Yrths)
         volume: 1.106 × 10<sup>15</sup> km<sup>3</sup><br/>(1021.376 Yrths)
-        mass: 2.615 × 10<sup>27</sup> kg<br />(77.68134514288957 Yrths)
+        mass: 2.615 × 10<sup>27</sup> kg<br />(437.859 Yrths)
         density: 2.364 g/cm<sup>3</sup>
         surface_gravity: 42.338 m/s<sup>2</sup><br />(4.317 g<sub>0</sub>)
         escape_velocity: 73.758 km/s<br />(265,530 km/h)
         rotation_period: 56.156 d
         axial_tilt: 37.86°
         albedo: 0.30
-        temperature: 1387 K<br />(1114 °C)
+        temperature: 238 K<br />(-35 °C)
 ---

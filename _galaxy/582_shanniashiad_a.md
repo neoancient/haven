@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      582 Shanniashiad A is a star in the constellation Shannias
+      582 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1208.02 ly
 apparent_magnitude: 6.71
 absolute_magnitude: -1.13

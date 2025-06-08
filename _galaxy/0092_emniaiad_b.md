@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0092 Emniaiad B is a star in the constellation Emnia
+      0092 Emniaiad B is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 138.07 ly
 apparent_magnitude: 7.43
 absolute_magnitude: 4.29

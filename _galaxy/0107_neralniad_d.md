@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0107 Neralniad D is a star in the constellation Neraln
+      0107 Neralniad D is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 245.59 ly
 apparent_magnitude: 13.31
 absolute_magnitude: 8.93

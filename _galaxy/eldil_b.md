@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Eldil B is a star in the constellation Neraln
+      Eldil B is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 479.34 ly
 apparent_magnitude: 4.33
 absolute_magnitude: -1.51

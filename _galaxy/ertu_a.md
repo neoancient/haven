@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ertu A is a star in the constellation Rayom
+      Ertu A is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 3821.69 ly
 apparent_magnitude: 1.32
 absolute_magnitude: -9.03

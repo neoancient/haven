@@ -48,7 +48,7 @@ stars:
     distance: 28.92
     spectral_class: G3III + DC
   - name:
-    designation: ζ Lasraiad
+    designation: <a href="ζ_lasraiad.html">ζ Lasraiad</a>
     ra: 2<sup>h</sup> 06<sup>m</sup> 14.32<sup>s</sup>
     dec: 51° 08' 7.90"
     apparent_magnitude: 3.59
@@ -96,7 +96,7 @@ stars:
     distance: 559.24
     spectral_class: A1III
   - name:
-    designation: κ Lasraiad
+    designation: <a href="κ_lasraiad.html">κ Lasraiad</a>
     ra: 0<sup>h</sup> 03<sup>m</sup> 55.54<sup>s</sup>
     dec: 50° 38' 36.06"
     apparent_magnitude: 4.89
@@ -288,7 +288,7 @@ stars:
     distance: 42.18
     spectral_class: G1V + K6V
   - name:
-    designation: 0028 Lasraiad
+    designation: <a href="0028_lasraiad.html">0028 Lasraiad</a>
     ra: 2<sup>h</sup> 46<sup>m</sup> 21.61<sup>s</sup>
     dec: 56° 06' 55.76"
     apparent_magnitude: 5.72
@@ -312,7 +312,7 @@ stars:
     distance: 506.18
     spectral_class: A8II
   - name:
-    designation: 0082 Lasraiad
+    designation: <a href="0082_lasraiad.html">0082 Lasraiad</a>
     ra: 1<sup>h</sup> 25<sup>m</sup> 56.19<sup>s</sup>
     dec: 81° 47' 16.35"
     apparent_magnitude: 5.81
@@ -328,7 +328,7 @@ stars:
     distance: 187.92
     spectral_class: A9III
   - name:
-    designation: 0013 Lasraiad
+    designation: <a href="0013_lasraiad.html">0013 Lasraiad</a>
     ra: 1<sup>h</sup> 38<sup>m</sup> 13.90<sup>s</sup>
     dec: 50° 39' 52.45"
     apparent_magnitude: 5.85
@@ -352,7 +352,7 @@ stars:
     distance: 308.22
     spectral_class: A6IV
   - name:
-    designation: 0045 Lasraiad
+    designation: <a href="0045_lasraiad.html">0045 Lasraiad</a>
     ra: 1<sup>h</sup> 18<sup>m</sup> 47.53<sup>s</sup>
     dec: 60° 40' 50.78"
     apparent_magnitude: 5.91
@@ -384,7 +384,7 @@ stars:
     distance: 525.56
     spectral_class: A7III + F7V
   - name:
-    designation: 0079 Lasraiad
+    designation: <a href="0079_lasraiad.html">0079 Lasraiad</a>
     ra: 0<sup>h</sup> 37<sup>m</sup> 25.22<sup>s</sup>
     dec: 86° 02' 8.34"
     apparent_magnitude: 5.95
@@ -392,7 +392,7 @@ stars:
     distance: 1,220.27
     spectral_class: A0III + K6III + Black Hole + K6III
   - name:
-    designation: 0034 Lasraiad
+    designation: <a href="0034_lasraiad.html">0034 Lasraiad</a>
     ra: 2<sup>h</sup> 06<sup>m</sup> 32.52<sup>s</sup>
     dec: 58° 51' 55.85"
     apparent_magnitude: 5.96
@@ -520,7 +520,7 @@ stars:
     distance: 87.26
     spectral_class: A9V + M4III
   - name:
-    designation: 0037 Lasraiad
+    designation: <a href="0037_lasraiad.html">0037 Lasraiad</a>
     ra: 0<sup>h</sup> 06<sup>m</sup> 24.44<sup>s</sup>
     dec: 61° 56' 37.93"
     apparent_magnitude: 6.10
@@ -528,7 +528,7 @@ stars:
     distance: 56.76
     spectral_class: F4V
   - name:
-    designation: 0024 Lasraiad
+    designation: <a href="0024_lasraiad.html">0024 Lasraiad</a>
     ra: 0<sup>h</sup> 24<sup>m</sup> 49.24<sup>s</sup>
     dec: 59° 34' 56.37"
     apparent_magnitude: 6.11
@@ -568,7 +568,7 @@ stars:
     distance: 1,608.53
     spectral_class: A9II + K4III + B7V + M2III
   - name:
-    designation: 0039 Lasraiad
+    designation: <a href="0039_lasraiad.html">0039 Lasraiad</a>
     ra: 1<sup>h</sup> 06<sup>m</sup> 1.77<sup>s</sup>
     dec: 63° 43' 19.65"
     apparent_magnitude: 6.15
@@ -576,7 +576,7 @@ stars:
     distance: 44.36
     spectral_class: G8V
   - name:
-    designation: 0010 Lasraiad
+    designation: <a href="0010_lasraiad.html">0010 Lasraiad</a>
     ra: 0<sup>h</sup> 36<sup>m</sup> 46.59<sup>s</sup>
     dec: 50° 41' 59.30"
     apparent_magnitude: 6.16
@@ -592,7 +592,7 @@ stars:
     distance: 24.06
     spectral_class: K4V
   - name:
-    designation: 0073 Lasraiad
+    designation: <a href="0073_lasraiad.html">0073 Lasraiad</a>
     ra: 1<sup>h</sup> 45<sup>m</sup> 41.61<sup>s</sup>
     dec: 74° 44' 40.58"
     apparent_magnitude: 6.18
@@ -608,7 +608,7 @@ stars:
     distance: 856.83
     spectral_class: A3III
   - name:
-    designation: 0074 Lasraiad
+    designation: <a href="0074_lasraiad.html">0074 Lasraiad</a>
     ra: 1<sup>h</sup> 27<sup>m</sup> 30.26<sup>s</sup>
     dec: 74° 14' 27.16"
     apparent_magnitude: 6.22
@@ -624,7 +624,7 @@ stars:
     distance: 189.37
     spectral_class: A2V
   - name:
-    designation: 0017 Lasraiad
+    designation: <a href="0017_lasraiad.html">0017 Lasraiad</a>
     ra: 1<sup>h</sup> 45<sup>m</sup> 13.15<sup>s</sup>
     dec: 56° 07' 7.26"
     apparent_magnitude: 6.25
@@ -640,7 +640,7 @@ stars:
     distance: 137.83
     spectral_class: A6V
   - name:
-    designation: 0083 Lasraiad
+    designation: <a href="0083_lasraiad.html">0083 Lasraiad</a>
     ra: 1<sup>h</sup> 23<sup>m</sup> 38.27<sup>s</sup>
     dec: 82° 22' 4.36"
     apparent_magnitude: 6.28
@@ -792,7 +792,7 @@ stars:
     distance: 294.02
     spectral_class: F6III
   - name:
-    designation: 0009 Lasraiad
+    designation: <a href="0009_lasraiad.html">0009 Lasraiad</a>
     ra: 0<sup>h</sup> 37<sup>m</sup> 12.25<sup>s</sup>
     dec: 51° 00' 53.25"
     apparent_magnitude: 6.45
@@ -800,7 +800,7 @@ stars:
     distance: 23.32
     spectral_class: K6V
   - name:
-    designation: 0058 Lasraiad
+    designation: <a href="0058_lasraiad.html">0058 Lasraiad</a>
     ra: 0<sup>h</sup> 37<sup>m</sup> 31.01<sup>s</sup>
     dec: 67° 38' 14.21"
     apparent_magnitude: 6.45

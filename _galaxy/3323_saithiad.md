@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3323 Saithiad is a star in the constellation Saith
+      3323 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1006.98 ly
 apparent_magnitude: 12.66
 absolute_magnitude: 5.21

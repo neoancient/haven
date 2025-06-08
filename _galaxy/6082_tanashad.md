@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6082 Tanashad is a star in the constellation Tanas
+      6082 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 278.85 ly
 apparent_magnitude: 10.58
 absolute_magnitude: 5.92

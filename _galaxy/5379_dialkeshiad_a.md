@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5379 Dialkeshiad A is a star in the constellation Dialkes
+      5379 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 483.75 ly
 apparent_magnitude: 7.97
 absolute_magnitude: 2.11

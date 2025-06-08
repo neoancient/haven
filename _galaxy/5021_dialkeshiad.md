@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5021 Dialkeshiad is a star in the constellation Dialkes
+      5021 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 197.07 ly
 apparent_magnitude: 9.31
 absolute_magnitude: 5.40

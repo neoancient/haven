@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3137 Narashiad is a star in the constellation Naras
+      3137 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 610.90 ly
 apparent_magnitude: 11.87
 absolute_magnitude: 5.51

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0055 Mioruaniad B is a star in the constellation Mioruane
+      0055 Mioruaniad B is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 450.19 ly
 apparent_magnitude: 8.22
 absolute_magnitude: 2.52

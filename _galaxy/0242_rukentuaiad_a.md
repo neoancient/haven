@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0242 Rukentuaiad A is a star in the constellation Rukentua
+      0242 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 245.78 ly
 apparent_magnitude: 6.14
 absolute_magnitude: 1.75

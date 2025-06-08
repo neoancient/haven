@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9698 Arkothiad A is a star in the constellation Arkoth
+      9698 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 382.32 ly
 apparent_magnitude: 10.72
 absolute_magnitude: 5.38

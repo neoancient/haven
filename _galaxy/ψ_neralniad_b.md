@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Neralniad B is a star in the constellation Neraln
+      ψ Neralniad B is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 135.28 ly
 apparent_magnitude: 7.71
 absolute_magnitude: 4.62

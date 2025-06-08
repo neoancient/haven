@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1366 Saithiad A is a star in the constellation Saith
+      1366 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 2093.17 ly
 apparent_magnitude: 6.61
 absolute_magnitude: -2.43

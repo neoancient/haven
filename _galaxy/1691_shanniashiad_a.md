@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1691 Shanniashiad A is a star in the constellation Shannias
+      1691 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 545.07 ly
 apparent_magnitude: 7.96
 absolute_magnitude: 1.84

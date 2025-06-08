@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1033 Keead is a star in the constellation Kee
+      1033 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 183.92 ly
 apparent_magnitude: 10.06
 absolute_magnitude: 6.30

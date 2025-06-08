@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1491 Reggiad A is a star in the constellation Reg
+      1491 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 312.18 ly
 apparent_magnitude: 11.60
 absolute_magnitude: 6.69

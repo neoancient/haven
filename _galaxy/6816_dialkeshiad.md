@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6816 Dialkeshiad is a star in the constellation Dialkes
+      6816 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 434.91 ly
 apparent_magnitude: 11.99
 absolute_magnitude: 6.37

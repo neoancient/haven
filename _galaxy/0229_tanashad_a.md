@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0229 Tanashad A is a star in the constellation Tanas
+      0229 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 680.44 ly
 apparent_magnitude: 6.18
 absolute_magnitude: -0.41

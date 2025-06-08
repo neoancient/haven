@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13916 Arkothiad is a star in the constellation Arkoth
+      13916 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 808.09 ly
 apparent_magnitude: 11.67
 absolute_magnitude: 4.70

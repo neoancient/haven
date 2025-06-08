@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0069 Mioruaniad A is a star in the constellation Mioruane
+      0069 Mioruaniad A is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 243.86 ly
 apparent_magnitude: 6.51
 absolute_magnitude: 2.14

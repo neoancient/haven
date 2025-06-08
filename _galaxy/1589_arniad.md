@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1589 Arniad is a star in the constellation Arni
+      1589 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 256.50 ly
 apparent_magnitude: 7.90
 absolute_magnitude: 3.42
@@ -31,14 +31,14 @@ planets:
     radius: 7,588.2 km<br/>(1.191 Yrths)
     surface_area: 7.236 × 10<sup>08</sup> km<sup>2</sup><br/>(1.419 Yrths)
     volume: 1.830 × 10<sup>12</sup> km<sup>3</sup><br/>(1.690 Yrths)
-    mass: 1.027 × 10<sup>25</sup> kg<br />(1.719552352963865 Yrths)
+    mass: 1.027 × 10<sup>25</sup> kg<br />(1.72 Yrths)
     density: 5.611 g/cm<sup>3</sup>
     surface_gravity: 11.887 m/s<sup>2</sup><br />(1.212 g<sub>0</sub>)
     escape_velocity: 13.441 km/s<br />(48,386 km/h)
     rotation_period: 0.804 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 487 K<br />(214 °C)
+    temperature: 464 K<br />(191 °C)
     surface_pressure: 1,114 kPa<br />(11 atm)
     composition:
       - 65.8220% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 5,935.5 km<br/>(0.932 Yrths)
         surface_area: 4.427 × 10<sup>08</sup> km<sup>2</sup><br/>(0.868 Yrths)
         volume: 8.759 × 10<sup>11</sup> km<sup>3</sup><br/>(0.809 Yrths)
-        mass: 1.087 × 10<sup>24</sup> kg<br />(1.719552352963865 Yrths)
+        mass: 1.087 × 10<sup>24</sup> kg<br />(0.182 Yrths)
         density: 1.241 g/cm<sup>3</sup>
         surface_gravity: 2.056 m/s<sup>2</sup><br />(0.210 g<sub>0</sub>)
         escape_velocity: 4.944 km/s<br />(17,798 km/h)
         rotation_period: 57.711 d
         axial_tilt: 15.81°
         albedo: 0.30
-        temperature: 4843 K<br />(4570 °C)
+        temperature: 348 K<br />(75 °C)
   - name: 1589 Arniad II
     type: Ice giant
     aphelion: 280,289,482 km<br />1.874 AU
@@ -76,14 +76,14 @@ planets:
     radius: 15,122.8 km<br/>(2.374 Yrths)
     surface_area: 2.874 × 10<sup>09</sup> km<sup>2</sup><br/>(5.634 Yrths)
     volume: 1.449 × 10<sup>13</sup> km<sup>3</sup><br/>(13.374 Yrths)
-    mass: 2.383 × 10<sup>25</sup> kg<br />(3.9895111063700104 Yrths)
+    mass: 2.383 × 10<sup>25</sup> kg<br />(3.99 Yrths)
     density: 1.645 g/cm<sup>3</sup>
     surface_gravity: 6.944 m/s<sup>2</sup><br />(0.708 g<sub>0</sub>)
     escape_velocity: 14.502 km/s<br />(52,206 km/h)
     rotation_period: 0.446 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 513 K<br />(240 °C)
+    temperature: 467 K<br />(194 °C)
     composition:
       - 94.8856% hydrogen
       - 4.6848% helium
@@ -102,14 +102,14 @@ planets:
         radius: 10,371.8 km<br/>(1.628 Yrths)
         surface_area: 1.352 × 10<sup>09</sup> km<sup>2</sup><br/>(2.650 Yrths)
         volume: 4.674 × 10<sup>12</sup> km<sup>3</sup><br/>(4.315 Yrths)
-        mass: 9.710 × 10<sup>24</sup> kg<br />(3.9895111063700104 Yrths)
+        mass: 9.710 × 10<sup>24</sup> kg<br />(1.626 Yrths)
         density: 2.078 g/cm<sup>3</sup>
         surface_gravity: 6.016 m/s<sup>2</sup><br />(0.614 g<sub>0</sub>)
         escape_velocity: 11.179 km/s<br />(40,245 km/h)
         rotation_period: 39.698 d
         axial_tilt: 7.33°
         albedo: 0.30
-        temperature: 3123 K<br />(2850 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 1589 Arniad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -122,14 +122,14 @@ planets:
         radius: 7,579.4 km<br/>(1.190 Yrths)
         surface_area: 7.219 × 10<sup>08</sup> km<sup>2</sup><br/>(1.415 Yrths)
         volume: 1.824 × 10<sup>12</sup> km<sup>3</sup><br/>(1.684 Yrths)
-        mass: 3.698 × 10<sup>24</sup> kg<br />(3.9895111063700104 Yrths)
+        mass: 3.698 × 10<sup>24</sup> kg<br />(0.619 Yrths)
         density: 2.028 g/cm<sup>3</sup>
         surface_gravity: 4.291 m/s<sup>2</sup><br />(0.438 g<sub>0</sub>)
         escape_velocity: 8.070 km/s<br />(29,053 km/h)
         rotation_period: 63.072 d
         axial_tilt: 31.49°
         albedo: 0.30
-        temperature: 2839 K<br />(2566 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 1589 Arniad II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -142,14 +142,14 @@ planets:
         radius: 5,706.9 km<br/>(0.896 Yrths)
         surface_area: 4.093 × 10<sup>08</sup> km<sup>2</sup><br/>(0.802 Yrths)
         volume: 7.785 × 10<sup>11</sup> km<sup>3</sup><br/>(0.719 Yrths)
-        mass: 1.473 × 10<sup>24</sup> kg<br />(3.9895111063700104 Yrths)
+        mass: 1.473 × 10<sup>24</sup> kg<br />(0.247 Yrths)
         density: 1.892 g/cm<sup>3</sup>
         surface_gravity: 3.015 m/s<sup>2</sup><br />(0.307 g<sub>0</sub>)
         escape_velocity: 5.870 km/s<br />(21,132 km/h)
         rotation_period: 50.892 d
         axial_tilt: 28.73°
         albedo: 0.30
-        temperature: 2707 K<br />(2434 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 1589 Arniad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -162,14 +162,14 @@ planets:
         radius: 5,870.9 km<br/>(0.922 Yrths)
         surface_area: 4.331 × 10<sup>08</sup> km<sup>2</sup><br/>(0.849 Yrths)
         volume: 8.476 × 10<sup>11</sup> km<sup>3</sup><br/>(0.783 Yrths)
-        mass: 1.780 × 10<sup>24</sup> kg<br />(3.9895111063700104 Yrths)
+        mass: 1.780 × 10<sup>24</sup> kg<br />(0.298 Yrths)
         density: 2.100 g/cm<sup>3</sup>
         surface_gravity: 3.443 m/s<sup>2</sup><br />(0.351 g<sub>0</sub>)
         escape_velocity: 6.362 km/s<br />(22,904 km/h)
         rotation_period: 50.560 d
         axial_tilt: 9.37°
         albedo: 0.30
-        temperature: 2581 K<br />(2308 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 1589 Arniad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -182,14 +182,14 @@ planets:
         radius: 4,009.1 km<br/>(0.629 Yrths)
         surface_area: 2.020 × 10<sup>08</sup> km<sup>2</sup><br/>(0.396 Yrths)
         volume: 2.699 × 10<sup>11</sup> km<sup>3</sup><br/>(0.249 Yrths)
-        mass: 5.419 × 10<sup>23</sup> kg<br />(3.9895111063700104 Yrths)
+        mass: 5.419 × 10<sup>23</sup> kg<br />(0.091 Yrths)
         density: 2.008 g/cm<sup>3</sup>
         surface_gravity: 2.247 m/s<sup>2</sup><br />(0.229 g<sub>0</sub>)
         escape_velocity: 4.248 km/s<br />(15,291 km/h)
         rotation_period: 41.453 d
         axial_tilt: 20.33°
         albedo: 0.30
-        temperature: 2461 K<br />(2188 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 1589 Arniad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -202,14 +202,14 @@ planets:
         radius: 3,681.2 km<br/>(0.578 Yrths)
         surface_area: 1.703 × 10<sup>08</sup> km<sup>2</sup><br/>(0.334 Yrths)
         volume: 2.090 × 10<sup>11</sup> km<sup>3</sup><br/>(0.193 Yrths)
-        mass: 5.341 × 10<sup>23</sup> kg<br />(3.9895111063700104 Yrths)
+        mass: 5.341 × 10<sup>23</sup> kg<br />(0.089 Yrths)
         density: 2.556 g/cm<sup>3</sup>
         surface_gravity: 2.627 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
         escape_velocity: 4.401 km/s<br />(15,842 km/h)
         rotation_period: 35.066 d
         axial_tilt: 27.57°
         albedo: 0.30
-        temperature: 2347 K<br />(2074 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 1589 Arniad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -222,14 +222,14 @@ planets:
         radius: 3,842.1 km<br/>(0.603 Yrths)
         surface_area: 1.855 × 10<sup>08</sup> km<sup>2</sup><br/>(0.364 Yrths)
         volume: 2.376 × 10<sup>11</sup> km<sup>3</sup><br/>(0.219 Yrths)
-        mass: 5.060 × 10<sup>23</sup> kg<br />(3.9895111063700104 Yrths)
+        mass: 5.060 × 10<sup>23</sup> kg<br />(0.085 Yrths)
         density: 2.130 g/cm<sup>3</sup>
         surface_gravity: 2.284 m/s<sup>2</sup><br />(0.233 g<sub>0</sub>)
         escape_velocity: 4.193 km/s<br />(15,093 km/h)
         rotation_period: 47.569 d
         axial_tilt: 20.08°
         albedo: 0.30
-        temperature: 2237 K<br />(1964 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 1589 Arniad II h
         type: Icy
         formationType: Impact formed
@@ -242,14 +242,14 @@ planets:
         radius: 4,714.9 km<br/>(0.740 Yrths)
         surface_area: 2.794 × 10<sup>08</sup> km<sup>2</sup><br/>(0.548 Yrths)
         volume: 4.390 × 10<sup>11</sup> km<sup>3</sup><br/>(0.405 Yrths)
-        mass: 6.124 × 10<sup>23</sup> kg<br />(3.9895111063700104 Yrths)
+        mass: 6.124 × 10<sup>23</sup> kg<br />(0.103 Yrths)
         density: 1.395 g/cm<sup>3</sup>
         surface_gravity: 1.836 m/s<sup>2</sup><br />(0.187 g<sub>0</sub>)
         escape_velocity: 4.164 km/s<br />(14,991 km/h)
         rotation_period: 45.091 d
         axial_tilt: 14.08°
         albedo: 0.30
-        temperature: 2133 K<br />(1860 °C)
+        temperature: 261 K<br />(-12 °C)
   - name: 1589 Arniad III
     type: Gas dwarf
     aphelion: 481,486,390 km<br />3.218 AU
@@ -261,14 +261,14 @@ planets:
     radius: 13,667.3 km<br/>(2.145 Yrths)
     surface_area: 2.347 × 10<sup>09</sup> km<sup>2</sup><br/>(4.602 Yrths)
     volume: 1.069 × 10<sup>13</sup> km<sup>3</sup><br/>(9.872 Yrths)
-    mass: 2.600 × 10<sup>25</sup> kg<br />(4.354389816660012 Yrths)
+    mass: 2.600 × 10<sup>25</sup> kg<br />(4.35 Yrths)
     density: 2.432 g/cm<sup>3</sup>
     surface_gravity: 9.279 m/s<sup>2</sup><br />(0.946 g<sub>0</sub>)
     escape_velocity: 15.937 km/s<br />(57,372 km/h)
     rotation_period: 0.479 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 313 K<br />(40 °C)
+    temperature: 280 K<br />(6 °C)
     composition:
       - 74.3472% hydrogen
       - 23.2428% helium
@@ -287,14 +287,14 @@ planets:
         radius: 12,288.1 km<br/>(1.929 Yrths)
         surface_area: 1.897 × 10<sup>09</sup> km<sup>2</sup><br/>(3.720 Yrths)
         volume: 7.772 × 10<sup>12</sup> km<sup>3</sup><br/>(7.175 Yrths)
-        mass: 9.049 × 10<sup>24</sup> kg<br />(4.354389816660012 Yrths)
+        mass: 9.049 × 10<sup>24</sup> kg<br />(1.515 Yrths)
         density: 1.164 g/cm<sup>3</sup>
         surface_gravity: 3.995 m/s<sup>2</sup><br />(0.407 g<sub>0</sub>)
         escape_velocity: 9.915 km/s<br />(35,693 km/h)
         rotation_period: 60.977 d
         axial_tilt: 16.56°
         albedo: 0.30
-        temperature: 2311 K<br />(2038 °C)
+        temperature: 196 K<br />(-77 °C)
       - name: 1589 Arniad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -307,14 +307,14 @@ planets:
         radius: 5,730.4 km<br/>(0.899 Yrths)
         surface_area: 4.126 × 10<sup>08</sup> km<sup>2</sup><br/>(0.809 Yrths)
         volume: 7.882 × 10<sup>11</sup> km<sup>3</sup><br/>(0.728 Yrths)
-        mass: 1.783 × 10<sup>24</sup> kg<br />(4.354389816660012 Yrths)
+        mass: 1.783 × 10<sup>24</sup> kg<br />(0.299 Yrths)
         density: 2.263 g/cm<sup>3</sup>
         surface_gravity: 3.620 m/s<sup>2</sup><br />(0.369 g<sub>0</sub>)
         escape_velocity: 6.445 km/s<br />(23,204 km/h)
         rotation_period: 35.838 d
         axial_tilt: 23.57°
         albedo: 0.30
-        temperature: 2203 K<br />(1930 °C)
+        temperature: 196 K<br />(-77 °C)
       - name: 1589 Arniad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -327,12 +327,12 @@ planets:
         radius: 11,462.2 km<br/>(1.799 Yrths)
         surface_area: 1.651 × 10<sup>09</sup> km<sup>2</sup><br/>(3.237 Yrths)
         volume: 6.308 × 10<sup>12</sup> km<sup>3</sup><br/>(5.824 Yrths)
-        mass: 1.090 × 10<sup>25</sup> kg<br />(4.354389816660012 Yrths)
+        mass: 1.090 × 10<sup>25</sup> kg<br />(1.825 Yrths)
         density: 1.728 g/cm<sup>3</sup>
         surface_gravity: 5.528 m/s<sup>2</sup><br />(0.564 g<sub>0</sub>)
         escape_velocity: 11.265 km/s<br />(40,555 km/h)
         rotation_period: 46.016 d
         axial_tilt: 27.75°
         albedo: 0.30
-        temperature: 2101 K<br />(1827 °C)
+        temperature: 196 K<br />(-77 °C)
 ---

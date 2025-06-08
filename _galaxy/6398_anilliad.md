@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6398 Anilliad is a star in the constellation Anil
+      6398 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 239.37 ly
 apparent_magnitude: 9.08
 absolute_magnitude: 4.75

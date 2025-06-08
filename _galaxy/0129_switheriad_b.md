@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0129 Switheriad B is a star in the constellation Swither
+      0129 Switheriad B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 3513.59 ly
 apparent_magnitude: 6.84
 absolute_magnitude: -3.32

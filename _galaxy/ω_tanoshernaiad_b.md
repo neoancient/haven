@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ω Tanoshernaiad B is a star in the constellation Tanosherna
+      ω Tanoshernaiad B is a star in the constellation <a href="tanosherna.html">Tanosherna</a>
 distance: 172.05 ly
 apparent_magnitude: 14.26
 absolute_magnitude: 10.65

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      948 Reggiad is a star in the constellation Reg
+      948 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 310.15 ly
 apparent_magnitude: 12.02
 absolute_magnitude: 7.13

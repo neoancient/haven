@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      535 Erikkiad A is a star in the constellation Erik
+      535 Erikkiad A is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1636.76 ly
 apparent_magnitude: 6.74
 absolute_magnitude: -1.77

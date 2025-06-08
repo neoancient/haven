@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1112 Oniad is a star in the constellation Oni
+      1112 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 577.88 ly
 apparent_magnitude: 11.15
 absolute_magnitude: 4.91

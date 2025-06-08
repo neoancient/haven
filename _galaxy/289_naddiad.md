@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      289 Naddiad is a star in the constellation Naddi
+      289 Naddiad is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 387.61 ly
 apparent_magnitude: 11.37
 absolute_magnitude: 6.00

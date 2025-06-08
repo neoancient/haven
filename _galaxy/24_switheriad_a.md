@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      24 Switheriad A is a star in the constellation Swither
+      24 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 143.41 ly
 apparent_magnitude: 9.51
 absolute_magnitude: 6.29

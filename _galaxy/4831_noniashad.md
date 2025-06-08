@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4831 Noniashad is a star in the constellation Nonias
+      4831 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 376.53 ly
 apparent_magnitude: 10.23
 absolute_magnitude: 4.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4570 Geardiad is a star in the constellation Geard
+      4570 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 566.98 ly
 apparent_magnitude: 14.21
 absolute_magnitude: 8.01

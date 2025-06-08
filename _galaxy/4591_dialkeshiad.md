@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4591 Dialkeshiad is a star in the constellation Dialkes
+      4591 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 292.96 ly
 apparent_magnitude: 16.82
 absolute_magnitude: 12.05

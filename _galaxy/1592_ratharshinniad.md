@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1592 Ratharshinniad is a star in the constellation Ratharshin
+      1592 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 634.24 ly
 apparent_magnitude: 10.26
 absolute_magnitude: 3.81

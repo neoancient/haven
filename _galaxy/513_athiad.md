@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      513 Athiad is a star in the constellation Ath
+      513 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 491.74 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 4.74

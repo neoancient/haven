@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0016 Niunioiad A is a star in the constellation Niunio
+      0016 Niunioiad A is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 394.74 ly
 apparent_magnitude: 5.30
 absolute_magnitude: -0.12

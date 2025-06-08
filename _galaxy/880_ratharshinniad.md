@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      880 Ratharshinniad is a star in the constellation Ratharshin
+      880 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 250.21 ly
 apparent_magnitude: 9.32
 absolute_magnitude: 4.89

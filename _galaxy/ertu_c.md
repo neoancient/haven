@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ertu C is a star in the constellation Rayom
+      Ertu C is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 3821.69 ly
 apparent_magnitude: 4.29
 absolute_magnitude: -6.05

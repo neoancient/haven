@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11950 Dialkeshiad is a star in the constellation Dialkes
+      11950 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 585.46 ly
 apparent_magnitude: 8.40
 absolute_magnitude: 2.13

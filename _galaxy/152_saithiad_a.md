@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      152 Saithiad A is a star in the constellation Saith
+      152 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 202.07 ly
 apparent_magnitude: 7.55
 absolute_magnitude: 3.59

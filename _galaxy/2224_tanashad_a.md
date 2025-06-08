@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2224 Tanashad A is a star in the constellation Tanas
+      2224 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 388.74 ly
 apparent_magnitude: 7.31
 absolute_magnitude: 1.93

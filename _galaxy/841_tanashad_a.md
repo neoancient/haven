@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      841 Tanashad A is a star in the constellation Tanas
+      841 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 321.50 ly
 apparent_magnitude: 7.00
 absolute_magnitude: 2.03

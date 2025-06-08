@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Tenioshiad is a star in the constellation Tenios
+      0024 Tenioshiad is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 696.57 ly
 apparent_magnitude: 6.20
 absolute_magnitude: -0.45
@@ -31,14 +31,14 @@ planets:
     radius: 32,635.2 km<br/>(5.122 Yrths)
     surface_area: 1.338 × 10<sup>10</sup> km<sup>2</sup><br/>(26.240 Yrths)
     volume: 1.456 × 10<sup>14</sup> km<sup>3</sup><br/>(134.412 Yrths)
-    mass: 2.638 × 10<sup>26</sup> kg<br />(44.17527279472522 Yrths)
+    mass: 2.638 × 10<sup>26</sup> kg<br />(44.18 Yrths)
     density: 1.812 g/cm<sup>3</sup>
     surface_gravity: 16.510 m/s<sup>2</sup><br />(1.684 g<sub>0</sub>)
     escape_velocity: 32.849 km/s<br />(118,257 km/h)
     rotation_period: 0.313 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 825 K<br />(551 °C)
+    temperature: 765 K<br />(492 °C)
     composition:
       - 75.2136% hydrogen
       - 20.1294% helium
@@ -58,14 +58,14 @@ planets:
         radius: 46,125.2 km<br/>(7.240 Yrths)
         surface_area: 2.674 × 10<sup>10</sup> km<sup>2</sup><br/>(52.416 Yrths)
         volume: 4.111 × 10<sup>14</sup> km<sup>3</sup><br/>(379.483 Yrths)
-        mass: 6.625 × 10<sup>26</sup> kg<br />(44.17527279472522 Yrths)
+        mass: 6.625 × 10<sup>26</sup> kg<br />(110.938 Yrths)
         density: 1.612 g/cm<sup>3</sup>
         surface_gravity: 20.756 m/s<sup>2</sup><br />(2.116 g<sub>0</sub>)
         escape_velocity: 43.787 km/s<br />(157,634 km/h)
         rotation_period: 42.321 d
         axial_tilt: 27.82°
         albedo: 0.30
-        temperature: 3493 K<br />(3220 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 0024 Tenioshiad I b
         type: Icy
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 23,801.0 km<br/>(3.736 Yrths)
         surface_area: 7.119 × 10<sup>09</sup> km<sup>2</sup><br/>(13.956 Yrths)
         volume: 5.648 × 10<sup>13</sup> km<sup>3</sup><br/>(52.139 Yrths)
-        mass: 6.380 × 10<sup>25</sup> kg<br />(44.17527279472522 Yrths)
+        mass: 6.380 × 10<sup>25</sup> kg<br />(10.683 Yrths)
         density: 1.130 g/cm<sup>3</sup>
         surface_gravity: 7.507 m/s<sup>2</sup><br />(0.765 g<sub>0</sub>)
         escape_velocity: 18.916 km/s<br />(68,098 km/h)
         rotation_period: 48.818 d
         axial_tilt: 22.96°
         albedo: 0.30
-        temperature: 3331 K<br />(3058 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 0024 Tenioshiad I c
         type: Icy
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 36,769.2 km<br/>(5.771 Yrths)
         surface_area: 1.699 × 10<sup>10</sup> km<sup>2</sup><br/>(33.308 Yrths)
         volume: 2.082 × 10<sup>14</sup> km<sup>3</sup><br/>(192.234 Yrths)
-        mass: 1.458 × 10<sup>26</sup> kg<br />(44.17527279472522 Yrths)
+        mass: 1.458 × 10<sup>26</sup> kg<br />(24.407 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 7.186 m/s<sup>2</sup><br />(0.733 g<sub>0</sub>)
         escape_velocity: 23.004 km/s<br />(82,813 km/h)
         rotation_period: 85.080 d
         axial_tilt: 19.11°
         albedo: 0.30
-        temperature: 3176 K<br />(2903 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 0024 Tenioshiad I d
         type: Icy
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 69,856.7 km<br/>(10.965 Yrths)
         surface_area: 6.132 × 10<sup>10</sup> km<sup>2</sup><br/>(120.227 Yrths)
         volume: 1.428 × 10<sup>15</sup> km<sup>3</sup><br/>(1318.260 Yrths)
-        mass: 1.574 × 10<sup>27</sup> kg<br />(44.17527279472522 Yrths)
+        mass: 1.574 × 10<sup>27</sup> kg<br />(263.547 Yrths)
         density: 1.102 g/cm<sup>3</sup>
         surface_gravity: 21.497 m/s<sup>2</sup><br />(2.192 g<sub>0</sub>)
         escape_velocity: 54.841 km/s<br />(197,427 km/h)
         rotation_period: 73.553 d
         axial_tilt: 21.44°
         albedo: 0.30
-        temperature: 3028 K<br />(2755 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 0024 Tenioshiad I e
         type: Icy
         formationType: Captured
@@ -138,14 +138,14 @@ planets:
         radius: 47,781.0 km<br/>(7.500 Yrths)
         surface_area: 2.869 × 10<sup>10</sup> km<sup>2</sup><br/>(56.246 Yrths)
         volume: 4.569 × 10<sup>14</sup> km<sup>3</sup><br/>(421.835 Yrths)
-        mass: 6.200 × 10<sup>26</sup> kg<br />(44.17527279472522 Yrths)
+        mass: 6.200 × 10<sup>26</sup> kg<br />(103.824 Yrths)
         density: 1.357 g/cm<sup>3</sup>
         surface_gravity: 18.102 m/s<sup>2</sup><br />(1.846 g<sub>0</sub>)
         escape_velocity: 41.620 km/s<br />(149,831 km/h)
         rotation_period: 55.618 d
         axial_tilt: 21.68°
         albedo: 0.30
-        temperature: 2753 K<br />(2480 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 0024 Tenioshiad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 19,685.1 km<br/>(3.090 Yrths)
         surface_area: 4.870 × 10<sup>09</sup> km<sup>2</sup><br/>(9.547 Yrths)
         volume: 3.195 × 10<sup>13</sup> km<sup>3</sup><br/>(29.498 Yrths)
-        mass: 6.089 × 10<sup>25</sup> kg<br />(44.17527279472522 Yrths)
+        mass: 6.089 × 10<sup>25</sup> kg<br />(10.196 Yrths)
         density: 1.906 g/cm<sup>3</sup>
         surface_gravity: 10.473 m/s<sup>2</sup><br />(1.068 g<sub>0</sub>)
         escape_velocity: 20.320 km/s<br />(73,150 km/h)
         rotation_period: 40.258 d
         axial_tilt: 15.12°
         albedo: 0.30
-        temperature: 2625 K<br />(2352 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 0024 Tenioshiad I g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -178,14 +178,14 @@ planets:
         radius: 52,998.6 km<br/>(8.319 Yrths)
         surface_area: 3.530 × 10<sup>10</sup> km<sup>2</sup><br/>(69.201 Yrths)
         volume: 6.236 × 10<sup>14</sup> km<sup>3</sup><br/>(575.667 Yrths)
-        mass: 1.566 × 10<sup>27</sup> kg<br />(44.17527279472522 Yrths)
+        mass: 1.566 × 10<sup>27</sup> kg<br />(262.236 Yrths)
         density: 2.511 g/cm<sup>3</sup>
         surface_gravity: 37.162 m/s<sup>2</sup><br />(3.789 g<sub>0</sub>)
         escape_velocity: 62.805 km/s<br />(226,097 km/h)
         rotation_period: 36.729 d
         axial_tilt: 22.36°
         albedo: 0.30
-        temperature: 2503 K<br />(2229 °C)
+        temperature: 391 K<br />(118 °C)
   - name: 0024 Tenioshiad II
     type: Large terrestrial
     aphelion: 1,557,892,726 km<br />10.414 AU
@@ -197,14 +197,14 @@ planets:
     radius: 3,652.4 km<br/>(0.573 Yrths)
     surface_area: 1.676 × 10<sup>08</sup> km<sup>2</sup><br/>(0.329 Yrths)
     volume: 2.041 × 10<sup>11</sup> km<sup>3</sup><br/>(0.188 Yrths)
-    mass: 1.323 × 10<sup>24</sup> kg<br />(0.2214597255683966 Yrths)
+    mass: 1.323 × 10<sup>24</sup> kg<br />(0.22 Yrths)
     density: 6.480 g/cm<sup>3</sup>
     surface_gravity: 6.608 m/s<sup>2</sup><br />(0.674 g<sub>0</sub>)
     escape_velocity: 6.952 km/s<br />(25,029 km/h)
     rotation_period: 1.268 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 366 K<br />(93 °C)
+    temperature: 435 K<br />(162 °C)
     surface_pressure: 385 kPa<br />(4 atm)
     composition:
       - 86.2975% methane
@@ -224,14 +224,14 @@ planets:
         radius: 1,042.5 km<br/>(0.164 Yrths)
         surface_area: 1.366 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.746 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.118 × 10<sup>22</sup> kg<br />(0.2214597255683966 Yrths)
+        mass: 1.118 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.356 g/cm<sup>3</sup>
         surface_gravity: 0.686 m/s<sup>2</sup><br />(0.070 g<sub>0</sub>)
         escape_velocity: 1.197 km/s<br />(4,308 km/h)
         rotation_period: 62.189 d
         axial_tilt: 19.26°
         albedo: 0.30
-        temperature: 6093 K<br />(5820 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 0024 Tenioshiad II b
         type: Rocky
         formationType: Impact formed
@@ -244,14 +244,14 @@ planets:
         radius: 1,141.0 km<br/>(0.179 Yrths)
         surface_area: 1.636 × 10<sup>07</sup> km<sup>2</sup><br/>(0.032 Yrths)
         volume: 6.222 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.722 × 10<sup>22</sup> kg<br />(0.2214597255683966 Yrths)
+        mass: 1.722 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.767 g/cm<sup>3</sup>
         surface_gravity: 0.881 m/s<sup>2</sup><br />(0.090 g<sub>0</sub>)
         escape_velocity: 1.419 km/s<br />(5,109 km/h)
         rotation_period: 34.847 d
         axial_tilt: 7.43°
         albedo: 0.30
-        temperature: 5809 K<br />(5536 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 0024 Tenioshiad II c
         type: Asteroid
         formationType: Captured
@@ -264,14 +264,14 @@ planets:
         radius: 916.0 km<br/>(0.144 Yrths)
         surface_area: 1.054 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.219 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 7.318 × 10<sup>21</sup> kg<br />(0.2214597255683966 Yrths)
+        mass: 7.318 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.273 g/cm<sup>3</sup>
         surface_gravity: 0.581 m/s<sup>2</sup><br />(0.059 g<sub>0</sub>)
         escape_velocity: 1.033 km/s<br />(3,718 km/h)
         rotation_period: 60.420 d
         axial_tilt: 51.42°
         albedo: 0.30
-        temperature: 5539 K<br />(5266 °C)
+        temperature: 271 K<br />(-2 °C)
   - name: 0024 Tenioshiad III
     type: Ice giant
     aphelion: 4,265,088,409 km<br />28.510 AU
@@ -283,14 +283,14 @@ planets:
     radius: 35,768.9 km<br/>(5.614 Yrths)
     surface_area: 1.608 × 10<sup>10</sup> km<sup>2</sup><br/>(31.521 Yrths)
     volume: 1.917 × 10<sup>14</sup> km<sup>3</sup><br/>(176.968 Yrths)
-    mass: 2.999 × 10<sup>26</sup> kg<br />(50.220389587714735 Yrths)
+    mass: 2.999 × 10<sup>26</sup> kg<br />(50.22 Yrths)
     density: 1.565 g/cm<sup>3</sup>
     surface_gravity: 15.624 m/s<sup>2</sup><br />(1.593 g<sub>0</sub>)
     escape_velocity: 33.455 km/s<br />(120,439 km/h)
     rotation_period: 0.283 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 405 K<br />(131 °C)
+    temperature: 373 K<br />(100 °C)
     composition:
       - 77.2849% hydrogen
       - 20.6846% helium
@@ -310,14 +310,14 @@ planets:
         radius: 51,460.0 km<br/>(8.077 Yrths)
         surface_area: 3.328 × 10<sup>10</sup> km<sup>2</sup><br/>(65.242 Yrths)
         volume: 5.708 × 10<sup>14</sup> km<sup>3</sup><br/>(526.971 Yrths)
-        mass: 1.084 × 10<sup>27</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 1.084 × 10<sup>27</sup> kg<br />(181.569 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 27.292 m/s<sup>2</sup><br />(2.783 g<sub>0</sub>)
         escape_velocity: 53.035 km/s<br />(190,926 km/h)
         rotation_period: 69.913 d
         axial_tilt: 12.17°
         albedo: 0.30
-        temperature: 1636 K<br />(1363 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III b
         type: Asteroid
         formationType: Captured
@@ -330,14 +330,14 @@ planets:
         radius: 44,982.1 km<br/>(7.060 Yrths)
         surface_area: 2.543 × 10<sup>10</sup> km<sup>2</sup><br/>(49.850 Yrths)
         volume: 3.812 × 10<sup>14</sup> km<sup>3</sup><br/>(351.963 Yrths)
-        mass: 4.956 × 10<sup>26</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 4.956 × 10<sup>26</sup> kg<br />(82.991 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 16.326 m/s<sup>2</sup><br />(1.665 g<sub>0</sub>)
         escape_velocity: 38.351 km/s<br />(138,063 km/h)
         rotation_period: 48.027 d
         axial_tilt: 42.11°
         albedo: 0.30
-        temperature: 1560 K<br />(1287 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III c
         type: Dwarf planet
         formationType: Impact formed
@@ -350,14 +350,14 @@ planets:
         radius: 36,091.5 km<br/>(5.665 Yrths)
         surface_area: 1.637 × 10<sup>10</sup> km<sup>2</sup><br/>(32.092 Yrths)
         volume: 1.969 × 10<sup>14</sup> km<sup>3</sup><br/>(181.800 Yrths)
-        mass: 2.881 × 10<sup>26</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 2.881 × 10<sup>26</sup> kg<br />(48.249 Yrths)
         density: 1.463 g/cm<sup>3</sup>
         surface_gravity: 14.744 m/s<sup>2</sup><br />(1.503 g<sub>0</sub>)
         escape_velocity: 32.645 km/s<br />(117,523 km/h)
         rotation_period: 65.293 d
         axial_tilt: 20.71°
         albedo: 0.30
-        temperature: 1487 K<br />(1214 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -370,14 +370,14 @@ planets:
         radius: 45,710.8 km<br/>(7.175 Yrths)
         surface_area: 2.626 × 10<sup>10</sup> km<sup>2</sup><br/>(51.478 Yrths)
         volume: 4.001 × 10<sup>14</sup> km<sup>3</sup><br/>(369.345 Yrths)
-        mass: 8.340 × 10<sup>26</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 8.340 × 10<sup>26</sup> kg<br />(139.647 Yrths)
         density: 2.085 g/cm<sup>3</sup>
         surface_gravity: 26.603 m/s<sup>2</sup><br />(2.713 g<sub>0</sub>)
         escape_velocity: 49.350 km/s<br />(177,659 km/h)
         rotation_period: 57.975 d
         axial_tilt: 12.83°
         albedo: 0.30
-        temperature: 1352 K<br />(1079 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III e
         type: Asteroid
         formationType: Captured
@@ -390,14 +390,14 @@ planets:
         radius: 29,430.4 km<br/>(4.619 Yrths)
         surface_area: 1.088 × 10<sup>10</sup> km<sup>2</sup><br/>(21.339 Yrths)
         volume: 1.068 × 10<sup>14</sup> km<sup>3</sup><br/>(98.575 Yrths)
-        mass: 1.766 × 10<sup>26</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 1.766 × 10<sup>26</sup> kg<br />(29.565 Yrths)
         density: 1.654 g/cm<sup>3</sup>
         surface_gravity: 13.587 m/s<sup>2</sup><br />(1.385 g<sub>0</sub>)
         escape_velocity: 28.299 km/s<br />(101,876 km/h)
         rotation_period: 46.827 d
         axial_tilt: 26.31°
         albedo: 0.30
-        temperature: 1289 K<br />(1016 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -410,14 +410,14 @@ planets:
         radius: 48,949.9 km<br/>(7.683 Yrths)
         surface_area: 3.011 × 10<sup>10</sup> km<sup>2</sup><br/>(59.032 Yrths)
         volume: 4.913 × 10<sup>14</sup> km<sup>3</sup><br/>(453.557 Yrths)
-        mass: 1.084 × 10<sup>27</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 1.084 × 10<sup>27</sup> kg<br />(181.568 Yrths)
         density: 2.207 g/cm<sup>3</sup>
         surface_gravity: 30.163 m/s<sup>2</sup><br />(3.076 g<sub>0</sub>)
         escape_velocity: 54.378 km/s<br />(195,760 km/h)
         rotation_period: 43.467 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 1229 K<br />(956 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -430,14 +430,14 @@ planets:
         radius: 29,979.1 km<br/>(4.706 Yrths)
         surface_area: 1.129 × 10<sup>10</sup> km<sup>2</sup><br/>(22.142 Yrths)
         volume: 1.129 × 10<sup>14</sup> km<sup>3</sup><br/>(104.191 Yrths)
-        mass: 2.571 × 10<sup>26</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 2.571 × 10<sup>26</sup> kg<br />(43.055 Yrths)
         density: 2.278 g/cm<sup>3</sup>
         surface_gravity: 19.069 m/s<sup>2</sup><br />(1.944 g<sub>0</sub>)
         escape_velocity: 33.836 km/s<br />(121,810 km/h)
         rotation_period: 52.469 d
         axial_tilt: 24.81°
         albedo: 0.30
-        temperature: 1172 K<br />(899 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III h
         type: Icy
         formationType: Accreted
@@ -450,14 +450,14 @@ planets:
         radius: 47,519.3 km<br/>(7.459 Yrths)
         surface_area: 2.838 × 10<sup>10</sup> km<sup>2</sup><br/>(55.632 Yrths)
         volume: 4.495 × 10<sup>14</sup> km<sup>3</sup><br/>(414.942 Yrths)
-        mass: 6.026 × 10<sup>26</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 6.026 × 10<sup>26</sup> kg<br />(100.908 Yrths)
         density: 1.341 g/cm<sup>3</sup>
         surface_gravity: 17.788 m/s<sup>2</sup><br />(1.814 g<sub>0</sub>)
         escape_velocity: 41.144 km/s<br />(148,118 km/h)
         rotation_period: 43.073 d
         axial_tilt: 15.15°
         albedo: 0.30
-        temperature: 1118 K<br />(844 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III i
         type: Icy
         formationType: Accreted
@@ -470,14 +470,14 @@ planets:
         radius: 42,305.6 km<br/>(6.640 Yrths)
         surface_area: 2.249 × 10<sup>10</sup> km<sup>2</sup><br/>(44.094 Yrths)
         volume: 3.172 × 10<sup>14</sup> km<sup>3</sup><br/>(292.799 Yrths)
-        mass: 2.295 × 10<sup>26</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 2.295 × 10<sup>26</sup> kg<br />(38.438 Yrths)
         density: 0.724 g/cm<sup>3</sup>
         surface_gravity: 8.549 m/s<sup>2</sup><br />(0.872 g<sub>0</sub>)
         escape_velocity: 26.913 km/s<br />(96,886 km/h)
         rotation_period: 60.055 d
         axial_tilt: 14.47°
         albedo: 0.30
-        temperature: 1066 K<br />(792 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -490,14 +490,14 @@ planets:
         radius: 28,405.1 km<br/>(4.459 Yrths)
         surface_area: 1.014 × 10<sup>10</sup> km<sup>2</sup><br/>(19.878 Yrths)
         volume: 9.600 × 10<sup>13</sup> km<sup>3</sup><br/>(88.627 Yrths)
-        mass: 1.972 × 10<sup>26</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 1.972 × 10<sup>26</sup> kg<br />(33.022 Yrths)
         density: 2.054 g/cm<sup>3</sup>
         surface_gravity: 16.291 m/s<sup>2</sup><br />(1.661 g<sub>0</sub>)
         escape_velocity: 30.443 km/s<br />(109,593 km/h)
         rotation_period: 47.402 d
         axial_tilt: 27.45°
         albedo: 0.30
-        temperature: 1016 K<br />(743 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0024 Tenioshiad III k
         type: Ice/rock hybrid
         formationType: Captured
@@ -510,12 +510,12 @@ planets:
         radius: 51,873.1 km<br/>(8.142 Yrths)
         surface_area: 3.381 × 10<sup>10</sup> km<sup>2</sup><br/>(66.293 Yrths)
         volume: 5.847 × 10<sup>14</sup> km<sup>3</sup><br/>(539.765 Yrths)
-        mass: 1.141 × 10<sup>27</sup> kg<br />(50.220389587714735 Yrths)
+        mass: 1.141 × 10<sup>27</sup> kg<br />(191.119 Yrths)
         density: 1.952 g/cm<sup>3</sup>
         surface_gravity: 28.272 m/s<sup>2</sup><br />(2.883 g<sub>0</sub>)
         escape_velocity: 54.195 km/s<br />(195,102 km/h)
         rotation_period: 38.315 d
         axial_tilt: 28.04°
         albedo: 0.30
-        temperature: 969 K<br />(696 °C)
+        temperature: 187 K<br />(-86 °C)
 ---

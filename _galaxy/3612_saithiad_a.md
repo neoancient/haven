@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3612 Saithiad A is a star in the constellation Saith
+      3612 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 387.06 ly
 apparent_magnitude: 7.33
 absolute_magnitude: 1.96

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6571 Anilliad is a star in the constellation Anil
+      6571 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 355.34 ly
 apparent_magnitude: 10.53
 absolute_magnitude: 5.35

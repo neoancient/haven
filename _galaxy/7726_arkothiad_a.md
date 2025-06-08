@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7726 Arkothiad A is a star in the constellation Arkoth
+      7726 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 393.32 ly
 apparent_magnitude: 8.06
 absolute_magnitude: 2.66

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ε Enlinniad is a star in the constellation Enlin
+      ε Enlinniad is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 222.18 ly
 apparent_magnitude: 3.03
 absolute_magnitude: -1.14
@@ -31,14 +31,14 @@ planets:
     radius: 21,777.7 km<br/>(3.418 Yrths)
     surface_area: 5.960 × 10<sup>09</sup> km<sup>2</sup><br/>(11.684 Yrths)
     volume: 4.326 × 10<sup>13</sup> km<sup>3</sup><br/>(39.940 Yrths)
-    mass: 8.148 × 10<sup>25</sup> kg<br />(13.643166636838197 Yrths)
+    mass: 8.148 × 10<sup>25</sup> kg<br />(13.64 Yrths)
     density: 1.883 g/cm<sup>3</sup>
     surface_gravity: 11.451 m/s<sup>2</sup><br />(1.168 g<sub>0</sub>)
     escape_velocity: 22.348 km/s<br />(80,451 km/h)
     rotation_period: 0.388 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 731 K<br />(457 °C)
+    temperature: 829 K<br />(556 °C)
     composition:
       - 100.0000% ammonia
     moons:
@@ -54,14 +54,14 @@ planets:
         radius: 21,936.2 km<br/>(3.443 Yrths)
         surface_area: 6.047 × 10<sup>09</sup> km<sup>2</sup><br/>(11.855 Yrths)
         volume: 4.422 × 10<sup>13</sup> km<sup>3</sup><br/>(40.819 Yrths)
-        mass: 4.217 × 10<sup>25</sup> kg<br />(13.643166636838197 Yrths)
+        mass: 4.217 × 10<sup>25</sup> kg<br />(7.061 Yrths)
         density: 0.954 g/cm<sup>3</sup>
         surface_gravity: 5.841 m/s<sup>2</sup><br />(0.596 g<sub>0</sub>)
         escape_velocity: 16.019 km/s<br />(57,667 km/h)
         rotation_period: 88.761 d
         axial_tilt: 9.13°
         albedo: 0.30
-        temperature: 4823 K<br />(4550 °C)
+        temperature: 412 K<br />(139 °C)
       - name: ε Enlinniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -74,14 +74,14 @@ planets:
         radius: 15,497.1 km<br/>(2.432 Yrths)
         surface_area: 3.018 × 10<sup>09</sup> km<sup>2</sup><br/>(5.917 Yrths)
         volume: 1.559 × 10<sup>13</sup> km<sup>3</sup><br/>(14.392 Yrths)
-        mass: 3.441 × 10<sup>25</sup> kg<br />(13.643166636838197 Yrths)
+        mass: 3.441 × 10<sup>25</sup> kg<br />(5.762 Yrths)
         density: 2.207 g/cm<sup>3</sup>
         surface_gravity: 9.549 m/s<sup>2</sup><br />(0.974 g<sub>0</sub>)
         escape_velocity: 17.216 km/s<br />(61,977 km/h)
         rotation_period: 34.008 d
         axial_tilt: 11.32°
         albedo: 0.30
-        temperature: 4599 K<br />(4326 °C)
+        temperature: 412 K<br />(139 °C)
       - name: ε Enlinniad I c
         type: Icy
         formationType: Accreted
@@ -94,14 +94,14 @@ planets:
         radius: 9,524.6 km<br/>(1.495 Yrths)
         surface_area: 1.140 × 10<sup>09</sup> km<sup>2</sup><br/>(2.235 Yrths)
         volume: 3.619 × 10<sup>12</sup> km<sup>3</sup><br/>(3.341 Yrths)
-        mass: 3.171 × 10<sup>24</sup> kg<br />(13.643166636838197 Yrths)
+        mass: 3.171 × 10<sup>24</sup> kg<br />(0.531 Yrths)
         density: 0.876 g/cm<sup>3</sup>
         surface_gravity: 2.330 m/s<sup>2</sup><br />(0.238 g<sub>0</sub>)
         escape_velocity: 6.666 km/s<br />(23,999 km/h)
         rotation_period: 70.586 d
         axial_tilt: 20.18°
         albedo: 0.30
-        temperature: 4385 K<br />(4112 °C)
+        temperature: 412 K<br />(139 °C)
       - name: ε Enlinniad I d
         type: Asteroid
         formationType: Captured
@@ -114,14 +114,14 @@ planets:
         radius: 11,174.6 km<br/>(1.754 Yrths)
         surface_area: 1.569 × 10<sup>09</sup> km<sup>2</sup><br/>(3.076 Yrths)
         volume: 5.845 × 10<sup>12</sup> km<sup>3</sup><br/>(5.396 Yrths)
-        mass: 1.470 × 10<sup>25</sup> kg<br />(13.643166636838197 Yrths)
+        mass: 1.470 × 10<sup>25</sup> kg<br />(2.461 Yrths)
         density: 2.515 g/cm<sup>3</sup>
         surface_gravity: 7.845 m/s<sup>2</sup><br />(0.800 g<sub>0</sub>)
         escape_velocity: 13.251 km/s<br />(47,702 km/h)
         rotation_period: 33.494 d
         axial_tilt: 32.89°
         albedo: 0.30
-        temperature: 4181 K<br />(3908 °C)
+        temperature: 412 K<br />(139 °C)
   - name: ε Enlinniad II
     type: Ice giant
     aphelion: 2,108,418,370 km<br />14.094 AU
@@ -133,14 +133,14 @@ planets:
     radius: 34,268.5 km<br/>(5.379 Yrths)
     surface_area: 1.476 × 10<sup>10</sup> km<sup>2</sup><br/>(28.932 Yrths)
     volume: 1.686 × 10<sup>14</sup> km<sup>3</sup><br/>(155.618 Yrths)
-    mass: 2.500 × 10<sup>26</sup> kg<br />(41.86759967732894 Yrths)
+    mass: 2.500 × 10<sup>26</sup> kg<br />(41.87 Yrths)
     density: 1.483 g/cm<sup>3</sup>
     surface_gravity: 14.191 m/s<sup>2</sup><br />(1.447 g<sub>0</sub>)
     escape_velocity: 31.208 km/s<br />(112,350 km/h)
     rotation_period: 0.296 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 597 K<br />(324 °C)
+    temperature: 556 K<br />(283 °C)
     composition:
       - 68.3201% hydrogen
       - 27.0163% helium
@@ -160,14 +160,14 @@ planets:
         radius: 42,421.5 km<br/>(6.659 Yrths)
         surface_area: 2.261 × 10<sup>10</sup> km<sup>2</sup><br/>(44.336 Yrths)
         volume: 3.198 × 10<sup>14</sup> km<sup>3</sup><br/>(295.212 Yrths)
-        mass: 7.656 × 10<sup>26</sup> kg<br />(41.86759967732894 Yrths)
+        mass: 7.656 × 10<sup>26</sup> kg<br />(128.199 Yrths)
         density: 2.394 g/cm<sup>3</sup>
         surface_gravity: 28.356 m/s<sup>2</sup><br />(2.892 g<sub>0</sub>)
         escape_velocity: 49.083 km/s<br />(176,697 km/h)
         rotation_period: 50.008 d
         axial_tilt: 17.24°
         albedo: 0.30
-        temperature: 2624 K<br />(2351 °C)
+        temperature: 278 K<br />(5 °C)
       - name: ε Enlinniad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -180,15 +180,35 @@ planets:
         radius: 33,514.0 km<br/>(5.260 Yrths)
         surface_area: 1.411 × 10<sup>10</sup> km<sup>2</sup><br/>(27.672 Yrths)
         volume: 1.577 × 10<sup>14</sup> km<sup>3</sup><br/>(145.565 Yrths)
-        mass: 3.979 × 10<sup>26</sup> kg<br />(41.86759967732894 Yrths)
+        mass: 3.979 × 10<sup>26</sup> kg<br />(66.622 Yrths)
         density: 2.523 g/cm<sup>3</sup>
         surface_gravity: 23.610 m/s<sup>2</sup><br />(2.408 g<sub>0</sub>)
         escape_velocity: 39.808 km/s<br />(143,310 km/h)
         rotation_period: 54.119 d
         axial_tilt: 23.06°
         albedo: 0.30
-        temperature: 2386 K<br />(2112 °C)
+        temperature: 278 K<br />(5 °C)
       - name: ε Enlinniad II c
+        type: Icy
+        formationType: Captured
+        aphelion: 34,250,391 km<br />
+        perihelion: 28,971,136 km<br />
+        semi_major_axis: 31,610,764 km<br />
+        eccentricity: 0.084
+        orbital_period: 0.48 d<br />
+        inclination: 6.02°
+        radius: 26,848.3 km<br/>(4.214 Yrths)
+        surface_area: 9.058 × 10<sup>09</sup> km<sup>2</sup><br/>(17.759 Yrths)
+        volume: 8.107 × 10<sup>13</sup> km<sup>3</sup><br/>(74.839 Yrths)
+        mass: 9.940 × 10<sup>25</sup> kg<br />(16.644 Yrths)
+        density: 1.226 g/cm<sup>3</sup>
+        surface_gravity: 9.191 m/s<sup>2</sup><br />(0.937 g<sub>0</sub>)
+        escape_velocity: 22.231 km/s<br />(80,031 km/h)
+        rotation_period: 84.748 d
+        axial_tilt: 15.14°
+        albedo: 0.30
+        temperature: 278 K<br />(5 °C)
+      - name: ε Enlinniad II d
         type: Icy
         formationType: Captured
         aphelion: 40,449,147 km<br />
@@ -200,15 +220,15 @@ planets:
         radius: 51,938.2 km<br/>(8.152 Yrths)
         surface_area: 3.390 × 10<sup>10</sup> km<sup>2</sup><br/>(66.460 Yrths)
         volume: 5.869 × 10<sup>14</sup> km<sup>3</sup><br/>(541.798 Yrths)
-        mass: 9.364 × 10<sup>26</sup> kg<br />(41.86759967732894 Yrths)
+        mass: 9.364 × 10<sup>26</sup> kg<br />(156.805 Yrths)
         density: 1.596 g/cm<sup>3</sup>
         surface_gravity: 23.138 m/s<sup>2</sup><br />(2.359 g<sub>0</sub>)
         escape_velocity: 49.058 km/s<br />(176,610 km/h)
         rotation_period: 57.324 d
         axial_tilt: 15.95°
         albedo: 0.30
-        temperature: 2169 K<br />(1896 °C)
-      - name: ε Enlinniad II d
+        temperature: 278 K<br />(5 °C)
+      - name: ε Enlinniad II e
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 42,164,428 km<br />
@@ -220,15 +240,15 @@ planets:
         radius: 56,305.8 km<br/>(8.838 Yrths)
         surface_area: 3.984 × 10<sup>10</sup> km<sup>2</sup><br/>(78.107 Yrths)
         volume: 7.477 × 10<sup>14</sup> km<sup>3</sup><br/>(690.299 Yrths)
-        mass: 1.604 × 10<sup>27</sup> kg<br />(41.86759967732894 Yrths)
+        mass: 1.604 × 10<sup>27</sup> kg<br />(268.547 Yrths)
         density: 2.145 g/cm<sup>3</sup>
         surface_gravity: 33.717 m/s<sup>2</sup><br />(3.438 g<sub>0</sub>)
         escape_velocity: 61.661 km/s<br />(221,980 km/h)
         rotation_period: 66.797 d
         axial_tilt: 15.83°
         albedo: 0.30
-        temperature: 2068 K<br />(1795 °C)
-      - name: ε Enlinniad II e
+        temperature: 278 K<br />(5 °C)
+      - name: ε Enlinniad II f
         type: Icy
         formationType: Impact formed
         aphelion: 46,541,288 km<br />
@@ -240,15 +260,15 @@ planets:
         radius: 47,456.9 km<br/>(7.449 Yrths)
         surface_area: 2.830 × 10<sup>10</sup> km<sup>2</sup><br/>(55.486 Yrths)
         volume: 4.477 × 10<sup>14</sup> km<sup>3</sup><br/>(413.310 Yrths)
-        mass: 7.201 × 10<sup>26</sup> kg<br />(41.86759967732894 Yrths)
+        mass: 7.201 × 10<sup>26</sup> kg<br />(120.579 Yrths)
         density: 1.608 g/cm<sup>3</sup>
         surface_gravity: 21.311 m/s<sup>2</sup><br />(2.173 g<sub>0</sub>)
         escape_velocity: 45.005 km/s<br />(162,019 km/h)
         rotation_period: 45.865 d
         axial_tilt: 17.03°
         albedo: 0.30
-        temperature: 1972 K<br />(1698 °C)
-      - name: ε Enlinniad II f
+        temperature: 278 K<br />(5 °C)
+      - name: ε Enlinniad II g
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 49,101,102 km<br />
@@ -260,15 +280,15 @@ planets:
         radius: 47,075.3 km<br/>(7.389 Yrths)
         surface_area: 2.785 × 10<sup>10</sup> km<sup>2</sup><br/>(54.597 Yrths)
         volume: 4.370 × 10<sup>14</sup> km<sup>3</sup><br/>(403.419 Yrths)
-        mass: 1.015 × 10<sup>27</sup> kg<br />(41.86759967732894 Yrths)
+        mass: 1.015 × 10<sup>27</sup> kg<br />(169.977 Yrths)
         density: 2.323 g/cm<sup>3</sup>
         surface_gravity: 30.531 m/s<sup>2</sup><br />(3.113 g<sub>0</sub>)
         escape_velocity: 53.651 km/s<br />(193,143 km/h)
         rotation_period: 39.584 d
         axial_tilt: 17.94°
         albedo: 0.30
-        temperature: 1880 K<br />(1607 °C)
-      - name: ε Enlinniad II g
+        temperature: 278 K<br />(5 °C)
+      - name: ε Enlinniad II h
         type: Icy
         formationType: Captured
         aphelion: 56,427,594 km<br />
@@ -280,12 +300,12 @@ planets:
         radius: 49,998.5 km<br/>(7.848 Yrths)
         surface_area: 3.141 × 10<sup>10</sup> km<sup>2</sup><br/>(61.588 Yrths)
         volume: 5.236 × 10<sup>14</sup> km<sup>3</sup><br/>(483.335 Yrths)
-        mass: 7.969 × 10<sup>26</sup> kg<br />(41.86759967732894 Yrths)
+        mass: 7.969 × 10<sup>26</sup> kg<br />(133.434 Yrths)
         density: 1.522 g/cm<sup>3</sup>
         surface_gravity: 21.247 m/s<sup>2</sup><br />(2.167 g<sub>0</sub>)
         escape_velocity: 46.125 km/s<br />(166,048 km/h)
         rotation_period: 72.018 d
         axial_tilt: 19.39°
         albedo: 0.30
-        temperature: 1792 K<br />(1519 °C)
+        temperature: 278 K<br />(5 °C)
 ---

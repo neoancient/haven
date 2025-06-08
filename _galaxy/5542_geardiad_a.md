@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5542 Geardiad A is a star in the constellation Geard
+      5542 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 308.57 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 2.65

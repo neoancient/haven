@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4899 Geardiad is a star in the constellation Geard
+      4899 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1197.22 ly
 apparent_magnitude: 17.26
 absolute_magnitude: 9.43

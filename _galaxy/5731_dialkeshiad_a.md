@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5731 Dialkeshiad A is a star in the constellation Dialkes
+      5731 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 341.69 ly
 apparent_magnitude: 11.12
 absolute_magnitude: 6.02

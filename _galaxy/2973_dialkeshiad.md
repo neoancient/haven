@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2973 Dialkeshiad is a star in the constellation Dialkes
+      2973 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 215.80 ly
 apparent_magnitude: 10.10
 absolute_magnitude: 6.00
@@ -31,14 +31,14 @@ planets:
     radius: 6,903.1 km<br/>(1.084 Yrths)
     surface_area: 5.988 × 10<sup>08</sup> km<sup>2</sup><br/>(1.174 Yrths)
     volume: 1.378 × 10<sup>12</sup> km<sup>3</sup><br/>(1.272 Yrths)
-    mass: 9.246 × 10<sup>24</sup> kg<br />(1.548247797444887 Yrths)
+    mass: 9.246 × 10<sup>24</sup> kg<br />(1.55 Yrths)
     density: 6.710 g/cm<sup>3</sup>
     surface_gravity: 12.933 m/s<sup>2</sup><br />(1.319 g<sub>0</sub>)
     escape_velocity: 13.371 km/s<br />(48,137 km/h)
     rotation_period: 1.761 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 382 K<br />(109 °C)
+    temperature: 377 K<br />(104 °C)
     surface_pressure: 102 kPa<br />(1 atm)
     composition:
       - 60.6803% nitrogen
@@ -59,12 +59,12 @@ planets:
         radius: 3,857.4 km<br/>(0.605 Yrths)
         surface_area: 1.870 × 10<sup>08</sup> km<sup>2</sup><br/>(0.367 Yrths)
         volume: 2.404 × 10<sup>11</sup> km<sup>3</sup><br/>(0.222 Yrths)
-        mass: 7.901 × 10<sup>23</sup> kg<br />(1.548247797444887 Yrths)
+        mass: 7.901 × 10<sup>23</sup> kg<br />(0.132 Yrths)
         density: 3.286 g/cm<sup>3</sup>
         surface_gravity: 3.539 m/s<sup>2</sup><br />(0.361 g<sub>0</sub>)
         escape_velocity: 5.229 km/s<br />(18,824 km/h)
         rotation_period: 47.260 d
         axial_tilt: 8.89°
         albedo: 0.30
-        temperature: 4038 K<br />(3765 °C)
+        temperature: 317 K<br />(44 °C)
 ---

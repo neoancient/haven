@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12010 Tanashad A is a star in the constellation Tanas
+      12010 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 275.82 ly
 apparent_magnitude: 9.75
 absolute_magnitude: 5.11

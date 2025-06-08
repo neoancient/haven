@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      145 Reggiad is a star in the constellation Reg
+      145 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 352.83 ly
 apparent_magnitude: 6.77
 absolute_magnitude: 1.60
@@ -31,14 +31,14 @@ planets:
     radius: 228.2 km<br/>(0.036 Yrths)
     surface_area: 6.547 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.981 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.791 × 10<sup>27</sup> kg<br />(299.8871818369716 Yrths)
+    mass: 1.791 × 10<sup>27</sup> kg<br />(299.89 Yrths)
     density: 35955412.267 g/cm<sup>3</sup>
     surface_gravity: 2291275.135 m/s<sup>2</sup><br />(233645.040 g<sub>0</sub>)
     escape_velocity: 1023.417 km/s<br />(3,684,301 km/h)
     rotation_period: 0.236 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1753 K<br />(1480 °C)
+    temperature: 1922 K<br />(1649 °C)
     composition:
       - 79.3660% hydrogen
       - 8.6535% hydrogen sulfide
@@ -59,14 +59,14 @@ planets:
         radius: 201,413.5 km<br/>(31.614 Yrths)
         surface_area: 5.098 × 10<sup>11</sup> km<sup>2</sup><br/>(999.452 Yrths)
         volume: 3.423 × 10<sup>16</sup> km<sup>3</sup><br/>(31596.776 Yrths)
-        mass: 6.329 × 10<sup>28</sup> kg<br />(299.8871818369716 Yrths)
+        mass: 6.329 × 10<sup>28</sup> kg<br />(10598.582 Yrths)
         density: 1.849 g/cm<sup>3</sup>
         surface_gravity: 103.994 m/s<sup>2</sup><br />(10.604 g<sub>0</sub>)
         escape_velocity: 204.813 km/s<br />(737,327 km/h)
         rotation_period: 37.458 d
         axial_tilt: 26.76°
         albedo: 0.30
-        temperature: 1228 K<br />(955 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 145 Reggiad I b
         type: Rocky
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 212,284.1 km<br/>(33.320 Yrths)
         surface_area: 5.663 × 10<sup>11</sup> km<sup>2</sup><br/>(1110.247 Yrths)
         volume: 4.007 × 10<sup>16</sup> km<sup>3</sup><br/>(36993.863 Yrths)
-        mass: 1.143 × 10<sup>29</sup> kg<br />(299.8871818369716 Yrths)
+        mass: 1.143 × 10<sup>29</sup> kg<br />(19139.318 Yrths)
         density: 2.852 g/cm<sup>3</sup>
         surface_gravity: 169.055 m/s<sup>2</sup><br />(17.239 g<sub>0</sub>)
         escape_velocity: 268.091 km/s<br />(965,128 km/h)
         rotation_period: 49.891 d
         axial_tilt: 15.39°
         albedo: 0.30
-        temperature: 1171 K<br />(898 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 145 Reggiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 185,971.9 km<br/>(29.190 Yrths)
         surface_area: 4.346 × 10<sup>11</sup> km<sup>2</sup><br/>(852.078 Yrths)
         volume: 2.694 × 10<sup>16</sup> km<sup>3</sup><br/>(24872.468 Yrths)
-        mass: 5.136 × 10<sup>28</sup> kg<br />(299.8871818369716 Yrths)
+        mass: 5.136 × 10<sup>28</sup> kg<br />(8599.677 Yrths)
         density: 1.906 g/cm<sup>3</sup>
         surface_gravity: 98.975 m/s<sup>2</sup><br />(10.093 g<sub>0</sub>)
         escape_velocity: 191.997 km/s<br />(691,190 km/h)
         rotation_period: 53.026 d
         axial_tilt: 17.56°
         albedo: 0.30
-        temperature: 1015 K<br />(742 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 145 Reggiad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -119,14 +119,14 @@ planets:
         radius: 213,202.6 km<br/>(33.465 Yrths)
         surface_area: 5.712 × 10<sup>11</sup> km<sup>2</sup><br/>(1119.876 Yrths)
         volume: 4.059 × 10<sup>16</sup> km<sup>3</sup><br/>(37476.148 Yrths)
-        mass: 6.965 × 10<sup>28</sup> kg<br />(299.8871818369716 Yrths)
+        mass: 6.965 × 10<sup>28</sup> kg<br />(11662.712 Yrths)
         density: 1.716 g/cm<sup>3</sup>
         surface_gravity: 102.129 m/s<sup>2</sup><br />(10.414 g<sub>0</sub>)
         escape_velocity: 208.824 km/s<br />(751,768 km/h)
         rotation_period: 53.827 d
         axial_tilt: 17.26°
         albedo: 0.30
-        temperature: 800 K<br />(527 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 145 Reggiad I e
         type: Rocky
         formationType: Captured
@@ -139,14 +139,14 @@ planets:
         radius: 209,864.6 km<br/>(32.941 Yrths)
         surface_area: 5.535 × 10<sup>11</sup> km<sup>2</sup><br/>(1085.084 Yrths)
         volume: 3.872 × 10<sup>16</sup> km<sup>3</sup><br/>(35743.323 Yrths)
-        mass: 1.221 × 10<sup>29</sup> kg<br />(299.8871818369716 Yrths)
+        mass: 1.221 × 10<sup>29</sup> kg<br />(20447.640 Yrths)
         density: 3.154 g/cm<sup>3</sup>
         surface_gravity: 184.799 m/s<sup>2</sup><br />(18.844 g<sub>0</sub>)
         escape_velocity: 278.695 km/s<br />(1,003,303 km/h)
         rotation_period: 54.256 d
         axial_tilt: 21.80°
         albedo: 0.30
-        temperature: 280 K<br />(7 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 145 Reggiad I f
         type: Icy
         formationType: Accreted
@@ -159,14 +159,14 @@ planets:
         radius: 201,941.0 km<br/>(31.697 Yrths)
         surface_area: 5.125 × 10<sup>11</sup> km<sup>2</sup><br/>(1004.694 Yrths)
         volume: 3.450 × 10<sup>16</sup> km<sup>3</sup><br/>(31845.707 Yrths)
-        mass: 6.554 × 10<sup>28</sup> kg<br />(299.8871818369716 Yrths)
+        mass: 6.554 × 10<sup>28</sup> kg<br />(10974.788 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 107.123 m/s<sup>2</sup><br />(10.924 g<sub>0</sub>)
         escape_velocity: 208.144 km/s<br />(749,318 km/h)
         rotation_period: 70.186 d
         axial_tilt: 19.97°
         albedo: 0.30
-        temperature: 232 K<br />(-41 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 145 Reggiad I g
         type: Icy
         formationType: Accreted
@@ -179,14 +179,14 @@ planets:
         radius: 342,701.0 km<br/>(53.791 Yrths)
         surface_area: 1.476 × 10<sup>12</sup> km<sup>2</sup><br/>(2893.446 Yrths)
         volume: 1.686 × 10<sup>17</sup> km<sup>3</sup><br/>(155640.688 Yrths)
-        mass: 1.809 × 10<sup>29</sup> kg<br />(299.8871818369716 Yrths)
+        mass: 1.809 × 10<sup>29</sup> kg<br />(30284.824 Yrths)
         density: 1.073 g/cm<sup>3</sup>
         surface_gravity: 102.643 m/s<sup>2</sup><br />(10.467 g<sub>0</sub>)
         escape_velocity: 265.419 km/s<br />(955,510 km/h)
         rotation_period: 54.396 d
         axial_tilt: 20.68°
         albedo: 0.30
-        temperature: 211 K<br />(-63 °C)
+        temperature: 401 K<br />(128 °C)
   - name: 145 Reggiad II
     type: Gas giant
     aphelion: 609,239,519 km<br />4.072 AU
@@ -198,14 +198,14 @@ planets:
     radius: 192.6 km<br/>(0.030 Yrths)
     surface_area: 4.660 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.992 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.583 × 10<sup>26</sup> kg<br />(143.7201274462024 Yrths)
+    mass: 8.583 × 10<sup>26</sup> kg<br />(143.72 Yrths)
     density: 28690762.886 g/cm<sup>3</sup>
     surface_gravity: 1542584.706 m/s<sup>2</sup><br />(157299.863 g<sub>0</sub>)
     escape_velocity: 771.322 km/s<br />(2,776,757 km/h)
     rotation_period: 0.254 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1174 K<br />(900 °C)
+    temperature: 1133 K<br />(859 °C)
     composition:
       - 64.5991% hydrogen
       - 32.2924% helium
@@ -224,14 +224,14 @@ planets:
         radius: 303,173.8 km<br/>(47.587 Yrths)
         surface_area: 1.155 × 10<sup>12</sup> km<sup>2</sup><br/>(2264.479 Yrths)
         volume: 1.167 × 10<sup>17</sup> km<sup>3</sup><br/>(107758.704 Yrths)
-        mass: 2.024 × 10<sup>29</sup> kg<br />(143.7201274462024 Yrths)
+        mass: 2.024 × 10<sup>29</sup> kg<br />(33885.912 Yrths)
         density: 1.734 g/cm<sup>3</sup>
         surface_gravity: 146.748 m/s<sup>2</sup><br />(14.964 g<sub>0</sub>)
         escape_velocity: 298.498 km/s<br />(1,074,593 km/h)
         rotation_period: 70.433 d
         axial_tilt: 14.79°
         albedo: 0.30
-        temperature: 1981 K<br />(1708 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 145 Reggiad II b
         type: Icy
         formationType: Impact formed
@@ -244,14 +244,14 @@ planets:
         radius: 140,320.6 km<br/>(22.025 Yrths)
         surface_area: 2.474 × 10<sup>11</sup> km<sup>2</sup><br/>(485.096 Yrths)
         volume: 1.157 × 10<sup>16</sup> km<sup>3</sup><br/>(10684.185 Yrths)
-        mass: 1.075 × 10<sup>28</sup> kg<br />(143.7201274462024 Yrths)
+        mass: 1.075 × 10<sup>28</sup> kg<br />(1800.431 Yrths)
         density: 0.929 g/cm<sup>3</sup>
         surface_gravity: 36.397 m/s<sup>2</sup><br />(3.711 g<sub>0</sub>)
         escape_velocity: 101.136 km/s<br />(364,089 km/h)
         rotation_period: 86.331 d
         axial_tilt: 18.81°
         albedo: 0.30
-        temperature: 1889 K<br />(1616 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 145 Reggiad II c
         type: Icy
         formationType: Captured
@@ -264,14 +264,14 @@ planets:
         radius: 118,607.2 km<br/>(18.617 Yrths)
         surface_area: 1.768 × 10<sup>11</sup> km<sup>2</sup><br/>(346.583 Yrths)
         volume: 6.989 × 10<sup>15</sup> km<sup>3</sup><br/>(6452.238 Yrths)
-        mass: 9.055 × 10<sup>27</sup> kg<br />(143.7201274462024 Yrths)
+        mass: 9.055 × 10<sup>27</sup> kg<br />(1516.162 Yrths)
         density: 1.296 g/cm<sup>3</sup>
         surface_gravity: 42.900 m/s<sup>2</sup><br />(4.375 g<sub>0</sub>)
         escape_velocity: 100.947 km/s<br />(363,411 km/h)
         rotation_period: 73.914 d
         axial_tilt: 16.13°
         albedo: 0.30
-        temperature: 1801 K<br />(1528 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 145 Reggiad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -284,12 +284,12 @@ planets:
         radius: 145,797.2 km<br/>(22.885 Yrths)
         surface_area: 2.671 × 10<sup>11</sup> km<sup>2</sup><br/>(523.701 Yrths)
         volume: 1.298 × 10<sup>16</sup> km<sup>3</sup><br/>(11984.628 Yrths)
-        mass: 2.149 × 10<sup>28</sup> kg<br />(143.7201274462024 Yrths)
+        mass: 2.149 × 10<sup>28</sup> kg<br />(3599.125 Yrths)
         density: 1.656 g/cm<sup>3</sup>
         surface_gravity: 67.396 m/s<sup>2</sup><br />(6.872 g<sub>0</sub>)
         escape_velocity: 140.282 km/s<br />(505,015 km/h)
         rotation_period: 42.392 d
         axial_tilt: 6.52°
         albedo: 0.30
-        temperature: 1638 K<br />(1364 °C)
+        temperature: 284 K<br />(11 °C)
 ---

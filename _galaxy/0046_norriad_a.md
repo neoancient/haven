@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0046 Norriad A is a star in the constellation Nor
+      0046 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 3155.90 ly
 apparent_magnitude: 6.59
 absolute_magnitude: -3.34

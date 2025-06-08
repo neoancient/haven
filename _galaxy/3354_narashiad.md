@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3354 Narashiad is a star in the constellation Naras
+      3354 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 237.91 ly
 apparent_magnitude: 17.76
 absolute_magnitude: 13.44

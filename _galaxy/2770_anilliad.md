@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2770 Anilliad is a star in the constellation Anil
+      2770 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 587.71 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 4.76

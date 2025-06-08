@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      18751 Shanniashiad A is a star in the constellation Shannias
+      18751 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 440.30 ly
 apparent_magnitude: 7.72
 absolute_magnitude: 2.07

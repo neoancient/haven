@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6447 Anilliad is a star in the constellation Anil
+      6447 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 326.20 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 4.45

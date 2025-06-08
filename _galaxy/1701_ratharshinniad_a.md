@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1701 Ratharshinniad A is a star in the constellation Ratharshin
+      1701 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 434.84 ly
 apparent_magnitude: 8.95
 absolute_magnitude: 3.32

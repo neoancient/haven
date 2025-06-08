@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0091 Neralniad is a star in the constellation Neraln
+      0091 Neralniad is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 777.71 ly
 apparent_magnitude: 5.81
 absolute_magnitude: -1.08
@@ -31,14 +31,14 @@ planets:
     radius: 35,694.5 km<br/>(5.603 Yrths)
     surface_area: 1.601 × 10<sup>10</sup> km<sup>2</sup><br/>(31.390 Yrths)
     volume: 1.905 × 10<sup>14</sup> km<sup>3</sup><br/>(175.865 Yrths)
-    mass: 3.064 × 10<sup>26</sup> kg<br />(51.306990464724564 Yrths)
+    mass: 3.064 × 10<sup>26</sup> kg<br />(51.31 Yrths)
     density: 1.608 g/cm<sup>3</sup>
     surface_gravity: 16.029 m/s<sup>2</sup><br />(1.635 g<sub>0</sub>)
     escape_velocity: 33.851 km/s<br />(121,862 km/h)
     rotation_period: 0.301 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 878 K<br />(605 °C)
+    temperature: 811 K<br />(538 °C)
     composition:
       - 85.6416% hydrogen
       - 9.7206% helium
@@ -59,14 +59,14 @@ planets:
         radius: 24,588.8 km<br/>(3.859 Yrths)
         surface_area: 7.598 × 10<sup>09</sup> km<sup>2</sup><br/>(14.896 Yrths)
         volume: 6.227 × 10<sup>13</sup> km<sup>3</sup><br/>(57.489 Yrths)
-        mass: 7.195 × 10<sup>25</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 7.195 × 10<sup>25</sup> kg<br />(12.048 Yrths)
         density: 1.155 g/cm<sup>3</sup>
         surface_gravity: 7.932 m/s<sup>2</sup><br />(0.809 g<sub>0</sub>)
         escape_velocity: 19.764 km/s<br />(71,150 km/h)
         rotation_period: 60.379 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 3784 K<br />(3511 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 20,339.1 km<br/>(3.192 Yrths)
         surface_area: 5.198 × 10<sup>09</sup> km<sup>2</sup><br/>(10.192 Yrths)
         volume: 3.524 × 10<sup>13</sup> km<sup>3</sup><br/>(32.537 Yrths)
-        mass: 7.565 × 10<sup>25</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 7.565 × 10<sup>25</sup> kg<br />(12.668 Yrths)
         density: 2.147 g/cm<sup>3</sup>
         surface_gravity: 12.189 m/s<sup>2</sup><br />(1.243 g<sub>0</sub>)
         escape_velocity: 22.282 km/s<br />(80,217 km/h)
         rotation_period: 37.208 d
         axial_tilt: 19.82°
         albedo: 0.30
-        temperature: 3608 K<br />(3334 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 20,616.3 km<br/>(3.236 Yrths)
         surface_area: 5.341 × 10<sup>09</sup> km<sup>2</sup><br/>(10.471 Yrths)
         volume: 3.670 × 10<sup>13</sup> km<sup>3</sup><br/>(33.885 Yrths)
-        mass: 9.127 × 10<sup>25</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 9.127 × 10<sup>25</sup> kg<br />(15.283 Yrths)
         density: 2.487 g/cm<sup>3</sup>
         surface_gravity: 14.313 m/s<sup>2</sup><br />(1.459 g<sub>0</sub>)
         escape_velocity: 24.309 km/s<br />(87,514 km/h)
         rotation_period: 61.644 d
         axial_tilt: 29.67°
         albedo: 0.30
-        temperature: 3440 K<br />(3167 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -119,14 +119,14 @@ planets:
         radius: 28,325.3 km<br/>(4.446 Yrths)
         surface_area: 1.008 × 10<sup>10</sup> km<sup>2</sup><br/>(19.767 Yrths)
         volume: 9.519 × 10<sup>13</sup> km<sup>3</sup><br/>(87.882 Yrths)
-        mass: 2.196 × 10<sup>26</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 2.196 × 10<sup>26</sup> kg<br />(36.775 Yrths)
         density: 2.307 g/cm<sup>3</sup>
         surface_gravity: 18.245 m/s<sup>2</sup><br />(1.860 g<sub>0</sub>)
         escape_velocity: 32.171 km/s<br />(115,816 km/h)
         rotation_period: 54.623 d
         axial_tilt: 15.46°
         albedo: 0.30
-        temperature: 3280 K<br />(3006 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 23,633.6 km<br/>(3.710 Yrths)
         surface_area: 7.019 × 10<sup>09</sup> km<sup>2</sup><br/>(13.761 Yrths)
         volume: 5.529 × 10<sup>13</sup> km<sup>3</sup><br/>(51.046 Yrths)
-        mass: 1.062 × 10<sup>26</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 1.062 × 10<sup>26</sup> kg<br />(17.787 Yrths)
         density: 1.921 g/cm<sup>3</sup>
         surface_gravity: 12.676 m/s<sup>2</sup><br />(1.293 g<sub>0</sub>)
         escape_velocity: 24.494 km/s<br />(88,178 km/h)
         rotation_period: 44.685 d
         axial_tilt: 17.11°
         albedo: 0.30
-        temperature: 3127 K<br />(2854 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I f
         type: Asteroid
         formationType: Captured
@@ -159,14 +159,14 @@ planets:
         radius: 26,154.6 km<br/>(4.105 Yrths)
         surface_area: 8.596 × 10<sup>09</sup> km<sup>2</sup><br/>(16.853 Yrths)
         volume: 7.494 × 10<sup>13</sup> km<sup>3</sup><br/>(69.187 Yrths)
-        mass: 2.060 × 10<sup>26</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 2.060 × 10<sup>26</sup> kg<br />(34.489 Yrths)
         density: 2.748 g/cm<sup>3</sup>
         surface_gravity: 20.069 m/s<sup>2</sup><br />(2.046 g<sub>0</sub>)
         escape_velocity: 32.423 km/s<br />(116,721 km/h)
         rotation_period: 48.860 d
         axial_tilt: 21.72°
         albedo: 0.30
-        temperature: 2981 K<br />(2708 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -179,14 +179,14 @@ planets:
         radius: 31,252.0 km<br/>(4.905 Yrths)
         surface_area: 1.227 × 10<sup>10</sup> km<sup>2</sup><br/>(24.062 Yrths)
         volume: 1.279 × 10<sup>14</sup> km<sup>3</sup><br/>(118.035 Yrths)
-        mass: 2.760 × 10<sup>26</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 2.760 × 10<sup>26</sup> kg<br />(46.217 Yrths)
         density: 2.159 g/cm<sup>3</sup>
         surface_gravity: 18.836 m/s<sup>2</sup><br />(1.921 g<sub>0</sub>)
         escape_velocity: 34.335 km/s<br />(123,607 km/h)
         rotation_period: 52.592 d
         axial_tilt: 20.89°
         albedo: 0.30
-        temperature: 2843 K<br />(2570 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I h
         type: Dwarf planet
         formationType: Impact formed
@@ -199,14 +199,14 @@ planets:
         radius: 34,585.3 km<br/>(5.429 Yrths)
         surface_area: 1.503 × 10<sup>10</sup> km<sup>2</sup><br/>(29.469 Yrths)
         volume: 1.733 × 10<sup>14</sup> km<sup>3</sup><br/>(159.975 Yrths)
-        mass: 4.012 × 10<sup>26</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 4.012 × 10<sup>26</sup> kg<br />(67.186 Yrths)
         density: 2.315 g/cm<sup>3</sup>
         surface_gravity: 22.358 m/s<sup>2</sup><br />(2.280 g<sub>0</sub>)
         escape_velocity: 39.352 km/s<br />(141,669 km/h)
         rotation_period: 40.239 d
         axial_tilt: 31.06°
         albedo: 0.30
-        temperature: 2710 K<br />(2437 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I i
         type: Icy
         formationType: Captured
@@ -219,14 +219,14 @@ planets:
         radius: 32,228.1 km<br/>(5.059 Yrths)
         surface_area: 1.305 × 10<sup>10</sup> km<sup>2</sup><br/>(25.589 Yrths)
         volume: 1.402 × 10<sup>14</sup> km<sup>3</sup><br/>(129.443 Yrths)
-        mass: 1.589 × 10<sup>26</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 1.589 × 10<sup>26</sup> kg<br />(26.605 Yrths)
         density: 1.133 g/cm<sup>3</sup>
         surface_gravity: 10.196 m/s<sup>2</sup><br />(1.040 g<sub>0</sub>)
         escape_velocity: 25.653 km/s<br />(92,352 km/h)
         rotation_period: 59.602 d
         axial_tilt: 16.06°
         albedo: 0.30
-        temperature: 2584 K<br />(2311 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I j
         type: Icy
         formationType: Accreted
@@ -239,14 +239,14 @@ planets:
         radius: 28,509.4 km<br/>(4.475 Yrths)
         surface_area: 1.021 × 10<sup>10</sup> km<sup>2</sup><br/>(20.025 Yrths)
         volume: 9.706 × 10<sup>13</sup> km<sup>3</sup><br/>(89.607 Yrths)
-        mass: 1.119 × 10<sup>26</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 1.119 × 10<sup>26</sup> kg<br />(18.733 Yrths)
         density: 1.153 g/cm<sup>3</sup>
         surface_gravity: 9.174 m/s<sup>2</sup><br />(0.936 g<sub>0</sub>)
         escape_velocity: 22.887 km/s<br />(82,394 km/h)
         rotation_period: 57.382 d
         axial_tilt: 14.94°
         albedo: 0.30
-        temperature: 2464 K<br />(2191 °C)
+        temperature: 413 K<br />(140 °C)
       - name: 0091 Neralniad I k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -259,14 +259,14 @@ planets:
         radius: 52,413.5 km<br/>(8.227 Yrths)
         surface_area: 3.452 × 10<sup>10</sup> km<sup>2</sup><br/>(67.682 Yrths)
         volume: 6.031 × 10<sup>14</sup> km<sup>3</sup><br/>(556.809 Yrths)
-        mass: 1.445 × 10<sup>27</sup> kg<br />(51.306990464724564 Yrths)
+        mass: 1.445 × 10<sup>27</sup> kg<br />(241.893 Yrths)
         density: 2.395 g/cm<sup>3</sup>
         surface_gravity: 35.049 m/s<sup>2</sup><br />(3.574 g<sub>0</sub>)
         escape_velocity: 60.655 km/s<br />(218,359 km/h)
         rotation_period: 58.762 d
         axial_tilt: 17.86°
         albedo: 0.30
-        temperature: 2349 K<br />(2076 °C)
+        temperature: 413 K<br />(140 °C)
   - name: 0091 Neralniad II
     type: Gas giant
     aphelion: 2,151,832,938 km<br />14.384 AU
@@ -278,14 +278,14 @@ planets:
     radius: 183.3 km<br/>(0.029 Yrths)
     surface_area: 4.222 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.580 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.940 × 10<sup>26</sup> kg<br />(116.20366601917448 Yrths)
+    mass: 6.940 × 10<sup>26</sup> kg<br />(116.20 Yrths)
     density: 26901611.610 g/cm<sup>3</sup>
     surface_gravity: 1376703.980 m/s<sup>2</sup><br />(140384.737 g<sub>0</sub>)
     escape_velocity: 710.901 km/s<br />(2,559,242 km/h)
     rotation_period: 0.259 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1173 K<br />(900 °C)
+    temperature: 1149 K<br />(876 °C)
     composition:
       - 69.2276% hydrogen
       - 23.8603% helium
@@ -306,14 +306,14 @@ planets:
         radius: 113,950.8 km<br/>(17.886 Yrths)
         surface_area: 1.632 × 10<sup>11</sup> km<sup>2</sup><br/>(319.904 Yrths)
         volume: 6.198 × 10<sup>15</sup> km<sup>3</sup><br/>(5721.757 Yrths)
-        mass: 8.793 × 10<sup>27</sup> kg<br />(116.20366601917448 Yrths)
+        mass: 8.793 × 10<sup>27</sup> kg<br />(1472.391 Yrths)
         density: 1.419 g/cm<sup>3</sup>
         surface_gravity: 45.136 m/s<sup>2</sup><br />(4.603 g<sub>0</sub>)
         escape_velocity: 101.492 km/s<br />(365,370 km/h)
         rotation_period: 52.214 d
         axial_tilt: 22.52°
         albedo: 0.30
-        temperature: 2024 K<br />(1751 °C)
+        temperature: 278 K<br />(5 °C)
       - name: 0091 Neralniad II b
         type: Icy
         formationType: Accreted
@@ -326,14 +326,14 @@ planets:
         radius: 140,201.4 km<br/>(22.006 Yrths)
         surface_area: 2.470 × 10<sup>11</sup> km<sup>2</sup><br/>(484.272 Yrths)
         volume: 1.154 × 10<sup>16</sup> km<sup>3</sup><br/>(10656.983 Yrths)
-        mass: 1.324 × 10<sup>28</sup> kg<br />(116.20366601917448 Yrths)
+        mass: 1.324 × 10<sup>28</sup> kg<br />(2217.163 Yrths)
         density: 1.147 g/cm<sup>3</sup>
         surface_gravity: 44.898 m/s<sup>2</sup><br />(4.578 g<sub>0</sub>)
         escape_velocity: 112.279 km/s<br />(404,206 km/h)
         rotation_period: 63.234 d
         axial_tilt: 20.37°
         albedo: 0.30
-        temperature: 1930 K<br />(1656 °C)
+        temperature: 278 K<br />(5 °C)
       - name: 0091 Neralniad II c
         type: Rocky
         formationType: Captured
@@ -346,15 +346,35 @@ planets:
         radius: 137,090.2 km<br/>(21.518 Yrths)
         surface_area: 2.362 × 10<sup>11</sup> km<sup>2</sup><br/>(463.018 Yrths)
         volume: 1.079 × 10<sup>16</sup> km<sup>3</sup><br/>(9963.148 Yrths)
-        mass: 2.723 × 10<sup>28</sup> kg<br />(116.20366601917448 Yrths)
+        mass: 2.723 × 10<sup>28</sup> kg<br />(4559.218 Yrths)
         density: 2.523 g/cm<sup>3</sup>
         surface_gravity: 96.564 m/s<sup>2</sup><br />(9.847 g<sub>0</sub>)
         escape_velocity: 162.824 km/s<br />(586,168 km/h)
         rotation_period: 39.784 d
         axial_tilt: 14.09°
         albedo: 0.30
-        temperature: 1754 K<br />(1481 °C)
+        temperature: 278 K<br />(5 °C)
       - name: 0091 Neralniad II d
+        type: Icy
+        formationType: Accreted
+        aphelion: 74,266,419 km<br />
+        perihelion: 70,718,684 km<br />
+        semi_major_axis: 72,492,552 km<br />
+        eccentricity: 0.024
+        orbital_period: 0.30 d<br />
+        inclination: 1.18°
+        radius: 19,932.6 km<br/>(3.129 Yrths)
+        surface_area: 4.993 × 10<sup>09</sup> km<sup>2</sup><br/>(9.788 Yrths)
+        volume: 3.317 × 10<sup>13</sup> km<sup>3</sup><br/>(30.624 Yrths)
+        mass: 5.623 × 10<sup>25</sup> kg<br />(9.416 Yrths)
+        density: 1.695 g/cm<sup>3</sup>
+        surface_gravity: 9.433 m/s<sup>2</sup><br />(0.962 g<sub>0</sub>)
+        escape_velocity: 19.405 km/s<br />(69,859 km/h)
+        rotation_period: 52.165 d
+        axial_tilt: 16.31°
+        albedo: 0.30
+        temperature: 278 K<br />(5 °C)
+      - name: 0091 Neralniad II e
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 185,057,889 km<br />
@@ -366,15 +386,15 @@ planets:
         radius: 102,219.9 km<br/>(16.045 Yrths)
         surface_area: 1.313 × 10<sup>11</sup> km<sup>2</sup><br/>(257.428 Yrths)
         volume: 4.474 × 10<sup>15</sup> km<sup>3</sup><br/>(4130.314 Yrths)
-        mass: 8.638 × 10<sup>27</sup> kg<br />(116.20366601917448 Yrths)
+        mass: 8.638 × 10<sup>27</sup> kg<br />(1446.482 Yrths)
         density: 1.931 g/cm<sup>3</sup>
         surface_gravity: 55.103 m/s<sup>2</sup><br />(5.619 g<sub>0</sub>)
         escape_velocity: 106.210 km/s<br />(382,357 km/h)
         rotation_period: 45.755 d
         axial_tilt: 21.69°
         albedo: 0.30
-        temperature: 990 K<br />(717 °C)
-      - name: 0091 Neralniad II e
+        temperature: 278 K<br />(5 °C)
+      - name: 0091 Neralniad II f
         type: Icy
         formationType: Accreted
         aphelion: 448,015,580 km<br />
@@ -386,15 +406,15 @@ planets:
         radius: 134,072.3 km<br/>(21.044 Yrths)
         surface_area: 2.259 × 10<sup>11</sup> km<sup>2</sup><br/>(442.857 Yrths)
         volume: 1.009 × 10<sup>16</sup> km<sup>3</sup><br/>(9319.546 Yrths)
-        mass: 1.676 × 10<sup>28</sup> kg<br />(116.20366601917448 Yrths)
+        mass: 1.676 × 10<sup>28</sup> kg<br />(2807.043 Yrths)
         density: 1.661 g/cm<sup>3</sup>
         surface_gravity: 62.159 m/s<sup>2</sup><br />(6.338 g<sub>0</sub>)
         escape_velocity: 129.191 km/s<br />(465,088 km/h)
         rotation_period: 41.843 d
         axial_tilt: 20.63°
         albedo: 0.30
-        temperature: 615 K<br />(342 °C)
-      - name: 0091 Neralniad II f
+        temperature: 278 K<br />(5 °C)
+      - name: 0091 Neralniad II g
         type: Icy
         formationType: Impact formed
         aphelion: 1,084,796,405 km<br />
@@ -406,14 +426,14 @@ planets:
         radius: 128,181.0 km<br/>(20.119 Yrths)
         surface_area: 2.065 × 10<sup>11</sup> km<sup>2</sup><br/>(404.792 Yrths)
         volume: 8.822 × 10<sup>15</sup> km<sup>3</sup><br/>(8144.197 Yrths)
-        mass: 8.193 × 10<sup>27</sup> kg<br />(116.20366601917448 Yrths)
+        mass: 8.193 × 10<sup>27</sup> kg<br />(1371.907 Yrths)
         density: 0.929 g/cm<sup>3</sup>
         surface_gravity: 33.236 m/s<sup>2</sup><br />(3.389 g<sub>0</sub>)
         escape_velocity: 92.369 km/s<br />(332,530 km/h)
         rotation_period: 101.602 d
         axial_tilt: 19.57°
         albedo: 0.30
-        temperature: 400 K<br />(127 °C)
+        temperature: 278 K<br />(5 °C)
   - name: 0091 Neralniad III
     type: Large terrestrial
     aphelion: 8,070,546,121 km<br />53.948 AU
@@ -425,15 +445,15 @@ planets:
     radius: 11,973.2 km<br/>(1.879 Yrths)
     surface_area: 1.801 × 10<sup>09</sup> km<sup>2</sup><br/>(3.532 Yrths)
     volume: 7.190 × 10<sup>12</sup> km<sup>3</sup><br/>(6.638 Yrths)
-    mass: 4.644 × 10<sup>25</sup> kg<br />(7.776260763331825 Yrths)
+    mass: 4.644 × 10<sup>25</sup> kg<br />(7.78 Yrths)
     density: 6.459 g/cm<sup>3</sup>
     surface_gravity: 21.592 m/s<sup>2</sup><br />(2.202 g<sub>0</sub>)
     escape_velocity: 22.754 km/s<br />(81,914 km/h)
     rotation_period: 0.508 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 376 K<br />(102 °C)
-    surface_pressure: 11,629 kPa<br />(115 atm)
+    temperature: 945 K<br />(671 °C)
+    surface_pressure: 11,629 kPa<br />(116 atm)
     composition:
       - 78.7102% carbon dioxide
       - 14.1997% nitrogen
@@ -452,12 +472,12 @@ planets:
         radius: 16,763.8 km<br/>(2.631 Yrths)
         surface_area: 3.531 × 10<sup>09</sup> km<sup>2</sup><br/>(6.924 Yrths)
         volume: 1.973 × 10<sup>13</sup> km<sup>3</sup><br/>(18.218 Yrths)
-        mass: 3.510 × 10<sup>25</sup> kg<br />(7.776260763331825 Yrths)
+        mass: 3.510 × 10<sup>25</sup> kg<br />(5.878 Yrths)
         density: 1.779 g/cm<sup>3</sup>
         surface_gravity: 8.326 m/s<sup>2</sup><br />(0.849 g<sub>0</sub>)
         escape_velocity: 16.719 km/s<br />(60,188 km/h)
         rotation_period: 45.079 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 2970 K<br />(2697 °C)
+        temperature: 187 K<br />(-86 °C)
 ---

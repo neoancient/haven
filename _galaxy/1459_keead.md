@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1459 Keead is a star in the constellation Kee
+      1459 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 676.78 ly
 apparent_magnitude: 11.42
 absolute_magnitude: 4.84

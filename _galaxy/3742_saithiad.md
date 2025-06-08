@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3742 Saithiad is a star in the constellation Saith
+      3742 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 318.50 ly
 apparent_magnitude: 10.87
 absolute_magnitude: 5.92

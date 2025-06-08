@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4090 Athiad is a star in the constellation Ath
+      4090 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 335.21 ly
 apparent_magnitude: 11.38
 absolute_magnitude: 6.32

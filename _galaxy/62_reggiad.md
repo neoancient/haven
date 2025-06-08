@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      62 Reggiad is a star in the constellation Reg
+      62 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 389.68 ly
 apparent_magnitude: 10.10
 absolute_magnitude: 4.71

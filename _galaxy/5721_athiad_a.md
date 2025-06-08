@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5721 Athiad A is a star in the constellation Ath
+      5721 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 148.65 ly
 apparent_magnitude: 9.99
 absolute_magnitude: 6.69

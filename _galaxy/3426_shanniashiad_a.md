@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3426 Shanniashiad A is a star in the constellation Shannias
+      3426 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 122.25 ly
 apparent_magnitude: 9.16
 absolute_magnitude: 6.29

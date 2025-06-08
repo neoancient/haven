@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3322 Saithiad A is a star in the constellation Saith
+      3322 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 785.85 ly
 apparent_magnitude: 6.61
 absolute_magnitude: -0.30

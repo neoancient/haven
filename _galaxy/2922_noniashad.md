@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2922 Noniashad is a star in the constellation Nonias
+      2922 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 373.48 ly
 apparent_magnitude: 11.79
 absolute_magnitude: 6.50

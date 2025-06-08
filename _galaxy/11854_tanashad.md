@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11854 Tanashad is a star in the constellation Tanas
+      11854 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 202.42 ly
 apparent_magnitude: 8.85
 absolute_magnitude: 4.89
@@ -31,14 +31,14 @@ planets:
     radius: 12,912.9 km<br/>(2.027 Yrths)
     surface_area: 2.095 × 10<sup>09</sup> km<sup>2</sup><br/>(4.108 Yrths)
     volume: 9.019 × 10<sup>12</sup> km<sup>3</sup><br/>(8.326 Yrths)
-    mass: 5.778 × 10<sup>25</sup> kg<br />(9.675773286066597 Yrths)
+    mass: 5.778 × 10<sup>25</sup> kg<br />(9.68 Yrths)
     density: 6.407 g/cm<sup>3</sup>
     surface_gravity: 23.098 m/s<sup>2</sup><br />(2.355 g<sub>0</sub>)
     escape_velocity: 24.440 km/s<br />(87,985 km/h)
     rotation_period: 0.838 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 380 K<br />(107 °C)
+    temperature: 887 K<br />(614 °C)
     surface_pressure: 62 kPa<br />(1 atm)
     composition:
       - 60.7977% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 10,214.7 km<br/>(1.603 Yrths)
         surface_area: 1.311 × 10<sup>09</sup> km<sup>2</sup><br/>(2.571 Yrths)
         volume: 4.464 × 10<sup>12</sup> km<sup>3</sup><br/>(4.122 Yrths)
-        mass: 1.289 × 10<sup>25</sup> kg<br />(9.675773286066597 Yrths)
+        mass: 1.289 × 10<sup>25</sup> kg<br />(2.158 Yrths)
         density: 2.886 g/cm<sup>3</sup>
         surface_gravity: 8.231 m/s<sup>2</sup><br />(0.839 g<sub>0</sub>)
         escape_velocity: 12.976 km/s<br />(46,715 km/h)
         rotation_period: 39.914 d
         axial_tilt: 8.09°
         albedo: 0.30
-        temperature: 3856 K<br />(3583 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 11854 Tanashad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 10,710.6 km<br/>(1.681 Yrths)
         surface_area: 1.442 × 10<sup>09</sup> km<sup>2</sup><br/>(2.826 Yrths)
         volume: 5.147 × 10<sup>12</sup> km<sup>3</sup><br/>(4.751 Yrths)
-        mass: 1.159 × 10<sup>25</sup> kg<br />(9.675773286066597 Yrths)
+        mass: 1.159 × 10<sup>25</sup> kg<br />(1.941 Yrths)
         density: 2.252 g/cm<sup>3</sup>
         surface_gravity: 6.736 m/s<sup>2</sup><br />(0.687 g<sub>0</sub>)
         escape_velocity: 12.020 km/s<br />(43,272 km/h)
         rotation_period: 34.352 d
         axial_tilt: 23.89°
         albedo: 0.30
-        temperature: 3676 K<br />(3403 °C)
+        temperature: 271 K<br />(-2 °C)
   - name: 11854 Tanashad II
     type: Terrestrial
     aphelion: 411,481,955 km<br />2.751 AU
@@ -95,7 +95,7 @@ planets:
     radius: 6,608.7 km<br/>(1.037 Yrths)
     surface_area: 5.488 × 10<sup>08</sup> km<sup>2</sup><br/>(1.076 Yrths)
     volume: 1.209 × 10<sup>12</sup> km<sup>3</sup><br/>(1.116 Yrths)
-    mass: 5.692 × 10<sup>24</sup> kg<br />(0.9530761542965431 Yrths)
+    mass: 5.692 × 10<sup>24</sup> kg<br />(0.95 Yrths)
     density: 4.708 g/cm<sup>3</sup>
     surface_gravity: 8.686 m/s<sup>2</sup><br />(0.886 g<sub>0</sub>)
     escape_velocity: 10.722 km/s<br />(38,600 km/h)
@@ -116,12 +116,12 @@ planets:
         radius: 2,197.0 km<br/>(0.345 Yrths)
         surface_area: 6.065 × 10<sup>07</sup> km<sup>2</sup><br/>(0.119 Yrths)
         volume: 4.442 × 10<sup>10</sup> km<sup>3</sup><br/>(0.041 Yrths)
-        mass: 1.099 × 10<sup>23</sup> kg<br />(0.9530761542965431 Yrths)
+        mass: 1.099 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 2.474 g/cm<sup>3</sup>
         surface_gravity: 1.517 m/s<sup>2</sup><br />(0.155 g<sub>0</sub>)
         escape_velocity: 2.584 km/s<br />(9,302 km/h)
         rotation_period: 34.464 d
         axial_tilt: 9.64°
         albedo: 0.30
-        temperature: 3546 K<br />(3273 °C)
+        temperature: 207 K<br />(-67 °C)
 ---

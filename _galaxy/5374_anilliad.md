@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5374 Anilliad is a star in the constellation Anil
+      5374 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 487.63 ly
 apparent_magnitude: 12.64
 absolute_magnitude: 6.76

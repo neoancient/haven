@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7787 Athiad is a star in the constellation Ath
+      7787 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 653.14 ly
 apparent_magnitude: 14.36
 absolute_magnitude: 7.85

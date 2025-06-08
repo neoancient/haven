@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      510 Ratharshinniad is a star in the constellation Ratharshin
+      510 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 471.59 ly
 apparent_magnitude: 10.54
 absolute_magnitude: 4.74

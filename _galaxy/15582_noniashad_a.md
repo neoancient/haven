@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      15582 Noniashad A is a star in the constellation Nonias
+      15582 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 521.33 ly
 apparent_magnitude: 7.91
 absolute_magnitude: 1.89

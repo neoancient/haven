@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Talcu C is a star in the constellation Irsa
+      Talcu C is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 1021.47 ly
 apparent_magnitude: 3.96
 absolute_magnitude: -3.52

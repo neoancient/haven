@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6814 Tanashad is a star in the constellation Tanas
+      6814 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 800.55 ly
 apparent_magnitude: 12.33
 absolute_magnitude: 5.38

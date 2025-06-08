@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3201 Athiad A is a star in the constellation Ath
+      3201 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 188.90 ly
 apparent_magnitude: 8.48
 absolute_magnitude: 4.67

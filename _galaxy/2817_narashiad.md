@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2817 Narashiad is a star in the constellation Naras
+      2817 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 1024.19 ly
 apparent_magnitude: 16.66
 absolute_magnitude: 9.18

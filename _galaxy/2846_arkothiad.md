@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2846 Arkothiad is a star in the constellation Arkoth
+      2846 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 395.46 ly
 apparent_magnitude: 11.84
 absolute_magnitude: 6.43

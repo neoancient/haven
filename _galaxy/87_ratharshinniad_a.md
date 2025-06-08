@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      87 Ratharshinniad A is a star in the constellation Ratharshin
+      87 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 405.26 ly
 apparent_magnitude: 7.13
 absolute_magnitude: 1.66

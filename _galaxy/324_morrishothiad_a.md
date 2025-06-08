@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      324 Morrishothiad A is a star in the constellation Morrishoth
+      324 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 572.77 ly
 apparent_magnitude: 7.14
 absolute_magnitude: 0.91

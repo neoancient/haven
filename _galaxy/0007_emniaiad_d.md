@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0007 Emniaiad D is a star in the constellation Emnia
+      0007 Emniaiad D is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 113.22 ly
 apparent_magnitude: 7.65
 absolute_magnitude: 4.95

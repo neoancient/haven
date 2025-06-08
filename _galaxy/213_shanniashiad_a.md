@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      213 Shanniashiad A is a star in the constellation Shannias
+      213 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 391.42 ly
 apparent_magnitude: 8.87
 absolute_magnitude: 3.48

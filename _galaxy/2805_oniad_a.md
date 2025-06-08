@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2805 Oniad A is a star in the constellation Oni
+      2805 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 615.43 ly
 apparent_magnitude: 7.24
 absolute_magnitude: 0.86

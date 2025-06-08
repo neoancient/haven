@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0065 Bethuiad A is a star in the constellation Bethu
+      0065 Bethuiad A is a star in the constellation <a href="bethu.html">Bethu</a>
 distance: 4308.96 ly
 apparent_magnitude: 11.09
 absolute_magnitude: 0.49

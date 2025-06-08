@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4659 Niniunniad A is a star in the constellation Niniun
+      4659 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 181.62 ly
 apparent_magnitude: 9.73
 absolute_magnitude: 6.00

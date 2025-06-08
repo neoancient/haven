@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2346 Saithiad is a star in the constellation Saith
+      2346 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 547.31 ly
 apparent_magnitude: 13.97
 absolute_magnitude: 7.85

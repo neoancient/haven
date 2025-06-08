@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      881 Keead is a star in the constellation Kee
+      881 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 439.76 ly
 apparent_magnitude: 13.55
 absolute_magnitude: 7.90

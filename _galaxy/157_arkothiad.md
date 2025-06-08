@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      157 Arkothiad is a star in the constellation Arkoth
+      157 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 207.59 ly
 apparent_magnitude: 10.33
 absolute_magnitude: 6.31

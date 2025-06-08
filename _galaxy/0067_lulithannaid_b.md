@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0067 Lulithannaid B is a star in the constellation Lulithan
+      0067 Lulithannaid B is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 122.97 ly
 apparent_magnitude: 8.81
 absolute_magnitude: 5.93

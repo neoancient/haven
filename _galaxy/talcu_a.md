@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Talcu A is a star in the constellation Irsa
+      Talcu A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 1021.47 ly
 apparent_magnitude: 2.08
 absolute_magnitude: -5.40

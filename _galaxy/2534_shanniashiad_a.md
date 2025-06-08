@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2534 Shanniashiad A is a star in the constellation Shannias
+      2534 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1148.11 ly
 apparent_magnitude: 6.85
 absolute_magnitude: -0.89

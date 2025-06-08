@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11093 Arkothiad A is a star in the constellation Arkoth
+      11093 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 510.97 ly
 apparent_magnitude: 8.12
 absolute_magnitude: 2.14

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1912 Noniashad A is a star in the constellation Nonias
+      1912 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 660.29 ly
 apparent_magnitude: 6.96
 absolute_magnitude: 0.43

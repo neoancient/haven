@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1980 Arniad is a star in the constellation Arni
+      1980 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1470.47 ly
 apparent_magnitude: 9.25
 absolute_magnitude: 0.98

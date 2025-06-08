@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Sairapios B is a star in the constellation Keln
+      Sairapios B is a star in the constellation <a href="keln.html">Keln</a>
 distance: 398.88 ly
 apparent_magnitude: 14.86
 absolute_magnitude: 9.42

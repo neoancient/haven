@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0031 Shanniashiad C is a star in the constellation Shannias
+      0031 Shanniashiad C is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 133.74 ly
 apparent_magnitude: 7.92
 absolute_magnitude: 4.85

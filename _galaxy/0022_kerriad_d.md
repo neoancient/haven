@@ -6,7 +6,7 @@ faction: Gilded Consortium
 sections:
   - title:
     content: >-
-      0022 Kerriad D is a star in the constellation Kerr
+      0022 Kerriad D is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 292.63 ly
 apparent_magnitude: 9.23
 absolute_magnitude: 4.47

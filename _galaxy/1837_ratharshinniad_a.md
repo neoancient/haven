@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1837 Ratharshinniad A is a star in the constellation Ratharshin
+      1837 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 181.55 ly
 apparent_magnitude: 8.54
 absolute_magnitude: 4.81

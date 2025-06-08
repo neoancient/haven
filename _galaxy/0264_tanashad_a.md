@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0264 Tanashad A is a star in the constellation Tanas
+      0264 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 171.69 ly
 apparent_magnitude: 6.62
 absolute_magnitude: 3.01

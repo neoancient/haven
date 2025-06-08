@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10598 Dialkeshiad is a star in the constellation Dialkes
+      10598 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 154.64 ly
 apparent_magnitude: 9.80
 absolute_magnitude: 6.43

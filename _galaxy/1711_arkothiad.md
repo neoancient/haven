@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1711 Arkothiad is a star in the constellation Arkoth
+      1711 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 461.92 ly
 apparent_magnitude: 8.54
 absolute_magnitude: 2.78

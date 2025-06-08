@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0013 Nignushiad B is a star in the constellation Nignus
+      0013 Nignushiad B is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 1332.27 ly
 apparent_magnitude: 12.78
 absolute_magnitude: 4.72

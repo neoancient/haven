@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      430 Urthiad is a star in the constellation Urth
+      430 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 382.72 ly
 apparent_magnitude: 10.72
 absolute_magnitude: 5.37

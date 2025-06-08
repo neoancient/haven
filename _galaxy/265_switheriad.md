@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      265 Switheriad is a star in the constellation Swither
+      265 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 272.67 ly
 apparent_magnitude: 11.04
 absolute_magnitude: 6.43

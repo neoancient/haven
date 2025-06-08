@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      19 Athiad A is a star in the constellation Ath
+      19 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 158.99 ly
 apparent_magnitude: 8.47
 absolute_magnitude: 5.03

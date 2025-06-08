@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4504 Dialkeshiad is a star in the constellation Dialkes
+      4504 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 403.47 ly
 apparent_magnitude: 10.17
 absolute_magnitude: 4.70

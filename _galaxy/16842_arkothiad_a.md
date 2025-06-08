@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16842 Arkothiad A is a star in the constellation Arkoth
+      16842 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 617.55 ly
 apparent_magnitude: 8.14
 absolute_magnitude: 1.75

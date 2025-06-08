@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1600 Lunaiad A is a star in the constellation Luna
+      1600 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 302.15 ly
 apparent_magnitude: 7.49
 absolute_magnitude: 2.65

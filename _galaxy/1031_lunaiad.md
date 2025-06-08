@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1031 Lunaiad is a star in the constellation Luna
+      1031 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 309.45 ly
 apparent_magnitude: 12.02
 absolute_magnitude: 7.13

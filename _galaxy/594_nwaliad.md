@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      594 Nwaliad is a star in the constellation Nwal
+      594 Nwaliad is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 1187.13 ly
 apparent_magnitude: 15.60
 absolute_magnitude: 7.80

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ι Nuariad B is a star in the constellation Nuari
+      ι Nuariad B is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 1188.44 ly
 apparent_magnitude: 13.67
 absolute_magnitude: 5.86

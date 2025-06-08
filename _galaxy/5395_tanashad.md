@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5395 Tanashad is a star in the constellation Tanas
+      5395 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 274.45 ly
 apparent_magnitude: 6.53
 absolute_magnitude: 1.91
@@ -31,14 +31,14 @@ planets:
     radius: 5,626.8 km<br/>(0.883 Yrths)
     surface_area: 3.979 × 10<sup>08</sup> km<sup>2</sup><br/>(0.780 Yrths)
     volume: 7.462 × 10<sup>11</sup> km<sup>3</sup><br/>(0.689 Yrths)
-    mass: 4.302 × 10<sup>24</sup> kg<br />(0.720315130865285 Yrths)
+    mass: 4.302 × 10<sup>24</sup> kg<br />(0.72 Yrths)
     density: 5.765 g/cm<sup>3</sup>
     surface_gravity: 9.056 m/s<sup>2</sup><br />(0.923 g<sub>0</sub>)
     escape_velocity: 10.102 km/s<br />(36,367 km/h)
     rotation_period: 1.062 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 653 K<br />(380 °C)
+    temperature: 1468 K<br />(1195 °C)
     surface_pressure: 983 kPa<br />(10 atm)
     composition:
       - 55.4855% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 2,103.5 km<br/>(0.330 Yrths)
         surface_area: 5.560 × 10<sup>07</sup> km<sup>2</sup><br/>(0.109 Yrths)
         volume: 3.899 × 10<sup>10</sup> km<sup>3</sup><br/>(0.036 Yrths)
-        mass: 1.143 × 10<sup>23</sup> kg<br />(0.720315130865285 Yrths)
+        mass: 1.143 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 2.933 g/cm<sup>3</sup>
         surface_gravity: 1.722 m/s<sup>2</sup><br />(0.176 g<sub>0</sub>)
         escape_velocity: 2.694 km/s<br />(9,697 km/h)
         rotation_period: 37.994 d
         axial_tilt: 18.23°
         albedo: 0.30
-        temperature: 7873 K<br />(7600 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 5395 Tanashad I b
         type: Rocky
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 1,209.6 km<br/>(0.190 Yrths)
         surface_area: 1.839 × 10<sup>07</sup> km<sup>2</sup><br/>(0.036 Yrths)
         volume: 7.414 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 2.378 × 10<sup>22</sup> kg<br />(0.720315130865285 Yrths)
+        mass: 2.378 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 3.208 g/cm<sup>3</sup>
         surface_gravity: 1.083 m/s<sup>2</sup><br />(0.110 g<sub>0</sub>)
         escape_velocity: 1.620 km/s<br />(5,832 km/h)
         rotation_period: 31.881 d
         axial_tilt: 14.34°
         albedo: 0.30
-        temperature: 7507 K<br />(7234 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 5395 Tanashad I c
         type: Rocky
         formationType: Impact formed
@@ -99,12 +99,12 @@ planets:
         radius: 1,178.4 km<br/>(0.185 Yrths)
         surface_area: 1.745 × 10<sup>07</sup> km<sup>2</sup><br/>(0.034 Yrths)
         volume: 6.855 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.987 × 10<sup>22</sup> kg<br />(0.720315130865285 Yrths)
+        mass: 1.987 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.899 g/cm<sup>3</sup>
         surface_gravity: 0.954 m/s<sup>2</sup><br />(0.097 g<sub>0</sub>)
         escape_velocity: 1.500 km/s<br />(5,401 km/h)
         rotation_period: 43.852 d
         axial_tilt: 11.82°
         albedo: 0.30
-        temperature: 7157 K<br />(6884 °C)
+        temperature: 394 K<br />(121 °C)
 ---

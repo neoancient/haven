@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      812 Shanniashiad A is a star in the constellation Shannias
+      812 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1262.77 ly
 apparent_magnitude: 6.80
 absolute_magnitude: -1.13

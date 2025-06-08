@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      812 Reggiad is a star in the constellation Reg
+      812 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 439.26 ly
 apparent_magnitude: 15.63
 absolute_magnitude: 9.98

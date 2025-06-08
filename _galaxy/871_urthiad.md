@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      871 Urthiad is a star in the constellation Urth
+      871 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 282.51 ly
 apparent_magnitude: 10.06
 absolute_magnitude: 5.37

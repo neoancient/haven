@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Oban is a star in the constellation Inna
+      Oban is a star in the constellation <a href="inna.html">Inna</a>
 distance: 824.92 ly
 apparent_magnitude: 3.70
 absolute_magnitude: -3.31

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1394 Lunaiad is a star in the constellation Luna
+      1394 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 448.80 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 5.34

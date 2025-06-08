@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      295 Urthiad is a star in the constellation Urth
+      295 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 773.97 ly
 apparent_magnitude: 17.85
 absolute_magnitude: 10.97

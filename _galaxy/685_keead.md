@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      685 Keead is a star in the constellation Kee
+      685 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 525.93 ly
 apparent_magnitude: 11.04
 absolute_magnitude: 5.00

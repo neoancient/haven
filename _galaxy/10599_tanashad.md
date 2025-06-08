@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10599 Tanashad is a star in the constellation Tanas
+      10599 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 256.41 ly
 apparent_magnitude: 6.78
 absolute_magnitude: 2.31
@@ -31,14 +31,14 @@ planets:
     radius: 6,264.0 km<br/>(0.983 Yrths)
     surface_area: 4.931 × 10<sup>08</sup> km<sup>2</sup><br/>(0.967 Yrths)
     volume: 1.030 × 10<sup>12</sup> km<sup>3</sup><br/>(0.950 Yrths)
-    mass: 6.521 × 10<sup>24</sup> kg<br />(1.0919742997771062 Yrths)
+    mass: 6.521 × 10<sup>24</sup> kg<br />(1.09 Yrths)
     density: 6.334 g/cm<sup>3</sup>
     surface_gravity: 11.077 m/s<sup>2</sup><br />(1.130 g<sub>0</sub>)
     escape_velocity: 11.788 km/s<br />(42,438 km/h)
     rotation_period: 0.831 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 523 K<br />(250 °C)
+    temperature: 492 K<br />(219 °C)
     surface_pressure: 798 kPa<br />(8 atm)
     composition:
       - 96.2261% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 3,229.1 km<br/>(0.507 Yrths)
         surface_area: 1.310 × 10<sup>08</sup> km<sup>2</sup><br/>(0.257 Yrths)
         volume: 1.410 × 10<sup>11</sup> km<sup>3</sup><br/>(0.130 Yrths)
-        mass: 3.939 × 10<sup>23</sup> kg<br />(1.0919742997771062 Yrths)
+        mass: 3.939 × 10<sup>23</sup> kg<br />(0.066 Yrths)
         density: 2.793 g/cm<sup>3</sup>
         surface_gravity: 2.518 m/s<sup>2</sup><br />(0.257 g<sub>0</sub>)
         escape_velocity: 4.035 km/s<br />(14,526 km/h)
         rotation_period: 34.249 d
         axial_tilt: 37.68°
         albedo: 0.30
-        temperature: 5874 K<br />(5601 °C)
+        temperature: 384 K<br />(111 °C)
   - name: 10599 Tanashad II
     type: Gas dwarf
     aphelion: 421,578,972 km<br />2.818 AU
@@ -76,14 +76,14 @@ planets:
     radius: 18,661.4 km<br/>(2.929 Yrths)
     surface_area: 4.376 × 10<sup>09</sup> km<sup>2</sup><br/>(8.580 Yrths)
     volume: 2.722 × 10<sup>13</sup> km<sup>3</sup><br/>(25.131 Yrths)
-    mass: 5.668 × 10<sup>25</sup> kg<br />(9.491311121750957 Yrths)
+    mass: 5.668 × 10<sup>25</sup> kg<br />(9.49 Yrths)
     density: 2.082 g/cm<sup>3</sup>
     surface_gravity: 10.849 m/s<sup>2</sup><br />(1.106 g<sub>0</sub>)
     escape_velocity: 20.136 km/s<br />(72,489 km/h)
     rotation_period: 0.402 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 449 K<br />(176 °C)
+    temperature: 403 K<br />(130 °C)
     composition:
       - 87.8041% hydrogen
       - 9.7901% helium
@@ -102,14 +102,14 @@ planets:
         radius: 10,891.9 km<br/>(1.710 Yrths)
         surface_area: 1.491 × 10<sup>09</sup> km<sup>2</sup><br/>(2.923 Yrths)
         volume: 5.412 × 10<sup>12</sup> km<sup>3</sup><br/>(4.997 Yrths)
-        mass: 1.131 × 10<sup>25</sup> kg<br />(9.491311121750957 Yrths)
+        mass: 1.131 × 10<sup>25</sup> kg<br />(1.894 Yrths)
         density: 2.089 g/cm<sup>3</sup>
         surface_gravity: 6.354 m/s<sup>2</sup><br />(0.648 g<sub>0</sub>)
         escape_velocity: 11.773 km/s<br />(42,382 km/h)
         rotation_period: 54.811 d
         axial_tilt: 19.24°
         albedo: 0.30
-        temperature: 2960 K<br />(2687 °C)
+        temperature: 279 K<br />(6 °C)
       - name: 10599 Tanashad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -122,14 +122,14 @@ planets:
         radius: 16,598.2 km<br/>(2.605 Yrths)
         surface_area: 3.462 × 10<sup>09</sup> km<sup>2</sup><br/>(6.787 Yrths)
         volume: 1.915 × 10<sup>13</sup> km<sup>3</sup><br/>(17.683 Yrths)
-        mass: 4.524 × 10<sup>25</sup> kg<br />(9.491311121750957 Yrths)
+        mass: 4.524 × 10<sup>25</sup> kg<br />(7.576 Yrths)
         density: 2.362 g/cm<sup>3</sup>
         surface_gravity: 10.946 m/s<sup>2</sup><br />(1.116 g<sub>0</sub>)
         escape_velocity: 19.075 km/s<br />(68,671 km/h)
         rotation_period: 32.516 d
         axial_tilt: 7.20°
         albedo: 0.30
-        temperature: 2823 K<br />(2549 °C)
+        temperature: 279 K<br />(6 °C)
       - name: 10599 Tanashad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 14,045.0 km<br/>(2.205 Yrths)
         surface_area: 2.479 × 10<sup>09</sup> km<sup>2</sup><br/>(4.860 Yrths)
         volume: 1.161 × 10<sup>13</sup> km<sup>3</sup><br/>(10.714 Yrths)
-        mass: 2.492 × 10<sup>25</sup> kg<br />(9.491311121750957 Yrths)
+        mass: 2.492 × 10<sup>25</sup> kg<br />(4.174 Yrths)
         density: 2.148 g/cm<sup>3</sup>
         surface_gravity: 8.422 m/s<sup>2</sup><br />(0.859 g<sub>0</sub>)
         escape_velocity: 15.391 km/s<br />(55,408 km/h)
         rotation_period: 49.965 d
         axial_tilt: 28.83°
         albedo: 0.30
-        temperature: 2691 K<br />(2418 °C)
+        temperature: 279 K<br />(6 °C)
   - name: 10599 Tanashad III
     type: Gas dwarf
     aphelion: 863,135,769 km<br />5.770 AU
@@ -161,14 +161,14 @@ planets:
     radius: 21,533.0 km<br/>(3.380 Yrths)
     surface_area: 5.827 × 10<sup>09</sup> km<sup>2</sup><br/>(11.423 Yrths)
     volume: 4.182 × 10<sup>13</sup> km<sup>3</sup><br/>(38.609 Yrths)
-    mass: 6.275 × 10<sup>25</sup> kg<br />(10.506932927909453 Yrths)
+    mass: 6.275 × 10<sup>25</sup> kg<br />(10.51 Yrths)
     density: 1.500 g/cm<sup>3</sup>
     surface_gravity: 9.020 m/s<sup>2</sup><br />(0.920 g<sub>0</sub>)
     escape_velocity: 19.723 km/s<br />(71,001 km/h)
     rotation_period: 0.392 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 331 K<br />(58 °C)
+    temperature: 300 K<br />(27 °C)
     composition:
       - 58.8011% hydrogen
       - 37.7958% helium
@@ -188,14 +188,14 @@ planets:
         radius: 16,326.3 km<br/>(2.563 Yrths)
         surface_area: 3.350 × 10<sup>09</sup> km<sup>2</sup><br/>(6.567 Yrths)
         volume: 1.823 × 10<sup>13</sup> km<sup>3</sup><br/>(16.828 Yrths)
-        mass: 3.760 × 10<sup>25</sup> kg<br />(10.506932927909453 Yrths)
+        mass: 3.760 × 10<sup>25</sup> kg<br />(6.296 Yrths)
         density: 2.063 g/cm<sup>3</sup>
         surface_gravity: 9.403 m/s<sup>2</sup><br />(0.959 g<sub>0</sub>)
         escape_velocity: 17.534 km/s<br />(63,122 km/h)
         rotation_period: 67.537 d
         axial_tilt: 20.70°
         albedo: 0.30
-        temperature: 2114 K<br />(1841 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 10599 Tanashad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -208,14 +208,14 @@ planets:
         radius: 18,214.0 km<br/>(2.859 Yrths)
         surface_area: 4.169 × 10<sup>09</sup> km<sup>2</sup><br/>(8.173 Yrths)
         volume: 2.531 × 10<sup>13</sup> km<sup>3</sup><br/>(23.366 Yrths)
-        mass: 5.239 × 10<sup>25</sup> kg<br />(10.506932927909453 Yrths)
+        mass: 5.239 × 10<sup>25</sup> kg<br />(8.772 Yrths)
         density: 2.070 g/cm<sup>3</sup>
         surface_gravity: 10.526 m/s<sup>2</sup><br />(1.073 g<sub>0</sub>)
         escape_velocity: 19.595 km/s<br />(70,541 km/h)
         rotation_period: 44.045 d
         axial_tilt: 22.62°
         albedo: 0.30
-        temperature: 2016 K<br />(1742 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 10599 Tanashad III c
         type: Icy
         formationType: Captured
@@ -228,14 +228,14 @@ planets:
         radius: 13,116.8 km<br/>(2.059 Yrths)
         surface_area: 2.162 × 10<sup>09</sup> km<sup>2</sup><br/>(4.239 Yrths)
         volume: 9.453 × 10<sup>12</sup> km<sup>3</sup><br/>(8.727 Yrths)
-        mass: 1.716 × 10<sup>25</sup> kg<br />(10.506932927909453 Yrths)
+        mass: 1.716 × 10<sup>25</sup> kg<br />(2.873 Yrths)
         density: 1.815 g/cm<sup>3</sup>
         surface_gravity: 6.646 m/s<sup>2</sup><br />(0.678 g<sub>0</sub>)
         escape_velocity: 13.213 km/s<br />(47,568 km/h)
         rotation_period: 55.007 d
         axial_tilt: 12.61°
         albedo: 0.30
-        temperature: 1922 K<br />(1649 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 10599 Tanashad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -248,14 +248,14 @@ planets:
         radius: 10,611.7 km<br/>(1.666 Yrths)
         surface_area: 1.415 × 10<sup>09</sup> km<sup>2</sup><br/>(2.774 Yrths)
         volume: 5.005 × 10<sup>12</sup> km<sup>3</sup><br/>(4.621 Yrths)
-        mass: 8.810 × 10<sup>24</sup> kg<br />(10.506932927909453 Yrths)
+        mass: 8.810 × 10<sup>24</sup> kg<br />(1.475 Yrths)
         density: 1.760 g/cm<sup>3</sup>
         surface_gravity: 5.215 m/s<sup>2</sup><br />(0.532 g<sub>0</sub>)
         escape_velocity: 10.527 km/s<br />(37,898 km/h)
         rotation_period: 54.355 d
         axial_tilt: 19.81°
         albedo: 0.30
-        temperature: 1832 K<br />(1559 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 10599 Tanashad IV
     type: Gas giant
     aphelion: 1,603,024,192 km<br />10.715 AU
@@ -267,14 +267,14 @@ planets:
     radius: 210.4 km<br/>(0.033 Yrths)
     surface_area: 5.565 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.903 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.250 × 10<sup>27</sup> kg<br />(209.37029324969006 Yrths)
+    mass: 1.250 × 10<sup>27</sup> kg<br />(209.37 Yrths)
     density: 32032556.682 g/cm<sup>3</sup>
     surface_gravity: 1881977.883 m/s<sup>2</sup><br />(191908.336 g<sub>0</sub>)
     escape_velocity: 890.587 km/s<br />(3,206,112 km/h)
     rotation_period: 0.244 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 628 K<br />(355 °C)
+    temperature: 609 K<br />(336 °C)
     composition:
       - 85.9979% hydrogen
       - 8.9622% helium
@@ -295,14 +295,14 @@ planets:
         radius: 299,832.6 km<br/>(47.062 Yrths)
         surface_area: 1.130 × 10<sup>12</sup> km<sup>2</sup><br/>(2214.841 Yrths)
         volume: 1.129 × 10<sup>17</sup> km<sup>3</sup><br/>(104235.071 Yrths)
-        mass: 1.334 × 10<sup>29</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 1.334 × 10<sup>29</sup> kg<br />(22344.818 Yrths)
         density: 1.182 g/cm<sup>3</sup>
         surface_gravity: 98.936 m/s<sup>2</sup><br />(10.089 g<sub>0</sub>)
         escape_velocity: 243.740 km/s<br />(877,464 km/h)
         rotation_period: 47.164 d
         axial_tilt: 11.49°
         albedo: 0.30
-        temperature: 456 K<br />(183 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 10599 Tanashad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -315,14 +315,14 @@ planets:
         radius: 125,204.4 km<br/>(19.652 Yrths)
         surface_area: 1.970 × 10<sup>11</sup> km<sup>2</sup><br/>(386.210 Yrths)
         volume: 8.221 × 10<sup>15</sup> km<sup>3</sup><br/>(7589.890 Yrths)
-        mass: 2.302 × 10<sup>28</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 2.302 × 10<sup>28</sup> kg<br />(3854.652 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 97.877 m/s<sup>2</sup><br />(9.981 g<sub>0</sub>)
         escape_velocity: 156.661 km/s<br />(563,979 km/h)
         rotation_period: 56.852 d
         axial_tilt: 24.42°
         albedo: 0.30
-        temperature: 435 K<br />(162 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 10599 Tanashad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -335,14 +335,14 @@ planets:
         radius: 137,343.0 km<br/>(21.558 Yrths)
         surface_area: 2.370 × 10<sup>11</sup> km<sup>2</sup><br/>(464.727 Yrths)
         volume: 1.085 × 10<sup>16</sup> km<sup>3</sup><br/>(10018.363 Yrths)
-        mass: 2.322 × 10<sup>28</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 2.322 × 10<sup>28</sup> kg<br />(3887.362 Yrths)
         density: 2.139 g/cm<sup>3</sup>
         surface_gravity: 82.031 m/s<sup>2</sup><br />(8.365 g<sub>0</sub>)
         escape_velocity: 150.211 km/s<br />(540,760 km/h)
         rotation_period: 33.888 d
         axial_tilt: 24.62°
         albedo: 0.30
-        temperature: 395 K<br />(122 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 10599 Tanashad IV d
         type: Icy
         formationType: Accreted
@@ -355,14 +355,14 @@ planets:
         radius: 166,414.9 km<br/>(26.121 Yrths)
         surface_area: 3.480 × 10<sup>11</sup> km<sup>2</sup><br/>(682.290 Yrths)
         volume: 1.930 × 10<sup>16</sup> km<sup>3</sup><br/>(17821.883 Yrths)
-        mass: 2.897 × 10<sup>28</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 2.897 × 10<sup>28</sup> kg<br />(4850.218 Yrths)
         density: 1.500 g/cm<sup>3</sup>
         surface_gravity: 69.713 m/s<sup>2</sup><br />(7.109 g<sub>0</sub>)
         escape_velocity: 152.427 km/s<br />(548,738 km/h)
         rotation_period: 48.017 d
         axial_tilt: 14.87°
         albedo: 0.30
-        temperature: 377 K<br />(104 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 10599 Tanashad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -375,14 +375,14 @@ planets:
         radius: 170,080.3 km<br/>(26.696 Yrths)
         surface_area: 3.635 × 10<sup>11</sup> km<sup>2</sup><br/>(712.677 Yrths)
         volume: 2.061 × 10<sup>16</sup> km<sup>3</sup><br/>(19025.636 Yrths)
-        mass: 4.485 × 10<sup>28</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 4.485 × 10<sup>28</sup> kg<br />(7509.531 Yrths)
         density: 2.176 g/cm<sup>3</sup>
         surface_gravity: 103.333 m/s<sup>2</sup><br />(10.537 g<sub>0</sub>)
         escape_velocity: 187.611 km/s<br />(675,398 km/h)
         rotation_period: 42.818 d
         axial_tilt: 14.90°
         albedo: 0.30
-        temperature: 257 K<br />(-16 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 10599 Tanashad IV f
         type: Icy
         formationType: Captured
@@ -395,14 +395,14 @@ planets:
         radius: 153,361.1 km<br/>(24.072 Yrths)
         surface_area: 2.956 × 10<sup>11</sup> km<sup>2</sup><br/>(579.449 Yrths)
         volume: 1.511 × 10<sup>16</sup> km<sup>3</sup><br/>(13948.338 Yrths)
-        mass: 2.061 × 10<sup>28</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 2.061 × 10<sup>28</sup> kg<br />(3451.569 Yrths)
         density: 1.364 g/cm<sup>3</sup>
         surface_gravity: 58.415 m/s<sup>2</sup><br />(5.957 g<sub>0</sub>)
         escape_velocity: 133.946 km/s<br />(482,204 km/h)
         rotation_period: 74.688 d
         axial_tilt: 19.80°
         albedo: 0.30
-        temperature: 234 K<br />(-39 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 10599 Tanashad IV g
         type: Icy
         formationType: Accreted
@@ -415,14 +415,14 @@ planets:
         radius: 180,246.5 km<br/>(28.292 Yrths)
         surface_area: 4.083 × 10<sup>11</sup> km<sup>2</sup><br/>(800.421 Yrths)
         volume: 2.453 × 10<sup>16</sup> km<sup>3</sup><br/>(22645.277 Yrths)
-        mass: 3.198 × 10<sup>28</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 3.198 × 10<sup>28</sup> kg<br />(5355.170 Yrths)
         density: 1.304 g/cm<sup>3</sup>
         surface_gravity: 65.611 m/s<sup>2</sup><br />(6.690 g<sub>0</sub>)
         escape_velocity: 153.897 km/s<br />(554,030 km/h)
         rotation_period: 78.893 d
         axial_tilt: 24.69°
         albedo: 0.30
-        temperature: 223 K<br />(-50 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 10599 Tanashad IV h
         type: Icy
         formationType: Accreted
@@ -435,14 +435,14 @@ planets:
         radius: 150,363.4 km<br/>(23.601 Yrths)
         surface_area: 2.841 × 10<sup>11</sup> km<sup>2</sup><br/>(557.018 Yrths)
         volume: 1.424 × 10<sup>16</sup> km<sup>3</sup><br/>(13146.306 Yrths)
-        mass: 2.045 × 10<sup>28</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 2.045 × 10<sup>28</sup> kg<br />(3423.901 Yrths)
         density: 1.436 g/cm<sup>3</sup>
         surface_gravity: 60.280 m/s<sup>2</sup><br />(6.147 g<sub>0</sub>)
         escape_velocity: 134.731 km/s<br />(485,031 km/h)
         rotation_period: 43.475 d
         axial_tilt: 12.34°
         albedo: 0.30
-        temperature: 203 K<br />(-70 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 10599 Tanashad IV i
         type: Icy
         formationType: Captured
@@ -455,14 +455,14 @@ planets:
         radius: 161,640.3 km<br/>(25.371 Yrths)
         surface_area: 3.283 × 10<sup>11</sup> km<sup>2</sup><br/>(643.701 Yrths)
         volume: 1.769 × 10<sup>16</sup> km<sup>3</sup><br/>(16331.503 Yrths)
-        mass: 2.670 × 10<sup>28</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 2.670 × 10<sup>28</sup> kg<br />(4471.298 Yrths)
         density: 1.509 g/cm<sup>3</sup>
         surface_gravity: 68.119 m/s<sup>2</sup><br />(6.946 g<sub>0</sub>)
         escape_velocity: 148.498 km/s<br />(534,592 km/h)
         rotation_period: 57.419 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 184 K<br />(-89 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 10599 Tanashad IV j
         type: Icy
         formationType: Captured
@@ -475,14 +475,14 @@ planets:
         radius: 195,329.2 km<br/>(30.659 Yrths)
         surface_area: 4.795 × 10<sup>11</sup> km<sup>2</sup><br/>(939.981 Yrths)
         volume: 3.122 × 10<sup>16</sup> km<sup>3</sup><br/>(28819.003 Yrths)
-        mass: 4.141 × 10<sup>28</sup> kg<br />(209.37029324969006 Yrths)
+        mass: 4.141 × 10<sup>28</sup> kg<br />(6933.788 Yrths)
         density: 1.326 g/cm<sup>3</sup>
         surface_gravity: 72.339 m/s<sup>2</sup><br />(7.377 g<sub>0</sub>)
         escape_velocity: 168.221 km/s<br />(605,594 km/h)
         rotation_period: 68.119 d
         axial_tilt: 8.63°
         albedo: 0.30
-        temperature: 145 K<br />(-128 °C)
+        temperature: 147 K<br />(-126 °C)
   - name: 10599 Tanashad V
     type: Gas dwarf
     aphelion: 3,488,027,073 km<br />23.316 AU
@@ -494,14 +494,14 @@ planets:
     radius: 25,009.2 km<br/>(3.925 Yrths)
     surface_area: 7.860 × 10<sup>09</sup> km<sup>2</sup><br/>(15.409 Yrths)
     volume: 6.552 × 10<sup>13</sup> km<sup>3</sup><br/>(60.489 Yrths)
-    mass: 1.289 × 10<sup>26</sup> kg<br />(21.589878540506927 Yrths)
+    mass: 1.289 × 10<sup>26</sup> kg<br />(21.59 Yrths)
     density: 1.968 g/cm<sup>3</sup>
     surface_gravity: 13.740 m/s<sup>2</sup><br />(1.401 g<sub>0</sub>)
     escape_velocity: 26.233 km/s<br />(94,440 km/h)
     rotation_period: 0.338 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 182 K<br />(-91 °C)
+    temperature: 165 K<br />(-108 °C)
     composition:
       - 78.1240% hydrogen
       - 19.8833% helium
@@ -522,14 +522,14 @@ planets:
         radius: 25,624.8 km<br/>(4.022 Yrths)
         surface_area: 8.251 × 10<sup>09</sup> km<sup>2</sup><br/>(16.177 Yrths)
         volume: 7.048 × 10<sup>13</sup> km<sup>3</sup><br/>(65.067 Yrths)
-        mass: 4.934 × 10<sup>25</sup> kg<br />(21.589878540506927 Yrths)
+        mass: 4.934 × 10<sup>25</sup> kg<br />(8.261 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 5.008 m/s<sup>2</sup><br />(0.511 g<sub>0</sub>)
         escape_velocity: 16.031 km/s<br />(57,713 km/h)
         rotation_period: 81.553 d
         axial_tilt: 10.63°
         albedo: 0.30
-        temperature: 987 K<br />(714 °C)
+        temperature: 107 K<br />(-167 °C)
       - name: 10599 Tanashad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -542,14 +542,14 @@ planets:
         radius: 33,673.8 km<br/>(5.285 Yrths)
         surface_area: 1.425 × 10<sup>10</sup> km<sup>2</sup><br/>(27.936 Yrths)
         volume: 1.599 × 10<sup>14</sup> km<sup>3</sup><br/>(147.657 Yrths)
-        mass: 3.692 × 10<sup>26</sup> kg<br />(21.589878540506927 Yrths)
+        mass: 3.692 × 10<sup>26</sup> kg<br />(61.827 Yrths)
         density: 2.309 g/cm<sup>3</sup>
         surface_gravity: 21.704 m/s<sup>2</sup><br />(2.213 g<sub>0</sub>)
         escape_velocity: 38.258 km/s<br />(137,729 km/h)
         rotation_period: 46.692 d
         axial_tilt: 11.65°
         albedo: 0.30
-        temperature: 941 K<br />(668 °C)
+        temperature: 107 K<br />(-167 °C)
       - name: 10599 Tanashad V c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -562,14 +562,14 @@ planets:
         radius: 28,082.0 km<br/>(4.408 Yrths)
         surface_area: 9.910 × 10<sup>09</sup> km<sup>2</sup><br/>(19.429 Yrths)
         volume: 9.276 × 10<sup>13</sup> km<sup>3</sup><br/>(85.637 Yrths)
-        mass: 1.767 × 10<sup>26</sup> kg<br />(21.589878540506927 Yrths)
+        mass: 1.767 × 10<sup>26</sup> kg<br />(29.593 Yrths)
         density: 1.905 g/cm<sup>3</sup>
         surface_gravity: 14.937 m/s<sup>2</sup><br />(1.523 g<sub>0</sub>)
         escape_velocity: 28.984 km/s<br />(104,342 km/h)
         rotation_period: 37.192 d
         axial_tilt: 22.93°
         albedo: 0.30
-        temperature: 897 K<br />(624 °C)
+        temperature: 107 K<br />(-167 °C)
       - name: 10599 Tanashad V d
         type: Icy
         formationType: Impact formed
@@ -582,12 +582,12 @@ planets:
         radius: 19,779.0 km<br/>(3.105 Yrths)
         surface_area: 4.916 × 10<sup>09</sup> km<sup>2</sup><br/>(9.638 Yrths)
         volume: 3.241 × 10<sup>13</sup> km<sup>3</sup><br/>(29.922 Yrths)
-        mass: 5.118 × 10<sup>25</sup> kg<br />(21.589878540506927 Yrths)
+        mass: 5.118 × 10<sup>25</sup> kg<br />(8.570 Yrths)
         density: 1.579 g/cm<sup>3</sup>
         surface_gravity: 8.719 m/s<sup>2</sup><br />(0.889 g<sub>0</sub>)
         escape_velocity: 18.585 km/s<br />(66,905 km/h)
         rotation_period: 51.593 d
         axial_tilt: 8.28°
         albedo: 0.30
-        temperature: 816 K<br />(542 °C)
+        temperature: 107 K<br />(-167 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      806 Erikkiad is a star in the constellation Erik
+      806 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 203.84 ly
 apparent_magnitude: 10.40
 absolute_magnitude: 6.43

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      661 Keead is a star in the constellation Kee
+      661 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 338.21 ly
 apparent_magnitude: 9.91
 absolute_magnitude: 4.83

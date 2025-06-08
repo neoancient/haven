@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      708 Narashiad is a star in the constellation Naras
+      708 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 299.95 ly
 apparent_magnitude: 16.87
 absolute_magnitude: 12.05

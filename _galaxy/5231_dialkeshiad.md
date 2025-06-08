@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5231 Dialkeshiad is a star in the constellation Dialkes
+      5231 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 415.21 ly
 apparent_magnitude: 10.23
 absolute_magnitude: 4.70

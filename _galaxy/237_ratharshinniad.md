@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      237 Ratharshinniad is a star in the constellation Ratharshin
+      237 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 942.46 ly
 apparent_magnitude: 12.10
 absolute_magnitude: 4.80

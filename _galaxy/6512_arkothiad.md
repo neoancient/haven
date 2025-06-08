@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6512 Arkothiad is a star in the constellation Arkoth
+      6512 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 234.08 ly
 apparent_magnitude: 9.90
 absolute_magnitude: 5.62
@@ -31,14 +31,14 @@ planets:
     radius: 4,448.1 km<br/>(0.698 Yrths)
     surface_area: 2.486 × 10<sup>08</sup> km<sup>2</sup><br/>(0.487 Yrths)
     volume: 3.687 × 10<sup>11</sup> km<sup>3</sup><br/>(0.340 Yrths)
-    mass: 2.376 × 10<sup>24</sup> kg<br />(0.39784915421178324 Yrths)
+    mass: 2.376 × 10<sup>24</sup> kg<br />(0.40 Yrths)
     density: 6.445 g/cm<sup>3</sup>
     surface_gravity: 8.004 m/s<sup>2</sup><br />(0.816 g<sub>0</sub>)
     escape_velocity: 8.444 km/s<br />(30,398 km/h)
     rotation_period: 2.469 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 425 K<br />(152 °C)
+    temperature: 910 K<br />(637 °C)
     surface_pressure: 21 kPa<br />(0 atm)
     composition:
       - 51.7894% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 1,368.9 km<br/>(0.215 Yrths)
         surface_area: 2.355 × 10<sup>07</sup> km<sup>2</sup><br/>(0.046 Yrths)
         volume: 1.074 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 3.213 × 10<sup>22</sup> kg<br />(0.39784915421178324 Yrths)
+        mass: 3.213 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.990 g/cm<sup>3</sup>
         surface_gravity: 1.143 m/s<sup>2</sup><br />(0.117 g<sub>0</sub>)
         escape_velocity: 1.770 km/s<br />(6,372 km/h)
         rotation_period: 29.848 d
         axial_tilt: 13.49°
         albedo: 0.30
-        temperature: 6204 K<br />(5931 °C)
+        temperature: 330 K<br />(57 °C)
   - name: 6512 Arkothiad II
     type: Terrestrial
     aphelion: 114,380,237 km<br />0.765 AU
@@ -77,14 +77,14 @@ planets:
     radius: 4,829.4 km<br/>(0.758 Yrths)
     surface_area: 2.931 × 10<sup>08</sup> km<sup>2</sup><br/>(0.575 Yrths)
     volume: 4.718 × 10<sup>11</sup> km<sup>3</sup><br/>(0.436 Yrths)
-    mass: 2.383 × 10<sup>24</sup> kg<br />(0.3990815364604877 Yrths)
+    mass: 2.383 × 10<sup>24</sup> kg<br />(0.40 Yrths)
     density: 5.051 g/cm<sup>3</sup>
     surface_gravity: 6.811 m/s<sup>2</sup><br />(0.695 g<sub>0</sub>)
     escape_velocity: 8.116 km/s<br />(29,219 km/h)
     rotation_period: 1.810 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 315 K<br />(42 °C)
+    temperature: 642 K<br />(369 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 60.4546% methane
@@ -103,14 +103,14 @@ planets:
         radius: 1,371.4 km<br/>(0.215 Yrths)
         surface_area: 2.363 × 10<sup>07</sup> km<sup>2</sup><br/>(0.046 Yrths)
         volume: 1.080 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 3.561 × 10<sup>22</sup> kg<br />(0.3990815364604877 Yrths)
+        mass: 3.561 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 3.296 g/cm<sup>3</sup>
         surface_gravity: 1.262 m/s<sup>2</sup><br />(0.129 g<sub>0</sub>)
         escape_velocity: 1.862 km/s<br />(6,702 km/h)
         rotation_period: 48.807 d
         axial_tilt: 19.34°
         albedo: 0.30
-        temperature: 4696 K<br />(4423 °C)
+        temperature: 255 K<br />(-18 °C)
   - name: 6512 Arkothiad III
     type: Terrestrial
     aphelion: 186,461,053 km<br />1.246 AU
@@ -122,7 +122,7 @@ planets:
     radius: 5,697.1 km<br/>(0.894 Yrths)
     surface_area: 4.079 × 10<sup>08</sup> km<sup>2</sup><br/>(0.800 Yrths)
     volume: 7.745 × 10<sup>11</sup> km<sup>3</sup><br/>(0.715 Yrths)
-    mass: 4.622 × 10<sup>24</sup> kg<br />(0.7738765574483107 Yrths)
+    mass: 4.622 × 10<sup>24</sup> kg<br />(0.77 Yrths)
     density: 5.967 g/cm<sup>3</sup>
     surface_gravity: 9.491 m/s<sup>2</sup><br />(0.968 g<sub>0</sub>)
     escape_velocity: 10.406 km/s<br />(37,462 km/h)
@@ -143,14 +143,14 @@ planets:
         radius: 1,940.4 km<br/>(0.305 Yrths)
         surface_area: 4.731 × 10<sup>07</sup> km<sup>2</sup><br/>(0.093 Yrths)
         volume: 3.060 × 10<sup>10</sup> km<sup>3</sup><br/>(0.028 Yrths)
-        mass: 3.573 × 10<sup>22</sup> kg<br />(0.7738765574483107 Yrths)
+        mass: 3.573 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 1.167 g/cm<sup>3</sup>
         surface_gravity: 0.632 m/s<sup>2</sup><br />(0.064 g<sub>0</sub>)
         escape_velocity: 1.568 km/s<br />(5,644 km/h)
         rotation_period: 69.769 d
         axial_tilt: 10.70°
         albedo: 0.30
-        temperature: 2824 K<br />(2550 °C)
+        temperature: 197 K<br />(-77 °C)
       - name: 6512 Arkothiad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -163,14 +163,14 @@ planets:
         radius: 1,481.8 km<br/>(0.233 Yrths)
         surface_area: 2.759 × 10<sup>07</sup> km<sup>2</sup><br/>(0.054 Yrths)
         volume: 1.363 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 3.208 × 10<sup>22</sup> kg<br />(0.7738765574483107 Yrths)
+        mass: 3.208 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.353 g/cm<sup>3</sup>
         surface_gravity: 0.974 m/s<sup>2</sup><br />(0.099 g<sub>0</sub>)
         escape_velocity: 1.700 km/s<br />(6,119 km/h)
         rotation_period: 45.500 d
         axial_tilt: 22.44°
         albedo: 0.30
-        temperature: 2692 K<br />(2419 °C)
+        temperature: 197 K<br />(-77 °C)
   - name: 6512 Arkothiad IV
     type: Large terrestrial
     aphelion: 315,977,255 km<br />2.112 AU
@@ -182,14 +182,14 @@ planets:
     radius: 8,357.2 km<br/>(1.312 Yrths)
     surface_area: 8.777 × 10<sup>08</sup> km<sup>2</sup><br/>(1.721 Yrths)
     volume: 2.445 × 10<sup>12</sup> km<sup>3</sup><br/>(2.257 Yrths)
-    mass: 1.845 × 10<sup>25</sup> kg<br />(3.089294220801357 Yrths)
+    mass: 1.845 × 10<sup>25</sup> kg<br />(3.09 Yrths)
     density: 7.546 g/cm<sup>3</sup>
     surface_gravity: 17.606 m/s<sup>2</sup><br />(1.795 g<sub>0</sub>)
     escape_velocity: 17.166 km/s<br />(61,799 km/h)
     rotation_period: 0.742 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 194 K<br />(-80 °C)
+    temperature: 240 K<br />(-33 °C)
     surface_pressure: 146 kPa<br />(1 atm)
     composition:
       - 96.8996% methane
@@ -208,14 +208,14 @@ planets:
         radius: 2,927.0 km<br/>(0.459 Yrths)
         surface_area: 1.077 × 10<sup>08</sup> km<sup>2</sup><br/>(0.211 Yrths)
         volume: 1.050 × 10<sup>11</sup> km<sup>3</sup><br/>(0.097 Yrths)
-        mass: 2.874 × 10<sup>23</sup> kg<br />(3.089294220801357 Yrths)
+        mass: 2.874 × 10<sup>23</sup> kg<br />(0.048 Yrths)
         density: 2.736 g/cm<sup>3</sup>
         surface_gravity: 2.235 m/s<sup>2</sup><br />(0.228 g<sub>0</sub>)
         escape_velocity: 3.620 km/s<br />(13,032 km/h)
         rotation_period: 51.282 d
         axial_tilt: 19.70°
         albedo: 0.30
-        temperature: 1816 K<br />(1543 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 6512 Arkothiad IV b
         type: Icy
         formationType: Impact formed
@@ -228,14 +228,14 @@ planets:
         radius: 8,758.2 km<br/>(1.375 Yrths)
         surface_area: 9.639 × 10<sup>08</sup> km<sup>2</sup><br/>(1.890 Yrths)
         volume: 2.814 × 10<sup>12</sup> km<sup>3</sup><br/>(2.598 Yrths)
-        mass: 3.525 × 10<sup>24</sup> kg<br />(3.089294220801357 Yrths)
+        mass: 3.525 × 10<sup>24</sup> kg<br />(0.590 Yrths)
         density: 1.252 g/cm<sup>3</sup>
         surface_gravity: 3.063 m/s<sup>2</sup><br />(0.312 g<sub>0</sub>)
         escape_velocity: 7.329 km/s<br />(26,386 km/h)
         rotation_period: 70.661 d
         axial_tilt: 18.78°
         albedo: 0.30
-        temperature: 1731 K<br />(1458 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 6512 Arkothiad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -248,14 +248,14 @@ planets:
         radius: 6,560.8 km<br/>(1.030 Yrths)
         surface_area: 5.409 × 10<sup>08</sup> km<sup>2</sup><br/>(1.060 Yrths)
         volume: 1.183 × 10<sup>12</sup> km<sup>3</sup><br/>(1.092 Yrths)
-        mass: 2.299 × 10<sup>24</sup> kg<br />(3.089294220801357 Yrths)
+        mass: 2.299 × 10<sup>24</sup> kg<br />(0.385 Yrths)
         density: 1.944 g/cm<sup>3</sup>
         surface_gravity: 3.560 m/s<sup>2</sup><br />(0.363 g<sub>0</sub>)
         escape_velocity: 6.840 km/s<br />(24,623 km/h)
         rotation_period: 60.095 d
         axial_tilt: 18.00°
         albedo: 0.30
-        temperature: 1651 K<br />(1377 °C)
+        temperature: 152 K<br />(-121 °C)
   - name: 6512 Arkothiad V
     type: Large terrestrial
     aphelion: 522,498,232 km<br />3.493 AU
@@ -267,14 +267,14 @@ planets:
     radius: 8,755.0 km<br/>(1.374 Yrths)
     surface_area: 9.632 × 10<sup>08</sup> km<sup>2</sup><br/>(1.888 Yrths)
     volume: 2.811 × 10<sup>12</sup> km<sup>3</sup><br/>(2.595 Yrths)
-    mass: 1.872 × 10<sup>25</sup> kg<br />(3.13502463649912 Yrths)
+    mass: 1.872 × 10<sup>25</sup> kg<br />(3.14 Yrths)
     density: 6.660 g/cm<sup>3</sup>
     surface_gravity: 16.280 m/s<sup>2</sup><br />(1.660 g<sub>0</sub>)
     escape_velocity: 16.895 km/s<br />(60,824 km/h)
     rotation_period: 0.696 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 158 K<br />(-116 °C)
+    temperature: 229 K<br />(-44 °C)
     surface_pressure: 208 kPa<br />(2 atm)
     composition:
       - 79.4419% methane
@@ -295,14 +295,14 @@ planets:
         radius: 3,173.5 km<br/>(0.498 Yrths)
         surface_area: 1.266 × 10<sup>08</sup> km<sup>2</sup><br/>(0.248 Yrths)
         volume: 1.339 × 10<sup>11</sup> km<sup>3</sup><br/>(0.124 Yrths)
-        mass: 2.356 × 10<sup>23</sup> kg<br />(3.13502463649912 Yrths)
+        mass: 2.356 × 10<sup>23</sup> kg<br />(0.039 Yrths)
         density: 1.760 g/cm<sup>3</sup>
         surface_gravity: 1.560 m/s<sup>2</sup><br />(0.159 g<sub>0</sub>)
         escape_velocity: 3.148 km/s<br />(11,334 km/h)
         rotation_period: 69.194 d
         axial_tilt: 11.65°
         albedo: 0.30
-        temperature: 1441 K<br />(1168 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 6512 Arkothiad V b
         type: Rocky
         formationType: Captured
@@ -315,14 +315,14 @@ planets:
         radius: 4,925.9 km<br/>(0.773 Yrths)
         surface_area: 3.049 × 10<sup>08</sup> km<sup>2</sup><br/>(0.598 Yrths)
         volume: 5.007 × 10<sup>11</sup> km<sup>3</sup><br/>(0.462 Yrths)
-        mass: 1.779 × 10<sup>24</sup> kg<br />(3.13502463649912 Yrths)
+        mass: 1.779 × 10<sup>24</sup> kg<br />(0.298 Yrths)
         density: 3.554 g/cm<sup>3</sup>
         surface_gravity: 4.888 m/s<sup>2</sup><br />(0.498 g<sub>0</sub>)
         escape_velocity: 6.944 km/s<br />(24,999 km/h)
         rotation_period: 34.000 d
         axial_tilt: 15.47°
         albedo: 0.30
-        temperature: 1374 K<br />(1101 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 6512 Arkothiad V c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -335,14 +335,14 @@ planets:
         radius: 4,474.1 km<br/>(0.702 Yrths)
         surface_area: 2.515 × 10<sup>08</sup> km<sup>2</sup><br/>(0.493 Yrths)
         volume: 3.751 × 10<sup>11</sup> km<sup>3</sup><br/>(0.346 Yrths)
-        mass: 8.053 × 10<sup>23</sup> kg<br />(3.13502463649912 Yrths)
+        mass: 8.053 × 10<sup>23</sup> kg<br />(0.135 Yrths)
         density: 2.147 g/cm<sup>3</sup>
         surface_gravity: 2.681 m/s<sup>2</sup><br />(0.273 g<sub>0</sub>)
         escape_velocity: 4.902 km/s<br />(17,646 km/h)
         rotation_period: 40.329 d
         axial_tilt: 22.42°
         albedo: 0.30
-        temperature: 1310 K<br />(1037 °C)
+        temperature: 117 K<br />(-156 °C)
   - name: 6512 Arkothiad VI
     type: Terrestrial
     aphelion: 877,467,605 km<br />5.865 AU
@@ -354,14 +354,14 @@ planets:
     radius: 6,121.8 km<br/>(0.961 Yrths)
     surface_area: 4.709 × 10<sup>08</sup> km<sup>2</sup><br/>(0.923 Yrths)
     volume: 9.610 × 10<sup>11</sup> km<sup>3</sup><br/>(0.887 Yrths)
-    mass: 5.550 × 10<sup>24</sup> kg<br />(0.9292532171165568 Yrths)
+    mass: 5.550 × 10<sup>24</sup> kg<br />(0.93 Yrths)
     density: 5.775 g/cm<sup>3</sup>
     surface_gravity: 9.870 m/s<sup>2</sup><br />(1.006 g<sub>0</sub>)
     escape_velocity: 11.000 km/s<br />(39,601 km/h)
     rotation_period: 1.029 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 103 K<br />(-170 °C)
+    temperature: 94 K<br />(-180 °C)
     surface_pressure: 38 kPa<br />(0 atm)
     composition:
       - 98.7030% nitrogen
@@ -379,12 +379,12 @@ planets:
         radius: 2,260.3 km<br/>(0.355 Yrths)
         surface_area: 6.420 × 10<sup>07</sup> km<sup>2</sup><br/>(0.126 Yrths)
         volume: 4.837 × 10<sup>10</sup> km<sup>3</sup><br/>(0.045 Yrths)
-        mass: 1.048 × 10<sup>23</sup> kg<br />(0.9292532171165568 Yrths)
+        mass: 1.048 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 2.167 g/cm<sup>3</sup>
         surface_gravity: 1.367 m/s<sup>2</sup><br />(0.139 g<sub>0</sub>)
         escape_velocity: 2.488 km/s<br />(8,956 km/h)
         rotation_period: 55.703 d
         axial_tilt: 32.86°
         albedo: 0.30
-        temperature: 1259 K<br />(986 °C)
+        temperature: 90 K<br />(-183 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      142 Nuariad A is a star in the constellation Nuari
+      142 Nuariad A is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 700.04 ly
 apparent_magnitude: 7.51
 absolute_magnitude: 0.85

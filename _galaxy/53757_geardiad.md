@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      53757 Geardiad is a star in the constellation Geard
+      53757 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 286.44 ly
 apparent_magnitude: 9.39
 absolute_magnitude: 4.67

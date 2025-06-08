@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1715 Anilliad is a star in the constellation Anil
+      1715 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 403.17 ly
 apparent_magnitude: 18.90
 absolute_magnitude: 13.44

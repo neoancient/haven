@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Erdinokiln A is a star in the constellation Dialkes
+      Erdinokiln A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 371.57 ly
 apparent_magnitude: 2.61
 absolute_magnitude: -2.67

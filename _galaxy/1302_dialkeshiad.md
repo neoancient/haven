@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1302 Dialkeshiad is a star in the constellation Dialkes
+      1302 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 395.13 ly
 apparent_magnitude: 12.56
 absolute_magnitude: 7.14

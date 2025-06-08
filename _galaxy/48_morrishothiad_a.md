@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      48 Morrishothiad A is a star in the constellation Morrishoth
+      48 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 473.75 ly
 apparent_magnitude: 6.72
 absolute_magnitude: 0.91

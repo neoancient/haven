@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2897 Oniad A is a star in the constellation Oni
+      2897 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 579.39 ly
 apparent_magnitude: 8.41
 absolute_magnitude: 2.16

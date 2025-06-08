@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1463 Shanniashiad A is a star in the constellation Shannias
+      1463 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1056.88 ly
 apparent_magnitude: 7.02
 absolute_magnitude: -0.53

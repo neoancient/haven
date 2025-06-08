@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Rayomiad A is a star in the constellation Rayom
+      0015 Rayomiad A is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 395.63 ly
 apparent_magnitude: 7.32
 absolute_magnitude: 1.90

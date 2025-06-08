@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1536 Tanashad is a star in the constellation Tanas
+      1536 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1060.03 ly
 apparent_magnitude: 8.03
 absolute_magnitude: 0.47

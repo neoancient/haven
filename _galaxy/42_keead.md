@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      42 Keead is a star in the constellation Kee
+      42 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 210.81 ly
 apparent_magnitude: 17.14
 absolute_magnitude: 13.09

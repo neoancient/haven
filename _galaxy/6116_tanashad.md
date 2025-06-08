@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6116 Tanashad is a star in the constellation Tanas
+      6116 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 290.99 ly
 apparent_magnitude: 10.49
 absolute_magnitude: 5.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2175 Ratharshinniad is a star in the constellation Ratharshin
+      2175 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 157.41 ly
 apparent_magnitude: 17.99
 absolute_magnitude: 14.57

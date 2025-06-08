@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      18161 Anilliad is a star in the constellation Anil
+      18161 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 771.35 ly
 apparent_magnitude: 8.45
 absolute_magnitude: 1.58

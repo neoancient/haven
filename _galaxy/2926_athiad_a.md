@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2926 Athiad A is a star in the constellation Ath
+      2926 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 419.87 ly
 apparent_magnitude: 7.71
 absolute_magnitude: 2.16

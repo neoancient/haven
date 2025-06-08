@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      40 Reggiad A is a star in the constellation Reg
+      40 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 241.71 ly
 apparent_magnitude: 6.72
 absolute_magnitude: 2.37

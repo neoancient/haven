@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1873 Keead is a star in the constellation Kee
+      1873 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 869.84 ly
 apparent_magnitude: 6.70
 absolute_magnitude: -0.43
@@ -31,14 +31,14 @@ planets:
     radius: 7,115.8 km<br/>(1.117 Yrths)
     surface_area: 6.363 × 10<sup>08</sup> km<sup>2</sup><br/>(1.247 Yrths)
     volume: 1.509 × 10<sup>12</sup> km<sup>3</sup><br/>(1.393 Yrths)
-    mass: 1.046 × 10<sup>25</sup> kg<br />(1.7507970910028943 Yrths)
+    mass: 1.046 × 10<sup>25</sup> kg<br />(1.75 Yrths)
     density: 6.928 g/cm<sup>3</sup>
     surface_gravity: 13.763 m/s<sup>2</sup><br />(1.403 g<sub>0</sub>)
     escape_velocity: 14.005 km/s<br />(50,418 km/h)
     rotation_period: 0.831 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 974 K<br />(700 °C)
+    temperature: 2039 K<br />(1765 °C)
     surface_pressure: 1,074 kPa<br />(11 atm)
     composition:
       - 56.2414% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 3,368.3 km<br/>(0.529 Yrths)
         surface_area: 1.426 × 10<sup>08</sup> km<sup>2</sup><br/>(0.280 Yrths)
         volume: 1.601 × 10<sup>11</sup> km<sup>3</sup><br/>(0.148 Yrths)
-        mass: 4.832 × 10<sup>23</sup> kg<br />(1.7507970910028943 Yrths)
+        mass: 4.832 × 10<sup>23</sup> kg<br />(0.081 Yrths)
         density: 3.019 g/cm<sup>3</sup>
         surface_gravity: 2.839 m/s<sup>2</sup><br />(0.289 g<sub>0</sub>)
         escape_velocity: 4.376 km/s<br />(15,754 km/h)
         rotation_period: 48.976 d
         axial_tilt: 18.13°
         albedo: 0.30
-        temperature: 10082 K<br />(9809 °C)
+        temperature: 593 K<br />(320 °C)
       - name: 1873 Keead I b
         type: Rocky
         formationType: Accreted
@@ -79,12 +79,12 @@ planets:
         radius: 2,657.4 km<br/>(0.417 Yrths)
         surface_area: 8.874 × 10<sup>07</sup> km<sup>2</sup><br/>(0.174 Yrths)
         volume: 7.861 × 10<sup>10</sup> km<sup>3</sup><br/>(0.073 Yrths)
-        mass: 2.545 × 10<sup>23</sup> kg<br />(1.7507970910028943 Yrths)
+        mass: 2.545 × 10<sup>23</sup> kg<br />(0.043 Yrths)
         density: 3.238 g/cm<sup>3</sup>
         surface_gravity: 2.402 m/s<sup>2</sup><br />(0.245 g<sub>0</sub>)
         escape_velocity: 3.576 km/s<br />(12,872 km/h)
         rotation_period: 35.152 d
         axial_tilt: 7.60°
         albedo: 0.30
-        temperature: 9613 K<br />(9340 °C)
+        temperature: 593 K<br />(320 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1781 Arniad is a star in the constellation Arni
+      1781 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 643.71 ly
 apparent_magnitude: 11.75
 absolute_magnitude: 5.28

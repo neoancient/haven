@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0059 Geardiad is a star in the constellation Geard
+      0059 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 150.14 ly
 apparent_magnitude: 6.12
 absolute_magnitude: 2.81
@@ -31,14 +31,14 @@ planets:
     radius: 7,284.8 km<br/>(1.143 Yrths)
     surface_area: 6.669 × 10<sup>08</sup> km<sup>2</sup><br/>(1.307 Yrths)
     volume: 1.619 × 10<sup>12</sup> km<sup>3</sup><br/>(1.495 Yrths)
-    mass: 8.169 × 10<sup>24</sup> kg<br />(1.3679124327483352 Yrths)
+    mass: 8.169 × 10<sup>24</sup> kg<br />(1.37 Yrths)
     density: 5.045 g/cm<sup>3</sup>
     surface_gravity: 10.260 m/s<sup>2</sup><br />(1.046 g<sub>0</sub>)
     escape_velocity: 12.235 km/s<br />(44,045 km/h)
     rotation_period: 0.984 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 370 K<br />(97 °C)
+    temperature: 326 K<br />(53 °C)
     surface_pressure: 88 kPa<br />(1 atm)
     composition:
       - 99.9478% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 3,215.7 km<br/>(0.505 Yrths)
         surface_area: 1.299 × 10<sup>08</sup> km<sup>2</sup><br/>(0.255 Yrths)
         volume: 1.393 × 10<sup>11</sup> km<sup>3</sup><br/>(0.129 Yrths)
-        mass: 3.900 × 10<sup>23</sup> kg<br />(1.3679124327483352 Yrths)
+        mass: 3.900 × 10<sup>23</sup> kg<br />(0.065 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 2.514 m/s<sup>2</sup><br />(0.256 g<sub>0</sub>)
         escape_velocity: 4.024 km/s<br />(14,485 km/h)
         rotation_period: 36.000 d
         axial_tilt: 18.52°
         albedo: 0.30
-        temperature: 4295 K<br />(4022 °C)
+        temperature: 309 K<br />(36 °C)
   - name: 0059 Geardiad II
     type: Large terrestrial
     aphelion: 495,577,320 km<br />3.313 AU
@@ -75,14 +75,14 @@ planets:
     radius: 2,670.7 km<br/>(0.419 Yrths)
     surface_area: 8.963 × 10<sup>07</sup> km<sup>2</sup><br/>(0.176 Yrths)
     volume: 7.979 × 10<sup>10</sup> km<sup>3</sup><br/>(0.074 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 7.485 g/cm<sup>3</sup>
     surface_gravity: 5.581 m/s<sup>2</sup><br />(0.569 g<sub>0</sub>)
     escape_velocity: 5.463 km/s<br />(19,668 km/h)
     rotation_period: 1.668 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 291 K<br />(18 °C)
+    temperature: 362 K<br />(89 °C)
     surface_pressure: 153 kPa<br />(2 atm)
     composition:
       - 99.0108% methane
@@ -101,14 +101,14 @@ planets:
         radius: 1,169.6 km<br/>(0.184 Yrths)
         surface_area: 1.719 × 10<sup>07</sup> km<sup>2</sup><br/>(0.034 Yrths)
         volume: 6.702 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 4.691 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.691 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.229 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.732 km/s<br />(2,634 km/h)
         rotation_period: 59.316 d
         axial_tilt: 24.11°
         albedo: 0.30
-        temperature: 5135 K<br />(4862 °C)
+        temperature: 228 K<br />(-46 °C)
       - name: 0059 Geardiad II b
         type: Rocky
         formationType: Impact formed
@@ -121,14 +121,14 @@ planets:
         radius: 495.3 km<br/>(0.078 Yrths)
         surface_area: 3.082 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.089 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.494 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.494 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.936 g/cm<sup>3</sup>
         surface_gravity: 0.406 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.635 km/s<br />(2,284 km/h)
         rotation_period: 37.479 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 4896 K<br />(4623 °C)
+        temperature: 228 K<br />(-46 °C)
       - name: 0059 Geardiad II c
         type: Icy
         formationType: Impact formed
@@ -141,12 +141,12 @@ planets:
         radius: 718.8 km<br/>(0.113 Yrths)
         surface_area: 6.493 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.556 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.089 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.089 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.140 m/s<sup>2</sup><br />(0.014 g<sub>0</sub>)
         escape_velocity: 0.450 km/s<br />(1,619 km/h)
         rotation_period: 68.897 d
         axial_tilt: 15.61°
         albedo: 0.30
-        temperature: 4668 K<br />(4395 °C)
+        temperature: 228 K<br />(-46 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9170 Arkothiad is a star in the constellation Arkoth
+      9170 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 956.94 ly
 apparent_magnitude: 16.51
 absolute_magnitude: 9.18

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      907 Aldnanniad is a star in the constellation Aldnan
+      907 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 325.63 ly
 apparent_magnitude: 10.35
 absolute_magnitude: 5.35

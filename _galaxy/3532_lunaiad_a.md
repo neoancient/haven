@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3532 Lunaiad A is a star in the constellation Luna
+      3532 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 190.61 ly
 apparent_magnitude: 10.13
 absolute_magnitude: 6.29

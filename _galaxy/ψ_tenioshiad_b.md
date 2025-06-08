@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Tenioshiad B is a star in the constellation Tenios
+      ψ Tenioshiad B is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 236.69 ly
 apparent_magnitude: 9.23
 absolute_magnitude: 4.93

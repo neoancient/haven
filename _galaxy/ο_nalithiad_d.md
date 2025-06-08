@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Nalithiad D is a star in the constellation Nalith
+      ο Nalithiad D is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 2377.48 ly
 apparent_magnitude: 6.14
 absolute_magnitude: -3.17

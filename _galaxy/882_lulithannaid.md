@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      882 Lulithannaid is a star in the constellation Lulithan
+      882 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 274.28 ly
 apparent_magnitude: 9.35
 absolute_magnitude: 4.73

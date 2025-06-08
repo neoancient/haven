@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2782 Tanashad is a star in the constellation Tanas
+      2782 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 435.21 ly
 apparent_magnitude: 13.47
 absolute_magnitude: 7.85

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6540 Anilliad is a star in the constellation Anil
+      6540 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 187.87 ly
 apparent_magnitude: 10.17
 absolute_magnitude: 6.37

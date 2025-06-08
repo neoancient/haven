@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Fay B is a star in the constellation Irsa
+      Fay B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 2411.58 ly
 apparent_magnitude: 8.01
 absolute_magnitude: -1.34

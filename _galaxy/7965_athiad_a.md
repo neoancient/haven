@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7965 Athiad A is a star in the constellation Ath
+      7965 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 416.02 ly
 apparent_magnitude: 8.44
 absolute_magnitude: 2.91

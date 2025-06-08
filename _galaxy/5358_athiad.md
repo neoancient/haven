@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5358 Athiad is a star in the constellation Ath
+      5358 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 304.25 ly
 apparent_magnitude: 11.09
 absolute_magnitude: 6.24

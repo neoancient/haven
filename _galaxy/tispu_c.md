@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tispu C is a star in the constellation Shannias
+      Tispu C is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 374.61 ly
 apparent_magnitude: 16.05
 absolute_magnitude: 10.75

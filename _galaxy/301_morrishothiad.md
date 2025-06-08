@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      301 Morrishothiad is a star in the constellation Morrishoth
+      301 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 428.38 ly
 apparent_magnitude: 10.93
 absolute_magnitude: 5.34

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6280 Anilliad is a star in the constellation Anil
+      6280 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 211.06 ly
 apparent_magnitude: 11.12
 absolute_magnitude: 7.06

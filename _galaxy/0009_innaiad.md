@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0009 Innaiad is a star in the constellation Inna
+      0009 Innaiad is a star in the constellation <a href="inna.html">Inna</a>
 distance: 2067.66 ly
 apparent_magnitude: 6.36
 absolute_magnitude: -2.65
@@ -31,14 +31,14 @@ planets:
     radius: 18,168.2 km<br/>(2.852 Yrths)
     surface_area: 4.148 × 10<sup>09</sup> km<sup>2</sup><br/>(8.132 Yrths)
     volume: 2.512 × 10<sup>13</sup> km<sup>3</sup><br/>(23.191 Yrths)
-    mass: 6.415 × 10<sup>25</sup> kg<br />(10.741378157286391 Yrths)
+    mass: 6.415 × 10<sup>25</sup> kg<br />(10.74 Yrths)
     density: 2.554 g/cm<sup>3</sup>
     surface_gravity: 12.953 m/s<sup>2</sup><br />(1.321 g<sub>0</sub>)
     escape_velocity: 21.710 km/s<br />(78,155 km/h)
     rotation_period: 0.416 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 2202 K<br />(1929 °C)
+    temperature: 1952 K<br />(1679 °C)
     composition:
       - 99.2571% hydrogen
       - 0.5351% nitric acid
@@ -56,14 +56,14 @@ planets:
         radius: 6,452.3 km<br/>(1.013 Yrths)
         surface_area: 5.232 × 10<sup>08</sup> km<sup>2</sup><br/>(1.026 Yrths)
         volume: 1.125 × 10<sup>12</sup> km<sup>3</sup><br/>(1.039 Yrths)
-        mass: 2.026 × 10<sup>24</sup> kg<br />(10.741378157286391 Yrths)
+        mass: 2.026 × 10<sup>24</sup> kg<br />(0.339 Yrths)
         density: 1.801 g/cm<sup>3</sup>
         surface_gravity: 3.244 m/s<sup>2</sup><br />(0.331 g<sub>0</sub>)
         escape_velocity: 6.475 km/s<br />(23,309 km/h)
         rotation_period: 42.179 d
         axial_tilt: 21.01°
         albedo: 0.30
-        temperature: 17305 K<br />(17032 °C)
+        temperature: 1481 K<br />(1208 °C)
       - name: 0009 Innaiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 16,245.6 km<br/>(2.550 Yrths)
         surface_area: 3.316 × 10<sup>09</sup> km<sup>2</sup><br/>(6.502 Yrths)
         volume: 1.796 × 10<sup>13</sup> km<sup>3</sup><br/>(16.580 Yrths)
-        mass: 4.745 × 10<sup>25</sup> kg<br />(10.741378157286391 Yrths)
+        mass: 4.745 × 10<sup>25</sup> kg<br />(7.945 Yrths)
         density: 2.642 g/cm<sup>3</sup>
         surface_gravity: 11.983 m/s<sup>2</sup><br />(1.222 g<sub>0</sub>)
         escape_velocity: 19.745 km/s<br />(71,082 km/h)
         rotation_period: 40.661 d
         axial_tilt: 25.08°
         albedo: 0.30
-        temperature: 16500 K<br />(16226 °C)
+        temperature: 1481 K<br />(1208 °C)
       - name: 0009 Innaiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 21,758.8 km<br/>(3.415 Yrths)
         surface_area: 5.950 × 10<sup>09</sup> km<sup>2</sup><br/>(11.664 Yrths)
         volume: 4.315 × 10<sup>13</sup> km<sup>3</sup><br/>(39.837 Yrths)
-        mass: 8.804 × 10<sup>25</sup> kg<br />(10.741378157286391 Yrths)
+        mass: 8.804 × 10<sup>25</sup> kg<br />(14.742 Yrths)
         density: 2.040 g/cm<sup>3</sup>
         surface_gravity: 12.394 m/s<sup>2</sup><br />(1.264 g<sub>0</sub>)
         escape_velocity: 23.240 km/s<br />(83,664 km/h)
         rotation_period: 67.438 d
         axial_tilt: 25.61°
         albedo: 0.30
-        temperature: 15732 K<br />(15459 °C)
+        temperature: 1481 K<br />(1208 °C)
   - name: 0009 Innaiad II
     type: Gas giant
     aphelion: 781,160,205 km<br />5.222 AU
@@ -115,14 +115,14 @@ planets:
     radius: 177.8 km<br/>(0.028 Yrths)
     surface_area: 3.972 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.354 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.114 × 10<sup>26</sup> kg<br />(102.37797933308053 Yrths)
+    mass: 6.114 × 10<sup>26</sup> kg<br />(102.38 Yrths)
     density: 25975530.323 g/cm<sup>3</sup>
     surface_gravity: 1289318.534 m/s<sup>2</sup><br />(131473.901 g<sub>0</sub>)
     escape_velocity: 677.541 km/s<br />(2,439,147 km/h)
     rotation_period: 0.262 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 4470 K<br />(4197 °C)
+    temperature: 4459 K<br />(4186 °C)
     composition:
       - 57.7184% helium
       - 30.5729% hydrogen

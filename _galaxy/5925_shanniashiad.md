@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5925 Shanniashiad is a star in the constellation Shannias
+      5925 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 740.37 ly
 apparent_magnitude: 12.39
 absolute_magnitude: 5.61

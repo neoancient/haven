@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5559 Noniashad is a star in the constellation Nonias
+      5559 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 147.66 ly
 apparent_magnitude: 18.80
 absolute_magnitude: 15.52

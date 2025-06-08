@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5751 Arkothiad A is a star in the constellation Arkoth
+      5751 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 483.28 ly
 apparent_magnitude: 10.66
 absolute_magnitude: 4.81

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      908 Lunaiad is a star in the constellation Luna
+      908 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 868.50 ly
 apparent_magnitude: 11.76
 absolute_magnitude: 4.64

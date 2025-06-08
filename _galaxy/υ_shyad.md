@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      υ Shyad is a star in the constellation Shy
+      υ Shyad is a star in the constellation <a href="shy.html">Shy</a>
 distance: 172.18 ly
 apparent_magnitude: 5.39
 absolute_magnitude: 1.78
@@ -31,14 +31,14 @@ planets:
     radius: 12,389.2 km<br/>(1.945 Yrths)
     surface_area: 1.929 × 10<sup>09</sup> km<sup>2</sup><br/>(3.782 Yrths)
     volume: 7.966 × 10<sup>12</sup> km<sup>3</sup><br/>(7.354 Yrths)
-    mass: 2.532 × 10<sup>25</sup> kg<br />(4.238956396147959 Yrths)
+    mass: 2.532 × 10<sup>25</sup> kg<br />(4.24 Yrths)
     density: 3.178 g/cm<sup>3</sup>
     surface_gravity: 10.993 m/s<sup>2</sup><br />(1.121 g<sub>0</sub>)
     escape_velocity: 16.515 km/s<br />(59,455 km/h)
     rotation_period: 0.488 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 638 K<br />(364 °C)
+    temperature: 652 K<br />(379 °C)
     composition:
       - 74.7329% hydrogen
       - 17.4271% helium
@@ -58,14 +58,14 @@ planets:
         radius: 8,227.2 km<br/>(1.291 Yrths)
         surface_area: 8.506 × 10<sup>08</sup> km<sup>2</sup><br/>(1.668 Yrths)
         volume: 2.333 × 10<sup>12</sup> km<sup>3</sup><br/>(2.153 Yrths)
-        mass: 3.428 × 10<sup>24</sup> kg<br />(4.238956396147959 Yrths)
+        mass: 3.428 × 10<sup>24</sup> kg<br />(0.574 Yrths)
         density: 1.470 g/cm<sup>3</sup>
         surface_gravity: 3.376 m/s<sup>2</sup><br />(0.344 g<sub>0</sub>)
         escape_velocity: 7.458 km/s<br />(26,849 km/h)
         rotation_period: 57.386 d
         axial_tilt: 20.62°
         albedo: 0.30
-        temperature: 4745 K<br />(4472 °C)
+        temperature: 397 K<br />(124 °C)
       - name: υ Shyad I b
         type: Icy
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 7,318.7 km<br/>(1.149 Yrths)
         surface_area: 6.731 × 10<sup>08</sup> km<sup>2</sup><br/>(1.320 Yrths)
         volume: 1.642 × 10<sup>12</sup> km<sup>3</sup><br/>(1.516 Yrths)
-        mass: 2.344 × 10<sup>24</sup> kg<br />(4.238956396147959 Yrths)
+        mass: 2.344 × 10<sup>24</sup> kg<br />(0.393 Yrths)
         density: 1.428 g/cm<sup>3</sup>
         surface_gravity: 2.917 m/s<sup>2</sup><br />(0.297 g<sub>0</sub>)
         escape_velocity: 6.539 km/s<br />(23,541 km/h)
         rotation_period: 61.724 d
         axial_tilt: 18.02°
         albedo: 0.30
-        temperature: 4524 K<br />(4251 °C)
+        temperature: 397 K<br />(124 °C)
       - name: υ Shyad I c
         type: Icy
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 7,059.0 km<br/>(1.108 Yrths)
         surface_area: 6.262 × 10<sup>08</sup> km<sup>2</sup><br/>(1.228 Yrths)
         volume: 1.473 × 10<sup>12</sup> km<sup>3</sup><br/>(1.360 Yrths)
-        mass: 1.589 × 10<sup>24</sup> kg<br />(4.238956396147959 Yrths)
+        mass: 1.589 × 10<sup>24</sup> kg<br />(0.266 Yrths)
         density: 1.078 g/cm<sup>3</sup>
         surface_gravity: 2.125 m/s<sup>2</sup><br />(0.217 g<sub>0</sub>)
         escape_velocity: 5.481 km/s<br />(19,733 km/h)
         rotation_period: 58.542 d
         axial_tilt: 17.05°
         albedo: 0.30
-        temperature: 4314 K<br />(4041 °C)
+        temperature: 397 K<br />(124 °C)
       - name: υ Shyad I d
         type: Icy
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 4,404.9 km<br/>(0.691 Yrths)
         surface_area: 2.438 × 10<sup>08</sup> km<sup>2</sup><br/>(0.478 Yrths)
         volume: 3.580 × 10<sup>11</sup> km<sup>3</sup><br/>(0.331 Yrths)
-        mass: 5.956 × 10<sup>23</sup> kg<br />(4.238956396147959 Yrths)
+        mass: 5.956 × 10<sup>23</sup> kg<br />(0.100 Yrths)
         density: 1.664 g/cm<sup>3</sup>
         surface_gravity: 2.046 m/s<sup>2</sup><br />(0.209 g<sub>0</sub>)
         escape_velocity: 4.248 km/s<br />(15,295 km/h)
         rotation_period: 67.770 d
         axial_tilt: 14.72°
         albedo: 0.30
-        temperature: 4113 K<br />(3840 °C)
+        temperature: 397 K<br />(124 °C)
   - name: υ Shyad II
     type: Gas giant
     aphelion: 535,209,091 km<br />3.578 AU
@@ -137,14 +137,14 @@ planets:
     radius: 233.8 km<br/>(0.037 Yrths)
     surface_area: 6.871 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.355 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.967 × 10<sup>27</sup> kg<br />(329.3443039676241 Yrths)
+    mass: 1.967 × 10<sup>27</sup> kg<br />(329.34 Yrths)
     density: 36729323.709 g/cm<sup>3</sup>
     surface_gravity: 2397767.666 m/s<sup>2</sup><br />(244504.256 g<sub>0</sub>)
     escape_velocity: 1059.639 km/s<br />(3,814,702 km/h)
     rotation_period: 0.233 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1213 K<br />(939 °C)
+    temperature: 1173 K<br />(900 °C)
     composition:
       - 75.8816% hydrogen
       - 18.4785% helium
@@ -165,14 +165,14 @@ planets:
         radius: 181,357.7 km<br/>(28.466 Yrths)
         surface_area: 4.133 × 10<sup>11</sup> km<sup>2</sup><br/>(810.321 Yrths)
         volume: 2.499 × 10<sup>16</sup> km<sup>3</sup><br/>(23066.688 Yrths)
-        mass: 2.665 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 2.665 × 10<sup>28</sup> kg<br />(4463.031 Yrths)
         density: 1.067 g/cm<sup>3</sup>
         surface_gravity: 54.012 m/s<sup>2</sup><br />(5.508 g<sub>0</sub>)
         escape_velocity: 140.063 km/s<br />(504,228 km/h)
         rotation_period: 64.289 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 1625 K<br />(1352 °C)
+        temperature: 283 K<br />(10 °C)
       - name: υ Shyad II b
         type: Icy
         formationType: Accreted
@@ -185,15 +185,35 @@ planets:
         radius: 234,961.7 km<br/>(36.880 Yrths)
         surface_area: 6.938 × 10<sup>11</sup> km<sup>2</sup><br/>(1360.125 Yrths)
         volume: 5.434 × 10<sup>16</sup> km<sup>3</sup><br/>(50161.254 Yrths)
-        mass: 4.308 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 4.308 × 10<sup>28</sup> kg<br />(7214.466 Yrths)
         density: 0.793 g/cm<sup>3</sup>
         surface_gravity: 52.017 m/s<sup>2</sup><br />(5.304 g<sub>0</sub>)
         escape_velocity: 156.452 km/s<br />(563,227 km/h)
         rotation_period: 75.155 d
         axial_tilt: 10.40°
         albedo: 0.30
-        temperature: 1478 K<br />(1205 °C)
+        temperature: 283 K<br />(10 °C)
       - name: υ Shyad II c
+        type: Icy
+        formationType: Accreted
+        aphelion: 24,016,169 km<br />
+        perihelion: 23,739,791 km<br />
+        semi_major_axis: 23,877,980 km<br />
+        eccentricity: 0.006
+        orbital_period: 0.02 d<br />
+        inclination: 0.00°
+        radius: 43,864.2 km<br/>(6.885 Yrths)
+        surface_area: 2.418 × 10<sup>10</sup> km<sup>2</sup><br/>(47.403 Yrths)
+        volume: 3.535 × 10<sup>14</sup> km<sup>3</sup><br/>(326.368 Yrths)
+        mass: 3.054 × 10<sup>26</sup> kg<br />(51.131 Yrths)
+        density: 0.864 g/cm<sup>3</sup>
+        surface_gravity: 10.578 m/s<sup>2</sup><br />(1.079 g<sub>0</sub>)
+        escape_velocity: 30.483 km/s<br />(109,740 km/h)
+        rotation_period: 84.377 d
+        axial_tilt: 24.55°
+        albedo: 0.30
+        temperature: 283 K<br />(10 °C)
+      - name: υ Shyad II d
         type: Icy
         formationType: Captured
         aphelion: 48,069,573 km<br />
@@ -205,15 +225,15 @@ planets:
         radius: 193,144.2 km<br/>(30.316 Yrths)
         surface_area: 4.688 × 10<sup>11</sup> km<sup>2</sup><br/>(919.069 Yrths)
         volume: 3.018 × 10<sup>16</sup> km<sup>3</sup><br/>(27862.634 Yrths)
-        mass: 3.087 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 3.087 × 10<sup>28</sup> kg<br />(5169.307 Yrths)
         density: 1.023 g/cm<sup>3</sup>
         surface_gravity: 55.158 m/s<sup>2</sup><br />(5.625 g<sub>0</sub>)
         escape_velocity: 146.067 km/s<br />(525,842 km/h)
         rotation_period: 74.106 d
         axial_tilt: 17.72°
         albedo: 0.30
-        temperature: 962 K<br />(689 °C)
-      - name: υ Shyad II d
+        temperature: 283 K<br />(10 °C)
+      - name: υ Shyad II e
         type: Icy
         formationType: Captured
         aphelion: 66,810,654 km<br />
@@ -225,15 +245,15 @@ planets:
         radius: 178,055.5 km<br/>(27.948 Yrths)
         surface_area: 3.984 × 10<sup>11</sup> km<sup>2</sup><br/>(781.080 Yrths)
         volume: 2.365 × 10<sup>16</sup> km<sup>3</sup><br/>(21829.489 Yrths)
-        mass: 2.695 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 2.695 × 10<sup>28</sup> kg<br />(4512.885 Yrths)
         density: 1.140 g/cm<sup>3</sup>
         surface_gravity: 56.660 m/s<sup>2</sup><br />(5.778 g<sub>0</sub>)
         escape_velocity: 142.144 km/s<br />(511,717 km/h)
         rotation_period: 67.254 d
         axial_tilt: 21.89°
         albedo: 0.30
-        temperature: 875 K<br />(602 °C)
-      - name: υ Shyad II e
+        temperature: 283 K<br />(10 °C)
+      - name: υ Shyad II f
         type: Icy
         formationType: Captured
         aphelion: 210,366,527 km<br />
@@ -245,15 +265,15 @@ planets:
         radius: 291,715.1 km<br/>(45.788 Yrths)
         surface_area: 1.069 × 10<sup>12</sup> km<sup>2</sup><br/>(2096.537 Yrths)
         volume: 1.040 × 10<sup>17</sup> km<sup>3</sup><br/>(95996.131 Yrths)
-        mass: 7.887 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 7.887 × 10<sup>28</sup> kg<br />(13206.001 Yrths)
         density: 0.758 g/cm<sup>3</sup>
         surface_gravity: 61.772 m/s<sup>2</sup><br />(6.299 g<sub>0</sub>)
         escape_velocity: 189.970 km/s<br />(683,890 km/h)
         rotation_period: 109.831 d
         axial_tilt: 18.79°
         albedo: 0.30
-        temperature: 494 K<br />(221 °C)
-      - name: υ Shyad II f
+        temperature: 283 K<br />(10 °C)
+      - name: υ Shyad II g
         type: Icy
         formationType: Captured
         aphelion: 307,598,641 km<br />
@@ -265,15 +285,15 @@ planets:
         radius: 254,533.5 km<br/>(39.952 Yrths)
         surface_area: 8.141 × 10<sup>11</sup> km<sup>2</sup><br/>(1596.153 Yrths)
         volume: 6.908 × 10<sup>16</sup> km<sup>3</sup><br/>(63769.326 Yrths)
-        mass: 7.353 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 7.353 × 10<sup>28</sup> kg<br />(12311.639 Yrths)
         density: 1.064 g/cm<sup>3</sup>
         surface_gravity: 75.642 m/s<sup>2</sup><br />(7.713 g<sub>0</sub>)
         escape_velocity: 196.365 km/s<br />(706,913 km/h)
         rotation_period: 56.870 d
         axial_tilt: 18.17°
         albedo: 0.30
-        temperature: 408 K<br />(135 °C)
-      - name: υ Shyad II g
+        temperature: 283 K<br />(10 °C)
+      - name: υ Shyad II h
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 512,896,632 km<br />
@@ -285,15 +305,15 @@ planets:
         radius: 161,576.3 km<br/>(25.361 Yrths)
         surface_area: 3.281 × 10<sup>11</sup> km<sup>2</sup><br/>(643.191 Yrths)
         volume: 1.767 × 10<sup>16</sup> km<sup>3</sup><br/>(16312.109 Yrths)
-        mass: 3.953 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 3.953 × 10<sup>28</sup> kg<br />(6618.867 Yrths)
         density: 2.237 g/cm<sup>3</sup>
         surface_gravity: 100.917 m/s<sup>2</sup><br />(10.291 g<sub>0</sub>)
         escape_velocity: 180.709 km/s<br />(650,554 km/h)
         rotation_period: 36.087 d
         axial_tilt: 19.28°
         albedo: 0.30
-        temperature: 307 K<br />(33 °C)
-      - name: υ Shyad II h
+        temperature: 283 K<br />(10 °C)
+      - name: υ Shyad II i
         type: Rocky
         formationType: Accreted
         aphelion: 581,708,919 km<br />
@@ -305,15 +325,15 @@ planets:
         radius: 141,754.0 km<br/>(22.250 Yrths)
         surface_area: 2.525 × 10<sup>11</sup> km<sup>2</sup><br/>(495.058 Yrths)
         volume: 1.193 × 10<sup>16</sup> km<sup>3</sup><br/>(11014.975 Yrths)
-        mass: 3.292 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 3.292 × 10<sup>28</sup> kg<br />(5512.707 Yrths)
         density: 2.759 g/cm<sup>3</sup>
         surface_gravity: 109.202 m/s<sup>2</sup><br />(11.135 g<sub>0</sub>)
         escape_velocity: 176.073 km/s<br />(633,862 km/h)
         rotation_period: 58.085 d
         axial_tilt: 19.28°
         albedo: 0.30
-        temperature: 292 K<br />(19 °C)
-      - name: υ Shyad II i
+        temperature: 283 K<br />(10 °C)
+      - name: υ Shyad II j
         type: Dwarf planet
         formationType: Impact formed
         aphelion: 673,877,023 km<br />
@@ -325,15 +345,15 @@ planets:
         radius: 143,682.5 km<br/>(22.553 Yrths)
         surface_area: 2.594 × 10<sup>11</sup> km<sup>2</sup><br/>(508.619 Yrths)
         volume: 1.243 × 10<sup>16</sup> km<sup>3</sup><br/>(11470.676 Yrths)
-        mass: 3.155 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 3.155 × 10<sup>28</sup> kg<br />(5282.261 Yrths)
         density: 2.539 g/cm<sup>3</sup>
         surface_gravity: 101.847 m/s<sup>2</sup><br />(10.385 g<sub>0</sub>)
         escape_velocity: 171.193 km/s<br />(616,294 km/h)
         rotation_period: 59.930 d
         axial_tilt: 13.80°
         albedo: 0.30
-        temperature: 253 K<br />(-20 °C)
-      - name: υ Shyad II j
+        temperature: 283 K<br />(10 °C)
+      - name: υ Shyad II k
         type: Dwarf planet
         formationType: Captured
         aphelion: 1,398,777,949 km<br />
@@ -345,14 +365,14 @@ planets:
         radius: 158,163.1 km<br/>(24.825 Yrths)
         surface_area: 3.144 × 10<sup>11</sup> km<sup>2</sup><br/>(616.304 Yrths)
         volume: 1.657 × 10<sup>16</sup> km<sup>3</sup><br/>(15300.055 Yrths)
-        mass: 4.053 × 10<sup>28</sup> kg<br />(329.3443039676241 Yrths)
+        mass: 4.053 × 10<sup>28</sup> kg<br />(6786.083 Yrths)
         density: 2.445 g/cm<sup>3</sup>
         surface_gravity: 107.980 m/s<sup>2</sup><br />(11.011 g<sub>0</sub>)
         escape_velocity: 184.942 km/s<br />(665,790 km/h)
         rotation_period: 35.064 d
         axial_tilt: 35.39°
         albedo: 0.30
-        temperature: 190 K<br />(-83 °C)
+        temperature: 283 K<br />(10 °C)
   - name: υ Shyad III
     type: Terrestrial
     aphelion: 1,249,835,659 km<br />8.355 AU
@@ -364,14 +384,14 @@ planets:
     radius: 5,143.9 km<br/>(0.807 Yrths)
     surface_area: 3.325 × 10<sup>08</sup> km<sup>2</sup><br/>(0.652 Yrths)
     volume: 5.701 × 10<sup>11</sup> km<sup>3</sup><br/>(0.526 Yrths)
-    mass: 3.141 × 10<sup>24</sup> kg<br />(0.5259429295572449 Yrths)
+    mass: 3.141 × 10<sup>24</sup> kg<br />(0.53 Yrths)
     density: 5.509 g/cm<sup>3</sup>
     surface_gravity: 7.912 m/s<sup>2</sup><br />(0.807 g<sub>0</sub>)
     escape_velocity: 9.028 km/s<br />(32,502 km/h)
     rotation_period: 1.214 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 238 K<br />(-35 °C)
+    temperature: 251 K<br />(-22 °C)
     surface_pressure: 51 kPa<br />(1 atm)
     composition:
       - 59.6705% nitrogen
@@ -390,12 +410,12 @@ planets:
         radius: 2,155.8 km<br/>(0.338 Yrths)
         surface_area: 5.840 × 10<sup>07</sup> km<sup>2</sup><br/>(0.114 Yrths)
         volume: 4.197 × 10<sup>10</sup> km<sup>3</sup><br/>(0.039 Yrths)
-        mass: 1.007 × 10<sup>23</sup> kg<br />(0.5259429295572449 Yrths)
+        mass: 1.007 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 1.445 m/s<sup>2</sup><br />(0.147 g<sub>0</sub>)
         escape_velocity: 2.497 km/s<br />(8,990 km/h)
         rotation_period: 42.349 d
         axial_tilt: 23.62°
         albedo: 0.30
-        temperature: 3621 K<br />(3348 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

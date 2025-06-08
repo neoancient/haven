@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1015 Narashiad is a star in the constellation Naras
+      1015 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 339.87 ly
 apparent_magnitude: 11.80
 absolute_magnitude: 6.71

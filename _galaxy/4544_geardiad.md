@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4544 Geardiad is a star in the constellation Geard
+      4544 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 472.30 ly
 apparent_magnitude: 11.07
 absolute_magnitude: 5.27

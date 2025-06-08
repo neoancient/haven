@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2328 Dialkeshiad is a star in the constellation Dialkes
+      2328 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 545.55 ly
 apparent_magnitude: 11.13
 absolute_magnitude: 5.02

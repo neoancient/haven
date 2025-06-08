@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0036 Morrishothiad C is a star in the constellation Morrishoth
+      0036 Morrishothiad C is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 8204.55 ly
 apparent_magnitude: 7.54
 absolute_magnitude: -4.47
@@ -31,14 +31,14 @@ planets:
     radius: 293.1 km<br/>(0.046 Yrths)
     surface_area: 1.080 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 1.055 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.320 × 10<sup>27</sup> kg<br />(890.7848697370661 Yrths)
+    mass: 5.320 × 10<sup>27</sup> kg<br />(890.78 Yrths)
     density: 50421890.099 g/cm<sup>3</sup>
     surface_gravity: 4126534.219 m/s<sup>2</sup><br />(420789.385 g<sub>0</sub>)
     escape_velocity: 1556.443 km/s<br />(5,603,197 km/h)
     rotation_period: 0.211 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 4929 K<br />(4656 °C)
+    temperature: 4709 K<br />(4436 °C)
     composition:
       - 81.8452% hydrogen
       - 16.2336% helium
@@ -56,14 +56,14 @@ planets:
         radius: 423,365.3 km<br/>(66.452 Yrths)
         surface_area: 2.252 × 10<sup>12</sup> km<sup>2</sup><br/>(4415.860 Yrths)
         volume: 3.179 × 10<sup>17</sup> km<sup>3</sup><br/>(293442.458 Yrths)
-        mass: 6.795 × 10<sup>29</sup> kg<br />(890.7848697370661 Yrths)
+        mass: 6.795 × 10<sup>29</sup> kg<br />(113772.654 Yrths)
         density: 2.138 g/cm<sup>3</sup>
         surface_gravity: 252.664 m/s<sup>2</sup><br />(25.765 g<sub>0</sub>)
         escape_velocity: 462.849 km/s<br />(1,666,255 km/h)
         rotation_period: 40.674 d
         axial_tilt: 23.69°
         albedo: 0.30
-        temperature: 6149 K<br />(5876 °C)
+        temperature: 1144 K<br />(870 °C)
       - name: 0036 Morrishothiad C I b
         type: Icy
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 505,959.4 km<br/>(79.416 Yrths)
         surface_area: 3.217 × 10<sup>12</sup> km<sup>2</sup><br/>(6306.902 Yrths)
         volume: 5.425 × 10<sup>17</sup> km<sup>3</sup><br/>(500869.021 Yrths)
-        mass: 7.065 × 10<sup>29</sup> kg<br />(890.7848697370661 Yrths)
+        mass: 7.065 × 10<sup>29</sup> kg<br />(118296.712 Yrths)
         density: 1.302 g/cm<sup>3</sup>
         surface_gravity: 183.940 m/s<sup>2</sup><br />(18.757 g<sub>0</sub>)
         escape_velocity: 431.724 km/s<br />(1,554,207 km/h)
         rotation_period: 86.177 d
         axial_tilt: 19.53°
         albedo: 0.30
-        temperature: 4200 K<br />(3927 °C)
+        temperature: 1144 K<br />(870 °C)
       - name: 0036 Morrishothiad C I c
         type: Icy
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 605,423.8 km<br/>(95.028 Yrths)
         surface_area: 4.606 × 10<sup>12</sup> km<sup>2</sup><br/>(9030.333 Yrths)
         volume: 9.295 × 10<sup>17</sup> km<sup>3</sup><br/>(858135.066 Yrths)
-        mass: 9.877 × 10<sup>29</sup> kg<br />(890.7848697370661 Yrths)
+        mass: 9.877 × 10<sup>29</sup> kg<br />(165392.423 Yrths)
         density: 1.063 g/cm<sup>3</sup>
         surface_gravity: 179.611 m/s<sup>2</sup><br />(18.315 g<sub>0</sub>)
         escape_velocity: 466.666 km/s<br />(1,679,996 km/h)
         rotation_period: 77.361 d
         axial_tilt: 22.76°
         albedo: 0.30
-        temperature: 2608 K<br />(2335 °C)
+        temperature: 1144 K<br />(870 °C)
       - name: 0036 Morrishothiad C I d
         type: Dwarf planet
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 446,807.4 km<br/>(70.131 Yrths)
         surface_area: 2.509 × 10<sup>12</sup> km<sup>2</sup><br/>(4918.419 Yrths)
         volume: 3.736 × 10<sup>17</sup> km<sup>3</sup><br/>(344935.826 Yrths)
-        mass: 8.159 × 10<sup>29</sup> kg<br />(890.7848697370661 Yrths)
+        mass: 8.159 × 10<sup>29</sup> kg<br />(136621.396 Yrths)
         density: 2.184 g/cm<sup>3</sup>
         surface_gravity: 272.404 m/s<sup>2</sup><br />(27.778 g<sub>0</sub>)
         escape_velocity: 493.716 km/s<br />(1,777,376 km/h)
         rotation_period: 47.963 d
         axial_tilt: 26.10°
         albedo: 0.30
-        temperature: 2055 K<br />(1782 °C)
+        temperature: 1144 K<br />(870 °C)
       - name: 0036 Morrishothiad C I e
         type: Icy
         formationType: Accreted
@@ -136,12 +136,12 @@ planets:
         radius: 489,151.1 km<br/>(76.778 Yrths)
         surface_area: 3.007 × 10<sup>12</sup> km<sup>2</sup><br/>(5894.825 Yrths)
         volume: 4.903 × 10<sup>17</sup> km<sup>3</sup><br/>(452591.515 Yrths)
-        mass: 6.546 × 10<sup>29</sup> kg<br />(890.7848697370661 Yrths)
+        mass: 6.546 × 10<sup>29</sup> kg<br />(109607.385 Yrths)
         density: 1.335 g/cm<sup>3</sup>
         surface_gravity: 182.343 m/s<sup>2</sup><br />(18.594 g<sub>0</sub>)
         escape_velocity: 422.645 km/s<br />(1,521,523 km/h)
         rotation_period: 77.742 d
         axial_tilt: 14.34°
         albedo: 0.30
-        temperature: 1698 K<br />(1425 °C)
+        temperature: 1144 K<br />(870 °C)
 ---

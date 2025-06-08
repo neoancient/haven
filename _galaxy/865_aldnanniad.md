@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      865 Aldnanniad is a star in the constellation Aldnan
+      865 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 209.99 ly
 apparent_magnitude: 16.56
 absolute_magnitude: 12.52

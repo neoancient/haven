@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2726 Shanniashiad is a star in the constellation Shannias
+      2726 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 445.51 ly
 apparent_magnitude: 10.41
 absolute_magnitude: 4.73

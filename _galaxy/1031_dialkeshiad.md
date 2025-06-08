@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1031 Dialkeshiad is a star in the constellation Dialkes
+      1031 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 341.17 ly
 apparent_magnitude: 11.52
 absolute_magnitude: 6.43

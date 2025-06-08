@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3284 Geardiad is a star in the constellation Geard
+      3284 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1120.42 ly
 apparent_magnitude: 9.61
 absolute_magnitude: 1.93

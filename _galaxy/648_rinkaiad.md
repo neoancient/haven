@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      648 Rinkaiad is a star in the constellation Rinka
+      648 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 464.94 ly
 apparent_magnitude: 11.39
 absolute_magnitude: 5.62

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      690 Aldnanniad is a star in the constellation Aldnan
+      690 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 595.06 ly
 apparent_magnitude: 10.86
 absolute_magnitude: 4.56

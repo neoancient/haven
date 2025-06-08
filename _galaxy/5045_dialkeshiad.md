@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5045 Dialkeshiad is a star in the constellation Dialkes
+      5045 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 326.54 ly
 apparent_magnitude: 19.44
 absolute_magnitude: 14.43

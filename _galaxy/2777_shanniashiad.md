@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2777 Shanniashiad is a star in the constellation Shannias
+      2777 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 351.82 ly
 apparent_magnitude: 9.80
 absolute_magnitude: 4.63

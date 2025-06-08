@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1529 Rinkaiad A is a star in the constellation Rinka
+      1529 Rinkaiad A is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 707.88 ly
 apparent_magnitude: 7.29
 absolute_magnitude: 0.61

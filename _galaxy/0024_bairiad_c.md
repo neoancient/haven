@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Bairiad C is a star in the constellation Bair
+      0024 Bairiad C is a star in the constellation <a href="bair.html">Bair</a>
 distance: 1207.64 ly
 apparent_magnitude: 13.70
 absolute_magnitude: 5.86
@@ -31,14 +31,14 @@ planets:
     radius: 9,194.4 km<br/>(1.443 Yrths)
     surface_area: 1.062 × 10<sup>09</sup> km<sup>2</sup><br/>(2.083 Yrths)
     volume: 3.256 × 10<sup>12</sup> km<sup>3</sup><br/>(3.006 Yrths)
-    mass: 2.094 × 10<sup>25</sup> kg<br />(3.507047257947942 Yrths)
+    mass: 2.094 × 10<sup>25</sup> kg<br />(3.51 Yrths)
     density: 6.433 g/cm<sup>3</sup>
     surface_gravity: 16.513 m/s<sup>2</sup><br />(1.684 g<sub>0</sub>)
     escape_velocity: 17.438 km/s<br />(62,775 km/h)
     rotation_period: 1.219 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 297 K<br />(24 °C)
+    temperature: 261 K<br />(-12 °C)
     surface_pressure: 116 kPa<br />(1 atm)
     composition:
       - 97.5480% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 4,784.7 km<br/>(0.751 Yrths)
         surface_area: 2.877 × 10<sup>08</sup> km<sup>2</sup><br/>(0.564 Yrths)
         volume: 4.588 × 10<sup>11</sup> km<sup>3</sup><br/>(0.424 Yrths)
-        mass: 9.420 × 10<sup>23</sup> kg<br />(3.507047257947942 Yrths)
+        mass: 9.420 × 10<sup>23</sup> kg<br />(0.158 Yrths)
         density: 2.053 g/cm<sup>3</sup>
         surface_gravity: 2.743 m/s<sup>2</sup><br />(0.280 g<sub>0</sub>)
         escape_velocity: 5.126 km/s<br />(18,455 km/h)
         rotation_period: 59.779 d
         axial_tilt: 18.12°
         albedo: 0.30
-        temperature: 2864 K<br />(2591 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 0024 Bairiad C I b
         type: Rocky
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 7,716.9 km<br/>(1.211 Yrths)
         surface_area: 7.483 × 10<sup>08</sup> km<sup>2</sup><br/>(1.467 Yrths)
         volume: 1.925 × 10<sup>12</sup> km<sup>3</sup><br/>(1.777 Yrths)
-        mass: 5.968 × 10<sup>24</sup> kg<br />(3.507047257947942 Yrths)
+        mass: 5.968 × 10<sup>24</sup> kg<br />(0.999 Yrths)
         density: 3.101 g/cm<sup>3</sup>
         surface_gravity: 6.680 m/s<sup>2</sup><br />(0.681 g<sub>0</sub>)
         escape_velocity: 10.161 km/s<br />(36,579 km/h)
         rotation_period: 47.002 d
         axial_tilt: 13.69°
         albedo: 0.30
-        temperature: 2731 K<br />(2458 °C)
+        temperature: 248 K<br />(-25 °C)
   - name: 0024 Bairiad C II
     type: Large terrestrial
     aphelion: 300,860,687 km<br />2.011 AU
@@ -95,14 +95,14 @@ planets:
     radius: 8,939.1 km<br/>(1.403 Yrths)
     surface_area: 1.004 × 10<sup>09</sup> km<sup>2</sup><br/>(1.969 Yrths)
     volume: 2.992 × 10<sup>12</sup> km<sup>3</sup><br/>(2.762 Yrths)
-    mass: 2.078 × 10<sup>25</sup> kg<br />(3.480309724026682 Yrths)
+    mass: 2.078 × 10<sup>25</sup> kg<br />(3.48 Yrths)
     density: 6.947 g/cm<sup>3</sup>
     surface_gravity: 17.337 m/s<sup>2</sup><br />(1.768 g<sub>0</sub>)
     escape_velocity: 17.617 km/s<br />(63,422 km/h)
     rotation_period: 1.009 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 230 K<br />(-43 °C)
+    temperature: 281 K<br />(8 °C)
     surface_pressure: 81 kPa<br />(1 atm)
     composition:
       - 72.0430% methane
@@ -122,14 +122,14 @@ planets:
         radius: 7,788.8 km<br/>(1.223 Yrths)
         surface_area: 7.623 × 10<sup>08</sup> km<sup>2</sup><br/>(1.495 Yrths)
         volume: 1.979 × 10<sup>12</sup> km<sup>3</sup><br/>(1.827 Yrths)
-        mass: 3.002 × 10<sup>24</sup> kg<br />(3.480309724026682 Yrths)
+        mass: 3.002 × 10<sup>24</sup> kg<br />(0.503 Yrths)
         density: 1.517 g/cm<sup>3</sup>
         surface_gravity: 3.298 m/s<sup>2</sup><br />(0.336 g<sub>0</sub>)
         escape_velocity: 7.173 km/s<br />(25,821 km/h)
         rotation_period: 51.324 d
         axial_tilt: 9.79°
         albedo: 0.30
-        temperature: 2276 K<br />(2003 °C)
+        temperature: 188 K<br />(-85 °C)
       - name: 0024 Bairiad C II b
         type: Asteroid
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 5,011.3 km<br/>(0.787 Yrths)
         surface_area: 3.156 × 10<sup>08</sup> km<sup>2</sup><br/>(0.619 Yrths)
         volume: 5.272 × 10<sup>11</sup> km<sup>3</sup><br/>(0.487 Yrths)
-        mass: 1.452 × 10<sup>24</sup> kg<br />(3.480309724026682 Yrths)
+        mass: 1.452 × 10<sup>24</sup> kg<br />(0.243 Yrths)
         density: 2.754 g/cm<sup>3</sup>
         surface_gravity: 3.853 m/s<sup>2</sup><br />(0.393 g<sub>0</sub>)
         escape_velocity: 6.219 km/s<br />(22,387 km/h)
         rotation_period: 34.223 d
         axial_tilt: 55.43°
         albedo: 0.30
-        temperature: 2171 K<br />(1897 °C)
+        temperature: 188 K<br />(-85 °C)
       - name: 0024 Bairiad C II c
         type: Icy
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 8,383.8 km<br/>(1.316 Yrths)
         surface_area: 8.833 × 10<sup>08</sup> km<sup>2</sup><br/>(1.732 Yrths)
         volume: 2.468 × 10<sup>12</sup> km<sup>3</sup><br/>(2.279 Yrths)
-        mass: 4.241 × 10<sup>24</sup> kg<br />(3.480309724026682 Yrths)
+        mass: 4.241 × 10<sup>24</sup> kg<br />(0.710 Yrths)
         density: 1.718 g/cm<sup>3</sup>
         surface_gravity: 4.022 m/s<sup>2</sup><br />(0.410 g<sub>0</sub>)
         escape_velocity: 8.217 km/s<br />(29,582 km/h)
         rotation_period: 53.322 d
         axial_tilt: 13.50°
         albedo: 0.30
-        temperature: 2069 K<br />(1796 °C)
+        temperature: 188 K<br />(-85 °C)
   - name: 0024 Bairiad C III
     type: Large terrestrial
     aphelion: 522,777,419 km<br />3.495 AU
@@ -181,14 +181,14 @@ planets:
     radius: 9,615.2 km<br/>(1.509 Yrths)
     surface_area: 1.162 × 10<sup>09</sup> km<sup>2</sup><br/>(2.278 Yrths)
     volume: 3.724 × 10<sup>12</sup> km<sup>3</sup><br/>(3.438 Yrths)
-    mass: 2.283 × 10<sup>25</sup> kg<br />(3.822205527306586 Yrths)
+    mass: 2.283 × 10<sup>25</sup> kg<br />(3.82 Yrths)
     density: 6.130 g/cm<sup>3</sup>
     surface_gravity: 16.456 m/s<sup>2</sup><br />(1.678 g<sub>0</sub>)
     escape_velocity: 17.801 km/s<br />(64,085 km/h)
     rotation_period: 0.844 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 173 K<br />(-100 °C)
+    temperature: 158 K<br />(-115 °C)
     surface_pressure: 128 kPa<br />(1 atm)
     composition:
       - 89.0608% nitrogen
@@ -208,14 +208,14 @@ planets:
         radius: 3,870.2 km<br/>(0.607 Yrths)
         surface_area: 1.882 × 10<sup>08</sup> km<sup>2</sup><br/>(0.369 Yrths)
         volume: 2.428 × 10<sup>11</sup> km<sup>3</sup><br/>(0.224 Yrths)
-        mass: 4.257 × 10<sup>23</sup> kg<br />(3.822205527306586 Yrths)
+        mass: 4.257 × 10<sup>23</sup> kg<br />(0.071 Yrths)
         density: 1.753 g/cm<sup>3</sup>
         surface_gravity: 1.894 m/s<sup>2</sup><br />(0.193 g<sub>0</sub>)
         escape_velocity: 3.832 km/s<br />(13,794 km/h)
         rotation_period: 47.081 d
         axial_tilt: 17.24°
         albedo: 0.30
-        temperature: 1639 K<br />(1366 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 0024 Bairiad C III b
         type: Rocky
         formationType: Captured
@@ -228,14 +228,14 @@ planets:
         radius: 8,398.0 km<br/>(1.318 Yrths)
         surface_area: 8.863 × 10<sup>08</sup> km<sup>2</sup><br/>(1.738 Yrths)
         volume: 2.481 × 10<sup>12</sup> km<sup>3</sup><br/>(2.290 Yrths)
-        mass: 8.203 × 10<sup>24</sup> kg<br />(3.822205527306586 Yrths)
+        mass: 8.203 × 10<sup>24</sup> kg<br />(1.374 Yrths)
         density: 3.306 g/cm<sup>3</sup>
         surface_gravity: 7.752 m/s<sup>2</sup><br />(0.791 g<sub>0</sub>)
         escape_velocity: 11.419 km/s<br />(41,107 km/h)
         rotation_period: 51.839 d
         axial_tilt: 23.27°
         albedo: 0.30
-        temperature: 1563 K<br />(1289 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 0024 Bairiad C III c
         type: Rocky
         formationType: Captured
@@ -248,12 +248,12 @@ planets:
         radius: 4,682.0 km<br/>(0.735 Yrths)
         surface_area: 2.755 × 10<sup>08</sup> km<sup>2</sup><br/>(0.540 Yrths)
         volume: 4.299 × 10<sup>11</sup> km<sup>3</sup><br/>(0.397 Yrths)
-        mass: 1.123 × 10<sup>24</sup> kg<br />(3.822205527306586 Yrths)
+        mass: 1.123 × 10<sup>24</sup> kg<br />(0.188 Yrths)
         density: 2.613 g/cm<sup>3</sup>
         surface_gravity: 3.416 m/s<sup>2</sup><br />(0.348 g<sub>0</sub>)
         escape_velocity: 5.659 km/s<br />(20,374 km/h)
         rotation_period: 35.959 d
         axial_tilt: 9.90°
         albedo: 0.30
-        temperature: 1490 K<br />(1217 °C)
+        temperature: 143 K<br />(-130 °C)
 ---

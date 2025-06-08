@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Etrisha B is a star in the constellation Nuani
+      Etrisha B is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 314.23 ly
 apparent_magnitude: 14.58
 absolute_magnitude: 9.66

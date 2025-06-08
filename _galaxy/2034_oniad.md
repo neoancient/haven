@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2034 Oniad is a star in the constellation Oni
+      2034 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1016.09 ly
 apparent_magnitude: 12.31
 absolute_magnitude: 4.84

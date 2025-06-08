@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      217 Ratharshinniad A is a star in the constellation Ratharshin
+      217 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1098.65 ly
 apparent_magnitude: 6.83
 absolute_magnitude: -0.81

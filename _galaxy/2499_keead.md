@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2499 Keead is a star in the constellation Kee
+      2499 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 455.14 ly
 apparent_magnitude: 10.51
 absolute_magnitude: 4.79

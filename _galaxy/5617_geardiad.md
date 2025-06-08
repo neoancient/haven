@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5617 Geardiad is a star in the constellation Geard
+      5617 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 235.84 ly
 apparent_magnitude: 10.34
 absolute_magnitude: 6.04

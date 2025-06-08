@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7644 Arkothiad A is a star in the constellation Arkoth
+      7644 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 389.10 ly
 apparent_magnitude: 10.87
 absolute_magnitude: 5.49

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1884 Tanashad A is a star in the constellation Tanas
+      1884 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 248.13 ly
 apparent_magnitude: 8.29
 absolute_magnitude: 3.89

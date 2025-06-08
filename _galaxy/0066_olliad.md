@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0066 Olliad is a star in the constellation Ol
+      0066 Olliad is a star in the constellation <a href="ol.html">Ol</a>
 distance: 2606.18 ly
 apparent_magnitude: 6.46
 absolute_magnitude: -3.05
@@ -31,14 +31,14 @@ planets:
     radius: 5,248.2 km<br/>(0.824 Yrths)
     surface_area: 3.461 × 10<sup>08</sup> km<sup>2</sup><br/>(0.679 Yrths)
     volume: 6.055 × 10<sup>11</sup> km<sup>3</sup><br/>(0.559 Yrths)
-    mass: 4.417 × 10<sup>24</sup> kg<br />(0.7396245644278542 Yrths)
+    mass: 4.417 × 10<sup>24</sup> kg<br />(0.74 Yrths)
     density: 7.295 g/cm<sup>3</sup>
     surface_gravity: 10.689 m/s<sup>2</sup><br />(1.090 g<sub>0</sub>)
     escape_velocity: 10.599 km/s<br />(38,158 km/h)
     rotation_period: 0.903 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 1026 K<br />(753 °C)
+    temperature: 1062 K<br />(789 °C)
     surface_pressure: 355 kPa<br />(4 atm)
     composition:
       - 74.0606% ammonia
@@ -59,14 +59,14 @@ planets:
         radius: 1,566.5 km<br/>(0.246 Yrths)
         surface_area: 3.084 × 10<sup>07</sup> km<sup>2</sup><br/>(0.060 Yrths)
         volume: 1.610 × 10<sup>10</sup> km<sup>3</sup><br/>(0.015 Yrths)
-        mass: 5.271 × 10<sup>22</sup> kg<br />(0.7396245644278542 Yrths)
+        mass: 5.271 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 3.273 g/cm<sup>3</sup>
         surface_gravity: 1.432 m/s<sup>2</sup><br />(0.146 g<sub>0</sub>)
         escape_velocity: 2.119 km/s<br />(7,630 km/h)
         rotation_period: 30.667 d
         axial_tilt: 7.24°
         albedo: 0.30
-        temperature: 18540 K<br />(18267 °C)
+        temperature: 779 K<br />(506 °C)
       - name: 0066 Olliad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 1,920.0 km<br/>(0.301 Yrths)
         surface_area: 4.633 × 10<sup>07</sup> km<sup>2</sup><br/>(0.091 Yrths)
         volume: 2.965 × 10<sup>10</sup> km<sup>3</sup><br/>(0.027 Yrths)
-        mass: 5.048 × 10<sup>22</sup> kg<br />(0.7396245644278542 Yrths)
+        mass: 5.048 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 1.703 g/cm<sup>3</sup>
         surface_gravity: 0.913 m/s<sup>2</sup><br />(0.093 g<sub>0</sub>)
         escape_velocity: 1.873 km/s<br />(6,744 km/h)
         rotation_period: 59.035 d
         axial_tilt: 17.08°
         albedo: 0.30
-        temperature: 17677 K<br />(17404 °C)
+        temperature: 779 K<br />(506 °C)
       - name: 0066 Olliad I c
         type: Rocky
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 2,783.4 km<br/>(0.437 Yrths)
         surface_area: 9.736 × 10<sup>07</sup> km<sup>2</sup><br/>(0.191 Yrths)
         volume: 9.033 × 10<sup>10</sup> km<sup>3</sup><br/>(0.083 Yrths)
-        mass: 2.952 × 10<sup>23</sup> kg<br />(0.7396245644278542 Yrths)
+        mass: 2.952 × 10<sup>23</sup> kg<br />(0.049 Yrths)
         density: 3.268 g/cm<sup>3</sup>
         surface_gravity: 2.540 m/s<sup>2</sup><br />(0.259 g<sub>0</sub>)
         escape_velocity: 3.763 km/s<br />(13,545 km/h)
         rotation_period: 30.051 d
         axial_tilt: 20.48°
         albedo: 0.30
-        temperature: 16854 K<br />(16581 °C)
+        temperature: 779 K<br />(506 °C)
   - name: 0066 Olliad II
     type: Terrestrial
     aphelion: 4,314,533,956 km<br />28.840 AU
@@ -118,14 +118,14 @@ planets:
     radius: 6,413.2 km<br/>(1.007 Yrths)
     surface_area: 5.168 × 10<sup>08</sup> km<sup>2</sup><br/>(1.013 Yrths)
     volume: 1.105 × 10<sup>12</sup> km<sup>3</sup><br/>(1.020 Yrths)
-    mass: 5.238 × 10<sup>24</sup> kg<br />(0.8770363541166138 Yrths)
+    mass: 5.238 × 10<sup>24</sup> kg<br />(0.88 Yrths)
     density: 4.740 g/cm<sup>3</sup>
     surface_gravity: 8.488 m/s<sup>2</sup><br />(0.866 g<sub>0</sub>)
     escape_velocity: 10.441 km/s<br />(37,588 km/h)
     rotation_period: 1.040 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 609 K<br />(336 °C)
+    temperature: 892 K<br />(619 °C)
     surface_pressure: 23 kPa<br />(0 atm)
     composition:
       - 92.3306% methane
@@ -144,12 +144,12 @@ planets:
         radius: 2,714.8 km<br/>(0.426 Yrths)
         surface_area: 9.261 × 10<sup>07</sup> km<sup>2</sup><br/>(0.182 Yrths)
         volume: 8.381 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-        mass: 2.627 × 10<sup>23</sup> kg<br />(0.8770363541166138 Yrths)
+        mass: 2.627 × 10<sup>23</sup> kg<br />(0.044 Yrths)
         density: 3.134 g/cm<sup>3</sup>
         surface_gravity: 2.376 m/s<sup>2</sup><br />(0.242 g<sub>0</sub>)
         escape_velocity: 3.594 km/s<br />(12,938 km/h)
         rotation_period: 30.155 d
         axial_tilt: 10.93°
         albedo: 0.30
-        temperature: 12474 K<br />(12200 °C)
+        temperature: 515 K<br />(242 °C)
 ---

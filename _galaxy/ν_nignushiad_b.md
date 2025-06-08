@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Nignushiad B is a star in the constellation Nignus
+      ν Nignushiad B is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 730.44 ly
 apparent_magnitude: 13.00
 absolute_magnitude: 6.25

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1103 Narashiad is a star in the constellation Naras
+      1103 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 339.76 ly
 apparent_magnitude: 12.15
 absolute_magnitude: 7.06

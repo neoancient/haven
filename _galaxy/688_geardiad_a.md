@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      688 Geardiad A is a star in the constellation Geard
+      688 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 400.35 ly
 apparent_magnitude: 7.92
 absolute_magnitude: 2.48

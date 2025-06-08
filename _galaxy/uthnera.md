@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Uthnera is a star in the constellation Luna
+      Uthnera is a star in the constellation <a href="luna.html">Luna</a>
 distance: 1451.99 ly
 apparent_magnitude: 1.67
 absolute_magnitude: -6.57

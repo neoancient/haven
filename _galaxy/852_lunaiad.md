@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      852 Lunaiad is a star in the constellation Luna
+      852 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 281.99 ly
 apparent_magnitude: 9.44
 absolute_magnitude: 4.76

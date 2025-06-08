@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0048 Switheriad A is a star in the constellation Swither
+      0048 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 664.84 ly
 apparent_magnitude: 6.24
 absolute_magnitude: -0.31

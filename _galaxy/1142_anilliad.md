@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1142 Anilliad is a star in the constellation Anil
+      1142 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 382.08 ly
 apparent_magnitude: 10.65
 absolute_magnitude: 5.31
@@ -31,14 +31,14 @@ planets:
     radius: 6,235.9 km<br/>(0.979 Yrths)
     surface_area: 4.887 × 10<sup>08</sup> km<sup>2</sup><br/>(0.958 Yrths)
     volume: 1.016 × 10<sup>12</sup> km<sup>3</sup><br/>(0.938 Yrths)
-    mass: 5.885 × 10<sup>24</sup> kg<br />(0.9854981515582895 Yrths)
+    mass: 5.885 × 10<sup>24</sup> kg<br />(0.99 Yrths)
     density: 5.794 g/cm<sup>3</sup>
     surface_gravity: 10.088 m/s<sup>2</sup><br />(1.029 g<sub>0</sub>)
     escape_velocity: 11.224 km/s<br />(40,407 km/h)
     rotation_period: 1.691 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 332 K<br />(59 °C)
+    temperature: 311 K<br />(38 °C)
     surface_pressure: 35 kPa<br />(0 atm)
     composition:
       - 97.6550% nitrogen
@@ -55,7 +55,7 @@ planets:
     radius: 213.1 km<br/>(0.033 Yrths)
     surface_area: 5.707 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.054 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.457 × 10<sup>27</sup> kg<br />(243.935815988293 Yrths)
+    mass: 1.457 × 10<sup>27</sup> kg<br />(243.94 Yrths)
     density: 35934627.468 g/cm<sup>3</sup>
     surface_gravity: 2138039.448 m/s<sup>2</sup><br />(218019.349 g<sub>0</sub>)
     escape_velocity: 955.249 km/s<br />(3,438,897 km/h)
@@ -76,14 +76,14 @@ planets:
         radius: 129,767.4 km<br/>(20.368 Yrths)
         surface_area: 2.116 × 10<sup>11</sup> km<sup>2</sup><br/>(414.874 Yrths)
         volume: 9.153 × 10<sup>15</sup> km<sup>3</sup><br/>(8450.330 Yrths)
-        mass: 3.155 × 10<sup>28</sup> kg<br />(243.935815988293 Yrths)
+        mass: 3.155 × 10<sup>28</sup> kg<br />(5282.760 Yrths)
         density: 3.447 g/cm<sup>3</sup>
         surface_gravity: 124.872 m/s<sup>2</sup><br />(12.733 g<sub>0</sub>)
         escape_velocity: 180.146 km/s<br />(648,527 km/h)
         rotation_period: 39.973 d
         axial_tilt: 14.92°
         albedo: 0.30
-        temperature: 328 K<br />(55 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 1142 Anilliad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 133,306.0 km<br/>(20.924 Yrths)
         surface_area: 2.233 × 10<sup>11</sup> km<sup>2</sup><br/>(437.809 Yrths)
         volume: 9.923 × 10<sup>15</sup> km<sup>3</sup><br/>(9160.650 Yrths)
-        mass: 2.362 × 10<sup>28</sup> kg<br />(243.935815988293 Yrths)
+        mass: 2.362 × 10<sup>28</sup> kg<br />(3954.980 Yrths)
         density: 2.380 g/cm<sup>3</sup>
         surface_gravity: 88.589 m/s<sup>2</sup><br />(9.034 g<sub>0</sub>)
         escape_velocity: 153.789 km/s<br />(553,640 km/h)
         rotation_period: 58.430 d
         axial_tilt: 21.07°
         albedo: 0.30
-        temperature: 139 K<br />(-134 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 1142 Anilliad II c
         type: Icy
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 171,791.1 km<br/>(26.965 Yrths)
         surface_area: 3.709 × 10<sup>11</sup> km<sup>2</sup><br/>(727.086 Yrths)
         volume: 2.124 × 10<sup>16</sup> km<sup>3</sup><br/>(19605.542 Yrths)
-        mass: 3.404 × 10<sup>28</sup> kg<br />(243.935815988293 Yrths)
+        mass: 3.404 × 10<sup>28</sup> kg<br />(5699.746 Yrths)
         density: 1.603 g/cm<sup>3</sup>
         surface_gravity: 76.876 m/s<sup>2</sup><br />(7.839 g<sub>0</sub>)
         escape_velocity: 162.632 km/s<br />(585,474 km/h)
         rotation_period: 52.573 d
         axial_tilt: 18.91°
         albedo: 0.30
-        temperature: 121 K<br />(-153 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 1142 Anilliad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 141,894.6 km<br/>(22.272 Yrths)
         surface_area: 2.530 × 10<sup>11</sup> km<sup>2</sup><br/>(496.040 Yrths)
         volume: 1.197 × 10<sup>16</sup> km<sup>3</sup><br/>(11047.768 Yrths)
-        mass: 2.442 × 10<sup>28</sup> kg<br />(243.935815988293 Yrths)
+        mass: 2.442 × 10<sup>28</sup> kg<br />(4089.060 Yrths)
         density: 2.041 g/cm<sup>3</sup>
         surface_gravity: 80.840 m/s<sup>2</sup><br />(8.243 g<sub>0</sub>)
         escape_velocity: 151.568 km/s<br />(545,644 km/h)
         rotation_period: 55.550 d
         axial_tilt: 16.48°
         albedo: 0.30
-        temperature: 79 K<br />(-195 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 1142 Anilliad II e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -156,14 +156,14 @@ planets:
         radius: 254,583.4 km<br/>(39.960 Yrths)
         surface_area: 8.145 × 10<sup>11</sup> km<sup>2</sup><br/>(1596.780 Yrths)
         volume: 6.912 × 10<sup>16</sup> km<sup>3</sup><br/>(63806.874 Yrths)
-        mass: 1.561 × 10<sup>29</sup> kg<br />(243.935815988293 Yrths)
+        mass: 1.561 × 10<sup>29</sup> kg<br />(26144.977 Yrths)
         density: 2.259 g/cm<sup>3</sup>
         surface_gravity: 160.570 m/s<sup>2</sup><br />(16.374 g<sub>0</sub>)
         escape_velocity: 286.126 km/s<br />(1,030,052 km/h)
         rotation_period: 37.254 d
         axial_tilt: 14.92°
         albedo: 0.30
-        temperature: 51 K<br />(-222 °C)
+        temperature: 228 K<br />(-45 °C)
   - name: 1142 Anilliad III
     type: Large terrestrial
     aphelion: 260,048,628 km<br />1.738 AU
@@ -175,14 +175,14 @@ planets:
     radius: 8,134.3 km<br/>(1.277 Yrths)
     surface_area: 8.315 × 10<sup>08</sup> km<sup>2</sup><br/>(1.630 Yrths)
     volume: 2.255 × 10<sup>12</sup> km<sup>3</sup><br/>(2.081 Yrths)
-    mass: 1.326 × 10<sup>25</sup> kg<br />(2.2207005781980302 Yrths)
+    mass: 1.326 × 10<sup>25</sup> kg<br />(2.22 Yrths)
     density: 5.882 g/cm<sup>3</sup>
     surface_gravity: 13.359 m/s<sup>2</sup><br />(1.362 g<sub>0</sub>)
     escape_velocity: 14.752 km/s<br />(53,109 km/h)
     rotation_period: 0.892 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 235 K<br />(-38 °C)
+    temperature: 220 K<br />(-53 °C)
     surface_pressure: 493 kPa<br />(5 atm)
     composition:
       - 96.3188% nitrogen
@@ -201,14 +201,14 @@ planets:
         radius: 1,503.0 km<br/>(0.236 Yrths)
         surface_area: 2.839 × 10<sup>07</sup> km<sup>2</sup><br/>(0.056 Yrths)
         volume: 1.422 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 1.775 × 10<sup>22</sup> kg<br />(2.2207005781980302 Yrths)
+        mass: 1.775 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.248 g/cm<sup>3</sup>
         surface_gravity: 0.524 m/s<sup>2</sup><br />(0.053 g<sub>0</sub>)
         escape_velocity: 1.256 km/s<br />(4,520 km/h)
         rotation_period: 51.589 d
         axial_tilt: 9.67°
         albedo: 0.30
-        temperature: 2240 K<br />(1967 °C)
+        temperature: 178 K<br />(-95 °C)
       - name: 1142 Anilliad III b
         type: Rocky
         formationType: Captured
@@ -221,14 +221,14 @@ planets:
         radius: 5,789.9 km<br/>(0.909 Yrths)
         surface_area: 4.213 × 10<sup>08</sup> km<sup>2</sup><br/>(0.826 Yrths)
         volume: 8.130 × 10<sup>11</sup> km<sup>3</sup><br/>(0.751 Yrths)
-        mass: 2.252 × 10<sup>24</sup> kg<br />(2.2207005781980302 Yrths)
+        mass: 2.252 × 10<sup>24</sup> kg<br />(0.377 Yrths)
         density: 2.770 g/cm<sup>3</sup>
         surface_gravity: 4.477 m/s<sup>2</sup><br />(0.457 g<sub>0</sub>)
         escape_velocity: 7.205 km/s<br />(25,939 km/h)
         rotation_period: 58.390 d
         axial_tilt: 13.92°
         albedo: 0.30
-        temperature: 2136 K<br />(1862 °C)
+        temperature: 178 K<br />(-95 °C)
   - name: 1142 Anilliad IV
     type: Gas dwarf
     aphelion: 420,421,195 km<br />2.810 AU
@@ -240,14 +240,14 @@ planets:
     radius: 3,927.1 km<br/>(0.616 Yrths)
     surface_area: 1.938 × 10<sup>08</sup> km<sup>2</sup><br/>(0.380 Yrths)
     volume: 2.537 × 10<sup>11</sup> km<sup>3</sup><br/>(0.234 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.354 g/cm<sup>3</sup>
     surface_gravity: 2.581 m/s<sup>2</sup><br />(0.263 g<sub>0</sub>)
     escape_velocity: 4.505 km/s<br />(16,220 km/h)
     rotation_period: 1.165 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 192 K<br />(-82 °C)
+    temperature: 168 K<br />(-105 °C)
     composition:
       - 85.5762% hydrogen
       - 14.0923% helium
@@ -267,14 +267,14 @@ planets:
         radius: 1,281.9 km<br/>(0.201 Yrths)
         surface_area: 2.065 × 10<sup>07</sup> km<sup>2</sup><br/>(0.040 Yrths)
         volume: 8.824 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 1.159 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.159 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.313 g/cm<sup>3</sup>
         surface_gravity: 0.470 m/s<sup>2</sup><br />(0.048 g<sub>0</sub>)
         escape_velocity: 1.099 km/s<br />(3,955 km/h)
         rotation_period: 48.364 d
         axial_tilt: 24.33°
         albedo: 0.30
-        temperature: 2916 K<br />(2643 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 1142 Anilliad IV b
         type: Icy
         formationType: Captured
@@ -287,14 +287,14 @@ planets:
         radius: 415.5 km<br/>(0.065 Yrths)
         surface_area: 2.169 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 3.004 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.038 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.038 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.011 g/cm<sup>3</sup>
         surface_gravity: 0.117 m/s<sup>2</sup><br />(0.012 g<sub>0</sub>)
         escape_velocity: 0.312 km/s<br />(1,125 km/h)
         rotation_period: 51.086 d
         axial_tilt: 22.66°
         albedo: 0.30
-        temperature: 2780 K<br />(2507 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 1142 Anilliad IV c
         type: Icy
         formationType: Captured
@@ -307,14 +307,14 @@ planets:
         radius: 834.9 km<br/>(0.131 Yrths)
         surface_area: 8.759 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.437 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.627 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.627 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.078 g/cm<sup>3</sup>
         surface_gravity: 0.251 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.648 km/s<br />(2,333 km/h)
         rotation_period: 73.232 d
         axial_tilt: 16.83°
         albedo: 0.30
-        temperature: 2651 K<br />(2377 °C)
+        temperature: 139 K<br />(-134 °C)
   - name: 1142 Anilliad V
     type: Ice giant
     aphelion: 724,245,432 km<br />4.841 AU
@@ -326,14 +326,14 @@ planets:
     radius: 22,694.9 km<br/>(3.562 Yrths)
     surface_area: 6.472 × 10<sup>09</sup> km<sup>2</sup><br/>(12.689 Yrths)
     volume: 4.896 × 10<sup>13</sup> km<sup>3</sup><br/>(45.202 Yrths)
-    mass: 7.829 × 10<sup>25</sup> kg<br />(13.110156116345383 Yrths)
+    mass: 7.829 × 10<sup>25</sup> kg<br />(13.11 Yrths)
     density: 1.599 g/cm<sup>3</sup>
     surface_gravity: 10.132 m/s<sup>2</sup><br />(1.033 g<sub>0</sub>)
     escape_velocity: 21.459 km/s<br />(77,254 km/h)
     rotation_period: 0.399 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 197 K<br />(-76 °C)
+    temperature: 180 K<br />(-93 °C)
     composition:
       - 84.7628% hydrogen
       - 10.7330% helium
@@ -353,14 +353,14 @@ planets:
         radius: 29,379.1 km<br/>(4.611 Yrths)
         surface_area: 1.085 × 10<sup>10</sup> km<sup>2</sup><br/>(21.265 Yrths)
         volume: 1.062 × 10<sup>14</sup> km<sup>3</sup><br/>(98.060 Yrths)
-        mass: 2.195 × 10<sup>26</sup> kg<br />(13.110156116345383 Yrths)
+        mass: 2.195 × 10<sup>26</sup> kg<br />(36.747 Yrths)
         density: 2.066 g/cm<sup>3</sup>
         surface_gravity: 16.947 m/s<sup>2</sup><br />(1.728 g<sub>0</sub>)
         escape_velocity: 31.577 km/s<br />(113,677 km/h)
         rotation_period: 59.169 d
         axial_tilt: 16.81°
         albedo: 0.30
-        temperature: 1011 K<br />(738 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1142 Anilliad V b
         type: Dwarf planet
         formationType: Accreted
@@ -373,14 +373,14 @@ planets:
         radius: 14,704.3 km<br/>(2.308 Yrths)
         surface_area: 2.717 × 10<sup>09</sup> km<sup>2</sup><br/>(5.327 Yrths)
         volume: 1.332 × 10<sup>13</sup> km<sup>3</sup><br/>(12.294 Yrths)
-        mass: 3.138 × 10<sup>25</sup> kg<br />(13.110156116345383 Yrths)
+        mass: 3.138 × 10<sup>25</sup> kg<br />(5.254 Yrths)
         density: 2.356 g/cm<sup>3</sup>
         surface_gravity: 9.672 m/s<sup>2</sup><br />(0.986 g<sub>0</sub>)
         escape_velocity: 16.877 km/s<br />(60,758 km/h)
         rotation_period: 41.987 d
         axial_tilt: 25.19°
         albedo: 0.30
-        temperature: 876 K<br />(603 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1142 Anilliad V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -393,14 +393,14 @@ planets:
         radius: 11,474.0 km<br/>(1.801 Yrths)
         surface_area: 1.654 × 10<sup>09</sup> km<sup>2</sup><br/>(3.243 Yrths)
         volume: 6.327 × 10<sup>12</sup> km<sup>3</sup><br/>(5.841 Yrths)
-        mass: 1.492 × 10<sup>25</sup> kg<br />(13.110156116345383 Yrths)
+        mass: 1.492 × 10<sup>25</sup> kg<br />(2.498 Yrths)
         density: 2.358 g/cm<sup>3</sup>
         surface_gravity: 7.554 m/s<sup>2</sup><br />(0.770 g<sub>0</sub>)
         escape_velocity: 13.175 km/s<br />(47,431 km/h)
         rotation_period: 52.281 d
         axial_tilt: 18.46°
         albedo: 0.30
-        temperature: 835 K<br />(562 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1142 Anilliad V d
         type: Asteroid
         formationType: Captured
@@ -413,14 +413,14 @@ planets:
         radius: 16,751.2 km<br/>(2.629 Yrths)
         surface_area: 3.526 × 10<sup>09</sup> km<sup>2</sup><br/>(6.913 Yrths)
         volume: 1.969 × 10<sup>13</sup> km<sup>3</sup><br/>(18.177 Yrths)
-        mass: 5.152 × 10<sup>25</sup> kg<br />(13.110156116345383 Yrths)
+        mass: 5.152 × 10<sup>25</sup> kg<br />(8.627 Yrths)
         density: 2.617 g/cm<sup>3</sup>
         surface_gravity: 12.238 m/s<sup>2</sup><br />(1.248 g<sub>0</sub>)
         escape_velocity: 20.262 km/s<br />(72,945 km/h)
         rotation_period: 44.230 d
         axial_tilt: 24.68°
         albedo: 0.30
-        temperature: 796 K<br />(523 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1142 Anilliad V e
         type: Icy
         formationType: Accreted
@@ -433,14 +433,14 @@ planets:
         radius: 22,145.6 km<br/>(3.476 Yrths)
         surface_area: 6.163 × 10<sup>09</sup> km<sup>2</sup><br/>(12.083 Yrths)
         volume: 4.549 × 10<sup>13</sup> km<sup>3</sup><br/>(41.999 Yrths)
-        mass: 7.626 × 10<sup>25</sup> kg<br />(13.110156116345383 Yrths)
+        mass: 7.626 × 10<sup>25</sup> kg<br />(12.769 Yrths)
         density: 1.676 g/cm<sup>3</sup>
         surface_gravity: 10.364 m/s<sup>2</sup><br />(1.057 g<sub>0</sub>)
         escape_velocity: 21.440 km/s<br />(77,183 km/h)
         rotation_period: 51.109 d
         axial_tilt: 15.90°
         albedo: 0.30
-        temperature: 759 K<br />(486 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1142 Anilliad V f
         type: Icy
         formationType: Accreted
@@ -453,14 +453,14 @@ planets:
         radius: 21,071.6 km<br/>(3.307 Yrths)
         surface_area: 5.580 × 10<sup>09</sup> km<sup>2</sup><br/>(10.939 Yrths)
         volume: 3.919 × 10<sup>13</sup> km<sup>3</sup><br/>(36.180 Yrths)
-        mass: 5.365 × 10<sup>25</sup> kg<br />(13.110156116345383 Yrths)
+        mass: 5.365 × 10<sup>25</sup> kg<br />(8.984 Yrths)
         density: 1.369 g/cm<sup>3</sup>
         surface_gravity: 8.054 m/s<sup>2</sup><br />(0.821 g<sub>0</sub>)
         escape_velocity: 18.436 km/s<br />(66,368 km/h)
         rotation_period: 45.199 d
         axial_tilt: 8.50°
         albedo: 0.30
-        temperature: 724 K<br />(451 °C)
+        temperature: 108 K<br />(-165 °C)
   - name: 1142 Anilliad VI
     type: Gas giant
     aphelion: 1,130,870,822 km<br />7.559 AU
@@ -472,7 +472,7 @@ planets:
     radius: 200.3 km<br/>(0.031 Yrths)
     surface_area: 5.043 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.368 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.017 × 10<sup>27</sup> kg<br />(170.36197233451566 Yrths)
+    mass: 1.017 × 10<sup>27</sup> kg<br />(170.36 Yrths)
     density: 30210945.028 g/cm<sup>3</sup>
     surface_gravity: 1689723.015 m/s<sup>2</sup><br />(172303.795 g<sub>0</sub>)
     escape_velocity: 823.362 km/s<br />(2,964,103 km/h)
@@ -493,14 +493,14 @@ planets:
         radius: 113,492.3 km<br/>(17.814 Yrths)
         surface_area: 1.619 × 10<sup>11</sup> km<sup>2</sup><br/>(317.335 Yrths)
         volume: 6.123 × 10<sup>15</sup> km<sup>3</sup><br/>(5652.964 Yrths)
-        mass: 1.928 × 10<sup>28</sup> kg<br />(170.36197233451566 Yrths)
+        mass: 1.928 × 10<sup>28</sup> kg<br />(3228.229 Yrths)
         density: 3.148 g/cm<sup>3</sup>
         surface_gravity: 99.763 m/s<sup>2</sup><br />(10.173 g<sub>0</sub>)
         escape_velocity: 150.583 km/s<br />(542,100 km/h)
         rotation_period: 36.015 d
         axial_tilt: 10.86°
         albedo: 0.30
-        temperature: 350 K<br />(77 °C)
+        temperature: 85 K<br />(-189 °C)
       - name: 1142 Anilliad VI b
         type: Icy
         formationType: Captured
@@ -513,14 +513,14 @@ planets:
         radius: 123,843.0 km<br/>(19.439 Yrths)
         surface_area: 1.927 × 10<sup>11</sup> km<sup>2</sup><br/>(377.857 Yrths)
         volume: 7.956 × 10<sup>15</sup> km<sup>3</sup><br/>(7345.000 Yrths)
-        mass: 1.101 × 10<sup>28</sup> kg<br />(170.36197233451566 Yrths)
+        mass: 1.101 × 10<sup>28</sup> kg<br />(1843.119 Yrths)
         density: 1.383 g/cm<sup>3</sup>
         surface_gravity: 47.835 m/s<sup>2</sup><br />(4.878 g<sub>0</sub>)
         escape_velocity: 108.923 km/s<br />(392,122 km/h)
         rotation_period: 55.461 d
         axial_tilt: 12.53°
         albedo: 0.30
-        temperature: 304 K<br />(31 °C)
+        temperature: 85 K<br />(-189 °C)
       - name: 1142 Anilliad VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -533,14 +533,14 @@ planets:
         radius: 109,287.5 km<br/>(17.154 Yrths)
         surface_area: 1.501 × 10<sup>11</sup> km<sup>2</sup><br/>(294.256 Yrths)
         volume: 5.468 × 10<sup>15</sup> km<sup>3</sup><br/>(5047.645 Yrths)
-        mass: 1.351 × 10<sup>28</sup> kg<br />(170.36197233451566 Yrths)
+        mass: 1.351 × 10<sup>28</sup> kg<br />(2261.751 Yrths)
         density: 2.470 g/cm<sup>3</sup>
         surface_gravity: 75.377 m/s<sup>2</sup><br />(7.686 g<sub>0</sub>)
         escape_velocity: 128.444 km/s<br />(462,400 km/h)
         rotation_period: 59.855 d
         axial_tilt: 23.81°
         albedo: 0.30
-        temperature: 208 K<br />(-66 °C)
+        temperature: 85 K<br />(-189 °C)
       - name: 1142 Anilliad VI d
         type: Icy
         formationType: Impact formed
@@ -553,14 +553,14 @@ planets:
         radius: 121,865.9 km<br/>(19.128 Yrths)
         surface_area: 1.866 × 10<sup>11</sup> km<sup>2</sup><br/>(365.889 Yrths)
         volume: 7.581 × 10<sup>15</sup> km<sup>3</sup><br/>(6998.812 Yrths)
-        mass: 1.341 × 10<sup>28</sup> kg<br />(170.36197233451566 Yrths)
+        mass: 1.341 × 10<sup>28</sup> kg<br />(2245.416 Yrths)
         density: 1.769 g/cm<sup>3</sup>
         surface_gravity: 60.182 m/s<sup>2</sup><br />(6.137 g<sub>0</sub>)
         escape_velocity: 121.195 km/s<br />(436,302 km/h)
         rotation_period: 47.906 d
         axial_tilt: 13.53°
         albedo: 0.30
-        temperature: 106 K<br />(-167 °C)
+        temperature: 85 K<br />(-189 °C)
       - name: 1142 Anilliad VI e
         type: Ice/rock hybrid
         formationType: Captured
@@ -573,14 +573,14 @@ planets:
         radius: 304,336.3 km<br/>(47.769 Yrths)
         surface_area: 1.164 × 10<sup>12</sup> km<sup>2</sup><br/>(2281.878 Yrths)
         volume: 1.181 × 10<sup>17</sup> km<sup>3</sup><br/>(109003.021 Yrths)
-        mass: 2.467 × 10<sup>29</sup> kg<br />(170.36197233451566 Yrths)
+        mass: 2.467 × 10<sup>29</sup> kg<br />(41306.485 Yrths)
         density: 2.089 g/cm<sup>3</sup>
         surface_gravity: 177.520 m/s<sup>2</sup><br />(18.102 g<sub>0</sub>)
         escape_velocity: 328.935 km/s<br />(1,184,166 km/h)
         rotation_period: 41.378 d
         axial_tilt: 26.22°
         albedo: 0.30
-        temperature: 41 K<br />(-232 °C)
+        temperature: 85 K<br />(-189 °C)
   - name: 1142 Anilliad VII
     type: Large terrestrial
     aphelion: 1,859,093,428 km<br />12.427 AU
@@ -592,14 +592,14 @@ planets:
     radius: 7,241.0 km<br/>(1.137 Yrths)
     surface_area: 6.589 × 10<sup>08</sup> km<sup>2</sup><br/>(1.292 Yrths)
     volume: 1.590 × 10<sup>12</sup> km<sup>3</sup><br/>(1.468 Yrths)
-    mass: 1.114 × 10<sup>25</sup> kg<br />(1.8654856605175165 Yrths)
+    mass: 1.114 × 10<sup>25</sup> kg<br />(1.87 Yrths)
     density: 7.005 g/cm<sup>3</sup>
     surface_gravity: 14.162 m/s<sup>2</sup><br />(1.444 g<sub>0</sub>)
     escape_velocity: 14.331 km/s<br />(51,591 km/h)
     rotation_period: 0.747 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 93 K<br />(-180 °C)
+    temperature: 103 K<br />(-170 °C)
     surface_pressure: 840 kPa<br />(8 atm)
     composition:
       - 82.0409% nitrogen
@@ -621,14 +621,14 @@ planets:
         radius: 1,443.1 km<br/>(0.227 Yrths)
         surface_area: 2.617 × 10<sup>07</sup> km<sup>2</sup><br/>(0.051 Yrths)
         volume: 1.259 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 3.910 × 10<sup>22</sup> kg<br />(1.8654856605175165 Yrths)
+        mass: 3.910 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 3.106 g/cm<sup>3</sup>
         surface_gravity: 1.251 m/s<sup>2</sup><br />(0.128 g<sub>0</sub>)
         escape_velocity: 1.902 km/s<br />(6,846 km/h)
         rotation_period: 33.255 d
         axial_tilt: 14.43°
         albedo: 0.30
-        temperature: 879 K<br />(606 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 1142 Anilliad VII b
         type: Rocky
         formationType: Accreted
@@ -641,14 +641,14 @@ planets:
         radius: 4,706.6 km<br/>(0.739 Yrths)
         surface_area: 2.784 × 10<sup>08</sup> km<sup>2</sup><br/>(0.546 Yrths)
         volume: 4.367 × 10<sup>11</sup> km<sup>3</sup><br/>(0.403 Yrths)
-        mass: 1.100 × 10<sup>24</sup> kg<br />(1.8654856605175165 Yrths)
+        mass: 1.100 × 10<sup>24</sup> kg<br />(0.184 Yrths)
         density: 2.519 g/cm<sup>3</sup>
         surface_gravity: 3.310 m/s<sup>2</sup><br />(0.337 g<sub>0</sub>)
         escape_velocity: 5.585 km/s<br />(20,107 km/h)
         rotation_period: 45.273 d
         axial_tilt: 16.36°
         albedo: 0.30
-        temperature: 838 K<br />(565 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 1142 Anilliad VII c
         type: Dwarf planet
         formationType: Captured
@@ -661,12 +661,12 @@ planets:
         radius: 2,568.2 km<br/>(0.403 Yrths)
         surface_area: 8.288 × 10<sup>07</sup> km<sup>2</sup><br/>(0.162 Yrths)
         volume: 7.095 × 10<sup>10</sup> km<sup>3</sup><br/>(0.066 Yrths)
-        mass: 1.533 × 10<sup>23</sup> kg<br />(1.8654856605175165 Yrths)
+        mass: 1.533 × 10<sup>23</sup> kg<br />(0.026 Yrths)
         density: 2.161 g/cm<sup>3</sup>
         surface_gravity: 1.550 m/s<sup>2</sup><br />(0.158 g<sub>0</sub>)
         escape_velocity: 2.823 km/s<br />(10,163 km/h)
         rotation_period: 35.488 d
         axial_tilt: 24.24°
         albedo: 0.30
-        temperature: 799 K<br />(526 °C)
+        temperature: 66 K<br />(-207 °C)
 ---

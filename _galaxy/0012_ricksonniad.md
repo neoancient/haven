@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0012 Ricksonniad is a star in the constellation Rickson
+      0012 Ricksonniad is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 79.08 ly
 apparent_magnitude: 5.97
 absolute_magnitude: 4.05
@@ -31,14 +31,14 @@ planets:
     radius: 8,048.4 km<br/>(1.263 Yrths)
     surface_area: 8.140 × 10<sup>08</sup> km<sup>2</sup><br/>(1.596 Yrths)
     volume: 2.184 × 10<sup>12</sup> km<sup>3</sup><br/>(2.016 Yrths)
-    mass: 1.017 × 10<sup>25</sup> kg<br />(1.703355873425428 Yrths)
+    mass: 1.017 × 10<sup>25</sup> kg<br />(1.70 Yrths)
     density: 4.658 g/cm<sup>3</sup>
     surface_gravity: 10.467 m/s<sup>2</sup><br />(1.067 g<sub>0</sub>)
     escape_velocity: 12.989 km/s<br />(46,760 km/h)
     rotation_period: 1.102 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 292 K<br />(19 °C)
+    temperature: 434 K<br />(161 °C)
     surface_pressure: 9 kPa<br />(0 atm)
     composition:
       - 88.6848% methane
@@ -59,14 +59,14 @@ planets:
         radius: 2,406.6 km<br/>(0.378 Yrths)
         surface_area: 7.278 × 10<sup>07</sup> km<sup>2</sup><br/>(0.143 Yrths)
         volume: 5.838 × 10<sup>10</sup> km<sup>3</sup><br/>(0.054 Yrths)
-        mass: 1.263 × 10<sup>23</sup> kg<br />(1.703355873425428 Yrths)
+        mass: 1.263 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 2.163 g/cm<sup>3</sup>
         surface_gravity: 1.453 m/s<sup>2</sup><br />(0.148 g<sub>0</sub>)
         escape_velocity: 2.646 km/s<br />(9,527 km/h)
         rotation_period: 40.633 d
         axial_tilt: 48.01°
         albedo: 0.30
-        temperature: 4388 K<br />(4115 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 0012 Ricksonniad I b
         type: Icy
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 3,765.4 km<br/>(0.591 Yrths)
         surface_area: 1.782 × 10<sup>08</sup> km<sup>2</sup><br/>(0.349 Yrths)
         volume: 2.236 × 10<sup>11</sup> km<sup>3</sup><br/>(0.206 Yrths)
-        mass: 2.226 × 10<sup>23</sup> kg<br />(1.703355873425428 Yrths)
+        mass: 2.226 × 10<sup>23</sup> kg<br />(0.037 Yrths)
         density: 0.995 g/cm<sup>3</sup>
         surface_gravity: 1.046 m/s<sup>2</sup><br />(0.107 g<sub>0</sub>)
         escape_velocity: 2.809 km/s<br />(10,113 km/h)
         rotation_period: 89.156 d
         axial_tilt: 28.08°
         albedo: 0.30
-        temperature: 4184 K<br />(3911 °C)
+        temperature: 259 K<br />(-14 °C)
   - name: 0012 Ricksonniad II
     type: Terrestrial
     aphelion: 611,151,446 km<br />4.085 AU
@@ -98,14 +98,14 @@ planets:
     radius: 8,482.7 km<br/>(1.331 Yrths)
     surface_area: 9.042 × 10<sup>08</sup> km<sup>2</sup><br/>(1.773 Yrths)
     volume: 2.557 × 10<sup>12</sup> km<sup>3</sup><br/>(2.360 Yrths)
-    mass: 1.207 × 10<sup>25</sup> kg<br />(2.0218924794519966 Yrths)
+    mass: 1.207 × 10<sup>25</sup> kg<br />(2.02 Yrths)
     density: 4.723 g/cm<sup>3</sup>
     surface_gravity: 11.185 m/s<sup>2</sup><br />(1.141 g<sub>0</sub>)
     escape_velocity: 13.784 km/s<br />(49,624 km/h)
     rotation_period: 0.887 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 214 K<br />(-59 °C)
+    temperature: 324 K<br />(51 °C)
     surface_pressure: 7 kPa<br />(0 atm)
     composition:
       - 87.3735% methane
@@ -127,12 +127,12 @@ planets:
         radius: 4,005.7 km<br/>(0.629 Yrths)
         surface_area: 2.016 × 10<sup>08</sup> km<sup>2</sup><br/>(0.395 Yrths)
         volume: 2.692 × 10<sup>11</sup> km<sup>3</sup><br/>(0.249 Yrths)
-        mass: 7.535 × 10<sup>23</sup> kg<br />(2.0218924794519966 Yrths)
+        mass: 7.535 × 10<sup>23</sup> kg<br />(0.126 Yrths)
         density: 2.799 g/cm<sup>3</sup>
         surface_gravity: 3.130 m/s<sup>2</sup><br />(0.319 g<sub>0</sub>)
         escape_velocity: 5.011 km/s<br />(18,040 km/h)
         rotation_period: 33.286 d
         axial_tilt: 15.95°
         albedo: 0.30
-        temperature: 3154 K<br />(2881 °C)
+        temperature: 191 K<br />(-82 °C)
 ---

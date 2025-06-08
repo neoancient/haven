@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3511 Saithiad is a star in the constellation Saith
+      3511 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 493.15 ly
 apparent_magnitude: 11.59
 absolute_magnitude: 5.70

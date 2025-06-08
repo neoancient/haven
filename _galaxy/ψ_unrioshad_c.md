@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Unrioshad C is a star in the constellation Unrios
+      ψ Unrioshad C is a star in the constellation <a href="unrios.html">Unrios</a>
 distance: 101.31 ly
 apparent_magnitude: 8.34
 absolute_magnitude: 5.88
@@ -31,14 +31,14 @@ planets:
     radius: 6,601.4 km<br/>(1.036 Yrths)
     surface_area: 5.476 × 10<sup>08</sup> km<sup>2</sup><br/>(1.074 Yrths)
     volume: 1.205 × 10<sup>12</sup> km<sup>3</sup><br/>(1.112 Yrths)
-    mass: 9.365 × 10<sup>24</sup> kg<br />(1.5682334863416878 Yrths)
+    mass: 9.365 × 10<sup>24</sup> kg<br />(1.57 Yrths)
     density: 7.772 g/cm<sup>3</sup>
     surface_gravity: 14.324 m/s<sup>2</sup><br />(1.461 g<sub>0</sub>)
     escape_velocity: 13.761 km/s<br />(49,541 km/h)
     rotation_period: 1.232 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 512 K<br />(239 °C)
+    temperature: 1144 K<br />(870 °C)
     surface_pressure: 249 kPa<br />(2 atm)
     composition:
       - 64.3692% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 4,501.2 km<br/>(0.707 Yrths)
         surface_area: 2.546 × 10<sup>08</sup> km<sup>2</sup><br/>(0.499 Yrths)
         volume: 3.820 × 10<sup>11</sup> km<sup>3</sup><br/>(0.353 Yrths)
-        mass: 1.101 × 10<sup>24</sup> kg<br />(1.5682334863416878 Yrths)
+        mass: 1.101 × 10<sup>24</sup> kg<br />(0.184 Yrths)
         density: 2.883 g/cm<sup>3</sup>
         surface_gravity: 3.623 m/s<sup>2</sup><br />(0.369 g<sub>0</sub>)
         escape_velocity: 5.715 km/s<br />(20,574 km/h)
         rotation_period: 40.595 d
         axial_tilt: 39.02°
         albedo: 0.30
-        temperature: 5167 K<br />(4894 °C)
+        temperature: 335 K<br />(62 °C)
   - name: ψ Unrioshad C II
     type: Gas dwarf
     aphelion: 92,574,410 km<br />0.619 AU
@@ -77,14 +77,14 @@ planets:
     radius: 11,193.8 km<br/>(1.757 Yrths)
     surface_area: 1.575 × 10<sup>09</sup> km<sup>2</sup><br/>(3.087 Yrths)
     volume: 5.875 × 10<sup>12</sup> km<sup>3</sup><br/>(5.424 Yrths)
-    mass: 1.322 × 10<sup>25</sup> kg<br />(2.213351616753963 Yrths)
+    mass: 1.322 × 10<sup>25</sup> kg<br />(2.21 Yrths)
     density: 2.250 g/cm<sup>3</sup>
     surface_gravity: 7.031 m/s<sup>2</sup><br />(0.717 g<sub>0</sub>)
     escape_velocity: 12.555 km/s<br />(45,198 km/h)
     rotation_period: 0.932 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 366 K<br />(93 °C)
+    temperature: 322 K<br />(48 °C)
     composition:
       - 59.9337% hydrogen
       - 39.5080% helium
@@ -102,14 +102,14 @@ planets:
         radius: 3,611.0 km<br/>(0.567 Yrths)
         surface_area: 1.639 × 10<sup>08</sup> km<sup>2</sup><br/>(0.321 Yrths)
         volume: 1.972 × 10<sup>11</sup> km<sup>3</sup><br/>(0.182 Yrths)
-        mass: 4.616 × 10<sup>23</sup> kg<br />(2.213351616753963 Yrths)
+        mass: 4.616 × 10<sup>23</sup> kg<br />(0.077 Yrths)
         density: 2.340 g/cm<sup>3</sup>
         surface_gravity: 2.360 m/s<sup>2</sup><br />(0.241 g<sub>0</sub>)
         escape_velocity: 4.131 km/s<br />(14,871 km/h)
         rotation_period: 37.255 d
         axial_tilt: 27.94°
         albedo: 0.30
-        temperature: 2990 K<br />(2717 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: ψ Unrioshad C II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -122,14 +122,14 @@ planets:
         radius: 6,276.0 km<br/>(0.985 Yrths)
         surface_area: 4.950 × 10<sup>08</sup> km<sup>2</sup><br/>(0.970 Yrths)
         volume: 1.035 × 10<sup>12</sup> km<sup>3</sup><br/>(0.956 Yrths)
-        mass: 2.355 × 10<sup>24</sup> kg<br />(2.213351616753963 Yrths)
+        mass: 2.355 × 10<sup>24</sup> kg<br />(0.394 Yrths)
         density: 2.274 g/cm<sup>3</sup>
         surface_gravity: 3.985 m/s<sup>2</sup><br />(0.406 g<sub>0</sub>)
         escape_velocity: 7.077 km/s<br />(25,478 km/h)
         rotation_period: 46.993 d
         axial_tilt: 26.01°
         albedo: 0.30
-        temperature: 2851 K<br />(2578 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: ψ Unrioshad C II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 3,299.9 km<br/>(0.518 Yrths)
         surface_area: 1.368 × 10<sup>08</sup> km<sup>2</sup><br/>(0.268 Yrths)
         volume: 1.505 × 10<sup>11</sup> km<sup>3</sup><br/>(0.139 Yrths)
-        mass: 2.623 × 10<sup>23</sup> kg<br />(2.213351616753963 Yrths)
+        mass: 2.623 × 10<sup>23</sup> kg<br />(0.044 Yrths)
         density: 1.742 g/cm<sup>3</sup>
         surface_gravity: 1.605 m/s<sup>2</sup><br />(0.164 g<sub>0</sub>)
         escape_velocity: 3.257 km/s<br />(11,726 km/h)
         rotation_period: 46.744 d
         axial_tilt: 21.00°
         albedo: 0.30
-        temperature: 2718 K<br />(2445 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: ψ Unrioshad C II d
         type: Rocky
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 4,317.8 km<br/>(0.678 Yrths)
         surface_area: 2.343 × 10<sup>08</sup> km<sup>2</sup><br/>(0.459 Yrths)
         volume: 3.372 × 10<sup>11</sup> km<sup>3</sup><br/>(0.311 Yrths)
-        mass: 1.046 × 10<sup>24</sup> kg<br />(2.213351616753963 Yrths)
+        mass: 1.046 × 10<sup>24</sup> kg<br />(0.175 Yrths)
         density: 3.101 g/cm<sup>3</sup>
         surface_gravity: 3.738 m/s<sup>2</sup><br />(0.381 g<sub>0</sub>)
         escape_velocity: 5.685 km/s<br />(20,467 km/h)
         rotation_period: 33.342 d
         axial_tilt: 13.23°
         albedo: 0.30
-        temperature: 2592 K<br />(2319 °C)
+        temperature: 261 K<br />(-12 °C)
   - name: ψ Unrioshad C III
     type: Gas giant
     aphelion: 154,403,517 km<br />1.032 AU
@@ -181,7 +181,7 @@ planets:
     radius: 238.0 km<br/>(0.037 Yrths)
     surface_area: 7.118 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.647 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.182 × 10<sup>27</sup> kg<br />(365.4114020162963 Yrths)
+    mass: 2.182 × 10<sup>27</sup> kg<br />(365.41 Yrths)
     density: 38643934.560 g/cm<sup>3</sup>
     surface_gravity: 2567812.741 m/s<sup>2</sup><br />(261844.028 g<sub>0</sub>)
     escape_velocity: 1106.318 km/s<br />(3,982,746 km/h)
@@ -202,14 +202,14 @@ planets:
         radius: 177,742.0 km<br/>(27.899 Yrths)
         surface_area: 3.970 × 10<sup>11</sup> km<sup>2</sup><br/>(778.332 Yrths)
         volume: 2.352 × 10<sup>16</sup> km<sup>3</sup><br/>(21714.372 Yrths)
-        mass: 4.574 × 10<sup>28</sup> kg<br />(365.4114020162963 Yrths)
+        mass: 4.574 × 10<sup>28</sup> kg<br />(7658.646 Yrths)
         density: 1.945 g/cm<sup>3</sup>
         surface_gravity: 96.496 m/s<sup>2</sup><br />(9.840 g<sub>0</sub>)
         escape_velocity: 185.336 km/s<br />(667,208 km/h)
         rotation_period: 38.562 d
         axial_tilt: 20.50°
         albedo: 0.30
-        temperature: 713 K<br />(440 °C)
+        temperature: 204 K<br />(-69 °C)
       - name: ψ Unrioshad C III b
         type: Icy
         formationType: Captured
@@ -222,14 +222,14 @@ planets:
         radius: 172,481.8 km<br/>(27.073 Yrths)
         surface_area: 3.738 × 10<sup>11</sup> km<sup>2</sup><br/>(732.945 Yrths)
         volume: 2.149 × 10<sup>16</sup> km<sup>3</sup><br/>(19842.999 Yrths)
-        mass: 3.190 × 10<sup>28</sup> kg<br />(365.4114020162963 Yrths)
+        mass: 3.190 × 10<sup>28</sup> kg<br />(5341.203 Yrths)
         density: 1.484 g/cm<sup>3</sup>
         surface_gravity: 71.464 m/s<sup>2</sup><br />(7.287 g<sub>0</sub>)
         escape_velocity: 157.118 km/s<br />(565,624 km/h)
         rotation_period: 74.357 d
         axial_tilt: 21.74°
         albedo: 0.30
-        temperature: 589 K<br />(316 °C)
+        temperature: 204 K<br />(-69 °C)
       - name: ψ Unrioshad C III c
         type: Icy
         formationType: Accreted
@@ -242,14 +242,14 @@ planets:
         radius: 230,603.5 km<br/>(36.196 Yrths)
         surface_area: 6.683 × 10<sup>11</sup> km<sup>2</sup><br/>(1310.136 Yrths)
         volume: 5.137 × 10<sup>16</sup> km<sup>3</sup><br/>(47421.445 Yrths)
-        mass: 5.350 × 10<sup>28</sup> kg<br />(365.4114020162963 Yrths)
+        mass: 5.350 × 10<sup>28</sup> kg<br />(8958.190 Yrths)
         density: 1.041 g/cm<sup>3</sup>
         surface_gravity: 67.054 m/s<sup>2</sup><br />(6.838 g<sub>0</sub>)
         escape_velocity: 175.977 km/s<br />(633,516 km/h)
         rotation_period: 88.965 d
         axial_tilt: 15.16°
         albedo: 0.30
-        temperature: 562 K<br />(288 °C)
+        temperature: 204 K<br />(-69 °C)
       - name: ψ Unrioshad C III d
         type: Rocky
         formationType: Captured
@@ -262,14 +262,14 @@ planets:
         radius: 206,649.5 km<br/>(32.436 Yrths)
         surface_area: 5.366 × 10<sup>11</sup> km<sup>2</sup><br/>(1052.091 Yrths)
         volume: 3.697 × 10<sup>16</sup> km<sup>3</sup><br/>(34125.586 Yrths)
-        mass: 1.015 × 10<sup>29</sup> kg<br />(365.4114020162963 Yrths)
+        mass: 1.015 × 10<sup>29</sup> kg<br />(16999.532 Yrths)
         density: 2.746 g/cm<sup>3</sup>
         surface_gravity: 158.454 m/s<sup>2</sup><br />(16.158 g<sub>0</sub>)
         escape_velocity: 256.082 km/s<br />(921,895 km/h)
         rotation_period: 37.818 d
         axial_tilt: 13.91°
         albedo: 0.30
-        temperature: 535 K<br />(262 °C)
+        temperature: 204 K<br />(-69 °C)
       - name: ψ Unrioshad C III e
         type: Icy
         formationType: Accreted
@@ -282,14 +282,14 @@ planets:
         radius: 163,226.5 km<br/>(25.620 Yrths)
         surface_area: 3.348 × 10<sup>11</sup> km<sup>2</sup><br/>(656.397 Yrths)
         volume: 1.822 × 10<sup>16</sup> km<sup>3</sup><br/>(16817.034 Yrths)
-        mass: 2.899 × 10<sup>28</sup> kg<br />(365.4114020162963 Yrths)
+        mass: 2.899 × 10<sup>28</sup> kg<br />(4854.712 Yrths)
         density: 1.592 g/cm<sup>3</sup>
         surface_gravity: 72.530 m/s<sup>2</sup><br />(7.396 g<sub>0</sub>)
         escape_velocity: 153.980 km/s<br />(554,328 km/h)
         rotation_period: 50.203 d
         axial_tilt: 22.03°
         albedo: 0.30
-        temperature: 422 K<br />(149 °C)
+        temperature: 204 K<br />(-69 °C)
       - name: ψ Unrioshad C III f
         type: Icy
         formationType: Accreted
@@ -302,14 +302,14 @@ planets:
         radius: 210,162.9 km<br/>(32.987 Yrths)
         surface_area: 5.550 × 10<sup>11</sup> km<sup>2</sup><br/>(1088.170 Yrths)
         volume: 3.888 × 10<sup>16</sup> km<sup>3</sup><br/>(35895.923 Yrths)
-        mass: 5.810 × 10<sup>28</sup> kg<br />(365.4114020162963 Yrths)
+        mass: 5.810 × 10<sup>28</sup> kg<br />(9727.983 Yrths)
         density: 1.494 g/cm<sup>3</sup>
         surface_gravity: 87.669 m/s<sup>2</sup><br />(8.940 g<sub>0</sub>)
         escape_velocity: 192.093 km/s<br />(691,534 km/h)
         rotation_period: 56.958 d
         axial_tilt: 9.79°
         albedo: 0.30
-        temperature: 206 K<br />(-67 °C)
+        temperature: 204 K<br />(-69 °C)
   - name: ψ Unrioshad C IV
     type: Ice giant
     aphelion: 250,564,462 km<br />1.675 AU
@@ -321,14 +321,14 @@ planets:
     radius: 30,432.1 km<br/>(4.777 Yrths)
     surface_area: 1.164 × 10<sup>10</sup> km<sup>2</sup><br/>(22.816 Yrths)
     volume: 1.181 × 10<sup>14</sup> km<sup>3</sup><br/>(108.986 Yrths)
-    mass: 1.928 × 10<sup>26</sup> kg<br />(32.277299494875614 Yrths)
+    mass: 1.928 × 10<sup>26</sup> kg<br />(32.28 Yrths)
     density: 1.633 g/cm<sup>3</sup>
     surface_gravity: 13.873 m/s<sup>2</sup><br />(1.415 g<sub>0</sub>)
     escape_velocity: 29.078 km/s<br />(104,680 km/h)
     rotation_period: 0.391 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 273 K<br />(-1 °C)
+    temperature: 262 K<br />(-11 °C)
     composition:
       - 81.7398% hydrogen
       - 15.8550% helium
@@ -346,14 +346,14 @@ planets:
         radius: 31,920.7 km<br/>(5.010 Yrths)
         surface_area: 1.280 × 10<sup>10</sup> km<sup>2</sup><br/>(25.103 Yrths)
         volume: 1.362 × 10<sup>14</sup> km<sup>3</sup><br/>(125.775 Yrths)
-        mass: 4.287 × 10<sup>26</sup> kg<br />(32.277299494875614 Yrths)
+        mass: 4.287 × 10<sup>26</sup> kg<br />(71.780 Yrths)
         density: 3.146 g/cm<sup>3</sup>
         surface_gravity: 28.041 m/s<sup>2</sup><br />(2.859 g<sub>0</sub>)
         escape_velocity: 42.339 km/s<br />(152,421 km/h)
         rotation_period: 30.924 d
         axial_tilt: 23.19°
         albedo: 0.30
-        temperature: 1223 K<br />(950 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ψ Unrioshad C IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -366,14 +366,14 @@ planets:
         radius: 15,662.8 km<br/>(2.458 Yrths)
         surface_area: 3.083 × 10<sup>09</sup> km<sup>2</sup><br/>(6.044 Yrths)
         volume: 1.610 × 10<sup>13</sup> km<sup>3</sup><br/>(14.859 Yrths)
-        mass: 4.020 × 10<sup>25</sup> kg<br />(32.277299494875614 Yrths)
+        mass: 4.020 × 10<sup>25</sup> kg<br />(6.731 Yrths)
         density: 2.498 g/cm<sup>3</sup>
         surface_gravity: 10.922 m/s<sup>2</sup><br />(1.114 g<sub>0</sub>)
         escape_velocity: 18.509 km/s<br />(66,633 km/h)
         rotation_period: 57.670 d
         axial_tilt: 12.41°
         albedo: 0.30
-        temperature: 1166 K<br />(893 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ψ Unrioshad C IV c
         type: Dwarf planet
         formationType: Captured
@@ -386,14 +386,14 @@ planets:
         radius: 22,911.1 km<br/>(3.596 Yrths)
         surface_area: 6.596 × 10<sup>09</sup> km<sup>2</sup><br/>(12.932 Yrths)
         volume: 5.038 × 10<sup>13</sup> km<sup>3</sup><br/>(46.507 Yrths)
-        mass: 6.110 × 10<sup>25</sup> kg<br />(32.277299494875614 Yrths)
+        mass: 6.110 × 10<sup>25</sup> kg<br />(10.231 Yrths)
         density: 1.213 g/cm<sup>3</sup>
         surface_gravity: 7.758 m/s<sup>2</sup><br />(0.791 g<sub>0</sub>)
         escape_velocity: 18.867 km/s<br />(67,923 km/h)
         rotation_period: 81.502 d
         axial_tilt: 12.99°
         albedo: 0.30
-        temperature: 1112 K<br />(839 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ψ Unrioshad C IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -406,14 +406,14 @@ planets:
         radius: 37,966.4 km<br/>(5.959 Yrths)
         surface_area: 1.811 × 10<sup>10</sup> km<sup>2</sup><br/>(35.513 Yrths)
         volume: 2.292 × 10<sup>14</sup> km<sup>3</sup><br/>(211.629 Yrths)
-        mass: 6.082 × 10<sup>26</sup> kg<br />(32.277299494875614 Yrths)
+        mass: 6.082 × 10<sup>26</sup> kg<br />(101.837 Yrths)
         density: 2.653 g/cm<sup>3</sup>
         surface_gravity: 28.122 m/s<sup>2</sup><br />(2.868 g<sub>0</sub>)
         escape_velocity: 46.241 km/s<br />(166,469 km/h)
         rotation_period: 34.844 d
         axial_tilt: 16.77°
         albedo: 0.30
-        temperature: 1060 K<br />(787 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ψ Unrioshad C IV e
         type: Dwarf planet
         formationType: Accreted
@@ -426,14 +426,14 @@ planets:
         radius: 12,517.6 km<br/>(1.965 Yrths)
         surface_area: 1.969 × 10<sup>09</sup> km<sup>2</sup><br/>(3.860 Yrths)
         volume: 8.216 × 10<sup>12</sup> km<sup>3</sup><br/>(7.585 Yrths)
-        mass: 1.725 × 10<sup>25</sup> kg<br />(32.277299494875614 Yrths)
+        mass: 1.725 × 10<sup>25</sup> kg<br />(2.888 Yrths)
         density: 2.099 g/cm<sup>3</sup>
         surface_gravity: 7.336 m/s<sup>2</sup><br />(0.748 g<sub>0</sub>)
         escape_velocity: 13.561 km/s<br />(48,820 km/h)
         rotation_period: 49.599 d
         axial_tilt: 11.15°
         albedo: 0.30
-        temperature: 1011 K<br />(738 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ψ Unrioshad C IV f
         type: Icy
         formationType: Accreted
@@ -446,14 +446,14 @@ planets:
         radius: 15,156.4 km<br/>(2.379 Yrths)
         surface_area: 2.887 × 10<sup>09</sup> km<sup>2</sup><br/>(5.659 Yrths)
         volume: 1.458 × 10<sup>13</sup> km<sup>3</sup><br/>(13.464 Yrths)
-        mass: 1.460 × 10<sup>25</sup> kg<br />(32.277299494875614 Yrths)
+        mass: 1.460 × 10<sup>25</sup> kg<br />(2.444 Yrths)
         density: 1.001 g/cm<sup>3</sup>
         surface_gravity: 4.235 m/s<sup>2</sup><br />(0.432 g<sub>0</sub>)
         escape_velocity: 11.338 km/s<br />(40,817 km/h)
         rotation_period: 68.712 d
         axial_tilt: 20.23°
         albedo: 0.30
-        temperature: 964 K<br />(691 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ψ Unrioshad C IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -466,14 +466,14 @@ planets:
         radius: 17,560.1 km<br/>(2.756 Yrths)
         surface_area: 3.875 × 10<sup>09</sup> km<sup>2</sup><br/>(7.597 Yrths)
         volume: 2.268 × 10<sup>13</sup> km<sup>3</sup><br/>(20.939 Yrths)
-        mass: 4.741 × 10<sup>25</sup> kg<br />(32.277299494875614 Yrths)
+        mass: 4.741 × 10<sup>25</sup> kg<br />(7.938 Yrths)
         density: 2.090 g/cm<sup>3</sup>
         surface_gravity: 10.247 m/s<sup>2</sup><br />(1.045 g<sub>0</sub>)
         escape_velocity: 18.983 km/s<br />(68,340 km/h)
         rotation_period: 45.753 d
         axial_tilt: 32.94°
         albedo: 0.30
-        temperature: 876 K<br />(603 °C)
+        temperature: 159 K<br />(-114 °C)
   - name: ψ Unrioshad C V
     type: Terrestrial
     aphelion: 419,207,388 km<br />2.802 AU
@@ -485,7 +485,7 @@ planets:
     radius: 6,707.6 km<br/>(1.053 Yrths)
     surface_area: 5.654 × 10<sup>08</sup> km<sup>2</sup><br/>(1.108 Yrths)
     volume: 1.264 × 10<sup>12</sup> km<sup>3</sup><br/>(1.167 Yrths)
-    mass: 5.909 × 10<sup>24</sup> kg<br />(0.9894862975955877 Yrths)
+    mass: 5.909 × 10<sup>24</sup> kg<br />(0.99 Yrths)
     density: 4.674 g/cm<sup>3</sup>
     surface_gravity: 8.754 m/s<sup>2</sup><br />(0.893 g<sub>0</sub>)
     escape_velocity: 10.844 km/s<br />(39,039 km/h)
@@ -506,14 +506,14 @@ planets:
         radius: 2,348.1 km<br/>(0.369 Yrths)
         surface_area: 6.929 × 10<sup>07</sup> km<sup>2</sup><br/>(0.136 Yrths)
         volume: 5.423 × 10<sup>10</sup> km<sup>3</sup><br/>(0.050 Yrths)
-        mass: 1.629 × 10<sup>23</sup> kg<br />(0.9894862975955877 Yrths)
+        mass: 1.629 × 10<sup>23</sup> kg<br />(0.027 Yrths)
         density: 3.005 g/cm<sup>3</sup>
         surface_gravity: 1.970 m/s<sup>2</sup><br />(0.201 g<sub>0</sub>)
         escape_velocity: 3.044 km/s<br />(10,957 km/h)
         rotation_period: 51.346 d
         axial_tilt: 46.64°
         albedo: 0.30
-        temperature: 1699 K<br />(1426 °C)
+        temperature: 124 K<br />(-149 °C)
   - name: ψ Unrioshad C VI
     type: Gas giant
     aphelion: 737,764,074 km<br />4.932 AU
@@ -525,7 +525,7 @@ planets:
     radius: 236.5 km<br/>(0.037 Yrths)
     surface_area: 7.030 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.543 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.066 × 10<sup>27</sup> kg<br />(345.9844892931411 Yrths)
+    mass: 2.066 × 10<sup>27</sup> kg<br />(345.98 Yrths)
     density: 37277254.817 g/cm<sup>3</sup>
     surface_gravity: 2461670.478 m/s<sup>2</sup><br />(251020.530 g<sub>0</sub>)
     escape_velocity: 1079.855 km/s<br />(3,887,478 km/h)
@@ -546,14 +546,14 @@ planets:
         radius: 239,990.5 km<br/>(37.669 Yrths)
         surface_area: 7.238 × 10<sup>11</sup> km<sup>2</sup><br/>(1418.969 Yrths)
         volume: 5.790 × 10<sup>16</sup> km<sup>3</sup><br/>(53451.461 Yrths)
-        mass: 7.320 × 10<sup>28</sup> kg<br />(345.9844892931411 Yrths)
+        mass: 7.320 × 10<sup>28</sup> kg<br />(12257.075 Yrths)
         density: 1.264 g/cm<sup>3</sup>
         surface_gravity: 84.710 m/s<sup>2</sup><br />(8.638 g<sub>0</sub>)
         escape_velocity: 201.778 km/s<br />(726,401 km/h)
         rotation_period: 66.190 d
         axial_tilt: 7.29°
         albedo: 0.30
-        temperature: 310 K<br />(37 °C)
+        temperature: 97 K<br />(-177 °C)
       - name: ψ Unrioshad C VI b
         type: Dwarf planet
         formationType: Captured
@@ -566,14 +566,14 @@ planets:
         radius: 222,256.4 km<br/>(34.886 Yrths)
         surface_area: 6.208 × 10<sup>11</sup> km<sup>2</sup><br/>(1217.008 Yrths)
         volume: 4.599 × 10<sup>16</sup> km<sup>3</sup><br/>(42456.105 Yrths)
-        mass: 9.768 × 10<sup>28</sup> kg<br />(345.9844892931411 Yrths)
+        mass: 9.768 × 10<sup>28</sup> kg<br />(16356.132 Yrths)
         density: 2.124 g/cm<sup>3</sup>
         surface_gravity: 131.798 m/s<sup>2</sup><br />(13.440 g<sub>0</sub>)
         escape_velocity: 242.209 km/s<br />(871,954 km/h)
         rotation_period: 36.514 d
         axial_tilt: 29.83°
         albedo: 0.30
-        temperature: 233 K<br />(-40 °C)
+        temperature: 97 K<br />(-177 °C)
       - name: ψ Unrioshad C VI c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -586,14 +586,14 @@ planets:
         radius: 259,202.3 km<br/>(40.685 Yrths)
         surface_area: 8.443 × 10<sup>11</sup> km<sup>2</sup><br/>(1655.246 Yrths)
         volume: 7.295 × 10<sup>16</sup> km<sup>3</sup><br/>(67343.229 Yrths)
-        mass: 1.685 × 10<sup>29</sup> kg<br />(345.9844892931411 Yrths)
+        mass: 1.685 × 10<sup>29</sup> kg<br />(28220.804 Yrths)
         density: 2.310 g/cm<sup>3</sup>
         surface_gravity: 167.197 m/s<sup>2</sup><br />(17.049 g<sub>0</sub>)
         escape_velocity: 294.607 km/s<br />(1,060,585 km/h)
         rotation_period: 40.782 d
         axial_tilt: 30.49°
         albedo: 0.30
-        temperature: 104 K<br />(-170 °C)
+        temperature: 97 K<br />(-177 °C)
       - name: ψ Unrioshad C VI d
         type: Icy
         formationType: Captured
@@ -606,14 +606,14 @@ planets:
         radius: 301,280.4 km<br/>(47.289 Yrths)
         surface_area: 1.141 × 10<sup>12</sup> km<sup>2</sup><br/>(2236.282 Yrths)
         volume: 1.146 × 10<sup>17</sup> km<sup>3</sup><br/>(105752.305 Yrths)
-        mass: 1.476 × 10<sup>29</sup> kg<br />(345.9844892931411 Yrths)
+        mass: 1.476 × 10<sup>29</sup> kg<br />(24707.821 Yrths)
         density: 1.288 g/cm<sup>3</sup>
         surface_gravity: 108.350 m/s<sup>2</sup><br />(11.049 g<sub>0</sub>)
         escape_velocity: 255.688 km/s<br />(920,475 km/h)
         rotation_period: 61.967 d
         axial_tilt: 14.71°
         albedo: 0.30
-        temperature: 82 K<br />(-192 °C)
+        temperature: 97 K<br />(-177 °C)
       - name: ψ Unrioshad C VI e
         type: Ice/rock hybrid
         formationType: Captured
@@ -626,14 +626,14 @@ planets:
         radius: 307,218.1 km<br/>(48.221 Yrths)
         surface_area: 1.186 × 10<sup>12</sup> km<sup>2</sup><br/>(2325.296 Yrths)
         volume: 1.215 × 10<sup>17</sup> km<sup>3</sup><br/>(112128.868 Yrths)
-        mass: 2.345 × 10<sup>29</sup> kg<br />(345.9844892931411 Yrths)
+        mass: 2.345 × 10<sup>29</sup> kg<br />(39268.843 Yrths)
         density: 1.931 g/cm<sup>3</sup>
         surface_gravity: 165.611 m/s<sup>2</sup><br />(16.888 g<sub>0</sub>)
         escape_velocity: 319.211 km/s<br />(1,149,161 km/h)
         rotation_period: 40.273 d
         axial_tilt: 21.98°
         albedo: 0.30
-        temperature: 61 K<br />(-212 °C)
+        temperature: 97 K<br />(-177 °C)
   - name: ψ Unrioshad C VII
     type: Gas giant
     aphelion: 1,191,147,433 km<br />7.962 AU
@@ -645,7 +645,7 @@ planets:
     radius: 220.5 km<br/>(0.035 Yrths)
     surface_area: 6.112 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.493 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.529 × 10<sup>27</sup> kg<br />(256.0634311518524 Yrths)
+    mass: 1.529 × 10<sup>27</sup> kg<br />(256.06 Yrths)
     density: 34036802.444 g/cm<sup>3</sup>
     surface_gravity: 2095704.835 m/s<sup>2</sup><br />(213702.420 g<sub>0</sub>)
     escape_velocity: 962.084 km/s<br />(3,463,504 km/h)
@@ -666,14 +666,14 @@ planets:
         radius: 149,734.5 km<br/>(23.503 Yrths)
         surface_area: 2.817 × 10<sup>11</sup> km<sup>2</sup><br/>(552.368 Yrths)
         volume: 1.406 × 10<sup>16</sup> km<sup>3</sup><br/>(12982.039 Yrths)
-        mass: 4.230 × 10<sup>28</sup> kg<br />(256.0634311518524 Yrths)
+        mass: 4.230 × 10<sup>28</sup> kg<br />(7082.227 Yrths)
         density: 3.008 g/cm<sup>3</sup>
         surface_gravity: 125.737 m/s<sup>2</sup><br />(12.822 g<sub>0</sub>)
         escape_velocity: 194.179 km/s<br />(699,044 km/h)
         rotation_period: 31.728 d
         axial_tilt: 12.07°
         albedo: 0.30
-        temperature: 355 K<br />(81 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: ψ Unrioshad C VII b
         type: Asteroid
         formationType: Captured
@@ -686,14 +686,14 @@ planets:
         radius: 131,410.3 km<br/>(20.626 Yrths)
         surface_area: 2.170 × 10<sup>11</sup> km<sup>2</sup><br/>(425.445 Yrths)
         volume: 9.506 × 10<sup>15</sup> km<sup>3</sup><br/>(8775.373 Yrths)
-        mass: 2.890 × 10<sup>28</sup> kg<br />(256.0634311518524 Yrths)
+        mass: 2.890 × 10<sup>28</sup> kg<br />(4839.535 Yrths)
         density: 3.041 g/cm<sup>3</sup>
         surface_gravity: 111.553 m/s<sup>2</sup><br />(11.375 g<sub>0</sub>)
         escape_velocity: 171.342 km/s<br />(616,833 km/h)
         rotation_period: 29.358 d
         axial_tilt: 49.88°
         albedo: 0.30
-        temperature: 293 K<br />(20 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: ψ Unrioshad C VII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -706,14 +706,14 @@ planets:
         radius: 190,022.9 km<br/>(29.826 Yrths)
         surface_area: 4.538 × 10<sup>11</sup> km<sup>2</sup><br/>(889.604 Yrths)
         volume: 2.874 × 10<sup>16</sup> km<sup>3</sup><br/>(26533.532 Yrths)
-        mass: 6.226 × 10<sup>28</sup> kg<br />(256.0634311518524 Yrths)
+        mass: 6.226 × 10<sup>28</sup> kg<br />(10425.489 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 114.927 m/s<sup>2</sup><br />(11.719 g<sub>0</sub>)
         escape_velocity: 209.133 km/s<br />(752,880 km/h)
         rotation_period: 37.217 d
         axial_tilt: 21.92°
         albedo: 0.30
-        temperature: 191 K<br />(-82 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: ψ Unrioshad C VII d
         type: Icy
         formationType: Captured
@@ -726,14 +726,14 @@ planets:
         radius: 148,948.8 km<br/>(23.379 Yrths)
         surface_area: 2.788 × 10<sup>11</sup> km<sup>2</sup><br/>(546.586 Yrths)
         volume: 1.384 × 10<sup>16</sup> km<sup>3</sup><br/>(12778.745 Yrths)
-        mass: 2.282 × 10<sup>28</sup> kg<br />(256.0634311518524 Yrths)
+        mass: 2.282 × 10<sup>28</sup> kg<br />(3820.459 Yrths)
         density: 1.648 g/cm<sup>3</sup>
         surface_gravity: 68.545 m/s<sup>2</sup><br />(6.990 g<sub>0</sub>)
         escape_velocity: 142.994 km/s<br />(514,777 km/h)
         rotation_period: 60.981 d
         axial_tilt: 27.00°
         albedo: 0.30
-        temperature: 113 K<br />(-160 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: ψ Unrioshad C VII e
         type: Icy
         formationType: Captured
@@ -746,14 +746,14 @@ planets:
         radius: 269,876.5 km<br/>(42.360 Yrths)
         surface_area: 9.153 × 10<sup>11</sup> km<sup>2</sup><br/>(1794.382 Yrths)
         volume: 8.233 × 10<sup>16</sup> km<sup>3</sup><br/>(76010.314 Yrths)
-        mass: 1.512 × 10<sup>29</sup> kg<br />(256.0634311518524 Yrths)
+        mass: 1.512 × 10<sup>29</sup> kg<br />(25318.177 Yrths)
         density: 1.836 g/cm<sup>3</sup>
         surface_gravity: 138.369 m/s<sup>2</sup><br />(14.110 g<sub>0</sub>)
         escape_velocity: 273.471 km/s<br />(984,496 km/h)
         rotation_period: 36.709 d
         axial_tilt: 23.15°
         albedo: 0.30
-        temperature: 46 K<br />(-227 °C)
+        temperature: 75 K<br />(-198 °C)
   - name: ψ Unrioshad C VIII
     type: Gas giant
     aphelion: 2,328,781,278 km<br />15.567 AU
@@ -765,7 +765,7 @@ planets:
     radius: 181.5 km<br/>(0.028 Yrths)
     surface_area: 4.142 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.506 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.641 × 10<sup>26</sup> kg<br />(111.1985307732308 Yrths)
+    mass: 6.641 × 10<sup>26</sup> kg<br />(111.20 Yrths)
     density: 26495364.737 g/cm<sup>3</sup>
     surface_gravity: 1342954.743 m/s<sup>2</sup><br />(136943.272 g<sub>0</sub>)
     escape_velocity: 698.769 km/s<br />(2,515,570 km/h)
@@ -786,14 +786,14 @@ planets:
         radius: 146,724.1 km<br/>(23.030 Yrths)
         surface_area: 2.705 × 10<sup>11</sup> km<sup>2</sup><br/>(530.381 Yrths)
         volume: 1.323 × 10<sup>16</sup> km<sup>3</sup><br/>(12214.668 Yrths)
-        mass: 1.866 × 10<sup>28</sup> kg<br />(111.1985307732308 Yrths)
+        mass: 1.866 × 10<sup>28</sup> kg<br />(3124.416 Yrths)
         density: 1.410 g/cm<sup>3</sup>
         surface_gravity: 57.770 m/s<sup>2</sup><br />(5.891 g<sub>0</sub>)
         escape_velocity: 130.290 km/s<br />(469,044 km/h)
         rotation_period: 45.437 d
         axial_tilt: 21.46°
         albedo: 0.30
-        temperature: 333 K<br />(60 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: ψ Unrioshad C VIII b
         type: Dwarf planet
         formationType: Captured
@@ -806,14 +806,14 @@ planets:
         radius: 57,881.8 km<br/>(9.085 Yrths)
         surface_area: 4.210 × 10<sup>10</sup> km<sup>2</sup><br/>(82.541 Yrths)
         volume: 8.123 × 10<sup>14</sup> km<sup>3</sup><br/>(749.901 Yrths)
-        mass: 1.599 × 10<sup>27</sup> kg<br />(111.1985307732308 Yrths)
+        mass: 1.599 × 10<sup>27</sup> kg<br />(267.743 Yrths)
         density: 1.968 g/cm<sup>3</sup>
         surface_gravity: 31.810 m/s<sup>2</sup><br />(3.244 g<sub>0</sub>)
         escape_velocity: 60.725 km/s<br />(218,609 km/h)
         rotation_period: 35.301 d
         axial_tilt: 46.53°
         albedo: 0.30
-        temperature: 179 K<br />(-94 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: ψ Unrioshad C VIII c
         type: Icy
         formationType: Captured
@@ -826,14 +826,14 @@ planets:
         radius: 97,476.9 km<br/>(15.300 Yrths)
         surface_area: 1.194 × 10<sup>11</sup> km<sup>2</sup><br/>(234.093 Yrths)
         volume: 3.880 × 10<sup>15</sup> km<sup>3</sup><br/>(3581.643 Yrths)
-        mass: 4.182 × 10<sup>27</sup> kg<br />(111.1985307732308 Yrths)
+        mass: 4.182 × 10<sup>27</sup> kg<br />(700.227 Yrths)
         density: 1.078 g/cm<sup>3</sup>
         surface_gravity: 29.334 m/s<sup>2</sup><br />(2.991 g<sub>0</sub>)
         escape_velocity: 75.674 km/s<br />(272,426 km/h)
         rotation_period: 79.880 d
         axial_tilt: 13.99°
         albedo: 0.30
-        temperature: 92 K<br />(-181 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: ψ Unrioshad C VIII d
         type: Icy
         formationType: Captured
@@ -846,14 +846,14 @@ planets:
         radius: 93,273.9 km<br/>(14.640 Yrths)
         surface_area: 1.093 × 10<sup>11</sup> km<sup>2</sup><br/>(214.341 Yrths)
         volume: 3.399 × 10<sup>15</sup> km<sup>3</sup><br/>(3138.031 Yrths)
-        mass: 2.550 × 10<sup>27</sup> kg<br />(111.1985307732308 Yrths)
+        mass: 2.550 × 10<sup>27</sup> kg<br />(426.909 Yrths)
         density: 0.750 g/cm<sup>3</sup>
         surface_gravity: 19.532 m/s<sup>2</sup><br />(1.992 g<sub>0</sub>)
         escape_velocity: 60.404 km/s<br />(217,454 km/h)
         rotation_period: 91.329 d
         axial_tilt: 9.99°
         albedo: 0.30
-        temperature: 88 K<br />(-185 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: ψ Unrioshad C VIII e
         type: Asteroid
         formationType: Captured
@@ -866,14 +866,14 @@ planets:
         radius: 108,441.4 km<br/>(17.021 Yrths)
         surface_area: 1.478 × 10<sup>11</sup> km<sup>2</sup><br/>(289.717 Yrths)
         volume: 5.342 × 10<sup>15</sup> km<sup>3</sup><br/>(4931.307 Yrths)
-        mass: 9.866 × 10<sup>27</sup> kg<br />(111.1985307732308 Yrths)
+        mass: 9.866 × 10<sup>27</sup> kg<br />(1652.076 Yrths)
         density: 1.847 g/cm<sup>3</sup>
         surface_gravity: 55.921 m/s<sup>2</sup><br />(5.702 g<sub>0</sub>)
         escape_velocity: 110.203 km/s<br />(396,732 km/h)
         rotation_period: 36.451 d
         axial_tilt: 36.66°
         albedo: 0.30
-        temperature: 54 K<br />(-219 °C)
+        temperature: 59 K<br />(-214 °C)
   - name: ψ Unrioshad C IX
     type: Gas dwarf
     aphelion: 3,484,471,751 km<br />23.292 AU
@@ -885,14 +885,14 @@ planets:
     radius: 3,800.4 km<br/>(0.597 Yrths)
     surface_area: 1.815 × 10<sup>08</sup> km<sup>2</sup><br/>(0.356 Yrths)
     volume: 2.299 × 10<sup>11</sup> km<sup>3</sup><br/>(0.212 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.597 g/cm<sup>3</sup>
     surface_gravity: 2.756 m/s<sup>2</sup><br />(0.281 g<sub>0</sub>)
     escape_velocity: 4.580 km/s<br />(16,488 km/h)
     rotation_period: 0.996 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 69 K<br />(-204 °C)
+    temperature: 62 K<br />(-211 °C)
     composition:
       - 95.9711% helium
       - 3.3643% methane
@@ -912,14 +912,14 @@ planets:
         radius: 979.7 km<br/>(0.154 Yrths)
         surface_area: 1.206 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 3.939 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.658 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.658 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.183 g/cm<sup>3</sup>
         surface_gravity: 0.323 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.797 km/s<br />(2,868 km/h)
         rotation_period: 54.202 d
         axial_tilt: 19.43°
         albedo: 0.30
-        temperature: 921 K<br />(648 °C)
+        temperature: 46 K<br />(-227 °C)
       - name: ψ Unrioshad C IX b
         type: Icy
         formationType: Captured
@@ -932,14 +932,14 @@ planets:
         radius: 731.7 km<br/>(0.115 Yrths)
         surface_area: 6.728 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.641 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.871 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.871 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.750 g/cm<sup>3</sup>
         surface_gravity: 0.357 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.724 km/s<br />(2,605 km/h)
         rotation_period: 64.035 d
         axial_tilt: 20.73°
         albedo: 0.30
-        temperature: 878 K<br />(605 °C)
+        temperature: 46 K<br />(-227 °C)
       - name: ψ Unrioshad C IX c
         type: Icy
         formationType: Impact formed
@@ -952,14 +952,14 @@ planets:
         radius: 1,040.9 km<br/>(0.163 Yrths)
         surface_area: 1.361 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.724 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.318 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.318 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.914 g/cm<sup>3</sup>
         surface_gravity: 0.266 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.744 km/s<br />(2,679 km/h)
         rotation_period: 66.239 d
         axial_tilt: 23.45°
         albedo: 0.30
-        temperature: 838 K<br />(564 °C)
+        temperature: 46 K<br />(-227 °C)
       - name: ψ Unrioshad C IX d
         type: Ice/rock hybrid
         formationType: Captured
@@ -972,12 +972,12 @@ planets:
         radius: 541.8 km<br/>(0.085 Yrths)
         surface_area: 3.689 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.662 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.392 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.392 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.090 g/cm<sup>3</sup>
         surface_gravity: 0.316 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.586 km/s<br />(2,109 km/h)
         rotation_period: 65.691 d
         axial_tilt: 22.67°
         albedo: 0.30
-        temperature: 799 K<br />(525 °C)
+        temperature: 46 K<br />(-227 °C)
 ---

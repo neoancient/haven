@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      751 Lunaiad is a star in the constellation Luna
+      751 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 424.12 ly
 apparent_magnitude: 11.59
 absolute_magnitude: 6.02

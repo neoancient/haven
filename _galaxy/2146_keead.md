@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2146 Keead is a star in the constellation Kee
+      2146 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 267.46 ly
 apparent_magnitude: 12.47
 absolute_magnitude: 7.90

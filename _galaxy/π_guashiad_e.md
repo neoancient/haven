@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      π Guashiad E is a star in the constellation Guashi
+      π Guashiad E is a star in the constellation <a href="guashi.html">Guashi</a>
 distance: 579.90 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 4.51

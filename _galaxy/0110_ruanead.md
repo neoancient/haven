@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0110 Ruanead is a star in the constellation Ruane
+      0110 Ruanead is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 258.48 ly
 apparent_magnitude: 6.10
 absolute_magnitude: 1.61
@@ -31,7 +31,7 @@ planets:
     radius: 195.5 km<br/>(0.031 Yrths)
     surface_area: 4.802 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.129 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.447 × 10<sup>26</sup> kg<br />(158.18749026321944 Yrths)
+    mass: 9.447 × 10<sup>26</sup> kg<br />(158.19 Yrths)
     density: 30191166.857 g/cm<sup>3</sup>
     surface_gravity: 1647754.109 m/s<sup>2</sup><br />(168024.158 g<sub>0</sub>)
     escape_velocity: 803.175 km/s<br />(2,891,428 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 75,009.2 km<br/>(11.774 Yrths)
         surface_area: 7.070 × 10<sup>10</sup> km<sup>2</sup><br/>(138.616 Yrths)
         volume: 1.768 × 10<sup>15</sup> km<sup>3</sup><br/>(1632.002 Yrths)
-        mass: 2.745 × 10<sup>27</sup> kg<br />(158.18749026321944 Yrths)
+        mass: 2.745 × 10<sup>27</sup> kg<br />(459.587 Yrths)
         density: 1.553 g/cm<sup>3</sup>
         surface_gravity: 32.514 m/s<sup>2</sup><br />(3.316 g<sub>0</sub>)
         escape_velocity: 69.888 km/s<br />(251,598 km/h)
         rotation_period: 50.667 d
         axial_tilt: 22.45°
         albedo: 0.30
-        temperature: 1317 K<br />(1044 °C)
+        temperature: 259 K<br />(-15 °C)
       - name: 0110 Ruanead I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 84,784.5 km<br/>(13.308 Yrths)
         surface_area: 9.033 × 10<sup>10</sup> km<sup>2</sup><br/>(177.100 Yrths)
         volume: 2.553 × 10<sup>15</sup> km<sup>3</sup><br/>(2356.823 Yrths)
-        mass: 5.422 × 10<sup>27</sup> kg<br />(158.18749026321944 Yrths)
+        mass: 5.422 × 10<sup>27</sup> kg<br />(907.853 Yrths)
         density: 2.124 g/cm<sup>3</sup>
         surface_gravity: 50.271 m/s<sup>2</sup><br />(5.126 g<sub>0</sub>)
         escape_velocity: 92.390 km/s<br />(332,606 km/h)
         rotation_period: 63.921 d
         axial_tilt: 24.97°
         albedo: 0.30
-        temperature: 780 K<br />(506 °C)
+        temperature: 259 K<br />(-15 °C)
       - name: 0110 Ruanead I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 78,111.7 km<br/>(12.261 Yrths)
         surface_area: 7.667 × 10<sup>10</sup> km<sup>2</sup><br/>(150.320 Yrths)
         volume: 1.996 × 10<sup>15</sup> km<sup>3</sup><br/>(1843.001 Yrths)
-        mass: 3.487 × 10<sup>27</sup> kg<br />(158.18749026321944 Yrths)
+        mass: 3.487 × 10<sup>27</sup> kg<br />(583.910 Yrths)
         density: 1.747 g/cm<sup>3</sup>
         surface_gravity: 38.093 m/s<sup>2</sup><br />(3.884 g<sub>0</sub>)
         escape_velocity: 77.196 km/s<br />(277,904 km/h)
         rotation_period: 49.714 d
         axial_tilt: 13.50°
         albedo: 0.30
-        temperature: 644 K<br />(371 °C)
+        temperature: 259 K<br />(-15 °C)
       - name: 0110 Ruanead I d
         type: Icy
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 78,925.0 km<br/>(12.388 Yrths)
         surface_area: 7.828 × 10<sup>10</sup> km<sup>2</sup><br/>(153.467 Yrths)
         volume: 2.059 × 10<sup>15</sup> km<sup>3</sup><br/>(1901.168 Yrths)
-        mass: 3.334 × 10<sup>27</sup> kg<br />(158.18749026321944 Yrths)
+        mass: 3.334 × 10<sup>27</sup> kg<br />(558.333 Yrths)
         density: 1.619 g/cm<sup>3</sup>
         surface_gravity: 35.678 m/s<sup>2</sup><br />(3.638 g<sub>0</sub>)
         escape_velocity: 75.096 km/s<br />(270,346 km/h)
         rotation_period: 45.520 d
         axial_tilt: 23.98°
         albedo: 0.30
-        temperature: 248 K<br />(-25 °C)
+        temperature: 259 K<br />(-15 °C)
       - name: 0110 Ruanead I e
         type: Icy
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 76,564.4 km<br/>(12.018 Yrths)
         surface_area: 7.367 × 10<sup>10</sup> km<sup>2</sup><br/>(144.424 Yrths)
         volume: 1.880 × 10<sup>15</sup> km<sup>3</sup><br/>(1735.634 Yrths)
-        mass: 2.463 × 10<sup>27</sup> kg<br />(158.18749026321944 Yrths)
+        mass: 2.463 × 10<sup>27</sup> kg<br />(412.421 Yrths)
         density: 1.310 g/cm<sup>3</sup>
         surface_gravity: 28.004 m/s<sup>2</sup><br />(2.856 g<sub>0</sub>)
         escape_velocity: 65.529 km/s<br />(235,905 km/h)
         rotation_period: 71.400 d
         axial_tilt: 24.17°
         albedo: 0.30
-        temperature: 215 K<br />(-58 °C)
+        temperature: 259 K<br />(-15 °C)
       - name: 0110 Ruanead I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 86,950.6 km<br/>(13.648 Yrths)
         surface_area: 9.501 × 10<sup>10</sup> km<sup>2</sup><br/>(186.264 Yrths)
         volume: 2.754 × 10<sup>15</sup> km<sup>3</sup><br/>(2542.112 Yrths)
-        mass: 5.128 × 10<sup>27</sup> kg<br />(158.18749026321944 Yrths)
+        mass: 5.128 × 10<sup>27</sup> kg<br />(858.637 Yrths)
         density: 1.862 g/cm<sup>3</sup>
         surface_gravity: 45.206 m/s<sup>2</sup><br />(4.610 g<sub>0</sub>)
         escape_velocity: 88.725 km/s<br />(319,410 km/h)
         rotation_period: 44.188 d
         axial_tilt: 15.24°
         albedo: 0.30
-        temperature: 91 K<br />(-182 °C)
+        temperature: 259 K<br />(-15 °C)
       - name: 0110 Ruanead I g
         type: Asteroid
         formationType: Captured
@@ -172,14 +172,14 @@ planets:
         radius: 70,910.9 km<br/>(11.130 Yrths)
         surface_area: 6.319 × 10<sup>10</sup> km<sup>2</sup><br/>(123.883 Yrths)
         volume: 1.494 × 10<sup>15</sup> km<sup>3</sup><br/>(1378.846 Yrths)
-        mass: 3.056 × 10<sup>27</sup> kg<br />(158.18749026321944 Yrths)
+        mass: 3.056 × 10<sup>27</sup> kg<br />(511.714 Yrths)
         density: 2.046 g/cm<sup>3</sup>
         surface_gravity: 40.508 m/s<sup>2</sup><br />(4.131 g<sub>0</sub>)
         escape_velocity: 75.846 km/s<br />(273,047 km/h)
         rotation_period: 36.844 d
         axial_tilt: 52.81°
         albedo: 0.30
-        temperature: 62 K<br />(-211 °C)
+        temperature: 259 K<br />(-15 °C)
       - name: 0110 Ruanead I h
         type: Icy
         formationType: Captured
@@ -192,14 +192,14 @@ planets:
         radius: 281,464.3 km<br/>(44.179 Yrths)
         surface_area: 9.955 × 10<sup>11</sup> km<sup>2</sup><br/>(1951.783 Yrths)
         volume: 9.340 × 10<sup>16</sup> km<sup>3</sup><br/>(86227.770 Yrths)
-        mass: 1.174 × 10<sup>29</sup> kg<br />(158.18749026321944 Yrths)
+        mass: 1.174 × 10<sup>29</sup> kg<br />(19658.186 Yrths)
         density: 1.257 g/cm<sup>3</sup>
         surface_gravity: 98.772 m/s<sup>2</sup><br />(10.072 g<sub>0</sub>)
         escape_velocity: 235.960 km/s<br />(849,455 km/h)
         rotation_period: 70.614 d
         axial_tilt: 14.59°
         albedo: 0.30
-        temperature: 59 K<br />(-214 °C)
+        temperature: 259 K<br />(-15 °C)
   - name: 0110 Ruanead II
     type: Ice giant
     aphelion: 1,773,023,897 km<br />11.852 AU
@@ -211,14 +211,14 @@ planets:
     radius: 36,014.0 km<br/>(5.653 Yrths)
     surface_area: 1.630 × 10<sup>10</sup> km<sup>2</sup><br/>(31.954 Yrths)
     volume: 1.957 × 10<sup>14</sup> km<sup>3</sup><br/>(180.631 Yrths)
-    mass: 2.306 × 10<sup>26</sup> kg<br />(38.60721506928668 Yrths)
+    mass: 2.306 × 10<sup>26</sup> kg<br />(38.61 Yrths)
     density: 1.178 g/cm<sup>3</sup>
     surface_gravity: 11.848 m/s<sup>2</sup><br />(1.208 g<sub>0</sub>)
     escape_velocity: 29.233 km/s<br />(105,239 km/h)
     rotation_period: 0.350 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 294 K<br />(21 °C)
+    temperature: 261 K<br />(-12 °C)
     composition:
       - 75.7513% hydrogen
       - 24.2487% helium
@@ -235,14 +235,14 @@ planets:
         radius: 39,295.2 km<br/>(6.168 Yrths)
         surface_area: 1.940 × 10<sup>10</sup> km<sup>2</sup><br/>(38.042 Yrths)
         volume: 2.542 × 10<sup>14</sup> km<sup>3</sup><br/>(234.637 Yrths)
-        mass: 5.761 × 10<sup>26</sup> kg<br />(38.60721506928668 Yrths)
+        mass: 5.761 × 10<sup>26</sup> kg<br />(96.468 Yrths)
         density: 2.267 g/cm<sup>3</sup>
         surface_gravity: 24.868 m/s<sup>2</sup><br />(2.536 g<sub>0</sub>)
         escape_velocity: 44.238 km/s<br />(159,258 km/h)
         rotation_period: 61.307 d
         axial_tilt: 16.62°
         albedo: 0.30
-        temperature: 1388 K<br />(1115 °C)
+        temperature: 178 K<br />(-95 °C)
       - name: 0110 Ruanead II b
         type: Asteroid
         formationType: Captured
@@ -255,14 +255,14 @@ planets:
         radius: 31,195.6 km<br/>(4.897 Yrths)
         surface_area: 1.223 × 10<sup>10</sup> km<sup>2</sup><br/>(23.976 Yrths)
         volume: 1.272 × 10<sup>14</sup> km<sup>3</sup><br/>(117.398 Yrths)
-        mass: 3.341 × 10<sup>26</sup> kg<br />(38.60721506928668 Yrths)
+        mass: 3.341 × 10<sup>26</sup> kg<br />(55.946 Yrths)
         density: 2.627 g/cm<sup>3</sup>
         surface_gravity: 22.883 m/s<sup>2</sup><br />(2.333 g<sub>0</sub>)
         escape_velocity: 37.811 km/s<br />(136,118 km/h)
         rotation_period: 52.704 d
         axial_tilt: 56.12°
         albedo: 0.30
-        temperature: 1324 K<br />(1050 °C)
+        temperature: 178 K<br />(-95 °C)
       - name: 0110 Ruanead II c
         type: Icy
         formationType: Captured
@@ -275,14 +275,14 @@ planets:
         radius: 55,010.7 km<br/>(8.635 Yrths)
         surface_area: 3.803 × 10<sup>10</sup> km<sup>2</sup><br/>(74.555 Yrths)
         volume: 6.973 × 10<sup>14</sup> km<sup>3</sup><br/>(643.753 Yrths)
-        mass: 9.019 × 10<sup>26</sup> kg<br />(38.60721506928668 Yrths)
+        mass: 9.019 × 10<sup>26</sup> kg<br />(151.014 Yrths)
         density: 1.293 g/cm<sup>3</sup>
         surface_gravity: 19.864 m/s<sup>2</sup><br />(2.026 g<sub>0</sub>)
         escape_velocity: 46.780 km/s<br />(168,409 km/h)
         rotation_period: 49.489 d
         axial_tilt: 10.37°
         albedo: 0.30
-        temperature: 948 K<br />(675 °C)
+        temperature: 178 K<br />(-95 °C)
       - name: 0110 Ruanead II d
         type: Dwarf planet
         formationType: Captured
@@ -295,14 +295,14 @@ planets:
         radius: 34,915.6 km<br/>(5.480 Yrths)
         surface_area: 1.532 × 10<sup>10</sup> km<sup>2</sup><br/>(30.035 Yrths)
         volume: 1.783 × 10<sup>14</sup> km<sup>3</sup><br/>(164.602 Yrths)
-        mass: 3.349 × 10<sup>26</sup> kg<br />(38.60721506928668 Yrths)
+        mass: 3.349 × 10<sup>26</sup> kg<br />(56.072 Yrths)
         density: 1.878 g/cm<sup>3</sup>
         surface_gravity: 18.308 m/s<sup>2</sup><br />(1.867 g<sub>0</sub>)
         escape_velocity: 35.780 km/s<br />(128,808 km/h)
         rotation_period: 44.893 d
         axial_tilt: 32.00°
         albedo: 0.30
-        temperature: 904 K<br />(631 °C)
+        temperature: 178 K<br />(-95 °C)
       - name: 0110 Ruanead II e
         type: Icy
         formationType: Accreted
@@ -315,14 +315,14 @@ planets:
         radius: 57,206.4 km<br/>(8.979 Yrths)
         surface_area: 4.112 × 10<sup>10</sup> km<sup>2</sup><br/>(80.626 Yrths)
         volume: 7.842 × 10<sup>14</sup> km<sup>3</sup><br/>(723.954 Yrths)
-        mass: 1.462 × 10<sup>27</sup> kg<br />(38.60721506928668 Yrths)
+        mass: 1.462 × 10<sup>27</sup> kg<br />(244.886 Yrths)
         density: 1.865 g/cm<sup>3</sup>
         surface_gravity: 29.786 m/s<sup>2</sup><br />(3.037 g<sub>0</sub>)
         escape_velocity: 58.417 km/s<br />(210,301 km/h)
         rotation_period: 61.816 d
         axial_tilt: 22.90°
         albedo: 0.30
-        temperature: 822 K<br />(549 °C)
+        temperature: 178 K<br />(-95 °C)
   - name: 0110 Ruanead III
     type: Gas giant
     aphelion: 3,115,247,035 km<br />20.824 AU
@@ -334,7 +334,7 @@ planets:
     radius: 200.4 km<br/>(0.031 Yrths)
     surface_area: 5.045 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.369 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.015 × 10<sup>27</sup> kg<br />(169.9381268182484 Yrths)
+    mass: 1.015 × 10<sup>27</sup> kg<br />(169.94 Yrths)
     density: 30123729.514 g/cm<sup>3</sup>
     surface_gravity: 1685069.668 m/s<sup>2</sup><br />(171829.286 g<sub>0</sub>)
     escape_velocity: 822.282 km/s<br />(2,960,216 km/h)
@@ -355,14 +355,14 @@ planets:
         radius: 218,116.5 km<br/>(34.236 Yrths)
         surface_area: 5.978 × 10<sup>11</sup> km<sup>2</sup><br/>(1172.092 Yrths)
         volume: 4.347 × 10<sup>16</sup> km<sup>3</sup><br/>(40127.551 Yrths)
-        mass: 8.270 × 10<sup>28</sup> kg<br />(169.9381268182484 Yrths)
+        mass: 8.270 × 10<sup>28</sup> kg<br />(13848.496 Yrths)
         density: 1.903 g/cm<sup>3</sup>
         surface_gravity: 115.867 m/s<sup>2</sup><br />(11.815 g<sub>0</sub>)
         escape_velocity: 224.975 km/s<br />(809,911 km/h)
         rotation_period: 52.456 d
         axial_tilt: 14.56°
         albedo: 0.30
-        temperature: 647 K<br />(374 °C)
+        temperature: 123 K<br />(-151 °C)
       - name: 0110 Ruanead III b
         type: Asteroid
         formationType: Captured
@@ -375,14 +375,14 @@ planets:
         radius: 113,241.9 km<br/>(17.775 Yrths)
         surface_area: 1.611 × 10<sup>11</sup> km<sup>2</sup><br/>(315.936 Yrths)
         volume: 6.083 × 10<sup>15</sup> km<sup>3</sup><br/>(5615.624 Yrths)
-        mass: 9.364 × 10<sup>27</sup> kg<br />(169.9381268182484 Yrths)
+        mass: 9.364 × 10<sup>27</sup> kg<br />(1567.954 Yrths)
         density: 1.539 g/cm<sup>3</sup>
         surface_gravity: 48.669 m/s<sup>2</sup><br />(4.963 g<sub>0</sub>)
         escape_velocity: 105.061 km/s<br />(378,219 km/h)
         rotation_period: 77.524 d
         axial_tilt: 25.56°
         albedo: 0.30
-        temperature: 486 K<br />(213 °C)
+        temperature: 123 K<br />(-151 °C)
       - name: 0110 Ruanead III c
         type: Asteroid
         formationType: Captured
@@ -395,14 +395,14 @@ planets:
         radius: 117,791.4 km<br/>(18.489 Yrths)
         surface_area: 1.744 × 10<sup>11</sup> km<sup>2</sup><br/>(341.832 Yrths)
         volume: 6.846 × 10<sup>15</sup> km<sup>3</sup><br/>(6320.017 Yrths)
-        mass: 1.308 × 10<sup>28</sup> kg<br />(169.9381268182484 Yrths)
+        mass: 1.308 × 10<sup>28</sup> kg<br />(2189.899 Yrths)
         density: 1.910 g/cm<sup>3</sup>
         surface_gravity: 62.825 m/s<sup>2</sup><br />(6.406 g<sub>0</sub>)
         escape_velocity: 121.740 km/s<br />(438,264 km/h)
         rotation_period: 39.492 d
         axial_tilt: 51.06°
         albedo: 0.30
-        temperature: 288 K<br />(15 °C)
+        temperature: 123 K<br />(-151 °C)
       - name: 0110 Ruanead III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -415,14 +415,14 @@ planets:
         radius: 120,616.6 km<br/>(18.932 Yrths)
         surface_area: 1.828 × 10<sup>11</sup> km<sup>2</sup><br/>(358.426 Yrths)
         volume: 7.350 × 10<sup>15</sup> km<sup>3</sup><br/>(6785.763 Yrths)
-        mass: 1.416 × 10<sup>28</sup> kg<br />(169.9381268182484 Yrths)
+        mass: 1.416 × 10<sup>28</sup> kg<br />(2371.761 Yrths)
         density: 1.927 g/cm<sup>3</sup>
         surface_gravity: 64.892 m/s<sup>2</sup><br />(6.617 g<sub>0</sub>)
         escape_velocity: 125.202 km/s<br />(450,726 km/h)
         rotation_period: 36.879 d
         axial_tilt: 22.02°
         albedo: 0.30
-        temperature: 206 K<br />(-67 °C)
+        temperature: 123 K<br />(-151 °C)
       - name: 0110 Ruanead III e
         type: Icy
         formationType: Captured
@@ -435,14 +435,14 @@ planets:
         radius: 188,229.6 km<br/>(29.545 Yrths)
         surface_area: 4.452 × 10<sup>11</sup> km<sup>2</sup><br/>(872.892 Yrths)
         volume: 2.794 × 10<sup>16</sup> km<sup>3</sup><br/>(25789.394 Yrths)
-        mass: 2.255 × 10<sup>28</sup> kg<br />(169.9381268182484 Yrths)
+        mass: 2.255 × 10<sup>28</sup> kg<br />(3775.705 Yrths)
         density: 0.807 g/cm<sup>3</sup>
         surface_gravity: 42.419 m/s<sup>2</sup><br />(4.326 g<sub>0</sub>)
         escape_velocity: 126.454 km/s<br />(455,235 km/h)
         rotation_period: 81.321 d
         axial_tilt: 19.94°
         albedo: 0.30
-        temperature: 92 K<br />(-181 °C)
+        temperature: 123 K<br />(-151 °C)
       - name: 0110 Ruanead III f
         type: Icy
         formationType: Captured
@@ -455,12 +455,12 @@ planets:
         radius: 141,651.6 km<br/>(22.234 Yrths)
         surface_area: 2.521 × 10<sup>11</sup> km<sup>2</sup><br/>(494.342 Yrths)
         volume: 1.191 × 10<sup>16</sup> km<sup>3</sup><br/>(10991.116 Yrths)
-        mass: 9.965 × 10<sup>27</sup> kg<br />(169.9381268182484 Yrths)
+        mass: 9.965 × 10<sup>27</sup> kg<br />(1668.641 Yrths)
         density: 0.837 g/cm<sup>3</sup>
         surface_gravity: 33.102 m/s<sup>2</sup><br />(3.375 g<sub>0</sub>)
         escape_velocity: 96.905 km/s<br />(348,860 km/h)
         rotation_period: 68.700 d
         axial_tilt: 19.17°
         albedo: 0.30
-        temperature: 83 K<br />(-190 °C)
+        temperature: 123 K<br />(-151 °C)
 ---

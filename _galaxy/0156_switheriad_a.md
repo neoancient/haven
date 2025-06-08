@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0156 Switheriad A is a star in the constellation Swither
+      0156 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 225.54 ly
 apparent_magnitude: 6.96
 absolute_magnitude: 2.76

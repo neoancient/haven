@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0031 Nuaniad is a star in the constellation Nuani
+      0031 Nuaniad is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 240.65 ly
 apparent_magnitude: 6.04
 absolute_magnitude: 1.70
@@ -31,14 +31,14 @@ planets:
     radius: 2,991.3 km<br/>(0.470 Yrths)
     surface_area: 1.124 × 10<sup>08</sup> km<sup>2</sup><br/>(0.220 Yrths)
     volume: 1.121 × 10<sup>11</sup> km<sup>3</sup><br/>(0.104 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.327 g/cm<sup>3</sup>
     surface_gravity: 4.449 m/s<sup>2</sup><br />(0.454 g<sub>0</sub>)
     escape_velocity: 5.162 km/s<br />(18,584 km/h)
     rotation_period: 2.097 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 444 K<br />(170 °C)
+    temperature: 639 K<br />(366 °C)
     surface_pressure: 9 kPa<br />(0 atm)
     composition:
       - 73.9720% ammonia
@@ -60,14 +60,14 @@ planets:
         radius: 537.6 km<br/>(0.084 Yrths)
         surface_area: 3.632 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.509 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 7.179 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 7.179 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.103 g/cm<sup>3</sup>
         surface_gravity: 0.166 m/s<sup>2</sup><br />(0.017 g<sub>0</sub>)
         escape_velocity: 0.422 km/s<br />(1,520 km/h)
         rotation_period: 58.900 d
         axial_tilt: 24.51°
         albedo: 0.30
-        temperature: 9789 K<br />(9516 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 0031 Nuaniad I b
         type: Rocky
         formationType: Captured
@@ -80,14 +80,14 @@ planets:
         radius: 518.7 km<br/>(0.081 Yrths)
         surface_area: 3.382 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 5.847 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.637 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.637 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.799 g/cm<sup>3</sup>
         surface_gravity: 0.405 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.649 km/s<br />(2,336 km/h)
         rotation_period: 36.377 d
         axial_tilt: 15.60°
         albedo: 0.30
-        temperature: 9333 K<br />(9060 °C)
+        temperature: 399 K<br />(126 °C)
   - name: 0031 Nuaniad II
     type: Ice giant
     aphelion: 554,001,318 km<br />3.703 AU
@@ -99,14 +99,14 @@ planets:
     radius: 29,091.2 km<br/>(4.566 Yrths)
     surface_area: 1.063 × 10<sup>10</sup> km<sup>2</sup><br/>(20.850 Yrths)
     volume: 1.031 × 10<sup>14</sup> km<sup>3</sup><br/>(95.206 Yrths)
-    mass: 1.253 × 10<sup>26</sup> kg<br />(20.97870353187918 Yrths)
+    mass: 1.253 × 10<sup>26</sup> kg<br />(20.98 Yrths)
     density: 1.215 g/cm<sup>3</sup>
     surface_gravity: 9.867 m/s<sup>2</sup><br />(1.006 g<sub>0</sub>)
     escape_velocity: 23.977 km/s<br />(86,315 km/h)
     rotation_period: 0.348 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 597 K<br />(324 °C)
+    temperature: 567 K<br />(294 °C)
     composition:
       - 67.1558% hydrogen
       - 23.1160% helium
@@ -126,14 +126,14 @@ planets:
         radius: 18,897.6 km<br/>(2.966 Yrths)
         surface_area: 4.488 × 10<sup>09</sup> km<sup>2</sup><br/>(8.798 Yrths)
         volume: 2.827 × 10<sup>13</sup> km<sup>3</sup><br/>(26.098 Yrths)
-        mass: 6.125 × 10<sup>25</sup> kg<br />(20.97870353187918 Yrths)
+        mass: 6.125 × 10<sup>25</sup> kg<br />(10.256 Yrths)
         density: 2.167 g/cm<sup>3</sup>
         surface_gravity: 11.431 m/s<sup>2</sup><br />(1.166 g<sub>0</sub>)
         escape_velocity: 20.800 km/s<br />(74,879 km/h)
         rotation_period: 42.099 d
         axial_tilt: 14.59°
         albedo: 0.30
-        temperature: 2721 K<br />(2448 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0031 Nuaniad II b
         type: Icy
         formationType: Impact formed
@@ -146,14 +146,14 @@ planets:
         radius: 29,113.8 km<br/>(4.570 Yrths)
         surface_area: 1.065 × 10<sup>10</sup> km<sup>2</sup><br/>(20.882 Yrths)
         volume: 1.034 × 10<sup>14</sup> km<sup>3</sup><br/>(95.427 Yrths)
-        mass: 1.297 × 10<sup>26</sup> kg<br />(20.97870353187918 Yrths)
+        mass: 1.297 × 10<sup>26</sup> kg<br />(21.723 Yrths)
         density: 1.255 g/cm<sup>3</sup>
         surface_gravity: 10.202 m/s<sup>2</sup><br />(1.040 g<sub>0</sub>)
         escape_velocity: 24.389 km/s<br />(87,800 km/h)
         rotation_period: 54.496 d
         axial_tilt: 16.98°
         albedo: 0.30
-        temperature: 2595 K<br />(2322 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0031 Nuaniad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -166,14 +166,14 @@ planets:
         radius: 28,720.1 km<br/>(4.508 Yrths)
         surface_area: 1.037 × 10<sup>10</sup> km<sup>2</sup><br/>(20.322 Yrths)
         volume: 9.923 × 10<sup>13</sup> km<sup>3</sup><br/>(91.608 Yrths)
-        mass: 2.202 × 10<sup>26</sup> kg<br />(20.97870353187918 Yrths)
+        mass: 2.202 × 10<sup>26</sup> kg<br />(36.871 Yrths)
         density: 2.219 g/cm<sup>3</sup>
         surface_gravity: 17.793 m/s<sup>2</sup><br />(1.814 g<sub>0</sub>)
         escape_velocity: 31.991 km/s<br />(115,168 km/h)
         rotation_period: 62.766 d
         axial_tilt: 28.11°
         albedo: 0.30
-        temperature: 2474 K<br />(2201 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0031 Nuaniad II d
         type: Asteroid
         formationType: Captured
@@ -186,14 +186,34 @@ planets:
         radius: 23,579.4 km<br/>(3.701 Yrths)
         surface_area: 6.987 × 10<sup>09</sup> km<sup>2</sup><br/>(13.698 Yrths)
         volume: 5.491 × 10<sup>13</sup> km<sup>3</sup><br/>(50.696 Yrths)
-        mass: 1.259 × 10<sup>26</sup> kg<br />(20.97870353187918 Yrths)
+        mass: 1.259 × 10<sup>26</sup> kg<br />(21.075 Yrths)
         density: 2.292 g/cm<sup>3</sup>
         surface_gravity: 15.088 m/s<sup>2</sup><br />(1.539 g<sub>0</sub>)
         escape_velocity: 26.693 km/s<br />(96,093 km/h)
         rotation_period: 49.587 d
         axial_tilt: 52.86°
         albedo: 0.30
-        temperature: 2359 K<br />(2086 °C)
+        temperature: 284 K<br />(11 °C)
+      - name: 0031 Nuaniad II e
+        type: Asteroid
+        formationType: Captured
+        aphelion: 10,734,367 km<br />
+        perihelion: 7,065,806 km<br />
+        semi_major_axis: 8,900,086 km<br />
+        eccentricity: 0.206
+        orbital_period: 0.09 d<br />
+        inclination: 33.59°
+        radius: 10,164.0 km<br/>(1.595 Yrths)
+        surface_area: 1.298 × 10<sup>09</sup> km<sup>2</sup><br/>(2.545 Yrths)
+        volume: 4.398 × 10<sup>12</sup> km<sup>3</sup><br/>(4.060 Yrths)
+        mass: 1.177 × 10<sup>25</sup> kg<br />(1.971 Yrths)
+        density: 2.677 g/cm<sup>3</sup>
+        surface_gravity: 7.595 m/s<sup>2</sup><br />(0.775 g<sub>0</sub>)
+        escape_velocity: 12.434 km/s<br />(44,763 km/h)
+        rotation_period: 31.158 d
+        axial_tilt: 23.89°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
   - name: 0031 Nuaniad III
     type: Large terrestrial
     aphelion: 1,172,895,217 km<br />7.840 AU
@@ -205,14 +225,14 @@ planets:
     radius: 11,393.3 km<br/>(1.788 Yrths)
     surface_area: 1.631 × 10<sup>09</sup> km<sup>2</sup><br/>(3.198 Yrths)
     volume: 6.195 × 10<sup>12</sup> km<sup>3</sup><br/>(5.719 Yrths)
-    mass: 4.179 × 10<sup>25</sup> kg<br />(6.9971625494241065 Yrths)
+    mass: 4.179 × 10<sup>25</sup> kg<br />(7.00 Yrths)
     density: 6.745 g/cm<sup>3</sup>
     surface_gravity: 21.456 m/s<sup>2</sup><br />(2.188 g<sub>0</sub>)
     escape_velocity: 22.127 km/s<br />(79,656 km/h)
     rotation_period: 0.532 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 313 K<br />(40 °C)
+    temperature: 365 K<br />(92 °C)
     surface_pressure: 4,018 kPa<br />(40 atm)
     composition:
       - 76.9272% methane
@@ -231,14 +251,14 @@ planets:
         radius: 7,352.3 km<br/>(1.154 Yrths)
         surface_area: 6.793 × 10<sup>08</sup> km<sup>2</sup><br/>(1.332 Yrths)
         volume: 1.665 × 10<sup>12</sup> km<sup>3</sup><br/>(1.537 Yrths)
-        mass: 4.514 × 10<sup>24</sup> kg<br />(6.9971625494241065 Yrths)
+        mass: 4.514 × 10<sup>24</sup> kg<br />(0.756 Yrths)
         density: 2.711 g/cm<sup>3</sup>
         surface_gravity: 5.566 m/s<sup>2</sup><br />(0.568 g<sub>0</sub>)
         escape_velocity: 9.053 km/s<br />(32,590 km/h)
         rotation_period: 51.350 d
         axial_tilt: 31.86°
         albedo: 0.30
-        temperature: 2405 K<br />(2131 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0031 Nuaniad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -251,14 +271,14 @@ planets:
         radius: 14,200.5 km<br/>(2.229 Yrths)
         surface_area: 2.534 × 10<sup>09</sup> km<sup>2</sup><br/>(4.968 Yrths)
         volume: 1.199 × 10<sup>13</sup> km<sup>3</sup><br/>(11.074 Yrths)
-        mass: 2.376 × 10<sup>25</sup> kg<br />(6.9971625494241065 Yrths)
+        mass: 2.376 × 10<sup>25</sup> kg<br />(3.979 Yrths)
         density: 1.981 g/cm<sup>3</sup>
         surface_gravity: 7.854 m/s<sup>2</sup><br />(0.801 g<sub>0</sub>)
         escape_velocity: 14.945 km/s<br />(53,803 km/h)
         rotation_period: 61.770 d
         axial_tilt: 22.98°
         albedo: 0.30
-        temperature: 2293 K<br />(2019 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 0031 Nuaniad IV
     type: Gas giant
     aphelion: 2,237,263,173 km<br />14.955 AU
@@ -270,7 +290,7 @@ planets:
     radius: 222.6 km<br/>(0.035 Yrths)
     surface_area: 6.229 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.622 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.593 × 10<sup>27</sup> kg<br />(266.6992218879829 Yrths)
+    mass: 1.593 × 10<sup>27</sup> kg<br />(266.70 Yrths)
     density: 34458053.089 g/cm<sup>3</sup>
     surface_gravity: 2141819.324 m/s<sup>2</sup><br />(218404.789 g<sub>0</sub>)
     escape_velocity: 977.226 km/s<br />(3,518,013 km/h)
@@ -291,14 +311,14 @@ planets:
         radius: 200,442.4 km<br/>(31.462 Yrths)
         surface_area: 5.049 × 10<sup>11</sup> km<sup>2</sup><br/>(989.838 Yrths)
         volume: 3.373 × 10<sup>16</sup> km<sup>3</sup><br/>(31141.959 Yrths)
-        mass: 4.751 × 10<sup>28</sup> kg<br />(266.6992218879829 Yrths)
+        mass: 4.751 × 10<sup>28</sup> kg<br />(7954.997 Yrths)
         density: 1.408 g/cm<sup>3</sup>
         surface_gravity: 78.813 m/s<sup>2</sup><br />(8.037 g<sub>0</sub>)
         escape_velocity: 177.870 km/s<br />(640,332 km/h)
         rotation_period: 54.817 d
         axial_tilt: 12.56°
         albedo: 0.30
-        temperature: 643 K<br />(369 °C)
+        temperature: 144 K<br />(-130 °C)
       - name: 0031 Nuaniad IV b
         type: Icy
         formationType: Accreted
@@ -311,14 +331,14 @@ planets:
         radius: 201,346.6 km<br/>(31.604 Yrths)
         surface_area: 5.094 × 10<sup>11</sup> km<sup>2</sup><br/>(998.788 Yrths)
         volume: 3.419 × 10<sup>16</sup> km<sup>3</sup><br/>(31565.322 Yrths)
-        mass: 4.142 × 10<sup>28</sup> kg<br />(266.6992218879829 Yrths)
+        mass: 4.142 × 10<sup>28</sup> kg<br />(6935.410 Yrths)
         density: 1.211 g/cm<sup>3</sup>
         surface_gravity: 68.096 m/s<sup>2</sup><br />(6.944 g<sub>0</sub>)
         escape_velocity: 165.707 km/s<br />(596,546 km/h)
         rotation_period: 47.576 d
         axial_tilt: 19.55°
         albedo: 0.30
-        temperature: 613 K<br />(339 °C)
+        temperature: 144 K<br />(-130 °C)
       - name: 0031 Nuaniad IV c
         type: Icy
         formationType: Impact formed
@@ -331,14 +351,14 @@ planets:
         radius: 327,249.4 km<br/>(51.365 Yrths)
         surface_area: 1.346 × 10<sup>12</sup> km<sup>2</sup><br/>(2638.411 Yrths)
         volume: 1.468 × 10<sup>17</sup> km<sup>3</sup><br/>(135523.221 Yrths)
-        mass: 1.815 × 10<sup>29</sup> kg<br />(266.6992218879829 Yrths)
+        mass: 1.815 × 10<sup>29</sup> kg<br />(30393.197 Yrths)
         density: 1.236 g/cm<sup>3</sup>
         surface_gravity: 112.968 m/s<sup>2</sup><br />(11.520 g<sub>0</sub>)
         escape_velocity: 272.099 km/s<br />(979,555 km/h)
         rotation_period: 67.646 d
         axial_tilt: 6.68°
         albedo: 0.30
-        temperature: 272 K<br />(-1 °C)
+        temperature: 144 K<br />(-130 °C)
       - name: 0031 Nuaniad IV d
         type: Icy
         formationType: Accreted
@@ -351,14 +371,14 @@ planets:
         radius: 246,793.8 km<br/>(38.737 Yrths)
         surface_area: 7.654 × 10<sup>11</sup> km<sup>2</sup><br/>(1500.560 Yrths)
         volume: 6.296 × 10<sup>16</sup> km<sup>3</sup><br/>(58127.279 Yrths)
-        mass: 6.144 × 10<sup>28</sup> kg<br />(266.6992218879829 Yrths)
+        mass: 6.144 × 10<sup>28</sup> kg<br />(10287.760 Yrths)
         density: 0.976 g/cm<sup>3</sup>
         surface_gravity: 67.234 m/s<sup>2</sup><br />(6.856 g<sub>0</sub>)
         escape_velocity: 182.293 km/s<br />(656,256 km/h)
         rotation_period: 65.424 d
         axial_tilt: 19.74°
         albedo: 0.30
-        temperature: 186 K<br />(-87 °C)
+        temperature: 144 K<br />(-130 °C)
       - name: 0031 Nuaniad IV e
         type: Icy
         formationType: Accreted
@@ -371,14 +391,14 @@ planets:
         radius: 215,080.9 km<br/>(33.759 Yrths)
         surface_area: 5.813 × 10<sup>11</sup> km<sup>2</sup><br/>(1139.695 Yrths)
         volume: 4.168 × 10<sup>16</sup> km<sup>3</sup><br/>(38475.374 Yrths)
-        mass: 4.970 × 10<sup>28</sup> kg<br />(266.6992218879829 Yrths)
+        mass: 4.970 × 10<sup>28</sup> kg<br />(8322.945 Yrths)
         density: 1.193 g/cm<sup>3</sup>
         surface_gravity: 71.616 m/s<sup>2</sup><br />(7.303 g<sub>0</sub>)
         escape_velocity: 175.637 km/s<br />(632,292 km/h)
         rotation_period: 87.041 d
         axial_tilt: 25.82°
         albedo: 0.30
-        temperature: 177 K<br />(-96 °C)
+        temperature: 144 K<br />(-130 °C)
   - name: 0031 Nuaniad V
     type: Terrestrial
     aphelion: 4,419,367,346 km<br />29.541 AU
@@ -390,7 +410,7 @@ planets:
     radius: 8,389.3 km<br/>(1.317 Yrths)
     surface_area: 8.844 × 10<sup>08</sup> km<sup>2</sup><br/>(1.734 Yrths)
     volume: 2.473 × 10<sup>12</sup> km<sup>3</sup><br/>(2.283 Yrths)
-    mass: 1.275 × 10<sup>25</sup> kg<br />(2.1355889475449468 Yrths)
+    mass: 1.275 × 10<sup>25</sup> kg<br />(2.14 Yrths)
     density: 5.157 g/cm<sup>3</sup>
     surface_gravity: 12.078 m/s<sup>2</sup><br />(1.232 g<sub>0</sub>)
     escape_velocity: 14.245 km/s<br />(51,283 km/h)
@@ -411,14 +431,14 @@ planets:
         radius: 4,146.7 km<br/>(0.651 Yrths)
         surface_area: 2.161 × 10<sup>08</sup> km<sup>2</sup><br/>(0.424 Yrths)
         volume: 2.987 × 10<sup>11</sup> km<sup>3</sup><br/>(0.276 Yrths)
-        mass: 5.341 × 10<sup>23</sup> kg<br />(2.1355889475449468 Yrths)
+        mass: 5.341 × 10<sup>23</sup> kg<br />(0.089 Yrths)
         density: 1.788 g/cm<sup>3</sup>
         surface_gravity: 2.070 m/s<sup>2</sup><br />(0.211 g<sub>0</sub>)
         escape_velocity: 4.146 km/s<br />(14,927 km/h)
         rotation_period: 68.833 d
         axial_tilt: 23.52°
         albedo: 0.30
-        temperature: 1426 K<br />(1153 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 0031 Nuaniad V b
         type: Icy
         formationType: Impact formed
@@ -431,12 +451,12 @@ planets:
         radius: 5,424.6 km<br/>(0.851 Yrths)
         surface_area: 3.698 × 10<sup>08</sup> km<sup>2</sup><br/>(0.725 Yrths)
         volume: 6.687 × 10<sup>11</sup> km<sup>3</sup><br/>(0.617 Yrths)
-        mass: 1.127 × 10<sup>24</sup> kg<br />(2.1355889475449468 Yrths)
+        mass: 1.127 × 10<sup>24</sup> kg<br />(0.189 Yrths)
         density: 1.685 g/cm<sup>3</sup>
         surface_gravity: 2.552 m/s<sup>2</sup><br />(0.260 g<sub>0</sub>)
         escape_velocity: 5.265 km/s<br />(18,955 km/h)
         rotation_period: 41.846 d
         axial_tilt: 19.98°
         albedo: 0.30
-        temperature: 1360 K<br />(1087 °C)
+        temperature: 102 K<br />(-171 °C)
 ---

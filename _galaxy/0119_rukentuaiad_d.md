@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0119 Rukentuaiad D is a star in the constellation Rukentua
+      0119 Rukentuaiad D is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 320.01 ly
 apparent_magnitude: 12.51
 absolute_magnitude: 7.55

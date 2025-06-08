@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5041 Tanashad A is a star in the constellation Tanas
+      5041 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 369.53 ly
 apparent_magnitude: 7.86
 absolute_magnitude: 2.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      182 Saithiad A is a star in the constellation Saith
+      182 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 2127.42 ly
 apparent_magnitude: 6.64
 absolute_magnitude: -2.43

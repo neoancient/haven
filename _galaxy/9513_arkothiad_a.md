@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9513 Arkothiad A is a star in the constellation Arkoth
+      9513 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 531.58 ly
 apparent_magnitude: 7.48
 absolute_magnitude: 1.42

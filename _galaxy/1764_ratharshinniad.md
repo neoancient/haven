@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1764 Ratharshinniad is a star in the constellation Ratharshin
+      1764 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 323.36 ly
 apparent_magnitude: 11.45
 absolute_magnitude: 6.47

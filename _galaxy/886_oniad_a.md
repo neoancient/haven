@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      886 Oniad A is a star in the constellation Oni
+      886 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 363.73 ly
 apparent_magnitude: 10.45
 absolute_magnitude: 5.21

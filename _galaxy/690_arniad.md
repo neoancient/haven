@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      690 Arniad is a star in the constellation Arni
+      690 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1034.83 ly
 apparent_magnitude: 11.70
 absolute_magnitude: 4.19

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0107 Neralniad E is a star in the constellation Neraln
+      0107 Neralniad E is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 245.59 ly
 apparent_magnitude: 9.05
 absolute_magnitude: 4.66

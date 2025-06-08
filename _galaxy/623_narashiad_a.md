@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      623 Narashiad A is a star in the constellation Naras
+      623 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 940.94 ly
 apparent_magnitude: 6.84
 absolute_magnitude: -0.46

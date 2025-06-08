@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9065 Shanniashiad A is a star in the constellation Shannias
+      9065 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 822.36 ly
 apparent_magnitude: 7.62
 absolute_magnitude: 0.61

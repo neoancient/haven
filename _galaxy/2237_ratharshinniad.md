@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2237 Ratharshinniad is a star in the constellation Ratharshin
+      2237 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 267.33 ly
 apparent_magnitude: 9.55
 absolute_magnitude: 4.98

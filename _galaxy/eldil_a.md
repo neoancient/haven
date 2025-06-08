@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Eldil A is a star in the constellation Neraln
+      Eldil A is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 479.34 ly
 apparent_magnitude: 2.24
 absolute_magnitude: -3.60

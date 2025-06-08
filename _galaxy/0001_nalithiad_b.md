@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0001 Nalithiad B is a star in the constellation Nalith
+      0001 Nalithiad B is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 1668.05 ly
 apparent_magnitude: 6.59
 absolute_magnitude: -1.95

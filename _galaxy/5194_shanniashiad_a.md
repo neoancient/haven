@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5194 Shanniashiad A is a star in the constellation Shannias
+      5194 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 423.10 ly
 apparent_magnitude: 7.35
 absolute_magnitude: 1.79

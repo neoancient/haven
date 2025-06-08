@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0029 Kenmulliad B is a star in the constellation Kenmul
+      0029 Kenmulliad B is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 175.58 ly
 apparent_magnitude: 9.36
 absolute_magnitude: 5.71

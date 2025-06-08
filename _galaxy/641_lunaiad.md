@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      641 Lunaiad is a star in the constellation Luna
+      641 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 553.99 ly
 apparent_magnitude: 11.70
 absolute_magnitude: 5.55

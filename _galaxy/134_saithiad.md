@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      134 Saithiad is a star in the constellation Saith
+      134 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 289.87 ly
 apparent_magnitude: 10.94
 absolute_magnitude: 6.20

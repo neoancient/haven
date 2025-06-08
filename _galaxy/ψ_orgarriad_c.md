@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Orgarriad C is a star in the constellation Orgar
+      ψ Orgarriad C is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 903.65 ly
 apparent_magnitude: 14.65
 absolute_magnitude: 7.44
@@ -31,14 +31,14 @@ planets:
     radius: 2,848.3 km<br/>(0.447 Yrths)
     surface_area: 1.019 × 10<sup>08</sup> km<sup>2</sup><br/>(0.200 Yrths)
     volume: 9.679 × 10<sup>10</sup> km<sup>3</sup><br/>(0.089 Yrths)
-    mass: 1.839 × 10<sup>25</sup> kg<br />(3.0799530072938612 Yrths)
+    mass: 1.839 × 10<sup>25</sup> kg<br />(3.08 Yrths)
     density: 190.037 g/cm<sup>3</sup>
     surface_gravity: 151.120 m/s<sup>2</sup><br />(15.410 g<sub>0</sub>)
     escape_velocity: 29.360 km/s<br />(105,697 km/h)
     rotation_period: 2.061 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 471 K<br />(198 °C)
+    temperature: 443 K<br />(170 °C)
     surface_pressure: 561 kPa<br />(6 atm)
     composition:
       - 79.6952% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 5,632.7 km<br/>(0.884 Yrths)
         surface_area: 3.987 × 10<sup>08</sup> km<sup>2</sup><br/>(0.782 Yrths)
         volume: 7.486 × 10<sup>11</sup> km<sup>3</sup><br/>(0.691 Yrths)
-        mass: 1.874 × 10<sup>24</sup> kg<br />(3.0799530072938612 Yrths)
+        mass: 1.874 × 10<sup>24</sup> kg<br />(0.314 Yrths)
         density: 2.503 g/cm<sup>3</sup>
         surface_gravity: 3.936 m/s<sup>2</sup><br />(0.401 g<sub>0</sub>)
         escape_velocity: 6.664 km/s<br />(23,989 km/h)
         rotation_period: 37.142 d
         axial_tilt: 14.55°
         albedo: 0.30
-        temperature: 4626 K<br />(4353 °C)
+        temperature: 352 K<br />(79 °C)
       - name: ψ Orgarriad C I b
         type: Rocky
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 4,128.1 km<br/>(0.648 Yrths)
         surface_area: 2.141 × 10<sup>08</sup> km<sup>2</sup><br/>(0.420 Yrths)
         volume: 2.947 × 10<sup>11</sup> km<sup>3</sup><br/>(0.272 Yrths)
-        mass: 9.949 × 10<sup>23</sup> kg<br />(3.0799530072938612 Yrths)
+        mass: 9.949 × 10<sup>23</sup> kg<br />(0.167 Yrths)
         density: 3.376 g/cm<sup>3</sup>
         surface_gravity: 3.891 m/s<sup>2</sup><br />(0.397 g<sub>0</sub>)
         escape_velocity: 5.672 km/s<br />(20,419 km/h)
         rotation_period: 36.664 d
         axial_tilt: 6.82°
         albedo: 0.30
-        temperature: 4411 K<br />(4138 °C)
+        temperature: 352 K<br />(79 °C)
       - name: ψ Orgarriad C I c
         type: Asteroid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 4,747.7 km<br/>(0.745 Yrths)
         surface_area: 2.832 × 10<sup>08</sup> km<sup>2</sup><br/>(0.555 Yrths)
         volume: 4.483 × 10<sup>11</sup> km<sup>3</sup><br/>(0.414 Yrths)
-        mass: 1.441 × 10<sup>24</sup> kg<br />(3.0799530072938612 Yrths)
+        mass: 1.441 × 10<sup>24</sup> kg<br />(0.241 Yrths)
         density: 3.216 g/cm<sup>3</sup>
         surface_gravity: 4.262 m/s<sup>2</sup><br />(0.435 g<sub>0</sub>)
         escape_velocity: 6.366 km/s<br />(22,918 km/h)
         rotation_period: 41.029 d
         axial_tilt: 47.27°
         albedo: 0.30
-        temperature: 4206 K<br />(3932 °C)
+        temperature: 352 K<br />(79 °C)
   - name: ψ Orgarriad C II
     type: Large terrestrial
     aphelion: 107,610,088 km<br />0.719 AU
@@ -115,14 +115,14 @@ planets:
     radius: 2,715.2 km<br/>(0.426 Yrths)
     surface_area: 9.264 × 10<sup>07</sup> km<sup>2</sup><br/>(0.182 Yrths)
     volume: 8.385 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-    mass: 2.457 × 10<sup>25</sup> kg<br />(4.114091964729516 Yrths)
+    mass: 2.457 × 10<sup>25</sup> kg<br />(4.11 Yrths)
     density: 293.026 g/cm<sup>3</sup>
     surface_gravity: 222.132 m/s<sup>2</sup><br />(22.651 g<sub>0</sub>)
     escape_velocity: 34.755 km/s<br />(125,117 km/h)
     rotation_period: 1.481 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 453 K<br />(180 °C)
+    temperature: 1074 K<br />(801 °C)
     surface_pressure: 1,206 kPa<br />(12 atm)
     composition:
       - 73.0802% carbon dioxide
@@ -140,14 +140,14 @@ planets:
         radius: 9,859.0 km<br/>(1.547 Yrths)
         surface_area: 1.221 × 10<sup>09</sup> km<sup>2</sup><br/>(2.395 Yrths)
         volume: 4.014 × 10<sup>12</sup> km<sup>3</sup><br/>(3.706 Yrths)
-        mass: 7.986 × 10<sup>24</sup> kg<br />(4.114091964729516 Yrths)
+        mass: 7.986 × 10<sup>24</sup> kg<br />(1.337 Yrths)
         density: 1.990 g/cm<sup>3</sup>
         surface_gravity: 5.477 m/s<sup>2</sup><br />(0.558 g<sub>0</sub>)
         escape_velocity: 10.399 km/s<br />(37,435 km/h)
         rotation_period: 48.373 d
         axial_tilt: 28.44°
         albedo: 0.30
-        temperature: 4037 K<br />(3764 °C)
+        temperature: 262 K<br />(-11 °C)
   - name: ψ Orgarriad C III
     type: Gas giant
     aphelion: 185,544,384 km<br />1.240 AU
@@ -159,7 +159,7 @@ planets:
     radius: 138.1 km<br/>(0.022 Yrths)
     surface_area: 2.395 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.102 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.496 × 10<sup>26</sup> kg<br />(58.54524361799093 Yrths)
+    mass: 3.496 × 10<sup>26</sup> kg<br />(58.55 Yrths)
     density: 31720268.063 g/cm<sup>3</sup>
     surface_gravity: 1222653.882 m/s<sup>2</sup><br />(124675.999 g<sub>0</sub>)
     escape_velocity: 581.423 km/s<br />(2,093,125 km/h)
@@ -180,14 +180,14 @@ planets:
         radius: 62,711.5 km<br/>(9.843 Yrths)
         surface_area: 4.942 × 10<sup>10</sup> km<sup>2</sup><br/>(96.890 Yrths)
         volume: 1.033 × 10<sup>15</sup> km<sup>3</sup><br/>(953.713 Yrths)
-        mass: 2.210 × 10<sup>27</sup> kg<br />(58.54524361799093 Yrths)
+        mass: 2.210 × 10<sup>27</sup> kg<br />(370.037 Yrths)
         density: 2.139 g/cm<sup>3</sup>
         surface_gravity: 37.453 m/s<sup>2</sup><br />(3.819 g<sub>0</sub>)
         escape_velocity: 68.585 km/s<br />(246,905 km/h)
         rotation_period: 46.237 d
         axial_tilt: 31.17°
         albedo: 0.30
-        temperature: 1170 K<br />(897 °C)
+        temperature: 195 K<br />(-78 °C)
       - name: ψ Orgarriad C III b
         type: Dwarf planet
         formationType: Accreted
@@ -200,14 +200,14 @@ planets:
         radius: 84,235.8 km<br/>(13.222 Yrths)
         surface_area: 8.917 × 10<sup>10</sup> km<sup>2</sup><br/>(174.815 Yrths)
         volume: 2.504 × 10<sup>15</sup> km<sup>3</sup><br/>(2311.355 Yrths)
-        mass: 5.725 × 10<sup>27</sup> kg<br />(58.54524361799093 Yrths)
+        mass: 5.725 × 10<sup>27</sup> kg<br />(958.708 Yrths)
         density: 2.287 g/cm<sup>3</sup>
         surface_gravity: 53.781 m/s<sup>2</sup><br />(5.484 g<sub>0</sub>)
         escape_velocity: 95.252 km/s<br />(342,906 km/h)
         rotation_period: 47.718 d
         axial_tilt: 25.17°
         albedo: 0.30
-        temperature: 922 K<br />(649 °C)
+        temperature: 195 K<br />(-78 °C)
       - name: ψ Orgarriad C III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -220,14 +220,14 @@ planets:
         radius: 63,917.8 km<br/>(10.033 Yrths)
         surface_area: 5.134 × 10<sup>10</sup> km<sup>2</sup><br/>(100.653 Yrths)
         volume: 1.094 × 10<sup>15</sup> km<sup>3</sup><br/>(1009.815 Yrths)
-        mass: 2.589 × 10<sup>27</sup> kg<br />(58.54524361799093 Yrths)
+        mass: 2.589 × 10<sup>27</sup> kg<br />(433.533 Yrths)
         density: 2.367 g/cm<sup>3</sup>
         surface_gravity: 42.239 m/s<sup>2</sup><br />(4.307 g<sub>0</sub>)
         escape_velocity: 73.532 km/s<br />(264,716 km/h)
         rotation_period: 38.579 d
         axial_tilt: 21.78°
         albedo: 0.30
-        temperature: 660 K<br />(387 °C)
+        temperature: 195 K<br />(-78 °C)
       - name: ψ Orgarriad C III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -240,14 +240,14 @@ planets:
         radius: 66,212.4 km<br/>(10.393 Yrths)
         surface_area: 5.509 × 10<sup>10</sup> km<sup>2</sup><br/>(108.010 Yrths)
         volume: 1.216 × 10<sup>15</sup> km<sup>3</sup><br/>(1122.524 Yrths)
-        mass: 2.808 × 10<sup>27</sup> kg<br />(58.54524361799093 Yrths)
+        mass: 2.808 × 10<sup>27</sup> kg<br />(470.144 Yrths)
         density: 2.309 g/cm<sup>3</sup>
         surface_gravity: 42.686 m/s<sup>2</sup><br />(4.353 g<sub>0</sub>)
         escape_velocity: 75.236 km/s<br />(270,848 km/h)
         rotation_period: 54.429 d
         axial_tilt: 13.23°
         albedo: 0.30
-        temperature: 410 K<br />(137 °C)
+        temperature: 195 K<br />(-78 °C)
       - name: ψ Orgarriad C III e
         type: Rocky
         formationType: Captured
@@ -260,14 +260,14 @@ planets:
         radius: 75,957.5 km<br/>(11.922 Yrths)
         surface_area: 7.250 × 10<sup>10</sup> km<sup>2</sup><br/>(142.143 Yrths)
         volume: 1.836 × 10<sup>15</sup> km<sup>3</sup><br/>(1694.688 Yrths)
-        mass: 5.271 × 10<sup>27</sup> kg<br />(58.54524361799093 Yrths)
+        mass: 5.271 × 10<sup>27</sup> kg<br />(882.586 Yrths)
         density: 2.871 g/cm<sup>3</sup>
         surface_gravity: 60.891 m/s<sup>2</sup><br />(6.209 g<sub>0</sub>)
         escape_velocity: 96.243 km/s<br />(346,476 km/h)
         rotation_period: 31.091 d
         axial_tilt: 14.03°
         albedo: 0.30
-        temperature: 280 K<br />(7 °C)
+        temperature: 195 K<br />(-78 °C)
       - name: ψ Orgarriad C III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -280,14 +280,14 @@ planets:
         radius: 58,352.7 km<br/>(9.159 Yrths)
         surface_area: 4.279 × 10<sup>10</sup> km<sup>2</sup><br/>(83.889 Yrths)
         volume: 8.323 × 10<sup>14</sup> km<sup>3</sup><br/>(768.352 Yrths)
-        mass: 2.112 × 10<sup>27</sup> kg<br />(58.54524361799093 Yrths)
+        mass: 2.112 × 10<sup>27</sup> kg<br />(353.568 Yrths)
         density: 2.537 g/cm<sup>3</sup>
         surface_gravity: 41.332 m/s<sup>2</sup><br />(4.215 g<sub>0</sub>)
         escape_velocity: 69.500 km/s<br />(250,199 km/h)
         rotation_period: 53.564 d
         axial_tilt: 32.69°
         albedo: 0.30
-        temperature: 231 K<br />(-42 °C)
+        temperature: 195 K<br />(-78 °C)
       - name: ψ Orgarriad C III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -300,12 +300,12 @@ planets:
         radius: 56,990.8 km<br/>(8.945 Yrths)
         surface_area: 4.081 × 10<sup>10</sup> km<sup>2</sup><br/>(80.019 Yrths)
         volume: 7.754 × 10<sup>14</sup> km<sup>3</sup><br/>(715.800 Yrths)
-        mass: 2.171 × 10<sup>27</sup> kg<br />(58.54524361799093 Yrths)
+        mass: 2.171 × 10<sup>27</sup> kg<br />(363.531 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 44.552 m/s<sup>2</sup><br />(4.543 g<sub>0</sub>)
         escape_velocity: 71.309 km/s<br />(256,713 km/h)
         rotation_period: 38.546 d
         axial_tilt: 21.63°
         albedo: 0.30
-        temperature: 113 K<br />(-160 °C)
+        temperature: 195 K<br />(-78 °C)
 ---

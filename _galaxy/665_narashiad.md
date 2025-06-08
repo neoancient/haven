@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      665 Narashiad is a star in the constellation Naras
+      665 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 390.00 ly
 apparent_magnitude: 9.25
 absolute_magnitude: 3.87

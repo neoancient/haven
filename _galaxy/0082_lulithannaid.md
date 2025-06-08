@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0082 Lulithannaid is a star in the constellation Lulithan
+      0082 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 589.85 ly
 apparent_magnitude: 6.12
 absolute_magnitude: -0.16
@@ -31,14 +31,14 @@ planets:
     radius: 15,156.3 km<br/>(2.379 Yrths)
     surface_area: 2.887 × 10<sup>09</sup> km<sup>2</sup><br/>(5.659 Yrths)
     volume: 1.458 × 10<sup>13</sup> km<sup>3</sup><br/>(13.463 Yrths)
-    mass: 3.275 × 10<sup>25</sup> kg<br />(5.483260246536036 Yrths)
+    mass: 3.275 × 10<sup>25</sup> kg<br />(5.48 Yrths)
     density: 2.245 g/cm<sup>3</sup>
     surface_gravity: 9.501 m/s<sup>2</sup><br />(0.969 g<sub>0</sub>)
     escape_velocity: 16.982 km/s<br />(61,137 km/h)
     rotation_period: 0.470 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 590 K<br />(317 °C)
+    temperature: 529 K<br />(256 °C)
     composition:
       - 85.0106% hydrogen
       - 13.1783% helium
@@ -56,14 +56,14 @@ planets:
         radius: 5,961.2 km<br/>(0.936 Yrths)
         surface_area: 4.466 × 10<sup>08</sup> km<sup>2</sup><br/>(0.875 Yrths)
         volume: 8.874 × 10<sup>11</sup> km<sup>3</sup><br/>(0.819 Yrths)
-        mass: 9.313 × 10<sup>23</sup> kg<br />(5.483260246536036 Yrths)
+        mass: 9.313 × 10<sup>23</sup> kg<br />(0.156 Yrths)
         density: 1.049 g/cm<sup>3</sup>
         surface_gravity: 1.747 m/s<sup>2</sup><br />(0.178 g<sub>0</sub>)
         escape_velocity: 4.567 km/s<br />(16,439 km/h)
         rotation_period: 73.841 d
         axial_tilt: 12.38°
         albedo: 0.30
-        temperature: 4714 K<br />(4441 °C)
+        temperature: 379 K<br />(106 °C)
       - name: 0082 Lulithannaid I b
         type: Asteroid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 8,647.3 km<br/>(1.357 Yrths)
         surface_area: 9.397 × 10<sup>08</sup> km<sup>2</sup><br/>(1.842 Yrths)
         volume: 2.709 × 10<sup>12</sup> km<sup>3</sup><br/>(2.500 Yrths)
-        mass: 4.940 × 10<sup>24</sup> kg<br />(5.483260246536036 Yrths)
+        mass: 4.940 × 10<sup>24</sup> kg<br />(0.827 Yrths)
         density: 1.824 g/cm<sup>3</sup>
         surface_gravity: 4.404 m/s<sup>2</sup><br />(0.449 g<sub>0</sub>)
         escape_velocity: 8.733 km/s<br />(31,438 km/h)
         rotation_period: 53.504 d
         axial_tilt: 33.12°
         albedo: 0.30
-        temperature: 4285 K<br />(4012 °C)
+        temperature: 379 K<br />(106 °C)
       - name: 0082 Lulithannaid I c
         type: Asteroid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 5,183.0 km<br/>(0.814 Yrths)
         surface_area: 3.376 × 10<sup>08</sup> km<sup>2</sup><br/>(0.662 Yrths)
         volume: 5.832 × 10<sup>11</sup> km<sup>3</sup><br/>(0.538 Yrths)
-        mass: 1.224 × 10<sup>24</sup> kg<br />(5.483260246536036 Yrths)
+        mass: 1.224 × 10<sup>24</sup> kg<br />(0.205 Yrths)
         density: 2.100 g/cm<sup>3</sup>
         surface_gravity: 3.038 m/s<sup>2</sup><br />(0.310 g<sub>0</sub>)
         escape_velocity: 5.616 km/s<br />(20,217 km/h)
         rotation_period: 48.844 d
         axial_tilt: 24.37°
         albedo: 0.30
-        temperature: 4086 K<br />(3813 °C)
+        temperature: 379 K<br />(106 °C)
       - name: 0082 Lulithannaid I d
         type: Icy
         formationType: Accreted
@@ -116,12 +116,12 @@ planets:
         radius: 10,368.5 km<br/>(1.627 Yrths)
         surface_area: 1.351 × 10<sup>09</sup> km<sup>2</sup><br/>(2.649 Yrths)
         volume: 4.669 × 10<sup>12</sup> km<sup>3</sup><br/>(4.310 Yrths)
-        mass: 6.633 × 10<sup>24</sup> kg<br />(5.483260246536036 Yrths)
+        mass: 6.633 × 10<sup>24</sup> kg<br />(1.111 Yrths)
         density: 1.421 g/cm<sup>3</sup>
         surface_gravity: 4.112 m/s<sup>2</sup><br />(0.419 g<sub>0</sub>)
         escape_velocity: 9.241 km/s<br />(33,266 km/h)
         rotation_period: 65.242 d
         axial_tilt: 15.46°
         albedo: 0.30
-        temperature: 3896 K<br />(3623 °C)
+        temperature: 379 K<br />(106 °C)
 ---

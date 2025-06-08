@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      20040 Arkothiad A is a star in the constellation Arkoth
+      20040 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 518.32 ly
 apparent_magnitude: 8.36
 absolute_magnitude: 2.35

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      105359 Geardiad is a star in the constellation Geard
+      105359 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 593.87 ly
 apparent_magnitude: 15.74
 absolute_magnitude: 9.43

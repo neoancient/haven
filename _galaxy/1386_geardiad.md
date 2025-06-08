@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1386 Geardiad is a star in the constellation Geard
+      1386 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 195.22 ly
 apparent_magnitude: 9.73
 absolute_magnitude: 5.85
@@ -31,14 +31,14 @@ planets:
     radius: 9,461.8 km<br/>(1.485 Yrths)
     surface_area: 1.125 × 10<sup>09</sup> km<sup>2</sup><br/>(2.206 Yrths)
     volume: 3.548 × 10<sup>12</sup> km<sup>3</sup><br/>(3.276 Yrths)
-    mass: 2.619 × 10<sup>25</sup> kg<br />(4.386288865223339 Yrths)
+    mass: 2.619 × 10<sup>25</sup> kg<br />(4.39 Yrths)
     density: 7.383 g/cm<sup>3</sup>
     surface_gravity: 19.502 m/s<sup>2</sup><br />(1.989 g<sub>0</sub>)
     escape_velocity: 19.224 km/s<br />(69,206 km/h)
     rotation_period: 0.797 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 514 K<br />(241 °C)
+    temperature: 1393 K<br />(1120 °C)
     surface_pressure: 198 kPa<br />(2 atm)
     composition:
       - 92.6655% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 4,817.7 km<br/>(0.756 Yrths)
         surface_area: 2.917 × 10<sup>08</sup> km<sup>2</sup><br/>(0.572 Yrths)
         volume: 4.684 × 10<sup>11</sup> km<sup>3</sup><br/>(0.432 Yrths)
-        mass: 9.488 × 10<sup>23</sup> kg<br />(4.386288865223339 Yrths)
+        mass: 9.488 × 10<sup>23</sup> kg<br />(0.159 Yrths)
         density: 2.026 g/cm<sup>3</sup>
         surface_gravity: 2.725 m/s<sup>2</sup><br />(0.278 g<sub>0</sub>)
         escape_velocity: 5.127 km/s<br />(18,458 km/h)
         rotation_period: 64.615 d
         axial_tilt: 23.02°
         albedo: 0.30
-        temperature: 4410 K<br />(4137 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 1386 Geardiad I b
         type: Rocky
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 6,460.7 km<br/>(1.014 Yrths)
         surface_area: 5.245 × 10<sup>08</sup> km<sup>2</sup><br/>(1.028 Yrths)
         volume: 1.130 × 10<sup>12</sup> km<sup>3</sup><br/>(1.043 Yrths)
-        mass: 3.968 × 10<sup>24</sup> kg<br />(4.386288865223339 Yrths)
+        mass: 3.968 × 10<sup>24</sup> kg<br />(0.664 Yrths)
         density: 3.513 g/cm<sup>3</sup>
         surface_gravity: 6.337 m/s<sup>2</sup><br />(0.646 g<sub>0</sub>)
         escape_velocity: 9.055 km/s<br />(32,597 km/h)
         rotation_period: 41.276 d
         axial_tilt: 15.79°
         albedo: 0.30
-        temperature: 4205 K<br />(3932 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 1386 Geardiad I c
         type: Asteroid
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 6,522.2 km<br/>(1.024 Yrths)
         surface_area: 5.346 × 10<sup>08</sup> km<sup>2</sup><br/>(1.048 Yrths)
         volume: 1.162 × 10<sup>12</sup> km<sup>3</sup><br/>(1.073 Yrths)
-        mass: 2.792 × 10<sup>24</sup> kg<br />(4.386288865223339 Yrths)
+        mass: 2.792 × 10<sup>24</sup> kg<br />(0.468 Yrths)
         density: 2.402 g/cm<sup>3</sup>
         surface_gravity: 4.375 m/s<sup>2</sup><br />(0.446 g<sub>0</sub>)
         escape_velocity: 7.559 km/s<br />(27,213 km/h)
         rotation_period: 61.811 d
         axial_tilt: 31.57°
         albedo: 0.30
-        temperature: 4009 K<br />(3736 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 1386 Geardiad I d
         type: Rocky
         formationType: Accreted
@@ -119,14 +119,14 @@ planets:
         radius: 3,178.2 km<br/>(0.499 Yrths)
         surface_area: 1.269 × 10<sup>08</sup> km<sup>2</sup><br/>(0.249 Yrths)
         volume: 1.345 × 10<sup>11</sup> km<sup>3</sup><br/>(0.124 Yrths)
-        mass: 4.300 × 10<sup>23</sup> kg<br />(4.386288865223339 Yrths)
+        mass: 4.300 × 10<sup>23</sup> kg<br />(0.072 Yrths)
         density: 3.198 g/cm<sup>3</sup>
         surface_gravity: 2.837 m/s<sup>2</sup><br />(0.289 g<sub>0</sub>)
         escape_velocity: 4.250 km/s<br />(15,299 km/h)
         rotation_period: 37.034 d
         axial_tilt: 17.58°
         albedo: 0.30
-        temperature: 3823 K<br />(3550 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 1386 Geardiad II
     type: Gas dwarf
     aphelion: 131,693,509 km<br />0.880 AU
@@ -138,14 +138,14 @@ planets:
     radius: 8,948.4 km<br/>(1.405 Yrths)
     surface_area: 1.006 × 10<sup>09</sup> km<sup>2</sup><br/>(1.973 Yrths)
     volume: 3.001 × 10<sup>12</sup> km<sup>3</sup><br/>(2.771 Yrths)
-    mass: 6.172 × 10<sup>24</sup> kg<br />(1.0335463106457088 Yrths)
+    mass: 6.172 × 10<sup>24</sup> kg<br />(1.03 Yrths)
     density: 2.057 g/cm<sup>3</sup>
     surface_gravity: 5.138 m/s<sup>2</sup><br />(0.524 g<sub>0</sub>)
     escape_velocity: 9.596 km/s<br />(34,544 km/h)
     rotation_period: 0.855 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 340 K<br />(67 °C)
+    temperature: 311 K<br />(38 °C)
     composition:
       - 84.7742% hydrogen
       - 13.1197% helium
@@ -164,14 +164,14 @@ planets:
         radius: 4,039.6 km<br/>(0.634 Yrths)
         surface_area: 2.051 × 10<sup>08</sup> km<sup>2</sup><br/>(0.402 Yrths)
         volume: 2.761 × 10<sup>11</sup> km<sup>3</sup><br/>(0.255 Yrths)
-        mass: 2.488 × 10<sup>23</sup> kg<br />(1.0335463106457088 Yrths)
+        mass: 2.488 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 0.901 g/cm<sup>3</sup>
         surface_gravity: 1.016 m/s<sup>2</sup><br />(0.104 g<sub>0</sub>)
         escape_velocity: 2.867 km/s<br />(10,323 km/h)
         rotation_period: 61.749 d
         axial_tilt: 9.06°
         albedo: 0.30
-        temperature: 3294 K<br />(3021 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 1386 Geardiad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -184,14 +184,14 @@ planets:
         radius: 2,467.9 km<br/>(0.387 Yrths)
         surface_area: 7.653 × 10<sup>07</sup> km<sup>2</sup><br/>(0.150 Yrths)
         volume: 6.296 × 10<sup>10</sup> km<sup>3</sup><br/>(0.058 Yrths)
-        mass: 1.354 × 10<sup>23</sup> kg<br />(1.0335463106457088 Yrths)
+        mass: 1.354 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 2.150 g/cm<sup>3</sup>
         surface_gravity: 1.481 m/s<sup>2</sup><br />(0.151 g<sub>0</sub>)
         escape_velocity: 2.706 km/s<br />(9,741 km/h)
         rotation_period: 46.152 d
         axial_tilt: 18.34°
         albedo: 0.30
-        temperature: 3141 K<br />(2868 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 1386 Geardiad II c
         type: Icy
         formationType: Captured
@@ -204,14 +204,14 @@ planets:
         radius: 4,423.0 km<br/>(0.694 Yrths)
         surface_area: 2.458 × 10<sup>08</sup> km<sup>2</sup><br/>(0.482 Yrths)
         volume: 3.624 × 10<sup>11</sup> km<sup>3</sup><br/>(0.335 Yrths)
-        mass: 3.440 × 10<sup>23</sup> kg<br />(1.0335463106457088 Yrths)
+        mass: 3.440 × 10<sup>23</sup> kg<br />(0.058 Yrths)
         density: 0.949 g/cm<sup>3</sup>
         surface_gravity: 1.172 m/s<sup>2</sup><br />(0.120 g<sub>0</sub>)
         escape_velocity: 3.222 km/s<br />(11,600 km/h)
         rotation_period: 82.776 d
         axial_tilt: 23.27°
         albedo: 0.30
-        temperature: 2995 K<br />(2721 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 1386 Geardiad II d
         type: Rocky
         formationType: Captured
@@ -224,14 +224,14 @@ planets:
         radius: 3,300.6 km<br/>(0.518 Yrths)
         surface_area: 1.369 × 10<sup>08</sup> km<sup>2</sup><br/>(0.268 Yrths)
         volume: 1.506 × 10<sup>11</sup> km<sup>3</sup><br/>(0.139 Yrths)
-        mass: 5.000 × 10<sup>23</sup> kg<br />(1.0335463106457088 Yrths)
+        mass: 5.000 × 10<sup>23</sup> kg<br />(0.084 Yrths)
         density: 3.320 g/cm<sup>3</sup>
         surface_gravity: 3.059 m/s<sup>2</sup><br />(0.312 g<sub>0</sub>)
         escape_velocity: 4.497 km/s<br />(16,189 km/h)
         rotation_period: 50.742 d
         axial_tilt: 20.42°
         albedo: 0.30
-        temperature: 2855 K<br />(2582 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: 1386 Geardiad III
     type: Terrestrial
     aphelion: 222,999,786 km<br />1.491 AU
@@ -243,14 +243,14 @@ planets:
     radius: 3,060.0 km<br/>(0.480 Yrths)
     surface_area: 1.177 × 10<sup>08</sup> km<sup>2</sup><br/>(0.231 Yrths)
     volume: 1.200 × 10<sup>11</sup> km<sup>3</sup><br/>(0.111 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.976 g/cm<sup>3</sup>
     surface_gravity: 4.251 m/s<sup>2</sup><br />(0.433 g<sub>0</sub>)
     escape_velocity: 5.104 km/s<br />(18,375 km/h)
     rotation_period: 2.119 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 205 K<br />(-68 °C)
+    temperature: 237 K<br />(-36 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 88.5228% nitrogen
@@ -269,14 +269,14 @@ planets:
         radius: 565.1 km<br/>(0.089 Yrths)
         surface_area: 4.013 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.559 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.990 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.990 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.632 g/cm<sup>3</sup>
         surface_gravity: 0.415 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.686 km/s<br />(2,468 km/h)
         rotation_period: 58.452 d
         axial_tilt: 11.45°
         albedo: 0.30
-        temperature: 3818 K<br />(3545 °C)
+        temperature: 186 K<br />(-87 °C)
   - name: 1386 Geardiad IV
     type: Large terrestrial
     aphelion: 390,783,843 km<br />2.612 AU
@@ -288,14 +288,14 @@ planets:
     radius: 4,289.2 km<br/>(0.673 Yrths)
     surface_area: 2.312 × 10<sup>08</sup> km<sup>2</sup><br/>(0.453 Yrths)
     volume: 3.305 × 10<sup>11</sup> km<sup>3</sup><br/>(0.305 Yrths)
-    mass: 2.012 × 10<sup>24</sup> kg<br />(0.3368624562070879 Yrths)
+    mass: 2.012 × 10<sup>24</sup> kg<br />(0.34 Yrths)
     density: 6.087 g/cm<sup>3</sup>
     surface_gravity: 7.289 m/s<sup>2</sup><br />(0.743 g<sub>0</sub>)
     escape_velocity: 7.913 km/s<br />(28,485 km/h)
     rotation_period: 1.191 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 200 K<br />(-74 °C)
+    temperature: 302 K<br />(28 °C)
     surface_pressure: 324 kPa<br />(3 atm)
     composition:
       - 67.9824% nitrogen
@@ -315,14 +315,14 @@ planets:
         radius: 2,125.3 km<br/>(0.334 Yrths)
         surface_area: 5.676 × 10<sup>07</sup> km<sup>2</sup><br/>(0.111 Yrths)
         volume: 4.021 × 10<sup>10</sup> km<sup>3</sup><br/>(0.037 Yrths)
-        mass: 5.267 × 10<sup>22</sup> kg<br />(0.3368624562070879 Yrths)
+        mass: 5.267 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 1.310 g/cm<sup>3</sup>
         surface_gravity: 0.777 m/s<sup>2</sup><br />(0.079 g<sub>0</sub>)
         escape_velocity: 1.819 km/s<br />(6,548 km/h)
         rotation_period: 58.874 d
         axial_tilt: 12.29°
         albedo: 0.30
-        temperature: 2542 K<br />(2269 °C)
+        temperature: 143 K<br />(-130 °C)
   - name: 1386 Geardiad V
     type: Terrestrial
     aphelion: 672,858,677 km<br />4.498 AU
@@ -334,14 +334,14 @@ planets:
     radius: 5,329.3 km<br/>(0.836 Yrths)
     surface_area: 3.569 × 10<sup>08</sup> km<sup>2</sup><br/>(0.700 Yrths)
     volume: 6.340 × 10<sup>11</sup> km<sup>3</sup><br/>(0.585 Yrths)
-    mass: 3.223 × 10<sup>24</sup> kg<br />(0.5397565621180225 Yrths)
+    mass: 3.223 × 10<sup>24</sup> kg<br />(0.54 Yrths)
     density: 5.084 g/cm<sup>3</sup>
     surface_gravity: 7.565 m/s<sup>2</sup><br />(0.771 g<sub>0</sub>)
     escape_velocity: 8.986 km/s<br />(32,348 km/h)
     rotation_period: 1.212 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 123 K<br />(-150 °C)
+    temperature: 163 K<br />(-110 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 93.5223% methane
@@ -360,14 +360,14 @@ planets:
         radius: 2,420.8 km<br/>(0.380 Yrths)
         surface_area: 7.364 × 10<sup>07</sup> km<sup>2</sup><br/>(0.144 Yrths)
         volume: 5.943 × 10<sup>10</sup> km<sup>3</sup><br/>(0.055 Yrths)
-        mass: 9.351 × 10<sup>22</sup> kg<br />(0.5397565621180225 Yrths)
+        mass: 9.351 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 1.574 g/cm<sup>3</sup>
         surface_gravity: 1.064 m/s<sup>2</sup><br />(0.108 g<sub>0</sub>)
         escape_velocity: 2.271 km/s<br />(8,175 km/h)
         rotation_period: 46.737 d
         axial_tilt: 39.69°
         albedo: 0.30
-        temperature: 1730 K<br />(1457 °C)
+        temperature: 110 K<br />(-164 °C)
       - name: 1386 Geardiad V b
         type: Icy
         formationType: Impact formed
@@ -380,14 +380,14 @@ planets:
         radius: 586.1 km<br/>(0.092 Yrths)
         surface_area: 4.317 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.433 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.043 × 10<sup>21</sup> kg<br />(0.5397565621180225 Yrths)
+        mass: 1.043 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.237 g/cm<sup>3</sup>
         surface_gravity: 0.202 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.487 km/s<br />(1,755 km/h)
         rotation_period: 50.933 d
         axial_tilt: 9.77°
         albedo: 0.30
-        temperature: 1649 K<br />(1376 °C)
+        temperature: 110 K<br />(-164 °C)
   - name: 1386 Geardiad VI
     type: Gas giant
     aphelion: 1,254,254,296 km<br />8.384 AU
@@ -399,7 +399,7 @@ planets:
     radius: 156.7 km<br/>(0.025 Yrths)
     surface_area: 3.084 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.611 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.530 × 10<sup>26</sup> kg<br />(59.11076130802788 Yrths)
+    mass: 3.530 × 10<sup>26</sup> kg<br />(59.11 Yrths)
     density: 21917333.646 g/cm<sup>3</sup>
     surface_gravity: 958655.179 m/s<sup>2</sup><br />(97755.623 g<sub>0</sub>)
     escape_velocity: 548.436 km/s<br />(1,974,370 km/h)
@@ -420,14 +420,14 @@ planets:
         radius: 57,066.7 km<br/>(8.957 Yrths)
         surface_area: 4.092 × 10<sup>10</sup> km<sup>2</sup><br/>(80.233 Yrths)
         volume: 7.785 × 10<sup>14</sup> km<sup>3</sup><br/>(718.665 Yrths)
-        mass: 1.612 × 10<sup>27</sup> kg<br />(59.11076130802788 Yrths)
+        mass: 1.612 × 10<sup>27</sup> kg<br />(269.859 Yrths)
         density: 2.070 g/cm<sup>3</sup>
         surface_gravity: 32.984 m/s<sup>2</sup><br />(3.363 g<sub>0</sub>)
         escape_velocity: 61.398 km/s<br />(221,033 km/h)
         rotation_period: 46.239 d
         axial_tilt: 31.49°
         albedo: 0.30
-        temperature: 502 K<br />(229 °C)
+        temperature: 84 K<br />(-189 °C)
       - name: 1386 Geardiad VI b
         type: Icy
         formationType: Impact formed
@@ -440,55 +440,15 @@ planets:
         radius: 101,750.3 km<br/>(15.971 Yrths)
         surface_area: 1.301 × 10<sup>11</sup> km<sup>2</sup><br/>(255.068 Yrths)
         volume: 4.413 × 10<sup>15</sup> km<sup>3</sup><br/>(4073.650 Yrths)
-        mass: 4.207 × 10<sup>27</sup> kg<br />(59.11076130802788 Yrths)
+        mass: 4.207 × 10<sup>27</sup> kg<br />(704.436 Yrths)
         density: 0.953 g/cm<sup>3</sup>
         surface_gravity: 27.084 m/s<sup>2</sup><br />(2.762 g<sub>0</sub>)
         escape_velocity: 74.290 km/s<br />(267,444 km/h)
         rotation_period: 71.236 d
         axial_tilt: 9.01°
         albedo: 0.30
-        temperature: 395 K<br />(122 °C)
+        temperature: 84 K<br />(-189 °C)
       - name: 1386 Geardiad VI c
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 70,189,826 km<br />
-        perihelion: 58,226,940 km<br />
-        semi_major_axis: 64,208,383 km<br />
-        eccentricity: 0.093
-        orbital_period: 0.15 d<br />
-        inclination: 3.83°
-        radius: 15,822.7 km<br/>(2.484 Yrths)
-        surface_area: 3.146 × 10<sup>09</sup> km<sup>2</sup><br/>(6.168 Yrths)
-        volume: 1.659 × 10<sup>13</sup> km<sup>3</sup><br/>(15.319 Yrths)
-        mass: 3.675 × 10<sup>25</sup> kg<br />(59.11076130802788 Yrths)
-        density: 2.215 g/cm<sup>3</sup>
-        surface_gravity: 9.784 m/s<sup>2</sup><br />(0.998 g<sub>0</sub>)
-        escape_velocity: 17.608 km/s<br />(63,390 km/h)
-        rotation_period: 35.978 d
-        axial_tilt: 23.86°
-        albedo: 0.30
-        temperature: 343 K<br />(70 °C)
-      - name: 1386 Geardiad VI d
-        type: Icy
-        formationType: Accreted
-        aphelion: 89,795,225 km<br />
-        perihelion: 81,127,490 km<br />
-        semi_major_axis: 85,461,358 km<br />
-        eccentricity: 0.051
-        orbital_period: 0.15 d<br />
-        inclination: 2.32°
-        radius: 34,401.2 km<br/>(5.400 Yrths)
-        surface_area: 1.487 × 10<sup>10</sup> km<sup>2</sup><br/>(29.156 Yrths)
-        volume: 1.705 × 10<sup>14</sup> km<sup>3</sup><br/>(157.433 Yrths)
-        mass: 1.693 × 10<sup>26</sup> kg<br />(59.11076130802788 Yrths)
-        density: 0.993 g/cm<sup>3</sup>
-        surface_gravity: 9.533 m/s<sup>2</sup><br />(0.972 g<sub>0</sub>)
-        escape_velocity: 25.628 km/s<br />(92,259 km/h)
-        rotation_period: 86.580 d
-        axial_tilt: 15.65°
-        albedo: 0.30
-        temperature: 297 K<br />(24 °C)
-      - name: 1386 Geardiad VI e
         type: Icy
         formationType: Captured
         aphelion: 97,980,901 km<br />
@@ -500,15 +460,15 @@ planets:
         radius: 59,346.1 km<br/>(9.315 Yrths)
         surface_area: 4.426 × 10<sup>10</sup> km<sup>2</sup><br/>(86.770 Yrths)
         volume: 8.755 × 10<sup>14</sup> km<sup>3</sup><br/>(808.267 Yrths)
-        mass: 1.187 × 10<sup>27</sup> kg<br />(59.11076130802788 Yrths)
+        mass: 1.187 × 10<sup>27</sup> kg<br />(198.784 Yrths)
         density: 1.356 g/cm<sup>3</sup>
         surface_gravity: 22.466 m/s<sup>2</sup><br />(2.291 g<sub>0</sub>)
         escape_velocity: 51.674 km/s<br />(186,026 km/h)
         rotation_period: 47.531 d
         axial_tilt: 22.03°
         albedo: 0.30
-        temperature: 283 K<br />(10 °C)
-      - name: 1386 Geardiad VI f
+        temperature: 84 K<br />(-189 °C)
+      - name: 1386 Geardiad VI d
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 334,761,999 km<br />
@@ -520,15 +480,15 @@ planets:
         radius: 53,036.8 km<br/>(8.325 Yrths)
         surface_area: 3.535 × 10<sup>10</sup> km<sup>2</sup><br/>(69.301 Yrths)
         volume: 6.249 × 10<sup>14</sup> km<sup>3</sup><br/>(576.911 Yrths)
-        mass: 1.514 × 10<sup>27</sup> kg<br />(59.11076130802788 Yrths)
+        mass: 1.514 × 10<sup>27</sup> kg<br />(253.552 Yrths)
         density: 2.423 g/cm<sup>3</sup>
         surface_gravity: 35.880 m/s<sup>2</sup><br />(3.659 g<sub>0</sub>)
         escape_velocity: 61.734 km/s<br />(222,241 km/h)
         rotation_period: 47.597 d
         axial_tilt: 16.84°
         albedo: 0.30
-        temperature: 168 K<br />(-105 °C)
-      - name: 1386 Geardiad VI g
+        temperature: 84 K<br />(-189 °C)
+      - name: 1386 Geardiad VI e
         type: Icy
         formationType: Accreted
         aphelion: 590,579,504 km<br />
@@ -540,15 +500,15 @@ planets:
         radius: 57,231.0 km<br/>(8.983 Yrths)
         surface_area: 4.116 × 10<sup>10</sup> km<sup>2</sup><br/>(80.695 Yrths)
         volume: 7.852 × 10<sup>14</sup> km<sup>3</sup><br/>(724.889 Yrths)
-        mass: 1.408 × 10<sup>27</sup> kg<br />(59.11076130802788 Yrths)
+        mass: 1.408 × 10<sup>27</sup> kg<br />(235.789 Yrths)
         density: 1.793 g/cm<sup>3</sup>
         surface_gravity: 28.655 m/s<sup>2</sup><br />(2.922 g<sub>0</sub>)
         escape_velocity: 57.309 km/s<br />(206,313 km/h)
         rotation_period: 37.467 d
         axial_tilt: 9.66°
         albedo: 0.30
-        temperature: 115 K<br />(-159 °C)
-      - name: 1386 Geardiad VI h
+        temperature: 84 K<br />(-189 °C)
+      - name: 1386 Geardiad VI f
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 1,933,712,054 km<br />
@@ -560,15 +520,15 @@ planets:
         radius: 65,394.1 km<br/>(10.264 Yrths)
         surface_area: 5.374 × 10<sup>10</sup> km<sup>2</sup><br/>(105.357 Yrths)
         volume: 1.171 × 10<sup>15</sup> km<sup>3</sup><br/>(1081.415 Yrths)
-        mass: 2.698 × 10<sup>27</sup> kg<br />(59.11076130802788 Yrths)
+        mass: 2.698 × 10<sup>27</sup> kg<br />(451.727 Yrths)
         density: 2.303 g/cm<sup>3</sup>
         surface_gravity: 42.047 m/s<sup>2</sup><br />(4.288 g<sub>0</sub>)
         escape_velocity: 74.207 km/s<br />(267,146 km/h)
         rotation_period: 64.914 d
         axial_tilt: 23.25°
         albedo: 0.30
-        temperature: 71 K<br />(-202 °C)
-      - name: 1386 Geardiad VI i
+        temperature: 84 K<br />(-189 °C)
+      - name: 1386 Geardiad VI g
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 26,673,445,954 km<br />
@@ -580,14 +540,14 @@ planets:
         radius: 56,311.9 km<br/>(8.839 Yrths)
         surface_area: 3.985 × 10<sup>10</sup> km<sup>2</sup><br/>(78.124 Yrths)
         volume: 7.480 × 10<sup>14</sup> km<sup>3</sup><br/>(690.523 Yrths)
-        mass: 1.608 × 10<sup>27</sup> kg<br />(59.11076130802788 Yrths)
+        mass: 1.608 × 10<sup>27</sup> kg<br />(269.303 Yrths)
         density: 2.150 g/cm<sup>3</sup>
         surface_gravity: 33.805 m/s<sup>2</sup><br />(3.447 g<sub>0</sub>)
         escape_velocity: 61.745 km/s<br />(222,280 km/h)
         rotation_period: 57.317 d
         axial_tilt: 20.47°
         albedo: 0.30
-        temperature: 17 K<br />(-256 °C)
+        temperature: 84 K<br />(-189 °C)
   - name: 1386 Geardiad VII
     type: Gas giant
     aphelion: 1,819,660,947 km<br />12.164 AU
@@ -599,7 +559,7 @@ planets:
     radius: 87.4 km<br/>(0.014 Yrths)
     surface_area: 9.592 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 2.793 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.889 × 10<sup>25</sup> kg<br />(4.838039890255907 Yrths)
+    mass: 2.889 × 10<sup>25</sup> kg<br />(4.84 Yrths)
     density: 10343858.797 g/cm<sup>3</sup>
     surface_gravity: 252305.449 m/s<sup>2</sup><br />(25727.996 g<sub>0</sub>)
     escape_velocity: 210.108 km/s<br />(756,389 km/h)
@@ -620,14 +580,14 @@ planets:
         radius: 10,597.2 km<br/>(1.663 Yrths)
         surface_area: 1.411 × 10<sup>09</sup> km<sup>2</sup><br/>(2.767 Yrths)
         volume: 4.985 × 10<sup>12</sup> km<sup>3</sup><br/>(4.602 Yrths)
-        mass: 5.758 × 10<sup>24</sup> kg<br />(4.838039890255907 Yrths)
+        mass: 5.758 × 10<sup>24</sup> kg<br />(0.964 Yrths)
         density: 1.155 g/cm<sup>3</sup>
         surface_gravity: 3.418 m/s<sup>2</sup><br />(0.349 g<sub>0</sub>)
         escape_velocity: 8.517 km/s<br />(30,661 km/h)
         rotation_period: 83.010 d
         axial_tilt: 24.82°
         albedo: 0.30
-        temperature: 584 K<br />(311 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 1386 Geardiad VII b
         type: Icy
         formationType: Accreted
@@ -640,14 +600,14 @@ planets:
         radius: 12,930.9 km<br/>(2.030 Yrths)
         surface_area: 2.101 × 10<sup>09</sup> km<sup>2</sup><br/>(4.119 Yrths)
         volume: 9.057 × 10<sup>12</sup> km<sup>3</sup><br/>(8.361 Yrths)
-        mass: 9.228 × 10<sup>24</sup> kg<br />(4.838039890255907 Yrths)
+        mass: 9.228 × 10<sup>24</sup> kg<br />(1.545 Yrths)
         density: 1.019 g/cm<sup>3</sup>
         surface_gravity: 3.678 m/s<sup>2</sup><br />(0.375 g<sub>0</sub>)
         escape_velocity: 9.760 km/s<br />(35,136 km/h)
         rotation_period: 58.060 d
         axial_tilt: 26.62°
         albedo: 0.30
-        temperature: 531 K<br />(258 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 1386 Geardiad VII c
         type: Dwarf planet
         formationType: Captured
@@ -660,14 +620,14 @@ planets:
         radius: 12,778.2 km<br/>(2.006 Yrths)
         surface_area: 2.052 × 10<sup>09</sup> km<sup>2</sup><br/>(4.023 Yrths)
         volume: 8.740 × 10<sup>12</sup> km<sup>3</sup><br/>(8.068 Yrths)
-        mass: 1.901 × 10<sup>25</sup> kg<br />(4.838039890255907 Yrths)
+        mass: 1.901 × 10<sup>25</sup> kg<br />(3.184 Yrths)
         density: 2.176 g/cm<sup>3</sup>
         surface_gravity: 7.761 m/s<sup>2</sup><br />(0.791 g<sub>0</sub>)
         escape_velocity: 14.093 km/s<br />(50,736 km/h)
         rotation_period: 59.654 d
         axial_tilt: 20.26°
         albedo: 0.30
-        temperature: 460 K<br />(187 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 1386 Geardiad VII d
         type: Icy
         formationType: Accreted
@@ -680,14 +640,14 @@ planets:
         radius: 12,689.0 km<br/>(1.992 Yrths)
         surface_area: 2.023 × 10<sup>09</sup> km<sup>2</sup><br/>(3.967 Yrths)
         volume: 8.558 × 10<sup>12</sup> km<sup>3</sup><br/>(7.901 Yrths)
-        mass: 6.362 × 10<sup>24</sup> kg<br />(4.838039890255907 Yrths)
+        mass: 6.362 × 10<sup>24</sup> kg<br />(1.065 Yrths)
         density: 0.743 g/cm<sup>3</sup>
         surface_gravity: 2.633 m/s<sup>2</sup><br />(0.269 g<sub>0</sub>)
         escape_velocity: 8.181 km/s<br />(29,450 km/h)
         rotation_period: 62.623 d
         axial_tilt: 19.47°
         albedo: 0.30
-        temperature: 330 K<br />(56 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 1386 Geardiad VII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -700,14 +660,14 @@ planets:
         radius: 10,586.5 km<br/>(1.662 Yrths)
         surface_area: 1.408 × 10<sup>09</sup> km<sup>2</sup><br/>(2.761 Yrths)
         volume: 4.970 × 10<sup>12</sup> km<sup>3</sup><br/>(4.588 Yrths)
-        mass: 9.259 × 10<sup>24</sup> kg<br />(4.838039890255907 Yrths)
+        mass: 9.259 × 10<sup>24</sup> kg<br />(1.550 Yrths)
         density: 1.863 g/cm<sup>3</sup>
         surface_gravity: 5.507 m/s<sup>2</sup><br />(0.562 g<sub>0</sub>)
         escape_velocity: 10.805 km/s<br />(38,898 km/h)
         rotation_period: 49.759 d
         axial_tilt: 21.52°
         albedo: 0.30
-        temperature: 286 K<br />(13 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 1386 Geardiad VII f
         type: Icy
         formationType: Accreted
@@ -720,14 +680,14 @@ planets:
         radius: 13,092.0 km<br/>(2.055 Yrths)
         surface_area: 2.154 × 10<sup>09</sup> km<sup>2</sup><br/>(4.223 Yrths)
         volume: 9.400 × 10<sup>12</sup> km<sup>3</sup><br/>(8.678 Yrths)
-        mass: 9.236 × 10<sup>24</sup> kg<br />(4.838039890255907 Yrths)
+        mass: 9.236 × 10<sup>24</sup> kg<br />(1.546 Yrths)
         density: 0.983 g/cm<sup>3</sup>
         surface_gravity: 3.591 m/s<sup>2</sup><br />(0.366 g<sub>0</sub>)
         escape_velocity: 9.704 km/s<br />(34,934 km/h)
         rotation_period: 99.523 d
         axial_tilt: 20.20°
         albedo: 0.30
-        temperature: 121 K<br />(-152 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 1386 Geardiad VII g
         type: Icy
         formationType: Accreted
@@ -740,14 +700,14 @@ planets:
         radius: 10,130.2 km<br/>(1.590 Yrths)
         surface_area: 1.290 × 10<sup>09</sup> km<sup>2</sup><br/>(2.528 Yrths)
         volume: 4.355 × 10<sup>12</sup> km<sup>3</sup><br/>(4.020 Yrths)
-        mass: 7.464 × 10<sup>24</sup> kg<br />(4.838039890255907 Yrths)
+        mass: 7.464 × 10<sup>24</sup> kg<br />(1.250 Yrths)
         density: 1.714 g/cm<sup>3</sup>
         surface_gravity: 4.848 m/s<sup>2</sup><br />(0.494 g<sub>0</sub>)
         escape_velocity: 9.917 km/s<br />(35,702 km/h)
         rotation_period: 49.681 d
         axial_tilt: 16.48°
         albedo: 0.30
-        temperature: 79 K<br />(-194 °C)
+        temperature: 64 K<br />(-209 °C)
       - name: 1386 Geardiad VII h
         type: Ice/rock hybrid
         formationType: Captured
@@ -760,12 +720,12 @@ planets:
         radius: 10,145.3 km<br/>(1.592 Yrths)
         surface_area: 1.293 × 10<sup>09</sup> km<sup>2</sup><br/>(2.536 Yrths)
         volume: 4.374 × 10<sup>12</sup> km<sup>3</sup><br/>(4.038 Yrths)
-        mass: 8.883 × 10<sup>24</sup> kg<br />(4.838039890255907 Yrths)
+        mass: 8.883 × 10<sup>24</sup> kg<br />(1.488 Yrths)
         density: 2.031 g/cm<sup>3</sup>
         surface_gravity: 5.753 m/s<sup>2</sup><br />(0.587 g<sub>0</sub>)
         escape_velocity: 10.811 km/s<br />(38,920 km/h)
         rotation_period: 36.457 d
         axial_tilt: 32.20°
         albedo: 0.30
-        temperature: 62 K<br />(-211 °C)
+        temperature: 64 K<br />(-209 °C)
 ---

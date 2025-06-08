@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2546 Ratharshinniad A is a star in the constellation Ratharshin
+      2546 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 624.75 ly
 apparent_magnitude: 8.02
 absolute_magnitude: 1.61

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4006 Geardiad is a star in the constellation Geard
+      4006 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 489.51 ly
 apparent_magnitude: 13.89
 absolute_magnitude: 8.01

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0079 Nishiad B is a star in the constellation Nishi
+      0079 Nishiad B is a star in the constellation <a href="nishi.html">Nishi</a>
 distance: 71.23 ly
 apparent_magnitude: 13.74
 absolute_magnitude: 12.05

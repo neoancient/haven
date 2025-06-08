@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      122041 Narashiad is a star in the constellation Naras
+      122041 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 581.85 ly
 apparent_magnitude: 11.61
 absolute_magnitude: 5.35

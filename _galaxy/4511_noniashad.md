@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4511 Noniashad is a star in the constellation Nonias
+      4511 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 393.17 ly
 apparent_magnitude: 10.13
 absolute_magnitude: 4.73

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      930 Naddiad A is a star in the constellation Naddi
+      930 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 445.13 ly
 apparent_magnitude: 8.34
 absolute_magnitude: 2.66

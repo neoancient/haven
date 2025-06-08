@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10278 Dialkeshiad A is a star in the constellation Dialkes
+      10278 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 471.82 ly
 apparent_magnitude: 7.68
 absolute_magnitude: 1.88

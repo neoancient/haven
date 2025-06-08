@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3373 Noniashad is a star in the constellation Nonias
+      3373 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 517.22 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 4.76

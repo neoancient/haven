@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0257 Tanashad A is a star in the constellation Tanas
+      0257 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 906.63 ly
 apparent_magnitude: 6.51
 absolute_magnitude: -0.71

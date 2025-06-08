@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ω Norriad D is a star in the constellation Nor
+      ω Norriad D is a star in the constellation <a href="nor.html">Nor</a>
 distance: 947.76 ly
 apparent_magnitude: 12.04
 absolute_magnitude: 4.73
@@ -31,7 +31,7 @@ planets:
     radius: 140.0 km<br/>(0.022 Yrths)
     surface_area: 2.462 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.149 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.192 × 10<sup>26</sup> kg<br />(36.71109605156564 Yrths)
+    mass: 2.192 × 10<sup>26</sup> kg<br />(36.71 Yrths)
     density: 19080373.220 g/cm<sup>3</sup>
     surface_gravity: 745713.697 m/s<sup>2</sup><br />(76041.635 g<sub>0</sub>)
     escape_velocity: 457.232 km/s<br />(1,646,033 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 42,572.4 km<br/>(6.682 Yrths)
         surface_area: 2.278 × 10<sup>10</sup> km<sup>2</sup><br/>(44.652 Yrths)
         volume: 3.232 × 10<sup>14</sup> km<sup>3</sup><br/>(298.374 Yrths)
-        mass: 1.052 × 10<sup>27</sup> kg<br />(36.71109605156564 Yrths)
+        mass: 1.052 × 10<sup>27</sup> kg<br />(176.120 Yrths)
         density: 3.254 g/cm<sup>3</sup>
         surface_gravity: 38.680 m/s<sup>2</sup><br />(3.944 g<sub>0</sub>)
         escape_velocity: 57.427 km/s<br />(206,738 km/h)
         rotation_period: 43.038 d
         axial_tilt: 59.01°
         albedo: 0.30
-        temperature: 1333 K<br />(1059 °C)
+        temperature: 231 K<br />(-42 °C)
       - name: ω Norriad D I b
         type: Rocky
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 45,640.1 km<br/>(7.164 Yrths)
         surface_area: 2.618 × 10<sup>10</sup> km<sup>2</sup><br/>(51.319 Yrths)
         volume: 3.982 × 10<sup>14</sup> km<sup>3</sup><br/>(367.634 Yrths)
-        mass: 1.295 × 10<sup>27</sup> kg<br />(36.71109605156564 Yrths)
+        mass: 1.295 × 10<sup>27</sup> kg<br />(216.817 Yrths)
         density: 3.252 g/cm<sup>3</sup>
         surface_gravity: 41.432 m/s<sup>2</sup><br />(4.225 g<sub>0</sub>)
         escape_velocity: 61.539 km/s<br />(221,541 km/h)
         rotation_period: 34.618 d
         axial_tilt: 14.96°
         albedo: 0.30
-        temperature: 717 K<br />(444 °C)
+        temperature: 231 K<br />(-42 °C)
       - name: ω Norriad D I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 53,598.0 km<br/>(8.413 Yrths)
         surface_area: 3.610 × 10<sup>10</sup> km<sup>2</sup><br/>(70.775 Yrths)
         volume: 6.450 × 10<sup>14</sup> km<sup>3</sup><br/>(595.420 Yrths)
-        mass: 1.346 × 10<sup>27</sup> kg<br />(36.71109605156564 Yrths)
+        mass: 1.346 × 10<sup>27</sup> kg<br />(225.440 Yrths)
         density: 2.087 g/cm<sup>3</sup>
         surface_gravity: 31.237 m/s<sup>2</sup><br />(3.185 g<sub>0</sub>)
         escape_velocity: 57.905 km/s<br />(208,459 km/h)
         rotation_period: 44.692 d
         axial_tilt: 9.87°
         albedo: 0.30
-        temperature: 445 K<br />(172 °C)
+        temperature: 231 K<br />(-42 °C)
       - name: ω Norriad D I d
         type: Icy
         formationType: Impact formed
@@ -112,14 +112,14 @@ planets:
         radius: 58,365.0 km<br/>(9.161 Yrths)
         surface_area: 4.281 × 10<sup>10</sup> km<sup>2</sup><br/>(83.925 Yrths)
         volume: 8.328 × 10<sup>14</sup> km<sup>3</sup><br/>(768.838 Yrths)
-        mass: 1.114 × 10<sup>27</sup> kg<br />(36.71109605156564 Yrths)
+        mass: 1.114 × 10<sup>27</sup> kg<br />(186.617 Yrths)
         density: 1.338 g/cm<sup>3</sup>
         surface_gravity: 21.806 m/s<sup>2</sup><br />(2.224 g<sub>0</sub>)
         escape_velocity: 50.487 km/s<br />(181,752 km/h)
         rotation_period: 79.839 d
         axial_tilt: 10.49°
         albedo: 0.30
-        temperature: 405 K<br />(132 °C)
+        temperature: 231 K<br />(-42 °C)
       - name: ω Norriad D I e
         type: Icy
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 64,281.6 km<br/>(10.090 Yrths)
         surface_area: 5.193 × 10<sup>10</sup> km<sup>2</sup><br/>(101.802 Yrths)
         volume: 1.113 × 10<sup>15</sup> km<sup>3</sup><br/>(1027.156 Yrths)
-        mass: 1.588 × 10<sup>27</sup> kg<br />(36.71109605156564 Yrths)
+        mass: 1.588 × 10<sup>27</sup> kg<br />(265.858 Yrths)
         density: 1.427 g/cm<sup>3</sup>
         surface_gravity: 25.610 m/s<sup>2</sup><br />(2.612 g<sub>0</sub>)
         escape_velocity: 57.419 km/s<br />(206,710 km/h)
         rotation_period: 75.205 d
         axial_tilt: 17.26°
         albedo: 0.30
-        temperature: 208 K<br />(-65 °C)
+        temperature: 231 K<br />(-42 °C)
   - name: ω Norriad D II
     type: Ice giant
     aphelion: 520,751,111 km<br />3.481 AU
@@ -151,14 +151,14 @@ planets:
     radius: 35,007.2 km<br/>(5.495 Yrths)
     surface_area: 1.540 × 10<sup>10</sup> km<sup>2</sup><br/>(30.192 Yrths)
     volume: 1.797 × 10<sup>14</sup> km<sup>3</sup><br/>(165.901 Yrths)
-    mass: 1.799 × 10<sup>26</sup> kg<br />(30.124753121863897 Yrths)
+    mass: 1.799 × 10<sup>26</sup> kg<br />(30.12 Yrths)
     density: 1.001 g/cm<sup>3</sup>
     surface_gravity: 9.785 m/s<sup>2</sup><br />(0.998 g<sub>0</sub>)
     escape_velocity: 26.192 km/s<br />(94,290 km/h)
     rotation_period: 0.418 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 285 K<br />(12 °C)
+    temperature: 254 K<br />(-20 °C)
     composition:
       - 63.8777% hydrogen
       - 36.1223% helium
@@ -175,14 +175,14 @@ planets:
         radius: 38,526.3 km<br/>(6.047 Yrths)
         surface_area: 1.865 × 10<sup>10</sup> km<sup>2</sup><br/>(36.568 Yrths)
         volume: 2.395 × 10<sup>14</sup> km<sup>3</sup><br/>(221.131 Yrths)
-        mass: 2.887 × 10<sup>26</sup> kg<br />(30.124753121863897 Yrths)
+        mass: 2.887 × 10<sup>26</sup> kg<br />(48.334 Yrths)
         density: 1.205 g/cm<sup>3</sup>
         surface_gravity: 12.962 m/s<sup>2</sup><br />(1.322 g<sub>0</sub>)
         escape_velocity: 31.625 km/s<br />(113,849 km/h)
         rotation_period: 54.761 d
         axial_tilt: 13.48°
         albedo: 0.30
-        temperature: 1483 K<br />(1210 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: ω Norriad D II b
         type: Icy
         formationType: Captured
@@ -195,14 +195,14 @@ planets:
         radius: 23,615.6 km<br/>(3.707 Yrths)
         surface_area: 7.008 × 10<sup>09</sup> km<sup>2</sup><br/>(13.740 Yrths)
         volume: 5.517 × 10<sup>13</sup> km<sup>3</sup><br/>(50.930 Yrths)
-        mass: 4.296 × 10<sup>25</sup> kg<br />(30.124753121863897 Yrths)
+        mass: 4.296 × 10<sup>25</sup> kg<br />(7.193 Yrths)
         density: 0.779 g/cm<sup>3</sup>
         surface_gravity: 5.134 m/s<sup>2</sup><br />(0.524 g<sub>0</sub>)
         escape_velocity: 15.583 km/s<br />(56,098 km/h)
         rotation_period: 83.591 d
         axial_tilt: 17.07°
         albedo: 0.30
-        temperature: 1414 K<br />(1141 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: ω Norriad D II c
         type: Asteroid
         formationType: Captured
@@ -215,14 +215,14 @@ planets:
         radius: 37,120.0 km<br/>(5.826 Yrths)
         surface_area: 1.732 × 10<sup>10</sup> km<sup>2</sup><br/>(33.947 Yrths)
         volume: 2.142 × 10<sup>14</sup> km<sup>3</sup><br/>(197.788 Yrths)
-        mass: 4.206 × 10<sup>26</sup> kg<br />(30.124753121863897 Yrths)
+        mass: 4.206 × 10<sup>26</sup> kg<br />(70.436 Yrths)
         density: 1.963 g/cm<sup>3</sup>
         surface_gravity: 20.348 m/s<sup>2</sup><br />(2.075 g<sub>0</sub>)
         escape_velocity: 38.893 km/s<br />(140,015 km/h)
         rotation_period: 60.392 d
         axial_tilt: 27.29°
         albedo: 0.30
-        temperature: 1348 K<br />(1075 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: ω Norriad D II d
         type: Icy
         formationType: Captured
@@ -235,14 +235,14 @@ planets:
         radius: 35,460.7 km<br/>(5.566 Yrths)
         surface_area: 1.580 × 10<sup>10</sup> km<sup>2</sup><br/>(30.980 Yrths)
         volume: 1.868 × 10<sup>14</sup> km<sup>3</sup><br/>(172.432 Yrths)
-        mass: 2.609 × 10<sup>26</sup> kg<br />(30.124753121863897 Yrths)
+        mass: 2.609 × 10<sup>26</sup> kg<br />(43.687 Yrths)
         density: 1.397 g/cm<sup>3</sup>
         surface_gravity: 13.829 m/s<sup>2</sup><br />(1.410 g<sub>0</sub>)
         escape_velocity: 31.339 km/s<br />(112,819 km/h)
         rotation_period: 65.466 d
         axial_tilt: 22.62°
         albedo: 0.30
-        temperature: 1286 K<br />(1013 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: ω Norriad D II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -255,14 +255,14 @@ planets:
         radius: 14,105.7 km<br/>(2.214 Yrths)
         surface_area: 2.500 × 10<sup>09</sup> km<sup>2</sup><br/>(4.902 Yrths)
         volume: 1.176 × 10<sup>13</sup> km<sup>3</sup><br/>(10.853 Yrths)
-        mass: 3.183 × 10<sup>25</sup> kg<br />(30.124753121863897 Yrths)
+        mass: 3.183 × 10<sup>25</sup> kg<br />(5.331 Yrths)
         density: 2.708 g/cm<sup>3</sup>
         surface_gravity: 10.664 m/s<sup>2</sup><br />(1.087 g<sub>0</sub>)
         escape_velocity: 17.357 km/s<br />(62,485 km/h)
         rotation_period: 43.327 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 1226 K<br />(953 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: ω Norriad D II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -275,14 +275,14 @@ planets:
         radius: 32,008.5 km<br/>(5.024 Yrths)
         surface_area: 1.287 × 10<sup>10</sup> km<sup>2</sup><br/>(25.242 Yrths)
         volume: 1.374 × 10<sup>14</sup> km<sup>3</sup><br/>(126.816 Yrths)
-        mass: 2.916 × 10<sup>26</sup> kg<br />(30.124753121863897 Yrths)
+        mass: 2.916 × 10<sup>26</sup> kg<br />(48.834 Yrths)
         density: 2.123 g/cm<sup>3</sup>
         surface_gravity: 18.973 m/s<sup>2</sup><br />(1.935 g<sub>0</sub>)
         escape_velocity: 34.874 km/s<br />(125,548 km/h)
         rotation_period: 34.619 d
         axial_tilt: 18.59°
         albedo: 0.30
-        temperature: 1169 K<br />(896 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: ω Norriad D II g
         type: Icy
         formationType: Accreted
@@ -295,14 +295,14 @@ planets:
         radius: 46,229.9 km<br/>(7.256 Yrths)
         surface_area: 2.686 × 10<sup>10</sup> km<sup>2</sup><br/>(52.654 Yrths)
         volume: 4.139 × 10<sup>14</sup> km<sup>3</sup><br/>(382.072 Yrths)
-        mass: 6.437 × 10<sup>26</sup> kg<br />(30.124753121863897 Yrths)
+        mass: 6.437 × 10<sup>26</sup> kg<br />(107.792 Yrths)
         density: 1.555 g/cm<sup>3</sup>
         surface_gravity: 20.076 m/s<sup>2</sup><br />(2.047 g<sub>0</sub>)
         escape_velocity: 43.113 km/s<br />(155,207 km/h)
         rotation_period: 44.712 d
         axial_tilt: 23.99°
         albedo: 0.30
-        temperature: 1114 K<br />(841 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: ω Norriad D II h
         type: Icy
         formationType: Impact formed
@@ -315,14 +315,14 @@ planets:
         radius: 51,787.5 km<br/>(8.129 Yrths)
         surface_area: 3.370 × 10<sup>10</sup> km<sup>2</sup><br/>(66.075 Yrths)
         volume: 5.818 × 10<sup>14</sup> km<sup>3</sup><br/>(537.096 Yrths)
-        mass: 6.303 × 10<sup>26</sup> kg<br />(30.124753121863897 Yrths)
+        mass: 6.303 × 10<sup>26</sup> kg<br />(105.543 Yrths)
         density: 1.083 g/cm<sup>3</sup>
         surface_gravity: 15.665 m/s<sup>2</sup><br />(1.597 g<sub>0</sub>)
         escape_velocity: 40.307 km/s<br />(145,105 km/h)
         rotation_period: 65.463 d
         axial_tilt: 12.00°
         albedo: 0.30
-        temperature: 1063 K<br />(789 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: ω Norriad D II i
         type: Asteroid
         formationType: Captured
@@ -335,12 +335,12 @@ planets:
         radius: 23,878.7 km<br/>(3.748 Yrths)
         surface_area: 7.165 × 10<sup>09</sup> km<sup>2</sup><br/>(14.048 Yrths)
         volume: 5.703 × 10<sup>13</sup> km<sup>3</sup><br/>(52.651 Yrths)
-        mass: 1.266 × 10<sup>26</sup> kg<br />(30.124753121863897 Yrths)
+        mass: 1.266 × 10<sup>26</sup> kg<br />(21.205 Yrths)
         density: 2.220 g/cm<sup>3</sup>
         surface_gravity: 14.803 m/s<sup>2</sup><br />(1.509 g<sub>0</sub>)
         escape_velocity: 26.607 km/s<br />(95,784 km/h)
         rotation_period: 61.340 d
         axial_tilt: 33.19°
         albedo: 0.30
-        temperature: 1013 K<br />(740 °C)
+        temperature: 170 K<br />(-103 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0026 Bethuiad B is a star in the constellation Bethu
+      0026 Bethuiad B is a star in the constellation <a href="bethu.html">Bethu</a>
 distance: 1969.42 ly
 apparent_magnitude: 17.73
 absolute_magnitude: 8.82

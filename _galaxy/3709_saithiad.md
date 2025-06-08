@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3709 Saithiad is a star in the constellation Saith
+      3709 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 206.46 ly
 apparent_magnitude: 12.48
 absolute_magnitude: 8.47

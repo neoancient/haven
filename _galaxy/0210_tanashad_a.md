@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0210 Tanashad A is a star in the constellation Tanas
+      0210 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 66.03 ly
 apparent_magnitude: 7.27
 absolute_magnitude: 5.74

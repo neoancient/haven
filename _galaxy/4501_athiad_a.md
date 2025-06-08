@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4501 Athiad A is a star in the constellation Ath
+      4501 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 388.75 ly
 apparent_magnitude: 12.08
 absolute_magnitude: 6.69

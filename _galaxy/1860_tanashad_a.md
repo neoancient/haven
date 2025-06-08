@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1860 Tanashad A is a star in the constellation Tanas
+      1860 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 256.28 ly
 apparent_magnitude: 8.06
 absolute_magnitude: 3.59

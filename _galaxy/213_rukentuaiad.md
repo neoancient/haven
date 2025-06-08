@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      213 Rukentuaiad is a star in the constellation Rukentua
+      213 Rukentuaiad is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 669.51 ly
 apparent_magnitude: 16.72
 absolute_magnitude: 10.16

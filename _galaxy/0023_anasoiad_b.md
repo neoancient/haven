@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0023 Anasoiad B is a star in the constellation Anaso
+      0023 Anasoiad B is a star in the constellation <a href="anaso.html">Anaso</a>
 distance: 471.18 ly
 apparent_magnitude: 14.37
 absolute_magnitude: 8.58

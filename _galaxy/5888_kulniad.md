@@ -8,941 +8,666 @@ sections:
     content: >-
       5888 Kulniad is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 341.59 ly
-apparent_magnitude: 9.68
-absolute_magnitude: 4.58
-spectral_class: F4V
+apparent_magnitude: 9.00
+absolute_magnitude: 3.90
+spectral_class: G8III
 equatorial: |
   RA: 5<sup>h</sup> 49<sup>m</sup> 12.00<sup>s</sup><br />Dec: -21° 30' 0.00"
 rectangular: -236.16S 96.06E -227.34R
-radius: 5.885 × 10<sup>05</sup> km<br />(0.846 R<sub>☉</sub>)
-mass: 2.595 × 10<sup>30</sup> kg<br />(1.305 M<sub>☉</sub>)
-luminosity: 5.012 × 10<sup>26</sup> W<br />(1.309 L<sub>☉</sub>)
-age: 5.5 Gyr
-temperature: 6,714 K
+radius: 1.391 × 10<sup>06</sup> km<br />(1.999 R<sub>☉</sub>)
+mass: 1.815 × 10<sup>30</sup> kg<br />(0.913 M<sub>☉</sub>)
+luminosity: 1.217 × 10<sup>27</sup> W<br />(3.177 L<sub>☉</sub>)
+age: 4.3 Gyr
+temperature: 5,451 K
 planets:
   - name: <a href="vaykaar.html">Vay'kaar</a> (5888 Kulniad I)
     type: Terrestrial
-    aphelion: 199,857,239 km<br />1.336 AU
-    perihelion: 195,273,603 km<br />1.305 AU
-    semi_major_axis: 197,565,421 km<br />1.321 AU
-    eccentricity: 0.012
-    orbital_period: 485.25 d<br />1.329 y
-    inclination: 29.09°
-    radius: 6,020.1 km<br/>(0.945 Yrths)
-    surface_area: 4.554 × 10<sup>08</sup> km<sup>2</sup><br/>(0.893 Yrths)
-    volume: 9.139 × 10<sup>11</sup> km<sup>3</sup><br/>(0.844 Yrths)
-    mass: 5.086 × 10<sup>24</sup> kg<br />(0.85 Yrths)
-    density: 5.565 g/cm<sup>3</sup>
-    surface_gravity: 9.353 m/s<sup>2</sup><br />(0.954 g<sub>0</sub>)
-    escape_velocity: 10.619 km/s<br />(38,229 km/h)
-    rotation_period: 1.374 d
+    aphelion: 273,427,170 km<br />1.828 AU
+    perihelion: 262,058,200 km<br />1.752 AU
+    semi_major_axis: 267,742,685 km<br />1.790 AU
+    eccentricity: 0.021
+    orbital_period: 915.30 d<br />2.506 y
+    inclination: 0.46°
+    radius: 7,440.9 km<br/>(1.168 Yrths)
+    surface_area: 6.958 × 10<sup>08</sup> km<sup>2</sup><br/>(1.364 Yrths)
+    volume: 1.726 × 10<sup>12</sup> km<sup>3</sup><br/>(1.593 Yrths)
+    mass: 7.678 × 10<sup>24</sup> kg<br />(1.29 Yrths)
+    density: 4.449 g/cm<sup>3</sup>
+    surface_gravity: 9.243 m/s<sup>2</sup><br />(0.943 g<sub>0</sub>)
+    escape_velocity: 11.736 km/s<br />(42,251 km/h)
+    rotation_period: 1.039 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 253 K<br />(-20 °C)
-    surface_pressure: 118 kPa<br />(1 atm)
+    temperature: 290 K<br />(17 °C)
+    surface_pressure: 105 kPa<br />(1 atm)
     composition:
-      - 77.8359% nitrogen
-      - 21.2255% oxygen
-      - 0.8753% argon
-      - 0.0633% carbon dioxide
+      - 74.7556% nitrogen
+      - 20.3792% oxygen
+      - 2.4457% hydrogen sulfide
+      - 1.5415% water vapor
+      - 0.8404% argon
+      - 0.0375% carbon dioxide
     moons:
       - name: Vay'kaar a
-        type: Ice/rock hybrid
-        formationType: Impact formed
-        aphelion: 865,042 km<br />
-        perihelion: 849,230 km<br />
-        semi_major_axis: 857,136 km<br />
-        eccentricity: 0.009
-        orbital_period: 0.10 d<br />
-        inclination: 5.09°
-        radius: 1,879.0 km<br/>(0.295 Yrths)
-        surface_area: 4.437 × 10<sup>07</sup> km<sup>2</sup><br/>(0.087 Yrths)
-        volume: 2.779 × 10<sup>10</sup> km<sup>3</sup><br/>(0.026 Yrths)
-        mass: 7.781 × 10<sup>22</sup> kg<br />(0.8515703901042709 Yrths)
-        density: 2.800 g/cm<sup>3</sup>
-        surface_gravity: 1.469 m/s<sup>2</sup><br />(0.150 g<sub>0</sub>)
-        escape_velocity: 2.351 km/s<br />(8,464 km/h)
-        rotation_period: 43.636 d
-        axial_tilt: 29.15°
-        albedo: 0.30
-        temperature: 3599 K<br />(3325 °C)
-      - name: Vay'kaar b
         type: Asteroid
         formationType: Captured
-        aphelion: 942,852 km<br />
-        perihelion: 942,848 km<br />
-        semi_major_axis: 942,850 km<br />
-        eccentricity: 0.000
-        orbital_period: 0.10 d<br />
-        inclination: 0.20°
-        radius: 754.6 km<br/>(0.118 Yrths)
-        surface_area: 7.156 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
-        volume: 1.800 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.189 × 10<sup>21</sup> kg<br />(0.8515703901042709 Yrths)
-        density: 2.883 g/cm<sup>3</sup>
-        surface_gravity: 0.607 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
-        escape_velocity: 0.958 km/s<br />(3,449 km/h)
-        rotation_period: 37.180 d
-        axial_tilt: 49.50°
+        aphelion: 1,791,245 km<br />
+        perihelion: 1,211,031 km<br />
+        semi_major_axis: 1,501,138 km<br />
+        eccentricity: 0.193
+        orbital_period: 0.12 d<br />
+        inclination: 35.01°
+        radius: 422.2 km<br/>(0.066 Yrths)
+        surface_area: 2.240 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
+        volume: 3.152 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
+        mass: 1.050 × 10<sup>21</sup> kg<br />(0.000 Yrths)
+        density: 3.331 g/cm<sup>3</sup>
+        surface_gravity: 0.393 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
+        escape_velocity: 0.576 km/s<br />(2,074 km/h)
+        rotation_period: 27.202 d
+        axial_tilt: 14.78°
         albedo: 0.30
-        temperature: 3431 K<br />(3158 °C)
-  - name: 5888 Kulniad II
-    type: Gas dwarf
-    aphelion: 373,054,085 km<br />2.494 AU
-    perihelion: 358,642,817 km<br />2.397 AU
-    semi_major_axis: 365,848,451 km<br />2.446 AU
-    eccentricity: 0.020
-    orbital_period: 1,222.79 d<br />3.348 y
-    inclination: 5.09°
-    radius: 19,278.3 km<br/>(3.026 Yrths)
-    surface_area: 4.670 × 10<sup>09</sup> km<sup>2</sup><br/>(9.156 Yrths)
-    volume: 3.001 × 10<sup>13</sup> km<sup>3</sup><br/>(27.707 Yrths)
-    mass: 7.100 × 10<sup>25</sup> kg<br />(11.89 Yrths)
-    density: 2.366 g/cm<sup>3</sup>
-    surface_gravity: 12.732 m/s<sup>2</sup><br />(1.298 g<sub>0</sub>)
-    escape_velocity: 22.172 km/s<br />(79,818 km/h)
-    rotation_period: 0.507 d
-    axial_tilt: 0.00°
-    albedo: 0.60
-    temperature: 212 K<br />(-61 °C)
-    composition:
-      - 82.2707% hydrogen
-      - 17.7293% helium
-    moons:
-      - name: 5888 Kulniad II a
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 3,979,362 km<br />
-        perihelion: 3,664,270 km<br />
-        semi_major_axis: 3,821,816 km<br />
-        eccentricity: 0.041
-        orbital_period: 0.07 d<br />
-        inclination: 5.03°
-        radius: 13,866.4 km<br/>(2.176 Yrths)
-        surface_area: 2.416 × 10<sup>09</sup> km<sup>2</sup><br/>(4.737 Yrths)
-        volume: 1.117 × 10<sup>13</sup> km<sup>3</sup><br/>(10.310 Yrths)
-        mass: 2.566 × 10<sup>25</sup> kg<br />(11.888018926649808 Yrths)
-        density: 2.298 g/cm<sup>3</sup>
-        surface_gravity: 8.896 m/s<sup>2</sup><br />(0.907 g<sub>0</sub>)
-        escape_velocity: 15.717 km/s<br />(56,583 km/h)
-        rotation_period: 34.204 d
-        axial_tilt: 21.40°
-        albedo: 0.30
-        temperature: 1704 K<br />(1431 °C)
-      - name: 5888 Kulniad II b
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 4,636,517 km<br />
-        perihelion: 4,612,278 km<br />
-        semi_major_axis: 4,624,398 km<br />
-        eccentricity: 0.003
-        orbital_period: 0.07 d<br />
-        inclination: 3.17°
-        radius: 14,923.8 km<br/>(2.342 Yrths)
-        surface_area: 2.799 × 10<sup>09</sup> km<sup>2</sup><br/>(5.487 Yrths)
-        volume: 1.392 × 10<sup>13</sup> km<sup>3</sup><br/>(12.853 Yrths)
-        mass: 2.675 × 10<sup>25</sup> kg<br />(11.888018926649808 Yrths)
-        density: 1.921 g/cm<sup>3</sup>
-        surface_gravity: 8.005 m/s<sup>2</sup><br />(0.816 g<sub>0</sub>)
-        escape_velocity: 15.468 km/s<br />(55,683 km/h)
-        rotation_period: 38.916 d
-        axial_tilt: 13.23°
-        albedo: 0.30
-        temperature: 1549 K<br />(1276 °C)
-      - name: 5888 Kulniad II c
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 5,159,328 km<br />
-        perihelion: 5,014,347 km<br />
-        semi_major_axis: 5,086,837 km<br />
-        eccentricity: 0.014
-        orbital_period: 0.07 d<br />
-        inclination: 2.54°
-        radius: 19,642.0 km<br/>(3.083 Yrths)
-        surface_area: 4.848 × 10<sup>09</sup> km<sup>2</sup><br/>(9.505 Yrths)
-        volume: 3.174 × 10<sup>13</sup> km<sup>3</sup><br/>(29.305 Yrths)
-        mass: 6.325 × 10<sup>25</sup> kg<br />(11.888018926649808 Yrths)
-        density: 1.993 g/cm<sup>3</sup>
-        surface_gravity: 10.928 m/s<sup>2</sup><br />(1.114 g<sub>0</sub>)
-        escape_velocity: 20.733 km/s<br />(74,640 km/h)
-        rotation_period: 35.122 d
-        axial_tilt: 11.67°
-        albedo: 0.30
-        temperature: 1477 K<br />(1204 °C)
-      - name: 5888 Kulniad II d
+        temperature: 254 K<br />(-19 °C)
+      - name: Vay'kaar b
         type: Icy
-        formationType: Captured
-        aphelion: 5,747,693 km<br />
-        perihelion: 5,443,349 km<br />
-        semi_major_axis: 5,595,521 km<br />
-        eccentricity: 0.027
-        orbital_period: 0.07 d<br />
-        inclination: 0.73°
-        radius: 11,807.6 km<br/>(1.853 Yrths)
-        surface_area: 1.752 × 10<sup>09</sup> km<sup>2</sup><br/>(3.435 Yrths)
-        volume: 6.896 × 10<sup>12</sup> km<sup>3</sup><br/>(6.366 Yrths)
-        mass: 1.073 × 10<sup>25</sup> kg<br />(11.888018926649808 Yrths)
-        density: 1.556 g/cm<sup>3</sup>
-        surface_gravity: 5.131 m/s<sup>2</sup><br />(0.523 g<sub>0</sub>)
-        escape_velocity: 11.015 km/s<br />(39,654 km/h)
-        rotation_period: 44.133 d
-        axial_tilt: 13.90°
+        formationType: Impact formed
+        aphelion: 1,865,242 km<br />
+        perihelion: 1,437,261 km<br />
+        semi_major_axis: 1,651,251 km<br />
+        eccentricity: 0.130
+        orbital_period: 0.12 d<br />
+        inclination: 1.43°
+        radius: 3,527.5 km<br/>(0.554 Yrths)
+        surface_area: 1.564 × 10<sup>08</sup> km<sup>2</sup><br/>(0.307 Yrths)
+        volume: 1.839 × 10<sup>11</sup> km<sup>3</sup><br/>(0.170 Yrths)
+        mass: 2.482 × 10<sup>23</sup> kg<br />(0.042 Yrths)
+        density: 1.350 g/cm<sup>3</sup>
+        surface_gravity: 1.329 m/s<sup>2</sup><br />(0.136 g<sub>0</sub>)
+        escape_velocity: 3.065 km/s<br />(11,033 km/h)
+        rotation_period: 51.359 d
+        axial_tilt: 16.18°
         albedo: 0.30
-        temperature: 1408 K<br />(1135 °C)
-  - name: 5888 Kulniad III
+        temperature: 254 K<br />(-19 °C)
+  - name: 5888 Kulniad II
     type: Large terrestrial
-    aphelion: 693,769,327 km<br />4.637 AU
-    perihelion: 661,175,161 km<br />4.420 AU
-    semi_major_axis: 677,472,244 km<br />4.529 AU
-    eccentricity: 0.024
-    orbital_period: 3,081.32 d<br />8.436 y
-    inclination: 18.88°
-    radius: 6,445.8 km<br/>(1.012 Yrths)
-    surface_area: 5.221 × 10<sup>08</sup> km<sup>2</sup><br/>(1.024 Yrths)
-    volume: 1.122 × 10<sup>12</sup> km<sup>3</sup><br/>(1.036 Yrths)
-    mass: 7.599 × 10<sup>24</sup> kg<br />(1.27 Yrths)
-    density: 6.774 g/cm<sup>3</sup>
-    surface_gravity: 12.191 m/s<sup>2</sup><br />(1.243 g<sub>0</sub>)
-    escape_velocity: 12.545 km/s<br />(45,161 km/h)
-    rotation_period: 0.944 d
+    aphelion: 510,137,973 km<br />3.410 AU
+    perihelion: 508,433,122 km<br />3.399 AU
+    semi_major_axis: 509,285,547 km<br />3.404 AU
+    eccentricity: 0.002
+    orbital_period: 2,401.19 d<br />6.574 y
+    inclination: 0.07°
+    radius: 12,416.3 km<br/>(1.949 Yrths)
+    surface_area: 1.937 × 10<sup>09</sup> km<sup>2</sup><br/>(3.798 Yrths)
+    volume: 8.018 × 10<sup>12</sup> km<sup>3</sup><br/>(7.402 Yrths)
+    mass: 5.113 × 10<sup>25</sup> kg<br />(8.56 Yrths)
+    density: 6.377 g/cm<sup>3</sup>
+    surface_gravity: 22.107 m/s<sup>2</sup><br />(2.254 g<sub>0</sub>)
+    escape_velocity: 23.446 km/s<br />(84,406 km/h)
+    rotation_period: 0.577 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 141 K<br />(-132 °C)
-    surface_pressure: 296 kPa<br />(3 atm)
+    temperature: 213 K<br />(-61 °C)
+    surface_pressure: 84 kPa<br />(1 atm)
     composition:
-      - 92.4421% nitrogen
-      - 4.8146% hydrogen sulfide
-      - 2.7432% methane
+      - 75.9733% nitrogen
+      - 21.8703% methane
+      - 2.1564% ammonia
     moons:
-      - name: 5888 Kulniad III a
-        type: Icy
-        formationType: Captured
-        aphelion: 3,396,575 km<br />
-        perihelion: 3,323,969 km<br />
-        semi_major_axis: 3,360,272 km<br />
-        eccentricity: 0.011
-        orbital_period: 0.50 d<br />
-        inclination: 4.72°
-        radius: 2,916.4 km<br/>(0.458 Yrths)
-        surface_area: 1.069 × 10<sup>08</sup> km<sup>2</sup><br/>(0.210 Yrths)
-        volume: 1.039 × 10<sup>11</sup> km<sup>3</sup><br/>(0.096 Yrths)
-        mass: 8.849 × 10<sup>22</sup> kg<br />(1.2724848541887002 Yrths)
-        density: 0.852 g/cm<sup>3</sup>
-        surface_gravity: 0.693 m/s<sup>2</sup><br />(0.071 g<sub>0</sub>)
-        escape_velocity: 2.012 km/s<br />(7,245 km/h)
-        rotation_period: 83.874 d
-        axial_tilt: 15.83°
-        albedo: 0.30
-        temperature: 1825 K<br />(1552 °C)
-      - name: 5888 Kulniad III b
-        type: Icy
-        formationType: Accreted
-        aphelion: 3,982,003 km<br />
-        perihelion: 3,410,596 km<br />
-        semi_major_axis: 3,696,299 km<br />
-        eccentricity: 0.077
-        orbital_period: 0.50 d<br />
-        inclination: 4.27°
-        radius: 3,699.3 km<br/>(0.581 Yrths)
-        surface_area: 1.720 × 10<sup>08</sup> km<sup>2</sup><br/>(0.337 Yrths)
-        volume: 2.121 × 10<sup>11</sup> km<sup>3</sup><br/>(0.196 Yrths)
-        mass: 3.070 × 10<sup>23</sup> kg<br />(1.2724848541887002 Yrths)
-        density: 1.448 g/cm<sup>3</sup>
-        surface_gravity: 1.495 m/s<sup>2</sup><br />(0.152 g<sub>0</sub>)
-        escape_velocity: 3.329 km/s<br />(11,983 km/h)
-        rotation_period: 47.725 d
-        axial_tilt: 19.03°
-        albedo: 0.30
-        temperature: 1740 K<br />(1467 °C)
-      - name: 5888 Kulniad III c
-        type: Rocky
-        formationType: Captured
-        aphelion: 4,194,591 km<br />
-        perihelion: 3,937,268 km<br />
-        semi_major_axis: 4,065,929 km<br />
-        eccentricity: 0.032
-        orbital_period: 0.50 d<br />
-        inclination: 3.53°
-        radius: 3,025.4 km<br/>(0.475 Yrths)
-        surface_area: 1.150 × 10<sup>08</sup> km<sup>2</sup><br/>(0.225 Yrths)
-        volume: 1.160 × 10<sup>11</sup> km<sup>3</sup><br/>(0.107 Yrths)
-        mass: 4.065 × 10<sup>23</sup> kg<br />(1.2724848541887002 Yrths)
-        density: 3.504 g/cm<sup>3</sup>
-        surface_gravity: 2.960 m/s<sup>2</sup><br />(0.302 g<sub>0</sub>)
-        escape_velocity: 4.235 km/s<br />(15,245 km/h)
-        rotation_period: 44.357 d
-        axial_tilt: 15.07°
-        albedo: 0.30
-        temperature: 1659 K<br />(1386 °C)
-  - name: 5888 Kulniad IV
-    type: Gas dwarf
-    aphelion: 1,328,704,449 km<br />8.882 AU
-    perihelion: 1,180,359,837 km<br />7.890 AU
-    semi_major_axis: 1,254,532,143 km<br />8.386 AU
-    eccentricity: 0.059
-    orbital_period: 7,764.66 d<br />21.258 y
-    inclination: 18.89°
-    radius: 21,299.3 km<br/>(3.343 Yrths)
-    surface_area: 5.701 × 10<sup>09</sup> km<sup>2</sup><br/>(11.177 Yrths)
-    volume: 4.047 × 10<sup>13</sup> km<sup>3</sup><br/>(37.365 Yrths)
-    mass: 9.766 × 10<sup>25</sup> kg<br />(16.35 Yrths)
-    density: 2.413 g/cm<sup>3</sup>
-    surface_gravity: 14.348 m/s<sup>2</sup><br />(1.463 g<sub>0</sub>)
-    escape_velocity: 24.739 km/s<br />(89,061 km/h)
-    rotation_period: 0.379 d
-    axial_tilt: 0.00°
-    albedo: 0.60
-    temperature: 115 K<br />(-158 °C)
-    composition:
-      - 75.2761% hydrogen
-      - 21.2792% helium
-      - 3.4447% neon
-    moons:
-      - name: 5888 Kulniad IV a
-        type: Dwarf planet
-        formationType: Captured
-        aphelion: 16,714,669 km<br />
-        perihelion: 12,435,272 km<br />
-        semi_major_axis: 14,574,970 km<br />
-        eccentricity: 0.147
-        orbital_period: 0.35 d<br />
-        inclination: 6.19°
-        radius: 12,266.3 km<br/>(1.925 Yrths)
-        surface_area: 1.891 × 10<sup>09</sup> km<sup>2</sup><br/>(3.707 Yrths)
-        volume: 7.731 × 10<sup>12</sup> km<sup>3</sup><br/>(7.137 Yrths)
-        mass: 1.262 × 10<sup>25</sup> kg<br />(16.352397096964605 Yrths)
-        density: 1.632 g/cm<sup>3</sup>
-        surface_gravity: 5.591 m/s<sup>2</sup><br />(0.570 g<sub>0</sub>)
-        escape_velocity: 11.719 km/s<br />(42,189 km/h)
-        rotation_period: 61.826 d
-        axial_tilt: 14.71°
-        albedo: 0.30
-        temperature: 872 K<br />(599 °C)
-      - name: 5888 Kulniad IV b
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 16,687,674 km<br />
-        perihelion: 15,377,261 km<br />
-        semi_major_axis: 16,032,467 km<br />
-        eccentricity: 0.041
-        orbital_period: 0.35 d<br />
-        inclination: 2.08°
-        radius: 23,040.5 km<br/>(3.616 Yrths)
-        surface_area: 6.671 × 10<sup>09</sup> km<sup>2</sup><br/>(13.079 Yrths)
-        volume: 5.123 × 10<sup>13</sup> km<sup>3</sup><br/>(47.299 Yrths)
-        mass: 1.084 × 10<sup>26</sup> kg<br />(16.352397096964605 Yrths)
-        density: 2.115 g/cm<sup>3</sup>
-        surface_gravity: 13.607 m/s<sup>2</sup><br />(1.388 g<sub>0</sub>)
-        escape_velocity: 25.057 km/s<br />(90,207 km/h)
-        rotation_period: 49.442 d
-        axial_tilt: 8.66°
-        albedo: 0.30
-        temperature: 832 K<br />(559 °C)
-      - name: 5888 Kulniad IV c
+      - name: 5888 Kulniad II a
         type: Icy
         formationType: Impact formed
-        aphelion: 19,285,811 km<br />
-        perihelion: 15,985,617 km<br />
-        semi_major_axis: 17,635,714 km<br />
-        eccentricity: 0.094
-        orbital_period: 0.35 d<br />
-        inclination: 2.48°
-        radius: 27,843.4 km<br/>(4.370 Yrths)
-        surface_area: 9.742 × 10<sup>09</sup> km<sup>2</sup><br/>(19.100 Yrths)
-        volume: 9.042 × 10<sup>13</sup> km<sup>3</sup><br/>(83.473 Yrths)
-        mass: 1.092 × 10<sup>26</sup> kg<br />(16.352397096964605 Yrths)
-        density: 1.207 g/cm<sup>3</sup>
-        surface_gravity: 9.386 m/s<sup>2</sup><br />(0.957 g<sub>0</sub>)
-        escape_velocity: 22.878 km/s<br />(82,361 km/h)
-        rotation_period: 83.047 d
-        axial_tilt: 22.77°
+        aphelion: 5,786,834 km<br />
+        perihelion: 4,957,385 km<br />
+        semi_major_axis: 5,372,110 km<br />
+        eccentricity: 0.077
+        orbital_period: 0.13 d<br />
+        inclination: 1.12°
+        radius: 20,107.4 km<br/>(3.156 Yrths)
+        surface_area: 5.081 × 10<sup>09</sup> km<sup>2</sup><br/>(9.961 Yrths)
+        volume: 3.405 × 10<sup>13</sup> km<sup>3</sup><br/>(31.437 Yrths)
+        mass: 2.385 × 10<sup>25</sup> kg<br />(3.993 Yrths)
+        density: 0.700 g/cm<sup>3</sup>
+        surface_gravity: 3.931 m/s<sup>2</sup><br />(0.401 g<sub>0</sub>)
+        escape_velocity: 12.582 km/s<br />(45,295 km/h)
+        rotation_period: 63.438 d
+        axial_tilt: 21.87°
         albedo: 0.30
-        temperature: 793 K<br />(520 °C)
-      - name: 5888 Kulniad IV d
-        type: Asteroid
+        temperature: 184 K<br />(-89 °C)
+      - name: 5888 Kulniad II b
+        type: Rocky
         formationType: Captured
-        aphelion: 21,513,586 km<br />
-        perihelion: 17,284,985 km<br />
-        semi_major_axis: 19,399,286 km<br />
-        eccentricity: 0.109
-        orbital_period: 0.35 d<br />
-        inclination: 5.14°
-        radius: 14,848.4 km<br/>(2.331 Yrths)
-        surface_area: 2.771 × 10<sup>09</sup> km<sup>2</sup><br/>(5.432 Yrths)
-        volume: 1.371 × 10<sup>13</sup> km<sup>3</sup><br/>(12.659 Yrths)
-        mass: 3.305 × 10<sup>25</sup> kg<br />(16.352397096964605 Yrths)
-        density: 2.410 g/cm<sup>3</sup>
-        surface_gravity: 9.991 m/s<sup>2</sup><br />(1.019 g<sub>0</sub>)
-        escape_velocity: 17.237 km/s<br />(62,052 km/h)
-        rotation_period: 55.565 d
-        axial_tilt: 60.17°
+        aphelion: 6,655,906 km<br />
+        perihelion: 5,162,735 km<br />
+        semi_major_axis: 5,909,321 km<br />
+        eccentricity: 0.126
+        orbital_period: 0.13 d<br />
+        inclination: 1.98°
+        radius: 11,788.2 km<br/>(1.850 Yrths)
+        surface_area: 1.746 × 10<sup>09</sup> km<sup>2</sup><br/>(3.424 Yrths)
+        volume: 6.862 × 10<sup>12</sup> km<sup>3</sup><br/>(6.335 Yrths)
+        mass: 1.897 × 10<sup>25</sup> kg<br />(3.176 Yrths)
+        density: 2.764 g/cm<sup>3</sup>
+        surface_gravity: 9.098 m/s<sup>2</sup><br />(0.928 g<sub>0</sub>)
+        escape_velocity: 14.656 km/s<br />(52,761 km/h)
+        rotation_period: 44.925 d
+        axial_tilt: 14.69°
         albedo: 0.30
-        temperature: 756 K<br />(483 °C)
+        temperature: 184 K<br />(-89 °C)
+  - name: 5888 Kulniad III
+    type: Large terrestrial
+    aphelion: 976,598,169 km<br />6.528 AU
+    perihelion: 960,872,269 km<br />6.423 AU
+    semi_major_axis: 968,735,219 km<br />6.476 AU
+    eccentricity: 0.008
+    orbital_period: 6,299.30 d<br />17.247 y
+    inclination: 0.05°
+    radius: 11,555.2 km<br/>(1.814 Yrths)
+    surface_area: 1.678 × 10<sup>09</sup> km<sup>2</sup><br/>(3.290 Yrths)
+    volume: 6.463 × 10<sup>12</sup> km<sup>3</sup><br/>(5.966 Yrths)
+    mass: 4.353 × 10<sup>25</sup> kg<br />(7.29 Yrths)
+    density: 6.736 g/cm<sup>3</sup>
+    surface_gravity: 21.730 m/s<sup>2</sup><br />(2.216 g<sub>0</sub>)
+    escape_velocity: 22.425 km/s<br />(80,730 km/h)
+    rotation_period: 0.558 d
+    axial_tilt: 0.00°
+    albedo: 0.35
+    temperature: 219 K<br />(-54 °C)
+    surface_pressure: 99 kPa<br />(1 atm)
+    composition:
+      - 89.5388% ammonia
+      - 9.3228% carbon dioxide
+      - 1.1383% argon
+    moons:
+      - name: 5888 Kulniad III a
+        type: Rocky
+        formationType: Captured
+        aphelion: 10,665,667 km<br />
+        perihelion: 8,703,892 km<br />
+        semi_major_axis: 9,684,780 km<br />
+        eccentricity: 0.101
+        orbital_period: 0.36 d<br />
+        inclination: 0.00°
+        radius: 11,282.1 km<br/>(1.771 Yrths)
+        surface_area: 1.600 × 10<sup>09</sup> km<sup>2</sup><br/>(3.136 Yrths)
+        volume: 6.015 × 10<sup>12</sup> km<sup>3</sup><br/>(5.553 Yrths)
+        mass: 1.748 × 10<sup>25</sup> kg<br />(2.927 Yrths)
+        density: 2.906 g/cm<sup>3</sup>
+        surface_gravity: 9.154 m/s<sup>2</sup><br />(0.933 g<sub>0</sub>)
+        escape_velocity: 14.382 km/s<br />(51,775 km/h)
+        rotation_period: 29.191 d
+        axial_tilt: 7.28°
+        albedo: 0.30
+        temperature: 134 K<br />(-140 °C)
+      - name: 5888 Kulniad III b
+        type: Icy
+        formationType: Impact formed
+        aphelion: 12,056,808 km<br />
+        perihelion: 9,249,707 km<br />
+        semi_major_axis: 10,653,257 km<br />
+        eccentricity: 0.132
+        orbital_period: 0.36 d<br />
+        inclination: 2.89°
+        radius: 9,461.3 km<br/>(1.485 Yrths)
+        surface_area: 1.125 × 10<sup>09</sup> km<sup>2</sup><br/>(2.205 Yrths)
+        volume: 3.548 × 10<sup>12</sup> km<sup>3</sup><br/>(3.275 Yrths)
+        mass: 5.893 × 10<sup>24</sup> kg<br />(0.987 Yrths)
+        density: 1.661 g/cm<sup>3</sup>
+        surface_gravity: 4.388 m/s<sup>2</sup><br />(0.447 g<sub>0</sub>)
+        escape_velocity: 9.118 km/s<br />(32,825 km/h)
+        rotation_period: 43.627 d
+        axial_tilt: 22.45°
+        albedo: 0.30
+        temperature: 134 K<br />(-140 °C)
+      - name: 5888 Kulniad III c
+        type: Rocky
+        formationType: Impact formed
+        aphelion: 11,747,200 km<br />
+        perihelion: 11,689,966 km<br />
+        semi_major_axis: 11,718,583 km<br />
+        eccentricity: 0.002
+        orbital_period: 0.36 d<br />
+        inclination: 0.07°
+        radius: 5,921.6 km<br/>(0.929 Yrths)
+        surface_area: 4.406 × 10<sup>08</sup> km<sup>2</sup><br/>(0.864 Yrths)
+        volume: 8.698 × 10<sup>11</sup> km<sup>3</sup><br/>(0.803 Yrths)
+        mass: 2.526 × 10<sup>24</sup> kg<br />(0.423 Yrths)
+        density: 2.904 g/cm<sup>3</sup>
+        surface_gravity: 4.801 m/s<sup>2</sup><br />(0.490 g<sub>0</sub>)
+        escape_velocity: 7.546 km/s<br />(27,165 km/h)
+        rotation_period: 53.330 d
+        axial_tilt: 9.62°
+        albedo: 0.30
+        temperature: 134 K<br />(-140 °C)
+  - name: 5888 Kulniad IV
+    type: Large terrestrial
+    aphelion: 1,844,382,185 km<br />12.329 AU
+    perihelion: 1,840,968,518 km<br />12.306 AU
+    semi_major_axis: 1,842,675,351 km<br />12.317 AU
+    eccentricity: 0.001
+    orbital_period: 16,525.64 d<br />45.245 y
+    inclination: 1.07°
+    radius: 11,247.4 km<br/>(1.765 Yrths)
+    surface_area: 1.590 × 10<sup>09</sup> km<sup>2</sup><br/>(3.117 Yrths)
+    volume: 5.960 × 10<sup>12</sup> km<sup>3</sup><br/>(5.502 Yrths)
+    mass: 3.573 × 10<sup>25</sup> kg<br />(5.98 Yrths)
+    density: 5.995 g/cm<sup>3</sup>
+    surface_gravity: 18.825 m/s<sup>2</sup><br />(1.920 g<sub>0</sub>)
+    escape_velocity: 20.592 km/s<br />(74,133 km/h)
+    rotation_period: 0.562 d
+    axial_tilt: 0.00°
+    albedo: 0.35
+    temperature: 350 K<br />(77 °C)
+    surface_pressure: 286 kPa<br />(3 atm)
+    composition:
+      - 64.3236% carbon dioxide
+      - 34.0021% methane
+      - 1.6743% ethane
+    moons:
+      - name: 5888 Kulniad IV a
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 18,367,139 km<br />
+        perihelion: 16,129,150 km<br />
+        semi_major_axis: 17,248,144 km<br />
+        eccentricity: 0.065
+        orbital_period: 1.04 d<br />
+        inclination: 2.80°
+        radius: 9,279.3 km<br/>(1.456 Yrths)
+        surface_area: 1.082 × 10<sup>09</sup> km<sup>2</sup><br/>(2.121 Yrths)
+        volume: 3.347 × 10<sup>12</sup> km<sup>3</sup><br/>(3.090 Yrths)
+        mass: 6.501 × 10<sup>24</sup> kg<br />(1.089 Yrths)
+        density: 1.942 g/cm<sup>3</sup>
+        surface_gravity: 5.032 m/s<sup>2</sup><br />(0.513 g<sub>0</sub>)
+        escape_velocity: 9.671 km/s<br />(34,814 km/h)
+        rotation_period: 65.303 d
+        axial_tilt: 14.84°
+        albedo: 0.30
+        temperature: 97 K<br />(-176 °C)
+      - name: 5888 Kulniad IV b
+        type: Rocky
+        formationType: Captured
+        aphelion: 25,106,685 km<br />
+        perihelion: 12,839,233 km<br />
+        semi_major_axis: 18,972,959 km<br />
+        eccentricity: 0.323
+        orbital_period: 1.04 d<br />
+        inclination: 28.21°
+        radius: 3,358.7 km<br/>(0.527 Yrths)
+        surface_area: 1.418 × 10<sup>08</sup> km<sup>2</sup><br/>(0.278 Yrths)
+        volume: 1.587 × 10<sup>11</sup> km<sup>3</sup><br/>(0.147 Yrths)
+        mass: 4.200 × 10<sup>23</sup> kg<br />(0.070 Yrths)
+        density: 2.646 g/cm<sup>3</sup>
+        surface_gravity: 2.482 m/s<sup>2</sup><br />(0.253 g<sub>0</sub>)
+        escape_velocity: 4.086 km/s<br />(14,709 km/h)
+        rotation_period: 35.966 d
+        axial_tilt: 13.51°
+        albedo: 0.30
+        temperature: 97 K<br />(-176 °C)
+      - name: 5888 Kulniad IV c
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 21,812,811 km<br />
+        perihelion: 19,927,698 km<br />
+        semi_major_axis: 20,870,255 km<br />
+        eccentricity: 0.045
+        orbital_period: 1.04 d<br />
+        inclination: 3.92°
+        radius: 6,524.9 km<br/>(1.024 Yrths)
+        surface_area: 5.350 × 10<sup>08</sup> km<sup>2</sup><br/>(1.049 Yrths)
+        volume: 1.164 × 10<sup>12</sup> km<sup>3</sup><br/>(1.074 Yrths)
+        mass: 2.071 × 10<sup>24</sup> kg<br />(0.347 Yrths)
+        density: 1.780 g/cm<sup>3</sup>
+        surface_gravity: 3.242 m/s<sup>2</sup><br />(0.331 g<sub>0</sub>)
+        escape_velocity: 6.509 km/s<br />(23,431 km/h)
+        rotation_period: 48.007 d
+        axial_tilt: 18.77°
+        albedo: 0.30
+        temperature: 97 K<br />(-176 °C)
   - name: 5888 Kulniad V
     type: Ice giant
-    aphelion: 2,323,122,331 km<br />15.529 AU
-    perihelion: 2,323,122,331 km<br />15.529 AU
-    semi_major_axis: 2,323,122,331 km<br />15.529 AU
-    eccentricity: 0.000
-    orbital_period: 19,566.25 d<br />53.569 y
-    inclination: 5.18°
-    radius: 27,174.4 km<br/>(4.265 Yrths)
-    surface_area: 9.280 × 10<sup>09</sup> km<sup>2</sup><br/>(18.193 Yrths)
-    volume: 8.406 × 10<sup>13</sup> km<sup>3</sup><br/>(77.600 Yrths)
-    mass: 1.419 × 10<sup>26</sup> kg<br />(23.76 Yrths)
-    density: 1.688 g/cm<sup>3</sup>
-    surface_gravity: 12.810 m/s<sup>2</sup><br />(1.306 g<sub>0</sub>)
-    escape_velocity: 26.403 km/s<br />(95,052 km/h)
-    rotation_period: 0.332 d
+    aphelion: 3,568,880,128 km<br />23.856 AU
+    perihelion: 3,441,193,179 km<br />23.003 AU
+    semi_major_axis: 3,505,036,653 km<br />23.429 AU
+    eccentricity: 0.018
+    orbital_period: 43,353.47 d<br />118.695 y
+    inclination: 0.90°
+    radius: 31,454.5 km<br/>(4.937 Yrths)
+    surface_area: 1.243 × 10<sup>10</sup> km<sup>2</sup><br/>(24.375 Yrths)
+    volume: 1.304 × 10<sup>14</sup> km<sup>3</sup><br/>(120.344 Yrths)
+    mass: 2.216 × 10<sup>26</sup> kg<br />(37.10 Yrths)
+    density: 1.700 g/cm<sup>3</sup>
+    surface_gravity: 14.927 m/s<sup>2</sup><br />(1.522 g<sub>0</sub>)
+    escape_velocity: 30.664 km/s<br />(110,392 km/h)
+    rotation_period: 0.300 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 112 K<br />(-161 °C)
+    temperature: 109 K<br />(-164 °C)
     composition:
-      - 77.6087% hydrogen
-      - 19.2684% helium
-      - 3.1229% argon
+      - 86.7889% hydrogen
+      - 13.2111% helium
     moons:
       - name: 5888 Kulniad V a
         type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 37,837,420 km<br />
-        perihelion: 29,418,922 km<br />
-        semi_major_axis: 33,628,171 km<br />
-        eccentricity: 0.125
-        orbital_period: 0.74 d<br />
-        inclination: 3.31°
-        radius: 27,138.2 km<br/>(4.260 Yrths)
-        surface_area: 9.255 × 10<sup>09</sup> km<sup>2</sup><br/>(18.145 Yrths)
-        volume: 8.372 × 10<sup>13</sup> km<sup>3</sup><br/>(77.289 Yrths)
-        mass: 1.705 × 10<sup>26</sup> kg<br />(23.76398049869278 Yrths)
-        density: 2.036 g/cm<sup>3</sup>
-        surface_gravity: 15.427 m/s<sup>2</sup><br />(1.573 g<sub>0</sub>)
-        escape_velocity: 28.956 km/s<br />(104,241 km/h)
-        rotation_period: 43.364 d
-        axial_tilt: 8.54°
+        formationType: Accreted
+        aphelion: 66,065,831 km<br />
+        perihelion: 54,487,056 km<br />
+        semi_major_axis: 60,276,443 km<br />
+        eccentricity: 0.096
+        orbital_period: 1.09 d<br />
+        inclination: 6.57°
+        radius: 19,115.9 km<br/>(3.000 Yrths)
+        surface_area: 4.592 × 10<sup>09</sup> km<sup>2</sup><br/>(9.003 Yrths)
+        volume: 2.926 × 10<sup>13</sup> km<sup>3</sup><br/>(27.012 Yrths)
+        mass: 5.927 × 10<sup>25</sup> kg<br />(9.925 Yrths)
+        density: 2.026 g/cm<sup>3</sup>
+        surface_gravity: 10.811 m/s<sup>2</sup><br />(1.102 g<sub>0</sub>)
+        escape_velocity: 20.344 km/s<br />(73,240 km/h)
+        rotation_period: 43.706 d
+        axial_tilt: 19.65°
         albedo: 0.30
-        temperature: 574 K<br />(301 °C)
+        temperature: 70 K<br />(-203 °C)
       - name: 5888 Kulniad V b
         type: Icy
-        formationType: Captured
-        aphelion: 41,679,115 km<br />
-        perihelion: 32,302,860 km<br />
-        semi_major_axis: 36,990,988 km<br />
-        eccentricity: 0.127
-        orbital_period: 0.74 d<br />
-        inclination: 1.51°
-        radius: 25,668.0 km<br/>(4.029 Yrths)
-        surface_area: 8.279 × 10<sup>09</sup> km<sup>2</sup><br/>(16.232 Yrths)
-        volume: 7.084 × 10<sup>13</sup> km<sup>3</sup><br/>(65.396 Yrths)
-        mass: 5.920 × 10<sup>25</sup> kg<br />(23.76398049869278 Yrths)
-        density: 0.836 g/cm<sup>3</sup>
-        surface_gravity: 5.989 m/s<sup>2</sup><br />(0.611 g<sub>0</sub>)
-        escape_velocity: 17.546 km/s<br />(63,167 km/h)
-        rotation_period: 57.408 d
-        axial_tilt: 21.64°
-        albedo: 0.30
-        temperature: 548 K<br />(275 °C)
-      - name: 5888 Kulniad V c
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 44,288,852 km<br />
-        perihelion: 37,091,321 km<br />
-        semi_major_axis: 40,690,086 km<br />
-        eccentricity: 0.088
-        orbital_period: 0.74 d<br />
-        inclination: 0.10°
-        radius: 21,631.6 km<br/>(3.395 Yrths)
-        surface_area: 5.880 × 10<sup>09</sup> km<sup>2</sup><br/>(11.528 Yrths)
-        volume: 4.240 × 10<sup>13</sup> km<sup>3</sup><br/>(39.142 Yrths)
-        mass: 1.103 × 10<sup>26</sup> kg<br />(23.76398049869278 Yrths)
-        density: 2.602 g/cm<sup>3</sup>
-        surface_gravity: 15.712 m/s<sup>2</sup><br />(1.602 g<sub>0</sub>)
-        escape_velocity: 26.090 km/s<br />(93,924 km/h)
-        rotation_period: 43.875 d
-        axial_tilt: 14.17°
-        albedo: 0.30
-        temperature: 522 K<br />(249 °C)
-      - name: 5888 Kulniad V d
-        type: Ice/rock hybrid
         formationType: Accreted
-        aphelion: 53,419,618 km<br />
-        perihelion: 36,098,572 km<br />
-        semi_major_axis: 44,759,095 km<br />
-        eccentricity: 0.193
-        orbital_period: 0.74 d<br />
-        inclination: 20.55°
-        radius: 23,352.3 km<br/>(3.665 Yrths)
-        surface_area: 6.853 × 10<sup>09</sup> km<sup>2</sup><br/>(13.435 Yrths)
-        volume: 5.334 × 10<sup>13</sup> km<sup>3</sup><br/>(49.246 Yrths)
-        mass: 1.314 × 10<sup>26</sup> kg<br />(23.76398049869278 Yrths)
-        density: 2.463 g/cm<sup>3</sup>
-        surface_gravity: 16.056 m/s<sup>2</sup><br />(1.637 g<sub>0</sub>)
-        escape_velocity: 27.403 km/s<br />(98,650 km/h)
-        rotation_period: 37.138 d
-        axial_tilt: 28.60°
+        aphelion: 66,869,309 km<br />
+        perihelion: 65,738,866 km<br />
+        semi_major_axis: 66,304,088 km<br />
+        eccentricity: 0.009
+        orbital_period: 1.09 d<br />
+        inclination: 1.64°
+        radius: 37,892.8 km<br/>(5.948 Yrths)
+        surface_area: 1.804 × 10<sup>10</sup> km<sup>2</sup><br/>(35.375 Yrths)
+        volume: 2.279 × 10<sup>14</sup> km<sup>3</sup><br/>(210.400 Yrths)
+        mass: 3.188 × 10<sup>26</sup> kg<br />(53.384 Yrths)
+        density: 1.399 g/cm<sup>3</sup>
+        surface_gravity: 14.799 m/s<sup>2</sup><br />(1.509 g<sub>0</sub>)
+        escape_velocity: 33.512 km/s<br />(120,645 km/h)
+        rotation_period: 57.051 d
+        axial_tilt: 20.55°
         albedo: 0.30
-        temperature: 498 K<br />(225 °C)
+        temperature: 70 K<br />(-203 °C)
+      - name: 5888 Kulniad V c
+        type: Dwarf planet
+        formationType: Accreted
+        aphelion: 80,042,710 km<br />
+        perihelion: 65,826,284 km<br />
+        semi_major_axis: 72,934,497 km<br />
+        eccentricity: 0.097
+        orbital_period: 1.09 d<br />
+        inclination: 0.40°
+        radius: 28,323.2 km<br/>(4.446 Yrths)
+        surface_area: 1.008 × 10<sup>10</sup> km<sup>2</sup><br/>(19.764 Yrths)
+        volume: 9.517 × 10<sup>13</sup> km<sup>3</sup><br/>(87.863 Yrths)
+        mass: 1.693 × 10<sup>26</sup> kg<br />(28.356 Yrths)
+        density: 1.779 g/cm<sup>3</sup>
+        surface_gravity: 14.070 m/s<sup>2</sup><br />(1.435 g<sub>0</sub>)
+        escape_velocity: 28.251 km/s<br />(101,702 km/h)
+        rotation_period: 53.974 d
+        axial_tilt: 30.92°
+        albedo: 0.30
+        temperature: 70 K<br />(-203 °C)
+      - name: 5888 Kulniad V d
+        type: Icy
+        formationType: Captured
+        aphelion: 81,211,447 km<br />
+        perihelion: 79,244,445 km<br />
+        semi_major_axis: 80,227,946 km<br />
+        eccentricity: 0.012
+        orbital_period: 1.09 d<br />
+        inclination: 0.91°
+        radius: 41,198.5 km<br/>(6.467 Yrths)
+        surface_area: 2.133 × 10<sup>10</sup> km<sup>2</sup><br/>(41.817 Yrths)
+        volume: 2.929 × 10<sup>14</sup> km<sup>3</sup><br/>(270.410 Yrths)
+        mass: 3.036 × 10<sup>26</sup> kg<br />(50.842 Yrths)
+        density: 1.037 g/cm<sup>3</sup>
+        surface_gravity: 11.923 m/s<sup>2</sup><br />(1.216 g<sub>0</sub>)
+        escape_velocity: 31.365 km/s<br />(112,915 km/h)
+        rotation_period: 85.468 d
+        axial_tilt: 17.57°
+        albedo: 0.30
+        temperature: 70 K<br />(-203 °C)
       - name: 5888 Kulniad V e
         type: Icy
         formationType: Accreted
-        aphelion: 57,914,072 km<br />
-        perihelion: 40,555,937 km<br />
-        semi_major_axis: 49,235,005 km<br />
-        eccentricity: 0.176
-        orbital_period: 0.74 d<br />
-        inclination: 45.50°
-        radius: 23,081.1 km<br/>(3.623 Yrths)
-        surface_area: 6.695 × 10<sup>09</sup> km<sup>2</sup><br/>(13.125 Yrths)
-        volume: 5.151 × 10<sup>13</sup> km<sup>3</sup><br/>(47.550 Yrths)
-        mass: 6.107 × 10<sup>25</sup> kg<br />(23.76398049869278 Yrths)
-        density: 1.186 g/cm<sup>3</sup>
-        surface_gravity: 7.641 m/s<sup>2</sup><br />(0.779 g<sub>0</sub>)
-        escape_velocity: 18.794 km/s<br />(67,658 km/h)
-        rotation_period: 53.800 d
-        axial_tilt: 19.48°
+        aphelion: 93,465,275 km<br />
+        perihelion: 83,036,207 km<br />
+        semi_major_axis: 88,250,741 km<br />
+        eccentricity: 0.059
+        orbital_period: 1.09 d<br />
+        inclination: 1.52°
+        radius: 46,642.5 km<br/>(7.321 Yrths)
+        surface_area: 2.734 × 10<sup>10</sup> km<sup>2</sup><br/>(53.598 Yrths)
+        volume: 4.250 × 10<sup>14</sup> km<sup>3</sup><br/>(392.394 Yrths)
+        mass: 6.510 × 10<sup>26</sup> kg<br />(109.005 Yrths)
+        density: 1.532 g/cm<sup>3</sup>
+        surface_gravity: 19.944 m/s<sup>2</sup><br />(2.034 g<sub>0</sub>)
+        escape_velocity: 43.163 km/s<br />(155,386 km/h)
+        rotation_period: 47.221 d
+        axial_tilt: 18.88°
         albedo: 0.30
-        temperature: 475 K<br />(202 °C)
+        temperature: 70 K<br />(-203 °C)
       - name: 5888 Kulniad V f
-        type: Icy
+        type: Ice/rock hybrid
         formationType: Accreted
-        aphelion: 61,109,650 km<br />
-        perihelion: 47,207,360 km<br />
-        semi_major_axis: 54,158,505 km<br />
-        eccentricity: 0.128
-        orbital_period: 0.74 d<br />
-        inclination: 0.33°
-        radius: 22,915.8 km<br/>(3.597 Yrths)
-        surface_area: 6.599 × 10<sup>09</sup> km<sup>2</sup><br/>(12.938 Yrths)
-        volume: 5.041 × 10<sup>13</sup> km<sup>3</sup><br/>(46.535 Yrths)
-        mass: 5.005 × 10<sup>25</sup> kg<br />(23.76398049869278 Yrths)
-        density: 0.993 g/cm<sup>3</sup>
-        surface_gravity: 6.352 m/s<sup>2</sup><br />(0.648 g<sub>0</sub>)
-        escape_velocity: 17.074 km/s<br />(61,466 km/h)
-        rotation_period: 52.007 d
-        axial_tilt: 11.23°
+        aphelion: 100,730,350 km<br />
+        perihelion: 93,421,280 km<br />
+        semi_major_axis: 97,075,815 km<br />
+        eccentricity: 0.038
+        orbital_period: 1.09 d<br />
+        inclination: 4.41°
+        radius: 43,096.8 km<br/>(6.765 Yrths)
+        surface_area: 2.334 × 10<sup>10</sup> km<sup>2</sup><br/>(45.759 Yrths)
+        volume: 3.353 × 10<sup>14</sup> km<sup>3</sup><br/>(309.536 Yrths)
+        mass: 7.039 × 10<sup>26</sup> kg<br />(117.861 Yrths)
+        density: 2.099 g/cm<sup>3</sup>
+        surface_gravity: 25.259 m/s<sup>2</sup><br />(2.576 g<sub>0</sub>)
+        escape_velocity: 46.692 km/s<br />(168,090 km/h)
+        rotation_period: 38.589 d
+        axial_tilt: 13.96°
         albedo: 0.30
-        temperature: 453 K<br />(179 °C)
+        temperature: 70 K<br />(-203 °C)
       - name: 5888 Kulniad V g
         type: Icy
         formationType: Accreted
-        aphelion: 62,936,118 km<br />
-        perihelion: 56,212,593 km<br />
-        semi_major_axis: 59,574,356 km<br />
-        eccentricity: 0.056
-        orbital_period: 0.74 d<br />
-        inclination: 0.00°
-        radius: 19,140.9 km<br/>(3.004 Yrths)
-        surface_area: 4.604 × 10<sup>09</sup> km<sup>2</sup><br/>(9.026 Yrths)
-        volume: 2.937 × 10<sup>13</sup> km<sup>3</sup><br/>(27.118 Yrths)
-        mass: 3.904 × 10<sup>25</sup> kg<br />(23.76398049869278 Yrths)
-        density: 1.329 g/cm<sup>3</sup>
-        surface_gravity: 7.102 m/s<sup>2</sup><br />(0.724 g<sub>0</sub>)
-        escape_velocity: 16.500 km/s<br />(59,399 km/h)
-        rotation_period: 72.646 d
-        axial_tilt: 14.46°
+        aphelion: 109,405,687 km<br />
+        perihelion: 104,161,106 km<br />
+        semi_major_axis: 106,783,396 km<br />
+        eccentricity: 0.025
+        orbital_period: 1.09 d<br />
+        inclination: 3.36°
+        radius: 52,368.2 km<br/>(8.220 Yrths)
+        surface_area: 3.446 × 10<sup>10</sup> km<sup>2</sup><br/>(67.565 Yrths)
+        volume: 6.016 × 10<sup>14</sup> km<sup>3</sup><br/>(555.368 Yrths)
+        mass: 4.676 × 10<sup>26</sup> kg<br />(78.298 Yrths)
+        density: 0.777 g/cm<sup>3</sup>
+        surface_gravity: 11.364 m/s<sup>2</sup><br />(1.159 g<sub>0</sub>)
+        escape_velocity: 34.524 km/s<br />(124,286 km/h)
+        rotation_period: 107.579 d
+        axial_tilt: 20.31°
         albedo: 0.30
-        temperature: 432 K<br />(158 °C)
+        temperature: 70 K<br />(-203 °C)
       - name: 5888 Kulniad V h
-        type: Rocky
-        formationType: Captured
-        aphelion: 77,652,896 km<br />
-        perihelion: 66,517,044 km<br />
-        semi_major_axis: 72,084,970 km<br />
-        eccentricity: 0.077
-        orbital_period: 0.74 d<br />
-        inclination: 3.23°
-        radius: 16,309.0 km<br/>(2.560 Yrths)
-        surface_area: 3.342 × 10<sup>09</sup> km<sup>2</sup><br/>(6.553 Yrths)
-        volume: 1.817 × 10<sup>13</sup> km<sup>3</sup><br/>(16.775 Yrths)
-        mass: 5.624 × 10<sup>25</sup> kg<br />(23.76398049869278 Yrths)
-        density: 3.095 g/cm<sup>3</sup>
-        surface_gravity: 14.092 m/s<sup>2</sup><br />(1.437 g<sub>0</sub>)
-        escape_velocity: 21.454 km/s<br />(77,236 km/h)
-        rotation_period: 33.684 d
-        axial_tilt: 10.86°
-        albedo: 0.30
-        temperature: 392 K<br />(119 °C)
-      - name: 5888 Kulniad V i
-        type: Dwarf planet
-        formationType: Accreted
-        aphelion: 82,130,598 km<br />
-        perihelion: 76,456,337 km<br />
-        semi_major_axis: 79,293,467 km<br />
-        eccentricity: 0.036
-        orbital_period: 0.74 d<br />
-        inclination: 2.57°
-        radius: 20,259.8 km<br/>(3.180 Yrths)
-        surface_area: 5.158 × 10<sup>09</sup> km<sup>2</sup><br/>(10.112 Yrths)
-        volume: 3.483 × 10<sup>13</sup> km<sup>3</sup><br/>(32.158 Yrths)
-        mass: 9.638 × 10<sup>25</sup> kg<br />(23.76398049869278 Yrths)
-        density: 2.767 g/cm<sup>3</sup>
-        surface_gravity: 15.651 m/s<sup>2</sup><br />(1.596 g<sub>0</sub>)
-        escape_velocity: 25.200 km/s<br />(90,719 km/h)
-        rotation_period: 30.730 d
-        axial_tilt: 35.58°
-        albedo: 0.30
-        temperature: 374 K<br />(101 °C)
-      - name: 5888 Kulniad V j
         type: Ice/rock hybrid
         formationType: Accreted
-        aphelion: 102,174,003 km<br />
-        perihelion: 89,716,187 km<br />
-        semi_major_axis: 95,945,095 km<br />
-        eccentricity: 0.065
-        orbital_period: 0.74 d<br />
-        inclination: 0.99°
-        radius: 29,236.8 km<br/>(4.589 Yrths)
-        surface_area: 1.074 × 10<sup>10</sup> km<sup>2</sup><br/>(21.059 Yrths)
-        volume: 1.047 × 10<sup>14</sup> km<sup>3</sup><br/>(96.642 Yrths)
-        mass: 2.332 × 10<sup>26</sup> kg<br />(23.76398049869278 Yrths)
-        density: 2.227 g/cm<sup>3</sup>
-        surface_gravity: 18.182 m/s<sup>2</sup><br />(1.854 g<sub>0</sub>)
-        escape_velocity: 32.628 km/s<br />(117,462 km/h)
-        rotation_period: 66.085 d
-        axial_tilt: 12.76°
+        aphelion: 123,626,663 km<br />
+        perihelion: 111,296,809 km<br />
+        semi_major_axis: 117,461,736 km<br />
+        eccentricity: 0.052
+        orbital_period: 1.09 d<br />
+        inclination: 2.95°
+        radius: 22,163.4 km<br/>(3.479 Yrths)
+        surface_area: 6.173 × 10<sup>09</sup> km<sup>2</sup><br/>(12.102 Yrths)
+        volume: 4.560 × 10<sup>13</sup> km<sup>3</sup><br/>(42.101 Yrths)
+        mass: 8.642 × 10<sup>25</sup> kg<br />(14.472 Yrths)
+        density: 1.895 g/cm<sup>3</sup>
+        surface_gravity: 11.727 m/s<sup>2</sup><br />(1.196 g<sub>0</sub>)
+        escape_velocity: 22.815 km/s<br />(82,133 km/h)
+        rotation_period: 47.786 d
+        axial_tilt: 12.56°
         albedo: 0.30
-        temperature: 340 K<br />(67 °C)
+        temperature: 70 K<br />(-203 °C)
+      - name: 5888 Kulniad V i
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 142,683,945 km<br />
+        perihelion: 141,573,457 km<br />
+        semi_major_axis: 142,128,701 km<br />
+        eccentricity: 0.004
+        orbital_period: 1.09 d<br />
+        inclination: 0.59°
+        radius: 18,482.1 km<br/>(2.901 Yrths)
+        surface_area: 4.293 × 10<sup>09</sup> km<sup>2</sup><br/>(8.416 Yrths)
+        volume: 2.645 × 10<sup>13</sup> km<sup>3</sup><br/>(24.414 Yrths)
+        mass: 6.034 × 10<sup>25</sup> kg<br />(10.103 Yrths)
+        density: 2.282 g/cm<sup>3</sup>
+        surface_gravity: 11.773 m/s<sup>2</sup><br />(1.201 g<sub>0</sub>)
+        escape_velocity: 20.875 km/s<br />(75,152 km/h)
+        rotation_period: 41.391 d
+        axial_tilt: 30.78°
+        albedo: 0.30
+        temperature: 70 K<br />(-203 °C)
+      - name: 5888 Kulniad V j
+        type: Rocky
+        formationType: Accreted
+        aphelion: 158,221,701 km<br />
+        perihelion: 154,461,441 km<br />
+        semi_major_axis: 156,341,571 km<br />
+        eccentricity: 0.012
+        orbital_period: 1.09 d<br />
+        inclination: 3.32°
+        radius: 19,110.9 km<br/>(3.000 Yrths)
+        surface_area: 4.590 × 10<sup>09</sup> km<sup>2</sup><br/>(8.998 Yrths)
+        volume: 2.924 × 10<sup>13</sup> km<sup>3</sup><br/>(26.991 Yrths)
+        mass: 8.637 × 10<sup>25</sup> kg<br />(14.463 Yrths)
+        density: 2.954 g/cm<sup>3</sup>
+        surface_gravity: 15.763 m/s<sup>2</sup><br />(1.607 g<sub>0</sub>)
+        escape_velocity: 24.562 km/s<br />(88,423 km/h)
+        rotation_period: 36.541 d
+        axial_tilt: 18.17°
+        albedo: 0.30
+        temperature: 70 K<br />(-203 °C)
   - name: 5888 Kulniad VI
-    type: Ice giant
-    aphelion: 4,652,069,084 km<br />31.097 AU
-    perihelion: 3,951,771,627 km<br />26.416 AU
-    semi_major_axis: 4,301,920,355 km<br />28.756 AU
-    eccentricity: 0.081
-    orbital_period: 49,305.23 d<br />134.990 y
-    inclination: 0.00°
-    radius: 34,202.5 km<br/>(5.368 Yrths)
-    surface_area: 1.470 × 10<sup>10</sup> km<sup>2</sup><br/>(28.820 Yrths)
-    volume: 1.676 × 10<sup>14</sup> km<sup>3</sup><br/>(154.721 Yrths)
-    mass: 2.082 × 10<sup>26</sup> kg<br />(34.86 Yrths)
-    density: 1.242 g/cm<sup>3</sup>
-    surface_gravity: 11.861 m/s<sup>2</sup><br />(1.209 g<sub>0</sub>)
-    escape_velocity: 28.503 km/s<br />(102,612 km/h)
-    rotation_period: 0.303 d
+    type: Gas dwarf
+    aphelion: 6,718,536,755 km<br />44.910 AU
+    perihelion: 6,615,642,738 km<br />44.222 AU
+    semi_major_axis: 6,667,089,747 km<br />44.566 AU
+    eccentricity: 0.008
+    orbital_period: 113,733.77 d<br />311.386 y
+    inclination: 0.87°
+    radius: 21,736.5 km<br/>(3.412 Yrths)
+    surface_area: 5.937 × 10<sup>09</sup> km<sup>2</sup><br/>(11.640 Yrths)
+    volume: 4.302 × 10<sup>13</sup> km<sup>3</sup><br/>(39.714 Yrths)
+    mass: 1.047 × 10<sup>26</sup> kg<br />(17.53 Yrths)
+    density: 2.434 g/cm<sup>3</sup>
+    surface_gravity: 14.772 m/s<sup>2</sup><br />(1.506 g<sub>0</sub>)
+    escape_velocity: 25.358 km/s<br />(91,290 km/h)
+    rotation_period: 0.354 d
     axial_tilt: 0.00°
-    albedo: 0.50
-    temperature: 81 K<br />(-192 °C)
+    albedo: 0.60
+    temperature: 65 K<br />(-208 °C)
     composition:
-      - 58.1943% hydrogen
-      - 41.8057% helium
+      - 70.3444% hydrogen
+      - 26.5757% helium
+      - 3.0798% ethane
     moons:
       - name: 5888 Kulniad VI a
-        type: Ice/rock hybrid
+        type: Asteroid
         formationType: Captured
-        aphelion: 69,653,253 km<br />
-        perihelion: 58,990,372 km<br />
-        semi_major_axis: 64,321,813 km<br />
-        eccentricity: 0.083
-        orbital_period: 1.54 d<br />
-        inclination: 5.92°
-        radius: 32,922.0 km<br/>(5.167 Yrths)
-        surface_area: 1.362 × 10<sup>10</sup> km<sup>2</sup><br/>(26.703 Yrths)
-        volume: 1.495 × 10<sup>14</sup> km<sup>3</sup><br/>(137.986 Yrths)
-        mass: 3.684 × 10<sup>26</sup> kg<br />(34.857118525718235 Yrths)
-        density: 2.465 g/cm<sup>3</sup>
-        surface_gravity: 22.657 m/s<sup>2</sup><br />(2.310 g<sub>0</sub>)
-        escape_velocity: 38.651 km/s<br />(139,142 km/h)
-        rotation_period: 62.145 d
-        axial_tilt: 8.04°
+        aphelion: 90,466,960 km<br />
+        perihelion: 88,146,798 km<br />
+        semi_major_axis: 89,306,879 km<br />
+        eccentricity: 0.013
+        orbital_period: 4.18 d<br />
+        inclination: 0.89°
+        radius: 28,161.0 km<br/>(4.420 Yrths)
+        surface_area: 9.966 × 10<sup>09</sup> km<sup>2</sup><br/>(19.538 Yrths)
+        volume: 9.355 × 10<sup>13</sup> km<sup>3</sup><br/>(86.361 Yrths)
+        mass: 1.216 × 10<sup>26</sup> kg<br />(20.364 Yrths)
+        density: 1.300 g/cm<sup>3</sup>
+        surface_gravity: 10.221 m/s<sup>2</sup><br />(1.042 g<sub>0</sub>)
+        escape_velocity: 24.009 km/s<br />(86,434 km/h)
+        rotation_period: 61.058 d
+        axial_tilt: 41.20°
         albedo: 0.30
-        temperature: 415 K<br />(142 °C)
+        temperature: 51 K<br />(-222 °C)
       - name: 5888 Kulniad VI b
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 77,268,780 km<br />
-        perihelion: 64,239,208 km<br />
-        semi_major_axis: 70,753,994 km<br />
-        eccentricity: 0.092
-        orbital_period: 1.54 d<br />
-        inclination: 6.10°
-        radius: 28,278.6 km<br/>(4.439 Yrths)
-        surface_area: 1.005 × 10<sup>10</sup> km<sup>2</sup><br/>(19.702 Yrths)
-        volume: 9.472 × 10<sup>13</sup> km<sup>3</sup><br/>(87.448 Yrths)
-        mass: 2.111 × 10<sup>26</sup> kg<br />(34.857118525718235 Yrths)
-        density: 2.228 g/cm<sup>3</sup>
-        surface_gravity: 17.594 m/s<sup>2</sup><br />(1.794 g<sub>0</sub>)
-        escape_velocity: 31.566 km/s<br />(113,638 km/h)
-        rotation_period: 41.452 d
-        axial_tilt: 33.81°
+        type: Asteroid
+        formationType: Captured
+        aphelion: 109,284,087 km<br />
+        perihelion: 106,838,560 km<br />
+        semi_major_axis: 108,061,324 km<br />
+        eccentricity: 0.011
+        orbital_period: 4.18 d<br />
+        inclination: 5.02°
+        radius: 19,203.0 km<br/>(3.014 Yrths)
+        surface_area: 4.634 × 10<sup>09</sup> km<sup>2</sup><br/>(9.085 Yrths)
+        volume: 2.966 × 10<sup>13</sup> km<sup>3</sup><br/>(27.383 Yrths)
+        mass: 6.983 × 10<sup>25</sup> kg<br />(11.693 Yrths)
+        density: 2.354 g/cm<sup>3</sup>
+        surface_gravity: 12.621 m/s<sup>2</sup><br />(1.287 g<sub>0</sub>)
+        escape_velocity: 22.032 km/s<br />(79,314 km/h)
+        rotation_period: 47.623 d
+        axial_tilt: 22.97°
         albedo: 0.30
-        temperature: 396 K<br />(123 °C)
+        temperature: 51 K<br />(-222 °C)
       - name: 5888 Kulniad VI c
-        type: Ice/rock hybrid
+        type: Asteroid
         formationType: Captured
-        aphelion: 78,270,496 km<br />
-        perihelion: 77,388,290 km<br />
-        semi_major_axis: 77,829,393 km<br />
-        eccentricity: 0.006
-        orbital_period: 1.54 d<br />
-        inclination: 1.38°
-        radius: 22,269.8 km<br/>(3.495 Yrths)
-        surface_area: 6.232 × 10<sup>09</sup> km<sup>2</sup><br/>(12.219 Yrths)
-        volume: 4.626 × 10<sup>13</sup> km<sup>3</sup><br/>(42.710 Yrths)
-        mass: 1.029 × 10<sup>26</sup> kg<br />(34.857118525718235 Yrths)
-        density: 2.223 g/cm<sup>3</sup>
-        surface_gravity: 13.824 m/s<sup>2</sup><br />(1.410 g<sub>0</sub>)
-        escape_velocity: 24.831 km/s<br />(89,390 km/h)
-        rotation_period: 61.273 d
-        axial_tilt: 14.08°
+        aphelion: 141,424,609 km<br />
+        perihelion: 96,310,303 km<br />
+        semi_major_axis: 118,867,456 km<br />
+        eccentricity: 0.190
+        orbital_period: 4.18 d<br />
+        inclination: 28.48°
+        radius: 21,778.3 km<br/>(3.418 Yrths)
+        surface_area: 5.960 × 10<sup>09</sup> km<sup>2</sup><br/>(11.685 Yrths)
+        volume: 4.327 × 10<sup>13</sup> km<sup>3</sup><br/>(39.944 Yrths)
+        mass: 5.625 × 10<sup>25</sup> kg<br />(9.418 Yrths)
+        density: 1.300 g/cm<sup>3</sup>
+        surface_gravity: 7.904 m/s<sup>2</sup><br />(0.806 g<sub>0</sub>)
+        escape_velocity: 18.568 km/s<br />(66,844 km/h)
+        rotation_period: 76.561 d
+        axial_tilt: 42.53°
         albedo: 0.30
-        temperature: 378 K<br />(104 °C)
+        temperature: 51 K<br />(-222 °C)
       - name: 5888 Kulniad VI d
-        type: Asteroid
-        formationType: Captured
-        aphelion: 108,283,834 km<br />
-        perihelion: 62,940,832 km<br />
-        semi_major_axis: 85,612,333 km<br />
-        eccentricity: 0.265
-        orbital_period: 1.54 d<br />
-        inclination: 52.98°
-        radius: 16,233.0 km<br/>(2.548 Yrths)
-        surface_area: 3.311 × 10<sup>09</sup> km<sup>2</sup><br/>(6.492 Yrths)
-        volume: 1.792 × 10<sup>13</sup> km<sup>3</sup><br/>(16.541 Yrths)
-        mass: 6.180 × 10<sup>25</sup> kg<br />(34.857118525718235 Yrths)
-        density: 3.449 g/cm<sup>3</sup>
-        surface_gravity: 15.632 m/s<sup>2</sup><br />(1.594 g<sub>0</sub>)
-        escape_velocity: 22.543 km/s<br />(81,156 km/h)
-        rotation_period: 44.539 d
-        axial_tilt: 51.04°
-        albedo: 0.30
-        temperature: 360 K<br />(87 °C)
-      - name: 5888 Kulniad VI e
-        type: Dwarf planet
-        formationType: Accreted
-        aphelion: 106,166,152 km<br />
-        perihelion: 101,015,693 km<br />
-        semi_major_axis: 103,590,923 km<br />
-        eccentricity: 0.025
-        orbital_period: 1.54 d<br />
-        inclination: 0.36°
-        radius: 16,053.5 km<br/>(2.520 Yrths)
-        surface_area: 3.239 × 10<sup>09</sup> km<sup>2</sup><br/>(6.349 Yrths)
-        volume: 1.733 × 10<sup>13</sup> km<sup>3</sup><br/>(15.999 Yrths)
-        mass: 2.443 × 10<sup>25</sup> kg<br />(34.857118525718235 Yrths)
-        density: 1.410 g/cm<sup>3</sup>
-        surface_gravity: 6.318 m/s<sup>2</sup><br />(0.644 g<sub>0</sub>)
-        escape_velocity: 14.252 km/s<br />(51,309 km/h)
-        rotation_period: 48.117 d
-        axial_tilt: 13.10°
-        albedo: 0.30
-        temperature: 327 K<br />(54 °C)
-      - name: 5888 Kulniad VI f
         type: Icy
-        formationType: Captured
-        aphelion: 114,386,197 km<br />
-        perihelion: 113,513,833 km<br />
-        semi_major_axis: 113,950,015 km<br />
-        eccentricity: 0.004
-        orbital_period: 1.54 d<br />
-        inclination: 3.89°
-        radius: 58,111.5 km<br/>(9.121 Yrths)
-        surface_area: 4.244 × 10<sup>10</sup> km<sup>2</sup><br/>(83.197 Yrths)
-        volume: 8.220 × 10<sup>14</sup> km<sup>3</sup><br/>(758.862 Yrths)
-        mass: 8.257 × 10<sup>26</sup> kg<br />(34.857118525718235 Yrths)
-        density: 1.005 g/cm<sup>3</sup>
-        surface_gravity: 16.298 m/s<sup>2</sup><br />(1.662 g<sub>0</sub>)
-        escape_velocity: 43.552 km/s<br />(156,787 km/h)
-        rotation_period: 67.383 d
-        axial_tilt: 11.80°
-        albedo: 0.30
-        temperature: 312 K<br />(39 °C)
-      - name: 5888 Kulniad VI g
-        type: Dwarf planet
-        formationType: Accreted
-        aphelion: 127,953,836 km<br />
-        perihelion: 122,736,197 km<br />
-        semi_major_axis: 125,345,016 km<br />
-        eccentricity: 0.021
-        orbital_period: 1.54 d<br />
-        inclination: 5.57°
-        radius: 34,908.4 km<br/>(5.479 Yrths)
-        surface_area: 1.531 × 10<sup>10</sup> km<sup>2</sup><br/>(30.022 Yrths)
-        volume: 1.782 × 10<sup>14</sup> km<sup>3</sup><br/>(164.500 Yrths)
-        mass: 4.056 × 10<sup>26</sup> kg<br />(34.857118525718235 Yrths)
-        density: 2.276 g/cm<sup>3</sup>
-        surface_gravity: 22.184 m/s<sup>2</sup><br />(2.262 g<sub>0</sub>)
-        escape_velocity: 39.382 km/s<br />(141,776 km/h)
-        rotation_period: 64.258 d
-        axial_tilt: 23.13°
-        albedo: 0.30
-        temperature: 298 K<br />(24 °C)
-      - name: 5888 Kulniad VI h
-        type: Dwarf planet
-        formationType: Captured
-        aphelion: 145,124,258 km<br />
-        perihelion: 130,634,778 km<br />
-        semi_major_axis: 137,879,518 km<br />
-        eccentricity: 0.053
-        orbital_period: 1.54 d<br />
-        inclination: 3.90°
-        radius: 30,455.2 km<br/>(4.780 Yrths)
-        surface_area: 1.166 × 10<sup>10</sup> km<sup>2</sup><br/>(22.851 Yrths)
-        volume: 1.183 × 10<sup>14</sup> km<sup>3</sup><br/>(109.235 Yrths)
-        mass: 2.389 × 10<sup>26</sup> kg<br />(34.857118525718235 Yrths)
-        density: 2.019 g/cm<sup>3</sup>
-        surface_gravity: 17.165 m/s<sup>2</sup><br />(1.750 g<sub>0</sub>)
-        escape_velocity: 32.356 km/s<br />(116,482 km/h)
-        rotation_period: 35.723 d
-        axial_tilt: 36.11°
-        albedo: 0.30
-        temperature: 284 K<br />(11 °C)
-      - name: 5888 Kulniad VI i
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 152,738,400 km<br />
-        perihelion: 150,596,539 km<br />
-        semi_major_axis: 151,667,470 km<br />
-        eccentricity: 0.007
-        orbital_period: 1.54 d<br />
-        inclination: 1.34°
-        radius: 15,037.8 km<br/>(2.360 Yrths)
-        surface_area: 2.842 × 10<sup>09</sup> km<sup>2</sup><br/>(5.571 Yrths)
-        volume: 1.424 × 10<sup>13</sup> km<sup>3</sup><br/>(13.150 Yrths)
-        mass: 3.236 × 10<sup>25</sup> kg<br />(34.857118525718235 Yrths)
-        density: 2.272 g/cm<sup>3</sup>
-        surface_gravity: 9.538 m/s<sup>2</sup><br />(0.973 g<sub>0</sub>)
-        escape_velocity: 16.949 km/s<br />(61,016 km/h)
-        rotation_period: 43.848 d
-        axial_tilt: 24.67°
-        albedo: 0.30
-        temperature: 270 K<br />(-3 °C)
-      - name: 5888 Kulniad VI j
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 183,846,547 km<br />
-        perihelion: 149,821,886 km<br />
-        semi_major_axis: 166,834,217 km<br />
-        eccentricity: 0.102
-        orbital_period: 1.54 d<br />
-        inclination: 4.44°
-        radius: 36,592.5 km<br/>(5.744 Yrths)
-        surface_area: 1.683 × 10<sup>10</sup> km<sup>2</sup><br/>(32.989 Yrths)
-        volume: 2.052 × 10<sup>14</sup> km<sup>3</sup><br/>(189.476 Yrths)
-        mass: 3.284 × 10<sup>26</sup> kg<br />(34.857118525718235 Yrths)
-        density: 1.600 g/cm<sup>3</sup>
-        surface_gravity: 16.346 m/s<sup>2</sup><br />(1.667 g<sub>0</sub>)
-        escape_velocity: 34.611 km/s<br />(124,600 km/h)
-        rotation_period: 69.889 d
-        axial_tilt: 23.45°
-        albedo: 0.30
-        temperature: 258 K<br />(-15 °C)
-  - name: 5888 Kulniad VII
-    type: Gas giant
-    aphelion: 8,007,795,180 km<br />53.528 AU
-    perihelion: 7,924,657,881 km<br />52.972 AU
-    semi_major_axis: 7,966,226,531 km<br />53.250 AU
-    eccentricity: 0.005
-    orbital_period: 124,244.87 d<br />340.164 y
-    inclination: 37.62°
-    radius: 239.4 km<br/>(0.038 Yrths)
-    surface_area: 7.200 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
-    volume: 5.744 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.172 × 10<sup>27</sup> kg<br />(363.72 Yrths)
-    density: 37811986.870 g/cm<sup>3</sup>
-    surface_gravity: 2526903.496 m/s<sup>2</sup><br />(257672.446 g<sub>0</sub>)
-    escape_velocity: 1100.605 km/s<br />(3,962,177 km/h)
-    rotation_period: 0.231 d
-    axial_tilt: 0.00°
-    albedo: 0.40
-    temperature: 36 K<br />(-237 °C)
-    moons:
-      - name: 5888 Kulniad VII a
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 353,501,546 km<br />
-        perihelion: 339,360,358 km<br />
-        semi_major_axis: 346,430,952 km<br />
-        eccentricity: 0.020
-        orbital_period: 1.20 d<br />
-        inclination: 5.41°
-        radius: 335,306.2 km<br/>(52.630 Yrths)
-        surface_area: 1.413 × 10<sup>12</sup> km<sup>2</sup><br/>(2769.925 Yrths)
-        volume: 1.579 × 10<sup>17</sup> km<sup>3</sup><br/>(145781.378 Yrths)
-        mass: 2.527 × 10<sup>29</sup> kg<br />(363.71540365991194 Yrths)
-        density: 1.600 g/cm<sup>3</sup>
-        surface_gravity: 149.784 m/s<sup>2</sup><br />(15.274 g<sub>0</sub>)
-        escape_velocity: 317.149 km/s<br />(1,141,738 km/h)
-        rotation_period: 50.734 d
-        axial_tilt: 28.87°
-        albedo: 0.30
-        temperature: 179 K<br />(-94 °C)
-      - name: 5888 Kulniad VII b
-        type: Asteroid
-        formationType: Captured
-        aphelion: 476,151,556 km<br />
-        perihelion: 446,047,637 km<br />
-        semi_major_axis: 461,099,597 km<br />
-        eccentricity: 0.033
-        orbital_period: 1.20 d<br />
-        inclination: 4.99°
-        radius: 221,253.9 km<br/>(34.728 Yrths)
-        surface_area: 6.152 × 10<sup>11</sup> km<sup>2</sup><br/>(1206.054 Yrths)
-        volume: 4.537 × 10<sup>16</sup> km<sup>3</sup><br/>(41884.185 Yrths)
-        mass: 1.433 × 10<sup>29</sup> kg<br />(363.71540365991194 Yrths)
-        density: 3.159 g/cm<sup>3</sup>
-        surface_gravity: 195.168 m/s<sup>2</sup><br />(19.902 g<sub>0</sub>)
-        escape_velocity: 294.076 km/s<br />(1,058,673 km/h)
-        rotation_period: 42.002 d
-        axial_tilt: 34.01°
-        albedo: 0.30
-        temperature: 155 K<br />(-118 °C)
-      - name: 5888 Kulniad VII c
-        type: Icy
-        formationType: Captured
-        aphelion: 3,452,862,810 km<br />
-        perihelion: 3,371,641,720 km<br />
-        semi_major_axis: 3,412,252,265 km<br />
-        eccentricity: 0.012
-        orbital_period: 1.20 d<br />
-        inclination: 5.92°
-        radius: 290,284.0 km<br/>(45.563 Yrths)
-        surface_area: 1.059 × 10<sup>12</sup> km<sup>2</sup><br/>(2076.017 Yrths)
-        volume: 1.025 × 10<sup>17</sup> km<sup>3</sup><br/>(94590.269 Yrths)
-        mass: 1.121 × 10<sup>29</sup> kg<br />(363.71540365991194 Yrths)
-        density: 1.094 g/cm<sup>3</sup>
-        surface_gravity: 88.671 m/s<sup>2</sup><br />(9.042 g<sub>0</sub>)
-        escape_velocity: 227.045 km/s<br />(817,363 km/h)
-        rotation_period: 94.445 d
-        axial_tilt: 17.35°
-        albedo: 0.30
-        temperature: 57 K<br />(-216 °C)
-      - name: 5888 Kulniad VII d
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 4,227,978,966 km<br />
-        perihelion: 4,029,671,516 km<br />
-        semi_major_axis: 4,128,825,241 km<br />
-        eccentricity: 0.024
-        orbital_period: 1.20 d<br />
-        inclination: 4.69°
-        radius: 227,302.5 km<br/>(35.678 Yrths)
-        surface_area: 6.493 × 10<sup>11</sup> km<sup>2</sup><br/>(1272.897 Yrths)
-        volume: 4.919 × 10<sup>16</sup> km<sup>3</sup><br/>(45413.994 Yrths)
-        mass: 1.110 × 10<sup>29</sup> kg<br />(363.71540365991194 Yrths)
-        density: 2.256 g/cm<sup>3</sup>
-        surface_gravity: 143.181 m/s<sup>2</sup><br />(14.600 g<sub>0</sub>)
-        escape_velocity: 255.303 km/s<br />(919,089 km/h)
-        rotation_period: 33.677 d
-        axial_tilt: 26.59°
-        albedo: 0.30
-        temperature: 52 K<br />(-221 °C)
-      - name: 5888 Kulniad VII e
-        type: Rocky
         formationType: Impact formed
-        aphelion: 7,093,893,147 km<br />
-        perihelion: 6,205,135,530 km<br />
-        semi_major_axis: 6,649,514,339 km<br />
-        eccentricity: 0.067
-        orbital_period: 1.20 d<br />
-        inclination: 1.21°
-        radius: 310,697.2 km<br/>(48.767 Yrths)
-        surface_area: 1.213 × 10<sup>12</sup> km<sup>2</sup><br/>(2378.261 Yrths)
-        volume: 1.256 × 10<sup>17</sup> km<sup>3</sup><br/>(115981.632 Yrths)
-        mass: 4.234 × 10<sup>29</sup> kg<br />(363.71540365991194 Yrths)
-        density: 3.370 g/cm<sup>3</sup>
-        surface_gravity: 292.334 m/s<sup>2</sup><br />(29.810 g<sub>0</sub>)
-        escape_velocity: 426.499 km/s<br />(1,535,398 km/h)
-        rotation_period: 35.222 d
-        axial_tilt: 13.39°
+        aphelion: 132,585,319 km<br />
+        perihelion: 128,923,084 km<br />
+        semi_major_axis: 130,754,202 km<br />
+        eccentricity: 0.014
+        orbital_period: 4.18 d<br />
+        inclination: 4.71°
+        radius: 25,073.0 km<br/>(3.935 Yrths)
+        surface_area: 7.900 × 10<sup>09</sup> km<sup>2</sup><br/>(15.488 Yrths)
+        volume: 6.602 × 10<sup>13</sup> km<sup>3</sup><br/>(60.953 Yrths)
+        mass: 5.593 × 10<sup>25</sup> kg<br />(9.365 Yrths)
+        density: 0.847 g/cm<sup>3</sup>
+        surface_gravity: 5.930 m/s<sup>2</sup><br />(0.605 g<sub>0</sub>)
+        escape_velocity: 17.256 km/s<br />(62,120 km/h)
+        rotation_period: 62.457 d
+        axial_tilt: 12.92°
         albedo: 0.30
-        temperature: 41 K<br />(-232 °C)
+        temperature: 51 K<br />(-222 °C)
+      - name: 5888 Kulniad VI e
+        type: Icy
+        formationType: Accreted
+        aphelion: 146,474,190 km<br />
+        perihelion: 141,185,054 km<br />
+        semi_major_axis: 143,829,622 km<br />
+        eccentricity: 0.018
+        orbital_period: 4.18 d<br />
+        inclination: 4.72°
+        radius: 20,404.4 km<br/>(3.203 Yrths)
+        surface_area: 5.232 × 10<sup>09</sup> km<sup>2</sup><br/>(10.257 Yrths)
+        volume: 3.558 × 10<sup>13</sup> km<sup>3</sup><br/>(32.851 Yrths)
+        mass: 5.151 × 10<sup>25</sup> kg<br />(8.625 Yrths)
+        density: 1.447 g/cm<sup>3</sup>
+        surface_gravity: 8.246 m/s<sup>2</sup><br />(0.841 g<sub>0</sub>)
+        escape_velocity: 18.356 km/s<br />(66,083 km/h)
+        rotation_period: 70.403 d
+        axial_tilt: 27.32°
+        albedo: 0.30
+        temperature: 51 K<br />(-222 °C)
 ---

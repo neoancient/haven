@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      235 Ratharshinniad A is a star in the constellation Ratharshin
+      235 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 931.02 ly
 apparent_magnitude: 6.87
 absolute_magnitude: -0.41

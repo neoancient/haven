@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3190 Dialkeshiad is a star in the constellation Dialkes
+      3190 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 306.81 ly
 apparent_magnitude: 11.23
 absolute_magnitude: 6.37

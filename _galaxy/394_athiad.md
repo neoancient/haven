@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      394 Athiad is a star in the constellation Ath
+      394 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 417.92 ly
 apparent_magnitude: 10.28
 absolute_magnitude: 4.74

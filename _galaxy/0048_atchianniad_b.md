@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0048 Atchianniad B is a star in the constellation Atchian
+      0048 Atchianniad B is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 170.86 ly
 apparent_magnitude: 8.87
 absolute_magnitude: 5.27

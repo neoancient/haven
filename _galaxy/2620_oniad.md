@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2620 Oniad is a star in the constellation Oni
+      2620 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 735.84 ly
 apparent_magnitude: 6.60
 absolute_magnitude: -0.17
@@ -31,14 +31,14 @@ planets:
     radius: 219.1 km<br/>(0.034 Yrths)
     surface_area: 6.033 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.406 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.506 × 10<sup>27</sup> kg<br />(252.2374387661112 Yrths)
+    mass: 1.506 × 10<sup>27</sup> kg<br />(252.24 Yrths)
     density: 34186155.488 g/cm<sup>3</sup>
     surface_gravity: 2091310.177 m/s<sup>2</sup><br />(213254.289 g<sub>0</sub>)
     escape_velocity: 957.968 km/s<br />(3,448,683 km/h)
     rotation_period: 0.240 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2477 K<br />(2204 °C)
+    temperature: 2385 K<br />(2112 °C)
     composition:
       - 89.5477% hydrogen
       - 8.4569% helium
@@ -57,14 +57,14 @@ planets:
         radius: 122,629.7 km<br/>(19.248 Yrths)
         surface_area: 1.890 × 10<sup>11</sup> km<sup>2</sup><br/>(370.489 Yrths)
         volume: 7.725 × 10<sup>15</sup> km<sup>3</sup><br/>(7131.220 Yrths)
-        mass: 1.300 × 10<sup>28</sup> kg<br />(252.2374387661112 Yrths)
+        mass: 1.300 × 10<sup>28</sup> kg<br />(2176.543 Yrths)
         density: 1.683 g/cm<sup>3</sup>
         surface_gravity: 57.612 m/s<sup>2</sup><br />(5.875 g<sub>0</sub>)
         escape_velocity: 118.950 km/s<br />(428,219 km/h)
         rotation_period: 67.170 d
         axial_tilt: 15.45°
         albedo: 0.30
-        temperature: 3622 K<br />(3349 °C)
+        temperature: 583 K<br />(310 °C)
       - name: 2620 Oniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 154,534.3 km<br/>(24.256 Yrths)
         surface_area: 3.001 × 10<sup>11</sup> km<sup>2</sup><br/>(588.348 Yrths)
         volume: 1.546 × 10<sup>16</sup> km<sup>3</sup><br/>(14270.909 Yrths)
-        mass: 3.385 × 10<sup>28</sup> kg<br />(252.2374387661112 Yrths)
+        mass: 3.385 × 10<sup>28</sup> kg<br />(5668.057 Yrths)
         density: 2.190 g/cm<sup>3</sup>
         surface_gravity: 94.476 m/s<sup>2</sup><br />(9.634 g<sub>0</sub>)
         escape_velocity: 170.995 km/s<br />(615,581 km/h)
         rotation_period: 42.918 d
         axial_tilt: 14.59°
         albedo: 0.30
-        temperature: 2474 K<br />(2201 °C)
+        temperature: 583 K<br />(310 °C)
       - name: 2620 Oniad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 132,490.1 km<br/>(20.796 Yrths)
         surface_area: 2.206 × 10<sup>11</sup> km<sup>2</sup><br/>(432.466 Yrths)
         volume: 9.742 × 10<sup>15</sup> km<sup>3</sup><br/>(8993.477 Yrths)
-        mass: 1.969 × 10<sup>28</sup> kg<br />(252.2374387661112 Yrths)
+        mass: 1.969 × 10<sup>28</sup> kg<br />(3297.693 Yrths)
         density: 2.022 g/cm<sup>3</sup>
         surface_gravity: 74.779 m/s<sup>2</sup><br />(7.625 g<sub>0</sub>)
         escape_velocity: 140.861 km/s<br />(507,100 km/h)
         rotation_period: 66.737 d
         axial_tilt: 24.64°
         albedo: 0.30
-        temperature: 467 K<br />(193 °C)
+        temperature: 583 K<br />(310 °C)
       - name: 2620 Oniad I d
         type: Dwarf planet
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 200,352.8 km<br/>(31.448 Yrths)
         surface_area: 5.044 × 10<sup>11</sup> km<sup>2</sup><br/>(988.953 Yrths)
         volume: 3.369 × 10<sup>16</sup> km<sup>3</sup><br/>(31100.210 Yrths)
-        mass: 6.038 × 10<sup>28</sup> kg<br />(252.2374387661112 Yrths)
+        mass: 6.038 × 10<sup>28</sup> kg<br />(10110.406 Yrths)
         density: 1.792 g/cm<sup>3</sup>
         surface_gravity: 100.257 m/s<sup>2</sup><br />(10.223 g<sub>0</sub>)
         escape_velocity: 200.569 km/s<br />(722,049 km/h)
         rotation_period: 47.682 d
         axial_tilt: 10.91°
         albedo: 0.30
-        temperature: 368 K<br />(95 °C)
+        temperature: 583 K<br />(310 °C)
       - name: 2620 Oniad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 154,706.3 km<br/>(24.283 Yrths)
         surface_area: 3.008 × 10<sup>11</sup> km<sup>2</sup><br/>(589.659 Yrths)
         volume: 1.551 × 10<sup>16</sup> km<sup>3</sup><br/>(14318.611 Yrths)
-        mass: 3.263 × 10<sup>28</sup> kg<br />(252.2374387661112 Yrths)
+        mass: 3.263 × 10<sup>28</sup> kg<br />(5464.563 Yrths)
         density: 2.104 g/cm<sup>3</sup>
         surface_gravity: 90.881 m/s<sup>2</sup><br />(9.267 g<sub>0</sub>)
         escape_velocity: 167.804 km/s<br />(604,093 km/h)
         rotation_period: 62.498 d
         axial_tilt: 14.94°
         albedo: 0.30
-        temperature: 304 K<br />(31 °C)
+        temperature: 583 K<br />(310 °C)
       - name: 2620 Oniad I f
         type: Icy
         formationType: Accreted
@@ -157,12 +157,12 @@ planets:
         radius: 122,927.5 km<br/>(19.295 Yrths)
         surface_area: 1.899 × 10<sup>11</sup> km<sup>2</sup><br/>(372.292 Yrths)
         volume: 7.781 × 10<sup>15</sup> km<sup>3</sup><br/>(7183.314 Yrths)
-        mass: 1.299 × 10<sup>28</sup> kg<br />(252.2374387661112 Yrths)
+        mass: 1.299 × 10<sup>28</sup> kg<br />(2175.579 Yrths)
         density: 1.670 g/cm<sup>3</sup>
         surface_gravity: 57.308 m/s<sup>2</sup><br />(5.844 g<sub>0</sub>)
         escape_velocity: 118.779 km/s<br />(427,605 km/h)
         rotation_period: 54.111 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 180 K<br />(-93 °C)
+        temperature: 583 K<br />(310 °C)
 ---

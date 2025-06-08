@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9251 Tanashad A is a star in the constellation Tanas
+      9251 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 301.42 ly
 apparent_magnitude: 9.96
 absolute_magnitude: 5.13

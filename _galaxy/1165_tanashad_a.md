@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1165 Tanashad A is a star in the constellation Tanas
+      1165 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 600.18 ly
 apparent_magnitude: 7.15
 absolute_magnitude: 0.82

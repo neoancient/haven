@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5064 Narashiad is a star in the constellation Naras
+      5064 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 901.99 ly
 apparent_magnitude: 12.36
 absolute_magnitude: 5.15

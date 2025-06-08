@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ω Shanniashiad B is a star in the constellation Shannias
+      ω Shanniashiad B is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 133.56 ly
 apparent_magnitude: 7.85
 absolute_magnitude: 4.79

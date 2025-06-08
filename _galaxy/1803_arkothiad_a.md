@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1803 Arkothiad A is a star in the constellation Arkoth
+      1803 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 377.26 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 6.00

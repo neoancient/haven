@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Eden A is a star in the constellation Irsa
+      Eden A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 293.88 ly
 apparent_magnitude: 1.98
 absolute_magnitude: -2.79

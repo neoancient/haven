@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1241 Shanniashiad A is a star in the constellation Shannias
+      1241 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1104.35 ly
 apparent_magnitude: 8.31
 absolute_magnitude: 0.66

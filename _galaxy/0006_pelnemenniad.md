@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0006 Pelnemenniad is a star in the constellation Pelnemen
+      0006 Pelnemenniad is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 283.84 ly
 apparent_magnitude: 4.95
 absolute_magnitude: 0.25
@@ -31,14 +31,14 @@ planets:
     radius: 27,522.6 km<br/>(4.320 Yrths)
     surface_area: 9.519 × 10<sup>09</sup> km<sup>2</sup><br/>(18.662 Yrths)
     volume: 8.733 × 10<sup>13</sup> km<sup>3</sup><br/>(80.620 Yrths)
-    mass: 1.420 × 10<sup>26</sup> kg<br />(23.77612471640462 Yrths)
+    mass: 1.420 × 10<sup>26</sup> kg<br />(23.78 Yrths)
     density: 1.626 g/cm<sup>3</sup>
     surface_gravity: 12.494 m/s<sup>2</sup><br />(1.274 g<sub>0</sub>)
     escape_velocity: 26.242 km/s<br />(94,473 km/h)
     rotation_period: 0.349 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 751 K<br />(478 °C)
+    temperature: 687 K<br />(414 °C)
     composition:
       - 72.7661% hydrogen
       - 24.6742% helium
@@ -57,14 +57,14 @@ planets:
         radius: 44,629.5 km<br/>(7.005 Yrths)
         surface_area: 2.503 × 10<sup>10</sup> km<sup>2</sup><br/>(49.071 Yrths)
         volume: 3.724 × 10<sup>14</sup> km<sup>3</sup><br/>(343.751 Yrths)
-        mass: 7.768 × 10<sup>26</sup> kg<br />(23.77612471640462 Yrths)
+        mass: 7.768 × 10<sup>26</sup> kg<br />(130.066 Yrths)
         density: 2.086 g/cm<sup>3</sup>
         surface_gravity: 25.993 m/s<sup>2</sup><br />(2.651 g<sub>0</sub>)
         escape_velocity: 48.200 km/s<br />(173,521 km/h)
         rotation_period: 38.232 d
         axial_tilt: 21.17°
         albedo: 0.30
-        temperature: 3487 K<br />(3214 °C)
+        temperature: 363 K<br />(90 °C)
       - name: 0006 Pelnemenniad I b
         type: Icy
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 39,265.0 km<br/>(6.163 Yrths)
         surface_area: 1.937 × 10<sup>10</sup> km<sup>2</sup><br/>(37.984 Yrths)
         volume: 2.536 × 10<sup>14</sup> km<sup>3</sup><br/>(234.096 Yrths)
-        mass: 3.300 × 10<sup>26</sup> kg<br />(23.77612471640462 Yrths)
+        mass: 3.300 × 10<sup>26</sup> kg<br />(55.258 Yrths)
         density: 1.301 g/cm<sup>3</sup>
         surface_gravity: 14.267 m/s<sup>2</sup><br />(1.455 g<sub>0</sub>)
         escape_velocity: 33.494 km/s<br />(120,580 km/h)
         rotation_period: 82.796 d
         axial_tilt: 10.10°
         albedo: 0.30
-        temperature: 3325 K<br />(3052 °C)
+        temperature: 363 K<br />(90 °C)
       - name: 0006 Pelnemenniad I c
         type: Asteroid
         formationType: Captured
@@ -97,15 +97,35 @@ planets:
         radius: 16,197.5 km<br/>(2.542 Yrths)
         surface_area: 3.297 × 10<sup>09</sup> km<sup>2</sup><br/>(6.464 Yrths)
         volume: 1.780 × 10<sup>13</sup> km<sup>3</sup><br/>(16.433 Yrths)
-        mass: 5.113 × 10<sup>25</sup> kg<br />(23.77612471640462 Yrths)
+        mass: 5.113 × 10<sup>25</sup> kg<br />(8.561 Yrths)
         density: 2.872 g/cm<sup>3</sup>
         surface_gravity: 12.989 m/s<sup>2</sup><br />(1.325 g<sub>0</sub>)
         escape_velocity: 20.527 km/s<br />(73,897 km/h)
         rotation_period: 33.289 d
         axial_tilt: 18.50°
         albedo: 0.30
-        temperature: 3170 K<br />(2897 °C)
+        temperature: 363 K<br />(90 °C)
       - name: 0006 Pelnemenniad I d
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 10,529,066 km<br />
+        perihelion: 6,054,593 km<br />
+        semi_major_axis: 8,291,829 km<br />
+        eccentricity: 0.270
+        orbital_period: 0.09 d<br />
+        inclination: 73.87°
+        radius: 17,528.8 km<br/>(2.751 Yrths)
+        surface_area: 3.861 × 10<sup>09</sup> km<sup>2</sup><br/>(7.570 Yrths)
+        volume: 2.256 × 10<sup>13</sup> km<sup>3</sup><br/>(20.827 Yrths)
+        mass: 4.121 × 10<sup>25</sup> kg<br />(6.901 Yrths)
+        density: 1.827 g/cm<sup>3</sup>
+        surface_gravity: 8.940 m/s<sup>2</sup><br />(0.912 g<sub>0</sub>)
+        escape_velocity: 17.716 km/s<br />(63,777 km/h)
+        rotation_period: 70.655 d
+        axial_tilt: 23.77°
+        albedo: 0.30
+        temperature: 363 K<br />(90 °C)
+      - name: 0006 Pelnemenniad I e
         type: Icy
         formationType: Accreted
         aphelion: 9,312,695 km<br />
@@ -117,15 +137,15 @@ planets:
         radius: 17,406.6 km<br/>(2.732 Yrths)
         surface_area: 3.807 × 10<sup>09</sup> km<sup>2</sup><br/>(7.465 Yrths)
         volume: 2.209 × 10<sup>13</sup> km<sup>3</sup><br/>(20.395 Yrths)
-        mass: 4.140 × 10<sup>25</sup> kg<br />(23.77612471640462 Yrths)
+        mass: 4.140 × 10<sup>25</sup> kg<br />(6.933 Yrths)
         density: 1.874 g/cm<sup>3</sup>
         surface_gravity: 9.108 m/s<sup>2</sup><br />(0.929 g<sub>0</sub>)
         escape_velocity: 17.819 km/s<br />(64,147 km/h)
         rotation_period: 56.555 d
         axial_tilt: 25.23°
         albedo: 0.30
-        temperature: 2882 K<br />(2609 °C)
-      - name: 0006 Pelnemenniad I e
+        temperature: 363 K<br />(90 °C)
+      - name: 0006 Pelnemenniad I f
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 12,249,555 km<br />
@@ -137,12 +157,12 @@ planets:
         radius: 33,069.1 km<br/>(5.191 Yrths)
         surface_area: 1.374 × 10<sup>10</sup> km<sup>2</sup><br/>(26.942 Yrths)
         volume: 1.515 × 10<sup>14</sup> km<sup>3</sup><br/>(139.844 Yrths)
-        mass: 3.824 × 10<sup>26</sup> kg<br />(23.77612471640462 Yrths)
+        mass: 3.824 × 10<sup>26</sup> kg<br />(64.024 Yrths)
         density: 2.524 g/cm<sup>3</sup>
         surface_gravity: 23.304 m/s<sup>2</sup><br />(2.376 g<sub>0</sub>)
         escape_velocity: 39.286 km/s<br />(141,430 km/h)
         rotation_period: 47.285 d
         axial_tilt: 22.87°
         albedo: 0.30
-        temperature: 2748 K<br />(2475 °C)
+        temperature: 363 K<br />(90 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      506 Geardiad A is a star in the constellation Geard
+      506 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 389.82 ly
 apparent_magnitude: 7.88
 absolute_magnitude: 2.49

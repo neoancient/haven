@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4639 Dialkeshiad is a star in the constellation Dialkes
+      4639 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 296.25 ly
 apparent_magnitude: 18.23
 absolute_magnitude: 13.44

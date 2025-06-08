@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      190 Shanniashiad is a star in the constellation Shannias
+      190 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 330.34 ly
 apparent_magnitude: 9.38
 absolute_magnitude: 4.35

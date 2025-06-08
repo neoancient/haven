@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      800 Saithiad is a star in the constellation Saith
+      800 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 317.60 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 6.46

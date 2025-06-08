@@ -26,14 +26,14 @@ planet:
   escape_velocity: 8.998 km/s<br />(32,391 km/h)
   rotation_period: 3.713 d
   axial_tilt: 0.00°
-  albedo: 0.35
-  temperature: 271 K<br />(-3 °C)
-  surface_pressure: 82 kPa<br />(1 atm)
+  albedo: 0.30
+  temperature: 280 K<br />(7 °C)
+  surface_pressure: 114 kPa<br />(1 atm)
   composition:
-    - 79.4191% nitrogen
+    - 79.3430% nitrogen
     - 19.4264% oxygen
     - 1.1344% argon
-    - 0.0200% carbon dioxide
+    - 0.0961% carbon dioxide
   moons:
     - name: Ormoc a
       type: Rocky
@@ -47,14 +47,14 @@ planet:
       radius: 680.1 km<br/>(0.107 Yrths)
       surface_area: 5.813 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
       volume: 1.318 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-      mass: 4.443 × 10<sup>21</sup> kg<br />(0.42848403033378424 Yrths)
+      mass: 4.443 × 10<sup>21</sup> kg<br />(0.001 Yrths)
       density: 3.372 g/cm<sup>3</sup>
       surface_gravity: 0.640 m/s<sup>2</sup><br />(0.065 g<sub>0</sub>)
       escape_velocity: 0.934 km/s<br />(3,362 km/h)
       rotation_period: 53.312 d
       axial_tilt: 19.30°
       albedo: 0.30
-      temperature: 3920 K<br />(3647 °C)
+      temperature: 262 K<br />(-11 °C)
     - name: Ormoc b
       type: Rocky
       formationType: Captured
@@ -67,14 +67,14 @@ planet:
       radius: 798.8 km<br/>(0.125 Yrths)
       surface_area: 8.018 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
       volume: 2.135 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-      mass: 7.126 × 10<sup>21</sup> kg<br />(0.42848403033378424 Yrths)
+      mass: 7.126 × 10<sup>21</sup> kg<br />(0.001 Yrths)
       density: 3.338 g/cm<sup>3</sup>
       surface_gravity: 0.744 m/s<sup>2</sup><br />(0.076 g<sub>0</sub>)
       escape_velocity: 1.091 km/s<br />(3,928 km/h)
       rotation_period: 28.320 d
       axial_tilt: 19.32°
       albedo: 0.30
-      temperature: 3738 K<br />(3464 °C)
+      temperature: 262 K<br />(-11 °C)
     - name: Ormoc c
       type: Rocky
       formationType: Captured
@@ -87,12 +87,12 @@ planet:
       radius: 953.1 km<br/>(0.150 Yrths)
       surface_area: 1.141 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
       volume: 3.626 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-      mass: 1.305 × 10<sup>22</sup> kg<br />(0.42848403033378424 Yrths)
+      mass: 1.305 × 10<sup>22</sup> kg<br />(0.002 Yrths)
       density: 3.600 g/cm<sup>3</sup>
       surface_gravity: 0.958 m/s<sup>2</sup><br />(0.098 g<sub>0</sub>)
       escape_velocity: 1.352 km/s<br />(4,868 km/h)
       rotation_period: 27.919 d
       axial_tilt: 21.64°
       albedo: 0.30
-      temperature: 3564 K<br />(3290 °C)
+      temperature: 262 K<br />(-11 °C)
 ---

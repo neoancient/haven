@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2078 Lunaiad is a star in the constellation Luna
+      2078 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 2183.21 ly
 apparent_magnitude: 18.07
 absolute_magnitude: 8.94

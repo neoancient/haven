@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      266 Athiad is a star in the constellation Ath
+      266 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 779.95 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 4.50

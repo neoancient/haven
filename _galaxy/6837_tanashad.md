@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6837 Tanashad is a star in the constellation Tanas
+      6837 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 184.21 ly
 apparent_magnitude: 8.65
 absolute_magnitude: 4.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2449 Arkothiad A is a star in the constellation Arkoth
+      2449 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 655.21 ly
 apparent_magnitude: 7.28
 absolute_magnitude: 0.77

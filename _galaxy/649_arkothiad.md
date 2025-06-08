@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      649 Arkothiad is a star in the constellation Arkoth
+      649 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 322.03 ly
 apparent_magnitude: 11.34
 absolute_magnitude: 6.37

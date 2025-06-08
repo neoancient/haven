@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      556 Oniad is a star in the constellation Oni
+      556 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1034.25 ly
 apparent_magnitude: 15.04
 absolute_magnitude: 7.54

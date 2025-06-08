@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      838 Ratharshinniad A is a star in the constellation Ratharshin
+      838 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 440.55 ly
 apparent_magnitude: 7.76
 absolute_magnitude: 2.11

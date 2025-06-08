@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1745 Lunaiad is a star in the constellation Luna
+      1745 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 213.63 ly
 apparent_magnitude: 10.00
 absolute_magnitude: 5.92

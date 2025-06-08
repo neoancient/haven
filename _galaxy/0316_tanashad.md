@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0316 Tanashad is a star in the constellation Tanas
+      0316 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 717.42 ly
 apparent_magnitude: 6.36
 absolute_magnitude: -0.36
@@ -31,14 +31,14 @@ planets:
     radius: 192.5 km<br/>(0.030 Yrths)
     surface_area: 4.656 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.987 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.682 × 10<sup>26</sup> kg<br />(145.3772244621846 Yrths)
+    mass: 8.682 × 10<sup>26</sup> kg<br />(145.38 Yrths)
     density: 29063241.563 g/cm<sup>3</sup>
     surface_gravity: 1561864.131 m/s<sup>2</sup><br />(159265.818 g<sub>0</sub>)
     escape_velocity: 775.941 km/s<br />(2,793,388 km/h)
     rotation_period: 0.253 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2481 K<br />(2208 °C)
+    temperature: 2368 K<br />(2095 °C)
     composition:
       - 85.8507% hydrogen
       - 11.8453% helium
@@ -57,14 +57,14 @@ planets:
         radius: 113,643.5 km<br/>(17.838 Yrths)
         surface_area: 1.623 × 10<sup>11</sup> km<sup>2</sup><br/>(318.181 Yrths)
         volume: 6.148 × 10<sup>15</sup> km<sup>3</sup><br/>(5675.584 Yrths)
-        mass: 5.356 × 10<sup>27</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 5.356 × 10<sup>27</sup> kg<br />(896.795 Yrths)
         density: 0.871 g/cm<sup>3</sup>
         surface_gravity: 27.640 m/s<sup>2</sup><br />(2.819 g<sub>0</sub>)
         escape_velocity: 79.314 km/s<br />(285,532 km/h)
         rotation_period: 89.379 d
         axial_tilt: 11.43°
         albedo: 0.30
-        temperature: 4012 K<br />(3739 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 140,244.2 km<br/>(22.013 Yrths)
         surface_area: 2.472 × 10<sup>11</sup> km<sup>2</sup><br/>(484.568 Yrths)
         volume: 1.155 × 10<sup>16</sup> km<sup>3</sup><br/>(10666.755 Yrths)
-        mass: 1.537 × 10<sup>28</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 1.537 × 10<sup>28</sup> kg<br />(2574.312 Yrths)
         density: 1.331 g/cm<sup>3</sup>
         surface_gravity: 52.099 m/s<sup>2</sup><br />(5.313 g<sub>0</sub>)
         escape_velocity: 120.967 km/s<br />(435,480 km/h)
         rotation_period: 62.039 d
         axial_tilt: 20.30°
         albedo: 0.30
-        temperature: 3316 K<br />(3043 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -97,14 +97,14 @@ planets:
         radius: 138,204.9 km<br/>(21.693 Yrths)
         surface_area: 2.400 × 10<sup>11</sup> km<sup>2</sup><br/>(470.578 Yrths)
         volume: 1.106 × 10<sup>16</sup> km<sup>3</sup><br/>(10208.165 Yrths)
-        mass: 1.774 × 10<sup>28</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 1.774 × 10<sup>28</sup> kg<br />(2970.207 Yrths)
         density: 1.604 g/cm<sup>3</sup>
         surface_gravity: 61.898 m/s<sup>2</sup><br />(6.312 g<sub>0</sub>)
         escape_velocity: 130.891 km/s<br />(471,207 km/h)
         rotation_period: 43.253 d
         axial_tilt: 17.76°
         albedo: 0.30
-        temperature: 2491 K<br />(2218 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I d
         type: Icy
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 103,491.5 km<br/>(16.244 Yrths)
         surface_area: 1.346 × 10<sup>11</sup> km<sup>2</sup><br/>(263.873 Yrths)
         volume: 4.643 × 10<sup>15</sup> km<sup>3</sup><br/>(4286.390 Yrths)
-        mass: 5.453 × 10<sup>27</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 5.453 × 10<sup>27</sup> kg<br />(913.161 Yrths)
         density: 1.175 g/cm<sup>3</sup>
         surface_gravity: 33.937 m/s<sup>2</sup><br />(3.461 g<sub>0</sub>)
         escape_velocity: 83.869 km/s<br />(301,927 km/h)
         rotation_period: 55.186 d
         axial_tilt: 13.35°
         albedo: 0.30
-        temperature: 2375 K<br />(2102 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I e
         type: Icy
         formationType: Accreted
@@ -137,14 +137,14 @@ planets:
         radius: 134,477.5 km<br/>(21.108 Yrths)
         surface_area: 2.273 × 10<sup>11</sup> km<sup>2</sup><br/>(445.537 Yrths)
         volume: 1.019 × 10<sup>16</sup> km<sup>3</sup><br/>(9404.286 Yrths)
-        mass: 1.628 × 10<sup>28</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 1.628 × 10<sup>28</sup> kg<br />(2725.486 Yrths)
         density: 1.598 g/cm<sup>3</sup>
         surface_gravity: 59.990 m/s<sup>2</sup><br />(6.117 g<sub>0</sub>)
         escape_velocity: 127.109 km/s<br />(457,591 km/h)
         rotation_period: 57.776 d
         axial_tilt: 10.63°
         albedo: 0.30
-        temperature: 2265 K<br />(1992 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I f
         type: Asteroid
         formationType: Captured
@@ -157,14 +157,14 @@ planets:
         radius: 87,188.6 km<br/>(13.685 Yrths)
         surface_area: 9.553 × 10<sup>10</sup> km<sup>2</sup><br/>(187.285 Yrths)
         volume: 2.776 × 10<sup>15</sup> km<sup>3</sup><br/>(2563.044 Yrths)
-        mass: 7.888 × 10<sup>27</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 7.888 × 10<sup>27</sup> kg<br />(1320.892 Yrths)
         density: 2.841 g/cm<sup>3</sup>
         surface_gravity: 69.165 m/s<sup>2</sup><br />(7.053 g<sub>0</sub>)
         escape_velocity: 109.896 km/s<br />(395,625 km/h)
         rotation_period: 39.819 d
         axial_tilt: 26.01°
         albedo: 0.30
-        temperature: 2059 K<br />(1786 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I g
         type: Icy
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 123,730.0 km<br/>(19.421 Yrths)
         surface_area: 1.924 × 10<sup>11</sup> km<sup>2</sup><br/>(377.168 Yrths)
         volume: 7.934 × 10<sup>15</sup> km<sup>3</sup><br/>(7324.912 Yrths)
-        mass: 1.198 × 10<sup>28</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 1.198 × 10<sup>28</sup> kg<br />(2005.942 Yrths)
         density: 1.510 g/cm<sup>3</sup>
         surface_gravity: 52.156 m/s<sup>2</sup><br />(5.318 g<sub>0</sub>)
         escape_velocity: 113.684 km/s<br />(409,262 km/h)
         rotation_period: 41.209 d
         axial_tilt: 21.95°
         albedo: 0.30
-        temperature: 1963 K<br />(1690 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I h
         type: Icy
         formationType: Accreted
@@ -197,14 +197,14 @@ planets:
         radius: 107,392.6 km<br/>(16.856 Yrths)
         surface_area: 1.449 × 10<sup>11</sup> km<sup>2</sup><br/>(284.141 Yrths)
         volume: 5.188 × 10<sup>15</sup> km<sup>3</sup><br/>(4789.617 Yrths)
-        mass: 8.561 × 10<sup>27</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 8.561 × 10<sup>27</sup> kg<br />(1433.517 Yrths)
         density: 1.650 g/cm<sup>3</sup>
         surface_gravity: 49.475 m/s<sup>2</sup><br />(5.045 g<sub>0</sub>)
         escape_velocity: 103.155 km/s<br />(371,359 km/h)
         rotation_period: 38.606 d
         axial_tilt: 21.82°
         albedo: 0.30
-        temperature: 1872 K<br />(1599 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I i
         type: Icy
         formationType: Captured
@@ -217,14 +217,14 @@ planets:
         radius: 137,924.3 km<br/>(21.649 Yrths)
         surface_area: 2.391 × 10<sup>11</sup> km<sup>2</sup><br/>(468.669 Yrths)
         volume: 1.099 × 10<sup>16</sup> km<sup>3</sup><br/>(10146.106 Yrths)
-        mass: 8.356 × 10<sup>27</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 8.356 × 10<sup>27</sup> kg<br />(1399.268 Yrths)
         density: 0.760 g/cm<sup>3</sup>
         surface_gravity: 29.279 m/s<sup>2</sup><br />(2.986 g<sub>0</sub>)
         escape_velocity: 89.931 km/s<br />(323,750 km/h)
         rotation_period: 61.077 d
         axial_tilt: 27.10°
         albedo: 0.30
-        temperature: 1785 K<br />(1511 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -237,14 +237,14 @@ planets:
         radius: 111,217.2 km<br/>(17.457 Yrths)
         surface_area: 1.554 × 10<sup>11</sup> km<sup>2</sup><br/>(304.740 Yrths)
         volume: 5.762 × 10<sup>15</sup> km<sup>3</sup><br/>(5319.777 Yrths)
-        mass: 9.286 × 10<sup>27</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 9.286 × 10<sup>27</sup> kg<br />(1554.865 Yrths)
         density: 1.611 g/cm<sup>3</sup>
         surface_gravity: 50.036 m/s<sup>2</sup><br />(5.102 g<sub>0</sub>)
         escape_velocity: 105.569 km/s<br />(380,050 km/h)
         rotation_period: 77.925 d
         axial_tilt: 15.93°
         albedo: 0.30
-        temperature: 1547 K<br />(1274 °C)
+        temperature: 588 K<br />(315 °C)
       - name: 0316 Tanashad I k
         type: Rocky
         formationType: Accreted
@@ -257,14 +257,14 @@ planets:
         radius: 77,325.2 km<br/>(12.137 Yrths)
         surface_area: 7.514 × 10<sup>10</sup> km<sup>2</sup><br/>(147.308 Yrths)
         volume: 1.937 × 10<sup>15</sup> km<sup>3</sup><br/>(1787.887 Yrths)
-        mass: 5.554 × 10<sup>27</sup> kg<br />(145.3772244621846 Yrths)
+        mass: 5.554 × 10<sup>27</sup> kg<br />(929.968 Yrths)
         density: 2.868 g/cm<sup>3</sup>
         surface_gravity: 61.910 m/s<sup>2</sup><br />(6.313 g<sub>0</sub>)
         escape_velocity: 97.915 km/s<br />(352,496 km/h)
         rotation_period: 31.342 d
         axial_tilt: 18.52°
         albedo: 0.30
-        temperature: 1278 K<br />(1005 °C)
+        temperature: 588 K<br />(315 °C)
   - name: 0316 Tanashad II
     type: Gas giant
     aphelion: 863,321,330 km<br />5.771 AU
@@ -276,14 +276,14 @@ planets:
     radius: 210.3 km<br/>(0.033 Yrths)
     surface_area: 5.557 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.896 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.254 × 10<sup>27</sup> kg<br />(210.0064458689379 Yrths)
+    mass: 1.254 × 10<sup>27</sup> kg<br />(210.01 Yrths)
     density: 32193004.955 g/cm<sup>3</sup>
     surface_gravity: 1890167.589 m/s<sup>2</sup><br />(192743.454 g<sub>0</sub>)
     escape_velocity: 892.230 km/s<br />(3,212,029 km/h)
     rotation_period: 0.244 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1759 K<br />(1486 °C)
+    temperature: 1718 K<br />(1445 °C)
     composition:
       - 87.0457% hydrogen
       - 8.3534% helium
@@ -304,14 +304,14 @@ planets:
         radius: 155,367.3 km<br/>(24.387 Yrths)
         surface_area: 3.033 × 10<sup>11</sup> km<sup>2</sup><br/>(594.708 Yrths)
         volume: 1.571 × 10<sup>16</sup> km<sup>3</sup><br/>(14502.931 Yrths)
-        mass: 3.663 × 10<sup>28</sup> kg<br />(210.0064458689379 Yrths)
+        mass: 3.663 × 10<sup>28</sup> kg<br />(6133.309 Yrths)
         density: 2.332 g/cm<sup>3</sup>
         surface_gravity: 101.137 m/s<sup>2</sup><br />(10.313 g<sub>0</sub>)
         escape_velocity: 177.397 km/s<br />(638,628 km/h)
         rotation_period: 49.338 d
         axial_tilt: 10.42°
         albedo: 0.30
-        temperature: 2187 K<br />(1914 °C)
+        temperature: 411 K<br />(138 °C)
       - name: 0316 Tanashad II b
         type: Icy
         formationType: Impact formed
@@ -324,14 +324,14 @@ planets:
         radius: 170,827.9 km<br/>(26.813 Yrths)
         surface_area: 3.667 × 10<sup>11</sup> km<sup>2</sup><br/>(718.956 Yrths)
         volume: 2.088 × 10<sup>16</sup> km<sup>3</sup><br/>(19277.637 Yrths)
-        mass: 2.418 × 10<sup>28</sup> kg<br />(210.0064458689379 Yrths)
+        mass: 2.418 × 10<sup>28</sup> kg<br />(4049.369 Yrths)
         density: 1.158 g/cm<sup>3</sup>
         surface_gravity: 55.234 m/s<sup>2</sup><br />(5.632 g<sub>0</sub>)
         escape_velocity: 137.465 km/s<br />(494,874 km/h)
         rotation_period: 74.353 d
         axial_tilt: 22.70°
         albedo: 0.30
-        temperature: 731 K<br />(458 °C)
+        temperature: 411 K<br />(138 °C)
       - name: 0316 Tanashad II c
         type: Icy
         formationType: Accreted
@@ -344,14 +344,14 @@ planets:
         radius: 163,769.9 km<br/>(25.706 Yrths)
         surface_area: 3.370 × 10<sup>11</sup> km<sup>2</sup><br/>(660.774 Yrths)
         volume: 1.840 × 10<sup>16</sup> km<sup>3</sup><br/>(16985.544 Yrths)
-        mass: 2.187 × 10<sup>28</sup> kg<br />(210.0064458689379 Yrths)
+        mass: 2.187 × 10<sup>28</sup> kg<br />(3662.268 Yrths)
         density: 1.189 g/cm<sup>3</sup>
         surface_gravity: 54.352 m/s<sup>2</sup><br />(5.542 g<sub>0</sub>)
         escape_velocity: 133.517 km/s<br />(480,660 km/h)
         rotation_period: 49.171 d
         axial_tilt: 23.85°
         albedo: 0.30
-        temperature: 634 K<br />(360 °C)
+        temperature: 411 K<br />(138 °C)
       - name: 0316 Tanashad II d
         type: Rocky
         formationType: Captured
@@ -364,14 +364,14 @@ planets:
         radius: 146,007.8 km<br/>(22.918 Yrths)
         surface_area: 2.679 × 10<sup>11</sup> km<sup>2</sup><br/>(525.214 Yrths)
         volume: 1.304 × 10<sup>16</sup> km<sup>3</sup><br/>(12036.631 Yrths)
-        mass: 3.557 × 10<sup>28</sup> kg<br />(210.0064458689379 Yrths)
+        mass: 3.557 × 10<sup>28</sup> kg<br />(5956.927 Yrths)
         density: 2.729 g/cm<sup>3</sup>
         surface_gravity: 111.226 m/s<sup>2</sup><br />(11.342 g<sub>0</sub>)
         escape_velocity: 180.344 km/s<br />(649,237 km/h)
         rotation_period: 43.420 d
         axial_tilt: 10.26°
         albedo: 0.30
-        temperature: 604 K<br />(331 °C)
+        temperature: 411 K<br />(138 °C)
       - name: 0316 Tanashad II e
         type: Icy
         formationType: Captured
@@ -384,14 +384,14 @@ planets:
         radius: 238,107.4 km<br/>(37.374 Yrths)
         surface_area: 7.125 × 10<sup>11</sup> km<sup>2</sup><br/>(1396.788 Yrths)
         volume: 5.655 × 10<sup>16</sup> km<sup>3</sup><br/>(52203.023 Yrths)
-        mass: 7.973 × 10<sup>28</sup> kg<br />(210.0064458689379 Yrths)
+        mass: 7.973 × 10<sup>28</sup> kg<br />(13350.619 Yrths)
         density: 1.410 g/cm<sup>3</sup>
         surface_gravity: 93.733 m/s<sup>2</sup><br />(9.558 g<sub>0</sub>)
         escape_velocity: 211.418 km/s<br />(761,105 km/h)
         rotation_period: 69.668 d
         axial_tilt: 29.20°
         albedo: 0.30
-        temperature: 576 K<br />(303 °C)
+        temperature: 411 K<br />(138 °C)
       - name: 0316 Tanashad II f
         type: Icy
         formationType: Impact formed
@@ -404,14 +404,14 @@ planets:
         radius: 163,556.1 km<br/>(25.672 Yrths)
         surface_area: 3.362 × 10<sup>11</sup> km<sup>2</sup><br/>(659.050 Yrths)
         volume: 1.833 × 10<sup>16</sup> km<sup>3</sup><br/>(16919.107 Yrths)
-        mass: 1.976 × 10<sup>28</sup> kg<br />(210.0064458689379 Yrths)
+        mass: 1.976 × 10<sup>28</sup> kg<br />(3309.029 Yrths)
         density: 1.078 g/cm<sup>3</sup>
         surface_gravity: 49.238 m/s<sup>2</sup><br />(5.021 g<sub>0</sub>)
         escape_velocity: 126.997 km/s<br />(457,190 km/h)
         rotation_period: 66.521 d
         axial_tilt: 20.37°
         albedo: 0.30
-        temperature: 524 K<br />(250 °C)
+        temperature: 411 K<br />(138 °C)
       - name: 0316 Tanashad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -424,14 +424,14 @@ planets:
         radius: 172,947.9 km<br/>(27.146 Yrths)
         surface_area: 3.759 × 10<sup>11</sup> km<sup>2</sup><br/>(736.912 Yrths)
         volume: 2.167 × 10<sup>16</sup> km<sup>3</sup><br/>(20004.284 Yrths)
-        mass: 4.402 × 10<sup>28</sup> kg<br />(210.0064458689379 Yrths)
+        mass: 4.402 × 10<sup>28</sup> kg<br />(7371.883 Yrths)
         density: 2.032 g/cm<sup>3</sup>
         surface_gravity: 98.103 m/s<sup>2</sup><br />(10.004 g<sub>0</sub>)
         escape_velocity: 184.336 km/s<br />(663,608 km/h)
         rotation_period: 48.313 d
         axial_tilt: 16.46°
         albedo: 0.30
-        temperature: 341 K<br />(68 °C)
+        temperature: 411 K<br />(138 °C)
   - name: 0316 Tanashad III
     type: Ice giant
     aphelion: 1,378,707,291 km<br />9.216 AU
@@ -443,14 +443,14 @@ planets:
     radius: 31,110.1 km<br/>(4.883 Yrths)
     surface_area: 1.216 × 10<sup>10</sup> km<sup>2</sup><br/>(23.844 Yrths)
     volume: 1.261 × 10<sup>14</sup> km<sup>3</sup><br/>(116.434 Yrths)
-    mass: 1.263 × 10<sup>26</sup> kg<br />(21.1491047393488 Yrths)
+    mass: 1.263 × 10<sup>26</sup> kg<br />(21.15 Yrths)
     density: 1.001 g/cm<sup>3</sup>
     surface_gravity: 8.698 m/s<sup>2</sup><br />(0.887 g<sub>0</sub>)
     escape_velocity: 23.279 km/s<br />(83,806 km/h)
     rotation_period: 0.327 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 593 K<br />(320 °C)
+    temperature: 543 K<br />(270 °C)
     composition:
       - 77.7682% hydrogen
       - 18.9919% helium
@@ -469,14 +469,14 @@ planets:
         radius: 16,803.4 km<br/>(2.637 Yrths)
         surface_area: 3.548 × 10<sup>09</sup> km<sup>2</sup><br/>(6.956 Yrths)
         volume: 1.987 × 10<sup>13</sup> km<sup>3</sup><br/>(18.347 Yrths)
-        mass: 5.685 × 10<sup>25</sup> kg<br />(21.1491047393488 Yrths)
+        mass: 5.685 × 10<sup>25</sup> kg<br />(9.519 Yrths)
         density: 2.861 g/cm<sup>3</sup>
         surface_gravity: 13.420 m/s<sup>2</sup><br />(1.368 g<sub>0</sub>)
         escape_velocity: 21.251 km/s<br />(76,504 km/h)
         rotation_period: 38.969 d
         axial_tilt: 12.04°
         albedo: 0.30
-        temperature: 2583 K<br />(2310 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0316 Tanashad III b
         type: Icy
         formationType: Accreted
@@ -489,14 +489,14 @@ planets:
         radius: 18,652.0 km<br/>(2.928 Yrths)
         surface_area: 4.372 × 10<sup>09</sup> km<sup>2</sup><br/>(8.571 Yrths)
         volume: 2.718 × 10<sup>13</sup> km<sup>3</sup><br/>(25.093 Yrths)
-        mass: 1.992 × 10<sup>25</sup> kg<br />(21.1491047393488 Yrths)
+        mass: 1.992 × 10<sup>25</sup> kg<br />(3.336 Yrths)
         density: 0.733 g/cm<sup>3</sup>
         surface_gravity: 3.817 m/s<sup>2</sup><br />(0.389 g<sub>0</sub>)
         escape_velocity: 11.941 km/s<br />(42,987 km/h)
         rotation_period: 103.126 d
         axial_tilt: 21.64°
         albedo: 0.30
-        temperature: 2463 K<br />(2190 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0316 Tanashad III c
         type: Dwarf planet
         formationType: Impact formed
@@ -509,14 +509,14 @@ planets:
         radius: 32,667.6 km<br/>(5.128 Yrths)
         surface_area: 1.341 × 10<sup>10</sup> km<sup>2</sup><br/>(26.292 Yrths)
         volume: 1.460 × 10<sup>14</sup> km<sup>3</sup><br/>(134.812 Yrths)
-        mass: 3.150 × 10<sup>26</sup> kg<br />(21.1491047393488 Yrths)
+        mass: 3.150 × 10<sup>26</sup> kg<br />(52.741 Yrths)
         density: 2.157 g/cm<sup>3</sup>
         surface_gravity: 19.672 m/s<sup>2</sup><br />(2.006 g<sub>0</sub>)
         escape_velocity: 35.875 km/s<br />(129,150 km/h)
         rotation_period: 62.790 d
         axial_tilt: 29.20°
         albedo: 0.30
-        temperature: 2348 K<br />(2075 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0316 Tanashad III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -529,14 +529,14 @@ planets:
         radius: 21,248.3 km<br/>(3.335 Yrths)
         surface_area: 5.674 × 10<sup>09</sup> km<sup>2</sup><br/>(11.123 Yrths)
         volume: 4.018 × 10<sup>13</sup> km<sup>3</sup><br/>(37.098 Yrths)
-        mass: 9.464 × 10<sup>25</sup> kg<br />(21.1491047393488 Yrths)
+        mass: 9.464 × 10<sup>25</sup> kg<br />(15.848 Yrths)
         density: 2.355 g/cm<sup>3</sup>
         surface_gravity: 13.972 m/s<sup>2</sup><br />(1.425 g<sub>0</sub>)
         escape_velocity: 24.384 km/s<br />(87,782 km/h)
         rotation_period: 37.334 d
         axial_tilt: 10.77°
         albedo: 0.30
-        temperature: 2239 K<br />(1966 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0316 Tanashad III e
         type: Rocky
         formationType: Captured
@@ -549,14 +549,14 @@ planets:
         radius: 9,290.7 km<br/>(1.458 Yrths)
         surface_area: 1.085 × 10<sup>09</sup> km<sup>2</sup><br/>(2.127 Yrths)
         volume: 3.359 × 10<sup>12</sup> km<sup>3</sup><br/>(3.101 Yrths)
-        mass: 1.032 × 10<sup>25</sup> kg<br />(21.1491047393488 Yrths)
+        mass: 1.032 × 10<sup>25</sup> kg<br />(1.728 Yrths)
         density: 3.073 g/cm<sup>3</sup>
         surface_gravity: 7.971 m/s<sup>2</sup><br />(0.813 g<sub>0</sub>)
         escape_velocity: 12.178 km/s<br />(43,842 km/h)
         rotation_period: 33.450 d
         axial_tilt: 6.80°
         albedo: 0.30
-        temperature: 2135 K<br />(1862 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0316 Tanashad III f
         type: Icy
         formationType: Captured
@@ -569,14 +569,14 @@ planets:
         radius: 9,794.6 km<br/>(1.537 Yrths)
         surface_area: 1.206 × 10<sup>09</sup> km<sup>2</sup><br/>(2.364 Yrths)
         volume: 3.936 × 10<sup>12</sup> km<sup>3</sup><br/>(3.634 Yrths)
-        mass: 5.547 × 10<sup>24</sup> kg<br />(21.1491047393488 Yrths)
+        mass: 5.547 × 10<sup>24</sup> kg<br />(0.929 Yrths)
         density: 1.409 g/cm<sup>3</sup>
         surface_gravity: 3.854 m/s<sup>2</sup><br />(0.393 g<sub>0</sub>)
         escape_velocity: 8.694 km/s<br />(31,300 km/h)
         rotation_period: 71.591 d
         axial_tilt: 11.20°
         albedo: 0.30
-        temperature: 2035 K<br />(1762 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0316 Tanashad III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -589,14 +589,14 @@ planets:
         radius: 12,966.7 km<br/>(2.035 Yrths)
         surface_area: 2.113 × 10<sup>09</sup> km<sup>2</sup><br/>(4.142 Yrths)
         volume: 9.132 × 10<sup>12</sup> km<sup>3</sup><br/>(8.431 Yrths)
-        mass: 2.557 × 10<sup>25</sup> kg<br />(21.1491047393488 Yrths)
+        mass: 2.557 × 10<sup>25</sup> kg<br />(4.282 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 10.137 m/s<sup>2</sup><br />(1.034 g<sub>0</sub>)
         escape_velocity: 16.224 km/s<br />(58,408 km/h)
         rotation_period: 33.625 d
         axial_tilt: 19.08°
         albedo: 0.30
-        temperature: 1941 K<br />(1668 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0316 Tanashad III h
         type: Icy
         formationType: Captured
@@ -609,14 +609,14 @@ planets:
         radius: 28,524.7 km<br/>(4.477 Yrths)
         surface_area: 1.022 × 10<sup>10</sup> km<sup>2</sup><br/>(20.046 Yrths)
         volume: 9.722 × 10<sup>13</sup> km<sup>3</sup><br/>(89.751 Yrths)
-        mass: 1.009 × 10<sup>26</sup> kg<br />(21.1491047393488 Yrths)
+        mass: 1.009 × 10<sup>26</sup> kg<br />(16.896 Yrths)
         density: 1.038 g/cm<sup>3</sup>
         surface_gravity: 8.266 m/s<sup>2</sup><br />(0.843 g<sub>0</sub>)
         escape_velocity: 21.730 km/s<br />(78,228 km/h)
         rotation_period: 51.421 d
         axial_tilt: 23.23°
         albedo: 0.30
-        temperature: 1850 K<br />(1577 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0316 Tanashad III i
         type: Icy
         formationType: Accreted
@@ -629,12 +629,12 @@ planets:
         radius: 9,223.4 km<br/>(1.448 Yrths)
         surface_area: 1.069 × 10<sup>09</sup> km<sup>2</sup><br/>(2.096 Yrths)
         volume: 3.287 × 10<sup>12</sup> km<sup>3</sup><br/>(3.034 Yrths)
-        mass: 4.130 × 10<sup>24</sup> kg<br />(21.1491047393488 Yrths)
+        mass: 4.130 × 10<sup>24</sup> kg<br />(0.692 Yrths)
         density: 1.257 g/cm<sup>3</sup>
         surface_gravity: 3.236 m/s<sup>2</sup><br />(0.330 g<sub>0</sub>)
         escape_velocity: 7.731 km/s<br />(27,832 km/h)
         rotation_period: 58.068 d
         axial_tilt: 17.93°
         albedo: 0.30
-        temperature: 1764 K<br />(1491 °C)
+        temperature: 288 K<br />(15 °C)
 ---

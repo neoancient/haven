@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5241 Athiad A is a star in the constellation Ath
+      5241 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 502.94 ly
 apparent_magnitude: 8.52
 absolute_magnitude: 2.58

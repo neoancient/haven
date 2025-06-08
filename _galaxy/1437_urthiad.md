@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1437 Urthiad is a star in the constellation Urth
+      1437 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 212.70 ly
 apparent_magnitude: 17.52
 absolute_magnitude: 13.44

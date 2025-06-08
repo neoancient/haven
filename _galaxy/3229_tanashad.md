@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3229 Tanashad is a star in the constellation Tanas
+      3229 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 516.45 ly
 apparent_magnitude: 13.84
 absolute_magnitude: 7.85

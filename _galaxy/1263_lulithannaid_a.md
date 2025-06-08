@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1263 Lulithannaid A is a star in the constellation Lulithan
+      1263 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 572.99 ly
 apparent_magnitude: 6.74
 absolute_magnitude: 0.52

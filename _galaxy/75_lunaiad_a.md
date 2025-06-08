@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      75 Lunaiad A is a star in the constellation Luna
+      75 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 319.80 ly
 apparent_magnitude: 7.61
 absolute_magnitude: 2.65

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      349 Geardiad is a star in the constellation Geard
+      349 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 190.35 ly
 apparent_magnitude: 8.33
 absolute_magnitude: 4.50

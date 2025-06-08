@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      713 Ratharshinniad is a star in the constellation Ratharshin
+      713 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 833.77 ly
 apparent_magnitude: 12.41
 absolute_magnitude: 5.38

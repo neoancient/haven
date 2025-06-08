@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ζ Lasraiad is a star in the constellation Lasra
+      ζ Lasraiad is a star in the constellation <a href="lasra.html">Lasra</a>
 distance: 871.41 ly
 apparent_magnitude: 3.59
 absolute_magnitude: -3.54
@@ -31,14 +31,14 @@ planets:
     radius: 10,725.0 km<br/>(1.683 Yrths)
     surface_area: 1.445 × 10<sup>09</sup> km<sup>2</sup><br/>(2.834 Yrths)
     volume: 5.168 × 10<sup>12</sup> km<sup>3</sup><br/>(4.771 Yrths)
-    mass: 3.179 × 10<sup>25</sup> kg<br />(5.322861394002624 Yrths)
+    mass: 3.179 × 10<sup>25</sup> kg<br />(5.32 Yrths)
     density: 6.152 g/cm<sup>3</sup>
     surface_gravity: 18.420 m/s<sup>2</sup><br />(1.878 g<sub>0</sub>)
     escape_velocity: 19.891 km/s<br />(71,607 km/h)
     rotation_period: 0.549 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 858 K<br />(585 °C)
+    temperature: 923 K<br />(650 °C)
     surface_pressure: 1,074 kPa<br />(11 atm)
     composition:
       - 84.7766% ammonia
@@ -58,14 +58,14 @@ planets:
         radius: 9,673.7 km<br/>(1.518 Yrths)
         surface_area: 1.176 × 10<sup>09</sup> km<sup>2</sup><br/>(2.306 Yrths)
         volume: 3.792 × 10<sup>12</sup> km<sup>3</sup><br/>(3.501 Yrths)
-        mass: 9.351 × 10<sup>24</sup> kg<br />(5.322861394002624 Yrths)
+        mass: 9.351 × 10<sup>24</sup> kg<br />(1.566 Yrths)
         density: 2.466 g/cm<sup>3</sup>
         surface_gravity: 6.660 m/s<sup>2</sup><br />(0.679 g<sub>0</sub>)
         escape_velocity: 11.359 km/s<br />(40,893 km/h)
         rotation_period: 54.585 d
         axial_tilt: 47.70°
         albedo: 0.30
-        temperature: 7003 K<br />(6729 °C)
+        temperature: 604 K<br />(331 °C)
       - name: ζ Lasraiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 5,896.7 km<br/>(0.926 Yrths)
         surface_area: 4.369 × 10<sup>08</sup> km<sup>2</sup><br/>(0.857 Yrths)
         volume: 8.588 × 10<sup>11</sup> km<sup>3</sup><br/>(0.793 Yrths)
-        mass: 2.065 × 10<sup>24</sup> kg<br />(5.322861394002624 Yrths)
+        mass: 2.065 × 10<sup>24</sup> kg<br />(0.346 Yrths)
         density: 2.404 g/cm<sup>3</sup>
         surface_gravity: 3.958 m/s<sup>2</sup><br />(0.404 g<sub>0</sub>)
         escape_velocity: 6.837 km/s<br />(24,613 km/h)
         rotation_period: 46.010 d
         axial_tilt: 20.29°
         albedo: 0.30
-        temperature: 6677 K<br />(6404 °C)
+        temperature: 604 K<br />(331 °C)
   - name: ζ Lasraiad II
     type: Gas giant
     aphelion: 4,845,457,150 km<br />32.389 AU
@@ -97,14 +97,14 @@ planets:
     radius: 239.2 km<br/>(0.038 Yrths)
     surface_area: 7.190 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.733 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.165 × 10<sup>27</sup> kg<br />(362.5376217819911 Yrths)
+    mass: 2.165 × 10<sup>27</sup> kg<br />(362.54 Yrths)
     density: 37768212.786 g/cm<sup>3</sup>
     surface_gravity: 2522224.515 m/s<sup>2</sup><br />(257195.323 g<sub>0</sub>)
     escape_velocity: 1099.203 km/s<br />(3,957,132 km/h)
     rotation_period: 0.231 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1741 K<br />(1467 °C)
+    temperature: 1708 K<br />(1435 °C)
     composition:
       - 77.3361% hydrogen
       - 15.2259% helium
@@ -123,14 +123,14 @@ planets:
         radius: 172,287.1 km<br/>(27.042 Yrths)
         surface_area: 3.730 × 10<sup>11</sup> km<sup>2</sup><br/>(731.291 Yrths)
         volume: 2.142 × 10<sup>16</sup> km<sup>3</sup><br/>(19775.876 Yrths)
-        mass: 3.821 × 10<sup>28</sup> kg<br />(362.5376217819911 Yrths)
+        mass: 3.821 × 10<sup>28</sup> kg<br />(6398.648 Yrths)
         density: 1.784 g/cm<sup>3</sup>
         surface_gravity: 85.806 m/s<sup>2</sup><br />(8.750 g<sub>0</sub>)
         escape_velocity: 172.066 km/s<br />(619,438 km/h)
         rotation_period: 46.802 d
         axial_tilt: 21.42°
         albedo: 0.30
-        temperature: 2119 K<br />(1846 °C)
+        temperature: 397 K<br />(124 °C)
       - name: ζ Lasraiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -143,14 +143,14 @@ planets:
         radius: 265,782.5 km<br/>(41.718 Yrths)
         surface_area: 8.877 × 10<sup>11</sup> km<sup>2</sup><br/>(1740.354 Yrths)
         volume: 7.864 × 10<sup>16</sup> km<sup>3</sup><br/>(72603.301 Yrths)
-        mass: 1.634 × 10<sup>29</sup> kg<br />(362.5376217819911 Yrths)
+        mass: 1.634 × 10<sup>29</sup> kg<br />(27363.284 Yrths)
         density: 2.078 g/cm<sup>3</sup>
         surface_gravity: 154.188 m/s<sup>2</sup><br />(15.723 g<sub>0</sub>)
         escape_velocity: 286.483 km/s<br />(1,031,338 km/h)
         rotation_period: 39.914 d
         axial_tilt: 19.52°
         albedo: 0.30
-        temperature: 1926 K<br />(1653 °C)
+        temperature: 397 K<br />(124 °C)
       - name: ζ Lasraiad II c
         type: Icy
         formationType: Accreted
@@ -163,14 +163,14 @@ planets:
         radius: 271,420.5 km<br/>(42.602 Yrths)
         surface_area: 9.258 × 10<sup>11</sup> km<sup>2</sup><br/>(1814.973 Yrths)
         volume: 8.376 × 10<sup>16</sup> km<sup>3</sup><br/>(77322.356 Yrths)
-        mass: 7.474 × 10<sup>28</sup> kg<br />(362.5376217819911 Yrths)
+        mass: 7.474 × 10<sup>28</sup> kg<br />(12514.372 Yrths)
         density: 0.892 g/cm<sup>3</sup>
         surface_gravity: 67.618 m/s<sup>2</sup><br />(6.895 g<sub>0</sub>)
         escape_velocity: 191.717 km/s<br />(690,182 km/h)
         rotation_period: 80.099 d
         axial_tilt: 22.20°
         albedo: 0.30
-        temperature: 1751 K<br />(1478 °C)
+        temperature: 397 K<br />(124 °C)
       - name: ζ Lasraiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -183,14 +183,14 @@ planets:
         radius: 165,858.7 km<br/>(26.033 Yrths)
         surface_area: 3.457 × 10<sup>11</sup> km<sup>2</sup><br/>(677.737 Yrths)
         volume: 1.911 × 10<sup>16</sup> km<sup>3</sup><br/>(17643.784 Yrths)
-        mass: 3.567 × 10<sup>28</sup> kg<br />(362.5376217819911 Yrths)
+        mass: 3.567 × 10<sup>28</sup> kg<br />(5972.801 Yrths)
         density: 1.866 g/cm<sup>3</sup>
         surface_gravity: 86.425 m/s<sup>2</sup><br />(8.813 g<sub>0</sub>)
         escape_velocity: 169.433 km/s<br />(609,958 km/h)
         rotation_period: 59.920 d
         axial_tilt: 10.19°
         albedo: 0.30
-        temperature: 1380 K<br />(1107 °C)
+        temperature: 397 K<br />(124 °C)
       - name: ζ Lasraiad II e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -203,14 +203,14 @@ planets:
         radius: 160,528.3 km<br/>(25.197 Yrths)
         surface_area: 3.238 × 10<sup>11</sup> km<sup>2</sup><br/>(634.875 Yrths)
         volume: 1.733 × 10<sup>16</sup> km<sup>3</sup><br/>(15996.769 Yrths)
-        mass: 3.862 × 10<sup>28</sup> kg<br />(362.5376217819911 Yrths)
+        mass: 3.862 × 10<sup>28</sup> kg<br />(6466.750 Yrths)
         density: 2.229 g/cm<sup>3</sup>
         surface_gravity: 99.889 m/s<sup>2</sup><br />(10.186 g<sub>0</sub>)
         escape_velocity: 179.203 km/s<br />(645,130 km/h)
         rotation_period: 43.338 d
         axial_tilt: 16.52°
         albedo: 0.30
-        temperature: 743 K<br />(470 °C)
+        temperature: 397 K<br />(124 °C)
       - name: ζ Lasraiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -223,12 +223,12 @@ planets:
         radius: 171,997.2 km<br/>(26.997 Yrths)
         surface_area: 3.718 × 10<sup>11</sup> km<sup>2</sup><br/>(728.832 Yrths)
         volume: 2.131 × 10<sup>16</sup> km<sup>3</sup><br/>(19676.209 Yrths)
-        mass: 5.519 × 10<sup>28</sup> kg<br />(362.5376217819911 Yrths)
+        mass: 5.519 × 10<sup>28</sup> kg<br />(9242.262 Yrths)
         density: 2.590 g/cm<sup>3</sup>
         surface_gravity: 124.357 m/s<sup>2</sup><br />(12.681 g<sub>0</sub>)
         escape_velocity: 206.969 km/s<br />(745,090 km/h)
         rotation_period: 40.005 d
         axial_tilt: 12.31°
         albedo: 0.30
-        temperature: 675 K<br />(402 °C)
+        temperature: 397 K<br />(124 °C)
 ---

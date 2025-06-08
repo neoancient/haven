@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5427 Arkothiad is a star in the constellation Arkoth
+      5427 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 427.28 ly
 apparent_magnitude: 9.66
 absolute_magnitude: 4.07
@@ -31,7 +31,7 @@ planets:
     radius: 206.1 km<br/>(0.032 Yrths)
     surface_area: 5.338 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.667 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.418 × 10<sup>27</sup> kg<br />(237.49160837337695 Yrths)
+    mass: 1.418 × 10<sup>27</sup> kg<br />(237.49 Yrths)
     density: 38672133.946 g/cm<sup>3</sup>
     surface_gravity: 2225341.192 m/s<sup>2</sup><br />(226921.649 g<sub>0</sub>)
     escape_velocity: 958.418 km/s<br />(3,450,305 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 201,373.9 km<br/>(31.608 Yrths)
         surface_area: 5.096 × 10<sup>11</sup> km<sup>2</sup><br/>(999.059 Yrths)
         volume: 3.421 × 10<sup>16</sup> km<sup>3</sup><br/>(31578.162 Yrths)
-        mass: 6.411 × 10<sup>28</sup> kg<br />(237.49160837337695 Yrths)
+        mass: 6.411 × 10<sup>28</sup> kg<br />(10734.898 Yrths)
         density: 1.874 g/cm<sup>3</sup>
         surface_gravity: 105.373 m/s<sup>2</sup><br />(10.745 g<sub>0</sub>)
         escape_velocity: 206.146 km/s<br />(742,126 km/h)
         rotation_period: 42.963 d
         axial_tilt: 31.21°
         albedo: 0.30
-        temperature: 1437 K<br />(1164 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 5427 Arkothiad I b
         type: Rocky
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 216,063.2 km<br/>(33.914 Yrths)
         surface_area: 5.866 × 10<sup>11</sup> km<sup>2</sup><br/>(1150.129 Yrths)
         volume: 4.225 × 10<sup>16</sup> km<sup>3</sup><br/>(39004.965 Yrths)
-        mass: 1.220 × 10<sup>29</sup> kg<br />(237.49160837337695 Yrths)
+        mass: 1.220 × 10<sup>29</sup> kg<br />(20433.064 Yrths)
         density: 2.888 g/cm<sup>3</sup>
         surface_gravity: 174.224 m/s<sup>2</sup><br />(17.766 g<sub>0</sub>)
         escape_velocity: 274.571 km/s<br />(988,454 km/h)
         rotation_period: 29.592 d
         axial_tilt: 19.69°
         albedo: 0.30
-        temperature: 936 K<br />(663 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 5427 Arkothiad I c
         type: Icy
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 234,109.5 km<br/>(36.746 Yrths)
         surface_area: 6.887 × 10<sup>11</sup> km<sup>2</sup><br/>(1350.277 Yrths)
         volume: 5.375 × 10<sup>16</sup> km<sup>3</sup><br/>(49617.423 Yrths)
-        mass: 7.547 × 10<sup>28</sup> kg<br />(237.49160837337695 Yrths)
+        mass: 7.547 × 10<sup>28</sup> kg<br />(12637.560 Yrths)
         density: 1.404 g/cm<sup>3</sup>
         surface_gravity: 91.783 m/s<sup>2</sup><br />(9.359 g<sub>0</sub>)
         escape_velocity: 207.444 km/s<br />(746,797 km/h)
         rotation_period: 46.120 d
         axial_tilt: 9.70°
         albedo: 0.30
-        temperature: 737 K<br />(464 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 5427 Arkothiad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 164,893.9 km<br/>(25.882 Yrths)
         surface_area: 3.417 × 10<sup>11</sup> km<sup>2</sup><br/>(669.875 Yrths)
         volume: 1.878 × 10<sup>16</sup> km<sup>3</sup><br/>(17337.664 Yrths)
-        mass: 5.032 × 10<sup>28</sup> kg<br />(237.49160837337695 Yrths)
+        mass: 5.032 × 10<sup>28</sup> kg<br />(8426.122 Yrths)
         density: 2.679 g/cm<sup>3</sup>
         surface_gravity: 123.354 m/s<sup>2</sup><br />(12.579 g<sub>0</sub>)
         escape_velocity: 201.832 km/s<br />(726,594 km/h)
         rotation_period: 43.885 d
         axial_tilt: 19.35°
         albedo: 0.30
-        temperature: 703 K<br />(430 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 5427 Arkothiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 211,966.1 km<br/>(33.270 Yrths)
         surface_area: 5.646 × 10<sup>11</sup> km<sup>2</sup><br/>(1106.924 Yrths)
         volume: 3.989 × 10<sup>16</sup> km<sup>3</sup><br/>(36827.874 Yrths)
-        mass: 1.012 × 10<sup>29</sup> kg<br />(237.49160837337695 Yrths)
+        mass: 1.012 × 10<sup>29</sup> kg<br />(16949.422 Yrths)
         density: 2.537 g/cm<sup>3</sup>
         surface_gravity: 150.161 m/s<sup>2</sup><br />(15.312 g<sub>0</sub>)
         escape_velocity: 252.477 km/s<br />(908,918 km/h)
         rotation_period: 34.589 d
         axial_tilt: 9.60°
         albedo: 0.30
-        temperature: 416 K<br />(143 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 5427 Arkothiad I f
         type: Icy
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 240,643.1 km<br/>(37.772 Yrths)
         surface_area: 7.277 × 10<sup>11</sup> km<sup>2</sup><br/>(1426.697 Yrths)
         volume: 5.837 × 10<sup>16</sup> km<sup>3</sup><br/>(53888.693 Yrths)
-        mass: 8.271 × 10<sup>28</sup> kg<br />(237.49160837337695 Yrths)
+        mass: 8.271 × 10<sup>28</sup> kg<br />(13849.149 Yrths)
         density: 1.417 g/cm<sup>3</sup>
         surface_gravity: 95.195 m/s<sup>2</sup><br />(9.707 g<sub>0</sub>)
         escape_velocity: 214.192 km/s<br />(771,090 km/h)
         rotation_period: 70.319 d
         axial_tilt: 19.76°
         albedo: 0.30
-        temperature: 284 K<br />(11 °C)
+        temperature: 259 K<br />(-14 °C)
   - name: 5427 Arkothiad II
     type: Gas giant
     aphelion: 471,727,992 km<br />3.153 AU
@@ -171,7 +171,7 @@ planets:
     radius: 209.7 km<br/>(0.033 Yrths)
     surface_area: 5.527 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.863 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.306 × 10<sup>27</sup> kg<br />(218.63646399238394 Yrths)
+    mass: 1.306 × 10<sup>27</sup> kg<br />(218.64 Yrths)
     density: 33795913.173 g/cm<sup>3</sup>
     surface_gravity: 1978785.631 m/s<sup>2</sup><br />(201779.979 g<sub>0</sub>)
     escape_velocity: 911.642 km/s<br />(3,281,910 km/h)
@@ -192,14 +192,14 @@ planets:
         radius: 160,458.1 km<br/>(25.186 Yrths)
         surface_area: 3.235 × 10<sup>11</sup> km<sup>2</sup><br/>(634.320 Yrths)
         volume: 1.731 × 10<sup>16</sup> km<sup>3</sup><br/>(15975.784 Yrths)
-        mass: 2.179 × 10<sup>28</sup> kg<br />(218.63646399238394 Yrths)
+        mass: 2.179 × 10<sup>28</sup> kg<br />(3648.126 Yrths)
         density: 1.259 g/cm<sup>3</sup>
         surface_gravity: 56.400 m/s<sup>2</sup><br />(5.751 g<sub>0</sub>)
         escape_velocity: 134.627 km/s<br />(484,657 km/h)
         rotation_period: 76.938 d
         axial_tilt: 13.51°
         albedo: 0.30
-        temperature: 1065 K<br />(792 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 5427 Arkothiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -212,14 +212,14 @@ planets:
         radius: 122,363.6 km<br/>(19.206 Yrths)
         surface_area: 1.882 × 10<sup>11</sup> km<sup>2</sup><br/>(368.884 Yrths)
         volume: 7.674 × 10<sup>15</sup> km<sup>3</sup><br/>(7084.902 Yrths)
-        mass: 1.575 × 10<sup>28</sup> kg<br />(218.63646399238394 Yrths)
+        mass: 1.575 × 10<sup>28</sup> kg<br />(2637.539 Yrths)
         density: 2.052 g/cm<sup>3</sup>
         surface_gravity: 70.118 m/s<sup>2</sup><br />(7.150 g<sub>0</sub>)
         escape_velocity: 131.084 km/s<br />(471,904 km/h)
         rotation_period: 66.853 d
         axial_tilt: 32.53°
         albedo: 0.30
-        temperature: 693 K<br />(420 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 5427 Arkothiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -232,14 +232,14 @@ planets:
         radius: 209,194.5 km<br/>(32.835 Yrths)
         surface_area: 5.499 × 10<sup>11</sup> km<sup>2</sup><br/>(1078.165 Yrths)
         volume: 3.835 × 10<sup>16</sup> km<sup>3</sup><br/>(35402.019 Yrths)
-        mass: 7.976 × 10<sup>28</sup> kg<br />(218.63646399238394 Yrths)
+        mass: 7.976 × 10<sup>28</sup> kg<br />(13356.057 Yrths)
         density: 2.080 g/cm<sup>3</sup>
         surface_gravity: 121.482 m/s<sup>2</sup><br />(12.388 g<sub>0</sub>)
         escape_velocity: 225.601 km/s<br />(812,165 km/h)
         rotation_period: 42.341 d
         axial_tilt: 13.50°
         albedo: 0.30
-        temperature: 431 K<br />(157 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 5427 Arkothiad II d
         type: Icy
         formationType: Captured
@@ -252,14 +252,14 @@ planets:
         radius: 154,750.4 km<br/>(24.290 Yrths)
         surface_area: 3.009 × 10<sup>11</sup> km<sup>2</sup><br/>(589.995 Yrths)
         volume: 1.552 × 10<sup>16</sup> km<sup>3</sup><br/>(14330.858 Yrths)
-        mass: 1.601 × 10<sup>28</sup> kg<br />(218.63646399238394 Yrths)
+        mass: 1.601 × 10<sup>28</sup> kg<br />(2681.480 Yrths)
         density: 1.032 g/cm<sup>3</sup>
         surface_gravity: 44.570 m/s<sup>2</sup><br />(4.545 g<sub>0</sub>)
         escape_velocity: 117.530 km/s<br />(423,108 km/h)
         rotation_period: 50.017 d
         axial_tilt: 17.34°
         albedo: 0.30
-        temperature: 356 K<br />(83 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 5427 Arkothiad II e
         type: Icy
         formationType: Accreted
@@ -272,14 +272,14 @@ planets:
         radius: 156,329.7 km<br/>(24.538 Yrths)
         surface_area: 3.071 × 10<sup>11</sup> km<sup>2</sup><br/>(602.099 Yrths)
         volume: 1.600 × 10<sup>16</sup> km<sup>3</sup><br/>(14774.126 Yrths)
-        mass: 1.337 × 10<sup>28</sup> kg<br />(218.63646399238394 Yrths)
+        mass: 1.337 × 10<sup>28</sup> kg<br />(2238.887 Yrths)
         density: 0.835 g/cm<sup>3</sup>
         surface_gravity: 36.466 m/s<sup>2</sup><br />(3.718 g<sub>0</sub>)
         escape_velocity: 106.850 km/s<br />(384,659 km/h)
         rotation_period: 63.996 d
         axial_tilt: 23.64°
         albedo: 0.30
-        temperature: 280 K<br />(7 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 5427 Arkothiad II f
         type: Icy
         formationType: Accreted
@@ -292,14 +292,14 @@ planets:
         radius: 217,689.4 km<br/>(34.169 Yrths)
         surface_area: 5.955 × 10<sup>11</sup> km<sup>2</sup><br/>(1167.506 Yrths)
         volume: 4.321 × 10<sup>16</sup> km<sup>3</sup><br/>(39892.287 Yrths)
-        mass: 6.100 × 10<sup>28</sup> kg<br />(218.63646399238394 Yrths)
+        mass: 6.100 × 10<sup>28</sup> kg<br />(10214.117 Yrths)
         density: 1.412 g/cm<sup>3</sup>
         surface_gravity: 85.795 m/s<sup>2</sup><br />(8.749 g<sub>0</sub>)
         escape_velocity: 193.401 km/s<br />(696,245 km/h)
         rotation_period: 76.142 d
         axial_tilt: 22.64°
         albedo: 0.30
-        temperature: 221 K<br />(-52 °C)
+        temperature: 189 K<br />(-84 °C)
   - name: 5427 Arkothiad III
     type: Terrestrial
     aphelion: 849,740,761 km<br />5.680 AU
@@ -311,14 +311,14 @@ planets:
     radius: 5,867.5 km<br/>(0.921 Yrths)
     surface_area: 4.326 × 10<sup>08</sup> km<sup>2</sup><br/>(0.848 Yrths)
     volume: 8.462 × 10<sup>11</sup> km<sup>3</sup><br/>(0.781 Yrths)
-    mass: 4.625 × 10<sup>24</sup> kg<br />(0.7745035813904345 Yrths)
+    mass: 4.625 × 10<sup>24</sup> kg<br />(0.77 Yrths)
     density: 5.466 g/cm<sup>3</sup>
     surface_gravity: 8.955 m/s<sup>2</sup><br />(0.913 g<sub>0</sub>)
     escape_velocity: 10.258 km/s<br />(36,929 km/h)
     rotation_period: 1.117 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 160 K<br />(-113 °C)
+    temperature: 198 K<br />(-75 °C)
     surface_pressure: 26 kPa<br />(0 atm)
     composition:
       - 83.9670% nitrogen

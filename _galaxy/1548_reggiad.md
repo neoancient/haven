@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1548 Reggiad is a star in the constellation Reg
+      1548 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 303.67 ly
 apparent_magnitude: 19.41
 absolute_magnitude: 14.57

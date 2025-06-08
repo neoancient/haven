@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2193 Geardiad is a star in the constellation Geard
+      2193 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 498.57 ly
 apparent_magnitude: 10.94
 absolute_magnitude: 5.02

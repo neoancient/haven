@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1379 Oniad A is a star in the constellation Oni
+      1379 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 974.89 ly
 apparent_magnitude: 6.61
 absolute_magnitude: -0.77

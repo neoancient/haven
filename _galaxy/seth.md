@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Seth is a star in the constellation Ratharshin
+      Seth is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1454.84 ly
 apparent_magnitude: 4.02
 absolute_magnitude: -4.23

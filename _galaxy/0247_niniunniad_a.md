@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0247 Niniunniad A is a star in the constellation Niniun
+      0247 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 157.63 ly
 apparent_magnitude: 6.48
 absolute_magnitude: 3.06

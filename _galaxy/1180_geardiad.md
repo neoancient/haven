@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1180 Geardiad is a star in the constellation Geard
+      1180 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 289.79 ly
 apparent_magnitude: 10.78
 absolute_magnitude: 6.04

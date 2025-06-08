@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6267 Dialkeshiad is a star in the constellation Dialkes
+      6267 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 386.52 ly
 apparent_magnitude: 9.72
 absolute_magnitude: 4.35

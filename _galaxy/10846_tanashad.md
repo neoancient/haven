@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10846 Tanashad is a star in the constellation Tanas
+      10846 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 205.27 ly
 apparent_magnitude: 10.42
 absolute_magnitude: 6.43

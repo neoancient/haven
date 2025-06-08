@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1019 Urthiad A is a star in the constellation Urth
+      1019 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 271.88 ly
 apparent_magnitude: 8.91
 absolute_magnitude: 4.31

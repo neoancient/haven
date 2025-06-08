@@ -8,511 +8,539 @@ sections:
     content: >-
       4110 Kulniad is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 317.46 ly
-apparent_magnitude: 9.42
-absolute_magnitude: 4.48
-spectral_class: F4V
+apparent_magnitude: 10.11
+absolute_magnitude: 5.17
+spectral_class: F7V
 equatorial: |
   RA: 5<sup>h</sup> 41<sup>m</sup> 14.40<sup>s</sup><br />Dec: -14° 43' 12.00"
 rectangular: -247.75S 74.52E -183.97R
-radius: 6.064 × 10<sup>05</sup> km<br />(0.872 R<sub>☉</sub>)
-mass: 2.709 × 10<sup>30</sup> kg<br />(1.362 M<sub>☉</sub>)
-luminosity: 5.501 × 10<sup>26</sup> W<br />(1.436 L<sub>☉</sub>)
-age: 5.9 Gyr
-temperature: 6,769 K
+radius: 5.140 × 10<sup>05</sup> km<br />(0.739 R<sub>☉</sub>)
+mass: 2.119 × 10<sup>30</sup> kg<br />(1.066 M<sub>☉</sub>)
+luminosity: 2.979 × 10<sup>26</sup> W<br />(0.778 L<sub>☉</sub>)
+age: 5.2 Gyr
+temperature: 6,307 K
 planets:
   - name: <a href="kaeloris.html">Kaeloris</a> (4110 Kulniad I)
-    type: Large terrestrial
-    aphelion: 215,680,587 km<br />1.442 AU
-    perihelion: 215,680,587 km<br />1.442 AU
-    semi_major_axis: 215,680,587 km<br />1.442 AU
-    eccentricity: 0.000
-    orbital_period: 541.70 d<br />1.483 y
-    inclination: 28.75°
-    radius: 5,073.3 km<br/>(0.796 Yrths)
-    surface_area: 3.234 × 10<sup>08</sup> km<sup>2</sup><br/>(0.634 Yrths)
-    volume: 5.470 × 10<sup>11</sup> km<sup>3</sup><br/>(0.505 Yrths)
-    mass: 3.745 × 10<sup>24</sup> kg<br />(0.63 Yrths)
-    density: 6.846 g/cm<sup>3</sup>
-    surface_gravity: 9.697 m/s<sup>2</sup><br />(0.989 g<sub>0</sub>)
-    escape_velocity: 9.926 km/s<br />(35,735 km/h)
-    rotation_period: 1.495 d
+    type: Terrestrial
+    aphelion: 111,006,063 km<br />0.742 AU
+    perihelion: 109,896,941 km<br />0.735 AU
+    semi_major_axis: 110,451,502 km<br />0.738 AU
+    eccentricity: 0.005
+    orbital_period: 224.44 d<br />0.614 y
+    inclination: 0.95°
+    radius: 5,685.2 km<br/>(0.892 Yrths)
+    surface_area: 4.062 × 10<sup>08</sup> km<sup>2</sup><br/>(0.796 Yrths)
+    volume: 7.697 × 10<sup>11</sup> km<sup>3</sup><br/>(0.711 Yrths)
+    mass: 4.662 × 10<sup>24</sup> kg<br />(0.78 Yrths)
+    density: 6.057 g/cm<sup>3</sup>
+    surface_gravity: 9.614 m/s<sup>2</sup><br />(0.980 g<sub>0</sub>)
+    escape_velocity: 10.463 km/s<br />(37,665 km/h)
+    rotation_period: 1.860 d
     axial_tilt: 0.00°
-    albedo: 0.35
-    temperature: 245 K<br />(-28 °C)
-    surface_pressure: 128 kPa<br />(1 atm)
+    albedo: 0.30
+    temperature: 294 K<br />(21 °C)
+    surface_pressure: 90 kPa<br />(1 atm)
     composition:
-      - 71.7210% nitrogen
-      - 17.9029% oxygen
-      - 7.7321% neon
-      - 1.5976% water vapor
-      - 0.9763% argon
-      - 0.0701% carbon dioxide
+      - 79.1582% nitrogen
+      - 19.7450% oxygen
+      - 1.0767% argon
+      - 0.0200% carbon dioxide
+      - 0.0000% sulfuric acid
     moons:
       - name: Kaeloris a
-        type: Ice/rock hybrid
-        formationType: Impact formed
-        aphelion: 862,161 km<br />
-        perihelion: 803,711 km<br />
-        semi_major_axis: 832,936 km<br />
-        eccentricity: 0.035
-        orbital_period: 0.13 d<br />
-        inclination: 2.03°
-        radius: 2,552.4 km<br/>(0.401 Yrths)
-        surface_area: 8.186 × 10<sup>07</sup> km<sup>2</sup><br/>(0.160 Yrths)
-        volume: 6.965 × 10<sup>10</sup> km<sup>3</sup><br/>(0.064 Yrths)
-        mass: 1.406 × 10<sup>23</sup> kg<br />(0.62706500620269 Yrths)
-        density: 2.019 g/cm<sup>3</sup>
-        surface_gravity: 1.439 m/s<sup>2</sup><br />(0.147 g<sub>0</sub>)
-        escape_velocity: 2.712 km/s<br />(9,763 km/h)
-        rotation_period: 45.869 d
-        axial_tilt: 14.93°
+        type: Asteroid
+        formationType: Captured
+        aphelion: 525,545 km<br />
+        perihelion: 470,442 km<br />
+        semi_major_axis: 497,994 km<br />
+        eccentricity: 0.055
+        orbital_period: 0.04 d<br />
+        inclination: 1.89°
+        radius: 1,349.1 km<br/>(0.212 Yrths)
+        surface_area: 2.287 × 10<sup>07</sup> km<sup>2</sup><br/>(0.045 Yrths)
+        volume: 1.029 × 10<sup>10</sup> km<sup>3</sup><br/>(0.009 Yrths)
+        mass: 1.839 × 10<sup>22</sup> kg<br />(0.003 Yrths)
+        density: 1.788 g/cm<sup>3</sup>
+        surface_gravity: 0.673 m/s<sup>2</sup><br />(0.069 g<sub>0</sub>)
+        escape_velocity: 1.349 km/s<br />(4,856 km/h)
+        rotation_period: 54.741 d
+        axial_tilt: 21.23°
         albedo: 0.30
-        temperature: 3746 K<br />(3473 °C)
+        temperature: 278 K<br />(5 °C)
       - name: Kaeloris b
-        type: Rocky
-        formationType: Impact formed
-        aphelion: 1,030,717 km<br />
-        perihelion: 801,742 km<br />
-        semi_major_axis: 916,229 km<br />
-        eccentricity: 0.125
-        orbital_period: 0.13 d<br />
-        inclination: 0.00°
-        radius: 2,190.6 km<br/>(0.344 Yrths)
-        surface_area: 6.030 × 10<sup>07</sup> km<sup>2</sup><br/>(0.118 Yrths)
-        volume: 4.403 × 10<sup>10</sup> km<sup>3</sup><br/>(0.041 Yrths)
-        mass: 1.329 × 10<sup>23</sup> kg<br />(0.62706500620269 Yrths)
-        density: 3.018 g/cm<sup>3</sup>
-        surface_gravity: 1.846 m/s<sup>2</sup><br />(0.188 g<sub>0</sub>)
-        escape_velocity: 2.846 km/s<br />(10,245 km/h)
-        rotation_period: 38.542 d
-        axial_tilt: 9.88°
-        albedo: 0.30
-        temperature: 3572 K<br />(3299 °C)
-  - name: 4110 Kulniad II
-    type: Large terrestrial
-    aphelion: 423,931,864 km<br />2.834 AU
-    perihelion: 388,988,980 km<br />2.600 AU
-    semi_major_axis: 406,460,422 km<br />2.717 AU
-    eccentricity: 0.043
-    orbital_period: 1,401.44 d<br />3.837 y
-    inclination: 31.34°
-    radius: 9,835.5 km<br/>(1.544 Yrths)
-    surface_area: 1.216 × 10<sup>09</sup> km<sup>2</sup><br/>(2.383 Yrths)
-    volume: 3.985 × 10<sup>12</sup> km<sup>3</sup><br/>(3.679 Yrths)
-    mass: 2.600 × 10<sup>25</sup> kg<br />(4.35 Yrths)
-    density: 6.524 g/cm<sup>3</sup>
-    surface_gravity: 17.914 m/s<sup>2</sup><br />(1.827 g<sub>0</sub>)
-    escape_velocity: 18.785 km/s<br />(67,625 km/h)
-    rotation_period: 0.779 d
-    axial_tilt: 0.00°
-    albedo: 0.35
-    temperature: 202 K<br />(-71 °C)
-    surface_pressure: 435 kPa<br />(4 atm)
-    composition:
-      - 77.1782% nitrogen
-      - 17.0555% carbon dioxide
-      - 3.1632% acetylene
-      - 1.3535% ozone
-      - 1.2496% neon
-    moons:
-      - name: 4110 Kulniad II a
-        type: Asteroid
-        formationType: Captured
-        aphelion: 3,477,126 km<br />
-        perihelion: 2,511,961 km<br />
-        semi_major_axis: 2,994,543 km<br />
-        eccentricity: 0.161
-        orbital_period: 0.13 d<br />
-        inclination: 65.50°
-        radius: 4,460.2 km<br/>(0.700 Yrths)
-        surface_area: 2.500 × 10<sup>08</sup> km<sup>2</sup><br/>(0.490 Yrths)
-        volume: 3.717 × 10<sup>11</sup> km<sup>3</sup><br/>(0.343 Yrths)
-        mass: 1.073 × 10<sup>24</sup> kg<br />(4.353595748200915 Yrths)
-        density: 2.886 g/cm<sup>3</sup>
-        surface_gravity: 3.594 m/s<sup>2</sup><br />(0.366 g<sub>0</sub>)
-        escape_velocity: 5.666 km/s<br />(20,396 km/h)
-        rotation_period: 52.997 d
-        axial_tilt: 46.64°
-        albedo: 0.30
-        temperature: 2090 K<br />(1816 °C)
-      - name: 4110 Kulniad II b
-        type: Asteroid
-        formationType: Captured
-        aphelion: 3,681,563 km<br />
-        perihelion: 2,906,433 km<br />
-        semi_major_axis: 3,293,998 km<br />
-        eccentricity: 0.118
-        orbital_period: 0.13 d<br />
-        inclination: 0.00°
-        radius: 10,895.3 km<br/>(1.710 Yrths)
-        surface_area: 1.492 × 10<sup>09</sup> km<sup>2</sup><br/>(2.925 Yrths)
-        volume: 5.418 × 10<sup>12</sup> km<sup>3</sup><br/>(5.001 Yrths)
-        mass: 1.268 × 10<sup>25</sup> kg<br />(4.353595748200915 Yrths)
-        density: 2.341 g/cm<sup>3</sup>
-        surface_gravity: 7.121 m/s<sup>2</sup><br />(0.726 g<sub>0</sub>)
-        escape_velocity: 12.465 km/s<br />(44,875 km/h)
-        rotation_period: 48.516 d
-        axial_tilt: 24.29°
-        albedo: 0.30
-        temperature: 1992 K<br />(1719 °C)
-  - name: 4110 Kulniad III
-    type: Gas giant
-    aphelion: 765,994,182 km<br />5.120 AU
-    perihelion: 765,994,182 km<br />5.120 AU
-    semi_major_axis: 765,994,182 km<br />5.120 AU
-    eccentricity: 0.000
-    orbital_period: 3,625.63 d<br />9.926 y
-    inclination: 37.64°
-    radius: 159.7 km<br/>(0.025 Yrths)
-    surface_area: 3.207 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
-    volume: 1.708 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.894 × 10<sup>26</sup> kg<br />(65.20 Yrths)
-    density: 22804574.366 g/cm<sup>3</sup>
-    surface_gravity: 1017075.411 m/s<sup>2</sup><br />(103712.829 g<sub>0</sub>)
-    escape_velocity: 570.426 km/s<br />(2,053,535 km/h)
-    rotation_period: 0.274 d
-    axial_tilt: 0.00°
-    albedo: 0.40
-    temperature: 119 K<br />(-155 °C)
-    moons:
-      - name: 4110 Kulniad III a
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 24,397,607 km<br />
-        perihelion: 20,408,645 km<br />
-        semi_major_axis: 22,403,126 km<br />
-        eccentricity: 0.089
-        orbital_period: 0.08 d<br />
-        inclination: 2.40°
-        radius: 71,111.6 km<br/>(11.162 Yrths)
-        surface_area: 6.355 × 10<sup>10</sup> km<sup>2</sup><br/>(124.585 Yrths)
-        volume: 1.506 × 10<sup>15</sup> km<sup>3</sup><br/>(1390.589 Yrths)
-        mass: 3.311 × 10<sup>27</sup> kg<br />(65.20340049875996 Yrths)
-        density: 2.198 g/cm<sup>3</sup>
-        surface_gravity: 43.641 m/s<sup>2</sup><br />(4.450 g<sub>0</sub>)
-        escape_velocity: 78.837 km/s<br />(283,813 km/h)
-        rotation_period: 35.992 d
-        axial_tilt: 25.77°
-        albedo: 0.30
-        temperature: 720 K<br />(447 °C)
-      - name: 4110 Kulniad III b
         type: Dwarf planet
         formationType: Captured
-        aphelion: 50,698,049 km<br />
-        perihelion: 36,616,661 km<br />
-        semi_major_axis: 43,657,355 km<br />
-        eccentricity: 0.161
-        orbital_period: 0.08 d<br />
-        inclination: 39.90°
-        radius: 53,022.2 km<br/>(8.322 Yrths)
-        surface_area: 3.533 × 10<sup>10</sup> km<sup>2</sup><br/>(69.263 Yrths)
-        volume: 6.244 × 10<sup>14</sup> km<sup>3</sup><br/>(576.435 Yrths)
-        mass: 1.163 × 10<sup>27</sup> kg<br />(65.20340049875996 Yrths)
-        density: 1.862 g/cm<sup>3</sup>
-        surface_gravity: 27.566 m/s<sup>2</sup><br />(2.811 g<sub>0</sub>)
-        escape_velocity: 54.103 km/s<br />(194,772 km/h)
-        rotation_period: 43.119 d
-        axial_tilt: 26.60°
+        aphelion: 554,563 km<br />
+        perihelion: 541,023 km<br />
+        semi_major_axis: 547,793 km<br />
+        eccentricity: 0.012
+        orbital_period: 0.04 d<br />
+        inclination: 0.57°
+        radius: 2,090.7 km<br/>(0.328 Yrths)
+        surface_area: 5.493 × 10<sup>07</sup> km<sup>2</sup><br/>(0.108 Yrths)
+        volume: 3.828 × 10<sup>10</sup> km<sup>3</sup><br/>(0.035 Yrths)
+        mass: 8.356 × 10<sup>22</sup> kg<br />(0.014 Yrths)
+        density: 2.183 g/cm<sup>3</sup>
+        surface_gravity: 1.274 m/s<sup>2</sup><br />(0.130 g<sub>0</sub>)
+        escape_velocity: 2.310 km/s<br />(8,315 km/h)
+        rotation_period: 62.473 d
+        axial_tilt: 8.73°
         albedo: 0.30
-        temperature: 516 K<br />(243 °C)
-      - name: 4110 Kulniad III c
-        type: Icy
-        formationType: Captured
-        aphelion: 53,051,407 km<br />
-        perihelion: 42,994,774 km<br />
-        semi_major_axis: 48,023,090 km<br />
-        eccentricity: 0.105
-        orbital_period: 0.08 d<br />
-        inclination: 0.00°
-        radius: 103,774.4 km<br/>(16.289 Yrths)
-        surface_area: 1.353 × 10<sup>11</sup> km<sup>2</sup><br/>(265.317 Yrths)
-        volume: 4.681 × 10<sup>15</sup> km<sup>3</sup><br/>(4321.635 Yrths)
-        mass: 5.694 × 10<sup>27</sup> kg<br />(65.20340049875996 Yrths)
-        density: 1.216 g/cm<sup>3</sup>
-        surface_gravity: 35.244 m/s<sup>2</sup><br />(3.594 g<sub>0</sub>)
-        escape_velocity: 85.584 km/s<br />(308,104 km/h)
-        rotation_period: 66.280 d
-        axial_tilt: 15.65°
-        albedo: 0.30
-        temperature: 492 K<br />(219 °C)
-      - name: 4110 Kulniad III d
-        type: Ice/rock hybrid
-        formationType: Impact formed
-        aphelion: 97,568,455 km<br />
-        perihelion: 57,114,880 km<br />
-        semi_major_axis: 77,341,667 km<br />
-        eccentricity: 0.262
-        orbital_period: 0.08 d<br />
-        inclination: 40.37°
-        radius: 70,802.1 km<br/>(11.113 Yrths)
-        surface_area: 6.299 × 10<sup>10</sup> km<sup>2</sup><br/>(123.503 Yrths)
-        volume: 1.487 × 10<sup>15</sup> km<sup>3</sup><br/>(1372.512 Yrths)
-        mass: 2.754 × 10<sup>27</sup> kg<br />(65.20340049875996 Yrths)
-        density: 1.853 g/cm<sup>3</sup>
-        surface_gravity: 36.623 m/s<sup>2</sup><br />(3.735 g<sub>0</sub>)
-        escape_velocity: 72.063 km/s<br />(259,426 km/h)
-        rotation_period: 38.843 d
-        axial_tilt: 11.57°
-        albedo: 0.30
-        temperature: 388 K<br />(115 °C)
-      - name: 4110 Kulniad III e
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 110,476,239 km<br />
-        perihelion: 95,407,279 km<br />
-        semi_major_axis: 102,941,759 km<br />
-        eccentricity: 0.073
-        orbital_period: 0.08 d<br />
-        inclination: 3.03°
-        radius: 53,723.4 km<br/>(8.432 Yrths)
-        surface_area: 3.627 × 10<sup>10</sup> km<sup>2</sup><br/>(71.107 Yrths)
-        volume: 6.495 × 10<sup>14</sup> km<sup>3</sup><br/>(599.610 Yrths)
-        mass: 1.547 × 10<sup>27</sup> kg<br />(65.20340049875996 Yrths)
-        density: 2.382 g/cm<sup>3</sup>
-        surface_gravity: 35.733 m/s<sup>2</sup><br />(3.644 g<sub>0</sub>)
-        escape_velocity: 62.005 km/s<br />(223,218 km/h)
-        rotation_period: 32.164 d
-        axial_tilt: 7.06°
-        albedo: 0.30
-        temperature: 336 K<br />(63 °C)
-      - name: 4110 Kulniad III f
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 117,268,206 km<br />
-        perihelion: 109,203,664 km<br />
-        semi_major_axis: 113,235,935 km<br />
-        eccentricity: 0.036
-        orbital_period: 0.08 d<br />
-        inclination: 0.00°
-        radius: 17,690.8 km<br/>(2.777 Yrths)
-        surface_area: 3.933 × 10<sup>09</sup> km<sup>2</sup><br/>(7.710 Yrths)
-        volume: 2.319 × 10<sup>13</sup> km<sup>3</sup><br/>(21.410 Yrths)
-        mass: 4.377 × 10<sup>25</sup> kg<br />(65.20340049875996 Yrths)
-        density: 1.887 g/cm<sup>3</sup>
-        surface_gravity: 9.322 m/s<sup>2</sup><br />(0.951 g<sub>0</sub>)
-        escape_velocity: 18.173 km/s<br />(65,424 km/h)
-        rotation_period: 61.416 d
-        axial_tilt: 17.82°
-        albedo: 0.30
-        temperature: 320 K<br />(47 °C)
-      - name: 4110 Kulniad III g
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 153,941,679 km<br />
-        perihelion: 120,089,284 km<br />
-        semi_major_axis: 137,015,481 km<br />
-        eccentricity: 0.124
-        orbital_period: 0.08 d<br />
-        inclination: 3.41°
-        radius: 66,875.1 km<br/>(10.497 Yrths)
-        surface_area: 5.620 × 10<sup>10</sup> km<sup>2</sup><br/>(110.183 Yrths)
-        volume: 1.253 × 10<sup>15</sup> km<sup>3</sup><br/>(1156.566 Yrths)
-        mass: 2.658 × 10<sup>27</sup> kg<br />(65.20340049875996 Yrths)
-        density: 2.122 g/cm<sup>3</sup>
-        surface_gravity: 39.621 m/s<sup>2</sup><br />(4.040 g<sub>0</sub>)
-        escape_velocity: 72.846 km/s<br />(262,244 km/h)
-        rotation_period: 44.228 d
-        axial_tilt: 17.96°
-        albedo: 0.30
-        temperature: 291 K<br />(18 °C)
-      - name: 4110 Kulniad III h
-        type: Icy
-        formationType: Captured
-        aphelion: 518,855,777 km<br />
-        perihelion: 341,170,773 km<br />
-        semi_major_axis: 430,013,275 km<br />
-        eccentricity: 0.207
-        orbital_period: 0.08 d<br />
-        inclination: 64.09°
-        radius: 78,902.6 km<br/>(12.385 Yrths)
-        surface_area: 7.823 × 10<sup>10</sup> km<sup>2</sup><br/>(153.380 Yrths)
-        volume: 2.058 × 10<sup>15</sup> km<sup>3</sup><br/>(1899.553 Yrths)
-        mass: 1.653 × 10<sup>27</sup> kg<br />(65.20340049875996 Yrths)
-        density: 0.804 g/cm<sup>3</sup>
-        surface_gravity: 17.701 m/s<sup>2</sup><br />(1.805 g<sub>0</sub>)
-        escape_velocity: 52.887 km/s<br />(190,394 km/h)
-        rotation_period: 80.331 d
-        axial_tilt: 16.34°
-        albedo: 0.30
-        temperature: 164 K<br />(-109 °C)
-      - name: 4110 Kulniad III i
-        type: Icy
-        formationType: Captured
-        aphelion: 1,385,543,503 km<br />
-        perihelion: 1,313,588,224 km<br />
-        semi_major_axis: 1,349,565,863 km<br />
-        eccentricity: 0.027
-        orbital_period: 0.08 d<br />
-        inclination: 4.96°
-        radius: 68,897.9 km<br/>(10.814 Yrths)
-        surface_area: 5.965 × 10<sup>10</sup> km<sup>2</sup><br/>(116.949 Yrths)
-        volume: 1.370 × 10<sup>15</sup> km<sup>3</sup><br/>(1264.720 Yrths)
-        mass: 1.343 × 10<sup>27</sup> kg<br />(65.20340049875996 Yrths)
-        density: 0.980 g/cm<sup>3</sup>
-        surface_gravity: 18.851 m/s<sup>2</sup><br />(1.922 g<sub>0</sub>)
-        escape_velocity: 51.001 km/s<br />(183,603 km/h)
-        rotation_period: 78.274 d
-        axial_tilt: 16.19°
-        albedo: 0.30
-        temperature: 93 K<br />(-180 °C)
-      - name: 4110 Kulniad III j
-        type: Icy
-        formationType: Captured
-        aphelion: 2,689,913,617 km<br />
-        perihelion: 1,657,065,020 km<br />
-        semi_major_axis: 2,173,489,319 km<br />
-        eccentricity: 0.238
-        orbital_period: 0.08 d<br />
-        inclination: 18.18°
-        radius: 70,906.2 km<br/>(11.130 Yrths)
-        surface_area: 6.318 × 10<sup>10</sup> km<sup>2</sup><br/>(123.866 Yrths)
-        volume: 1.493 × 10<sup>15</sup> km<sup>3</sup><br/>(1378.573 Yrths)
-        mass: 1.650 × 10<sup>27</sup> kg<br />(65.20340049875996 Yrths)
-        density: 1.105 g/cm<sup>3</sup>
-        surface_gravity: 21.876 m/s<sup>2</sup><br />(2.231 g<sub>0</sub>)
-        escape_velocity: 55.736 km/s<br />(200,649 km/h)
-        rotation_period: 64.817 d
-        axial_tilt: 26.26°
-        albedo: 0.30
-        temperature: 73 K<br />(-200 °C)
-  - name: 4110 Kulniad IV
-    type: Gas giant
-    aphelion: 1,443,552,817 km<br />9.649 AU
-    perihelion: 1,443,552,817 km<br />9.649 AU
-    semi_major_axis: 1,443,552,817 km<br />9.649 AU
-    eccentricity: 0.000
-    orbital_period: 9,379.83 d<br />25.681 y
-    inclination: 37.63°
-    radius: 227.6 km<br/>(0.036 Yrths)
-    surface_area: 6.511 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
-    volume: 4.941 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.761 × 10<sup>27</sup> kg<br />(294.80 Yrths)
-    density: 35633487.772 g/cm<sup>3</sup>
-    surface_gravity: 2264636.347 m/s<sup>2</sup><br />(230928.640 g<sub>0</sub>)
-    escape_velocity: 1016.077 km/s<br />(3,657,879 km/h)
-    rotation_period: 0.236 d
+        temperature: 278 K<br />(5 °C)
+  - name: 4110 Kulniad II
+    type: Large terrestrial
+    aphelion: 190,992,904 km<br />1.277 AU
+    perihelion: 179,998,360 km<br />1.203 AU
+    semi_major_axis: 185,495,632 km<br />1.240 AU
+    eccentricity: 0.030
+    orbital_period: 488.48 d<br />1.337 y
+    inclination: 0.76°
+    radius: 2,810.6 km<br/>(0.441 Yrths)
+    surface_area: 9.927 × 10<sup>07</sup> km<sup>2</sup><br/>(0.195 Yrths)
+    volume: 9.300 × 10<sup>10</sup> km<sup>3</sup><br/>(0.086 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
+    density: 6.421 g/cm<sup>3</sup>
+    surface_gravity: 5.039 m/s<sup>2</sup><br />(0.514 g<sub>0</sub>)
+    escape_velocity: 5.326 km/s<br />(19,173 km/h)
+    rotation_period: 2.317 d
     axial_tilt: 0.00°
-    albedo: 0.40
-    temperature: 86 K<br />(-187 °C)
+    albedo: 0.35
+    temperature: 315 K<br />(42 °C)
+    surface_pressure: 187 kPa<br />(2 atm)
+    composition:
+      - 55.5292% nitrogen
+      - 36.0835% methane
+      - 6.8331% water vapor
+      - 1.0557% carbon monoxide
+      - 0.4985% carbon dioxide
+    moons:
+      - name: 4110 Kulniad II a
+        type: Rocky
+        formationType: Captured
+        aphelion: 435,963 km<br />
+        perihelion: 407,232 km<br />
+        semi_major_axis: 421,598 km<br />
+        eccentricity: 0.034
+        orbital_period: 0.26 d<br />
+        inclination: 2.27°
+        radius: 687.7 km<br/>(0.108 Yrths)
+        surface_area: 5.943 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
+        volume: 1.362 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
+        mass: 3.466 × 10<sup>21</sup> kg<br />(0.001 Yrths)
+        density: 2.544 g/cm<sup>3</sup>
+        surface_gravity: 0.488 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
+        escape_velocity: 0.820 km/s<br />(2,953 km/h)
+        rotation_period: 38.330 d
+        axial_tilt: 11.56°
+        albedo: 0.30
+        temperature: 215 K<br />(-58 °C)
+      - name: 4110 Kulniad II b
+        type: Rocky
+        formationType: Captured
+        aphelion: 473,341 km<br />
+        perihelion: 454,174 km<br />
+        semi_major_axis: 463,757 km<br />
+        eccentricity: 0.021
+        orbital_period: 0.26 d<br />
+        inclination: 4.94°
+        radius: 590.6 km<br/>(0.093 Yrths)
+        surface_area: 4.384 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
+        volume: 8.630 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
+        mass: 2.578 × 10<sup>21</sup> kg<br />(0.000 Yrths)
+        density: 2.987 g/cm<sup>3</sup>
+        surface_gravity: 0.492 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
+        escape_velocity: 0.763 km/s<br />(2,748 km/h)
+        rotation_period: 36.284 d
+        axial_tilt: 18.92°
+        albedo: 0.30
+        temperature: 215 K<br />(-58 °C)
+  - name: 4110 Kulniad III
+    type: Large terrestrial
+    aphelion: 312,743,451 km<br />2.091 AU
+    perihelion: 310,310,627 km<br />2.074 AU
+    semi_major_axis: 311,527,039 km<br />2.082 AU
+    eccentricity: 0.004
+    orbital_period: 1,063.14 d<br />2.911 y
+    inclination: 2.38°
+    radius: 9,255.2 km<br/>(1.453 Yrths)
+    surface_area: 1.076 × 10<sup>09</sup> km<sup>2</sup><br/>(2.110 Yrths)
+    volume: 3.321 × 10<sup>12</sup> km<sup>3</sup><br/>(3.066 Yrths)
+    mass: 2.187 × 10<sup>25</sup> kg<br />(3.66 Yrths)
+    density: 6.586 g/cm<sup>3</sup>
+    surface_gravity: 17.018 m/s<sup>2</sup><br />(1.735 g<sub>0</sub>)
+    escape_velocity: 17.761 km/s<br />(63,938 km/h)
+    rotation_period: 0.822 d
+    axial_tilt: 0.00°
+    albedo: 0.35
+    temperature: 247 K<br />(-26 °C)
+    surface_pressure: 227 kPa<br />(2 atm)
+    composition:
+      - 75.1039% methane
+      - 24.8961% nitrogen
+    moons:
+      - name: 4110 Kulniad III a
+        type: Icy
+        formationType: Captured
+        aphelion: 2,357,490 km<br />
+        perihelion: 2,345,119 km<br />
+        semi_major_axis: 2,351,305 km<br />
+        eccentricity: 0.003
+        orbital_period: 0.09 d<br />
+        inclination: 2.76°
+        radius: 8,828.2 km<br/>(1.386 Yrths)
+        surface_area: 9.794 × 10<sup>08</sup> km<sup>2</sup><br/>(1.920 Yrths)
+        volume: 2.882 × 10<sup>12</sup> km<sup>3</sup><br/>(2.661 Yrths)
+        mass: 4.244 × 10<sup>24</sup> kg<br />(0.711 Yrths)
+        density: 1.472 g/cm<sup>3</sup>
+        surface_gravity: 3.629 m/s<sup>2</sup><br />(0.370 g<sub>0</sub>)
+        escape_velocity: 8.011 km/s<br />(28,838 km/h)
+        rotation_period: 76.802 d
+        axial_tilt: 21.49°
+        albedo: 0.30
+        temperature: 166 K<br />(-107 °C)
+      - name: 4110 Kulniad III b
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 2,888,749 km<br />
+        perihelion: 2,284,121 km<br />
+        semi_major_axis: 2,586,435 km<br />
+        eccentricity: 0.117
+        orbital_period: 0.09 d<br />
+        inclination: 3.18°
+        radius: 6,486.1 km<br/>(1.018 Yrths)
+        surface_area: 5.287 × 10<sup>08</sup> km<sup>2</sup><br/>(1.036 Yrths)
+        volume: 1.143 × 10<sup>12</sup> km<sup>3</sup><br/>(1.055 Yrths)
+        mass: 2.427 × 10<sup>24</sup> kg<br />(0.406 Yrths)
+        density: 2.123 g/cm<sup>3</sup>
+        surface_gravity: 3.844 m/s<sup>2</sup><br />(0.392 g<sub>0</sub>)
+        escape_velocity: 7.067 km/s<br />(25,440 km/h)
+        rotation_period: 35.186 d
+        axial_tilt: 30.71°
+        albedo: 0.30
+        temperature: 166 K<br />(-107 °C)
+  - name: 4110 Kulniad IV
+    type: Gas dwarf
+    aphelion: 532,463,755 km<br />3.559 AU
+    perihelion: 513,912,326 km<br />3.435 AU
+    semi_major_axis: 523,188,041 km<br />3.497 AU
+    eccentricity: 0.018
+    orbital_period: 2,313.85 d<br />6.335 y
+    inclination: 13.59°
+    radius: 20,725.3 km<br/>(3.253 Yrths)
+    surface_area: 5.398 × 10<sup>09</sup> km<sup>2</sup><br/>(10.582 Yrths)
+    volume: 3.729 × 10<sup>13</sup> km<sup>3</sup><br/>(34.426 Yrths)
+    mass: 6.183 × 10<sup>25</sup> kg<br />(10.35 Yrths)
+    density: 1.658 g/cm<sup>3</sup>
+    surface_gravity: 9.594 m/s<sup>2</sup><br />(0.978 g<sub>0</sub>)
+    escape_velocity: 19.956 km/s<br />(71,841 km/h)
+    rotation_period: 0.465 d
+    axial_tilt: 0.00°
+    albedo: 0.60
+    temperature: 158 K<br />(-115 °C)
+    composition:
+      - 65.2745% hydrogen
+      - 31.3922% helium
+      - 2.2739% nitrogen
+      - 1.0594% hydrogen cyanide
     moons:
       - name: 4110 Kulniad IV a
         type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 71,653,485 km<br />
-        perihelion: 67,972,710 km<br />
-        semi_major_axis: 69,813,097 km<br />
-        eccentricity: 0.026
-        orbital_period: 0.10 d<br />
-        inclination: 1.99°
-        radius: 169,919.7 km<br/>(26.671 Yrths)
-        surface_area: 3.628 × 10<sup>11</sup> km<sup>2</sup><br/>(711.332 Yrths)
-        volume: 2.055 × 10<sup>16</sup> km<sup>3</sup><br/>(18971.796 Yrths)
-        mass: 4.649 × 10<sup>28</sup> kg<br />(294.80407121603724 Yrths)
-        density: 2.262 g/cm<sup>3</sup>
-        surface_gravity: 107.323 m/s<sup>2</sup><br />(10.944 g<sub>0</sub>)
-        escape_velocity: 191.108 km/s<br />(687,988 km/h)
-        rotation_period: 38.132 d
-        axial_tilt: 24.34°
+        formationType: Impact formed
+        aphelion: 7,107,390 km<br />
+        perihelion: 4,059,857 km<br />
+        semi_major_axis: 5,583,623 km<br />
+        eccentricity: 0.273
+        orbital_period: 0.12 d<br />
+        inclination: 22.83°
+        radius: 11,706.9 km<br/>(1.838 Yrths)
+        surface_area: 1.722 × 10<sup>09</sup> km<sup>2</sup><br/>(3.377 Yrths)
+        volume: 6.721 × 10<sup>12</sup> km<sup>3</sup><br/>(6.204 Yrths)
+        mass: 1.642 × 10<sup>25</sup> kg<br />(2.750 Yrths)
+        density: 2.443 g/cm<sup>3</sup>
+        surface_gravity: 7.986 m/s<sup>2</sup><br />(0.814 g<sub>0</sub>)
+        escape_velocity: 13.683 km/s<br />(49,259 km/h)
+        rotation_period: 40.261 d
+        axial_tilt: 21.22°
         albedo: 0.30
-        temperature: 408 K<br />(135 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 4110 Kulniad IV b
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 121,347,131 km<br />
-        perihelion: 103,522,252 km<br />
-        semi_major_axis: 112,434,692 km<br />
-        eccentricity: 0.079
-        orbital_period: 0.10 d<br />
-        inclination: 2.13°
-        radius: 245,835.5 km<br/>(38.587 Yrths)
-        surface_area: 7.594 × 10<sup>11</sup> km<sup>2</sup><br/>(1488.929 Yrths)
-        volume: 6.223 × 10<sup>16</sup> km<sup>3</sup><br/>(57452.748 Yrths)
-        mass: 1.222 × 10<sup>29</sup> kg<br />(294.80407121603724 Yrths)
-        density: 1.963 g/cm<sup>3</sup>
-        surface_gravity: 134.750 m/s<sup>2</sup><br />(13.741 g<sub>0</sub>)
-        escape_velocity: 257.571 km/s<br />(927,254 km/h)
-        rotation_period: 45.078 d
-        axial_tilt: 16.10°
+        type: Asteroid
+        formationType: Captured
+        aphelion: 6,852,847 km<br />
+        perihelion: 5,431,124 km<br />
+        semi_major_axis: 6,141,986 km<br />
+        eccentricity: 0.116
+        orbital_period: 0.12 d<br />
+        inclination: 4.60°
+        radius: 17,251.6 km<br/>(2.708 Yrths)
+        surface_area: 3.740 × 10<sup>09</sup> km<sup>2</sup><br/>(7.332 Yrths)
+        volume: 2.151 × 10<sup>13</sup> km<sup>3</sup><br/>(19.855 Yrths)
+        mass: 7.536 × 10<sup>25</sup> kg<br />(12.619 Yrths)
+        density: 3.504 g/cm<sup>3</sup>
+        surface_gravity: 16.878 m/s<sup>2</sup><br />(1.721 g<sub>0</sub>)
+        escape_velocity: 24.148 km/s<br />(86,932 km/h)
+        rotation_period: 38.819 d
+        axial_tilt: 51.97°
         albedo: 0.30
-        temperature: 322 K<br />(48 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 4110 Kulniad IV c
         type: Icy
-        formationType: Accreted
-        aphelion: 155,018,793 km<br />
-        perihelion: 144,282,356 km<br />
-        semi_major_axis: 149,650,574 km<br />
-        eccentricity: 0.036
-        orbital_period: 0.10 d<br />
-        inclination: 0.96°
-        radius: 314,557.0 km<br/>(49.373 Yrths)
-        surface_area: 1.243 × 10<sup>12</sup> km<sup>2</sup><br/>(2437.717 Yrths)
-        volume: 1.304 × 10<sup>17</sup> km<sup>3</sup><br/>(120358.026 Yrths)
-        mass: 1.794 × 10<sup>29</sup> kg<br />(294.80407121603724 Yrths)
-        density: 1.376 g/cm<sup>3</sup>
-        surface_gravity: 120.837 m/s<sup>2</sup><br />(12.322 g<sub>0</sub>)
-        escape_velocity: 275.905 km/s<br />(993,259 km/h)
-        rotation_period: 56.327 d
-        axial_tilt: 17.44°
+        formationType: Impact formed
+        aphelion: 8,610,815 km<br />
+        perihelion: 6,252,791 km<br />
+        semi_major_axis: 7,431,803 km<br />
+        eccentricity: 0.159
+        orbital_period: 0.12 d<br />
+        inclination: 33.62°
+        radius: 10,556.6 km<br/>(1.657 Yrths)
+        surface_area: 1.400 × 10<sup>09</sup> km<sup>2</sup><br/>(2.746 Yrths)
+        volume: 4.928 × 10<sup>12</sup> km<sup>3</sup><br/>(4.549 Yrths)
+        mass: 6.546 × 10<sup>24</sup> kg<br />(1.096 Yrths)
+        density: 1.328 g/cm<sup>3</sup>
+        surface_gravity: 3.915 m/s<sup>2</sup><br />(0.399 g<sub>0</sub>)
+        escape_velocity: 9.098 km/s<br />(32,753 km/h)
+        rotation_period: 59.842 d
+        axial_tilt: 16.39°
         albedo: 0.30
-        temperature: 279 K<br />(6 °C)
+        temperature: 128 K<br />(-145 °C)
       - name: 4110 Kulniad IV d
         type: Icy
-        formationType: Captured
-        aphelion: 235,228,439 km<br />
-        perihelion: 202,978,373 km<br />
-        semi_major_axis: 219,103,406 km<br />
-        eccentricity: 0.074
-        orbital_period: 0.10 d<br />
-        inclination: 2.58°
-        radius: 188,344.3 km<br/>(29.563 Yrths)
-        surface_area: 4.458 × 10<sup>11</sup> km<sup>2</sup><br/>(873.957 Yrths)
-        volume: 2.799 × 10<sup>16</sup> km<sup>3</sup><br/>(25836.574 Yrths)
-        mass: 3.980 × 10<sup>28</sup> kg<br />(294.80407121603724 Yrths)
-        density: 1.422 g/cm<sup>3</sup>
-        surface_gravity: 74.775 m/s<sup>2</sup><br />(7.625 g<sub>0</sub>)
-        escape_velocity: 167.944 km/s<br />(604,600 km/h)
-        rotation_period: 64.525 d
-        axial_tilt: 8.82°
+        formationType: Accreted
+        aphelion: 8,303,090 km<br />
+        perihelion: 8,046,876 km<br />
+        semi_major_axis: 8,174,983 km<br />
+        eccentricity: 0.016
+        orbital_period: 0.12 d<br />
+        inclination: 3.87°
+        radius: 15,646.9 km<br/>(2.456 Yrths)
+        surface_area: 3.077 × 10<sup>09</sup> km<sup>2</sup><br/>(6.032 Yrths)
+        volume: 1.605 × 10<sup>13</sup> km<sup>3</sup><br/>(14.814 Yrths)
+        mass: 1.221 × 10<sup>25</sup> kg<br />(2.045 Yrths)
+        density: 0.761 g/cm<sup>3</sup>
+        surface_gravity: 3.325 m/s<sup>2</sup><br />(0.339 g<sub>0</sub>)
+        escape_velocity: 10.208 km/s<br />(36,749 km/h)
+        rotation_period: 71.941 d
+        axial_tilt: 19.38°
         albedo: 0.30
-        temperature: 230 K<br />(-43 °C)
-      - name: 4110 Kulniad IV e
-        type: Icy
-        formationType: Impact formed
-        aphelion: 387,134,554 km<br />
-        perihelion: 318,601,899 km<br />
-        semi_major_axis: 352,868,226 km<br />
-        eccentricity: 0.097
-        orbital_period: 0.10 d<br />
-        inclination: 2.78°
-        radius: 185,790.8 km<br/>(29.162 Yrths)
-        surface_area: 4.338 × 10<sup>11</sup> km<sup>2</sup><br/>(850.420 Yrths)
-        volume: 2.686 × 10<sup>16</sup> km<sup>3</sup><br/>(24799.902 Yrths)
-        mass: 4.019 × 10<sup>28</sup> kg<br />(294.80407121603724 Yrths)
-        density: 1.496 g/cm<sup>3</sup>
-        surface_gravity: 77.609 m/s<sup>2</sup><br />(7.914 g<sub>0</sub>)
-        escape_velocity: 169.933 km/s<br />(611,758 km/h)
-        rotation_period: 51.403 d
-        axial_tilt: 13.45°
+        temperature: 128 K<br />(-145 °C)
+  - name: 4110 Kulniad V
+    type: Gas giant
+    aphelion: 894,409,447 km<br />5.979 AU
+    perihelion: 862,906,558 km<br />5.768 AU
+    semi_major_axis: 878,658,003 km<br />5.873 AU
+    eccentricity: 0.018
+    orbital_period: 5,035.91 d<br />13.788 y
+    inclination: 89.20°
+    radius: 216.9 km<br/>(0.034 Yrths)
+    surface_area: 5.913 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
+    volume: 4.276 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
+    mass: 1.439 × 10<sup>27</sup> kg<br />(240.96 Yrths)
+    density: 33656741.591 g/cm<sup>3</sup>
+    surface_gravity: 2038359.561 m/s<sup>2</sup><br />(207854.829 g<sub>0</sub>)
+    escape_velocity: 941.027 km/s<br />(3,387,698 km/h)
+    rotation_period: 0.241 d
+    axial_tilt: 0.00°
+    albedo: 0.40
+    temperature: 95 K<br />(-178 °C)
+    moons:
+      - name: 4110 Kulniad V a
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 43,267,672 km<br />
+        perihelion: 42,969,695 km<br />
+        semi_major_axis: 43,118,684 km<br />
+        eccentricity: 0.003
+        orbital_period: 0.05 d<br />
+        inclination: 2.70°
+        radius: 106,197.6 km<br/>(16.669 Yrths)
+        surface_area: 1.417 × 10<sup>11</sup> km<sup>2</sup><br/>(277.853 Yrths)
+        volume: 5.017 × 10<sup>15</sup> km<sup>3</sup><br/>(4631.501 Yrths)
+        mass: 1.067 × 10<sup>28</sup> kg<br />(1786.135 Yrths)
+        density: 2.126 g/cm<sup>3</sup>
+        surface_gravity: 63.041 m/s<sup>2</sup><br />(6.428 g<sub>0</sub>)
+        escape_velocity: 115.792 km/s<br />(416,850 km/h)
+        rotation_period: 35.610 d
+        axial_tilt: 16.09°
         albedo: 0.30
-        temperature: 181 K<br />(-92 °C)
-      - name: 4110 Kulniad IV f
+        temperature: 99 K<br />(-174 °C)
+      - name: 4110 Kulniad V b
         type: Ice/rock hybrid
         formationType: Captured
-        aphelion: 938,015,322 km<br />
-        perihelion: 892,483,281 km<br />
-        semi_major_axis: 915,249,302 km<br />
-        eccentricity: 0.025
-        orbital_period: 0.10 d<br />
-        inclination: 3.52°
-        radius: 175,824.4 km<br/>(27.598 Yrths)
-        surface_area: 3.885 × 10<sup>11</sup> km<sup>2</sup><br/>(761.628 Yrths)
-        volume: 2.277 × 10<sup>16</sup> km<sup>3</sup><br/>(21019.128 Yrths)
-        mass: 5.579 × 10<sup>28</sup> kg<br />(294.80407121603724 Yrths)
-        density: 2.450 g/cm<sup>3</sup>
-        surface_gravity: 120.282 m/s<sup>2</sup><br />(12.265 g<sub>0</sub>)
-        escape_velocity: 205.802 km/s<br />(740,887 km/h)
-        rotation_period: 33.374 d
-        axial_tilt: 16.67°
+        aphelion: 56,427,577 km<br />
+        perihelion: 38,433,527 km<br />
+        semi_major_axis: 47,430,552 km<br />
+        eccentricity: 0.190
+        orbital_period: 0.05 d<br />
+        inclination: 22.19°
+        radius: 110,519.8 km<br/>(17.347 Yrths)
+        surface_area: 1.535 × 10<sup>11</sup> km<sup>2</sup><br/>(300.930 Yrths)
+        volume: 5.655 × 10<sup>15</sup> km<sup>3</sup><br/>(5220.329 Yrths)
+        mass: 1.080 × 10<sup>28</sup> kg<br />(1809.114 Yrths)
+        density: 1.911 g/cm<sup>3</sup>
+        surface_gravity: 58.955 m/s<sup>2</sup><br />(6.012 g<sub>0</sub>)
+        escape_velocity: 114.233 km/s<br />(411,238 km/h)
+        rotation_period: 48.886 d
+        axial_tilt: 33.97°
         albedo: 0.30
-        temperature: 113 K<br />(-160 °C)
+        temperature: 99 K<br />(-174 °C)
+      - name: 4110 Kulniad V c
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 122,888,828 km<br />
+        perihelion: 100,788,694 km<br />
+        semi_major_axis: 111,838,761 km<br />
+        eccentricity: 0.099
+        orbital_period: 0.05 d<br />
+        inclination: 3.59°
+        radius: 104,244.4 km<br/>(16.362 Yrths)
+        surface_area: 1.366 × 10<sup>11</sup> km<sup>2</sup><br/>(267.726 Yrths)
+        volume: 4.745 × 10<sup>15</sup> km<sup>3</sup><br/>(4380.624 Yrths)
+        mass: 1.040 × 10<sup>28</sup> kg<br />(1740.686 Yrths)
+        density: 2.191 g/cm<sup>3</sup>
+        surface_gravity: 63.760 m/s<sup>2</sup><br />(6.502 g<sub>0</sub>)
+        escape_velocity: 115.375 km/s<br />(415,350 km/h)
+        rotation_period: 46.667 d
+        axial_tilt: 20.24°
+        albedo: 0.30
+        temperature: 99 K<br />(-174 °C)
+      - name: 4110 Kulniad V d
+        type: Icy
+        formationType: Accreted
+        aphelion: 174,116,693 km<br />
+        perihelion: 123,598,089 km<br />
+        semi_major_axis: 148,857,391 km<br />
+        eccentricity: 0.170
+        orbital_period: 0.05 d<br />
+        inclination: 33.97°
+        radius: 173,779.3 km<br/>(27.277 Yrths)
+        surface_area: 3.795 × 10<sup>11</sup> km<sup>2</sup><br/>(744.013 Yrths)
+        volume: 2.198 × 10<sup>16</sup> km<sup>3</sup><br/>(20294.160 Yrths)
+        mass: 2.367 × 10<sup>28</sup> kg<br />(3962.941 Yrths)
+        density: 1.077 g/cm<sup>3</sup>
+        surface_gravity: 52.235 m/s<sup>2</sup><br />(5.326 g<sub>0</sub>)
+        escape_velocity: 134.830 km/s<br />(485,389 km/h)
+        rotation_period: 60.494 d
+        axial_tilt: 20.88°
+        albedo: 0.30
+        temperature: 99 K<br />(-174 °C)
+      - name: 4110 Kulniad V e
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 164,812,819 km<br />
+        perihelion: 162,673,442 km<br />
+        semi_major_axis: 163,743,130 km<br />
+        eccentricity: 0.007
+        orbital_period: 0.05 d<br />
+        inclination: 1.63°
+        radius: 162,866.8 km<br/>(25.564 Yrths)
+        surface_area: 3.333 × 10<sup>11</sup> km<sup>2</sup><br/>(653.506 Yrths)
+        volume: 1.810 × 10<sup>16</sup> km<sup>3</sup><br/>(16706.078 Yrths)
+        mass: 4.680 × 10<sup>28</sup> kg<br />(7837.374 Yrths)
+        density: 2.586 g/cm<sup>3</sup>
+        surface_gravity: 117.609 m/s<sup>2</sup><br />(11.993 g<sub>0</sub>)
+        escape_velocity: 195.860 km/s<br />(705,098 km/h)
+        rotation_period: 34.977 d
+        axial_tilt: 22.35°
+        albedo: 0.30
+        temperature: 99 K<br />(-174 °C)
+      - name: 4110 Kulniad V f
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 242,635,876 km<br />
+        perihelion: 193,248,336 km<br />
+        semi_major_axis: 217,942,106 km<br />
+        eccentricity: 0.113
+        orbital_period: 0.05 d<br />
+        inclination: 3.97°
+        radius: 102,006.0 km<br/>(16.011 Yrths)
+        surface_area: 1.308 × 10<sup>11</sup> km<sup>2</sup><br/>(256.351 Yrths)
+        volume: 4.446 × 10<sup>15</sup> km<sup>3</sup><br/>(4104.438 Yrths)
+        mass: 1.030 × 10<sup>28</sup> kg<br />(1723.932 Yrths)
+        density: 2.316 g/cm<sup>3</sup>
+        surface_gravity: 65.949 m/s<sup>2</sup><br />(6.725 g<sub>0</sub>)
+        escape_velocity: 116.071 km/s<br />(417,857 km/h)
+        rotation_period: 43.750 d
+        axial_tilt: 29.42°
+        albedo: 0.30
+        temperature: 99 K<br />(-174 °C)
+      - name: 4110 Kulniad V g
+        type: Icy
+        formationType: Accreted
+        aphelion: 276,447,705 km<br />
+        perihelion: 250,972,193 km<br />
+        semi_major_axis: 263,709,949 km<br />
+        eccentricity: 0.048
+        orbital_period: 0.05 d<br />
+        inclination: 2.57°
+        radius: 145,264.0 km<br/>(22.801 Yrths)
+        surface_area: 2.652 × 10<sup>11</sup> km<sup>2</sup><br/>(519.877 Yrths)
+        volume: 1.284 × 10<sup>16</sup> km<sup>3</sup><br/>(11853.613 Yrths)
+        mass: 9.430 × 10<sup>27</sup> kg<br />(1579.106 Yrths)
+        density: 0.734 g/cm<sup>3</sup>
+        surface_gravity: 29.787 m/s<sup>2</sup><br />(3.037 g<sub>0</sub>)
+        escape_velocity: 93.090 km/s<br />(335,125 km/h)
+        rotation_period: 102.898 d
+        axial_tilt: 22.67°
+        albedo: 0.30
+        temperature: 99 K<br />(-174 °C)
+      - name: 4110 Kulniad V h
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 416,189,963 km<br />
+        perihelion: 285,805,920 km<br />
+        semi_major_axis: 350,997,942 km<br />
+        eccentricity: 0.186
+        orbital_period: 0.05 d<br />
+        inclination: 38.34°
+        radius: 181,294.8 km<br/>(28.456 Yrths)
+        surface_area: 4.130 × 10<sup>11</sup> km<sup>2</sup><br/>(809.758 Yrths)
+        volume: 2.496 × 10<sup>16</sup> km<sup>3</sup><br/>(23042.679 Yrths)
+        mass: 3.994 × 10<sup>28</sup> kg<br />(6687.204 Yrths)
+        density: 1.600 g/cm<sup>3</sup>
+        surface_gravity: 80.986 m/s<sup>2</sup><br />(8.258 g<sub>0</sub>)
+        escape_velocity: 171.478 km/s<br />(617,319 km/h)
+        rotation_period: 49.325 d
+        axial_tilt: 12.91°
+        albedo: 0.30
+        temperature: 99 K<br />(-174 °C)
+      - name: 4110 Kulniad V i
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 458,533,140 km<br />
+        perihelion: 313,662,331 km<br />
+        semi_major_axis: 386,097,736 km<br />
+        eccentricity: 0.188
+        orbital_period: 0.05 d<br />
+        inclination: 89.75°
+        radius: 175,502.4 km<br/>(27.547 Yrths)
+        surface_area: 3.871 × 10<sup>11</sup> km<sup>2</sup><br/>(758.841 Yrths)
+        volume: 2.264 × 10<sup>16</sup> km<sup>3</sup><br/>(20903.855 Yrths)
+        mass: 3.985 × 10<sup>28</sup> kg<br />(6672.729 Yrths)
+        density: 1.760 g/cm<sup>3</sup>
+        surface_gravity: 86.233 m/s<sup>2</sup><br />(8.793 g<sub>0</sub>)
+        escape_velocity: 174.096 km/s<br />(626,744 km/h)
+        rotation_period: 53.819 d
+        axial_tilt: 20.10°
+        albedo: 0.30
+        temperature: 99 K<br />(-174 °C)
+      - name: 4110 Kulniad V j
+        type: Rocky
+        formationType: Accreted
+        aphelion: 524,008,964 km<br />
+        perihelion: 503,783,209 km<br />
+        semi_major_axis: 513,896,086 km<br />
+        eccentricity: 0.020
+        orbital_period: 0.05 d<br />
+        inclination: 2.82°
+        radius: 103,973.8 km<br/>(16.320 Yrths)
+        surface_area: 1.358 × 10<sup>11</sup> km<sup>2</sup><br/>(266.337 Yrths)
+        volume: 4.708 × 10<sup>15</sup> km<sup>3</sup><br/>(4346.587 Yrths)
+        mass: 1.130 × 10<sup>28</sup> kg<br />(1892.131 Yrths)
+        density: 2.400 g/cm<sup>3</sup>
+        surface_gravity: 69.669 m/s<sup>2</sup><br />(7.104 g<sub>0</sub>)
+        escape_velocity: 120.446 km/s<br />(433,605 km/h)
+        rotation_period: 50.961 d
+        axial_tilt: 11.90°
+        albedo: 0.30
+        temperature: 99 K<br />(-174 °C)
 ---

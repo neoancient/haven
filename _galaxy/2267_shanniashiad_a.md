@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2267 Shanniashiad A is a star in the constellation Shannias
+      2267 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1117.28 ly
 apparent_magnitude: 7.14
 absolute_magnitude: -0.53

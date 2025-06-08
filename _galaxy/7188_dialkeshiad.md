@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7188 Dialkeshiad is a star in the constellation Dialkes
+      7188 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 447.01 ly
 apparent_magnitude: 10.04
 absolute_magnitude: 4.35

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5268 Noniashad is a star in the constellation Nonias
+      5268 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 296.94 ly
 apparent_magnitude: 9.43
 absolute_magnitude: 4.63

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      106 Narashiad is a star in the constellation Naras
+      106 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 289.52 ly
 apparent_magnitude: 11.81
 absolute_magnitude: 7.06

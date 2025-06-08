@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1013 Lunaiad is a star in the constellation Luna
+      1013 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 440.42 ly
 apparent_magnitude: 11.04
 absolute_magnitude: 5.39

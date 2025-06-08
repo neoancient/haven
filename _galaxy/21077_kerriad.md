@@ -38,7 +38,7 @@ planets:
     rotation_period: 1.333 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 400 K<br />(127 °C)
+    temperature: 1002 K<br />(728 °C)
     surface_pressure: 111 kPa<br />(1 atm)
     composition:
       - 54.0869% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 7,046.8 km<br/>(1.106 Yrths)
         surface_area: 6.240 × 10<sup>08</sup> km<sup>2</sup><br/>(1.223 Yrths)
         volume: 1.466 × 10<sup>12</sup> km<sup>3</sup><br/>(1.353 Yrths)
-        mass: 2.049 × 10<sup>24</sup> kg<br />
+        mass: 2.049 × 10<sup>24</sup> kg<br />(0.343 Yrths)
         density: 1.398 g/cm<sup>3</sup>
         surface_gravity: 2.750 m/s<sup>2</sup><br />(0.280 g<sub>0</sub>)
         escape_velocity: 6.230 km/s<br />(22,428 km/h)
         rotation_period: 48.632 d
         axial_tilt: 22.31°
         albedo: 0.30
-        temperature: 3908 K<br />(3635 °C)
+        temperature: 319 K<br />(46 °C)
       - name: 21077 Kerriad I b
         type: Rocky
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 3,203.8 km<br/>(0.503 Yrths)
         surface_area: 1.290 × 10<sup>08</sup> km<sup>2</sup><br/>(0.253 Yrths)
         volume: 1.378 × 10<sup>11</sup> km<sup>3</sup><br/>(0.127 Yrths)
-        mass: 3.643 × 10<sup>23</sup> kg<br />
+        mass: 3.643 × 10<sup>23</sup> kg<br />(0.061 Yrths)
         density: 2.644 g/cm<sup>3</sup>
         surface_gravity: 2.365 m/s<sup>2</sup><br />(0.241 g<sub>0</sub>)
         escape_velocity: 3.896 km/s<br />(14,025 km/h)
         rotation_period: 54.499 d
         axial_tilt: 16.74°
         albedo: 0.30
-        temperature: 3726 K<br />(3453 °C)
+        temperature: 319 K<br />(46 °C)
   - name: <a href="niraxis.html">Niraxis</a> (21077 Kerriad II)
     type: Terrestrial
     aphelion: 56,091,271 km<br />0.375 AU
@@ -104,14 +104,14 @@ planets:
     rotation_period: 2.333 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 271 K<br />(-2 °C)
-    surface_pressure: 81 kPa<br />(1 atm)
+    temperature: 278 K<br />(4 °C)
+    surface_pressure: 121 kPa<br />(1 atm)
     composition:
-      - 77.2077% nitrogen
+      - 77.1115% nitrogen
       - 20.4289% oxygen
       - 1.5236% argon
       - 0.8199% hydrogen sulfide
-      - 0.0198% carbon dioxide
+      - 0.1160% carbon dioxide
       - 0.0001% carbon monoxide
     moons:
       - name: Niraxis a
@@ -126,14 +126,14 @@ planets:
         radius: 2,403.2 km<br/>(0.377 Yrths)
         surface_area: 7.258 × 10<sup>07</sup> km<sup>2</sup><br/>(0.142 Yrths)
         volume: 5.814 × 10<sup>10</sup> km<sup>3</sup><br/>(0.054 Yrths)
-        mass: 1.480 × 10<sup>23</sup> kg<br />
+        mass: 1.480 × 10<sup>23</sup> kg<br />(0.025 Yrths)
         density: 2.546 g/cm<sup>3</sup>
         surface_gravity: 1.709 m/s<sup>2</sup><br />(0.174 g<sub>0</sub>)
         escape_velocity: 2.868 km/s<br />(10,323 km/h)
         rotation_period: 44.297 d
         axial_tilt: 17.97°
         albedo: 0.30
-        temperature: 3383 K<br />(3109 °C)
+        temperature: 257 K<br />(-16 °C)
   - name: 21077 Kerriad III
     type: Large terrestrial
     aphelion: 86,693,313 km<br />0.580 AU
@@ -152,7 +152,7 @@ planets:
     rotation_period: 1.092 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 285 K<br />(12 °C)
+    temperature: 820 K<br />(547 °C)
     surface_pressure: 241 kPa<br />(2 atm)
     composition:
       - 79.3920% carbon dioxide
@@ -171,14 +171,14 @@ planets:
         radius: 5,188.4 km<br/>(0.814 Yrths)
         surface_area: 3.383 × 10<sup>08</sup> km<sup>2</sup><br/>(0.663 Yrths)
         volume: 5.850 × 10<sup>11</sup> km<sup>3</sup><br/>(0.540 Yrths)
-        mass: 1.717 × 10<sup>24</sup> kg<br />
+        mass: 1.717 × 10<sup>24</sup> kg<br />(0.287 Yrths)
         density: 2.934 g/cm<sup>3</sup>
         surface_gravity: 4.250 m/s<sup>2</sup><br />(0.433 g<sub>0</sub>)
         escape_velocity: 6.645 km/s<br />(23,924 km/h)
         rotation_period: 31.911 d
         axial_tilt: 20.89°
         albedo: 0.30
-        temperature: 2896 K<br />(2623 °C)
+        temperature: 208 K<br />(-65 °C)
       - name: 21077 Kerriad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -191,14 +191,14 @@ planets:
         radius: 5,182.1 km<br/>(0.813 Yrths)
         surface_area: 3.375 × 10<sup>08</sup> km<sup>2</sup><br/>(0.662 Yrths)
         volume: 5.829 × 10<sup>11</sup> km<sup>3</sup><br/>(0.538 Yrths)
-        mass: 1.577 × 10<sup>24</sup> kg<br />
+        mass: 1.577 × 10<sup>24</sup> kg<br />(0.264 Yrths)
         density: 2.706 g/cm<sup>3</sup>
         surface_gravity: 3.915 m/s<sup>2</sup><br />(0.399 g<sub>0</sub>)
         escape_velocity: 6.375 km/s<br />(22,948 km/h)
         rotation_period: 46.530 d
         axial_tilt: 20.71°
         albedo: 0.30
-        temperature: 2761 K<br />(2488 °C)
+        temperature: 208 K<br />(-65 °C)
   - name: 21077 Kerriad IV
     type: Terrestrial
     aphelion: 133,462,046 km<br />0.892 AU
@@ -217,7 +217,7 @@ planets:
     rotation_period: 1.335 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 178 K<br />(-95 °C)
+    temperature: 270 K<br />(-3 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 79.0846% methane
@@ -238,14 +238,14 @@ planets:
         radius: 1,604.8 km<br/>(0.252 Yrths)
         surface_area: 3.236 × 10<sup>07</sup> km<sup>2</sup><br/>(0.063 Yrths)
         volume: 1.731 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
-        mass: 4.180 × 10<sup>22</sup> kg<br />
+        mass: 4.180 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 2.414 g/cm<sup>3</sup>
         surface_gravity: 1.082 m/s<sup>2</sup><br />(0.110 g<sub>0</sub>)
         escape_velocity: 1.865 km/s<br />(6,712 km/h)
         rotation_period: 43.943 d
         axial_tilt: 29.82°
         albedo: 0.30
-        temperature: 2306 K<br />(2033 °C)
+        temperature: 168 K<br />(-106 °C)
       - name: 21077 Kerriad IV b
         type: Icy
         formationType: Impact formed
@@ -258,14 +258,14 @@ planets:
         radius: 2,643.3 km<br/>(0.415 Yrths)
         surface_area: 8.780 × 10<sup>07</sup> km<sup>2</sup><br/>(0.172 Yrths)
         volume: 7.736 × 10<sup>10</sup> km<sup>3</sup><br/>(0.071 Yrths)
-        mass: 6.275 × 10<sup>22</sup> kg<br />
+        mass: 6.275 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 0.811 g/cm<sup>3</sup>
         surface_gravity: 0.599 m/s<sup>2</sup><br />(0.061 g<sub>0</sub>)
         escape_velocity: 1.780 km/s<br />(6,408 km/h)
         rotation_period: 63.852 d
         axial_tilt: 13.03°
         albedo: 0.30
-        temperature: 2198 K<br />(1925 °C)
+        temperature: 168 K<br />(-106 °C)
   - name: 21077 Kerriad V
     type: Large terrestrial
     aphelion: 206,832,583 km<br />1.383 AU
@@ -298,14 +298,14 @@ planets:
         radius: 6,185.6 km<br/>(0.971 Yrths)
         surface_area: 4.808 × 10<sup>08</sup> km<sup>2</sup><br/>(0.943 Yrths)
         volume: 9.913 × 10<sup>11</sup> km<sup>3</sup><br/>(0.915 Yrths)
-        mass: 1.884 × 10<sup>24</sup> kg<br />
+        mass: 1.884 × 10<sup>24</sup> kg<br />(0.315 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 3.281 m/s<sup>2</sup><br />(0.335 g<sub>0</sub>)
         escape_velocity: 6.376 km/s<br />(22,952 km/h)
         rotation_period: 45.349 d
         axial_tilt: 24.63°
         albedo: 0.30
-        temperature: 1532 K<br />(1259 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 21077 Kerriad V b
         type: Icy
         formationType: Captured
@@ -318,12 +318,12 @@ planets:
         radius: 7,002.4 km<br/>(1.099 Yrths)
         surface_area: 6.162 × 10<sup>08</sup> km<sup>2</sup><br/>(1.208 Yrths)
         volume: 1.438 × 10<sup>12</sup> km<sup>3</sup><br/>(1.328 Yrths)
-        mass: 1.807 × 10<sup>24</sup> kg<br />
+        mass: 1.807 × 10<sup>24</sup> kg<br />(0.303 Yrths)
         density: 1.256 g/cm<sup>3</sup>
         surface_gravity: 2.456 m/s<sup>2</sup><br />(0.250 g<sub>0</sub>)
         escape_velocity: 5.869 km/s<br />(21,129 km/h)
         rotation_period: 53.718 d
         axial_tilt: 12.58°
         albedo: 0.30
-        temperature: 1461 K<br />(1188 °C)
+        temperature: 135 K<br />(-138 °C)
 ---

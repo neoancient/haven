@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3024 Dialkeshiad A is a star in the constellation Dialkes
+      3024 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 202.99 ly
 apparent_magnitude: 10.26
 absolute_magnitude: 6.29

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Eshie is a star in the constellation Nignus
+      Eshie is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 591.49 ly
 apparent_magnitude: 0.03
 absolute_magnitude: -6.26

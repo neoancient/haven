@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4279 Noniashad is a star in the constellation Nonias
+      4279 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 622.52 ly
 apparent_magnitude: 7.49
 absolute_magnitude: 1.09
@@ -31,7 +31,7 @@ planets:
     radius: 273.1 km<br/>(0.043 Yrths)
     surface_area: 9.370 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 8.529 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.006 × 10<sup>27</sup> kg<br />(670.8281618278834 Yrths)
+    mass: 4.006 × 10<sup>27</sup> kg<br />(670.83 Yrths)
     density: 46972732.953 g/cm<sup>3</sup>
     surface_gravity: 3581096.911 m/s<sup>2</sup><br />(365170.258 g<sub>0</sub>)
     escape_velocity: 1399.428 km/s<br />(5,037,942 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 658,634.4 km<br/>(103.380 Yrths)
         surface_area: 5.451 × 10<sup>12</sup> km<sup>2</sup><br/>(10687.440 Yrths)
         volume: 1.197 × 10<sup>18</sup> km<sup>3</sup><br/>(1104868.289 Yrths)
-        mass: 1.192 × 10<sup>30</sup> kg<br />(670.8281618278834 Yrths)
+        mass: 1.192 × 10<sup>30</sup> kg<br />(199527.519 Yrths)
         density: 0.996 g/cm<sup>3</sup>
         surface_gravity: 183.084 m/s<sup>2</sup><br />(18.669 g<sub>0</sub>)
         escape_velocity: 491.425 km/s<br />(1,769,129 km/h)
         rotation_period: 61.332 d
         axial_tilt: 17.17°
         albedo: 0.30
-        temperature: 485 K<br />(212 °C)
+        temperature: 256 K<br />(-18 °C)
       - name: 4279 Noniashad I b
         type: Icy
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 627,203.5 km<br/>(98.447 Yrths)
         surface_area: 4.943 × 10<sup>12</sup> km<sup>2</sup><br/>(9691.740 Yrths)
         volume: 1.034 × 10<sup>18</sup> km<sup>3</sup><br/>(954119.177 Yrths)
-        mass: 1.404 × 10<sup>30</sup> kg<br />(670.8281618278834 Yrths)
+        mass: 1.404 × 10<sup>30</sup> kg<br />(235142.475 Yrths)
         density: 1.359 g/cm<sup>3</sup>
         surface_gravity: 237.930 m/s<sup>2</sup><br />(24.262 g<sub>0</sub>)
         escape_velocity: 546.687 km/s<br />(1,968,075 km/h)
         rotation_period: 65.409 d
         axial_tilt: 15.97°
         albedo: 0.30
-        temperature: 462 K<br />(189 °C)
+        temperature: 256 K<br />(-18 °C)
       - name: 4279 Noniashad I c
         type: Icy
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 340,322.9 km<br/>(53.417 Yrths)
         surface_area: 1.455 × 10<sup>12</sup> km<sup>2</sup><br/>(2853.429 Yrths)
         volume: 1.651 × 10<sup>17</sup> km<sup>3</sup><br/>(152423.028 Yrths)
-        mass: 1.958 × 10<sup>29</sup> kg<br />(670.8281618278834 Yrths)
+        mass: 1.958 × 10<sup>29</sup> kg<br />(32792.564 Yrths)
         density: 1.186 g/cm<sup>3</sup>
         surface_gravity: 112.701 m/s<sup>2</sup><br />(11.492 g<sub>0</sub>)
         escape_velocity: 277.153 km/s<br />(997,751 km/h)
         rotation_period: 69.105 d
         axial_tilt: 18.46°
         albedo: 0.30
-        temperature: 331 K<br />(58 °C)
+        temperature: 256 K<br />(-18 °C)
       - name: 4279 Noniashad I d
         type: Dwarf planet
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 433,728.2 km<br/>(68.079 Yrths)
         surface_area: 2.364 × 10<sup>12</sup> km<sup>2</sup><br/>(4634.684 Yrths)
         volume: 3.418 × 10<sup>17</sup> km<sup>3</sup><br/>(315522.410 Yrths)
-        mass: 4.101 × 10<sup>29</sup> kg<br />(670.8281618278834 Yrths)
+        mass: 4.101 × 10<sup>29</sup> kg<br />(68675.698 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 145.313 m/s<sup>2</sup><br />(14.818 g<sub>0</sub>)
         escape_velocity: 355.280 km/s<br />(1,279,007 km/h)
         rotation_period: 88.212 d
         axial_tilt: 10.88°
         albedo: 0.30
-        temperature: 316 K<br />(43 °C)
+        temperature: 256 K<br />(-18 °C)
       - name: 4279 Noniashad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 295,181.7 km<br/>(46.332 Yrths)
         surface_area: 1.095 × 10<sup>12</sup> km<sup>2</sup><br/>(2146.662 Yrths)
         volume: 1.077 × 10<sup>17</sup> km<sup>3</sup><br/>(99459.351 Yrths)
-        mass: 2.110 × 10<sup>29</sup> kg<br />(670.8281618278834 Yrths)
+        mass: 2.110 × 10<sup>29</sup> kg<br />(35333.631 Yrths)
         density: 1.959 g/cm<sup>3</sup>
         surface_gravity: 161.415 m/s<sup>2</sup><br />(16.460 g<sub>0</sub>)
         escape_velocity: 308.907 km/s<br />(1,112,064 km/h)
         rotation_period: 62.664 d
         axial_tilt: 19.48°
         albedo: 0.30
-        temperature: 274 K<br />(1 °C)
+        temperature: 256 K<br />(-18 °C)
       - name: 4279 Noniashad I f
         type: Rocky
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 245,752.8 km<br/>(38.574 Yrths)
         surface_area: 7.589 × 10<sup>11</sup> km<sup>2</sup><br/>(1487.927 Yrths)
         volume: 6.217 × 10<sup>16</sup> km<sup>3</sup><br/>(57394.778 Yrths)
-        mass: 2.238 × 10<sup>29</sup> kg<br />(670.8281618278834 Yrths)
+        mass: 2.238 × 10<sup>29</sup> kg<br />(37477.146 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 247.005 m/s<sup>2</sup><br />(25.187 g<sub>0</sub>)
         escape_velocity: 348.668 km/s<br />(1,255,204 km/h)
         rotation_period: 40.915 d
         axial_tilt: 20.73°
         albedo: 0.30
-        temperature: 249 K<br />(-24 °C)
+        temperature: 256 K<br />(-18 °C)
       - name: 4279 Noniashad I g
         type: Icy
         formationType: Captured
@@ -172,14 +172,14 @@ planets:
         radius: 382,443.0 km<br/>(60.029 Yrths)
         surface_area: 1.838 × 10<sup>12</sup> km<sup>2</sup><br/>(3603.448 Yrths)
         volume: 2.343 × 10<sup>17</sup> km<sup>3</sup><br/>(216310.405 Yrths)
-        mass: 2.162 × 10<sup>29</sup> kg<br />(670.8281618278834 Yrths)
+        mass: 2.162 × 10<sup>29</sup> kg<br />(36200.237 Yrths)
         density: 0.923 g/cm<sup>3</sup>
         surface_gravity: 98.518 m/s<sup>2</sup><br />(10.046 g<sub>0</sub>)
         escape_velocity: 274.695 km/s<br />(988,900 km/h)
         rotation_period: 95.793 d
         axial_tilt: 21.46°
         albedo: 0.30
-        temperature: 155 K<br />(-119 °C)
+        temperature: 256 K<br />(-18 °C)
       - name: 4279 Noniashad I h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -192,12 +192,12 @@ planets:
         radius: 340,302.2 km<br/>(53.414 Yrths)
         surface_area: 1.455 × 10<sup>12</sup> km<sup>2</sup><br/>(2853.083 Yrths)
         volume: 1.651 × 10<sup>17</sup> km<sup>3</sup><br/>(152395.319 Yrths)
-        mass: 3.086 × 10<sup>29</sup> kg<br />(670.8281618278834 Yrths)
+        mass: 3.086 × 10<sup>29</sup> kg<br />(51667.255 Yrths)
         density: 1.869 g/cm<sup>3</sup>
         surface_gravity: 177.591 m/s<sup>2</sup><br />(18.109 g<sub>0</sub>)
         escape_velocity: 347.899 km/s<br />(1,252,436 km/h)
         rotation_period: 50.185 d
         axial_tilt: 26.55°
         albedo: 0.30
-        temperature: 134 K<br />(-139 °C)
+        temperature: 256 K<br />(-18 °C)
 ---

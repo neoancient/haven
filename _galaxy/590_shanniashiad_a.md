@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      590 Shanniashiad A is a star in the constellation Shannias
+      590 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 395.67 ly
 apparent_magnitude: 8.11
 absolute_magnitude: 2.69

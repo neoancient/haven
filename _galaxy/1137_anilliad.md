@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1137 Anilliad is a star in the constellation Anil
+      1137 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 527.47 ly
 apparent_magnitude: 10.80
 absolute_magnitude: 4.76

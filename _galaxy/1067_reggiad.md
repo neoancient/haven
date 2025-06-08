@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1067 Reggiad is a star in the constellation Reg
+      1067 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 824.69 ly
 apparent_magnitude: 11.65
 absolute_magnitude: 4.64

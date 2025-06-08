@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2886 Niniunniad A is a star in the constellation Niniun
+      2886 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 296.60 ly
 apparent_magnitude: 8.17
 absolute_magnitude: 3.38

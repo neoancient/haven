@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10769 Arkothiad is a star in the constellation Arkoth
+      10769 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 534.23 ly
 apparent_magnitude: 8.65
 absolute_magnitude: 2.58

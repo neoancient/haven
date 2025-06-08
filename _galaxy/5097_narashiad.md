@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5097 Narashiad is a star in the constellation Naras
+      5097 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 401.85 ly
 apparent_magnitude: 13.35
 absolute_magnitude: 7.90

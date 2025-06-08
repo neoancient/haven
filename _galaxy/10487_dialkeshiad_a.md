@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10487 Dialkeshiad A is a star in the constellation Dialkes
+      10487 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 357.22 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 2.33

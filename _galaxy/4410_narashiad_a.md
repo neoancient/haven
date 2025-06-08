@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4410 Narashiad A is a star in the constellation Naras
+      4410 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 919.81 ly
 apparent_magnitude: 6.79
 absolute_magnitude: -0.46

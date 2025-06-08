@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4795 Geardiad is a star in the constellation Geard
+      4795 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1020.15 ly
 apparent_magnitude: 9.44
 absolute_magnitude: 1.96

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nyulan C is a star in the constellation Kuln
+      Nyulan C is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 737.67 ly
 apparent_magnitude: 9.16
 absolute_magnitude: 2.39

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1123 Arkothiad A is a star in the constellation Arkoth
+      1123 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 575.05 ly
 apparent_magnitude: 7.41
 absolute_magnitude: 1.18

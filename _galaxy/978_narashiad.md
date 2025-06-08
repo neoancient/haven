@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      978 Narashiad is a star in the constellation Naras
+      978 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 421.79 ly
 apparent_magnitude: 10.26
 absolute_magnitude: 4.70

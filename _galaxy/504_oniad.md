@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      504 Oniad is a star in the constellation Oni
+      504 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 261.38 ly
 apparent_magnitude: 9.89
 absolute_magnitude: 5.37

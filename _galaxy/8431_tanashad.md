@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8431 Tanashad is a star in the constellation Tanas
+      8431 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 193.68 ly
 apparent_magnitude: 8.26
 absolute_magnitude: 4.39

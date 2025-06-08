@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Ishgakkiad A is a star in the constellation Ishgak
+      ν Ishgakkiad A is a star in the constellation <a href="ishgak.html">Ishgak</a>
 distance: 47.67 ly
 apparent_magnitude: 7.06
 absolute_magnitude: 6.23

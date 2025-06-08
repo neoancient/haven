@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1289 Keead is a star in the constellation Kee
+      1289 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 400.11 ly
 apparent_magnitude: 11.34
 absolute_magnitude: 5.90

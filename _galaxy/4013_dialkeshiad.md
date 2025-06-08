@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4013 Dialkeshiad is a star in the constellation Dialkes
+      4013 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 291.54 ly
 apparent_magnitude: 11.60
 absolute_magnitude: 6.84

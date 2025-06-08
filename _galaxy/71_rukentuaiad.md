@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      71 Rukentuaiad is a star in the constellation Rukentua
+      71 Rukentuaiad is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 307.43 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 5.11

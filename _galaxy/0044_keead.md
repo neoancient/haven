@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0044 Keead is a star in the constellation Kee
+      0044 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 54.19 ly
 apparent_magnitude: 6.45
 absolute_magnitude: 5.34
@@ -31,14 +31,14 @@ planets:
     radius: 5,176.2 km<br/>(0.812 Yrths)
     surface_area: 3.367 × 10<sup>08</sup> km<sup>2</sup><br/>(0.660 Yrths)
     volume: 5.809 × 10<sup>11</sup> km<sup>3</sup><br/>(0.536 Yrths)
-    mass: 3.608 × 10<sup>24</sup> kg<br />(0.6040909691475381 Yrths)
+    mass: 3.608 × 10<sup>24</sup> kg<br />(0.60 Yrths)
     density: 6.210 g/cm<sup>3</sup>
     surface_gravity: 8.975 m/s<sup>2</sup><br />(0.915 g<sub>0</sub>)
     escape_velocity: 9.645 km/s<br />(34,724 km/h)
     rotation_period: 1.617 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 372 K<br />(99 °C)
+    temperature: 431 K<br />(158 °C)
     surface_pressure: 25 kPa<br />(0 atm)
     composition:
       - 83.3251% nitrogen
@@ -60,14 +60,14 @@ planets:
         radius: 1,546.3 km<br/>(0.243 Yrths)
         surface_area: 3.005 × 10<sup>07</sup> km<sup>2</sup><br/>(0.059 Yrths)
         volume: 1.549 × 10<sup>10</sup> km<sup>3</sup><br/>(0.014 Yrths)
-        mass: 5.076 × 10<sup>22</sup> kg<br />(0.6040909691475381 Yrths)
+        mass: 5.076 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 3.277 g/cm<sup>3</sup>
         surface_gravity: 1.415 m/s<sup>2</sup><br />(0.144 g<sub>0</sub>)
         escape_velocity: 2.093 km/s<br />(7,536 km/h)
         rotation_period: 28.716 d
         axial_tilt: 12.21°
         albedo: 0.30
-        temperature: 5050 K<br />(4776 °C)
+        temperature: 326 K<br />(53 °C)
   - name: 0044 Keead II
     type: Ice giant
     aphelion: 150,872,931 km<br />1.009 AU
@@ -79,14 +79,14 @@ planets:
     radius: 25,219.2 km<br/>(3.958 Yrths)
     surface_area: 7.992 × 10<sup>09</sup> km<sup>2</sup><br/>(15.669 Yrths)
     volume: 6.719 × 10<sup>13</sup> km<sup>3</sup><br/>(62.026 Yrths)
-    mass: 1.090 × 10<sup>26</sup> kg<br />(18.25036096279648 Yrths)
+    mass: 1.090 × 10<sup>26</sup> kg<br />(18.25 Yrths)
     density: 1.622 g/cm<sup>3</sup>
     surface_gravity: 11.422 m/s<sup>2</sup><br />(1.165 g<sub>0</sub>)
     escape_velocity: 24.019 km/s<br />(86,467 km/h)
     rotation_period: 0.456 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 439 K<br />(166 °C)
+    temperature: 393 K<br />(120 °C)
     composition:
       - 76.9476% hydrogen
       - 21.0577% helium
@@ -104,14 +104,14 @@ planets:
         radius: 19,421.0 km<br/>(3.048 Yrths)
         surface_area: 4.740 × 10<sup>09</sup> km<sup>2</sup><br/>(9.292 Yrths)
         volume: 3.068 × 10<sup>13</sup> km<sup>3</sup><br/>(28.326 Yrths)
-        mass: 7.364 × 10<sup>25</sup> kg<br />(18.25036096279648 Yrths)
+        mass: 7.364 × 10<sup>25</sup> kg<br />(12.331 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 13.013 m/s<sup>2</sup><br />(1.327 g<sub>0</sub>)
         escape_velocity: 22.498 km/s<br />(80,992 km/h)
         rotation_period: 43.643 d
         axial_tilt: 19.54°
         albedo: 0.30
-        temperature: 2122 K<br />(1849 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0044 Keead II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -124,14 +124,14 @@ planets:
         radius: 18,331.4 km<br/>(2.877 Yrths)
         surface_area: 4.223 × 10<sup>09</sup> km<sup>2</sup><br/>(8.279 Yrths)
         volume: 2.580 × 10<sup>13</sup> km<sup>3</sup><br/>(23.821 Yrths)
-        mass: 6.515 × 10<sup>25</sup> kg<br />(18.25036096279648 Yrths)
+        mass: 6.515 × 10<sup>25</sup> kg<br />(10.910 Yrths)
         density: 2.525 g/cm<sup>3</sup>
         surface_gravity: 12.923 m/s<sup>2</sup><br />(1.318 g<sub>0</sub>)
         escape_velocity: 21.781 km/s<br />(78,413 km/h)
         rotation_period: 32.066 d
         axial_tilt: 18.69°
         albedo: 0.30
-        temperature: 2023 K<br />(1750 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0044 Keead II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -144,14 +144,14 @@ planets:
         radius: 23,529.8 km<br/>(3.693 Yrths)
         surface_area: 6.957 × 10<sup>09</sup> km<sup>2</sup><br/>(13.640 Yrths)
         volume: 5.457 × 10<sup>13</sup> km<sup>3</sup><br/>(50.377 Yrths)
-        mass: 1.378 × 10<sup>26</sup> kg<br />(18.25036096279648 Yrths)
+        mass: 1.378 × 10<sup>26</sup> kg<br />(23.069 Yrths)
         density: 2.525 g/cm<sup>3</sup>
         surface_gravity: 16.586 m/s<sup>2</sup><br />(1.691 g<sub>0</sub>)
         escape_velocity: 27.957 km/s<br />(100,644 km/h)
         rotation_period: 43.187 d
         axial_tilt: 28.15°
         albedo: 0.30
-        temperature: 1929 K<br />(1656 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0044 Keead II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -164,14 +164,14 @@ planets:
         radius: 16,158.9 km<br/>(2.536 Yrths)
         surface_area: 3.281 × 10<sup>09</sup> km<sup>2</sup><br/>(6.433 Yrths)
         volume: 1.767 × 10<sup>13</sup> km<sup>3</sup><br/>(16.316 Yrths)
-        mass: 4.002 × 10<sup>25</sup> kg<br />(18.25036096279648 Yrths)
+        mass: 4.002 × 10<sup>25</sup> kg<br />(6.701 Yrths)
         density: 2.264 g/cm<sup>3</sup>
         surface_gravity: 10.215 m/s<sup>2</sup><br />(1.042 g<sub>0</sub>)
         escape_velocity: 18.182 km/s<br />(65,454 km/h)
         rotation_period: 59.569 d
         axial_tilt: 24.89°
         albedo: 0.30
-        temperature: 1754 K<br />(1481 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0044 Keead II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -184,14 +184,14 @@ planets:
         radius: 30,689.5 km<br/>(4.817 Yrths)
         surface_area: 1.184 × 10<sup>10</sup> km<sup>2</sup><br/>(23.204 Yrths)
         volume: 1.211 × 10<sup>14</sup> km<sup>3</sup><br/>(111.775 Yrths)
-        mass: 2.218 × 10<sup>26</sup> kg<br />(18.25036096279648 Yrths)
+        mass: 2.218 × 10<sup>26</sup> kg<br />(37.133 Yrths)
         density: 1.832 g/cm<sup>3</sup>
         surface_gravity: 15.693 m/s<sup>2</sup><br />(1.600 g<sub>0</sub>)
         escape_velocity: 31.057 km/s<br />(111,805 km/h)
         rotation_period: 63.070 d
         axial_tilt: 12.97°
         albedo: 0.30
-        temperature: 1672 K<br />(1399 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0044 Keead II f
         type: Icy
         formationType: Impact formed
@@ -204,14 +204,14 @@ planets:
         radius: 15,403.2 km<br/>(2.418 Yrths)
         surface_area: 2.981 × 10<sup>09</sup> km<sup>2</sup><br/>(5.845 Yrths)
         volume: 1.531 × 10<sup>13</sup> km<sup>3</sup><br/>(14.132 Yrths)
-        mass: 2.287 × 10<sup>25</sup> kg<br />(18.25036096279648 Yrths)
+        mass: 2.287 × 10<sup>25</sup> kg<br />(3.829 Yrths)
         density: 1.494 g/cm<sup>3</sup>
         surface_gravity: 6.424 m/s<sup>2</sup><br />(0.655 g<sub>0</sub>)
         escape_velocity: 14.077 km/s<br />(50,676 km/h)
         rotation_period: 44.953 d
         axial_tilt: 17.28°
         albedo: 0.30
-        temperature: 1594 K<br />(1321 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0044 Keead II g
         type: Icy
         formationType: Accreted
@@ -224,14 +224,14 @@ planets:
         radius: 11,880.7 km<br/>(1.865 Yrths)
         surface_area: 1.774 × 10<sup>09</sup> km<sup>2</sup><br/>(3.478 Yrths)
         volume: 7.024 × 10<sup>12</sup> km<sup>3</sup><br/>(6.485 Yrths)
-        mass: 8.598 × 10<sup>24</sup> kg<br />(18.25036096279648 Yrths)
+        mass: 8.598 × 10<sup>24</sup> kg<br />(1.440 Yrths)
         density: 1.224 g/cm<sup>3</sup>
         surface_gravity: 4.060 m/s<sup>2</sup><br />(0.414 g<sub>0</sub>)
         escape_velocity: 9.829 km/s<br />(35,384 km/h)
         rotation_period: 58.498 d
         axial_tilt: 10.57°
         albedo: 0.30
-        temperature: 1520 K<br />(1247 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0044 Keead II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -244,14 +244,14 @@ planets:
         radius: 16,818.7 km<br/>(2.640 Yrths)
         surface_area: 3.555 × 10<sup>09</sup> km<sup>2</sup><br/>(6.969 Yrths)
         volume: 1.993 × 10<sup>13</sup> km<sup>3</sup><br/>(18.397 Yrths)
-        mass: 4.250 × 10<sup>25</sup> kg<br />(18.25036096279648 Yrths)
+        mass: 4.250 × 10<sup>25</sup> kg<br />(7.116 Yrths)
         density: 2.133 g/cm<sup>3</sup>
         surface_gravity: 10.014 m/s<sup>2</sup><br />(1.021 g<sub>0</sub>)
         escape_velocity: 18.366 km/s<br />(66,117 km/h)
         rotation_period: 45.906 d
         axial_tilt: 14.93°
         albedo: 0.30
-        temperature: 1449 K<br />(1176 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: 0044 Keead III
     type: Terrestrial
     aphelion: 223,983,890 km<br />1.497 AU
@@ -263,7 +263,7 @@ planets:
     radius: 6,035.7 km<br/>(0.947 Yrths)
     surface_area: 4.578 × 10<sup>08</sup> km<sup>2</sup><br/>(0.898 Yrths)
     volume: 9.210 × 10<sup>11</sup> km<sup>3</sup><br/>(0.850 Yrths)
-    mass: 4.397 × 10<sup>24</sup> kg<br />(0.7361912989629356 Yrths)
+    mass: 4.397 × 10<sup>24</sup> kg<br />(0.74 Yrths)
     density: 4.773 g/cm<sup>3</sup>
     surface_gravity: 8.044 m/s<sup>2</sup><br />(0.820 g<sub>0</sub>)
     escape_velocity: 9.861 km/s<br />(35,499 km/h)
@@ -284,14 +284,14 @@ planets:
         radius: 3,129.0 km<br/>(0.491 Yrths)
         surface_area: 1.230 × 10<sup>08</sup> km<sup>2</sup><br/>(0.241 Yrths)
         volume: 1.283 × 10<sup>11</sup> km<sup>3</sup><br/>(0.118 Yrths)
-        mass: 1.789 × 10<sup>23</sup> kg<br />(0.7361912989629356 Yrths)
+        mass: 1.789 × 10<sup>23</sup> kg<br />(0.030 Yrths)
         density: 1.394 g/cm<sup>3</sup>
         surface_gravity: 1.218 m/s<sup>2</sup><br />(0.124 g<sub>0</sub>)
         escape_velocity: 2.762 km/s<br />(9,945 km/h)
         rotation_period: 53.590 d
         axial_tilt: 8.66°
         albedo: 0.30
-        temperature: 2767 K<br />(2494 °C)
+        temperature: 190 K<br />(-83 °C)
   - name: 0044 Keead IV
     type: Gas giant
     aphelion: 384,069,558 km<br />2.567 AU
@@ -303,7 +303,7 @@ planets:
     radius: 187.1 km<br/>(0.029 Yrths)
     surface_area: 4.398 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.743 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.573 × 10<sup>26</sup> kg<br />(126.80776303175658 Yrths)
+    mass: 7.573 × 10<sup>26</sup> kg<br />(126.81 Yrths)
     density: 27610407.454 g/cm<sup>3</sup>
     surface_gravity: 1442156.030 m/s<sup>2</sup><br />(147058.989 g<sub>0</sub>)
     escape_velocity: 735.078 km/s<br />(2,646,280 km/h)
@@ -324,14 +324,14 @@ planets:
         radius: 91,111.9 km<br/>(14.301 Yrths)
         surface_area: 1.043 × 10<sup>11</sup> km<sup>2</sup><br/>(204.520 Yrths)
         volume: 3.168 × 10<sup>15</sup> km<sup>3</sup><br/>(2924.847 Yrths)
-        mass: 7.571 × 10<sup>27</sup> kg<br />(126.80776303175658 Yrths)
+        mass: 7.571 × 10<sup>27</sup> kg<br />(1267.780 Yrths)
         density: 2.390 g/cm<sup>3</sup>
         surface_gravity: 60.790 m/s<sup>2</sup><br />(6.199 g<sub>0</sub>)
         escape_velocity: 105.320 km/s<br />(379,153 km/h)
         rotation_period: 39.598 d
         axial_tilt: 24.29°
         albedo: 0.30
-        temperature: 777 K<br />(503 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0044 Keead IV b
         type: Icy
         formationType: Impact formed
@@ -344,14 +344,14 @@ planets:
         radius: 168,972.7 km<br/>(26.522 Yrths)
         surface_area: 3.588 × 10<sup>11</sup> km<sup>2</sup><br/>(703.425 Yrths)
         volume: 2.021 × 10<sup>16</sup> km<sup>3</sup><br/>(18656.369 Yrths)
-        mass: 2.110 × 10<sup>28</sup> kg<br />(126.80776303175658 Yrths)
+        mass: 2.110 × 10<sup>28</sup> kg<br />(3532.847 Yrths)
         density: 1.044 g/cm<sup>3</sup>
         surface_gravity: 49.252 m/s<sup>2</sup><br />(5.022 g<sub>0</sub>)
         escape_velocity: 129.102 km/s<br />(464,766 km/h)
         rotation_period: 49.911 d
         axial_tilt: 11.17°
         albedo: 0.30
-        temperature: 673 K<br />(400 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0044 Keead IV c
         type: Icy
         formationType: Accreted
@@ -364,14 +364,14 @@ planets:
         radius: 132,483.2 km<br/>(20.795 Yrths)
         surface_area: 2.206 × 10<sup>11</sup> km<sup>2</sup><br/>(432.421 Yrths)
         volume: 9.740 × 10<sup>15</sup> km<sup>3</sup><br/>(8992.072 Yrths)
-        mass: 1.069 × 10<sup>28</sup> kg<br />(126.80776303175658 Yrths)
+        mass: 1.069 × 10<sup>28</sup> kg<br />(1789.790 Yrths)
         density: 1.097 g/cm<sup>3</sup>
         surface_gravity: 40.590 m/s<sup>2</sup><br />(4.139 g<sub>0</sub>)
         escape_velocity: 103.776 km/s<br />(373,595 km/h)
         rotation_period: 73.965 d
         axial_tilt: 19.83°
         albedo: 0.30
-        temperature: 285 K<br />(12 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0044 Keead IV d
         type: Icy
         formationType: Accreted
@@ -384,14 +384,14 @@ planets:
         radius: 143,982.9 km<br/>(22.600 Yrths)
         surface_area: 2.605 × 10<sup>11</sup> km<sup>2</sup><br/>(510.748 Yrths)
         volume: 1.250 × 10<sup>16</sup> km<sup>3</sup><br/>(11542.778 Yrths)
-        mass: 1.079 × 10<sup>28</sup> kg<br />(126.80776303175658 Yrths)
+        mass: 1.079 × 10<sup>28</sup> kg<br />(1806.522 Yrths)
         density: 0.863 g/cm<sup>3</sup>
         surface_gravity: 34.686 m/s<sup>2</sup><br />(3.537 g<sub>0</sub>)
         escape_velocity: 100.010 km/s<br />(360,036 km/h)
         rotation_period: 85.899 d
         axial_tilt: 16.12°
         albedo: 0.30
-        temperature: 127 K<br />(-146 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0044 Keead IV e
         type: Icy
         formationType: Captured
@@ -404,14 +404,14 @@ planets:
         radius: 110,784.8 km<br/>(17.389 Yrths)
         surface_area: 1.542 × 10<sup>11</sup> km<sup>2</sup><br/>(302.374 Yrths)
         volume: 5.695 × 10<sup>15</sup> km<sup>3</sup><br/>(5257.959 Yrths)
-        mass: 8.176 × 10<sup>27</sup> kg<br />(126.80776303175658 Yrths)
+        mass: 8.176 × 10<sup>27</sup> kg<br />(1369.118 Yrths)
         density: 1.436 g/cm<sup>3</sup>
         surface_gravity: 44.403 m/s<sup>2</sup><br />(4.528 g<sub>0</sub>)
         escape_velocity: 99.256 km/s<br />(357,323 km/h)
         rotation_period: 54.975 d
         axial_tilt: 17.80°
         albedo: 0.30
-        temperature: 121 K<br />(-152 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0044 Keead IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -424,14 +424,14 @@ planets:
         radius: 103,044.4 km<br/>(16.174 Yrths)
         surface_area: 1.334 × 10<sup>11</sup> km<sup>2</sup><br/>(261.598 Yrths)
         volume: 4.583 × 10<sup>15</sup> km<sup>3</sup><br/>(4231.077 Yrths)
-        mass: 8.673 × 10<sup>27</sup> kg<br />(126.80776303175658 Yrths)
+        mass: 8.673 × 10<sup>27</sup> kg<br />(1452.321 Yrths)
         density: 1.892 g/cm<sup>3</sup>
         surface_gravity: 54.444 m/s<sup>2</sup><br />(5.552 g<sub>0</sub>)
         escape_velocity: 105.998 km/s<br />(381,592 km/h)
         rotation_period: 38.224 d
         axial_tilt: 18.01°
         albedo: 0.30
-        temperature: 95 K<br />(-178 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0044 Keead IV g
         type: Icy
         formationType: Captured
@@ -444,14 +444,14 @@ planets:
         radius: 104,397.1 km<br/>(16.386 Yrths)
         surface_area: 1.370 × 10<sup>11</sup> km<sup>2</sup><br/>(268.511 Yrths)
         volume: 4.766 × 10<sup>15</sup> km<sup>3</sup><br/>(4399.897 Yrths)
-        mass: 8.394 × 10<sup>27</sup> kg<br />(126.80776303175658 Yrths)
+        mass: 8.394 × 10<sup>27</sup> kg<br />(1405.592 Yrths)
         density: 1.761 g/cm<sup>3</sup>
         surface_gravity: 51.336 m/s<sup>2</sup><br />(5.235 g<sub>0</sub>)
         escape_velocity: 103.601 km/s<br />(372,963 km/h)
         rotation_period: 53.419 d
         axial_tilt: 16.92°
         albedo: 0.30
-        temperature: 65 K<br />(-208 °C)
+        temperature: 145 K<br />(-128 °C)
   - name: 0044 Keead V
     type: Gas giant
     aphelion: 708,745,596 km<br />4.738 AU
@@ -463,7 +463,7 @@ planets:
     radius: 204.5 km<br/>(0.032 Yrths)
     surface_area: 5.253 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.580 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.106 × 10<sup>27</sup> kg<br />(185.22474297771 Yrths)
+    mass: 1.106 × 10<sup>27</sup> kg<br />(185.22 Yrths)
     density: 30894250.772 g/cm<sup>3</sup>
     surface_gravity: 1763599.111 m/s<sup>2</sup><br />(179837.061 g<sub>0</sub>)
     escape_velocity: 849.803 km/s<br />(3,059,293 km/h)
@@ -484,14 +484,14 @@ planets:
         radius: 153,945.7 km<br/>(24.164 Yrths)
         surface_area: 2.978 × 10<sup>11</sup> km<sup>2</sup><br/>(583.875 Yrths)
         volume: 1.528 × 10<sup>16</sup> km<sup>3</sup><br/>(14108.477 Yrths)
-        mass: 1.302 × 10<sup>28</sup> kg<br />(185.22474297771 Yrths)
+        mass: 1.302 × 10<sup>28</sup> kg<br />(2180.601 Yrths)
         density: 0.852 g/cm<sup>3</sup>
         surface_gravity: 36.625 m/s<sup>2</sup><br />(3.735 g<sub>0</sub>)
         escape_velocity: 106.263 km/s<br />(382,547 km/h)
         rotation_period: 67.067 d
         axial_tilt: 14.77°
         albedo: 0.30
-        temperature: 584 K<br />(311 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 0044 Keead V b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -504,14 +504,14 @@ planets:
         radius: 108,851.5 km<br/>(17.085 Yrths)
         surface_area: 1.489 × 10<sup>11</sup> km<sup>2</sup><br/>(291.913 Yrths)
         volume: 5.402 × 10<sup>15</sup> km<sup>3</sup><br/>(4987.473 Yrths)
-        mass: 1.380 × 10<sup>28</sup> kg<br />(185.22474297771 Yrths)
+        mass: 1.380 × 10<sup>28</sup> kg<br />(2310.396 Yrths)
         density: 2.554 g/cm<sup>3</sup>
         surface_gravity: 77.616 m/s<sup>2</sup><br />(7.915 g<sub>0</sub>)
         escape_velocity: 130.078 km/s<br />(468,281 km/h)
         rotation_period: 41.025 d
         axial_tilt: 20.63°
         albedo: 0.30
-        temperature: 380 K<br />(107 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 0044 Keead V c
         type: Icy
         formationType: Captured
@@ -524,14 +524,14 @@ planets:
         radius: 135,429.3 km<br/>(21.257 Yrths)
         surface_area: 2.305 × 10<sup>11</sup> km<sup>2</sup><br/>(451.866 Yrths)
         volume: 1.040 × 10<sup>16</sup> km<sup>3</sup><br/>(9605.389 Yrths)
-        mass: 1.553 × 10<sup>28</sup> kg<br />(185.22474297771 Yrths)
+        mass: 1.553 × 10<sup>28</sup> kg<br />(2600.513 Yrths)
         density: 1.493 g/cm<sup>3</sup>
         surface_gravity: 56.438 m/s<sup>2</sup><br />(5.755 g<sub>0</sub>)
         escape_velocity: 123.723 km/s<br />(445,403 km/h)
         rotation_period: 59.242 d
         axial_tilt: 11.79°
         albedo: 0.30
-        temperature: 147 K<br />(-127 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 0044 Keead V d
         type: Icy
         formationType: Accreted
@@ -544,14 +544,14 @@ planets:
         radius: 147,328.0 km<br/>(23.125 Yrths)
         surface_area: 2.728 × 10<sup>11</sup> km<sup>2</sup><br/>(534.756 Yrths)
         volume: 1.340 × 10<sup>16</sup> km<sup>3</sup><br/>(12366.118 Yrths)
-        mass: 1.866 × 10<sup>28</sup> kg<br />(185.22474297771 Yrths)
+        mass: 1.866 × 10<sup>28</sup> kg<br />(3124.202 Yrths)
         density: 1.393 g/cm<sup>3</sup>
         surface_gravity: 57.293 m/s<sup>2</sup><br />(5.842 g<sub>0</sub>)
         escape_velocity: 130.018 km/s<br />(468,066 km/h)
         rotation_period: 59.503 d
         axial_tilt: 13.23°
         albedo: 0.30
-        temperature: 75 K<br />(-198 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 0044 Keead V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -564,14 +564,14 @@ planets:
         radius: 123,611.0 km<br/>(19.402 Yrths)
         surface_area: 1.920 × 10<sup>11</sup> km<sup>2</sup><br/>(376.443 Yrths)
         volume: 7.912 × 10<sup>15</sup> km<sup>3</sup><br/>(7303.795 Yrths)
-        mass: 1.501 × 10<sup>28</sup> kg<br />(185.22474297771 Yrths)
+        mass: 1.501 × 10<sup>28</sup> kg<br />(2513.370 Yrths)
         density: 1.897 g/cm<sup>3</sup>
         surface_gravity: 65.475 m/s<sup>2</sup><br />(6.677 g<sub>0</sub>)
         escape_velocity: 127.314 km/s<br />(458,332 km/h)
         rotation_period: 36.149 d
         axial_tilt: 10.24°
         albedo: 0.30
-        temperature: 65 K<br />(-208 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 0044 Keead V f
         type: Icy
         formationType: Accreted
@@ -584,14 +584,14 @@ planets:
         radius: 171,593.0 km<br/>(26.933 Yrths)
         surface_area: 3.700 × 10<sup>11</sup> km<sup>2</sup><br/>(725.411 Yrths)
         volume: 2.116 × 10<sup>16</sup> km<sup>3</sup><br/>(19537.814 Yrths)
-        mass: 1.977 × 10<sup>28</sup> kg<br />(185.22474297771 Yrths)
+        mass: 1.977 × 10<sup>28</sup> kg<br />(3310.469 Yrths)
         density: 0.934 g/cm<sup>3</sup>
         surface_gravity: 44.753 m/s<sup>2</sup><br />(4.564 g<sub>0</sub>)
         escape_velocity: 124.015 km/s<br />(446,452 km/h)
         rotation_period: 66.994 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 29 K<br />(-244 °C)
+        temperature: 111 K<br />(-162 °C)
   - name: 0044 Keead VI
     type: Large terrestrial
     aphelion: 1,129,265,581 km<br />7.549 AU
@@ -603,14 +603,14 @@ planets:
     radius: 10,738.4 km<br/>(1.686 Yrths)
     surface_area: 1.449 × 10<sup>09</sup> km<sup>2</sup><br/>(2.841 Yrths)
     volume: 5.187 × 10<sup>12</sup> km<sup>3</sup><br/>(4.788 Yrths)
-    mass: 3.485 × 10<sup>25</sup> kg<br />(5.8347685557035085 Yrths)
+    mass: 3.485 × 10<sup>25</sup> kg<br />(5.83 Yrths)
     density: 6.718 g/cm<sup>3</sup>
     surface_gravity: 20.141 m/s<sup>2</sup><br />(2.054 g<sub>0</sub>)
     escape_velocity: 20.812 km/s<br />(74,924 km/h)
     rotation_period: 0.550 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 113 K<br />(-160 °C)
+    temperature: 140 K<br />(-133 °C)
     surface_pressure: 293 kPa<br />(3 atm)
     composition:
       - 79.1818% nitrogen
@@ -629,14 +629,14 @@ planets:
         radius: 7,579.7 km<br/>(1.190 Yrths)
         surface_area: 7.220 × 10<sup>08</sup> km<sup>2</sup><br/>(1.415 Yrths)
         volume: 1.824 × 10<sup>12</sup> km<sup>3</sup><br/>(1.684 Yrths)
-        mass: 5.068 × 10<sup>24</sup> kg<br />(5.8347685557035085 Yrths)
+        mass: 5.068 × 10<sup>24</sup> kg<br />(0.849 Yrths)
         density: 2.779 g/cm<sup>3</sup>
         surface_gravity: 5.880 m/s<sup>2</sup><br />(0.600 g<sub>0</sub>)
         escape_velocity: 9.448 km/s<br />(34,011 km/h)
         rotation_period: 45.093 d
         axial_tilt: 20.97°
         albedo: 0.30
-        temperature: 917 K<br />(644 °C)
+        temperature: 85 K<br />(-189 °C)
       - name: 0044 Keead VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -649,14 +649,14 @@ planets:
         radius: 11,945.0 km<br/>(1.875 Yrths)
         surface_area: 1.793 × 10<sup>09</sup> km<sup>2</sup><br/>(3.515 Yrths)
         volume: 7.139 × 10<sup>12</sup> km<sup>3</sup><br/>(6.591 Yrths)
-        mass: 1.502 × 10<sup>25</sup> kg<br />(5.8347685557035085 Yrths)
+        mass: 1.502 × 10<sup>25</sup> kg<br />(2.516 Yrths)
         density: 2.104 g/cm<sup>3</sup>
         surface_gravity: 7.018 m/s<sup>2</sup><br />(0.716 g<sub>0</sub>)
         escape_velocity: 12.957 km/s<br />(46,647 km/h)
         rotation_period: 57.936 d
         axial_tilt: 6.90°
         albedo: 0.30
-        temperature: 874 K<br />(601 °C)
+        temperature: 85 K<br />(-189 °C)
   - name: 0044 Keead VII
     type: Gas giant
     aphelion: 2,005,031,547 km<br />13.403 AU
@@ -668,7 +668,7 @@ planets:
     radius: 235.4 km<br/>(0.037 Yrths)
     surface_area: 6.962 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.462 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.021 × 10<sup>27</sup> kg<br />(338.34475532173167 Yrths)
+    mass: 2.021 × 10<sup>27</sup> kg<br />(338.34 Yrths)
     density: 36993065.071 g/cm<sup>3</sup>
     surface_gravity: 2430982.242 m/s<sup>2</sup><br />(247891.201 g<sub>0</sub>)
     escape_velocity: 1070.481 km/s<br />(3,853,733 km/h)
@@ -689,14 +689,14 @@ planets:
         radius: 225,940.1 km<br/>(35.464 Yrths)
         surface_area: 6.415 × 10<sup>11</sup> km<sup>2</sup><br/>(1257.684 Yrths)
         volume: 4.831 × 10<sup>16</sup> km<sup>3</sup><br/>(44602.305 Yrths)
-        mass: 7.566 × 10<sup>28</sup> kg<br />(338.34475532173167 Yrths)
+        mass: 7.566 × 10<sup>28</sup> kg<br />(12669.303 Yrths)
         density: 1.566 g/cm<sup>3</sup>
         surface_gravity: 98.787 m/s<sup>2</sup><br />(10.074 g<sub>0</sub>)
         escape_velocity: 211.426 km/s<br />(761,132 km/h)
         rotation_period: 74.113 d
         axial_tilt: 37.92°
         albedo: 0.30
-        temperature: 339 K<br />(66 °C)
+        temperature: 65 K<br />(-209 °C)
       - name: 0044 Keead VII b
         type: Icy
         formationType: Captured
@@ -709,14 +709,14 @@ planets:
         radius: 264,504.8 km<br/>(41.517 Yrths)
         surface_area: 8.792 × 10<sup>11</sup> km<sup>2</sup><br/>(1723.661 Yrths)
         volume: 7.752 × 10<sup>16</sup> km<sup>3</sup><br/>(71561.235 Yrths)
-        mass: 1.014 × 10<sup>29</sup> kg<br />(338.34475532173167 Yrths)
+        mass: 1.014 × 10<sup>29</sup> kg<br />(16976.081 Yrths)
         density: 1.308 g/cm<sup>3</sup>
         surface_gravity: 96.584 m/s<sup>2</sup><br />(9.849 g<sub>0</sub>)
         escape_velocity: 226.193 km/s<br />(814,296 km/h)
         rotation_period: 58.137 d
         axial_tilt: 13.44°
         albedo: 0.30
-        temperature: 255 K<br />(-19 °C)
+        temperature: 65 K<br />(-209 °C)
       - name: 0044 Keead VII c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -729,14 +729,14 @@ planets:
         radius: 254,368.0 km<br/>(39.926 Yrths)
         surface_area: 8.131 × 10<sup>11</sup> km<sup>2</sup><br/>(1594.079 Yrths)
         volume: 6.894 × 10<sup>16</sup> km<sup>3</sup><br/>(63645.071 Yrths)
-        mass: 1.170 × 10<sup>29</sup> kg<br />(338.34475532173167 Yrths)
+        mass: 1.170 × 10<sup>29</sup> kg<br />(19586.853 Yrths)
         density: 1.697 g/cm<sup>3</sup>
         surface_gravity: 120.497 m/s<sup>2</sup><br />(12.287 g<sub>0</sub>)
         escape_velocity: 247.759 km/s<br />(891,931 km/h)
         rotation_period: 66.560 d
         axial_tilt: 10.57°
         albedo: 0.30
-        temperature: 98 K<br />(-175 °C)
+        temperature: 65 K<br />(-209 °C)
       - name: 0044 Keead VII d
         type: Dwarf planet
         formationType: Accreted
@@ -749,14 +749,14 @@ planets:
         radius: 227,423.1 km<br/>(35.697 Yrths)
         surface_area: 6.499 × 10<sup>11</sup> km<sup>2</sup><br/>(1274.248 Yrths)
         volume: 4.927 × 10<sup>16</sup> km<sup>3</sup><br/>(45486.321 Yrths)
-        mass: 7.429 × 10<sup>28</sup> kg<br />(338.34475532173167 Yrths)
+        mass: 7.429 × 10<sup>28</sup> kg<br />(12439.325 Yrths)
         density: 1.508 g/cm<sup>3</sup>
         surface_gravity: 95.733 m/s<sup>2</sup><br />(9.762 g<sub>0</sub>)
         escape_velocity: 208.814 km/s<br />(751,729 km/h)
         rotation_period: 61.599 d
         axial_tilt: 25.23°
         albedo: 0.30
-        temperature: 85 K<br />(-188 °C)
+        temperature: 65 K<br />(-209 °C)
       - name: 0044 Keead VII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -769,12 +769,12 @@ planets:
         radius: 206,636.0 km<br/>(32.434 Yrths)
         surface_area: 5.366 × 10<sup>11</sup> km<sup>2</sup><br/>(1051.954 Yrths)
         volume: 3.696 × 10<sup>16</sup> km<sup>3</sup><br/>(34118.899 Yrths)
-        mass: 8.139 × 10<sup>28</sup> kg<br />(338.34475532173167 Yrths)
+        mass: 8.139 × 10<sup>28</sup> kg<br />(13628.388 Yrths)
         density: 2.202 g/cm<sup>3</sup>
         surface_gravity: 127.048 m/s<sup>2</sup><br />(12.955 g<sub>0</sub>)
         escape_velocity: 229.296 km/s<br />(825,467 km/h)
         rotation_period: 37.850 d
         axial_tilt: 12.38°
         albedo: 0.30
-        temperature: 16 K<br />(-257 °C)
+        temperature: 65 K<br />(-209 °C)
 ---

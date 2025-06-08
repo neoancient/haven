@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      73 Aldnanniad is a star in the constellation Aldnan
+      73 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 480.25 ly
 apparent_magnitude: 8.00
 absolute_magnitude: 2.16
@@ -31,14 +31,14 @@ planets:
     radius: 6,853.7 km<br/>(1.076 Yrths)
     surface_area: 5.903 × 10<sup>08</sup> km<sup>2</sup><br/>(1.157 Yrths)
     volume: 1.349 × 10<sup>12</sup> km<sup>3</sup><br/>(1.245 Yrths)
-    mass: 7.381 × 10<sup>24</sup> kg<br />(1.2359962174476091 Yrths)
+    mass: 7.381 × 10<sup>24</sup> kg<br />(1.24 Yrths)
     density: 5.474 g/cm<sup>3</sup>
     surface_gravity: 10.474 m/s<sup>2</sup><br />(1.068 g<sub>0</sub>)
     escape_velocity: 11.990 km/s<br />(43,164 km/h)
     rotation_period: 0.955 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 458 K<br />(185 °C)
+    temperature: 459 K<br />(186 °C)
     surface_pressure: 58 kPa<br />(1 atm)
     composition:
       - 70.2223% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 3,091.7 km<br/>(0.485 Yrths)
         surface_area: 1.201 × 10<sup>08</sup> km<sup>2</sup><br/>(0.235 Yrths)
         volume: 1.238 × 10<sup>11</sup> km<sup>3</sup><br/>(0.114 Yrths)
-        mass: 3.612 × 10<sup>23</sup> kg<br />(1.2359962174476091 Yrths)
+        mass: 3.612 × 10<sup>23</sup> kg<br />(0.060 Yrths)
         density: 2.918 g/cm<sup>3</sup>
         surface_gravity: 2.518 m/s<sup>2</sup><br />(0.257 g<sub>0</sub>)
         escape_velocity: 3.949 km/s<br />(14,216 km/h)
         rotation_period: 45.602 d
         axial_tilt: 13.94°
         albedo: 0.30
-        temperature: 5867 K<br />(5593 °C)
+        temperature: 387 K<br />(114 °C)
   - name: 73 Aldnanniad II
     type: Large terrestrial
     aphelion: 441,214,835 km<br />2.949 AU
@@ -77,14 +77,14 @@ planets:
     radius: 10,874.1 km<br/>(1.707 Yrths)
     surface_area: 1.486 × 10<sup>09</sup> km<sup>2</sup><br/>(2.913 Yrths)
     volume: 5.386 × 10<sup>12</sup> km<sup>3</sup><br/>(4.972 Yrths)
-    mass: 3.452 × 10<sup>25</sup> kg<br />(5.780074542886001 Yrths)
+    mass: 3.452 × 10<sup>25</sup> kg<br />(5.78 Yrths)
     density: 6.409 g/cm<sup>3</sup>
     surface_gravity: 19.457 m/s<sup>2</sup><br />(1.984 g<sub>0</sub>)
     escape_velocity: 20.585 km/s<br />(74,105 km/h)
     rotation_period: 0.550 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 437 K<br />(164 °C)
+    temperature: 557 K<br />(284 °C)
     surface_pressure: 3,516 kPa<br />(35 atm)
     composition:
       - 83.4243% nitrogen
@@ -102,14 +102,14 @@ planets:
         radius: 15,240.9 km<br/>(2.392 Yrths)
         surface_area: 2.919 × 10<sup>09</sup> km<sup>2</sup><br/>(5.723 Yrths)
         volume: 1.483 × 10<sup>13</sup> km<sup>3</sup><br/>(13.690 Yrths)
-        mass: 1.038 × 10<sup>25</sup> kg<br />(5.780074542886001 Yrths)
+        mass: 1.038 × 10<sup>25</sup> kg<br />(1.738 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 2.979 m/s<sup>2</sup><br />(0.304 g<sub>0</sub>)
         escape_velocity: 9.535 km/s<br />(34,326 km/h)
         rotation_period: 66.780 d
         axial_tilt: 19.95°
         albedo: 0.30
-        temperature: 3413 K<br />(3139 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 73 Aldnanniad II b
         type: Asteroid
         formationType: Captured
@@ -122,14 +122,14 @@ planets:
         radius: 3,336.7 km<br/>(0.524 Yrths)
         surface_area: 1.399 × 10<sup>08</sup> km<sup>2</sup><br/>(0.274 Yrths)
         volume: 1.556 × 10<sup>11</sup> km<sup>3</sup><br/>(0.144 Yrths)
-        mass: 2.687 × 10<sup>23</sup> kg<br />(5.780074542886001 Yrths)
+        mass: 2.687 × 10<sup>23</sup> kg<br />(0.045 Yrths)
         density: 1.727 g/cm<sup>3</sup>
         surface_gravity: 1.609 m/s<sup>2</sup><br />(0.164 g<sub>0</sub>)
         escape_velocity: 3.279 km/s<br />(11,803 km/h)
         rotation_period: 64.441 d
         axial_tilt: 54.77°
         albedo: 0.30
-        temperature: 3254 K<br />(2981 °C)
+        temperature: 280 K<br />(7 °C)
   - name: 73 Aldnanniad III
     type: Gas dwarf
     aphelion: 900,826,524 km<br />6.022 AU
@@ -141,14 +141,14 @@ planets:
     radius: 16,162.1 km<br/>(2.537 Yrths)
     surface_area: 3.282 × 10<sup>09</sup> km<sup>2</sup><br/>(6.435 Yrths)
     volume: 1.768 × 10<sup>13</sup> km<sup>3</sup><br/>(16.326 Yrths)
-    mass: 4.853 × 10<sup>25</sup> kg<br />(8.126582730552583 Yrths)
+    mass: 4.853 × 10<sup>25</sup> kg<br />(8.13 Yrths)
     density: 2.744 g/cm<sup>3</sup>
     surface_gravity: 12.384 m/s<sup>2</sup><br />(1.263 g<sub>0</sub>)
     escape_velocity: 20.021 km/s<br />(72,075 km/h)
     rotation_period: 0.414 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 332 K<br />(59 °C)
+    temperature: 298 K<br />(25 °C)
     composition:
       - 84.9118% hydrogen
       - 14.1254% helium
@@ -166,14 +166,14 @@ planets:
         radius: 16,781.2 km<br/>(2.634 Yrths)
         surface_area: 3.539 × 10<sup>09</sup> km<sup>2</sup><br/>(6.938 Yrths)
         volume: 1.979 × 10<sup>13</sup> km<sup>3</sup><br/>(18.274 Yrths)
-        mass: 4.084 × 10<sup>25</sup> kg<br />(8.126582730552583 Yrths)
+        mass: 4.084 × 10<sup>25</sup> kg<br />(6.839 Yrths)
         density: 2.063 g/cm<sup>3</sup>
         surface_gravity: 9.666 m/s<sup>2</sup><br />(0.986 g<sub>0</sub>)
         escape_velocity: 18.024 km/s<br />(64,887 km/h)
         rotation_period: 62.902 d
         axial_tilt: 17.25°
         albedo: 0.30
-        temperature: 2212 K<br />(1939 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 73 Aldnanniad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -186,14 +186,14 @@ planets:
         radius: 14,045.5 km<br/>(2.205 Yrths)
         surface_area: 2.479 × 10<sup>09</sup> km<sup>2</sup><br/>(4.860 Yrths)
         volume: 1.161 × 10<sup>13</sup> km<sup>3</sup><br/>(10.715 Yrths)
-        mass: 2.911 × 10<sup>25</sup> kg<br />(8.126582730552583 Yrths)
+        mass: 2.911 × 10<sup>25</sup> kg<br />(4.874 Yrths)
         density: 2.508 g/cm<sup>3</sup>
         surface_gravity: 9.835 m/s<sup>2</sup><br />(1.003 g<sub>0</sub>)
         escape_velocity: 16.633 km/s<br />(59,878 km/h)
         rotation_period: 59.713 d
         axial_tilt: 19.72°
         albedo: 0.30
-        temperature: 2109 K<br />(1836 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 73 Aldnanniad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -206,14 +206,14 @@ planets:
         radius: 10,581.9 km<br/>(1.661 Yrths)
         surface_area: 1.407 × 10<sup>09</sup> km<sup>2</sup><br/>(2.759 Yrths)
         volume: 4.963 × 10<sup>12</sup> km<sup>3</sup><br/>(4.582 Yrths)
-        mass: 1.110 × 10<sup>25</sup> kg<br />(8.126582730552583 Yrths)
+        mass: 1.110 × 10<sup>25</sup> kg<br />(1.858 Yrths)
         density: 2.236 g/cm<sup>3</sup>
         surface_gravity: 6.606 m/s<sup>2</sup><br />(0.674 g<sub>0</sub>)
         escape_velocity: 11.832 km/s<br />(42,594 km/h)
         rotation_period: 46.693 d
         axial_tilt: 22.69°
         albedo: 0.30
-        temperature: 2011 K<br />(1738 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 73 Aldnanniad III d
         type: Icy
         formationType: Impact formed
@@ -226,12 +226,12 @@ planets:
         radius: 14,412.0 km<br/>(2.262 Yrths)
         surface_area: 2.610 × 10<sup>09</sup> km<sup>2</sup><br/>(5.117 Yrths)
         volume: 1.254 × 10<sup>13</sup> km<sup>3</sup><br/>(11.576 Yrths)
-        mass: 1.514 × 10<sup>25</sup> kg<br />(8.126582730552583 Yrths)
+        mass: 1.514 × 10<sup>25</sup> kg<br />(2.535 Yrths)
         density: 1.207 g/cm<sup>3</sup>
         surface_gravity: 4.858 m/s<sup>2</sup><br />(0.495 g<sub>0</sub>)
         escape_velocity: 11.842 km/s<br />(42,631 km/h)
         rotation_period: 86.012 d
         axial_tilt: 14.79°
         albedo: 0.30
-        temperature: 1917 K<br />(1644 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

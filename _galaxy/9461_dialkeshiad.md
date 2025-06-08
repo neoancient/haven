@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9461 Dialkeshiad is a star in the constellation Dialkes
+      9461 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 570.65 ly
 apparent_magnitude: 8.34
 absolute_magnitude: 2.13

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1712 Narashiad is a star in the constellation Naras
+      1712 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 664.07 ly
 apparent_magnitude: 8.67
 absolute_magnitude: 2.13

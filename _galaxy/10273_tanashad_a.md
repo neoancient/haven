@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10273 Tanashad A is a star in the constellation Tanas
+      10273 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 501.63 ly
 apparent_magnitude: 7.55
 absolute_magnitude: 1.61

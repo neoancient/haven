@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0031 Emniaiad is a star in the constellation Emnia
+      0031 Emniaiad is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 287.30 ly
 apparent_magnitude: 6.49
 absolute_magnitude: 1.76
@@ -31,14 +31,14 @@ planets:
     radius: 12,472.9 km<br/>(1.958 Yrths)
     surface_area: 1.955 × 10<sup>09</sup> km<sup>2</sup><br/>(3.833 Yrths)
     volume: 8.128 × 10<sup>12</sup> km<sup>3</sup><br/>(7.504 Yrths)
-    mass: 2.082 × 10<sup>25</sup> kg<br />(3.486005276818882 Yrths)
+    mass: 2.082 × 10<sup>25</sup> kg<br />(3.49 Yrths)
     density: 2.561 g/cm<sup>3</sup>
     surface_gravity: 8.919 m/s<sup>2</sup><br />(0.910 g<sub>0</sub>)
     escape_velocity: 14.927 km/s<br />(53,735 km/h)
     rotation_period: 0.553 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 624 K<br />(351 °C)
+    temperature: 575 K<br />(301 °C)
     composition:
       - 93.2313% hydrogen
       - 4.1481% helium
@@ -57,14 +57,14 @@ planets:
         radius: 4,222.0 km<br/>(0.663 Yrths)
         surface_area: 2.240 × 10<sup>08</sup> km<sup>2</sup><br/>(0.439 Yrths)
         volume: 3.153 × 10<sup>11</sup> km<sup>3</sup><br/>(0.291 Yrths)
-        mass: 9.711 × 10<sup>23</sup> kg<br />(3.486005276818882 Yrths)
+        mass: 9.711 × 10<sup>23</sup> kg<br />(0.163 Yrths)
         density: 3.081 g/cm<sup>3</sup>
         surface_gravity: 3.631 m/s<sup>2</sup><br />(0.370 g<sub>0</sub>)
         escape_velocity: 5.541 km/s<br />(19,948 km/h)
         rotation_period: 40.262 d
         axial_tilt: 11.68°
         albedo: 0.30
-        temperature: 5096 K<br />(4823 °C)
+        temperature: 397 K<br />(124 °C)
       - name: 0031 Emniaiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 5,177.1 km<br/>(0.813 Yrths)
         surface_area: 3.368 × 10<sup>08</sup> km<sup>2</sup><br/>(0.660 Yrths)
         volume: 5.812 × 10<sup>11</sup> km<sup>3</sup><br/>(0.537 Yrths)
-        mass: 1.525 × 10<sup>24</sup> kg<br />(3.486005276818882 Yrths)
+        mass: 1.525 × 10<sup>24</sup> kg<br />(0.255 Yrths)
         density: 2.623 g/cm<sup>3</sup>
         surface_gravity: 3.791 m/s<sup>2</sup><br />(0.387 g<sub>0</sub>)
         escape_velocity: 6.270 km/s<br />(22,571 km/h)
         rotation_period: 34.772 d
         axial_tilt: 19.29°
         albedo: 0.30
-        temperature: 4633 K<br />(4360 °C)
+        temperature: 397 K<br />(124 °C)
       - name: 0031 Emniaiad I c
         type: Rocky
         formationType: Impact formed
@@ -97,14 +97,14 @@ planets:
         radius: 5,357.9 km<br/>(0.841 Yrths)
         surface_area: 3.607 × 10<sup>08</sup> km<sup>2</sup><br/>(0.707 Yrths)
         volume: 6.443 × 10<sup>11</sup> km<sup>3</sup><br/>(0.595 Yrths)
-        mass: 2.230 × 10<sup>24</sup> kg<br />(3.486005276818882 Yrths)
+        mass: 2.230 × 10<sup>24</sup> kg<br />(0.373 Yrths)
         density: 3.462 g/cm<sup>3</sup>
         surface_gravity: 5.178 m/s<sup>2</sup><br />(0.528 g<sub>0</sub>)
         escape_velocity: 7.454 km/s<br />(26,835 km/h)
         rotation_period: 27.987 d
         axial_tilt: 15.69°
         albedo: 0.30
-        temperature: 4418 K<br />(4144 °C)
+        temperature: 397 K<br />(124 °C)
       - name: 0031 Emniaiad I d
         type: Rocky
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 5,204.1 km<br/>(0.817 Yrths)
         surface_area: 3.403 × 10<sup>08</sup> km<sup>2</sup><br/>(0.667 Yrths)
         volume: 5.904 × 10<sup>11</sup> km<sup>3</sup><br/>(0.545 Yrths)
-        mass: 1.817 × 10<sup>24</sup> kg<br />(3.486005276818882 Yrths)
+        mass: 1.817 × 10<sup>24</sup> kg<br />(0.304 Yrths)
         density: 3.078 g/cm<sup>3</sup>
         surface_gravity: 4.472 m/s<sup>2</sup><br />(0.456 g<sub>0</sub>)
         escape_velocity: 6.827 km/s<br />(24,577 km/h)
         rotation_period: 43.516 d
         axial_tilt: 11.50°
         albedo: 0.30
-        temperature: 4212 K<br />(3939 °C)
+        temperature: 397 K<br />(124 °C)
       - name: 0031 Emniaiad I e
         type: Rocky
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 4,658.6 km<br/>(0.731 Yrths)
         surface_area: 2.727 × 10<sup>08</sup> km<sup>2</sup><br/>(0.535 Yrths)
         volume: 4.235 × 10<sup>11</sup> km<sup>3</sup><br/>(0.391 Yrths)
-        mass: 1.041 × 10<sup>24</sup> kg<br />(3.486005276818882 Yrths)
+        mass: 1.041 × 10<sup>24</sup> kg<br />(0.174 Yrths)
         density: 2.459 g/cm<sup>3</sup>
         surface_gravity: 3.198 m/s<sup>2</sup><br />(0.326 g<sub>0</sub>)
         escape_velocity: 5.463 km/s<br />(19,665 km/h)
         rotation_period: 35.046 d
         axial_tilt: 8.23°
         albedo: 0.30
-        temperature: 4016 K<br />(3743 °C)
+        temperature: 397 K<br />(124 °C)
   - name: 0031 Emniaiad II
     type: Large terrestrial
     aphelion: 531,892,458 km<br />3.555 AU
@@ -156,15 +156,15 @@ planets:
     radius: 8,864.2 km<br/>(1.391 Yrths)
     surface_area: 9.874 × 10<sup>08</sup> km<sup>2</sup><br/>(1.936 Yrths)
     volume: 2.917 × 10<sup>12</sup> km<sup>3</sup><br/>(2.693 Yrths)
-    mass: 1.850 × 10<sup>25</sup> kg<br />(3.0972103260781694 Yrths)
+    mass: 1.850 × 10<sup>25</sup> kg<br />(3.10 Yrths)
     density: 6.340 g/cm<sup>3</sup>
     surface_gravity: 15.690 m/s<sup>2</sup><br />(1.600 g<sub>0</sub>)
     escape_velocity: 16.690 km/s<br />(60,082 km/h)
     rotation_period: 0.671 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 425 K<br />(152 °C)
-    surface_pressure: 2,274 kPa<br />(22 atm)
+    temperature: 489 K<br />(216 °C)
+    surface_pressure: 2,274 kPa<br />(23 atm)
     composition:
       - 70.8085% methane
       - 22.2770% nitrogen
@@ -185,14 +185,14 @@ planets:
         radius: 6,828.5 km<br/>(1.072 Yrths)
         surface_area: 5.860 × 10<sup>08</sup> km<sup>2</sup><br/>(1.149 Yrths)
         volume: 1.334 × 10<sup>12</sup> km<sup>3</sup><br/>(1.231 Yrths)
-        mass: 3.020 × 10<sup>24</sup> kg<br />(3.0972103260781694 Yrths)
+        mass: 3.020 × 10<sup>24</sup> kg<br />(0.506 Yrths)
         density: 2.264 g/cm<sup>3</sup>
         surface_gravity: 4.316 m/s<sup>2</sup><br />(0.440 g<sub>0</sub>)
         escape_velocity: 7.683 km/s<br />(27,659 km/h)
         rotation_period: 41.292 d
         axial_tilt: 10.16°
         albedo: 0.30
-        temperature: 3840 K<br />(3567 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 0031 Emniaiad II b
         type: Rocky
         formationType: Impact formed
@@ -205,14 +205,14 @@ planets:
         radius: 6,267.0 km<br/>(0.984 Yrths)
         surface_area: 4.935 × 10<sup>08</sup> km<sup>2</sup><br/>(0.968 Yrths)
         volume: 1.031 × 10<sup>12</sup> km<sup>3</sup><br/>(0.952 Yrths)
-        mass: 2.888 × 10<sup>24</sup> kg<br />(3.0972103260781694 Yrths)
+        mass: 2.888 × 10<sup>24</sup> kg<br />(0.484 Yrths)
         density: 2.801 g/cm<sup>3</sup>
         surface_gravity: 4.901 m/s<sup>2</sup><br />(0.500 g<sub>0</sub>)
         escape_velocity: 7.843 km/s<br />(28,234 km/h)
         rotation_period: 40.441 d
         axial_tilt: 7.73°
         albedo: 0.30
-        temperature: 3662 K<br />(3388 °C)
+        temperature: 283 K<br />(10 °C)
   - name: 0031 Emniaiad III
     type: Gas giant
     aphelion: 1,045,289,270 km<br />6.987 AU
@@ -224,14 +224,14 @@ planets:
     radius: 202.1 km<br/>(0.032 Yrths)
     surface_area: 5.134 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.459 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.054 × 10<sup>27</sup> kg<br />(176.4632977326891 Yrths)
+    mass: 1.054 × 10<sup>27</sup> kg<br />(176.46 Yrths)
     density: 30466146.025 g/cm<sup>3</sup>
     surface_gravity: 1719273.236 m/s<sup>2</sup><br />(175317.079 g<sub>0</sub>)
     escape_velocity: 834.245 km/s<br />(3,003,282 km/h)
     rotation_period: 0.248 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 794 K<br />(521 °C)
+    temperature: 757 K<br />(484 °C)
     composition:
       - 68.3198% hydrogen
       - 28.8358% helium
@@ -250,14 +250,14 @@ planets:
         radius: 117,283.8 km<br/>(18.409 Yrths)
         surface_area: 1.729 × 10<sup>11</sup> km<sup>2</sup><br/>(338.892 Yrths)
         volume: 6.758 × 10<sup>15</sup> km<sup>3</sup><br/>(6238.658 Yrths)
-        mass: 1.324 × 10<sup>28</sup> kg<br />(176.4632977326891 Yrths)
+        mass: 1.324 × 10<sup>28</sup> kg<br />(2216.700 Yrths)
         density: 1.959 g/cm<sup>3</sup>
         surface_gravity: 64.146 m/s<sup>2</sup><br />(6.541 g<sub>0</sub>)
         escape_velocity: 122.747 km/s<br />(441,891 km/h)
         rotation_period: 50.082 d
         axial_tilt: 49.22°
         albedo: 0.30
-        temperature: 1224 K<br />(951 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0031 Emniaiad III b
         type: Icy
         formationType: Impact formed
@@ -270,14 +270,14 @@ planets:
         radius: 125,588.9 km<br/>(19.713 Yrths)
         surface_area: 1.982 × 10<sup>11</sup> km<sup>2</sup><br/>(388.586 Yrths)
         volume: 8.297 × 10<sup>15</sup> km<sup>3</sup><br/>(7660.034 Yrths)
-        mass: 1.172 × 10<sup>28</sup> kg<br />(176.4632977326891 Yrths)
+        mass: 1.172 × 10<sup>28</sup> kg<br />(1962.558 Yrths)
         density: 1.413 g/cm<sup>3</sup>
         surface_gravity: 49.529 m/s<sup>2</sup><br />(5.051 g<sub>0</sub>)
         escape_velocity: 111.613 km/s<br />(401,806 km/h)
         rotation_period: 71.969 d
         axial_tilt: 8.28°
         albedo: 0.30
-        temperature: 877 K<br />(603 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0031 Emniaiad III c
         type: Icy
         formationType: Accreted
@@ -290,14 +290,14 @@ planets:
         radius: 142,136.1 km<br/>(22.310 Yrths)
         surface_area: 2.539 × 10<sup>11</sup> km<sup>2</sup><br/>(497.730 Yrths)
         volume: 1.203 × 10<sup>16</sup> km<sup>3</sup><br/>(11104.278 Yrths)
-        mass: 1.516 × 10<sup>28</sup> kg<br />(176.4632977326891 Yrths)
+        mass: 1.516 × 10<sup>28</sup> kg<br />(2538.343 Yrths)
         density: 1.260 g/cm<sup>3</sup>
         surface_gravity: 50.012 m/s<sup>2</sup><br />(5.100 g<sub>0</sub>)
         escape_velocity: 119.317 km/s<br />(429,540 km/h)
         rotation_period: 62.641 d
         axial_tilt: 19.03°
         albedo: 0.30
-        temperature: 760 K<br />(487 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0031 Emniaiad III d
         type: Asteroid
         formationType: Captured
@@ -310,14 +310,14 @@ planets:
         radius: 133,715.9 km<br/>(20.988 Yrths)
         surface_area: 2.247 × 10<sup>11</sup> km<sup>2</sup><br/>(440.505 Yrths)
         volume: 1.001 × 10<sup>16</sup> km<sup>3</sup><br/>(9245.422 Yrths)
-        mass: 2.040 × 10<sup>28</sup> kg<br />(176.4632977326891 Yrths)
+        mass: 2.040 × 10<sup>28</sup> kg<br />(3415.532 Yrths)
         density: 2.037 g/cm<sup>3</sup>
         surface_gravity: 76.038 m/s<sup>2</sup><br />(7.754 g<sub>0</sub>)
         escape_velocity: 142.697 km/s<br />(513,710 km/h)
         rotation_period: 44.153 d
         axial_tilt: 11.84°
         albedo: 0.30
-        temperature: 724 K<br />(451 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0031 Emniaiad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -330,14 +330,14 @@ planets:
         radius: 117,965.6 km<br/>(18.516 Yrths)
         surface_area: 1.749 × 10<sup>11</sup> km<sup>2</sup><br/>(342.843 Yrths)
         volume: 6.876 × 10<sup>15</sup> km<sup>3</sup><br/>(6348.089 Yrths)
-        mass: 1.355 × 10<sup>28</sup> kg<br />(176.4632977326891 Yrths)
+        mass: 1.355 × 10<sup>28</sup> kg<br />(2269.517 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 64.917 m/s<sup>2</sup><br />(6.620 g<sub>0</sub>)
         escape_velocity: 123.842 km/s<br />(445,830 km/h)
         rotation_period: 40.295 d
         axial_tilt: 29.14°
         albedo: 0.30
-        temperature: 544 K<br />(271 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0031 Emniaiad III f
         type: Icy
         formationType: Accreted
@@ -350,14 +350,14 @@ planets:
         radius: 146,819.4 km<br/>(23.045 Yrths)
         surface_area: 2.709 × 10<sup>11</sup> km<sup>2</sup><br/>(531.070 Yrths)
         volume: 1.326 × 10<sup>16</sup> km<sup>3</sup><br/>(12238.469 Yrths)
-        mass: 1.581 × 10<sup>28</sup> kg<br />(176.4632977326891 Yrths)
+        mass: 1.581 × 10<sup>28</sup> kg<br />(2648.181 Yrths)
         density: 1.193 g/cm<sup>3</sup>
         surface_gravity: 48.901 m/s<sup>2</sup><br />(4.987 g<sub>0</sub>)
         escape_velocity: 119.911 km/s<br />(431,681 km/h)
         rotation_period: 72.356 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 450 K<br />(177 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0031 Emniaiad III g
         type: Icy
         formationType: Captured
@@ -370,14 +370,14 @@ planets:
         radius: 175,279.0 km<br/>(27.512 Yrths)
         surface_area: 3.861 × 10<sup>11</sup> km<sup>2</sup><br/>(756.911 Yrths)
         volume: 2.256 × 10<sup>16</sup> km<sup>3</sup><br/>(20824.137 Yrths)
-        mass: 3.099 × 10<sup>28</sup> kg<br />(176.4632977326891 Yrths)
+        mass: 3.099 × 10<sup>28</sup> kg<br />(5188.986 Yrths)
         density: 1.374 g/cm<sup>3</sup>
         surface_gravity: 67.229 m/s<sup>2</sup><br />(6.855 g<sub>0</sub>)
         escape_velocity: 153.622 km/s<br />(553,040 km/h)
         rotation_period: 74.704 d
         axial_tilt: 20.99°
         albedo: 0.30
-        temperature: 409 K<br />(136 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0031 Emniaiad III h
         type: Ice/rock hybrid
         formationType: Captured
@@ -390,12 +390,12 @@ planets:
         radius: 119,304.9 km<br/>(18.726 Yrths)
         surface_area: 1.789 × 10<sup>11</sup> km<sup>2</sup><br/>(350.672 Yrths)
         volume: 7.113 × 10<sup>15</sup> km<sup>3</sup><br/>(6566.776 Yrths)
-        mass: 1.992 × 10<sup>28</sup> kg<br />(176.4632977326891 Yrths)
+        mass: 1.992 × 10<sup>28</sup> kg<br />(3335.046 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 93.266 m/s<sup>2</sup><br />(9.510 g<sub>0</sub>)
         escape_velocity: 149.279 km/s<br />(537,405 km/h)
         rotation_period: 51.285 d
         axial_tilt: 20.50°
         albedo: 0.30
-        temperature: 165 K<br />(-108 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

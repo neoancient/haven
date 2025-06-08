@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      210 Urthiad is a star in the constellation Urth
+      210 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 229.87 ly
 apparent_magnitude: 6.51
 absolute_magnitude: 2.27
@@ -31,14 +31,14 @@ planets:
     radius: 31,037.8 km<br/>(4.872 Yrths)
     surface_area: 1.211 × 10<sup>10</sup> km<sup>2</sup><br/>(23.734 Yrths)
     volume: 1.252 × 10<sup>14</sup> km<sup>3</sup><br/>(115.625 Yrths)
-    mass: 1.618 × 10<sup>26</sup> kg<br />(27.09271137655463 Yrths)
+    mass: 1.618 × 10<sup>26</sup> kg<br />(27.09 Yrths)
     density: 1.292 g/cm<sup>3</sup>
     surface_gravity: 11.195 m/s<sup>2</sup><br />(1.142 g<sub>0</sub>)
     escape_velocity: 26.379 km/s<br />(94,964 km/h)
     rotation_period: 0.412 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 780 K<br />(506 °C)
+    temperature: 712 K<br />(439 °C)
     composition:
       - 70.8987% hydrogen
       - 26.5143% helium
@@ -56,14 +56,14 @@ planets:
         radius: 29,691.4 km<br/>(4.660 Yrths)
         surface_area: 1.108 × 10<sup>10</sup> km<sup>2</sup><br/>(21.719 Yrths)
         volume: 1.096 × 10<sup>14</sup> km<sup>3</sup><br/>(101.220 Yrths)
-        mass: 2.931 × 10<sup>26</sup> kg<br />(27.09271137655463 Yrths)
+        mass: 2.931 × 10<sup>26</sup> kg<br />(49.087 Yrths)
         density: 2.674 g/cm<sup>3</sup>
         surface_gravity: 22.164 m/s<sup>2</sup><br />(2.260 g<sub>0</sub>)
         escape_velocity: 36.303 km/s<br />(130,692 km/h)
         rotation_period: 33.420 d
         axial_tilt: 22.56°
         albedo: 0.30
-        temperature: 3424 K<br />(3151 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 210 Urthiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 47,743.1 km<br/>(7.494 Yrths)
         surface_area: 2.864 × 10<sup>10</sup> km<sup>2</sup><br/>(56.157 Yrths)
         volume: 4.558 × 10<sup>14</sup> km<sup>3</sup><br/>(420.832 Yrths)
-        mass: 1.160 × 10<sup>27</sup> kg<br />(27.09271137655463 Yrths)
+        mass: 1.160 × 10<sup>27</sup> kg<br />(194.173 Yrths)
         density: 2.544 g/cm<sup>3</sup>
         surface_gravity: 33.908 m/s<sup>2</sup><br />(3.458 g<sub>0</sub>)
         escape_velocity: 56.940 km/s<br />(204,984 km/h)
         rotation_period: 43.177 d
         axial_tilt: 33.67°
         albedo: 0.30
-        temperature: 3265 K<br />(2992 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 210 Urthiad I c
         type: Icy
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 23,823.8 km<br/>(3.739 Yrths)
         surface_area: 7.132 × 10<sup>09</sup> km<sup>2</sup><br/>(13.983 Yrths)
         volume: 5.664 × 10<sup>13</sup> km<sup>3</sup><br/>(52.289 Yrths)
-        mass: 9.852 × 10<sup>25</sup> kg<br />(27.09271137655463 Yrths)
+        mass: 9.852 × 10<sup>25</sup> kg<br />(16.498 Yrths)
         density: 1.739 g/cm<sup>3</sup>
         surface_gravity: 11.570 m/s<sup>2</sup><br />(1.180 g<sub>0</sub>)
         escape_velocity: 23.495 km/s<br />(84,583 km/h)
         rotation_period: 53.423 d
         axial_tilt: 21.35°
         albedo: 0.30
-        temperature: 2968 K<br />(2695 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 210 Urthiad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 28,351.0 km<br/>(4.450 Yrths)
         surface_area: 1.010 × 10<sup>10</sup> km<sup>2</sup><br/>(19.803 Yrths)
         volume: 9.545 × 10<sup>13</sup> km<sup>3</sup><br/>(88.122 Yrths)
-        mass: 2.210 × 10<sup>26</sup> kg<br />(27.09271137655463 Yrths)
+        mass: 2.210 × 10<sup>26</sup> kg<br />(37.007 Yrths)
         density: 2.315 g/cm<sup>3</sup>
         surface_gravity: 18.327 m/s<sup>2</sup><br />(1.869 g<sub>0</sub>)
         escape_velocity: 32.258 km/s<br />(116,128 km/h)
         rotation_period: 50.907 d
         axial_tilt: 21.40°
         albedo: 0.30
-        temperature: 2830 K<br />(2557 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 210 Urthiad I e
         type: Dwarf planet
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 33,853.8 km<br/>(5.314 Yrths)
         surface_area: 1.440 × 10<sup>10</sup> km<sup>2</sup><br/>(28.236 Yrths)
         volume: 1.625 × 10<sup>14</sup> km<sup>3</sup><br/>(150.037 Yrths)
-        mass: 2.283 × 10<sup>26</sup> kg<br />(27.09271137655463 Yrths)
+        mass: 2.283 × 10<sup>26</sup> kg<br />(38.230 Yrths)
         density: 1.405 g/cm<sup>3</sup>
         surface_gravity: 13.278 m/s<sup>2</sup><br />(1.354 g<sub>0</sub>)
         escape_velocity: 30.004 km/s<br />(108,013 km/h)
         rotation_period: 54.715 d
         axial_tilt: 42.22°
         albedo: 0.30
-        temperature: 2698 K<br />(2425 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 210 Urthiad I f
         type: Icy
         formationType: Accreted
@@ -156,14 +156,14 @@ planets:
         radius: 27,594.1 km<br/>(4.331 Yrths)
         surface_area: 9.568 × 10<sup>09</sup> km<sup>2</sup><br/>(18.759 Yrths)
         volume: 8.801 × 10<sup>13</sup> km<sup>3</sup><br/>(81.250 Yrths)
-        mass: 1.672 × 10<sup>26</sup> kg<br />(27.09271137655463 Yrths)
+        mass: 1.672 × 10<sup>26</sup> kg<br />(28.001 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 14.638 m/s<sup>2</sup><br />(1.493 g<sub>0</sub>)
         escape_velocity: 28.442 km/s<br />(102,390 km/h)
         rotation_period: 38.549 d
         axial_tilt: 27.46°
         albedo: 0.30
-        temperature: 2573 K<br />(2300 °C)
+        temperature: 384 K<br />(111 °C)
   - name: 210 Urthiad II
     type: Gas giant
     aphelion: 421,956,470 km<br />2.821 AU
@@ -175,14 +175,14 @@ planets:
     radius: 159.7 km<br/>(0.025 Yrths)
     surface_area: 3.206 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.707 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.879 × 10<sup>26</sup> kg<br />(64.94715833555973 Yrths)
+    mass: 3.879 × 10<sup>26</sup> kg<br />(64.95 Yrths)
     density: 22717558.812 g/cm<sup>3</sup>
     surface_gravity: 1013155.838 m/s<sup>2</sup><br />(103313.143 g<sub>0</sub>)
     escape_velocity: 569.315 km/s<br />(2,049,535 km/h)
     rotation_period: 0.274 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1103 K<br />(830 °C)
+    temperature: 1055 K<br />(782 °C)
     composition:
       - 81.6632% hydrogen
       - 16.6346% helium
@@ -201,14 +201,14 @@ planets:
         radius: 96,467.3 km<br/>(15.142 Yrths)
         surface_area: 1.169 × 10<sup>11</sup> km<sup>2</sup><br/>(229.269 Yrths)
         volume: 3.760 × 10<sup>15</sup> km<sup>3</sup><br/>(3471.499 Yrths)
-        mass: 1.113 × 10<sup>28</sup> kg<br />(64.94715833555973 Yrths)
+        mass: 1.113 × 10<sup>28</sup> kg<br />(1863.653 Yrths)
         density: 2.960 g/cm<sup>3</sup>
         surface_gravity: 79.715 m/s<sup>2</sup><br />(8.129 g<sub>0</sub>)
         escape_velocity: 124.100 km/s<br />(446,758 km/h)
         rotation_period: 33.579 d
         axial_tilt: 23.81°
         albedo: 0.30
-        temperature: 2148 K<br />(1875 °C)
+        temperature: 279 K<br />(6 °C)
       - name: 210 Urthiad II b
         type: Icy
         formationType: Captured
@@ -221,15 +221,35 @@ planets:
         radius: 77,846.7 km<br/>(12.219 Yrths)
         surface_area: 7.615 × 10<sup>10</sup> km<sup>2</sup><br/>(149.302 Yrths)
         volume: 1.976 × 10<sup>15</sup> km<sup>3</sup><br/>(1824.306 Yrths)
-        mass: 3.183 × 10<sup>27</sup> kg<br />(64.94715833555973 Yrths)
+        mass: 3.183 × 10<sup>27</sup> kg<br />(533.029 Yrths)
         density: 1.611 g/cm<sup>3</sup>
         surface_gravity: 35.011 m/s<sup>2</sup><br />(3.570 g<sub>0</sub>)
         escape_velocity: 73.881 km/s<br />(265,972 km/h)
         rotation_period: 52.727 d
         axial_tilt: 16.63°
         albedo: 0.30
-        temperature: 1862 K<br />(1589 °C)
+        temperature: 279 K<br />(6 °C)
       - name: 210 Urthiad II c
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 43,296,301 km<br />
+        perihelion: 28,611,315 km<br />
+        semi_major_axis: 35,953,808 km<br />
+        eccentricity: 0.204
+        orbital_period: 0.03 d<br />
+        inclination: 2.33°
+        radius: 14,899.7 km<br/>(2.339 Yrths)
+        surface_area: 2.790 × 10<sup>09</sup> km<sup>2</sup><br/>(5.469 Yrths)
+        volume: 1.386 × 10<sup>13</sup> km<sup>3</sup><br/>(12.791 Yrths)
+        mass: 3.254 × 10<sup>25</sup> kg<br />(5.449 Yrths)
+        density: 2.349 g/cm<sup>3</sup>
+        surface_gravity: 9.770 m/s<sup>2</sup><br />(0.996 g<sub>0</sub>)
+        escape_velocity: 17.074 km/s<br />(61,467 km/h)
+        rotation_period: 36.511 d
+        axial_tilt: 13.10°
+        albedo: 0.30
+        temperature: 279 K<br />(6 °C)
+      - name: 210 Urthiad II d
         type: Icy
         formationType: Accreted
         aphelion: 53,094,444 km<br />
@@ -241,15 +261,15 @@ planets:
         radius: 97,521.0 km<br/>(15.307 Yrths)
         surface_area: 1.195 × 10<sup>11</sup> km<sup>2</sup><br/>(234.305 Yrths)
         volume: 3.885 × 10<sup>15</sup> km<sup>3</sup><br/>(3586.508 Yrths)
-        mass: 4.748 × 10<sup>27</sup> kg<br />(64.94715833555973 Yrths)
+        mass: 4.748 × 10<sup>27</sup> kg<br />(795.072 Yrths)
         density: 1.222 g/cm<sup>3</sup>
         surface_gravity: 33.277 m/s<sup>2</sup><br />(3.393 g<sub>0</sub>)
         escape_velocity: 80.618 km/s<br />(290,225 km/h)
         rotation_period: 84.565 d
         axial_tilt: 16.38°
         albedo: 0.30
-        temperature: 869 K<br />(596 °C)
-      - name: 210 Urthiad II d
+        temperature: 279 K<br />(6 °C)
+      - name: 210 Urthiad II e
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 60,543,798 km<br />
@@ -261,15 +281,15 @@ planets:
         radius: 84,218.1 km<br/>(13.219 Yrths)
         surface_area: 8.913 × 10<sup>10</sup> km<sup>2</sup><br/>(174.741 Yrths)
         volume: 2.502 × 10<sup>15</sup> km<sup>3</sup><br/>(2309.904 Yrths)
-        mass: 4.946 × 10<sup>27</sup> kg<br />(64.94715833555973 Yrths)
+        mass: 4.946 × 10<sup>27</sup> kg<br />(828.182 Yrths)
         density: 1.977 g/cm<sup>3</sup>
         surface_gravity: 46.478 m/s<sup>2</sup><br />(4.739 g<sub>0</sub>)
         escape_velocity: 88.540 km/s<br />(318,743 km/h)
         rotation_period: 38.634 d
         axial_tilt: 16.91°
         albedo: 0.30
-        temperature: 753 K<br />(480 °C)
-      - name: 210 Urthiad II e
+        temperature: 279 K<br />(6 °C)
+      - name: 210 Urthiad II f
         type: Ice/rock hybrid
         formationType: Impact formed
         aphelion: 106,222,699 km<br />
@@ -281,15 +301,15 @@ planets:
         radius: 62,381.2 km<br/>(9.791 Yrths)
         surface_area: 4.890 × 10<sup>10</sup> km<sup>2</sup><br/>(95.872 Yrths)
         volume: 1.017 × 10<sup>15</sup> km<sup>3</sup><br/>(938.723 Yrths)
-        mass: 2.521 × 10<sup>27</sup> kg<br />(64.94715833555973 Yrths)
+        mass: 2.521 × 10<sup>27</sup> kg<br />(422.055 Yrths)
         density: 2.479 g/cm<sup>3</sup>
         surface_gravity: 43.172 m/s<sup>2</sup><br />(4.402 g<sub>0</sub>)
         escape_velocity: 73.440 km/s<br />(264,386 km/h)
         rotation_period: 42.685 d
         axial_tilt: 24.81°
         albedo: 0.30
-        temperature: 566 K<br />(293 °C)
-      - name: 210 Urthiad II f
+        temperature: 279 K<br />(6 °C)
+      - name: 210 Urthiad II g
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 156,392,887 km<br />
@@ -301,14 +321,14 @@ planets:
         radius: 72,065.0 km<br/>(11.311 Yrths)
         surface_area: 6.526 × 10<sup>10</sup> km<sup>2</sup><br/>(127.948 Yrths)
         volume: 1.568 × 10<sup>15</sup> km<sup>3</sup><br/>(1447.274 Yrths)
-        mass: 2.847 × 10<sup>27</sup> kg<br />(64.94715833555973 Yrths)
+        mass: 2.847 × 10<sup>27</sup> kg<br />(476.807 Yrths)
         density: 1.816 g/cm<sup>3</sup>
         surface_gravity: 36.545 m/s<sup>2</sup><br />(3.727 g<sub>0</sub>)
         escape_velocity: 72.625 km/s<br />(261,451 km/h)
         rotation_period: 43.095 d
         axial_tilt: 19.88°
         albedo: 0.30
-        temperature: 468 K<br />(194 °C)
+        temperature: 279 K<br />(6 °C)
   - name: 210 Urthiad III
     type: Terrestrial
     aphelion: 901,974,360 km<br />6.029 AU
@@ -320,7 +340,7 @@ planets:
     radius: 4,523.3 km<br/>(0.710 Yrths)
     surface_area: 2.571 × 10<sup>08</sup> km<sup>2</sup><br/>(0.504 Yrths)
     volume: 3.877 × 10<sup>11</sup> km<sup>3</sup><br/>(0.358 Yrths)
-    mass: 2.091 × 10<sup>24</sup> kg<br />(0.3501526801880872 Yrths)
+    mass: 2.091 × 10<sup>24</sup> kg<br />(0.35 Yrths)
     density: 5.394 g/cm<sup>3</sup>
     surface_gravity: 6.812 m/s<sup>2</sup><br />(0.695 g<sub>0</sub>)
     escape_velocity: 7.856 km/s<br />(28,280 km/h)
@@ -341,12 +361,12 @@ planets:
         radius: 1,462.5 km<br/>(0.230 Yrths)
         surface_area: 2.688 × 10<sup>07</sup> km<sup>2</sup><br/>(0.053 Yrths)
         volume: 1.310 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 1.722 × 10<sup>22</sup> kg<br />(0.3501526801880872 Yrths)
+        mass: 1.722 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.314 g/cm<sup>3</sup>
         surface_gravity: 0.537 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 1.254 km/s<br />(4,513 km/h)
         rotation_period: 49.000 d
         axial_tilt: 14.17°
         albedo: 0.30
-        temperature: 3721 K<br />(3447 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0070 Nuariad is a star in the constellation Nuari
+      0070 Nuariad is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 93.66 ly
 apparent_magnitude: 6.44
 absolute_magnitude: 4.15
@@ -31,14 +31,14 @@ planets:
     radius: 4,335.0 km<br/>(0.680 Yrths)
     surface_area: 2.362 × 10<sup>08</sup> km<sup>2</sup><br/>(0.463 Yrths)
     volume: 3.412 × 10<sup>11</sup> km<sup>3</sup><br/>(0.315 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.750 g/cm<sup>3</sup>
     surface_gravity: 2.118 m/s<sup>2</sup><br />(0.216 g<sub>0</sub>)
     escape_velocity: 4.288 km/s<br />(15,438 km/h)
     rotation_period: 1.803 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 459 K<br />(186 °C)
+    temperature: 414 K<br />(141 °C)
     composition:
       - 99.7445% hydrogen
       - 0.1654% water vapor
@@ -56,14 +56,14 @@ planets:
         radius: 463.0 km<br/>(0.073 Yrths)
         surface_area: 2.694 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 4.158 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.038 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.038 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.212 g/cm<sup>3</sup>
         surface_gravity: 0.157 m/s<sup>2</sup><br />(0.016 g<sub>0</sub>)
         escape_velocity: 0.381 km/s<br />(1,372 km/h)
         rotation_period: 80.051 d
         axial_tilt: 19.94°
         albedo: 0.30
-        temperature: 4452 K<br />(4179 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 0070 Nuariad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 411.7 km<br/>(0.065 Yrths)
         surface_area: 2.130 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.923 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.887 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.887 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.356 g/cm<sup>3</sup>
         surface_gravity: 0.271 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.473 km/s<br />(1,701 km/h)
         rotation_period: 46.140 d
         axial_tilt: 19.47°
         albedo: 0.30
-        temperature: 4048 K<br />(3774 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 0070 Nuariad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 815.3 km<br/>(0.128 Yrths)
         surface_area: 8.354 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.270 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.229 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.229 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.863 g/cm<sup>3</sup>
         surface_gravity: 0.424 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.832 km/s<br />(2,995 km/h)
         rotation_period: 44.485 d
         axial_tilt: 21.79°
         albedo: 0.30
-        temperature: 3680 K<br />(3406 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 0070 Nuariad I d
         type: Icy
         formationType: Impact formed
@@ -116,14 +116,14 @@ planets:
         radius: 581.9 km<br/>(0.091 Yrths)
         surface_area: 4.256 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.255 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 9.437 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.437 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.143 g/cm<sup>3</sup>
         surface_gravity: 0.186 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.465 km/s<br />(1,675 km/h)
         rotation_period: 63.921 d
         axial_tilt: 17.89°
         albedo: 0.30
-        temperature: 3345 K<br />(3072 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 0070 Nuariad I e
         type: Icy
         formationType: Impact formed
@@ -136,14 +136,14 @@ planets:
         radius: 429.0 km<br/>(0.067 Yrths)
         surface_area: 2.313 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.307 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.313 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.313 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.607 g/cm<sup>3</sup>
         surface_gravity: 0.192 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.407 km/s<br />(1,464 km/h)
         rotation_period: 44.004 d
         axial_tilt: 14.82°
         albedo: 0.30
-        temperature: 3041 K<br />(2768 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 0070 Nuariad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -156,14 +156,14 @@ planets:
         radius: 483.5 km<br/>(0.076 Yrths)
         surface_area: 2.937 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.733 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 9.494 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.494 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.006 g/cm<sup>3</sup>
         surface_gravity: 0.271 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.512 km/s<br />(1,843 km/h)
         rotation_period: 63.754 d
         axial_tilt: 9.98°
         albedo: 0.30
-        temperature: 2899 K<br />(2626 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 0070 Nuariad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 722.7 km<br/>(0.113 Yrths)
         surface_area: 6.563 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.581 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.723 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.723 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.722 g/cm<sup>3</sup>
         surface_gravity: 0.348 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.709 km/s<br />(2,553 km/h)
         rotation_period: 39.239 d
         axial_tilt: 22.38°
         albedo: 0.30
-        temperature: 2765 K<br />(2491 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 0070 Nuariad I h
         type: Icy
         formationType: Accreted
@@ -196,14 +196,14 @@ planets:
         radius: 973.0 km<br/>(0.153 Yrths)
         surface_area: 1.190 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.859 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.090 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.090 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.060 g/cm<sup>3</sup>
         surface_gravity: 0.288 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.749 km/s<br />(2,697 km/h)
         rotation_period: 48.230 d
         axial_tilt: 19.86°
         albedo: 0.30
-        temperature: 2636 K<br />(2363 °C)
+        temperature: 267 K<br />(-6 °C)
   - name: 0070 Nuariad II
     type: Large terrestrial
     aphelion: 382,498,023 km<br />2.557 AU
@@ -215,14 +215,14 @@ planets:
     radius: 7,763.9 km<br/>(1.219 Yrths)
     surface_area: 7.575 × 10<sup>08</sup> km<sup>2</sup><br/>(1.485 Yrths)
     volume: 1.960 × 10<sup>12</sup> km<sup>3</sup><br/>(1.810 Yrths)
-    mass: 1.307 × 10<sup>25</sup> kg<br />(2.1882774238940033 Yrths)
+    mass: 1.307 × 10<sup>25</sup> kg<br />(2.19 Yrths)
     density: 6.666 g/cm<sup>3</sup>
     surface_gravity: 14.450 m/s<sup>2</sup><br />(1.474 g<sub>0</sub>)
     escape_velocity: 14.990 km/s<br />(53,963 km/h)
     rotation_period: 1.094 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 328 K<br />(55 °C)
+    temperature: 879 K<br />(606 °C)
     surface_pressure: 301 kPa<br />(3 atm)
     composition:
       - 91.6478% carbon dioxide
@@ -240,14 +240,14 @@ planets:
         radius: 4,245.2 km<br/>(0.666 Yrths)
         surface_area: 2.265 × 10<sup>08</sup> km<sup>2</sup><br/>(0.444 Yrths)
         volume: 3.205 × 10<sup>11</sup> km<sup>3</sup><br/>(0.296 Yrths)
-        mass: 8.902 × 10<sup>23</sup> kg<br />(2.1882774238940033 Yrths)
+        mass: 8.902 × 10<sup>23</sup> kg<br />(0.149 Yrths)
         density: 2.778 g/cm<sup>3</sup>
         surface_gravity: 3.292 m/s<sup>2</sup><br />(0.336 g<sub>0</sub>)
         escape_velocity: 5.291 km/s<br />(19,046 km/h)
         rotation_period: 32.381 d
         axial_tilt: 43.86°
         albedo: 0.30
-        temperature: 3102 K<br />(2829 °C)
+        temperature: 197 K<br />(-76 °C)
       - name: 0070 Nuariad II b
         type: Rocky
         formationType: Captured
@@ -260,14 +260,14 @@ planets:
         radius: 1,707.4 km<br/>(0.268 Yrths)
         surface_area: 3.663 × 10<sup>07</sup> km<sup>2</sup><br/>(0.072 Yrths)
         volume: 2.085 × 10<sup>10</sup> km<sup>3</sup><br/>(0.019 Yrths)
-        mass: 5.767 × 10<sup>22</sup> kg<br />(2.1882774238940033 Yrths)
+        mass: 5.767 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.766 g/cm<sup>3</sup>
         surface_gravity: 1.319 m/s<sup>2</sup><br />(0.134 g<sub>0</sub>)
         escape_velocity: 2.123 km/s<br />(7,644 km/h)
         rotation_period: 55.519 d
         axial_tilt: 10.24°
         albedo: 0.30
-        temperature: 2958 K<br />(2685 °C)
+        temperature: 197 K<br />(-76 °C)
       - name: 0070 Nuariad II c
         type: Asteroid
         formationType: Captured
@@ -280,14 +280,14 @@ planets:
         radius: 1,970.2 km<br/>(0.309 Yrths)
         surface_area: 4.878 × 10<sup>07</sup> km<sup>2</sup><br/>(0.096 Yrths)
         volume: 3.203 × 10<sup>10</sup> km<sup>3</sup><br/>(0.030 Yrths)
-        mass: 6.580 × 10<sup>22</sup> kg<br />(2.1882774238940033 Yrths)
+        mass: 6.580 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 2.054 g/cm<sup>3</sup>
         surface_gravity: 1.130 m/s<sup>2</sup><br />(0.115 g<sub>0</sub>)
         escape_velocity: 2.111 km/s<br />(7,601 km/h)
         rotation_period: 42.603 d
         axial_tilt: 45.34°
         albedo: 0.30
-        temperature: 2820 K<br />(2547 °C)
+        temperature: 197 K<br />(-76 °C)
       - name: 0070 Nuariad II d
         type: Asteroid
         formationType: Captured
@@ -300,14 +300,14 @@ planets:
         radius: 3,352.7 km<br/>(0.526 Yrths)
         surface_area: 1.413 × 10<sup>08</sup> km<sup>2</sup><br/>(0.277 Yrths)
         volume: 1.579 × 10<sup>11</sup> km<sup>3</sup><br/>(0.146 Yrths)
-        mass: 4.971 × 10<sup>23</sup> kg<br />(2.1882774238940033 Yrths)
+        mass: 4.971 × 10<sup>23</sup> kg<br />(0.083 Yrths)
         density: 3.149 g/cm<sup>3</sup>
         surface_gravity: 2.948 m/s<sup>2</sup><br />(0.301 g<sub>0</sub>)
         escape_velocity: 4.449 km/s<br />(16,016 km/h)
         rotation_period: 53.899 d
         axial_tilt: 58.03°
         albedo: 0.30
-        temperature: 2689 K<br />(2416 °C)
+        temperature: 197 K<br />(-76 °C)
   - name: 0070 Nuariad III
     type: Large terrestrial
     aphelion: 701,432,429 km<br />4.689 AU
@@ -319,14 +319,14 @@ planets:
     radius: 11,384.8 km<br/>(1.787 Yrths)
     surface_area: 1.629 × 10<sup>09</sup> km<sup>2</sup><br/>(3.193 Yrths)
     volume: 6.181 × 10<sup>12</sup> km<sup>3</sup><br/>(5.706 Yrths)
-    mass: 4.391 × 10<sup>25</sup> kg<br />(7.35264867887709 Yrths)
+    mass: 4.391 × 10<sup>25</sup> kg<br />(7.35 Yrths)
     density: 7.104 g/cm<sup>3</sup>
     surface_gravity: 22.580 m/s<sup>2</sup><br />(2.303 g<sub>0</sub>)
     escape_velocity: 22.690 km/s<br />(81,685 km/h)
     rotation_period: 0.687 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 177 K<br />(-96 °C)
+    temperature: 204 K<br />(-70 °C)
     surface_pressure: 83 kPa<br />(1 atm)
     composition:
       - 69.6491% ammonia
@@ -345,14 +345,14 @@ planets:
         radius: 9,666.1 km<br/>(1.517 Yrths)
         surface_area: 1.174 × 10<sup>09</sup> km<sup>2</sup><br/>(2.302 Yrths)
         volume: 3.783 × 10<sup>12</sup> km<sup>3</sup><br/>(3.492 Yrths)
-        mass: 1.011 × 10<sup>25</sup> kg<br />(7.35264867887709 Yrths)
+        mass: 1.011 × 10<sup>25</sup> kg<br />(1.694 Yrths)
         density: 2.673 g/cm<sup>3</sup>
         surface_gravity: 7.215 m/s<sup>2</sup><br />(0.736 g<sub>0</sub>)
         escape_velocity: 11.818 km/s<br />(42,546 km/h)
         rotation_period: 47.293 d
         axial_tilt: 22.51°
         albedo: 0.30
-        temperature: 1485 K<br />(1212 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0070 Nuariad III b
         type: Rocky
         formationType: Impact formed
@@ -365,14 +365,14 @@ planets:
         radius: 11,226.3 km<br/>(1.762 Yrths)
         surface_area: 1.584 × 10<sup>09</sup> km<sup>2</sup><br/>(3.105 Yrths)
         volume: 5.926 × 10<sup>12</sup> km<sup>3</sup><br/>(5.471 Yrths)
-        mass: 1.483 × 10<sup>25</sup> kg<br />(7.35264867887709 Yrths)
+        mass: 1.483 × 10<sup>25</sup> kg<br />(2.484 Yrths)
         density: 2.503 g/cm<sup>3</sup>
         surface_gravity: 7.844 m/s<sup>2</sup><br />(0.800 g<sub>0</sub>)
         escape_velocity: 13.280 km/s<br />(47,809 km/h)
         rotation_period: 48.841 d
         axial_tilt: 11.16°
         albedo: 0.30
-        temperature: 1416 K<br />(1142 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0070 Nuariad III c
         type: Rocky
         formationType: Captured
@@ -385,14 +385,14 @@ planets:
         radius: 2,960.8 km<br/>(0.465 Yrths)
         surface_area: 1.102 × 10<sup>08</sup> km<sup>2</sup><br/>(0.216 Yrths)
         volume: 1.087 × 10<sup>11</sup> km<sup>3</sup><br/>(0.100 Yrths)
-        mass: 3.593 × 10<sup>23</sup> kg<br />(7.35264867887709 Yrths)
+        mass: 3.593 × 10<sup>23</sup> kg<br />(0.060 Yrths)
         density: 3.305 g/cm<sup>3</sup>
         surface_gravity: 2.732 m/s<sup>2</sup><br />(0.279 g<sub>0</sub>)
         escape_velocity: 4.025 km/s<br />(14,490 km/h)
         rotation_period: 39.092 d
         axial_tilt: 20.47°
         albedo: 0.30
-        temperature: 1350 K<br />(1077 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0070 Nuariad III d
         type: Rocky
         formationType: Accreted
@@ -405,14 +405,14 @@ planets:
         radius: 10,980.6 km<br/>(1.724 Yrths)
         surface_area: 1.515 × 10<sup>09</sup> km<sup>2</sup><br/>(2.971 Yrths)
         volume: 5.546 × 10<sup>12</sup> km<sup>3</sup><br/>(5.120 Yrths)
-        mass: 1.404 × 10<sup>25</sup> kg<br />(7.35264867887709 Yrths)
+        mass: 1.404 × 10<sup>25</sup> kg<br />(2.351 Yrths)
         density: 2.532 g/cm<sup>3</sup>
         surface_gravity: 7.761 m/s<sup>2</sup><br />(0.791 g<sub>0</sub>)
         escape_velocity: 13.064 km/s<br />(47,032 km/h)
         rotation_period: 41.143 d
         axial_tilt: 11.48°
         albedo: 0.30
-        temperature: 1287 K<br />(1014 °C)
+        temperature: 146 K<br />(-127 °C)
   - name: 0070 Nuariad IV
     type: Large terrestrial
     aphelion: 1,287,710,660 km<br />8.608 AU
@@ -424,14 +424,14 @@ planets:
     radius: 11,792.7 km<br/>(1.851 Yrths)
     surface_area: 1.748 × 10<sup>09</sup> km<sup>2</sup><br/>(3.426 Yrths)
     volume: 6.870 × 10<sup>12</sup> km<sup>3</sup><br/>(6.342 Yrths)
-    mass: 4.460 × 10<sup>25</sup> kg<br />(7.468997490855873 Yrths)
+    mass: 4.460 × 10<sup>25</sup> kg<br />(7.47 Yrths)
     density: 6.493 g/cm<sup>3</sup>
     surface_gravity: 21.378 m/s<sup>2</sup><br />(2.180 g<sub>0</sub>)
     escape_velocity: 22.470 km/s<br />(80,892 km/h)
     rotation_period: 0.609 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 136 K<br />(-137 °C)
+    temperature: 160 K<br />(-113 °C)
     surface_pressure: 150 kPa<br />(1 atm)
     composition:
       - 73.9581% methane
@@ -452,14 +452,14 @@ planets:
         radius: 14,260.1 km<br/>(2.238 Yrths)
         surface_area: 2.555 × 10<sup>09</sup> km<sup>2</sup><br/>(5.010 Yrths)
         volume: 1.215 × 10<sup>13</sup> km<sup>3</sup><br/>(11.214 Yrths)
-        mass: 2.437 × 10<sup>25</sup> kg<br />(7.468997490855873 Yrths)
+        mass: 2.437 × 10<sup>25</sup> kg<br />(4.080 Yrths)
         density: 2.006 g/cm<sup>3</sup>
         surface_gravity: 7.987 m/s<sup>2</sup><br />(0.814 g<sub>0</sub>)
         escape_velocity: 15.103 km/s<br />(54,369 km/h)
         rotation_period: 54.786 d
         axial_tilt: 19.59°
         albedo: 0.30
-        temperature: 1099 K<br />(826 °C)
+        temperature: 108 K<br />(-166 °C)
       - name: 0070 Nuariad IV b
         type: Asteroid
         formationType: Captured
@@ -472,12 +472,12 @@ planets:
         radius: 11,165.6 km<br/>(1.753 Yrths)
         surface_area: 1.567 × 10<sup>09</sup> km<sup>2</sup><br/>(3.071 Yrths)
         volume: 5.831 × 10<sup>12</sup> km<sup>3</sup><br/>(5.383 Yrths)
-        mass: 1.626 × 10<sup>25</sup> kg<br />(7.468997490855873 Yrths)
+        mass: 1.626 × 10<sup>25</sup> kg<br />(2.723 Yrths)
         density: 2.789 g/cm<sup>3</sup>
         surface_gravity: 8.693 m/s<sup>2</sup><br />(0.886 g<sub>0</sub>)
         escape_velocity: 13.942 km/s<br />(50,192 km/h)
         rotation_period: 36.773 d
         axial_tilt: 22.13°
         albedo: 0.30
-        temperature: 1048 K<br />(775 °C)
+        temperature: 108 K<br />(-166 °C)
 ---

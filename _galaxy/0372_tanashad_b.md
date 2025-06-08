@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0372 Tanashad B is a star in the constellation Tanas
+      0372 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1558.08 ly
 apparent_magnitude: 16.05
 absolute_magnitude: 7.65

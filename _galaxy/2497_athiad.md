@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2497 Athiad is a star in the constellation Ath
+      2497 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 956.02 ly
 apparent_magnitude: 7.36
 absolute_magnitude: 0.03
@@ -31,14 +31,14 @@ planets:
     radius: 7,377.2 km<br/>(1.158 Yrths)
     surface_area: 6.839 × 10<sup>08</sup> km<sup>2</sup><br/>(1.341 Yrths)
     volume: 1.682 × 10<sup>12</sup> km<sup>3</sup><br/>(1.553 Yrths)
-    mass: 1.055 × 10<sup>25</sup> kg<br />(1.7662978616791323 Yrths)
+    mass: 1.055 × 10<sup>25</sup> kg<br />(1.77 Yrths)
     density: 6.272 g/cm<sup>3</sup>
     surface_gravity: 12.919 m/s<sup>2</sup><br />(1.317 g<sub>0</sub>)
     escape_velocity: 13.815 km/s<br />(49,735 km/h)
     rotation_period: 0.791 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 822 K<br />(549 °C)
+    temperature: 1061 K<br />(788 °C)
     surface_pressure: 817 kPa<br />(8 atm)
     composition:
       - 74.7903% nitrogen
@@ -58,12 +58,12 @@ planets:
         radius: 4,636.5 km<br/>(0.728 Yrths)
         surface_area: 2.701 × 10<sup>08</sup> km<sup>2</sup><br/>(0.530 Yrths)
         volume: 4.175 × 10<sup>11</sup> km<sup>3</sup><br/>(0.385 Yrths)
-        mass: 1.503 × 10<sup>24</sup> kg<br />(1.7662978616791323 Yrths)
+        mass: 1.503 × 10<sup>24</sup> kg<br />(0.252 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 4.660 m/s<sup>2</sup><br />(0.475 g<sub>0</sub>)
         escape_velocity: 6.578 km/s<br />(23,681 km/h)
         rotation_period: 26.492 d
         axial_tilt: 6.71°
         albedo: 0.30
-        temperature: 8542 K<br />(8269 °C)
+        temperature: 572 K<br />(299 °C)
 ---

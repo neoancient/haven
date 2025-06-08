@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Lunaiad A is a star in the constellation Luna
+      ο Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 523.45 ly
 apparent_magnitude: 5.27
 absolute_magnitude: -0.75

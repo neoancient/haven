@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0047 Norriad B is a star in the constellation Nor
+      0047 Norriad B is a star in the constellation <a href="nor.html">Nor</a>
 distance: 2143.10 ly
 apparent_magnitude: 15.27
 absolute_magnitude: 6.18

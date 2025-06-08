@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6448 Dialkeshiad is a star in the constellation Dialkes
+      6448 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 319.63 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 6.02

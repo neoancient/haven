@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0119 Rukentuaiad A is a star in the constellation Rukentua
+      0119 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 320.01 ly
 apparent_magnitude: 6.16
 absolute_magnitude: 1.20

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      113161 Tanashad is a star in the constellation Tanas
+      113161 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 548.57 ly
 apparent_magnitude: 11.43
 absolute_magnitude: 5.30

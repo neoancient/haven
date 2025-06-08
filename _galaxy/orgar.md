@@ -727,15 +727,15 @@ stars:
     absolute_magnitude: 3.19
     distance: 149.49
     spectral_class: G4III
-  - name: 
+  - name:
     designation: <a href="428_orgarriad.html">428 Orgarriad</a>
     ra: 6<sup>h</sup> 45<sup>m</sup> 12.00<sup>s</sup>
     dec: 12° 30' 0.00"
-    apparent_magnitude: 7.86
-    absolute_magnitude: 5.39
+    apparent_magnitude: 10.46
+    absolute_magnitude: 7.99
     distance: 102.06
-    spectral_class: G7V
-  - name: 
+    spectral_class: K8V
+  - name:
     designation: <a href="42554_orgarriad.html">42554 Orgarriad</a>
     ra: 6<sup>h</sup> 44<sup>m</sup> 48.00<sup>s</sup>
     dec: -5° 47' 60.00"
@@ -743,7 +743,7 @@ stars:
     absolute_magnitude: 6.10
     distance: 341.00
     spectral_class: G8V
-  - name: 
+  - name:
     designation: <a href="193534_orgarriad.html">193534 Orgarriad</a>
     ra: 6<sup>h</sup> 21<sup>m</sup> 36.00<sup>s</sup>
     dec: -8° 53' 60.00"
@@ -751,7 +751,7 @@ stars:
     absolute_magnitude: 7.75
     distance: 264.33
     spectral_class: K8V
-  - name: 
+  - name:
     designation: <a href="461993_orgarriad.html">461993 Orgarriad</a>
     ra: 6<sup>h</sup> 43<sup>m</sup> 12.00<sup>s</sup>
     dec: -6° 24' 0.00"

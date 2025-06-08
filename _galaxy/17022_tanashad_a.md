@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      17022 Tanashad A is a star in the constellation Tanas
+      17022 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 498.25 ly
 apparent_magnitude: 7.76
 absolute_magnitude: 1.84

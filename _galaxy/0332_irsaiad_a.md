@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0332 Irsaiad A is a star in the constellation Irsa
+      0332 Irsaiad A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 133.90 ly
 apparent_magnitude: 6.93
 absolute_magnitude: 3.86

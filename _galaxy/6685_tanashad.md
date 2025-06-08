@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6685 Tanashad is a star in the constellation Tanas
+      6685 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 195.67 ly
 apparent_magnitude: 10.21
 absolute_magnitude: 6.32

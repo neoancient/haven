@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      535 Tanashad is a star in the constellation Tanas
+      535 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 243.88 ly
 apparent_magnitude: 10.36
 absolute_magnitude: 6.00

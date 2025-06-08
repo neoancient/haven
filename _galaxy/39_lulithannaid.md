@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      39 Lulithannaid is a star in the constellation Lulithan
+      39 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 335.84 ly
 apparent_magnitude: 10.18
 absolute_magnitude: 5.11

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1254 Keead is a star in the constellation Kee
+      1254 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 607.20 ly
 apparent_magnitude: 8.12
 absolute_magnitude: 1.77

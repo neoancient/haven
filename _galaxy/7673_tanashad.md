@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7673 Tanashad is a star in the constellation Tanas
+      7673 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 462.70 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 4.74

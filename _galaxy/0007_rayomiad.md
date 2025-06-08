@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0007 Rayomiad is a star in the constellation Rayom
+      0007 Rayomiad is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 0.81 ly
 apparent_magnitude: 6.14
 absolute_magnitude: 14.16
@@ -31,14 +31,14 @@ planets:
     radius: 2,764.2 km<br/>(0.434 Yrths)
     surface_area: 9.602 × 10<sup>07</sup> km<sup>2</sup><br/>(0.188 Yrths)
     volume: 8.847 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
-    mass: 1.624 × 10<sup>25</sup> kg<br />(2.7186388991181043 Yrths)
+    mass: 1.624 × 10<sup>25</sup> kg<br />(2.72 Yrths)
     density: 183.511 g/cm<sup>3</sup>
     surface_gravity: 141.625 m/s<sup>2</sup><br />(14.442 g<sub>0</sub>)
     escape_velocity: 28.001 km/s<br />(100,802 km/h)
     rotation_period: 2.381 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 416 K<br />(143 °C)
+    temperature: 1027 K<br />(754 °C)
     surface_pressure: 1,096 kPa<br />(11 atm)
     composition:
       - 75.1214% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 4,074.4 km<br/>(0.640 Yrths)
         surface_area: 2.086 × 10<sup>08</sup> km<sup>2</sup><br/>(0.409 Yrths)
         volume: 2.833 × 10<sup>11</sup> km<sup>3</sup><br/>(0.262 Yrths)
-        mass: 9.268 × 10<sup>23</sup> kg<br />(2.7186388991181043 Yrths)
+        mass: 9.268 × 10<sup>23</sup> kg<br />(0.155 Yrths)
         density: 3.271 g/cm<sup>3</sup>
         surface_gravity: 3.721 m/s<sup>2</sup><br />(0.379 g<sub>0</sub>)
         escape_velocity: 5.510 km/s<br />(19,838 km/h)
         rotation_period: 28.309 d
         axial_tilt: 7.96°
         albedo: 0.30
-        temperature: 2493 K<br />(2219 °C)
+        temperature: 239 K<br />(-34 °C)
   - name: 0007 Rayomiad II
     type: Terrestrial
     aphelion: 20,783,447 km<br />0.139 AU
@@ -75,14 +75,14 @@ planets:
     radius: 3,056.0 km<br/>(0.480 Yrths)
     surface_area: 1.174 × 10<sup>08</sup> km<sup>2</sup><br/>(0.230 Yrths)
     volume: 1.196 × 10<sup>11</sup> km<sup>3</sup><br/>(0.110 Yrths)
-    mass: 3.793 × 10<sup>24</sup> kg<br />(0.6351021065637966 Yrths)
+    mass: 3.793 × 10<sup>24</sup> kg<br />(0.64 Yrths)
     density: 31.726 g/cm<sup>3</sup>
     surface_gravity: 27.069 m/s<sup>2</sup><br />(2.760 g<sub>0</sub>)
     escape_velocity: 12.871 km/s<br />(46,337 km/h)
     rotation_period: 6.503 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 235 K<br />(-38 °C)
+    temperature: 228 K<br />(-45 °C)
     surface_pressure: 48 kPa<br />(0 atm)
     composition:
       - 74.6180% nitrogen
@@ -102,14 +102,14 @@ planets:
         radius: 1,143.6 km<br/>(0.180 Yrths)
         surface_area: 1.643 × 10<sup>07</sup> km<sup>2</sup><br/>(0.032 Yrths)
         volume: 6.265 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.919 × 10<sup>22</sup> kg<br />(0.6351021065637966 Yrths)
+        mass: 1.919 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 3.064 g/cm<sup>3</sup>
         surface_gravity: 0.978 m/s<sup>2</sup><br />(0.100 g<sub>0</sub>)
         escape_velocity: 1.497 km/s<br />(5,389 km/h)
         rotation_period: 36.095 d
         axial_tilt: 7.68°
         albedo: 0.30
-        temperature: 2151 K<br />(1878 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 0007 Rayomiad III
     type: Terrestrial
     aphelion: 29,015,591 km<br />0.194 AU
@@ -121,14 +121,14 @@ planets:
     radius: 2,900.1 km<br/>(0.455 Yrths)
     surface_area: 1.057 × 10<sup>08</sup> km<sup>2</sup><br/>(0.207 Yrths)
     volume: 1.022 × 10<sup>11</sup> km<sup>3</sup><br/>(0.094 Yrths)
-    mass: 2.682 × 10<sup>24</sup> kg<br />(0.44916854986596083 Yrths)
+    mass: 2.682 × 10<sup>24</sup> kg<br />(0.45 Yrths)
     density: 26.255 g/cm<sup>3</sup>
     surface_gravity: 21.258 m/s<sup>2</sup><br />(2.168 g<sub>0</sub>)
     escape_velocity: 11.112 km/s<br />(40,002 km/h)
     rotation_period: 5.236 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 276 K<br />(3 °C)
+    temperature: 755 K<br />(482 °C)
     surface_pressure: 135 kPa<br />(1 atm)
     composition:
       - 94.3954% carbon dioxide
@@ -146,14 +146,14 @@ planets:
         radius: 1,041.3 km<br/>(0.163 Yrths)
         surface_area: 1.363 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.729 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 9.839 × 10<sup>21</sup> kg<br />(0.44916854986596083 Yrths)
+        mass: 9.839 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.080 g/cm<sup>3</sup>
         surface_gravity: 0.605 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 1.123 km/s<br />(4,043 km/h)
         rotation_period: 51.832 d
         axial_tilt: 16.59°
         albedo: 0.30
-        temperature: 2504 K<br />(2231 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 0007 Rayomiad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -166,14 +166,14 @@ planets:
         radius: 480.8 km<br/>(0.075 Yrths)
         surface_area: 2.905 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.656 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.304 × 10<sup>21</sup> kg<br />(0.44916854986596083 Yrths)
+        mass: 1.304 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 0.376 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.602 km/s<br />(2,166 km/h)
         rotation_period: 38.932 d
         axial_tilt: 19.76°
         albedo: 0.30
-        temperature: 2388 K<br />(2114 °C)
+        temperature: 171 K<br />(-102 °C)
   - name: 0007 Rayomiad IV
     type: Terrestrial
     aphelion: 40,151,628 km<br />0.268 AU
@@ -185,14 +185,14 @@ planets:
     radius: 3,045.0 km<br/>(0.478 Yrths)
     surface_area: 1.165 × 10<sup>08</sup> km<sup>2</sup><br/>(0.228 Yrths)
     volume: 1.183 × 10<sup>11</sup> km<sup>3</sup><br/>(0.109 Yrths)
-    mass: 3.639 × 10<sup>24</sup> kg<br />(0.6093740441944266 Yrths)
+    mass: 3.639 × 10<sup>24</sup> kg<br />(0.61 Yrths)
     density: 30.773 g/cm<sup>3</sup>
     surface_gravity: 26.161 m/s<sup>2</sup><br />(2.668 g<sub>0</sub>)
     escape_velocity: 12.631 km/s<br />(45,471 km/h)
     rotation_period: 3.512 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 184 K<br />(-90 °C)
+    temperature: 214 K<br />(-59 °C)
     surface_pressure: 121 kPa<br />(1 atm)
     composition:
       - 88.3845% nitrogen
@@ -210,12 +210,12 @@ planets:
         radius: 1,504.4 km<br/>(0.236 Yrths)
         surface_area: 2.844 × 10<sup>07</sup> km<sup>2</sup><br/>(0.056 Yrths)
         volume: 1.426 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 4.910 × 10<sup>22</sup> kg<br />(0.6093740441944266 Yrths)
+        mass: 4.910 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 3.443 g/cm<sup>3</sup>
         surface_gravity: 1.446 m/s<sup>2</sup><br />(0.147 g<sub>0</sub>)
         escape_velocity: 2.087 km/s<br />(7,514 km/h)
         rotation_period: 40.432 d
         axial_tilt: 8.93°
         albedo: 0.30
-        temperature: 1593 K<br />(1320 °C)
+        temperature: 145 K<br />(-129 °C)
 ---

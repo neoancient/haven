@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      94 Shanniashiad A is a star in the constellation Shannias
+      94 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 322.46 ly
 apparent_magnitude: 10.55
 absolute_magnitude: 5.57

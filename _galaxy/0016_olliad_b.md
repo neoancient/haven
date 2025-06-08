@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0016 Olliad B is a star in the constellation Ol
+      0016 Olliad B is a star in the constellation <a href="ol.html">Ol</a>
 distance: 401.46 ly
 apparent_magnitude: 11.58
 absolute_magnitude: 6.13

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3708 Noniashad is a star in the constellation Nonias
+      3708 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 759.03 ly
 apparent_magnitude: 11.76
 absolute_magnitude: 4.93

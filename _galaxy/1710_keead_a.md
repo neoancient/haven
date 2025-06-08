@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1710 Keead A is a star in the constellation Kee
+      1710 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 188.56 ly
 apparent_magnitude: 7.51
 absolute_magnitude: 3.70

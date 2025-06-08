@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      375 Oniad is a star in the constellation Oni
+      375 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 233.84 ly
 apparent_magnitude: 9.65
 absolute_magnitude: 5.37

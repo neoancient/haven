@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1331 Urthiad is a star in the constellation Urth
+      1331 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 503.33 ly
 apparent_magnitude: 11.14
 absolute_magnitude: 5.20

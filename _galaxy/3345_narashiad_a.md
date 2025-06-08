@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3345 Narashiad A is a star in the constellation Naras
+      3345 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 254.21 ly
 apparent_magnitude: 10.03
 absolute_magnitude: 5.57

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0060 Morrishothiad is a star in the constellation Morrishoth
+      0060 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 141.77 ly
 apparent_magnitude: 6.31
 absolute_magnitude: 3.12
@@ -31,14 +31,14 @@ planets:
     radius: 25,860.7 km<br/>(4.059 Yrths)
     surface_area: 8.404 × 10<sup>09</sup> km<sup>2</sup><br/>(16.476 Yrths)
     volume: 7.244 × 10<sup>13</sup> km<sup>3</sup><br/>(66.880 Yrths)
-    mass: 9.728 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+    mass: 9.728 × 10<sup>25</sup> kg<br />(16.29 Yrths)
     density: 1.343 g/cm<sup>3</sup>
     surface_gravity: 9.696 m/s<sup>2</sup><br />(0.989 g<sub>0</sub>)
     escape_velocity: 22.409 km/s<br />(80,671 km/h)
     rotation_period: 0.636 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 428 K<br />(154 °C)
+    temperature: 384 K<br />(111 °C)
     composition:
       - 91.5877% helium
       - 8.4123% nitrogen
@@ -55,14 +55,14 @@ planets:
         radius: 13,982.8 km<br/>(2.195 Yrths)
         surface_area: 2.457 × 10<sup>09</sup> km<sup>2</sup><br/>(4.817 Yrths)
         volume: 1.145 × 10<sup>13</sup> km<sup>3</sup><br/>(10.572 Yrths)
-        mass: 2.258 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 2.258 × 10<sup>25</sup> kg<br />(3.780 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 7.696 m/s<sup>2</sup><br />(0.785 g<sub>0</sub>)
         escape_velocity: 14.681 km/s<br />(52,851 km/h)
         rotation_period: 57.800 d
         axial_tilt: 19.16°
         albedo: 0.30
-        temperature: 2041 K<br />(1768 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I b
         type: Icy
         formationType: Captured
@@ -75,14 +75,14 @@ planets:
         radius: 16,849.0 km<br/>(2.645 Yrths)
         surface_area: 3.567 × 10<sup>09</sup> km<sup>2</sup><br/>(6.994 Yrths)
         volume: 2.004 × 10<sup>13</sup> km<sup>3</sup><br/>(18.497 Yrths)
-        mass: 2.673 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 2.673 × 10<sup>25</sup> kg<br />(4.476 Yrths)
         density: 1.334 g/cm<sup>3</sup>
         surface_gravity: 6.276 m/s<sup>2</sup><br />(0.640 g<sub>0</sub>)
         escape_velocity: 14.553 km/s<br />(52,391 km/h)
         rotation_period: 81.843 d
         axial_tilt: 21.35°
         albedo: 0.30
-        temperature: 1946 K<br />(1673 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I c
         type: Icy
         formationType: Impact formed
@@ -95,14 +95,14 @@ planets:
         radius: 17,043.8 km<br/>(2.675 Yrths)
         surface_area: 3.650 × 10<sup>09</sup> km<sup>2</sup><br/>(7.157 Yrths)
         volume: 2.074 × 10<sup>13</sup> km<sup>3</sup><br/>(19.146 Yrths)
-        mass: 2.691 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 2.691 × 10<sup>25</sup> kg<br />(4.506 Yrths)
         density: 1.298 g/cm<sup>3</sup>
         surface_gravity: 6.175 m/s<sup>2</sup><br />(0.630 g<sub>0</sub>)
         escape_velocity: 14.518 km/s<br />(52,266 km/h)
         rotation_period: 55.787 d
         axial_tilt: 16.77°
         albedo: 0.30
-        temperature: 1855 K<br />(1582 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I d
         type: Icy
         formationType: Captured
@@ -115,14 +115,14 @@ planets:
         radius: 20,433.2 km<br/>(3.207 Yrths)
         surface_area: 5.247 × 10<sup>09</sup> km<sup>2</sup><br/>(10.286 Yrths)
         volume: 3.574 × 10<sup>13</sup> km<sup>3</sup><br/>(32.990 Yrths)
-        mass: 4.623 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 4.623 × 10<sup>25</sup> kg<br />(7.742 Yrths)
         density: 1.294 g/cm<sup>3</sup>
         surface_gravity: 7.381 m/s<sup>2</sup><br />(0.753 g<sub>0</sub>)
         escape_velocity: 17.379 km/s<br />(62,564 km/h)
         rotation_period: 71.626 d
         axial_tilt: 25.76°
         albedo: 0.30
-        temperature: 1769 K<br />(1496 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I e
         type: Icy
         formationType: Accreted
@@ -135,14 +135,14 @@ planets:
         radius: 16,955.4 km<br/>(2.661 Yrths)
         surface_area: 3.613 × 10<sup>09</sup> km<sup>2</sup><br/>(7.083 Yrths)
         volume: 2.042 × 10<sup>13</sup> km<sup>3</sup><br/>(18.850 Yrths)
-        mass: 2.377 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 2.377 × 10<sup>25</sup> kg<br />(3.979 Yrths)
         density: 1.164 g/cm<sup>3</sup>
         surface_gravity: 5.510 m/s<sup>2</sup><br />(0.562 g<sub>0</sub>)
         escape_velocity: 13.678 km/s<br />(49,242 km/h)
         rotation_period: 81.334 d
         axial_tilt: 10.05°
         albedo: 0.30
-        temperature: 1687 K<br />(1413 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I f
         type: Asteroid
         formationType: Captured
@@ -155,14 +155,14 @@ planets:
         radius: 11,626.6 km<br/>(1.825 Yrths)
         surface_area: 1.699 × 10<sup>09</sup> km<sup>2</sup><br/>(3.330 Yrths)
         volume: 6.583 × 10<sup>12</sup> km<sup>3</sup><br/>(6.078 Yrths)
-        mass: 2.222 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 2.222 × 10<sup>25</sup> kg<br />(3.721 Yrths)
         density: 3.376 g/cm<sup>3</sup>
         surface_gravity: 10.957 m/s<sup>2</sup><br />(1.117 g<sub>0</sub>)
         escape_velocity: 15.973 km/s<br />(57,503 km/h)
         rotation_period: 27.189 d
         axial_tilt: 25.61°
         albedo: 0.30
-        temperature: 1608 K<br />(1335 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I g
         type: Icy
         formationType: Captured
@@ -175,14 +175,14 @@ planets:
         radius: 13,040.7 km<br/>(2.047 Yrths)
         surface_area: 2.137 × 10<sup>09</sup> km<sup>2</sup><br/>(4.190 Yrths)
         volume: 9.289 × 10<sup>12</sup> km<sup>3</sup><br/>(8.576 Yrths)
-        mass: 1.675 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 1.675 × 10<sup>25</sup> kg<br />(2.804 Yrths)
         density: 1.803 g/cm<sup>3</sup>
         surface_gravity: 6.563 m/s<sup>2</sup><br />(0.669 g<sub>0</sub>)
         escape_velocity: 13.092 km/s<br />(47,132 km/h)
         rotation_period: 46.784 d
         axial_tilt: 13.97°
         albedo: 0.30
-        temperature: 1533 K<br />(1260 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -195,14 +195,14 @@ planets:
         radius: 20,053.3 km<br/>(3.148 Yrths)
         surface_area: 5.053 × 10<sup>09</sup> km<sup>2</sup><br/>(9.907 Yrths)
         volume: 3.378 × 10<sup>13</sup> km<sup>3</sup><br/>(31.184 Yrths)
-        mass: 6.070 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 6.070 × 10<sup>25</sup> kg<br />(10.164 Yrths)
         density: 1.797 g/cm<sup>3</sup>
         surface_gravity: 10.061 m/s<sup>2</sup><br />(1.026 g<sub>0</sub>)
         escape_velocity: 20.101 km/s<br />(72,364 km/h)
         rotation_period: 68.107 d
         axial_tilt: 13.63°
         albedo: 0.30
-        temperature: 1394 K<br />(1121 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I i
         type: Icy
         formationType: Accreted
@@ -215,14 +215,14 @@ planets:
         radius: 24,344.0 km<br/>(3.821 Yrths)
         surface_area: 7.447 × 10<sup>09</sup> km<sup>2</sup><br/>(14.600 Yrths)
         volume: 6.043 × 10<sup>13</sup> km<sup>3</sup><br/>(55.789 Yrths)
-        mass: 6.486 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 6.486 × 10<sup>25</sup> kg<br />(10.861 Yrths)
         density: 1.073 g/cm<sup>3</sup>
         surface_gravity: 7.295 m/s<sup>2</sup><br />(0.744 g<sub>0</sub>)
         escape_velocity: 18.859 km/s<br />(67,891 km/h)
         rotation_period: 82.650 d
         axial_tilt: 13.73°
         albedo: 0.30
-        temperature: 1329 K<br />(1056 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I j
         type: Ice/rock hybrid
         formationType: Captured
@@ -235,14 +235,14 @@ planets:
         radius: 16,778.7 km<br/>(2.634 Yrths)
         surface_area: 3.538 × 10<sup>09</sup> km<sup>2</sup><br/>(6.936 Yrths)
         volume: 1.979 × 10<sup>13</sup> km<sup>3</sup><br/>(18.266 Yrths)
-        mass: 4.275 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 4.275 × 10<sup>25</sup> kg<br />(7.159 Yrths)
         density: 2.161 g/cm<sup>3</sup>
         surface_gravity: 10.122 m/s<sup>2</sup><br />(1.032 g<sub>0</sub>)
         escape_velocity: 18.443 km/s<br />(66,393 km/h)
         rotation_period: 45.400 d
         axial_tilt: 23.54°
         albedo: 0.30
-        temperature: 1267 K<br />(994 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0060 Morrishothiad I k
         type: Icy
         formationType: Captured
@@ -255,12 +255,12 @@ planets:
         radius: 18,107.1 km<br/>(2.842 Yrths)
         surface_area: 4.120 × 10<sup>09</sup> km<sup>2</sup><br/>(8.078 Yrths)
         volume: 2.487 × 10<sup>13</sup> km<sup>3</sup><br/>(22.958 Yrths)
-        mass: 3.225 × 10<sup>25</sup> kg<br />(16.289776367812532 Yrths)
+        mass: 3.225 × 10<sup>25</sup> kg<br />(5.400 Yrths)
         density: 1.297 g/cm<sup>3</sup>
         surface_gravity: 6.555 m/s<sup>2</sup><br />(0.668 g<sub>0</sub>)
         escape_velocity: 15.418 km/s<br />(55,506 km/h)
         rotation_period: 53.306 d
         axial_tilt: 18.37°
         albedo: 0.30
-        temperature: 1208 K<br />(935 °C)
+        temperature: 237 K<br />(-36 °C)
 ---

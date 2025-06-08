@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9290 Tanashad is a star in the constellation Tanas
+      9290 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 321.62 ly
 apparent_magnitude: 10.96
 absolute_magnitude: 6.00

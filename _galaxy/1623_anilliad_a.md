@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1623 Anilliad A is a star in the constellation Anil
+      1623 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 665.00 ly
 apparent_magnitude: 7.55
 absolute_magnitude: 1.00

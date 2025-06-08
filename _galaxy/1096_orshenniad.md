@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1096 Orshenniad is a star in the constellation Orshen
+      1096 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 536.65 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 4.71

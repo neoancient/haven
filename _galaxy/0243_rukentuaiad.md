@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0243 Rukentuaiad is a star in the constellation Rukentua
+      0243 Rukentuaiad is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 101.79 ly
 apparent_magnitude: 5.84
 absolute_magnitude: 3.37
@@ -31,14 +31,14 @@ planets:
     radius: 13,490.4 km<br/>(2.117 Yrths)
     surface_area: 2.287 × 10<sup>09</sup> km<sup>2</sup><br/>(4.484 Yrths)
     volume: 1.028 × 10<sup>13</sup> km<sup>3</sup><br/>(9.494 Yrths)
-    mass: 6.867 × 10<sup>25</sup> kg<br />(11.499143857044539 Yrths)
+    mass: 6.867 × 10<sup>25</sup> kg<br />(11.50 Yrths)
     density: 6.678 g/cm<sup>3</sup>
     surface_gravity: 25.151 m/s<sup>2</sup><br />(2.565 g<sub>0</sub>)
     escape_velocity: 26.067 km/s<br />(93,843 km/h)
     rotation_period: 0.559 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 536 K<br />(262 °C)
+    temperature: 512 K<br />(239 °C)
     surface_pressure: 5,456 kPa<br />(54 atm)
     composition:
       - 76.8782% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 17,190.0 km<br/>(2.698 Yrths)
         surface_area: 3.713 × 10<sup>09</sup> km<sup>2</sup><br/>(7.280 Yrths)
         volume: 2.128 × 10<sup>13</sup> km<sup>3</sup><br/>(19.643 Yrths)
-        mass: 6.661 × 10<sup>25</sup> kg<br />(11.499143857044539 Yrths)
+        mass: 6.661 × 10<sup>25</sup> kg<br />(11.154 Yrths)
         density: 3.131 g/cm<sup>3</sup>
         surface_gravity: 15.025 m/s<sup>2</sup><br />(1.532 g<sub>0</sub>)
         escape_velocity: 22.744 km/s<br />(81,877 km/h)
         rotation_period: 35.150 d
         axial_tilt: 19.47°
         albedo: 0.30
-        temperature: 3534 K<br />(3260 °C)
+        temperature: 349 K<br />(76 °C)
       - name: 0243 Rukentuaiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 5,586.2 km<br/>(0.877 Yrths)
         surface_area: 3.921 × 10<sup>08</sup> km<sup>2</sup><br/>(0.769 Yrths)
         volume: 7.302 × 10<sup>11</sup> km<sup>3</sup><br/>(0.674 Yrths)
-        mass: 1.629 × 10<sup>24</sup> kg<br />(11.499143857044539 Yrths)
+        mass: 1.629 × 10<sup>24</sup> kg<br />(0.273 Yrths)
         density: 2.231 g/cm<sup>3</sup>
         surface_gravity: 3.480 m/s<sup>2</sup><br />(0.355 g<sub>0</sub>)
         escape_velocity: 6.240 km/s<br />(22,463 km/h)
         rotation_period: 51.587 d
         axial_tilt: 22.65°
         albedo: 0.30
-        temperature: 3369 K<br />(3096 °C)
+        temperature: 349 K<br />(76 °C)
       - name: 0243 Rukentuaiad I c
         type: Icy
         formationType: Accreted
@@ -97,12 +97,12 @@ planets:
         radius: 7,337.1 km<br/>(1.152 Yrths)
         surface_area: 6.765 × 10<sup>08</sup> km<sup>2</sup><br/>(1.326 Yrths)
         volume: 1.654 × 10<sup>12</sup> km<sup>3</sup><br/>(1.527 Yrths)
-        mass: 2.663 × 10<sup>24</sup> kg<br />(11.499143857044539 Yrths)
+        mass: 2.663 × 10<sup>24</sup> kg<br />(0.446 Yrths)
         density: 1.609 g/cm<sup>3</sup>
         surface_gravity: 3.297 m/s<sup>2</sup><br />(0.336 g<sub>0</sub>)
         escape_velocity: 6.960 km/s<br />(25,056 km/h)
         rotation_period: 44.210 d
         axial_tilt: 20.65°
         albedo: 0.30
-        temperature: 3212 K<br />(2939 °C)
+        temperature: 349 K<br />(76 °C)
 ---

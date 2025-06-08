@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0032 Nishediad C is a star in the constellation Nishedi
+      0032 Nishediad C is a star in the constellation <a href="nishedi.html">Nishedi</a>
 distance: 290.47 ly
 apparent_magnitude: 7.12
 absolute_magnitude: 2.37

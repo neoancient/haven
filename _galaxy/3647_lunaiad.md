@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3647 Lunaiad is a star in the constellation Luna
+      3647 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 108.11 ly
 apparent_magnitude: 8.22
 absolute_magnitude: 5.62
@@ -31,14 +31,14 @@ planets:
     radius: 28,868.5 km<br/>(4.531 Yrths)
     surface_area: 1.047 × 10<sup>10</sup> km<sup>2</sup><br/>(20.532 Yrths)
     volume: 1.008 × 10<sup>14</sup> km<sup>3</sup><br/>(93.035 Yrths)
-    mass: 1.162 × 10<sup>26</sup> kg<br />(19.45738061571714 Yrths)
+    mass: 1.162 × 10<sup>26</sup> kg<br />(19.46 Yrths)
     density: 1.153 g/cm<sup>3</sup>
     surface_gravity: 9.293 m/s<sup>2</sup><br />(0.948 g<sub>0</sub>)
     escape_velocity: 23.180 km/s<br />(83,447 km/h)
     rotation_period: 0.872 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 420 K<br />(147 °C)
+    temperature: 417 K<br />(144 °C)
     composition:
       - 57.7985% hydrogen
       - 38.0264% helium
@@ -56,14 +56,14 @@ planets:
         radius: 14,142.9 km<br/>(2.220 Yrths)
         surface_area: 2.514 × 10<sup>09</sup> km<sup>2</sup><br/>(4.928 Yrths)
         volume: 1.185 × 10<sup>13</sup> km<sup>3</sup><br/>(10.939 Yrths)
-        mass: 3.082 × 10<sup>25</sup> kg<br />(19.45738061571714 Yrths)
+        mass: 3.082 × 10<sup>25</sup> kg<br />(5.160 Yrths)
         density: 2.601 g/cm<sup>3</sup>
         surface_gravity: 10.269 m/s<sup>2</sup><br />(1.047 g<sub>0</sub>)
         escape_velocity: 17.055 km/s<br />(61,397 km/h)
         rotation_period: 33.622 d
         axial_tilt: 34.81°
         albedo: 0.30
-        temperature: 2076 K<br />(1803 °C)
+        temperature: 244 K<br />(-29 °C)
       - name: 3647 Lunaiad I b
         type: Dwarf planet
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 16,700.7 km<br/>(2.621 Yrths)
         surface_area: 3.505 × 10<sup>09</sup> km<sup>2</sup><br/>(6.872 Yrths)
         volume: 1.951 × 10<sup>13</sup> km<sup>3</sup><br/>(18.013 Yrths)
-        mass: 2.992 × 10<sup>25</sup> kg<br />(19.45738061571714 Yrths)
+        mass: 2.992 × 10<sup>25</sup> kg<br />(5.010 Yrths)
         density: 1.534 g/cm<sup>3</sup>
         surface_gravity: 7.151 m/s<sup>2</sup><br />(0.729 g<sub>0</sub>)
         escape_velocity: 15.465 km/s<br />(55,674 km/h)
         rotation_period: 56.023 d
         axial_tilt: 32.75°
         albedo: 0.30
-        temperature: 1716 K<br />(1443 °C)
+        temperature: 244 K<br />(-29 °C)
       - name: 3647 Lunaiad I c
         type: Rocky
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 28,559.3 km<br/>(4.483 Yrths)
         surface_area: 1.025 × 10<sup>10</sup> km<sup>2</sup><br/>(20.095 Yrths)
         volume: 9.757 × 10<sup>13</sup> km<sup>3</sup><br/>(90.078 Yrths)
-        mass: 3.232 × 10<sup>26</sup> kg<br />(19.45738061571714 Yrths)
+        mass: 3.232 × 10<sup>26</sup> kg<br />(54.111 Yrths)
         density: 3.312 g/cm<sup>3</sup>
         surface_gravity: 26.407 m/s<sup>2</sup><br />(2.693 g<sub>0</sub>)
         escape_velocity: 38.864 km/s<br />(139,910 km/h)
         rotation_period: 47.240 d
         axial_tilt: 18.00°
         albedo: 0.30
-        temperature: 1418 K<br />(1145 °C)
+        temperature: 244 K<br />(-29 °C)
       - name: 3647 Lunaiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 19,443.1 km<br/>(3.052 Yrths)
         surface_area: 4.751 × 10<sup>09</sup> km<sup>2</sup><br/>(9.314 Yrths)
         volume: 3.079 × 10<sup>13</sup> km<sup>3</sup><br/>(28.423 Yrths)
-        mass: 7.335 × 10<sup>25</sup> kg<br />(19.45738061571714 Yrths)
+        mass: 7.335 × 10<sup>25</sup> kg<br />(12.283 Yrths)
         density: 2.382 g/cm<sup>3</sup>
         surface_gravity: 12.933 m/s<sup>2</sup><br />(1.319 g<sub>0</sub>)
         escape_velocity: 22.441 km/s<br />(80,788 km/h)
         rotation_period: 37.773 d
         axial_tilt: 25.48°
         albedo: 0.30
-        temperature: 1289 K<br />(1016 °C)
+        temperature: 244 K<br />(-29 °C)
       - name: 3647 Lunaiad I e
         type: Asteroid
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 23,224.2 km<br/>(3.645 Yrths)
         surface_area: 6.778 × 10<sup>09</sup> km<sup>2</sup><br/>(13.288 Yrths)
         volume: 5.247 × 10<sup>13</sup> km<sup>3</sup><br/>(48.439 Yrths)
-        mass: 1.527 × 10<sup>26</sup> kg<br />(19.45738061571714 Yrths)
+        mass: 1.527 × 10<sup>26</sup> kg<br />(25.567 Yrths)
         density: 2.910 g/cm<sup>3</sup>
         surface_gravity: 18.868 m/s<sup>2</sup><br />(1.924 g<sub>0</sub>)
         escape_velocity: 29.624 km/s<br />(106,647 km/h)
         rotation_period: 42.384 d
         axial_tilt: 40.85°
         albedo: 0.30
-        temperature: 1229 K<br />(956 °C)
+        temperature: 244 K<br />(-29 °C)
   - name: 3647 Lunaiad II
     type: Ice giant
     aphelion: 336,298,122 km<br />2.248 AU
@@ -155,14 +155,14 @@ planets:
     radius: 24,509.8 km<br/>(3.847 Yrths)
     surface_area: 7.549 × 10<sup>09</sup> km<sup>2</sup><br/>(14.800 Yrths)
     volume: 6.167 × 10<sup>13</sup> km<sup>3</sup><br/>(56.937 Yrths)
-    mass: 1.147 × 10<sup>26</sup> kg<br />(19.19804590047631 Yrths)
+    mass: 1.147 × 10<sup>26</sup> kg<br />(19.20 Yrths)
     density: 1.859 g/cm<sup>3</sup>
     surface_gravity: 12.721 m/s<sup>2</sup><br />(1.297 g<sub>0</sub>)
     escape_velocity: 24.988 km/s<br />(89,958 km/h)
     rotation_period: 0.664 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 316 K<br />(43 °C)
+    temperature: 282 K<br />(9 °C)
     composition:
       - 72.7100% hydrogen
       - 27.2900% helium
@@ -179,14 +179,14 @@ planets:
         radius: 22,212.7 km<br/>(3.487 Yrths)
         surface_area: 6.200 × 10<sup>09</sup> km<sup>2</sup><br/>(12.156 Yrths)
         volume: 4.591 × 10<sup>13</sup> km<sup>3</sup><br/>(42.382 Yrths)
-        mass: 1.210 × 10<sup>26</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 1.210 × 10<sup>26</sup> kg<br />(20.257 Yrths)
         density: 2.635 g/cm<sup>3</sup>
         surface_gravity: 16.342 m/s<sup>2</sup><br />(1.666 g<sub>0</sub>)
         escape_velocity: 26.963 km/s<br />(97,066 km/h)
         rotation_period: 33.808 d
         axial_tilt: 26.57°
         albedo: 0.30
-        temperature: 1562 K<br />(1289 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 3647 Lunaiad II b
         type: Icy
         formationType: Accreted
@@ -199,14 +199,14 @@ planets:
         radius: 20,413.5 km<br/>(3.204 Yrths)
         surface_area: 5.237 × 10<sup>09</sup> km<sup>2</sup><br/>(10.266 Yrths)
         volume: 3.563 × 10<sup>13</sup> km<sup>3</sup><br/>(32.895 Yrths)
-        mass: 3.019 × 10<sup>25</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 3.019 × 10<sup>25</sup> kg<br />(5.055 Yrths)
         density: 0.847 g/cm<sup>3</sup>
         surface_gravity: 4.828 m/s<sup>2</sup><br />(0.492 g<sub>0</sub>)
         escape_velocity: 14.049 km/s<br />(50,578 km/h)
         rotation_period: 93.444 d
         axial_tilt: 26.66°
         albedo: 0.30
-        temperature: 1490 K<br />(1216 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 3647 Lunaiad II c
         type: Asteroid
         formationType: Captured
@@ -219,14 +219,14 @@ planets:
         radius: 11,816.2 km<br/>(1.855 Yrths)
         surface_area: 1.755 × 10<sup>09</sup> km<sup>2</sup><br/>(3.440 Yrths)
         volume: 6.911 × 10<sup>12</sup> km<sup>3</sup><br/>(6.380 Yrths)
-        mass: 1.587 × 10<sup>25</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 1.587 × 10<sup>25</sup> kg<br />(2.658 Yrths)
         density: 2.297 g/cm<sup>3</sup>
         surface_gravity: 7.577 m/s<sup>2</sup><br />(0.773 g<sub>0</sub>)
         escape_velocity: 13.390 km/s<br />(48,205 km/h)
         rotation_period: 42.544 d
         axial_tilt: 57.05°
         albedo: 0.30
-        temperature: 1354 K<br />(1081 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 3647 Lunaiad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -239,14 +239,14 @@ planets:
         radius: 17,994.7 km<br/>(2.824 Yrths)
         surface_area: 4.069 × 10<sup>09</sup> km<sup>2</sup><br/>(7.978 Yrths)
         volume: 2.441 × 10<sup>13</sup> km<sup>3</sup><br/>(22.532 Yrths)
-        mass: 5.951 × 10<sup>25</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 5.951 × 10<sup>25</sup> kg<br />(9.964 Yrths)
         density: 2.438 g/cm<sup>3</sup>
         surface_gravity: 12.249 m/s<sup>2</sup><br />(1.249 g<sub>0</sub>)
         escape_velocity: 21.010 km/s<br />(75,637 km/h)
         rotation_period: 43.911 d
         axial_tilt: 17.12°
         albedo: 0.30
-        temperature: 1291 K<br />(1018 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 3647 Lunaiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -259,14 +259,14 @@ planets:
         radius: 12,039.8 km<br/>(1.890 Yrths)
         surface_area: 1.822 × 10<sup>09</sup> km<sup>2</sup><br/>(3.571 Yrths)
         volume: 7.311 × 10<sup>12</sup> km<sup>3</sup><br/>(6.749 Yrths)
-        mass: 1.873 × 10<sup>25</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 1.873 × 10<sup>25</sup> kg<br />(3.136 Yrths)
         density: 2.562 g/cm<sup>3</sup>
         surface_gravity: 8.610 m/s<sup>2</sup><br />(0.878 g<sub>0</sub>)
         escape_velocity: 14.409 km/s<br />(51,872 km/h)
         rotation_period: 40.986 d
         axial_tilt: 12.61°
         albedo: 0.30
-        temperature: 1231 K<br />(958 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 3647 Lunaiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -279,14 +279,14 @@ planets:
         radius: 9,962.7 km<br/>(1.564 Yrths)
         surface_area: 1.247 × 10<sup>09</sup> km<sup>2</sup><br/>(2.445 Yrths)
         volume: 4.142 × 10<sup>12</sup> km<sup>3</sup><br/>(3.824 Yrths)
-        mass: 8.773 × 10<sup>24</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 8.773 × 10<sup>24</sup> kg<br />(1.469 Yrths)
         density: 2.118 g/cm<sup>3</sup>
         surface_gravity: 5.891 m/s<sup>2</sup><br />(0.601 g<sub>0</sub>)
         escape_velocity: 10.842 km/s<br />(39,031 km/h)
         rotation_period: 66.816 d
         axial_tilt: 30.70°
         albedo: 0.30
-        temperature: 1174 K<br />(901 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 3647 Lunaiad II g
         type: Icy
         formationType: Captured
@@ -299,14 +299,14 @@ planets:
         radius: 28,128.4 km<br/>(4.415 Yrths)
         surface_area: 9.943 × 10<sup>09</sup> km<sup>2</sup><br/>(19.493 Yrths)
         volume: 9.322 × 10<sup>13</sup> km<sup>3</sup><br/>(86.062 Yrths)
-        mass: 6.526 × 10<sup>25</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 6.526 × 10<sup>25</sup> kg<br />(10.927 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 5.497 m/s<sup>2</sup><br />(0.561 g<sub>0</sub>)
         escape_velocity: 17.598 km/s<br />(63,352 km/h)
         rotation_period: 77.512 d
         axial_tilt: 13.54°
         albedo: 0.30
-        temperature: 1119 K<br />(846 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 3647 Lunaiad II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -319,14 +319,14 @@ planets:
         radius: 22,524.6 km<br/>(3.535 Yrths)
         surface_area: 6.376 × 10<sup>09</sup> km<sup>2</sup><br/>(12.500 Yrths)
         volume: 4.787 × 10<sup>13</sup> km<sup>3</sup><br/>(44.192 Yrths)
-        mass: 8.395 × 10<sup>25</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 8.395 × 10<sup>25</sup> kg<br />(14.058 Yrths)
         density: 1.754 g/cm<sup>3</sup>
         surface_gravity: 11.029 m/s<sup>2</sup><br />(1.125 g<sub>0</sub>)
         escape_velocity: 22.305 km/s<br />(80,300 km/h)
         rotation_period: 47.625 d
         axial_tilt: 23.09°
         albedo: 0.30
-        temperature: 1067 K<br />(794 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 3647 Lunaiad II i
         type: Icy
         formationType: Accreted
@@ -339,14 +339,14 @@ planets:
         radius: 14,382.7 km<br/>(2.258 Yrths)
         surface_area: 2.600 × 10<sup>09</sup> km<sup>2</sup><br/>(5.096 Yrths)
         volume: 1.246 × 10<sup>13</sup> km<sup>3</sup><br/>(11.505 Yrths)
-        mass: 1.708 × 10<sup>25</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 1.708 × 10<sup>25</sup> kg<br />(2.860 Yrths)
         density: 1.370 g/cm<sup>3</sup>
         surface_gravity: 5.503 m/s<sup>2</sup><br />(0.561 g<sub>0</sub>)
         escape_velocity: 12.590 km/s<br />(45,324 km/h)
         rotation_period: 79.002 d
         axial_tilt: 9.02°
         albedo: 0.30
-        temperature: 970 K<br />(697 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 3647 Lunaiad II j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -359,12 +359,12 @@ planets:
         radius: 13,197.9 km<br/>(2.072 Yrths)
         surface_area: 2.189 × 10<sup>09</sup> km<sup>2</sup><br/>(4.291 Yrths)
         volume: 9.629 × 10<sup>12</sup> km<sup>3</sup><br/>(8.890 Yrths)
-        mass: 2.098 × 10<sup>25</sup> kg<br />(19.19804590047631 Yrths)
+        mass: 2.098 × 10<sup>25</sup> kg<br />(3.514 Yrths)
         density: 2.179 g/cm<sup>3</sup>
         surface_gravity: 8.030 m/s<sup>2</sup><br />(0.819 g<sub>0</sub>)
         escape_velocity: 14.568 km/s<br />(52,446 km/h)
         rotation_period: 60.852 d
         axial_tilt: 15.58°
         albedo: 0.30
-        temperature: 925 K<br />(652 °C)
+        temperature: 184 K<br />(-89 °C)
 ---

@@ -11,48 +11,49 @@ sections:
       Volanti Nexus is a terrestrial planet in the <a href="101998_kerriad.html">101998 Kerriad</a> system.
       Volanti Nexus is a logistics hub, ensuring goods flow smoothly through the Consortium. It boasts some of the largest spaceports in the galaxy, and has large cities consistly almost entirely of warehouses.
 planet:
-  aphelion: 63,623,259 km<br />0.425 AU
-  perihelion: 59,580,556 km<br />0.398 AU
+  aphelion: 63,008,288 km<br />0.421 AU
+  perihelion: 60,195,527 km<br />0.402 AU
   semi_major_axis: 61,601,908 km<br />0.412 AU
-  eccentricity: 0.033
+  eccentricity: 0.023
   orbital_period: 121.27 d<br />0.332 y
-  inclination: 37.59°
-  radius: 6,924.1 km<br/>(1.087 Yrths)
-  surface_area: 6.025 × 10<sup>08</sup> km<sup>2</sup><br/>(1.181 Yrths)
-  volume: 1.391 × 10<sup>12</sup> km<sup>3</sup><br/>(1.284 Yrths)
-  mass: 6.970 × 10<sup>24</sup> kg<br />(1.17 Yrths)
-  density: 5.012 g/cm<sup>3</sup>
-  surface_gravity: 9.690 m/s<sup>2</sup><br />(0.988 g<sub>0</sub>)
-  escape_velocity: 11.592 km/s<br />(41,730 km/h)
-  rotation_period: 1.994 d
+  inclination: 15.84°
+  radius: 7,517.1 km<br/>(1.180 Yrths)
+  surface_area: 7.101 × 10<sup>08</sup> km<sup>2</sup><br/>(1.392 Yrths)
+  volume: 1.779 × 10<sup>12</sup> km<sup>3</sup><br/>(1.643 Yrths)
+  mass: 8.101 × 10<sup>24</sup> kg<br />(1.36 Yrths)
+  density: 4.553 g/cm<sup>3</sup>
+  surface_gravity: 9.556 m/s<sup>2</sup><br />(0.974 g<sub>0</sub>)
+  escape_velocity: 11.994 km/s<br />(43,179 km/h)
+  rotation_period: 1.906 d
   axial_tilt: 0.00°
   albedo: 0.30
-  temperature: 269 K<br />(-4 °C)
-  surface_pressure: 84 kPa<br />(1 atm)
+  temperature: 278 K<br />(4 °C)
+  surface_pressure: 123 kPa<br />(1 atm)
   composition:
-    - 78.7534% nitrogen
-    - 20.5951% oxygen
-    - 0.6315% argon
-    - 0.0200% carbon dioxide
+    - 77.3374% nitrogen
+    - 20.2505% oxygen
+    - 1.6732% hydrogen sulfide
+    - 0.6209% argon
+    - 0.1180% carbon dioxide
   moons:
     - name: Volanti Nexus a
       type: Rocky
-      formationType: Captured
-      aphelion: 378,262 km<br />
-      perihelion: 377,211 km<br />
-      semi_major_axis: 377,737 km<br />
-      eccentricity: 0.001
+      formationType: Impact formed
+      aphelion: 468,806 km<br />
+      perihelion: 325,512 km<br />
+      semi_major_axis: 397,159 km<br />
+      eccentricity: 0.180
       orbital_period: 0.01 d<br />
-      inclination: 3.63°
-      radius: 3,006.0 km<br/>(0.472 Yrths)
-      surface_area: 1.135 × 10<sup>08</sup> km<sup>2</sup><br/>(0.223 Yrths)
-      volume: 1.138 × 10<sup>11</sup> km<sup>3</sup><br/>(0.105 Yrths)
-      mass: 3.210 × 10<sup>23</sup> kg<br />(1.1670755618598394 Yrths)
-      density: 2.822 g/cm<sup>3</sup>
-      surface_gravity: 2.368 m/s<sup>2</sup><br />(0.241 g<sub>0</sub>)
-      escape_velocity: 3.776 km/s<br />(13,592 km/h)
-      rotation_period: 44.783 d
-      axial_tilt: 9.19°
+      inclination: 6.01°
+      radius: 2,126.1 km<br/>(0.334 Yrths)
+      surface_area: 5.681 × 10<sup>07</sup> km<sup>2</sup><br/>(0.111 Yrths)
+      volume: 4.026 × 10<sup>10</sup> km<sup>3</sup><br/>(0.037 Yrths)
+      mass: 1.449 × 10<sup>23</sup> kg<br />(0.024 Yrths)
+      density: 3.600 g/cm<sup>3</sup>
+      surface_gravity: 2.137 m/s<sup>2</sup><br />(0.218 g<sub>0</sub>)
+      escape_velocity: 3.016 km/s<br />(10,859 km/h)
+      rotation_period: 51.340 d
+      axial_tilt: 9.90°
       albedo: 0.30
-      temperature: 3267 K<br />(2994 °C)
+      temperature: 256 K<br />(-17 °C)
 ---

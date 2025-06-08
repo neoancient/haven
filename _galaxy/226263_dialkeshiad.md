@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      226263 Dialkeshiad is a star in the constellation Dialkes
+      226263 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 579.45 ly
 apparent_magnitude: 11.42
 absolute_magnitude: 5.17

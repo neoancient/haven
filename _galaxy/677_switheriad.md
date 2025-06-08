@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      677 Switheriad is a star in the constellation Swither
+      677 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 570.54 ly
 apparent_magnitude: 14.60
 absolute_magnitude: 8.38

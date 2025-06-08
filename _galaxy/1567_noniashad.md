@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1567 Noniashad is a star in the constellation Nonias
+      1567 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 672.28 ly
 apparent_magnitude: 12.58
 absolute_magnitude: 6.01

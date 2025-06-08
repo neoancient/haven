@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      612 Switheriad is a star in the constellation Swither
+      612 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 237.32 ly
 apparent_magnitude: 11.37
 absolute_magnitude: 7.06

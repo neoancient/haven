@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0230 Rukentuaiad A is a star in the constellation Rukentua
+      0230 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 763.00 ly
 apparent_magnitude: 5.54
 absolute_magnitude: -1.31

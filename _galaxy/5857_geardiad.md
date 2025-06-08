@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5857 Geardiad is a star in the constellation Geard
+      5857 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 182.33 ly
 apparent_magnitude: 10.80
 absolute_magnitude: 7.06

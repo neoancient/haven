@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1794 Ratharshinniad A is a star in the constellation Ratharshin
+      1794 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 413.40 ly
 apparent_magnitude: 7.13
 absolute_magnitude: 1.61

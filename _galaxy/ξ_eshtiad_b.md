@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ξ Eshtiad B is a star in the constellation Eshti
+      ξ Eshtiad B is a star in the constellation <a href="eshti.html">Eshti</a>
 distance: 705.00 ly
 apparent_magnitude: 12.00
 absolute_magnitude: 5.33

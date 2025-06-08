@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0071 Nuariad A is a star in the constellation Nuari
+      0071 Nuariad A is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 195.40 ly
 apparent_magnitude: 6.52
 absolute_magnitude: 2.63

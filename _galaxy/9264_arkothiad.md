@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9264 Arkothiad is a star in the constellation Arkoth
+      9264 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 694.46 ly
 apparent_magnitude: 8.22
 absolute_magnitude: 1.58

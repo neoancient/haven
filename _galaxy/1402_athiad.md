@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1402 Athiad is a star in the constellation Ath
+      1402 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 332.71 ly
 apparent_magnitude: 9.93
 absolute_magnitude: 4.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4308 Athiad A is a star in the constellation Ath
+      4308 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 562.48 ly
 apparent_magnitude: 8.35
 absolute_magnitude: 2.16

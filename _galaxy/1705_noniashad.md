@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1705 Noniashad is a star in the constellation Nonias
+      1705 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 593.51 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 4.76

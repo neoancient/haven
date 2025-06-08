@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0003 Lulithannaid B is a star in the constellation Lulithan
+      0003 Lulithannaid B is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 505.43 ly
 apparent_magnitude: 7.67
 absolute_magnitude: 1.72

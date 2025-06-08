@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ρ Anilliad is a star in the constellation Anil
+      ρ Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 191.04 ly
 apparent_magnitude: 6.19
 absolute_magnitude: 2.35
@@ -31,14 +31,14 @@ planets:
     radius: 196.8 km<br/>(0.031 Yrths)
     surface_area: 4.869 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.195 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.666 × 10<sup>26</sup> kg<br />(161.8528608278541 Yrths)
+    mass: 9.666 × 10<sup>26</sup> kg<br />(161.85 Yrths)
     density: 30255907.139 g/cm<sup>3</sup>
     surface_gravity: 1662756.567 m/s<sup>2</sup><br />(169553.983 g<sub>0</sub>)
     escape_velocity: 809.620 km/s<br />(2,914,631 km/h)
     rotation_period: 0.251 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1572 K<br />(1299 °C)
+    temperature: 1624 K<br />(1351 °C)
     composition:
       - 61.8666% hydrogen
       - 28.3322% helium
@@ -60,14 +60,14 @@ planets:
         radius: 87,662.0 km<br/>(13.760 Yrths)
         surface_area: 9.657 × 10<sup>10</sup> km<sup>2</sup><br/>(189.325 Yrths)
         volume: 2.822 × 10<sup>15</sup> km<sup>3</sup><br/>(2605.019 Yrths)
-        mass: 9.802 × 10<sup>27</sup> kg<br />(161.8528608278541 Yrths)
+        mass: 9.802 × 10<sup>27</sup> kg<br />(1641.302 Yrths)
         density: 3.474 g/cm<sup>3</sup>
         surface_gravity: 85.016 m/s<sup>2</sup><br />(8.669 g<sub>0</sub>)
         escape_velocity: 122.171 km/s<br />(439,814 km/h)
         rotation_period: 35.155 d
         axial_tilt: 20.23°
         albedo: 0.30
-        temperature: 1572 K<br />(1299 °C)
+        temperature: 381 K<br />(108 °C)
       - name: ρ Anilliad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -80,14 +80,14 @@ planets:
         radius: 172,001.7 km<br/>(26.998 Yrths)
         surface_area: 3.718 × 10<sup>11</sup> km<sup>2</sup><br/>(728.870 Yrths)
         volume: 2.132 × 10<sup>16</sup> km<sup>3</sup><br/>(19677.741 Yrths)
-        mass: 5.856 × 10<sup>28</sup> kg<br />(161.8528608278541 Yrths)
+        mass: 5.856 × 10<sup>28</sup> kg<br />(9805.419 Yrths)
         density: 2.747 g/cm<sup>3</sup>
         surface_gravity: 131.928 m/s<sup>2</sup><br />(13.453 g<sub>0</sub>)
         escape_velocity: 213.179 km/s<br />(767,445 km/h)
         rotation_period: 35.145 d
         axial_tilt: 25.85°
         albedo: 0.30
-        temperature: 1074 K<br />(801 °C)
+        temperature: 381 K<br />(108 °C)
       - name: ρ Anilliad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -100,14 +100,14 @@ planets:
         radius: 75,548.3 km<br/>(11.858 Yrths)
         surface_area: 7.172 × 10<sup>10</sup> km<sup>2</sup><br/>(140.616 Yrths)
         volume: 1.806 × 10<sup>15</sup> km<sup>3</sup><br/>(1667.443 Yrths)
-        mass: 4.560 × 10<sup>27</sup> kg<br />(161.8528608278541 Yrths)
+        mass: 4.560 × 10<sup>27</sup> kg<br />(763.620 Yrths)
         density: 2.525 g/cm<sup>3</sup>
         surface_gravity: 53.255 m/s<sup>2</sup><br />(5.431 g<sub>0</sub>)
         escape_velocity: 89.764 km/s<br />(323,152 km/h)
         rotation_period: 52.038 d
         axial_tilt: 25.42°
         albedo: 0.30
-        temperature: 699 K<br />(426 °C)
+        temperature: 381 K<br />(108 °C)
       - name: ρ Anilliad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -120,14 +120,14 @@ planets:
         radius: 82,838.1 km<br/>(13.002 Yrths)
         surface_area: 8.623 × 10<sup>10</sup> km<sup>2</sup><br/>(169.062 Yrths)
         volume: 2.381 × 10<sup>15</sup> km<sup>3</sup><br/>(2198.203 Yrths)
-        mass: 5.979 × 10<sup>27</sup> kg<br />(161.8528608278541 Yrths)
+        mass: 5.979 × 10<sup>27</sup> kg<br />(1001.233 Yrths)
         density: 2.511 g/cm<sup>3</sup>
         surface_gravity: 58.078 m/s<sup>2</sup><br />(5.922 g<sub>0</sub>)
         escape_velocity: 98.159 km/s<br />(353,373 km/h)
         rotation_period: 54.060 d
         axial_tilt: 21.51°
         albedo: 0.30
-        temperature: 525 K<br />(252 °C)
+        temperature: 381 K<br />(108 °C)
       - name: ρ Anilliad I e
         type: Rocky
         formationType: Impact formed
@@ -140,14 +140,14 @@ planets:
         radius: 71,645.9 km<br/>(11.246 Yrths)
         surface_area: 6.450 × 10<sup>10</sup> km<sup>2</sup><br/>(126.464 Yrths)
         volume: 1.541 × 10<sup>15</sup> km<sup>3</sup><br/>(1422.172 Yrths)
-        mass: 5.327 × 10<sup>27</sup> kg<br />(161.8528608278541 Yrths)
+        mass: 5.327 × 10<sup>27</sup> kg<br />(891.928 Yrths)
         density: 3.458 g/cm<sup>3</sup>
         surface_gravity: 69.164 m/s<sup>2</sup><br />(7.053 g<sub>0</sub>)
         escape_velocity: 99.620 km/s<br />(358,632 km/h)
         rotation_period: 29.572 d
         axial_tilt: 18.74°
         albedo: 0.30
-        temperature: 434 K<br />(161 °C)
+        temperature: 381 K<br />(108 °C)
       - name: ρ Anilliad I f
         type: Asteroid
         formationType: Captured
@@ -160,12 +160,12 @@ planets:
         radius: 116,518.0 km<br/>(18.289 Yrths)
         surface_area: 1.706 × 10<sup>11</sup> km<sup>2</sup><br/>(334.480 Yrths)
         volume: 6.626 × 10<sup>15</sup> km<sup>3</sup><br/>(6117.246 Yrths)
-        mass: 1.808 × 10<sup>28</sup> kg<br />(161.8528608278541 Yrths)
+        mass: 1.808 × 10<sup>28</sup> kg<br />(3027.444 Yrths)
         density: 2.729 g/cm<sup>3</sup>
         surface_gravity: 88.762 m/s<sup>2</sup><br />(9.051 g<sub>0</sub>)
         escape_velocity: 143.919 km/s<br />(518,110 km/h)
         rotation_period: 39.646 d
         axial_tilt: 15.55°
         albedo: 0.30
-        temperature: 311 K<br />(38 °C)
+        temperature: 381 K<br />(108 °C)
 ---

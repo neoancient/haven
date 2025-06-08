@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8121 Arkothiad is a star in the constellation Arkoth
+      8121 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 423.70 ly
 apparent_magnitude: 7.05
 absolute_magnitude: 1.48
@@ -31,7 +31,7 @@ planets:
     radius: 9,472.4 km<br/>(1.487 Yrths)
     surface_area: 1.128 × 10<sup>09</sup> km<sup>2</sup><br/>(2.211 Yrths)
     volume: 3.560 × 10<sup>12</sup> km<sup>3</sup><br/>(3.287 Yrths)
-    mass: 1.828 × 10<sup>25</sup> kg<br />(3.0616512362790886 Yrths)
+    mass: 1.828 × 10<sup>25</sup> kg<br />(3.06 Yrths)
     density: 5.136 g/cm<sup>3</sup>
     surface_gravity: 13.582 m/s<sup>2</sup><br />(1.385 g<sub>0</sub>)
     escape_velocity: 16.052 km/s<br />(57,787 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 6,567.3 km<br/>(1.031 Yrths)
         surface_area: 5.420 × 10<sup>08</sup> km<sup>2</sup><br/>(1.063 Yrths)
         volume: 1.186 × 10<sup>12</sup> km<sup>3</sup><br/>(1.095 Yrths)
-        mass: 2.218 × 10<sup>24</sup> kg<br />(3.0616512362790886 Yrths)
+        mass: 2.218 × 10<sup>24</sup> kg<br />(0.371 Yrths)
         density: 1.869 g/cm<sup>3</sup>
         surface_gravity: 3.427 m/s<sup>2</sup><br />(0.349 g<sub>0</sub>)
         escape_velocity: 6.714 km/s<br />(24,169 km/h)
         rotation_period: 48.233 d
         axial_tilt: 38.10°
         albedo: 0.30
-        temperature: 3831 K<br />(3558 °C)
+        temperature: 305 K<br />(31 °C)
   - name: 8121 Arkothiad II
     type: Ice giant
     aphelion: 1,027,835,999 km<br />6.871 AU
@@ -71,14 +71,14 @@ planets:
     radius: 22,780.7 km<br/>(3.576 Yrths)
     surface_area: 6.521 × 10<sup>09</sup> km<sup>2</sup><br/>(12.786 Yrths)
     volume: 4.952 × 10<sup>13</sup> km<sup>3</sup><br/>(45.717 Yrths)
-    mass: 7.041 × 10<sup>25</sup> kg<br />(11.79081096199042 Yrths)
+    mass: 7.041 × 10<sup>25</sup> kg<br />(11.79 Yrths)
     density: 1.422 g/cm<sup>3</sup>
     surface_gravity: 9.044 m/s<sup>2</sup><br />(0.922 g<sub>0</sub>)
     escape_velocity: 20.313 km/s<br />(73,125 km/h)
     rotation_period: 0.396 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 411 K<br />(138 °C)
+    temperature: 372 K<br />(99 °C)
     composition:
       - 92.9464% hydrogen
       - 5.4884% helium
@@ -97,14 +97,14 @@ planets:
         radius: 10,328.1 km<br/>(1.621 Yrths)
         surface_area: 1.340 × 10<sup>09</sup> km<sup>2</sup><br/>(2.628 Yrths)
         volume: 4.615 × 10<sup>12</sup> km<sup>3</sup><br/>(4.260 Yrths)
-        mass: 1.065 × 10<sup>25</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 1.065 × 10<sup>25</sup> kg<br />(1.784 Yrths)
         density: 2.308 g/cm<sup>3</sup>
         surface_gravity: 6.656 m/s<sup>2</sup><br />(0.679 g<sub>0</sub>)
         escape_velocity: 11.733 km/s<br />(42,240 km/h)
         rotation_period: 35.928 d
         axial_tilt: 13.29°
         albedo: 0.30
-        temperature: 2140 K<br />(1867 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 6,260.3 km<br/>(0.983 Yrths)
         surface_area: 4.925 × 10<sup>08</sup> km<sup>2</sup><br/>(0.966 Yrths)
         volume: 1.028 × 10<sup>12</sup> km<sup>3</sup><br/>(0.949 Yrths)
-        mass: 1.878 × 10<sup>24</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 1.878 × 10<sup>24</sup> kg<br />(0.315 Yrths)
         density: 1.828 g/cm<sup>3</sup>
         surface_gravity: 3.195 m/s<sup>2</sup><br />(0.326 g<sub>0</sub>)
         escape_velocity: 6.329 km/s<br />(22,783 km/h)
         rotation_period: 37.894 d
         axial_tilt: 27.83°
         albedo: 0.30
-        temperature: 2040 K<br />(1767 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II c
         type: Dwarf planet
         formationType: Accreted
@@ -137,14 +137,14 @@ planets:
         radius: 10,217.9 km<br/>(1.604 Yrths)
         surface_area: 1.312 × 10<sup>09</sup> km<sup>2</sup><br/>(2.572 Yrths)
         volume: 4.469 × 10<sup>12</sup> km<sup>3</sup><br/>(4.125 Yrths)
-        mass: 6.462 × 10<sup>24</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 6.462 × 10<sup>24</sup> kg<br />(1.082 Yrths)
         density: 1.446 g/cm<sup>3</sup>
         surface_gravity: 4.125 m/s<sup>2</sup><br />(0.421 g<sub>0</sub>)
         escape_velocity: 9.188 km/s<br />(33,077 km/h)
         rotation_period: 51.433 d
         axial_tilt: 18.09°
         albedo: 0.30
-        temperature: 1945 K<br />(1672 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 18,684.0 km<br/>(2.933 Yrths)
         surface_area: 4.387 × 10<sup>09</sup> km<sup>2</sup><br/>(8.601 Yrths)
         volume: 2.732 × 10<sup>13</sup> km<sup>3</sup><br/>(25.223 Yrths)
-        mass: 5.762 × 10<sup>25</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 5.762 × 10<sup>25</sup> kg<br />(9.648 Yrths)
         density: 2.109 g/cm<sup>3</sup>
         surface_gravity: 11.001 m/s<sup>2</sup><br />(1.122 g<sub>0</sub>)
         escape_velocity: 20.289 km/s<br />(73,040 km/h)
         rotation_period: 38.156 d
         axial_tilt: 26.53°
         albedo: 0.30
-        temperature: 1855 K<br />(1582 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II e
         type: Icy
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 11,806.8 km<br/>(1.853 Yrths)
         surface_area: 1.752 × 10<sup>09</sup> km<sup>2</sup><br/>(3.434 Yrths)
         volume: 6.894 × 10<sup>12</sup> km<sup>3</sup><br/>(6.365 Yrths)
-        mass: 1.025 × 10<sup>25</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 1.025 × 10<sup>25</sup> kg<br />(1.716 Yrths)
         density: 1.487 g/cm<sup>3</sup>
         surface_gravity: 4.901 m/s<sup>2</sup><br />(0.500 g<sub>0</sub>)
         escape_velocity: 10.765 km/s<br />(38,755 km/h)
         rotation_period: 41.910 d
         axial_tilt: 11.71°
         albedo: 0.30
-        temperature: 1768 K<br />(1495 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -197,14 +197,14 @@ planets:
         radius: 10,592.2 km<br/>(1.663 Yrths)
         surface_area: 1.410 × 10<sup>09</sup> km<sup>2</sup><br/>(2.764 Yrths)
         volume: 4.978 × 10<sup>12</sup> km<sup>3</sup><br/>(4.596 Yrths)
-        mass: 1.165 × 10<sup>25</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 1.165 × 10<sup>25</sup> kg<br />(1.950 Yrths)
         density: 2.340 g/cm<sup>3</sup>
         surface_gravity: 6.919 m/s<sup>2</sup><br />(0.706 g<sub>0</sub>)
         escape_velocity: 12.115 km/s<br />(43,613 km/h)
         rotation_period: 33.132 d
         axial_tilt: 33.87°
         albedo: 0.30
-        temperature: 1686 K<br />(1413 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II g
         type: Icy
         formationType: Accreted
@@ -217,14 +217,14 @@ planets:
         radius: 14,320.9 km<br/>(2.248 Yrths)
         surface_area: 2.577 × 10<sup>09</sup> km<sup>2</sup><br/>(5.053 Yrths)
         volume: 1.230 × 10<sup>13</sup> km<sup>3</sup><br/>(11.358 Yrths)
-        mass: 1.589 × 10<sup>25</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 1.589 × 10<sup>25</sup> kg<br />(2.662 Yrths)
         density: 1.292 g/cm<sup>3</sup>
         surface_gravity: 5.166 m/s<sup>2</sup><br />(0.527 g<sub>0</sub>)
         escape_velocity: 12.172 km/s<br />(43,819 km/h)
         rotation_period: 81.865 d
         axial_tilt: 9.12°
         albedo: 0.30
-        temperature: 1533 K<br />(1260 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II h
         type: Asteroid
         formationType: Captured
@@ -237,14 +237,14 @@ planets:
         radius: 34,546.1 km<br/>(5.422 Yrths)
         surface_area: 1.500 × 10<sup>10</sup> km<sup>2</sup><br/>(29.402 Yrths)
         volume: 1.727 × 10<sup>14</sup> km<sup>3</sup><br/>(159.432 Yrths)
-        mass: 3.172 × 10<sup>26</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 3.172 × 10<sup>26</sup> kg<br />(53.107 Yrths)
         density: 1.836 g/cm<sup>3</sup>
         surface_gravity: 17.713 m/s<sup>2</sup><br />(1.806 g<sub>0</sub>)
         escape_velocity: 35.007 km/s<br />(126,025 km/h)
         rotation_period: 66.004 d
         axial_tilt: 16.76°
         albedo: 0.30
-        temperature: 1461 K<br />(1188 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -257,14 +257,14 @@ planets:
         radius: 7,828.5 km<br/>(1.229 Yrths)
         surface_area: 7.701 × 10<sup>08</sup> km<sup>2</sup><br/>(1.510 Yrths)
         volume: 2.010 × 10<sup>12</sup> km<sup>3</sup><br/>(1.855 Yrths)
-        mass: 4.801 × 10<sup>24</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 4.801 × 10<sup>24</sup> kg<br />(0.804 Yrths)
         density: 2.389 g/cm<sup>3</sup>
         surface_gravity: 5.221 m/s<sup>2</sup><br />(0.532 g<sub>0</sub>)
         escape_velocity: 9.048 km/s<br />(32,571 km/h)
         rotation_period: 34.047 d
         axial_tilt: 27.02°
         albedo: 0.30
-        temperature: 1393 K<br />(1120 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II j
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -277,14 +277,14 @@ planets:
         radius: 16,317.2 km<br/>(2.561 Yrths)
         surface_area: 3.346 × 10<sup>09</sup> km<sup>2</sup><br/>(6.560 Yrths)
         volume: 1.820 × 10<sup>13</sup> km<sup>3</sup><br/>(16.800 Yrths)
-        mass: 3.897 × 10<sup>25</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 3.897 × 10<sup>25</sup> kg<br />(6.525 Yrths)
         density: 2.141 g/cm<sup>3</sup>
         surface_gravity: 9.755 m/s<sup>2</sup><br />(0.995 g<sub>0</sub>)
         escape_velocity: 17.855 km/s<br />(64,277 km/h)
         rotation_period: 36.828 d
         axial_tilt: 26.01°
         albedo: 0.30
-        temperature: 1329 K<br />(1055 °C)
+        temperature: 213 K<br />(-60 °C)
       - name: 8121 Arkothiad II k
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -297,14 +297,14 @@ planets:
         radius: 6,027.7 km<br/>(0.946 Yrths)
         surface_area: 4.566 × 10<sup>08</sup> km<sup>2</sup><br/>(0.895 Yrths)
         volume: 9.174 × 10<sup>11</sup> km<sup>3</sup><br/>(0.847 Yrths)
-        mass: 2.445 × 10<sup>24</sup> kg<br />(11.79081096199042 Yrths)
+        mass: 2.445 × 10<sup>24</sup> kg<br />(0.409 Yrths)
         density: 2.665 g/cm<sup>3</sup>
         surface_gravity: 4.485 m/s<sup>2</sup><br />(0.457 g<sub>0</sub>)
         escape_velocity: 7.358 km/s<br />(26,488 km/h)
         rotation_period: 35.059 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 1267 K<br />(994 °C)
+        temperature: 213 K<br />(-60 °C)
   - name: 8121 Arkothiad III
     type: Terrestrial
     aphelion: 2,304,573,526 km<br />15.405 AU
@@ -316,7 +316,7 @@ planets:
     radius: 5,513.1 km<br/>(0.865 Yrths)
     surface_area: 3.819 × 10<sup>08</sup> km<sup>2</sup><br/>(0.749 Yrths)
     volume: 7.019 × 10<sup>11</sup> km<sup>3</sup><br/>(0.648 Yrths)
-    mass: 3.803 × 10<sup>24</sup> kg<br />(0.6368464064575421 Yrths)
+    mass: 3.803 × 10<sup>24</sup> kg<br />(0.64 Yrths)
     density: 5.418 g/cm<sup>3</sup>
     surface_gravity: 8.340 m/s<sup>2</sup><br />(0.850 g<sub>0</sub>)
     escape_velocity: 9.596 km/s<br />(34,546 km/h)
@@ -337,14 +337,14 @@ planets:
         radius: 2,876.8 km<br/>(0.452 Yrths)
         surface_area: 1.040 × 10<sup>08</sup> km<sup>2</sup><br/>(0.204 Yrths)
         volume: 9.972 × 10<sup>10</sup> km<sup>3</sup><br/>(0.092 Yrths)
-        mass: 1.477 × 10<sup>23</sup> kg<br />(0.6368464064575421 Yrths)
+        mass: 1.477 × 10<sup>23</sup> kg<br />(0.025 Yrths)
         density: 1.481 g/cm<sup>3</sup>
         surface_gravity: 1.189 m/s<sup>2</sup><br />(0.121 g<sub>0</sub>)
         escape_velocity: 2.618 km/s<br />(9,424 km/h)
         rotation_period: 71.535 d
         axial_tilt: 18.24°
         albedo: 0.30
-        temperature: 2434 K<br />(2161 °C)
+        temperature: 149 K<br />(-124 °C)
   - name: 8121 Arkothiad IV
     type: Ice giant
     aphelion: 4,587,712,004 km<br />30.667 AU
@@ -356,14 +356,14 @@ planets:
     radius: 27,648.3 km<br/>(4.340 Yrths)
     surface_area: 9.606 × 10<sup>09</sup> km<sup>2</sup><br/>(18.833 Yrths)
     volume: 8.853 × 10<sup>13</sup> km<sup>3</sup><br/>(81.730 Yrths)
-    mass: 1.139 × 10<sup>26</sup> kg<br />(19.064713735371058 Yrths)
+    mass: 1.139 × 10<sup>26</sup> kg<br />(19.06 Yrths)
     density: 1.286 g/cm<sup>3</sup>
     surface_gravity: 9.927 m/s<sup>2</sup><br />(1.012 g<sub>0</sub>)
     escape_velocity: 23.445 km/s<br />(84,404 km/h)
     rotation_period: 0.330 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 198 K<br />(-75 °C)
+    temperature: 180 K<br />(-93 °C)
     composition:
       - 86.7982% hydrogen
       - 8.8698% helium
@@ -384,14 +384,14 @@ planets:
         radius: 16,770.6 km<br/>(2.632 Yrths)
         surface_area: 3.534 × 10<sup>09</sup> km<sup>2</sup><br/>(6.929 Yrths)
         volume: 1.976 × 10<sup>13</sup> km<sup>3</sup><br/>(18.240 Yrths)
-        mass: 5.184 × 10<sup>25</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 5.184 × 10<sup>25</sup> kg<br />(8.681 Yrths)
         density: 2.624 g/cm<sup>3</sup>
         surface_gravity: 12.286 m/s<sup>2</sup><br />(1.253 g<sub>0</sub>)
         escape_velocity: 20.314 km/s<br />(73,130 km/h)
         rotation_period: 54.525 d
         axial_tilt: 15.62°
         albedo: 0.30
-        temperature: 967 K<br />(694 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -404,14 +404,14 @@ planets:
         radius: 12,308.3 km<br/>(1.932 Yrths)
         surface_area: 1.904 × 10<sup>09</sup> km<sup>2</sup><br/>(3.732 Yrths)
         volume: 7.811 × 10<sup>12</sup> km<sup>3</sup><br/>(7.211 Yrths)
-        mass: 1.535 × 10<sup>25</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 1.535 × 10<sup>25</sup> kg<br />(2.571 Yrths)
         density: 1.966 g/cm<sup>3</sup>
         surface_gravity: 6.755 m/s<sup>2</sup><br />(0.689 g<sub>0</sub>)
         escape_velocity: 12.904 km/s<br />(46,454 km/h)
         rotation_period: 39.963 d
         axial_tilt: 24.74°
         albedo: 0.30
-        temperature: 922 K<br />(649 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV c
         type: Asteroid
         formationType: Captured
@@ -424,14 +424,14 @@ planets:
         radius: 20,329.4 km<br/>(3.191 Yrths)
         surface_area: 5.193 × 10<sup>09</sup> km<sup>2</sup><br/>(10.182 Yrths)
         volume: 3.519 × 10<sup>13</sup> km<sup>3</sup><br/>(32.490 Yrths)
-        mass: 4.913 × 10<sup>25</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 4.913 × 10<sup>25</sup> kg<br />(8.227 Yrths)
         density: 1.396 g/cm<sup>3</sup>
         surface_gravity: 7.924 m/s<sup>2</sup><br />(0.808 g<sub>0</sub>)
         escape_velocity: 17.961 km/s<br />(64,660 km/h)
         rotation_period: 54.597 d
         axial_tilt: 42.20°
         albedo: 0.30
-        temperature: 838 K<br />(565 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -444,14 +444,14 @@ planets:
         radius: 13,427.3 km<br/>(2.108 Yrths)
         surface_area: 2.266 × 10<sup>09</sup> km<sup>2</sup><br/>(4.442 Yrths)
         volume: 1.014 × 10<sup>13</sup> km<sup>3</sup><br/>(9.361 Yrths)
-        mass: 2.057 × 10<sup>25</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 2.057 × 10<sup>25</sup> kg<br />(3.444 Yrths)
         density: 2.028 g/cm<sup>3</sup>
         surface_gravity: 7.603 m/s<sup>2</sup><br />(0.775 g<sub>0</sub>)
         escape_velocity: 14.298 km/s<br />(51,475 km/h)
         rotation_period: 35.715 d
         axial_tilt: 20.59°
         albedo: 0.30
-        temperature: 799 K<br />(526 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV e
         type: Ice/rock hybrid
         formationType: Captured
@@ -464,14 +464,14 @@ planets:
         radius: 9,946.6 km<br/>(1.561 Yrths)
         surface_area: 1.243 × 10<sup>09</sup> km<sup>2</sup><br/>(2.437 Yrths)
         volume: 4.122 × 10<sup>12</sup> km<sup>3</sup><br/>(3.805 Yrths)
-        mass: 9.275 × 10<sup>24</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 9.275 × 10<sup>24</sup> kg<br />(1.553 Yrths)
         density: 2.250 g/cm<sup>3</sup>
         surface_gravity: 6.249 m/s<sup>2</sup><br />(0.637 g<sub>0</sub>)
         escape_velocity: 11.157 km/s<br />(40,164 km/h)
         rotation_period: 33.976 d
         axial_tilt: 30.03°
         albedo: 0.30
-        temperature: 762 K<br />(489 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV f
         type: Dwarf planet
         formationType: Accreted
@@ -484,14 +484,14 @@ planets:
         radius: 13,197.3 km<br/>(2.071 Yrths)
         surface_area: 2.189 × 10<sup>09</sup> km<sup>2</sup><br/>(4.291 Yrths)
         volume: 9.628 × 10<sup>12</sup> km<sup>3</sup><br/>(8.889 Yrths)
-        mass: 1.262 × 10<sup>25</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 1.262 × 10<sup>25</sup> kg<br />(2.113 Yrths)
         density: 1.311 g/cm<sup>3</sup>
         surface_gravity: 4.830 m/s<sup>2</sup><br />(0.493 g<sub>0</sub>)
         escape_velocity: 11.299 km/s<br />(40,675 km/h)
         rotation_period: 45.015 d
         axial_tilt: 30.60°
         albedo: 0.30
-        temperature: 726 K<br />(453 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV g
         type: Ice/rock hybrid
         formationType: Captured
@@ -504,14 +504,14 @@ planets:
         radius: 18,416.2 km<br/>(2.891 Yrths)
         surface_area: 4.262 × 10<sup>09</sup> km<sup>2</sup><br/>(8.356 Yrths)
         volume: 2.616 × 10<sup>13</sup> km<sup>3</sup><br/>(24.153 Yrths)
-        mass: 5.027 × 10<sup>25</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 5.027 × 10<sup>25</sup> kg<br />(8.417 Yrths)
         density: 1.921 g/cm<sup>3</sup>
         surface_gravity: 9.879 m/s<sup>2</sup><br />(1.007 g<sub>0</sub>)
         escape_velocity: 19.088 km/s<br />(68,716 km/h)
         rotation_period: 64.667 d
         axial_tilt: 14.25°
         albedo: 0.30
-        temperature: 693 K<br />(420 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -524,14 +524,14 @@ planets:
         radius: 30,843.4 km<br/>(4.841 Yrths)
         surface_area: 1.195 × 10<sup>10</sup> km<sup>2</sup><br/>(23.437 Yrths)
         volume: 1.229 × 10<sup>14</sup> km<sup>3</sup><br/>(113.466 Yrths)
-        mass: 2.463 × 10<sup>26</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 2.463 × 10<sup>26</sup> kg<br />(41.244 Yrths)
         density: 2.004 g/cm<sup>3</sup>
         surface_gravity: 17.257 m/s<sup>2</sup><br />(1.760 g<sub>0</sub>)
         escape_velocity: 32.650 km/s<br />(117,538 km/h)
         rotation_period: 45.656 d
         axial_tilt: 14.18°
         albedo: 0.30
-        temperature: 630 K<br />(357 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV i
         type: Ice/rock hybrid
         formationType: Captured
@@ -544,14 +544,14 @@ planets:
         radius: 20,548.1 km<br/>(3.225 Yrths)
         surface_area: 5.306 × 10<sup>09</sup> km<sup>2</sup><br/>(10.402 Yrths)
         volume: 3.634 × 10<sup>13</sup> km<sup>3</sup><br/>(33.550 Yrths)
-        mass: 9.743 × 10<sup>25</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 9.743 × 10<sup>25</sup> kg<br />(16.315 Yrths)
         density: 2.681 g/cm<sup>3</sup>
         surface_gravity: 15.381 m/s<sup>2</sup><br />(1.568 g<sub>0</sub>)
         escape_velocity: 25.159 km/s<br />(90,572 km/h)
         rotation_period: 45.522 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 600 K<br />(327 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -564,14 +564,14 @@ planets:
         radius: 24,632.3 km<br/>(3.866 Yrths)
         surface_area: 7.625 × 10<sup>09</sup> km<sup>2</sup><br/>(14.948 Yrths)
         volume: 6.260 × 10<sup>13</sup> km<sup>3</sup><br/>(57.795 Yrths)
-        mass: 1.489 × 10<sup>26</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 1.489 × 10<sup>26</sup> kg<br />(24.931 Yrths)
         density: 2.378 g/cm<sup>3</sup>
         surface_gravity: 16.355 m/s<sup>2</sup><br />(1.668 g<sub>0</sub>)
         escape_velocity: 28.405 km/s<br />(102,258 km/h)
         rotation_period: 32.459 d
         axial_tilt: 31.92°
         albedo: 0.30
-        temperature: 572 K<br />(299 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 8121 Arkothiad IV k
         type: Asteroid
         formationType: Captured
@@ -584,14 +584,14 @@ planets:
         radius: 18,132.8 km<br/>(2.846 Yrths)
         surface_area: 4.132 × 10<sup>09</sup> km<sup>2</sup><br/>(8.101 Yrths)
         volume: 2.497 × 10<sup>13</sup> km<sup>3</sup><br/>(23.055 Yrths)
-        mass: 3.247 × 10<sup>25</sup> kg<br />(19.064713735371058 Yrths)
+        mass: 3.247 × 10<sup>25</sup> kg<br />(5.436 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 6.581 m/s<sup>2</sup><br />(0.671 g<sub>0</sub>)
         escape_velocity: 15.460 km/s<br />(55,655 km/h)
         rotation_period: 46.160 d
         axial_tilt: 27.48°
         albedo: 0.30
-        temperature: 546 K<br />(273 °C)
+        temperature: 104 K<br />(-169 °C)
   - name: 8121 Arkothiad V
     type: Ice giant
     aphelion: 9,297,309,756 km<br />62.148 AU
@@ -603,14 +603,14 @@ planets:
     radius: 35,899.5 km<br/>(5.635 Yrths)
     surface_area: 1.620 × 10<sup>10</sup> km<sup>2</sup><br/>(31.751 Yrths)
     volume: 1.938 × 10<sup>14</sup> km<sup>3</sup><br/>(178.913 Yrths)
-    mass: 2.878 × 10<sup>26</sup> kg<br />(48.187294681705815 Yrths)
+    mass: 2.878 × 10<sup>26</sup> kg<br />(48.19 Yrths)
     density: 1.485 g/cm<sup>3</sup>
     surface_gravity: 14.883 m/s<sup>2</sup><br />(1.518 g<sub>0</sub>)
     escape_velocity: 32.711 km/s<br />(117,761 km/h)
     rotation_period: 0.283 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 135 K<br />(-138 °C)
+    temperature: 123 K<br />(-150 °C)
     composition:
       - 56.1912% hydrogen
       - 39.5258% helium
@@ -628,14 +628,14 @@ planets:
         radius: 75,691.5 km<br/>(11.881 Yrths)
         surface_area: 7.200 × 10<sup>10</sup> km<sup>2</sup><br/>(141.149 Yrths)
         volume: 1.816 × 10<sup>15</sup> km<sup>3</sup><br/>(1676.942 Yrths)
-        mass: 3.258 × 10<sup>27</sup> kg<br />(48.187294681705815 Yrths)
+        mass: 3.258 × 10<sup>27</sup> kg<br />(545.624 Yrths)
         density: 1.794 g/cm<sup>3</sup>
         surface_gravity: 37.908 m/s<sup>2</sup><br />(3.866 g<sub>0</sub>)
         escape_velocity: 75.806 km/s<br />(272,900 km/h)
         rotation_period: 73.849 d
         axial_tilt: 23.17°
         albedo: 0.30
-        temperature: 579 K<br />(306 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 8121 Arkothiad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -648,14 +648,14 @@ planets:
         radius: 24,422.9 km<br/>(3.833 Yrths)
         surface_area: 7.496 × 10<sup>09</sup> km<sup>2</sup><br/>(14.695 Yrths)
         volume: 6.102 × 10<sup>13</sup> km<sup>3</sup><br/>(56.334 Yrths)
-        mass: 1.095 × 10<sup>26</sup> kg<br />(48.187294681705815 Yrths)
+        mass: 1.095 × 10<sup>26</sup> kg<br />(18.335 Yrths)
         density: 1.794 g/cm<sup>3</sup>
         surface_gravity: 12.235 m/s<sup>2</sup><br />(1.248 g<sub>0</sub>)
         escape_velocity: 24.463 km/s<br />(88,068 km/h)
         rotation_period: 47.112 d
         axial_tilt: 14.86°
         albedo: 0.30
-        temperature: 553 K<br />(279 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 8121 Arkothiad V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -668,14 +668,14 @@ planets:
         radius: 46,891.8 km<br/>(7.360 Yrths)
         surface_area: 2.763 × 10<sup>10</sup> km<sup>2</sup><br/>(54.172 Yrths)
         volume: 4.319 × 10<sup>14</sup> km<sup>3</sup><br/>(398.719 Yrths)
-        mass: 9.065 × 10<sup>26</sup> kg<br />(48.187294681705815 Yrths)
+        mass: 9.065 × 10<sup>26</sup> kg<br />(151.799 Yrths)
         density: 2.099 g/cm<sup>3</sup>
         surface_gravity: 27.480 m/s<sup>2</sup><br />(2.802 g<sub>0</sub>)
         escape_velocity: 50.800 km/s<br />(182,880 km/h)
         rotation_period: 42.892 d
         axial_tilt: 19.56°
         albedo: 0.30
-        temperature: 527 K<br />(254 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 8121 Arkothiad V d
         type: Asteroid
         formationType: Captured
@@ -688,14 +688,14 @@ planets:
         radius: 54,921.4 km<br/>(8.621 Yrths)
         surface_area: 3.790 × 10<sup>10</sup> km<sup>2</sup><br/>(74.314 Yrths)
         volume: 6.939 × 10<sup>14</sup> km<sup>3</sup><br/>(640.623 Yrths)
-        mass: 1.993 × 10<sup>27</sup> kg<br />(48.187294681705815 Yrths)
+        mass: 1.993 × 10<sup>27</sup> kg<br />(333.647 Yrths)
         density: 2.871 g/cm<sup>3</sup>
         surface_gravity: 44.029 m/s<sup>2</sup><br />(4.490 g<sub>0</sub>)
         escape_velocity: 69.591 km/s<br />(250,526 km/h)
         rotation_period: 35.373 d
         axial_tilt: 14.14°
         albedo: 0.30
-        temperature: 479 K<br />(206 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 8121 Arkothiad V e
         type: Icy
         formationType: Impact formed
@@ -708,12 +708,12 @@ planets:
         radius: 36,164.8 km<br/>(5.676 Yrths)
         surface_area: 1.644 × 10<sup>10</sup> km<sup>2</sup><br/>(32.222 Yrths)
         volume: 1.981 × 10<sup>14</sup> km<sup>3</sup><br/>(182.909 Yrths)
-        mass: 3.164 × 10<sup>26</sup> kg<br />(48.187294681705815 Yrths)
+        mass: 3.164 × 10<sup>26</sup> kg<br />(52.987 Yrths)
         density: 1.597 g/cm<sup>3</sup>
         surface_gravity: 16.126 m/s<sup>2</sup><br />(1.644 g<sub>0</sub>)
         escape_velocity: 34.176 km/s<br />(123,033 km/h)
         rotation_period: 78.001 d
         axial_tilt: 18.98°
         albedo: 0.30
-        temperature: 457 K<br />(183 °C)
+        temperature: 73 K<br />(-200 °C)
 ---

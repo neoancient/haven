@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1244 Irsaiad is a star in the constellation Irsa
+      1244 Irsaiad is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 397.97 ly
 apparent_magnitude: 10.38
 absolute_magnitude: 4.95

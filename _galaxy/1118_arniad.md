@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1118 Arniad is a star in the constellation Arni
+      1118 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 377.99 ly
 apparent_magnitude: 11.11
 absolute_magnitude: 5.79

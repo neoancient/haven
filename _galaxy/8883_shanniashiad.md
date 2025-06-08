@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8883 Shanniashiad is a star in the constellation Shannias
+      8883 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 166.21 ly
 apparent_magnitude: 9.90
 absolute_magnitude: 6.37

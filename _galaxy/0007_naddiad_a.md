@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0007 Naddiad A is a star in the constellation Naddi
+      0007 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 444.02 ly
 apparent_magnitude: 5.00
 absolute_magnitude: -0.67

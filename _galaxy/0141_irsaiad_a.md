@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0141 Irsaiad A is a star in the constellation Irsa
+      0141 Irsaiad A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 530.45 ly
 apparent_magnitude: 5.87
 absolute_magnitude: -0.19

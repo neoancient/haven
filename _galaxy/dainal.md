@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Dainal is a star in the constellation Swither
+      Dainal is a star in the constellation <a href="swither.html">Swither</a>
 distance: 355.03 ly
 apparent_magnitude: 2.97
 absolute_magnitude: -2.21

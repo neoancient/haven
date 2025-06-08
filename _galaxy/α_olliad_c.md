@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      α Olliad C is a star in the constellation Ol
+      α Olliad C is a star in the constellation <a href="ol.html">Ol</a>
 distance: 639.72 ly
 apparent_magnitude: 18.02
 absolute_magnitude: 11.56

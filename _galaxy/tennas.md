@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tennas is a star in the constellation Lulithan
+      Tennas is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 219.45 ly
 apparent_magnitude: -0.05
 absolute_magnitude: -4.19

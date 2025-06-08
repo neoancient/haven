@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Heorosad A is a star in the constellation Bair
+      Heorosad A is a star in the constellation <a href="bair.html">Bair</a>
 distance: 2097.57 ly
 apparent_magnitude: 2.87
 absolute_magnitude: -6.18

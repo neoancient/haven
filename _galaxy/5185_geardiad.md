@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5185 Geardiad is a star in the constellation Geard
+      5185 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 185.55 ly
 apparent_magnitude: 19.30
 absolute_magnitude: 15.52

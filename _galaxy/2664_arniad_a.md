@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2664 Arniad A is a star in the constellation Arni
+      2664 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 276.21 ly
 apparent_magnitude: 7.36
 absolute_magnitude: 2.72

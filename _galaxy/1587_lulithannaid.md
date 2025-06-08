@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1587 Lulithannaid is a star in the constellation Lulithan
+      1587 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 455.70 ly
 apparent_magnitude: 11.00
 absolute_magnitude: 5.27

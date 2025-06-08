@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3339 Geardiad is a star in the constellation Geard
+      3339 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 256.94 ly
 apparent_magnitude: 9.27
 absolute_magnitude: 4.79

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      310 Ruanead is a star in the constellation Ruane
+      310 Ruanead is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 213.97 ly
 apparent_magnitude: 8.91
 absolute_magnitude: 4.83

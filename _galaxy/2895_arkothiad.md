@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2895 Arkothiad is a star in the constellation Arkoth
+      2895 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 423.79 ly
 apparent_magnitude: 10.40
 absolute_magnitude: 4.83

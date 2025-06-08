@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      985 Shanniashiad A is a star in the constellation Shannias
+      985 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1273.12 ly
 apparent_magnitude: 7.02
 absolute_magnitude: -0.94

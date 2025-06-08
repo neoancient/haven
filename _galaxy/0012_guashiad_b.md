@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0012 Guashiad B is a star in the constellation Guashi
+      0012 Guashiad B is a star in the constellation <a href="guashi.html">Guashi</a>
 distance: 141.85 ly
 apparent_magnitude: 8.64
 absolute_magnitude: 5.45

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0033 Irsaiad B is a star in the constellation Irsa
+      0033 Irsaiad B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 711.06 ly
 apparent_magnitude: 9.13
 absolute_magnitude: 2.44

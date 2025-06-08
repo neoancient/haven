@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Orshenniad is a star in the constellation Orshen
+      ν Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 86.09 ly
 apparent_magnitude: 4.92
 absolute_magnitude: 2.81
@@ -31,14 +31,14 @@ planets:
     radius: 6,619.5 km<br/>(1.039 Yrths)
     surface_area: 5.506 × 10<sup>08</sup> km<sup>2</sup><br/>(1.080 Yrths)
     volume: 1.215 × 10<sup>12</sup> km<sup>3</sup><br/>(1.122 Yrths)
-    mass: 6.397 × 10<sup>24</sup> kg<br />(1.0711004643295976 Yrths)
+    mass: 6.397 × 10<sup>24</sup> kg<br />(1.07 Yrths)
     density: 5.265 g/cm<sup>3</sup>
     surface_gravity: 9.730 m/s<sup>2</sup><br />(0.992 g<sub>0</sub>)
     escape_velocity: 11.357 km/s<br />(40,887 km/h)
     rotation_period: 1.081 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 278 K<br />(4 °C)
+    temperature: 340 K<br />(67 °C)
     surface_pressure: 18 kPa<br />(0 atm)
     composition:
       - 81.2280% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 4,710.4 km<br/>(0.739 Yrths)
         surface_area: 2.788 × 10<sup>08</sup> km<sup>2</sup><br/>(0.547 Yrths)
         volume: 4.378 × 10<sup>11</sup> km<sup>3</sup><br/>(0.404 Yrths)
-        mass: 4.176 × 10<sup>23</sup> kg<br />(1.0711004643295976 Yrths)
+        mass: 4.176 × 10<sup>23</sup> kg<br />(0.070 Yrths)
         density: 0.954 g/cm<sup>3</sup>
         surface_gravity: 1.254 m/s<sup>2</sup><br />(0.128 g<sub>0</sub>)
         escape_velocity: 3.440 km/s<br />(12,384 km/h)
         rotation_period: 64.267 d
         axial_tilt: 10.11°
         albedo: 0.30
-        temperature: 4599 K<br />(4326 °C)
+        temperature: 246 K<br />(-28 °C)
   - name: ν Orshenniad II
     type: Terrestrial
     aphelion: 1,189,462,395 km<br />7.951 AU
@@ -78,14 +78,14 @@ planets:
     radius: 9,136.2 km<br/>(1.434 Yrths)
     surface_area: 1.049 × 10<sup>09</sup> km<sup>2</sup><br/>(2.056 Yrths)
     volume: 3.194 × 10<sup>12</sup> km<sup>3</sup><br/>(2.949 Yrths)
-    mass: 1.556 × 10<sup>25</sup> kg<br />(2.606167167650669 Yrths)
+    mass: 1.556 × 10<sup>25</sup> kg<br />(2.61 Yrths)
     density: 4.872 g/cm<sup>3</sup>
     surface_gravity: 12.428 m/s<sup>2</sup><br />(1.267 g<sub>0</sub>)
     escape_velocity: 15.080 km/s<br />(54,287 km/h)
     rotation_period: 0.769 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 238 K<br />(-36 °C)
+    temperature: 593 K<br />(320 °C)
     surface_pressure: 30 kPa<br />(0 atm)
     composition:
       - 71.5968% carbon dioxide
@@ -105,14 +105,14 @@ planets:
         radius: 6,967.0 km<br/>(1.094 Yrths)
         surface_area: 6.100 × 10<sup>08</sup> km<sup>2</sup><br/>(1.196 Yrths)
         volume: 1.417 × 10<sup>12</sup> km<sup>3</sup><br/>(1.308 Yrths)
-        mass: 2.237 × 10<sup>24</sup> kg<br />(2.606167167650669 Yrths)
+        mass: 2.237 × 10<sup>24</sup> kg<br />(0.375 Yrths)
         density: 1.580 g/cm<sup>3</sup>
         surface_gravity: 3.072 m/s<sup>2</sup><br />(0.313 g<sub>0</sub>)
         escape_velocity: 6.547 km/s<br />(23,571 km/h)
         rotation_period: 73.264 d
         axial_tilt: 26.92°
         albedo: 0.30
-        temperature: 3305 K<br />(3032 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: ν Orshenniad II b
         type: Rocky
         formationType: Accreted
@@ -125,12 +125,12 @@ planets:
         radius: 2,265.1 km<br/>(0.356 Yrths)
         surface_area: 6.447 × 10<sup>07</sup> km<sup>2</sup><br/>(0.126 Yrths)
         volume: 4.868 × 10<sup>10</sup> km<sup>3</sup><br/>(0.045 Yrths)
-        mass: 1.255 × 10<sup>23</sup> kg<br />(2.606167167650669 Yrths)
+        mass: 1.255 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 2.577 g/cm<sup>3</sup>
         surface_gravity: 1.630 m/s<sup>2</sup><br />(0.166 g<sub>0</sub>)
         escape_velocity: 2.719 km/s<br />(9,789 km/h)
         rotation_period: 35.503 d
         axial_tilt: 14.71°
         albedo: 0.30
-        temperature: 3151 K<br />(2878 °C)
+        temperature: 171 K<br />(-102 °C)
 ---

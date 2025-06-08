@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3851 Anilliad is a star in the constellation Anil
+      3851 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 460.17 ly
 apparent_magnitude: 11.27
 absolute_magnitude: 5.52

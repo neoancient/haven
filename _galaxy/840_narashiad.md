@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      840 Narashiad is a star in the constellation Naras
+      840 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 368.73 ly
 apparent_magnitude: 12.93
 absolute_magnitude: 7.67

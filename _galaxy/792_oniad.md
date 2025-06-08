@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      792 Oniad is a star in the constellation Oni
+      792 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 598.62 ly
 apparent_magnitude: 11.16
 absolute_magnitude: 4.84

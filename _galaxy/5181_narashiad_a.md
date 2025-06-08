@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5181 Narashiad A is a star in the constellation Naras
+      5181 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 407.69 ly
 apparent_magnitude: 8.38
 absolute_magnitude: 2.90

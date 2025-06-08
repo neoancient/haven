@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      φ Molaiad B is a star in the constellation Mola
+      φ Molaiad B is a star in the constellation <a href="mola.html">Mola</a>
 distance: 354.79 ly
 apparent_magnitude: 11.22
 absolute_magnitude: 6.04

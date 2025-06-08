@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      17408 Narashiad is a star in the constellation Naras
+      17408 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 450.34 ly
 apparent_magnitude: 11.05
 absolute_magnitude: 5.35

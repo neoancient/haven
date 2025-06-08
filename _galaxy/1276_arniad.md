@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1276 Arniad is a star in the constellation Arni
+      1276 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 550.88 ly
 apparent_magnitude: 11.41
 absolute_magnitude: 5.28

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8366 Tanashad is a star in the constellation Tanas
+      8366 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 477.76 ly
 apparent_magnitude: 10.57
 absolute_magnitude: 4.74

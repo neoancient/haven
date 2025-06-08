@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3774 Shanniashiad A is a star in the constellation Shannias
+      3774 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 911.28 ly
 apparent_magnitude: 6.75
 absolute_magnitude: -0.48

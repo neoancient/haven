@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9757 Tanashad is a star in the constellation Tanas
+      9757 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 353.41 ly
 apparent_magnitude: 19.61
 absolute_magnitude: 14.43

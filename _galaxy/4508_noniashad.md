@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4508 Noniashad is a star in the constellation Nonias
+      4508 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 414.06 ly
 apparent_magnitude: 11.97
 absolute_magnitude: 6.45

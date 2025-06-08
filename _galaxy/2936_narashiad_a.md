@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2936 Narashiad A is a star in the constellation Naras
+      2936 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 589.51 ly
 apparent_magnitude: 8.18
 absolute_magnitude: 1.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0139 Switheriad is a star in the constellation Swither
+      0139 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 344.83 ly
 apparent_magnitude: 5.87
 absolute_magnitude: 0.75
@@ -31,7 +31,7 @@ planets:
     radius: 8,374.1 km<br/>(1.314 Yrths)
     surface_area: 8.812 × 10<sup>08</sup> km<sup>2</sup><br/>(1.728 Yrths)
     volume: 2.460 × 10<sup>12</sup> km<sup>3</sup><br/>(2.271 Yrths)
-    mass: 1.384 × 10<sup>25</sup> kg<br />(2.3182818610206435 Yrths)
+    mass: 1.384 × 10<sup>25</sup> kg<br />(2.32 Yrths)
     density: 5.628 g/cm<sup>3</sup>
     surface_gravity: 13.159 m/s<sup>2</sup><br />(1.342 g<sub>0</sub>)
     escape_velocity: 14.856 km/s<br />(53,480 km/h)
@@ -52,12 +52,12 @@ planets:
         radius: 6,261.2 km<br/>(0.983 Yrths)
         surface_area: 4.926 × 10<sup>08</sup> km<sup>2</sup><br/>(0.966 Yrths)
         volume: 1.028 × 10<sup>12</sup> km<sup>3</sup><br/>(0.949 Yrths)
-        mass: 1.889 × 10<sup>24</sup> kg<br />(2.3182818610206435 Yrths)
+        mass: 1.889 × 10<sup>24</sup> kg<br />(0.316 Yrths)
         density: 1.838 g/cm<sup>3</sup>
         surface_gravity: 3.212 m/s<sup>2</sup><br />(0.328 g<sub>0</sub>)
         escape_velocity: 6.347 km/s<br />(22,848 km/h)
         rotation_period: 45.401 d
         axial_tilt: 7.01°
         albedo: 0.30
-        temperature: 7029 K<br />(6756 °C)
+        temperature: 529 K<br />(255 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2150 Oniad is a star in the constellation Oni
+      2150 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 444.40 ly
 apparent_magnitude: 8.68
 absolute_magnitude: 3.01

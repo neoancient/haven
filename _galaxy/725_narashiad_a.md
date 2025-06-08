@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      725 Narashiad A is a star in the constellation Naras
+      725 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 303.28 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 6.21

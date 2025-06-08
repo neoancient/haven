@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Uglane A is a star in the constellation Pelnemen
+      Uglane A is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 446.04 ly
 apparent_magnitude: 2.85
 absolute_magnitude: -2.83

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1311 Narashiad A is a star in the constellation Naras
+      1311 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 391.26 ly
 apparent_magnitude: 8.51
 absolute_magnitude: 3.11

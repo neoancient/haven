@@ -8,70 +8,72 @@ sections:
     content: >-
       Vortex Gate is a terrestrial planet in the <a href="2381_kinanniad.html">2381 Kinanniad</a> system.
 planet:
-  aphelion: 329,543,048 km<br />2.203 AU
-  perihelion: 329,543,048 km<br />2.203 AU
-  semi_major_axis: 329,543,048 km<br />2.203 AU
-  eccentricity: 0.000
-  orbital_period: 1,204.25 d<br />3.297 y
-  inclination: 22.17°
-  radius: 7,510.0 km<br/>(1.179 Yrths)
-  surface_area: 7.088 × 10<sup>08</sup> km<sup>2</sup><br/>(1.390 Yrths)
-  volume: 1.774 × 10<sup>12</sup> km<sup>3</sup><br/>(1.638 Yrths)
-  mass: 8.174 × 10<sup>24</sup> kg<br />(1.37 Yrths)
-  density: 4.607 g/cm<sup>3</sup>
-  surface_gravity: 9.660 m/s<sup>2</sup><br />(0.985 g<sub>0</sub>)
-  escape_velocity: 12.054 km/s<br />(43,394 km/h)
-  rotation_period: 1.115 d
+  aphelion: 232,178,985 km<br />1.552 AU
+  perihelion: 206,661,362 km<br />1.381 AU
+  semi_major_axis: 219,420,174 km<br />1.467 AU
+  eccentricity: 0.058
+  orbital_period: 704.59 d<br />1.929 y
+  inclination: 0.86°
+  radius: 7,309.5 km<br/>(1.147 Yrths)
+  surface_area: 6.714 × 10<sup>08</sup> km<sup>2</sup><br/>(1.316 Yrths)
+  volume: 1.636 × 10<sup>12</sup> km<sup>3</sup><br/>(1.510 Yrths)
+  mass: 8.372 × 10<sup>24</sup> kg<br />(1.40 Yrths)
+  density: 5.118 g/cm<sup>3</sup>
+  surface_gravity: 10.444 m/s<sup>2</sup><br />(1.065 g<sub>0</sub>)
+  escape_velocity: 12.365 km/s<br />(44,512 km/h)
+  rotation_period: 1.100 d
   axial_tilt: 0.00°
   albedo: 0.30
-  temperature: 260 K<br />(-13 °C)
-  surface_pressure: 101 kPa<br />(1 atm)
+  temperature: 308 K<br />(35 °C)
+  surface_pressure: 110 kPa<br />(1 atm)
   composition:
-    - 78.2398% nitrogen
-    - 20.4186% oxygen
-    - 1.3202% argon
-    - 0.0200% carbon dioxide
-    - 0.0013% methane
-    - 0.0001% hydrogen cyanide
+    - 74.9175% nitrogen
+    - 19.5618% oxygen
+    - 2.4261% water vapor
+    - 1.7708% hydrogen sulfide
+    - 1.2648% argon
+    - 0.0585% carbon dioxide
+    - 0.0005% methane
+    - 0.0000% carbon monoxide
   moons:
     - name: Vortex Gate a
-      type: Asteroid
-      formationType: Captured
-      aphelion: 1,879,195 km<br />
-      perihelion: 1,801,667 km<br />
-      semi_major_axis: 1,840,431 km<br />
-      eccentricity: 0.021
-      orbital_period: 0.16 d<br />
-      inclination: 1.86°
-      radius: 1,804.9 km<br/>(0.283 Yrths)
-      surface_area: 4.094 × 10<sup>07</sup> km<sup>2</sup><br/>(0.080 Yrths)
-      volume: 2.463 × 10<sup>10</sup> km<sup>3</sup><br/>(0.023 Yrths)
-      mass: 7.208 × 10<sup>22</sup> kg<br />(1.3687730973438645 Yrths)
-      density: 2.926 g/cm<sup>3</sup>
-      surface_gravity: 1.475 m/s<sup>2</sup><br />(0.150 g<sub>0</sub>)
-      escape_velocity: 2.309 km/s<br />(8,312 km/h)
-      rotation_period: 53.210 d
-      axial_tilt: 14.22°
+      type: Ice/rock hybrid
+      formationType: Impact formed
+      aphelion: 1,319,519 km<br />
+      perihelion: 1,275,952 km<br />
+      semi_major_axis: 1,297,736 km<br />
+      eccentricity: 0.017
+      orbital_period: 0.09 d<br />
+      inclination: 1.22°
+      radius: 1,611.5 km<br/>(0.253 Yrths)
+      surface_area: 3.264 × 10<sup>07</sup> km<sup>2</sup><br/>(0.064 Yrths)
+      volume: 1.753 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
+      mass: 3.967 × 10<sup>22</sup> kg<br />(0.007 Yrths)
+      density: 2.263 g/cm<sup>3</sup>
+      surface_gravity: 1.018 m/s<sup>2</sup><br />(0.104 g<sub>0</sub>)
+      escape_velocity: 1.813 km/s<br />(6,526 km/h)
+      rotation_period: 44.820 d
+      axial_tilt: 29.40°
       albedo: 0.30
-      temperature: 3279 K<br />(3006 °C)
+      temperature: 264 K<br />(-9 °C)
     - name: Vortex Gate b
-      type: Asteroid
-      formationType: Captured
-      aphelion: 2,397,091 km<br />
-      perihelion: 1,651,858 km<br />
-      semi_major_axis: 2,024,474 km<br />
-      eccentricity: 0.184
-      orbital_period: 0.16 d<br />
-      inclination: 8.32°
-      radius: 3,050.1 km<br/>(0.479 Yrths)
-      surface_area: 1.169 × 10<sup>08</sup> km<sup>2</sup><br/>(0.229 Yrths)
-      volume: 1.189 × 10<sup>11</sup> km<sup>3</sup><br/>(0.110 Yrths)
-      mass: 3.048 × 10<sup>23</sup> kg<br />(1.3687730973438645 Yrths)
-      density: 2.564 g/cm<sup>3</sup>
-      surface_gravity: 2.184 m/s<sup>2</sup><br />(0.223 g<sub>0</sub>)
-      escape_velocity: 3.652 km/s<br />(13,148 km/h)
-      rotation_period: 35.191 d
-      axial_tilt: 39.99°
+      type: Rocky
+      formationType: Impact formed
+      aphelion: 1,892,320 km<br />
+      perihelion: 962,699 km<br />
+      semi_major_axis: 1,427,509 km<br />
+      eccentricity: 0.326
+      orbital_period: 0.09 d<br />
+      inclination: 44.76°
+      radius: 3,589.9 km<br/>(0.563 Yrths)
+      surface_area: 1.620 × 10<sup>08</sup> km<sup>2</sup><br/>(0.318 Yrths)
+      volume: 1.938 × 10<sup>11</sup> km<sup>3</sup><br/>(0.179 Yrths)
+      mass: 5.360 × 10<sup>23</sup> kg<br />(0.090 Yrths)
+      density: 2.766 g/cm<sup>3</sup>
+      surface_gravity: 2.772 m/s<sup>2</sup><br />(0.283 g<sub>0</sub>)
+      escape_velocity: 4.465 km/s<br />(16,072 km/h)
+      rotation_period: 41.263 d
+      axial_tilt: 15.64°
       albedo: 0.30
-      temperature: 3127 K<br />(2853 °C)
+      temperature: 264 K<br />(-9 °C)
 ---

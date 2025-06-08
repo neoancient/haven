@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0022 Norriad C is a star in the constellation Nor
+      0022 Norriad C is a star in the constellation <a href="nor.html">Nor</a>
 distance: 470.96 ly
 apparent_magnitude: 16.30
 absolute_magnitude: 10.50
@@ -31,14 +31,14 @@ planets:
     radius: 2,817.5 km<br/>(0.442 Yrths)
     surface_area: 9.976 × 10<sup>07</sup> km<sup>2</sup><br/>(0.196 Yrths)
     volume: 9.369 × 10<sup>10</sup> km<sup>3</sup><br/>(0.086 Yrths)
-    mass: 1.997 × 10<sup>25</sup> kg<br />(3.3431054024440336 Yrths)
+    mass: 1.997 × 10<sup>25</sup> kg<br />(3.34 Yrths)
     density: 213.098 g/cm<sup>3</sup>
     surface_gravity: 167.630 m/s<sup>2</sup><br />(17.093 g<sub>0</sub>)
     escape_velocity: 30.755 km/s<br />(110,719 km/h)
     rotation_period: 2.351 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 537 K<br />(264 °C)
+    temperature: 1288 K<br />(1015 °C)
     surface_pressure: 564 kPa<br />(6 atm)
     composition:
       - 70.4070% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 3,444.1 km<br/>(0.541 Yrths)
         surface_area: 1.491 × 10<sup>08</sup> km<sup>2</sup><br/>(0.292 Yrths)
         volume: 1.711 × 10<sup>11</sup> km<sup>3</sup><br/>(0.158 Yrths)
-        mass: 4.712 × 10<sup>23</sup> kg<br />(3.3431054024440336 Yrths)
+        mass: 4.712 × 10<sup>23</sup> kg<br />(0.079 Yrths)
         density: 2.754 g/cm<sup>3</sup>
         surface_gravity: 2.648 m/s<sup>2</sup><br />(0.270 g<sub>0</sub>)
         escape_velocity: 4.274 km/s<br />(15,385 km/h)
         rotation_period: 29.446 d
         axial_tilt: 17.14°
         albedo: 0.30
-        temperature: 4771 K<br />(4497 °C)
+        temperature: 325 K<br />(51 °C)
       - name: 0022 Norriad C I b
         type: Rocky
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 4,728.5 km<br/>(0.742 Yrths)
         surface_area: 2.810 × 10<sup>08</sup> km<sup>2</sup><br/>(0.551 Yrths)
         volume: 4.429 × 10<sup>11</sup> km<sup>3</sup><br/>(0.409 Yrths)
-        mass: 1.487 × 10<sup>24</sup> kg<br />(3.3431054024440336 Yrths)
+        mass: 1.487 × 10<sup>24</sup> kg<br />(0.249 Yrths)
         density: 3.358 g/cm<sup>3</sup>
         surface_gravity: 4.434 m/s<sup>2</sup><br />(0.452 g<sub>0</sub>)
         escape_velocity: 6.480 km/s<br />(23,327 km/h)
         rotation_period: 52.144 d
         axial_tilt: 10.24°
         albedo: 0.30
-        temperature: 4549 K<br />(4275 °C)
+        temperature: 325 K<br />(51 °C)
   - name: 0022 Norriad C II
     type: Large terrestrial
     aphelion: 51,895,243 km<br />0.347 AU
@@ -95,14 +95,14 @@ planets:
     radius: 2,859.3 km<br/>(0.449 Yrths)
     surface_area: 1.027 × 10<sup>08</sup> km<sup>2</sup><br/>(0.201 Yrths)
     volume: 9.792 × 10<sup>10</sup> km<sup>3</sup><br/>(0.090 Yrths)
-    mass: 3.452 × 10<sup>24</sup> kg<br />(0.5780023819337049 Yrths)
+    mass: 3.452 × 10<sup>24</sup> kg<br />(0.58 Yrths)
     density: 35.253 g/cm<sup>3</sup>
     surface_gravity: 28.142 m/s<sup>2</sup><br />(2.870 g<sub>0</sub>)
     escape_velocity: 12.695 km/s<br />(45,700 km/h)
     rotation_period: 2.925 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 351 K<br />(78 °C)
+    temperature: 326 K<br />(52 °C)
     surface_pressure: 902 kPa<br />(9 atm)
     composition:
       - 76.6239% nitrogen
@@ -123,12 +123,12 @@ planets:
         radius: 2,075.8 km<br/>(0.326 Yrths)
         surface_area: 5.415 × 10<sup>07</sup> km<sup>2</sup><br/>(0.106 Yrths)
         volume: 3.747 × 10<sup>10</sup> km<sup>3</sup><br/>(0.035 Yrths)
-        mass: 1.349 × 10<sup>23</sup> kg<br />(0.5780023819337049 Yrths)
+        mass: 1.349 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 2.086 m/s<sup>2</sup><br />(0.213 g<sub>0</sub>)
         escape_velocity: 2.945 km/s<br />(10,603 km/h)
         rotation_period: 37.162 d
         axial_tilt: 13.42°
         albedo: 0.30
-        temperature: 4060 K<br />(3787 °C)
+        temperature: 255 K<br />(-18 °C)
 ---

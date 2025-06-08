@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0021 Kulniad is a star in the constellation Kuln
+      0021 Kulniad is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 76.77 ly
 apparent_magnitude: 6.14
 absolute_magnitude: 4.28
@@ -31,7 +31,7 @@ planets:
     radius: 225.9 km<br/>(0.035 Yrths)
     surface_area: 6.410 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.826 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.761 × 10<sup>27</sup> kg<br />(294.9105867424042 Yrths)
+    mass: 1.761 × 10<sup>27</sup> kg<br />(294.91 Yrths)
     density: 36493373.332 g/cm<sup>3</sup>
     surface_gravity: 2301200.998 m/s<sup>2</sup><br />(234657.197 g<sub>0</sub>)
     escape_velocity: 1020.246 km/s<br />(3,672,887 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 224,753.3 km<br/>(35.278 Yrths)
         surface_area: 6.348 × 10<sup>11</sup> km<sup>2</sup><br/>(1244.506 Yrths)
         volume: 4.756 × 10<sup>16</sup> km<sup>3</sup><br/>(43903.141 Yrths)
-        mass: 5.549 × 10<sup>28</sup> kg<br />(294.9105867424042 Yrths)
+        mass: 5.549 × 10<sup>28</sup> kg<br />(9292.413 Yrths)
         density: 1.167 g/cm<sup>3</sup>
         surface_gravity: 73.224 m/s<sup>2</sup><br />(7.467 g<sub>0</sub>)
         escape_velocity: 181.547 km/s<br />(653,569 km/h)
         rotation_period: 87.282 d
         axial_tilt: 14.49°
         albedo: 0.30
-        temperature: 1187 K<br />(913 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0021 Kulniad I b
         type: Asteroid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 251,546.3 km<br/>(39.483 Yrths)
         surface_area: 7.951 × 10<sup>11</sup> km<sup>2</sup><br/>(1558.909 Yrths)
         volume: 6.667 × 10<sup>16</sup> km<sup>3</sup><br/>(61550.439 Yrths)
-        mass: 1.566 × 10<sup>29</sup> kg<br />(294.9105867424042 Yrths)
+        mass: 1.566 × 10<sup>29</sup> kg<br />(26227.815 Yrths)
         density: 2.349 g/cm<sup>3</sup>
         surface_gravity: 164.992 m/s<sup>2</sup><br />(16.824 g<sub>0</sub>)
         escape_velocity: 288.303 km/s<br />(1,037,892 km/h)
         rotation_period: 47.240 d
         axial_tilt: 28.28°
         albedo: 0.30
-        temperature: 892 K<br />(618 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0021 Kulniad I c
         type: Rocky
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 166,995.0 km<br/>(26.212 Yrths)
         surface_area: 3.504 × 10<sup>11</sup> km<sup>2</sup><br/>(687.056 Yrths)
         volume: 1.951 × 10<sup>16</sup> km<sup>3</sup><br/>(18008.928 Yrths)
-        mass: 5.277 × 10<sup>28</sup> kg<br />(294.9105867424042 Yrths)
+        mass: 5.277 × 10<sup>28</sup> kg<br />(8835.459 Yrths)
         density: 2.705 g/cm<sup>3</sup>
         surface_gravity: 126.112 m/s<sup>2</sup><br />(12.860 g<sub>0</sub>)
         escape_velocity: 205.372 km/s<br />(739,338 km/h)
         rotation_period: 35.430 d
         axial_tilt: 12.76°
         albedo: 0.30
-        temperature: 810 K<br />(537 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0021 Kulniad I d
         type: Dwarf planet
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 254,797.4 km<br/>(39.993 Yrths)
         surface_area: 8.158 × 10<sup>11</sup> km<sup>2</sup><br/>(1599.465 Yrths)
         volume: 6.929 × 10<sup>16</sup> km<sup>3</sup><br/>(63967.924 Yrths)
-        mass: 1.506 × 10<sup>29</sup> kg<br />(294.9105867424042 Yrths)
+        mass: 1.506 × 10<sup>29</sup> kg<br />(25209.490 Yrths)
         density: 2.173 g/cm<sup>3</sup>
         surface_gravity: 154.565 m/s<sup>2</sup><br />(15.761 g<sub>0</sub>)
         escape_velocity: 280.842 km/s<br />(1,011,032 km/h)
         rotation_period: 44.892 d
         axial_tilt: 33.12°
         albedo: 0.30
-        temperature: 581 K<br />(307 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0021 Kulniad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 167,339.5 km<br/>(26.266 Yrths)
         surface_area: 3.519 × 10<sup>11</sup> km<sup>2</sup><br/>(689.893 Yrths)
         volume: 1.963 × 10<sup>16</sup> km<sup>3</sup><br/>(18120.614 Yrths)
-        mass: 4.773 × 10<sup>28</sup> kg<br />(294.9105867424042 Yrths)
+        mass: 4.773 × 10<sup>28</sup> kg<br />(7992.084 Yrths)
         density: 2.432 g/cm<sup>3</sup>
         surface_gravity: 113.605 m/s<sup>2</sup><br />(11.585 g<sub>0</sub>)
         escape_velocity: 195.123 km/s<br />(702,443 km/h)
         rotation_period: 36.370 d
         axial_tilt: 26.83°
         albedo: 0.30
-        temperature: 397 K<br />(123 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0021 Kulniad I f
         type: Rocky
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 190,190.8 km<br/>(29.853 Yrths)
         surface_area: 4.546 × 10<sup>11</sup> km<sup>2</sup><br/>(891.177 Yrths)
         volume: 2.882 × 10<sup>16</sup> km<sup>3</sup><br/>(26603.922 Yrths)
-        mass: 9.478 × 10<sup>28</sup> kg<br />(294.9105867424042 Yrths)
+        mass: 9.478 × 10<sup>28</sup> kg<br />(15870.882 Yrths)
         density: 3.289 g/cm<sup>3</sup>
         surface_gravity: 174.646 m/s<sup>2</sup><br />(17.809 g<sub>0</sub>)
         escape_velocity: 257.919 km/s<br />(928,509 km/h)
         rotation_period: 28.882 d
         axial_tilt: 20.87°
         albedo: 0.30
-        temperature: 271 K<br />(-2 °C)
+        temperature: 225 K<br />(-48 °C)
       - name: 0021 Kulniad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 202,408.2 km<br/>(31.770 Yrths)
         surface_area: 5.148 × 10<sup>11</sup> km<sup>2</sup><br/>(1009.349 Yrths)
         volume: 3.474 × 10<sup>16</sup> km<sup>3</sup><br/>(32067.252 Yrths)
-        mass: 8.481 × 10<sup>28</sup> kg<br />(294.9105867424042 Yrths)
+        mass: 8.481 × 10<sup>28</sup> kg<br />(14200.701 Yrths)
         density: 2.441 g/cm<sup>3</sup>
         surface_gravity: 137.971 m/s<sup>2</sup><br />(14.069 g<sub>0</sub>)
         escape_velocity: 236.493 km/s<br />(851,375 km/h)
         rotation_period: 34.057 d
         axial_tilt: 11.99°
         albedo: 0.30
-        temperature: 176 K<br />(-97 °C)
+        temperature: 225 K<br />(-48 °C)
   - name: 0021 Kulniad II
     type: Terrestrial
     aphelion: 533,639,702 km<br />3.567 AU
@@ -191,14 +191,14 @@ planets:
     radius: 5,545.6 km<br/>(0.870 Yrths)
     surface_area: 3.865 × 10<sup>08</sup> km<sup>2</sup><br/>(0.758 Yrths)
     volume: 7.144 × 10<sup>11</sup> km<sup>3</sup><br/>(0.660 Yrths)
-    mass: 3.759 × 10<sup>24</sup> kg<br />(0.6294468752263027 Yrths)
+    mass: 3.759 × 10<sup>24</sup> kg<br />(0.63 Yrths)
     density: 5.262 g/cm<sup>3</sup>
     surface_gravity: 8.147 m/s<sup>2</sup><br />(0.831 g<sub>0</sub>)
     escape_velocity: 9.512 km/s<br />(34,244 km/h)
     rotation_period: 1.187 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 220 K<br />(-53 °C)
+    temperature: 474 K<br />(201 °C)
     surface_pressure: 45 kPa<br />(0 atm)
     composition:
       - 53.7855% carbon dioxide
@@ -218,14 +218,14 @@ planets:
         radius: 1,594.3 km<br/>(0.250 Yrths)
         surface_area: 3.194 × 10<sup>07</sup> km<sup>2</sup><br/>(0.063 Yrths)
         volume: 1.698 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
-        mass: 2.174 × 10<sup>22</sup> kg<br />(0.6294468752263027 Yrths)
+        mass: 2.174 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 1.280 g/cm<sup>3</sup>
         surface_gravity: 0.570 m/s<sup>2</sup><br />(0.058 g<sub>0</sub>)
         escape_velocity: 1.349 km/s<br />(4,856 km/h)
         rotation_period: 73.100 d
         axial_tilt: 27.02°
         albedo: 0.30
-        temperature: 3092 K<br />(2819 °C)
+        temperature: 162 K<br />(-112 °C)
       - name: 0021 Kulniad II b
         type: Dwarf planet
         formationType: Captured
@@ -238,14 +238,14 @@ planets:
         radius: 1,356.7 km<br/>(0.213 Yrths)
         surface_area: 2.313 × 10<sup>07</sup> km<sup>2</sup><br/>(0.045 Yrths)
         volume: 1.046 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 2.629 × 10<sup>22</sup> kg<br />(0.6294468752263027 Yrths)
+        mass: 2.629 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.513 g/cm<sup>3</sup>
         surface_gravity: 0.952 m/s<sup>2</sup><br />(0.097 g<sub>0</sub>)
         escape_velocity: 1.608 km/s<br />(5,790 km/h)
         rotation_period: 48.471 d
         axial_tilt: 17.05°
         albedo: 0.30
-        temperature: 2948 K<br />(2675 °C)
+        temperature: 162 K<br />(-112 °C)
   - name: 0021 Kulniad III
     type: Ice giant
     aphelion: 933,877,691 km<br />6.242 AU
@@ -257,14 +257,14 @@ planets:
     radius: 13,680.8 km<br/>(2.147 Yrths)
     surface_area: 2.352 × 10<sup>09</sup> km<sup>2</sup><br/>(4.611 Yrths)
     volume: 1.073 × 10<sup>13</sup> km<sup>3</sup><br/>(9.902 Yrths)
-    mass: 1.746 × 10<sup>25</sup> kg<br />(2.9229655532432477 Yrths)
+    mass: 1.746 × 10<sup>25</sup> kg<br />(2.92 Yrths)
     density: 1.628 g/cm<sup>3</sup>
     surface_gravity: 6.216 m/s<sup>2</sup><br />(0.634 g<sub>0</sub>)
     escape_velocity: 13.051 km/s<br />(46,983 km/h)
     rotation_period: 0.472 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 219 K<br />(-54 °C)
+    temperature: 198 K<br />(-75 °C)
     composition:
       - 82.3386% hydrogen
       - 16.7830% helium
@@ -283,14 +283,14 @@ planets:
         radius: 10,785.0 km<br/>(1.693 Yrths)
         surface_area: 1.462 × 10<sup>09</sup> km<sup>2</sup><br/>(2.866 Yrths)
         volume: 5.255 × 10<sup>12</sup> km<sup>3</sup><br/>(4.851 Yrths)
-        mass: 7.096 × 10<sup>24</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 7.096 × 10<sup>24</sup> kg<br />(1.188 Yrths)
         density: 1.350 g/cm<sup>3</sup>
         surface_gravity: 4.066 m/s<sup>2</sup><br />(0.415 g<sub>0</sub>)
         escape_velocity: 9.371 km/s<br />(33,737 km/h)
         rotation_period: 77.367 d
         axial_tilt: 35.92°
         albedo: 0.30
-        temperature: 1452 K<br />(1179 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 0021 Kulniad III b
         type: Icy
         formationType: Accreted
@@ -303,14 +303,14 @@ planets:
         radius: 3,157.2 km<br/>(0.496 Yrths)
         surface_area: 1.253 × 10<sup>08</sup> km<sup>2</sup><br/>(0.246 Yrths)
         volume: 1.318 × 10<sup>11</sup> km<sup>3</sup><br/>(0.122 Yrths)
-        mass: 1.856 × 10<sup>23</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 1.856 × 10<sup>23</sup> kg<br />(0.031 Yrths)
         density: 1.408 g/cm<sup>3</sup>
         surface_gravity: 1.241 m/s<sup>2</sup><br />(0.127 g<sub>0</sub>)
         escape_velocity: 2.801 km/s<br />(10,083 km/h)
         rotation_period: 65.876 d
         axial_tilt: 26.80°
         albedo: 0.30
-        temperature: 1320 K<br />(1047 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 0021 Kulniad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -323,14 +323,14 @@ planets:
         radius: 5,246.3 km<br/>(0.823 Yrths)
         surface_area: 3.459 × 10<sup>08</sup> km<sup>2</sup><br/>(0.678 Yrths)
         volume: 6.048 × 10<sup>11</sup> km<sup>3</sup><br/>(0.558 Yrths)
-        mass: 1.562 × 10<sup>24</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 1.562 × 10<sup>24</sup> kg<br />(0.261 Yrths)
         density: 2.582 g/cm<sup>3</sup>
         surface_gravity: 3.782 m/s<sup>2</sup><br />(0.386 g<sub>0</sub>)
         escape_velocity: 6.304 km/s<br />(22,693 km/h)
         rotation_period: 33.564 d
         axial_tilt: 21.14°
         albedo: 0.30
-        temperature: 1258 K<br />(985 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 0021 Kulniad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -343,14 +343,14 @@ planets:
         radius: 3,884.5 km<br/>(0.610 Yrths)
         surface_area: 1.896 × 10<sup>08</sup> km<sup>2</sup><br/>(0.372 Yrths)
         volume: 2.455 × 10<sup>11</sup> km<sup>3</sup><br/>(0.227 Yrths)
-        mass: 5.271 × 10<sup>23</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 5.271 × 10<sup>23</sup> kg<br />(0.088 Yrths)
         density: 2.147 g/cm<sup>3</sup>
         surface_gravity: 2.328 m/s<sup>2</sup><br />(0.237 g<sub>0</sub>)
         escape_velocity: 4.256 km/s<br />(15,321 km/h)
         rotation_period: 47.566 d
         axial_tilt: 18.66°
         albedo: 0.30
-        temperature: 1200 K<br />(927 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 0021 Kulniad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -363,14 +363,14 @@ planets:
         radius: 8,765.5 km<br/>(1.376 Yrths)
         surface_area: 9.655 × 10<sup>08</sup> km<sup>2</sup><br/>(1.893 Yrths)
         volume: 2.821 × 10<sup>12</sup> km<sup>3</sup><br/>(2.604 Yrths)
-        mass: 5.200 × 10<sup>24</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 5.200 × 10<sup>24</sup> kg<br />(0.871 Yrths)
         density: 1.843 g/cm<sup>3</sup>
         surface_gravity: 4.511 m/s<sup>2</sup><br />(0.460 g<sub>0</sub>)
         escape_velocity: 8.898 km/s<br />(32,034 km/h)
         rotation_period: 37.031 d
         axial_tilt: 14.19°
         albedo: 0.30
-        temperature: 1144 K<br />(871 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 0021 Kulniad III f
         type: Dwarf planet
         formationType: Impact formed
@@ -383,14 +383,14 @@ planets:
         radius: 4,103.2 km<br/>(0.644 Yrths)
         surface_area: 2.116 × 10<sup>08</sup> km<sup>2</sup><br/>(0.415 Yrths)
         volume: 2.894 × 10<sup>11</sup> km<sup>3</sup><br/>(0.267 Yrths)
-        mass: 5.568 × 10<sup>23</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 5.568 × 10<sup>23</sup> kg<br />(0.093 Yrths)
         density: 1.924 g/cm<sup>3</sup>
         surface_gravity: 2.204 m/s<sup>2</sup><br />(0.225 g<sub>0</sub>)
         escape_velocity: 4.256 km/s<br />(15,322 km/h)
         rotation_period: 42.667 d
         axial_tilt: 11.68°
         albedo: 0.30
-        temperature: 1091 K<br />(818 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 0021 Kulniad III g
         type: Icy
         formationType: Accreted
@@ -403,14 +403,14 @@ planets:
         radius: 4,105.8 km<br/>(0.644 Yrths)
         surface_area: 2.118 × 10<sup>08</sup> km<sup>2</sup><br/>(0.415 Yrths)
         volume: 2.899 × 10<sup>11</sup> km<sup>3</sup><br/>(0.268 Yrths)
-        mass: 4.623 × 10<sup>23</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 4.623 × 10<sup>23</sup> kg<br />(0.077 Yrths)
         density: 1.595 g/cm<sup>3</sup>
         surface_gravity: 1.828 m/s<sup>2</sup><br />(0.186 g<sub>0</sub>)
         escape_velocity: 3.877 km/s<br />(13,957 km/h)
         rotation_period: 66.632 d
         axial_tilt: 12.65°
         albedo: 0.30
-        temperature: 1040 K<br />(767 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 0021 Kulniad III h
         type: Icy
         formationType: Accreted
@@ -423,14 +423,14 @@ planets:
         radius: 7,376.3 km<br/>(1.158 Yrths)
         surface_area: 6.837 × 10<sup>08</sup> km<sup>2</sup><br/>(1.341 Yrths)
         volume: 1.681 × 10<sup>12</sup> km<sup>3</sup><br/>(1.552 Yrths)
-        mass: 2.046 × 10<sup>24</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 2.046 × 10<sup>24</sup> kg<br />(0.343 Yrths)
         density: 1.217 g/cm<sup>3</sup>
         surface_gravity: 2.506 m/s<sup>2</sup><br />(0.256 g<sub>0</sub>)
         escape_velocity: 6.085 km/s<br />(21,905 km/h)
         rotation_period: 70.519 d
         axial_tilt: 12.29°
         albedo: 0.30
-        temperature: 992 K<br />(718 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 0021 Kulniad III i
         type: Icy
         formationType: Captured
@@ -443,14 +443,14 @@ planets:
         radius: 8,029.3 km<br/>(1.260 Yrths)
         surface_area: 8.102 × 10<sup>08</sup> km<sup>2</sup><br/>(1.588 Yrths)
         volume: 2.168 × 10<sup>12</sup> km<sup>3</sup><br/>(2.002 Yrths)
-        mass: 2.104 × 10<sup>24</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 2.104 × 10<sup>24</sup> kg<br />(0.352 Yrths)
         density: 0.970 g/cm<sup>3</sup>
         surface_gravity: 2.176 m/s<sup>2</sup><br />(0.222 g<sub>0</sub>)
         escape_velocity: 5.915 km/s<br />(21,293 km/h)
         rotation_period: 88.119 d
         axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 945 K<br />(672 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 0021 Kulniad III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -463,14 +463,14 @@ planets:
         radius: 4,645.3 km<br/>(0.729 Yrths)
         surface_area: 2.712 × 10<sup>08</sup> km<sup>2</sup><br/>(0.532 Yrths)
         volume: 4.199 × 10<sup>11</sup> km<sup>3</sup><br/>(0.388 Yrths)
-        mass: 8.176 × 10<sup>23</sup> kg<br />(2.9229655532432477 Yrths)
+        mass: 8.176 × 10<sup>23</sup> kg<br />(0.137 Yrths)
         density: 1.947 g/cm<sup>3</sup>
         surface_gravity: 2.525 m/s<sup>2</sup><br />(0.258 g<sub>0</sub>)
         escape_velocity: 4.847 km/s<br />(17,450 km/h)
         rotation_period: 44.804 d
         axial_tilt: 29.84°
         albedo: 0.30
-        temperature: 901 K<br />(628 °C)
+        temperature: 116 K<br />(-157 °C)
   - name: 0021 Kulniad IV
     type: Ice giant
     aphelion: 1,960,817,184 km<br />13.107 AU
@@ -482,14 +482,14 @@ planets:
     radius: 22,229.2 km<br/>(3.489 Yrths)
     surface_area: 6.210 × 10<sup>09</sup> km<sup>2</sup><br/>(12.174 Yrths)
     volume: 4.601 × 10<sup>13</sup> km<sup>3</sup><br/>(42.477 Yrths)
-    mass: 6.973 × 10<sup>25</sup> kg<br />(11.67567893575041 Yrths)
+    mass: 6.973 × 10<sup>25</sup> kg<br />(11.68 Yrths)
     density: 1.515 g/cm<sup>3</sup>
     surface_gravity: 9.405 m/s<sup>2</sup><br />(0.959 g<sub>0</sub>)
     escape_velocity: 20.462 km/s<br />(73,665 km/h)
     rotation_period: 0.363 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 157 K<br />(-116 °C)
+    temperature: 145 K<br />(-128 °C)
     composition:
       - 49.8693% helium
       - 43.0186% hydrogen
@@ -510,14 +510,14 @@ planets:
         radius: 13,288.6 km<br/>(2.086 Yrths)
         surface_area: 2.219 × 10<sup>09</sup> km<sup>2</sup><br/>(4.351 Yrths)
         volume: 9.829 × 10<sup>12</sup> km<sup>3</sup><br/>(9.074 Yrths)
-        mass: 9.765 × 10<sup>24</sup> kg<br />(11.67567893575041 Yrths)
+        mass: 9.765 × 10<sup>24</sup> kg<br />(1.635 Yrths)
         density: 0.993 g/cm<sup>3</sup>
         surface_gravity: 3.686 m/s<sup>2</sup><br />(0.376 g<sub>0</sub>)
         escape_velocity: 9.904 km/s<br />(35,654 km/h)
         rotation_period: 66.844 d
         axial_tilt: 22.10°
         albedo: 0.30
-        temperature: 792 K<br />(519 °C)
+        temperature: 83 K<br />(-190 °C)
       - name: 0021 Kulniad IV b
         type: Asteroid
         formationType: Captured
@@ -530,14 +530,14 @@ planets:
         radius: 13,632.6 km<br/>(2.140 Yrths)
         surface_area: 2.335 × 10<sup>09</sup> km<sup>2</sup><br/>(4.579 Yrths)
         volume: 1.061 × 10<sup>13</sup> km<sup>3</sup><br/>(9.797 Yrths)
-        mass: 2.138 × 10<sup>25</sup> kg<br />(11.67567893575041 Yrths)
+        mass: 2.138 × 10<sup>25</sup> kg<br />(3.580 Yrths)
         density: 2.014 g/cm<sup>3</sup>
         surface_gravity: 7.667 m/s<sup>2</sup><br />(0.782 g<sub>0</sub>)
         escape_velocity: 14.468 km/s<br />(52,084 km/h)
         rotation_period: 48.631 d
         axial_tilt: 44.41°
         albedo: 0.30
-        temperature: 755 K<br />(482 °C)
+        temperature: 83 K<br />(-190 °C)
       - name: 0021 Kulniad IV c
         type: Icy
         formationType: Captured
@@ -550,14 +550,14 @@ planets:
         radius: 15,408.7 km<br/>(2.419 Yrths)
         surface_area: 2.984 × 10<sup>09</sup> km<sup>2</sup><br/>(5.849 Yrths)
         volume: 1.532 × 10<sup>13</sup> km<sup>3</sup><br/>(14.147 Yrths)
-        mass: 1.379 × 10<sup>25</sup> kg<br />(11.67567893575041 Yrths)
+        mass: 1.379 × 10<sup>25</sup> kg<br />(2.309 Yrths)
         density: 0.900 g/cm<sup>3</sup>
         surface_gravity: 3.872 m/s<sup>2</sup><br />(0.395 g<sub>0</sub>)
         escape_velocity: 10.930 km/s<br />(39,350 km/h)
         rotation_period: 73.814 d
         axial_tilt: 20.66°
         albedo: 0.30
-        temperature: 720 K<br />(447 °C)
+        temperature: 83 K<br />(-190 °C)
       - name: 0021 Kulniad IV d
         type: Icy
         formationType: Captured
@@ -570,14 +570,14 @@ planets:
         radius: 21,457.4 km<br/>(3.368 Yrths)
         surface_area: 5.786 × 10<sup>09</sup> km<sup>2</sup><br/>(11.343 Yrths)
         volume: 4.138 × 10<sup>13</sup> km<sup>3</sup><br/>(38.204 Yrths)
-        mass: 5.047 × 10<sup>25</sup> kg<br />(11.67567893575041 Yrths)
+        mass: 5.047 × 10<sup>25</sup> kg<br />(8.452 Yrths)
         density: 1.220 g/cm<sup>3</sup>
         surface_gravity: 7.307 m/s<sup>2</sup><br />(0.745 g<sub>0</sub>)
         escape_velocity: 17.720 km/s<br />(63,792 km/h)
         rotation_period: 47.533 d
         axial_tilt: 27.62°
         albedo: 0.30
-        temperature: 595 K<br />(322 °C)
+        temperature: 83 K<br />(-190 °C)
       - name: 0021 Kulniad IV e
         type: Ice/rock hybrid
         formationType: Captured
@@ -590,14 +590,14 @@ planets:
         radius: 19,498.9 km<br/>(3.061 Yrths)
         surface_area: 4.778 × 10<sup>09</sup> km<sup>2</sup><br/>(9.367 Yrths)
         volume: 3.105 × 10<sup>13</sup> km<sup>3</sup><br/>(28.668 Yrths)
-        mass: 5.765 × 10<sup>25</sup> kg<br />(11.67567893575041 Yrths)
+        mass: 5.765 × 10<sup>25</sup> kg<br />(9.654 Yrths)
         density: 1.857 g/cm<sup>3</sup>
         surface_gravity: 10.107 m/s<sup>2</sup><br />(1.031 g<sub>0</sub>)
         escape_velocity: 19.867 km/s<br />(71,520 km/h)
         rotation_period: 53.723 d
         axial_tilt: 18.42°
         albedo: 0.30
-        temperature: 541 K<br />(268 °C)
+        temperature: 83 K<br />(-190 °C)
       - name: 0021 Kulniad IV f
         type: Asteroid
         formationType: Captured
@@ -610,14 +610,14 @@ planets:
         radius: 19,808.4 km<br/>(3.109 Yrths)
         surface_area: 4.931 × 10<sup>09</sup> km<sup>2</sup><br/>(9.667 Yrths)
         volume: 3.256 × 10<sup>13</sup> km<sup>3</sup><br/>(30.056 Yrths)
-        mass: 5.571 × 10<sup>25</sup> kg<br />(11.67567893575041 Yrths)
+        mass: 5.571 × 10<sup>25</sup> kg<br />(9.328 Yrths)
         density: 1.711 g/cm<sup>3</sup>
         surface_gravity: 9.463 m/s<sup>2</sup><br />(0.965 g<sub>0</sub>)
         escape_velocity: 19.375 km/s<br />(69,752 km/h)
         rotation_period: 69.239 d
         axial_tilt: 40.87°
         albedo: 0.30
-        temperature: 516 K<br />(243 °C)
+        temperature: 83 K<br />(-190 °C)
       - name: 0021 Kulniad IV g
         type: Ice/rock hybrid
         formationType: Captured
@@ -630,14 +630,14 @@ planets:
         radius: 12,957.6 km<br/>(2.034 Yrths)
         surface_area: 2.110 × 10<sup>09</sup> km<sup>2</sup><br/>(4.136 Yrths)
         volume: 9.113 × 10<sup>12</sup> km<sup>3</sup><br/>(8.413 Yrths)
-        mass: 1.672 × 10<sup>25</sup> kg<br />(11.67567893575041 Yrths)
+        mass: 1.672 × 10<sup>25</sup> kg<br />(2.800 Yrths)
         density: 1.835 g/cm<sup>3</sup>
         surface_gravity: 6.638 m/s<sup>2</sup><br />(0.677 g<sub>0</sub>)
         escape_velocity: 13.125 km/s<br />(47,250 km/h)
         rotation_period: 41.167 d
         axial_tilt: 6.68°
         albedo: 0.30
-        temperature: 492 K<br />(219 °C)
+        temperature: 83 K<br />(-190 °C)
   - name: 0021 Kulniad V
     type: Gas giant
     aphelion: 3,517,467,741 km<br />23.512 AU
@@ -649,7 +649,7 @@ planets:
     radius: 199.2 km<br/>(0.031 Yrths)
     surface_area: 4.986 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.311 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.888 × 10<sup>26</sup> kg<br />(165.57704477019897 Yrths)
+    mass: 9.888 × 10<sup>26</sup> kg<br />(165.58 Yrths)
     density: 29867658.287 g/cm<sup>3</sup>
     surface_gravity: 1661049.536 m/s<sup>2</sup><br />(169379.914 g<sub>0</sub>)
     escape_velocity: 814.028 km/s<br />(2,930,502 km/h)
@@ -670,14 +670,14 @@ planets:
         radius: 82,257.4 km<br/>(12.911 Yrths)
         surface_area: 8.503 × 10<sup>10</sup> km<sup>2</sup><br/>(166.700 Yrths)
         volume: 2.331 × 10<sup>15</sup> km<sup>3</sup><br/>(2152.293 Yrths)
-        mass: 4.877 × 10<sup>27</sup> kg<br />(165.57704477019897 Yrths)
+        mass: 4.877 × 10<sup>27</sup> kg<br />(816.586 Yrths)
         density: 2.092 g/cm<sup>3</sup>
         surface_gravity: 48.038 m/s<sup>2</sup><br />(4.899 g<sub>0</sub>)
         escape_velocity: 88.959 km/s<br />(320,254 km/h)
         rotation_period: 51.684 d
         axial_tilt: 18.01°
         albedo: 0.30
-        temperature: 382 K<br />(108 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0021 Kulniad V b
         type: Asteroid
         formationType: Captured
@@ -690,14 +690,14 @@ planets:
         radius: 179,010.4 km<br/>(28.098 Yrths)
         surface_area: 4.027 × 10<sup>11</sup> km<sup>2</sup><br/>(789.480 Yrths)
         volume: 2.403 × 10<sup>16</sup> km<sup>3</sup><br/>(22182.573 Yrths)
-        mass: 3.350 × 10<sup>28</sup> kg<br />(165.57704477019897 Yrths)
+        mass: 3.350 × 10<sup>28</sup> kg<br />(5609.635 Yrths)
         density: 1.394 g/cm<sup>3</sup>
         surface_gravity: 69.681 m/s<sup>2</sup><br />(7.105 g<sub>0</sub>)
         escape_velocity: 158.054 km/s<br />(568,995 km/h)
         rotation_period: 68.094 d
         axial_tilt: 43.57°
         albedo: 0.30
-        temperature: 315 K<br />(42 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0021 Kulniad V c
         type: Rocky
         formationType: Accreted
@@ -710,14 +710,14 @@ planets:
         radius: 103,974.3 km<br/>(16.320 Yrths)
         surface_area: 1.359 × 10<sup>11</sup> km<sup>2</sup><br/>(266.340 Yrths)
         volume: 4.708 × 10<sup>15</sup> km<sup>3</sup><br/>(4346.651 Yrths)
-        mass: 1.350 × 10<sup>28</sup> kg<br />(165.57704477019897 Yrths)
+        mass: 1.350 × 10<sup>28</sup> kg<br />(2260.832 Yrths)
         density: 2.868 g/cm<sup>3</sup>
         surface_gravity: 83.244 m/s<sup>2</sup><br />(8.489 g<sub>0</sub>)
         escape_velocity: 131.659 km/s<br />(473,971 km/h)
         rotation_period: 56.994 d
         axial_tilt: 15.42°
         albedo: 0.30
-        temperature: 301 K<br />(27 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0021 Kulniad V d
         type: Icy
         formationType: Accreted
@@ -730,14 +730,14 @@ planets:
         radius: 110,075.0 km<br/>(17.278 Yrths)
         surface_area: 1.523 × 10<sup>11</sup> km<sup>2</sup><br/>(298.513 Yrths)
         volume: 5.587 × 10<sup>15</sup> km<sup>3</sup><br/>(5157.554 Yrths)
-        mass: 7.353 × 10<sup>27</sup> kg<br />(165.57704477019897 Yrths)
+        mass: 7.353 × 10<sup>27</sup> kg<br />(1231.250 Yrths)
         density: 1.316 g/cm<sup>3</sup>
         surface_gravity: 40.449 m/s<sup>2</sup><br />(4.125 g<sub>0</sub>)
         escape_velocity: 94.429 km/s<br />(339,945 km/h)
         rotation_period: 85.405 d
         axial_tilt: 21.08°
         albedo: 0.30
-        temperature: 273 K<br />(0 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0021 Kulniad V e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -750,14 +750,14 @@ planets:
         radius: 115,359.8 km<br/>(18.107 Yrths)
         surface_area: 1.672 × 10<sup>11</sup> km<sup>2</sup><br/>(327.864 Yrths)
         volume: 6.431 × 10<sup>15</sup> km<sup>3</sup><br/>(5936.644 Yrths)
-        mass: 1.686 × 10<sup>28</sup> kg<br />(165.57704477019897 Yrths)
+        mass: 1.686 × 10<sup>28</sup> kg<br />(2822.949 Yrths)
         density: 2.622 g/cm<sup>3</sup>
         surface_gravity: 84.436 m/s<sup>2</sup><br />(8.610 g<sub>0</sub>)
         escape_velocity: 139.670 km/s<br />(502,811 km/h)
         rotation_period: 48.504 d
         axial_tilt: 19.05°
         albedo: 0.30
-        temperature: 261 K<br />(-13 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0021 Kulniad V f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -770,14 +770,14 @@ planets:
         radius: 95,564.5 km<br/>(15.000 Yrths)
         surface_area: 1.148 × 10<sup>11</sup> km<sup>2</sup><br/>(224.998 Yrths)
         volume: 3.656 × 10<sup>15</sup> km<sup>3</sup><br/>(3374.951 Yrths)
-        mass: 7.162 × 10<sup>27</sup> kg<br />(165.57704477019897 Yrths)
+        mass: 7.162 × 10<sup>27</sup> kg<br />(1199.296 Yrths)
         density: 1.959 g/cm<sup>3</sup>
         surface_gravity: 52.272 m/s<sup>2</sup><br />(5.330 g<sub>0</sub>)
         escape_velocity: 100.021 km/s<br />(360,077 km/h)
         rotation_period: 38.347 d
         axial_tilt: 14.28°
         albedo: 0.30
-        temperature: 215 K<br />(-58 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0021 Kulniad V g
         type: Icy
         formationType: Impact formed
@@ -790,14 +790,14 @@ planets:
         radius: 114,609.1 km<br/>(17.989 Yrths)
         surface_area: 1.651 × 10<sup>11</sup> km<sup>2</sup><br/>(323.611 Yrths)
         volume: 6.306 × 10<sup>15</sup> km<sup>3</sup><br/>(5821.490 Yrths)
-        mass: 7.128 × 10<sup>27</sup> kg<br />(165.57704477019897 Yrths)
+        mass: 7.128 × 10<sup>27</sup> kg<br />(1193.522 Yrths)
         density: 1.130 g/cm<sup>3</sup>
         surface_gravity: 36.168 m/s<sup>2</sup><br />(3.688 g<sub>0</sub>)
         escape_velocity: 91.114 km/s<br />(328,009 km/h)
         rotation_period: 47.633 d
         axial_tilt: 25.87°
         albedo: 0.30
-        temperature: 62 K<br />(-211 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0021 Kulniad V h
         type: Icy
         formationType: Accreted
@@ -810,14 +810,14 @@ planets:
         radius: 105,815.1 km<br/>(16.609 Yrths)
         surface_area: 1.407 × 10<sup>11</sup> km<sup>2</sup><br/>(275.855 Yrths)
         volume: 4.963 × 10<sup>15</sup> km<sup>3</sup><br/>(4581.632 Yrths)
-        mass: 6.276 × 10<sup>27</sup> kg<br />(165.57704477019897 Yrths)
+        mass: 6.276 × 10<sup>27</sup> kg<br />(1050.852 Yrths)
         density: 1.265 g/cm<sup>3</sup>
         surface_gravity: 37.358 m/s<sup>2</sup><br />(3.809 g<sub>0</sub>)
         escape_velocity: 88.976 km/s<br />(320,315 km/h)
         rotation_period: 61.641 d
         axial_tilt: 10.83°
         albedo: 0.30
-        temperature: 52 K<br />(-222 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0021 Kulniad V i
         type: Icy
         formationType: Accreted
@@ -830,14 +830,14 @@ planets:
         radius: 95,958.2 km<br/>(15.062 Yrths)
         surface_area: 1.157 × 10<sup>11</sup> km<sup>2</sup><br/>(226.856 Yrths)
         volume: 3.701 × 10<sup>15</sup> km<sup>3</sup><br/>(3416.835 Yrths)
-        mass: 4.299 × 10<sup>27</sup> kg<br />(165.57704477019897 Yrths)
+        mass: 4.299 × 10<sup>27</sup> kg<br />(719.801 Yrths)
         density: 1.161 g/cm<sup>3</sup>
         surface_gravity: 31.116 m/s<sup>2</sup><br />(3.173 g<sub>0</sub>)
         escape_velocity: 77.329 km/s<br />(278,385 km/h)
         rotation_period: 54.378 d
         axial_tilt: 17.01°
         albedo: 0.30
-        temperature: 47 K<br />(-226 °C)
+        temperature: 60 K<br />(-213 °C)
   - name: 0021 Kulniad VI
     type: Gas giant
     aphelion: 7,876,913,497 km<br />52.653 AU
@@ -849,7 +849,7 @@ planets:
     radius: 139.1 km<br/>(0.022 Yrths)
     surface_area: 2.431 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.127 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.121 × 10<sup>26</sup> kg<br />(35.51095691343065 Yrths)
+    mass: 2.121 × 10<sup>26</sup> kg<br />(35.51 Yrths)
     density: 18813513.502 g/cm<sup>3</sup>
     surface_gravity: 730604.749 m/s<sup>2</sup><br />(74500.951 g<sub>0</sub>)
     escape_velocity: 451.133 km/s<br />(1,624,080 km/h)
@@ -870,14 +870,14 @@ planets:
         radius: 38,775.8 km<br/>(6.086 Yrths)
         surface_area: 1.889 × 10<sup>10</sup> km<sup>2</sup><br/>(37.043 Yrths)
         volume: 2.442 × 10<sup>14</sup> km<sup>3</sup><br/>(225.454 Yrths)
-        mass: 3.073 × 10<sup>26</sup> kg<br />(35.51095691343065 Yrths)
+        mass: 3.073 × 10<sup>26</sup> kg<br />(51.455 Yrths)
         density: 1.258 g/cm<sup>3</sup>
         surface_gravity: 13.622 m/s<sup>2</sup><br />(1.389 g<sub>0</sub>)
         escape_velocity: 32.525 km/s<br />(117,089 km/h)
         rotation_period: 80.632 d
         axial_tilt: 18.97°
         albedo: 0.30
-        temperature: 322 K<br />(49 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 0021 Kulniad VI b
         type: Rocky
         formationType: Accreted
@@ -890,14 +890,14 @@ planets:
         radius: 30,652.0 km<br/>(4.811 Yrths)
         surface_area: 1.181 × 10<sup>10</sup> km<sup>2</sup><br/>(23.147 Yrths)
         volume: 1.206 × 10<sup>14</sup> km<sup>3</sup><br/>(111.366 Yrths)
-        mass: 2.940 × 10<sup>26</sup> kg<br />(35.51095691343065 Yrths)
+        mass: 2.940 × 10<sup>26</sup> kg<br />(49.225 Yrths)
         density: 2.437 g/cm<sup>3</sup>
         surface_gravity: 20.855 m/s<sup>2</sup><br />(2.127 g<sub>0</sub>)
         escape_velocity: 35.780 km/s<br />(128,808 km/h)
         rotation_period: 39.502 d
         axial_tilt: 11.67°
         albedo: 0.30
-        temperature: 293 K<br />(19 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 0021 Kulniad VI c
         type: Icy
         formationType: Accreted
@@ -910,14 +910,14 @@ planets:
         radius: 36,115.3 km<br/>(5.669 Yrths)
         surface_area: 1.639 × 10<sup>10</sup> km<sup>2</sup><br/>(32.134 Yrths)
         volume: 1.973 × 10<sup>14</sup> km<sup>3</sup><br/>(182.160 Yrths)
-        mass: 3.184 × 10<sup>26</sup> kg<br />(35.51095691343065 Yrths)
+        mass: 3.184 × 10<sup>26</sup> kg<br />(53.313 Yrths)
         density: 1.614 g/cm<sup>3</sup>
         surface_gravity: 16.270 m/s<sup>2</sup><br />(1.659 g<sub>0</sub>)
         escape_velocity: 34.304 km/s<br />(123,496 km/h)
         rotation_period: 67.922 d
         axial_tilt: 26.51°
         albedo: 0.30
-        temperature: 136 K<br />(-137 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 0021 Kulniad VI d
         type: Icy
         formationType: Impact formed
@@ -930,7 +930,7 @@ planets:
         radius: 40,319.0 km<br/>(6.329 Yrths)
         surface_area: 2.043 × 10<sup>10</sup> km<sup>2</sup><br/>(40.050 Yrths)
         volume: 2.745 × 10<sup>14</sup> km<sup>3</sup><br/>(253.459 Yrths)
-        mass: 2.608 × 10<sup>26</sup> kg<br />(35.51095691343065 Yrths)
+        mass: 2.608 × 10<sup>26</sup> kg<br />(43.674 Yrths)
         density: 0.950 g/cm<sup>3</sup>
         surface_gravity: 10.694 m/s<sup>2</sup><br />(1.090 g<sub>0</sub>)
         escape_velocity: 29.386 km/s<br />(105,789 km/h)
@@ -950,14 +950,14 @@ planets:
         radius: 47,438.0 km<br/>(7.446 Yrths)
         surface_area: 2.828 × 10<sup>10</sup> km<sup>2</sup><br/>(55.442 Yrths)
         volume: 4.472 × 10<sup>14</sup> km<sup>3</sup><br/>(412.816 Yrths)
-        mass: 8.328 × 10<sup>26</sup> kg<br />(35.51095691343065 Yrths)
+        mass: 8.328 × 10<sup>26</sup> kg<br />(139.459 Yrths)
         density: 1.863 g/cm<sup>3</sup>
         surface_gravity: 24.668 m/s<sup>2</sup><br />(2.515 g<sub>0</sub>)
         escape_velocity: 48.410 km/s<br />(174,277 km/h)
         rotation_period: 48.220 d
         axial_tilt: 16.18°
         albedo: 0.30
-        temperature: 30 K<br />(-243 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 0021 Kulniad VI f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -970,14 +970,14 @@ planets:
         radius: 29,413.8 km<br/>(4.617 Yrths)
         surface_area: 1.087 × 10<sup>10</sup> km<sup>2</sup><br/>(21.315 Yrths)
         volume: 1.066 × 10<sup>14</sup> km<sup>3</sup><br/>(98.408 Yrths)
-        mass: 2.985 × 10<sup>26</sup> kg<br />(35.51095691343065 Yrths)
+        mass: 2.985 × 10<sup>26</sup> kg<br />(49.978 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 22.994 m/s<sup>2</sup><br />(2.345 g<sub>0</sub>)
         escape_velocity: 36.804 km/s<br />(132,494 km/h)
         rotation_period: 29.790 d
         axial_tilt: 17.61°
         albedo: 0.30
-        temperature: 23 K<br />(-250 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 0021 Kulniad VI g
         type: Icy
         formationType: Accreted
@@ -990,12 +990,12 @@ planets:
         radius: 45,971.6 km<br/>(7.216 Yrths)
         surface_area: 2.656 × 10<sup>10</sup> km<sup>2</sup><br/>(52.067 Yrths)
         volume: 4.070 × 10<sup>14</sup> km<sup>3</sup><br/>(375.705 Yrths)
-        mass: 5.509 × 10<sup>26</sup> kg<br />(35.51095691343065 Yrths)
+        mass: 5.509 × 10<sup>26</sup> kg<br />(92.244 Yrths)
         density: 1.354 g/cm<sup>3</sup>
         surface_gravity: 17.374 m/s<sup>2</sup><br />(1.772 g<sub>0</sub>)
         escape_velocity: 39.995 km/s<br />(143,981 km/h)
         rotation_period: 71.312 d
         axial_tilt: 23.87°
         albedo: 0.30
-        temperature: 17 K<br />(-256 °C)
+        temperature: 43 K<br />(-230 °C)
 ---

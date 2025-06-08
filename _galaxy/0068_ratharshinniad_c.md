@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0068 Ratharshinniad C is a star in the constellation Ratharshin
+      0068 Ratharshinniad C is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1460.20 ly
 apparent_magnitude: 14.07
 absolute_magnitude: 5.82
@@ -31,14 +31,14 @@ planets:
     radius: 23,953.0 km<br/>(3.760 Yrths)
     surface_area: 7.210 × 10<sup>09</sup> km<sup>2</sup><br/>(14.135 Yrths)
     volume: 5.757 × 10<sup>13</sup> km<sup>3</sup><br/>(53.144 Yrths)
-    mass: 8.639 × 10<sup>25</sup> kg<br />(14.466548769039322 Yrths)
+    mass: 8.639 × 10<sup>25</sup> kg<br />(14.47 Yrths)
     density: 1.501 g/cm<sup>3</sup>
     surface_gravity: 10.036 m/s<sup>2</sup><br />(1.023 g<sub>0</sub>)
     escape_velocity: 21.942 km/s<br />(78,992 km/h)
     rotation_period: 0.865 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 424 K<br />(151 °C)
+    temperature: 379 K<br />(106 °C)
     composition:
       - 53.9133% hydrogen
       - 46.0867% helium
@@ -55,14 +55,14 @@ planets:
         radius: 10,888.6 km<br/>(1.709 Yrths)
         surface_area: 1.490 × 10<sup>09</sup> km<sup>2</sup><br/>(2.921 Yrths)
         volume: 5.408 × 10<sup>12</sup> km<sup>3</sup><br/>(4.992 Yrths)
-        mass: 1.230 × 10<sup>25</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 1.230 × 10<sup>25</sup> kg<br />(2.059 Yrths)
         density: 2.274 g/cm<sup>3</sup>
         surface_gravity: 6.912 m/s<sup>2</sup><br />(0.705 g<sub>0</sub>)
         escape_velocity: 12.277 km/s<br />(44,198 km/h)
         rotation_period: 52.630 d
         axial_tilt: 11.11°
         albedo: 0.30
-        temperature: 2275 K<br />(2001 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I b
         type: Rocky
         formationType: Accreted
@@ -75,14 +75,14 @@ planets:
         radius: 14,307.3 km<br/>(2.246 Yrths)
         surface_area: 2.572 × 10<sup>09</sup> km<sup>2</sup><br/>(5.043 Yrths)
         volume: 1.227 × 10<sup>13</sup> km<sup>3</sup><br/>(11.325 Yrths)
-        mass: 4.224 × 10<sup>25</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 4.224 × 10<sup>25</sup> kg<br />(7.073 Yrths)
         density: 3.443 g/cm<sup>3</sup>
         surface_gravity: 13.754 m/s<sup>2</sup><br />(1.403 g<sub>0</sub>)
         escape_velocity: 19.852 km/s<br />(71,468 km/h)
         rotation_period: 30.055 d
         axial_tilt: 20.76°
         albedo: 0.30
-        temperature: 2169 K<br />(1896 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -95,14 +95,14 @@ planets:
         radius: 14,087.3 km<br/>(2.211 Yrths)
         surface_area: 2.494 × 10<sup>09</sup> km<sup>2</sup><br/>(4.889 Yrths)
         volume: 1.171 × 10<sup>13</sup> km<sup>3</sup><br/>(10.811 Yrths)
-        mass: 2.474 × 10<sup>25</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 2.474 × 10<sup>25</sup> kg<br />(4.143 Yrths)
         density: 2.113 g/cm<sup>3</sup>
         surface_gravity: 8.310 m/s<sup>2</sup><br />(0.847 g<sub>0</sub>)
         escape_velocity: 15.312 km/s<br />(55,121 km/h)
         rotation_period: 44.082 d
         axial_tilt: 12.79°
         albedo: 0.30
-        temperature: 2068 K<br />(1795 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I d
         type: Rocky
         formationType: Accreted
@@ -115,14 +115,14 @@ planets:
         radius: 22,317.3 km<br/>(3.503 Yrths)
         surface_area: 6.259 × 10<sup>09</sup> km<sup>2</sup><br/>(12.271 Yrths)
         volume: 4.656 × 10<sup>13</sup> km<sup>3</sup><br/>(42.983 Yrths)
-        mass: 1.552 × 10<sup>26</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 1.552 × 10<sup>26</sup> kg<br />(25.994 Yrths)
         density: 3.334 g/cm<sup>3</sup>
         surface_gravity: 20.774 m/s<sup>2</sup><br />(2.118 g<sub>0</sub>)
         escape_velocity: 30.471 km/s<br />(109,697 km/h)
         rotation_period: 41.174 d
         axial_tilt: 17.72°
         albedo: 0.30
-        temperature: 1972 K<br />(1698 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -135,14 +135,14 @@ planets:
         radius: 15,920.8 km<br/>(2.499 Yrths)
         surface_area: 3.185 × 10<sup>09</sup> km<sup>2</sup><br/>(6.245 Yrths)
         volume: 1.690 × 10<sup>13</sup> km<sup>3</sup><br/>(15.605 Yrths)
-        mass: 4.001 × 10<sup>25</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 4.001 × 10<sup>25</sup> kg<br />(6.700 Yrths)
         density: 2.367 g/cm<sup>3</sup>
         surface_gravity: 10.522 m/s<sup>2</sup><br />(1.073 g<sub>0</sub>)
         escape_velocity: 18.317 km/s<br />(65,939 km/h)
         rotation_period: 44.813 d
         axial_tilt: 15.62°
         albedo: 0.30
-        temperature: 1880 K<br />(1607 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I f
         type: Icy
         formationType: Captured
@@ -155,14 +155,14 @@ planets:
         radius: 12,346.7 km<br/>(1.938 Yrths)
         surface_area: 1.916 × 10<sup>09</sup> km<sup>2</sup><br/>(3.756 Yrths)
         volume: 7.884 × 10<sup>12</sup> km<sup>3</sup><br/>(7.278 Yrths)
-        mass: 7.957 × 10<sup>24</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 7.957 × 10<sup>24</sup> kg<br />(1.332 Yrths)
         density: 1.009 g/cm<sup>3</sup>
         surface_gravity: 3.479 m/s<sup>2</sup><br />(0.355 g<sub>0</sub>)
         escape_velocity: 9.275 km/s<br />(33,390 km/h)
         rotation_period: 51.158 d
         axial_tilt: 14.14°
         albedo: 0.30
-        temperature: 1792 K<br />(1519 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I g
         type: Icy
         formationType: Accreted
@@ -175,14 +175,14 @@ planets:
         radius: 15,792.3 km<br/>(2.479 Yrths)
         surface_area: 3.134 × 10<sup>09</sup> km<sup>2</sup><br/>(6.144 Yrths)
         volume: 1.650 × 10<sup>13</sup> km<sup>3</sup><br/>(15.231 Yrths)
-        mass: 1.973 × 10<sup>25</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 1.973 × 10<sup>25</sup> kg<br />(3.304 Yrths)
         density: 1.196 g/cm<sup>3</sup>
         surface_gravity: 5.274 m/s<sup>2</sup><br />(0.538 g<sub>0</sub>)
         escape_velocity: 12.915 km/s<br />(46,493 km/h)
         rotation_period: 54.488 d
         axial_tilt: 13.95°
         albedo: 0.30
-        temperature: 1709 K<br />(1436 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I h
         type: Icy
         formationType: Impact formed
@@ -195,14 +195,14 @@ planets:
         radius: 12,848.0 km<br/>(2.017 Yrths)
         surface_area: 2.074 × 10<sup>09</sup> km<sup>2</sup><br/>(4.067 Yrths)
         volume: 8.884 × 10<sup>12</sup> km<sup>3</sup><br/>(8.201 Yrths)
-        mass: 1.577 × 10<sup>25</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 1.577 × 10<sup>25</sup> kg<br />(2.640 Yrths)
         density: 1.775 g/cm<sup>3</sup>
         surface_gravity: 6.367 m/s<sup>2</sup><br />(0.649 g<sub>0</sub>)
         escape_velocity: 12.799 km/s<br />(46,077 km/h)
         rotation_period: 40.021 d
         axial_tilt: 21.10°
         albedo: 0.30
-        temperature: 1629 K<br />(1356 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I i
         type: Icy
         formationType: Accreted
@@ -215,14 +215,14 @@ planets:
         radius: 16,576.0 km<br/>(2.602 Yrths)
         surface_area: 3.453 × 10<sup>09</sup> km<sup>2</sup><br/>(6.769 Yrths)
         volume: 1.908 × 10<sup>13</sup> km<sup>3</sup><br/>(17.612 Yrths)
-        mass: 2.319 × 10<sup>25</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 2.319 × 10<sup>25</sup> kg<br />(3.883 Yrths)
         density: 1.215 g/cm<sup>3</sup>
         surface_gravity: 5.625 m/s<sup>2</sup><br />(0.574 g<sub>0</sub>)
         escape_velocity: 13.665 km/s<br />(49,193 km/h)
         rotation_period: 65.645 d
         axial_tilt: 17.76°
         albedo: 0.30
-        temperature: 1554 K<br />(1280 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I j
         type: Dwarf planet
         formationType: Captured
@@ -235,14 +235,14 @@ planets:
         radius: 27,154.3 km<br/>(4.262 Yrths)
         surface_area: 9.266 × 10<sup>09</sup> km<sup>2</sup><br/>(18.166 Yrths)
         volume: 8.387 × 10<sup>13</sup> km<sup>3</sup><br/>(77.427 Yrths)
-        mass: 2.182 × 10<sup>26</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 2.182 × 10<sup>26</sup> kg<br />(36.534 Yrths)
         density: 2.601 g/cm<sup>3</sup>
         surface_gravity: 19.722 m/s<sup>2</sup><br />(2.011 g<sub>0</sub>)
         escape_velocity: 32.750 km/s<br />(117,899 km/h)
         rotation_period: 57.079 d
         axial_tilt: 14.16°
         albedo: 0.30
-        temperature: 1481 K<br />(1208 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -255,14 +255,14 @@ planets:
         radius: 24,225.5 km<br/>(3.802 Yrths)
         surface_area: 7.375 × 10<sup>09</sup> km<sup>2</sup><br/>(14.459 Yrths)
         volume: 5.955 × 10<sup>13</sup> km<sup>3</sup><br/>(54.979 Yrths)
-        mass: 1.464 × 10<sup>26</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 1.464 × 10<sup>26</sup> kg<br />(24.506 Yrths)
         density: 2.458 g/cm<sup>3</sup>
         surface_gravity: 16.622 m/s<sup>2</sup><br />(1.695 g<sub>0</sub>)
         escape_velocity: 28.398 km/s<br />(102,231 km/h)
         rotation_period: 55.858 d
         axial_tilt: 25.82°
         albedo: 0.30
-        temperature: 1412 K<br />(1139 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0068 Ratharshinniad C I l
         type: Icy
         formationType: Impact formed
@@ -275,14 +275,14 @@ planets:
         radius: 11,472.1 km<br/>(1.801 Yrths)
         surface_area: 1.654 × 10<sup>09</sup> km<sup>2</sup><br/>(3.242 Yrths)
         volume: 6.324 × 10<sup>12</sup> km<sup>3</sup><br/>(5.839 Yrths)
-        mass: 7.361 × 10<sup>24</sup> kg<br />(14.466548769039322 Yrths)
+        mass: 7.361 × 10<sup>24</sup> kg<br />(1.233 Yrths)
         density: 1.164 g/cm<sup>3</sup>
         surface_gravity: 3.728 m/s<sup>2</sup><br />(0.380 g<sub>0</sub>)
         escape_velocity: 9.255 km/s<br />(33,318 km/h)
         rotation_period: 64.688 d
         axial_tilt: 16.94°
         albedo: 0.30
-        temperature: 1284 K<br />(1011 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: 0068 Ratharshinniad C II
     type: Large terrestrial
     aphelion: 341,854,331 km<br />2.285 AU
@@ -294,14 +294,14 @@ planets:
     radius: 10,942.8 km<br/>(1.718 Yrths)
     surface_area: 1.505 × 10<sup>09</sup> km<sup>2</sup><br/>(2.950 Yrths)
     volume: 5.489 × 10<sup>12</sup> km<sup>3</sup><br/>(5.067 Yrths)
-    mass: 3.843 × 10<sup>25</sup> kg<br />(6.434337544943455 Yrths)
+    mass: 3.843 × 10<sup>25</sup> kg<br />(6.43 Yrths)
     density: 7.001 g/cm<sup>3</sup>
     surface_gravity: 21.389 m/s<sup>2</sup><br />(2.181 g<sub>0</sub>)
     escape_velocity: 21.650 km/s<br />(77,942 km/h)
     rotation_period: 0.870 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 226 K<br />(-47 °C)
+    temperature: 300 K<br />(27 °C)
     surface_pressure: 73 kPa<br />(1 atm)
     composition:
       - 87.1745% ammonia
@@ -321,14 +321,14 @@ planets:
         radius: 5,059.1 km<br/>(0.794 Yrths)
         surface_area: 3.216 × 10<sup>08</sup> km<sup>2</sup><br/>(0.631 Yrths)
         volume: 5.424 × 10<sup>11</sup> km<sup>3</sup><br/>(0.501 Yrths)
-        mass: 1.606 × 10<sup>24</sup> kg<br />(6.434337544943455 Yrths)
+        mass: 1.606 × 10<sup>24</sup> kg<br />(0.269 Yrths)
         density: 2.961 g/cm<sup>3</sup>
         surface_gravity: 4.183 m/s<sup>2</sup><br />(0.427 g<sub>0</sub>)
         escape_velocity: 6.510 km/s<br />(23,436 km/h)
         rotation_period: 54.021 d
         axial_tilt: 21.20°
         albedo: 0.30
-        temperature: 2081 K<br />(1808 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0068 Ratharshinniad C II b
         type: Rocky
         formationType: Impact formed
@@ -341,14 +341,14 @@ planets:
         radius: 9,591.0 km<br/>(1.505 Yrths)
         surface_area: 1.156 × 10<sup>09</sup> km<sup>2</sup><br/>(2.266 Yrths)
         volume: 3.696 × 10<sup>12</sup> km<sup>3</sup><br/>(3.412 Yrths)
-        mass: 1.113 × 10<sup>25</sup> kg<br />(6.434337544943455 Yrths)
+        mass: 1.113 × 10<sup>25</sup> kg<br />(1.863 Yrths)
         density: 3.011 g/cm<sup>3</sup>
         surface_gravity: 8.063 m/s<sup>2</sup><br />(0.822 g<sub>0</sub>)
         escape_velocity: 12.445 km/s<br />(44,803 km/h)
         rotation_period: 34.524 d
         axial_tilt: 17.43°
         albedo: 0.30
-        temperature: 1984 K<br />(1711 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0068 Ratharshinniad C II c
         type: Asteroid
         formationType: Captured
@@ -361,14 +361,14 @@ planets:
         radius: 7,302.4 km<br/>(1.146 Yrths)
         surface_area: 6.701 × 10<sup>08</sup> km<sup>2</sup><br/>(1.314 Yrths)
         volume: 1.631 × 10<sup>12</sup> km<sup>3</sup><br/>(1.506 Yrths)
-        mass: 3.595 × 10<sup>24</sup> kg<br />(6.434337544943455 Yrths)
+        mass: 3.595 × 10<sup>24</sup> kg<br />(0.602 Yrths)
         density: 2.204 g/cm<sup>3</sup>
         surface_gravity: 4.494 m/s<sup>2</sup><br />(0.458 g<sub>0</sub>)
         escape_velocity: 8.107 km/s<br />(29,185 km/h)
         rotation_period: 37.648 d
         axial_tilt: 54.71°
         albedo: 0.30
-        temperature: 1892 K<br />(1619 °C)
+        temperature: 184 K<br />(-89 °C)
   - name: 0068 Ratharshinniad C III
     type: Terrestrial
     aphelion: 596,478,102 km<br />3.987 AU
@@ -380,14 +380,14 @@ planets:
     radius: 6,494.2 km<br/>(1.019 Yrths)
     surface_area: 5.300 × 10<sup>08</sup> km<sup>2</sup><br/>(1.039 Yrths)
     volume: 1.147 × 10<sup>12</sup> km<sup>3</sup><br/>(1.059 Yrths)
-    mass: 5.976 × 10<sup>24</sup> kg<br />(1.000727508901962 Yrths)
+    mass: 5.976 × 10<sup>24</sup> kg<br />(1.00 Yrths)
     density: 5.209 g/cm<sup>3</sup>
     surface_gravity: 9.445 m/s<sup>2</sup><br />(0.963 g<sub>0</sub>)
     escape_velocity: 11.083 km/s<br />(39,900 km/h)
     rotation_period: 1.074 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 159 K<br />(-114 °C)
+    temperature: 230 K<br />(-44 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 89.9947% methane
@@ -408,14 +408,14 @@ planets:
         radius: 3,889.7 km<br/>(0.611 Yrths)
         surface_area: 1.901 × 10<sup>08</sup> km<sup>2</sup><br/>(0.373 Yrths)
         volume: 2.465 × 10<sup>11</sup> km<sup>3</sup><br/>(0.228 Yrths)
-        mass: 2.912 × 10<sup>23</sup> kg<br />(1.000727508901962 Yrths)
+        mass: 2.912 × 10<sup>23</sup> kg<br />(0.049 Yrths)
         density: 1.181 g/cm<sup>3</sup>
         surface_gravity: 1.283 m/s<sup>2</sup><br />(0.131 g<sub>0</sub>)
         escape_velocity: 3.161 km/s<br />(11,381 km/h)
         rotation_period: 74.059 d
         axial_tilt: 9.21°
         albedo: 0.30
-        temperature: 2152 K<br />(1879 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0068 Ratharshinniad C III b
         type: Rocky
         formationType: Captured
@@ -428,12 +428,12 @@ planets:
         radius: 1,694.2 km<br/>(0.266 Yrths)
         surface_area: 3.607 × 10<sup>07</sup> km<sup>2</sup><br/>(0.071 Yrths)
         volume: 2.037 × 10<sup>10</sup> km<sup>3</sup><br/>(0.019 Yrths)
-        mass: 7.333 × 10<sup>22</sup> kg<br />(1.000727508901962 Yrths)
+        mass: 7.333 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 1.703 m/s<sup>2</sup><br />(0.174 g<sub>0</sub>)
         escape_velocity: 2.404 km/s<br />(8,653 km/h)
         rotation_period: 37.014 d
         axial_tilt: 22.36°
         albedo: 0.30
-        temperature: 2052 K<br />(1779 °C)
+        temperature: 139 K<br />(-134 °C)
 ---

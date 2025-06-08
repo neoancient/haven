@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0078 Geardiad B is a star in the constellation Geard
+      0078 Geardiad B is a star in the constellation <a href="geard.html">Geard</a>
 distance: 110.17 ly
 apparent_magnitude: 8.01
 absolute_magnitude: 5.37

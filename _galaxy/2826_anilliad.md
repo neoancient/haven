@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2826 Anilliad is a star in the constellation Anil
+      2826 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 570.05 ly
 apparent_magnitude: 9.22
 absolute_magnitude: 3.01

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4615 Tanashad A is a star in the constellation Tanas
+      4615 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 256.58 ly
 apparent_magnitude: 7.51
 absolute_magnitude: 3.03

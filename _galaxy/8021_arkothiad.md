@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8021 Arkothiad is a star in the constellation Arkoth
+      8021 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 274.03 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 6.10
@@ -31,14 +31,14 @@ planets:
     radius: 4,604.1 km<br/>(0.723 Yrths)
     surface_area: 2.664 × 10<sup>08</sup> km<sup>2</sup><br/>(0.522 Yrths)
     volume: 4.088 × 10<sup>11</sup> km<sup>3</sup><br/>(0.377 Yrths)
-    mass: 2.281 × 10<sup>24</sup> kg<br />(0.38201870160263796 Yrths)
+    mass: 2.281 × 10<sup>24</sup> kg<br />(0.38 Yrths)
     density: 5.581 g/cm<sup>3</sup>
     surface_gravity: 7.174 m/s<sup>2</sup><br />(0.731 g<sub>0</sub>)
     escape_velocity: 8.133 km/s<br />(29,279 km/h)
     rotation_period: 3.834 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 344 K<br />(71 °C)
+    temperature: 397 K<br />(124 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 51.4860% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 1,212.0 km<br/>(0.190 Yrths)
         surface_area: 1.846 × 10<sup>07</sup> km<sup>2</sup><br/>(0.036 Yrths)
         volume: 7.457 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.978 × 10<sup>22</sup> kg<br />(0.38201870160263796 Yrths)
+        mass: 1.978 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.652 g/cm<sup>3</sup>
         surface_gravity: 0.897 m/s<sup>2</sup><br />(0.092 g<sub>0</sub>)
         escape_velocity: 1.476 km/s<br />(5,313 km/h)
         rotation_period: 31.740 d
         axial_tilt: 18.50°
         albedo: 0.30
-        temperature: 5117 K<br />(4844 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 8021 Arkothiad I b
         type: Dwarf planet
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 821.1 km<br/>(0.129 Yrths)
         surface_area: 8.472 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.319 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.473 × 10<sup>21</sup> kg<br />(0.38201870160263796 Yrths)
+        mass: 5.473 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.360 g/cm<sup>3</sup>
         surface_gravity: 0.541 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 0.943 km/s<br />(3,396 km/h)
         rotation_period: 56.572 d
         axial_tilt: 18.52°
         albedo: 0.30
-        temperature: 4879 K<br />(4606 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 8021 Arkothiad II
     type: Large terrestrial
     aphelion: 106,474,160 km<br />0.712 AU
@@ -95,14 +95,14 @@ planets:
     radius: 7,234.1 km<br/>(1.135 Yrths)
     surface_area: 6.576 × 10<sup>08</sup> km<sup>2</sup><br/>(1.289 Yrths)
     volume: 1.586 × 10<sup>12</sup> km<sup>3</sup><br/>(1.464 Yrths)
-    mass: 1.065 × 10<sup>25</sup> kg<br />(1.782942518901355 Yrths)
+    mass: 1.065 × 10<sup>25</sup> kg<br />(1.78 Yrths)
     density: 6.715 g/cm<sup>3</sup>
     surface_gravity: 13.561 m/s<sup>2</sup><br />(1.383 g<sub>0</sub>)
     escape_velocity: 14.017 km/s<br />(50,461 km/h)
     rotation_period: 1.479 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 307 K<br />(34 °C)
+    temperature: 305 K<br />(32 °C)
     surface_pressure: 168 kPa<br />(2 atm)
     composition:
       - 89.0917% nitrogen
@@ -121,14 +121,14 @@ planets:
         radius: 3,284.2 km<br/>(0.515 Yrths)
         surface_area: 1.355 × 10<sup>08</sup> km<sup>2</sup><br/>(0.266 Yrths)
         volume: 1.484 × 10<sup>11</sup> km<sup>3</sup><br/>(0.137 Yrths)
-        mass: 2.486 × 10<sup>23</sup> kg<br />(1.782942518901355 Yrths)
+        mass: 2.486 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 1.676 g/cm<sup>3</sup>
         surface_gravity: 1.536 m/s<sup>2</sup><br />(0.157 g<sub>0</sub>)
         escape_velocity: 3.179 km/s<br />(11,444 km/h)
         rotation_period: 46.387 d
         axial_tilt: 7.27°
         albedo: 0.30
-        temperature: 3049 K<br />(2776 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 8021 Arkothiad II b
         type: Rocky
         formationType: Impact formed
@@ -141,14 +141,14 @@ planets:
         radius: 938.7 km<br/>(0.147 Yrths)
         surface_area: 1.107 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.465 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 1.229 × 10<sup>22</sup> kg<br />(1.782942518901355 Yrths)
+        mass: 1.229 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 3.546 g/cm<sup>3</sup>
         surface_gravity: 0.929 m/s<sup>2</sup><br />(0.095 g<sub>0</sub>)
         escape_velocity: 1.322 km/s<br />(4,758 km/h)
         rotation_period: 48.367 d
         axial_tilt: 15.91°
         albedo: 0.30
-        temperature: 2907 K<br />(2634 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 8021 Arkothiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -161,12 +161,12 @@ planets:
         radius: 3,375.4 km<br/>(0.530 Yrths)
         surface_area: 1.432 × 10<sup>08</sup> km<sup>2</sup><br/>(0.281 Yrths)
         volume: 1.611 × 10<sup>11</sup> km<sup>3</sup><br/>(0.149 Yrths)
-        mass: 3.609 × 10<sup>23</sup> kg<br />(1.782942518901355 Yrths)
+        mass: 3.609 × 10<sup>23</sup> kg<br />(0.060 Yrths)
         density: 2.241 g/cm<sup>3</sup>
         surface_gravity: 2.111 m/s<sup>2</sup><br />(0.215 g<sub>0</sub>)
         escape_velocity: 3.778 km/s<br />(13,601 km/h)
         rotation_period: 33.930 d
         axial_tilt: 13.47°
         albedo: 0.30
-        temperature: 2772 K<br />(2499 °C)
+        temperature: 246 K<br />(-27 °C)
 ---

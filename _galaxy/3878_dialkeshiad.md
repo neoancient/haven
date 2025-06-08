@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3878 Dialkeshiad is a star in the constellation Dialkes
+      3878 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 370.26 ly
 apparent_magnitude: 10.24
 absolute_magnitude: 4.96

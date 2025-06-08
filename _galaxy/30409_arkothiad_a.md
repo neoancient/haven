@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      30409 Arkothiad A is a star in the constellation Arkoth
+      30409 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 553.79 ly
 apparent_magnitude: 7.52
 absolute_magnitude: 1.37

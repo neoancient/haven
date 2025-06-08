@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Enlinniad B is a star in the constellation Enlin
+      0005 Enlinniad B is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 90.99 ly
 apparent_magnitude: 7.71
 absolute_magnitude: 5.48

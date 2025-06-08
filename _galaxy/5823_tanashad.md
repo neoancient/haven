@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5823 Tanashad is a star in the constellation Tanas
+      5823 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 342.19 ly
 apparent_magnitude: 9.66
 absolute_magnitude: 4.56

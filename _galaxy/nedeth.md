@@ -24,7 +24,7 @@ planet:
   rotation_period: 0.444 d
   axial_tilt: 26.73°
   albedo: 0.34
-  temperature: 138 K<br />(-135 °C)
+  temperature: 139 K<br />(-135 °C)
   composition:
     - 96.2993% hydrogen
     - 3.2500% helium
@@ -43,14 +43,14 @@ planet:
       radius: 198.2 km<br/>(0.031 Yrths)
       surface_area: 4.936 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
       volume: 3.261 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-      mass: 3.750 × 10<sup>19</sup> kg<br />(95.16744809109176 Yrths)
+      mass: 3.750 × 10<sup>19</sup> kg<br />(0.000 Yrths)
       density: 1.150 g/cm<sup>3</sup>
       surface_gravity: 0.064 m/s<sup>2</sup><br />(0.006 g<sub>0</sub>)
       escape_velocity: 0.159 km/s<br />(572 km/h)
       rotation_period: 0.940 d
       axial_tilt: 0.00°
       albedo: 0.96
-      temperature: 3536 K<br />(3263 °C)
+      temperature: 40 K<br />(-233 °C)
     - name: <a href="lusiabra.html">Lusiabra</a>
       type: Icy
       formationType: Accreted
@@ -63,14 +63,14 @@ planet:
       radius: 252.1 km<br/>(0.040 Yrths)
       surface_area: 7.984 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
       volume: 6.708 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-      mass: 1.080 × 10<sup>20</sup> kg<br />(95.16744809109176 Yrths)
+      mass: 1.080 × 10<sup>20</sup> kg<br />(0.000 Yrths)
       density: 1.610 g/cm<sup>3</sup>
       surface_gravity: 0.113 m/s<sup>2</sup><br />(0.012 g<sub>0</sub>)
       escape_velocity: 0.239 km/s<br />(861 km/h)
       rotation_period: 1.370 d
       axial_tilt: 0.00°
       albedo: 0.99
-      temperature: 2207 K<br />(1934 °C)
+      temperature: 63 K<br />(-210 °C)
     - name: <a href="nirith.html">Nirith</a>
       type: Icy
       formationType: Accreted
@@ -83,20 +83,19 @@ planet:
       radius: 531.7 km<br/>(0.083 Yrths)
       surface_area: 3.552 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
       volume: 6.296 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-      mass: 6.170 × 10<sup>20</sup> kg<br />(95.16744809109176 Yrths)
+      mass: 6.170 × 10<sup>20</sup> kg<br />(0.000 Yrths)
       density: 0.980 g/cm<sup>3</sup>
       surface_gravity: 0.145 m/s<sup>2</sup><br />(0.015 g<sub>0</sub>)
       escape_velocity: 0.394 km/s<br />(1,417 km/h)
       rotation_period: 1.890 d
       axial_tilt: 0.00°
       albedo: 0.80
-      temperature: 4195 K<br />(3922 °C)
+      temperature: 60 K<br />(-213 °C)
       surface_pressure: 0 kPa<br />(0 atm)
       composition:
-        - 96.2993% hydrogen
-        - 3.2500% helium
-        - 0.4500% methane
-        - 0.0007% ethane
+        - 99.0000% nitrogen
+        - 0.5000% methane
+        - 0.5000% carbon monoxide
     - name: <a href="felta.html">Felta</a>
       type: Ice/rock hybrid
       formationType: Accreted
@@ -109,14 +108,14 @@ planet:
       radius: 561.9 km<br/>(0.088 Yrths)
       surface_area: 3.968 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
       volume: 7.432 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-      mass: 1.100 × 10<sup>21</sup> kg<br />(95.16744809109176 Yrths)
+      mass: 1.100 × 10<sup>21</sup> kg<br />(0.000 Yrths)
       density: 1.480 g/cm<sup>3</sup>
       surface_gravity: 0.232 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
       escape_velocity: 0.511 km/s<br />(1,840 km/h)
       rotation_period: 2.740 d
       axial_tilt: 0.00°
       albedo: 0.55
-      temperature: 4540 K<br />(4267 °C)
+      temperature: 74 K<br />(-199 °C)
     - name: <a href="niasu.html">Niasu</a>
       type: Ice/rock hybrid
       formationType: Accreted
@@ -129,14 +128,14 @@ planet:
       radius: 763.3 km<br/>(0.120 Yrths)
       surface_area: 7.322 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
       volume: 1.863 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-      mass: 2.310 × 10<sup>21</sup> kg<br />(95.16744809109176 Yrths)
+      mass: 2.310 × 10<sup>21</sup> kg<br />(0.000 Yrths)
       density: 1.240 g/cm<sup>3</sup>
       surface_gravity: 0.264 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
       escape_velocity: 0.636 km/s<br />(2,288 km/h)
       rotation_period: 4.520 d
       axial_tilt: 0.00°
       albedo: 0.70
-      temperature: 3472 K<br />(3198 °C)
+      temperature: 67 K<br />(-207 °C)
     - name: <a href="uasrar.html">Uasrar</a>
       type: Ice/rock hybrid
       formationType: Accreted
@@ -149,20 +148,19 @@ planet:
       radius: 2,575.3 km<br/>(0.404 Yrths)
       surface_area: 8.334 × 10<sup>07</sup> km<sup>2</sup><br/>(0.163 Yrths)
       volume: 7.154 × 10<sup>10</sup> km<sup>3</sup><br/>(0.066 Yrths)
-      mass: 1.345 × 10<sup>23</sup> kg<br />(95.16744809109176 Yrths)
+      mass: 1.345 × 10<sup>23</sup> kg<br />(0.023 Yrths)
       density: 1.880 g/cm<sup>3</sup>
       surface_gravity: 1.352 m/s<sup>2</sup><br />(0.138 g<sub>0</sub>)
       escape_velocity: 2.640 km/s<br />(9,505 km/h)
       rotation_period: 15.945 d
       axial_tilt: 0.00°
       albedo: 0.22
-      temperature: 2941 K<br />(2668 °C)
-      surface_pressure: 20 kPa<br />(0 atm)
+      temperature: 124 K<br />(-149 °C)
+      surface_pressure: 682 kPa<br />(7 atm)
       composition:
-        - 96.2993% hydrogen
-        - 3.2500% helium
-        - 0.4500% methane
-        - 0.0007% ethane
+        - 65.5172% nitrogen
+        - 33.7931% methane
+        - 0.6897% hydrogen
     - name: <a href="moasa.html">Moasa</a>
       type: Ice/rock hybrid
       formationType: Accreted
@@ -175,14 +173,14 @@ planet:
       radius: 735.5 km<br/>(0.115 Yrths)
       surface_area: 6.798 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
       volume: 1.667 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-      mass: 1.800 × 10<sup>21</sup> kg<br />(95.16744809109176 Yrths)
+      mass: 1.800 × 10<sup>21</sup> kg<br />(0.000 Yrths)
       density: 1.080 g/cm<sup>3</sup>
       surface_gravity: 0.222 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
       escape_velocity: 0.572 km/s<br />(2,058 km/h)
       rotation_period: 79.330 d
       axial_tilt: 0.00°
       albedo: 0.27
-      temperature: 1668 K<br />(1395 °C)
+      temperature: 83 K<br />(-190 °C)
   rings:
     - innerRadius: 7000.0 km
     - width: 282000.0 km

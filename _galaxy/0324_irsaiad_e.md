@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0324 Irsaiad E is a star in the constellation Irsa
+      0324 Irsaiad E is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 469.82 ly
 apparent_magnitude: 6.73
 absolute_magnitude: 0.94

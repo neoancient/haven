@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10512 Shanniashiad A is a star in the constellation Shannias
+      10512 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 812.31 ly
 apparent_magnitude: 7.59
 absolute_magnitude: 0.61

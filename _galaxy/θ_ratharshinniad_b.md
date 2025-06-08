@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Ratharshinniad B is a star in the constellation Ratharshin
+      θ Ratharshinniad B is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1105.11 ly
 apparent_magnitude: 11.99
 absolute_magnitude: 4.34

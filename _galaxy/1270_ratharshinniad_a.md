@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1270 Ratharshinniad A is a star in the constellation Ratharshin
+      1270 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 272.92 ly
 apparent_magnitude: 7.52
 absolute_magnitude: 2.91

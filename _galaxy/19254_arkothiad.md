@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      19254 Arkothiad is a star in the constellation Arkoth
+      19254 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 528.85 ly
 apparent_magnitude: 11.35
 absolute_magnitude: 5.30

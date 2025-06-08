@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Orgarriad is a star in the constellation Orgar
+      0005 Orgarriad is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 26.02 ly
 apparent_magnitude: 5.29
 absolute_magnitude: 5.78
@@ -31,14 +31,14 @@ planets:
     radius: 4,406.6 km<br/>(0.692 Yrths)
     surface_area: 2.440 × 10<sup>08</sup> km<sup>2</sup><br/>(0.478 Yrths)
     volume: 3.584 × 10<sup>11</sup> km<sup>3</sup><br/>(0.331 Yrths)
-    mass: 2.176 × 10<sup>24</sup> kg<br />(0.3643223806234449 Yrths)
+    mass: 2.176 × 10<sup>24</sup> kg<br />(0.36 Yrths)
     density: 6.070 g/cm<sup>3</sup>
     surface_gravity: 7.468 m/s<sup>2</sup><br />(0.762 g<sub>0</sub>)
     escape_velocity: 8.118 km/s<br />(29,226 km/h)
     rotation_period: 4.303 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 411 K<br />(138 °C)
+    temperature: 964 K<br />(691 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 57.1485% carbon dioxide
@@ -57,12 +57,12 @@ planets:
         radius: 1,343.4 km<br/>(0.211 Yrths)
         surface_area: 2.268 × 10<sup>07</sup> km<sup>2</sup><br/>(0.044 Yrths)
         volume: 1.016 × 10<sup>10</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 2.889 × 10<sup>22</sup> kg<br />(0.3643223806234449 Yrths)
+        mass: 2.889 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.844 g/cm<sup>3</sup>
         surface_gravity: 1.067 m/s<sup>2</sup><br />(0.109 g<sub>0</sub>)
         escape_velocity: 1.694 km/s<br />(6,099 km/h)
         rotation_period: 43.830 d
         axial_tilt: 11.46°
         albedo: 0.30
-        temperature: 6130 K<br />(5857 °C)
+        temperature: 317 K<br />(44 °C)
 ---

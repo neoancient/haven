@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2754 Athiad is a star in the constellation Ath
+      2754 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 206.97 ly
 apparent_magnitude: 10.32
 absolute_magnitude: 6.31

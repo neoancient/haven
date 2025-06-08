@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      83 Lulithannaid is a star in the constellation Lulithan
+      83 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 352.22 ly
 apparent_magnitude: 9.90
 absolute_magnitude: 4.73

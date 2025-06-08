@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Urthiad is a star in the constellation Urth
+      ο Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 465.56 ly
 apparent_magnitude: 5.87
 absolute_magnitude: 0.10
@@ -31,14 +31,14 @@ planets:
     radius: 27,435.7 km<br/>(4.306 Yrths)
     surface_area: 9.459 × 10<sup>09</sup> km<sup>2</sup><br/>(18.545 Yrths)
     volume: 8.650 × 10<sup>13</sup> km<sup>3</sup><br/>(79.859 Yrths)
-    mass: 1.159 × 10<sup>26</sup> kg<br />(19.411594066014924 Yrths)
+    mass: 1.159 × 10<sup>26</sup> kg<br />(19.41 Yrths)
     density: 1.340 g/cm<sup>3</sup>
     surface_gravity: 10.265 m/s<sup>2</sup><br />(1.047 g<sub>0</sub>)
     escape_velocity: 23.749 km/s<br />(85,497 km/h)
     rotation_period: 0.367 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 756 K<br />(483 °C)
+    temperature: 691 K<br />(417 °C)
     composition:
       - 86.9086% hydrogen
       - 10.8341% helium
@@ -58,14 +58,14 @@ planets:
         radius: 18,465.0 km<br/>(2.898 Yrths)
         surface_area: 4.285 × 10<sup>09</sup> km<sup>2</sup><br/>(8.400 Yrths)
         volume: 2.637 × 10<sup>13</sup> km<sup>3</sup><br/>(24.346 Yrths)
-        mass: 4.272 × 10<sup>25</sup> kg<br />(19.411594066014924 Yrths)
+        mass: 4.272 × 10<sup>25</sup> kg<br />(7.153 Yrths)
         density: 1.620 g/cm<sup>3</sup>
         surface_gravity: 8.350 m/s<sup>2</sup><br />(0.852 g<sub>0</sub>)
         escape_velocity: 17.573 km/s<br />(63,262 km/h)
         rotation_period: 65.593 d
         axial_tilt: 14.20°
         albedo: 0.30
-        temperature: 3699 K<br />(3425 °C)
+        temperature: 371 K<br />(98 °C)
       - name: ο Urthiad I b
         type: Icy
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 35,541.6 km<br/>(5.579 Yrths)
         surface_area: 1.587 × 10<sup>10</sup> km<sup>2</sup><br/>(31.121 Yrths)
         volume: 1.881 × 10<sup>14</sup> km<sup>3</sup><br/>(173.615 Yrths)
-        mass: 2.392 × 10<sup>26</sup> kg<br />(19.411594066014924 Yrths)
+        mass: 2.392 × 10<sup>26</sup> kg<br />(40.058 Yrths)
         density: 1.272 g/cm<sup>3</sup>
         surface_gravity: 12.623 m/s<sup>2</sup><br />(1.287 g<sub>0</sub>)
         escape_velocity: 29.975 km/s<br />(107,909 km/h)
         rotation_period: 49.092 d
         axial_tilt: 12.45°
         albedo: 0.30
-        temperature: 3526 K<br />(3253 °C)
+        temperature: 371 K<br />(98 °C)
       - name: ο Urthiad I c
         type: Asteroid
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 48,272.1 km<br/>(7.577 Yrths)
         surface_area: 2.928 × 10<sup>10</sup> km<sup>2</sup><br/>(57.409 Yrths)
         volume: 4.712 × 10<sup>14</sup> km<sup>3</sup><br/>(434.976 Yrths)
-        mass: 8.552 × 10<sup>26</sup> kg<br />(19.411594066014924 Yrths)
+        mass: 8.552 × 10<sup>26</sup> kg<br />(143.194 Yrths)
         density: 1.815 g/cm<sup>3</sup>
         surface_gravity: 24.461 m/s<sup>2</sup><br />(2.494 g<sub>0</sub>)
         escape_velocity: 48.629 km/s<br />(175,063 km/h)
         rotation_period: 39.586 d
         axial_tilt: 15.51°
         albedo: 0.30
-        temperature: 3362 K<br />(3089 °C)
+        temperature: 371 K<br />(98 °C)
       - name: ο Urthiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 12,021.3 km<br/>(1.887 Yrths)
         surface_area: 1.816 × 10<sup>09</sup> km<sup>2</sup><br/>(3.560 Yrths)
         volume: 7.277 × 10<sup>12</sup> km<sup>3</sup><br/>(6.718 Yrths)
-        mass: 1.625 × 10<sup>25</sup> kg<br />(19.411594066014924 Yrths)
+        mass: 1.625 × 10<sup>25</sup> kg<br />(2.721 Yrths)
         density: 2.233 g/cm<sup>3</sup>
         surface_gravity: 7.494 m/s<sup>2</sup><br />(0.764 g<sub>0</sub>)
         escape_velocity: 13.432 km/s<br />(48,356 km/h)
         rotation_period: 60.354 d
         axial_tilt: 26.91°
         albedo: 0.30
-        temperature: 3057 K<br />(2784 °C)
+        temperature: 371 K<br />(98 °C)
       - name: ο Urthiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 13,927.1 km<br/>(2.186 Yrths)
         surface_area: 2.437 × 10<sup>09</sup> km<sup>2</sup><br/>(4.779 Yrths)
         volume: 1.132 × 10<sup>13</sup> km<sup>3</sup><br/>(10.446 Yrths)
-        mass: 2.706 × 10<sup>25</sup> kg<br />(19.411594066014924 Yrths)
+        mass: 2.706 × 10<sup>25</sup> kg<br />(4.531 Yrths)
         density: 2.392 g/cm<sup>3</sup>
         surface_gravity: 9.299 m/s<sup>2</sup><br />(0.948 g<sub>0</sub>)
         escape_velocity: 16.105 km/s<br />(57,979 km/h)
         rotation_period: 50.596 d
         axial_tilt: 27.88°
         albedo: 0.30
-        temperature: 2914 K<br />(2641 °C)
+        temperature: 371 K<br />(98 °C)
       - name: ο Urthiad I f
         type: Dwarf planet
         formationType: Captured
@@ -158,14 +158,14 @@ planets:
         radius: 28,285.5 km<br/>(4.440 Yrths)
         surface_area: 1.005 × 10<sup>10</sup> km<sup>2</sup><br/>(19.711 Yrths)
         volume: 9.479 × 10<sup>13</sup> km<sup>3</sup><br/>(87.513 Yrths)
-        mass: 1.828 × 10<sup>26</sup> kg<br />(19.411594066014924 Yrths)
+        mass: 1.828 × 10<sup>26</sup> kg<br />(30.617 Yrths)
         density: 1.929 g/cm<sup>3</sup>
         surface_gravity: 15.232 m/s<sup>2</sup><br />(1.553 g<sub>0</sub>)
         escape_velocity: 29.375 km/s<br />(105,750 km/h)
         rotation_period: 60.696 d
         axial_tilt: 34.68°
         albedo: 0.30
-        temperature: 2779 K<br />(2506 °C)
+        temperature: 371 K<br />(98 °C)
   - name: ο Urthiad II
     type: Ice giant
     aphelion: 1,808,658,032 km<br />12.090 AU
@@ -177,14 +177,14 @@ planets:
     radius: 38,620.0 km<br/>(6.062 Yrths)
     surface_area: 1.874 × 10<sup>10</sup> km<sup>2</sup><br/>(36.746 Yrths)
     volume: 2.413 × 10<sup>14</sup> km<sup>3</sup><br/>(222.749 Yrths)
-    mass: 3.598 × 10<sup>26</sup> kg<br />(60.25293735979149 Yrths)
+    mass: 3.598 × 10<sup>26</sup> kg<br />(60.25 Yrths)
     density: 1.491 g/cm<sup>3</sup>
     surface_gravity: 16.080 m/s<sup>2</sup><br />(1.640 g<sub>0</sub>)
     escape_velocity: 35.266 km/s<br />(126,959 km/h)
     rotation_period: 0.288 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 551 K<br />(278 °C)
+    temperature: 503 K<br />(230 °C)
     composition:
       - 75.2453% hydrogen
       - 23.6516% helium
@@ -202,14 +202,14 @@ planets:
         radius: 66,891.1 km<br/>(10.499 Yrths)
         surface_area: 5.623 × 10<sup>10</sup> km<sup>2</sup><br/>(110.235 Yrths)
         volume: 1.254 × 10<sup>15</sup> km<sup>3</sup><br/>(1157.396 Yrths)
-        mass: 2.118 × 10<sup>27</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 2.118 × 10<sup>27</sup> kg<br />(354.633 Yrths)
         density: 1.689 g/cm<sup>3</sup>
         surface_gravity: 31.548 m/s<sup>2</sup><br />(3.217 g<sub>0</sub>)
         escape_velocity: 65.010 km/s<br />(234,038 km/h)
         rotation_period: 49.879 d
         axial_tilt: 13.97°
         albedo: 0.30
-        temperature: 2161 K<br />(1887 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -222,14 +222,14 @@ planets:
         radius: 57,843.0 km<br/>(9.079 Yrths)
         surface_area: 4.204 × 10<sup>10</sup> km<sup>2</sup><br/>(82.430 Yrths)
         volume: 8.107 × 10<sup>14</sup> km<sup>3</sup><br/>(748.394 Yrths)
-        mass: 1.924 × 10<sup>27</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 1.924 × 10<sup>27</sup> kg<br />(322.224 Yrths)
         density: 2.374 g/cm<sup>3</sup>
         surface_gravity: 38.335 m/s<sup>2</sup><br />(3.909 g<sub>0</sub>)
         escape_velocity: 66.639 km/s<br />(239,902 km/h)
         rotation_period: 33.728 d
         axial_tilt: 15.78°
         albedo: 0.30
-        temperature: 2060 K<br />(1787 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -242,14 +242,14 @@ planets:
         radius: 36,255.9 km<br/>(5.691 Yrths)
         surface_area: 1.652 × 10<sup>10</sup> km<sup>2</sup><br/>(32.385 Yrths)
         volume: 1.996 × 10<sup>14</sup> km<sup>3</sup><br/>(184.295 Yrths)
-        mass: 3.436 × 10<sup>26</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 3.436 × 10<sup>26</sup> kg<br />(57.543 Yrths)
         density: 1.721 g/cm<sup>3</sup>
         surface_gravity: 17.425 m/s<sup>2</sup><br />(1.777 g<sub>0</sub>)
         escape_velocity: 35.570 km/s<br />(128,052 km/h)
         rotation_period: 45.612 d
         axial_tilt: 6.92°
         albedo: 0.30
-        temperature: 1964 K<br />(1691 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -262,14 +262,14 @@ planets:
         radius: 20,541.6 km<br/>(3.224 Yrths)
         surface_area: 5.302 × 10<sup>09</sup> km<sup>2</sup><br/>(10.396 Yrths)
         volume: 3.631 × 10<sup>13</sup> km<sup>3</sup><br/>(33.518 Yrths)
-        mass: 7.208 × 10<sup>25</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 7.208 × 10<sup>25</sup> kg<br />(12.070 Yrths)
         density: 1.985 g/cm<sup>3</sup>
         surface_gravity: 11.386 m/s<sup>2</sup><br />(1.161 g<sub>0</sub>)
         escape_velocity: 21.643 km/s<br />(77,915 km/h)
         rotation_period: 46.546 d
         axial_tilt: 24.65°
         albedo: 0.30
-        temperature: 1786 K<br />(1513 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II e
         type: Icy
         formationType: Impact formed
@@ -282,14 +282,14 @@ planets:
         radius: 52,826.2 km<br/>(8.292 Yrths)
         surface_area: 3.507 × 10<sup>10</sup> km<sup>2</sup><br/>(68.752 Yrths)
         volume: 6.175 × 10<sup>14</sup> km<sup>3</sup><br/>(570.067 Yrths)
-        mass: 1.118 × 10<sup>27</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 1.118 × 10<sup>27</sup> kg<br />(187.209 Yrths)
         density: 1.811 g/cm<sup>3</sup>
         surface_gravity: 26.703 m/s<sup>2</sup><br />(2.723 g<sub>0</sub>)
         escape_velocity: 53.152 km/s<br />(191,346 km/h)
         rotation_period: 59.949 d
         axial_tilt: 11.38°
         albedo: 0.30
-        temperature: 1703 K<br />(1429 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -302,14 +302,14 @@ planets:
         radius: 19,616.4 km<br/>(3.079 Yrths)
         surface_area: 4.836 × 10<sup>09</sup> km<sup>2</sup><br/>(9.480 Yrths)
         volume: 3.162 × 10<sup>13</sup> km<sup>3</sup><br/>(29.190 Yrths)
-        mass: 8.853 × 10<sup>25</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 8.853 × 10<sup>25</sup> kg<br />(14.825 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 15.335 m/s<sup>2</sup><br />(1.564 g<sub>0</sub>)
         escape_velocity: 24.545 km/s<br />(88,361 km/h)
         rotation_period: 58.765 d
         axial_tilt: 15.95°
         albedo: 0.30
-        temperature: 1623 K<br />(1350 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II g
         type: Asteroid
         formationType: Captured
@@ -322,14 +322,14 @@ planets:
         radius: 23,224.6 km<br/>(3.645 Yrths)
         surface_area: 6.778 × 10<sup>09</sup> km<sup>2</sup><br/>(13.289 Yrths)
         volume: 5.247 × 10<sup>13</sup> km<sup>3</sup><br/>(48.442 Yrths)
-        mass: 1.699 × 10<sup>26</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 1.699 × 10<sup>26</sup> kg<br />(28.448 Yrths)
         density: 3.238 g/cm<sup>3</sup>
         surface_gravity: 20.994 m/s<sup>2</sup><br />(2.141 g<sub>0</sub>)
         escape_velocity: 31.249 km/s<br />(112,495 km/h)
         rotation_period: 30.903 d
         axial_tilt: 7.89°
         albedo: 0.30
-        temperature: 1548 K<br />(1275 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II h
         type: Icy
         formationType: Accreted
@@ -342,14 +342,14 @@ planets:
         radius: 30,423.8 km<br/>(4.775 Yrths)
         surface_area: 1.163 × 10<sup>10</sup> km<sup>2</sup><br/>(22.804 Yrths)
         volume: 1.180 × 10<sup>14</sup> km<sup>3</sup><br/>(108.898 Yrths)
-        mass: 2.227 × 10<sup>26</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 2.227 × 10<sup>26</sup> kg<br />(37.284 Yrths)
         density: 1.888 g/cm<sup>3</sup>
         surface_gravity: 16.033 m/s<sup>2</sup><br />(1.635 g<sub>0</sub>)
         escape_velocity: 31.256 km/s<br />(112,521 km/h)
         rotation_period: 48.053 d
         axial_tilt: 13.83°
         albedo: 0.30
-        temperature: 1476 K<br />(1203 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -362,14 +362,14 @@ planets:
         radius: 57,755.8 km<br/>(9.065 Yrths)
         surface_area: 4.192 × 10<sup>10</sup> km<sup>2</sup><br/>(82.182 Yrths)
         volume: 8.070 × 10<sup>14</sup> km<sup>3</sup><br/>(745.013 Yrths)
-        mass: 1.863 × 10<sup>27</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 1.863 × 10<sup>27</sup> kg<br />(311.958 Yrths)
         density: 2.309 g/cm<sup>3</sup>
         surface_gravity: 37.225 m/s<sup>2</sup><br />(3.796 g<sub>0</sub>)
         escape_velocity: 65.619 km/s<br />(236,227 km/h)
         rotation_period: 49.819 d
         axial_tilt: 8.54°
         albedo: 0.30
-        temperature: 1407 K<br />(1134 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II j
         type: Icy
         formationType: Accreted
@@ -382,14 +382,14 @@ planets:
         radius: 46,651.9 km<br/>(7.323 Yrths)
         surface_area: 2.735 × 10<sup>10</sup> km<sup>2</sup><br/>(53.620 Yrths)
         volume: 4.253 × 10<sup>14</sup> km<sup>3</sup><br/>(392.632 Yrths)
-        mass: 6.961 × 10<sup>26</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 6.961 × 10<sup>26</sup> kg<br />(116.563 Yrths)
         density: 1.637 g/cm<sup>3</sup>
         surface_gravity: 21.319 m/s<sup>2</sup><br />(2.174 g<sub>0</sub>)
         escape_velocity: 44.630 km/s<br />(160,667 km/h)
         rotation_period: 39.291 d
         axial_tilt: 10.86°
         albedo: 0.30
-        temperature: 1342 K<br />(1068 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -402,14 +402,14 @@ planets:
         radius: 53,864.3 km<br/>(8.455 Yrths)
         surface_area: 3.646 × 10<sup>10</sup> km<sup>2</sup><br/>(71.480 Yrths)
         volume: 6.546 × 10<sup>14</sup> km<sup>3</sup><br/>(604.340 Yrths)
-        mass: 1.549 × 10<sup>27</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 1.549 × 10<sup>27</sup> kg<br />(259.314 Yrths)
         density: 2.366 g/cm<sup>3</sup>
         surface_gravity: 35.576 m/s<sup>2</sup><br />(3.628 g<sub>0</sub>)
         escape_velocity: 61.950 km/s<br />(223,019 km/h)
         rotation_period: 45.920 d
         axial_tilt: 24.30°
         albedo: 0.30
-        temperature: 1279 K<br />(1006 °C)
+        temperature: 262 K<br />(-12 °C)
       - name: ο Urthiad II l
         type: Icy
         formationType: Accreted
@@ -422,14 +422,14 @@ planets:
         radius: 26,433.7 km<br/>(4.149 Yrths)
         surface_area: 8.781 × 10<sup>09</sup> km<sup>2</sup><br/>(17.215 Yrths)
         volume: 7.737 × 10<sup>13</sup> km<sup>3</sup><br/>(71.426 Yrths)
-        mass: 1.087 × 10<sup>26</sup> kg<br />(60.25293735979149 Yrths)
+        mass: 1.087 × 10<sup>26</sup> kg<br />(18.195 Yrths)
         density: 1.404 g/cm<sup>3</sup>
         surface_gravity: 10.365 m/s<sup>2</sup><br />(1.057 g<sub>0</sub>)
         escape_velocity: 23.425 km/s<br />(84,330 km/h)
         rotation_period: 69.150 d
         axial_tilt: 28.64°
         albedo: 0.30
-        temperature: 1220 K<br />(946 °C)
+        temperature: 262 K<br />(-12 °C)
   - name: ο Urthiad III
     type: Gas giant
     aphelion: 2,446,050,194 km<br />16.351 AU
@@ -441,14 +441,14 @@ planets:
     radius: 286.8 km<br/>(0.045 Yrths)
     surface_area: 1.034 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 9.885 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.728 × 10<sup>27</sup> kg<br />(791.6138023434862 Yrths)
+    mass: 4.728 × 10<sup>27</sup> kg<br />(791.61 Yrths)
     density: 47826481.885 g/cm<sup>3</sup>
     surface_gravity: 3829997.602 m/s<sup>2</sup><br />(390551.065 g<sub>0</sub>)
     escape_velocity: 1483.275 km/s<br />(5,339,791 km/h)
     rotation_period: 0.214 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 684 K<br />(410 °C)
+    temperature: 648 K<br />(375 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -464,14 +464,14 @@ planets:
         radius: 372,373.8 km<br/>(58.448 Yrths)
         surface_area: 1.742 × 10<sup>12</sup> km<sup>2</sup><br/>(3416.197 Yrths)
         volume: 2.163 × 10<sup>17</sup> km<sup>3</sup><br/>(199670.739 Yrths)
-        mass: 4.017 × 10<sup>29</sup> kg<br />(791.6138023434862 Yrths)
+        mass: 4.017 × 10<sup>29</sup> kg<br />(67257.302 Yrths)
         density: 1.857 g/cm<sup>3</sup>
         surface_gravity: 193.071 m/s<sup>2</sup><br />(19.688 g<sub>0</sub>)
         escape_velocity: 379.453 km/s<br />(1,366,031 km/h)
         rotation_period: 54.297 d
         axial_tilt: 27.20°
         albedo: 0.30
-        temperature: 947 K<br />(673 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: ο Urthiad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -484,14 +484,14 @@ planets:
         radius: 329,652.9 km<br/>(51.743 Yrths)
         surface_area: 1.366 × 10<sup>12</sup> km<sup>2</sup><br/>(2677.309 Yrths)
         volume: 1.501 × 10<sup>17</sup> km<sup>3</sup><br/>(138531.267 Yrths)
-        mass: 3.032 × 10<sup>29</sup> kg<br />(791.6138023434862 Yrths)
+        mass: 3.032 × 10<sup>29</sup> kg<br />(50766.079 Yrths)
         density: 2.020 g/cm<sup>3</sup>
         surface_gravity: 185.950 m/s<sup>2</sup><br />(18.962 g<sub>0</sub>)
         escape_velocity: 350.377 km/s<br />(1,261,359 km/h)
         rotation_period: 57.236 d
         axial_tilt: 16.90°
         albedo: 0.30
-        temperature: 861 K<br />(587 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: ο Urthiad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -504,14 +504,14 @@ planets:
         radius: 376,194.5 km<br/>(59.048 Yrths)
         surface_area: 1.778 × 10<sup>12</sup> km<sup>2</sup><br/>(3486.660 Yrths)
         volume: 2.230 × 10<sup>17</sup> km<sup>3</sup><br/>(205880.128 Yrths)
-        mass: 3.663 × 10<sup>29</sup> kg<br />(791.6138023434862 Yrths)
+        mass: 3.663 × 10<sup>29</sup> kg<br />(61340.251 Yrths)
         density: 1.643 g/cm<sup>3</sup>
         surface_gravity: 172.527 m/s<sup>2</sup><br />(17.593 g<sub>0</sub>)
         escape_velocity: 360.532 km/s<br />(1,297,917 km/h)
         rotation_period: 69.489 d
         axial_tilt: 12.84°
         albedo: 0.30
-        temperature: 820 K<br />(547 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: ο Urthiad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -524,14 +524,14 @@ planets:
         radius: 329,082.9 km<br/>(51.653 Yrths)
         surface_area: 1.361 × 10<sup>12</sup> km<sup>2</sup><br/>(2668.059 Yrths)
         volume: 1.493 × 10<sup>17</sup> km<sup>3</sup><br/>(137813.903 Yrths)
-        mass: 2.706 × 10<sup>29</sup> kg<br />(791.6138023434862 Yrths)
+        mass: 2.706 × 10<sup>29</sup> kg<br />(45319.785 Yrths)
         density: 1.813 g/cm<sup>3</sup>
         surface_gravity: 166.576 m/s<sup>2</sup><br />(16.986 g<sub>0</sub>)
         escape_velocity: 331.336 km/s<br />(1,192,811 km/h)
         rotation_period: 57.058 d
         axial_tilt: 27.74°
         albedo: 0.30
-        temperature: 588 K<br />(315 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: ο Urthiad III e
         type: Icy
         formationType: Accreted
@@ -544,14 +544,14 @@ planets:
         radius: 514,260.2 km<br/>(80.719 Yrths)
         surface_area: 3.323 × 10<sup>12</sup> km<sup>2</sup><br/>(6515.543 Yrths)
         volume: 5.697 × 10<sup>17</sup> km<sup>3</sup><br/>(525927.601 Yrths)
-        mass: 9.945 × 10<sup>29</sup> kg<br />(791.6138023434862 Yrths)
+        mass: 9.945 × 10<sup>29</sup> kg<br />(166521.742 Yrths)
         density: 1.746 g/cm<sup>3</sup>
         surface_gravity: 250.635 m/s<sup>2</sup><br />(25.558 g<sub>0</sub>)
         escape_velocity: 508.068 km/s<br />(1,829,044 km/h)
         rotation_period: 39.739 d
         axial_tilt: 15.25°
         albedo: 0.30
-        temperature: 509 K<br />(236 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: ο Urthiad III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -564,14 +564,14 @@ planets:
         radius: 524,848.3 km<br/>(82.381 Yrths)
         surface_area: 3.462 × 10<sup>12</sup> km<sup>2</sup><br/>(6786.602 Yrths)
         volume: 6.056 × 10<sup>17</sup> km<sup>3</sup><br/>(559085.938 Yrths)
-        mass: 1.245 × 10<sup>30</sup> kg<br />(791.6138023434862 Yrths)
+        mass: 1.245 × 10<sup>30</sup> kg<br />(208517.310 Yrths)
         density: 2.056 g/cm<sup>3</sup>
         surface_gravity: 301.308 m/s<sup>2</sup><br />(30.725 g<sub>0</sub>)
         escape_velocity: 562.771 km/s<br />(2,025,977 km/h)
         rotation_period: 47.164 d
         axial_tilt: 15.47°
         albedo: 0.30
-        temperature: 238 K<br />(-35 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: ο Urthiad III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -584,14 +584,14 @@ planets:
         radius: 358,604.6 km<br/>(56.287 Yrths)
         surface_area: 1.616 × 10<sup>12</sup> km<sup>2</sup><br/>(3168.229 Yrths)
         volume: 1.932 × 10<sup>17</sup> km<sup>3</sup><br/>(178330.152 Yrths)
-        mass: 4.470 × 10<sup>29</sup> kg<br />(791.6138023434862 Yrths)
+        mass: 4.470 × 10<sup>29</sup> kg<br />(74855.262 Yrths)
         density: 2.314 g/cm<sup>3</sup>
         surface_gravity: 231.700 m/s<sup>2</sup><br />(23.627 g<sub>0</sub>)
         escape_velocity: 407.926 km/s<br />(1,468,532 km/h)
         rotation_period: 55.936 d
         axial_tilt: 25.84°
         albedo: 0.30
-        temperature: 206 K<br />(-67 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: ο Urthiad III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -604,14 +604,14 @@ planets:
         radius: 332,804.7 km<br/>(52.237 Yrths)
         surface_area: 1.392 × 10<sup>12</sup> km<sup>2</sup><br/>(2728.750 Yrths)
         volume: 1.544 × 10<sup>17</sup> km<sup>3</sup><br/>(142542.945 Yrths)
-        mass: 3.170 × 10<sup>29</sup> kg<br />(791.6138023434862 Yrths)
+        mass: 3.170 × 10<sup>29</sup> kg<br />(53076.584 Yrths)
         density: 2.053 g/cm<sup>3</sup>
         surface_gravity: 190.748 m/s<sup>2</sup><br />(19.451 g<sub>0</sub>)
         escape_velocity: 356.562 km/s<br />(1,283,622 km/h)
         rotation_period: 66.303 d
         axial_tilt: 23.58°
         albedo: 0.30
-        temperature: 196 K<br />(-77 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: ο Urthiad III i
         type: Rocky
         formationType: Accreted
@@ -624,14 +624,14 @@ planets:
         radius: 283,734.7 km<br/>(44.535 Yrths)
         surface_area: 1.012 × 10<sup>12</sup> km<sup>2</sup><br/>(1983.397 Yrths)
         volume: 9.568 × 10<sup>16</sup> km<sup>3</sup><br/>(88331.254 Yrths)
-        mass: 2.806 × 10<sup>29</sup> kg<br />(791.6138023434862 Yrths)
+        mass: 2.806 × 10<sup>29</sup> kg<br />(46987.061 Yrths)
         density: 2.933 g/cm<sup>3</sup>
         surface_gravity: 232.321 m/s<sup>2</sup><br />(23.690 g<sub>0</sub>)
         escape_velocity: 363.338 km/s<br />(1,308,016 km/h)
         rotation_period: 40.258 d
         axial_tilt: 9.30°
         albedo: 0.30
-        temperature: 187 K<br />(-86 °C)
+        temperature: 185 K<br />(-88 °C)
   - name: ο Urthiad IV
     type: Gas dwarf
     aphelion: 5,878,572,748 km<br />39.295 AU
@@ -643,14 +643,14 @@ planets:
     radius: 28,009.6 km<br/>(4.396 Yrths)
     surface_area: 9.859 × 10<sup>09</sup> km<sup>2</sup><br/>(19.329 Yrths)
     volume: 9.205 × 10<sup>13</sup> km<sup>3</sup><br/>(84.977 Yrths)
-    mass: 1.382 × 10<sup>26</sup> kg<br />(23.135368004338307 Yrths)
+    mass: 1.382 × 10<sup>26</sup> kg<br />(23.14 Yrths)
     density: 1.501 g/cm<sup>3</sup>
     surface_gravity: 11.738 m/s<sup>2</sup><br />(1.197 g<sub>0</sub>)
     escape_velocity: 25.660 km/s<br />(92,377 km/h)
     rotation_period: 0.335 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 218 K<br />(-55 °C)
+    temperature: 197 K<br />(-76 °C)
     composition:
       - 78.0486% hydrogen
       - 17.9467% helium
@@ -671,14 +671,14 @@ planets:
         radius: 17,293.1 km<br/>(2.714 Yrths)
         surface_area: 3.758 × 10<sup>09</sup> km<sup>2</sup><br/>(7.368 Yrths)
         volume: 2.166 × 10<sup>13</sup> km<sup>3</sup><br/>(19.998 Yrths)
-        mass: 4.963 × 10<sup>25</sup> kg<br />(23.135368004338307 Yrths)
+        mass: 4.963 × 10<sup>25</sup> kg<br />(8.311 Yrths)
         density: 2.291 g/cm<sup>3</sup>
         surface_gravity: 11.062 m/s<sup>2</sup><br />(1.128 g<sub>0</sub>)
         escape_velocity: 19.573 km/s<br />(70,463 km/h)
         rotation_period: 34.104 d
         axial_tilt: 20.85°
         albedo: 0.30
-        temperature: 1264 K<br />(991 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: ο Urthiad IV b
         type: Icy
         formationType: Captured
@@ -691,14 +691,14 @@ planets:
         radius: 16,019.8 km<br/>(2.514 Yrths)
         surface_area: 3.225 × 10<sup>09</sup> km<sup>2</sup><br/>(6.323 Yrths)
         volume: 1.722 × 10<sup>13</sup> km<sup>3</sup><br/>(15.898 Yrths)
-        mass: 1.950 × 10<sup>25</sup> kg<br />(23.135368004338307 Yrths)
+        mass: 1.950 × 10<sup>25</sup> kg<br />(3.265 Yrths)
         density: 1.132 g/cm<sup>3</sup>
         surface_gravity: 5.064 m/s<sup>2</sup><br />(0.516 g<sub>0</sub>)
         escape_velocity: 12.747 km/s<br />(45,888 km/h)
         rotation_period: 48.371 d
         axial_tilt: 26.78°
         albedo: 0.30
-        temperature: 1205 K<br />(932 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: ο Urthiad IV c
         type: Icy
         formationType: Captured
@@ -711,14 +711,14 @@ planets:
         radius: 29,929.8 km<br/>(4.698 Yrths)
         surface_area: 1.126 × 10<sup>10</sup> km<sup>2</sup><br/>(22.069 Yrths)
         volume: 1.123 × 10<sup>14</sup> km<sup>3</sup><br/>(103.678 Yrths)
-        mass: 1.182 × 10<sup>26</sup> kg<br />(23.135368004338307 Yrths)
+        mass: 1.182 × 10<sup>26</sup> kg<br />(19.797 Yrths)
         density: 1.053 g/cm<sup>3</sup>
         surface_gravity: 8.797 m/s<sup>2</sup><br />(0.897 g<sub>0</sub>)
         escape_velocity: 22.963 km/s<br />(82,666 km/h)
         rotation_period: 49.886 d
         axial_tilt: 14.86°
         albedo: 0.30
-        temperature: 1149 K<br />(876 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: ο Urthiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -731,14 +731,14 @@ planets:
         radius: 37,824.5 km<br/>(5.937 Yrths)
         surface_area: 1.798 × 10<sup>10</sup> km<sup>2</sup><br/>(35.248 Yrths)
         volume: 2.267 × 10<sup>14</sup> km<sup>3</sup><br/>(209.265 Yrths)
-        mass: 4.801 × 10<sup>26</sup> kg<br />(23.135368004338307 Yrths)
+        mass: 4.801 × 10<sup>26</sup> kg<br />(80.386 Yrths)
         density: 2.118 g/cm<sup>3</sup>
         surface_gravity: 22.365 m/s<sup>2</sup><br />(2.281 g<sub>0</sub>)
         escape_velocity: 41.161 km/s<br />(148,178 km/h)
         rotation_period: 50.191 d
         axial_tilt: 23.96°
         albedo: 0.30
-        temperature: 1096 K<br />(822 °C)
+        temperature: 130 K<br />(-143 °C)
   - name: ο Urthiad V
     type: Gas giant
     aphelion: 13,165,447,297 km<br />88.004 AU
@@ -750,7 +750,7 @@ planets:
     radius: 241.1 km<br/>(0.038 Yrths)
     surface_area: 7.302 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.867 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.239 × 10<sup>27</sup> kg<br />(374.8369435919681 Yrths)
+    mass: 2.239 × 10<sup>27</sup> kg<br />(374.84 Yrths)
     density: 38153552.609 g/cm<sup>3</sup>
     surface_gravity: 2567748.852 m/s<sup>2</sup><br />(261837.514 g<sub>0</sub>)
     escape_velocity: 1113.378 km/s<br />(4,008,160 km/h)
@@ -771,14 +771,14 @@ planets:
         radius: 211,828.8 km<br/>(33.249 Yrths)
         surface_area: 5.639 × 10<sup>11</sup> km<sup>2</sup><br/>(1105.490 Yrths)
         volume: 3.981 × 10<sup>16</sup> km<sup>3</sup><br/>(36756.342 Yrths)
-        mass: 8.267 × 10<sup>28</sup> kg<br />(374.8369435919681 Yrths)
+        mass: 8.267 × 10<sup>28</sup> kg<br />(13843.679 Yrths)
         density: 2.076 g/cm<sup>3</sup>
         surface_gravity: 122.805 m/s<sup>2</sup><br />(12.523 g<sub>0</sub>)
         escape_velocity: 228.250 km/s<br />(821,700 km/h)
         rotation_period: 53.872 d
         axial_tilt: 12.25°
         albedo: 0.30
-        temperature: 441 K<br />(168 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: ο Urthiad V b
         type: Icy
         formationType: Impact formed
@@ -791,14 +791,14 @@ planets:
         radius: 259,526.5 km<br/>(40.736 Yrths)
         surface_area: 8.464 × 10<sup>11</sup> km<sup>2</sup><br/>(1659.389 Yrths)
         volume: 7.322 × 10<sup>16</sup> km<sup>3</sup><br/>(67596.202 Yrths)
-        mass: 9.273 × 10<sup>28</sup> kg<br />(374.8369435919681 Yrths)
+        mass: 9.273 × 10<sup>28</sup> kg<br />(15526.629 Yrths)
         density: 1.266 g/cm<sup>3</sup>
         surface_gravity: 91.759 m/s<sup>2</sup><br />(9.357 g<sub>0</sub>)
         escape_velocity: 218.386 km/s<br />(786,191 km/h)
         rotation_period: 45.732 d
         axial_tilt: 20.84°
         albedo: 0.30
-        temperature: 401 K<br />(128 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: ο Urthiad V c
         type: Rocky
         formationType: Impact formed
@@ -811,14 +811,14 @@ planets:
         radius: 205,554.3 km<br/>(32.264 Yrths)
         surface_area: 5.310 × 10<sup>11</sup> km<sup>2</sup><br/>(1040.969 Yrths)
         volume: 3.638 × 10<sup>16</sup> km<sup>3</sup><br/>(33585.886 Yrths)
-        mass: 1.021 × 10<sup>29</sup> kg<br />(374.8369435919681 Yrths)
+        mass: 1.021 × 10<sup>29</sup> kg<br />(17090.495 Yrths)
         density: 2.805 g/cm<sup>3</sup>
         surface_gravity: 161.004 m/s<sup>2</sup><br />(16.418 g<sub>0</sub>)
         escape_velocity: 257.449 km/s<br />(926,818 km/h)
         rotation_period: 32.228 d
         axial_tilt: 19.91°
         albedo: 0.30
-        temperature: 365 K<br />(92 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: ο Urthiad V d
         type: Ice/rock hybrid
         formationType: Captured
@@ -831,14 +831,14 @@ planets:
         radius: 204,803.9 km<br/>(32.146 Yrths)
         surface_area: 5.271 × 10<sup>11</sup> km<sup>2</sup><br/>(1033.383 Yrths)
         volume: 3.598 × 10<sup>16</sup> km<sup>3</sup><br/>(33219.424 Yrths)
-        mass: 8.330 × 10<sup>28</sup> kg<br />(374.8369435919681 Yrths)
+        mass: 8.330 × 10<sup>28</sup> kg<br />(13949.208 Yrths)
         density: 2.315 g/cm<sup>3</sup>
         surface_gravity: 132.376 m/s<sup>2</sup><br />(13.499 g<sub>0</sub>)
         escape_velocity: 233.015 km/s<br />(838,853 km/h)
         rotation_period: 40.194 d
         axial_tilt: 25.61°
         albedo: 0.30
-        temperature: 261 K<br />(-12 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: ο Urthiad V e
         type: Ice/rock hybrid
         formationType: Captured
@@ -851,14 +851,14 @@ planets:
         radius: 191,935.4 km<br/>(30.126 Yrths)
         surface_area: 4.629 × 10<sup>11</sup> km<sup>2</sup><br/>(907.601 Yrths)
         volume: 2.962 × 10<sup>16</sup> km<sup>3</sup><br/>(27342.778 Yrths)
-        mass: 6.727 × 10<sup>28</sup> kg<br />(374.8369435919681 Yrths)
+        mass: 6.727 × 10<sup>28</sup> kg<br />(11264.641 Yrths)
         density: 2.271 g/cm<sup>3</sup>
         surface_gravity: 121.715 m/s<sup>2</sup><br />(12.411 g<sub>0</sub>)
         escape_velocity: 216.301 km/s<br />(778,684 km/h)
         rotation_period: 34.492 d
         axial_tilt: 5.71°
         albedo: 0.30
-        temperature: 249 K<br />(-24 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: ο Urthiad V f
         type: Icy
         formationType: Captured
@@ -871,14 +871,14 @@ planets:
         radius: 347,973.4 km<br/>(54.618 Yrths)
         surface_area: 1.522 × 10<sup>12</sup> km<sup>2</sup><br/>(2983.163 Yrths)
         volume: 1.765 × 10<sup>17</sup> km<sup>3</sup><br/>(162935.374 Yrths)
-        mass: 2.151 × 10<sup>29</sup> kg<br />(374.8369435919681 Yrths)
+        mass: 2.151 × 10<sup>29</sup> kg<br />(36011.173 Yrths)
         density: 1.219 g/cm<sup>3</sup>
         surface_gravity: 118.381 m/s<sup>2</sup><br />(12.071 g<sub>0</sub>)
         escape_velocity: 287.226 km/s<br />(1,034,013 km/h)
         rotation_period: 47.695 d
         axial_tilt: 15.63°
         albedo: 0.30
-        temperature: 134 K<br />(-139 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: ο Urthiad V g
         type: Rocky
         formationType: Captured
@@ -891,14 +891,14 @@ planets:
         radius: 324,409.4 km<br/>(50.920 Yrths)
         surface_area: 1.323 × 10<sup>12</sup> km<sup>2</sup><br/>(2592.816 Yrths)
         volume: 1.430 × 10<sup>17</sup> km<sup>3</sup><br/>(132025.433 Yrths)
-        mass: 4.352 × 10<sup>29</sup> kg<br />(374.8369435919681 Yrths)
+        mass: 4.352 × 10<sup>29</sup> kg<br />(72881.198 Yrths)
         density: 3.043 g/cm<sup>3</sup>
         surface_gravity: 275.654 m/s<sup>2</sup><br />(28.109 g<sub>0</sub>)
         escape_velocity: 423.193 km/s<br />(1,523,496 km/h)
         rotation_period: 50.284 d
         axial_tilt: 6.56°
         albedo: 0.30
-        temperature: 122 K<br />(-151 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: ο Urthiad V h
         type: Icy
         formationType: Captured
@@ -911,14 +911,14 @@ planets:
         radius: 209,331.0 km<br/>(32.857 Yrths)
         surface_area: 5.507 × 10<sup>11</sup> km<sup>2</sup><br/>(1079.572 Yrths)
         volume: 3.842 × 10<sup>16</sup> km<sup>3</sup><br/>(35471.337 Yrths)
-        mass: 6.180 × 10<sup>28</sup> kg<br />(374.8369435919681 Yrths)
+        mass: 6.180 × 10<sup>28</sup> kg<br />(10348.875 Yrths)
         density: 1.609 g/cm<sup>3</sup>
         surface_gravity: 94.007 m/s<sup>2</sup><br />(9.586 g<sub>0</sub>)
         escape_velocity: 198.522 km/s<br />(714,677 km/h)
         rotation_period: 42.117 d
         axial_tilt: 14.06°
         albedo: 0.30
-        temperature: 101 K<br />(-172 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: ο Urthiad V i
         type: Icy
         formationType: Accreted
@@ -931,12 +931,12 @@ planets:
         radius: 271,484.0 km<br/>(42.612 Yrths)
         surface_area: 9.262 × 10<sup>11</sup> km<sup>2</sup><br/>(1815.823 Yrths)
         volume: 8.381 × 10<sup>16</sup> km<sup>3</sup><br/>(77376.684 Yrths)
-        mass: 1.198 × 10<sup>29</sup> kg<br />(374.8369435919681 Yrths)
+        mass: 1.198 × 10<sup>29</sup> kg<br />(20055.895 Yrths)
         density: 1.429 g/cm<sup>3</sup>
         surface_gravity: 108.315 m/s<sup>2</sup><br />(11.045 g<sub>0</sub>)
         escape_velocity: 242.676 km/s<br />(873,633 km/h)
         rotation_period: 49.575 d
         axial_tilt: 12.29°
         albedo: 0.30
-        temperature: 87 K<br />(-186 °C)
+        temperature: 92 K<br />(-181 °C)
 ---

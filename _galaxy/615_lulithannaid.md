@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      615 Lulithannaid is a star in the constellation Lulithan
+      615 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 1029.99 ly
 apparent_magnitude: 9.46
 absolute_magnitude: 1.96

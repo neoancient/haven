@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2458 Oniad is a star in the constellation Oni
+      2458 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 528.02 ly
 apparent_magnitude: 9.97
 absolute_magnitude: 3.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      676 Orshenniad A is a star in the constellation Orshen
+      676 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 670.15 ly
 apparent_magnitude: 6.97
 absolute_magnitude: 0.41

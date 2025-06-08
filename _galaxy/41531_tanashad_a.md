@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      41531 Tanashad A is a star in the constellation Tanas
+      41531 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 536.48 ly
 apparent_magnitude: 8.38
 absolute_magnitude: 2.30

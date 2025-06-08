@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3994 Tanashad A is a star in the constellation Tanas
+      3994 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 174.03 ly
 apparent_magnitude: 7.22
 absolute_magnitude: 3.59

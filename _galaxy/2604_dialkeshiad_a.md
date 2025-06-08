@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2604 Dialkeshiad A is a star in the constellation Dialkes
+      2604 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 179.58 ly
 apparent_magnitude: 10.00
 absolute_magnitude: 6.29

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0011 Anasoiad B is a star in the constellation Anaso
+      0011 Anasoiad B is a star in the constellation <a href="anaso.html">Anaso</a>
 distance: 1357.39 ly
 apparent_magnitude: 12.95
 absolute_magnitude: 4.85

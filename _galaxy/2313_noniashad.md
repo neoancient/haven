@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2313 Noniashad is a star in the constellation Nonias
+      2313 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 758.24 ly
 apparent_magnitude: 12.46
 absolute_magnitude: 5.63

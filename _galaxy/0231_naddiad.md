@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0231 Naddiad is a star in the constellation Naddi
+      0231 Naddiad is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 3048.26 ly
 apparent_magnitude: 6.30
 absolute_magnitude: -3.55
@@ -31,14 +31,14 @@ planets:
     radius: 16,595.0 km<br/>(2.605 Yrths)
     surface_area: 3.461 × 10<sup>09</sup> km<sup>2</sup><br/>(6.785 Yrths)
     volume: 1.914 × 10<sup>13</sup> km<sup>3</sup><br/>(17.673 Yrths)
-    mass: 5.244 × 10<sup>25</sup> kg<br />(8.780447487718883 Yrths)
+    mass: 5.244 × 10<sup>25</sup> kg<br />(8.78 Yrths)
     density: 2.739 g/cm<sup>3</sup>
     surface_gravity: 12.691 m/s<sup>2</sup><br />(1.294 g<sub>0</sub>)
     escape_velocity: 20.537 km/s<br />(73,935 km/h)
     rotation_period: 0.426 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 2766 K<br />(2493 °C)
+    temperature: 2444 K<br />(2171 °C)
     composition:
       - 85.6055% hydrogen
       - 11.4674% helium
@@ -56,14 +56,14 @@ planets:
         radius: 13,917.3 km<br/>(2.184 Yrths)
         surface_area: 2.434 × 10<sup>09</sup> km<sup>2</sup><br/>(4.772 Yrths)
         volume: 1.129 × 10<sup>13</sup> km<sup>3</sup><br/>(10.424 Yrths)
-        mass: 1.951 × 10<sup>25</sup> kg<br />(8.780447487718883 Yrths)
+        mass: 1.951 × 10<sup>25</sup> kg<br />(3.266 Yrths)
         density: 1.728 g/cm<sup>3</sup>
         surface_gravity: 6.713 m/s<sup>2</sup><br />(0.685 g<sub>0</sub>)
         escape_velocity: 13.679 km/s<br />(49,243 km/h)
         rotation_period: 39.273 d
         axial_tilt: 26.38°
         albedo: 0.30
-        temperature: 26972 K<br />(26699 °C)
+        temperature: 1853 K<br />(1579 °C)
       - name: 0231 Naddiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 14,181.2 km<br/>(2.226 Yrths)
         surface_area: 2.527 × 10<sup>09</sup> km<sup>2</sup><br/>(4.955 Yrths)
         volume: 1.195 × 10<sup>13</sup> km<sup>3</sup><br/>(11.028 Yrths)
-        mass: 2.346 × 10<sup>25</sup> kg<br />(8.780447487718883 Yrths)
+        mass: 2.346 × 10<sup>25</sup> kg<br />(3.928 Yrths)
         density: 1.964 g/cm<sup>3</sup>
         surface_gravity: 7.775 m/s<sup>2</sup><br />(0.793 g<sub>0</sub>)
         escape_velocity: 14.860 km/s<br />(53,495 km/h)
         rotation_period: 47.163 d
         axial_tilt: 10.49°
         albedo: 0.30
-        temperature: 25717 K<br />(25443 °C)
+        temperature: 1853 K<br />(1579 °C)
       - name: 0231 Naddiad I c
         type: Icy
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 6,262.7 km<br/>(0.983 Yrths)
         surface_area: 4.929 × 10<sup>08</sup> km<sup>2</sup><br/>(0.966 Yrths)
         volume: 1.029 × 10<sup>12</sup> km<sup>3</sup><br/>(0.950 Yrths)
-        mass: 1.878 × 10<sup>24</sup> kg<br />(8.780447487718883 Yrths)
+        mass: 1.878 × 10<sup>24</sup> kg<br />(0.315 Yrths)
         density: 1.826 g/cm<sup>3</sup>
         surface_gravity: 3.192 m/s<sup>2</sup><br />(0.325 g<sub>0</sub>)
         escape_velocity: 6.327 km/s<br />(22,779 km/h)
         rotation_period: 44.460 d
         axial_tilt: 11.97°
         albedo: 0.30
-        temperature: 24520 K<br />(24247 °C)
+        temperature: 1853 K<br />(1579 °C)
   - name: 0231 Naddiad II
     type: Gas giant
     aphelion: 811,262,497 km<br />5.423 AU
@@ -115,14 +115,14 @@ planets:
     radius: 240.5 km<br/>(0.038 Yrths)
     surface_area: 7.269 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.828 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.225 × 10<sup>27</sup> kg<br />(372.61393956415264 Yrths)
+    mass: 2.225 × 10<sup>27</sup> kg<br />(372.61 Yrths)
     density: 38183531.541 g/cm<sup>3</sup>
     surface_gravity: 2564004.919 m/s<sup>2</sup><br />(261455.739 g<sub>0</sub>)
     escape_velocity: 1111.318 km/s<br />(4,000,744 km/h)
     rotation_period: 0.230 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 5481 K<br />(5208 °C)
+    temperature: 5505 K<br />(5232 °C)
     composition:
       - 57.9945% hydrogen
       - 29.1108% helium
@@ -141,14 +141,14 @@ planets:
         radius: 169,493.8 km<br/>(26.604 Yrths)
         surface_area: 3.610 × 10<sup>11</sup> km<sup>2</sup><br/>(707.770 Yrths)
         volume: 2.040 × 10<sup>16</sup> km<sup>3</sup><br/>(18829.487 Yrths)
-        mass: 6.428 × 10<sup>28</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 6.428 × 10<sup>28</sup> kg<br />(10762.995 Yrths)
         density: 3.151 g/cm<sup>3</sup>
         surface_gravity: 149.129 m/s<sup>2</sup><br />(15.207 g<sub>0</sub>)
         escape_velocity: 224.992 km/s<br />(809,972 km/h)
         rotation_period: 43.491 d
         axial_tilt: 21.27°
         albedo: 0.30
-        temperature: 8614 K<br />(8341 °C)
+        temperature: 1268 K<br />(994 °C)
       - name: 0231 Naddiad II b
         type: Rocky
         formationType: Captured
@@ -161,14 +161,14 @@ planets:
         radius: 224,560.9 km<br/>(35.247 Yrths)
         surface_area: 6.337 × 10<sup>11</sup> km<sup>2</sup><br/>(1242.376 Yrths)
         volume: 4.743 × 10<sup>16</sup> km<sup>3</sup><br/>(43790.463 Yrths)
-        mass: 1.374 × 10<sup>29</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 1.374 × 10<sup>29</sup> kg<br />(23000.065 Yrths)
         density: 2.896 g/cm<sup>3</sup>
         surface_gravity: 181.550 m/s<sup>2</sup><br />(18.513 g<sub>0</sub>)
         escape_velocity: 285.743 km/s<br />(1,028,674 km/h)
         rotation_period: 43.984 d
         axial_tilt: 20.38°
         albedo: 0.30
-        temperature: 6787 K<br />(6514 °C)
+        temperature: 1268 K<br />(994 °C)
       - name: 0231 Naddiad II c
         type: Icy
         formationType: Accreted
@@ -181,14 +181,14 @@ planets:
         radius: 322,569.9 km<br/>(50.631 Yrths)
         surface_area: 1.308 × 10<sup>12</sup> km<sup>2</sup><br/>(2563.496 Yrths)
         volume: 1.406 × 10<sup>17</sup> km<sup>3</sup><br/>(129792.276 Yrths)
-        mass: 1.579 × 10<sup>29</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 1.579 × 10<sup>29</sup> kg<br />(26443.104 Yrths)
         density: 1.123 g/cm<sup>3</sup>
         surface_gravity: 101.158 m/s<sup>2</sup><br />(10.315 g<sub>0</sub>)
         escape_velocity: 255.636 km/s<br />(920,290 km/h)
         rotation_period: 89.590 d
         axial_tilt: 26.66°
         albedo: 0.30
-        temperature: 5099 K<br />(4826 °C)
+        temperature: 1268 K<br />(994 °C)
       - name: 0231 Naddiad II d
         type: Icy
         formationType: Captured
@@ -201,14 +201,14 @@ planets:
         radius: 436,604.2 km<br/>(68.530 Yrths)
         surface_area: 2.395 × 10<sup>12</sup> km<sup>2</sup><br/>(4696.353 Yrths)
         volume: 3.486 × 10<sup>17</sup> km<sup>3</sup><br/>(321840.759 Yrths)
-        mass: 3.520 × 10<sup>29</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 3.520 × 10<sup>29</sup> kg<br />(58949.991 Yrths)
         density: 1.010 g/cm<sup>3</sup>
         surface_gravity: 123.096 m/s<sup>2</sup><br />(12.552 g<sub>0</sub>)
         escape_velocity: 328.077 km/s<br />(1,181,077 km/h)
         rotation_period: 67.587 d
         axial_tilt: 18.99°
         albedo: 0.30
-        temperature: 4862 K<br />(4589 °C)
+        temperature: 1268 K<br />(994 °C)
       - name: 0231 Naddiad II e
         type: Icy
         formationType: Impact formed
@@ -221,14 +221,14 @@ planets:
         radius: 268,021.9 km<br/>(42.069 Yrths)
         surface_area: 9.027 × 10<sup>11</sup> km<sup>2</sup><br/>(1769.804 Yrths)
         volume: 8.065 × 10<sup>16</sup> km<sup>3</sup><br/>(74453.973 Yrths)
-        mass: 9.513 × 10<sup>28</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 9.513 × 10<sup>28</sup> kg<br />(15928.623 Yrths)
         density: 1.180 g/cm<sup>3</sup>
         surface_gravity: 88.262 m/s<sup>2</sup><br />(9.000 g<sub>0</sub>)
         escape_velocity: 217.662 km/s<br />(783,582 km/h)
         rotation_period: 75.808 d
         axial_tilt: 26.35°
         albedo: 0.30
-        temperature: 2617 K<br />(2344 °C)
+        temperature: 1268 K<br />(994 °C)
       - name: 0231 Naddiad II f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -241,14 +241,14 @@ planets:
         radius: 224,874.2 km<br/>(35.297 Yrths)
         surface_area: 6.355 × 10<sup>11</sup> km<sup>2</sup><br/>(1245.845 Yrths)
         volume: 4.763 × 10<sup>16</sup> km<sup>3</sup><br/>(43973.998 Yrths)
-        mass: 1.013 × 10<sup>29</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 1.013 × 10<sup>29</sup> kg<br />(16959.549 Yrths)
         density: 2.126 g/cm<sup>3</sup>
         surface_gravity: 133.497 m/s<sup>2</sup><br />(13.613 g<sub>0</sub>)
         escape_velocity: 245.197 km/s<br />(882,709 km/h)
         rotation_period: 42.351 d
         axial_tilt: 30.95°
         albedo: 0.30
-        temperature: 2495 K<br />(2222 °C)
+        temperature: 1268 K<br />(994 °C)
       - name: 0231 Naddiad II g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -261,14 +261,14 @@ planets:
         radius: 205,019.1 km<br/>(32.180 Yrths)
         surface_area: 5.282 × 10<sup>11</sup> km<sup>2</sup><br/>(1035.556 Yrths)
         volume: 3.610 × 10<sup>16</sup> km<sup>3</sup><br/>(33324.252 Yrths)
-        mass: 7.729 × 10<sup>28</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 7.729 × 10<sup>28</sup> kg<br />(12942.564 Yrths)
         density: 2.141 g/cm<sup>3</sup>
         surface_gravity: 122.565 m/s<sup>2</sup><br />(12.498 g<sub>0</sub>)
         escape_velocity: 224.332 km/s<br />(807,594 km/h)
         rotation_period: 41.962 d
         axial_tilt: 15.98°
         albedo: 0.30
-        temperature: 2163 K<br />(1890 °C)
+        temperature: 1268 K<br />(994 °C)
       - name: 0231 Naddiad II h
         type: Rocky
         formationType: Captured
@@ -281,14 +281,14 @@ planets:
         radius: 179,713.3 km<br/>(28.208 Yrths)
         surface_area: 4.059 × 10<sup>11</sup> km<sup>2</sup><br/>(795.692 Yrths)
         volume: 2.431 × 10<sup>16</sup> km<sup>3</sup><br/>(22444.896 Yrths)
-        mass: 6.436 × 10<sup>28</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 6.436 × 10<sup>28</sup> kg<br />(10776.484 Yrths)
         density: 2.647 g/cm<sup>3</sup>
         surface_gravity: 132.817 m/s<sup>2</sup><br />(13.544 g<sub>0</sub>)
         escape_velocity: 218.638 km/s<br />(787,098 km/h)
         rotation_period: 54.391 d
         axial_tilt: 20.64°
         albedo: 0.30
-        temperature: 2062 K<br />(1789 °C)
+        temperature: 1268 K<br />(994 °C)
       - name: 0231 Naddiad II i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -301,14 +301,14 @@ planets:
         radius: 234,151.5 km<br/>(36.753 Yrths)
         surface_area: 6.890 × 10<sup>11</sup> km<sup>2</sup><br/>(1350.762 Yrths)
         volume: 5.377 × 10<sup>16</sup> km<sup>3</sup><br/>(49644.149 Yrths)
-        mass: 9.085 × 10<sup>28</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 9.085 × 10<sup>28</sup> kg<br />(15212.562 Yrths)
         density: 1.689 g/cm<sup>3</sup>
         surface_gravity: 110.445 m/s<sup>2</sup><br />(11.262 g<sub>0</sub>)
         escape_velocity: 227.578 km/s<br />(819,281 km/h)
         rotation_period: 61.538 d
         axial_tilt: 18.69°
         albedo: 0.30
-        temperature: 1787 K<br />(1514 °C)
+        temperature: 1268 K<br />(994 °C)
       - name: 0231 Naddiad II j
         type: Icy
         formationType: Accreted
@@ -321,12 +321,12 @@ planets:
         radius: 332,192.4 km<br/>(52.141 Yrths)
         surface_area: 1.387 × 10<sup>12</sup> km<sup>2</sup><br/>(2718.718 Yrths)
         volume: 1.536 × 10<sup>17</sup> km<sup>3</sup><br/>(141757.575 Yrths)
-        mass: 1.653 × 10<sup>29</sup> kg<br />(372.61393956415264 Yrths)
+        mass: 1.653 × 10<sup>29</sup> kg<br />(27677.797 Yrths)
         density: 1.076 g/cm<sup>3</sup>
         surface_gravity: 99.836 m/s<sup>2</sup><br />(10.180 g<sub>0</sub>)
         escape_velocity: 257.720 km/s<br />(927,793 km/h)
         rotation_period: 59.992 d
         axial_tilt: 10.43°
         albedo: 0.30
-        temperature: 1625 K<br />(1352 °C)
+        temperature: 1268 K<br />(994 °C)
 ---

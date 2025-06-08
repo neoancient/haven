@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6133 Geardiad A is a star in the constellation Geard
+      6133 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 195.04 ly
 apparent_magnitude: 6.79
 absolute_magnitude: 2.91

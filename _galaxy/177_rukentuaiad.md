@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      177 Rukentuaiad is a star in the constellation Rukentua
+      177 Rukentuaiad is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 680.07 ly
 apparent_magnitude: 12.66
 absolute_magnitude: 6.07

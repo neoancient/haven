@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5015 Athiad A is a star in the constellation Ath
+      5015 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 402.06 ly
 apparent_magnitude: 11.67
 absolute_magnitude: 6.21

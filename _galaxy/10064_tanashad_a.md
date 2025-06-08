@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10064 Tanashad A is a star in the constellation Tanas
+      10064 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 338.87 ly
 apparent_magnitude: 11.33
 absolute_magnitude: 6.25

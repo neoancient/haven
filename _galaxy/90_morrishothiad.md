@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      90 Morrishothiad is a star in the constellation Morrishoth
+      90 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 507.32 ly
 apparent_magnitude: 11.63
 absolute_magnitude: 5.67

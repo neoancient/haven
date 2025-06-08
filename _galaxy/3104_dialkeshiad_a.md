@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3104 Dialkeshiad A is a star in the constellation Dialkes
+      3104 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 541.66 ly
 apparent_magnitude: 7.71
 absolute_magnitude: 1.61

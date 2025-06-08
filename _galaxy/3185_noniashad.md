@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3185 Noniashad is a star in the constellation Nonias
+      3185 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 675.96 ly
 apparent_magnitude: 11.51
 absolute_magnitude: 4.93

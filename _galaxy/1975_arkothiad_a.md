@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1975 Arkothiad A is a star in the constellation Arkoth
+      1975 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 217.55 ly
 apparent_magnitude: 6.86
 absolute_magnitude: 2.74

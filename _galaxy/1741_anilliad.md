@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1741 Anilliad is a star in the constellation Anil
+      1741 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 422.32 ly
 apparent_magnitude: 12.63
 absolute_magnitude: 7.06

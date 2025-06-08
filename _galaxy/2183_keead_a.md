@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2183 Keead A is a star in the constellation Kee
+      2183 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 220.07 ly
 apparent_magnitude: 8.18
 absolute_magnitude: 4.03

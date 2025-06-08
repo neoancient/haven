@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      942 Oniad is a star in the constellation Oni
+      942 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 942.29 ly
 apparent_magnitude: 11.81
 absolute_magnitude: 4.50

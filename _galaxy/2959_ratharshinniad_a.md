@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2959 Ratharshinniad A is a star in the constellation Ratharshin
+      2959 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 478.15 ly
 apparent_magnitude: 7.44
 absolute_magnitude: 1.61

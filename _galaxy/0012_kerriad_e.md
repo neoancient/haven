@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0012 Kerriad E is a star in the constellation Kerr
+      0012 Kerriad E is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 2411.71 ly
 apparent_magnitude: 15.00
 absolute_magnitude: 5.66

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10414 Arkothiad is a star in the constellation Arkoth
+      10414 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 201.73 ly
 apparent_magnitude: 8.79
 absolute_magnitude: 4.83

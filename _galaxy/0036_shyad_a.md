@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0036 Shyad A is a star in the constellation Shy
+      0036 Shyad A is a star in the constellation <a href="shy.html">Shy</a>
 distance: 696.98 ly
 apparent_magnitude: 6.39
 absolute_magnitude: -0.26

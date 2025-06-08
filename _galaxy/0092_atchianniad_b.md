@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0092 Atchianniad B is a star in the constellation Atchian
+      0092 Atchianniad B is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 950.59 ly
 apparent_magnitude: 17.31
 absolute_magnitude: 9.98

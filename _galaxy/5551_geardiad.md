@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5551 Geardiad is a star in the constellation Geard
+      5551 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 227.33 ly
 apparent_magnitude: 9.05
 absolute_magnitude: 4.83

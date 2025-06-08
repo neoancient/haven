@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2165 Arniad is a star in the constellation Arni
+      2165 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 373.36 ly
 apparent_magnitude: 12.12
 absolute_magnitude: 6.83

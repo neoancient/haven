@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10516 Tanashad A is a star in the constellation Tanas
+      10516 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 362.74 ly
 apparent_magnitude: 7.10
 absolute_magnitude: 1.87

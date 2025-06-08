@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7685 Lulithannaid A is a star in the constellation Lulithan
+      7685 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 520.45 ly
 apparent_magnitude: 7.70
 absolute_magnitude: 1.68

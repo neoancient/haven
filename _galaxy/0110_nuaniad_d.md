@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0110 Nuaniad D is a star in the constellation Nuani
+      0110 Nuaniad D is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 230.21 ly
 apparent_magnitude: 9.25
 absolute_magnitude: 5.01
@@ -31,14 +31,14 @@ planets:
     radius: 5,974.2 km<br/>(0.938 Yrths)
     surface_area: 4.485 × 10<sup>08</sup> km<sup>2</sup><br/>(0.879 Yrths)
     volume: 8.931 × 10<sup>11</sup> km<sup>3</sup><br/>(0.825 Yrths)
-    mass: 5.427 × 10<sup>24</sup> kg<br />(0.9086742422935309 Yrths)
+    mass: 5.427 × 10<sup>24</sup> kg<br />(0.91 Yrths)
     density: 6.076 g/cm<sup>3</sup>
     surface_gravity: 10.134 m/s<sup>2</sup><br />(1.033 g<sub>0</sub>)
     escape_velocity: 11.011 km/s<br />(39,641 km/h)
     rotation_period: 1.764 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 467 K<br />(193 °C)
+    temperature: 1398 K<br />(1125 °C)
     surface_pressure: 19 kPa<br />(0 atm)
     composition:
       - 99.0357% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 3,060.7 km<br/>(0.480 Yrths)
         surface_area: 1.177 × 10<sup>08</sup> km<sup>2</sup><br/>(0.231 Yrths)
         volume: 1.201 × 10<sup>11</sup> km<sup>3</sup><br/>(0.111 Yrths)
-        mass: 1.997 × 10<sup>23</sup> kg<br />(0.9086742422935309 Yrths)
+        mass: 1.997 × 10<sup>23</sup> kg<br />(0.033 Yrths)
         density: 1.662 g/cm<sup>3</sup>
         surface_gravity: 1.421 m/s<sup>2</sup><br />(0.145 g<sub>0</sub>)
         escape_velocity: 2.951 km/s<br />(10,623 km/h)
         rotation_period: 44.205 d
         axial_tilt: 40.26°
         albedo: 0.30
-        temperature: 6064 K<br />(5790 °C)
+        temperature: 322 K<br />(48 °C)
   - name: 0110 Nuaniad D II
     type: Large terrestrial
     aphelion: 159,738,212 km<br />1.068 AU
@@ -75,14 +75,14 @@ planets:
     radius: 10,141.6 km<br/>(1.592 Yrths)
     surface_area: 1.292 × 10<sup>09</sup> km<sup>2</sup><br/>(2.534 Yrths)
     volume: 4.369 × 10<sup>12</sup> km<sup>3</sup><br/>(4.034 Yrths)
-    mass: 3.387 × 10<sup>25</sup> kg<br />(5.670696501480524 Yrths)
+    mass: 3.387 × 10<sup>25</sup> kg<br />(5.67 Yrths)
     density: 7.751 g/cm<sup>3</sup>
     surface_gravity: 21.946 m/s<sup>2</sup><br />(2.238 g<sub>0</sub>)
     escape_velocity: 21.113 km/s<br />(76,006 km/h)
     rotation_period: 0.786 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 308 K<br />(35 °C)
+    temperature: 415 K<br />(142 °C)
     surface_pressure: 120 kPa<br />(1 atm)
     composition:
       - 78.0694% nitrogen
@@ -102,14 +102,14 @@ planets:
         radius: 5,117.0 km<br/>(0.803 Yrths)
         surface_area: 3.290 × 10<sup>08</sup> km<sup>2</sup><br/>(0.645 Yrths)
         volume: 5.612 × 10<sup>11</sup> km<sup>3</sup><br/>(0.518 Yrths)
-        mass: 1.189 × 10<sup>24</sup> kg<br />(5.670696501480524 Yrths)
+        mass: 1.189 × 10<sup>24</sup> kg<br />(0.199 Yrths)
         density: 2.119 g/cm<sup>3</sup>
         surface_gravity: 3.028 m/s<sup>2</sup><br />(0.309 g<sub>0</sub>)
         escape_velocity: 5.570 km/s<br />(20,053 km/h)
         rotation_period: 39.518 d
         axial_tilt: 51.84°
         albedo: 0.30
-        temperature: 2684 K<br />(2411 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0110 Nuaniad D II b
         type: Rocky
         formationType: Impact formed
@@ -122,14 +122,14 @@ planets:
         radius: 11,097.9 km<br/>(1.742 Yrths)
         surface_area: 1.548 × 10<sup>09</sup> km<sup>2</sup><br/>(3.034 Yrths)
         volume: 5.725 × 10<sup>12</sup> km<sup>3</sup><br/>(5.286 Yrths)
-        mass: 2.001 × 10<sup>25</sup> kg<br />(5.670696501480524 Yrths)
+        mass: 2.001 × 10<sup>25</sup> kg<br />(3.351 Yrths)
         density: 3.496 g/cm<sup>3</sup>
         surface_gravity: 10.831 m/s<sup>2</sup><br />(1.105 g<sub>0</sub>)
         escape_velocity: 15.516 km/s<br />(55,857 km/h)
         rotation_period: 42.670 d
         axial_tilt: 17.66°
         albedo: 0.30
-        temperature: 2559 K<br />(2286 °C)
+        temperature: 242 K<br />(-31 °C)
   - name: 0110 Nuaniad D III
     type: Gas giant
     aphelion: 290,952,889 km<br />1.945 AU
@@ -141,7 +141,7 @@ planets:
     radius: 133.9 km<br/>(0.021 Yrths)
     surface_area: 2.254 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.007 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.831 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+    mass: 1.831 × 10<sup>26</sup> kg<br />(30.66 Yrths)
     density: 18188309.474 g/cm<sup>3</sup>
     surface_gravity: 680162.503 m/s<sup>2</sup><br />(69357.273 g<sub>0</sub>)
     escape_velocity: 427.144 km/s<br />(1,537,717 km/h)
@@ -162,14 +162,14 @@ planets:
         radius: 44,928.4 km<br/>(7.052 Yrths)
         surface_area: 2.537 × 10<sup>10</sup> km<sup>2</sup><br/>(49.731 Yrths)
         volume: 3.799 × 10<sup>14</sup> km<sup>3</sup><br/>(350.704 Yrths)
-        mass: 5.837 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 5.837 × 10<sup>26</sup> kg<br />(97.738 Yrths)
         density: 1.536 g/cm<sup>3</sup>
         surface_gravity: 19.273 m/s<sup>2</sup><br />(1.965 g<sub>0</sub>)
         escape_velocity: 41.644 km/s<br />(149,917 km/h)
         rotation_period: 53.793 d
         axial_tilt: 13.89°
         albedo: 0.30
-        temperature: 1137 K<br />(864 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III b
         type: Icy
         formationType: Captured
@@ -182,14 +182,14 @@ planets:
         radius: 45,544.0 km<br/>(7.149 Yrths)
         surface_area: 2.607 × 10<sup>10</sup> km<sup>2</sup><br/>(51.103 Yrths)
         volume: 3.957 × 10<sup>14</sup> km<sup>3</sup><br/>(365.318 Yrths)
-        mass: 5.936 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 5.936 × 10<sup>26</sup> kg<br />(99.399 Yrths)
         density: 1.500 g/cm<sup>3</sup>
         surface_gravity: 19.075 m/s<sup>2</sup><br />(1.945 g<sub>0</sub>)
         escape_velocity: 41.711 km/s<br />(150,161 km/h)
         rotation_period: 46.368 d
         axial_tilt: 13.85°
         albedo: 0.30
-        temperature: 741 K<br />(468 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 41,950.3 km<br/>(6.585 Yrths)
         surface_area: 2.211 × 10<sup>10</sup> km<sup>2</sup><br/>(43.357 Yrths)
         volume: 3.092 × 10<sup>14</sup> km<sup>3</sup><br/>(285.485 Yrths)
-        mass: 5.572 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 5.572 × 10<sup>26</sup> kg<br />(93.309 Yrths)
         density: 1.802 g/cm<sup>3</sup>
         surface_gravity: 21.105 m/s<sup>2</sup><br />(2.152 g<sub>0</sub>)
         escape_velocity: 42.109 km/s<br />(151,592 km/h)
         rotation_period: 43.253 d
         axial_tilt: 22.09°
         albedo: 0.30
-        temperature: 706 K<br />(433 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III d
         type: Asteroid
         formationType: Captured
@@ -222,14 +222,14 @@ planets:
         radius: 36,394.4 km<br/>(5.713 Yrths)
         surface_area: 1.664 × 10<sup>10</sup> km<sup>2</sup><br/>(32.633 Yrths)
         volume: 2.019 × 10<sup>14</sup> km<sup>3</sup><br/>(186.414 Yrths)
-        mass: 7.471 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 7.471 × 10<sup>26</sup> kg<br />(125.104 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 37.596 m/s<sup>2</sup><br />(3.834 g<sub>0</sub>)
         escape_velocity: 52.348 km/s<br />(188,451 km/h)
         rotation_period: 38.712 d
         axial_tilt: 40.78°
         albedo: 0.30
-        temperature: 673 K<br />(400 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III e
         type: Icy
         formationType: Impact formed
@@ -242,14 +242,14 @@ planets:
         radius: 53,229.6 km<br/>(8.355 Yrths)
         surface_area: 3.561 × 10<sup>10</sup> km<sup>2</sup><br/>(69.806 Yrths)
         volume: 6.318 × 10<sup>14</sup> km<sup>3</sup><br/>(583.226 Yrths)
-        mass: 6.365 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 6.365 × 10<sup>26</sup> kg<br />(106.582 Yrths)
         density: 1.008 g/cm<sup>3</sup>
         surface_gravity: 14.973 m/s<sup>2</sup><br />(1.527 g<sub>0</sub>)
         escape_velocity: 39.952 km/s<br />(143,829 km/h)
         rotation_period: 96.950 d
         axial_tilt: 11.07°
         albedo: 0.30
-        temperature: 439 K<br />(165 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III f
         type: Asteroid
         formationType: Captured
@@ -262,14 +262,14 @@ planets:
         radius: 35,210.0 km<br/>(5.527 Yrths)
         surface_area: 1.558 × 10<sup>10</sup> km<sup>2</sup><br/>(30.543 Yrths)
         volume: 1.828 × 10<sup>14</sup> km<sup>3</sup><br/>(168.801 Yrths)
-        mass: 4.640 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 4.640 × 10<sup>26</sup> kg<br />(77.704 Yrths)
         density: 2.538 g/cm<sup>3</sup>
         surface_gravity: 24.949 m/s<sup>2</sup><br />(2.544 g<sub>0</sub>)
         escape_velocity: 41.944 km/s<br />(150,997 km/h)
         rotation_period: 47.818 d
         axial_tilt: 60.08°
         albedo: 0.30
-        temperature: 346 K<br />(72 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III g
         type: Rocky
         formationType: Captured
@@ -282,14 +282,14 @@ planets:
         radius: 40,455.1 km<br/>(6.350 Yrths)
         surface_area: 2.057 × 10<sup>10</sup> km<sup>2</sup><br/>(40.321 Yrths)
         volume: 2.773 × 10<sup>14</sup> km<sup>3</sup><br/>(256.033 Yrths)
-        mass: 6.656 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 6.656 × 10<sup>26</sup> kg<br />(111.455 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 27.107 m/s<sup>2</sup><br />(2.764 g<sub>0</sub>)
         escape_velocity: 46.864 km/s<br />(168,711 km/h)
         rotation_period: 46.494 d
         axial_tilt: 17.29°
         albedo: 0.30
-        temperature: 286 K<br />(12 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III h
         type: Icy
         formationType: Impact formed
@@ -302,14 +302,14 @@ planets:
         radius: 51,523.2 km<br/>(8.087 Yrths)
         surface_area: 3.336 × 10<sup>10</sup> km<sup>2</sup><br/>(65.402 Yrths)
         volume: 5.729 × 10<sup>14</sup> km<sup>3</sup><br/>(528.916 Yrths)
-        mass: 1.089 × 10<sup>27</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 1.089 × 10<sup>27</sup> kg<br />(182.277 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 27.331 m/s<sup>2</sup><br />(2.787 g<sub>0</sub>)
         escape_velocity: 53.106 km/s<br />(191,181 km/h)
         rotation_period: 51.316 d
         axial_tilt: 24.55°
         albedo: 0.30
-        temperature: 161 K<br />(-112 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III i
         type: Icy
         formationType: Captured
@@ -322,14 +322,14 @@ planets:
         radius: 47,507.9 km<br/>(7.457 Yrths)
         surface_area: 2.836 × 10<sup>10</sup> km<sup>2</sup><br/>(55.605 Yrths)
         volume: 4.491 × 10<sup>14</sup> km<sup>3</sup><br/>(414.643 Yrths)
-        mass: 5.750 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 5.750 × 10<sup>26</sup> kg<br />(96.278 Yrths)
         density: 1.280 g/cm<sup>3</sup>
         surface_gravity: 16.980 m/s<sup>2</sup><br />(1.731 g<sub>0</sub>)
         escape_velocity: 40.194 km/s<br />(144,698 km/h)
         rotation_period: 68.314 d
         axial_tilt: 20.01°
         albedo: 0.30
-        temperature: 127 K<br />(-146 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III j
         type: Icy
         formationType: Captured
@@ -342,14 +342,14 @@ planets:
         radius: 46,367.5 km<br/>(7.278 Yrths)
         surface_area: 2.702 × 10<sup>10</sup> km<sup>2</sup><br/>(52.968 Yrths)
         volume: 4.176 × 10<sup>14</sup> km<sup>3</sup><br/>(385.494 Yrths)
-        mass: 5.579 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 5.579 × 10<sup>26</sup> kg<br />(93.414 Yrths)
         density: 1.336 g/cm<sup>3</sup>
         surface_gravity: 17.295 m/s<sup>2</sup><br />(1.764 g<sub>0</sub>)
         escape_velocity: 40.075 km/s<br />(144,271 km/h)
         rotation_period: 77.614 d
         axial_tilt: 15.62°
         albedo: 0.30
-        temperature: 121 K<br />(-152 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III k
         type: Rocky
         formationType: Accreted
@@ -362,14 +362,14 @@ planets:
         radius: 39,612.9 km<br/>(6.218 Yrths)
         surface_area: 1.972 × 10<sup>10</sup> km<sup>2</sup><br/>(38.660 Yrths)
         volume: 2.604 × 10<sup>14</sup> km<sup>3</sup><br/>(240.373 Yrths)
-        mass: 7.989 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 7.989 × 10<sup>26</sup> kg<br />(133.766 Yrths)
         density: 3.068 g/cm<sup>3</sup>
         surface_gravity: 33.932 m/s<sup>2</sup><br />(3.460 g<sub>0</sub>)
         escape_velocity: 51.884 km/s<br />(186,782 km/h)
         rotation_period: 40.293 d
         axial_tilt: 21.15°
         albedo: 0.30
-        temperature: 105 K<br />(-168 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0110 Nuaniad D III l
         type: Asteroid
         formationType: Captured
@@ -382,14 +382,14 @@ planets:
         radius: 34,912.7 km<br/>(5.480 Yrths)
         surface_area: 1.532 × 10<sup>10</sup> km<sup>2</sup><br/>(30.030 Yrths)
         volume: 1.783 × 10<sup>14</sup> km<sup>3</sup><br/>(164.562 Yrths)
-        mass: 5.307 × 10<sup>26</sup> kg<br />(30.655479194360197 Yrths)
+        mass: 5.307 × 10<sup>26</sup> kg<br />(88.857 Yrths)
         density: 2.977 g/cm<sup>3</sup>
         surface_gravity: 29.017 m/s<sup>2</sup><br />(2.959 g<sub>0</sub>)
         escape_velocity: 45.043 km/s<br />(162,156 km/h)
         rotation_period: 34.266 d
         axial_tilt: 14.68°
         albedo: 0.30
-        temperature: 87 K<br />(-186 °C)
+        temperature: 183 K<br />(-90 °C)
   - name: 0110 Nuaniad D IV
     type: Gas giant
     aphelion: 531,299,643 km<br />3.551 AU
@@ -401,7 +401,7 @@ planets:
     radius: 215.8 km<br/>(0.034 Yrths)
     surface_area: 5.854 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.211 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.400 × 10<sup>27</sup> kg<br />(234.46842172775033 Yrths)
+    mass: 1.400 × 10<sup>27</sup> kg<br />(234.47 Yrths)
     density: 33248457.129 g/cm<sup>3</sup>
     surface_gravity: 2003507.061 m/s<sup>2</sup><br />(204300.863 g<sub>0</sub>)
     escape_velocity: 930.599 km/s<br />(3,350,157 km/h)
@@ -422,14 +422,14 @@ planets:
         radius: 152,215.6 km<br/>(23.892 Yrths)
         surface_area: 2.912 × 10<sup>11</sup> km<sup>2</sup><br/>(570.825 Yrths)
         volume: 1.477 × 10<sup>16</sup> km<sup>3</sup><br/>(13638.137 Yrths)
-        mass: 1.414 × 10<sup>28</sup> kg<br />(234.46842172775033 Yrths)
+        mass: 1.414 × 10<sup>28</sup> kg<br />(2367.769 Yrths)
         density: 0.957 g/cm<sup>3</sup>
         surface_gravity: 40.678 m/s<sup>2</sup><br />(4.148 g<sub>0</sub>)
         escape_velocity: 111.357 km/s<br />(400,885 km/h)
         rotation_period: 59.144 d
         axial_tilt: 21.02°
         albedo: 0.30
-        temperature: 775 K<br />(502 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0110 Nuaniad D IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -442,14 +442,14 @@ planets:
         radius: 114,241.7 km<br/>(17.932 Yrths)
         surface_area: 1.640 × 10<sup>11</sup> km<sup>2</sup><br/>(321.540 Yrths)
         volume: 6.245 × 10<sup>15</sup> km<sup>3</sup><br/>(5765.693 Yrths)
-        mass: 1.428 × 10<sup>28</sup> kg<br />(234.46842172775033 Yrths)
+        mass: 1.428 × 10<sup>28</sup> kg<br />(2391.229 Yrths)
         density: 2.287 g/cm<sup>3</sup>
         surface_gravity: 72.930 m/s<sup>2</sup><br />(7.437 g<sub>0</sub>)
         escape_velocity: 129.174 km/s<br />(465,027 km/h)
         rotation_period: 39.184 d
         axial_tilt: 19.55°
         albedo: 0.30
-        temperature: 555 K<br />(282 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0110 Nuaniad D IV c
         type: Icy
         formationType: Accreted
@@ -462,14 +462,14 @@ planets:
         radius: 151,669.9 km<br/>(23.806 Yrths)
         surface_area: 2.891 × 10<sup>11</sup> km<sup>2</sup><br/>(566.740 Yrths)
         volume: 1.461 × 10<sup>16</sup> km<sup>3</sup><br/>(13491.971 Yrths)
-        mass: 2.273 × 10<sup>28</sup> kg<br />(234.46842172775033 Yrths)
+        mass: 2.273 × 10<sup>28</sup> kg<br />(3805.849 Yrths)
         density: 1.555 g/cm<sup>3</sup>
         surface_gravity: 65.855 m/s<sup>2</sup><br />(6.715 g<sub>0</sub>)
         escape_velocity: 141.434 km/s<br />(509,162 km/h)
         rotation_period: 56.533 d
         axial_tilt: 25.86°
         albedo: 0.30
-        temperature: 345 K<br />(72 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0110 Nuaniad D IV d
         type: Icy
         formationType: Accreted
@@ -482,14 +482,14 @@ planets:
         radius: 138,305.8 km<br/>(21.709 Yrths)
         surface_area: 2.404 × 10<sup>11</sup> km<sup>2</sup><br/>(471.265 Yrths)
         volume: 1.108 × 10<sup>16</sup> km<sup>3</sup><br/>(10230.534 Yrths)
-        mass: 1.501 × 10<sup>28</sup> kg<br />(234.46842172775033 Yrths)
+        mass: 1.501 × 10<sup>28</sup> kg<br />(2513.908 Yrths)
         density: 1.355 g/cm<sup>3</sup>
         surface_gravity: 52.312 m/s<sup>2</sup><br />(5.334 g<sub>0</sub>)
         escape_velocity: 120.374 km/s<br />(433,346 km/h)
         rotation_period: 76.712 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 272 K<br />(-1 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0110 Nuaniad D IV e
         type: Icy
         formationType: Impact formed
@@ -502,14 +502,14 @@ planets:
         radius: 177,363.9 km<br/>(27.839 Yrths)
         surface_area: 3.953 × 10<sup>11</sup> km<sup>2</sup><br/>(775.025 Yrths)
         volume: 2.337 × 10<sup>16</sup> km<sup>3</sup><br/>(21576.113 Yrths)
-        mass: 2.659 × 10<sup>28</sup> kg<br />(234.46842172775033 Yrths)
+        mass: 2.659 × 10<sup>28</sup> kg<br />(4452.422 Yrths)
         density: 1.138 g/cm<sup>3</sup>
         surface_gravity: 56.338 m/s<sup>2</sup><br />(5.745 g<sub>0</sub>)
         escape_velocity: 141.463 km/s<br />(509,267 km/h)
         rotation_period: 59.782 d
         axial_tilt: 19.93°
         albedo: 0.30
-        temperature: 235 K<br />(-38 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0110 Nuaniad D IV f
         type: Dwarf planet
         formationType: Accreted
@@ -522,14 +522,14 @@ planets:
         radius: 144,516.9 km<br/>(22.684 Yrths)
         surface_area: 2.625 × 10<sup>11</sup> km<sup>2</sup><br/>(514.544 Yrths)
         volume: 1.264 × 10<sup>16</sup> km<sup>3</sup><br/>(11671.679 Yrths)
-        mass: 2.450 × 10<sup>28</sup> kg<br />(234.46842172775033 Yrths)
+        mass: 2.450 × 10<sup>28</sup> kg<br />(4102.305 Yrths)
         density: 1.938 g/cm<sup>3</sup>
         surface_gravity: 78.186 m/s<sup>2</sup><br />(7.973 g<sub>0</sub>)
         escape_velocity: 150.429 km/s<br />(541,545 km/h)
         rotation_period: 50.933 d
         axial_tilt: 39.63°
         albedo: 0.30
-        temperature: 100 K<br />(-173 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0110 Nuaniad D IV g
         type: Icy
         formationType: Captured
@@ -542,14 +542,14 @@ planets:
         radius: 131,087.9 km<br/>(20.576 Yrths)
         surface_area: 2.159 × 10<sup>11</sup> km<sup>2</sup><br/>(423.360 Yrths)
         volume: 9.436 × 10<sup>15</sup> km<sup>3</sup><br/>(8710.933 Yrths)
-        mass: 1.319 × 10<sup>28</sup> kg<br />(234.46842172775033 Yrths)
+        mass: 1.319 × 10<sup>28</sup> kg<br />(2208.373 Yrths)
         density: 1.398 g/cm<sup>3</sup>
         surface_gravity: 51.154 m/s<sup>2</sup><br />(5.216 g<sub>0</sub>)
         escape_velocity: 115.886 km/s<br />(417,191 km/h)
         rotation_period: 59.263 d
         axial_tilt: 20.40°
         albedo: 0.30
-        temperature: 95 K<br />(-178 °C)
+        temperature: 138 K<br />(-135 °C)
   - name: 0110 Nuaniad D V
     type: Gas giant
     aphelion: 942,206,447 km<br />6.298 AU
@@ -561,7 +561,7 @@ planets:
     radius: 153.2 km<br/>(0.024 Yrths)
     surface_area: 2.950 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.507 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.215 × 10<sup>26</sup> kg<br />(53.834446552955626 Yrths)
+    mass: 3.215 × 10<sup>26</sup> kg<br />(53.83 Yrths)
     density: 21333898.821 g/cm<sup>3</sup>
     surface_gravity: 912673.269 m/s<sup>2</sup><br />(93066.773 g<sub>0</sub>)
     escape_velocity: 529.222 km/s<br />(1,905,198 km/h)
@@ -582,14 +582,14 @@ planets:
         radius: 100,135.7 km<br/>(15.717 Yrths)
         surface_area: 1.260 × 10<sup>11</sup> km<sup>2</sup><br/>(247.037 Yrths)
         volume: 4.206 × 10<sup>15</sup> km<sup>3</sup><br/>(3882.791 Yrths)
-        mass: 3.599 × 10<sup>27</sup> kg<br />(53.834446552955626 Yrths)
+        mass: 3.599 × 10<sup>27</sup> kg<br />(602.602 Yrths)
         density: 0.856 g/cm<sup>3</sup>
         surface_gravity: 23.922 m/s<sup>2</sup><br />(2.439 g<sub>0</sub>)
         escape_velocity: 69.263 km/s<br />(249,345 km/h)
         rotation_period: 62.986 d
         axial_tilt: 18.85°
         albedo: 0.30
-        temperature: 561 K<br />(288 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0110 Nuaniad D V b
         type: Asteroid
         formationType: Captured
@@ -602,14 +602,14 @@ planets:
         radius: 67,104.7 km<br/>(10.533 Yrths)
         surface_area: 5.659 × 10<sup>10</sup> km<sup>2</sup><br/>(110.941 Yrths)
         volume: 1.266 × 10<sup>15</sup> km<sup>3</sup><br/>(1168.522 Yrths)
-        mass: 1.909 × 10<sup>27</sup> kg<br />(53.834446552955626 Yrths)
+        mass: 1.909 × 10<sup>27</sup> kg<br />(319.680 Yrths)
         density: 1.508 g/cm<sup>3</sup>
         surface_gravity: 28.258 m/s<sup>2</sup><br />(2.882 g<sub>0</sub>)
         escape_velocity: 61.625 km/s<br />(221,851 km/h)
         rotation_period: 47.504 d
         axial_tilt: 21.50°
         albedo: 0.30
-        temperature: 535 K<br />(262 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0110 Nuaniad D V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -622,14 +622,14 @@ planets:
         radius: 66,370.4 km<br/>(10.418 Yrths)
         surface_area: 5.536 × 10<sup>10</sup> km<sup>2</sup><br/>(108.526 Yrths)
         volume: 1.225 × 10<sup>15</sup> km<sup>3</sup><br/>(1130.578 Yrths)
-        mass: 1.959 × 10<sup>27</sup> kg<br />(53.834446552955626 Yrths)
+        mass: 1.959 × 10<sup>27</sup> kg<br />(328.105 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 29.648 m/s<sup>2</sup><br />(3.023 g<sub>0</sub>)
         escape_velocity: 62.776 km/s<br />(225,995 km/h)
         rotation_period: 56.044 d
         axial_tilt: 23.19°
         albedo: 0.30
-        temperature: 510 K<br />(237 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0110 Nuaniad D V d
         type: Rocky
         formationType: Accreted
@@ -642,14 +642,14 @@ planets:
         radius: 55,446.1 km<br/>(8.703 Yrths)
         surface_area: 3.863 × 10<sup>10</sup> km<sup>2</sup><br/>(75.740 Yrths)
         volume: 7.140 × 10<sup>14</sup> km<sup>3</sup><br/>(659.160 Yrths)
-        mass: 2.136 × 10<sup>27</sup> kg<br />(53.834446552955626 Yrths)
+        mass: 2.136 × 10<sup>27</sup> kg<br />(357.711 Yrths)
         density: 2.992 g/cm<sup>3</sup>
         surface_gravity: 46.315 m/s<sup>2</sup><br />(4.723 g<sub>0</sub>)
         escape_velocity: 71.715 km/s<br />(258,173 km/h)
         rotation_period: 31.074 d
         axial_tilt: 20.42°
         albedo: 0.30
-        temperature: 421 K<br />(148 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0110 Nuaniad D V e
         type: Icy
         formationType: Captured
@@ -662,14 +662,14 @@ planets:
         radius: 70,604.2 km<br/>(11.082 Yrths)
         surface_area: 6.264 × 10<sup>10</sup> km<sup>2</sup><br/>(122.814 Yrths)
         volume: 1.474 × 10<sup>15</sup> km<sup>3</sup><br/>(1361.035 Yrths)
-        mass: 2.167 × 10<sup>27</sup> kg<br />(53.834446552955626 Yrths)
+        mass: 2.167 × 10<sup>27</sup> kg<br />(362.908 Yrths)
         density: 1.470 g/cm<sup>3</sup>
         surface_gravity: 28.978 m/s<sup>2</sup><br />(2.955 g<sub>0</sub>)
         escape_velocity: 64.012 km/s<br />(230,443 km/h)
         rotation_period: 51.301 d
         axial_tilt: 18.76°
         albedo: 0.30
-        temperature: 365 K<br />(92 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0110 Nuaniad D V f
         type: Icy
         formationType: Impact formed
@@ -682,14 +682,14 @@ planets:
         radius: 91,952.7 km<br/>(14.433 Yrths)
         surface_area: 1.063 × 10<sup>11</sup> km<sup>2</sup><br/>(208.312 Yrths)
         volume: 3.257 × 10<sup>15</sup> km<sup>3</sup><br/>(3006.568 Yrths)
-        mass: 5.901 × 10<sup>27</sup> kg<br />(53.834446552955626 Yrths)
+        mass: 5.901 × 10<sup>27</sup> kg<br />(988.168 Yrths)
         density: 1.812 g/cm<sup>3</sup>
         surface_gravity: 46.520 m/s<sup>2</sup><br />(4.744 g<sub>0</sub>)
         escape_velocity: 92.557 km/s<br />(333,206 km/h)
         rotation_period: 45.890 d
         axial_tilt: 23.83°
         albedo: 0.30
-        temperature: 128 K<br />(-145 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0110 Nuaniad D V g
         type: Asteroid
         formationType: Captured
@@ -702,14 +702,14 @@ planets:
         radius: 61,116.1 km<br/>(9.593 Yrths)
         surface_area: 4.694 × 10<sup>10</sup> km<sup>2</sup><br/>(92.023 Yrths)
         volume: 9.562 × 10<sup>14</sup> km<sup>3</sup><br/>(882.762 Yrths)
-        mass: 3.256 × 10<sup>27</sup> kg<br />(53.834446552955626 Yrths)
+        mass: 3.256 × 10<sup>27</sup> kg<br />(545.282 Yrths)
         density: 3.406 g/cm<sup>3</sup>
         surface_gravity: 58.109 m/s<sup>2</sup><br />(5.926 g<sub>0</sub>)
         escape_velocity: 84.336 km/s<br />(303,608 km/h)
         rotation_period: 33.788 d
         axial_tilt: 28.57°
         albedo: 0.30
-        temperature: 101 K<br />(-172 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0110 Nuaniad D V h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -722,14 +722,14 @@ planets:
         radius: 77,269.1 km<br/>(12.128 Yrths)
         surface_area: 7.503 × 10<sup>10</sup> km<sup>2</sup><br/>(147.094 Yrths)
         volume: 1.932 × 10<sup>15</sup> km<sup>3</sup><br/>(1783.997 Yrths)
-        mass: 4.406 × 10<sup>27</sup> kg<br />(53.834446552955626 Yrths)
+        mass: 4.406 × 10<sup>27</sup> kg<br />(737.840 Yrths)
         density: 2.280 g/cm<sup>3</sup>
         surface_gravity: 49.191 m/s<sup>2</sup><br />(5.016 g<sub>0</sub>)
         escape_velocity: 87.248 km/s<br />(314,093 km/h)
         rotation_period: 62.028 d
         axial_tilt: 25.89°
         albedo: 0.30
-        temperature: 69 K<br />(-204 °C)
+        temperature: 104 K<br />(-169 °C)
   - name: 0110 Nuaniad D VI
     type: Ice giant
     aphelion: 1,626,232,643 km<br />10.871 AU
@@ -741,14 +741,14 @@ planets:
     radius: 27,163.2 km<br/>(4.264 Yrths)
     surface_area: 9.272 × 10<sup>09</sup> km<sup>2</sup><br/>(18.178 Yrths)
     volume: 8.395 × 10<sup>13</sup> km<sup>3</sup><br/>(77.503 Yrths)
-    mass: 1.327 × 10<sup>26</sup> kg<br />(22.223063950029964 Yrths)
+    mass: 1.327 × 10<sup>26</sup> kg<br />(22.22 Yrths)
     density: 1.581 g/cm<sup>3</sup>
     surface_gravity: 11.989 m/s<sup>2</sup><br />(1.223 g<sub>0</sub>)
     escape_velocity: 25.538 km/s<br />(91,937 km/h)
     rotation_period: 0.337 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 140 K<br />(-133 °C)
+    temperature: 125 K<br />(-148 °C)
     composition:
       - 86.8108% hydrogen
       - 10.5413% helium
@@ -766,14 +766,14 @@ planets:
         radius: 23,753.2 km<br/>(3.728 Yrths)
         surface_area: 7.090 × 10<sup>09</sup> km<sup>2</sup><br/>(13.900 Yrths)
         volume: 5.614 × 10<sup>13</sup> km<sup>3</sup><br/>(51.825 Yrths)
-        mass: 7.423 × 10<sup>25</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 7.423 × 10<sup>25</sup> kg<br />(12.430 Yrths)
         density: 1.322 g/cm<sup>3</sup>
         surface_gravity: 8.769 m/s<sup>2</sup><br />(0.894 g<sub>0</sub>)
         escape_velocity: 20.424 km/s<br />(73,527 km/h)
         rotation_period: 46.362 d
         axial_tilt: 16.37°
         albedo: 0.30
-        temperature: 652 K<br />(379 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0110 Nuaniad D VI b
         type: Icy
         formationType: Accreted
@@ -786,14 +786,14 @@ planets:
         radius: 22,651.1 km<br/>(3.555 Yrths)
         surface_area: 6.447 × 10<sup>09</sup> km<sup>2</sup><br/>(12.640 Yrths)
         volume: 4.868 × 10<sup>13</sup> km<sup>3</sup><br/>(44.941 Yrths)
-        mass: 4.835 × 10<sup>25</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 4.835 × 10<sup>25</sup> kg<br />(8.097 Yrths)
         density: 0.993 g/cm<sup>3</sup>
         surface_gravity: 6.282 m/s<sup>2</sup><br />(0.641 g<sub>0</sub>)
         escape_velocity: 16.881 km/s<br />(60,770 km/h)
         rotation_period: 56.355 d
         axial_tilt: 19.80°
         albedo: 0.30
-        temperature: 622 K<br />(349 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0110 Nuaniad D VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -806,14 +806,14 @@ planets:
         radius: 28,868.2 km<br/>(4.531 Yrths)
         surface_area: 1.047 × 10<sup>10</sup> km<sup>2</sup><br/>(20.532 Yrths)
         volume: 1.008 × 10<sup>14</sup> km<sup>3</sup><br/>(93.033 Yrths)
-        mass: 2.290 × 10<sup>26</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 2.290 × 10<sup>26</sup> kg<br />(38.348 Yrths)
         density: 2.273 g/cm<sup>3</sup>
         surface_gravity: 18.317 m/s<sup>2</sup><br />(1.868 g<sub>0</sub>)
         escape_velocity: 32.542 km/s<br />(117,150 km/h)
         rotation_period: 34.561 d
         axial_tilt: 22.25°
         albedo: 0.30
-        temperature: 593 K<br />(320 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0110 Nuaniad D VI d
         type: Asteroid
         formationType: Captured
@@ -826,14 +826,14 @@ planets:
         radius: 16,717.9 km<br/>(2.624 Yrths)
         surface_area: 3.512 × 10<sup>09</sup> km<sup>2</sup><br/>(6.886 Yrths)
         volume: 1.957 × 10<sup>13</sup> km<sup>3</sup><br/>(18.068 Yrths)
-        mass: 4.569 × 10<sup>25</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 4.569 × 10<sup>25</sup> kg<br />(7.651 Yrths)
         density: 2.335 g/cm<sup>3</sup>
         surface_gravity: 10.897 m/s<sup>2</sup><br />(1.111 g<sub>0</sub>)
         escape_velocity: 19.101 km/s<br />(68,763 km/h)
         rotation_period: 34.999 d
         axial_tilt: 32.13°
         albedo: 0.30
-        temperature: 539 K<br />(266 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0110 Nuaniad D VI e
         type: Icy
         formationType: Accreted
@@ -846,14 +846,14 @@ planets:
         radius: 29,740.5 km<br/>(4.668 Yrths)
         surface_area: 1.111 × 10<sup>10</sup> km<sup>2</sup><br/>(21.791 Yrths)
         volume: 1.102 × 10<sup>14</sup> km<sup>3</sup><br/>(101.724 Yrths)
-        mass: 1.227 × 10<sup>26</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 1.227 × 10<sup>26</sup> kg<br />(20.549 Yrths)
         density: 1.114 g/cm<sup>3</sup>
         surface_gravity: 9.247 m/s<sup>2</sup><br />(0.943 g<sub>0</sub>)
         escape_velocity: 23.469 km/s<br />(84,489 km/h)
         rotation_period: 57.980 d
         axial_tilt: 14.82°
         albedo: 0.30
-        temperature: 490 K<br />(217 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0110 Nuaniad D VI f
         type: Icy
         formationType: Captured
@@ -866,14 +866,14 @@ planets:
         radius: 40,650.5 km<br/>(6.381 Yrths)
         surface_area: 2.077 × 10<sup>10</sup> km<sup>2</sup><br/>(40.711 Yrths)
         volume: 2.814 × 10<sup>14</sup> km<sup>3</sup><br/>(259.761 Yrths)
-        mass: 1.970 × 10<sup>26</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 1.970 × 10<sup>26</sup> kg<br />(32.981 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 7.945 m/s<sup>2</sup><br />(0.810 g<sub>0</sub>)
         escape_velocity: 25.432 km/s<br />(91,554 km/h)
         rotation_period: 92.791 d
         axial_tilt: 17.68°
         albedo: 0.30
-        temperature: 445 K<br />(172 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0110 Nuaniad D VI g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -886,14 +886,14 @@ planets:
         radius: 17,094.8 km<br/>(2.683 Yrths)
         surface_area: 3.672 × 10<sup>09</sup> km<sup>2</sup><br/>(7.200 Yrths)
         volume: 2.093 × 10<sup>13</sup> km<sup>3</sup><br/>(19.318 Yrths)
-        mass: 4.513 × 10<sup>25</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 4.513 × 10<sup>25</sup> kg<br />(7.558 Yrths)
         density: 2.157 g/cm<sup>3</sup>
         surface_gravity: 10.294 m/s<sup>2</sup><br />(1.050 g<sub>0</sub>)
         escape_velocity: 18.773 km/s<br />(67,583 km/h)
         rotation_period: 47.519 d
         axial_tilt: 32.49°
         albedo: 0.30
-        temperature: 405 K<br />(132 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0110 Nuaniad D VI h
         type: Ice/rock hybrid
         formationType: Captured
@@ -906,14 +906,14 @@ planets:
         radius: 21,437.9 km<br/>(3.365 Yrths)
         surface_area: 5.775 × 10<sup>09</sup> km<sup>2</sup><br/>(11.323 Yrths)
         volume: 4.127 × 10<sup>13</sup> km<sup>3</sup><br/>(38.100 Yrths)
-        mass: 7.572 × 10<sup>25</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 7.572 × 10<sup>25</sup> kg<br />(12.679 Yrths)
         density: 1.835 g/cm<sup>3</sup>
         surface_gravity: 10.982 m/s<sup>2</sup><br />(1.120 g<sub>0</sub>)
         escape_velocity: 21.714 km/s<br />(78,170 km/h)
         rotation_period: 43.813 d
         axial_tilt: 18.64°
         albedo: 0.30
-        temperature: 386 K<br />(113 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0110 Nuaniad D VI i
         type: Icy
         formationType: Captured
@@ -926,14 +926,14 @@ planets:
         radius: 30,426.5 km<br/>(4.776 Yrths)
         surface_area: 1.163 × 10<sup>10</sup> km<sup>2</sup><br/>(22.808 Yrths)
         volume: 1.180 × 10<sup>14</sup> km<sup>3</sup><br/>(108.926 Yrths)
-        mass: 1.827 × 10<sup>26</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 1.827 × 10<sup>26</sup> kg<br />(30.600 Yrths)
         density: 1.549 g/cm<sup>3</sup>
         surface_gravity: 13.157 m/s<sup>2</sup><br />(1.342 g<sub>0</sub>)
         escape_velocity: 28.315 km/s<br />(101,933 km/h)
         rotation_period: 46.079 d
         axial_tilt: 26.18°
         albedo: 0.30
-        temperature: 368 K<br />(95 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0110 Nuaniad D VI j
         type: Icy
         formationType: Impact formed
@@ -946,14 +946,14 @@ planets:
         radius: 21,132.8 km<br/>(3.317 Yrths)
         surface_area: 5.612 × 10<sup>09</sup> km<sup>2</sup><br/>(11.003 Yrths)
         volume: 3.953 × 10<sup>13</sup> km<sup>3</sup><br/>(36.496 Yrths)
-        mass: 5.893 × 10<sup>25</sup> kg<br />(22.223063950029964 Yrths)
+        mass: 5.893 × 10<sup>25</sup> kg<br />(9.867 Yrths)
         density: 1.491 g/cm<sup>3</sup>
         surface_gravity: 8.794 m/s<sup>2</sup><br />(0.897 g<sub>0</sub>)
         escape_velocity: 19.293 km/s<br />(69,454 km/h)
         rotation_period: 74.036 d
         axial_tilt: 20.05°
         albedo: 0.30
-        temperature: 351 K<br />(78 °C)
+        temperature: 78 K<br />(-195 °C)
   - name: 0110 Nuaniad D VII
     type: Gas giant
     aphelion: 2,731,763,871 km<br />18.260 AU
@@ -965,7 +965,7 @@ planets:
     radius: 222.2 km<br/>(0.035 Yrths)
     surface_area: 6.207 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.598 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.580 × 10<sup>27</sup> kg<br />(264.60558804439137 Yrths)
+    mass: 1.580 × 10<sup>27</sup> kg<br />(264.61 Yrths)
     density: 34364343.527 g/cm<sup>3</sup>
     surface_gravity: 2132325.322 m/s<sup>2</sup><br />(217436.670 g<sub>0</sub>)
     escape_velocity: 974.220 km/s<br />(3,507,191 km/h)
@@ -986,14 +986,14 @@ planets:
         radius: 204,322.6 km<br/>(32.071 Yrths)
         surface_area: 5.246 × 10<sup>11</sup> km<sup>2</sup><br/>(1028.531 Yrths)
         volume: 3.573 × 10<sup>16</sup> km<sup>3</sup><br/>(32985.742 Yrths)
-        mass: 4.794 × 10<sup>28</sup> kg<br />(264.60558804439137 Yrths)
+        mass: 4.794 × 10<sup>28</sup> kg<br />(8027.808 Yrths)
         density: 1.342 g/cm<sup>3</sup>
         surface_gravity: 76.542 m/s<sup>2</sup><br />(7.805 g<sub>0</sub>)
         escape_velocity: 176.978 km/s<br />(637,119 km/h)
         rotation_period: 57.999 d
         axial_tilt: 20.50°
         albedo: 0.30
-        temperature: 325 K<br />(52 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 0110 Nuaniad D VII b
         type: Icy
         formationType: Captured
@@ -1006,14 +1006,14 @@ planets:
         radius: 235,331.0 km<br/>(36.938 Yrths)
         surface_area: 6.959 × 10<sup>11</sup> km<sup>2</sup><br/>(1364.404 Yrths)
         volume: 5.459 × 10<sup>16</sup> km<sup>3</sup><br/>(50398.131 Yrths)
-        mass: 5.808 × 10<sup>28</sup> kg<br />(264.60558804439137 Yrths)
+        mass: 5.808 × 10<sup>28</sup> kg<br />(9725.853 Yrths)
         density: 1.064 g/cm<sup>3</sup>
         surface_gravity: 69.905 m/s<sup>2</sup><br />(7.128 g<sub>0</sub>)
         escape_velocity: 181.511 km/s<br />(653,438 km/h)
         rotation_period: 48.369 d
         axial_tilt: 12.19°
         albedo: 0.30
-        temperature: 269 K<br />(-4 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 0110 Nuaniad D VII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -1026,14 +1026,14 @@ planets:
         radius: 147,824.3 km<br/>(23.203 Yrths)
         surface_area: 2.746 × 10<sup>11</sup> km<sup>2</sup><br/>(538.364 Yrths)
         volume: 1.353 × 10<sup>16</sup> km<sup>3</sup><br/>(12491.500 Yrths)
-        mass: 3.289 × 10<sup>28</sup> kg<br />(264.60558804439137 Yrths)
+        mass: 3.289 × 10<sup>28</sup> kg<br />(5508.148 Yrths)
         density: 2.431 g/cm<sup>3</sup>
         surface_gravity: 100.334 m/s<sup>2</sup><br />(10.231 g<sub>0</sub>)
         escape_velocity: 172.349 km/s<br />(620,455 km/h)
         rotation_period: 46.070 d
         axial_tilt: 18.70°
         albedo: 0.30
-        temperature: 212 K<br />(-61 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 0110 Nuaniad D VII d
         type: Icy
         formationType: Impact formed
@@ -1046,14 +1046,14 @@ planets:
         radius: 374,211.0 km<br/>(58.737 Yrths)
         surface_area: 1.760 × 10<sup>12</sup> km<sup>2</sup><br/>(3449.991 Yrths)
         volume: 2.195 × 10<sup>17</sup> km<sup>3</sup><br/>(202640.843 Yrths)
-        mass: 2.897 × 10<sup>29</sup> kg<br />(264.60558804439137 Yrths)
+        mass: 2.897 × 10<sup>29</sup> kg<br />(48516.922 Yrths)
         density: 1.320 g/cm<sup>3</sup>
         surface_gravity: 137.910 m/s<sup>2</sup><br />(14.063 g<sub>0</sub>)
         escape_velocity: 321.489 km/s<br />(1,157,360 km/h)
         rotation_period: 72.930 d
         axial_tilt: 22.89°
         albedo: 0.30
-        temperature: 184 K<br />(-89 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 0110 Nuaniad D VII e
         type: Ice/rock hybrid
         formationType: Captured
@@ -1066,14 +1066,14 @@ planets:
         radius: 152,897.4 km<br/>(23.999 Yrths)
         surface_area: 2.938 × 10<sup>11</sup> km<sup>2</sup><br/>(575.950 Yrths)
         volume: 1.497 × 10<sup>16</sup> km<sup>3</sup><br/>(13822.211 Yrths)
-        mass: 3.207 × 10<sup>28</sup> kg<br />(264.60558804439137 Yrths)
+        mass: 3.207 × 10<sup>28</sup> kg<br />(5369.789 Yrths)
         density: 2.142 g/cm<sup>3</sup>
         surface_gravity: 91.431 m/s<sup>2</sup><br />(9.323 g<sub>0</sub>)
         escape_velocity: 167.323 km/s<br />(602,364 km/h)
         rotation_period: 58.308 d
         axial_tilt: 26.54°
         albedo: 0.30
-        temperature: 46 K<br />(-227 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 0110 Nuaniad D VII f
         type: Ice/rock hybrid
         formationType: Captured
@@ -1086,14 +1086,14 @@ planets:
         radius: 156,677.0 km<br/>(24.592 Yrths)
         surface_area: 3.085 × 10<sup>11</sup> km<sup>2</sup><br/>(604.777 Yrths)
         volume: 1.611 × 10<sup>16</sup> km<sup>3</sup><br/>(14872.816 Yrths)
-        mass: 3.571 × 10<sup>28</sup> kg<br />(264.60558804439137 Yrths)
+        mass: 3.571 × 10<sup>28</sup> kg<br />(5979.845 Yrths)
         density: 2.217 g/cm<sup>3</sup>
         surface_gravity: 96.965 m/s<sup>2</sup><br />(9.888 g<sub>0</sub>)
         escape_velocity: 174.430 km/s<br />(627,946 km/h)
         rotation_period: 38.738 d
         axial_tilt: 17.46°
         albedo: 0.30
-        temperature: 35 K<br />(-239 °C)
+        temperature: 59 K<br />(-214 °C)
   - name: 0110 Nuaniad D VIII
     type: Ice giant
     aphelion: 4,748,054,889 km<br />31.738 AU
@@ -1105,14 +1105,14 @@ planets:
     radius: 29,543.9 km<br/>(4.637 Yrths)
     surface_area: 1.097 × 10<sup>10</sup> km<sup>2</sup><br/>(21.504 Yrths)
     volume: 1.080 × 10<sup>14</sup> km<sup>3</sup><br/>(99.719 Yrths)
-    mass: 1.493 × 10<sup>26</sup> kg<br />(24.995841945188477 Yrths)
+    mass: 1.493 × 10<sup>26</sup> kg<br />(25.00 Yrths)
     density: 1.382 g/cm<sup>3</sup>
     surface_gravity: 11.399 m/s<sup>2</sup><br />(1.162 g<sub>0</sub>)
     escape_velocity: 25.970 km/s<br />(93,493 km/h)
     rotation_period: 0.314 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 81 K<br />(-192 °C)
+    temperature: 72 K<br />(-201 °C)
     composition:
       - 86.7457% hydrogen
       - 13.2543% helium
@@ -1129,14 +1129,14 @@ planets:
         radius: 32,671.2 km<br/>(5.128 Yrths)
         surface_area: 1.341 × 10<sup>10</sup> km<sup>2</sup><br/>(26.297 Yrths)
         volume: 1.461 × 10<sup>14</sup> km<sup>3</sup><br/>(134.856 Yrths)
-        mass: 3.071 × 10<sup>26</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 3.071 × 10<sup>26</sup> kg<br />(51.423 Yrths)
         density: 2.102 g/cm<sup>3</sup>
         surface_gravity: 19.176 m/s<sup>2</sup><br />(1.955 g<sub>0</sub>)
         escape_velocity: 35.422 km/s<br />(127,520 km/h)
         rotation_period: 67.229 d
         axial_tilt: 17.32°
         albedo: 0.30
-        temperature: 363 K<br />(90 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0110 Nuaniad D VIII b
         type: Ice/rock hybrid
         formationType: Captured
@@ -1149,14 +1149,14 @@ planets:
         radius: 10,496.6 km<br/>(1.648 Yrths)
         surface_area: 1.385 × 10<sup>09</sup> km<sup>2</sup><br/>(2.714 Yrths)
         volume: 4.844 × 10<sup>12</sup> km<sup>3</sup><br/>(4.472 Yrths)
-        mass: 1.225 × 10<sup>25</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 1.225 × 10<sup>25</sup> kg<br />(2.052 Yrths)
         density: 2.530 g/cm<sup>3</sup>
         surface_gravity: 7.413 m/s<sup>2</sup><br />(0.756 g<sub>0</sub>)
         escape_velocity: 12.484 km/s<br />(44,941 km/h)
         rotation_period: 32.431 d
         axial_tilt: 13.15°
         albedo: 0.30
-        temperature: 330 K<br />(57 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0110 Nuaniad D VIII c
         type: Icy
         formationType: Impact formed
@@ -1169,14 +1169,14 @@ planets:
         radius: 54,871.2 km<br/>(8.613 Yrths)
         surface_area: 3.784 × 10<sup>10</sup> km<sup>2</sup><br/>(74.178 Yrths)
         volume: 6.920 × 10<sup>14</sup> km<sup>3</sup><br/>(638.866 Yrths)
-        mass: 7.462 × 10<sup>26</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 7.462 × 10<sup>26</sup> kg<br />(124.943 Yrths)
         density: 1.078 g/cm<sup>3</sup>
         surface_gravity: 16.518 m/s<sup>2</sup><br />(1.684 g<sub>0</sub>)
         escape_velocity: 42.605 km/s<br />(153,378 km/h)
         rotation_period: 88.511 d
         axial_tilt: 18.05°
         albedo: 0.30
-        temperature: 315 K<br />(42 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0110 Nuaniad D VIII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -1189,14 +1189,14 @@ planets:
         radius: 13,789.8 km<br/>(2.164 Yrths)
         surface_area: 2.390 × 10<sup>09</sup> km<sup>2</sup><br/>(4.685 Yrths)
         volume: 1.098 × 10<sup>13</sup> km<sup>3</sup><br/>(10.140 Yrths)
-        mass: 2.315 × 10<sup>25</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 2.315 × 10<sup>25</sup> kg<br />(3.876 Yrths)
         density: 2.107 g/cm<sup>3</sup>
         surface_gravity: 8.113 m/s<sup>2</sup><br />(0.827 g<sub>0</sub>)
         escape_velocity: 14.969 km/s<br />(53,887 km/h)
         rotation_period: 43.346 d
         axial_tilt: 30.78°
         albedo: 0.30
-        temperature: 300 K<br />(27 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0110 Nuaniad D VIII e
         type: Icy
         formationType: Captured
@@ -1209,14 +1209,14 @@ planets:
         radius: 18,702.4 km<br/>(2.936 Yrths)
         surface_area: 4.395 × 10<sup>09</sup> km<sup>2</sup><br/>(8.617 Yrths)
         volume: 2.740 × 10<sup>13</sup> km<sup>3</sup><br/>(25.297 Yrths)
-        mass: 1.925 × 10<sup>25</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 1.925 × 10<sup>25</sup> kg<br />(3.223 Yrths)
         density: 0.703 g/cm<sup>3</sup>
         surface_gravity: 3.668 m/s<sup>2</sup><br />(0.374 g<sub>0</sub>)
         escape_velocity: 11.722 km/s<br />(42,198 km/h)
         rotation_period: 79.092 d
         axial_tilt: 20.04°
         albedo: 0.30
-        temperature: 286 K<br />(13 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0110 Nuaniad D VIII f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1229,14 +1229,14 @@ planets:
         radius: 24,068.7 km<br/>(3.778 Yrths)
         surface_area: 7.280 × 10<sup>09</sup> km<sup>2</sup><br/>(14.272 Yrths)
         volume: 5.840 × 10<sup>13</sup> km<sup>3</sup><br/>(53.918 Yrths)
-        mass: 1.210 × 10<sup>26</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 1.210 × 10<sup>26</sup> kg<br />(20.254 Yrths)
         density: 2.071 g/cm<sup>3</sup>
         surface_gravity: 13.917 m/s<sup>2</sup><br />(1.419 g<sub>0</sub>)
         escape_velocity: 25.900 km/s<br />(93,242 km/h)
         rotation_period: 44.758 d
         axial_tilt: 15.66°
         albedo: 0.30
-        temperature: 273 K<br />(-0 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0110 Nuaniad D VIII g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1249,14 +1249,14 @@ planets:
         radius: 38,045.4 km<br/>(5.972 Yrths)
         surface_area: 1.819 × 10<sup>10</sup> km<sup>2</sup><br/>(35.661 Yrths)
         volume: 2.307 × 10<sup>14</sup> km<sup>3</sup><br/>(212.952 Yrths)
-        mass: 4.932 × 10<sup>26</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 4.932 × 10<sup>26</sup> kg<br />(82.591 Yrths)
         density: 2.138 g/cm<sup>3</sup>
         surface_gravity: 22.712 m/s<sup>2</sup><br />(2.316 g<sub>0</sub>)
         escape_velocity: 41.600 km/s<br />(149,760 km/h)
         rotation_period: 33.864 d
         axial_tilt: 12.97°
         albedo: 0.30
-        temperature: 260 K<br />(-13 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0110 Nuaniad D VIII h
         type: Ice/rock hybrid
         formationType: Captured
@@ -1269,14 +1269,14 @@ planets:
         radius: 18,447.3 km<br/>(2.896 Yrths)
         surface_area: 4.276 × 10<sup>09</sup> km<sup>2</sup><br/>(8.384 Yrths)
         volume: 2.630 × 10<sup>13</sup> km<sup>3</sup><br/>(24.276 Yrths)
-        mass: 4.675 × 10<sup>25</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 4.675 × 10<sup>25</sup> kg<br />(7.828 Yrths)
         density: 1.778 g/cm<sup>3</sup>
         surface_gravity: 9.157 m/s<sup>2</sup><br />(0.934 g<sub>0</sub>)
         escape_velocity: 18.393 km/s<br />(66,214 km/h)
         rotation_period: 38.590 d
         axial_tilt: 13.66°
         albedo: 0.30
-        temperature: 248 K<br />(-25 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0110 Nuaniad D VIII i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1289,14 +1289,14 @@ planets:
         radius: 20,604.5 km<br/>(3.234 Yrths)
         surface_area: 5.335 × 10<sup>09</sup> km<sup>2</sup><br/>(10.459 Yrths)
         volume: 3.664 × 10<sup>13</sup> km<sup>3</sup><br/>(33.827 Yrths)
-        mass: 5.994 × 10<sup>25</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 5.994 × 10<sup>25</sup> kg<br />(10.037 Yrths)
         density: 1.636 g/cm<sup>3</sup>
         surface_gravity: 9.411 m/s<sup>2</sup><br />(0.960 g<sub>0</sub>)
         escape_velocity: 19.706 km/s<br />(70,942 km/h)
         rotation_period: 38.883 d
         axial_tilt: 18.44°
         albedo: 0.30
-        temperature: 237 K<br />(-36 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0110 Nuaniad D VIII j
         type: Icy
         formationType: Accreted
@@ -1309,14 +1309,14 @@ planets:
         radius: 29,561.3 km<br/>(4.640 Yrths)
         surface_area: 1.098 × 10<sup>10</sup> km<sup>2</sup><br/>(21.529 Yrths)
         volume: 1.082 × 10<sup>14</sup> km<sup>3</sup><br/>(99.896 Yrths)
-        mass: 1.793 × 10<sup>26</sup> kg<br />(24.995841945188477 Yrths)
+        mass: 1.793 × 10<sup>26</sup> kg<br />(30.024 Yrths)
         density: 1.657 g/cm<sup>3</sup>
         surface_gravity: 13.676 m/s<sup>2</sup><br />(1.395 g<sub>0</sub>)
         escape_velocity: 28.454 km/s<br />(102,436 km/h)
         rotation_period: 46.080 d
         axial_tilt: 10.37°
         albedo: 0.30
-        temperature: 226 K<br />(-48 °C)
+        temperature: 44 K<br />(-229 °C)
   - name: 0110 Nuaniad D IX
     type: Ice giant
     aphelion: 9,984,775,189 km<br />66.743 AU
@@ -1328,14 +1328,14 @@ planets:
     radius: 20,926.8 km<br/>(3.285 Yrths)
     surface_area: 5.503 × 10<sup>09</sup> km<sup>2</sup><br/>(10.789 Yrths)
     volume: 3.839 × 10<sup>13</sup> km<sup>3</sup><br/>(35.439 Yrths)
-    mass: 6.262 × 10<sup>25</sup> kg<br />(10.485466330614734 Yrths)
+    mass: 6.262 × 10<sup>25</sup> kg<br />(10.49 Yrths)
     density: 1.631 g/cm<sup>3</sup>
     surface_gravity: 9.531 m/s<sup>2</sup><br />(0.972 g<sub>0</sub>)
     escape_velocity: 19.986 km/s<br />(71,949 km/h)
     rotation_period: 0.355 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 63 K<br />(-210 °C)
+    temperature: 58 K<br />(-216 °C)
     composition:
       - 80.4513% hydrogen
       - 16.5245% helium
@@ -1355,14 +1355,14 @@ planets:
         radius: 21,319.1 km<br/>(3.346 Yrths)
         surface_area: 5.711 × 10<sup>09</sup> km<sup>2</sup><br/>(11.198 Yrths)
         volume: 4.059 × 10<sup>13</sup> km<sup>3</sup><br/>(37.470 Yrths)
-        mass: 4.941 × 10<sup>25</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 4.941 × 10<sup>25</sup> kg<br />(8.273 Yrths)
         density: 1.217 g/cm<sup>3</sup>
         surface_gravity: 7.245 m/s<sup>2</sup><br />(0.739 g<sub>0</sub>)
         escape_velocity: 17.588 km/s<br />(63,318 km/h)
         rotation_period: 64.607 d
         axial_tilt: 13.42°
         albedo: 0.30
-        temperature: 317 K<br />(44 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX b
         type: Icy
         formationType: Impact formed
@@ -1375,14 +1375,14 @@ planets:
         radius: 18,233.6 km<br/>(2.862 Yrths)
         surface_area: 4.178 × 10<sup>09</sup> km<sup>2</sup><br/>(8.191 Yrths)
         volume: 2.539 × 10<sup>13</sup> km<sup>3</sup><br/>(23.442 Yrths)
-        mass: 2.190 × 10<sup>25</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 2.190 × 10<sup>25</sup> kg<br />(3.667 Yrths)
         density: 0.862 g/cm<sup>3</sup>
         surface_gravity: 4.390 m/s<sup>2</sup><br />(0.448 g<sub>0</sub>)
         escape_velocity: 12.661 km/s<br />(45,580 km/h)
         rotation_period: 103.716 d
         axial_tilt: 21.31°
         albedo: 0.30
-        temperature: 302 K<br />(29 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX c
         type: Ice/rock hybrid
         formationType: Captured
@@ -1395,14 +1395,14 @@ planets:
         radius: 9,538.3 km<br/>(1.497 Yrths)
         surface_area: 1.143 × 10<sup>09</sup> km<sup>2</sup><br/>(2.241 Yrths)
         volume: 3.635 × 10<sup>12</sup> km<sup>3</sup><br/>(3.356 Yrths)
-        mass: 6.956 × 10<sup>24</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 6.956 × 10<sup>24</sup> kg<br />(1.165 Yrths)
         density: 1.914 g/cm<sup>3</sup>
         surface_gravity: 5.096 m/s<sup>2</sup><br />(0.520 g<sub>0</sub>)
         escape_velocity: 9.867 km/s<br />(35,520 km/h)
         rotation_period: 58.706 d
         axial_tilt: 7.12°
         albedo: 0.30
-        temperature: 288 K<br />(15 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX d
         type: Ice/rock hybrid
         formationType: Captured
@@ -1415,14 +1415,14 @@ planets:
         radius: 14,211.1 km<br/>(2.231 Yrths)
         surface_area: 2.538 × 10<sup>09</sup> km<sup>2</sup><br/>(4.976 Yrths)
         volume: 1.202 × 10<sup>13</sup> km<sup>3</sup><br/>(11.098 Yrths)
-        mass: 2.634 × 10<sup>25</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 2.634 × 10<sup>25</sup> kg<br />(4.411 Yrths)
         density: 2.191 g/cm<sup>3</sup>
         surface_gravity: 8.694 m/s<sup>2</sup><br />(0.887 g<sub>0</sub>)
         escape_velocity: 15.730 km/s<br />(56,629 km/h)
         rotation_period: 47.137 d
         axial_tilt: 30.34°
         albedo: 0.30
-        temperature: 262 K<br />(-11 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX e
         type: Ice/rock hybrid
         formationType: Captured
@@ -1435,14 +1435,14 @@ planets:
         radius: 13,123.5 km<br/>(2.060 Yrths)
         surface_area: 2.164 × 10<sup>09</sup> km<sup>2</sup><br/>(4.243 Yrths)
         volume: 9.467 × 10<sup>12</sup> km<sup>3</sup><br/>(8.740 Yrths)
-        mass: 2.050 × 10<sup>25</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 2.050 × 10<sup>25</sup> kg<br />(3.433 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 7.936 m/s<sup>2</sup><br />(0.809 g<sub>0</sub>)
         escape_velocity: 14.442 km/s<br />(51,991 km/h)
         rotation_period: 36.577 d
         axial_tilt: 20.22°
         albedo: 0.30
-        temperature: 250 K<br />(-23 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1455,14 +1455,14 @@ planets:
         radius: 5,895.7 km<br/>(0.925 Yrths)
         surface_area: 4.368 × 10<sup>08</sup> km<sup>2</sup><br/>(0.856 Yrths)
         volume: 8.584 × 10<sup>11</sup> km<sup>3</sup><br/>(0.792 Yrths)
-        mass: 1.971 × 10<sup>24</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 1.971 × 10<sup>24</sup> kg<br />(0.330 Yrths)
         density: 2.296 g/cm<sup>3</sup>
         surface_gravity: 3.779 m/s<sup>2</sup><br />(0.385 g<sub>0</sub>)
         escape_velocity: 6.680 km/s<br />(24,048 km/h)
         rotation_period: 61.600 d
         axial_tilt: 12.03°
         albedo: 0.30
-        temperature: 238 K<br />(-35 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX g
         type: Icy
         formationType: Captured
@@ -1475,14 +1475,14 @@ planets:
         radius: 17,842.5 km<br/>(2.801 Yrths)
         surface_area: 4.001 × 10<sup>09</sup> km<sup>2</sup><br/>(7.843 Yrths)
         volume: 2.379 × 10<sup>13</sup> km<sup>3</sup><br/>(21.966 Yrths)
-        mass: 3.497 × 10<sup>25</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 3.497 × 10<sup>25</sup> kg<br />(5.855 Yrths)
         density: 1.470 g/cm<sup>3</sup>
         surface_gravity: 7.321 m/s<sup>2</sup><br />(0.747 g<sub>0</sub>)
         escape_velocity: 16.174 km/s<br />(58,226 km/h)
         rotation_period: 53.244 d
         axial_tilt: 21.77°
         albedo: 0.30
-        temperature: 227 K<br />(-46 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1495,14 +1495,14 @@ planets:
         radius: 5,761.4 km<br/>(0.904 Yrths)
         surface_area: 4.171 × 10<sup>08</sup> km<sup>2</sup><br/>(0.818 Yrths)
         volume: 8.011 × 10<sup>11</sup> km<sup>3</sup><br/>(0.740 Yrths)
-        mass: 1.880 × 10<sup>24</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 1.880 × 10<sup>24</sup> kg<br />(0.315 Yrths)
         density: 2.347 g/cm<sup>3</sup>
         surface_gravity: 3.775 m/s<sup>2</sup><br />(0.385 g<sub>0</sub>)
         escape_velocity: 6.600 km/s<br />(23,759 km/h)
         rotation_period: 35.338 d
         axial_tilt: 28.30°
         albedo: 0.30
-        temperature: 217 K<br />(-57 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1515,14 +1515,14 @@ planets:
         radius: 14,940.3 km<br/>(2.345 Yrths)
         surface_area: 2.805 × 10<sup>09</sup> km<sup>2</sup><br/>(5.499 Yrths)
         volume: 1.397 × 10<sup>13</sup> km<sup>3</sup><br/>(12.896 Yrths)
-        mass: 2.516 × 10<sup>25</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 2.516 × 10<sup>25</sup> kg<br />(4.213 Yrths)
         density: 1.801 g/cm<sup>3</sup>
         surface_gravity: 7.513 m/s<sup>2</sup><br />(0.766 g<sub>0</sub>)
         escape_velocity: 14.993 km/s<br />(53,976 km/h)
         rotation_period: 42.179 d
         axial_tilt: 14.44°
         albedo: 0.30
-        temperature: 206 K<br />(-67 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1535,14 +1535,14 @@ planets:
         radius: 18,738.8 km<br/>(2.941 Yrths)
         surface_area: 4.413 × 10<sup>09</sup> km<sup>2</sup><br/>(8.651 Yrths)
         volume: 2.756 × 10<sup>13</sup> km<sup>3</sup><br/>(25.445 Yrths)
-        mass: 6.362 × 10<sup>25</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 6.362 × 10<sup>25</sup> kg<br />(10.653 Yrths)
         density: 2.308 g/cm<sup>3</sup>
         surface_gravity: 12.076 m/s<sup>2</sup><br />(1.231 g<sub>0</sub>)
         escape_velocity: 21.288 km/s<br />(76,637 km/h)
         rotation_period: 61.331 d
         axial_tilt: 15.80°
         albedo: 0.30
-        temperature: 197 K<br />(-76 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX k
         type: Icy
         formationType: Captured
@@ -1555,14 +1555,14 @@ planets:
         radius: 15,002.4 km<br/>(2.355 Yrths)
         surface_area: 2.828 × 10<sup>09</sup> km<sup>2</sup><br/>(5.545 Yrths)
         volume: 1.414 × 10<sup>13</sup> km<sup>3</sup><br/>(13.057 Yrths)
-        mass: 2.076 × 10<sup>25</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 2.076 × 10<sup>25</sup> kg<br />(3.477 Yrths)
         density: 1.468 g/cm<sup>3</sup>
         surface_gravity: 6.149 m/s<sup>2</sup><br />(0.627 g<sub>0</sub>)
         escape_velocity: 13.592 km/s<br />(48,932 km/h)
         rotation_period: 46.002 d
         axial_tilt: 14.70°
         albedo: 0.30
-        temperature: 188 K<br />(-85 °C)
+        temperature: 34 K<br />(-240 °C)
       - name: 0110 Nuaniad D IX l
         type: Ice/rock hybrid
         formationType: Captured
@@ -1575,12 +1575,12 @@ planets:
         radius: 7,177.1 km<br/>(1.127 Yrths)
         surface_area: 6.473 × 10<sup>08</sup> km<sup>2</sup><br/>(1.269 Yrths)
         volume: 1.549 × 10<sup>12</sup> km<sup>3</sup><br/>(1.430 Yrths)
-        mass: 3.667 × 10<sup>24</sup> kg<br />(10.485466330614734 Yrths)
+        mass: 3.667 × 10<sup>24</sup> kg<br />(0.614 Yrths)
         density: 2.368 g/cm<sup>3</sup>
         surface_gravity: 4.745 m/s<sup>2</sup><br />(0.484 g<sub>0</sub>)
         escape_velocity: 8.259 km/s<br />(29,732 km/h)
         rotation_period: 37.462 d
         axial_tilt: 26.67°
         albedo: 0.30
-        temperature: 179 K<br />(-94 °C)
+        temperature: 34 K<br />(-240 °C)
 ---

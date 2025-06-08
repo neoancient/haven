@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3923 Switheriad A is a star in the constellation Swither
+      3923 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 408.70 ly
 apparent_magnitude: 7.48
 absolute_magnitude: 1.99

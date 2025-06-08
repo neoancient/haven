@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Kird B is a star in the constellation Swither
+      Kird B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 1512.61 ly
 apparent_magnitude: 5.11
 absolute_magnitude: -3.22

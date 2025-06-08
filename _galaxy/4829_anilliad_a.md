@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4829 Anilliad A is a star in the constellation Anil
+      4829 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 635.96 ly
 apparent_magnitude: 7.46
 absolute_magnitude: 1.01

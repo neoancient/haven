@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      811 Rukentuaiad A is a star in the constellation Rukentua
+      811 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 1034.93 ly
 apparent_magnitude: 7.35
 absolute_magnitude: -0.16

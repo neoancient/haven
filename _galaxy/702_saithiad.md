@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      702 Saithiad is a star in the constellation Saith
+      702 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 339.73 ly
 apparent_magnitude: 9.64
 absolute_magnitude: 4.56

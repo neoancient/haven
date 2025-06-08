@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1045 Niniunniad is a star in the constellation Niniun
+      1045 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 617.07 ly
 apparent_magnitude: 14.77
 absolute_magnitude: 8.38

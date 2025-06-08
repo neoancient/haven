@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Darni B is a star in the constellation Nurranpug
+      Darni B is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 310.23 ly
 apparent_magnitude: 14.85
 absolute_magnitude: 9.96

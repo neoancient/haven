@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1852 Dialkeshiad A is a star in the constellation Dialkes
+      1852 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 336.03 ly
 apparent_magnitude: 8.42
 absolute_magnitude: 3.36

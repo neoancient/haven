@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      980 Oniad is a star in the constellation Oni
+      980 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 219.69 ly
 apparent_magnitude: 8.92
 absolute_magnitude: 4.78

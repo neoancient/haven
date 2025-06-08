@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1633 Nwaliad is a star in the constellation Nwal
+      1633 Nwaliad is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 596.04 ly
 apparent_magnitude: 11.26
 absolute_magnitude: 4.95

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2791 Arkothiad is a star in the constellation Arkoth
+      2791 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 714.19 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 4.70

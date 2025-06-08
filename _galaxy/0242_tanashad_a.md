@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0242 Tanashad A is a star in the constellation Tanas
+      0242 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 2573.90 ly
 apparent_magnitude: 6.26
 absolute_magnitude: -3.23

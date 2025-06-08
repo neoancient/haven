@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0003 Shyad is a star in the constellation Shy
+      0003 Shyad is a star in the constellation <a href="shy.html">Shy</a>
 distance: 206.30 ly
 apparent_magnitude: 5.59
 absolute_magnitude: 1.58
@@ -31,14 +31,14 @@ planets:
     radius: 5,050.5 km<br/>(0.793 Yrths)
     surface_area: 3.205 × 10<sup>08</sup> km<sup>2</sup><br/>(0.628 Yrths)
     volume: 5.396 × 10<sup>11</sup> km<sup>3</sup><br/>(0.498 Yrths)
-    mass: 3.191 × 10<sup>24</sup> kg<br />(0.5342610432050909 Yrths)
+    mass: 3.191 × 10<sup>24</sup> kg<br />(0.53 Yrths)
     density: 5.913 g/cm<sup>3</sup>
     surface_gravity: 8.337 m/s<sup>2</sup><br />(0.850 g<sub>0</sub>)
     escape_velocity: 9.183 km/s<br />(33,059 km/h)
     rotation_period: 1.289 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 356 K<br />(83 °C)
+    temperature: 467 K<br />(194 °C)
     surface_pressure: 27 kPa<br />(0 atm)
     composition:
       - 96.2499% methane
@@ -58,12 +58,12 @@ planets:
         radius: 1,983.5 km<br/>(0.311 Yrths)
         surface_area: 4.944 × 10<sup>07</sup> km<sup>2</sup><br/>(0.097 Yrths)
         volume: 3.269 × 10<sup>10</sup> km<sup>3</sup><br/>(0.030 Yrths)
-        mass: 6.593 × 10<sup>22</sup> kg<br />(0.5342610432050909 Yrths)
+        mass: 6.593 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 2.017 g/cm<sup>3</sup>
         surface_gravity: 1.117 m/s<sup>2</sup><br />(0.114 g<sub>0</sub>)
         escape_velocity: 2.106 km/s<br />(7,583 km/h)
         rotation_period: 47.821 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 5363 K<br />(5090 °C)
+        temperature: 305 K<br />(32 °C)
 ---

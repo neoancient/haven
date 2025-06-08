@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3224 Saithiad is a star in the constellation Saith
+      3224 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 868.60 ly
 apparent_magnitude: 11.63
 absolute_magnitude: 4.50

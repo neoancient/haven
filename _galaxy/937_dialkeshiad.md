@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      937 Dialkeshiad is a star in the constellation Dialkes
+      937 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 340.80 ly
 apparent_magnitude: 10.38
 absolute_magnitude: 5.29

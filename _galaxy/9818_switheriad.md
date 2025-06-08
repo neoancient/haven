@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9818 Switheriad is a star in the constellation Swither
+      9818 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 221.92 ly
 apparent_magnitude: 11.30
 absolute_magnitude: 7.14

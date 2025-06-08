@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      122 Nurranpugiad is a star in the constellation Nurranpug
+      122 Nurranpugiad is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 376.61 ly
 apparent_magnitude: 7.22
 absolute_magnitude: 1.91
@@ -31,14 +31,14 @@ planets:
     radius: 10,543.9 km<br/>(1.655 Yrths)
     surface_area: 1.397 × 10<sup>09</sup> km<sup>2</sup><br/>(2.739 Yrths)
     volume: 4.910 × 10<sup>12</sup> km<sup>3</sup><br/>(4.533 Yrths)
-    mass: 3.045 × 10<sup>25</sup> kg<br />(5.098520220483758 Yrths)
+    mass: 3.045 × 10<sup>25</sup> kg<br />(5.10 Yrths)
     density: 6.201 g/cm<sup>3</sup>
     surface_gravity: 18.255 m/s<sup>2</sup><br />(1.861 g<sub>0</sub>)
     escape_velocity: 19.634 km/s<br />(70,681 km/h)
     rotation_period: 0.564 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 764 K<br />(491 °C)
+    temperature: 2101 K<br />(1828 °C)
     surface_pressure: 3,639 kPa<br />(36 atm)
     composition:
       - 88.3896% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 11,075.7 km<br/>(1.738 Yrths)
         surface_area: 1.542 × 10<sup>09</sup> km<sup>2</sup><br/>(3.022 Yrths)
         volume: 5.691 × 10<sup>12</sup> km<sup>3</sup><br/>(5.254 Yrths)
-        mass: 1.301 × 10<sup>25</sup> kg<br />(5.098520220483758 Yrths)
+        mass: 1.301 × 10<sup>25</sup> kg<br />(2.178 Yrths)
         density: 2.286 g/cm<sup>3</sup>
         surface_gravity: 7.068 m/s<sup>2</sup><br />(0.721 g<sub>0</sub>)
         escape_velocity: 12.521 km/s<br />(45,075 km/h)
         rotation_period: 43.460 d
         axial_tilt: 21.58°
         albedo: 0.30
-        temperature: 6145 K<br />(5872 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 122 Nurranpugiad I b
         type: Rocky
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 6,375.0 km<br/>(1.001 Yrths)
         surface_area: 5.107 × 10<sup>08</sup> km<sup>2</sup><br/>(1.001 Yrths)
         volume: 1.085 × 10<sup>12</sup> km<sup>3</sup><br/>(1.002 Yrths)
-        mass: 3.345 × 10<sup>24</sup> kg<br />(5.098520220483758 Yrths)
+        mass: 3.345 × 10<sup>24</sup> kg<br />(0.560 Yrths)
         density: 3.083 g/cm<sup>3</sup>
         surface_gravity: 5.487 m/s<sup>2</sup><br />(0.559 g<sub>0</sub>)
         escape_velocity: 8.370 km/s<br />(30,130 km/h)
         rotation_period: 32.623 d
         axial_tilt: 9.27°
         albedo: 0.30
-        temperature: 5859 K<br />(5586 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 122 Nurranpugiad I c
         type: Asteroid
         formationType: Captured
@@ -97,12 +97,12 @@ planets:
         radius: 5,769.0 km<br/>(0.906 Yrths)
         surface_area: 4.182 × 10<sup>08</sup> km<sup>2</sup><br/>(0.820 Yrths)
         volume: 8.042 × 10<sup>11</sup> km<sup>3</sup><br/>(0.742 Yrths)
-        mass: 1.783 × 10<sup>24</sup> kg<br />(5.098520220483758 Yrths)
+        mass: 1.783 × 10<sup>24</sup> kg<br />(0.299 Yrths)
         density: 2.217 g/cm<sup>3</sup>
         surface_gravity: 3.571 m/s<sup>2</sup><br />(0.364 g<sub>0</sub>)
         escape_velocity: 6.424 km/s<br />(23,125 km/h)
         rotation_period: 33.675 d
         axial_tilt: 17.02°
         albedo: 0.30
-        temperature: 5586 K<br />(5313 °C)
+        temperature: 394 K<br />(121 °C)
 ---

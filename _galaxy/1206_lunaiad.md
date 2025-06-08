@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1206 Lunaiad is a star in the constellation Luna
+      1206 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 325.15 ly
 apparent_magnitude: 10.33
 absolute_magnitude: 5.34

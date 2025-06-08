@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3624 Geardiad A is a star in the constellation Geard
+      3624 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1134.26 ly
 apparent_magnitude: 6.77
 absolute_magnitude: -0.93

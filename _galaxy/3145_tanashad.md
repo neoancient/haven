@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3145 Tanashad is a star in the constellation Tanas
+      3145 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 192.33 ly
 apparent_magnitude: 8.88
 absolute_magnitude: 5.02

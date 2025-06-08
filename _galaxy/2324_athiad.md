@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2324 Athiad is a star in the constellation Ath
+      2324 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 888.11 ly
 apparent_magnitude: 11.68
 absolute_magnitude: 4.50

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      576 Narashiad is a star in the constellation Naras
+      576 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 749.74 ly
 apparent_magnitude: 7.03
 absolute_magnitude: 0.23
@@ -31,14 +31,14 @@ planets:
     radius: 208.6 km<br/>(0.033 Yrths)
     surface_area: 5.467 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.801 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.238 × 10<sup>27</sup> kg<br />(207.2704635920684 Yrths)
+    mass: 1.238 × 10<sup>27</sup> kg<br />(207.27 Yrths)
     density: 32564987.719 g/cm<sup>3</sup>
     surface_gravity: 1896392.277 m/s<sup>2</sup><br />(193378.195 g<sub>0</sub>)
     escape_velocity: 890.041 km/s<br />(3,204,149 km/h)
     rotation_period: 0.244 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2375 K<br />(2102 °C)
+    temperature: 2342 K<br />(2068 °C)
     composition:
       - 77.2137% hydrogen
       - 18.4582% helium
@@ -57,14 +57,14 @@ planets:
         radius: 157,043.4 km<br/>(24.650 Yrths)
         surface_area: 3.099 × 10<sup>11</sup> km<sup>2</sup><br/>(607.609 Yrths)
         volume: 1.622 × 10<sup>16</sup> km<sup>3</sup><br/>(14977.407 Yrths)
-        mass: 3.017 × 10<sup>28</sup> kg<br />(207.2704635920684 Yrths)
+        mass: 3.017 × 10<sup>28</sup> kg<br />(5051.407 Yrths)
         density: 1.859 g/cm<sup>3</sup>
         surface_gravity: 81.528 m/s<sup>2</sup><br />(8.314 g<sub>0</sub>)
         escape_velocity: 160.130 km/s<br />(576,470 km/h)
         rotation_period: 39.248 d
         axial_tilt: 11.27°
         albedo: 0.30
-        temperature: 3222 K<br />(2949 °C)
+        temperature: 558 K<br />(285 °C)
       - name: 576 Narashiad I b
         type: Icy
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 163,890.1 km<br/>(25.724 Yrths)
         surface_area: 3.375 × 10<sup>11</sup> km<sup>2</sup><br/>(661.744 Yrths)
         volume: 1.844 × 10<sup>16</sup> km<sup>3</sup><br/>(17022.958 Yrths)
-        mass: 2.509 × 10<sup>28</sup> kg<br />(207.2704635920684 Yrths)
+        mass: 2.509 × 10<sup>28</sup> kg<br />(4201.809 Yrths)
         density: 1.361 g/cm<sup>3</sup>
         surface_gravity: 62.268 m/s<sup>2</sup><br />(6.350 g<sub>0</sub>)
         escape_velocity: 142.962 km/s<br />(514,662 km/h)
         rotation_period: 76.930 d
         axial_tilt: 13.37°
         albedo: 0.30
-        temperature: 3072 K<br />(2799 °C)
+        temperature: 558 K<br />(285 °C)
       - name: 576 Narashiad I c
         type: Rocky
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 120,039.2 km<br/>(18.842 Yrths)
         surface_area: 1.811 × 10<sup>11</sup> km<sup>2</sup><br/>(355.002 Yrths)
         volume: 7.245 × 10<sup>15</sup> km<sup>3</sup><br/>(6688.780 Yrths)
-        mass: 2.468 × 10<sup>28</sup> kg<br />(207.2704635920684 Yrths)
+        mass: 2.468 × 10<sup>28</sup> kg<br />(4133.097 Yrths)
         density: 3.407 g/cm<sup>3</sup>
         surface_gravity: 114.173 m/s<sup>2</sup><br />(11.642 g<sub>0</sub>)
         escape_velocity: 165.674 km/s<br />(596,426 km/h)
         rotation_period: 31.082 d
         axial_tilt: 16.54°
         albedo: 0.30
-        temperature: 2929 K<br />(2656 °C)
+        temperature: 558 K<br />(285 °C)
       - name: 576 Narashiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 183,847.2 km<br/>(28.857 Yrths)
         surface_area: 4.247 × 10<sup>11</sup> km<sup>2</sup><br/>(832.720 Yrths)
         volume: 2.603 × 10<sup>16</sup> km<sup>3</sup><br/>(24029.702 Yrths)
-        mass: 5.047 × 10<sup>28</sup> kg<br />(207.2704635920684 Yrths)
+        mass: 5.047 × 10<sup>28</sup> kg<br />(8450.989 Yrths)
         density: 1.939 g/cm<sup>3</sup>
         surface_gravity: 99.524 m/s<sup>2</sup><br />(10.149 g<sub>0</sub>)
         escape_velocity: 191.427 km/s<br />(689,137 km/h)
         rotation_period: 44.486 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 2421 K<br />(2148 °C)
+        temperature: 558 K<br />(285 °C)
       - name: 576 Narashiad I e
         type: Dwarf planet
         formationType: Impact formed
@@ -137,14 +137,14 @@ planets:
         radius: 191,510.7 km<br/>(30.060 Yrths)
         surface_area: 4.609 × 10<sup>11</sup> km<sup>2</sup><br/>(903.589 Yrths)
         volume: 2.942 × 10<sup>16</sup> km<sup>3</sup><br/>(27161.648 Yrths)
-        mass: 6.180 × 10<sup>28</sup> kg<br />(207.2704635920684 Yrths)
+        mass: 6.180 × 10<sup>28</sup> kg<br />(10347.612 Yrths)
         density: 2.100 g/cm<sup>3</sup>
         surface_gravity: 112.303 m/s<sup>2</sup><br />(11.452 g<sub>0</sub>)
         escape_velocity: 207.540 km/s<br />(747,143 km/h)
         rotation_period: 34.798 d
         axial_tilt: 11.56°
         albedo: 0.30
-        temperature: 2098 K<br />(1825 °C)
+        temperature: 558 K<br />(285 °C)
       - name: 576 Narashiad I f
         type: Icy
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 205,954.6 km<br/>(32.327 Yrths)
         surface_area: 5.330 × 10<sup>11</sup> km<sup>2</sup><br/>(1045.028 Yrths)
         volume: 3.659 × 10<sup>16</sup> km<sup>3</sup><br/>(33782.511 Yrths)
-        mass: 6.483 × 10<sup>28</sup> kg<br />(207.2704635920684 Yrths)
+        mass: 6.483 × 10<sup>28</sup> kg<br />(10856.037 Yrths)
         density: 1.772 g/cm<sup>3</sup>
         surface_gravity: 101.874 m/s<sup>2</sup><br />(10.388 g<sub>0</sub>)
         escape_velocity: 204.988 km/s<br />(737,955 km/h)
         rotation_period: 69.496 d
         axial_tilt: 26.50°
         albedo: 0.30
-        temperature: 1819 K<br />(1546 °C)
+        temperature: 558 K<br />(285 °C)
       - name: 576 Narashiad I g
         type: Icy
         formationType: Captured
@@ -177,14 +177,14 @@ planets:
         radius: 156,764.8 km<br/>(24.606 Yrths)
         surface_area: 3.088 × 10<sup>11</sup> km<sup>2</sup><br/>(605.455 Yrths)
         volume: 1.614 × 10<sup>16</sup> km<sup>3</sup><br/>(14897.833 Yrths)
-        mass: 2.205 × 10<sup>28</sup> kg<br />(207.2704635920684 Yrths)
+        mass: 2.205 × 10<sup>28</sup> kg<br />(3691.916 Yrths)
         density: 1.366 g/cm<sup>3</sup>
         surface_gravity: 59.799 m/s<sup>2</sup><br />(6.098 g<sub>0</sub>)
         escape_velocity: 137.019 km/s<br />(493,267 km/h)
         rotation_period: 73.997 d
         axial_tilt: 15.86°
         albedo: 0.30
-        temperature: 890 K<br />(617 °C)
+        temperature: 558 K<br />(285 °C)
       - name: 576 Narashiad I h
         type: Icy
         formationType: Accreted
@@ -197,14 +197,14 @@ planets:
         radius: 195,651.1 km<br/>(30.710 Yrths)
         surface_area: 4.810 × 10<sup>11</sup> km<sup>2</sup><br/>(943.082 Yrths)
         volume: 3.137 × 10<sup>16</sup> km<sup>3</sup><br/>(28961.695 Yrths)
-        mass: 2.408 × 10<sup>28</sup> kg<br />(207.2704635920684 Yrths)
+        mass: 2.408 × 10<sup>28</sup> kg<br />(4032.875 Yrths)
         density: 0.768 g/cm<sup>3</sup>
         surface_gravity: 41.936 m/s<sup>2</sup><br />(4.276 g<sub>0</sub>)
         escape_velocity: 128.187 km/s<br />(461,473 km/h)
         rotation_period: 104.350 d
         axial_tilt: 15.75°
         albedo: 0.30
-        temperature: 848 K<br />(575 °C)
+        temperature: 558 K<br />(285 °C)
   - name: 576 Narashiad II
     type: Ice giant
     aphelion: 792,886,430 km<br />5.300 AU
@@ -216,14 +216,14 @@ planets:
     radius: 36,715.2 km<br/>(5.763 Yrths)
     surface_area: 1.694 × 10<sup>10</sup> km<sup>2</sup><br/>(33.211 Yrths)
     volume: 2.073 × 10<sup>14</sup> km<sup>3</sup><br/>(191.388 Yrths)
-    mass: 2.662 × 10<sup>26</sup> kg<br />(44.574809329862504 Yrths)
+    mass: 2.662 × 10<sup>26</sup> kg<br />(44.57 Yrths)
     density: 1.284 g/cm<sup>3</sup>
     surface_gravity: 13.162 m/s<sup>2</sup><br />(1.342 g<sub>0</sub>)
     escape_velocity: 31.110 km/s<br />(111,996 km/h)
     rotation_period: 0.317 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 858 K<br />(585 °C)
+    temperature: 837 K<br />(564 °C)
     composition:
       - 54.0157% helium
       - 24.7924% hydrogen
@@ -243,14 +243,14 @@ planets:
         radius: 29,392.2 km<br/>(4.613 Yrths)
         surface_area: 1.086 × 10<sup>10</sup> km<sup>2</sup><br/>(21.284 Yrths)
         volume: 1.064 × 10<sup>14</sup> km<sup>3</sup><br/>(98.191 Yrths)
-        mass: 2.304 × 10<sup>26</sup> kg<br />(44.574809329862504 Yrths)
+        mass: 2.304 × 10<sup>26</sup> kg<br />(38.585 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 17.778 m/s<sup>2</sup><br />(1.813 g<sub>0</sub>)
         escape_velocity: 32.350 km/s<br />(116,459 km/h)
         rotation_period: 39.315 d
         axial_tilt: 23.24°
         albedo: 0.30
-        temperature: 3286 K<br />(3013 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 576 Narashiad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 36,805.8 km<br/>(5.777 Yrths)
         surface_area: 1.702 × 10<sup>10</sup> km<sup>2</sup><br/>(33.375 Yrths)
         volume: 2.089 × 10<sup>14</sup> km<sup>3</sup><br/>(192.808 Yrths)
-        mass: 3.551 × 10<sup>26</sup> kg<br />(44.574809329862504 Yrths)
+        mass: 3.551 × 10<sup>26</sup> kg<br />(59.467 Yrths)
         density: 1.700 g/cm<sup>3</sup>
         surface_gravity: 17.474 m/s<sup>2</sup><br />(1.782 g<sub>0</sub>)
         escape_velocity: 35.889 km/s<br />(129,200 km/h)
         rotation_period: 48.449 d
         axial_tilt: 11.73°
         albedo: 0.30
-        temperature: 3133 K<br />(2860 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 576 Narashiad II c
         type: Asteroid
         formationType: Captured
@@ -283,14 +283,14 @@ planets:
         radius: 39,862.5 km<br/>(6.257 Yrths)
         surface_area: 1.997 × 10<sup>10</sup> km<sup>2</sup><br/>(39.148 Yrths)
         volume: 2.653 × 10<sup>14</sup> km<sup>3</sup><br/>(244.947 Yrths)
-        mass: 7.644 × 10<sup>26</sup> kg<br />(44.574809329862504 Yrths)
+        mass: 7.644 × 10<sup>26</sup> kg<br />(127.995 Yrths)
         density: 2.881 g/cm<sup>3</sup>
         surface_gravity: 32.063 m/s<sup>2</sup><br />(3.269 g<sub>0</sub>)
         escape_velocity: 50.593 km/s<br />(182,135 km/h)
         rotation_period: 31.476 d
         axial_tilt: 14.31°
         albedo: 0.30
-        temperature: 2988 K<br />(2714 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 576 Narashiad II d
         type: Icy
         formationType: Captured
@@ -303,14 +303,14 @@ planets:
         radius: 64,831.5 km<br/>(10.176 Yrths)
         surface_area: 5.282 × 10<sup>10</sup> km<sup>2</sup><br/>(103.552 Yrths)
         volume: 1.141 × 10<sup>15</sup> km<sup>3</sup><br/>(1053.747 Yrths)
-        mass: 9.458 × 10<sup>26</sup> kg<br />(44.574809329862504 Yrths)
+        mass: 9.458 × 10<sup>26</sup> kg<br />(158.365 Yrths)
         density: 0.829 g/cm<sup>3</sup>
         surface_gravity: 14.998 m/s<sup>2</sup><br />(1.529 g<sub>0</sub>)
         escape_velocity: 44.128 km/s<br />(158,861 km/h)
         rotation_period: 57.765 d
         axial_tilt: 24.09°
         albedo: 0.30
-        temperature: 2849 K<br />(2575 °C)
+        temperature: 398 K<br />(125 °C)
       - name: 576 Narashiad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 21,248.3 km<br/>(3.335 Yrths)
         surface_area: 5.674 × 10<sup>09</sup> km<sup>2</sup><br/>(11.123 Yrths)
         volume: 4.019 × 10<sup>13</sup> km<sup>3</sup><br/>(37.098 Yrths)
-        mass: 7.049 × 10<sup>25</sup> kg<br />(44.574809329862504 Yrths)
+        mass: 7.049 × 10<sup>25</sup> kg<br />(11.803 Yrths)
         density: 1.754 g/cm<sup>3</sup>
         surface_gravity: 10.406 m/s<sup>2</sup><br />(1.061 g<sub>0</sub>)
         escape_velocity: 21.043 km/s<br />(75,756 km/h)
         rotation_period: 39.259 d
         axial_tilt: 18.30°
         albedo: 0.30
-        temperature: 2590 K<br />(2316 °C)
+        temperature: 398 K<br />(125 °C)
   - name: 576 Narashiad III
     type: Gas giant
     aphelion: 1,356,824,834 km<br />9.070 AU
@@ -342,14 +342,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.538 g/cm<sup>3</sup>
     surface_gravity: 31873.847 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 1025 K<br />(752 °C)
+    temperature: 972 K<br />(699 °C)
     composition:
       - 76.7182% hydrogen
       - 22.6998% helium
@@ -367,14 +367,14 @@ planets:
         radius: 566.4 km<br/>(0.089 Yrths)
         surface_area: 4.032 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.612 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.790 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.790 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.352 g/cm<sup>3</sup>
         surface_gravity: 0.372 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.650 km/s<br />(2,338 km/h)
         rotation_period: 51.417 d
         axial_tilt: 12.74°
         albedo: 0.30
-        temperature: 4606 K<br />(4332 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 576 Narashiad III b
         type: Asteroid
         formationType: Captured
@@ -387,14 +387,14 @@ planets:
         radius: 575.3 km<br/>(0.090 Yrths)
         surface_area: 4.160 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.978 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.033 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.033 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.548 g/cm<sup>3</sup>
         surface_gravity: 0.409 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.687 km/s<br />(2,472 km/h)
         rotation_period: 31.054 d
         axial_tilt: 51.16°
         albedo: 0.30
-        temperature: 3460 K<br />(3187 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 576 Narashiad III c
         type: Icy
         formationType: Accreted
@@ -407,14 +407,14 @@ planets:
         radius: 1,634.1 km<br/>(0.256 Yrths)
         surface_area: 3.356 × 10<sup>07</sup> km<sup>2</sup><br/>(0.066 Yrths)
         volume: 1.828 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 2.112 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 2.112 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 1.156 g/cm<sup>3</sup>
         surface_gravity: 0.527 m/s<sup>2</sup><br />(0.054 g<sub>0</sub>)
         escape_velocity: 1.314 km/s<br />(4,729 km/h)
         rotation_period: 65.015 d
         axial_tilt: 16.11°
         albedo: 0.30
-        temperature: 2727 K<br />(2453 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 576 Narashiad III d
         type: Asteroid
         formationType: Captured
@@ -427,14 +427,14 @@ planets:
         radius: 505.0 km<br/>(0.079 Yrths)
         surface_area: 3.205 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.394 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.788 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.788 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.315 g/cm<sup>3</sup>
         surface_gravity: 0.467 m/s<sup>2</sup><br />(0.048 g<sub>0</sub>)
         escape_velocity: 0.688 km/s<br />(2,475 km/h)
         rotation_period: 45.982 d
         axial_tilt: 32.07°
         albedo: 0.30
-        temperature: 2149 K<br />(1875 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 576 Narashiad III e
         type: Icy
         formationType: Impact formed
@@ -447,14 +447,14 @@ planets:
         radius: 690.5 km<br/>(0.108 Yrths)
         surface_area: 5.991 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.379 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.827 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.827 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.325 g/cm<sup>3</sup>
         surface_gravity: 0.255 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.594 km/s<br />(2,140 km/h)
         rotation_period: 51.031 d
         axial_tilt: 9.23°
         albedo: 0.30
-        temperature: 1614 K<br />(1341 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 576 Narashiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -467,14 +467,14 @@ planets:
         radius: 1,027.0 km<br/>(0.161 Yrths)
         surface_area: 1.325 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.537 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.123 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.123 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.476 g/cm<sup>3</sup>
         surface_gravity: 0.710 m/s<sup>2</sup><br />(0.072 g<sub>0</sub>)
         escape_velocity: 1.208 km/s<br />(4,350 km/h)
         rotation_period: 31.614 d
         axial_tilt: 22.21°
         albedo: 0.30
-        temperature: 1156 K<br />(883 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 576 Narashiad III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -487,14 +487,14 @@ planets:
         radius: 902.9 km<br/>(0.142 Yrths)
         surface_area: 1.024 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.083 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 7.131 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.131 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.313 g/cm<sup>3</sup>
         surface_gravity: 0.583 m/s<sup>2</sup><br />(0.059 g<sub>0</sub>)
         escape_velocity: 1.027 km/s<br />(3,696 km/h)
         rotation_period: 41.977 d
         axial_tilt: 12.62°
         albedo: 0.30
-        temperature: 956 K<br />(683 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 576 Narashiad III h
         type: Icy
         formationType: Accreted
@@ -507,12 +507,12 @@ planets:
         radius: 726.4 km<br/>(0.114 Yrths)
         surface_area: 6.631 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.606 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.690 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.690 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.675 g/cm<sup>3</sup>
         surface_gravity: 0.340 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.703 km/s<br />(2,531 km/h)
         rotation_period: 59.189 d
         axial_tilt: 18.47°
         albedo: 0.30
-        temperature: 593 K<br />(320 °C)
+        temperature: 284 K<br />(11 °C)
 ---

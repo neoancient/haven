@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      535 Morrishothiad is a star in the constellation Morrishoth
+      535 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 439.99 ly
 apparent_magnitude: 11.04
 absolute_magnitude: 5.39

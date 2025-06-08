@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4752 Noniashad is a star in the constellation Nonias
+      4752 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 116.14 ly
 apparent_magnitude: 16.20
 absolute_magnitude: 13.44

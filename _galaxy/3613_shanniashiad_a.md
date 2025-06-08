@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3613 Shanniashiad A is a star in the constellation Shannias
+      3613 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 173.93 ly
 apparent_magnitude: 10.42
 absolute_magnitude: 6.79

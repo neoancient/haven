@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11492 Tanashad is a star in the constellation Tanas
+      11492 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 225.34 ly
 apparent_magnitude: 14.06
 absolute_magnitude: 9.86

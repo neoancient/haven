@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      70 Nurranpugiad is a star in the constellation Nurranpug
+      70 Nurranpugiad is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 1161.93 ly
 apparent_magnitude: 17.60
 absolute_magnitude: 9.85

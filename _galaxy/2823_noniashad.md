@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2823 Noniashad is a star in the constellation Nonias
+      2823 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 702.33 ly
 apparent_magnitude: 12.67
 absolute_magnitude: 6.01

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2640 Saithiad is a star in the constellation Saith
+      2640 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1059.93 ly
 apparent_magnitude: 11.17
 absolute_magnitude: 3.61

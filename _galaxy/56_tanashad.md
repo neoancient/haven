@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      56 Tanashad is a star in the constellation Tanas
+      56 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 179.45 ly
 apparent_magnitude: 10.03
 absolute_magnitude: 6.32

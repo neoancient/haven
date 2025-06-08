@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2679 Shanniashiad A is a star in the constellation Shannias
+      2679 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 372.38 ly
 apparent_magnitude: 7.28
 absolute_magnitude: 1.99

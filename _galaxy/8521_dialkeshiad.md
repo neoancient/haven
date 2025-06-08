@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8521 Dialkeshiad is a star in the constellation Dialkes
+      8521 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 354.23 ly
 apparent_magnitude: 11.42
 absolute_magnitude: 6.24

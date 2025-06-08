@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4601 Geardiad is a star in the constellation Geard
+      4601 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 362.74 ly
 apparent_magnitude: 8.11
 absolute_magnitude: 2.88
@@ -31,14 +31,14 @@ planets:
     radius: 18,416.8 km<br/>(2.891 Yrths)
     surface_area: 4.262 × 10<sup>09</sup> km<sup>2</sup><br/>(8.356 Yrths)
     volume: 2.617 × 10<sup>13</sup> km<sup>3</sup><br/>(24.156 Yrths)
-    mass: 6.077 × 10<sup>25</sup> kg<br />(10.176395517012805 Yrths)
+    mass: 6.077 × 10<sup>25</sup> kg<br />(10.18 Yrths)
     density: 2.323 g/cm<sup>3</sup>
     surface_gravity: 11.943 m/s<sup>2</sup><br />(1.218 g<sub>0</sub>)
     escape_velocity: 20.988 km/s<br />(75,556 km/h)
     rotation_period: 0.496 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 580 K<br />(307 °C)
+    temperature: 517 K<br />(243 °C)
     composition:
       - 78.8318% hydrogen
       - 20.7188% helium
@@ -56,14 +56,14 @@ planets:
         radius: 10,167.6 km<br/>(1.596 Yrths)
         surface_area: 1.299 × 10<sup>09</sup> km<sup>2</sup><br/>(2.547 Yrths)
         volume: 4.403 × 10<sup>12</sup> km<sup>3</sup><br/>(4.065 Yrths)
-        mass: 7.989 × 10<sup>24</sup> kg<br />(10.176395517012805 Yrths)
+        mass: 7.989 × 10<sup>24</sup> kg<br />(1.338 Yrths)
         density: 1.815 g/cm<sup>3</sup>
         surface_gravity: 5.151 m/s<sup>2</sup><br />(0.525 g<sub>0</sub>)
         escape_velocity: 10.241 km/s<br />(36,869 km/h)
         rotation_period: 68.509 d
         axial_tilt: 19.06°
         albedo: 0.30
-        temperature: 3782 K<br />(3509 °C)
+        temperature: 366 K<br />(93 °C)
       - name: 4601 Geardiad I b
         type: Icy
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 7,935.6 km<br/>(1.246 Yrths)
         surface_area: 7.914 × 10<sup>08</sup> km<sup>2</sup><br/>(1.551 Yrths)
         volume: 2.093 × 10<sup>12</sup> km<sup>3</sup><br/>(1.932 Yrths)
-        mass: 2.860 × 10<sup>24</sup> kg<br />(10.176395517012805 Yrths)
+        mass: 2.860 × 10<sup>24</sup> kg<br />(0.479 Yrths)
         density: 1.366 g/cm<sup>3</sup>
         surface_gravity: 3.027 m/s<sup>2</sup><br />(0.309 g<sub>0</sub>)
         escape_velocity: 6.936 km/s<br />(24,969 km/h)
         rotation_period: 54.883 d
         axial_tilt: 28.79°
         albedo: 0.30
-        temperature: 3606 K<br />(3333 °C)
+        temperature: 366 K<br />(93 °C)
       - name: 4601 Geardiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 16,665.8 km<br/>(2.616 Yrths)
         surface_area: 3.490 × 10<sup>09</sup> km<sup>2</sup><br/>(6.843 Yrths)
         volume: 1.939 × 10<sup>13</sup> km<sup>3</sup><br/>(17.900 Yrths)
-        mass: 5.256 × 10<sup>25</sup> kg<br />(10.176395517012805 Yrths)
+        mass: 5.256 × 10<sup>25</sup> kg<br />(8.800 Yrths)
         density: 2.710 g/cm<sup>3</sup>
         surface_gravity: 12.612 m/s<sup>2</sup><br />(1.286 g<sub>0</sub>)
         escape_velocity: 20.517 km/s<br />(73,861 km/h)
         rotation_period: 30.737 d
         axial_tilt: 26.48°
         albedo: 0.30
-        temperature: 3438 K<br />(3165 °C)
+        temperature: 366 K<br />(93 °C)
   - name: 4601 Geardiad II
     type: Gas giant
     aphelion: 402,103,615 km<br />2.688 AU
@@ -115,14 +115,14 @@ planets:
     radius: 233.7 km<br/>(0.037 Yrths)
     surface_area: 6.861 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.344 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.982 × 10<sup>27</sup> kg<br />(331.8991992021182 Yrths)
+    mass: 1.982 × 10<sup>27</sup> kg<br />(331.90 Yrths)
     density: 37090339.438 g/cm<sup>3</sup>
     surface_gravity: 2419678.688 m/s<sup>2</sup><br />(246738.559 g<sub>0</sub>)
     escape_velocity: 1064.106 km/s<br />(3,830,780 km/h)
     rotation_period: 0.233 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1028 K<br />(755 °C)
+    temperature: 976 K<br />(703 °C)
     composition:
       - 84.4161% hydrogen
       - 15.5839% helium
@@ -139,14 +139,14 @@ planets:
         radius: 211,764.2 km<br/>(33.239 Yrths)
         surface_area: 5.635 × 10<sup>11</sup> km<sup>2</sup><br/>(1104.815 Yrths)
         volume: 3.978 × 10<sup>16</sup> km<sup>3</sup><br/>(36722.696 Yrths)
-        mass: 1.257 × 10<sup>29</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 1.257 × 10<sup>29</sup> kg<br />(21054.837 Yrths)
         density: 3.161 g/cm<sup>3</sup>
         surface_gravity: 186.889 m/s<sup>2</sup><br />(19.057 g<sub>0</sub>)
         escape_velocity: 281.532 km/s<br />(1,013,515 km/h)
         rotation_period: 35.914 d
         axial_tilt: 15.08°
         albedo: 0.30
-        temperature: 1564 K<br />(1291 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 4601 Geardiad II b
         type: Icy
         formationType: Accreted
@@ -159,14 +159,14 @@ planets:
         radius: 191,127.5 km<br/>(30.000 Yrths)
         surface_area: 4.590 × 10<sup>11</sup> km<sup>2</sup><br/>(899.976 Yrths)
         volume: 2.925 × 10<sup>16</sup> km<sup>3</sup><br/>(26998.925 Yrths)
-        mass: 4.429 × 10<sup>28</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 4.429 × 10<sup>28</sup> kg<br />(7415.492 Yrths)
         density: 1.514 g/cm<sup>3</sup>
         surface_gravity: 80.803 m/s<sup>2</sup><br />(8.240 g<sub>0</sub>)
         escape_velocity: 175.868 km/s<br />(633,124 km/h)
         rotation_period: 52.681 d
         axial_tilt: 17.77°
         albedo: 0.30
-        temperature: 1491 K<br />(1218 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 4601 Geardiad II c
         type: Rocky
         formationType: Impact formed
@@ -179,14 +179,14 @@ planets:
         radius: 116,829.8 km<br/>(18.338 Yrths)
         surface_area: 1.715 × 10<sup>11</sup> km<sup>2</sup><br/>(336.273 Yrths)
         volume: 6.680 × 10<sup>15</sup> km<sup>3</sup><br/>(6166.487 Yrths)
-        mass: 1.994 × 10<sup>28</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 1.994 × 10<sup>28</sup> kg<br />(3338.089 Yrths)
         density: 2.984 g/cm<sup>3</sup>
         surface_gravity: 97.348 m/s<sup>2</sup><br />(9.927 g<sub>0</sub>)
         escape_velocity: 150.921 km/s<br />(543,316 km/h)
         rotation_period: 35.142 d
         axial_tilt: 15.74°
         albedo: 0.30
-        temperature: 1356 K<br />(1083 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 4601 Geardiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -199,14 +199,14 @@ planets:
         radius: 129,793.6 km<br/>(20.373 Yrths)
         surface_area: 2.117 × 10<sup>11</sup> km<sup>2</sup><br/>(415.041 Yrths)
         volume: 9.159 × 10<sup>15</sup> km<sup>3</sup><br/>(8455.453 Yrths)
-        mass: 2.251 × 10<sup>28</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 2.251 × 10<sup>28</sup> kg<br />(3768.904 Yrths)
         density: 2.457 g/cm<sup>3</sup>
         surface_gravity: 89.052 m/s<sup>2</sup><br />(9.081 g<sub>0</sub>)
         escape_velocity: 152.145 km/s<br />(547,723 km/h)
         rotation_period: 36.062 d
         axial_tilt: 20.05°
         albedo: 0.30
-        temperature: 1233 K<br />(959 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 4601 Geardiad II e
         type: Icy
         formationType: Impact formed
@@ -219,14 +219,14 @@ planets:
         radius: 152,195.1 km<br/>(23.889 Yrths)
         surface_area: 2.911 × 10<sup>11</sup> km<sup>2</sup><br/>(570.672 Yrths)
         volume: 1.477 × 10<sup>16</sup> km<sup>3</sup><br/>(13632.624 Yrths)
-        mass: 1.938 × 10<sup>28</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 1.938 × 10<sup>28</sup> kg<br />(3245.454 Yrths)
         density: 1.313 g/cm<sup>3</sup>
         surface_gravity: 55.771 m/s<sup>2</sup><br />(5.687 g<sub>0</sub>)
         escape_velocity: 130.381 km/s<br />(469,372 km/h)
         rotation_period: 58.967 d
         axial_tilt: 6.22°
         albedo: 0.30
-        temperature: 1068 K<br />(795 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 4601 Geardiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -239,14 +239,14 @@ planets:
         radius: 201,998.7 km<br/>(31.706 Yrths)
         surface_area: 5.128 × 10<sup>11</sup> km<sup>2</sup><br/>(1005.269 Yrths)
         volume: 3.453 × 10<sup>16</sup> km<sup>3</sup><br/>(31873.020 Yrths)
-        mass: 8.167 × 10<sup>28</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 8.167 × 10<sup>28</sup> kg<br />(13674.695 Yrths)
         density: 2.365 g/cm<sup>3</sup>
         surface_gravity: 133.400 m/s<sup>2</sup><br />(13.603 g<sub>0</sub>)
         escape_velocity: 232.307 km/s<br />(836,305 km/h)
         rotation_period: 34.721 d
         axial_tilt: 11.97°
         albedo: 0.30
-        temperature: 926 K<br />(653 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 4601 Geardiad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -259,14 +259,14 @@ planets:
         radius: 141,389.4 km<br/>(22.193 Yrths)
         surface_area: 2.512 × 10<sup>11</sup> km<sup>2</sup><br/>(492.514 Yrths)
         volume: 1.184 × 10<sup>16</sup> km<sup>3</sup><br/>(10930.192 Yrths)
-        mass: 2.194 × 10<sup>28</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 2.194 × 10<sup>28</sup> kg<br />(3673.024 Yrths)
         density: 1.853 g/cm<sup>3</sup>
         surface_gravity: 73.135 m/s<sup>2</sup><br />(7.458 g<sub>0</sub>)
         escape_velocity: 143.907 km/s<br />(518,064 km/h)
         rotation_period: 42.764 d
         axial_tilt: 27.78°
         albedo: 0.30
-        temperature: 842 K<br />(569 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 4601 Geardiad II h
         type: Icy
         formationType: Captured
@@ -279,14 +279,14 @@ planets:
         radius: 175,472.9 km<br/>(27.542 Yrths)
         surface_area: 3.869 × 10<sup>11</sup> km<sup>2</sup><br/>(758.586 Yrths)
         volume: 2.263 × 10<sup>16</sup> km<sup>3</sup><br/>(20893.307 Yrths)
-        mass: 2.988 × 10<sup>28</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 2.988 × 10<sup>28</sup> kg<br />(5002.512 Yrths)
         density: 1.320 g/cm<sup>3</sup>
         surface_gravity: 64.670 m/s<sup>2</sup><br />(6.595 g<sub>0</sub>)
         escape_velocity: 150.753 km/s<br />(542,712 km/h)
         rotation_period: 78.441 d
         axial_tilt: 25.76°
         albedo: 0.30
-        temperature: 765 K<br />(492 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 4601 Geardiad II i
         type: Rocky
         formationType: Accreted
@@ -299,14 +299,14 @@ planets:
         radius: 217,984.9 km<br/>(34.215 Yrths)
         surface_area: 5.971 × 10<sup>11</sup> km<sup>2</sup><br/>(1170.678 Yrths)
         volume: 4.339 × 10<sup>16</sup> km<sup>3</sup><br/>(40054.955 Yrths)
-        mass: 1.041 × 10<sup>29</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 1.041 × 10<sup>29</sup> kg<br />(17436.492 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 146.064 m/s<sup>2</sup><br />(14.894 g<sub>0</sub>)
         escape_velocity: 252.519 km/s<br />(909,069 km/h)
         rotation_period: 40.717 d
         axial_tilt: 14.21°
         albedo: 0.30
-        temperature: 730 K<br />(457 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 4601 Geardiad II j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -319,14 +319,14 @@ planets:
         radius: 110,705.0 km<br/>(17.376 Yrths)
         surface_area: 1.540 × 10<sup>11</sup> km<sup>2</sup><br/>(301.939 Yrths)
         volume: 5.683 × 10<sup>15</sup> km<sup>3</sup><br/>(5246.613 Yrths)
-        mass: 1.471 × 10<sup>28</sup> kg<br />(331.8991992021182 Yrths)
+        mass: 1.471 × 10<sup>28</sup> kg<br />(2462.328 Yrths)
         density: 2.587 g/cm<sup>3</sup>
         surface_gravity: 79.974 m/s<sup>2</sup><br />(8.155 g<sub>0</sub>)
         escape_velocity: 133.158 km/s<br />(479,369 km/h)
         rotation_period: 38.896 d
         axial_tilt: 21.25°
         albedo: 0.30
-        temperature: 575 K<br />(302 °C)
+        temperature: 271 K<br />(-2 °C)
   - name: 4601 Geardiad III
     type: Gas dwarf
     aphelion: 680,393,202 km<br />4.548 AU
@@ -338,14 +338,14 @@ planets:
     radius: 19,488.4 km<br/>(3.059 Yrths)
     surface_area: 4.773 × 10<sup>09</sup> km<sup>2</sup><br/>(9.357 Yrths)
     volume: 3.100 × 10<sup>13</sup> km<sup>3</sup><br/>(28.622 Yrths)
-    mass: 7.715 × 10<sup>25</sup> kg<br />(12.917943670221149 Yrths)
+    mass: 7.715 × 10<sup>25</sup> kg<br />(12.92 Yrths)
     density: 2.488 g/cm<sup>3</sup>
     surface_gravity: 13.539 m/s<sup>2</sup><br />(1.381 g<sub>0</sub>)
     escape_velocity: 22.987 km/s<br />(82,754 km/h)
     rotation_period: 0.392 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 331 K<br />(58 °C)
+    temperature: 297 K<br />(24 °C)
     composition:
       - 80.3280% hydrogen
       - 16.0875% helium
@@ -364,14 +364,14 @@ planets:
         radius: 27,615.9 km<br/>(4.335 Yrths)
         surface_area: 9.584 × 10<sup>09</sup> km<sup>2</sup><br/>(18.789 Yrths)
         volume: 8.822 × 10<sup>13</sup> km<sup>3</sup><br/>(81.443 Yrths)
-        mass: 1.853 × 10<sup>26</sup> kg<br />(12.917943670221149 Yrths)
+        mass: 1.853 × 10<sup>26</sup> kg<br />(31.024 Yrths)
         density: 2.100 g/cm<sup>3</sup>
         surface_gravity: 16.192 m/s<sup>2</sup><br />(1.651 g<sub>0</sub>)
         escape_velocity: 29.926 km/s<br />(107,733 km/h)
         rotation_period: 43.507 d
         axial_tilt: 19.37°
         albedo: 0.30
-        temperature: 1987 K<br />(1714 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 4601 Geardiad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -384,14 +384,14 @@ planets:
         radius: 13,207.5 km<br/>(2.073 Yrths)
         surface_area: 2.192 × 10<sup>09</sup> km<sup>2</sup><br/>(4.298 Yrths)
         volume: 9.651 × 10<sup>12</sup> km<sup>3</sup><br/>(8.909 Yrths)
-        mass: 1.958 × 10<sup>25</sup> kg<br />(12.917943670221149 Yrths)
+        mass: 1.958 × 10<sup>25</sup> kg<br />(3.278 Yrths)
         density: 2.028 g/cm<sup>3</sup>
         surface_gravity: 7.480 m/s<sup>2</sup><br />(0.763 g<sub>0</sub>)
         escape_velocity: 14.066 km/s<br />(50,637 km/h)
         rotation_period: 36.514 d
         axial_tilt: 26.21°
         albedo: 0.30
-        temperature: 1894 K<br />(1621 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 4601 Geardiad III c
         type: Icy
         formationType: Impact formed
@@ -404,14 +404,14 @@ planets:
         radius: 7,135.9 km<br/>(1.120 Yrths)
         surface_area: 6.399 × 10<sup>08</sup> km<sup>2</sup><br/>(1.255 Yrths)
         volume: 1.522 × 10<sup>12</sup> km<sup>3</sup><br/>(1.405 Yrths)
-        mass: 1.719 × 10<sup>24</sup> kg<br />(12.917943670221149 Yrths)
+        mass: 1.719 × 10<sup>24</sup> kg<br />(0.288 Yrths)
         density: 1.129 g/cm<sup>3</sup>
         surface_gravity: 2.250 m/s<sup>2</sup><br />(0.229 g<sub>0</sub>)
         escape_velocity: 5.671 km/s<br />(20,415 km/h)
         rotation_period: 72.589 d
         axial_tilt: 9.78°
         albedo: 0.30
-        temperature: 1806 K<br />(1533 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 4601 Geardiad III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -424,14 +424,14 @@ planets:
         radius: 15,658.8 km<br/>(2.458 Yrths)
         surface_area: 3.081 × 10<sup>09</sup> km<sup>2</sup><br/>(6.041 Yrths)
         volume: 1.608 × 10<sup>13</sup> km<sup>3</sup><br/>(14.847 Yrths)
-        mass: 3.642 × 10<sup>25</sup> kg<br />(12.917943670221149 Yrths)
+        mass: 3.642 × 10<sup>25</sup> kg<br />(6.098 Yrths)
         density: 2.265 g/cm<sup>3</sup>
         surface_gravity: 9.900 m/s<sup>2</sup><br />(1.010 g<sub>0</sub>)
         escape_velocity: 17.620 km/s<br />(63,433 km/h)
         rotation_period: 46.981 d
         axial_tilt: 18.67°
         albedo: 0.30
-        temperature: 1722 K<br />(1449 °C)
+        temperature: 200 K<br />(-73 °C)
   - name: 4601 Geardiad IV
     type: Gas giant
     aphelion: 1,137,955,231 km<br />7.607 AU
@@ -443,14 +443,14 @@ planets:
     radius: 119.2 km<br/>(0.019 Yrths)
     surface_area: 1.786 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 7.098 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.097 × 10<sup>26</sup> kg<br />(18.372295094256916 Yrths)
+    mass: 1.097 × 10<sup>26</sup> kg<br />(18.37 Yrths)
     density: 15457042.701 g/cm<sup>3</sup>
     surface_gravity: 514502.119 m/s<sup>2</sup><br />(52464.615 g<sub>0</sub>)
     escape_velocity: 350.495 km/s<br />(1,261,781 km/h)
     rotation_period: 0.311 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 525 K<br />(252 °C)
+    temperature: 497 K<br />(223 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -466,14 +466,14 @@ planets:
         radius: 46,854.7 km<br/>(7.354 Yrths)
         surface_area: 2.759 × 10<sup>10</sup> km<sup>2</sup><br/>(54.087 Yrths)
         volume: 4.309 × 10<sup>14</sup> km<sup>3</sup><br/>(397.775 Yrths)
-        mass: 4.974 × 10<sup>26</sup> kg<br />(18.372295094256916 Yrths)
+        mass: 4.974 × 10<sup>26</sup> kg<br />(83.281 Yrths)
         density: 1.154 g/cm<sup>3</sup>
         surface_gravity: 15.100 m/s<sup>2</sup><br />(1.540 g<sub>0</sub>)
         escape_velocity: 37.642 km/s<br />(135,511 km/h)
         rotation_period: 92.038 d
         axial_tilt: 23.10°
         albedo: 0.30
-        temperature: 1320 K<br />(1047 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 4601 Geardiad IV b
         type: Rocky
         formationType: Impact formed
@@ -486,14 +486,14 @@ planets:
         radius: 35,039.6 km<br/>(5.500 Yrths)
         surface_area: 1.543 × 10<sup>10</sup> km<sup>2</sup><br/>(30.248 Yrths)
         volume: 1.802 × 10<sup>14</sup> km<sup>3</sup><br/>(166.362 Yrths)
-        mass: 5.706 × 10<sup>26</sup> kg<br />(18.372295094256916 Yrths)
+        mass: 5.706 × 10<sup>26</sup> kg<br />(95.548 Yrths)
         density: 3.166 g/cm<sup>3</sup>
         surface_gravity: 30.977 m/s<sup>2</sup><br />(3.159 g<sub>0</sub>)
         escape_velocity: 46.624 km/s<br />(167,846 km/h)
         rotation_period: 39.450 d
         axial_tilt: 15.63°
         albedo: 0.30
-        temperature: 902 K<br />(629 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 4601 Geardiad IV c
         type: Asteroid
         formationType: Captured
@@ -506,35 +506,15 @@ planets:
         radius: 43,324.2 km<br/>(6.800 Yrths)
         surface_area: 2.359 × 10<sup>10</sup> km<sup>2</sup><br/>(46.243 Yrths)
         volume: 3.406 × 10<sup>14</sup> km<sup>3</sup><br/>(314.462 Yrths)
-        mass: 6.560 × 10<sup>26</sup> kg<br />(18.372295094256916 Yrths)
+        mass: 6.560 × 10<sup>26</sup> kg<br />(109.848 Yrths)
         density: 1.926 g/cm<sup>3</sup>
         surface_gravity: 23.295 m/s<sup>2</sup><br />(2.375 g<sub>0</sub>)
         escape_velocity: 44.958 km/s<br />(161,849 km/h)
         rotation_period: 47.916 d
         axial_tilt: 51.49°
         albedo: 0.30
-        temperature: 382 K<br />(109 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 4601 Geardiad IV d
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 242,991,471 km<br />
-        perihelion: 156,072,337 km<br />
-        semi_major_axis: 199,531,904 km<br />
-        eccentricity: 0.218
-        orbital_period: 0.27 d<br />
-        inclination: 8.71°
-        radius: 14,279.0 km<br/>(2.241 Yrths)
-        surface_area: 2.562 × 10<sup>09</sup> km<sup>2</sup><br/>(5.023 Yrths)
-        volume: 1.220 × 10<sup>13</sup> km<sup>3</sup><br/>(11.258 Yrths)
-        mass: 2.855 × 10<sup>25</sup> kg<br />(18.372295094256916 Yrths)
-        density: 2.341 g/cm<sup>3</sup>
-        surface_gravity: 9.334 m/s<sup>2</sup><br />(0.952 g<sub>0</sub>)
-        escape_velocity: 16.338 km/s<br />(58,816 km/h)
-        rotation_period: 35.721 d
-        axial_tilt: 14.12°
-        albedo: 0.30
-        temperature: 348 K<br />(74 °C)
-      - name: 4601 Geardiad IV e
         type: Rocky
         formationType: Impact formed
         aphelion: 274,909,028 km<br />
@@ -546,15 +526,15 @@ planets:
         radius: 28,894.1 km<br/>(4.535 Yrths)
         surface_area: 1.049 × 10<sup>10</sup> km<sup>2</sup><br/>(20.569 Yrths)
         volume: 1.010 × 10<sup>14</sup> km<sup>3</sup><br/>(93.284 Yrths)
-        mass: 3.045 × 10<sup>26</sup> kg<br />(18.372295094256916 Yrths)
+        mass: 3.045 × 10<sup>26</sup> kg<br />(50.992 Yrths)
         density: 3.014 g/cm<sup>3</sup>
         surface_gravity: 24.312 m/s<sup>2</sup><br />(2.479 g<sub>0</sub>)
         escape_velocity: 37.508 km/s<br />(135,029 km/h)
         rotation_period: 39.653 d
         axial_tilt: 11.41°
         albedo: 0.30
-        temperature: 301 K<br />(28 °C)
-      - name: 4601 Geardiad IV f
+        temperature: 148 K<br />(-125 °C)
+      - name: 4601 Geardiad IV e
         type: Icy
         formationType: Accreted
         aphelion: 368,660,866 km<br />
@@ -566,14 +546,14 @@ planets:
         radius: 38,513.7 km<br/>(6.045 Yrths)
         surface_area: 1.864 × 10<sup>10</sup> km<sup>2</sup><br/>(36.544 Yrths)
         volume: 2.393 × 10<sup>14</sup> km<sup>3</sup><br/>(220.914 Yrths)
-        mass: 2.784 × 10<sup>26</sup> kg<br />(18.372295094256916 Yrths)
+        mass: 2.784 × 10<sup>26</sup> kg<br />(46.611 Yrths)
         density: 1.163 g/cm<sup>3</sup>
         surface_gravity: 12.508 m/s<sup>2</sup><br />(1.275 g<sub>0</sub>)
         escape_velocity: 31.061 km/s<br />(111,820 km/h)
         rotation_period: 46.090 d
         axial_tilt: 21.03°
         albedo: 0.30
-        temperature: 274 K<br />(1 °C)
+        temperature: 148 K<br />(-125 °C)
   - name: 4601 Geardiad V
     type: Large terrestrial
     aphelion: 2,055,410,794 km<br />13.739 AU
@@ -585,14 +565,14 @@ planets:
     radius: 10,774.4 km<br/>(1.691 Yrths)
     surface_area: 1.459 × 10<sup>09</sup> km<sup>2</sup><br/>(2.860 Yrths)
     volume: 5.239 × 10<sup>12</sup> km<sup>3</sup><br/>(4.837 Yrths)
-    mass: 3.250 × 10<sup>25</sup> kg<br />(5.44263553234465 Yrths)
+    mass: 3.250 × 10<sup>25</sup> kg<br />(5.44 Yrths)
     density: 6.204 g/cm<sup>3</sup>
     surface_gravity: 18.662 m/s<sup>2</sup><br />(1.903 g<sub>0</sub>)
     escape_velocity: 20.067 km/s<br />(72,242 km/h)
     rotation_period: 0.557 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 168 K<br />(-105 °C)
+    temperature: 209 K<br />(-64 °C)
     surface_pressure: 2,897 kPa<br />(29 atm)
     composition:
       - 97.9910% methane
@@ -610,14 +590,14 @@ planets:
         radius: 5,260.0 km<br/>(0.826 Yrths)
         surface_area: 3.477 × 10<sup>08</sup> km<sup>2</sup><br/>(0.682 Yrths)
         volume: 6.096 × 10<sup>11</sup> km<sup>3</sup><br/>(0.563 Yrths)
-        mass: 1.391 × 10<sup>24</sup> kg<br />(5.44263553234465 Yrths)
+        mass: 1.391 × 10<sup>24</sup> kg<br />(0.233 Yrths)
         density: 2.282 g/cm<sup>3</sup>
         surface_gravity: 3.352 m/s<sup>2</sup><br />(0.342 g<sub>0</sub>)
         escape_velocity: 5.942 km/s<br />(21,392 km/h)
         rotation_period: 38.630 d
         axial_tilt: 24.33°
         albedo: 0.30
-        temperature: 1317 K<br />(1044 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 4601 Geardiad V b
         type: Rocky
         formationType: Captured
@@ -630,12 +610,12 @@ planets:
         radius: 7,789.6 km<br/>(1.223 Yrths)
         surface_area: 7.625 × 10<sup>08</sup> km<sup>2</sup><br/>(1.495 Yrths)
         volume: 1.980 × 10<sup>12</sup> km<sup>3</sup><br/>(1.828 Yrths)
-        mass: 5.799 × 10<sup>24</sup> kg<br />(5.44263553234465 Yrths)
+        mass: 5.799 × 10<sup>24</sup> kg<br />(0.971 Yrths)
         density: 2.929 g/cm<sup>3</sup>
         surface_gravity: 6.371 m/s<sup>2</sup><br />(0.650 g<sub>0</sub>)
         escape_velocity: 9.969 km/s<br />(35,889 km/h)
         rotation_period: 53.272 d
         axial_tilt: 9.10°
         albedo: 0.30
-        temperature: 1256 K<br />(983 °C)
+        temperature: 109 K<br />(-164 °C)
 ---

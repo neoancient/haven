@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3559 Geardiad is a star in the constellation Geard
+      3559 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 508.62 ly
 apparent_magnitude: 11.00
 absolute_magnitude: 5.03

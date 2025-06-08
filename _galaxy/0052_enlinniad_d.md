@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0052 Enlinniad D is a star in the constellation Enlin
+      0052 Enlinniad D is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 158.87 ly
 apparent_magnitude: 8.26
 absolute_magnitude: 4.83

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10325 Arkothiad A is a star in the constellation Arkoth
+      10325 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 349.86 ly
 apparent_magnitude: 8.00
 absolute_magnitude: 2.84

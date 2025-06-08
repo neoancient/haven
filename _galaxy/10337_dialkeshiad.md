@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10337 Dialkeshiad is a star in the constellation Dialkes
+      10337 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 480.92 ly
 apparent_magnitude: 10.49
 absolute_magnitude: 4.65

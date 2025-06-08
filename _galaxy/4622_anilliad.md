@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4622 Anilliad is a star in the constellation Anil
+      4622 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 425.64 ly
 apparent_magnitude: 11.94
 absolute_magnitude: 6.37

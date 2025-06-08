@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      111342 Arkothiad is a star in the constellation Arkoth
+      111342 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 479.97 ly
 apparent_magnitude: 10.49
 absolute_magnitude: 4.65

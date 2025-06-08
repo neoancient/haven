@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1488 Noniashad is a star in the constellation Nonias
+      1488 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 742.05 ly
 apparent_magnitude: 12.79
 absolute_magnitude: 6.01

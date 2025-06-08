@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Niaranara is a star in the constellation Kinan
+      Niaranara is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 307.46 ly
 apparent_magnitude: 1.64
 absolute_magnitude: -3.23

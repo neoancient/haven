@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1818 Narashiad is a star in the constellation Naras
+      1818 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 481.63 ly
 apparent_magnitude: 13.75
 absolute_magnitude: 7.90

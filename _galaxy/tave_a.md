@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tave A is a star in the constellation Saith
+      Tave A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 674.61 ly
 apparent_magnitude: 1.42
 absolute_magnitude: -5.16

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rarniad Shunai B is a star in the constellation Swither
+      Rarniad Shunai B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 302.02 ly
 apparent_magnitude: 12.00
 absolute_magnitude: 7.16

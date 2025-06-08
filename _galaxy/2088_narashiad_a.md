@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2088 Narashiad A is a star in the constellation Naras
+      2088 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 449.41 ly
 apparent_magnitude: 7.11
 absolute_magnitude: 1.42

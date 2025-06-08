@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9705 Tanashad is a star in the constellation Tanas
+      9705 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 280.42 ly
 apparent_magnitude: 21.08
 absolute_magnitude: 16.41

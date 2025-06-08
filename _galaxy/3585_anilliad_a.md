@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3585 Anilliad A is a star in the constellation Anil
+      3585 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 335.64 ly
 apparent_magnitude: 9.99
 absolute_magnitude: 4.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3972 Anilliad A is a star in the constellation Anil
+      3972 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 289.48 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 6.05

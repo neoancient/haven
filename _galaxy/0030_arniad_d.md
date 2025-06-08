@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0030 Arniad D is a star in the constellation Arni
+      0030 Arniad D is a star in the constellation <a href="arni.html">Arni</a>
 distance: 251.39 ly
 apparent_magnitude: 6.93
 absolute_magnitude: 2.50

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7314 Arkothiad is a star in the constellation Arkoth
+      7314 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 261.60 ly
 apparent_magnitude: 16.57
 absolute_magnitude: 12.05

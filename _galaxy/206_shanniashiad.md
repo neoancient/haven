@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      206 Shanniashiad is a star in the constellation Shannias
+      206 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 466.70 ly
 apparent_magnitude: 10.51
 absolute_magnitude: 4.73

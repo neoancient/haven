@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Darni A is a star in the constellation Nurranpug
+      Darni A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 310.23 ly
 apparent_magnitude: 2.68
 absolute_magnitude: -2.21

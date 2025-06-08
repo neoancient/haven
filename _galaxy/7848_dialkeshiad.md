@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7848 Dialkeshiad is a star in the constellation Dialkes
+      7848 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 345.37 ly
 apparent_magnitude: 11.12
 absolute_magnitude: 5.99
@@ -31,14 +31,14 @@ planets:
     radius: 12,229.5 km<br/>(1.920 Yrths)
     surface_area: 1.879 × 10<sup>09</sup> km<sup>2</sup><br/>(3.685 Yrths)
     volume: 7.662 × 10<sup>12</sup> km<sup>3</sup><br/>(7.073 Yrths)
-    mass: 7.769 × 10<sup>25</sup> kg<br />(13.008827706588356 Yrths)
+    mass: 7.769 × 10<sup>25</sup> kg<br />(13.01 Yrths)
     density: 10.140 g/cm<sup>3</sup>
     surface_gravity: 34.622 m/s<sup>2</sup><br />(3.530 g<sub>0</sub>)
     escape_velocity: 29.120 km/s<br />(104,832 km/h)
     rotation_period: 1.816 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 449 K<br />(176 °C)
+    temperature: 391 K<br />(118 °C)
     composition:
       - 78.9180% hydrogen
       - 21.0820% helium
@@ -55,14 +55,14 @@ planets:
         radius: 11,157.7 km<br/>(1.751 Yrths)
         surface_area: 1.564 × 10<sup>09</sup> km<sup>2</sup><br/>(3.067 Yrths)
         volume: 5.819 × 10<sup>12</sup> km<sup>3</sup><br/>(5.372 Yrths)
-        mass: 1.856 × 10<sup>25</sup> kg<br />(13.008827706588356 Yrths)
+        mass: 1.856 × 10<sup>25</sup> kg<br />(3.108 Yrths)
         density: 3.190 g/cm<sup>3</sup>
         surface_gravity: 9.937 m/s<sup>2</sup><br />(1.013 g<sub>0</sub>)
         escape_velocity: 14.901 km/s<br />(53,645 km/h)
         rotation_period: 52.953 d
         axial_tilt: 17.15°
         albedo: 0.30
-        temperature: 3006 K<br />(2733 °C)
+        temperature: 337 K<br />(64 °C)
       - name: 7848 Dialkeshiad I b
         type: Rocky
         formationType: Captured
@@ -75,14 +75,14 @@ planets:
         radius: 14,252.4 km<br/>(2.237 Yrths)
         surface_area: 2.553 × 10<sup>09</sup> km<sup>2</sup><br/>(5.005 Yrths)
         volume: 1.213 × 10<sup>13</sup> km<sup>3</sup><br/>(11.196 Yrths)
-        mass: 3.133 × 10<sup>25</sup> kg<br />(13.008827706588356 Yrths)
+        mass: 3.133 × 10<sup>25</sup> kg<br />(5.247 Yrths)
         density: 2.584 g/cm<sup>3</sup>
         surface_gravity: 10.281 m/s<sup>2</sup><br />(1.048 g<sub>0</sub>)
         escape_velocity: 17.131 km/s<br />(61,670 km/h)
         rotation_period: 33.300 d
         axial_tilt: 9.76°
         albedo: 0.30
-        temperature: 2866 K<br />(2593 °C)
+        temperature: 337 K<br />(64 °C)
   - name: 7848 Dialkeshiad II
     type: Ice giant
     aphelion: 87,581,132 km<br />0.585 AU
@@ -94,14 +94,14 @@ planets:
     radius: 27,640.2 km<br/>(4.338 Yrths)
     surface_area: 9.600 × 10<sup>09</sup> km<sup>2</sup><br/>(18.822 Yrths)
     volume: 8.845 × 10<sup>13</sup> km<sup>3</sup><br/>(81.658 Yrths)
-    mass: 1.686 × 10<sup>26</sup> kg<br />(28.226308076714115 Yrths)
+    mass: 1.686 × 10<sup>26</sup> kg<br />(28.23 Yrths)
     density: 1.906 g/cm<sup>3</sup>
     surface_gravity: 14.706 m/s<sup>2</sup><br />(1.500 g<sub>0</sub>)
     escape_velocity: 28.532 km/s<br />(102,716 km/h)
     rotation_period: 1.113 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 455 K<br />(182 °C)
+    temperature: 407 K<br />(133 °C)
     composition:
       - 49.7757% hydrogen
       - 42.7145% helium
@@ -119,14 +119,14 @@ planets:
         radius: 20,350.4 km<br/>(3.194 Yrths)
         surface_area: 5.204 × 10<sup>09</sup> km<sup>2</sup><br/>(10.203 Yrths)
         volume: 3.530 × 10<sup>13</sup> km<sup>3</sup><br/>(32.591 Yrths)
-        mass: 5.453 × 10<sup>25</sup> kg<br />(28.226308076714115 Yrths)
+        mass: 5.453 × 10<sup>25</sup> kg<br />(9.130 Yrths)
         density: 1.545 g/cm<sup>3</sup>
         surface_gravity: 8.776 m/s<sup>2</sup><br />(0.895 g<sub>0</sub>)
         escape_velocity: 18.912 km/s<br />(68,083 km/h)
         rotation_period: 41.951 d
         axial_tilt: 16.68°
         albedo: 0.30
-        temperature: 2067 K<br />(1794 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: 7848 Dialkeshiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 33,962.2 km<br/>(5.331 Yrths)
         surface_area: 1.449 × 10<sup>10</sup> km<sup>2</sup><br/>(28.417 Yrths)
         volume: 1.641 × 10<sup>14</sup> km<sup>3</sup><br/>(151.483 Yrths)
-        mass: 4.044 × 10<sup>26</sup> kg<br />(28.226308076714115 Yrths)
+        mass: 4.044 × 10<sup>26</sup> kg<br />(67.719 Yrths)
         density: 2.465 g/cm<sup>3</sup>
         surface_gravity: 23.370 m/s<sup>2</sup><br />(2.383 g<sub>0</sub>)
         escape_velocity: 39.869 km/s<br />(143,529 km/h)
         rotation_period: 47.304 d
         axial_tilt: 13.37°
         albedo: 0.30
-        temperature: 1971 K<br />(1698 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: 7848 Dialkeshiad II c
         type: Icy
         formationType: Captured
@@ -159,14 +159,14 @@ planets:
         radius: 29,520.0 km<br/>(4.633 Yrths)
         surface_area: 1.095 × 10<sup>10</sup> km<sup>2</sup><br/>(21.469 Yrths)
         volume: 1.078 × 10<sup>14</sup> km<sup>3</sup><br/>(99.478 Yrths)
-        mass: 1.685 × 10<sup>26</sup> kg<br />(28.226308076714115 Yrths)
+        mass: 1.685 × 10<sup>26</sup> kg<br />(28.212 Yrths)
         density: 1.564 g/cm<sup>3</sup>
         surface_gravity: 12.887 m/s<sup>2</sup><br />(1.314 g<sub>0</sub>)
         escape_velocity: 27.602 km/s<br />(99,367 km/h)
         rotation_period: 41.416 d
         axial_tilt: 9.17°
         albedo: 0.30
-        temperature: 1879 K<br />(1606 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: 7848 Dialkeshiad II d
         type: Icy
         formationType: Captured
@@ -179,14 +179,14 @@ planets:
         radius: 26,763.4 km<br/>(4.201 Yrths)
         surface_area: 9.001 × 10<sup>09</sup> km<sup>2</sup><br/>(17.647 Yrths)
         volume: 8.030 × 10<sup>13</sup> km<sup>3</sup><br/>(74.131 Yrths)
-        mass: 1.001 × 10<sup>26</sup> kg<br />(28.226308076714115 Yrths)
+        mass: 1.001 × 10<sup>26</sup> kg<br />(16.758 Yrths)
         density: 1.246 g/cm<sup>3</sup>
         surface_gravity: 9.312 m/s<sup>2</sup><br />(0.950 g<sub>0</sub>)
         escape_velocity: 22.342 km/s<br />(80,429 km/h)
         rotation_period: 59.996 d
         axial_tilt: 24.40°
         albedo: 0.30
-        temperature: 1792 K<br />(1519 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: 7848 Dialkeshiad II e
         type: Asteroid
         formationType: Captured
@@ -199,14 +199,14 @@ planets:
         radius: 20,524.1 km<br/>(3.221 Yrths)
         surface_area: 5.293 × 10<sup>09</sup> km<sup>2</sup><br/>(10.378 Yrths)
         volume: 3.621 × 10<sup>13</sup> km<sup>3</sup><br/>(33.433 Yrths)
-        mass: 7.514 × 10<sup>25</sup> kg<br />(28.226308076714115 Yrths)
+        mass: 7.514 × 10<sup>25</sup> kg<br />(12.582 Yrths)
         density: 2.075 g/cm<sup>3</sup>
         surface_gravity: 11.890 m/s<sup>2</sup><br />(1.212 g<sub>0</sub>)
         escape_velocity: 22.107 km/s<br />(79,585 km/h)
         rotation_period: 43.156 d
         axial_tilt: 15.28°
         albedo: 0.30
-        temperature: 1708 K<br />(1435 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: 7848 Dialkeshiad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -219,14 +219,14 @@ planets:
         radius: 34,143.1 km<br/>(5.359 Yrths)
         surface_area: 1.465 × 10<sup>10</sup> km<sup>2</sup><br/>(28.720 Yrths)
         volume: 1.667 × 10<sup>14</sup> km<sup>3</sup><br/>(153.917 Yrths)
-        mass: 4.668 × 10<sup>26</sup> kg<br />(28.226308076714115 Yrths)
+        mass: 4.668 × 10<sup>26</sup> kg<br />(78.169 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 26.691 m/s<sup>2</sup><br />(2.722 g<sub>0</sub>)
         escape_velocity: 42.721 km/s<br />(153,797 km/h)
         rotation_period: 44.543 d
         axial_tilt: 19.27°
         albedo: 0.30
-        temperature: 1553 K<br />(1280 °C)
+        temperature: 264 K<br />(-9 °C)
   - name: 7848 Dialkeshiad III
     type: Terrestrial
     aphelion: 142,803,335 km<br />0.955 AU
@@ -238,14 +238,14 @@ planets:
     radius: 7,639.8 km<br/>(1.199 Yrths)
     surface_area: 7.335 × 10<sup>08</sup> km<sup>2</sup><br/>(1.438 Yrths)
     volume: 1.868 × 10<sup>12</sup> km<sup>3</sup><br/>(1.724 Yrths)
-    mass: 8.892 × 10<sup>24</sup> kg<br />(1.489012578740858 Yrths)
+    mass: 8.892 × 10<sup>24</sup> kg<br />(1.49 Yrths)
     density: 4.761 g/cm<sup>3</sup>
     surface_gravity: 10.155 m/s<sup>2</sup><br />(1.036 g<sub>0</sub>)
     escape_velocity: 12.465 km/s<br />(44,873 km/h)
     rotation_period: 1.547 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 222 K<br />(-51 °C)
+    temperature: 227 K<br />(-46 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 81.1588% nitrogen
@@ -264,14 +264,14 @@ planets:
         radius: 1,011.4 km<br/>(0.159 Yrths)
         surface_area: 1.285 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.334 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.450 × 10<sup>22</sup> kg<br />(1.489012578740858 Yrths)
+        mass: 1.450 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 3.347 g/cm<sup>3</sup>
         surface_gravity: 0.945 m/s<sup>2</sup><br />(0.096 g<sub>0</sub>)
         escape_velocity: 1.384 km/s<br />(4,981 km/h)
         rotation_period: 30.416 d
         axial_tilt: 12.62°
         albedo: 0.30
-        temperature: 2665 K<br />(2391 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 7848 Dialkeshiad III b
         type: Asteroid
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 2,980.9 km<br/>(0.468 Yrths)
         surface_area: 1.117 × 10<sup>08</sup> km<sup>2</sup><br/>(0.219 Yrths)
         volume: 1.110 × 10<sup>11</sup> km<sup>3</sup><br/>(0.102 Yrths)
-        mass: 2.770 × 10<sup>23</sup> kg<br />(1.489012578740858 Yrths)
+        mass: 2.770 × 10<sup>23</sup> kg<br />(0.046 Yrths)
         density: 2.497 g/cm<sup>3</sup>
         surface_gravity: 2.078 m/s<sup>2</sup><br />(0.212 g<sub>0</sub>)
         escape_velocity: 3.522 km/s<br />(12,680 km/h)
         rotation_period: 46.621 d
         axial_tilt: 17.10°
         albedo: 0.30
-        temperature: 2541 K<br />(2267 °C)
+        temperature: 206 K<br />(-67 °C)
   - name: 7848 Dialkeshiad IV
     type: Large terrestrial
     aphelion: 231,971,758 km<br />1.551 AU
@@ -303,14 +303,14 @@ planets:
     radius: 8,935.0 km<br/>(1.402 Yrths)
     surface_area: 1.003 × 10<sup>09</sup> km<sup>2</sup><br/>(1.967 Yrths)
     volume: 2.988 × 10<sup>12</sup> km<sup>3</sup><br/>(2.758 Yrths)
-    mass: 1.855 × 10<sup>25</sup> kg<br />(3.1054415039670054 Yrths)
+    mass: 1.855 × 10<sup>25</sup> kg<br />(3.11 Yrths)
     density: 6.207 g/cm<sup>3</sup>
     surface_gravity: 15.484 m/s<sup>2</sup><br />(1.579 g<sub>0</sub>)
     escape_velocity: 16.645 km/s<br />(59,923 km/h)
     rotation_period: 1.090 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 197 K<br />(-77 °C)
+    temperature: 175 K<br />(-98 °C)
     surface_pressure: 142 kPa<br />(1 atm)
     composition:
       - 93.2034% nitrogen
@@ -329,14 +329,14 @@ planets:
         radius: 7,263.7 km<br/>(1.140 Yrths)
         surface_area: 6.630 × 10<sup>08</sup> km<sup>2</sup><br/>(1.300 Yrths)
         volume: 1.605 × 10<sup>12</sup> km<sup>3</sup><br/>(1.482 Yrths)
-        mass: 2.476 × 10<sup>24</sup> kg<br />(3.1054415039670054 Yrths)
+        mass: 2.476 × 10<sup>24</sup> kg<br />(0.415 Yrths)
         density: 1.542 g/cm<sup>3</sup>
         surface_gravity: 3.128 m/s<sup>2</sup><br />(0.319 g<sub>0</sub>)
         escape_velocity: 6.745 km/s<br />(24,284 km/h)
         rotation_period: 41.289 d
         axial_tilt: 19.95°
         albedo: 0.30
-        temperature: 1833 K<br />(1559 °C)
+        temperature: 162 K<br />(-112 °C)
       - name: 7848 Dialkeshiad IV b
         type: Icy
         formationType: Impact formed
@@ -349,12 +349,12 @@ planets:
         radius: 7,750.6 km<br/>(1.217 Yrths)
         surface_area: 7.549 × 10<sup>08</sup> km<sup>2</sup><br/>(1.480 Yrths)
         volume: 1.950 × 10<sup>12</sup> km<sup>3</sup><br/>(1.800 Yrths)
-        mass: 1.376 × 10<sup>24</sup> kg<br />(3.1054415039670054 Yrths)
+        mass: 1.376 × 10<sup>24</sup> kg<br />(0.230 Yrths)
         density: 0.706 g/cm<sup>3</sup>
         surface_gravity: 1.527 m/s<sup>2</sup><br />(0.156 g<sub>0</sub>)
         escape_velocity: 4.868 km/s<br />(17,526 km/h)
         rotation_period: 91.754 d
         axial_tilt: 17.34°
         albedo: 0.30
-        temperature: 1747 K<br />(1474 °C)
+        temperature: 162 K<br />(-112 °C)
 ---

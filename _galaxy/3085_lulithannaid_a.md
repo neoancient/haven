@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3085 Lulithannaid A is a star in the constellation Lulithan
+      3085 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 437.51 ly
 apparent_magnitude: 7.72
 absolute_magnitude: 2.08

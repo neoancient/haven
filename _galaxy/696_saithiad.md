@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      696 Saithiad is a star in the constellation Saith
+      696 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 335.78 ly
 apparent_magnitude: 7.37
 absolute_magnitude: 2.31
@@ -31,14 +31,14 @@ planets:
     radius: 10,864.7 km<br/>(1.705 Yrths)
     surface_area: 1.483 × 10<sup>09</sup> km<sup>2</sup><br/>(2.908 Yrths)
     volume: 5.372 × 10<sup>12</sup> km<sup>3</sup><br/>(4.959 Yrths)
-    mass: 1.517 × 10<sup>25</sup> kg<br />(2.540996164423314 Yrths)
+    mass: 1.517 × 10<sup>25</sup> kg<br />(2.54 Yrths)
     density: 2.825 g/cm<sup>3</sup>
     surface_gravity: 8.568 m/s<sup>2</sup><br />(0.874 g<sub>0</sub>)
     escape_velocity: 13.654 km/s<br />(49,156 km/h)
     rotation_period: 0.777 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 471 K<br />(198 °C)
+    temperature: 424 K<br />(151 °C)
     composition:
       - 65.9979% hydrogen
       - 28.6753% helium
@@ -56,14 +56,14 @@ planets:
         radius: 4,836.2 km<br/>(0.759 Yrths)
         surface_area: 2.939 × 10<sup>08</sup> km<sup>2</sup><br/>(0.576 Yrths)
         volume: 4.738 × 10<sup>11</sup> km<sup>3</sup><br/>(0.437 Yrths)
-        mass: 4.074 × 10<sup>23</sup> kg<br />(2.540996164423314 Yrths)
+        mass: 4.074 × 10<sup>23</sup> kg<br />(0.068 Yrths)
         density: 0.860 g/cm<sup>3</sup>
         surface_gravity: 1.161 m/s<sup>2</sup><br />(0.118 g<sub>0</sub>)
         escape_velocity: 3.353 km/s<br />(12,071 km/h)
         rotation_period: 86.634 d
         axial_tilt: 21.69°
         albedo: 0.30
-        temperature: 3889 K<br />(3616 °C)
+        temperature: 307 K<br />(34 °C)
       - name: 696 Saithiad I b
         type: Icy
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 5,765.4 km<br/>(0.905 Yrths)
         surface_area: 4.177 × 10<sup>08</sup> km<sup>2</sup><br/>(0.819 Yrths)
         volume: 8.027 × 10<sup>11</sup> km<sup>3</sup><br/>(0.741 Yrths)
-        mass: 1.180 × 10<sup>24</sup> kg<br />(2.540996164423314 Yrths)
+        mass: 1.180 × 10<sup>24</sup> kg<br />(0.198 Yrths)
         density: 1.471 g/cm<sup>3</sup>
         surface_gravity: 2.367 m/s<sup>2</sup><br />(0.241 g<sub>0</sub>)
         escape_velocity: 5.228 km/s<br />(18,820 km/h)
         rotation_period: 78.684 d
         axial_tilt: 20.70°
         albedo: 0.30
-        temperature: 3708 K<br />(3435 °C)
+        temperature: 307 K<br />(34 °C)
       - name: 696 Saithiad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 1,645.9 km<br/>(0.258 Yrths)
         surface_area: 3.404 × 10<sup>07</sup> km<sup>2</sup><br/>(0.067 Yrths)
         volume: 1.868 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 4.066 × 10<sup>22</sup> kg<br />(2.540996164423314 Yrths)
+        mass: 4.066 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 2.177 g/cm<sup>3</sup>
         surface_gravity: 1.000 m/s<sup>2</sup><br />(0.102 g<sub>0</sub>)
         escape_velocity: 1.816 km/s<br />(6,537 km/h)
         rotation_period: 60.896 d
         axial_tilt: 14.26°
         albedo: 0.30
-        temperature: 3536 K<br />(3263 °C)
+        temperature: 307 K<br />(34 °C)
       - name: 696 Saithiad I d
         type: Icy
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 7,586.0 km<br/>(1.191 Yrths)
         surface_area: 7.232 × 10<sup>08</sup> km<sup>2</sup><br/>(1.418 Yrths)
         volume: 1.829 × 10<sup>12</sup> km<sup>3</sup><br/>(1.688 Yrths)
-        mass: 1.280 × 10<sup>24</sup> kg<br />(2.540996164423314 Yrths)
+        mass: 1.280 × 10<sup>24</sup> kg<br />(0.214 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 1.483 m/s<sup>2</sup><br />(0.151 g<sub>0</sub>)
         escape_velocity: 4.746 km/s<br />(17,085 km/h)
         rotation_period: 105.187 d
         axial_tilt: 13.28°
         albedo: 0.30
-        temperature: 3214 K<br />(2941 °C)
+        temperature: 307 K<br />(34 °C)
       - name: 696 Saithiad I e
         type: Icy
         formationType: Captured
@@ -136,12 +136,12 @@ planets:
         radius: 3,298.0 km<br/>(0.518 Yrths)
         surface_area: 1.367 × 10<sup>08</sup> km<sup>2</sup><br/>(0.268 Yrths)
         volume: 1.503 × 10<sup>11</sup> km<sup>3</sup><br/>(0.139 Yrths)
-        mass: 1.667 × 10<sup>23</sup> kg<br />(2.540996164423314 Yrths)
+        mass: 1.667 × 10<sup>23</sup> kg<br />(0.028 Yrths)
         density: 1.109 g/cm<sup>3</sup>
         surface_gravity: 1.021 m/s<sup>2</sup><br />(0.104 g<sub>0</sub>)
         escape_velocity: 2.597 km/s<br />(9,350 km/h)
         rotation_period: 51.257 d
         axial_tilt: 17.95°
         albedo: 0.30
-        temperature: 3065 K<br />(2792 °C)
+        temperature: 307 K<br />(34 °C)
 ---

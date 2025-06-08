@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      751 Narashiad is a star in the constellation Naras
+      751 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 295.37 ly
 apparent_magnitude: 16.35
 absolute_magnitude: 11.56

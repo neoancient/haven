@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      713 Aldnanniad is a star in the constellation Aldnan
+      713 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 854.93 ly
 apparent_magnitude: 11.51
 absolute_magnitude: 4.42

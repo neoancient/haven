@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6819 Arkothiad is a star in the constellation Arkoth
+      6819 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 280.77 ly
 apparent_magnitude: 11.38
 absolute_magnitude: 6.71

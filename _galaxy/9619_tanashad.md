@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9619 Tanashad is a star in the constellation Tanas
+      9619 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 277.37 ly
 apparent_magnitude: 9.47
 absolute_magnitude: 4.83
@@ -31,14 +31,14 @@ planets:
     radius: 8,060.4 km<br/>(1.265 Yrths)
     surface_area: 8.164 × 10<sup>08</sup> km<sup>2</sup><br/>(1.601 Yrths)
     volume: 2.194 × 10<sup>12</sup> km<sup>3</sup><br/>(2.025 Yrths)
-    mass: 1.796 × 10<sup>25</sup> kg<br />(3.006906017647387 Yrths)
+    mass: 1.796 × 10<sup>25</sup> kg<br />(3.01 Yrths)
     density: 8.186 g/cm<sup>3</sup>
     surface_gravity: 18.422 m/s<sup>2</sup><br />(1.879 g<sub>0</sub>)
     escape_velocity: 17.245 km/s<br />(62,082 km/h)
     rotation_period: 1.148 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 454 K<br />(181 °C)
+    temperature: 922 K<br />(649 °C)
     surface_pressure: 139 kPa<br />(1 atm)
     composition:
       - 51.9796% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 5,155.0 km<br/>(0.809 Yrths)
         surface_area: 3.339 × 10<sup>08</sup> km<sup>2</sup><br/>(0.655 Yrths)
         volume: 5.738 × 10<sup>11</sup> km<sup>3</sup><br/>(0.530 Yrths)
-        mass: 1.279 × 10<sup>24</sup> kg<br />(3.006906017647387 Yrths)
+        mass: 1.279 × 10<sup>24</sup> kg<br />(0.214 Yrths)
         density: 2.229 g/cm<sup>3</sup>
         surface_gravity: 3.209 m/s<sup>2</sup><br />(0.327 g<sub>0</sub>)
         escape_velocity: 5.755 km/s<br />(20,720 km/h)
         rotation_period: 34.114 d
         axial_tilt: 26.04°
         albedo: 0.30
-        temperature: 4398 K<br />(4125 °C)
+        temperature: 320 K<br />(46 °C)
       - name: 9619 Tanashad I b
         type: Asteroid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 2,630.9 km<br/>(0.413 Yrths)
         surface_area: 8.698 × 10<sup>07</sup> km<sup>2</sup><br/>(0.171 Yrths)
         volume: 7.628 × 10<sup>10</sup> km<sup>3</sup><br/>(0.070 Yrths)
-        mass: 2.244 × 10<sup>23</sup> kg<br />(3.006906017647387 Yrths)
+        mass: 2.244 × 10<sup>23</sup> kg<br />(0.038 Yrths)
         density: 2.942 g/cm<sup>3</sup>
         surface_gravity: 2.161 m/s<sup>2</sup><br />(0.220 g<sub>0</sub>)
         escape_velocity: 3.374 km/s<br />(12,148 km/h)
         rotation_period: 43.960 d
         axial_tilt: 48.76°
         albedo: 0.30
-        temperature: 4193 K<br />(3920 °C)
+        temperature: 320 K<br />(46 °C)
       - name: 9619 Tanashad I c
         type: Icy
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 2,637.8 km<br/>(0.414 Yrths)
         surface_area: 8.744 × 10<sup>07</sup> km<sup>2</sup><br/>(0.171 Yrths)
         volume: 7.688 × 10<sup>10</sup> km<sup>3</sup><br/>(0.071 Yrths)
-        mass: 9.146 × 10<sup>22</sup> kg<br />(3.006906017647387 Yrths)
+        mass: 9.146 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 1.190 g/cm<sup>3</sup>
         surface_gravity: 0.876 m/s<sup>2</sup><br />(0.089 g<sub>0</sub>)
         escape_velocity: 2.151 km/s<br />(7,745 km/h)
         rotation_period: 46.614 d
         axial_tilt: 11.99°
         albedo: 0.30
-        temperature: 3998 K<br />(3725 °C)
+        temperature: 320 K<br />(46 °C)
       - name: 9619 Tanashad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 2,274.9 km<br/>(0.357 Yrths)
         surface_area: 6.503 × 10<sup>07</sup> km<sup>2</sup><br/>(0.127 Yrths)
         volume: 4.931 × 10<sup>10</sup> km<sup>3</sup><br/>(0.046 Yrths)
-        mass: 1.361 × 10<sup>23</sup> kg<br />(3.006906017647387 Yrths)
+        mass: 1.361 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 2.761 g/cm<sup>3</sup>
         surface_gravity: 1.753 m/s<sup>2</sup><br />(0.179 g<sub>0</sub>)
         escape_velocity: 2.826 km/s<br />(10,175 km/h)
         rotation_period: 48.954 d
         axial_tilt: 15.74°
         albedo: 0.30
-        temperature: 3812 K<br />(3539 °C)
+        temperature: 320 K<br />(46 °C)
   - name: 9619 Tanashad II
     type: Gas giant
     aphelion: 177,890,849 km<br />1.189 AU
@@ -136,7 +136,7 @@ planets:
     radius: 186.5 km<br/>(0.029 Yrths)
     surface_area: 4.369 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.716 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.808 × 10<sup>26</sup> kg<br />(130.7390964673222 Yrths)
+    mass: 7.808 × 10<sup>26</sup> kg<br />(130.74 Yrths)
     density: 28748316.034 g/cm<sup>3</sup>
     surface_gravity: 1496667.033 m/s<sup>2</sup><br />(152617.564 g<sub>0</sub>)
     escape_velocity: 747.612 km/s<br />(2,691,404 km/h)
@@ -157,14 +157,14 @@ planets:
         radius: 85,373.3 km<br/>(13.400 Yrths)
         surface_area: 9.159 × 10<sup>10</sup> km<sup>2</sup><br/>(179.568 Yrths)
         volume: 2.606 × 10<sup>15</sup> km<sup>3</sup><br/>(2406.269 Yrths)
-        mass: 5.536 × 10<sup>27</sup> kg<br />(130.7390964673222 Yrths)
+        mass: 5.536 × 10<sup>27</sup> kg<br />(927.057 Yrths)
         density: 2.124 g/cm<sup>3</sup>
         surface_gravity: 50.629 m/s<sup>2</sup><br />(5.163 g<sub>0</sub>)
         escape_velocity: 93.040 km/s<br />(334,944 km/h)
         rotation_period: 43.409 d
         axial_tilt: 21.16°
         albedo: 0.30
-        temperature: 500 K<br />(227 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 9619 Tanashad II b
         type: Rocky
         formationType: Impact formed
@@ -177,14 +177,14 @@ planets:
         radius: 93,472.8 km<br/>(14.672 Yrths)
         surface_area: 1.098 × 10<sup>11</sup> km<sup>2</sup><br/>(215.256 Yrths)
         volume: 3.421 × 10<sup>15</sup> km<sup>3</sup><br/>(3158.155 Yrths)
-        mass: 9.916 × 10<sup>27</sup> kg<br />(130.7390964673222 Yrths)
+        mass: 9.916 × 10<sup>27</sup> kg<br />(1660.333 Yrths)
         density: 2.898 g/cm<sup>3</sup>
         surface_gravity: 75.642 m/s<sup>2</sup><br />(7.713 g<sub>0</sub>)
         escape_velocity: 118.996 km/s<br />(428,386 km/h)
         rotation_period: 46.939 d
         axial_tilt: 15.80°
         albedo: 0.30
-        temperature: 477 K<br />(203 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 9619 Tanashad II c
         type: Icy
         formationType: Captured
@@ -197,14 +197,14 @@ planets:
         radius: 107,145.1 km<br/>(16.818 Yrths)
         surface_area: 1.443 × 10<sup>11</sup> km<sup>2</sup><br/>(282.832 Yrths)
         volume: 5.152 × 10<sup>15</sup> km<sup>3</sup><br/>(4756.569 Yrths)
-        mass: 7.338 × 10<sup>27</sup> kg<br />(130.7390964673222 Yrths)
+        mass: 7.338 × 10<sup>27</sup> kg<br />(1228.704 Yrths)
         density: 1.424 g/cm<sup>3</sup>
         surface_gravity: 42.603 m/s<sup>2</sup><br />(4.344 g<sub>0</sub>)
         escape_velocity: 95.613 km/s<br />(344,206 km/h)
         rotation_period: 70.400 d
         axial_tilt: 11.45°
         albedo: 0.30
-        temperature: 358 K<br />(85 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 9619 Tanashad II d
         type: Rocky
         formationType: Accreted
@@ -217,14 +217,14 @@ planets:
         radius: 78,956.2 km<br/>(12.393 Yrths)
         surface_area: 7.834 × 10<sup>10</sup> km<sup>2</sup><br/>(153.588 Yrths)
         volume: 2.062 × 10<sup>15</sup> km<sup>3</sup><br/>(1903.426 Yrths)
-        mass: 6.232 × 10<sup>27</sup> kg<br />(130.7390964673222 Yrths)
+        mass: 6.232 × 10<sup>27</sup> kg<br />(1043.559 Yrths)
         density: 3.023 g/cm<sup>3</sup>
         surface_gravity: 66.632 m/s<sup>2</sup><br />(6.795 g<sub>0</sub>)
         escape_velocity: 102.646 km/s<br />(369,527 km/h)
         rotation_period: 35.907 d
         axial_tilt: 20.12°
         albedo: 0.30
-        temperature: 175 K<br />(-98 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 9619 Tanashad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -237,12 +237,12 @@ planets:
         radius: 123,393.2 km<br/>(19.368 Yrths)
         surface_area: 1.913 × 10<sup>11</sup> km<sup>2</sup><br/>(375.118 Yrths)
         volume: 7.870 × 10<sup>15</sup> km<sup>3</sup><br/>(7265.262 Yrths)
-        mass: 1.319 × 10<sup>28</sup> kg<br />(130.7390964673222 Yrths)
+        mass: 1.319 × 10<sup>28</sup> kg<br />(2208.674 Yrths)
         density: 1.676 g/cm<sup>3</sup>
         surface_gravity: 57.741 m/s<sup>2</sup><br />(5.888 g<sub>0</sub>)
         escape_velocity: 119.453 km/s<br />(430,032 km/h)
         rotation_period: 53.498 d
         axial_tilt: 25.32°
         albedo: 0.30
-        temperature: 132 K<br />(-142 °C)
+        temperature: 239 K<br />(-34 °C)
 ---

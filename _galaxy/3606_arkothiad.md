@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3606 Arkothiad is a star in the constellation Arkoth
+      3606 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 609.30 ly
 apparent_magnitude: 7.09
 absolute_magnitude: 0.74

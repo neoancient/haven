@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5934 Anilliad is a star in the constellation Anil
+      5934 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 759.36 ly
 apparent_magnitude: 12.84
 absolute_magnitude: 6.01

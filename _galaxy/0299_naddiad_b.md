@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0299 Naddiad B is a star in the constellation Naddi
+      0299 Naddiad B is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 750.86 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 4.18

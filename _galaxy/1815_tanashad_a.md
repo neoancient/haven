@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1815 Tanashad A is a star in the constellation Tanas
+      1815 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 485.63 ly
 apparent_magnitude: 7.58
 absolute_magnitude: 1.71

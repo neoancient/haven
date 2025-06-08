@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4803 Tanashad is a star in the constellation Tanas
+      4803 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 481.76 ly
 apparent_magnitude: 8.63
 absolute_magnitude: 2.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      308 Ratharshinniad is a star in the constellation Ratharshin
+      308 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 372.98 ly
 apparent_magnitude: 10.60
 absolute_magnitude: 5.31

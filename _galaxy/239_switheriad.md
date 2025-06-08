@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      239 Switheriad is a star in the constellation Swither
+      239 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 230.11 ly
 apparent_magnitude: 19.76
 absolute_magnitude: 15.52

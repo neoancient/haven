@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1242 Saithiad is a star in the constellation Saith
+      1242 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 665.00 ly
 apparent_magnitude: 11.75
 absolute_magnitude: 5.20

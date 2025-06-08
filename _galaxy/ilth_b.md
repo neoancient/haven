@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ilth B is a star in the constellation Rukentua
+      Ilth B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 2008.99 ly
 apparent_magnitude: 6.21
 absolute_magnitude: -2.74

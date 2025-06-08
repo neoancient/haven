@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2871 Tanashad is a star in the constellation Tanas
+      2871 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 508.79 ly
 apparent_magnitude: 11.25
 absolute_magnitude: 5.29

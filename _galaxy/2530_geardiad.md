@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2530 Geardiad is a star in the constellation Geard
+      2530 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 451.99 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 5.02

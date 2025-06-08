@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0089 Naddiad A is a star in the constellation Naddi
+      0089 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 2334.87 ly
 apparent_magnitude: 5.97
 absolute_magnitude: -3.30

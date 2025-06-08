@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Unshus B is a star in the constellation Rukentua
+      Unshus B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 1443.59 ly
 apparent_magnitude: 3.41
 absolute_magnitude: -4.82

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1845 Dialkeshiad A is a star in the constellation Dialkes
+      1845 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 383.41 ly
 apparent_magnitude: 10.84
 absolute_magnitude: 5.49

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5194 Narashiad A is a star in the constellation Naras
+      5194 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 411.27 ly
 apparent_magnitude: 7.74
 absolute_magnitude: 2.24

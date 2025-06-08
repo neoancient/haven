@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0049 Emniaiad is a star in the constellation Emnia
+      0049 Emniaiad is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 160.98 ly
 apparent_magnitude: 5.73
 absolute_magnitude: 2.26
@@ -31,14 +31,14 @@ planets:
     radius: 17,437.1 km<br/>(2.737 Yrths)
     surface_area: 3.821 × 10<sup>09</sup> km<sup>2</sup><br/>(7.491 Yrths)
     volume: 2.221 × 10<sup>13</sup> km<sup>3</sup><br/>(20.502 Yrths)
-    mass: 5.856 × 10<sup>25</sup> kg<br />(9.805198817338084 Yrths)
+    mass: 5.856 × 10<sup>25</sup> kg<br />(9.81 Yrths)
     density: 2.637 g/cm<sup>3</sup>
     surface_gravity: 12.836 m/s<sup>2</sup><br />(1.309 g<sub>0</sub>)
     escape_velocity: 21.172 km/s<br />(76,220 km/h)
     rotation_period: 0.406 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 627 K<br />(354 °C)
+    temperature: 634 K<br />(361 °C)
     composition:
       - 71.1928% hydrogen
       - 24.5899% helium
@@ -57,14 +57,14 @@ planets:
         radius: 8,573.8 km<br/>(1.346 Yrths)
         surface_area: 9.237 × 10<sup>08</sup> km<sup>2</sup><br/>(1.811 Yrths)
         volume: 2.640 × 10<sup>12</sup> km<sup>3</sup><br/>(2.437 Yrths)
-        mass: 4.836 × 10<sup>24</sup> kg<br />(9.805198817338084 Yrths)
+        mass: 4.836 × 10<sup>24</sup> kg<br />(0.810 Yrths)
         density: 1.832 g/cm<sup>3</sup>
         surface_gravity: 4.385 m/s<sup>2</sup><br />(0.447 g<sub>0</sub>)
         escape_velocity: 8.677 km/s<br />(31,236 km/h)
         rotation_period: 38.576 d
         axial_tilt: 16.33°
         albedo: 0.30
-        temperature: 4094 K<br />(3821 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 0049 Emniaiad I b
         type: Icy
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 14,036.9 km<br/>(2.203 Yrths)
         surface_area: 2.476 × 10<sup>09</sup> km<sup>2</sup><br/>(4.854 Yrths)
         volume: 1.159 × 10<sup>13</sup> km<sup>3</sup><br/>(10.695 Yrths)
-        mass: 1.688 × 10<sup>25</sup> kg<br />(9.805198817338084 Yrths)
+        mass: 1.688 × 10<sup>25</sup> kg<br />(2.826 Yrths)
         density: 1.457 g/cm<sup>3</sup>
         surface_gravity: 5.709 m/s<sup>2</sup><br />(0.582 g<sub>0</sub>)
         escape_velocity: 12.668 km/s<br />(45,605 km/h)
         rotation_period: 61.239 d
         axial_tilt: 20.23°
         albedo: 0.30
-        temperature: 3903 K<br />(3630 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 0049 Emniaiad I c
         type: Rocky
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 9,769.2 km<br/>(1.533 Yrths)
         surface_area: 1.199 × 10<sup>09</sup> km<sup>2</sup><br/>(2.351 Yrths)
         volume: 3.905 × 10<sup>12</sup> km<sup>3</sup><br/>(3.605 Yrths)
-        mass: 1.218 × 10<sup>25</sup> kg<br />(9.805198817338084 Yrths)
+        mass: 1.218 × 10<sup>25</sup> kg<br />(2.040 Yrths)
         density: 3.119 g/cm<sup>3</sup>
         surface_gravity: 8.507 m/s<sup>2</sup><br />(0.867 g<sub>0</sub>)
         escape_velocity: 12.901 km/s<br />(46,443 km/h)
         rotation_period: 29.455 d
         axial_tilt: 14.68°
         albedo: 0.30
-        temperature: 3722 K<br />(3449 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 0049 Emniaiad I d
         type: Icy
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 24,017.6 km<br/>(3.770 Yrths)
         surface_area: 7.249 × 10<sup>09</sup> km<sup>2</sup><br/>(14.212 Yrths)
         volume: 5.803 × 10<sup>13</sup> km<sup>3</sup><br/>(53.576 Yrths)
-        mass: 6.775 × 10<sup>25</sup> kg<br />(9.805198817338084 Yrths)
+        mass: 6.775 × 10<sup>25</sup> kg<br />(11.345 Yrths)
         density: 1.167 g/cm<sup>3</sup>
         surface_gravity: 7.829 m/s<sup>2</sup><br />(0.798 g<sub>0</sub>)
         escape_velocity: 19.405 km/s<br />(69,858 km/h)
         rotation_period: 53.470 d
         axial_tilt: 18.62°
         albedo: 0.30
-        temperature: 3548 K<br />(3275 °C)
+        temperature: 384 K<br />(111 °C)
   - name: 0049 Emniaiad II
     type: Large terrestrial
     aphelion: 458,506,183 km<br />3.065 AU
@@ -136,14 +136,14 @@ planets:
     radius: 10,276.8 km<br/>(1.613 Yrths)
     surface_area: 1.327 × 10<sup>09</sup> km<sup>2</sup><br/>(2.602 Yrths)
     volume: 4.546 × 10<sup>12</sup> km<sup>3</sup><br/>(4.197 Yrths)
-    mass: 2.923 × 10<sup>25</sup> kg<br />(4.894825374584521 Yrths)
+    mass: 2.923 × 10<sup>25</sup> kg<br />(4.89 Yrths)
     density: 6.430 g/cm<sup>3</sup>
     surface_gravity: 18.448 m/s<sup>2</sup><br />(1.881 g<sub>0</sub>)
     escape_velocity: 19.486 km/s<br />(70,149 km/h)
     rotation_period: 0.567 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 433 K<br />(160 °C)
+    temperature: 523 K<br />(250 °C)
     surface_pressure: 3,745 kPa<br />(37 atm)
     composition:
       - 81.2439% nitrogen
@@ -162,14 +162,14 @@ planets:
         radius: 10,789.5 km<br/>(1.694 Yrths)
         surface_area: 1.463 × 10<sup>09</sup> km<sup>2</sup><br/>(2.868 Yrths)
         volume: 5.261 × 10<sup>12</sup> km<sup>3</sup><br/>(4.857 Yrths)
-        mass: 7.573 × 10<sup>24</sup> kg<br />(4.894825374584521 Yrths)
+        mass: 7.573 × 10<sup>24</sup> kg<br />(1.268 Yrths)
         density: 1.439 g/cm<sup>3</sup>
         surface_gravity: 4.336 m/s<sup>2</sup><br />(0.442 g<sub>0</sub>)
         escape_velocity: 9.679 km/s<br />(34,845 km/h)
         rotation_period: 55.991 d
         axial_tilt: 12.35°
         albedo: 0.30
-        temperature: 3448 K<br />(3175 °C)
+        temperature: 279 K<br />(5 °C)
   - name: 0049 Emniaiad III
     type: Terrestrial
     aphelion: 858,233,731 km<br />5.737 AU
@@ -181,14 +181,14 @@ planets:
     radius: 5,756.7 km<br/>(0.904 Yrths)
     surface_area: 4.164 × 10<sup>08</sup> km<sup>2</sup><br/>(0.816 Yrths)
     volume: 7.991 × 10<sup>11</sup> km<sup>3</sup><br/>(0.738 Yrths)
-    mass: 3.576 × 10<sup>24</sup> kg<br />(0.5988537516343169 Yrths)
+    mass: 3.576 × 10<sup>24</sup> kg<br />(0.60 Yrths)
     density: 4.475 g/cm<sup>3</sup>
     surface_gravity: 7.193 m/s<sup>2</sup><br />(0.733 g<sub>0</sub>)
     escape_velocity: 9.107 km/s<br />(32,783 km/h)
     rotation_period: 1.167 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 236 K<br />(-37 °C)
+    temperature: 265 K<br />(-8 °C)
     surface_pressure: 38 kPa<br />(0 atm)
     composition:
       - 89.3137% ammonia
@@ -208,12 +208,12 @@ planets:
         radius: 2,551.8 km<br/>(0.401 Yrths)
         surface_area: 8.183 × 10<sup>07</sup> km<sup>2</sup><br/>(0.160 Yrths)
         volume: 6.960 × 10<sup>10</sup> km<sup>3</sup><br/>(0.064 Yrths)
-        mass: 1.306 × 10<sup>23</sup> kg<br />(0.5988537516343169 Yrths)
+        mass: 1.306 × 10<sup>23</sup> kg<br />(0.022 Yrths)
         density: 1.876 g/cm<sup>3</sup>
         surface_gravity: 1.337 m/s<sup>2</sup><br />(0.136 g<sub>0</sub>)
         escape_velocity: 2.614 km/s<br />(9,409 km/h)
         rotation_period: 40.083 d
         axial_tilt: 5.95°
         albedo: 0.30
-        temperature: 3492 K<br />(3219 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rishot Sho A is a star in the constellation Rishauth
+      Rishot Sho A is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 208.96 ly
 apparent_magnitude: 2.48
 absolute_magnitude: -1.55

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4160 Dialkeshiad is a star in the constellation Dialkes
+      4160 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 323.07 ly
 apparent_magnitude: 11.02
 absolute_magnitude: 6.04

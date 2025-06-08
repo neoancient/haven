@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1809 Noniashad A is a star in the constellation Nonias
+      1809 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 646.85 ly
 apparent_magnitude: 6.92
 absolute_magnitude: 0.43

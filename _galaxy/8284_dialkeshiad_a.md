@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8284 Dialkeshiad A is a star in the constellation Dialkes
+      8284 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 473.75 ly
 apparent_magnitude: 9.96
 absolute_magnitude: 4.15

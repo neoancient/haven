@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2026 Ratharshinniad A is a star in the constellation Ratharshin
+      2026 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 111.19 ly
 apparent_magnitude: 8.96
 absolute_magnitude: 6.29

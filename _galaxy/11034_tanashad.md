@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11034 Tanashad is a star in the constellation Tanas
+      11034 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 149.96 ly
 apparent_magnitude: 14.87
 absolute_magnitude: 11.56

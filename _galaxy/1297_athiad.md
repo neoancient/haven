@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1297 Athiad is a star in the constellation Ath
+      1297 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1121.76 ly
 apparent_magnitude: 12.90
 absolute_magnitude: 5.21

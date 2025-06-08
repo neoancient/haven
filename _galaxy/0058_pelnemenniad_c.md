@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0058 Pelnemenniad C is a star in the constellation Pelnemen
+      0058 Pelnemenniad C is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 124.83 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 7.59

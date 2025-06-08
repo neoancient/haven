@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5370 Narashiad A is a star in the constellation Naras
+      5370 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 535.10 ly
 apparent_magnitude: 8.20
 absolute_magnitude: 2.12

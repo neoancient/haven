@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2113 Keead A is a star in the constellation Kee
+      2113 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 438.29 ly
 apparent_magnitude: 7.33
 absolute_magnitude: 1.68

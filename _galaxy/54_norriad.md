@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      54 Norriad is a star in the constellation Nor
+      54 Norriad is a star in the constellation <a href="nor.html">Nor</a>
 distance: 273.19 ly
 apparent_magnitude: 16.18
 absolute_magnitude: 11.56

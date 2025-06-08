@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4933 Noniashad A is a star in the constellation Nonias
+      4933 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 229.69 ly
 apparent_magnitude: 6.97
 absolute_magnitude: 2.73

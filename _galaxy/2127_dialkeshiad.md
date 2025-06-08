@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2127 Dialkeshiad is a star in the constellation Dialkes
+      2127 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 427.47 ly
 apparent_magnitude: 10.62
 absolute_magnitude: 5.03

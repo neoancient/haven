@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ρ Molaiad is a star in the constellation Mola
+      ρ Molaiad is a star in the constellation <a href="mola.html">Mola</a>
 distance: 48.97 ly
 apparent_magnitude: 4.72
 absolute_magnitude: 3.84
@@ -31,7 +31,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.428 g/cm<sup>3</sup>
     surface_gravity: 31873.847 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 669.5 km<br/>(0.105 Yrths)
         surface_area: 5.633 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.257 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.468 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.468 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.963 g/cm<sup>3</sup>
         surface_gravity: 0.367 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.701 km/s<br />(2,525 km/h)
         rotation_period: 46.734 d
         axial_tilt: 12.35°
         albedo: 0.30
-        temperature: 2360 K<br />(2086 °C)
+        temperature: 223 K<br />(-51 °C)
       - name: ρ Molaiad I b
         type: Icy
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 872.1 km<br/>(0.137 Yrths)
         surface_area: 9.557 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.778 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 2.439 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.439 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.878 g/cm<sup>3</sup>
         surface_gravity: 0.214 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.611 km/s<br />(2,199 km/h)
         rotation_period: 70.589 d
         axial_tilt: 18.59°
         albedo: 0.30
-        temperature: 1270 K<br />(997 °C)
+        temperature: 223 K<br />(-51 °C)
       - name: ρ Molaiad I c
         type: Asteroid
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 701.5 km<br/>(0.110 Yrths)
         surface_area: 6.184 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.446 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.463 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.463 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.703 g/cm<sup>3</sup>
         surface_gravity: 0.334 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.685 km/s<br />(2,464 km/h)
         rotation_period: 53.201 d
         axial_tilt: 26.58°
         albedo: 0.30
-        temperature: 1155 K<br />(881 °C)
+        temperature: 223 K<br />(-51 °C)
       - name: ρ Molaiad I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 877.8 km<br/>(0.138 Yrths)
         surface_area: 9.682 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.833 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 2.787 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.787 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.984 g/cm<sup>3</sup>
         surface_gravity: 0.241 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.651 km/s<br />(2,344 km/h)
         rotation_period: 90.793 d
         axial_tilt: 27.19°
         albedo: 0.30
-        temperature: 290 K<br />(17 °C)
+        temperature: 223 K<br />(-51 °C)
       - name: ρ Molaiad I e
         type: Icy
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 984.7 km<br/>(0.155 Yrths)
         surface_area: 1.218 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 3.999 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.361 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.361 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.091 g/cm<sup>3</sup>
         surface_gravity: 0.300 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.769 km/s<br />(2,768 km/h)
         rotation_period: 51.430 d
         axial_tilt: 7.48°
         albedo: 0.30
-        temperature: 208 K<br />(-66 °C)
+        temperature: 223 K<br />(-51 °C)
   - name: ρ Molaiad II
     type: Ice giant
     aphelion: 761,938,883 km<br />5.093 AU
@@ -151,14 +151,14 @@ planets:
     radius: 28,856.1 km<br/>(4.529 Yrths)
     surface_area: 1.046 × 10<sup>10</sup> km<sup>2</sup><br/>(20.514 Yrths)
     volume: 1.006 × 10<sup>14</sup> km<sup>3</sup><br/>(92.916 Yrths)
-    mass: 1.561 × 10<sup>26</sup> kg<br />(26.131462791278086 Yrths)
+    mass: 1.561 × 10<sup>26</sup> kg<br />(26.13 Yrths)
     density: 1.551 g/cm<sup>3</sup>
     surface_gravity: 12.492 m/s<sup>2</sup><br />(1.274 g<sub>0</sub>)
     escape_velocity: 26.868 km/s<br />(96,726 km/h)
     rotation_period: 0.447 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 276 K<br />(2 °C)
+    temperature: 250 K<br />(-23 °C)
     composition:
       - 79.9307% hydrogen
       - 14.2476% helium
@@ -176,14 +176,14 @@ planets:
         radius: 34,668.8 km<br/>(5.442 Yrths)
         surface_area: 1.510 × 10<sup>10</sup> km<sup>2</sup><br/>(29.612 Yrths)
         volume: 1.745 × 10<sup>14</sup> km<sup>3</sup><br/>(161.137 Yrths)
-        mass: 3.559 × 10<sup>26</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 3.559 × 10<sup>26</sup> kg<br />(59.593 Yrths)
         density: 2.039 g/cm<sup>3</sup>
         surface_gravity: 19.736 m/s<sup>2</sup><br />(2.012 g<sub>0</sub>)
         escape_velocity: 37.017 km/s<br />(133,262 km/h)
         rotation_period: 53.066 d
         axial_tilt: 20.54°
         albedo: 0.30
-        temperature: 1243 K<br />(970 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -196,14 +196,14 @@ planets:
         radius: 18,089.0 km<br/>(2.839 Yrths)
         surface_area: 4.112 × 10<sup>09</sup> km<sup>2</sup><br/>(8.062 Yrths)
         volume: 2.479 × 10<sup>13</sup> km<sup>3</sup><br/>(22.889 Yrths)
-        mass: 4.629 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 4.629 × 10<sup>25</sup> kg<br />(7.751 Yrths)
         density: 1.867 g/cm<sup>3</sup>
         surface_gravity: 9.428 m/s<sup>2</sup><br />(0.961 g<sub>0</sub>)
         escape_velocity: 18.482 km/s<br />(66,533 km/h)
         rotation_period: 42.654 d
         axial_tilt: 11.83°
         albedo: 0.30
-        temperature: 1186 K<br />(912 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II c
         type: Icy
         formationType: Accreted
@@ -216,14 +216,14 @@ planets:
         radius: 19,773.1 km<br/>(3.104 Yrths)
         surface_area: 4.913 × 10<sup>09</sup> km<sup>2</sup><br/>(9.632 Yrths)
         volume: 3.238 × 10<sup>13</sup> km<sup>3</sup><br/>(29.895 Yrths)
-        mass: 4.899 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 4.899 × 10<sup>25</sup> kg<br />(8.203 Yrths)
         density: 1.513 g/cm<sup>3</sup>
         surface_gravity: 8.351 m/s<sup>2</sup><br />(0.852 g<sub>0</sub>)
         escape_velocity: 18.185 km/s<br />(65,466 km/h)
         rotation_period: 40.636 d
         axial_tilt: 6.63°
         albedo: 0.30
-        temperature: 1130 K<br />(857 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II d
         type: Rocky
         formationType: Captured
@@ -236,14 +236,14 @@ planets:
         radius: 16,274.4 km<br/>(2.554 Yrths)
         surface_area: 3.328 × 10<sup>09</sup> km<sup>2</sup><br/>(6.525 Yrths)
         volume: 1.806 × 10<sup>13</sup> km<sup>3</sup><br/>(16.668 Yrths)
-        mass: 4.852 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 4.852 × 10<sup>25</sup> kg<br />(8.125 Yrths)
         density: 2.687 g/cm<sup>3</sup>
         surface_gravity: 12.211 m/s<sup>2</sup><br />(1.245 g<sub>0</sub>)
         escape_velocity: 19.950 km/s<br />(71,818 km/h)
         rotation_period: 42.488 d
         axial_tilt: 7.85°
         albedo: 0.30
-        temperature: 1028 K<br />(754 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II e
         type: Dwarf planet
         formationType: Captured
@@ -256,14 +256,14 @@ planets:
         radius: 15,422.1 km<br/>(2.421 Yrths)
         surface_area: 2.989 × 10<sup>09</sup> km<sup>2</sup><br/>(5.860 Yrths)
         volume: 1.536 × 10<sup>13</sup> km<sup>3</sup><br/>(14.184 Yrths)
-        mass: 2.709 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 2.709 × 10<sup>25</sup> kg<br />(4.536 Yrths)
         density: 1.763 g/cm<sup>3</sup>
         surface_gravity: 7.591 m/s<sup>2</sup><br />(0.774 g<sub>0</sub>)
         escape_velocity: 15.312 km/s<br />(55,122 km/h)
         rotation_period: 60.731 d
         axial_tilt: 26.90°
         albedo: 0.30
-        temperature: 980 K<br />(707 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II f
         type: Icy
         formationType: Accreted
@@ -276,14 +276,14 @@ planets:
         radius: 17,119.3 km<br/>(2.687 Yrths)
         surface_area: 3.683 × 10<sup>09</sup> km<sup>2</sup><br/>(7.220 Yrths)
         volume: 2.102 × 10<sup>13</sup> km<sup>3</sup><br/>(19.401 Yrths)
-        mass: 2.245 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 2.245 × 10<sup>25</sup> kg<br />(3.760 Yrths)
         density: 1.068 g/cm<sup>3</sup>
         surface_gravity: 5.106 m/s<sup>2</sup><br />(0.521 g<sub>0</sub>)
         escape_velocity: 13.232 km/s<br />(47,634 km/h)
         rotation_period: 63.825 d
         axial_tilt: 17.66°
         albedo: 0.30
-        temperature: 934 K<br />(661 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II g
         type: Ice/rock hybrid
         formationType: Captured
@@ -296,14 +296,14 @@ planets:
         radius: 20,935.6 km<br/>(3.286 Yrths)
         surface_area: 5.508 × 10<sup>09</sup> km<sup>2</sup><br/>(10.798 Yrths)
         volume: 3.844 × 10<sup>13</sup> km<sup>3</sup><br/>(35.484 Yrths)
-        mass: 8.126 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 8.126 × 10<sup>25</sup> kg<br />(13.607 Yrths)
         density: 2.114 g/cm<sup>3</sup>
         surface_gravity: 12.358 m/s<sup>2</sup><br />(1.260 g<sub>0</sub>)
         escape_velocity: 22.763 km/s<br />(81,946 km/h)
         rotation_period: 46.401 d
         axial_tilt: 23.95°
         albedo: 0.30
-        temperature: 891 K<br />(618 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II h
         type: Icy
         formationType: Captured
@@ -316,14 +316,14 @@ planets:
         radius: 19,863.5 km<br/>(3.118 Yrths)
         surface_area: 4.958 × 10<sup>09</sup> km<sup>2</sup><br/>(9.721 Yrths)
         volume: 3.283 × 10<sup>13</sup> km<sup>3</sup><br/>(30.307 Yrths)
-        mass: 4.744 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 4.744 × 10<sup>25</sup> kg<br />(7.943 Yrths)
         density: 1.445 g/cm<sup>3</sup>
         surface_gravity: 8.013 m/s<sup>2</sup><br />(0.817 g<sub>0</sub>)
         escape_velocity: 17.854 km/s<br />(64,276 km/h)
         rotation_period: 51.210 d
         axial_tilt: 19.15°
         albedo: 0.30
-        temperature: 849 K<br />(576 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II i
         type: Ice/rock hybrid
         formationType: Captured
@@ -336,14 +336,14 @@ planets:
         radius: 14,801.9 km<br/>(2.323 Yrths)
         surface_area: 2.753 × 10<sup>09</sup> km<sup>2</sup><br/>(5.398 Yrths)
         volume: 1.358 × 10<sup>13</sup> km<sup>3</sup><br/>(12.541 Yrths)
-        mass: 3.116 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 3.116 × 10<sup>25</sup> kg<br />(5.217 Yrths)
         density: 2.294 g/cm<sup>3</sup>
         surface_gravity: 9.479 m/s<sup>2</sup><br />(0.967 g<sub>0</sub>)
         escape_velocity: 16.763 km/s<br />(60,346 km/h)
         rotation_period: 43.481 d
         axial_tilt: 19.62°
         albedo: 0.30
-        temperature: 810 K<br />(537 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II j
         type: Icy
         formationType: Accreted
@@ -356,14 +356,14 @@ planets:
         radius: 17,851.8 km<br/>(2.802 Yrths)
         surface_area: 4.005 × 10<sup>09</sup> km<sup>2</sup><br/>(7.851 Yrths)
         volume: 2.383 × 10<sup>13</sup> km<sup>3</sup><br/>(22.000 Yrths)
-        mass: 2.202 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 2.202 × 10<sup>25</sup> kg<br />(3.687 Yrths)
         density: 0.924 g/cm<sup>3</sup>
         surface_gravity: 4.605 m/s<sup>2</sup><br />(0.470 g<sub>0</sub>)
         escape_velocity: 12.831 km/s<br />(46,190 km/h)
         rotation_period: 59.162 d
         axial_tilt: 15.46°
         albedo: 0.30
-        temperature: 772 K<br />(499 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II k
         type: Dwarf planet
         formationType: Impact formed
@@ -376,14 +376,14 @@ planets:
         radius: 15,864.0 km<br/>(2.490 Yrths)
         surface_area: 3.163 × 10<sup>09</sup> km<sup>2</sup><br/>(6.200 Yrths)
         volume: 1.672 × 10<sup>13</sup> km<sup>3</sup><br/>(15.439 Yrths)
-        mass: 3.640 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 3.640 × 10<sup>25</sup> kg<br />(6.095 Yrths)
         density: 2.177 g/cm<sup>3</sup>
         surface_gravity: 9.641 m/s<sup>2</sup><br />(0.983 g<sub>0</sub>)
         escape_velocity: 17.501 km/s<br />(63,004 km/h)
         rotation_period: 37.538 d
         axial_tilt: 25.11°
         albedo: 0.30
-        temperature: 736 K<br />(463 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: ρ Molaiad II l
         type: Ice/rock hybrid
         formationType: Captured
@@ -396,12 +396,12 @@ planets:
         radius: 15,719.4 km<br/>(2.467 Yrths)
         surface_area: 3.105 × 10<sup>09</sup> km<sup>2</sup><br/>(6.088 Yrths)
         volume: 1.627 × 10<sup>13</sup> km<sup>3</sup><br/>(15.020 Yrths)
-        mass: 3.903 × 10<sup>25</sup> kg<br />(26.131462791278086 Yrths)
+        mass: 3.903 × 10<sup>25</sup> kg<br />(6.535 Yrths)
         density: 2.399 g/cm<sup>3</sup>
         surface_gravity: 10.527 m/s<sup>2</sup><br />(1.073 g<sub>0</sub>)
         escape_velocity: 18.205 km/s<br />(65,536 km/h)
         rotation_period: 35.461 d
         axial_tilt: 15.46°
         albedo: 0.30
-        temperature: 702 K<br />(429 °C)
+        temperature: 159 K<br />(-114 °C)
 ---

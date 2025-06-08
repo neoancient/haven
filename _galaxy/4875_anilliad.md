@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4875 Anilliad is a star in the constellation Anil
+      4875 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 387.72 ly
 apparent_magnitude: 18.82
 absolute_magnitude: 13.44

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10179 Arkothiad is a star in the constellation Arkoth
+      10179 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 157.08 ly
 apparent_magnitude: 18.93
 absolute_magnitude: 15.52

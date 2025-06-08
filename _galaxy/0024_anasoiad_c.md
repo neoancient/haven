@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Anasoiad C is a star in the constellation Anaso
+      0024 Anasoiad C is a star in the constellation <a href="anaso.html">Anaso</a>
 distance: 2714.97 ly
 apparent_magnitude: 18.37
 absolute_magnitude: 8.77
@@ -31,14 +31,14 @@ planets:
     radius: 5,630.0 km<br/>(0.884 Yrths)
     surface_area: 3.983 × 10<sup>08</sup> km<sup>2</sup><br/>(0.781 Yrths)
     volume: 7.475 × 10<sup>11</sup> km<sup>3</sup><br/>(0.690 Yrths)
-    mass: 1.015 × 10<sup>25</sup> kg<br />(1.6988382230567012 Yrths)
+    mass: 1.015 × 10<sup>25</sup> kg<br />(1.70 Yrths)
     density: 13.572 g/cm<sup>3</sup>
     surface_gravity: 21.334 m/s<sup>2</sup><br />(2.175 g<sub>0</sub>)
     escape_velocity: 15.510 km/s<br />(55,834 km/h)
     rotation_period: 1.556 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 272 K<br />(-2 °C)
+    temperature: 285 K<br />(12 °C)
     surface_pressure: 209 kPa<br />(2 atm)
     composition:
       - 90.6256% nitrogen
@@ -57,12 +57,12 @@ planets:
         radius: 4,597.9 km<br/>(0.722 Yrths)
         surface_area: 2.657 × 10<sup>08</sup> km<sup>2</sup><br/>(0.521 Yrths)
         volume: 4.071 × 10<sup>11</sup> km<sup>3</sup><br/>(0.376 Yrths)
-        mass: 1.158 × 10<sup>24</sup> kg<br />(1.6988382230567012 Yrths)
+        mass: 1.158 × 10<sup>24</sup> kg<br />(0.194 Yrths)
         density: 2.843 g/cm<sup>3</sup>
         surface_gravity: 3.650 m/s<sup>2</sup><br />(0.372 g<sub>0</sub>)
         escape_velocity: 5.797 km/s<br />(20,869 km/h)
         rotation_period: 57.422 d
         axial_tilt: 13.94°
         albedo: 0.30
-        temperature: 3405 K<br />(3132 °C)
+        temperature: 215 K<br />(-58 °C)
 ---

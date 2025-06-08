@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      660 Anilliad is a star in the constellation Anil
+      660 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 428.81 ly
 apparent_magnitude: 11.96
 absolute_magnitude: 6.37

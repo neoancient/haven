@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0200 Irsaiad is a star in the constellation Irsa
+      0200 Irsaiad is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 312.01 ly
 apparent_magnitude: 5.82
 absolute_magnitude: 0.91
@@ -31,14 +31,14 @@ planets:
     radius: 36,826.9 km<br/>(5.780 Yrths)
     surface_area: 1.704 × 10<sup>10</sup> km<sup>2</sup><br/>(33.413 Yrths)
     volume: 2.092 × 10<sup>14</sup> km<sup>3</sup><br/>(193.140 Yrths)
-    mass: 3.217 × 10<sup>26</sup> kg<br />(53.8614507868471 Yrths)
+    mass: 3.217 × 10<sup>26</sup> kg<br />(53.86 Yrths)
     density: 1.537 g/cm<sup>3</sup>
     surface_gravity: 15.808 m/s<sup>2</sup><br />(1.612 g<sub>0</sub>)
     escape_velocity: 34.146 km/s<br />(122,924 km/h)
     rotation_period: 0.320 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 632 K<br />(359 °C)
+    temperature: 588 K<br />(315 °C)
     composition:
       - 74.4229% hydrogen
       - 21.4077% helium
@@ -57,14 +57,14 @@ planets:
         radius: 34,525.5 km<br/>(5.419 Yrths)
         surface_area: 1.498 × 10<sup>10</sup> km<sup>2</sup><br/>(29.367 Yrths)
         volume: 1.724 × 10<sup>14</sup> km<sup>3</sup><br/>(159.146 Yrths)
-        mass: 3.803 × 10<sup>26</sup> kg<br />(53.8614507868471 Yrths)
+        mass: 3.803 × 10<sup>26</sup> kg<br />(63.673 Yrths)
         density: 2.206 g/cm<sup>3</sup>
         surface_gravity: 21.262 m/s<sup>2</sup><br />(2.168 g<sub>0</sub>)
         escape_velocity: 38.343 km/s<br />(138,035 km/h)
         rotation_period: 62.871 d
         axial_tilt: 23.87°
         albedo: 0.30
-        temperature: 2435 K<br />(2162 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0200 Irsaiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 89,103.9 km<br/>(13.986 Yrths)
         surface_area: 9.977 × 10<sup>10</sup> km<sup>2</sup><br/>(195.604 Yrths)
         volume: 2.963 × 10<sup>15</sup> km<sup>3</sup><br/>(2735.692 Yrths)
-        mass: 6.732 × 10<sup>27</sup> kg<br />(53.8614507868471 Yrths)
+        mass: 6.732 × 10<sup>27</sup> kg<br />(1127.326 Yrths)
         density: 2.272 g/cm<sup>3</sup>
         surface_gravity: 56.519 m/s<sup>2</sup><br />(5.763 g<sub>0</sub>)
         escape_velocity: 100.428 km/s<br />(361,540 km/h)
         rotation_period: 33.131 d
         axial_tilt: 14.34°
         albedo: 0.30
-        temperature: 2214 K<br />(1941 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0200 Irsaiad I c
         type: Icy
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 49,091.7 km<br/>(7.705 Yrths)
         surface_area: 3.028 × 10<sup>10</sup> km<sup>2</sup><br/>(59.375 Yrths)
         volume: 4.956 × 10<sup>14</sup> km<sup>3</sup><br/>(457.511 Yrths)
-        mass: 8.264 × 10<sup>26</sup> kg<br />(53.8614507868471 Yrths)
+        mass: 8.264 × 10<sup>26</sup> kg<br />(138.375 Yrths)
         density: 1.667 g/cm<sup>3</sup>
         surface_gravity: 22.855 m/s<sup>2</sup><br />(2.331 g<sub>0</sub>)
         escape_velocity: 47.403 km/s<br />(170,649 km/h)
         rotation_period: 49.442 d
         axial_tilt: 15.27°
         albedo: 0.30
-        temperature: 2111 K<br />(1838 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0200 Irsaiad I d
         type: Icy
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 79,896.0 km<br/>(12.541 Yrths)
         surface_area: 8.022 × 10<sup>10</sup> km<sup>2</sup><br/>(157.266 Yrths)
         volume: 2.136 × 10<sup>15</sup> km<sup>3</sup><br/>(1972.206 Yrths)
-        mass: 2.333 × 10<sup>27</sup> kg<br />(53.8614507868471 Yrths)
+        mass: 2.333 × 10<sup>27</sup> kg<br />(390.649 Yrths)
         density: 1.092 g/cm<sup>3</sup>
         surface_gravity: 24.360 m/s<sup>2</sup><br />(2.484 g<sub>0</sub>)
         escape_velocity: 62.432 km/s<br />(224,756 km/h)
         rotation_period: 63.908 d
         axial_tilt: 12.55°
         albedo: 0.30
-        temperature: 2013 K<br />(1740 °C)
+        temperature: 303 K<br />(30 °C)
   - name: 0200 Irsaiad II
     type: Gas giant
     aphelion: 1,380,750,370 km<br />9.230 AU
@@ -136,7 +136,7 @@ planets:
     radius: 258.0 km<br/>(0.041 Yrths)
     surface_area: 8.368 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.198 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.022 × 10<sup>27</sup> kg<br />(506.02939232020833 Yrths)
+    mass: 3.022 × 10<sup>27</sup> kg<br />(506.03 Yrths)
     density: 41986054.096 g/cm<sup>3</sup>
     surface_gravity: 3024895.536 m/s<sup>2</sup><br />(308453.502 g<sub>0</sub>)
     escape_velocity: 1250.303 km/s<br />(4,501,091 km/h)
@@ -157,14 +157,14 @@ planets:
         radius: 198,815.0 km<br/>(31.206 Yrths)
         surface_area: 4.967 × 10<sup>11</sup> km<sup>2</sup><br/>(973.829 Yrths)
         volume: 3.292 × 10<sup>16</sup> km<sup>3</sup><br/>(30389.554 Yrths)
-        mass: 9.168 × 10<sup>28</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 9.168 × 10<sup>28</sup> kg<br />(15351.320 Yrths)
         density: 2.785 g/cm<sup>3</sup>
         surface_gravity: 154.591 m/s<sup>2</sup><br />(15.764 g<sub>0</sub>)
         escape_velocity: 248.100 km/s<br />(893,159 km/h)
         rotation_period: 49.932 d
         axial_tilt: 20.57°
         albedo: 0.30
-        temperature: 945 K<br />(672 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0200 Irsaiad II b
         type: Icy
         formationType: Captured
@@ -177,14 +177,14 @@ planets:
         radius: 277,121.3 km<br/>(43.497 Yrths)
         surface_area: 9.650 × 10<sup>11</sup> km<sup>2</sup><br/>(1892.016 Yrths)
         volume: 8.915 × 10<sup>16</sup> km<sup>3</sup><br/>(82297.587 Yrths)
-        mass: 7.557 × 10<sup>28</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 7.557 × 10<sup>28</sup> kg<br />(12653.288 Yrths)
         density: 0.848 g/cm<sup>3</sup>
         surface_gravity: 65.584 m/s<sup>2</sup><br />(6.688 g<sub>0</sub>)
         escape_velocity: 190.785 km/s<br />(686,826 km/h)
         rotation_period: 66.335 d
         axial_tilt: 15.30°
         albedo: 0.30
-        temperature: 901 K<br />(628 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0200 Irsaiad II c
         type: Icy
         formationType: Captured
@@ -197,14 +197,14 @@ planets:
         radius: 264,994.8 km<br/>(41.594 Yrths)
         surface_area: 8.824 × 10<sup>11</sup> km<sup>2</sup><br/>(1730.054 Yrths)
         volume: 7.795 × 10<sup>16</sup> km<sup>3</sup><br/>(71959.722 Yrths)
-        mass: 1.159 × 10<sup>29</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 1.159 × 10<sup>29</sup> kg<br />(19411.831 Yrths)
         density: 1.487 g/cm<sup>3</sup>
         surface_gravity: 110.034 m/s<sup>2</sup><br />(11.220 g<sub>0</sub>)
         escape_velocity: 241.653 km/s<br />(869,951 km/h)
         rotation_period: 62.330 d
         axial_tilt: 15.75°
         albedo: 0.30
-        temperature: 710 K<br />(437 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0200 Irsaiad II d
         type: Icy
         formationType: Accreted
@@ -217,14 +217,14 @@ planets:
         radius: 247,717.6 km<br/>(38.882 Yrths)
         surface_area: 7.711 × 10<sup>11</sup> km<sup>2</sup><br/>(1511.815 Yrths)
         volume: 6.367 × 10<sup>16</sup> km<sup>3</sup><br/>(58782.488 Yrths)
-        mass: 8.628 × 10<sup>28</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 8.628 × 10<sup>28</sup> kg<br />(14448.026 Yrths)
         density: 1.355 g/cm<sup>3</sup>
         surface_gravity: 93.720 m/s<sup>2</sup><br />(9.557 g<sub>0</sub>)
         escape_velocity: 215.627 km/s<br />(776,258 km/h)
         rotation_period: 73.062 d
         axial_tilt: 28.08°
         albedo: 0.30
-        temperature: 677 K<br />(404 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0200 Irsaiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -237,14 +237,14 @@ planets:
         radius: 222,847.3 km<br/>(34.978 Yrths)
         surface_area: 6.241 × 10<sup>11</sup> km<sup>2</sup><br/>(1223.488 Yrths)
         volume: 4.636 × 10<sup>16</sup> km<sup>3</sup><br/>(42795.625 Yrths)
-        mass: 1.092 × 10<sup>29</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 1.092 × 10<sup>29</sup> kg<br />(18286.985 Yrths)
         density: 2.356 g/cm<sup>3</sup>
         surface_gravity: 146.576 m/s<sup>2</sup><br />(14.947 g<sub>0</sub>)
         escape_velocity: 255.767 km/s<br />(920,762 km/h)
         rotation_period: 43.035 d
         axial_tilt: 10.73°
         albedo: 0.30
-        temperature: 485 K<br />(212 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0200 Irsaiad II f
         type: Asteroid
         formationType: Captured
@@ -257,14 +257,14 @@ planets:
         radius: 231,229.4 km<br/>(36.294 Yrths)
         surface_area: 6.719 × 10<sup>11</sup> km<sup>2</sup><br/>(1317.258 Yrths)
         volume: 5.179 × 10<sup>16</sup> km<sup>3</sup><br/>(47808.643 Yrths)
-        mass: 1.418 × 10<sup>29</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 1.418 × 10<sup>29</sup> kg<br />(23751.011 Yrths)
         density: 2.739 g/cm<sup>3</sup>
         surface_gravity: 176.820 m/s<sup>2</sup><br />(18.031 g<sub>0</sub>)
         escape_velocity: 286.152 km/s<br />(1,030,148 km/h)
         rotation_period: 44.192 d
         axial_tilt: 22.29°
         albedo: 0.30
-        temperature: 301 K<br />(28 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0200 Irsaiad II g
         type: Icy
         formationType: Impact formed
@@ -277,14 +277,14 @@ planets:
         radius: 328,861.6 km<br/>(51.619 Yrths)
         surface_area: 1.359 × 10<sup>12</sup> km<sup>2</sup><br/>(2664.471 Yrths)
         volume: 1.490 × 10<sup>17</sup> km<sup>3</sup><br/>(137536.052 Yrths)
-        mass: 1.730 × 10<sup>29</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 1.730 × 10<sup>29</sup> kg<br />(28975.935 Yrths)
         density: 1.162 g/cm<sup>3</sup>
         surface_gravity: 106.647 m/s<sup>2</sup><br />(10.875 g<sub>0</sub>)
         escape_velocity: 265.027 km/s<br />(954,097 km/h)
         rotation_period: 54.257 d
         axial_tilt: 21.10°
         albedo: 0.30
-        temperature: 155 K<br />(-119 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0200 Irsaiad II h
         type: Icy
         formationType: Accreted
@@ -297,14 +297,14 @@ planets:
         radius: 282,469.2 km<br/>(44.337 Yrths)
         surface_area: 1.003 × 10<sup>12</sup> km<sup>2</sup><br/>(1965.744 Yrths)
         volume: 9.441 × 10<sup>16</sup> km<sup>3</sup><br/>(87154.595 Yrths)
-        mass: 1.078 × 10<sup>29</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 1.078 × 10<sup>29</sup> kg<br />(18048.719 Yrths)
         density: 1.142 g/cm<sup>3</sup>
         surface_gravity: 90.041 m/s<sup>2</sup><br />(9.182 g<sub>0</sub>)
         escape_velocity: 225.692 km/s<br />(812,490 km/h)
         rotation_period: 68.865 d
         axial_tilt: 21.28°
         albedo: 0.30
-        temperature: 134 K<br />(-139 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0200 Irsaiad II i
         type: Rocky
         formationType: Captured
@@ -317,14 +317,14 @@ planets:
         radius: 267,469.5 km<br/>(41.982 Yrths)
         surface_area: 8.990 × 10<sup>11</sup> km<sup>2</sup><br/>(1762.517 Yrths)
         volume: 8.015 × 10<sup>16</sup> km<sup>3</sup><br/>(73994.570 Yrths)
-        mass: 2.234 × 10<sup>29</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 2.234 × 10<sup>29</sup> kg<br />(37408.983 Yrths)
         density: 2.787 g/cm<sup>3</sup>
         surface_gravity: 208.144 m/s<sup>2</sup><br />(21.225 g<sub>0</sub>)
         escape_velocity: 333.909 km/s<br />(1,202,074 km/h)
         rotation_period: 37.358 d
         axial_tilt: 13.27°
         albedo: 0.30
-        temperature: 76 K<br />(-198 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0200 Irsaiad II j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -337,14 +337,14 @@ planets:
         radius: 254,926.3 km<br/>(40.014 Yrths)
         surface_area: 8.167 × 10<sup>11</sup> km<sup>2</sup><br/>(1601.084 Yrths)
         volume: 6.940 × 10<sup>16</sup> km<sup>3</sup><br/>(64065.046 Yrths)
-        mass: 1.551 × 10<sup>29</sup> kg<br />(506.02939232020833 Yrths)
+        mass: 1.551 × 10<sup>29</sup> kg<br />(25964.777 Yrths)
         density: 2.234 g/cm<sup>3</sup>
         surface_gravity: 159.034 m/s<sup>2</sup><br />(16.217 g<sub>0</sub>)
         escape_velocity: 284.946 km/s<br />(1,025,806 km/h)
         rotation_period: 57.728 d
         axial_tilt: 13.23°
         albedo: 0.30
-        temperature: 72 K<br />(-201 °C)
+        temperature: 207 K<br />(-66 °C)
   - name: 0200 Irsaiad III
     type: Gas dwarf
     aphelion: 3,086,712,842 km<br />20.633 AU
@@ -356,14 +356,14 @@ planets:
     radius: 17,261.2 km<br/>(2.709 Yrths)
     surface_area: 3.744 × 10<sup>09</sup> km<sup>2</sup><br/>(7.340 Yrths)
     volume: 2.154 × 10<sup>13</sup> km<sup>3</sup><br/>(19.888 Yrths)
-    mass: 5.810 × 10<sup>25</sup> kg<br />(9.729503338353226 Yrths)
+    mass: 5.810 × 10<sup>25</sup> kg<br />(9.73 Yrths)
     density: 2.697 g/cm<sup>3</sup>
     surface_gravity: 12.998 m/s<sup>2</sup><br />(1.325 g<sub>0</sub>)
     escape_velocity: 21.198 km/s<br />(76,312 km/h)
     rotation_period: 0.400 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 229 K<br />(-44 °C)
+    temperature: 206 K<br />(-67 °C)
     composition:
       - 82.3955% hydrogen
       - 14.7114% helium
@@ -384,14 +384,14 @@ planets:
         radius: 16,526.3 km<br/>(2.594 Yrths)
         surface_area: 3.432 × 10<sup>09</sup> km<sup>2</sup><br/>(6.729 Yrths)
         volume: 1.891 × 10<sup>13</sup> km<sup>3</sup><br/>(17.454 Yrths)
-        mass: 3.854 × 10<sup>25</sup> kg<br />(9.729503338353226 Yrths)
+        mass: 3.854 × 10<sup>25</sup> kg<br />(6.453 Yrths)
         density: 2.038 g/cm<sup>3</sup>
         surface_gravity: 9.405 m/s<sup>2</sup><br />(0.959 g<sub>0</sub>)
         escape_velocity: 17.643 km/s<br />(63,516 km/h)
         rotation_period: 34.869 d
         axial_tilt: 26.64°
         albedo: 0.30
-        temperature: 1512 K<br />(1239 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0200 Irsaiad III b
         type: Icy
         formationType: Captured
@@ -404,14 +404,14 @@ planets:
         radius: 19,270.0 km<br/>(3.025 Yrths)
         surface_area: 4.666 × 10<sup>09</sup> km<sup>2</sup><br/>(9.148 Yrths)
         volume: 2.997 × 10<sup>13</sup> km<sup>3</sup><br/>(27.671 Yrths)
-        mass: 3.661 × 10<sup>25</sup> kg<br />(9.729503338353226 Yrths)
+        mass: 3.661 × 10<sup>25</sup> kg<br />(6.129 Yrths)
         density: 1.221 g/cm<sup>3</sup>
         surface_gravity: 6.570 m/s<sup>2</sup><br />(0.670 g<sub>0</sub>)
         escape_velocity: 15.924 km/s<br />(57,326 km/h)
         rotation_period: 68.221 d
         axial_tilt: 14.68°
         albedo: 0.30
-        temperature: 1375 K<br />(1101 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0200 Irsaiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -424,14 +424,14 @@ planets:
         radius: 16,402.6 km<br/>(2.575 Yrths)
         surface_area: 3.381 × 10<sup>09</sup> km<sup>2</sup><br/>(6.628 Yrths)
         volume: 1.849 × 10<sup>13</sup> km<sup>3</sup><br/>(17.065 Yrths)
-        mass: 3.057 × 10<sup>25</sup> kg<br />(9.729503338353226 Yrths)
+        mass: 3.057 × 10<sup>25</sup> kg<br />(5.118 Yrths)
         density: 1.654 g/cm<sup>3</sup>
         surface_gravity: 7.572 m/s<sup>2</sup><br />(0.772 g<sub>0</sub>)
         escape_velocity: 15.772 km/s<br />(56,779 km/h)
         rotation_period: 53.732 d
         axial_tilt: 6.60°
         albedo: 0.30
-        temperature: 1311 K<br />(1037 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0200 Irsaiad III d
         type: Asteroid
         formationType: Captured
@@ -444,14 +444,14 @@ planets:
         radius: 9,358.7 km<br/>(1.469 Yrths)
         surface_area: 1.101 × 10<sup>09</sup> km<sup>2</sup><br/>(2.158 Yrths)
         volume: 3.433 × 10<sup>12</sup> km<sup>3</sup><br/>(3.170 Yrths)
-        mass: 8.300 × 10<sup>24</sup> kg<br />(9.729503338353226 Yrths)
+        mass: 8.300 × 10<sup>24</sup> kg<br />(1.390 Yrths)
         density: 2.417 g/cm<sup>3</sup>
         surface_gravity: 6.316 m/s<sup>2</sup><br />(0.644 g<sub>0</sub>)
         escape_velocity: 10.880 km/s<br />(39,169 km/h)
         rotation_period: 31.965 d
         axial_tilt: 19.74°
         albedo: 0.30
-        temperature: 1250 K<br />(976 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0200 Irsaiad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -464,12 +464,12 @@ planets:
         radius: 5,473.4 km<br/>(0.859 Yrths)
         surface_area: 3.765 × 10<sup>08</sup> km<sup>2</sup><br/>(0.738 Yrths)
         volume: 6.869 × 10<sup>11</sup> km<sup>3</sup><br/>(0.634 Yrths)
-        mass: 1.193 × 10<sup>24</sup> kg<br />(9.729503338353226 Yrths)
+        mass: 1.193 × 10<sup>24</sup> kg<br />(0.200 Yrths)
         density: 1.737 g/cm<sup>3</sup>
         surface_gravity: 2.654 m/s<sup>2</sup><br />(0.271 g<sub>0</sub>)
         escape_velocity: 5.394 km/s<br />(19,418 km/h)
         rotation_period: 42.392 d
         axial_tilt: 14.28°
         albedo: 0.30
-        temperature: 1191 K<br />(918 °C)
+        temperature: 142 K<br />(-131 °C)
 ---

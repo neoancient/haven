@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ζ Nishediad A is a star in the constellation Nishedi
+      ζ Nishediad A is a star in the constellation <a href="nishedi.html">Nishedi</a>
 distance: 961.24 ly
 apparent_magnitude: 4.52
 absolute_magnitude: -2.83

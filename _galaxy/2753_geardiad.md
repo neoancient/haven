@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2753 Geardiad is a star in the constellation Geard
+      2753 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 398.89 ly
 apparent_magnitude: 12.58
 absolute_magnitude: 7.14

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1022 Anilliad is a star in the constellation Anil
+      1022 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 647.79 ly
 apparent_magnitude: 12.11
 absolute_magnitude: 5.62

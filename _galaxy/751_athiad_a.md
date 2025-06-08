@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      751 Athiad A is a star in the constellation Ath
+      751 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 468.52 ly
 apparent_magnitude: 7.77
 absolute_magnitude: 1.99

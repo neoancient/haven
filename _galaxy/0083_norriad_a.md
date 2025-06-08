@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0083 Norriad A is a star in the constellation Nor
+      0083 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1835.57 ly
 apparent_magnitude: 6.57
 absolute_magnitude: -2.18

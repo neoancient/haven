@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0105 Shuliad A is a star in the constellation Shuli
+      0105 Shuliad A is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 2349.77 ly
 apparent_magnitude: 6.04
 absolute_magnitude: -3.25

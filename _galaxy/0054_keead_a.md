@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0054 Keead A is a star in the constellation Kee
+      0054 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 55.43 ly
 apparent_magnitude: 7.15
 absolute_magnitude: 6.00

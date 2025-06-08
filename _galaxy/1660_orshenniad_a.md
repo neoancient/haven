@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1660 Orshenniad A is a star in the constellation Orshen
+      1660 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 287.34 ly
 apparent_magnitude: 8.12
 absolute_magnitude: 3.39

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5652 Arkothiad is a star in the constellation Arkoth
+      5652 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 206.55 ly
 apparent_magnitude: 8.79
 absolute_magnitude: 4.78

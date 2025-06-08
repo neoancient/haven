@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3873 Oniad is a star in the constellation Oni
+      3873 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 789.44 ly
 apparent_magnitude: 12.55
 absolute_magnitude: 5.63

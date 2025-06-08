@@ -18,12 +18,12 @@ moon:
   radius: 1,821.6 km<br/>(0.286 Yrths)
   surface_area: 4.170 × 10<sup>07</sup> km<sup>2</sup><br/>(0.082 Yrths)
   volume: 2.532 × 10<sup>10</sup> km<sup>3</sup><br/>(0.023 Yrths)
-  mass: 8.932 × 10<sup>22</sup> kg<br />(317.84996651038176 Yrths)
+  mass: 8.932 × 10<sup>22</sup> kg<br />(0.015 Yrths)
   density: 3.528 g/cm<sup>3</sup>
   surface_gravity: 1.794 m/s<sup>2</sup><br />(0.183 g<sub>0</sub>)
   escape_velocity: 2.558 km/s<br />(9,210 km/h)
   rotation_period: 1.769 d
   axial_tilt: 0.00°
   albedo: 0.63
-  temperature: 4090 K<br />(3817 °C)
+  temperature: 236 K<br />(-38 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4910 Tanashad is a star in the constellation Tanas
+      4910 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 423.05 ly
 apparent_magnitude: 11.19
 absolute_magnitude: 5.62

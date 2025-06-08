@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      838 Geardiad is a star in the constellation Geard
+      838 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 636.44 ly
 apparent_magnitude: 11.29
 absolute_magnitude: 4.84

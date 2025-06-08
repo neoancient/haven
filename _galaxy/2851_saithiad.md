@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2851 Saithiad is a star in the constellation Saith
+      2851 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 338.04 ly
 apparent_magnitude: 7.85
 absolute_magnitude: 2.77

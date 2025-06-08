@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3988 Athiad is a star in the constellation Ath
+      3988 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 312.31 ly
 apparent_magnitude: 18.35
 absolute_magnitude: 13.44

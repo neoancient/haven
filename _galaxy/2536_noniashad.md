@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2536 Noniashad is a star in the constellation Nonias
+      2536 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 679.63 ly
 apparent_magnitude: 12.60
 absolute_magnitude: 6.01

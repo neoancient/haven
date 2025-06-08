@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      167 Shanniashiad is a star in the constellation Shannias
+      167 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 300.24 ly
 apparent_magnitude: 9.17
 absolute_magnitude: 4.35

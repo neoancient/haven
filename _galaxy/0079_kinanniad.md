@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0079 Kinanniad is a star in the constellation Kinan
+      0079 Kinanniad is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 26.20 ly
 apparent_magnitude: 6.24
 absolute_magnitude: 6.71
@@ -31,14 +31,14 @@ planets:
     radius: 23,036.1 km<br/>(3.616 Yrths)
     surface_area: 6.668 × 10<sup>09</sup> km<sup>2</sup><br/>(13.074 Yrths)
     volume: 5.121 × 10<sup>13</sup> km<sup>3</sup><br/>(47.272 Yrths)
-    mass: 7.404 × 10<sup>25</sup> kg<br />(12.397779664064858 Yrths)
+    mass: 7.404 × 10<sup>25</sup> kg<br />(12.40 Yrths)
     density: 1.446 g/cm<sup>3</sup>
     surface_gravity: 9.300 m/s<sup>2</sup><br />(0.948 g<sub>0</sub>)
     escape_velocity: 20.713 km/s<br />(74,567 km/h)
     rotation_period: 1.858 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 546 K<br />(272 °C)
+    temperature: 487 K<br />(214 °C)
     composition:
       - 83.1219% hydrogen
       - 11.6304% helium
@@ -56,14 +56,14 @@ planets:
         radius: 18,985.6 km<br/>(2.980 Yrths)
         surface_area: 4.530 × 10<sup>09</sup> km<sup>2</sup><br/>(8.880 Yrths)
         volume: 2.867 × 10<sup>13</sup> km<sup>3</sup><br/>(26.464 Yrths)
-        mass: 6.858 × 10<sup>25</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 6.858 × 10<sup>25</sup> kg<br />(11.483 Yrths)
         density: 2.392 g/cm<sup>3</sup>
         surface_gravity: 12.681 m/s<sup>2</sup><br />(1.293 g<sub>0</sub>)
         escape_velocity: 21.958 km/s<br />(79,049 km/h)
         rotation_period: 62.737 d
         axial_tilt: 16.17°
         albedo: 0.30
-        temperature: 2775 K<br />(2502 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I b
         type: Asteroid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 9,879.1 km<br/>(1.551 Yrths)
         surface_area: 1.226 × 10<sup>09</sup> km<sup>2</sup><br/>(2.404 Yrths)
         volume: 4.039 × 10<sup>12</sup> km<sup>3</sup><br/>(3.728 Yrths)
-        mass: 7.297 × 10<sup>24</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 7.297 × 10<sup>24</sup> kg<br />(1.222 Yrths)
         density: 1.807 g/cm<sup>3</sup>
         surface_gravity: 4.983 m/s<sup>2</sup><br />(0.508 g<sub>0</sub>)
         escape_velocity: 9.929 km/s<br />(35,745 km/h)
         rotation_period: 62.415 d
         axial_tilt: 43.18°
         albedo: 0.30
-        temperature: 2646 K<br />(2373 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I c
         type: Dwarf planet
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 9,815.9 km<br/>(1.541 Yrths)
         surface_area: 1.211 × 10<sup>09</sup> km<sup>2</sup><br/>(2.374 Yrths)
         volume: 3.962 × 10<sup>12</sup> km<sup>3</sup><br/>(3.657 Yrths)
-        mass: 9.890 × 10<sup>24</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 9.890 × 10<sup>24</sup> kg<br />(1.656 Yrths)
         density: 2.497 g/cm<sup>3</sup>
         surface_gravity: 6.842 m/s<sup>2</sup><br />(0.698 g<sub>0</sub>)
         escape_velocity: 11.597 km/s<br />(41,751 km/h)
         rotation_period: 43.318 d
         axial_tilt: 14.47°
         albedo: 0.30
-        temperature: 2523 K<br />(2249 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 11,857.2 km<br/>(1.861 Yrths)
         surface_area: 1.767 × 10<sup>09</sup> km<sup>2</sup><br/>(3.464 Yrths)
         volume: 6.983 × 10<sup>12</sup> km<sup>3</sup><br/>(6.446 Yrths)
-        mass: 1.819 × 10<sup>25</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 1.819 × 10<sup>25</sup> kg<br />(3.045 Yrths)
         density: 2.604 g/cm<sup>3</sup>
         surface_gravity: 8.622 m/s<sup>2</sup><br />(0.879 g<sub>0</sub>)
         escape_velocity: 14.309 km/s<br />(51,512 km/h)
         rotation_period: 40.646 d
         axial_tilt: 29.76°
         albedo: 0.30
-        temperature: 2293 K<br />(2020 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I e
         type: Asteroid
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 6,261.6 km<br/>(0.983 Yrths)
         surface_area: 4.927 × 10<sup>08</sup> km<sup>2</sup><br/>(0.966 Yrths)
         volume: 1.028 × 10<sup>12</sup> km<sup>3</sup><br/>(0.949 Yrths)
-        mass: 3.631 × 10<sup>24</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 3.631 × 10<sup>24</sup> kg<br />(0.608 Yrths)
         density: 3.531 g/cm<sup>3</sup>
         surface_gravity: 6.174 m/s<sup>2</sup><br />(0.630 g<sub>0</sub>)
         escape_velocity: 8.799 km/s<br />(31,675 km/h)
         rotation_period: 29.539 d
         axial_tilt: 49.18°
         albedo: 0.30
-        temperature: 2187 K<br />(1913 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -156,14 +156,14 @@ planets:
         radius: 16,132.8 km<br/>(2.532 Yrths)
         surface_area: 3.271 × 10<sup>09</sup> km<sup>2</sup><br/>(6.412 Yrths)
         volume: 1.759 × 10<sup>13</sup> km<sup>3</sup><br/>(16.237 Yrths)
-        mass: 3.732 × 10<sup>25</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 3.732 × 10<sup>25</sup> kg<br />(6.249 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 9.557 m/s<sup>2</sup><br />(0.974 g<sub>0</sub>)
         escape_velocity: 17.572 km/s<br />(63,258 km/h)
         rotation_period: 34.215 d
         axial_tilt: 21.74°
         albedo: 0.30
-        temperature: 2085 K<br />(1812 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I g
         type: Rocky
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 10,946.9 km<br/>(1.718 Yrths)
         surface_area: 1.506 × 10<sup>09</sup> km<sup>2</sup><br/>(2.952 Yrths)
         volume: 5.495 × 10<sup>12</sup> km<sup>3</sup><br/>(5.073 Yrths)
-        mass: 1.718 × 10<sup>25</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 1.718 × 10<sup>25</sup> kg<br />(2.877 Yrths)
         density: 3.127 g/cm<sup>3</sup>
         surface_gravity: 9.557 m/s<sup>2</sup><br />(0.975 g<sub>0</sub>)
         escape_velocity: 14.475 km/s<br />(52,110 km/h)
         rotation_period: 48.454 d
         axial_tilt: 21.41°
         albedo: 0.30
-        temperature: 1988 K<br />(1715 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I h
         type: Icy
         formationType: Impact formed
@@ -196,14 +196,14 @@ planets:
         radius: 12,613.0 km<br/>(1.980 Yrths)
         surface_area: 1.999 × 10<sup>09</sup> km<sup>2</sup><br/>(3.919 Yrths)
         volume: 8.405 × 10<sup>12</sup> km<sup>3</sup><br/>(7.760 Yrths)
-        mass: 1.269 × 10<sup>25</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 1.269 × 10<sup>25</sup> kg<br />(2.126 Yrths)
         density: 1.510 g/cm<sup>3</sup>
         surface_gravity: 5.318 m/s<sup>2</sup><br />(0.542 g<sub>0</sub>)
         escape_velocity: 11.591 km/s<br />(41,727 km/h)
         rotation_period: 41.838 d
         axial_tilt: 22.05°
         albedo: 0.30
-        temperature: 1895 K<br />(1622 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I i
         type: Asteroid
         formationType: Captured
@@ -216,14 +216,14 @@ planets:
         radius: 5,772.6 km<br/>(0.906 Yrths)
         surface_area: 4.187 × 10<sup>08</sup> km<sup>2</sup><br/>(0.821 Yrths)
         volume: 8.057 × 10<sup>11</sup> km<sup>3</sup><br/>(0.744 Yrths)
-        mass: 1.843 × 10<sup>24</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 1.843 × 10<sup>24</sup> kg<br />(0.309 Yrths)
         density: 2.288 g/cm<sup>3</sup>
         surface_gravity: 3.687 m/s<sup>2</sup><br />(0.376 g<sub>0</sub>)
         escape_velocity: 6.529 km/s<br />(23,503 km/h)
         rotation_period: 42.034 d
         axial_tilt: 40.09°
         albedo: 0.30
-        temperature: 1807 K<br />(1534 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I j
         type: Ice/rock hybrid
         formationType: Captured
@@ -236,14 +236,14 @@ planets:
         radius: 7,337.2 km<br/>(1.152 Yrths)
         surface_area: 6.765 × 10<sup>08</sup> km<sup>2</sup><br/>(1.326 Yrths)
         volume: 1.655 × 10<sup>12</sup> km<sup>3</sup><br/>(1.527 Yrths)
-        mass: 2.938 × 10<sup>24</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 2.938 × 10<sup>24</sup> kg<br />(0.492 Yrths)
         density: 1.776 g/cm<sup>3</sup>
         surface_gravity: 3.637 m/s<sup>2</sup><br />(0.371 g<sub>0</sub>)
         escape_velocity: 7.311 km/s<br />(26,319 km/h)
         rotation_period: 74.270 d
         axial_tilt: 31.71°
         albedo: 0.30
-        temperature: 1723 K<br />(1450 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 0079 Kinanniad I k
         type: Rocky
         formationType: Accreted
@@ -256,14 +256,14 @@ planets:
         radius: 6,266.9 km<br/>(0.984 Yrths)
         surface_area: 4.935 × 10<sup>08</sup> km<sup>2</sup><br/>(0.968 Yrths)
         volume: 1.031 × 10<sup>12</sup> km<sup>3</sup><br/>(0.952 Yrths)
-        mass: 3.386 × 10<sup>24</sup> kg<br />(12.397779664064858 Yrths)
+        mass: 3.386 × 10<sup>24</sup> kg<br />(0.567 Yrths)
         density: 3.284 g/cm<sup>3</sup>
         surface_gravity: 5.747 m/s<sup>2</sup><br />(0.586 g<sub>0</sub>)
         escape_velocity: 8.493 km/s<br />(30,574 km/h)
         rotation_period: 45.591 d
         axial_tilt: 13.11°
         albedo: 0.30
-        temperature: 1643 K<br />(1370 °C)
+        temperature: 318 K<br />(45 °C)
   - name: 0079 Kinanniad II
     type: Terrestrial
     aphelion: 87,404,726 km<br />0.584 AU
@@ -275,14 +275,14 @@ planets:
     radius: 6,153.0 km<br/>(0.966 Yrths)
     surface_area: 4.758 × 10<sup>08</sup> km<sup>2</sup><br/>(0.933 Yrths)
     volume: 9.758 × 10<sup>11</sup> km<sup>3</sup><br/>(0.901 Yrths)
-    mass: 5.426 × 10<sup>24</sup> kg<br />(0.9086436868369759 Yrths)
+    mass: 5.426 × 10<sup>24</sup> kg<br />(0.91 Yrths)
     density: 5.561 g/cm<sup>3</sup>
     surface_gravity: 9.553 m/s<sup>2</sup><br />(0.974 g<sub>0</sub>)
     escape_velocity: 10.850 km/s<br />(39,060 km/h)
     rotation_period: 2.831 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 268 K<br />(-5 °C)
+    temperature: 256 K<br />(-17 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 97.4357% nitrogen
@@ -300,14 +300,14 @@ planets:
         radius: 2,707.0 km<br/>(0.425 Yrths)
         surface_area: 9.208 × 10<sup>07</sup> km<sup>2</sup><br/>(0.181 Yrths)
         volume: 8.309 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-        mass: 2.050 × 10<sup>23</sup> kg<br />(0.9086436868369759 Yrths)
+        mass: 2.050 × 10<sup>23</sup> kg<br />(0.034 Yrths)
         density: 2.468 g/cm<sup>3</sup>
         surface_gravity: 1.865 m/s<sup>2</sup><br />(0.190 g<sub>0</sub>)
         escape_velocity: 3.180 km/s<br />(11,447 km/h)
         rotation_period: 32.114 d
         axial_tilt: 15.43°
         albedo: 0.30
-        temperature: 3376 K<br />(3102 °C)
+        temperature: 250 K<br />(-23 °C)
   - name: 0079 Kinanniad III
     type: Terrestrial
     aphelion: 141,407,047 km<br />0.945 AU
@@ -319,14 +319,14 @@ planets:
     radius: 4,458.8 km<br/>(0.700 Yrths)
     surface_area: 2.498 × 10<sup>08</sup> km<sup>2</sup><br/>(0.490 Yrths)
     volume: 3.713 × 10<sup>11</sup> km<sup>3</sup><br/>(0.343 Yrths)
-    mass: 1.893 × 10<sup>24</sup> kg<br />(0.3169646522908079 Yrths)
+    mass: 1.893 × 10<sup>24</sup> kg<br />(0.32 Yrths)
     density: 5.098 g/cm<sup>3</sup>
     surface_gravity: 6.346 m/s<sup>2</sup><br />(0.647 g<sub>0</sub>)
     escape_velocity: 7.528 km/s<br />(27,100 km/h)
     rotation_period: 2.642 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 224 K<br />(-49 °C)
+    temperature: 330 K<br />(57 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 70.3230% nitrogen
@@ -346,14 +346,14 @@ planets:
         radius: 865.9 km<br/>(0.136 Yrths)
         surface_area: 9.422 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.719 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 5.717 × 10<sup>21</sup> kg<br />(0.3169646522908079 Yrths)
+        mass: 5.717 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.102 g/cm<sup>3</sup>
         surface_gravity: 0.508 m/s<sup>2</sup><br />(0.052 g<sub>0</sub>)
         escape_velocity: 0.939 km/s<br />(3,380 km/h)
         rotation_period: 45.736 d
         axial_tilt: 32.74°
         albedo: 0.30
-        temperature: 3366 K<br />(3093 °C)
+        temperature: 196 K<br />(-77 °C)
       - name: 0079 Kinanniad III b
         type: Rocky
         formationType: Captured
@@ -366,14 +366,14 @@ planets:
         radius: 729.2 km<br/>(0.114 Yrths)
         surface_area: 6.681 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.624 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 5.004 × 10<sup>21</sup> kg<br />(0.3169646522908079 Yrths)
+        mass: 5.004 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.082 g/cm<sup>3</sup>
         surface_gravity: 0.627 m/s<sup>2</sup><br />(0.064 g<sub>0</sub>)
         escape_velocity: 0.957 km/s<br />(3,446 km/h)
         rotation_period: 46.028 d
         axial_tilt: 9.81°
         albedo: 0.30
-        temperature: 3209 K<br />(2936 °C)
+        temperature: 196 K<br />(-77 °C)
   - name: 0079 Kinanniad IV
     type: Large terrestrial
     aphelion: 229,414,053 km<br />1.534 AU
@@ -385,14 +385,14 @@ planets:
     radius: 8,638.8 km<br/>(1.356 Yrths)
     surface_area: 9.378 × 10<sup>08</sup> km<sup>2</sup><br/>(1.839 Yrths)
     volume: 2.700 × 10<sup>12</sup> km<sup>3</sup><br/>(2.493 Yrths)
-    mass: 1.709 × 10<sup>25</sup> kg<br />(2.862225775720936 Yrths)
+    mass: 1.709 × 10<sup>25</sup> kg<br />(2.86 Yrths)
     density: 6.330 g/cm<sup>3</sup>
     surface_gravity: 15.266 m/s<sup>2</sup><br />(1.557 g<sub>0</sub>)
     escape_velocity: 16.252 km/s<br />(58,507 km/h)
     rotation_period: 1.203 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 193 K<br />(-80 °C)
+    temperature: 194 K<br />(-79 °C)
     surface_pressure: 176 kPa<br />(2 atm)
     composition:
       - 64.2799% nitrogen
@@ -410,14 +410,14 @@ planets:
         radius: 5,110.1 km<br/>(0.802 Yrths)
         surface_area: 3.282 × 10<sup>08</sup> km<sup>2</sup><br/>(0.643 Yrths)
         volume: 5.590 × 10<sup>11</sup> km<sup>3</sup><br/>(0.516 Yrths)
-        mass: 1.590 × 10<sup>24</sup> kg<br />(2.862225775720936 Yrths)
+        mass: 1.590 × 10<sup>24</sup> kg<br />(0.266 Yrths)
         density: 2.844 g/cm<sup>3</sup>
         surface_gravity: 4.058 m/s<sup>2</sup><br />(0.414 g<sub>0</sub>)
         escape_velocity: 6.445 km/s<br />(23,200 km/h)
         rotation_period: 58.148 d
         axial_tilt: 22.72°
         albedo: 0.30
-        temperature: 1749 K<br />(1476 °C)
+        temperature: 154 K<br />(-119 °C)
       - name: 0079 Kinanniad IV b
         type: Rocky
         formationType: Accreted
@@ -430,14 +430,14 @@ planets:
         radius: 4,218.2 km<br/>(0.662 Yrths)
         surface_area: 2.236 × 10<sup>08</sup> km<sup>2</sup><br/>(0.438 Yrths)
         volume: 3.144 × 10<sup>11</sup> km<sup>3</sup><br/>(0.290 Yrths)
-        mass: 1.132 × 10<sup>24</sup> kg<br />(2.862225775720936 Yrths)
+        mass: 1.132 × 10<sup>24</sup> kg<br />(0.190 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 4.240 m/s<sup>2</sup><br />(0.432 g<sub>0</sub>)
         escape_velocity: 5.985 km/s<br />(21,545 km/h)
         rotation_period: 28.936 d
         axial_tilt: 7.86°
         albedo: 0.30
-        temperature: 1668 K<br />(1395 °C)
+        temperature: 154 K<br />(-119 °C)
   - name: 0079 Kinanniad V
     type: Terrestrial
     aphelion: 370,959,517 km<br />2.480 AU
@@ -449,14 +449,14 @@ planets:
     radius: 5,413.6 km<br/>(0.850 Yrths)
     surface_area: 3.683 × 10<sup>08</sup> km<sup>2</sup><br/>(0.722 Yrths)
     volume: 6.646 × 10<sup>11</sup> km<sup>3</sup><br/>(0.614 Yrths)
-    mass: 3.994 × 10<sup>24</sup> kg<br />(0.6687263525937093 Yrths)
+    mass: 3.994 × 10<sup>24</sup> kg<br />(0.67 Yrths)
     density: 6.009 g/cm<sup>3</sup>
     surface_gravity: 9.083 m/s<sup>2</sup><br />(0.926 g<sub>0</sub>)
     escape_velocity: 9.923 km/s<br />(35,724 km/h)
     rotation_period: 1.318 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 136 K<br />(-137 °C)
+    temperature: 127 K<br />(-146 °C)
     surface_pressure: 30 kPa<br />(0 atm)
     composition:
       - 91.4839% nitrogen
@@ -476,14 +476,14 @@ planets:
         radius: 1,454.8 km<br/>(0.228 Yrths)
         surface_area: 2.659 × 10<sup>07</sup> km<sup>2</sup><br/>(0.052 Yrths)
         volume: 1.290 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 1.118 × 10<sup>22</sup> kg<br />(0.6687263525937093 Yrths)
+        mass: 1.118 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 0.867 g/cm<sup>3</sup>
         surface_gravity: 0.352 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 1.013 km/s<br />(3,647 km/h)
         rotation_period: 100.265 d
         axial_tilt: 20.42°
         albedo: 0.30
-        temperature: 1726 K<br />(1453 °C)
+        temperature: 121 K<br />(-152 °C)
       - name: 0079 Kinanniad V b
         type: Asteroid
         formationType: Captured
@@ -496,14 +496,14 @@ planets:
         radius: 2,297.5 km<br/>(0.361 Yrths)
         surface_area: 6.633 × 10<sup>07</sup> km<sup>2</sup><br/>(0.130 Yrths)
         volume: 5.080 × 10<sup>10</sup> km<sup>3</sup><br/>(0.047 Yrths)
-        mass: 1.374 × 10<sup>23</sup> kg<br />(0.6687263525937093 Yrths)
+        mass: 1.374 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 2.704 g/cm<sup>3</sup>
         surface_gravity: 1.734 m/s<sup>2</sup><br />(0.177 g<sub>0</sub>)
         escape_velocity: 2.825 km/s<br />(10,170 km/h)
         rotation_period: 40.595 d
         axial_tilt: 48.87°
         albedo: 0.30
-        temperature: 1646 K<br />(1372 °C)
+        temperature: 121 K<br />(-152 °C)
   - name: 0079 Kinanniad VI
     type: Ice giant
     aphelion: 601,391,887 km<br />4.020 AU
@@ -515,14 +515,14 @@ planets:
     radius: 27,235.1 km<br/>(4.275 Yrths)
     surface_area: 9.321 × 10<sup>09</sup> km<sup>2</sup><br/>(18.274 Yrths)
     volume: 8.462 × 10<sup>13</sup> km<sup>3</sup><br/>(78.120 Yrths)
-    mass: 1.007 × 10<sup>26</sup> kg<br />(16.868771986578192 Yrths)
+    mass: 1.007 × 10<sup>26</sup> kg<br />(16.87 Yrths)
     density: 1.190 g/cm<sup>3</sup>
     surface_gravity: 9.052 m/s<sup>2</sup><br />(0.923 g<sub>0</sub>)
     escape_velocity: 22.221 km/s<br />(79,994 km/h)
     rotation_period: 0.525 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 168 K<br />(-105 °C)
+    temperature: 152 K<br />(-121 °C)
     composition:
       - 70.4631% hydrogen
       - 25.0846% helium
@@ -540,14 +540,14 @@ planets:
         radius: 21,993.6 km<br/>(3.452 Yrths)
         surface_area: 6.079 × 10<sup>09</sup> km<sup>2</sup><br/>(11.917 Yrths)
         volume: 4.456 × 10<sup>13</sup> km<sup>3</sup><br/>(41.140 Yrths)
-        mass: 7.581 × 10<sup>25</sup> kg<br />(16.868771986578192 Yrths)
+        mass: 7.581 × 10<sup>25</sup> kg<br />(12.695 Yrths)
         density: 1.701 g/cm<sup>3</sup>
         surface_gravity: 10.446 m/s<sup>2</sup><br />(1.065 g<sub>0</sub>)
         escape_velocity: 21.451 km/s<br />(77,222 km/h)
         rotation_period: 53.422 d
         axial_tilt: 8.75°
         albedo: 0.30
-        temperature: 754 K<br />(481 °C)
+        temperature: 95 K<br />(-178 °C)
       - name: 0079 Kinanniad VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -560,14 +560,14 @@ planets:
         radius: 27,812.0 km<br/>(4.365 Yrths)
         surface_area: 9.720 × 10<sup>09</sup> km<sup>2</sup><br/>(19.057 Yrths)
         volume: 9.011 × 10<sup>13</sup> km<sup>3</sup><br/>(83.191 Yrths)
-        mass: 1.771 × 10<sup>26</sup> kg<br />(16.868771986578192 Yrths)
+        mass: 1.771 × 10<sup>26</sup> kg<br />(29.657 Yrths)
         density: 1.965 g/cm<sup>3</sup>
         surface_gravity: 15.261 m/s<sup>2</sup><br />(1.556 g<sub>0</sub>)
         escape_velocity: 29.156 km/s<br />(104,960 km/h)
         rotation_period: 56.627 d
         axial_tilt: 20.76°
         albedo: 0.30
-        temperature: 719 K<br />(446 °C)
+        temperature: 95 K<br />(-178 °C)
       - name: 0079 Kinanniad VI c
         type: Rocky
         formationType: Accreted
@@ -580,14 +580,14 @@ planets:
         radius: 20,007.3 km<br/>(3.140 Yrths)
         surface_area: 5.030 × 10<sup>09</sup> km<sup>2</sup><br/>(9.862 Yrths)
         volume: 3.355 × 10<sup>13</sup> km<sup>3</sup><br/>(30.970 Yrths)
-        mass: 8.981 × 10<sup>25</sup> kg<br />(16.868771986578192 Yrths)
+        mass: 8.981 × 10<sup>25</sup> kg<br />(15.038 Yrths)
         density: 2.677 g/cm<sup>3</sup>
         surface_gravity: 14.954 m/s<sup>2</sup><br />(1.525 g<sub>0</sub>)
         escape_velocity: 24.478 km/s<br />(88,122 km/h)
         rotation_period: 33.072 d
         axial_tilt: 12.42°
         albedo: 0.30
-        temperature: 685 K<br />(412 °C)
+        temperature: 95 K<br />(-178 °C)
       - name: 0079 Kinanniad VI d
         type: Icy
         formationType: Impact formed
@@ -600,14 +600,14 @@ planets:
         radius: 32,689.0 km<br/>(5.131 Yrths)
         surface_area: 1.343 × 10<sup>10</sup> km<sup>2</sup><br/>(26.326 Yrths)
         volume: 1.463 × 10<sup>14</sup> km<sup>3</sup><br/>(135.077 Yrths)
-        mass: 1.817 × 10<sup>26</sup> kg<br />(16.868771986578192 Yrths)
+        mass: 1.817 × 10<sup>26</sup> kg<br />(30.429 Yrths)
         density: 1.242 g/cm<sup>3</sup>
         surface_gravity: 11.335 m/s<sup>2</sup><br />(1.156 g<sub>0</sub>)
         escape_velocity: 27.241 km/s<br />(98,067 km/h)
         rotation_period: 48.731 d
         axial_tilt: 14.15°
         albedo: 0.30
-        temperature: 653 K<br />(380 °C)
+        temperature: 95 K<br />(-178 °C)
       - name: 0079 Kinanniad VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -620,14 +620,14 @@ planets:
         radius: 34,226.9 km<br/>(5.372 Yrths)
         surface_area: 1.472 × 10<sup>10</sup> km<sup>2</sup><br/>(28.862 Yrths)
         volume: 1.680 × 10<sup>14</sup> km<sup>3</sup><br/>(155.053 Yrths)
-        mass: 2.870 × 10<sup>26</sup> kg<br />(16.868771986578192 Yrths)
+        mass: 2.870 × 10<sup>26</sup> kg<br />(48.061 Yrths)
         density: 1.709 g/cm<sup>3</sup>
         surface_gravity: 16.330 m/s<sup>2</sup><br />(1.665 g<sub>0</sub>)
         escape_velocity: 33.457 km/s<br />(120,447 km/h)
         rotation_period: 42.641 d
         axial_tilt: 28.20°
         albedo: 0.30
-        temperature: 566 K<br />(293 °C)
+        temperature: 95 K<br />(-178 °C)
       - name: 0079 Kinanniad VI f
         type: Ice/rock hybrid
         formationType: Captured
@@ -640,14 +640,14 @@ planets:
         radius: 22,469.5 km<br/>(3.527 Yrths)
         surface_area: 6.344 × 10<sup>09</sup> km<sup>2</sup><br/>(12.439 Yrths)
         volume: 4.752 × 10<sup>13</sup> km<sup>3</sup><br/>(43.869 Yrths)
-        mass: 8.029 × 10<sup>25</sup> kg<br />(16.868771986578192 Yrths)
+        mass: 8.029 × 10<sup>25</sup> kg<br />(13.444 Yrths)
         density: 1.690 g/cm<sup>3</sup>
         surface_gravity: 10.599 m/s<sup>2</sup><br />(1.081 g<sub>0</sub>)
         escape_velocity: 21.840 km/s<br />(78,623 km/h)
         rotation_period: 45.962 d
         axial_tilt: 20.46°
         albedo: 0.30
-        temperature: 406 K<br />(133 °C)
+        temperature: 95 K<br />(-178 °C)
   - name: 0079 Kinanniad VII
     type: Gas dwarf
     aphelion: 975,014,295 km<br />6.517 AU
@@ -659,14 +659,14 @@ planets:
     radius: 17,107.5 km<br/>(2.685 Yrths)
     surface_area: 3.678 × 10<sup>09</sup> km<sup>2</sup><br/>(7.210 Yrths)
     volume: 2.097 × 10<sup>13</sup> km<sup>3</sup><br/>(19.362 Yrths)
-    mass: 3.888 × 10<sup>25</sup> kg<br />(6.510412882431835 Yrths)
+    mass: 3.888 × 10<sup>25</sup> kg<br />(6.51 Yrths)
     density: 1.854 g/cm<sup>3</sup>
     surface_gravity: 8.855 m/s<sup>2</sup><br />(0.903 g<sub>0</sub>)
     escape_velocity: 17.418 km/s<br />(62,703 km/h)
     rotation_period: 0.502 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 105 K<br />(-168 °C)
+    temperature: 93 K<br />(-180 °C)
     composition:
       - 84.3989% hydrogen
       - 13.4271% helium
@@ -685,14 +685,14 @@ planets:
         radius: 7,958.3 km<br/>(1.249 Yrths)
         surface_area: 7.959 × 10<sup>08</sup> km<sup>2</sup><br/>(1.560 Yrths)
         volume: 2.111 × 10<sup>12</sup> km<sup>3</sup><br/>(1.949 Yrths)
-        mass: 4.509 × 10<sup>24</sup> kg<br />(6.510412882431835 Yrths)
+        mass: 4.509 × 10<sup>24</sup> kg<br />(0.755 Yrths)
         density: 2.136 g/cm<sup>3</sup>
         surface_gravity: 4.745 m/s<sup>2</sup><br />(0.484 g<sub>0</sub>)
         escape_velocity: 8.697 km/s<br />(31,307 km/h)
         rotation_period: 55.701 d
         axial_tilt: 28.26°
         albedo: 0.30
-        temperature: 728 K<br />(455 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0079 Kinanniad VII b
         type: Dwarf planet
         formationType: Impact formed
@@ -705,14 +705,14 @@ planets:
         radius: 14,488.5 km<br/>(2.274 Yrths)
         surface_area: 2.638 × 10<sup>09</sup> km<sup>2</sup><br/>(5.172 Yrths)
         volume: 1.274 × 10<sup>13</sup> km<sup>3</sup><br/>(11.761 Yrths)
-        mass: 2.724 × 10<sup>25</sup> kg<br />(6.510412882431835 Yrths)
+        mass: 2.724 × 10<sup>25</sup> kg<br />(4.562 Yrths)
         density: 2.138 g/cm<sup>3</sup>
         surface_gravity: 8.650 m/s<sup>2</sup><br />(0.882 g<sub>0</sub>)
         escape_velocity: 15.843 km/s<br />(57,034 km/h)
         rotation_period: 35.241 d
         axial_tilt: 20.81°
         albedo: 0.30
-        temperature: 694 K<br />(421 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0079 Kinanniad VII c
         type: Icy
         formationType: Accreted
@@ -725,14 +725,14 @@ planets:
         radius: 6,815.7 km<br/>(1.070 Yrths)
         surface_area: 5.838 × 10<sup>08</sup> km<sup>2</sup><br/>(1.144 Yrths)
         volume: 1.326 × 10<sup>12</sup> km<sup>3</sup><br/>(1.224 Yrths)
-        mass: 1.833 × 10<sup>24</sup> kg<br />(6.510412882431835 Yrths)
+        mass: 1.833 × 10<sup>24</sup> kg<br />(0.307 Yrths)
         density: 1.382 g/cm<sup>3</sup>
         surface_gravity: 2.629 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
         escape_velocity: 5.991 km/s<br />(21,567 km/h)
         rotation_period: 58.383 d
         axial_tilt: 16.09°
         albedo: 0.30
-        temperature: 662 K<br />(389 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0079 Kinanniad VII d
         type: Icy
         formationType: Captured
@@ -745,14 +745,14 @@ planets:
         radius: 7,687.8 km<br/>(1.207 Yrths)
         surface_area: 7.427 × 10<sup>08</sup> km<sup>2</sup><br/>(1.456 Yrths)
         volume: 1.903 × 10<sup>12</sup> km<sup>3</sup><br/>(1.757 Yrths)
-        mass: 2.637 × 10<sup>24</sup> kg<br />(6.510412882431835 Yrths)
+        mass: 2.637 × 10<sup>24</sup> kg<br />(0.442 Yrths)
         density: 1.385 g/cm<sup>3</sup>
         surface_gravity: 2.974 m/s<sup>2</sup><br />(0.303 g<sub>0</sub>)
         escape_velocity: 6.766 km/s<br />(24,359 km/h)
         rotation_period: 48.512 d
         axial_tilt: 18.66°
         albedo: 0.30
-        temperature: 631 K<br />(358 °C)
+        temperature: 75 K<br />(-198 °C)
       - name: 0079 Kinanniad VII e
         type: Icy
         formationType: Accreted
@@ -765,12 +765,12 @@ planets:
         radius: 7,790.7 km<br/>(1.223 Yrths)
         surface_area: 7.627 × 10<sup>08</sup> km<sup>2</sup><br/>(1.495 Yrths)
         volume: 1.981 × 10<sup>12</sup> km<sup>3</sup><br/>(1.829 Yrths)
-        mass: 2.929 × 10<sup>24</sup> kg<br />(6.510412882431835 Yrths)
+        mass: 2.929 × 10<sup>24</sup> kg<br />(0.490 Yrths)
         density: 1.479 g/cm<sup>3</sup>
         surface_gravity: 3.216 m/s<sup>2</sup><br />(0.328 g<sub>0</sub>)
         escape_velocity: 7.084 km/s<br />(25,502 km/h)
         rotation_period: 79.756 d
         axial_tilt: 13.87°
         albedo: 0.30
-        temperature: 574 K<br />(300 °C)
+        temperature: 75 K<br />(-198 °C)
 ---

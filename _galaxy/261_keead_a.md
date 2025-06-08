@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      261 Keead A is a star in the constellation Kee
+      261 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 993.65 ly
 apparent_magnitude: 7.26
 absolute_magnitude: -0.16

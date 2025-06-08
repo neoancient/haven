@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9387 Athiad is a star in the constellation Ath
+      9387 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 627.53 ly
 apparent_magnitude: 9.00
 absolute_magnitude: 2.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5040 Arkothiad is a star in the constellation Arkoth
+      5040 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 535.35 ly
 apparent_magnitude: 8.86
 absolute_magnitude: 2.78

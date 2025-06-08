@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3498 Lunaiad is a star in the constellation Luna
+      3498 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 192.41 ly
 apparent_magnitude: 10.18
 absolute_magnitude: 6.32

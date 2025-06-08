@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0049 Keead is a star in the constellation Kee
+      0049 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 39.71 ly
 apparent_magnitude: 6.43
 absolute_magnitude: 6.00
@@ -31,14 +31,14 @@ planets:
     radius: 8,157.9 km<br/>(1.280 Yrths)
     surface_area: 8.363 × 10<sup>08</sup> km<sup>2</sup><br/>(1.640 Yrths)
     volume: 2.274 × 10<sup>12</sup> km<sup>3</sup><br/>(2.099 Yrths)
-    mass: 1.514 × 10<sup>25</sup> kg<br />(2.5358830679236535 Yrths)
+    mass: 1.514 × 10<sup>25</sup> kg<br />(2.54 Yrths)
     density: 6.659 g/cm<sup>3</sup>
     surface_gravity: 15.167 m/s<sup>2</sup><br />(1.547 g<sub>0</sub>)
     escape_velocity: 15.742 km/s<br />(56,670 km/h)
     rotation_period: 1.501 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 313 K<br />(40 °C)
+    temperature: 371 K<br />(98 °C)
     surface_pressure: 133 kPa<br />(1 atm)
     composition:
       - 82.3041% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 5,051.6 km<br/>(0.793 Yrths)
         surface_area: 3.207 × 10<sup>08</sup> km<sup>2</sup><br/>(0.629 Yrths)
         volume: 5.400 × 10<sup>11</sup> km<sup>3</sup><br/>(0.498 Yrths)
-        mass: 1.569 × 10<sup>24</sup> kg<br />(2.5358830679236535 Yrths)
+        mass: 1.569 × 10<sup>24</sup> kg<br />(0.263 Yrths)
         density: 2.906 g/cm<sup>3</sup>
         surface_gravity: 4.098 m/s<sup>2</sup><br />(0.418 g<sub>0</sub>)
         escape_velocity: 6.439 km/s<br />(23,181 km/h)
         rotation_period: 50.116 d
         axial_tilt: 16.03°
         albedo: 0.30
-        temperature: 3194 K<br />(2921 °C)
+        temperature: 249 K<br />(-25 °C)
       - name: 0049 Keead I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 4,526.7 km<br/>(0.711 Yrths)
         surface_area: 2.575 × 10<sup>08</sup> km<sup>2</sup><br/>(0.505 Yrths)
         volume: 3.885 × 10<sup>11</sup> km<sup>3</sup><br/>(0.359 Yrths)
-        mass: 9.247 × 10<sup>23</sup> kg<br />(2.5358830679236535 Yrths)
+        mass: 9.247 × 10<sup>23</sup> kg<br />(0.155 Yrths)
         density: 2.380 g/cm<sup>3</sup>
         surface_gravity: 3.008 m/s<sup>2</sup><br />(0.307 g<sub>0</sub>)
         escape_velocity: 5.222 km/s<br />(18,799 km/h)
         rotation_period: 41.360 d
         axial_tilt: 19.74°
         albedo: 0.30
-        temperature: 3046 K<br />(2772 °C)
+        temperature: 249 K<br />(-25 °C)
       - name: 0049 Keead I c
         type: Asteroid
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 4,181.1 km<br/>(0.656 Yrths)
         surface_area: 2.197 × 10<sup>08</sup> km<sup>2</sup><br/>(0.431 Yrths)
         volume: 3.062 × 10<sup>11</sup> km<sup>3</sup><br/>(0.283 Yrths)
-        mass: 7.734 × 10<sup>23</sup> kg<br />(2.5358830679236535 Yrths)
+        mass: 7.734 × 10<sup>23</sup> kg<br />(0.129 Yrths)
         density: 2.526 g/cm<sup>3</sup>
         surface_gravity: 2.949 m/s<sup>2</sup><br />(0.301 g<sub>0</sub>)
         escape_velocity: 4.969 km/s<br />(17,888 km/h)
         rotation_period: 32.364 d
         axial_tilt: 50.03°
         albedo: 0.30
-        temperature: 2904 K<br />(2631 °C)
+        temperature: 249 K<br />(-25 °C)
   - name: 0049 Keead II
     type: Terrestrial
     aphelion: 295,667,589 km<br />1.976 AU
@@ -117,14 +117,14 @@ planets:
     radius: 3,104.3 km<br/>(0.487 Yrths)
     surface_area: 1.211 × 10<sup>08</sup> km<sup>2</sup><br/>(0.237 Yrths)
     volume: 1.253 × 10<sup>11</sup> km<sup>3</sup><br/>(0.116 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.766 g/cm<sup>3</sup>
     surface_gravity: 4.131 m/s<sup>2</sup><br />(0.421 g<sub>0</sub>)
     escape_velocity: 5.068 km/s<br />(18,243 km/h)
     rotation_period: 2.634 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 199 K<br />(-74 °C)
+    temperature: 190 K<br />(-83 °C)
     surface_pressure: 8 kPa<br />(0 atm)
     composition:
       - 99.5539% nitrogen
@@ -142,14 +142,14 @@ planets:
         radius: 495.5 km<br/>(0.078 Yrths)
         surface_area: 3.085 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.095 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.509 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.509 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.962 g/cm<sup>3</sup>
         surface_gravity: 0.410 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.638 km/s<br />(2,296 km/h)
         rotation_period: 44.563 d
         axial_tilt: 21.23°
         albedo: 0.30
-        temperature: 4000 K<br />(3726 °C)
+        temperature: 189 K<br />(-84 °C)
   - name: 0049 Keead III
     type: Terrestrial
     aphelion: 508,959,328 km<br />3.402 AU
@@ -161,14 +161,14 @@ planets:
     radius: 3,112.1 km<br/>(0.488 Yrths)
     surface_area: 1.217 × 10<sup>08</sup> km<sup>2</sup><br/>(0.239 Yrths)
     volume: 1.263 × 10<sup>11</sup> km<sup>3</sup><br/>(0.117 Yrths)
-    mass: 6.825 × 10<sup>23</sup> kg<br />(0.11428925491291206 Yrths)
+    mass: 6.825 × 10<sup>23</sup> kg<br />(0.11 Yrths)
     density: 5.406 g/cm<sup>3</sup>
     surface_gravity: 4.697 m/s<sup>2</sup><br />(0.479 g<sub>0</sub>)
     escape_velocity: 5.411 km/s<br />(19,479 km/h)
     rotation_period: 2.142 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 157 K<br />(-116 °C)
+    temperature: 163 K<br />(-110 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 95.1573% nitrogen
@@ -188,12 +188,12 @@ planets:
         radius: 738.0 km<br/>(0.116 Yrths)
         surface_area: 6.844 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.684 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.752 × 10<sup>21</sup> kg<br />(0.11428925491291206 Yrths)
+        mass: 4.752 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.822 g/cm<sup>3</sup>
         surface_gravity: 0.582 m/s<sup>2</sup><br />(0.059 g<sub>0</sub>)
         escape_velocity: 0.927 km/s<br />(3,338 km/h)
         rotation_period: 30.679 d
         axial_tilt: 37.46°
         albedo: 0.30
-        temperature: 3015 K<br />(2742 °C)
+        temperature: 144 K<br />(-129 °C)
 ---

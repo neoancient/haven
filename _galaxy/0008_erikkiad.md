@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0008 Erikkiad is a star in the constellation Erik
+      0008 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 299.76 ly
 apparent_magnitude: 6.44
 absolute_magnitude: 1.62
@@ -31,14 +31,14 @@ planets:
     radius: 16,389.8 km<br/>(2.573 Yrths)
     surface_area: 3.376 × 10<sup>09</sup> km<sup>2</sup><br/>(6.618 Yrths)
     volume: 1.844 × 10<sup>13</sup> km<sup>3</sup><br/>(17.026 Yrths)
-    mass: 4.530 × 10<sup>25</sup> kg<br />(7.585803218559694 Yrths)
+    mass: 4.530 × 10<sup>25</sup> kg<br />(7.59 Yrths)
     density: 2.456 g/cm<sup>3</sup>
     surface_gravity: 11.241 m/s<sup>2</sup><br />(1.146 g<sub>0</sub>)
     escape_velocity: 19.208 km/s<br />(69,150 km/h)
     rotation_period: 0.498 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 649 K<br />(376 °C)
+    temperature: 592 K<br />(319 °C)
     composition:
       - 66.5106% hydrogen
       - 29.4446% helium
@@ -59,14 +59,14 @@ planets:
         radius: 7,686.5 km<br/>(1.206 Yrths)
         surface_area: 7.425 × 10<sup>08</sup> km<sup>2</sup><br/>(1.456 Yrths)
         volume: 1.902 × 10<sup>12</sup> km<sup>3</sup><br/>(1.756 Yrths)
-        mass: 6.508 × 10<sup>24</sup> kg<br />(7.585803218559694 Yrths)
+        mass: 6.508 × 10<sup>24</sup> kg<br />(1.090 Yrths)
         density: 3.421 g/cm<sup>3</sup>
         surface_gravity: 7.342 m/s<sup>2</sup><br />(0.749 g<sub>0</sub>)
         escape_velocity: 10.631 km/s<br />(38,272 km/h)
         rotation_period: 41.382 d
         axial_tilt: 23.50°
         albedo: 0.30
-        temperature: 4338 K<br />(4064 °C)
+        temperature: 401 K<br />(127 °C)
       - name: 0008 Erikkiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 7,983.5 km<br/>(1.253 Yrths)
         surface_area: 8.009 × 10<sup>08</sup> km<sup>2</sup><br/>(1.570 Yrths)
         volume: 2.131 × 10<sup>12</sup> km<sup>3</sup><br/>(1.968 Yrths)
-        mass: 4.735 × 10<sup>24</sup> kg<br />(7.585803218559694 Yrths)
+        mass: 4.735 × 10<sup>24</sup> kg<br />(0.793 Yrths)
         density: 2.221 g/cm<sup>3</sup>
         surface_gravity: 4.951 m/s<sup>2</sup><br />(0.505 g<sub>0</sub>)
         escape_velocity: 8.897 km/s<br />(32,031 km/h)
         rotation_period: 52.168 d
         axial_tilt: 22.04°
         albedo: 0.30
-        temperature: 4136 K<br />(3863 °C)
+        temperature: 401 K<br />(127 °C)
       - name: 0008 Erikkiad I c
         type: Dwarf planet
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 11,503.7 km<br/>(1.806 Yrths)
         surface_area: 1.663 × 10<sup>09</sup> km<sup>2</sup><br/>(3.260 Yrths)
         volume: 6.377 × 10<sup>12</sup> km<sup>3</sup><br/>(5.887 Yrths)
-        mass: 1.485 × 10<sup>25</sup> kg<br />(7.585803218559694 Yrths)
+        mass: 1.485 × 10<sup>25</sup> kg<br />(2.487 Yrths)
         density: 2.329 g/cm<sup>3</sup>
         surface_gravity: 7.479 m/s<sup>2</sup><br />(0.763 g<sub>0</sub>)
         escape_velocity: 13.127 km/s<br />(47,256 km/h)
         rotation_period: 44.741 d
         axial_tilt: 27.24°
         albedo: 0.30
-        temperature: 3943 K<br />(3670 °C)
+        temperature: 401 K<br />(127 °C)
       - name: 0008 Erikkiad I d
         type: Icy
         formationType: Captured
@@ -119,14 +119,14 @@ planets:
         radius: 12,417.9 km<br/>(1.949 Yrths)
         surface_area: 1.938 × 10<sup>09</sup> km<sup>2</sup><br/>(3.799 Yrths)
         volume: 8.021 × 10<sup>12</sup> km<sup>3</sup><br/>(7.405 Yrths)
-        mass: 1.277 × 10<sup>25</sup> kg<br />(7.585803218559694 Yrths)
+        mass: 1.277 × 10<sup>25</sup> kg<br />(2.138 Yrths)
         density: 1.592 g/cm<sup>3</sup>
         surface_gravity: 5.519 m/s<sup>2</sup><br />(0.563 g<sub>0</sub>)
         escape_velocity: 11.715 km/s<br />(42,176 km/h)
         rotation_period: 44.188 d
         axial_tilt: 20.33°
         albedo: 0.30
-        temperature: 3760 K<br />(3487 °C)
+        temperature: 401 K<br />(127 °C)
       - name: 0008 Erikkiad I e
         type: Rocky
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 11,918.5 km<br/>(1.871 Yrths)
         surface_area: 1.785 × 10<sup>09</sup> km<sup>2</sup><br/>(3.500 Yrths)
         volume: 7.092 × 10<sup>12</sup> km<sup>3</sup><br/>(6.547 Yrths)
-        mass: 2.265 × 10<sup>25</sup> kg<br />(7.585803218559694 Yrths)
+        mass: 2.265 × 10<sup>25</sup> kg<br />(3.793 Yrths)
         density: 3.194 g/cm<sup>3</sup>
         surface_gravity: 10.629 m/s<sup>2</sup><br />(1.084 g<sub>0</sub>)
         escape_velocity: 15.928 km/s<br />(57,341 km/h)
         rotation_period: 54.839 d
         axial_tilt: 14.97°
         albedo: 0.30
-        temperature: 3585 K<br />(3312 °C)
+        temperature: 401 K<br />(127 °C)
   - name: 0008 Erikkiad II
     type: Gas giant
     aphelion: 755,910,753 km<br />5.053 AU
@@ -158,14 +158,14 @@ planets:
     radius: 234.8 km<br/>(0.037 Yrths)
     surface_area: 6.931 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.425 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.015 × 10<sup>27</sup> kg<br />(337.4519338396148 Yrths)
+    mass: 2.015 × 10<sup>27</sup> kg<br />(337.45 Yrths)
     density: 37145124.962 g/cm<sup>3</sup>
     surface_gravity: 2435493.354 m/s<sup>2</sup><br />(248351.206 g<sub>0</sub>)
     escape_velocity: 1070.270 km/s<br />(3,852,973 km/h)
     rotation_period: 0.233 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1146 K<br />(873 °C)
+    temperature: 1121 K<br />(848 °C)
     composition:
       - 82.3882% hydrogen
       - 8.4524% helium
@@ -184,14 +184,14 @@ planets:
         radius: 202,595.4 km<br/>(31.800 Yrths)
         surface_area: 5.158 × 10<sup>11</sup> km<sup>2</sup><br/>(1011.216 Yrths)
         volume: 3.483 × 10<sup>16</sup> km<sup>3</sup><br/>(32156.285 Yrths)
-        mass: 4.138 × 10<sup>28</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 4.138 × 10<sup>28</sup> kg<br />(6929.157 Yrths)
         density: 1.188 g/cm<sup>3</sup>
         surface_gravity: 67.198 m/s<sup>2</sup><br />(6.852 g<sub>0</sub>)
         escape_velocity: 165.121 km/s<br />(594,437 km/h)
         rotation_period: 51.444 d
         axial_tilt: 9.11°
         albedo: 0.30
-        temperature: 1719 K<br />(1446 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -204,14 +204,14 @@ planets:
         radius: 198,579.9 km<br/>(31.169 Yrths)
         surface_area: 4.955 × 10<sup>11</sup> km<sup>2</sup><br/>(971.528 Yrths)
         volume: 3.280 × 10<sup>16</sup> km<sup>3</sup><br/>(30281.900 Yrths)
-        mass: 7.749 × 10<sup>28</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 7.749 × 10<sup>28</sup> kg<br />(12975.367 Yrths)
         density: 2.362 g/cm<sup>3</sup>
         surface_gravity: 130.974 m/s<sup>2</sup><br />(13.356 g<sub>0</sub>)
         escape_velocity: 228.229 km/s<br />(821,623 km/h)
         rotation_period: 32.982 d
         axial_tilt: 18.61°
         albedo: 0.30
-        temperature: 1490 K<br />(1217 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -224,14 +224,14 @@ planets:
         radius: 262,861.9 km<br/>(41.259 Yrths)
         surface_area: 8.683 × 10<sup>11</sup> km<sup>2</sup><br/>(1702.316 Yrths)
         volume: 7.608 × 10<sup>16</sup> km<sup>3</sup><br/>(70236.055 Yrths)
-        mass: 1.547 × 10<sup>29</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 1.547 × 10<sup>29</sup> kg<br />(25902.174 Yrths)
         density: 2.033 g/cm<sup>3</sup>
         surface_gravity: 149.216 m/s<sup>2</sup><br />(15.216 g<sub>0</sub>)
         escape_velocity: 280.274 km/s<br />(1,008,985 km/h)
         rotation_period: 64.870 d
         axial_tilt: 15.30°
         albedo: 0.30
-        temperature: 1174 K<br />(901 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II d
         type: Icy
         formationType: Accreted
@@ -244,14 +244,14 @@ planets:
         radius: 182,643.2 km<br/>(28.668 Yrths)
         surface_area: 4.192 × 10<sup>11</sup> km<sup>2</sup><br/>(821.849 Yrths)
         volume: 2.552 × 10<sup>16</sup> km<sup>3</sup><br/>(23560.671 Yrths)
-        mass: 3.771 × 10<sup>28</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 3.771 × 10<sup>28</sup> kg<br />(6313.713 Yrths)
         density: 1.477 g/cm<sup>3</sup>
         surface_gravity: 75.338 m/s<sup>2</sup><br />(7.682 g<sub>0</sub>)
         escape_velocity: 166.004 km/s<br />(597,614 km/h)
         rotation_period: 58.559 d
         axial_tilt: 22.07°
         albedo: 0.30
-        temperature: 1119 K<br />(846 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II e
         type: Dwarf planet
         formationType: Accreted
@@ -264,14 +264,14 @@ planets:
         radius: 235,423.3 km<br/>(36.952 Yrths)
         surface_area: 6.965 × 10<sup>11</sup> km<sup>2</sup><br/>(1365.474 Yrths)
         volume: 5.466 × 10<sup>16</sup> km<sup>3</sup><br/>(50457.445 Yrths)
-        mass: 6.559 × 10<sup>28</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 6.559 × 10<sup>28</sup> kg<br />(10982.422 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 78.874 m/s<sup>2</sup><br />(8.043 g<sub>0</sub>)
         escape_velocity: 192.842 km/s<br />(694,232 km/h)
         rotation_period: 65.144 d
         axial_tilt: 28.79°
         albedo: 0.30
-        temperature: 1018 K<br />(744 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II f
         type: Icy
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 264,546.5 km<br/>(41.524 Yrths)
         surface_area: 8.795 × 10<sup>11</sup> km<sup>2</sup><br/>(1724.204 Yrths)
         volume: 7.755 × 10<sup>16</sup> km<sup>3</sup><br/>(71595.075 Yrths)
-        mass: 8.114 × 10<sup>28</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 8.114 × 10<sup>28</sup> kg<br />(13586.758 Yrths)
         density: 1.046 g/cm<sup>3</sup>
         surface_gravity: 77.277 m/s<sup>2</sup><br />(7.880 g<sub>0</sub>)
         escape_velocity: 202.341 km/s<br />(728,429 km/h)
         rotation_period: 55.438 d
         axial_tilt: 14.39°
         albedo: 0.30
-        temperature: 729 K<br />(456 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II g
         type: Dwarf planet
         formationType: Accreted
@@ -304,14 +304,14 @@ planets:
         radius: 260,696.8 km<br/>(40.919 Yrths)
         surface_area: 8.540 × 10<sup>11</sup> km<sup>2</sup><br/>(1674.389 Yrths)
         volume: 7.422 × 10<sup>16</sup> km<sup>3</sup><br/>(68514.819 Yrths)
-        mass: 1.236 × 10<sup>29</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 1.236 × 10<sup>29</sup> kg<br />(20697.519 Yrths)
         density: 1.665 g/cm<sup>3</sup>
         surface_gravity: 121.222 m/s<sup>2</sup><br />(12.361 g<sub>0</sub>)
         escape_velocity: 251.576 km/s<br />(905,673 km/h)
         rotation_period: 53.776 d
         axial_tilt: 29.46°
         albedo: 0.30
-        temperature: 632 K<br />(359 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II h
         type: Icy
         formationType: Captured
@@ -324,14 +324,14 @@ planets:
         radius: 232,316.4 km<br/>(36.465 Yrths)
         surface_area: 6.782 × 10<sup>11</sup> km<sup>2</sup><br/>(1329.672 Yrths)
         volume: 5.252 × 10<sup>16</sup> km<sup>3</sup><br/>(48486.058 Yrths)
-        mass: 5.728 × 10<sup>28</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 5.728 × 10<sup>28</sup> kg<br />(9590.775 Yrths)
         density: 1.091 g/cm<sup>3</sup>
         surface_gravity: 70.734 m/s<sup>2</sup><br />(7.213 g<sub>0</sub>)
         escape_velocity: 181.411 km/s<br />(653,081 km/h)
         rotation_period: 94.378 d
         axial_tilt: 15.93°
         albedo: 0.30
-        temperature: 453 K<br />(179 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -344,14 +344,14 @@ planets:
         radius: 192,985.5 km<br/>(30.291 Yrths)
         surface_area: 4.680 × 10<sup>11</sup> km<sup>2</sup><br/>(917.560 Yrths)
         volume: 3.011 × 10<sup>16</sup> km<sup>3</sup><br/>(27794.020 Yrths)
-        mass: 4.817 × 10<sup>28</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 4.817 × 10<sup>28</sup> kg<br />(8066.088 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 86.208 m/s<sup>2</sup><br />(8.791 g<sub>0</sub>)
         escape_velocity: 182.535 km/s<br />(657,127 km/h)
         rotation_period: 42.097 d
         axial_tilt: 32.29°
         albedo: 0.30
-        temperature: 432 K<br />(158 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II j
         type: Icy
         formationType: Accreted
@@ -364,14 +364,14 @@ planets:
         radius: 279,164.2 km<br/>(43.818 Yrths)
         surface_area: 9.793 × 10<sup>11</sup> km<sup>2</sup><br/>(1920.013 Yrths)
         volume: 9.113 × 10<sup>16</sup> km<sup>3</sup><br/>(84131.019 Yrths)
-        mass: 8.946 × 10<sup>28</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 8.946 × 10<sup>28</sup> kg<br />(14979.898 Yrths)
         density: 0.982 g/cm<sup>3</sup>
         surface_gravity: 76.511 m/s<sup>2</sup><br />(7.802 g<sub>0</sub>)
         escape_velocity: 206.825 km/s<br />(744,569 km/h)
         rotation_period: 73.152 d
         axial_tilt: 19.15°
         albedo: 0.30
-        temperature: 411 K<br />(138 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 0008 Erikkiad II k
         type: Icy
         formationType: Accreted
@@ -384,14 +384,14 @@ planets:
         radius: 215,454.5 km<br/>(33.818 Yrths)
         surface_area: 5.833 × 10<sup>11</sup> km<sup>2</sup><br/>(1143.658 Yrths)
         volume: 4.189 × 10<sup>16</sup> km<sup>3</sup><br/>(38676.217 Yrths)
-        mass: 4.178 × 10<sup>28</sup> kg<br />(337.4519338396148 Yrths)
+        mass: 4.178 × 10<sup>28</sup> kg<br />(6996.529 Yrths)
         density: 0.997 g/cm<sup>3</sup>
         surface_gravity: 59.994 m/s<sup>2</sup><br />(6.118 g<sub>0</sub>)
         escape_velocity: 160.895 km/s<br />(579,220 km/h)
         rotation_period: 51.707 d
         axial_tilt: 22.38°
         albedo: 0.30
-        temperature: 392 K<br />(119 °C)
+        temperature: 284 K<br />(11 °C)
   - name: 0008 Erikkiad III
     type: Gas giant
     aphelion: 1,525,683,424 km<br />10.198 AU
@@ -403,14 +403,14 @@ planets:
     radius: 183.3 km<br/>(0.029 Yrths)
     surface_area: 4.224 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.581 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.943 × 10<sup>26</sup> kg<br />(116.25355353359616 Yrths)
+    mass: 6.943 × 10<sup>26</sup> kg<br />(116.25 Yrths)
     density: 26894963.665 g/cm<sup>3</sup>
     surface_gravity: 1376674.113 m/s<sup>2</sup><br />(140381.691 g<sub>0</sub>)
     escape_velocity: 710.973 km/s<br />(2,559,503 km/h)
     rotation_period: 0.259 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 768 K<br />(495 °C)
+    temperature: 729 K<br />(456 °C)
     composition:
       - 85.1417% hydrogen
       - 14.8583% helium
@@ -427,14 +427,14 @@ planets:
         radius: 97,273.6 km<br/>(15.268 Yrths)
         surface_area: 1.189 × 10<sup>11</sup> km<sup>2</sup><br/>(233.117 Yrths)
         volume: 3.855 × 10<sup>15</sup> km<sup>3</sup><br/>(3559.280 Yrths)
-        mass: 9.518 × 10<sup>27</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 9.518 × 10<sup>27</sup> kg<br />(1593.750 Yrths)
         density: 2.469 g/cm<sup>3</sup>
         surface_gravity: 67.045 m/s<sup>2</sup><br />(6.837 g<sub>0</sub>)
         escape_velocity: 114.285 km/s<br />(411,427 km/h)
         rotation_period: 42.653 d
         axial_tilt: 17.66°
         albedo: 0.30
-        temperature: 1452 K<br />(1179 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III b
         type: Icy
         formationType: Captured
@@ -447,14 +447,14 @@ planets:
         radius: 111,416.6 km<br/>(17.488 Yrths)
         surface_area: 1.560 × 10<sup>11</sup> km<sup>2</sup><br/>(305.833 Yrths)
         volume: 5.793 × 10<sup>15</sup> km<sup>3</sup><br/>(5348.430 Yrths)
-        mass: 7.300 × 10<sup>27</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 7.300 × 10<sup>27</sup> kg<br />(1222.377 Yrths)
         density: 1.260 g/cm<sup>3</sup>
         surface_gravity: 39.196 m/s<sup>2</sup><br />(3.997 g<sub>0</sub>)
         escape_velocity: 93.520 km/s<br />(336,673 km/h)
         rotation_period: 62.762 d
         axial_tilt: 10.18°
         albedo: 0.30
-        temperature: 1144 K<br />(871 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III c
         type: Rocky
         formationType: Accreted
@@ -467,14 +467,14 @@ planets:
         radius: 98,192.8 km<br/>(15.412 Yrths)
         surface_area: 1.212 × 10<sup>11</sup> km<sup>2</sup><br/>(237.544 Yrths)
         volume: 3.966 × 10<sup>15</sup> km<sup>3</sup><br/>(3661.143 Yrths)
-        mass: 1.360 × 10<sup>28</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 1.360 × 10<sup>28</sup> kg<br />(2277.449 Yrths)
         density: 3.430 g/cm<sup>3</sup>
         surface_gravity: 94.021 m/s<sup>2</sup><br />(9.587 g<sub>0</sub>)
         escape_velocity: 135.976 km/s<br />(489,513 km/h)
         rotation_period: 49.073 d
         axial_tilt: 18.80°
         albedo: 0.30
-        temperature: 1091 K<br />(818 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III d
         type: Icy
         formationType: Impact formed
@@ -487,14 +487,14 @@ planets:
         radius: 120,385.9 km<br/>(18.896 Yrths)
         surface_area: 1.821 × 10<sup>11</sup> km<sup>2</sup><br/>(357.056 Yrths)
         volume: 7.308 × 10<sup>15</sup> km<sup>3</sup><br/>(6746.902 Yrths)
-        mass: 7.588 × 10<sup>27</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 7.588 × 10<sup>27</sup> kg<br />(1270.678 Yrths)
         density: 1.038 g/cm<sup>3</sup>
         surface_gravity: 34.900 m/s<sup>2</sup><br />(3.559 g<sub>0</sub>)
         escape_velocity: 91.729 km/s<br />(330,225 km/h)
         rotation_period: 51.979 d
         axial_tilt: 8.98°
         albedo: 0.30
-        temperature: 860 K<br />(587 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III e
         type: Icy
         formationType: Accreted
@@ -507,14 +507,14 @@ planets:
         radius: 105,548.6 km<br/>(16.567 Yrths)
         surface_area: 1.400 × 10<sup>11</sup> km<sup>2</sup><br/>(274.467 Yrths)
         volume: 4.925 × 10<sup>15</sup> km<sup>3</sup><br/>(4547.105 Yrths)
-        mass: 6.192 × 10<sup>27</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 6.192 × 10<sup>27</sup> kg<br />(1036.792 Yrths)
         density: 1.257 g/cm<sup>3</sup>
         surface_gravity: 37.044 m/s<sup>2</sup><br />(3.777 g<sub>0</sub>)
         escape_velocity: 88.491 km/s<br />(318,566 km/h)
         rotation_period: 57.019 d
         axial_tilt: 20.47°
         albedo: 0.30
-        temperature: 820 K<br />(546 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III f
         type: Icy
         formationType: Accreted
@@ -527,14 +527,14 @@ planets:
         radius: 164,844.0 km<br/>(25.874 Yrths)
         surface_area: 3.415 × 10<sup>11</sup> km<sup>2</sup><br/>(669.470 Yrths)
         volume: 1.876 × 10<sup>16</sup> km<sup>3</sup><br/>(17321.959 Yrths)
-        mass: 1.616 × 10<sup>28</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 1.616 × 10<sup>28</sup> kg<br />(2706.423 Yrths)
         density: 0.861 g/cm<sup>3</sup>
         surface_gravity: 39.645 m/s<sup>2</sup><br />(4.043 g<sub>0</sub>)
         escape_velocity: 114.403 km/s<br />(411,852 km/h)
         rotation_period: 62.430 d
         axial_tilt: 12.79°
         albedo: 0.30
-        temperature: 646 K<br />(373 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -547,14 +547,14 @@ planets:
         radius: 113,120.4 km<br/>(17.756 Yrths)
         surface_area: 1.608 × 10<sup>11</sup> km<sup>2</sup><br/>(315.259 Yrths)
         volume: 6.063 × 10<sup>15</sup> km<sup>3</sup><br/>(5597.580 Yrths)
-        mass: 1.537 × 10<sup>28</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 1.537 × 10<sup>28</sup> kg<br />(2574.406 Yrths)
         density: 2.536 g/cm<sup>3</sup>
         surface_gravity: 80.081 m/s<sup>2</sup><br />(8.166 g<sub>0</sub>)
         escape_velocity: 134.693 km/s<br />(484,896 km/h)
         rotation_period: 52.815 d
         axial_tilt: 25.35°
         albedo: 0.30
-        temperature: 463 K<br />(190 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III h
         type: Icy
         formationType: Accreted
@@ -567,14 +567,14 @@ planets:
         radius: 104,782.8 km<br/>(16.447 Yrths)
         surface_area: 1.380 × 10<sup>11</sup> km<sup>2</sup><br/>(270.498 Yrths)
         volume: 4.819 × 10<sup>15</sup> km<sup>3</sup><br/>(4448.838 Yrths)
-        mass: 7.036 × 10<sup>27</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 7.036 × 10<sup>27</sup> kg<br />(1178.117 Yrths)
         density: 1.460 g/cm<sup>3</sup>
         surface_gravity: 42.711 m/s<sup>2</sup><br />(4.355 g<sub>0</sub>)
         escape_velocity: 94.673 km/s<br />(340,823 km/h)
         rotation_period: 44.404 d
         axial_tilt: 13.00°
         albedo: 0.30
-        temperature: 382 K<br />(109 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III i
         type: Ice/rock hybrid
         formationType: Captured
@@ -587,14 +587,14 @@ planets:
         radius: 97,292.5 km<br/>(15.271 Yrths)
         surface_area: 1.190 × 10<sup>11</sup> km<sup>2</sup><br/>(233.208 Yrths)
         volume: 3.858 × 10<sup>15</sup> km<sup>3</sup><br/>(3561.352 Yrths)
-        mass: 9.006 × 10<sup>27</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 9.006 × 10<sup>27</sup> kg<br />(1507.979 Yrths)
         density: 2.334 g/cm<sup>3</sup>
         surface_gravity: 63.412 m/s<sup>2</sup><br />(6.466 g<sub>0</sub>)
         escape_velocity: 111.157 km/s<br />(400,164 km/h)
         rotation_period: 34.228 d
         axial_tilt: 30.42°
         albedo: 0.30
-        temperature: 316 K<br />(43 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III j
         type: Icy
         formationType: Captured
@@ -607,14 +607,14 @@ planets:
         radius: 97,693.5 km<br/>(15.334 Yrths)
         surface_area: 1.199 × 10<sup>11</sup> km<sup>2</sup><br/>(235.134 Yrths)
         volume: 3.906 × 10<sup>15</sup> km<sup>3</sup><br/>(3605.569 Yrths)
-        mass: 7.308 × 10<sup>27</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 7.308 × 10<sup>27</sup> kg<br />(1223.729 Yrths)
         density: 1.871 g/cm<sup>3</sup>
         surface_gravity: 51.038 m/s<sup>2</sup><br />(5.204 g<sub>0</sub>)
         escape_velocity: 99.928 km/s<br />(359,741 km/h)
         rotation_period: 40.634 d
         axial_tilt: 13.96°
         albedo: 0.30
-        temperature: 287 K<br />(14 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III k
         type: Ice/rock hybrid
         formationType: Captured
@@ -627,14 +627,14 @@ planets:
         radius: 98,938.0 km<br/>(15.529 Yrths)
         surface_area: 1.230 × 10<sup>11</sup> km<sup>2</sup><br/>(241.163 Yrths)
         volume: 4.057 × 10<sup>15</sup> km<sup>3</sup><br/>(3745.131 Yrths)
-        mass: 9.719 × 10<sup>27</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 9.719 × 10<sup>27</sup> kg<br />(1627.370 Yrths)
         density: 2.396 g/cm<sup>3</sup>
         surface_gravity: 66.175 m/s<sup>2</sup><br />(6.748 g<sub>0</sub>)
         escape_velocity: 114.509 km/s<br />(412,232 km/h)
         rotation_period: 40.270 d
         axial_tilt: 26.40°
         albedo: 0.30
-        temperature: 122 K<br />(-151 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 0008 Erikkiad III l
         type: Ice/rock hybrid
         formationType: Accreted
@@ -647,14 +647,14 @@ planets:
         radius: 109,341.8 km<br/>(17.162 Yrths)
         surface_area: 1.502 × 10<sup>11</sup> km<sup>2</sup><br/>(294.549 Yrths)
         volume: 5.476 × 10<sup>15</sup> km<sup>3</sup><br/>(5055.169 Yrths)
-        mass: 1.064 × 10<sup>28</sup> kg<br />(116.25355353359616 Yrths)
+        mass: 1.064 × 10<sup>28</sup> kg<br />(1782.044 Yrths)
         density: 1.944 g/cm<sup>3</sup>
         surface_gravity: 59.331 m/s<sup>2</sup><br />(6.050 g<sub>0</sub>)
         escape_velocity: 113.984 km/s<br />(410,342 km/h)
         rotation_period: 53.246 d
         axial_tilt: 9.07°
         albedo: 0.30
-        temperature: 111 K<br />(-162 °C)
+        temperature: 202 K<br />(-72 °C)
   - name: 0008 Erikkiad IV
     type: Ice giant
     aphelion: 2,939,550,388 km<br />19.649 AU
@@ -666,14 +666,14 @@ planets:
     radius: 30,934.8 km<br/>(4.856 Yrths)
     surface_area: 1.203 × 10<sup>10</sup> km<sup>2</sup><br/>(23.576 Yrths)
     volume: 1.240 × 10<sup>14</sup> km<sup>3</sup><br/>(114.477 Yrths)
-    mass: 2.279 × 10<sup>26</sup> kg<br />(38.16594058039762 Yrths)
+    mass: 2.279 × 10<sup>26</sup> kg<br />(38.17 Yrths)
     density: 1.838 g/cm<sup>3</sup>
     surface_gravity: 15.875 m/s<sup>2</sup><br />(1.619 g<sub>0</sub>)
     escape_velocity: 31.361 km/s<br />(112,900 km/h)
     rotation_period: 0.297 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 311 K<br />(38 °C)
+    temperature: 286 K<br />(12 °C)
     composition:
       - 65.9364% hydrogen
       - 27.4847% helium
@@ -692,14 +692,14 @@ planets:
         radius: 27,733.3 km<br/>(4.353 Yrths)
         surface_area: 9.665 × 10<sup>09</sup> km<sup>2</sup><br/>(18.949 Yrths)
         volume: 8.935 × 10<sup>13</sup> km<sup>3</sup><br/>(82.487 Yrths)
-        mass: 2.550 × 10<sup>26</sup> kg<br />(38.16594058039762 Yrths)
+        mass: 2.550 × 10<sup>26</sup> kg<br />(42.694 Yrths)
         density: 2.854 g/cm<sup>3</sup>
         surface_gravity: 22.095 m/s<sup>2</sup><br />(2.253 g<sub>0</sub>)
         escape_velocity: 35.032 km/s<br />(126,114 km/h)
         rotation_period: 40.675 d
         axial_tilt: 23.09°
         albedo: 0.30
-        temperature: 1241 K<br />(968 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 0008 Erikkiad IV b
         type: Icy
         formationType: Captured
@@ -712,14 +712,14 @@ planets:
         radius: 48,128.5 km<br/>(7.554 Yrths)
         surface_area: 2.911 × 10<sup>10</sup> km<sup>2</sup><br/>(57.068 Yrths)
         volume: 4.670 × 10<sup>14</sup> km<sup>3</sup><br/>(431.107 Yrths)
-        mass: 4.856 × 10<sup>26</sup> kg<br />(38.16594058039762 Yrths)
+        mass: 4.856 × 10<sup>26</sup> kg<br />(81.317 Yrths)
         density: 1.040 g/cm<sup>3</sup>
         surface_gravity: 13.974 m/s<sup>2</sup><br />(1.425 g<sub>0</sub>)
         escape_velocity: 36.700 km/s<br />(132,120 km/h)
         rotation_period: 48.992 d
         axial_tilt: 14.75°
         albedo: 0.30
-        temperature: 1128 K<br />(855 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 0008 Erikkiad IV c
         type: Icy
         formationType: Accreted
@@ -732,14 +732,14 @@ planets:
         radius: 31,809.0 km<br/>(4.993 Yrths)
         surface_area: 1.271 × 10<sup>10</sup> km<sup>2</sup><br/>(24.928 Yrths)
         volume: 1.348 × 10<sup>14</sup> km<sup>3</sup><br/>(124.459 Yrths)
-        mass: 1.805 × 10<sup>26</sup> kg<br />(38.16594058039762 Yrths)
+        mass: 1.805 × 10<sup>26</sup> kg<br />(30.218 Yrths)
         density: 1.339 g/cm<sup>3</sup>
         surface_gravity: 11.888 m/s<sup>2</sup><br />(1.212 g<sub>0</sub>)
         escape_velocity: 27.519 km/s<br />(99,070 km/h)
         rotation_period: 54.410 d
         axial_tilt: 23.63°
         albedo: 0.30
-        temperature: 1076 K<br />(802 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 0008 Erikkiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -752,14 +752,14 @@ planets:
         radius: 37,338.7 km<br/>(5.861 Yrths)
         surface_area: 1.752 × 10<sup>10</sup> km<sup>2</sup><br/>(34.348 Yrths)
         volume: 2.181 × 10<sup>14</sup> km<sup>3</sup><br/>(201.306 Yrths)
-        mass: 5.337 × 10<sup>26</sup> kg<br />(38.16594058039762 Yrths)
+        mass: 5.337 × 10<sup>26</sup> kg<br />(89.362 Yrths)
         density: 2.447 g/cm<sup>3</sup>
         surface_gravity: 25.514 m/s<sup>2</sup><br />(2.602 g<sub>0</sub>)
         escape_velocity: 43.679 km/s<br />(157,245 km/h)
         rotation_period: 37.461 d
         axial_tilt: 26.14°
         albedo: 0.30
-        temperature: 1025 K<br />(752 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 0008 Erikkiad IV e
         type: Dwarf planet
         formationType: Accreted
@@ -772,14 +772,14 @@ planets:
         radius: 34,850.8 km<br/>(5.470 Yrths)
         surface_area: 1.526 × 10<sup>10</sup> km<sup>2</sup><br/>(29.923 Yrths)
         volume: 1.773 × 10<sup>14</sup> km<sup>3</sup><br/>(163.688 Yrths)
-        mass: 2.433 × 10<sup>26</sup> kg<br />(38.16594058039762 Yrths)
+        mass: 2.433 × 10<sup>26</sup> kg<br />(40.742 Yrths)
         density: 1.372 g/cm<sup>3</sup>
         surface_gravity: 13.352 m/s<sup>2</sup><br />(1.362 g<sub>0</sub>)
         escape_velocity: 30.527 km/s<br />(109,899 km/h)
         rotation_period: 60.554 d
         axial_tilt: 48.27°
         albedo: 0.30
-        temperature: 932 K<br />(659 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 0008 Erikkiad IV f
         type: Asteroid
         formationType: Captured
@@ -792,14 +792,14 @@ planets:
         radius: 25,023.9 km<br/>(3.928 Yrths)
         surface_area: 7.869 × 10<sup>09</sup> km<sup>2</sup><br/>(15.427 Yrths)
         volume: 6.564 × 10<sup>13</sup> km<sup>3</sup><br/>(60.596 Yrths)
-        mass: 1.611 × 10<sup>26</sup> kg<br />(38.16594058039762 Yrths)
+        mass: 1.611 × 10<sup>26</sup> kg<br />(26.982 Yrths)
         density: 2.455 g/cm<sup>3</sup>
         surface_gravity: 17.151 m/s<sup>2</sup><br />(1.749 g<sub>0</sub>)
         escape_velocity: 29.318 km/s<br />(105,545 km/h)
         rotation_period: 45.179 d
         axial_tilt: 49.79°
         albedo: 0.30
-        temperature: 889 K<br />(616 °C)
+        temperature: 143 K<br />(-130 °C)
       - name: 0008 Erikkiad IV g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -812,14 +812,14 @@ planets:
         radius: 35,647.4 km<br/>(5.595 Yrths)
         surface_area: 1.597 × 10<sup>10</sup> km<sup>2</sup><br/>(31.307 Yrths)
         volume: 1.897 × 10<sup>14</sup> km<sup>3</sup><br/>(175.171 Yrths)
-        mass: 3.742 × 10<sup>26</sup> kg<br />(38.16594058039762 Yrths)
+        mass: 3.742 × 10<sup>26</sup> kg<br />(62.655 Yrths)
         density: 1.972 g/cm<sup>3</sup>
         surface_gravity: 19.626 m/s<sup>2</sup><br />(2.001 g<sub>0</sub>)
         escape_velocity: 37.432 km/s<br />(134,755 km/h)
         rotation_period: 36.163 d
         axial_tilt: 12.47°
         albedo: 0.30
-        temperature: 770 K<br />(497 °C)
+        temperature: 143 K<br />(-130 °C)
   - name: 0008 Erikkiad V
     type: Gas giant
     aphelion: 5,252,842,155 km<br />35.113 AU
@@ -831,7 +831,7 @@ planets:
     radius: 230.9 km<br/>(0.036 Yrths)
     surface_area: 6.699 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.156 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.861 × 10<sup>27</sup> kg<br />(311.65046617482074 Yrths)
+    mass: 1.861 × 10<sup>27</sup> kg<br />(311.65 Yrths)
     density: 36097537.761 g/cm<sup>3</sup>
     surface_gravity: 2326962.614 m/s<sup>2</sup><br />(237284.150 g<sub>0</sub>)
     escape_velocity: 1037.309 km/s<br />(3,734,312 km/h)
@@ -852,14 +852,14 @@ planets:
         radius: 256,007.4 km<br/>(40.183 Yrths)
         surface_area: 8.236 × 10<sup>11</sup> km<sup>2</sup><br/>(1614.692 Yrths)
         volume: 7.028 × 10<sup>16</sup> km<sup>3</sup><br/>(64883.557 Yrths)
-        mass: 1.722 × 10<sup>29</sup> kg<br />(311.65046617482074 Yrths)
+        mass: 1.722 × 10<sup>29</sup> kg<br />(28830.139 Yrths)
         density: 2.450 g/cm<sup>3</sup>
         surface_gravity: 175.097 m/s<sup>2</sup><br />(17.855 g<sub>0</sub>)
         escape_velocity: 299.623 km/s<br />(1,078,642 km/h)
         rotation_period: 42.668 d
         axial_tilt: 19.15°
         albedo: 0.30
-        temperature: 303 K<br />(30 °C)
+        temperature: 102 K<br />(-172 °C)
       - name: 0008 Erikkiad V b
         type: Icy
         formationType: Captured
@@ -872,14 +872,14 @@ planets:
         radius: 412,708.7 km<br/>(64.779 Yrths)
         surface_area: 2.140 × 10<sup>12</sup> km<sup>2</sup><br/>(4196.353 Yrths)
         volume: 2.945 × 10<sup>17</sup> km<sup>3</sup><br/>(271836.609 Yrths)
-        mass: 3.042 × 10<sup>29</sup> kg<br />(311.65046617482074 Yrths)
+        mass: 3.042 × 10<sup>29</sup> kg<br />(50938.311 Yrths)
         density: 1.033 g/cm<sup>3</sup>
         surface_gravity: 119.040 m/s<sup>2</sup><br />(12.139 g<sub>0</sub>)
         escape_velocity: 313.674 km/s<br />(1,129,226 km/h)
         rotation_period: 83.572 d
         axial_tilt: 20.26°
         albedo: 0.30
-        temperature: 251 K<br />(-22 °C)
+        temperature: 102 K<br />(-172 °C)
       - name: 0008 Erikkiad V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -892,14 +892,14 @@ planets:
         radius: 162,735.2 km<br/>(25.543 Yrths)
         surface_area: 3.328 × 10<sup>11</sup> km<sup>2</sup><br/>(652.451 Yrths)
         volume: 1.805 × 10<sup>16</sup> km<sup>3</sup><br/>(16665.637 Yrths)
-        mass: 4.244 × 10<sup>28</sup> kg<br />(311.65046617482074 Yrths)
+        mass: 4.244 × 10<sup>28</sup> kg<br />(7106.179 Yrths)
         density: 2.351 g/cm<sup>3</sup>
         surface_gravity: 106.809 m/s<sup>2</sup><br />(10.892 g<sub>0</sub>)
         escape_velocity: 186.576 km/s<br />(671,672 km/h)
         rotation_period: 43.172 d
         axial_tilt: 21.14°
         albedo: 0.30
-        temperature: 228 K<br />(-45 °C)
+        temperature: 102 K<br />(-172 °C)
       - name: 0008 Erikkiad V d
         type: Icy
         formationType: Impact formed
@@ -912,14 +912,14 @@ planets:
         radius: 204,034.0 km<br/>(32.025 Yrths)
         surface_area: 5.231 × 10<sup>11</sup> km<sup>2</sup><br/>(1025.628 Yrths)
         volume: 3.558 × 10<sup>16</sup> km<sup>3</sup><br/>(32846.179 Yrths)
-        mass: 4.846 × 10<sup>28</sup> kg<br />(311.65046617482074 Yrths)
+        mass: 4.846 × 10<sup>28</sup> kg<br />(8113.773 Yrths)
         density: 1.362 g/cm<sup>3</sup>
         surface_gravity: 77.581 m/s<sup>2</sup><br />(7.911 g<sub>0</sub>)
         escape_velocity: 178.048 km/s<br />(640,974 km/h)
         rotation_period: 47.762 d
         axial_tilt: 6.97°
         albedo: 0.30
-        temperature: 217 K<br />(-56 °C)
+        temperature: 102 K<br />(-172 °C)
       - name: 0008 Erikkiad V e
         type: Icy
         formationType: Captured
@@ -932,14 +932,14 @@ planets:
         radius: 212,703.9 km<br/>(33.386 Yrths)
         surface_area: 5.685 × 10<sup>11</sup> km<sup>2</sup><br/>(1114.642 Yrths)
         volume: 4.031 × 10<sup>16</sup> km<sup>3</sup><br/>(37213.738 Yrths)
-        mass: 4.934 × 10<sup>28</sup> kg<br />(311.65046617482074 Yrths)
+        mass: 4.934 × 10<sup>28</sup> kg<br />(8261.799 Yrths)
         density: 1.224 g/cm<sup>3</sup>
         surface_gravity: 72.688 m/s<sup>2</sup><br />(7.412 g<sub>0</sub>)
         escape_velocity: 175.965 km/s<br />(633,476 km/h)
         rotation_period: 74.582 d
         axial_tilt: 13.63°
         albedo: 0.30
-        temperature: 117 K<br />(-156 °C)
+        temperature: 102 K<br />(-172 °C)
       - name: 0008 Erikkiad V f
         type: Asteroid
         formationType: Captured
@@ -952,14 +952,14 @@ planets:
         radius: 149,456.8 km<br/>(23.459 Yrths)
         surface_area: 2.807 × 10<sup>11</sup> km<sup>2</sup><br/>(550.321 Yrths)
         volume: 1.398 × 10<sup>16</sup> km<sup>3</sup><br/>(12909.929 Yrths)
-        mass: 3.566 × 10<sup>28</sup> kg<br />(311.65046617482074 Yrths)
+        mass: 3.566 × 10<sup>28</sup> kg<br />(5971.994 Yrths)
         density: 2.550 g/cm<sup>3</sup>
         surface_gravity: 106.420 m/s<sup>2</sup><br />(10.852 g<sub>0</sub>)
         escape_velocity: 178.476 km/s<br />(642,513 km/h)
         rotation_period: 32.738 d
         axial_tilt: 50.90°
         albedo: 0.30
-        temperature: 60 K<br />(-213 °C)
+        temperature: 102 K<br />(-172 °C)
       - name: 0008 Erikkiad V g
         type: Icy
         formationType: Captured
@@ -972,12 +972,12 @@ planets:
         radius: 220,949.5 km<br/>(34.681 Yrths)
         surface_area: 6.135 × 10<sup>11</sup> km<sup>2</sup><br/>(1202.738 Yrths)
         volume: 4.518 × 10<sup>16</sup> km<sup>3</sup><br/>(41711.557 Yrths)
-        mass: 6.851 × 10<sup>28</sup> kg<br />(311.65046617482074 Yrths)
+        mass: 6.851 × 10<sup>28</sup> kg<br />(11472.421 Yrths)
         density: 1.516 g/cm<sup>3</sup>
         surface_gravity: 93.542 m/s<sup>2</sup><br />(9.539 g<sub>0</sub>)
         escape_velocity: 203.450 km/s<br />(732,422 km/h)
         rotation_period: 47.754 d
         axial_tilt: 9.88°
         albedo: 0.30
-        temperature: 57 K<br />(-216 °C)
+        temperature: 102 K<br />(-172 °C)
 ---

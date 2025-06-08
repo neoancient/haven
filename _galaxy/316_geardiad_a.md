@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      316 Geardiad A is a star in the constellation Geard
+      316 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 333.27 ly
 apparent_magnitude: 9.08
 absolute_magnitude: 4.03

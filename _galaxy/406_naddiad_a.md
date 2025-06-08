@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      406 Naddiad A is a star in the constellation Naddi
+      406 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 348.92 ly
 apparent_magnitude: 9.55
 absolute_magnitude: 4.40

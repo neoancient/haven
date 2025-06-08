@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7719 Dialkeshiad A is a star in the constellation Dialkes
+      7719 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 529.18 ly
 apparent_magnitude: 7.42
 absolute_magnitude: 1.37

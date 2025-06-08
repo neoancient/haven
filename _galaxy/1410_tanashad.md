@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1410 Tanashad is a star in the constellation Tanas
+      1410 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 463.34 ly
 apparent_magnitude: 10.74
 absolute_magnitude: 4.98

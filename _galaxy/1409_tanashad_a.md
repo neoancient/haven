@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1409 Tanashad A is a star in the constellation Tanas
+      1409 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 486.26 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 1.66

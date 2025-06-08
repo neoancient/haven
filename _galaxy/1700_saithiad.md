@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1700 Saithiad is a star in the constellation Saith
+      1700 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 322.01 ly
 apparent_magnitude: 9.92
 absolute_magnitude: 4.95

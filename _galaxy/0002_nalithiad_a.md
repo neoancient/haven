@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Nalithiad A is a star in the constellation Nalith
+      0002 Nalithiad A is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 2488.11 ly
 apparent_magnitude: 6.43
 absolute_magnitude: -2.98

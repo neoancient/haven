@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2143 Arniad A is a star in the constellation Arni
+      2143 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 428.38 ly
 apparent_magnitude: 9.35
 absolute_magnitude: 3.76

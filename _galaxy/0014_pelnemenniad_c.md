@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0014 Pelnemenniad C is a star in the constellation Pelnemen
+      0014 Pelnemenniad C is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 193.07 ly
 apparent_magnitude: 9.06
 absolute_magnitude: 5.20
@@ -31,14 +31,14 @@ planets:
     radius: 10,241.7 km<br/>(1.608 Yrths)
     surface_area: 1.318 × 10<sup>09</sup> km<sup>2</sup><br/>(2.584 Yrths)
     volume: 4.500 × 10<sup>12</sup> km<sup>3</sup><br/>(4.154 Yrths)
-    mass: 3.161 × 10<sup>25</sup> kg<br />(5.293486913655657 Yrths)
+    mass: 3.161 × 10<sup>25</sup> kg<br />(5.29 Yrths)
     density: 7.025 g/cm<sup>3</sup>
     surface_gravity: 20.088 m/s<sup>2</sup><br />(2.048 g<sub>0</sub>)
     escape_velocity: 20.298 km/s<br />(73,074 km/h)
     rotation_period: 0.798 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 474 K<br />(200 °C)
+    temperature: 1041 K<br />(768 °C)
     surface_pressure: 1,239 kPa<br />(12 atm)
     composition:
       - 62.8057% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 9,837.7 km<br/>(1.544 Yrths)
         surface_area: 1.216 × 10<sup>09</sup> km<sup>2</sup><br/>(2.384 Yrths)
         volume: 3.988 × 10<sup>12</sup> km<sup>3</sup><br/>(3.682 Yrths)
-        mass: 1.086 × 10<sup>25</sup> kg<br />(5.293486913655657 Yrths)
+        mass: 1.086 × 10<sup>25</sup> kg<br />(1.818 Yrths)
         density: 2.723 g/cm<sup>3</sup>
         surface_gravity: 7.479 m/s<sup>2</sup><br />(0.763 g<sub>0</sub>)
         escape_velocity: 12.139 km/s<br />(43,699 km/h)
         rotation_period: 42.845 d
         axial_tilt: 20.28°
         albedo: 0.30
-        temperature: 3665 K<br />(3392 °C)
+        temperature: 282 K<br />(8 °C)
       - name: 0014 Pelnemenniad C I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 6,486.4 km<br/>(1.018 Yrths)
         surface_area: 5.287 × 10<sup>08</sup> km<sup>2</sup><br/>(1.037 Yrths)
         volume: 1.143 × 10<sup>12</sup> km<sup>3</sup><br/>(1.055 Yrths)
-        mass: 2.974 × 10<sup>24</sup> kg<br />(5.293486913655657 Yrths)
+        mass: 2.974 × 10<sup>24</sup> kg<br />(0.498 Yrths)
         density: 2.602 g/cm<sup>3</sup>
         surface_gravity: 4.712 m/s<sup>2</sup><br />(0.480 g<sub>0</sub>)
         escape_velocity: 7.824 km/s<br />(28,165 km/h)
         rotation_period: 31.028 d
         axial_tilt: 22.86°
         albedo: 0.30
-        temperature: 3494 K<br />(3221 °C)
+        temperature: 282 K<br />(8 °C)
   - name: 0014 Pelnemenniad C II
     type: Large terrestrial
     aphelion: 177,682,974 km<br />1.188 AU
@@ -95,14 +95,14 @@ planets:
     radius: 8,031.8 km<br/>(1.261 Yrths)
     surface_area: 8.106 × 10<sup>08</sup> km<sup>2</sup><br/>(1.589 Yrths)
     volume: 2.170 × 10<sup>12</sup> km<sup>3</sup><br/>(2.004 Yrths)
-    mass: 1.353 × 10<sup>25</sup> kg<br />(2.2653409478374877 Yrths)
+    mass: 1.353 × 10<sup>25</sup> kg<br />(2.27 Yrths)
     density: 6.234 g/cm<sup>3</sup>
     surface_gravity: 13.978 m/s<sup>2</sup><br />(1.425 g<sub>0</sub>)
     escape_velocity: 14.995 km/s<br />(53,981 km/h)
     rotation_period: 0.877 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 302 K<br />(29 °C)
+    temperature: 337 K<br />(64 °C)
     surface_pressure: 681 kPa<br />(7 atm)
     composition:
       - 89.8235% nitrogen
@@ -120,14 +120,14 @@ planets:
         radius: 6,398.9 km<br/>(1.004 Yrths)
         surface_area: 5.145 × 10<sup>08</sup> km<sup>2</sup><br/>(1.009 Yrths)
         volume: 1.098 × 10<sup>12</sup> km<sup>3</sup><br/>(1.013 Yrths)
-        mass: 2.460 × 10<sup>24</sup> kg<br />(2.2653409478374877 Yrths)
+        mass: 2.460 × 10<sup>24</sup> kg<br />(0.412 Yrths)
         density: 2.241 g/cm<sup>3</sup>
         surface_gravity: 4.004 m/s<sup>2</sup><br />(0.408 g<sub>0</sub>)
         escape_velocity: 7.163 km/s<br />(25,788 km/h)
         rotation_period: 64.775 d
         axial_tilt: 22.93°
         albedo: 0.30
-        temperature: 2797 K<br />(2523 °C)
+        temperature: 218 K<br />(-55 °C)
   - name: 0014 Pelnemenniad C III
     type: Gas dwarf
     aphelion: 307,541,397 km<br />2.056 AU
@@ -139,14 +139,14 @@ planets:
     radius: 14,830.9 km<br/>(2.328 Yrths)
     surface_area: 2.764 × 10<sup>09</sup> km<sup>2</sup><br/>(5.419 Yrths)
     volume: 1.366 × 10<sup>13</sup> km<sup>3</sup><br/>(12.615 Yrths)
-    mass: 3.225 × 10<sup>25</sup> kg<br />(5.400698824004537 Yrths)
+    mass: 3.225 × 10<sup>25</sup> kg<br />(5.40 Yrths)
     density: 2.360 g/cm<sup>3</sup>
     surface_gravity: 9.773 m/s<sup>2</sup><br />(0.997 g<sub>0</sub>)
     escape_velocity: 17.038 km/s<br />(61,337 km/h)
     rotation_period: 0.532 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 249 K<br />(-24 °C)
+    temperature: 225 K<br />(-48 °C)
     composition:
       - 65.7343% hydrogen
       - 28.9327% helium
@@ -165,14 +165,14 @@ planets:
         radius: 9,639.7 km<br/>(1.513 Yrths)
         surface_area: 1.168 × 10<sup>09</sup> km<sup>2</sup><br/>(2.289 Yrths)
         volume: 3.752 × 10<sup>12</sup> km<sup>3</sup><br/>(3.464 Yrths)
-        mass: 8.441 × 10<sup>24</sup> kg<br />(5.400698824004537 Yrths)
+        mass: 8.441 × 10<sup>24</sup> kg<br />(1.413 Yrths)
         density: 2.250 g/cm<sup>3</sup>
         surface_gravity: 6.055 m/s<sup>2</sup><br />(0.617 g<sub>0</sub>)
         escape_velocity: 10.811 km/s<br />(38,921 km/h)
         rotation_period: 52.669 d
         axial_tilt: 30.16°
         albedo: 0.30
-        temperature: 1817 K<br />(1543 °C)
+        temperature: 169 K<br />(-105 °C)
       - name: 0014 Pelnemenniad C III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -185,14 +185,14 @@ planets:
         radius: 3,676.7 km<br/>(0.577 Yrths)
         surface_area: 1.699 × 10<sup>08</sup> km<sup>2</sup><br/>(0.333 Yrths)
         volume: 2.082 × 10<sup>11</sup> km<sup>3</sup><br/>(0.192 Yrths)
-        mass: 5.830 × 10<sup>23</sup> kg<br />(5.400698824004537 Yrths)
+        mass: 5.830 × 10<sup>23</sup> kg<br />(0.098 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 2.874 m/s<sup>2</sup><br />(0.293 g<sub>0</sub>)
         escape_velocity: 4.600 km/s<br />(16,562 km/h)
         rotation_period: 46.381 d
         axial_tilt: 15.25°
         albedo: 0.30
-        temperature: 1732 K<br />(1459 °C)
+        temperature: 169 K<br />(-105 °C)
       - name: 0014 Pelnemenniad C III c
         type: Rocky
         formationType: Captured
@@ -205,14 +205,14 @@ planets:
         radius: 7,632.2 km<br/>(1.198 Yrths)
         surface_area: 7.320 × 10<sup>08</sup> km<sup>2</sup><br/>(1.435 Yrths)
         volume: 1.862 × 10<sup>12</sup> km<sup>3</sup><br/>(1.719 Yrths)
-        mass: 5.220 × 10<sup>24</sup> kg<br />(5.400698824004537 Yrths)
+        mass: 5.220 × 10<sup>24</sup> kg<br />(0.874 Yrths)
         density: 2.803 g/cm<sup>3</sup>
         surface_gravity: 5.973 m/s<sup>2</sup><br />(0.609 g<sub>0</sub>)
         escape_velocity: 9.555 km/s<br />(34,399 km/h)
         rotation_period: 43.795 d
         axial_tilt: 20.88°
         albedo: 0.30
-        temperature: 1651 K<br />(1378 °C)
+        temperature: 169 K<br />(-105 °C)
       - name: 0014 Pelnemenniad C III d
         type: Rocky
         formationType: Accreted
@@ -225,14 +225,14 @@ planets:
         radius: 4,634.4 km<br/>(0.727 Yrths)
         surface_area: 2.699 × 10<sup>08</sup> km<sup>2</sup><br/>(0.529 Yrths)
         volume: 4.169 × 10<sup>11</sup> km<sup>3</sup><br/>(0.385 Yrths)
-        mass: 1.167 × 10<sup>24</sup> kg<br />(5.400698824004537 Yrths)
+        mass: 1.167 × 10<sup>24</sup> kg<br />(0.195 Yrths)
         density: 2.798 g/cm<sup>3</sup>
         surface_gravity: 3.620 m/s<sup>2</sup><br />(0.369 g<sub>0</sub>)
         escape_velocity: 5.797 km/s<br />(20,869 km/h)
         rotation_period: 32.118 d
         axial_tilt: 12.58°
         albedo: 0.30
-        temperature: 1575 K<br />(1301 °C)
+        temperature: 169 K<br />(-105 °C)
   - name: 0014 Pelnemenniad C IV
     type: Ice giant
     aphelion: 503,926,593 km<br />3.368 AU
@@ -244,14 +244,14 @@ planets:
     radius: 30,278.3 km<br/>(4.753 Yrths)
     surface_area: 1.152 × 10<sup>10</sup> km<sup>2</sup><br/>(22.586 Yrths)
     volume: 1.163 × 10<sup>14</sup> km<sup>3</sup><br/>(107.342 Yrths)
-    mass: 1.515 × 10<sup>26</sup> kg<br />(25.374726838430256 Yrths)
+    mass: 1.515 × 10<sup>26</sup> kg<br />(25.37 Yrths)
     density: 1.303 g/cm<sup>3</sup>
     surface_gravity: 11.017 m/s<sup>2</sup><br />(1.123 g<sub>0</sub>)
     escape_velocity: 25.847 km/s<br />(93,050 km/h)
     rotation_period: 0.361 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 239 K<br />(-34 °C)
+    temperature: 218 K<br />(-55 °C)
     composition:
       - 82.1692% hydrogen
       - 13.3005% helium
@@ -272,14 +272,14 @@ planets:
         radius: 22,041.1 km<br/>(3.460 Yrths)
         surface_area: 6.105 × 10<sup>09</sup> km<sup>2</sup><br/>(11.969 Yrths)
         volume: 4.485 × 10<sup>13</sup> km<sup>3</sup><br/>(41.407 Yrths)
-        mass: 1.060 × 10<sup>26</sup> kg<br />(25.374726838430256 Yrths)
+        mass: 1.060 × 10<sup>26</sup> kg<br />(17.757 Yrths)
         density: 2.364 g/cm<sup>3</sup>
         surface_gravity: 14.549 m/s<sup>2</sup><br />(1.484 g<sub>0</sub>)
         escape_velocity: 25.342 km/s<br />(91,232 km/h)
         rotation_period: 47.918 d
         axial_tilt: 29.58°
         albedo: 0.30
-        temperature: 1084 K<br />(811 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0014 Pelnemenniad C IV b
         type: Asteroid
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 30,976.7 km<br/>(4.862 Yrths)
         surface_area: 1.206 × 10<sup>10</sup> km<sup>2</sup><br/>(23.640 Yrths)
         volume: 1.245 × 10<sup>14</sup> km<sup>3</sup><br/>(114.943 Yrths)
-        mass: 3.007 × 10<sup>26</sup> kg<br />(25.374726838430256 Yrths)
+        mass: 3.007 × 10<sup>26</sup> kg<br />(50.352 Yrths)
         density: 2.415 g/cm<sup>3</sup>
         surface_gravity: 20.887 m/s<sup>2</sup><br />(2.130 g<sub>0</sub>)
         escape_velocity: 35.997 km/s<br />(129,590 km/h)
         rotation_period: 35.025 d
         axial_tilt: 32.29°
         albedo: 0.30
-        temperature: 986 K<br />(713 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0014 Pelnemenniad C IV c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -312,14 +312,14 @@ planets:
         radius: 18,927.1 km<br/>(2.971 Yrths)
         surface_area: 4.502 × 10<sup>09</sup> km<sup>2</sup><br/>(8.826 Yrths)
         volume: 2.840 × 10<sup>13</sup> km<sup>3</sup><br/>(26.220 Yrths)
-        mass: 5.748 × 10<sup>25</sup> kg<br />(25.374726838430256 Yrths)
+        mass: 5.748 × 10<sup>25</sup> kg<br />(9.625 Yrths)
         density: 2.024 g/cm<sup>3</sup>
         surface_gravity: 10.695 m/s<sup>2</sup><br />(1.091 g<sub>0</sub>)
         escape_velocity: 20.134 km/s<br />(72,484 km/h)
         rotation_period: 35.920 d
         axial_tilt: 27.07°
         albedo: 0.30
-        temperature: 940 K<br />(667 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0014 Pelnemenniad C IV d
         type: Dwarf planet
         formationType: Accreted
@@ -332,14 +332,14 @@ planets:
         radius: 24,779.7 km<br/>(3.889 Yrths)
         surface_area: 7.716 × 10<sup>09</sup> km<sup>2</sup><br/>(15.128 Yrths)
         volume: 6.373 × 10<sup>13</sup> km<sup>3</sup><br/>(58.839 Yrths)
-        mass: 1.163 × 10<sup>26</sup> kg<br />(25.374726838430256 Yrths)
+        mass: 1.163 × 10<sup>26</sup> kg<br />(19.470 Yrths)
         density: 1.824 g/cm<sup>3</sup>
         surface_gravity: 12.622 m/s<sup>2</sup><br />(1.287 g<sub>0</sub>)
         escape_velocity: 25.027 km/s<br />(90,099 km/h)
         rotation_period: 60.348 d
         axial_tilt: 24.52°
         albedo: 0.30
-        temperature: 896 K<br />(623 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0014 Pelnemenniad C IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -352,14 +352,14 @@ planets:
         radius: 17,655.4 km<br/>(2.771 Yrths)
         surface_area: 3.917 × 10<sup>09</sup> km<sup>2</sup><br/>(7.680 Yrths)
         volume: 2.305 × 10<sup>13</sup> km<sup>3</sup><br/>(21.282 Yrths)
-        mass: 4.607 × 10<sup>25</sup> kg<br />(25.374726838430256 Yrths)
+        mass: 4.607 × 10<sup>25</sup> kg<br />(7.715 Yrths)
         density: 1.999 g/cm<sup>3</sup>
         surface_gravity: 9.852 m/s<sup>2</sup><br />(1.005 g<sub>0</sub>)
         escape_velocity: 18.664 km/s<br />(67,191 km/h)
         rotation_period: 51.791 d
         axial_tilt: 25.01°
         albedo: 0.30
-        temperature: 854 K<br />(581 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0014 Pelnemenniad C IV f
         type: Icy
         formationType: Accreted
@@ -372,14 +372,14 @@ planets:
         radius: 40,344.5 km<br/>(6.333 Yrths)
         surface_area: 2.045 × 10<sup>10</sup> km<sup>2</sup><br/>(40.101 Yrths)
         volume: 2.751 × 10<sup>14</sup> km<sup>3</sup><br/>(253.939 Yrths)
-        mass: 4.105 × 10<sup>26</sup> kg<br />(25.374726838430256 Yrths)
+        mass: 4.105 × 10<sup>26</sup> kg<br />(68.733 Yrths)
         density: 1.492 g/cm<sup>3</sup>
         surface_gravity: 16.809 m/s<sup>2</sup><br />(1.714 g<sub>0</sub>)
         escape_velocity: 36.853 km/s<br />(132,670 km/h)
         rotation_period: 58.402 d
         axial_tilt: 24.74°
         albedo: 0.30
-        temperature: 815 K<br />(542 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0014 Pelnemenniad C IV g
         type: Icy
         formationType: Captured
@@ -392,14 +392,14 @@ planets:
         radius: 27,327.9 km<br/>(4.289 Yrths)
         surface_area: 9.385 × 10<sup>09</sup> km<sup>2</sup><br/>(18.399 Yrths)
         volume: 8.549 × 10<sup>13</sup> km<sup>3</sup><br/>(78.921 Yrths)
-        mass: 7.738 × 10<sup>25</sup> kg<br />(25.374726838430256 Yrths)
+        mass: 7.738 × 10<sup>25</sup> kg<br />(12.958 Yrths)
         density: 0.905 g/cm<sup>3</sup>
         surface_gravity: 6.906 m/s<sup>2</sup><br />(0.704 g<sub>0</sub>)
         escape_velocity: 19.442 km/s<br />(69,990 km/h)
         rotation_period: 80.241 d
         axial_tilt: 17.57°
         albedo: 0.30
-        temperature: 777 K<br />(504 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 0014 Pelnemenniad C IV h
         type: Icy
         formationType: Accreted
@@ -412,14 +412,14 @@ planets:
         radius: 30,954.5 km<br/>(4.859 Yrths)
         surface_area: 1.204 × 10<sup>10</sup> km<sup>2</sup><br/>(23.607 Yrths)
         volume: 1.242 × 10<sup>14</sup> km<sup>3</sup><br/>(114.696 Yrths)
-        mass: 1.412 × 10<sup>26</sup> kg<br />(25.374726838430256 Yrths)
+        mass: 1.412 × 10<sup>26</sup> kg<br />(23.639 Yrths)
         density: 1.136 g/cm<sup>3</sup>
         surface_gravity: 9.820 m/s<sup>2</sup><br />(1.001 g<sub>0</sub>)
         escape_velocity: 24.674 km/s<br />(88,825 km/h)
         rotation_period: 78.024 d
         axial_tilt: 13.37°
         albedo: 0.30
-        temperature: 741 K<br />(468 °C)
+        temperature: 130 K<br />(-143 °C)
   - name: 0014 Pelnemenniad C V
     type: Terrestrial
     aphelion: 852,960,877 km<br />5.702 AU
@@ -431,14 +431,14 @@ planets:
     radius: 7,741.0 km<br/>(1.215 Yrths)
     surface_area: 7.530 × 10<sup>08</sup> km<sup>2</sup><br/>(1.476 Yrths)
     volume: 1.943 × 10<sup>12</sup> km<sup>3</sup><br/>(1.794 Yrths)
-    mass: 1.011 × 10<sup>25</sup> kg<br />(1.6921609281007413 Yrths)
+    mass: 1.011 × 10<sup>25</sup> kg<br />(1.69 Yrths)
     density: 5.201 g/cm<sup>3</sup>
     surface_gravity: 11.240 m/s<sup>2</sup><br />(1.146 g<sub>0</sub>)
     escape_velocity: 13.201 km/s<br />(47,523 km/h)
     rotation_period: 0.861 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 122 K<br />(-151 °C)
+    temperature: 184 K<br />(-89 °C)
     surface_pressure: 30 kPa<br />(0 atm)
     composition:
       - 82.8638% methane
@@ -459,14 +459,14 @@ planets:
         radius: 800.7 km<br/>(0.126 Yrths)
         surface_area: 8.056 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.150 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.348 × 10<sup>21</sup> kg<br />(1.6921609281007413 Yrths)
+        mass: 3.348 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.557 g/cm<sup>3</sup>
         surface_gravity: 0.348 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.747 km/s<br />(2,689 km/h)
         rotation_period: 49.329 d
         axial_tilt: 9.57°
         albedo: 0.30
-        temperature: 1420 K<br />(1147 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0014 Pelnemenniad C V b
         type: Asteroid
         formationType: Captured
@@ -479,14 +479,14 @@ planets:
         radius: 3,580.2 km<br/>(0.562 Yrths)
         surface_area: 1.611 × 10<sup>08</sup> km<sup>2</sup><br/>(0.316 Yrths)
         volume: 1.922 × 10<sup>11</sup> km<sup>3</sup><br/>(0.177 Yrths)
-        mass: 4.360 × 10<sup>23</sup> kg<br />(1.6921609281007413 Yrths)
+        mass: 4.360 × 10<sup>23</sup> kg<br />(0.073 Yrths)
         density: 2.268 g/cm<sup>3</sup>
         surface_gravity: 2.267 m/s<sup>2</sup><br />(0.231 g<sub>0</sub>)
         escape_velocity: 4.032 km/s<br />(14,514 km/h)
         rotation_period: 33.126 d
         axial_tilt: 53.57°
         albedo: 0.30
-        temperature: 1354 K<br />(1081 °C)
+        temperature: 101 K<br />(-172 °C)
   - name: 0014 Pelnemenniad C VI
     type: Large terrestrial
     aphelion: 1,388,566,322 km<br />9.282 AU
@@ -498,14 +498,14 @@ planets:
     radius: 8,026.3 km<br/>(1.260 Yrths)
     surface_area: 8.095 × 10<sup>08</sup> km<sup>2</sup><br/>(1.587 Yrths)
     volume: 2.166 × 10<sup>12</sup> km<sup>3</sup><br/>(2.000 Yrths)
-    mass: 1.392 × 10<sup>25</sup> kg<br />(2.33155376838417 Yrths)
+    mass: 1.392 × 10<sup>25</sup> kg<br />(2.33 Yrths)
     density: 6.429 g/cm<sup>3</sup>
     surface_gravity: 14.406 m/s<sup>2</sup><br />(1.469 g<sub>0</sub>)
     escape_velocity: 15.217 km/s<br />(54,783 km/h)
     rotation_period: 0.703 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 106 K<br />(-167 °C)
+    temperature: 127 K<br />(-146 °C)
     surface_pressure: 397 kPa<br />(4 atm)
     composition:
       - 88.6393% methane
@@ -525,14 +525,14 @@ planets:
         radius: 4,617.0 km<br/>(0.725 Yrths)
         surface_area: 2.679 × 10<sup>08</sup> km<sup>2</sup><br/>(0.525 Yrths)
         volume: 4.123 × 10<sup>11</sup> km<sup>3</sup><br/>(0.381 Yrths)
-        mass: 1.262 × 10<sup>24</sup> kg<br />(2.33155376838417 Yrths)
+        mass: 1.262 × 10<sup>24</sup> kg<br />(0.211 Yrths)
         density: 3.061 g/cm<sup>3</sup>
         surface_gravity: 3.946 m/s<sup>2</sup><br />(0.402 g<sub>0</sub>)
         escape_velocity: 6.041 km/s<br />(21,746 km/h)
         rotation_period: 49.664 d
         axial_tilt: 45.28°
         albedo: 0.30
-        temperature: 1009 K<br />(736 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0014 Pelnemenniad C VI b
         type: Rocky
         formationType: Captured
@@ -545,14 +545,14 @@ planets:
         radius: 6,003.1 km<br/>(0.942 Yrths)
         surface_area: 4.529 × 10<sup>08</sup> km<sup>2</sup><br/>(0.888 Yrths)
         volume: 9.062 × 10<sup>11</sup> km<sup>3</sup><br/>(0.837 Yrths)
-        mass: 2.697 × 10<sup>24</sup> kg<br />(2.33155376838417 Yrths)
+        mass: 2.697 × 10<sup>24</sup> kg<br />(0.452 Yrths)
         density: 2.976 g/cm<sup>3</sup>
         surface_gravity: 4.988 m/s<sup>2</sup><br />(0.509 g<sub>0</sub>)
         escape_velocity: 7.744 km/s<br />(27,877 km/h)
         rotation_period: 36.959 d
         axial_tilt: 14.16°
         albedo: 0.30
-        temperature: 962 K<br />(689 °C)
+        temperature: 78 K<br />(-195 °C)
   - name: 0014 Pelnemenniad C VII
     type: Gas giant
     aphelion: 2,440,234,400 km<br />16.312 AU
@@ -564,7 +564,7 @@ planets:
     radius: 198.9 km<br/>(0.031 Yrths)
     surface_area: 4.973 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.298 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.837 × 10<sup>26</sup> kg<br />(164.71699026364038 Yrths)
+    mass: 9.837 × 10<sup>26</sup> kg<br />(164.72 Yrths)
     density: 29828710.376 g/cm<sup>3</sup>
     surface_gravity: 1656726.721 m/s<sup>2</sup><br />(168939.110 g<sub>0</sub>)
     escape_velocity: 812.440 km/s<br />(2,924,783 km/h)
@@ -585,14 +585,14 @@ planets:
         radius: 141,373.5 km<br/>(22.190 Yrths)
         surface_area: 2.512 × 10<sup>11</sup> km<sup>2</sup><br/>(492.403 Yrths)
         volume: 1.184 × 10<sup>16</sup> km<sup>3</sup><br/>(10926.502 Yrths)
-        mass: 1.380 × 10<sup>28</sup> kg<br />(164.71699026364038 Yrths)
+        mass: 1.380 × 10<sup>28</sup> kg<br />(2311.217 Yrths)
         density: 1.166 g/cm<sup>3</sup>
         surface_gravity: 46.030 m/s<sup>2</sup><br />(4.694 g<sub>0</sub>)
         escape_velocity: 114.160 km/s<br />(410,976 km/h)
         rotation_period: 59.426 d
         axial_tilt: 17.43°
         albedo: 0.30
-        temperature: 318 K<br />(45 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0014 Pelnemenniad C VII b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -605,14 +605,14 @@ planets:
         radius: 101,578.2 km<br/>(15.944 Yrths)
         surface_area: 1.297 × 10<sup>11</sup> km<sup>2</sup><br/>(254.206 Yrths)
         volume: 4.390 × 10<sup>15</sup> km<sup>3</sup><br/>(4053.018 Yrths)
-        mass: 1.117 × 10<sup>28</sup> kg<br />(164.71699026364038 Yrths)
+        mass: 1.117 × 10<sup>28</sup> kg<br />(1870.308 Yrths)
         density: 2.544 g/cm<sup>3</sup>
         surface_gravity: 72.152 m/s<sup>2</sup><br />(7.357 g<sub>0</sub>)
         escape_velocity: 121.153 km/s<br />(436,151 km/h)
         rotation_period: 50.336 d
         axial_tilt: 24.15°
         albedo: 0.30
-        temperature: 276 K<br />(3 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0014 Pelnemenniad C VII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -625,14 +625,14 @@ planets:
         radius: 120,394.5 km<br/>(18.897 Yrths)
         surface_area: 1.821 × 10<sup>11</sup> km<sup>2</sup><br/>(357.107 Yrths)
         volume: 7.310 × 10<sup>15</sup> km<sup>3</sup><br/>(6748.341 Yrths)
-        mass: 1.591 × 10<sup>28</sup> kg<br />(164.71699026364038 Yrths)
+        mass: 1.591 × 10<sup>28</sup> kg<br />(2664.114 Yrths)
         density: 2.177 g/cm<sup>3</sup>
         surface_gravity: 73.160 m/s<sup>2</sup><br />(7.460 g<sub>0</sub>)
         escape_velocity: 132.816 km/s<br />(478,138 km/h)
         rotation_period: 64.909 d
         axial_tilt: 19.99°
         albedo: 0.30
-        temperature: 239 K<br />(-34 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0014 Pelnemenniad C VII d
         type: Icy
         formationType: Impact formed
@@ -645,14 +645,14 @@ planets:
         radius: 129,356.4 km<br/>(20.304 Yrths)
         surface_area: 2.103 × 10<sup>11</sup> km<sup>2</sup><br/>(412.250 Yrths)
         volume: 9.067 × 10<sup>15</sup> km<sup>3</sup><br/>(8370.289 Yrths)
-        mass: 1.033 × 10<sup>28</sup> kg<br />(164.71699026364038 Yrths)
+        mass: 1.033 × 10<sup>28</sup> kg<br />(1729.831 Yrths)
         density: 1.139 g/cm<sup>3</sup>
         surface_gravity: 41.149 m/s<sup>2</sup><br />(4.196 g<sub>0</sub>)
         escape_velocity: 103.249 km/s<br />(371,696 km/h)
         rotation_period: 56.208 d
         axial_tilt: 9.97°
         albedo: 0.30
-        temperature: 188 K<br />(-85 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0014 Pelnemenniad C VII e
         type: Icy
         formationType: Captured
@@ -665,14 +665,14 @@ planets:
         radius: 164,673.1 km<br/>(25.847 Yrths)
         surface_area: 3.408 × 10<sup>11</sup> km<sup>2</sup><br/>(668.082 Yrths)
         volume: 1.870 × 10<sup>16</sup> km<sup>3</sup><br/>(17268.120 Yrths)
-        mass: 2.040 × 10<sup>28</sup> kg<br />(164.71699026364038 Yrths)
+        mass: 2.040 × 10<sup>28</sup> kg<br />(3416.770 Yrths)
         density: 1.091 g/cm<sup>3</sup>
         surface_gravity: 50.154 m/s<sup>2</sup><br />(5.114 g<sub>0</sub>)
         escape_velocity: 128.610 km/s<br />(462,996 km/h)
         rotation_period: 48.485 d
         axial_tilt: 24.52°
         albedo: 0.30
-        temperature: 171 K<br />(-102 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0014 Pelnemenniad C VII f
         type: Icy
         formationType: Accreted
@@ -685,14 +685,14 @@ planets:
         radius: 136,380.5 km<br/>(21.406 Yrths)
         surface_area: 2.337 × 10<sup>11</sup> km<sup>2</sup><br/>(458.236 Yrths)
         volume: 1.063 × 10<sup>16</sup> km<sup>3</sup><br/>(9809.209 Yrths)
-        mass: 9.279 × 10<sup>27</sup> kg<br />(164.71699026364038 Yrths)
+        mass: 9.279 × 10<sup>27</sup> kg<br />(1553.714 Yrths)
         density: 0.873 g/cm<sup>3</sup>
         surface_gravity: 33.251 m/s<sup>2</sup><br />(3.391 g<sub>0</sub>)
         escape_velocity: 95.299 km/s<br />(343,075 km/h)
         rotation_period: 76.765 d
         axial_tilt: 19.46°
         albedo: 0.30
-        temperature: 129 K<br />(-144 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0014 Pelnemenniad C VII g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -705,14 +705,14 @@ planets:
         radius: 107,080.6 km<br/>(16.808 Yrths)
         surface_area: 1.441 × 10<sup>11</sup> km<sup>2</sup><br/>(282.492 Yrths)
         volume: 5.143 × 10<sup>15</sup> km<sup>3</sup><br/>(4747.985 Yrths)
-        mass: 9.133 × 10<sup>27</sup> kg<br />(164.71699026364038 Yrths)
+        mass: 9.133 × 10<sup>27</sup> kg<br />(1529.365 Yrths)
         density: 1.776 g/cm<sup>3</sup>
         surface_gravity: 53.092 m/s<sup>2</sup><br />(5.414 g<sub>0</sub>)
         escape_velocity: 106.703 km/s<br />(384,132 km/h)
         rotation_period: 60.355 d
         axial_tilt: 13.15°
         albedo: 0.30
-        temperature: 45 K<br />(-228 °C)
+        temperature: 60 K<br />(-213 °C)
   - name: 0014 Pelnemenniad C VIII
     type: Gas giant
     aphelion: 3,972,041,612 km<br />26.551 AU
@@ -724,7 +724,7 @@ planets:
     radius: 200.7 km<br/>(0.032 Yrths)
     surface_area: 5.062 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.386 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.021 × 10<sup>27</sup> kg<br />(170.95842691304853 Yrths)
+    mass: 1.021 × 10<sup>27</sup> kg<br />(170.96 Yrths)
     density: 30150937.677 g/cm<sup>3</sup>
     surface_gravity: 1689451.825 m/s<sup>2</sup><br />(172276.142 g<sub>0</sub>)
     escape_velocity: 824.049 km/s<br />(2,966,575 km/h)
@@ -745,14 +745,14 @@ planets:
         radius: 106,890.9 km<br/>(16.778 Yrths)
         surface_area: 1.436 × 10<sup>11</sup> km<sup>2</sup><br/>(281.492 Yrths)
         volume: 5.116 × 10<sup>15</sup> km<sup>3</sup><br/>(4722.793 Yrths)
-        mass: 9.919 × 10<sup>27</sup> kg<br />(170.95842691304853 Yrths)
+        mass: 9.919 × 10<sup>27</sup> kg<br />(1660.986 Yrths)
         density: 1.939 g/cm<sup>3</sup>
         surface_gravity: 57.866 m/s<sup>2</sup><br />(5.901 g<sub>0</sub>)
         escape_velocity: 111.299 km/s<br />(400,676 km/h)
         rotation_period: 66.322 d
         axial_tilt: 33.80°
         albedo: 0.30
-        temperature: 202 K<br />(-71 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0014 Pelnemenniad C VIII b
         type: Icy
         formationType: Accreted
@@ -765,14 +765,14 @@ planets:
         radius: 125,153.3 km<br/>(19.644 Yrths)
         surface_area: 1.968 × 10<sup>11</sup> km<sup>2</sup><br/>(385.895 Yrths)
         volume: 8.211 × 10<sup>15</sup> km<sup>3</sup><br/>(7580.606 Yrths)
-        mass: 7.265 × 10<sup>27</sup> kg<br />(170.95842691304853 Yrths)
+        mass: 7.265 × 10<sup>27</sup> kg<br />(1216.507 Yrths)
         density: 0.885 g/cm<sup>3</sup>
         surface_gravity: 30.915 m/s<sup>2</sup><br />(3.152 g<sub>0</sub>)
         escape_velocity: 88.027 km/s<br />(316,896 km/h)
         rotation_period: 92.672 d
         axial_tilt: 15.23°
         albedo: 0.30
-        temperature: 152 K<br />(-121 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0014 Pelnemenniad C VIII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -785,14 +785,14 @@ planets:
         radius: 115,038.3 km<br/>(18.057 Yrths)
         surface_area: 1.663 × 10<sup>11</sup> km<sup>2</sup><br/>(326.039 Yrths)
         volume: 6.377 × 10<sup>15</sup> km<sup>3</sup><br/>(5887.144 Yrths)
-        mass: 1.310 × 10<sup>28</sup> kg<br />(170.95842691304853 Yrths)
+        mass: 1.310 × 10<sup>28</sup> kg<br />(2194.315 Yrths)
         density: 2.055 g/cm<sup>3</sup>
         surface_gravity: 66.001 m/s<sup>2</sup><br />(6.730 g<sub>0</sub>)
         escape_velocity: 123.312 km/s<br />(443,924 km/h)
         rotation_period: 45.870 d
         axial_tilt: 15.46°
         albedo: 0.30
-        temperature: 126 K<br />(-148 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0014 Pelnemenniad C VIII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -805,14 +805,14 @@ planets:
         radius: 104,204.2 km<br/>(16.356 Yrths)
         surface_area: 1.365 × 10<sup>11</sup> km<sup>2</sup><br/>(267.520 Yrths)
         volume: 4.740 × 10<sup>15</sup> km<sup>3</sup><br/>(4375.557 Yrths)
-        mass: 9.121 × 10<sup>27</sup> kg<br />(170.95842691304853 Yrths)
+        mass: 9.121 × 10<sup>27</sup> kg<br />(1527.351 Yrths)
         density: 1.924 g/cm<sup>3</sup>
         surface_gravity: 55.989 m/s<sup>2</sup><br />(5.709 g<sub>0</sub>)
         escape_velocity: 108.095 km/s<br />(389,141 km/h)
         rotation_period: 50.156 d
         axial_tilt: 29.88°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0014 Pelnemenniad C VIII e
         type: Rocky
         formationType: Accreted
@@ -825,14 +825,14 @@ planets:
         radius: 91,703.7 km<br/>(14.394 Yrths)
         surface_area: 1.057 × 10<sup>11</sup> km<sup>2</sup><br/>(207.185 Yrths)
         volume: 3.230 × 10<sup>15</sup> km<sup>3</sup><br/>(2982.202 Yrths)
-        mass: 1.004 × 10<sup>28</sup> kg<br />(170.95842691304853 Yrths)
+        mass: 1.004 × 10<sup>28</sup> kg<br />(1680.417 Yrths)
         density: 3.107 g/cm<sup>3</sup>
         surface_gravity: 79.539 m/s<sup>2</sup><br />(8.111 g<sub>0</sub>)
         escape_velocity: 120.863 km/s<br />(435,106 km/h)
         rotation_period: 43.505 d
         axial_tilt: 18.83°
         albedo: 0.30
-        temperature: 26 K<br />(-247 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0014 Pelnemenniad C VIII f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -845,12 +845,12 @@ planets:
         radius: 95,207.1 km<br/>(14.944 Yrths)
         surface_area: 1.139 × 10<sup>11</sup> km<sup>2</sup><br/>(223.318 Yrths)
         volume: 3.615 × 10<sup>15</sup> km<sup>3</sup><br/>(3337.222 Yrths)
-        mass: 7.885 × 10<sup>27</sup> kg<br />(170.95842691304853 Yrths)
+        mass: 7.885 × 10<sup>27</sup> kg<br />(1320.258 Yrths)
         density: 2.181 g/cm<sup>3</sup>
         surface_gravity: 57.977 m/s<sup>2</sup><br />(5.912 g<sub>0</sub>)
         escape_velocity: 105.141 km/s<br />(378,508 km/h)
         rotation_period: 42.455 d
         axial_tilt: 21.84°
         albedo: 0.30
-        temperature: 22 K<br />(-252 °C)
+        temperature: 47 K<br />(-226 °C)
 ---

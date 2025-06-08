@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1975 Saithiad A is a star in the constellation Saith
+      1975 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 985.42 ly
 apparent_magnitude: 6.68
 absolute_magnitude: -0.72

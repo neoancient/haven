@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1550 Reggiad A is a star in the constellation Reg
+      1550 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 300.34 ly
 apparent_magnitude: 11.61
 absolute_magnitude: 6.79

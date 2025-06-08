@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1097 Saithiad is a star in the constellation Saith
+      1097 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1063.36 ly
 apparent_magnitude: 13.92
 absolute_magnitude: 6.35

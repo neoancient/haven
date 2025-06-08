@@ -56,7 +56,7 @@ stars:
     distance: 103.34
     spectral_class: G7III
   - name:
-    designation: 295 Ruanead
+    designation: <a href="295_ruanead.html">295 Ruanead</a>
     ra: 10<sup>h</sup> 28<sup>m</sup> 40.48<sup>s</sup>
     dec: -22° 59' 27.27"
     apparent_magnitude: 4.57
@@ -168,7 +168,7 @@ stars:
     distance: 225.63
     spectral_class: F9V + A5V
   - name:
-    designation: 293 Ruanead
+    designation: <a href="293_ruanead.html">293 Ruanead</a>
     ra: 10<sup>h</sup> 21<sup>m</sup> 39.94<sup>s</sup>
     dec: -25° 08' 23.20"
     apparent_magnitude: 4.81
@@ -184,7 +184,7 @@ stars:
     distance: 228.69
     spectral_class: K1II
   - name:
-    designation: 285 Ruanead
+    designation: <a href="285_ruanead.html">285 Ruanead</a>
     ra: 9<sup>h</sup> 42<sup>m</sup> 56.55<sup>s</sup>
     dec: -34° 58' 44.46"
     apparent_magnitude: 4.85
@@ -216,7 +216,7 @@ stars:
     distance: 201.93
     spectral_class: G6V + A8V
   - name:
-    designation: 263 Ruanead
+    designation: <a href="263_ruanead.html">263 Ruanead</a>
     ra: 10<sup>h</sup> 42<sup>m</sup> 49.92<sup>s</sup>
     dec: -37° 11' 59.18"
     apparent_magnitude: 4.91
@@ -224,7 +224,7 @@ stars:
     distance: 228.63
     spectral_class: G3V + M8III + G9V + A6V
   - name:
-    designation: 296 Ruanead
+    designation: <a href="296_ruanead.html">296 Ruanead</a>
     ra: 10<sup>h</sup> 21<sup>m</sup> 47.66<sup>s</sup>
     dec: -36° 47' 21.11"
     apparent_magnitude: 4.92
@@ -288,7 +288,7 @@ stars:
     distance: 246.33
     spectral_class: M5Ib
   - name:
-    designation: 259 Ruanead
+    designation: <a href="259_ruanead.html">259 Ruanead</a>
     ra: 10<sup>h</sup> 46<sup>m</sup> 42.11<sup>s</sup>
     dec: -38° 19' 58.32"
     apparent_magnitude: 5.06
@@ -296,7 +296,7 @@ stars:
     distance: 242.36
     spectral_class: F8III
   - name:
-    designation: 290 Ruanead
+    designation: <a href="290_ruanead.html">290 Ruanead</a>
     ra: 9<sup>h</sup> 46<sup>m</sup> 21.59<sup>s</sup>
     dec: -29° 02' 22.50"
     apparent_magnitude: 5.09
@@ -328,7 +328,7 @@ stars:
     distance: 226.24
     spectral_class: A4V
   - name:
-    designation: 324 Ruanead
+    designation: <a href="324_ruanead.html">324 Ruanead</a>
     ra: 10<sup>h</sup> 09<sup>m</sup> 49.43<sup>s</sup>
     dec: -30° 06' 27.61"
     apparent_magnitude: 5.11
@@ -352,7 +352,7 @@ stars:
     distance: 259.19
     spectral_class: F6III
   - name:
-    designation: 172 Ruanead
+    designation: <a href="172_ruanead.html">172 Ruanead</a>
     ra: 10<sup>h</sup> 54<sup>m</sup> 57.74<sup>s</sup>
     dec: -36° 06' 12.89"
     apparent_magnitude: 5.13
@@ -392,7 +392,7 @@ stars:
     distance: 334.48
     spectral_class: A7IV
   - name:
-    designation: 11 Ruanead
+    designation: <a href="11_ruanead.html">11 Ruanead</a>
     ra: 10<sup>h</sup> 50<sup>m</sup> 53.24<sup>s</sup>
     dec: -38° 47' 27.25"
     apparent_magnitude: 5.22
@@ -408,7 +408,7 @@ stars:
     distance: 228.95
     spectral_class: G6V + A5V
   - name:
-    designation: 311 Ruanead
+    designation: <a href="311_ruanead.html">311 Ruanead</a>
     ra: 11<sup>h</sup> 00<sup>m</sup> 41.22<sup>s</sup>
     dec: -33° 05' 12.90"
     apparent_magnitude: 5.23
@@ -424,7 +424,7 @@ stars:
     distance: 217.45
     spectral_class: K4II
   - name:
-    designation: 310 Ruanead
+    designation: <a href="310_ruanead.html">310 Ruanead</a>
     ra: 10<sup>h</sup> 56<sup>m</sup> 0.66<sup>s</sup>
     dec: -30° 50' 48.92"
     apparent_magnitude: 5.24
@@ -432,7 +432,7 @@ stars:
     distance: 213.97
     spectral_class: G1V + G8V + F5V + A9V
   - name:
-    designation: 9 Ruanead
+    designation: <a href="9_ruanead.html">9 Ruanead</a>
     ra: 10<sup>h</sup> 57<sup>m</sup> 18.95<sup>s</sup>
     dec: -37° 19' 58.80"
     apparent_magnitude: 5.25
@@ -480,7 +480,7 @@ stars:
     distance: 208.23
     spectral_class: G9III
   - name:
-    designation: 113 Ruanead
+    designation: <a href="113_ruanead.html">113 Ruanead</a>
     ra: 10<sup>h</sup> 26<sup>m</sup> 27.59<sup>s</sup>
     dec: -30° 37' 35.50"
     apparent_magnitude: 5.27
@@ -488,7 +488,7 @@ stars:
     distance: 281.70
     spectral_class: A3V
   - name:
-    designation: 109 Ruanead
+    designation: <a href="109_ruanead.html">109 Ruanead</a>
     ra: 10<sup>h</sup> 00<sup>m</sup> 3.45<sup>s</sup>
     dec: -39° 26' 17.21"
     apparent_magnitude: 5.29
@@ -496,7 +496,7 @@ stars:
     distance: 268.44
     spectral_class: F9V + G4V + M2III + DA + A5V
   - name:
-    designation: 325 Ruanead
+    designation: <a href="325_ruanead.html">325 Ruanead</a>
     ra: 10<sup>h</sup> 35<sup>m</sup> 44.94<sup>s</sup>
     dec: -26° 14' 56.02"
     apparent_magnitude: 5.31
@@ -560,7 +560,7 @@ stars:
     distance: 246.65
     spectral_class: G6V + A5V
   - name:
-    designation: 327 Ruanead
+    designation: <a href="327_ruanead.html">327 Ruanead</a>
     ra: 9<sup>h</sup> 26<sup>m</sup> 32.58<sup>s</sup>
     dec: -37° 38' 34.56"
     apparent_magnitude: 5.38
@@ -568,7 +568,7 @@ stars:
     distance: 134.74
     spectral_class: K5V + K5V + K4V + A8V
   - name:
-    designation: 315 Ruanead
+    designation: <a href="315_ruanead.html">315 Ruanead</a>
     ra: 10<sup>h</sup> 47<sup>m</sup> 14.19<sup>s</sup>
     dec: -26° 31' 8.19"
     apparent_magnitude: 5.39
@@ -584,7 +584,7 @@ stars:
     distance: 288.09
     spectral_class: F7III
   - name:
-    designation: 299 Ruanead
+    designation: <a href="299_ruanead.html">299 Ruanead</a>
     ra: 10<sup>h</sup> 12<sup>m</sup> 56.75<sup>s</sup>
     dec: -25° 56' 41.54"
     apparent_magnitude: 5.41
@@ -600,7 +600,7 @@ stars:
     distance: 127.90
     spectral_class: Magnetar + K0III
   - name:
-    designation: 252 Ruanead
+    designation: <a href="252_ruanead.html">252 Ruanead</a>
     ra: 10<sup>h</sup> 04<sup>m</sup> 44.03<sup>s</sup>
     dec: -38° 28' 28.41"
     apparent_magnitude: 5.43
@@ -624,7 +624,7 @@ stars:
     distance: 296.97
     spectral_class: F7III
   - name:
-    designation: 238 Ruanead
+    designation: <a href="238_ruanead.html">238 Ruanead</a>
     ra: 10<sup>h</sup> 55<sup>m</sup> 38.98<sup>s</sup>
     dec: -31° 37' 7.70"
     apparent_magnitude: 5.44
@@ -712,7 +712,7 @@ stars:
     distance: 10,124.88
     spectral_class: O3III + O3III
   - name:
-    designation: 182 Ruanead
+    designation: <a href="182_ruanead.html">182 Ruanead</a>
     ra: 10<sup>h</sup> 57<sup>m</sup> 51.55<sup>s</sup>
     dec: -39° 12' 54.28"
     apparent_magnitude: 5.49
@@ -744,7 +744,7 @@ stars:
     distance: 321.14
     spectral_class: A7IV
   - name:
-    designation: 245 Ruanead
+    designation: <a href="245_ruanead.html">245 Ruanead</a>
     ra: 10<sup>h</sup> 15<sup>m</sup> 51.03<sup>s</sup>
     dec: -31° 36' 27.66"
     apparent_magnitude: 5.51
@@ -832,7 +832,7 @@ stars:
     distance: 526.35
     spectral_class: A7II + Young Pulsar
   - name:
-    designation: 250 Ruanead
+    designation: <a href="250_ruanead.html">250 Ruanead</a>
     ra: 10<sup>h</sup> 36<sup>m</sup> 54.47<sup>s</sup>
     dec: -23° 59' 19.68"
     apparent_magnitude: 5.54
@@ -960,7 +960,7 @@ stars:
     distance: 964.64
     spectral_class: B7V + A5V
   - name:
-    designation: 279 Ruanead
+    designation: <a href="279_ruanead.html">279 Ruanead</a>
     ra: 9<sup>h</sup> 29<sup>m</sup> 20.95<sup>s</sup>
     dec: -38° 45' 45.88"
     apparent_magnitude: 5.61
@@ -976,7 +976,7 @@ stars:
     distance: 255.03
     spectral_class: A8V
   - name:
-    designation: 321 Ruanead
+    designation: <a href="321_ruanead.html">321 Ruanead</a>
     ra: 10<sup>h</sup> 43<sup>m</sup> 2.19<sup>s</sup>
     dec: -36° 56' 39.86"
     apparent_magnitude: 5.62
@@ -1296,7 +1296,7 @@ stars:
     distance: 17,946.00
     spectral_class: O9III + A6Iab
   - name:
-    designation: 288 Ruanead
+    designation: <a href="288_ruanead.html">288 Ruanead</a>
     ra: 10<sup>h</sup> 32<sup>m</sup> 21.36<sup>s</sup>
     dec: -36° 02' 15.60"
     apparent_magnitude: 5.75
@@ -1328,7 +1328,7 @@ stars:
     distance: 294.54
     spectral_class: M7IV + G5V + A3V
   - name:
-    designation: 236 Ruanead
+    designation: <a href="236_ruanead.html">236 Ruanead</a>
     ra: 10<sup>h</sup> 59<sup>m</sup> 8.82<sup>s</sup>
     dec: -34° 16' 12.93"
     apparent_magnitude: 5.76
@@ -1424,7 +1424,7 @@ stars:
     distance: 318.73
     spectral_class: M5III + A8V + A4V
   - name:
-    designation: υ Ruanead
+    designation: <a href="υ_ruanead.html">υ Ruanead</a>
     ra: 9<sup>h</sup> 27<sup>m</sup> 15.02<sup>s</sup>
     dec: -39° 05' 42.67"
     apparent_magnitude: 5.80
@@ -1640,7 +1640,7 @@ stars:
     distance: 458.68
     spectral_class: F7II
   - name:
-    designation: 149 Ruanead
+    designation: <a href="149_ruanead.html">149 Ruanead</a>
     ra: 10<sup>h</sup> 58<sup>m</sup> 59.84<sup>s</sup>
     dec: -30° 23' 15.45"
     apparent_magnitude: 5.91
@@ -1872,7 +1872,7 @@ stars:
     distance: 1,582.84
     spectral_class: B7V + A2V
   - name:
-    designation: 280 Ruanead
+    designation: <a href="280_ruanead.html">280 Ruanead</a>
     ra: 9<sup>h</sup> 34<sup>m</sup> 4.37<sup>s</sup>
     dec: -38° 08' 6.98"
     apparent_magnitude: 6.01
@@ -2096,7 +2096,7 @@ stars:
     distance: 1,343.16
     spectral_class: B7V + G5III
   - name:
-    designation: 0110 Ruanead
+    designation: <a href="0110_ruanead.html">0110 Ruanead</a>
     ra: 9<sup>h</sup> 27<sup>m</sup> 11.68<sup>s</sup>
     dec: -26° 37' 54.80"
     apparent_magnitude: 6.10
@@ -2136,7 +2136,7 @@ stars:
     distance: 711.90
     spectral_class: A5III
   - name:
-    designation: 31 Ruanead
+    designation: <a href="31_ruanead.html">31 Ruanead</a>
     ra: 10<sup>h</sup> 54<sup>m</sup> 38.83<sup>s</sup>
     dec: -27° 50' 49.68"
     apparent_magnitude: 6.12
@@ -2184,7 +2184,7 @@ stars:
     distance: 2,142.56
     spectral_class: B5V + K8III
   - name:
-    designation: 314 Ruanead
+    designation: <a href="314_ruanead.html">314 Ruanead</a>
     ra: 10<sup>h</sup> 42<sup>m</sup> 52.47<sup>s</sup>
     dec: -34° 23' 31.48"
     apparent_magnitude: 6.13
@@ -2264,7 +2264,7 @@ stars:
     distance: 372.50
     spectral_class: F7V + A3V
   - name:
-    designation: 0052 Ruanead
+    designation: <a href="0052_ruanead.html">0052 Ruanead</a>
     ra: 10<sup>h</sup> 06<sup>m</sup> 42.38<sup>s</sup>
     dec: -34° 10' 36.69"
     apparent_magnitude: 6.15
@@ -2392,7 +2392,7 @@ stars:
     distance: 2,279.75
     spectral_class: B5V + M6III
   - name:
-    designation: 158 Ruanead
+    designation: <a href="158_ruanead.html">158 Ruanead</a>
     ra: 11<sup>h</sup> 01<sup>m</sup> 23.97<sup>s</sup>
     dec: -27° 19' 16.77"
     apparent_magnitude: 6.21
@@ -2504,7 +2504,7 @@ stars:
     distance: 570.04
     spectral_class: A7III + K7III + F3V
   - name:
-    designation: 0039 Ruanead
+    designation: <a href="0039_ruanead.html">0039 Ruanead</a>
     ra: 9<sup>h</sup> 43<sup>m</sup> 30.40<sup>s</sup>
     dec: -34° 12' 7.68"
     apparent_magnitude: 6.26
@@ -2544,7 +2544,7 @@ stars:
     distance: 391.17
     spectral_class: F7V + A3V
   - name:
-    designation: 331 Ruanead
+    designation: <a href="331_ruanead.html">331 Ruanead</a>
     ra: 11<sup>h</sup> 01<sup>m</sup> 18.50<sup>s</sup>
     dec: -36° 38' 16.69"
     apparent_magnitude: 6.28
@@ -2616,7 +2616,7 @@ stars:
     distance: 462.29
     spectral_class: A8III
   - name:
-    designation: 0014 Ruanead
+    designation: <a href="0014_ruanead.html">0014 Ruanead</a>
     ra: 9<sup>h</sup> 54<sup>m</sup> 54.27<sup>s</sup>
     dec: -38° 18' 46.37"
     apparent_magnitude: 6.30
@@ -2664,7 +2664,7 @@ stars:
     distance: 440.35
     spectral_class: K8Ib
   - name:
-    designation: 0133 Ruanead
+    designation: <a href="0133_ruanead.html">0133 Ruanead</a>
     ra: 10<sup>h</sup> 30<sup>m</sup> 27.49<sup>s</sup>
     dec: -26° 48' 22.02"
     apparent_magnitude: 6.32
@@ -2760,7 +2760,7 @@ stars:
     distance: 416.50
     spectral_class: F4III
   - name:
-    designation: 47 Ruanead
+    designation: <a href="47_ruanead.html">47 Ruanead</a>
     ra: 10<sup>h</sup> 53<sup>m</sup> 12.60<sup>s</sup>
     dec: -31° 38' 12.02"
     apparent_magnitude: 6.35
@@ -2800,7 +2800,7 @@ stars:
     distance: 1,531.71
     spectral_class: B7V + G6III
   - name:
-    designation: 273 Ruanead
+    designation: <a href="273_ruanead.html">273 Ruanead</a>
     ra: 9<sup>h</sup> 41<sup>m</sup> 11.27<sup>s</sup>
     dec: -37° 27' 55.81"
     apparent_magnitude: 6.35
@@ -2864,7 +2864,7 @@ stars:
     distance: 876.99
     spectral_class: A4III
   - name:
-    designation: 0074 Ruanead
+    designation: <a href="0074_ruanead.html">0074 Ruanead</a>
     ra: 9<sup>h</sup> 32<sup>m</sup> 45.23<sup>s</sup>
     dec: -32° 23' 34.40"
     apparent_magnitude: 6.36
@@ -3064,7 +3064,7 @@ stars:
     distance: 1,509.82
     spectral_class: B8V
   - name:
-    designation: ξ Ruanead
+    designation: <a href="ξ_ruanead.html">ξ Ruanead</a>
     ra: 9<sup>h</sup> 35<sup>m</sup> 19.55<sup>s</sup>
     dec: -37° 32' 34.45"
     apparent_magnitude: 6.43
@@ -3120,7 +3120,7 @@ stars:
     distance: 722.03
     spectral_class: A6III
   - name:
-    designation: 220 Ruanead
+    designation: <a href="220_ruanead.html">220 Ruanead</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 47.01<sup>s</sup>
     dec: -38° 34' 12.08"
     apparent_magnitude: 6.44
@@ -3136,7 +3136,7 @@ stars:
     distance: 552.64
     spectral_class: A4IV
   - name:
-    designation: ο Ruanead
+    designation: <a href="ο_ruanead.html">ο Ruanead</a>
     ra: 9<sup>h</sup> 26<sup>m</sup> 3.15<sup>s</sup>
     dec: -37° 13' 40.12"
     apparent_magnitude: 6.44
@@ -3184,7 +3184,7 @@ stars:
     distance: 12,790.41
     spectral_class: B2V + A1Ib
   - name:
-    designation: 0032 Ruanead
+    designation: <a href="0032_ruanead.html">0032 Ruanead</a>
     ra: 9<sup>h</sup> 24<sup>m</sup> 0.74<sup>s</sup>
     dec: -33° 26' 50.32"
     apparent_magnitude: 6.47
@@ -3264,7 +3264,7 @@ stars:
     distance: 1,311.63
     spectral_class: A1III + M9III
   - name:
-    designation: 207 Ruanead
+    designation: <a href="207_ruanead.html">207 Ruanead</a>
     ra: 10<sup>h</sup> 54<sup>m</sup> 15.37<sup>s</sup>
     dec: -36° 45' 55.17"
     apparent_magnitude: 6.50
@@ -3272,7 +3272,7 @@ stars:
     distance: 409.58
     spectral_class: A1V
   - name:
-    designation: 0107 Ruanead
+    designation: <a href="0107_ruanead.html">0107 Ruanead</a>
     ra: 10<sup>h</sup> 47<sup>m</sup> 24.22<sup>s</sup>
     dec: -31° 46' 37.34"
     apparent_magnitude: 6.50
@@ -3448,7 +3448,7 @@ stars:
     distance: 563.99
     spectral_class: M9Ia
   - name:
-    designation: 64 Ruanead
+    designation: <a href="64_ruanead.html">64 Ruanead</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 20.52<sup>s</sup>
     dec: -32° 12' 20.39"
     apparent_magnitude: 6.64
@@ -3656,7 +3656,7 @@ stars:
     distance: 1,889.08
     spectral_class: A9V + B7V
   - name:
-    designation: 79 Ruanead
+    designation: <a href="79_ruanead.html">79 Ruanead</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 49.27<sup>s</sup>
     dec: -33° 19' 0.05"
     apparent_magnitude: 6.74
@@ -3904,7 +3904,7 @@ stars:
     distance: 652.19
     spectral_class: M9III + A6III
   - name:
-    designation: 92 Ruanead
+    designation: <a href="92_ruanead.html">92 Ruanead</a>
     ra: 10<sup>h</sup> 44<sup>m</sup> 39.81<sup>s</sup>
     dec: -34° 13' 53.65"
     apparent_magnitude: 6.89
@@ -3928,7 +3928,7 @@ stars:
     distance: 811.38
     spectral_class: A4IV
   - name:
-    designation: 127 Ruanead
+    designation: <a href="127_ruanead.html">127 Ruanead</a>
     ra: 10<sup>h</sup> 47<sup>m</sup> 20.61<sup>s</sup>
     dec: -37° 22' 46.05"
     apparent_magnitude: 6.90
@@ -3944,7 +3944,7 @@ stars:
     distance: 519.25
     spectral_class: F3V + A9III
   - name:
-    designation: 115 Ruanead
+    designation: <a href="115_ruanead.html">115 Ruanead</a>
     ra: 10<sup>h</sup> 49<sup>m</sup> 40.74<sup>s</sup>
     dec: -36° 04' 11.54"
     apparent_magnitude: 6.91

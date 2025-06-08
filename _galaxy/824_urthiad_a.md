@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      824 Urthiad A is a star in the constellation Urth
+      824 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 1022.99 ly
 apparent_magnitude: 6.71
 absolute_magnitude: -0.77

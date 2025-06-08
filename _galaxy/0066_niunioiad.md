@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0066 Niunioiad is a star in the constellation Niunio
+      0066 Niunioiad is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 193.01 ly
 apparent_magnitude: 6.36
 absolute_magnitude: 2.49
@@ -31,14 +31,14 @@ planets:
     radius: 9,732.6 km<br/>(1.528 Yrths)
     surface_area: 1.190 × 10<sup>09</sup> km<sup>2</sup><br/>(2.334 Yrths)
     volume: 3.862 × 10<sup>12</sup> km<sup>3</sup><br/>(3.565 Yrths)
-    mass: 1.938 × 10<sup>25</sup> kg<br />(3.2453986982285334 Yrths)
+    mass: 1.938 × 10<sup>25</sup> kg<br />(3.25 Yrths)
     density: 5.019 g/cm<sup>3</sup>
     surface_gravity: 13.638 m/s<sup>2</sup><br />(1.391 g<sub>0</sub>)
     escape_velocity: 16.304 km/s<br />(58,695 km/h)
     rotation_period: 0.809 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 258 K<br />(-15 °C)
+    temperature: 247 K<br />(-27 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 98.3857% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 6,052.0 km<br/>(0.950 Yrths)
         surface_area: 4.603 × 10<sup>08</sup> km<sup>2</sup><br/>(0.902 Yrths)
         volume: 9.285 × 10<sup>11</sup> km<sup>3</sup><br/>(0.857 Yrths)
-        mass: 2.365 × 10<sup>24</sup> kg<br />(3.2453986982285334 Yrths)
+        mass: 2.365 × 10<sup>24</sup> kg<br />(0.396 Yrths)
         density: 2.547 g/cm<sup>3</sup>
         surface_gravity: 4.303 m/s<sup>2</sup><br />(0.439 g<sub>0</sub>)
         escape_velocity: 7.222 km/s<br />(25,999 km/h)
         rotation_period: 36.734 d
         axial_tilt: 25.10°
         albedo: 0.30
-        temperature: 3717 K<br />(3444 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: 0066 Niunioiad II
     type: Large terrestrial
     aphelion: 1,356,775,899 km<br />9.069 AU
@@ -75,14 +75,14 @@ planets:
     radius: 13,762.8 km<br/>(2.160 Yrths)
     surface_area: 2.380 × 10<sup>09</sup> km<sup>2</sup><br/>(4.667 Yrths)
     volume: 1.092 × 10<sup>13</sup> km<sup>3</sup><br/>(10.081 Yrths)
-    mass: 6.777 × 10<sup>25</sup> kg<br />(11.348224689937183 Yrths)
+    mass: 6.777 × 10<sup>25</sup> kg<br />(11.35 Yrths)
     density: 6.206 g/cm<sup>3</sup>
     surface_gravity: 23.848 m/s<sup>2</sup><br />(2.432 g<sub>0</sub>)
     escape_velocity: 25.638 km/s<br />(92,298 km/h)
     rotation_period: 0.631 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 205 K<br />(-69 °C)
+    temperature: 321 K<br />(48 °C)
     surface_pressure: 42 kPa<br />(0 atm)
     composition:
       - 82.9960% methane
@@ -101,14 +101,14 @@ planets:
         radius: 13,430.3 km<br/>(2.108 Yrths)
         surface_area: 2.267 × 10<sup>09</sup> km<sup>2</sup><br/>(4.444 Yrths)
         volume: 1.015 × 10<sup>13</sup> km<sup>3</sup><br/>(9.368 Yrths)
-        mass: 1.075 × 10<sup>25</sup> kg<br />(11.348224689937183 Yrths)
+        mass: 1.075 × 10<sup>25</sup> kg<br />(1.800 Yrths)
         density: 1.060 g/cm<sup>3</sup>
         surface_gravity: 3.973 m/s<sup>2</sup><br />(0.405 g<sub>0</sub>)
         escape_velocity: 10.337 km/s<br />(37,214 km/h)
         rotation_period: 56.909 d
         axial_tilt: 19.24°
         albedo: 0.30
-        temperature: 2260 K<br />(1987 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 0066 Niunioiad II b
         type: Rocky
         formationType: Impact formed
@@ -121,12 +121,12 @@ planets:
         radius: 16,717.6 km<br/>(2.624 Yrths)
         surface_area: 3.512 × 10<sup>09</sup> km<sup>2</sup><br/>(6.885 Yrths)
         volume: 1.957 × 10<sup>13</sup> km<sup>3</sup><br/>(18.068 Yrths)
-        mass: 4.697 × 10<sup>25</sup> kg<br />(11.348224689937183 Yrths)
+        mass: 4.697 × 10<sup>25</sup> kg<br />(7.865 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 11.202 m/s<sup>2</sup><br />(1.142 g<sub>0</sub>)
         escape_velocity: 19.366 km/s<br />(69,718 km/h)
         rotation_period: 44.555 d
         axial_tilt: 7.95°
         albedo: 0.30
-        temperature: 2155 K<br />(1882 °C)
+        temperature: 167 K<br />(-106 °C)
 ---

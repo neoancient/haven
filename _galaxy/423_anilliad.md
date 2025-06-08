@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      423 Anilliad is a star in the constellation Anil
+      423 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 209.46 ly
 apparent_magnitude: 9.96
 absolute_magnitude: 5.92

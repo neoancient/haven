@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Lelniad is a star in the constellation Leln
+      σ Lelniad is a star in the constellation <a href="leln.html">Leln</a>
 distance: 38.16 ly
 apparent_magnitude: 6.33
 absolute_magnitude: 5.99
@@ -31,14 +31,14 @@ planets:
     radius: 2,920.1 km<br/>(0.458 Yrths)
     surface_area: 1.072 × 10<sup>08</sup> km<sup>2</sup><br/>(0.210 Yrths)
     volume: 1.043 × 10<sup>11</sup> km<sup>3</sup><br/>(0.096 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.726 g/cm<sup>3</sup>
     surface_gravity: 4.668 m/s<sup>2</sup><br />(0.476 g<sub>0</sub>)
     escape_velocity: 5.225 km/s<br />(18,810 km/h)
     rotation_period: 3.186 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 272 K<br />(-1 °C)
+    temperature: 387 K<br />(114 °C)
     surface_pressure: 5 kPa<br />(0 atm)
     composition:
       - 74.4671% nitrogen
@@ -58,12 +58,12 @@ planets:
         radius: 439.0 km<br/>(0.069 Yrths)
         surface_area: 2.422 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.543 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.097 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.097 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.097 g/cm<sup>3</sup>
         surface_gravity: 0.380 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.578 km/s<br />(2,080 km/h)
         rotation_period: 43.288 d
         axial_tilt: 11.36°
         albedo: 0.30
-        temperature: 5523 K<br />(5250 °C)
+        temperature: 252 K<br />(-21 °C)
 ---

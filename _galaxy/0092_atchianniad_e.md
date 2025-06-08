@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0092 Atchianniad E is a star in the constellation Atchian
+      0092 Atchianniad E is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 950.59 ly
 apparent_magnitude: 13.13
 absolute_magnitude: 5.80

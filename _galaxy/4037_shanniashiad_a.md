@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4037 Shanniashiad A is a star in the constellation Shannias
+      4037 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 456.77 ly
 apparent_magnitude: 7.52
 absolute_magnitude: 1.79

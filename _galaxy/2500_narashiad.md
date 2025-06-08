@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2500 Narashiad is a star in the constellation Naras
+      2500 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 379.54 ly
 apparent_magnitude: 10.32
 absolute_magnitude: 4.99

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Innaiad A is a star in the constellation Inna
+      0015 Innaiad A is a star in the constellation <a href="inna.html">Inna</a>
 distance: 46.02 ly
 apparent_magnitude: 7.77
 absolute_magnitude: 7.02

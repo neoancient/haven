@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11030 Arkothiad is a star in the constellation Arkoth
+      11030 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 581.69 ly
 apparent_magnitude: 14.34
 absolute_magnitude: 8.09

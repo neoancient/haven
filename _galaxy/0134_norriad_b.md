@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0134 Norriad B is a star in the constellation Nor
+      0134 Norriad B is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1371.24 ly
 apparent_magnitude: 14.27
 absolute_magnitude: 6.15

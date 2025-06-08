@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5556 Narashiad A is a star in the constellation Naras
+      5556 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 457.98 ly
 apparent_magnitude: 6.88
 absolute_magnitude: 1.15

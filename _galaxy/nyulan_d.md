@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nyulan D is a star in the constellation Kuln
+      Nyulan D is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 737.67 ly
 apparent_magnitude: 3.43
 absolute_magnitude: -3.34

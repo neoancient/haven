@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0060 Bethuiad is a star in the constellation Bethu
+      0060 Bethuiad is a star in the constellation <a href="bethu.html">Bethu</a>
 distance: 60.00 ly
 apparent_magnitude: 5.65
 absolute_magnitude: 4.32
@@ -31,14 +31,14 @@ planets:
     radius: 8,823.4 km<br/>(1.385 Yrths)
     surface_area: 9.783 × 10<sup>08</sup> km<sup>2</sup><br/>(1.918 Yrths)
     volume: 2.877 × 10<sup>12</sup> km<sup>3</sup><br/>(2.656 Yrths)
-    mass: 1.861 × 10<sup>25</sup> kg<br />(3.1157759319912404 Yrths)
+    mass: 1.861 × 10<sup>25</sup> kg<br />(3.12 Yrths)
     density: 6.467 g/cm<sup>3</sup>
     surface_gravity: 15.930 m/s<sup>2</sup><br />(1.624 g<sub>0</sub>)
     escape_velocity: 16.778 km/s<br />(60,401 km/h)
     rotation_period: 1.153 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 330 K<br />(57 °C)
+    temperature: 472 K<br />(199 °C)
     surface_pressure: 94 kPa<br />(1 atm)
     composition:
       - 83.8097% ammonia
@@ -57,14 +57,14 @@ planets:
         radius: 2,118.5 km<br/>(0.333 Yrths)
         surface_area: 5.640 × 10<sup>07</sup> km<sup>2</sup><br/>(0.111 Yrths)
         volume: 3.982 × 10<sup>10</sup> km<sup>3</sup><br/>(0.037 Yrths)
-        mass: 1.189 × 10<sup>23</sup> kg<br />(3.1157759319912404 Yrths)
+        mass: 1.189 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 2.985 g/cm<sup>3</sup>
         surface_gravity: 1.765 m/s<sup>2</sup><br />(0.180 g<sub>0</sub>)
         escape_velocity: 2.737 km/s<br />(9,853 km/h)
         rotation_period: 37.038 d
         axial_tilt: 12.13°
         albedo: 0.30
-        temperature: 3998 K<br />(3725 °C)
+        temperature: 260 K<br />(-13 °C)
       - name: 0060 Bethuiad I b
         type: Icy
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 2,992.6 km<br/>(0.470 Yrths)
         surface_area: 1.125 × 10<sup>08</sup> km<sup>2</sup><br/>(0.221 Yrths)
         volume: 1.123 × 10<sup>11</sup> km<sup>3</sup><br/>(0.104 Yrths)
-        mass: 1.211 × 10<sup>23</sup> kg<br />(3.1157759319912404 Yrths)
+        mass: 1.211 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 1.079 g/cm<sup>3</sup>
         surface_gravity: 0.902 m/s<sup>2</sup><br />(0.092 g<sub>0</sub>)
         escape_velocity: 2.324 km/s<br />(8,368 km/h)
         rotation_period: 62.635 d
         axial_tilt: 17.29°
         albedo: 0.30
-        temperature: 3812 K<br />(3539 °C)
+        temperature: 260 K<br />(-13 °C)
       - name: 0060 Bethuiad I c
         type: Rocky
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 4,577.2 km<br/>(0.718 Yrths)
         surface_area: 2.633 × 10<sup>08</sup> km<sup>2</sup><br/>(0.516 Yrths)
         volume: 4.017 × 10<sup>11</sup> km<sup>3</sup><br/>(0.371 Yrths)
-        mass: 1.248 × 10<sup>24</sup> kg<br />(3.1157759319912404 Yrths)
+        mass: 1.248 × 10<sup>24</sup> kg<br />(0.209 Yrths)
         density: 3.108 g/cm<sup>3</sup>
         surface_gravity: 3.971 m/s<sup>2</sup><br />(0.405 g<sub>0</sub>)
         escape_velocity: 6.034 km/s<br />(21,721 km/h)
         rotation_period: 38.523 d
         axial_tilt: 13.01°
         albedo: 0.30
-        temperature: 3635 K<br />(3362 °C)
+        temperature: 260 K<br />(-13 °C)
       - name: 0060 Bethuiad I d
         type: Icy
         formationType: Accreted
@@ -117,12 +117,12 @@ planets:
         radius: 10,390.2 km<br/>(1.631 Yrths)
         surface_area: 1.357 × 10<sup>09</sup> km<sup>2</sup><br/>(2.660 Yrths)
         volume: 4.699 × 10<sup>12</sup> km<sup>3</sup><br/>(4.338 Yrths)
-        mass: 5.250 × 10<sup>24</sup> kg<br />(3.1157759319912404 Yrths)
+        mass: 5.250 × 10<sup>24</sup> kg<br />(0.879 Yrths)
         density: 1.117 g/cm<sup>3</sup>
         surface_gravity: 3.241 m/s<sup>2</sup><br />(0.331 g<sub>0</sub>)
         escape_velocity: 8.212 km/s<br />(29,565 km/h)
         rotation_period: 85.913 d
         axial_tilt: 24.32°
         albedo: 0.30
-        temperature: 3466 K<br />(3192 °C)
+        temperature: 260 K<br />(-13 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1292 Anilliad is a star in the constellation Anil
+      1292 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 488.05 ly
 apparent_magnitude: 10.65
 absolute_magnitude: 4.78

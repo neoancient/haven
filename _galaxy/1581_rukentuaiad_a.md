@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1581 Rukentuaiad A is a star in the constellation Rukentua
+      1581 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 299.40 ly
 apparent_magnitude: 8.47
 absolute_magnitude: 3.66

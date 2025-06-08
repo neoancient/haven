@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3444 Arkothiad is a star in the constellation Arkoth
+      3444 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 445.38 ly
 apparent_magnitude: 10.44
 absolute_magnitude: 4.76

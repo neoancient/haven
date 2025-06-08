@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ilth C is a star in the constellation Rukentua
+      Ilth C is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 2008.99 ly
 apparent_magnitude: 5.55
 absolute_magnitude: -3.40

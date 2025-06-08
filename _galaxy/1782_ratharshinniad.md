@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1782 Ratharshinniad is a star in the constellation Ratharshin
+      1782 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 119.37 ly
 apparent_magnitude: 8.84
 absolute_magnitude: 6.02

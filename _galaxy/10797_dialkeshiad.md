@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10797 Dialkeshiad is a star in the constellation Dialkes
+      10797 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 174.48 ly
 apparent_magnitude: 9.88
 absolute_magnitude: 6.24
@@ -31,14 +31,14 @@ planets:
     radius: 7,621.9 km<br/>(1.196 Yrths)
     surface_area: 7.300 × 10<sup>08</sup> km<sup>2</sup><br/>(1.431 Yrths)
     volume: 1.855 × 10<sup>12</sup> km<sup>3</sup><br/>(1.712 Yrths)
-    mass: 1.225 × 10<sup>25</sup> kg<br />(2.0511880449960027 Yrths)
+    mass: 1.225 × 10<sup>25</sup> kg<br />(2.05 Yrths)
     density: 6.604 g/cm<sup>3</sup>
     surface_gravity: 14.054 m/s<sup>2</sup><br />(1.433 g<sub>0</sub>)
     escape_velocity: 14.647 km/s<br />(52,729 km/h)
     rotation_period: 1.116 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 517 K<br />(244 °C)
+    temperature: 1416 K<br />(1143 °C)
     surface_pressure: 196 kPa<br />(2 atm)
     composition:
       - 94.6427% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 892.6 km<br/>(0.140 Yrths)
         surface_area: 1.001 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 2.978 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 1.072 × 10<sup>22</sup> kg<br />(2.0511880449960027 Yrths)
+        mass: 1.072 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 0.897 m/s<sup>2</sup><br />(0.091 g<sub>0</sub>)
         escape_velocity: 1.266 km/s<br />(4,559 km/h)
         rotation_period: 29.240 d
         axial_tilt: 11.56°
         albedo: 0.30
-        temperature: 4985 K<br />(4712 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 10797 Dialkeshiad I b
         type: Rocky
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 725.9 km<br/>(0.114 Yrths)
         surface_area: 6.622 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.602 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 4.582 × 10<sup>21</sup> kg<br />(2.0511880449960027 Yrths)
+        mass: 4.582 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.860 g/cm<sup>3</sup>
         surface_gravity: 0.580 m/s<sup>2</sup><br />(0.059 g<sub>0</sub>)
         escape_velocity: 0.918 km/s<br />(3,305 km/h)
         rotation_period: 47.686 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 4753 K<br />(4480 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 10797 Dialkeshiad I c
         type: Icy
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 5,071.9 km<br/>(0.796 Yrths)
         surface_area: 3.233 × 10<sup>08</sup> km<sup>2</sup><br/>(0.634 Yrths)
         volume: 5.465 × 10<sup>11</sup> km<sup>3</sup><br/>(0.505 Yrths)
-        mass: 8.220 × 10<sup>23</sup> kg<br />(2.0511880449960027 Yrths)
+        mass: 8.220 × 10<sup>23</sup> kg<br />(0.138 Yrths)
         density: 1.504 g/cm<sup>3</sup>
         surface_gravity: 2.130 m/s<sup>2</sup><br />(0.217 g<sub>0</sub>)
         escape_velocity: 4.651 km/s<br />(16,745 km/h)
         rotation_period: 46.416 d
         axial_tilt: 16.18°
         albedo: 0.30
-        temperature: 4532 K<br />(4259 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 10797 Dialkeshiad I d
         type: Rocky
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 2,171.2 km<br/>(0.341 Yrths)
         surface_area: 5.924 × 10<sup>07</sup> km<sup>2</sup><br/>(0.116 Yrths)
         volume: 4.287 × 10<sup>10</sup> km<sup>3</sup><br/>(0.040 Yrths)
-        mass: 1.368 × 10<sup>23</sup> kg<br />(2.0511880449960027 Yrths)
+        mass: 1.368 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 3.191 g/cm<sup>3</sup>
         surface_gravity: 1.934 m/s<sup>2</sup><br />(0.197 g<sub>0</sub>)
         escape_velocity: 2.900 km/s<br />(10,441 km/h)
         rotation_period: 31.989 d
         axial_tilt: 9.46°
         albedo: 0.30
-        temperature: 4321 K<br />(4048 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 10797 Dialkeshiad II
     type: Large terrestrial
     aphelion: 111,589,792 km<br />0.746 AU
@@ -135,14 +135,14 @@ planets:
     radius: 10,497.1 km<br/>(1.648 Yrths)
     surface_area: 1.385 × 10<sup>09</sup> km<sup>2</sup><br/>(2.715 Yrths)
     volume: 4.845 × 10<sup>12</sup> km<sup>3</sup><br/>(4.473 Yrths)
-    mass: 3.092 × 10<sup>25</sup> kg<br />(5.178325759804014 Yrths)
+    mass: 3.092 × 10<sup>25</sup> kg<br />(5.18 Yrths)
     density: 6.383 g/cm<sup>3</sup>
     surface_gravity: 18.706 m/s<sup>2</sup><br />(1.907 g<sub>0</sub>)
     escape_velocity: 19.831 km/s<br />(71,390 km/h)
     rotation_period: 0.770 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 294 K<br />(21 °C)
+    temperature: 297 K<br />(24 °C)
     surface_pressure: 89 kPa<br />(1 atm)
     composition:
       - 69.4477% nitrogen
@@ -161,14 +161,14 @@ planets:
         radius: 10,919.6 km<br/>(1.714 Yrths)
         surface_area: 1.498 × 10<sup>09</sup> km<sup>2</sup><br/>(2.938 Yrths)
         volume: 5.454 × 10<sup>12</sup> km<sup>3</sup><br/>(5.035 Yrths)
-        mass: 1.585 × 10<sup>25</sup> kg<br />(5.178325759804014 Yrths)
+        mass: 1.585 × 10<sup>25</sup> kg<br />(2.653 Yrths)
         density: 2.905 g/cm<sup>3</sup>
         surface_gravity: 8.857 m/s<sup>2</sup><br />(0.903 g<sub>0</sub>)
         escape_velocity: 13.918 km/s<br />(50,103 km/h)
         rotation_period: 57.580 d
         axial_tilt: 13.09°
         albedo: 0.30
-        temperature: 2558 K<br />(2284 °C)
+        temperature: 246 K<br />(-27 °C)
   - name: 10797 Dialkeshiad III
     type: Large terrestrial
     aphelion: 187,744,052 km<br />1.255 AU
@@ -180,14 +180,14 @@ planets:
     radius: 6,292.9 km<br/>(0.988 Yrths)
     surface_area: 4.976 × 10<sup>08</sup> km<sup>2</sup><br/>(0.976 Yrths)
     volume: 1.044 × 10<sup>12</sup> km<sup>3</sup><br/>(0.964 Yrths)
-    mass: 6.714 × 10<sup>24</sup> kg<br />(1.1241868445364955 Yrths)
+    mass: 6.714 × 10<sup>24</sup> kg<br />(1.12 Yrths)
     density: 6.432 g/cm<sup>3</sup>
     surface_gravity: 11.300 m/s<sup>2</sup><br />(1.152 g<sub>0</sub>)
     escape_velocity: 11.934 km/s<br />(42,961 km/h)
     rotation_period: 1.013 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 242 K<br />(-32 °C)
+    temperature: 230 K<br />(-44 °C)
     surface_pressure: 233 kPa<br />(2 atm)
     composition:
       - 77.8062% nitrogen
@@ -205,14 +205,14 @@ planets:
         radius: 2,129.7 km<br/>(0.334 Yrths)
         surface_area: 5.700 × 10<sup>07</sup> km<sup>2</sup><br/>(0.112 Yrths)
         volume: 4.046 × 10<sup>10</sup> km<sup>3</sup><br/>(0.037 Yrths)
-        mass: 1.064 × 10<sup>23</sup> kg<br />(1.1241868445364955 Yrths)
+        mass: 1.064 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 2.630 g/cm<sup>3</sup>
         surface_gravity: 1.563 m/s<sup>2</sup><br />(0.159 g<sub>0</sub>)
         escape_velocity: 2.582 km/s<br />(9,296 km/h)
         rotation_period: 31.313 d
         axial_tilt: 14.02°
         albedo: 0.30
-        temperature: 2545 K<br />(2272 °C)
+        temperature: 191 K<br />(-83 °C)
       - name: 10797 Dialkeshiad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -225,14 +225,14 @@ planets:
         radius: 2,880.5 km<br/>(0.452 Yrths)
         surface_area: 1.043 × 10<sup>08</sup> km<sup>2</sup><br/>(0.204 Yrths)
         volume: 1.001 × 10<sup>11</sup> km<sup>3</sup><br/>(0.092 Yrths)
-        mass: 1.782 × 10<sup>23</sup> kg<br />(1.1241868445364955 Yrths)
+        mass: 1.782 × 10<sup>23</sup> kg<br />(0.030 Yrths)
         density: 1.780 g/cm<sup>3</sup>
         surface_gravity: 1.432 m/s<sup>2</sup><br />(0.146 g<sub>0</sub>)
         escape_velocity: 2.874 km/s<br />(10,346 km/h)
         rotation_period: 41.013 d
         axial_tilt: 10.63°
         albedo: 0.30
-        temperature: 2427 K<br />(2154 °C)
+        temperature: 191 K<br />(-83 °C)
   - name: 10797 Dialkeshiad IV
     type: Large terrestrial
     aphelion: 299,314,545 km<br />2.001 AU
@@ -244,14 +244,14 @@ planets:
     radius: 2,747.9 km<br/>(0.431 Yrths)
     surface_area: 9.489 × 10<sup>07</sup> km<sup>2</sup><br/>(0.186 Yrths)
     volume: 8.692 × 10<sup>10</sup> km<sup>3</sup><br/>(0.080 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.871 g/cm<sup>3</sup>
     surface_gravity: 5.271 m/s<sup>2</sup><br />(0.538 g<sub>0</sub>)
     escape_velocity: 5.386 km/s<br />(19,390 km/h)
     rotation_period: 1.716 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 189 K<br />(-84 °C)
+    temperature: 191 K<br />(-82 °C)
     surface_pressure: 244 kPa<br />(2 atm)
     composition:
       - 81.6948% nitrogen
@@ -271,14 +271,14 @@ planets:
         radius: 731.3 km<br/>(0.115 Yrths)
         surface_area: 6.720 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.638 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.927 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.927 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.176 g/cm<sup>3</sup>
         surface_gravity: 0.240 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.593 km/s<br />(2,135 km/h)
         rotation_period: 79.364 d
         axial_tilt: 26.41°
         albedo: 0.30
-        temperature: 2977 K<br />(2704 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 10797 Dialkeshiad IV b
         type: Rocky
         formationType: Accreted
@@ -291,14 +291,14 @@ planets:
         radius: 538.9 km<br/>(0.085 Yrths)
         surface_area: 3.649 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.555 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.642 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.642 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.505 g/cm<sup>3</sup>
         surface_gravity: 0.377 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.638 km/s<br />(2,296 km/h)
         rotation_period: 61.601 d
         axial_tilt: 8.06°
         albedo: 0.30
-        temperature: 2838 K<br />(2565 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 10797 Dialkeshiad IV c
         type: Icy
         formationType: Impact formed
@@ -311,12 +311,12 @@ planets:
         radius: 860.1 km<br/>(0.135 Yrths)
         surface_area: 9.296 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.665 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.558 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.558 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.960 g/cm<sup>3</sup>
         surface_gravity: 0.230 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.630 km/s<br />(2,268 km/h)
         rotation_period: 87.672 d
         axial_tilt: 22.07°
         albedo: 0.30
-        temperature: 2706 K<br />(2433 °C)
+        temperature: 148 K<br />(-125 °C)
 ---

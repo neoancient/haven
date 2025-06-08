@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0022 Norriad B is a star in the constellation Nor
+      0022 Norriad B is a star in the constellation <a href="nor.html">Nor</a>
 distance: 470.96 ly
 apparent_magnitude: 13.26
 absolute_magnitude: 7.46

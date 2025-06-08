@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      32236 Geardiad A is a star in the constellation Geard
+      32236 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 416.96 ly
 apparent_magnitude: 7.65
 absolute_magnitude: 2.11

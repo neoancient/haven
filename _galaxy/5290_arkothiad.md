@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5290 Arkothiad is a star in the constellation Arkoth
+      5290 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 532.17 ly
 apparent_magnitude: 12.27
 absolute_magnitude: 6.20

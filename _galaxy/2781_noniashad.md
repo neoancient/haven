@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2781 Noniashad is a star in the constellation Nonias
+      2781 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 710.01 ly
 apparent_magnitude: 7.17
 absolute_magnitude: 0.48
@@ -31,14 +31,14 @@ planets:
     radius: 27,309.1 km<br/>(4.286 Yrths)
     surface_area: 9.372 × 10<sup>09</sup> km<sup>2</sup><br/>(18.374 Yrths)
     volume: 8.531 × 10<sup>13</sup> km<sup>3</sup><br/>(78.759 Yrths)
-    mass: 1.237 × 10<sup>26</sup> kg<br />(20.711027101763477 Yrths)
+    mass: 1.237 × 10<sup>26</sup> kg<br />(20.71 Yrths)
     density: 1.450 g/cm<sup>3</sup>
     surface_gravity: 11.054 m/s<sup>2</sup><br />(1.127 g<sub>0</sub>)
     escape_velocity: 24.588 km/s<br />(88,517 km/h)
     rotation_period: 0.380 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 743 K<br />(470 °C)
+    temperature: 685 K<br />(411 °C)
     composition:
       - 89.5345% hydrogen
       - 6.1010% helium
@@ -58,14 +58,14 @@ planets:
         radius: 20,059.2 km<br/>(3.149 Yrths)
         surface_area: 5.056 × 10<sup>09</sup> km<sup>2</sup><br/>(9.913 Yrths)
         volume: 3.381 × 10<sup>13</sup> km<sup>3</sup><br/>(31.212 Yrths)
-        mass: 8.874 × 10<sup>25</sup> kg<br />(20.711027101763477 Yrths)
+        mass: 8.874 × 10<sup>25</sup> kg<br />(14.860 Yrths)
         density: 2.625 g/cm<sup>3</sup>
         surface_gravity: 14.700 m/s<sup>2</sup><br />(1.499 g<sub>0</sub>)
         escape_velocity: 24.301 km/s<br />(87,485 km/h)
         rotation_period: 38.819 d
         axial_tilt: 26.48°
         albedo: 0.30
-        temperature: 3356 K<br />(3083 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 2781 Noniashad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 17,794.1 km<br/>(2.793 Yrths)
         surface_area: 3.979 × 10<sup>09</sup> km<sup>2</sup><br/>(7.801 Yrths)
         volume: 2.360 × 10<sup>13</sup> km<sup>3</sup><br/>(21.788 Yrths)
-        mass: 5.725 × 10<sup>25</sup> kg<br />(20.711027101763477 Yrths)
+        mass: 5.725 × 10<sup>25</sup> kg<br />(9.587 Yrths)
         density: 2.426 g/cm<sup>3</sup>
         surface_gravity: 12.052 m/s<sup>2</sup><br />(1.229 g<sub>0</sub>)
         escape_velocity: 20.724 km/s<br />(74,607 km/h)
         rotation_period: 32.913 d
         axial_tilt: 16.22°
         albedo: 0.30
-        temperature: 3051 K<br />(2778 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 2781 Noniashad I c
         type: Icy
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 31,568.0 km<br/>(4.955 Yrths)
         surface_area: 1.252 × 10<sup>10</sup> km<sup>2</sup><br/>(24.552 Yrths)
         volume: 1.318 × 10<sup>14</sup> km<sup>3</sup><br/>(121.652 Yrths)
-        mass: 1.753 × 10<sup>26</sup> kg<br />(20.711027101763477 Yrths)
+        mass: 1.753 × 10<sup>26</sup> kg<br />(29.355 Yrths)
         density: 1.330 g/cm<sup>3</sup>
         surface_gravity: 11.725 m/s<sup>2</sup><br />(1.196 g<sub>0</sub>)
         escape_velocity: 27.227 km/s<br />(98,017 km/h)
         rotation_period: 44.301 d
         axial_tilt: 21.95°
         albedo: 0.30
-        temperature: 2909 K<br />(2636 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 2781 Noniashad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 23,231.5 km<br/>(3.646 Yrths)
         surface_area: 6.782 × 10<sup>09</sup> km<sup>2</sup><br/>(13.297 Yrths)
         volume: 5.252 × 10<sup>13</sup> km<sup>3</sup><br/>(48.485 Yrths)
-        mass: 1.365 × 10<sup>26</sup> kg<br />(20.711027101763477 Yrths)
+        mass: 1.365 × 10<sup>26</sup> kg<br />(22.851 Yrths)
         density: 2.598 g/cm<sup>3</sup>
         surface_gravity: 16.853 m/s<sup>2</sup><br />(1.719 g<sub>0</sub>)
         escape_velocity: 28.002 km/s<br />(100,807 km/h)
         rotation_period: 54.326 d
         axial_tilt: 19.63°
         albedo: 0.30
-        temperature: 2773 K<br />(2500 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 2781 Noniashad I e
         type: Asteroid
         formationType: Captured
@@ -138,14 +138,14 @@ planets:
         radius: 25,179.1 km<br/>(3.952 Yrths)
         surface_area: 7.967 × 10<sup>09</sup> km<sup>2</sup><br/>(15.619 Yrths)
         volume: 6.687 × 10<sup>13</sup> km<sup>3</sup><br/>(61.730 Yrths)
-        mass: 1.215 × 10<sup>26</sup> kg<br />(20.711027101763477 Yrths)
+        mass: 1.215 × 10<sup>26</sup> kg<br />(20.346 Yrths)
         density: 1.817 g/cm<sup>3</sup>
         surface_gravity: 12.774 m/s<sup>2</sup><br />(1.303 g<sub>0</sub>)
         escape_velocity: 25.380 km/s<br />(91,368 km/h)
         rotation_period: 45.474 d
         axial_tilt: 48.84°
         albedo: 0.30
-        temperature: 2521 K<br />(2248 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 2781 Noniashad I f
         type: Icy
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 22,516.2 km<br/>(3.534 Yrths)
         surface_area: 6.371 × 10<sup>09</sup> km<sup>2</sup><br/>(12.490 Yrths)
         volume: 4.782 × 10<sup>13</sup> km<sup>3</sup><br/>(44.143 Yrths)
-        mass: 7.791 × 10<sup>25</sup> kg<br />(20.711027101763477 Yrths)
+        mass: 7.791 × 10<sup>25</sup> kg<br />(13.045 Yrths)
         density: 1.629 g/cm<sup>3</sup>
         surface_gravity: 10.242 m/s<sup>2</sup><br />(1.044 g<sub>0</sub>)
         escape_velocity: 21.491 km/s<br />(77,367 km/h)
         rotation_period: 57.689 d
         axial_tilt: 29.16°
         albedo: 0.30
-        temperature: 2404 K<br />(2131 °C)
+        temperature: 359 K<br />(86 °C)
       - name: 2781 Noniashad I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 18,597.9 km<br/>(2.919 Yrths)
         surface_area: 4.346 × 10<sup>09</sup> km<sup>2</sup><br/>(8.521 Yrths)
         volume: 2.695 × 10<sup>13</sup> km<sup>3</sup><br/>(24.875 Yrths)
-        mass: 5.913 × 10<sup>25</sup> kg<br />(20.711027101763477 Yrths)
+        mass: 5.913 × 10<sup>25</sup> kg<br />(9.901 Yrths)
         density: 2.194 g/cm<sup>3</sup>
         surface_gravity: 11.394 m/s<sup>2</sup><br />(1.162 g<sub>0</sub>)
         escape_velocity: 20.601 km/s<br />(74,164 km/h)
         rotation_period: 37.507 d
         axial_tilt: 26.47°
         albedo: 0.30
-        temperature: 2292 K<br />(2019 °C)
+        temperature: 359 K<br />(86 °C)
   - name: 2781 Noniashad II
     type: Gas giant
     aphelion: 1,164,815,043 km<br />7.786 AU
@@ -197,14 +197,14 @@ planets:
     radius: 144.0 km<br/>(0.023 Yrths)
     surface_area: 2.608 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.252 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.492 × 10<sup>26</sup> kg<br />(41.72419353241008 Yrths)
+    mass: 2.492 × 10<sup>26</sup> kg<br />(41.72 Yrths)
     density: 19901957.462 g/cm<sup>3</sup>
     surface_gravity: 800402.197 m/s<sup>2</sup><br />(81618.310 g<sub>0</sub>)
     escape_velocity: 480.527 km/s<br />(1,729,897 km/h)
     rotation_period: 0.287 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1037 K<br />(764 °C)
+    temperature: 1036 K<br />(763 °C)
     composition:
       - 55.5305% hydrogen
       - 32.9824% helium
@@ -224,14 +224,14 @@ planets:
         radius: 51,661.2 km<br/>(8.109 Yrths)
         surface_area: 3.354 × 10<sup>10</sup> km<sup>2</sup><br/>(65.753 Yrths)
         volume: 5.775 × 10<sup>14</sup> km<sup>3</sup><br/>(533.176 Yrths)
-        mass: 1.099 × 10<sup>27</sup> kg<br />(41.72419353241008 Yrths)
+        mass: 1.099 × 10<sup>27</sup> kg<br />(183.978 Yrths)
         density: 1.902 g/cm<sup>3</sup>
         surface_gravity: 27.439 m/s<sup>2</sup><br />(2.798 g<sub>0</sub>)
         escape_velocity: 53.282 km/s<br />(191,814 km/h)
         rotation_period: 43.285 d
         axial_tilt: 20.55°
         albedo: 0.30
-        temperature: 2240 K<br />(1967 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 2781 Noniashad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -244,14 +244,14 @@ planets:
         radius: 57,772.7 km<br/>(9.068 Yrths)
         surface_area: 4.194 × 10<sup>10</sup> km<sup>2</sup><br/>(82.230 Yrths)
         volume: 8.077 × 10<sup>14</sup> km<sup>3</sup><br/>(745.666 Yrths)
-        mass: 1.689 × 10<sup>27</sup> kg<br />(41.72419353241008 Yrths)
+        mass: 1.689 × 10<sup>27</sup> kg<br />(282.746 Yrths)
         density: 2.091 g/cm<sup>3</sup>
         surface_gravity: 33.720 m/s<sup>2</sup><br />(3.438 g<sub>0</sub>)
         escape_velocity: 62.462 km/s<br />(224,863 km/h)
         rotation_period: 65.343 d
         axial_tilt: 24.85°
         albedo: 0.30
-        temperature: 1605 K<br />(1332 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 2781 Noniashad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -264,14 +264,14 @@ planets:
         radius: 37,824.6 km<br/>(5.937 Yrths)
         surface_area: 1.798 × 10<sup>10</sup> km<sup>2</sup><br/>(35.248 Yrths)
         volume: 2.267 × 10<sup>14</sup> km<sup>3</sup><br/>(209.267 Yrths)
-        mass: 5.435 × 10<sup>26</sup> kg<br />(41.72419353241008 Yrths)
+        mass: 5.435 × 10<sup>26</sup> kg<br />(91.011 Yrths)
         density: 2.398 g/cm<sup>3</sup>
         surface_gravity: 25.321 m/s<sup>2</sup><br />(2.582 g<sub>0</sub>)
         escape_velocity: 43.796 km/s<br />(157,667 km/h)
         rotation_period: 40.057 d
         axial_tilt: 16.30°
         albedo: 0.30
-        temperature: 1206 K<br />(933 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 2781 Noniashad II d
         type: Icy
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 60,816.6 km<br/>(9.546 Yrths)
         surface_area: 4.648 × 10<sup>10</sup> km<sup>2</sup><br/>(91.123 Yrths)
         volume: 9.422 × 10<sup>14</sup> km<sup>3</sup><br/>(869.850 Yrths)
-        mass: 1.138 × 10<sup>27</sup> kg<br />(41.72419353241008 Yrths)
+        mass: 1.138 × 10<sup>27</sup> kg<br />(190.534 Yrths)
         density: 1.208 g/cm<sup>3</sup>
         surface_gravity: 20.505 m/s<sup>2</sup><br />(2.091 g<sub>0</sub>)
         escape_velocity: 49.975 km/s<br />(179,910 km/h)
         rotation_period: 57.487 d
         axial_tilt: 20.97°
         albedo: 0.30
-        temperature: 1096 K<br />(823 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 2781 Noniashad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -304,14 +304,14 @@ planets:
         radius: 57,975.0 km<br/>(9.100 Yrths)
         surface_area: 4.224 × 10<sup>10</sup> km<sup>2</sup><br/>(82.807 Yrths)
         volume: 8.162 × 10<sup>14</sup> km<sup>3</sup><br/>(753.529 Yrths)
-        mass: 1.796 × 10<sup>27</sup> kg<br />(41.72419353241008 Yrths)
+        mass: 1.796 × 10<sup>27</sup> kg<br />(300.721 Yrths)
         density: 2.200 g/cm<sup>3</sup>
         surface_gravity: 35.614 m/s<sup>2</sup><br />(3.632 g<sub>0</sub>)
         escape_velocity: 64.304 km/s<br />(231,495 km/h)
         rotation_period: 39.474 d
         axial_tilt: 17.06°
         albedo: 0.30
-        temperature: 1045 K<br />(772 °C)
+        temperature: 256 K<br />(-17 °C)
   - name: 2781 Noniashad III
     type: Gas dwarf
     aphelion: 2,549,894,925 km<br />17.045 AU
@@ -323,14 +323,14 @@ planets:
     radius: 16,661.5 km<br/>(2.615 Yrths)
     surface_area: 3.489 × 10<sup>09</sup> km<sup>2</sup><br/>(6.839 Yrths)
     volume: 1.937 × 10<sup>13</sup> km<sup>3</sup><br/>(17.886 Yrths)
-    mass: 3.534 × 10<sup>25</sup> kg<br />(5.9176435402834215 Yrths)
+    mass: 3.534 × 10<sup>25</sup> kg<br />(5.92 Yrths)
     density: 1.824 g/cm<sup>3</sup>
     surface_gravity: 8.485 m/s<sup>2</sup><br />(0.865 g<sub>0</sub>)
     escape_velocity: 16.827 km/s<br />(60,576 km/h)
     rotation_period: 0.445 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 290 K<br />(17 °C)
+    temperature: 259 K<br />(-14 °C)
     composition:
       - 83.0021% hydrogen
       - 15.3606% helium
@@ -351,14 +351,14 @@ planets:
         radius: 9,502.2 km<br/>(1.491 Yrths)
         surface_area: 1.135 × 10<sup>09</sup> km<sup>2</sup><br/>(2.224 Yrths)
         volume: 3.594 × 10<sup>12</sup> km<sup>3</sup><br/>(3.318 Yrths)
-        mass: 4.272 × 10<sup>24</sup> kg<br />(5.9176435402834215 Yrths)
+        mass: 4.272 × 10<sup>24</sup> kg<br />(0.715 Yrths)
         density: 1.189 g/cm<sup>3</sup>
         surface_gravity: 3.153 m/s<sup>2</sup><br />(0.322 g<sub>0</sub>)
         escape_velocity: 7.746 km/s<br />(27,887 km/h)
         rotation_period: 90.672 d
         axial_tilt: 19.73°
         albedo: 0.30
-        temperature: 2199 K<br />(1926 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 2781 Noniashad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -371,14 +371,14 @@ planets:
         radius: 9,481.0 km<br/>(1.488 Yrths)
         surface_area: 1.130 × 10<sup>09</sup> km<sup>2</sup><br/>(2.215 Yrths)
         volume: 3.570 × 10<sup>12</sup> km<sup>3</sup><br/>(3.296 Yrths)
-        mass: 6.960 × 10<sup>24</sup> kg<br />(5.9176435402834215 Yrths)
+        mass: 6.960 × 10<sup>24</sup> kg<br />(1.165 Yrths)
         density: 1.950 g/cm<sup>3</sup>
         surface_gravity: 5.161 m/s<sup>2</sup><br />(0.526 g<sub>0</sub>)
         escape_velocity: 9.899 km/s<br />(35,638 km/h)
         rotation_period: 46.218 d
         axial_tilt: 18.18°
         albedo: 0.30
-        temperature: 2096 K<br />(1823 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 2781 Noniashad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -391,14 +391,14 @@ planets:
         radius: 8,864.8 km<br/>(1.391 Yrths)
         surface_area: 9.875 × 10<sup>08</sup> km<sup>2</sup><br/>(1.936 Yrths)
         volume: 2.918 × 10<sup>12</sup> km<sup>3</sup><br/>(2.694 Yrths)
-        mass: 6.434 × 10<sup>24</sup> kg<br />(5.9176435402834215 Yrths)
+        mass: 6.434 × 10<sup>24</sup> kg<br />(1.077 Yrths)
         density: 2.205 g/cm<sup>3</sup>
         surface_gravity: 5.457 m/s<sup>2</sup><br />(0.556 g<sub>0</sub>)
         escape_velocity: 9.843 km/s<br />(35,435 km/h)
         rotation_period: 34.070 d
         axial_tilt: 17.09°
         albedo: 0.30
-        temperature: 1999 K<br />(1726 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 2781 Noniashad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -411,14 +411,14 @@ planets:
         radius: 12,354.7 km<br/>(1.939 Yrths)
         surface_area: 1.918 × 10<sup>09</sup> km<sup>2</sup><br/>(3.761 Yrths)
         volume: 7.899 × 10<sup>12</sup> km<sup>3</sup><br/>(7.292 Yrths)
-        mass: 1.448 × 10<sup>25</sup> kg<br />(5.9176435402834215 Yrths)
+        mass: 1.448 × 10<sup>25</sup> kg<br />(2.425 Yrths)
         density: 1.834 g/cm<sup>3</sup>
         surface_gravity: 6.325 m/s<sup>2</sup><br />(0.645 g<sub>0</sub>)
         escape_velocity: 12.510 km/s<br />(45,035 km/h)
         rotation_period: 69.027 d
         axial_tilt: 18.29°
         albedo: 0.30
-        temperature: 1906 K<br />(1633 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 2781 Noniashad III e
         type: Icy
         formationType: Impact formed
@@ -431,12 +431,12 @@ planets:
         radius: 15,058.0 km<br/>(2.364 Yrths)
         surface_area: 2.849 × 10<sup>09</sup> km<sup>2</sup><br/>(5.586 Yrths)
         volume: 1.430 × 10<sup>13</sup> km<sup>3</sup><br/>(13.203 Yrths)
-        mass: 1.333 × 10<sup>25</sup> kg<br />(5.9176435402834215 Yrths)
+        mass: 1.333 × 10<sup>25</sup> kg<br />(2.232 Yrths)
         density: 0.932 g/cm<sup>3</sup>
         surface_gravity: 3.919 m/s<sup>2</sup><br />(0.400 g<sub>0</sub>)
         escape_velocity: 10.871 km/s<br />(39,136 km/h)
         rotation_period: 62.460 d
         axial_tilt: 18.13°
         albedo: 0.30
-        temperature: 1817 K<br />(1544 °C)
+        temperature: 182 K<br />(-91 °C)
 ---

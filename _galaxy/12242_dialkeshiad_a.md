@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12242 Dialkeshiad A is a star in the constellation Dialkes
+      12242 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 560.02 ly
 apparent_magnitude: 7.39
 absolute_magnitude: 1.22

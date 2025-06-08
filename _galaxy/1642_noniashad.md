@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1642 Noniashad is a star in the constellation Nonias
+      1642 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 463.93 ly
 apparent_magnitude: 9.68
 absolute_magnitude: 3.92

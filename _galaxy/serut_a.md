@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Serut A is a star in the constellation Shy
+      Serut A is a star in the constellation <a href="shy.html">Shy</a>
 distance: 454.89 ly
 apparent_magnitude: 2.82
 absolute_magnitude: -2.90

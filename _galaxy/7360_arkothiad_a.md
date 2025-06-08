@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7360 Arkothiad A is a star in the constellation Arkoth
+      7360 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 286.83 ly
 apparent_magnitude: 9.69
 absolute_magnitude: 4.97

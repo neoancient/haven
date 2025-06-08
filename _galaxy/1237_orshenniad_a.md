@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1237 Orshenniad A is a star in the constellation Orshen
+      1237 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 320.93 ly
 apparent_magnitude: 6.96
 absolute_magnitude: 1.99

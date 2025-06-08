@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1662 Athiad A is a star in the constellation Ath
+      1662 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 570.41 ly
 apparent_magnitude: 9.12
 absolute_magnitude: 2.91

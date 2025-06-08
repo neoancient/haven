@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      654 Lunaiad is a star in the constellation Luna
+      654 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 849.97 ly
 apparent_magnitude: 11.72
 absolute_magnitude: 4.64

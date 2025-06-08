@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4731 Tanashad is a star in the constellation Tanas
+      4731 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 863.02 ly
 apparent_magnitude: 12.49
 absolute_magnitude: 5.38

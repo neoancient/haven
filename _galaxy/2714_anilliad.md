@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2714 Anilliad is a star in the constellation Anil
+      2714 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 571.57 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 4.84

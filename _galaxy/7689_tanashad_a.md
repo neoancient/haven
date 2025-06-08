@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7689 Tanashad A is a star in the constellation Tanas
+      7689 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 204.76 ly
 apparent_magnitude: 7.87
 absolute_magnitude: 3.89

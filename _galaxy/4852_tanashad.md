@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4852 Tanashad is a star in the constellation Tanas
+      4852 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 421.47 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 2.50
@@ -31,14 +31,14 @@ planets:
     radius: 159.8 km<br/>(0.025 Yrths)
     surface_area: 3.208 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.709 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.929 × 10<sup>26</sup> kg<br />(65.79041539468669 Yrths)
+    mass: 3.929 × 10<sup>26</sup> kg<br />(65.79 Yrths)
     density: 22995585.297 g/cm<sup>3</sup>
     surface_gravity: 1025806.895 m/s<sup>2</sup><br />(104603.192 g<sub>0</sub>)
     escape_velocity: 572.929 km/s<br />(2,062,545 km/h)
     rotation_period: 0.274 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1539 K<br />(1266 °C)
+    temperature: 1485 K<br />(1212 °C)
     composition:
       - 75.2163% hydrogen
       - 18.0374% helium
@@ -58,14 +58,14 @@ planets:
         radius: 44,713.5 km<br/>(7.018 Yrths)
         surface_area: 2.512 × 10<sup>10</sup> km<sup>2</sup><br/>(49.256 Yrths)
         volume: 3.745 × 10<sup>14</sup> km<sup>3</sup><br/>(345.695 Yrths)
-        mass: 8.484 × 10<sup>26</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 8.484 × 10<sup>26</sup> kg<br />(142.058 Yrths)
         density: 2.266 g/cm<sup>3</sup>
         surface_gravity: 28.283 m/s<sup>2</sup><br />(2.884 g<sub>0</sub>)
         escape_velocity: 50.326 km/s<br />(181,173 km/h)
         rotation_period: 57.535 d
         axial_tilt: 10.47°
         albedo: 0.30
-        temperature: 2878 K<br />(2605 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I b
         type: Asteroid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 61,936.9 km<br/>(9.722 Yrths)
         surface_area: 4.821 × 10<sup>10</sup> km<sup>2</sup><br/>(94.511 Yrths)
         volume: 9.953 × 10<sup>14</sup> km<sup>3</sup><br/>(918.808 Yrths)
-        mass: 2.856 × 10<sup>27</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 2.856 × 10<sup>27</sup> kg<br />(478.292 Yrths)
         density: 2.870 g/cm<sup>3</sup>
         surface_gravity: 49.628 m/s<sup>2</sup><br />(5.061 g<sub>0</sub>)
         escape_velocity: 78.460 km/s<br />(282,457 km/h)
         rotation_period: 42.038 d
         axial_tilt: 41.15°
         albedo: 0.30
-        temperature: 2744 K<br />(2471 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I c
         type: Icy
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 66,063.5 km<br/>(10.369 Yrths)
         surface_area: 5.484 × 10<sup>10</sup> km<sup>2</sup><br/>(107.525 Yrths)
         volume: 1.208 × 10<sup>15</sup> km<sup>3</sup><br/>(1114.968 Yrths)
-        mass: 1.390 × 10<sup>27</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 1.390 × 10<sup>27</sup> kg<br />(232.797 Yrths)
         density: 1.151 g/cm<sup>3</sup>
         surface_gravity: 21.232 m/s<sup>2</sup><br />(2.165 g<sub>0</sub>)
         escape_velocity: 53.001 km/s<br />(190,804 km/h)
         rotation_period: 49.435 d
         axial_tilt: 20.24°
         albedo: 0.30
-        temperature: 2616 K<br />(2343 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I d
         type: Rocky
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 61,219.6 km<br/>(9.609 Yrths)
         surface_area: 4.710 × 10<sup>10</sup> km<sup>2</sup><br/>(92.335 Yrths)
         volume: 9.611 × 10<sup>14</sup> km<sup>3</sup><br/>(887.257 Yrths)
-        mass: 3.142 × 10<sup>27</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 3.142 × 10<sup>27</sup> kg<br />(526.149 Yrths)
         density: 3.269 g/cm<sup>3</sup>
         surface_gravity: 55.881 m/s<sup>2</sup><br />(5.698 g<sub>0</sub>)
         escape_velocity: 82.773 km/s<br />(297,981 km/h)
         rotation_period: 41.741 d
         axial_tilt: 14.84°
         albedo: 0.30
-        temperature: 2494 K<br />(2221 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 123,239.3 km<br/>(19.344 Yrths)
         surface_area: 1.909 × 10<sup>11</sup> km<sup>2</sup><br/>(374.183 Yrths)
         volume: 7.840 × 10<sup>15</sup> km<sup>3</sup><br/>(7238.112 Yrths)
-        mass: 1.773 × 10<sup>28</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 1.773 × 10<sup>28</sup> kg<br />(2969.675 Yrths)
         density: 2.262 g/cm<sup>3</sup>
         surface_gravity: 77.830 m/s<sup>2</sup><br />(7.936 g<sub>0</sub>)
         escape_velocity: 138.598 km/s<br />(498,953 km/h)
         rotation_period: 40.509 d
         axial_tilt: 17.96°
         albedo: 0.30
-        temperature: 2378 K<br />(2105 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I f
         type: Rocky
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 43,477.0 km<br/>(6.824 Yrths)
         surface_area: 2.375 × 10<sup>10</sup> km<sup>2</sup><br/>(46.570 Yrths)
         volume: 3.442 × 10<sup>14</sup> km<sup>3</sup><br/>(317.802 Yrths)
-        mass: 1.047 × 10<sup>27</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 1.047 × 10<sup>27</sup> kg<br />(175.240 Yrths)
         density: 3.040 g/cm<sup>3</sup>
         surface_gravity: 36.902 m/s<sup>2</sup><br />(3.763 g<sub>0</sub>)
         escape_velocity: 56.685 km/s<br />(204,064 km/h)
         rotation_period: 29.122 d
         axial_tilt: 11.12°
         albedo: 0.30
-        temperature: 2268 K<br />(1994 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I g
         type: Icy
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 123,518.0 km<br/>(19.388 Yrths)
         surface_area: 1.917 × 10<sup>11</sup> km<sup>2</sup><br/>(375.877 Yrths)
         volume: 7.894 × 10<sup>15</sup> km<sup>3</sup><br/>(7287.320 Yrths)
-        mass: 1.398 × 10<sup>28</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 1.398 × 10<sup>28</sup> kg<br />(2340.424 Yrths)
         density: 1.771 g/cm<sup>3</sup>
         surface_gravity: 61.062 m/s<sup>2</sup><br />(6.227 g<sub>0</sub>)
         escape_velocity: 122.902 km/s<br />(442,448 km/h)
         rotation_period: 59.019 d
         axial_tilt: 14.11°
         albedo: 0.30
-        temperature: 2061 K<br />(1788 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -198,14 +198,14 @@ planets:
         radius: 65,679.2 km<br/>(10.309 Yrths)
         surface_area: 5.421 × 10<sup>10</sup> km<sup>2</sup><br/>(106.277 Yrths)
         volume: 1.187 × 10<sup>15</sup> km<sup>3</sup><br/>(1095.624 Yrths)
-        mass: 2.841 × 10<sup>27</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 2.841 × 10<sup>27</sup> kg<br />(475.785 Yrths)
         density: 2.394 g/cm<sup>3</sup>
         surface_gravity: 43.903 m/s<sup>2</sup><br />(4.477 g<sub>0</sub>)
         escape_velocity: 75.992 km/s<br />(273,572 km/h)
         rotation_period: 57.282 d
         axial_tilt: 32.25°
         albedo: 0.30
-        temperature: 1966 K<br />(1692 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I i
         type: Icy
         formationType: Accreted
@@ -218,14 +218,14 @@ planets:
         radius: 64,517.5 km<br/>(10.127 Yrths)
         surface_area: 5.231 × 10<sup>10</sup> km<sup>2</sup><br/>(102.551 Yrths)
         volume: 1.125 × 10<sup>15</sup> km<sup>3</sup><br/>(1038.505 Yrths)
-        mass: 1.642 × 10<sup>27</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 1.642 × 10<sup>27</sup> kg<br />(274.961 Yrths)
         density: 1.460 g/cm<sup>3</sup>
         surface_gravity: 26.294 m/s<sup>2</sup><br />(2.681 g<sub>0</sub>)
         escape_velocity: 58.287 km/s<br />(209,835 km/h)
         rotation_period: 69.778 d
         axial_tilt: 21.58°
         albedo: 0.30
-        temperature: 1874 K<br />(1601 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I j
         type: Dwarf planet
         formationType: Accreted
@@ -238,14 +238,14 @@ planets:
         radius: 75,357.3 km<br/>(11.828 Yrths)
         surface_area: 7.136 × 10<sup>10</sup> km<sup>2</sup><br/>(139.906 Yrths)
         volume: 1.793 × 10<sup>15</sup> km<sup>3</sup><br/>(1654.826 Yrths)
-        mass: 5.019 × 10<sup>27</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 5.019 × 10<sup>27</sup> kg<br />(840.431 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 58.910 m/s<sup>2</sup><br />(6.007 g<sub>0</sub>)
         escape_velocity: 94.290 km/s<br />(339,444 km/h)
         rotation_period: 47.511 d
         axial_tilt: 21.76°
         albedo: 0.30
-        temperature: 1787 K<br />(1514 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 4852 Tanashad I k
         type: Icy
         formationType: Accreted
@@ -258,12 +258,12 @@ planets:
         radius: 57,690.8 km<br/>(9.055 Yrths)
         surface_area: 4.182 × 10<sup>10</sup> km<sup>2</sup><br/>(81.997 Yrths)
         volume: 8.043 × 10<sup>14</sup> km<sup>3</sup><br/>(742.499 Yrths)
-        mass: 1.452 × 10<sup>27</sup> kg<br />(65.79041539468669 Yrths)
+        mass: 1.452 × 10<sup>27</sup> kg<br />(243.174 Yrths)
         density: 1.806 g/cm<sup>3</sup>
         surface_gravity: 29.083 m/s<sup>2</sup><br />(2.966 g<sub>0</sub>)
         escape_velocity: 57.967 km/s<br />(208,682 km/h)
         rotation_period: 57.529 d
         axial_tilt: 8.44°
         albedo: 0.30
-        temperature: 1704 K<br />(1431 °C)
+        temperature: 377 K<br />(104 °C)
 ---

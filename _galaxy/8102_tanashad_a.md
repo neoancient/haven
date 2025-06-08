@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8102 Tanashad A is a star in the constellation Tanas
+      8102 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 204.65 ly
 apparent_magnitude: 8.49
 absolute_magnitude: 4.50

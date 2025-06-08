@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0045 Rishauthiad C is a star in the constellation Rishauth
+      0045 Rishauthiad C is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 165.03 ly
 apparent_magnitude: 10.74
 absolute_magnitude: 7.22
@@ -31,14 +31,14 @@ planets:
     radius: 5,313.2 km<br/>(0.834 Yrths)
     surface_area: 3.547 × 10<sup>08</sup> km<sup>2</sup><br/>(0.695 Yrths)
     volume: 6.283 × 10<sup>11</sup> km<sup>3</sup><br/>(0.580 Yrths)
-    mass: 3.160 × 10<sup>24</sup> kg<br />(0.5292194396645653 Yrths)
+    mass: 3.160 × 10<sup>24</sup> kg<br />(0.53 Yrths)
     density: 5.030 g/cm<sup>3</sup>
     surface_gravity: 7.462 m/s<sup>2</sup><br />(0.761 g<sub>0</sub>)
     escape_velocity: 8.911 km/s<br />(32,079 km/h)
     rotation_period: 3.553 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 412 K<br />(139 °C)
+    temperature: 1045 K<br />(772 °C)
     surface_pressure: 9 kPa<br />(0 atm)
     composition:
       - 62.6304% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 1,178.8 km<br/>(0.185 Yrths)
         surface_area: 1.746 × 10<sup>07</sup> km<sup>2</sup><br/>(0.034 Yrths)
         volume: 6.861 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.860 × 10<sup>22</sup> kg<br />(0.5292194396645653 Yrths)
+        mass: 1.860 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.711 g/cm<sup>3</sup>
         surface_gravity: 0.892 m/s<sup>2</sup><br />(0.091 g<sub>0</sub>)
         escape_velocity: 1.451 km/s<br />(5,225 km/h)
         rotation_period: 52.419 d
         axial_tilt: 21.54°
         albedo: 0.30
-        temperature: 5691 K<br />(5418 °C)
+        temperature: 319 K<br />(45 °C)
   - name: 0045 Rishauthiad C II
     type: Gas giant
     aphelion: 66,747,376 km<br />0.446 AU
@@ -76,7 +76,7 @@ planets:
     radius: 203.6 km<br/>(0.032 Yrths)
     surface_area: 5.208 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.534 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.121 × 10<sup>27</sup> kg<br />(187.74332520898946 Yrths)
+    mass: 1.121 × 10<sup>27</sup> kg<br />(187.74 Yrths)
     density: 31723371.263 g/cm<sup>3</sup>
     surface_gravity: 1803112.470 m/s<sup>2</sup><br />(183866.302 g<sub>0</sub>)
     escape_velocity: 857.414 km/s<br />(3,086,691 km/h)
@@ -97,14 +97,14 @@ planets:
         radius: 212,145.8 km<br/>(33.299 Yrths)
         surface_area: 5.656 × 10<sup>11</sup> km<sup>2</sup><br/>(1108.802 Yrths)
         volume: 3.999 × 10<sup>16</sup> km<sup>3</sup><br/>(36921.621 Yrths)
-        mass: 8.720 × 10<sup>28</sup> kg<br />(187.74332520898946 Yrths)
+        mass: 8.720 × 10<sup>28</sup> kg<br />(14601.977 Yrths)
         density: 2.180 g/cm<sup>3</sup>
         surface_gravity: 129.145 m/s<sup>2</sup><br />(13.169 g<sub>0</sub>)
         escape_velocity: 234.243 km/s<br />(843,274 km/h)
         rotation_period: 56.069 d
         axial_tilt: 44.22°
         albedo: 0.30
-        temperature: 1267 K<br />(994 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 0045 Rishauthiad C II b
         type: Rocky
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 113,779.2 km<br/>(17.859 Yrths)
         surface_area: 1.627 × 10<sup>11</sup> km<sup>2</sup><br/>(318.941 Yrths)
         volume: 6.170 × 10<sup>15</sup> km<sup>3</sup><br/>(5695.939 Yrths)
-        mass: 1.980 × 10<sup>28</sup> kg<br />(187.74332520898946 Yrths)
+        mass: 1.980 × 10<sup>28</sup> kg<br />(3314.656 Yrths)
         density: 3.208 g/cm<sup>3</sup>
         surface_gravity: 101.918 m/s<sup>2</sup><br />(10.393 g<sub>0</sub>)
         escape_velocity: 152.393 km/s<br />(548,616 km/h)
         rotation_period: 45.845 d
         axial_tilt: 18.40°
         albedo: 0.30
-        temperature: 1152 K<br />(879 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 0045 Rishauthiad C II c
         type: Rocky
         formationType: Impact formed
@@ -137,14 +137,14 @@ planets:
         radius: 114,914.6 km<br/>(18.037 Yrths)
         surface_area: 1.659 × 10<sup>11</sup> km<sup>2</sup><br/>(325.338 Yrths)
         volume: 6.356 × 10<sup>15</sup> km<sup>3</sup><br/>(5868.166 Yrths)
-        mass: 2.288 × 10<sup>28</sup> kg<br />(187.74332520898946 Yrths)
+        mass: 2.288 × 10<sup>28</sup> kg<br />(3831.744 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 115.500 m/s<sup>2</sup><br />(11.778 g<sub>0</sub>)
         escape_velocity: 163.038 km/s<br />(586,936 km/h)
         rotation_period: 35.689 d
         axial_tilt: 17.31°
         albedo: 0.30
-        temperature: 998 K<br />(725 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 0045 Rishauthiad C II d
         type: Icy
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 122,184.7 km<br/>(19.178 Yrths)
         surface_area: 1.876 × 10<sup>11</sup> km<sup>2</sup><br/>(367.806 Yrths)
         volume: 7.641 × 10<sup>15</sup> km<sup>3</sup><br/>(7053.874 Yrths)
-        mass: 1.239 × 10<sup>28</sup> kg<br />(187.74332520898946 Yrths)
+        mass: 1.239 × 10<sup>28</sup> kg<br />(2074.694 Yrths)
         density: 1.622 g/cm<sup>3</sup>
         surface_gravity: 55.317 m/s<sup>2</sup><br />(5.641 g<sub>0</sub>)
         escape_velocity: 116.345 km/s<br />(418,841 km/h)
         rotation_period: 57.034 d
         axial_tilt: 16.76°
         albedo: 0.30
-        temperature: 952 K<br />(679 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 0045 Rishauthiad C II e
         type: Asteroid
         formationType: Captured
@@ -177,14 +177,14 @@ planets:
         radius: 116,458.9 km<br/>(18.280 Yrths)
         surface_area: 1.704 × 10<sup>11</sup> km<sup>2</sup><br/>(334.141 Yrths)
         volume: 6.616 × 10<sup>15</sup> km<sup>3</sup><br/>(6107.948 Yrths)
-        mass: 1.657 × 10<sup>28</sup> kg<br />(187.74332520898946 Yrths)
+        mass: 1.657 × 10<sup>28</sup> kg<br />(2774.756 Yrths)
         density: 2.505 g/cm<sup>3</sup>
         surface_gravity: 81.436 m/s<sup>2</sup><br />(8.304 g<sub>0</sub>)
         escape_velocity: 137.817 km/s<br />(496,142 km/h)
         rotation_period: 49.738 d
         axial_tilt: 33.51°
         albedo: 0.30
-        temperature: 865 K<br />(592 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 0045 Rishauthiad C II f
         type: Icy
         formationType: Accreted
@@ -197,14 +197,14 @@ planets:
         radius: 125,501.9 km<br/>(19.699 Yrths)
         surface_area: 1.979 × 10<sup>11</sup> km<sup>2</sup><br/>(388.048 Yrths)
         volume: 8.280 × 10<sup>15</sup> km<sup>3</sup><br/>(7644.134 Yrths)
-        mass: 1.507 × 10<sup>28</sup> kg<br />(187.74332520898946 Yrths)
+        mass: 1.507 × 10<sup>28</sup> kg<br />(2523.507 Yrths)
         density: 1.820 g/cm<sup>3</sup>
         surface_gravity: 63.773 m/s<sup>2</sup><br />(6.503 g<sub>0</sub>)
         escape_velocity: 126.606 km/s<br />(455,782 km/h)
         rotation_period: 53.369 d
         axial_tilt: 19.40°
         albedo: 0.30
-        temperature: 682 K<br />(409 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 0045 Rishauthiad C II g
         type: Icy
         formationType: Accreted
@@ -217,14 +217,14 @@ planets:
         radius: 203,373.0 km<br/>(31.922 Yrths)
         surface_area: 5.198 × 10<sup>11</sup> km<sup>2</sup><br/>(1018.993 Yrths)
         volume: 3.523 × 10<sup>16</sup> km<sup>3</sup><br/>(32527.972 Yrths)
-        mass: 5.336 × 10<sup>28</sup> kg<br />(187.74332520898946 Yrths)
+        mass: 5.336 × 10<sup>28</sup> kg<br />(8935.143 Yrths)
         density: 1.514 g/cm<sup>3</sup>
         surface_gravity: 85.991 m/s<sup>2</sup><br />(8.769 g<sub>0</sub>)
         escape_velocity: 187.147 km/s<br />(673,728 km/h)
         rotation_period: 41.211 d
         axial_tilt: 14.97°
         albedo: 0.30
-        temperature: 591 K<br />(318 °C)
+        temperature: 254 K<br />(-19 °C)
   - name: 0045 Rishauthiad C III
     type: Ice giant
     aphelion: 108,694,618 km<br />0.727 AU
@@ -236,14 +236,14 @@ planets:
     radius: 18,117.0 km<br/>(2.844 Yrths)
     surface_area: 4.125 × 10<sup>09</sup> km<sup>2</sup><br/>(8.086 Yrths)
     volume: 2.491 × 10<sup>13</sup> km<sup>3</sup><br/>(22.995 Yrths)
-    mass: 4.353 × 10<sup>25</sup> kg<br />(7.289717613794174 Yrths)
+    mass: 4.353 × 10<sup>25</sup> kg<br />(7.29 Yrths)
     density: 1.748 g/cm<sup>3</sup>
     surface_gravity: 8.840 m/s<sup>2</sup><br />(0.901 g<sub>0</sub>)
     escape_velocity: 17.910 km/s<br />(64,475 km/h)
     rotation_period: 0.797 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 360 K<br />(87 °C)
+    temperature: 323 K<br />(50 °C)
     composition:
       - 77.6053% hydrogen
       - 21.4723% helium
@@ -261,14 +261,14 @@ planets:
         radius: 7,111.0 km<br/>(1.116 Yrths)
         surface_area: 6.354 × 10<sup>08</sup> km<sup>2</sup><br/>(1.246 Yrths)
         volume: 1.506 × 10<sup>12</sup> km<sup>3</sup><br/>(1.391 Yrths)
-        mass: 3.868 × 10<sup>24</sup> kg<br />(7.289717613794174 Yrths)
+        mass: 3.868 × 10<sup>24</sup> kg<br />(0.648 Yrths)
         density: 2.568 g/cm<sup>3</sup>
         surface_gravity: 5.099 m/s<sup>2</sup><br />(0.520 g<sub>0</sub>)
         escape_velocity: 8.522 km/s<br />(30,678 km/h)
         rotation_period: 47.004 d
         axial_tilt: 17.06°
         albedo: 0.30
-        temperature: 1739 K<br />(1466 °C)
+        temperature: 203 K<br />(-70 °C)
       - name: 0045 Rishauthiad C III b
         type: Rocky
         formationType: Accreted
@@ -281,14 +281,14 @@ planets:
         radius: 7,188.1 km<br/>(1.128 Yrths)
         surface_area: 6.493 × 10<sup>08</sup> km<sup>2</sup><br/>(1.273 Yrths)
         volume: 1.556 × 10<sup>12</sup> km<sup>3</sup><br/>(1.436 Yrths)
-        mass: 4.962 × 10<sup>24</sup> kg<br />(7.289717613794174 Yrths)
+        mass: 4.962 × 10<sup>24</sup> kg<br />(0.831 Yrths)
         density: 3.189 g/cm<sup>3</sup>
         surface_gravity: 6.401 m/s<sup>2</sup><br />(0.653 g<sub>0</sub>)
         escape_velocity: 9.599 km/s<br />(34,557 km/h)
         rotation_period: 30.845 d
         axial_tilt: 13.73°
         albedo: 0.30
-        temperature: 1507 K<br />(1234 °C)
+        temperature: 203 K<br />(-70 °C)
       - name: 0045 Rishauthiad C III c
         type: Icy
         formationType: Impact formed
@@ -301,14 +301,14 @@ planets:
         radius: 10,609.0 km<br/>(1.665 Yrths)
         surface_area: 1.414 × 10<sup>09</sup> km<sup>2</sup><br/>(2.773 Yrths)
         volume: 5.002 × 10<sup>12</sup> km<sup>3</sup><br/>(4.617 Yrths)
-        mass: 5.310 × 10<sup>24</sup> kg<br />(7.289717613794174 Yrths)
+        mass: 5.310 × 10<sup>24</sup> kg<br />(0.889 Yrths)
         density: 1.062 g/cm<sup>3</sup>
         surface_gravity: 3.144 m/s<sup>2</sup><br />(0.321 g<sub>0</sub>)
         escape_velocity: 8.174 km/s<br />(29,425 km/h)
         rotation_period: 78.919 d
         axial_tilt: 22.39°
         albedo: 0.30
-        temperature: 1370 K<br />(1097 °C)
+        temperature: 203 K<br />(-70 °C)
       - name: 0045 Rishauthiad C III d
         type: Rocky
         formationType: Accreted
@@ -321,14 +321,14 @@ planets:
         radius: 11,464.2 km<br/>(1.799 Yrths)
         surface_area: 1.652 × 10<sup>09</sup> km<sup>2</sup><br/>(3.238 Yrths)
         volume: 6.311 × 10<sup>12</sup> km<sup>3</sup><br/>(5.827 Yrths)
-        mass: 1.834 × 10<sup>25</sup> kg<br />(7.289717613794174 Yrths)
+        mass: 1.834 × 10<sup>25</sup> kg<br />(3.071 Yrths)
         density: 2.906 g/cm<sup>3</sup>
         surface_gravity: 9.302 m/s<sup>2</sup><br />(0.949 g<sub>0</sub>)
         escape_velocity: 14.614 km/s<br />(52,610 km/h)
         rotation_period: 38.247 d
         axial_tilt: 11.76°
         albedo: 0.30
-        temperature: 1306 K<br />(1033 °C)
+        temperature: 203 K<br />(-70 °C)
       - name: 0045 Rishauthiad C III e
         type: Icy
         formationType: Impact formed
@@ -341,14 +341,14 @@ planets:
         radius: 11,965.9 km<br/>(1.878 Yrths)
         surface_area: 1.799 × 10<sup>09</sup> km<sup>2</sup><br/>(3.528 Yrths)
         volume: 7.177 × 10<sup>12</sup> km<sup>3</sup><br/>(6.625 Yrths)
-        mass: 9.901 × 10<sup>24</sup> kg<br />(7.289717613794174 Yrths)
+        mass: 9.901 × 10<sup>24</sup> kg<br />(1.658 Yrths)
         density: 1.380 g/cm<sup>3</sup>
         surface_gravity: 4.609 m/s<sup>2</sup><br />(0.470 g<sub>0</sub>)
         escape_velocity: 10.510 km/s<br />(37,835 km/h)
         rotation_period: 44.515 d
         axial_tilt: 14.34°
         albedo: 0.30
-        temperature: 1246 K<br />(972 °C)
+        temperature: 203 K<br />(-70 °C)
       - name: 0045 Rishauthiad C III f
         type: Rocky
         formationType: Accreted
@@ -361,14 +361,14 @@ planets:
         radius: 16,557.5 km<br/>(2.599 Yrths)
         surface_area: 3.445 × 10<sup>09</sup> km<sup>2</sup><br/>(6.754 Yrths)
         volume: 1.901 × 10<sup>13</sup> km<sup>3</sup><br/>(17.553 Yrths)
-        mass: 5.660 × 10<sup>25</sup> kg<br />(7.289717613794174 Yrths)
+        mass: 5.660 × 10<sup>25</sup> kg<br />(9.477 Yrths)
         density: 2.977 g/cm<sup>3</sup>
         surface_gravity: 13.760 m/s<sup>2</sup><br />(1.403 g<sub>0</sub>)
         escape_velocity: 21.361 km/s<br />(76,898 km/h)
         rotation_period: 39.754 d
         axial_tilt: 16.17°
         albedo: 0.30
-        temperature: 1132 K<br />(859 °C)
+        temperature: 203 K<br />(-70 °C)
       - name: 0045 Rishauthiad C III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -381,14 +381,14 @@ planets:
         radius: 8,977.1 km<br/>(1.409 Yrths)
         surface_area: 1.013 × 10<sup>09</sup> km<sup>2</sup><br/>(1.985 Yrths)
         volume: 3.030 × 10<sup>12</sup> km<sup>3</sup><br/>(2.798 Yrths)
-        mass: 5.776 × 10<sup>24</sup> kg<br />(7.289717613794174 Yrths)
+        mass: 5.776 × 10<sup>24</sup> kg<br />(0.967 Yrths)
         density: 1.906 g/cm<sup>3</sup>
         surface_gravity: 4.778 m/s<sup>2</sup><br />(0.487 g<sub>0</sub>)
         escape_velocity: 9.268 km/s<br />(33,364 km/h)
         rotation_period: 47.889 d
         axial_tilt: 24.10°
         albedo: 0.30
-        temperature: 1029 K<br />(756 °C)
+        temperature: 203 K<br />(-70 °C)
   - name: 0045 Rishauthiad C IV
     type: Ice giant
     aphelion: 174,198,763 km<br />1.164 AU
@@ -400,14 +400,14 @@ planets:
     radius: 23,334.3 km<br/>(3.663 Yrths)
     surface_area: 6.842 × 10<sup>09</sup> km<sup>2</sup><br/>(13.415 Yrths)
     volume: 5.322 × 10<sup>13</sup> km<sup>3</sup><br/>(49.132 Yrths)
-    mass: 7.934 × 10<sup>25</sup> kg<br />(13.284955766833608 Yrths)
+    mass: 7.934 × 10<sup>25</sup> kg<br />(13.28 Yrths)
     density: 1.491 g/cm<sup>3</sup>
     surface_gravity: 9.712 m/s<sup>2</sup><br />(0.990 g<sub>0</sub>)
     escape_velocity: 21.304 km/s<br />(76,694 km/h)
     rotation_period: 0.598 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 283 K<br />(9 °C)
+    temperature: 262 K<br />(-12 °C)
     composition:
       - 85.2648% hydrogen
       - 13.8823% helium
@@ -425,14 +425,14 @@ planets:
         radius: 23,264.6 km<br/>(3.652 Yrths)
         surface_area: 6.801 × 10<sup>09</sup> km<sup>2</sup><br/>(13.335 Yrths)
         volume: 5.274 × 10<sup>13</sup> km<sup>3</sup><br/>(48.693 Yrths)
-        mass: 7.130 × 10<sup>25</sup> kg<br />(13.284955766833608 Yrths)
+        mass: 7.130 × 10<sup>25</sup> kg<br />(11.938 Yrths)
         density: 1.352 g/cm<sup>3</sup>
         surface_gravity: 8.780 m/s<sup>2</sup><br />(0.895 g<sub>0</sub>)
         escape_velocity: 20.226 km/s<br />(72,812 km/h)
         rotation_period: 63.151 d
         axial_tilt: 24.94°
         albedo: 0.30
-        temperature: 1384 K<br />(1111 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0045 Rishauthiad C IV b
         type: Rocky
         formationType: Accreted
@@ -445,14 +445,14 @@ planets:
         radius: 10,494.2 km<br/>(1.647 Yrths)
         surface_area: 1.384 × 10<sup>09</sup> km<sup>2</sup><br/>(2.713 Yrths)
         volume: 4.841 × 10<sup>12</sup> km<sup>3</sup><br/>(4.469 Yrths)
-        mass: 1.391 × 10<sup>25</sup> kg<br />(13.284955766833608 Yrths)
+        mass: 1.391 × 10<sup>25</sup> kg<br />(2.330 Yrths)
         density: 2.874 g/cm<sup>3</sup>
         surface_gravity: 8.420 m/s<sup>2</sup><br />(0.859 g<sub>0</sub>)
         escape_velocity: 13.303 km/s<br />(47,891 km/h)
         rotation_period: 33.242 d
         axial_tilt: 19.79°
         albedo: 0.30
-        temperature: 1258 K<br />(985 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0045 Rishauthiad C IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -465,14 +465,14 @@ planets:
         radius: 14,261.3 km<br/>(2.238 Yrths)
         surface_area: 2.556 × 10<sup>09</sup> km<sup>2</sup><br/>(5.011 Yrths)
         volume: 1.215 × 10<sup>13</sup> km<sup>3</sup><br/>(11.217 Yrths)
-        mass: 2.621 × 10<sup>25</sup> kg<br />(13.284955766833608 Yrths)
+        mass: 2.621 × 10<sup>25</sup> kg<br />(4.389 Yrths)
         density: 2.157 g/cm<sup>3</sup>
         surface_gravity: 8.590 m/s<sup>2</sup><br />(0.876 g<sub>0</sub>)
         escape_velocity: 15.664 km/s<br />(56,390 km/h)
         rotation_period: 61.294 d
         axial_tilt: 27.34°
         albedo: 0.30
-        temperature: 1199 K<br />(926 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0045 Rishauthiad C IV d
         type: Asteroid
         formationType: Captured
@@ -485,14 +485,14 @@ planets:
         radius: 11,453.0 km<br/>(1.798 Yrths)
         surface_area: 1.648 × 10<sup>09</sup> km<sup>2</sup><br/>(3.232 Yrths)
         volume: 6.293 × 10<sup>12</sup> km<sup>3</sup><br/>(5.809 Yrths)
-        mass: 1.919 × 10<sup>25</sup> kg<br />(13.284955766833608 Yrths)
+        mass: 1.919 × 10<sup>25</sup> kg<br />(3.213 Yrths)
         density: 3.049 g/cm<sup>3</sup>
         surface_gravity: 9.750 m/s<sup>2</sup><br />(0.994 g<sub>0</sub>)
         escape_velocity: 14.954 km/s<br />(53,835 km/h)
         rotation_period: 41.615 d
         axial_tilt: 57.61°
         albedo: 0.30
-        temperature: 1144 K<br />(870 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0045 Rishauthiad C IV e
         type: Icy
         formationType: Captured
@@ -505,14 +505,14 @@ planets:
         radius: 16,965.0 km<br/>(2.663 Yrths)
         surface_area: 3.617 × 10<sup>09</sup> km<sup>2</sup><br/>(7.091 Yrths)
         volume: 2.045 × 10<sup>13</sup> km<sup>3</sup><br/>(18.882 Yrths)
-        mass: 3.253 × 10<sup>25</sup> kg<br />(13.284955766833608 Yrths)
+        mass: 3.253 × 10<sup>25</sup> kg<br />(5.448 Yrths)
         density: 1.591 g/cm<sup>3</sup>
         surface_gravity: 7.534 m/s<sup>2</sup><br />(0.768 g<sub>0</sub>)
         escape_velocity: 16.000 km/s<br />(57,599 km/h)
         rotation_period: 56.230 d
         axial_tilt: 14.69°
         albedo: 0.30
-        temperature: 1040 K<br />(766 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0045 Rishauthiad C IV f
         type: Dwarf planet
         formationType: Accreted
@@ -525,14 +525,14 @@ planets:
         radius: 30,500.5 km<br/>(4.787 Yrths)
         surface_area: 1.169 × 10<sup>10</sup> km<sup>2</sup><br/>(22.919 Yrths)
         volume: 1.189 × 10<sup>14</sup> km<sup>3</sup><br/>(109.723 Yrths)
-        mass: 2.867 × 10<sup>26</sup> kg<br />(13.284955766833608 Yrths)
+        mass: 2.867 × 10<sup>26</sup> kg<br />(48.004 Yrths)
         density: 2.412 g/cm<sup>3</sup>
         surface_gravity: 20.540 m/s<sup>2</sup><br />(2.095 g<sub>0</sub>)
         escape_velocity: 35.421 km/s<br />(127,517 km/h)
         rotation_period: 60.577 d
         axial_tilt: 13.25°
         albedo: 0.30
-        temperature: 991 K<br />(718 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0045 Rishauthiad C IV g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -545,14 +545,14 @@ planets:
         radius: 18,378.5 km<br/>(2.885 Yrths)
         surface_area: 4.245 × 10<sup>09</sup> km<sup>2</sup><br/>(8.322 Yrths)
         volume: 2.600 × 10<sup>13</sup> km<sup>3</sup><br/>(24.005 Yrths)
-        mass: 5.773 × 10<sup>25</sup> kg<br />(13.284955766833608 Yrths)
+        mass: 5.773 × 10<sup>25</sup> kg<br />(9.667 Yrths)
         density: 2.220 g/cm<sup>3</sup>
         surface_gravity: 11.392 m/s<sup>2</sup><br />(1.162 g<sub>0</sub>)
         escape_velocity: 20.477 km/s<br />(73,716 km/h)
         rotation_period: 51.789 d
         axial_tilt: 14.95°
         albedo: 0.30
-        temperature: 945 K<br />(672 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0045 Rishauthiad C IV h
         type: Icy
         formationType: Captured
@@ -565,14 +565,14 @@ planets:
         radius: 15,884.9 km<br/>(2.493 Yrths)
         surface_area: 3.171 × 10<sup>09</sup> km<sup>2</sup><br/>(6.217 Yrths)
         volume: 1.679 × 10<sup>13</sup> km<sup>3</sup><br/>(15.500 Yrths)
-        mass: 2.693 × 10<sup>25</sup> kg<br />(13.284955766833608 Yrths)
+        mass: 2.693 × 10<sup>25</sup> kg<br />(4.509 Yrths)
         density: 1.604 g/cm<sup>3</sup>
         surface_gravity: 7.113 m/s<sup>2</sup><br />(0.725 g<sub>0</sub>)
         escape_velocity: 15.043 km/s<br />(54,153 km/h)
         rotation_period: 77.280 d
         axial_tilt: 17.33°
         albedo: 0.30
-        temperature: 901 K<br />(628 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0045 Rishauthiad C IV i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -585,14 +585,14 @@ planets:
         radius: 11,796.4 km<br/>(1.852 Yrths)
         surface_area: 1.749 × 10<sup>09</sup> km<sup>2</sup><br/>(3.428 Yrths)
         volume: 6.876 × 10<sup>12</sup> km<sup>3</sup><br/>(6.348 Yrths)
-        mass: 1.750 × 10<sup>25</sup> kg<br />(13.284955766833608 Yrths)
+        mass: 1.750 × 10<sup>25</sup> kg<br />(2.930 Yrths)
         density: 2.545 g/cm<sup>3</sup>
         surface_gravity: 8.381 m/s<sup>2</sup><br />(0.855 g<sub>0</sub>)
         escape_velocity: 14.071 km/s<br />(50,655 km/h)
         rotation_period: 34.660 d
         axial_tilt: 18.30°
         albedo: 0.30
-        temperature: 781 K<br />(508 °C)
+        temperature: 162 K<br />(-111 °C)
   - name: 0045 Rishauthiad C V
     type: Large terrestrial
     aphelion: 257,382,436 km<br />1.720 AU
@@ -604,14 +604,14 @@ planets:
     radius: 6,694.4 km<br/>(1.051 Yrths)
     surface_area: 5.632 × 10<sup>08</sup> km<sup>2</sup><br/>(1.104 Yrths)
     volume: 1.257 × 10<sup>12</sup> km<sup>3</sup><br/>(1.160 Yrths)
-    mass: 8.996 × 10<sup>24</sup> kg<br />(1.5063147855610621 Yrths)
+    mass: 8.996 × 10<sup>24</sup> kg<br />(1.51 Yrths)
     density: 7.158 g/cm<sup>3</sup>
     surface_gravity: 13.379 m/s<sup>2</sup><br />(1.364 g<sub>0</sub>)
     escape_velocity: 13.393 km/s<br />(48,215 km/h)
     rotation_period: 0.959 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 165 K<br />(-108 °C)
+    temperature: 148 K<br />(-125 °C)
     surface_pressure: 289 kPa<br />(3 atm)
     composition:
       - 95.7868% nitrogen
@@ -631,14 +631,14 @@ planets:
         radius: 4,201.1 km<br/>(0.659 Yrths)
         surface_area: 2.218 × 10<sup>08</sup> km<sup>2</sup><br/>(0.435 Yrths)
         volume: 3.106 × 10<sup>11</sup> km<sup>3</sup><br/>(0.287 Yrths)
-        mass: 2.914 × 10<sup>23</sup> kg<br />(1.5063147855610621 Yrths)
+        mass: 2.914 × 10<sup>23</sup> kg<br />(0.049 Yrths)
         density: 0.938 g/cm<sup>3</sup>
         surface_gravity: 1.100 m/s<sup>2</sup><br />(0.112 g<sub>0</sub>)
         escape_velocity: 3.043 km/s<br />(10,954 km/h)
         rotation_period: 88.361 d
         axial_tilt: 21.85°
         albedo: 0.30
-        temperature: 1593 K<br />(1320 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0045 Rishauthiad C V b
         type: Asteroid
         formationType: Captured
@@ -651,14 +651,14 @@ planets:
         radius: 3,255.9 km<br/>(0.511 Yrths)
         surface_area: 1.332 × 10<sup>08</sup> km<sup>2</sup><br/>(0.261 Yrths)
         volume: 1.446 × 10<sup>11</sup> km<sup>3</sup><br/>(0.133 Yrths)
-        mass: 2.880 × 10<sup>23</sup> kg<br />(1.5063147855610621 Yrths)
+        mass: 2.880 × 10<sup>23</sup> kg<br />(0.048 Yrths)
         density: 1.992 g/cm<sup>3</sup>
         surface_gravity: 1.811 m/s<sup>2</sup><br />(0.185 g<sub>0</sub>)
         escape_velocity: 3.436 km/s<br />(12,371 km/h)
         rotation_period: 66.030 d
         axial_tilt: 27.34°
         albedo: 0.30
-        temperature: 1519 K<br />(1245 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0045 Rishauthiad C V c
         type: Dwarf planet
         formationType: Captured
@@ -671,14 +671,14 @@ planets:
         radius: 1,571.3 km<br/>(0.247 Yrths)
         surface_area: 3.103 × 10<sup>07</sup> km<sup>2</sup><br/>(0.061 Yrths)
         volume: 1.625 × 10<sup>10</sup> km<sup>3</sup><br/>(0.015 Yrths)
-        mass: 4.435 × 10<sup>22</sup> kg<br />(1.5063147855610621 Yrths)
+        mass: 4.435 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 2.729 g/cm<sup>3</sup>
         surface_gravity: 1.197 m/s<sup>2</sup><br />(0.122 g<sub>0</sub>)
         escape_velocity: 1.941 km/s<br />(6,988 km/h)
         rotation_period: 35.186 d
         axial_tilt: 46.35°
         albedo: 0.30
-        temperature: 1448 K<br />(1175 °C)
+        temperature: 130 K<br />(-144 °C)
   - name: 0045 Rishauthiad C VI
     type: Ice giant
     aphelion: 443,032,651 km<br />2.961 AU
@@ -690,14 +690,14 @@ planets:
     radius: 26,153.7 km<br/>(4.105 Yrths)
     surface_area: 8.596 × 10<sup>09</sup> km<sup>2</sup><br/>(16.852 Yrths)
     volume: 7.494 × 10<sup>13</sup> km<sup>3</sup><br/>(69.179 Yrths)
-    mass: 1.060 × 10<sup>26</sup> kg<br />(17.741463174396966 Yrths)
+    mass: 1.060 × 10<sup>26</sup> kg<br />(17.74 Yrths)
     density: 1.414 g/cm<sup>3</sup>
     surface_gravity: 10.324 m/s<sup>2</sup><br />(1.053 g<sub>0</sub>)
     escape_velocity: 23.254 km/s<br />(83,716 km/h)
     rotation_period: 0.425 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 183 K<br />(-90 °C)
+    temperature: 167 K<br />(-106 °C)
     composition:
       - 92.2298% hydrogen
       - 4.9474% helium
@@ -715,14 +715,14 @@ planets:
         radius: 26,392.2 km<br/>(4.143 Yrths)
         surface_area: 8.753 × 10<sup>09</sup> km<sup>2</sup><br/>(17.161 Yrths)
         volume: 7.700 × 10<sup>13</sup> km<sup>3</sup><br/>(71.089 Yrths)
-        mass: 2.055 × 10<sup>26</sup> kg<br />(17.741463174396966 Yrths)
+        mass: 2.055 × 10<sup>26</sup> kg<br />(34.414 Yrths)
         density: 2.669 g/cm<sup>3</sup>
         surface_gravity: 19.666 m/s<sup>2</sup><br />(2.005 g<sub>0</sub>)
         escape_velocity: 32.241 km/s<br />(116,068 km/h)
         rotation_period: 38.046 d
         axial_tilt: 15.88°
         albedo: 0.30
-        temperature: 765 K<br />(492 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0045 Rishauthiad C VI b
         type: Dwarf planet
         formationType: Accreted
@@ -735,14 +735,14 @@ planets:
         radius: 15,949.4 km<br/>(2.503 Yrths)
         surface_area: 3.197 × 10<sup>09</sup> km<sup>2</sup><br/>(6.267 Yrths)
         volume: 1.700 × 10<sup>13</sup> km<sup>3</sup><br/>(15.690 Yrths)
-        mass: 4.163 × 10<sup>25</sup> kg<br />(17.741463174396966 Yrths)
+        mass: 4.163 × 10<sup>25</sup> kg<br />(6.971 Yrths)
         density: 2.450 g/cm<sup>3</sup>
         surface_gravity: 10.908 m/s<sup>2</sup><br />(1.112 g<sub>0</sub>)
         escape_velocity: 18.666 km/s<br />(67,197 km/h)
         rotation_period: 40.019 d
         axial_tilt: 40.04°
         albedo: 0.30
-        temperature: 729 K<br />(456 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0045 Rishauthiad C VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -755,14 +755,14 @@ planets:
         radius: 21,213.9 km<br/>(3.330 Yrths)
         surface_area: 5.655 × 10<sup>09</sup> km<sup>2</sup><br/>(11.087 Yrths)
         volume: 3.999 × 10<sup>13</sup> km<sup>3</sup><br/>(36.918 Yrths)
-        mass: 8.842 × 10<sup>25</sup> kg<br />(17.741463174396966 Yrths)
+        mass: 8.842 × 10<sup>25</sup> kg<br />(14.806 Yrths)
         density: 2.211 g/cm<sup>3</sup>
         surface_gravity: 13.096 m/s<sup>2</sup><br />(1.335 g<sub>0</sub>)
         escape_velocity: 23.588 km/s<br />(84,916 km/h)
         rotation_period: 49.383 d
         axial_tilt: 23.03°
         albedo: 0.30
-        temperature: 695 K<br />(422 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0045 Rishauthiad C VI d
         type: Ice/rock hybrid
         formationType: Captured
@@ -775,14 +775,14 @@ planets:
         radius: 19,445.6 km<br/>(3.052 Yrths)
         surface_area: 4.752 × 10<sup>09</sup> km<sup>2</sup><br/>(9.316 Yrths)
         volume: 3.080 × 10<sup>13</sup> km<sup>3</sup><br/>(28.434 Yrths)
-        mass: 8.047 × 10<sup>25</sup> kg<br />(17.741463174396966 Yrths)
+        mass: 8.047 × 10<sup>25</sup> kg<br />(13.475 Yrths)
         density: 2.613 g/cm<sup>3</sup>
         surface_gravity: 14.184 m/s<sup>2</sup><br />(1.446 g<sub>0</sub>)
         escape_velocity: 23.503 km/s<br />(84,611 km/h)
         rotation_period: 33.431 d
         axial_tilt: 14.26°
         albedo: 0.30
-        temperature: 663 K<br />(390 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0045 Rishauthiad C VI e
         type: Icy
         formationType: Impact formed
@@ -795,14 +795,14 @@ planets:
         radius: 34,558.7 km<br/>(5.424 Yrths)
         surface_area: 1.501 × 10<sup>10</sup> km<sup>2</sup><br/>(29.424 Yrths)
         volume: 1.729 × 10<sup>14</sup> km<sup>3</sup><br/>(159.607 Yrths)
-        mass: 2.714 × 10<sup>26</sup> kg<br />(17.741463174396966 Yrths)
+        mass: 2.714 × 10<sup>26</sup> kg<br />(45.450 Yrths)
         density: 1.570 g/cm<sup>3</sup>
         surface_gravity: 15.148 m/s<sup>2</sup><br />(1.545 g<sub>0</sub>)
         escape_velocity: 32.379 km/s<br />(116,565 km/h)
         rotation_period: 60.270 d
         axial_tilt: 20.29°
         albedo: 0.30
-        temperature: 632 K<br />(359 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0045 Rishauthiad C VI f
         type: Icy
         formationType: Captured
@@ -815,14 +815,14 @@ planets:
         radius: 20,009.3 km<br/>(3.141 Yrths)
         surface_area: 5.031 × 10<sup>09</sup> km<sup>2</sup><br/>(9.864 Yrths)
         volume: 3.356 × 10<sup>13</sup> km<sup>3</sup><br/>(30.979 Yrths)
-        mass: 2.846 × 10<sup>25</sup> kg<br />(17.741463174396966 Yrths)
+        mass: 2.846 × 10<sup>25</sup> kg<br />(4.766 Yrths)
         density: 0.848 g/cm<sup>3</sup>
         surface_gravity: 4.738 m/s<sup>2</sup><br />(0.483 g<sub>0</sub>)
         escape_velocity: 13.780 km/s<br />(49,607 km/h)
         rotation_period: 96.950 d
         axial_tilt: 13.18°
         albedo: 0.30
-        temperature: 603 K<br />(329 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0045 Rishauthiad C VI g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -835,14 +835,14 @@ planets:
         radius: 19,136.3 km<br/>(3.004 Yrths)
         surface_area: 4.602 × 10<sup>09</sup> km<sup>2</sup><br/>(9.022 Yrths)
         volume: 2.935 × 10<sup>13</sup> km<sup>3</sup><br/>(27.099 Yrths)
-        mass: 7.577 × 10<sup>25</sup> kg<br />(17.741463174396966 Yrths)
+        mass: 7.577 × 10<sup>25</sup> kg<br />(12.688 Yrths)
         density: 2.581 g/cm<sup>3</sup>
         surface_gravity: 13.791 m/s<sup>2</sup><br />(1.406 g<sub>0</sub>)
         escape_velocity: 22.990 km/s<br />(82,765 km/h)
         rotation_period: 32.269 d
         axial_tilt: 21.63°
         albedo: 0.30
-        temperature: 548 K<br />(275 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0045 Rishauthiad C VI h
         type: Icy
         formationType: Captured
@@ -855,14 +855,14 @@ planets:
         radius: 32,666.2 km<br/>(5.127 Yrths)
         surface_area: 1.341 × 10<sup>10</sup> km<sup>2</sup><br/>(26.289 Yrths)
         volume: 1.460 × 10<sup>14</sup> km<sup>3</sup><br/>(134.794 Yrths)
-        mass: 1.363 × 10<sup>26</sup> kg<br />(17.741463174396966 Yrths)
+        mass: 1.363 × 10<sup>26</sup> kg<br />(22.824 Yrths)
         density: 0.934 g/cm<sup>3</sup>
         surface_gravity: 8.514 m/s<sup>2</sup><br />(0.868 g<sub>0</sub>)
         escape_velocity: 23.601 km/s<br />(84,963 km/h)
         rotation_period: 83.021 d
         axial_tilt: 24.30°
         albedo: 0.30
-        temperature: 522 K<br />(249 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0045 Rishauthiad C VI i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -875,14 +875,14 @@ planets:
         radius: 26,639.9 km<br/>(4.181 Yrths)
         surface_area: 8.918 × 10<sup>09</sup> km<sup>2</sup><br/>(17.484 Yrths)
         volume: 7.919 × 10<sup>13</sup> km<sup>3</sup><br/>(73.109 Yrths)
-        mass: 1.924 × 10<sup>26</sup> kg<br />(17.741463174396966 Yrths)
+        mass: 1.924 × 10<sup>26</sup> kg<br />(32.221 Yrths)
         density: 2.430 g/cm<sup>3</sup>
         surface_gravity: 18.072 m/s<sup>2</sup><br />(1.843 g<sub>0</sub>)
         escape_velocity: 31.051 km/s<br />(111,785 km/h)
         rotation_period: 42.627 d
         axial_tilt: 28.42°
         albedo: 0.30
-        temperature: 498 K<br />(225 °C)
+        temperature: 103 K<br />(-170 °C)
   - name: 0045 Rishauthiad C VII
     type: Large terrestrial
     aphelion: 687,520,903 km<br />4.596 AU
@@ -894,14 +894,14 @@ planets:
     radius: 9,274.0 km<br/>(1.456 Yrths)
     surface_area: 1.081 × 10<sup>09</sup> km<sup>2</sup><br/>(2.119 Yrths)
     volume: 3.341 × 10<sup>12</sup> km<sup>3</sup><br/>(3.084 Yrths)
-    mass: 2.089 × 10<sup>25</sup> kg<br />(3.4985717502850533 Yrths)
+    mass: 2.089 × 10<sup>25</sup> kg<br />(3.50 Yrths)
     density: 6.253 g/cm<sup>3</sup>
     surface_gravity: 16.192 m/s<sup>2</sup><br />(1.651 g<sub>0</sub>)
     escape_velocity: 17.342 km/s<br />(62,430 km/h)
     rotation_period: 0.682 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 106 K<br />(-167 °C)
+    temperature: 130 K<br />(-143 °C)
     surface_pressure: 175 kPa<br />(2 atm)
     composition:
       - 85.8551% methane
@@ -920,14 +920,14 @@ planets:
         radius: 6,996.3 km<br/>(1.098 Yrths)
         surface_area: 6.151 × 10<sup>08</sup> km<sup>2</sup><br/>(1.206 Yrths)
         volume: 1.434 × 10<sup>12</sup> km<sup>3</sup><br/>(1.324 Yrths)
-        mass: 3.549 × 10<sup>24</sup> kg<br />(3.4985717502850533 Yrths)
+        mass: 3.549 × 10<sup>24</sup> kg<br />(0.594 Yrths)
         density: 2.474 g/cm<sup>3</sup>
         surface_gravity: 4.832 m/s<sup>2</sup><br />(0.493 g<sub>0</sub>)
         escape_velocity: 8.229 km/s<br />(29,623 km/h)
         rotation_period: 49.787 d
         axial_tilt: 19.33°
         albedo: 0.30
-        temperature: 920 K<br />(647 °C)
+        temperature: 83 K<br />(-191 °C)
       - name: 0045 Rishauthiad C VII b
         type: Rocky
         formationType: Accreted
@@ -940,14 +940,14 @@ planets:
         radius: 3,920.6 km<br/>(0.615 Yrths)
         surface_area: 1.932 × 10<sup>08</sup> km<sup>2</sup><br/>(0.379 Yrths)
         volume: 2.524 × 10<sup>11</sup> km<sup>3</sup><br/>(0.233 Yrths)
-        mass: 8.111 × 10<sup>23</sup> kg<br />(3.4985717502850533 Yrths)
+        mass: 8.111 × 10<sup>23</sup> kg<br />(0.136 Yrths)
         density: 3.213 g/cm<sup>3</sup>
         surface_gravity: 3.517 m/s<sup>2</sup><br />(0.359 g<sub>0</sub>)
         escape_velocity: 5.255 km/s<br />(18,918 km/h)
         rotation_period: 30.145 d
         axial_tilt: 18.19°
         albedo: 0.30
-        temperature: 878 K<br />(604 °C)
+        temperature: 83 K<br />(-191 °C)
   - name: 0045 Rishauthiad C VIII
     type: Gas giant
     aphelion: 1,003,449,961 km<br />6.708 AU
@@ -959,7 +959,7 @@ planets:
     radius: 131.2 km<br/>(0.021 Yrths)
     surface_area: 2.165 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 9.470 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.653 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+    mass: 1.653 × 10<sup>26</sup> kg<br />(27.68 Yrths)
     density: 17456467.561 g/cm<sup>3</sup>
     surface_gravity: 639650.639 m/s<sup>2</sup><br />(65226.213 g<sub>0</sub>)
     escape_velocity: 410.036 km/s<br />(1,476,130 km/h)
@@ -980,14 +980,14 @@ planets:
         radius: 33,326.8 km<br/>(5.231 Yrths)
         surface_area: 1.396 × 10<sup>10</sup> km<sup>2</sup><br/>(27.363 Yrths)
         volume: 1.550 × 10<sup>14</sup> km<sup>3</sup><br/>(143.139 Yrths)
-        mass: 2.974 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 2.974 × 10<sup>26</sup> kg<br />(49.798 Yrths)
         density: 1.918 g/cm<sup>3</sup>
         surface_gravity: 17.847 m/s<sup>2</sup><br />(1.820 g<sub>0</sub>)
         escape_velocity: 34.513 km/s<br />(124,248 km/h)
         rotation_period: 63.775 d
         axial_tilt: 26.08°
         albedo: 0.30
-        temperature: 411 K<br />(138 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0045 Rishauthiad C VIII b
         type: Icy
         formationType: Accreted
@@ -1000,14 +1000,14 @@ planets:
         radius: 45,510.6 km<br/>(7.143 Yrths)
         surface_area: 2.603 × 10<sup>10</sup> km<sup>2</sup><br/>(51.028 Yrths)
         volume: 3.948 × 10<sup>14</sup> km<sup>3</sup><br/>(364.514 Yrths)
-        mass: 3.131 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 3.131 × 10<sup>26</sup> kg<br />(52.427 Yrths)
         density: 0.793 g/cm<sup>3</sup>
         surface_gravity: 10.075 m/s<sup>2</sup><br />(1.027 g<sub>0</sub>)
         escape_velocity: 30.304 km/s<br />(109,094 km/h)
         rotation_period: 57.091 d
         axial_tilt: 15.14°
         albedo: 0.30
-        temperature: 281 K<br />(8 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0045 Rishauthiad C VIII c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1020,14 +1020,14 @@ planets:
         radius: 25,586.0 km<br/>(4.016 Yrths)
         surface_area: 8.226 × 10<sup>09</sup> km<sup>2</sup><br/>(16.128 Yrths)
         volume: 7.016 × 10<sup>13</sup> km<sup>3</sup><br/>(64.771 Yrths)
-        mass: 1.507 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 1.507 × 10<sup>26</sup> kg<br />(25.230 Yrths)
         density: 2.148 g/cm<sup>3</sup>
         surface_gravity: 15.341 m/s<sup>2</sup><br />(1.564 g<sub>0</sub>)
         escape_velocity: 28.037 km/s<br />(100,934 km/h)
         rotation_period: 40.192 d
         axial_tilt: 11.11°
         albedo: 0.30
-        temperature: 192 K<br />(-81 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0045 Rishauthiad C VIII d
         type: Rocky
         formationType: Accreted
@@ -1040,14 +1040,14 @@ planets:
         radius: 40,064.3 km<br/>(6.289 Yrths)
         surface_area: 2.017 × 10<sup>10</sup> km<sup>2</sup><br/>(39.546 Yrths)
         volume: 2.694 × 10<sup>14</sup> km<sup>3</sup><br/>(248.685 Yrths)
-        mass: 6.805 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 6.805 × 10<sup>26</sup> kg<br />(113.951 Yrths)
         density: 2.526 g/cm<sup>3</sup>
         surface_gravity: 28.258 m/s<sup>2</sup><br />(2.881 g<sub>0</sub>)
         escape_velocity: 47.617 km/s<br />(171,420 km/h)
         rotation_period: 40.106 d
         axial_tilt: 13.57°
         albedo: 0.30
-        temperature: 144 K<br />(-129 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0045 Rishauthiad C VIII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1060,14 +1060,14 @@ planets:
         radius: 27,781.4 km<br/>(4.361 Yrths)
         surface_area: 9.699 × 10<sup>09</sup> km<sup>2</sup><br/>(19.015 Yrths)
         volume: 8.982 × 10<sup>13</sup> km<sup>3</sup><br/>(82.916 Yrths)
-        mass: 1.813 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 1.813 × 10<sup>26</sup> kg<br />(30.359 Yrths)
         density: 2.019 g/cm<sup>3</sup>
         surface_gravity: 15.657 m/s<sup>2</sup><br />(1.597 g<sub>0</sub>)
         escape_velocity: 29.515 km/s<br />(106,254 km/h)
         rotation_period: 35.724 d
         axial_tilt: 25.61°
         albedo: 0.30
-        temperature: 94 K<br />(-179 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0045 Rishauthiad C VIII f
         type: Icy
         formationType: Accreted
@@ -1080,14 +1080,14 @@ planets:
         radius: 32,580.5 km<br/>(5.114 Yrths)
         surface_area: 1.334 × 10<sup>10</sup> km<sup>2</sup><br/>(26.152 Yrths)
         volume: 1.449 × 10<sup>14</sup> km<sup>3</sup><br/>(133.737 Yrths)
-        mass: 2.315 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 2.315 × 10<sup>26</sup> kg<br />(38.765 Yrths)
         density: 1.598 g/cm<sup>3</sup>
         surface_gravity: 14.536 m/s<sup>2</sup><br />(1.482 g<sub>0</sub>)
         escape_velocity: 30.798 km/s<br />(110,871 km/h)
         rotation_period: 72.073 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 56 K<br />(-218 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0045 Rishauthiad C VIII g
         type: Ice/rock hybrid
         formationType: Captured
@@ -1100,14 +1100,14 @@ planets:
         radius: 29,201.6 km<br/>(4.584 Yrths)
         surface_area: 1.072 × 10<sup>10</sup> km<sup>2</sup><br/>(21.009 Yrths)
         volume: 1.043 × 10<sup>14</sup> km<sup>3</sup><br/>(96.294 Yrths)
-        mass: 2.002 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 2.002 × 10<sup>26</sup> kg<br />(33.522 Yrths)
         density: 1.919 g/cm<sup>3</sup>
         surface_gravity: 15.648 m/s<sup>2</sup><br />(1.596 g<sub>0</sub>)
         escape_velocity: 30.251 km/s<br />(108,904 km/h)
         rotation_period: 53.609 d
         axial_tilt: 15.37°
         albedo: 0.30
-        temperature: 33 K<br />(-240 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0045 Rishauthiad C VIII h
         type: Icy
         formationType: Captured
@@ -1120,14 +1120,14 @@ planets:
         radius: 29,932.0 km<br/>(4.698 Yrths)
         surface_area: 1.126 × 10<sup>10</sup> km<sup>2</sup><br/>(22.073 Yrths)
         volume: 1.123 × 10<sup>14</sup> km<sup>3</sup><br/>(103.701 Yrths)
-        mass: 1.802 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 1.802 × 10<sup>26</sup> kg<br />(30.174 Yrths)
         density: 1.604 g/cm<sup>3</sup>
         surface_gravity: 13.406 m/s<sup>2</sup><br />(1.367 g<sub>0</sub>)
         escape_velocity: 28.348 km/s<br />(102,054 km/h)
         rotation_period: 45.796 d
         axial_tilt: 12.39°
         albedo: 0.30
-        temperature: 28 K<br />(-245 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0045 Rishauthiad C VIII i
         type: Icy
         formationType: Captured
@@ -1140,14 +1140,14 @@ planets:
         radius: 43,888.9 km<br/>(6.889 Yrths)
         surface_area: 2.421 × 10<sup>10</sup> km<sup>2</sup><br/>(47.456 Yrths)
         volume: 3.541 × 10<sup>14</sup> km<sup>3</sup><br/>(326.921 Yrths)
-        mass: 4.082 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 4.082 × 10<sup>26</sup> kg<br />(68.351 Yrths)
         density: 1.153 g/cm<sup>3</sup>
         surface_gravity: 14.124 m/s<sup>2</sup><br />(1.440 g<sub>0</sub>)
         escape_velocity: 35.235 km/s<br />(126,846 km/h)
         rotation_period: 72.620 d
         axial_tilt: 9.37°
         albedo: 0.30
-        temperature: 19 K<br />(-255 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0045 Rishauthiad C VIII j
         type: Icy
         formationType: Captured
@@ -1160,12 +1160,12 @@ planets:
         radius: 29,993.4 km<br/>(4.708 Yrths)
         surface_area: 1.130 × 10<sup>10</sup> km<sup>2</sup><br/>(22.163 Yrths)
         volume: 1.130 × 10<sup>14</sup> km<sup>3</sup><br/>(104.340 Yrths)
-        mass: 1.735 × 10<sup>26</sup> kg<br />(27.680281732789116 Yrths)
+        mass: 1.735 × 10<sup>26</sup> kg<br />(29.049 Yrths)
         density: 1.535 g/cm<sup>3</sup>
         surface_gravity: 12.853 m/s<sup>2</sup><br />(1.311 g<sub>0</sub>)
         escape_velocity: 27.786 km/s<br />(100,031 km/h)
         rotation_period: 51.012 d
         axial_tilt: 20.72°
         albedo: 0.30
-        temperature: 10 K<br />(-263 °C)
+        temperature: 66 K<br />(-207 °C)
 ---

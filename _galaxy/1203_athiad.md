@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1203 Athiad is a star in the constellation Ath
+      1203 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 351.82 ly
 apparent_magnitude: 10.19
 absolute_magnitude: 5.02

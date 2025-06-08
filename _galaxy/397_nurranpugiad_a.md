@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      397 Nurranpugiad A is a star in the constellation Nurranpug
+      397 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 491.40 ly
 apparent_magnitude: 7.66
 absolute_magnitude: 1.77

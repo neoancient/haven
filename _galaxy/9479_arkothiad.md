@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9479 Arkothiad is a star in the constellation Arkoth
+      9479 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 484.94 ly
 apparent_magnitude: 11.38
 absolute_magnitude: 5.52

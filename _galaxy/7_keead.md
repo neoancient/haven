@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7 Keead is a star in the constellation Kee
+      7 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 158.41 ly
 apparent_magnitude: 16.52
 absolute_magnitude: 13.09

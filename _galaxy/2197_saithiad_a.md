@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2197 Saithiad A is a star in the constellation Saith
+      2197 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 301.86 ly
 apparent_magnitude: 7.42
 absolute_magnitude: 2.58

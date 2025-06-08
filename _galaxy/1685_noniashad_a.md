@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1685 Noniashad A is a star in the constellation Nonias
+      1685 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 624.86 ly
 apparent_magnitude: 7.07
 absolute_magnitude: 0.66

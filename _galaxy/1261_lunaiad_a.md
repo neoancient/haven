@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1261 Lunaiad A is a star in the constellation Luna
+      1261 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 490.20 ly
 apparent_magnitude: 6.80
 absolute_magnitude: 0.91

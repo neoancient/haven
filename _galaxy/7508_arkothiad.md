@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7508 Arkothiad is a star in the constellation Arkoth
+      7508 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 792.13 ly
 apparent_magnitude: 11.27
 absolute_magnitude: 4.34

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10019 Arkothiad is a star in the constellation Arkoth
+      10019 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 197.23 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 6.37

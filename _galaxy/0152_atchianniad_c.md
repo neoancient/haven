@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0152 Atchianniad C is a star in the constellation Atchian
+      0152 Atchianniad C is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 330.33 ly
 apparent_magnitude: 16.08
 absolute_magnitude: 11.05
@@ -31,14 +31,14 @@ planets:
     radius: 3,860.0 km<br/>(0.606 Yrths)
     surface_area: 1.872 × 10<sup>08</sup> km<sup>2</sup><br/>(0.367 Yrths)
     volume: 2.409 × 10<sup>11</sup> km<sup>3</sup><br/>(0.222 Yrths)
-    mass: 1.588 × 10<sup>25</sup> kg<br />(2.658905852293332 Yrths)
+    mass: 1.588 × 10<sup>25</sup> kg<br />(2.66 Yrths)
     density: 65.916 g/cm<sup>3</sup>
     surface_gravity: 71.035 m/s<sup>2</sup><br />(7.244 g<sub>0</sub>)
     escape_velocity: 23.434 km/s<br />(84,361 km/h)
     rotation_period: 3.643 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 390 K<br />(117 °C)
+    temperature: 357 K<br />(84 °C)
     composition:
       - 98.8646% hydrogen
       - 1.1354% carbon dioxide
@@ -55,14 +55,14 @@ planets:
         radius: 5,403.4 km<br/>(0.848 Yrths)
         surface_area: 3.669 × 10<sup>08</sup> km<sup>2</sup><br/>(0.719 Yrths)
         volume: 6.608 × 10<sup>11</sup> km<sup>3</sup><br/>(0.610 Yrths)
-        mass: 2.069 × 10<sup>24</sup> kg<br />(2.658905852293332 Yrths)
+        mass: 2.069 × 10<sup>24</sup> kg<br />(0.346 Yrths)
         density: 3.131 g/cm<sup>3</sup>
         surface_gravity: 4.723 m/s<sup>2</sup><br />(0.482 g<sub>0</sub>)
         escape_velocity: 7.149 km/s<br />(25,737 km/h)
         rotation_period: 46.209 d
         axial_tilt: 12.32°
         albedo: 0.30
-        temperature: 2483 K<br />(2210 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0152 Atchianniad C I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -75,14 +75,14 @@ planets:
         radius: 1,167.5 km<br/>(0.183 Yrths)
         surface_area: 1.713 × 10<sup>07</sup> km<sup>2</sup><br/>(0.034 Yrths)
         volume: 6.667 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.686 × 10<sup>22</sup> kg<br />(2.658905852293332 Yrths)
+        mass: 1.686 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.530 g/cm<sup>3</sup>
         surface_gravity: 0.825 m/s<sup>2</sup><br />(0.084 g<sub>0</sub>)
         escape_velocity: 1.389 km/s<br />(4,999 km/h)
         rotation_period: 36.972 d
         axial_tilt: 23.58°
         albedo: 0.30
-        temperature: 2367 K<br />(2094 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0152 Atchianniad C I c
         type: Rocky
         formationType: Captured
@@ -95,14 +95,14 @@ planets:
         radius: 2,065.8 km<br/>(0.324 Yrths)
         surface_area: 5.363 × 10<sup>07</sup> km<sup>2</sup><br/>(0.105 Yrths)
         volume: 3.693 × 10<sup>10</sup> km<sup>3</sup><br/>(0.034 Yrths)
-        mass: 1.070 × 10<sup>23</sup> kg<br />(2.658905852293332 Yrths)
+        mass: 1.070 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 2.897 g/cm<sup>3</sup>
         surface_gravity: 1.671 m/s<sup>2</sup><br />(0.170 g<sub>0</sub>)
         escape_velocity: 2.629 km/s<br />(9,466 km/h)
         rotation_period: 49.918 d
         axial_tilt: 14.47°
         albedo: 0.30
-        temperature: 2257 K<br />(1984 °C)
+        temperature: 255 K<br />(-18 °C)
   - name: 0152 Atchianniad C II
     type: Gas dwarf
     aphelion: 43,325,795 km<br />0.290 AU
@@ -114,14 +114,14 @@ planets:
     radius: 4,117.0 km<br/>(0.646 Yrths)
     surface_area: 2.130 × 10<sup>08</sup> km<sup>2</sup><br/>(0.418 Yrths)
     volume: 2.923 × 10<sup>11</sup> km<sup>3</sup><br/>(0.270 Yrths)
-    mass: 3.294 × 10<sup>25</sup> kg<br />(5.5157739349839865 Yrths)
+    mass: 3.294 × 10<sup>25</sup> kg<br />(5.52 Yrths)
     density: 112.696 g/cm<sup>3</sup>
     surface_gravity: 129.536 m/s<sup>2</sup><br />(13.209 g<sub>0</sub>)
     escape_velocity: 32.681 km/s<br />(117,651 km/h)
     rotation_period: 2.331 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 314 K<br />(41 °C)
+    temperature: 278 K<br />(5 °C)
     composition:
       - 68.4296% helium
       - 31.5704% hydrogen
@@ -138,14 +138,14 @@ planets:
         radius: 6,294.7 km<br/>(0.988 Yrths)
         surface_area: 4.979 × 10<sup>08</sup> km<sup>2</sup><br/>(0.976 Yrths)
         volume: 1.045 × 10<sup>12</sup> km<sup>3</sup><br/>(0.964 Yrths)
-        mass: 2.634 × 10<sup>24</sup> kg<br />(5.5157739349839865 Yrths)
+        mass: 2.634 × 10<sup>24</sup> kg<br />(0.441 Yrths)
         density: 2.521 g/cm<sup>3</sup>
         surface_gravity: 4.431 m/s<sup>2</sup><br />(0.452 g<sub>0</sub>)
         escape_velocity: 7.474 km/s<br />(26,906 km/h)
         rotation_period: 54.486 d
         axial_tilt: 28.40°
         albedo: 0.30
-        temperature: 1782 K<br />(1509 °C)
+        temperature: 208 K<br />(-65 °C)
       - name: 0152 Atchianniad C II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -158,14 +158,14 @@ planets:
         radius: 10,978.4 km<br/>(1.723 Yrths)
         surface_area: 1.515 × 10<sup>09</sup> km<sup>2</sup><br/>(2.969 Yrths)
         volume: 5.542 × 10<sup>12</sup> km<sup>3</sup><br/>(5.117 Yrths)
-        mass: 1.065 × 10<sup>25</sup> kg<br />(5.5157739349839865 Yrths)
+        mass: 1.065 × 10<sup>25</sup> kg<br />(1.783 Yrths)
         density: 1.921 g/cm<sup>3</sup>
         surface_gravity: 5.888 m/s<sup>2</sup><br />(0.600 g<sub>0</sub>)
         escape_velocity: 11.378 km/s<br />(40,960 km/h)
         rotation_period: 37.370 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 1699 K<br />(1426 °C)
+        temperature: 208 K<br />(-65 °C)
       - name: 0152 Atchianniad C II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 3,400.9 km<br/>(0.534 Yrths)
         surface_area: 1.453 × 10<sup>08</sup> km<sup>2</sup><br/>(0.285 Yrths)
         volume: 1.648 × 10<sup>11</sup> km<sup>3</sup><br/>(0.152 Yrths)
-        mass: 4.545 × 10<sup>23</sup> kg<br />(5.5157739349839865 Yrths)
+        mass: 4.545 × 10<sup>23</sup> kg<br />(0.076 Yrths)
         density: 2.758 g/cm<sup>3</sup>
         surface_gravity: 2.619 m/s<sup>2</sup><br />(0.267 g<sub>0</sub>)
         escape_velocity: 4.224 km/s<br />(15,205 km/h)
         rotation_period: 32.239 d
         axial_tilt: 25.97°
         albedo: 0.30
-        temperature: 1620 K<br />(1347 °C)
+        temperature: 208 K<br />(-65 °C)
       - name: 0152 Atchianniad C II d
         type: Asteroid
         formationType: Captured
@@ -198,12 +198,12 @@ planets:
         radius: 7,759.2 km<br/>(1.218 Yrths)
         surface_area: 7.566 × 10<sup>08</sup> km<sup>2</sup><br/>(1.483 Yrths)
         volume: 1.957 × 10<sup>12</sup> km<sup>3</sup><br/>(1.806 Yrths)
-        mass: 7.240 × 10<sup>24</sup> kg<br />(5.5157739349839865 Yrths)
+        mass: 7.240 × 10<sup>24</sup> kg<br />(1.212 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 8.015 m/s<sup>2</sup><br />(0.817 g<sub>0</sub>)
         escape_velocity: 11.160 km/s<br />(40,177 km/h)
         rotation_period: 25.832 d
         axial_tilt: 11.87°
         albedo: 0.30
-        temperature: 1545 K<br />(1272 °C)
+        temperature: 208 K<br />(-65 °C)
 ---

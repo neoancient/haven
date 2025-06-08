@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1499 Narashiad is a star in the constellation Naras
+      1499 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 368.63 ly
 apparent_magnitude: 9.62
 absolute_magnitude: 4.35

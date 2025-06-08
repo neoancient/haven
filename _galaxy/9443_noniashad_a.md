@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9443 Noniashad A is a star in the constellation Nonias
+      9443 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 409.66 ly
 apparent_magnitude: 8.41
 absolute_magnitude: 2.91

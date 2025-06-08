@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8843 Arkothiad is a star in the constellation Arkoth
+      8843 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 251.96 ly
 apparent_magnitude: 9.22
 absolute_magnitude: 4.78

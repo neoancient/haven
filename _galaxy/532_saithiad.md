@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      532 Saithiad is a star in the constellation Saith
+      532 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 2190.05 ly
 apparent_magnitude: 18.08
 absolute_magnitude: 8.94

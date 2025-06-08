@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2330 Lunaiad is a star in the constellation Luna
+      2330 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 360.71 ly
 apparent_magnitude: 10.17
 absolute_magnitude: 4.95

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8783 Tanashad A is a star in the constellation Tanas
+      8783 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1125.11 ly
 apparent_magnitude: 6.88
 absolute_magnitude: -0.81

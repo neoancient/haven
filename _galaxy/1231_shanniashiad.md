@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1231 Shanniashiad is a star in the constellation Shannias
+      1231 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 828.11 ly
 apparent_magnitude: 11.44
 absolute_magnitude: 4.42

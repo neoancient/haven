@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      λ Derriathiad A is a star in the constellation Derriath
+      λ Derriathiad A is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 289.72 ly
 apparent_magnitude: 4.19
 absolute_magnitude: -0.55

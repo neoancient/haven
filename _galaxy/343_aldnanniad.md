@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      343 Aldnanniad is a star in the constellation Aldnan
+      343 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 393.59 ly
 apparent_magnitude: 11.90
 absolute_magnitude: 6.50

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2653 Saithiad A is a star in the constellation Saith
+      2653 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1112.44 ly
 apparent_magnitude: 6.52
 absolute_magnitude: -1.15

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Farol A is a star in the constellation Niunio
+      Farol A is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 82.59 ly
 apparent_magnitude: 2.55
 absolute_magnitude: 0.53

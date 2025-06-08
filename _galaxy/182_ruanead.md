@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      182 Ruanead is a star in the constellation Ruane
+      182 Ruanead is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 280.74 ly
 apparent_magnitude: 10.43
 absolute_magnitude: 5.76

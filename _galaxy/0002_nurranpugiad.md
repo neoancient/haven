@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Nurranpugiad is a star in the constellation Nurranpug
+      0002 Nurranpugiad is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 385.17 ly
 apparent_magnitude: 4.99
 absolute_magnitude: -0.37
@@ -31,14 +31,14 @@ planets:
     radius: 27,297.9 km<br/>(4.285 Yrths)
     surface_area: 9.364 × 10<sup>09</sup> km<sup>2</sup><br/>(18.359 Yrths)
     volume: 8.521 × 10<sup>13</sup> km<sup>3</sup><br/>(78.662 Yrths)
-    mass: 1.248 × 10<sup>26</sup> kg<br />(20.895373436602654 Yrths)
+    mass: 1.248 × 10<sup>26</sup> kg<br />(20.90 Yrths)
     density: 1.465 g/cm<sup>3</sup>
     surface_gravity: 11.162 m/s<sup>2</sup><br />(1.138 g<sub>0</sub>)
     escape_velocity: 24.702 km/s<br />(88,928 km/h)
     rotation_period: 0.359 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 1200 K<br />(927 °C)
+    temperature: 1101 K<br />(828 °C)
     composition:
       - 52.1490% hydrogen
       - 45.2129% helium
@@ -59,14 +59,14 @@ planets:
         radius: 13,273.1 km<br/>(2.083 Yrths)
         surface_area: 2.214 × 10<sup>09</sup> km<sup>2</sup><br/>(4.340 Yrths)
         volume: 9.795 × 10<sup>12</sup> km<sup>3</sup><br/>(9.043 Yrths)
-        mass: 2.743 × 10<sup>25</sup> kg<br />(20.895373436602654 Yrths)
+        mass: 2.743 × 10<sup>25</sup> kg<br />(4.592 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 10.376 m/s<sup>2</sup><br />(1.058 g<sub>0</sub>)
         escape_velocity: 16.608 km/s<br />(59,788 km/h)
         rotation_period: 46.361 d
         axial_tilt: 11.00°
         albedo: 0.30
-        temperature: 5321 K<br />(5048 °C)
+        temperature: 590 K<br />(317 °C)
       - name: 0002 Nurranpugiad I b
         type: Asteroid
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 17,368.4 km<br/>(2.726 Yrths)
         surface_area: 3.791 × 10<sup>09</sup> km<sup>2</sup><br/>(7.432 Yrths)
         volume: 2.195 × 10<sup>13</sup> km<sup>3</sup><br/>(20.261 Yrths)
-        mass: 4.540 × 10<sup>25</sup> kg<br />(20.895373436602654 Yrths)
+        mass: 4.540 × 10<sup>25</sup> kg<br />(7.602 Yrths)
         density: 2.069 g/cm<sup>3</sup>
         surface_gravity: 10.031 m/s<sup>2</sup><br />(1.023 g<sub>0</sub>)
         escape_velocity: 18.680 km/s<br />(67,247 km/h)
         rotation_period: 62.996 d
         axial_tilt: 59.14°
         albedo: 0.30
-        temperature: 5073 K<br />(4800 °C)
+        temperature: 590 K<br />(317 °C)
       - name: 0002 Nurranpugiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 18,344.4 km<br/>(2.879 Yrths)
         surface_area: 4.229 × 10<sup>09</sup> km<sup>2</sup><br/>(8.291 Yrths)
         volume: 2.586 × 10<sup>13</sup> km<sup>3</sup><br/>(23.872 Yrths)
-        mass: 5.837 × 10<sup>25</sup> kg<br />(20.895373436602654 Yrths)
+        mass: 5.837 × 10<sup>25</sup> kg<br />(9.775 Yrths)
         density: 2.257 g/cm<sup>3</sup>
         surface_gravity: 11.562 m/s<sup>2</sup><br />(1.179 g<sub>0</sub>)
         escape_velocity: 20.610 km/s<br />(74,196 km/h)
         rotation_period: 34.201 d
         axial_tilt: 22.77°
         albedo: 0.30
-        temperature: 4837 K<br />(4564 °C)
+        temperature: 590 K<br />(317 °C)
       - name: 0002 Nurranpugiad I d
         type: Icy
         formationType: Accreted
@@ -119,14 +119,14 @@ planets:
         radius: 21,823.5 km<br/>(3.425 Yrths)
         surface_area: 5.985 × 10<sup>09</sup> km<sup>2</sup><br/>(11.734 Yrths)
         volume: 4.354 × 10<sup>13</sup> km<sup>3</sup><br/>(40.193 Yrths)
-        mass: 6.420 × 10<sup>25</sup> kg<br />(20.895373436602654 Yrths)
+        mass: 6.420 × 10<sup>25</sup> kg<br />(10.750 Yrths)
         density: 1.475 g/cm<sup>3</sup>
         surface_gravity: 8.985 m/s<sup>2</sup><br />(0.916 g<sub>0</sub>)
         escape_velocity: 19.817 km/s<br />(71,340 km/h)
         rotation_period: 50.991 d
         axial_tilt: 18.48°
         albedo: 0.30
-        temperature: 4397 K<br />(4124 °C)
+        temperature: 590 K<br />(317 °C)
       - name: 0002 Nurranpugiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 22,598.1 km<br/>(3.547 Yrths)
         surface_area: 6.417 × 10<sup>09</sup> km<sup>2</sup><br/>(12.581 Yrths)
         volume: 4.834 × 10<sup>13</sup> km<sup>3</sup><br/>(44.626 Yrths)
-        mass: 1.039 × 10<sup>26</sup> kg<br />(20.895373436602654 Yrths)
+        mass: 1.039 × 10<sup>26</sup> kg<br />(17.393 Yrths)
         density: 2.149 g/cm<sup>3</sup>
         surface_gravity: 13.557 m/s<sup>2</sup><br />(1.382 g<sub>0</sub>)
         escape_velocity: 24.770 km/s<br />(89,172 km/h)
         rotation_period: 53.814 d
         axial_tilt: 20.02°
         albedo: 0.30
-        temperature: 3998 K<br />(3724 °C)
+        temperature: 590 K<br />(317 °C)
       - name: 0002 Nurranpugiad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -159,14 +159,14 @@ planets:
         radius: 18,484.6 km<br/>(2.901 Yrths)
         surface_area: 4.294 × 10<sup>09</sup> km<sup>2</sup><br/>(8.418 Yrths)
         volume: 2.646 × 10<sup>13</sup> km<sup>3</sup><br/>(24.424 Yrths)
-        mass: 5.536 × 10<sup>25</sup> kg<br />(20.895373436602654 Yrths)
+        mass: 5.536 × 10<sup>25</sup> kg<br />(9.269 Yrths)
         density: 2.092 g/cm<sup>3</sup>
         surface_gravity: 10.799 m/s<sup>2</sup><br />(1.101 g<sub>0</sub>)
         escape_velocity: 19.994 km/s<br />(71,978 km/h)
         rotation_period: 49.113 d
         axial_tilt: 31.15°
         albedo: 0.30
-        temperature: 3634 K<br />(3361 °C)
+        temperature: 590 K<br />(317 °C)
       - name: 0002 Nurranpugiad I g
         type: Icy
         formationType: Impact formed
@@ -179,14 +179,14 @@ planets:
         radius: 23,794.9 km<br/>(3.735 Yrths)
         surface_area: 7.115 × 10<sup>09</sup> km<sup>2</sup><br/>(13.949 Yrths)
         volume: 5.643 × 10<sup>13</sup> km<sup>3</sup><br/>(52.099 Yrths)
-        mass: 5.683 × 10<sup>25</sup> kg<br />(20.895373436602654 Yrths)
+        mass: 5.683 × 10<sup>25</sup> kg<br />(9.516 Yrths)
         density: 1.007 g/cm<sup>3</sup>
         surface_gravity: 6.690 m/s<sup>2</sup><br />(0.682 g<sub>0</sub>)
         escape_velocity: 17.855 km/s<br />(64,279 km/h)
         rotation_period: 65.287 d
         axial_tilt: 17.65°
         albedo: 0.30
-        temperature: 3304 K<br />(3031 °C)
+        temperature: 590 K<br />(317 °C)
       - name: 0002 Nurranpugiad I h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -199,14 +199,14 @@ planets:
         radius: 16,355.6 km<br/>(2.567 Yrths)
         surface_area: 3.362 × 10<sup>09</sup> km<sup>2</sup><br/>(6.590 Yrths)
         volume: 1.833 × 10<sup>13</sup> km<sup>3</sup><br/>(16.919 Yrths)
-        mass: 3.560 × 10<sup>25</sup> kg<br />(20.895373436602654 Yrths)
+        mass: 3.560 × 10<sup>25</sup> kg<br />(5.962 Yrths)
         density: 1.943 g/cm<sup>3</sup>
         surface_gravity: 8.871 m/s<sup>2</sup><br />(0.905 g<sub>0</sub>)
         escape_velocity: 17.046 km/s<br />(61,367 km/h)
         rotation_period: 39.317 d
         axial_tilt: 17.92°
         albedo: 0.30
-        temperature: 3150 K<br />(2877 °C)
+        temperature: 590 K<br />(317 °C)
       - name: 0002 Nurranpugiad I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -219,12 +219,12 @@ planets:
         radius: 17,059.6 km<br/>(2.678 Yrths)
         surface_area: 3.657 × 10<sup>09</sup> km<sup>2</sup><br/>(7.170 Yrths)
         volume: 2.080 × 10<sup>13</sup> km<sup>3</sup><br/>(19.199 Yrths)
-        mass: 4.040 × 10<sup>25</sup> kg<br />(20.895373436602654 Yrths)
+        mass: 4.040 × 10<sup>25</sup> kg<br />(6.766 Yrths)
         density: 1.943 g/cm<sup>3</sup>
         surface_gravity: 9.254 m/s<sup>2</sup><br />(0.944 g<sub>0</sub>)
         escape_velocity: 17.781 km/s<br />(64,010 km/h)
         rotation_period: 49.504 d
         axial_tilt: 25.61°
         albedo: 0.30
-        temperature: 3003 K<br />(2730 °C)
+        temperature: 590 K<br />(317 °C)
 ---

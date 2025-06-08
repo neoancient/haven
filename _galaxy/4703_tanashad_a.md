@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4703 Tanashad A is a star in the constellation Tanas
+      4703 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1001.29 ly
 apparent_magnitude: 6.98
 absolute_magnitude: -0.46

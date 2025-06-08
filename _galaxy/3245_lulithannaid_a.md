@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3245 Lulithannaid A is a star in the constellation Lulithan
+      3245 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 427.37 ly
 apparent_magnitude: 7.71
 absolute_magnitude: 2.12

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Anasoiad A is a star in the constellation Anaso
+      0024 Anasoiad A is a star in the constellation <a href="anaso.html">Anaso</a>
 distance: 2714.97 ly
 apparent_magnitude: 6.34
 absolute_magnitude: -3.26

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0029 Naddiad D is a star in the constellation Naddi
+      0029 Naddiad D is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 68.55 ly
 apparent_magnitude: 7.97
 absolute_magnitude: 6.35
@@ -31,14 +31,14 @@ planets:
     radius: 2,822.2 km<br/>(0.443 Yrths)
     surface_area: 1.001 × 10<sup>08</sup> km<sup>2</sup><br/>(0.196 Yrths)
     volume: 9.416 × 10<sup>10</sup> km<sup>3</sup><br/>(0.087 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.343 g/cm<sup>3</sup>
     surface_gravity: 4.998 m/s<sup>2</sup><br />(0.510 g<sub>0</sub>)
     escape_velocity: 5.315 km/s<br />(19,133 km/h)
     rotation_period: 2.412 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 411 K<br />(137 °C)
+    temperature: 625 K<br />(352 °C)
     surface_pressure: 101 kPa<br />(1 atm)
     composition:
       - 71.0182% methane
@@ -56,14 +56,14 @@ planets:
     radius: 6,258.2 km<br/>(0.982 Yrths)
     surface_area: 4.922 × 10<sup>08</sup> km<sup>2</sup><br/>(0.965 Yrths)
     volume: 1.027 × 10<sup>12</sup> km<sup>3</sup><br/>(0.948 Yrths)
-    mass: 5.233 × 10<sup>24</sup> kg<br />(0.8763284687512827 Yrths)
+    mass: 5.233 × 10<sup>24</sup> kg<br />(0.88 Yrths)
     density: 5.097 g/cm<sup>3</sup>
     surface_gravity: 8.907 m/s<sup>2</sup><br />(0.908 g<sub>0</sub>)
     escape_velocity: 10.565 km/s<br />(38,036 km/h)
     rotation_period: 1.451 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 279 K<br />(6 °C)
+    temperature: 350 K<br />(77 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 84.4309% nitrogen
@@ -82,14 +82,14 @@ planets:
         radius: 2,225.5 km<br/>(0.349 Yrths)
         surface_area: 6.224 × 10<sup>07</sup> km<sup>2</sup><br/>(0.122 Yrths)
         volume: 4.617 × 10<sup>10</sup> km<sup>3</sup><br/>(0.043 Yrths)
-        mass: 1.284 × 10<sup>23</sup> kg<br />(0.8763284687512827 Yrths)
+        mass: 1.284 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 2.781 g/cm<sup>3</sup>
         surface_gravity: 1.728 m/s<sup>2</sup><br />(0.176 g<sub>0</sub>)
         escape_velocity: 2.775 km/s<br />(9,990 km/h)
         rotation_period: 32.930 d
         axial_tilt: 50.57°
         albedo: 0.30
-        temperature: 3518 K<br />(3244 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: 0029 Naddiad D III
     type: Terrestrial
     aphelion: 163,860,445 km<br />1.095 AU
@@ -101,14 +101,14 @@ planets:
     radius: 4,656.9 km<br/>(0.731 Yrths)
     surface_area: 2.725 × 10<sup>08</sup> km<sup>2</sup><br/>(0.534 Yrths)
     volume: 4.230 × 10<sup>11</sup> km<sup>3</sup><br/>(0.391 Yrths)
-    mass: 2.430 × 10<sup>24</sup> kg<br />(0.4068535418417937 Yrths)
+    mass: 2.430 × 10<sup>24</sup> kg<br />(0.41 Yrths)
     density: 5.744 g/cm<sup>3</sup>
     surface_gravity: 7.468 m/s<sup>2</sup><br />(0.761 g<sub>0</sub>)
     escape_velocity: 8.345 km/s<br />(30,044 km/h)
     rotation_period: 1.525 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 215 K<br />(-58 °C)
+    temperature: 253 K<br />(-20 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 56.8676% nitrogen
@@ -129,14 +129,14 @@ planets:
         radius: 1,607.3 km<br/>(0.252 Yrths)
         surface_area: 3.246 × 10<sup>07</sup> km<sup>2</sup><br/>(0.064 Yrths)
         volume: 1.739 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
-        mass: 5.139 × 10<sup>22</sup> kg<br />(0.4068535418417937 Yrths)
+        mass: 5.139 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 2.954 g/cm<sup>3</sup>
         surface_gravity: 1.326 m/s<sup>2</sup><br />(0.135 g<sub>0</sub>)
         escape_velocity: 2.066 km/s<br />(7,437 km/h)
         rotation_period: 37.009 d
         axial_tilt: 20.57°
         albedo: 0.30
-        temperature: 3077 K<br />(2803 °C)
+        temperature: 195 K<br />(-78 °C)
   - name: 0029 Naddiad D IV
     type: Gas dwarf
     aphelion: 256,923,041 km<br />1.717 AU
@@ -148,14 +148,14 @@ planets:
     radius: 17,385.8 km<br/>(2.729 Yrths)
     surface_area: 3.798 × 10<sup>09</sup> km<sup>2</sup><br/>(7.447 Yrths)
     volume: 2.201 × 10<sup>13</sup> km<sup>3</sup><br/>(20.322 Yrths)
-    mass: 5.011 × 10<sup>25</sup> kg<br />(8.390411380561014 Yrths)
+    mass: 5.011 × 10<sup>25</sup> kg<br />(8.39 Yrths)
     density: 2.276 g/cm<sup>3</sup>
     surface_gravity: 11.049 m/s<sup>2</sup><br />(1.127 g<sub>0</sub>)
     escape_velocity: 19.614 km/s<br />(70,611 km/h)
     rotation_period: 0.494 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 210 K<br />(-63 °C)
+    temperature: 191 K<br />(-82 °C)
     composition:
       - 75.5144% hydrogen
       - 22.1620% helium
@@ -174,14 +174,14 @@ planets:
         radius: 7,057.9 km<br/>(1.108 Yrths)
         surface_area: 6.260 × 10<sup>08</sup> km<sup>2</sup><br/>(1.227 Yrths)
         volume: 1.473 × 10<sup>12</sup> km<sup>3</sup><br/>(1.360 Yrths)
-        mass: 1.647 × 10<sup>24</sup> kg<br />(8.390411380561014 Yrths)
+        mass: 1.647 × 10<sup>24</sup> kg<br />(0.276 Yrths)
         density: 1.118 g/cm<sup>3</sup>
         surface_gravity: 2.204 m/s<sup>2</sup><br />(0.225 g<sub>0</sub>)
         escape_velocity: 5.581 km/s<br />(20,093 km/h)
         rotation_period: 61.300 d
         axial_tilt: 14.72°
         albedo: 0.30
-        temperature: 1426 K<br />(1153 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 0029 Naddiad D IV b
         type: Icy
         formationType: Impact formed
@@ -194,14 +194,14 @@ planets:
         radius: 20,005.8 km<br/>(3.140 Yrths)
         surface_area: 5.029 × 10<sup>09</sup> km<sup>2</sup><br/>(9.860 Yrths)
         volume: 3.354 × 10<sup>13</sup> km<sup>3</sup><br/>(30.963 Yrths)
-        mass: 5.677 × 10<sup>25</sup> kg<br />(8.390411380561014 Yrths)
+        mass: 5.677 × 10<sup>25</sup> kg<br />(9.505 Yrths)
         density: 1.692 g/cm<sup>3</sup>
         surface_gravity: 9.453 m/s<sup>2</sup><br />(0.964 g<sub>0</sub>)
         escape_velocity: 19.462 km/s<br />(70,062 km/h)
         rotation_period: 55.195 d
         axial_tilt: 10.37°
         albedo: 0.30
-        temperature: 1360 K<br />(1087 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 0029 Naddiad D IV c
         type: Rocky
         formationType: Impact formed
@@ -214,14 +214,14 @@ planets:
         radius: 4,906.7 km<br/>(0.770 Yrths)
         surface_area: 3.025 × 10<sup>08</sup> km<sup>2</sup><br/>(0.593 Yrths)
         volume: 4.948 × 10<sup>11</sup> km<sup>3</sup><br/>(0.457 Yrths)
-        mass: 1.450 × 10<sup>24</sup> kg<br />(8.390411380561014 Yrths)
+        mass: 1.450 × 10<sup>24</sup> kg<br />(0.243 Yrths)
         density: 2.930 g/cm<sup>3</sup>
         surface_gravity: 4.014 m/s<sup>2</sup><br />(0.409 g<sub>0</sub>)
         escape_velocity: 6.281 km/s<br />(22,610 km/h)
         rotation_period: 49.974 d
         axial_tilt: 21.03°
         albedo: 0.30
-        temperature: 1297 K<br />(1024 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 0029 Naddiad D IV d
         type: Icy
         formationType: Impact formed
@@ -234,14 +234,14 @@ planets:
         radius: 6,422.6 km<br/>(1.008 Yrths)
         surface_area: 5.184 × 10<sup>08</sup> km<sup>2</sup><br/>(1.016 Yrths)
         volume: 1.110 × 10<sup>12</sup> km<sup>3</sup><br/>(1.025 Yrths)
-        mass: 1.577 × 10<sup>24</sup> kg<br />(8.390411380561014 Yrths)
+        mass: 1.577 × 10<sup>24</sup> kg<br />(0.264 Yrths)
         density: 1.421 g/cm<sup>3</sup>
         surface_gravity: 2.549 m/s<sup>2</sup><br />(0.260 g<sub>0</sub>)
         escape_velocity: 5.726 km/s<br />(20,613 km/h)
         rotation_period: 44.546 d
         axial_tilt: 17.17°
         albedo: 0.30
-        temperature: 1236 K<br />(963 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 0029 Naddiad D IV e
         type: Asteroid
         formationType: Captured
@@ -254,12 +254,12 @@ planets:
         radius: 6,879.1 km<br/>(1.080 Yrths)
         surface_area: 5.947 × 10<sup>08</sup> km<sup>2</sup><br/>(1.166 Yrths)
         volume: 1.364 × 10<sup>12</sup> km<sup>3</sup><br/>(1.259 Yrths)
-        mass: 4.003 × 10<sup>24</sup> kg<br />(8.390411380561014 Yrths)
+        mass: 4.003 × 10<sup>24</sup> kg<br />(0.670 Yrths)
         density: 2.936 g/cm<sup>3</sup>
         surface_gravity: 5.638 m/s<sup>2</sup><br />(0.575 g<sub>0</sub>)
         escape_velocity: 8.814 km/s<br />(31,729 km/h)
         rotation_period: 39.106 d
         axial_tilt: 54.91°
         albedo: 0.30
-        temperature: 1179 K<br />(906 °C)
+        temperature: 152 K<br />(-121 °C)
 ---

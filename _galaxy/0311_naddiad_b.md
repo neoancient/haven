@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0311 Naddiad B is a star in the constellation Naddi
+      0311 Naddiad B is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 205.50 ly
 apparent_magnitude: 6.18
 absolute_magnitude: 2.18

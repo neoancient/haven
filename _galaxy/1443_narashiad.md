@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1443 Narashiad is a star in the constellation Naras
+      1443 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 478.88 ly
 apparent_magnitude: 11.66
 absolute_magnitude: 5.82

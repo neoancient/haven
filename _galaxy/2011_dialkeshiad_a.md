@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2011 Dialkeshiad A is a star in the constellation Dialkes
+      2011 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 425.33 ly
 apparent_magnitude: 8.90
 absolute_magnitude: 3.32

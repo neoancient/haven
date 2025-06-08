@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0110 Nuaniad A is a star in the constellation Nuani
+      0110 Nuaniad A is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 230.21 ly
 apparent_magnitude: 6.53
 absolute_magnitude: 2.28

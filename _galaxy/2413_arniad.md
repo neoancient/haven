@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2413 Arniad is a star in the constellation Arni
+      2413 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 346.18 ly
 apparent_magnitude: 21.54
 absolute_magnitude: 16.41

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      377 Orshenniad is a star in the constellation Orshen
+      377 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 604.37 ly
 apparent_magnitude: 11.54
 absolute_magnitude: 5.20

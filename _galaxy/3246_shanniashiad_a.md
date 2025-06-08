@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3246 Shanniashiad A is a star in the constellation Shannias
+      3246 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 540.17 ly
 apparent_magnitude: 7.31
 absolute_magnitude: 1.22

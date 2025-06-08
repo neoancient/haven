@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8159 Arkothiad A is a star in the constellation Arkoth
+      8159 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 318.99 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 6.02

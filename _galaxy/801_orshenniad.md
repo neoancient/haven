@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      801 Orshenniad is a star in the constellation Orshen
+      801 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 551.34 ly
 apparent_magnitude: 11.05
 absolute_magnitude: 4.91

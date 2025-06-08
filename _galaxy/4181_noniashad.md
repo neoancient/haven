@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4181 Noniashad is a star in the constellation Nonias
+      4181 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 593.62 ly
 apparent_magnitude: 10.08
 absolute_magnitude: 3.78

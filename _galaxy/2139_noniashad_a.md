@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2139 Noniashad A is a star in the constellation Nonias
+      2139 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 464.95 ly
 apparent_magnitude: 8.06
 absolute_magnitude: 2.29

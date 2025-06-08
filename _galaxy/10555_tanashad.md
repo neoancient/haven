@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10555 Tanashad is a star in the constellation Tanas
+      10555 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 357.57 ly
 apparent_magnitude: 10.22
 absolute_magnitude: 5.02

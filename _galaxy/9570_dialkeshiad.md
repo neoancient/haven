@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9570 Dialkeshiad is a star in the constellation Dialkes
+      9570 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 547.21 ly
 apparent_magnitude: 6.57
 absolute_magnitude: 0.45
@@ -31,14 +31,14 @@ planets:
     radius: 234.6 km<br/>(0.037 Yrths)
     surface_area: 6.916 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.408 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.046 × 10<sup>27</sup> kg<br />(342.6692882801573 Yrths)
+    mass: 2.046 × 10<sup>27</sup> kg<br />(342.67 Yrths)
     density: 37842877.718 g/cm<sup>3</sup>
     surface_gravity: 2478541.850 m/s<sup>2</sup><br />(252740.931 g<sub>0</sub>)
     escape_velocity: 1079.100 km/s<br />(3,884,760 km/h)
     rotation_period: 0.232 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1503 K<br />(1230 °C)
+    temperature: 1449 K<br />(1176 °C)
     composition:
       - 74.6382% hydrogen
       - 18.9165% helium
@@ -58,14 +58,14 @@ planets:
         radius: 316,963.2 km<br/>(49.751 Yrths)
         surface_area: 1.262 × 10<sup>12</sup> km<sup>2</sup><br/>(2475.155 Yrths)
         volume: 1.334 × 10<sup>17</sup> km<sup>3</sup><br/>(123141.268 Yrths)
-        mass: 2.753 × 10<sup>29</sup> kg<br />(342.6692882801573 Yrths)
+        mass: 2.753 × 10<sup>29</sup> kg<br />(46093.080 Yrths)
         density: 2.064 g/cm<sup>3</sup>
         surface_gravity: 182.622 m/s<sup>2</sup><br />(18.622 g<sub>0</sub>)
         escape_velocity: 340.480 km/s<br />(1,225,727 km/h)
         rotation_period: 60.315 d
         axial_tilt: 32.90°
         albedo: 0.30
-        temperature: 978 K<br />(705 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 9570 Dialkeshiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 229,545.6 km<br/>(36.030 Yrths)
         surface_area: 6.621 × 10<sup>11</sup> km<sup>2</sup><br/>(1298.143 Yrths)
         volume: 5.066 × 10<sup>16</sup> km<sup>3</sup><br/>(46771.783 Yrths)
-        mass: 1.291 × 10<sup>29</sup> kg<br />(342.6692882801573 Yrths)
+        mass: 1.291 × 10<sup>29</sup> kg<br />(21610.374 Yrths)
         density: 2.547 g/cm<sup>3</sup>
         surface_gravity: 163.253 m/s<sup>2</sup><br />(16.647 g<sub>0</sub>)
         escape_velocity: 273.952 km/s<br />(986,227 km/h)
         rotation_period: 36.112 d
         axial_tilt: 13.62°
         albedo: 0.30
-        temperature: 343 K<br />(70 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 9570 Dialkeshiad I c
         type: Dwarf planet
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 212,396.2 km<br/>(33.338 Yrths)
         surface_area: 5.669 × 10<sup>11</sup> km<sup>2</sup><br/>(1111.420 Yrths)
         volume: 4.014 × 10<sup>16</sup> km<sup>3</sup><br/>(37052.500 Yrths)
-        mass: 8.773 × 10<sup>28</sup> kg<br />(342.6692882801573 Yrths)
+        mass: 8.773 × 10<sup>28</sup> kg<br />(14690.966 Yrths)
         density: 2.186 g/cm<sup>3</sup>
         surface_gravity: 129.626 m/s<sup>2</sup><br />(13.218 g<sub>0</sub>)
         escape_velocity: 234.817 km/s<br />(845,341 km/h)
         rotation_period: 35.590 d
         axial_tilt: 23.16°
         albedo: 0.30
-        temperature: 283 K<br />(10 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 9570 Dialkeshiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 226,687.1 km<br/>(35.581 Yrths)
         surface_area: 6.457 × 10<sup>11</sup> km<sup>2</sup><br/>(1266.014 Yrths)
         volume: 4.879 × 10<sup>16</sup> km<sup>3</sup><br/>(45046.159 Yrths)
-        mass: 1.179 × 10<sup>29</sup> kg<br />(342.6692882801573 Yrths)
+        mass: 1.179 × 10<sup>29</sup> kg<br />(19743.600 Yrths)
         density: 2.416 g/cm<sup>3</sup>
         surface_gravity: 152.936 m/s<sup>2</sup><br />(15.595 g<sub>0</sub>)
         escape_velocity: 263.498 km/s<br />(948,593 km/h)
         rotation_period: 43.442 d
         axial_tilt: 25.85°
         albedo: 0.30
-        temperature: 234 K<br />(-39 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 9570 Dialkeshiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 226,804.0 km<br/>(35.599 Yrths)
         surface_area: 6.464 × 10<sup>11</sup> km<sup>2</sup><br/>(1267.320 Yrths)
         volume: 4.887 × 10<sup>16</sup> km<sup>3</sup><br/>(45115.891 Yrths)
-        mass: 1.036 × 10<sup>29</sup> kg<br />(342.6692882801573 Yrths)
+        mass: 1.036 × 10<sup>29</sup> kg<br />(17344.748 Yrths)
         density: 2.120 g/cm<sup>3</sup>
         surface_gravity: 134.215 m/s<sup>2</sup><br />(13.686 g<sub>0</sub>)
         escape_velocity: 246.909 km/s<br />(888,871 km/h)
         rotation_period: 38.739 d
         axial_tilt: 14.37°
         albedo: 0.30
-        temperature: 132 K<br />(-141 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 9570 Dialkeshiad I f
         type: Icy
         formationType: Accreted
@@ -158,12 +158,12 @@ planets:
         radius: 261,092.8 km<br/>(40.981 Yrths)
         surface_area: 8.566 × 10<sup>11</sup> km<sup>2</sup><br/>(1679.479 Yrths)
         volume: 7.455 × 10<sup>16</sup> km<sup>3</sup><br/>(68827.450 Yrths)
-        mass: 9.278 × 10<sup>28</sup> kg<br />(342.6692882801573 Yrths)
+        mass: 9.278 × 10<sup>28</sup> kg<br />(15535.385 Yrths)
         density: 1.244 g/cm<sup>3</sup>
         surface_gravity: 90.713 m/s<sup>2</sup><br />(9.250 g<sub>0</sub>)
         escape_velocity: 217.792 km/s<br />(784,050 km/h)
         rotation_period: 79.333 d
         axial_tilt: 10.16°
         albedo: 0.30
-        temperature: 120 K<br />(-153 °C)
+        temperature: 358 K<br />(85 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0011 Lulithannaid A is a star in the constellation Lulithan
+      0011 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 382.48 ly
 apparent_magnitude: 4.88
 absolute_magnitude: -0.46

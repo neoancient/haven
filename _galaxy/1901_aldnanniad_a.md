@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1901 Aldnanniad A is a star in the constellation Aldnan
+      1901 Aldnanniad A is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 333.15 ly
 apparent_magnitude: 7.96
 absolute_magnitude: 2.91

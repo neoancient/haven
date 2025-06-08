@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5109 Narashiad is a star in the constellation Naras
+      5109 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 522.07 ly
 apparent_magnitude: 11.53
 absolute_magnitude: 5.51

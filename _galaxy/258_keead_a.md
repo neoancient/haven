@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      258 Keead A is a star in the constellation Kee
+      258 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 608.01 ly
 apparent_magnitude: 8.79
 absolute_magnitude: 2.44

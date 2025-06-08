@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      191 Orshenniad A is a star in the constellation Orshen
+      191 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 514.07 ly
 apparent_magnitude: 6.85
 absolute_magnitude: 0.86

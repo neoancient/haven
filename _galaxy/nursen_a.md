@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nursen A is a star in the constellation Rishauth
+      Nursen A is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 219.84 ly
 apparent_magnitude: 2.83
 absolute_magnitude: -1.31

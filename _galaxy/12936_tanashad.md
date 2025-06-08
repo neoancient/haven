@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12936 Tanashad is a star in the constellation Tanas
+      12936 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 424.61 ly
 apparent_magnitude: 10.34
 absolute_magnitude: 4.76

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6160 Geardiad is a star in the constellation Geard
+      6160 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 320.45 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 5.02

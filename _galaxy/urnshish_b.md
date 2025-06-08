@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Urnshish B is a star in the constellation Shannias
+      Urnshish B is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 272.61 ly
 apparent_magnitude: 10.59
 absolute_magnitude: 5.98

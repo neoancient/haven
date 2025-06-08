@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3253 Narashiad A is a star in the constellation Naras
+      3253 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 511.48 ly
 apparent_magnitude: 6.98
 absolute_magnitude: 1.00

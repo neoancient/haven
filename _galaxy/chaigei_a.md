@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Chaigei A is a star in the constellation Atchian
+      Chaigei A is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 2729.99 ly
 apparent_magnitude: 3.57
 absolute_magnitude: -6.04

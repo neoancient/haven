@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4423 Athiad A is a star in the constellation Ath
+      4423 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 563.77 ly
 apparent_magnitude: 8.43
 absolute_magnitude: 2.24

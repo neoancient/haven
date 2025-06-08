@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1914 Saithiad is a star in the constellation Saith
+      1914 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 262.94 ly
 apparent_magnitude: 10.39
 absolute_magnitude: 5.86

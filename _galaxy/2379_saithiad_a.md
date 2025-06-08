@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2379 Saithiad A is a star in the constellation Saith
+      2379 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 275.67 ly
 apparent_magnitude: 9.75
 absolute_magnitude: 5.11

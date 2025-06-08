@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      γ Derriathiad C is a star in the constellation Derriath
+      γ Derriathiad C is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 283.14 ly
 apparent_magnitude: 10.46
 absolute_magnitude: 5.77
@@ -31,14 +31,14 @@ planets:
     radius: 11,734.3 km<br/>(1.842 Yrths)
     surface_area: 1.730 × 10<sup>09</sup> km<sup>2</sup><br/>(3.392 Yrths)
     volume: 6.768 × 10<sup>12</sup> km<sup>3</sup><br/>(6.248 Yrths)
-    mass: 4.742 × 10<sup>25</sup> kg<br />(7.939750893868656 Yrths)
+    mass: 4.742 × 10<sup>25</sup> kg<br />(7.94 Yrths)
     density: 7.006 g/cm<sup>3</sup>
     surface_gravity: 22.953 m/s<sup>2</sup><br />(2.341 g<sub>0</sub>)
     escape_velocity: 23.225 km/s<br />(83,610 km/h)
     rotation_period: 0.981 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 357 K<br />(84 °C)
+    temperature: 895 K<br />(622 °C)
     surface_pressure: 91 kPa<br />(1 atm)
     composition:
       - 68.9157% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 11,334.2 km<br/>(1.779 Yrths)
         surface_area: 1.614 × 10<sup>09</sup> km<sup>2</sup><br/>(3.165 Yrths)
         volume: 6.099 × 10<sup>12</sup> km<sup>3</sup><br/>(5.631 Yrths)
-        mass: 5.468 × 10<sup>24</sup> kg<br />(7.939750893868656 Yrths)
+        mass: 5.468 × 10<sup>24</sup> kg<br />(0.916 Yrths)
         density: 0.897 g/cm<sup>3</sup>
         surface_gravity: 2.837 m/s<sup>2</sup><br />(0.289 g<sub>0</sub>)
         escape_velocity: 8.025 km/s<br />(28,890 km/h)
         rotation_period: 68.220 d
         axial_tilt: 10.41°
         albedo: 0.30
-        temperature: 3131 K<br />(2858 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: γ Derriathiad C I b
         type: Asteroid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 2,050.9 km<br/>(0.322 Yrths)
         surface_area: 5.286 × 10<sup>07</sup> km<sup>2</sup><br/>(0.104 Yrths)
         volume: 3.614 × 10<sup>10</sup> km<sup>3</sup><br/>(0.033 Yrths)
-        mass: 7.740 × 10<sup>22</sup> kg<br />(7.939750893868656 Yrths)
+        mass: 7.740 × 10<sup>22</sup> kg<br />(0.013 Yrths)
         density: 2.142 g/cm<sup>3</sup>
         surface_gravity: 1.226 m/s<sup>2</sup><br />(0.125 g<sub>0</sub>)
         escape_velocity: 2.244 km/s<br />(8,080 km/h)
         rotation_period: 37.295 d
         axial_tilt: 38.88°
         albedo: 0.30
-        temperature: 2985 K<br />(2712 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: γ Derriathiad C I c
         type: Rocky
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 9,914.8 km<br/>(1.556 Yrths)
         surface_area: 1.235 × 10<sup>09</sup> km<sup>2</sup><br/>(2.422 Yrths)
         volume: 4.083 × 10<sup>12</sup> km<sup>3</sup><br/>(3.769 Yrths)
-        mass: 1.306 × 10<sup>25</sup> kg<br />(7.939750893868656 Yrths)
+        mass: 1.306 × 10<sup>25</sup> kg<br />(2.187 Yrths)
         density: 3.199 g/cm<sup>3</sup>
         surface_gravity: 8.854 m/s<sup>2</sup><br />(0.903 g<sub>0</sub>)
         escape_velocity: 13.260 km/s<br />(47,735 km/h)
         rotation_period: 39.160 d
         axial_tilt: 16.77°
         albedo: 0.30
-        temperature: 2846 K<br />(2573 °C)
+        temperature: 242 K<br />(-31 °C)
   - name: γ Derriathiad C II
     type: Ice giant
     aphelion: 352,873,790 km<br />2.359 AU
@@ -117,14 +117,14 @@ planets:
     radius: 25,640.1 km<br/>(4.025 Yrths)
     surface_area: 8.261 × 10<sup>09</sup> km<sup>2</sup><br/>(16.197 Yrths)
     volume: 7.061 × 10<sup>13</sup> km<sup>3</sup><br/>(65.184 Yrths)
-    mass: 9.458 × 10<sup>25</sup> kg<br />(15.837254068345876 Yrths)
+    mass: 9.458 × 10<sup>25</sup> kg<br />(15.84 Yrths)
     density: 1.340 g/cm<sup>3</sup>
     surface_gravity: 9.589 m/s<sup>2</sup><br />(0.978 g<sub>0</sub>)
     escape_velocity: 22.190 km/s<br />(79,884 km/h)
     rotation_period: 0.633 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 321 K<br />(48 °C)
+    temperature: 296 K<br />(22 °C)
     composition:
       - 66.6251% hydrogen
       - 27.8759% helium
@@ -142,14 +142,14 @@ planets:
         radius: 28,767.9 km<br/>(4.515 Yrths)
         surface_area: 1.040 × 10<sup>10</sup> km<sup>2</sup><br/>(20.389 Yrths)
         volume: 9.973 × 10<sup>13</sup> km<sup>3</sup><br/>(92.066 Yrths)
-        mass: 1.937 × 10<sup>26</sup> kg<br />(15.837254068345876 Yrths)
+        mass: 1.937 × 10<sup>26</sup> kg<br />(32.437 Yrths)
         density: 1.942 g/cm<sup>3</sup>
         surface_gravity: 15.601 m/s<sup>2</sup><br />(1.591 g<sub>0</sub>)
         escape_velocity: 29.981 km/s<br />(107,932 km/h)
         rotation_period: 36.971 d
         axial_tilt: 22.92°
         albedo: 0.30
-        temperature: 1688 K<br />(1415 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: γ Derriathiad C II b
         type: Icy
         formationType: Impact formed
@@ -162,14 +162,14 @@ planets:
         radius: 38,365.9 km<br/>(6.022 Yrths)
         surface_area: 1.850 × 10<sup>10</sup> km<sup>2</sup><br/>(36.264 Yrths)
         volume: 2.366 × 10<sup>14</sup> km<sup>3</sup><br/>(218.380 Yrths)
-        mass: 1.981 × 10<sup>26</sup> kg<br />(15.837254068345876 Yrths)
+        mass: 1.981 × 10<sup>26</sup> kg<br />(33.165 Yrths)
         density: 0.837 g/cm<sup>3</sup>
         surface_gravity: 8.969 m/s<sup>2</sup><br />(0.915 g<sub>0</sub>)
         escape_velocity: 26.251 km/s<br />(94,503 km/h)
         rotation_period: 103.974 d
         axial_tilt: 13.21°
         albedo: 0.30
-        temperature: 1609 K<br />(1336 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: γ Derriathiad C II c
         type: Icy
         formationType: Captured
@@ -182,14 +182,14 @@ planets:
         radius: 31,020.8 km<br/>(4.869 Yrths)
         surface_area: 1.209 × 10<sup>10</sup> km<sup>2</sup><br/>(23.708 Yrths)
         volume: 1.250 × 10<sup>14</sup> km<sup>3</sup><br/>(115.435 Yrths)
-        mass: 1.522 × 10<sup>26</sup> kg<br />(15.837254068345876 Yrths)
+        mass: 1.522 × 10<sup>26</sup> kg<br />(25.484 Yrths)
         density: 1.217 g/cm<sup>3</sup>
         surface_gravity: 10.541 m/s<sup>2</sup><br />(1.075 g<sub>0</sub>)
         escape_velocity: 25.591 km/s<br />(92,127 km/h)
         rotation_period: 78.074 d
         axial_tilt: 25.44°
         albedo: 0.30
-        temperature: 1534 K<br />(1261 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: γ Derriathiad C II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 27,888.6 km<br/>(4.377 Yrths)
         surface_area: 9.774 × 10<sup>09</sup> km<sup>2</sup><br/>(19.162 Yrths)
         volume: 9.086 × 10<sup>13</sup> km<sup>3</sup><br/>(83.880 Yrths)
-        mass: 1.830 × 10<sup>26</sup> kg<br />(15.837254068345876 Yrths)
+        mass: 1.830 × 10<sup>26</sup> kg<br />(30.640 Yrths)
         density: 2.014 g/cm<sup>3</sup>
         surface_gravity: 15.681 m/s<sup>2</sup><br />(1.599 g<sub>0</sub>)
         escape_velocity: 29.594 km/s<br />(106,539 km/h)
         rotation_period: 38.148 d
         axial_tilt: 13.85°
         albedo: 0.30
-        temperature: 1463 K<br />(1190 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: γ Derriathiad C II e
         type: Dwarf planet
         formationType: Impact formed
@@ -222,14 +222,14 @@ planets:
         radius: 20,120.5 km<br/>(3.158 Yrths)
         surface_area: 5.087 × 10<sup>09</sup> km<sup>2</sup><br/>(9.974 Yrths)
         volume: 3.412 × 10<sup>13</sup> km<sup>3</sup><br/>(31.499 Yrths)
-        mass: 9.554 × 10<sup>25</sup> kg<br />(15.837254068345876 Yrths)
+        mass: 9.554 × 10<sup>25</sup> kg<br />(15.997 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 15.729 m/s<sup>2</sup><br />(1.604 g<sub>0</sub>)
         escape_velocity: 25.176 km/s<br />(90,632 km/h)
         rotation_period: 55.886 d
         axial_tilt: 40.66°
         albedo: 0.30
-        temperature: 1395 K<br />(1122 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: γ Derriathiad C II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -242,14 +242,14 @@ planets:
         radius: 18,188.6 km<br/>(2.855 Yrths)
         surface_area: 4.157 × 10<sup>09</sup> km<sup>2</sup><br/>(8.150 Yrths)
         volume: 2.520 × 10<sup>13</sup> km<sup>3</sup><br/>(23.269 Yrths)
-        mass: 4.935 × 10<sup>25</sup> kg<br />(15.837254068345876 Yrths)
+        mass: 4.935 × 10<sup>25</sup> kg<br />(8.263 Yrths)
         density: 1.958 g/cm<sup>3</sup>
         surface_gravity: 9.942 m/s<sup>2</sup><br />(1.014 g<sub>0</sub>)
         escape_velocity: 19.030 km/s<br />(68,508 km/h)
         rotation_period: 44.168 d
         axial_tilt: 27.00°
         albedo: 0.30
-        temperature: 1153 K<br />(880 °C)
+        temperature: 182 K<br />(-91 °C)
   - name: γ Derriathiad C III
     type: Gas dwarf
     aphelion: 621,386,202 km<br />4.154 AU
@@ -261,14 +261,14 @@ planets:
     radius: 7,627.2 km<br/>(1.197 Yrths)
     surface_area: 7.310 × 10<sup>08</sup> km<sup>2</sup><br/>(1.433 Yrths)
     volume: 1.859 × 10<sup>12</sup> km<sup>3</sup><br/>(1.716 Yrths)
-    mass: 4.613 × 10<sup>24</sup> kg<br />(0.7724074449780086 Yrths)
+    mass: 4.613 × 10<sup>24</sup> kg<br />(0.77 Yrths)
     density: 2.482 g/cm<sup>3</sup>
     surface_gravity: 5.285 m/s<sup>2</sup><br />(0.539 g<sub>0</sub>)
     escape_velocity: 8.985 km/s<br />(32,346 km/h)
     rotation_period: 0.852 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 195 K<br />(-78 °C)
+    temperature: 172 K<br />(-101 °C)
     composition:
       - 76.1453% hydrogen
       - 22.5610% helium
@@ -290,14 +290,14 @@ planets:
         radius: 1,052.8 km<br/>(0.165 Yrths)
         surface_area: 1.393 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.888 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.498 × 10<sup>22</sup> kg<br />(0.7724074449780086 Yrths)
+        mass: 1.498 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 3.065 g/cm<sup>3</sup>
         surface_gravity: 0.901 m/s<sup>2</sup><br />(0.092 g<sub>0</sub>)
         escape_velocity: 1.378 km/s<br />(4,962 km/h)
         rotation_period: 29.185 d
         axial_tilt: 8.56°
         albedo: 0.30
-        temperature: 2000 K<br />(1727 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: γ Derriathiad C III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -310,14 +310,14 @@ planets:
         radius: 3,125.2 km<br/>(0.491 Yrths)
         surface_area: 1.227 × 10<sup>08</sup> km<sup>2</sup><br/>(0.241 Yrths)
         volume: 1.279 × 10<sup>11</sup> km<sup>3</sup><br/>(0.118 Yrths)
-        mass: 2.436 × 10<sup>23</sup> kg<br />(0.7724074449780086 Yrths)
+        mass: 2.436 × 10<sup>23</sup> kg<br />(0.041 Yrths)
         density: 1.905 g/cm<sup>3</sup>
         surface_gravity: 1.662 m/s<sup>2</sup><br />(0.170 g<sub>0</sub>)
         escape_velocity: 3.226 km/s<br />(11,612 km/h)
         rotation_period: 51.034 d
         axial_tilt: 13.20°
         albedo: 0.30
-        temperature: 1907 K<br />(1634 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: γ Derriathiad C III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -330,14 +330,14 @@ planets:
         radius: 2,732.1 km<br/>(0.429 Yrths)
         surface_area: 9.380 × 10<sup>07</sup> km<sup>2</sup><br/>(0.184 Yrths)
         volume: 8.543 × 10<sup>10</sup> km<sup>3</sup><br/>(0.079 Yrths)
-        mass: 1.662 × 10<sup>23</sup> kg<br />(0.7724074449780086 Yrths)
+        mass: 1.662 × 10<sup>23</sup> kg<br />(0.028 Yrths)
         density: 1.945 g/cm<sup>3</sup>
         surface_gravity: 1.484 m/s<sup>2</sup><br />(0.151 g<sub>0</sub>)
         escape_velocity: 2.849 km/s<br />(10,258 km/h)
         rotation_period: 47.988 d
         axial_tilt: 16.82°
         albedo: 0.30
-        temperature: 1818 K<br />(1545 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: γ Derriathiad C III d
         type: Asteroid
         formationType: Captured
@@ -350,14 +350,14 @@ planets:
         radius: 2,212.8 km<br/>(0.347 Yrths)
         surface_area: 6.153 × 10<sup>07</sup> km<sup>2</sup><br/>(0.121 Yrths)
         volume: 4.538 × 10<sup>10</sup> km<sup>3</sup><br/>(0.042 Yrths)
-        mass: 7.900 × 10<sup>22</sup> kg<br />(0.7724074449780086 Yrths)
+        mass: 7.900 × 10<sup>22</sup> kg<br />(0.013 Yrths)
         density: 1.741 g/cm<sup>3</sup>
         surface_gravity: 1.075 m/s<sup>2</sup><br />(0.110 g<sub>0</sub>)
         escape_velocity: 2.183 km/s<br />(7,859 km/h)
         rotation_period: 46.649 d
         axial_tilt: 23.12°
         albedo: 0.30
-        temperature: 1734 K<br />(1460 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: γ Derriathiad C III e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -370,12 +370,12 @@ planets:
         radius: 2,270.3 km<br/>(0.356 Yrths)
         surface_area: 6.477 × 10<sup>07</sup> km<sup>2</sup><br/>(0.127 Yrths)
         volume: 4.902 × 10<sup>10</sup> km<sup>3</sup><br/>(0.045 Yrths)
-        mass: 1.112 × 10<sup>23</sup> kg<br />(0.7724074449780086 Yrths)
+        mass: 1.112 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 2.269 g/cm<sup>3</sup>
         surface_gravity: 1.438 m/s<sup>2</sup><br />(0.147 g<sub>0</sub>)
         escape_velocity: 2.557 km/s<br />(9,205 km/h)
         rotation_period: 34.995 d
         axial_tilt: 15.90°
         albedo: 0.30
-        temperature: 1653 K<br />(1380 °C)
+        temperature: 137 K<br />(-136 °C)
 ---

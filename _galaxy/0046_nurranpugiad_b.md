@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0046 Nurranpugiad B is a star in the constellation Nurranpug
+      0046 Nurranpugiad B is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 327.57 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 3.82

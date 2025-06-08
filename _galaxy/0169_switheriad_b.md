@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0169 Switheriad B is a star in the constellation Swither
+      0169 Switheriad B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 278.73 ly
 apparent_magnitude: 9.44
 absolute_magnitude: 4.78

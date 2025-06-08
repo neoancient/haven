@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8301 Dialkeshiad A is a star in the constellation Dialkes
+      8301 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 645.88 ly
 apparent_magnitude: 8.17
 absolute_magnitude: 1.68

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      335 Arkothiad A is a star in the constellation Arkoth
+      335 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 281.37 ly
 apparent_magnitude: 10.70
 absolute_magnitude: 6.02

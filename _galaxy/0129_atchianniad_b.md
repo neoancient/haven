@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0129 Atchianniad B is a star in the constellation Atchian
+      0129 Atchianniad B is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 225.72 ly
 apparent_magnitude: 9.14
 absolute_magnitude: 4.94

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5564 Geardiad is a star in the constellation Geard
+      5564 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 216.61 ly
 apparent_magnitude: 10.54
 absolute_magnitude: 6.43

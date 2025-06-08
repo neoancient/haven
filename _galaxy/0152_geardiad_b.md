@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0152 Geardiad B is a star in the constellation Geard
+      0152 Geardiad B is a star in the constellation <a href="geard.html">Geard</a>
 distance: 254.18 ly
 apparent_magnitude: 8.93
 absolute_magnitude: 4.47

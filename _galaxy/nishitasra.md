@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nishitasra is a star in the constellation Mioruane
+      Nishitasra is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 2550.41 ly
 apparent_magnitude: 3.16
 absolute_magnitude: -6.31

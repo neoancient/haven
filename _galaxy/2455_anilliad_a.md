@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2455 Anilliad A is a star in the constellation Anil
+      2455 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 226.83 ly
 apparent_magnitude: 7.63
 absolute_magnitude: 3.42

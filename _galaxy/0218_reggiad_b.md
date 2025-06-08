@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0218 Reggiad B is a star in the constellation Reg
+      0218 Reggiad B is a star in the constellation <a href="reg.html">Reg</a>
 distance: 9636.01 ly
 apparent_magnitude: 18.11
 absolute_magnitude: 5.76

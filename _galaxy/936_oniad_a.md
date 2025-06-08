@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      936 Oniad A is a star in the constellation Oni
+      936 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 282.01 ly
 apparent_magnitude: 8.99
 absolute_magnitude: 4.31

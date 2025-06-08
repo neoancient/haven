@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0009 Shuliad D is a star in the constellation Shuli
+      0009 Shuliad D is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 10580.26 ly
 apparent_magnitude: 9.28
 absolute_magnitude: -3.28

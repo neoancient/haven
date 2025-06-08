@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0001 Niodionraiad B is a star in the constellation Niodionra
+      0001 Niodionraiad B is a star in the constellation <a href="niodionra.html">Niodionra</a>
 distance: 1939.25 ly
 apparent_magnitude: 7.34
 absolute_magnitude: -1.53

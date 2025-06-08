@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0114 Neralniad C is a star in the constellation Neraln
+      0114 Neralniad C is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 300.53 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 6.16
@@ -31,14 +31,14 @@ planets:
     radius: 23,263.5 km<br/>(3.651 Yrths)
     surface_area: 6.801 × 10<sup>09</sup> km<sup>2</sup><br/>(13.333 Yrths)
     volume: 5.274 × 10<sup>13</sup> km<sup>3</sup><br/>(48.686 Yrths)
-    mass: 7.095 × 10<sup>25</sup> kg<br />(11.88073871433689 Yrths)
+    mass: 7.095 × 10<sup>25</sup> kg<br />(11.88 Yrths)
     density: 1.345 g/cm<sup>3</sup>
     surface_gravity: 8.738 m/s<sup>2</sup><br />(0.891 g<sub>0</sub>)
     escape_velocity: 20.177 km/s<br />(72,638 km/h)
     rotation_period: 1.083 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 538 K<br />(265 °C)
+    temperature: 480 K<br />(207 °C)
     composition:
       - 77.5522% hydrogen
       - 21.5835% helium
@@ -56,14 +56,14 @@ planets:
         radius: 12,952.8 km<br/>(2.033 Yrths)
         surface_area: 2.108 × 10<sup>09</sup> km<sup>2</sup><br/>(4.133 Yrths)
         volume: 9.103 × 10<sup>12</sup> km<sup>3</sup><br/>(8.404 Yrths)
-        mass: 2.073 × 10<sup>25</sup> kg<br />(11.88073871433689 Yrths)
+        mass: 2.073 × 10<sup>25</sup> kg<br />(3.472 Yrths)
         density: 2.278 g/cm<sup>3</sup>
         surface_gravity: 8.237 m/s<sup>2</sup><br />(0.840 g<sub>0</sub>)
         escape_velocity: 14.617 km/s<br />(52,623 km/h)
         rotation_period: 46.552 d
         axial_tilt: 9.88°
         albedo: 0.30
-        temperature: 2867 K<br />(2593 °C)
+        temperature: 318 K<br />(44 °C)
       - name: 0114 Neralniad C I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 22,851.3 km<br/>(3.587 Yrths)
         surface_area: 6.562 × 10<sup>09</sup> km<sup>2</sup><br/>(12.865 Yrths)
         volume: 4.998 × 10<sup>13</sup> km<sup>3</sup><br/>(46.144 Yrths)
-        mass: 8.518 × 10<sup>25</sup> kg<br />(11.88073871433689 Yrths)
+        mass: 8.518 × 10<sup>25</sup> kg<br />(14.264 Yrths)
         density: 1.704 g/cm<sup>3</sup>
         surface_gravity: 10.873 m/s<sup>2</sup><br />(1.109 g<sub>0</sub>)
         escape_velocity: 22.307 km/s<br />(80,304 km/h)
         rotation_period: 45.502 d
         axial_tilt: 21.50°
         albedo: 0.30
-        temperature: 2733 K<br />(2460 °C)
+        temperature: 318 K<br />(44 °C)
       - name: 0114 Neralniad C I c
         type: Dwarf planet
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 9,695.6 km<br/>(1.522 Yrths)
         surface_area: 1.181 × 10<sup>09</sup> km<sup>2</sup><br/>(2.316 Yrths)
         volume: 3.818 × 10<sup>12</sup> km<sup>3</sup><br/>(3.525 Yrths)
-        mass: 9.137 × 10<sup>24</sup> kg<br />(11.88073871433689 Yrths)
+        mass: 9.137 × 10<sup>24</sup> kg<br />(1.530 Yrths)
         density: 2.393 g/cm<sup>3</sup>
         surface_gravity: 6.479 m/s<sup>2</sup><br />(0.661 g<sub>0</sub>)
         escape_velocity: 11.216 km/s<br />(40,378 km/h)
         rotation_period: 61.789 d
         axial_tilt: 17.37°
         albedo: 0.30
-        temperature: 2606 K<br />(2333 °C)
+        temperature: 318 K<br />(44 °C)
       - name: 0114 Neralniad C I d
         type: Rocky
         formationType: Impact formed
@@ -116,14 +116,14 @@ planets:
         radius: 21,229.4 km<br/>(3.332 Yrths)
         surface_area: 5.663 × 10<sup>09</sup> km<sup>2</sup><br/>(11.103 Yrths)
         volume: 4.008 × 10<sup>13</sup> km<sup>3</sup><br/>(36.999 Yrths)
-        mass: 1.220 × 10<sup>26</sup> kg<br />(11.88073871433689 Yrths)
+        mass: 1.220 × 10<sup>26</sup> kg<br />(20.436 Yrths)
         density: 3.045 g/cm<sup>3</sup>
         surface_gravity: 18.049 m/s<sup>2</sup><br />(1.840 g<sub>0</sub>)
         escape_velocity: 27.702 km/s<br />(99,726 km/h)
         rotation_period: 38.639 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 2369 K<br />(2096 °C)
+        temperature: 318 K<br />(44 °C)
       - name: 0114 Neralniad C I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 11,817.6 km<br/>(1.855 Yrths)
         surface_area: 1.755 × 10<sup>09</sup> km<sup>2</sup><br/>(3.441 Yrths)
         volume: 6.913 × 10<sup>12</sup> km<sup>3</sup><br/>(6.382 Yrths)
-        mass: 1.577 × 10<sup>25</sup> kg<br />(11.88073871433689 Yrths)
+        mass: 1.577 × 10<sup>25</sup> kg<br />(2.641 Yrths)
         density: 2.281 g/cm<sup>3</sup>
         surface_gravity: 7.526 m/s<sup>2</sup><br />(0.767 g<sub>0</sub>)
         escape_velocity: 13.346 km/s<br />(48,047 km/h)
         rotation_period: 62.986 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 2259 K<br />(1986 °C)
+        temperature: 318 K<br />(44 °C)
       - name: 0114 Neralniad C I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -156,14 +156,14 @@ planets:
         radius: 14,106.3 km<br/>(2.214 Yrths)
         surface_area: 2.501 × 10<sup>09</sup> km<sup>2</sup><br/>(4.902 Yrths)
         volume: 1.176 × 10<sup>13</sup> km<sup>3</sup><br/>(10.855 Yrths)
-        mass: 2.562 × 10<sup>25</sup> kg<br />(11.88073871433689 Yrths)
+        mass: 2.562 × 10<sup>25</sup> kg<br />(4.291 Yrths)
         density: 2.179 g/cm<sup>3</sup>
         surface_gravity: 8.583 m/s<sup>2</sup><br />(0.875 g<sub>0</sub>)
         escape_velocity: 15.571 km/s<br />(56,057 km/h)
         rotation_period: 66.524 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 2154 K<br />(1881 °C)
+        temperature: 318 K<br />(44 °C)
       - name: 0114 Neralniad C I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -176,14 +176,14 @@ planets:
         radius: 16,591.6 km<br/>(2.604 Yrths)
         surface_area: 3.459 × 10<sup>09</sup> km<sup>2</sup><br/>(6.782 Yrths)
         volume: 1.913 × 10<sup>13</sup> km<sup>3</sup><br/>(17.662 Yrths)
-        mass: 4.476 × 10<sup>25</sup> kg<br />(11.88073871433689 Yrths)
+        mass: 4.476 × 10<sup>25</sup> kg<br />(7.496 Yrths)
         density: 2.340 g/cm<sup>3</sup>
         surface_gravity: 10.838 m/s<sup>2</sup><br />(1.105 g<sub>0</sub>)
         escape_velocity: 18.977 km/s<br />(68,318 km/h)
         rotation_period: 34.848 d
         axial_tilt: 21.30°
         albedo: 0.30
-        temperature: 2054 K<br />(1780 °C)
+        temperature: 318 K<br />(44 °C)
   - name: 0114 Neralniad C II
     type: Large terrestrial
     aphelion: 94,464,820 km<br />0.631 AU
@@ -195,14 +195,14 @@ planets:
     radius: 2,747.1 km<br/>(0.431 Yrths)
     surface_area: 9.483 × 10<sup>07</sup> km<sup>2</sup><br/>(0.186 Yrths)
     volume: 8.684 × 10<sup>10</sup> km<sup>3</sup><br/>(0.080 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.877 g/cm<sup>3</sup>
     surface_gravity: 5.274 m/s<sup>2</sup><br />(0.538 g<sub>0</sub>)
     escape_velocity: 5.387 km/s<br />(19,393 km/h)
     rotation_period: 2.627 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 309 K<br />(36 °C)
+    temperature: 314 K<br />(41 °C)
     surface_pressure: 156 kPa<br />(2 atm)
     composition:
       - 94.2059% nitrogen
@@ -220,14 +220,14 @@ planets:
         radius: 675.8 km<br/>(0.106 Yrths)
         surface_area: 5.740 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.293 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.839 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.839 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.969 g/cm<sup>3</sup>
         surface_gravity: 0.560 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 0.871 km/s<br />(3,135 km/h)
         rotation_period: 41.353 d
         axial_tilt: 18.92°
         albedo: 0.30
-        temperature: 5065 K<br />(4792 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 0114 Neralniad C II b
         type: Rocky
         formationType: Captured
@@ -240,14 +240,14 @@ planets:
         radius: 325.6 km<br/>(0.051 Yrths)
         surface_area: 1.332 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.445 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.434 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.434 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.068 g/cm<sup>3</sup>
         surface_gravity: 0.279 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.426 km/s<br />(1,535 km/h)
         rotation_period: 32.456 d
         axial_tilt: 10.78°
         albedo: 0.30
-        temperature: 4829 K<br />(4556 °C)
+        temperature: 248 K<br />(-25 °C)
   - name: 0114 Neralniad C III
     type: Large terrestrial
     aphelion: 154,515,944 km<br />1.033 AU
@@ -259,14 +259,14 @@ planets:
     radius: 4,023.3 km<br/>(0.632 Yrths)
     surface_area: 2.034 × 10<sup>08</sup> km<sup>2</sup><br/>(0.399 Yrths)
     volume: 2.728 × 10<sup>11</sup> km<sup>3</sup><br/>(0.252 Yrths)
-    mass: 2.024 × 10<sup>24</sup> kg<br />(0.33895337282472165 Yrths)
+    mass: 2.024 × 10<sup>24</sup> kg<br />(0.34 Yrths)
     density: 7.420 g/cm<sup>3</sup>
     surface_gravity: 8.335 m/s<sup>2</sup><br />(0.850 g<sub>0</sub>)
     escape_velocity: 8.195 km/s<br />(29,502 km/h)
     rotation_period: 1.660 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 243 K<br />(-30 °C)
+    temperature: 253 K<br />(-20 °C)
     surface_pressure: 178 kPa<br />(2 atm)
     composition:
       - 60.5373% nitrogen
@@ -286,14 +286,14 @@ planets:
         radius: 1,214.4 km<br/>(0.191 Yrths)
         surface_area: 1.853 × 10<sup>07</sup> km<sup>2</sup><br/>(0.036 Yrths)
         volume: 7.503 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.240 × 10<sup>22</sup> kg<br />(0.33895337282472165 Yrths)
+        mass: 1.240 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.652 g/cm<sup>3</sup>
         surface_gravity: 0.560 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 1.167 km/s<br />(4,202 km/h)
         rotation_period: 74.563 d
         axial_tilt: 21.72°
         albedo: 0.30
-        temperature: 3224 K<br />(2951 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 0114 Neralniad C III b
         type: Icy
         formationType: Captured
@@ -306,14 +306,14 @@ planets:
         radius: 1,785.4 km<br/>(0.280 Yrths)
         surface_area: 4.006 × 10<sup>07</sup> km<sup>2</sup><br/>(0.079 Yrths)
         volume: 2.384 × 10<sup>10</sup> km<sup>3</sup><br/>(0.022 Yrths)
-        mass: 4.131 × 10<sup>22</sup> kg<br />(0.33895337282472165 Yrths)
+        mass: 4.131 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 1.733 g/cm<sup>3</sup>
         surface_gravity: 0.864 m/s<sup>2</sup><br />(0.088 g<sub>0</sub>)
         escape_velocity: 1.757 km/s<br />(6,326 km/h)
         rotation_period: 41.067 d
         axial_tilt: 12.66°
         albedo: 0.30
-        temperature: 3074 K<br />(2800 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 0114 Neralniad C III c
         type: Rocky
         formationType: Captured
@@ -326,14 +326,14 @@ planets:
         radius: 358.4 km<br/>(0.056 Yrths)
         surface_area: 1.614 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.928 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.772 × 10<sup>20</sup> kg<br />(0.33895337282472165 Yrths)
+        mass: 4.772 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.475 g/cm<sup>3</sup>
         surface_gravity: 0.248 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.422 km/s<br />(1,518 km/h)
         rotation_period: 44.522 d
         axial_tilt: 20.40°
         albedo: 0.30
-        temperature: 2931 K<br />(2657 °C)
+        temperature: 194 K<br />(-79 °C)
   - name: 0114 Neralniad C IV
     type: Terrestrial
     aphelion: 261,013,726 km<br />1.745 AU
@@ -345,14 +345,14 @@ planets:
     radius: 6,879.8 km<br/>(1.080 Yrths)
     surface_area: 5.948 × 10<sup>08</sup> km<sup>2</sup><br/>(1.166 Yrths)
     volume: 1.364 × 10<sup>12</sup> km<sup>3</sup><br/>(1.259 Yrths)
-    mass: 7.081 × 10<sup>24</sup> kg<br />(1.1856832653846543 Yrths)
+    mass: 7.081 × 10<sup>24</sup> kg<br />(1.19 Yrths)
     density: 5.191 g/cm<sup>3</sup>
     surface_gravity: 9.971 m/s<sup>2</sup><br />(1.017 g<sub>0</sub>)
     escape_velocity: 11.721 km/s<br />(42,197 km/h)
     rotation_period: 1.074 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 172 K<br />(-101 °C)
+    temperature: 208 K<br />(-65 °C)
     surface_pressure: 21 kPa<br />(0 atm)
     composition:
       - 89.7157% nitrogen
@@ -371,14 +371,14 @@ planets:
         radius: 3,473.9 km<br/>(0.545 Yrths)
         surface_area: 1.517 × 10<sup>08</sup> km<sup>2</sup><br/>(0.297 Yrths)
         volume: 1.756 × 10<sup>11</sup> km<sup>3</sup><br/>(0.162 Yrths)
-        mass: 4.979 × 10<sup>23</sup> kg<br />(1.1856832653846543 Yrths)
+        mass: 4.979 × 10<sup>23</sup> kg<br />(0.083 Yrths)
         density: 2.835 g/cm<sup>3</sup>
         surface_gravity: 2.750 m/s<sup>2</sup><br />(0.280 g<sub>0</sub>)
         escape_velocity: 4.374 km/s<br />(15,747 km/h)
         rotation_period: 45.406 d
         axial_tilt: 25.50°
         albedo: 0.30
-        temperature: 2076 K<br />(1803 °C)
+        temperature: 152 K<br />(-121 °C)
   - name: 0114 Neralniad C V
     type: Gas giant
     aphelion: 474,175,035 km<br />3.170 AU
@@ -390,7 +390,7 @@ planets:
     radius: 228.4 km<br/>(0.036 Yrths)
     surface_area: 6.558 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.994 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.779 × 10<sup>27</sup> kg<br />(297.87403594059356 Yrths)
+    mass: 1.779 × 10<sup>27</sup> kg<br />(297.87 Yrths)
     density: 35620042.395 g/cm<sup>3</sup>
     surface_gravity: 2271898.530 m/s<sup>2</sup><br />(231669.177 g<sub>0</sub>)
     escape_velocity: 1019.528 km/s<br />(3,670,301 km/h)
@@ -411,14 +411,14 @@ planets:
         radius: 189,633.6 km<br/>(29.765 Yrths)
         surface_area: 4.519 × 10<sup>11</sup> km<sup>2</sup><br/>(885.963 Yrths)
         volume: 2.857 × 10<sup>16</sup> km<sup>3</sup><br/>(26370.788 Yrths)
-        mass: 9.693 × 10<sup>28</sup> kg<br />(297.87403594059356 Yrths)
+        mass: 9.693 × 10<sup>28</sup> kg<br />(16230.192 Yrths)
         density: 3.393 g/cm<sup>3</sup>
         surface_gravity: 179.651 m/s<sup>2</sup><br />(18.319 g<sub>0</sub>)
         escape_velocity: 261.205 km/s<br />(940,339 km/h)
         rotation_period: 29.555 d
         axial_tilt: 9.87°
         albedo: 0.30
-        temperature: 493 K<br />(220 °C)
+        temperature: 119 K<br />(-154 °C)
       - name: 0114 Neralniad C V b
         type: Asteroid
         formationType: Captured
@@ -431,14 +431,14 @@ planets:
         radius: 190,016.2 km<br/>(29.825 Yrths)
         surface_area: 4.537 × 10<sup>11</sup> km<sup>2</sup><br/>(889.541 Yrths)
         volume: 2.874 × 10<sup>16</sup> km<sup>3</sup><br/>(26530.717 Yrths)
-        mass: 6.678 × 10<sup>28</sup> kg<br />(297.87403594059356 Yrths)
+        mass: 6.678 × 10<sup>28</sup> kg<br />(11182.707 Yrths)
         density: 2.324 g/cm<sup>3</sup>
         surface_gravity: 123.283 m/s<sup>2</sup><br />(12.571 g<sub>0</sub>)
         escape_velocity: 216.599 km/s<br />(779,755 km/h)
         rotation_period: 38.382 d
         axial_tilt: 33.34°
         albedo: 0.30
-        temperature: 408 K<br />(135 °C)
+        temperature: 119 K<br />(-154 °C)
       - name: 0114 Neralniad C V c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -451,14 +451,14 @@ planets:
         radius: 239,251.4 km<br/>(37.553 Yrths)
         surface_area: 7.193 × 10<sup>11</sup> km<sup>2</sup><br/>(1410.242 Yrths)
         volume: 5.737 × 10<sup>16</sup> km<sup>3</sup><br/>(52959.093 Yrths)
-        mass: 1.291 × 10<sup>29</sup> kg<br />(297.87403594059356 Yrths)
+        mass: 1.291 × 10<sup>29</sup> kg<br />(21613.351 Yrths)
         density: 2.250 g/cm<sup>3</sup>
         surface_gravity: 150.297 m/s<sup>2</sup><br />(15.326 g<sub>0</sub>)
         escape_velocity: 268.356 km/s<br />(966,082 km/h)
         rotation_period: 47.496 d
         axial_tilt: 17.79°
         albedo: 0.30
-        temperature: 354 K<br />(80 °C)
+        temperature: 119 K<br />(-154 °C)
       - name: 0114 Neralniad C V d
         type: Rocky
         formationType: Impact formed
@@ -471,14 +471,14 @@ planets:
         radius: 189,585.2 km<br/>(29.758 Yrths)
         surface_area: 4.517 × 10<sup>11</sup> km<sup>2</sup><br/>(885.510 Yrths)
         volume: 2.854 × 10<sup>16</sup> km<sup>3</sup><br/>(26350.583 Yrths)
-        mass: 8.323 × 10<sup>28</sup> kg<br />(297.87403594059356 Yrths)
+        mass: 8.323 × 10<sup>28</sup> kg<br />(13937.474 Yrths)
         density: 2.916 g/cm<sup>3</sup>
         surface_gravity: 154.352 m/s<sup>2</sup><br />(15.739 g<sub>0</sub>)
         escape_velocity: 242.085 km/s<br />(871,505 km/h)
         rotation_period: 35.206 d
         axial_tilt: 15.67°
         albedo: 0.30
-        temperature: 181 K<br />(-92 °C)
+        temperature: 119 K<br />(-154 °C)
       - name: 0114 Neralniad C V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -491,14 +491,14 @@ planets:
         radius: 210,579.5 km<br/>(33.053 Yrths)
         surface_area: 5.572 × 10<sup>11</sup> km<sup>2</sup><br/>(1092.489 Yrths)
         volume: 3.911 × 10<sup>16</sup> km<sup>3</sup><br/>(36109.840 Yrths)
-        mass: 9.363 × 10<sup>28</sup> kg<br />(297.87403594059356 Yrths)
+        mass: 9.363 × 10<sup>28</sup> kg<br />(15677.665 Yrths)
         density: 2.394 g/cm<sup>3</sup>
         surface_gravity: 140.729 m/s<sup>2</sup><br />(14.350 g<sub>0</sub>)
         escape_velocity: 243.619 km/s<br />(877,027 km/h)
         rotation_period: 33.646 d
         axial_tilt: 20.70°
         albedo: 0.30
-        temperature: 64 K<br />(-210 °C)
+        temperature: 119 K<br />(-154 °C)
   - name: 0114 Neralniad C VI
     type: Large terrestrial
     aphelion: 738,818,408 km<br />4.939 AU
@@ -510,14 +510,14 @@ planets:
     radius: 7,324.2 km<br/>(1.150 Yrths)
     surface_area: 6.741 × 10<sup>08</sup> km<sup>2</sup><br/>(1.322 Yrths)
     volume: 1.646 × 10<sup>12</sup> km<sup>3</sup><br/>(1.519 Yrths)
-    mass: 1.124 × 10<sup>25</sup> kg<br />(1.8816164108695148 Yrths)
+    mass: 1.124 × 10<sup>25</sup> kg<br />(1.88 Yrths)
     density: 6.828 g/cm<sup>3</sup>
     surface_gravity: 13.962 m/s<sup>2</sup><br />(1.424 g<sub>0</sub>)
     escape_velocity: 14.311 km/s<br />(51,519 km/h)
     rotation_period: 0.811 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 120 K<br />(-153 °C)
+    temperature: 106 K<br />(-168 °C)
     surface_pressure: 371 kPa<br />(4 atm)
     composition:
       - 92.8103% nitrogen
@@ -535,14 +535,14 @@ planets:
         radius: 6,192.1 km<br/>(0.972 Yrths)
         surface_area: 4.818 × 10<sup>08</sup> km<sup>2</sup><br/>(0.945 Yrths)
         volume: 9.945 × 10<sup>11</sup> km<sup>3</sup><br/>(0.918 Yrths)
-        mass: 1.075 × 10<sup>24</sup> kg<br />(1.8816164108695148 Yrths)
+        mass: 1.075 × 10<sup>24</sup> kg<br />(0.180 Yrths)
         density: 1.081 g/cm<sup>3</sup>
         surface_gravity: 1.869 m/s<sup>2</sup><br />(0.191 g<sub>0</sub>)
         escape_velocity: 4.814 km/s<br />(17,330 km/h)
         rotation_period: 81.867 d
         axial_tilt: 18.52°
         albedo: 0.30
-        temperature: 1141 K<br />(868 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 0114 Neralniad C VI b
         type: Rocky
         formationType: Impact formed
@@ -555,14 +555,14 @@ planets:
         radius: 3,578.9 km<br/>(0.562 Yrths)
         surface_area: 1.610 × 10<sup>08</sup> km<sup>2</sup><br/>(0.316 Yrths)
         volume: 1.920 × 10<sup>11</sup> km<sup>3</sup><br/>(0.177 Yrths)
-        mass: 5.350 × 10<sup>23</sup> kg<br />(1.8816164108695148 Yrths)
+        mass: 5.350 × 10<sup>23</sup> kg<br />(0.090 Yrths)
         density: 2.786 g/cm<sup>3</sup>
         surface_gravity: 2.784 m/s<sup>2</sup><br />(0.284 g<sub>0</sub>)
         escape_velocity: 4.467 km/s<br />(16,081 km/h)
         rotation_period: 40.140 d
         axial_tilt: 9.05°
         albedo: 0.30
-        temperature: 1088 K<br />(815 °C)
+        temperature: 93 K<br />(-180 °C)
   - name: 0114 Neralniad C VII
     type: Gas giant
     aphelion: 1,124,143,610 km<br />7.514 AU
@@ -574,7 +574,7 @@ planets:
     radius: 195.7 km<br/>(0.031 Yrths)
     surface_area: 4.812 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.139 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.159 × 10<sup>26</sup> kg<br />(153.36217173925235 Yrths)
+    mass: 9.159 × 10<sup>26</sup> kg<br />(153.36 Yrths)
     density: 29175488.099 g/cm<sup>3</sup>
     surface_gravity: 1594042.622 m/s<sup>2</sup><br />(162547.111 g<sub>0</sub>)
     escape_velocity: 790.403 km/s<br />(2,845,449 km/h)
@@ -595,14 +595,14 @@ planets:
         radius: 153,160.9 km<br/>(24.040 Yrths)
         surface_area: 2.948 × 10<sup>11</sup> km<sup>2</sup><br/>(577.937 Yrths)
         volume: 1.505 × 10<sup>16</sup> km<sup>3</sup><br/>(13893.806 Yrths)
-        mass: 2.440 × 10<sup>28</sup> kg<br />(153.36217173925235 Yrths)
+        mass: 2.440 × 10<sup>28</sup> kg<br />(4086.129 Yrths)
         density: 1.621 g/cm<sup>3</sup>
         surface_gravity: 69.335 m/s<sup>2</sup><br />(7.070 g<sub>0</sub>)
         escape_velocity: 145.834 km/s<br />(525,004 km/h)
         rotation_period: 50.317 d
         axial_tilt: 28.13°
         albedo: 0.30
-        temperature: 279 K<br />(5 °C)
+        temperature: 73 K<br />(-201 °C)
       - name: 0114 Neralniad C VII b
         type: Icy
         formationType: Accreted
@@ -615,14 +615,14 @@ planets:
         radius: 159,217.8 km<br/>(24.991 Yrths)
         surface_area: 3.186 × 10<sup>11</sup> km<sup>2</sup><br/>(624.551 Yrths)
         volume: 1.691 × 10<sup>16</sup> km<sup>3</sup><br/>(15608.161 Yrths)
-        mass: 3.018 × 10<sup>28</sup> kg<br />(153.36217173925235 Yrths)
+        mass: 3.018 × 10<sup>28</sup> kg<br />(5053.310 Yrths)
         density: 1.785 g/cm<sup>3</sup>
         surface_gravity: 79.347 m/s<sup>2</sup><br />(8.091 g<sub>0</sub>)
         escape_velocity: 159.063 km/s<br />(572,628 km/h)
         rotation_period: 50.038 d
         axial_tilt: 12.65°
         albedo: 0.30
-        temperature: 130 K<br />(-143 °C)
+        temperature: 73 K<br />(-201 °C)
       - name: 0114 Neralniad C VII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -635,14 +635,14 @@ planets:
         radius: 141,068.5 km<br/>(22.142 Yrths)
         surface_area: 2.501 × 10<sup>11</sup> km<sup>2</sup><br/>(490.281 Yrths)
         volume: 1.176 × 10<sup>16</sup> km<sup>3</sup><br/>(10855.936 Yrths)
-        mass: 2.285 × 10<sup>28</sup> kg<br />(153.36217173925235 Yrths)
+        mass: 2.285 × 10<sup>28</sup> kg<br />(3826.573 Yrths)
         density: 1.943 g/cm<sup>3</sup>
         surface_gravity: 76.540 m/s<sup>2</sup><br />(7.805 g<sub>0</sub>)
         escape_velocity: 147.051 km/s<br />(529,383 km/h)
         rotation_period: 55.976 d
         axial_tilt: 18.19°
         albedo: 0.30
-        temperature: 118 K<br />(-155 °C)
+        temperature: 73 K<br />(-201 °C)
       - name: 0114 Neralniad C VII d
         type: Icy
         formationType: Accreted
@@ -655,14 +655,14 @@ planets:
         radius: 203,161.0 km<br/>(31.888 Yrths)
         surface_area: 5.187 × 10<sup>11</sup> km<sup>2</sup><br/>(1016.870 Yrths)
         volume: 3.512 × 10<sup>16</sup> km<sup>3</sup><br/>(32426.368 Yrths)
-        mass: 3.983 × 10<sup>28</sup> kg<br />(153.36217173925235 Yrths)
+        mass: 3.983 × 10<sup>28</sup> kg<br />(6668.695 Yrths)
         density: 1.134 g/cm<sup>3</sup>
         surface_gravity: 64.313 m/s<sup>2</sup><br />(6.558 g<sub>0</sub>)
         escape_velocity: 161.763 km/s<br />(582,345 km/h)
         rotation_period: 74.979 d
         axial_tilt: 22.17°
         albedo: 0.30
-        temperature: 93 K<br />(-180 °C)
+        temperature: 73 K<br />(-201 °C)
       - name: 0114 Neralniad C VII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -675,14 +675,14 @@ planets:
         radius: 137,079.8 km<br/>(21.516 Yrths)
         surface_area: 2.361 × 10<sup>11</sup> km<sup>2</sup><br/>(462.947 Yrths)
         volume: 1.079 × 10<sup>16</sup> km<sup>3</sup><br/>(9960.866 Yrths)
-        mass: 2.070 × 10<sup>28</sup> kg<br />(153.36217173925235 Yrths)
+        mass: 2.070 × 10<sup>28</sup> kg<br />(3466.257 Yrths)
         density: 1.919 g/cm<sup>3</sup>
         surface_gravity: 73.426 m/s<sup>2</sup><br />(7.487 g<sub>0</sub>)
         escape_velocity: 141.978 km/s<br />(511,121 km/h)
         rotation_period: 70.286 d
         axial_tilt: 18.35°
         albedo: 0.30
-        temperature: 64 K<br />(-210 °C)
+        temperature: 73 K<br />(-201 °C)
   - name: 0114 Neralniad C VIII
     type: Gas giant
     aphelion: 1,853,379,856 km<br />12.389 AU
@@ -694,7 +694,7 @@ planets:
     radius: 189.5 km<br/>(0.030 Yrths)
     surface_area: 4.511 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.849 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.973 × 10<sup>26</sup> kg<br />(133.50961731089942 Yrths)
+    mass: 7.973 × 10<sup>26</sup> kg<br />(133.51 Yrths)
     density: 27985999.478 g/cm<sup>3</sup>
     surface_gravity: 1480402.548 m/s<sup>2</sup><br />(150959.048 g<sub>0</sub>)
     escape_velocity: 749.492 km/s<br />(2,698,170 km/h)
@@ -715,14 +715,14 @@ planets:
         radius: 105,805.6 km<br/>(16.607 Yrths)
         surface_area: 1.407 × 10<sup>11</sup> km<sup>2</sup><br/>(275.805 Yrths)
         volume: 4.962 × 10<sup>15</sup> km<sup>3</sup><br/>(4580.392 Yrths)
-        mass: 5.659 × 10<sup>27</sup> kg<br />(133.50961731089942 Yrths)
+        mass: 5.659 × 10<sup>27</sup> kg<br />(947.543 Yrths)
         density: 1.141 g/cm<sup>3</sup>
         surface_gravity: 33.691 m/s<sup>2</sup><br />(3.436 g<sub>0</sub>)
         escape_velocity: 84.493 km/s<br />(304,176 km/h)
         rotation_period: 47.528 d
         axial_tilt: 11.09°
         albedo: 0.30
-        temperature: 234 K<br />(-39 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0114 Neralniad C VIII b
         type: Asteroid
         formationType: Captured
@@ -735,14 +735,14 @@ planets:
         radius: 90,477.4 km<br/>(14.201 Yrths)
         surface_area: 1.029 × 10<sup>11</sup> km<sup>2</sup><br/>(201.681 Yrths)
         volume: 3.102 × 10<sup>15</sup> km<sup>3</sup><br/>(2864.161 Yrths)
-        mass: 6.489 × 10<sup>27</sup> kg<br />(133.50961731089942 Yrths)
+        mass: 6.489 × 10<sup>27</sup> kg<br />(1086.568 Yrths)
         density: 2.092 g/cm<sup>3</sup>
         surface_gravity: 52.834 m/s<sup>2</sup><br />(5.388 g<sub>0</sub>)
         escape_velocity: 97.844 km/s<br />(352,240 km/h)
         rotation_period: 64.379 d
         axial_tilt: 25.40°
         albedo: 0.30
-        temperature: 223 K<br />(-50 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0114 Neralniad C VIII c
         type: Dwarf planet
         formationType: Impact formed
@@ -755,14 +755,14 @@ planets:
         radius: 99,254.7 km<br/>(15.579 Yrths)
         surface_area: 1.238 × 10<sup>11</sup> km<sup>2</sup><br/>(242.710 Yrths)
         volume: 4.096 × 10<sup>15</sup> km<sup>3</sup><br/>(3781.209 Yrths)
-        mass: 8.212 × 10<sup>27</sup> kg<br />(133.50961731089942 Yrths)
+        mass: 8.212 × 10<sup>27</sup> kg<br />(1375.059 Yrths)
         density: 2.005 g/cm<sup>3</sup>
         surface_gravity: 55.559 m/s<sup>2</sup><br />(5.665 g<sub>0</sub>)
         escape_velocity: 105.090 km/s<br />(378,325 km/h)
         rotation_period: 67.138 d
         axial_tilt: 35.85°
         albedo: 0.30
-        temperature: 82 K<br />(-191 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0114 Neralniad C VIII d
         type: Dwarf planet
         formationType: Accreted
@@ -775,14 +775,14 @@ planets:
         radius: 106,526.7 km<br/>(16.721 Yrths)
         surface_area: 1.426 × 10<sup>11</sup> km<sup>2</sup><br/>(279.577 Yrths)
         volume: 5.064 × 10<sup>15</sup> km<sup>3</sup><br/>(4674.688 Yrths)
-        mass: 7.784 × 10<sup>27</sup> kg<br />(133.50961731089942 Yrths)
+        mass: 7.784 × 10<sup>27</sup> kg<br />(1303.467 Yrths)
         density: 1.537 g/cm<sup>3</sup>
         surface_gravity: 45.721 m/s<sup>2</sup><br />(4.662 g<sub>0</sub>)
         escape_velocity: 98.764 km/s<br />(355,550 km/h)
         rotation_period: 49.275 d
         axial_tilt: 36.17°
         albedo: 0.30
-        temperature: 51 K<br />(-222 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0114 Neralniad C VIII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -795,14 +795,14 @@ planets:
         radius: 149,169.1 km<br/>(23.414 Yrths)
         surface_area: 2.796 × 10<sup>11</sup> km<sup>2</sup><br/>(548.205 Yrths)
         volume: 1.390 × 10<sup>16</sup> km<sup>3</sup><br/>(12835.536 Yrths)
-        mass: 2.800 × 10<sup>28</sup> kg<br />(133.50961731089942 Yrths)
+        mass: 2.800 × 10<sup>28</sup> kg<br />(4687.777 Yrths)
         density: 2.014 g/cm<sup>3</sup>
         surface_gravity: 83.858 m/s<sup>2</sup><br />(8.551 g<sub>0</sub>)
         escape_velocity: 158.278 km/s<br />(569,802 km/h)
         rotation_period: 36.196 d
         axial_tilt: 29.57°
         albedo: 0.30
-        temperature: 35 K<br />(-238 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0114 Neralniad C VIII f
         type: Icy
         formationType: Accreted
@@ -815,14 +815,14 @@ planets:
         radius: 106,409.5 km<br/>(16.702 Yrths)
         surface_area: 1.423 × 10<sup>11</sup> km<sup>2</sup><br/>(278.962 Yrths)
         volume: 5.047 × 10<sup>15</sup> km<sup>3</sup><br/>(4659.279 Yrths)
-        mass: 7.403 × 10<sup>27</sup> kg<br />(133.50961731089942 Yrths)
+        mass: 7.403 × 10<sup>27</sup> kg<br />(1239.617 Yrths)
         density: 1.467 g/cm<sup>3</sup>
         surface_gravity: 43.578 m/s<sup>2</sup><br />(4.444 g<sub>0</sub>)
         escape_velocity: 96.368 km/s<br />(346,924 km/h)
         rotation_period: 42.271 d
         axial_tilt: 20.46°
         albedo: 0.30
-        temperature: 25 K<br />(-248 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0114 Neralniad C VIII g
         type: Icy
         formationType: Accreted
@@ -835,14 +835,14 @@ planets:
         radius: 100,068.1 km<br/>(15.707 Yrths)
         surface_area: 1.258 × 10<sup>11</sup> km<sup>2</sup><br/>(246.704 Yrths)
         volume: 4.197 × 10<sup>15</sup> km<sup>3</sup><br/>(3874.933 Yrths)
-        mass: 5.665 × 10<sup>27</sup> kg<br />(133.50961731089942 Yrths)
+        mass: 5.665 × 10<sup>27</sup> kg<br />(948.613 Yrths)
         density: 1.350 g/cm<sup>3</sup>
         surface_gravity: 37.708 m/s<sup>2</sup><br />(3.845 g<sub>0</sub>)
         escape_velocity: 86.931 km/s<br />(312,951 km/h)
         rotation_period: 72.126 d
         axial_tilt: 12.90°
         albedo: 0.30
-        temperature: 20 K<br />(-254 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 0114 Neralniad C VIII h
         type: Icy
         formationType: Accreted
@@ -855,14 +855,14 @@ planets:
         radius: 101,611.5 km<br/>(15.949 Yrths)
         surface_area: 1.297 × 10<sup>11</sup> km<sup>2</sup><br/>(254.373 Yrths)
         volume: 4.395 × 10<sup>15</sup> km<sup>3</sup><br/>(4057.008 Yrths)
-        mass: 5.952 × 10<sup>27</sup> kg<br />(133.50961731089942 Yrths)
+        mass: 5.952 × 10<sup>27</sup> kg<br />(996.583 Yrths)
         density: 1.354 g/cm<sup>3</sup>
         surface_gravity: 38.421 m/s<sup>2</sup><br />(3.918 g<sub>0</sub>)
         escape_velocity: 88.423 km/s<br />(318,321 km/h)
         rotation_period: 45.485 d
         axial_tilt: 16.31°
         albedo: 0.30
-        temperature: 19 K<br />(-254 °C)
+        temperature: 57 K<br />(-216 °C)
   - name: 0114 Neralniad C IX
     type: Gas giant
     aphelion: 2,973,047,930 km<br />19.873 AU
@@ -874,7 +874,7 @@ planets:
     radius: 225.6 km<br/>(0.035 Yrths)
     surface_area: 6.395 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.809 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.684 × 10<sup>27</sup> kg<br />(282.05074520271353 Yrths)
+    mass: 1.684 × 10<sup>27</sup> kg<br />(282.05 Yrths)
     density: 35025146.063 g/cm<sup>3</sup>
     surface_gravity: 2206026.947 m/s<sup>2</sup><br />(224952.144 g<sub>0</sub>)
     escape_velocity: 998.340 km/s<br />(3,594,023 km/h)
@@ -895,14 +895,14 @@ planets:
         radius: 170,625.2 km<br/>(26.782 Yrths)
         surface_area: 3.658 × 10<sup>11</sup> km<sup>2</sup><br/>(717.251 Yrths)
         volume: 2.081 × 10<sup>16</sup> km<sup>3</sup><br/>(19209.102 Yrths)
-        mass: 4.280 × 10<sup>28</sup> kg<br />(282.05074520271353 Yrths)
+        mass: 4.280 × 10<sup>28</sup> kg<br />(7166.561 Yrths)
         density: 2.057 g/cm<sup>3</sup>
         surface_gravity: 97.985 m/s<sup>2</sup><br />(9.992 g<sub>0</sub>)
         escape_velocity: 182.983 km/s<br />(658,740 km/h)
         rotation_period: 38.901 d
         axial_tilt: 54.89°
         albedo: 0.30
-        temperature: 105 K<br />(-168 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0114 Neralniad C IX b
         type: Ice/rock hybrid
         formationType: Captured
@@ -915,14 +915,14 @@ planets:
         radius: 149,268.5 km<br/>(23.429 Yrths)
         surface_area: 2.800 × 10<sup>11</sup> km<sup>2</sup><br/>(548.935 Yrths)
         volume: 1.393 × 10<sup>16</sup> km<sup>3</sup><br/>(12861.202 Yrths)
-        mass: 3.894 × 10<sup>28</sup> kg<br />(282.05074520271353 Yrths)
+        mass: 3.894 × 10<sup>28</sup> kg<br />(6520.333 Yrths)
         density: 2.795 g/cm<sup>3</sup>
         surface_gravity: 116.485 m/s<sup>2</sup><br />(11.878 g<sub>0</sub>)
         escape_velocity: 186.607 km/s<br />(671,786 km/h)
         rotation_period: 34.008 d
         axial_tilt: 7.99°
         albedo: 0.30
-        temperature: 83 K<br />(-190 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0114 Neralniad C IX c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -935,14 +935,14 @@ planets:
         radius: 152,539.2 km<br/>(23.943 Yrths)
         surface_area: 2.924 × 10<sup>11</sup> km<sup>2</sup><br/>(573.255 Yrths)
         volume: 1.487 × 10<sup>16</sup> km<sup>3</sup><br/>(13725.300 Yrths)
-        mass: 3.809 × 10<sup>28</sup> kg<br />(282.05074520271353 Yrths)
+        mass: 3.809 × 10<sup>28</sup> kg<br />(6377.682 Yrths)
         density: 2.562 g/cm<sup>3</sup>
         surface_gravity: 109.103 m/s<sup>2</sup><br />(11.125 g<sub>0</sub>)
         escape_velocity: 182.565 km/s<br />(657,235 km/h)
         rotation_period: 40.618 d
         axial_tilt: 21.22°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0114 Neralniad C IX d
         type: Dwarf planet
         formationType: Accreted
@@ -955,14 +955,14 @@ planets:
         radius: 187,804.1 km<br/>(29.478 Yrths)
         surface_area: 4.432 × 10<sup>11</sup> km<sup>2</sup><br/>(868.950 Yrths)
         volume: 2.775 × 10<sup>16</sup> km<sup>3</sup><br/>(25614.869 Yrths)
-        mass: 4.093 × 10<sup>28</sup> kg<br />(282.05074520271353 Yrths)
+        mass: 4.093 × 10<sup>28</sup> kg<br />(6853.816 Yrths)
         density: 1.475 g/cm<sup>3</sup>
         surface_gravity: 77.350 m/s<sup>2</sup><br />(7.887 g<sub>0</sub>)
         escape_velocity: 170.566 km/s<br />(614,036 km/h)
         rotation_period: 68.007 d
         axial_tilt: 35.89°
         albedo: 0.30
-        temperature: 32 K<br />(-241 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0114 Neralniad C IX e
         type: Icy
         formationType: Accreted
@@ -975,14 +975,14 @@ planets:
         radius: 175,869.9 km<br/>(27.605 Yrths)
         surface_area: 3.887 × 10<sup>11</sup> km<sup>2</sup><br/>(762.022 Yrths)
         volume: 2.279 × 10<sup>16</sup> km<sup>3</sup><br/>(21035.438 Yrths)
-        mass: 2.909 × 10<sup>28</sup> kg<br />(282.05074520271353 Yrths)
+        mass: 2.909 × 10<sup>28</sup> kg<br />(4870.555 Yrths)
         density: 1.277 g/cm<sup>3</sup>
         surface_gravity: 62.680 m/s<sup>2</sup><br />(6.392 g<sub>0</sub>)
         escape_velocity: 148.584 km/s<br />(534,901 km/h)
         rotation_period: 75.759 d
         axial_tilt: 19.04°
         albedo: 0.30
-        temperature: 16 K<br />(-257 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0114 Neralniad C IX f
         type: Dwarf planet
         formationType: Accreted
@@ -995,14 +995,14 @@ planets:
         radius: 158,315.8 km<br/>(24.849 Yrths)
         surface_area: 3.150 × 10<sup>11</sup> km<sup>2</sup><br/>(617.495 Yrths)
         volume: 1.662 × 10<sup>16</sup> km<sup>3</sup><br/>(15344.394 Yrths)
-        mass: 3.323 × 10<sup>28</sup> kg<br />(282.05074520271353 Yrths)
+        mass: 3.323 × 10<sup>28</sup> kg<br />(5564.012 Yrths)
         density: 1.999 g/cm<sup>3</sup>
         surface_gravity: 88.364 m/s<sup>2</sup><br />(9.011 g<sub>0</sub>)
         escape_velocity: 167.382 km/s<br />(602,577 km/h)
         rotation_period: 35.664 d
         axial_tilt: 39.10°
         albedo: 0.30
-        temperature: 15 K<br />(-258 °C)
+        temperature: 44 K<br />(-229 °C)
       - name: 0114 Neralniad C IX g
         type: Ice/rock hybrid
         formationType: Captured
@@ -1015,14 +1015,14 @@ planets:
         radius: 268,951.7 km<br/>(42.215 Yrths)
         surface_area: 9.090 × 10<sup>11</sup> km<sup>2</sup><br/>(1782.106 Yrths)
         volume: 8.149 × 10<sup>16</sup> km<sup>3</sup><br/>(75231.589 Yrths)
-        mass: 1.392 × 10<sup>29</sup> kg<br />(282.05074520271353 Yrths)
+        mass: 1.392 × 10<sup>29</sup> kg<br />(23316.292 Yrths)
         density: 1.709 g/cm<sup>3</sup>
         surface_gravity: 128.306 m/s<sup>2</sup><br />(13.084 g<sub>0</sub>)
         escape_velocity: 262.888 km/s<br />(946,396 km/h)
         rotation_period: 51.212 d
         axial_tilt: 24.48°
         albedo: 0.30
-        temperature: 14 K<br />(-260 °C)
+        temperature: 44 K<br />(-229 °C)
   - name: 0114 Neralniad C X
     type: Large terrestrial
     aphelion: 5,426,229,728 km<br />36.272 AU
@@ -1034,14 +1034,14 @@ planets:
     radius: 9,861.8 km<br/>(1.548 Yrths)
     surface_area: 1.222 × 10<sup>09</sup> km<sup>2</sup><br/>(2.396 Yrths)
     volume: 4.017 × 10<sup>12</sup> km<sup>3</sup><br/>(3.709 Yrths)
-    mass: 2.737 × 10<sup>25</sup> kg<br />(4.5824999220928495 Yrths)
+    mass: 2.737 × 10<sup>25</sup> kg<br />(4.58 Yrths)
     density: 6.812 g/cm<sup>3</sup>
     surface_gravity: 18.756 m/s<sup>2</sup><br />(1.913 g<sub>0</sub>)
     escape_velocity: 19.247 km/s<br />(69,287 km/h)
     rotation_period: 0.581 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 47 K<br />(-226 °C)
+    temperature: 56 K<br />(-217 °C)
     surface_pressure: 420 kPa<br />(4 atm)
     composition:
       - 71.9920% methane
@@ -1061,14 +1061,14 @@ planets:
         radius: 6,461.8 km<br/>(1.014 Yrths)
         surface_area: 5.247 × 10<sup>08</sup> km<sup>2</sup><br/>(1.029 Yrths)
         volume: 1.130 × 10<sup>12</sup> km<sup>3</sup><br/>(1.043 Yrths)
-        mass: 2.043 × 10<sup>24</sup> kg<br />(4.5824999220928495 Yrths)
+        mass: 2.043 × 10<sup>24</sup> kg<br />(0.342 Yrths)
         density: 1.808 g/cm<sup>3</sup>
         surface_gravity: 3.261 m/s<sup>2</sup><br />(0.333 g<sub>0</sub>)
         escape_velocity: 6.496 km/s<br />(23,387 km/h)
         rotation_period: 48.374 d
         axial_tilt: 46.10°
         albedo: 0.30
-        temperature: 383 K<br />(110 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 0114 Neralniad C X b
         type: Icy
         formationType: Captured
@@ -1081,14 +1081,14 @@ planets:
         radius: 8,815.6 km<br/>(1.384 Yrths)
         surface_area: 9.766 × 10<sup>08</sup> km<sup>2</sup><br/>(1.915 Yrths)
         volume: 2.870 × 10<sup>12</sup> km<sup>3</sup><br/>(2.649 Yrths)
-        mass: 3.800 × 10<sup>24</sup> kg<br />(4.5824999220928495 Yrths)
+        mass: 3.800 × 10<sup>24</sup> kg<br />(0.636 Yrths)
         density: 1.324 g/cm<sup>3</sup>
         surface_gravity: 3.259 m/s<sup>2</sup><br />(0.332 g<sub>0</sub>)
         escape_velocity: 7.585 km/s<br />(27,306 km/h)
         rotation_period: 60.997 d
         axial_tilt: 23.47°
         albedo: 0.30
-        temperature: 365 K<br />(92 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 0114 Neralniad C X c
         type: Ice/rock hybrid
         formationType: Captured
@@ -1101,12 +1101,12 @@ planets:
         radius: 9,136.0 km<br/>(1.434 Yrths)
         surface_area: 1.049 × 10<sup>09</sup> km<sup>2</sup><br/>(2.056 Yrths)
         volume: 3.194 × 10<sup>12</sup> km<sup>3</sup><br/>(2.949 Yrths)
-        mass: 6.988 × 10<sup>24</sup> kg<br />(4.5824999220928495 Yrths)
+        mass: 6.988 × 10<sup>24</sup> kg<br />(1.170 Yrths)
         density: 2.188 g/cm<sup>3</sup>
         surface_gravity: 5.580 m/s<sup>2</sup><br />(0.569 g<sub>0</sub>)
         escape_velocity: 10.104 km/s<br />(36,375 km/h)
         rotation_period: 38.001 d
         axial_tilt: 14.81°
         albedo: 0.30
-        temperature: 348 K<br />(75 °C)
+        temperature: 35 K<br />(-238 °C)
 ---

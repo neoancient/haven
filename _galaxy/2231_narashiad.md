@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2231 Narashiad is a star in the constellation Naras
+      2231 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 370.20 ly
 apparent_magnitude: 9.91
 absolute_magnitude: 4.63

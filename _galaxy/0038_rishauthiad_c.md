@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0038 Rishauthiad C is a star in the constellation Rishauth
+      0038 Rishauthiad C is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 211.78 ly
 apparent_magnitude: 11.12
 absolute_magnitude: 7.06
@@ -31,14 +31,14 @@ planets:
     radius: 3,152.2 km<br/>(0.495 Yrths)
     surface_area: 1.249 × 10<sup>08</sup> km<sup>2</sup><br/>(0.245 Yrths)
     volume: 1.312 × 10<sup>11</sup> km<sup>3</sup><br/>(0.121 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.552 g/cm<sup>3</sup>
     surface_gravity: 4.006 m/s<sup>2</sup><br />(0.408 g<sub>0</sub>)
     escape_velocity: 5.029 km/s<br />(18,104 km/h)
     rotation_period: 9.882 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 368 K<br />(95 °C)
+    temperature: 401 K<br />(128 °C)
     surface_pressure: 4 kPa<br />(0 atm)
     composition:
       - 89.3437% nitrogen
@@ -57,12 +57,12 @@ planets:
         radius: 569.8 km<br/>(0.089 Yrths)
         surface_area: 4.080 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.749 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.324 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.324 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.000 g/cm<sup>3</sup>
         surface_gravity: 0.477 m/s<sup>2</sup><br />(0.049 g<sub>0</sub>)
         escape_velocity: 0.738 km/s<br />(2,657 km/h)
         rotation_period: 36.956 d
         axial_tilt: 52.21°
         albedo: 0.30
-        temperature: 8340 K<br />(8066 °C)
+        temperature: 354 K<br />(80 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0114 Neralniad B is a star in the constellation Neraln
+      0114 Neralniad B is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 300.53 ly
 apparent_magnitude: 9.85
 absolute_magnitude: 5.03

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2607 Oniad A is a star in the constellation Oni
+      2607 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 398.40 ly
 apparent_magnitude: 9.13
 absolute_magnitude: 3.70

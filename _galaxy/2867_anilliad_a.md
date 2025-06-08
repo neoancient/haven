@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2867 Anilliad A is a star in the constellation Anil
+      2867 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 443.88 ly
 apparent_magnitude: 10.51
 absolute_magnitude: 4.84

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Lasraiad B is a star in the constellation Lasra
+      0028 Lasraiad B is a star in the constellation <a href="lasra.html">Lasra</a>
 distance: 254.66 ly
 apparent_magnitude: 9.11
 absolute_magnitude: 4.64

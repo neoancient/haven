@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      η Tenioshiad B is a star in the constellation Tenios
+      η Tenioshiad B is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 225.88 ly
 apparent_magnitude: 15.29
 absolute_magnitude: 11.09

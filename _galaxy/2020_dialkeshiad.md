@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2020 Dialkeshiad is a star in the constellation Dialkes
+      2020 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1203.47 ly
 apparent_magnitude: 17.27
 absolute_magnitude: 9.43

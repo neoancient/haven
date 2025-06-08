@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      229 Shanniashiad A is a star in the constellation Shannias
+      229 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 379.50 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 2.72

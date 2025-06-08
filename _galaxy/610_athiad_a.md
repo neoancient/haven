@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      610 Athiad A is a star in the constellation Ath
+      610 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 409.93 ly
 apparent_magnitude: 9.57
 absolute_magnitude: 4.08

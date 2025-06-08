@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0003 Neralniad B is a star in the constellation Neraln
+      0003 Neralniad B is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 1779.63 ly
 apparent_magnitude: 5.24
 absolute_magnitude: -3.44

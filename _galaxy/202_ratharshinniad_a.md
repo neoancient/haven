@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      202 Ratharshinniad A is a star in the constellation Ratharshin
+      202 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 380.73 ly
 apparent_magnitude: 8.22
 absolute_magnitude: 2.88

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4782 Narashiad A is a star in the constellation Naras
+      4782 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 402.34 ly
 apparent_magnitude: 10.94
 absolute_magnitude: 5.49

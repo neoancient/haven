@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3474 Niniunniad is a star in the constellation Niniun
+      3474 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 155.97 ly
 apparent_magnitude: 10.46
 absolute_magnitude: 7.06

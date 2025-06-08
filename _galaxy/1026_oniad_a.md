@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1026 Oniad A is a star in the constellation Oni
+      1026 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 601.89 ly
 apparent_magnitude: 8.73
 absolute_magnitude: 2.40

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0034 Ratharshinniad A is a star in the constellation Ratharshin
+      0034 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 225.50 ly
 apparent_magnitude: 6.35
 absolute_magnitude: 2.15

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1988 Keead is a star in the constellation Kee
+      1988 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 991.13 ly
 apparent_magnitude: 9.38
 absolute_magnitude: 1.96

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Serut B is a star in the constellation Shy
+      Serut B is a star in the constellation <a href="shy.html">Shy</a>
 distance: 454.89 ly
 apparent_magnitude: 14.56
 absolute_magnitude: 8.83
@@ -31,14 +31,14 @@ planets:
     radius: 2,866.1 km<br/>(0.450 Yrths)
     surface_area: 1.032 × 10<sup>08</sup> km<sup>2</sup><br/>(0.202 Yrths)
     volume: 9.862 × 10<sup>10</sup> km<sup>3</sup><br/>(0.091 Yrths)
-    mass: 2.183 × 10<sup>25</sup> kg<br />(3.6550544586428235 Yrths)
+    mass: 2.183 × 10<sup>25</sup> kg<br />(3.66 Yrths)
     density: 221.328 g/cm<sup>3</sup>
     surface_gravity: 177.108 m/s<sup>2</sup><br />(18.060 g<sub>0</sub>)
     escape_velocity: 31.884 km/s<br />(114,783 km/h)
     rotation_period: 1.738 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 566 K<br />(293 °C)
+    temperature: 1344 K<br />(1071 °C)
     surface_pressure: 720 kPa<br />(7 atm)
     composition:
       - 68.7856% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 4,785.5 km<br/>(0.751 Yrths)
         surface_area: 2.878 × 10<sup>08</sup> km<sup>2</sup><br/>(0.564 Yrths)
         volume: 4.591 × 10<sup>11</sup> km<sup>3</sup><br/>(0.424 Yrths)
-        mass: 1.553 × 10<sup>24</sup> kg<br />(3.6550544586428235 Yrths)
+        mass: 1.553 × 10<sup>24</sup> kg<br />(0.260 Yrths)
         density: 3.382 g/cm<sup>3</sup>
         surface_gravity: 4.519 m/s<sup>2</sup><br />(0.461 g<sub>0</sub>)
         escape_velocity: 6.581 km/s<br />(23,691 km/h)
         rotation_period: 52.444 d
         axial_tilt: 19.34°
         albedo: 0.30
-        temperature: 5086 K<br />(4813 °C)
+        temperature: 338 K<br />(65 °C)
       - name: Serut B I b
         type: Rocky
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 2,456.9 km<br/>(0.386 Yrths)
         surface_area: 7.586 × 10<sup>07</sup> km<sup>2</sup><br/>(0.149 Yrths)
         volume: 6.212 × 10<sup>10</sup> km<sup>3</sup><br/>(0.057 Yrths)
-        mass: 1.784 × 10<sup>23</sup> kg<br />(3.6550544586428235 Yrths)
+        mass: 1.784 × 10<sup>23</sup> kg<br />(0.030 Yrths)
         density: 2.872 g/cm<sup>3</sup>
         surface_gravity: 1.970 m/s<sup>2</sup><br />(0.201 g<sub>0</sub>)
         escape_velocity: 3.114 km/s<br />(11,209 km/h)
         rotation_period: 35.138 d
         axial_tilt: 16.50°
         albedo: 0.30
-        temperature: 4849 K<br />(4576 °C)
+        temperature: 338 K<br />(65 °C)
   - name: Serut B II
     type: Terrestrial
     aphelion: 68,676,814 km<br />0.459 AU
@@ -95,7 +95,7 @@ planets:
     radius: 2,943.9 km<br/>(0.462 Yrths)
     surface_area: 1.089 × 10<sup>08</sup> km<sup>2</sup><br/>(0.214 Yrths)
     volume: 1.069 × 10<sup>11</sup> km<sup>3</sup><br/>(0.099 Yrths)
-    mass: 5.613 × 10<sup>24</sup> kg<br />(0.9398791907967093 Yrths)
+    mass: 5.613 × 10<sup>24</sup> kg<br />(0.94 Yrths)
     density: 52.523 g/cm<sup>3</sup>
     surface_gravity: 43.169 m/s<sup>2</sup><br />(4.402 g<sub>0</sub>)
     escape_velocity: 15.953 km/s<br />(57,432 km/h)
@@ -116,12 +116,12 @@ planets:
         radius: 1,837.5 km<br/>(0.288 Yrths)
         surface_area: 4.243 × 10<sup>07</sup> km<sup>2</sup><br/>(0.083 Yrths)
         volume: 2.599 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 7.280 × 10<sup>22</sup> kg<br />(0.9398791907967093 Yrths)
+        mass: 7.280 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 2.801 g/cm<sup>3</sup>
         surface_gravity: 1.437 m/s<sup>2</sup><br />(0.147 g<sub>0</sub>)
         escape_velocity: 2.300 km/s<br />(8,279 km/h)
         rotation_period: 37.853 d
         axial_tilt: 17.54°
         albedo: 0.30
-        temperature: 3947 K<br />(3674 °C)
+        temperature: 260 K<br />(-13 °C)
 ---

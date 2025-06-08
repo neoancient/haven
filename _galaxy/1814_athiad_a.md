@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1814 Athiad A is a star in the constellation Ath
+      1814 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 554.12 ly
 apparent_magnitude: 9.06
 absolute_magnitude: 2.91

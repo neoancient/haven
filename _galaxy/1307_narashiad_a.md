@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1307 Narashiad A is a star in the constellation Naras
+      1307 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 390.20 ly
 apparent_magnitude: 9.54
 absolute_magnitude: 4.15

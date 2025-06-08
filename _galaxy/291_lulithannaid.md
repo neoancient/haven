@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      291 Lulithannaid is a star in the constellation Lulithan
+      291 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 374.38 ly
 apparent_magnitude: 10.03
 absolute_magnitude: 4.73

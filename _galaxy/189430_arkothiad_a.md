@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      189430 Arkothiad A is a star in the constellation Arkoth
+      189430 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 442.28 ly
 apparent_magnitude: 7.90
 absolute_magnitude: 2.24

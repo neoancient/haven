@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10843 Dialkeshiad is a star in the constellation Dialkes
+      10843 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 392.70 ly
 apparent_magnitude: 10.72
 absolute_magnitude: 5.32

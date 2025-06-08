@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      κ Eshtiad is a star in the constellation Eshti
+      κ Eshtiad is a star in the constellation <a href="eshti.html">Eshti</a>
 distance: 2010.36 ly
 apparent_magnitude: 5.37
 absolute_magnitude: -3.58
@@ -31,14 +31,14 @@ planets:
     radius: 8,893.4 km<br/>(1.396 Yrths)
     surface_area: 9.939 × 10<sup>08</sup> km<sup>2</sup><br/>(1.949 Yrths)
     volume: 2.946 × 10<sup>12</sup> km<sup>3</sup><br/>(2.720 Yrths)
-    mass: 1.233 × 10<sup>25</sup> kg<br />(2.065268676408433 Yrths)
+    mass: 1.233 × 10<sup>25</sup> kg<br />(2.07 Yrths)
     density: 4.186 g/cm<sup>3</sup>
     surface_gravity: 10.394 m/s<sup>2</sup><br />(1.060 g<sub>0</sub>)
     escape_velocity: 13.606 km/s<br />(48,982 km/h)
     rotation_period: 0.805 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 940 K<br />(667 °C)
+    temperature: 1196 K<br />(922 °C)
     surface_pressure: 49 kPa<br />(0 atm)
     composition:
       - 83.2893% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 3,881.6 km<br/>(0.609 Yrths)
         surface_area: 1.893 × 10<sup>08</sup> km<sup>2</sup><br/>(0.371 Yrths)
         volume: 2.450 × 10<sup>11</sup> km<sup>3</sup><br/>(0.226 Yrths)
-        mass: 6.919 × 10<sup>23</sup> kg<br />(2.065268676408433 Yrths)
+        mass: 6.919 × 10<sup>23</sup> kg<br />(0.116 Yrths)
         density: 2.824 g/cm<sup>3</sup>
         surface_gravity: 3.061 m/s<sup>2</sup><br />(0.312 g<sub>0</sub>)
         escape_velocity: 4.878 km/s<br />(17,560 km/h)
         rotation_period: 50.448 d
         axial_tilt: 30.97°
         albedo: 0.30
-        temperature: 14968 K<br />(14695 °C)
+        temperature: 777 K<br />(504 °C)
   - name: κ Eshtiad II
     type: Gas dwarf
     aphelion: 4,622,186,664 km<br />30.897 AU
@@ -76,14 +76,14 @@ planets:
     radius: 27,140.0 km<br/>(4.260 Yrths)
     surface_area: 9.256 × 10<sup>09</sup> km<sup>2</sup><br/>(18.147 Yrths)
     volume: 8.374 × 10<sup>13</sup> km<sup>3</sup><br/>(77.305 Yrths)
-    mass: 1.518 × 10<sup>26</sup> kg<br />(25.414346822615226 Yrths)
+    mass: 1.518 × 10<sup>26</sup> kg<br />(25.41 Yrths)
     density: 1.813 g/cm<sup>3</sup>
     surface_gravity: 13.734 m/s<sup>2</sup><br />(1.400 g<sub>0</sub>)
     escape_velocity: 27.322 km/s<br />(98,359 km/h)
     rotation_period: 0.327 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 815 K<br />(541 °C)
+    temperature: 734 K<br />(460 °C)
     composition:
       - 77.1574% hydrogen
       - 20.3873% helium
@@ -101,14 +101,14 @@ planets:
         radius: 4,891.2 km<br/>(0.768 Yrths)
         surface_area: 3.006 × 10<sup>08</sup> km<sup>2</sup><br/>(0.589 Yrths)
         volume: 4.902 × 10<sup>11</sup> km<sup>3</sup><br/>(0.453 Yrths)
-        mass: 7.843 × 10<sup>23</sup> kg<br />(25.414346822615226 Yrths)
+        mass: 7.843 × 10<sup>23</sup> kg<br />(0.131 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 2.185 m/s<sup>2</sup><br />(0.223 g<sub>0</sub>)
         escape_velocity: 4.626 km/s<br />(16,655 km/h)
         rotation_period: 71.181 d
         axial_tilt: 18.95°
         albedo: 0.30
-        temperature: 6191 K<br />(5918 °C)
+        temperature: 511 K<br />(238 °C)
       - name: κ Eshtiad II b
         type: Dwarf planet
         formationType: Captured
@@ -121,14 +121,14 @@ planets:
         radius: 18,424.5 km<br/>(2.892 Yrths)
         surface_area: 4.266 × 10<sup>09</sup> km<sup>2</sup><br/>(8.363 Yrths)
         volume: 2.620 × 10<sup>13</sup> km<sup>3</sup><br/>(24.186 Yrths)
-        mass: 4.048 × 10<sup>25</sup> kg<br />(25.414346822615226 Yrths)
+        mass: 4.048 × 10<sup>25</sup> kg<br />(6.779 Yrths)
         density: 1.545 g/cm<sup>3</sup>
         surface_gravity: 7.949 m/s<sup>2</sup><br />(0.811 g<sub>0</sub>)
         escape_velocity: 17.126 km/s<br />(61,653 km/h)
         rotation_period: 69.573 d
         axial_tilt: 27.36°
         albedo: 0.30
-        temperature: 5903 K<br />(5630 °C)
+        temperature: 511 K<br />(238 °C)
       - name: κ Eshtiad II c
         type: Icy
         formationType: Captured
@@ -141,14 +141,14 @@ planets:
         radius: 20,568.2 km<br/>(3.228 Yrths)
         surface_area: 5.316 × 10<sup>09</sup> km<sup>2</sup><br/>(10.423 Yrths)
         volume: 3.645 × 10<sup>13</sup> km<sup>3</sup><br/>(33.648 Yrths)
-        mass: 3.606 × 10<sup>25</sup> kg<br />(25.414346822615226 Yrths)
+        mass: 3.606 × 10<sup>25</sup> kg<br />(6.039 Yrths)
         density: 0.989 g/cm<sup>3</sup>
         surface_gravity: 5.682 m/s<sup>2</sup><br />(0.579 g<sub>0</sub>)
         escape_velocity: 15.299 km/s<br />(55,075 km/h)
         rotation_period: 58.775 d
         axial_tilt: 20.05°
         albedo: 0.30
-        temperature: 5628 K<br />(5355 °C)
+        temperature: 511 K<br />(238 °C)
       - name: κ Eshtiad II d
         type: Icy
         formationType: Captured
@@ -161,12 +161,12 @@ planets:
         radius: 39,248.3 km<br/>(6.160 Yrths)
         surface_area: 1.936 × 10<sup>10</sup> km<sup>2</sup><br/>(37.951 Yrths)
         volume: 2.533 × 10<sup>14</sup> km<sup>3</sup><br/>(233.797 Yrths)
-        mass: 4.156 × 10<sup>26</sup> kg<br />(25.414346822615226 Yrths)
+        mass: 4.156 × 10<sup>26</sup> kg<br />(69.598 Yrths)
         density: 1.641 g/cm<sup>3</sup>
         surface_gravity: 17.984 m/s<sup>2</sup><br />(1.834 g<sub>0</sub>)
         escape_velocity: 37.598 km/s<br />(135,354 km/h)
         rotation_period: 74.618 d
         axial_tilt: 23.51°
         albedo: 0.30
-        temperature: 5366 K<br />(5093 °C)
+        temperature: 511 K<br />(238 °C)
 ---

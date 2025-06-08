@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      34958 Tanashad A is a star in the constellation Tanas
+      34958 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 524.33 ly
 apparent_magnitude: 8.33
 absolute_magnitude: 2.30

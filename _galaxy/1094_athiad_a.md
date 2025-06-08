@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1094 Athiad A is a star in the constellation Ath
+      1094 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 388.12 ly
 apparent_magnitude: 12.07
 absolute_magnitude: 6.69

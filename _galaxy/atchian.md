@@ -1471,15 +1471,15 @@ stars:
     absolute_magnitude: 5.35
     distance: 55.36
     spectral_class: K6III
-  - name: 
-    designation: <a href="575_atchianniad.html">575 Atchianniad</a>
-    ra: 3<sup>h</sup> 40<sup>m</sup> 24.00<sup>s</sup>
-    dec: -14° 11' 60.00"
-    apparent_magnitude: 7.47
-    absolute_magnitude: 2.96
-    distance: 260.44
-    spectral_class: G3III
-  - name: 
+  - name:
+    designation: <a href="25823_atchianniad.html">25823 Atchianniad</a>
+    ra: 4<sup>h</sup> 02<sup>m</sup> 48.00<sup>s</sup>
+    dec: -12° 54' 0.00"
+    apparent_magnitude: 8.34
+    absolute_magnitude: 3.95
+    distance: 245.53
+    spectral_class: G9III
+  - name:
     designation: <a href="6746_atchianniad.html">6746 Atchianniad</a>
     ra: 3<sup>h</sup> 52<sup>m</sup> 48.00<sup>s</sup>
     dec: -5° 05' 60.00"
@@ -1487,23 +1487,23 @@ stars:
     absolute_magnitude: 4.84
     distance: 249.00
     spectral_class: G4V
-  - name: 
-    designation: <a href="18438_atchianniad.html">18438 Atchianniad</a>
-    ra: 4<sup>h</sup> 26<sup>m</sup> 0.00<sup>s</sup>
-    dec: -3° 23' 60.00"
-    apparent_magnitude: 9.98
-    absolute_magnitude: 5.69
-    distance: 235.55
-    spectral_class: K0V
-  - name: 
-    designation: <a href="25823_atchianniad.html">25823 Atchianniad</a>
-    ra: 4<sup>h</sup> 02<sup>m</sup> 48.00<sup>s</sup>
-    dec: -12° 54' 0.00"
-    apparent_magnitude: 10.23
-    absolute_magnitude: 5.84
-    distance: 245.53
-    spectral_class: K3IV
-  - name: 
+  - name:
+    designation: <a href="575_atchianniad.html">575 Atchianniad</a>
+    ra: 3<sup>h</sup> 40<sup>m</sup> 24.00<sup>s</sup>
+    dec: -14° 11' 60.00"
+    apparent_magnitude: 10.62
+    absolute_magnitude: 6.11
+    distance: 260.44
+    spectral_class: G9V
+  - name:
+    designation: <a href="190410_atchianniad.html">190410 Atchianniad</a>
+    ra: 4<sup>h</sup> 11<sup>m</sup> 12.00<sup>s</sup>
+    dec: -6° 30' 0.00"
+    apparent_magnitude: 10.90
+    absolute_magnitude: 6.19
+    distance: 285.41
+    spectral_class: G8V
+  - name:
     designation: <a href="77467_atchianniad.html">77467 Atchianniad</a>
     ra: 4<sup>h</sup> 22<sup>m</sup> 12.00<sup>s</sup>
     dec: -10° 15' 36.00"
@@ -1511,12 +1511,12 @@ stars:
     absolute_magnitude: 7.99
     distance: 131.82
     spectral_class: K8V
-  - name: 
-    designation: <a href="190410_atchianniad.html">190410 Atchianniad</a>
-    ra: 4<sup>h</sup> 11<sup>m</sup> 12.00<sup>s</sup>
-    dec: -6° 30' 0.00"
-    apparent_magnitude: 11.67
-    absolute_magnitude: 6.96
-    distance: 285.41
-    spectral_class: K6V
+  - name: <a href="hexis.html">Hexis</a>
+    designation: 18438 Atchianniad
+    ra: 4<sup>h</sup> 26<sup>m</sup> 0.00<sup>s</sup>
+    dec: -3° 23' 60.00"
+    apparent_magnitude: 11.59
+    absolute_magnitude: 7.30
+    distance: 235.55
+    spectral_class: K4V
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2844 Narashiad is a star in the constellation Naras
+      2844 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 502.98 ly
 apparent_magnitude: 10.57
 absolute_magnitude: 4.63

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Derrinelm is a star in the constellation Derriath
+      Derrinelm is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 158.74 ly
 apparent_magnitude: 2.95
 absolute_magnitude: -0.49

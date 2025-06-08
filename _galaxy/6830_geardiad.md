@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6830 Geardiad is a star in the constellation Geard
+      6830 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 546.92 ly
 apparent_magnitude: 8.25
 absolute_magnitude: 2.13

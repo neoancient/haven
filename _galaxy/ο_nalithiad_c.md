@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Nalithiad C is a star in the constellation Nalith
+      ο Nalithiad C is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 2377.48 ly
 apparent_magnitude: 17.07
 absolute_magnitude: 7.76
@@ -31,14 +31,14 @@ planets:
     radius: 7,079.5 km<br/>(1.111 Yrths)
     surface_area: 6.298 × 10<sup>08</sup> km<sup>2</sup><br/>(1.235 Yrths)
     volume: 1.486 × 10<sup>12</sup> km<sup>3</sup><br/>(1.372 Yrths)
-    mass: 2.835 × 10<sup>25</sup> kg<br />(4.746979806331064 Yrths)
+    mass: 2.835 × 10<sup>25</sup> kg<br />(4.75 Yrths)
     density: 19.074 g/cm<sup>3</sup>
     surface_gravity: 37.701 m/s<sup>2</sup><br />(3.844 g<sub>0</sub>)
     escape_velocity: 23.120 km/s<br />(83,232 km/h)
     rotation_period: 1.420 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 364 K<br />(90 °C)
+    temperature: 1013 K<br />(740 °C)
     surface_pressure: 294 kPa<br />(3 atm)
     composition:
       - 94.1531% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 4,992.8 km<br/>(0.784 Yrths)
         surface_area: 3.133 × 10<sup>08</sup> km<sup>2</sup><br/>(0.614 Yrths)
         volume: 5.213 × 10<sup>11</sup> km<sup>3</sup><br/>(0.481 Yrths)
-        mass: 7.716 × 10<sup>23</sup> kg<br />(4.746979806331064 Yrths)
+        mass: 7.716 × 10<sup>23</sup> kg<br />(0.129 Yrths)
         density: 1.480 g/cm<sup>3</sup>
         surface_gravity: 2.063 m/s<sup>2</sup><br />(0.210 g<sub>0</sub>)
         escape_velocity: 4.542 km/s<br />(16,350 km/h)
         rotation_period: 56.047 d
         axial_tilt: 11.21°
         albedo: 0.30
-        temperature: 3789 K<br />(3516 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: ο Nalithiad C I b
         type: Rocky
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 1,859.5 km<br/>(0.292 Yrths)
         surface_area: 4.345 × 10<sup>07</sup> km<sup>2</sup><br/>(0.085 Yrths)
         volume: 2.693 × 10<sup>10</sup> km<sup>3</sup><br/>(0.025 Yrths)
-        mass: 9.239 × 10<sup>22</sup> kg<br />(4.746979806331064 Yrths)
+        mass: 9.239 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 3.430 g/cm<sup>3</sup>
         surface_gravity: 1.781 m/s<sup>2</sup><br />(0.182 g<sub>0</sub>)
         escape_velocity: 2.575 km/s<br />(9,271 km/h)
         rotation_period: 46.260 d
         axial_tilt: 15.36°
         albedo: 0.30
-        temperature: 3613 K<br />(3340 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: ο Nalithiad C I c
         type: Rocky
         formationType: Impact formed
@@ -96,12 +96,12 @@ planets:
         radius: 7,507.7 km<br/>(1.178 Yrths)
         surface_area: 7.083 × 10<sup>08</sup> km<sup>2</sup><br/>(1.389 Yrths)
         volume: 1.773 × 10<sup>12</sup> km<sup>3</sup><br/>(1.636 Yrths)
-        mass: 5.239 × 10<sup>24</sup> kg<br />(4.746979806331064 Yrths)
+        mass: 5.239 × 10<sup>24</sup> kg<br />(0.877 Yrths)
         density: 2.955 g/cm<sup>3</sup>
         surface_gravity: 6.195 m/s<sup>2</sup><br />(0.632 g<sub>0</sub>)
         escape_velocity: 9.651 km/s<br />(34,743 km/h)
         rotation_period: 50.156 d
         axial_tilt: 8.04°
         albedo: 0.30
-        temperature: 3445 K<br />(3172 °C)
+        temperature: 216 K<br />(-57 °C)
 ---

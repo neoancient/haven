@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1547 Dialkeshiad is a star in the constellation Dialkes
+      1547 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 369.31 ly
 apparent_magnitude: 10.02
 absolute_magnitude: 4.75

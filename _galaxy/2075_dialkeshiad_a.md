@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2075 Dialkeshiad A is a star in the constellation Dialkes
+      2075 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 357.21 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 2.33

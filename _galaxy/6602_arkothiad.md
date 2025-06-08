@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6602 Arkothiad is a star in the constellation Arkoth
+      6602 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 267.86 ly
 apparent_magnitude: 9.95
 absolute_magnitude: 5.38
@@ -31,7 +31,7 @@ planets:
     radius: 172.6 km<br/>(0.027 Yrths)
     surface_area: 3.744 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.154 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.695 × 10<sup>26</sup> kg<br />(128.8555200490466 Yrths)
+    mass: 7.695 × 10<sup>26</sup> kg<br />(128.86 Yrths)
     density: 35725341.683 g/cm<sup>3</sup>
     surface_gravity: 1721605.716 m/s<sup>2</sup><br />(175554.926 g<sub>0</sub>)
     escape_velocity: 771.441 km/s<br />(2,777,189 km/h)
@@ -41,6 +41,26 @@ planets:
     temperature: 314 K<br />(41 °C)
     moons:
       - name: 6602 Arkothiad I a
+        type: Icy
+        formationType: Accreted
+        aphelion: 2,670,006 km<br />
+        perihelion: 2,150,268 km<br />
+        semi_major_axis: 2,410,137 km<br />
+        eccentricity: 0.108
+        orbital_period: 0.00 d<br />
+        inclination: 6.04°
+        radius: 29,591.1 km<br/>(4.645 Yrths)
+        surface_area: 1.100 × 10<sup>10</sup> km<sup>2</sup><br/>(21.573 Yrths)
+        volume: 1.085 × 10<sup>14</sup> km<sup>3</sup><br/>(100.199 Yrths)
+        mass: 1.333 × 10<sup>26</sup> kg<br />(22.318 Yrths)
+        density: 1.228 g/cm<sup>3</sup>
+        surface_gravity: 10.146 m/s<sup>2</sup><br />(1.035 g<sub>0</sub>)
+        escape_velocity: 24.520 km/s<br />(88,274 km/h)
+        rotation_period: 60.486 d
+        axial_tilt: 17.28°
+        albedo: 0.30
+        temperature: 326 K<br />(53 °C)
+      - name: 6602 Arkothiad I b
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 2,960,216 km<br />
@@ -52,15 +72,15 @@ planets:
         radius: 63,206.6 km<br/>(9.921 Yrths)
         surface_area: 5.020 × 10<sup>10</sup> km<sup>2</sup><br/>(98.426 Yrths)
         volume: 1.058 × 10<sup>15</sup> km<sup>3</sup><br/>(976.484 Yrths)
-        mass: 2.897 × 10<sup>27</sup> kg<br />(128.8555200490466 Yrths)
+        mass: 2.897 × 10<sup>27</sup> kg<br />(485.067 Yrths)
         density: 2.739 g/cm<sup>3</sup>
         surface_gravity: 48.329 m/s<sup>2</sup><br />(4.928 g<sub>0</sub>)
         escape_velocity: 78.216 km/s<br />(281,579 km/h)
         rotation_period: 40.192 d
         axial_tilt: 10.78°
         albedo: 0.30
-        temperature: 1742 K<br />(1469 °C)
-      - name: 6602 Arkothiad I b
+        temperature: 326 K<br />(53 °C)
+      - name: 6602 Arkothiad I c
         type: Rocky
         formationType: Captured
         aphelion: 2,992,811 km<br />
@@ -72,15 +92,15 @@ planets:
         radius: 93,705.6 km<br/>(14.708 Yrths)
         surface_area: 1.103 × 10<sup>11</sup> km<sup>2</sup><br/>(216.329 Yrths)
         volume: 3.447 × 10<sup>15</sup> km<sup>3</sup><br/>(3181.804 Yrths)
-        mass: 1.057 × 10<sup>28</sup> kg<br />(128.8555200490466 Yrths)
+        mass: 1.057 × 10<sup>28</sup> kg<br />(1770.696 Yrths)
         density: 3.068 g/cm<sup>3</sup>
         surface_gravity: 80.269 m/s<sup>2</sup><br />(8.185 g<sub>0</sub>)
         escape_velocity: 122.735 km/s<br />(441,845 km/h)
         rotation_period: 36.368 d
         axial_tilt: 18.37°
         albedo: 0.30
-        temperature: 1661 K<br />(1388 °C)
-      - name: 6602 Arkothiad I c
+        temperature: 326 K<br />(53 °C)
+      - name: 6602 Arkothiad I d
         type: Icy
         formationType: Accreted
         aphelion: 3,998,752 km<br />
@@ -92,15 +112,35 @@ planets:
         radius: 80,291.2 km<br/>(12.603 Yrths)
         surface_area: 8.101 × 10<sup>10</sup> km<sup>2</sup><br/>(158.826 Yrths)
         volume: 2.168 × 10<sup>15</sup> km<sup>3</sup><br/>(2001.619 Yrths)
-        mass: 3.804 × 10<sup>27</sup> kg<br />(128.8555200490466 Yrths)
+        mass: 3.804 × 10<sup>27</sup> kg<br />(636.893 Yrths)
         density: 1.754 g/cm<sup>3</sup>
         surface_gravity: 39.325 m/s<sup>2</sup><br />(4.010 g<sub>0</sub>)
         escape_velocity: 79.520 km/s<br />(286,272 km/h)
         rotation_period: 72.833 d
         axial_tilt: 29.63°
         albedo: 0.30
-        temperature: 1510 K<br />(1237 °C)
-      - name: 6602 Arkothiad I d
+        temperature: 326 K<br />(53 °C)
+      - name: 6602 Arkothiad I e
+        type: Icy
+        formationType: Captured
+        aphelion: 4,745,945 km<br />
+        perihelion: 4,647,405 km<br />
+        semi_major_axis: 4,696,675 km<br />
+        eccentricity: 0.010
+        orbital_period: 0.00 d<br />
+        inclination: 4.38°
+        radius: 20,790.8 km<br/>(3.263 Yrths)
+        surface_area: 5.432 × 10<sup>09</sup> km<sup>2</sup><br/>(10.649 Yrths)
+        volume: 3.764 × 10<sup>13</sup> km<sup>3</sup><br/>(34.753 Yrths)
+        mass: 6.583 × 10<sup>25</sup> kg<br />(11.023 Yrths)
+        density: 1.749 g/cm<sup>3</sup>
+        surface_gravity: 10.151 m/s<sup>2</sup><br />(1.035 g<sub>0</sub>)
+        escape_velocity: 20.559 km/s<br />(74,012 km/h)
+        rotation_period: 38.220 d
+        axial_tilt: 21.87°
+        albedo: 0.30
+        temperature: 326 K<br />(53 °C)
+      - name: 6602 Arkothiad I f
         type: Rocky
         formationType: Accreted
         aphelion: 8,916,700 km<br />
@@ -112,15 +152,15 @@ planets:
         radius: 110,979.7 km<br/>(17.420 Yrths)
         surface_area: 1.548 × 10<sup>11</sup> km<sup>2</sup><br/>(303.440 Yrths)
         volume: 5.726 × 10<sup>15</sup> km<sup>3</sup><br/>(5285.770 Yrths)
-        mass: 1.840 × 10<sup>28</sup> kg<br />(128.8555200490466 Yrths)
+        mass: 1.840 × 10<sup>28</sup> kg<br />(3081.387 Yrths)
         density: 3.214 g/cm<sup>3</sup>
         surface_gravity: 99.585 m/s<sup>2</sup><br />(10.155 g<sub>0</sub>)
         escape_velocity: 148.775 km/s<br />(535,589 km/h)
         rotation_period: 35.233 d
         axial_tilt: 22.91°
         albedo: 0.30
-        temperature: 983 K<br />(710 °C)
-      - name: 6602 Arkothiad I e
+        temperature: 326 K<br />(53 °C)
+      - name: 6602 Arkothiad I g
         type: Rocky
         formationType: Captured
         aphelion: 10,559,669 km<br />
@@ -132,15 +172,35 @@ planets:
         radius: 90,520.9 km<br/>(14.208 Yrths)
         surface_area: 1.030 × 10<sup>11</sup> km<sup>2</sup><br/>(201.875 Yrths)
         volume: 3.107 × 10<sup>15</sup> km<sup>3</sup><br/>(2868.298 Yrths)
-        mass: 1.080 × 10<sup>28</sup> kg<br />(128.8555200490466 Yrths)
+        mass: 1.080 × 10<sup>28</sup> kg<br />(1808.246 Yrths)
         density: 3.476 g/cm<sup>3</sup>
         surface_gravity: 87.841 m/s<sup>2</sup><br />(8.957 g<sub>0</sub>)
         escape_velocity: 126.192 km/s<br />(454,291 km/h)
         rotation_period: 33.427 d
         axial_tilt: 23.16°
         albedo: 0.30
-        temperature: 937 K<br />(664 °C)
-      - name: 6602 Arkothiad I f
+        temperature: 326 K<br />(53 °C)
+      - name: 6602 Arkothiad I h
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 13,986,583 km<br />
+        perihelion: 10,377,347 km<br />
+        semi_major_axis: 12,181,965 km<br />
+        eccentricity: 0.148
+        orbital_period: 0.00 d<br />
+        inclination: 0.00°
+        radius: 16,445.3 km<br/>(2.581 Yrths)
+        surface_area: 3.399 × 10<sup>09</sup> km<sup>2</sup><br/>(6.663 Yrths)
+        volume: 1.863 × 10<sup>13</sup> km<sup>3</sup><br/>(17.199 Yrths)
+        mass: 4.260 × 10<sup>25</sup> kg<br />(7.134 Yrths)
+        density: 2.287 g/cm<sup>3</sup>
+        surface_gravity: 10.500 m/s<sup>2</sup><br />(1.071 g<sub>0</sub>)
+        escape_velocity: 18.596 km/s<br />(66,946 km/h)
+        rotation_period: 51.405 d
+        axial_tilt: 20.82°
+        albedo: 0.30
+        temperature: 326 K<br />(53 °C)
+      - name: 6602 Arkothiad I i
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 17,636,399 km<br />
@@ -152,14 +212,14 @@ planets:
         radius: 130,386.3 km<br/>(20.466 Yrths)
         surface_area: 2.136 × 10<sup>11</sup> km<sup>2</sup><br/>(418.840 Yrths)
         volume: 9.285 × 10<sup>15</sup> km<sup>3</sup><br/>(8571.812 Yrths)
-        mass: 2.577 × 10<sup>28</sup> kg<br />(128.8555200490466 Yrths)
+        mass: 2.577 × 10<sup>28</sup> kg<br />(4314.665 Yrths)
         density: 2.775 g/cm<sup>3</sup>
         surface_gravity: 101.023 m/s<sup>2</sup><br />(10.301 g<sub>0</sub>)
         escape_velocity: 162.418 km/s<br />(584,706 km/h)
         rotation_period: 41.324 d
         axial_tilt: 19.35°
         albedo: 0.30
-        temperature: 704 K<br />(431 °C)
+        temperature: 326 K<br />(53 °C)
   - name: 6602 Arkothiad II
     type: Ice giant
     aphelion: 140,703,585 km<br />0.941 AU
@@ -171,14 +231,14 @@ planets:
     radius: 28,180.1 km<br/>(4.423 Yrths)
     surface_area: 9.979 × 10<sup>09</sup> km<sup>2</sup><br/>(19.564 Yrths)
     volume: 9.374 × 10<sup>13</sup> km<sup>3</sup><br/>(86.537 Yrths)
-    mass: 1.599 × 10<sup>26</sup> kg<br />(26.77466866521044 Yrths)
+    mass: 1.599 × 10<sup>26</sup> kg<br />(26.77 Yrths)
     density: 1.706 g/cm<sup>3</sup>
     surface_gravity: 13.421 m/s<sup>2</sup><br />(1.369 g<sub>0</sub>)
     escape_velocity: 27.521 km/s<br />(99,077 km/h)
     rotation_period: 0.712 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 432 K<br />(158 °C)
+    temperature: 422 K<br />(149 °C)
     composition:
       - 78.6818% hydrogen
       - 13.4339% helium
@@ -197,14 +257,14 @@ planets:
         radius: 19,877.6 km<br/>(3.120 Yrths)
         surface_area: 4.965 × 10<sup>09</sup> km<sup>2</sup><br/>(9.734 Yrths)
         volume: 3.290 × 10<sup>13</sup> km<sup>3</sup><br/>(30.372 Yrths)
-        mass: 9.694 × 10<sup>25</sup> kg<br />(26.77466866521044 Yrths)
+        mass: 9.694 × 10<sup>25</sup> kg<br />(16.232 Yrths)
         density: 2.947 g/cm<sup>3</sup>
         surface_gravity: 16.353 m/s<sup>2</sup><br />(1.668 g<sub>0</sub>)
         escape_velocity: 25.514 km/s<br />(91,852 km/h)
         rotation_period: 31.101 d
         axial_tilt: 18.23°
         albedo: 0.30
-        temperature: 2007 K<br />(1734 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 6602 Arkothiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -217,14 +277,14 @@ planets:
         radius: 29,332.3 km<br/>(4.604 Yrths)
         surface_area: 1.081 × 10<sup>10</sup> km<sup>2</sup><br/>(21.197 Yrths)
         volume: 1.057 × 10<sup>14</sup> km<sup>3</sup><br/>(97.592 Yrths)
-        mass: 2.960 × 10<sup>26</sup> kg<br />(26.77466866521044 Yrths)
+        mass: 2.960 × 10<sup>26</sup> kg<br />(49.564 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 22.930 m/s<sup>2</sup><br />(2.338 g<sub>0</sub>)
         escape_velocity: 36.702 km/s<br />(132,127 km/h)
         rotation_period: 49.792 d
         axial_tilt: 20.45°
         albedo: 0.30
-        temperature: 1825 K<br />(1552 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 6602 Arkothiad II c
         type: Icy
         formationType: Captured
@@ -237,14 +297,14 @@ planets:
         radius: 18,187.1 km<br/>(2.855 Yrths)
         surface_area: 4.157 × 10<sup>09</sup> km<sup>2</sup><br/>(8.149 Yrths)
         volume: 2.520 × 10<sup>13</sup> km<sup>3</sup><br/>(23.263 Yrths)
-        mass: 4.323 × 10<sup>25</sup> kg<br />(26.77466866521044 Yrths)
+        mass: 4.323 × 10<sup>25</sup> kg<br />(7.238 Yrths)
         density: 1.715 g/cm<sup>3</sup>
         surface_gravity: 8.711 m/s<sup>2</sup><br />(0.888 g<sub>0</sub>)
         escape_velocity: 17.812 km/s<br />(64,124 km/h)
         rotation_period: 51.970 d
         axial_tilt: 27.92°
         albedo: 0.30
-        temperature: 1740 K<br />(1467 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 6602 Arkothiad II d
         type: Icy
         formationType: Captured
@@ -257,14 +317,14 @@ planets:
         radius: 23,118.1 km<br/>(3.629 Yrths)
         surface_area: 6.716 × 10<sup>09</sup> km<sup>2</sup><br/>(13.167 Yrths)
         volume: 5.175 × 10<sup>13</sup> km<sup>3</sup><br/>(47.779 Yrths)
-        mass: 7.645 × 10<sup>25</sup> kg<br />(26.77466866521044 Yrths)
+        mass: 7.645 × 10<sup>25</sup> kg<br />(12.801 Yrths)
         density: 1.477 g/cm<sup>3</sup>
         surface_gravity: 9.534 m/s<sup>2</sup><br />(0.972 g<sub>0</sub>)
         escape_velocity: 21.010 km/s<br />(75,634 km/h)
         rotation_period: 70.887 d
         axial_tilt: 16.30°
         albedo: 0.30
-        temperature: 1582 K<br />(1308 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 6602 Arkothiad II e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -277,14 +337,14 @@ planets:
         radius: 41,494.6 km<br/>(6.513 Yrths)
         surface_area: 2.164 × 10<sup>10</sup> km<sup>2</sup><br/>(42.420 Yrths)
         volume: 2.993 × 10<sup>14</sup> km<sup>3</sup><br/>(276.282 Yrths)
-        mass: 7.714 × 10<sup>26</sup> kg<br />(26.77466866521044 Yrths)
+        mass: 7.714 × 10<sup>26</sup> kg<br />(129.177 Yrths)
         density: 2.578 g/cm<sup>3</sup>
         surface_gravity: 29.863 m/s<sup>2</sup><br />(3.045 g<sub>0</sub>)
         escape_velocity: 49.817 km/s<br />(179,340 km/h)
         rotation_period: 55.430 d
         axial_tilt: 22.06°
         albedo: 0.30
-        temperature: 1508 K<br />(1235 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 6602 Arkothiad II f
         type: Icy
         formationType: Captured
@@ -297,14 +357,14 @@ planets:
         radius: 27,176.4 km<br/>(4.266 Yrths)
         surface_area: 9.281 × 10<sup>09</sup> km<sup>2</sup><br/>(18.196 Yrths)
         volume: 8.407 × 10<sup>13</sup> km<sup>3</sup><br/>(77.616 Yrths)
-        mass: 1.364 × 10<sup>26</sup> kg<br />(26.77466866521044 Yrths)
+        mass: 1.364 × 10<sup>26</sup> kg<br />(22.842 Yrths)
         density: 1.623 g/cm<sup>3</sup>
         surface_gravity: 12.311 m/s<sup>2</sup><br />(1.255 g<sub>0</sub>)
         escape_velocity: 25.885 km/s<br />(93,187 km/h)
         rotation_period: 46.210 d
         axial_tilt: 23.43°
         albedo: 0.30
-        temperature: 1438 K<br />(1165 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 6602 Arkothiad II g
         type: Asteroid
         formationType: Captured
@@ -317,14 +377,14 @@ planets:
         radius: 16,989.3 km<br/>(2.667 Yrths)
         surface_area: 3.627 × 10<sup>09</sup> km<sup>2</sup><br/>(7.111 Yrths)
         volume: 2.054 × 10<sup>13</sup> km<sup>3</sup><br/>(18.963 Yrths)
-        mass: 7.600 × 10<sup>25</sup> kg<br />(26.77466866521044 Yrths)
+        mass: 7.600 × 10<sup>25</sup> kg<br />(12.726 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 17.550 m/s<sup>2</sup><br />(1.790 g<sub>0</sub>)
         escape_velocity: 24.436 km/s<br />(87,971 km/h)
         rotation_period: 34.385 d
         axial_tilt: 15.18°
         albedo: 0.30
-        temperature: 1371 K<br />(1098 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: 6602 Arkothiad III
     type: Large terrestrial
     aphelion: 221,953,541 km<br />1.484 AU
@@ -336,14 +396,14 @@ planets:
     radius: 10,012.8 km<br/>(1.572 Yrths)
     surface_area: 1.260 × 10<sup>09</sup> km<sup>2</sup><br/>(2.470 Yrths)
     volume: 4.205 × 10<sup>12</sup> km<sup>3</sup><br/>(3.882 Yrths)
-    mass: 3.112 × 10<sup>25</sup> kg<br />(5.210149476725589 Yrths)
+    mass: 3.112 × 10<sup>25</sup> kg<br />(5.21 Yrths)
     density: 7.400 g/cm<sup>3</sup>
     surface_gravity: 20.686 m/s<sup>2</sup><br />(2.109 g<sub>0</sub>)
     escape_velocity: 20.367 km/s<br />(73,321 km/h)
     rotation_period: 0.824 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 226 K<br />(-47 °C)
+    temperature: 215 K<br />(-58 °C)
     surface_pressure: 88 kPa<br />(1 atm)
     composition:
       - 74.3399% nitrogen
@@ -364,14 +424,14 @@ planets:
         radius: 10,057.3 km<br/>(1.579 Yrths)
         surface_area: 1.271 × 10<sup>09</sup> km<sup>2</sup><br/>(2.492 Yrths)
         volume: 4.261 × 10<sup>12</sup> km<sup>3</sup><br/>(3.934 Yrths)
-        mass: 1.419 × 10<sup>25</sup> kg<br />(5.210149476725589 Yrths)
+        mass: 1.419 × 10<sup>25</sup> kg<br />(2.375 Yrths)
         density: 3.329 g/cm<sup>3</sup>
         surface_gravity: 9.347 m/s<sup>2</sup><br />(0.953 g<sub>0</sub>)
         escape_velocity: 13.721 km/s<br />(49,397 km/h)
         rotation_period: 32.809 d
         axial_tilt: 14.13°
         albedo: 0.30
-        temperature: 2021 K<br />(1748 °C)
+        temperature: 190 K<br />(-83 °C)
   - name: 6602 Arkothiad IV
     type: Gas giant
     aphelion: 418,522,114 km<br />2.798 AU
@@ -383,7 +443,7 @@ planets:
     radius: 217.8 km<br/>(0.034 Yrths)
     surface_area: 5.964 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.331 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.469 × 10<sup>27</sup> kg<br />(245.95000526196029 Yrths)
+    mass: 1.469 × 10<sup>27</sup> kg<br />(245.95 Yrths)
     density: 33916987.280 g/cm<sup>3</sup>
     surface_gravity: 2062887.529 m/s<sup>2</sup><br />(210355.986 g<sub>0</sub>)
     escape_velocity: 948.690 km/s<br />(3,415,284 km/h)
@@ -404,14 +464,14 @@ planets:
         radius: 169,382.8 km<br/>(26.587 Yrths)
         surface_area: 3.605 × 10<sup>11</sup> km<sup>2</sup><br/>(706.844 Yrths)
         volume: 2.036 × 10<sup>16</sup> km<sup>3</sup><br/>(18792.518 Yrths)
-        mass: 4.061 × 10<sup>28</sup> kg<br />(245.95000526196029 Yrths)
+        mass: 4.061 × 10<sup>28</sup> kg<br />(6799.629 Yrths)
         density: 1.995 g/cm<sup>3</sup>
         surface_gravity: 94.337 m/s<sup>2</sup><br />(9.620 g<sub>0</sub>)
         escape_velocity: 178.890 km/s<br />(644,004 km/h)
         rotation_period: 61.855 d
         axial_tilt: 26.52°
         albedo: 0.30
-        temperature: 805 K<br />(532 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 6602 Arkothiad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -424,14 +484,14 @@ planets:
         radius: 150,532.8 km<br/>(23.628 Yrths)
         surface_area: 2.848 × 10<sup>11</sup> km<sup>2</sup><br/>(558.274 Yrths)
         volume: 1.429 × 10<sup>16</sup> km<sup>3</sup><br/>(13190.786 Yrths)
-        mass: 3.666 × 10<sup>28</sup> kg<br />(245.95000526196029 Yrths)
+        mass: 3.666 × 10<sup>28</sup> kg<br />(6138.589 Yrths)
         density: 2.566 g/cm<sup>3</sup>
         surface_gravity: 107.831 m/s<sup>2</sup><br />(10.996 g<sub>0</sub>)
         escape_velocity: 180.300 km/s<br />(649,081 km/h)
         rotation_period: 45.637 d
         axial_tilt: 25.46°
         albedo: 0.30
-        temperature: 767 K<br />(494 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 6602 Arkothiad IV c
         type: Asteroid
         formationType: Captured
@@ -444,14 +504,14 @@ planets:
         radius: 194,602.2 km<br/>(30.545 Yrths)
         surface_area: 4.759 × 10<sup>11</sup> km<sup>2</sup><br/>(932.997 Yrths)
         volume: 3.087 × 10<sup>16</sup> km<sup>3</sup><br/>(28498.385 Yrths)
-        mass: 5.157 × 10<sup>28</sup> kg<br />(245.95000526196029 Yrths)
+        mass: 5.157 × 10<sup>28</sup> kg<br />(8634.602 Yrths)
         density: 1.670 g/cm<sup>3</sup>
         surface_gravity: 90.758 m/s<sup>2</sup><br />(9.255 g<sub>0</sub>)
         escape_velocity: 188.072 km/s<br />(677,061 km/h)
         rotation_period: 65.645 d
         axial_tilt: 20.08°
         albedo: 0.30
-        temperature: 665 K<br />(392 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 6602 Arkothiad IV d
         type: Icy
         formationType: Accreted
@@ -464,14 +524,14 @@ planets:
         radius: 248,007.5 km<br/>(38.928 Yrths)
         surface_area: 7.729 × 10<sup>11</sup> km<sup>2</sup><br/>(1515.355 Yrths)
         volume: 6.390 × 10<sup>16</sup> km<sup>3</sup><br/>(58989.052 Yrths)
-        mass: 7.300 × 10<sup>28</sup> kg<br />(245.95000526196029 Yrths)
+        mass: 7.300 × 10<sup>28</sup> kg<br />(12223.692 Yrths)
         density: 1.142 g/cm<sup>3</sup>
         surface_gravity: 79.106 m/s<sup>2</sup><br />(8.067 g<sub>0</sub>)
         escape_velocity: 198.220 km/s<br />(713,591 km/h)
         rotation_period: 72.221 d
         axial_tilt: 18.92°
         albedo: 0.30
-        temperature: 202 K<br />(-71 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 6602 Arkothiad IV e
         type: Icy
         formationType: Captured
@@ -484,14 +544,14 @@ planets:
         radius: 190,280.0 km<br/>(29.867 Yrths)
         surface_area: 4.550 × 10<sup>11</sup> km<sup>2</sup><br/>(892.013 Yrths)
         volume: 2.886 × 10<sup>16</sup> km<sup>3</sup><br/>(26641.382 Yrths)
-        mass: 4.388 × 10<sup>28</sup> kg<br />(245.95000526196029 Yrths)
+        mass: 4.388 × 10<sup>28</sup> kg<br />(7347.190 Yrths)
         density: 1.520 g/cm<sup>3</sup>
         surface_gravity: 80.774 m/s<sup>2</sup><br />(8.237 g<sub>0</sub>)
         escape_velocity: 175.445 km/s<br />(631,603 km/h)
         rotation_period: 49.723 d
         axial_tilt: 20.89°
         albedo: 0.30
-        temperature: 184 K<br />(-89 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 6602 Arkothiad IV f
         type: Ice/rock hybrid
         formationType: Captured
@@ -504,14 +564,14 @@ planets:
         radius: 160,120.9 km<br/>(25.133 Yrths)
         surface_area: 3.222 × 10<sup>11</sup> km<sup>2</sup><br/>(631.656 Yrths)
         volume: 1.720 × 10<sup>16</sup> km<sup>3</sup><br/>(15875.281 Yrths)
-        mass: 3.032 × 10<sup>28</sup> kg<br />(245.95000526196029 Yrths)
+        mass: 3.032 × 10<sup>28</sup> kg<br />(5076.889 Yrths)
         density: 1.763 g/cm<sup>3</sup>
         surface_gravity: 78.820 m/s<sup>2</sup><br />(8.037 g<sub>0</sub>)
         escape_velocity: 158.984 km/s<br />(572,341 km/h)
         rotation_period: 43.877 d
         axial_tilt: 29.12°
         albedo: 0.30
-        temperature: 167 K<br />(-106 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 6602 Arkothiad IV g
         type: Icy
         formationType: Accreted
@@ -524,14 +584,14 @@ planets:
         radius: 181,525.2 km<br/>(28.492 Yrths)
         surface_area: 4.141 × 10<sup>11</sup> km<sup>2</sup><br/>(811.818 Yrths)
         volume: 2.506 × 10<sup>16</sup> km<sup>3</sup><br/>(23130.668 Yrths)
-        mass: 3.671 × 10<sup>28</sup> kg<br />(245.95000526196029 Yrths)
+        mass: 3.671 × 10<sup>28</sup> kg<br />(6147.259 Yrths)
         density: 1.465 g/cm<sup>3</sup>
         surface_gravity: 74.258 m/s<sup>2</sup><br />(7.572 g<sub>0</sub>)
         escape_velocity: 164.305 km/s<br />(591,497 km/h)
         rotation_period: 62.533 d
         axial_tilt: 21.49°
         albedo: 0.30
-        temperature: 132 K<br />(-142 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 6602 Arkothiad IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -544,14 +604,14 @@ planets:
         radius: 185,484.6 km<br/>(29.114 Yrths)
         surface_area: 4.323 × 10<sup>11</sup> km<sup>2</sup><br/>(847.619 Yrths)
         volume: 2.673 × 10<sup>16</sup> km<sup>3</sup><br/>(24677.478 Yrths)
-        mass: 5.223 × 10<sup>28</sup> kg<br />(245.95000526196029 Yrths)
+        mass: 5.223 × 10<sup>28</sup> kg<br />(8746.064 Yrths)
         density: 1.954 g/cm<sup>3</sup>
         surface_gravity: 101.189 m/s<sup>2</sup><br />(10.318 g<sub>0</sub>)
         escape_velocity: 193.879 km/s<br />(697,963 km/h)
         rotation_period: 41.349 d
         axial_tilt: 17.03°
         albedo: 0.30
-        temperature: 120 K<br />(-154 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 6602 Arkothiad IV i
         type: Icy
         formationType: Accreted
@@ -564,14 +624,14 @@ planets:
         radius: 239,722.0 km<br/>(37.627 Yrths)
         surface_area: 7.221 × 10<sup>11</sup> km<sup>2</sup><br/>(1415.796 Yrths)
         volume: 5.770 × 10<sup>16</sup> km<sup>3</sup><br/>(53272.245 Yrths)
-        mass: 5.126 × 10<sup>28</sup> kg<br />(245.95000526196029 Yrths)
+        mass: 5.126 × 10<sup>28</sup> kg<br />(8582.929 Yrths)
         density: 0.888 g/cm<sup>3</sup>
         surface_gravity: 59.451 m/s<sup>2</sup><br />(6.062 g<sub>0</sub>)
         escape_velocity: 168.944 km/s<br />(608,197 km/h)
         rotation_period: 85.255 d
         axial_tilt: 24.13°
         albedo: 0.30
-        temperature: 78 K<br />(-195 °C)
+        temperature: 145 K<br />(-128 °C)
   - name: 6602 Arkothiad V
     type: Ice giant
     aphelion: 651,272,679 km<br />4.353 AU
@@ -583,14 +643,14 @@ planets:
     radius: 28,565.8 km<br/>(4.484 Yrths)
     surface_area: 1.025 × 10<sup>10</sup> km<sup>2</sup><br/>(20.104 Yrths)
     volume: 9.764 × 10<sup>13</sup> km<sup>3</sup><br/>(90.140 Yrths)
-    mass: 1.471 × 10<sup>26</sup> kg<br />(24.623298478121246 Yrths)
+    mass: 1.471 × 10<sup>26</sup> kg<br />(24.62 Yrths)
     density: 1.506 g/cm<sup>3</sup>
     surface_gravity: 12.011 m/s<sup>2</sup><br />(1.225 g<sub>0</sub>)
     escape_velocity: 26.214 km/s<br />(94,369 km/h)
     rotation_period: 0.396 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 188 K<br />(-85 °C)
+    temperature: 168 K<br />(-105 °C)
     composition:
       - 84.5882% hydrogen
       - 15.4118% helium
@@ -607,14 +667,14 @@ planets:
         radius: 29,633.4 km<br/>(4.651 Yrths)
         surface_area: 1.103 × 10<sup>10</sup> km<sup>2</sup><br/>(21.635 Yrths)
         volume: 1.090 × 10<sup>14</sup> km<sup>3</sup><br/>(100.628 Yrths)
-        mass: 1.383 × 10<sup>26</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 1.383 × 10<sup>26</sup> kg<br />(23.151 Yrths)
         density: 1.268 g/cm<sup>3</sup>
         surface_gravity: 10.494 m/s<sup>2</sup><br />(1.070 g<sub>0</sub>)
         escape_velocity: 24.956 km/s<br />(89,841 km/h)
         rotation_period: 60.303 d
         axial_tilt: 12.25°
         albedo: 0.30
-        temperature: 902 K<br />(629 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6602 Arkothiad V b
         type: Ice/rock hybrid
         formationType: Captured
@@ -627,14 +687,14 @@ planets:
         radius: 16,081.9 km<br/>(2.524 Yrths)
         surface_area: 3.250 × 10<sup>09</sup> km<sup>2</sup><br/>(6.372 Yrths)
         volume: 1.742 × 10<sup>13</sup> km<sup>3</sup><br/>(16.084 Yrths)
-        mass: 3.163 × 10<sup>25</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 3.163 × 10<sup>25</sup> kg<br />(5.297 Yrths)
         density: 1.816 g/cm<sup>3</sup>
         surface_gravity: 8.152 m/s<sup>2</sup><br />(0.831 g<sub>0</sub>)
         escape_velocity: 16.204 km/s<br />(58,334 km/h)
         rotation_period: 46.606 d
         axial_tilt: 22.17°
         albedo: 0.30
-        temperature: 860 K<br />(587 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6602 Arkothiad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -647,14 +707,14 @@ planets:
         radius: 12,724.3 km<br/>(1.997 Yrths)
         surface_area: 2.035 × 10<sup>09</sup> km<sup>2</sup><br/>(3.989 Yrths)
         volume: 8.630 × 10<sup>12</sup> km<sup>3</sup><br/>(7.967 Yrths)
-        mass: 1.983 × 10<sup>25</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 1.983 × 10<sup>25</sup> kg<br />(3.321 Yrths)
         density: 2.298 g/cm<sup>3</sup>
         surface_gravity: 8.165 m/s<sup>2</sup><br />(0.833 g<sub>0</sub>)
         escape_velocity: 14.425 km/s<br />(51,928 km/h)
         rotation_period: 57.867 d
         axial_tilt: 18.39°
         albedo: 0.30
-        temperature: 820 K<br />(547 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6602 Arkothiad V d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -667,14 +727,14 @@ planets:
         radius: 13,492.5 km<br/>(2.118 Yrths)
         surface_area: 2.288 × 10<sup>09</sup> km<sup>2</sup><br/>(4.485 Yrths)
         volume: 1.029 × 10<sup>13</sup> km<sup>3</sup><br/>(9.498 Yrths)
-        mass: 1.997 × 10<sup>25</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 1.997 × 10<sup>25</sup> kg<br />(3.344 Yrths)
         density: 1.941 g/cm<sup>3</sup>
         surface_gravity: 7.313 m/s<sup>2</sup><br />(0.746 g<sub>0</sub>)
         escape_velocity: 14.057 km/s<br />(50,605 km/h)
         rotation_period: 51.420 d
         axial_tilt: 33.64°
         albedo: 0.30
-        temperature: 782 K<br />(509 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6602 Arkothiad V e
         type: Icy
         formationType: Accreted
@@ -687,14 +747,14 @@ planets:
         radius: 15,403.8 km<br/>(2.418 Yrths)
         surface_area: 2.982 × 10<sup>09</sup> km<sup>2</sup><br/>(5.846 Yrths)
         volume: 1.531 × 10<sup>13</sup> km<sup>3</sup><br/>(14.134 Yrths)
-        mass: 1.498 × 10<sup>25</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 1.498 × 10<sup>25</sup> kg<br />(2.508 Yrths)
         density: 0.978 g/cm<sup>3</sup>
         surface_gravity: 4.207 m/s<sup>2</sup><br />(0.429 g<sub>0</sub>)
         escape_velocity: 11.392 km/s<br />(41,010 km/h)
         rotation_period: 50.783 d
         axial_tilt: 16.80°
         albedo: 0.30
-        temperature: 678 K<br />(405 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6602 Arkothiad V f
         type: Rocky
         formationType: Impact formed
@@ -707,14 +767,14 @@ planets:
         radius: 15,399.8 km<br/>(2.417 Yrths)
         surface_area: 2.980 × 10<sup>09</sup> km<sup>2</sup><br/>(5.843 Yrths)
         volume: 1.530 × 10<sup>13</sup> km<sup>3</sup><br/>(14.123 Yrths)
-        mass: 4.761 × 10<sup>25</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 4.761 × 10<sup>25</sup> kg<br />(7.973 Yrths)
         density: 3.112 g/cm<sup>3</sup>
         surface_gravity: 13.381 m/s<sup>2</sup><br />(1.365 g<sub>0</sub>)
         escape_velocity: 20.315 km/s<br />(73,134 km/h)
         rotation_period: 50.930 d
         axial_tilt: 8.07°
         albedo: 0.30
-        temperature: 616 K<br />(343 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6602 Arkothiad V g
         type: Icy
         formationType: Accreted
@@ -727,14 +787,14 @@ planets:
         radius: 13,094.3 km<br/>(2.055 Yrths)
         surface_area: 2.155 × 10<sup>09</sup> km<sup>2</sup><br/>(4.224 Yrths)
         volume: 9.405 × 10<sup>12</sup> km<sup>3</sup><br/>(8.682 Yrths)
-        mass: 1.408 × 10<sup>25</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 1.408 × 10<sup>25</sup> kg<br />(2.358 Yrths)
         density: 1.497 g/cm<sup>3</sup>
         surface_gravity: 5.473 m/s<sup>2</sup><br />(0.558 g<sub>0</sub>)
         escape_velocity: 11.980 km/s<br />(43,129 km/h)
         rotation_period: 55.846 d
         axial_tilt: 17.66°
         albedo: 0.30
-        temperature: 588 K<br />(314 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6602 Arkothiad V h
         type: Ice/rock hybrid
         formationType: Captured
@@ -747,14 +807,14 @@ planets:
         radius: 14,552.2 km<br/>(2.284 Yrths)
         surface_area: 2.661 × 10<sup>09</sup> km<sup>2</sup><br/>(5.217 Yrths)
         volume: 1.291 × 10<sup>13</sup> km<sup>3</sup><br/>(11.917 Yrths)
-        mass: 2.403 × 10<sup>25</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 2.403 × 10<sup>25</sup> kg<br />(4.024 Yrths)
         density: 1.862 g/cm<sup>3</sup>
         surface_gravity: 7.564 m/s<sup>2</sup><br />(0.771 g<sub>0</sub>)
         escape_velocity: 14.847 km/s<br />(53,450 km/h)
         rotation_period: 40.888 d
         axial_tilt: 15.62°
         albedo: 0.30
-        temperature: 560 K<br />(287 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6602 Arkothiad V i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -767,14 +827,14 @@ planets:
         radius: 38,561.8 km<br/>(6.053 Yrths)
         surface_area: 1.869 × 10<sup>10</sup> km<sup>2</sup><br/>(36.635 Yrths)
         volume: 2.402 × 10<sup>14</sup> km<sup>3</sup><br/>(221.742 Yrths)
-        mass: 3.843 × 10<sup>26</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 3.843 × 10<sup>26</sup> kg<br />(64.352 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 17.226 m/s<sup>2</sup><br />(1.757 g<sub>0</sub>)
         escape_velocity: 36.474 km/s<br />(131,305 km/h)
         rotation_period: 74.666 d
         axial_tilt: 22.00°
         albedo: 0.30
-        temperature: 509 K<br />(236 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6602 Arkothiad V j
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -787,14 +847,14 @@ planets:
         radius: 13,428.2 km<br/>(2.108 Yrths)
         surface_area: 2.266 × 10<sup>09</sup> km<sup>2</sup><br/>(4.442 Yrths)
         volume: 1.014 × 10<sup>13</sup> km<sup>3</sup><br/>(9.363 Yrths)
-        mass: 2.487 × 10<sup>25</sup> kg<br />(24.623298478121246 Yrths)
+        mass: 2.487 × 10<sup>25</sup> kg<br />(4.164 Yrths)
         density: 2.452 g/cm<sup>3</sup>
         surface_gravity: 9.192 m/s<sup>2</sup><br />(0.937 g<sub>0</sub>)
         escape_velocity: 15.722 km/s<br />(56,600 km/h)
         rotation_period: 59.125 d
         axial_tilt: 19.11°
         albedo: 0.30
-        temperature: 486 K<br />(212 °C)
+        temperature: 111 K<br />(-162 °C)
   - name: 6602 Arkothiad VI
     type: Ice giant
     aphelion: 1,157,526,829 km<br />7.737 AU
@@ -806,14 +866,14 @@ planets:
     radius: 29,220.3 km<br/>(4.586 Yrths)
     surface_area: 1.073 × 10<sup>10</sup> km<sup>2</sup><br/>(21.036 Yrths)
     volume: 1.045 × 10<sup>14</sup> km<sup>3</sup><br/>(96.479 Yrths)
-    mass: 1.178 × 10<sup>26</sup> kg<br />(19.73203378627867 Yrths)
+    mass: 1.178 × 10<sup>26</sup> kg<br />(19.73 Yrths)
     density: 1.128 g/cm<sup>3</sup>
     surface_gravity: 9.199 m/s<sup>2</sup><br />(0.938 g<sub>0</sub>)
     escape_velocity: 23.202 km/s<br />(83,526 km/h)
     rotation_period: 0.369 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 151 K<br />(-122 °C)
+    temperature: 137 K<br />(-136 °C)
     composition:
       - 58.1349% hydrogen
       - 37.6042% helium
@@ -831,14 +891,14 @@ planets:
         radius: 42,547.0 km<br/>(6.678 Yrths)
         surface_area: 2.275 × 10<sup>10</sup> km<sup>2</sup><br/>(44.599 Yrths)
         volume: 3.226 × 10<sup>14</sup> km<sup>3</sup><br/>(297.840 Yrths)
-        mass: 9.623 × 10<sup>26</sup> kg<br />(19.73203378627867 Yrths)
+        mass: 9.623 × 10<sup>26</sup> kg<br />(161.141 Yrths)
         density: 2.983 g/cm<sup>3</sup>
         surface_gravity: 35.433 m/s<sup>2</sup><br />(3.613 g<sub>0</sub>)
         escape_velocity: 54.947 km/s<br />(197,810 km/h)
         rotation_period: 47.111 d
         axial_tilt: 51.48°
         albedo: 0.30
-        temperature: 716 K<br />(443 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6602 Arkothiad VI b
         type: Icy
         formationType: Captured
@@ -851,14 +911,14 @@ planets:
         radius: 28,701.3 km<br/>(4.505 Yrths)
         surface_area: 1.035 × 10<sup>10</sup> km<sup>2</sup><br/>(20.295 Yrths)
         volume: 9.904 × 10<sup>13</sup> km<sup>3</sup><br/>(91.429 Yrths)
-        mass: 1.119 × 10<sup>26</sup> kg<br />(19.73203378627867 Yrths)
+        mass: 1.119 × 10<sup>26</sup> kg<br />(18.739 Yrths)
         density: 1.130 g/cm<sup>3</sup>
         surface_gravity: 9.055 m/s<sup>2</sup><br />(0.923 g<sub>0</sub>)
         escape_velocity: 22.814 km/s<br />(82,130 km/h)
         rotation_period: 91.939 d
         axial_tilt: 27.12°
         albedo: 0.30
-        temperature: 683 K<br />(410 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6602 Arkothiad VI c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -871,14 +931,14 @@ planets:
         radius: 31,887.3 km<br/>(5.005 Yrths)
         surface_area: 1.278 × 10<sup>10</sup> km<sup>2</sup><br/>(25.051 Yrths)
         volume: 1.358 × 10<sup>14</sup> km<sup>3</sup><br/>(125.381 Yrths)
-        mass: 2.626 × 10<sup>26</sup> kg<br />(19.73203378627867 Yrths)
+        mass: 2.626 × 10<sup>26</sup> kg<br />(43.965 Yrths)
         density: 1.933 g/cm<sup>3</sup>
         surface_gravity: 17.211 m/s<sup>2</sup><br />(1.755 g<sub>0</sub>)
         escape_velocity: 33.153 km/s<br />(119,350 km/h)
         rotation_period: 64.214 d
         axial_tilt: 33.76°
         albedo: 0.30
-        temperature: 651 K<br />(378 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6602 Arkothiad VI d
         type: Rocky
         formationType: Captured
@@ -891,14 +951,14 @@ planets:
         radius: 7,279.2 km<br/>(1.143 Yrths)
         surface_area: 6.659 × 10<sup>08</sup> km<sup>2</sup><br/>(1.305 Yrths)
         volume: 1.616 × 10<sup>12</sup> km<sup>3</sup><br/>(1.492 Yrths)
-        mass: 4.871 × 10<sup>24</sup> kg<br />(19.73203378627867 Yrths)
+        mass: 4.871 × 10<sup>24</sup> kg<br />(0.816 Yrths)
         density: 3.015 g/cm<sup>3</sup>
         surface_gravity: 6.127 m/s<sup>2</sup><br />(0.625 g<sub>0</sub>)
         escape_velocity: 9.451 km/s<br />(34,024 km/h)
         rotation_period: 31.201 d
         axial_tilt: 5.34°
         albedo: 0.30
-        temperature: 592 K<br />(319 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6602 Arkothiad VI e
         type: Rocky
         formationType: Captured
@@ -911,14 +971,14 @@ planets:
         radius: 17,761.6 km<br/>(2.788 Yrths)
         surface_area: 3.964 × 10<sup>09</sup> km<sup>2</sup><br/>(7.772 Yrths)
         volume: 2.347 × 10<sup>13</sup> km<sup>3</sup><br/>(21.668 Yrths)
-        mass: 7.189 × 10<sup>25</sup> kg<br />(19.73203378627867 Yrths)
+        mass: 7.189 × 10<sup>25</sup> kg<br />(12.037 Yrths)
         density: 3.063 g/cm<sup>3</sup>
         surface_gravity: 15.188 m/s<sup>2</sup><br />(1.549 g<sub>0</sub>)
         escape_velocity: 23.243 km/s<br />(83,676 km/h)
         rotation_period: 32.984 d
         axial_tilt: 14.77°
         albedo: 0.30
-        temperature: 564 K<br />(291 °C)
+        temperature: 85 K<br />(-188 °C)
   - name: 6602 Arkothiad VII
     type: Gas giant
     aphelion: 1,971,282,400 km<br />13.177 AU
@@ -930,7 +990,7 @@ planets:
     radius: 194.5 km<br/>(0.031 Yrths)
     surface_area: 4.754 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.082 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.926 × 10<sup>26</sup> kg<br />(149.4590963255735 Yrths)
+    mass: 8.926 × 10<sup>26</sup> kg<br />(149.46 Yrths)
     density: 28959353.278 g/cm<sup>3</sup>
     surface_gravity: 1572588.574 m/s<sup>2</sup><br />(160359.407 g<sub>0</sub>)
     escape_velocity: 782.669 km/s<br />(2,817,609 km/h)
@@ -951,14 +1011,14 @@ planets:
         radius: 74,242.2 km<br/>(11.653 Yrths)
         surface_area: 6.926 × 10<sup>10</sup> km<sup>2</sup><br/>(135.796 Yrths)
         volume: 1.714 × 10<sup>15</sup> km<sup>3</sup><br/>(1582.452 Yrths)
-        mass: 2.655 × 10<sup>27</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 2.655 × 10<sup>27</sup> kg<br />(444.538 Yrths)
         density: 1.549 g/cm<sup>3</sup>
         surface_gravity: 32.103 m/s<sup>2</sup><br />(3.274 g<sub>0</sub>)
         escape_velocity: 69.089 km/s<br />(248,719 km/h)
         rotation_period: 44.837 d
         axial_tilt: 14.70°
         albedo: 0.30
-        temperature: 390 K<br />(117 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII b
         type: Rocky
         formationType: Impact formed
@@ -971,14 +1031,14 @@ planets:
         radius: 75,147.4 km<br/>(11.795 Yrths)
         surface_area: 7.096 × 10<sup>10</sup> km<sup>2</sup><br/>(139.128 Yrths)
         volume: 1.778 × 10<sup>15</sup> km<sup>3</sup><br/>(1641.043 Yrths)
-        mass: 4.744 × 10<sup>27</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 4.744 × 10<sup>27</sup> kg<br />(794.322 Yrths)
         density: 2.669 g/cm<sup>3</sup>
         surface_gravity: 55.989 m/s<sup>2</sup><br />(5.709 g<sub>0</sub>)
         escape_velocity: 91.795 km/s<br />(330,462 km/h)
         rotation_period: 46.016 d
         axial_tilt: 11.22°
         albedo: 0.30
-        temperature: 372 K<br />(99 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII c
         type: Icy
         formationType: Impact formed
@@ -991,14 +1051,14 @@ planets:
         radius: 108,492.3 km<br/>(17.029 Yrths)
         surface_area: 1.479 × 10<sup>11</sup> km<sup>2</sup><br/>(289.990 Yrths)
         volume: 5.349 × 10<sup>15</sup> km<sup>3</sup><br/>(4938.263 Yrths)
-        mass: 6.674 × 10<sup>27</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 6.674 × 10<sup>27</sup> kg<br />(1117.504 Yrths)
         density: 1.248 g/cm<sup>3</sup>
         surface_gravity: 37.791 m/s<sup>2</sup><br />(3.854 g<sub>0</sub>)
         escape_velocity: 90.616 km/s<br />(326,216 km/h)
         rotation_period: 46.349 d
         axial_tilt: 11.66°
         albedo: 0.30
-        temperature: 355 K<br />(81 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII d
         type: Icy
         formationType: Accreted
@@ -1011,14 +1071,14 @@ planets:
         radius: 87,932.3 km<br/>(13.802 Yrths)
         surface_area: 9.716 × 10<sup>10</sup> km<sup>2</sup><br/>(190.494 Yrths)
         volume: 2.848 × 10<sup>15</sup> km<sup>3</sup><br/>(2629.195 Yrths)
-        mass: 2.742 × 10<sup>27</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 2.742 × 10<sup>27</sup> kg<br />(459.182 Yrths)
         density: 0.963 g/cm<sup>3</sup>
         surface_gravity: 23.639 m/s<sup>2</sup><br />(2.410 g<sub>0</sub>)
         escape_velocity: 64.520 km/s<br />(232,273 km/h)
         rotation_period: 96.377 d
         axial_tilt: 15.99°
         albedo: 0.30
-        temperature: 293 K<br />(20 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII e
         type: Ice/rock hybrid
         formationType: Captured
@@ -1031,14 +1091,14 @@ planets:
         radius: 111,950.6 km<br/>(17.572 Yrths)
         surface_area: 1.575 × 10<sup>11</sup> km<sup>2</sup><br/>(308.772 Yrths)
         volume: 5.877 × 10<sup>15</sup> km<sup>3</sup><br/>(5425.703 Yrths)
-        mass: 1.145 × 10<sup>28</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 1.145 × 10<sup>28</sup> kg<br />(1918.098 Yrths)
         density: 1.949 g/cm<sup>3</sup>
         surface_gravity: 60.919 m/s<sup>2</sup><br />(6.212 g<sub>0</sub>)
         escape_velocity: 116.869 km/s<br />(420,729 km/h)
         rotation_period: 36.214 d
         axial_tilt: 9.44°
         albedo: 0.30
-        temperature: 279 K<br />(6 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII f
         type: Dwarf planet
         formationType: Accreted
@@ -1051,14 +1111,14 @@ planets:
         radius: 76,097.6 km<br/>(11.944 Yrths)
         surface_area: 7.277 × 10<sup>10</sup> km<sup>2</sup><br/>(142.668 Yrths)
         volume: 1.846 × 10<sup>15</sup> km<sup>3</sup><br/>(1704.080 Yrths)
-        mass: 3.014 × 10<sup>27</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 3.014 × 10<sup>27</sup> kg<br />(504.763 Yrths)
         density: 1.633 g/cm<sup>3</sup>
         surface_gravity: 34.696 m/s<sup>2</sup><br />(3.538 g<sub>0</sub>)
         escape_velocity: 72.717 km/s<br />(261,781 km/h)
         rotation_period: 60.015 d
         axial_tilt: 30.79°
         albedo: 0.30
-        temperature: 231 K<br />(-42 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII g
         type: Asteroid
         formationType: Captured
@@ -1071,14 +1131,14 @@ planets:
         radius: 69,244.9 km<br/>(10.869 Yrths)
         surface_area: 6.025 × 10<sup>10</sup> km<sup>2</sup><br/>(118.130 Yrths)
         volume: 1.391 × 10<sup>15</sup> km<sup>3</sup><br/>(1283.928 Yrths)
-        mass: 3.555 × 10<sup>27</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 3.555 × 10<sup>27</sup> kg<br />(595.327 Yrths)
         density: 2.556 g/cm<sup>3</sup>
         surface_gravity: 49.422 m/s<sup>2</sup><br />(5.040 g<sub>0</sub>)
         escape_velocity: 82.787 km/s<br />(298,033 km/h)
         rotation_period: 36.998 d
         axial_tilt: 59.85°
         albedo: 0.30
-        temperature: 182 K<br />(-91 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII h
         type: Icy
         formationType: Impact formed
@@ -1091,14 +1151,14 @@ planets:
         radius: 108,721.5 km<br/>(17.065 Yrths)
         surface_area: 1.485 × 10<sup>11</sup> km<sup>2</sup><br/>(291.216 Yrths)
         volume: 5.383 × 10<sup>15</sup> km<sup>3</sup><br/>(4969.618 Yrths)
-        mass: 5.864 × 10<sup>27</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 5.864 × 10<sup>27</sup> kg<br />(981.852 Yrths)
         density: 1.089 g/cm<sup>3</sup>
         surface_gravity: 33.064 m/s<sup>2</sup><br />(3.372 g<sub>0</sub>)
         escape_velocity: 84.848 km/s<br />(305,454 km/h)
         rotation_period: 55.764 d
         axial_tilt: 16.92°
         albedo: 0.30
-        temperature: 158 K<br />(-115 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII i
         type: Dwarf planet
         formationType: Impact formed
@@ -1111,14 +1171,14 @@ planets:
         radius: 69,621.2 km<br/>(10.928 Yrths)
         surface_area: 6.091 × 10<sup>10</sup> km<sup>2</sup><br/>(119.418 Yrths)
         volume: 1.414 × 10<sup>15</sup> km<sup>3</sup><br/>(1304.975 Yrths)
-        mass: 3.855 × 10<sup>27</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 3.855 × 10<sup>27</sup> kg<br />(645.549 Yrths)
         density: 2.727 g/cm<sup>3</sup>
         surface_gravity: 53.013 m/s<sup>2</sup><br />(5.406 g<sub>0</sub>)
         escape_velocity: 85.975 km/s<br />(309,509 km/h)
         rotation_period: 41.429 d
         axial_tilt: 32.07°
         albedo: 0.30
-        temperature: 150 K<br />(-123 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII j
         type: Ice/rock hybrid
         formationType: Captured
@@ -1131,14 +1191,14 @@ planets:
         radius: 107,081.6 km<br/>(16.808 Yrths)
         surface_area: 1.441 × 10<sup>11</sup> km<sup>2</sup><br/>(282.497 Yrths)
         volume: 5.143 × 10<sup>15</sup> km<sup>3</sup><br/>(4748.119 Yrths)
-        mass: 1.239 × 10<sup>28</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 1.239 × 10<sup>28</sup> kg<br />(2074.131 Yrths)
         density: 2.408 g/cm<sup>3</sup>
         surface_gravity: 72.002 m/s<sup>2</sup><br />(7.342 g<sub>0</sub>)
         escape_velocity: 124.262 km/s<br />(447,343 km/h)
         rotation_period: 57.129 d
         axial_tilt: 26.59°
         albedo: 0.30
-        temperature: 118 K<br />(-155 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6602 Arkothiad VII k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1151,14 +1211,14 @@ planets:
         radius: 154,711.1 km<br/>(24.284 Yrths)
         surface_area: 3.008 × 10<sup>11</sup> km<sup>2</sup><br/>(589.695 Yrths)
         volume: 1.551 × 10<sup>16</sup> km<sup>3</sup><br/>(14319.947 Yrths)
-        mass: 3.250 × 10<sup>28</sup> kg<br />(149.4590963255735 Yrths)
+        mass: 3.250 × 10<sup>28</sup> kg<br />(5442.596 Yrths)
         density: 2.095 g/cm<sup>3</sup>
         surface_gravity: 90.511 m/s<sup>2</sup><br />(9.230 g<sub>0</sub>)
         escape_velocity: 167.463 km/s<br />(602,869 km/h)
         rotation_period: 54.946 d
         axial_tilt: 11.16°
         albedo: 0.30
-        temperature: 113 K<br />(-160 °C)
+        temperature: 65 K<br />(-208 °C)
   - name: 6602 Arkothiad VIII
     type: Gas giant
     aphelion: 3,751,743,568 km<br />25.078 AU
@@ -1170,7 +1230,7 @@ planets:
     radius: 189.6 km<br/>(0.030 Yrths)
     surface_area: 4.519 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.856 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.003 × 10<sup>26</sup> kg<br />(134.0021145574679 Yrths)
+    mass: 8.003 × 10<sup>26</sup> kg<br />(134.00 Yrths)
     density: 28019780.863 g/cm<sup>3</sup>
     surface_gravity: 1483413.178 m/s<sup>2</sup><br />(151266.047 g<sub>0</sub>)
     escape_velocity: 750.563 km/s<br />(2,702,027 km/h)
@@ -1191,14 +1251,14 @@ planets:
         radius: 176,499.8 km<br/>(27.704 Yrths)
         surface_area: 3.915 × 10<sup>11</sup> km<sup>2</sup><br/>(767.491 Yrths)
         volume: 2.303 × 10<sup>16</sup> km<sup>3</sup><br/>(21262.280 Yrths)
-        mass: 3.685 × 10<sup>28</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 3.685 × 10<sup>28</sup> kg<br />(6170.515 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 78.844 m/s<sup>2</sup><br />(8.040 g<sub>0</sub>)
         escape_velocity: 166.942 km/s<br />(600,992 km/h)
         rotation_period: 39.944 d
         axial_tilt: 14.53°
         albedo: 0.30
-        temperature: 263 K<br />(-10 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 6602 Arkothiad VIII b
         type: Icy
         formationType: Captured
@@ -1211,14 +1271,14 @@ planets:
         radius: 136,773.4 km<br/>(21.468 Yrths)
         surface_area: 2.351 × 10<sup>11</sup> km<sup>2</sup><br/>(460.880 Yrths)
         volume: 1.072 × 10<sup>16</sup> km<sup>3</sup><br/>(9894.232 Yrths)
-        mass: 1.467 × 10<sup>28</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 1.467 × 10<sup>28</sup> kg<br />(2456.060 Yrths)
         density: 1.369 g/cm<sup>3</sup>
         surface_gravity: 52.260 m/s<sup>2</sup><br />(5.329 g<sub>0</sub>)
         escape_velocity: 119.646 km/s<br />(430,724 km/h)
         rotation_period: 61.835 d
         axial_tilt: 20.17°
         albedo: 0.30
-        temperature: 228 K<br />(-45 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 6602 Arkothiad VIII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -1231,14 +1291,14 @@ planets:
         radius: 151,915.6 km<br/>(23.845 Yrths)
         surface_area: 2.900 × 10<sup>11</sup> km<sup>2</sup><br/>(568.577 Yrths)
         volume: 1.469 × 10<sup>16</sup> km<sup>3</sup><br/>(13557.650 Yrths)
-        mass: 3.203 × 10<sup>28</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 3.203 × 10<sup>28</sup> kg<br />(5363.513 Yrths)
         density: 2.181 g/cm<sup>3</sup>
         surface_gravity: 92.508 m/s<sup>2</sup><br />(9.433 g<sub>0</sub>)
         escape_velocity: 167.765 km/s<br />(603,954 km/h)
         rotation_period: 51.462 d
         axial_tilt: 22.57°
         albedo: 0.30
-        temperature: 217 K<br />(-56 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 6602 Arkothiad VIII d
         type: Icy
         formationType: Captured
@@ -1251,14 +1311,14 @@ planets:
         radius: 138,381.1 km<br/>(21.720 Yrths)
         surface_area: 2.406 × 10<sup>11</sup> km<sup>2</sup><br/>(471.779 Yrths)
         volume: 1.110 × 10<sup>16</sup> km<sup>3</sup><br/>(10247.252 Yrths)
-        mass: 1.460 × 10<sup>28</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 1.460 × 10<sup>28</sup> kg<br />(2444.349 Yrths)
         density: 1.315 g/cm<sup>3</sup>
         surface_gravity: 50.810 m/s<sup>2</sup><br />(5.181 g<sub>0</sub>)
         escape_velocity: 118.665 km/s<br />(427,192 km/h)
         rotation_period: 46.061 d
         axial_tilt: 12.91°
         albedo: 0.30
-        temperature: 198 K<br />(-76 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 6602 Arkothiad VIII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1271,14 +1331,14 @@ planets:
         radius: 101,032.5 km<br/>(15.858 Yrths)
         surface_area: 1.283 × 10<sup>11</sup> km<sup>2</sup><br/>(251.482 Yrths)
         volume: 4.320 × 10<sup>15</sup> km<sup>3</sup><br/>(3988.044 Yrths)
-        mass: 1.210 × 10<sup>28</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 1.210 × 10<sup>28</sup> kg<br />(2025.394 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 78.981 m/s<sup>2</sup><br />(8.054 g<sub>0</sub>)
         escape_velocity: 126.416 km/s<br />(455,098 km/h)
         rotation_period: 34.195 d
         axial_tilt: 23.47°
         albedo: 0.30
-        temperature: 135 K<br />(-138 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 6602 Arkothiad VIII f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1291,14 +1351,14 @@ planets:
         radius: 106,140.8 km<br/>(16.660 Yrths)
         surface_area: 1.416 × 10<sup>11</sup> km<sup>2</sup><br/>(277.555 Yrths)
         volume: 5.009 × 10<sup>15</sup> km<sup>3</sup><br/>(4624.073 Yrths)
-        mass: 9.460 × 10<sup>27</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 9.460 × 10<sup>27</sup> kg<br />(1584.032 Yrths)
         density: 1.889 g/cm<sup>3</sup>
         surface_gravity: 55.967 m/s<sup>2</sup><br />(5.707 g<sub>0</sub>)
         escape_velocity: 109.073 km/s<br />(392,664 km/h)
         rotation_period: 36.081 d
         axial_tilt: 11.58°
         albedo: 0.30
-        temperature: 88 K<br />(-185 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 6602 Arkothiad VIII g
         type: Dwarf planet
         formationType: Accreted
@@ -1311,14 +1371,14 @@ planets:
         radius: 130,404.9 km<br/>(20.469 Yrths)
         surface_area: 2.137 × 10<sup>11</sup> km<sup>2</sup><br/>(418.960 Yrths)
         volume: 9.289 × 10<sup>15</sup> km<sup>3</sup><br/>(8575.498 Yrths)
-        mass: 2.145 × 10<sup>28</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 2.145 × 10<sup>28</sup> kg<br />(3592.435 Yrths)
         density: 2.310 g/cm<sup>3</sup>
         surface_gravity: 84.089 m/s<sup>2</sup><br />(8.575 g<sub>0</sub>)
         escape_velocity: 148.192 km/s<br />(533,492 km/h)
         rotation_period: 33.109 d
         axial_tilt: 23.92°
         albedo: 0.30
-        temperature: 66 K<br />(-207 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 6602 Arkothiad VIII h
         type: Ice/rock hybrid
         formationType: Captured
@@ -1331,7 +1391,7 @@ planets:
         radius: 111,022.7 km<br/>(17.426 Yrths)
         surface_area: 1.549 × 10<sup>11</sup> km<sup>2</sup><br/>(303.674 Yrths)
         volume: 5.732 × 10<sup>15</sup> km<sup>3</sup><br/>(5291.907 Yrths)
-        mass: 1.437 × 10<sup>28</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 1.437 × 10<sup>28</sup> kg<br />(2405.977 Yrths)
         density: 2.507 g/cm<sup>3</sup>
         surface_gravity: 77.697 m/s<sup>2</sup><br />(7.923 g<sub>0</sub>)
         escape_velocity: 131.437 km/s<br />(473,173 km/h)
@@ -1351,14 +1411,14 @@ planets:
         radius: 130,860.7 km<br/>(20.540 Yrths)
         surface_area: 2.152 × 10<sup>11</sup> km<sup>2</sup><br/>(421.894 Yrths)
         volume: 9.387 × 10<sup>15</sup> km<sup>3</sup><br/>(8665.725 Yrths)
-        mass: 1.622 × 10<sup>28</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 1.622 × 10<sup>28</sup> kg<br />(2716.257 Yrths)
         density: 1.728 g/cm<sup>3</sup>
         surface_gravity: 63.138 m/s<sup>2</sup><br />(6.438 g<sub>0</sub>)
         escape_velocity: 128.635 km/s<br />(463,085 km/h)
         rotation_period: 45.541 d
         axial_tilt: 18.49°
         albedo: 0.30
-        temperature: 47 K<br />(-226 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 6602 Arkothiad VIII j
         type: Ice/rock hybrid
         formationType: Captured
@@ -1371,12 +1431,12 @@ planets:
         radius: 99,939.2 km<br/>(15.687 Yrths)
         surface_area: 1.255 × 10<sup>11</sup> km<sup>2</sup><br/>(246.069 Yrths)
         volume: 4.181 × 10<sup>15</sup> km<sup>3</sup><br/>(3859.976 Yrths)
-        mass: 1.023 × 10<sup>28</sup> kg<br />(134.0021145574679 Yrths)
+        mass: 1.023 × 10<sup>28</sup> kg<br />(1713.012 Yrths)
         density: 2.447 g/cm<sup>3</sup>
         surface_gravity: 68.269 m/s<sup>2</sup><br />(6.962 g<sub>0</sub>)
         escape_velocity: 116.893 km/s<br />(420,816 km/h)
         rotation_period: 39.916 d
         axial_tilt: 13.75°
         albedo: 0.30
-        temperature: 41 K<br />(-232 °C)
+        temperature: 50 K<br />(-224 °C)
 ---

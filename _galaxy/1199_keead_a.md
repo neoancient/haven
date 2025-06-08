@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1199 Keead A is a star in the constellation Kee
+      1199 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 457.62 ly
 apparent_magnitude: 7.85
 absolute_magnitude: 2.11

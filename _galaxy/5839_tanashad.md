@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5839 Tanashad is a star in the constellation Tanas
+      5839 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 305.48 ly
 apparent_magnitude: 8.31
 absolute_magnitude: 3.45
@@ -31,14 +31,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.605 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 692 K<br />(419 °C)
+    temperature: 645 K<br />(372 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -54,14 +54,14 @@ planets:
         radius: 939.9 km<br/>(0.148 Yrths)
         surface_area: 1.110 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.478 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.827 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.827 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.963 g/cm<sup>3</sup>
         surface_gravity: 0.515 m/s<sup>2</sup><br />(0.053 g<sub>0</sub>)
         escape_velocity: 0.985 km/s<br />(3,545 km/h)
         rotation_period: 60.530 d
         axial_tilt: 18.96°
         albedo: 0.30
-        temperature: 4174 K<br />(3900 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 5839 Tanashad I b
         type: Icy
         formationType: Accreted
@@ -74,14 +74,14 @@ planets:
         radius: 815.3 km<br/>(0.128 Yrths)
         surface_area: 8.353 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.270 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.234 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.234 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.984 g/cm<sup>3</sup>
         surface_gravity: 0.224 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.605 km/s<br />(2,177 km/h)
         rotation_period: 91.629 d
         axial_tilt: 21.49°
         albedo: 0.30
-        temperature: 2990 K<br />(2717 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 5839 Tanashad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -94,14 +94,14 @@ planets:
         radius: 615.8 km<br/>(0.097 Yrths)
         surface_area: 4.765 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.781 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.565 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.565 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.275 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.582 km/s<br />(2,097 km/h)
         rotation_period: 70.819 d
         axial_tilt: 27.36°
         albedo: 0.30
-        temperature: 2851 K<br />(2577 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 5839 Tanashad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -114,14 +114,14 @@ planets:
         radius: 587.7 km<br/>(0.092 Yrths)
         surface_area: 4.341 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.504 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.905 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.905 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.240 g/cm<sup>3</sup>
         surface_gravity: 0.368 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.658 km/s<br />(2,368 km/h)
         rotation_period: 43.625 d
         axial_tilt: 32.31°
         albedo: 0.30
-        temperature: 1609 K<br />(1336 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 5839 Tanashad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -134,14 +134,14 @@ planets:
         radius: 640.2 km<br/>(0.100 Yrths)
         surface_area: 5.151 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.099 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.215 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.215 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.015 g/cm<sup>3</sup>
         surface_gravity: 0.360 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.680 km/s<br />(2,447 km/h)
         rotation_period: 38.925 d
         axial_tilt: 17.00°
         albedo: 0.30
-        temperature: 716 K<br />(443 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 5839 Tanashad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -154,14 +154,14 @@ planets:
         radius: 609.2 km<br/>(0.096 Yrths)
         surface_area: 4.663 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.469 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.818 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.818 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.920 g/cm<sup>3</sup>
         surface_gravity: 0.327 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.631 km/s<br />(2,272 km/h)
         rotation_period: 43.317 d
         axial_tilt: 16.15°
         albedo: 0.30
-        temperature: 466 K<br />(193 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 5839 Tanashad I g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -174,14 +174,14 @@ planets:
         radius: 561.0 km<br/>(0.088 Yrths)
         surface_area: 3.955 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.396 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.712 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.712 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.314 g/cm<sup>3</sup>
         surface_gravity: 0.362 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.638 km/s<br />(2,297 km/h)
         rotation_period: 34.438 d
         axial_tilt: 16.81°
         albedo: 0.30
-        temperature: 404 K<br />(131 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 5839 Tanashad I h
         type: Icy
         formationType: Accreted
@@ -194,14 +194,14 @@ planets:
         radius: 639.4 km<br/>(0.100 Yrths)
         surface_area: 5.138 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.095 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.646 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.646 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.503 g/cm<sup>3</sup>
         surface_gravity: 0.268 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.586 km/s<br />(2,110 km/h)
         rotation_period: 52.365 d
         axial_tilt: 26.36°
         albedo: 0.30
-        temperature: 318 K<br />(45 °C)
+        temperature: 242 K<br />(-31 °C)
   - name: 5839 Tanashad II
     type: Large terrestrial
     aphelion: 733,417,342 km<br />4.903 AU
@@ -213,14 +213,14 @@ planets:
     radius: 7,361.4 km<br/>(1.155 Yrths)
     surface_area: 6.810 × 10<sup>08</sup> km<sup>2</sup><br/>(1.335 Yrths)
     volume: 1.671 × 10<sup>12</sup> km<sup>3</sup><br/>(1.543 Yrths)
-    mass: 1.203 × 10<sup>25</sup> kg<br />(2.0144125998124265 Yrths)
+    mass: 1.203 × 10<sup>25</sup> kg<br />(2.01 Yrths)
     density: 7.199 g/cm<sup>3</sup>
     surface_gravity: 14.797 m/s<sup>2</sup><br />(1.509 g<sub>0</sub>)
     escape_velocity: 14.770 km/s<br />(53,171 km/h)
     rotation_period: 0.912 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 262 K<br />(-11 °C)
+    temperature: 590 K<br />(317 °C)
     surface_pressure: 236 kPa<br />(2 atm)
     composition:
       - 61.8576% carbon dioxide
@@ -241,14 +241,14 @@ planets:
         radius: 5,648.4 km<br/>(0.887 Yrths)
         surface_area: 4.009 × 10<sup>08</sup> km<sup>2</sup><br/>(0.786 Yrths)
         volume: 7.549 × 10<sup>11</sup> km<sup>3</sup><br/>(0.697 Yrths)
-        mass: 9.436 × 10<sup>23</sup> kg<br />(2.0144125998124265 Yrths)
+        mass: 9.436 × 10<sup>23</sup> kg<br />(0.158 Yrths)
         density: 1.250 g/cm<sup>3</sup>
         surface_gravity: 1.971 m/s<sup>2</sup><br />(0.201 g<sub>0</sub>)
         escape_velocity: 4.722 km/s<br />(17,000 km/h)
         rotation_period: 67.057 d
         axial_tilt: 14.33°
         albedo: 0.30
-        temperature: 2640 K<br />(2366 °C)
+        temperature: 172 K<br />(-101 °C)
       - name: 5839 Tanashad II b
         type: Dwarf planet
         formationType: Impact formed
@@ -261,14 +261,14 @@ planets:
         radius: 4,288.6 km<br/>(0.673 Yrths)
         surface_area: 2.311 × 10<sup>08</sup> km<sup>2</sup><br/>(0.453 Yrths)
         volume: 3.304 × 10<sup>11</sup> km<sup>3</sup><br/>(0.305 Yrths)
-        mass: 7.911 × 10<sup>23</sup> kg<br />(2.0144125998124265 Yrths)
+        mass: 7.911 × 10<sup>23</sup> kg<br />(0.132 Yrths)
         density: 2.395 g/cm<sup>3</sup>
         surface_gravity: 2.867 m/s<sup>2</sup><br />(0.292 g<sub>0</sub>)
         escape_velocity: 4.962 km/s<br />(17,865 km/h)
         rotation_period: 33.892 d
         axial_tilt: 31.36°
         albedo: 0.30
-        temperature: 2517 K<br />(2244 °C)
+        temperature: 172 K<br />(-101 °C)
   - name: 5839 Tanashad III
     type: Large terrestrial
     aphelion: 1,529,620,911 km<br />10.225 AU
@@ -280,14 +280,14 @@ planets:
     radius: 8,585.1 km<br/>(1.348 Yrths)
     surface_area: 9.262 × 10<sup>08</sup> km<sup>2</sup><br/>(1.816 Yrths)
     volume: 2.651 × 10<sup>12</sup> km<sup>3</sup><br/>(2.447 Yrths)
-    mass: 1.590 × 10<sup>25</sup> kg<br />(2.662329383690904 Yrths)
+    mass: 1.590 × 10<sup>25</sup> kg<br />(2.66 Yrths)
     density: 5.999 g/cm<sup>3</sup>
     surface_gravity: 14.378 m/s<sup>2</sup><br />(1.466 g<sub>0</sub>)
     escape_velocity: 15.723 km/s<br />(56,603 km/h)
     rotation_period: 0.758 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 152 K<br />(-121 °C)
+    temperature: 183 K<br />(-91 °C)
     surface_pressure: 121 kPa<br />(1 atm)
     composition:
       - 84.6724% methane
@@ -307,14 +307,14 @@ planets:
         radius: 5,323.7 km<br/>(0.836 Yrths)
         surface_area: 3.562 × 10<sup>08</sup> km<sup>2</sup><br/>(0.698 Yrths)
         volume: 6.320 × 10<sup>11</sup> km<sup>3</sup><br/>(0.583 Yrths)
-        mass: 1.770 × 10<sup>24</sup> kg<br />(2.662329383690904 Yrths)
+        mass: 1.770 × 10<sup>24</sup> kg<br />(0.296 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 4.162 m/s<sup>2</sup><br />(0.424 g<sub>0</sub>)
         escape_velocity: 6.661 km/s<br />(23,981 km/h)
         rotation_period: 56.647 d
         axial_tilt: 23.05°
         albedo: 0.30
-        temperature: 1531 K<br />(1258 °C)
+        temperature: 122 K<br />(-151 °C)
       - name: 5839 Tanashad III b
         type: Icy
         formationType: Accreted
@@ -327,14 +327,14 @@ planets:
         radius: 7,843.0 km<br/>(1.231 Yrths)
         surface_area: 7.730 × 10<sup>08</sup> km<sup>2</sup><br/>(1.515 Yrths)
         volume: 2.021 × 10<sup>12</sup> km<sup>3</sup><br/>(1.866 Yrths)
-        mass: 1.511 × 10<sup>24</sup> kg<br />(2.662329383690904 Yrths)
+        mass: 1.511 × 10<sup>24</sup> kg<br />(0.253 Yrths)
         density: 0.748 g/cm<sup>3</sup>
         surface_gravity: 1.637 m/s<sup>2</sup><br />(0.167 g<sub>0</sub>)
         escape_velocity: 5.071 km/s<br />(18,254 km/h)
         rotation_period: 74.749 d
         axial_tilt: 20.87°
         albedo: 0.30
-        temperature: 1460 K<br />(1187 °C)
+        temperature: 122 K<br />(-151 °C)
       - name: 5839 Tanashad III c
         type: Icy
         formationType: Captured
@@ -347,14 +347,14 @@ planets:
         radius: 4,676.0 km<br/>(0.734 Yrths)
         surface_area: 2.748 × 10<sup>08</sup> km<sup>2</sup><br/>(0.539 Yrths)
         volume: 4.283 × 10<sup>11</sup> km<sup>3</sup><br/>(0.395 Yrths)
-        mass: 5.352 × 10<sup>23</sup> kg<br />(2.662329383690904 Yrths)
+        mass: 5.352 × 10<sup>23</sup> kg<br />(0.090 Yrths)
         density: 1.250 g/cm<sup>3</sup>
         surface_gravity: 1.631 m/s<sup>2</sup><br />(0.166 g<sub>0</sub>)
         escape_velocity: 3.909 km/s<br />(14,071 km/h)
         rotation_period: 55.075 d
         axial_tilt: 24.06°
         albedo: 0.30
-        temperature: 1392 K<br />(1119 °C)
+        temperature: 122 K<br />(-151 °C)
   - name: 5839 Tanashad IV
     type: Ice giant
     aphelion: 3,135,727,828 km<br />20.961 AU
@@ -366,14 +366,14 @@ planets:
     radius: 33,350.8 km<br/>(5.235 Yrths)
     surface_area: 1.398 × 10<sup>10</sup> km<sup>2</sup><br/>(27.403 Yrths)
     volume: 1.554 × 10<sup>14</sup> km<sup>3</sup><br/>(143.449 Yrths)
-    mass: 1.590 × 10<sup>26</sup> kg<br />(26.62729336508805 Yrths)
+    mass: 1.590 × 10<sup>26</sup> kg<br />(26.63 Yrths)
     density: 1.023 g/cm<sup>3</sup>
     surface_gravity: 9.529 m/s<sup>2</sup><br />(0.972 g<sub>0</sub>)
     escape_velocity: 25.228 km/s<br />(90,822 km/h)
     rotation_period: 0.334 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 150 K<br />(-123 °C)
+    temperature: 134 K<br />(-139 °C)
     composition:
       - 68.6167% hydrogen
       - 28.9446% helium
@@ -391,14 +391,14 @@ planets:
         radius: 25,127.6 km<br/>(3.944 Yrths)
         surface_area: 7.934 × 10<sup>09</sup> km<sup>2</sup><br/>(15.556 Yrths)
         volume: 6.646 × 10<sup>13</sup> km<sup>3</sup><br/>(61.352 Yrths)
-        mass: 1.094 × 10<sup>26</sup> kg<br />(26.62729336508805 Yrths)
+        mass: 1.094 × 10<sup>26</sup> kg<br />(18.313 Yrths)
         density: 1.646 g/cm<sup>3</sup>
         surface_gravity: 11.545 m/s<sup>2</sup><br />(1.177 g<sub>0</sub>)
         escape_velocity: 24.103 km/s<br />(86,772 km/h)
         rotation_period: 55.289 d
         axial_tilt: 16.84°
         albedo: 0.30
-        temperature: 709 K<br />(436 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 5839 Tanashad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -411,14 +411,14 @@ planets:
         radius: 27,961.1 km<br/>(4.389 Yrths)
         surface_area: 9.825 × 10<sup>09</sup> km<sup>2</sup><br/>(19.262 Yrths)
         volume: 9.157 × 10<sup>13</sup> km<sup>3</sup><br/>(84.535 Yrths)
-        mass: 2.180 × 10<sup>26</sup> kg<br />(26.62729336508805 Yrths)
+        mass: 2.180 × 10<sup>26</sup> kg<br />(36.503 Yrths)
         density: 2.381 g/cm<sup>3</sup>
         surface_gravity: 18.585 m/s<sup>2</sup><br />(1.895 g<sub>0</sub>)
         escape_velocity: 32.260 km/s<br />(116,136 km/h)
         rotation_period: 32.851 d
         axial_tilt: 18.68°
         albedo: 0.30
-        temperature: 676 K<br />(403 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 5839 Tanashad IV c
         type: Icy
         formationType: Impact formed
@@ -431,14 +431,14 @@ planets:
         radius: 22,867.1 km<br/>(3.589 Yrths)
         surface_area: 6.571 × 10<sup>09</sup> km<sup>2</sup><br/>(12.883 Yrths)
         volume: 5.009 × 10<sup>13</sup> km<sup>3</sup><br/>(46.239 Yrths)
-        mass: 5.272 × 10<sup>25</sup> kg<br />(26.62729336508805 Yrths)
+        mass: 5.272 × 10<sup>25</sup> kg<br />(8.828 Yrths)
         density: 1.053 g/cm<sup>3</sup>
         surface_gravity: 6.720 m/s<sup>2</sup><br />(0.685 g<sub>0</sub>)
         escape_velocity: 17.543 km/s<br />(63,155 km/h)
         rotation_period: 55.057 d
         axial_tilt: 22.94°
         albedo: 0.30
-        temperature: 586 K<br />(313 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 5839 Tanashad IV d
         type: Asteroid
         formationType: Captured
@@ -451,14 +451,14 @@ planets:
         radius: 39,356.5 km<br/>(6.177 Yrths)
         surface_area: 1.946 × 10<sup>10</sup> km<sup>2</sup><br/>(38.161 Yrths)
         volume: 2.554 × 10<sup>14</sup> km<sup>3</sup><br/>(235.736 Yrths)
-        mass: 6.316 × 10<sup>26</sup> kg<br />(26.62729336508805 Yrths)
+        mass: 6.316 × 10<sup>26</sup> kg<br />(105.764 Yrths)
         density: 2.474 g/cm<sup>3</sup>
         surface_gravity: 27.179 m/s<sup>2</sup><br />(2.772 g<sub>0</sub>)
         escape_velocity: 46.285 km/s<br />(166,625 km/h)
         rotation_period: 38.785 d
         axial_tilt: 22.81°
         albedo: 0.30
-        temperature: 558 K<br />(285 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 5839 Tanashad IV e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -471,14 +471,14 @@ planets:
         radius: 32,727.2 km<br/>(5.137 Yrths)
         surface_area: 1.346 × 10<sup>10</sup> km<sup>2</sup><br/>(26.388 Yrths)
         volume: 1.468 × 10<sup>14</sup> km<sup>3</sup><br/>(135.551 Yrths)
-        mass: 2.536 × 10<sup>26</sup> kg<br />(26.62729336508805 Yrths)
+        mass: 2.536 × 10<sup>26</sup> kg<br />(42.466 Yrths)
         density: 1.727 g/cm<sup>3</sup>
         surface_gravity: 15.782 m/s<sup>2</sup><br />(1.609 g<sub>0</sub>)
         escape_velocity: 32.162 km/s<br />(115,783 km/h)
         rotation_period: 72.088 d
         axial_tilt: 18.53°
         albedo: 0.30
-        temperature: 508 K<br />(235 °C)
+        temperature: 86 K<br />(-187 °C)
   - name: 5839 Tanashad V
     type: Gas giant
     aphelion: 5,923,969,950 km<br />39.599 AU
@@ -490,7 +490,7 @@ planets:
     radius: 235.9 km<br/>(0.037 Yrths)
     surface_area: 6.993 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.499 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.040 × 10<sup>27</sup> kg<br />(341.6392238524374 Yrths)
+    mass: 2.040 × 10<sup>27</sup> kg<br />(341.64 Yrths)
     density: 37105762.036 g/cm<sup>3</sup>
     surface_gravity: 2443797.624 m/s<sup>2</sup><br />(249198.006 g<sub>0</sub>)
     escape_velocity: 1074.489 km/s<br />(3,868,161 km/h)
@@ -511,14 +511,14 @@ planets:
         radius: 239,586.1 km<br/>(37.606 Yrths)
         surface_area: 7.213 × 10<sup>11</sup> km<sup>2</sup><br/>(1414.191 Yrths)
         volume: 5.761 × 10<sup>16</sup> km<sup>3</sup><br/>(53181.679 Yrths)
-        mass: 7.098 × 10<sup>28</sup> kg<br />(341.6392238524374 Yrths)
+        mass: 7.098 × 10<sup>28</sup> kg<br />(11885.037 Yrths)
         density: 1.232 g/cm<sup>3</sup>
         surface_gravity: 82.416 m/s<sup>2</sup><br />(8.404 g<sub>0</sub>)
         escape_velocity: 198.860 km/s<br />(715,896 km/h)
         rotation_period: 70.238 d
         axial_tilt: 24.83°
         albedo: 0.30
-        temperature: 328 K<br />(55 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 5839 Tanashad V b
         type: Rocky
         formationType: Accreted
@@ -531,14 +531,14 @@ planets:
         radius: 205,488.0 km<br/>(32.254 Yrths)
         surface_area: 5.306 × 10<sup>11</sup> km<sup>2</sup><br/>(1040.298 Yrths)
         volume: 3.635 × 10<sup>16</sup> km<sup>3</sup><br/>(33553.412 Yrths)
-        mass: 1.188 × 10<sup>29</sup> kg<br />(341.6392238524374 Yrths)
+        mass: 1.188 × 10<sup>29</sup> kg<br />(19897.743 Yrths)
         density: 3.269 g/cm<sup>3</sup>
         surface_gravity: 187.571 m/s<sup>2</sup><br />(19.127 g<sub>0</sub>)
         escape_velocity: 277.835 km/s<br />(1,000,205 km/h)
         rotation_period: 44.662 d
         axial_tilt: 18.51°
         albedo: 0.30
-        temperature: 298 K<br />(25 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 5839 Tanashad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -551,14 +551,14 @@ planets:
         radius: 200,069.3 km<br/>(31.403 Yrths)
         surface_area: 5.030 × 10<sup>11</sup> km<sup>2</sup><br/>(986.156 Yrths)
         volume: 3.355 × 10<sup>16</sup> km<sup>3</sup><br/>(30968.380 Yrths)
-        mass: 9.393 × 10<sup>28</sup> kg<br />(341.6392238524374 Yrths)
+        mass: 9.393 × 10<sup>28</sup> kg<br />(15727.806 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 156.402 m/s<sup>2</sup><br />(15.949 g<sub>0</sub>)
         escape_velocity: 250.335 km/s<br />(901,206 km/h)
         rotation_period: 34.501 d
         axial_tilt: 28.70°
         albedo: 0.30
-        temperature: 285 K<br />(11 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 5839 Tanashad V d
         type: Icy
         formationType: Accreted
@@ -571,14 +571,14 @@ planets:
         radius: 254,254.0 km<br/>(39.908 Yrths)
         surface_area: 8.124 × 10<sup>11</sup> km<sup>2</sup><br/>(1592.650 Yrths)
         volume: 6.885 × 10<sup>16</sup> km<sup>3</sup><br/>(63559.523 Yrths)
-        mass: 8.820 × 10<sup>28</sup> kg<br />(341.6392238524374 Yrths)
+        mass: 8.820 × 10<sup>28</sup> kg<br />(14769.190 Yrths)
         density: 1.281 g/cm<sup>3</sup>
         surface_gravity: 90.940 m/s<sup>2</sup><br />(9.273 g<sub>0</sub>)
         escape_velocity: 215.190 km/s<br />(774,684 km/h)
         rotation_period: 72.974 d
         axial_tilt: 16.99°
         albedo: 0.30
-        temperature: 224 K<br />(-49 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 5839 Tanashad V e
         type: Ice/rock hybrid
         formationType: Captured
@@ -591,14 +591,14 @@ planets:
         radius: 212,286.6 km<br/>(33.321 Yrths)
         surface_area: 5.663 × 10<sup>11</sup> km<sup>2</sup><br/>(1110.273 Yrths)
         volume: 4.007 × 10<sup>16</sup> km<sup>3</sup><br/>(36995.162 Yrths)
-        mass: 7.825 × 10<sup>28</sup> kg<br />(341.6392238524374 Yrths)
+        mass: 7.825 × 10<sup>28</sup> kg<br />(13102.294 Yrths)
         density: 1.953 g/cm<sup>3</sup>
         surface_gravity: 115.728 m/s<sup>2</sup><br />(11.801 g<sub>0</sub>)
         escape_velocity: 221.815 km/s<br />(798,533 km/h)
         rotation_period: 53.924 d
         axial_tilt: 19.77°
         albedo: 0.30
-        temperature: 177 K<br />(-96 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 5839 Tanashad V f
         type: Ice/rock hybrid
         formationType: Captured
@@ -611,14 +611,14 @@ planets:
         radius: 230,135.7 km<br/>(36.122 Yrths)
         surface_area: 6.655 × 10<sup>11</sup> km<sup>2</sup><br/>(1304.826 Yrths)
         volume: 5.106 × 10<sup>16</sup> km<sup>3</sup><br/>(47133.427 Yrths)
-        mass: 9.862 × 10<sup>28</sup> kg<br />(341.6392238524374 Yrths)
+        mass: 9.862 × 10<sup>28</sup> kg<br />(16513.361 Yrths)
         density: 1.932 g/cm<sup>3</sup>
         surface_gravity: 124.109 m/s<sup>2</sup><br />(12.656 g<sub>0</sub>)
         escape_velocity: 239.168 km/s<br />(861,006 km/h)
         rotation_period: 69.461 d
         axial_tilt: 21.12°
         albedo: 0.30
-        temperature: 95 K<br />(-178 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 5839 Tanashad V g
         type: Icy
         formationType: Accreted
@@ -631,14 +631,14 @@ planets:
         radius: 265,218.3 km<br/>(41.629 Yrths)
         surface_area: 8.839 × 10<sup>11</sup> km<sup>2</sup><br/>(1732.973 Yrths)
         volume: 7.814 × 10<sup>16</sup> km<sup>3</sup><br/>(72141.920 Yrths)
-        mass: 8.301 × 10<sup>28</sup> kg<br />(341.6392238524374 Yrths)
+        mass: 8.301 × 10<sup>28</sup> kg<br />(13899.166 Yrths)
         density: 1.062 g/cm<sup>3</sup>
         surface_gravity: 78.653 m/s<sup>2</sup><br />(8.020 g<sub>0</sub>)
         escape_velocity: 204.395 km/s<br />(735,822 km/h)
         rotation_period: 57.873 d
         axial_tilt: 25.63°
         albedo: 0.30
-        temperature: 91 K<br />(-182 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 5839 Tanashad V h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -651,14 +651,14 @@ planets:
         radius: 215,157.6 km<br/>(33.771 Yrths)
         surface_area: 5.817 × 10<sup>11</sup> km<sup>2</sup><br/>(1140.507 Yrths)
         volume: 4.172 × 10<sup>16</sup> km<sup>3</sup><br/>(38516.516 Yrths)
-        mass: 6.794 × 10<sup>28</sup> kg<br />(341.6392238524374 Yrths)
+        mass: 6.794 × 10<sup>28</sup> kg<br />(11376.510 Yrths)
         density: 1.628 g/cm<sup>3</sup>
         surface_gravity: 97.821 m/s<sup>2</sup><br />(9.975 g<sub>0</sub>)
         escape_velocity: 205.307 km/s<br />(739,106 km/h)
         rotation_period: 59.297 d
         axial_tilt: 25.33°
         albedo: 0.30
-        temperature: 75 K<br />(-198 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 5839 Tanashad V i
         type: Icy
         formationType: Impact formed
@@ -671,12 +671,12 @@ planets:
         radius: 261,550.0 km<br/>(41.053 Yrths)
         surface_area: 8.596 × 10<sup>11</sup> km<sup>2</sup><br/>(1685.365 Yrths)
         volume: 7.495 × 10<sup>16</sup> km<sup>3</sup><br/>(69189.649 Yrths)
-        mass: 9.644 × 10<sup>28</sup> kg<br />(341.6392238524374 Yrths)
+        mass: 9.644 × 10<sup>28</sup> kg<br />(16148.294 Yrths)
         density: 1.287 g/cm<sup>3</sup>
         surface_gravity: 93.962 m/s<sup>2</sup><br />(9.581 g<sub>0</sub>)
         escape_velocity: 221.852 km/s<br />(798,668 km/h)
         rotation_period: 57.721 d
         axial_tilt: 28.26°
         albedo: 0.30
-        temperature: 56 K<br />(-217 °C)
+        temperature: 61 K<br />(-212 °C)
 ---

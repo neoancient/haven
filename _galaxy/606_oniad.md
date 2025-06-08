@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      606 Oniad is a star in the constellation Oni
+      606 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 925.47 ly
 apparent_magnitude: 16.89
 absolute_magnitude: 9.63

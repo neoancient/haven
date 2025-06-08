@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10917 Dialkeshiad A is a star in the constellation Dialkes
+      10917 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 169.59 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 6.69

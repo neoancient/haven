@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Gishokiln C is a star in the constellation Dialkes
+      Gishokiln C is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 79.86 ly
 apparent_magnitude: 6.47
 absolute_magnitude: 4.53

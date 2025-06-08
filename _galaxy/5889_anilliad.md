@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5889 Anilliad is a star in the constellation Anil
+      5889 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 1081.00 ly
 apparent_magnitude: 12.44
 absolute_magnitude: 4.84

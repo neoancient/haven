@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2896 Anilliad is a star in the constellation Anil
+      2896 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 773.98 ly
 apparent_magnitude: 12.51
 absolute_magnitude: 5.63

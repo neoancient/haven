@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3846 Rukentuaiad A is a star in the constellation Rukentua
+      3846 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 603.64 ly
 apparent_magnitude: 8.18
 absolute_magnitude: 1.84

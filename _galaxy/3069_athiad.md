@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3069 Athiad is a star in the constellation Ath
+      3069 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 165.30 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 5.92

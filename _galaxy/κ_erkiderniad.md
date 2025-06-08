@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      κ Erkiderniad is a star in the constellation Erkidern
+      κ Erkiderniad is a star in the constellation <a href="erkidern.html">Erkidern</a>
 distance: 7.02 ly
 apparent_magnitude: 5.04
 absolute_magnitude: 8.38
@@ -31,14 +31,14 @@ planets:
     radius: 3,014.3 km<br/>(0.473 Yrths)
     surface_area: 1.142 × 10<sup>08</sup> km<sup>2</sup><br/>(0.224 Yrths)
     volume: 1.147 × 10<sup>11</sup> km<sup>3</sup><br/>(0.106 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.206 g/cm<sup>3</sup>
     surface_gravity: 4.381 m/s<sup>2</sup><br />(0.447 g<sub>0</sub>)
     escape_velocity: 5.143 km/s<br />(18,513 km/h)
     rotation_period: 3.284 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 373 K<br />(100 °C)
+    temperature: 393 K<br />(120 °C)
     surface_pressure: 55 kPa<br />(1 atm)
     composition:
       - 58.9192% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 511.3 km<br/>(0.080 Yrths)
         surface_area: 3.286 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.600 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.639 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.639 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.926 g/cm<sup>3</sup>
         surface_gravity: 0.418 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.654 km/s<br />(2,355 km/h)
         rotation_period: 30.096 d
         axial_tilt: 14.18°
         albedo: 0.30
-        temperature: 6233 K<br />(5960 °C)
+        temperature: 320 K<br />(47 °C)
   - name: κ Erkiderniad II
     type: Terrestrial
     aphelion: 43,766,984 km<br />0.293 AU
@@ -76,14 +76,14 @@ planets:
     radius: 5,964.5 km<br/>(0.936 Yrths)
     surface_area: 4.470 × 10<sup>08</sup> km<sup>2</sup><br/>(0.876 Yrths)
     volume: 8.888 × 10<sup>11</sup> km<sup>3</sup><br/>(0.821 Yrths)
-    mass: 4.340 × 10<sup>24</sup> kg<br />(0.7266953630428983 Yrths)
+    mass: 4.340 × 10<sup>24</sup> kg<br />(0.73 Yrths)
     density: 4.883 g/cm<sup>3</sup>
     surface_gravity: 8.131 m/s<sup>2</sup><br />(0.829 g<sub>0</sub>)
     escape_velocity: 9.855 km/s<br />(35,479 km/h)
     rotation_period: 2.745 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 284 K<br />(11 °C)
+    temperature: 307 K<br />(33 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 94.9003% nitrogen
@@ -102,14 +102,14 @@ planets:
         radius: 1,752.1 km<br/>(0.275 Yrths)
         surface_area: 3.858 × 10<sup>07</sup> km<sup>2</sup><br/>(0.076 Yrths)
         volume: 2.253 × 10<sup>10</sup> km<sup>3</sup><br/>(0.021 Yrths)
-        mass: 5.259 × 10<sup>22</sup> kg<br />(0.7266953630428983 Yrths)
+        mass: 5.259 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 2.334 g/cm<sup>3</sup>
         surface_gravity: 1.142 m/s<sup>2</sup><br />(0.116 g<sub>0</sub>)
         escape_velocity: 2.002 km/s<br />(7,206 km/h)
         rotation_period: 64.217 d
         axial_tilt: 41.20°
         albedo: 0.30
-        temperature: 3649 K<br />(3376 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: κ Erkiderniad II b
         type: Asteroid
         formationType: Captured
@@ -122,14 +122,14 @@ planets:
         radius: 1,745.2 km<br/>(0.274 Yrths)
         surface_area: 3.827 × 10<sup>07</sup> km<sup>2</sup><br/>(0.075 Yrths)
         volume: 2.226 × 10<sup>10</sup> km<sup>3</sup><br/>(0.021 Yrths)
-        mass: 5.291 × 10<sup>22</sup> kg<br />(0.7266953630428983 Yrths)
+        mass: 5.291 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 2.377 g/cm<sup>3</sup>
         surface_gravity: 1.158 m/s<sup>2</sup><br />(0.118 g<sub>0</sub>)
         escape_velocity: 2.012 km/s<br />(7,242 km/h)
         rotation_period: 64.127 d
         axial_tilt: 53.26°
         albedo: 0.30
-        temperature: 3479 K<br />(3206 °C)
+        temperature: 262 K<br />(-11 °C)
   - name: κ Erkiderniad III
     type: Terrestrial
     aphelion: 64,618,689 km<br />0.432 AU
@@ -141,7 +141,7 @@ planets:
     radius: 7,116.9 km<br/>(1.117 Yrths)
     surface_area: 6.365 × 10<sup>08</sup> km<sup>2</sup><br/>(1.248 Yrths)
     volume: 1.510 × 10<sup>12</sup> km<sup>3</sup><br/>(1.394 Yrths)
-    mass: 7.865 × 10<sup>24</sup> kg<br />(1.3169482139981186 Yrths)
+    mass: 7.865 × 10<sup>24</sup> kg<br />(1.32 Yrths)
     density: 5.209 g/cm<sup>3</sup>
     surface_gravity: 10.350 m/s<sup>2</sup><br />(1.055 g<sub>0</sub>)
     escape_velocity: 12.146 km/s<br />(43,724 km/h)
@@ -162,14 +162,14 @@ planets:
         radius: 3,019.0 km<br/>(0.474 Yrths)
         surface_area: 1.145 × 10<sup>08</sup> km<sup>2</sup><br/>(0.225 Yrths)
         volume: 1.153 × 10<sup>11</sup> km<sup>3</sup><br/>(0.106 Yrths)
-        mass: 2.492 × 10<sup>23</sup> kg<br />(1.3169482139981186 Yrths)
+        mass: 2.492 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 2.162 g/cm<sup>3</sup>
         surface_gravity: 1.822 m/s<sup>2</sup><br />(0.186 g<sub>0</sub>)
         escape_velocity: 3.319 km/s<br />(11,949 km/h)
         rotation_period: 42.522 d
         axial_tilt: 48.46°
         albedo: 0.30
-        temperature: 2663 K<br />(2390 °C)
+        temperature: 215 K<br />(-58 °C)
   - name: κ Erkiderniad IV
     type: Large terrestrial
     aphelion: 95,367,123 km<br />0.637 AU
@@ -181,14 +181,14 @@ planets:
     radius: 7,395.0 km<br/>(1.161 Yrths)
     surface_area: 6.872 × 10<sup>08</sup> km<sup>2</sup><br/>(1.347 Yrths)
     volume: 1.694 × 10<sup>12</sup> km<sup>3</sup><br/>(1.564 Yrths)
-    mass: 1.127 × 10<sup>25</sup> kg<br />(1.8866650346562293 Yrths)
+    mass: 1.127 × 10<sup>25</sup> kg<br />(1.89 Yrths)
     density: 6.651 g/cm<sup>3</sup>
     surface_gravity: 13.732 m/s<sup>2</sup><br />(1.400 g<sub>0</sub>)
     escape_velocity: 14.261 km/s<br />(51,340 km/h)
     rotation_period: 1.049 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 262 K<br />(-11 °C)
+    temperature: 587 K<br />(314 °C)
     surface_pressure: 177 kPa<br />(2 atm)
     composition:
       - 64.4118% carbon dioxide
@@ -207,14 +207,14 @@ planets:
         radius: 6,183.4 km<br/>(0.971 Yrths)
         surface_area: 4.805 × 10<sup>08</sup> km<sup>2</sup><br/>(0.942 Yrths)
         volume: 9.903 × 10<sup>11</sup> km<sup>3</sup><br/>(0.914 Yrths)
-        mass: 2.013 × 10<sup>24</sup> kg<br />(1.8866650346562293 Yrths)
+        mass: 2.013 × 10<sup>24</sup> kg<br />(0.337 Yrths)
         density: 2.032 g/cm<sup>3</sup>
         surface_gravity: 3.509 m/s<sup>2</sup><br />(0.358 g<sub>0</sub>)
         escape_velocity: 6.592 km/s<br />(23,730 km/h)
         rotation_period: 38.986 d
         axial_tilt: 19.49°
         albedo: 0.30
-        temperature: 2490 K<br />(2216 °C)
+        temperature: 176 K<br />(-97 °C)
   - name: κ Erkiderniad V
     type: Ice giant
     aphelion: 150,019,462 km<br />1.003 AU
@@ -226,14 +226,14 @@ planets:
     radius: 25,054.5 km<br/>(3.933 Yrths)
     surface_area: 7.888 × 10<sup>09</sup> km<sup>2</sup><br/>(15.465 Yrths)
     volume: 6.588 × 10<sup>13</sup> km<sup>3</sup><br/>(60.818 Yrths)
-    mass: 1.033 × 10<sup>26</sup> kg<br />(17.297140285583655 Yrths)
+    mass: 1.033 × 10<sup>26</sup> kg<br />(17.30 Yrths)
     density: 1.568 g/cm<sup>3</sup>
     surface_gravity: 10.968 m/s<sup>2</sup><br />(1.118 g<sub>0</sub>)
     escape_velocity: 23.460 km/s<br />(84,455 km/h)
     rotation_period: 0.542 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 252 K<br />(-21 °C)
+    temperature: 255 K<br />(-18 °C)
     composition:
       - 72.0166% hydrogen
       - 22.8776% helium
@@ -251,14 +251,14 @@ planets:
         radius: 19,025.3 km<br/>(2.986 Yrths)
         surface_area: 4.549 × 10<sup>09</sup> km<sup>2</sup><br/>(8.918 Yrths)
         volume: 2.885 × 10<sup>13</sup> km<sup>3</sup><br/>(26.630 Yrths)
-        mass: 3.755 × 10<sup>25</sup> kg<br />(17.297140285583655 Yrths)
+        mass: 3.755 × 10<sup>25</sup> kg<br />(6.288 Yrths)
         density: 1.302 g/cm<sup>3</sup>
         surface_gravity: 6.914 m/s<sup>2</sup><br />(0.705 g<sub>0</sub>)
         escape_velocity: 16.231 km/s<br />(58,433 km/h)
         rotation_period: 46.304 d
         axial_tilt: 21.26°
         albedo: 0.30
-        temperature: 1171 K<br />(897 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: κ Erkiderniad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -271,14 +271,14 @@ planets:
         radius: 13,346.3 km<br/>(2.095 Yrths)
         surface_area: 2.238 × 10<sup>09</sup> km<sup>2</sup><br/>(4.388 Yrths)
         volume: 9.958 × 10<sup>12</sup> km<sup>3</sup><br/>(9.193 Yrths)
-        mass: 2.427 × 10<sup>25</sup> kg<br />(17.297140285583655 Yrths)
+        mass: 2.427 × 10<sup>25</sup> kg<br />(4.064 Yrths)
         density: 2.437 g/cm<sup>3</sup>
         surface_gravity: 9.081 m/s<sup>2</sup><br />(0.926 g<sub>0</sub>)
         escape_velocity: 15.580 km/s<br />(56,088 km/h)
         rotation_period: 39.641 d
         axial_tilt: 20.59°
         albedo: 0.30
-        temperature: 1116 K<br />(843 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: κ Erkiderniad V c
         type: Icy
         formationType: Accreted
@@ -291,14 +291,14 @@ planets:
         radius: 44,365.9 km<br/>(6.964 Yrths)
         surface_area: 2.473 × 10<sup>10</sup> km<sup>2</sup><br/>(48.494 Yrths)
         volume: 3.658 × 10<sup>14</sup> km<sup>3</sup><br/>(337.696 Yrths)
-        mass: 4.795 × 10<sup>26</sup> kg<br />(17.297140285583655 Yrths)
+        mass: 4.795 × 10<sup>26</sup> kg<br />(80.298 Yrths)
         density: 1.311 g/cm<sup>3</sup>
         surface_gravity: 16.238 m/s<sup>2</sup><br />(1.656 g<sub>0</sub>)
         escape_velocity: 37.984 km/s<br />(136,744 km/h)
         rotation_period: 54.001 d
         axial_tilt: 24.39°
         albedo: 0.30
-        temperature: 1064 K<br />(791 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: κ Erkiderniad V d
         type: Ice/rock hybrid
         formationType: Captured
@@ -311,14 +311,14 @@ planets:
         radius: 20,357.5 km<br/>(3.195 Yrths)
         surface_area: 5.208 × 10<sup>09</sup> km<sup>2</sup><br/>(10.210 Yrths)
         volume: 3.534 × 10<sup>13</sup> km<sup>3</sup><br/>(32.625 Yrths)
-        mass: 7.513 × 10<sup>25</sup> kg<br />(17.297140285583655 Yrths)
+        mass: 7.513 × 10<sup>25</sup> kg<br />(12.580 Yrths)
         density: 2.126 g/cm<sup>3</sup>
         surface_gravity: 12.083 m/s<sup>2</sup><br />(1.232 g<sub>0</sub>)
         escape_velocity: 22.195 km/s<br />(79,903 km/h)
         rotation_period: 53.677 d
         axial_tilt: 19.13°
         albedo: 0.30
-        temperature: 967 K<br />(694 °C)
+        temperature: 144 K<br />(-129 °C)
   - name: κ Erkiderniad VI
     type: Ice giant
     aphelion: 221,453,306 km<br />1.480 AU
@@ -330,14 +330,14 @@ planets:
     radius: 24,813.9 km<br/>(3.895 Yrths)
     surface_area: 7.738 × 10<sup>09</sup> km<sup>2</sup><br/>(15.170 Yrths)
     volume: 6.400 × 10<sup>13</sup> km<sup>3</sup><br/>(59.083 Yrths)
-    mass: 9.334 × 10<sup>25</sup> kg<br />(15.628934456248215 Yrths)
+    mass: 9.334 × 10<sup>25</sup> kg<br />(15.63 Yrths)
     density: 1.458 g/cm<sup>3</sup>
     surface_gravity: 10.104 m/s<sup>2</sup><br />(1.030 g<sub>0</sub>)
     escape_velocity: 22.408 km/s<br />(80,667 km/h)
     rotation_period: 0.479 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 207 K<br />(-66 °C)
+    temperature: 197 K<br />(-76 °C)
     composition:
       - 61.7388% hydrogen
       - 36.3915% helium
@@ -355,14 +355,14 @@ planets:
         radius: 14,479.0 km<br/>(2.273 Yrths)
         surface_area: 2.634 × 10<sup>09</sup> km<sup>2</sup><br/>(5.165 Yrths)
         volume: 1.271 × 10<sup>13</sup> km<sup>3</sup><br/>(11.738 Yrths)
-        mass: 3.871 × 10<sup>25</sup> kg<br />(15.628934456248215 Yrths)
+        mass: 3.871 × 10<sup>25</sup> kg<br />(6.481 Yrths)
         density: 3.044 g/cm<sup>3</sup>
         surface_gravity: 12.306 m/s<sup>2</sup><br />(1.255 g<sub>0</sub>)
         escape_velocity: 18.890 km/s<br />(68,004 km/h)
         rotation_period: 43.795 d
         axial_tilt: 7.60°
         albedo: 0.30
-        temperature: 970 K<br />(697 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: κ Erkiderniad VI b
         type: Ice/rock hybrid
         formationType: Captured
@@ -375,14 +375,14 @@ planets:
         radius: 23,008.5 km<br/>(3.611 Yrths)
         surface_area: 6.653 × 10<sup>09</sup> km<sup>2</sup><br/>(13.043 Yrths)
         volume: 5.102 × 10<sup>13</sup> km<sup>3</sup><br/>(47.102 Yrths)
-        mass: 9.848 × 10<sup>25</sup> kg<br />(15.628934456248215 Yrths)
+        mass: 9.848 × 10<sup>25</sup> kg<br />(16.489 Yrths)
         density: 1.930 g/cm<sup>3</sup>
         surface_gravity: 12.398 m/s<sup>2</sup><br />(1.264 g<sub>0</sub>)
         escape_velocity: 23.902 km/s<br />(86,048 km/h)
         rotation_period: 65.129 d
         axial_tilt: 30.79°
         albedo: 0.30
-        temperature: 925 K<br />(652 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: κ Erkiderniad VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -395,14 +395,14 @@ planets:
         radius: 16,649.7 km<br/>(2.613 Yrths)
         surface_area: 3.484 × 10<sup>09</sup> km<sup>2</sup><br/>(6.830 Yrths)
         volume: 1.933 × 10<sup>13</sup> km<sup>3</sup><br/>(17.848 Yrths)
-        mass: 4.609 × 10<sup>25</sup> kg<br />(15.628934456248215 Yrths)
+        mass: 4.609 × 10<sup>25</sup> kg<br />(7.718 Yrths)
         density: 2.384 g/cm<sup>3</sup>
         surface_gravity: 11.082 m/s<sup>2</sup><br />(1.130 g<sub>0</sub>)
         escape_velocity: 19.223 km/s<br />(69,204 km/h)
         rotation_period: 37.849 d
         axial_tilt: 21.75°
         albedo: 0.30
-        temperature: 841 K<br />(567 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: κ Erkiderniad VI d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -415,14 +415,14 @@ planets:
         radius: 16,745.0 km<br/>(2.628 Yrths)
         surface_area: 3.524 × 10<sup>09</sup> km<sup>2</sup><br/>(6.908 Yrths)
         volume: 1.967 × 10<sup>13</sup> km<sup>3</sup><br/>(18.157 Yrths)
-        mass: 4.358 × 10<sup>25</sup> kg<br />(15.628934456248215 Yrths)
+        mass: 4.358 × 10<sup>25</sup> kg<br />(7.298 Yrths)
         density: 2.216 g/cm<sup>3</sup>
         surface_gravity: 10.360 m/s<sup>2</sup><br />(1.056 g<sub>0</sub>)
         escape_velocity: 18.639 km/s<br />(67,102 km/h)
         rotation_period: 40.966 d
         axial_tilt: 9.33°
         albedo: 0.30
-        temperature: 801 K<br />(528 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: κ Erkiderniad VI e
         type: Dwarf planet
         formationType: Impact formed
@@ -435,14 +435,14 @@ planets:
         radius: 31,897.1 km<br/>(5.007 Yrths)
         surface_area: 1.279 × 10<sup>10</sup> km<sup>2</sup><br/>(25.066 Yrths)
         volume: 1.359 × 10<sup>14</sup> km<sup>3</sup><br/>(125.497 Yrths)
-        mass: 2.642 × 10<sup>26</sup> kg<br />(15.628934456248215 Yrths)
+        mass: 2.642 × 10<sup>26</sup> kg<br />(44.246 Yrths)
         density: 1.944 g/cm<sup>3</sup>
         surface_gravity: 17.310 m/s<sup>2</sup><br />(1.765 g<sub>0</sub>)
         escape_velocity: 33.254 km/s<br />(119,713 km/h)
         rotation_period: 36.898 d
         axial_tilt: 25.35°
         albedo: 0.30
-        temperature: 729 K<br />(455 °C)
+        temperature: 118 K<br />(-155 °C)
   - name: κ Erkiderniad VII
     type: Large terrestrial
     aphelion: 326,967,680 km<br />2.186 AU
@@ -454,14 +454,14 @@ planets:
     radius: 2,802.8 km<br/>(0.440 Yrths)
     surface_area: 9.871 × 10<sup>07</sup> km<sup>2</sup><br/>(0.194 Yrths)
     volume: 9.222 × 10<sup>10</sup> km<sup>3</sup><br/>(0.085 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.475 g/cm<sup>3</sup>
     surface_gravity: 5.067 m/s<sup>2</sup><br />(0.517 g<sub>0</sub>)
     escape_velocity: 5.333 km/s<br />(19,199 km/h)
     rotation_period: 1.724 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 122 K<br />(-151 °C)
+    temperature: 123 K<br />(-150 °C)
     surface_pressure: 210 kPa<br />(2 atm)
     composition:
       - 62.5257% ammonia
@@ -479,14 +479,14 @@ planets:
         radius: 763.4 km<br/>(0.120 Yrths)
         surface_area: 7.324 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.864 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.893 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.893 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.625 g/cm<sup>3</sup>
         surface_gravity: 0.560 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 0.925 km/s<br />(3,330 km/h)
         rotation_period: 34.018 d
         axial_tilt: 52.06°
         albedo: 0.30
-        temperature: 1872 K<br />(1599 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: κ Erkiderniad VII b
         type: Icy
         formationType: Impact formed
@@ -499,14 +499,14 @@ planets:
         radius: 662.2 km<br/>(0.104 Yrths)
         surface_area: 5.511 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.216 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.352 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.352 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.111 g/cm<sup>3</sup>
         surface_gravity: 0.205 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.522 km/s<br />(1,879 km/h)
         rotation_period: 47.248 d
         axial_tilt: 16.49°
         albedo: 0.30
-        temperature: 1785 K<br />(1511 °C)
+        temperature: 96 K<br />(-177 °C)
       - name: κ Erkiderniad VII c
         type: Asteroid
         formationType: Captured
@@ -519,12 +519,12 @@ planets:
         radius: 455.4 km<br/>(0.071 Yrths)
         surface_area: 2.606 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.956 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 9.535 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.535 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.410 g/cm<sup>3</sup>
         surface_gravity: 0.306 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.529 km/s<br />(1,903 km/h)
         rotation_period: 46.732 d
         axial_tilt: 37.71°
         albedo: 0.30
-        temperature: 1702 K<br />(1428 °C)
+        temperature: 96 K<br />(-177 °C)
 ---

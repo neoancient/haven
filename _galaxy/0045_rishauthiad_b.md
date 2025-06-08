@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0045 Rishauthiad B is a star in the constellation Rishauth
+      0045 Rishauthiad B is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 165.03 ly
 apparent_magnitude: 9.33
 absolute_magnitude: 5.81

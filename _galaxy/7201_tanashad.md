@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7201 Tanashad is a star in the constellation Tanas
+      7201 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1021.95 ly
 apparent_magnitude: 7.95
 absolute_magnitude: 0.47

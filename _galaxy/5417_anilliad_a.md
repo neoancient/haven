@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5417 Anilliad A is a star in the constellation Anil
+      5417 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 602.00 ly
 apparent_magnitude: 8.51
 absolute_magnitude: 2.18

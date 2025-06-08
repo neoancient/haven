@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3185 Anilliad is a star in the constellation Anil
+      3185 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 480.47 ly
 apparent_magnitude: 9.76
 absolute_magnitude: 3.92

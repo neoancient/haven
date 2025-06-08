@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3862 Noniashad is a star in the constellation Nonias
+      3862 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 505.19 ly
 apparent_magnitude: 11.36
 absolute_magnitude: 5.41

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      809 Tanashad is a star in the constellation Tanas
+      809 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 381.57 ly
 apparent_magnitude: 10.32
 absolute_magnitude: 4.98

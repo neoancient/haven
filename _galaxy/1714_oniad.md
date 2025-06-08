@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1714 Oniad is a star in the constellation Oni
+      1714 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1061.94 ly
 apparent_magnitude: 15.10
 absolute_magnitude: 7.54

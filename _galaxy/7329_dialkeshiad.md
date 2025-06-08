@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7329 Dialkeshiad is a star in the constellation Dialkes
+      7329 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 415.75 ly
 apparent_magnitude: 11.18
 absolute_magnitude: 5.65

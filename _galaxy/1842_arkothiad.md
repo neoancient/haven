@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1842 Arkothiad is a star in the constellation Arkoth
+      1842 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 395.73 ly
 apparent_magnitude: 10.43
 absolute_magnitude: 5.01

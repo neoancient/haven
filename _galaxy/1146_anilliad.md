@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1146 Anilliad is a star in the constellation Anil
+      1146 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 585.21 ly
 apparent_magnitude: 10.05
 absolute_magnitude: 3.78

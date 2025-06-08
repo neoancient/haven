@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4622 Noniashad is a star in the constellation Nonias
+      4622 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 577.61 ly
 apparent_magnitude: 10.80
 absolute_magnitude: 4.56

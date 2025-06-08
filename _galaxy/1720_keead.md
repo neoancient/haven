@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1720 Keead is a star in the constellation Kee
+      1720 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 488.39 ly
 apparent_magnitude: 7.65
 absolute_magnitude: 1.77

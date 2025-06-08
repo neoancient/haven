@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      87360 Dialkeshiad is a star in the constellation Dialkes
+      87360 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 458.36 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 5.32

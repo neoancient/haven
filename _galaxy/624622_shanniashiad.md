@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      624622 Shanniashiad is a star in the constellation Shannias
+      624622 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 329.05 ly
 apparent_magnitude: 10.69
 absolute_magnitude: 5.67

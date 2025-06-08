@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Dialkeshiad is a star in the constellation Dialkes
+      τ Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 162.35 ly
 apparent_magnitude: 4.89
 absolute_magnitude: 1.40
@@ -31,14 +31,14 @@ planets:
     radius: 34,280.3 km<br/>(5.381 Yrths)
     surface_area: 1.477 × 10<sup>10</sup> km<sup>2</sup><br/>(28.952 Yrths)
     volume: 1.687 × 10<sup>14</sup> km<sup>3</sup><br/>(155.780 Yrths)
-    mass: 2.694 × 10<sup>26</sup> kg<br />(45.10283475999775 Yrths)
+    mass: 2.694 × 10<sup>26</sup> kg<br />(45.10 Yrths)
     density: 1.596 g/cm<sup>3</sup>
     surface_gravity: 15.277 m/s<sup>2</sup><br />(1.558 g<sub>0</sub>)
     escape_velocity: 32.386 km/s<br />(116,590 km/h)
     rotation_period: 0.431 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 612 K<br />(339 °C)
+    temperature: 557 K<br />(284 °C)
     composition:
       - 50.8031% hydrogen
       - 45.7133% helium
@@ -57,14 +57,14 @@ planets:
         radius: 26,840.2 km<br/>(4.213 Yrths)
         surface_area: 9.053 × 10<sup>09</sup> km<sup>2</sup><br/>(17.748 Yrths)
         volume: 8.099 × 10<sup>13</sup> km<sup>3</sup><br/>(74.771 Yrths)
-        mass: 1.202 × 10<sup>26</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 1.202 × 10<sup>26</sup> kg<br />(20.131 Yrths)
         density: 1.484 g/cm<sup>3</sup>
         surface_gravity: 11.123 m/s<sup>2</sup><br />(1.134 g<sub>0</sub>)
         escape_velocity: 24.452 km/s<br />(88,028 km/h)
         rotation_period: 60.383 d
         axial_tilt: 19.47°
         albedo: 0.30
-        temperature: 2579 K<br />(2306 °C)
+        temperature: 304 K<br />(31 °C)
       - name: τ Dialkeshiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 20,339.4 km<br/>(3.192 Yrths)
         surface_area: 5.199 × 10<sup>09</sup> km<sup>2</sup><br/>(10.192 Yrths)
         volume: 3.525 × 10<sup>13</sup> km<sup>3</sup><br/>(32.538 Yrths)
-        mass: 6.560 × 10<sup>25</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 6.560 × 10<sup>25</sup> kg<br />(10.985 Yrths)
         density: 1.861 g/cm<sup>3</sup>
         surface_gravity: 10.569 m/s<sup>2</sup><br />(1.078 g<sub>0</sub>)
         escape_velocity: 20.749 km/s<br />(74,697 km/h)
         rotation_period: 39.033 d
         axial_tilt: 13.00°
         albedo: 0.30
-        temperature: 2459 K<br />(2186 °C)
+        temperature: 304 K<br />(31 °C)
       - name: τ Dialkeshiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 21,098.2 km<br/>(3.312 Yrths)
         surface_area: 5.594 × 10<sup>09</sup> km<sup>2</sup><br/>(10.967 Yrths)
         volume: 3.934 × 10<sup>13</sup> km<sup>3</sup><br/>(36.317 Yrths)
-        mass: 8.264 × 10<sup>25</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 8.264 × 10<sup>25</sup> kg<br />(13.838 Yrths)
         density: 2.101 g/cm<sup>3</sup>
         surface_gravity: 12.374 m/s<sup>2</sup><br />(1.262 g<sub>0</sub>)
         escape_velocity: 22.866 km/s<br />(82,319 km/h)
         rotation_period: 42.274 d
         axial_tilt: 21.20°
         albedo: 0.30
-        temperature: 2344 K<br />(2071 °C)
+        temperature: 304 K<br />(31 °C)
       - name: τ Dialkeshiad I d
         type: Dwarf planet
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 23,796.9 km<br/>(3.735 Yrths)
         surface_area: 7.116 × 10<sup>09</sup> km<sup>2</sup><br/>(13.952 Yrths)
         volume: 5.645 × 10<sup>13</sup> km<sup>3</sup><br/>(52.112 Yrths)
-        mass: 1.171 × 10<sup>26</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 1.171 × 10<sup>26</sup> kg<br />(19.605 Yrths)
         density: 2.074 g/cm<sup>3</sup>
         surface_gravity: 13.781 m/s<sup>2</sup><br />(1.405 g<sub>0</sub>)
         escape_velocity: 25.627 km/s<br />(92,259 km/h)
         rotation_period: 37.225 d
         axial_tilt: 17.88°
         albedo: 0.30
-        temperature: 2235 K<br />(1962 °C)
+        temperature: 304 K<br />(31 °C)
       - name: τ Dialkeshiad I e
         type: Icy
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 24,865.6 km<br/>(3.903 Yrths)
         surface_area: 7.770 × 10<sup>09</sup> km<sup>2</sup><br/>(15.233 Yrths)
         volume: 6.440 × 10<sup>13</sup> km<sup>3</sup><br/>(59.453 Yrths)
-        mass: 6.788 × 10<sup>25</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 6.788 × 10<sup>25</sup> kg<br />(11.367 Yrths)
         density: 1.054 g/cm<sup>3</sup>
         surface_gravity: 7.318 m/s<sup>2</sup><br />(0.746 g<sub>0</sub>)
         escape_velocity: 19.090 km/s<br />(68,722 km/h)
         rotation_period: 49.050 d
         axial_tilt: 14.19°
         albedo: 0.30
-        temperature: 2131 K<br />(1858 °C)
+        temperature: 304 K<br />(31 °C)
       - name: τ Dialkeshiad I f
         type: Icy
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 42,453.3 km<br/>(6.664 Yrths)
         surface_area: 2.265 × 10<sup>10</sup> km<sup>2</sup><br/>(44.403 Yrths)
         volume: 3.205 × 10<sup>14</sup> km<sup>3</sup><br/>(295.878 Yrths)
-        mass: 3.899 × 10<sup>26</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 3.899 × 10<sup>26</sup> kg<br />(65.289 Yrths)
         density: 1.217 g/cm<sup>3</sup>
         surface_gravity: 14.420 m/s<sup>2</sup><br />(1.470 g<sub>0</sub>)
         escape_velocity: 35.014 km/s<br />(126,050 km/h)
         rotation_period: 47.105 d
         axial_tilt: 17.07°
         albedo: 0.30
-        temperature: 2032 K<br />(1759 °C)
+        temperature: 304 K<br />(31 °C)
       - name: τ Dialkeshiad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 40,567.0 km<br/>(6.367 Yrths)
         surface_area: 2.068 × 10<sup>10</sup> km<sup>2</sup><br/>(40.544 Yrths)
         volume: 2.796 × 10<sup>14</sup> km<sup>3</sup><br/>(258.163 Yrths)
-        mass: 6.802 × 10<sup>26</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 6.802 × 10<sup>26</sup> kg<br />(113.892 Yrths)
         density: 2.432 g/cm<sup>3</sup>
         surface_gravity: 27.548 m/s<sup>2</sup><br />(2.809 g<sub>0</sub>)
         escape_velocity: 47.308 km/s<br />(170,310 km/h)
         rotation_period: 51.992 d
         axial_tilt: 17.63°
         albedo: 0.30
-        temperature: 1847 K<br />(1574 °C)
+        temperature: 304 K<br />(31 °C)
       - name: τ Dialkeshiad I h
         type: Asteroid
         formationType: Captured
@@ -197,14 +197,14 @@ planets:
         radius: 35,052.9 km<br/>(5.502 Yrths)
         surface_area: 1.544 × 10<sup>10</sup> km<sup>2</sup><br/>(30.271 Yrths)
         volume: 1.804 × 10<sup>14</sup> km<sup>3</sup><br/>(166.552 Yrths)
-        mass: 3.961 × 10<sup>26</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 3.961 × 10<sup>26</sup> kg<br />(66.332 Yrths)
         density: 2.196 g/cm<sup>3</sup>
         surface_gravity: 21.489 m/s<sup>2</sup><br />(2.191 g<sub>0</sub>)
         escape_velocity: 38.840 km/s<br />(139,823 km/h)
         rotation_period: 35.300 d
         axial_tilt: 33.12°
         albedo: 0.30
-        temperature: 1761 K<br />(1488 °C)
+        temperature: 304 K<br />(31 °C)
       - name: τ Dialkeshiad I i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -217,14 +217,14 @@ planets:
         radius: 25,878.0 km<br/>(4.062 Yrths)
         surface_area: 8.415 × 10<sup>09</sup> km<sup>2</sup><br/>(16.499 Yrths)
         volume: 7.259 × 10<sup>13</sup> km<sup>3</sup><br/>(67.014 Yrths)
-        mass: 1.461 × 10<sup>26</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 1.461 × 10<sup>26</sup> kg<br />(24.460 Yrths)
         density: 2.012 g/cm<sup>3</sup>
         surface_gravity: 14.539 m/s<sup>2</sup><br />(1.483 g<sub>0</sub>)
         escape_velocity: 27.450 km/s<br />(98,819 km/h)
         rotation_period: 42.989 d
         axial_tilt: 7.65°
         albedo: 0.30
-        temperature: 1679 K<br />(1406 °C)
+        temperature: 304 K<br />(31 °C)
       - name: τ Dialkeshiad I j
         type: Ice/rock hybrid
         formationType: Captured
@@ -237,14 +237,14 @@ planets:
         radius: 34,617.3 km<br/>(5.434 Yrths)
         surface_area: 1.506 × 10<sup>10</sup> km<sup>2</sup><br/>(29.524 Yrths)
         volume: 1.738 × 10<sup>14</sup> km<sup>3</sup><br/>(160.419 Yrths)
-        mass: 3.652 × 10<sup>26</sup> kg<br />(45.10283475999775 Yrths)
+        mass: 3.652 × 10<sup>26</sup> kg<br />(61.158 Yrths)
         density: 2.102 g/cm<sup>3</sup>
         surface_gravity: 20.315 m/s<sup>2</sup><br />(2.072 g<sub>0</sub>)
         escape_velocity: 37.528 km/s<br />(135,102 km/h)
         rotation_period: 63.795 d
         axial_tilt: 17.28°
         albedo: 0.30
-        temperature: 1527 K<br />(1254 °C)
+        temperature: 304 K<br />(31 °C)
   - name: τ Dialkeshiad II
     type: Terrestrial
     aphelion: 1,103,403,481 km<br />7.376 AU
@@ -256,7 +256,7 @@ planets:
     radius: 8,201.5 km<br/>(1.287 Yrths)
     surface_area: 8.453 × 10<sup>08</sup> km<sup>2</sup><br/>(1.657 Yrths)
     volume: 2.311 × 10<sup>12</sup> km<sup>3</sup><br/>(2.133 Yrths)
-    mass: 1.211 × 10<sup>25</sup> kg<br />(2.0269800991335045 Yrths)
+    mass: 1.211 × 10<sup>25</sup> kg<br />(2.03 Yrths)
     density: 5.238 g/cm<sup>3</sup>
     surface_gravity: 11.995 m/s<sup>2</sup><br />(1.223 g<sub>0</sub>)
     escape_velocity: 14.036 km/s<br />(50,531 km/h)
@@ -277,14 +277,14 @@ planets:
         radius: 522.6 km<br/>(0.082 Yrths)
         surface_area: 3.432 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 5.978 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.435 × 10<sup>21</sup> kg<br />(2.0269800991335045 Yrths)
+        mass: 1.435 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 0.350 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.605 km/s<br />(2,179 km/h)
         rotation_period: 34.754 d
         axial_tilt: 5.75°
         albedo: 0.30
-        temperature: 3019 K<br />(2746 °C)
+        temperature: 213 K<br />(-61 °C)
       - name: τ Dialkeshiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -297,14 +297,14 @@ planets:
         radius: 5,471.7 km<br/>(0.859 Yrths)
         surface_area: 3.762 × 10<sup>08</sup> km<sup>2</sup><br/>(0.738 Yrths)
         volume: 6.862 × 10<sup>11</sup> km<sup>3</sup><br/>(0.634 Yrths)
-        mass: 1.367 × 10<sup>24</sup> kg<br />(2.0269800991335045 Yrths)
+        mass: 1.367 × 10<sup>24</sup> kg<br />(0.229 Yrths)
         density: 1.992 g/cm<sup>3</sup>
         surface_gravity: 3.042 m/s<sup>2</sup><br />(0.310 g<sub>0</sub>)
         escape_velocity: 5.774 km/s<br />(20,787 km/h)
         rotation_period: 38.906 d
         axial_tilt: 26.06°
         albedo: 0.30
-        temperature: 2879 K<br />(2605 °C)
+        temperature: 213 K<br />(-61 °C)
   - name: τ Dialkeshiad III
     type: Gas giant
     aphelion: 2,396,672,441 km<br />16.021 AU
@@ -316,7 +316,7 @@ planets:
     radius: 249.7 km<br/>(0.039 Yrths)
     surface_area: 7.833 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.519 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.632 × 10<sup>27</sup> kg<br />(440.73223965681206 Yrths)
+    mass: 2.632 × 10<sup>27</sup> kg<br />(440.73 Yrths)
     density: 40378143.695 g/cm<sup>3</sup>
     surface_gravity: 2814519.523 m/s<sup>2</sup><br />(287001.119 g<sub>0</sub>)
     escape_velocity: 1186.284 km/s<br />(4,270,621 km/h)
@@ -337,14 +337,14 @@ planets:
         radius: 186,000.2 km<br/>(29.195 Yrths)
         surface_area: 4.347 × 10<sup>11</sup> km<sup>2</sup><br/>(852.337 Yrths)
         volume: 2.695 × 10<sup>16</sup> km<sup>3</sup><br/>(24883.829 Yrths)
-        mass: 4.291 × 10<sup>28</sup> kg<br />(440.73223965681206 Yrths)
+        mass: 4.291 × 10<sup>28</sup> kg<br />(7185.052 Yrths)
         density: 1.592 g/cm<sup>3</sup>
         surface_gravity: 82.668 m/s<sup>2</sup><br />(8.430 g<sub>0</sub>)
         escape_velocity: 175.483 km/s<br />(631,740 km/h)
         rotation_period: 65.061 d
         axial_tilt: 13.19°
         albedo: 0.30
-        temperature: 860 K<br />(586 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: τ Dialkeshiad III b
         type: Icy
         formationType: Accreted
@@ -357,14 +357,14 @@ planets:
         radius: 402,742.8 km<br/>(63.215 Yrths)
         surface_area: 2.038 × 10<sup>12</sup> km<sup>2</sup><br/>(3996.137 Yrths)
         volume: 2.736 × 10<sup>17</sup> km<sup>3</sup><br/>(252615.805 Yrths)
-        mass: 3.686 × 10<sup>29</sup> kg<br />(440.73223965681206 Yrths)
+        mass: 3.686 × 10<sup>29</sup> kg<br />(61727.429 Yrths)
         density: 1.347 g/cm<sup>3</sup>
         surface_gravity: 151.481 m/s<sup>2</sup><br />(15.447 g<sub>0</sub>)
         escape_velocity: 349.545 km/s<br />(1,258,362 km/h)
         rotation_period: 51.333 d
         axial_tilt: 6.80°
         albedo: 0.30
-        temperature: 820 K<br />(546 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: τ Dialkeshiad III c
         type: Icy
         formationType: Impact formed
@@ -377,14 +377,14 @@ planets:
         radius: 345,006.0 km<br/>(54.153 Yrths)
         surface_area: 1.496 × 10<sup>12</sup> km<sup>2</sup><br/>(2932.500 Yrths)
         volume: 1.720 × 10<sup>17</sup> km<sup>3</sup><br/>(158802.419 Yrths)
-        mass: 2.329 × 10<sup>29</sup> kg<br />(440.73223965681206 Yrths)
+        mass: 2.329 × 10<sup>29</sup> kg<br />(38995.566 Yrths)
         density: 1.354 g/cm<sup>3</sup>
         surface_gravity: 130.406 m/s<sup>2</sup><br />(13.298 g<sub>0</sub>)
         escape_velocity: 300.173 km/s<br />(1,080,624 km/h)
         rotation_period: 62.015 d
         axial_tilt: 29.02°
         albedo: 0.30
-        temperature: 781 K<br />(508 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: τ Dialkeshiad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -397,14 +397,14 @@ planets:
         radius: 244,829.4 km<br/>(38.429 Yrths)
         surface_area: 7.532 × 10<sup>11</sup> km<sup>2</sup><br/>(1476.767 Yrths)
         volume: 6.147 × 10<sup>16</sup> km<sup>3</sup><br/>(56750.263 Yrths)
-        mass: 1.721 × 10<sup>29</sup> kg<br />(440.73223965681206 Yrths)
+        mass: 1.721 × 10<sup>29</sup> kg<br />(28821.563 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 191.393 m/s<sup>2</sup><br />(19.517 g<sub>0</sub>)
         escape_velocity: 306.341 km/s<br />(1,102,827 km/h)
         rotation_period: 33.378 d
         axial_tilt: 27.52°
         albedo: 0.30
-        temperature: 745 K<br />(472 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: τ Dialkeshiad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -417,14 +417,14 @@ planets:
         radius: 387,309.5 km<br/>(60.793 Yrths)
         surface_area: 1.885 × 10<sup>12</sup> km<sup>2</sup><br/>(3695.737 Yrths)
         volume: 2.434 × 10<sup>17</sup> km<sup>3</sup><br/>(224673.397 Yrths)
-        mass: 6.226 × 10<sup>29</sup> kg<br />(440.73223965681206 Yrths)
+        mass: 6.226 × 10<sup>29</sup> kg<br />(104255.382 Yrths)
         density: 2.558 g/cm<sup>3</sup>
         surface_gravity: 276.642 m/s<sup>2</sup><br />(28.210 g<sub>0</sub>)
         escape_velocity: 463.231 km/s<br />(1,667,633 km/h)
         rotation_period: 49.241 d
         axial_tilt: 27.85°
         albedo: 0.30
-        temperature: 710 K<br />(437 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: τ Dialkeshiad III f
         type: Asteroid
         formationType: Captured
@@ -437,14 +437,14 @@ planets:
         radius: 237,480.8 km<br/>(37.275 Yrths)
         surface_area: 7.087 × 10<sup>11</sup> km<sup>2</sup><br/>(1389.446 Yrths)
         volume: 5.610 × 10<sup>16</sup> km<sup>3</sup><br/>(51791.993 Yrths)
-        mass: 1.433 × 10<sup>29</sup> kg<br />(440.73223965681206 Yrths)
+        mass: 1.433 × 10<sup>29</sup> kg<br />(23991.030 Yrths)
         density: 2.554 g/cm<sup>3</sup>
         surface_gravity: 169.328 m/s<sup>2</sup><br />(17.267 g<sub>0</sub>)
         escape_velocity: 283.784 km/s<br />(1,021,623 km/h)
         rotation_period: 36.914 d
         axial_tilt: 39.70°
         albedo: 0.30
-        temperature: 677 K<br />(404 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: τ Dialkeshiad III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -457,12 +457,12 @@ planets:
         radius: 383,797.8 km<br/>(60.241 Yrths)
         surface_area: 1.851 × 10<sup>12</sup> km<sup>2</sup><br/>(3629.024 Yrths)
         volume: 2.368 × 10<sup>17</sup> km<sup>3</sup><br/>(218617.419 Yrths)
-        mass: 5.223 × 10<sup>29</sup> kg<br />(440.73223965681206 Yrths)
+        mass: 5.223 × 10<sup>29</sup> kg<br />(87454.021 Yrths)
         density: 2.205 g/cm<sup>3</sup>
         surface_gravity: 236.326 m/s<sup>2</sup><br />(24.098 g<sub>0</sub>)
         escape_velocity: 426.203 km/s<br />(1,534,330 km/h)
         rotation_period: 39.152 d
         axial_tilt: 23.37°
         albedo: 0.30
-        temperature: 616 K<br />(343 °C)
+        temperature: 148 K<br />(-125 °C)
 ---

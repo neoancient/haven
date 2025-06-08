@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      658 Noniashad A is a star in the constellation Nonias
+      658 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 814.30 ly
 apparent_magnitude: 6.79
 absolute_magnitude: -0.19

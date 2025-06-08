@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9613 Dialkeshiad A is a star in the constellation Dialkes
+      9613 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1073.38 ly
 apparent_magnitude: 6.70
 absolute_magnitude: -0.89

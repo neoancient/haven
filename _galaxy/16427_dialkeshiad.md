@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16427 Dialkeshiad is a star in the constellation Dialkes
+      16427 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 586.25 ly
 apparent_magnitude: 11.45
 absolute_magnitude: 5.18

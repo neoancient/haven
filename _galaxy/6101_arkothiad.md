@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6101 Arkothiad is a star in the constellation Arkoth
+      6101 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 510.94 ly
 apparent_magnitude: 8.87
 absolute_magnitude: 2.90
@@ -31,14 +31,14 @@ planets:
     radius: 2,840.7 km<br/>(0.446 Yrths)
     surface_area: 1.014 × 10<sup>08</sup> km<sup>2</sup><br/>(0.199 Yrths)
     volume: 9.602 × 10<sup>10</sup> km<sup>3</sup><br/>(0.089 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.219 g/cm<sup>3</sup>
     surface_gravity: 4.933 m/s<sup>2</sup><br />(0.503 g<sub>0</sub>)
     escape_velocity: 5.297 km/s<br />(19,071 km/h)
     rotation_period: 1.691 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 456 K<br />(183 °C)
+    temperature: 454 K<br />(181 °C)
     surface_pressure: 164 kPa<br />(2 atm)
     composition:
       - 94.9436% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 747.6 km<br/>(0.117 Yrths)
         surface_area: 7.023 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.750 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.275 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.275 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 0.271 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.637 km/s<br />(2,294 km/h)
         rotation_period: 80.583 d
         axial_tilt: 56.23°
         albedo: 0.30
-        temperature: 8297 K<br />(8023 °C)
+        temperature: 366 K<br />(93 °C)
       - name: 6101 Arkothiad I b
         type: Rocky
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 505.6 km<br/>(0.079 Yrths)
         surface_area: 3.212 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.412 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.624 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.624 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.001 g/cm<sup>3</sup>
         surface_gravity: 0.424 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.655 km/s<br />(2,357 km/h)
         rotation_period: 32.107 d
         axial_tilt: 16.64°
         albedo: 0.30
-        temperature: 7911 K<br />(7637 °C)
+        temperature: 366 K<br />(93 °C)
       - name: 6101 Arkothiad I c
         type: Asteroid
         formationType: Captured
@@ -96,12 +96,12 @@ planets:
         radius: 107.3 km<br/>(0.017 Yrths)
         surface_area: 1.446 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
         volume: 5.170 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.524 × 10<sup>19</sup> kg<br />(0.1 Yrths)
+        mass: 1.524 × 10<sup>19</sup> kg<br />(0.000 Yrths)
         density: 2.948 g/cm<sup>3</sup>
         surface_gravity: 0.088 m/s<sup>2</sup><br />(0.009 g<sub>0</sub>)
         escape_velocity: 0.138 km/s<br />(496 km/h)
         rotation_period: 44.072 d
         axial_tilt: 40.39°
         albedo: 0.30
-        temperature: 7542 K<br />(7269 °C)
+        temperature: 366 K<br />(93 °C)
 ---

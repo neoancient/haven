@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      659 Shanniashiad is a star in the constellation Shannias
+      659 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1020.48 ly
 apparent_magnitude: 13.03
 absolute_magnitude: 5.55

@@ -7,7 +7,7 @@ sections:
   - content: >-
       Nurranpug is a constellation representing a Whirlpool.
 stars:
-  - name:
+  - name: <a href="darni.html">Darni</a>
     designation: γ Nurranpugiad
     ra: 12<sup>h</sup> 47<sup>m</sup> 44.97<sup>s</sup>
     dec: 48° 25' 14.06"
@@ -15,7 +15,7 @@ stars:
     absolute_magnitude: -2.21
     distance: 310.23
     spectral_class: B8IV + M8III + M6III
-  - name:
+  - name: <a href="necrapios.html">Necrapios</a>
     designation: α Nurranpugiad
     ra: 13<sup>h</sup> 20<sup>m</sup> 12.65<sup>s</sup>
     dec: 57° 20' 14.72"
@@ -23,7 +23,7 @@ stars:
     absolute_magnitude: -1.68
     distance: 267.47
     spectral_class: B7V + M8III
-  - name:
+  - name: <a href="lyeth.html">Lyeth</a>
     designation: β Nurranpugiad
     ra: 12<sup>h</sup> 09<sup>m</sup> 58.12<sup>s</sup>
     dec: 61° 32' 12.37"
@@ -32,7 +32,7 @@ stars:
     distance: 429.89
     spectral_class: A1III + M9III
   - name:
-    designation: 26 Nurranpugiad
+    designation: <a href="26_nurranpugiad.html">26 Nurranpugiad</a>
     ra: 12<sup>h</sup> 33<sup>m</sup> 42.60<sup>s</sup>
     dec: 39° 21' 3.03"
     apparent_magnitude: 4.47
@@ -112,7 +112,7 @@ stars:
     distance: 870.09
     spectral_class: B7V + K1III
   - name:
-    designation: 29 Nurranpugiad
+    designation: <a href="29_nurranpugiad.html">29 Nurranpugiad</a>
     ra: 12<sup>h</sup> 27<sup>m</sup> 18.07<sup>s</sup>
     dec: 44° 22' 2.17"
     apparent_magnitude: 4.94
@@ -128,7 +128,7 @@ stars:
     distance: 159.76
     spectral_class: A9V
   - name:
-    designation: 17 Nurranpugiad
+    designation: <a href="17_nurranpugiad.html">17 Nurranpugiad</a>
     ra: 12<sup>h</sup> 16<sup>m</sup> 22.17<sup>s</sup>
     dec: 34° 23' 44.49"
     apparent_magnitude: 4.99
@@ -136,7 +136,7 @@ stars:
     distance: 63.51
     spectral_class: G8V
   - name:
-    designation: 0002 Nurranpugiad
+    designation: <a href="0002_nurranpugiad.html">0002 Nurranpugiad</a>
     ra: 13<sup>h</sup> 25<sup>m</sup> 16.17<sup>s</sup>
     dec: 54° 17' 7.21"
     apparent_magnitude: 4.99
@@ -200,7 +200,7 @@ stars:
     distance: 148.98
     spectral_class: K5V + F4V
   - name:
-    designation: υ Nurranpugiad
+    designation: <a href="υ_nurranpugiad.html">υ Nurranpugiad</a>
     ra: 13<sup>h</sup> 09<sup>m</sup> 57.92<sup>s</sup>
     dec: 44° 16' 18.89"
     apparent_magnitude: 5.12
@@ -248,7 +248,7 @@ stars:
     distance: 2,083.09
     spectral_class: B2V + B6V
   - name:
-    designation: 9 Nurranpugiad
+    designation: <a href="9_nurranpugiad.html">9 Nurranpugiad</a>
     ra: 12<sup>h</sup> 27<sup>m</sup> 34.86<sup>s</sup>
     dec: 45° 12' 37.59"
     apparent_magnitude: 5.27
@@ -272,7 +272,7 @@ stars:
     distance: 1,940.98
     spectral_class: B4V + A0III
   - name:
-    designation: 10 Nurranpugiad
+    designation: <a href="10_nurranpugiad.html">10 Nurranpugiad</a>
     ra: 12<sup>h</sup> 36<sup>m</sup> 22.91<sup>s</sup>
     dec: 38° 42' 43.92"
     apparent_magnitude: 5.28
@@ -288,7 +288,7 @@ stars:
     distance: 130.14
     spectral_class: G8III
   - name:
-    designation: τ Nurranpugiad
+    designation: <a href="τ_nurranpugiad.html">τ Nurranpugiad</a>
     ra: 13<sup>h</sup> 18<sup>m</sup> 45.57<sup>s</sup>
     dec: 44° 45' 8.88"
     apparent_magnitude: 5.30
@@ -320,7 +320,7 @@ stars:
     distance: 402.76
     spectral_class: A2IV
   - name:
-    designation: 23 Nurranpugiad
+    designation: <a href="23_nurranpugiad.html">23 Nurranpugiad</a>
     ra: 12<sup>h</sup> 53<sup>m</sup> 17.92<sup>s</sup>
     dec: 38° 42' 48.98"
     apparent_magnitude: 5.35
@@ -344,7 +344,7 @@ stars:
     distance: 183.37
     spectral_class: A8V
   - name:
-    designation: 11 Nurranpugiad
+    designation: <a href="11_nurranpugiad.html">11 Nurranpugiad</a>
     ra: 12<sup>h</sup> 04<sup>m</sup> 43.17<sup>s</sup>
     dec: 41° 28' 54.90"
     apparent_magnitude: 5.39
@@ -384,7 +384,7 @@ stars:
     distance: 1,008.22
     spectral_class: B7V + M0III
   - name:
-    designation: 24 Nurranpugiad
+    designation: <a href="24_nurranpugiad.html">24 Nurranpugiad</a>
     ra: 12<sup>h</sup> 18<sup>m</sup> 24.23<sup>s</sup>
     dec: 60° 59' 55.55"
     apparent_magnitude: 5.43
@@ -400,7 +400,7 @@ stars:
     distance: 81.17
     spectral_class: A8V
   - name:
-    designation: 16 Nurranpugiad
+    designation: <a href="16_nurranpugiad.html">16 Nurranpugiad</a>
     ra: 12<sup>h</sup> 25<sup>m</sup> 32.56<sup>s</sup>
     dec: 42° 27' 45.46"
     apparent_magnitude: 5.47
@@ -488,7 +488,7 @@ stars:
     distance: 237.17
     spectral_class: F8III
   - name:
-    designation: 20 Nurranpugiad
+    designation: <a href="20_nurranpugiad.html">20 Nurranpugiad</a>
     ra: 12<sup>h</sup> 20<sup>m</sup> 26.87<sup>s</sup>
     dec: 37° 03' 52.28"
     apparent_magnitude: 5.63
@@ -680,7 +680,7 @@ stars:
     distance: 1,669.70
     spectral_class: B7V + M5III
   - name:
-    designation: 32 Nurranpugiad
+    designation: <a href="32_nurranpugiad.html">32 Nurranpugiad</a>
     ra: 12<sup>h</sup> 43<sup>m</sup> 47.06<sup>s</sup>
     dec: 33° 55' 41.83"
     apparent_magnitude: 6.00
@@ -720,7 +720,7 @@ stars:
     distance: 867.33
     spectral_class: A3III + DA
   - name:
-    designation: 27 Nurranpugiad
+    designation: <a href="27_nurranpugiad.html">27 Nurranpugiad</a>
     ra: 12<sup>h</sup> 59<sup>m</sup> 38.60<sup>s</sup>
     dec: 34° 03' 48.11"
     apparent_magnitude: 6.04
@@ -728,7 +728,7 @@ stars:
     distance: 343.36
     spectral_class: A9III
   - name:
-    designation: 0035 Nurranpugiad
+    designation: <a href="0035_nurranpugiad.html">0035 Nurranpugiad</a>
     ra: 12<sup>h</sup> 24<sup>m</sup> 3.32<sup>s</sup>
     dec: 44° 15' 3.75"
     apparent_magnitude: 6.05
@@ -816,7 +816,7 @@ stars:
     distance: 720.21
     spectral_class: A6III + DA + M4III + K5III
   - name:
-    designation: 0067 Nurranpugiad
+    designation: <a href="0067_nurranpugiad.html">0067 Nurranpugiad</a>
     ra: 12<sup>h</sup> 58<sup>m</sup> 1.22<sup>s</sup>
     dec: 55° 37' 8.91"
     apparent_magnitude: 6.12
@@ -824,7 +824,7 @@ stars:
     distance: 150.50
     spectral_class: A6V + G6V + G4V
   - name:
-    designation: 0073 Nurranpugiad
+    designation: <a href="0073_nurranpugiad.html">0073 Nurranpugiad</a>
     ra: 13<sup>h</sup> 15<sup>m</sup> 6.65<sup>s</sup>
     dec: 57° 53' 39.97"
     apparent_magnitude: 6.12
@@ -928,7 +928,7 @@ stars:
     distance: 327.88
     spectral_class: A6IV
   - name:
-    designation: 0013 Nurranpugiad
+    designation: <a href="0013_nurranpugiad.html">0013 Nurranpugiad</a>
     ra: 12<sup>h</sup> 33<sup>m</sup> 54.08<sup>s</sup>
     dec: 33° 51' 28.40"
     apparent_magnitude: 6.24
@@ -976,7 +976,7 @@ stars:
     distance: 305.36
     spectral_class: A8IV
   - name:
-    designation: 0065 Nurranpugiad
+    designation: <a href="0065_nurranpugiad.html">0065 Nurranpugiad</a>
     ra: 13<sup>h</sup> 17<sup>m</sup> 52.20<sup>s</sup>
     dec: 57° 35' 17.88"
     apparent_magnitude: 6.29
@@ -1088,7 +1088,7 @@ stars:
     distance: 800.32
     spectral_class: A1IV + K7III
   - name:
-    designation: 43 Nurranpugiad
+    designation: <a href="43_nurranpugiad.html">43 Nurranpugiad</a>
     ra: 12<sup>h</sup> 17<sup>m</sup> 13.41<sup>s</sup>
     dec: 32° 18' 14.56"
     apparent_magnitude: 6.38
@@ -1096,7 +1096,7 @@ stars:
     distance: 168.97
     spectral_class: K3V
   - name:
-    designation: 0043 Nurranpugiad
+    designation: <a href="0043_nurranpugiad.html">0043 Nurranpugiad</a>
     ra: 12<sup>h</sup> 12<sup>m</sup> 35.88<sup>s</sup>
     dec: 49° 08' 7.88"
     apparent_magnitude: 6.38
@@ -1192,7 +1192,7 @@ stars:
     distance: 718.50
     spectral_class: A1IV
   - name:
-    designation: 0046 Nurranpugiad
+    designation: <a href="0046_nurranpugiad.html">0046 Nurranpugiad</a>
     ra: 12<sup>h</sup> 28<sup>m</sup> 0.54<sup>s</sup>
     dec: 45° 54' 40.09"
     apparent_magnitude: 6.49
@@ -1224,7 +1224,7 @@ stars:
     distance: 418.67
     spectral_class: A8III
   - name:
-    designation: 57 Nurranpugiad
+    designation: <a href="57_nurranpugiad.html">57 Nurranpugiad</a>
     ra: 12<sup>h</sup> 24<sup>m</sup> 57.67<sup>s</sup>
     dec: 31° 53' 24.89"
     apparent_magnitude: 6.53
@@ -1256,7 +1256,7 @@ stars:
     distance: 533.84
     spectral_class: A4IV
   - name:
-    designation: 60 Nurranpugiad
+    designation: <a href="60_nurranpugiad.html">60 Nurranpugiad</a>
     ra: 13<sup>h</sup> 24<sup>m</sup> 38.47<sup>s</sup>
     dec: 49° 48' 49.95"
     apparent_magnitude: 6.62
@@ -1288,7 +1288,7 @@ stars:
     distance: 795.47
     spectral_class: F5V + F8III + A2IV
   - name:
-    designation: 76 Nurranpugiad
+    designation: <a href="76_nurranpugiad.html">76 Nurranpugiad</a>
     ra: 12<sup>h</sup> 12<sup>m</sup> 7.72<sup>s</sup>
     dec: 33° 31' 32.74"
     apparent_magnitude: 6.66
@@ -1296,7 +1296,7 @@ stars:
     distance: 245.67
     spectral_class: G5V
   - name:
-    designation: 70 Nurranpugiad
+    designation: <a href="70_nurranpugiad.html">70 Nurranpugiad</a>
     ra: 13<sup>h</sup> 28<sup>m</sup> 2.46<sup>s</sup>
     dec: 52° 28' 48.51"
     apparent_magnitude: 6.66
@@ -1320,7 +1320,7 @@ stars:
     distance: 610.16
     spectral_class: K4III + A8III
   - name:
-    designation: 66 Nurranpugiad
+    designation: <a href="66_nurranpugiad.html">66 Nurranpugiad</a>
     ra: 12<sup>h</sup> 56<sup>m</sup> 28.81<sup>s</sup>
     dec: 46° 04' 42.63"
     apparent_magnitude: 6.68
@@ -1328,7 +1328,7 @@ stars:
     distance: 948.01
     spectral_class: K8III + A2V + M4III + A4III
   - name:
-    designation: 67 Nurranpugiad
+    designation: <a href="67_nurranpugiad.html">67 Nurranpugiad</a>
     ra: 13<sup>h</sup> 09<sup>m</sup> 0.08<sup>s</sup>
     dec: 48° 32' 47.30"
     apparent_magnitude: 6.69
@@ -1336,7 +1336,7 @@ stars:
     distance: 888.39
     spectral_class: A6III
   - name:
-    designation: 68 Nurranpugiad
+    designation: <a href="68_nurranpugiad.html">68 Nurranpugiad</a>
     ra: 12<sup>h</sup> 16<sup>m</sup> 57.94<sup>s</sup>
     dec: 55° 50' 59.40"
     apparent_magnitude: 6.69
@@ -1352,7 +1352,7 @@ stars:
     distance: 124.81
     spectral_class: K6V + F4V
   - name:
-    designation: 86 Nurranpugiad
+    designation: <a href="86_nurranpugiad.html">86 Nurranpugiad</a>
     ra: 13<sup>h</sup> 23<sup>m</sup> 37.63<sup>s</sup>
     dec: 50° 19' 43.40"
     apparent_magnitude: 6.71
@@ -1416,7 +1416,7 @@ stars:
     distance: 2,967.08
     spectral_class: G1Ib
   - name:
-    designation: 100 Nurranpugiad
+    designation: <a href="100_nurranpugiad.html">100 Nurranpugiad</a>
     ra: 13<sup>h</sup> 19<sup>m</sup> 21.70<sup>s</sup>
     dec: 50° 14' 14.20"
     apparent_magnitude: 6.78
@@ -1448,7 +1448,7 @@ stars:
     distance: 1,348.53
     spectral_class: A2III
   - name:
-    designation: 84 Nurranpugiad
+    designation: <a href="84_nurranpugiad.html">84 Nurranpugiad</a>
     ra: 13<sup>h</sup> 07<sup>m</sup> 46.97<sup>s</sup>
     dec: 49° 13' 28.31"
     apparent_magnitude: 6.82
@@ -1480,7 +1480,7 @@ stars:
     distance: 836.56
     spectral_class: A4III
   - name:
-    designation: 82 Nurranpugiad
+    designation: <a href="82_nurranpugiad.html">82 Nurranpugiad</a>
     ra: 12<sup>h</sup> 44<sup>m</sup> 51.74<sup>s</sup>
     dec: 33° 15' 22.54"
     apparent_magnitude: 6.85
@@ -1560,7 +1560,7 @@ stars:
     distance: 875.57
     spectral_class: A0IV
   - name:
-    designation: 99 Nurranpugiad
+    designation: <a href="99_nurranpugiad.html">99 Nurranpugiad</a>
     ra: 13<sup>h</sup> 03<sup>m</sup> 21.55<sup>s</sup>
     dec: 48° 58' 27.79"
     apparent_magnitude: 6.92
@@ -1640,7 +1640,7 @@ stars:
     distance: 540.63
     spectral_class: F3III
   - name:
-    designation: 123 Nurranpugiad
+    designation: <a href="123_nurranpugiad.html">123 Nurranpugiad</a>
     ra: 12<sup>h</sup> 17<sup>m</sup> 33.89<sup>s</sup>
     dec: 34° 48' 52.40"
     apparent_magnitude: 7.00
@@ -1656,7 +1656,7 @@ stars:
     distance: 915.56
     spectral_class: A6III
   - name:
-    designation: 102 Nurranpugiad
+    designation: <a href="102_nurranpugiad.html">102 Nurranpugiad</a>
     ra: 12<sup>h</sup> 29<sup>m</sup> 31.20<sup>s</sup>
     dec: 40° 45' 16.10"
     apparent_magnitude: 7.00
@@ -1728,7 +1728,7 @@ stars:
     distance: 476.20
     spectral_class: A9V + F2III
   - name:
-    designation: 115 Nurranpugiad
+    designation: <a href="115_nurranpugiad.html">115 Nurranpugiad</a>
     ra: 12<sup>h</sup> 27<sup>m</sup> 59.45<sup>s</sup>
     dec: 37° 44' 51.03"
     apparent_magnitude: 7.09
@@ -1752,7 +1752,7 @@ stars:
     distance: 694.89
     spectral_class: A6III
   - name:
-    designation: 119 Nurranpugiad
+    designation: <a href="119_nurranpugiad.html">119 Nurranpugiad</a>
     ra: 12<sup>h</sup> 17<sup>m</sup> 47.26<sup>s</sup>
     dec: 44° 51' 52.40"
     apparent_magnitude: 7.11
@@ -1768,7 +1768,7 @@ stars:
     distance: 346.43
     spectral_class: G4V + A8V
   - name:
-    designation: 121 Nurranpugiad
+    designation: <a href="121_nurranpugiad.html">121 Nurranpugiad</a>
     ra: 12<sup>h</sup> 19<sup>m</sup> 14.73<sup>s</sup>
     dec: 38° 35' 37.01"
     apparent_magnitude: 7.13
@@ -1776,7 +1776,7 @@ stars:
     distance: 430.30
     spectral_class: A2V
   - name:
-    designation: 122 Nurranpugiad
+    designation: <a href="122_nurranpugiad.html">122 Nurranpugiad</a>
     ra: 12<sup>h</sup> 37<sup>m</sup> 12.82<sup>s</sup>
     dec: 35° 20' 37.97"
     apparent_magnitude: 7.13
@@ -1856,7 +1856,7 @@ stars:
     distance: 388.46
     spectral_class: G7V + A8V + A7V
   - name:
-    designation: 134 Nurranpugiad
+    designation: <a href="134_nurranpugiad.html">134 Nurranpugiad</a>
     ra: 12<sup>h</sup> 09<sup>m</sup> 2.82<sup>s</sup>
     dec: 43° 42' 29.51"
     apparent_magnitude: 7.20
@@ -1864,7 +1864,7 @@ stars:
     distance: 361.54
     spectral_class: A3V
   - name:
-    designation: 137 Nurranpugiad
+    designation: <a href="137_nurranpugiad.html">137 Nurranpugiad</a>
     ra: 12<sup>h</sup> 15<sup>m</sup> 25.17<sup>s</sup>
     dec: 37° 31' 28.41"
     apparent_magnitude: 7.22
@@ -1888,7 +1888,7 @@ stars:
     distance: 541.73
     spectral_class: F1III
   - name:
-    designation: 142 Nurranpugiad
+    designation: <a href="142_nurranpugiad.html">142 Nurranpugiad</a>
     ra: 12<sup>h</sup> 09<sup>m</sup> 32.24<sup>s</sup>
     dec: 36° 26' 41.52"
     apparent_magnitude: 7.24
@@ -1904,7 +1904,7 @@ stars:
     distance: 381.64
     spectral_class: K0III + A3V
   - name:
-    designation: 150 Nurranpugiad
+    designation: <a href="150_nurranpugiad.html">150 Nurranpugiad</a>
     ra: 12<sup>h</sup> 17<sup>m</sup> 52.96<sup>s</sup>
     dec: 33° 09' 5.63"
     apparent_magnitude: 7.28
@@ -1952,7 +1952,7 @@ stars:
     distance: 436.70
     spectral_class: F0III
   - name:
-    designation: 158 Nurranpugiad
+    designation: <a href="158_nurranpugiad.html">158 Nurranpugiad</a>
     ra: 12<sup>h</sup> 15<sup>m</sup> 10.05<sup>s</sup>
     dec: 32° 16' 18.76"
     apparent_magnitude: 7.32
@@ -1984,7 +1984,7 @@ stars:
     distance: 673.47
     spectral_class: A4IV
   - name:
-    designation: 165 Nurranpugiad
+    designation: <a href="165_nurranpugiad.html">165 Nurranpugiad</a>
     ra: 12<sup>h</sup> 36<sup>m</sup> 33.92<sup>s</sup>
     dec: 34° 51' 15.02"
     apparent_magnitude: 7.35
@@ -2016,7 +2016,7 @@ stars:
     distance: 369.08
     spectral_class: A3V
   - name:
-    designation: 177 Nurranpugiad
+    designation: <a href="177_nurranpugiad.html">177 Nurranpugiad</a>
     ra: 12<sup>h</sup> 04<sup>m</sup> 41.61<sup>s</sup>
     dec: 39° 31' 55.67"
     apparent_magnitude: 7.40
@@ -2024,7 +2024,7 @@ stars:
     distance: 566.36
     spectral_class: F2II
   - name:
-    designation: 180 Nurranpugiad
+    designation: <a href="180_nurranpugiad.html">180 Nurranpugiad</a>
     ra: 12<sup>h</sup> 29<sup>m</sup> 34.09<sup>s</sup>
     dec: 33° 33' 29.68"
     apparent_magnitude: 7.40
@@ -2080,7 +2080,7 @@ stars:
     distance: 726.32
     spectral_class: F4V + A7III
   - name:
-    designation: 198 Nurranpugiad
+    designation: <a href="198_nurranpugiad.html">198 Nurranpugiad</a>
     ra: 12<sup>h</sup> 01<sup>m</sup> 57.57<sup>s</sup>
     dec: 46° 07' 28.66"
     apparent_magnitude: 7.48
@@ -2112,7 +2112,7 @@ stars:
     distance: 1,155.49
     spectral_class: A4III
   - name:
-    designation: 202 Nurranpugiad
+    designation: <a href="202_nurranpugiad.html">202 Nurranpugiad</a>
     ra: 12<sup>h</sup> 31<sup>m</sup> 1.69<sup>s</sup>
     dec: 37° 31' 8.15"
     apparent_magnitude: 7.50
@@ -2120,7 +2120,7 @@ stars:
     distance: 446.39
     spectral_class: A2V
   - name:
-    designation: 203 Nurranpugiad
+    designation: <a href="203_nurranpugiad.html">203 Nurranpugiad</a>
     ra: 12<sup>h</sup> 28<sup>m</sup> 55.03<sup>s</sup>
     dec: 32° 32' 2.69"
     apparent_magnitude: 7.50
@@ -2160,7 +2160,7 @@ stars:
     distance: 324.04
     spectral_class: A6V
   - name:
-    designation: 209 Nurranpugiad
+    designation: <a href="209_nurranpugiad.html">209 Nurranpugiad</a>
     ra: 12<sup>h</sup> 33<sup>m</sup> 8.58<sup>s</sup>
     dec: 35° 33' 45.06"
     apparent_magnitude: 7.52
@@ -2208,7 +2208,7 @@ stars:
     distance: 1,164.89
     spectral_class: A4III
   - name:
-    designation: 226 Nurranpugiad
+    designation: <a href="226_nurranpugiad.html">226 Nurranpugiad</a>
     ra: 12<sup>h</sup> 03<sup>m</sup> 21.26<sup>s</sup>
     dec: 44° 48' 19.95"
     apparent_magnitude: 7.58
@@ -2232,7 +2232,7 @@ stars:
     distance: 480.84
     spectral_class: A8III
   - name:
-    designation: 238 Nurranpugiad
+    designation: <a href="238_nurranpugiad.html">238 Nurranpugiad</a>
     ra: 12<sup>h</sup> 14<sup>m</sup> 45.24<sup>s</sup>
     dec: 38° 40' 12.07"
     apparent_magnitude: 7.61
@@ -2280,7 +2280,7 @@ stars:
     distance: 1,221.29
     spectral_class: A4III
   - name:
-    designation: 281 Nurranpugiad
+    designation: <a href="281_nurranpugiad.html">281 Nurranpugiad</a>
     ra: 12<sup>h</sup> 36<sup>m</sup> 40.94<sup>s</sup>
     dec: 33° 09' 7.58"
     apparent_magnitude: 7.74
@@ -2328,7 +2328,7 @@ stars:
     distance: 440.34
     spectral_class: A3V
   - name:
-    designation: 316 Nurranpugiad
+    designation: <a href="316_nurranpugiad.html">316 Nurranpugiad</a>
     ra: 12<sup>h</sup> 04<sup>m</sup> 26.83<sup>s</sup>
     dec: 36° 14' 26.39"
     apparent_magnitude: 7.82
@@ -2344,7 +2344,7 @@ stars:
     distance: 650.53
     spectral_class: A8III
   - name:
-    designation: 360 Nurranpugiad
+    designation: <a href="360_nurranpugiad.html">360 Nurranpugiad</a>
     ra: 12<sup>h</sup> 14<sup>m</sup> 14.48<sup>s</sup>
     dec: 35° 41' 28.53"
     apparent_magnitude: 7.91
@@ -2360,7 +2360,7 @@ stars:
     distance: 497.14
     spectral_class: F3III
   - name:
-    designation: 372 Nurranpugiad
+    designation: <a href="372_nurranpugiad.html">372 Nurranpugiad</a>
     ra: 12<sup>h</sup> 08<sup>m</sup> 12.32<sup>s</sup>
     dec: 35° 16' 12.82"
     apparent_magnitude: 7.94
@@ -2376,7 +2376,7 @@ stars:
     distance: 483.20
     spectral_class: A2V
   - name:
-    designation: 386 Nurranpugiad
+    designation: <a href="386_nurranpugiad.html">386 Nurranpugiad</a>
     ra: 12<sup>h</sup> 23<sup>m</sup> 36.19<sup>s</sup>
     dec: 34° 42' 10.38"
     apparent_magnitude: 7.96
@@ -2400,7 +2400,7 @@ stars:
     distance: 628.88
     spectral_class: K9Ib
   - name:
-    designation: 397 Nurranpugiad
+    designation: <a href="397_nurranpugiad.html">397 Nurranpugiad</a>
     ra: 12<sup>h</sup> 26<sup>m</sup> 51.96<sup>s</sup>
     dec: 37° 37' 24.74"
     apparent_magnitude: 7.99
@@ -2424,7 +2424,7 @@ stars:
     distance: 546.95
     spectral_class: A6IV
   - name:
-    designation: 465 Nurranpugiad
+    designation: <a href="465_nurranpugiad.html">465 Nurranpugiad</a>
     ra: 12<sup>h</sup> 12<sup>m</sup> 44.18<sup>s</sup>
     dec: 36° 12' 29.70"
     apparent_magnitude: 8.10
@@ -2440,7 +2440,7 @@ stars:
     distance: 781.48
     spectral_class: A8III
   - name:
-    designation: 486 Nurranpugiad
+    designation: <a href="486_nurranpugiad.html">486 Nurranpugiad</a>
     ra: 12<sup>h</sup> 36<sup>m</sup> 53.80<sup>s</sup>
     dec: 32° 00' 48.80"
     apparent_magnitude: 8.13
@@ -2504,7 +2504,7 @@ stars:
     distance: 513.14
     spectral_class: G5V + A1V
   - name:
-    designation: 819 Nurranpugiad
+    designation: <a href="819_nurranpugiad.html">819 Nurranpugiad</a>
     ra: 12<sup>h</sup> 39<sup>m</sup> 53.64<sup>s</sup>
     dec: 31° 56' 52.69"
     apparent_magnitude: 8.51

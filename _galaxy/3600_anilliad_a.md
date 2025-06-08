@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3600 Anilliad A is a star in the constellation Anil
+      3600 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 344.25 ly
 apparent_magnitude: 9.66
 absolute_magnitude: 4.55

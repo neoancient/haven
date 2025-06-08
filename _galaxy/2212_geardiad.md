@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2212 Geardiad is a star in the constellation Geard
+      2212 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 279.68 ly
 apparent_magnitude: 12.86
 absolute_magnitude: 8.19
@@ -31,14 +31,14 @@ planets:
     radius: 14,444.4 km<br/>(2.267 Yrths)
     surface_area: 2.622 × 10<sup>09</sup> km<sup>2</sup><br/>(5.140 Yrths)
     volume: 1.262 × 10<sup>13</sup> km<sup>3</sup><br/>(11.654 Yrths)
-    mass: 4.831 × 10<sup>25</sup> kg<br />(8.089496542958482 Yrths)
+    mass: 4.831 × 10<sup>25</sup> kg<br />(8.09 Yrths)
     density: 3.827 g/cm<sup>3</sup>
     surface_gravity: 15.433 m/s<sup>2</sup><br />(1.574 g<sub>0</sub>)
     escape_velocity: 21.129 km/s<br />(76,066 km/h)
     rotation_period: 3.009 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 421 K<br />(148 °C)
+    temperature: 366 K<br />(93 °C)
     composition:
       - 84.1052% hydrogen
       - 14.4329% helium
@@ -56,14 +56,14 @@ planets:
         radius: 3,047.8 km<br/>(0.478 Yrths)
         surface_area: 1.167 × 10<sup>08</sup> km<sup>2</sup><br/>(0.229 Yrths)
         volume: 1.186 × 10<sup>11</sup> km<sup>3</sup><br/>(0.109 Yrths)
-        mass: 2.664 × 10<sup>23</sup> kg<br />(8.089496542958482 Yrths)
+        mass: 2.664 × 10<sup>23</sup> kg<br />(0.045 Yrths)
         density: 2.246 g/cm<sup>3</sup>
         surface_gravity: 1.911 m/s<sup>2</sup><br />(0.195 g<sub>0</sub>)
         escape_velocity: 3.416 km/s<br />(12,297 km/h)
         rotation_period: 39.384 d
         axial_tilt: 33.47°
         albedo: 0.30
-        temperature: 2936 K<br />(2663 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 2212 Geardiad I b
         type: Dwarf planet
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 14,332.2 km<br/>(2.250 Yrths)
         surface_area: 2.581 × 10<sup>09</sup> km<sup>2</sup><br/>(5.061 Yrths)
         volume: 1.233 × 10<sup>13</sup> km<sup>3</sup><br/>(11.384 Yrths)
-        mass: 2.303 × 10<sup>25</sup> kg<br />(8.089496542958482 Yrths)
+        mass: 2.303 × 10<sup>25</sup> kg<br />(3.856 Yrths)
         density: 1.867 g/cm<sup>3</sup>
         surface_gravity: 7.472 m/s<sup>2</sup><br />(0.762 g<sub>0</sub>)
         escape_velocity: 14.645 km/s<br />(52,723 km/h)
         rotation_period: 48.562 d
         axial_tilt: 47.49°
         albedo: 0.30
-        temperature: 2799 K<br />(2526 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 2212 Geardiad I c
         type: Rocky
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 4,679.7 km<br/>(0.735 Yrths)
         surface_area: 2.752 × 10<sup>08</sup> km<sup>2</sup><br/>(0.540 Yrths)
         volume: 4.293 × 10<sup>11</sup> km<sup>3</sup><br/>(0.396 Yrths)
-        mass: 1.545 × 10<sup>24</sup> kg<br />(8.089496542958482 Yrths)
+        mass: 1.545 × 10<sup>24</sup> kg<br />(0.259 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 4.704 m/s<sup>2</sup><br />(0.480 g<sub>0</sub>)
         escape_velocity: 6.639 km/s<br />(23,902 km/h)
         rotation_period: 39.083 d
         axial_tilt: 8.79°
         albedo: 0.30
-        temperature: 2669 K<br />(2396 °C)
+        temperature: 320 K<br />(47 °C)
   - name: 2212 Geardiad II
     type: Large terrestrial
     aphelion: 45,280,380 km<br />0.303 AU
@@ -115,14 +115,14 @@ planets:
     radius: 5,846.3 km<br/>(0.918 Yrths)
     surface_area: 4.295 × 10<sup>08</sup> km<sup>2</sup><br/>(0.842 Yrths)
     volume: 8.370 × 10<sup>11</sup> km<sup>3</sup><br/>(0.773 Yrths)
-    mass: 7.174 × 10<sup>24</sup> kg<br />(1.2012499695398118 Yrths)
+    mass: 7.174 × 10<sup>24</sup> kg<br />(1.20 Yrths)
     density: 8.571 g/cm<sup>3</sup>
     surface_gravity: 13.990 m/s<sup>2</sup><br />(1.427 g<sub>0</sub>)
     escape_velocity: 12.798 km/s<br />(46,074 km/h)
     rotation_period: 2.634 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 374 K<br />(101 °C)
+    temperature: 705 K<br />(431 °C)
     surface_pressure: 212 kPa<br />(2 atm)
     composition:
       - 52.3628% ammonia
@@ -140,14 +140,14 @@ planets:
     radius: 7,214.0 km<br/>(1.132 Yrths)
     surface_area: 6.540 × 10<sup>08</sup> km<sup>2</sup><br/>(1.282 Yrths)
     volume: 1.573 × 10<sup>12</sup> km<sup>3</sup><br/>(1.452 Yrths)
-    mass: 8.478 × 10<sup>24</sup> kg<br />(1.4195968796998146 Yrths)
+    mass: 8.478 × 10<sup>24</sup> kg<br />(1.42 Yrths)
     density: 5.391 g/cm<sup>3</sup>
     surface_gravity: 10.858 m/s<sup>2</sup><br />(1.107 g<sub>0</sub>)
     escape_velocity: 12.525 km/s<br />(45,089 km/h)
     rotation_period: 2.748 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 229 K<br />(-44 °C)
+    temperature: 216 K<br />(-57 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 96.1973% nitrogen
@@ -166,14 +166,14 @@ planets:
         radius: 3,381.6 km<br/>(0.531 Yrths)
         surface_area: 1.437 × 10<sup>08</sup> km<sup>2</sup><br/>(0.282 Yrths)
         volume: 1.620 × 10<sup>11</sup> km<sup>3</sup><br/>(0.150 Yrths)
-        mass: 4.972 × 10<sup>23</sup> kg<br />(1.4195968796998146 Yrths)
+        mass: 4.972 × 10<sup>23</sup> kg<br />(0.083 Yrths)
         density: 3.070 g/cm<sup>3</sup>
         surface_gravity: 2.898 m/s<sup>2</sup><br />(0.296 g<sub>0</sub>)
         escape_velocity: 4.430 km/s<br />(15,949 km/h)
         rotation_period: 30.534 d
         axial_tilt: 10.35°
         albedo: 0.30
-        temperature: 2614 K<br />(2340 °C)
+        temperature: 213 K<br />(-60 °C)
   - name: 2212 Geardiad IV
     type: Terrestrial
     aphelion: 102,074,544 km<br />0.682 AU
@@ -185,14 +185,14 @@ planets:
     radius: 6,483.3 km<br/>(1.018 Yrths)
     surface_area: 5.282 × 10<sup>08</sup> km<sup>2</sup><br/>(1.036 Yrths)
     volume: 1.142 × 10<sup>12</sup> km<sup>3</sup><br/>(1.054 Yrths)
-    mass: 6.670 × 10<sup>24</sup> kg<br />(1.1169479260990374 Yrths)
+    mass: 6.670 × 10<sup>24</sup> kg<br />(1.12 Yrths)
     density: 5.844 g/cm<sup>3</sup>
     surface_gravity: 10.577 m/s<sup>2</sup><br />(1.079 g<sub>0</sub>)
     escape_velocity: 11.719 km/s<br />(42,189 km/h)
     rotation_period: 2.095 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 252 K<br />(-21 °C)
+    temperature: 759 K<br />(486 °C)
     surface_pressure: 18 kPa<br />(0 atm)
     composition:
       - 100.0000% carbon dioxide
@@ -209,14 +209,14 @@ planets:
         radius: 3,127.7 km<br/>(0.491 Yrths)
         surface_area: 1.229 × 10<sup>08</sup> km<sup>2</sup><br/>(0.241 Yrths)
         volume: 1.282 × 10<sup>11</sup> km<sup>3</sup><br/>(0.118 Yrths)
-        mass: 3.614 × 10<sup>23</sup> kg<br />(1.1169479260990374 Yrths)
+        mass: 3.614 × 10<sup>23</sup> kg<br />(0.061 Yrths)
         density: 2.820 g/cm<sup>3</sup>
         surface_gravity: 2.463 m/s<sup>2</sup><br />(0.251 g<sub>0</sub>)
         escape_velocity: 3.927 km/s<br />(14,139 km/h)
         rotation_period: 49.803 d
         axial_tilt: 14.62°
         albedo: 0.30
-        temperature: 2952 K<br />(2679 °C)
+        temperature: 174 K<br />(-99 °C)
   - name: 2212 Geardiad V
     type: Large terrestrial
     aphelion: 153,257,291 km<br />1.024 AU
@@ -228,14 +228,14 @@ planets:
     radius: 8,836.8 km<br/>(1.387 Yrths)
     surface_area: 9.813 × 10<sup>08</sup> km<sup>2</sup><br/>(1.924 Yrths)
     volume: 2.890 × 10<sup>12</sup> km<sup>3</sup><br/>(2.668 Yrths)
-    mass: 1.946 × 10<sup>25</sup> kg<br />(3.2580099048323614 Yrths)
+    mass: 1.946 × 10<sup>25</sup> kg<br />(3.26 Yrths)
     density: 6.731 g/cm<sup>3</sup>
     surface_gravity: 16.607 m/s<sup>2</sup><br />(1.693 g<sub>0</sub>)
     escape_velocity: 17.144 km/s<br />(61,718 km/h)
     rotation_period: 1.231 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 181 K<br />(-92 °C)
+    temperature: 203 K<br />(-70 °C)
     surface_pressure: 184 kPa<br />(2 atm)
     composition:
       - 88.6346% nitrogen
@@ -254,14 +254,14 @@ planets:
         radius: 6,188.9 km<br/>(0.971 Yrths)
         surface_area: 4.813 × 10<sup>08</sup> km<sup>2</sup><br/>(0.944 Yrths)
         volume: 9.929 × 10<sup>11</sup> km<sup>3</sup><br/>(0.917 Yrths)
-        mass: 1.379 × 10<sup>24</sup> kg<br />(3.2580099048323614 Yrths)
+        mass: 1.379 × 10<sup>24</sup> kg<br />(0.231 Yrths)
         density: 1.389 g/cm<sup>3</sup>
         surface_gravity: 2.399 m/s<sup>2</sup><br />(0.245 g<sub>0</sub>)
         escape_velocity: 5.453 km/s<br />(19,632 km/h)
         rotation_period: 72.336 d
         axial_tilt: 11.61°
         albedo: 0.30
-        temperature: 1566 K<br />(1293 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 2212 Geardiad V b
         type: Icy
         formationType: Captured
@@ -274,14 +274,14 @@ planets:
         radius: 5,482.7 km<br/>(0.861 Yrths)
         surface_area: 3.777 × 10<sup>08</sup> km<sup>2</sup><br/>(0.741 Yrths)
         volume: 6.903 × 10<sup>11</sup> km<sup>3</sup><br/>(0.637 Yrths)
-        mass: 1.020 × 10<sup>24</sup> kg<br />(3.2580099048323614 Yrths)
+        mass: 1.020 × 10<sup>24</sup> kg<br />(0.171 Yrths)
         density: 1.477 g/cm<sup>3</sup>
         surface_gravity: 2.261 m/s<sup>2</sup><br />(0.231 g<sub>0</sub>)
         escape_velocity: 4.982 km/s<br />(17,937 km/h)
         rotation_period: 52.870 d
         axial_tilt: 21.47°
         albedo: 0.30
-        temperature: 1493 K<br />(1220 °C)
+        temperature: 142 K<br />(-131 °C)
   - name: 2212 Geardiad VI
     type: Large terrestrial
     aphelion: 232,317,072 km<br />1.553 AU
@@ -293,14 +293,14 @@ planets:
     radius: 7,510.6 km<br/>(1.179 Yrths)
     surface_area: 7.089 × 10<sup>08</sup> km<sup>2</sup><br/>(1.390 Yrths)
     volume: 1.775 × 10<sup>12</sup> km<sup>3</sup><br/>(1.638 Yrths)
-    mass: 1.133 × 10<sup>25</sup> kg<br />(1.8976382550716822 Yrths)
+    mass: 1.133 × 10<sup>25</sup> kg<br />(1.90 Yrths)
     density: 6.386 g/cm<sup>3</sup>
     surface_gravity: 13.390 m/s<sup>2</sup><br />(1.365 g<sub>0</sub>)
     escape_velocity: 14.192 km/s<br />(51,092 km/h)
     rotation_period: 1.221 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 191 K<br />(-82 °C)
+    temperature: 473 K<br />(200 °C)
     surface_pressure: 442 kPa<br />(4 atm)
     composition:
       - 79.2577% carbon dioxide
@@ -320,14 +320,14 @@ planets:
         radius: 4,849.2 km<br/>(0.761 Yrths)
         surface_area: 2.955 × 10<sup>08</sup> km<sup>2</sup><br/>(0.579 Yrths)
         volume: 4.776 × 10<sup>11</sup> km<sup>3</sup><br/>(0.441 Yrths)
-        mass: 1.431 × 10<sup>24</sup> kg<br />(1.8976382550716822 Yrths)
+        mass: 1.431 × 10<sup>24</sup> kg<br />(0.240 Yrths)
         density: 2.995 g/cm<sup>3</sup>
         surface_gravity: 4.055 m/s<sup>2</sup><br />(0.413 g<sub>0</sub>)
         escape_velocity: 6.275 km/s<br />(22,591 km/h)
         rotation_period: 50.358 d
         axial_tilt: 13.80°
         albedo: 0.30
-        temperature: 1709 K<br />(1436 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 2212 Geardiad VI b
         type: Icy
         formationType: Captured
@@ -340,14 +340,14 @@ planets:
         radius: 4,747.1 km<br/>(0.745 Yrths)
         surface_area: 2.832 × 10<sup>08</sup> km<sup>2</sup><br/>(0.555 Yrths)
         volume: 4.481 × 10<sup>11</sup> km<sup>3</sup><br/>(0.414 Yrths)
-        mass: 3.253 × 10<sup>23</sup> kg<br />(1.8976382550716822 Yrths)
+        mass: 3.253 × 10<sup>23</sup> kg<br />(0.054 Yrths)
         density: 0.726 g/cm<sup>3</sup>
         surface_gravity: 0.962 m/s<sup>2</sup><br />(0.098 g<sub>0</sub>)
         escape_velocity: 3.024 km/s<br />(10,887 km/h)
         rotation_period: 58.479 d
         axial_tilt: 18.80°
         albedo: 0.30
-        temperature: 1629 K<br />(1356 °C)
+        temperature: 116 K<br />(-157 °C)
   - name: 2212 Geardiad VII
     type: Ice giant
     aphelion: 346,594,491 km<br />2.317 AU
@@ -359,14 +359,14 @@ planets:
     radius: 29,333.3 km<br/>(4.604 Yrths)
     surface_area: 1.081 × 10<sup>10</sup> km<sup>2</sup><br/>(21.199 Yrths)
     volume: 1.057 × 10<sup>14</sup> km<sup>3</sup><br/>(97.602 Yrths)
-    mass: 1.059 × 10<sup>26</sup> kg<br />(17.734283183158023 Yrths)
+    mass: 1.059 × 10<sup>26</sup> kg<br />(17.73 Yrths)
     density: 1.002 g/cm<sup>3</sup>
     surface_gravity: 8.204 m/s<sup>2</sup><br />(0.837 g<sub>0</sub>)
     escape_velocity: 21.954 km/s<br />(79,033 km/h)
     rotation_period: 0.603 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 166 K<br />(-107 °C)
+    temperature: 149 K<br />(-124 °C)
     composition:
       - 80.9136% hydrogen
       - 17.6743% helium
@@ -385,14 +385,14 @@ planets:
         radius: 12,540.4 km<br/>(1.968 Yrths)
         surface_area: 1.976 × 10<sup>09</sup> km<sup>2</sup><br/>(3.874 Yrths)
         volume: 8.261 × 10<sup>12</sup> km<sup>3</sup><br/>(7.626 Yrths)
-        mass: 1.728 × 10<sup>25</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 1.728 × 10<sup>25</sup> kg<br />(2.893 Yrths)
         density: 2.091 g/cm<sup>3</sup>
         surface_gravity: 7.322 m/s<sup>2</sup><br />(0.747 g<sub>0</sub>)
         escape_velocity: 13.561 km/s<br />(48,819 km/h)
         rotation_period: 43.494 d
         axial_tilt: 13.43°
         albedo: 0.30
-        temperature: 761 K<br />(488 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII b
         type: Icy
         formationType: Accreted
@@ -405,14 +405,14 @@ planets:
         radius: 25,218.8 km<br/>(3.958 Yrths)
         surface_area: 7.992 × 10<sup>09</sup> km<sup>2</sup><br/>(15.669 Yrths)
         volume: 6.718 × 10<sup>13</sup> km<sup>3</sup><br/>(62.023 Yrths)
-        mass: 9.144 × 10<sup>25</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 9.144 × 10<sup>25</sup> kg<br />(15.312 Yrths)
         density: 1.361 g/cm<sup>3</sup>
         surface_gravity: 9.584 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
         escape_velocity: 22.001 km/s<br />(79,202 km/h)
         rotation_period: 78.631 d
         axial_tilt: 25.44°
         albedo: 0.30
-        temperature: 726 K<br />(452 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII c
         type: Icy
         formationType: Captured
@@ -425,14 +425,14 @@ planets:
         radius: 10,562.9 km<br/>(1.658 Yrths)
         surface_area: 1.402 × 10<sup>09</sup> km<sup>2</sup><br/>(2.749 Yrths)
         volume: 4.937 × 10<sup>12</sup> km<sup>3</sup><br/>(4.558 Yrths)
-        mass: 5.684 × 10<sup>24</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 5.684 × 10<sup>24</sup> kg<br />(0.952 Yrths)
         density: 1.151 g/cm<sup>3</sup>
         surface_gravity: 3.395 m/s<sup>2</sup><br />(0.346 g<sub>0</sub>)
         escape_velocity: 8.475 km/s<br />(30,510 km/h)
         rotation_period: 80.559 d
         axial_tilt: 16.95°
         albedo: 0.30
-        temperature: 692 K<br />(419 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -445,14 +445,14 @@ planets:
         radius: 26,883.2 km<br/>(4.220 Yrths)
         surface_area: 9.082 × 10<sup>09</sup> km<sup>2</sup><br/>(17.805 Yrths)
         volume: 8.138 × 10<sup>13</sup> km<sup>3</sup><br/>(75.131 Yrths)
-        mass: 1.546 × 10<sup>26</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 1.546 × 10<sup>26</sup> kg<br />(25.884 Yrths)
         density: 1.899 g/cm<sup>3</sup>
         surface_gravity: 14.256 m/s<sup>2</sup><br />(1.454 g<sub>0</sub>)
         escape_velocity: 27.705 km/s<br />(99,737 km/h)
         rotation_period: 46.089 d
         axial_tilt: 19.68°
         albedo: 0.30
-        temperature: 660 K<br />(387 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII e
         type: Icy
         formationType: Captured
@@ -465,14 +465,14 @@ planets:
         radius: 22,435.9 km<br/>(3.522 Yrths)
         surface_area: 6.326 × 10<sup>09</sup> km<sup>2</sup><br/>(12.401 Yrths)
         volume: 4.731 × 10<sup>13</sup> km<sup>3</sup><br/>(43.672 Yrths)
-        mass: 3.318 × 10<sup>25</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 3.318 × 10<sup>25</sup> kg<br />(5.556 Yrths)
         density: 0.701 g/cm<sup>3</sup>
         surface_gravity: 4.393 m/s<sup>2</sup><br />(0.448 g<sub>0</sub>)
         escape_velocity: 14.050 km/s<br />(50,581 km/h)
         rotation_period: 70.030 d
         axial_tilt: 23.95°
         albedo: 0.30
-        temperature: 629 K<br />(356 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII f
         type: Icy
         formationType: Captured
@@ -485,14 +485,14 @@ planets:
         radius: 25,577.0 km<br/>(4.015 Yrths)
         surface_area: 8.221 × 10<sup>09</sup> km<sup>2</sup><br/>(16.117 Yrths)
         volume: 7.009 × 10<sup>13</sup> km<sup>3</sup><br/>(64.703 Yrths)
-        mass: 5.466 × 10<sup>25</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 5.466 × 10<sup>25</sup> kg<br />(9.153 Yrths)
         density: 0.780 g/cm<sup>3</sup>
         surface_gravity: 5.569 m/s<sup>2</sup><br />(0.568 g<sub>0</sub>)
         escape_velocity: 16.890 km/s<br />(60,805 km/h)
         rotation_period: 80.801 d
         axial_tilt: 15.72°
         albedo: 0.30
-        temperature: 600 K<br />(327 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII g
         type: Ice/rock hybrid
         formationType: Captured
@@ -505,14 +505,14 @@ planets:
         radius: 9,640.4 km<br/>(1.513 Yrths)
         surface_area: 1.168 × 10<sup>09</sup> km<sup>2</sup><br/>(2.290 Yrths)
         volume: 3.753 × 10<sup>12</sup> km<sup>3</sup><br/>(3.465 Yrths)
-        mass: 8.634 × 10<sup>24</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 8.634 × 10<sup>24</sup> kg<br />(1.446 Yrths)
         density: 2.300 g/cm<sup>3</sup>
         surface_gravity: 6.192 m/s<sup>2</sup><br />(0.631 g<sub>0</sub>)
         escape_velocity: 10.934 km/s<br />(39,361 km/h)
         rotation_period: 45.653 d
         axial_tilt: 27.37°
         albedo: 0.30
-        temperature: 572 K<br />(299 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII h
         type: Asteroid
         formationType: Captured
@@ -525,14 +525,14 @@ planets:
         radius: 22,744.9 km<br/>(3.570 Yrths)
         surface_area: 6.501 × 10<sup>09</sup> km<sup>2</sup><br/>(12.745 Yrths)
         volume: 4.929 × 10<sup>13</sup> km<sup>3</sup><br/>(45.502 Yrths)
-        mass: 9.434 × 10<sup>25</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 9.434 × 10<sup>25</sup> kg<br />(15.797 Yrths)
         density: 1.914 g/cm<sup>3</sup>
         surface_gravity: 12.154 m/s<sup>2</sup><br />(1.239 g<sub>0</sub>)
         escape_velocity: 23.530 km/s<br />(84,708 km/h)
         rotation_period: 58.049 d
         axial_tilt: 20.12°
         albedo: 0.30
-        temperature: 545 K<br />(272 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII i
         type: Dwarf planet
         formationType: Accreted
@@ -545,14 +545,14 @@ planets:
         radius: 15,530.7 km<br/>(2.438 Yrths)
         surface_area: 3.031 × 10<sup>09</sup> km<sup>2</sup><br/>(5.942 Yrths)
         volume: 1.569 × 10<sup>13</sup> km<sup>3</sup><br/>(14.486 Yrths)
-        mass: 2.333 × 10<sup>25</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 2.333 × 10<sup>25</sup> kg<br />(3.907 Yrths)
         density: 1.487 g/cm<sup>3</sup>
         surface_gravity: 6.448 m/s<sup>2</sup><br />(0.657 g<sub>0</sub>)
         escape_velocity: 14.161 km/s<br />(50,981 km/h)
         rotation_period: 70.729 d
         axial_tilt: 37.97°
         albedo: 0.30
-        temperature: 520 K<br />(247 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII j
         type: Icy
         formationType: Captured
@@ -565,14 +565,14 @@ planets:
         radius: 32,848.7 km<br/>(5.156 Yrths)
         surface_area: 1.356 × 10<sup>10</sup> km<sup>2</sup><br/>(26.584 Yrths)
         volume: 1.485 × 10<sup>14</sup> km<sup>3</sup><br/>(137.066 Yrths)
-        mass: 2.106 × 10<sup>26</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 2.106 × 10<sup>26</sup> kg<br />(35.264 Yrths)
         density: 1.418 g/cm<sup>3</sup>
         surface_gravity: 13.009 m/s<sup>2</sup><br />(1.327 g<sub>0</sub>)
         escape_velocity: 29.254 km/s<br />(105,314 km/h)
         rotation_period: 41.855 d
         axial_tilt: 19.34°
         albedo: 0.30
-        temperature: 496 K<br />(222 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII k
         type: Icy
         formationType: Accreted
@@ -585,14 +585,14 @@ planets:
         radius: 19,736.9 km<br/>(3.098 Yrths)
         surface_area: 4.895 × 10<sup>09</sup> km<sup>2</sup><br/>(9.597 Yrths)
         volume: 3.221 × 10<sup>13</sup> km<sup>3</sup><br/>(29.731 Yrths)
-        mass: 3.524 × 10<sup>25</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 3.524 × 10<sup>25</sup> kg<br />(5.901 Yrths)
         density: 1.094 g/cm<sup>3</sup>
         surface_gravity: 6.030 m/s<sup>2</sup><br />(0.615 g<sub>0</sub>)
         escape_velocity: 15.438 km/s<br />(55,578 km/h)
         rotation_period: 70.193 d
         axial_tilt: 22.13°
         albedo: 0.30
-        temperature: 451 K<br />(177 °C)
+        temperature: 95 K<br />(-179 °C)
       - name: 2212 Geardiad VII l
         type: Ice/rock hybrid
         formationType: Accreted
@@ -605,12 +605,12 @@ planets:
         radius: 23,206.5 km<br/>(3.643 Yrths)
         surface_area: 6.768 × 10<sup>09</sup> km<sup>2</sup><br/>(13.268 Yrths)
         volume: 5.235 × 10<sup>13</sup> km<sup>3</sup><br/>(48.329 Yrths)
-        mass: 1.066 × 10<sup>26</sup> kg<br />(17.734283183158023 Yrths)
+        mass: 1.066 × 10<sup>26</sup> kg<br />(17.848 Yrths)
         density: 2.036 g/cm<sup>3</sup>
         surface_gravity: 13.192 m/s<sup>2</sup><br />(1.345 g<sub>0</sub>)
         escape_velocity: 24.761 km/s<br />(89,140 km/h)
         rotation_period: 55.365 d
         axial_tilt: 11.54°
         albedo: 0.30
-        temperature: 430 K<br />(156 °C)
+        temperature: 95 K<br />(-179 °C)
 ---

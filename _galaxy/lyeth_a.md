@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Lyeth A is a star in the constellation Nurranpug
+      Lyeth A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 429.89 ly
 apparent_magnitude: 4.24
 absolute_magnitude: -1.36

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      552 Keead is a star in the constellation Kee
+      552 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1041.24 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 1.93

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2152 Anilliad A is a star in the constellation Anil
+      2152 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 769.41 ly
 apparent_magnitude: 6.62
 absolute_magnitude: -0.24

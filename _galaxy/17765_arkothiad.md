@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      17765 Arkothiad is a star in the constellation Arkoth
+      17765 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 477.94 ly
 apparent_magnitude: 11.53
 absolute_magnitude: 5.70

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2051 Arniad is a star in the constellation Arni
+      2051 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 289.59 ly
 apparent_magnitude: 10.66
 absolute_magnitude: 5.92

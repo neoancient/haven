@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5524 Noniashad is a star in the constellation Nonias
+      5524 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 223.42 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 7.14

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0060 Nishiad A is a star in the constellation Nishi
+      0060 Nishiad A is a star in the constellation <a href="nishi.html">Nishi</a>
 distance: 1071.58 ly
 apparent_magnitude: 6.37
 absolute_magnitude: -1.21

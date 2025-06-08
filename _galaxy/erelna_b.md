@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Erelna B is a star in the constellation Shannias
+      Erelna B is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1399.94 ly
 apparent_magnitude: 5.20
 absolute_magnitude: -2.96

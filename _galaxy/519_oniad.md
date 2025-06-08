@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      519 Oniad is a star in the constellation Oni
+      519 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 976.09 ly
 apparent_magnitude: 9.73
 absolute_magnitude: 2.34

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5502 Geardiad is a star in the constellation Geard
+      5502 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 374.77 ly
 apparent_magnitude: 9.91
 absolute_magnitude: 4.60

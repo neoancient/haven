@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1848 Lunaiad is a star in the constellation Luna
+      1848 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 360.91 ly
 apparent_magnitude: 11.01
 absolute_magnitude: 5.79

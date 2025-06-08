@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2525 Saithiad is a star in the constellation Saith
+      2525 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 720.59 ly
 apparent_magnitude: 11.92
 absolute_magnitude: 5.20

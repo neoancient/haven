@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2083 Dialkeshiad is a star in the constellation Dialkes
+      2083 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1098.89 ly
 apparent_magnitude: 15.44
 absolute_magnitude: 7.80

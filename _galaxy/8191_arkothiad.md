@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8191 Arkothiad is a star in the constellation Arkoth
+      8191 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 457.98 ly
 apparent_magnitude: 8.52
 absolute_magnitude: 2.78

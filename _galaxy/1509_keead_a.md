@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1509 Keead A is a star in the constellation Kee
+      1509 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 432.72 ly
 apparent_magnitude: 7.49
 absolute_magnitude: 1.87

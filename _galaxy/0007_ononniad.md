@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0007 Ononniad is a star in the constellation Onon
+      0007 Ononniad is a star in the constellation <a href="onon.html">Onon</a>
 distance: 254.22 ly
 apparent_magnitude: 6.40
 absolute_magnitude: 1.94
@@ -31,14 +31,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.657 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1438 K<br />(1165 °C)
+    temperature: 1496 K<br />(1222 °C)
     composition:
       - 71.4079% hydrogen
       - 22.9570% helium
@@ -58,14 +58,14 @@ planets:
         radius: 1,406.1 km<br/>(0.221 Yrths)
         surface_area: 2.484 × 10<sup>07</sup> km<sup>2</sup><br/>(0.049 Yrths)
         volume: 1.164 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 3.080 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 3.080 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.645 g/cm<sup>3</sup>
         surface_gravity: 1.038 m/s<sup>2</sup><br />(0.106 g<sub>0</sub>)
         escape_velocity: 1.710 km/s<br />(6,156 km/h)
         rotation_period: 45.592 d
         axial_tilt: 26.60°
         albedo: 0.30
-        temperature: 9112 K<br />(8839 °C)
+        temperature: 393 K<br />(120 °C)
       - name: 0007 Ononniad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 941.4 km<br/>(0.148 Yrths)
         surface_area: 1.114 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.495 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.925 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.925 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.981 g/cm<sup>3</sup>
         surface_gravity: 0.521 m/s<sup>2</sup><br />(0.053 g<sub>0</sub>)
         escape_velocity: 0.991 km/s<br />(3,567 km/h)
         rotation_period: 37.378 d
         axial_tilt: 24.08°
         albedo: 0.30
-        temperature: 8688 K<br />(8415 °C)
+        temperature: 393 K<br />(120 °C)
       - name: 0007 Ononniad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 991.4 km<br/>(0.156 Yrths)
         surface_area: 1.235 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 4.082 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 7.857 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.857 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.925 g/cm<sup>3</sup>
         surface_gravity: 0.533 m/s<sup>2</sup><br />(0.054 g<sub>0</sub>)
         escape_velocity: 1.029 km/s<br />(3,703 km/h)
         rotation_period: 44.825 d
         axial_tilt: 21.60°
         albedo: 0.30
-        temperature: 5658 K<br />(5385 °C)
+        temperature: 393 K<br />(120 °C)
       - name: 0007 Ononniad I d
         type: Dwarf planet
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 926.0 km<br/>(0.145 Yrths)
         surface_area: 1.078 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.326 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 5.636 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.636 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.694 g/cm<sup>3</sup>
         surface_gravity: 0.438 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 0.901 km/s<br />(3,245 km/h)
         rotation_period: 63.134 d
         axial_tilt: 15.16°
         albedo: 0.30
-        temperature: 5395 K<br />(5121 °C)
+        temperature: 393 K<br />(120 °C)
       - name: 0007 Ononniad I e
         type: Icy
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 1,073.2 km<br/>(0.168 Yrths)
         surface_area: 1.447 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 5.178 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 5.609 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.609 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.083 g/cm<sup>3</sup>
         surface_gravity: 0.325 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.835 km/s<br />(3,007 km/h)
         rotation_period: 62.998 d
         axial_tilt: 24.39°
         albedo: 0.30
-        temperature: 3864 K<br />(3591 °C)
+        temperature: 393 K<br />(120 °C)
       - name: 0007 Ononniad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 1,227.8 km<br/>(0.193 Yrths)
         surface_area: 1.894 × 10<sup>07</sup> km<sup>2</sup><br/>(0.037 Yrths)
         volume: 7.752 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.656 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.656 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.136 g/cm<sup>3</sup>
         surface_gravity: 0.732 m/s<sup>2</sup><br />(0.075 g<sub>0</sub>)
         escape_velocity: 1.342 km/s<br />(4,831 km/h)
         rotation_period: 43.510 d
         axial_tilt: 19.77°
         albedo: 0.30
-        temperature: 2181 K<br />(1908 °C)
+        temperature: 393 K<br />(120 °C)
   - name: 0007 Ononniad II
     type: Ice giant
     aphelion: 522,603,917 km<br />3.493 AU
@@ -177,14 +177,14 @@ planets:
     radius: 4,866.2 km<br/>(0.764 Yrths)
     surface_area: 2.976 × 10<sup>08</sup> km<sup>2</sup><br/>(0.583 Yrths)
     volume: 4.827 × 10<sup>11</sup> km<sup>3</sup><br/>(0.446 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.237 g/cm<sup>3</sup>
     surface_gravity: 1.681 m/s<sup>2</sup><br />(0.171 g<sub>0</sub>)
     escape_velocity: 4.047 km/s<br />(14,571 km/h)
     rotation_period: 0.817 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 497 K<br />(224 °C)
+    temperature: 446 K<br />(172 °C)
     composition:
       - 72.0475% hydrogen
       - 27.5336% helium
@@ -203,14 +203,14 @@ planets:
         radius: 449.1 km<br/>(0.070 Yrths)
         surface_area: 2.535 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.794 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 7.379 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 7.379 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.945 g/cm<sup>3</sup>
         surface_gravity: 0.244 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.468 km/s<br />(1,686 km/h)
         rotation_period: 35.749 d
         axial_tilt: 24.41°
         albedo: 0.30
-        temperature: 6482 K<br />(6209 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II b
         type: Asteroid
         formationType: Captured
@@ -223,14 +223,14 @@ planets:
         radius: 390.8 km<br/>(0.061 Yrths)
         surface_area: 1.919 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.500 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.642 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.642 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.857 g/cm<sup>3</sup>
         surface_gravity: 0.203 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.398 km/s<br />(1,434 km/h)
         rotation_period: 37.218 d
         axial_tilt: 41.72°
         albedo: 0.30
-        temperature: 6181 K<br />(5908 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -243,14 +243,14 @@ planets:
         radius: 405.3 km<br/>(0.064 Yrths)
         surface_area: 2.064 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.789 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 7.268 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 7.268 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.606 g/cm<sup>3</sup>
         surface_gravity: 0.295 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.489 km/s<br />(1,761 km/h)
         rotation_period: 44.857 d
         axial_tilt: 17.31°
         albedo: 0.30
-        temperature: 5893 K<br />(5620 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II d
         type: Dwarf planet
         formationType: Impact formed
@@ -263,14 +263,14 @@ planets:
         radius: 933.6 km<br/>(0.147 Yrths)
         surface_area: 1.095 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.408 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 5.245 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.245 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.539 g/cm<sup>3</sup>
         surface_gravity: 0.401 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.866 km/s<br />(3,118 km/h)
         rotation_period: 66.910 d
         axial_tilt: 15.23°
         albedo: 0.30
-        temperature: 5357 K<br />(5084 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II e
         type: Icy
         formationType: Impact formed
@@ -283,14 +283,14 @@ planets:
         radius: 394.6 km<br/>(0.062 Yrths)
         surface_area: 1.957 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.575 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.879 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.879 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.118 g/cm<sup>3</sup>
         surface_gravity: 0.123 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.312 km/s<br />(1,123 km/h)
         rotation_period: 86.806 d
         axial_tilt: 23.24°
         albedo: 0.30
-        temperature: 5108 K<br />(4835 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -303,14 +303,14 @@ planets:
         radius: 300.9 km<br/>(0.047 Yrths)
         surface_area: 1.138 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 1.141 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.074 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.074 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.818 g/cm<sup>3</sup>
         surface_gravity: 0.153 m/s<sup>2</sup><br />(0.016 g<sub>0</sub>)
         escape_velocity: 0.303 km/s<br />(1,092 km/h)
         rotation_period: 57.203 d
         axial_tilt: 28.37°
         albedo: 0.30
-        temperature: 4870 K<br />(4597 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II g
         type: Icy
         formationType: Accreted
@@ -323,14 +323,14 @@ planets:
         radius: 1,224.0 km<br/>(0.192 Yrths)
         surface_area: 1.883 × 10<sup>07</sup> km<sup>2</sup><br/>(0.037 Yrths)
         volume: 7.682 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 9.542 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.542 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 1.242 g/cm<sup>3</sup>
         surface_gravity: 0.424 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 1.020 km/s<br />(3,672 km/h)
         rotation_period: 54.628 d
         axial_tilt: 17.21°
         albedo: 0.30
-        temperature: 4644 K<br />(4371 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II h
         type: Icy
         formationType: Accreted
@@ -343,14 +343,14 @@ planets:
         radius: 314.2 km<br/>(0.049 Yrths)
         surface_area: 1.241 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 1.299 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.799 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.799 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.385 g/cm<sup>3</sup>
         surface_gravity: 0.121 m/s<sup>2</sup><br />(0.012 g<sub>0</sub>)
         escape_velocity: 0.276 km/s<br />(995 km/h)
         rotation_period: 66.713 d
         axial_tilt: 12.96°
         albedo: 0.30
-        temperature: 4428 K<br />(4154 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II i
         type: Icy
         formationType: Accreted
@@ -363,14 +363,14 @@ planets:
         radius: 405.7 km<br/>(0.064 Yrths)
         surface_area: 2.068 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.797 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.257 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.257 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.164 g/cm<sup>3</sup>
         surface_gravity: 0.132 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.327 km/s<br />(1,178 km/h)
         rotation_period: 83.627 d
         axial_tilt: 13.37°
         albedo: 0.30
-        temperature: 4222 K<br />(3948 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -383,14 +383,14 @@ planets:
         radius: 559.1 km<br/>(0.088 Yrths)
         surface_area: 3.929 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.322 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.326 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.326 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.811 g/cm<sup>3</sup>
         surface_gravity: 0.283 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.563 km/s<br />(2,025 km/h)
         rotation_period: 38.108 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 4025 K<br />(3752 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II k
         type: Asteroid
         formationType: Captured
@@ -403,14 +403,14 @@ planets:
         radius: 726.8 km<br/>(0.114 Yrths)
         surface_area: 6.637 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.608 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.090 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.090 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 0.264 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.620 km/s<br />(2,231 km/h)
         rotation_period: 71.852 d
         axial_tilt: 32.45°
         albedo: 0.30
-        temperature: 3838 K<br />(3565 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 0007 Ononniad II l
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -423,14 +423,14 @@ planets:
         radius: 600.2 km<br/>(0.094 Yrths)
         surface_area: 4.528 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.059 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.449 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.449 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.268 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.568 km/s<br />(2,044 km/h)
         rotation_period: 63.406 d
         axial_tilt: 20.68°
         albedo: 0.30
-        temperature: 3659 K<br />(3386 °C)
+        temperature: 282 K<br />(9 °C)
     rings:
       - innerRadius: 13510.782278042478 km
       - width: 14526.856077838758 km
@@ -446,14 +446,14 @@ planets:
     radius: 20,854.5 km<br/>(3.273 Yrths)
     surface_area: 5.465 × 10<sup>09</sup> km<sup>2</sup><br/>(10.715 Yrths)
     volume: 3.799 × 10<sup>13</sup> km<sup>3</sup><br/>(35.073 Yrths)
-    mass: 6.497 × 10<sup>25</sup> kg<br />(10.878977076453674 Yrths)
+    mass: 6.497 × 10<sup>25</sup> kg<br />(10.88 Yrths)
     density: 1.710 g/cm<sup>3</sup>
     surface_gravity: 9.957 m/s<sup>2</sup><br />(1.015 g<sub>0</sub>)
     escape_velocity: 20.393 km/s<br />(73,413 km/h)
     rotation_period: 0.401 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 325 K<br />(52 °C)
+    temperature: 294 K<br />(21 °C)
     composition:
       - 66.7446% hydrogen
       - 30.8479% helium
@@ -473,14 +473,14 @@ planets:
         radius: 25,426.6 km<br/>(3.991 Yrths)
         surface_area: 8.124 × 10<sup>09</sup> km<sup>2</sup><br/>(15.928 Yrths)
         volume: 6.886 × 10<sup>13</sup> km<sup>3</sup><br/>(63.568 Yrths)
-        mass: 1.046 × 10<sup>26</sup> kg<br />(10.878977076453674 Yrths)
+        mass: 1.046 × 10<sup>26</sup> kg<br />(17.511 Yrths)
         density: 1.519 g/cm<sup>3</sup>
         surface_gravity: 10.781 m/s<sup>2</sup><br />(1.099 g<sub>0</sub>)
         escape_velocity: 23.431 km/s<br />(84,350 km/h)
         rotation_period: 64.964 d
         axial_tilt: 12.25°
         albedo: 0.30
-        temperature: 2131 K<br />(1858 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0007 Ononniad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -493,14 +493,14 @@ planets:
         radius: 17,511.0 km<br/>(2.749 Yrths)
         surface_area: 3.853 × 10<sup>09</sup> km<sup>2</sup><br/>(7.555 Yrths)
         volume: 2.249 × 10<sup>13</sup> km<sup>3</sup><br/>(20.764 Yrths)
-        mass: 4.300 × 10<sup>25</sup> kg<br />(10.878977076453674 Yrths)
+        mass: 4.300 × 10<sup>25</sup> kg<br />(7.200 Yrths)
         density: 1.912 g/cm<sup>3</sup>
         surface_gravity: 9.347 m/s<sup>2</sup><br />(0.953 g<sub>0</sub>)
         escape_velocity: 18.105 km/s<br />(65,177 km/h)
         rotation_period: 70.636 d
         axial_tilt: 24.89°
         albedo: 0.30
-        temperature: 2032 K<br />(1759 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 0007 Ononniad IV
     type: Gas giant
     aphelion: 2,117,623,442 km<br />14.155 AU
@@ -512,7 +512,7 @@ planets:
     radius: 228.8 km<br/>(0.036 Yrths)
     surface_area: 6.581 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.020 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.793 × 10<sup>27</sup> kg<br />(300.2620647380784 Yrths)
+    mass: 1.793 × 10<sup>27</sup> kg<br />(300.26 Yrths)
     density: 35719163.201 g/cm<sup>3</sup>
     surface_gravity: 2282177.567 m/s<sup>2</sup><br />(232717.347 g<sub>0</sub>)
     escape_velocity: 1022.719 km/s<br />(3,681,788 km/h)
@@ -533,14 +533,14 @@ planets:
         radius: 202,662.5 km<br/>(31.810 Yrths)
         surface_area: 5.161 × 10<sup>11</sup> km<sup>2</sup><br/>(1011.886 Yrths)
         volume: 3.487 × 10<sup>16</sup> km<sup>3</sup><br/>(32188.267 Yrths)
-        mass: 6.553 × 10<sup>28</sup> kg<br />(300.2620647380784 Yrths)
+        mass: 6.553 × 10<sup>28</sup> kg<br />(10972.484 Yrths)
         density: 1.879 g/cm<sup>3</sup>
         surface_gravity: 106.339 m/s<sup>2</sup><br />(10.844 g<sub>0</sub>)
         escape_velocity: 207.751 km/s<br />(747,904 km/h)
         rotation_period: 64.528 d
         axial_tilt: 14.09°
         albedo: 0.30
-        temperature: 837 K<br />(564 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0007 Ononniad IV b
         type: Rocky
         formationType: Impact formed
@@ -553,14 +553,14 @@ planets:
         radius: 190,580.1 km<br/>(29.914 Yrths)
         surface_area: 4.564 × 10<sup>11</sup> km<sup>2</sup><br/>(894.829 Yrths)
         volume: 2.899 × 10<sup>16</sup> km<sup>3</sup><br/>(26767.618 Yrths)
-        mass: 8.783 × 10<sup>28</sup> kg<br />(300.2620647380784 Yrths)
+        mass: 8.783 × 10<sup>28</sup> kg<br />(14706.501 Yrths)
         density: 3.029 g/cm<sup>3</sup>
         surface_gravity: 161.172 m/s<sup>2</sup><br />(16.435 g<sub>0</sub>)
         escape_velocity: 248.024 km/s<br />(892,886 km/h)
         rotation_period: 31.172 d
         axial_tilt: 21.01°
         albedo: 0.30
-        temperature: 472 K<br />(199 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0007 Ononniad IV c
         type: Icy
         formationType: Captured
@@ -573,14 +573,14 @@ planets:
         radius: 277,288.6 km<br/>(43.524 Yrths)
         surface_area: 9.662 × 10<sup>11</sup> km<sup>2</sup><br/>(1894.301 Yrths)
         volume: 8.931 × 10<sup>16</sup> km<sup>3</sup><br/>(82446.732 Yrths)
-        mass: 6.251 × 10<sup>28</sup> kg<br />(300.2620647380784 Yrths)
+        mass: 6.251 × 10<sup>28</sup> kg<br />(10467.985 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 54.192 m/s<sup>2</sup><br />(5.526 g<sub>0</sub>)
         escape_velocity: 173.478 km/s<br />(624,519 km/h)
         rotation_period: 60.970 d
         axial_tilt: 22.91°
         albedo: 0.30
-        temperature: 308 K<br />(35 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0007 Ononniad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -593,14 +593,14 @@ planets:
         radius: 191,853.9 km<br/>(30.114 Yrths)
         surface_area: 4.625 × 10<sup>11</sup> km<sup>2</sup><br/>(906.830 Yrths)
         volume: 2.958 × 10<sup>16</sup> km<sup>3</sup><br/>(27307.935 Yrths)
-        mass: 5.947 × 10<sup>28</sup> kg<br />(300.2620647380784 Yrths)
+        mass: 5.947 × 10<sup>28</sup> kg<br />(9958.334 Yrths)
         density: 2.011 g/cm<sup>3</sup>
         surface_gravity: 107.692 m/s<sup>2</sup><br />(10.981 g<sub>0</sub>)
         escape_velocity: 203.416 km/s<br />(732,299 km/h)
         rotation_period: 45.391 d
         axial_tilt: 20.85°
         albedo: 0.30
-        temperature: 182 K<br />(-91 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0007 Ononniad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -613,14 +613,14 @@ planets:
         radius: 200,853.2 km<br/>(31.526 Yrths)
         surface_area: 5.070 × 10<sup>11</sup> km<sup>2</sup><br/>(993.899 Yrths)
         volume: 3.394 × 10<sup>16</sup> km<sup>3</sup><br/>(31333.836 Yrths)
-        mass: 7.601 × 10<sup>28</sup> kg<br />(300.2620647380784 Yrths)
+        mass: 7.601 × 10<sup>28</sup> kg<br />(12728.039 Yrths)
         density: 2.240 g/cm<sup>3</sup>
         surface_gravity: 125.586 m/s<sup>2</sup><br />(12.806 g<sub>0</sub>)
         escape_velocity: 224.760 km/s<br />(809,136 km/h)
         rotation_period: 40.740 d
         axial_tilt: 26.38°
         albedo: 0.30
-        temperature: 144 K<br />(-130 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0007 Ononniad IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -633,14 +633,14 @@ planets:
         radius: 232,434.6 km<br/>(36.483 Yrths)
         surface_area: 6.789 × 10<sup>11</sup> km<sup>2</sup><br/>(1331.026 Yrths)
         volume: 5.260 × 10<sup>16</sup> km<sup>3</sup><br/>(48560.121 Yrths)
-        mass: 1.246 × 10<sup>29</sup> kg<br />(300.2620647380784 Yrths)
+        mass: 1.246 × 10<sup>29</sup> kg<br />(20859.343 Yrths)
         density: 2.368 g/cm<sup>3</sup>
         surface_gravity: 153.686 m/s<sup>2</sup><br />(15.672 g<sub>0</sub>)
         escape_velocity: 267.472 km/s<br />(962,898 km/h)
         rotation_period: 44.613 d
         axial_tilt: 24.26°
         albedo: 0.30
-        temperature: 124 K<br />(-149 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0007 Ononniad IV g
         type: Icy
         formationType: Captured
@@ -653,12 +653,12 @@ planets:
         radius: 270,590.1 km<br/>(42.472 Yrths)
         surface_area: 9.201 × 10<sup>11</sup> km<sup>2</sup><br/>(1803.883 Yrths)
         volume: 8.299 × 10<sup>16</sup> km<sup>3</sup><br/>(76614.801 Yrths)
-        mass: 7.905 × 10<sup>28</sup> kg<br />(300.2620647380784 Yrths)
+        mass: 7.905 × 10<sup>28</sup> kg<br />(13236.303 Yrths)
         density: 0.952 g/cm<sup>3</sup>
         surface_gravity: 71.958 m/s<sup>2</sup><br />(7.338 g<sub>0</sub>)
         escape_velocity: 197.472 km/s<br />(710,899 km/h)
         rotation_period: 83.587 d
         axial_tilt: 16.01°
         albedo: 0.30
-        temperature: 74 K<br />(-199 °C)
+        temperature: 145 K<br />(-128 °C)
 ---

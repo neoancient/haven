@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1437 Keead A is a star in the constellation Kee
+      1437 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 572.52 ly
 apparent_magnitude: 7.78
 absolute_magnitude: 1.56

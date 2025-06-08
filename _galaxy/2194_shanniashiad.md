@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2194 Shanniashiad is a star in the constellation Shannias
+      2194 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 433.92 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 5.41

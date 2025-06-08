@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      14656 Athiad is a star in the constellation Ath
+      14656 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 798.28 ly
 apparent_magnitude: 11.64
 absolute_magnitude: 4.70

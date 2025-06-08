@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Kirniad is a star in the constellation Kirn
+      τ Kirniad is a star in the constellation <a href="kirn.html">Kirn</a>
 distance: 1262.48 ly
 apparent_magnitude: 6.31
 absolute_magnitude: -1.63
@@ -31,14 +31,14 @@ planets:
     radius: 6,864.0 km<br/>(1.077 Yrths)
     surface_area: 5.921 × 10<sup>08</sup> km<sup>2</sup><br/>(1.161 Yrths)
     volume: 1.355 × 10<sup>12</sup> km<sup>3</sup><br/>(1.251 Yrths)
-    mass: 7.368 × 10<sup>24</sup> kg<br />(1.2338391015062073 Yrths)
+    mass: 7.368 × 10<sup>24</sup> kg<br />(1.23 Yrths)
     density: 5.439 g/cm<sup>3</sup>
     surface_gravity: 10.424 m/s<sup>2</sup><br />(1.063 g<sub>0</sub>)
     escape_velocity: 11.971 km/s<br />(43,094 km/h)
     rotation_period: 0.941 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 569 K<br />(296 °C)
+    temperature: 1549 K<br />(1276 °C)
     surface_pressure: 161 kPa<br />(2 atm)
     composition:
       - 94.1925% carbon dioxide
@@ -54,14 +54,14 @@ planets:
     radius: 13,148.6 km<br/>(2.064 Yrths)
     surface_area: 2.173 × 10<sup>09</sup> km<sup>2</sup><br/>(4.259 Yrths)
     volume: 9.522 × 10<sup>12</sup> km<sup>3</sup><br/>(8.790 Yrths)
-    mass: 5.953 × 10<sup>25</sup> kg<br />(9.9678430342049 Yrths)
+    mass: 5.953 × 10<sup>25</sup> kg<br />(9.97 Yrths)
     density: 6.252 g/cm<sup>3</sup>
     surface_gravity: 22.950 m/s<sup>2</sup><br />(2.340 g<sub>0</sub>)
     escape_velocity: 24.583 km/s<br />(88,500 km/h)
     rotation_period: 0.477 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 369 K<br />(96 °C)
+    temperature: 543 K<br />(270 °C)
     surface_pressure: 5,956 kPa<br />(59 atm)
     composition:
       - 81.8714% methane
@@ -82,12 +82,12 @@ planets:
         radius: 15,287.8 km<br/>(2.400 Yrths)
         surface_area: 2.937 × 10<sup>09</sup> km<sup>2</sup><br/>(5.758 Yrths)
         volume: 1.497 × 10<sup>13</sup> km<sup>3</sup><br/>(13.817 Yrths)
-        mass: 4.419 × 10<sup>25</sup> kg<br />(9.9678430342049 Yrths)
+        mass: 4.419 × 10<sup>25</sup> kg<br />(7.400 Yrths)
         density: 2.953 g/cm<sup>3</sup>
         surface_gravity: 12.603 m/s<sup>2</sup><br />(1.285 g<sub>0</sub>)
         escape_velocity: 19.644 km/s<br />(70,718 km/h)
         rotation_period: 29.382 d
         axial_tilt: 14.69°
         albedo: 0.30
-        temperature: 2823 K<br />(2550 °C)
+        temperature: 222 K<br />(-51 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      917 Reggiad is a star in the constellation Reg
+      917 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 428.42 ly
 apparent_magnitude: 10.30
 absolute_magnitude: 4.71

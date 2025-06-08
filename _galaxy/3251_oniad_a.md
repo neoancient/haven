@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3251 Oniad A is a star in the constellation Oni
+      3251 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 507.74 ly
 apparent_magnitude: 6.53
 absolute_magnitude: 0.57

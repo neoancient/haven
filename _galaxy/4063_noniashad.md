@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4063 Noniashad is a star in the constellation Nonias
+      4063 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 487.86 ly
 apparent_magnitude: 11.05
 absolute_magnitude: 5.17

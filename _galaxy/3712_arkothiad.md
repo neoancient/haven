@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3712 Arkothiad is a star in the constellation Arkoth
+      3712 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1269.90 ly
 apparent_magnitude: 12.63
 absolute_magnitude: 4.68

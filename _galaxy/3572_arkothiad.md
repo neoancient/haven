@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3572 Arkothiad is a star in the constellation Arkoth
+      3572 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 169.50 ly
 apparent_magnitude: 10.04
 absolute_magnitude: 6.46

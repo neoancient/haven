@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      36432 Dialkeshiad A is a star in the constellation Dialkes
+      36432 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 383.75 ly
 apparent_magnitude: 8.20
 absolute_magnitude: 2.85

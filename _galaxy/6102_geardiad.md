@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6102 Geardiad is a star in the constellation Geard
+      6102 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 360.79 ly
 apparent_magnitude: 10.24
 absolute_magnitude: 5.02

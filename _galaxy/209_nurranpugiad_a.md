@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      209 Nurranpugiad A is a star in the constellation Nurranpug
+      209 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 420.86 ly
 apparent_magnitude: 7.32
 absolute_magnitude: 1.77

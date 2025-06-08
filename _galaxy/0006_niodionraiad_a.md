@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0006 Niodionraiad A is a star in the constellation Niodionra
+      0006 Niodionraiad A is a star in the constellation <a href="niodionra.html">Niodionra</a>
 distance: 2174.35 ly
 apparent_magnitude: 6.02
 absolute_magnitude: -3.10

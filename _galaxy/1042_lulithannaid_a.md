@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1042 Lulithannaid A is a star in the constellation Lulithan
+      1042 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 259.85 ly
 apparent_magnitude: 7.00
 absolute_magnitude: 2.49

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      281 Noniashad is a star in the constellation Nonias
+      281 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 585.03 ly
 apparent_magnitude: 10.83
 absolute_magnitude: 4.56

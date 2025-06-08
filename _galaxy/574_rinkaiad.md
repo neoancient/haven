@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      574 Rinkaiad is a star in the constellation Rinka
+      574 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 628.95 ly
 apparent_magnitude: 14.09
 absolute_magnitude: 7.67

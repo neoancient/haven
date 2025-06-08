@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0166 Enlinniad A is a star in the constellation Enlin
+      0166 Enlinniad A is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 158.32 ly
 apparent_magnitude: 6.65
 absolute_magnitude: 3.22

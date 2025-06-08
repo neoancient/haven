@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1086 Ratharshinniad is a star in the constellation Ratharshin
+      1086 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 582.77 ly
 apparent_magnitude: 11.00
 absolute_magnitude: 4.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Emniaiad is a star in the constellation Emnia
+      0015 Emniaiad is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 205.14 ly
 apparent_magnitude: 6.44
 absolute_magnitude: 2.44
@@ -31,14 +31,14 @@ planets:
     radius: 16,473.0 km<br/>(2.586 Yrths)
     surface_area: 3.410 × 10<sup>09</sup> km<sup>2</sup><br/>(6.685 Yrths)
     volume: 1.872 × 10<sup>13</sup> km<sup>3</sup><br/>(17.286 Yrths)
-    mass: 5.855 × 10<sup>25</sup> kg<br />(9.803603313873568 Yrths)
+    mass: 5.855 × 10<sup>25</sup> kg<br />(9.80 Yrths)
     density: 3.127 g/cm<sup>3</sup>
     surface_gravity: 14.381 m/s<sup>2</sup><br />(1.466 g<sub>0</sub>)
     escape_velocity: 21.781 km/s<br />(78,413 km/h)
     rotation_period: 0.502 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 608 K<br />(335 °C)
+    temperature: 553 K<br />(280 °C)
     composition:
       - 81.7472% hydrogen
       - 16.1143% helium
@@ -58,14 +58,14 @@ planets:
         radius: 15,717.6 km<br/>(2.467 Yrths)
         surface_area: 3.104 × 10<sup>09</sup> km<sup>2</sup><br/>(6.086 Yrths)
         volume: 1.626 × 10<sup>13</sup> km<sup>3</sup><br/>(15.015 Yrths)
-        mass: 2.164 × 10<sup>25</sup> kg<br />(9.803603313873568 Yrths)
+        mass: 2.164 × 10<sup>25</sup> kg<br />(3.623 Yrths)
         density: 1.330 g/cm<sup>3</sup>
         surface_gravity: 5.837 m/s<sup>2</sup><br />(0.595 g<sub>0</sub>)
         escape_velocity: 13.555 km/s<br />(48,799 km/h)
         rotation_period: 53.486 d
         axial_tilt: 17.91°
         albedo: 0.30
-        temperature: 3986 K<br />(3713 °C)
+        temperature: 379 K<br />(106 °C)
       - name: 0015 Emniaiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 14,405.9 km<br/>(2.261 Yrths)
         surface_area: 2.608 × 10<sup>09</sup> km<sup>2</sup><br/>(5.113 Yrths)
         volume: 1.252 × 10<sup>13</sup> km<sup>3</sup><br/>(11.561 Yrths)
-        mass: 2.616 × 10<sup>25</sup> kg<br />(9.803603313873568 Yrths)
+        mass: 2.616 × 10<sup>25</sup> kg<br />(4.380 Yrths)
         density: 2.089 g/cm<sup>3</sup>
         surface_gravity: 8.400 m/s<sup>2</sup><br />(0.857 g<sub>0</sub>)
         escape_velocity: 15.568 km/s<br />(56,045 km/h)
         rotation_period: 55.093 d
         axial_tilt: 11.86°
         albedo: 0.30
-        temperature: 3800 K<br />(3527 °C)
+        temperature: 379 K<br />(106 °C)
       - name: 0015 Emniaiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 9,888.9 km<br/>(1.552 Yrths)
         surface_area: 1.229 × 10<sup>09</sup> km<sup>2</sup><br/>(2.409 Yrths)
         volume: 4.051 × 10<sup>12</sup> km<sup>3</sup><br/>(3.740 Yrths)
-        mass: 1.042 × 10<sup>25</sup> kg<br />(9.803603313873568 Yrths)
+        mass: 1.042 × 10<sup>25</sup> kg<br />(1.744 Yrths)
         density: 2.572 g/cm<sup>3</sup>
         surface_gravity: 7.100 m/s<sup>2</sup><br />(0.724 g<sub>0</sub>)
         escape_velocity: 11.858 km/s<br />(42,690 km/h)
         rotation_period: 49.808 d
         axial_tilt: 28.89°
         albedo: 0.30
-        temperature: 3455 K<br />(3182 °C)
+        temperature: 379 K<br />(106 °C)
       - name: 0015 Emniaiad I d
         type: Rocky
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 10,557.1 km<br/>(1.657 Yrths)
         surface_area: 1.401 × 10<sup>09</sup> km<sup>2</sup><br/>(2.746 Yrths)
         volume: 4.929 × 10<sup>12</sup> km<sup>3</sup><br/>(4.550 Yrths)
-        mass: 1.397 × 10<sup>25</sup> kg<br />(9.803603313873568 Yrths)
+        mass: 1.397 × 10<sup>25</sup> kg<br />(2.339 Yrths)
         density: 2.834 g/cm<sup>3</sup>
         surface_gravity: 8.354 m/s<sup>2</sup><br />(0.852 g<sub>0</sub>)
         escape_velocity: 13.290 km/s<br />(47,846 km/h)
         rotation_period: 55.330 d
         axial_tilt: 17.87°
         albedo: 0.30
-        temperature: 3294 K<br />(3021 °C)
+        temperature: 379 K<br />(106 °C)
       - name: 0015 Emniaiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -138,12 +138,12 @@ planets:
         radius: 13,026.5 km<br/>(2.045 Yrths)
         surface_area: 2.132 × 10<sup>09</sup> km<sup>2</sup><br/>(4.181 Yrths)
         volume: 9.259 × 10<sup>12</sup> km<sup>3</sup><br/>(8.548 Yrths)
-        mass: 1.834 × 10<sup>25</sup> kg<br />(9.803603313873568 Yrths)
+        mass: 1.834 × 10<sup>25</sup> kg<br />(3.071 Yrths)
         density: 1.981 g/cm<sup>3</sup>
         surface_gravity: 7.204 m/s<sup>2</sup><br />(0.735 g<sub>0</sub>)
         escape_velocity: 13.710 km/s<br />(49,355 km/h)
         rotation_period: 52.989 d
         axial_tilt: 19.05°
         albedo: 0.30
-        temperature: 3141 K<br />(2868 °C)
+        temperature: 379 K<br />(106 °C)
 ---

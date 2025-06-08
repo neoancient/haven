@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2051 Lunaiad is a star in the constellation Luna
+      2051 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 295.29 ly
 apparent_magnitude: 9.73
 absolute_magnitude: 4.95

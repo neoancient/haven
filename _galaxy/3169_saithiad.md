@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3169 Saithiad is a star in the constellation Saith
+      3169 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 2198.59 ly
 apparent_magnitude: 18.09
 absolute_magnitude: 8.94

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Dialkeshiad E is a star in the constellation Dialkes
+      0002 Dialkeshiad E is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 188.78 ly
 apparent_magnitude: 8.61
 absolute_magnitude: 4.79

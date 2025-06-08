@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2619 Anilliad is a star in the constellation Anil
+      2619 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 362.79 ly
 apparent_magnitude: 18.07
 absolute_magnitude: 12.83

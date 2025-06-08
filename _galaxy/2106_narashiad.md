@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2106 Narashiad is a star in the constellation Naras
+      2106 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 168.68 ly
 apparent_magnitude: 9.88
 absolute_magnitude: 6.31

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1539 Lulithannaid is a star in the constellation Lulithan
+      1539 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 234.60 ly
 apparent_magnitude: 9.87
 absolute_magnitude: 5.58

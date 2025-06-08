@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      υ Shanniashiad A is a star in the constellation Shannias
+      υ Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 257.48 ly
 apparent_magnitude: 5.36
 absolute_magnitude: 0.87

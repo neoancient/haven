@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      64870 Arkothiad is a star in the constellation Arkoth
+      64870 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 538.90 ly
 apparent_magnitude: 11.39
 absolute_magnitude: 5.30

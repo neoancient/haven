@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1838 Arniad is a star in the constellation Arni
+      1838 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 233.51 ly
 apparent_magnitude: 10.20
 absolute_magnitude: 5.92

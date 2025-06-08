@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8277 Shanniashiad is a star in the constellation Shannias
+      8277 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 671.05 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 1.58

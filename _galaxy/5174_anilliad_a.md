@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5174 Anilliad A is a star in the constellation Anil
+      5174 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 445.73 ly
 apparent_magnitude: 9.83
 absolute_magnitude: 4.15

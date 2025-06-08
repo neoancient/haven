@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3151 Oniad is a star in the constellation Oni
+      3151 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 497.37 ly
 apparent_magnitude: 10.91
 absolute_magnitude: 4.99

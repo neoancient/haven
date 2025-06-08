@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10526 Dialkeshiad is a star in the constellation Dialkes
+      10526 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 556.54 ly
 apparent_magnitude: 14.17
 absolute_magnitude: 8.01

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6591 Tanashad A is a star in the constellation Tanas
+      6591 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 579.56 ly
 apparent_magnitude: 7.07
 absolute_magnitude: 0.82

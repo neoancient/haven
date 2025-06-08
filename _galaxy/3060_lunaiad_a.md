@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3060 Lunaiad A is a star in the constellation Luna
+      3060 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 1224.67 ly
 apparent_magnitude: 6.89
 absolute_magnitude: -0.98

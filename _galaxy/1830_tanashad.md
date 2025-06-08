@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1830 Tanashad is a star in the constellation Tanas
+      1830 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 267.40 ly
 apparent_magnitude: 9.46
 absolute_magnitude: 4.89

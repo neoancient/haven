@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6529 Dialkeshiad is a star in the constellation Dialkes
+      6529 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 400.38 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 5.29

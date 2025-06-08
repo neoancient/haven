@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      796 Erikkiad is a star in the constellation Erik
+      796 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 314.97 ly
 apparent_magnitude: 10.10
 absolute_magnitude: 5.17

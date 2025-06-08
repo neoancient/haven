@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7870 Geardiad A is a star in the constellation Geard
+      7870 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 268.73 ly
 apparent_magnitude: 7.69
 absolute_magnitude: 3.11

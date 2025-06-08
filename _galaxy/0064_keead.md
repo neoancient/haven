@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0064 Keead is a star in the constellation Kee
+      0064 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 15.89 ly
 apparent_magnitude: 5.64
 absolute_magnitude: 7.20
@@ -31,14 +31,14 @@ planets:
     radius: 4,826.2 km<br/>(0.758 Yrths)
     surface_area: 2.927 × 10<sup>08</sup> km<sup>2</sup><br/>(0.574 Yrths)
     volume: 4.709 × 10<sup>11</sup> km<sup>3</sup><br/>(0.435 Yrths)
-    mass: 3.142 × 10<sup>24</sup> kg<br />(0.5261995689195874 Yrths)
+    mass: 3.142 × 10<sup>24</sup> kg<br />(0.53 Yrths)
     density: 6.674 g/cm<sup>3</sup>
     surface_gravity: 8.992 m/s<sup>2</sup><br />(0.917 g<sub>0</sub>)
     escape_velocity: 9.323 km/s<br />(33,562 km/h)
     rotation_period: 5.476 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 410 K<br />(137 °C)
+    temperature: 938 K<br />(665 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 57.8839% carbon dioxide
@@ -56,12 +56,12 @@ planets:
         radius: 1,637.1 km<br/>(0.257 Yrths)
         surface_area: 3.368 × 10<sup>07</sup> km<sup>2</sup><br/>(0.066 Yrths)
         volume: 1.838 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 4.493 × 10<sup>22</sup> kg<br />(0.5261995689195874 Yrths)
+        mass: 4.493 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 2.445 g/cm<sup>3</sup>
         surface_gravity: 1.117 m/s<sup>2</sup><br />(0.114 g<sub>0</sub>)
         escape_velocity: 1.914 km/s<br />(6,891 km/h)
         rotation_period: 33.938 d
         axial_tilt: 22.76°
         albedo: 0.30
-        temperature: 5529 K<br />(5256 °C)
+        temperature: 318 K<br />(45 °C)
 ---

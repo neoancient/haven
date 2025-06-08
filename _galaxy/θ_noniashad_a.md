@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Noniashad A is a star in the constellation Nonias
+      θ Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 846.10 ly
 apparent_magnitude: 5.17
 absolute_magnitude: -1.90

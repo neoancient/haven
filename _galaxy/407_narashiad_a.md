@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      407 Narashiad A is a star in the constellation Naras
+      407 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 875.60 ly
 apparent_magnitude: 7.07
 absolute_magnitude: -0.08

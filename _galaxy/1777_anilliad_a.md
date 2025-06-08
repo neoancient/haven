@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1777 Anilliad A is a star in the constellation Anil
+      1777 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 406.47 ly
 apparent_magnitude: 11.73
 absolute_magnitude: 6.25

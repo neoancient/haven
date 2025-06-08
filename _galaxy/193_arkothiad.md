@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      193 Arkothiad is a star in the constellation Arkoth
+      193 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 278.98 ly
 apparent_magnitude: 14.52
 absolute_magnitude: 9.86

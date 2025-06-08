@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12381 Anilliad is a star in the constellation Anil
+      12381 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 467.51 ly
 apparent_magnitude: 11.57
 absolute_magnitude: 5.79

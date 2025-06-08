@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1952 Arniad is a star in the constellation Arni
+      1952 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1270.85 ly
 apparent_magnitude: 14.30
 absolute_magnitude: 6.35

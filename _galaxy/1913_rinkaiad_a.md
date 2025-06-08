@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1913 Rinkaiad A is a star in the constellation Rinka
+      1913 Rinkaiad A is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 398.76 ly
 apparent_magnitude: 6.85
 absolute_magnitude: 1.42

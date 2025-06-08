@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0303 Tanashad C is a star in the constellation Tanas
+      0303 Tanashad C is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 790.40 ly
 apparent_magnitude: 13.85
 absolute_magnitude: 6.93
@@ -31,14 +31,14 @@ planets:
     radius: 2,737.8 km<br/>(0.430 Yrths)
     surface_area: 9.419 × 10<sup>07</sup> km<sup>2</sup><br/>(0.185 Yrths)
     volume: 8.596 × 10<sup>10</sup> km<sup>3</sup><br/>(0.079 Yrths)
-    mass: 1.259 × 10<sup>25</sup> kg<br />(2.1085015651319265 Yrths)
+    mass: 1.259 × 10<sup>25</sup> kg<br />(2.11 Yrths)
     density: 146.486 g/cm<sup>3</sup>
     surface_gravity: 111.971 m/s<sup>2</sup><br />(11.418 g<sub>0</sub>)
     escape_velocity: 24.778 km/s<br />(89,200 km/h)
     rotation_period: 2.387 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 594 K<br />(321 °C)
+    temperature: 1272 K<br />(999 °C)
     surface_pressure: 1,315 kPa<br />(13 atm)
     composition:
       - 52.3407% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 2,033.4 km<br/>(0.319 Yrths)
         surface_area: 5.196 × 10<sup>07</sup> km<sup>2</sup><br/>(0.102 Yrths)
         volume: 3.522 × 10<sup>10</sup> km<sup>3</sup><br/>(0.033 Yrths)
-        mass: 1.268 × 10<sup>23</sup> kg<br />(2.1085015651319265 Yrths)
+        mass: 1.268 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 2.044 m/s<sup>2</sup><br />(0.208 g<sub>0</sub>)
         escape_velocity: 2.885 km/s<br />(10,386 km/h)
         rotation_period: 48.796 d
         axial_tilt: 20.84°
         albedo: 0.30
-        temperature: 6011 K<br />(5738 °C)
+        temperature: 355 K<br />(82 °C)
       - name: 0303 Tanashad C I b
         type: Asteroid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 4,441.5 km<br/>(0.697 Yrths)
         surface_area: 2.479 × 10<sup>08</sup> km<sup>2</sup><br/>(0.486 Yrths)
         volume: 3.670 × 10<sup>11</sup> km<sup>3</sup><br/>(0.339 Yrths)
-        mass: 1.057 × 10<sup>24</sup> kg<br />(2.1085015651319265 Yrths)
+        mass: 1.057 × 10<sup>24</sup> kg<br />(0.177 Yrths)
         density: 2.881 g/cm<sup>3</sup>
         surface_gravity: 3.572 m/s<sup>2</sup><br />(0.364 g<sub>0</sub>)
         escape_velocity: 5.637 km/s<br />(20,292 km/h)
         rotation_period: 49.174 d
         axial_tilt: 56.15°
         albedo: 0.30
-        temperature: 5731 K<br />(5458 °C)
+        temperature: 355 K<br />(82 °C)
       - name: 0303 Tanashad C I c
         type: Rocky
         formationType: Captured
@@ -96,12 +96,12 @@ planets:
         radius: 988.9 km<br/>(0.155 Yrths)
         surface_area: 1.229 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 4.051 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.458 × 10<sup>22</sup> kg<br />(2.1085015651319265 Yrths)
+        mass: 1.458 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 0.994 m/s<sup>2</sup><br />(0.101 g<sub>0</sub>)
         escape_velocity: 1.403 km/s<br />(5,051 km/h)
         rotation_period: 31.209 d
         axial_tilt: 10.83°
         albedo: 0.30
-        temperature: 5464 K<br />(5191 °C)
+        temperature: 355 K<br />(82 °C)
 ---

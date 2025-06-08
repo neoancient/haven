@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Emniaiad B is a star in the constellation Emnia
+      0005 Emniaiad B is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 453.13 ly
 apparent_magnitude: 10.72
 absolute_magnitude: 5.01

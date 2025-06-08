@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2681 Saithiad A is a star in the constellation Saith
+      2681 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 960.16 ly
 apparent_magnitude: 6.85
 absolute_magnitude: -0.50

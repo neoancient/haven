@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3226 Tanashad is a star in the constellation Tanas
+      3226 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 540.60 ly
 apparent_magnitude: 11.38
 absolute_magnitude: 5.29

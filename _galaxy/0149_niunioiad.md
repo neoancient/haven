@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0149 Niunioiad is a star in the constellation Niunio
+      0149 Niunioiad is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 87.89 ly
 apparent_magnitude: 6.17
 absolute_magnitude: 4.02
@@ -31,14 +31,14 @@ planets:
     radius: 12,258.8 km<br/>(1.924 Yrths)
     surface_area: 1.888 × 10<sup>09</sup> km<sup>2</sup><br/>(3.702 Yrths)
     volume: 7.717 × 10<sup>12</sup> km<sup>3</sup><br/>(7.124 Yrths)
-    mass: 4.874 × 10<sup>25</sup> kg<br />(8.161800064656704 Yrths)
+    mass: 4.874 × 10<sup>25</sup> kg<br />(8.16 Yrths)
     density: 6.316 g/cm<sup>3</sup>
     surface_gravity: 21.618 m/s<sup>2</sup><br />(2.204 g<sub>0</sub>)
     escape_velocity: 23.038 km/s<br />(82,937 km/h)
     rotation_period: 0.719 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 263 K<br />(-10 °C)
+    temperature: 316 K<br />(43 °C)
     surface_pressure: 52 kPa<br />(1 atm)
     composition:
       - 79.6201% methane
@@ -56,14 +56,14 @@ planets:
         radius: 12,521.6 km<br/>(1.965 Yrths)
         surface_area: 1.970 × 10<sup>09</sup> km<sup>2</sup><br/>(3.863 Yrths)
         volume: 8.224 × 10<sup>12</sup> km<sup>3</sup><br/>(7.592 Yrths)
-        mass: 2.570 × 10<sup>25</sup> kg<br />(8.161800064656704 Yrths)
+        mass: 2.570 × 10<sup>25</sup> kg<br />(4.304 Yrths)
         density: 3.125 g/cm<sup>3</sup>
         surface_gravity: 10.926 m/s<sup>2</sup><br />(1.114 g<sub>0</sub>)
         escape_velocity: 16.553 km/s<br />(59,589 km/h)
         rotation_period: 29.685 d
         axial_tilt: 24.06°
         albedo: 0.30
-        temperature: 2689 K<br />(2416 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 0149 Niunioiad I b
         type: Rocky
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 7,183.9 km<br/>(1.128 Yrths)
         surface_area: 6.485 × 10<sup>08</sup> km<sup>2</sup><br/>(1.271 Yrths)
         volume: 1.553 × 10<sup>12</sup> km<sup>3</sup><br/>(1.434 Yrths)
-        mass: 4.389 × 10<sup>24</sup> kg<br />(8.161800064656704 Yrths)
+        mass: 4.389 × 10<sup>24</sup> kg<br />(0.735 Yrths)
         density: 2.826 g/cm<sup>3</sup>
         surface_gravity: 5.668 m/s<sup>2</sup><br />(0.578 g<sub>0</sub>)
         escape_velocity: 9.031 km/s<br />(32,510 km/h)
         rotation_period: 33.652 d
         axial_tilt: 7.45°
         albedo: 0.30
-        temperature: 2564 K<br />(2290 °C)
+        temperature: 222 K<br />(-51 °C)
   - name: 0149 Niunioiad II
     type: Gas dwarf
     aphelion: 777,738,902 km<br />5.199 AU
@@ -95,14 +95,14 @@ planets:
     radius: 15,567.6 km<br/>(2.444 Yrths)
     surface_area: 3.045 × 10<sup>09</sup> km<sup>2</sup><br/>(5.971 Yrths)
     volume: 1.580 × 10<sup>13</sup> km<sup>3</sup><br/>(14.589 Yrths)
-    mass: 3.556 × 10<sup>25</sup> kg<br />(5.95509001973135 Yrths)
+    mass: 3.556 × 10<sup>25</sup> kg<br />(5.96 Yrths)
     density: 2.250 g/cm<sup>3</sup>
     surface_gravity: 9.781 m/s<sup>2</sup><br />(0.997 g<sub>0</sub>)
     escape_velocity: 17.463 km/s<br />(62,866 km/h)
     rotation_period: 0.507 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 225 K<br />(-48 °C)
+    temperature: 205 K<br />(-68 °C)
     composition:
       - 58.3738% hydrogen
       - 30.2624% helium
@@ -122,14 +122,14 @@ planets:
         radius: 5,424.2 km<br/>(0.851 Yrths)
         surface_area: 3.697 × 10<sup>08</sup> km<sup>2</sup><br/>(0.725 Yrths)
         volume: 6.685 × 10<sup>11</sup> km<sup>3</sup><br/>(0.617 Yrths)
-        mass: 2.123 × 10<sup>24</sup> kg<br />(5.95509001973135 Yrths)
+        mass: 2.123 × 10<sup>24</sup> kg<br />(0.355 Yrths)
         density: 3.175 g/cm<sup>3</sup>
         surface_gravity: 4.809 m/s<sup>2</sup><br />(0.490 g<sub>0</sub>)
         escape_velocity: 7.228 km/s<br />(26,020 km/h)
         rotation_period: 37.539 d
         axial_tilt: 8.76°
         albedo: 0.30
-        temperature: 1957 K<br />(1683 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0149 Niunioiad II b
         type: Icy
         formationType: Impact formed
@@ -142,14 +142,14 @@ planets:
         radius: 15,566.4 km<br/>(2.443 Yrths)
         surface_area: 3.045 × 10<sup>09</sup> km<sup>2</sup><br/>(5.970 Yrths)
         volume: 1.580 × 10<sup>13</sup> km<sup>3</sup><br/>(14.586 Yrths)
-        mass: 2.685 × 10<sup>25</sup> kg<br />(5.95509001973135 Yrths)
+        mass: 2.685 × 10<sup>25</sup> kg<br />(4.496 Yrths)
         density: 1.699 g/cm<sup>3</sup>
         surface_gravity: 7.386 m/s<sup>2</sup><br />(0.753 g<sub>0</sub>)
         escape_velocity: 15.174 km/s<br />(54,628 km/h)
         rotation_period: 58.106 d
         axial_tilt: 23.06°
         albedo: 0.30
-        temperature: 1865 K<br />(1592 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0149 Niunioiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -162,14 +162,14 @@ planets:
         radius: 11,896.1 km<br/>(1.867 Yrths)
         surface_area: 1.778 × 10<sup>09</sup> km<sup>2</sup><br/>(3.487 Yrths)
         volume: 7.052 × 10<sup>12</sup> km<sup>3</sup><br/>(6.510 Yrths)
-        mass: 1.823 × 10<sup>25</sup> kg<br />(5.95509001973135 Yrths)
+        mass: 1.823 × 10<sup>25</sup> kg<br />(3.053 Yrths)
         density: 2.585 g/cm<sup>3</sup>
         surface_gravity: 8.586 m/s<sup>2</sup><br />(0.876 g<sub>0</sub>)
         escape_velocity: 14.303 km/s<br />(51,489 km/h)
         rotation_period: 49.668 d
         axial_tilt: 21.50°
         albedo: 0.30
-        temperature: 1779 K<br />(1505 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0149 Niunioiad II d
         type: Icy
         formationType: Accreted
@@ -182,12 +182,12 @@ planets:
         radius: 8,461.1 km<br/>(1.328 Yrths)
         surface_area: 8.996 × 10<sup>08</sup> km<sup>2</sup><br/>(1.764 Yrths)
         volume: 2.537 × 10<sup>12</sup> km<sup>3</sup><br/>(2.342 Yrths)
-        mass: 4.446 × 10<sup>24</sup> kg<br />(5.95509001973135 Yrths)
+        mass: 4.446 × 10<sup>24</sup> kg<br />(0.744 Yrths)
         density: 1.752 g/cm<sup>3</sup>
         surface_gravity: 4.139 m/s<sup>2</sup><br />(0.422 g<sub>0</sub>)
         escape_velocity: 8.375 km/s<br />(30,149 km/h)
         rotation_period: 71.897 d
         axial_tilt: 23.10°
         albedo: 0.30
-        temperature: 1696 K<br />(1423 °C)
+        temperature: 159 K<br />(-114 °C)
 ---

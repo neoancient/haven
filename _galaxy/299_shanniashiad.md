@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      299 Shanniashiad is a star in the constellation Shannias
+      299 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 482.55 ly
 apparent_magnitude: 12.09
 absolute_magnitude: 6.24

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3863 Tanashad is a star in the constellation Tanas
+      3863 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 241.07 ly
 apparent_magnitude: 9.31
 absolute_magnitude: 4.96

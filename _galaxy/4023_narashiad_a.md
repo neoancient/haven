@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4023 Narashiad A is a star in the constellation Naras
+      4023 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 310.24 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 5.38

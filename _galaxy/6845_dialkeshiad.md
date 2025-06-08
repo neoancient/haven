@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6845 Dialkeshiad is a star in the constellation Dialkes
+      6845 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 192.17 ly
 apparent_magnitude: 8.63
 absolute_magnitude: 4.78

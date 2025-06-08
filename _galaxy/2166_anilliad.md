@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2166 Anilliad is a star in the constellation Anil
+      2166 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 335.84 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 5.62

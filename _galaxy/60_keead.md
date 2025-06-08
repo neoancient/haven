@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      60 Keead is a star in the constellation Kee
+      60 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 450.69 ly
 apparent_magnitude: 10.49
 absolute_magnitude: 4.79

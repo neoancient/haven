@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1569 Dialkeshiad is a star in the constellation Dialkes
+      1569 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 472.58 ly
 apparent_magnitude: 10.59
 absolute_magnitude: 4.78

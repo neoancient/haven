@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1202 Reggiad is a star in the constellation Reg
+      1202 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 393.81 ly
 apparent_magnitude: 10.80
 absolute_magnitude: 5.39

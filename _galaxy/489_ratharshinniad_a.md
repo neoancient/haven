@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      489 Ratharshinniad A is a star in the constellation Ratharshin
+      489 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 195.01 ly
 apparent_magnitude: 9.28
 absolute_magnitude: 5.40

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      472 Orshenniad A is a star in the constellation Orshen
+      472 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 402.27 ly
 apparent_magnitude: 7.86
 absolute_magnitude: 2.40

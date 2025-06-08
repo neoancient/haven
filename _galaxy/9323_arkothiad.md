@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9323 Arkothiad is a star in the constellation Arkoth
+      9323 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 541.07 ly
 apparent_magnitude: 11.89
 absolute_magnitude: 5.79

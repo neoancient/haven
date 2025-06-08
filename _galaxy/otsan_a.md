@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Otsan A is a star in the constellation Rashalth
+      Otsan A is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 488.81 ly
 apparent_magnitude: 4.41
 absolute_magnitude: -1.47

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tave D is a star in the constellation Saith
+      Tave D is a star in the constellation <a href="saith.html">Saith</a>
 distance: 674.61 ly
 apparent_magnitude: 6.09
 absolute_magnitude: -0.49

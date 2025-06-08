@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3235 Shanniashiad A is a star in the constellation Shannias
+      3235 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 516.97 ly
 apparent_magnitude: 7.15
 absolute_magnitude: 1.15

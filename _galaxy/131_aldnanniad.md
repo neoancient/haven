@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      131 Aldnanniad is a star in the constellation Aldnan
+      131 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 316.48 ly
 apparent_magnitude: 17.77
 absolute_magnitude: 12.83

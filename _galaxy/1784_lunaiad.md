@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1784 Lunaiad is a star in the constellation Luna
+      1784 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 787.84 ly
 apparent_magnitude: 11.55
 absolute_magnitude: 4.64

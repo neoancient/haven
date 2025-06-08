@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1891 Keead A is a star in the constellation Kee
+      1891 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 430.81 ly
 apparent_magnitude: 7.68
 absolute_magnitude: 2.08

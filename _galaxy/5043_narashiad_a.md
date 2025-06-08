@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5043 Narashiad A is a star in the constellation Naras
+      5043 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 584.09 ly
 apparent_magnitude: 8.37
 absolute_magnitude: 2.10

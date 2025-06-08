@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7404 Tanashad A is a star in the constellation Tanas
+      7404 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 254.26 ly
 apparent_magnitude: 8.86
 absolute_magnitude: 4.40

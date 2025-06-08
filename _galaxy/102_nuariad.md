@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      102 Nuariad is a star in the constellation Nuari
+      102 Nuariad is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 640.35 ly
 apparent_magnitude: 7.58
 absolute_magnitude: 1.11

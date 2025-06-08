@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3853 Athiad is a star in the constellation Ath
+      3853 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1395.83 ly
 apparent_magnitude: 17.96
 absolute_magnitude: 9.81

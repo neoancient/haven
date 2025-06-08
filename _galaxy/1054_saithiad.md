@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1054 Saithiad is a star in the constellation Saith
+      1054 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 263.51 ly
 apparent_magnitude: 8.92
 absolute_magnitude: 4.39

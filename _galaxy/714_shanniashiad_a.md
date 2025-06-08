@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      714 Shanniashiad A is a star in the constellation Shannias
+      714 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1027.98 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 0.66

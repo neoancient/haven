@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4532 Tanashad is a star in the constellation Tanas
+      4532 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 299.50 ly
 apparent_magnitude: 7.68
 absolute_magnitude: 2.87
@@ -31,14 +31,14 @@ planets:
     radius: 12,202.0 km<br/>(1.915 Yrths)
     surface_area: 1.871 × 10<sup>09</sup> km<sup>2</sup><br/>(3.668 Yrths)
     volume: 7.610 × 10<sup>12</sup> km<sup>3</sup><br/>(7.025 Yrths)
-    mass: 4.523 × 10<sup>25</sup> kg<br />(7.573058307731359 Yrths)
+    mass: 4.523 × 10<sup>25</sup> kg<br />(7.57 Yrths)
     density: 5.943 g/cm<sup>3</sup>
     surface_gravity: 20.246 m/s<sup>2</sup><br />(2.065 g<sub>0</sub>)
     escape_velocity: 22.243 km/s<br />(80,076 km/h)
     rotation_period: 0.878 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 297 K<br />(24 °C)
+    temperature: 411 K<br />(137 °C)
     surface_pressure: 47 kPa<br />(0 atm)
     composition:
       - 91.5575% methane
@@ -58,14 +58,14 @@ planets:
         radius: 9,094.4 km<br/>(1.427 Yrths)
         surface_area: 1.039 × 10<sup>09</sup> km<sup>2</sup><br/>(2.038 Yrths)
         volume: 3.151 × 10<sup>12</sup> km<sup>3</sup><br/>(2.909 Yrths)
-        mass: 9.270 × 10<sup>24</sup> kg<br />(7.573058307731359 Yrths)
+        mass: 9.270 × 10<sup>24</sup> kg<br />(1.552 Yrths)
         density: 2.942 g/cm<sup>3</sup>
         surface_gravity: 7.471 m/s<sup>2</sup><br />(0.762 g<sub>0</sub>)
         escape_velocity: 11.665 km/s<br />(41,993 km/h)
         rotation_period: 32.942 d
         axial_tilt: 6.31°
         albedo: 0.30
-        temperature: 3394 K<br />(3121 °C)
+        temperature: 247 K<br />(-26 °C)
       - name: 4532 Tanashad I b
         type: Rocky
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 11,070.7 km<br/>(1.738 Yrths)
         surface_area: 1.540 × 10<sup>09</sup> km<sup>2</sup><br/>(3.019 Yrths)
         volume: 5.683 × 10<sup>12</sup> km<sup>3</sup><br/>(5.247 Yrths)
-        mass: 1.901 × 10<sup>25</sup> kg<br />(7.573058307731359 Yrths)
+        mass: 1.901 × 10<sup>25</sup> kg<br />(3.183 Yrths)
         density: 3.344 g/cm<sup>3</sup>
         surface_gravity: 10.337 m/s<sup>2</sup><br />(1.054 g<sub>0</sub>)
         escape_velocity: 15.139 km/s<br />(54,500 km/h)
         rotation_period: 44.910 d
         axial_tilt: 13.36°
         albedo: 0.30
-        temperature: 3236 K<br />(2963 °C)
+        temperature: 247 K<br />(-26 °C)
   - name: 4532 Tanashad II
     type: Large terrestrial
     aphelion: 1,055,362,411 km<br />7.055 AU
@@ -97,14 +97,14 @@ planets:
     radius: 7,950.0 km<br/>(1.248 Yrths)
     surface_area: 7.942 × 10<sup>08</sup> km<sup>2</sup><br/>(1.557 Yrths)
     volume: 2.105 × 10<sup>12</sup> km<sup>3</sup><br/>(1.943 Yrths)
-    mass: 1.485 × 10<sup>25</sup> kg<br />(2.4862087721568105 Yrths)
+    mass: 1.485 × 10<sup>25</sup> kg<br />(2.49 Yrths)
     density: 7.054 g/cm<sup>3</sup>
     surface_gravity: 15.658 m/s<sup>2</sup><br />(1.597 g<sub>0</sub>)
     escape_velocity: 15.789 km/s<br />(56,841 km/h)
     rotation_period: 0.943 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 222 K<br />(-51 °C)
+    temperature: 258 K<br />(-15 °C)
     surface_pressure: 166 kPa<br />(2 atm)
     composition:
       - 75.5940% methane
@@ -124,14 +124,14 @@ planets:
         radius: 4,459.9 km<br/>(0.700 Yrths)
         surface_area: 2.500 × 10<sup>08</sup> km<sup>2</sup><br/>(0.490 Yrths)
         volume: 3.716 × 10<sup>11</sup> km<sup>3</sup><br/>(0.343 Yrths)
-        mass: 1.089 × 10<sup>24</sup> kg<br />(2.4862087721568105 Yrths)
+        mass: 1.089 × 10<sup>24</sup> kg<br />(0.182 Yrths)
         density: 2.931 g/cm<sup>3</sup>
         surface_gravity: 3.649 m/s<sup>2</sup><br />(0.372 g<sub>0</sub>)
         escape_velocity: 5.709 km/s<br />(20,554 km/h)
         rotation_period: 38.729 d
         axial_tilt: 12.89°
         albedo: 0.30
-        temperature: 2812 K<br />(2539 °C)
+        temperature: 174 K<br />(-99 °C)
       - name: 4532 Tanashad II b
         type: Rocky
         formationType: Impact formed
@@ -144,14 +144,14 @@ planets:
         radius: 3,189.5 km<br/>(0.501 Yrths)
         surface_area: 1.278 × 10<sup>08</sup> km<sup>2</sup><br/>(0.251 Yrths)
         volume: 1.359 × 10<sup>11</sup> km<sup>3</sup><br/>(0.125 Yrths)
-        mass: 4.105 × 10<sup>23</sup> kg<br />(2.4862087721568105 Yrths)
+        mass: 4.105 × 10<sup>23</sup> kg<br />(0.069 Yrths)
         density: 3.020 g/cm<sup>3</sup>
         surface_gravity: 2.690 m/s<sup>2</sup><br />(0.274 g<sub>0</sub>)
         escape_velocity: 4.145 km/s<br />(14,922 km/h)
         rotation_period: 54.037 d
         axial_tilt: 15.92°
         albedo: 0.30
-        temperature: 2681 K<br />(2408 °C)
+        temperature: 174 K<br />(-99 °C)
       - name: 4532 Tanashad II c
         type: Rocky
         formationType: Accreted
@@ -164,12 +164,12 @@ planets:
         radius: 408.9 km<br/>(0.064 Yrths)
         surface_area: 2.102 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.865 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 8.882 × 10<sup>20</sup> kg<br />(2.4862087721568105 Yrths)
+        mass: 8.882 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.101 g/cm<sup>3</sup>
         surface_gravity: 0.354 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.538 km/s<br />(1,938 km/h)
         rotation_period: 30.950 d
         axial_tilt: 23.01°
         albedo: 0.30
-        temperature: 2556 K<br />(2283 °C)
+        temperature: 174 K<br />(-99 °C)
 ---

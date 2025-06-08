@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1032 Lunaiad A is a star in the constellation Luna
+      1032 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 404.47 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 2.37

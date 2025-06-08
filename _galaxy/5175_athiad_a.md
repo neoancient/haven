@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5175 Athiad A is a star in the constellation Ath
+      5175 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 511.65 ly
 apparent_magnitude: 8.38
 absolute_magnitude: 2.40

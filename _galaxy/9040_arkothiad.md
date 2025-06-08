@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9040 Arkothiad is a star in the constellation Arkoth
+      9040 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 498.38 ly
 apparent_magnitude: 11.25
 absolute_magnitude: 5.33

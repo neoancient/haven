@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7827 Dialkeshiad is a star in the constellation Dialkes
+      7827 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 252.04 ly
 apparent_magnitude: 10.74
 absolute_magnitude: 6.30

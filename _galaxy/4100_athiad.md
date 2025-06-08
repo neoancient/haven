@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4100 Athiad is a star in the constellation Ath
+      4100 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 515.99 ly
 apparent_magnitude: 12.20
 absolute_magnitude: 6.20

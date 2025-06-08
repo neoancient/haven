@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      993 Shanniashiad is a star in the constellation Shannias
+      993 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1066.90 ly
 apparent_magnitude: 17.58
 absolute_magnitude: 10.01

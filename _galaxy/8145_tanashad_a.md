@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8145 Tanashad A is a star in the constellation Tanas
+      8145 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 191.53 ly
 apparent_magnitude: 7.63
 absolute_magnitude: 3.79

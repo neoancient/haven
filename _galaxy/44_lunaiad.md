@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      44 Lunaiad is a star in the constellation Luna
+      44 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 268.27 ly
 apparent_magnitude: 10.36
 absolute_magnitude: 5.79

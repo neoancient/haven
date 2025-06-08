@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0138 Kinanniad B is a star in the constellation Kinan
+      0138 Kinanniad B is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 259.61 ly
 apparent_magnitude: 9.93
 absolute_magnitude: 5.42

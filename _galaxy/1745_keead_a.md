@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1745 Keead A is a star in the constellation Kee
+      1745 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 447.59 ly
 apparent_magnitude: 7.24
 absolute_magnitude: 1.56

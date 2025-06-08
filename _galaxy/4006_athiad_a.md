@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4006 Athiad A is a star in the constellation Ath
+      4006 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 315.63 ly
 apparent_magnitude: 11.18
 absolute_magnitude: 6.25

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      547 Saithiad is a star in the constellation Saith
+      547 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1070.47 ly
 apparent_magnitude: 11.20
 absolute_magnitude: 3.61

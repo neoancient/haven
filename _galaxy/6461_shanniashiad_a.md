@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6461 Shanniashiad A is a star in the constellation Shannias
+      6461 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 243.42 ly
 apparent_magnitude: 10.37
 absolute_magnitude: 6.00

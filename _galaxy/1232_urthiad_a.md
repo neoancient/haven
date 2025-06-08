@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1232 Urthiad A is a star in the constellation Urth
+      1232 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 330.84 ly
 apparent_magnitude: 9.31
 absolute_magnitude: 4.28

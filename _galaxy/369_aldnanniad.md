@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      369 Aldnanniad is a star in the constellation Aldnan
+      369 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 487.56 ly
 apparent_magnitude: 11.49
 absolute_magnitude: 5.62

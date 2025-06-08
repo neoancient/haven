@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1637 Arniad A is a star in the constellation Arni
+      1637 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 841.77 ly
 apparent_magnitude: 7.07
 absolute_magnitude: 0.01

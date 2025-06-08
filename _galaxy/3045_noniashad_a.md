@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3045 Noniashad A is a star in the constellation Nonias
+      3045 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 399.15 ly
 apparent_magnitude: 7.78
 absolute_magnitude: 2.34

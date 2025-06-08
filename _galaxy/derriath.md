@@ -7,7 +7,7 @@ sections:
   - content: >-
       Derriath is a constellation representing a Herald.
 stars:
-  - name:
+  - name: <a href="derrigan.html">Derrigan</a>
     designation: α Derriathiad
     ra: 22<sup>h</sup> 12<sup>m</sup> 14.10<sup>s</sup>
     dec: -15° 52' 59.13"
@@ -15,7 +15,7 @@ stars:
     absolute_magnitude: 1.25
     distance: 69.74
     spectral_class: F5II
-  - name:
+  - name: <a href="derrinelm.html">Derrinelm</a>
     designation: β Derriathiad
     ra: 21<sup>h</sup> 57<sup>m</sup> 4.74<sup>s</sup>
     dec: -18° 37' 33.66"
@@ -24,7 +24,7 @@ stars:
     distance: 158.74
     spectral_class: A6III
   - name:
-    designation: γ Derriathiad
+    designation: <a href="γ_derriathiad.html">γ Derriathiad</a>
     ra: 22<sup>h</sup> 26<sup>m</sup> 20.96<sup>s</sup>
     dec: -13° 45' 46.00"
     apparent_magnitude: 3.27
@@ -88,7 +88,7 @@ stars:
     distance: 332.89
     spectral_class: A4III + A7V
   - name:
-    designation: λ Derriathiad
+    designation: <a href="λ_derriathiad.html">λ Derriathiad</a>
     ra: 21<sup>h</sup> 57<sup>m</sup> 33.30<sup>s</sup>
     dec: -23° 25' 59.66"
     apparent_magnitude: 4.05
@@ -248,7 +248,7 @@ stars:
     distance: 656.84
     spectral_class: A6II
   - name:
-    designation: 0047 Derriathiad
+    designation: <a href="0047_derriathiad.html">0047 Derriathiad</a>
     ra: 22<sup>h</sup> 32<sup>m</sup> 31.10<sup>s</sup>
     dec: -10° 45' 47.84"
     apparent_magnitude: 5.56
@@ -296,7 +296,7 @@ stars:
     distance: 605.60
     spectral_class: A5III
   - name:
-    designation: 0035 Derriathiad
+    designation: <a href="0035_derriathiad.html">0035 Derriathiad</a>
     ra: 22<sup>h</sup> 56<sup>m</sup> 40.32<sup>s</sup>
     dec: -16° 15' 58.76"
     apparent_magnitude: 5.80
@@ -312,7 +312,7 @@ stars:
     distance: 74.59
     spectral_class: F0V + M9III + F6V
   - name:
-    designation: 0057 Derriathiad
+    designation: <a href="0057_derriathiad.html">0057 Derriathiad</a>
     ra: 23<sup>h</sup> 56<sup>m</sup> 59.27<sup>s</sup>
     dec: -5° 43' 6.48"
     apparent_magnitude: 5.82
@@ -360,7 +360,7 @@ stars:
     distance: 2,266.78
     spectral_class: B2V + DA
   - name:
-    designation: 0007 Derriathiad
+    designation: <a href="0007_derriathiad.html">0007 Derriathiad</a>
     ra: 21<sup>h</sup> 30<sup>m</sup> 41.31<sup>s</sup>
     dec: -21° 54' 7.32"
     apparent_magnitude: 5.97
@@ -456,7 +456,7 @@ stars:
     distance: 101.20
     spectral_class: A9V
   - name:
-    designation: 0028 Derriathiad
+    designation: <a href="0028_derriathiad.html">0028 Derriathiad</a>
     ra: 21<sup>h</sup> 35<sup>m</sup> 46.28<sup>s</sup>
     dec: -14° 32' 50.58"
     apparent_magnitude: 6.14
@@ -472,7 +472,7 @@ stars:
     distance: 1,761.50
     spectral_class: B7V + K1III
   - name:
-    designation: 0011 Derriathiad
+    designation: <a href="0011_derriathiad.html">0011 Derriathiad</a>
     ra: 22<sup>h</sup> 37<sup>m</sup> 12.82<sup>s</sup>
     dec: -19° 12' 40.75"
     apparent_magnitude: 6.14
@@ -480,7 +480,7 @@ stars:
     distance: 230.16
     spectral_class: A9V + F7III + K7V
   - name:
-    designation: 0024 Derriathiad
+    designation: <a href="0024_derriathiad.html">0024 Derriathiad</a>
     ra: 22<sup>h</sup> 12<sup>m</sup> 25.94<sup>s</sup>
     dec: -15° 36' 58.21"
     apparent_magnitude: 6.15
@@ -496,7 +496,7 @@ stars:
     distance: 424.59
     spectral_class: A7III
   - name:
-    designation: 0063 Derriathiad
+    designation: <a href="0063_derriathiad.html">0063 Derriathiad</a>
     ra: 23<sup>h</sup> 06<sup>m</sup> 13.30<sup>s</sup>
     dec: -4° 45' 32.18"
     apparent_magnitude: 6.17
@@ -512,7 +512,7 @@ stars:
     distance: 2,188.16
     spectral_class: B5V + K7III
   - name:
-    designation: 0050 Derriathiad
+    designation: <a href="0050_derriathiad.html">0050 Derriathiad</a>
     ra: 23<sup>h</sup> 00<sup>m</sup> 4.72<sup>s</sup>
     dec: -7° 18' 33.97"
     apparent_magnitude: 6.20
@@ -544,7 +544,7 @@ stars:
     distance: 248.67
     spectral_class: A1V
   - name:
-    designation: 0059 Derriathiad
+    designation: <a href="0059_derriathiad.html">0059 Derriathiad</a>
     ra: 21<sup>h</sup> 31<sup>m</sup> 35.74<sup>s</sup>
     dec: -4° 36' 12.80"
     apparent_magnitude: 6.23
@@ -568,7 +568,7 @@ stars:
     distance: 357.92
     spectral_class: F3II
   - name:
-    designation: 0012 Derriathiad
+    designation: <a href="0012_derriathiad.html">0012 Derriathiad</a>
     ra: 23<sup>h</sup> 10<sup>m</sup> 54.55<sup>s</sup>
     dec: -20° 13' 15.26"
     apparent_magnitude: 6.25
@@ -672,7 +672,7 @@ stars:
     distance: 1,522.12
     spectral_class: A4II + M5III
   - name:
-    designation: 0010 Derriathiad
+    designation: <a href="0010_derriathiad.html">0010 Derriathiad</a>
     ra: 22<sup>h</sup> 14<sup>m</sup> 7.19<sup>s</sup>
     dec: -22° 53' 13.15"
     apparent_magnitude: 6.44
@@ -688,7 +688,7 @@ stars:
     distance: 195.02
     spectral_class: A5V
   - name:
-    designation: 0017 Derriathiad
+    designation: <a href="0017_derriathiad.html">0017 Derriathiad</a>
     ra: 23<sup>h</sup> 47<sup>m</sup> 28.70<sup>s</sup>
     dec: -20° 35' 6.35"
     apparent_magnitude: 6.45

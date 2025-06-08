@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1448 Orshenniad A is a star in the constellation Orshen
+      1448 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 506.43 ly
 apparent_magnitude: 7.73
 absolute_magnitude: 1.77

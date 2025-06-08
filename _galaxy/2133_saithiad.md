@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2133 Saithiad is a star in the constellation Saith
+      2133 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1129.46 ly
 apparent_magnitude: 14.05
 absolute_magnitude: 6.35

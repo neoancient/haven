@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      819 Keead is a star in the constellation Kee
+      819 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 424.22 ly
 apparent_magnitude: 11.81
 absolute_magnitude: 6.24

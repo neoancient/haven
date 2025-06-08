@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5963 Tanashad is a star in the constellation Tanas
+      5963 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1177.49 ly
 apparent_magnitude: 12.38
 absolute_magnitude: 4.59

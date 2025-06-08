@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2321 Saithiad is a star in the constellation Saith
+      2321 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 698.09 ly
 apparent_magnitude: 11.85
 absolute_magnitude: 5.20

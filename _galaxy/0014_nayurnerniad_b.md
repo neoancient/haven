@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0014 Nayurnerniad B is a star in the constellation Nayunern
+      0014 Nayurnerniad B is a star in the constellation <a href="nayunern.html">Nayunern</a>
 distance: 514.78 ly
 apparent_magnitude: 11.00
 absolute_magnitude: 5.01

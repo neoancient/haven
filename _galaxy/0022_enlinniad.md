@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0022 Enlinniad is a star in the constellation Enlin
+      0022 Enlinniad is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 719.73 ly
 apparent_magnitude: 6.12
 absolute_magnitude: -0.60
@@ -31,14 +31,14 @@ planets:
     radius: 213.7 km<br/>(0.034 Yrths)
     surface_area: 5.741 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.091 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.354 × 10<sup>27</sup> kg<br />(226.74753006491724 Yrths)
+    mass: 1.354 × 10<sup>27</sup> kg<br />(226.75 Yrths)
     density: 33102265.560 g/cm<sup>3</sup>
     surface_gravity: 1975457.815 m/s<sup>2</sup><br />(201440.636 g<sub>0</sub>)
     escape_velocity: 919.595 km/s<br />(3,310,540 km/h)
     rotation_period: 0.242 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2548 K<br />(2275 °C)
+    temperature: 2441 K<br />(2168 °C)
     composition:
       - 74.9936% hydrogen
       - 22.1121% helium
@@ -57,14 +57,14 @@ planets:
         radius: 189,563.2 km<br/>(29.754 Yrths)
         surface_area: 4.516 × 10<sup>11</sup> km<sup>2</sup><br/>(885.304 Yrths)
         volume: 2.853 × 10<sup>16</sup> km<sup>3</sup><br/>(26341.407 Yrths)
-        mass: 5.708 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 5.708 × 10<sup>28</sup> kg<br />(9557.971 Yrths)
         density: 2.000 g/cm<sup>3</sup>
         surface_gravity: 105.875 m/s<sup>2</sup><br />(10.796 g<sub>0</sub>)
         escape_velocity: 200.486 km/s<br />(721,749 km/h)
         rotation_period: 58.439 d
         axial_tilt: 20.51°
         albedo: 0.30
-        temperature: 3661 K<br />(3388 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I b
         type: Icy
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 181,330.4 km<br/>(28.462 Yrths)
         surface_area: 4.132 × 10<sup>11</sup> km<sup>2</sup><br/>(810.077 Yrths)
         volume: 2.497 × 10<sup>16</sup> km<sup>3</sup><br/>(23056.276 Yrths)
-        mass: 3.138 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 3.138 × 10<sup>28</sup> kg<br />(5254.022 Yrths)
         density: 1.256 g/cm<sup>3</sup>
         surface_gravity: 63.604 m/s<sup>2</sup><br />(6.486 g<sub>0</sub>)
         escape_velocity: 151.981 km/s<br />(547,130 km/h)
         rotation_period: 83.418 d
         axial_tilt: 22.48°
         albedo: 0.30
-        temperature: 3174 K<br />(2900 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 279,575.0 km<br/>(43.882 Yrths)
         surface_area: 9.822 × 10<sup>11</sup> km<sup>2</sup><br/>(1925.668 Yrths)
         volume: 9.153 × 10<sup>16</sup> km<sup>3</sup><br/>(84503.007 Yrths)
-        mass: 2.056 × 10<sup>29</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 2.056 × 10<sup>29</sup> kg<br />(34426.631 Yrths)
         density: 2.246 g/cm<sup>3</sup>
         surface_gravity: 175.321 m/s<sup>2</sup><br />(17.878 g<sub>0</sub>)
         escape_velocity: 313.311 km/s<br />(1,127,920 km/h)
         rotation_period: 48.211 d
         axial_tilt: 17.73°
         albedo: 0.30
-        temperature: 2751 K<br />(2478 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 112,900.3 km<br/>(17.721 Yrths)
         surface_area: 1.602 × 10<sup>11</sup> km<sup>2</sup><br/>(314.033 Yrths)
         volume: 6.028 × 10<sup>15</sup> km<sup>3</sup><br/>(5564.972 Yrths)
-        mass: 1.377 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 1.377 × 10<sup>28</sup> kg<br />(2305.264 Yrths)
         density: 2.284 g/cm<sup>3</sup>
         surface_gravity: 71.989 m/s<sup>2</sup><br />(7.341 g<sub>0</sub>)
         escape_velocity: 127.582 km/s<br />(459,296 km/h)
         rotation_period: 43.391 d
         axial_tilt: 32.39°
         albedo: 0.30
-        temperature: 2273 K<br />(2000 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I e
         type: Icy
         formationType: Impact formed
@@ -137,14 +137,14 @@ planets:
         radius: 150,867.1 km<br/>(23.680 Yrths)
         surface_area: 2.860 × 10<sup>11</sup> km<sup>2</sup><br/>(560.756 Yrths)
         volume: 1.438 × 10<sup>16</sup> km<sup>3</sup><br/>(13278.864 Yrths)
-        mass: 2.208 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 2.208 × 10<sup>28</sup> kg<br />(3696.566 Yrths)
         density: 1.535 g/cm<sup>3</sup>
         surface_gravity: 64.647 m/s<sup>2</sup><br />(6.592 g<sub>0</sub>)
         escape_velocity: 139.759 km/s<br />(503,132 km/h)
         rotation_period: 43.464 d
         axial_tilt: 18.96°
         albedo: 0.30
-        temperature: 1553 K<br />(1280 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I f
         type: Icy
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 171,698.0 km<br/>(26.950 Yrths)
         surface_area: 3.705 × 10<sup>11</sup> km<sup>2</sup><br/>(726.299 Yrths)
         volume: 2.120 × 10<sup>16</sup> km<sup>3</sup><br/>(19573.712 Yrths)
-        mass: 2.367 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 2.367 × 10<sup>28</sup> kg<br />(3963.339 Yrths)
         density: 1.116 g/cm<sup>3</sup>
         surface_gravity: 53.514 m/s<sup>2</sup><br />(5.457 g<sub>0</sub>)
         escape_velocity: 135.652 km/s<br />(488,347 km/h)
         rotation_period: 52.582 d
         axial_tilt: 8.04°
         albedo: 0.30
-        temperature: 1481 K<br />(1207 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I g
         type: Icy
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 126,614.9 km<br/>(19.874 Yrths)
         surface_area: 2.015 × 10<sup>11</sup> km<sup>2</sup><br/>(394.961 Yrths)
         volume: 8.502 × 10<sup>15</sup> km<sup>3</sup><br/>(7849.316 Yrths)
-        mass: 1.463 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 1.463 × 10<sup>28</sup> kg<br />(2449.059 Yrths)
         density: 1.720 g/cm<sup>3</sup>
         surface_gravity: 60.809 m/s<sup>2</sup><br />(6.201 g<sub>0</sub>)
         escape_velocity: 124.175 km/s<br />(447,031 km/h)
         rotation_period: 47.895 d
         axial_tilt: 10.13°
         albedo: 0.30
-        temperature: 1346 K<br />(1073 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -197,14 +197,14 @@ planets:
         radius: 128,274.8 km<br/>(20.134 Yrths)
         surface_area: 2.068 × 10<sup>11</sup> km<sup>2</sup><br/>(405.385 Yrths)
         volume: 8.841 × 10<sup>15</sup> km<sup>3</sup><br/>(8162.082 Yrths)
-        mass: 1.506 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 1.506 × 10<sup>28</sup> kg<br />(2522.111 Yrths)
         density: 1.704 g/cm<sup>3</sup>
         surface_gravity: 61.012 m/s<sup>2</sup><br />(6.222 g<sub>0</sub>)
         escape_velocity: 125.196 km/s<br />(450,704 km/h)
         rotation_period: 55.826 d
         axial_tilt: 32.23°
         albedo: 0.30
-        temperature: 1224 K<br />(950 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -217,14 +217,14 @@ planets:
         radius: 147,994.4 km<br/>(23.229 Yrths)
         surface_area: 2.752 × 10<sup>11</sup> km<sup>2</sup><br/>(539.605 Yrths)
         volume: 1.358 × 10<sup>16</sup> km<sup>3</sup><br/>(12534.685 Yrths)
-        mass: 3.378 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 3.378 × 10<sup>28</sup> kg<br />(5656.280 Yrths)
         density: 2.488 g/cm<sup>3</sup>
         surface_gravity: 102.796 m/s<sup>2</sup><br />(10.482 g<sub>0</sub>)
         escape_velocity: 174.550 km/s<br />(628,381 km/h)
         rotation_period: 40.798 d
         axial_tilt: 20.52°
         albedo: 0.30
-        temperature: 1112 K<br />(839 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -237,14 +237,14 @@ planets:
         radius: 143,048.8 km<br/>(22.453 Yrths)
         surface_area: 2.571 × 10<sup>11</sup> km<sup>2</sup><br/>(504.142 Yrths)
         volume: 1.226 × 10<sup>16</sup> km<sup>3</sup><br/>(11319.563 Yrths)
-        mass: 2.733 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 2.733 × 10<sup>28</sup> kg<br />(4576.157 Yrths)
         density: 2.229 g/cm<sup>3</sup>
         surface_gravity: 89.016 m/s<sup>2</sup><br />(9.077 g<sub>0</sub>)
         escape_velocity: 159.693 km/s<br />(574,895 km/h)
         rotation_period: 49.041 d
         axial_tilt: 19.71°
         albedo: 0.30
-        temperature: 1061 K<br />(787 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -257,14 +257,14 @@ planets:
         radius: 125,498.9 km<br/>(19.698 Yrths)
         surface_area: 1.979 × 10<sup>11</sup> km<sup>2</sup><br/>(388.029 Yrths)
         volume: 8.280 × 10<sup>15</sup> km<sup>3</sup><br/>(7643.584 Yrths)
-        mass: 2.252 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 2.252 × 10<sup>28</sup> kg<br />(3771.724 Yrths)
         density: 2.721 g/cm<sup>3</sup>
         surface_gravity: 95.323 m/s<sup>2</sup><br />(9.720 g<sub>0</sub>)
         escape_velocity: 154.785 km/s<br />(557,225 km/h)
         rotation_period: 33.152 d
         axial_tilt: 20.26°
         albedo: 0.30
-        temperature: 876 K<br />(603 °C)
+        temperature: 600 K<br />(327 °C)
       - name: 0022 Enlinniad I l
         type: Icy
         formationType: Captured
@@ -277,14 +277,14 @@ planets:
         radius: 142,614.9 km<br/>(22.385 Yrths)
         surface_area: 2.556 × 10<sup>11</sup> km<sup>2</sup><br/>(501.089 Yrths)
         volume: 1.215 × 10<sup>16</sup> km<sup>3</sup><br/>(11216.875 Yrths)
-        mass: 2.036 × 10<sup>28</sup> kg<br />(226.74753006491724 Yrths)
+        mass: 2.036 × 10<sup>28</sup> kg<br />(3408.579 Yrths)
         density: 1.675 g/cm<sup>3</sup>
         surface_gravity: 66.708 m/s<sup>2</sup><br />(6.802 g<sub>0</sub>)
         escape_velocity: 138.033 km/s<br />(496,918 km/h)
         rotation_period: 40.422 d
         axial_tilt: 22.30°
         albedo: 0.30
-        temperature: 836 K<br />(563 °C)
+        temperature: 600 K<br />(327 °C)
   - name: 0022 Enlinniad II
     type: Gas giant
     aphelion: 1,267,294,339 km<br />8.471 AU
@@ -296,14 +296,14 @@ planets:
     radius: 215.8 km<br/>(0.034 Yrths)
     surface_area: 5.851 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.208 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.398 × 10<sup>27</sup> kg<br />(234.06120859235483 Yrths)
+    mass: 1.398 × 10<sup>27</sup> kg<br />(234.06 Yrths)
     density: 33218334.913 g/cm<sup>3</sup>
     surface_gravity: 2001136.960 m/s<sup>2</sup><br />(204059.180 g<sub>0</sub>)
     escape_velocity: 929.919 km/s<br />(3,347,710 km/h)
     rotation_period: 0.241 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1812 K<br />(1539 °C)
+    temperature: 1826 K<br />(1552 °C)
     composition:
       - 56.5912% helium
       - 26.4583% hydrogen
@@ -324,14 +324,14 @@ planets:
         radius: 193,827.6 km<br/>(30.423 Yrths)
         surface_area: 4.721 × 10<sup>11</sup> km<sup>2</sup><br/>(925.585 Yrths)
         volume: 3.050 × 10<sup>16</sup> km<sup>3</sup><br/>(28159.461 Yrths)
-        mass: 4.395 × 10<sup>28</sup> kg<br />(234.06120859235483 Yrths)
+        mass: 4.395 × 10<sup>28</sup> kg<br />(7359.437 Yrths)
         density: 1.441 g/cm<sup>3</sup>
         surface_gravity: 77.974 m/s<sup>2</sup><br />(7.951 g<sub>0</sub>)
         escape_velocity: 173.977 km/s<br />(626,318 km/h)
         rotation_period: 43.822 d
         axial_tilt: 22.11°
         albedo: 0.30
-        temperature: 1366 K<br />(1093 °C)
+        temperature: 416 K<br />(143 °C)
       - name: 0022 Enlinniad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -344,14 +344,14 @@ planets:
         radius: 165,292.7 km<br/>(25.945 Yrths)
         surface_area: 3.433 × 10<sup>11</sup> km<sup>2</sup><br/>(673.119 Yrths)
         volume: 1.892 × 10<sup>16</sup> km<sup>3</sup><br/>(17463.774 Yrths)
-        mass: 4.142 × 10<sup>28</sup> kg<br />(234.06120859235483 Yrths)
+        mass: 4.142 × 10<sup>28</sup> kg<br />(6935.934 Yrths)
         density: 2.190 g/cm<sup>3</sup>
         surface_gravity: 101.049 m/s<sup>2</sup><br />(10.304 g<sub>0</sub>)
         escape_velocity: 182.896 km/s<br />(658,424 km/h)
         rotation_period: 39.535 d
         axial_tilt: 13.60°
         albedo: 0.30
-        temperature: 1129 K<br />(856 °C)
+        temperature: 416 K<br />(143 °C)
       - name: 0022 Enlinniad II c
         type: Rocky
         formationType: Accreted
@@ -364,14 +364,14 @@ planets:
         radius: 141,842.1 km<br/>(22.264 Yrths)
         surface_area: 2.528 × 10<sup>11</sup> km<sup>2</sup><br/>(495.673 Yrths)
         volume: 1.195 × 10<sup>16</sup> km<sup>3</sup><br/>(11035.511 Yrths)
-        mass: 3.617 × 10<sup>28</sup> kg<br />(234.06120859235483 Yrths)
+        mass: 3.617 × 10<sup>28</sup> kg<br />(6056.379 Yrths)
         density: 3.026 g/cm<sup>3</sup>
         surface_gravity: 119.823 m/s<sup>2</sup><br />(12.219 g<sub>0</sub>)
         escape_velocity: 184.494 km/s<br />(664,178 km/h)
         rotation_period: 35.485 d
         axial_tilt: 16.83°
         albedo: 0.30
-        temperature: 848 K<br />(575 °C)
+        temperature: 416 K<br />(143 °C)
       - name: 0022 Enlinniad II d
         type: Icy
         formationType: Captured
@@ -384,14 +384,14 @@ planets:
         radius: 183,815.5 km<br/>(28.852 Yrths)
         surface_area: 4.246 × 10<sup>11</sup> km<sup>2</sup><br/>(832.432 Yrths)
         volume: 2.602 × 10<sup>16</sup> km<sup>3</sup><br/>(24017.247 Yrths)
-        mass: 2.437 × 10<sup>28</sup> kg<br />(234.06120859235483 Yrths)
+        mass: 2.437 × 10<sup>28</sup> kg<br />(4080.016 Yrths)
         density: 0.937 g/cm<sup>3</sup>
         surface_gravity: 48.066 m/s<sup>2</sup><br />(4.901 g<sub>0</sub>)
         escape_velocity: 133.020 km/s<br />(478,873 km/h)
         rotation_period: 59.390 d
         axial_tilt: 11.52°
         albedo: 0.30
-        temperature: 735 K<br />(462 °C)
+        temperature: 416 K<br />(143 °C)
       - name: 0022 Enlinniad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -404,14 +404,14 @@ planets:
         radius: 138,930.4 km<br/>(21.807 Yrths)
         surface_area: 2.426 × 10<sup>11</sup> km<sup>2</sup><br/>(475.532 Yrths)
         volume: 1.123 × 10<sup>16</sup> km<sup>3</sup><br/>(10369.779 Yrths)
-        mass: 2.614 × 10<sup>28</sup> kg<br />(234.06120859235483 Yrths)
+        mass: 2.614 × 10<sup>28</sup> kg<br />(4376.900 Yrths)
         density: 2.327 g/cm<sup>3</sup>
         surface_gravity: 90.263 m/s<sup>2</sup><br />(9.204 g<sub>0</sub>)
         escape_velocity: 158.476 km/s<br />(570,512 km/h)
         rotation_period: 38.482 d
         axial_tilt: 24.01°
         albedo: 0.30
-        temperature: 669 K<br />(395 °C)
+        temperature: 416 K<br />(143 °C)
       - name: 0022 Enlinniad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -424,14 +424,14 @@ planets:
         radius: 292,486.4 km<br/>(45.909 Yrths)
         surface_area: 1.075 × 10<sup>12</sup> km<sup>2</sup><br/>(2107.639 Yrths)
         volume: 1.048 × 10<sup>17</sup> km<sup>3</sup><br/>(96759.679 Yrths)
-        mass: 2.935 × 10<sup>29</sup> kg<br />(234.06120859235483 Yrths)
+        mass: 2.935 × 10<sup>29</sup> kg<br />(49141.010 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 228.649 m/s<sup>2</sup><br />(23.316 g<sub>0</sub>)
         escape_velocity: 365.971 km/s<br />(1,317,496 km/h)
         rotation_period: 34.311 d
         axial_tilt: 15.24°
         albedo: 0.30
-        temperature: 502 K<br />(229 °C)
+        temperature: 416 K<br />(143 °C)
   - name: 0022 Enlinniad III
     type: Gas giant
     aphelion: 1,552,491,868 km<br />10.378 AU
@@ -443,14 +443,14 @@ planets:
     radius: 265.5 km<br/>(0.042 Yrths)
     surface_area: 8.857 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.838 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.389 × 10<sup>27</sup> kg<br />(567.521940624621 Yrths)
+    mass: 3.389 × 10<sup>27</sup> kg<br />(567.52 Yrths)
     density: 43242051.050 g/cm<sup>3</sup>
     surface_gravity: 3205138.749 m/s<sup>2</sup><br />(326833.195 g<sub>0</sub>)
     escape_velocity: 1305.423 km/s<br />(4,699,522 km/h)
     rotation_period: 0.221 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1242 K<br />(969 °C)
+    temperature: 1211 K<br />(938 °C)
     composition:
       - 89.2085% hydrogen
       - 6.8206% helium
@@ -468,14 +468,14 @@ planets:
         radius: 270,166.3 km<br/>(42.406 Yrths)
         surface_area: 9.172 × 10<sup>11</sup> km<sup>2</sup><br/>(1798.238 Yrths)
         volume: 8.260 × 10<sup>16</sup> km<sup>3</sup><br/>(76255.452 Yrths)
-        mass: 1.657 × 10<sup>29</sup> kg<br />(567.521940624621 Yrths)
+        mass: 1.657 × 10<sup>29</sup> kg<br />(27739.662 Yrths)
         density: 2.006 g/cm<sup>3</sup>
         surface_gravity: 151.278 m/s<sup>2</sup><br />(15.426 g<sub>0</sub>)
         escape_velocity: 286.097 km/s<br />(1,029,948 km/h)
         rotation_period: 42.040 d
         axial_tilt: 13.83°
         albedo: 0.30
-        temperature: 1311 K<br />(1038 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0022 Enlinniad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -488,14 +488,14 @@ planets:
         radius: 294,744.9 km<br/>(46.264 Yrths)
         surface_area: 1.092 × 10<sup>12</sup> km<sup>2</sup><br/>(2140.313 Yrths)
         volume: 1.073 × 10<sup>17</sup> km<sup>3</sup><br/>(99018.424 Yrths)
-        mass: 2.223 × 10<sup>29</sup> kg<br />(567.521940624621 Yrths)
+        mass: 2.223 × 10<sup>29</sup> kg<br />(37219.712 Yrths)
         density: 2.072 g/cm<sup>3</sup>
         surface_gravity: 170.536 m/s<sup>2</sup><br />(17.390 g<sub>0</sub>)
         escape_velocity: 317.279 km/s<br />(1,142,204 km/h)
         rotation_period: 37.660 d
         axial_tilt: 14.95°
         albedo: 0.30
-        temperature: 1192 K<br />(919 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0022 Enlinniad III c
         type: Icy
         formationType: Accreted
@@ -508,14 +508,14 @@ planets:
         radius: 293,809.5 km<br/>(46.117 Yrths)
         surface_area: 1.085 × 10<sup>12</sup> km<sup>2</sup><br/>(2126.751 Yrths)
         volume: 1.062 × 10<sup>17</sup> km<sup>3</sup><br/>(98078.729 Yrths)
-        mass: 1.578 × 10<sup>29</sup> kg<br />(567.521940624621 Yrths)
+        mass: 1.578 × 10<sup>29</sup> kg<br />(26430.201 Yrths)
         density: 1.486 g/cm<sup>3</sup>
         surface_gravity: 121.872 m/s<sup>2</sup><br />(12.428 g<sub>0</sub>)
         escape_velocity: 267.790 km/s<br />(964,046 km/h)
         rotation_period: 61.120 d
         axial_tilt: 25.15°
         albedo: 0.30
-        temperature: 1083 K<br />(810 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0022 Enlinniad III d
         type: Icy
         formationType: Impact formed
@@ -528,14 +528,14 @@ planets:
         radius: 629,231.0 km<br/>(98.765 Yrths)
         surface_area: 4.975 × 10<sup>12</sup> km<sup>2</sup><br/>(9754.498 Yrths)
         volume: 1.044 × 10<sup>18</sup> km<sup>3</sup><br/>(963401.721 Yrths)
-        mass: 1.619 × 10<sup>30</sup> kg<br />(567.521940624621 Yrths)
+        mass: 1.619 × 10<sup>30</sup> kg<br />(271060.246 Yrths)
         density: 1.551 g/cm<sup>3</sup>
         surface_gravity: 272.509 m/s<sup>2</sup><br />(27.788 g<sub>0</sub>)
         escape_velocity: 586.011 km/s<br />(2,109,639 km/h)
         rotation_period: 70.312 d
         axial_tilt: 9.94°
         albedo: 0.30
-        temperature: 985 K<br />(712 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0022 Enlinniad III e
         type: Rocky
         formationType: Accreted
@@ -548,12 +548,12 @@ planets:
         radius: 311,597.6 km<br/>(48.909 Yrths)
         surface_area: 1.220 × 10<sup>12</sup> km<sup>2</sup><br/>(2392.065 Yrths)
         volume: 1.267 × 10<sup>17</sup> km<sup>3</sup><br/>(116992.860 Yrths)
-        mass: 3.208 × 10<sup>29</sup> kg<br />(567.521940624621 Yrths)
+        mass: 3.208 × 10<sup>29</sup> kg<br />(53720.490 Yrths)
         density: 2.532 g/cm<sup>3</sup>
         surface_gravity: 220.236 m/s<sup>2</sup><br />(22.458 g<sub>0</sub>)
         escape_velocity: 370.724 km/s<br />(1,334,606 km/h)
         rotation_period: 52.789 d
         axial_tilt: 12.61°
         albedo: 0.30
-        temperature: 740 K<br />(467 °C)
+        temperature: 288 K<br />(15 °C)
 ---

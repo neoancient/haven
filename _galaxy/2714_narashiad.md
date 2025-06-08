@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2714 Narashiad is a star in the constellation Naras
+      2714 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 437.40 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 4.63

@@ -7,7 +7,7 @@ sections:
   - content: >-
       Enlin is a constellation representing a Sea Nymph.
 stars:
-  - name:
+  - name: <a href="tenukiln.html">Tenukiln</a>
     designation: α Enlinniad
     ra: 5<sup>h</sup> 26<sup>m</sup> 30.25<sup>s</sup>
     dec: 41° 30' 26.91"
@@ -40,7 +40,7 @@ stars:
     distance: 1,110.70
     spectral_class: B9Ib + B8V
   - name:
-    designation: ε Enlinniad
+    designation: <a href="ε_enlinniad.html">ε Enlinniad</a>
     ra: 4<sup>h</sup> 56<sup>m</sup> 52.83<sup>s</sup>
     dec: 36° 02' 58.85"
     apparent_magnitude: 3.03
@@ -56,7 +56,7 @@ stars:
     distance: 595.91
     spectral_class: B4V + A6III
   - name:
-    designation: η Enlinniad
+    designation: <a href="η_enlinniad.html">η Enlinniad</a>
     ra: 6<sup>h</sup> 07<sup>m</sup> 15.99<sup>s</sup>
     dec: 59° 51' 23.53"
     apparent_magnitude: 3.69
@@ -136,7 +136,7 @@ stars:
     distance: 321.60
     spectral_class: B9V + F5V
   - name:
-    designation: 0011 Enlinniad
+    designation: <a href="0011_enlinniad.html">0011 Enlinniad</a>
     ra: 5<sup>h</sup> 11<sup>m</sup> 39.10<sup>s</sup>
     dec: 55° 13' 41.68"
     apparent_magnitude: 4.66
@@ -240,7 +240,7 @@ stars:
     distance: 147.64
     spectral_class: A3V + G7V
   - name:
-    designation: 0005 Enlinniad
+    designation: <a href="0005_enlinniad.html">0005 Enlinniad</a>
     ra: 5<sup>h</sup> 19<sup>m</sup> 25.20<sup>s</sup>
     dec: 48° 32' 23.99"
     apparent_magnitude: 5.24
@@ -248,7 +248,7 @@ stars:
     distance: 90.99
     spectral_class: A7V + G9V + G9V
   - name:
-    designation: ξ Enlinniad
+    designation: <a href="ξ_enlinniad.html">ξ Enlinniad</a>
     ra: 5<sup>h</sup> 59<sup>m</sup> 49.19<sup>s</sup>
     dec: 30° 36' 15.52"
     apparent_magnitude: 5.25
@@ -272,7 +272,7 @@ stars:
     distance: 328.21
     spectral_class: A8III + F6V
   - name:
-    designation: 0007 Enlinniad
+    designation: <a href="0007_enlinniad.html">0007 Enlinniad</a>
     ra: 6<sup>h</sup> 29<sup>m</sup> 25.14<sup>s</sup>
     dec: 44° 41' 15.06"
     apparent_magnitude: 5.33
@@ -280,7 +280,7 @@ stars:
     distance: 35.75
     spectral_class: G3V
   - name:
-    designation: 0010 Enlinniad
+    designation: <a href="0010_enlinniad.html">0010 Enlinniad</a>
     ra: 5<sup>h</sup> 11<sup>m</sup> 51.60<sup>s</sup>
     dec: 59° 34' 49.29"
     apparent_magnitude: 5.33
@@ -312,7 +312,7 @@ stars:
     distance: 655.35
     spectral_class: A2III
   - name:
-    designation: 0006 Enlinniad
+    designation: <a href="0006_enlinniad.html">0006 Enlinniad</a>
     ra: 6<sup>h</sup> 14<sup>m</sup> 31.12<sup>s</sup>
     dec: 47° 42' 26.03"
     apparent_magnitude: 5.47
@@ -328,7 +328,7 @@ stars:
     distance: 117.82
     spectral_class: A5V
   - name:
-    designation: 0027 Enlinniad
+    designation: <a href="0027_enlinniad.html">0027 Enlinniad</a>
     ra: 5<sup>h</sup> 37<sup>m</sup> 46.14<sup>s</sup>
     dec: 29° 26' 8.06"
     apparent_magnitude: 5.51
@@ -352,7 +352,7 @@ stars:
     distance: 407.28
     spectral_class: A6III
   - name:
-    designation: 0174 Enlinniad
+    designation: <a href="0174_enlinniad.html">0174 Enlinniad</a>
     ra: 6<sup>h</sup> 16<sup>m</sup> 30.91<sup>s</sup>
     dec: 55° 53' 55.86"
     apparent_magnitude: 5.59
@@ -488,7 +488,7 @@ stars:
     distance: 333.40
     spectral_class: F2III + K9III + G0III
   - name:
-    designation: 0141 Enlinniad
+    designation: <a href="0141_enlinniad.html">0141 Enlinniad</a>
     ra: 5<sup>h</sup> 50<sup>m</sup> 24.66<sup>s</sup>
     dec: 55° 50' 14.69"
     apparent_magnitude: 5.77
@@ -528,7 +528,7 @@ stars:
     distance: 180.43
     spectral_class: A4V + G0V
   - name:
-    designation: 0111 Enlinniad
+    designation: <a href="0111_enlinniad.html">0111 Enlinniad</a>
     ra: 5<sup>h</sup> 36<sup>m</sup> 19.81<sup>s</sup>
     dec: 47° 43' 59.46"
     apparent_magnitude: 5.80
@@ -560,7 +560,7 @@ stars:
     distance: 827.80
     spectral_class: A2III
   - name:
-    designation: 0088 Enlinniad
+    designation: <a href="0088_enlinniad.html">0088 Enlinniad</a>
     ra: 5<sup>h</sup> 23<sup>m</sup> 8.69<sup>s</sup>
     dec: 45° 49' 48.12"
     apparent_magnitude: 5.83
@@ -568,7 +568,7 @@ stars:
     distance: 39.10
     spectral_class: G4V
   - name:
-    designation: 0104 Enlinniad
+    designation: <a href="0104_enlinniad.html">0104 Enlinniad</a>
     ra: 5<sup>h</sup> 14<sup>m</sup> 32.71<sup>s</sup>
     dec: 52° 33' 58.72"
     apparent_magnitude: 5.84
@@ -616,7 +616,7 @@ stars:
     distance: 212.91
     spectral_class: A2V + G8III
   - name:
-    designation: 0162 Enlinniad
+    designation: <a href="0162_enlinniad.html">0162 Enlinniad</a>
     ra: 5<sup>h</sup> 43<sup>m</sup> 44.92<sup>s</sup>
     dec: 61° 34' 45.73"
     apparent_magnitude: 5.90
@@ -752,7 +752,7 @@ stars:
     distance: 162.18
     spectral_class: G5II + K0V
   - name:
-    designation: 0170 Enlinniad
+    designation: <a href="0170_enlinniad.html">0170 Enlinniad</a>
     ra: 6<sup>h</sup> 32<sup>m</sup> 14.12<sup>s</sup>
     dec: 58° 02' 50.18"
     apparent_magnitude: 5.98
@@ -776,7 +776,7 @@ stars:
     distance: 507.74
     spectral_class: A3IV
   - name:
-    designation: 0059 Enlinniad
+    designation: <a href="0059_enlinniad.html">0059 Enlinniad</a>
     ra: 5<sup>h</sup> 25<sup>m</sup> 49.06<sup>s</sup>
     dec: 41° 06' 39.52"
     apparent_magnitude: 6.02
@@ -808,7 +808,7 @@ stars:
     distance: 680.90
     spectral_class: A1IV
   - name:
-    designation: 0052 Enlinniad
+    designation: <a href="0052_enlinniad.html">0052 Enlinniad</a>
     ra: 6<sup>h</sup> 08<sup>m</sup> 1.51<sup>s</sup>
     dec: 31° 37' 42.72"
     apparent_magnitude: 6.03
@@ -896,7 +896,7 @@ stars:
     distance: 455.48
     spectral_class: A3IV
   - name:
-    designation: 0118 Enlinniad
+    designation: <a href="0118_enlinniad.html">0118 Enlinniad</a>
     ra: 6<sup>h</sup> 26<sup>m</sup> 46.82<sup>s</sup>
     dec: 45° 22' 42.59"
     apparent_magnitude: 6.09
@@ -936,7 +936,7 @@ stars:
     distance: 57.58
     spectral_class: G1V
   - name:
-    designation: 0125 Enlinniad
+    designation: <a href="0125_enlinniad.html">0125 Enlinniad</a>
     ra: 6<sup>h</sup> 30<sup>m</sup> 38.37<sup>s</sup>
     dec: 45° 27' 14.76"
     apparent_magnitude: 6.11
@@ -944,7 +944,7 @@ stars:
     distance: 162.62
     spectral_class: F8III
   - name:
-    designation: 0022 Enlinniad
+    designation: <a href="0022_enlinniad.html">0022 Enlinniad</a>
     ra: 5<sup>h</sup> 18<sup>m</sup> 13.66<sup>s</sup>
     dec: 32° 33' 23.11"
     apparent_magnitude: 6.12
@@ -952,7 +952,7 @@ stars:
     distance: 719.73
     spectral_class: A2IV
   - name:
-    designation: 0076 Enlinniad
+    designation: <a href="0076_enlinniad.html">0076 Enlinniad</a>
     ra: 6<sup>h</sup> 22<sup>m</sup> 14.34<sup>s</sup>
     dec: 34° 49' 37.75"
     apparent_magnitude: 6.12
@@ -968,7 +968,7 @@ stars:
     distance: 701.18
     spectral_class: A5III + F9III + A9V
   - name:
-    designation: 0017 Enlinniad
+    designation: <a href="0017_enlinniad.html">0017 Enlinniad</a>
     ra: 4<sup>h</sup> 47<sup>m</sup> 51.63<sup>s</sup>
     dec: 29° 47' 57.31"
     apparent_magnitude: 6.13
@@ -1096,7 +1096,7 @@ stars:
     distance: 668.49
     spectral_class: A3IV
   - name:
-    designation: 0065 Enlinniad
+    designation: <a href="0065_enlinniad.html">0065 Enlinniad</a>
     ra: 4<sup>h</sup> 50<sup>m</sup> 53.04<sup>s</sup>
     dec: 42° 01' 44.52"
     apparent_magnitude: 6.20
@@ -1216,7 +1216,7 @@ stars:
     distance: 514.67
     spectral_class: A5III
   - name:
-    designation: 0075 Enlinniad
+    designation: <a href="0075_enlinniad.html">0075 Enlinniad</a>
     ra: 5<sup>h</sup> 50<sup>m</sup> 33.35<sup>s</sup>
     dec: 38° 41' 48.07"
     apparent_magnitude: 6.28
@@ -1336,7 +1336,7 @@ stars:
     distance: 277.69
     spectral_class: A1V
   - name:
-    designation: 0028 Enlinniad
+    designation: <a href="0028_enlinniad.html">0028 Enlinniad</a>
     ra: 5<sup>h</sup> 49<sup>m</sup> 56.69<sup>s</sup>
     dec: 29° 25' 8.71"
     apparent_magnitude: 6.34
@@ -1352,7 +1352,7 @@ stars:
     distance: 356.28
     spectral_class: F2III
   - name:
-    designation: 0033 Enlinniad
+    designation: <a href="0033_enlinniad.html">0033 Enlinniad</a>
     ra: 4<sup>h</sup> 44<sup>m</sup> 14.98<sup>s</sup>
     dec: 34° 46' 43.18"
     apparent_magnitude: 6.34
@@ -1392,7 +1392,7 @@ stars:
     distance: 617.00
     spectral_class: A6III + K5III
   - name:
-    designation: 0160 Enlinniad
+    designation: <a href="0160_enlinniad.html">0160 Enlinniad</a>
     ra: 5<sup>h</sup> 53<sup>m</sup> 10.07<sup>s</sup>
     dec: 56° 38' 53.30"
     apparent_magnitude: 6.36
@@ -1408,7 +1408,7 @@ stars:
     distance: 2,713.23
     spectral_class: K9Ib + B5V
   - name:
-    designation: 0103 Enlinniad
+    designation: <a href="0103_enlinniad.html">0103 Enlinniad</a>
     ra: 4<sup>h</sup> 47<sup>m</sup> 2.14<sup>s</sup>
     dec: 54° 43' 48.32"
     apparent_magnitude: 6.36
@@ -1416,7 +1416,7 @@ stars:
     distance: 147.15
     spectral_class: A8V + G1V + G9V
   - name:
-    designation: 0108 Enlinniad
+    designation: <a href="0108_enlinniad.html">0108 Enlinniad</a>
     ra: 5<sup>h</sup> 27<sup>m</sup> 38.80<sup>s</sup>
     dec: 52° 10' 13.69"
     apparent_magnitude: 6.36
@@ -1480,7 +1480,7 @@ stars:
     distance: 137.83
     spectral_class: A7V
   - name:
-    designation: 0050 Enlinniad
+    designation: <a href="0050_enlinniad.html">0050 Enlinniad</a>
     ra: 6<sup>h</sup> 36<sup>m</sup> 1.84<sup>s</sup>
     dec: 32° 38' 44.88"
     apparent_magnitude: 6.39
@@ -1528,7 +1528,7 @@ stars:
     distance: 178.60
     spectral_class: F9III
   - name:
-    designation: 0085 Enlinniad
+    designation: <a href="0085_enlinniad.html">0085 Enlinniad</a>
     ra: 6<sup>h</sup> 08<sup>m</sup> 29.58<sup>s</sup>
     dec: 44° 38' 14.79"
     apparent_magnitude: 6.43
@@ -1560,7 +1560,7 @@ stars:
     distance: 572.29
     spectral_class: A7III
   - name:
-    designation: 0166 Enlinniad
+    designation: <a href="0166_enlinniad.html">0166 Enlinniad</a>
     ra: 5<sup>h</sup> 35<sup>m</sup> 20.29<sup>s</sup>
     dec: 61° 08' 2.08"
     apparent_magnitude: 6.44
@@ -1624,7 +1624,7 @@ stars:
     distance: 490.99
     spectral_class: M9Ia
   - name:
-    designation: 0024 Enlinniad
+    designation: <a href="0024_enlinniad.html">0024 Enlinniad</a>
     ra: 5<sup>h</sup> 33<sup>m</sup> 4.95<sup>s</sup>
     dec: 29° 15' 2.31"
     apparent_magnitude: 6.47

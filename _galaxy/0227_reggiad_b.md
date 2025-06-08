@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0227 Reggiad B is a star in the constellation Reg
+      0227 Reggiad B is a star in the constellation <a href="reg.html">Reg</a>
 distance: 1412.99 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 2.84

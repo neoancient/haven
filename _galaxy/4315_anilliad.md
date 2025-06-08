@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4315 Anilliad is a star in the constellation Anil
+      4315 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 467.29 ly
 apparent_magnitude: 11.30
 absolute_magnitude: 5.52

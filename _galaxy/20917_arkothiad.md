@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      20917 Arkothiad is a star in the constellation Arkoth
+      20917 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 537.02 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 4.65

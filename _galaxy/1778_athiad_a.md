@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1778 Athiad A is a star in the constellation Ath
+      1778 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 245.45 ly
 apparent_magnitude: 6.97
 absolute_magnitude: 2.58

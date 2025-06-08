@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3667 Athiad is a star in the constellation Ath
+      3667 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1037.19 ly
 apparent_magnitude: 12.73
 absolute_magnitude: 5.21

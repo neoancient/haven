@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2169 Athiad is a star in the constellation Ath
+      2169 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 489.57 ly
 apparent_magnitude: 10.62
 absolute_magnitude: 4.74

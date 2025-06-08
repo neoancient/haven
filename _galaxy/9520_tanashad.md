@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9520 Tanashad is a star in the constellation Tanas
+      9520 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 415.64 ly
 apparent_magnitude: 10.31
 absolute_magnitude: 4.78

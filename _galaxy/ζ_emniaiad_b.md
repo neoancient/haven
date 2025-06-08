@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ζ Emniaiad B is a star in the constellation Emnia
+      ζ Emniaiad B is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 251.92 ly
 apparent_magnitude: 8.52
 absolute_magnitude: 4.08

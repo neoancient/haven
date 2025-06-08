@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      π Innaiad B is a star in the constellation Inna
+      π Innaiad B is a star in the constellation <a href="inna.html">Inna</a>
 distance: 185.96 ly
 apparent_magnitude: 9.11
 absolute_magnitude: 5.33

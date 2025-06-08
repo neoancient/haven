@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      103 Nuaniad A is a star in the constellation Nuani
+      103 Nuaniad A is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 2943.65 ly
 apparent_magnitude: 8.47
 absolute_magnitude: -1.31

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11733 Shanniashiad is a star in the constellation Shannias
+      11733 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 440.16 ly
 apparent_magnitude: 10.57
 absolute_magnitude: 4.92

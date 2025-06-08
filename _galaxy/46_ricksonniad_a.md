@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      46 Ricksonniad A is a star in the constellation Rickson
+      46 Ricksonniad A is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 306.30 ly
 apparent_magnitude: 7.19
 absolute_magnitude: 2.33

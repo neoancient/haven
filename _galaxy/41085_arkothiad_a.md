@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      41085 Arkothiad A is a star in the constellation Arkoth
+      41085 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 445.99 ly
 apparent_magnitude: 8.03
 absolute_magnitude: 2.35

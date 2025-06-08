@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0137 Irsaiad is a star in the constellation Irsa
+      0137 Irsaiad is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 722.02 ly
 apparent_magnitude: 6.25
 absolute_magnitude: -0.48
@@ -31,14 +31,14 @@ planets:
     radius: 8,390.2 km<br/>(1.317 Yrths)
     surface_area: 8.846 × 10<sup>08</sup> km<sup>2</sup><br/>(1.734 Yrths)
     volume: 2.474 × 10<sup>12</sup> km<sup>3</sup><br/>(2.284 Yrths)
-    mass: 1.143 × 10<sup>25</sup> kg<br />(1.9142941658298869 Yrths)
+    mass: 1.143 × 10<sup>25</sup> kg<br />(1.91 Yrths)
     density: 4.621 g/cm<sup>3</sup>
     surface_gravity: 10.824 m/s<sup>2</sup><br />(1.104 g<sub>0</sub>)
     escape_velocity: 13.486 km/s<br />(48,551 km/h)
     rotation_period: 0.832 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 568 K<br />(295 °C)
+    temperature: 1227 K<br />(954 °C)
     surface_pressure: 105 kPa<br />(1 atm)
     composition:
       - 57.8811% carbon dioxide
@@ -58,12 +58,12 @@ planets:
         radius: 3,440.6 km<br/>(0.540 Yrths)
         surface_area: 1.488 × 10<sup>08</sup> km<sup>2</sup><br/>(0.292 Yrths)
         volume: 1.706 × 10<sup>11</sup> km<sup>3</sup><br/>(0.158 Yrths)
-        mass: 5.638 × 10<sup>23</sup> kg<br />(1.9142941658298869 Yrths)
+        mass: 5.638 × 10<sup>23</sup> kg<br />(0.094 Yrths)
         density: 3.305 g/cm<sup>3</sup>
         surface_gravity: 3.175 m/s<sup>2</sup><br />(0.324 g<sub>0</sub>)
         escape_velocity: 4.677 km/s<br />(16,837 km/h)
         rotation_period: 37.489 d
         axial_tilt: 8.95°
         albedo: 0.30
-        temperature: 7054 K<br />(6781 °C)
+        temperature: 392 K<br />(119 °C)
 ---

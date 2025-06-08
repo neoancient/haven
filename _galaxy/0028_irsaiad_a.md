@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Irsaiad A is a star in the constellation Irsa
+      0028 Irsaiad A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 720.34 ly
 apparent_magnitude: 4.92
 absolute_magnitude: -1.80

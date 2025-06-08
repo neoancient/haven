@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11367 Dialkeshiad is a star in the constellation Dialkes
+      11367 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 501.37 ly
 apparent_magnitude: 14.02
 absolute_magnitude: 8.09

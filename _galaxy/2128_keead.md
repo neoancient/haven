@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2128 Keead is a star in the constellation Kee
+      2128 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 304.74 ly
 apparent_magnitude: 9.88
 absolute_magnitude: 5.03

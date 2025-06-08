@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8143 Dialkeshiad A is a star in the constellation Dialkes
+      8143 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 725.43 ly
 apparent_magnitude: 6.94
 absolute_magnitude: 0.20

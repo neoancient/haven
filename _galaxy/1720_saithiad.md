@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1720 Saithiad is a star in the constellation Saith
+      1720 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1005.45 ly
 apparent_magnitude: 11.63
 absolute_magnitude: 4.19

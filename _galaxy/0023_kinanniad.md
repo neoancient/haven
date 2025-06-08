@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0023 Kinanniad is a star in the constellation Kinan
+      0023 Kinanniad is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 273.99 ly
 apparent_magnitude: 5.20
 absolute_magnitude: 0.58
@@ -31,14 +31,14 @@ planets:
     radius: 154.9 km<br/>(0.024 Yrths)
     surface_area: 3.015 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.557 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.429 × 10<sup>26</sup> kg<br />(57.414922374058555 Yrths)
+    mass: 3.429 × 10<sup>26</sup> kg<br />(57.41 Yrths)
     density: 22027795.491 g/cm<sup>3</sup>
     surface_gravity: 952585.669 m/s<sup>2</sup><br />(97136.705 g<sub>0</sub>)
     escape_velocity: 543.596 km/s<br />(1,956,944 km/h)
     rotation_period: 0.278 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1485 K<br />(1212 °C)
+    temperature: 1479 K<br />(1206 °C)
     composition:
       - 55.0492% helium
       - 37.4582% hydrogen
@@ -57,14 +57,14 @@ planets:
         radius: 75,415.2 km<br/>(11.837 Yrths)
         surface_area: 7.147 × 10<sup>10</sup> km<sup>2</sup><br/>(140.121 Yrths)
         volume: 1.797 × 10<sup>15</sup> km<sup>3</sup><br/>(1658.646 Yrths)
-        mass: 3.914 × 10<sup>27</sup> kg<br />(57.414922374058555 Yrths)
+        mass: 3.914 × 10<sup>27</sup> kg<br />(655.401 Yrths)
         density: 2.179 g/cm<sup>3</sup>
         surface_gravity: 45.870 m/s<sup>2</sup><br />(4.677 g<sub>0</sub>)
         escape_velocity: 83.234 km/s<br />(299,643 km/h)
         rotation_period: 42.906 d
         axial_tilt: 32.73°
         albedo: 0.30
-        temperature: 2198 K<br />(1925 °C)
+        temperature: 354 K<br />(81 °C)
       - name: 0023 Kinanniad I b
         type: Asteroid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 73,290.7 km<br/>(11.504 Yrths)
         surface_area: 6.750 × 10<sup>10</sup> km<sup>2</sup><br/>(132.337 Yrths)
         volume: 1.649 × 10<sup>15</sup> km<sup>3</sup><br/>(1522.382 Yrths)
-        mass: 3.759 × 10<sup>27</sup> kg<br />(57.414922374058555 Yrths)
+        mass: 3.759 × 10<sup>27</sup> kg<br />(629.403 Yrths)
         density: 2.279 g/cm<sup>3</sup>
         surface_gravity: 46.641 m/s<sup>2</sup><br />(4.756 g<sub>0</sub>)
         escape_velocity: 82.740 km/s<br />(297,866 km/h)
         rotation_period: 34.926 d
         axial_tilt: 29.70°
         albedo: 0.30
-        temperature: 1905 K<br />(1632 °C)
+        temperature: 354 K<br />(81 °C)
       - name: 0023 Kinanniad I c
         type: Icy
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 83,193.6 km<br/>(13.058 Yrths)
         surface_area: 8.697 × 10<sup>10</sup> km<sup>2</sup><br/>(170.516 Yrths)
         volume: 2.412 × 10<sup>15</sup> km<sup>3</sup><br/>(2226.625 Yrths)
-        mass: 3.598 × 10<sup>27</sup> kg<br />(57.414922374058555 Yrths)
+        mass: 3.598 × 10<sup>27</sup> kg<br />(602.425 Yrths)
         density: 1.492 g/cm<sup>3</sup>
         surface_gravity: 34.646 m/s<sup>2</sup><br />(3.533 g<sub>0</sub>)
         escape_velocity: 75.977 km/s<br />(273,519 km/h)
         rotation_period: 61.986 d
         axial_tilt: 5.62°
         albedo: 0.30
-        temperature: 978 K<br />(705 °C)
+        temperature: 354 K<br />(81 °C)
       - name: 0023 Kinanniad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 101,985.6 km<br/>(16.008 Yrths)
         surface_area: 1.307 × 10<sup>11</sup> km<sup>2</sup><br/>(256.249 Yrths)
         volume: 4.443 × 10<sup>15</sup> km<sup>3</sup><br/>(4101.979 Yrths)
-        mass: 1.216 × 10<sup>28</sup> kg<br />(57.414922374058555 Yrths)
+        mass: 1.216 × 10<sup>28</sup> kg<br />(2036.182 Yrths)
         density: 2.737 g/cm<sup>3</sup>
         surface_gravity: 77.925 m/s<sup>2</sup><br />(7.946 g<sub>0</sub>)
         escape_velocity: 126.159 km/s<br />(454,171 km/h)
         rotation_period: 36.656 d
         axial_tilt: 14.70°
         albedo: 0.30
-        temperature: 808 K<br />(535 °C)
+        temperature: 354 K<br />(81 °C)
       - name: 0023 Kinanniad I e
         type: Icy
         formationType: Accreted
@@ -137,14 +137,34 @@ planets:
         radius: 81,832.0 km<br/>(12.844 Yrths)
         surface_area: 8.415 × 10<sup>10</sup> km<sup>2</sup><br/>(164.980 Yrths)
         volume: 2.295 × 10<sup>15</sup> km<sup>3</sup><br/>(2119.078 Yrths)
-        mass: 3.907 × 10<sup>27</sup> kg<br />(57.414922374058555 Yrths)
+        mass: 3.907 × 10<sup>27</sup> kg<br />(654.243 Yrths)
         density: 1.702 g/cm<sup>3</sup>
         surface_gravity: 38.889 m/s<sup>2</sup><br />(3.966 g<sub>0</sub>)
         escape_velocity: 79.834 km/s<br />(287,401 km/h)
         rotation_period: 50.518 d
         axial_tilt: 17.94°
         albedo: 0.30
-        temperature: 668 K<br />(395 °C)
+        temperature: 354 K<br />(81 °C)
+      - name: 0023 Kinanniad I f
+        type: Icy
+        formationType: Captured
+        aphelion: 234,161,482 km<br />
+        perihelion: 132,046,207 km<br />
+        semi_major_axis: 183,103,845 km<br />
+        eccentricity: 0.279
+        orbital_period: 0.05 d<br />
+        inclination: 27.23°
+        radius: 33,072.1 km<br/>(5.191 Yrths)
+        surface_area: 1.374 × 10<sup>10</sup> km<sup>2</sup><br/>(26.947 Yrths)
+        volume: 1.515 × 10<sup>14</sup> km<sup>3</sup><br/>(139.882 Yrths)
+        mass: 1.750 × 10<sup>26</sup> kg<br />(29.308 Yrths)
+        density: 1.155 g/cm<sup>3</sup>
+        surface_gravity: 10.666 m/s<sup>2</sup><br />(1.088 g<sub>0</sub>)
+        escape_velocity: 26.579 km/s<br />(95,684 km/h)
+        rotation_period: 54.221 d
+        axial_tilt: 13.47°
+        albedo: 0.30
+        temperature: 354 K<br />(81 °C)
   - name: 0023 Kinanniad II
     type: Ice giant
     aphelion: 1,042,905,041 km<br />6.971 AU
@@ -156,14 +176,14 @@ planets:
     radius: 24,732.8 km<br/>(3.882 Yrths)
     surface_area: 7.687 × 10<sup>09</sup> km<sup>2</sup><br/>(15.071 Yrths)
     volume: 6.337 × 10<sup>13</sup> km<sup>3</sup><br/>(58.506 Yrths)
-    mass: 7.618 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+    mass: 7.618 × 10<sup>25</sup> kg<br />(12.76 Yrths)
     density: 1.202 g/cm<sup>3</sup>
     surface_gravity: 8.300 m/s<sup>2</sup><br />(0.846 g<sub>0</sub>)
     escape_velocity: 20.276 km/s<br />(72,995 km/h)
     rotation_period: 0.361 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 526 K<br />(252 °C)
+    temperature: 483 K<br />(210 °C)
     composition:
       - 56.8694% hydrogen
       - 34.4780% helium
@@ -183,14 +203,14 @@ planets:
         radius: 10,281.1 km<br/>(1.614 Yrths)
         surface_area: 1.328 × 10<sup>09</sup> km<sup>2</sup><br/>(2.604 Yrths)
         volume: 4.552 × 10<sup>12</sup> km<sup>3</sup><br/>(4.202 Yrths)
-        mass: 1.257 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 1.257 × 10<sup>25</sup> kg<br />(2.104 Yrths)
         density: 2.761 g/cm<sup>3</sup>
         surface_gravity: 7.924 m/s<sup>2</sup><br />(0.808 g<sub>0</sub>)
         escape_velocity: 12.773 km/s<br />(45,984 km/h)
         rotation_period: 38.447 d
         axial_tilt: 49.08°
         albedo: 0.30
-        temperature: 2679 K<br />(2406 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 0023 Kinanniad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -203,14 +223,14 @@ planets:
         radius: 11,935.7 km<br/>(1.873 Yrths)
         surface_area: 1.790 × 10<sup>09</sup> km<sup>2</sup><br/>(3.510 Yrths)
         volume: 7.122 × 10<sup>12</sup> km<sup>3</sup><br/>(6.575 Yrths)
-        mass: 1.381 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 1.381 × 10<sup>25</sup> kg<br />(2.313 Yrths)
         density: 1.939 g/cm<sup>3</sup>
         surface_gravity: 6.463 m/s<sup>2</sup><br />(0.659 g<sub>0</sub>)
         escape_velocity: 12.429 km/s<br />(44,746 km/h)
         rotation_period: 37.252 d
         axial_tilt: 10.51°
         albedo: 0.30
-        temperature: 2554 K<br />(2281 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 0023 Kinanniad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -223,14 +243,14 @@ planets:
         radius: 14,049.3 km<br/>(2.205 Yrths)
         surface_area: 2.480 × 10<sup>09</sup> km<sup>2</sup><br/>(4.863 Yrths)
         volume: 1.162 × 10<sup>13</sup> km<sup>3</sup><br/>(10.724 Yrths)
-        mass: 2.463 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 2.463 × 10<sup>25</sup> kg<br />(4.124 Yrths)
         density: 2.120 g/cm<sup>3</sup>
         surface_gravity: 8.317 m/s<sup>2</sup><br />(0.848 g<sub>0</sub>)
         escape_velocity: 15.297 km/s<br />(55,070 km/h)
         rotation_period: 34.393 d
         axial_tilt: 21.79°
         albedo: 0.30
-        temperature: 2435 K<br />(2162 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 0023 Kinanniad II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -243,14 +263,14 @@ planets:
         radius: 17,555.4 km<br/>(2.756 Yrths)
         surface_area: 3.873 × 10<sup>09</sup> km<sup>2</sup><br/>(7.593 Yrths)
         volume: 2.266 × 10<sup>13</sup> km<sup>3</sup><br/>(20.922 Yrths)
-        mass: 4.805 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 4.805 × 10<sup>25</sup> kg<br />(8.046 Yrths)
         density: 2.120 g/cm<sup>3</sup>
         surface_gravity: 10.392 m/s<sup>2</sup><br />(1.060 g<sub>0</sub>)
         escape_velocity: 19.115 km/s<br />(68,813 km/h)
         rotation_period: 38.156 d
         axial_tilt: 30.54°
         albedo: 0.30
-        temperature: 2322 K<br />(2049 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 0023 Kinanniad II e
         type: Icy
         formationType: Impact formed
@@ -263,14 +283,14 @@ planets:
         radius: 27,546.8 km<br/>(4.324 Yrths)
         surface_area: 9.536 × 10<sup>09</sup> km<sup>2</sup><br/>(18.695 Yrths)
         volume: 8.756 × 10<sup>13</sup> km<sup>3</sup><br/>(80.834 Yrths)
-        mass: 9.338 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 9.338 × 10<sup>25</sup> kg<br />(15.637 Yrths)
         density: 1.067 g/cm<sup>3</sup>
         surface_gravity: 8.202 m/s<sup>2</sup><br />(0.836 g<sub>0</sub>)
         escape_velocity: 21.272 km/s<br />(76,581 km/h)
         rotation_period: 54.124 d
         axial_tilt: 12.15°
         albedo: 0.30
-        temperature: 2214 K<br />(1941 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 0023 Kinanniad II f
         type: Asteroid
         formationType: Captured
@@ -283,14 +303,14 @@ planets:
         radius: 20,996.7 km<br/>(3.296 Yrths)
         surface_area: 5.540 × 10<sup>09</sup> km<sup>2</sup><br/>(10.861 Yrths)
         volume: 3.877 × 10<sup>13</sup> km<sup>3</sup><br/>(35.796 Yrths)
-        mass: 5.041 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 5.041 × 10<sup>25</sup> kg<br />(8.440 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 7.621 m/s<sup>2</sup><br />(0.777 g<sub>0</sub>)
         escape_velocity: 17.901 km/s<br />(64,445 km/h)
         rotation_period: 46.193 d
         axial_tilt: 48.99°
         albedo: 0.30
-        temperature: 2111 K<br />(1838 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 0023 Kinanniad II g
         type: Ice/rock hybrid
         formationType: Captured
@@ -303,14 +323,14 @@ planets:
         radius: 17,901.8 km<br/>(2.810 Yrths)
         surface_area: 4.027 × 10<sup>09</sup> km<sup>2</sup><br/>(7.895 Yrths)
         volume: 2.403 × 10<sup>13</sup> km<sup>3</sup><br/>(22.185 Yrths)
-        mass: 4.843 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 4.843 × 10<sup>25</sup> kg<br />(8.109 Yrths)
         density: 2.015 g/cm<sup>3</sup>
         surface_gravity: 10.072 m/s<sup>2</sup><br />(1.027 g<sub>0</sub>)
         escape_velocity: 19.003 km/s<br />(68,410 km/h)
         rotation_period: 35.118 d
         axial_tilt: 26.63°
         albedo: 0.30
-        temperature: 2013 K<br />(1739 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 0023 Kinanniad II h
         type: Icy
         formationType: Accreted
@@ -323,14 +343,14 @@ planets:
         radius: 17,397.5 km<br/>(2.731 Yrths)
         surface_area: 3.803 × 10<sup>09</sup> km<sup>2</sup><br/>(7.457 Yrths)
         volume: 2.206 × 10<sup>13</sup> km<sup>3</sup><br/>(20.363 Yrths)
-        mass: 3.567 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 3.567 × 10<sup>25</sup> kg<br />(5.972 Yrths)
         density: 1.617 g/cm<sup>3</sup>
         surface_gravity: 7.854 m/s<sup>2</sup><br />(0.801 g<sub>0</sub>)
         escape_velocity: 16.543 km/s<br />(59,553 km/h)
         rotation_period: 42.607 d
         axial_tilt: 11.74°
         albedo: 0.30
-        temperature: 1830 K<br />(1556 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 0023 Kinanniad II i
         type: Dwarf planet
         formationType: Impact formed
@@ -343,14 +363,14 @@ planets:
         radius: 20,233.8 km<br/>(3.176 Yrths)
         surface_area: 5.145 × 10<sup>09</sup> km<sup>2</sup><br/>(10.086 Yrths)
         volume: 3.470 × 10<sup>13</sup> km<sup>3</sup><br/>(32.034 Yrths)
-        mass: 5.458 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 5.458 × 10<sup>25</sup> kg<br />(9.139 Yrths)
         density: 1.573 g/cm<sup>3</sup>
         surface_gravity: 8.885 m/s<sup>2</sup><br />(0.906 g<sub>0</sub>)
         escape_velocity: 18.975 km/s<br />(68,311 km/h)
         rotation_period: 54.960 d
         axial_tilt: 14.66°
         albedo: 0.30
-        temperature: 1744 K<br />(1471 °C)
+        temperature: 253 K<br />(-20 °C)
       - name: 0023 Kinanniad II j
         type: Ice/rock hybrid
         formationType: Captured
@@ -363,14 +383,14 @@ planets:
         radius: 17,730.6 km<br/>(2.783 Yrths)
         surface_area: 3.951 × 10<sup>09</sup> km<sup>2</sup><br/>(7.745 Yrths)
         volume: 2.335 × 10<sup>13</sup> km<sup>3</sup><br/>(21.555 Yrths)
-        mass: 5.284 × 10<sup>25</sup> kg<br />(12.75556310726226 Yrths)
+        mass: 5.284 × 10<sup>25</sup> kg<br />(8.847 Yrths)
         density: 2.263 g/cm<sup>3</sup>
         surface_gravity: 11.202 m/s<sup>2</sup><br />(1.142 g<sub>0</sub>)
         escape_velocity: 19.945 km/s<br />(71,800 km/h)
         rotation_period: 35.800 d
         axial_tilt: 13.82°
         albedo: 0.30
-        temperature: 1663 K<br />(1390 °C)
+        temperature: 253 K<br />(-20 °C)
   - name: 0023 Kinanniad III
     type: Terrestrial
     aphelion: 2,217,940,958 km<br />14.826 AU
@@ -382,14 +402,14 @@ planets:
     radius: 6,931.4 km<br/>(1.088 Yrths)
     surface_area: 6.037 × 10<sup>08</sup> km<sup>2</sup><br/>(1.184 Yrths)
     volume: 1.395 × 10<sup>12</sup> km<sup>3</sup><br/>(1.288 Yrths)
-    mass: 7.449 × 10<sup>24</sup> kg<br />(1.2473762179376409 Yrths)
+    mass: 7.449 × 10<sup>24</sup> kg<br />(1.25 Yrths)
     density: 5.340 g/cm<sup>3</sup>
     surface_gravity: 10.335 m/s<sup>2</sup><br />(1.054 g<sub>0</sub>)
     escape_velocity: 11.978 km/s<br />(43,119 km/h)
     rotation_period: 0.937 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 279 K<br />(5 °C)
+    temperature: 606 K<br />(333 °C)
     surface_pressure: 239 kPa<br />(2 atm)
     composition:
       - 61.1695% carbon dioxide
@@ -408,14 +428,14 @@ planets:
         radius: 1,623.4 km<br/>(0.255 Yrths)
         surface_area: 3.312 × 10<sup>07</sup> km<sup>2</sup><br/>(0.065 Yrths)
         volume: 1.792 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 5.603 × 10<sup>22</sup> kg<br />(1.2473762179376409 Yrths)
+        mass: 5.603 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 3.126 g/cm<sup>3</sup>
         surface_gravity: 1.417 m/s<sup>2</sup><br />(0.144 g<sub>0</sub>)
         escape_velocity: 2.146 km/s<br />(7,727 km/h)
         rotation_period: 36.708 d
         axial_tilt: 15.46°
         albedo: 0.30
-        temperature: 3392 K<br />(3119 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0023 Kinanniad III b
         type: Rocky
         formationType: Accreted
@@ -428,14 +448,14 @@ planets:
         radius: 2,297.7 km<br/>(0.361 Yrths)
         surface_area: 6.634 × 10<sup>07</sup> km<sup>2</sup><br/>(0.130 Yrths)
         volume: 5.081 × 10<sup>10</sup> km<sup>3</sup><br/>(0.047 Yrths)
-        mass: 1.328 × 10<sup>23</sup> kg<br />(1.2473762179376409 Yrths)
+        mass: 1.328 × 10<sup>23</sup> kg<br />(0.022 Yrths)
         density: 2.614 g/cm<sup>3</sup>
         surface_gravity: 1.677 m/s<sup>2</sup><br />(0.171 g<sub>0</sub>)
         escape_velocity: 2.778 km/s<br />(10,000 km/h)
         rotation_period: 35.127 d
         axial_tilt: 7.48°
         albedo: 0.30
-        temperature: 3234 K<br />(2961 °C)
+        temperature: 181 K<br />(-92 °C)
   - name: 0023 Kinanniad IV
     type: Ice giant
     aphelion: 5,216,236,917 km<br />34.868 AU
@@ -447,14 +467,14 @@ planets:
     radius: 32,871.4 km<br/>(5.160 Yrths)
     surface_area: 1.358 × 10<sup>10</sup> km<sup>2</sup><br/>(26.621 Yrths)
     volume: 1.488 × 10<sup>14</sup> km<sup>3</sup><br/>(137.351 Yrths)
-    mass: 2.021 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+    mass: 2.021 × 10<sup>26</sup> kg<br />(33.84 Yrths)
     density: 1.358 g/cm<sup>3</sup>
     surface_gravity: 12.465 m/s<sup>2</sup><br />(1.271 g<sub>0</sub>)
     escape_velocity: 28.646 km/s<br />(103,125 km/h)
     rotation_period: 0.298 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 279 K<br />(5 °C)
+    temperature: 257 K<br />(-16 °C)
     composition:
       - 80.1819% hydrogen
       - 17.1224% helium
@@ -475,14 +495,14 @@ planets:
         radius: 40,472.2 km<br/>(6.353 Yrths)
         surface_area: 2.058 × 10<sup>10</sup> km<sup>2</sup><br/>(40.355 Yrths)
         volume: 2.777 × 10<sup>14</sup> km<sup>3</sup><br/>(256.359 Yrths)
-        mass: 4.443 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 4.443 × 10<sup>26</sup> kg<br />(74.398 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 18.079 m/s<sup>2</sup><br />(1.844 g<sub>0</sub>)
         escape_velocity: 38.281 km/s<br />(137,810 km/h)
         rotation_period: 69.521 d
         axial_tilt: 11.69°
         albedo: 0.30
-        temperature: 1165 K<br />(892 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -495,14 +515,14 @@ planets:
         radius: 26,861.4 km<br/>(4.216 Yrths)
         surface_area: 9.067 × 10<sup>09</sup> km<sup>2</sup><br/>(17.776 Yrths)
         volume: 8.118 × 10<sup>13</sup> km<sup>3</sup><br/>(74.949 Yrths)
-        mass: 1.340 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 1.340 × 10<sup>26</sup> kg<br />(22.437 Yrths)
         density: 1.650 g/cm<sup>3</sup>
         surface_gravity: 12.378 m/s<sup>2</sup><br />(1.262 g<sub>0</sub>)
         escape_velocity: 25.805 km/s<br />(92,896 km/h)
         rotation_period: 66.528 d
         axial_tilt: 25.61°
         albedo: 0.30
-        temperature: 1111 K<br />(838 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -515,14 +535,14 @@ planets:
         radius: 22,765.2 km<br/>(3.573 Yrths)
         surface_area: 6.513 × 10<sup>09</sup> km<sup>2</sup><br/>(12.768 Yrths)
         volume: 4.942 × 10<sup>13</sup> km<sup>3</sup><br/>(45.624 Yrths)
-        mass: 1.163 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 1.163 × 10<sup>26</sup> kg<br />(19.478 Yrths)
         density: 2.354 g/cm<sup>3</sup>
         surface_gravity: 14.960 m/s<sup>2</sup><br />(1.525 g<sub>0</sub>)
         escape_velocity: 26.116 km/s<br />(94,019 km/h)
         rotation_period: 63.196 d
         axial_tilt: 19.47°
         albedo: 0.30
-        temperature: 1059 K<br />(786 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV d
         type: Dwarf planet
         formationType: Captured
@@ -535,14 +555,14 @@ planets:
         radius: 26,179.8 km<br/>(4.109 Yrths)
         surface_area: 8.613 × 10<sup>09</sup> km<sup>2</sup><br/>(16.886 Yrths)
         volume: 7.516 × 10<sup>13</sup> km<sup>3</sup><br/>(69.387 Yrths)
-        mass: 1.255 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 1.255 × 10<sup>26</sup> kg<br />(21.010 Yrths)
         density: 1.669 g/cm<sup>3</sup>
         surface_gravity: 12.202 m/s<sup>2</sup><br />(1.244 g<sub>0</sub>)
         escape_velocity: 25.293 km/s<br />(91,056 km/h)
         rotation_period: 47.281 d
         axial_tilt: 16.47°
         albedo: 0.30
-        temperature: 1010 K<br />(737 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV e
         type: Icy
         formationType: Accreted
@@ -555,14 +575,14 @@ planets:
         radius: 47,909.6 km<br/>(7.520 Yrths)
         surface_area: 2.884 × 10<sup>10</sup> km<sup>2</sup><br/>(56.550 Yrths)
         volume: 4.606 × 10<sup>14</sup> km<sup>3</sup><br/>(425.250 Yrths)
-        mass: 5.536 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 5.536 × 10<sup>26</sup> kg<br />(92.698 Yrths)
         density: 1.202 g/cm<sup>3</sup>
         surface_gravity: 16.075 m/s<sup>2</sup><br />(1.639 g<sub>0</sub>)
         escape_velocity: 39.274 km/s<br />(141,385 km/h)
         rotation_period: 49.040 d
         axial_tilt: 26.54°
         albedo: 0.30
-        temperature: 963 K<br />(690 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -575,14 +595,14 @@ planets:
         radius: 21,255.9 km<br/>(3.336 Yrths)
         surface_area: 5.678 × 10<sup>09</sup> km<sup>2</sup><br/>(11.131 Yrths)
         volume: 4.023 × 10<sup>13</sup> km<sup>3</sup><br/>(37.138 Yrths)
-        mass: 7.688 × 10<sup>25</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 7.688 × 10<sup>25</sup> kg<br />(12.874 Yrths)
         density: 1.911 g/cm<sup>3</sup>
         surface_gravity: 11.342 m/s<sup>2</sup><br />(1.157 g<sub>0</sub>)
         escape_velocity: 21.973 km/s<br />(79,103 km/h)
         rotation_period: 59.902 d
         axial_tilt: 16.47°
         albedo: 0.30
-        temperature: 918 K<br />(645 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -595,14 +615,14 @@ planets:
         radius: 28,930.3 km<br/>(4.541 Yrths)
         surface_area: 1.052 × 10<sup>10</sup> km<sup>2</sup><br/>(20.620 Yrths)
         volume: 1.014 × 10<sup>14</sup> km<sup>3</sup><br/>(93.635 Yrths)
-        mass: 2.229 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 2.229 × 10<sup>26</sup> kg<br />(37.325 Yrths)
         density: 2.198 g/cm<sup>3</sup>
         surface_gravity: 17.751 m/s<sup>2</sup><br />(1.810 g<sub>0</sub>)
         escape_velocity: 32.070 km/s<br />(115,453 km/h)
         rotation_period: 33.880 d
         axial_tilt: 12.70°
         albedo: 0.30
-        temperature: 835 K<br />(562 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV h
         type: Asteroid
         formationType: Captured
@@ -615,14 +635,14 @@ planets:
         radius: 32,390.3 km<br/>(5.084 Yrths)
         surface_area: 1.318 × 10<sup>10</sup> km<sup>2</sup><br/>(25.847 Yrths)
         volume: 1.423 × 10<sup>14</sup> km<sup>3</sup><br/>(131.408 Yrths)
-        mass: 2.415 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 2.415 × 10<sup>26</sup> kg<br />(40.432 Yrths)
         density: 1.696 g/cm<sup>3</sup>
         surface_gravity: 15.340 m/s<sup>2</sup><br />(1.564 g<sub>0</sub>)
         escape_velocity: 31.545 km/s<br />(113,562 km/h)
         rotation_period: 59.824 d
         axial_tilt: 50.03°
         albedo: 0.30
-        temperature: 796 K<br />(523 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV i
         type: Icy
         formationType: Accreted
@@ -635,14 +655,14 @@ planets:
         radius: 29,991.1 km<br/>(4.707 Yrths)
         surface_area: 1.130 × 10<sup>10</sup> km<sup>2</sup><br/>(22.160 Yrths)
         volume: 1.130 × 10<sup>14</sup> km<sup>3</sup><br/>(104.316 Yrths)
-        mass: 1.846 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 1.846 × 10<sup>26</sup> kg<br />(30.907 Yrths)
         density: 1.633 g/cm<sup>3</sup>
         surface_gravity: 13.678 m/s<sup>2</sup><br />(1.395 g<sub>0</sub>)
         escape_velocity: 28.662 km/s<br />(103,185 km/h)
         rotation_period: 66.801 d
         axial_tilt: 21.16°
         albedo: 0.30
-        temperature: 759 K<br />(486 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -655,14 +675,14 @@ planets:
         radius: 34,467.8 km<br/>(5.410 Yrths)
         surface_area: 1.493 × 10<sup>10</sup> km<sup>2</sup><br/>(29.269 Yrths)
         volume: 1.715 × 10<sup>14</sup> km<sup>3</sup><br/>(158.349 Yrths)
-        mass: 3.615 × 10<sup>26</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 3.615 × 10<sup>26</sup> kg<br />(60.528 Yrths)
         density: 2.107 g/cm<sup>3</sup>
         surface_gravity: 20.280 m/s<sup>2</sup><br />(2.068 g<sub>0</sub>)
         escape_velocity: 37.415 km/s<br />(134,695 km/h)
         rotation_period: 38.229 d
         axial_tilt: 28.56°
         albedo: 0.30
-        temperature: 724 K<br />(450 °C)
+        temperature: 130 K<br />(-144 °C)
       - name: 0023 Kinanniad IV k
         type: Icy
         formationType: Accreted
@@ -675,12 +695,12 @@ planets:
         radius: 70,286.6 km<br/>(11.032 Yrths)
         surface_area: 6.208 × 10<sup>10</sup> km<sup>2</sup><br/>(121.711 Yrths)
         volume: 1.454 × 10<sup>15</sup> km<sup>3</sup><br/>(1342.746 Yrths)
-        mass: 1.377 × 10<sup>27</sup> kg<br />(33.83624594616161 Yrths)
+        mass: 1.377 × 10<sup>27</sup> kg<br />(230.498 Yrths)
         density: 0.946 g/cm<sup>3</sup>
         surface_gravity: 18.572 m/s<sup>2</sup><br />(1.894 g<sub>0</sub>)
         escape_velocity: 51.130 km/s<br />(184,068 km/h)
         rotation_period: 86.183 d
         axial_tilt: 22.52°
         albedo: 0.30
-        temperature: 690 K<br />(417 °C)
+        temperature: 130 K<br />(-144 °C)
 ---

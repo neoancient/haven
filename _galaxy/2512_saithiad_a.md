@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2512 Saithiad A is a star in the constellation Saith
+      2512 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 201.98 ly
 apparent_magnitude: 6.71
 absolute_magnitude: 2.75

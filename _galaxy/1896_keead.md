@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1896 Keead is a star in the constellation Kee
+      1896 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 332.61 ly
 apparent_magnitude: 10.03
 absolute_magnitude: 4.98

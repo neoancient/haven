@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1033 Orshenniad is a star in the constellation Orshen
+      1033 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 542.23 ly
 apparent_magnitude: 11.72
 absolute_magnitude: 5.62

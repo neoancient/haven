@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1615 Narashiad is a star in the constellation Naras
+      1615 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 475.20 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 4.81

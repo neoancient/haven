@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      973 Shanniashiad A is a star in the constellation Shannias
+      973 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1264.85 ly
 apparent_magnitude: 7.00
 absolute_magnitude: -0.94

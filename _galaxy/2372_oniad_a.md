@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2372 Oniad A is a star in the constellation Oni
+      2372 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 980.90 ly
 apparent_magnitude: 6.87
 absolute_magnitude: -0.52

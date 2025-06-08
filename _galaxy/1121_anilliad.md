@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1121 Anilliad is a star in the constellation Anil
+      1121 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 423.77 ly
 apparent_magnitude: 11.61
 absolute_magnitude: 6.04

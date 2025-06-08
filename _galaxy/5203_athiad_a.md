@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5203 Athiad A is a star in the constellation Ath
+      5203 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 376.56 ly
 apparent_magnitude: 10.16
 absolute_magnitude: 4.84

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9956 Arkothiad is a star in the constellation Arkoth
+      9956 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 260.00 ly
 apparent_magnitude: 8.37
 absolute_magnitude: 3.87

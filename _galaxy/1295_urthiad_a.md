@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1295 Urthiad A is a star in the constellation Urth
+      1295 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 818.45 ly
 apparent_magnitude: 6.76
 absolute_magnitude: -0.24

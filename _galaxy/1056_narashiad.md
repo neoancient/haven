@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1056 Narashiad is a star in the constellation Naras
+      1056 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 311.61 ly
 apparent_magnitude: 16.95
 absolute_magnitude: 12.05

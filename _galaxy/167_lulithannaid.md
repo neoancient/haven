@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      167 Lulithannaid is a star in the constellation Lulithan
+      167 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 519.41 ly
 apparent_magnitude: 8.73
 absolute_magnitude: 2.72

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0097 Pelnemenniad B is a star in the constellation Pelnemen
+      0097 Pelnemenniad B is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 250.87 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 5.02

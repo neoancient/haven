@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1974 Ratharshinniad is a star in the constellation Ratharshin
+      1974 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 325.34 ly
 apparent_magnitude: 10.17
 absolute_magnitude: 5.17

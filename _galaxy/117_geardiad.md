@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      117 Geardiad is a star in the constellation Geard
+      117 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 651.18 ly
 apparent_magnitude: 10.31
 absolute_magnitude: 3.81

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2979 Shanniashiad is a star in the constellation Shannias
+      2979 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 595.03 ly
 apparent_magnitude: 6.72
 absolute_magnitude: 0.42
@@ -31,14 +31,14 @@ planets:
     radius: 10,960.7 km<br/>(1.720 Yrths)
     surface_area: 1.510 × 10<sup>09</sup> km<sup>2</sup><br/>(2.960 Yrths)
     volume: 5.516 × 10<sup>12</sup> km<sup>3</sup><br/>(5.092 Yrths)
-    mass: 3.878 × 10<sup>25</sup> kg<br />(6.493359273704413 Yrths)
+    mass: 3.878 × 10<sup>25</sup> kg<br />(6.49 Yrths)
     density: 7.031 g/cm<sup>3</sup>
     surface_gravity: 21.514 m/s<sup>2</sup><br />(2.194 g<sub>0</sub>)
     escape_velocity: 21.732 km/s<br />(78,234 km/h)
     rotation_period: 0.583 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 701 K<br />(428 °C)
+    temperature: 1892 K<br />(1619 °C)
     surface_pressure: 5,030 kPa<br />(50 atm)
     composition:
       - 90.6992% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 8,897.0 km<br/>(1.396 Yrths)
         surface_area: 9.947 × 10<sup>08</sup> km<sup>2</sup><br/>(1.950 Yrths)
         volume: 2.950 × 10<sup>12</sup> km<sup>3</sup><br/>(2.723 Yrths)
-        mass: 9.040 × 10<sup>24</sup> kg<br />(6.493359273704413 Yrths)
+        mass: 9.040 × 10<sup>24</sup> kg<br />(1.514 Yrths)
         density: 3.064 g/cm<sup>3</sup>
         surface_gravity: 7.612 m/s<sup>2</sup><br />(0.776 g<sub>0</sub>)
         escape_velocity: 11.646 km/s<br />(41,925 km/h)
         rotation_period: 37.607 d
         axial_tilt: 11.44°
         albedo: 0.30
-        temperature: 5386 K<br />(5113 °C)
+        temperature: 356 K<br />(82 °C)
       - name: 2979 Shanniashiad I b
         type: Rocky
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 8,682.2 km<br/>(1.363 Yrths)
         surface_area: 9.473 × 10<sup>08</sup> km<sup>2</sup><br/>(1.857 Yrths)
         volume: 2.741 × 10<sup>12</sup> km<sup>3</sup><br/>(2.531 Yrths)
-        mass: 8.810 × 10<sup>24</sup> kg<br />(6.493359273704413 Yrths)
+        mass: 8.810 × 10<sup>24</sup> kg<br />(1.475 Yrths)
         density: 3.213 g/cm<sup>3</sup>
         surface_gravity: 7.789 m/s<sup>2</sup><br />(0.794 g<sub>0</sub>)
         escape_velocity: 11.638 km/s<br />(41,897 km/h)
         rotation_period: 31.397 d
         axial_tilt: 7.62°
         albedo: 0.30
-        temperature: 5136 K<br />(4863 °C)
+        temperature: 356 K<br />(82 °C)
       - name: 2979 Shanniashiad I c
         type: Rocky
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 4,816.1 km<br/>(0.756 Yrths)
         surface_area: 2.915 × 10<sup>08</sup> km<sup>2</sup><br/>(0.571 Yrths)
         volume: 4.679 × 10<sup>11</sup> km<sup>3</sup><br/>(0.432 Yrths)
-        mass: 1.461 × 10<sup>24</sup> kg<br />(6.493359273704413 Yrths)
+        mass: 1.461 × 10<sup>24</sup> kg<br />(0.245 Yrths)
         density: 3.123 g/cm<sup>3</sup>
         surface_gravity: 4.199 m/s<sup>2</sup><br />(0.428 g<sub>0</sub>)
         escape_velocity: 6.364 km/s<br />(22,912 km/h)
         rotation_period: 28.532 d
         axial_tilt: 16.39°
         albedo: 0.30
-        temperature: 4897 K<br />(4624 °C)
+        temperature: 356 K<br />(82 °C)
   - name: 2979 Shanniashiad II
     type: Gas giant
     aphelion: 1,059,375,458 km<br />7.081 AU
@@ -118,14 +118,14 @@ planets:
     radius: 223.8 km<br/>(0.035 Yrths)
     surface_area: 6.295 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.696 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.643 × 10<sup>27</sup> kg<br />(275.184729053037 Yrths)
+    mass: 1.643 × 10<sup>27</sup> kg<br />(275.18 Yrths)
     density: 34994310.547 g/cm<sup>3</sup>
     surface_gravity: 2186694.756 m/s<sup>2</sup><br />(222980.810 g<sub>0</sub>)
     escape_velocity: 990.027 km/s<br />(3,564,096 km/h)
     rotation_period: 0.238 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1044 K<br />(771 °C)
+    temperature: 1013 K<br />(739 °C)
     composition:
       - 65.2580% hydrogen
       - 27.3415% helium
@@ -146,14 +146,14 @@ planets:
         radius: 439,185.7 km<br/>(68.935 Yrths)
         surface_area: 2.424 × 10<sup>12</sup> km<sup>2</sup><br/>(4752.052 Yrths)
         volume: 3.548 × 10<sup>17</sup> km<sup>3</sup><br/>(327583.282 Yrths)
-        mass: 2.768 × 10<sup>29</sup> kg<br />(275.184729053037 Yrths)
+        mass: 2.768 × 10<sup>29</sup> kg<br />(46351.341 Yrths)
         density: 0.780 g/cm<sup>3</sup>
         surface_gravity: 95.654 m/s<sup>2</sup><br />(9.754 g<sub>0</sub>)
         escape_velocity: 290.058 km/s<br />(1,044,209 km/h)
         rotation_period: 84.700 d
         axial_tilt: 20.25°
         albedo: 0.30
-        temperature: 1584 K<br />(1311 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 2979 Shanniashiad II b
         type: Icy
         formationType: Accreted
@@ -166,14 +166,14 @@ planets:
         radius: 200,912.4 km<br/>(31.535 Yrths)
         surface_area: 5.073 × 10<sup>11</sup> km<sup>2</sup><br/>(994.485 Yrths)
         volume: 3.397 × 10<sup>16</sup> km<sup>3</sup><br/>(31361.548 Yrths)
-        mass: 3.499 × 10<sup>28</sup> kg<br />(275.184729053037 Yrths)
+        mass: 3.499 × 10<sup>28</sup> kg<br />(5859.357 Yrths)
         density: 1.030 g/cm<sup>3</sup>
         surface_gravity: 57.779 m/s<sup>2</sup><br />(5.892 g<sub>0</sub>)
         escape_velocity: 152.475 km/s<br />(548,911 km/h)
         rotation_period: 77.961 d
         axial_tilt: 18.24°
         albedo: 0.30
-        temperature: 1373 K<br />(1100 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 2979 Shanniashiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -186,14 +186,14 @@ planets:
         radius: 195,191.3 km<br/>(30.637 Yrths)
         surface_area: 4.788 × 10<sup>11</sup> km<sup>2</sup><br/>(938.654 Yrths)
         volume: 3.115 × 10<sup>16</sup> km<sup>3</sup><br/>(28757.972 Yrths)
-        mass: 5.862 × 10<sup>28</sup> kg<br />(275.184729053037 Yrths)
+        mass: 5.862 × 10<sup>28</sup> kg<br />(9815.060 Yrths)
         density: 1.882 g/cm<sup>3</sup>
         surface_gravity: 102.543 m/s<sup>2</sup><br />(10.457 g<sub>0</sub>)
         escape_velocity: 200.214 km/s<br />(720,770 km/h)
         rotation_period: 46.518 d
         axial_tilt: 18.15°
         albedo: 0.30
-        temperature: 1248 K<br />(975 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 2979 Shanniashiad II d
         type: Asteroid
         formationType: Captured
@@ -206,14 +206,14 @@ planets:
         radius: 215,322.9 km<br/>(33.797 Yrths)
         surface_area: 5.826 × 10<sup>11</sup> km<sup>2</sup><br/>(1142.260 Yrths)
         volume: 4.182 × 10<sup>16</sup> km<sup>3</sup><br/>(38605.359 Yrths)
-        mass: 6.240 × 10<sup>28</sup> kg<br />(275.184729053037 Yrths)
+        mass: 6.240 × 10<sup>28</sup> kg<br />(10449.522 Yrths)
         density: 1.492 g/cm<sup>3</sup>
         surface_gravity: 89.712 m/s<sup>2</sup><br />(9.148 g<sub>0</sub>)
         escape_velocity: 196.689 km/s<br />(708,082 km/h)
         rotation_period: 68.356 d
         axial_tilt: 15.72°
         albedo: 0.30
-        temperature: 529 K<br />(256 °C)
+        temperature: 254 K<br />(-19 °C)
       - name: 2979 Shanniashiad II e
         type: Icy
         formationType: Impact formed
@@ -226,14 +226,14 @@ planets:
         radius: 236,707.5 km<br/>(37.154 Yrths)
         surface_area: 7.041 × 10<sup>11</sup> km<sup>2</sup><br/>(1380.412 Yrths)
         volume: 5.556 × 10<sup>16</sup> km<sup>3</sup><br/>(51287.691 Yrths)
-        mass: 5.656 × 10<sup>28</sup> kg<br />(275.184729053037 Yrths)
+        mass: 5.656 × 10<sup>28</sup> kg<br />(9471.334 Yrths)
         density: 1.018 g/cm<sup>3</sup>
         surface_gravity: 67.286 m/s<sup>2</sup><br />(6.861 g<sub>0</sub>)
         escape_velocity: 178.598 km/s<br />(642,954 km/h)
         rotation_period: 68.419 d
         axial_tilt: 25.66°
         albedo: 0.30
-        temperature: 481 K<br />(208 °C)
+        temperature: 254 K<br />(-19 °C)
   - name: 2979 Shanniashiad III
     type: Large terrestrial
     aphelion: 2,075,680,204 km<br />13.875 AU
@@ -245,7 +245,7 @@ planets:
     radius: 14,570.9 km<br/>(2.287 Yrths)
     surface_area: 2.668 × 10<sup>09</sup> km<sup>2</sup><br/>(5.231 Yrths)
     volume: 1.296 × 10<sup>13</sup> km<sup>3</sup><br/>(11.963 Yrths)
-    mass: 8.516 × 10<sup>25</sup> kg<br />(14.25922142710071 Yrths)
+    mass: 8.516 × 10<sup>25</sup> kg<br />(14.26 Yrths)
     density: 6.572 g/cm<sup>3</sup>
     surface_gravity: 26.734 m/s<sup>2</sup><br />(2.726 g<sub>0</sub>)
     escape_velocity: 27.931 km/s<br />(100,551 km/h)
@@ -266,14 +266,14 @@ planets:
         radius: 18,726.6 km<br/>(2.939 Yrths)
         surface_area: 4.407 × 10<sup>09</sup> km<sup>2</sup><br/>(8.640 Yrths)
         volume: 2.751 × 10<sup>13</sup> km<sup>3</sup><br/>(25.395 Yrths)
-        mass: 3.328 × 10<sup>25</sup> kg<br />(14.25922142710071 Yrths)
+        mass: 3.328 × 10<sup>25</sup> kg<br />(5.573 Yrths)
         density: 1.210 g/cm<sup>3</sup>
         surface_gravity: 6.326 m/s<sup>2</sup><br />(0.645 g<sub>0</sub>)
         escape_velocity: 15.403 km/s<br />(55,452 km/h)
         rotation_period: 46.366 d
         axial_tilt: 17.66°
         albedo: 0.30
-        temperature: 1849 K<br />(1576 °C)
+        temperature: 182 K<br />(-92 °C)
       - name: 2979 Shanniashiad III b
         type: Rocky
         formationType: Impact formed
@@ -286,12 +286,12 @@ planets:
         radius: 21,307.0 km<br/>(3.344 Yrths)
         surface_area: 5.705 × 10<sup>09</sup> km<sup>2</sup><br/>(11.185 Yrths)
         volume: 4.052 × 10<sup>13</sup> km<sup>3</sup><br/>(37.406 Yrths)
-        mass: 1.148 × 10<sup>26</sup> kg<br />(14.25922142710071 Yrths)
+        mass: 1.148 × 10<sup>26</sup> kg<br />(19.221 Yrths)
         density: 2.833 g/cm<sup>3</sup>
         surface_gravity: 16.852 m/s<sup>2</sup><br />(1.718 g<sub>0</sub>)
         escape_velocity: 26.817 km/s<br />(96,540 km/h)
         rotation_period: 32.919 d
         axial_tilt: 14.97°
         albedo: 0.30
-        temperature: 1763 K<br />(1490 °C)
+        temperature: 182 K<br />(-92 °C)
 ---

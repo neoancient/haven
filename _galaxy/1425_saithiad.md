@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1425 Saithiad is a star in the constellation Saith
+      1425 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1022.30 ly
 apparent_magnitude: 11.10
 absolute_magnitude: 3.61

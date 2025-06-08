@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0153 Niniunniad B is a star in the constellation Niniun
+      0153 Niniunniad B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 2178.38 ly
 apparent_magnitude: 13.93
 absolute_magnitude: 4.80

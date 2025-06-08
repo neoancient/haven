@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1620 Geardiad is a star in the constellation Geard
+      1620 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 322.82 ly
 apparent_magnitude: 9.73
 absolute_magnitude: 4.75

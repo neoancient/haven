@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0111 Switheriad B is a star in the constellation Swither
+      0111 Switheriad B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 394.45 ly
 apparent_magnitude: 7.07
 absolute_magnitude: 1.66

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9570 Tanashad is a star in the constellation Tanas
+      9570 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 285.99 ly
 apparent_magnitude: 9.61
 absolute_magnitude: 4.89

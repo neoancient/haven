@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      80 Shuliad is a star in the constellation Shuli
+      80 Shuliad is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 164.41 ly
 apparent_magnitude: 8.29
 absolute_magnitude: 4.78

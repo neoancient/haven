@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3149 Narashiad is a star in the constellation Naras
+      3149 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 643.07 ly
 apparent_magnitude: 9.22
 absolute_magnitude: 2.74

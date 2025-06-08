@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      908 Arkothiad is a star in the constellation Arkoth
+      908 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 262.55 ly
 apparent_magnitude: 11.25
 absolute_magnitude: 6.72
@@ -31,14 +31,14 @@ planets:
     radius: 4,099.0 km<br/>(0.643 Yrths)
     surface_area: 2.111 × 10<sup>08</sup> km<sup>2</sup><br/>(0.414 Yrths)
     volume: 2.885 × 10<sup>11</sup> km<sup>3</sup><br/>(0.266 Yrths)
-    mass: 1.877 × 10<sup>24</sup> kg<br />(0.31437084175014257 Yrths)
+    mass: 1.877 × 10<sup>24</sup> kg<br />(0.31 Yrths)
     density: 6.508 g/cm<sup>3</sup>
     surface_gravity: 7.448 m/s<sup>2</sup><br />(0.759 g<sub>0</sub>)
     escape_velocity: 7.819 km/s<br />(28,149 km/h)
     rotation_period: 5.998 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 402 K<br />(129 °C)
+    temperature: 883 K<br />(610 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 52.9086% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 930.3 km<br/>(0.146 Yrths)
         surface_area: 1.088 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.372 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 1.029 × 10<sup>22</sup> kg<br />(0.31437084175014257 Yrths)
+        mass: 1.029 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 3.052 g/cm<sup>3</sup>
         surface_gravity: 0.793 m/s<sup>2</sup><br />(0.081 g<sub>0</sub>)
         escape_velocity: 1.215 km/s<br />(4,375 km/h)
         rotation_period: 28.717 d
         axial_tilt: 31.96°
         albedo: 0.30
-        temperature: 5975 K<br />(5702 °C)
+        temperature: 318 K<br />(45 °C)
   - name: 908 Arkothiad II
     type: Terrestrial
     aphelion: 87,266,723 km<br />0.583 AU
@@ -75,7 +75,7 @@ planets:
     radius: 7,192.3 km<br/>(1.129 Yrths)
     surface_area: 6.500 × 10<sup>08</sup> km<sup>2</sup><br/>(1.274 Yrths)
     volume: 1.558 × 10<sup>12</sup> km<sup>3</sup><br/>(1.439 Yrths)
-    mass: 7.287 × 10<sup>24</sup> kg<br />(1.2202154495433213 Yrths)
+    mass: 7.287 × 10<sup>24</sup> kg<br />(1.22 Yrths)
     density: 4.676 g/cm<sup>3</sup>
     surface_gravity: 9.389 m/s<sup>2</sup><br />(0.957 g<sub>0</sub>)
     escape_velocity: 11.630 km/s<br />(41,866 km/h)
@@ -96,14 +96,14 @@ planets:
         radius: 2,188.5 km<br/>(0.344 Yrths)
         surface_area: 6.019 × 10<sup>07</sup> km<sup>2</sup><br/>(0.118 Yrths)
         volume: 4.391 × 10<sup>10</sup> km<sup>3</sup><br/>(0.041 Yrths)
-        mass: 1.355 × 10<sup>23</sup> kg<br />(1.2202154495433213 Yrths)
+        mass: 1.355 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 3.086 g/cm<sup>3</sup>
         surface_gravity: 1.886 m/s<sup>2</sup><br />(0.192 g<sub>0</sub>)
         escape_velocity: 2.875 km/s<br />(10,350 km/h)
         rotation_period: 32.294 d
         axial_tilt: 6.84°
         albedo: 0.30
-        temperature: 3189 K<br />(2916 °C)
+        temperature: 250 K<br />(-23 °C)
   - name: 908 Arkothiad III
     type: Large terrestrial
     aphelion: 140,744,082 km<br />0.941 AU
@@ -115,14 +115,14 @@ planets:
     radius: 2,771.0 km<br/>(0.435 Yrths)
     surface_area: 9.649 × 10<sup>07</sup> km<sup>2</sup><br/>(0.189 Yrths)
     volume: 8.912 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.701 g/cm<sup>3</sup>
     surface_gravity: 5.184 m/s<sup>2</sup><br />(0.529 g<sub>0</sub>)
     escape_velocity: 5.364 km/s<br />(19,309 km/h)
     rotation_period: 3.326 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 241 K<br />(-32 °C)
+    temperature: 298 K<br />(24 °C)
     surface_pressure: 83 kPa<br />(1 atm)
     composition:
       - 84.3975% methane
@@ -142,14 +142,14 @@ planets:
         radius: 635.9 km<br/>(0.100 Yrths)
         surface_area: 5.081 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.077 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.699 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.699 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.578 g/cm<sup>3</sup>
         surface_gravity: 0.280 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.597 km/s<br />(2,150 km/h)
         rotation_period: 61.360 d
         axial_tilt: 20.95°
         albedo: 0.30
-        temperature: 3981 K<br />(3708 °C)
+        temperature: 196 K<br />(-77 °C)
       - name: 908 Arkothiad III b
         type: Rocky
         formationType: Accreted
@@ -162,14 +162,14 @@ planets:
         radius: 385.6 km<br/>(0.061 Yrths)
         surface_area: 1.869 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.402 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 7.694 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 7.694 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.202 g/cm<sup>3</sup>
         surface_gravity: 0.345 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.516 km/s<br />(1,858 km/h)
         rotation_period: 32.015 d
         axial_tilt: 23.27°
         albedo: 0.30
-        temperature: 3796 K<br />(3523 °C)
+        temperature: 196 K<br />(-77 °C)
   - name: 908 Arkothiad IV
     type: Large terrestrial
     aphelion: 227,841,569 km<br />1.523 AU
@@ -181,14 +181,14 @@ planets:
     radius: 7,663.2 km<br/>(1.203 Yrths)
     surface_area: 7.380 × 10<sup>08</sup> km<sup>2</sup><br/>(1.447 Yrths)
     volume: 1.885 × 10<sup>12</sup> km<sup>3</sup><br/>(1.740 Yrths)
-    mass: 1.209 × 10<sup>25</sup> kg<br />(2.0250097342489863 Yrths)
+    mass: 1.209 × 10<sup>25</sup> kg<br />(2.03 Yrths)
     density: 6.415 g/cm<sup>3</sup>
     surface_gravity: 13.726 m/s<sup>2</sup><br />(1.400 g<sub>0</sub>)
     escape_velocity: 14.514 km/s<br />(52,250 km/h)
     rotation_period: 1.306 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 192 K<br />(-82 °C)
+    temperature: 169 K<br />(-104 °C)
     surface_pressure: 195 kPa<br />(2 atm)
     composition:
       - 96.2193% nitrogen
@@ -206,12 +206,12 @@ planets:
         radius: 6,133.9 km<br/>(0.963 Yrths)
         surface_area: 4.728 × 10<sup>08</sup> km<sup>2</sup><br/>(0.927 Yrths)
         volume: 9.667 × 10<sup>11</sup> km<sup>3</sup><br/>(0.892 Yrths)
-        mass: 2.873 × 10<sup>24</sup> kg<br />(2.0250097342489863 Yrths)
+        mass: 2.873 × 10<sup>24</sup> kg<br />(0.481 Yrths)
         density: 2.972 g/cm<sup>3</sup>
         surface_gravity: 5.089 m/s<sup>2</sup><br />(0.519 g<sub>0</sub>)
         escape_velocity: 7.907 km/s<br />(28,464 km/h)
         rotation_period: 30.593 d
         axial_tilt: 10.68°
         albedo: 0.30
-        temperature: 1814 K<br />(1541 °C)
+        temperature: 154 K<br />(-119 °C)
 ---

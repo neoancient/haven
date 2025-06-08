@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3020 Oniad is a star in the constellation Oni
+      3020 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1175.19 ly
 apparent_magnitude: 12.62
 absolute_magnitude: 4.84

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6459 Anilliad is a star in the constellation Anil
+      6459 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 233.86 ly
 apparent_magnitude: 17.11
 absolute_magnitude: 12.83

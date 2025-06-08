@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Nuaniad A is a star in the constellation Nuani
+      σ Nuaniad A is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 93.06 ly
 apparent_magnitude: 5.24
 absolute_magnitude: 2.97

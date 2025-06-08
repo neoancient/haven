@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0025 Orshenniad C is a star in the constellation Orshen
+      0025 Orshenniad C is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 227.33 ly
 apparent_magnitude: 9.76
 absolute_magnitude: 5.55
@@ -31,14 +31,14 @@ planets:
     radius: 32,923.5 km<br/>(5.168 Yrths)
     surface_area: 1.362 × 10<sup>10</sup> km<sup>2</sup><br/>(26.705 Yrths)
     volume: 1.495 × 10<sup>14</sup> km<sup>3</sup><br/>(138.005 Yrths)
-    mass: 2.017 × 10<sup>26</sup> kg<br />(33.76661131529425 Yrths)
+    mass: 2.017 × 10<sup>26</sup> kg<br />(33.77 Yrths)
     density: 1.349 g/cm<sup>3</sup>
     surface_gravity: 12.400 m/s<sup>2</sup><br />(1.264 g<sub>0</sub>)
     escape_velocity: 28.594 km/s<br />(102,937 km/h)
     rotation_period: 0.616 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 393 K<br />(120 °C)
+    temperature: 349 K<br />(76 °C)
     composition:
       - 80.2499% hydrogen
       - 19.7501% helium
@@ -55,14 +55,14 @@ planets:
         radius: 9,831.3 km<br/>(1.543 Yrths)
         surface_area: 1.215 × 10<sup>09</sup> km<sup>2</sup><br/>(2.381 Yrths)
         volume: 3.980 × 10<sup>12</sup> km<sup>3</sup><br/>(3.675 Yrths)
-        mass: 5.401 × 10<sup>24</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 5.401 × 10<sup>24</sup> kg<br />(0.904 Yrths)
         density: 1.357 g/cm<sup>3</sup>
         surface_gravity: 3.724 m/s<sup>2</sup><br />(0.380 g<sub>0</sub>)
         escape_velocity: 8.563 km/s<br />(30,827 km/h)
         rotation_period: 55.856 d
         axial_tilt: 14.27°
         albedo: 0.30
-        temperature: 1975 K<br />(1701 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I b
         type: Rocky
         formationType: Captured
@@ -75,14 +75,14 @@ planets:
         radius: 16,652.2 km<br/>(2.614 Yrths)
         surface_area: 3.485 × 10<sup>09</sup> km<sup>2</sup><br/>(6.832 Yrths)
         volume: 1.934 × 10<sup>13</sup> km<sup>3</sup><br/>(17.856 Yrths)
-        mass: 6.141 × 10<sup>25</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 6.141 × 10<sup>25</sup> kg<br />(10.283 Yrths)
         density: 3.175 g/cm<sup>3</sup>
         surface_gravity: 14.761 m/s<sup>2</sup><br />(1.505 g<sub>0</sub>)
         escape_velocity: 22.187 km/s<br />(79,874 km/h)
         rotation_period: 32.058 d
         axial_tilt: 8.65°
         albedo: 0.30
-        temperature: 1883 K<br />(1610 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I c
         type: Icy
         formationType: Impact formed
@@ -95,14 +95,14 @@ planets:
         radius: 24,431.1 km<br/>(3.835 Yrths)
         surface_area: 7.501 × 10<sup>09</sup> km<sup>2</sup><br/>(14.705 Yrths)
         volume: 6.108 × 10<sup>13</sup> km<sup>3</sup><br/>(56.390 Yrths)
-        mass: 7.518 × 10<sup>25</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 7.518 × 10<sup>25</sup> kg<br />(12.589 Yrths)
         density: 1.231 g/cm<sup>3</sup>
         surface_gravity: 8.396 m/s<sup>2</sup><br />(0.856 g<sub>0</sub>)
         escape_velocity: 20.268 km/s<br />(72,965 km/h)
         rotation_period: 76.846 d
         axial_tilt: 15.02°
         albedo: 0.30
-        temperature: 1712 K<br />(1438 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I d
         type: Icy
         formationType: Captured
@@ -115,14 +115,14 @@ planets:
         radius: 34,927.7 km<br/>(5.482 Yrths)
         surface_area: 1.533 × 10<sup>10</sup> km<sup>2</sup><br/>(30.056 Yrths)
         volume: 1.785 × 10<sup>14</sup> km<sup>3</sup><br/>(164.774 Yrths)
-        mass: 2.278 × 10<sup>26</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 2.278 × 10<sup>26</sup> kg<br />(38.149 Yrths)
         density: 1.276 g/cm<sup>3</sup>
         surface_gravity: 12.447 m/s<sup>2</sup><br />(1.269 g<sub>0</sub>)
         escape_velocity: 29.508 km/s<br />(106,227 km/h)
         rotation_period: 65.624 d
         axial_tilt: 25.25°
         albedo: 0.30
-        temperature: 1632 K<br />(1359 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I e
         type: Dwarf planet
         formationType: Captured
@@ -135,14 +135,14 @@ planets:
         radius: 19,925.2 km<br/>(3.127 Yrths)
         surface_area: 4.989 × 10<sup>09</sup> km<sup>2</sup><br/>(9.781 Yrths)
         volume: 3.314 × 10<sup>13</sup> km<sup>3</sup><br/>(30.590 Yrths)
-        mass: 7.269 × 10<sup>25</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 7.269 × 10<sup>25</sup> kg<br />(12.171 Yrths)
         density: 2.194 g/cm<sup>3</sup>
         surface_gravity: 12.203 m/s<sup>2</sup><br />(1.244 g<sub>0</sub>)
         escape_velocity: 22.067 km/s<br />(79,441 km/h)
         rotation_period: 54.941 d
         axial_tilt: 33.60°
         albedo: 0.30
-        temperature: 1556 K<br />(1283 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I f
         type: Icy
         formationType: Captured
@@ -155,14 +155,14 @@ planets:
         radius: 30,884.0 km<br/>(4.848 Yrths)
         surface_area: 1.199 × 10<sup>10</sup> km<sup>2</sup><br/>(23.499 Yrths)
         volume: 1.234 × 10<sup>14</sup> km<sup>3</sup><br/>(113.914 Yrths)
-        mass: 1.742 × 10<sup>26</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 1.742 × 10<sup>26</sup> kg<br />(29.165 Yrths)
         density: 1.412 g/cm<sup>3</sup>
         surface_gravity: 12.171 m/s<sup>2</sup><br />(1.241 g<sub>0</sub>)
         escape_velocity: 27.437 km/s<br />(98,774 km/h)
         rotation_period: 56.014 d
         axial_tilt: 11.28°
         albedo: 0.30
-        temperature: 1484 K<br />(1210 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I g
         type: Rocky
         formationType: Captured
@@ -175,14 +175,14 @@ planets:
         radius: 18,223.6 km<br/>(2.860 Yrths)
         surface_area: 4.173 × 10<sup>09</sup> km<sup>2</sup><br/>(8.182 Yrths)
         volume: 2.535 × 10<sup>13</sup> km<sup>3</sup><br/>(23.404 Yrths)
-        mass: 8.806 × 10<sup>25</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 8.806 × 10<sup>25</sup> kg<br />(14.746 Yrths)
         density: 3.474 g/cm<sup>3</sup>
         surface_gravity: 17.675 m/s<sup>2</sup><br />(1.802 g<sub>0</sub>)
         escape_velocity: 25.398 km/s<br />(91,433 km/h)
         rotation_period: 29.908 d
         axial_tilt: 18.75°
         albedo: 0.30
-        temperature: 1414 K<br />(1141 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I h
         type: Icy
         formationType: Accreted
@@ -195,14 +195,14 @@ planets:
         radius: 31,985.7 km<br/>(5.021 Yrths)
         surface_area: 1.286 × 10<sup>10</sup> km<sup>2</sup><br/>(25.206 Yrths)
         volume: 1.371 × 10<sup>14</sup> km<sup>3</sup><br/>(126.545 Yrths)
-        mass: 1.365 × 10<sup>26</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 1.365 × 10<sup>26</sup> kg<br />(22.854 Yrths)
         density: 0.996 g/cm<sup>3</sup>
         surface_gravity: 8.892 m/s<sup>2</sup><br />(0.907 g<sub>0</sub>)
         escape_velocity: 23.866 km/s<br />(85,918 km/h)
         rotation_period: 65.053 d
         axial_tilt: 23.13°
         albedo: 0.30
-        temperature: 1349 K<br />(1075 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I i
         type: Ice/rock hybrid
         formationType: Captured
@@ -215,14 +215,14 @@ planets:
         radius: 13,850.8 km<br/>(2.174 Yrths)
         surface_area: 2.411 × 10<sup>09</sup> km<sup>2</sup><br/>(4.726 Yrths)
         volume: 1.113 × 10<sup>13</sup> km<sup>3</sup><br/>(10.275 Yrths)
-        mass: 2.620 × 10<sup>25</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 2.620 × 10<sup>25</sup> kg<br />(4.388 Yrths)
         density: 2.354 g/cm<sup>3</sup>
         surface_gravity: 9.104 m/s<sup>2</sup><br />(0.928 g<sub>0</sub>)
         escape_velocity: 15.891 km/s<br />(57,208 km/h)
         rotation_period: 43.018 d
         axial_tilt: 32.38°
         albedo: 0.30
-        temperature: 1286 K<br />(1013 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I j
         type: Ice/rock hybrid
         formationType: Captured
@@ -235,14 +235,14 @@ planets:
         radius: 12,417.7 km<br/>(1.949 Yrths)
         surface_area: 1.938 × 10<sup>09</sup> km<sup>2</sup><br/>(3.799 Yrths)
         volume: 8.021 × 10<sup>12</sup> km<sup>3</sup><br/>(7.405 Yrths)
-        mass: 1.392 × 10<sup>25</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 1.392 × 10<sup>25</sup> kg<br />(2.332 Yrths)
         density: 1.736 g/cm<sup>3</sup>
         surface_gravity: 6.019 m/s<sup>2</sup><br />(0.614 g<sub>0</sub>)
         escape_velocity: 12.234 km/s<br />(44,044 km/h)
         rotation_period: 41.849 d
         axial_tilt: 10.36°
         albedo: 0.30
-        temperature: 1226 K<br />(953 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I k
         type: Rocky
         formationType: Accreted
@@ -255,14 +255,14 @@ planets:
         radius: 18,880.0 km<br/>(2.963 Yrths)
         surface_area: 4.479 × 10<sup>09</sup> km<sup>2</sup><br/>(8.782 Yrths)
         volume: 2.819 × 10<sup>13</sup> km<sup>3</sup><br/>(26.024 Yrths)
-        mass: 7.767 × 10<sup>25</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 7.767 × 10<sup>25</sup> kg<br />(13.005 Yrths)
         density: 2.755 g/cm<sup>3</sup>
         surface_gravity: 14.523 m/s<sup>2</sup><br />(1.481 g<sub>0</sub>)
         escape_velocity: 23.434 km/s<br />(84,361 km/h)
         rotation_period: 46.988 d
         axial_tilt: 17.70°
         albedo: 0.30
-        temperature: 1169 K<br />(896 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0025 Orshenniad C I l
         type: Ice/rock hybrid
         formationType: Captured
@@ -275,12 +275,12 @@ planets:
         radius: 48,647.8 km<br/>(7.636 Yrths)
         surface_area: 2.974 × 10<sup>10</sup> km<sup>2</sup><br/>(58.306 Yrths)
         volume: 4.823 × 10<sup>14</sup> km<sup>3</sup><br/>(445.213 Yrths)
-        mass: 1.264 × 10<sup>27</sup> kg<br />(33.76661131529425 Yrths)
+        mass: 1.264 × 10<sup>27</sup> kg<br />(211.658 Yrths)
         density: 2.621 g/cm<sup>3</sup>
         surface_gravity: 35.599 m/s<sup>2</sup><br />(3.630 g<sub>0</sub>)
         escape_velocity: 58.893 km/s<br />(212,015 km/h)
         rotation_period: 41.840 d
         axial_tilt: 15.81°
         albedo: 0.30
-        temperature: 1115 K<br />(841 °C)
+        temperature: 242 K<br />(-31 °C)
 ---

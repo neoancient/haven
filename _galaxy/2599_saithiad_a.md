@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2599 Saithiad A is a star in the constellation Saith
+      2599 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 263.37 ly
 apparent_magnitude: 9.93
 absolute_magnitude: 5.40

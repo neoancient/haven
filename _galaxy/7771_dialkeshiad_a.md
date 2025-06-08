@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7771 Dialkeshiad A is a star in the constellation Dialkes
+      7771 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 827.64 ly
 apparent_magnitude: 6.83
 absolute_magnitude: -0.19

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      48620 Narashiad A is a star in the constellation Naras
+      48620 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 527.39 ly
 apparent_magnitude: 8.22
 absolute_magnitude: 2.18

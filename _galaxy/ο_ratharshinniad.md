@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Ratharshinniad is a star in the constellation Ratharshin
+      ο Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 43.27 ly
 apparent_magnitude: 5.18
 absolute_magnitude: 4.57
@@ -31,14 +31,14 @@ planets:
     radius: 8,639.5 km<br/>(1.356 Yrths)
     surface_area: 9.380 × 10<sup>08</sup> km<sup>2</sup><br/>(1.839 Yrths)
     volume: 2.701 × 10<sup>12</sup> km<sup>3</sup><br/>(2.494 Yrths)
-    mass: 1.923 × 10<sup>25</sup> kg<br />(3.2196131055085155 Yrths)
+    mass: 1.923 × 10<sup>25</sup> kg<br />(3.22 Yrths)
     density: 7.118 g/cm<sup>3</sup>
     surface_gravity: 17.170 m/s<sup>2</sup><br />(1.751 g<sub>0</sub>)
     escape_velocity: 17.236 km/s<br />(62,049 km/h)
     rotation_period: 0.748 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 393 K<br />(120 °C)
+    temperature: 831 K<br />(558 °C)
     surface_pressure: 1,223 kPa<br />(12 atm)
     composition:
       - 53.0798% carbon dioxide
@@ -61,14 +61,14 @@ planets:
         radius: 7,303.4 km<br/>(1.146 Yrths)
         surface_area: 6.703 × 10<sup>08</sup> km<sup>2</sup><br/>(1.314 Yrths)
         volume: 1.632 × 10<sup>12</sup> km<sup>3</sup><br/>(1.506 Yrths)
-        mass: 5.260 × 10<sup>24</sup> kg<br />(3.2196131055085155 Yrths)
+        mass: 5.260 × 10<sup>24</sup> kg<br />(0.881 Yrths)
         density: 3.224 g/cm<sup>3</sup>
         surface_gravity: 6.573 m/s<sup>2</sup><br />(0.670 g<sub>0</sub>)
         escape_velocity: 9.805 km/s<br />(35,299 km/h)
         rotation_period: 37.454 d
         axial_tilt: 10.54°
         albedo: 0.30
-        temperature: 3431 K<br />(3158 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: ο Ratharshinniad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -81,14 +81,14 @@ planets:
         radius: 5,531.4 km<br/>(0.868 Yrths)
         surface_area: 3.845 × 10<sup>08</sup> km<sup>2</sup><br/>(0.754 Yrths)
         volume: 7.089 × 10<sup>11</sup> km<sup>3</sup><br/>(0.654 Yrths)
-        mass: 1.591 × 10<sup>24</sup> kg<br />(3.2196131055085155 Yrths)
+        mass: 1.591 × 10<sup>24</sup> kg<br />(0.266 Yrths)
         density: 2.244 g/cm<sup>3</sup>
         surface_gravity: 3.465 m/s<sup>2</sup><br />(0.353 g<sub>0</sub>)
         escape_velocity: 6.196 km/s<br />(22,304 km/h)
         rotation_period: 56.721 d
         axial_tilt: 25.55°
         albedo: 0.30
-        temperature: 3272 K<br />(2998 °C)
+        temperature: 237 K<br />(-36 °C)
   - name: ο Ratharshinniad II
     type: Terrestrial
     aphelion: 368,068,473 km<br />2.460 AU
@@ -100,14 +100,14 @@ planets:
     radius: 6,841.9 km<br/>(1.074 Yrths)
     surface_area: 5.882 × 10<sup>08</sup> km<sup>2</sup><br/>(1.153 Yrths)
     volume: 1.342 × 10<sup>12</sup> km<sup>3</sup><br/>(1.239 Yrths)
-    mass: 7.094 × 10<sup>24</sup> kg<br />(1.187937697928165 Yrths)
+    mass: 7.094 × 10<sup>24</sup> kg<br />(1.19 Yrths)
     density: 5.288 g/cm<sup>3</sup>
     surface_gravity: 10.101 m/s<sup>2</sup><br />(1.030 g<sub>0</sub>)
     escape_velocity: 11.765 km/s<br />(42,354 km/h)
     rotation_period: 0.978 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 205 K<br />(-68 °C)
+    temperature: 226 K<br />(-47 °C)
     surface_pressure: 43 kPa<br />(0 atm)
     composition:
       - 83.8569% ammonia
@@ -126,12 +126,12 @@ planets:
         radius: 3,166.3 km<br/>(0.497 Yrths)
         surface_area: 1.260 × 10<sup>08</sup> km<sup>2</sup><br/>(0.247 Yrths)
         volume: 1.330 × 10<sup>11</sup> km<sup>3</sup><br/>(0.123 Yrths)
-        mass: 1.702 × 10<sup>23</sup> kg<br />(1.187937697928165 Yrths)
+        mass: 1.702 × 10<sup>23</sup> kg<br />(0.029 Yrths)
         density: 1.280 g/cm<sup>3</sup>
         surface_gravity: 1.132 m/s<sup>2</sup><br />(0.115 g<sub>0</sub>)
         escape_velocity: 2.679 km/s<br />(9,644 km/h)
         rotation_period: 64.039 d
         axial_tilt: 9.29°
         albedo: 0.30
-        temperature: 2568 K<br />(2295 °C)
+        temperature: 175 K<br />(-99 °C)
 ---

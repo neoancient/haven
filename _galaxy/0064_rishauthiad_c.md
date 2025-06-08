@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0064 Rishauthiad C is a star in the constellation Rishauth
+      0064 Rishauthiad C is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 1458.50 ly
 apparent_magnitude: 10.60
 absolute_magnitude: 2.35
@@ -31,14 +31,14 @@ planets:
     radius: 17,372.3 km<br/>(2.727 Yrths)
     surface_area: 3.792 × 10<sup>09</sup> km<sup>2</sup><br/>(7.435 Yrths)
     volume: 2.196 × 10<sup>13</sup> km<sup>3</sup><br/>(20.274 Yrths)
-    mass: 4.408 × 10<sup>25</sup> kg<br />(7.380328876659386 Yrths)
+    mass: 4.408 × 10<sup>25</sup> kg<br />(7.38 Yrths)
     density: 2.007 g/cm<sup>3</sup>
     surface_gravity: 9.734 m/s<sup>2</sup><br />(0.993 g<sub>0</sub>)
     escape_velocity: 18.403 km/s<br />(66,251 km/h)
     rotation_period: 0.521 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 611 K<br />(338 °C)
+    temperature: 570 K<br />(297 °C)
     composition:
       - 74.9924% hydrogen
       - 21.5032% helium
@@ -58,14 +58,14 @@ planets:
         radius: 15,349.3 km<br/>(2.409 Yrths)
         surface_area: 2.961 × 10<sup>09</sup> km<sup>2</sup><br/>(5.804 Yrths)
         volume: 1.515 × 10<sup>13</sup> km<sup>3</sup><br/>(13.984 Yrths)
-        mass: 3.836 × 10<sup>25</sup> kg<br />(7.380328876659386 Yrths)
+        mass: 3.836 × 10<sup>25</sup> kg<br />(6.423 Yrths)
         density: 2.532 g/cm<sup>3</sup>
         surface_gravity: 10.852 m/s<sup>2</sup><br />(1.107 g<sub>0</sub>)
         escape_velocity: 18.264 km/s<br />(65,752 km/h)
         rotation_period: 39.995 d
         axial_tilt: 18.98°
         albedo: 0.30
-        temperature: 4242 K<br />(3969 °C)
+        temperature: 382 K<br />(109 °C)
       - name: 0064 Rishauthiad C I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 8,614.7 km<br/>(1.352 Yrths)
         surface_area: 9.326 × 10<sup>08</sup> km<sup>2</sup><br/>(1.828 Yrths)
         volume: 2.678 × 10<sup>12</sup> km<sup>3</sup><br/>(2.472 Yrths)
-        mass: 5.781 × 10<sup>24</sup> kg<br />(7.380328876659386 Yrths)
+        mass: 5.781 × 10<sup>24</sup> kg<br />(0.968 Yrths)
         density: 2.159 g/cm<sup>3</sup>
         surface_gravity: 5.193 m/s<sup>2</sup><br />(0.529 g<sub>0</sub>)
         escape_velocity: 9.465 km/s<br />(34,074 km/h)
         rotation_period: 49.938 d
         axial_tilt: 9.13°
         albedo: 0.30
-        temperature: 4045 K<br />(3772 °C)
+        temperature: 382 K<br />(109 °C)
       - name: 0064 Rishauthiad C I c
         type: Icy
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 11,783.7 km<br/>(1.850 Yrths)
         surface_area: 1.745 × 10<sup>09</sup> km<sup>2</sup><br/>(3.421 Yrths)
         volume: 6.854 × 10<sup>12</sup> km<sup>3</sup><br/>(6.327 Yrths)
-        mass: 8.621 × 10<sup>24</sup> kg<br />(7.380328876659386 Yrths)
+        mass: 8.621 × 10<sup>24</sup> kg<br />(1.444 Yrths)
         density: 1.258 g/cm<sup>3</sup>
         surface_gravity: 4.138 m/s<sup>2</sup><br />(0.422 g<sub>0</sub>)
         escape_velocity: 9.882 km/s<br />(35,576 km/h)
         rotation_period: 85.007 d
         axial_tilt: 22.83°
         albedo: 0.30
-        temperature: 3856 K<br />(3583 °C)
+        temperature: 382 K<br />(109 °C)
   - name: 0064 Rishauthiad C II
     type: Gas dwarf
     aphelion: 409,538,041 km<br />2.738 AU
@@ -117,14 +117,14 @@ planets:
     radius: 19,955.4 km<br/>(3.132 Yrths)
     surface_area: 5.004 × 10<sup>09</sup> km<sup>2</sup><br/>(9.811 Yrths)
     volume: 3.329 × 10<sup>13</sup> km<sup>3</sup><br/>(30.730 Yrths)
-    mass: 7.368 × 10<sup>25</sup> kg<br />(12.336993934555904 Yrths)
+    mass: 7.368 × 10<sup>25</sup> kg<br />(12.34 Yrths)
     density: 2.213 g/cm<sup>3</sup>
     surface_gravity: 12.332 m/s<sup>2</sup><br />(1.257 g<sub>0</sub>)
     escape_velocity: 22.200 km/s<br />(79,920 km/h)
     rotation_period: 0.416 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 444 K<br />(171 °C)
+    temperature: 399 K<br />(126 °C)
     composition:
       - 98.3206% hydrogen
       - 1.6794% methane
@@ -141,14 +141,14 @@ planets:
         radius: 7,582.4 km<br/>(1.190 Yrths)
         surface_area: 7.225 × 10<sup>08</sup> km<sup>2</sup><br/>(1.416 Yrths)
         volume: 1.826 × 10<sup>12</sup> km<sup>3</sup><br/>(1.686 Yrths)
-        mass: 5.069 × 10<sup>24</sup> kg<br />(12.336993934555904 Yrths)
+        mass: 5.069 × 10<sup>24</sup> kg<br />(0.849 Yrths)
         density: 2.776 g/cm<sup>3</sup>
         surface_gravity: 5.876 m/s<sup>2</sup><br />(0.599 g<sub>0</sub>)
         escape_velocity: 9.446 km/s<br />(34,007 km/h)
         rotation_period: 39.827 d
         axial_tilt: 16.79°
         albedo: 0.30
-        temperature: 2819 K<br />(2546 °C)
+        temperature: 278 K<br />(5 °C)
       - name: 0064 Rishauthiad C II b
         type: Icy
         formationType: Accreted
@@ -161,14 +161,14 @@ planets:
         radius: 32,252.6 km<br/>(5.062 Yrths)
         surface_area: 1.307 × 10<sup>10</sup> km<sup>2</sup><br/>(25.628 Yrths)
         volume: 1.405 × 10<sup>14</sup> km<sup>3</sup><br/>(129.739 Yrths)
-        mass: 1.585 × 10<sup>26</sup> kg<br />(12.336993934555904 Yrths)
+        mass: 1.585 × 10<sup>26</sup> kg<br />(26.539 Yrths)
         density: 1.128 g/cm<sup>3</sup>
         surface_gravity: 10.155 m/s<sup>2</sup><br />(1.036 g<sub>0</sub>)
         escape_velocity: 25.611 km/s<br />(92,201 km/h)
         rotation_period: 64.743 d
         axial_tilt: 15.59°
         albedo: 0.30
-        temperature: 2688 K<br />(2415 °C)
+        temperature: 278 K<br />(5 °C)
       - name: 0064 Rishauthiad C II c
         type: Icy
         formationType: Impact formed
@@ -181,14 +181,14 @@ planets:
         radius: 16,374.6 km<br/>(2.570 Yrths)
         surface_area: 3.369 × 10<sup>09</sup> km<sup>2</sup><br/>(6.606 Yrths)
         volume: 1.839 × 10<sup>13</sup> km<sup>3</sup><br/>(16.978 Yrths)
-        mass: 2.507 × 10<sup>25</sup> kg<br />(12.336993934555904 Yrths)
+        mass: 2.507 × 10<sup>25</sup> kg<br />(4.198 Yrths)
         density: 1.363 g/cm<sup>3</sup>
         surface_gravity: 6.232 m/s<sup>2</sup><br />(0.635 g<sub>0</sub>)
         escape_velocity: 14.296 km/s<br />(51,465 km/h)
         rotation_period: 49.211 d
         axial_tilt: 8.79°
         albedo: 0.30
-        temperature: 2563 K<br />(2290 °C)
+        temperature: 278 K<br />(5 °C)
       - name: 0064 Rishauthiad C II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -201,12 +201,32 @@ planets:
         radius: 15,060.6 km<br/>(2.364 Yrths)
         surface_area: 2.850 × 10<sup>09</sup> km<sup>2</sup><br/>(5.588 Yrths)
         volume: 1.431 × 10<sup>13</sup> km<sup>3</sup><br/>(13.210 Yrths)
-        mass: 2.788 × 10<sup>25</sup> kg<br />(12.336993934555904 Yrths)
+        mass: 2.788 × 10<sup>25</sup> kg<br />(4.668 Yrths)
         density: 1.948 g/cm<sup>3</sup>
         surface_gravity: 8.192 m/s<sup>2</sup><br />(0.835 g<sub>0</sub>)
         escape_velocity: 15.719 km/s<br />(56,589 km/h)
         rotation_period: 38.969 d
         axial_tilt: 20.69°
         albedo: 0.30
-        temperature: 2444 K<br />(2171 °C)
+        temperature: 278 K<br />(5 °C)
+      - name: 0064 Rishauthiad C II e
+        type: Icy
+        formationType: Impact formed
+        aphelion: 6,695,776 km<br />
+        perihelion: 4,982,078 km<br />
+        semi_major_axis: 5,838,927 km<br />
+        eccentricity: 0.147
+        orbital_period: 0.08 d<br />
+        inclination: 3.82°
+        radius: 9,131.0 km<br/>(1.433 Yrths)
+        surface_area: 1.048 × 10<sup>09</sup> km<sup>2</sup><br/>(2.054 Yrths)
+        volume: 3.189 × 10<sup>12</sup> km<sup>3</sup><br/>(2.944 Yrths)
+        mass: 4.432 × 10<sup>24</sup> kg<br />(0.742 Yrths)
+        density: 1.390 g/cm<sup>3</sup>
+        surface_gravity: 3.543 m/s<sup>2</sup><br />(0.361 g<sub>0</sub>)
+        escape_velocity: 8.049 km/s<br />(28,978 km/h)
+        rotation_period: 51.037 d
+        axial_tilt: 17.26°
+        albedo: 0.30
+        temperature: 278 K<br />(5 °C)
 ---

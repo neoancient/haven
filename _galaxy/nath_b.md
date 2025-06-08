@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nath B is a star in the constellation Nuani
+      Nath B is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 1030.51 ly
 apparent_magnitude: 6.87
 absolute_magnitude: -0.62

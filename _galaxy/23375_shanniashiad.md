@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      23375 Shanniashiad is a star in the constellation Shannias
+      23375 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 341.47 ly
 apparent_magnitude: 10.62
 absolute_magnitude: 5.52

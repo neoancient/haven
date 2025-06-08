@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Unshus A is a star in the constellation Rukentua
+      Unshus A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 1443.59 ly
 apparent_magnitude: 2.16
 absolute_magnitude: -6.07

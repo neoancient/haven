@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2751 Keead is a star in the constellation Kee
+      2751 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 511.60 ly
 apparent_magnitude: 11.25
 absolute_magnitude: 5.27

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2143 Ratharshinniad is a star in the constellation Ratharshin
+      2143 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 152.98 ly
 apparent_magnitude: 8.39
 absolute_magnitude: 5.03

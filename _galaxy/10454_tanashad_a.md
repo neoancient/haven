@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10454 Tanashad A is a star in the constellation Tanas
+      10454 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 548.05 ly
 apparent_magnitude: 7.88
 absolute_magnitude: 1.75

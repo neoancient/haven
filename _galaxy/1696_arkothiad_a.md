@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1696 Arkothiad A is a star in the constellation Arkoth
+      1696 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 473.59 ly
 apparent_magnitude: 8.11
 absolute_magnitude: 2.30

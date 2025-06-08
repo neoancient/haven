@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0214 Reggiad B is a star in the constellation Reg
+      0214 Reggiad B is a star in the constellation <a href="reg.html">Reg</a>
 distance: 1025.68 ly
 apparent_magnitude: 10.67
 absolute_magnitude: 3.18

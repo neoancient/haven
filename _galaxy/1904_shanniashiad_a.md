@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1904 Shanniashiad A is a star in the constellation Shannias
+      1904 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 433.27 ly
 apparent_magnitude: 7.68
 absolute_magnitude: 2.06

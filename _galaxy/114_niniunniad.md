@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      114 Niniunniad is a star in the constellation Niniun
+      114 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 291.56 ly
 apparent_magnitude: 11.18
 absolute_magnitude: 6.43

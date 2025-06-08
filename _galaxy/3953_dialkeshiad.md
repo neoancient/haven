@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3953 Dialkeshiad is a star in the constellation Dialkes
+      3953 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 297.26 ly
 apparent_magnitude: 11.51
 absolute_magnitude: 6.71

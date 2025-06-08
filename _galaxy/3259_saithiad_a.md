@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3259 Saithiad A is a star in the constellation Saith
+      3259 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 599.52 ly
 apparent_magnitude: 7.50
 absolute_magnitude: 1.18

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      938 Keead is a star in the constellation Kee
+      938 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 225.78 ly
 apparent_magnitude: 17.29
 absolute_magnitude: 13.09

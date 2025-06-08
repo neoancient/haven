@@ -1455,47 +1455,31 @@ stars:
     absolute_magnitude: 1.72
     distance: 293.89
     spectral_class: F6III
-  - name: 
+  - name:
+    designation: <a href="26904_kinanniad.html">26904 Kinanniad</a>
+    ra: 5<sup>h</sup> 49<sup>m</sup> 12.00<sup>s</sup>
+    dec: -8° 53' 60.00"
+    apparent_magnitude: 6.67
+    absolute_magnitude: 1.86
+    distance: 299.29
+    spectral_class: A4V
+  - name:
     designation: <a href="2381_kinanniad.html">2381 Kinanniad</a>
     ra: 5<sup>h</sup> 01<sup>m</sup> 12.00<sup>s</sup>
     dec: -8° 24' 0.00"
-    apparent_magnitude: 8.27
-    absolute_magnitude: 3.51
+    apparent_magnitude: 8.96
+    absolute_magnitude: 4.20
     distance: 292.08
-    spectral_class: G4III
-  - name: 
+    spectral_class: G9III
+  - name:
     designation: <a href="3125_kinanniad.html">3125 Kinanniad</a>
     ra: 5<sup>h</sup> 28<sup>m</sup> 24.00<sup>s</sup>
     dec: -2° 23' 60.00"
-    apparent_magnitude: 8.47
-    absolute_magnitude: 4.06
+    apparent_magnitude: 9.54
+    absolute_magnitude: 5.13
     distance: 248.40
-    spectral_class: K3III
-  - name: 
-    designation: <a href="5481_kinanniad.html">5481 Kinanniad</a>
-    ra: 5<sup>h</sup> 49<sup>m</sup> 12.00<sup>s</sup>
-    dec: -5° 12' 0.00"
-    apparent_magnitude: 8.87
-    absolute_magnitude: 4.79
-    distance: 213.71
-    spectral_class: G1V
-  - name: 
-    designation: <a href="7515_kinanniad.html">7515 Kinanniad</a>
-    ra: 5<sup>h</sup> 01<sup>m</sup> 14.40<sup>s</sup>
-    dec: 15° 42' 36.00"
-    apparent_magnitude: 9.10
-    absolute_magnitude: 5.53
-    distance: 169.32
-    spectral_class: G7V
-  - name: 
-    designation: <a href="7681_kinanniad.html">7681 Kinanniad</a>
-    ra: 5<sup>h</sup> 40<sup>m</sup> 24.00<sup>s</sup>
-    dec: -7° 17' 60.00"
-    apparent_magnitude: 9.12
-    absolute_magnitude: 4.97
-    distance: 220.35
-    spectral_class: G1V
-  - name: 
+    spectral_class: F5V
+  - name:
     designation: <a href="15946_kinanniad.html">15946 Kinanniad</a>
     ra: 4<sup>h</sup> 54<sup>m</sup> 0.00<sup>s</sup>
     dec: -10° 11' 60.00"
@@ -1503,31 +1487,47 @@ stars:
     absolute_magnitude: 6.04
     distance: 172.16
     spectral_class: K0V
-  - name: 
-    designation: <a href="19296_kinanniad.html">19296 Kinanniad</a>
-    ra: 4<sup>h</sup> 43<sup>m</sup> 36.00<sup>s</sup>
-    dec: -9° 06' 0.00"
-    apparent_magnitude: 9.79
-    absolute_magnitude: 4.90
-    distance: 310.11
-    spectral_class: K6III
-  - name: 
+  - name:
     designation: <a href="25890_kinanniad.html">25890 Kinanniad</a>
     ra: 6<sup>h</sup> 10<sup>m</sup> 24.00<sup>s</sup>
     dec: -3° 47' 60.00"
-    apparent_magnitude: 10.00
-    absolute_magnitude: 5.71
+    apparent_magnitude: 10.19
+    absolute_magnitude: 5.90
     distance: 234.69
-    spectral_class: K1V
-  - name: 
-    designation: <a href="26904_kinanniad.html">26904 Kinanniad</a>
-    ra: 5<sup>h</sup> 49<sup>m</sup> 12.00<sup>s</sup>
-    dec: -8° 53' 60.00"
-    apparent_magnitude: 10.03
-    absolute_magnitude: 5.21
-    distance: 299.29
-    spectral_class: K0V
-  - name: 
+    spectral_class: G6V
+  - name:
+    designation: <a href="7681_kinanniad.html">7681 Kinanniad</a>
+    ra: 5<sup>h</sup> 40<sup>m</sup> 24.00<sup>s</sup>
+    dec: -7° 17' 60.00"
+    apparent_magnitude: 10.39
+    absolute_magnitude: 6.24
+    distance: 220.35
+    spectral_class: G9V
+  - name:
+    designation: <a href="90800_kinanniad.html">90800 Kinanniad</a>
+    ra: 5<sup>h</sup> 21<sup>m</sup> 36.00<sup>s</sup>
+    dec: -10° 11' 60.00"
+    apparent_magnitude: 10.48
+    absolute_magnitude: 5.25
+    distance: 362.52
+    spectral_class: F9V
+  - name:
+    designation: <a href="87658_kinanniad.html">87658 Kinanniad</a>
+    ra: 5<sup>h</sup> 15<sup>m</sup> 36.00<sup>s</sup>
+    dec: 5° 17' 60.00"
+    apparent_magnitude: 10.54
+    absolute_magnitude: 5.59
+    distance: 318.74
+    spectral_class: G5V
+  - name:
+    designation: <a href="7515_kinanniad.html">7515 Kinanniad</a>
+    ra: 5<sup>h</sup> 01<sup>m</sup> 14.40<sup>s</sup>
+    dec: 15° 42' 36.00"
+    apparent_magnitude: 10.54
+    absolute_magnitude: 6.97
+    distance: 169.32
+    spectral_class: K7IV
+  - name:
     designation: <a href="66915_kinanniad.html">66915 Kinanniad</a>
     ra: 6<sup>h</sup> 01<sup>m</sup> 36.00<sup>s</sup>
     dec: 3° 12' 0.00"
@@ -1535,20 +1535,20 @@ stars:
     absolute_magnitude: 6.00
     distance: 282.24
     spectral_class: G8V
-  - name: 
-    designation: <a href="87658_kinanniad.html">87658 Kinanniad</a>
-    ra: 5<sup>h</sup> 15<sup>m</sup> 36.00<sup>s</sup>
-    dec: 5° 17' 60.00"
-    apparent_magnitude: 10.88
-    absolute_magnitude: 5.93
-    distance: 318.74
-    spectral_class: K3V
-  - name: 
-    designation: <a href="90800_kinanniad.html">90800 Kinanniad</a>
-    ra: 5<sup>h</sup> 21<sup>m</sup> 36.00<sup>s</sup>
-    dec: -10° 11' 60.00"
-    apparent_magnitude: 10.91
-    absolute_magnitude: 5.68
-    distance: 362.52
-    spectral_class: K0V
+  - name:
+    designation: <a href="5481_kinanniad.html">5481 Kinanniad</a>
+    ra: 5<sup>h</sup> 49<sup>m</sup> 12.00<sup>s</sup>
+    dec: -5° 12' 0.00"
+    apparent_magnitude: 12.05
+    absolute_magnitude: 7.97
+    distance: 213.71
+    spectral_class: K9V
+  - name:
+    designation: <a href="19296_kinanniad.html">19296 Kinanniad</a>
+    ra: 4<sup>h</sup> 43<sup>m</sup> 36.00<sup>s</sup>
+    dec: -9° 06' 0.00"
+    apparent_magnitude: 12.83
+    absolute_magnitude: 7.94
+    distance: 310.11
+    spectral_class: K7V
 ---

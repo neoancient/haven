@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      160 Switheriad is a star in the constellation Swither
+      160 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 188.55 ly
 apparent_magnitude: 12.34
 absolute_magnitude: 8.53
@@ -31,7 +31,7 @@ planets:
     radius: 3,112.5 km<br/>(0.489 Yrths)
     surface_area: 1.217 × 10<sup>08</sup> km<sup>2</sup><br/>(0.239 Yrths)
     volume: 1.263 × 10<sup>11</sup> km<sup>3</sup><br/>(0.117 Yrths)
-    mass: 1.339 × 10<sup>24</sup> kg<br />(0.22424465218387155 Yrths)
+    mass: 1.339 × 10<sup>24</sup> kg<br />(0.22 Yrths)
     density: 10.603 g/cm<sup>3</sup>
     surface_gravity: 9.214 m/s<sup>2</sup><br />(0.940 g<sub>0</sub>)
     escape_velocity: 7.579 km/s<br />(27,283 km/h)
@@ -50,14 +50,14 @@ planets:
     radius: 7,480.2 km<br/>(1.174 Yrths)
     surface_area: 7.031 × 10<sup>08</sup> km<sup>2</sup><br/>(1.379 Yrths)
     volume: 1.753 × 10<sup>12</sup> km<sup>3</sup><br/>(1.619 Yrths)
-    mass: 1.657 × 10<sup>25</sup> kg<br />(2.7742780505749436 Yrths)
+    mass: 1.657 × 10<sup>25</sup> kg<br />(2.77 Yrths)
     density: 9.450 g/cm<sup>3</sup>
     surface_gravity: 19.736 m/s<sup>2</sup><br />(2.013 g<sub>0</sub>)
     escape_velocity: 17.195 km/s<br />(61,901 km/h)
     rotation_period: 2.526 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 441 K<br />(168 °C)
+    temperature: 1212 K<br />(939 °C)
     surface_pressure: 254 kPa<br />(3 atm)
     composition:
       - 95.4684% carbon dioxide
@@ -76,14 +76,14 @@ planets:
         radius: 5,516.0 km<br/>(0.866 Yrths)
         surface_area: 3.824 × 10<sup>08</sup> km<sup>2</sup><br/>(0.750 Yrths)
         volume: 7.030 × 10<sup>11</sup> km<sup>3</sup><br/>(0.649 Yrths)
-        mass: 1.997 × 10<sup>24</sup> kg<br />(2.7742780505749436 Yrths)
+        mass: 1.997 × 10<sup>24</sup> kg<br />(0.334 Yrths)
         density: 2.841 g/cm<sup>3</sup>
         surface_gravity: 4.375 m/s<sup>2</sup><br />(0.446 g<sub>0</sub>)
         escape_velocity: 6.952 km/s<br />(25,026 km/h)
         rotation_period: 41.676 d
         axial_tilt: 14.96°
         albedo: 0.30
-        temperature: 3834 K<br />(3560 °C)
+        temperature: 265 K<br />(-8 °C)
   - name: 160 Switheriad III
     type: Terrestrial
     aphelion: 53,534,664 km<br />0.358 AU
@@ -95,14 +95,14 @@ planets:
     radius: 5,440.8 km<br/>(0.854 Yrths)
     surface_area: 3.720 × 10<sup>08</sup> km<sup>2</sup><br/>(0.729 Yrths)
     volume: 6.746 × 10<sup>11</sup> km<sup>3</sup><br/>(0.623 Yrths)
-    mass: 3.741 × 10<sup>24</sup> kg<br />(0.6264381122880266 Yrths)
+    mass: 3.741 × 10<sup>24</sup> kg<br />(0.63 Yrths)
     density: 5.545 g/cm<sup>3</sup>
     surface_gravity: 8.424 m/s<sup>2</sup><br />(0.859 g<sub>0</sub>)
     escape_velocity: 9.580 km/s<br />(34,490 km/h)
     rotation_period: 4.709 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 237 K<br />(-36 °C)
+    temperature: 260 K<br />(-13 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 63.5098% nitrogen
@@ -121,14 +121,14 @@ planets:
         radius: 1,677.3 km<br/>(0.263 Yrths)
         surface_area: 3.535 × 10<sup>07</sup> km<sup>2</sup><br/>(0.069 Yrths)
         volume: 1.976 × 10<sup>10</sup> km<sup>3</sup><br/>(0.018 Yrths)
-        mass: 7.115 × 10<sup>22</sup> kg<br />(0.6264381122880266 Yrths)
+        mass: 7.115 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 1.686 m/s<sup>2</sup><br />(0.172 g<sub>0</sub>)
         escape_velocity: 2.380 km/s<br />(8,567 km/h)
         rotation_period: 33.334 d
         axial_tilt: 7.87°
         albedo: 0.30
-        temperature: 3132 K<br />(2859 °C)
+        temperature: 219 K<br />(-54 °C)
   - name: 160 Switheriad IV
     type: Gas dwarf
     aphelion: 77,983,937 km<br />0.521 AU
@@ -140,14 +140,14 @@ planets:
     radius: 13,227.9 km<br/>(2.076 Yrths)
     surface_area: 2.199 × 10<sup>09</sup> km<sup>2</sup><br/>(4.311 Yrths)
     volume: 9.695 × 10<sup>12</sup> km<sup>3</sup><br/>(8.951 Yrths)
-    mass: 2.421 × 10<sup>25</sup> kg<br />(4.053213802226179 Yrths)
+    mass: 2.421 × 10<sup>25</sup> kg<br />(4.05 Yrths)
     density: 2.497 g/cm<sup>3</sup>
     surface_gravity: 9.220 m/s<sup>2</sup><br />(0.940 g<sub>0</sub>)
     escape_velocity: 15.629 km/s<br />(56,264 km/h)
     rotation_period: 1.866 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 253 K<br />(-20 °C)
+    temperature: 225 K<br />(-48 °C)
     composition:
       - 87.8587% hydrogen
       - 11.0484% helium
@@ -166,14 +166,14 @@ planets:
         radius: 8,274.3 km<br/>(1.299 Yrths)
         surface_area: 8.603 × 10<sup>08</sup> km<sup>2</sup><br/>(1.687 Yrths)
         volume: 2.373 × 10<sup>12</sup> km<sup>3</sup><br/>(2.191 Yrths)
-        mass: 5.009 × 10<sup>24</sup> kg<br />(4.053213802226179 Yrths)
+        mass: 5.009 × 10<sup>24</sup> kg<br />(0.839 Yrths)
         density: 2.111 g/cm<sup>3</sup>
         surface_gravity: 4.877 m/s<sup>2</sup><br />(0.497 g<sub>0</sub>)
         escape_velocity: 8.990 km/s<br />(32,363 km/h)
         rotation_period: 57.431 d
         axial_tilt: 27.21°
         albedo: 0.30
-        temperature: 1864 K<br />(1590 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 160 Switheriad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -186,14 +186,14 @@ planets:
         radius: 1,766.3 km<br/>(0.277 Yrths)
         surface_area: 3.920 × 10<sup>07</sup> km<sup>2</sup><br/>(0.077 Yrths)
         volume: 2.308 × 10<sup>10</sup> km<sup>3</sup><br/>(0.021 Yrths)
-        mass: 6.304 × 10<sup>22</sup> kg<br />(4.053213802226179 Yrths)
+        mass: 6.304 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 2.731 g/cm<sup>3</sup>
         surface_gravity: 1.347 m/s<sup>2</sup><br />(0.137 g<sub>0</sub>)
         escape_velocity: 2.183 km/s<br />(7,858 km/h)
         rotation_period: 43.173 d
         axial_tilt: 22.17°
         albedo: 0.30
-        temperature: 1777 K<br />(1504 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 160 Switheriad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -206,14 +206,14 @@ planets:
         radius: 5,538.2 km<br/>(0.869 Yrths)
         surface_area: 3.854 × 10<sup>08</sup> km<sup>2</sup><br/>(0.756 Yrths)
         volume: 7.115 × 10<sup>11</sup> km<sup>3</sup><br/>(0.657 Yrths)
-        mass: 1.625 × 10<sup>24</sup> kg<br />(4.053213802226179 Yrths)
+        mass: 1.625 × 10<sup>24</sup> kg<br />(0.272 Yrths)
         density: 2.284 g/cm<sup>3</sup>
         surface_gravity: 3.531 m/s<sup>2</sup><br />(0.360 g<sub>0</sub>)
         escape_velocity: 6.258 km/s<br />(22,530 km/h)
         rotation_period: 60.870 d
         axial_tilt: 11.93°
         albedo: 0.30
-        temperature: 1694 K<br />(1421 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 160 Switheriad IV d
         type: Icy
         formationType: Captured
@@ -226,14 +226,14 @@ planets:
         radius: 7,620.8 km<br/>(1.196 Yrths)
         surface_area: 7.298 × 10<sup>08</sup> km<sup>2</sup><br/>(1.431 Yrths)
         volume: 1.854 × 10<sup>12</sup> km<sup>3</sup><br/>(1.711 Yrths)
-        mass: 3.216 × 10<sup>24</sup> kg<br />(4.053213802226179 Yrths)
+        mass: 3.216 × 10<sup>24</sup> kg<br />(0.539 Yrths)
         density: 1.735 g/cm<sup>3</sup>
         surface_gravity: 3.691 m/s<sup>2</sup><br />(0.376 g<sub>0</sub>)
         escape_velocity: 7.506 km/s<br />(27,020 km/h)
         rotation_period: 37.738 d
         axial_tilt: 22.49°
         albedo: 0.30
-        temperature: 1615 K<br />(1342 °C)
+        temperature: 181 K<br />(-92 °C)
   - name: 160 Switheriad V
     type: Gas giant
     aphelion: 118,518,747 km<br />0.792 AU
@@ -245,7 +245,7 @@ planets:
     radius: 194.1 km<br/>(0.030 Yrths)
     surface_area: 4.737 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.065 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.154 × 10<sup>26</sup> kg<br />(153.28839006845126 Yrths)
+    mass: 9.154 × 10<sup>26</sup> kg<br />(153.29 Yrths)
     density: 29863294.089 g/cm<sup>3</sup>
     surface_gravity: 1618738.344 m/s<sup>2</sup><br />(165065.373 g<sub>0</sub>)
     escape_velocity: 793.351 km/s<br />(2,856,063 km/h)
@@ -266,14 +266,14 @@ planets:
         radius: 118,027.2 km<br/>(18.526 Yrths)
         surface_area: 1.751 × 10<sup>11</sup> km<sup>2</sup><br/>(343.201 Yrths)
         volume: 6.887 × 10<sup>15</sup> km<sup>3</sup><br/>(6358.038 Yrths)
-        mass: 8.942 × 10<sup>27</sup> kg<br />(153.28839006845126 Yrths)
+        mass: 8.942 × 10<sup>27</sup> kg<br />(1497.371 Yrths)
         density: 1.298 g/cm<sup>3</sup>
         surface_gravity: 42.786 m/s<sup>2</sup><br />(4.363 g<sub>0</sub>)
         escape_velocity: 100.566 km/s<br />(362,038 km/h)
         rotation_period: 72.659 d
         axial_tilt: 24.42°
         albedo: 0.30
-        temperature: 727 K<br />(454 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 160 Switheriad V b
         type: Asteroid
         formationType: Captured
@@ -286,14 +286,14 @@ planets:
         radius: 118,102.9 km<br/>(18.538 Yrths)
         surface_area: 1.753 × 10<sup>11</sup> km<sup>2</sup><br/>(343.642 Yrths)
         volume: 6.900 × 10<sup>15</sup> km<sup>3</sup><br/>(6370.287 Yrths)
-        mass: 1.796 × 10<sup>28</sup> kg<br />(153.28839006845126 Yrths)
+        mass: 1.796 × 10<sup>28</sup> kg<br />(3008.184 Yrths)
         density: 2.603 g/cm<sup>3</sup>
         surface_gravity: 85.846 m/s<sup>2</sup><br />(8.754 g<sub>0</sub>)
         escape_velocity: 142.495 km/s<br />(512,982 km/h)
         rotation_period: 38.244 d
         axial_tilt: 33.17°
         albedo: 0.30
-        temperature: 630 K<br />(357 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 160 Switheriad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -306,14 +306,14 @@ planets:
         radius: 105,619.8 km<br/>(16.578 Yrths)
         surface_area: 1.402 × 10<sup>11</sup> km<sup>2</sup><br/>(274.837 Yrths)
         volume: 4.935 × 10<sup>15</sup> km<sup>3</sup><br/>(4556.312 Yrths)
-        mass: 1.142 × 10<sup>28</sup> kg<br />(153.28839006845126 Yrths)
+        mass: 1.142 × 10<sup>28</sup> kg<br />(1912.524 Yrths)
         density: 2.314 g/cm<sup>3</sup>
         surface_gravity: 68.242 m/s<sup>2</sup><br />(6.959 g<sub>0</sub>)
         escape_velocity: 120.146 km/s<br />(432,525 km/h)
         rotation_period: 42.928 d
         axial_tilt: 25.35°
         albedo: 0.30
-        temperature: 521 K<br />(248 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 160 Switheriad V d
         type: Icy
         formationType: Impact formed
@@ -326,14 +326,14 @@ planets:
         radius: 139,516.4 km<br/>(21.899 Yrths)
         surface_area: 2.446 × 10<sup>11</sup> km<sup>2</sup><br/>(479.552 Yrths)
         volume: 1.138 × 10<sup>16</sup> km<sup>3</sup><br/>(10501.550 Yrths)
-        mass: 2.074 × 10<sup>28</sup> kg<br />(153.28839006845126 Yrths)
+        mass: 2.074 × 10<sup>28</sup> kg<br />(3473.681 Yrths)
         density: 1.824 g/cm<sup>3</sup>
         surface_gravity: 71.035 m/s<sup>2</sup><br />(7.244 g<sub>0</sub>)
         escape_velocity: 140.883 km/s<br />(507,181 km/h)
         rotation_period: 54.967 d
         axial_tilt: 17.83°
         albedo: 0.30
-        temperature: 497 K<br />(224 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 160 Switheriad V e
         type: Icy
         formationType: Accreted
@@ -346,14 +346,14 @@ planets:
         radius: 115,037.9 km<br/>(18.056 Yrths)
         surface_area: 1.663 × 10<sup>11</sup> km<sup>2</sup><br/>(326.037 Yrths)
         volume: 6.377 × 10<sup>15</sup> km<sup>3</sup><br/>(5887.080 Yrths)
-        mass: 9.587 × 10<sup>27</sup> kg<br />(153.28839006845126 Yrths)
+        mass: 9.587 × 10<sup>27</sup> kg<br />(1605.307 Yrths)
         density: 1.503 g/cm<sup>3</sup>
         surface_gravity: 48.285 m/s<sup>2</sup><br />(4.924 g<sub>0</sub>)
         escape_velocity: 105.472 km/s<br />(379,698 km/h)
         rotation_period: 58.024 d
         axial_tilt: 10.01°
         albedo: 0.30
-        temperature: 391 K<br />(118 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 160 Switheriad V f
         type: Rocky
         formationType: Accreted
@@ -366,14 +366,14 @@ planets:
         radius: 92,513.1 km<br/>(14.521 Yrths)
         surface_area: 1.076 × 10<sup>11</sup> km<sup>2</sup><br/>(210.858 Yrths)
         volume: 3.317 × 10<sup>15</sup> km<sup>3</sup><br/>(3061.867 Yrths)
-        mass: 9.067 × 10<sup>27</sup> kg<br />(153.28839006845126 Yrths)
+        mass: 9.067 × 10<sup>27</sup> kg<br />(1518.223 Yrths)
         density: 2.734 g/cm<sup>3</sup>
         surface_gravity: 70.610 m/s<sup>2</sup><br />(7.200 g<sub>0</sub>)
         escape_velocity: 114.378 km/s<br />(411,762 km/h)
         rotation_period: 40.735 d
         axial_tilt: 9.40°
         albedo: 0.30
-        temperature: 339 K<br />(66 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 160 Switheriad V g
         type: Icy
         formationType: Accreted
@@ -386,14 +386,14 @@ planets:
         radius: 184,863.8 km<br/>(29.016 Yrths)
         surface_area: 4.295 × 10<sup>11</sup> km<sup>2</sup><br/>(841.954 Yrths)
         volume: 2.646 × 10<sup>16</sup> km<sup>3</sup><br/>(24430.515 Yrths)
-        mass: 2.976 × 10<sup>28</sup> kg<br />(153.28839006845126 Yrths)
+        mass: 2.976 × 10<sup>28</sup> kg<br />(4983.260 Yrths)
         density: 1.125 g/cm<sup>3</sup>
         surface_gravity: 58.042 m/s<sup>2</sup><br />(5.919 g<sub>0</sub>)
         escape_velocity: 146.591 km/s<br />(527,729 km/h)
         rotation_period: 52.657 d
         axial_tilt: 26.11°
         albedo: 0.30
-        temperature: 232 K<br />(-41 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 160 Switheriad V h
         type: Asteroid
         formationType: Captured
@@ -406,14 +406,14 @@ planets:
         radius: 140,039.1 km<br/>(21.981 Yrths)
         surface_area: 2.464 × 10<sup>11</sup> km<sup>2</sup><br/>(483.152 Yrths)
         volume: 1.150 × 10<sup>16</sup> km<sup>3</sup><br/>(10620.024 Yrths)
-        mass: 2.746 × 10<sup>28</sup> kg<br />(153.28839006845126 Yrths)
+        mass: 2.746 × 10<sup>28</sup> kg<br />(4597.603 Yrths)
         density: 2.387 g/cm<sup>3</sup>
         surface_gravity: 93.319 m/s<sup>2</sup><br />(9.516 g<sub>0</sub>)
         escape_velocity: 161.778 km/s<br />(582,400 km/h)
         rotation_period: 48.208 d
         axial_tilt: 48.92°
         albedo: 0.30
-        temperature: 221 K<br />(-52 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 160 Switheriad V i
         type: Dwarf planet
         formationType: Accreted
@@ -426,12 +426,12 @@ planets:
         radius: 128,239.6 km<br/>(20.129 Yrths)
         surface_area: 2.067 × 10<sup>11</sup> km<sup>2</sup><br/>(405.162 Yrths)
         volume: 8.834 × 10<sup>15</sup> km<sup>3</sup><br/>(8155.372 Yrths)
-        mass: 1.290 × 10<sup>28</sup> kg<br />(153.28839006845126 Yrths)
+        mass: 1.290 × 10<sup>28</sup> kg<br />(2160.656 Yrths)
         density: 1.461 g/cm<sup>3</sup>
         surface_gravity: 52.297 m/s<sup>2</sup><br />(5.333 g<sub>0</sub>)
         escape_velocity: 115.894 km/s<br />(417,217 km/h)
         rotation_period: 46.873 d
         axial_tilt: 32.63°
         albedo: 0.30
-        temperature: 192 K<br />(-82 °C)
+        temperature: 149 K<br />(-124 °C)
 ---

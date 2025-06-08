@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2238 Tanashad is a star in the constellation Tanas
+      2238 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 329.74 ly
 apparent_magnitude: 7.79
 absolute_magnitude: 2.77

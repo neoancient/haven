@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0033 Nayurnerniad is a star in the constellation Nayunern
+      0033 Nayurnerniad is a star in the constellation <a href="nayunern.html">Nayunern</a>
 distance: 377.73 ly
 apparent_magnitude: 6.00
 absolute_magnitude: 0.68
@@ -31,7 +31,7 @@ planets:
     radius: 258.7 km<br/>(0.041 Yrths)
     surface_area: 8.412 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.255 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.087 × 10<sup>27</sup> kg<br />(516.8475976467962 Yrths)
+    mass: 3.087 × 10<sup>27</sup> kg<br />(516.85 Yrths)
     density: 42544102.898 g/cm<sup>3</sup>
     surface_gravity: 3073233.134 m/s<sup>2</sup><br />(313382.565 g<sub>0</sub>)
     escape_velocity: 1261.924 km/s<br />(4,542,927 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 207,852.5 km<br/>(32.625 Yrths)
         surface_area: 5.429 × 10<sup>11</sup> km<sup>2</sup><br/>(1064.377 Yrths)
         volume: 3.761 × 10<sup>16</sup> km<sup>3</sup><br/>(34725.063 Yrths)
-        mass: 1.093 × 10<sup>29</sup> kg<br />(516.8475976467962 Yrths)
+        mass: 1.093 × 10<sup>29</sup> kg<br />(18297.681 Yrths)
         density: 2.905 g/cm<sup>3</sup>
         surface_gravity: 168.586 m/s<sup>2</sup><br />(17.191 g<sub>0</sub>)
         escape_velocity: 264.910 km/s<br />(953,676 km/h)
         rotation_period: 52.053 d
         axial_tilt: 10.57°
         albedo: 0.30
-        temperature: 1610 K<br />(1337 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0033 Nayurnerniad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 266,601.9 km<br/>(41.846 Yrths)
         surface_area: 8.932 × 10<sup>11</sup> km<sup>2</sup><br/>(1751.102 Yrths)
         volume: 7.937 × 10<sup>16</sup> km<sup>3</sup><br/>(73276.892 Yrths)
-        mass: 2.100 × 10<sup>29</sup> kg<br />(516.8475976467962 Yrths)
+        mass: 2.100 × 10<sup>29</sup> kg<br />(35168.140 Yrths)
         density: 2.646 g/cm<sup>3</sup>
         surface_gravity: 196.951 m/s<sup>2</sup><br />(20.083 g<sub>0</sub>)
         escape_velocity: 324.280 km/s<br />(1,167,410 km/h)
         rotation_period: 42.986 d
         axial_tilt: 17.64°
         albedo: 0.30
-        temperature: 1535 K<br />(1262 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0033 Nayurnerniad I c
         type: Asteroid
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 232,864.1 km<br/>(36.551 Yrths)
         surface_area: 6.814 × 10<sup>11</sup> km<sup>2</sup><br/>(1335.949 Yrths)
         volume: 5.289 × 10<sup>16</sup> km<sup>3</sup><br/>(48829.766 Yrths)
-        mass: 1.177 × 10<sup>29</sup> kg<br />(516.8475976467962 Yrths)
+        mass: 1.177 × 10<sup>29</sup> kg<br />(19702.524 Yrths)
         density: 2.225 g/cm<sup>3</sup>
         surface_gravity: 144.628 m/s<sup>2</sup><br />(14.748 g<sub>0</sub>)
         escape_velocity: 259.709 km/s<br />(934,953 km/h)
         rotation_period: 64.971 d
         axial_tilt: 41.70°
         albedo: 0.30
-        temperature: 1464 K<br />(1191 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0033 Nayurnerniad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -112,14 +112,14 @@ planets:
         radius: 254,056.9 km<br/>(39.877 Yrths)
         surface_area: 8.111 × 10<sup>11</sup> km<sup>2</sup><br/>(1590.182 Yrths)
         volume: 6.869 × 10<sup>16</sup> km<sup>3</sup><br/>(63411.837 Yrths)
-        mass: 1.329 × 10<sup>29</sup> kg<br />(516.8475976467962 Yrths)
+        mass: 1.329 × 10<sup>29</sup> kg<br />(22246.419 Yrths)
         density: 1.934 g/cm<sup>3</sup>
         surface_gravity: 137.194 m/s<sup>2</sup><br />(13.990 g<sub>0</sub>)
         escape_velocity: 264.206 km/s<br />(951,141 km/h)
         rotation_period: 55.728 d
         axial_tilt: 11.75°
         albedo: 0.30
-        temperature: 1210 K<br />(936 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0033 Nayurnerniad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 359,497.6 km<br/>(56.427 Yrths)
         surface_area: 1.624 × 10<sup>12</sup> km<sup>2</sup><br/>(3184.027 Yrths)
         volume: 1.946 × 10<sup>17</sup> km<sup>3</sup><br/>(179665.649 Yrths)
-        mass: 3.989 × 10<sup>29</sup> kg<br />(516.8475976467962 Yrths)
+        mass: 3.989 × 10<sup>29</sup> kg<br />(66795.614 Yrths)
         density: 2.050 g/cm<sup>3</sup>
         surface_gravity: 205.727 m/s<sup>2</sup><br />(20.978 g<sub>0</sub>)
         escape_velocity: 384.861 km/s<br />(1,385,499 km/h)
         rotation_period: 45.823 d
         axial_tilt: 18.86°
         albedo: 0.30
-        temperature: 953 K<br />(680 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0033 Nayurnerniad I f
         type: Icy
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 300,689.0 km<br/>(47.197 Yrths)
         surface_area: 1.136 × 10<sup>12</sup> km<sup>2</sup><br/>(2227.511 Yrths)
         volume: 1.139 × 10<sup>17</sup> km<sup>3</sup><br/>(105130.781 Yrths)
-        mass: 1.700 × 10<sup>29</sup> kg<br />(516.8475976467962 Yrths)
+        mass: 1.700 × 10<sup>29</sup> kg<br />(28460.541 Yrths)
         density: 1.493 g/cm<sup>3</sup>
         surface_gravity: 125.298 m/s<sup>2</sup><br />(12.777 g<sub>0</sub>)
         escape_velocity: 274.689 km/s<br />(988,879 km/h)
         rotation_period: 62.568 d
         axial_tilt: 19.45°
         albedo: 0.30
-        temperature: 867 K<br />(593 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0033 Nayurnerniad I g
         type: Rocky
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 220,740.8 km<br/>(34.648 Yrths)
         surface_area: 6.123 × 10<sup>11</sup> km<sup>2</sup><br/>(1200.466 Yrths)
         volume: 4.505 × 10<sup>16</sup> km<sup>3</sup><br/>(41593.444 Yrths)
-        mass: 1.488 × 10<sup>29</sup> kg<br />(516.8475976467962 Yrths)
+        mass: 1.488 × 10<sup>29</sup> kg<br />(24923.863 Yrths)
         density: 3.304 g/cm<sup>3</sup>
         surface_gravity: 203.604 m/s<sup>2</sup><br />(20.762 g<sub>0</sub>)
         escape_velocity: 300.016 km/s<br />(1,080,057 km/h)
         rotation_period: 29.313 d
         axial_tilt: 11.88°
         albedo: 0.30
-        temperature: 592 K<br />(319 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0033 Nayurnerniad I h
         type: Icy
         formationType: Accreted
@@ -192,14 +192,14 @@ planets:
         radius: 351,704.0 km<br/>(55.204 Yrths)
         surface_area: 1.554 × 10<sup>12</sup> km<sup>2</sup><br/>(3047.469 Yrths)
         volume: 1.822 × 10<sup>17</sup> km<sup>3</sup><br/>(168232.135 Yrths)
-        mass: 3.022 × 10<sup>29</sup> kg<br />(516.8475976467962 Yrths)
+        mass: 3.022 × 10<sup>29</sup> kg<br />(50605.960 Yrths)
         density: 1.658 g/cm<sup>3</sup>
         surface_gravity: 162.848 m/s<sup>2</sup><br />(16.606 g<sub>0</sub>)
         escape_velocity: 338.680 km/s<br />(1,219,249 km/h)
         rotation_period: 51.856 d
         axial_tilt: 12.80°
         albedo: 0.30
-        temperature: 445 K<br />(172 °C)
+        temperature: 303 K<br />(30 °C)
       - name: 0033 Nayurnerniad I i
         type: Ice/rock hybrid
         formationType: Captured
@@ -212,14 +212,14 @@ planets:
         radius: 249,620.7 km<br/>(39.181 Yrths)
         surface_area: 7.830 × 10<sup>11</sup> km<sup>2</sup><br/>(1535.133 Yrths)
         volume: 6.515 × 10<sup>16</sup> km<sup>3</sup><br/>(60147.678 Yrths)
-        mass: 1.598 × 10<sup>29</sup> kg<br />(516.8475976467962 Yrths)
+        mass: 1.598 × 10<sup>29</sup> kg<br />(26751.136 Yrths)
         density: 2.452 g/cm<sup>3</sup>
         surface_gravity: 170.890 m/s<sup>2</sup><br />(17.426 g<sub>0</sub>)
         escape_velocity: 292.286 km/s<br />(1,052,231 km/h)
         rotation_period: 47.547 d
         axial_tilt: 14.67°
         albedo: 0.30
-        temperature: 198 K<br />(-75 °C)
+        temperature: 303 K<br />(30 °C)
   - name: 0033 Nayurnerniad II
     type: Ice giant
     aphelion: 1,576,761,330 km<br />10.540 AU
@@ -231,14 +231,14 @@ planets:
     radius: 24,976.7 km<br/>(3.920 Yrths)
     surface_area: 7.839 × 10<sup>09</sup> km<sup>2</sup><br/>(15.369 Yrths)
     volume: 6.527 × 10<sup>13</sup> km<sup>3</sup><br/>(60.254 Yrths)
-    mass: 1.077 × 10<sup>26</sup> kg<br />(18.031817475018364 Yrths)
+    mass: 1.077 × 10<sup>26</sup> kg<br />(18.03 Yrths)
     density: 1.650 g/cm<sup>3</sup>
     surface_gravity: 11.505 m/s<sup>2</sup><br />(1.173 g<sub>0</sub>)
     escape_velocity: 23.990 km/s<br />(86,364 km/h)
     rotation_period: 0.340 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 427 K<br />(154 °C)
+    temperature: 391 K<br />(118 °C)
     composition:
       - 75.0365% hydrogen
       - 21.2524% helium
@@ -258,14 +258,14 @@ planets:
         radius: 30,498.0 km<br/>(4.787 Yrths)
         surface_area: 1.169 × 10<sup>10</sup> km<sup>2</sup><br/>(22.915 Yrths)
         volume: 1.188 × 10<sup>14</sup> km<sup>3</sup><br/>(109.696 Yrths)
-        mass: 1.912 × 10<sup>26</sup> kg<br />(18.031817475018364 Yrths)
+        mass: 1.912 × 10<sup>26</sup> kg<br />(32.024 Yrths)
         density: 1.609 g/cm<sup>3</sup>
         surface_gravity: 13.705 m/s<sup>2</sup><br />(1.397 g<sub>0</sub>)
         escape_velocity: 28.932 km/s<br />(104,155 km/h)
         rotation_period: 51.827 d
         axial_tilt: 15.24°
         albedo: 0.30
-        temperature: 1999 K<br />(1726 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: 0033 Nayurnerniad II b
         type: Icy
         formationType: Captured
@@ -278,14 +278,14 @@ planets:
         radius: 29,346.0 km<br/>(4.606 Yrths)
         surface_area: 1.082 × 10<sup>10</sup> km<sup>2</sup><br/>(21.217 Yrths)
         volume: 1.059 × 10<sup>14</sup> km<sup>3</sup><br/>(97.729 Yrths)
-        mass: 1.184 × 10<sup>26</sup> kg<br />(18.031817475018364 Yrths)
+        mass: 1.184 × 10<sup>26</sup> kg<br />(19.829 Yrths)
         density: 1.119 g/cm<sup>3</sup>
         surface_gravity: 9.165 m/s<sup>2</sup><br />(0.935 g<sub>0</sub>)
         escape_velocity: 23.209 km/s<br />(83,552 km/h)
         rotation_period: 57.019 d
         axial_tilt: 16.72°
         albedo: 0.30
-        temperature: 1906 K<br />(1633 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: 0033 Nayurnerniad II c
         type: Icy
         formationType: Impact formed
@@ -298,14 +298,14 @@ planets:
         radius: 29,033.4 km<br/>(4.557 Yrths)
         surface_area: 1.059 × 10<sup>10</sup> km<sup>2</sup><br/>(20.767 Yrths)
         volume: 1.025 × 10<sup>14</sup> km<sup>3</sup><br/>(94.639 Yrths)
-        mass: 1.547 × 10<sup>26</sup> kg<br />(18.031817475018364 Yrths)
+        mass: 1.547 × 10<sup>26</sup> kg<br />(25.908 Yrths)
         density: 1.509 g/cm<sup>3</sup>
         surface_gravity: 12.234 m/s<sup>2</sup><br />(1.248 g<sub>0</sub>)
         escape_velocity: 26.671 km/s<br />(96,017 km/h)
         rotation_period: 42.626 d
         axial_tilt: 7.55°
         albedo: 0.30
-        temperature: 1818 K<br />(1544 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: 0033 Nayurnerniad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -318,14 +318,14 @@ planets:
         radius: 16,428.7 km<br/>(2.579 Yrths)
         surface_area: 3.392 × 10<sup>09</sup> km<sup>2</sup><br/>(6.650 Yrths)
         volume: 1.857 × 10<sup>13</sup> km<sup>3</sup><br/>(17.147 Yrths)
-        mass: 3.876 × 10<sup>25</sup> kg<br />(18.031817475018364 Yrths)
+        mass: 3.876 × 10<sup>25</sup> kg<br />(6.491 Yrths)
         density: 2.087 g/cm<sup>3</sup>
         surface_gravity: 9.572 m/s<sup>2</sup><br />(0.976 g<sub>0</sub>)
         escape_velocity: 17.747 km/s<br />(63,888 km/h)
         rotation_period: 54.496 d
         axial_tilt: 24.17°
         albedo: 0.30
-        temperature: 1733 K<br />(1460 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: 0033 Nayurnerniad II e
         type: Rocky
         formationType: Impact formed
@@ -338,14 +338,14 @@ planets:
         radius: 8,705.7 km<br/>(1.366 Yrths)
         surface_area: 9.524 × 10<sup>08</sup> km<sup>2</sup><br/>(1.867 Yrths)
         volume: 2.764 × 10<sup>12</sup> km<sup>3</sup><br/>(2.551 Yrths)
-        mass: 9.012 × 10<sup>24</sup> kg<br />(18.031817475018364 Yrths)
+        mass: 9.012 × 10<sup>24</sup> kg<br />(1.509 Yrths)
         density: 3.261 g/cm<sup>3</sup>
         surface_gravity: 7.925 m/s<sup>2</sup><br />(0.808 g<sub>0</sub>)
         escape_velocity: 11.755 km/s<br />(42,317 km/h)
         rotation_period: 37.384 d
         axial_tilt: 10.89°
         albedo: 0.30
-        temperature: 1652 K<br />(1379 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: 0033 Nayurnerniad II f
         type: Icy
         formationType: Captured
@@ -358,14 +358,14 @@ planets:
         radius: 33,230.6 km<br/>(5.216 Yrths)
         surface_area: 1.388 × 10<sup>10</sup> km<sup>2</sup><br/>(27.206 Yrths)
         volume: 1.537 × 10<sup>14</sup> km<sup>3</sup><br/>(141.903 Yrths)
-        mass: 2.279 × 10<sup>26</sup> kg<br />(18.031817475018364 Yrths)
+        mass: 2.279 × 10<sup>26</sup> kg<br />(38.170 Yrths)
         density: 1.483 g/cm<sup>3</sup>
         surface_gravity: 13.759 m/s<sup>2</sup><br />(1.403 g<sub>0</sub>)
         escape_velocity: 30.260 km/s<br />(108,936 km/h)
         rotation_period: 71.174 d
         axial_tilt: 19.97°
         albedo: 0.30
-        temperature: 1575 K<br />(1302 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: 0033 Nayurnerniad II g
         type: Icy
         formationType: Accreted
@@ -378,14 +378,14 @@ planets:
         radius: 46,380.8 km<br/>(7.280 Yrths)
         surface_area: 2.703 × 10<sup>10</sup> km<sup>2</sup><br/>(52.998 Yrths)
         volume: 4.179 × 10<sup>14</sup> km<sup>3</sup><br/>(385.827 Yrths)
-        mass: 2.926 × 10<sup>26</sup> kg<br />(18.031817475018364 Yrths)
+        mass: 2.926 × 10<sup>26</sup> kg<br />(48.987 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 9.064 m/s<sup>2</sup><br />(0.924 g<sub>0</sub>)
         escape_velocity: 29.017 km/s<br />(104,460 km/h)
         rotation_period: 108.185 d
         axial_tilt: 18.60°
         albedo: 0.30
-        temperature: 1502 K<br />(1229 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: 0033 Nayurnerniad II h
         type: Icy
         formationType: Captured
@@ -398,12 +398,12 @@ planets:
         radius: 31,338.1 km<br/>(4.919 Yrths)
         surface_area: 1.234 × 10<sup>10</sup> km<sup>2</sup><br/>(24.195 Yrths)
         volume: 1.289 × 10<sup>14</sup> km<sup>3</sup><br/>(119.013 Yrths)
-        mass: 1.494 × 10<sup>26</sup> kg<br />(18.031817475018364 Yrths)
+        mass: 1.494 × 10<sup>26</sup> kg<br />(25.009 Yrths)
         density: 1.159 g/cm<sup>3</sup>
         surface_gravity: 10.136 m/s<sup>2</sup><br />(1.034 g<sub>0</sub>)
         escape_velocity: 25.222 km/s<br />(90,801 km/h)
         rotation_period: 48.506 d
         axial_tilt: 19.06°
         albedo: 0.30
-        temperature: 1432 K<br />(1159 °C)
+        temperature: 205 K<br />(-68 °C)
 ---

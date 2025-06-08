@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1862 Lunaiad A is a star in the constellation Luna
+      1862 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 278.45 ly
 apparent_magnitude: 7.69
 absolute_magnitude: 3.03

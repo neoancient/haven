@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3236 Anilliad is a star in the constellation Anil
+      3236 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 364.79 ly
 apparent_magnitude: 10.42
 absolute_magnitude: 5.17

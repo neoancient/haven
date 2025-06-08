@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Sudyam A is a star in the constellation Esunrain
+      Sudyam A is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 708.79 ly
 apparent_magnitude: 3.16
 absolute_magnitude: -3.52

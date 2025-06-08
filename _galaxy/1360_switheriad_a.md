@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1360 Switheriad A is a star in the constellation Swither
+      1360 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 341.55 ly
 apparent_magnitude: 7.46
 absolute_magnitude: 2.36

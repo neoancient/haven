@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5069 Arkothiad is a star in the constellation Arkoth
+      5069 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 986.78 ly
 apparent_magnitude: 12.56
 absolute_magnitude: 5.15

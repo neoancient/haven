@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5359 Tanashad A is a star in the constellation Tanas
+      5359 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 254.39 ly
 apparent_magnitude: 7.21
 absolute_magnitude: 2.75

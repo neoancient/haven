@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      744 Erikkiad A is a star in the constellation Erik
+      744 Erikkiad A is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1293.40 ly
 apparent_magnitude: 6.83
 absolute_magnitude: -1.16

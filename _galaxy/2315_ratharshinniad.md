@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2315 Ratharshinniad is a star in the constellation Ratharshin
+      2315 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 325.17 ly
 apparent_magnitude: 10.64
 absolute_magnitude: 5.65

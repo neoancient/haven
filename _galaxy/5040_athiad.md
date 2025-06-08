@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5040 Athiad is a star in the constellation Ath
+      5040 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 276.70 ly
 apparent_magnitude: 17.73
 absolute_magnitude: 13.09

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2824 Arkothiad A is a star in the constellation Arkoth
+      2824 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 553.73 ly
 apparent_magnitude: 8.04
 absolute_magnitude: 1.89

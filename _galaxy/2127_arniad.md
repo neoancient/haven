@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2127 Arniad is a star in the constellation Arni
+      2127 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 806.79 ly
 apparent_magnitude: 12.17
 absolute_magnitude: 5.20

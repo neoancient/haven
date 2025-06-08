@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Tyurnioliad is a star in the constellation Tyurniol
+      ν Tyurnioliad is a star in the constellation <a href="tyurniol.html">Tyurniol</a>
 distance: 87.24 ly
 apparent_magnitude: 6.36
 absolute_magnitude: 4.22
@@ -31,14 +31,14 @@ planets:
     radius: 9,278.4 km<br/>(1.456 Yrths)
     surface_area: 1.082 × 10<sup>09</sup> km<sup>2</sup><br/>(2.121 Yrths)
     volume: 3.346 × 10<sup>12</sup> km<sup>3</sup><br/>(3.089 Yrths)
-    mass: 1.625 × 10<sup>25</sup> kg<br />(2.7217426244885004 Yrths)
+    mass: 1.625 × 10<sup>25</sup> kg<br />(2.72 Yrths)
     density: 4.858 g/cm<sup>3</sup>
     surface_gravity: 12.585 m/s<sup>2</sup><br />(1.283 g<sub>0</sub>)
     escape_velocity: 15.292 km/s<br />(55,051 km/h)
     rotation_period: 1.015 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 277 K<br />(4 °C)
+    temperature: 266 K<br />(-7 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 97.4100% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 3,665.1 km<br/>(0.575 Yrths)
         surface_area: 1.688 × 10<sup>08</sup> km<sup>2</sup><br/>(0.331 Yrths)
         volume: 2.062 × 10<sup>11</sup> km<sup>3</sup><br/>(0.190 Yrths)
-        mass: 3.732 × 10<sup>23</sup> kg<br />(2.7217426244885004 Yrths)
+        mass: 3.732 × 10<sup>23</sup> kg<br />(0.062 Yrths)
         density: 1.809 g/cm<sup>3</sup>
         surface_gravity: 1.852 m/s<sup>2</sup><br />(0.189 g<sub>0</sub>)
         escape_velocity: 3.687 km/s<br />(13,271 km/h)
         rotation_period: 63.944 d
         axial_tilt: 25.25°
         albedo: 0.30
-        temperature: 3810 K<br />(3537 °C)
+        temperature: 260 K<br />(-13 °C)
       - name: ν Tyurnioliad I b
         type: Rocky
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 4,757.1 km<br/>(0.747 Yrths)
         surface_area: 2.844 × 10<sup>08</sup> km<sup>2</sup><br/>(0.558 Yrths)
         volume: 4.509 × 10<sup>11</sup> km<sup>3</sup><br/>(0.416 Yrths)
-        mass: 1.200 × 10<sup>24</sup> kg<br />(2.7217426244885004 Yrths)
+        mass: 1.200 × 10<sup>24</sup> kg<br />(0.201 Yrths)
         density: 2.662 g/cm<sup>3</sup>
         surface_gravity: 3.536 m/s<sup>2</sup><br />(0.361 g<sub>0</sub>)
         escape_velocity: 5.804 km/s<br />(20,894 km/h)
         rotation_period: 53.616 d
         axial_tilt: 17.14°
         albedo: 0.30
-        temperature: 3633 K<br />(3359 °C)
+        temperature: 260 K<br />(-13 °C)
   - name: ν Tyurnioliad II
     type: Large terrestrial
     aphelion: 584,546,450 km<br />3.907 AU
@@ -95,14 +95,14 @@ planets:
     radius: 12,434.9 km<br/>(1.952 Yrths)
     surface_area: 1.943 × 10<sup>09</sup> km<sup>2</sup><br/>(3.810 Yrths)
     volume: 8.054 × 10<sup>12</sup> km<sup>3</sup><br/>(7.435 Yrths)
-    mass: 4.933 × 10<sup>25</sup> kg<br />(8.25950741278539 Yrths)
+    mass: 4.933 × 10<sup>25</sup> kg<br />(8.26 Yrths)
     density: 6.124 g/cm<sup>3</sup>
     surface_gravity: 21.262 m/s<sup>2</sup><br />(2.168 g<sub>0</sub>)
     escape_velocity: 23.011 km/s<br />(82,839 km/h)
     rotation_period: 0.782 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 243 K<br />(-30 °C)
+    temperature: 381 K<br />(108 °C)
     surface_pressure: 64 kPa<br />(1 atm)
     composition:
       - 84.6095% methane
@@ -120,14 +120,14 @@ planets:
         radius: 18,199.3 km<br/>(2.857 Yrths)
         surface_area: 4.162 × 10<sup>09</sup> km<sup>2</sup><br/>(8.160 Yrths)
         volume: 2.525 × 10<sup>13</sup> km<sup>3</sup><br/>(23.310 Yrths)
-        mass: 3.973 × 10<sup>25</sup> kg<br />(8.25950741278539 Yrths)
+        mass: 3.973 × 10<sup>25</sup> kg<br />(6.653 Yrths)
         density: 1.574 g/cm<sup>3</sup>
         surface_gravity: 7.996 m/s<sup>2</sup><br />(0.815 g<sub>0</sub>)
         escape_velocity: 17.071 km/s<br />(61,457 km/h)
         rotation_period: 59.238 d
         axial_tilt: 26.28°
         albedo: 0.30
-        temperature: 2564 K<br />(2291 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: ν Tyurnioliad II b
         type: Rocky
         formationType: Impact formed
@@ -140,12 +140,12 @@ planets:
         radius: 3,863.1 km<br/>(0.606 Yrths)
         surface_area: 1.875 × 10<sup>08</sup> km<sup>2</sup><br/>(0.368 Yrths)
         volume: 2.415 × 10<sup>11</sup> km<sup>3</sup><br/>(0.223 Yrths)
-        mass: 7.547 × 10<sup>23</sup> kg<br />(8.25950741278539 Yrths)
+        mass: 7.547 × 10<sup>23</sup> kg<br />(0.126 Yrths)
         density: 3.125 g/cm<sup>3</sup>
         surface_gravity: 3.371 m/s<sup>2</sup><br />(0.344 g<sub>0</sub>)
         escape_velocity: 5.107 km/s<br />(18,385 km/h)
         rotation_period: 45.609 d
         axial_tilt: 15.64°
         albedo: 0.30
-        temperature: 2445 K<br />(2172 °C)
+        temperature: 193 K<br />(-80 °C)
 ---

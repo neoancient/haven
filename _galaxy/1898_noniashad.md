@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1898 Noniashad is a star in the constellation Nonias
+      1898 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 697.04 ly
 apparent_magnitude: 12.28
 absolute_magnitude: 5.63

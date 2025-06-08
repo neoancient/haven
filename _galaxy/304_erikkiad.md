@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      304 Erikkiad is a star in the constellation Erik
+      304 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1552.91 ly
 apparent_magnitude: 13.46
 absolute_magnitude: 5.08

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6222 Tanashad is a star in the constellation Tanas
+      6222 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 265.41 ly
 apparent_magnitude: 8.94
 absolute_magnitude: 4.39

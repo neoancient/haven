@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      964 Urthiad is a star in the constellation Urth
+      964 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 1060.66 ly
 apparent_magnitude: 15.10
 absolute_magnitude: 7.54

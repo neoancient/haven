@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2739 Arkothiad A is a star in the constellation Arkoth
+      2739 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 437.29 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 5.04

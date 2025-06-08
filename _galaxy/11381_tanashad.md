@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11381 Tanashad is a star in the constellation Tanas
+      11381 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 259.39 ly
 apparent_magnitude: 11.00
 absolute_magnitude: 6.50

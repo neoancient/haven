@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3086 Narashiad is a star in the constellation Naras
+      3086 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 598.06 ly
 apparent_magnitude: 10.09
 absolute_magnitude: 3.78

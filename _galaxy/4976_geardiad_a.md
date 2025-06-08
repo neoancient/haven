@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4976 Geardiad A is a star in the constellation Geard
+      4976 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 385.96 ly
 apparent_magnitude: 9.02
 absolute_magnitude: 3.66

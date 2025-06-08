@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Reggiad C is a star in the constellation Reg
+      0051 Reggiad C is a star in the constellation <a href="reg.html">Reg</a>
 distance: 1080.05 ly
 apparent_magnitude: 17.91
 absolute_magnitude: 10.31
@@ -31,7 +31,7 @@ planets:
     radius: 4,919.2 km<br/>(0.772 Yrths)
     surface_area: 3.041 × 10<sup>08</sup> km<sup>2</sup><br/>(0.596 Yrths)
     volume: 4.986 × 10<sup>11</sup> km<sup>3</sup><br/>(0.460 Yrths)
-    mass: 6.750 × 10<sup>25</sup> kg<br />(11.302781874332245 Yrths)
+    mass: 6.750 × 10<sup>25</sup> kg<br />(11.30 Yrths)
     density: 135.370 g/cm<sup>3</sup>
     surface_gravity: 185.920 m/s<sup>2</sup><br />(18.959 g<sub>0</sub>)
     escape_velocity: 42.798 km/s<br />(154,072 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 14,471.5 km<br/>(2.271 Yrths)
         surface_area: 2.632 × 10<sup>09</sup> km<sup>2</sup><br/>(5.160 Yrths)
         volume: 1.269 × 10<sup>13</sup> km<sup>3</sup><br/>(11.720 Yrths)
-        mass: 3.448 × 10<sup>25</sup> kg<br />(11.302781874332245 Yrths)
+        mass: 3.448 × 10<sup>25</sup> kg<br />(5.774 Yrths)
         density: 2.716 g/cm<sup>3</sup>
         surface_gravity: 10.974 m/s<sup>2</sup><br />(1.119 g<sub>0</sub>)
         escape_velocity: 17.834 km/s<br />(64,202 km/h)
         rotation_period: 35.254 d
         axial_tilt: 18.87°
         albedo: 0.30
-        temperature: 3117 K<br />(2844 °C)
+        temperature: 328 K<br />(55 °C)
       - name: 0051 Reggiad C I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 13,922.1 km<br/>(2.185 Yrths)
         surface_area: 2.436 × 10<sup>09</sup> km<sup>2</sup><br/>(4.775 Yrths)
         volume: 1.130 × 10<sup>13</sup> km<sup>3</sup><br/>(10.435 Yrths)
-        mass: 3.165 × 10<sup>25</sup> kg<br />(11.302781874332245 Yrths)
+        mass: 3.165 × 10<sup>25</sup> kg<br />(5.300 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 10.884 m/s<sup>2</sup><br />(1.110 g<sub>0</sub>)
         escape_velocity: 17.420 km/s<br />(62,712 km/h)
         rotation_period: 44.783 d
         axial_tilt: 18.32°
         albedo: 0.30
-        temperature: 2972 K<br />(2699 °C)
+        temperature: 328 K<br />(55 °C)
       - name: 0051 Reggiad C I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 10,479.4 km<br/>(1.645 Yrths)
         surface_area: 1.380 × 10<sup>09</sup> km<sup>2</sup><br/>(2.706 Yrths)
         volume: 4.820 × 10<sup>12</sup> km<sup>3</sup><br/>(4.450 Yrths)
-        mass: 1.350 × 10<sup>25</sup> kg<br />(11.302781874332245 Yrths)
+        mass: 1.350 × 10<sup>25</sup> kg<br />(2.260 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 8.192 m/s<sup>2</sup><br />(0.835 g<sub>0</sub>)
         escape_velocity: 13.112 km/s<br />(47,204 km/h)
         rotation_period: 31.944 d
         axial_tilt: 19.99°
         albedo: 0.30
-        temperature: 2702 K<br />(2429 °C)
+        temperature: 328 K<br />(55 °C)
       - name: 0051 Reggiad C I d
         type: Rocky
         formationType: Impact formed
@@ -112,14 +112,14 @@ planets:
         radius: 11,675.5 km<br/>(1.833 Yrths)
         surface_area: 1.713 × 10<sup>09</sup> km<sup>2</sup><br/>(3.358 Yrths)
         volume: 6.667 × 10<sup>12</sup> km<sup>3</sup><br/>(6.155 Yrths)
-        mass: 2.121 × 10<sup>25</sup> kg<br />(11.302781874332245 Yrths)
+        mass: 2.121 × 10<sup>25</sup> kg<br />(3.552 Yrths)
         density: 3.181 g/cm<sup>3</sup>
         surface_gravity: 10.371 m/s<sup>2</sup><br />(1.058 g<sub>0</sub>)
         escape_velocity: 15.572 km/s<br />(56,060 km/h)
         rotation_period: 33.492 d
         axial_tilt: 22.12°
         albedo: 0.30
-        temperature: 2576 K<br />(2303 °C)
+        temperature: 328 K<br />(55 °C)
       - name: 0051 Reggiad C I e
         type: Rocky
         formationType: Captured
@@ -132,12 +132,12 @@ planets:
         radius: 20,436.6 km<br/>(3.208 Yrths)
         surface_area: 5.248 × 10<sup>09</sup> km<sup>2</sup><br/>(10.290 Yrths)
         volume: 3.575 × 10<sup>13</sup> km<sup>3</sup><br/>(33.007 Yrths)
-        mass: 1.020 × 10<sup>26</sup> kg<br />(11.302781874332245 Yrths)
+        mass: 1.020 × 10<sup>26</sup> kg<br />(17.078 Yrths)
         density: 2.853 g/cm<sup>3</sup>
         surface_gravity: 16.276 m/s<sup>2</sup><br />(1.660 g<sub>0</sub>)
         escape_velocity: 25.810 km/s<br />(92,917 km/h)
         rotation_period: 36.473 d
         axial_tilt: 17.46°
         albedo: 0.30
-        temperature: 2456 K<br />(2183 °C)
+        temperature: 328 K<br />(55 °C)
 ---

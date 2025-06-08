@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1185 Urthiad is a star in the constellation Urth
+      1185 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 400.55 ly
 apparent_magnitude: 10.82
 absolute_magnitude: 5.37

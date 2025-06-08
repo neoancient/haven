@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      15939 Arkothiad A is a star in the constellation Arkoth
+      15939 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 480.78 ly
 apparent_magnitude: 8.08
 absolute_magnitude: 2.24

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5139 Keead is a star in the constellation Kee
+      5139 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 508.19 ly
 apparent_magnitude: 13.97
 absolute_magnitude: 8.01

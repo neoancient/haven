@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1387 Shanniashiad is a star in the constellation Shannias
+      1387 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 399.82 ly
 apparent_magnitude: 12.58
 absolute_magnitude: 7.14

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Gora A is a star in the constellation Geard
+      Gora A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 292.80 ly
 apparent_magnitude: 2.85
 absolute_magnitude: -1.92

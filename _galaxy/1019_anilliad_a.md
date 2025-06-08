@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1019 Anilliad A is a star in the constellation Anil
+      1019 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 594.75 ly
 apparent_magnitude: 7.72
 absolute_magnitude: 1.42

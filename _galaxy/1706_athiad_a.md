@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1706 Athiad A is a star in the constellation Ath
+      1706 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 757.81 ly
 apparent_magnitude: 6.84
 absolute_magnitude: 0.01

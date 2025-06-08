@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      395 Arniad is a star in the constellation Arni
+      395 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 495.89 ly
 apparent_magnitude: 7.20
 absolute_magnitude: 1.29
@@ -31,14 +31,14 @@ planets:
     radius: 11,693.9 km<br/>(1.835 Yrths)
     surface_area: 1.718 × 10<sup>09</sup> km<sup>2</sup><br/>(3.369 Yrths)
     volume: 6.698 × 10<sup>12</sup> km<sup>3</sup><br/>(6.184 Yrths)
-    mass: 4.541 × 10<sup>25</sup> kg<br />(7.603525799410736 Yrths)
+    mass: 4.541 × 10<sup>25</sup> kg<br />(7.60 Yrths)
     density: 6.779 g/cm<sup>3</sup>
     surface_gravity: 22.133 m/s<sup>2</sup><br />(2.257 g<sub>0</sub>)
     escape_velocity: 22.767 km/s<br />(81,961 km/h)
     rotation_period: 0.633 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 456 K<br />(182 °C)
+    temperature: 501 K<br />(228 °C)
     surface_pressure: 2,532 kPa<br />(25 atm)
     composition:
       - 89.2737% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 13,426.4 km<br/>(2.107 Yrths)
         surface_area: 2.265 × 10<sup>09</sup> km<sup>2</sup><br/>(4.441 Yrths)
         volume: 1.014 × 10<sup>13</sup> km<sup>3</sup><br/>(9.360 Yrths)
-        mass: 2.607 × 10<sup>25</sup> kg<br />(7.603525799410736 Yrths)
+        mass: 2.607 × 10<sup>25</sup> kg<br />(4.365 Yrths)
         density: 2.571 g/cm<sup>3</sup>
         surface_gravity: 9.639 m/s<sup>2</sup><br />(0.983 g<sub>0</sub>)
         escape_velocity: 16.099 km/s<br />(57,958 km/h)
         rotation_period: 48.338 d
         axial_tilt: 31.62°
         albedo: 0.30
-        temperature: 3416 K<br />(3143 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 395 Arniad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 7,654.0 km<br/>(1.201 Yrths)
         surface_area: 7.362 × 10<sup>08</sup> km<sup>2</sup><br/>(1.443 Yrths)
         volume: 1.878 × 10<sup>12</sup> km<sup>3</sup><br/>(1.734 Yrths)
-        mass: 4.425 × 10<sup>24</sup> kg<br />(7.603525799410736 Yrths)
+        mass: 4.425 × 10<sup>24</sup> kg<br />(0.741 Yrths)
         density: 2.356 g/cm<sup>3</sup>
         surface_gravity: 5.034 m/s<sup>2</sup><br />(0.513 g<sub>0</sub>)
         escape_velocity: 8.784 km/s<br />(31,624 km/h)
         rotation_period: 36.046 d
         axial_tilt: 30.68°
         albedo: 0.30
-        temperature: 3257 K<br />(2984 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 395 Arniad I c
         type: Icy
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 9,837.4 km<br/>(1.544 Yrths)
         surface_area: 1.216 × 10<sup>09</sup> km<sup>2</sup><br/>(2.384 Yrths)
         volume: 3.988 × 10<sup>12</sup> km<sup>3</sup><br/>(3.681 Yrths)
-        mass: 4.589 × 10<sup>24</sup> kg<br />(7.603525799410736 Yrths)
+        mass: 4.589 × 10<sup>24</sup> kg<br />(0.768 Yrths)
         density: 1.151 g/cm<sup>3</sup>
         surface_gravity: 3.160 m/s<sup>2</sup><br />(0.322 g<sub>0</sub>)
         escape_velocity: 7.891 km/s<br />(28,407 km/h)
         rotation_period: 63.231 d
         axial_tilt: 26.74°
         albedo: 0.30
-        temperature: 3106 K<br />(2832 °C)
+        temperature: 304 K<br />(31 °C)
   - name: 395 Arniad II
     type: Ice giant
     aphelion: 1,134,035,293 km<br />7.580 AU
@@ -116,14 +116,14 @@ planets:
     radius: 14,963.9 km<br/>(2.349 Yrths)
     surface_area: 2.814 × 10<sup>09</sup> km<sup>2</sup><br/>(5.517 Yrths)
     volume: 1.404 × 10<sup>13</sup> km<sup>3</sup><br/>(12.957 Yrths)
-    mass: 1.697 × 10<sup>25</sup> kg<br />(2.8416223152147633 Yrths)
+    mass: 1.697 × 10<sup>25</sup> kg<br />(2.84 Yrths)
     density: 1.209 g/cm<sup>3</sup>
     surface_gravity: 5.051 m/s<sup>2</sup><br />(0.515 g<sub>0</sub>)
     escape_velocity: 12.304 km/s<br />(44,294 km/h)
     rotation_period: 0.496 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 404 K<br />(131 °C)
+    temperature: 374 K<br />(100 °C)
     composition:
       - 68.3824% hydrogen
       - 25.4488% helium
@@ -144,14 +144,14 @@ planets:
         radius: 6,644.3 km<br/>(1.043 Yrths)
         surface_area: 5.548 × 10<sup>08</sup> km<sup>2</sup><br/>(1.088 Yrths)
         volume: 1.229 × 10<sup>12</sup> km<sup>3</sup><br/>(1.134 Yrths)
-        mass: 3.351 × 10<sup>24</sup> kg<br />(2.8416223152147633 Yrths)
+        mass: 3.351 × 10<sup>24</sup> kg<br />(0.561 Yrths)
         density: 2.728 g/cm<sup>3</sup>
         surface_gravity: 5.060 m/s<sup>2</sup><br />(0.516 g<sub>0</sub>)
         escape_velocity: 8.206 km/s<br />(29,540 km/h)
         rotation_period: 30.772 d
         axial_tilt: 51.43°
         albedo: 0.30
-        temperature: 2718 K<br />(2445 °C)
+        temperature: 211 K<br />(-62 °C)
       - name: 395 Arniad II b
         type: Icy
         formationType: Captured
@@ -164,14 +164,14 @@ planets:
         radius: 6,630.7 km<br/>(1.041 Yrths)
         surface_area: 5.525 × 10<sup>08</sup> km<sup>2</sup><br/>(1.083 Yrths)
         volume: 1.221 × 10<sup>12</sup> km<sup>3</sup><br/>(1.127 Yrths)
-        mass: 1.469 × 10<sup>24</sup> kg<br />(2.8416223152147633 Yrths)
+        mass: 1.469 × 10<sup>24</sup> kg<br />(0.246 Yrths)
         density: 1.203 g/cm<sup>3</sup>
         surface_gravity: 2.226 m/s<sup>2</sup><br />(0.227 g<sub>0</sub>)
         escape_velocity: 5.437 km/s<br />(19,575 km/h)
         rotation_period: 56.109 d
         axial_tilt: 15.56°
         albedo: 0.30
-        temperature: 2356 K<br />(2083 °C)
+        temperature: 211 K<br />(-62 °C)
       - name: 395 Arniad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -184,14 +184,14 @@ planets:
         radius: 3,051.0 km<br/>(0.479 Yrths)
         surface_area: 1.170 × 10<sup>08</sup> km<sup>2</sup><br/>(0.229 Yrths)
         volume: 1.190 × 10<sup>11</sup> km<sup>3</sup><br/>(0.110 Yrths)
-        mass: 3.020 × 10<sup>23</sup> kg<br />(2.8416223152147633 Yrths)
+        mass: 3.020 × 10<sup>23</sup> kg<br />(0.051 Yrths)
         density: 2.539 g/cm<sup>3</sup>
         surface_gravity: 2.163 m/s<sup>2</sup><br />(0.221 g<sub>0</sub>)
         escape_velocity: 3.635 km/s<br />(13,087 km/h)
         rotation_period: 31.270 d
         axial_tilt: 13.97°
         albedo: 0.30
-        temperature: 2142 K<br />(1869 °C)
+        temperature: 211 K<br />(-62 °C)
       - name: 395 Arniad II d
         type: Icy
         formationType: Impact formed
@@ -204,14 +204,14 @@ planets:
         radius: 3,836.5 km<br/>(0.602 Yrths)
         surface_area: 1.850 × 10<sup>08</sup> km<sup>2</sup><br/>(0.363 Yrths)
         volume: 2.365 × 10<sup>11</sup> km<sup>3</sup><br/>(0.218 Yrths)
-        mass: 2.021 × 10<sup>23</sup> kg<br />(2.8416223152147633 Yrths)
+        mass: 2.021 × 10<sup>23</sup> kg<br />(0.034 Yrths)
         density: 0.855 g/cm<sup>3</sup>
         surface_gravity: 0.915 m/s<sup>2</sup><br />(0.093 g<sub>0</sub>)
         escape_velocity: 2.652 km/s<br />(9,547 km/h)
         rotation_period: 55.251 d
         axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 1770 K<br />(1497 °C)
+        temperature: 211 K<br />(-62 °C)
       - name: 395 Arniad II e
         type: Dwarf planet
         formationType: Impact formed
@@ -224,14 +224,14 @@ planets:
         radius: 3,579.0 km<br/>(0.562 Yrths)
         surface_area: 1.610 × 10<sup>08</sup> km<sup>2</sup><br/>(0.316 Yrths)
         volume: 1.920 × 10<sup>11</sup> km<sup>3</sup><br/>(0.177 Yrths)
-        mass: 2.473 × 10<sup>23</sup> kg<br />(2.8416223152147633 Yrths)
+        mass: 2.473 × 10<sup>23</sup> kg<br />(0.041 Yrths)
         density: 1.288 g/cm<sup>3</sup>
         surface_gravity: 1.287 m/s<sup>2</sup><br />(0.131 g<sub>0</sub>)
         escape_velocity: 3.037 km/s<br />(10,934 km/h)
         rotation_period: 60.558 d
         axial_tilt: 40.28°
         albedo: 0.30
-        temperature: 1688 K<br />(1414 °C)
+        temperature: 211 K<br />(-62 °C)
       - name: 395 Arniad II f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -244,14 +244,14 @@ planets:
         radius: 3,176.6 km<br/>(0.499 Yrths)
         surface_area: 1.268 × 10<sup>08</sup> km<sup>2</sup><br/>(0.249 Yrths)
         volume: 1.343 × 10<sup>11</sup> km<sup>3</sup><br/>(0.124 Yrths)
-        mass: 2.874 × 10<sup>23</sup> kg<br />(2.8416223152147633 Yrths)
+        mass: 2.874 × 10<sup>23</sup> kg<br />(0.048 Yrths)
         density: 2.140 g/cm<sup>3</sup>
         surface_gravity: 1.898 m/s<sup>2</sup><br />(0.194 g<sub>0</sub>)
         escape_velocity: 3.475 km/s<br />(12,511 km/h)
         rotation_period: 53.912 d
         axial_tilt: 20.78°
         albedo: 0.30
-        temperature: 1609 K<br />(1336 °C)
+        temperature: 211 K<br />(-62 °C)
       - name: 395 Arniad II g
         type: Icy
         formationType: Captured
@@ -264,14 +264,14 @@ planets:
         radius: 5,220.9 km<br/>(0.819 Yrths)
         surface_area: 3.425 × 10<sup>08</sup> km<sup>2</sup><br/>(0.672 Yrths)
         volume: 5.961 × 10<sup>11</sup> km<sup>3</sup><br/>(0.550 Yrths)
-        mass: 6.895 × 10<sup>23</sup> kg<br />(2.8416223152147633 Yrths)
+        mass: 6.895 × 10<sup>23</sup> kg<br />(0.115 Yrths)
         density: 1.157 g/cm<sup>3</sup>
         surface_gravity: 1.686 m/s<sup>2</sup><br />(0.172 g<sub>0</sub>)
         escape_velocity: 4.199 km/s<br />(15,115 km/h)
         rotation_period: 67.225 d
         axial_tilt: 16.79°
         albedo: 0.30
-        temperature: 1534 K<br />(1261 °C)
+        temperature: 211 K<br />(-62 °C)
       - name: 395 Arniad II h
         type: Icy
         formationType: Accreted
@@ -284,14 +284,14 @@ planets:
         radius: 3,627.3 km<br/>(0.569 Yrths)
         surface_area: 1.653 × 10<sup>08</sup> km<sup>2</sup><br/>(0.324 Yrths)
         volume: 1.999 × 10<sup>11</sup> km<sup>3</sup><br/>(0.185 Yrths)
-        mass: 2.656 × 10<sup>23</sup> kg<br />(2.8416223152147633 Yrths)
+        mass: 2.656 × 10<sup>23</sup> kg<br />(0.044 Yrths)
         density: 1.329 g/cm<sup>3</sup>
         surface_gravity: 1.346 m/s<sup>2</sup><br />(0.137 g<sub>0</sub>)
         escape_velocity: 3.127 km/s<br />(11,256 km/h)
         rotation_period: 59.459 d
         axial_tilt: 23.09°
         albedo: 0.30
-        temperature: 1463 K<br />(1190 °C)
+        temperature: 211 K<br />(-62 °C)
       - name: 395 Arniad II i
         type: Ice/rock hybrid
         formationType: Captured
@@ -304,14 +304,14 @@ planets:
         radius: 6,705.8 km<br/>(1.053 Yrths)
         surface_area: 5.651 × 10<sup>08</sup> km<sup>2</sup><br/>(1.108 Yrths)
         volume: 1.263 × 10<sup>12</sup> km<sup>3</sup><br/>(1.166 Yrths)
-        mass: 2.387 × 10<sup>24</sup> kg<br />(2.8416223152147633 Yrths)
+        mass: 2.387 × 10<sup>24</sup> kg<br />(0.400 Yrths)
         density: 1.890 g/cm<sup>3</sup>
         surface_gravity: 3.538 m/s<sup>2</sup><br />(0.361 g<sub>0</sub>)
         escape_velocity: 6.893 km/s<br />(24,814 km/h)
         rotation_period: 36.731 d
         axial_tilt: 25.55°
         albedo: 0.30
-        temperature: 1395 K<br />(1122 °C)
+        temperature: 211 K<br />(-62 °C)
   - name: 395 Arniad III
     type: Gas dwarf
     aphelion: 2,396,365,347 km<br />16.018 AU
@@ -323,14 +323,14 @@ planets:
     radius: 12,544.4 km<br/>(1.969 Yrths)
     surface_area: 1.977 × 10<sup>09</sup> km<sup>2</sup><br/>(3.877 Yrths)
     volume: 8.269 × 10<sup>12</sup> km<sup>3</sup><br/>(7.634 Yrths)
-    mass: 1.976 × 10<sup>25</sup> kg<br />(3.309573073971702 Yrths)
+    mass: 1.976 × 10<sup>25</sup> kg<br />(3.31 Yrths)
     density: 2.390 g/cm<sup>3</sup>
     surface_gravity: 8.372 m/s<sup>2</sup><br />(0.854 g<sub>0</sub>)
     escape_velocity: 14.502 km/s<br />(52,208 km/h)
     rotation_period: 0.504 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 219 K<br />(-54 °C)
+    temperature: 194 K<br />(-79 °C)
     composition:
       - 89.0127% hydrogen
       - 10.0031% helium
@@ -350,14 +350,14 @@ planets:
         radius: 2,895.1 km<br/>(0.454 Yrths)
         surface_area: 1.053 × 10<sup>08</sup> km<sup>2</sup><br/>(0.206 Yrths)
         volume: 1.016 × 10<sup>11</sup> km<sup>3</sup><br/>(0.094 Yrths)
-        mass: 2.035 × 10<sup>23</sup> kg<br />(3.309573073971702 Yrths)
+        mass: 2.035 × 10<sup>23</sup> kg<br />(0.034 Yrths)
         density: 2.002 g/cm<sup>3</sup>
         surface_gravity: 1.618 m/s<sup>2</sup><br />(0.165 g<sub>0</sub>)
         escape_velocity: 3.063 km/s<br />(11,027 km/h)
         rotation_period: 40.895 d
         axial_tilt: 20.91°
         albedo: 0.30
-        temperature: 1835 K<br />(1562 °C)
+        temperature: 147 K<br />(-127 °C)
       - name: 395 Arniad III b
         type: Icy
         formationType: Captured
@@ -370,14 +370,14 @@ planets:
         radius: 7,350.9 km<br/>(1.154 Yrths)
         surface_area: 6.790 × 10<sup>08</sup> km<sup>2</sup><br/>(1.331 Yrths)
         volume: 1.664 × 10<sup>12</sup> km<sup>3</sup><br/>(1.536 Yrths)
-        mass: 3.022 × 10<sup>24</sup> kg<br />(3.309573073971702 Yrths)
+        mass: 3.022 × 10<sup>24</sup> kg<br />(0.506 Yrths)
         density: 1.816 g/cm<sup>3</sup>
         surface_gravity: 3.728 m/s<sup>2</sup><br />(0.380 g<sub>0</sub>)
         escape_velocity: 7.408 km/s<br />(26,669 km/h)
         rotation_period: 47.621 d
         axial_tilt: 15.40°
         albedo: 0.30
-        temperature: 1750 K<br />(1477 °C)
+        temperature: 147 K<br />(-127 °C)
       - name: 395 Arniad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -390,14 +390,14 @@ planets:
         radius: 2,387.2 km<br/>(0.375 Yrths)
         surface_area: 7.161 × 10<sup>07</sup> km<sup>2</sup><br/>(0.140 Yrths)
         volume: 5.698 × 10<sup>10</sup> km<sup>3</sup><br/>(0.053 Yrths)
-        mass: 9.802 × 10<sup>22</sup> kg<br />(3.309573073971702 Yrths)
+        mass: 9.802 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 1.720 g/cm<sup>3</sup>
         surface_gravity: 1.146 m/s<sup>2</sup><br />(0.117 g<sub>0</sub>)
         escape_velocity: 2.341 km/s<br />(8,428 km/h)
         rotation_period: 53.012 d
         axial_tilt: 7.74°
         albedo: 0.30
-        temperature: 1591 K<br />(1318 °C)
+        temperature: 147 K<br />(-127 °C)
       - name: 395 Arniad III d
         type: Icy
         formationType: Impact formed
@@ -410,14 +410,14 @@ planets:
         radius: 2,948.5 km<br/>(0.463 Yrths)
         surface_area: 1.093 × 10<sup>08</sup> km<sup>2</sup><br/>(0.214 Yrths)
         volume: 1.074 × 10<sup>11</sup> km<sup>3</sup><br/>(0.099 Yrths)
-        mass: 1.634 × 10<sup>23</sup> kg<br />(3.309573073971702 Yrths)
+        mass: 1.634 × 10<sup>23</sup> kg<br />(0.027 Yrths)
         density: 1.521 g/cm<sup>3</sup>
         surface_gravity: 1.252 m/s<sup>2</sup><br />(0.128 g<sub>0</sub>)
         escape_velocity: 2.720 km/s<br />(9,790 km/h)
         rotation_period: 70.884 d
         axial_tilt: 27.22°
         albedo: 0.30
-        temperature: 1517 K<br />(1244 °C)
+        temperature: 147 K<br />(-127 °C)
       - name: 395 Arniad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -430,14 +430,14 @@ planets:
         radius: 10,521.8 km<br/>(1.652 Yrths)
         surface_area: 1.391 × 10<sup>09</sup> km<sup>2</sup><br/>(2.728 Yrths)
         volume: 4.879 × 10<sup>12</sup> km<sup>3</sup><br/>(4.505 Yrths)
-        mass: 1.208 × 10<sup>25</sup> kg<br />(3.309573073971702 Yrths)
+        mass: 1.208 × 10<sup>25</sup> kg<br />(2.022 Yrths)
         density: 2.475 g/cm<sup>3</sup>
         surface_gravity: 7.272 m/s<sup>2</sup><br />(0.742 g<sub>0</sub>)
         escape_velocity: 12.379 km/s<br />(44,563 km/h)
         rotation_period: 58.312 d
         axial_tilt: 16.88°
         albedo: 0.30
-        temperature: 1446 K<br />(1173 °C)
+        temperature: 147 K<br />(-127 °C)
   - name: 395 Arniad IV
     type: Ice giant
     aphelion: 4,993,024,267 km<br />33.376 AU
@@ -449,14 +449,14 @@ planets:
     radius: 26,181.5 km<br/>(4.109 Yrths)
     surface_area: 8.614 × 10<sup>09</sup> km<sup>2</sup><br/>(16.888 Yrths)
     volume: 7.517 × 10<sup>13</sup> km<sup>3</sup><br/>(69.400 Yrths)
-    mass: 1.127 × 10<sup>26</sup> kg<br />(18.877141491411088 Yrths)
+    mass: 1.127 × 10<sup>26</sup> kg<br />(18.88 Yrths)
     density: 1.500 g/cm<sup>3</sup>
     surface_gravity: 10.962 m/s<sup>2</sup><br />(1.118 g<sub>0</sub>)
     escape_velocity: 23.974 km/s<br />(86,308 km/h)
     rotation_period: 0.331 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 191 K<br />(-82 °C)
+    temperature: 173 K<br />(-100 °C)
     composition:
       - 90.0652% hydrogen
       - 8.8250% helium
@@ -474,14 +474,14 @@ planets:
         radius: 30,652.0 km<br/>(4.811 Yrths)
         surface_area: 1.181 × 10<sup>10</sup> km<sup>2</sup><br/>(23.147 Yrths)
         volume: 1.206 × 10<sup>14</sup> km<sup>3</sup><br/>(111.366 Yrths)
-        mass: 2.124 × 10<sup>26</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 2.124 × 10<sup>26</sup> kg<br />(35.564 Yrths)
         density: 1.761 g/cm<sup>3</sup>
         surface_gravity: 15.067 m/s<sup>2</sup><br />(1.536 g<sub>0</sub>)
         escape_velocity: 30.413 km/s<br />(109,486 km/h)
         rotation_period: 40.856 d
         axial_tilt: 23.45°
         albedo: 0.30
-        temperature: 909 K<br />(636 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -494,14 +494,14 @@ planets:
         radius: 18,442.9 km<br/>(2.895 Yrths)
         surface_area: 4.274 × 10<sup>09</sup> km<sup>2</sup><br/>(8.380 Yrths)
         volume: 2.628 × 10<sup>13</sup> km<sup>3</sup><br/>(24.259 Yrths)
-        mass: 5.427 × 10<sup>25</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 5.427 × 10<sup>25</sup> kg<br />(9.087 Yrths)
         density: 2.065 g/cm<sup>3</sup>
         surface_gravity: 10.634 m/s<sup>2</sup><br />(1.084 g<sub>0</sub>)
         escape_velocity: 19.819 km/s<br />(71,347 km/h)
         rotation_period: 38.885 d
         axial_tilt: 30.87°
         albedo: 0.30
-        temperature: 866 K<br />(593 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -514,14 +514,14 @@ planets:
         radius: 24,530.8 km<br/>(3.850 Yrths)
         surface_area: 7.562 × 10<sup>09</sup> km<sup>2</sup><br/>(14.825 Yrths)
         volume: 6.183 × 10<sup>13</sup> km<sup>3</sup><br/>(57.084 Yrths)
-        mass: 1.388 × 10<sup>26</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 1.388 × 10<sup>26</sup> kg<br />(23.249 Yrths)
         density: 2.245 g/cm<sup>3</sup>
         surface_gravity: 15.379 m/s<sup>2</sup><br />(1.568 g<sub>0</sub>)
         escape_velocity: 27.487 km/s<br />(98,953 km/h)
         rotation_period: 36.464 d
         axial_tilt: 7.30°
         albedo: 0.30
-        temperature: 826 K<br />(553 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV d
         type: Icy
         formationType: Captured
@@ -534,14 +534,14 @@ planets:
         radius: 19,890.1 km<br/>(3.122 Yrths)
         surface_area: 4.971 × 10<sup>09</sup> km<sup>2</sup><br/>(9.747 Yrths)
         volume: 3.296 × 10<sup>13</sup> km<sup>3</sup><br/>(30.429 Yrths)
-        mass: 3.598 × 10<sup>25</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 3.598 × 10<sup>25</sup> kg<br />(6.025 Yrths)
         density: 1.092 g/cm<sup>3</sup>
         surface_gravity: 6.062 m/s<sup>2</sup><br />(0.618 g<sub>0</sub>)
         escape_velocity: 15.540 km/s<br />(55,944 km/h)
         rotation_period: 59.141 d
         axial_tilt: 22.17°
         albedo: 0.30
-        temperature: 751 K<br />(478 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV e
         type: Asteroid
         formationType: Captured
@@ -554,14 +554,14 @@ planets:
         radius: 14,248.4 km<br/>(2.236 Yrths)
         surface_area: 2.551 × 10<sup>09</sup> km<sup>2</sup><br/>(5.002 Yrths)
         volume: 1.212 × 10<sup>13</sup> km<sup>3</sup><br/>(11.186 Yrths)
-        mass: 2.631 × 10<sup>25</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 2.631 × 10<sup>25</sup> kg<br />(4.405 Yrths)
         density: 2.171 g/cm<sup>3</sup>
         surface_gravity: 8.637 m/s<sup>2</sup><br />(0.881 g<sub>0</sub>)
         escape_velocity: 15.699 km/s<br />(56,517 km/h)
         rotation_period: 64.620 d
         axial_tilt: 55.09°
         albedo: 0.30
-        temperature: 716 K<br />(443 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV f
         type: Icy
         formationType: Impact formed
@@ -574,14 +574,14 @@ planets:
         radius: 27,753.4 km<br/>(4.356 Yrths)
         surface_area: 9.679 × 10<sup>09</sup> km<sup>2</sup><br/>(18.977 Yrths)
         volume: 8.954 × 10<sup>13</sup> km<sup>3</sup><br/>(82.666 Yrths)
-        mass: 1.296 × 10<sup>26</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 1.296 × 10<sup>26</sup> kg<br />(21.702 Yrths)
         density: 1.447 g/cm<sup>3</sup>
         surface_gravity: 11.215 m/s<sup>2</sup><br />(1.144 g<sub>0</sub>)
         escape_velocity: 24.967 km/s<br />(89,882 km/h)
         rotation_period: 71.450 d
         axial_tilt: 21.81°
         albedo: 0.30
-        temperature: 683 K<br />(410 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -594,14 +594,14 @@ planets:
         radius: 22,776.8 km<br/>(3.575 Yrths)
         surface_area: 6.519 × 10<sup>09</sup> km<sup>2</sup><br/>(12.781 Yrths)
         volume: 4.950 × 10<sup>13</sup> km<sup>3</sup><br/>(45.693 Yrths)
-        mass: 9.700 × 10<sup>25</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 9.700 × 10<sup>25</sup> kg<br />(16.242 Yrths)
         density: 1.960 g/cm<sup>3</sup>
         surface_gravity: 12.462 m/s<sup>2</sup><br />(1.271 g<sub>0</sub>)
         escape_velocity: 23.842 km/s<br />(85,832 km/h)
         rotation_period: 57.079 d
         axial_tilt: 25.52°
         albedo: 0.30
-        temperature: 651 K<br />(378 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV h
         type: Asteroid
         formationType: Captured
@@ -614,14 +614,14 @@ planets:
         radius: 16,092.4 km<br/>(2.526 Yrths)
         surface_area: 3.254 × 10<sup>09</sup> km<sup>2</sup><br/>(6.380 Yrths)
         volume: 1.746 × 10<sup>13</sup> km<sup>3</sup><br/>(16.115 Yrths)
-        mass: 4.831 × 10<sup>25</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 4.831 × 10<sup>25</sup> kg<br />(8.090 Yrths)
         density: 2.768 g/cm<sup>3</sup>
         surface_gravity: 12.434 m/s<sup>2</sup><br />(1.268 g<sub>0</sub>)
         escape_velocity: 20.018 km/s<br />(72,066 km/h)
         rotation_period: 40.450 d
         axial_tilt: 30.23°
         albedo: 0.30
-        temperature: 592 K<br />(319 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV i
         type: Icy
         formationType: Accreted
@@ -634,14 +634,14 @@ planets:
         radius: 38,929.1 km<br/>(6.110 Yrths)
         surface_area: 1.904 × 10<sup>10</sup> km<sup>2</sup><br/>(37.337 Yrths)
         volume: 2.471 × 10<sup>14</sup> km<sup>3</sup><br/>(228.140 Yrths)
-        mass: 2.981 × 10<sup>26</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 2.981 × 10<sup>26</sup> kg<br />(49.917 Yrths)
         density: 1.206 g/cm<sup>3</sup>
         surface_gravity: 13.111 m/s<sup>2</sup><br />(1.337 g<sub>0</sub>)
         escape_velocity: 31.972 km/s<br />(115,098 km/h)
         rotation_period: 57.852 d
         axial_tilt: 15.20°
         albedo: 0.30
-        temperature: 564 K<br />(291 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV j
         type: Icy
         formationType: Captured
@@ -654,14 +654,14 @@ planets:
         radius: 26,815.8 km<br/>(4.209 Yrths)
         surface_area: 9.036 × 10<sup>09</sup> km<sup>2</sup><br/>(17.716 Yrths)
         volume: 8.077 × 10<sup>13</sup> km<sup>3</sup><br/>(74.567 Yrths)
-        mass: 7.411 × 10<sup>25</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 7.411 × 10<sup>25</sup> kg<br />(12.409 Yrths)
         density: 0.918 g/cm<sup>3</sup>
         surface_gravity: 6.869 m/s<sup>2</sup><br />(0.700 g<sub>0</sub>)
         escape_velocity: 19.207 km/s<br />(69,145 km/h)
         rotation_period: 58.528 d
         axial_tilt: 7.72°
         albedo: 0.30
-        temperature: 513 K<br />(240 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 395 Arniad IV k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -674,12 +674,12 @@ planets:
         radius: 18,622.4 km<br/>(2.923 Yrths)
         surface_area: 4.358 × 10<sup>09</sup> km<sup>2</sup><br/>(8.544 Yrths)
         volume: 2.705 × 10<sup>13</sup> km<sup>3</sup><br/>(24.974 Yrths)
-        mass: 5.491 × 10<sup>25</sup> kg<br />(18.877141491411088 Yrths)
+        mass: 5.491 × 10<sup>25</sup> kg<br />(9.195 Yrths)
         density: 2.030 g/cm<sup>3</sup>
         surface_gravity: 10.553 m/s<sup>2</sup><br />(1.076 g<sub>0</sub>)
         escape_velocity: 19.839 km/s<br />(71,421 km/h)
         rotation_period: 60.402 d
         axial_tilt: 17.21°
         albedo: 0.30
-        temperature: 489 K<br />(216 °C)
+        temperature: 102 K<br />(-171 °C)
 ---

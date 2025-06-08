@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4568 Keead A is a star in the constellation Kee
+      4568 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 252.14 ly
 apparent_magnitude: 9.82
 absolute_magnitude: 5.38

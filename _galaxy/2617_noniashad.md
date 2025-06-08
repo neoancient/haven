@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2617 Noniashad is a star in the constellation Nonias
+      2617 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 439.86 ly
 apparent_magnitude: 11.44
 absolute_magnitude: 5.79

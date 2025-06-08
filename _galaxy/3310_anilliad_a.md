@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3310 Anilliad A is a star in the constellation Anil
+      3310 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 442.63 ly
 apparent_magnitude: 7.03
 absolute_magnitude: 1.37

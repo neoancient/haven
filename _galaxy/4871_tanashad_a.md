@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4871 Tanashad A is a star in the constellation Tanas
+      4871 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 666.43 ly
 apparent_magnitude: 7.37
 absolute_magnitude: 0.82

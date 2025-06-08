@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      462 Athiad is a star in the constellation Ath
+      462 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 443.18 ly
 apparent_magnitude: 10.40
 absolute_magnitude: 4.74

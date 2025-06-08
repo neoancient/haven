@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1470 Lulithannaid is a star in the constellation Lulithan
+      1470 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 537.56 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 4.95

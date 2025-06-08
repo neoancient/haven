@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1942 Athiad is a star in the constellation Ath
+      1942 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 783.64 ly
 apparent_magnitude: 11.41
 absolute_magnitude: 4.50

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      74702 Narashiad is a star in the constellation Naras
+      74702 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 476.53 ly
 apparent_magnitude: 11.17
 absolute_magnitude: 5.35

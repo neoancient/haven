@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      37494 Geardiad is a star in the constellation Geard
+      37494 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 471.83 ly
 apparent_magnitude: 11.13
 absolute_magnitude: 5.33

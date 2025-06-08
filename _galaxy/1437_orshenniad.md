@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1437 Orshenniad is a star in the constellation Orshen
+      1437 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 448.99 ly
 apparent_magnitude: 10.60
 absolute_magnitude: 4.91

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      818 Oniad is a star in the constellation Oni
+      818 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 579.37 ly
 apparent_magnitude: 11.25
 absolute_magnitude: 5.01

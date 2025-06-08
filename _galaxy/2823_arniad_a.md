@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2823 Arniad A is a star in the constellation Arni
+      2823 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 108.95 ly
 apparent_magnitude: 8.91
 absolute_magnitude: 6.29

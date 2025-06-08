@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Kelniad D is a star in the constellation Keln
+      ν Kelniad D is a star in the constellation <a href="keln.html">Keln</a>
 distance: 801.86 ly
 apparent_magnitude: 13.63
 absolute_magnitude: 6.67

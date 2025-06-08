@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5600 Tanashad is a star in the constellation Tanas
+      5600 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 355.24 ly
 apparent_magnitude: 12.02
 absolute_magnitude: 6.83

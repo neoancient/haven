@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      893 Arkothiad is a star in the constellation Arkoth
+      893 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 289.78 ly
 apparent_magnitude: 9.89
 absolute_magnitude: 5.14
@@ -31,14 +31,14 @@ planets:
     radius: 7,683.4 km<br/>(1.206 Yrths)
     surface_area: 7.419 × 10<sup>08</sup> km<sup>2</sup><br/>(1.454 Yrths)
     volume: 1.900 × 10<sup>12</sup> km<sup>3</sup><br/>(1.754 Yrths)
-    mass: 1.404 × 10<sup>25</sup> kg<br />(2.3514927122500047 Yrths)
+    mass: 1.404 × 10<sup>25</sup> kg<br />(2.35 Yrths)
     density: 7.391 g/cm<sup>3</sup>
     surface_gravity: 15.855 m/s<sup>2</sup><br />(1.617 g<sub>0</sub>)
     escape_velocity: 15.620 km/s<br />(56,231 km/h)
     rotation_period: 1.043 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 378 K<br />(105 °C)
+    temperature: 529 K<br />(256 °C)
     surface_pressure: 309 kPa<br />(3 atm)
     composition:
       - 89.4393% methane
@@ -57,14 +57,14 @@ planets:
         radius: 4,816.5 km<br/>(0.756 Yrths)
         surface_area: 2.915 × 10<sup>08</sup> km<sup>2</sup><br/>(0.572 Yrths)
         volume: 4.680 × 10<sup>11</sup> km<sup>3</sup><br/>(0.432 Yrths)
-        mass: 1.545 × 10<sup>24</sup> kg<br />(2.3514927122500047 Yrths)
+        mass: 1.545 × 10<sup>24</sup> kg<br />(0.259 Yrths)
         density: 3.301 g/cm<sup>3</sup>
         surface_gravity: 4.439 m/s<sup>2</sup><br />(0.453 g<sub>0</sub>)
         escape_velocity: 6.544 km/s<br />(23,557 km/h)
         rotation_period: 49.848 d
         axial_tilt: 16.75°
         albedo: 0.30
-        temperature: 3688 K<br />(3414 °C)
+        temperature: 275 K<br />(2 °C)
   - name: 893 Arkothiad II
     type: Gas giant
     aphelion: 196,972,264 km<br />1.317 AU
@@ -76,7 +76,7 @@ planets:
     radius: 199.7 km<br/>(0.031 Yrths)
     surface_area: 5.012 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.337 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.063 × 10<sup>27</sup> kg<br />(177.94150769228287 Yrths)
+    mass: 1.063 × 10<sup>27</sup> kg<br />(177.94 Yrths)
     density: 31847831.332 g/cm<sup>3</sup>
     surface_gravity: 1775800.161 m/s<sup>2</sup><br />(181081.221 g<sub>0</sub>)
     escape_velocity: 842.775 km/s<br />(3,033,990 km/h)
@@ -97,14 +97,14 @@ planets:
         radius: 98,050.6 km<br/>(15.390 Yrths)
         surface_area: 1.208 × 10<sup>11</sup> km<sup>2</sup><br/>(236.856 Yrths)
         volume: 3.949 × 10<sup>15</sup> km<sup>3</sup><br/>(3645.251 Yrths)
-        mass: 6.770 × 10<sup>27</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 6.770 × 10<sup>27</sup> kg<br />(1133.693 Yrths)
         density: 1.715 g/cm<sup>3</sup>
         surface_gravity: 46.939 m/s<sup>2</sup><br />(4.786 g<sub>0</sub>)
         escape_velocity: 96.006 km/s<br />(345,623 km/h)
         rotation_period: 73.207 d
         axial_tilt: 20.56°
         albedo: 0.30
-        temperature: 1168 K<br />(895 °C)
+        temperature: 212 K<br />(-61 °C)
       - name: 893 Arkothiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 91,747.5 km<br/>(14.401 Yrths)
         surface_area: 1.058 × 10<sup>11</sup> km<sup>2</sup><br/>(207.383 Yrths)
         volume: 3.235 × 10<sup>15</sup> km<sup>3</sup><br/>(2986.482 Yrths)
-        mass: 8.882 × 10<sup>27</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 8.882 × 10<sup>27</sup> kg<br />(1487.248 Yrths)
         density: 2.746 g/cm<sup>3</sup>
         surface_gravity: 70.328 m/s<sup>2</sup><br />(7.172 g<sub>0</sub>)
         escape_velocity: 113.677 km/s<br />(409,237 km/h)
         rotation_period: 38.094 d
         axial_tilt: 27.44°
         albedo: 0.30
-        temperature: 1012 K<br />(739 °C)
+        temperature: 212 K<br />(-61 °C)
       - name: 893 Arkothiad II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -137,14 +137,14 @@ planets:
         radius: 115,781.6 km<br/>(18.173 Yrths)
         surface_area: 1.685 × 10<sup>11</sup> km<sup>2</sup><br/>(330.266 Yrths)
         volume: 6.501 × 10<sup>15</sup> km<sup>3</sup><br/>(6001.995 Yrths)
-        mass: 1.389 × 10<sup>28</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 1.389 × 10<sup>28</sup> kg<br />(2325.679 Yrths)
         density: 2.136 g/cm<sup>3</sup>
         surface_gravity: 69.057 m/s<sup>2</sup><br />(7.042 g<sub>0</sub>)
         escape_velocity: 126.541 km/s<br />(455,549 km/h)
         rotation_period: 64.873 d
         axial_tilt: 18.71°
         albedo: 0.30
-        temperature: 798 K<br />(525 °C)
+        temperature: 212 K<br />(-61 °C)
       - name: 893 Arkothiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -157,14 +157,14 @@ planets:
         radius: 103,686.7 km<br/>(16.275 Yrths)
         surface_area: 1.351 × 10<sup>11</sup> km<sup>2</sup><br/>(264.869 Yrths)
         volume: 4.669 × 10<sup>15</sup> km<sup>3</sup><br/>(4310.681 Yrths)
-        mass: 8.426 × 10<sup>27</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 8.426 × 10<sup>27</sup> kg<br />(1410.964 Yrths)
         density: 1.805 g/cm<sup>3</sup>
         surface_gravity: 52.240 m/s<sup>2</sup><br />(5.327 g<sub>0</sub>)
         escape_velocity: 104.154 km/s<br />(374,953 km/h)
         rotation_period: 68.922 d
         axial_tilt: 19.36°
         albedo: 0.30
-        temperature: 545 K<br />(272 °C)
+        temperature: 212 K<br />(-61 °C)
       - name: 893 Arkothiad II e
         type: Rocky
         formationType: Captured
@@ -177,14 +177,14 @@ planets:
         radius: 80,178.9 km<br/>(12.585 Yrths)
         surface_area: 8.078 × 10<sup>10</sup> km<sup>2</sup><br/>(158.382 Yrths)
         volume: 2.159 × 10<sup>15</sup> km<sup>3</sup><br/>(1993.229 Yrths)
-        mass: 6.111 × 10<sup>27</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 6.111 × 10<sup>27</sup> kg<br />(1023.208 Yrths)
         density: 2.830 g/cm<sup>3</sup>
         surface_gravity: 63.355 m/s<sup>2</sup><br />(6.460 g<sub>0</sub>)
         escape_velocity: 100.862 km/s<br />(363,105 km/h)
         rotation_period: 47.841 d
         axial_tilt: 24.40°
         albedo: 0.30
-        temperature: 495 K<br />(222 °C)
+        temperature: 212 K<br />(-61 °C)
       - name: 893 Arkothiad II f
         type: Rocky
         formationType: Accreted
@@ -197,14 +197,14 @@ planets:
         radius: 76,096.1 km<br/>(11.944 Yrths)
         surface_area: 7.277 × 10<sup>10</sup> km<sup>2</sup><br/>(142.663 Yrths)
         volume: 1.846 × 10<sup>15</sup> km<sup>3</sup><br/>(1703.983 Yrths)
-        mass: 5.800 × 10<sup>27</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 5.800 × 10<sup>27</sup> kg<br />(971.278 Yrths)
         density: 3.143 g/cm<sup>3</sup>
         surface_gravity: 66.766 m/s<sup>2</sup><br />(6.808 g<sub>0</sub>)
         escape_velocity: 100.871 km/s<br />(363,137 km/h)
         rotation_period: 32.451 d
         axial_tilt: 10.03°
         albedo: 0.30
-        temperature: 472 K<br />(199 °C)
+        temperature: 212 K<br />(-61 °C)
       - name: 893 Arkothiad II g
         type: Ice/rock hybrid
         formationType: Captured
@@ -217,14 +217,14 @@ planets:
         radius: 81,484.5 km<br/>(12.790 Yrths)
         surface_area: 8.344 × 10<sup>10</sup> km<sup>2</sup><br/>(163.582 Yrths)
         volume: 2.266 × 10<sup>15</sup> km<sup>3</sup><br/>(2092.198 Yrths)
-        mass: 5.249 × 10<sup>27</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 5.249 × 10<sup>27</sup> kg<br />(878.944 Yrths)
         density: 2.316 g/cm<sup>3</sup>
         surface_gravity: 52.692 m/s<sup>2</sup><br />(5.373 g<sub>0</sub>)
         escape_velocity: 92.730 km/s<br />(333,828 km/h)
         rotation_period: 54.070 d
         axial_tilt: 31.53°
         albedo: 0.30
-        temperature: 409 K<br />(136 °C)
+        temperature: 212 K<br />(-61 °C)
       - name: 893 Arkothiad II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -237,14 +237,14 @@ planets:
         radius: 108,574.8 km<br/>(17.042 Yrths)
         surface_area: 1.481 × 10<sup>11</sup> km<sup>2</sup><br/>(290.431 Yrths)
         volume: 5.361 × 10<sup>15</sup> km<sup>3</sup><br/>(4949.537 Yrths)
-        mass: 1.226 × 10<sup>28</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 1.226 × 10<sup>28</sup> kg<br />(2052.324 Yrths)
         density: 2.286 g/cm<sup>3</sup>
         surface_gravity: 69.298 m/s<sup>2</sup><br />(7.066 g<sub>0</sub>)
         escape_velocity: 122.754 km/s<br />(441,915 km/h)
         rotation_period: 34.392 d
         axial_tilt: 29.45°
         albedo: 0.30
-        temperature: 158 K<br />(-115 °C)
+        temperature: 212 K<br />(-61 °C)
       - name: 893 Arkothiad II i
         type: Asteroid
         formationType: Captured
@@ -257,14 +257,14 @@ planets:
         radius: 99,625.6 km<br/>(15.637 Yrths)
         surface_area: 1.247 × 10<sup>11</sup> km<sup>2</sup><br/>(244.527 Yrths)
         volume: 4.142 × 10<sup>15</sup> km<sup>3</sup><br/>(3823.753 Yrths)
-        mass: 1.493 × 10<sup>28</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 1.493 × 10<sup>28</sup> kg<br />(2500.057 Yrths)
         density: 3.605 g/cm<sup>3</sup>
         surface_gravity: 100.264 m/s<sup>2</sup><br />(10.224 g<sub>0</sub>)
         escape_velocity: 141.438 km/s<br />(509,178 km/h)
         rotation_period: 32.589 d
         axial_tilt: 52.65°
         albedo: 0.30
-        temperature: 137 K<br />(-136 °C)
+        temperature: 212 K<br />(-61 °C)
       - name: 893 Arkothiad II j
         type: Icy
         formationType: Captured
@@ -277,14 +277,14 @@ planets:
         radius: 96,269.5 km<br/>(15.111 Yrths)
         surface_area: 1.165 × 10<sup>11</sup> km<sup>2</sup><br/>(228.330 Yrths)
         volume: 3.737 × 10<sup>15</sup> km<sup>3</sup><br/>(3450.196 Yrths)
-        mass: 7.101 × 10<sup>27</sup> kg<br />(177.94150769228287 Yrths)
+        mass: 7.101 × 10<sup>27</sup> kg<br />(1189.020 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 51.068 m/s<sup>2</sup><br />(5.207 g<sub>0</sub>)
         escape_velocity: 99.227 km/s<br />(357,216 km/h)
         rotation_period: 53.503 d
         axial_tilt: 23.33°
         albedo: 0.30
-        temperature: 108 K<br />(-165 °C)
+        temperature: 212 K<br />(-61 °C)
   - name: 893 Arkothiad III
     type: Gas dwarf
     aphelion: 339,816,622 km<br />2.272 AU
@@ -296,14 +296,14 @@ planets:
     radius: 15,829.9 km<br/>(2.485 Yrths)
     surface_area: 3.149 × 10<sup>09</sup> km<sup>2</sup><br/>(6.174 Yrths)
     volume: 1.662 × 10<sup>13</sup> km<sup>3</sup><br/>(15.340 Yrths)
-    mass: 5.141 × 10<sup>25</sup> kg<br />(8.608989704182266 Yrths)
+    mass: 5.141 × 10<sup>25</sup> kg<br />(8.61 Yrths)
     density: 3.094 g/cm<sup>3</sup>
     surface_gravity: 13.675 m/s<sup>2</sup><br />(1.394 g<sub>0</sub>)
     escape_velocity: 20.822 km/s<br />(74,958 km/h)
     rotation_period: 0.497 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 243 K<br />(-30 °C)
+    temperature: 217 K<br />(-56 °C)
     composition:
       - 60.8519% hydrogen
       - 34.1396% helium
@@ -324,14 +324,14 @@ planets:
         radius: 7,499.5 km<br/>(1.177 Yrths)
         surface_area: 7.068 × 10<sup>08</sup> km<sup>2</sup><br/>(1.386 Yrths)
         volume: 1.767 × 10<sup>12</sup> km<sup>3</sup><br/>(1.631 Yrths)
-        mass: 3.886 × 10<sup>24</sup> kg<br />(8.608989704182266 Yrths)
+        mass: 3.886 × 10<sup>24</sup> kg<br />(0.651 Yrths)
         density: 2.200 g/cm<sup>3</sup>
         surface_gravity: 4.606 m/s<sup>2</sup><br />(0.470 g<sub>0</sub>)
         escape_velocity: 8.317 km/s<br />(29,941 km/h)
         rotation_period: 57.320 d
         axial_tilt: 19.05°
         albedo: 0.30
-        temperature: 1564 K<br />(1291 °C)
+        temperature: 163 K<br />(-110 °C)
       - name: 893 Arkothiad III b
         type: Asteroid
         formationType: Captured
@@ -344,14 +344,14 @@ planets:
         radius: 9,822.2 km<br/>(1.542 Yrths)
         surface_area: 1.212 × 10<sup>09</sup> km<sup>2</sup><br/>(2.377 Yrths)
         volume: 3.969 × 10<sup>12</sup> km<sup>3</sup><br/>(3.664 Yrths)
-        mass: 1.020 × 10<sup>25</sup> kg<br />(8.608989704182266 Yrths)
+        mass: 1.020 × 10<sup>25</sup> kg<br />(1.709 Yrths)
         density: 2.571 g/cm<sup>3</sup>
         surface_gravity: 7.050 m/s<sup>2</sup><br />(0.719 g<sub>0</sub>)
         escape_velocity: 11.776 km/s<br />(42,394 km/h)
         rotation_period: 44.393 d
         axial_tilt: 42.00°
         albedo: 0.30
-        temperature: 1491 K<br />(1218 °C)
+        temperature: 163 K<br />(-110 °C)
       - name: 893 Arkothiad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -364,14 +364,14 @@ planets:
         radius: 5,241.1 km<br/>(0.823 Yrths)
         surface_area: 3.452 × 10<sup>08</sup> km<sup>2</sup><br/>(0.677 Yrths)
         volume: 6.031 × 10<sup>11</sup> km<sup>3</sup><br/>(0.557 Yrths)
-        mass: 1.064 × 10<sup>24</sup> kg<br />(8.608989704182266 Yrths)
+        mass: 1.064 × 10<sup>24</sup> kg<br />(0.178 Yrths)
         density: 1.764 g/cm<sup>3</sup>
         surface_gravity: 2.581 m/s<sup>2</sup><br />(0.263 g<sub>0</sub>)
         escape_velocity: 5.205 km/s<br />(18,737 km/h)
         rotation_period: 57.784 d
         axial_tilt: 21.93°
         albedo: 0.30
-        temperature: 1422 K<br />(1149 °C)
+        temperature: 163 K<br />(-110 °C)
       - name: 893 Arkothiad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -384,14 +384,14 @@ planets:
         radius: 11,250.2 km<br/>(1.766 Yrths)
         surface_area: 1.590 × 10<sup>09</sup> km<sup>2</sup><br/>(3.118 Yrths)
         volume: 5.965 × 10<sup>12</sup> km<sup>3</sup><br/>(5.506 Yrths)
-        mass: 9.543 × 10<sup>24</sup> kg<br />(8.608989704182266 Yrths)
+        mass: 9.543 × 10<sup>24</sup> kg<br />(1.598 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 5.026 m/s<sup>2</sup><br />(0.512 g<sub>0</sub>)
         escape_velocity: 10.641 km/s<br />(38,308 km/h)
         rotation_period: 44.503 d
         axial_tilt: 17.77°
         albedo: 0.30
-        temperature: 1356 K<br />(1082 °C)
+        temperature: 163 K<br />(-110 °C)
       - name: 893 Arkothiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -404,14 +404,14 @@ planets:
         radius: 9,902.3 km<br/>(1.554 Yrths)
         surface_area: 1.232 × 10<sup>09</sup> km<sup>2</sup><br/>(2.416 Yrths)
         volume: 4.067 × 10<sup>12</sup> km<sup>3</sup><br/>(3.755 Yrths)
-        mass: 9.892 × 10<sup>24</sup> kg<br />(8.608989704182266 Yrths)
+        mass: 9.892 × 10<sup>24</sup> kg<br />(1.656 Yrths)
         density: 2.432 g/cm<sup>3</sup>
         surface_gravity: 6.724 m/s<sup>2</sup><br />(0.686 g<sub>0</sub>)
         escape_velocity: 11.548 km/s<br />(41,572 km/h)
         rotation_period: 43.839 d
         axial_tilt: 6.47°
         albedo: 0.30
-        temperature: 1292 K<br />(1019 °C)
+        temperature: 163 K<br />(-110 °C)
   - name: 893 Arkothiad IV
     type: Gas dwarf
     aphelion: 549,056,486 km<br />3.670 AU
@@ -423,14 +423,14 @@ planets:
     radius: 9,587.0 km<br/>(1.505 Yrths)
     surface_area: 1.155 × 10<sup>09</sup> km<sup>2</sup><br/>(2.264 Yrths)
     volume: 3.691 × 10<sup>12</sup> km<sup>3</sup><br/>(3.407 Yrths)
-    mass: 9.910 × 10<sup>24</sup> kg<br />(1.6593479591246936 Yrths)
+    mass: 9.910 × 10<sup>24</sup> kg<br />(1.66 Yrths)
     density: 2.685 g/cm<sup>3</sup>
     surface_gravity: 7.186 m/s<sup>2</sup><br />(0.733 g<sub>0</sub>)
     escape_velocity: 11.746 km/s<br />(42,287 km/h)
     rotation_period: 0.625 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 183 K<br />(-90 °C)
+    temperature: 162 K<br />(-111 °C)
     composition:
       - 74.9918% hydrogen
       - 23.8652% helium
@@ -448,14 +448,14 @@ planets:
         radius: 3,206.9 km<br/>(0.503 Yrths)
         surface_area: 1.292 × 10<sup>08</sup> km<sup>2</sup><br/>(0.253 Yrths)
         volume: 1.382 × 10<sup>11</sup> km<sup>3</sup><br/>(0.128 Yrths)
-        mass: 3.342 × 10<sup>23</sup> kg<br />(1.6593479591246936 Yrths)
+        mass: 3.342 × 10<sup>23</sup> kg<br />(0.056 Yrths)
         density: 2.419 g/cm<sup>3</sup>
         surface_gravity: 2.166 m/s<sup>2</sup><br />(0.221 g<sub>0</sub>)
         escape_velocity: 3.730 km/s<br />(13,428 km/h)
         rotation_period: 42.319 d
         axial_tilt: 15.87°
         albedo: 0.30
-        temperature: 1659 K<br />(1386 °C)
+        temperature: 126 K<br />(-148 °C)
       - name: 893 Arkothiad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -468,14 +468,14 @@ planets:
         radius: 6,925.1 km<br/>(1.087 Yrths)
         surface_area: 6.026 × 10<sup>08</sup> km<sup>2</sup><br/>(1.182 Yrths)
         volume: 1.391 × 10<sup>12</sup> km<sup>3</sup><br/>(1.284 Yrths)
-        mass: 2.922 × 10<sup>24</sup> kg<br />(1.6593479591246936 Yrths)
+        mass: 2.922 × 10<sup>24</sup> kg<br />(0.489 Yrths)
         density: 2.100 g/cm<sup>3</sup>
         surface_gravity: 4.061 m/s<sup>2</sup><br />(0.414 g<sub>0</sub>)
         escape_velocity: 7.505 km/s<br />(27,017 km/h)
         rotation_period: 43.454 d
         axial_tilt: 18.19°
         albedo: 0.30
-        temperature: 1582 K<br />(1309 °C)
+        temperature: 126 K<br />(-148 °C)
       - name: 893 Arkothiad IV c
         type: Icy
         formationType: Captured
@@ -488,14 +488,14 @@ planets:
         radius: 4,009.6 km<br/>(0.629 Yrths)
         surface_area: 2.020 × 10<sup>08</sup> km<sup>2</sup><br/>(0.396 Yrths)
         volume: 2.700 × 10<sup>11</sup> km<sup>3</sup><br/>(0.249 Yrths)
-        mass: 3.900 × 10<sup>23</sup> kg<br />(1.6593479591246936 Yrths)
+        mass: 3.900 × 10<sup>23</sup> kg<br />(0.065 Yrths)
         density: 1.444 g/cm<sup>3</sup>
         surface_gravity: 1.617 m/s<sup>2</sup><br />(0.165 g<sub>0</sub>)
         escape_velocity: 3.603 km/s<br />(12,973 km/h)
         rotation_period: 58.035 d
         axial_tilt: 17.59°
         albedo: 0.30
-        temperature: 1438 K<br />(1165 °C)
+        temperature: 126 K<br />(-148 °C)
       - name: 893 Arkothiad IV d
         type: Dwarf planet
         formationType: Captured
@@ -508,14 +508,14 @@ planets:
         radius: 2,240.4 km<br/>(0.352 Yrths)
         surface_area: 6.307 × 10<sup>07</sup> km<sup>2</sup><br/>(0.124 Yrths)
         volume: 4.710 × 10<sup>10</sup> km<sup>3</sup><br/>(0.043 Yrths)
-        mass: 9.594 × 10<sup>22</sup> kg<br />(1.6593479591246936 Yrths)
+        mass: 9.594 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 2.037 g/cm<sup>3</sup>
         surface_gravity: 1.274 m/s<sup>2</sup><br />(0.130 g<sub>0</sub>)
         escape_velocity: 2.391 km/s<br />(8,607 km/h)
         rotation_period: 39.884 d
         axial_tilt: 28.72°
         albedo: 0.30
-        temperature: 1371 K<br />(1098 °C)
+        temperature: 126 K<br />(-148 °C)
   - name: 893 Arkothiad V
     type: Large terrestrial
     aphelion: 934,006,598 km<br />6.243 AU
@@ -527,7 +527,7 @@ planets:
     radius: 9,679.7 km<br/>(1.519 Yrths)
     surface_area: 1.177 × 10<sup>09</sup> km<sup>2</sup><br/>(2.308 Yrths)
     volume: 3.799 × 10<sup>12</sup> km<sup>3</sup><br/>(3.507 Yrths)
-    mass: 2.460 × 10<sup>25</sup> kg<br />(4.119910394694303 Yrths)
+    mass: 2.460 × 10<sup>25</sup> kg<br />(4.12 Yrths)
     density: 6.476 g/cm<sup>3</sup>
     surface_gravity: 17.502 m/s<sup>2</sup><br />(1.785 g<sub>0</sub>)
     escape_velocity: 18.420 km/s<br />(66,312 km/h)
@@ -548,14 +548,14 @@ planets:
         radius: 4,649.8 km<br/>(0.730 Yrths)
         surface_area: 2.717 × 10<sup>08</sup> km<sup>2</sup><br/>(0.533 Yrths)
         volume: 4.211 × 10<sup>11</sup> km<sup>3</sup><br/>(0.389 Yrths)
-        mass: 9.841 × 10<sup>23</sup> kg<br />(4.119910394694303 Yrths)
+        mass: 9.841 × 10<sup>23</sup> kg<br />(0.165 Yrths)
         density: 2.337 g/cm<sup>3</sup>
         surface_gravity: 3.034 m/s<sup>2</sup><br />(0.309 g<sub>0</sub>)
         escape_velocity: 5.315 km/s<br />(19,135 km/h)
         rotation_period: 32.946 d
         axial_tilt: 42.34°
         albedo: 0.30
-        temperature: 1098 K<br />(825 °C)
+        temperature: 97 K<br />(-176 °C)
       - name: 893 Arkothiad V b
         type: Asteroid
         formationType: Captured
@@ -568,14 +568,14 @@ planets:
         radius: 9,325.6 km<br/>(1.464 Yrths)
         surface_area: 1.093 × 10<sup>09</sup> km<sup>2</sup><br/>(2.143 Yrths)
         volume: 3.397 × 10<sup>12</sup> km<sup>3</sup><br/>(3.136 Yrths)
-        mass: 8.718 × 10<sup>24</sup> kg<br />(4.119910394694303 Yrths)
+        mass: 8.718 × 10<sup>24</sup> kg<br />(1.460 Yrths)
         density: 2.566 g/cm<sup>3</sup>
         surface_gravity: 6.681 m/s<sup>2</sup><br />(0.681 g<sub>0</sub>)
         escape_velocity: 11.171 km/s<br />(40,214 km/h)
         rotation_period: 51.715 d
         axial_tilt: 27.37°
         albedo: 0.30
-        temperature: 1047 K<br />(773 °C)
+        temperature: 97 K<br />(-176 °C)
       - name: 893 Arkothiad V c
         type: Rocky
         formationType: Captured
@@ -588,12 +588,12 @@ planets:
         radius: 1,936.7 km<br/>(0.304 Yrths)
         surface_area: 4.713 × 10<sup>07</sup> km<sup>2</sup><br/>(0.092 Yrths)
         volume: 3.043 × 10<sup>10</sup> km<sup>3</sup><br/>(0.028 Yrths)
-        mass: 8.061 × 10<sup>22</sup> kg<br />(4.119910394694303 Yrths)
+        mass: 8.061 × 10<sup>22</sup> kg<br />(0.013 Yrths)
         density: 2.649 g/cm<sup>3</sup>
         surface_gravity: 1.432 m/s<sup>2</sup><br />(0.146 g<sub>0</sub>)
         escape_velocity: 2.357 km/s<br />(8,486 km/h)
         rotation_period: 60.011 d
         axial_tilt: 8.36°
         albedo: 0.30
-        temperature: 998 K<br />(725 °C)
+        temperature: 97 K<br />(-176 °C)
 ---

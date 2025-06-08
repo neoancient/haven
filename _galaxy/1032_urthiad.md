@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1032 Urthiad is a star in the constellation Urth
+      1032 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 789.09 ly
 apparent_magnitude: 17.89
 absolute_magnitude: 10.97

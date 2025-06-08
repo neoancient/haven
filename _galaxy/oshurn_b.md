@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Oshurn B is a star in the constellation Rayom
+      Oshurn B is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 10995.54 ly
 apparent_magnitude: 3.78
 absolute_magnitude: -8.86

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3307 Arkothiad is a star in the constellation Arkoth
+      3307 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1323.00 ly
 apparent_magnitude: 17.85
 absolute_magnitude: 9.81

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9650 Tanashad A is a star in the constellation Tanas
+      9650 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 250.34 ly
 apparent_magnitude: 7.18
 absolute_magnitude: 2.75

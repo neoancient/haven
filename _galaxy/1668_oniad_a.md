@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1668 Oniad A is a star in the constellation Oni
+      1668 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 727.27 ly
 apparent_magnitude: 6.82
 absolute_magnitude: 0.08

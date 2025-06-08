@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      802 Saithiad is a star in the constellation Saith
+      802 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 302.34 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 5.92

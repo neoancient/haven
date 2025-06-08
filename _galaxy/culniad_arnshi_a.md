@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Culniad Arnshi A is a star in the constellation Nuani
+      Culniad Arnshi A is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 5437.23 ly
 apparent_magnitude: 5.05
 absolute_magnitude: -6.06

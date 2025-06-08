@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      455 Urthiad is a star in the constellation Urth
+      455 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 1148.91 ly
 apparent_magnitude: 15.27
 absolute_magnitude: 7.54

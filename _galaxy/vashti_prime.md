@@ -25,14 +25,14 @@ planet:
   escape_velocity: 9.620 km/s<br />(34,633 km/h)
   rotation_period: 1.291 d
   axial_tilt: 0.00°
-  albedo: 0.35
-  temperature: 272 K<br />(-1 °C)
-  surface_pressure: 80 kPa<br />(1 atm)
+  albedo: 0.25
+  temperature: 286 K<br />(12 °C)
+  surface_pressure: 104 kPa<br />(1 atm)
   composition:
-    - 77.3646% nitrogen
-    - 21.2849% oxygen
-    - 1.3304% argon
-    - 0.0200% carbon dioxide
+    - 76.4928% nitrogen
+    - 22.3927% oxygen
+    - 1.0760% argon
+    - 0.0385% carbon dioxide
   moons:
     - name: Vashti Prime a
       type: Rocky
@@ -46,12 +46,12 @@ planet:
       radius: 2,169.7 km<br/>(0.341 Yrths)
       surface_area: 5.916 × 10<sup>07</sup> km<sup>2</sup><br/>(0.116 Yrths)
       volume: 4.279 × 10<sup>10</sup> km<sup>3</sup><br/>(0.040 Yrths)
-      mass: 1.413 × 10<sup>23</sup> kg<br />
+      mass: 1.413 × 10<sup>23</sup> kg<br />(0.024 Yrths)
       density: 3.302 g/cm<sup>3</sup>
       surface_gravity: 2.000 m/s<sup>2</sup><br />(0.204 g<sub>0</sub>)
       escape_velocity: 2.948 km/s<br />(10,614 km/h)
       rotation_period: 34.051 d
       axial_tilt: 19.82°
       albedo: 0.30
-      temperature: 3964 K<br />(3691 °C)
+      temperature: 264 K<br />(-9 °C)
 ---

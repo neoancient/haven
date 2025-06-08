@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0082 Switheriad A is a star in the constellation Swither
+      0082 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 266.96 ly
 apparent_magnitude: 6.32
 absolute_magnitude: 1.76

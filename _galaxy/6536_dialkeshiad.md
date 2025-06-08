@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6536 Dialkeshiad is a star in the constellation Dialkes
+      6536 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 400.91 ly
 apparent_magnitude: 11.37
 absolute_magnitude: 5.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      486 Oniad is a star in the constellation Oni
+      486 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 678.33 ly
 apparent_magnitude: 17.56
 absolute_magnitude: 10.97

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      682 Urthiad is a star in the constellation Urth
+      682 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 206.18 ly
 apparent_magnitude: 9.38
 absolute_magnitude: 5.37

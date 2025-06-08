@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nishiurn B is a star in the constellation Mioruane
+      Nishiurn B is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 1351.24 ly
 apparent_magnitude: 5.60
 absolute_magnitude: -2.48

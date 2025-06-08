@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1355 Saithiad A is a star in the constellation Saith
+      1355 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 882.50 ly
 apparent_magnitude: 6.66
 absolute_magnitude: -0.50

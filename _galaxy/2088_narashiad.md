@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2088 Narashiad is a star in the constellation Naras
+      2088 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 449.41 ly
 apparent_magnitude: 11.21
 absolute_magnitude: 5.51

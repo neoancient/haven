@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Heorosad B is a star in the constellation Bair
+      Heorosad B is a star in the constellation <a href="bair.html">Bair</a>
 distance: 2097.57 ly
 apparent_magnitude: 3.09
 absolute_magnitude: -5.95

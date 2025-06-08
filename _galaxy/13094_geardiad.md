@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13094 Geardiad is a star in the constellation Geard
+      13094 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 579.65 ly
 apparent_magnitude: 8.38
 absolute_magnitude: 2.13

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Eldich B is a star in the constellation Luna
+      Eldich B is a star in the constellation <a href="luna.html">Luna</a>
 distance: 451.69 ly
 apparent_magnitude: 0.12
 absolute_magnitude: -5.59

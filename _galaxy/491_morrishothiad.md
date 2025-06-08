@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      491 Morrishothiad is a star in the constellation Morrishoth
+      491 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 546.05 ly
 apparent_magnitude: 11.46
 absolute_magnitude: 5.34

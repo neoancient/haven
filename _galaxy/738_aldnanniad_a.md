@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      738 Aldnanniad A is a star in the constellation Aldnan
+      738 Aldnanniad A is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 620.09 ly
 apparent_magnitude: 8.24
 absolute_magnitude: 1.84

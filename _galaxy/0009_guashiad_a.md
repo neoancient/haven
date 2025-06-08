@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0009 Guashiad A is a star in the constellation Guashi
+      0009 Guashiad A is a star in the constellation <a href="guashi.html">Guashi</a>
 distance: 305.25 ly
 apparent_magnitude: 5.63
 absolute_magnitude: 0.78

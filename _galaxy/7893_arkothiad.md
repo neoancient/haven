@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7893 Arkothiad is a star in the constellation Arkoth
+      7893 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 322.94 ly
 apparent_magnitude: 9.68
 absolute_magnitude: 4.70

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1629 Ratharshinniad is a star in the constellation Ratharshin
+      1629 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 521.69 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 4.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7681 Arkothiad is a star in the constellation Arkoth
+      7681 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 627.55 ly
 apparent_magnitude: 7.16
 absolute_magnitude: 0.74

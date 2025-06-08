@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5662 Geardiad is a star in the constellation Geard
+      5662 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 100.33 ly
 apparent_magnitude: 18.85
 absolute_magnitude: 16.41

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2856 Narashiad is a star in the constellation Naras
+      2856 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 473.23 ly
 apparent_magnitude: 10.80
 absolute_magnitude: 4.99

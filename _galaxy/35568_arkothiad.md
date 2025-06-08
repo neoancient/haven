@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      35568 Arkothiad is a star in the constellation Arkoth
+      35568 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 466.81 ly
 apparent_magnitude: 11.23
 absolute_magnitude: 5.45

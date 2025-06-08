@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5352 Tanashad is a star in the constellation Tanas
+      5352 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 272.83 ly
 apparent_magnitude: 10.53
 absolute_magnitude: 5.92

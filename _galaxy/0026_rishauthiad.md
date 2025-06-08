@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0026 Rishauthiad is a star in the constellation Rishauth
+      0026 Rishauthiad is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 139.02 ly
 apparent_magnitude: 6.45
 absolute_magnitude: 3.31
@@ -31,14 +31,14 @@ planets:
     radius: 9,136.9 km<br/>(1.434 Yrths)
     surface_area: 1.049 × 10<sup>09</sup> km<sup>2</sup><br/>(2.057 Yrths)
     volume: 3.195 × 10<sup>12</sup> km<sup>3</sup><br/>(2.950 Yrths)
-    mass: 2.281 × 10<sup>25</sup> kg<br />(3.819274085948918 Yrths)
+    mass: 2.281 × 10<sup>25</sup> kg<br />(3.82 Yrths)
     density: 7.139 g/cm<sup>3</sup>
     surface_gravity: 18.210 m/s<sup>2</sup><br />(1.857 g<sub>0</sub>)
     escape_velocity: 18.254 km/s<br />(65,716 km/h)
     rotation_period: 0.967 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 385 K<br />(111 °C)
+    temperature: 1017 K<br />(744 °C)
     surface_pressure: 212 kPa<br />(2 atm)
     composition:
       - 88.4023% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 8,213.3 km<br/>(1.289 Yrths)
         surface_area: 8.477 × 10<sup>08</sup> km<sup>2</sup><br/>(1.662 Yrths)
         volume: 2.321 × 10<sup>12</sup> km<sup>3</sup><br/>(2.143 Yrths)
-        mass: 2.705 × 10<sup>24</sup> kg<br />(3.819274085948918 Yrths)
+        mass: 2.705 × 10<sup>24</sup> kg<br />(0.453 Yrths)
         density: 1.166 g/cm<sup>3</sup>
         surface_gravity: 2.673 m/s<sup>2</sup><br />(0.273 g<sub>0</sub>)
         escape_velocity: 6.630 km/s<br />(23,870 km/h)
         rotation_period: 77.775 d
         axial_tilt: 14.65°
         albedo: 0.30
-        temperature: 3548 K<br />(3275 °C)
+        temperature: 238 K<br />(-35 °C)
       - name: 0026 Rishauthiad I b
         type: Rocky
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 6,061.3 km<br/>(0.951 Yrths)
         surface_area: 4.617 × 10<sup>08</sup> km<sup>2</sup><br/>(0.905 Yrths)
         volume: 9.328 × 10<sup>11</sup> km<sup>3</sup><br/>(0.861 Yrths)
-        mass: 2.619 × 10<sup>24</sup> kg<br />(3.819274085948918 Yrths)
+        mass: 2.619 × 10<sup>24</sup> kg<br />(0.439 Yrths)
         density: 2.808 g/cm<sup>3</sup>
         surface_gravity: 4.752 m/s<sup>2</sup><br />(0.485 g<sub>0</sub>)
         escape_velocity: 7.595 km/s<br />(27,342 km/h)
         rotation_period: 46.390 d
         axial_tilt: 11.80°
         albedo: 0.30
-        temperature: 3383 K<br />(3109 °C)
+        temperature: 238 K<br />(-35 °C)
   - name: 0026 Rishauthiad II
     type: Ice giant
     aphelion: 819,955,588 km<br />5.481 AU
@@ -96,14 +96,14 @@ planets:
     radius: 19,083.8 km<br/>(2.995 Yrths)
     surface_area: 4.577 × 10<sup>09</sup> km<sup>2</sup><br/>(8.973 Yrths)
     volume: 2.911 × 10<sup>13</sup> km<sup>3</sup><br/>(26.876 Yrths)
-    mass: 4.321 × 10<sup>25</sup> kg<br />(7.235942161376205 Yrths)
+    mass: 4.321 × 10<sup>25</sup> kg<br />(7.24 Yrths)
     density: 1.484 g/cm<sup>3</sup>
     surface_gravity: 7.909 m/s<sup>2</sup><br />(0.806 g<sub>0</sub>)
     escape_velocity: 17.386 km/s<br />(62,589 km/h)
     rotation_period: 0.541 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 291 K<br />(18 °C)
+    temperature: 260 K<br />(-13 °C)
     composition:
       - 89.5511% hydrogen
       - 9.4962% helium
@@ -121,14 +121,14 @@ planets:
         radius: 10,297.8 km<br/>(1.616 Yrths)
         surface_area: 1.333 × 10<sup>09</sup> km<sup>2</sup><br/>(2.613 Yrths)
         volume: 4.574 × 10<sup>12</sup> km<sup>3</sup><br/>(4.223 Yrths)
-        mass: 4.749 × 10<sup>24</sup> kg<br />(7.235942161376205 Yrths)
+        mass: 4.749 × 10<sup>24</sup> kg<br />(0.795 Yrths)
         density: 1.038 g/cm<sup>3</sup>
         surface_gravity: 2.985 m/s<sup>2</sup><br />(0.304 g<sub>0</sub>)
         escape_velocity: 7.846 km/s<br />(28,246 km/h)
         rotation_period: 54.966 d
         axial_tilt: 21.98°
         albedo: 0.30
-        temperature: 1726 K<br />(1453 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 0026 Rishauthiad II b
         type: Icy
         formationType: Impact formed
@@ -141,14 +141,14 @@ planets:
         radius: 12,107.3 km<br/>(1.900 Yrths)
         surface_area: 1.842 × 10<sup>09</sup> km<sup>2</sup><br/>(3.611 Yrths)
         volume: 7.434 × 10<sup>12</sup> km<sup>3</sup><br/>(6.863 Yrths)
-        mass: 9.140 × 10<sup>24</sup> kg<br />(7.235942161376205 Yrths)
+        mass: 9.140 × 10<sup>24</sup> kg<br />(1.531 Yrths)
         density: 1.230 g/cm<sup>3</sup>
         surface_gravity: 4.156 m/s<sup>2</sup><br />(0.424 g<sub>0</sub>)
         escape_velocity: 10.039 km/s<br />(36,139 km/h)
         rotation_period: 69.718 d
         axial_tilt: 18.42°
         albedo: 0.30
-        temperature: 1646 K<br />(1373 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 0026 Rishauthiad II c
         type: Asteroid
         formationType: Captured
@@ -161,14 +161,14 @@ planets:
         radius: 11,194.7 km<br/>(1.757 Yrths)
         surface_area: 1.575 × 10<sup>09</sup> km<sup>2</sup><br/>(3.088 Yrths)
         volume: 5.877 × 10<sup>12</sup> km<sup>3</sup><br/>(5.425 Yrths)
-        mass: 1.711 × 10<sup>25</sup> kg<br />(7.235942161376205 Yrths)
+        mass: 1.711 × 10<sup>25</sup> kg<br />(2.865 Yrths)
         density: 2.912 g/cm<sup>3</sup>
         surface_gravity: 9.101 m/s<sup>2</sup><br />(0.928 g<sub>0</sub>)
         escape_velocity: 14.284 km/s<br />(51,422 km/h)
         rotation_period: 50.170 d
         axial_tilt: 41.80°
         albedo: 0.30
-        temperature: 1496 K<br />(1223 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 0026 Rishauthiad II d
         type: Asteroid
         formationType: Captured
@@ -181,14 +181,14 @@ planets:
         radius: 8,581.9 km<br/>(1.347 Yrths)
         surface_area: 9.255 × 10<sup>08</sup> km<sup>2</sup><br/>(1.814 Yrths)
         volume: 2.648 × 10<sup>12</sup> km<sup>3</sup><br/>(2.444 Yrths)
-        mass: 7.104 × 10<sup>24</sup> kg<br />(7.235942161376205 Yrths)
+        mass: 7.104 × 10<sup>24</sup> kg<br />(1.190 Yrths)
         density: 2.683 g/cm<sup>3</sup>
         surface_gravity: 6.429 m/s<sup>2</sup><br />(0.656 g<sub>0</sub>)
         escape_velocity: 10.512 km/s<br />(37,842 km/h)
         rotation_period: 48.781 d
         axial_tilt: 20.00°
         albedo: 0.30
-        temperature: 1426 K<br />(1153 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 0026 Rishauthiad II e
         type: Dwarf planet
         formationType: Impact formed
@@ -201,14 +201,14 @@ planets:
         radius: 5,451.5 km<br/>(0.856 Yrths)
         surface_area: 3.735 × 10<sup>08</sup> km<sup>2</sup><br/>(0.732 Yrths)
         volume: 6.786 × 10<sup>11</sup> km<sup>3</sup><br/>(0.627 Yrths)
-        mass: 1.616 × 10<sup>24</sup> kg<br />(7.235942161376205 Yrths)
+        mass: 1.616 × 10<sup>24</sup> kg<br />(0.271 Yrths)
         density: 2.382 g/cm<sup>3</sup>
         surface_gravity: 3.625 m/s<sup>2</sup><br />(0.370 g<sub>0</sub>)
         escape_velocity: 6.291 km/s<br />(22,648 km/h)
         rotation_period: 32.395 d
         axial_tilt: 31.36°
         albedo: 0.30
-        temperature: 1360 K<br />(1087 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 0026 Rishauthiad II f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -221,14 +221,14 @@ planets:
         radius: 8,161.7 km<br/>(1.281 Yrths)
         surface_area: 8.371 × 10<sup>08</sup> km<sup>2</sup><br/>(1.641 Yrths)
         volume: 2.277 × 10<sup>12</sup> km<sup>3</sup><br/>(2.102 Yrths)
-        mass: 4.466 × 10<sup>24</sup> kg<br />(7.235942161376205 Yrths)
+        mass: 4.466 × 10<sup>24</sup> kg<br />(0.748 Yrths)
         density: 1.961 g/cm<sup>3</sup>
         surface_gravity: 4.469 m/s<sup>2</sup><br />(0.456 g<sub>0</sub>)
         escape_velocity: 8.547 km/s<br />(30,767 km/h)
         rotation_period: 38.031 d
         axial_tilt: 16.66°
         albedo: 0.30
-        temperature: 1297 K<br />(1024 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 0026 Rishauthiad II g
         type: Dwarf planet
         formationType: Impact formed
@@ -241,14 +241,14 @@ planets:
         radius: 23,249.5 km<br/>(3.649 Yrths)
         surface_area: 6.793 × 10<sup>09</sup> km<sup>2</sup><br/>(13.317 Yrths)
         volume: 5.264 × 10<sup>13</sup> km<sup>3</sup><br/>(48.598 Yrths)
-        mass: 1.123 × 10<sup>26</sup> kg<br />(7.235942161376205 Yrths)
+        mass: 1.123 × 10<sup>26</sup> kg<br />(18.797 Yrths)
         density: 2.133 g/cm<sup>3</sup>
         surface_gravity: 13.842 m/s<sup>2</sup><br />(1.412 g<sub>0</sub>)
         escape_velocity: 25.388 km/s<br />(91,395 km/h)
         rotation_period: 34.497 d
         axial_tilt: 43.78°
         albedo: 0.30
-        temperature: 1236 K<br />(963 °C)
+        temperature: 167 K<br />(-106 °C)
   - name: 0026 Rishauthiad III
     type: Gas giant
     aphelion: 1,717,933,899 km<br />11.484 AU
@@ -260,7 +260,7 @@ planets:
     radius: 248.4 km<br/>(0.039 Yrths)
     surface_area: 7.755 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.422 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.558 × 10<sup>27</sup> kg<br />(428.2515096579856 Yrths)
+    mass: 2.558 × 10<sup>27</sup> kg<br />(428.25 Yrths)
     density: 39823605.417 g/cm<sup>3</sup>
     surface_gravity: 2762115.135 m/s<sup>2</sup><br />(281657.359 g<sub>0</sub>)
     escape_velocity: 1172.274 km/s<br />(4,220,185 km/h)
@@ -281,14 +281,14 @@ planets:
         radius: 245,291.2 km<br/>(38.501 Yrths)
         surface_area: 7.561 × 10<sup>11</sup> km<sup>2</sup><br/>(1482.343 Yrths)
         volume: 6.182 × 10<sup>16</sup> km<sup>3</sup><br/>(57071.995 Yrths)
-        mass: 9.434 × 10<sup>28</sup> kg<br />(428.2515096579856 Yrths)
+        mass: 9.434 × 10<sup>28</sup> kg<br />(15797.262 Yrths)
         density: 1.526 g/cm<sup>3</sup>
         surface_gravity: 104.509 m/s<sup>2</sup><br />(10.657 g<sub>0</sub>)
         escape_velocity: 226.583 km/s<br />(815,699 km/h)
         rotation_period: 74.037 d
         axial_tilt: 21.45°
         albedo: 0.30
-        temperature: 585 K<br />(312 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0026 Rishauthiad III b
         type: Asteroid
         formationType: Captured
@@ -301,14 +301,14 @@ planets:
         radius: 284,761.2 km<br/>(44.696 Yrths)
         surface_area: 1.019 × 10<sup>12</sup> km<sup>2</sup><br/>(1997.774 Yrths)
         volume: 9.672 × 10<sup>16</sup> km<sup>3</sup><br/>(89293.440 Yrths)
-        mass: 3.145 × 10<sup>29</sup> kg<br />(428.2515096579856 Yrths)
+        mass: 3.145 × 10<sup>29</sup> kg<br />(52668.104 Yrths)
         density: 3.252 g/cm<sup>3</sup>
         surface_gravity: 258.537 m/s<sup>2</sup><br />(26.363 g<sub>0</sub>)
         escape_velocity: 383.982 km/s<br />(1,382,336 km/h)
         rotation_period: 31.128 d
         axial_tilt: 25.60°
         albedo: 0.30
-        temperature: 315 K<br />(42 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0026 Rishauthiad III c
         type: Dwarf planet
         formationType: Captured
@@ -321,14 +321,14 @@ planets:
         radius: 314,360.4 km<br/>(49.342 Yrths)
         surface_area: 1.242 × 10<sup>12</sup> km<sup>2</sup><br/>(2434.672 Yrths)
         volume: 1.301 × 10<sup>17</sup> km<sup>3</sup><br/>(120132.585 Yrths)
-        mass: 2.679 × 10<sup>29</sup> kg<br />(428.2515096579856 Yrths)
+        mass: 2.679 × 10<sup>29</sup> kg<br />(44862.861 Yrths)
         density: 2.059 g/cm<sup>3</sup>
         surface_gravity: 180.704 m/s<sup>2</sup><br />(18.427 g<sub>0</sub>)
         escape_velocity: 337.293 km/s<br />(1,214,255 km/h)
         rotation_period: 41.527 d
         axial_tilt: 28.12°
         albedo: 0.30
-        temperature: 300 K<br />(27 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0026 Rishauthiad III d
         type: Rocky
         formationType: Accreted
@@ -341,14 +341,14 @@ planets:
         radius: 188,394.1 km<br/>(29.571 Yrths)
         surface_area: 4.460 × 10<sup>11</sup> km<sup>2</sup><br/>(874.419 Yrths)
         volume: 2.801 × 10<sup>16</sup> km<sup>3</sup><br/>(25857.077 Yrths)
-        mass: 8.858 × 10<sup>28</sup> kg<br />(428.2515096579856 Yrths)
+        mass: 8.858 × 10<sup>28</sup> kg<br />(14832.353 Yrths)
         density: 3.163 g/cm<sup>3</sup>
         surface_gravity: 166.346 m/s<sup>2</sup><br />(16.963 g<sub>0</sub>)
         escape_velocity: 250.524 km/s<br />(901,886 km/h)
         rotation_period: 29.442 d
         axial_tilt: 19.80°
         albedo: 0.30
-        temperature: 178 K<br />(-95 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0026 Rishauthiad III e
         type: Asteroid
         formationType: Captured
@@ -361,14 +361,14 @@ planets:
         radius: 210,820.8 km<br/>(33.091 Yrths)
         surface_area: 5.585 × 10<sup>11</sup> km<sup>2</sup><br/>(1094.994 Yrths)
         volume: 3.925 × 10<sup>16</sup> km<sup>3</sup><br/>(36234.118 Yrths)
-        mass: 8.500 × 10<sup>28</sup> kg<br />(428.2515096579856 Yrths)
+        mass: 8.500 × 10<sup>28</sup> kg<br />(14233.238 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 127.471 m/s<sup>2</sup><br />(12.998 g<sub>0</sub>)
         escape_velocity: 231.992 km/s<br />(835,171 km/h)
         rotation_period: 34.330 d
         axial_tilt: 28.99°
         albedo: 0.30
-        temperature: 147 K<br />(-126 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0026 Rishauthiad III f
         type: Icy
         formationType: Captured
@@ -381,14 +381,14 @@ planets:
         radius: 269,780.9 km<br/>(42.345 Yrths)
         surface_area: 9.146 × 10<sup>11</sup> km<sup>2</sup><br/>(1793.111 Yrths)
         volume: 8.225 × 10<sup>16</sup> km<sup>3</sup><br/>(75929.561 Yrths)
-        mass: 8.604 × 10<sup>28</sup> kg<br />(428.2515096579856 Yrths)
+        mass: 8.604 × 10<sup>28</sup> kg<br />(14407.039 Yrths)
         density: 1.046 g/cm<sup>3</sup>
         surface_gravity: 78.793 m/s<sup>2</sup><br />(8.035 g<sub>0</sub>)
         escape_velocity: 206.329 km/s<br />(742,783 km/h)
         rotation_period: 56.463 d
         axial_tilt: 7.82°
         albedo: 0.30
-        temperature: 133 K<br />(-140 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0026 Rishauthiad III g
         type: Icy
         formationType: Captured
@@ -401,14 +401,14 @@ planets:
         radius: 420,182.7 km<br/>(65.952 Yrths)
         surface_area: 2.219 × 10<sup>12</sup> km<sup>2</sup><br/>(4349.718 Yrths)
         volume: 3.107 × 10<sup>17</sup> km<sup>3</sup><br/>(286874.323 Yrths)
-        mass: 3.823 × 10<sup>29</sup> kg<br />(428.2515096579856 Yrths)
+        mass: 3.823 × 10<sup>29</sup> kg<br />(64020.357 Yrths)
         density: 1.230 g/cm<sup>3</sup>
         surface_gravity: 144.337 m/s<sup>2</sup><br />(14.718 g<sub>0</sub>)
         escape_velocity: 348.512 km/s<br />(1,254,643 km/h)
         rotation_period: 48.706 d
         axial_tilt: 21.55°
         albedo: 0.30
-        temperature: 62 K<br />(-211 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 0026 Rishauthiad III h
         type: Asteroid
         formationType: Captured
@@ -421,12 +421,12 @@ planets:
         radius: 205,026.8 km<br/>(32.181 Yrths)
         surface_area: 5.282 × 10<sup>11</sup> km<sup>2</sup><br/>(1035.634 Yrths)
         volume: 3.610 × 10<sup>16</sup> km<sup>3</sup><br/>(33328.004 Yrths)
-        mass: 1.084 × 10<sup>29</sup> kg<br />(428.2515096579856 Yrths)
+        mass: 1.084 × 10<sup>29</sup> kg<br />(18144.894 Yrths)
         density: 3.002 g/cm<sup>3</sup>
         surface_gravity: 171.818 m/s<sup>2</sup><br />(17.521 g<sub>0</sub>)
         escape_velocity: 265.613 km/s<br />(956,207 km/h)
         rotation_period: 49.019 d
         axial_tilt: 55.23°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 117 K<br />(-156 °C)
 ---

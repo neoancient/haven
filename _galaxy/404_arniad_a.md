@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      404 Arniad A is a star in the constellation Arni
+      404 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 303.25 ly
 apparent_magnitude: 8.26
 absolute_magnitude: 3.42

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2291 Geardiad is a star in the constellation Geard
+      2291 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 325.25 ly
 apparent_magnitude: 12.06
 absolute_magnitude: 7.06

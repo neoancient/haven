@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4689 Arkothiad is a star in the constellation Arkoth
+      4689 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 345.19 ly
 apparent_magnitude: 9.59
 absolute_magnitude: 4.47
@@ -31,7 +31,7 @@ planets:
     radius: 200.9 km<br/>(0.032 Yrths)
     surface_area: 5.073 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.397 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.064 × 10<sup>27</sup> kg<br />(178.2280655322561 Yrths)
+    mass: 1.064 × 10<sup>27</sup> kg<br />(178.23 Yrths)
     density: 31331752.818 g/cm<sup>3</sup>
     surface_gravity: 1757506.412 m/s<sup>2</sup><br />(179215.778 g<sub>0</sub>)
     escape_velocity: 840.934 km/s<br />(3,027,363 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 90,355.1 km<br/>(14.182 Yrths)
         surface_area: 1.026 × 10<sup>11</sup> km<sup>2</sup><br/>(201.136 Yrths)
         volume: 3.090 × 10<sup>15</sup> km<sup>3</sup><br/>(2852.564 Yrths)
-        mass: 9.818 × 10<sup>27</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 9.818 × 10<sup>27</sup> kg<br />(1643.983 Yrths)
         density: 3.177 g/cm<sup>3</sup>
         surface_gravity: 80.154 m/s<sup>2</sup><br />(8.173 g<sub>0</sub>)
         escape_velocity: 120.434 km/s<br />(433,563 km/h)
         rotation_period: 36.905 d
         axial_tilt: 11.30°
         albedo: 0.30
-        temperature: 1464 K<br />(1191 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 4689 Arkothiad I b
         type: Rocky
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 117,028.4 km<br/>(18.369 Yrths)
         surface_area: 1.721 × 10<sup>11</sup> km<sup>2</sup><br/>(337.417 Yrths)
         volume: 6.714 × 10<sup>15</sup> km<sup>3</sup><br/>(6197.995 Yrths)
-        mass: 1.853 × 10<sup>28</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 1.853 × 10<sup>28</sup> kg<br />(3103.244 Yrths)
         density: 2.760 g/cm<sup>3</sup>
         surface_gravity: 90.192 m/s<sup>2</sup><br />(9.197 g<sub>0</sub>)
         escape_velocity: 145.392 km/s<br />(523,411 km/h)
         rotation_period: 58.142 d
         axial_tilt: 23.66°
         albedo: 0.30
-        temperature: 1396 K<br />(1123 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 4689 Arkothiad I c
         type: Icy
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 105,938.2 km<br/>(16.628 Yrths)
         surface_area: 1.410 × 10<sup>11</sup> km<sup>2</sup><br/>(276.497 Yrths)
         volume: 4.980 × 10<sup>15</sup> km<sup>3</sup><br/>(4597.640 Yrths)
-        mass: 5.816 × 10<sup>27</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 5.816 × 10<sup>27</sup> kg<br />(973.831 Yrths)
         density: 1.168 g/cm<sup>3</sup>
         surface_gravity: 34.539 m/s<sup>2</sup><br />(3.522 g<sub>0</sub>)
         escape_velocity: 85.604 km/s<br />(308,174 km/h)
         rotation_period: 65.676 d
         axial_tilt: 20.24°
         albedo: 0.30
-        temperature: 1210 K<br />(937 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 4689 Arkothiad I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 148,728.4 km<br/>(23.345 Yrths)
         surface_area: 2.780 × 10<sup>11</sup> km<sup>2</sup><br/>(544.970 Yrths)
         volume: 1.378 × 10<sup>16</sup> km<sup>3</sup><br/>(12722.092 Yrths)
-        mass: 1.549 × 10<sup>28</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 1.549 × 10<sup>28</sup> kg<br />(2593.492 Yrths)
         density: 1.124 g/cm<sup>3</sup>
         surface_gravity: 46.670 m/s<sup>2</sup><br />(4.759 g<sub>0</sub>)
         escape_velocity: 117.903 km/s<br />(424,449 km/h)
         rotation_period: 51.490 d
         axial_tilt: 14.99°
         albedo: 0.30
-        temperature: 1100 K<br />(827 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 4689 Arkothiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 102,123.8 km<br/>(16.029 Yrths)
         surface_area: 1.311 × 10<sup>11</sup> km<sup>2</sup><br/>(256.944 Yrths)
         volume: 4.461 × 10<sup>15</sup> km<sup>3</sup><br/>(4118.684 Yrths)
-        mass: 1.056 × 10<sup>28</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 1.056 × 10<sup>28</sup> kg<br />(1768.959 Yrths)
         density: 2.368 g/cm<sup>3</sup>
         surface_gravity: 67.515 m/s<sup>2</sup><br />(6.885 g<sub>0</sub>)
         escape_velocity: 117.510 km/s<br />(423,034 km/h)
         rotation_period: 41.894 d
         axial_tilt: 15.95°
         albedo: 0.30
-        temperature: 1049 K<br />(776 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 4689 Arkothiad I f
         type: Rocky
         formationType: Impact formed
@@ -152,14 +152,14 @@ planets:
         radius: 105,025.2 km<br/>(16.485 Yrths)
         surface_area: 1.386 × 10<sup>11</sup> km<sup>2</sup><br/>(271.751 Yrths)
         volume: 4.853 × 10<sup>15</sup> km<sup>3</sup><br/>(4479.787 Yrths)
-        mass: 1.611 × 10<sup>28</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 1.611 × 10<sup>28</sup> kg<br />(2698.118 Yrths)
         density: 3.321 g/cm<sup>3</sup>
         surface_gravity: 97.367 m/s<sup>2</sup><br />(9.929 g<sub>0</sub>)
         escape_velocity: 143.107 km/s<br />(515,186 km/h)
         rotation_period: 27.532 d
         axial_tilt: 11.04°
         albedo: 0.30
-        temperature: 1000 K<br />(727 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 4689 Arkothiad I g
         type: Icy
         formationType: Impact formed
@@ -172,14 +172,14 @@ planets:
         radius: 143,166.1 km<br/>(22.472 Yrths)
         surface_area: 2.576 × 10<sup>11</sup> km<sup>2</sup><br/>(504.969 Yrths)
         volume: 1.229 × 10<sup>16</sup> km<sup>3</sup><br/>(11347.426 Yrths)
-        mass: 1.610 × 10<sup>28</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 1.610 × 10<sup>28</sup> kg<br />(2695.828 Yrths)
         density: 1.310 g/cm<sup>3</sup>
         surface_gravity: 52.354 m/s<sup>2</sup><br />(5.339 g<sub>0</sub>)
         escape_velocity: 122.519 km/s<br />(441,069 km/h)
         rotation_period: 70.031 d
         axial_tilt: 9.86°
         albedo: 0.30
-        temperature: 909 K<br />(636 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 4689 Arkothiad I h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -192,14 +192,14 @@ planets:
         radius: 131,749.1 km<br/>(20.680 Yrths)
         surface_area: 2.181 × 10<sup>11</sup> km<sup>2</sup><br/>(427.642 Yrths)
         volume: 9.579 × 10<sup>15</sup> km<sup>3</sup><br/>(8843.422 Yrths)
-        mass: 1.915 × 10<sup>28</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 1.915 × 10<sup>28</sup> kg<br />(3206.882 Yrths)
         density: 1.999 g/cm<sup>3</sup>
         surface_gravity: 73.540 m/s<sup>2</sup><br />(7.499 g<sub>0</sub>)
         escape_velocity: 139.298 km/s<br />(501,473 km/h)
         rotation_period: 53.204 d
         axial_tilt: 22.57°
         albedo: 0.30
-        temperature: 788 K<br />(515 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 4689 Arkothiad I i
         type: Icy
         formationType: Accreted
@@ -212,14 +212,14 @@ planets:
         radius: 99,383.0 km<br/>(15.599 Yrths)
         surface_area: 1.241 × 10<sup>11</sup> km<sup>2</sup><br/>(243.337 Yrths)
         volume: 4.112 × 10<sup>15</sup> km<sup>3</sup><br/>(3795.888 Yrths)
-        mass: 5.655 × 10<sup>27</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 5.655 × 10<sup>27</sup> kg<br />(946.974 Yrths)
         density: 1.375 g/cm<sup>3</sup>
         surface_gravity: 38.164 m/s<sup>2</sup><br />(3.892 g<sub>0</sub>)
         escape_velocity: 87.155 km/s<br />(313,757 km/h)
         rotation_period: 67.870 d
         axial_tilt: 16.95°
         albedo: 0.30
-        temperature: 683 K<br />(410 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 4689 Arkothiad I j
         type: Rocky
         formationType: Accreted
@@ -232,14 +232,14 @@ planets:
         radius: 83,361.9 km<br/>(13.085 Yrths)
         surface_area: 8.733 × 10<sup>10</sup> km<sup>2</sup><br/>(171.207 Yrths)
         volume: 2.427 × 10<sup>15</sup> km<sup>3</sup><br/>(2240.168 Yrths)
-        mass: 8.220 × 10<sup>27</sup> kg<br />(178.2280655322561 Yrths)
+        mass: 8.220 × 10<sup>27</sup> kg<br />(1376.350 Yrths)
         density: 3.387 g/cm<sup>3</sup>
         surface_gravity: 78.837 m/s<sup>2</sup><br />(8.039 g<sub>0</sub>)
         escape_velocity: 114.725 km/s<br />(413,010 km/h)
         rotation_period: 38.887 d
         axial_tilt: 19.61°
         albedo: 0.30
-        temperature: 592 K<br />(319 °C)
+        temperature: 233 K<br />(-40 °C)
   - name: 4689 Arkothiad II
     type: Gas dwarf
     aphelion: 419,716,070 km<br />2.806 AU
@@ -251,14 +251,14 @@ planets:
     radius: 18,705.7 km<br/>(2.936 Yrths)
     surface_area: 4.397 × 10<sup>09</sup> km<sup>2</sup><br/>(8.620 Yrths)
     volume: 2.742 × 10<sup>13</sup> km<sup>3</sup><br/>(25.310 Yrths)
-    mass: 6.306 × 10<sup>25</sup> kg<br />(10.560093453666324 Yrths)
+    mass: 6.306 × 10<sup>25</sup> kg<br />(10.56 Yrths)
     density: 2.300 g/cm<sup>3</sup>
     surface_gravity: 12.013 m/s<sup>2</sup><br />(1.225 g<sub>0</sub>)
     escape_velocity: 21.214 km/s<br />(76,371 km/h)
     rotation_period: 0.441 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 249 K<br />(-24 °C)
+    temperature: 221 K<br />(-52 °C)
     composition:
       - 82.8915% hydrogen
       - 16.1518% helium
@@ -276,14 +276,14 @@ planets:
         radius: 10,660.6 km<br/>(1.673 Yrths)
         surface_area: 1.428 × 10<sup>09</sup> km<sup>2</sup><br/>(2.800 Yrths)
         volume: 5.075 × 10<sup>12</sup> km<sup>3</sup><br/>(4.685 Yrths)
-        mass: 1.000 × 10<sup>25</sup> kg<br />(10.560093453666324 Yrths)
+        mass: 1.000 × 10<sup>25</sup> kg<br />(1.675 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 5.868 m/s<sup>2</sup><br />(0.598 g<sub>0</sub>)
         escape_velocity: 11.193 km/s<br />(40,293 km/h)
         rotation_period: 59.099 d
         axial_tilt: 13.70°
         albedo: 0.30
-        temperature: 1712 K<br />(1439 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: 4689 Arkothiad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -296,14 +296,14 @@ planets:
         radius: 8,537.8 km<br/>(1.340 Yrths)
         surface_area: 9.160 × 10<sup>08</sup> km<sup>2</sup><br/>(1.796 Yrths)
         volume: 2.607 × 10<sup>12</sup> km<sup>3</sup><br/>(2.407 Yrths)
-        mass: 6.290 × 10<sup>24</sup> kg<br />(10.560093453666324 Yrths)
+        mass: 6.290 × 10<sup>24</sup> kg<br />(1.053 Yrths)
         density: 2.413 g/cm<sup>3</sup>
         surface_gravity: 5.752 m/s<sup>2</sup><br />(0.586 g<sub>0</sub>)
         escape_velocity: 9.917 km/s<br />(35,701 km/h)
         rotation_period: 32.988 d
         axial_tilt: 16.26°
         albedo: 0.30
-        temperature: 1632 K<br />(1359 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: 4689 Arkothiad II c
         type: Icy
         formationType: Captured
@@ -316,14 +316,14 @@ planets:
         radius: 23,194.2 km<br/>(3.641 Yrths)
         surface_area: 6.760 × 10<sup>09</sup> km<sup>2</sup><br/>(13.254 Yrths)
         volume: 5.227 × 10<sup>13</sup> km<sup>3</sup><br/>(48.252 Yrths)
-        mass: 5.974 × 10<sup>25</sup> kg<br />(10.560093453666324 Yrths)
+        mass: 5.974 × 10<sup>25</sup> kg<br />(10.004 Yrths)
         density: 1.143 g/cm<sup>3</sup>
         surface_gravity: 7.402 m/s<sup>2</sup><br />(0.755 g<sub>0</sub>)
         escape_velocity: 18.542 km/s<br />(66,753 km/h)
         rotation_period: 90.961 d
         axial_tilt: 17.59°
         albedo: 0.30
-        temperature: 1556 K<br />(1283 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: 4689 Arkothiad II d
         type: Asteroid
         formationType: Captured
@@ -336,14 +336,14 @@ planets:
         radius: 10,215.7 km<br/>(1.603 Yrths)
         surface_area: 1.311 × 10<sup>09</sup> km<sup>2</sup><br/>(2.571 Yrths)
         volume: 4.466 × 10<sup>12</sup> km<sup>3</sup><br/>(4.123 Yrths)
-        mass: 1.355 × 10<sup>25</sup> kg<br />(10.560093453666324 Yrths)
+        mass: 1.355 × 10<sup>25</sup> kg<br />(2.270 Yrths)
         density: 3.035 g/cm<sup>3</sup>
         surface_gravity: 8.656 m/s<sup>2</sup><br />(0.883 g<sub>0</sub>)
         escape_velocity: 13.308 km/s<br />(47,909 km/h)
         rotation_period: 43.645 d
         axial_tilt: 19.89°
         albedo: 0.30
-        temperature: 1484 K<br />(1211 °C)
+        temperature: 170 K<br />(-103 °C)
   - name: 4689 Arkothiad III
     type: Gas dwarf
     aphelion: 830,842,174 km<br />5.554 AU
@@ -355,14 +355,14 @@ planets:
     radius: 10,802.4 km<br/>(1.696 Yrths)
     surface_area: 1.466 × 10<sup>09</sup> km<sup>2</sup><br/>(2.875 Yrths)
     volume: 5.280 × 10<sup>12</sup> km<sup>3</sup><br/>(4.875 Yrths)
-    mass: 1.050 × 10<sup>25</sup> kg<br />(1.757864525415538 Yrths)
+    mass: 1.050 × 10<sup>25</sup> kg<br />(1.76 Yrths)
     density: 1.988 g/cm<sup>3</sup>
     surface_gravity: 5.996 m/s<sup>2</sup><br />(0.611 g<sub>0</sub>)
     escape_velocity: 11.390 km/s<br />(41,003 km/h)
     rotation_period: 0.588 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 181 K<br />(-92 °C)
+    temperature: 161 K<br />(-112 °C)
     composition:
       - 70.1254% hydrogen
       - 27.8627% helium
@@ -380,14 +380,14 @@ planets:
         radius: 5,671.9 km<br/>(0.890 Yrths)
         surface_area: 4.043 × 10<sup>08</sup> km<sup>2</sup><br/>(0.793 Yrths)
         volume: 7.643 × 10<sup>11</sup> km<sup>3</sup><br/>(0.706 Yrths)
-        mass: 1.105 × 10<sup>24</sup> kg<br />(1.757864525415538 Yrths)
+        mass: 1.105 × 10<sup>24</sup> kg<br />(0.185 Yrths)
         density: 1.446 g/cm<sup>3</sup>
         surface_gravity: 2.290 m/s<sup>2</sup><br />(0.234 g<sub>0</sub>)
         escape_velocity: 5.100 km/s<br />(18,361 km/h)
         rotation_period: 47.589 d
         axial_tilt: 35.51°
         albedo: 0.30
-        temperature: 1685 K<br />(1412 °C)
+        temperature: 124 K<br />(-149 °C)
       - name: 4689 Arkothiad III b
         type: Asteroid
         formationType: Captured
@@ -400,14 +400,14 @@ planets:
         radius: 2,806.1 km<br/>(0.440 Yrths)
         surface_area: 9.895 × 10<sup>07</sup> km<sup>2</sup><br/>(0.194 Yrths)
         volume: 9.256 × 10<sup>10</sup> km<sup>3</sup><br/>(0.085 Yrths)
-        mass: 2.480 × 10<sup>23</sup> kg<br />(1.757864525415538 Yrths)
+        mass: 2.480 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 2.680 g/cm<sup>3</sup>
         surface_gravity: 2.099 m/s<sup>2</sup><br />(0.214 g<sub>0</sub>)
         escape_velocity: 3.435 km/s<br />(12,365 km/h)
         rotation_period: 33.892 d
         axial_tilt: 21.85°
         albedo: 0.30
-        temperature: 1607 K<br />(1334 °C)
+        temperature: 124 K<br />(-149 °C)
       - name: 4689 Arkothiad III c
         type: Icy
         formationType: Captured
@@ -420,14 +420,14 @@ planets:
         radius: 2,032.5 km<br/>(0.319 Yrths)
         surface_area: 5.191 × 10<sup>07</sup> km<sup>2</sup><br/>(0.102 Yrths)
         volume: 3.517 × 10<sup>10</sup> km<sup>3</sup><br/>(0.032 Yrths)
-        mass: 4.431 × 10<sup>22</sup> kg<br />(1.757864525415538 Yrths)
+        mass: 4.431 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 1.260 g/cm<sup>3</sup>
         surface_gravity: 0.715 m/s<sup>2</sup><br />(0.073 g<sub>0</sub>)
         escape_velocity: 1.706 km/s<br />(6,141 km/h)
         rotation_period: 68.139 d
         axial_tilt: 16.89°
         albedo: 0.30
-        temperature: 1532 K<br />(1259 °C)
+        temperature: 124 K<br />(-149 °C)
       - name: 4689 Arkothiad III d
         type: Icy
         formationType: Captured
@@ -440,14 +440,14 @@ planets:
         radius: 2,550.5 km<br/>(0.400 Yrths)
         surface_area: 8.175 × 10<sup>07</sup> km<sup>2</sup><br/>(0.160 Yrths)
         volume: 6.950 × 10<sup>10</sup> km<sup>3</sup><br/>(0.064 Yrths)
-        mass: 1.025 × 10<sup>23</sup> kg<br />(1.757864525415538 Yrths)
+        mass: 1.025 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 1.475 g/cm<sup>3</sup>
         surface_gravity: 1.050 m/s<sup>2</sup><br />(0.107 g<sub>0</sub>)
         escape_velocity: 2.316 km/s<br />(8,338 km/h)
         rotation_period: 42.131 d
         axial_tilt: 15.92°
         albedo: 0.30
-        temperature: 1461 K<br />(1188 °C)
+        temperature: 124 K<br />(-149 °C)
   - name: 4689 Arkothiad IV
     type: Gas giant
     aphelion: 1,602,149,322 km<br />10.710 AU
@@ -459,7 +459,7 @@ planets:
     radius: 188.9 km<br/>(0.030 Yrths)
     surface_area: 4.485 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.824 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.892 × 10<sup>26</sup> kg<br />(132.14866927679782 Yrths)
+    mass: 7.892 × 10<sup>26</sup> kg<br />(132.15 Yrths)
     density: 27942124.689 g/cm<sup>3</sup>
     surface_gravity: 1473812.746 m/s<sup>2</sup><br />(150287.075 g<sub>0</sub>)
     escape_velocity: 746.741 km/s<br />(2,688,268 km/h)
@@ -480,14 +480,14 @@ planets:
         radius: 77,084.0 km<br/>(12.099 Yrths)
         surface_area: 7.467 × 10<sup>10</sup> km<sup>2</sup><br/>(146.391 Yrths)
         volume: 1.919 × 10<sup>15</sup> km<sup>3</sup><br/>(1771.208 Yrths)
-        mass: 3.558 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 3.558 × 10<sup>27</sup> kg<br />(595.862 Yrths)
         density: 1.855 g/cm<sup>3</sup>
         surface_gravity: 39.917 m/s<sup>2</sup><br />(4.070 g<sub>0</sub>)
         escape_velocity: 78.500 km/s<br />(282,599 km/h)
         rotation_period: 40.761 d
         axial_tilt: 25.35°
         albedo: 0.30
-        temperature: 598 K<br />(325 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -500,14 +500,14 @@ planets:
         radius: 76,410.5 km<br/>(11.993 Yrths)
         surface_area: 7.337 × 10<sup>10</sup> km<sup>2</sup><br/>(143.844 Yrths)
         volume: 1.869 × 10<sup>15</sup> km<sup>3</sup><br/>(1725.186 Yrths)
-        mass: 4.369 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 4.369 × 10<sup>27</sup> kg<br />(731.638 Yrths)
         density: 2.338 g/cm<sup>3</sup>
         surface_gravity: 49.880 m/s<sup>2</sup><br />(5.086 g<sub>0</sub>)
         escape_velocity: 87.367 km/s<br />(314,523 km/h)
         rotation_period: 43.023 d
         axial_tilt: 20.29°
         albedo: 0.30
-        temperature: 544 K<br />(271 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV c
         type: Asteroid
         formationType: Captured
@@ -520,14 +520,14 @@ planets:
         radius: 86,020.0 km<br/>(13.502 Yrths)
         surface_area: 9.298 × 10<sup>10</sup> km<sup>2</sup><br/>(182.299 Yrths)
         volume: 2.666 × 10<sup>15</sup> km<sup>3</sup><br/>(2461.366 Yrths)
-        mass: 7.087 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 7.087 × 10<sup>27</sup> kg<br />(1186.693 Yrths)
         density: 2.658 g/cm<sup>3</sup>
         surface_gravity: 63.837 m/s<sup>2</sup><br />(6.510 g<sub>0</sub>)
         escape_velocity: 104.869 km/s<br />(377,528 km/h)
         rotation_period: 47.427 d
         axial_tilt: 32.49°
         albedo: 0.30
-        temperature: 518 K<br />(245 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV d
         type: Rocky
         formationType: Captured
@@ -540,14 +540,14 @@ planets:
         radius: 65,253.4 km<br/>(10.242 Yrths)
         surface_area: 5.351 × 10<sup>10</sup> km<sup>2</sup><br/>(104.904 Yrths)
         volume: 1.164 × 10<sup>15</sup> km<sup>3</sup><br/>(1074.451 Yrths)
-        mass: 3.622 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 3.622 × 10<sup>27</sup> kg<br />(606.484 Yrths)
         density: 3.112 g/cm<sup>3</sup>
         surface_gravity: 56.696 m/s<sup>2</sup><br />(5.781 g<sub>0</sub>)
         escape_velocity: 86.077 km/s<br />(309,876 km/h)
         rotation_period: 30.152 d
         axial_tilt: 19.24°
         albedo: 0.30
-        temperature: 389 K<br />(116 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV e
         type: Icy
         formationType: Accreted
@@ -560,14 +560,14 @@ planets:
         radius: 93,171.9 km<br/>(14.624 Yrths)
         surface_area: 1.091 × 10<sup>11</sup> km<sup>2</sup><br/>(213.872 Yrths)
         volume: 3.388 × 10<sup>15</sup> km<sup>3</sup><br/>(3127.745 Yrths)
-        mass: 3.687 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 3.687 × 10<sup>27</sup> kg<br />(617.384 Yrths)
         density: 1.088 g/cm<sup>3</sup>
         surface_gravity: 28.309 m/s<sup>2</sup><br />(2.887 g<sub>0</sub>)
         escape_velocity: 72.680 km/s<br />(261,647 km/h)
         rotation_period: 65.982 d
         axial_tilt: 19.18°
         albedo: 0.30
-        temperature: 338 K<br />(64 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV f
         type: Rocky
         formationType: Captured
@@ -580,14 +580,14 @@ planets:
         radius: 81,313.7 km<br/>(12.763 Yrths)
         surface_area: 8.309 × 10<sup>10</sup> km<sup>2</sup><br/>(162.897 Yrths)
         volume: 2.252 × 10<sup>15</sup> km<sup>3</sup><br/>(2079.066 Yrths)
-        mass: 6.285 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 6.285 × 10<sup>27</sup> kg<br />(1052.389 Yrths)
         density: 2.791 g/cm<sup>3</sup>
         surface_gravity: 63.356 m/s<sup>2</sup><br />(6.460 g<sub>0</sub>)
         escape_velocity: 101.574 km/s<br />(365,668 km/h)
         rotation_period: 30.518 d
         axial_tilt: 9.37°
         albedo: 0.30
-        temperature: 293 K<br />(19 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV g
         type: Rocky
         formationType: Captured
@@ -600,14 +600,14 @@ planets:
         radius: 69,767.8 km<br/>(10.951 Yrths)
         surface_area: 6.117 × 10<sup>10</sup> km<sup>2</sup><br/>(119.921 Yrths)
         volume: 1.423 × 10<sup>15</sup> km<sup>3</sup><br/>(1313.234 Yrths)
-        mass: 3.549 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 3.549 × 10<sup>27</sup> kg<br />(594.305 Yrths)
         density: 2.495 g/cm<sup>3</sup>
         surface_gravity: 48.600 m/s<sup>2</sup><br />(4.956 g<sub>0</sub>)
         escape_velocity: 82.405 km/s<br />(296,659 km/h)
         rotation_period: 39.277 d
         axial_tilt: 14.16°
         albedo: 0.30
-        temperature: 254 K<br />(-20 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV h
         type: Ice/rock hybrid
         formationType: Captured
@@ -620,14 +620,14 @@ planets:
         radius: 94,490.6 km<br/>(14.831 Yrths)
         surface_area: 1.122 × 10<sup>11</sup> km<sup>2</sup><br/>(219.969 Yrths)
         volume: 3.534 × 10<sup>15</sup> km<sup>3</sup><br/>(3262.448 Yrths)
-        mass: 7.028 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 7.028 × 10<sup>27</sup> kg<br />(1176.891 Yrths)
         density: 1.989 g/cm<sup>3</sup>
         surface_gravity: 52.468 m/s<sup>2</sup><br />(5.350 g<sub>0</sub>)
         escape_velocity: 99.644 km/s<br />(358,719 km/h)
         rotation_period: 64.302 d
         axial_tilt: 24.21°
         albedo: 0.30
-        temperature: 182 K<br />(-91 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV i
         type: Rocky
         formationType: Captured
@@ -640,14 +640,14 @@ planets:
         radius: 78,972.2 km<br/>(12.396 Yrths)
         surface_area: 7.837 × 10<sup>10</sup> km<sup>2</sup><br/>(153.650 Yrths)
         volume: 2.063 × 10<sup>15</sup> km<sup>3</sup><br/>(1904.581 Yrths)
-        mass: 4.951 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 4.951 × 10<sup>27</sup> kg<br />(829.091 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 52.916 m/s<sup>2</sup><br />(5.396 g<sub>0</sub>)
         escape_velocity: 91.483 km/s<br />(329,340 km/h)
         rotation_period: 44.171 d
         axial_tilt: 16.75°
         albedo: 0.30
-        temperature: 165 K<br />(-108 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV j
         type: Icy
         formationType: Accreted
@@ -660,14 +660,14 @@ planets:
         radius: 92,688.5 km<br/>(14.549 Yrths)
         surface_area: 1.080 × 10<sup>11</sup> km<sup>2</sup><br/>(211.659 Yrths)
         volume: 3.336 × 10<sup>15</sup> km<sup>3</sup><br/>(3079.323 Yrths)
-        mass: 3.433 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 3.433 × 10<sup>27</sup> kg<br />(574.832 Yrths)
         density: 1.029 g/cm<sup>3</sup>
         surface_gravity: 26.633 m/s<sup>2</sup><br />(2.716 g<sub>0</sub>)
         escape_velocity: 70.313 km/s<br />(253,127 km/h)
         rotation_period: 54.767 d
         axial_tilt: 10.50°
         albedo: 0.30
-        temperature: 150 K<br />(-123 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV k
         type: Rocky
         formationType: Accreted
@@ -680,14 +680,14 @@ planets:
         radius: 66,299.9 km<br/>(10.407 Yrths)
         surface_area: 5.524 × 10<sup>10</sup> km<sup>2</sup><br/>(108.295 Yrths)
         volume: 1.221 × 10<sup>15</sup> km<sup>3</sup><br/>(1126.976 Yrths)
-        mass: 3.845 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 3.845 × 10<sup>27</sup> kg<br />(643.785 Yrths)
         density: 3.149 g/cm<sup>3</sup>
         surface_gravity: 58.298 m/s<sup>2</sup><br />(5.945 g<sub>0</sub>)
         escape_velocity: 87.982 km/s<br />(316,734 km/h)
         rotation_period: 49.590 d
         axial_tilt: 21.22°
         albedo: 0.30
-        temperature: 137 K<br />(-137 °C)
+        temperature: 91 K<br />(-183 °C)
       - name: 4689 Arkothiad IV l
         type: Ice/rock hybrid
         formationType: Accreted
@@ -700,14 +700,14 @@ planets:
         radius: 105,690.3 km<br/>(16.589 Yrths)
         surface_area: 1.404 × 10<sup>11</sup> km<sup>2</sup><br/>(275.204 Yrths)
         volume: 4.945 × 10<sup>15</sup> km<sup>3</sup><br/>(4565.442 Yrths)
-        mass: 9.235 × 10<sup>27</sup> kg<br />(132.14866927679782 Yrths)
+        mass: 9.235 × 10<sup>27</sup> kg<br />(1546.303 Yrths)
         density: 1.867 g/cm<sup>3</sup>
         surface_gravity: 55.101 m/s<sup>2</sup><br />(5.619 g<sub>0</sub>)
         escape_velocity: 107.996 km/s<br />(388,785 km/h)
         rotation_period: 43.711 d
         axial_tilt: 29.49°
         albedo: 0.30
-        temperature: 113 K<br />(-160 °C)
+        temperature: 91 K<br />(-183 °C)
   - name: 4689 Arkothiad V
     type: Gas dwarf
     aphelion: 2,855,389,055 km<br />19.087 AU
@@ -719,14 +719,14 @@ planets:
     radius: 20,861.8 km<br/>(3.274 Yrths)
     surface_area: 5.469 × 10<sup>09</sup> km<sup>2</sup><br/>(10.722 Yrths)
     volume: 3.803 × 10<sup>13</sup> km<sup>3</sup><br/>(35.110 Yrths)
-    mass: 6.745 × 10<sup>25</sup> kg<br />(11.295201268827086 Yrths)
+    mass: 6.745 × 10<sup>25</sup> kg<br />(11.30 Yrths)
     density: 1.774 g/cm<sup>3</sup>
     surface_gravity: 10.331 m/s<sup>2</sup><br />(1.053 g<sub>0</sub>)
     escape_velocity: 20.775 km/s<br />(74,791 km/h)
     rotation_period: 0.388 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 94 K<br />(-179 °C)
+    temperature: 83 K<br />(-190 °C)
     composition:
       - 51.7425% hydrogen
       - 48.2575% helium
@@ -743,14 +743,14 @@ planets:
         radius: 20,342.6 km<br/>(3.193 Yrths)
         surface_area: 5.200 × 10<sup>09</sup> km<sup>2</sup><br/>(10.195 Yrths)
         volume: 3.526 × 10<sup>13</sup> km<sup>3</sup><br/>(32.553 Yrths)
-        mass: 7.490 × 10<sup>25</sup> kg<br />(11.295201268827086 Yrths)
+        mass: 7.490 × 10<sup>25</sup> kg<br />(12.543 Yrths)
         density: 2.124 g/cm<sup>3</sup>
         surface_gravity: 12.065 m/s<sup>2</sup><br />(1.230 g<sub>0</sub>)
         escape_velocity: 22.170 km/s<br />(79,813 km/h)
         rotation_period: 39.939 d
         axial_tilt: 26.29°
         albedo: 0.30
-        temperature: 658 K<br />(384 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 4689 Arkothiad V b
         type: Dwarf planet
         formationType: Captured
@@ -763,14 +763,14 @@ planets:
         radius: 7,641.8 km<br/>(1.199 Yrths)
         surface_area: 7.338 × 10<sup>08</sup> km<sup>2</sup><br/>(1.439 Yrths)
         volume: 1.869 × 10<sup>12</sup> km<sup>3</sup><br/>(1.726 Yrths)
-        mass: 3.996 × 10<sup>24</sup> kg<br />(11.295201268827086 Yrths)
+        mass: 3.996 × 10<sup>24</sup> kg<br />(0.669 Yrths)
         density: 2.138 g/cm<sup>3</sup>
         surface_gravity: 4.561 m/s<sup>2</sup><br />(0.465 g<sub>0</sub>)
         escape_velocity: 8.355 km/s<br />(30,076 km/h)
         rotation_period: 37.593 d
         axial_tilt: 20.79°
         albedo: 0.30
-        temperature: 627 K<br />(354 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 4689 Arkothiad V c
         type: Icy
         formationType: Captured
@@ -783,14 +783,14 @@ planets:
         radius: 17,286.4 km<br/>(2.713 Yrths)
         surface_area: 3.755 × 10<sup>09</sup> km<sup>2</sup><br/>(7.362 Yrths)
         volume: 2.164 × 10<sup>13</sup> km<sup>3</sup><br/>(19.975 Yrths)
-        mass: 2.742 × 10<sup>25</sup> kg<br />(11.295201268827086 Yrths)
+        mass: 2.742 × 10<sup>25</sup> kg<br />(4.592 Yrths)
         density: 1.267 g/cm<sup>3</sup>
         surface_gravity: 6.116 m/s<sup>2</sup><br />(0.624 g<sub>0</sub>)
         escape_velocity: 14.551 km/s<br />(52,385 km/h)
         rotation_period: 46.345 d
         axial_tilt: 26.27°
         albedo: 0.30
-        temperature: 598 K<br />(325 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 4689 Arkothiad V d
         type: Ice/rock hybrid
         formationType: Captured
@@ -803,14 +803,14 @@ planets:
         radius: 8,052.4 km<br/>(1.264 Yrths)
         surface_area: 8.148 × 10<sup>08</sup> km<sup>2</sup><br/>(1.597 Yrths)
         volume: 2.187 × 10<sup>12</sup> km<sup>3</sup><br/>(2.019 Yrths)
-        mass: 5.270 × 10<sup>24</sup> kg<br />(11.295201268827086 Yrths)
+        mass: 5.270 × 10<sup>24</sup> kg<br />(0.882 Yrths)
         density: 2.409 g/cm<sup>3</sup>
         surface_gravity: 5.417 m/s<sup>2</sup><br />(0.552 g<sub>0</sub>)
         escape_velocity: 9.346 km/s<br />(33,647 km/h)
         rotation_period: 32.758 d
         axial_tilt: 20.37°
         albedo: 0.30
-        temperature: 543 K<br />(270 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 4689 Arkothiad V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -823,14 +823,14 @@ planets:
         radius: 11,317.6 km<br/>(1.776 Yrths)
         surface_area: 1.610 × 10<sup>09</sup> km<sup>2</sup><br/>(3.156 Yrths)
         volume: 6.072 × 10<sup>12</sup> km<sup>3</sup><br/>(5.606 Yrths)
-        mass: 1.253 × 10<sup>25</sup> kg<br />(11.295201268827086 Yrths)
+        mass: 1.253 × 10<sup>25</sup> kg<br />(2.098 Yrths)
         density: 2.064 g/cm<sup>3</sup>
         surface_gravity: 6.521 m/s<sup>2</sup><br />(0.665 g<sub>0</sub>)
         escape_velocity: 12.157 km/s<br />(43,766 km/h)
         rotation_period: 46.666 d
         axial_tilt: 13.77°
         albedo: 0.30
-        temperature: 518 K<br />(245 °C)
+        temperature: 66 K<br />(-207 °C)
   - name: 4689 Arkothiad VI
     type: Gas giant
     aphelion: 5,916,167,458 km<br />39.547 AU
@@ -842,7 +842,7 @@ planets:
     radius: 161.3 km<br/>(0.025 Yrths)
     surface_area: 3.268 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.757 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.998 × 10<sup>26</sup> kg<br />(66.94680867558348 Yrths)
+    mass: 3.998 × 10<sup>26</sup> kg<br />(66.95 Yrths)
     density: 22756101.937 g/cm<sup>3</sup>
     surface_gravity: 1024606.168 m/s<sup>2</sup><br />(104480.752 g<sub>0</sub>)
     escape_velocity: 575.262 km/s<br />(2,070,942 km/h)
@@ -863,35 +863,15 @@ planets:
         radius: 65,291.1 km<br/>(10.248 Yrths)
         surface_area: 5.357 × 10<sup>10</sup> km<sup>2</sup><br/>(105.025 Yrths)
         volume: 1.166 × 10<sup>15</sup> km<sup>3</sup><br/>(1076.314 Yrths)
-        mass: 2.836 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 2.836 × 10<sup>27</sup> kg<br />(474.825 Yrths)
         density: 2.432 g/cm<sup>3</sup>
         surface_gravity: 44.336 m/s<sup>2</sup><br />(4.521 g<sub>0</sub>)
         escape_velocity: 76.141 km/s<br />(274,107 km/h)
         rotation_period: 39.965 d
         axial_tilt: 8.88°
         albedo: 0.30
-        temperature: 324 K<br />(51 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 4689 Arkothiad VI b
-        type: Icy
-        formationType: Captured
-        aphelion: 141,453,519 km<br />
-        perihelion: 123,526,214 km<br />
-        semi_major_axis: 132,489,866 km<br />
-        eccentricity: 0.068
-        orbital_period: 1.37 d<br />
-        inclination: 0.00°
-        radius: 28,328.0 km<br/>(4.446 Yrths)
-        surface_area: 1.008 × 10<sup>10</sup> km<sup>2</sup><br/>(19.770 Yrths)
-        volume: 9.522 × 10<sup>13</sup> km<sup>3</sup><br/>(87.907 Yrths)
-        mass: 1.192 × 10<sup>26</sup> kg<br />(66.94680867558348 Yrths)
-        density: 1.252 g/cm<sup>3</sup>
-        surface_gravity: 9.903 m/s<sup>2</sup><br />(1.010 g<sub>0</sub>)
-        escape_velocity: 23.702 km/s<br />(85,329 km/h)
-        rotation_period: 51.423 d
-        axial_tilt: 20.47°
-        albedo: 0.30
-        temperature: 295 K<br />(22 °C)
-      - name: 4689 Arkothiad VI c
         type: Icy
         formationType: Captured
         aphelion: 245,720,288 km<br />
@@ -903,15 +883,15 @@ planets:
         radius: 72,579.2 km<br/>(11.392 Yrths)
         surface_area: 6.620 × 10<sup>10</sup> km<sup>2</sup><br/>(129.780 Yrths)
         volume: 1.601 × 10<sup>15</sup> km<sup>3</sup><br/>(1478.473 Yrths)
-        mass: 2.117 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 2.117 × 10<sup>27</sup> kg<br />(354.424 Yrths)
         density: 1.322 g/cm<sup>3</sup>
         surface_gravity: 26.781 m/s<sup>2</sup><br />(2.731 g<sub>0</sub>)
         escape_velocity: 62.393 km/s<br />(224,613 km/h)
         rotation_period: 75.166 d
         axial_tilt: 12.06°
         albedo: 0.30
-        temperature: 232 K<br />(-41 °C)
-      - name: 4689 Arkothiad VI d
+        temperature: 48 K<br />(-225 °C)
+      - name: 4689 Arkothiad VI c
         type: Rocky
         formationType: Accreted
         aphelion: 503,419,988 km<br />
@@ -923,15 +903,15 @@ planets:
         radius: 51,256.5 km<br/>(8.045 Yrths)
         surface_area: 3.301 × 10<sup>10</sup> km<sup>2</sup><br/>(64.727 Yrths)
         volume: 5.641 × 10<sup>14</sup> km<sup>3</sup><br/>(520.745 Yrths)
-        mass: 1.792 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 1.792 × 10<sup>27</sup> kg<br />(300.031 Yrths)
         density: 3.177 g/cm<sup>3</sup>
         surface_gravity: 45.457 m/s<sup>2</sup><br />(4.635 g<sub>0</sub>)
         escape_velocity: 68.310 km/s<br />(245,917 km/h)
         rotation_period: 35.851 d
         axial_tilt: 9.84°
         albedo: 0.30
-        temperature: 151 K<br />(-122 °C)
-      - name: 4689 Arkothiad VI e
+        temperature: 48 K<br />(-225 °C)
+      - name: 4689 Arkothiad VI d
         type: Icy
         formationType: Captured
         aphelion: 2,634,341,209 km<br />
@@ -943,15 +923,15 @@ planets:
         radius: 88,220.5 km<br/>(13.847 Yrths)
         surface_area: 9.780 × 10<sup>10</sup> km<sup>2</sup><br/>(191.745 Yrths)
         volume: 2.876 × 10<sup>15</sup> km<sup>3</sup><br/>(2655.126 Yrths)
-        mass: 4.126 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 4.126 × 10<sup>27</sup> kg<br />(690.842 Yrths)
         density: 1.435 g/cm<sup>3</sup>
         surface_gravity: 35.333 m/s<sup>2</sup><br />(3.603 g<sub>0</sub>)
         escape_velocity: 79.010 km/s<br />(284,436 km/h)
         rotation_period: 73.460 d
         axial_tilt: 7.97°
         albedo: 0.30
-        temperature: 67 K<br />(-206 °C)
-      - name: 4689 Arkothiad VI f
+        temperature: 48 K<br />(-225 °C)
+      - name: 4689 Arkothiad VI e
         type: Rocky
         formationType: Captured
         aphelion: 6,859,596,270 km<br />
@@ -963,14 +943,34 @@ planets:
         radius: 54,654.6 km<br/>(8.579 Yrths)
         surface_area: 3.754 × 10<sup>10</sup> km<sup>2</sup><br/>(73.593 Yrths)
         volume: 6.839 × 10<sup>14</sup> km<sup>3</sup><br/>(631.330 Yrths)
-        mass: 2.175 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 2.175 × 10<sup>27</sup> kg<br />(364.276 Yrths)
         density: 3.181 g/cm<sup>3</sup>
         surface_gravity: 48.542 m/s<sup>2</sup><br />(4.950 g<sub>0</sub>)
         escape_velocity: 72.892 km/s<br />(262,411 km/h)
         rotation_period: 27.808 d
         axial_tilt: 16.18°
         albedo: 0.30
-        temperature: 42 K<br />(-231 °C)
+        temperature: 48 K<br />(-225 °C)
+      - name: 4689 Arkothiad VI f
+        type: Icy
+        formationType: Accreted
+        aphelion: 12,129,337,260 km<br />
+        perihelion: 11,241,208,774 km<br />
+        semi_major_axis: 11,685,273,017 km<br />
+        eccentricity: 0.038
+        orbital_period: 1.37 d<br />
+        inclination: 0.67°
+        radius: 64,149.6 km<br/>(10.069 Yrths)
+        surface_area: 5.171 × 10<sup>10</sup> km<sup>2</sup><br/>(101.385 Yrths)
+        volume: 1.106 × 10<sup>15</sup> km<sup>3</sup><br/>(1020.843 Yrths)
+        mass: 1.469 × 10<sup>27</sup> kg<br />(245.958 Yrths)
+        density: 1.328 g/cm<sup>3</sup>
+        surface_gravity: 23.791 m/s<sup>2</sup><br />(2.426 g<sub>0</sub>)
+        escape_velocity: 55.285 km/s<br />(199,028 km/h)
+        rotation_period: 49.834 d
+        axial_tilt: 8.93°
+        albedo: 0.30
+        temperature: 48 K<br />(-225 °C)
       - name: 4689 Arkothiad VI g
         type: Icy
         formationType: Accreted
@@ -983,14 +983,14 @@ planets:
         radius: 67,407.0 km<br/>(10.580 Yrths)
         surface_area: 5.710 × 10<sup>10</sup> km<sup>2</sup><br/>(111.942 Yrths)
         volume: 1.283 × 10<sup>15</sup> km<sup>3</sup><br/>(1184.382 Yrths)
-        mass: 1.679 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 1.679 × 10<sup>27</sup> kg<br />(281.085 Yrths)
         density: 1.308 g/cm<sup>3</sup>
         surface_gravity: 24.624 m/s<sup>2</sup><br />(2.511 g<sub>0</sub>)
         escape_velocity: 57.656 km/s<br />(207,561 km/h)
         rotation_period: 69.198 d
         axial_tilt: 14.05°
         albedo: 0.30
-        temperature: 24 K<br />(-250 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 4689 Arkothiad VI h
         type: Ice/rock hybrid
         formationType: Captured
@@ -1003,14 +1003,14 @@ planets:
         radius: 59,907.4 km<br/>(9.403 Yrths)
         surface_area: 4.510 × 10<sup>10</sup> km<sup>2</sup><br/>(88.419 Yrths)
         volume: 9.006 × 10<sup>14</sup> km<sup>3</sup><br/>(831.418 Yrths)
-        mass: 1.643 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 1.643 × 10<sup>27</sup> kg<br />(275.190 Yrths)
         density: 1.825 g/cm<sup>3</sup>
         surface_gravity: 30.522 m/s<sup>2</sup><br />(3.112 g<sub>0</sub>)
         escape_velocity: 60.514 km/s<br />(217,849 km/h)
         rotation_period: 43.644 d
         axial_tilt: 18.07°
         albedo: 0.30
-        temperature: 21 K<br />(-252 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 4689 Arkothiad VI i
         type: Icy
         formationType: Captured
@@ -1023,14 +1023,14 @@ planets:
         radius: 69,639.2 km<br/>(10.931 Yrths)
         surface_area: 6.094 × 10<sup>10</sup> km<sup>2</sup><br/>(119.479 Yrths)
         volume: 1.415 × 10<sup>15</sup> km<sup>3</sup><br/>(1305.983 Yrths)
-        mass: 1.657 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 1.657 × 10<sup>27</sup> kg<br />(277.440 Yrths)
         density: 1.171 g/cm<sup>3</sup>
         surface_gravity: 22.772 m/s<sup>2</sup><br />(2.322 g<sub>0</sub>)
         escape_velocity: 56.355 km/s<br />(202,879 km/h)
         rotation_period: 88.335 d
         axial_tilt: 13.89°
         albedo: 0.30
-        temperature: 18 K<br />(-255 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 4689 Arkothiad VI j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1043,14 +1043,14 @@ planets:
         radius: 75,650.9 km<br/>(11.874 Yrths)
         surface_area: 7.192 × 10<sup>10</sup> km<sup>2</sup><br/>(140.998 Yrths)
         volume: 1.814 × 10<sup>15</sup> km<sup>3</sup><br/>(1674.250 Yrths)
-        mass: 3.021 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 3.021 × 10<sup>27</sup> kg<br />(505.798 Yrths)
         density: 1.666 g/cm<sup>3</sup>
         surface_gravity: 35.179 m/s<sup>2</sup><br />(3.587 g<sub>0</sub>)
         escape_velocity: 73.006 km/s<br />(262,822 km/h)
         rotation_period: 50.232 d
         axial_tilt: 27.42°
         albedo: 0.30
-        temperature: 14 K<br />(-259 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 4689 Arkothiad VI k
         type: Ice/rock hybrid
         formationType: Captured
@@ -1063,14 +1063,14 @@ planets:
         radius: 58,934.1 km<br/>(9.250 Yrths)
         surface_area: 4.365 × 10<sup>10</sup> km<sup>2</sup><br/>(85.569 Yrths)
         volume: 8.574 × 10<sup>14</sup> km<sup>3</sup><br/>(791.548 Yrths)
-        mass: 2.401 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 2.401 × 10<sup>27</sup> kg<br />(402.001 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 46.071 m/s<sup>2</sup><br />(4.698 g<sub>0</sub>)
         escape_velocity: 73.741 km/s<br />(265,467 km/h)
         rotation_period: 31.215 d
         axial_tilt: 18.26°
         albedo: 0.30
-        temperature: 10 K<br />(-263 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 4689 Arkothiad VI l
         type: Icy
         formationType: Accreted
@@ -1083,14 +1083,14 @@ planets:
         radius: 63,925.9 km<br/>(10.034 Yrths)
         surface_area: 5.135 × 10<sup>10</sup> km<sup>2</sup><br/>(100.679 Yrths)
         volume: 1.094 × 10<sup>15</sup> km<sup>3</sup><br/>(1010.202 Yrths)
-        mass: 1.920 × 10<sup>27</sup> kg<br />(66.94680867558348 Yrths)
+        mass: 1.920 × 10<sup>27</sup> kg<br />(321.556 Yrths)
         density: 1.755 g/cm<sup>3</sup>
         surface_gravity: 31.321 m/s<sup>2</sup><br />(3.194 g<sub>0</sub>)
         escape_velocity: 63.324 km/s<br />(227,966 km/h)
         rotation_period: 64.425 d
         axial_tilt: 15.23°
         albedo: 0.30
-        temperature: 9 K<br />(-264 °C)
+        temperature: 48 K<br />(-225 °C)
   - name: 4689 Arkothiad VII
     type: Ice giant
     aphelion: 9,361,686,773 km<br />62.578 AU
@@ -1102,14 +1102,14 @@ planets:
     radius: 23,766.3 km<br/>(3.730 Yrths)
     surface_area: 7.098 × 10<sup>09</sup> km<sup>2</sup><br/>(13.916 Yrths)
     volume: 5.623 × 10<sup>13</sup> km<sup>3</sup><br/>(51.911 Yrths)
-    mass: 7.210 × 10<sup>25</sup> kg<br />(12.072501002762934 Yrths)
+    mass: 7.210 × 10<sup>25</sup> kg<br />(12.07 Yrths)
     density: 1.282 g/cm<sup>3</sup>
     surface_gravity: 8.508 m/s<sup>2</sup><br />(0.868 g<sub>0</sub>)
     escape_velocity: 20.123 km/s<br />(72,443 km/h)
     rotation_period: 0.346 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 65 K<br />(-208 °C)
+    temperature: 59 K<br />(-214 °C)
     composition:
       - 85.9004% hydrogen
       - 12.0543% helium
@@ -1127,14 +1127,14 @@ planets:
         radius: 13,510.5 km<br/>(2.121 Yrths)
         surface_area: 2.294 × 10<sup>09</sup> km<sup>2</sup><br/>(4.497 Yrths)
         volume: 1.033 × 10<sup>13</sup> km<sup>3</sup><br/>(9.536 Yrths)
-        mass: 1.381 × 10<sup>25</sup> kg<br />(12.072501002762934 Yrths)
+        mass: 1.381 × 10<sup>25</sup> kg<br />(2.312 Yrths)
         density: 1.337 g/cm<sup>3</sup>
         surface_gravity: 5.041 m/s<sup>2</sup><br />(0.514 g<sub>0</sub>)
         escape_velocity: 11.679 km/s<br />(42,046 km/h)
         rotation_period: 47.598 d
         axial_tilt: 11.35°
         albedo: 0.30
-        temperature: 300 K<br />(27 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 4689 Arkothiad VII b
         type: Ice/rock hybrid
         formationType: Captured
@@ -1147,14 +1147,14 @@ planets:
         radius: 27,714.7 km<br/>(4.350 Yrths)
         surface_area: 9.652 × 10<sup>09</sup> km<sup>2</sup><br/>(18.924 Yrths)
         volume: 8.917 × 10<sup>13</sup> km<sup>3</sup><br/>(82.321 Yrths)
-        mass: 1.890 × 10<sup>26</sup> kg<br />(12.072501002762934 Yrths)
+        mass: 1.890 × 10<sup>26</sup> kg<br />(31.653 Yrths)
         density: 2.120 g/cm<sup>3</sup>
         surface_gravity: 16.403 m/s<sup>2</sup><br />(1.673 g<sub>0</sub>)
         escape_velocity: 30.174 km/s<br />(108,625 km/h)
         rotation_period: 37.413 d
         axial_tilt: 26.44°
         albedo: 0.30
-        temperature: 286 K<br />(13 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 4689 Arkothiad VII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -1167,14 +1167,14 @@ planets:
         radius: 13,523.1 km<br/>(2.123 Yrths)
         surface_area: 2.298 × 10<sup>09</sup> km<sup>2</sup><br/>(4.505 Yrths)
         volume: 1.036 × 10<sup>13</sup> km<sup>3</sup><br/>(9.563 Yrths)
-        mass: 2.099 × 10<sup>25</sup> kg<br />(12.072501002762934 Yrths)
+        mass: 2.099 × 10<sup>25</sup> kg<br />(3.515 Yrths)
         density: 2.027 g/cm<sup>3</sup>
         surface_gravity: 7.652 m/s<sup>2</sup><br />(0.780 g<sub>0</sub>)
         escape_velocity: 14.396 km/s<br />(51,824 km/h)
         rotation_period: 47.417 d
         axial_tilt: 19.26°
         albedo: 0.30
-        temperature: 260 K<br />(-13 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 4689 Arkothiad VII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -1187,14 +1187,14 @@ planets:
         radius: 14,193.2 km<br/>(2.228 Yrths)
         surface_area: 2.531 × 10<sup>09</sup> km<sup>2</sup><br/>(4.963 Yrths)
         volume: 1.198 × 10<sup>13</sup> km<sup>3</sup><br/>(11.057 Yrths)
-        mass: 3.019 × 10<sup>25</sup> kg<br />(12.072501002762934 Yrths)
+        mass: 3.019 × 10<sup>25</sup> kg<br />(5.055 Yrths)
         density: 2.521 g/cm<sup>3</sup>
         surface_gravity: 9.988 m/s<sup>2</sup><br />(1.018 g<sub>0</sub>)
         escape_velocity: 16.850 km/s<br />(60,659 km/h)
         rotation_period: 32.400 d
         axial_tilt: 13.41°
         albedo: 0.30
-        temperature: 248 K<br />(-25 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 4689 Arkothiad VII e
         type: Rocky
         formationType: Accreted
@@ -1207,14 +1207,14 @@ planets:
         radius: 18,264.9 km<br/>(2.867 Yrths)
         surface_area: 4.192 × 10<sup>09</sup> km<sup>2</sup><br/>(8.219 Yrths)
         volume: 2.552 × 10<sup>13</sup> km<sup>3</sup><br/>(23.563 Yrths)
-        mass: 8.017 × 10<sup>25</sup> kg<br />(12.072501002762934 Yrths)
+        mass: 8.017 × 10<sup>25</sup> kg<br />(13.424 Yrths)
         density: 3.141 g/cm<sup>3</sup>
         surface_gravity: 16.017 m/s<sup>2</sup><br />(1.633 g<sub>0</sub>)
         escape_velocity: 24.205 km/s<br />(87,139 km/h)
         rotation_period: 46.286 d
         axial_tilt: 16.08°
         albedo: 0.30
-        temperature: 237 K<br />(-37 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 4689 Arkothiad VII f
         type: Icy
         formationType: Impact formed
@@ -1227,14 +1227,14 @@ planets:
         radius: 13,563.7 km<br/>(2.129 Yrths)
         surface_area: 2.312 × 10<sup>09</sup> km<sup>2</sup><br/>(4.533 Yrths)
         volume: 1.045 × 10<sup>13</sup> km<sup>3</sup><br/>(9.650 Yrths)
-        mass: 1.159 × 10<sup>25</sup> kg<br />(12.072501002762934 Yrths)
+        mass: 1.159 × 10<sup>25</sup> kg<br />(1.941 Yrths)
         density: 1.109 g/cm<sup>3</sup>
         surface_gravity: 4.199 m/s<sup>2</sup><br />(0.428 g<sub>0</sub>)
         escape_velocity: 10.681 km/s<br />(38,450 km/h)
         rotation_period: 77.128 d
         axial_tilt: 11.24°
         albedo: 0.30
-        temperature: 226 K<br />(-48 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 4689 Arkothiad VII g
         type: Ice/rock hybrid
         formationType: Captured
@@ -1247,14 +1247,14 @@ planets:
         radius: 12,645.1 km<br/>(1.985 Yrths)
         surface_area: 2.009 × 10<sup>09</sup> km<sup>2</sup><br/>(3.939 Yrths)
         volume: 8.469 × 10<sup>12</sup> km<sup>3</sup><br/>(7.819 Yrths)
-        mass: 1.901 × 10<sup>25</sup> kg<br />(12.072501002762934 Yrths)
+        mass: 1.901 × 10<sup>25</sup> kg<br />(3.184 Yrths)
         density: 2.245 g/cm<sup>3</sup>
         surface_gravity: 7.926 m/s<sup>2</sup><br />(0.808 g<sub>0</sub>)
         escape_velocity: 14.168 km/s<br />(51,004 km/h)
         rotation_period: 34.294 d
         axial_tilt: 19.41°
         albedo: 0.30
-        temperature: 205 K<br />(-68 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 4689 Arkothiad VII h
         type: Dwarf planet
         formationType: Accreted
@@ -1267,14 +1267,14 @@ planets:
         radius: 11,661.2 km<br/>(1.830 Yrths)
         surface_area: 1.709 × 10<sup>09</sup> km<sup>2</sup><br/>(3.350 Yrths)
         volume: 6.642 × 10<sup>12</sup> km<sup>3</sup><br/>(6.132 Yrths)
-        mass: 9.990 × 10<sup>24</sup> kg<br />(12.072501002762934 Yrths)
+        mass: 9.990 × 10<sup>24</sup> kg<br />(1.673 Yrths)
         density: 1.504 g/cm<sup>3</sup>
         surface_gravity: 4.897 m/s<sup>2</sup><br />(0.499 g<sub>0</sub>)
         escape_velocity: 10.694 km/s<br />(38,498 km/h)
         rotation_period: 68.712 d
         axial_tilt: 36.25°
         albedo: 0.30
-        temperature: 195 K<br />(-78 °C)
+        temperature: 35 K<br />(-238 °C)
       - name: 4689 Arkothiad VII i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1287,14 +1287,14 @@ planets:
         radius: 9,896.2 km<br/>(1.553 Yrths)
         surface_area: 1.231 × 10<sup>09</sup> km<sup>2</sup><br/>(2.413 Yrths)
         volume: 4.060 × 10<sup>12</sup> km<sup>3</sup><br/>(3.748 Yrths)
-        mass: 9.123 × 10<sup>24</sup> kg<br />(12.072501002762934 Yrths)
+        mass: 9.123 × 10<sup>24</sup> kg<br />(1.528 Yrths)
         density: 2.247 g/cm<sup>3</sup>
         surface_gravity: 6.209 m/s<sup>2</sup><br />(0.633 g<sub>0</sub>)
         escape_velocity: 11.093 km/s<br />(39,936 km/h)
         rotation_period: 63.665 d
         axial_tilt: 9.23°
         albedo: 0.30
-        temperature: 186 K<br />(-87 °C)
+        temperature: 35 K<br />(-238 °C)
   - name: 4689 Arkothiad VIII
     type: Ice giant
     aphelion: 18,936,264,781 km<br />126.579 AU
@@ -1306,14 +1306,14 @@ planets:
     radius: 29,746.2 km<br/>(4.669 Yrths)
     surface_area: 1.112 × 10<sup>10</sup> km<sup>2</sup><br/>(21.800 Yrths)
     volume: 1.103 × 10<sup>14</sup> km<sup>3</sup><br/>(101.782 Yrths)
-    mass: 1.984 × 10<sup>26</sup> kg<br />(33.229237900273965 Yrths)
+    mass: 1.984 × 10<sup>26</sup> kg<br />(33.23 Yrths)
     density: 1.800 g/cm<sup>3</sup>
     surface_gravity: 14.948 m/s<sup>2</sup><br />(1.524 g<sub>0</sub>)
     escape_velocity: 29.842 km/s<br />(107,430 km/h)
     rotation_period: 0.296 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 46 K<br />(-227 °C)
+    temperature: 42 K<br />(-232 °C)
     composition:
       - 87.6404% hydrogen
       - 12.3596% helium
@@ -1330,14 +1330,14 @@ planets:
         radius: 27,828.7 km<br/>(4.368 Yrths)
         surface_area: 9.732 × 10<sup>09</sup> km<sup>2</sup><br/>(19.080 Yrths)
         volume: 9.028 × 10<sup>13</sup> km<sup>3</sup><br/>(83.341 Yrths)
-        mass: 7.355 × 10<sup>25</sup> kg<br />(33.229237900273965 Yrths)
+        mass: 7.355 × 10<sup>25</sup> kg<br />(12.316 Yrths)
         density: 0.815 g/cm<sup>3</sup>
         surface_gravity: 6.330 m/s<sup>2</sup><br />(0.646 g<sub>0</sub>)
         escape_velocity: 18.783 km/s<br />(67,620 km/h)
         rotation_period: 60.017 d
         axial_tilt: 12.63°
         albedo: 0.30
-        temperature: 213 K<br />(-60 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 4689 Arkothiad VIII b
         type: Icy
         formationType: Captured
@@ -1350,14 +1350,14 @@ planets:
         radius: 58,075.0 km<br/>(9.116 Yrths)
         surface_area: 4.238 × 10<sup>10</sup> km<sup>2</sup><br/>(83.093 Yrths)
         volume: 8.205 × 10<sup>14</sup> km<sup>3</sup><br/>(757.433 Yrths)
-        mass: 9.133 × 10<sup>26</sup> kg<br />(33.229237900273965 Yrths)
+        mass: 9.133 × 10<sup>26</sup> kg<br />(152.926 Yrths)
         density: 1.113 g/cm<sup>3</sup>
         surface_gravity: 18.048 m/s<sup>2</sup><br />(1.840 g<sub>0</sub>)
         escape_velocity: 45.817 km/s<br />(164,940 km/h)
         rotation_period: 49.388 d
         axial_tilt: 26.38°
         albedo: 0.30
-        temperature: 204 K<br />(-70 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 4689 Arkothiad VIII c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1370,14 +1370,14 @@ planets:
         radius: 19,362.5 km<br/>(3.039 Yrths)
         surface_area: 4.711 × 10<sup>09</sup> km<sup>2</sup><br/>(9.236 Yrths)
         volume: 3.041 × 10<sup>13</sup> km<sup>3</sup><br/>(28.071 Yrths)
-        mass: 6.008 × 10<sup>25</sup> kg<br />(33.229237900273965 Yrths)
+        mass: 6.008 × 10<sup>25</sup> kg<br />(10.060 Yrths)
         density: 1.976 g/cm<sup>3</sup>
         surface_gravity: 10.681 m/s<sup>2</sup><br />(1.089 g<sub>0</sub>)
         escape_velocity: 20.352 km/s<br />(73,266 km/h)
         rotation_period: 69.911 d
         axial_tilt: 33.74°
         albedo: 0.30
-        temperature: 194 K<br />(-79 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 4689 Arkothiad VIII d
         type: Icy
         formationType: Impact formed
@@ -1390,14 +1390,14 @@ planets:
         radius: 26,532.0 km<br/>(4.164 Yrths)
         surface_area: 8.846 × 10<sup>09</sup> km<sup>2</sup><br/>(17.343 Yrths)
         volume: 7.823 × 10<sup>13</sup> km<sup>3</sup><br/>(72.225 Yrths)
-        mass: 8.816 × 10<sup>25</sup> kg<br />(33.229237900273965 Yrths)
+        mass: 8.816 × 10<sup>25</sup> kg<br />(14.763 Yrths)
         density: 1.127 g/cm<sup>3</sup>
         surface_gravity: 8.348 m/s<sup>2</sup><br />(0.851 g<sub>0</sub>)
         escape_velocity: 21.061 km/s<br />(75,819 km/h)
         rotation_period: 89.256 d
         axial_tilt: 14.92°
         albedo: 0.30
-        temperature: 176 K<br />(-97 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 4689 Arkothiad VIII e
         type: Icy
         formationType: Accreted
@@ -1410,14 +1410,14 @@ planets:
         radius: 66,351.4 km<br/>(10.415 Yrths)
         surface_area: 5.532 × 10<sup>10</sup> km<sup>2</sup><br/>(108.464 Yrths)
         volume: 1.224 × 10<sup>15</sup> km<sup>3</sup><br/>(1129.607 Yrths)
-        mass: 1.276 × 10<sup>27</sup> kg<br />(33.229237900273965 Yrths)
+        mass: 1.276 × 10<sup>27</sup> kg<br />(213.692 Yrths)
         density: 1.043 g/cm<sup>3</sup>
         surface_gravity: 19.321 m/s<sup>2</sup><br />(1.970 g<sub>0</sub>)
         escape_velocity: 50.669 km/s<br />(182,410 km/h)
         rotation_period: 71.200 d
         axial_tilt: 19.41°
         albedo: 0.30
-        temperature: 160 K<br />(-113 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 4689 Arkothiad VIII f
         type: Icy
         formationType: Captured
@@ -1430,14 +1430,14 @@ planets:
         radius: 35,375.1 km<br/>(5.553 Yrths)
         surface_area: 1.573 × 10<sup>10</sup> km<sup>2</sup><br/>(30.831 Yrths)
         volume: 1.854 × 10<sup>14</sup> km<sup>3</sup><br/>(171.187 Yrths)
-        mass: 1.775 × 10<sup>26</sup> kg<br />(33.229237900273965 Yrths)
+        mass: 1.775 × 10<sup>26</sup> kg<br />(29.727 Yrths)
         density: 0.957 g/cm<sup>3</sup>
         surface_gravity: 9.456 m/s<sup>2</sup><br />(0.964 g<sub>0</sub>)
         escape_velocity: 25.882 km/s<br />(93,176 km/h)
         rotation_period: 60.737 d
         axial_tilt: 12.75°
         albedo: 0.30
-        temperature: 146 K<br />(-127 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 4689 Arkothiad VIII g
         type: Asteroid
         formationType: Captured
@@ -1450,14 +1450,14 @@ planets:
         radius: 16,951.1 km<br/>(2.661 Yrths)
         surface_area: 3.611 × 10<sup>09</sup> km<sup>2</sup><br/>(7.079 Yrths)
         volume: 2.040 × 10<sup>13</sup> km<sup>3</sup><br/>(18.835 Yrths)
-        mass: 6.283 × 10<sup>25</sup> kg<br />(33.229237900273965 Yrths)
+        mass: 6.283 × 10<sup>25</sup> kg<br />(10.521 Yrths)
         density: 3.080 g/cm<sup>3</sup>
         surface_gravity: 14.575 m/s<sup>2</sup><br />(1.486 g<sub>0</sub>)
         escape_velocity: 22.244 km/s<br />(80,078 km/h)
         rotation_period: 30.095 d
         axial_tilt: 30.47°
         albedo: 0.30
-        temperature: 139 K<br />(-134 °C)
+        temperature: 26 K<br />(-247 °C)
   - name: 4689 Arkothiad IX
     type: Gas giant
     aphelion: 32,774,271,294 km<br />219.079 AU
@@ -1469,7 +1469,7 @@ planets:
     radius: 236.4 km<br/>(0.037 Yrths)
     surface_area: 7.025 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.537 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.060 × 10<sup>27</sup> kg<br />(344.92671591031154 Yrths)
+    mass: 2.060 × 10<sup>27</sup> kg<br />(344.93 Yrths)
     density: 37205143.116 g/cm<sup>3</sup>
     surface_gravity: 2455986.772 m/s<sup>2</sup><br />(250440.953 g<sub>0</sub>)
     escape_velocity: 1078.405 km/s<br />(3,882,259 km/h)
@@ -1490,14 +1490,14 @@ planets:
         radius: 198,041.9 km<br/>(31.085 Yrths)
         surface_area: 4.929 × 10<sup>11</sup> km<sup>2</sup><br/>(966.271 Yrths)
         volume: 3.254 × 10<sup>16</sup> km<sup>3</sup><br/>(30036.451 Yrths)
-        mass: 6.291 × 10<sup>28</sup> kg<br />(344.92671591031154 Yrths)
+        mass: 6.291 × 10<sup>28</sup> kg<br />(10533.701 Yrths)
         density: 1.933 g/cm<sup>3</sup>
         surface_gravity: 106.906 m/s<sup>2</sup><br />(10.901 g<sub>0</sub>)
         escape_velocity: 205.916 km/s<br />(741,297 km/h)
         rotation_period: 56.489 d
         axial_tilt: 9.51°
         albedo: 0.30
-        temperature: 62 K<br />(-211 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 4689 Arkothiad IX b
         type: Icy
         formationType: Impact formed
@@ -1510,14 +1510,14 @@ planets:
         radius: 198,601.3 km<br/>(31.173 Yrths)
         surface_area: 4.956 × 10<sup>11</sup> km<sup>2</sup><br/>(971.738 Yrths)
         volume: 3.281 × 10<sup>16</sup> km<sup>3</sup><br/>(30291.693 Yrths)
-        mass: 3.631 × 10<sup>28</sup> kg<br />(344.92671591031154 Yrths)
+        mass: 3.631 × 10<sup>28</sup> kg<br />(6080.803 Yrths)
         density: 1.107 g/cm<sup>3</sup>
         surface_gravity: 61.367 m/s<sup>2</sup><br />(6.258 g<sub>0</sub>)
         escape_velocity: 156.231 km/s<br />(562,432 km/h)
         rotation_period: 48.723 d
         axial_tilt: 13.88°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 4689 Arkothiad IX c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1530,14 +1530,14 @@ planets:
         radius: 178,840.9 km<br/>(28.071 Yrths)
         surface_area: 4.019 × 10<sup>11</sup> km<sup>2</sup><br/>(787.986 Yrths)
         volume: 2.396 × 10<sup>16</sup> km<sup>3</sup><br/>(22119.611 Yrths)
-        mass: 4.163 × 10<sup>28</sup> kg<br />(344.92671591031154 Yrths)
+        mass: 4.163 × 10<sup>28</sup> kg<br />(6970.459 Yrths)
         density: 1.737 g/cm<sup>3</sup>
         surface_gravity: 86.749 m/s<sup>2</sup><br />(8.846 g<sub>0</sub>)
         escape_velocity: 176.269 km/s<br />(634,567 km/h)
         rotation_period: 48.809 d
         axial_tilt: 24.14°
         albedo: 0.30
-        temperature: 45 K<br />(-228 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 4689 Arkothiad IX d
         type: Icy
         formationType: Accreted
@@ -1550,14 +1550,14 @@ planets:
         radius: 220,503.3 km<br/>(34.610 Yrths)
         surface_area: 6.110 × 10<sup>11</sup> km<sup>2</sup><br/>(1197.884 Yrths)
         volume: 4.491 × 10<sup>16</sup> km<sup>3</sup><br/>(41459.324 Yrths)
-        mass: 3.817 × 10<sup>28</sup> kg<br />(344.92671591031154 Yrths)
+        mass: 3.817 × 10<sup>28</sup> kg<br />(6391.701 Yrths)
         density: 0.850 g/cm<sup>3</sup>
         surface_gravity: 52.327 m/s<sup>2</sup><br />(5.336 g<sub>0</sub>)
         escape_velocity: 152.012 km/s<br />(547,244 km/h)
         rotation_period: 62.970 d
         axial_tilt: 5.87°
         albedo: 0.30
-        temperature: 34 K<br />(-240 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 4689 Arkothiad IX e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1570,12 +1570,12 @@ planets:
         radius: 220,288.5 km<br/>(34.577 Yrths)
         surface_area: 6.098 × 10<sup>11</sup> km<sup>2</sup><br/>(1195.552 Yrths)
         volume: 4.478 × 10<sup>16</sup> km<sup>3</sup><br/>(41338.319 Yrths)
-        mass: 8.806 × 10<sup>28</sup> kg<br />(344.92671591031154 Yrths)
+        mass: 8.806 × 10<sup>28</sup> kg<br />(14745.431 Yrths)
         density: 1.967 g/cm<sup>3</sup>
         surface_gravity: 120.951 m/s<sup>2</sup><br />(12.334 g<sub>0</sub>)
         escape_velocity: 230.999 km/s<br />(831,597 km/h)
         rotation_period: 66.577 d
         axial_tilt: 21.74°
         albedo: 0.30
-        temperature: 32 K<br />(-241 °C)
+        temperature: 19 K<br />(-254 °C)
 ---

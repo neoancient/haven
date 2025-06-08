@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4162 Anilliad is a star in the constellation Anil
+      4162 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 678.09 ly
 apparent_magnitude: 12.56
 absolute_magnitude: 5.97

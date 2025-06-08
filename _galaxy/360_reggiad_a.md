@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      360 Reggiad A is a star in the constellation Reg
+      360 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 764.56 ly
 apparent_magnitude: 7.06
 absolute_magnitude: 0.21

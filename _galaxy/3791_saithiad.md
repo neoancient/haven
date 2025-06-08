@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3791 Saithiad is a star in the constellation Saith
+      3791 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 139.67 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 4.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ratha is a star in the constellation Neraln
+      Ratha is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 311.35 ly
 apparent_magnitude: 2.84
 absolute_magnitude: -2.06
@@ -31,7 +31,7 @@ planets:
     radius: 10,745.4 km<br/>(1.687 Yrths)
     surface_area: 1.451 × 10<sup>09</sup> km<sup>2</sup><br/>(2.845 Yrths)
     volume: 5.197 × 10<sup>12</sup> km<sup>3</sup><br/>(4.798 Yrths)
-    mass: 3.133 × 10<sup>25</sup> kg<br />(5.246910676751371 Yrths)
+    mass: 3.133 × 10<sup>25</sup> kg<br />(5.25 Yrths)
     density: 6.029 g/cm<sup>3</sup>
     surface_gravity: 18.088 m/s<sup>2</sup><br />(1.844 g<sub>0</sub>)
     escape_velocity: 19.730 km/s<br />(71,027 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 3,259.7 km<br/>(0.512 Yrths)
         surface_area: 1.335 × 10<sup>08</sup> km<sup>2</sup><br/>(0.262 Yrths)
         volume: 1.451 × 10<sup>11</sup> km<sup>3</sup><br/>(0.134 Yrths)
-        mass: 1.960 × 10<sup>23</sup> kg<br />(5.246910676751371 Yrths)
+        mass: 1.960 × 10<sup>23</sup> kg<br />(0.033 Yrths)
         density: 1.351 g/cm<sup>3</sup>
         surface_gravity: 1.229 m/s<sup>2</sup><br />(0.125 g<sub>0</sub>)
         escape_velocity: 2.833 km/s<br />(10,198 km/h)
         rotation_period: 50.904 d
         axial_tilt: 17.71°
         albedo: 0.30
-        temperature: 16636 K<br />(16363 °C)
+        temperature: 1314 K<br />(1040 °C)
       - name: Ratha I b
         type: Rocky
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 5,873.4 km<br/>(0.922 Yrths)
         surface_area: 4.335 × 10<sup>08</sup> km<sup>2</sup><br/>(0.850 Yrths)
         volume: 8.487 × 10<sup>11</sup> km<sup>3</sup><br/>(0.784 Yrths)
-        mass: 2.532 × 10<sup>24</sup> kg<br />(5.246910676751371 Yrths)
+        mass: 2.532 × 10<sup>24</sup> kg<br />(0.424 Yrths)
         density: 2.983 g/cm<sup>3</sup>
         surface_gravity: 4.892 m/s<sup>2</sup><br />(0.499 g<sub>0</sub>)
         escape_velocity: 7.586 km/s<br />(27,310 km/h)
         rotation_period: 38.098 d
         axial_tilt: 12.14°
         albedo: 0.30
-        temperature: 15862 K<br />(15589 °C)
+        temperature: 1314 K<br />(1040 °C)
       - name: Ratha I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 8,243.8 km<br/>(1.294 Yrths)
         surface_area: 8.540 × 10<sup>08</sup> km<sup>2</sup><br/>(1.674 Yrths)
         volume: 2.347 × 10<sup>12</sup> km<sup>3</sup><br/>(2.167 Yrths)
-        mass: 5.331 × 10<sup>24</sup> kg<br />(5.246910676751371 Yrths)
+        mass: 5.331 × 10<sup>24</sup> kg<br />(0.893 Yrths)
         density: 2.272 g/cm<sup>3</sup>
         surface_gravity: 5.229 m/s<sup>2</sup><br />(0.533 g<sub>0</sub>)
         escape_velocity: 9.291 km/s<br />(33,448 km/h)
         rotation_period: 34.012 d
         axial_tilt: 21.78°
         albedo: 0.30
-        temperature: 15124 K<br />(14851 °C)
+        temperature: 1314 K<br />(1040 °C)
   - name: Ratha II
     type: Gas giant
     aphelion: 389,989,119 km<br />2.607 AU
@@ -111,14 +111,14 @@ planets:
     radius: 205.7 km<br/>(0.032 Yrths)
     surface_area: 5.316 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.645 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.140 × 10<sup>27</sup> kg<br />(190.89381338977915 Yrths)
+    mass: 1.140 × 10<sup>27</sup> kg<br />(190.89 Yrths)
     density: 31276656.586 g/cm<sup>3</sup>
     surface_gravity: 1796081.026 m/s<sup>2</sup><br />(183149.294 g<sub>0</sub>)
     escape_velocity: 860.148 km/s<br />(3,096,533 km/h)
     rotation_period: 0.246 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 4041 K<br />(3768 °C)
+    temperature: 3869 K<br />(3596 °C)
     composition:
       - 80.5429% hydrogen
       - 15.3213% helium
@@ -139,14 +139,14 @@ planets:
         radius: 136,936.3 km<br/>(21.494 Yrths)
         surface_area: 2.356 × 10<sup>11</sup> km<sup>2</sup><br/>(461.979 Yrths)
         volume: 1.076 × 10<sup>16</sup> km<sup>3</sup><br/>(9929.621 Yrths)
-        mass: 2.330 × 10<sup>28</sup> kg<br />(190.89381338977915 Yrths)
+        mass: 2.330 × 10<sup>28</sup> kg<br />(3900.851 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 82.805 m/s<sup>2</sup><br />(8.444 g<sub>0</sub>)
         escape_velocity: 150.695 km/s<br />(542,501 km/h)
         rotation_period: 52.615 d
         axial_tilt: 30.05°
         albedo: 0.30
-        temperature: 6038 K<br />(5765 °C)
+        temperature: 954 K<br />(681 °C)
       - name: Ratha II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -159,14 +159,14 @@ planets:
         radius: 150,663.3 km<br/>(23.648 Yrths)
         surface_area: 2.852 × 10<sup>11</sup> km<sup>2</sup><br/>(559.242 Yrths)
         volume: 1.433 × 10<sup>16</sup> km<sup>3</sup><br/>(13225.112 Yrths)
-        mass: 3.184 × 10<sup>28</sup> kg<br />(190.89381338977915 Yrths)
+        mass: 3.184 × 10<sup>28</sup> kg<br />(5331.020 Yrths)
         density: 2.222 g/cm<sup>3</sup>
         surface_gravity: 93.483 m/s<sup>2</sup><br />(9.533 g<sub>0</sub>)
         escape_velocity: 167.950 km/s<br />(604,619 km/h)
         rotation_period: 38.678 d
         axial_tilt: 26.15°
         albedo: 0.30
-        temperature: 3250 K<br />(2977 °C)
+        temperature: 954 K<br />(681 °C)
       - name: Ratha II c
         type: Icy
         formationType: Accreted
@@ -179,14 +179,14 @@ planets:
         radius: 225,335.1 km<br/>(35.369 Yrths)
         surface_area: 6.381 × 10<sup>11</sup> km<sup>2</sup><br/>(1250.957 Yrths)
         volume: 4.793 × 10<sup>16</sup> km<sup>3</sup><br/>(44244.944 Yrths)
-        mass: 5.240 × 10<sup>28</sup> kg<br />(190.89381338977915 Yrths)
+        mass: 5.240 × 10<sup>28</sup> kg<br />(8774.364 Yrths)
         density: 1.093 g/cm<sup>3</sup>
         surface_gravity: 68.785 m/s<sup>2</sup><br />(7.014 g<sub>0</sub>)
         escape_velocity: 176.186 km/s<br />(634,269 km/h)
         rotation_period: 53.496 d
         axial_tilt: 23.32°
         albedo: 0.30
-        temperature: 2686 K<br />(2413 °C)
+        temperature: 954 K<br />(681 °C)
       - name: Ratha II d
         type: Icy
         formationType: Impact formed
@@ -199,14 +199,14 @@ planets:
         radius: 167,031.1 km<br/>(26.217 Yrths)
         surface_area: 3.506 × 10<sup>11</sup> km<sup>2</sup><br/>(687.352 Yrths)
         volume: 1.952 × 10<sup>16</sup> km<sup>3</sup><br/>(18020.593 Yrths)
-        mass: 2.533 × 10<sup>28</sup> kg<br />(190.89381338977915 Yrths)
+        mass: 2.533 × 10<sup>28</sup> kg<br />(4241.193 Yrths)
         density: 1.298 g/cm<sup>3</sup>
         surface_gravity: 60.510 m/s<sup>2</sup><br />(6.170 g<sub>0</sub>)
         escape_velocity: 142.273 km/s<br />(512,184 km/h)
         rotation_period: 79.005 d
         axial_tilt: 25.99°
         albedo: 0.30
-        temperature: 2442 K<br />(2168 °C)
+        temperature: 954 K<br />(681 °C)
       - name: Ratha II e
         type: Rocky
         formationType: Accreted
@@ -219,12 +219,12 @@ planets:
         radius: 192,836.1 km<br/>(30.268 Yrths)
         surface_area: 4.673 × 10<sup>11</sup> km<sup>2</sup><br/>(916.139 Yrths)
         volume: 3.004 × 10<sup>16</sup> km<sup>3</sup><br/>(27729.505 Yrths)
-        mass: 7.591 × 10<sup>28</sup> kg<br />(190.89381338977915 Yrths)
+        mass: 7.591 × 10<sup>28</sup> kg<br />(12710.886 Yrths)
         density: 2.527 g/cm<sup>3</sup>
         surface_gravity: 136.061 m/s<sup>2</sup><br />(13.874 g<sub>0</sub>)
         escape_velocity: 229.230 km/s<br />(825,228 km/h)
         rotation_period: 47.133 d
         axial_tilt: 20.43°
         albedo: 0.30
-        temperature: 2220 K<br />(1947 °C)
+        temperature: 954 K<br />(681 °C)
 ---

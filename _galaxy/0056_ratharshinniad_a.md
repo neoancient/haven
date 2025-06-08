@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0056 Ratharshinniad A is a star in the constellation Ratharshin
+      0056 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 195.24 ly
 apparent_magnitude: 5.98
 absolute_magnitude: 2.10

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      166 Narashiad is a star in the constellation Naras
+      166 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 874.37 ly
 apparent_magnitude: 16.32
 absolute_magnitude: 9.18

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      23461 Arkothiad is a star in the constellation Arkoth
+      23461 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 547.86 ly
 apparent_magnitude: 10.78
 absolute_magnitude: 4.65

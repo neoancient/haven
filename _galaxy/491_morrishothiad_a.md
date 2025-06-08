@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      491 Morrishothiad A is a star in the constellation Morrishoth
+      491 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 546.05 ly
 apparent_magnitude: 7.94
 absolute_magnitude: 1.82

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1930 Ratharshinniad A is a star in the constellation Ratharshin
+      1930 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 116.29 ly
 apparent_magnitude: 9.46
 absolute_magnitude: 6.69

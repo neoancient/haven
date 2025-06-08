@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2296 Ratharshinniad A is a star in the constellation Ratharshin
+      2296 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 175.36 ly
 apparent_magnitude: 8.82
 absolute_magnitude: 5.17

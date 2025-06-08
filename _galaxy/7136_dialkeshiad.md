@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7136 Dialkeshiad is a star in the constellation Dialkes
+      7136 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 392.81 ly
 apparent_magnitude: 19.97
 absolute_magnitude: 14.57

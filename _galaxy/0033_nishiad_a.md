@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0033 Nishiad A is a star in the constellation Nishi
+      0033 Nishiad A is a star in the constellation <a href="nishi.html">Nishi</a>
 distance: 1152.13 ly
 apparent_magnitude: 6.33
 absolute_magnitude: -1.41

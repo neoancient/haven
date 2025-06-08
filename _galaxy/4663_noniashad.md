@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4663 Noniashad is a star in the constellation Nonias
+      4663 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 411.57 ly
 apparent_magnitude: 13.17
 absolute_magnitude: 7.67

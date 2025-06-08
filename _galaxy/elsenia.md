@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Elsenia is a star in the constellation Orshen
+      Elsenia is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 34.64 ly
 apparent_magnitude: 1.94
 absolute_magnitude: 1.81

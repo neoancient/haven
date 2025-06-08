@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6933 Tanashad is a star in the constellation Tanas
+      6933 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 269.97 ly
 apparent_magnitude: 10.45
 absolute_magnitude: 5.86

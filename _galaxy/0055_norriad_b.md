@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0055 Norriad B is a star in the constellation Nor
+      0055 Norriad B is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1013.15 ly
 apparent_magnitude: 16.71
 absolute_magnitude: 9.25

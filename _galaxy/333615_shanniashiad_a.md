@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      333615 Shanniashiad A is a star in the constellation Shannias
+      333615 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 545.77 ly
 apparent_magnitude: 7.91
 absolute_magnitude: 1.79

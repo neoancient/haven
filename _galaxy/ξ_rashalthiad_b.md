@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ξ Rashalthiad B is a star in the constellation Rashalth
+      ξ Rashalthiad B is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 16.18 ly
 apparent_magnitude: 11.43
 absolute_magnitude: 12.95

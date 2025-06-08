@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      387 Erikkiad is a star in the constellation Erik
+      387 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1676.15 ly
 apparent_magnitude: 13.63
 absolute_magnitude: 5.08

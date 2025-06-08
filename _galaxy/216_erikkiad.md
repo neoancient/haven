@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      216 Erikkiad is a star in the constellation Erik
+      216 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1738.68 ly
 apparent_magnitude: 13.71
 absolute_magnitude: 5.08

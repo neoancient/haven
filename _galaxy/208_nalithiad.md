@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      208 Nalithiad is a star in the constellation Nalith
+      208 Nalithiad is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 217.97 ly
 apparent_magnitude: 10.83
 absolute_magnitude: 6.71

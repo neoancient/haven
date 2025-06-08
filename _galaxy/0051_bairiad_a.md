@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Bairiad A is a star in the constellation Bair
+      0051 Bairiad A is a star in the constellation <a href="bair.html">Bair</a>
 distance: 534.44 ly
 apparent_magnitude: 5.69
 absolute_magnitude: -0.39

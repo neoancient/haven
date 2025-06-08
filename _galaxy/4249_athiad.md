@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4249 Athiad is a star in the constellation Ath
+      4249 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 556.51 ly
 apparent_magnitude: 10.61
 absolute_magnitude: 4.45

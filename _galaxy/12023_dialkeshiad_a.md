@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12023 Dialkeshiad A is a star in the constellation Dialkes
+      12023 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 348.40 ly
 apparent_magnitude: 7.86
 absolute_magnitude: 2.72

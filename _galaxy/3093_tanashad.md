@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3093 Tanashad is a star in the constellation Tanas
+      3093 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 237.52 ly
 apparent_magnitude: 9.70
 absolute_magnitude: 5.39

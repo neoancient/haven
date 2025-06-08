@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      860 Lunaiad is a star in the constellation Luna
+      860 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 319.30 ly
 apparent_magnitude: 6.55
 absolute_magnitude: 1.60
@@ -31,14 +31,14 @@ planets:
     radius: 12,645.6 km<br/>(1.985 Yrths)
     surface_area: 2.009 × 10<sup>09</sup> km<sup>2</sup><br/>(3.940 Yrths)
     volume: 8.470 × 10<sup>12</sup> km<sup>3</sup><br/>(7.820 Yrths)
-    mass: 5.500 × 10<sup>25</sup> kg<br />(9.209163576358515 Yrths)
+    mass: 5.500 × 10<sup>25</sup> kg<br />(9.21 Yrths)
     density: 6.493 g/cm<sup>3</sup>
     surface_gravity: 22.923 m/s<sup>2</sup><br />(2.338 g<sub>0</sub>)
     escape_velocity: 24.095 km/s<br />(86,740 km/h)
     rotation_period: 0.662 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 447 K<br />(173 °C)
+    temperature: 609 K<br />(336 °C)
     surface_pressure: 943 kPa<br />(9 atm)
     composition:
       - 89.7592% methane
@@ -57,14 +57,14 @@ planets:
         radius: 7,028.0 km<br/>(1.103 Yrths)
         surface_area: 6.207 × 10<sup>08</sup> km<sup>2</sup><br/>(1.217 Yrths)
         volume: 1.454 × 10<sup>12</sup> km<sup>3</sup><br/>(1.342 Yrths)
-        mass: 2.510 × 10<sup>24</sup> kg<br />(9.209163576358515 Yrths)
+        mass: 2.510 × 10<sup>24</sup> kg<br />(0.420 Yrths)
         density: 1.726 g/cm<sup>3</sup>
         surface_gravity: 3.387 m/s<sup>2</sup><br />(0.345 g<sub>0</sub>)
         escape_velocity: 6.905 km/s<br />(24,858 km/h)
         rotation_period: 74.965 d
         axial_tilt: 35.07°
         albedo: 0.30
-        temperature: 3395 K<br />(3122 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 860 Lunaiad I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 11,885.2 km<br/>(1.866 Yrths)
         surface_area: 1.775 × 10<sup>09</sup> km<sup>2</sup><br/>(3.480 Yrths)
         volume: 7.032 × 10<sup>12</sup> km<sup>3</sup><br/>(6.492 Yrths)
-        mass: 1.074 × 10<sup>25</sup> kg<br />(9.209163576358515 Yrths)
+        mass: 1.074 × 10<sup>25</sup> kg<br />(1.798 Yrths)
         density: 1.527 g/cm<sup>3</sup>
         surface_gravity: 5.068 m/s<sup>2</sup><br />(0.517 g<sub>0</sub>)
         escape_velocity: 10.983 km/s<br />(39,540 km/h)
         rotation_period: 71.777 d
         axial_tilt: 23.50°
         albedo: 0.30
-        temperature: 3237 K<br />(2964 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 860 Lunaiad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 8,864.7 km<br/>(1.391 Yrths)
         surface_area: 9.875 × 10<sup>08</sup> km<sup>2</sup><br/>(1.936 Yrths)
         volume: 2.918 × 10<sup>12</sup> km<sup>3</sup><br/>(2.694 Yrths)
-        mass: 7.307 × 10<sup>24</sup> kg<br />(9.209163576358515 Yrths)
+        mass: 7.307 × 10<sup>24</sup> kg<br />(1.223 Yrths)
         density: 2.504 g/cm<sup>3</sup>
         surface_gravity: 6.197 m/s<sup>2</sup><br />(0.632 g<sub>0</sub>)
         escape_velocity: 10.489 km/s<br />(37,761 km/h)
         rotation_period: 38.234 d
         axial_tilt: 23.57°
         albedo: 0.30
-        temperature: 3087 K<br />(2814 °C)
+        temperature: 305 K<br />(32 °C)
   - name: 860 Lunaiad II
     type: Gas giant
     aphelion: 1,015,209,397 km<br />6.786 AU
@@ -116,7 +116,7 @@ planets:
     radius: 208.2 km<br/>(0.033 Yrths)
     surface_area: 5.445 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.778 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.242 × 10<sup>27</sup> kg<br />(207.98767922052423 Yrths)
+    mass: 1.242 × 10<sup>27</sup> kg<br />(207.99 Yrths)
     density: 32873836.291 g/cm<sup>3</sup>
     surface_gravity: 1910562.375 m/s<sup>2</sup><br />(194823.143 g<sub>0</sub>)
     escape_velocity: 892.470 km/s<br />(3,212,891 km/h)
@@ -137,14 +137,14 @@ planets:
         radius: 185,260.3 km<br/>(29.079 Yrths)
         surface_area: 4.313 × 10<sup>11</sup> km<sup>2</sup><br/>(845.569 Yrths)
         volume: 2.663 × 10<sup>16</sup> km<sup>3</sup><br/>(24588.041 Yrths)
-        mass: 2.444 × 10<sup>28</sup> kg<br />(207.98767922052423 Yrths)
+        mass: 2.444 × 10<sup>28</sup> kg<br />(4091.719 Yrths)
         density: 0.917 g/cm<sup>3</sup>
         surface_gravity: 47.454 m/s<sup>2</sup><br />(4.839 g<sub>0</sub>)
         escape_velocity: 132.690 km/s<br />(477,685 km/h)
         rotation_period: 55.547 d
         axial_tilt: 23.72°
         albedo: 0.30
-        temperature: 1328 K<br />(1055 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 860 Lunaiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 148,098.7 km<br/>(23.246 Yrths)
         surface_area: 2.756 × 10<sup>11</sup> km<sup>2</sup><br/>(540.365 Yrths)
         volume: 1.361 × 10<sup>16</sup> km<sup>3</sup><br/>(12561.199 Yrths)
-        mass: 3.386 × 10<sup>28</sup> kg<br />(207.98767922052423 Yrths)
+        mass: 3.386 × 10<sup>28</sup> kg<br />(5669.699 Yrths)
         density: 2.488 g/cm<sup>3</sup>
         surface_gravity: 102.895 m/s<sup>2</sup><br />(10.492 g<sub>0</sub>)
         escape_velocity: 174.696 km/s<br />(628,904 km/h)
         rotation_period: 58.610 d
         axial_tilt: 19.82°
         albedo: 0.30
-        temperature: 1266 K<br />(993 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 860 Lunaiad II c
         type: Icy
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 256,392.2 km<br/>(40.244 Yrths)
         surface_area: 8.261 × 10<sup>11</sup> km<sup>2</sup><br/>(1619.550 Yrths)
         volume: 7.060 × 10<sup>16</sup> km<sup>3</sup><br/>(65176.586 Yrths)
-        mass: 8.483 × 10<sup>28</sup> kg<br />(207.98767922052423 Yrths)
+        mass: 8.483 × 10<sup>28</sup> kg<br />(14204.267 Yrths)
         density: 1.202 g/cm<sup>3</sup>
         surface_gravity: 86.009 m/s<sup>2</sup><br />(8.771 g<sub>0</sub>)
         escape_velocity: 210.153 km/s<br />(756,549 km/h)
         rotation_period: 53.315 d
         axial_tilt: 24.26°
         albedo: 0.30
-        temperature: 1098 K<br />(824 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 860 Lunaiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -197,14 +197,14 @@ planets:
         radius: 172,385.1 km<br/>(27.058 Yrths)
         surface_area: 3.734 × 10<sup>11</sup> km<sup>2</sup><br/>(732.124 Yrths)
         volume: 2.146 × 10<sup>16</sup> km<sup>3</sup><br/>(19809.638 Yrths)
-        mass: 4.840 × 10<sup>28</sup> kg<br />(207.98767922052423 Yrths)
+        mass: 4.840 × 10<sup>28</sup> kg<br />(8104.880 Yrths)
         density: 2.256 g/cm<sup>3</sup>
         surface_gravity: 108.563 m/s<sup>2</sup><br />(11.070 g<sub>0</sub>)
         escape_velocity: 193.598 km/s<br />(696,953 km/h)
         rotation_period: 42.238 d
         axial_tilt: 21.89°
         albedo: 0.30
-        temperature: 385 K<br />(112 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 860 Lunaiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -217,14 +217,14 @@ planets:
         radius: 181,792.7 km<br/>(28.534 Yrths)
         surface_area: 4.153 × 10<sup>11</sup> km<sup>2</sup><br/>(814.212 Yrths)
         volume: 2.517 × 10<sup>16</sup> km<sup>3</sup><br/>(23233.050 Yrths)
-        mass: 5.103 × 10<sup>28</sup> kg<br />(207.98767922052423 Yrths)
+        mass: 5.103 × 10<sup>28</sup> kg<br />(8544.311 Yrths)
         density: 2.028 g/cm<sup>3</sup>
         surface_gravity: 102.911 m/s<sup>2</sup><br />(10.494 g<sub>0</sub>)
         escape_velocity: 193.566 km/s<br />(696,836 km/h)
         rotation_period: 60.444 d
         axial_tilt: 15.82°
         albedo: 0.30
-        temperature: 367 K<br />(94 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 860 Lunaiad II f
         type: Icy
         formationType: Accreted
@@ -237,14 +237,14 @@ planets:
         radius: 182,256.9 km<br/>(28.607 Yrths)
         surface_area: 4.174 × 10<sup>11</sup> km<sup>2</sup><br/>(818.375 Yrths)
         volume: 2.536 × 10<sup>16</sup> km<sup>3</sup><br/>(23411.477 Yrths)
-        mass: 3.231 × 10<sup>28</sup> kg<br />(207.98767922052423 Yrths)
+        mass: 3.231 × 10<sup>28</sup> kg<br />(5410.356 Yrths)
         density: 1.274 g/cm<sup>3</sup>
         surface_gravity: 64.833 m/s<sup>2</sup><br />(6.611 g<sub>0</sub>)
         escape_velocity: 153.833 km/s<br />(553,798 km/h)
         rotation_period: 44.650 d
         axial_tilt: 10.32°
         albedo: 0.30
-        temperature: 333 K<br />(60 °C)
+        temperature: 214 K<br />(-59 °C)
       - name: 860 Lunaiad II g
         type: Icy
         formationType: Accreted
@@ -257,14 +257,14 @@ planets:
         radius: 318,389.1 km<br/>(49.975 Yrths)
         surface_area: 1.274 × 10<sup>12</sup> km<sup>2</sup><br/>(2497.475 Yrths)
         volume: 1.352 × 10<sup>17</sup> km<sup>3</sup><br/>(124810.659 Yrths)
-        mass: 1.990 × 10<sup>29</sup> kg<br />(207.98767922052423 Yrths)
+        mass: 1.990 × 10<sup>29</sup> kg<br />(33330.083 Yrths)
         density: 1.472 g/cm<sup>3</sup>
         surface_gravity: 130.875 m/s<sup>2</sup><br />(13.346 g<sub>0</sub>)
         escape_velocity: 288.880 km/s<br />(1,039,967 km/h)
         rotation_period: 53.655 d
         axial_tilt: 20.53°
         albedo: 0.30
-        temperature: 303 K<br />(30 °C)
+        temperature: 214 K<br />(-59 °C)
   - name: 860 Lunaiad III
     type: Gas giant
     aphelion: 2,072,164,487 km<br />13.851 AU
@@ -276,7 +276,7 @@ planets:
     radius: 285.8 km<br/>(0.045 Yrths)
     surface_area: 1.027 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 9.782 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.709 × 10<sup>27</sup> kg<br />(788.5775989442004 Yrths)
+    mass: 4.709 × 10<sup>27</sup> kg<br />(788.58 Yrths)
     density: 48141613.611 g/cm<sup>3</sup>
     surface_gravity: 3841878.857 m/s<sup>2</sup><br />(391762.616 g<sub>0</sub>)
     escape_velocity: 1482.999 km/s<br />(5,338,796 km/h)
@@ -297,14 +297,14 @@ planets:
         radius: 403,853.5 km<br/>(63.389 Yrths)
         surface_area: 2.050 × 10<sup>12</sup> km<sup>2</sup><br/>(4018.210 Yrths)
         volume: 2.759 × 10<sup>17</sup> km<sup>3</sup><br/>(254711.688 Yrths)
-        mass: 6.187 × 10<sup>29</sup> kg<br />(788.5775989442004 Yrths)
+        mass: 6.187 × 10<sup>29</sup> kg<br />(103600.968 Yrths)
         density: 2.242 g/cm<sup>3</sup>
         surface_gravity: 252.844 m/s<sup>2</sup><br />(25.783 g<sub>0</sub>)
         escape_velocity: 452.218 km/s<br />(1,627,984 km/h)
         rotation_period: 36.904 d
         axial_tilt: 24.76°
         albedo: 0.30
-        temperature: 536 K<br />(263 °C)
+        temperature: 151 K<br />(-122 °C)
       - name: 860 Lunaiad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -317,14 +317,14 @@ planets:
         radius: 339,840.2 km<br/>(53.342 Yrths)
         surface_area: 1.451 × 10<sup>12</sup> km<sup>2</sup><br/>(2845.340 Yrths)
         volume: 1.644 × 10<sup>17</sup> km<sup>3</sup><br/>(151775.353 Yrths)
-        mass: 4.111 × 10<sup>29</sup> kg<br />(788.5775989442004 Yrths)
+        mass: 4.111 × 10<sup>29</sup> kg<br />(68846.206 Yrths)
         density: 2.501 g/cm<sup>3</sup>
         surface_gravity: 237.283 m/s<sup>2</sup><br />(24.196 g<sub>0</sub>)
         escape_velocity: 401.865 km/s<br />(1,446,715 km/h)
         rotation_period: 61.905 d
         axial_tilt: 17.51°
         albedo: 0.30
-        temperature: 464 K<br />(191 °C)
+        temperature: 151 K<br />(-122 °C)
       - name: 860 Lunaiad III c
         type: Icy
         formationType: Accreted
@@ -337,14 +337,14 @@ planets:
         radius: 527,533.0 km<br/>(82.802 Yrths)
         surface_area: 3.497 × 10<sup>12</sup> km<sup>2</sup><br/>(6856.209 Yrths)
         volume: 6.149 × 10<sup>17</sup> km<sup>3</sup><br/>(567709.424 Yrths)
-        mass: 5.873 × 10<sup>29</sup> kg<br />(788.5775989442004 Yrths)
+        mass: 5.873 × 10<sup>29</sup> kg<br />(98347.078 Yrths)
         density: 0.955 g/cm<sup>3</sup>
         surface_gravity: 140.669 m/s<sup>2</sup><br />(14.344 g<sub>0</sub>)
         escape_velocity: 385.508 km/s<br />(1,387,830 km/h)
         rotation_period: 55.135 d
         axial_tilt: 13.92°
         albedo: 0.30
-        temperature: 443 K<br />(170 °C)
+        temperature: 151 K<br />(-122 °C)
       - name: 860 Lunaiad III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -357,14 +357,14 @@ planets:
         radius: 363,336.1 km<br/>(57.030 Yrths)
         surface_area: 1.659 × 10<sup>12</sup> km<sup>2</sup><br/>(3252.385 Yrths)
         volume: 2.009 × 10<sup>17</sup> km<sup>3</sup><br/>(185482.465 Yrths)
-        mass: 4.502 × 10<sup>29</sup> kg<br />(788.5775989442004 Yrths)
+        mass: 4.502 × 10<sup>29</sup> kg<br />(75381.915 Yrths)
         density: 2.241 g/cm<sup>3</sup>
         surface_gravity: 227.293 m/s<sup>2</sup><br />(23.177 g<sub>0</sub>)
         escape_velocity: 406.684 km/s<br />(1,464,062 km/h)
         rotation_period: 41.108 d
         axial_tilt: 7.96°
         albedo: 0.30
-        temperature: 349 K<br />(76 °C)
+        temperature: 151 K<br />(-122 °C)
       - name: 860 Lunaiad III e
         type: Icy
         formationType: Impact formed
@@ -377,14 +377,14 @@ planets:
         radius: 383,331.6 km<br/>(60.168 Yrths)
         surface_area: 1.847 × 10<sup>12</sup> km<sup>2</sup><br/>(3620.212 Yrths)
         volume: 2.359 × 10<sup>17</sup> km<sup>3</sup><br/>(217821.609 Yrths)
-        mass: 4.082 × 10<sup>29</sup> kg<br />(788.5775989442004 Yrths)
+        mass: 4.082 × 10<sup>29</sup> kg<br />(68344.439 Yrths)
         density: 1.730 g/cm<sup>3</sup>
         surface_gravity: 185.136 m/s<sup>2</sup><br />(18.879 g<sub>0</sub>)
         escape_velocity: 377.001 km/s<br />(1,357,202 km/h)
         rotation_period: 46.105 d
         axial_tilt: 10.08°
         albedo: 0.30
-        temperature: 171 K<br />(-102 °C)
+        temperature: 151 K<br />(-122 °C)
       - name: 860 Lunaiad III f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -397,12 +397,12 @@ planets:
         radius: 441,024.0 km<br/>(69.224 Yrths)
         surface_area: 2.444 × 10<sup>12</sup> km<sup>2</sup><br/>(4791.916 Yrths)
         volume: 3.593 × 10<sup>17</sup> km<sup>3</sup><br/>(331713.951 Yrths)
-        mass: 7.245 × 10<sup>29</sup> kg<br />(788.5775989442004 Yrths)
+        mass: 7.245 × 10<sup>29</sup> kg<br />(121308.667 Yrths)
         density: 2.016 g/cm<sup>3</sup>
         surface_gravity: 248.258 m/s<sup>2</sup><br />(25.315 g<sub>0</sub>)
         escape_velocity: 468.266 km/s<br />(1,685,757 km/h)
         rotation_period: 50.759 d
         axial_tilt: 28.36°
         albedo: 0.30
-        temperature: 134 K<br />(-139 °C)
+        temperature: 151 K<br />(-122 °C)
 ---

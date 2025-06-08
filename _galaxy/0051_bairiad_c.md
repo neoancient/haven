@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Bairiad C is a star in the constellation Bair
+      0051 Bairiad C is a star in the constellation <a href="bair.html">Bair</a>
 distance: 534.44 ly
 apparent_magnitude: 8.07
 absolute_magnitude: 2.00
@@ -31,14 +31,14 @@ planets:
     radius: 182.4 km<br/>(0.029 Yrths)
     surface_area: 4.180 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.541 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.937 × 10<sup>26</sup> kg<br />(116.15599498790257 Yrths)
+    mass: 6.937 × 10<sup>26</sup> kg<br />(116.16 Yrths)
     density: 27297863.780 g/cm<sup>3</sup>
     surface_gravity: 1389999.819 m/s<sup>2</sup><br />(141740.535 g<sub>0</sub>)
     escape_velocity: 712.538 km/s<br />(2,565,136 km/h)
     rotation_period: 0.259 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1605 K<br />(1332 °C)
+    temperature: 1678 K<br />(1404 °C)
     composition:
       - 70.4790% hydrogen
       - 24.2870% helium
@@ -57,14 +57,14 @@ planets:
         radius: 95,100.3 km<br/>(14.927 Yrths)
         surface_area: 1.137 × 10<sup>11</sup> km<sup>2</sup><br/>(222.817 Yrths)
         volume: 3.603 × 10<sup>15</sup> km<sup>3</sup><br/>(3326.004 Yrths)
-        mass: 9.343 × 10<sup>27</sup> kg<br />(116.15599498790257 Yrths)
+        mass: 9.343 × 10<sup>27</sup> kg<br />(1564.413 Yrths)
         density: 2.593 g/cm<sup>3</sup>
         surface_gravity: 68.853 m/s<sup>2</sup><br />(7.021 g<sub>0</sub>)
         escape_velocity: 114.515 km/s<br />(412,254 km/h)
         rotation_period: 42.512 d
         axial_tilt: 23.34°
         albedo: 0.30
-        temperature: 2402 K<br />(2128 °C)
+        temperature: 391 K<br />(117 °C)
       - name: 0051 Bairiad C I b
         type: Rocky
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 99,832.5 km<br/>(15.670 Yrths)
         surface_area: 1.252 × 10<sup>11</sup> km<sup>2</sup><br/>(245.544 Yrths)
         volume: 4.168 × 10<sup>15</sup> km<sup>3</sup><br/>(3847.626 Yrths)
-        mass: 1.242 × 10<sup>28</sup> kg<br />(116.15599498790257 Yrths)
+        mass: 1.242 × 10<sup>28</sup> kg<br />(2080.122 Yrths)
         density: 2.981 g/cm<sup>3</sup>
         surface_gravity: 83.077 m/s<sup>2</sup><br />(8.471 g<sub>0</sub>)
         escape_velocity: 128.880 km/s<br />(463,969 km/h)
         rotation_period: 30.261 d
         axial_tilt: 19.08°
         albedo: 0.30
-        temperature: 1892 K<br />(1619 °C)
+        temperature: 391 K<br />(117 °C)
       - name: 0051 Bairiad C I c
         type: Icy
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 119,215.6 km<br/>(18.712 Yrths)
         surface_area: 1.786 × 10<sup>11</sup> km<sup>2</sup><br/>(350.148 Yrths)
         volume: 7.097 × 10<sup>15</sup> km<sup>3</sup><br/>(6552.044 Yrths)
-        mass: 1.160 × 10<sup>28</sup> kg<br />(116.15599498790257 Yrths)
+        mass: 1.160 × 10<sup>28</sup> kg<br />(1941.975 Yrths)
         density: 1.634 g/cm<sup>3</sup>
         surface_gravity: 54.389 m/s<sup>2</sup><br />(5.546 g<sub>0</sub>)
         escape_velocity: 113.955 km/s<br />(410,238 km/h)
         rotation_period: 44.649 d
         axial_tilt: 19.10°
         albedo: 0.30
-        temperature: 1120 K<br />(847 °C)
+        temperature: 391 K<br />(117 °C)
       - name: 0051 Bairiad C I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 86,322.4 km<br/>(13.549 Yrths)
         surface_area: 9.364 × 10<sup>10</sup> km<sup>2</sup><br/>(183.583 Yrths)
         volume: 2.694 × 10<sup>15</sup> km<sup>3</sup><br/>(2487.412 Yrths)
-        mass: 6.864 × 10<sup>27</sup> kg<br />(116.15599498790257 Yrths)
+        mass: 6.864 × 10<sup>27</sup> kg<br />(1149.447 Yrths)
         density: 2.548 g/cm<sup>3</sup>
         surface_gravity: 61.401 m/s<sup>2</sup><br />(6.261 g<sub>0</sub>)
         escape_velocity: 103.029 km/s<br />(370,905 km/h)
         rotation_period: 39.825 d
         axial_tilt: 29.75°
         albedo: 0.30
-        temperature: 971 K<br />(698 °C)
+        temperature: 391 K<br />(117 °C)
       - name: 0051 Bairiad C I e
         type: Rocky
         formationType: Accreted
@@ -137,14 +137,14 @@ planets:
         radius: 81,553.5 km<br/>(12.801 Yrths)
         surface_area: 8.358 × 10<sup>10</sup> km<sup>2</sup><br/>(163.859 Yrths)
         volume: 2.272 × 10<sup>15</sup> km<sup>3</sup><br/>(2097.514 Yrths)
-        mass: 6.366 × 10<sup>27</sup> kg<br />(116.15599498790257 Yrths)
+        mass: 6.366 × 10<sup>27</sup> kg<br />(1066.043 Yrths)
         density: 2.802 g/cm<sup>3</sup>
         surface_gravity: 63.801 m/s<sup>2</sup><br />(6.506 g<sub>0</sub>)
         escape_velocity: 102.081 km/s<br />(367,491 km/h)
         rotation_period: 38.071 d
         axial_tilt: 17.82°
         albedo: 0.30
-        temperature: 926 K<br />(653 °C)
+        temperature: 391 K<br />(117 °C)
       - name: 0051 Bairiad C I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -157,14 +157,14 @@ planets:
         radius: 114,776.6 km<br/>(18.015 Yrths)
         surface_area: 1.655 × 10<sup>11</sup> km<sup>2</sup><br/>(324.557 Yrths)
         volume: 6.334 × 10<sup>15</sup> km<sup>3</sup><br/>(5847.051 Yrths)
-        mass: 1.678 × 10<sup>28</sup> kg<br />(116.15599498790257 Yrths)
+        mass: 1.678 × 10<sup>28</sup> kg<br />(2809.192 Yrths)
         density: 2.649 g/cm<sup>3</sup>
         surface_gravity: 84.881 m/s<sup>2</sup><br />(8.655 g<sub>0</sub>)
         escape_velocity: 139.682 km/s<br />(502,857 km/h)
         rotation_period: 45.724 d
         axial_tilt: 25.03°
         albedo: 0.30
-        temperature: 842 K<br />(569 °C)
+        temperature: 391 K<br />(117 °C)
       - name: 0051 Bairiad C I g
         type: Icy
         formationType: Captured
@@ -177,14 +177,14 @@ planets:
         radius: 120,765.6 km<br/>(18.956 Yrths)
         surface_area: 1.833 × 10<sup>11</sup> km<sup>2</sup><br/>(359.312 Yrths)
         volume: 7.378 × 10<sup>15</sup> km<sup>3</sup><br/>(6810.945 Yrths)
-        mass: 6.502 × 10<sup>27</sup> kg<br />(116.15599498790257 Yrths)
+        mass: 6.502 × 10<sup>27</sup> kg<br />(1088.770 Yrths)
         density: 0.881 g/cm<sup>3</sup>
         surface_gravity: 29.716 m/s<sup>2</sup><br />(3.030 g<sub>0</sub>)
         escape_velocity: 84.776 km/s<br />(305,194 km/h)
         rotation_period: 62.045 d
         axial_tilt: 18.69°
         albedo: 0.30
-        temperature: 803 K<br />(529 °C)
+        temperature: 391 K<br />(117 °C)
   - name: 0051 Bairiad C II
     type: Terrestrial
     aphelion: 580,421,069 km<br />3.880 AU
@@ -196,14 +196,14 @@ planets:
     radius: 4,280.0 km<br/>(0.672 Yrths)
     surface_area: 2.302 × 10<sup>08</sup> km<sup>2</sup><br/>(0.451 Yrths)
     volume: 3.284 × 10<sup>11</sup> km<sup>3</sup><br/>(0.303 Yrths)
-    mass: 1.660 × 10<sup>24</sup> kg<br />(0.2778970324721953 Yrths)
+    mass: 1.660 × 10<sup>24</sup> kg<br />(0.28 Yrths)
     density: 5.053 g/cm<sup>3</sup>
     surface_gravity: 6.039 m/s<sup>2</sup><br />(0.616 g<sub>0</sub>)
     escape_velocity: 7.194 km/s<br />(25,900 km/h)
     rotation_period: 1.503 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 321 K<br />(48 °C)
+    temperature: 298 K<br />(25 °C)
     surface_pressure: 39 kPa<br />(0 atm)
     composition:
       - 92.8493% nitrogen
@@ -222,7 +222,7 @@ planets:
     radius: 255.7 km<br/>(0.040 Yrths)
     surface_area: 8.218 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.006 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.893 × 10<sup>27</sup> kg<br />(484.3639423325689 Yrths)
+    mass: 2.893 × 10<sup>27</sup> kg<br />(484.36 Yrths)
     density: 41289929.943 g/cm<sup>3</sup>
     surface_gravity: 2948051.901 m/s<sup>2</sup><br />(300617.632 g<sub>0</sub>)
     escape_velocity: 1228.770 km/s<br />(4,423,571 km/h)
@@ -243,14 +243,14 @@ planets:
         radius: 274,468.9 km<br/>(43.081 Yrths)
         surface_area: 9.467 × 10<sup>11</sup> km<sup>2</sup><br/>(1855.971 Yrths)
         volume: 8.661 × 10<sup>16</sup> km<sup>3</sup><br/>(79957.052 Yrths)
-        mass: 1.159 × 10<sup>29</sup> kg<br />(484.3639423325689 Yrths)
+        mass: 1.159 × 10<sup>29</sup> kg<br />(19400.850 Yrths)
         density: 1.338 g/cm<sup>3</sup>
         surface_gravity: 102.511 m/s<sup>2</sup><br />(10.453 g<sub>0</sub>)
         escape_velocity: 237.379 km/s<br />(854,563 km/h)
         rotation_period: 49.476 d
         axial_tilt: 14.54°
         albedo: 0.30
-        temperature: 846 K<br />(572 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0051 Bairiad C III b
         type: Rocky
         formationType: Accreted
@@ -263,14 +263,14 @@ planets:
         radius: 186,855.2 km<br/>(29.329 Yrths)
         surface_area: 4.388 × 10<sup>11</sup> km<sup>2</sup><br/>(860.192 Yrths)
         volume: 2.733 × 10<sup>16</sup> km<sup>3</sup><br/>(25228.583 Yrths)
-        mass: 9.838 × 10<sup>28</sup> kg<br />(484.3639423325689 Yrths)
+        mass: 9.838 × 10<sup>28</sup> kg<br />(16473.542 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 187.807 m/s<sup>2</sup><br />(19.151 g<sub>0</sub>)
         escape_velocity: 265.105 km/s<br />(954,380 km/h)
         rotation_period: 39.601 d
         axial_tilt: 13.36°
         albedo: 0.30
-        temperature: 733 K<br />(460 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0051 Bairiad C III c
         type: Icy
         formationType: Accreted
@@ -283,14 +283,14 @@ planets:
         radius: 300,076.1 km<br/>(47.100 Yrths)
         surface_area: 1.132 × 10<sup>12</sup> km<sup>2</sup><br/>(2218.440 Yrths)
         volume: 1.132 × 10<sup>17</sup> km<sup>3</sup><br/>(104489.229 Yrths)
-        mass: 1.087 × 10<sup>29</sup> kg<br />(484.3639423325689 Yrths)
+        mass: 1.087 × 10<sup>29</sup> kg<br />(18200.840 Yrths)
         density: 0.960 g/cm<sup>3</sup>
         surface_gravity: 80.457 m/s<sup>2</sup><br />(8.204 g<sub>0</sub>)
         escape_velocity: 219.891 km/s<br />(791,608 km/h)
         rotation_period: 94.553 d
         axial_tilt: 21.08°
         albedo: 0.30
-        temperature: 269 K<br />(-4 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0051 Bairiad C III d
         type: Asteroid
         formationType: Captured
@@ -303,7 +303,7 @@ planets:
         radius: 203,108.5 km<br/>(31.880 Yrths)
         surface_area: 5.184 × 10<sup>11</sup> km<sup>2</sup><br/>(1016.345 Yrths)
         volume: 3.510 × 10<sup>16</sup> km<sup>3</sup><br/>(32401.252 Yrths)
-        mass: 9.072 × 10<sup>28</sup> kg<br />(484.3639423325689 Yrths)
+        mass: 9.072 × 10<sup>28</sup> kg<br />(15191.135 Yrths)
         density: 2.585 g/cm<sup>3</sup>
         surface_gravity: 146.578 m/s<sup>2</sup><br />(14.947 g<sub>0</sub>)
         escape_velocity: 244.179 km/s<br />(879,045 km/h)
@@ -323,12 +323,12 @@ planets:
         radius: 215,071.4 km<br/>(33.758 Yrths)
         surface_area: 5.813 × 10<sup>11</sup> km<sup>2</sup><br/>(1139.594 Yrths)
         volume: 4.167 × 10<sup>16</sup> km<sup>3</sup><br/>(38470.261 Yrths)
-        mass: 8.450 × 10<sup>28</sup> kg<br />(484.3639423325689 Yrths)
+        mass: 8.450 × 10<sup>28</sup> kg<br />(14148.725 Yrths)
         density: 2.028 g/cm<sup>3</sup>
         surface_gravity: 121.755 m/s<sup>2</sup><br />(12.416 g<sub>0</sub>)
         escape_velocity: 229.005 km/s<br />(824,418 km/h)
         rotation_period: 40.123 d
         axial_tilt: 17.35°
         albedo: 0.30
-        temperature: 175 K<br />(-98 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

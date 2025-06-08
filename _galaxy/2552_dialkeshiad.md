@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2552 Dialkeshiad is a star in the constellation Dialkes
+      2552 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 352.41 ly
 apparent_magnitude: 11.37
 absolute_magnitude: 6.20

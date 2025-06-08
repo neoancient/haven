@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      191 Lulithannaid is a star in the constellation Lulithan
+      191 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 286.19 ly
 apparent_magnitude: 11.85
 absolute_magnitude: 7.14

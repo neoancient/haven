@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4872 Dialkeshiad A is a star in the constellation Dialkes
+      4872 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 557.44 ly
 apparent_magnitude: 7.92
 absolute_magnitude: 1.75

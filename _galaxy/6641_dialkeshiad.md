@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6641 Dialkeshiad is a star in the constellation Dialkes
+      6641 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 559.93 ly
 apparent_magnitude: 11.50
 absolute_magnitude: 5.33

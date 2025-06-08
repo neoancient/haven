@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13664 Shanniashiad A is a star in the constellation Shannias
+      13664 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 474.77 ly
 apparent_magnitude: 8.20
 absolute_magnitude: 2.39

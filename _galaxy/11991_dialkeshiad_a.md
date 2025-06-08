@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11991 Dialkeshiad A is a star in the constellation Dialkes
+      11991 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 198.60 ly
 apparent_magnitude: 6.66
 absolute_magnitude: 2.74

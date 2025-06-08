@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      185 Morrishothiad is a star in the constellation Morrishoth
+      185 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 634.40 ly
 apparent_magnitude: 12.12
 absolute_magnitude: 5.67

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0151 Reggiad B is a star in the constellation Reg
+      0151 Reggiad B is a star in the constellation <a href="reg.html">Reg</a>
 distance: 1848.00 ly
 apparent_magnitude: 17.17
 absolute_magnitude: 8.40

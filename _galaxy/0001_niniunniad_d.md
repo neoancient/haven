@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0001 Niniunniad D is a star in the constellation Niniun
+      0001 Niniunniad D is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 266.45 ly
 apparent_magnitude: 8.19
 absolute_magnitude: 3.62
@@ -31,14 +31,14 @@ planets:
     radius: 6,104.6 km<br/>(0.958 Yrths)
     surface_area: 4.683 × 10<sup>08</sup> km<sup>2</sup><br/>(0.918 Yrths)
     volume: 9.529 × 10<sup>11</sup> km<sup>3</sup><br/>(0.880 Yrths)
-    mass: 4.672 × 10<sup>24</sup> kg<br />(0.7823908826849877 Yrths)
+    mass: 4.672 × 10<sup>24</sup> kg<br />(0.78 Yrths)
     density: 4.903 g/cm<sup>3</sup>
     surface_gravity: 8.357 m/s<sup>2</sup><br />(0.852 g<sub>0</sub>)
     escape_velocity: 10.108 km/s<br />(36,388 km/h)
     rotation_period: 1.223 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 405 K<br />(132 °C)
+    temperature: 369 K<br />(96 °C)
     surface_pressure: 74 kPa<br />(1 atm)
     composition:
       - 90.0963% nitrogen
@@ -58,12 +58,12 @@ planets:
         radius: 2,443.3 km<br/>(0.383 Yrths)
         surface_area: 7.502 × 10<sup>07</sup> km<sup>2</sup><br/>(0.147 Yrths)
         volume: 6.109 × 10<sup>10</sup> km<sup>3</sup><br/>(0.056 Yrths)
-        mass: 1.258 × 10<sup>23</sup> kg<br />(0.7823908826849877 Yrths)
+        mass: 1.258 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 2.058 g/cm<sup>3</sup>
         surface_gravity: 1.404 m/s<sup>2</sup><br />(0.143 g<sub>0</sub>)
         escape_velocity: 2.621 km/s<br />(9,436 km/h)
         rotation_period: 37.256 d
         axial_tilt: 36.20°
         albedo: 0.30
-        temperature: 5359 K<br />(5086 °C)
+        temperature: 341 K<br />(68 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      319 Rinkaiad is a star in the constellation Rinka
+      319 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 933.51 ly
 apparent_magnitude: 12.64
 absolute_magnitude: 5.35

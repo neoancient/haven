@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1609 Athiad is a star in the constellation Ath
+      1609 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 396.78 ly
 apparent_magnitude: 10.16
 absolute_magnitude: 4.74

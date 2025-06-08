@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      290 Ruanead is a star in the constellation Ruane
+      290 Ruanead is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 233.19 ly
 apparent_magnitude: 17.36
 absolute_magnitude: 13.09

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0018 Pokiad is a star in the constellation Poke
+      0018 Pokiad is a star in the constellation <a href="poke.html">Poke</a>
 distance: 135.97 ly
 apparent_magnitude: 5.93
 absolute_magnitude: 2.83
@@ -31,14 +31,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.112 g/cm<sup>3</sup>
     surface_gravity: 31873.845 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 1377 K<br />(1104 °C)
+    temperature: 1373 K<br />(1100 °C)
     composition:
       - 71.5865% helium
       - 28.4135% nitric oxide
@@ -55,14 +55,14 @@ planets:
         radius: 1,342.2 km<br/>(0.211 Yrths)
         surface_area: 2.264 × 10<sup>07</sup> km<sup>2</sup><br/>(0.044 Yrths)
         volume: 1.013 × 10<sup>10</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 1.188 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.188 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.173 g/cm<sup>3</sup>
         surface_gravity: 0.440 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 1.087 km/s<br />(3,914 km/h)
         rotation_period: 70.616 d
         axial_tilt: 11.11°
         albedo: 0.30
-        temperature: 5639 K<br />(5366 °C)
+        temperature: 368 K<br />(95 °C)
       - name: 0018 Pokiad I b
         type: Icy
         formationType: Accreted
@@ -75,14 +75,14 @@ planets:
         radius: 814.1 km<br/>(0.128 Yrths)
         surface_area: 8.329 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.260 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.940 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.940 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.858 g/cm<sup>3</sup>
         surface_gravity: 0.195 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.564 km/s<br />(2,030 km/h)
         rotation_period: 61.156 d
         axial_tilt: 8.40°
         albedo: 0.30
-        temperature: 3183 K<br />(2910 °C)
+        temperature: 368 K<br />(95 °C)
       - name: 0018 Pokiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -95,14 +95,14 @@ planets:
         radius: 764.0 km<br/>(0.120 Yrths)
         surface_area: 7.335 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.868 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.157 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.157 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.761 g/cm<sup>3</sup>
         surface_gravity: 0.589 m/s<sup>2</sup><br />(0.060 g<sub>0</sub>)
         escape_velocity: 0.949 km/s<br />(3,417 km/h)
         rotation_period: 43.776 d
         axial_tilt: 21.02°
         albedo: 0.30
-        temperature: 2508 K<br />(2235 °C)
+        temperature: 368 K<br />(95 °C)
       - name: 0018 Pokiad I d
         type: Icy
         formationType: Accreted
@@ -115,14 +115,14 @@ planets:
         radius: 999.4 km<br/>(0.157 Yrths)
         surface_area: 1.255 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.181 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 3.279 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.279 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.784 g/cm<sup>3</sup>
         surface_gravity: 0.219 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.662 km/s<br />(2,383 km/h)
         rotation_period: 72.105 d
         axial_tilt: 27.67°
         albedo: 0.30
-        temperature: 2392 K<br />(2118 °C)
+        temperature: 368 K<br />(95 °C)
       - name: 0018 Pokiad I e
         type: Rocky
         formationType: Accreted
@@ -135,14 +135,14 @@ planets:
         radius: 552.3 km<br/>(0.087 Yrths)
         surface_area: 3.834 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.058 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.207 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.207 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.126 g/cm<sup>3</sup>
         surface_gravity: 0.482 m/s<sup>2</sup><br />(0.049 g<sub>0</sub>)
         escape_velocity: 0.730 km/s<br />(2,629 km/h)
         rotation_period: 54.349 d
         axial_tilt: 13.51°
         albedo: 0.30
-        temperature: 2174 K<br />(1901 °C)
+        temperature: 368 K<br />(95 °C)
       - name: 0018 Pokiad I f
         type: Dwarf planet
         formationType: Impact formed
@@ -155,14 +155,14 @@ planets:
         radius: 691.1 km<br/>(0.108 Yrths)
         surface_area: 6.002 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.383 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.322 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.322 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.680 g/cm<sup>3</sup>
         surface_gravity: 0.324 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.670 km/s<br />(2,411 km/h)
         rotation_period: 69.263 d
         axial_tilt: 23.35°
         albedo: 0.30
-        temperature: 799 K<br />(526 °C)
+        temperature: 368 K<br />(95 °C)
   - name: 0018 Pokiad II
     type: Large terrestrial
     aphelion: 397,868,496 km<br />2.660 AU
@@ -174,14 +174,14 @@ planets:
     radius: 10,696.5 km<br/>(1.679 Yrths)
     surface_area: 1.438 × 10<sup>09</sup> km<sup>2</sup><br/>(2.819 Yrths)
     volume: 5.126 × 10<sup>12</sup> km<sup>3</sup><br/>(4.733 Yrths)
-    mass: 3.109 × 10<sup>25</sup> kg<br />(5.205988025921705 Yrths)
+    mass: 3.109 × 10<sup>25</sup> kg<br />(5.21 Yrths)
     density: 6.065 g/cm<sup>3</sup>
     surface_gravity: 18.112 m/s<sup>2</sup><br />(1.847 g<sub>0</sub>)
     escape_velocity: 19.697 km/s<br />(70,911 km/h)
     rotation_period: 0.606 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 413 K<br />(139 °C)
+    temperature: 500 K<br />(227 °C)
     surface_pressure: 2,488 kPa<br />(25 atm)
     composition:
       - 81.7714% methane
@@ -199,14 +199,14 @@ planets:
         radius: 9,754.9 km<br/>(1.531 Yrths)
         surface_area: 1.196 × 10<sup>09</sup> km<sup>2</sup><br/>(2.344 Yrths)
         volume: 3.888 × 10<sup>12</sup> km<sup>3</sup><br/>(3.590 Yrths)
-        mass: 9.978 × 10<sup>24</sup> kg<br />(5.205988025921705 Yrths)
+        mass: 9.978 × 10<sup>24</sup> kg<br />(1.671 Yrths)
         density: 2.566 g/cm<sup>3</sup>
         surface_gravity: 6.989 m/s<sup>2</sup><br />(0.713 g<sub>0</sub>)
         escape_velocity: 11.685 km/s<br />(42,066 km/h)
         rotation_period: 35.496 d
         axial_tilt: 23.47°
         albedo: 0.30
-        temperature: 3282 K<br />(3009 °C)
+        temperature: 272 K<br />(-2 °C)
   - name: 0018 Pokiad III
     type: Gas giant
     aphelion: 713,955,192 km<br />4.772 AU
@@ -218,14 +218,14 @@ planets:
     radius: 204.0 km<br/>(0.032 Yrths)
     surface_area: 5.228 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.555 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.098 × 10<sup>27</sup> kg<br />(183.90442998251442 Yrths)
+    mass: 1.098 × 10<sup>27</sup> kg<br />(183.90 Yrths)
     density: 30894081.646 g/cm<sup>3</sup>
     surface_gravity: 1759392.283 m/s<sup>2</sup><br />(179408.084 g<sub>0</sub>)
     escape_velocity: 847.779 km/s<br />(3,052,003 km/h)
     rotation_period: 0.247 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 732 K<br />(459 °C)
+    temperature: 693 K<br />(420 °C)
     composition:
       - 67.7654% hydrogen
       - 32.2346% helium
@@ -242,14 +242,14 @@ planets:
         radius: 134,080.1 km<br/>(21.045 Yrths)
         surface_area: 2.259 × 10<sup>11</sup> km<sup>2</sup><br/>(442.908 Yrths)
         volume: 1.010 × 10<sup>16</sup> km<sup>3</sup><br/>(9321.154 Yrths)
-        mass: 1.536 × 10<sup>28</sup> kg<br />(183.90442998251442 Yrths)
+        mass: 1.536 × 10<sup>28</sup> kg<br />(2571.550 Yrths)
         density: 1.521 g/cm<sup>3</sup>
         surface_gravity: 56.938 m/s<sup>2</sup><br />(5.806 g<sub>0</sub>)
         escape_velocity: 123.650 km/s<br />(445,139 km/h)
         rotation_period: 65.095 d
         axial_tilt: 22.35°
         albedo: 0.30
-        temperature: 1108 K<br />(835 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 0018 Pokiad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -262,14 +262,14 @@ planets:
         radius: 120,295.8 km<br/>(18.882 Yrths)
         surface_area: 1.818 × 10<sup>11</sup> km<sup>2</sup><br/>(356.522 Yrths)
         volume: 7.292 × 10<sup>15</sup> km<sup>3</sup><br/>(6731.766 Yrths)
-        mass: 1.964 × 10<sup>28</sup> kg<br />(183.90442998251442 Yrths)
+        mass: 1.964 × 10<sup>28</sup> kg<br />(3288.844 Yrths)
         density: 2.694 g/cm<sup>3</sup>
         surface_gravity: 90.464 m/s<sup>2</sup><br />(9.225 g<sub>0</sub>)
         escape_velocity: 147.630 km/s<br />(531,467 km/h)
         rotation_period: 33.220 d
         axial_tilt: 5.83°
         albedo: 0.30
-        temperature: 960 K<br />(687 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 0018 Pokiad III c
         type: Icy
         formationType: Accreted
@@ -282,14 +282,14 @@ planets:
         radius: 195,344.0 km<br/>(30.661 Yrths)
         surface_area: 4.795 × 10<sup>11</sup> km<sup>2</sup><br/>(940.123 Yrths)
         volume: 3.122 × 10<sup>16</sup> km<sup>3</sup><br/>(28825.529 Yrths)
-        mass: 2.564 × 10<sup>28</sup> kg<br />(183.90442998251442 Yrths)
+        mass: 2.564 × 10<sup>28</sup> kg<br />(4293.685 Yrths)
         density: 0.821 g/cm<sup>3</sup>
         surface_gravity: 44.788 m/s<sup>2</sup><br />(4.567 g<sub>0</sub>)
         escape_velocity: 132.371 km/s<br />(476,536 km/h)
         rotation_period: 88.737 d
         axial_tilt: 8.68°
         albedo: 0.30
-        temperature: 470 K<br />(197 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 0018 Pokiad III d
         type: Icy
         formationType: Accreted
@@ -302,14 +302,14 @@ planets:
         radius: 165,198.6 km<br/>(25.930 Yrths)
         surface_area: 3.429 × 10<sup>11</sup> km<sup>2</sup><br/>(672.353 Yrths)
         volume: 1.888 × 10<sup>16</sup> km<sup>3</sup><br/>(17433.960 Yrths)
-        mass: 1.893 × 10<sup>28</sup> kg<br />(183.90442998251442 Yrths)
+        mass: 1.893 × 10<sup>28</sup> kg<br />(3170.332 Yrths)
         density: 1.003 g/cm<sup>3</sup>
         surface_gravity: 46.241 m/s<sup>2</sup><br />(4.715 g<sub>0</sub>)
         escape_velocity: 123.688 km/s<br />(445,276 km/h)
         rotation_period: 92.141 d
         axial_tilt: 6.60°
         albedo: 0.30
-        temperature: 388 K<br />(115 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 0018 Pokiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -322,14 +322,14 @@ planets:
         radius: 164,101.9 km<br/>(25.758 Yrths)
         surface_area: 3.384 × 10<sup>11</sup> km<sup>2</sup><br/>(663.455 Yrths)
         volume: 1.851 × 10<sup>16</sup> km<sup>3</sup><br/>(17089.040 Yrths)
-        mass: 3.742 × 10<sup>28</sup> kg<br />(183.90442998251442 Yrths)
+        mass: 3.742 × 10<sup>28</sup> kg<br />(6265.736 Yrths)
         density: 2.021 g/cm<sup>3</sup>
         surface_gravity: 92.615 m/s<sup>2</sup><br />(9.444 g<sub>0</sub>)
         escape_velocity: 174.465 km/s<br />(628,072 km/h)
         rotation_period: 53.065 d
         axial_tilt: 24.92°
         albedo: 0.30
-        temperature: 353 K<br />(80 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 0018 Pokiad III f
         type: Icy
         formationType: Impact formed
@@ -342,14 +342,14 @@ planets:
         radius: 187,603.3 km<br/>(29.446 Yrths)
         surface_area: 4.423 × 10<sup>11</sup> km<sup>2</sup><br/>(867.094 Yrths)
         volume: 2.766 × 10<sup>16</sup> km<sup>3</sup><br/>(25532.830 Yrths)
-        mass: 2.908 × 10<sup>28</sup> kg<br />(183.90442998251442 Yrths)
+        mass: 2.908 × 10<sup>28</sup> kg<br />(4869.486 Yrths)
         density: 1.051 g/cm<sup>3</sup>
         surface_gravity: 55.073 m/s<sup>2</sup><br />(5.616 g<sub>0</sub>)
         escape_velocity: 143.846 km/s<br />(517,847 km/h)
         rotation_period: 53.998 d
         axial_tilt: 22.29°
         albedo: 0.30
-        temperature: 321 K<br />(48 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 0018 Pokiad III g
         type: Icy
         formationType: Accreted
@@ -362,14 +362,14 @@ planets:
         radius: 307,377.6 km<br/>(48.246 Yrths)
         surface_area: 1.187 × 10<sup>12</sup> km<sup>2</sup><br/>(2327.712 Yrths)
         volume: 1.216 × 10<sup>17</sup> km<sup>3</sup><br/>(112303.643 Yrths)
-        mass: 1.389 × 10<sup>29</sup> kg<br />(183.90442998251442 Yrths)
+        mass: 1.389 × 10<sup>29</sup> kg<br />(23261.029 Yrths)
         density: 1.142 g/cm<sup>3</sup>
         surface_gravity: 97.999 m/s<sup>2</sup><br />(9.993 g<sub>0</sub>)
         escape_velocity: 245.616 km/s<br />(884,216 km/h)
         rotation_period: 52.856 d
         axial_tilt: 12.55°
         albedo: 0.30
-        temperature: 306 K<br />(33 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 0018 Pokiad III h
         type: Icy
         formationType: Captured
@@ -382,14 +382,14 @@ planets:
         radius: 178,503.8 km<br/>(28.018 Yrths)
         surface_area: 4.004 × 10<sup>11</sup> km<sup>2</sup><br/>(785.018 Yrths)
         volume: 2.382 × 10<sup>16</sup> km<sup>3</sup><br/>(21994.764 Yrths)
-        mass: 1.668 × 10<sup>28</sup> kg<br />(183.90442998251442 Yrths)
+        mass: 1.668 × 10<sup>28</sup> kg<br />(2792.602 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 34.886 m/s<sup>2</sup><br />(3.557 g<sub>0</sub>)
         escape_velocity: 111.676 km/s<br />(402,032 km/h)
         rotation_period: 67.381 d
         axial_tilt: 20.22°
         albedo: 0.30
-        temperature: 199 K<br />(-74 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 0018 Pokiad III i
         type: Icy
         formationType: Accreted
@@ -402,14 +402,14 @@ planets:
         radius: 126,430.3 km<br/>(19.845 Yrths)
         surface_area: 2.009 × 10<sup>11</sup> km<sup>2</sup><br/>(393.810 Yrths)
         volume: 8.465 × 10<sup>15</sup> km<sup>3</sup><br/>(7815.034 Yrths)
-        mass: 1.430 × 10<sup>28</sup> kg<br />(183.90442998251442 Yrths)
+        mass: 1.430 × 10<sup>28</sup> kg<br />(2395.163 Yrths)
         density: 1.690 g/cm<sup>3</sup>
         surface_gravity: 59.644 m/s<sup>2</sup><br />(6.082 g<sub>0</sub>)
         escape_velocity: 122.891 km/s<br />(442,407 km/h)
         rotation_period: 63.482 d
         axial_tilt: 21.31°
         albedo: 0.30
-        temperature: 112 K<br />(-161 °C)
+        temperature: 200 K<br />(-73 °C)
   - name: 0018 Pokiad IV
     type: Ice giant
     aphelion: 1,285,011,306 km<br />8.590 AU
@@ -421,14 +421,14 @@ planets:
     radius: 33,765.1 km<br/>(5.300 Yrths)
     surface_area: 1.433 × 10<sup>10</sup> km<sup>2</sup><br/>(28.088 Yrths)
     volume: 1.612 × 10<sup>14</sup> km<sup>3</sup><br/>(148.862 Yrths)
-    mass: 2.312 × 10<sup>26</sup> kg<br />(38.71032048426352 Yrths)
+    mass: 2.312 × 10<sup>26</sup> kg<br />(38.71 Yrths)
     density: 1.434 g/cm<sup>3</sup>
     surface_gravity: 13.515 m/s<sup>2</sup><br />(1.378 g<sub>0</sub>)
     escape_velocity: 30.231 km/s<br />(108,833 km/h)
     rotation_period: 0.300 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 315 K<br />(42 °C)
+    temperature: 293 K<br />(20 °C)
     composition:
       - 61.3889% hydrogen
       - 30.5069% helium
@@ -448,14 +448,14 @@ planets:
         radius: 33,985.5 km<br/>(5.334 Yrths)
         surface_area: 1.451 × 10<sup>10</sup> km<sup>2</sup><br/>(28.456 Yrths)
         volume: 1.644 × 10<sup>14</sup> km<sup>3</sup><br/>(151.796 Yrths)
-        mass: 3.798 × 10<sup>26</sup> kg<br />(38.71032048426352 Yrths)
+        mass: 3.798 × 10<sup>26</sup> kg<br />(63.591 Yrths)
         density: 2.310 g/cm<sup>3</sup>
         surface_gravity: 21.915 m/s<sup>2</sup><br />(2.235 g<sub>0</sub>)
         escape_velocity: 38.622 km/s<br />(139,037 km/h)
         rotation_period: 40.051 d
         axial_tilt: 14.82°
         albedo: 0.30
-        temperature: 1115 K<br />(841 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 0018 Pokiad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -468,14 +468,14 @@ planets:
         radius: 27,419.1 km<br/>(4.304 Yrths)
         surface_area: 9.447 × 10<sup>09</sup> km<sup>2</sup><br/>(18.522 Yrths)
         volume: 8.635 × 10<sup>13</sup> km<sup>3</sup><br/>(79.714 Yrths)
-        mass: 1.737 × 10<sup>26</sup> kg<br />(38.71032048426352 Yrths)
+        mass: 1.737 × 10<sup>26</sup> kg<br />(29.091 Yrths)
         density: 2.012 g/cm<sup>3</sup>
         surface_gravity: 15.402 m/s<sup>2</sup><br />(1.571 g<sub>0</sub>)
         escape_velocity: 29.082 km/s<br />(104,697 km/h)
         rotation_period: 60.855 d
         axial_tilt: 10.01°
         albedo: 0.30
-        temperature: 798 K<br />(525 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 0018 Pokiad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -488,14 +488,14 @@ planets:
         radius: 24,102.3 km<br/>(3.783 Yrths)
         surface_area: 7.300 × 10<sup>09</sup> km<sup>2</sup><br/>(14.312 Yrths)
         volume: 5.865 × 10<sup>13</sup> km<sup>3</sup><br/>(54.145 Yrths)
-        mass: 1.110 × 10<sup>26</sup> kg<br />(38.71032048426352 Yrths)
+        mass: 1.110 × 10<sup>26</sup> kg<br />(18.586 Yrths)
         density: 1.893 g/cm<sup>3</sup>
         surface_gravity: 12.735 m/s<sup>2</sup><br />(1.299 g<sub>0</sub>)
         escape_velocity: 24.794 km/s<br />(89,257 km/h)
         rotation_period: 37.707 d
         axial_tilt: 10.63°
         albedo: 0.30
-        temperature: 761 K<br />(488 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 0018 Pokiad IV d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -508,14 +508,14 @@ planets:
         radius: 27,056.8 km<br/>(4.247 Yrths)
         surface_area: 9.199 × 10<sup>09</sup> km<sup>2</sup><br/>(18.036 Yrths)
         volume: 8.297 × 10<sup>13</sup> km<sup>3</sup><br/>(76.596 Yrths)
-        mass: 1.435 × 10<sup>26</sup> kg<br />(38.71032048426352 Yrths)
+        mass: 1.435 × 10<sup>26</sup> kg<br />(24.024 Yrths)
         density: 1.729 g/cm<sup>3</sup>
         surface_gravity: 13.062 m/s<sup>2</sup><br />(1.332 g<sub>0</sub>)
         escape_velocity: 26.605 km/s<br />(95,777 km/h)
         rotation_period: 43.500 d
         axial_tilt: 25.66°
         albedo: 0.30
-        temperature: 726 K<br />(453 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 0018 Pokiad IV e
         type: Icy
         formationType: Accreted
@@ -528,12 +528,12 @@ planets:
         radius: 58,911.0 km<br/>(9.247 Yrths)
         surface_area: 4.361 × 10<sup>10</sup> km<sup>2</sup><br/>(85.502 Yrths)
         volume: 8.564 × 10<sup>14</sup> km<sup>3</sup><br/>(790.619 Yrths)
-        mass: 9.735 × 10<sup>26</sup> kg<br />(38.71032048426352 Yrths)
+        mass: 9.735 × 10<sup>26</sup> kg<br />(163.005 Yrths)
         density: 1.137 g/cm<sup>3</sup>
         surface_gravity: 18.696 m/s<sup>2</sup><br />(1.906 g<sub>0</sub>)
         escape_velocity: 46.966 km/s<br />(169,076 km/h)
         rotation_period: 64.788 d
         axial_tilt: 9.40°
         albedo: 0.30
-        temperature: 660 K<br />(387 °C)
+        temperature: 148 K<br />(-125 °C)
 ---

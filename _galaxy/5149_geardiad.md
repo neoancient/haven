@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5149 Geardiad is a star in the constellation Geard
+      5149 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 262.39 ly
 apparent_magnitude: 11.67
 absolute_magnitude: 7.14

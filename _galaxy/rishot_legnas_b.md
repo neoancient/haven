@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rishot Legnas B is a star in the constellation Rishauth
+      Rishot Legnas B is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 2895.09 ly
 apparent_magnitude: 3.50
 absolute_magnitude: -6.24

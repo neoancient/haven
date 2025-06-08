@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7748 Tanashad A is a star in the constellation Tanas
+      7748 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 434.61 ly
 apparent_magnitude: 7.28
 absolute_magnitude: 1.66

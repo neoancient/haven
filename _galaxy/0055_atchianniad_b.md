@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0055 Atchianniad B is a star in the constellation Atchian
+      0055 Atchianniad B is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 309.36 ly
 apparent_magnitude: 9.51
 absolute_magnitude: 4.62

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0346 Tanashad C is a star in the constellation Tanas
+      0346 Tanashad C is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 2344.31 ly
 apparent_magnitude: 15.85
 absolute_magnitude: 6.57

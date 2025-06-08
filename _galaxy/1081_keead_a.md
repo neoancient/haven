@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1081 Keead A is a star in the constellation Kee
+      1081 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 445.60 ly
 apparent_magnitude: 8.27
 absolute_magnitude: 2.59

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5441 Noniashad is a star in the constellation Nonias
+      5441 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 523.37 ly
 apparent_magnitude: 10.78
 absolute_magnitude: 4.76

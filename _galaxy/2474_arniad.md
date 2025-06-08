@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2474 Arniad is a star in the constellation Arni
+      2474 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 828.37 ly
 apparent_magnitude: 12.22
 absolute_magnitude: 5.20

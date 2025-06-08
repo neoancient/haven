@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      26 Nuaniad is a star in the constellation Nuani
+      26 Nuaniad is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 207.70 ly
 apparent_magnitude: 8.80
 absolute_magnitude: 4.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1535 Geardiad is a star in the constellation Geard
+      1535 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 438.70 ly
 apparent_magnitude: 10.45
 absolute_magnitude: 4.81

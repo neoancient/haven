@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0078 Mioruaniad is a star in the constellation Mioruane
+      0078 Mioruaniad is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 736.76 ly
 apparent_magnitude: 5.83
 absolute_magnitude: -0.94
@@ -31,14 +31,14 @@ planets:
     radius: 3,408.1 km<br/>(0.535 Yrths)
     surface_area: 1.460 × 10<sup>08</sup> km<sup>2</sup><br/>(0.286 Yrths)
     volume: 1.658 × 10<sup>11</sup> km<sup>3</sup><br/>(0.153 Yrths)
-    mass: 8.898 × 10<sup>23</sup> kg<br />(0.14899593940370992 Yrths)
+    mass: 8.898 × 10<sup>23</sup> kg<br />(0.15 Yrths)
     density: 5.366 g/cm<sup>3</sup>
     surface_gravity: 5.106 m/s<sup>2</sup><br />(0.521 g<sub>0</sub>)
     escape_velocity: 5.903 km/s<br />(21,252 km/h)
     rotation_period: 1.784 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 447 K<br />(173 °C)
+    temperature: 521 K<br />(248 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 50.2627% methane
@@ -58,14 +58,14 @@ planets:
         radius: 651.5 km<br/>(0.102 Yrths)
         surface_area: 5.333 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.158 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.694 × 10<sup>21</sup> kg<br />(0.14899593940370992 Yrths)
+        mass: 2.694 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.326 g/cm<sup>3</sup>
         surface_gravity: 0.423 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.743 km/s<br />(2,675 km/h)
         rotation_period: 53.629 d
         axial_tilt: 36.32°
         albedo: 0.30
-        temperature: 9897 K<br />(9623 °C)
+        temperature: 406 K<br />(133 °C)
   - name: 0078 Mioruaniad II
     type: Large terrestrial
     aphelion: 2,333,101,116 km<br />15.596 AU
@@ -77,15 +77,15 @@ planets:
     radius: 9,231.5 km<br/>(1.449 Yrths)
     surface_area: 1.071 × 10<sup>09</sup> km<sup>2</sup><br/>(2.100 Yrths)
     volume: 3.295 × 10<sup>12</sup> km<sup>3</sup><br/>(3.042 Yrths)
-    mass: 2.476 × 10<sup>25</sup> kg<br />(4.146443572816073 Yrths)
+    mass: 2.476 × 10<sup>25</sup> kg<br />(4.15 Yrths)
     density: 7.514 g/cm<sup>3</sup>
     surface_gravity: 19.367 m/s<sup>2</sup><br />(1.975 g<sub>0</sub>)
     escape_velocity: 18.923 km/s<br />(68,121 km/h)
     rotation_period: 0.602 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 447 K<br />(174 °C)
-    surface_pressure: 7,893 kPa<br />(78 atm)
+    temperature: 542 K<br />(269 °C)
+    surface_pressure: 7,893 kPa<br />(79 atm)
     composition:
       - 84.0325% nitrogen
       - 13.1414% carbon dioxide
@@ -104,14 +104,14 @@ planets:
         radius: 8,869.2 km<br/>(1.392 Yrths)
         surface_area: 9.885 × 10<sup>08</sup> km<sup>2</sup><br/>(1.938 Yrths)
         volume: 2.922 × 10<sup>12</sup> km<sup>3</sup><br/>(2.698 Yrths)
-        mass: 8.411 × 10<sup>24</sup> kg<br />(4.146443572816073 Yrths)
+        mass: 8.411 × 10<sup>24</sup> kg<br />(1.408 Yrths)
         density: 2.878 g/cm<sup>3</sup>
         surface_gravity: 7.127 m/s<sup>2</sup><br />(0.727 g<sub>0</sub>)
         escape_velocity: 11.251 km/s<br />(40,505 km/h)
         rotation_period: 51.205 d
         axial_tilt: 14.48°
         albedo: 0.30
-        temperature: 3931 K<br />(3658 °C)
+        temperature: 276 K<br />(3 °C)
       - name: 0078 Mioruaniad II b
         type: Dwarf planet
         formationType: Accreted
@@ -124,12 +124,12 @@ planets:
         radius: 7,330.5 km<br/>(1.151 Yrths)
         surface_area: 6.753 × 10<sup>08</sup> km<sup>2</sup><br/>(1.324 Yrths)
         volume: 1.650 × 10<sup>12</sup> km<sup>3</sup><br/>(1.523 Yrths)
-        mass: 3.252 × 10<sup>24</sup> kg<br />(4.146443572816073 Yrths)
+        mass: 3.252 × 10<sup>24</sup> kg<br />(0.545 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 4.034 m/s<sup>2</sup><br />(0.411 g<sub>0</sub>)
         escape_velocity: 7.695 km/s<br />(27,703 km/h)
         rotation_period: 38.897 d
         axial_tilt: 17.21°
         albedo: 0.30
-        temperature: 3748 K<br />(3475 °C)
+        temperature: 276 K<br />(3 °C)
 ---

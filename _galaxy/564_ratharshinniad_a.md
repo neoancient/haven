@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      564 Ratharshinniad A is a star in the constellation Ratharshin
+      564 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 184.17 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 5.69

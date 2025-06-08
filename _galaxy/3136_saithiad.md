@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3136 Saithiad is a star in the constellation Saith
+      3136 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1080.79 ly
 apparent_magnitude: 11.22
 absolute_magnitude: 3.61

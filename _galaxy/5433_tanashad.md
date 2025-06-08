@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5433 Tanashad is a star in the constellation Tanas
+      5433 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 233.80 ly
 apparent_magnitude: 9.07
 absolute_magnitude: 4.79

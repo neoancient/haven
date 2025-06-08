@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      104578 Arkothiad is a star in the constellation Arkoth
+      104578 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 472.23 ly
 apparent_magnitude: 11.12
 absolute_magnitude: 5.32

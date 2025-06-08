@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2307 Narashiad is a star in the constellation Naras
+      2307 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 394.41 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 2.74
@@ -31,14 +31,14 @@ planets:
     radius: 23,113.6 km<br/>(3.628 Yrths)
     surface_area: 6.713 × 10<sup>09</sup> km<sup>2</sup><br/>(13.162 Yrths)
     volume: 5.172 × 10<sup>13</sup> km<sup>3</sup><br/>(47.751 Yrths)
-    mass: 1.069 × 10<sup>26</sup> kg<br />(17.902136323665715 Yrths)
+    mass: 1.069 × 10<sup>26</sup> kg<br />(17.90 Yrths)
     density: 2.067 g/cm<sup>3</sup>
     surface_gravity: 13.338 m/s<sup>2</sup><br />(1.360 g<sub>0</sub>)
     escape_velocity: 24.848 km/s<br />(89,454 km/h)
     rotation_period: 0.370 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 610 K<br />(337 °C)
+    temperature: 633 K<br />(360 °C)
     composition:
       - 81.2529% hydrogen
       - 12.0042% helium
@@ -56,14 +56,14 @@ planets:
         radius: 16,173.9 km<br/>(2.539 Yrths)
         surface_area: 3.287 × 10<sup>09</sup> km<sup>2</sup><br/>(6.445 Yrths)
         volume: 1.772 × 10<sup>13</sup> km<sup>3</sup><br/>(16.361 Yrths)
-        mass: 5.528 × 10<sup>25</sup> kg<br />(17.902136323665715 Yrths)
+        mass: 5.528 × 10<sup>25</sup> kg<br />(9.257 Yrths)
         density: 3.119 g/cm<sup>3</sup>
         surface_gravity: 14.086 m/s<sup>2</sup><br />(1.436 g<sub>0</sub>)
         escape_velocity: 21.361 km/s<br />(76,898 km/h)
         rotation_period: 51.314 d
         axial_tilt: 16.50°
         albedo: 0.30
-        temperature: 3525 K<br />(3252 °C)
+        temperature: 370 K<br />(97 °C)
       - name: 2307 Narashiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 19,548.0 km<br/>(3.068 Yrths)
         surface_area: 4.802 × 10<sup>09</sup> km<sup>2</sup><br/>(9.414 Yrths)
         volume: 3.129 × 10<sup>13</sup> km<sup>3</sup><br/>(28.886 Yrths)
-        mass: 7.417 × 10<sup>25</sup> kg<br />(17.902136323665715 Yrths)
+        mass: 7.417 × 10<sup>25</sup> kg<br />(12.419 Yrths)
         density: 2.370 g/cm<sup>3</sup>
         surface_gravity: 12.937 m/s<sup>2</sup><br />(1.319 g<sub>0</sub>)
         escape_velocity: 22.505 km/s<br />(81,016 km/h)
         rotation_period: 35.193 d
         axial_tilt: 12.34°
         albedo: 0.30
-        temperature: 3361 K<br />(3088 °C)
+        temperature: 370 K<br />(97 °C)
       - name: 2307 Narashiad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 8,114.9 km<br/>(1.274 Yrths)
         surface_area: 8.275 × 10<sup>08</sup> km<sup>2</sup><br/>(1.622 Yrths)
         volume: 2.238 × 10<sup>12</sup> km<sup>3</sup><br/>(2.066 Yrths)
-        mass: 5.238 × 10<sup>24</sup> kg<br />(17.902136323665715 Yrths)
+        mass: 5.238 × 10<sup>24</sup> kg<br />(0.877 Yrths)
         density: 2.340 g/cm<sup>3</sup>
         surface_gravity: 5.301 m/s<sup>2</sup><br />(0.541 g<sub>0</sub>)
         escape_velocity: 9.282 km/s<br />(33,416 km/h)
         rotation_period: 41.272 d
         axial_tilt: 15.81°
         albedo: 0.30
-        temperature: 3204 K<br />(2931 °C)
+        temperature: 370 K<br />(97 °C)
       - name: 2307 Narashiad I d
         type: Rocky
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 7,692.1 km<br/>(1.207 Yrths)
         surface_area: 7.435 × 10<sup>08</sup> km<sup>2</sup><br/>(1.458 Yrths)
         volume: 1.906 × 10<sup>12</sup> km<sup>3</sup><br/>(1.760 Yrths)
-        mass: 6.307 × 10<sup>24</sup> kg<br />(17.902136323665715 Yrths)
+        mass: 6.307 × 10<sup>24</sup> kg<br />(1.056 Yrths)
         density: 3.308 g/cm<sup>3</sup>
         surface_gravity: 7.104 m/s<sup>2</sup><br />(0.724 g<sub>0</sub>)
         escape_velocity: 10.462 km/s<br />(37,662 km/h)
         rotation_period: 44.681 d
         axial_tilt: 13.06°
         albedo: 0.30
-        temperature: 2913 K<br />(2640 °C)
+        temperature: 370 K<br />(97 °C)
   - name: 2307 Narashiad II
     type: Large terrestrial
     aphelion: 346,421,295 km<br />2.316 AU
@@ -135,14 +135,14 @@ planets:
     radius: 9,617.9 km<br/>(1.510 Yrths)
     surface_area: 1.162 × 10<sup>09</sup> km<sup>2</sup><br/>(2.279 Yrths)
     volume: 3.727 × 10<sup>12</sup> km<sup>3</sup><br/>(3.441 Yrths)
-    mass: 2.794 × 10<sup>25</sup> kg<br />(4.678473187289082 Yrths)
+    mass: 2.794 × 10<sup>25</sup> kg<br />(4.68 Yrths)
     density: 7.497 g/cm<sup>3</sup>
     surface_gravity: 20.132 m/s<sup>2</sup><br />(2.053 g<sub>0</sub>)
     escape_velocity: 19.692 km/s<br />(70,891 km/h)
     rotation_period: 0.580 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 420 K<br />(147 °C)
+    temperature: 494 K<br />(221 °C)
     surface_pressure: 3,459 kPa<br />(34 atm)
     composition:
       - 84.4600% nitrogen
@@ -163,14 +163,14 @@ planets:
         radius: 4,943.8 km<br/>(0.776 Yrths)
         surface_area: 3.071 × 10<sup>08</sup> km<sup>2</sup><br/>(0.602 Yrths)
         volume: 5.062 × 10<sup>11</sup> km<sup>3</sup><br/>(0.467 Yrths)
-        mass: 1.007 × 10<sup>24</sup> kg<br />(4.678473187289082 Yrths)
+        mass: 1.007 × 10<sup>24</sup> kg<br />(0.169 Yrths)
         density: 1.990 g/cm<sup>3</sup>
         surface_gravity: 2.746 m/s<sup>2</sup><br />(0.280 g<sub>0</sub>)
         escape_velocity: 5.215 km/s<br />(18,773 km/h)
         rotation_period: 46.614 d
         axial_tilt: 15.49°
         albedo: 0.30
-        temperature: 3344 K<br />(3071 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 2307 Narashiad II b
         type: Asteroid
         formationType: Captured
@@ -183,14 +183,14 @@ planets:
         radius: 8,104.8 km<br/>(1.272 Yrths)
         surface_area: 8.255 × 10<sup>08</sup> km<sup>2</sup><br/>(1.618 Yrths)
         volume: 2.230 × 10<sup>12</sup> km<sup>3</sup><br/>(2.059 Yrths)
-        mass: 6.156 × 10<sup>24</sup> kg<br />(4.678473187289082 Yrths)
+        mass: 6.156 × 10<sup>24</sup> kg<br />(1.031 Yrths)
         density: 2.760 g/cm<sup>3</sup>
         surface_gravity: 6.246 m/s<sup>2</sup><br />(0.637 g<sub>0</sub>)
         escape_velocity: 10.069 km/s<br />(36,249 km/h)
         rotation_period: 40.521 d
         axial_tilt: 39.36°
         albedo: 0.30
-        temperature: 3189 K<br />(2916 °C)
+        temperature: 273 K<br />(-0 °C)
       - name: 2307 Narashiad II c
         type: Asteroid
         formationType: Captured
@@ -203,14 +203,14 @@ planets:
         radius: 7,913.8 km<br/>(1.242 Yrths)
         surface_area: 7.870 × 10<sup>08</sup> km<sup>2</sup><br/>(1.543 Yrths)
         volume: 2.076 × 10<sup>12</sup> km<sup>3</sup><br/>(1.917 Yrths)
-        mass: 4.190 × 10<sup>24</sup> kg<br />(4.678473187289082 Yrths)
+        mass: 4.190 × 10<sup>24</sup> kg<br />(0.702 Yrths)
         density: 2.018 g/cm<sup>3</sup>
         surface_gravity: 4.460 m/s<sup>2</sup><br />(0.455 g<sub>0</sub>)
         escape_velocity: 8.407 km/s<br />(30,266 km/h)
         rotation_period: 37.515 d
         axial_tilt: 29.87°
         albedo: 0.30
-        temperature: 3040 K<br />(2767 °C)
+        temperature: 273 K<br />(-0 °C)
   - name: 2307 Narashiad III
     type: Large terrestrial
     aphelion: 692,429,566 km<br />4.629 AU
@@ -222,15 +222,15 @@ planets:
     radius: 8,307.5 km<br/>(1.304 Yrths)
     surface_area: 8.673 × 10<sup>08</sup> km<sup>2</sup><br/>(1.700 Yrths)
     volume: 2.402 × 10<sup>12</sup> km<sup>3</sup><br/>(2.217 Yrths)
-    mass: 1.698 × 10<sup>25</sup> kg<br />(2.8427161983394345 Yrths)
+    mass: 1.698 × 10<sup>25</sup> kg<br />(2.84 Yrths)
     density: 7.069 g/cm<sup>3</sup>
     surface_gravity: 16.396 m/s<sup>2</sup><br />(1.672 g<sub>0</sub>)
     escape_velocity: 16.516 km/s<br />(59,458 km/h)
     rotation_period: 0.650 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 308 K<br />(35 °C)
-    surface_pressure: 2,987 kPa<br />(29 atm)
+    temperature: 370 K<br />(97 °C)
+    surface_pressure: 2,987 kPa<br />(30 atm)
     composition:
       - 85.8647% methane
       - 9.8924% nitrogen
@@ -252,14 +252,14 @@ planets:
         radius: 2,354.4 km<br/>(0.370 Yrths)
         surface_area: 6.966 × 10<sup>07</sup> km<sup>2</sup><br/>(0.137 Yrths)
         volume: 5.467 × 10<sup>10</sup> km<sup>3</sup><br/>(0.050 Yrths)
-        mass: 8.512 × 10<sup>22</sup> kg<br />(2.8427161983394345 Yrths)
+        mass: 8.512 × 10<sup>22</sup> kg<br />(0.014 Yrths)
         density: 1.557 g/cm<sup>3</sup>
         surface_gravity: 1.024 m/s<sup>2</sup><br />(0.104 g<sub>0</sub>)
         escape_velocity: 2.197 km/s<br />(7,909 km/h)
         rotation_period: 77.194 d
         axial_tilt: 17.61°
         albedo: 0.30
-        temperature: 2686 K<br />(2413 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 2307 Narashiad III b
         type: Icy
         formationType: Captured
@@ -272,14 +272,14 @@ planets:
         radius: 8,859.5 km<br/>(1.391 Yrths)
         surface_area: 9.864 × 10<sup>08</sup> km<sup>2</sup><br/>(1.934 Yrths)
         volume: 2.913 × 10<sup>12</sup> km<sup>3</sup><br/>(2.689 Yrths)
-        mass: 4.617 × 10<sup>24</sup> kg<br />(2.8427161983394345 Yrths)
+        mass: 4.617 × 10<sup>24</sup> kg<br />(0.773 Yrths)
         density: 1.585 g/cm<sup>3</sup>
         surface_gravity: 3.921 m/s<sup>2</sup><br />(0.400 g<sub>0</sub>)
         escape_velocity: 8.341 km/s<br />(30,027 km/h)
         rotation_period: 57.173 d
         axial_tilt: 21.08°
         albedo: 0.30
-        temperature: 2561 K<br />(2288 °C)
+        temperature: 201 K<br />(-72 °C)
   - name: 2307 Narashiad IV
     type: Large terrestrial
     aphelion: 1,294,877,182 km<br />8.656 AU
@@ -291,14 +291,14 @@ planets:
     radius: 6,059.7 km<br/>(0.951 Yrths)
     surface_area: 4.614 × 10<sup>08</sup> km<sup>2</sup><br/>(0.905 Yrths)
     volume: 9.321 × 10<sup>11</sup> km<sup>3</sup><br/>(0.860 Yrths)
-    mass: 6.111 × 10<sup>24</sup> kg<br />(1.023267548189896 Yrths)
+    mass: 6.111 × 10<sup>24</sup> kg<br />(1.02 Yrths)
     density: 6.556 g/cm<sup>3</sup>
     surface_gravity: 11.092 m/s<sup>2</sup><br />(1.131 g<sub>0</sub>)
     escape_velocity: 11.602 km/s<br />(41,768 km/h)
     rotation_period: 0.834 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 264 K<br />(-9 °C)
+    temperature: 581 K<br />(308 °C)
     surface_pressure: 3,413 kPa<br />(34 atm)
     composition:
       - 61.7924% carbon dioxide
@@ -318,14 +318,14 @@ planets:
         radius: 2,394.5 km<br/>(0.376 Yrths)
         surface_area: 7.205 × 10<sup>07</sup> km<sup>2</sup><br/>(0.141 Yrths)
         volume: 5.751 × 10<sup>10</sup> km<sup>3</sup><br/>(0.053 Yrths)
-        mass: 1.440 × 10<sup>23</sup> kg<br />(1.023267548189896 Yrths)
+        mass: 1.440 × 10<sup>23</sup> kg<br />(0.024 Yrths)
         density: 2.503 g/cm<sup>3</sup>
         surface_gravity: 1.674 m/s<sup>2</sup><br />(0.171 g<sub>0</sub>)
         escape_velocity: 2.833 km/s<br />(10,199 km/h)
         rotation_period: 54.694 d
         axial_tilt: 25.42°
         albedo: 0.30
-        temperature: 2706 K<br />(2433 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 2307 Narashiad IV b
         type: Icy
         formationType: Captured
@@ -338,12 +338,12 @@ planets:
         radius: 3,236.3 km<br/>(0.508 Yrths)
         surface_area: 1.316 × 10<sup>08</sup> km<sup>2</sup><br/>(0.258 Yrths)
         volume: 1.420 × 10<sup>11</sup> km<sup>3</sup><br/>(0.131 Yrths)
-        mass: 2.071 × 10<sup>23</sup> kg<br />(1.023267548189896 Yrths)
+        mass: 2.071 × 10<sup>23</sup> kg<br />(0.035 Yrths)
         density: 1.459 g/cm<sup>3</sup>
         surface_gravity: 1.318 m/s<sup>2</sup><br />(0.134 g<sub>0</sub>)
         escape_velocity: 2.923 km/s<br />(10,522 km/h)
         rotation_period: 51.797 d
         axial_tilt: 14.85°
         albedo: 0.30
-        temperature: 2580 K<br />(2307 °C)
+        temperature: 148 K<br />(-125 °C)
 ---

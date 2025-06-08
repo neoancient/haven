@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6295 Tanashad is a star in the constellation Tanas
+      6295 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 475.15 ly
 apparent_magnitude: 13.66
 absolute_magnitude: 7.85

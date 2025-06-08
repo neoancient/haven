@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1598 Keead A is a star in the constellation Kee
+      1598 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 435.63 ly
 apparent_magnitude: 7.69
 absolute_magnitude: 2.06

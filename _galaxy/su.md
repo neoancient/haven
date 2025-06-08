@@ -32,7 +32,7 @@ stars:
     distance: 110.46
     spectral_class: F9III + K0V
   - name:
-    designation: δ Suyad
+    designation: <a href="δ_suyad.html">δ Suyad</a>
     ra: 4<sup>h</sup> 25<sup>m</sup> 19.40<sup>s</sup>
     dec: -36° 58' 6.15"
     apparent_magnitude: 5.07
@@ -104,7 +104,7 @@ stars:
     distance: 740.34
     spectral_class: B8V + M7III + M9III
   - name:
-    designation: σ Suyad
+    designation: <a href="σ_suyad.html">σ Suyad</a>
     ra: 4<sup>h</sup> 18<sup>m</sup> 4.37<sup>s</sup>
     dec: -35° 12' 29.39"
     apparent_magnitude: 5.84
@@ -152,7 +152,7 @@ stars:
     distance: 1,086.97
     spectral_class: A2III
   - name:
-    designation: μ Suyad
+    designation: <a href="μ_suyad.html">μ Suyad</a>
     ra: 4<sup>h</sup> 38<sup>m</sup> 4.89<sup>s</sup>
     dec: -44° 58' 33.82"
     apparent_magnitude: 6.24
@@ -176,7 +176,7 @@ stars:
     distance: 132.85
     spectral_class: A7V + K8V
   - name:
-    designation: ω Suyad
+    designation: <a href="ω_suyad.html">ω Suyad</a>
     ra: 4<sup>h</sup> 58<sup>m</sup> 28.39<sup>s</sup>
     dec: -30° 46' 30.20"
     apparent_magnitude: 6.37
@@ -184,7 +184,7 @@ stars:
     distance: 209.27
     spectral_class: A5V + G2V + F6V + G4V
   - name:
-    designation: ψ Suyad
+    designation: <a href="ψ_suyad.html">ψ Suyad</a>
     ra: 4<sup>h</sup> 33<sup>m</sup> 53.07<sup>s</sup>
     dec: -31° 21' 49.96"
     apparent_magnitude: 6.38

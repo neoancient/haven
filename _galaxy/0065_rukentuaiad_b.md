@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0065 Rukentuaiad B is a star in the constellation Rukentua
+      0065 Rukentuaiad B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 517.47 ly
 apparent_magnitude: 11.66
 absolute_magnitude: 5.66

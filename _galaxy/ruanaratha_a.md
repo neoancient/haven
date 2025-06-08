@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ruanaratha A is a star in the constellation Mioruane
+      Ruanaratha A is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 710.20 ly
 apparent_magnitude: 3.15
 absolute_magnitude: -3.54

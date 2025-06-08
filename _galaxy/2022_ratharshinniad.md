@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2022 Ratharshinniad is a star in the constellation Ratharshin
+      2022 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 88.60 ly
 apparent_magnitude: 7.00
 absolute_magnitude: 4.83
@@ -31,14 +31,14 @@ planets:
     radius: 3,017.6 km<br/>(0.474 Yrths)
     surface_area: 1.144 × 10<sup>08</sup> km<sup>2</sup><br/>(0.224 Yrths)
     volume: 1.151 × 10<sup>11</sup> km<sup>3</sup><br/>(0.106 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.188 g/cm<sup>3</sup>
     surface_gravity: 4.371 m/s<sup>2</sup><br />(0.446 g<sub>0</sub>)
     escape_velocity: 5.140 km/s<br />(18,503 km/h)
     rotation_period: 2.367 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 277 K<br />(4 °C)
+    temperature: 563 K<br />(290 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 50.3858% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 799.6 km<br/>(0.126 Yrths)
         surface_area: 8.034 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.141 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.586 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.586 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.675 g/cm<sup>3</sup>
         surface_gravity: 0.374 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.774 km/s<br />(2,785 km/h)
         rotation_period: 42.423 d
         axial_tilt: 25.97°
         albedo: 0.30
-        temperature: 5937 K<br />(5664 °C)
+        temperature: 229 K<br />(-44 °C)
   - name: 2022 Ratharshinniad II
     type: Terrestrial
     aphelion: 556,625,095 km<br />3.721 AU
@@ -77,14 +77,14 @@ planets:
     radius: 5,032.7 km<br/>(0.790 Yrths)
     surface_area: 3.183 × 10<sup>08</sup> km<sup>2</sup><br/>(0.624 Yrths)
     volume: 5.339 × 10<sup>11</sup> km<sup>3</sup><br/>(0.493 Yrths)
-    mass: 2.994 × 10<sup>24</sup> kg<br />(0.5012636700191144 Yrths)
+    mass: 2.994 × 10<sup>24</sup> kg<br />(0.50 Yrths)
     density: 5.606 g/cm<sup>3</sup>
     surface_gravity: 7.878 m/s<sup>2</sup><br />(0.803 g<sub>0</sub>)
     escape_velocity: 8.911 km/s<br />(32,078 km/h)
     rotation_period: 1.300 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 185 K<br />(-89 °C)
+    temperature: 220 K<br />(-53 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 98.8210% ammonia
@@ -102,14 +102,14 @@ planets:
         radius: 1,546.0 km<br/>(0.243 Yrths)
         surface_area: 3.004 × 10<sup>07</sup> km<sup>2</sup><br/>(0.059 Yrths)
         volume: 1.548 × 10<sup>10</sup> km<sup>3</sup><br/>(0.014 Yrths)
-        mass: 3.048 × 10<sup>22</sup> kg<br />(0.5012636700191144 Yrths)
+        mass: 3.048 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 1.969 g/cm<sup>3</sup>
         surface_gravity: 0.850 m/s<sup>2</sup><br />(0.087 g<sub>0</sub>)
         escape_velocity: 1.622 km/s<br />(5,840 km/h)
         rotation_period: 43.621 d
         axial_tilt: 12.74°
         albedo: 0.30
-        temperature: 3015 K<br />(2742 °C)
+        temperature: 168 K<br />(-105 °C)
   - name: 2022 Ratharshinniad III
     type: Terrestrial
     aphelion: 1,033,848,326 km<br />6.911 AU
@@ -121,14 +121,14 @@ planets:
     radius: 7,171.6 km<br/>(1.126 Yrths)
     surface_area: 6.463 × 10<sup>08</sup> km<sup>2</sup><br/>(1.267 Yrths)
     volume: 1.545 × 10<sup>12</sup> km<sup>3</sup><br/>(1.426 Yrths)
-    mass: 7.439 × 10<sup>24</sup> kg<br />(1.245672600807692 Yrths)
+    mass: 7.439 × 10<sup>24</sup> kg<br />(1.25 Yrths)
     density: 4.815 g/cm<sup>3</sup>
     surface_gravity: 9.641 m/s<sup>2</sup><br />(0.983 g<sub>0</sub>)
     escape_velocity: 11.767 km/s<br />(42,362 km/h)
     rotation_period: 0.952 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 139 K<br />(-134 °C)
+    temperature: 145 K<br />(-128 °C)
     surface_pressure: 28 kPa<br />(0 atm)
     composition:
       - 67.9955% nitrogen
@@ -148,14 +148,14 @@ planets:
         radius: 1,731.9 km<br/>(0.272 Yrths)
         surface_area: 3.769 × 10<sup>07</sup> km<sup>2</sup><br/>(0.074 Yrths)
         volume: 2.176 × 10<sup>10</sup> km<sup>3</sup><br/>(0.020 Yrths)
-        mass: 6.653 × 10<sup>22</sup> kg<br />(1.245672600807692 Yrths)
+        mass: 6.653 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 3.057 g/cm<sup>3</sup>
         surface_gravity: 1.478 m/s<sup>2</sup><br />(0.151 g<sub>0</sub>)
         escape_velocity: 2.264 km/s<br />(8,152 km/h)
         rotation_period: 51.291 d
         axial_tilt: 13.74°
         albedo: 0.30
-        temperature: 1871 K<br />(1598 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: 2022 Ratharshinniad III b
         type: Icy
         formationType: Captured
@@ -168,12 +168,12 @@ planets:
         radius: 3,395.9 km<br/>(0.533 Yrths)
         surface_area: 1.449 × 10<sup>08</sup> km<sup>2</sup><br/>(0.284 Yrths)
         volume: 1.640 × 10<sup>11</sup> km<sup>3</sup><br/>(0.151 Yrths)
-        mass: 1.944 × 10<sup>23</sup> kg<br />(1.245672600807692 Yrths)
+        mass: 1.944 × 10<sup>23</sup> kg<br />(0.033 Yrths)
         density: 1.185 g/cm<sup>3</sup>
         surface_gravity: 1.123 m/s<sup>2</sup><br />(0.115 g<sub>0</sub>)
         escape_velocity: 2.764 km/s<br />(9,951 km/h)
         rotation_period: 70.660 d
         axial_tilt: 25.58°
         albedo: 0.30
-        temperature: 1784 K<br />(1511 °C)
+        temperature: 123 K<br />(-150 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3425 Noniashad is a star in the constellation Nonias
+      3425 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 1079.19 ly
 apparent_magnitude: 13.15
 absolute_magnitude: 5.55

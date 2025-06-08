@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0089 Olliad C is a star in the constellation Ol
+      0089 Olliad C is a star in the constellation <a href="ol.html">Ol</a>
 distance: 187.24 ly
 apparent_magnitude: 8.87
 absolute_magnitude: 5.08
@@ -31,14 +31,14 @@ planets:
     radius: 9,036.2 km<br/>(1.418 Yrths)
     surface_area: 1.026 × 10<sup>09</sup> km<sup>2</sup><br/>(2.012 Yrths)
     volume: 3.091 × 10<sup>12</sup> km<sup>3</sup><br/>(2.853 Yrths)
-    mass: 2.984 × 10<sup>25</sup> kg<br />(4.995940641476137 Yrths)
+    mass: 2.984 × 10<sup>25</sup> kg<br />(5.00 Yrths)
     density: 9.654 g/cm<sup>3</sup>
     surface_gravity: 24.355 m/s<sup>2</sup><br />(2.483 g<sub>0</sub>)
     escape_velocity: 20.994 km/s<br />(75,578 km/h)
     rotation_period: 1.520 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 390 K<br />(117 °C)
+    temperature: 382 K<br />(109 °C)
     surface_pressure: 111 kPa<br />(1 atm)
     composition:
       - 75.6203% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 8,176.4 km<br/>(1.283 Yrths)
         surface_area: 8.401 × 10<sup>08</sup> km<sup>2</sup><br/>(1.647 Yrths)
         volume: 2.290 × 10<sup>12</sup> km<sup>3</sup><br/>(2.114 Yrths)
-        mass: 4.314 × 10<sup>24</sup> kg<br />(4.995940641476137 Yrths)
+        mass: 4.314 × 10<sup>24</sup> kg<br />(0.722 Yrths)
         density: 1.884 g/cm<sup>3</sup>
         surface_gravity: 4.301 m/s<sup>2</sup><br />(0.439 g<sub>0</sub>)
         escape_velocity: 8.392 km/s<br />(30,211 km/h)
         rotation_period: 37.329 d
         axial_tilt: 23.07°
         albedo: 0.30
-        temperature: 3497 K<br />(3224 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 0089 Olliad C I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 3,974.3 km<br/>(0.624 Yrths)
         surface_area: 1.985 × 10<sup>08</sup> km<sup>2</sup><br/>(0.389 Yrths)
         volume: 2.629 × 10<sup>11</sup> km<sup>3</sup><br/>(0.243 Yrths)
-        mass: 6.203 × 10<sup>23</sup> kg<br />(4.995940641476137 Yrths)
+        mass: 6.203 × 10<sup>23</sup> kg<br />(0.104 Yrths)
         density: 2.359 g/cm<sup>3</sup>
         surface_gravity: 2.618 m/s<sup>2</sup><br />(0.267 g<sub>0</sub>)
         escape_velocity: 4.564 km/s<br />(16,432 km/h)
         rotation_period: 60.671 d
         axial_tilt: 31.98°
         albedo: 0.30
-        temperature: 3334 K<br />(3061 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 0089 Olliad C I c
         type: Rocky
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 2,990.8 km<br/>(0.469 Yrths)
         surface_area: 1.124 × 10<sup>08</sup> km<sup>2</sup><br/>(0.220 Yrths)
         volume: 1.121 × 10<sup>11</sup> km<sup>3</sup><br/>(0.103 Yrths)
-        mass: 4.034 × 10<sup>23</sup> kg<br />(4.995940641476137 Yrths)
+        mass: 4.034 × 10<sup>23</sup> kg<br />(0.068 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 3.006 m/s<sup>2</sup><br />(0.307 g<sub>0</sub>)
         escape_velocity: 4.243 km/s<br />(15,276 km/h)
         rotation_period: 41.841 d
         axial_tilt: 14.43°
         albedo: 0.30
-        temperature: 3179 K<br />(2906 °C)
+        temperature: 322 K<br />(49 °C)
   - name: 0089 Olliad C II
     type: Gas dwarf
     aphelion: 154,986,031 km<br />1.036 AU
@@ -117,14 +117,14 @@ planets:
     radius: 14,331.7 km<br/>(2.250 Yrths)
     surface_area: 2.581 × 10<sup>09</sup> km<sup>2</sup><br/>(5.060 Yrths)
     volume: 1.233 × 10<sup>13</sup> km<sup>3</sup><br/>(11.383 Yrths)
-    mass: 2.660 × 10<sup>25</sup> kg<br />(4.454526738405375 Yrths)
+    mass: 2.660 × 10<sup>25</sup> kg<br />(4.45 Yrths)
     density: 2.157 g/cm<sup>3</sup>
     surface_gravity: 8.633 m/s<sup>2</sup><br />(0.880 g<sub>0</sub>)
     escape_velocity: 15.741 km/s<br />(56,667 km/h)
     rotation_period: 1.177 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 327 K<br />(54 °C)
+    temperature: 288 K<br />(15 °C)
     composition:
       - 80.0241% hydrogen
       - 17.7388% helium
@@ -142,14 +142,14 @@ planets:
         radius: 3,695.8 km<br/>(0.580 Yrths)
         surface_area: 1.716 × 10<sup>08</sup> km<sup>2</sup><br/>(0.337 Yrths)
         volume: 2.115 × 10<sup>11</sup> km<sup>3</sup><br/>(0.195 Yrths)
-        mass: 7.024 × 10<sup>23</sup> kg<br />(4.454526738405375 Yrths)
+        mass: 7.024 × 10<sup>23</sup> kg<br />(0.118 Yrths)
         density: 3.322 g/cm<sup>3</sup>
         surface_gravity: 3.427 m/s<sup>2</sup><br />(0.349 g<sub>0</sub>)
         escape_velocity: 5.037 km/s<br />(18,132 km/h)
         rotation_period: 45.594 d
         axial_tilt: 18.86°
         albedo: 0.30
-        temperature: 2660 K<br />(2386 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0089 Olliad C II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -162,14 +162,14 @@ planets:
         radius: 5,576.3 km<br/>(0.875 Yrths)
         surface_area: 3.907 × 10<sup>08</sup> km<sup>2</sup><br/>(0.766 Yrths)
         volume: 7.263 × 10<sup>11</sup> km<sup>3</sup><br/>(0.671 Yrths)
-        mass: 2.034 × 10<sup>24</sup> kg<br />(4.454526738405375 Yrths)
+        mass: 2.034 × 10<sup>24</sup> kg<br />(0.341 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 4.359 m/s<sup>2</sup><br />(0.445 g<sub>0</sub>)
         escape_velocity: 6.977 km/s<br />(25,118 km/h)
         rotation_period: 30.827 d
         axial_tilt: 29.84°
         albedo: 0.30
-        temperature: 2536 K<br />(2263 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0089 Olliad C II c
         type: Icy
         formationType: Impact formed
@@ -182,14 +182,14 @@ planets:
         radius: 9,510.6 km<br/>(1.493 Yrths)
         surface_area: 1.137 × 10<sup>09</sup> km<sup>2</sup><br/>(2.228 Yrths)
         volume: 3.603 × 10<sup>12</sup> km<sup>3</sup><br/>(3.327 Yrths)
-        mass: 5.927 × 10<sup>24</sup> kg<br />(4.454526738405375 Yrths)
+        mass: 5.927 × 10<sup>24</sup> kg<br />(0.992 Yrths)
         density: 1.645 g/cm<sup>3</sup>
         surface_gravity: 4.368 m/s<sup>2</sup><br />(0.445 g<sub>0</sub>)
         escape_velocity: 9.121 km/s<br />(32,835 km/h)
         rotation_period: 40.264 d
         axial_tilt: 18.17°
         albedo: 0.30
-        temperature: 2418 K<br />(2145 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: 0089 Olliad C III
     type: Gas dwarf
     aphelion: 275,872,859 km<br />1.844 AU
@@ -201,14 +201,14 @@ planets:
     radius: 19,537.8 km<br/>(3.067 Yrths)
     surface_area: 4.797 × 10<sup>09</sup> km<sup>2</sup><br/>(9.404 Yrths)
     volume: 3.124 × 10<sup>13</sup> km<sup>3</sup><br/>(28.840 Yrths)
-    mass: 7.988 × 10<sup>25</sup> kg<br />(13.375928164623518 Yrths)
+    mass: 7.988 × 10<sup>25</sup> kg<br />(13.38 Yrths)
     density: 2.557 g/cm<sup>3</sup>
     surface_gravity: 13.948 m/s<sup>2</sup><br />(1.422 g<sub>0</sub>)
     escape_velocity: 23.362 km/s<br />(84,102 km/h)
     rotation_period: 0.681 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 239 K<br />(-35 °C)
+    temperature: 207 K<br />(-66 °C)
     composition:
       - 98.8489% hydrogen
       - 1.1511% helium
@@ -225,14 +225,14 @@ planets:
         radius: 15,349.7 km<br/>(2.409 Yrths)
         surface_area: 2.961 × 10<sup>09</sup> km<sup>2</sup><br/>(5.805 Yrths)
         volume: 1.515 × 10<sup>13</sup> km<sup>3</sup><br/>(13.985 Yrths)
-        mass: 2.639 × 10<sup>25</sup> kg<br />(13.375928164623518 Yrths)
+        mass: 2.639 × 10<sup>25</sup> kg<br />(4.420 Yrths)
         density: 1.742 g/cm<sup>3</sup>
         surface_gravity: 7.466 m/s<sup>2</sup><br />(0.761 g<sub>0</sub>)
         escape_velocity: 15.150 km/s<br />(54,540 km/h)
         rotation_period: 54.166 d
         axial_tilt: 18.46°
         albedo: 0.30
-        temperature: 1670 K<br />(1397 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0089 Olliad C III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -245,14 +245,14 @@ planets:
         radius: 17,983.3 km<br/>(2.823 Yrths)
         surface_area: 4.064 × 10<sup>09</sup> km<sup>2</sup><br/>(7.968 Yrths)
         volume: 2.436 × 10<sup>13</sup> km<sup>3</sup><br/>(22.490 Yrths)
-        mass: 5.252 × 10<sup>25</sup> kg<br />(13.375928164623518 Yrths)
+        mass: 5.252 × 10<sup>25</sup> kg<br />(8.794 Yrths)
         density: 2.156 g/cm<sup>3</sup>
         surface_gravity: 10.825 m/s<sup>2</sup><br />(1.104 g<sub>0</sub>)
         escape_velocity: 19.745 km/s<br />(71,081 km/h)
         rotation_period: 37.940 d
         axial_tilt: 22.65°
         albedo: 0.30
-        temperature: 1592 K<br />(1319 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0089 Olliad C III c
         type: Icy
         formationType: Accreted
@@ -265,14 +265,14 @@ planets:
         radius: 19,092.0 km<br/>(2.997 Yrths)
         surface_area: 4.580 × 10<sup>09</sup> km<sup>2</sup><br/>(8.980 Yrths)
         volume: 2.915 × 10<sup>13</sup> km<sup>3</sup><br/>(26.911 Yrths)
-        mass: 2.377 × 10<sup>25</sup> kg<br />(13.375928164623518 Yrths)
+        mass: 2.377 × 10<sup>25</sup> kg<br />(3.981 Yrths)
         density: 0.816 g/cm<sup>3</sup>
         surface_gravity: 4.347 m/s<sup>2</sup><br />(0.443 g<sub>0</sub>)
         escape_velocity: 12.892 km/s<br />(46,412 km/h)
         rotation_period: 70.969 d
         axial_tilt: 19.93°
         albedo: 0.30
-        temperature: 1518 K<br />(1245 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0089 Olliad C III d
         type: Icy
         formationType: Captured
@@ -285,14 +285,14 @@ planets:
         radius: 27,767.0 km<br/>(4.358 Yrths)
         surface_area: 9.689 × 10<sup>09</sup> km<sup>2</sup><br/>(18.995 Yrths)
         volume: 8.968 × 10<sup>13</sup> km<sup>3</sup><br/>(82.787 Yrths)
-        mass: 1.300 × 10<sup>26</sup> kg<br />(13.375928164623518 Yrths)
+        mass: 1.300 × 10<sup>26</sup> kg<br />(21.761 Yrths)
         density: 1.449 g/cm<sup>3</sup>
         surface_gravity: 11.234 m/s<sup>2</sup><br />(1.146 g<sub>0</sub>)
         escape_velocity: 24.995 km/s<br />(89,981 km/h)
         rotation_period: 48.306 d
         axial_tilt: 22.77°
         albedo: 0.30
-        temperature: 1380 K<br />(1107 °C)
+        temperature: 184 K<br />(-89 °C)
   - name: 0089 Olliad C IV
     type: Large terrestrial
     aphelion: 477,828,474 km<br />3.194 AU
@@ -304,14 +304,14 @@ planets:
     radius: 8,821.6 km<br/>(1.385 Yrths)
     surface_area: 9.779 × 10<sup>08</sup> km<sup>2</sup><br/>(1.917 Yrths)
     volume: 2.876 × 10<sup>12</sup> km<sup>3</sup><br/>(2.655 Yrths)
-    mass: 1.968 × 10<sup>25</sup> kg<br />(3.295357268306764 Yrths)
+    mass: 1.968 × 10<sup>25</sup> kg<br />(3.30 Yrths)
     density: 6.844 g/cm<sup>3</sup>
     surface_gravity: 16.856 m/s<sup>2</sup><br />(1.719 g<sub>0</sub>)
     escape_velocity: 17.257 km/s<br />(62,124 km/h)
     rotation_period: 0.916 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 186 K<br />(-88 °C)
+    temperature: 244 K<br />(-29 °C)
     surface_pressure: 250 kPa<br />(2 atm)
     composition:
       - 77.1717% nitrogen
@@ -331,14 +331,14 @@ planets:
         radius: 5,748.9 km<br/>(0.902 Yrths)
         surface_area: 4.153 × 10<sup>08</sup> km<sup>2</sup><br/>(0.814 Yrths)
         volume: 7.959 × 10<sup>11</sup> km<sup>3</sup><br/>(0.735 Yrths)
-        mass: 1.303 × 10<sup>24</sup> kg<br />(3.295357268306764 Yrths)
+        mass: 1.303 × 10<sup>24</sup> kg<br />(0.218 Yrths)
         density: 1.637 g/cm<sup>3</sup>
         surface_gravity: 2.628 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
         escape_velocity: 5.501 km/s<br />(19,803 km/h)
         rotation_period: 50.599 d
         axial_tilt: 12.02°
         albedo: 0.30
-        temperature: 1692 K<br />(1418 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0089 Olliad C IV b
         type: Icy
         formationType: Impact formed
@@ -351,14 +351,14 @@ planets:
         radius: 9,958.1 km<br/>(1.563 Yrths)
         surface_area: 1.246 × 10<sup>09</sup> km<sup>2</sup><br/>(2.443 Yrths)
         volume: 4.136 × 10<sup>12</sup> km<sup>3</sup><br/>(3.819 Yrths)
-        mass: 5.057 × 10<sup>24</sup> kg<br />(3.295357268306764 Yrths)
+        mass: 5.057 × 10<sup>24</sup> kg<br />(0.847 Yrths)
         density: 1.223 g/cm<sup>3</sup>
         surface_gravity: 3.399 m/s<sup>2</sup><br />(0.347 g<sub>0</sub>)
         escape_velocity: 8.233 km/s<br />(29,640 km/h)
         rotation_period: 55.044 d
         axial_tilt: 20.95°
         albedo: 0.30
-        temperature: 1613 K<br />(1340 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0089 Olliad C IV c
         type: Asteroid
         formationType: Captured
@@ -371,14 +371,14 @@ planets:
         radius: 2,766.5 km<br/>(0.434 Yrths)
         surface_area: 9.618 × 10<sup>07</sup> km<sup>2</sup><br/>(0.189 Yrths)
         volume: 8.869 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
-        mass: 1.696 × 10<sup>23</sup> kg<br />(3.295357268306764 Yrths)
+        mass: 1.696 × 10<sup>23</sup> kg<br />(0.028 Yrths)
         density: 1.912 g/cm<sup>3</sup>
         surface_gravity: 1.477 m/s<sup>2</sup><br />(0.151 g<sub>0</sub>)
         escape_velocity: 2.861 km/s<br />(10,298 km/h)
         rotation_period: 62.073 d
         axial_tilt: 40.92°
         albedo: 0.30
-        temperature: 1538 K<br />(1265 °C)
+        temperature: 139 K<br />(-134 °C)
   - name: 0089 Olliad C V
     type: Gas giant
     aphelion: 858,647,217 km<br />5.740 AU
@@ -390,7 +390,7 @@ planets:
     radius: 186.6 km<br/>(0.029 Yrths)
     surface_area: 4.377 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.723 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.514 × 10<sup>26</sup> kg<br />(125.81558415472715 Yrths)
+    mass: 7.514 × 10<sup>26</sup> kg<br />(125.82 Yrths)
     density: 27595107.393 g/cm<sup>3</sup>
     surface_gravity: 1437853.474 m/s<sup>2</sup><br />(146620.250 g<sub>0</sub>)
     escape_velocity: 733.088 km/s<br />(2,639,116 km/h)
@@ -411,14 +411,14 @@ planets:
         radius: 275,601.0 km<br/>(43.259 Yrths)
         surface_area: 9.545 × 10<sup>11</sup> km<sup>2</sup><br/>(1871.313 Yrths)
         volume: 8.769 × 10<sup>16</sup> km<sup>3</sup><br/>(80950.508 Yrths)
-        mass: 6.138 × 10<sup>28</sup> kg<br />(125.81558415472715 Yrths)
+        mass: 6.138 × 10<sup>28</sup> kg<br />(10278.015 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 53.862 m/s<sup>2</sup><br />(5.492 g<sub>0</sub>)
         escape_velocity: 172.422 km/s<br />(620,718 km/h)
         rotation_period: 65.523 d
         axial_tilt: 17.85°
         albedo: 0.30
-        temperature: 596 K<br />(323 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0089 Olliad C V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -431,35 +431,15 @@ planets:
         radius: 93,743.3 km<br/>(14.714 Yrths)
         surface_area: 1.104 × 10<sup>11</sup> km<sup>2</sup><br/>(216.504 Yrths)
         volume: 3.451 × 10<sup>15</sup> km<sup>3</sup><br/>(3185.652 Yrths)
-        mass: 7.740 × 10<sup>27</sup> kg<br />(125.81558415472715 Yrths)
+        mass: 7.740 × 10<sup>27</sup> kg<br />(1295.997 Yrths)
         density: 2.243 g/cm<sup>3</sup>
         surface_gravity: 58.703 m/s<sup>2</sup><br />(5.986 g<sub>0</sub>)
         escape_velocity: 104.981 km/s<br />(377,931 km/h)
         rotation_period: 34.182 d
         axial_tilt: 21.46°
         albedo: 0.30
-        temperature: 407 K<br />(134 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0089 Olliad C V c
-        type: Icy
-        formationType: Accreted
-        aphelion: 69,948,038 km<br />
-        perihelion: 64,003,793 km<br />
-        semi_major_axis: 66,975,915 km<br />
-        eccentricity: 0.044
-        orbital_period: 0.07 d<br />
-        inclination: 0.00°
-        radius: 35,430.0 km<br/>(5.561 Yrths)
-        surface_area: 1.577 × 10<sup>10</sup> km<sup>2</sup><br/>(30.926 Yrths)
-        volume: 1.863 × 10<sup>14</sup> km<sup>3</sup><br/>(171.985 Yrths)
-        mass: 1.796 × 10<sup>26</sup> kg<br />(125.81558415472715 Yrths)
-        density: 0.964 g/cm<sup>3</sup>
-        surface_gravity: 9.538 m/s<sup>2</sup><br />(0.973 g<sub>0</sub>)
-        escape_velocity: 26.016 km/s<br />(93,656 km/h)
-        rotation_period: 76.049 d
-        axial_tilt: 11.90°
-        albedo: 0.30
-        temperature: 370 K<br />(97 °C)
-      - name: 0089 Olliad C V d
         type: Icy
         formationType: Captured
         aphelion: 124,639,023 km<br />
@@ -471,15 +451,15 @@ planets:
         radius: 119,556.1 km<br/>(18.766 Yrths)
         surface_area: 1.796 × 10<sup>11</sup> km<sup>2</sup><br/>(352.150 Yrths)
         volume: 7.158 × 10<sup>15</sup> km<sup>3</sup><br/>(6608.341 Yrths)
-        mass: 8.971 × 10<sup>27</sup> kg<br />(125.81558415472715 Yrths)
+        mass: 8.971 × 10<sup>27</sup> kg<br />(1502.173 Yrths)
         density: 1.253 g/cm<sup>3</sup>
         surface_gravity: 41.832 m/s<sup>2</sup><br />(4.266 g<sub>0</sub>)
         escape_velocity: 100.081 km/s<br />(360,292 km/h)
         rotation_period: 84.845 d
         axial_tilt: 14.65°
         albedo: 0.30
-        temperature: 306 K<br />(33 °C)
-      - name: 0089 Olliad C V e
+        temperature: 105 K<br />(-168 °C)
+      - name: 0089 Olliad C V d
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 4,107,419,141 km<br />
@@ -491,15 +471,15 @@ planets:
         radius: 110,187.9 km<br/>(17.295 Yrths)
         surface_area: 1.526 × 10<sup>11</sup> km<sup>2</sup><br/>(299.125 Yrths)
         volume: 5.604 × 10<sup>15</sup> km<sup>3</sup><br/>(5173.433 Yrths)
-        mass: 1.383 × 10<sup>28</sup> kg<br />(125.81558415472715 Yrths)
+        mass: 1.383 × 10<sup>28</sup> kg<br />(2316.617 Yrths)
         density: 2.469 g/cm<sup>3</sup>
         surface_gravity: 75.949 m/s<sup>2</sup><br />(7.745 g<sub>0</sub>)
         escape_velocity: 129.461 km/s<br />(466,059 km/h)
         rotation_period: 41.030 d
         axial_tilt: 8.31°
         albedo: 0.30
-        temperature: 52 K<br />(-221 °C)
-      - name: 0089 Olliad C V f
+        temperature: 105 K<br />(-168 °C)
+      - name: 0089 Olliad C V e
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 3,752,404,595 km<br />
@@ -511,15 +491,15 @@ planets:
         radius: 92,616.4 km<br/>(14.537 Yrths)
         surface_area: 1.078 × 10<sup>11</sup> km<sup>2</sup><br/>(211.330 Yrths)
         volume: 3.328 × 10<sup>15</sup> km<sup>3</sup><br/>(3072.138 Yrths)
-        mass: 7.716 × 10<sup>27</sup> kg<br />(125.81558415472715 Yrths)
+        mass: 7.716 × 10<sup>27</sup> kg<br />(1292.039 Yrths)
         density: 2.319 g/cm<sup>3</sup>
         surface_gravity: 59.956 m/s<sup>2</sup><br />(6.114 g<sub>0</sub>)
         escape_velocity: 105.456 km/s<br />(379,642 km/h)
         rotation_period: 55.546 d
         axial_tilt: 21.79°
         albedo: 0.30
-        temperature: 50 K<br />(-223 °C)
-      - name: 0089 Olliad C V g
+        temperature: 105 K<br />(-168 °C)
+      - name: 0089 Olliad C V f
         type: Icy
         formationType: Accreted
         aphelion: 10,740,290,760 km<br />
@@ -531,12 +511,12 @@ planets:
         radius: 124,937.7 km<br/>(19.610 Yrths)
         surface_area: 1.962 × 10<sup>11</sup> km<sup>2</sup><br/>(384.567 Yrths)
         volume: 8.169 × 10<sup>15</sup> km<sup>3</sup><br/>(7541.504 Yrths)
-        mass: 7.833 × 10<sup>27</sup> kg<br />(125.81558415472715 Yrths)
+        mass: 7.833 × 10<sup>27</sup> kg<br />(1311.699 Yrths)
         density: 0.959 g/cm<sup>3</sup>
         surface_gravity: 33.449 m/s<sup>2</sup><br />(3.411 g<sub>0</sub>)
         escape_velocity: 91.485 km/s<br />(329,345 km/h)
         rotation_period: 79.876 d
         axial_tilt: 26.49°
         albedo: 0.30
-        temperature: 30 K<br />(-244 °C)
+        temperature: 105 K<br />(-168 °C)
 ---

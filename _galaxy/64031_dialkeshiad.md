@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      64031 Dialkeshiad is a star in the constellation Dialkes
+      64031 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 597.63 ly
 apparent_magnitude: 11.48
 absolute_magnitude: 5.17

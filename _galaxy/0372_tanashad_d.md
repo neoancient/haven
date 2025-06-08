@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0372 Tanashad D is a star in the constellation Tanas
+      0372 Tanashad D is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1558.08 ly
 apparent_magnitude: 13.38
 absolute_magnitude: 4.98

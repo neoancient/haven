@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2923 Geardiad A is a star in the constellation Geard
+      2923 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 390.58 ly
 apparent_magnitude: 8.51
 absolute_magnitude: 3.11

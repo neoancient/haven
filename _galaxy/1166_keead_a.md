@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1166 Keead A is a star in the constellation Kee
+      1166 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 392.54 ly
 apparent_magnitude: 9.44
 absolute_magnitude: 4.03

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1984 Narashiad A is a star in the constellation Naras
+      1984 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 436.59 ly
 apparent_magnitude: 7.70
 absolute_magnitude: 2.07

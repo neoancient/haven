@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1119 Oniad A is a star in the constellation Oni
+      1119 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 633.32 ly
 apparent_magnitude: 8.21
 absolute_magnitude: 1.77

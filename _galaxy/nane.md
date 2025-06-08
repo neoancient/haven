@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nane is a star in the constellation Kerr
+      Nane is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 74.59 ly
 apparent_magnitude: 2.89
 absolute_magnitude: 1.09

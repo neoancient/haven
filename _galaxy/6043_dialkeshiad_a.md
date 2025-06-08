@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6043 Dialkeshiad A is a star in the constellation Dialkes
+      6043 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 319.85 ly
 apparent_magnitude: 11.65
 absolute_magnitude: 6.69

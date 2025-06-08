@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Innad Nonias A is a star in the constellation Inna
+      Innad Nonias A is a star in the constellation <a href="inna.html">Inna</a>
 distance: 781.76 ly
 apparent_magnitude: 3.66
 absolute_magnitude: -3.24

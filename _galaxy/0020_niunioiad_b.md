@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0020 Niunioiad B is a star in the constellation Niunio
+      0020 Niunioiad B is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 113.84 ly
 apparent_magnitude: 8.53
 absolute_magnitude: 5.81

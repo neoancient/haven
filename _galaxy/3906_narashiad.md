@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3906 Narashiad is a star in the constellation Naras
+      3906 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 294.93 ly
 apparent_magnitude: 10.82
 absolute_magnitude: 6.04

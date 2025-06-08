@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tave B is a star in the constellation Saith
+      Tave B is a star in the constellation <a href="saith.html">Saith</a>
 distance: 674.61 ly
 apparent_magnitude: 9.84
 absolute_magnitude: 3.26
@@ -31,14 +31,14 @@ planets:
     radius: 11,269.1 km<br/>(1.769 Yrths)
     surface_area: 1.596 × 10<sup>09</sup> km<sup>2</sup><br/>(3.129 Yrths)
     volume: 5.995 × 10<sup>12</sup> km<sup>3</sup><br/>(5.534 Yrths)
-    mass: 3.746 × 10<sup>25</sup> kg<br />(6.27192020623108 Yrths)
+    mass: 3.746 × 10<sup>25</sup> kg<br />(6.27 Yrths)
     density: 6.248 g/cm<sup>3</sup>
     surface_gravity: 19.659 m/s<sup>2</sup><br />(2.005 g<sub>0</sub>)
     escape_velocity: 21.064 km/s<br />(75,829 km/h)
     rotation_period: 0.879 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 401 K<br />(127 °C)
+    temperature: 1077 K<br />(804 °C)
     surface_pressure: 217 kPa<br />(2 atm)
     composition:
       - 91.7908% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 10,742.9 km<br/>(1.686 Yrths)
         surface_area: 1.450 × 10<sup>09</sup> km<sup>2</sup><br/>(2.843 Yrths)
         volume: 5.193 × 10<sup>12</sup> km<sup>3</sup><br/>(4.795 Yrths)
-        mass: 1.302 × 10<sup>25</sup> kg<br />(6.27192020623108 Yrths)
+        mass: 1.302 × 10<sup>25</sup> kg<br />(2.181 Yrths)
         density: 2.508 g/cm<sup>3</sup>
         surface_gravity: 7.521 m/s<sup>2</sup><br />(0.767 g<sub>0</sub>)
         escape_velocity: 12.721 km/s<br />(45,795 km/h)
         rotation_period: 41.224 d
         axial_tilt: 21.03°
         albedo: 0.30
-        temperature: 4308 K<br />(4035 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: Tave B I b
         type: Rocky
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 9,898.0 km<br/>(1.554 Yrths)
         surface_area: 1.231 × 10<sup>09</sup> km<sup>2</sup><br/>(2.414 Yrths)
         volume: 4.062 × 10<sup>12</sup> km<sup>3</sup><br/>(3.750 Yrths)
-        mass: 1.112 × 10<sup>25</sup> kg<br />(6.27192020623108 Yrths)
+        mass: 1.112 × 10<sup>25</sup> kg<br />(1.863 Yrths)
         density: 2.739 g/cm<sup>3</sup>
         surface_gravity: 7.569 m/s<sup>2</sup><br />(0.772 g<sub>0</sub>)
         escape_velocity: 12.249 km/s<br />(44,096 km/h)
         rotation_period: 38.526 d
         axial_tilt: 20.62°
         albedo: 0.30
-        temperature: 4107 K<br />(3834 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: Tave B I c
         type: Rocky
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 4,387.8 km<br/>(0.689 Yrths)
         surface_area: 2.419 × 10<sup>08</sup> km<sup>2</sup><br/>(0.474 Yrths)
         volume: 3.539 × 10<sup>11</sup> km<sup>3</sup><br/>(0.327 Yrths)
-        mass: 9.710 × 10<sup>23</sup> kg<br />(6.27192020623108 Yrths)
+        mass: 9.710 × 10<sup>23</sup> kg<br />(0.163 Yrths)
         density: 2.744 g/cm<sup>3</sup>
         surface_gravity: 3.362 m/s<sup>2</sup><br />(0.343 g<sub>0</sub>)
         escape_velocity: 5.435 km/s<br />(19,567 km/h)
         rotation_period: 31.138 d
         axial_tilt: 21.73°
         albedo: 0.30
-        temperature: 3916 K<br />(3643 °C)
+        temperature: 246 K<br />(-27 °C)
   - name: Tave B II
     type: Terrestrial
     aphelion: 1,158,635,555 km<br />7.745 AU
@@ -116,14 +116,14 @@ planets:
     radius: 8,833.1 km<br/>(1.386 Yrths)
     surface_area: 9.805 × 10<sup>08</sup> km<sup>2</sup><br/>(1.922 Yrths)
     volume: 2.887 × 10<sup>12</sup> km<sup>3</sup><br/>(2.665 Yrths)
-    mass: 1.296 × 10<sup>25</sup> kg<br />(2.170769387942296 Yrths)
+    mass: 1.296 × 10<sup>25</sup> kg<br />(2.17 Yrths)
     density: 4.491 g/cm<sup>3</sup>
     surface_gravity: 11.075 m/s<sup>2</sup><br />(1.129 g<sub>0</sub>)
     escape_velocity: 13.997 km/s<br />(50,389 km/h)
     rotation_period: 0.823 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 194 K<br />(-79 °C)
+    temperature: 311 K<br />(38 °C)
     surface_pressure: 7 kPa<br />(0 atm)
     composition:
       - 85.2989% methane
@@ -142,14 +142,14 @@ planets:
         radius: 4,282.7 km<br/>(0.672 Yrths)
         surface_area: 2.305 × 10<sup>08</sup> km<sup>2</sup><br/>(0.452 Yrths)
         volume: 3.290 × 10<sup>11</sup> km<sup>3</sup><br/>(0.304 Yrths)
-        mass: 6.852 × 10<sup>23</sup> kg<br />(2.170769387942296 Yrths)
+        mass: 6.852 × 10<sup>23</sup> kg<br />(0.115 Yrths)
         density: 2.082 g/cm<sup>3</sup>
         surface_gravity: 2.490 m/s<sup>2</sup><br />(0.254 g<sub>0</sub>)
         escape_velocity: 4.621 km/s<br />(16,637 km/h)
         rotation_period: 54.810 d
         axial_tilt: 52.70°
         albedo: 0.30
-        temperature: 2971 K<br />(2697 °C)
+        temperature: 172 K<br />(-101 °C)
   - name: Tave B III
     type: Ice giant
     aphelion: 2,370,858,736 km<br />15.848 AU
@@ -161,14 +161,14 @@ planets:
     radius: 37,281.9 km<br/>(5.852 Yrths)
     surface_area: 1.747 × 10<sup>10</sup> km<sup>2</sup><br/>(34.244 Yrths)
     volume: 2.171 × 10<sup>14</sup> km<sup>3</sup><br/>(200.388 Yrths)
-    mass: 3.320 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+    mass: 3.320 × 10<sup>26</sup> kg<br />(55.59 Yrths)
     density: 1.529 g/cm<sup>3</sup>
     surface_gravity: 15.920 m/s<sup>2</sup><br />(1.623 g<sub>0</sub>)
     escape_velocity: 34.477 km/s<br />(124,118 km/h)
     rotation_period: 0.319 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 197 K<br />(-76 °C)
+    temperature: 175 K<br />(-98 °C)
     composition:
       - 83.0599% hydrogen
       - 16.9401% helium
@@ -185,14 +185,14 @@ planets:
         radius: 38,625.4 km<br/>(6.063 Yrths)
         surface_area: 1.875 × 10<sup>10</sup> km<sup>2</sup><br/>(36.756 Yrths)
         volume: 2.414 × 10<sup>14</sup> km<sup>3</sup><br/>(222.842 Yrths)
-        mass: 3.309 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 3.309 × 10<sup>26</sup> kg<br />(55.404 Yrths)
         density: 1.371 g/cm<sup>3</sup>
         surface_gravity: 14.782 m/s<sup>2</sup><br />(1.507 g<sub>0</sub>)
         escape_velocity: 33.815 km/s<br />(121,735 km/h)
         rotation_period: 50.921 d
         axial_tilt: 13.59°
         albedo: 0.30
-        temperature: 1119 K<br />(846 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III b
         type: Icy
         formationType: Accreted
@@ -205,14 +205,14 @@ planets:
         radius: 38,234.0 km<br/>(6.001 Yrths)
         surface_area: 1.837 × 10<sup>10</sup> km<sup>2</sup><br/>(36.015 Yrths)
         volume: 2.341 × 10<sup>14</sup> km<sup>3</sup><br/>(216.136 Yrths)
-        mass: 1.905 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 1.905 × 10<sup>26</sup> kg<br />(31.894 Yrths)
         density: 0.814 g/cm<sup>3</sup>
         surface_gravity: 8.685 m/s<sup>2</sup><br />(0.886 g<sub>0</sub>)
         escape_velocity: 25.787 km/s<br />(92,835 km/h)
         rotation_period: 70.348 d
         axial_tilt: 21.33°
         albedo: 0.30
-        temperature: 1067 K<br />(794 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -225,14 +225,14 @@ planets:
         radius: 24,648.9 km<br/>(3.869 Yrths)
         surface_area: 7.635 × 10<sup>09</sup> km<sup>2</sup><br/>(14.969 Yrths)
         volume: 6.273 × 10<sup>13</sup> km<sup>3</sup><br/>(57.912 Yrths)
-        mass: 1.473 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 1.473 × 10<sup>26</sup> kg<br />(24.662 Yrths)
         density: 2.348 g/cm<sup>3</sup>
         surface_gravity: 16.157 m/s<sup>2</sup><br />(1.648 g<sub>0</sub>)
         escape_velocity: 28.242 km/s<br />(101,671 km/h)
         rotation_period: 36.695 d
         axial_tilt: 20.85°
         albedo: 0.30
-        temperature: 1018 K<br />(744 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III d
         type: Rocky
         formationType: Captured
@@ -245,14 +245,14 @@ planets:
         radius: 23,082.0 km<br/>(3.623 Yrths)
         surface_area: 6.695 × 10<sup>09</sup> km<sup>2</sup><br/>(13.126 Yrths)
         volume: 5.151 × 10<sup>13</sup> km<sup>3</sup><br/>(47.555 Yrths)
-        mass: 1.594 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 1.594 × 10<sup>26</sup> kg<br />(26.684 Yrths)
         density: 3.094 g/cm<sup>3</sup>
         surface_gravity: 19.936 m/s<sup>2</sup><br />(2.033 g<sub>0</sub>)
         escape_velocity: 30.358 km/s<br />(109,288 km/h)
         rotation_period: 50.929 d
         axial_tilt: 9.34°
         albedo: 0.30
-        temperature: 970 K<br />(697 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -265,14 +265,14 @@ planets:
         radius: 24,326.2 km<br/>(3.818 Yrths)
         surface_area: 7.436 × 10<sup>09</sup> km<sup>2</sup><br/>(14.579 Yrths)
         volume: 6.030 × 10<sup>13</sup> km<sup>3</sup><br/>(55.667 Yrths)
-        mass: 1.320 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 1.320 × 10<sup>26</sup> kg<br />(22.106 Yrths)
         density: 2.189 g/cm<sup>3</sup>
         surface_gravity: 14.870 m/s<sup>2</sup><br />(1.516 g<sub>0</sub>)
         escape_velocity: 26.915 km/s<br />(96,895 km/h)
         rotation_period: 35.840 d
         axial_tilt: 26.54°
         albedo: 0.30
-        temperature: 925 K<br />(652 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -285,14 +285,14 @@ planets:
         radius: 47,232.3 km<br/>(7.414 Yrths)
         surface_area: 2.803 × 10<sup>10</sup> km<sup>2</sup><br/>(54.962 Yrths)
         volume: 4.414 × 10<sup>14</sup> km<sup>3</sup><br/>(407.468 Yrths)
-        mass: 9.877 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 9.877 × 10<sup>26</sup> kg<br />(165.390 Yrths)
         density: 2.238 g/cm<sup>3</sup>
         surface_gravity: 29.510 m/s<sup>2</sup><br />(3.009 g<sub>0</sub>)
         escape_velocity: 52.834 km/s<br />(190,202 km/h)
         rotation_period: 38.931 d
         axial_tilt: 10.92°
         albedo: 0.30
-        temperature: 882 K<br />(609 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -305,14 +305,14 @@ planets:
         radius: 19,645.5 km<br/>(3.084 Yrths)
         surface_area: 4.850 × 10<sup>09</sup> km<sup>2</sup><br/>(9.508 Yrths)
         volume: 3.176 × 10<sup>13</sup> km<sup>3</sup><br/>(29.320 Yrths)
-        mass: 6.089 × 10<sup>25</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 6.089 × 10<sup>25</sup> kg<br />(10.197 Yrths)
         density: 1.917 g/cm<sup>3</sup>
         surface_gravity: 10.516 m/s<sup>2</sup><br />(1.072 g<sub>0</sub>)
         escape_velocity: 20.341 km/s<br />(73,228 km/h)
         rotation_period: 41.632 d
         axial_tilt: 22.69°
         albedo: 0.30
-        temperature: 802 K<br />(529 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III h
         type: Icy
         formationType: Captured
@@ -325,14 +325,14 @@ planets:
         radius: 29,501.8 km<br/>(4.631 Yrths)
         surface_area: 1.094 × 10<sup>10</sup> km<sup>2</sup><br/>(21.443 Yrths)
         volume: 1.076 × 10<sup>14</sup> km<sup>3</sup><br/>(99.294 Yrths)
-        mass: 1.615 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 1.615 × 10<sup>26</sup> kg<br />(27.047 Yrths)
         density: 1.502 g/cm<sup>3</sup>
         surface_gravity: 12.370 m/s<sup>2</sup><br />(1.261 g<sub>0</sub>)
         escape_velocity: 27.034 km/s<br />(97,323 km/h)
         rotation_period: 45.715 d
         axial_tilt: 9.04°
         albedo: 0.30
-        temperature: 764 K<br />(491 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III i
         type: Icy
         formationType: Accreted
@@ -345,14 +345,14 @@ planets:
         radius: 25,908.7 km<br/>(4.067 Yrths)
         surface_area: 8.435 × 10<sup>09</sup> km<sup>2</sup><br/>(16.538 Yrths)
         volume: 7.285 × 10<sup>13</sup> km<sup>3</sup><br/>(67.253 Yrths)
-        mass: 6.626 × 10<sup>25</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 6.626 × 10<sup>25</sup> kg<br />(11.095 Yrths)
         density: 0.910 g/cm<sup>3</sup>
         surface_gravity: 6.579 m/s<sup>2</sup><br />(0.671 g<sub>0</sub>)
         escape_velocity: 18.477 km/s<br />(66,516 km/h)
         rotation_period: 81.727 d
         axial_tilt: 18.21°
         albedo: 0.30
-        temperature: 729 K<br />(456 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III j
         type: Icy
         formationType: Impact formed
@@ -365,14 +365,14 @@ planets:
         radius: 52,782.9 km<br/>(8.285 Yrths)
         surface_area: 3.501 × 10<sup>10</sup> km<sup>2</sup><br/>(68.639 Yrths)
         volume: 6.160 × 10<sup>14</sup> km<sup>3</sup><br/>(568.664 Yrths)
-        mass: 7.599 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 7.599 × 10<sup>26</sup> kg<br />(127.243 Yrths)
         density: 1.234 g/cm<sup>3</sup>
         surface_gravity: 18.180 m/s<sup>2</sup><br />(1.854 g<sub>0</sub>)
         escape_velocity: 43.838 km/s<br />(157,816 km/h)
         rotation_period: 56.893 d
         axial_tilt: 16.52°
         albedo: 0.30
-        temperature: 663 K<br />(389 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: Tave B III k
         type: Rocky
         formationType: Accreted
@@ -385,12 +385,12 @@ planets:
         radius: 40,339.3 km<br/>(6.332 Yrths)
         surface_area: 2.045 × 10<sup>10</sup> km<sup>2</sup><br/>(40.090 Yrths)
         volume: 2.750 × 10<sup>14</sup> km<sup>3</sup><br/>(253.841 Yrths)
-        mass: 7.959 × 10<sup>26</sup> kg<br />(55.59091826075515 Yrths)
+        mass: 7.959 × 10<sup>26</sup> kg<br />(133.267 Yrths)
         density: 2.894 g/cm<sup>3</sup>
         surface_gravity: 32.599 m/s<sup>2</sup><br />(3.324 g<sub>0</sub>)
         escape_velocity: 51.319 km/s<br />(184,747 km/h)
         rotation_period: 33.103 d
         axial_tilt: 12.48°
         albedo: 0.30
-        temperature: 632 K<br />(359 °C)
+        temperature: 120 K<br />(-153 °C)
 ---

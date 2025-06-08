@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1833 Arkothiad is a star in the constellation Arkoth
+      1833 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 355.72 ly
 apparent_magnitude: 11.90
 absolute_magnitude: 6.71

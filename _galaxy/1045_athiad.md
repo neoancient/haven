@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1045 Athiad is a star in the constellation Ath
+      1045 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1470.92 ly
 apparent_magnitude: 18.08
 absolute_magnitude: 9.81

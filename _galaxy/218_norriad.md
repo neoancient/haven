@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      218 Norriad is a star in the constellation Nor
+      218 Norriad is a star in the constellation <a href="nor.html">Nor</a>
 distance: 2876.15 ly
 apparent_magnitude: 6.68
 absolute_magnitude: -3.05
@@ -31,14 +31,14 @@ planets:
     radius: 12,258.9 km<br/>(1.924 Yrths)
     surface_area: 1.888 × 10<sup>09</sup> km<sup>2</sup><br/>(3.702 Yrths)
     volume: 7.717 × 10<sup>12</sup> km<sup>3</sup><br/>(7.124 Yrths)
-    mass: 5.378 × 10<sup>25</sup> kg<br />(9.005751131066361 Yrths)
+    mass: 5.378 × 10<sup>25</sup> kg<br />(9.01 Yrths)
     density: 6.969 g/cm<sup>3</sup>
     surface_gravity: 23.854 m/s<sup>2</sup><br />(2.432 g<sub>0</sub>)
     escape_velocity: 24.200 km/s<br />(87,119 km/h)
     rotation_period: 0.481 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 1012 K<br />(739 °C)
+    temperature: 886 K<br />(613 °C)
     surface_pressure: 3,461 kPa<br />(34 atm)
     composition:
       - 96.8911% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 16,209.8 km<br/>(2.544 Yrths)
         surface_area: 3.302 × 10<sup>09</sup> km<sup>2</sup><br/>(6.474 Yrths)
         volume: 1.784 × 10<sup>13</sup> km<sup>3</sup><br/>(16.471 Yrths)
-        mass: 3.503 × 10<sup>25</sup> kg<br />(9.005751131066361 Yrths)
+        mass: 3.503 × 10<sup>25</sup> kg<br />(5.865 Yrths)
         density: 1.963 g/cm<sup>3</sup>
         surface_gravity: 8.885 m/s<sup>2</sup><br />(0.906 g<sub>0</sub>)
         escape_velocity: 16.983 km/s<br />(61,140 km/h)
         rotation_period: 45.358 d
         axial_tilt: 16.97°
         albedo: 0.30
-        temperature: 6679 K<br />(6406 °C)
+        temperature: 683 K<br />(410 °C)
       - name: 218 Norriad I b
         type: Rocky
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 6,877.2 km<br/>(1.079 Yrths)
         surface_area: 5.943 × 10<sup>08</sup> km<sup>2</sup><br/>(1.165 Yrths)
         volume: 1.362 × 10<sup>12</sup> km<sup>3</sup><br/>(1.258 Yrths)
-        mass: 3.773 × 10<sup>24</sup> kg<br />(9.005751131066361 Yrths)
+        mass: 3.773 × 10<sup>24</sup> kg<br />(0.632 Yrths)
         density: 2.770 g/cm<sup>3</sup>
         surface_gravity: 5.318 m/s<sup>2</sup><br />(0.542 g<sub>0</sub>)
         escape_velocity: 8.558 km/s<br />(30,809 km/h)
         rotation_period: 51.761 d
         axial_tilt: 20.76°
         albedo: 0.30
-        temperature: 6368 K<br />(6095 °C)
+        temperature: 683 K<br />(410 °C)
       - name: 218 Norriad I c
         type: Icy
         formationType: Impact formed
@@ -97,14 +97,14 @@ planets:
         radius: 5,013.3 km<br/>(0.787 Yrths)
         surface_area: 3.158 × 10<sup>08</sup> km<sup>2</sup><br/>(0.619 Yrths)
         volume: 5.278 × 10<sup>11</sup> km<sup>3</sup><br/>(0.487 Yrths)
-        mass: 6.822 × 10<sup>23</sup> kg<br />(9.005751131066361 Yrths)
+        mass: 6.822 × 10<sup>23</sup> kg<br />(0.114 Yrths)
         density: 1.293 g/cm<sup>3</sup>
         surface_gravity: 1.809 m/s<sup>2</sup><br />(0.184 g<sub>0</sub>)
         escape_velocity: 4.262 km/s<br />(15,343 km/h)
         rotation_period: 67.918 d
         axial_tilt: 18.26°
         albedo: 0.30
-        temperature: 6072 K<br />(5799 °C)
+        temperature: 683 K<br />(410 °C)
   - name: 218 Norriad II
     type: Ice giant
     aphelion: 1,847,024,135 km<br />12.346 AU
@@ -116,14 +116,14 @@ planets:
     radius: 40,631.5 km<br/>(6.378 Yrths)
     surface_area: 2.075 × 10<sup>10</sup> km<sup>2</sup><br/>(40.673 Yrths)
     volume: 2.810 × 10<sup>14</sup> km<sup>3</sup><br/>(259.397 Yrths)
-    mass: 3.360 × 10<sup>26</sup> kg<br />(56.256520757819246 Yrths)
+    mass: 3.360 × 10<sup>26</sup> kg<br />(56.26 Yrths)
     density: 1.196 g/cm<sup>3</sup>
     surface_gravity: 13.564 m/s<sup>2</sup><br />(1.383 g<sub>0</sub>)
     escape_velocity: 33.223 km/s<br />(119,601 km/h)
     rotation_period: 0.273 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 954 K<br />(681 °C)
+    temperature: 871 K<br />(598 °C)
     composition:
       - 89.6552% hydrogen
       - 9.3255% helium
@@ -142,14 +142,14 @@ planets:
         radius: 59,615.5 km<br/>(9.357 Yrths)
         surface_area: 4.466 × 10<sup>10</sup> km<sup>2</sup><br/>(87.560 Yrths)
         volume: 8.875 × 10<sup>14</sup> km<sup>3</sup><br/>(819.324 Yrths)
-        mass: 2.434 × 10<sup>27</sup> kg<br />(56.256520757819246 Yrths)
+        mass: 2.434 × 10<sup>27</sup> kg<br />(407.611 Yrths)
         density: 2.743 g/cm<sup>3</sup>
         surface_gravity: 45.652 m/s<sup>2</sup><br />(4.655 g<sub>0</sub>)
         escape_velocity: 73.828 km/s<br />(265,781 km/h)
         rotation_period: 40.128 d
         axial_tilt: 13.17°
         albedo: 0.30
-        temperature: 3327 K<br />(3054 °C)
+        temperature: 462 K<br />(189 °C)
       - name: 218 Norriad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -162,14 +162,14 @@ planets:
         radius: 34,786.8 km<br/>(5.460 Yrths)
         surface_area: 1.521 × 10<sup>10</sup> km<sup>2</sup><br/>(29.814 Yrths)
         volume: 1.763 × 10<sup>14</sup> km<sup>3</sup><br/>(162.787 Yrths)
-        mass: 4.907 × 10<sup>26</sup> kg<br />(56.256520757819246 Yrths)
+        mass: 4.907 × 10<sup>26</sup> kg<br />(82.166 Yrths)
         density: 2.783 g/cm<sup>3</sup>
         surface_gravity: 27.027 m/s<sup>2</sup><br />(2.756 g<sub>0</sub>)
         escape_velocity: 43.393 km/s<br />(156,214 km/h)
         rotation_period: 36.404 d
         axial_tilt: 20.28°
         albedo: 0.30
-        temperature: 2884 K<br />(2611 °C)
+        temperature: 462 K<br />(189 °C)
       - name: 218 Norriad II c
         type: Dwarf planet
         formationType: Accreted
@@ -182,14 +182,14 @@ planets:
         radius: 29,541.1 km<br/>(4.637 Yrths)
         surface_area: 1.097 × 10<sup>10</sup> km<sup>2</sup><br/>(21.500 Yrths)
         volume: 1.080 × 10<sup>14</sup> km<sup>3</sup><br/>(99.691 Yrths)
-        mass: 1.321 × 10<sup>26</sup> kg<br />(56.256520757819246 Yrths)
+        mass: 1.321 × 10<sup>26</sup> kg<br />(22.115 Yrths)
         density: 1.223 g/cm<sup>3</sup>
         surface_gravity: 10.087 m/s<sup>2</sup><br />(1.029 g<sub>0</sub>)
         escape_velocity: 24.429 km/s<br />(87,944 km/h)
         rotation_period: 51.954 d
         axial_tilt: 8.16°
         albedo: 0.30
-        temperature: 2750 K<br />(2477 °C)
+        temperature: 462 K<br />(189 °C)
       - name: 218 Norriad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 31,417.8 km<br/>(4.931 Yrths)
         surface_area: 1.240 × 10<sup>10</sup> km<sup>2</sup><br/>(24.318 Yrths)
         volume: 1.299 × 10<sup>14</sup> km<sup>3</sup><br/>(119.924 Yrths)
-        mass: 2.886 × 10<sup>26</sup> kg<br />(56.256520757819246 Yrths)
+        mass: 2.886 × 10<sup>26</sup> kg<br />(48.320 Yrths)
         density: 2.221 g/cm<sup>3</sup>
         surface_gravity: 19.486 m/s<sup>2</sup><br />(1.987 g<sub>0</sub>)
         escape_velocity: 35.015 km/s<br />(126,054 km/h)
         rotation_period: 34.352 d
         axial_tilt: 27.71°
         albedo: 0.30
-        temperature: 2622 K<br />(2349 °C)
+        temperature: 462 K<br />(189 °C)
       - name: 218 Norriad II e
         type: Icy
         formationType: Accreted
@@ -222,14 +222,14 @@ planets:
         radius: 30,163.5 km<br/>(4.734 Yrths)
         surface_area: 1.143 × 10<sup>10</sup> km<sup>2</sup><br/>(22.415 Yrths)
         volume: 1.150 × 10<sup>14</sup> km<sup>3</sup><br/>(106.126 Yrths)
-        mass: 1.155 × 10<sup>26</sup> kg<br />(56.256520757819246 Yrths)
+        mass: 1.155 × 10<sup>26</sup> kg<br />(19.338 Yrths)
         density: 1.005 g/cm<sup>3</sup>
         surface_gravity: 8.460 m/s<sup>2</sup><br />(0.863 g<sub>0</sub>)
         escape_velocity: 22.607 km/s<br />(81,385 km/h)
         rotation_period: 84.766 d
         axial_tilt: 13.56°
         albedo: 0.30
-        temperature: 2273 K<br />(2000 °C)
+        temperature: 462 K<br />(189 °C)
       - name: 218 Norriad II f
         type: Icy
         formationType: Accreted
@@ -242,12 +242,12 @@ planets:
         radius: 36,279.5 km<br/>(5.694 Yrths)
         surface_area: 1.654 × 10<sup>10</sup> km<sup>2</sup><br/>(32.427 Yrths)
         volume: 2.000 × 10<sup>14</sup> km<sup>3</sup><br/>(184.655 Yrths)
-        mass: 2.287 × 10<sup>26</sup> kg<br />(56.256520757819246 Yrths)
+        mass: 2.287 × 10<sup>26</sup> kg<br />(38.289 Yrths)
         density: 1.143 g/cm<sup>3</sup>
         surface_gravity: 11.579 m/s<sup>2</sup><br />(1.181 g<sub>0</sub>)
         escape_velocity: 29.006 km/s<br />(104,421 km/h)
         rotation_period: 62.893 d
         axial_tilt: 9.08°
         albedo: 0.30
-        temperature: 2167 K<br />(1894 °C)
+        temperature: 462 K<br />(189 °C)
 ---

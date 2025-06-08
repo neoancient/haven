@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2298 Anilliad is a star in the constellation Anil
+      2298 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 667.97 ly
 apparent_magnitude: 11.91
 absolute_magnitude: 5.35

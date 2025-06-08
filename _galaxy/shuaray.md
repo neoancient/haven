@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Shuaray is a star in the constellation Swither
+      Shuaray is a star in the constellation <a href="swither.html">Swither</a>
 distance: 586.37 ly
 apparent_magnitude: 1.36
 absolute_magnitude: -4.91

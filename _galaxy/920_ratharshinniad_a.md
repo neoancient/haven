@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      920 Ratharshinniad A is a star in the constellation Ratharshin
+      920 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 218.66 ly
 apparent_magnitude: 8.63
 absolute_magnitude: 4.50

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4542 Narashiad is a star in the constellation Naras
+      4542 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 525.58 ly
 apparent_magnitude: 8.78
 absolute_magnitude: 2.74

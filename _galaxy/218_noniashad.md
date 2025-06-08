@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      218 Noniashad is a star in the constellation Nonias
+      218 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 987.59 ly
 apparent_magnitude: 12.25
 absolute_magnitude: 4.84

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      276 Morrishothiad is a star in the constellation Morrishoth
+      276 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 409.97 ly
 apparent_magnitude: 10.84
 absolute_magnitude: 5.34

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      636 Ratharshinniad is a star in the constellation Ratharshin
+      636 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 459.39 ly
 apparent_magnitude: 8.53
 absolute_magnitude: 2.78

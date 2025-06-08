@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6220 Anilliad is a star in the constellation Anil
+      6220 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 492.84 ly
 apparent_magnitude: 10.82
 absolute_magnitude: 4.92

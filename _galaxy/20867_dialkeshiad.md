@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      20867 Dialkeshiad is a star in the constellation Dialkes
+      20867 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 284.65 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 2.82
@@ -31,14 +31,14 @@ planets:
     radius: 10,352.4 km<br/>(1.625 Yrths)
     surface_area: 1.347 × 10<sup>09</sup> km<sup>2</sup><br/>(2.640 Yrths)
     volume: 4.647 × 10<sup>12</sup> km<sup>3</sup><br/>(4.290 Yrths)
-    mass: 3.372 × 10<sup>25</sup> kg<br />(5.646508175026816 Yrths)
+    mass: 3.372 × 10<sup>25</sup> kg<br />(5.65 Yrths)
     density: 7.256 g/cm<sup>3</sup>
     surface_gravity: 20.972 m/s<sup>2</sup><br />(2.139 g<sub>0</sub>)
     escape_velocity: 20.852 km/s<br />(75,067 km/h)
     rotation_period: 0.670 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 578 K<br />(305 °C)
+    temperature: 776 K<br />(503 °C)
     surface_pressure: 3,531 kPa<br />(35 atm)
     composition:
       - 73.6104% nitrogen
@@ -60,14 +60,14 @@ planets:
         radius: 11,740.0 km<br/>(1.843 Yrths)
         surface_area: 1.732 × 10<sup>09</sup> km<sup>2</sup><br/>(3.396 Yrths)
         volume: 6.778 × 10<sup>12</sup> km<sup>3</sup><br/>(6.257 Yrths)
-        mass: 2.073 × 10<sup>25</sup> kg<br />(5.646508175026816 Yrths)
+        mass: 2.073 × 10<sup>25</sup> kg<br />(3.471 Yrths)
         density: 3.058 g/cm<sup>3</sup>
         surface_gravity: 10.023 m/s<sup>2</sup><br />(1.022 g<sub>0</sub>)
         escape_velocity: 15.351 km/s<br />(55,264 km/h)
         rotation_period: 46.701 d
         axial_tilt: 12.69°
         albedo: 0.30
-        temperature: 4446 K<br />(4173 °C)
+        temperature: 368 K<br />(95 °C)
       - name: 20867 Dialkeshiad I b
         type: Dwarf planet
         formationType: Impact formed
@@ -80,14 +80,14 @@ planets:
         radius: 4,729.4 km<br/>(0.742 Yrths)
         surface_area: 2.811 × 10<sup>08</sup> km<sup>2</sup><br/>(0.551 Yrths)
         volume: 4.431 × 10<sup>11</sup> km<sup>3</sup><br/>(0.409 Yrths)
-        mass: 8.824 × 10<sup>23</sup> kg<br />(5.646508175026816 Yrths)
+        mass: 8.824 × 10<sup>23</sup> kg<br />(0.148 Yrths)
         density: 1.991 g/cm<sup>3</sup>
         surface_gravity: 2.629 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
         escape_velocity: 4.990 km/s<br />(17,966 km/h)
         rotation_period: 52.073 d
         axial_tilt: 38.86°
         albedo: 0.30
-        temperature: 4239 K<br />(3966 °C)
+        temperature: 368 K<br />(95 °C)
   - name: 20867 Dialkeshiad II
     type: Large terrestrial
     aphelion: 335,787,358 km<br />2.245 AU
@@ -99,14 +99,14 @@ planets:
     radius: 9,531.6 km<br/>(1.496 Yrths)
     surface_area: 1.142 × 10<sup>09</sup> km<sup>2</sup><br/>(2.238 Yrths)
     volume: 3.627 × 10<sup>12</sup> km<sup>3</sup><br/>(3.349 Yrths)
-    mass: 2.301 × 10<sup>25</sup> kg<br />(3.853014773964311 Yrths)
+    mass: 2.301 × 10<sup>25</sup> kg<br />(3.85 Yrths)
     density: 6.344 g/cm<sup>3</sup>
     surface_gravity: 16.881 m/s<sup>2</sup><br />(1.721 g<sub>0</sub>)
     escape_velocity: 17.951 km/s<br />(64,625 km/h)
     rotation_period: 0.676 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 400 K<br />(127 °C)
+    temperature: 492 K<br />(219 °C)
     surface_pressure: 1,395 kPa<br />(14 atm)
     composition:
       - 94.1246% methane
@@ -125,14 +125,14 @@ planets:
         radius: 4,691.1 km<br/>(0.736 Yrths)
         surface_area: 2.765 × 10<sup>08</sup> km<sup>2</sup><br/>(0.542 Yrths)
         volume: 4.324 × 10<sup>11</sup> km<sup>3</sup><br/>(0.399 Yrths)
-        mass: 1.002 × 10<sup>24</sup> kg<br />(3.853014773964311 Yrths)
+        mass: 1.002 × 10<sup>24</sup> kg<br />(0.168 Yrths)
         density: 2.317 g/cm<sup>3</sup>
         surface_gravity: 3.034 m/s<sup>2</sup><br />(0.309 g<sub>0</sub>)
         escape_velocity: 5.339 km/s<br />(19,220 km/h)
         rotation_period: 48.824 d
         axial_tilt: 17.06°
         albedo: 0.30
-        temperature: 3463 K<br />(3190 °C)
+        temperature: 272 K<br />(-2 °C)
       - name: 20867 Dialkeshiad II b
         type: Rocky
         formationType: Captured
@@ -145,12 +145,12 @@ planets:
         radius: 5,894.9 km<br/>(0.925 Yrths)
         surface_area: 4.367 × 10<sup>08</sup> km<sup>2</sup><br/>(0.856 Yrths)
         volume: 8.581 × 10<sup>11</sup> km<sup>3</sup><br/>(0.792 Yrths)
-        mass: 2.570 × 10<sup>24</sup> kg<br />(3.853014773964311 Yrths)
+        mass: 2.570 × 10<sup>24</sup> kg<br />(0.430 Yrths)
         density: 2.995 g/cm<sup>3</sup>
         surface_gravity: 4.929 m/s<sup>2</sup><br />(0.503 g<sub>0</sub>)
         escape_velocity: 7.628 km/s<br />(27,461 km/h)
         rotation_period: 28.790 d
         axial_tilt: 16.55°
         albedo: 0.30
-        temperature: 3302 K<br />(3029 °C)
+        temperature: 272 K<br />(-2 °C)
 ---

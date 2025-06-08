@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10323 Dialkeshiad is a star in the constellation Dialkes
+      10323 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 418.41 ly
 apparent_magnitude: 11.78
 absolute_magnitude: 6.24

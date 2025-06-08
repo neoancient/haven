@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3055 Saithiad A is a star in the constellation Saith
+      3055 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1149.97 ly
 apparent_magnitude: 7.01
 absolute_magnitude: -0.72

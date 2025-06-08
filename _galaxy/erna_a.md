@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Erna A is a star in the constellation Nor
+      Erna A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1188.47 ly
 apparent_magnitude: 2.71
 absolute_magnitude: -5.10

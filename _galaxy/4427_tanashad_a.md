@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4427 Tanashad A is a star in the constellation Tanas
+      4427 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 268.51 ly
 apparent_magnitude: 8.98
 absolute_magnitude: 4.40

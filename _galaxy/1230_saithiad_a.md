@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1230 Saithiad A is a star in the constellation Saith
+      1230 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1098.93 ly
 apparent_magnitude: 6.66
 absolute_magnitude: -0.98

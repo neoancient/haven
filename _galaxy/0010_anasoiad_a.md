@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0010 Anasoiad A is a star in the constellation Anaso
+      0010 Anasoiad A is a star in the constellation <a href="anaso.html">Anaso</a>
 distance: 407.39 ly
 apparent_magnitude: 5.62
 absolute_magnitude: 0.14

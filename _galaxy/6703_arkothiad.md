@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6703 Arkothiad is a star in the constellation Arkoth
+      6703 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 282.17 ly
 apparent_magnitude: 9.46
 absolute_magnitude: 4.77
@@ -31,7 +31,7 @@ planets:
     radius: 6,469.7 km<br/>(1.015 Yrths)
     surface_area: 5.260 × 10<sup>08</sup> km<sup>2</sup><br/>(1.031 Yrths)
     volume: 1.134 × 10<sup>12</sup> km<sup>3</sup><br/>(1.047 Yrths)
-    mass: 7.271 × 10<sup>24</sup> kg<br />(1.2175499753285133 Yrths)
+    mass: 7.271 × 10<sup>24</sup> kg<br />(1.22 Yrths)
     density: 6.410 g/cm<sup>3</sup>
     surface_gravity: 11.579 m/s<sup>2</sup><br />(1.181 g<sub>0</sub>)
     escape_velocity: 12.248 km/s<br />(44,094 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 1,847.2 km<br/>(0.290 Yrths)
         surface_area: 4.288 × 10<sup>07</sup> km<sup>2</sup><br/>(0.084 Yrths)
         volume: 2.640 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 9.151 × 10<sup>22</sup> kg<br />(1.2175499753285133 Yrths)
+        mass: 9.151 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 3.466 g/cm<sup>3</sup>
         surface_gravity: 1.788 m/s<sup>2</sup><br />(0.182 g<sub>0</sub>)
         escape_velocity: 2.572 km/s<br />(9,258 km/h)
         rotation_period: 30.630 d
         axial_tilt: 16.79°
         albedo: 0.30
-        temperature: 3363 K<br />(3089 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 6703 Arkothiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 3,615.6 km<br/>(0.568 Yrths)
         surface_area: 1.643 × 10<sup>08</sup> km<sup>2</sup><br/>(0.322 Yrths)
         volume: 1.980 × 10<sup>11</sup> km<sup>3</sup><br/>(0.183 Yrths)
-        mass: 4.036 × 10<sup>23</sup> kg<br />(1.2175499753285133 Yrths)
+        mass: 4.036 × 10<sup>23</sup> kg<br />(0.068 Yrths)
         density: 2.039 g/cm<sup>3</sup>
         surface_gravity: 2.058 m/s<sup>2</sup><br />(0.210 g<sub>0</sub>)
         escape_velocity: 3.860 km/s<br />(13,897 km/h)
         rotation_period: 56.392 d
         axial_tilt: 21.96°
         albedo: 0.30
-        temperature: 3206 K<br />(2933 °C)
+        temperature: 246 K<br />(-27 °C)
   - name: 6703 Arkothiad II
     type: Large terrestrial
     aphelion: 305,414,382 km<br />2.042 AU
@@ -91,14 +91,14 @@ planets:
     radius: 10,210.5 km<br/>(1.603 Yrths)
     surface_area: 1.310 × 10<sup>09</sup> km<sup>2</sup><br/>(2.568 Yrths)
     volume: 4.459 × 10<sup>12</sup> km<sup>3</sup><br/>(4.116 Yrths)
-    mass: 2.909 × 10<sup>25</sup> kg<br />(4.871344790317922 Yrths)
+    mass: 2.909 × 10<sup>25</sup> kg<br />(4.87 Yrths)
     density: 6.524 g/cm<sup>3</sup>
     surface_gravity: 18.599 m/s<sup>2</sup><br />(1.897 g<sub>0</sub>)
     escape_velocity: 19.502 km/s<br />(70,207 km/h)
     rotation_period: 0.779 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 232 K<br />(-42 °C)
+    temperature: 294 K<br />(21 °C)
     surface_pressure: 118 kPa<br />(1 atm)
     composition:
       - 89.5137% ammonia
@@ -117,14 +117,14 @@ planets:
         radius: 7,653.9 km<br/>(1.201 Yrths)
         surface_area: 7.362 × 10<sup>08</sup> km<sup>2</sup><br/>(1.443 Yrths)
         volume: 1.878 × 10<sup>12</sup> km<sup>3</sup><br/>(1.734 Yrths)
-        mass: 1.644 × 10<sup>24</sup> kg<br />(4.871344790317922 Yrths)
+        mass: 1.644 × 10<sup>24</sup> kg<br />(0.275 Yrths)
         density: 0.875 g/cm<sup>3</sup>
         surface_gravity: 1.870 m/s<sup>2</sup><br />(0.191 g<sub>0</sub>)
         escape_velocity: 5.354 km/s<br />(19,274 km/h)
         rotation_period: 91.212 d
         axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 2095 K<br />(1822 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 6703 Arkothiad II b
         type: Rocky
         formationType: Impact formed
@@ -137,14 +137,14 @@ planets:
         radius: 5,544.7 km<br/>(0.870 Yrths)
         surface_area: 3.863 × 10<sup>08</sup> km<sup>2</sup><br/>(0.757 Yrths)
         volume: 7.140 × 10<sup>11</sup> km<sup>3</sup><br/>(0.659 Yrths)
-        mass: 1.961 × 10<sup>24</sup> kg<br />(4.871344790317922 Yrths)
+        mass: 1.961 × 10<sup>24</sup> kg<br />(0.328 Yrths)
         density: 2.747 g/cm<sup>3</sup>
         surface_gravity: 4.252 m/s<sup>2</sup><br />(0.434 g<sub>0</sub>)
         escape_velocity: 6.871 km/s<br />(24,736 km/h)
         rotation_period: 36.069 d
         axial_tilt: 14.21°
         albedo: 0.30
-        temperature: 1997 K<br />(1724 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 6703 Arkothiad II c
         type: Icy
         formationType: Captured
@@ -157,14 +157,14 @@ planets:
         radius: 13,770.1 km<br/>(2.161 Yrths)
         surface_area: 2.383 × 10<sup>09</sup> km<sup>2</sup><br/>(4.672 Yrths)
         volume: 1.094 × 10<sup>13</sup> km<sup>3</sup><br/>(10.097 Yrths)
-        mass: 9.034 × 10<sup>24</sup> kg<br />(4.871344790317922 Yrths)
+        mass: 9.034 × 10<sup>24</sup> kg<br />(1.513 Yrths)
         density: 0.826 g/cm<sup>3</sup>
         surface_gravity: 3.175 m/s<sup>2</sup><br />(0.324 g<sub>0</sub>)
         escape_velocity: 9.358 km/s<br />(33,689 km/h)
         rotation_period: 77.168 d
         axial_tilt: 16.80°
         albedo: 0.30
-        temperature: 1904 K<br />(1631 °C)
+        temperature: 183 K<br />(-90 °C)
   - name: 6703 Arkothiad III
     type: Gas giant
     aphelion: 563,959,719 km<br />3.770 AU
@@ -176,7 +176,7 @@ planets:
     radius: 233.4 km<br/>(0.037 Yrths)
     surface_area: 6.845 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.325 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.994 × 10<sup>27</sup> kg<br />(333.9733847766119 Yrths)
+    mass: 1.994 × 10<sup>27</sup> kg<br />(333.97 Yrths)
     density: 37455018.176 g/cm<sup>3</sup>
     surface_gravity: 2440576.284 m/s<sup>2</sup><br />(248869.521 g<sub>0</sub>)
     escape_velocity: 1068.058 km/s<br />(3,845,009 km/h)
@@ -197,14 +197,14 @@ planets:
         radius: 172,345.9 km<br/>(27.052 Yrths)
         surface_area: 3.733 × 10<sup>11</sup> km<sup>2</sup><br/>(731.790 Yrths)
         volume: 2.144 × 10<sup>16</sup> km<sup>3</sup><br/>(19796.107 Yrths)
-        mass: 3.458 × 10<sup>28</sup> kg<br />(333.9733847766119 Yrths)
+        mass: 3.458 × 10<sup>28</sup> kg<br />(5790.697 Yrths)
         density: 1.613 g/cm<sup>3</sup>
         surface_gravity: 77.601 m/s<sup>2</sup><br />(7.913 g<sub>0</sub>)
         escape_velocity: 163.660 km/s<br />(589,176 km/h)
         rotation_period: 66.915 d
         axial_tilt: 22.94°
         albedo: 0.30
-        temperature: 606 K<br />(333 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 6703 Arkothiad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -217,14 +217,14 @@ planets:
         radius: 267,931.2 km<br/>(42.055 Yrths)
         surface_area: 9.021 × 10<sup>11</sup> km<sup>2</sup><br/>(1768.607 Yrths)
         volume: 8.057 × 10<sup>16</sup> km<sup>3</sup><br/>(74378.454 Yrths)
-        mass: 1.885 × 10<sup>29</sup> kg<br />(333.9733847766119 Yrths)
+        mass: 1.885 × 10<sup>29</sup> kg<br />(31564.786 Yrths)
         density: 2.340 g/cm<sup>3</sup>
         surface_gravity: 175.022 m/s<sup>2</sup><br />(17.847 g<sub>0</sub>)
         escape_velocity: 306.456 km/s<br />(1,103,240 km/h)
         rotation_period: 46.597 d
         axial_tilt: 22.87°
         albedo: 0.30
-        temperature: 311 K<br />(38 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 6703 Arkothiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -237,14 +237,14 @@ planets:
         radius: 166,730.3 km<br/>(26.170 Yrths)
         surface_area: 3.493 × 10<sup>11</sup> km<sup>2</sup><br/>(684.879 Yrths)
         volume: 1.941 × 10<sup>16</sup> km<sup>3</sup><br/>(17923.414 Yrths)
-        mass: 3.946 × 10<sup>28</sup> kg<br />(333.9733847766119 Yrths)
+        mass: 3.946 × 10<sup>28</sup> kg<br />(6607.863 Yrths)
         density: 2.033 g/cm<sup>3</sup>
         surface_gravity: 94.617 m/s<sup>2</sup><br />(9.648 g<sub>0</sub>)
         escape_velocity: 177.746 km/s<br />(639,887 km/h)
         rotation_period: 35.570 d
         axial_tilt: 29.26°
         albedo: 0.30
-        temperature: 234 K<br />(-40 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 6703 Arkothiad III d
         type: Icy
         formationType: Captured
@@ -257,14 +257,14 @@ planets:
         radius: 244,279.7 km<br/>(38.342 Yrths)
         surface_area: 7.499 × 10<sup>11</sup> km<sup>2</sup><br/>(1470.143 Yrths)
         volume: 6.106 × 10<sup>16</sup> km<sup>3</sup><br/>(56368.900 Yrths)
-        mass: 6.061 × 10<sup>28</sup> kg<br />(333.9733847766119 Yrths)
+        mass: 6.061 × 10<sup>28</sup> kg<br />(10148.399 Yrths)
         density: 0.993 g/cm<sup>3</sup>
         surface_gravity: 67.695 m/s<sup>2</sup><br />(6.903 g<sub>0</sub>)
         escape_velocity: 181.984 km/s<br />(655,142 km/h)
         rotation_period: 66.294 d
         axial_tilt: 18.22°
         albedo: 0.30
-        temperature: 152 K<br />(-121 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 6703 Arkothiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -277,14 +277,14 @@ planets:
         radius: 208,674.6 km<br/>(32.754 Yrths)
         surface_area: 5.472 × 10<sup>11</sup> km<sup>2</sup><br/>(1072.812 Yrths)
         volume: 3.806 × 10<sup>16</sup> km<sup>3</sup><br/>(35138.700 Yrths)
-        mass: 7.993 × 10<sup>28</sup> kg<br />(333.9733847766119 Yrths)
+        mass: 7.993 × 10<sup>28</sup> kg<br />(13384.193 Yrths)
         density: 2.100 g/cm<sup>3</sup>
         surface_gravity: 122.346 m/s<sup>2</sup><br />(12.476 g<sub>0</sub>)
         escape_velocity: 226.120 km/s<br />(814,032 km/h)
         rotation_period: 38.914 d
         axial_tilt: 19.51°
         albedo: 0.30
-        temperature: 126 K<br />(-147 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 6703 Arkothiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -297,14 +297,14 @@ planets:
         radius: 175,946.9 km<br/>(27.617 Yrths)
         surface_area: 3.890 × 10<sup>11</sup> km<sup>2</sup><br/>(762.690 Yrths)
         volume: 2.282 × 10<sup>16</sup> km<sup>3</sup><br/>(21063.091 Yrths)
-        mass: 5.565 × 10<sup>28</sup> kg<br />(333.9733847766119 Yrths)
+        mass: 5.565 × 10<sup>28</sup> kg<br />(9317.712 Yrths)
         density: 2.439 g/cm<sup>3</sup>
         surface_gravity: 119.807 m/s<sup>2</sup><br />(12.217 g<sub>0</sub>)
         escape_velocity: 205.467 km/s<br />(739,680 km/h)
         rotation_period: 45.464 d
         axial_tilt: 19.80°
         albedo: 0.30
-        temperature: 99 K<br />(-174 °C)
+        temperature: 137 K<br />(-136 °C)
       - name: 6703 Arkothiad III g
         type: Icy
         formationType: Accreted
@@ -317,14 +317,14 @@ planets:
         radius: 237,324.1 km<br/>(37.251 Yrths)
         surface_area: 7.078 × 10<sup>11</sup> km<sup>2</sup><br/>(1387.613 Yrths)
         volume: 5.599 × 10<sup>16</sup> km<sup>3</sup><br/>(51689.541 Yrths)
-        mass: 5.401 × 10<sup>28</sup> kg<br />(333.9733847766119 Yrths)
+        mass: 5.401 × 10<sup>28</sup> kg<br />(9044.330 Yrths)
         density: 0.965 g/cm<sup>3</sup>
         surface_gravity: 63.919 m/s<sup>2</sup><br />(6.518 g<sub>0</sub>)
         escape_velocity: 174.299 km/s<br />(627,477 km/h)
         rotation_period: 99.809 d
         axial_tilt: 16.76°
         albedo: 0.30
-        temperature: 62 K<br />(-212 °C)
+        temperature: 137 K<br />(-136 °C)
   - name: 6703 Arkothiad IV
     type: Gas giant
     aphelion: 1,118,412,991 km<br />7.476 AU
@@ -336,7 +336,7 @@ planets:
     radius: 203.6 km<br/>(0.032 Yrths)
     surface_area: 5.210 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.536 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.096 × 10<sup>27</sup> kg<br />(183.57021294622132 Yrths)
+    mass: 1.096 × 10<sup>27</sup> kg<br />(183.57 Yrths)
     density: 30999447.028 g/cm<sup>3</sup>
     surface_gravity: 1762321.452 m/s<sup>2</sup><br />(179706.776 g<sub>0</sub>)
     escape_velocity: 847.746 km/s<br />(3,051,885 km/h)
@@ -357,14 +357,14 @@ planets:
         radius: 137,322.1 km<br/>(21.554 Yrths)
         surface_area: 2.370 × 10<sup>11</sup> km<sup>2</sup><br/>(464.586 Yrths)
         volume: 1.085 × 10<sup>16</sup> km<sup>3</sup><br/>(10013.798 Yrths)
-        mass: 8.659 × 10<sup>27</sup> kg<br />(183.57021294622132 Yrths)
+        mass: 8.659 × 10<sup>27</sup> kg<br />(1449.983 Yrths)
         density: 0.798 g/cm<sup>3</sup>
         surface_gravity: 30.607 m/s<sup>2</sup><br />(3.121 g<sub>0</sub>)
         escape_velocity: 91.746 km/s<br />(330,287 km/h)
         rotation_period: 66.480 d
         axial_tilt: 17.17°
         albedo: 0.30
-        temperature: 412 K<br />(139 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 6703 Arkothiad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -377,14 +377,14 @@ planets:
         radius: 101,932.0 km<br/>(15.999 Yrths)
         surface_area: 1.306 × 10<sup>11</sup> km<sup>2</sup><br/>(255.980 Yrths)
         volume: 4.436 × 10<sup>15</sup> km<sup>3</sup><br/>(4095.518 Yrths)
-        mass: 9.866 × 10<sup>27</sup> kg<br />(183.57021294622132 Yrths)
+        mass: 9.866 × 10<sup>27</sup> kg<br />(1652.063 Yrths)
         density: 2.224 g/cm<sup>3</sup>
         surface_gravity: 63.291 m/s<sup>2</sup><br />(6.454 g<sub>0</sub>)
         escape_velocity: 113.667 km/s<br />(409,203 km/h)
         rotation_period: 40.796 d
         axial_tilt: 22.91°
         albedo: 0.30
-        temperature: 375 K<br />(102 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 6703 Arkothiad IV c
         type: Asteroid
         formationType: Captured
@@ -397,14 +397,14 @@ planets:
         radius: 145,214.3 km<br/>(22.793 Yrths)
         surface_area: 2.650 × 10<sup>11</sup> km<sup>2</sup><br/>(519.522 Yrths)
         volume: 1.283 × 10<sup>16</sup> km<sup>3</sup><br/>(11841.473 Yrths)
-        mass: 2.889 × 10<sup>28</sup> kg<br />(183.57021294622132 Yrths)
+        mass: 2.889 × 10<sup>28</sup> kg<br />(4836.751 Yrths)
         density: 2.252 g/cm<sup>3</sup>
         surface_gravity: 91.300 m/s<sup>2</sup><br />(9.310 g<sub>0</sub>)
         escape_velocity: 162.948 km/s<br />(586,614 km/h)
         rotation_period: 36.624 d
         axial_tilt: 54.09°
         albedo: 0.30
-        temperature: 269 K<br />(-5 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 6703 Arkothiad IV d
         type: Icy
         formationType: Captured
@@ -417,14 +417,14 @@ planets:
         radius: 123,336.2 km<br/>(19.359 Yrths)
         surface_area: 1.912 × 10<sup>11</sup> km<sup>2</sup><br/>(374.771 Yrths)
         volume: 7.859 × 10<sup>15</sup> km<sup>3</sup><br/>(7255.193 Yrths)
-        mass: 9.913 × 10<sup>27</sup> kg<br />(183.57021294622132 Yrths)
+        mass: 9.913 × 10<sup>27</sup> kg<br />(1659.975 Yrths)
         density: 1.261 g/cm<sup>3</sup>
         surface_gravity: 43.437 m/s<sup>2</sup><br />(4.429 g<sub>0</sub>)
         escape_velocity: 103.582 km/s<br />(372,894 km/h)
         rotation_period: 55.955 d
         axial_tilt: 11.57°
         albedo: 0.30
-        temperature: 212 K<br />(-62 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 6703 Arkothiad IV e
         type: Icy
         formationType: Accreted
@@ -437,14 +437,14 @@ planets:
         radius: 164,420.3 km<br/>(25.808 Yrths)
         surface_area: 3.397 × 10<sup>11</sup> km<sup>2</sup><br/>(666.033 Yrths)
         volume: 1.862 × 10<sup>16</sup> km<sup>3</sup><br/>(17188.721 Yrths)
-        mass: 2.050 × 10<sup>28</sup> kg<br />(183.57021294622132 Yrths)
+        mass: 2.050 × 10<sup>28</sup> kg<br />(3432.101 Yrths)
         density: 1.101 g/cm<sup>3</sup>
         surface_gravity: 50.534 m/s<sup>2</sup><br />(5.153 g<sub>0</sub>)
         escape_velocity: 128.997 km/s<br />(464,390 km/h)
         rotation_period: 65.513 d
         axial_tilt: 16.75°
         albedo: 0.30
-        temperature: 202 K<br />(-71 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 6703 Arkothiad IV f
         type: Icy
         formationType: Accreted
@@ -457,14 +457,14 @@ planets:
         radius: 140,121.9 km<br/>(21.994 Yrths)
         surface_area: 2.467 × 10<sup>11</sup> km<sup>2</sup><br/>(483.723 Yrths)
         volume: 1.152 × 10<sup>16</sup> km<sup>3</sup><br/>(10638.872 Yrths)
-        mass: 1.226 × 10<sup>28</sup> kg<br />(183.57021294622132 Yrths)
+        mass: 1.226 × 10<sup>28</sup> kg<br />(2052.080 Yrths)
         density: 1.063 g/cm<sup>3</sup>
         surface_gravity: 41.602 m/s<sup>2</sup><br />(4.242 g<sub>0</sub>)
         escape_velocity: 108.049 km/s<br />(388,977 km/h)
         rotation_period: 80.884 d
         axial_tilt: 21.79°
         albedo: 0.30
-        temperature: 167 K<br />(-106 °C)
+        temperature: 102 K<br />(-171 °C)
   - name: 6703 Arkothiad V
     type: Large terrestrial
     aphelion: 1,868,705,773 km<br />12.491 AU
@@ -476,14 +476,14 @@ planets:
     radius: 9,549.0 km<br/>(1.499 Yrths)
     surface_area: 1.146 × 10<sup>09</sup> km<sup>2</sup><br/>(2.246 Yrths)
     volume: 3.647 × 10<sup>12</sup> km<sup>3</sup><br/>(3.367 Yrths)
-    mass: 2.352 × 10<sup>25</sup> kg<br />(3.9392014508719257 Yrths)
+    mass: 2.352 × 10<sup>25</sup> kg<br />(3.94 Yrths)
     density: 6.450 g/cm<sup>3</sup>
     surface_gravity: 17.196 m/s<sup>2</sup><br />(1.754 g<sub>0</sub>)
     escape_velocity: 18.134 km/s<br />(65,284 km/h)
     rotation_period: 0.637 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 102 K<br />(-171 °C)
+    temperature: 142 K<br />(-131 °C)
     surface_pressure: 245 kPa<br />(2 atm)
     composition:
       - 82.2655% methane
@@ -503,14 +503,14 @@ planets:
         radius: 5,550.6 km<br/>(0.871 Yrths)
         surface_area: 3.872 × 10<sup>08</sup> km<sup>2</sup><br/>(0.759 Yrths)
         volume: 7.163 × 10<sup>11</sup> km<sup>3</sup><br/>(0.661 Yrths)
-        mass: 1.767 × 10<sup>24</sup> kg<br />(3.9392014508719257 Yrths)
+        mass: 1.767 × 10<sup>24</sup> kg<br />(0.296 Yrths)
         density: 2.467 g/cm<sup>3</sup>
         surface_gravity: 3.824 m/s<sup>2</sup><br />(0.390 g<sub>0</sub>)
         escape_velocity: 6.520 km/s<br />(23,471 km/h)
         rotation_period: 36.060 d
         axial_tilt: 15.72°
         albedo: 0.30
-        temperature: 915 K<br />(642 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 6703 Arkothiad V b
         type: Rocky
         formationType: Captured
@@ -523,14 +523,14 @@ planets:
         radius: 8,812.1 km<br/>(1.383 Yrths)
         surface_area: 9.758 × 10<sup>08</sup> km<sup>2</sup><br/>(1.913 Yrths)
         volume: 2.866 × 10<sup>12</sup> km<sup>3</sup><br/>(2.646 Yrths)
-        mass: 7.938 × 10<sup>24</sup> kg<br />(3.9392014508719257 Yrths)
+        mass: 7.938 × 10<sup>24</sup> kg<br />(1.329 Yrths)
         density: 2.769 g/cm<sup>3</sup>
         surface_gravity: 6.813 m/s<sup>2</sup><br />(0.695 g<sub>0</sub>)
         escape_velocity: 10.965 km/s<br />(39,475 km/h)
         rotation_period: 32.419 d
         axial_tilt: 10.32°
         albedo: 0.30
-        temperature: 873 K<br />(600 °C)
+        temperature: 76 K<br />(-197 °C)
   - name: 6703 Arkothiad VI
     type: Gas giant
     aphelion: 3,326,166,950 km<br />22.234 AU
@@ -542,7 +542,7 @@ planets:
     radius: 219.4 km<br/>(0.034 Yrths)
     surface_area: 6.052 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.427 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.499 × 10<sup>27</sup> kg<br />(250.96906998917322 Yrths)
+    mass: 1.499 × 10<sup>27</sup> kg<br />(250.97 Yrths)
     density: 33858462.689 g/cm<sup>3</sup>
     surface_gravity: 2074435.726 m/s<sup>2</sup><br />(211533.574 g<sub>0</sub>)
     escape_velocity: 954.825 km/s<br />(3,437,370 km/h)
@@ -563,14 +563,14 @@ planets:
         radius: 182,613.9 km<br/>(28.663 Yrths)
         surface_area: 4.191 × 10<sup>11</sup> km<sup>2</sup><br/>(821.585 Yrths)
         volume: 2.551 × 10<sup>16</sup> km<sup>3</sup><br/>(23549.355 Yrths)
-        mass: 3.988 × 10<sup>28</sup> kg<br />(250.96906998917322 Yrths)
+        mass: 3.988 × 10<sup>28</sup> kg<br />(6677.968 Yrths)
         density: 1.563 g/cm<sup>3</sup>
         surface_gravity: 79.710 m/s<sup>2</sup><br />(8.128 g<sub>0</sub>)
         escape_velocity: 170.739 km/s<br />(614,661 km/h)
         rotation_period: 40.573 d
         axial_tilt: 19.43°
         albedo: 0.30
-        temperature: 142 K<br />(-131 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 6703 Arkothiad VI b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -583,14 +583,14 @@ planets:
         radius: 147,877.6 km<br/>(23.211 Yrths)
         surface_area: 2.748 × 10<sup>11</sup> km<sup>2</sup><br/>(538.753 Yrths)
         volume: 1.355 × 10<sup>16</sup> km<sup>3</sup><br/>(12505.013 Yrths)
-        mass: 3.091 × 10<sup>28</sup> kg<br />(250.96906998917322 Yrths)
+        mass: 3.091 × 10<sup>28</sup> kg<br />(5175.499 Yrths)
         density: 2.282 g/cm<sup>3</sup>
         surface_gravity: 94.207 m/s<sup>2</sup><br />(9.606 g<sub>0</sub>)
         escape_velocity: 167.033 km/s<br />(601,319 km/h)
         rotation_period: 37.374 d
         axial_tilt: 21.03°
         albedo: 0.30
-        temperature: 97 K<br />(-176 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 6703 Arkothiad VI c
         type: Icy
         formationType: Impact formed
@@ -603,14 +603,14 @@ planets:
         radius: 191,706.1 km<br/>(30.090 Yrths)
         surface_area: 4.618 × 10<sup>11</sup> km<sup>2</sup><br/>(905.434 Yrths)
         volume: 2.951 × 10<sup>16</sup> km<sup>3</sup><br/>(27244.899 Yrths)
-        mass: 4.368 × 10<sup>28</sup> kg<br />(250.96906998917322 Yrths)
+        mass: 4.368 × 10<sup>28</sup> kg<br />(7314.022 Yrths)
         density: 1.480 g/cm<sup>3</sup>
         surface_gravity: 79.217 m/s<sup>2</sup><br />(8.078 g<sub>0</sub>)
         escape_velocity: 174.397 km/s<br />(627,828 km/h)
         rotation_period: 57.538 d
         axial_tilt: 24.14°
         albedo: 0.30
-        temperature: 63 K<br />(-210 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 6703 Arkothiad VI d
         type: Icy
         formationType: Accreted
@@ -623,14 +623,14 @@ planets:
         radius: 189,111.6 km<br/>(29.683 Yrths)
         surface_area: 4.494 × 10<sup>11</sup> km<sup>2</sup><br/>(881.092 Yrths)
         volume: 2.833 × 10<sup>16</sup> km<sup>3</sup><br/>(26153.633 Yrths)
-        mass: 3.902 × 10<sup>28</sup> kg<br />(250.96906998917322 Yrths)
+        mass: 3.902 × 10<sup>28</sup> kg<br />(6534.036 Yrths)
         density: 1.377 g/cm<sup>3</sup>
         surface_gravity: 72.725 m/s<sup>2</sup><br />(7.416 g<sub>0</sub>)
         escape_velocity: 165.962 km/s<br />(597,464 km/h)
         rotation_period: 79.847 d
         axial_tilt: 12.23°
         albedo: 0.30
-        temperature: 52 K<br />(-221 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 6703 Arkothiad VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -643,14 +643,14 @@ planets:
         radius: 220,221.5 km<br/>(34.566 Yrths)
         surface_area: 6.094 × 10<sup>11</sup> km<sup>2</sup><br/>(1194.825 Yrths)
         volume: 4.474 × 10<sup>16</sup> km<sup>3</sup><br/>(41300.595 Yrths)
-        mass: 1.161 × 10<sup>29</sup> kg<br />(250.96906998917322 Yrths)
+        mass: 1.161 × 10<sup>29</sup> kg<br />(19445.535 Yrths)
         density: 2.596 g/cm<sup>3</sup>
         surface_gravity: 159.601 m/s<sup>2</sup><br />(16.275 g<sub>0</sub>)
         escape_velocity: 265.313 km/s<br />(955,125 km/h)
         rotation_period: 52.068 d
         axial_tilt: 21.24°
         albedo: 0.30
-        temperature: 39 K<br />(-234 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 6703 Arkothiad VI f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -663,14 +663,14 @@ planets:
         radius: 163,339.2 km<br/>(25.638 Yrths)
         surface_area: 3.353 × 10<sup>11</sup> km<sup>2</sup><br/>(657.303 Yrths)
         volume: 1.825 × 10<sup>16</sup> km<sup>3</sup><br/>(16851.881 Yrths)
-        mass: 3.419 × 10<sup>28</sup> kg<br />(250.96906998917322 Yrths)
+        mass: 3.419 × 10<sup>28</sup> kg<br />(5724.381 Yrths)
         density: 1.873 g/cm<sup>3</sup>
         surface_gravity: 85.405 m/s<sup>2</sup><br />(8.709 g<sub>0</sub>)
         escape_velocity: 167.146 km/s<br />(601,727 km/h)
         rotation_period: 68.757 d
         axial_tilt: 22.42°
         albedo: 0.30
-        temperature: 37 K<br />(-236 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 6703 Arkothiad VI g
         type: Rocky
         formationType: Accreted
@@ -683,12 +683,12 @@ planets:
         radius: 145,968.9 km<br/>(22.911 Yrths)
         surface_area: 2.678 × 10<sup>11</sup> km<sup>2</sup><br/>(524.935 Yrths)
         volume: 1.303 × 10<sup>16</sup> km<sup>3</sup><br/>(12027.012 Yrths)
-        mass: 3.613 × 10<sup>28</sup> kg<br />(250.96906998917322 Yrths)
+        mass: 3.613 × 10<sup>28</sup> kg<br />(6049.624 Yrths)
         density: 2.773 g/cm<sup>3</sup>
         surface_gravity: 113.017 m/s<sup>2</sup><br />(11.525 g<sub>0</sub>)
         escape_velocity: 181.766 km/s<br />(654,356 km/h)
         rotation_period: 49.292 d
         axial_tilt: 7.64°
         albedo: 0.30
-        temperature: 32 K<br />(-241 °C)
+        temperature: 57 K<br />(-216 °C)
 ---

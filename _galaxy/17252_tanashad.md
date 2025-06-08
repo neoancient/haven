@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      17252 Tanashad is a star in the constellation Tanas
+      17252 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 561.49 ly
 apparent_magnitude: 11.91
 absolute_magnitude: 5.73

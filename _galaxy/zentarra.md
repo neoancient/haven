@@ -13,49 +13,50 @@ sections:
       Zentarra is a terrestrial planet in the <a href="7681_kinanniad.html">7681 Kinanniad</a> system.
       Zentarra is a paradise world, known for luxury resorts and high-stakes gambling.
 planet:
-  aphelion: 167,694,785 km<br />1.121 AU
-  perihelion: 157,764,835 km<br />1.055 AU
-  semi_major_axis: 162,729,810 km<br />1.088 AU
-  eccentricity: 0.031
-  orbital_period: 425.68 d<br />1.165 y
-  inclination: 0.00°
-  radius: 5,948.2 km<br/>(0.934 Yrths)
-  surface_area: 4.446 × 10<sup>08</sup> km<sup>2</sup><br/>(0.872 Yrths)
-  volume: 8.816 × 10<sup>11</sup> km<sup>3</sup><br/>(0.814 Yrths)
-  mass: 5.192 × 10<sup>24</sup> kg<br />(0.87 Yrths)
-  density: 5.890 g/cm<sup>3</sup>
-  surface_gravity: 9.782 m/s<sup>2</sup><br />(0.997 g<sub>0</sub>)
-  escape_velocity: 10.795 km/s<br />(38,861 km/h)
-  rotation_period: 1.566 d
+  aphelion: 74,507,018 km<br />0.498 AU
+  perihelion: 72,890,012 km<br />0.487 AU
+  semi_major_axis: 73,698,515 km<br />0.493 AU
+  eccentricity: 0.011
+  orbital_period: 140.48 d<br />0.385 y
+  inclination: 2.40°
+  radius: 6,798.6 km<br/>(1.067 Yrths)
+  surface_area: 5.808 × 10<sup>08</sup> km<sup>2</sup><br/>(1.139 Yrths)
+  volume: 1.316 × 10<sup>12</sup> km<sup>3</sup><br/>(1.215 Yrths)
+  mass: 6.414 × 10<sup>24</sup> kg<br />(1.07 Yrths)
+  density: 4.873 g/cm<sup>3</sup>
+  surface_gravity: 9.249 m/s<sup>2</sup><br />(0.943 g<sub>0</sub>)
+  escape_velocity: 11.222 km/s<br />(40,399 km/h)
+  rotation_period: 1.600 d
   axial_tilt: 0.00°
   albedo: 0.30
-  temperature: 257 K<br />(-16 °C)
-  surface_pressure: 108 kPa<br />(1 atm)
+  temperature: 292 K<br />(19 °C)
+  surface_pressure: 100 kPa<br />(1 atm)
   composition:
-    - 75.1902% nitrogen
-    - 21.5360% oxygen
-    - 2.3534% neon
+    - 75.1728% nitrogen
+    - 21.5371% oxygen
+    - 2.3481% hydrogen sulfide
     - 0.9000% argon
-    - 0.0205% carbon dioxide
+    - 0.0418% carbon dioxide
+    - 0.0001% carbon monoxide
   moons:
     - name: Zentarra a
-      type: Asteroid
+      type: Ice/rock hybrid
       formationType: Captured
-      aphelion: 960,176 km<br />
-      perihelion: 621,671 km<br />
-      semi_major_axis: 790,924 km<br />
-      eccentricity: 0.214
-      orbital_period: 0.07 d<br />
-      inclination: 17.38°
-      radius: 2,288.0 km<br/>(0.359 Yrths)
-      surface_area: 6.578 × 10<sup>07</sup> km<sup>2</sup><br/>(0.129 Yrths)
-      volume: 5.017 × 10<sup>10</sup> km<sup>3</sup><br/>(0.046 Yrths)
-      mass: 1.285 × 10<sup>23</sup> kg<br />(0.8694536128307381 Yrths)
-      density: 2.561 g/cm<sup>3</sup>
-      surface_gravity: 1.636 m/s<sup>2</sup><br />(0.167 g<sub>0</sub>)
-      escape_velocity: 2.738 km/s<br />(9,857 km/h)
-      rotation_period: 40.393 d
-      axial_tilt: 39.17°
+      aphelion: 436,925 km<br />
+      perihelion: 373,607 km<br />
+      semi_major_axis: 405,266 km<br />
+      eccentricity: 0.078
+      orbital_period: 0.02 d<br />
+      inclination: 4.57°
+      radius: 3,027.7 km<br/>(0.475 Yrths)
+      surface_area: 1.152 × 10<sup>08</sup> km<sup>2</sup><br/>(0.226 Yrths)
+      volume: 1.163 × 10<sup>11</sup> km<sup>3</sup><br/>(0.107 Yrths)
+      mass: 2.946 × 10<sup>23</sup> kg<br />(0.049 Yrths)
+      density: 2.534 g/cm<sup>3</sup>
+      surface_gravity: 2.142 m/s<sup>2</sup><br />(0.218 g<sub>0</sub>)
+      escape_velocity: 3.604 km/s<br />(12,973 km/h)
+      rotation_period: 48.671 d
+      axial_tilt: 13.17°
       albedo: 0.30
-      temperature: 3469 K<br />(3196 °C)
+      temperature: 271 K<br />(-2 °C)
 ---

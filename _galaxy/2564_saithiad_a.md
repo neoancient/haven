@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2564 Saithiad A is a star in the constellation Saith
+      2564 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 564.15 ly
 apparent_magnitude: 7.90
 absolute_magnitude: 1.71

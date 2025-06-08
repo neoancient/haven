@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      536 Noniashad is a star in the constellation Nonias
+      536 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 433.58 ly
 apparent_magnitude: 9.97
 absolute_magnitude: 4.35

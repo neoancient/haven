@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2608 Anilliad is a star in the constellation Anil
+      2608 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 403.93 ly
 apparent_magnitude: 11.08
 absolute_magnitude: 5.62

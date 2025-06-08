@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      κ Keead B is a star in the constellation Kee
+      κ Keead B is a star in the constellation <a href="kee.html">Kee</a>
 distance: 841.51 ly
 apparent_magnitude: 10.00
 absolute_magnitude: 2.94

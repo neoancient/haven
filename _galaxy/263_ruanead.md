@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      263 Ruanead is a star in the constellation Ruane
+      263 Ruanead is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 228.63 ly
 apparent_magnitude: 10.01
 absolute_magnitude: 5.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11513 Dialkeshiad A is a star in the constellation Dialkes
+      11513 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 198.65 ly
 apparent_magnitude: 9.95
 absolute_magnitude: 6.02

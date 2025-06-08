@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      390 Morrishothiad A is a star in the constellation Morrishoth
+      390 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 517.89 ly
 apparent_magnitude: 7.06
 absolute_magnitude: 1.06

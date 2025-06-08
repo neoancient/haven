@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0014 Nayurnerniad C is a star in the constellation Nayunern
+      0014 Nayurnerniad C is a star in the constellation <a href="nayunern.html">Nayunern</a>
 distance: 514.78 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 2.16

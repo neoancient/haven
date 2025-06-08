@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1755 Athiad is a star in the constellation Ath
+      1755 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 636.89 ly
 apparent_magnitude: 12.07
 absolute_magnitude: 5.62

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5599 Shanniashiad A is a star in the constellation Shannias
+      5599 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 749.69 ly
 apparent_magnitude: 7.42
 absolute_magnitude: 0.61

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Orgarriad B is a star in the constellation Orgar
+      ψ Orgarriad B is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 903.65 ly
 apparent_magnitude: 14.94
 absolute_magnitude: 7.73

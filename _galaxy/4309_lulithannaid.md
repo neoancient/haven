@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4309 Lulithannaid is a star in the constellation Lulithan
+      4309 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 360.65 ly
 apparent_magnitude: 10.54
 absolute_magnitude: 5.33

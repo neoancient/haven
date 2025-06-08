@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0067 Nurranpugiad B is a star in the constellation Nurranpug
+      0067 Nurranpugiad B is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 150.50 ly
 apparent_magnitude: 9.20
 absolute_magnitude: 5.88

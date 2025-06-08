@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0035 Rayomiad B is a star in the constellation Rayom
+      0035 Rayomiad B is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 1619.97 ly
 apparent_magnitude: 13.30
 absolute_magnitude: 4.82

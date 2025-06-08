@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Arkothiad is a star in the constellation Arkoth
+      0015 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 898.01 ly
 apparent_magnitude: 6.47
 absolute_magnitude: -0.73
@@ -31,14 +31,14 @@ planets:
     radius: 227.6 km<br/>(0.036 Yrths)
     surface_area: 6.507 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.936 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.759 × 10<sup>27</sup> kg<br />(294.5124993864969 Yrths)
+    mass: 1.759 × 10<sup>27</sup> kg<br />(294.51 Yrths)
     density: 35631889.726 g/cm<sup>3</sup>
     surface_gravity: 2263821.812 m/s<sup>2</sup><br />(230845.581 g<sub>0</sub>)
     escape_velocity: 1015.735 km/s<br />(3,656,645 km/h)
     rotation_period: 0.236 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2581 K<br />(2308 °C)
+    temperature: 2490 K<br />(2217 °C)
     composition:
       - 88.9917% hydrogen
       - 7.1657% helium
@@ -58,14 +58,14 @@ planets:
         radius: 373,666.1 km<br/>(58.651 Yrths)
         surface_area: 1.755 × 10<sup>12</sup> km<sup>2</sup><br/>(3439.951 Yrths)
         volume: 2.185 × 10<sup>17</sup> km<sup>3</sup><br/>(201756.900 Yrths)
-        mass: 2.477 × 10<sup>29</sup> kg<br />(294.5124993864969 Yrths)
+        mass: 2.477 × 10<sup>29</sup> kg<br />(41477.745 Yrths)
         density: 1.133 g/cm<sup>3</sup>
         surface_gravity: 118.245 m/s<sup>2</sup><br />(12.058 g<sub>0</sub>)
         escape_velocity: 297.470 km/s<br />(1,070,893 km/h)
         rotation_period: 52.452 d
         axial_tilt: 14.82°
         albedo: 0.30
-        temperature: 3555 K<br />(3282 °C)
+        temperature: 605 K<br />(332 °C)
       - name: 0015 Arkothiad I b
         type: Dwarf planet
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 268,571.6 km<br/>(42.155 Yrths)
         surface_area: 9.064 × 10<sup>11</sup> km<sup>2</sup><br/>(1777.071 Yrths)
         volume: 8.115 × 10<sup>16</sup> km<sup>3</sup><br/>(74913.024 Yrths)
-        mass: 1.208 × 10<sup>29</sup> kg<br />(294.5124993864969 Yrths)
+        mass: 1.208 × 10<sup>29</sup> kg<br />(20227.758 Yrths)
         density: 1.489 g/cm<sup>3</sup>
         surface_gravity: 111.626 m/s<sup>2</sup><br />(11.383 g<sub>0</sub>)
         escape_velocity: 245.031 km/s<br />(882,113 km/h)
         rotation_period: 66.740 d
         axial_tilt: 28.01°
         albedo: 0.30
-        temperature: 3081 K<br />(2808 °C)
+        temperature: 605 K<br />(332 °C)
       - name: 0015 Arkothiad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 240,759.7 km<br/>(37.790 Yrths)
         surface_area: 7.284 × 10<sup>11</sup> km<sup>2</sup><br/>(1428.079 Yrths)
         volume: 5.846 × 10<sup>16</sup> km<sup>3</sup><br/>(53967.011 Yrths)
-        mass: 1.428 × 10<sup>29</sup> kg<br />(294.5124993864969 Yrths)
+        mass: 1.428 × 10<sup>29</sup> kg<br />(23910.064 Yrths)
         density: 2.443 g/cm<sup>3</sup>
         surface_gravity: 164.191 m/s<sup>2</sup><br />(16.743 g<sub>0</sub>)
         escape_velocity: 281.369 km/s<br />(1,012,928 km/h)
         rotation_period: 50.279 d
         axial_tilt: 21.56°
         albedo: 0.30
-        temperature: 2671 K<br />(2398 °C)
+        temperature: 605 K<br />(332 °C)
       - name: 0015 Arkothiad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 241,804.7 km<br/>(37.954 Yrths)
         surface_area: 7.347 × 10<sup>11</sup> km<sup>2</sup><br/>(1440.503 Yrths)
         volume: 5.922 × 10<sup>16</sup> km<sup>3</sup><br/>(54672.783 Yrths)
-        mass: 1.444 × 10<sup>29</sup> kg<br />(294.5124993864969 Yrths)
+        mass: 1.444 × 10<sup>29</sup> kg<br />(24172.310 Yrths)
         density: 2.438 g/cm<sup>3</sup>
         surface_gravity: 164.560 m/s<sup>2</sup><br />(16.780 g<sub>0</sub>)
         escape_velocity: 282.296 km/s<br />(1,016,265 km/h)
         rotation_period: 45.066 d
         axial_tilt: 12.08°
         albedo: 0.30
-        temperature: 2315 K<br />(2042 °C)
+        temperature: 605 K<br />(332 °C)
       - name: 0015 Arkothiad I e
         type: Icy
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 274,999.6 km<br/>(43.164 Yrths)
         surface_area: 9.503 × 10<sup>11</sup> km<sup>2</sup><br/>(1863.155 Yrths)
         volume: 8.711 × 10<sup>16</sup> km<sup>3</sup><br/>(80421.732 Yrths)
-        mass: 7.165 × 10<sup>28</sup> kg<br />(294.5124993864969 Yrths)
+        mass: 7.165 × 10<sup>28</sup> kg<br />(11997.715 Yrths)
         density: 0.822 g/cm<sup>3</sup>
         surface_gravity: 63.150 m/s<sup>2</sup><br />(6.439 g<sub>0</sub>)
         escape_velocity: 186.492 km/s<br />(671,372 km/h)
         rotation_period: 56.252 d
         axial_tilt: 23.34°
         albedo: 0.30
-        temperature: 1739 K<br />(1466 °C)
+        temperature: 605 K<br />(332 °C)
   - name: 0015 Arkothiad II
     type: Gas giant
     aphelion: 783,625,401 km<br />5.238 AU
@@ -157,14 +157,14 @@ planets:
     radius: 255.3 km<br/>(0.040 Yrths)
     surface_area: 8.192 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.972 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.869 × 10<sup>27</sup> kg<br />(480.40389864157896 Yrths)
+    mass: 2.869 × 10<sup>27</sup> kg<br />(480.40 Yrths)
     density: 41149203.247 g/cm<sup>3</sup>
     surface_gravity: 2933311.742 m/s<sup>2</sup><br />(299114.554 g<sub>0</sub>)
     escape_velocity: 1224.715 km/s<br />(4,408,973 km/h)
     rotation_period: 0.225 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1830 K<br />(1557 °C)
+    temperature: 1862 K<br />(1589 °C)
     composition:
       - 71.1970% hydrogen
       - 14.4127% methane
@@ -182,14 +182,14 @@ planets:
         radius: 190,973.1 km<br/>(29.975 Yrths)
         surface_area: 4.583 × 10<sup>11</sup> km<sup>2</sup><br/>(898.523 Yrths)
         volume: 2.917 × 10<sup>16</sup> km<sup>3</sup><br/>(26933.555 Yrths)
-        mass: 6.779 × 10<sup>28</sup> kg<br />(480.40389864157896 Yrths)
+        mass: 6.779 × 10<sup>28</sup> kg<br />(11351.356 Yrths)
         density: 2.324 g/cm<sup>3</sup>
         surface_gravity: 123.891 m/s<sup>2</sup><br />(12.633 g<sub>0</sub>)
         escape_velocity: 217.679 km/s<br />(783,643 km/h)
         rotation_period: 46.579 d
         axial_tilt: 20.02°
         albedo: 0.30
-        temperature: 2275 K<br />(2002 °C)
+        temperature: 418 K<br />(145 °C)
       - name: 0015 Arkothiad II b
         type: Icy
         formationType: Captured
@@ -202,14 +202,14 @@ planets:
         radius: 254,981.2 km<br/>(40.022 Yrths)
         surface_area: 8.170 × 10<sup>11</sup> km<sup>2</sup><br/>(1601.773 Yrths)
         volume: 6.944 × 10<sup>16</sup> km<sup>3</sup><br/>(64106.407 Yrths)
-        mass: 8.027 × 10<sup>28</sup> kg<br />(480.40389864157896 Yrths)
+        mass: 8.027 × 10<sup>28</sup> kg<br />(13440.540 Yrths)
         density: 1.156 g/cm<sup>3</sup>
         surface_gravity: 82.288 m/s<sup>2</sup><br />(8.391 g<sub>0</sub>)
         escape_velocity: 204.990 km/s<br />(737,963 km/h)
         rotation_period: 56.774 d
         axial_tilt: 7.75°
         albedo: 0.30
-        temperature: 1630 K<br />(1357 °C)
+        temperature: 418 K<br />(145 °C)
       - name: 0015 Arkothiad II c
         type: Icy
         formationType: Accreted
@@ -222,14 +222,14 @@ planets:
         radius: 342,348.3 km<br/>(53.735 Yrths)
         surface_area: 1.473 × 10<sup>12</sup> km<sup>2</sup><br/>(2887.494 Yrths)
         volume: 1.681 × 10<sup>17</sup> km<sup>3</sup><br/>(155160.681 Yrths)
-        mass: 2.014 × 10<sup>29</sup> kg<br />(480.40389864157896 Yrths)
+        mass: 2.014 × 10<sup>29</sup> kg<br />(33722.187 Yrths)
         density: 1.198 g/cm<sup>3</sup>
         surface_gravity: 114.529 m/s<sup>2</sup><br />(11.679 g<sub>0</sub>)
         escape_velocity: 280.222 km/s<br />(1,008,798 km/h)
         rotation_period: 76.862 d
         axial_tilt: 22.11°
         albedo: 0.30
-        temperature: 1482 K<br />(1208 °C)
+        temperature: 418 K<br />(145 °C)
       - name: 0015 Arkothiad II d
         type: Icy
         formationType: Impact formed
@@ -242,14 +242,14 @@ planets:
         radius: 274,603.3 km<br/>(43.102 Yrths)
         surface_area: 9.476 × 10<sup>11</sup> km<sup>2</sup><br/>(1857.789 Yrths)
         volume: 8.674 × 10<sup>16</sup> km<sup>3</sup><br/>(80074.555 Yrths)
-        mass: 9.444 × 10<sup>28</sup> kg<br />(480.40389864157896 Yrths)
+        mass: 9.444 × 10<sup>28</sup> kg<br />(15813.477 Yrths)
         density: 1.089 g/cm<sup>3</sup>
         surface_gravity: 83.474 m/s<sup>2</sup><br />(8.512 g<sub>0</sub>)
         escape_velocity: 214.259 km/s<br />(771,331 km/h)
         rotation_period: 86.235 d
         axial_tilt: 19.68°
         albedo: 0.30
-        temperature: 1284 K<br />(1011 °C)
+        temperature: 418 K<br />(145 °C)
       - name: 0015 Arkothiad II e
         type: Icy
         formationType: Accreted
@@ -262,14 +262,14 @@ planets:
         radius: 257,255.8 km<br/>(40.379 Yrths)
         surface_area: 8.316 × 10<sup>11</sup> km<sup>2</sup><br/>(1630.479 Yrths)
         volume: 7.132 × 10<sup>16</sup> km<sup>3</sup><br/>(65837.430 Yrths)
-        mass: 1.042 × 10<sup>29</sup> kg<br />(480.40389864157896 Yrths)
+        mass: 1.042 × 10<sup>29</sup> kg<br />(17441.285 Yrths)
         density: 1.461 g/cm<sup>3</sup>
         surface_gravity: 104.902 m/s<sup>2</sup><br />(10.697 g<sub>0</sub>)
         escape_velocity: 232.479 km/s<br />(836,926 km/h)
         rotation_period: 63.474 d
         axial_tilt: 14.91°
         albedo: 0.30
-        temperature: 571 K<br />(298 °C)
+        temperature: 418 K<br />(145 °C)
       - name: 0015 Arkothiad II f
         type: Icy
         formationType: Captured
@@ -282,14 +282,14 @@ planets:
         radius: 316,870.4 km<br/>(49.736 Yrths)
         surface_area: 1.262 × 10<sup>12</sup> km<sup>2</sup><br/>(2473.707 Yrths)
         volume: 1.333 × 10<sup>17</sup> km<sup>3</sup><br/>(123033.216 Yrths)
-        mass: 1.317 × 10<sup>29</sup> kg<br />(480.40389864157896 Yrths)
+        mass: 1.317 × 10<sup>29</sup> kg<br />(22047.242 Yrths)
         density: 0.988 g/cm<sup>3</sup>
         surface_gravity: 87.403 m/s<sup>2</sup><br />(8.913 g<sub>0</sub>)
         escape_velocity: 235.513 km/s<br />(847,845 km/h)
         rotation_period: 73.909 d
         axial_tilt: 25.40°
         albedo: 0.30
-        temperature: 519 K<br />(246 °C)
+        temperature: 418 K<br />(145 °C)
       - name: 0015 Arkothiad II g
         type: Rocky
         formationType: Captured
@@ -302,14 +302,14 @@ planets:
         radius: 196,289.1 km<br/>(30.810 Yrths)
         surface_area: 4.842 × 10<sup>11</sup> km<sup>2</sup><br/>(949.243 Yrths)
         volume: 3.168 × 10<sup>16</sup> km<sup>3</sup><br/>(29245.961 Yrths)
-        mass: 9.369 × 10<sup>28</sup> kg<br />(480.40389864157896 Yrths)
+        mass: 9.369 × 10<sup>28</sup> kg<br />(15688.355 Yrths)
         density: 2.957 g/cm<sup>3</sup>
         surface_gravity: 162.077 m/s<sup>2</sup><br />(16.527 g<sub>0</sub>)
         escape_velocity: 252.417 km/s<br />(908,701 km/h)
         rotation_period: 48.074 d
         axial_tilt: 12.01°
         albedo: 0.30
-        temperature: 409 K<br />(136 °C)
+        temperature: 418 K<br />(145 °C)
       - name: 0015 Arkothiad II h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -322,14 +322,14 @@ planets:
         radius: 270,662.3 km<br/>(42.483 Yrths)
         surface_area: 9.206 × 10<sup>11</sup> km<sup>2</sup><br/>(1804.847 Yrths)
         volume: 8.306 × 10<sup>16</sup> km<sup>3</sup><br/>(76676.189 Yrths)
-        mass: 2.147 × 10<sup>29</sup> kg<br />(480.40389864157896 Yrths)
+        mass: 2.147 × 10<sup>29</sup> kg<br />(35946.905 Yrths)
         density: 2.585 g/cm<sup>3</sup>
         surface_gravity: 195.318 m/s<sup>2</sup><br />(19.917 g<sub>0</sub>)
         escape_velocity: 325.383 km/s<br />(1,171,378 km/h)
         rotation_period: 59.916 d
         axial_tilt: 9.68°
         albedo: 0.30
-        temperature: 266 K<br />(-7 °C)
+        temperature: 418 K<br />(145 °C)
       - name: 0015 Arkothiad II i
         type: Icy
         formationType: Accreted
@@ -342,12 +342,12 @@ planets:
         radius: 272,654.5 km<br/>(42.796 Yrths)
         surface_area: 9.342 × 10<sup>11</sup> km<sup>2</sup><br/>(1831.513 Yrths)
         volume: 8.490 × 10<sup>16</sup> km<sup>3</sup><br/>(78381.765 Yrths)
-        mass: 9.884 × 10<sup>28</sup> kg<br />(480.40389864157896 Yrths)
+        mass: 9.884 × 10<sup>28</sup> kg<br />(16550.511 Yrths)
         density: 1.164 g/cm<sup>3</sup>
         surface_gravity: 88.618 m/s<sup>2</sup><br />(9.037 g<sub>0</sub>)
         escape_velocity: 219.977 km/s<br />(791,917 km/h)
         rotation_period: 76.201 d
         axial_tilt: 22.03°
         albedo: 0.30
-        temperature: 191 K<br />(-82 °C)
+        temperature: 418 K<br />(145 °C)
 ---

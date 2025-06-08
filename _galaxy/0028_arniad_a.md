@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Arniad A is a star in the constellation Arni
+      0028 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 871.51 ly
 apparent_magnitude: 6.00
 absolute_magnitude: -1.14

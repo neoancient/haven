@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ξ Ricksonniad D is a star in the constellation Rickson
+      ξ Ricksonniad D is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 209.52 ly
 apparent_magnitude: 8.19
 absolute_magnitude: 4.15

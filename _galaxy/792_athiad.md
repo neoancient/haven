@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      792 Athiad is a star in the constellation Ath
+      792 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 345.93 ly
 apparent_magnitude: 11.44
 absolute_magnitude: 6.31

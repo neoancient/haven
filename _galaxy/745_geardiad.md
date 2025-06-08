@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      745 Geardiad is a star in the constellation Geard
+      745 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 558.09 ly
 apparent_magnitude: 7.94
 absolute_magnitude: 1.77

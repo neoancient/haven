@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0018 Nishiad is a star in the constellation Nishi
+      0018 Nishiad is a star in the constellation <a href="nishi.html">Nishi</a>
 distance: 52.79 ly
 apparent_magnitude: 6.11
 absolute_magnitude: 5.07
@@ -31,7 +31,7 @@ planets:
     radius: 161.5 km<br/>(0.025 Yrths)
     surface_area: 3.276 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.764 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.061 × 10<sup>26</sup> kg<br />(84.74885210081145 Yrths)
+    mass: 5.061 × 10<sup>26</sup> kg<br />(84.75 Yrths)
     density: 28698954.320 g/cm<sup>3</sup>
     surface_gravity: 1293809.739 m/s<sup>2</sup><br />(131931.877 g<sub>0</sub>)
     escape_velocity: 646.837 km/s<br />(2,328,613 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 77,644.4 km<br/>(12.187 Yrths)
         surface_area: 7.576 × 10<sup>10</sup> km<sup>2</sup><br/>(148.527 Yrths)
         volume: 1.961 × 10<sup>15</sup> km<sup>3</sup><br/>(1810.124 Yrths)
-        mass: 4.199 × 10<sup>27</sup> kg<br />(84.74885210081145 Yrths)
+        mass: 4.199 × 10<sup>27</sup> kg<br />(703.127 Yrths)
         density: 2.142 g/cm<sup>3</sup>
         surface_gravity: 46.425 m/s<sup>2</sup><br />(4.734 g<sub>0</sub>)
         escape_velocity: 84.965 km/s<br />(305,873 km/h)
         rotation_period: 34.836 d
         axial_tilt: 22.57°
         albedo: 0.30
-        temperature: 1756 K<br />(1483 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 0018 Nishiad I b
         type: Asteroid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 68,657.3 km<br/>(10.777 Yrths)
         surface_area: 5.924 × 10<sup>10</sup> km<sup>2</sup><br/>(116.134 Yrths)
         volume: 1.356 × 10<sup>15</sup> km<sup>3</sup><br/>(1251.520 Yrths)
-        mass: 3.857 × 10<sup>27</sup> kg<br />(84.74885210081145 Yrths)
+        mass: 3.857 × 10<sup>27</sup> kg<br />(645.816 Yrths)
         density: 2.845 g/cm<sup>3</sup>
         surface_gravity: 54.534 m/s<sup>2</sup><br />(5.561 g<sub>0</sub>)
         escape_velocity: 86.594 km/s<br />(311,739 km/h)
         rotation_period: 36.964 d
         axial_tilt: 37.33°
         albedo: 0.30
-        temperature: 1596 K<br />(1323 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 0018 Nishiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 81,709.2 km<br/>(12.825 Yrths)
         surface_area: 8.390 × 10<sup>10</sup> km<sup>2</sup><br/>(164.485 Yrths)
         volume: 2.285 × 10<sup>15</sup> km<sup>3</sup><br/>(2109.552 Yrths)
-        mass: 5.625 × 10<sup>27</sup> kg<br />(84.74885210081145 Yrths)
+        mass: 5.625 × 10<sup>27</sup> kg<br />(941.928 Yrths)
         density: 2.462 g/cm<sup>3</sup>
         surface_gravity: 56.158 m/s<sup>2</sup><br />(5.727 g<sub>0</sub>)
         escape_velocity: 95.863 km/s<br />(345,107 km/h)
         rotation_period: 46.714 d
         axial_tilt: 16.82°
         albedo: 0.30
-        temperature: 1143 K<br />(870 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 0018 Nishiad I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 113,142.8 km<br/>(17.759 Yrths)
         surface_area: 1.609 × 10<sup>11</sup> km<sup>2</sup><br/>(315.383 Yrths)
         volume: 6.067 × 10<sup>15</sup> km<sup>3</sup><br/>(5600.895 Yrths)
-        mass: 4.646 × 10<sup>27</sup> kg<br />(84.74885210081145 Yrths)
+        mass: 4.646 × 10<sup>27</sup> kg<br />(777.951 Yrths)
         density: 0.766 g/cm<sup>3</sup>
         surface_gravity: 24.190 m/s<sup>2</sup><br />(2.467 g<sub>0</sub>)
         escape_velocity: 74.036 km/s<br />(266,528 km/h)
         rotation_period: 109.704 d
         axial_tilt: 18.04°
         albedo: 0.30
-        temperature: 1090 K<br />(817 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 0018 Nishiad I e
         type: Asteroid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 148,196.7 km<br/>(23.261 Yrths)
         surface_area: 2.760 × 10<sup>11</sup> km<sup>2</sup><br/>(541.080 Yrths)
         volume: 1.363 × 10<sup>16</sup> km<sup>3</sup><br/>(12586.147 Yrths)
-        mass: 3.824 × 10<sup>28</sup> kg<br />(84.74885210081145 Yrths)
+        mass: 3.824 × 10<sup>28</sup> kg<br />(6403.696 Yrths)
         density: 2.805 g/cm<sup>3</sup>
         surface_gravity: 116.062 m/s<sup>2</sup><br />(11.835 g<sub>0</sub>)
         escape_velocity: 185.598 km/s<br />(668,154 km/h)
         rotation_period: 31.495 d
         axial_tilt: 33.20°
         albedo: 0.30
-        temperature: 1039 K<br />(766 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 0018 Nishiad I f
         type: Rocky
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 63,814.1 km<br/>(10.016 Yrths)
         surface_area: 5.117 × 10<sup>10</sup> km<sup>2</sup><br/>(100.327 Yrths)
         volume: 1.089 × 10<sup>15</sup> km<sup>3</sup><br/>(1004.909 Yrths)
-        mass: 3.409 × 10<sup>27</sup> kg<br />(84.74885210081145 Yrths)
+        mass: 3.409 × 10<sup>27</sup> kg<br />(570.875 Yrths)
         density: 3.132 g/cm<sup>3</sup>
         surface_gravity: 55.801 m/s<sup>2</sup><br />(5.690 g<sub>0</sub>)
         escape_velocity: 84.448 km/s<br />(304,013 km/h)
         rotation_period: 33.016 d
         axial_tilt: 18.48°
         albedo: 0.30
-        temperature: 677 K<br />(404 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 0018 Nishiad I g
         type: Rocky
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 60,852.6 km<br/>(9.552 Yrths)
         surface_area: 4.653 × 10<sup>10</sup> km<sup>2</sup><br/>(91.231 Yrths)
         volume: 9.439 × 10<sup>14</sup> km<sup>3</sup><br/>(871.396 Yrths)
-        mass: 3.294 × 10<sup>27</sup> kg<br />(84.74885210081145 Yrths)
+        mass: 3.294 × 10<sup>27</sup> kg<br />(551.538 Yrths)
         density: 3.490 g/cm<sup>3</sup>
         surface_gravity: 59.286 m/s<sup>2</sup><br />(6.045 g<sub>0</sub>)
         escape_velocity: 85.001 km/s<br />(306,005 km/h)
         rotation_period: 30.821 d
         axial_tilt: 15.60°
         albedo: 0.30
-        temperature: 587 K<br />(314 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 0018 Nishiad I h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -192,14 +192,14 @@ planets:
         radius: 70,856.1 km<br/>(11.122 Yrths)
         surface_area: 6.309 × 10<sup>10</sup> km<sup>2</sup><br/>(123.691 Yrths)
         volume: 1.490 × 10<sup>15</sup> km<sup>3</sup><br/>(1375.651 Yrths)
-        mass: 3.641 × 10<sup>27</sup> kg<br />(84.74885210081145 Yrths)
+        mass: 3.641 × 10<sup>27</sup> kg<br />(609.638 Yrths)
         density: 2.443 g/cm<sup>3</sup>
         surface_gravity: 48.334 m/s<sup>2</sup><br />(4.929 g<sub>0</sub>)
         escape_velocity: 82.818 km/s<br />(298,145 km/h)
         rotation_period: 33.890 d
         axial_tilt: 22.84°
         albedo: 0.30
-        temperature: 533 K<br />(260 °C)
+        temperature: 269 K<br />(-4 °C)
   - name: 0018 Nishiad II
     type: Ice giant
     aphelion: 216,909,529 km<br />1.450 AU
@@ -211,14 +211,14 @@ planets:
     radius: 22,545.5 km<br/>(3.539 Yrths)
     surface_area: 6.387 × 10<sup>09</sup> km<sup>2</sup><br/>(12.523 Yrths)
     volume: 4.800 × 10<sup>13</sup> km<sup>3</sup><br/>(44.315 Yrths)
-    mass: 5.703 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+    mass: 5.703 × 10<sup>25</sup> kg<br />(9.55 Yrths)
     density: 1.188 g/cm<sup>3</sup>
     surface_gravity: 7.478 m/s<sup>2</sup><br />(0.763 g<sub>0</sub>)
     escape_velocity: 18.375 km/s<br />(66,150 km/h)
     rotation_period: 0.668 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 379 K<br />(106 °C)
+    temperature: 358 K<br />(85 °C)
     composition:
       - 89.7787% hydrogen
       - 7.5496% helium
@@ -238,14 +238,14 @@ planets:
         radius: 13,508.9 km<br/>(2.120 Yrths)
         surface_area: 2.293 × 10<sup>09</sup> km<sup>2</sup><br/>(4.496 Yrths)
         volume: 1.033 × 10<sup>13</sup> km<sup>3</sup><br/>(9.533 Yrths)
-        mass: 1.563 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 1.563 × 10<sup>25</sup> kg<br />(2.617 Yrths)
         density: 1.513 g/cm<sup>3</sup>
         surface_gravity: 5.707 m/s<sup>2</sup><br />(0.582 g<sub>0</sub>)
         escape_velocity: 12.426 km/s<br />(44,734 km/h)
         rotation_period: 53.830 d
         axial_tilt: 11.18°
         albedo: 0.30
-        temperature: 1937 K<br />(1664 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 0018 Nishiad II b
         type: Rocky
         formationType: Impact formed
@@ -258,14 +258,14 @@ planets:
         radius: 12,728.8 km<br/>(1.998 Yrths)
         surface_area: 2.036 × 10<sup>09</sup> km<sup>2</sup><br/>(3.992 Yrths)
         volume: 8.639 × 10<sup>12</sup> km<sup>3</sup><br/>(7.975 Yrths)
-        mass: 2.741 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 2.741 × 10<sup>25</sup> kg<br />(4.589 Yrths)
         density: 3.173 g/cm<sup>3</sup>
         surface_gravity: 11.275 m/s<sup>2</sup><br />(1.150 g<sub>0</sub>)
         escape_velocity: 16.954 km/s<br />(61,033 km/h)
         rotation_period: 31.119 d
         axial_tilt: 16.35°
         albedo: 0.30
-        temperature: 1847 K<br />(1574 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 0018 Nishiad II c
         type: Icy
         formationType: Captured
@@ -278,14 +278,14 @@ planets:
         radius: 12,915.5 km<br/>(2.027 Yrths)
         surface_area: 2.096 × 10<sup>09</sup> km<sup>2</sup><br/>(4.110 Yrths)
         volume: 9.024 × 10<sup>12</sup> km<sup>3</sup><br/>(8.331 Yrths)
-        mass: 1.633 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 1.633 × 10<sup>25</sup> kg<br />(2.735 Yrths)
         density: 1.810 g/cm<sup>3</sup>
         surface_gravity: 6.526 m/s<sup>2</sup><br />(0.665 g<sub>0</sub>)
         escape_velocity: 12.992 km/s<br />(46,773 km/h)
         rotation_period: 38.191 d
         axial_tilt: 19.72°
         albedo: 0.30
-        temperature: 1761 K<br />(1488 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 0018 Nishiad II d
         type: Rocky
         formationType: Accreted
@@ -298,14 +298,14 @@ planets:
         radius: 12,910.2 km<br/>(2.026 Yrths)
         surface_area: 2.094 × 10<sup>09</sup> km<sup>2</sup><br/>(4.106 Yrths)
         volume: 9.013 × 10<sup>12</sup> km<sup>3</sup><br/>(8.321 Yrths)
-        mass: 2.792 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 2.792 × 10<sup>25</sup> kg<br />(4.675 Yrths)
         density: 3.098 g/cm<sup>3</sup>
         surface_gravity: 11.165 m/s<sup>2</sup><br />(1.139 g<sub>0</sub>)
         escape_velocity: 16.991 km/s<br />(61,166 km/h)
         rotation_period: 38.198 d
         axial_tilt: 7.48°
         albedo: 0.30
-        temperature: 1679 K<br />(1406 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 0018 Nishiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -318,14 +318,14 @@ planets:
         radius: 15,092.6 km<br/>(2.369 Yrths)
         surface_area: 2.862 × 10<sup>09</sup> km<sup>2</sup><br/>(5.612 Yrths)
         volume: 1.440 × 10<sup>13</sup> km<sup>3</sup><br/>(13.294 Yrths)
-        mass: 3.983 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 3.983 × 10<sup>25</sup> kg<br />(6.669 Yrths)
         density: 2.766 g/cm<sup>3</sup>
         surface_gravity: 11.654 m/s<sup>2</sup><br />(1.188 g<sub>0</sub>)
         escape_velocity: 18.768 km/s<br />(67,566 km/h)
         rotation_period: 31.354 d
         axial_tilt: 24.80°
         albedo: 0.30
-        temperature: 1601 K<br />(1328 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 0018 Nishiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -338,14 +338,14 @@ planets:
         radius: 15,772.4 km<br/>(2.476 Yrths)
         surface_area: 3.126 × 10<sup>09</sup> km<sup>2</sup><br/>(6.129 Yrths)
         volume: 1.644 × 10<sup>13</sup> km<sup>3</sup><br/>(15.173 Yrths)
-        mass: 3.216 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 3.216 × 10<sup>25</sup> kg<br />(5.385 Yrths)
         density: 1.957 g/cm<sup>3</sup>
         surface_gravity: 8.616 m/s<sup>2</sup><br />(0.879 g<sub>0</sub>)
         escape_velocity: 16.497 km/s<br />(59,390 km/h)
         rotation_period: 61.615 d
         axial_tilt: 14.98°
         albedo: 0.30
-        temperature: 1456 K<br />(1182 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 0018 Nishiad II g
         type: Dwarf planet
         formationType: Accreted
@@ -358,14 +358,14 @@ planets:
         radius: 10,440.7 km<br/>(1.639 Yrths)
         surface_area: 1.370 × 10<sup>09</sup> km<sup>2</sup><br/>(2.686 Yrths)
         volume: 4.767 × 10<sup>12</sup> km<sup>3</sup><br/>(4.401 Yrths)
-        mass: 1.335 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 1.335 × 10<sup>25</sup> kg<br />(2.235 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 8.162 m/s<sup>2</sup><br />(0.832 g<sub>0</sub>)
         escape_velocity: 13.064 km/s<br />(47,030 km/h)
         rotation_period: 33.004 d
         axial_tilt: 18.93°
         albedo: 0.30
-        temperature: 1203 K<br />(930 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 0018 Nishiad II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -378,14 +378,14 @@ planets:
         radius: 10,980.4 km<br/>(1.723 Yrths)
         surface_area: 1.515 × 10<sup>09</sup> km<sup>2</sup><br/>(2.970 Yrths)
         volume: 5.546 × 10<sup>12</sup> km<sup>3</sup><br/>(5.120 Yrths)
-        mass: 1.180 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 1.180 × 10<sup>25</sup> kg<br />(1.976 Yrths)
         density: 2.128 g/cm<sup>3</sup>
         surface_gravity: 6.524 m/s<sup>2</sup><br />(0.665 g<sub>0</sub>)
         escape_velocity: 11.978 km/s<br />(43,121 km/h)
         rotation_period: 52.634 d
         axial_tilt: 27.38°
         albedo: 0.30
-        temperature: 1147 K<br />(874 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 0018 Nishiad II i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -398,14 +398,14 @@ planets:
         radius: 16,242.4 km<br/>(2.549 Yrths)
         surface_area: 3.315 × 10<sup>09</sup> km<sup>2</sup><br/>(6.500 Yrths)
         volume: 1.795 × 10<sup>13</sup> km<sup>3</sup><br/>(16.570 Yrths)
-        mass: 4.922 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 4.922 × 10<sup>25</sup> kg<br />(8.241 Yrths)
         density: 2.742 g/cm<sup>3</sup>
         surface_gravity: 12.434 m/s<sup>2</sup><br />(1.268 g<sub>0</sub>)
         escape_velocity: 20.111 km/s<br />(72,401 km/h)
         rotation_period: 48.108 d
         axial_tilt: 25.74°
         albedo: 0.30
-        temperature: 1094 K<br />(820 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 0018 Nishiad II j
         type: Ice/rock hybrid
         formationType: Captured
@@ -418,14 +418,14 @@ planets:
         radius: 15,312.0 km<br/>(2.403 Yrths)
         surface_area: 2.946 × 10<sup>09</sup> km<sup>2</sup><br/>(5.776 Yrths)
         volume: 1.504 × 10<sup>13</sup> km<sup>3</sup><br/>(13.883 Yrths)
-        mass: 3.429 × 10<sup>25</sup> kg<br />(9.549094873163865 Yrths)
+        mass: 3.429 × 10<sup>25</sup> kg<br />(5.741 Yrths)
         density: 2.280 g/cm<sup>3</sup>
         surface_gravity: 9.747 m/s<sup>2</sup><br />(0.994 g<sub>0</sub>)
         escape_velocity: 17.289 km/s<br />(62,239 km/h)
         rotation_period: 40.094 d
         axial_tilt: 20.45°
         albedo: 0.30
-        temperature: 1043 K<br />(770 °C)
+        temperature: 206 K<br />(-67 °C)
   - name: 0018 Nishiad III
     type: Terrestrial
     aphelion: 374,670,758 km<br />2.504 AU
@@ -437,7 +437,7 @@ planets:
     radius: 6,090.6 km<br/>(0.956 Yrths)
     surface_area: 4.661 × 10<sup>08</sup> km<sup>2</sup><br/>(0.914 Yrths)
     volume: 9.464 × 10<sup>11</sup> km<sup>3</sup><br/>(0.874 Yrths)
-    mass: 4.149 × 10<sup>24</sup> kg<br />(0.694748618193146 Yrths)
+    mass: 4.149 × 10<sup>24</sup> kg<br />(0.69 Yrths)
     density: 4.384 g/cm<sup>3</sup>
     surface_gravity: 7.455 m/s<sup>2</sup><br />(0.760 g<sub>0</sub>)
     escape_velocity: 9.536 km/s<br />(34,329 km/h)
@@ -458,14 +458,14 @@ planets:
         radius: 2,273.3 km<br/>(0.357 Yrths)
         surface_area: 6.494 × 10<sup>07</sup> km<sup>2</sup><br/>(0.127 Yrths)
         volume: 4.921 × 10<sup>10</sup> km<sup>3</sup><br/>(0.045 Yrths)
-        mass: 1.034 × 10<sup>23</sup> kg<br />(0.694748618193146 Yrths)
+        mass: 1.034 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 2.102 g/cm<sup>3</sup>
         surface_gravity: 1.334 m/s<sup>2</sup><br />(0.136 g<sub>0</sub>)
         escape_velocity: 2.464 km/s<br />(8,871 km/h)
         rotation_period: 38.609 d
         axial_tilt: 21.72°
         albedo: 0.30
-        temperature: 2402 K<br />(2129 °C)
+        temperature: 157 K<br />(-116 °C)
   - name: 0018 Nishiad IV
     type: Large terrestrial
     aphelion: 646,186,132 km<br />4.319 AU
@@ -477,14 +477,14 @@ planets:
     radius: 7,448.5 km<br/>(1.169 Yrths)
     surface_area: 6.972 × 10<sup>08</sup> km<sup>2</sup><br/>(1.367 Yrths)
     volume: 1.731 × 10<sup>12</sup> km<sup>3</sup><br/>(1.598 Yrths)
-    mass: 1.300 × 10<sup>25</sup> kg<br />(2.17694580679586 Yrths)
+    mass: 1.300 × 10<sup>25</sup> kg<br />(2.18 Yrths)
     density: 7.511 g/cm<sup>3</sup>
     surface_gravity: 15.619 m/s<sup>2</sup><br />(1.593 g<sub>0</sub>)
     escape_velocity: 15.264 km/s<br />(54,950 km/h)
     rotation_period: 0.832 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 157 K<br />(-116 °C)
+    temperature: 193 K<br />(-80 °C)
     surface_pressure: 204 kPa<br />(2 atm)
     composition:
       - 92.7696% methane
@@ -504,14 +504,14 @@ planets:
         radius: 2,192.4 km<br/>(0.344 Yrths)
         surface_area: 6.040 × 10<sup>07</sup> km<sup>2</sup><br/>(0.118 Yrths)
         volume: 4.414 × 10<sup>10</sup> km<sup>3</sup><br/>(0.041 Yrths)
-        mass: 1.330 × 10<sup>23</sup> kg<br />(2.17694580679586 Yrths)
+        mass: 1.330 × 10<sup>23</sup> kg<br />(0.022 Yrths)
         density: 3.012 g/cm<sup>3</sup>
         surface_gravity: 1.844 m/s<sup>2</sup><br />(0.188 g<sub>0</sub>)
         escape_velocity: 2.845 km/s<br />(10,243 km/h)
         rotation_period: 40.994 d
         axial_tilt: 24.03°
         albedo: 0.30
-        temperature: 1596 K<br />(1323 °C)
+        temperature: 121 K<br />(-153 °C)
       - name: 0018 Nishiad IV b
         type: Rocky
         formationType: Captured
@@ -524,12 +524,12 @@ planets:
         radius: 6,088.0 km<br/>(0.956 Yrths)
         surface_area: 4.658 × 10<sup>08</sup> km<sup>2</sup><br/>(0.913 Yrths)
         volume: 9.452 × 10<sup>11</sup> km<sup>3</sup><br/>(0.873 Yrths)
-        mass: 2.633 × 10<sup>24</sup> kg<br />(2.17694580679586 Yrths)
+        mass: 2.633 × 10<sup>24</sup> kg<br />(0.441 Yrths)
         density: 2.786 g/cm<sup>3</sup>
         surface_gravity: 4.736 m/s<sup>2</sup><br />(0.483 g<sub>0</sub>)
         escape_velocity: 7.599 km/s<br />(27,355 km/h)
         rotation_period: 32.492 d
         axial_tilt: 23.35°
         albedo: 0.30
-        temperature: 1521 K<br />(1248 °C)
+        temperature: 121 K<br />(-153 °C)
 ---

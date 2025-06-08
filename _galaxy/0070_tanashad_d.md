@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0070 Tanashad D is a star in the constellation Tanas
+      0070 Tanashad D is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 816.36 ly
 apparent_magnitude: 15.63
 absolute_magnitude: 8.64

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0033 Arkothiad A is a star in the constellation Arkoth
+      0033 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 138.25 ly
 apparent_magnitude: 6.15
 absolute_magnitude: 3.02

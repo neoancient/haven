@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1448 Keead A is a star in the constellation Kee
+      1448 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 707.97 ly
 apparent_magnitude: 9.12
 absolute_magnitude: 2.44

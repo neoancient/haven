@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Mioruaniad A is a star in the constellation Mioruane
+      σ Mioruaniad A is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 452.61 ly
 apparent_magnitude: 5.47
 absolute_magnitude: -0.24

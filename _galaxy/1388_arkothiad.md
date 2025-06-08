@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1388 Arkothiad is a star in the constellation Arkoth
+      1388 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1019.69 ly
 apparent_magnitude: 12.69
 absolute_magnitude: 5.21

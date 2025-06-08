@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3016 Oniad is a star in the constellation Oni
+      3016 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 607.43 ly
 apparent_magnitude: 9.36
 absolute_magnitude: 3.01

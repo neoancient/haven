@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      40252 Tanashad A is a star in the constellation Tanas
+      40252 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 482.20 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 2.30

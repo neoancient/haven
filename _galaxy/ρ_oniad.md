@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ρ Oniad is a star in the constellation Oni
+      ρ Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 76.45 ly
 apparent_magnitude: 5.52
 absolute_magnitude: 3.67
@@ -31,14 +31,14 @@ planets:
     radius: 150.2 km<br/>(0.024 Yrths)
     surface_area: 2.834 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.419 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.045 × 10<sup>26</sup> kg<br />(50.99249602224625 Yrths)
+    mass: 3.045 × 10<sup>26</sup> kg<br />(50.99 Yrths)
     density: 21461604.875 g/cm<sup>3</sup>
     surface_gravity: 899895.291 m/s<sup>2</sup><br />(91763.782 g<sub>0</sub>)
     escape_velocity: 520.258 km/s<br />(1,872,927 km/h)
     rotation_period: 0.281 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1384 K<br />(1111 °C)
+    temperature: 1564 K<br />(1291 °C)
     composition:
       - 77.9770% hydrogen
       - 13.2374% helium
@@ -58,14 +58,14 @@ planets:
         radius: 57,563.4 km<br/>(9.035 Yrths)
         surface_area: 4.164 × 10<sup>10</sup> km<sup>2</sup><br/>(81.635 Yrths)
         volume: 7.990 × 10<sup>14</sup> km<sup>3</sup><br/>(737.592 Yrths)
-        mass: 1.853 × 10<sup>27</sup> kg<br />(50.99249602224625 Yrths)
+        mass: 1.853 × 10<sup>27</sup> kg<br />(310.256 Yrths)
         density: 2.319 g/cm<sup>3</sup>
         surface_gravity: 37.270 m/s<sup>2</sup><br />(3.801 g<sub>0</sub>)
         escape_velocity: 65.549 km/s<br />(235,975 km/h)
         rotation_period: 37.551 d
         axial_tilt: 22.74°
         albedo: 0.30
-        temperature: 2554 K<br />(2281 °C)
+        temperature: 339 K<br />(66 °C)
       - name: ρ Oniad I b
         type: Rocky
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 47,095.6 km<br/>(7.392 Yrths)
         surface_area: 2.787 × 10<sup>10</sup> km<sup>2</sup><br/>(54.644 Yrths)
         volume: 4.376 × 10<sup>14</sup> km<sup>3</sup><br/>(403.940 Yrths)
-        mass: 1.383 × 10<sup>27</sup> kg<br />(50.99249602224625 Yrths)
+        mass: 1.383 × 10<sup>27</sup> kg<br />(231.611 Yrths)
         density: 3.161 g/cm<sup>3</sup>
         surface_gravity: 41.566 m/s<sup>2</sup><br />(4.239 g<sub>0</sub>)
         escape_velocity: 62.613 km/s<br />(225,408 km/h)
         rotation_period: 36.326 d
         axial_tilt: 17.57°
         albedo: 0.30
-        temperature: 1830 K<br />(1557 °C)
+        temperature: 339 K<br />(66 °C)
       - name: ρ Oniad I c
         type: Icy
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 71,106.1 km<br/>(11.161 Yrths)
         surface_area: 6.354 × 10<sup>10</sup> km<sup>2</sup><br/>(124.566 Yrths)
         volume: 1.506 × 10<sup>15</sup> km<sup>3</sup><br/>(1390.268 Yrths)
-        mass: 1.663 × 10<sup>27</sup> kg<br />(50.99249602224625 Yrths)
+        mass: 1.663 × 10<sup>27</sup> kg<br />(278.489 Yrths)
         density: 1.104 g/cm<sup>3</sup>
         surface_gravity: 21.925 m/s<sup>2</sup><br />(2.236 g<sub>0</sub>)
         escape_velocity: 55.876 km/s<br />(201,155 km/h)
         rotation_period: 48.271 d
         axial_tilt: 12.98°
         albedo: 0.30
-        temperature: 1442 K<br />(1169 °C)
+        temperature: 339 K<br />(66 °C)
       - name: ρ Oniad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 64,135.2 km<br/>(10.067 Yrths)
         surface_area: 5.169 × 10<sup>10</sup> km<sup>2</sup><br/>(101.339 Yrths)
         volume: 1.105 × 10<sup>15</sup> km<sup>3</sup><br/>(1020.157 Yrths)
-        mass: 2.181 × 10<sup>27</sup> kg<br />(50.99249602224625 Yrths)
+        mass: 2.181 × 10<sup>27</sup> kg<br />(365.198 Yrths)
         density: 1.974 g/cm<sup>3</sup>
         surface_gravity: 35.340 m/s<sup>2</sup><br />(3.604 g<sub>0</sub>)
         escape_velocity: 67.374 km/s<br />(242,547 km/h)
         rotation_period: 64.208 d
         axial_tilt: 16.54°
         albedo: 0.30
-        temperature: 776 K<br />(503 °C)
+        temperature: 339 K<br />(66 °C)
       - name: ρ Oniad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -138,14 +138,54 @@ planets:
         radius: 50,430.2 km<br/>(7.916 Yrths)
         surface_area: 3.196 × 10<sup>10</sup> km<sup>2</sup><br/>(62.656 Yrths)
         volume: 5.372 × 10<sup>14</sup> km<sup>3</sup><br/>(495.962 Yrths)
-        mass: 1.382 × 10<sup>27</sup> kg<br />(50.99249602224625 Yrths)
+        mass: 1.382 × 10<sup>27</sup> kg<br />(231.419 Yrths)
         density: 2.573 g/cm<sup>3</sup>
         surface_gravity: 36.220 m/s<sup>2</sup><br />(3.693 g<sub>0</sub>)
         escape_velocity: 60.483 km/s<br />(217,738 km/h)
         rotation_period: 43.678 d
         axial_tilt: 20.54°
         albedo: 0.30
-        temperature: 641 K<br />(368 °C)
+        temperature: 339 K<br />(66 °C)
+      - name: ρ Oniad I f
+        type: Icy
+        formationType: Accreted
+        aphelion: 44,974,439 km<br />
+        perihelion: 43,735,054 km<br />
+        semi_major_axis: 44,354,746 km<br />
+        eccentricity: 0.014
+        orbital_period: 0.01 d<br />
+        inclination: 4.67°
+        radius: 37,895.6 km<br/>(5.948 Yrths)
+        surface_area: 1.805 × 10<sup>10</sup> km<sup>2</sup><br/>(35.380 Yrths)
+        volume: 2.280 × 10<sup>14</sup> km<sup>3</sup><br/>(210.448 Yrths)
+        mass: 2.099 × 10<sup>26</sup> kg<br />(35.144 Yrths)
+        density: 0.921 g/cm<sup>3</sup>
+        surface_gravity: 9.741 m/s<sup>2</sup><br />(0.993 g<sub>0</sub>)
+        escape_velocity: 27.190 km/s<br />(97,884 km/h)
+        rotation_period: 84.386 d
+        axial_tilt: 9.67°
+        albedo: 0.30
+        temperature: 339 K<br />(66 °C)
+      - name: ρ Oniad I g
+        type: Asteroid
+        formationType: Captured
+        aphelion: 55,499,330 km<br />
+        perihelion: 42,081,112 km<br />
+        semi_major_axis: 48,790,221 km<br />
+        eccentricity: 0.138
+        orbital_period: 0.01 d<br />
+        inclination: 4.26°
+        radius: 17,649.9 km<br/>(2.770 Yrths)
+        surface_area: 3.915 × 10<sup>09</sup> km<sup>2</sup><br/>(7.675 Yrths)
+        volume: 2.303 × 10<sup>13</sup> km<sup>3</sup><br/>(21.262 Yrths)
+        mass: 4.883 × 10<sup>25</sup> kg<br />(8.177 Yrths)
+        density: 2.120 g/cm<sup>3</sup>
+        surface_gravity: 10.449 m/s<sup>2</sup><br />(1.065 g<sub>0</sub>)
+        escape_velocity: 19.218 km/s<br />(69,185 km/h)
+        rotation_period: 65.718 d
+        axial_tilt: 37.64°
+        albedo: 0.30
+        temperature: 339 K<br />(66 °C)
   - name: ρ Oniad II
     type: Ice giant
     aphelion: 269,412,314 km<br />1.801 AU
@@ -157,14 +197,14 @@ planets:
     radius: 23,552.8 km<br/>(3.697 Yrths)
     surface_area: 6.971 × 10<sup>09</sup> km<sup>2</sup><br/>(13.667 Yrths)
     volume: 5.473 × 10<sup>13</sup> km<sup>3</sup><br/>(50.525 Yrths)
-    mass: 9.236 × 10<sup>25</sup> kg<br />(15.466203602209005 Yrths)
+    mass: 9.236 × 10<sup>25</sup> kg<br />(15.47 Yrths)
     density: 1.688 g/cm<sup>3</sup>
     surface_gravity: 11.098 m/s<sup>2</sup><br />(1.132 g<sub>0</sub>)
     escape_velocity: 22.880 km/s<br />(82,367 km/h)
     rotation_period: 0.394 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 526 K<br />(252 °C)
+    temperature: 483 K<br />(210 °C)
     composition:
       - 74.5543% hydrogen
       - 24.3938% helium
@@ -185,14 +225,14 @@ planets:
         radius: 29,172.8 km<br/>(4.579 Yrths)
         surface_area: 1.069 × 10<sup>10</sup> km<sup>2</sup><br/>(20.967 Yrths)
         volume: 1.040 × 10<sup>14</sup> km<sup>3</sup><br/>(96.009 Yrths)
-        mass: 2.088 × 10<sup>26</sup> kg<br />(15.466203602209005 Yrths)
+        mass: 2.088 × 10<sup>26</sup> kg<br />(34.967 Yrths)
         density: 2.008 g/cm<sup>3</sup>
         surface_gravity: 16.354 m/s<sup>2</sup><br />(1.668 g<sub>0</sub>)
         escape_velocity: 30.911 km/s<br />(111,280 km/h)
         rotation_period: 50.017 d
         axial_tilt: 22.14°
         albedo: 0.30
-        temperature: 2436 K<br />(2163 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: ρ Oniad II b
         type: Icy
         formationType: Impact formed
@@ -205,14 +245,14 @@ planets:
         radius: 21,309.5 km<br/>(3.345 Yrths)
         surface_area: 5.706 × 10<sup>09</sup> km<sup>2</sup><br/>(11.187 Yrths)
         volume: 4.053 × 10<sup>13</sup> km<sup>3</sup><br/>(37.420 Yrths)
-        mass: 5.662 × 10<sup>25</sup> kg<br />(15.466203602209005 Yrths)
+        mass: 5.662 × 10<sup>25</sup> kg<br />(9.480 Yrths)
         density: 1.397 g/cm<sup>3</sup>
         surface_gravity: 8.310 m/s<sup>2</sup><br />(0.847 g<sub>0</sub>)
         escape_velocity: 18.832 km/s<br />(67,796 km/h)
         rotation_period: 48.085 d
         axial_tilt: 25.57°
         albedo: 0.30
-        temperature: 2323 K<br />(2049 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: ρ Oniad II c
         type: Dwarf planet
         formationType: Captured
@@ -225,14 +265,14 @@ planets:
         radius: 12,875.2 km<br/>(2.021 Yrths)
         surface_area: 2.083 × 10<sup>09</sup> km<sup>2</sup><br/>(4.084 Yrths)
         volume: 8.940 × 10<sup>12</sup> km<sup>3</sup><br/>(8.253 Yrths)
-        mass: 1.625 × 10<sup>25</sup> kg<br />(15.466203602209005 Yrths)
+        mass: 1.625 × 10<sup>25</sup> kg<br />(2.721 Yrths)
         density: 1.818 g/cm<sup>3</sup>
         surface_gravity: 6.535 m/s<sup>2</sup><br />(0.666 g<sub>0</sub>)
         escape_velocity: 12.981 km/s<br />(46,730 km/h)
         rotation_period: 59.907 d
         axial_tilt: 42.22°
         albedo: 0.30
-        temperature: 2215 K<br />(1941 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: ρ Oniad II d
         type: Asteroid
         formationType: Captured
@@ -245,14 +285,14 @@ planets:
         radius: 14,993.7 km<br/>(2.353 Yrths)
         surface_area: 2.825 × 10<sup>09</sup> km<sup>2</sup><br/>(5.539 Yrths)
         volume: 1.412 × 10<sup>13</sup> km<sup>3</sup><br/>(13.035 Yrths)
-        mass: 3.764 × 10<sup>25</sup> kg<br />(15.466203602209005 Yrths)
+        mass: 3.764 × 10<sup>25</sup> kg<br />(6.303 Yrths)
         density: 2.666 g/cm<sup>3</sup>
         surface_gravity: 11.160 m/s<sup>2</sup><br />(1.138 g<sub>0</sub>)
         escape_velocity: 18.306 km/s<br />(65,901 km/h)
         rotation_period: 33.962 d
         axial_tilt: 27.81°
         albedo: 0.30
-        temperature: 2111 K<br />(1838 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: ρ Oniad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -265,14 +305,14 @@ planets:
         radius: 17,274.6 km<br/>(2.711 Yrths)
         surface_area: 3.750 × 10<sup>09</sup> km<sup>2</sup><br/>(7.352 Yrths)
         volume: 2.159 × 10<sup>13</sup> km<sup>3</sup><br/>(19.934 Yrths)
-        mass: 5.718 × 10<sup>25</sup> kg<br />(15.466203602209005 Yrths)
+        mass: 5.718 × 10<sup>25</sup> kg<br />(9.575 Yrths)
         density: 2.648 g/cm<sup>3</sup>
         surface_gravity: 12.772 m/s<sup>2</sup><br />(1.302 g<sub>0</sub>)
         escape_velocity: 21.020 km/s<br />(75,672 km/h)
         rotation_period: 31.606 d
         axial_tilt: 15.68°
         albedo: 0.30
-        temperature: 2013 K<br />(1740 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: ρ Oniad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -285,14 +325,14 @@ planets:
         radius: 16,571.7 km<br/>(2.601 Yrths)
         surface_area: 3.451 × 10<sup>09</sup> km<sup>2</sup><br/>(6.766 Yrths)
         volume: 1.906 × 10<sup>13</sup> km<sup>3</sup><br/>(17.599 Yrths)
-        mass: 4.463 × 10<sup>25</sup> kg<br />(15.466203602209005 Yrths)
+        mass: 4.463 × 10<sup>25</sup> kg<br />(7.474 Yrths)
         density: 2.341 g/cm<sup>3</sup>
         surface_gravity: 10.833 m/s<sup>2</sup><br />(1.105 g<sub>0</sub>)
         escape_velocity: 18.961 km/s<br />(68,259 km/h)
         rotation_period: 36.346 d
         axial_tilt: 17.55°
         albedo: 0.30
-        temperature: 1919 K<br />(1646 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: ρ Oniad II g
         type: Rocky
         formationType: Captured
@@ -305,14 +345,14 @@ planets:
         radius: 12,132.4 km<br/>(1.904 Yrths)
         surface_area: 1.850 × 10<sup>09</sup> km<sup>2</sup><br/>(3.626 Yrths)
         volume: 7.480 × 10<sup>12</sup> km<sup>3</sup><br/>(6.906 Yrths)
-        mass: 2.267 × 10<sup>25</sup> kg<br />(15.466203602209005 Yrths)
+        mass: 2.267 × 10<sup>25</sup> kg<br />(3.796 Yrths)
         density: 3.030 g/cm<sup>3</sup>
         surface_gravity: 10.264 m/s<sup>2</sup><br />(1.047 g<sub>0</sub>)
         escape_velocity: 15.793 km/s<br />(56,853 km/h)
         rotation_period: 32.772 d
         axial_tilt: 17.96°
         albedo: 0.30
-        temperature: 1830 K<br />(1557 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: ρ Oniad II h
         type: Ice/rock hybrid
         formationType: Captured
@@ -325,12 +365,12 @@ planets:
         radius: 24,622.2 km<br/>(3.865 Yrths)
         surface_area: 7.618 × 10<sup>09</sup> km<sup>2</sup><br/>(14.936 Yrths)
         volume: 6.253 × 10<sup>13</sup> km<sup>3</sup><br/>(57.724 Yrths)
-        mass: 1.294 × 10<sup>26</sup> kg<br />(15.466203602209005 Yrths)
+        mass: 1.294 × 10<sup>26</sup> kg<br />(21.672 Yrths)
         density: 2.070 g/cm<sup>3</sup>
         surface_gravity: 14.229 m/s<sup>2</sup><br />(1.451 g<sub>0</sub>)
         escape_velocity: 26.489 km/s<br />(95,359 km/h)
         rotation_period: 34.670 d
         axial_tilt: 14.56°
         albedo: 0.30
-        temperature: 1664 K<br />(1391 °C)
+        temperature: 256 K<br />(-17 °C)
 ---

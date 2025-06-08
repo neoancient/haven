@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1786 Tanashad A is a star in the constellation Tanas
+      1786 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 464.80 ly
 apparent_magnitude: 7.76
 absolute_magnitude: 1.99

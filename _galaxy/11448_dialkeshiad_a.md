@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11448 Dialkeshiad A is a star in the constellation Dialkes
+      11448 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 217.09 ly
 apparent_magnitude: 6.89
 absolute_magnitude: 2.78

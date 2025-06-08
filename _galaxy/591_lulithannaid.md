@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      591 Lulithannaid is a star in the constellation Lulithan
+      591 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 580.08 ly
 apparent_magnitude: 11.09
 absolute_magnitude: 4.84

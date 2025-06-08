@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Neothorgesan is a star in the constellation Shy
+      Neothorgesan is a star in the constellation <a href="shy.html">Shy</a>
 distance: 1400.59 ly
 apparent_magnitude: 2.05
 absolute_magnitude: -6.11

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Kelniad C is a star in the constellation Keln
+      ν Kelniad C is a star in the constellation <a href="keln.html">Keln</a>
 distance: 801.86 ly
 apparent_magnitude: 11.80
 absolute_magnitude: 4.85
@@ -31,14 +31,14 @@ planets:
     radius: 14,627.1 km<br/>(2.296 Yrths)
     surface_area: 2.689 × 10<sup>09</sup> km<sup>2</sup><br/>(5.271 Yrths)
     volume: 1.311 × 10<sup>13</sup> km<sup>3</sup><br/>(12.102 Yrths)
-    mass: 2.015 × 10<sup>25</sup> kg<br />(3.3746456804716383 Yrths)
+    mass: 2.015 × 10<sup>25</sup> kg<br />(3.37 Yrths)
     density: 1.537 g/cm<sup>3</sup>
     surface_gravity: 6.278 m/s<sup>2</sup><br />(0.640 g<sub>0</sub>)
     escape_velocity: 13.562 km/s<br />(48,822 km/h)
     rotation_period: 0.767 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 410 K<br />(136 °C)
+    temperature: 412 K<br />(139 °C)
     composition:
       - 65.3719% hydrogen
       - 24.9746% helium
@@ -58,14 +58,14 @@ planets:
         radius: 4,229.4 km<br/>(0.664 Yrths)
         surface_area: 2.248 × 10<sup>08</sup> km<sup>2</sup><br/>(0.441 Yrths)
         volume: 3.169 × 10<sup>11</sup> km<sup>3</sup><br/>(0.293 Yrths)
-        mass: 8.858 × 10<sup>23</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 8.858 × 10<sup>23</sup> kg<br />(0.148 Yrths)
         density: 2.795 g/cm<sup>3</sup>
         surface_gravity: 3.301 m/s<sup>2</sup><br />(0.337 g<sub>0</sub>)
         escape_velocity: 5.287 km/s<br />(19,035 km/h)
         rotation_period: 46.053 d
         axial_tilt: 22.50°
         albedo: 0.30
-        temperature: 2945 K<br />(2672 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I b
         type: Icy
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 5,764.7 km<br/>(0.905 Yrths)
         surface_area: 4.176 × 10<sup>08</sup> km<sup>2</sup><br/>(0.819 Yrths)
         volume: 8.024 × 10<sup>11</sup> km<sup>3</sup><br/>(0.741 Yrths)
-        mass: 6.899 × 10<sup>23</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 6.899 × 10<sup>23</sup> kg<br />(0.116 Yrths)
         density: 0.860 g/cm<sup>3</sup>
         surface_gravity: 1.384 m/s<sup>2</sup><br />(0.141 g<sub>0</sub>)
         escape_velocity: 3.997 km/s<br />(14,389 km/h)
         rotation_period: 65.123 d
         axial_tilt: 16.32°
         albedo: 0.30
-        temperature: 2808 K<br />(2535 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 4,777.0 km<br/>(0.750 Yrths)
         surface_area: 2.868 × 10<sup>08</sup> km<sup>2</sup><br/>(0.562 Yrths)
         volume: 4.566 × 10<sup>11</sup> km<sup>3</sup><br/>(0.422 Yrths)
-        mass: 1.017 × 10<sup>24</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 1.017 × 10<sup>24</sup> kg<br />(0.170 Yrths)
         density: 2.226 g/cm<sup>3</sup>
         surface_gravity: 2.969 m/s<sup>2</sup><br />(0.303 g<sub>0</sub>)
         escape_velocity: 5.330 km/s<br />(19,187 km/h)
         rotation_period: 41.890 d
         axial_tilt: 15.40°
         albedo: 0.30
-        temperature: 2677 K<br />(2404 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 5,031.7 km<br/>(0.790 Yrths)
         surface_area: 3.182 × 10<sup>08</sup> km<sup>2</sup><br/>(0.624 Yrths)
         volume: 5.336 × 10<sup>11</sup> km<sup>3</sup><br/>(0.493 Yrths)
-        mass: 1.148 × 10<sup>24</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 1.148 × 10<sup>24</sup> kg<br />(0.192 Yrths)
         density: 2.151 g/cm<sup>3</sup>
         surface_gravity: 3.022 m/s<sup>2</sup><br />(0.308 g<sub>0</sub>)
         escape_velocity: 5.518 km/s<br />(19,865 km/h)
         rotation_period: 62.575 d
         axial_tilt: 19.11°
         albedo: 0.30
-        temperature: 2434 K<br />(2161 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I e
         type: Dwarf planet
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 12,290.3 km<br/>(1.929 Yrths)
         surface_area: 1.898 × 10<sup>09</sup> km<sup>2</sup><br/>(3.721 Yrths)
         volume: 7.776 × 10<sup>12</sup> km<sup>3</sup><br/>(7.179 Yrths)
-        mass: 1.108 × 10<sup>25</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 1.108 × 10<sup>25</sup> kg<br />(1.856 Yrths)
         density: 1.425 g/cm<sup>3</sup>
         surface_gravity: 4.891 m/s<sup>2</sup><br />(0.499 g<sub>0</sub>)
         escape_velocity: 10.972 km/s<br />(39,498 km/h)
         rotation_period: 58.429 d
         axial_tilt: 14.55°
         albedo: 0.30
-        temperature: 2320 K<br />(2047 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 6,162.0 km<br/>(0.967 Yrths)
         surface_area: 4.771 × 10<sup>08</sup> km<sup>2</sup><br/>(0.935 Yrths)
         volume: 9.801 × 10<sup>11</sup> km<sup>3</sup><br/>(0.905 Yrths)
-        mass: 2.278 × 10<sup>24</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 2.278 × 10<sup>24</sup> kg<br />(0.381 Yrths)
         density: 2.324 g/cm<sup>3</sup>
         surface_gravity: 3.998 m/s<sup>2</sup><br />(0.408 g<sub>0</sub>)
         escape_velocity: 7.024 km/s<br />(25,288 km/h)
         rotation_period: 49.763 d
         axial_tilt: 9.98°
         albedo: 0.30
-        temperature: 2212 K<br />(1939 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 6,315.6 km<br/>(0.991 Yrths)
         surface_area: 5.012 × 10<sup>08</sup> km<sup>2</sup><br/>(0.983 Yrths)
         volume: 1.055 × 10<sup>12</sup> km<sup>3</sup><br/>(0.974 Yrths)
-        mass: 2.179 × 10<sup>24</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 2.179 × 10<sup>24</sup> kg<br />(0.365 Yrths)
         density: 2.065 g/cm<sup>3</sup>
         surface_gravity: 3.642 m/s<sup>2</sup><br />(0.371 g<sub>0</sub>)
         escape_velocity: 6.787 km/s<br />(24,433 km/h)
         rotation_period: 44.523 d
         axial_tilt: 33.34°
         albedo: 0.30
-        temperature: 2110 K<br />(1836 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I h
         type: Dwarf planet
         formationType: Accreted
@@ -198,14 +198,14 @@ planets:
         radius: 4,211.2 km<br/>(0.661 Yrths)
         surface_area: 2.229 × 10<sup>08</sup> km<sup>2</sup><br/>(0.437 Yrths)
         volume: 3.128 × 10<sup>11</sup> km<sup>3</sup><br/>(0.289 Yrths)
-        mass: 7.189 × 10<sup>23</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 7.189 × 10<sup>23</sup> kg<br />(0.120 Yrths)
         density: 2.298 g/cm<sup>3</sup>
         surface_gravity: 2.702 m/s<sup>2</sup><br />(0.276 g<sub>0</sub>)
         escape_velocity: 4.774 km/s<br />(17,185 km/h)
         rotation_period: 58.128 d
         axial_tilt: 11.50°
         albedo: 0.30
-        temperature: 2011 K<br />(1738 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -218,14 +218,14 @@ planets:
         radius: 4,331.7 km<br/>(0.680 Yrths)
         surface_area: 2.358 × 10<sup>08</sup> km<sup>2</sup><br/>(0.462 Yrths)
         volume: 3.405 × 10<sup>11</sup> km<sup>3</sup><br/>(0.314 Yrths)
-        mass: 9.533 × 10<sup>23</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 9.533 × 10<sup>23</sup> kg<br />(0.160 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 3.386 m/s<sup>2</sup><br />(0.345 g<sub>0</sub>)
         escape_velocity: 5.420 km/s<br />(19,512 km/h)
         rotation_period: 41.341 d
         axial_tilt: 16.54°
         albedo: 0.30
-        temperature: 1918 K<br />(1645 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I j
         type: Icy
         formationType: Accreted
@@ -238,14 +238,14 @@ planets:
         radius: 4,219.4 km<br/>(0.662 Yrths)
         surface_area: 2.237 × 10<sup>08</sup> km<sup>2</sup><br/>(0.439 Yrths)
         volume: 3.147 × 10<sup>11</sup> km<sup>3</sup><br/>(0.290 Yrths)
-        mass: 5.123 × 10<sup>23</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 5.123 × 10<sup>23</sup> kg<br />(0.086 Yrths)
         density: 1.628 g/cm<sup>3</sup>
         surface_gravity: 1.918 m/s<sup>2</sup><br />(0.196 g<sub>0</sub>)
         escape_velocity: 4.026 km/s<br />(14,493 km/h)
         rotation_period: 39.219 d
         axial_tilt: 10.82°
         albedo: 0.30
-        temperature: 1828 K<br />(1555 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I k
         type: Rocky
         formationType: Impact formed
@@ -258,14 +258,14 @@ planets:
         radius: 4,826.9 km<br/>(0.758 Yrths)
         surface_area: 2.928 × 10<sup>08</sup> km<sup>2</sup><br/>(0.574 Yrths)
         volume: 4.711 × 10<sup>11</sup> km<sup>3</sup><br/>(0.435 Yrths)
-        mass: 1.684 × 10<sup>24</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 1.684 × 10<sup>24</sup> kg<br />(0.282 Yrths)
         density: 3.574 g/cm<sup>3</sup>
         surface_gravity: 4.817 m/s<sup>2</sup><br />(0.491 g<sub>0</sub>)
         escape_velocity: 6.824 km/s<br />(24,565 km/h)
         rotation_period: 33.088 d
         axial_tilt: 15.65°
         albedo: 0.30
-        temperature: 1743 K<br />(1470 °C)
+        temperature: 230 K<br />(-44 °C)
       - name: ν Kelniad C I l
         type: Rocky
         formationType: Accreted
@@ -278,14 +278,14 @@ planets:
         radius: 5,561.8 km<br/>(0.873 Yrths)
         surface_area: 3.887 × 10<sup>08</sup> km<sup>2</sup><br/>(0.762 Yrths)
         volume: 7.207 × 10<sup>11</sup> km<sup>3</sup><br/>(0.665 Yrths)
-        mass: 1.967 × 10<sup>24</sup> kg<br />(3.3746456804716383 Yrths)
+        mass: 1.967 × 10<sup>24</sup> kg<br />(0.329 Yrths)
         density: 2.730 g/cm<sup>3</sup>
         surface_gravity: 4.239 m/s<sup>2</sup><br />(0.432 g<sub>0</sub>)
         escape_velocity: 6.871 km/s<br />(24,736 km/h)
         rotation_period: 48.248 d
         axial_tilt: 15.07°
         albedo: 0.30
-        temperature: 1662 K<br />(1389 °C)
+        temperature: 230 K<br />(-44 °C)
   - name: ν Kelniad C II
     type: Large terrestrial
     aphelion: 559,275,703 km<br />3.738 AU
@@ -297,14 +297,14 @@ planets:
     radius: 9,226.5 km<br/>(1.448 Yrths)
     surface_area: 1.070 × 10<sup>09</sup> km<sup>2</sup><br/>(2.097 Yrths)
     volume: 3.290 × 10<sup>12</sup> km<sup>3</sup><br/>(3.037 Yrths)
-    mass: 2.140 × 10<sup>25</sup> kg<br />(3.583074077538465 Yrths)
+    mass: 2.140 × 10<sup>25</sup> kg<br />(3.58 Yrths)
     density: 6.504 g/cm<sup>3</sup>
     surface_gravity: 16.754 m/s<sup>2</sup><br />(1.708 g<sub>0</sub>)
     escape_velocity: 17.595 km/s<br />(63,342 km/h)
     rotation_period: 0.818 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 256 K<br />(-17 °C)
+    temperature: 597 K<br />(324 °C)
     surface_pressure: 186 kPa<br />(2 atm)
     composition:
       - 65.1583% carbon dioxide
@@ -325,14 +325,14 @@ planets:
         radius: 13,746.2 km<br/>(2.158 Yrths)
         surface_area: 2.375 × 10<sup>09</sup> km<sup>2</sup><br/>(4.655 Yrths)
         volume: 1.088 × 10<sup>13</sup> km<sup>3</sup><br/>(10.044 Yrths)
-        mass: 7.616 × 10<sup>24</sup> kg<br />(3.583074077538465 Yrths)
+        mass: 7.616 × 10<sup>24</sup> kg<br />(1.275 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 2.686 m/s<sup>2</sup><br />(0.274 g<sub>0</sub>)
         escape_velocity: 8.600 km/s<br />(30,960 km/h)
         rotation_period: 67.340 d
         axial_tilt: 12.22°
         albedo: 0.30
-        temperature: 2611 K<br />(2338 °C)
+        temperature: 168 K<br />(-105 °C)
       - name: ν Kelniad C II b
         type: Icy
         formationType: Accreted
@@ -345,14 +345,14 @@ planets:
         radius: 4,023.8 km<br/>(0.632 Yrths)
         surface_area: 2.035 × 10<sup>08</sup> km<sup>2</sup><br/>(0.399 Yrths)
         volume: 2.729 × 10<sup>11</sup> km<sup>3</sup><br/>(0.252 Yrths)
-        mass: 2.658 × 10<sup>23</sup> kg<br />(3.583074077538465 Yrths)
+        mass: 2.658 × 10<sup>23</sup> kg<br />(0.045 Yrths)
         density: 0.974 g/cm<sup>3</sup>
         surface_gravity: 1.094 m/s<sup>2</sup><br />(0.112 g<sub>0</sub>)
         escape_velocity: 2.969 km/s<br />(10,690 km/h)
         rotation_period: 58.121 d
         axial_tilt: 17.74°
         albedo: 0.30
-        temperature: 2490 K<br />(2217 °C)
+        temperature: 168 K<br />(-105 °C)
   - name: ν Kelniad C III
     type: Gas giant
     aphelion: 1,071,255,813 km<br />7.161 AU
@@ -364,7 +364,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.165 g/cm<sup>3</sup>
     surface_gravity: 31873.845 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -385,14 +385,14 @@ planets:
         radius: 797.4 km<br/>(0.125 Yrths)
         surface_area: 7.990 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.124 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.252 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.252 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.002 g/cm<sup>3</sup>
         surface_gravity: 0.446 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 0.844 km/s<br />(3,037 km/h)
         rotation_period: 47.186 d
         axial_tilt: 18.43°
         albedo: 0.30
-        temperature: 2822 K<br />(2549 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -405,14 +405,14 @@ planets:
         radius: 895.8 km<br/>(0.141 Yrths)
         surface_area: 1.008 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.011 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.546 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.546 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.174 g/cm<sup>3</sup>
         surface_gravity: 0.544 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 0.988 km/s<br />(3,555 km/h)
         rotation_period: 40.051 d
         axial_tilt: 19.39°
         albedo: 0.30
-        temperature: 2120 K<br />(1847 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III c
         type: Icy
         formationType: Accreted
@@ -425,14 +425,14 @@ planets:
         radius: 958.8 km<br/>(0.150 Yrths)
         surface_area: 1.155 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.692 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.689 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.689 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.270 g/cm<sup>3</sup>
         surface_gravity: 0.340 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.808 km/s<br />(2,909 km/h)
         rotation_period: 44.587 d
         axial_tilt: 26.42°
         albedo: 0.30
-        temperature: 2021 K<br />(1748 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III d
         type: Icy
         formationType: Impact formed
@@ -445,14 +445,14 @@ planets:
         radius: 1,221.4 km<br/>(0.192 Yrths)
         surface_area: 1.875 × 10<sup>07</sup> km<sup>2</sup><br/>(0.037 Yrths)
         volume: 7.633 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 6.831 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.831 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.895 g/cm<sup>3</sup>
         surface_gravity: 0.305 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.864 km/s<br />(3,110 km/h)
         rotation_period: 81.424 d
         axial_tilt: 17.08°
         albedo: 0.30
-        temperature: 1838 K<br />(1564 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -465,14 +465,14 @@ planets:
         radius: 815.7 km<br/>(0.128 Yrths)
         surface_area: 8.361 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.274 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.989 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.989 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.755 g/cm<sup>3</sup>
         surface_gravity: 0.400 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.808 km/s<br />(2,909 km/h)
         rotation_period: 70.452 d
         axial_tilt: 13.89°
         albedo: 0.30
-        temperature: 1141 K<br />(868 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -485,14 +485,14 @@ planets:
         radius: 827.6 km<br/>(0.130 Yrths)
         surface_area: 8.608 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.375 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.368 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.368 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.260 g/cm<sup>3</sup>
         surface_gravity: 0.522 m/s<sup>2</sup><br />(0.053 g<sub>0</sub>)
         escape_velocity: 0.930 km/s<br />(3,350 km/h)
         rotation_period: 33.092 d
         axial_tilt: 19.88°
         albedo: 0.30
-        temperature: 1088 K<br />(815 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III g
         type: Asteroid
         formationType: Captured
@@ -505,14 +505,14 @@ planets:
         radius: 743.3 km<br/>(0.117 Yrths)
         surface_area: 6.943 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.720 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.979 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.979 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.894 g/cm<sup>3</sup>
         surface_gravity: 0.601 m/s<sup>2</sup><br />(0.061 g<sub>0</sub>)
         escape_velocity: 0.946 km/s<br />(3,404 km/h)
         rotation_period: 48.182 d
         axial_tilt: 50.11°
         albedo: 0.30
-        temperature: 1037 K<br />(764 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III h
         type: Icy
         formationType: Impact formed
@@ -525,14 +525,14 @@ planets:
         radius: 872.8 km<br/>(0.137 Yrths)
         surface_area: 9.573 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.785 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.890 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.890 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.397 g/cm<sup>3</sup>
         surface_gravity: 0.340 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.771 km/s<br />(2,777 km/h)
         rotation_period: 43.478 d
         axial_tilt: 16.65°
         albedo: 0.30
-        temperature: 708 K<br />(435 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III i
         type: Icy
         formationType: Impact formed
@@ -545,14 +545,14 @@ planets:
         radius: 1,601.4 km<br/>(0.251 Yrths)
         surface_area: 3.223 × 10<sup>07</sup> km<sup>2</sup><br/>(0.063 Yrths)
         volume: 1.720 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
-        mass: 1.853 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.853 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.077 g/cm<sup>3</sup>
         surface_gravity: 0.482 m/s<sup>2</sup><br />(0.049 g<sub>0</sub>)
         escape_velocity: 1.243 km/s<br />(4,474 km/h)
         rotation_period: 55.219 d
         axial_tilt: 20.38°
         albedo: 0.30
-        temperature: 484 K<br />(211 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -565,14 +565,14 @@ planets:
         radius: 1,394.8 km<br/>(0.219 Yrths)
         surface_area: 2.445 × 10<sup>07</sup> km<sup>2</sup><br/>(0.048 Yrths)
         volume: 1.137 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 1.996 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.996 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.756 g/cm<sup>3</sup>
         surface_gravity: 0.684 m/s<sup>2</sup><br />(0.070 g<sub>0</sub>)
         escape_velocity: 1.382 km/s<br />(4,975 km/h)
         rotation_period: 43.003 d
         axial_tilt: 16.48°
         albedo: 0.30
-        temperature: 461 K<br />(188 °C)
+        temperature: 123 K<br />(-150 °C)
       - name: ν Kelniad C III k
         type: Icy
         formationType: Accreted
@@ -585,14 +585,14 @@ planets:
         radius: 1,124.6 km<br/>(0.177 Yrths)
         surface_area: 1.589 × 10<sup>07</sup> km<sup>2</sup><br/>(0.031 Yrths)
         volume: 5.957 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 5.711 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.711 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.959 g/cm<sup>3</sup>
         surface_gravity: 0.301 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.823 km/s<br />(2,964 km/h)
         rotation_period: 66.969 d
         axial_tilt: 9.09°
         albedo: 0.30
-        temperature: 440 K<br />(167 °C)
+        temperature: 123 K<br />(-150 °C)
   - name: ν Kelniad C IV
     type: Large terrestrial
     aphelion: 1,916,892,935 km<br />12.813 AU
@@ -604,14 +604,14 @@ planets:
     radius: 6,557.2 km<br/>(1.029 Yrths)
     surface_area: 5.403 × 10<sup>08</sup> km<sup>2</sup><br/>(1.059 Yrths)
     volume: 1.181 × 10<sup>12</sup> km<sup>3</sup><br/>(1.090 Yrths)
-    mass: 7.361 × 10<sup>24</sup> kg<br />(1.2325898103622357 Yrths)
+    mass: 7.361 × 10<sup>24</sup> kg<br />(1.23 Yrths)
     density: 6.233 g/cm<sup>3</sup>
     surface_gravity: 11.411 m/s<sup>2</sup><br />(1.164 g<sub>0</sub>)
     escape_velocity: 12.241 km/s<br />(44,069 km/h)
     rotation_period: 0.880 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 143 K<br />(-130 °C)
+    temperature: 315 K<br />(42 °C)
     surface_pressure: 479 kPa<br />(5 atm)
     composition:
       - 57.1030% carbon dioxide
@@ -631,14 +631,14 @@ planets:
         radius: 3,405.5 km<br/>(0.535 Yrths)
         surface_area: 1.457 × 10<sup>08</sup> km<sup>2</sup><br/>(0.286 Yrths)
         volume: 1.654 × 10<sup>11</sup> km<sup>3</sup><br/>(0.153 Yrths)
-        mass: 4.436 × 10<sup>23</sup> kg<br />(1.2325898103622357 Yrths)
+        mass: 4.436 × 10<sup>23</sup> kg<br />(0.074 Yrths)
         density: 2.682 g/cm<sup>3</sup>
         surface_gravity: 2.550 m/s<sup>2</sup><br />(0.260 g<sub>0</sub>)
         escape_velocity: 4.170 km/s<br />(15,012 km/h)
         rotation_period: 31.938 d
         axial_tilt: 12.06°
         albedo: 0.30
-        temperature: 1644 K<br />(1371 °C)
+        temperature: 90 K<br />(-183 °C)
       - name: ν Kelniad C IV b
         type: Rocky
         formationType: Captured
@@ -651,14 +651,14 @@ planets:
         radius: 1,239.7 km<br/>(0.195 Yrths)
         surface_area: 1.931 × 10<sup>07</sup> km<sup>2</sup><br/>(0.038 Yrths)
         volume: 7.981 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 2.283 × 10<sup>22</sup> kg<br />(1.2325898103622357 Yrths)
+        mass: 2.283 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.861 g/cm<sup>3</sup>
         surface_gravity: 0.990 m/s<sup>2</sup><br />(0.101 g<sub>0</sub>)
         escape_velocity: 1.568 km/s<br />(5,645 km/h)
         rotation_period: 52.518 d
         axial_tilt: 22.41°
         albedo: 0.30
-        temperature: 1568 K<br />(1294 °C)
+        temperature: 90 K<br />(-183 °C)
       - name: ν Kelniad C IV c
         type: Rocky
         formationType: Captured
@@ -671,12 +671,12 @@ planets:
         radius: 2,405.1 km<br/>(0.378 Yrths)
         surface_area: 7.269 × 10<sup>07</sup> km<sup>2</sup><br/>(0.143 Yrths)
         volume: 5.828 × 10<sup>10</sup> km<sup>3</sup><br/>(0.054 Yrths)
-        mass: 1.485 × 10<sup>23</sup> kg<br />(1.2325898103622357 Yrths)
+        mass: 1.485 × 10<sup>23</sup> kg<br />(0.025 Yrths)
         density: 2.549 g/cm<sup>3</sup>
         surface_gravity: 1.711 m/s<sup>2</sup><br />(0.175 g<sub>0</sub>)
         escape_velocity: 2.871 km/s<br />(10,336 km/h)
         rotation_period: 58.789 d
         axial_tilt: 22.89°
         albedo: 0.30
-        temperature: 1495 K<br />(1222 °C)
+        temperature: 90 K<br />(-183 °C)
 ---

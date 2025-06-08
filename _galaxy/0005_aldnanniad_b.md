@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Aldnanniad B is a star in the constellation Aldnan
+      0005 Aldnanniad B is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 149.14 ly
 apparent_magnitude: 8.41
 absolute_magnitude: 5.11

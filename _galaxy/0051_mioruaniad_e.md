@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Mioruaniad E is a star in the constellation Mioruane
+      0051 Mioruaniad E is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 374.61 ly
 apparent_magnitude: 10.81
 absolute_magnitude: 5.51

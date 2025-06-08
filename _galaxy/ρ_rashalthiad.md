@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ρ Rashalthiad is a star in the constellation Rashalth
+      ρ Rashalthiad is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 553.87 ly
 apparent_magnitude: 6.42
 absolute_magnitude: 0.27
@@ -31,14 +31,14 @@ planets:
     radius: 17,551.8 km<br/>(2.755 Yrths)
     surface_area: 3.871 × 10<sup>09</sup> km<sup>2</sup><br/>(7.590 Yrths)
     volume: 2.265 × 10<sup>13</sup> km<sup>3</sup><br/>(20.909 Yrths)
-    mass: 6.638 × 10<sup>25</sup> kg<br />(11.115444208612752 Yrths)
+    mass: 6.638 × 10<sup>25</sup> kg<br />(11.12 Yrths)
     density: 2.931 g/cm<sup>3</sup>
     surface_gravity: 14.362 m/s<sup>2</sup><br />(1.465 g<sub>0</sub>)
     escape_velocity: 22.469 km/s<br />(80,888 km/h)
     rotation_period: 0.413 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 601 K<br />(328 °C)
+    temperature: 539 K<br />(266 °C)
     composition:
       - 60.8299% hydrogen
       - 38.7761% helium
@@ -56,14 +56,14 @@ planets:
         radius: 17,035.3 km<br/>(2.674 Yrths)
         surface_area: 3.647 × 10<sup>09</sup> km<sup>2</sup><br/>(7.150 Yrths)
         volume: 2.071 × 10<sup>13</sup> km<sup>3</sup><br/>(19.117 Yrths)
-        mass: 4.454 × 10<sup>25</sup> kg<br />(11.115444208612752 Yrths)
+        mass: 4.454 × 10<sup>25</sup> kg<br />(7.457 Yrths)
         density: 2.151 g/cm<sup>3</sup>
         surface_gravity: 10.229 m/s<sup>2</sup><br />(1.043 g<sub>0</sub>)
         escape_velocity: 18.681 km/s<br />(67,251 km/h)
         rotation_period: 45.007 d
         axial_tilt: 24.45°
         albedo: 0.30
-        temperature: 3974 K<br />(3701 °C)
+        temperature: 365 K<br />(92 °C)
       - name: ρ Rashalthiad I b
         type: Asteroid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 18,418.8 km<br/>(2.891 Yrths)
         surface_area: 4.263 × 10<sup>09</sup> km<sup>2</sup><br/>(8.358 Yrths)
         volume: 2.617 × 10<sup>13</sup> km<sup>3</sup><br/>(24.163 Yrths)
-        mass: 5.094 × 10<sup>25</sup> kg<br />(11.115444208612752 Yrths)
+        mass: 5.094 × 10<sup>25</sup> kg<br />(8.530 Yrths)
         density: 1.946 g/cm<sup>3</sup>
         surface_gravity: 10.008 m/s<sup>2</sup><br />(1.021 g<sub>0</sub>)
         escape_velocity: 19.214 km/s<br />(69,170 km/h)
         rotation_period: 54.645 d
         axial_tilt: 57.05°
         albedo: 0.30
-        temperature: 3789 K<br />(3516 °C)
+        temperature: 365 K<br />(92 °C)
       - name: ρ Rashalthiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 15,750.9 km<br/>(2.472 Yrths)
         surface_area: 3.118 × 10<sup>09</sup> km<sup>2</sup><br/>(6.112 Yrths)
         volume: 1.637 × 10<sup>13</sup> km<sup>3</sup><br/>(15.111 Yrths)
-        mass: 3.292 × 10<sup>25</sup> kg<br />(11.115444208612752 Yrths)
+        mass: 3.292 × 10<sup>25</sup> kg<br />(5.513 Yrths)
         density: 2.011 g/cm<sup>3</sup>
         surface_gravity: 8.846 m/s<sup>2</sup><br />(0.902 g<sub>0</sub>)
         escape_velocity: 16.704 km/s<br />(60,135 km/h)
         rotation_period: 68.440 d
         axial_tilt: 22.63°
         albedo: 0.30
-        temperature: 3613 K<br />(3340 °C)
+        temperature: 365 K<br />(92 °C)
       - name: ρ Rashalthiad I d
         type: Icy
         formationType: Impact formed
@@ -116,14 +116,14 @@ planets:
         radius: 17,144.6 km<br/>(2.691 Yrths)
         surface_area: 3.694 × 10<sup>09</sup> km<sup>2</sup><br/>(7.242 Yrths)
         volume: 2.111 × 10<sup>13</sup> km<sup>3</sup><br/>(19.487 Yrths)
-        mass: 2.875 × 10<sup>25</sup> kg<br />(11.115444208612752 Yrths)
+        mass: 2.875 × 10<sup>25</sup> kg<br />(4.813 Yrths)
         density: 1.362 g/cm<sup>3</sup>
         surface_gravity: 6.518 m/s<sup>2</sup><br />(0.665 g<sub>0</sub>)
         escape_velocity: 14.960 km/s<br />(53,857 km/h)
         rotation_period: 50.842 d
         axial_tilt: 22.88°
         albedo: 0.30
-        temperature: 3445 K<br />(3172 °C)
+        temperature: 365 K<br />(92 °C)
   - name: ρ Rashalthiad II
     type: Ice giant
     aphelion: 1,339,478,400 km<br />8.954 AU
@@ -135,14 +135,14 @@ planets:
     radius: 36,324.3 km<br/>(5.702 Yrths)
     surface_area: 1.658 × 10<sup>10</sup> km<sup>2</sup><br/>(32.507 Yrths)
     volume: 2.008 × 10<sup>14</sup> km<sup>3</sup><br/>(185.340 Yrths)
-    mass: 3.021 × 10<sup>26</sup> kg<br />(50.58221207836419 Yrths)
+    mass: 3.021 × 10<sup>26</sup> kg<br />(50.58 Yrths)
     density: 1.505 g/cm<sup>3</sup>
     surface_gravity: 15.259 m/s<sup>2</sup><br />(1.556 g<sub>0</sub>)
     escape_velocity: 33.318 km/s<br />(119,945 km/h)
     rotation_period: 0.293 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 548 K<br />(275 °C)
+    temperature: 505 K<br />(232 °C)
     composition:
       - 89.2357% hydrogen
       - 8.3754% helium
@@ -161,14 +161,14 @@ planets:
         radius: 34,169.5 km<br/>(5.363 Yrths)
         surface_area: 1.467 × 10<sup>10</sup> km<sup>2</sup><br/>(28.765 Yrths)
         volume: 1.671 × 10<sup>14</sup> km<sup>3</sup><br/>(154.274 Yrths)
-        mass: 3.043 × 10<sup>26</sup> kg<br />(50.58221207836419 Yrths)
+        mass: 3.043 × 10<sup>26</sup> kg<br />(50.950 Yrths)
         density: 1.821 g/cm<sup>3</sup>
         surface_gravity: 17.370 m/s<sup>2</sup><br />(1.771 g<sub>0</sub>)
         escape_velocity: 34.477 km/s<br />(124,117 km/h)
         rotation_period: 61.534 d
         axial_tilt: 23.80°
         albedo: 0.30
-        temperature: 2192 K<br />(1919 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ρ Rashalthiad II b
         type: Icy
         formationType: Captured
@@ -181,14 +181,14 @@ planets:
         radius: 65,572.7 km<br/>(10.292 Yrths)
         surface_area: 5.403 × 10<sup>10</sup> km<sup>2</sup><br/>(105.933 Yrths)
         volume: 1.181 × 10<sup>15</sup> km<sup>3</sup><br/>(1090.299 Yrths)
-        mass: 1.078 × 10<sup>27</sup> kg<br />(50.58221207836419 Yrths)
+        mass: 1.078 × 10<sup>27</sup> kg<br />(180.434 Yrths)
         density: 0.912 g/cm<sup>3</sup>
         surface_gravity: 16.704 m/s<sup>2</sup><br />(1.703 g<sub>0</sub>)
         escape_velocity: 46.836 km/s<br />(168,608 km/h)
         rotation_period: 54.154 d
         axial_tilt: 24.92°
         albedo: 0.30
-        temperature: 2090 K<br />(1817 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ρ Rashalthiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -201,14 +201,14 @@ planets:
         radius: 37,682.2 km<br/>(5.915 Yrths)
         surface_area: 1.784 × 10<sup>10</sup> km<sup>2</sup><br/>(34.983 Yrths)
         volume: 2.241 × 10<sup>14</sup> km<sup>3</sup><br/>(206.912 Yrths)
-        mass: 5.022 × 10<sup>26</sup> kg<br />(50.58221207836419 Yrths)
+        mass: 5.022 × 10<sup>26</sup> kg<br />(84.085 Yrths)
         density: 2.240 g/cm<sup>3</sup>
         surface_gravity: 23.571 m/s<sup>2</sup><br />(2.404 g<sub>0</sub>)
         escape_velocity: 42.176 km/s<br />(151,835 km/h)
         rotation_period: 35.053 d
         axial_tilt: 11.09°
         albedo: 0.30
-        temperature: 1993 K<br />(1719 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ρ Rashalthiad II d
         type: Dwarf planet
         formationType: Impact formed
@@ -221,14 +221,14 @@ planets:
         radius: 81,952.2 km<br/>(12.863 Yrths)
         surface_area: 8.440 × 10<sup>10</sup> km<sup>2</sup><br/>(165.465 Yrths)
         volume: 2.306 × 10<sup>15</sup> km<sup>3</sup><br/>(2128.425 Yrths)
-        mass: 4.383 × 10<sup>27</sup> kg<br />(50.58221207836419 Yrths)
+        mass: 4.383 × 10<sup>27</sup> kg<br />(734.003 Yrths)
         density: 1.901 g/cm<sup>3</sup>
         surface_gravity: 43.502 m/s<sup>2</sup><br />(4.436 g<sub>0</sub>)
         escape_velocity: 84.498 km/s<br />(304,193 km/h)
         rotation_period: 55.532 d
         axial_tilt: 27.01°
         albedo: 0.30
-        temperature: 1900 K<br />(1627 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ρ Rashalthiad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -241,14 +241,14 @@ planets:
         radius: 66,204.1 km<br/>(10.391 Yrths)
         surface_area: 5.508 × 10<sup>10</sup> km<sup>2</sup><br/>(107.983 Yrths)
         volume: 1.215 × 10<sup>15</sup> km<sup>3</sup><br/>(1122.103 Yrths)
-        mass: 2.456 × 10<sup>27</sup> kg<br />(50.58221207836419 Yrths)
+        mass: 2.456 × 10<sup>27</sup> kg<br />(411.223 Yrths)
         density: 2.020 g/cm<sup>3</sup>
         surface_gravity: 37.346 m/s<sup>2</sup><br />(3.808 g<sub>0</sub>)
         escape_velocity: 70.368 km/s<br />(253,324 km/h)
         rotation_period: 38.133 d
         axial_tilt: 23.76°
         albedo: 0.30
-        temperature: 1811 K<br />(1538 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: ρ Rashalthiad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -261,14 +261,14 @@ planets:
         radius: 35,866.5 km<br/>(5.630 Yrths)
         surface_area: 1.617 × 10<sup>10</sup> km<sup>2</sup><br/>(31.693 Yrths)
         volume: 1.933 × 10<sup>14</sup> km<sup>3</sup><br/>(178.420 Yrths)
-        mass: 3.699 × 10<sup>26</sup> kg<br />(50.58221207836419 Yrths)
+        mass: 3.699 × 10<sup>26</sup> kg<br />(61.937 Yrths)
         density: 1.914 g/cm<sup>3</sup>
         surface_gravity: 19.165 m/s<sup>2</sup><br />(1.954 g<sub>0</sub>)
         escape_velocity: 37.103 km/s<br />(133,570 km/h)
         rotation_period: 57.062 d
         axial_tilt: 7.27°
         albedo: 0.30
-        temperature: 1647 K<br />(1374 °C)
+        temperature: 259 K<br />(-14 °C)
   - name: ρ Rashalthiad III
     type: Ice giant
     aphelion: 2,285,611,804 km<br />15.278 AU
@@ -280,14 +280,14 @@ planets:
     radius: 35,107.2 km<br/>(5.510 Yrths)
     surface_area: 1.549 × 10<sup>10</sup> km<sup>2</sup><br/>(30.365 Yrths)
     volume: 1.813 × 10<sup>14</sup> km<sup>3</sup><br/>(167.327 Yrths)
-    mass: 2.422 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+    mass: 2.422 × 10<sup>26</sup> kg<br />(40.55 Yrths)
     density: 1.336 g/cm<sup>3</sup>
     surface_gravity: 13.096 m/s<sup>2</sup><br />(1.335 g<sub>0</sub>)
     escape_velocity: 30.345 km/s<br />(109,241 km/h)
     rotation_period: 0.294 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 397 K<br />(124 °C)
+    temperature: 375 K<br />(102 °C)
     composition:
       - 78.9447% hydrogen
       - 11.3336% helium
@@ -307,14 +307,14 @@ planets:
         radius: 24,567.0 km<br/>(3.856 Yrths)
         surface_area: 7.584 × 10<sup>09</sup> km<sup>2</sup><br/>(14.869 Yrths)
         volume: 6.211 × 10<sup>13</sup> km<sup>3</sup><br/>(57.337 Yrths)
-        mass: 1.337 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 1.337 × 10<sup>26</sup> kg<br />(22.387 Yrths)
         density: 2.153 g/cm<sup>3</sup>
         surface_gravity: 14.764 m/s<sup>2</sup><br />(1.506 g<sub>0</sub>)
         escape_velocity: 26.952 km/s<br />(97,028 km/h)
         rotation_period: 54.287 d
         axial_tilt: 16.55°
         albedo: 0.30
-        temperature: 1617 K<br />(1344 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: ρ Rashalthiad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -327,14 +327,14 @@ planets:
         radius: 35,414.0 km<br/>(5.559 Yrths)
         surface_area: 1.576 × 10<sup>10</sup> km<sup>2</sup><br/>(30.898 Yrths)
         volume: 1.860 × 10<sup>14</sup> km<sup>3</sup><br/>(171.752 Yrths)
-        mass: 4.030 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 4.030 × 10<sup>26</sup> kg<br />(67.488 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 21.420 m/s<sup>2</sup><br />(2.184 g<sub>0</sub>)
         escape_velocity: 38.977 km/s<br />(140,316 km/h)
         rotation_period: 34.716 d
         axial_tilt: 24.05°
         albedo: 0.30
-        temperature: 1542 K<br />(1269 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: ρ Rashalthiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -347,14 +347,14 @@ planets:
         radius: 23,831.0 km<br/>(3.741 Yrths)
         surface_area: 7.137 × 10<sup>09</sup> km<sup>2</sup><br/>(13.992 Yrths)
         volume: 5.669 × 10<sup>13</sup> km<sup>3</sup><br/>(52.336 Yrths)
-        mass: 1.107 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 1.107 × 10<sup>26</sup> kg<br />(18.532 Yrths)
         density: 1.952 g/cm<sup>3</sup>
         surface_gravity: 12.989 m/s<sup>2</sup><br />(1.324 g<sub>0</sub>)
         escape_velocity: 24.898 km/s<br />(89,633 km/h)
         rotation_period: 45.703 d
         axial_tilt: 17.22°
         albedo: 0.30
-        temperature: 1470 K<br />(1197 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: ρ Rashalthiad III d
         type: Icy
         formationType: Impact formed
@@ -367,14 +367,14 @@ planets:
         radius: 45,285.6 km<br/>(7.108 Yrths)
         surface_area: 2.577 × 10<sup>10</sup> km<sup>2</sup><br/>(50.525 Yrths)
         volume: 3.890 × 10<sup>14</sup> km<sup>3</sup><br/>(359.134 Yrths)
-        mass: 5.444 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 5.444 × 10<sup>26</sup> kg<br />(91.156 Yrths)
         density: 1.399 g/cm<sup>3</sup>
         surface_gravity: 17.693 m/s<sup>2</sup><br />(1.804 g<sub>0</sub>)
         escape_velocity: 40.058 km/s<br />(144,209 km/h)
         rotation_period: 51.517 d
         axial_tilt: 10.01°
         albedo: 0.30
-        temperature: 1402 K<br />(1129 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: ρ Rashalthiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -387,14 +387,14 @@ planets:
         radius: 20,301.3 km<br/>(3.187 Yrths)
         surface_area: 5.179 × 10<sup>09</sup> km<sup>2</sup><br/>(10.154 Yrths)
         volume: 3.505 × 10<sup>13</sup> km<sup>3</sup><br/>(32.355 Yrths)
-        mass: 7.808 × 10<sup>25</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 7.808 × 10<sup>25</sup> kg<br />(13.074 Yrths)
         density: 2.228 g/cm<sup>3</sup>
         surface_gravity: 12.627 m/s<sup>2</sup><br />(1.288 g<sub>0</sub>)
         escape_velocity: 22.658 km/s<br />(81,568 km/h)
         rotation_period: 37.864 d
         axial_tilt: 23.73°
         albedo: 0.30
-        temperature: 1337 K<br />(1063 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: ρ Rashalthiad III f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -407,14 +407,14 @@ planets:
         radius: 35,350.5 km<br/>(5.549 Yrths)
         surface_area: 1.570 × 10<sup>10</sup> km<sup>2</sup><br/>(30.788 Yrths)
         volume: 1.850 × 10<sup>14</sup> km<sup>3</sup><br/>(170.830 Yrths)
-        mass: 3.780 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 3.780 × 10<sup>26</sup> kg<br />(63.302 Yrths)
         density: 2.043 g/cm<sup>3</sup>
         surface_gravity: 20.163 m/s<sup>2</sup><br />(2.056 g<sub>0</sub>)
         escape_velocity: 37.782 km/s<br />(136,017 km/h)
         rotation_period: 37.459 d
         axial_tilt: 23.94°
         albedo: 0.30
-        temperature: 1274 K<br />(1001 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: ρ Rashalthiad III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -427,14 +427,14 @@ planets:
         radius: 29,323.8 km<br/>(4.603 Yrths)
         surface_area: 1.081 × 10<sup>10</sup> km<sup>2</sup><br/>(21.185 Yrths)
         volume: 1.056 × 10<sup>14</sup> km<sup>3</sup><br/>(97.508 Yrths)
-        mass: 2.920 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 2.920 × 10<sup>26</sup> kg<br />(48.896 Yrths)
         density: 2.765 g/cm<sup>3</sup>
         surface_gravity: 22.634 m/s<sup>2</sup><br />(2.308 g<sub>0</sub>)
         escape_velocity: 36.459 km/s<br />(131,252 km/h)
         rotation_period: 29.975 d
         axial_tilt: 18.08°
         albedo: 0.30
-        temperature: 1105 K<br />(831 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: ρ Rashalthiad III h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -447,14 +447,14 @@ planets:
         radius: 20,489.4 km<br/>(3.216 Yrths)
         surface_area: 5.276 × 10<sup>09</sup> km<sup>2</sup><br/>(10.343 Yrths)
         volume: 3.603 × 10<sup>13</sup> km<sup>3</sup><br/>(33.263 Yrths)
-        mass: 1.009 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 1.009 × 10<sup>26</sup> kg<br />(16.893 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 16.017 m/s<sup>2</sup><br />(1.633 g<sub>0</sub>)
         escape_velocity: 25.637 km/s<br />(92,294 km/h)
         rotation_period: 32.578 d
         axial_tilt: 14.07°
         albedo: 0.30
-        temperature: 1053 K<br />(780 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: ρ Rashalthiad III i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -467,14 +467,14 @@ planets:
         radius: 43,054.2 km<br/>(6.758 Yrths)
         surface_area: 2.329 × 10<sup>10</sup> km<sup>2</sup><br/>(45.668 Yrths)
         volume: 3.343 × 10<sup>14</sup> km<sup>3</sup><br/>(308.619 Yrths)
-        mass: 7.484 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 7.484 × 10<sup>26</sup> kg<br />(125.313 Yrths)
         density: 2.239 g/cm<sup>3</sup>
         surface_gravity: 26.909 m/s<sup>2</sup><br />(2.744 g<sub>0</sub>)
         escape_velocity: 48.169 km/s<br />(173,409 km/h)
         rotation_period: 44.379 d
         axial_tilt: 16.56°
         albedo: 0.30
-        temperature: 957 K<br />(684 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: ρ Rashalthiad III j
         type: Ice/rock hybrid
         formationType: Captured
@@ -487,12 +487,12 @@ planets:
         radius: 25,591.1 km<br/>(4.017 Yrths)
         surface_area: 8.230 × 10<sup>09</sup> km<sup>2</sup><br/>(16.135 Yrths)
         volume: 7.020 × 10<sup>13</sup> km<sup>3</sup><br/>(64.810 Yrths)
-        mass: 1.347 × 10<sup>26</sup> kg<br />(40.55188518642243 Yrths)
+        mass: 1.347 × 10<sup>26</sup> kg<br />(22.549 Yrths)
         density: 1.918 g/cm<sup>3</sup>
         surface_gravity: 13.705 m/s<sup>2</sup><br />(1.398 g<sub>0</sub>)
         escape_velocity: 26.503 km/s<br />(95,411 km/h)
         rotation_period: 54.920 d
         axial_tilt: 18.02°
         albedo: 0.30
-        temperature: 913 K<br />(640 °C)
+        temperature: 184 K<br />(-90 °C)
 ---

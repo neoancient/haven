@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10205 Tanashad A is a star in the constellation Tanas
+      10205 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 436.89 ly
 apparent_magnitude: 9.01
 absolute_magnitude: 3.38

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      804 Aldnanniad is a star in the constellation Aldnan
+      804 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 647.88 ly
 apparent_magnitude: 11.42
 absolute_magnitude: 4.93

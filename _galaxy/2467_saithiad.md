@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2467 Saithiad is a star in the constellation Saith
+      2467 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 507.08 ly
 apparent_magnitude: 6.57
 absolute_magnitude: 0.61
@@ -31,14 +31,14 @@ planets:
     radius: 199.5 km<br/>(0.031 Yrths)
     surface_area: 5.003 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.328 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.956 × 10<sup>26</sup> kg<br />(166.71088827072464 Yrths)
+    mass: 9.956 × 10<sup>26</sup> kg<br />(166.71 Yrths)
     density: 29917990.061 g/cm<sup>3</sup>
     surface_gravity: 1666702.257 m/s<sup>2</sup><br />(169956.331 g<sub>0</sub>)
     escape_velocity: 816.111 km/s<br />(2,938,000 km/h)
     rotation_period: 0.250 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2379 K<br />(2106 °C)
+    temperature: 2427 K<br />(2154 °C)
     composition:
       - 73.1627% hydrogen
       - 15.0909% helium
@@ -57,14 +57,14 @@ planets:
         radius: 124,736.0 km<br/>(19.579 Yrths)
         surface_area: 1.955 × 10<sup>11</sup> km<sup>2</sup><br/>(383.326 Yrths)
         volume: 8.130 × 10<sup>15</sup> km<sup>3</sup><br/>(7505.042 Yrths)
-        mass: 1.839 × 10<sup>28</sup> kg<br />(166.71088827072464 Yrths)
+        mass: 1.839 × 10<sup>28</sup> kg<br />(3080.130 Yrths)
         density: 2.263 g/cm<sup>3</sup>
         surface_gravity: 78.799 m/s<sup>2</sup><br />(8.035 g<sub>0</sub>)
         escape_velocity: 140.303 km/s<br />(505,090 km/h)
         rotation_period: 36.383 d
         axial_tilt: 21.88°
         albedo: 0.30
-        temperature: 4638 K<br />(4365 °C)
+        temperature: 565 K<br />(292 °C)
       - name: 2467 Saithiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 238,536.5 km<br/>(37.441 Yrths)
         surface_area: 7.150 × 10<sup>11</sup> km<sup>2</sup><br/>(1401.828 Yrths)
         volume: 5.685 × 10<sup>16</sup> km<sup>3</sup><br/>(52485.816 Yrths)
-        mass: 9.096 × 10<sup>28</sup> kg<br />(166.71088827072464 Yrths)
+        mass: 9.096 × 10<sup>28</sup> kg<br />(15231.882 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 106.556 m/s<sup>2</sup><br />(10.866 g<sub>0</sub>)
         escape_velocity: 225.620 km/s<br />(812,231 km/h)
         rotation_period: 41.331 d
         axial_tilt: 25.33°
         albedo: 0.30
-        temperature: 2618 K<br />(2345 °C)
+        temperature: 565 K<br />(292 °C)
       - name: 2467 Saithiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 127,060.2 km<br/>(19.944 Yrths)
         surface_area: 2.029 × 10<sup>11</sup> km<sup>2</sup><br/>(397.744 Yrths)
         volume: 8.592 × 10<sup>15</sup> km<sup>3</sup><br/>(7932.420 Yrths)
-        mass: 2.118 × 10<sup>28</sup> kg<br />(166.71088827072464 Yrths)
+        mass: 2.118 × 10<sup>28</sup> kg<br />(3546.391 Yrths)
         density: 2.465 g/cm<sup>3</sup>
         surface_gravity: 87.439 m/s<sup>2</sup><br />(8.916 g<sub>0</sub>)
         escape_velocity: 149.165 km/s<br />(536,993 km/h)
         rotation_period: 56.799 d
         axial_tilt: 5.56°
         albedo: 0.30
-        temperature: 1626 K<br />(1353 °C)
+        temperature: 565 K<br />(292 °C)
       - name: 2467 Saithiad I d
         type: Dwarf planet
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 140,189.1 km<br/>(22.004 Yrths)
         surface_area: 2.470 × 10<sup>11</sup> km<sup>2</sup><br/>(484.187 Yrths)
         volume: 1.154 × 10<sup>16</sup> km<sup>3</sup><br/>(10654.175 Yrths)
-        mass: 2.274 × 10<sup>28</sup> kg<br />(166.71088827072464 Yrths)
+        mass: 2.274 × 10<sup>28</sup> kg<br />(3808.065 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 77.128 m/s<sup>2</sup><br />(7.865 g<sub>0</sub>)
         escape_velocity: 147.154 km/s<br />(529,755 km/h)
         rotation_period: 63.052 d
         axial_tilt: 33.51°
         albedo: 0.30
-        temperature: 1550 K<br />(1277 °C)
+        temperature: 565 K<br />(292 °C)
       - name: 2467 Saithiad I e
         type: Icy
         formationType: Accreted
@@ -137,12 +137,12 @@ planets:
         radius: 180,704.4 km<br/>(28.364 Yrths)
         surface_area: 4.103 × 10<sup>11</sup> km<sup>2</sup><br/>(804.493 Yrths)
         volume: 2.472 × 10<sup>16</sup> km<sup>3</sup><br/>(22818.288 Yrths)
-        mass: 3.319 × 10<sup>28</sup> kg<br />(166.71088827072464 Yrths)
+        mass: 3.319 × 10<sup>28</sup> kg<br />(5556.890 Yrths)
         density: 1.343 g/cm<sup>3</sup>
         surface_gravity: 67.738 m/s<sup>2</sup><br />(6.907 g<sub>0</sub>)
         escape_velocity: 156.570 km/s<br />(563,653 km/h)
         rotation_period: 62.169 d
         axial_tilt: 28.28°
         albedo: 0.30
-        temperature: 1165 K<br />(891 °C)
+        temperature: 565 K<br />(292 °C)
 ---

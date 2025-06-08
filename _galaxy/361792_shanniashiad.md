@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      361792 Shanniashiad is a star in the constellation Shannias
+      361792 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 555.96 ly
 apparent_magnitude: 11.24
 absolute_magnitude: 5.08

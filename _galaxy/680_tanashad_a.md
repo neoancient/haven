@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      680 Tanashad A is a star in the constellation Tanas
+      680 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 557.90 ly
 apparent_magnitude: 6.99
 absolute_magnitude: 0.82

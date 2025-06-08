@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3556 Shanniashiad A is a star in the constellation Shannias
+      3556 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 181.81 ly
 apparent_magnitude: 9.94
 absolute_magnitude: 6.21

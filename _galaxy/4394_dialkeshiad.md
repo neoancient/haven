@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4394 Dialkeshiad is a star in the constellation Dialkes
+      4394 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 184.99 ly
 apparent_magnitude: 9.17
 absolute_magnitude: 5.40

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      227 Narashiad A is a star in the constellation Naras
+      227 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 321.09 ly
 apparent_magnitude: 10.97
 absolute_magnitude: 6.00

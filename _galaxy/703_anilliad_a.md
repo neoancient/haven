@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      703 Anilliad A is a star in the constellation Anil
+      703 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 480.30 ly
 apparent_magnitude: 9.22
 absolute_magnitude: 3.38

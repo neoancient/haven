@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Olliad D is a star in the constellation Ol
+      0002 Olliad D is a star in the constellation <a href="ol.html">Ol</a>
 distance: 232.37 ly
 apparent_magnitude: 9.28
 absolute_magnitude: 5.01
@@ -31,14 +31,14 @@ planets:
     radius: 10,409.7 km<br/>(1.634 Yrths)
     surface_area: 1.362 × 10<sup>09</sup> km<sup>2</sup><br/>(2.670 Yrths)
     volume: 4.725 × 10<sup>12</sup> km<sup>3</sup><br/>(4.362 Yrths)
-    mass: 1.363 × 10<sup>25</sup> kg<br />(2.2817414297385463 Yrths)
+    mass: 1.363 × 10<sup>25</sup> kg<br />(2.28 Yrths)
     density: 2.884 g/cm<sup>3</sup>
     surface_gravity: 8.382 m/s<sup>2</sup><br />(0.855 g<sub>0</sub>)
     escape_velocity: 13.219 km/s<br />(47,588 km/h)
     rotation_period: 1.623 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 455 K<br />(182 °C)
+    temperature: 417 K<br />(143 °C)
     composition:
       - 73.7517% hydrogen
       - 22.0688% helium
@@ -57,14 +57,14 @@ planets:
         radius: 3,419.7 km<br/>(0.537 Yrths)
         surface_area: 1.470 × 10<sup>08</sup> km<sup>2</sup><br/>(0.288 Yrths)
         volume: 1.675 × 10<sup>11</sup> km<sup>3</sup><br/>(0.155 Yrths)
-        mass: 4.193 × 10<sup>23</sup> kg<br />(2.2817414297385463 Yrths)
+        mass: 4.193 × 10<sup>23</sup> kg<br />(0.070 Yrths)
         density: 2.503 g/cm<sup>3</sup>
         surface_gravity: 2.390 m/s<sup>2</sup><br />(0.244 g<sub>0</sub>)
         escape_velocity: 4.046 km/s<br />(14,565 km/h)
         rotation_period: 32.488 d
         axial_tilt: 57.51°
         albedo: 0.30
-        temperature: 3946 K<br />(3673 °C)
+        temperature: 322 K<br />(48 °C)
       - name: 0002 Olliad D I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 2,965.6 km<br/>(0.465 Yrths)
         surface_area: 1.105 × 10<sup>08</sup> km<sup>2</sup><br/>(0.217 Yrths)
         volume: 1.093 × 10<sup>11</sup> km<sup>3</sup><br/>(0.101 Yrths)
-        mass: 1.076 × 10<sup>23</sup> kg<br />(2.2817414297385463 Yrths)
+        mass: 1.076 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 0.985 g/cm<sup>3</sup>
         surface_gravity: 0.816 m/s<sup>2</sup><br />(0.083 g<sub>0</sub>)
         escape_velocity: 2.201 km/s<br />(7,924 km/h)
         rotation_period: 54.143 d
         axial_tilt: 10.63°
         albedo: 0.30
-        temperature: 3762 K<br />(3489 °C)
+        temperature: 322 K<br />(48 °C)
       - name: 0002 Olliad D I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -97,14 +97,14 @@ planets:
         radius: 5,160.2 km<br/>(0.810 Yrths)
         surface_area: 3.346 × 10<sup>08</sup> km<sup>2</sup><br/>(0.656 Yrths)
         volume: 5.756 × 10<sup>11</sup> km<sup>3</sup><br/>(0.531 Yrths)
-        mass: 1.297 × 10<sup>24</sup> kg<br />(2.2817414297385463 Yrths)
+        mass: 1.297 × 10<sup>24</sup> kg<br />(0.217 Yrths)
         density: 2.253 g/cm<sup>3</sup>
         surface_gravity: 3.246 m/s<sup>2</sup><br />(0.331 g<sub>0</sub>)
         escape_velocity: 5.792 km/s<br />(20,851 km/h)
         rotation_period: 41.940 d
         axial_tilt: 20.28°
         albedo: 0.30
-        temperature: 3587 K<br />(3314 °C)
+        temperature: 322 K<br />(48 °C)
       - name: 0002 Olliad D I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 2,145.2 km<br/>(0.337 Yrths)
         surface_area: 5.783 × 10<sup>07</sup> km<sup>2</sup><br/>(0.113 Yrths)
         volume: 4.135 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 1.022 × 10<sup>23</sup> kg<br />(2.2817414297385463 Yrths)
+        mass: 1.022 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 2.470 g/cm<sup>3</sup>
         surface_gravity: 1.479 m/s<sup>2</sup><br />(0.151 g<sub>0</sub>)
         escape_velocity: 2.521 km/s<br />(9,076 km/h)
         rotation_period: 40.335 d
         axial_tilt: 26.09°
         albedo: 0.30
-        temperature: 3420 K<br />(3147 °C)
+        temperature: 322 K<br />(48 °C)
   - name: 0002 Olliad D II
     type: Large terrestrial
     aphelion: 160,904,708 km<br />1.076 AU
@@ -136,14 +136,14 @@ planets:
     radius: 11,303.3 km<br/>(1.774 Yrths)
     surface_area: 1.606 × 10<sup>09</sup> km<sup>2</sup><br/>(3.148 Yrths)
     volume: 6.049 × 10<sup>12</sup> km<sup>3</sup><br/>(5.585 Yrths)
-    mass: 3.992 × 10<sup>25</sup> kg<br />(6.684467847349341 Yrths)
+    mass: 3.992 × 10<sup>25</sup> kg<br />(6.68 Yrths)
     density: 6.599 g/cm<sup>3</sup>
     surface_gravity: 20.825 m/s<sup>2</sup><br />(2.124 g<sub>0</sub>)
     escape_velocity: 21.712 km/s<br />(78,165 km/h)
     rotation_period: 0.964 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 284 K<br />(11 °C)
+    temperature: 297 K<br />(23 °C)
     surface_pressure: 67 kPa<br />(1 atm)
     composition:
       - 74.6295% nitrogen
@@ -162,14 +162,14 @@ planets:
         radius: 9,329.1 km<br/>(1.464 Yrths)
         surface_area: 1.094 × 10<sup>09</sup> km<sup>2</sup><br/>(2.144 Yrths)
         volume: 3.401 × 10<sup>12</sup> km<sup>3</sup><br/>(3.140 Yrths)
-        mass: 7.320 × 10<sup>24</sup> kg<br />(6.684467847349341 Yrths)
+        mass: 7.320 × 10<sup>24</sup> kg<br />(1.226 Yrths)
         density: 2.152 g/cm<sup>3</sup>
         surface_gravity: 5.606 m/s<sup>2</sup><br />(0.572 g<sub>0</sub>)
         escape_velocity: 10.234 km/s<br />(36,844 km/h)
         rotation_period: 52.245 d
         axial_tilt: 11.13°
         albedo: 0.30
-        temperature: 2511 K<br />(2238 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0002 Olliad D II b
         type: Rocky
         formationType: Captured
@@ -182,14 +182,14 @@ planets:
         radius: 9,784.5 km<br/>(1.536 Yrths)
         surface_area: 1.203 × 10<sup>09</sup> km<sup>2</sup><br/>(2.359 Yrths)
         volume: 3.924 × 10<sup>12</sup> km<sup>3</sup><br/>(3.622 Yrths)
-        mass: 1.287 × 10<sup>25</sup> kg<br />(6.684467847349341 Yrths)
+        mass: 1.287 × 10<sup>25</sup> kg<br />(2.156 Yrths)
         density: 3.281 g/cm<sup>3</sup>
         surface_gravity: 8.963 m/s<sup>2</sup><br />(0.914 g<sub>0</sub>)
         escape_velocity: 13.253 km/s<br />(47,711 km/h)
         rotation_period: 36.389 d
         axial_tilt: 22.56°
         albedo: 0.30
-        temperature: 2395 K<br />(2121 °C)
+        temperature: 242 K<br />(-31 °C)
   - name: 0002 Olliad D III
     type: Ice giant
     aphelion: 280,738,105 km<br />1.877 AU
@@ -201,14 +201,14 @@ planets:
     radius: 26,815.8 km<br/>(4.209 Yrths)
     surface_area: 9.036 × 10<sup>09</sup> km<sup>2</sup><br/>(17.716 Yrths)
     volume: 8.077 × 10<sup>13</sup> km<sup>3</sup><br/>(74.568 Yrths)
-    mass: 1.154 × 10<sup>26</sup> kg<br />(19.32602352348068 Yrths)
+    mass: 1.154 × 10<sup>26</sup> kg<br />(19.33 Yrths)
     density: 1.429 g/cm<sup>3</sup>
     surface_gravity: 10.698 m/s<sup>2</sup><br />(1.091 g<sub>0</sub>)
     escape_velocity: 23.969 km/s<br />(86,289 km/h)
     rotation_period: 0.599 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 318 K<br />(44 °C)
+    temperature: 298 K<br />(24 °C)
     composition:
       - 66.4132% hydrogen
       - 19.1838% helium
@@ -227,14 +227,14 @@ planets:
         radius: 15,278.5 km<br/>(2.398 Yrths)
         surface_area: 2.933 × 10<sup>09</sup> km<sup>2</sup><br/>(5.751 Yrths)
         volume: 1.494 × 10<sup>13</sup> km<sup>3</sup><br/>(13.792 Yrths)
-        mass: 2.467 × 10<sup>25</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 2.467 × 10<sup>25</sup> kg<br />(4.130 Yrths)
         density: 1.651 g/cm<sup>3</sup>
         surface_gravity: 7.043 m/s<sup>2</sup><br />(0.718 g<sub>0</sub>)
         escape_velocity: 14.680 km/s<br />(52,848 km/h)
         rotation_period: 58.043 d
         axial_tilt: 21.14°
         albedo: 0.30
-        temperature: 1571 K<br />(1298 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0002 Olliad D III b
         type: Icy
         formationType: Accreted
@@ -247,14 +247,14 @@ planets:
         radius: 13,624.5 km<br/>(2.139 Yrths)
         surface_area: 2.333 × 10<sup>09</sup> km<sup>2</sup><br/>(4.573 Yrths)
         volume: 1.059 × 10<sup>13</sup> km<sup>3</sup><br/>(9.780 Yrths)
-        mass: 1.710 × 10<sup>25</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 1.710 × 10<sup>25</sup> kg<br />(2.864 Yrths)
         density: 1.615 g/cm<sup>3</sup>
         surface_gravity: 6.142 m/s<sup>2</sup><br />(0.626 g<sub>0</sub>)
         escape_velocity: 12.945 km/s<br />(46,603 km/h)
         rotation_period: 55.284 d
         axial_tilt: 21.91°
         albedo: 0.30
-        temperature: 1362 K<br />(1089 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0002 Olliad D III c
         type: Asteroid
         formationType: Captured
@@ -267,14 +267,14 @@ planets:
         radius: 18,575.0 km<br/>(2.916 Yrths)
         surface_area: 4.336 × 10<sup>09</sup> km<sup>2</sup><br/>(8.500 Yrths)
         volume: 2.685 × 10<sup>13</sup> km<sup>3</sup><br/>(24.783 Yrths)
-        mass: 6.946 × 10<sup>25</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 6.946 × 10<sup>25</sup> kg<br />(11.631 Yrths)
         density: 2.587 g/cm<sup>3</sup>
         surface_gravity: 13.418 m/s<sup>2</sup><br />(1.368 g<sub>0</sub>)
         escape_velocity: 22.342 km/s<br />(80,430 km/h)
         rotation_period: 35.730 d
         axial_tilt: 30.46°
         albedo: 0.30
-        temperature: 1298 K<br />(1025 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0002 Olliad D III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -287,14 +287,14 @@ planets:
         radius: 20,486.4 km<br/>(3.216 Yrths)
         surface_area: 5.274 × 10<sup>09</sup> km<sup>2</sup><br/>(10.340 Yrths)
         volume: 3.602 × 10<sup>13</sup> km<sup>3</sup><br/>(33.249 Yrths)
-        mass: 6.960 × 10<sup>25</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 6.960 × 10<sup>25</sup> kg<br />(11.655 Yrths)
         density: 1.933 g/cm<sup>3</sup>
         surface_gravity: 11.054 m/s<sup>2</sup><br />(1.127 g<sub>0</sub>)
         escape_velocity: 21.296 km/s<br />(76,667 km/h)
         rotation_period: 37.570 d
         axial_tilt: 14.85°
         albedo: 0.30
-        temperature: 1238 K<br />(965 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0002 Olliad D III e
         type: Icy
         formationType: Accreted
@@ -307,14 +307,14 @@ planets:
         radius: 16,431.3 km<br/>(2.579 Yrths)
         surface_area: 3.393 × 10<sup>09</sup> km<sup>2</sup><br/>(6.652 Yrths)
         volume: 1.858 × 10<sup>13</sup> km<sup>3</sup><br/>(17.155 Yrths)
-        mass: 2.100 × 10<sup>25</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 2.100 × 10<sup>25</sup> kg<br />(3.516 Yrths)
         density: 1.130 g/cm<sup>3</sup>
         surface_gravity: 5.184 m/s<sup>2</sup><br />(0.529 g<sub>0</sub>)
         escape_velocity: 13.061 km/s<br />(47,021 km/h)
         rotation_period: 56.834 d
         axial_tilt: 17.60°
         albedo: 0.30
-        temperature: 1180 K<br />(907 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0002 Olliad D III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -327,14 +327,14 @@ planets:
         radius: 10,154.4 km<br/>(1.594 Yrths)
         surface_area: 1.296 × 10<sup>09</sup> km<sup>2</sup><br/>(2.540 Yrths)
         volume: 4.386 × 10<sup>12</sup> km<sup>3</sup><br/>(4.049 Yrths)
-        mass: 1.166 × 10<sup>25</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 1.166 × 10<sup>25</sup> kg<br />(1.952 Yrths)
         density: 2.658 g/cm<sup>3</sup>
         surface_gravity: 7.536 m/s<sup>2</sup><br />(0.768 g<sub>0</sub>)
         escape_velocity: 12.379 km/s<br />(44,565 km/h)
         rotation_period: 31.133 d
         axial_tilt: 22.69°
         albedo: 0.30
-        temperature: 1073 K<br />(800 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0002 Olliad D III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -347,14 +347,14 @@ planets:
         radius: 11,085.0 km<br/>(1.740 Yrths)
         surface_area: 1.544 × 10<sup>09</sup> km<sup>2</sup><br/>(3.027 Yrths)
         volume: 5.705 × 10<sup>12</sup> km<sup>3</sup><br/>(5.267 Yrths)
-        mass: 1.411 × 10<sup>25</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 1.411 × 10<sup>25</sup> kg<br />(2.363 Yrths)
         density: 2.474 g/cm<sup>3</sup>
         surface_gravity: 7.656 m/s<sup>2</sup><br />(0.781 g<sub>0</sub>)
         escape_velocity: 13.037 km/s<br />(46,932 km/h)
         rotation_period: 33.005 d
         axial_tilt: 9.24°
         albedo: 0.30
-        temperature: 1023 K<br />(750 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0002 Olliad D III h
         type: Ice/rock hybrid
         formationType: Captured
@@ -367,14 +367,14 @@ planets:
         radius: 46,455.3 km<br/>(7.292 Yrths)
         surface_area: 2.712 × 10<sup>10</sup> km<sup>2</sup><br/>(53.169 Yrths)
         volume: 4.199 × 10<sup>14</sup> km<sup>3</sup><br/>(387.688 Yrths)
-        mass: 1.019 × 10<sup>27</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 1.019 × 10<sup>27</sup> kg<br />(170.674 Yrths)
         density: 2.427 g/cm<sup>3</sup>
         surface_gravity: 31.480 m/s<sup>2</sup><br />(3.210 g<sub>0</sub>)
         escape_velocity: 54.118 km/s<br />(194,826 km/h)
         rotation_period: 36.095 d
         axial_tilt: 20.88°
         albedo: 0.30
-        temperature: 976 K<br />(702 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0002 Olliad D III i
         type: Icy
         formationType: Accreted
@@ -387,14 +387,14 @@ planets:
         radius: 18,234.7 km<br/>(2.862 Yrths)
         surface_area: 4.178 × 10<sup>09</sup> km<sup>2</sup><br/>(8.192 Yrths)
         volume: 2.540 × 10<sup>13</sup> km<sup>3</sup><br/>(23.446 Yrths)
-        mass: 3.828 × 10<sup>25</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 3.828 × 10<sup>25</sup> kg<br />(6.411 Yrths)
         density: 1.507 g/cm<sup>3</sup>
         surface_gravity: 7.674 m/s<sup>2</sup><br />(0.783 g<sub>0</sub>)
         escape_velocity: 16.741 km/s<br />(60,268 km/h)
         rotation_period: 48.986 d
         axial_tilt: 7.51°
         albedo: 0.30
-        temperature: 846 K<br />(572 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0002 Olliad D III j
         type: Asteroid
         formationType: Captured
@@ -407,14 +407,14 @@ planets:
         radius: 13,554.0 km<br/>(2.127 Yrths)
         surface_area: 2.309 × 10<sup>09</sup> km<sup>2</sup><br/>(4.526 Yrths)
         volume: 1.043 × 10<sup>13</sup> km<sup>3</sup><br/>(9.629 Yrths)
-        mass: 1.812 × 10<sup>25</sup> kg<br />(19.32602352348068 Yrths)
+        mass: 1.812 × 10<sup>25</sup> kg<br />(3.034 Yrths)
         density: 1.737 g/cm<sup>3</sup>
         surface_gravity: 6.573 m/s<sup>2</sup><br />(0.670 g<sub>0</sub>)
         escape_velocity: 13.358 km/s<br />(48,088 km/h)
         rotation_period: 40.406 d
         axial_tilt: 18.50°
         albedo: 0.30
-        temperature: 769 K<br />(496 °C)
+        temperature: 183 K<br />(-90 °C)
   - name: 0002 Olliad D IV
     type: Gas giant
     aphelion: 523,084,827 km<br />3.497 AU
@@ -426,14 +426,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.595 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 396 K<br />(123 °C)
+    temperature: 369 K<br />(96 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -449,14 +449,14 @@ planets:
         radius: 778.0 km<br/>(0.122 Yrths)
         surface_area: 7.607 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.973 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.024 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.024 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.026 g/cm<sup>3</sup>
         surface_gravity: 0.223 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.589 km/s<br />(2,122 km/h)
         rotation_period: 86.744 d
         axial_tilt: 14.99°
         albedo: 0.30
-        temperature: 2575 K<br />(2302 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0002 Olliad D IV b
         type: Icy
         formationType: Accreted
@@ -469,14 +469,14 @@ planets:
         radius: 1,002.0 km<br/>(0.157 Yrths)
         surface_area: 1.262 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.214 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 5.416 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.416 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.285 g/cm<sup>3</sup>
         surface_gravity: 0.360 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.849 km/s<br />(3,058 km/h)
         rotation_period: 49.363 d
         axial_tilt: 23.45°
         albedo: 0.30
-        temperature: 463 K<br />(190 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0002 Olliad D IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -489,14 +489,14 @@ planets:
         radius: 640.4 km<br/>(0.101 Yrths)
         surface_area: 5.153 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.100 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.823 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.823 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.657 g/cm<sup>3</sup>
         surface_gravity: 0.296 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.616 km/s<br />(2,219 km/h)
         rotation_period: 57.934 d
         axial_tilt: 21.75°
         albedo: 0.30
-        temperature: 261 K<br />(-12 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0002 Olliad D IV d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -509,14 +509,14 @@ planets:
         radius: 1,143.6 km<br/>(0.179 Yrths)
         surface_area: 1.643 × 10<sup>07</sup> km<sup>2</sup><br/>(0.032 Yrths)
         volume: 6.264 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.419 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.419 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.265 g/cm<sup>3</sup>
         surface_gravity: 0.723 m/s<sup>2</sup><br />(0.074 g<sub>0</sub>)
         escape_velocity: 1.287 km/s<br />(4,633 km/h)
         rotation_period: 41.918 d
         axial_tilt: 28.86°
         albedo: 0.30
-        temperature: 216 K<br />(-57 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0002 Olliad D IV e
         type: Icy
         formationType: Impact formed
@@ -529,14 +529,14 @@ planets:
         radius: 861.7 km<br/>(0.135 Yrths)
         surface_area: 9.331 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.680 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.335 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.335 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.244 g/cm<sup>3</sup>
         surface_gravity: 0.299 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.719 km/s<br />(2,588 km/h)
         rotation_period: 78.247 d
         axial_tilt: 9.85°
         albedo: 0.30
-        temperature: 162 K<br />(-111 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 0002 Olliad D IV f
         type: Icy
         formationType: Impact formed
@@ -549,14 +549,14 @@ planets:
         radius: 706.1 km<br/>(0.111 Yrths)
         surface_area: 6.265 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.475 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.945 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.945 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.319 g/cm<sup>3</sup>
         surface_gravity: 0.260 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.606 km/s<br />(2,183 km/h)
         rotation_period: 71.451 d
         axial_tilt: 22.37°
         albedo: 0.30
-        temperature: 148 K<br />(-126 °C)
+        temperature: 138 K<br />(-135 °C)
   - name: 0002 Olliad D V
     type: Gas giant
     aphelion: 909,935,833 km<br />6.082 AU
@@ -568,7 +568,7 @@ planets:
     radius: 194.4 km<br/>(0.031 Yrths)
     surface_area: 4.748 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.076 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.927 × 10<sup>26</sup> kg<br />(149.48046419202308 Yrths)
+    mass: 8.927 × 10<sup>26</sup> kg<br />(149.48 Yrths)
     density: 29019463.933 g/cm<sup>3</sup>
     surface_gravity: 1574839.003 m/s<sup>2</sup><br />(160588.886 g<sub>0</sub>)
     escape_velocity: 782.977 km/s<br />(2,818,717 km/h)
@@ -589,14 +589,14 @@ planets:
         radius: 124,532.0 km<br/>(19.547 Yrths)
         surface_area: 1.949 × 10<sup>11</sup> km<sup>2</sup><br/>(382.074 Yrths)
         volume: 8.090 × 10<sup>15</sup> km<sup>3</sup><br/>(7468.277 Yrths)
-        mass: 2.221 × 10<sup>28</sup> kg<br />(149.48046419202308 Yrths)
+        mass: 2.221 × 10<sup>28</sup> kg<br />(3719.180 Yrths)
         density: 2.746 g/cm<sup>3</sup>
         surface_gravity: 95.460 m/s<sup>2</sup><br />(9.734 g<sub>0</sub>)
         escape_velocity: 154.298 km/s<br />(555,473 km/h)
         rotation_period: 39.485 d
         axial_tilt: 34.89°
         albedo: 0.30
-        temperature: 392 K<br />(119 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0002 Olliad D V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -609,14 +609,14 @@ planets:
         radius: 97,310.3 km<br/>(15.274 Yrths)
         surface_area: 1.190 × 10<sup>11</sup> km<sup>2</sup><br/>(233.293 Yrths)
         volume: 3.860 × 10<sup>15</sup> km<sup>3</sup><br/>(3563.313 Yrths)
-        mass: 7.890 × 10<sup>27</sup> kg<br />(149.48046419202308 Yrths)
+        mass: 7.890 × 10<sup>27</sup> kg<br />(1321.130 Yrths)
         density: 2.044 g/cm<sup>3</sup>
         surface_gravity: 55.535 m/s<sup>2</sup><br />(5.663 g<sub>0</sub>)
         escape_velocity: 104.033 km/s<br />(374,519 km/h)
         rotation_period: 47.543 d
         axial_tilt: 19.02°
         albedo: 0.30
-        temperature: 183 K<br />(-90 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0002 Olliad D V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -629,14 +629,14 @@ planets:
         radius: 112,063.2 km<br/>(17.590 Yrths)
         surface_area: 1.578 × 10<sup>11</sup> km<sup>2</sup><br/>(309.393 Yrths)
         volume: 5.895 × 10<sup>15</sup> km<sup>3</sup><br/>(5442.095 Yrths)
-        mass: 1.437 × 10<sup>28</sup> kg<br />(149.48046419202308 Yrths)
+        mass: 1.437 × 10<sup>28</sup> kg<br />(2406.138 Yrths)
         density: 2.438 g/cm<sup>3</sup>
         surface_gravity: 76.266 m/s<sup>2</sup><br />(7.777 g<sub>0</sub>)
         escape_velocity: 130.830 km/s<br />(470,987 km/h)
         rotation_period: 56.195 d
         axial_tilt: 24.81°
         albedo: 0.30
-        temperature: 144 K<br />(-129 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0002 Olliad D V d
         type: Dwarf planet
         formationType: Accreted
@@ -649,14 +649,14 @@ planets:
         radius: 99,981.7 km<br/>(15.693 Yrths)
         surface_area: 1.256 × 10<sup>11</sup> km<sup>2</sup><br/>(246.278 Yrths)
         volume: 4.186 × 10<sup>15</sup> km<sup>3</sup><br/>(3864.907 Yrths)
-        mass: 7.387 × 10<sup>27</sup> kg<br />(149.48046419202308 Yrths)
+        mass: 7.387 × 10<sup>27</sup> kg<br />(1236.891 Yrths)
         density: 1.764 g/cm<sup>3</sup>
         surface_gravity: 49.252 m/s<sup>2</sup><br />(5.022 g<sub>0</sub>)
         escape_velocity: 99.308 km/s<br />(357,508 km/h)
         rotation_period: 54.761 d
         axial_tilt: 34.05°
         albedo: 0.30
-        temperature: 119 K<br />(-154 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0002 Olliad D V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -669,14 +669,14 @@ planets:
         radius: 115,010.1 km<br/>(18.052 Yrths)
         surface_area: 1.662 × 10<sup>11</sup> km<sup>2</sup><br/>(325.879 Yrths)
         volume: 6.372 × 10<sup>15</sup> km<sup>3</sup><br/>(5882.818 Yrths)
-        mass: 1.430 × 10<sup>28</sup> kg<br />(149.48046419202308 Yrths)
+        mass: 1.430 × 10<sup>28</sup> kg<br />(2394.419 Yrths)
         density: 2.244 g/cm<sup>3</sup>
         surface_gravity: 72.055 m/s<sup>2</sup><br />(7.348 g<sub>0</sub>)
         escape_velocity: 128.828 km/s<br />(463,780 km/h)
         rotation_period: 39.854 d
         axial_tilt: 23.11°
         albedo: 0.30
-        temperature: 114 K<br />(-160 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0002 Olliad D V f
         type: Icy
         formationType: Accreted
@@ -689,14 +689,14 @@ planets:
         radius: 103,460.3 km<br/>(16.239 Yrths)
         surface_area: 1.345 × 10<sup>11</sup> km<sup>2</sup><br/>(263.714 Yrths)
         volume: 4.639 × 10<sup>15</sup> km<sup>3</sup><br/>(4282.515 Yrths)
-        mass: 6.615 × 10<sup>27</sup> kg<br />(149.48046419202308 Yrths)
+        mass: 6.615 × 10<sup>27</sup> kg<br />(1107.624 Yrths)
         density: 1.426 g/cm<sup>3</sup>
         surface_gravity: 41.189 m/s<sup>2</sup><br />(4.200 g<sub>0</sub>)
         escape_velocity: 92.382 km/s<br />(332,575 km/h)
         rotation_period: 59.085 d
         axial_tilt: 18.26°
         albedo: 0.30
-        temperature: 85 K<br />(-188 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0002 Olliad D V g
         type: Icy
         formationType: Accreted
@@ -709,14 +709,14 @@ planets:
         radius: 106,122.8 km<br/>(16.657 Yrths)
         surface_area: 1.415 × 10<sup>11</sup> km<sup>2</sup><br/>(277.461 Yrths)
         volume: 5.006 × 10<sup>15</sup> km<sup>3</sup><br/>(4621.712 Yrths)
-        mass: 7.548 × 10<sup>27</sup> kg<br />(149.48046419202308 Yrths)
+        mass: 7.548 × 10<sup>27</sup> kg<br />(1263.873 Yrths)
         density: 1.508 g/cm<sup>3</sup>
         surface_gravity: 44.671 m/s<sup>2</sup><br />(4.555 g<sub>0</sub>)
         escape_velocity: 97.437 km/s<br />(350,774 km/h)
         rotation_period: 46.870 d
         axial_tilt: 6.70°
         albedo: 0.30
-        temperature: 64 K<br />(-209 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0002 Olliad D V h
         type: Icy
         formationType: Accreted
@@ -729,12 +729,12 @@ planets:
         radius: 125,356.1 km<br/>(19.676 Yrths)
         surface_area: 1.975 × 10<sup>11</sup> km<sup>2</sup><br/>(387.147 Yrths)
         volume: 8.251 × 10<sup>15</sup> km<sup>3</sup><br/>(7617.520 Yrths)
-        mass: 1.090 × 10<sup>28</sup> kg<br />(149.48046419202308 Yrths)
+        mass: 1.090 × 10<sup>28</sup> kg<br />(1825.606 Yrths)
         density: 1.321 g/cm<sup>3</sup>
         surface_gravity: 46.244 m/s<sup>2</sup><br />(4.716 g<sub>0</sub>)
         escape_velocity: 107.748 km/s<br />(387,892 km/h)
         rotation_period: 60.351 d
         axial_tilt: 23.42°
         albedo: 0.30
-        temperature: 27 K<br />(-246 °C)
+        temperature: 104 K<br />(-169 °C)
 ---

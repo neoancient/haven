@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0040 Shyad A is a star in the constellation Shy
+      0040 Shyad A is a star in the constellation <a href="shy.html">Shy</a>
 distance: 200.58 ly
 apparent_magnitude: 6.13
 absolute_magnitude: 2.19

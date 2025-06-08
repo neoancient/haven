@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ω Suyad D is a star in the constellation Su
+      ω Suyad D is a star in the constellation <a href="su.html">Su</a>
 distance: 209.27 ly
 apparent_magnitude: 9.95
 absolute_magnitude: 5.92
@@ -31,14 +31,14 @@ planets:
     radius: 6,240.7 km<br/>(0.980 Yrths)
     surface_area: 4.894 × 10<sup>08</sup> km<sup>2</sup><br/>(0.960 Yrths)
     volume: 1.018 × 10<sup>12</sup> km<sup>3</sup><br/>(0.940 Yrths)
-    mass: 5.278 × 10<sup>24</sup> kg<br />(0.8837441572800676 Yrths)
+    mass: 5.278 × 10<sup>24</sup> kg<br />(0.88 Yrths)
     density: 5.184 g/cm<sup>3</sup>
     surface_gravity: 9.032 m/s<sup>2</sup><br />(0.921 g<sub>0</sub>)
     escape_velocity: 10.625 km/s<br />(38,250 km/h)
     rotation_period: 1.788 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 363 K<br />(90 °C)
+    temperature: 383 K<br />(110 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 57.9377% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 2,140.5 km<br/>(0.336 Yrths)
         surface_area: 5.757 × 10<sup>07</sup> km<sup>2</sup><br/>(0.113 Yrths)
         volume: 4.108 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 1.308 × 10<sup>23</sup> kg<br />(0.8837441572800676 Yrths)
+        mass: 1.308 × 10<sup>23</sup> kg<br />(0.022 Yrths)
         density: 3.183 g/cm<sup>3</sup>
         surface_gravity: 1.902 m/s<sup>2</sup><br />(0.194 g<sub>0</sub>)
         escape_velocity: 2.856 km/s<br />(10,281 km/h)
         rotation_period: 32.679 d
         axial_tilt: 15.40°
         albedo: 0.30
-        temperature: 4754 K<br />(4481 °C)
+        temperature: 336 K<br />(63 °C)
   - name: ω Suyad D II
     type: Terrestrial
     aphelion: 92,228,235 km<br />0.616 AU
@@ -77,14 +77,14 @@ planets:
     radius: 7,138.0 km<br/>(1.120 Yrths)
     surface_area: 6.403 × 10<sup>08</sup> km<sup>2</sup><br/>(1.255 Yrths)
     volume: 1.523 × 10<sup>12</sup> km<sup>3</sup><br/>(1.406 Yrths)
-    mass: 8.542 × 10<sup>24</sup> kg<br />(1.4304147407974424 Yrths)
+    mass: 8.542 × 10<sup>24</sup> kg<br />(1.43 Yrths)
     density: 5.607 g/cm<sup>3</sup>
     surface_gravity: 11.175 m/s<sup>2</sup><br />(1.140 g<sub>0</sub>)
     escape_velocity: 12.639 km/s<br />(45,501 km/h)
     rotation_period: 1.182 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 342 K<br />(69 °C)
+    temperature: 745 K<br />(472 °C)
     surface_pressure: 24 kPa<br />(0 atm)
     composition:
       - 50.8207% methane
@@ -103,14 +103,14 @@ planets:
         radius: 2,494.3 km<br/>(0.392 Yrths)
         surface_area: 7.818 × 10<sup>07</sup> km<sup>2</sup><br/>(0.153 Yrths)
         volume: 6.500 × 10<sup>10</sup> km<sup>3</sup><br/>(0.060 Yrths)
-        mass: 2.052 × 10<sup>23</sup> kg<br />(1.4304147407974424 Yrths)
+        mass: 2.052 × 10<sup>23</sup> kg<br />(0.034 Yrths)
         density: 3.157 g/cm<sup>3</sup>
         surface_gravity: 2.198 m/s<sup>2</sup><br />(0.224 g<sub>0</sub>)
         escape_velocity: 3.314 km/s<br />(11,929 km/h)
         rotation_period: 49.416 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 3986 K<br />(3713 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: ω Suyad D II b
         type: Asteroid
         formationType: Captured
@@ -123,14 +123,14 @@ planets:
         radius: 2,054.8 km<br/>(0.323 Yrths)
         surface_area: 5.306 × 10<sup>07</sup> km<sup>2</sup><br/>(0.104 Yrths)
         volume: 3.634 × 10<sup>10</sup> km<sup>3</sup><br/>(0.034 Yrths)
-        mass: 1.225 × 10<sup>23</sup> kg<br />(1.4304147407974424 Yrths)
+        mass: 1.225 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 3.371 g/cm<sup>3</sup>
         surface_gravity: 1.934 m/s<sup>2</sup><br />(0.197 g<sub>0</sub>)
         escape_velocity: 2.821 km/s<br />(10,156 km/h)
         rotation_period: 40.241 d
         axial_tilt: 29.32°
         albedo: 0.30
-        temperature: 3801 K<br />(3528 °C)
+        temperature: 262 K<br />(-11 °C)
   - name: ω Suyad D III
     type: Large terrestrial
     aphelion: 152,711,147 km<br />1.021 AU
@@ -142,14 +142,14 @@ planets:
     radius: 8,518.0 km<br/>(1.337 Yrths)
     surface_area: 9.118 × 10<sup>08</sup> km<sup>2</sup><br/>(1.788 Yrths)
     volume: 2.589 × 10<sup>12</sup> km<sup>3</sup><br/>(2.390 Yrths)
-    mass: 1.622 × 10<sup>25</sup> kg<br />(2.7157741653382548 Yrths)
+    mass: 1.622 × 10<sup>25</sup> kg<br />(2.72 Yrths)
     density: 6.265 g/cm<sup>3</sup>
     surface_gravity: 14.899 m/s<sup>2</sup><br />(1.519 g<sub>0</sub>)
     escape_velocity: 15.942 km/s<br />(57,393 km/h)
     rotation_period: 0.784 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 309 K<br />(36 °C)
+    temperature: 688 K<br />(415 °C)
     surface_pressure: 236 kPa<br />(2 atm)
     composition:
       - 57.8926% carbon dioxide
@@ -169,14 +169,14 @@ planets:
         radius: 6,371.0 km<br/>(1.000 Yrths)
         surface_area: 5.101 × 10<sup>08</sup> km<sup>2</sup><br/>(1.000 Yrths)
         volume: 1.083 × 10<sup>12</sup> km<sup>3</sup><br/>(1.000 Yrths)
-        mass: 3.900 × 10<sup>24</sup> kg<br />(2.7157741653382548 Yrths)
+        mass: 3.900 × 10<sup>24</sup> kg<br />(0.653 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 6.403 m/s<sup>2</sup><br />(0.653 g<sub>0</sub>)
         escape_velocity: 9.039 km/s<br />(32,540 km/h)
         rotation_period: 32.078 d
         axial_tilt: 7.92°
         albedo: 0.30
-        temperature: 2853 K<br />(2580 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: ω Suyad D III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -189,14 +189,14 @@ planets:
         radius: 3,678.6 km<br/>(0.577 Yrths)
         surface_area: 1.700 × 10<sup>08</sup> km<sup>2</sup><br/>(0.333 Yrths)
         volume: 2.085 × 10<sup>11</sup> km<sup>3</sup><br/>(0.192 Yrths)
-        mass: 5.192 × 10<sup>23</sup> kg<br />(2.7157741653382548 Yrths)
+        mass: 5.192 × 10<sup>23</sup> kg<br />(0.087 Yrths)
         density: 2.490 g/cm<sup>3</sup>
         surface_gravity: 2.557 m/s<sup>2</sup><br />(0.261 g<sub>0</sub>)
         escape_velocity: 4.341 km/s<br />(15,626 km/h)
         rotation_period: 51.615 d
         axial_tilt: 32.03°
         albedo: 0.30
-        temperature: 2720 K<br />(2447 °C)
+        temperature: 205 K<br />(-68 °C)
   - name: ω Suyad D IV
     type: Ice giant
     aphelion: 246,999,372 km<br />1.651 AU
@@ -208,14 +208,14 @@ planets:
     radius: 25,779.9 km<br/>(4.046 Yrths)
     surface_area: 8.352 × 10<sup>09</sup> km<sup>2</sup><br/>(16.374 Yrths)
     volume: 7.177 × 10<sup>13</sup> km<sup>3</sup><br/>(66.255 Yrths)
-    mass: 1.117 × 10<sup>26</sup> kg<br />(18.708499485549915 Yrths)
+    mass: 1.117 × 10<sup>26</sup> kg<br />(18.71 Yrths)
     density: 1.557 g/cm<sup>3</sup>
     surface_gravity: 11.205 m/s<sup>2</sup><br />(1.143 g<sub>0</sub>)
     escape_velocity: 24.052 km/s<br />(86,588 km/h)
     rotation_period: 0.398 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 288 K<br />(15 °C)
+    temperature: 285 K<br />(12 °C)
     composition:
       - 67.4837% hydrogen
       - 19.9580% helium
@@ -236,14 +236,14 @@ planets:
         radius: 22,257.5 km<br/>(3.494 Yrths)
         surface_area: 6.225 × 10<sup>09</sup> km<sup>2</sup><br/>(12.205 Yrths)
         volume: 4.619 × 10<sup>13</sup> km<sup>3</sup><br/>(42.639 Yrths)
-        mass: 1.131 × 10<sup>26</sup> kg<br />(18.708499485549915 Yrths)
+        mass: 1.131 × 10<sup>26</sup> kg<br />(18.937 Yrths)
         density: 2.449 g/cm<sup>3</sup>
         surface_gravity: 15.216 m/s<sup>2</sup><br />(1.552 g<sub>0</sub>)
         escape_velocity: 26.043 km/s<br />(93,757 km/h)
         rotation_period: 41.327 d
         axial_tilt: 11.72°
         albedo: 0.30
-        temperature: 1352 K<br />(1079 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: ω Suyad D IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -256,14 +256,14 @@ planets:
         radius: 14,021.5 km<br/>(2.201 Yrths)
         surface_area: 2.471 × 10<sup>09</sup> km<sup>2</sup><br/>(4.844 Yrths)
         volume: 1.155 × 10<sup>13</sup> km<sup>3</sup><br/>(10.660 Yrths)
-        mass: 2.557 × 10<sup>25</sup> kg<br />(18.708499485549915 Yrths)
+        mass: 2.557 × 10<sup>25</sup> kg<br />(4.282 Yrths)
         density: 2.215 g/cm<sup>3</sup>
         surface_gravity: 8.670 m/s<sup>2</sup><br />(0.884 g<sub>0</sub>)
         escape_velocity: 15.603 km/s<br />(56,171 km/h)
         rotation_period: 46.843 d
         axial_tilt: 17.21°
         albedo: 0.30
-        temperature: 1289 K<br />(1016 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: ω Suyad D IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -276,14 +276,14 @@ planets:
         radius: 20,525.2 km<br/>(3.222 Yrths)
         surface_area: 5.294 × 10<sup>09</sup> km<sup>2</sup><br/>(10.379 Yrths)
         volume: 3.622 × 10<sup>13</sup> km<sup>3</sup><br/>(33.438 Yrths)
-        mass: 1.014 × 10<sup>26</sup> kg<br />(18.708499485549915 Yrths)
+        mass: 1.014 × 10<sup>26</sup> kg<br />(16.982 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 16.045 m/s<sup>2</sup><br />(1.636 g<sub>0</sub>)
         escape_velocity: 25.682 km/s<br />(92,455 km/h)
         rotation_period: 33.630 d
         axial_tilt: 12.09°
         albedo: 0.30
-        temperature: 1229 K<br />(956 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: ω Suyad D IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -296,14 +296,14 @@ planets:
         radius: 17,050.9 km<br/>(2.676 Yrths)
         surface_area: 3.653 × 10<sup>09</sup> km<sup>2</sup><br/>(7.163 Yrths)
         volume: 2.076 × 10<sup>13</sup> km<sup>3</sup><br/>(19.170 Yrths)
-        mass: 4.240 × 10<sup>25</sup> kg<br />(18.708499485549915 Yrths)
+        mass: 4.240 × 10<sup>25</sup> kg<br />(7.099 Yrths)
         density: 2.042 g/cm<sup>3</sup>
         surface_gravity: 9.720 m/s<sup>2</sup><br />(0.991 g<sub>0</sub>)
         escape_velocity: 18.219 km/s<br />(65,587 km/h)
         rotation_period: 61.249 d
         axial_tilt: 22.44°
         albedo: 0.30
-        temperature: 1117 K<br />(844 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: ω Suyad D IV e
         type: Ice/rock hybrid
         formationType: Captured
@@ -316,14 +316,14 @@ planets:
         radius: 22,575.5 km<br/>(3.543 Yrths)
         surface_area: 6.404 × 10<sup>09</sup> km<sup>2</sup><br/>(12.556 Yrths)
         volume: 4.819 × 10<sup>13</sup> km<sup>3</sup><br/>(44.492 Yrths)
-        mass: 7.772 × 10<sup>25</sup> kg<br />(18.708499485549915 Yrths)
+        mass: 7.772 × 10<sup>25</sup> kg<br />(13.014 Yrths)
         density: 1.613 g/cm<sup>3</sup>
         surface_gravity: 10.164 m/s<sup>2</sup><br />(1.036 g<sub>0</sub>)
         escape_velocity: 21.437 km/s<br />(77,172 km/h)
         rotation_period: 45.045 d
         axial_tilt: 32.03°
         albedo: 0.30
-        temperature: 1065 K<br />(792 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: ω Suyad D IV f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -336,14 +336,14 @@ planets:
         radius: 16,237.9 km<br/>(2.549 Yrths)
         surface_area: 3.313 × 10<sup>09</sup> km<sup>2</sup><br/>(6.496 Yrths)
         volume: 1.793 × 10<sup>13</sup> km<sup>3</sup><br/>(16.557 Yrths)
-        mass: 4.247 × 10<sup>25</sup> kg<br />(18.708499485549915 Yrths)
+        mass: 4.247 × 10<sup>25</sup> kg<br />(7.111 Yrths)
         density: 2.368 g/cm<sup>3</sup>
         surface_gravity: 10.735 m/s<sup>2</sup><br />(1.095 g<sub>0</sub>)
         escape_velocity: 18.685 km/s<br />(67,265 km/h)
         rotation_period: 37.875 d
         axial_tilt: 34.13°
         albedo: 0.30
-        temperature: 1016 K<br />(743 °C)
+        temperature: 160 K<br />(-113 °C)
   - name: ω Suyad D V
     type: Ice giant
     aphelion: 418,398,975 km<br />2.797 AU
@@ -355,14 +355,14 @@ planets:
     radius: 26,741.5 km<br/>(4.197 Yrths)
     surface_area: 8.986 × 10<sup>09</sup> km<sup>2</sup><br/>(17.618 Yrths)
     volume: 8.010 × 10<sup>13</sup> km<sup>3</sup><br/>(73.949 Yrths)
-    mass: 1.374 × 10<sup>26</sup> kg<br />(23.000049778236722 Yrths)
+    mass: 1.374 × 10<sup>26</sup> kg<br />(23.00 Yrths)
     density: 1.715 g/cm<sup>3</sup>
     surface_gravity: 12.802 m/s<sup>2</sup><br />(1.305 g<sub>0</sub>)
     escape_velocity: 26.185 km/s<br />(94,265 km/h)
     rotation_period: 0.355 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 219 K<br />(-54 °C)
+    temperature: 199 K<br />(-74 °C)
     composition:
       - 56.0564% hydrogen
       - 39.0887% helium
@@ -380,14 +380,14 @@ planets:
         radius: 30,626.8 km<br/>(4.807 Yrths)
         surface_area: 1.179 × 10<sup>10</sup> km<sup>2</sup><br/>(23.109 Yrths)
         volume: 1.203 × 10<sup>14</sup> km<sup>3</sup><br/>(111.092 Yrths)
-        mass: 2.299 × 10<sup>26</sup> kg<br />(23.000049778236722 Yrths)
+        mass: 2.299 × 10<sup>26</sup> kg<br />(38.497 Yrths)
         density: 1.911 g/cm<sup>3</sup>
         surface_gravity: 16.337 m/s<sup>2</sup><br />(1.666 g<sub>0</sub>)
         escape_velocity: 31.655 km/s<br />(113,958 km/h)
         rotation_period: 39.434 d
         axial_tilt: 26.14°
         albedo: 0.30
-        temperature: 1015 K<br />(742 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: ω Suyad D V b
         type: Icy
         formationType: Captured
@@ -400,14 +400,14 @@ planets:
         radius: 33,743.4 km<br/>(5.296 Yrths)
         surface_area: 1.431 × 10<sup>10</sup> km<sup>2</sup><br/>(28.052 Yrths)
         volume: 1.609 × 10<sup>14</sup> km<sup>3</sup><br/>(148.574 Yrths)
-        mass: 1.744 × 10<sup>26</sup> kg<br />(23.000049778236722 Yrths)
+        mass: 1.744 × 10<sup>26</sup> kg<br />(29.202 Yrths)
         density: 1.084 g/cm<sup>3</sup>
         surface_gravity: 10.209 m/s<sup>2</sup><br />(1.041 g<sub>0</sub>)
         escape_velocity: 26.266 km/s<br />(94,557 km/h)
         rotation_period: 67.551 d
         axial_tilt: 14.76°
         albedo: 0.30
-        temperature: 968 K<br />(694 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: ω Suyad D V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -420,14 +420,14 @@ planets:
         radius: 19,774.8 km<br/>(3.104 Yrths)
         surface_area: 4.914 × 10<sup>09</sup> km<sup>2</sup><br/>(9.634 Yrths)
         volume: 3.239 × 10<sup>13</sup> km<sup>3</sup><br/>(29.903 Yrths)
-        mass: 7.406 × 10<sup>25</sup> kg<br />(23.000049778236722 Yrths)
+        mass: 7.406 × 10<sup>25</sup> kg<br />(12.401 Yrths)
         density: 2.286 g/cm<sup>3</sup>
         surface_gravity: 12.623 m/s<sup>2</sup><br />(1.287 g<sub>0</sub>)
         escape_velocity: 22.359 km/s<br />(80,492 km/h)
         rotation_period: 35.028 d
         axial_tilt: 30.26°
         albedo: 0.30
-        temperature: 923 K<br />(649 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: ω Suyad D V d
         type: Asteroid
         formationType: Captured
@@ -440,14 +440,14 @@ planets:
         radius: 18,496.5 km<br/>(2.903 Yrths)
         surface_area: 4.299 × 10<sup>09</sup> km<sup>2</sup><br/>(8.429 Yrths)
         volume: 2.651 × 10<sup>13</sup> km<sup>3</sup><br/>(24.471 Yrths)
-        mass: 5.827 × 10<sup>25</sup> kg<br />(23.000049778236722 Yrths)
+        mass: 5.827 × 10<sup>25</sup> kg<br />(9.757 Yrths)
         density: 2.198 g/cm<sup>3</sup>
         surface_gravity: 11.352 m/s<sup>2</sup><br />(1.158 g<sub>0</sub>)
         escape_velocity: 20.506 km/s<br />(73,823 km/h)
         rotation_period: 58.566 d
         axial_tilt: 20.33°
         albedo: 0.30
-        temperature: 880 K<br />(606 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: ω Suyad D V e
         type: Ice/rock hybrid
         formationType: Captured
@@ -460,14 +460,14 @@ planets:
         radius: 14,758.7 km<br/>(2.317 Yrths)
         surface_area: 2.737 × 10<sup>09</sup> km<sup>2</sup><br/>(5.366 Yrths)
         volume: 1.347 × 10<sup>13</sup> km<sup>3</sup><br/>(12.431 Yrths)
-        mass: 3.320 × 10<sup>25</sup> kg<br />(23.000049778236722 Yrths)
+        mass: 3.320 × 10<sup>25</sup> kg<br />(5.559 Yrths)
         density: 2.465 g/cm<sup>3</sup>
         surface_gravity: 10.159 m/s<sup>2</sup><br />(1.036 g<sub>0</sub>)
         escape_velocity: 17.328 km/s<br />(62,382 km/h)
         rotation_period: 37.601 d
         axial_tilt: 12.66°
         albedo: 0.30
-        temperature: 839 K<br />(566 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: ω Suyad D V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -480,14 +480,14 @@ planets:
         radius: 33,115.0 km<br/>(5.198 Yrths)
         surface_area: 1.378 × 10<sup>10</sup> km<sup>2</sup><br/>(27.017 Yrths)
         volume: 1.521 × 10<sup>14</sup> km<sup>3</sup><br/>(140.427 Yrths)
-        mass: 3.099 × 10<sup>26</sup> kg<br />(23.000049778236722 Yrths)
+        mass: 3.099 × 10<sup>26</sup> kg<br />(51.893 Yrths)
         density: 2.037 g/cm<sup>3</sup>
         surface_gravity: 18.836 m/s<sup>2</sup><br />(1.921 g<sub>0</sub>)
         escape_velocity: 35.344 km/s<br />(127,239 km/h)
         rotation_period: 62.899 d
         axial_tilt: 12.32°
         albedo: 0.30
-        temperature: 762 K<br />(489 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: ω Suyad D V g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -500,14 +500,14 @@ planets:
         radius: 22,891.5 km<br/>(3.593 Yrths)
         surface_area: 6.585 × 10<sup>09</sup> km<sup>2</sup><br/>(12.910 Yrths)
         volume: 5.025 × 10<sup>13</sup> km<sup>3</sup><br/>(46.387 Yrths)
-        mass: 8.040 × 10<sup>25</sup> kg<br />(23.000049778236722 Yrths)
+        mass: 8.040 × 10<sup>25</sup> kg<br />(13.462 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 10.226 m/s<sup>2</sup><br />(1.043 g<sub>0</sub>)
         escape_velocity: 21.652 km/s<br />(77,947 km/h)
         rotation_period: 66.779 d
         axial_tilt: 19.49°
         albedo: 0.30
-        temperature: 727 K<br />(454 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: ω Suyad D V h
         type: Icy
         formationType: Captured
@@ -520,12 +520,12 @@ planets:
         radius: 20,285.0 km<br/>(3.184 Yrths)
         surface_area: 5.171 × 10<sup>09</sup> km<sup>2</sup><br/>(10.138 Yrths)
         volume: 3.496 × 10<sup>13</sup> km<sup>3</sup><br/>(32.278 Yrths)
-        mass: 5.661 × 10<sup>25</sup> kg<br />(23.000049778236722 Yrths)
+        mass: 5.661 × 10<sup>25</sup> kg<br />(9.479 Yrths)
         density: 1.619 g/cm<sup>3</sup>
         surface_gravity: 9.170 m/s<sup>2</sup><br />(0.935 g<sub>0</sub>)
         escape_velocity: 19.301 km/s<br />(69,483 km/h)
         rotation_period: 65.863 d
         axial_tilt: 17.61°
         albedo: 0.30
-        temperature: 693 K<br />(420 °C)
+        temperature: 125 K<br />(-148 °C)
 ---

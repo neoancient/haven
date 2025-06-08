@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      822 Ratharshinniad A is a star in the constellation Ratharshin
+      822 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 228.52 ly
 apparent_magnitude: 9.14
 absolute_magnitude: 4.91

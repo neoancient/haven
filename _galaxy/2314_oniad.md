@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2314 Oniad is a star in the constellation Oni
+      2314 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 507.92 ly
 apparent_magnitude: 9.88
 absolute_magnitude: 3.92

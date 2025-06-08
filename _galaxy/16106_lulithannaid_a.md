@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16106 Lulithannaid A is a star in the constellation Lulithan
+      16106 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 567.24 ly
 apparent_magnitude: 7.89
 absolute_magnitude: 1.68

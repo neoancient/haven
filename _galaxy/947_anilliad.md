@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      947 Anilliad is a star in the constellation Anil
+      947 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 461.02 ly
 apparent_magnitude: 12.89
 absolute_magnitude: 7.14

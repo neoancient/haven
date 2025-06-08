@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Mioruaniad A is a star in the constellation Mioruane
+      0051 Mioruaniad A is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 374.61 ly
 apparent_magnitude: 5.66
 absolute_magnitude: 0.36

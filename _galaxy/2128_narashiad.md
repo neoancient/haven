@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2128 Narashiad is a star in the constellation Naras
+      2128 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 592.98 ly
 apparent_magnitude: 11.65
 absolute_magnitude: 5.35

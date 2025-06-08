@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7590 Dialkeshiad is a star in the constellation Dialkes
+      7590 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 446.85 ly
 apparent_magnitude: 12.11
 absolute_magnitude: 6.43

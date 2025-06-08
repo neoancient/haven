@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2950 Narashiad A is a star in the constellation Naras
+      2950 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 598.60 ly
 apparent_magnitude: 7.74
 absolute_magnitude: 1.42

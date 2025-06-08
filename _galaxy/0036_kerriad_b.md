@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0036 Kerriad B is a star in the constellation Kerr
+      0036 Kerriad B is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 233.42 ly
 apparent_magnitude: 9.66
 absolute_magnitude: 5.39

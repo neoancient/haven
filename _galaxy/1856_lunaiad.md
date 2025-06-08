@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1856 Lunaiad is a star in the constellation Luna
+      1856 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 323.86 ly
 apparent_magnitude: 11.18
 absolute_magnitude: 6.20

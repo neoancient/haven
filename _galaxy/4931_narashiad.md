@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4931 Narashiad is a star in the constellation Naras
+      4931 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 456.88 ly
 apparent_magnitude: 10.54
 absolute_magnitude: 4.81

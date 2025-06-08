@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1492 Oniad A is a star in the constellation Oni
+      1492 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 639.87 ly
 apparent_magnitude: 6.55
 absolute_magnitude: 0.08

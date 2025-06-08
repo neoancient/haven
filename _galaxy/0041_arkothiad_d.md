@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0041 Arkothiad D is a star in the constellation Arkoth
+      0041 Arkothiad D is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 560.99 ly
 apparent_magnitude: 15.63
 absolute_magnitude: 9.46
@@ -31,14 +31,14 @@ planets:
     radius: 2,775.2 km<br/>(0.436 Yrths)
     surface_area: 9.678 × 10<sup>07</sup> km<sup>2</sup><br/>(0.190 Yrths)
     volume: 8.953 × 10<sup>10</sup> km<sup>3</sup><br/>(0.083 Yrths)
-    mass: 2.306 × 10<sup>25</sup> kg<br />(3.860825962953178 Yrths)
+    mass: 2.306 × 10<sup>25</sup> kg<br />(3.86 Yrths)
     density: 257.536 g/cm<sup>3</sup>
     surface_gravity: 199.542 m/s<sup>2</sup><br />(20.348 g<sub>0</sub>)
     escape_velocity: 33.302 km/s<br />(119,888 km/h)
     rotation_period: 2.370 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 574 K<br />(301 °C)
+    temperature: 1489 K<br />(1216 °C)
     surface_pressure: 566 kPa<br />(6 atm)
     composition:
       - 85.0507% carbon dioxide
@@ -56,12 +56,12 @@ planets:
         radius: 8,791.4 km<br/>(1.380 Yrths)
         surface_area: 9.712 × 10<sup>08</sup> km<sup>2</sup><br/>(1.904 Yrths)
         volume: 2.846 × 10<sup>12</sup> km<sup>3</sup><br/>(2.628 Yrths)
-        mass: 4.466 × 10<sup>24</sup> kg<br />(3.860825962953178 Yrths)
+        mass: 4.466 × 10<sup>24</sup> kg<br />(0.748 Yrths)
         density: 1.569 g/cm<sup>3</sup>
         surface_gravity: 3.852 m/s<sup>2</sup><br />(0.393 g<sub>0</sub>)
         escape_velocity: 8.235 km/s<br />(29,646 km/h)
         rotation_period: 50.825 d
         axial_tilt: 19.33°
         albedo: 0.30
-        temperature: 5100 K<br />(4827 °C)
+        temperature: 336 K<br />(62 °C)
 ---

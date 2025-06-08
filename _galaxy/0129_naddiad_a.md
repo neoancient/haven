@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0129 Naddiad A is a star in the constellation Naddi
+      0129 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 388.50 ly
 apparent_magnitude: 6.57
 absolute_magnitude: 1.19

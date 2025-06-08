@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0240 Tanashad D is a star in the constellation Tanas
+      0240 Tanashad D is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 250.37 ly
 apparent_magnitude: 9.51
 absolute_magnitude: 5.08

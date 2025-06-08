@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Sither A is a star in the constellation Neraln
+      Sither A is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 88.16 ly
 apparent_magnitude: 1.80
 absolute_magnitude: -0.36

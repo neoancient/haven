@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9063 Tanashad A is a star in the constellation Tanas
+      9063 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 316.34 ly
 apparent_magnitude: 9.34
 absolute_magnitude: 4.40

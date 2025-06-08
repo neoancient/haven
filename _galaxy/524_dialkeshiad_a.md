@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      524 Dialkeshiad A is a star in the constellation Dialkes
+      524 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 308.99 ly
 apparent_magnitude: 9.16
 absolute_magnitude: 4.28

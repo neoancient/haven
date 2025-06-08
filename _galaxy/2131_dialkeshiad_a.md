@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2131 Dialkeshiad A is a star in the constellation Dialkes
+      2131 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 485.13 ly
 apparent_magnitude: 7.99
 absolute_magnitude: 2.12

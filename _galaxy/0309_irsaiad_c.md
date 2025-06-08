@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0309 Irsaiad C is a star in the constellation Irsa
+      0309 Irsaiad C is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 523.38 ly
 apparent_magnitude: 11.83
 absolute_magnitude: 5.81
@@ -31,14 +31,14 @@ planets:
     radius: 4,537.5 km<br/>(0.712 Yrths)
     surface_area: 2.587 × 10<sup>08</sup> km<sup>2</sup><br/>(0.507 Yrths)
     volume: 3.913 × 10<sup>11</sup> km<sup>3</sup><br/>(0.361 Yrths)
-    mass: 1.928 × 10<sup>24</sup> kg<br />(0.32283940124366295 Yrths)
+    mass: 1.928 × 10<sup>24</sup> kg<br />(0.32 Yrths)
     density: 4.927 g/cm<sup>3</sup>
     surface_gravity: 6.241 m/s<sup>2</sup><br />(0.636 g<sub>0</sub>)
     escape_velocity: 7.531 km/s<br />(27,112 km/h)
     rotation_period: 1.703 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 301 K<br />(28 °C)
+    temperature: 660 K<br />(387 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 44.3196% ammonia
@@ -58,14 +58,14 @@ planets:
         radius: 1,259.4 km<br/>(0.198 Yrths)
         surface_area: 1.993 × 10<sup>07</sup> km<sup>2</sup><br/>(0.039 Yrths)
         volume: 8.367 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 2.471 × 10<sup>22</sup> kg<br />(0.32283940124366295 Yrths)
+        mass: 2.471 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.953 g/cm<sup>3</sup>
         surface_gravity: 1.038 m/s<sup>2</sup><br />(0.106 g<sub>0</sub>)
         escape_velocity: 1.618 km/s<br />(5,826 km/h)
         rotation_period: 36.530 d
         axial_tilt: 19.63°
         albedo: 0.30
-        temperature: 4959 K<br />(4686 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: 0309 Irsaiad C II
     type: Ice giant
     aphelion: 342,183,329 km<br />2.287 AU
@@ -77,14 +77,14 @@ planets:
     radius: 33,760.7 km<br/>(5.299 Yrths)
     surface_area: 1.432 × 10<sup>10</sup> km<sup>2</sup><br/>(28.081 Yrths)
     volume: 1.612 × 10<sup>14</sup> km<sup>3</sup><br/>(148.803 Yrths)
-    mass: 2.419 × 10<sup>26</sup> kg<br />(40.50067634468236 Yrths)
+    mass: 2.419 × 10<sup>26</sup> kg<br />(40.50 Yrths)
     density: 1.501 g/cm<sup>3</sup>
     surface_gravity: 14.144 m/s<sup>2</sup><br />(1.442 g<sub>0</sub>)
     escape_velocity: 30.925 km/s<br />(111,328 km/h)
     rotation_period: 0.399 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 300 K<br />(27 °C)
+    temperature: 266 K<br />(-7 °C)
     composition:
       - 85.5572% hydrogen
       - 14.4428% helium
@@ -101,14 +101,14 @@ planets:
         radius: 42,245.0 km<br/>(6.631 Yrths)
         surface_area: 2.243 × 10<sup>10</sup> km<sup>2</sup><br/>(43.968 Yrths)
         volume: 3.158 × 10<sup>14</sup> km<sup>3</sup><br/>(291.544 Yrths)
-        mass: 7.647 × 10<sup>26</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 7.647 × 10<sup>26</sup> kg<br />(128.047 Yrths)
         density: 2.421 g/cm<sup>3</sup>
         surface_gravity: 28.560 m/s<sup>2</sup><br />(2.912 g<sub>0</sub>)
         escape_velocity: 49.156 km/s<br />(176,961 km/h)
         rotation_period: 35.458 d
         axial_tilt: 14.92°
         albedo: 0.30
-        temperature: 1441 K<br />(1168 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0309 Irsaiad C II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -121,14 +121,14 @@ planets:
         radius: 28,863.6 km<br/>(4.530 Yrths)
         surface_area: 1.047 × 10<sup>10</sup> km<sup>2</sup><br/>(20.525 Yrths)
         volume: 1.007 × 10<sup>14</sup> km<sup>3</sup><br/>(92.988 Yrths)
-        mass: 1.840 × 10<sup>26</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 1.840 × 10<sup>26</sup> kg<br />(30.812 Yrths)
         density: 1.827 g/cm<sup>3</sup>
         surface_gravity: 14.722 m/s<sup>2</sup><br />(1.501 g<sub>0</sub>)
         escape_velocity: 29.172 km/s<br />(105,018 km/h)
         rotation_period: 50.875 d
         axial_tilt: 28.36°
         albedo: 0.30
-        temperature: 1374 K<br />(1101 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0309 Irsaiad C II c
         type: Icy
         formationType: Accreted
@@ -141,14 +141,14 @@ planets:
         radius: 29,394.5 km<br/>(4.614 Yrths)
         surface_area: 1.086 × 10<sup>10</sup> km<sup>2</sup><br/>(21.287 Yrths)
         volume: 1.064 × 10<sup>14</sup> km<sup>3</sup><br/>(98.214 Yrths)
-        mass: 1.476 × 10<sup>26</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 1.476 × 10<sup>26</sup> kg<br />(24.719 Yrths)
         density: 1.388 g/cm<sup>3</sup>
         surface_gravity: 11.388 m/s<sup>2</sup><br />(1.161 g<sub>0</sub>)
         escape_velocity: 25.892 km/s<br />(93,210 km/h)
         rotation_period: 42.421 d
         axial_tilt: 11.26°
         albedo: 0.30
-        temperature: 1310 K<br />(1037 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0309 Irsaiad C II d
         type: Icy
         formationType: Accreted
@@ -161,14 +161,14 @@ planets:
         radius: 28,941.9 km<br/>(4.543 Yrths)
         surface_area: 1.053 × 10<sup>10</sup> km<sup>2</sup><br/>(20.637 Yrths)
         volume: 1.015 × 10<sup>14</sup> km<sup>3</sup><br/>(93.747 Yrths)
-        mass: 1.789 × 10<sup>26</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 1.789 × 10<sup>26</sup> kg<br />(29.949 Yrths)
         density: 1.761 g/cm<sup>3</sup>
         surface_gravity: 14.232 m/s<sup>2</sup><br />(1.451 g<sub>0</sub>)
         escape_velocity: 28.721 km/s<br />(103,396 km/h)
         rotation_period: 44.222 d
         axial_tilt: 25.94°
         albedo: 0.30
-        temperature: 1249 K<br />(976 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0309 Irsaiad C II e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -181,14 +181,14 @@ planets:
         radius: 15,332.5 km<br/>(2.407 Yrths)
         surface_area: 2.954 × 10<sup>09</sup> km<sup>2</sup><br/>(5.792 Yrths)
         volume: 1.510 × 10<sup>13</sup> km<sup>3</sup><br/>(13.939 Yrths)
-        mass: 3.823 × 10<sup>25</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 3.823 × 10<sup>25</sup> kg<br />(6.401 Yrths)
         density: 2.532 g/cm<sup>3</sup>
         surface_gravity: 10.838 m/s<sup>2</sup><br />(1.105 g<sub>0</sub>)
         escape_velocity: 18.243 km/s<br />(65,675 km/h)
         rotation_period: 36.847 d
         axial_tilt: 22.14°
         albedo: 0.30
-        temperature: 1191 K<br />(918 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0309 Irsaiad C II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -201,14 +201,14 @@ planets:
         radius: 20,868.7 km<br/>(3.276 Yrths)
         surface_area: 5.473 × 10<sup>09</sup> km<sup>2</sup><br/>(10.729 Yrths)
         volume: 3.807 × 10<sup>13</sup> km<sup>3</sup><br/>(35.145 Yrths)
-        mass: 8.549 × 10<sup>25</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 8.549 × 10<sup>25</sup> kg<br />(14.316 Yrths)
         density: 2.246 g/cm<sup>3</sup>
         surface_gravity: 13.084 m/s<sup>2</sup><br />(1.334 g<sub>0</sub>)
         escape_velocity: 23.385 km/s<br />(84,186 km/h)
         rotation_period: 39.801 d
         axial_tilt: 18.10°
         albedo: 0.30
-        temperature: 1136 K<br />(863 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0309 Irsaiad C II g
         type: Ice/rock hybrid
         formationType: Captured
@@ -221,14 +221,14 @@ planets:
         radius: 32,954.5 km<br/>(5.173 Yrths)
         surface_area: 1.365 × 10<sup>10</sup> km<sup>2</sup><br/>(26.756 Yrths)
         volume: 1.499 × 10<sup>14</sup> km<sup>3</sup><br/>(138.396 Yrths)
-        mass: 3.030 × 10<sup>26</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 3.030 × 10<sup>26</sup> kg<br />(50.732 Yrths)
         density: 2.021 g/cm<sup>3</sup>
         surface_gravity: 18.595 m/s<sup>2</sup><br />(1.896 g<sub>0</sub>)
         escape_velocity: 35.032 km/s<br />(126,114 km/h)
         rotation_period: 60.499 d
         axial_tilt: 24.32°
         albedo: 0.30
-        temperature: 1083 K<br />(810 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0309 Irsaiad C II h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -241,14 +241,14 @@ planets:
         radius: 53,700.1 km<br/>(8.429 Yrths)
         surface_area: 3.624 × 10<sup>10</sup> km<sup>2</sup><br/>(71.045 Yrths)
         volume: 6.487 × 10<sup>14</sup> km<sup>3</sup><br/>(598.830 Yrths)
-        mass: 1.748 × 10<sup>27</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 1.748 × 10<sup>27</sup> kg<br />(292.760 Yrths)
         density: 2.695 g/cm<sup>3</sup>
         surface_gravity: 40.411 m/s<sup>2</sup><br />(4.121 g<sub>0</sub>)
         escape_velocity: 65.924 km/s<br />(237,328 km/h)
         rotation_period: 31.349 d
         axial_tilt: 25.26°
         albedo: 0.30
-        temperature: 984 K<br />(711 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0309 Irsaiad C II i
         type: Icy
         formationType: Captured
@@ -261,14 +261,14 @@ planets:
         radius: 46,674.8 km<br/>(7.326 Yrths)
         surface_area: 2.738 × 10<sup>10</sup> km<sup>2</sup><br/>(53.672 Yrths)
         volume: 4.259 × 10<sup>14</sup> km<sup>3</sup><br/>(393.209 Yrths)
-        mass: 6.711 × 10<sup>26</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 6.711 × 10<sup>26</sup> kg<br />(112.368 Yrths)
         density: 1.576 g/cm<sup>3</sup>
         surface_gravity: 20.531 m/s<sup>2</sup><br />(2.094 g<sub>0</sub>)
         escape_velocity: 43.808 km/s<br />(157,710 km/h)
         rotation_period: 51.310 d
         axial_tilt: 13.58°
         albedo: 0.30
-        temperature: 939 K<br />(665 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 0309 Irsaiad C II j
         type: Ice/rock hybrid
         formationType: Captured
@@ -281,12 +281,12 @@ planets:
         radius: 32,465.1 km<br/>(5.096 Yrths)
         surface_area: 1.324 × 10<sup>10</sup> km<sup>2</sup><br/>(25.967 Yrths)
         volume: 1.433 × 10<sup>14</sup> km<sup>3</sup><br/>(132.321 Yrths)
-        mass: 3.950 × 10<sup>26</sup> kg<br />(40.50067634468236 Yrths)
+        mass: 3.950 × 10<sup>26</sup> kg<br />(66.139 Yrths)
         density: 2.756 g/cm<sup>3</sup>
         surface_gravity: 24.978 m/s<sup>2</sup><br />(2.547 g<sub>0</sub>)
         escape_velocity: 40.299 km/s<br />(145,078 km/h)
         rotation_period: 32.533 d
         axial_tilt: 18.04°
         albedo: 0.30
-        temperature: 895 K<br />(622 °C)
+        temperature: 183 K<br />(-90 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7791 Dialkeshiad is a star in the constellation Dialkes
+      7791 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 565.07 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 4.78

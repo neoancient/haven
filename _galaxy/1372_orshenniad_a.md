@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1372 Orshenniad A is a star in the constellation Orshen
+      1372 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 214.47 ly
 apparent_magnitude: 7.47
 absolute_magnitude: 3.38

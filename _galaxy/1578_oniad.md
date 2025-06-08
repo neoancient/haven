@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1578 Oniad is a star in the constellation Oni
+      1578 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 666.15 ly
 apparent_magnitude: 17.53
 absolute_magnitude: 10.97

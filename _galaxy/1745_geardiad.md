@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1745 Geardiad is a star in the constellation Geard
+      1745 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 306.93 ly
 apparent_magnitude: 9.62
 absolute_magnitude: 4.75

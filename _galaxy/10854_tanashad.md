@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10854 Tanashad is a star in the constellation Tanas
+      10854 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 122.39 ly
 apparent_magnitude: 7.76
 absolute_magnitude: 4.89

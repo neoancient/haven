@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3763 Narashiad is a star in the constellation Naras
+      3763 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 625.97 ly
 apparent_magnitude: 11.50
 absolute_magnitude: 5.08

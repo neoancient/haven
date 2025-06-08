@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      699 Geardiad is a star in the constellation Geard
+      699 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 423.27 ly
 apparent_magnitude: 15.37
 absolute_magnitude: 9.81

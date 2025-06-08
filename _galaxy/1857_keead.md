@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1857 Keead is a star in the constellation Kee
+      1857 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 582.75 ly
 apparent_magnitude: 6.93
 absolute_magnitude: 0.67

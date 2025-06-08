@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3943 Shanniashiad is a star in the constellation Shannias
+      3943 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 548.75 ly
 apparent_magnitude: 13.80
 absolute_magnitude: 7.67

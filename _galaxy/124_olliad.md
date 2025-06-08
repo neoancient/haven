@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      124 Olliad is a star in the constellation Ol
+      124 Olliad is a star in the constellation <a href="ol.html">Ol</a>
 distance: 305.82 ly
 apparent_magnitude: 10.13
 absolute_magnitude: 5.27

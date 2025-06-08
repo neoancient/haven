@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Shyad A is a star in the constellation Shy
+      0051 Shyad A is a star in the constellation <a href="shy.html">Shy</a>
 distance: 368.42 ly
 apparent_magnitude: 6.53
 absolute_magnitude: 1.27

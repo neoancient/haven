@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3563 Shanniashiad A is a star in the constellation Shannias
+      3563 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 213.80 ly
 apparent_magnitude: 9.05
 absolute_magnitude: 4.97

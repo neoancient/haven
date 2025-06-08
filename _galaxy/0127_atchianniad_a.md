@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0127 Atchianniad A is a star in the constellation Atchian
+      0127 Atchianniad A is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 83.07 ly
 apparent_magnitude: 6.87
 absolute_magnitude: 4.84

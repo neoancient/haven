@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5825 Tanashad A is a star in the constellation Tanas
+      5825 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 343.85 ly
 apparent_magnitude: 10.25
 absolute_magnitude: 5.13

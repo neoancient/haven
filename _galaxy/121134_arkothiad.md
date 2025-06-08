@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      121134 Arkothiad is a star in the constellation Arkoth
+      121134 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 462.37 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 5.30

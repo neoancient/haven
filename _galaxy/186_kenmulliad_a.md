@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      186 Kenmulliad A is a star in the constellation Kenmul
+      186 Kenmulliad A is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 361.40 ly
 apparent_magnitude: 8.70
 absolute_magnitude: 3.48

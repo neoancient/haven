@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      789 Arniad A is a star in the constellation Arni
+      789 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 295.52 ly
 apparent_magnitude: 7.54
 absolute_magnitude: 2.75

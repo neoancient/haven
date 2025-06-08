@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5345 Tanashad A is a star in the constellation Tanas
+      5345 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 262.58 ly
 apparent_magnitude: 6.71
 absolute_magnitude: 2.18

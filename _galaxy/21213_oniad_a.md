@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      21213 Oniad A is a star in the constellation Oni
+      21213 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 770.48 ly
 apparent_magnitude: 7.28
 absolute_magnitude: 0.42

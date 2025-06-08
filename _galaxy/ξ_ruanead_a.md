@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ξ Ruanead A is a star in the constellation Ruane
+      ξ Ruanead A is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 520.91 ly
 apparent_magnitude: 6.46
 absolute_magnitude: 0.45

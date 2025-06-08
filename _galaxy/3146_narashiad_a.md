@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3146 Narashiad A is a star in the constellation Naras
+      3146 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 531.57 ly
 apparent_magnitude: 8.02
 absolute_magnitude: 1.96

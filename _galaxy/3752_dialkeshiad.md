@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3752 Dialkeshiad is a star in the constellation Dialkes
+      3752 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 291.46 ly
 apparent_magnitude: 19.19
 absolute_magnitude: 14.43

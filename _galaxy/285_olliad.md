@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      285 Olliad is a star in the constellation Ol
+      285 Olliad is a star in the constellation <a href="ol.html">Ol</a>
 distance: 216.47 ly
 apparent_magnitude: 18.54
 absolute_magnitude: 14.43

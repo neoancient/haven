@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2204 Ratharshinniad is a star in the constellation Ratharshin
+      2204 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 391.82 ly
 apparent_magnitude: 10.14
 absolute_magnitude: 4.74

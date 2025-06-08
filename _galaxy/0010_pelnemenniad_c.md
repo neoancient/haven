@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0010 Pelnemenniad C is a star in the constellation Pelnemen
+      0010 Pelnemenniad C is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 404.81 ly
 apparent_magnitude: 10.70
 absolute_magnitude: 5.23
@@ -31,14 +31,14 @@ planets:
     radius: 23,159.5 km<br/>(3.635 Yrths)
     surface_area: 6.740 × 10<sup>09</sup> km<sup>2</sup><br/>(13.214 Yrths)
     volume: 5.203 × 10<sup>13</sup> km<sup>3</sup><br/>(48.036 Yrths)
-    mass: 1.040 × 10<sup>26</sup> kg<br />(17.409168136282897 Yrths)
+    mass: 1.040 × 10<sup>26</sup> kg<br />(17.41 Yrths)
     density: 1.998 g/cm<sup>3</sup>
     surface_gravity: 12.920 m/s<sup>2</sup><br />(1.317 g<sub>0</sub>)
     escape_velocity: 24.479 km/s<br />(88,126 km/h)
     rotation_period: 1.348 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 558 K<br />(285 °C)
+    temperature: 503 K<br />(230 °C)
     composition:
       - 58.9091% hydrogen
       - 39.4955% helium
@@ -56,14 +56,14 @@ planets:
         radius: 21,061.3 km<br/>(3.306 Yrths)
         surface_area: 5.574 × 10<sup>09</sup> km<sup>2</sup><br/>(10.928 Yrths)
         volume: 3.913 × 10<sup>13</sup> km<sup>3</sup><br/>(36.127 Yrths)
-        mass: 1.297 × 10<sup>26</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 1.297 × 10<sup>26</sup> kg<br />(21.711 Yrths)
         density: 3.313 g/cm<sup>3</sup>
         surface_gravity: 19.483 m/s<sup>2</sup><br />(1.987 g<sub>0</sub>)
         escape_velocity: 28.667 km/s<br />(103,200 km/h)
         rotation_period: 28.459 d
         axial_tilt: 20.35°
         albedo: 0.30
-        temperature: 2805 K<br />(2532 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 18,084.3 km<br/>(2.839 Yrths)
         surface_area: 4.110 × 10<sup>09</sup> km<sup>2</sup><br/>(8.057 Yrths)
         volume: 2.477 × 10<sup>13</sup> km<sup>3</sup><br/>(22.871 Yrths)
-        mass: 4.357 × 10<sup>25</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 4.357 × 10<sup>25</sup> kg<br />(7.296 Yrths)
         density: 1.759 g/cm<sup>3</sup>
         surface_gravity: 8.880 m/s<sup>2</sup><br />(0.905 g<sub>0</sub>)
         escape_velocity: 17.933 km/s<br />(64,559 km/h)
         rotation_period: 44.222 d
         axial_tilt: 14.94°
         albedo: 0.30
-        temperature: 2550 K<br />(2277 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I c
         type: Dwarf planet
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 16,848.5 km<br/>(2.645 Yrths)
         surface_area: 3.567 × 10<sup>09</sup> km<sup>2</sup><br/>(6.994 Yrths)
         volume: 2.003 × 10<sup>13</sup> km<sup>3</sup><br/>(18.495 Yrths)
-        mass: 3.793 × 10<sup>25</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 3.793 × 10<sup>25</sup> kg<br />(6.351 Yrths)
         density: 1.893 g/cm<sup>3</sup>
         surface_gravity: 8.906 m/s<sup>2</sup><br />(0.908 g<sub>0</sub>)
         escape_velocity: 17.335 km/s<br />(62,407 km/h)
         rotation_period: 38.605 d
         axial_tilt: 38.75°
         albedo: 0.30
-        temperature: 2432 K<br />(2158 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I d
         type: Asteroid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 14,517.9 km<br/>(2.279 Yrths)
         surface_area: 2.649 × 10<sup>09</sup> km<sup>2</sup><br/>(5.193 Yrths)
         volume: 1.282 × 10<sup>13</sup> km<sup>3</sup><br/>(11.833 Yrths)
-        mass: 4.418 × 10<sup>25</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 4.418 × 10<sup>25</sup> kg<br />(7.398 Yrths)
         density: 3.447 g/cm<sup>3</sup>
         surface_gravity: 13.971 m/s<sup>2</sup><br />(1.425 g<sub>0</sub>)
         escape_velocity: 20.155 km/s<br />(72,557 km/h)
         rotation_period: 28.998 d
         axial_tilt: 28.30°
         albedo: 0.30
-        temperature: 2318 K<br />(2045 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I e
         type: Dwarf planet
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 16,288.0 km<br/>(2.557 Yrths)
         surface_area: 3.334 × 10<sup>09</sup> km<sup>2</sup><br/>(6.536 Yrths)
         volume: 1.810 × 10<sup>13</sup> km<sup>3</sup><br/>(16.710 Yrths)
-        mass: 3.706 × 10<sup>25</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 3.706 × 10<sup>25</sup> kg<br />(6.205 Yrths)
         density: 2.047 g/cm<sup>3</sup>
         surface_gravity: 9.310 m/s<sup>2</sup><br />(0.949 g<sub>0</sub>)
         escape_velocity: 17.427 km/s<br />(62,736 km/h)
         rotation_period: 48.814 d
         axial_tilt: 18.68°
         albedo: 0.30
-        temperature: 2108 K<br />(1834 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I f
         type: Ice/rock hybrid
         formationType: Captured
@@ -156,14 +156,14 @@ planets:
         radius: 21,811.4 km<br/>(3.424 Yrths)
         surface_area: 5.978 × 10<sup>09</sup> km<sup>2</sup><br/>(11.721 Yrths)
         volume: 4.347 × 10<sup>13</sup> km<sup>3</sup><br/>(40.126 Yrths)
-        mass: 8.418 × 10<sup>25</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 8.418 × 10<sup>25</sup> kg<br />(14.095 Yrths)
         density: 1.937 g/cm<sup>3</sup>
         surface_gravity: 11.793 m/s<sup>2</sup><br />(1.203 g<sub>0</sub>)
         escape_velocity: 22.697 km/s<br />(81,710 km/h)
         rotation_period: 35.958 d
         axial_tilt: 16.43°
         albedo: 0.30
-        temperature: 2010 K<br />(1736 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -176,14 +176,14 @@ planets:
         radius: 31,612.5 km<br/>(4.962 Yrths)
         surface_area: 1.256 × 10<sup>10</sup> km<sup>2</sup><br/>(24.621 Yrths)
         volume: 1.323 × 10<sup>14</sup> km<sup>3</sup><br/>(122.167 Yrths)
-        mass: 2.117 × 10<sup>26</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 2.117 × 10<sup>26</sup> kg<br />(35.454 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 14.122 m/s<sup>2</sup><br />(1.440 g<sub>0</sub>)
         escape_velocity: 29.901 km/s<br />(107,642 km/h)
         rotation_period: 63.435 d
         axial_tilt: 18.14°
         albedo: 0.30
-        temperature: 1916 K<br />(1643 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I h
         type: Rocky
         formationType: Accreted
@@ -196,14 +196,14 @@ planets:
         radius: 8,394.6 km<br/>(1.318 Yrths)
         surface_area: 8.855 × 10<sup>08</sup> km<sup>2</sup><br/>(1.736 Yrths)
         volume: 2.478 × 10<sup>12</sup> km<sup>3</sup><br/>(2.288 Yrths)
-        mass: 7.894 × 10<sup>24</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 7.894 × 10<sup>24</sup> kg<br />(1.322 Yrths)
         density: 3.186 g/cm<sup>3</sup>
         surface_gravity: 7.467 m/s<sup>2</sup><br />(0.761 g<sub>0</sub>)
         escape_velocity: 11.204 km/s<br />(40,335 km/h)
         rotation_period: 29.372 d
         axial_tilt: 19.02°
         albedo: 0.30
-        temperature: 1827 K<br />(1554 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I i
         type: Ice/rock hybrid
         formationType: Captured
@@ -216,14 +216,14 @@ planets:
         radius: 11,494.1 km<br/>(1.804 Yrths)
         surface_area: 1.660 × 10<sup>09</sup> km<sup>2</sup><br/>(3.255 Yrths)
         volume: 6.361 × 10<sup>12</sup> km<sup>3</sup><br/>(5.872 Yrths)
-        mass: 1.535 × 10<sup>25</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 1.535 × 10<sup>25</sup> kg<br />(2.571 Yrths)
         density: 2.414 g/cm<sup>3</sup>
         surface_gravity: 7.746 m/s<sup>2</sup><br />(0.790 g<sub>0</sub>)
         escape_velocity: 13.353 km/s<br />(48,071 km/h)
         rotation_period: 61.119 d
         axial_tilt: 23.88°
         albedo: 0.30
-        temperature: 1742 K<br />(1469 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I j
         type: Ice/rock hybrid
         formationType: Captured
@@ -236,14 +236,14 @@ planets:
         radius: 10,612.5 km<br/>(1.666 Yrths)
         surface_area: 1.415 × 10<sup>09</sup> km<sup>2</sup><br/>(2.775 Yrths)
         volume: 5.007 × 10<sup>12</sup> km<sup>3</sup><br/>(4.622 Yrths)
-        mass: 1.214 × 10<sup>25</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 1.214 × 10<sup>25</sup> kg<br />(2.033 Yrths)
         density: 2.424 g/cm<sup>3</sup>
         surface_gravity: 7.183 m/s<sup>2</sup><br />(0.733 g<sub>0</sub>)
         escape_velocity: 12.356 km/s<br />(44,482 km/h)
         rotation_period: 32.666 d
         axial_tilt: 20.81°
         albedo: 0.30
-        temperature: 1661 K<br />(1388 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0010 Pelnemenniad C I k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -256,14 +256,14 @@ planets:
         radius: 24,728.7 km<br/>(3.881 Yrths)
         surface_area: 7.684 × 10<sup>09</sup> km<sup>2</sup><br/>(15.066 Yrths)
         volume: 6.334 × 10<sup>13</sup> km<sup>3</sup><br/>(58.476 Yrths)
-        mass: 1.774 × 10<sup>26</sup> kg<br />(17.409168136282897 Yrths)
+        mass: 1.774 × 10<sup>26</sup> kg<br />(29.698 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 19.331 m/s<sup>2</sup><br />(1.971 g<sub>0</sub>)
         escape_velocity: 30.942 km/s<br />(111,389 km/h)
         rotation_period: 40.248 d
         axial_tilt: 17.92°
         albedo: 0.30
-        temperature: 1583 K<br />(1310 °C)
+        temperature: 324 K<br />(51 °C)
   - name: 0010 Pelnemenniad C II
     type: Terrestrial
     aphelion: 145,927,932 km<br />0.975 AU
@@ -275,14 +275,14 @@ planets:
     radius: 4,879.2 km<br/>(0.766 Yrths)
     surface_area: 2.992 × 10<sup>08</sup> km<sup>2</sup><br/>(0.587 Yrths)
     volume: 4.866 × 10<sup>11</sup> km<sup>3</sup><br/>(0.449 Yrths)
-    mass: 2.861 × 10<sup>24</sup> kg<br />(0.4790050964586178 Yrths)
+    mass: 2.861 × 10<sup>24</sup> kg<br />(0.48 Yrths)
     density: 5.879 g/cm<sup>3</sup>
     surface_gravity: 8.009 m/s<sup>2</sup><br />(0.817 g<sub>0</sub>)
     escape_velocity: 8.847 km/s<br />(31,847 km/h)
     rotation_period: 2.350 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 263 K<br />(-10 °C)
+    temperature: 287 K<br />(14 °C)
     surface_pressure: 8 kPa<br />(0 atm)
     composition:
       - 48.5111% nitrogen
@@ -302,14 +302,14 @@ planets:
         radius: 746.9 km<br/>(0.117 Yrths)
         surface_area: 7.011 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.746 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.485 × 10<sup>21</sup> kg<br />(0.4790050964586178 Yrths)
+        mass: 4.485 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.569 g/cm<sup>3</sup>
         surface_gravity: 0.536 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 0.895 km/s<br />(3,223 km/h)
         rotation_period: 53.512 d
         axial_tilt: 11.45°
         albedo: 0.30
-        temperature: 3937 K<br />(3664 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0010 Pelnemenniad C II b
         type: Rocky
         formationType: Captured
@@ -322,14 +322,14 @@ planets:
         radius: 1,461.1 km<br/>(0.229 Yrths)
         surface_area: 2.683 × 10<sup>07</sup> km<sup>2</sup><br/>(0.053 Yrths)
         volume: 1.307 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 3.918 × 10<sup>22</sup> kg<br />(0.4790050964586178 Yrths)
+        mass: 3.918 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 2.998 g/cm<sup>3</sup>
         surface_gravity: 1.223 m/s<sup>2</sup><br />(0.125 g<sub>0</sub>)
         escape_velocity: 1.892 km/s<br />(6,811 km/h)
         rotation_period: 32.518 d
         axial_tilt: 17.24°
         albedo: 0.30
-        temperature: 3754 K<br />(3480 °C)
+        temperature: 246 K<br />(-27 °C)
   - name: 0010 Pelnemenniad C III
     type: Ice giant
     aphelion: 244,175,621 km<br />1.632 AU
@@ -341,14 +341,14 @@ planets:
     radius: 17,069.4 km<br/>(2.679 Yrths)
     surface_area: 3.661 × 10<sup>09</sup> km<sup>2</sup><br/>(7.178 Yrths)
     volume: 2.083 × 10<sup>13</sup> km<sup>3</sup><br/>(19.232 Yrths)
-    mass: 2.837 × 10<sup>25</sup> kg<br />(4.750324671139731 Yrths)
+    mass: 2.837 × 10<sup>25</sup> kg<br />(4.75 Yrths)
     density: 1.362 g/cm<sup>3</sup>
     surface_gravity: 6.490 m/s<sup>2</sup><br />(0.662 g<sub>0</sub>)
     escape_velocity: 14.895 km/s<br />(53,621 km/h)
     rotation_period: 0.913 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 339 K<br />(65 °C)
+    temperature: 309 K<br />(36 °C)
     composition:
       - 83.8411% hydrogen
       - 7.8101% helium
@@ -369,14 +369,14 @@ planets:
         radius: 5,941.9 km<br/>(0.933 Yrths)
         surface_area: 4.437 × 10<sup>08</sup> km<sup>2</sup><br/>(0.870 Yrths)
         volume: 8.787 × 10<sup>11</sup> km<sup>3</sup><br/>(0.811 Yrths)
-        mass: 2.353 × 10<sup>24</sup> kg<br />(4.750324671139731 Yrths)
+        mass: 2.353 × 10<sup>24</sup> kg<br />(0.394 Yrths)
         density: 2.678 g/cm<sup>3</sup>
         surface_gravity: 4.442 m/s<sup>2</sup><br />(0.453 g<sub>0</sub>)
         escape_velocity: 7.271 km/s<br />(26,174 km/h)
         rotation_period: 49.201 d
         axial_tilt: 20.72°
         albedo: 0.30
-        temperature: 2013 K<br />(1740 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0010 Pelnemenniad C III b
         type: Dwarf planet
         formationType: Captured
@@ -389,14 +389,14 @@ planets:
         radius: 6,836.5 km<br/>(1.073 Yrths)
         surface_area: 5.873 × 10<sup>08</sup> km<sup>2</sup><br/>(1.151 Yrths)
         volume: 1.338 × 10<sup>12</sup> km<sup>3</sup><br/>(1.236 Yrths)
-        mass: 3.637 × 10<sup>24</sup> kg<br />(4.750324671139731 Yrths)
+        mass: 3.637 × 10<sup>24</sup> kg<br />(0.609 Yrths)
         density: 2.717 g/cm<sup>3</sup>
         surface_gravity: 5.186 m/s<sup>2</sup><br />(0.529 g<sub>0</sub>)
         escape_velocity: 8.427 km/s<br />(30,336 km/h)
         rotation_period: 54.947 d
         axial_tilt: 23.37°
         albedo: 0.30
-        temperature: 1920 K<br />(1647 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0010 Pelnemenniad C III c
         type: Dwarf planet
         formationType: Accreted
@@ -409,14 +409,14 @@ planets:
         radius: 9,480.5 km<br/>(1.488 Yrths)
         surface_area: 1.129 × 10<sup>09</sup> km<sup>2</sup><br/>(2.214 Yrths)
         volume: 3.569 × 10<sup>12</sup> km<sup>3</sup><br/>(3.295 Yrths)
-        mass: 6.394 × 10<sup>24</sup> kg<br />(4.750324671139731 Yrths)
+        mass: 6.394 × 10<sup>24</sup> kg<br />(1.071 Yrths)
         density: 1.791 g/cm<sup>3</sup>
         surface_gravity: 4.741 m/s<sup>2</sup><br />(0.483 g<sub>0</sub>)
         escape_velocity: 9.488 km/s<br />(34,157 km/h)
         rotation_period: 66.603 d
         axial_tilt: 34.15°
         albedo: 0.30
-        temperature: 1664 K<br />(1391 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0010 Pelnemenniad C III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -429,14 +429,14 @@ planets:
         radius: 8,819.7 km<br/>(1.384 Yrths)
         surface_area: 9.775 × 10<sup>08</sup> km<sup>2</sup><br/>(1.916 Yrths)
         volume: 2.874 × 10<sup>12</sup> km<sup>3</sup><br/>(2.653 Yrths)
-        mass: 8.046 × 10<sup>24</sup> kg<br />(4.750324671139731 Yrths)
+        mass: 8.046 × 10<sup>24</sup> kg<br />(1.347 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 6.895 m/s<sup>2</sup><br />(0.703 g<sub>0</sub>)
         escape_velocity: 11.036 km/s<br />(39,728 km/h)
         rotation_period: 30.757 d
         axial_tilt: 9.70°
         albedo: 0.30
-        temperature: 1587 K<br />(1313 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0010 Pelnemenniad C III e
         type: Rocky
         formationType: Accreted
@@ -449,14 +449,14 @@ planets:
         radius: 10,252.7 km<br/>(1.609 Yrths)
         surface_area: 1.321 × 10<sup>09</sup> km<sup>2</sup><br/>(2.590 Yrths)
         volume: 4.514 × 10<sup>12</sup> km<sup>3</sup><br/>(4.168 Yrths)
-        mass: 1.216 × 10<sup>25</sup> kg<br />(4.750324671139731 Yrths)
+        mass: 1.216 × 10<sup>25</sup> kg<br />(2.036 Yrths)
         density: 2.694 g/cm<sup>3</sup>
         surface_gravity: 7.711 m/s<sup>2</sup><br />(0.786 g<sub>0</sub>)
         escape_velocity: 12.583 km/s<br />(45,298 km/h)
         rotation_period: 47.479 d
         axial_tilt: 18.37°
         albedo: 0.30
-        temperature: 1375 K<br />(1102 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0010 Pelnemenniad C III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -469,14 +469,14 @@ planets:
         radius: 6,631.5 km<br/>(1.041 Yrths)
         surface_area: 5.526 × 10<sup>08</sup> km<sup>2</sup><br/>(1.083 Yrths)
         volume: 1.222 × 10<sup>12</sup> km<sup>3</sup><br/>(1.128 Yrths)
-        mass: 3.223 × 10<sup>24</sup> kg<br />(4.750324671139731 Yrths)
+        mass: 3.223 × 10<sup>24</sup> kg<br />(0.540 Yrths)
         density: 2.638 g/cm<sup>3</sup>
         surface_gravity: 4.885 m/s<sup>2</sup><br />(0.498 g<sub>0</sub>)
         escape_velocity: 8.054 km/s<br />(28,996 km/h)
         rotation_period: 38.419 d
         axial_tilt: 28.57°
         albedo: 0.30
-        temperature: 1311 K<br />(1038 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0010 Pelnemenniad C III g
         type: Icy
         formationType: Captured
@@ -489,14 +489,14 @@ planets:
         radius: 16,643.5 km<br/>(2.612 Yrths)
         surface_area: 3.481 × 10<sup>09</sup> km<sup>2</sup><br/>(6.825 Yrths)
         volume: 1.931 × 10<sup>13</sup> km<sup>3</sup><br/>(17.828 Yrths)
-        mass: 2.344 × 10<sup>25</sup> kg<br />(4.750324671139731 Yrths)
+        mass: 2.344 × 10<sup>25</sup> kg<br />(3.925 Yrths)
         density: 1.214 g/cm<sup>3</sup>
         surface_gravity: 5.640 m/s<sup>2</sup><br />(0.575 g<sub>0</sub>)
         escape_velocity: 13.711 km/s<br />(49,360 km/h)
         rotation_period: 47.936 d
         axial_tilt: 25.85°
         albedo: 0.30
-        temperature: 1137 K<br />(863 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0010 Pelnemenniad C III h
         type: Icy
         formationType: Accreted
@@ -509,14 +509,14 @@ planets:
         radius: 8,153.8 km<br/>(1.280 Yrths)
         surface_area: 8.355 × 10<sup>08</sup> km<sup>2</sup><br/>(1.638 Yrths)
         volume: 2.271 × 10<sup>12</sup> km<sup>3</sup><br/>(2.096 Yrths)
-        mass: 2.525 × 10<sup>24</sup> kg<br />(4.750324671139731 Yrths)
+        mass: 2.525 × 10<sup>24</sup> kg<br />(0.423 Yrths)
         density: 1.112 g/cm<sup>3</sup>
         surface_gravity: 2.531 m/s<sup>2</sup><br />(0.258 g<sub>0</sub>)
         escape_velocity: 6.429 km/s<br />(23,145 km/h)
         rotation_period: 57.107 d
         axial_tilt: 22.09°
         albedo: 0.30
-        temperature: 1084 K<br />(811 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0010 Pelnemenniad C III i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -529,14 +529,14 @@ planets:
         radius: 11,071.0 km<br/>(1.738 Yrths)
         surface_area: 1.540 × 10<sup>09</sup> km<sup>2</sup><br/>(3.020 Yrths)
         volume: 5.684 × 10<sup>12</sup> km<sup>3</sup><br/>(5.247 Yrths)
-        mass: 1.541 × 10<sup>25</sup> kg<br />(4.750324671139731 Yrths)
+        mass: 1.541 × 10<sup>25</sup> kg<br />(2.580 Yrths)
         density: 2.711 g/cm<sup>3</sup>
         surface_gravity: 8.380 m/s<sup>2</sup><br />(0.855 g<sub>0</sub>)
         escape_velocity: 13.631 km/s<br />(49,072 km/h)
         rotation_period: 41.376 d
         axial_tilt: 10.12°
         albedo: 0.30
-        temperature: 1033 K<br />(760 °C)
+        temperature: 187 K<br />(-86 °C)
   - name: 0010 Pelnemenniad C IV
     type: Ice giant
     aphelion: 434,129,302 km<br />2.902 AU
@@ -548,14 +548,14 @@ planets:
     radius: 21,156.4 km<br/>(3.321 Yrths)
     surface_area: 5.625 × 10<sup>09</sup> km<sup>2</sup><br/>(11.027 Yrths)
     volume: 3.967 × 10<sup>13</sup> km<sup>3</sup><br/>(36.619 Yrths)
-    mass: 6.083 × 10<sup>25</sup> kg<br />(10.185187892943588 Yrths)
+    mass: 6.083 × 10<sup>25</sup> kg<br />(10.19 Yrths)
     density: 1.533 g/cm<sup>3</sup>
     surface_gravity: 9.058 m/s<sup>2</sup><br />(0.924 g<sub>0</sub>)
     escape_velocity: 19.590 km/s<br />(70,525 km/h)
     rotation_period: 0.635 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 255 K<br />(-18 °C)
+    temperature: 230 K<br />(-43 °C)
     composition:
       - 75.5294% hydrogen
       - 23.1187% helium
@@ -573,14 +573,14 @@ planets:
         radius: 11,971.9 km<br/>(1.879 Yrths)
         surface_area: 1.801 × 10<sup>09</sup> km<sup>2</sup><br/>(3.531 Yrths)
         volume: 7.187 × 10<sup>12</sup> km<sup>3</sup><br/>(6.635 Yrths)
-        mass: 1.196 × 10<sup>25</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 1.196 × 10<sup>25</sup> kg<br />(2.003 Yrths)
         density: 1.664 g/cm<sup>3</sup>
         surface_gravity: 5.562 m/s<sup>2</sup><br />(0.567 g<sub>0</sub>)
         escape_velocity: 11.548 km/s<br />(41,573 km/h)
         rotation_period: 61.422 d
         axial_tilt: 11.50°
         albedo: 0.30
-        temperature: 1346 K<br />(1073 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0010 Pelnemenniad C IV b
         type: Rocky
         formationType: Impact formed
@@ -593,14 +593,14 @@ planets:
         radius: 12,323.7 km<br/>(1.934 Yrths)
         surface_area: 1.909 × 10<sup>09</sup> km<sup>2</sup><br/>(3.742 Yrths)
         volume: 7.840 × 10<sup>12</sup> km<sup>3</sup><br/>(7.238 Yrths)
-        mass: 2.436 × 10<sup>25</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 2.436 × 10<sup>25</sup> kg<br />(4.078 Yrths)
         density: 3.107 g/cm<sup>3</sup>
         surface_gravity: 10.689 m/s<sup>2</sup><br />(1.090 g<sub>0</sub>)
         escape_velocity: 16.242 km/s<br />(58,471 km/h)
         rotation_period: 37.184 d
         axial_tilt: 20.53°
         albedo: 0.30
-        temperature: 1283 K<br />(1010 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0010 Pelnemenniad C IV c
         type: Dwarf planet
         formationType: Accreted
@@ -613,14 +613,14 @@ planets:
         radius: 13,873.9 km<br/>(2.178 Yrths)
         surface_area: 2.419 × 10<sup>09</sup> km<sup>2</sup><br/>(4.742 Yrths)
         volume: 1.119 × 10<sup>13</sup> km<sup>3</sup><br/>(10.327 Yrths)
-        mass: 2.074 × 10<sup>25</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 2.074 × 10<sup>25</sup> kg<br />(3.473 Yrths)
         density: 1.854 g/cm<sup>3</sup>
         surface_gravity: 7.182 m/s<sup>2</sup><br />(0.732 g<sub>0</sub>)
         escape_velocity: 14.126 km/s<br />(50,854 km/h)
         rotation_period: 55.319 d
         axial_tilt: 24.51°
         albedo: 0.30
-        temperature: 1223 K<br />(950 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0010 Pelnemenniad C IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -633,14 +633,14 @@ planets:
         radius: 12,695.1 km<br/>(1.993 Yrths)
         surface_area: 2.025 × 10<sup>09</sup> km<sup>2</sup><br/>(3.971 Yrths)
         volume: 8.570 × 10<sup>12</sup> km<sup>3</sup><br/>(7.912 Yrths)
-        mass: 1.809 × 10<sup>25</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 1.809 × 10<sup>25</sup> kg<br />(3.029 Yrths)
         density: 2.111 g/cm<sup>3</sup>
         surface_gravity: 7.481 m/s<sup>2</sup><br />(0.763 g<sub>0</sub>)
         escape_velocity: 13.792 km/s<br />(49,649 km/h)
         rotation_period: 52.496 d
         axial_tilt: 25.58°
         albedo: 0.30
-        temperature: 1166 K<br />(893 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0010 Pelnemenniad C IV e
         type: Icy
         formationType: Impact formed
@@ -653,14 +653,14 @@ planets:
         radius: 16,901.7 km<br/>(2.653 Yrths)
         surface_area: 3.590 × 10<sup>09</sup> km<sup>2</sup><br/>(7.038 Yrths)
         volume: 2.022 × 10<sup>13</sup> km<sup>3</sup><br/>(18.671 Yrths)
-        mass: 2.555 × 10<sup>25</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 2.555 × 10<sup>25</sup> kg<br />(4.279 Yrths)
         density: 1.263 g/cm<sup>3</sup>
         surface_gravity: 5.962 m/s<sup>2</sup><br />(0.608 g<sub>0</sub>)
         escape_velocity: 14.206 km/s<br />(51,142 km/h)
         rotation_period: 82.208 d
         axial_tilt: 11.47°
         albedo: 0.30
-        temperature: 1112 K<br />(839 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0010 Pelnemenniad C IV f
         type: Icy
         formationType: Captured
@@ -673,14 +673,14 @@ planets:
         radius: 30,212.5 km<br/>(4.742 Yrths)
         surface_area: 1.147 × 10<sup>10</sup> km<sup>2</sup><br/>(22.488 Yrths)
         volume: 1.155 × 10<sup>14</sup> km<sup>3</sup><br/>(106.645 Yrths)
-        mass: 1.480 × 10<sup>26</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 1.480 × 10<sup>26</sup> kg<br />(24.785 Yrths)
         density: 1.281 g/cm<sup>3</sup>
         surface_gravity: 10.808 m/s<sup>2</sup><br />(1.102 g<sub>0</sub>)
         escape_velocity: 25.573 km/s<br />(92,063 km/h)
         rotation_period: 45.362 d
         axial_tilt: 10.78°
         albedo: 0.30
-        temperature: 1060 K<br />(787 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0010 Pelnemenniad C IV g
         type: Icy
         formationType: Captured
@@ -693,14 +693,14 @@ planets:
         radius: 30,675.3 km<br/>(4.815 Yrths)
         surface_area: 1.182 × 10<sup>10</sup> km<sup>2</sup><br/>(23.183 Yrths)
         volume: 1.209 × 10<sup>14</sup> km<sup>3</sup><br/>(111.621 Yrths)
-        mass: 8.464 × 10<sup>25</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 8.464 × 10<sup>25</sup> kg<br />(14.172 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 5.995 m/s<sup>2</sup><br />(0.611 g<sub>0</sub>)
         escape_velocity: 19.191 km/s<br />(69,088 km/h)
         rotation_period: 82.689 d
         axial_tilt: 15.59°
         albedo: 0.30
-        temperature: 1011 K<br />(738 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0010 Pelnemenniad C IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -713,14 +713,14 @@ planets:
         radius: 9,712.2 km<br/>(1.524 Yrths)
         surface_area: 1.185 × 10<sup>09</sup> km<sup>2</sup><br/>(2.324 Yrths)
         volume: 3.837 × 10<sup>12</sup> km<sup>3</sup><br/>(3.543 Yrths)
-        mass: 7.522 × 10<sup>24</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 7.522 × 10<sup>24</sup> kg<br />(1.260 Yrths)
         density: 1.960 g/cm<sup>3</sup>
         surface_gravity: 5.315 m/s<sup>2</sup><br />(0.542 g<sub>0</sub>)
         escape_velocity: 10.168 km/s<br />(36,604 km/h)
         rotation_period: 48.008 d
         axial_tilt: 33.77°
         albedo: 0.30
-        temperature: 876 K<br />(603 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0010 Pelnemenniad C IV i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -733,14 +733,14 @@ planets:
         radius: 14,687.3 km<br/>(2.305 Yrths)
         surface_area: 2.711 × 10<sup>09</sup> km<sup>2</sup><br/>(5.315 Yrths)
         volume: 1.327 × 10<sup>13</sup> km<sup>3</sup><br/>(12.252 Yrths)
-        mass: 2.136 × 10<sup>25</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 2.136 × 10<sup>25</sup> kg<br />(3.577 Yrths)
         density: 1.610 g/cm<sup>3</sup>
         surface_gravity: 6.601 m/s<sup>2</sup><br />(0.673 g<sub>0</sub>)
         escape_velocity: 13.934 km/s<br />(50,163 km/h)
         rotation_period: 44.041 d
         axial_tilt: 24.97°
         albedo: 0.30
-        temperature: 836 K<br />(562 °C)
+        temperature: 142 K<br />(-131 °C)
       - name: 0010 Pelnemenniad C IV j
         type: Ice/rock hybrid
         formationType: Captured
@@ -753,14 +753,14 @@ planets:
         radius: 9,515.6 km<br/>(1.494 Yrths)
         surface_area: 1.138 × 10<sup>09</sup> km<sup>2</sup><br/>(2.231 Yrths)
         volume: 3.609 × 10<sup>12</sup> km<sup>3</sup><br/>(3.332 Yrths)
-        mass: 9.945 × 10<sup>24</sup> kg<br />(10.185187892943588 Yrths)
+        mass: 9.945 × 10<sup>24</sup> kg<br />(1.665 Yrths)
         density: 2.755 g/cm<sup>3</sup>
         surface_gravity: 7.320 m/s<sup>2</sup><br />(0.746 g<sub>0</sub>)
         escape_velocity: 11.811 km/s<br />(42,520 km/h)
         rotation_period: 35.909 d
         axial_tilt: 22.34°
         albedo: 0.30
-        temperature: 797 K<br />(524 °C)
+        temperature: 142 K<br />(-131 °C)
   - name: 0010 Pelnemenniad C V
     type: Ice giant
     aphelion: 747,559,558 km<br />4.997 AU
@@ -772,14 +772,14 @@ planets:
     radius: 26,494.6 km<br/>(4.159 Yrths)
     surface_area: 8.821 × 10<sup>09</sup> km<sup>2</sup><br/>(17.294 Yrths)
     volume: 7.790 × 10<sup>13</sup> km<sup>3</sup><br/>(71.920 Yrths)
-    mass: 9.156 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+    mass: 9.156 × 10<sup>25</sup> kg<br />(15.33 Yrths)
     density: 1.175 g/cm<sup>3</sup>
     surface_gravity: 8.694 m/s<sup>2</sup><br />(0.887 g<sub>0</sub>)
     escape_velocity: 21.478 km/s<br />(77,320 km/h)
     rotation_period: 0.487 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 190 K<br />(-83 °C)
+    temperature: 172 K<br />(-101 °C)
     composition:
       - 82.3075% hydrogen
       - 15.4807% helium
@@ -797,14 +797,14 @@ planets:
         radius: 12,961.3 km<br/>(2.034 Yrths)
         surface_area: 2.111 × 10<sup>09</sup> km<sup>2</sup><br/>(4.139 Yrths)
         volume: 9.121 × 10<sup>12</sup> km<sup>3</sup><br/>(8.420 Yrths)
-        mass: 1.994 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 1.994 × 10<sup>25</sup> kg<br />(3.339 Yrths)
         density: 2.186 g/cm<sup>3</sup>
         surface_gravity: 7.911 m/s<sup>2</sup><br />(0.807 g<sub>0</sub>)
         escape_velocity: 14.330 km/s<br />(51,589 km/h)
         rotation_period: 49.937 d
         axial_tilt: 28.12°
         albedo: 0.30
-        temperature: 956 K<br />(683 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V b
         type: Ice/rock hybrid
         formationType: Captured
@@ -817,14 +817,14 @@ planets:
         radius: 20,751.4 km<br/>(3.257 Yrths)
         surface_area: 5.411 × 10<sup>09</sup> km<sup>2</sup><br/>(10.609 Yrths)
         volume: 3.743 × 10<sup>13</sup> km<sup>3</sup><br/>(34.555 Yrths)
-        mass: 8.913 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 8.913 × 10<sup>25</sup> kg<br />(14.924 Yrths)
         density: 2.381 g/cm<sup>3</sup>
         surface_gravity: 13.796 m/s<sup>2</sup><br />(1.407 g<sub>0</sub>)
         escape_velocity: 23.944 km/s<br />(86,199 km/h)
         rotation_period: 34.749 d
         axial_tilt: 19.79°
         albedo: 0.30
-        temperature: 912 K<br />(638 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -837,14 +837,14 @@ planets:
         radius: 15,884.4 km<br/>(2.493 Yrths)
         surface_area: 3.171 × 10<sup>09</sup> km<sup>2</sup><br/>(6.216 Yrths)
         volume: 1.679 × 10<sup>13</sup> km<sup>3</sup><br/>(15.498 Yrths)
-        mass: 3.538 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 3.538 × 10<sup>25</sup> kg<br />(5.925 Yrths)
         density: 2.108 g/cm<sup>3</sup>
         surface_gravity: 9.347 m/s<sup>2</sup><br />(0.953 g<sub>0</sub>)
         escape_velocity: 17.243 km/s<br />(62,076 km/h)
         rotation_period: 48.920 d
         axial_tilt: 26.56°
         albedo: 0.30
-        temperature: 829 K<br />(556 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V d
         type: Rocky
         formationType: Accreted
@@ -857,14 +857,14 @@ planets:
         radius: 13,945.4 km<br/>(2.189 Yrths)
         surface_area: 2.444 × 10<sup>09</sup> km<sup>2</sup><br/>(4.791 Yrths)
         volume: 1.136 × 10<sup>13</sup> km<sup>3</sup><br/>(10.487 Yrths)
-        mass: 3.034 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 3.034 × 10<sup>25</sup> kg<br />(5.080 Yrths)
         density: 2.671 g/cm<sup>3</sup>
         surface_gravity: 10.399 m/s<sup>2</sup><br />(1.060 g<sub>0</sub>)
         escape_velocity: 17.042 km/s<br />(61,350 km/h)
         rotation_period: 45.915 d
         axial_tilt: 6.93°
         albedo: 0.30
-        temperature: 790 K<br />(517 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -877,14 +877,14 @@ planets:
         radius: 17,288.9 km<br/>(2.714 Yrths)
         surface_area: 3.756 × 10<sup>09</sup> km<sup>2</sup><br/>(7.364 Yrths)
         volume: 2.165 × 10<sup>13</sup> km<sup>3</sup><br/>(19.984 Yrths)
-        mass: 4.424 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 4.424 × 10<sup>25</sup> kg<br />(7.407 Yrths)
         density: 2.043 g/cm<sup>3</sup>
         surface_gravity: 9.864 m/s<sup>2</sup><br />(1.006 g<sub>0</sub>)
         escape_velocity: 18.481 km/s<br />(66,530 km/h)
         rotation_period: 55.317 d
         axial_tilt: 19.89°
         albedo: 0.30
-        temperature: 753 K<br />(480 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V f
         type: Asteroid
         formationType: Captured
@@ -897,14 +897,14 @@ planets:
         radius: 22,836.2 km<br/>(3.584 Yrths)
         surface_area: 6.553 × 10<sup>09</sup> km<sup>2</sup><br/>(12.848 Yrths)
         volume: 4.988 × 10<sup>13</sup> km<sup>3</sup><br/>(46.052 Yrths)
-        mass: 1.045 × 10<sup>26</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 1.045 × 10<sup>26</sup> kg<br />(17.506 Yrths)
         density: 2.096 g/cm<sup>3</sup>
         surface_gravity: 13.362 m/s<sup>2</sup><br />(1.363 g<sub>0</sub>)
         escape_velocity: 24.721 km/s<br />(88,994 km/h)
         rotation_period: 47.954 d
         axial_tilt: 58.35°
         albedo: 0.30
-        temperature: 718 K<br />(445 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -917,14 +917,14 @@ planets:
         radius: 14,867.2 km<br/>(2.334 Yrths)
         surface_area: 2.778 × 10<sup>09</sup> km<sup>2</sup><br/>(5.446 Yrths)
         volume: 1.377 × 10<sup>13</sup> km<sup>3</sup><br/>(12.708 Yrths)
-        mass: 2.950 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 2.950 × 10<sup>25</sup> kg<br />(4.939 Yrths)
         density: 2.143 g/cm<sup>3</sup>
         surface_gravity: 8.895 m/s<sup>2</sup><br />(0.907 g<sub>0</sub>)
         escape_velocity: 16.274 km/s<br />(58,585 km/h)
         rotation_period: 66.192 d
         axial_tilt: 24.80°
         albedo: 0.30
-        temperature: 685 K<br />(412 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -937,14 +937,14 @@ planets:
         radius: 16,829.7 km<br/>(2.642 Yrths)
         surface_area: 3.559 × 10<sup>09</sup> km<sup>2</sup><br/>(6.978 Yrths)
         volume: 1.997 × 10<sup>13</sup> km<sup>3</sup><br/>(18.433 Yrths)
-        mass: 5.071 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 5.071 × 10<sup>25</sup> kg<br />(8.491 Yrths)
         density: 2.540 g/cm<sup>3</sup>
         surface_gravity: 11.933 m/s<sup>2</sup><br />(1.217 g<sub>0</sub>)
         escape_velocity: 20.055 km/s<br />(72,198 km/h)
         rotation_period: 36.795 d
         axial_tilt: 21.64°
         albedo: 0.30
-        temperature: 653 K<br />(380 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V i
         type: Icy
         formationType: Captured
@@ -957,14 +957,14 @@ planets:
         radius: 15,268.3 km<br/>(2.397 Yrths)
         surface_area: 2.929 × 10<sup>09</sup> km<sup>2</sup><br/>(5.743 Yrths)
         volume: 1.491 × 10<sup>13</sup> km<sup>3</sup><br/>(13.764 Yrths)
-        mass: 2.660 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 2.660 × 10<sup>25</sup> kg<br />(4.453 Yrths)
         density: 1.784 g/cm<sup>3</sup>
         surface_gravity: 7.604 m/s<sup>2</sup><br />(0.775 g<sub>0</sub>)
         escape_velocity: 15.248 km/s<br />(54,894 km/h)
         rotation_period: 64.375 d
         axial_tilt: 15.39°
         albedo: 0.30
-        temperature: 623 K<br />(349 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V j
         type: Rocky
         formationType: Captured
@@ -977,14 +977,14 @@ planets:
         radius: 12,366.8 km<br/>(1.941 Yrths)
         surface_area: 1.922 × 10<sup>09</sup> km<sup>2</sup><br/>(3.768 Yrths)
         volume: 7.922 × 10<sup>12</sup> km<sup>3</sup><br/>(7.314 Yrths)
-        mass: 2.061 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 2.061 × 10<sup>25</sup> kg<br />(3.450 Yrths)
         density: 2.601 g/cm<sup>3</sup>
         surface_gravity: 8.980 m/s<sup>2</sup><br />(0.916 g<sub>0</sub>)
         escape_velocity: 14.913 km/s<br />(53,689 km/h)
         rotation_period: 33.956 d
         axial_tilt: 12.11°
         albedo: 0.30
-        temperature: 540 K<br />(266 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0010 Pelnemenniad C V k
         type: Dwarf planet
         formationType: Captured
@@ -997,14 +997,14 @@ planets:
         radius: 16,553.9 km<br/>(2.598 Yrths)
         surface_area: 3.444 × 10<sup>09</sup> km<sup>2</sup><br/>(6.751 Yrths)
         volume: 1.900 × 10<sup>13</sup> km<sup>3</sup><br/>(17.542 Yrths)
-        mass: 3.071 × 10<sup>25</sup> kg<br />(15.331389503376297 Yrths)
+        mass: 3.071 × 10<sup>25</sup> kg<br />(5.143 Yrths)
         density: 1.616 g/cm<sup>3</sup>
         surface_gravity: 7.470 m/s<sup>2</sup><br />(0.762 g<sub>0</sub>)
         escape_velocity: 15.737 km/s<br />(56,653 km/h)
         rotation_period: 57.099 d
         axial_tilt: 39.30°
         albedo: 0.30
-        temperature: 468 K<br />(195 °C)
+        temperature: 108 K<br />(-165 °C)
   - name: 0010 Pelnemenniad C VI
     type: Ice giant
     aphelion: 1,267,646,389 km<br />8.474 AU
@@ -1016,14 +1016,14 @@ planets:
     radius: 32,173.8 km<br/>(5.050 Yrths)
     surface_area: 1.301 × 10<sup>10</sup> km<sup>2</sup><br/>(25.503 Yrths)
     volume: 1.395 × 10<sup>14</sup> km<sup>3</sup><br/>(128.790 Yrths)
-    mass: 1.671 × 10<sup>26</sup> kg<br />(27.986569138681553 Yrths)
+    mass: 1.671 × 10<sup>26</sup> kg<br />(27.99 Yrths)
     density: 1.198 g/cm<sup>3</sup>
     surface_gravity: 10.762 m/s<sup>2</sup><br />(1.097 g<sub>0</sub>)
     escape_velocity: 26.333 km/s<br />(94,799 km/h)
     rotation_period: 0.383 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 145 K<br />(-128 °C)
+    temperature: 133 K<br />(-140 °C)
     composition:
       - 79.2808% hydrogen
       - 15.2989% helium
@@ -1041,14 +1041,14 @@ planets:
         radius: 23,777.2 km<br/>(3.732 Yrths)
         surface_area: 7.104 × 10<sup>09</sup> km<sup>2</sup><br/>(13.929 Yrths)
         volume: 5.631 × 10<sup>13</sup> km<sup>3</sup><br/>(51.983 Yrths)
-        mass: 1.269 × 10<sup>26</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 1.269 × 10<sup>26</sup> kg<br />(21.253 Yrths)
         density: 2.254 g/cm<sup>3</sup>
         surface_gravity: 14.963 m/s<sup>2</sup><br />(1.526 g<sub>0</sub>)
         escape_velocity: 26.693 km/s<br />(96,096 km/h)
         rotation_period: 45.747 d
         axial_tilt: 12.75°
         albedo: 0.30
-        temperature: 658 K<br />(385 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI b
         type: Dwarf planet
         formationType: Accreted
@@ -1061,14 +1061,14 @@ planets:
         radius: 14,793.6 km<br/>(2.322 Yrths)
         surface_area: 2.750 × 10<sup>09</sup> km<sup>2</sup><br/>(5.392 Yrths)
         volume: 1.356 × 10<sup>13</sup> km<sup>3</sup><br/>(12.520 Yrths)
-        mass: 2.744 × 10<sup>25</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 2.744 × 10<sup>25</sup> kg<br />(4.595 Yrths)
         density: 2.023 g/cm<sup>3</sup>
         surface_gravity: 8.357 m/s<sup>2</sup><br />(0.852 g<sub>0</sub>)
         escape_velocity: 15.735 km/s<br />(56,646 km/h)
         rotation_period: 64.031 d
         axial_tilt: 36.75°
         albedo: 0.30
-        temperature: 627 K<br />(354 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1081,14 +1081,14 @@ planets:
         radius: 15,983.0 km<br/>(2.509 Yrths)
         surface_area: 3.210 × 10<sup>09</sup> km<sup>2</sup><br/>(6.294 Yrths)
         volume: 1.710 × 10<sup>13</sup> km<sup>3</sup><br/>(15.789 Yrths)
-        mass: 3.808 × 10<sup>25</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 3.808 × 10<sup>25</sup> kg<br />(6.377 Yrths)
         density: 2.227 g/cm<sup>3</sup>
         surface_gravity: 9.936 m/s<sup>2</sup><br />(1.013 g<sub>0</sub>)
         escape_velocity: 17.834 km/s<br />(64,203 km/h)
         rotation_period: 57.133 d
         axial_tilt: 15.13°
         albedo: 0.30
-        temperature: 598 K<br />(325 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1101,14 +1101,14 @@ planets:
         radius: 31,407.8 km<br/>(4.930 Yrths)
         surface_area: 1.240 × 10<sup>10</sup> km<sup>2</sup><br/>(24.303 Yrths)
         volume: 1.298 × 10<sup>14</sup> km<sup>3</sup><br/>(119.809 Yrths)
-        mass: 2.659 × 10<sup>26</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 2.659 × 10<sup>26</sup> kg<br />(44.517 Yrths)
         density: 2.049 g/cm<sup>3</sup>
         surface_gravity: 17.963 m/s<sup>2</sup><br />(1.832 g<sub>0</sub>)
         escape_velocity: 33.614 km/s<br />(121,011 km/h)
         rotation_period: 46.616 d
         axial_tilt: 30.57°
         albedo: 0.30
-        temperature: 544 K<br />(271 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI e
         type: Ice/rock hybrid
         formationType: Captured
@@ -1121,14 +1121,14 @@ planets:
         radius: 22,187.5 km<br/>(3.483 Yrths)
         surface_area: 6.186 × 10<sup>09</sup> km<sup>2</sup><br/>(12.128 Yrths)
         volume: 4.575 × 10<sup>13</sup> km<sup>3</sup><br/>(42.238 Yrths)
-        mass: 1.148 × 10<sup>26</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 1.148 × 10<sup>26</sup> kg<br />(19.230 Yrths)
         density: 2.510 g/cm<sup>3</sup>
         surface_gravity: 15.549 m/s<sup>2</sup><br />(1.586 g<sub>0</sub>)
         escape_velocity: 26.285 km/s<br />(94,626 km/h)
         rotation_period: 49.061 d
         axial_tilt: 31.24°
         albedo: 0.30
-        temperature: 519 K<br />(245 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI f
         type: Dwarf planet
         formationType: Impact formed
@@ -1141,14 +1141,14 @@ planets:
         radius: 27,087.9 km<br/>(4.252 Yrths)
         surface_area: 9.221 × 10<sup>09</sup> km<sup>2</sup><br/>(18.077 Yrths)
         volume: 8.326 × 10<sup>13</sup> km<sup>3</sup><br/>(76.860 Yrths)
-        mass: 1.483 × 10<sup>26</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 1.483 × 10<sup>26</sup> kg<br />(24.833 Yrths)
         density: 1.781 g/cm<sup>3</sup>
         surface_gravity: 13.471 m/s<sup>2</sup><br />(1.374 g<sub>0</sub>)
         escape_velocity: 27.034 km/s<br />(97,321 km/h)
         rotation_period: 52.986 d
         axial_tilt: 42.17°
         albedo: 0.30
-        temperature: 494 K<br />(221 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1161,14 +1161,14 @@ planets:
         radius: 28,267.2 km<br/>(4.437 Yrths)
         surface_area: 1.004 × 10<sup>10</sup> km<sup>2</sup><br/>(19.686 Yrths)
         volume: 9.461 × 10<sup>13</sup> km<sup>3</sup><br/>(87.342 Yrths)
-        mass: 1.514 × 10<sup>26</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 1.514 × 10<sup>26</sup> kg<br />(25.348 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 12.627 m/s<sup>2</sup><br />(1.288 g<sub>0</sub>)
         escape_velocity: 26.736 km/s<br />(96,251 km/h)
         rotation_period: 65.529 d
         axial_tilt: 20.06°
         albedo: 0.30
-        temperature: 471 K<br />(198 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI h
         type: Asteroid
         formationType: Captured
@@ -1181,14 +1181,14 @@ planets:
         radius: 12,439.0 km<br/>(1.952 Yrths)
         surface_area: 1.944 × 10<sup>09</sup> km<sup>2</sup><br/>(3.812 Yrths)
         volume: 8.062 × 10<sup>12</sup> km<sup>3</sup><br/>(7.443 Yrths)
-        mass: 1.908 × 10<sup>25</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 1.908 × 10<sup>25</sup> kg<br />(3.195 Yrths)
         density: 2.366 g/cm<sup>3</sup>
         surface_gravity: 8.218 m/s<sup>2</sup><br />(0.838 g<sub>0</sub>)
         escape_velocity: 14.309 km/s<br />(51,511 km/h)
         rotation_period: 58.696 d
         axial_tilt: 7.66°
         albedo: 0.30
-        temperature: 449 K<br />(176 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1201,14 +1201,14 @@ planets:
         radius: 13,233.8 km<br/>(2.077 Yrths)
         surface_area: 2.201 × 10<sup>09</sup> km<sup>2</sup><br/>(4.315 Yrths)
         volume: 9.708 × 10<sup>12</sup> km<sup>3</sup><br/>(8.963 Yrths)
-        mass: 2.415 × 10<sup>25</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 2.415 × 10<sup>25</sup> kg<br />(4.043 Yrths)
         density: 2.487 g/cm<sup>3</sup>
         surface_gravity: 9.190 m/s<sup>2</sup><br />(0.937 g<sub>0</sub>)
         escape_velocity: 15.607 km/s<br />(56,184 km/h)
         rotation_period: 43.293 d
         axial_tilt: 22.78°
         albedo: 0.30
-        temperature: 429 K<br />(155 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI j
         type: Ice/rock hybrid
         formationType: Captured
@@ -1221,14 +1221,14 @@ planets:
         radius: 14,579.4 km<br/>(2.288 Yrths)
         surface_area: 2.671 × 10<sup>09</sup> km<sup>2</sup><br/>(5.237 Yrths)
         volume: 1.298 × 10<sup>13</sup> km<sup>3</sup><br/>(11.984 Yrths)
-        mass: 2.524 × 10<sup>25</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 2.524 × 10<sup>25</sup> kg<br />(4.226 Yrths)
         density: 1.944 g/cm<sup>3</sup>
         surface_gravity: 7.915 m/s<sup>2</sup><br />(0.807 g<sub>0</sub>)
         escape_velocity: 15.202 km/s<br />(54,727 km/h)
         rotation_period: 65.794 d
         axial_tilt: 27.97°
         albedo: 0.30
-        temperature: 409 K<br />(135 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0010 Pelnemenniad C VI k
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1241,14 +1241,14 @@ planets:
         radius: 27,368.6 km<br/>(4.296 Yrths)
         surface_area: 9.413 × 10<sup>09</sup> km<sup>2</sup><br/>(18.454 Yrths)
         volume: 8.587 × 10<sup>13</sup> km<sup>3</sup><br/>(79.275 Yrths)
-        mass: 1.961 × 10<sup>26</sup> kg<br />(27.986569138681553 Yrths)
+        mass: 1.961 × 10<sup>26</sup> kg<br />(32.832 Yrths)
         density: 2.283 g/cm<sup>3</sup>
         surface_gravity: 17.447 m/s<sup>2</sup><br />(1.779 g<sub>0</sub>)
         escape_velocity: 30.924 km/s<br />(111,328 km/h)
         rotation_period: 64.518 d
         axial_tilt: 21.79°
         albedo: 0.30
-        temperature: 390 K<br />(116 °C)
+        temperature: 82 K<br />(-191 °C)
   - name: 0010 Pelnemenniad C VII
     type: Large terrestrial
     aphelion: 2,237,600,200 km<br />14.957 AU
@@ -1260,14 +1260,14 @@ planets:
     radius: 9,887.9 km<br/>(1.552 Yrths)
     surface_area: 1.229 × 10<sup>09</sup> km<sup>2</sup><br/>(2.409 Yrths)
     volume: 4.049 × 10<sup>12</sup> km<sup>3</sup><br/>(3.738 Yrths)
-    mass: 2.414 × 10<sup>25</sup> kg<br />(4.041505182911012 Yrths)
+    mass: 2.414 × 10<sup>25</sup> kg<br />(4.04 Yrths)
     density: 5.960 g/cm<sup>3</sup>
     surface_gravity: 16.454 m/s<sup>2</sup><br />(1.678 g<sub>0</sub>)
     escape_velocity: 18.051 km/s<br />(64,983 km/h)
     rotation_period: 0.660 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 82 K<br />(-192 °C)
+    temperature: 90 K<br />(-183 °C)
     surface_pressure: 273 kPa<br />(3 atm)
     composition:
       - 95.1808% ammonia
@@ -1287,14 +1287,14 @@ planets:
         radius: 2,097.6 km<br/>(0.329 Yrths)
         surface_area: 5.529 × 10<sup>07</sup> km<sup>2</sup><br/>(0.108 Yrths)
         volume: 3.866 × 10<sup>10</sup> km<sup>3</sup><br/>(0.036 Yrths)
-        mass: 1.147 × 10<sup>23</sup> kg<br />(4.041505182911012 Yrths)
+        mass: 1.147 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 2.968 g/cm<sup>3</sup>
         surface_gravity: 1.738 m/s<sup>2</sup><br />(0.177 g<sub>0</sub>)
         escape_velocity: 2.702 km/s<br />(9,727 km/h)
         rotation_period: 39.383 d
         axial_tilt: 8.35°
         albedo: 0.30
-        temperature: 710 K<br />(437 °C)
+        temperature: 62 K<br />(-211 °C)
       - name: 0010 Pelnemenniad C VII b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1307,14 +1307,14 @@ planets:
         radius: 4,877.9 km<br/>(0.766 Yrths)
         surface_area: 2.990 × 10<sup>08</sup> km<sup>2</sup><br/>(0.586 Yrths)
         volume: 4.862 × 10<sup>11</sup> km<sup>3</sup><br/>(0.449 Yrths)
-        mass: 9.568 × 10<sup>23</sup> kg<br />(4.041505182911012 Yrths)
+        mass: 9.568 × 10<sup>23</sup> kg<br />(0.160 Yrths)
         density: 1.968 g/cm<sup>3</sup>
         surface_gravity: 2.680 m/s<sup>2</sup><br />(0.273 g<sub>0</sub>)
         escape_velocity: 5.117 km/s<br />(18,421 km/h)
         rotation_period: 51.322 d
         axial_tilt: 11.33°
         albedo: 0.30
-        temperature: 677 K<br />(404 °C)
+        temperature: 62 K<br />(-211 °C)
       - name: 0010 Pelnemenniad C VII c
         type: Icy
         formationType: Accreted
@@ -1327,14 +1327,14 @@ planets:
         radius: 11,558.0 km<br/>(1.814 Yrths)
         surface_area: 1.679 × 10<sup>09</sup> km<sup>2</sup><br/>(3.291 Yrths)
         volume: 6.468 × 10<sup>12</sup> km<sup>3</sup><br/>(5.971 Yrths)
-        mass: 5.975 × 10<sup>24</sup> kg<br />(4.041505182911012 Yrths)
+        mass: 5.975 × 10<sup>24</sup> kg<br />(1.001 Yrths)
         density: 0.924 g/cm<sup>3</sup>
         surface_gravity: 2.981 m/s<sup>2</sup><br />(0.304 g<sub>0</sub>)
         escape_velocity: 8.307 km/s<br />(29,906 km/h)
         rotation_period: 71.205 d
         axial_tilt: 27.53°
         albedo: 0.30
-        temperature: 646 K<br />(373 °C)
+        temperature: 62 K<br />(-211 °C)
   - name: 0010 Pelnemenniad C VIII
     type: Ice giant
     aphelion: 3,812,180,108 km<br />25.482 AU
@@ -1346,14 +1346,14 @@ planets:
     radius: 28,549.9 km<br/>(4.481 Yrths)
     surface_area: 1.024 × 10<sup>10</sup> km<sup>2</sup><br/>(20.081 Yrths)
     volume: 9.748 × 10<sup>13</sup> km<sup>3</sup><br/>(89.989 Yrths)
-    mass: 1.587 × 10<sup>26</sup> kg<br />(26.575068625899945 Yrths)
+    mass: 1.587 × 10<sup>26</sup> kg<br />(26.58 Yrths)
     density: 1.628 g/cm<sup>3</sup>
     surface_gravity: 12.978 m/s<sup>2</sup><br />(1.323 g<sub>0</sub>)
     escape_velocity: 27.240 km/s<br />(98,065 km/h)
     rotation_period: 0.329 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 86 K<br />(-187 °C)
+    temperature: 78 K<br />(-195 °C)
     composition:
       - 100.0000% helium
     moons:
@@ -1369,14 +1369,14 @@ planets:
         radius: 15,181.3 km<br/>(2.383 Yrths)
         surface_area: 2.896 × 10<sup>09</sup> km<sup>2</sup><br/>(5.678 Yrths)
         volume: 1.466 × 10<sup>13</sup> km<sup>3</sup><br/>(13.530 Yrths)
-        mass: 3.622 × 10<sup>25</sup> kg<br />(26.575068625899945 Yrths)
+        mass: 3.622 × 10<sup>25</sup> kg<br />(6.066 Yrths)
         density: 2.472 g/cm<sup>3</sup>
         surface_gravity: 10.476 m/s<sup>2</sup><br />(1.068 g<sub>0</sub>)
         escape_velocity: 17.847 km/s<br />(64,248 km/h)
         rotation_period: 33.335 d
         axial_tilt: 21.03°
         albedo: 0.30
-        temperature: 382 K<br />(109 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0010 Pelnemenniad C VIII b
         type: Ice/rock hybrid
         formationType: Captured
@@ -1389,14 +1389,14 @@ planets:
         radius: 28,474.5 km<br/>(4.469 Yrths)
         surface_area: 1.019 × 10<sup>10</sup> km<sup>2</sup><br/>(19.976 Yrths)
         volume: 9.671 × 10<sup>13</sup> km<sup>3</sup><br/>(89.279 Yrths)
-        mass: 1.991 × 10<sup>26</sup> kg<br />(26.575068625899945 Yrths)
+        mass: 1.991 × 10<sup>26</sup> kg<br />(33.345 Yrths)
         density: 2.059 g/cm<sup>3</sup>
         surface_gravity: 16.370 m/s<sup>2</sup><br />(1.669 g<sub>0</sub>)
         escape_velocity: 30.554 km/s<br />(109,993 km/h)
         rotation_period: 53.153 d
         axial_tilt: 16.04°
         albedo: 0.30
-        temperature: 365 K<br />(91 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0010 Pelnemenniad C VIII c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1409,14 +1409,14 @@ planets:
         radius: 16,535.4 km<br/>(2.595 Yrths)
         surface_area: 3.436 × 10<sup>09</sup> km<sup>2</sup><br/>(6.736 Yrths)
         volume: 1.894 × 10<sup>13</sup> km<sup>3</sup><br/>(17.483 Yrths)
-        mass: 3.908 × 10<sup>25</sup> kg<br />(26.575068625899945 Yrths)
+        mass: 3.908 × 10<sup>25</sup> kg<br />(6.545 Yrths)
         density: 2.064 g/cm<sup>3</sup>
         surface_gravity: 9.528 m/s<sup>2</sup><br />(0.972 g<sub>0</sub>)
         escape_velocity: 17.763 km/s<br />(63,946 km/h)
         rotation_period: 34.472 d
         axial_tilt: 28.91°
         albedo: 0.30
-        temperature: 348 K<br />(74 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0010 Pelnemenniad C VIII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -1429,14 +1429,14 @@ planets:
         radius: 37,491.5 km<br/>(5.885 Yrths)
         surface_area: 1.766 × 10<sup>10</sup> km<sup>2</sup><br/>(34.630 Yrths)
         volume: 2.207 × 10<sup>14</sup> km<sup>3</sup><br/>(203.786 Yrths)
-        mass: 4.775 × 10<sup>26</sup> kg<br />(26.575068625899945 Yrths)
+        mass: 4.775 × 10<sup>26</sup> kg<br />(79.961 Yrths)
         density: 2.163 g/cm<sup>3</sup>
         surface_gravity: 22.644 m/s<sup>2</sup><br />(2.309 g<sub>0</sub>)
         escape_velocity: 41.234 km/s<br />(148,441 km/h)
         rotation_period: 47.060 d
         axial_tilt: 11.55°
         albedo: 0.30
-        temperature: 316 K<br />(43 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0010 Pelnemenniad C VIII e
         type: Asteroid
         formationType: Captured
@@ -1449,14 +1449,14 @@ planets:
         radius: 24,636.0 km<br/>(3.867 Yrths)
         surface_area: 7.627 × 10<sup>09</sup> km<sup>2</sup><br/>(14.953 Yrths)
         volume: 6.263 × 10<sup>13</sup> km<sup>3</sup><br/>(57.822 Yrths)
-        mass: 1.870 × 10<sup>26</sup> kg<br />(26.575068625899945 Yrths)
+        mass: 1.870 × 10<sup>26</sup> kg<br />(31.319 Yrths)
         density: 2.986 g/cm<sup>3</sup>
         surface_gravity: 20.540 m/s<sup>2</sup><br />(2.095 g<sub>0</sub>)
         escape_velocity: 31.835 km/s<br />(114,604 km/h)
         rotation_period: 28.904 d
         axial_tilt: 23.50°
         albedo: 0.30
-        temperature: 274 K<br />(1 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0010 Pelnemenniad C VIII f
         type: Asteroid
         formationType: Captured
@@ -1469,14 +1469,14 @@ planets:
         radius: 20,221.8 km<br/>(3.174 Yrths)
         surface_area: 5.139 × 10<sup>09</sup> km<sup>2</sup><br/>(10.075 Yrths)
         volume: 3.464 × 10<sup>13</sup> km<sup>3</sup><br/>(31.977 Yrths)
-        mass: 6.521 × 10<sup>25</sup> kg<br />(26.575068625899945 Yrths)
+        mass: 6.521 × 10<sup>25</sup> kg<br />(10.919 Yrths)
         density: 1.883 g/cm<sup>3</sup>
         surface_gravity: 10.629 m/s<sup>2</sup><br />(1.084 g<sub>0</sub>)
         escape_velocity: 20.747 km/s<br />(74,690 km/h)
         rotation_period: 62.504 d
         axial_tilt: 20.17°
         albedo: 0.30
-        temperature: 261 K<br />(-12 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0010 Pelnemenniad C VIII g
         type: Ice/rock hybrid
         formationType: Captured
@@ -1489,14 +1489,14 @@ planets:
         radius: 19,836.3 km<br/>(3.114 Yrths)
         surface_area: 4.945 × 10<sup>09</sup> km<sup>2</sup><br/>(9.694 Yrths)
         volume: 3.269 × 10<sup>13</sup> km<sup>3</sup><br/>(30.183 Yrths)
-        mass: 5.997 × 10<sup>25</sup> kg<br />(26.575068625899945 Yrths)
+        mass: 5.997 × 10<sup>25</sup> kg<br />(10.041 Yrths)
         density: 1.834 g/cm<sup>3</sup>
         surface_gravity: 10.158 m/s<sup>2</sup><br />(1.036 g<sub>0</sub>)
         escape_velocity: 20.088 km/s<br />(72,317 km/h)
         rotation_period: 63.232 d
         axial_tilt: 7.46°
         albedo: 0.30
-        temperature: 249 K<br />(-24 °C)
+        temperature: 47 K<br />(-226 °C)
       - name: 0010 Pelnemenniad C VIII h
         type: Icy
         formationType: Captured
@@ -1509,14 +1509,14 @@ planets:
         radius: 45,861.7 km<br/>(7.199 Yrths)
         surface_area: 2.643 × 10<sup>10</sup> km<sup>2</sup><br/>(51.818 Yrths)
         volume: 4.041 × 10<sup>14</sup> km<sup>3</sup><br/>(373.015 Yrths)
-        mass: 6.492 × 10<sup>26</sup> kg<br />(26.575068625899945 Yrths)
+        mass: 6.492 × 10<sup>26</sup> kg<br />(108.711 Yrths)
         density: 1.607 g/cm<sup>3</sup>
         surface_gravity: 20.573 m/s<sup>2</sup><br />(2.098 g<sub>0</sub>)
         escape_velocity: 43.470 km/s<br />(156,492 km/h)
         rotation_period: 46.168 d
         axial_tilt: 13.81°
         albedo: 0.30
-        temperature: 237 K<br />(-36 °C)
+        temperature: 47 K<br />(-226 °C)
   - name: 0010 Pelnemenniad C IX
     type: Gas giant
     aphelion: 6,743,005,683 km<br />45.074 AU
@@ -1528,7 +1528,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.500 g/cm<sup>3</sup>
     surface_gravity: 31873.847 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -1549,14 +1549,14 @@ planets:
         radius: 770.0 km<br/>(0.121 Yrths)
         surface_area: 7.450 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.912 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.007 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.007 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.095 g/cm<sup>3</sup>
         surface_gravity: 0.450 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.833 km/s<br />(3,000 km/h)
         rotation_period: 34.528 d
         axial_tilt: 9.49°
         albedo: 0.30
-        temperature: 639 K<br />(365 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 0010 Pelnemenniad C IX b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1569,14 +1569,14 @@ planets:
         radius: 814.7 km<br/>(0.128 Yrths)
         surface_area: 8.341 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.265 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.129 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.129 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.823 g/cm<sup>3</sup>
         surface_gravity: 0.415 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.823 km/s<br />(2,961 km/h)
         rotation_period: 48.423 d
         axial_tilt: 7.23°
         albedo: 0.30
-        temperature: 581 K<br />(307 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 0010 Pelnemenniad C IX c
         type: Icy
         formationType: Accreted
@@ -1589,14 +1589,14 @@ planets:
         radius: 881.6 km<br/>(0.138 Yrths)
         surface_area: 9.768 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.871 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.239 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.239 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.477 g/cm<sup>3</sup>
         surface_gravity: 0.364 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.801 km/s<br />(2,884 km/h)
         rotation_period: 49.313 d
         axial_tilt: 8.68°
         albedo: 0.30
-        temperature: 312 K<br />(39 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 0010 Pelnemenniad C IX d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1609,14 +1609,14 @@ planets:
         radius: 801.0 km<br/>(0.126 Yrths)
         surface_area: 8.063 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.153 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.211 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.211 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.956 g/cm<sup>3</sup>
         surface_gravity: 0.437 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 0.838 km/s<br />(3,016 km/h)
         rotation_period: 63.293 d
         axial_tilt: 18.41°
         albedo: 0.30
-        temperature: 258 K<br />(-15 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 0010 Pelnemenniad C IX e
         type: Icy
         formationType: Accreted
@@ -1629,14 +1629,14 @@ planets:
         radius: 1,480.8 km<br/>(0.232 Yrths)
         surface_area: 2.755 × 10<sup>07</sup> km<sup>2</sup><br/>(0.054 Yrths)
         volume: 1.360 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 9.521 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.521 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.289 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.926 km/s<br />(3,335 km/h)
         rotation_period: 88.919 d
         axial_tilt: 27.97°
         albedo: 0.30
-        temperature: 246 K<br />(-27 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 0010 Pelnemenniad C IX f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1649,14 +1649,14 @@ planets:
         radius: 1,041.7 km<br/>(0.164 Yrths)
         surface_area: 1.364 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.735 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.080 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.080 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.282 g/cm<sup>3</sup>
         surface_gravity: 0.664 m/s<sup>2</sup><br />(0.068 g<sub>0</sub>)
         escape_velocity: 1.177 km/s<br />(4,236 km/h)
         rotation_period: 35.011 d
         axial_tilt: 19.99°
         albedo: 0.30
-        temperature: 235 K<br />(-38 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 0010 Pelnemenniad C IX g
         type: Icy
         formationType: Accreted
@@ -1669,14 +1669,14 @@ planets:
         radius: 1,349.6 km<br/>(0.212 Yrths)
         surface_area: 2.289 × 10<sup>07</sup> km<sup>2</sup><br/>(0.045 Yrths)
         volume: 1.030 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 1.066 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.066 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.035 g/cm<sup>3</sup>
         surface_gravity: 0.390 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 1.027 km/s<br />(3,697 km/h)
         rotation_period: 50.131 d
         axial_tilt: 17.24°
         albedo: 0.30
-        temperature: 194 K<br />(-79 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 0010 Pelnemenniad C IX h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1689,12 +1689,12 @@ planets:
         radius: 1,082.9 km<br/>(0.170 Yrths)
         surface_area: 1.474 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.320 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 9.657 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.657 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 1.815 g/cm<sup>3</sup>
         surface_gravity: 0.549 m/s<sup>2</sup><br />(0.056 g<sub>0</sub>)
         escape_velocity: 1.091 km/s<br />(3,928 km/h)
         rotation_period: 48.762 d
         axial_tilt: 25.02°
         albedo: 0.30
-        temperature: 120 K<br />(-153 °C)
+        temperature: 36 K<br />(-237 °C)
 ---

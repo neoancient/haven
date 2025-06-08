@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1849 Athiad A is a star in the constellation Ath
+      1849 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 768.62 ly
 apparent_magnitude: 6.87
 absolute_magnitude: 0.01

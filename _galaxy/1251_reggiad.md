@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1251 Reggiad is a star in the constellation Reg
+      1251 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 332.20 ly
 apparent_magnitude: 10.06
 absolute_magnitude: 5.02

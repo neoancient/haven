@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6238 Dialkeshiad A is a star in the constellation Dialkes
+      6238 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 547.57 ly
 apparent_magnitude: 7.06
 absolute_magnitude: 0.94

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3807 Tanashad is a star in the constellation Tanas
+      3807 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 257.37 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 6.20

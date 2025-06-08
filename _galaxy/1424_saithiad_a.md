@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1424 Saithiad A is a star in the constellation Saith
+      1424 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 233.32 ly
 apparent_magnitude: 7.43
 absolute_magnitude: 3.16

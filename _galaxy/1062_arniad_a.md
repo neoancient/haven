@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1062 Arniad A is a star in the constellation Arni
+      1062 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 426.23 ly
 apparent_magnitude: 6.56
 absolute_magnitude: 0.98

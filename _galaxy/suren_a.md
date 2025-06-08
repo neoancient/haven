@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Suren A is a star in the constellation Tanas
+      Suren A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 495.58 ly
 apparent_magnitude: 0.07
 absolute_magnitude: -5.84

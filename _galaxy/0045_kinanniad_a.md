@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0045 Kinanniad A is a star in the constellation Kinan
+      0045 Kinanniad A is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 232.19 ly
 apparent_magnitude: 6.18
 absolute_magnitude: 1.92

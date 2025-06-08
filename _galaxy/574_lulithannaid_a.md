@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      574 Lulithannaid A is a star in the constellation Lulithan
+      574 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 352.58 ly
 apparent_magnitude: 7.47
 absolute_magnitude: 2.30

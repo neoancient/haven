@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Naishith A is a star in the constellation Irsa
+      Naishith A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 1148.62 ly
 apparent_magnitude: 1.55
 absolute_magnitude: -6.19

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0240 Niniunniad D is a star in the constellation Niniun
+      0240 Niniunniad D is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 416.66 ly
 apparent_magnitude: 9.76
 absolute_magnitude: 4.23
@@ -31,14 +31,14 @@ planets:
     radius: 6,889.1 km<br/>(1.081 Yrths)
     surface_area: 5.964 × 10<sup>08</sup> km<sup>2</sup><br/>(1.169 Yrths)
     volume: 1.370 × 10<sup>12</sup> km<sup>3</sup><br/>(1.264 Yrths)
-    mass: 6.392 × 10<sup>24</sup> kg<br />(1.0702999437724379 Yrths)
+    mass: 6.392 × 10<sup>24</sup> kg<br />(1.07 Yrths)
     density: 4.667 g/cm<sup>3</sup>
     surface_gravity: 8.977 m/s<sup>2</sup><br />(0.915 g<sub>0</sub>)
     escape_velocity: 11.129 km/s<br />(40,064 km/h)
     rotation_period: 1.149 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 244 K<br />(-29 °C)
+    temperature: 271 K<br />(-2 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 92.0897% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 1,712.9 km<br/>(0.269 Yrths)
         surface_area: 3.687 × 10<sup>07</sup> km<sup>2</sup><br/>(0.072 Yrths)
         volume: 2.105 × 10<sup>10</sup> km<sup>3</sup><br/>(0.019 Yrths)
-        mass: 3.938 × 10<sup>22</sup> kg<br />(1.0702999437724379 Yrths)
+        mass: 3.938 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 1.871 g/cm<sup>3</sup>
         surface_gravity: 0.895 m/s<sup>2</sup><br />(0.091 g<sub>0</sub>)
         escape_velocity: 1.752 km/s<br />(6,306 km/h)
         rotation_period: 44.065 d
         axial_tilt: 26.53°
         albedo: 0.30
-        temperature: 3687 K<br />(3414 °C)
+        temperature: 224 K<br />(-50 °C)
       - name: 0240 Niniunniad D I b
         type: Icy
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 2,415.5 km<br/>(0.379 Yrths)
         surface_area: 7.332 × 10<sup>07</sup> km<sup>2</sup><br/>(0.144 Yrths)
         volume: 5.903 × 10<sup>10</sup> km<sup>3</sup><br/>(0.054 Yrths)
-        mass: 9.892 × 10<sup>22</sup> kg<br />(1.0702999437724379 Yrths)
+        mass: 9.892 × 10<sup>22</sup> kg<br />(0.017 Yrths)
         density: 1.676 g/cm<sup>3</sup>
         surface_gravity: 1.130 m/s<sup>2</sup><br />(0.115 g<sub>0</sub>)
         escape_velocity: 2.338 km/s<br />(8,417 km/h)
         rotation_period: 44.317 d
         axial_tilt: 19.68°
         albedo: 0.30
-        temperature: 3515 K<br />(3242 °C)
+        temperature: 224 K<br />(-50 °C)
   - name: 0240 Niniunniad D II
     type: Large terrestrial
     aphelion: 726,147,472 km<br />4.854 AU
@@ -97,14 +97,14 @@ planets:
     radius: 11,217.2 km<br/>(1.761 Yrths)
     surface_area: 1.581 × 10<sup>09</sup> km<sup>2</sup><br/>(3.100 Yrths)
     volume: 5.912 × 10<sup>12</sup> km<sup>3</sup><br/>(5.458 Yrths)
-    mass: 3.918 × 10<sup>25</sup> kg<br />(6.560700144454956 Yrths)
+    mass: 3.918 × 10<sup>25</sup> kg<br />(6.56 Yrths)
     density: 6.627 g/cm<sup>3</sup>
     surface_gravity: 20.755 m/s<sup>2</sup><br />(2.116 g<sub>0</sub>)
     escape_velocity: 21.593 km/s<br />(77,734 km/h)
     rotation_period: 0.687 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 193 K<br />(-80 °C)
+    temperature: 232 K<br />(-41 °C)
     surface_pressure: 65 kPa<br />(1 atm)
     composition:
       - 80.6827% methane
@@ -123,14 +123,14 @@ planets:
         radius: 8,487.7 km<br/>(1.332 Yrths)
         surface_area: 9.053 × 10<sup>08</sup> km<sup>2</sup><br/>(1.775 Yrths)
         volume: 2.561 × 10<sup>12</sup> km<sup>3</sup><br/>(2.365 Yrths)
-        mass: 6.035 × 10<sup>24</sup> kg<br />(6.560700144454956 Yrths)
+        mass: 6.035 × 10<sup>24</sup> kg<br />(1.011 Yrths)
         density: 2.356 g/cm<sup>3</sup>
         surface_gravity: 5.584 m/s<sup>2</sup><br />(0.569 g<sub>0</sub>)
         escape_velocity: 9.742 km/s<br />(35,072 km/h)
         rotation_period: 35.150 d
         axial_tilt: 12.30°
         albedo: 0.30
-        temperature: 1997 K<br />(1724 °C)
+        temperature: 161 K<br />(-113 °C)
       - name: 0240 Niniunniad D II b
         type: Asteroid
         formationType: Captured
@@ -143,14 +143,14 @@ planets:
         radius: 8,070.8 km<br/>(1.267 Yrths)
         surface_area: 8.185 × 10<sup>08</sup> km<sup>2</sup><br/>(1.605 Yrths)
         volume: 2.202 × 10<sup>12</sup> km<sup>3</sup><br/>(2.033 Yrths)
-        mass: 6.659 × 10<sup>24</sup> kg<br />(6.560700144454956 Yrths)
+        mass: 6.659 × 10<sup>24</sup> kg<br />(1.115 Yrths)
         density: 3.024 g/cm<sup>3</sup>
         surface_gravity: 6.814 m/s<sup>2</sup><br />(0.695 g<sub>0</sub>)
         escape_velocity: 10.495 km/s<br />(37,781 km/h)
         rotation_period: 39.760 d
         axial_tilt: 15.95°
         albedo: 0.30
-        temperature: 1904 K<br />(1631 °C)
+        temperature: 161 K<br />(-113 °C)
       - name: 0240 Niniunniad D II c
         type: Icy
         formationType: Impact formed
@@ -163,12 +163,12 @@ planets:
         radius: 11,220.4 km<br/>(1.761 Yrths)
         surface_area: 1.582 × 10<sup>09</sup> km<sup>2</sup><br/>(3.102 Yrths)
         volume: 5.917 × 10<sup>12</sup> km<sup>3</sup><br/>(5.463 Yrths)
-        mass: 4.923 × 10<sup>24</sup> kg<br />(6.560700144454956 Yrths)
+        mass: 4.923 × 10<sup>24</sup> kg<br />(0.824 Yrths)
         density: 0.832 g/cm<sup>3</sup>
         surface_gravity: 2.606 m/s<sup>2</sup><br />(0.266 g<sub>0</sub>)
         escape_velocity: 7.653 km/s<br />(27,550 km/h)
         rotation_period: 73.362 d
         axial_tilt: 21.98°
         albedo: 0.30
-        temperature: 1815 K<br />(1542 °C)
+        temperature: 161 K<br />(-113 °C)
 ---

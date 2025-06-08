@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      865 Lunaiad is a star in the constellation Luna
+      865 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 639.43 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 4.86

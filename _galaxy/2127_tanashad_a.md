@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2127 Tanashad A is a star in the constellation Tanas
+      2127 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 702.34 ly
 apparent_magnitude: 7.49
 absolute_magnitude: 0.82

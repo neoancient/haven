@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      114 Norriad is a star in the constellation Nor
+      114 Norriad is a star in the constellation <a href="nor.html">Nor</a>
 distance: 300.70 ly
 apparent_magnitude: 10.75
 absolute_magnitude: 5.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      612 Ratharshinniad is a star in the constellation Ratharshin
+      612 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 920.63 ly
 apparent_magnitude: 12.05
 absolute_magnitude: 4.80

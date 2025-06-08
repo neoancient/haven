@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      613 Erikkiad is a star in the constellation Erik
+      613 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1194.05 ly
 apparent_magnitude: 11.92
 absolute_magnitude: 4.11

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      272 Orshenniad is a star in the constellation Orshen
+      272 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 803.78 ly
 apparent_magnitude: 16.58
 absolute_magnitude: 9.63

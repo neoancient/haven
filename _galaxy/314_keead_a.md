@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      314 Keead A is a star in the constellation Kee
+      314 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 597.87 ly
 apparent_magnitude: 8.10
 absolute_magnitude: 1.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Enlinniad B is a star in the constellation Enlin
+      0024 Enlinniad B is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 216.04 ly
 apparent_magnitude: 10.18
 absolute_magnitude: 6.07

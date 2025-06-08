@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1525 Lulithannaid is a star in the constellation Lulithan
+      1525 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 454.28 ly
 apparent_magnitude: 11.30
 absolute_magnitude: 5.58

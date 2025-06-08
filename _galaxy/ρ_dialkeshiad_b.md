@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ρ Dialkeshiad B is a star in the constellation Dialkes
+      ρ Dialkeshiad B is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 40.52 ly
 apparent_magnitude: 6.69
 absolute_magnitude: 6.22

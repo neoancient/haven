@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      190 Noniashad is a star in the constellation Nonias
+      190 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 222.56 ly
 apparent_magnitude: 6.91
 absolute_magnitude: 2.74
@@ -31,14 +31,14 @@ planets:
     radius: 15,890.6 km<br/>(2.494 Yrths)
     surface_area: 3.173 × 10<sup>09</sup> km<sup>2</sup><br/>(6.221 Yrths)
     volume: 1.681 × 10<sup>13</sup> km<sup>3</sup><br/>(15.517 Yrths)
-    mass: 4.421 × 10<sup>25</sup> kg<br />(7.4022048078834 Yrths)
+    mass: 4.421 × 10<sup>25</sup> kg<br />(7.40 Yrths)
     density: 2.630 g/cm<sup>3</sup>
     surface_gravity: 11.669 m/s<sup>2</sup><br />(1.190 g<sub>0</sub>)
     escape_velocity: 19.270 km/s<br />(69,373 km/h)
     rotation_period: 0.460 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 596 K<br />(323 °C)
+    temperature: 551 K<br />(278 °C)
     composition:
       - 70.9101% hydrogen
       - 26.7195% helium
@@ -57,14 +57,14 @@ planets:
         radius: 10,520.9 km<br/>(1.651 Yrths)
         surface_area: 1.391 × 10<sup>09</sup> km<sup>2</sup><br/>(2.727 Yrths)
         volume: 4.878 × 10<sup>12</sup> km<sup>3</sup><br/>(4.503 Yrths)
-        mass: 1.617 × 10<sup>25</sup> kg<br />(7.4022048078834 Yrths)
+        mass: 1.617 × 10<sup>25</sup> kg<br />(2.708 Yrths)
         density: 3.315 g/cm<sup>3</sup>
         surface_gravity: 9.737 m/s<sup>2</sup><br />(0.993 g<sub>0</sub>)
         escape_velocity: 14.323 km/s<br />(51,564 km/h)
         rotation_period: 44.585 d
         axial_tilt: 14.61°
         albedo: 0.30
-        temperature: 4050 K<br />(3777 °C)
+        temperature: 370 K<br />(96 °C)
       - name: 190 Noniashad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 11,929.4 km<br/>(1.872 Yrths)
         surface_area: 1.788 × 10<sup>09</sup> km<sup>2</sup><br/>(3.506 Yrths)
         volume: 7.111 × 10<sup>12</sup> km<sup>3</sup><br/>(6.565 Yrths)
-        mass: 1.813 × 10<sup>25</sup> kg<br />(7.4022048078834 Yrths)
+        mass: 1.813 × 10<sup>25</sup> kg<br />(3.035 Yrths)
         density: 2.549 g/cm<sup>3</sup>
         surface_gravity: 8.490 m/s<sup>2</sup><br />(0.866 g<sub>0</sub>)
         escape_velocity: 14.242 km/s<br />(51,272 km/h)
         rotation_period: 36.113 d
         axial_tilt: 12.77°
         albedo: 0.30
-        temperature: 3861 K<br />(3588 °C)
+        temperature: 370 K<br />(96 °C)
       - name: 190 Noniashad I c
         type: Dwarf planet
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 16,664.6 km<br/>(2.616 Yrths)
         surface_area: 3.490 × 10<sup>09</sup> km<sup>2</sup><br/>(6.842 Yrths)
         volume: 1.939 × 10<sup>13</sup> km<sup>3</sup><br/>(17.896 Yrths)
-        mass: 2.847 × 10<sup>25</sup> kg<br />(7.4022048078834 Yrths)
+        mass: 2.847 × 10<sup>25</sup> kg<br />(4.767 Yrths)
         density: 1.469 g/cm<sup>3</sup>
         surface_gravity: 6.833 m/s<sup>2</sup><br />(0.697 g<sub>0</sub>)
         escape_velocity: 15.101 km/s<br />(54,365 km/h)
         rotation_period: 43.229 d
         axial_tilt: 23.29°
         albedo: 0.30
-        temperature: 3682 K<br />(3409 °C)
+        temperature: 370 K<br />(96 °C)
       - name: 190 Noniashad I d
         type: Icy
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 12,406.6 km<br/>(1.947 Yrths)
         surface_area: 1.934 × 10<sup>09</sup> km<sup>2</sup><br/>(3.792 Yrths)
         volume: 7.999 × 10<sup>12</sup> km<sup>3</sup><br/>(7.385 Yrths)
-        mass: 1.173 × 10<sup>25</sup> kg<br />(7.4022048078834 Yrths)
+        mass: 1.173 × 10<sup>25</sup> kg<br />(1.964 Yrths)
         density: 1.466 g/cm<sup>3</sup>
         surface_gravity: 5.079 m/s<sup>2</sup><br />(0.518 g<sub>0</sub>)
         escape_velocity: 11.234 km/s<br />(40,443 km/h)
         rotation_period: 75.218 d
         axial_tilt: 14.56°
         albedo: 0.30
-        temperature: 3510 K<br />(3237 °C)
+        temperature: 370 K<br />(96 °C)
   - name: 190 Noniashad II
     type: Gas giant
     aphelion: 359,188,400 km<br />2.401 AU
@@ -136,14 +136,14 @@ planets:
     radius: 212.1 km<br/>(0.033 Yrths)
     surface_area: 5.652 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.996 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.298 × 10<sup>27</sup> kg<br />(217.37532095105428 Yrths)
+    mass: 1.298 × 10<sup>27</sup> kg<br />(217.38 Yrths)
     density: 32487087.312 g/cm<sup>3</sup>
     surface_gravity: 1923648.368 m/s<sup>2</sup><br />(196157.543 g<sub>0</sub>)
     escape_velocity: 903.915 km/s<br />(3,254,095 km/h)
     rotation_period: 0.243 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1124 K<br />(851 °C)
+    temperature: 1075 K<br />(801 °C)
     composition:
       - 57.0792% hydrogen
       - 41.7967% helium
@@ -161,14 +161,14 @@ planets:
         radius: 144,297.5 km<br/>(22.649 Yrths)
         surface_area: 2.617 × 10<sup>11</sup> km<sup>2</sup><br/>(512.982 Yrths)
         volume: 1.259 × 10<sup>16</sup> km<sup>3</sup><br/>(11618.589 Yrths)
-        mass: 3.062 × 10<sup>28</sup> kg<br />(217.37532095105428 Yrths)
+        mass: 3.062 × 10<sup>28</sup> kg<br />(5127.993 Yrths)
         density: 2.433 g/cm<sup>3</sup>
         surface_gravity: 98.032 m/s<sup>2</sup><br />(9.996 g<sub>0</sub>)
         escape_velocity: 168.315 km/s<br />(605,933 km/h)
         rotation_period: 62.364 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 1399 K<br />(1126 °C)
+        temperature: 272 K<br />(-1 °C)
       - name: 190 Noniashad II b
         type: Rocky
         formationType: Captured
@@ -181,14 +181,14 @@ planets:
         radius: 113,561.3 km<br/>(17.825 Yrths)
         surface_area: 1.621 × 10<sup>11</sup> km<sup>2</sup><br/>(317.721 Yrths)
         volume: 6.135 × 10<sup>15</sup> km<sup>3</sup><br/>(5663.287 Yrths)
-        mass: 2.085 × 10<sup>28</sup> kg<br />(217.37532095105428 Yrths)
+        mass: 2.085 × 10<sup>28</sup> kg<br />(3491.505 Yrths)
         density: 3.399 g/cm<sup>3</sup>
         surface_gravity: 107.767 m/s<sup>2</sup><br />(10.989 g<sub>0</sub>)
         escape_velocity: 156.556 km/s<br />(563,600 km/h)
         rotation_period: 46.128 d
         axial_tilt: 13.97°
         albedo: 0.30
-        temperature: 1213 K<br />(939 °C)
+        temperature: 272 K<br />(-1 °C)
       - name: 190 Noniashad II c
         type: Icy
         formationType: Accreted
@@ -201,14 +201,14 @@ planets:
         radius: 203,959.4 km<br/>(32.014 Yrths)
         surface_area: 5.228 × 10<sup>11</sup> km<sup>2</sup><br/>(1024.878 Yrths)
         volume: 3.554 × 10<sup>16</sup> km<sup>3</sup><br/>(32810.166 Yrths)
-        mass: 4.314 × 10<sup>28</sup> kg<br />(217.37532095105428 Yrths)
+        mass: 4.314 × 10<sup>28</sup> kg<br />(7223.161 Yrths)
         density: 1.214 g/cm<sup>3</sup>
         surface_gravity: 69.116 m/s<sup>2</sup><br />(7.048 g<sub>0</sub>)
         escape_velocity: 168.023 km/s<br />(604,884 km/h)
         rotation_period: 76.963 d
         axial_tilt: 13.71°
         albedo: 0.30
-        temperature: 1156 K<br />(883 °C)
+        temperature: 272 K<br />(-1 °C)
       - name: 190 Noniashad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -221,14 +221,14 @@ planets:
         radius: 180,775.7 km<br/>(28.375 Yrths)
         surface_area: 4.107 × 10<sup>11</sup> km<sup>2</sup><br/>(805.128 Yrths)
         volume: 2.475 × 10<sup>16</sup> km<sup>3</sup><br/>(22845.313 Yrths)
-        mass: 5.164 × 10<sup>28</sup> kg<br />(217.37532095105428 Yrths)
+        mass: 5.164 × 10<sup>28</sup> kg<br />(8647.576 Yrths)
         density: 2.087 g/cm<sup>3</sup>
         surface_gravity: 105.330 m/s<sup>2</sup><br />(10.741 g<sub>0</sub>)
         escape_velocity: 195.279 km/s<br />(703,003 km/h)
         rotation_period: 38.293 d
         axial_tilt: 23.92°
         albedo: 0.30
-        temperature: 1002 K<br />(729 °C)
+        temperature: 272 K<br />(-1 °C)
       - name: 190 Noniashad II e
         type: Dwarf planet
         formationType: Captured
@@ -241,14 +241,14 @@ planets:
         radius: 170,774.9 km<br/>(26.805 Yrths)
         surface_area: 3.665 × 10<sup>11</sup> km<sup>2</sup><br/>(718.511 Yrths)
         volume: 2.086 × 10<sup>16</sup> km<sup>3</sup><br/>(19259.707 Yrths)
-        mass: 3.427 × 10<sup>28</sup> kg<br />(217.37532095105428 Yrths)
+        mass: 3.427 × 10<sup>28</sup> kg<br />(5737.857 Yrths)
         density: 1.643 g/cm<sup>3</sup>
         surface_gravity: 78.314 m/s<sup>2</sup><br />(7.986 g<sub>0</sub>)
         escape_velocity: 163.659 km/s<br />(589,173 km/h)
         rotation_period: 47.281 d
         axial_tilt: 23.23°
         albedo: 0.30
-        temperature: 911 K<br />(638 °C)
+        temperature: 272 K<br />(-1 °C)
       - name: 190 Noniashad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -261,14 +261,14 @@ planets:
         radius: 316,419.1 km<br/>(49.666 Yrths)
         surface_area: 1.258 × 10<sup>12</sup> km<sup>2</sup><br/>(2466.666 Yrths)
         volume: 1.327 × 10<sup>17</sup> km<sup>3</sup><br/>(122508.267 Yrths)
-        mass: 3.321 × 10<sup>29</sup> kg<br />(217.37532095105428 Yrths)
+        mass: 3.321 × 10<sup>29</sup> kg<br />(55617.846 Yrths)
         density: 2.503 g/cm<sup>3</sup>
         surface_gravity: 221.118 m/s<sup>2</sup><br />(22.548 g<sub>0</sub>)
         escape_velocity: 374.329 km/s<br />(1,347,584 km/h)
         rotation_period: 45.935 d
         axial_tilt: 13.36°
         albedo: 0.30
-        temperature: 467 K<br />(194 °C)
+        temperature: 272 K<br />(-1 °C)
       - name: 190 Noniashad II g
         type: Asteroid
         formationType: Captured
@@ -281,14 +281,14 @@ planets:
         radius: 159,351.4 km<br/>(25.012 Yrths)
         surface_area: 3.191 × 10<sup>11</sup> km<sup>2</sup><br/>(625.600 Yrths)
         volume: 1.695 × 10<sup>16</sup> km<sup>3</sup><br/>(15647.495 Yrths)
-        mass: 2.506 × 10<sup>28</sup> kg<br />(217.37532095105428 Yrths)
+        mass: 2.506 × 10<sup>28</sup> kg<br />(4196.667 Yrths)
         density: 1.479 g/cm<sup>3</sup>
         surface_gravity: 65.785 m/s<sup>2</sup><br />(6.708 g<sub>0</sub>)
         escape_velocity: 144.895 km/s<br />(521,620 km/h)
         rotation_period: 65.181 d
         axial_tilt: 8.10°
         albedo: 0.30
-        temperature: 386 K<br />(113 °C)
+        temperature: 272 K<br />(-1 °C)
   - name: 190 Noniashad III
     type: Gas dwarf
     aphelion: 643,177,179 km<br />4.299 AU
@@ -300,14 +300,14 @@ planets:
     radius: 18,024.0 km<br/>(2.829 Yrths)
     surface_area: 4.082 × 10<sup>09</sup> km<sup>2</sup><br/>(8.004 Yrths)
     volume: 2.453 × 10<sup>13</sup> km<sup>3</sup><br/>(22.643 Yrths)
-    mass: 5.007 × 10<sup>25</sup> kg<br />(8.38472501568464 Yrths)
+    mass: 5.007 × 10<sup>25</sup> kg<br />(8.38 Yrths)
     density: 2.042 g/cm<sup>3</sup>
     surface_gravity: 10.274 m/s<sup>2</sup><br />(1.048 g<sub>0</sub>)
     escape_velocity: 19.257 km/s<br />(69,326 km/h)
     rotation_period: 0.415 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 325 K<br />(52 °C)
+    temperature: 293 K<br />(20 °C)
     composition:
       - 71.9220% hydrogen
       - 23.8946% helium
@@ -327,14 +327,14 @@ planets:
         radius: 21,475.5 km<br/>(3.371 Yrths)
         surface_area: 5.796 × 10<sup>09</sup> km<sup>2</sup><br/>(11.362 Yrths)
         volume: 4.149 × 10<sup>13</sup> km<sup>3</sup><br/>(38.301 Yrths)
-        mass: 5.706 × 10<sup>25</sup> kg<br />(8.38472501568464 Yrths)
+        mass: 5.706 × 10<sup>25</sup> kg<br />(9.555 Yrths)
         density: 1.375 g/cm<sup>3</sup>
         surface_gravity: 8.247 m/s<sup>2</sup><br />(0.841 g<sub>0</sub>)
         escape_velocity: 18.833 km/s<br />(67,799 km/h)
         rotation_period: 77.808 d
         axial_tilt: 13.98°
         albedo: 0.30
-        temperature: 2148 K<br />(1875 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 190 Noniashad III b
         type: Icy
         formationType: Captured
@@ -347,12 +347,12 @@ planets:
         radius: 6,649.9 km<br/>(1.044 Yrths)
         surface_area: 5.557 × 10<sup>08</sup> km<sup>2</sup><br/>(1.089 Yrths)
         volume: 1.232 × 10<sup>12</sup> km<sup>3</sup><br/>(1.137 Yrths)
-        mass: 1.089 × 10<sup>24</sup> kg<br />(8.38472501568464 Yrths)
+        mass: 1.089 × 10<sup>24</sup> kg<br />(0.182 Yrths)
         density: 0.884 g/cm<sup>3</sup>
         surface_gravity: 1.641 m/s<sup>2</sup><br />(0.167 g<sub>0</sub>)
         escape_velocity: 4.675 km/s<br />(16,831 km/h)
         rotation_period: 72.566 d
         axial_tilt: 10.40°
         albedo: 0.30
-        temperature: 2048 K<br />(1775 °C)
+        temperature: 201 K<br />(-72 °C)
 ---

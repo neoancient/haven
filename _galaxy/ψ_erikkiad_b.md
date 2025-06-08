@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Erikkiad B is a star in the constellation Erik
+      ψ Erikkiad B is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1160.67 ly
 apparent_magnitude: 16.51
 absolute_magnitude: 8.76

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4191 Arkothiad is a star in the constellation Arkoth
+      4191 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1400.56 ly
 apparent_magnitude: 6.67
 absolute_magnitude: -1.50
@@ -31,14 +31,14 @@ planets:
     radius: 23,548.4 km<br/>(3.696 Yrths)
     surface_area: 6.968 × 10<sup>09</sup> km<sup>2</sup><br/>(13.662 Yrths)
     volume: 5.470 × 10<sup>13</sup> km<sup>3</sup><br/>(50.496 Yrths)
-    mass: 6.478 × 10<sup>25</sup> kg<br />(10.847961904037737 Yrths)
+    mass: 6.478 × 10<sup>25</sup> kg<br />(10.85 Yrths)
     density: 1.184 g/cm<sup>3</sup>
     surface_gravity: 7.787 m/s<sup>2</sup><br />(0.794 g<sub>0</sub>)
     escape_velocity: 19.163 km/s<br />(68,988 km/h)
     rotation_period: 0.369 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 692 K<br />(419 °C)
+    temperature: 637 K<br />(364 °C)
     composition:
       - 83.8364% hydrogen
       - 12.6965% helium
@@ -58,14 +58,14 @@ planets:
         radius: 40,857.7 km<br/>(6.413 Yrths)
         surface_area: 2.098 × 10<sup>10</sup> km<sup>2</sup><br/>(41.127 Yrths)
         volume: 2.857 × 10<sup>14</sup> km<sup>3</sup><br/>(263.754 Yrths)
-        mass: 2.522 × 10<sup>26</sup> kg<br />(10.847961904037737 Yrths)
+        mass: 2.522 × 10<sup>26</sup> kg<br />(42.231 Yrths)
         density: 0.883 g/cm<sup>3</sup>
         surface_gravity: 10.070 m/s<sup>2</sup><br />(1.027 g<sub>0</sub>)
         escape_velocity: 28.705 km/s<br />(103,338 km/h)
         rotation_period: 90.517 d
         axial_tilt: 25.45°
         albedo: 0.30
-        temperature: 3953 K<br />(3680 °C)
+        temperature: 345 K<br />(71 °C)
       - name: 4191 Arkothiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 6,834.7 km<br/>(1.073 Yrths)
         surface_area: 5.870 × 10<sup>08</sup> km<sup>2</sup><br/>(1.151 Yrths)
         volume: 1.337 × 10<sup>12</sup> km<sup>3</sup><br/>(1.235 Yrths)
-        mass: 2.852 × 10<sup>24</sup> kg<br />(10.847961904037737 Yrths)
+        mass: 2.852 × 10<sup>24</sup> kg<br />(0.478 Yrths)
         density: 2.133 g/cm<sup>3</sup>
         surface_gravity: 4.070 m/s<sup>2</sup><br />(0.415 g<sub>0</sub>)
         escape_velocity: 7.464 km/s<br />(26,869 km/h)
         rotation_period: 36.261 d
         axial_tilt: 12.60°
         albedo: 0.30
-        temperature: 3769 K<br />(3496 °C)
+        temperature: 345 K<br />(71 °C)
       - name: 4191 Arkothiad I c
         type: Icy
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 22,999.0 km<br/>(3.610 Yrths)
         surface_area: 6.647 × 10<sup>09</sup> km<sup>2</sup><br/>(13.032 Yrths)
         volume: 5.096 × 10<sup>13</sup> km<sup>3</sup><br/>(47.044 Yrths)
-        mass: 5.827 × 10<sup>25</sup> kg<br />(10.847961904037737 Yrths)
+        mass: 5.827 × 10<sup>25</sup> kg<br />(9.757 Yrths)
         density: 1.143 g/cm<sup>3</sup>
         surface_gravity: 7.342 m/s<sup>2</sup><br />(0.749 g<sub>0</sub>)
         escape_velocity: 18.390 km/s<br />(66,204 km/h)
         rotation_period: 51.898 d
         axial_tilt: 23.77°
         albedo: 0.30
-        temperature: 3594 K<br />(3321 °C)
+        temperature: 345 K<br />(71 °C)
       - name: 4191 Arkothiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 7,666.0 km<br/>(1.203 Yrths)
         surface_area: 7.385 × 10<sup>08</sup> km<sup>2</sup><br/>(1.448 Yrths)
         volume: 1.887 × 10<sup>12</sup> km<sup>3</sup><br/>(1.742 Yrths)
-        mass: 4.434 × 10<sup>24</sup> kg<br />(10.847961904037737 Yrths)
+        mass: 4.434 × 10<sup>24</sup> kg<br />(0.742 Yrths)
         density: 2.349 g/cm<sup>3</sup>
         surface_gravity: 5.029 m/s<sup>2</sup><br />(0.513 g<sub>0</sub>)
         escape_velocity: 8.786 km/s<br />(31,631 km/h)
         rotation_period: 42.081 d
         axial_tilt: 9.72°
         albedo: 0.30
-        temperature: 3427 K<br />(3153 °C)
+        temperature: 345 K<br />(71 °C)
       - name: 4191 Arkothiad I e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -138,14 +138,14 @@ planets:
         radius: 13,050.5 km<br/>(2.048 Yrths)
         surface_area: 2.140 × 10<sup>09</sup> km<sup>2</sup><br/>(4.196 Yrths)
         volume: 9.310 × 10<sup>12</sup> km<sup>3</sup><br/>(8.595 Yrths)
-        mass: 2.175 × 10<sup>25</sup> kg<br />(10.847961904037737 Yrths)
+        mass: 2.175 × 10<sup>25</sup> kg<br />(3.642 Yrths)
         density: 2.336 g/cm<sup>3</sup>
         surface_gravity: 8.512 m/s<sup>2</sup><br />(0.868 g<sub>0</sub>)
         escape_velocity: 14.916 km/s<br />(53,697 km/h)
         rotation_period: 60.126 d
         axial_tilt: 24.92°
         albedo: 0.30
-        temperature: 3267 K<br />(2994 °C)
+        temperature: 345 K<br />(71 °C)
       - name: 4191 Arkothiad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -158,12 +158,12 @@ planets:
         radius: 6,487.7 km<br/>(1.018 Yrths)
         surface_area: 5.289 × 10<sup>08</sup> km<sup>2</sup><br/>(1.037 Yrths)
         volume: 1.144 × 10<sup>12</sup> km<sup>3</sup><br/>(1.056 Yrths)
-        mass: 2.844 × 10<sup>24</sup> kg<br />(10.847961904037737 Yrths)
+        mass: 2.844 × 10<sup>24</sup> kg<br />(0.476 Yrths)
         density: 2.486 g/cm<sup>3</sup>
         surface_gravity: 4.503 m/s<sup>2</sup><br />(0.459 g<sub>0</sub>)
         escape_velocity: 7.649 km/s<br />(27,537 km/h)
         rotation_period: 39.552 d
         axial_tilt: 26.25°
         albedo: 0.30
-        temperature: 3115 K<br />(2842 °C)
+        temperature: 345 K<br />(71 °C)
 ---

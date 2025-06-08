@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5571 Narashiad is a star in the constellation Naras
+      5571 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 385.12 ly
 apparent_magnitude: 10.71
 absolute_magnitude: 5.35

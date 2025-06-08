@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13953 Narashiad is a star in the constellation Naras
+      13953 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 488.19 ly
 apparent_magnitude: 11.22
 absolute_magnitude: 5.35

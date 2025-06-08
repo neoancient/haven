@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5429 Athiad A is a star in the constellation Ath
+      5429 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 160.71 ly
 apparent_magnitude: 7.48
 absolute_magnitude: 4.01

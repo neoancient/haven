@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      208 Reggiad is a star in the constellation Reg
+      208 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 521.58 ly
 apparent_magnitude: 10.88
 absolute_magnitude: 4.86

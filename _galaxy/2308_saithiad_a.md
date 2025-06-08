@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2308 Saithiad A is a star in the constellation Saith
+      2308 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 222.91 ly
 apparent_magnitude: 8.04
 absolute_magnitude: 3.87

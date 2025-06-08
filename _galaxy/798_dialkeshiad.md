@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      798 Dialkeshiad is a star in the constellation Dialkes
+      798 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 528.96 ly
 apparent_magnitude: 11.88
 absolute_magnitude: 5.83

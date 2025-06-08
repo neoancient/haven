@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11652 Dialkeshiad is a star in the constellation Dialkes
+      11652 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 941.11 ly
 apparent_magnitude: 17.31
 absolute_magnitude: 10.01

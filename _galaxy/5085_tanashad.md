@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5085 Tanashad is a star in the constellation Tanas
+      5085 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 331.31 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 5.76

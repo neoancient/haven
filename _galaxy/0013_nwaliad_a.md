@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0013 Nwaliad A is a star in the constellation Nwal
+      0013 Nwaliad A is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 188.41 ly
 apparent_magnitude: 6.52
 absolute_magnitude: 2.71

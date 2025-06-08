@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2194 Anilliad A is a star in the constellation Anil
+      2194 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 420.34 ly
 apparent_magnitude: 8.46
 absolute_magnitude: 2.91

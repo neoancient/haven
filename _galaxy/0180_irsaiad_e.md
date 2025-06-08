@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0180 Irsaiad E is a star in the constellation Irsa
+      0180 Irsaiad E is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 188.01 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 6.18

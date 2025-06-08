@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5707 Arkothiad is a star in the constellation Arkoth
+      5707 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1037.13 ly
 apparent_magnitude: 16.69
 absolute_magnitude: 9.18

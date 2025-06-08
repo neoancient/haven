@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2624 Noniashad A is a star in the constellation Nonias
+      2624 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 748.07 ly
 apparent_magnitude: 7.41
 absolute_magnitude: 0.61

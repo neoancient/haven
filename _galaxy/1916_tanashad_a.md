@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1916 Tanashad A is a star in the constellation Tanas
+      1916 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 527.32 ly
 apparent_magnitude: 7.76
 absolute_magnitude: 1.71

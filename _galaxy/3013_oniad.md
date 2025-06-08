@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3013 Oniad is a star in the constellation Oni
+      3013 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 626.35 ly
 apparent_magnitude: 11.26
 absolute_magnitude: 4.84

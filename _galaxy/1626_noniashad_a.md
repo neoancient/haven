@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1626 Noniashad A is a star in the constellation Nonias
+      1626 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 295.34 ly
 apparent_magnitude: 9.63
 absolute_magnitude: 4.84

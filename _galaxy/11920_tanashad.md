@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11920 Tanashad is a star in the constellation Tanas
+      11920 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 179.17 ly
 apparent_magnitude: 10.42
 absolute_magnitude: 6.72
@@ -31,14 +31,14 @@ planets:
     radius: 3,880.2 km<br/>(0.609 Yrths)
     surface_area: 1.892 × 10<sup>08</sup> km<sup>2</sup><br/>(0.371 Yrths)
     volume: 2.447 × 10<sup>11</sup> km<sup>3</sup><br/>(0.226 Yrths)
-    mass: 1.441 × 10<sup>24</sup> kg<br />(0.24128151663269562 Yrths)
+    mass: 1.441 × 10<sup>24</sup> kg<br />(0.24 Yrths)
     density: 5.888 g/cm<sup>3</sup>
     surface_gravity: 6.379 m/s<sup>2</sup><br />(0.650 g<sub>0</sub>)
     escape_velocity: 7.041 km/s<br />(25,346 km/h)
     rotation_period: 6.296 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 397 K<br />(124 °C)
+    temperature: 902 K<br />(629 °C)
     surface_pressure: 9 kPa<br />(0 atm)
     composition:
       - 50.8512% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 864.4 km<br/>(0.136 Yrths)
         surface_area: 9.389 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.705 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.326 × 10<sup>21</sup> kg<br />(0.24128151663269562 Yrths)
+        mass: 4.326 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.599 g/cm<sup>3</sup>
         surface_gravity: 0.386 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.817 km/s<br />(2,943 km/h)
         rotation_period: 60.004 d
         axial_tilt: 14.83°
         albedo: 0.30
-        temperature: 6311 K<br />(6038 °C)
+        temperature: 318 K<br />(45 °C)
   - name: 11920 Tanashad II
     type: Large terrestrial
     aphelion: 79,969,578 km<br />0.535 AU
@@ -78,14 +78,14 @@ planets:
     radius: 6,750.4 km<br/>(1.060 Yrths)
     surface_area: 5.726 × 10<sup>08</sup> km<sup>2</sup><br/>(1.123 Yrths)
     volume: 1.288 × 10<sup>12</sup> km<sup>3</sup><br/>(1.190 Yrths)
-    mass: 8.940 × 10<sup>24</sup> kg<br />(1.4969648370177622 Yrths)
+    mass: 8.940 × 10<sup>24</sup> kg<br />(1.50 Yrths)
     density: 6.938 g/cm<sup>3</sup>
     surface_gravity: 13.076 m/s<sup>2</sup><br />(1.333 g<sub>0</sub>)
     escape_velocity: 13.296 km/s<br />(47,865 km/h)
     rotation_period: 1.955 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 377 K<br />(103 °C)
+    temperature: 850 K<br />(577 °C)
     surface_pressure: 178 kPa<br />(2 atm)
     composition:
       - 65.6018% carbon dioxide
@@ -103,14 +103,14 @@ planets:
         radius: 4,589.5 km<br/>(0.720 Yrths)
         surface_area: 2.647 × 10<sup>08</sup> km<sup>2</sup><br/>(0.519 Yrths)
         volume: 4.049 × 10<sup>11</sup> km<sup>3</sup><br/>(0.374 Yrths)
-        mass: 5.121 × 10<sup>23</sup> kg<br />(1.4969648370177622 Yrths)
+        mass: 5.121 × 10<sup>23</sup> kg<br />(0.086 Yrths)
         density: 1.265 g/cm<sup>3</sup>
         surface_gravity: 1.621 m/s<sup>2</sup><br />(0.165 g<sub>0</sub>)
         escape_velocity: 3.859 km/s<br />(13,894 km/h)
         rotation_period: 44.565 d
         axial_tilt: 14.04°
         albedo: 0.30
-        temperature: 3787 K<br />(3514 °C)
+        temperature: 251 K<br />(-22 °C)
       - name: 11920 Tanashad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -123,14 +123,14 @@ planets:
         radius: 2,395.8 km<br/>(0.376 Yrths)
         surface_area: 7.213 × 10<sup>07</sup> km<sup>2</sup><br/>(0.141 Yrths)
         volume: 5.761 × 10<sup>10</sup> km<sup>3</sup><br/>(0.053 Yrths)
-        mass: 1.102 × 10<sup>23</sup> kg<br />(1.4969648370177622 Yrths)
+        mass: 1.102 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 1.913 g/cm<sup>3</sup>
         surface_gravity: 1.280 m/s<sup>2</sup><br />(0.131 g<sub>0</sub>)
         escape_velocity: 2.478 km/s<br />(8,921 km/h)
         rotation_period: 48.805 d
         axial_tilt: 20.66°
         albedo: 0.30
-        temperature: 3611 K<br />(3338 °C)
+        temperature: 251 K<br />(-22 °C)
   - name: 11920 Tanashad III
     type: Large terrestrial
     aphelion: 131,039,348 km<br />0.876 AU
@@ -142,14 +142,14 @@ planets:
     radius: 9,305.6 km<br/>(1.461 Yrths)
     surface_area: 1.088 × 10<sup>09</sup> km<sup>2</sup><br/>(2.133 Yrths)
     volume: 3.375 × 10<sup>12</sup> km<sup>3</sup><br/>(3.116 Yrths)
-    mass: 2.243 × 10<sup>25</sup> kg<br />(3.7554236309267806 Yrths)
+    mass: 2.243 × 10<sup>25</sup> kg<br />(3.76 Yrths)
     density: 6.644 g/cm<sup>3</sup>
     surface_gravity: 17.262 m/s<sup>2</sup><br />(1.760 g<sub>0</sub>)
     escape_velocity: 17.936 km/s<br />(64,571 km/h)
     rotation_period: 1.281 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 251 K<br />(-22 °C)
+    temperature: 312 K<br />(39 °C)
     surface_pressure: 127 kPa<br />(1 atm)
     composition:
       - 80.9713% nitrogen
@@ -169,14 +169,14 @@ planets:
         radius: 6,166.7 km<br/>(0.968 Yrths)
         surface_area: 4.779 × 10<sup>08</sup> km<sup>2</sup><br/>(0.937 Yrths)
         volume: 9.823 × 10<sup>11</sup> km<sup>3</sup><br/>(0.907 Yrths)
-        mass: 1.212 × 10<sup>24</sup> kg<br />(3.7554236309267806 Yrths)
+        mass: 1.212 × 10<sup>24</sup> kg<br />(0.203 Yrths)
         density: 1.234 g/cm<sup>3</sup>
         surface_gravity: 2.124 m/s<sup>2</sup><br />(0.217 g<sub>0</sub>)
         escape_velocity: 5.122 km/s<br />(18,440 km/h)
         rotation_period: 47.897 d
         axial_tilt: 14.77°
         albedo: 0.30
-        temperature: 2214 K<br />(1941 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 11920 Tanashad III b
         type: Icy
         formationType: Accreted
@@ -189,14 +189,14 @@ planets:
         radius: 10,227.2 km<br/>(1.605 Yrths)
         surface_area: 1.314 × 10<sup>09</sup> km<sup>2</sup><br/>(2.577 Yrths)
         volume: 4.481 × 10<sup>12</sup> km<sup>3</sup><br/>(4.137 Yrths)
-        mass: 5.559 × 10<sup>24</sup> kg<br />(3.7554236309267806 Yrths)
+        mass: 5.559 × 10<sup>24</sup> kg<br />(0.931 Yrths)
         density: 1.241 g/cm<sup>3</sup>
         surface_gravity: 3.543 m/s<sup>2</sup><br />(0.361 g<sub>0</sub>)
         escape_velocity: 8.518 km/s<br />(30,666 km/h)
         rotation_period: 77.318 d
         axial_tilt: 12.95°
         albedo: 0.30
-        temperature: 2111 K<br />(1838 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 11920 Tanashad III c
         type: Rocky
         formationType: Impact formed
@@ -209,14 +209,14 @@ planets:
         radius: 2,378.0 km<br/>(0.373 Yrths)
         surface_area: 7.106 × 10<sup>07</sup> km<sup>2</sup><br/>(0.139 Yrths)
         volume: 5.633 × 10<sup>10</sup> km<sup>3</sup><br/>(0.052 Yrths)
-        mass: 1.635 × 10<sup>23</sup> kg<br />(3.7554236309267806 Yrths)
+        mass: 1.635 × 10<sup>23</sup> kg<br />(0.027 Yrths)
         density: 2.903 g/cm<sup>3</sup>
         surface_gravity: 1.927 m/s<sup>2</sup><br />(0.197 g<sub>0</sub>)
         escape_velocity: 3.030 km/s<br />(10,907 km/h)
         rotation_period: 33.867 d
         axial_tilt: 11.60°
         albedo: 0.30
-        temperature: 2013 K<br />(1740 °C)
+        temperature: 198 K<br />(-75 °C)
   - name: 11920 Tanashad IV
     type: Gas giant
     aphelion: 217,911,687 km<br />1.457 AU
@@ -228,7 +228,7 @@ planets:
     radius: 224.7 km<br/>(0.035 Yrths)
     surface_area: 6.346 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.754 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.670 × 10<sup>27</sup> kg<br />(279.55602103624915 Yrths)
+    mass: 1.670 × 10<sup>27</sup> kg<br />(279.56 Yrths)
     density: 35119615.143 g/cm<sup>3</sup>
     surface_gravity: 2203456.806 m/s<sup>2</sup><br />(224690.063 g<sub>0</sub>)
     escape_velocity: 995.834 km/s<br />(3,585,004 km/h)
@@ -249,14 +249,14 @@ planets:
         radius: 241,044.2 km<br/>(37.835 Yrths)
         surface_area: 7.301 × 10<sup>11</sup> km<sup>2</sup><br/>(1431.456 Yrths)
         volume: 5.866 × 10<sup>16</sup> km<sup>3</sup><br/>(54158.560 Yrths)
-        mass: 7.374 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 7.374 × 10<sup>28</sup> kg<br />(12347.397 Yrths)
         density: 1.257 g/cm<sup>3</sup>
         surface_gravity: 84.590 m/s<sup>2</sup><br />(8.626 g<sub>0</sub>)
         escape_velocity: 202.077 km/s<br />(727,478 km/h)
         rotation_period: 60.448 d
         axial_tilt: 17.90°
         albedo: 0.30
-        temperature: 813 K<br />(540 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV b
         type: Icy
         formationType: Impact formed
@@ -269,14 +269,14 @@ planets:
         radius: 178,296.3 km<br/>(27.986 Yrths)
         surface_area: 3.995 × 10<sup>11</sup> km<sup>2</sup><br/>(783.194 Yrths)
         volume: 2.374 × 10<sup>16</sup> km<sup>3</sup><br/>(21918.160 Yrths)
-        mass: 2.858 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 2.858 × 10<sup>28</sup> kg<br />(4785.207 Yrths)
         density: 1.204 g/cm<sup>3</sup>
         surface_gravity: 59.917 m/s<sup>2</sup><br />(6.110 g<sub>0</sub>)
         escape_velocity: 146.271 km/s<br />(526,574 km/h)
         rotation_period: 45.300 d
         axial_tilt: 19.43°
         albedo: 0.30
-        temperature: 672 K<br />(398 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -289,14 +289,14 @@ planets:
         radius: 139,851.3 km<br/>(21.951 Yrths)
         surface_area: 2.458 × 10<sup>11</sup> km<sup>2</sup><br/>(481.857 Yrths)
         volume: 1.146 × 10<sup>16</sup> km<sup>3</sup><br/>(10577.355 Yrths)
-        mass: 2.822 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 2.822 × 10<sup>28</sup> kg<br />(4725.521 Yrths)
         density: 2.463 g/cm<sup>3</sup>
         surface_gravity: 96.173 m/s<sup>2</sup><br />(9.807 g<sub>0</sub>)
         escape_velocity: 164.123 km/s<br />(590,843 km/h)
         rotation_period: 43.317 d
         axial_tilt: 23.34°
         albedo: 0.30
-        temperature: 640 K<br />(367 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV d
         type: Icy
         formationType: Accreted
@@ -309,14 +309,14 @@ planets:
         radius: 204,762.9 km<br/>(32.140 Yrths)
         surface_area: 5.269 × 10<sup>11</sup> km<sup>2</sup><br/>(1032.969 Yrths)
         volume: 3.596 × 10<sup>16</sup> km<sup>3</sup><br/>(33199.455 Yrths)
-        mass: 5.121 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 5.121 × 10<sup>28</sup> kg<br />(8575.052 Yrths)
         density: 1.424 g/cm<sup>3</sup>
         surface_gravity: 81.409 m/s<sup>2</sup><br />(8.301 g<sub>0</sub>)
         escape_velocity: 182.713 km/s<br />(657,768 km/h)
         rotation_period: 47.899 d
         axial_tilt: 18.20°
         albedo: 0.30
-        temperature: 555 K<br />(282 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV e
         type: Icy
         formationType: Impact formed
@@ -329,14 +329,14 @@ planets:
         radius: 229,522.1 km<br/>(36.026 Yrths)
         surface_area: 6.620 × 10<sup>11</sup> km<sup>2</sup><br/>(1297.877 Yrths)
         volume: 5.065 × 10<sup>16</sup> km<sup>3</sup><br/>(46757.421 Yrths)
-        mass: 6.671 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 6.671 × 10<sup>28</sup> kg<br />(11170.766 Yrths)
         density: 1.317 g/cm<sup>3</sup>
         surface_gravity: 84.405 m/s<sup>2</sup><br />(8.607 g<sub>0</sub>)
         escape_velocity: 196.973 km/s<br />(709,103 km/h)
         rotation_period: 67.860 d
         axial_tilt: 23.26°
         albedo: 0.30
-        temperature: 459 K<br />(186 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV f
         type: Ice/rock hybrid
         formationType: Captured
@@ -349,14 +349,14 @@ planets:
         radius: 173,197.2 km<br/>(27.185 Yrths)
         surface_area: 3.770 × 10<sup>11</sup> km<sup>2</sup><br/>(739.037 Yrths)
         volume: 2.176 × 10<sup>16</sup> km<sup>3</sup><br/>(20090.906 Yrths)
-        mass: 4.427 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 4.427 × 10<sup>28</sup> kg<br />(7412.408 Yrths)
         density: 2.034 g/cm<sup>3</sup>
         surface_gravity: 98.359 m/s<sup>2</sup><br />(10.030 g<sub>0</sub>)
         escape_velocity: 184.709 km/s<br />(664,951 km/h)
         rotation_period: 50.141 d
         axial_tilt: 9.58°
         albedo: 0.30
-        temperature: 398 K<br />(124 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV g
         type: Icy
         formationType: Accreted
@@ -369,14 +369,14 @@ planets:
         radius: 157,856.9 km<br/>(24.777 Yrths)
         surface_area: 3.131 × 10<sup>11</sup> km<sup>2</sup><br/>(613.920 Yrths)
         volume: 1.648 × 10<sup>16</sup> km<sup>3</sup><br/>(15211.362 Yrths)
-        mass: 2.675 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 2.675 × 10<sup>28</sup> kg<br />(4479.157 Yrths)
         density: 1.623 g/cm<sup>3</sup>
         surface_gravity: 71.549 m/s<sup>2</sup><br />(7.296 g<sub>0</sub>)
         escape_velocity: 150.399 km/s<br />(541,435 km/h)
         rotation_period: 41.642 d
         axial_tilt: 12.20°
         albedo: 0.30
-        temperature: 235 K<br />(-38 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -389,14 +389,14 @@ planets:
         radius: 152,799.9 km<br/>(23.984 Yrths)
         surface_area: 2.934 × 10<sup>11</sup> km<sup>2</sup><br/>(575.216 Yrths)
         volume: 1.494 × 10<sup>16</sup> km<sup>3</sup><br/>(13795.791 Yrths)
-        mass: 4.184 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 4.184 × 10<sup>28</sup> kg<br />(7006.422 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 119.450 m/s<sup>2</sup><br />(12.181 g<sub>0</sub>)
         escape_velocity: 191.190 km/s<br />(688,283 km/h)
         rotation_period: 38.548 d
         axial_tilt: 29.64°
         albedo: 0.30
-        temperature: 161 K<br />(-112 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV i
         type: Asteroid
         formationType: Captured
@@ -409,14 +409,14 @@ planets:
         radius: 214,110.9 km<br/>(33.607 Yrths)
         surface_area: 5.761 × 10<sup>11</sup> km<sup>2</sup><br/>(1129.438 Yrths)
         volume: 4.112 × 10<sup>16</sup> km<sup>3</sup><br/>(37957.139 Yrths)
-        mass: 7.475 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 7.475 × 10<sup>28</sup> kg<br />(12516.980 Yrths)
         density: 1.818 g/cm<sup>3</sup>
         surface_gravity: 108.682 m/s<sup>2</sup><br />(11.082 g<sub>0</sub>)
         escape_velocity: 215.878 km/s<br />(777,160 km/h)
         rotation_period: 51.835 d
         axial_tilt: 52.15°
         albedo: 0.30
-        temperature: 110 K<br />(-163 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -429,14 +429,14 @@ planets:
         radius: 201,016.2 km<br/>(31.552 Yrths)
         surface_area: 5.078 × 10<sup>11</sup> km<sup>2</sup><br/>(995.513 Yrths)
         volume: 3.402 × 10<sup>16</sup> km<sup>3</sup><br/>(31410.185 Yrths)
-        mass: 7.923 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 7.923 × 10<sup>28</sup> kg<br />(13266.854 Yrths)
         density: 2.329 g/cm<sup>3</sup>
         surface_gravity: 130.690 m/s<sup>2</sup><br />(13.327 g<sub>0</sub>)
         escape_velocity: 229.375 km/s<br />(825,750 km/h)
         rotation_period: 47.160 d
         axial_tilt: 24.39°
         albedo: 0.30
-        temperature: 100 K<br />(-173 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV k
         type: Icy
         formationType: Captured
@@ -449,14 +449,14 @@ planets:
         radius: 181,109.5 km<br/>(28.427 Yrths)
         surface_area: 4.122 × 10<sup>11</sup> km<sup>2</sup><br/>(808.104 Yrths)
         volume: 2.488 × 10<sup>16</sup> km<sup>3</sup><br/>(22972.109 Yrths)
-        mass: 3.285 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 3.285 × 10<sup>28</sup> kg<br />(5500.229 Yrths)
         density: 1.320 g/cm<sup>3</sup>
         surface_gravity: 66.747 m/s<sup>2</sup><br />(6.806 g<sub>0</sub>)
         escape_velocity: 155.596 km/s<br />(560,144 km/h)
         rotation_period: 52.367 d
         axial_tilt: 17.78°
         albedo: 0.30
-        temperature: 95 K<br />(-178 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 11920 Tanashad IV l
         type: Ice/rock hybrid
         formationType: Accreted
@@ -469,14 +469,14 @@ planets:
         radius: 177,172.4 km<br/>(27.809 Yrths)
         surface_area: 3.945 × 10<sup>11</sup> km<sup>2</sup><br/>(773.352 Yrths)
         volume: 2.330 × 10<sup>16</sup> km<sup>3</sup><br/>(21506.289 Yrths)
-        mass: 6.315 × 10<sup>28</sup> kg<br />(279.55602103624915 Yrths)
+        mass: 6.315 × 10<sup>28</sup> kg<br />(10574.905 Yrths)
         density: 2.711 g/cm<sup>3</sup>
         surface_gravity: 134.097 m/s<sup>2</sup><br />(13.674 g<sub>0</sub>)
         escape_velocity: 218.131 km/s<br />(785,273 km/h)
         rotation_period: 38.591 d
         axial_tilt: 24.62°
         albedo: 0.30
-        temperature: 87 K<br />(-187 °C)
+        temperature: 157 K<br />(-116 °C)
   - name: 11920 Tanashad V
     type: Terrestrial
     aphelion: 338,194,794 km<br />2.261 AU
@@ -488,7 +488,7 @@ planets:
     radius: 6,739.5 km<br/>(1.058 Yrths)
     surface_area: 5.708 × 10<sup>08</sup> km<sup>2</sup><br/>(1.119 Yrths)
     volume: 1.282 × 10<sup>12</sup> km<sup>3</sup><br/>(1.184 Yrths)
-    mass: 6.661 × 10<sup>24</sup> kg<br />(1.1154371973715358 Yrths)
+    mass: 6.661 × 10<sup>24</sup> kg<br />(1.12 Yrths)
     density: 5.195 g/cm<sup>3</sup>
     surface_gravity: 9.775 m/s<sup>2</sup><br />(0.997 g<sub>0</sub>)
     escape_velocity: 11.486 km/s<br />(41,351 km/h)
@@ -509,14 +509,14 @@ planets:
         radius: 1,086.3 km<br/>(0.171 Yrths)
         surface_area: 1.483 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.369 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 8.764 × 10<sup>21</sup> kg<br />(1.1154371973715358 Yrths)
+        mass: 8.764 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.632 g/cm<sup>3</sup>
         surface_gravity: 0.495 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
         escape_velocity: 1.038 km/s<br />(3,736 km/h)
         rotation_period: 51.202 d
         axial_tilt: 19.51°
         albedo: 0.30
-        temperature: 1612 K<br />(1339 °C)
+        temperature: 124 K<br />(-149 °C)
       - name: 11920 Tanashad V b
         type: Asteroid
         formationType: Captured
@@ -529,14 +529,14 @@ planets:
         radius: 3,176.9 km<br/>(0.499 Yrths)
         surface_area: 1.268 × 10<sup>08</sup> km<sup>2</sup><br/>(0.249 Yrths)
         volume: 1.343 × 10<sup>11</sup> km<sup>3</sup><br/>(0.124 Yrths)
-        mass: 4.398 × 10<sup>23</sup> kg<br />(1.1154371973715358 Yrths)
+        mass: 4.398 × 10<sup>23</sup> kg<br />(0.074 Yrths)
         density: 3.275 g/cm<sup>3</sup>
         surface_gravity: 2.905 m/s<sup>2</sup><br />(0.296 g<sub>0</sub>)
         escape_velocity: 4.299 km/s<br />(15,476 km/h)
         rotation_period: 35.681 d
         axial_tilt: 42.87°
         albedo: 0.30
-        temperature: 1537 K<br />(1264 °C)
+        temperature: 124 K<br />(-149 °C)
   - name: 11920 Tanashad VI
     type: Gas giant
     aphelion: 571,503,967 km<br />3.820 AU
@@ -548,7 +548,7 @@ planets:
     radius: 193.1 km<br/>(0.030 Yrths)
     surface_area: 4.688 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.018 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.666 × 10<sup>26</sup> kg<br />(145.11265845717375 Yrths)
+    mass: 8.666 × 10<sup>26</sup> kg<br />(145.11 Yrths)
     density: 28713273.571 g/cm<sup>3</sup>
     surface_gravity: 1548360.195 m/s<sup>2</sup><br />(157888.799 g<sub>0</sub>)
     escape_velocity: 773.906 km/s<br />(2,786,061 km/h)
@@ -569,14 +569,14 @@ planets:
         radius: 139,997.1 km<br/>(21.974 Yrths)
         surface_area: 2.463 × 10<sup>11</sup> km<sup>2</sup><br/>(482.862 Yrths)
         volume: 1.149 × 10<sup>16</sup> km<sup>3</sup><br/>(10610.473 Yrths)
-        mass: 8.500 × 10<sup>27</sup> kg<br />(145.11265845717375 Yrths)
+        mass: 8.500 × 10<sup>27</sup> kg<br />(1423.292 Yrths)
         density: 0.740 g/cm<sup>3</sup>
         surface_gravity: 28.906 m/s<sup>2</sup><br />(2.948 g<sub>0</sub>)
         escape_velocity: 90.025 km/s<br />(324,091 km/h)
         rotation_period: 81.311 d
         axial_tilt: 15.31°
         albedo: 0.30
-        temperature: 277 K<br />(4 °C)
+        temperature: 98 K<br />(-175 °C)
       - name: 11920 Tanashad VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -589,14 +589,14 @@ planets:
         radius: 110,196.9 km<br/>(17.297 Yrths)
         surface_area: 1.526 × 10<sup>11</sup> km<sup>2</sup><br/>(299.174 Yrths)
         volume: 5.605 × 10<sup>15</sup> km<sup>3</sup><br/>(5174.704 Yrths)
-        mass: 1.404 × 10<sup>28</sup> kg<br />(145.11265845717375 Yrths)
+        mass: 1.404 × 10<sup>28</sup> kg<br />(2350.745 Yrths)
         density: 2.505 g/cm<sup>3</sup>
         surface_gravity: 77.055 m/s<sup>2</sup><br />(7.857 g<sub>0</sub>)
         escape_velocity: 130.405 km/s<br />(469,460 km/h)
         rotation_period: 37.823 d
         axial_tilt: 32.50°
         albedo: 0.30
-        temperature: 208 K<br />(-65 °C)
+        temperature: 98 K<br />(-175 °C)
       - name: 11920 Tanashad VI c
         type: Icy
         formationType: Impact formed
@@ -609,14 +609,14 @@ planets:
         radius: 126,448.7 km<br/>(19.848 Yrths)
         surface_area: 2.009 × 10<sup>11</sup> km<sup>2</sup><br/>(393.925 Yrths)
         volume: 8.469 × 10<sup>15</sup> km<sup>3</sup><br/>(7818.446 Yrths)
-        mass: 1.083 × 10<sup>28</sup> kg<br />(145.11265845717375 Yrths)
+        mass: 1.083 × 10<sup>28</sup> kg<br />(1813.282 Yrths)
         density: 1.279 g/cm<sup>3</sup>
         surface_gravity: 45.141 m/s<sup>2</sup><br />(4.603 g<sub>0</sub>)
         escape_velocity: 106.919 km/s<br />(384,907 km/h)
         rotation_period: 78.916 d
         axial_tilt: 14.74°
         albedo: 0.30
-        temperature: 112 K<br />(-161 °C)
+        temperature: 98 K<br />(-175 °C)
       - name: 11920 Tanashad VI d
         type: Icy
         formationType: Captured
@@ -629,14 +629,14 @@ planets:
         radius: 268,521.2 km<br/>(42.147 Yrths)
         surface_area: 9.061 × 10<sup>11</sup> km<sup>2</sup><br/>(1776.404 Yrths)
         volume: 8.110 × 10<sup>16</sup> km<sup>3</sup><br/>(74870.847 Yrths)
-        mass: 1.365 × 10<sup>29</sup> kg<br />(145.11265845717375 Yrths)
+        mass: 1.365 × 10<sup>29</sup> kg<br />(22860.022 Yrths)
         density: 1.683 g/cm<sup>3</sup>
         surface_gravity: 126.199 m/s<sup>2</sup><br />(12.869 g<sub>0</sub>)
         escape_velocity: 260.511 km/s<br />(937,841 km/h)
         rotation_period: 47.346 d
         axial_tilt: 13.30°
         albedo: 0.30
-        temperature: 93 K<br />(-181 °C)
+        temperature: 98 K<br />(-175 °C)
       - name: 11920 Tanashad VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -649,14 +649,14 @@ planets:
         radius: 96,778.2 km<br/>(15.190 Yrths)
         surface_area: 1.177 × 10<sup>11</sup> km<sup>2</sup><br/>(230.749 Yrths)
         volume: 3.797 × 10<sup>15</sup> km<sup>3</sup><br/>(3505.174 Yrths)
-        mass: 7.093 × 10<sup>27</sup> kg<br />(145.11265845717375 Yrths)
+        mass: 7.093 × 10<sup>27</sup> kg<br />(1187.673 Yrths)
         density: 1.868 g/cm<sup>3</sup>
         surface_gravity: 50.475 m/s<sup>2</sup><br />(5.147 g<sub>0</sub>)
         escape_velocity: 98.909 km/s<br />(356,074 km/h)
         rotation_period: 53.701 d
         axial_tilt: 25.72°
         albedo: 0.30
-        temperature: 69 K<br />(-204 °C)
+        temperature: 98 K<br />(-175 °C)
       - name: 11920 Tanashad VI f
         type: Icy
         formationType: Accreted
@@ -669,14 +669,14 @@ planets:
         radius: 96,971.5 km<br/>(15.221 Yrths)
         surface_area: 1.182 × 10<sup>11</sup> km<sup>2</sup><br/>(231.672 Yrths)
         volume: 3.820 × 10<sup>15</sup> km<sup>3</sup><br/>(3526.219 Yrths)
-        mass: 7.257 × 10<sup>27</sup> kg<br />(145.11265845717375 Yrths)
+        mass: 7.257 × 10<sup>27</sup> kg<br />(1215.219 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 51.440 m/s<sup>2</sup><br />(5.245 g<sub>0</sub>)
         escape_velocity: 99.950 km/s<br />(359,820 km/h)
         rotation_period: 65.861 d
         axial_tilt: 18.60°
         albedo: 0.30
-        temperature: 66 K<br />(-207 °C)
+        temperature: 98 K<br />(-175 °C)
       - name: 11920 Tanashad VI g
         type: Asteroid
         formationType: Captured
@@ -689,14 +689,14 @@ planets:
         radius: 103,084.3 km<br/>(16.180 Yrths)
         surface_area: 1.335 × 10<sup>11</sup> km<sup>2</sup><br/>(261.800 Yrths)
         volume: 4.588 × 10<sup>15</sup> km<sup>3</sup><br/>(4235.987 Yrths)
-        mass: 9.768 × 10<sup>27</sup> kg<br />(145.11265845717375 Yrths)
+        mass: 9.768 × 10<sup>27</sup> kg<br />(1635.635 Yrths)
         density: 2.129 g/cm<sup>3</sup>
         surface_gravity: 61.269 m/s<sup>2</sup><br />(6.248 g<sub>0</sub>)
         escape_velocity: 112.467 km/s<br />(404,881 km/h)
         rotation_period: 63.952 d
         axial_tilt: 30.70°
         albedo: 0.30
-        temperature: 57 K<br />(-216 °C)
+        temperature: 98 K<br />(-175 °C)
       - name: 11920 Tanashad VI h
         type: Ice/rock hybrid
         formationType: Captured
@@ -709,12 +709,12 @@ planets:
         radius: 128,045.1 km<br/>(20.098 Yrths)
         surface_area: 2.060 × 10<sup>11</sup> km<sup>2</sup><br/>(403.934 Yrths)
         volume: 8.794 × 10<sup>15</sup> km<sup>3</sup><br/>(8118.314 Yrths)
-        mass: 1.903 × 10<sup>28</sup> kg<br />(145.11265845717375 Yrths)
+        mass: 1.903 × 10<sup>28</sup> kg<br />(3186.208 Yrths)
         density: 2.164 g/cm<sup>3</sup>
         surface_gravity: 77.354 m/s<sup>2</sup><br />(7.888 g<sub>0</sub>)
         escape_velocity: 140.842 km/s<br />(507,033 km/h)
         rotation_period: 62.561 d
         axial_tilt: 15.15°
         albedo: 0.30
-        temperature: 34 K<br />(-239 °C)
+        temperature: 98 K<br />(-175 °C)
 ---

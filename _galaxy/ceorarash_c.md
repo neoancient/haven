@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ceorarash C is a star in the constellation Keln
+      Ceorarash C is a star in the constellation <a href="keln.html">Keln</a>
 distance: 261.04 ly
 apparent_magnitude: 13.05
 absolute_magnitude: 8.53
@@ -31,14 +31,14 @@ planets:
     radius: 3,037.0 km<br/>(0.477 Yrths)
     surface_area: 1.159 × 10<sup>08</sup> km<sup>2</sup><br/>(0.227 Yrths)
     volume: 1.173 × 10<sup>11</sup> km<sup>3</sup><br/>(0.108 Yrths)
-    mass: 3.501 × 10<sup>24</sup> kg<br />(0.5862092567271164 Yrths)
+    mass: 3.501 × 10<sup>24</sup> kg<br />(0.59 Yrths)
     density: 29.838 g/cm<sup>3</sup>
     surface_gravity: 25.299 m/s<sup>2</sup><br />(2.580 g<sub>0</sub>)
     escape_velocity: 12.405 km/s<br />(44,657 km/h)
     rotation_period: 7.028 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 468 K<br />(195 °C)
+    temperature: 955 K<br />(682 °C)
     surface_pressure: 60 kPa<br />(1 atm)
     composition:
       - 53.6434% ammonia
@@ -57,14 +57,14 @@ planets:
         radius: 956.5 km<br/>(0.150 Yrths)
         surface_area: 1.150 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.665 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 9.286 × 10<sup>21</sup> kg<br />(0.5862092567271164 Yrths)
+        mass: 9.286 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.533 g/cm<sup>3</sup>
         surface_gravity: 0.677 m/s<sup>2</sup><br />(0.069 g<sub>0</sub>)
         escape_velocity: 1.138 km/s<br />(4,098 km/h)
         rotation_period: 46.194 d
         axial_tilt: 48.44°
         albedo: 0.30
-        temperature: 6587 K<br />(6313 °C)
+        temperature: 343 K<br />(70 °C)
       - name: Ceorarash C I b
         type: Rocky
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 1,638.0 km<br/>(0.257 Yrths)
         surface_area: 3.372 × 10<sup>07</sup> km<sup>2</sup><br/>(0.066 Yrths)
         volume: 1.841 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 6.105 × 10<sup>22</sup> kg<br />(0.5862092567271164 Yrths)
+        mass: 6.105 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 3.316 g/cm<sup>3</sup>
         surface_gravity: 1.517 m/s<sup>2</sup><br />(0.155 g<sub>0</sub>)
         escape_velocity: 2.231 km/s<br />(8,030 km/h)
         rotation_period: 41.035 d
         axial_tilt: 9.50°
         albedo: 0.30
-        temperature: 6280 K<br />(6007 °C)
+        temperature: 343 K<br />(70 °C)
   - name: Ceorarash C II
     type: Large terrestrial
     aphelion: 78,054,590 km<br />0.522 AU
@@ -96,14 +96,14 @@ planets:
     radius: 2,860.2 km<br/>(0.449 Yrths)
     surface_area: 1.028 × 10<sup>08</sup> km<sup>2</sup><br/>(0.202 Yrths)
     volume: 9.801 × 10<sup>10</sup> km<sup>3</sup><br/>(0.090 Yrths)
-    mass: 1.766 × 10<sup>25</sup> kg<br />(2.9574141651955785 Yrths)
+    mass: 1.766 × 10<sup>25</sup> kg<br />(2.96 Yrths)
     density: 180.206 g/cm<sup>3</sup>
     surface_gravity: 143.902 m/s<sup>2</sup><br />(14.674 g<sub>0</sub>)
     escape_velocity: 28.710 km/s<br />(103,357 km/h)
     rotation_period: 2.086 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 360 K<br />(87 °C)
+    temperature: 332 K<br />(59 °C)
     surface_pressure: 922 kPa<br />(9 atm)
     composition:
       - 83.3251% nitrogen
@@ -122,14 +122,14 @@ planets:
         radius: 7,252.5 km<br/>(1.138 Yrths)
         surface_area: 6.610 × 10<sup>08</sup> km<sup>2</sup><br/>(1.296 Yrths)
         volume: 1.598 × 10<sup>12</sup> km<sup>3</sup><br/>(1.475 Yrths)
-        mass: 3.969 × 10<sup>24</sup> kg<br />(2.9574141651955785 Yrths)
+        mass: 3.969 × 10<sup>24</sup> kg<br />(0.665 Yrths)
         density: 2.484 g/cm<sup>3</sup>
         surface_gravity: 5.030 m/s<sup>2</sup><br />(0.513 g<sub>0</sub>)
         escape_velocity: 8.547 km/s<br />(30,770 km/h)
         rotation_period: 54.146 d
         axial_tilt: 27.38°
         albedo: 0.30
-        temperature: 3304 K<br />(3031 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: Ceorarash C II b
         type: Rocky
         formationType: Impact formed
@@ -142,12 +142,12 @@ planets:
         radius: 2,826.7 km<br/>(0.444 Yrths)
         surface_area: 1.004 × 10<sup>08</sup> km<sup>2</sup><br/>(0.197 Yrths)
         volume: 9.461 × 10<sup>10</sup> km<sup>3</sup><br/>(0.087 Yrths)
-        mass: 2.658 × 10<sup>23</sup> kg<br />(2.9574141651955785 Yrths)
+        mass: 2.658 × 10<sup>23</sup> kg<br />(0.045 Yrths)
         density: 2.809 g/cm<sup>3</sup>
         surface_gravity: 2.217 m/s<sup>2</sup><br />(0.226 g<sub>0</sub>)
         escape_velocity: 3.543 km/s<br />(12,754 km/h)
         rotation_period: 29.596 d
         axial_tilt: 12.54°
         albedo: 0.30
-        temperature: 3150 K<br />(2877 °C)
+        temperature: 261 K<br />(-12 °C)
 ---

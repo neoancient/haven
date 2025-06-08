@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ζ Rayomiad D is a star in the constellation Rayom
+      ζ Rayomiad D is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 675.43 ly
 apparent_magnitude: 12.31
 absolute_magnitude: 5.73
@@ -31,14 +31,14 @@ planets:
     radius: 5,781.3 km<br/>(0.907 Yrths)
     surface_area: 4.200 × 10<sup>08</sup> km<sup>2</sup><br/>(0.823 Yrths)
     volume: 8.094 × 10<sup>11</sup> km<sup>3</sup><br/>(0.747 Yrths)
-    mass: 5.879 × 10<sup>24</sup> kg<br />(0.9844797593057378 Yrths)
+    mass: 5.879 × 10<sup>24</sup> kg<br />(0.98 Yrths)
     density: 7.264 g/cm<sup>3</sup>
     surface_gravity: 11.724 m/s<sup>2</sup><br />(1.196 g<sub>0</sub>)
     escape_velocity: 11.651 km/s<br />(41,944 km/h)
     rotation_period: 1.429 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 316 K<br />(43 °C)
+    temperature: 382 K<br />(109 °C)
     surface_pressure: 196 kPa<br />(2 atm)
     composition:
       - 80.1869% nitrogen
@@ -58,12 +58,12 @@ planets:
         radius: 3,259.0 km<br/>(0.512 Yrths)
         surface_area: 1.335 × 10<sup>08</sup> km<sup>2</sup><br/>(0.262 Yrths)
         volume: 1.450 × 10<sup>11</sup> km<sup>3</sup><br/>(0.134 Yrths)
-        mass: 4.000 × 10<sup>23</sup> kg<br />(0.9844797593057378 Yrths)
+        mass: 4.000 × 10<sup>23</sup> kg<br />(0.067 Yrths)
         density: 2.759 g/cm<sup>3</sup>
         surface_gravity: 2.510 m/s<sup>2</sup><br />(0.256 g<sub>0</sub>)
         escape_velocity: 4.048 km/s<br />(14,572 km/h)
         rotation_period: 50.951 d
         axial_tilt: 8.80°
         albedo: 0.30
-        temperature: 3715 K<br />(3442 °C)
+        temperature: 244 K<br />(-29 °C)
 ---

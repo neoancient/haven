@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9764 Dialkeshiad is a star in the constellation Dialkes
+      9764 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1191.19 ly
 apparent_magnitude: 17.24
 absolute_magnitude: 9.43

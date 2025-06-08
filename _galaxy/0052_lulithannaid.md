@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0052 Lulithannaid is a star in the constellation Lulithan
+      0052 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 44.94 ly
 apparent_magnitude: 6.01
 absolute_magnitude: 5.31
@@ -31,14 +31,14 @@ planets:
     radius: 5,333.5 km<br/>(0.837 Yrths)
     surface_area: 3.575 × 10<sup>08</sup> km<sup>2</sup><br/>(0.701 Yrths)
     volume: 6.355 × 10<sup>11</sup> km<sup>3</sup><br/>(0.587 Yrths)
-    mass: 4.613 × 10<sup>24</sup> kg<br />(0.7724718152626577 Yrths)
+    mass: 4.613 × 10<sup>24</sup> kg<br />(0.77 Yrths)
     density: 7.259 g/cm<sup>3</sup>
     surface_gravity: 10.809 m/s<sup>2</sup><br />(1.102 g<sub>0</sub>)
     escape_velocity: 10.745 km/s<br />(38,683 km/h)
     rotation_period: 2.916 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 439 K<br />(166 °C)
+    temperature: 1154 K<br />(881 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 71.2310% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 2,173.1 km<br/>(0.341 Yrths)
         surface_area: 5.934 × 10<sup>07</sup> km<sup>2</sup><br/>(0.116 Yrths)
         volume: 4.299 × 10<sup>10</sup> km<sup>3</sup><br/>(0.040 Yrths)
-        mass: 1.531 × 10<sup>23</sup> kg<br />(0.7724718152626577 Yrths)
+        mass: 1.531 × 10<sup>23</sup> kg<br />(0.026 Yrths)
         density: 3.561 g/cm<sup>3</sup>
         surface_gravity: 2.160 m/s<sup>2</sup><br />(0.220 g<sub>0</sub>)
         escape_velocity: 3.066 km/s<br />(11,039 km/h)
         rotation_period: 27.553 d
         axial_tilt: 21.03°
         albedo: 0.30
-        temperature: 5888 K<br />(5615 °C)
+        temperature: 326 K<br />(52 °C)
   - name: 0052 Lulithannaid II
     type: Large terrestrial
     aphelion: 132,724,524 km<br />0.887 AU
@@ -76,14 +76,14 @@ planets:
     radius: 9,518.9 km<br/>(1.494 Yrths)
     surface_area: 1.139 × 10<sup>09</sup> km<sup>2</sup><br/>(2.232 Yrths)
     volume: 3.613 × 10<sup>12</sup> km<sup>3</sup><br/>(3.335 Yrths)
-    mass: 2.888 × 10<sup>25</sup> kg<br />(4.836111398393085 Yrths)
+    mass: 2.888 × 10<sup>25</sup> kg<br />(4.84 Yrths)
     density: 7.994 g/cm<sup>3</sup>
     surface_gravity: 21.245 m/s<sup>2</sup><br />(2.166 g<sub>0</sub>)
     escape_velocity: 20.125 km/s<br />(72,450 km/h)
     rotation_period: 1.148 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 299 K<br />(26 °C)
+    temperature: 301 K<br />(28 °C)
     surface_pressure: 106 kPa<br />(1 atm)
     composition:
       - 83.1317% nitrogen
@@ -103,14 +103,14 @@ planets:
         radius: 7,024.1 km<br/>(1.103 Yrths)
         surface_area: 6.200 × 10<sup>08</sup> km<sup>2</sup><br/>(1.216 Yrths)
         volume: 1.452 × 10<sup>12</sup> km<sup>3</sup><br/>(1.340 Yrths)
-        mass: 5.371 × 10<sup>24</sup> kg<br />(4.836111398393085 Yrths)
+        mass: 5.371 × 10<sup>24</sup> kg<br />(0.899 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 7.256 m/s<sup>2</sup><br />(0.740 g<sub>0</sub>)
         escape_velocity: 10.103 km/s<br />(36,371 km/h)
         rotation_period: 49.777 d
         axial_tilt: 30.65°
         albedo: 0.30
-        temperature: 2677 K<br />(2404 °C)
+        temperature: 248 K<br />(-25 °C)
   - name: 0052 Lulithannaid III
     type: Ice giant
     aphelion: 231,606,150 km<br />1.548 AU
@@ -122,14 +122,14 @@ planets:
     radius: 13,314.3 km<br/>(2.090 Yrths)
     surface_area: 2.228 × 10<sup>09</sup> km<sup>2</sup><br/>(4.367 Yrths)
     volume: 9.886 × 10<sup>12</sup> km<sup>3</sup><br/>(9.127 Yrths)
-    mass: 1.470 × 10<sup>25</sup> kg<br />(2.4615578474402766 Yrths)
+    mass: 1.470 × 10<sup>25</sup> kg<br />(2.46 Yrths)
     density: 1.487 g/cm<sup>3</sup>
     surface_gravity: 5.527 m/s<sup>2</sup><br />(0.564 g<sub>0</sub>)
     escape_velocity: 12.140 km/s<br />(43,705 km/h)
     rotation_period: 0.925 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 345 K<br />(72 °C)
+    temperature: 311 K<br />(38 °C)
     composition:
       - 87.7972% hydrogen
       - 11.6649% helium
@@ -148,14 +148,14 @@ planets:
         radius: 6,340.9 km<br/>(0.995 Yrths)
         surface_area: 5.053 × 10<sup>08</sup> km<sup>2</sup><br/>(0.991 Yrths)
         volume: 1.068 × 10<sup>12</sup> km<sup>3</sup><br/>(0.986 Yrths)
-        mass: 3.377 × 10<sup>24</sup> kg<br />(2.4615578474402766 Yrths)
+        mass: 3.377 × 10<sup>24</sup> kg<br />(0.565 Yrths)
         density: 3.162 g/cm<sup>3</sup>
         surface_gravity: 5.598 m/s<sup>2</sup><br />(0.571 g<sub>0</sub>)
         escape_velocity: 8.431 km/s<br />(30,353 km/h)
         rotation_period: 30.431 d
         axial_tilt: 17.15°
         albedo: 0.30
-        temperature: 2262 K<br />(1989 °C)
+        temperature: 190 K<br />(-84 °C)
       - name: 0052 Lulithannaid III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -168,14 +168,14 @@ planets:
         radius: 4,843.3 km<br/>(0.760 Yrths)
         surface_area: 2.948 × 10<sup>08</sup> km<sup>2</sup><br/>(0.578 Yrths)
         volume: 4.759 × 10<sup>11</sup> km<sup>3</sup><br/>(0.439 Yrths)
-        mass: 1.176 × 10<sup>24</sup> kg<br />(2.4615578474402766 Yrths)
+        mass: 1.176 × 10<sup>24</sup> kg<br />(0.197 Yrths)
         density: 2.472 g/cm<sup>3</sup>
         surface_gravity: 3.342 m/s<sup>2</sup><br />(0.341 g<sub>0</sub>)
         escape_velocity: 5.694 km/s<br />(20,498 km/h)
         rotation_period: 47.463 d
         axial_tilt: 28.61°
         albedo: 0.30
-        temperature: 2157 K<br />(1883 °C)
+        temperature: 190 K<br />(-84 °C)
       - name: 0052 Lulithannaid III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -188,14 +188,14 @@ planets:
         radius: 4,840.2 km<br/>(0.760 Yrths)
         surface_area: 2.944 × 10<sup>08</sup> km<sup>2</sup><br/>(0.577 Yrths)
         volume: 4.750 × 10<sup>11</sup> km<sup>3</sup><br/>(0.438 Yrths)
-        mass: 1.023 × 10<sup>24</sup> kg<br />(2.4615578474402766 Yrths)
+        mass: 1.023 × 10<sup>24</sup> kg<br />(0.171 Yrths)
         density: 2.154 g/cm<sup>3</sup>
         surface_gravity: 2.911 m/s<sup>2</sup><br />(0.297 g<sub>0</sub>)
         escape_velocity: 5.312 km/s<br />(19,124 km/h)
         rotation_period: 59.009 d
         axial_tilt: 16.76°
         albedo: 0.30
-        temperature: 2056 K<br />(1783 °C)
+        temperature: 190 K<br />(-84 °C)
       - name: 0052 Lulithannaid III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -208,14 +208,14 @@ planets:
         radius: 5,418.9 km<br/>(0.851 Yrths)
         surface_area: 3.690 × 10<sup>08</sup> km<sup>2</sup><br/>(0.723 Yrths)
         volume: 6.665 × 10<sup>11</sup> km<sup>3</sup><br/>(0.615 Yrths)
-        mass: 1.650 × 10<sup>24</sup> kg<br />(2.4615578474402766 Yrths)
+        mass: 1.650 × 10<sup>24</sup> kg<br />(0.276 Yrths)
         density: 2.475 g/cm<sup>3</sup>
         surface_gravity: 3.745 m/s<sup>2</sup><br />(0.382 g<sub>0</sub>)
         escape_velocity: 6.375 km/s<br />(22,951 km/h)
         rotation_period: 48.975 d
         axial_tilt: 16.72°
         albedo: 0.30
-        temperature: 1782 K<br />(1509 °C)
+        temperature: 190 K<br />(-84 °C)
       - name: 0052 Lulithannaid III e
         type: Icy
         formationType: Captured
@@ -228,14 +228,14 @@ planets:
         radius: 6,031.2 km<br/>(0.947 Yrths)
         surface_area: 4.571 × 10<sup>08</sup> km<sup>2</sup><br/>(0.896 Yrths)
         volume: 9.190 × 10<sup>11</sup> km<sup>3</sup><br/>(0.848 Yrths)
-        mass: 1.506 × 10<sup>24</sup> kg<br />(2.4615578474402766 Yrths)
+        mass: 1.506 × 10<sup>24</sup> kg<br />(0.252 Yrths)
         density: 1.639 g/cm<sup>3</sup>
         surface_gravity: 2.759 m/s<sup>2</sup><br />(0.281 g<sub>0</sub>)
         escape_velocity: 5.773 km/s<br />(20,782 km/h)
         rotation_period: 45.290 d
         axial_tilt: 19.69°
         albedo: 0.30
-        temperature: 1699 K<br />(1426 °C)
+        temperature: 190 K<br />(-84 °C)
       - name: 0052 Lulithannaid III f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -248,14 +248,14 @@ planets:
         radius: 5,772.5 km<br/>(0.906 Yrths)
         surface_area: 4.187 × 10<sup>08</sup> km<sup>2</sup><br/>(0.821 Yrths)
         volume: 8.057 × 10<sup>11</sup> km<sup>3</sup><br/>(0.744 Yrths)
-        mass: 2.018 × 10<sup>24</sup> kg<br />(2.4615578474402766 Yrths)
+        mass: 2.018 × 10<sup>24</sup> kg<br />(0.338 Yrths)
         density: 2.505 g/cm<sup>3</sup>
         surface_gravity: 4.036 m/s<sup>2</sup><br />(0.412 g<sub>0</sub>)
         escape_velocity: 6.831 km/s<br />(24,592 km/h)
         rotation_period: 49.964 d
         axial_tilt: 22.81°
         albedo: 0.30
-        temperature: 1620 K<br />(1347 °C)
+        temperature: 190 K<br />(-84 °C)
   - name: 0052 Lulithannaid IV
     type: Gas giant
     aphelion: 407,717,836 km<br />2.725 AU
@@ -267,7 +267,7 @@ planets:
     radius: 199.9 km<br/>(0.031 Yrths)
     surface_area: 5.021 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.346 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.022 × 10<sup>27</sup> kg<br />(171.14261929776742 Yrths)
+    mass: 1.022 × 10<sup>27</sup> kg<br />(171.14 Yrths)
     density: 30546785.583 g/cm<sup>3</sup>
     surface_gravity: 1704818.548 m/s<sup>2</sup><br />(173843.111 g<sub>0</sub>)
     escape_velocity: 826.139 km/s<br />(2,974,099 km/h)
@@ -288,14 +288,14 @@ planets:
         radius: 138,604.2 km<br/>(21.755 Yrths)
         surface_area: 2.414 × 10<sup>11</sup> km<sup>2</sup><br/>(473.301 Yrths)
         volume: 1.115 × 10<sup>16</sup> km<sup>3</sup><br/>(10296.889 Yrths)
-        mass: 2.392 × 10<sup>28</sup> kg<br />(171.14261929776742 Yrths)
+        mass: 2.392 × 10<sup>28</sup> kg<br />(4005.730 Yrths)
         density: 2.145 g/cm<sup>3</sup>
         surface_gravity: 82.997 m/s<sup>2</sup><br />(8.463 g<sub>0</sub>)
         escape_velocity: 151.786 km/s<br />(546,428 km/h)
         rotation_period: 45.539 d
         axial_tilt: 31.12°
         albedo: 0.30
-        temperature: 528 K<br />(255 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0052 Lulithannaid IV b
         type: Icy
         formationType: Accreted
@@ -308,14 +308,14 @@ planets:
         radius: 236,012.5 km<br/>(37.045 Yrths)
         surface_area: 7.000 × 10<sup>11</sup> km<sup>2</sup><br/>(1372.318 Yrths)
         volume: 5.507 × 10<sup>16</sup> km<sup>3</sup><br/>(50837.244 Yrths)
-        mass: 6.555 × 10<sup>28</sup> kg<br />(171.14261929776742 Yrths)
+        mass: 6.555 × 10<sup>28</sup> kg<br />(10977.019 Yrths)
         density: 1.190 g/cm<sup>3</sup>
         surface_gravity: 78.442 m/s<sup>2</sup><br />(7.999 g<sub>0</sub>)
         escape_velocity: 192.554 km/s<br />(693,194 km/h)
         rotation_period: 52.080 d
         axial_tilt: 13.52°
         albedo: 0.30
-        temperature: 437 K<br />(163 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0052 Lulithannaid IV c
         type: Icy
         formationType: Accreted
@@ -328,14 +328,14 @@ planets:
         radius: 182,971.2 km<br/>(28.719 Yrths)
         surface_area: 4.207 × 10<sup>11</sup> km<sup>2</sup><br/>(824.803 Yrths)
         volume: 2.566 × 10<sup>16</sup> km<sup>3</sup><br/>(23687.851 Yrths)
-        mass: 4.045 × 10<sup>28</sup> kg<br />(171.14261929776742 Yrths)
+        mass: 4.045 × 10<sup>28</sup> kg<br />(6773.876 Yrths)
         density: 1.577 g/cm<sup>3</sup>
         surface_gravity: 80.539 m/s<sup>2</sup><br />(8.213 g<sub>0</sub>)
         escape_velocity: 171.793 km/s<br />(618,454 km/h)
         rotation_period: 44.025 d
         axial_tilt: 13.44°
         albedo: 0.30
-        temperature: 194 K<br />(-79 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0052 Lulithannaid IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -348,14 +348,14 @@ planets:
         radius: 187,944.0 km<br/>(29.500 Yrths)
         surface_area: 4.439 × 10<sup>11</sup> km<sup>2</sup><br/>(870.246 Yrths)
         volume: 2.781 × 10<sup>16</sup> km<sup>3</sup><br/>(25672.186 Yrths)
-        mass: 6.702 × 10<sup>28</sup> kg<br />(171.14261929776742 Yrths)
+        mass: 6.702 × 10<sup>28</sup> kg<br />(11221.939 Yrths)
         density: 2.410 g/cm<sup>3</sup>
         surface_gravity: 126.458 m/s<sup>2</sup><br />(12.895 g<sub>0</sub>)
         escape_velocity: 218.171 km/s<br />(785,416 km/h)
         rotation_period: 56.281 d
         axial_tilt: 29.46°
         albedo: 0.30
-        temperature: 168 K<br />(-105 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0052 Lulithannaid IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -368,14 +368,14 @@ planets:
         radius: 111,349.8 km<br/>(17.478 Yrths)
         surface_area: 1.558 × 10<sup>11</sup> km<sup>2</sup><br/>(305.467 Yrths)
         volume: 5.783 × 10<sup>15</sup> km<sup>3</sup><br/>(5338.821 Yrths)
-        mass: 1.588 × 10<sup>28</sup> kg<br />(171.14261929776742 Yrths)
+        mass: 1.588 × 10<sup>28</sup> kg<br />(2658.572 Yrths)
         density: 2.745 g/cm<sup>3</sup>
         surface_gravity: 85.350 m/s<sup>2</sup><br />(8.703 g<sub>0</sub>)
         escape_velocity: 137.961 km/s<br />(496,661 km/h)
         rotation_period: 40.375 d
         axial_tilt: 27.54°
         albedo: 0.30
-        temperature: 160 K<br />(-113 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0052 Lulithannaid IV f
         type: Icy
         formationType: Accreted
@@ -388,14 +388,14 @@ planets:
         radius: 145,378.7 km<br/>(22.819 Yrths)
         surface_area: 2.656 × 10<sup>11</sup> km<sup>2</sup><br/>(520.699 Yrths)
         volume: 1.287 × 10<sup>16</sup> km<sup>3</sup><br/>(11881.735 Yrths)
-        mass: 1.250 × 10<sup>28</sup> kg<br />(171.14261929776742 Yrths)
+        mass: 1.250 × 10<sup>28</sup> kg<br />(2093.458 Yrths)
         density: 0.971 g/cm<sup>3</sup>
         surface_gravity: 39.427 m/s<sup>2</sup><br />(4.020 g<sub>0</sub>)
         escape_velocity: 107.142 km/s<br />(385,711 km/h)
         rotation_period: 67.426 d
         axial_tilt: 23.85°
         albedo: 0.30
-        temperature: 126 K<br />(-147 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 0052 Lulithannaid IV g
         type: Icy
         formationType: Accreted
@@ -408,12 +408,12 @@ planets:
         radius: 178,975.7 km<br/>(28.092 Yrths)
         surface_area: 4.025 × 10<sup>11</sup> km<sup>2</sup><br/>(789.175 Yrths)
         volume: 2.401 × 10<sup>16</sup> km<sup>3</sup><br/>(22169.694 Yrths)
-        mass: 1.681 × 10<sup>28</sup> kg<br />(171.14261929776742 Yrths)
+        mass: 1.681 × 10<sup>28</sup> kg<br />(2814.812 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 34.978 m/s<sup>2</sup><br />(3.567 g<sub>0</sub>)
         escape_velocity: 111.971 km/s<br />(403,095 km/h)
         rotation_period: 80.129 d
         axial_tilt: 25.61°
         albedo: 0.30
-        temperature: 110 K<br />(-164 °C)
+        temperature: 145 K<br />(-128 °C)
 ---

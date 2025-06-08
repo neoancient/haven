@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6269 Geardiad is a star in the constellation Geard
+      6269 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 342.46 ly
 apparent_magnitude: 11.55
 absolute_magnitude: 6.45

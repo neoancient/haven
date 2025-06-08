@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0047 Niunioiad C is a star in the constellation Niunio
+      0047 Niunioiad C is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 865.63 ly
 apparent_magnitude: 9.75
 absolute_magnitude: 2.63
@@ -31,14 +31,14 @@ planets:
     radius: 8,276.8 km<br/>(1.299 Yrths)
     surface_area: 8.609 × 10<sup>08</sup> km<sup>2</sup><br/>(1.688 Yrths)
     volume: 2.375 × 10<sup>12</sup> km<sup>3</sup><br/>(2.193 Yrths)
-    mass: 1.052 × 10<sup>25</sup> kg<br />(1.7608204541398793 Yrths)
+    mass: 1.052 × 10<sup>25</sup> kg<br />(1.76 Yrths)
     density: 4.428 g/cm<sup>3</sup>
     surface_gravity: 10.231 m/s<sup>2</sup><br />(1.043 g<sub>0</sub>)
     escape_velocity: 13.023 km/s<br />(46,882 km/h)
     rotation_period: 0.925 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 302 K<br />(28 °C)
+    temperature: 743 K<br />(470 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 61.8840% carbon dioxide
@@ -59,14 +59,14 @@ planets:
         radius: 5,963.1 km<br/>(0.936 Yrths)
         surface_area: 4.468 × 10<sup>08</sup> km<sup>2</sup><br/>(0.876 Yrths)
         volume: 8.882 × 10<sup>11</sup> km<sup>3</sup><br/>(0.820 Yrths)
-        mass: 1.128 × 10<sup>24</sup> kg<br />(1.7608204541398793 Yrths)
+        mass: 1.128 × 10<sup>24</sup> kg<br />(0.189 Yrths)
         density: 1.271 g/cm<sup>3</sup>
         surface_gravity: 2.115 m/s<sup>2</sup><br />(0.216 g<sub>0</sub>)
         escape_velocity: 5.026 km/s<br />(18,094 km/h)
         rotation_period: 51.760 d
         axial_tilt: 24.98°
         albedo: 0.30
-        temperature: 3800 K<br />(3527 °C)
+        temperature: 228 K<br />(-45 °C)
   - name: 0047 Niunioiad C II
     type: Terrestrial
     aphelion: 1,231,207,424 km<br />8.230 AU
@@ -78,14 +78,14 @@ planets:
     radius: 7,276.1 km<br/>(1.142 Yrths)
     surface_area: 6.653 × 10<sup>08</sup> km<sup>2</sup><br/>(1.304 Yrths)
     volume: 1.614 × 10<sup>12</sup> km<sup>3</sup><br/>(1.490 Yrths)
-    mass: 8.030 × 10<sup>24</sup> kg<br />(1.3446834849884022 Yrths)
+    mass: 8.030 × 10<sup>24</sup> kg<br />(1.34 Yrths)
     density: 4.977 g/cm<sup>3</sup>
     surface_gravity: 10.110 m/s<sup>2</sup><br />(1.031 g<sub>0</sub>)
     escape_velocity: 12.138 km/s<br />(43,696 km/h)
     rotation_period: 0.934 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 213 K<br />(-60 °C)
+    temperature: 538 K<br />(265 °C)
     surface_pressure: 25 kPa<br />(0 atm)
     composition:
       - 72.7054% carbon dioxide
@@ -104,14 +104,14 @@ planets:
         radius: 4,110.6 km<br/>(0.645 Yrths)
         surface_area: 2.123 × 10<sup>08</sup> km<sup>2</sup><br/>(0.416 Yrths)
         volume: 2.909 × 10<sup>11</sup> km<sup>3</sup><br/>(0.269 Yrths)
-        mass: 6.313 × 10<sup>23</sup> kg<br />(1.3446834849884022 Yrths)
+        mass: 6.313 × 10<sup>23</sup> kg<br />(0.106 Yrths)
         density: 2.170 g/cm<sup>3</sup>
         surface_gravity: 2.490 m/s<sup>2</sup><br />(0.254 g<sub>0</sub>)
         escape_velocity: 4.528 km/s<br />(16,300 km/h)
         rotation_period: 35.227 d
         axial_tilt: 25.81°
         albedo: 0.30
-        temperature: 2739 K<br />(2466 °C)
+        temperature: 155 K<br />(-119 °C)
   - name: 0047 Niunioiad C III
     type: Large terrestrial
     aphelion: 2,676,091,187 km<br />17.888 AU
@@ -123,14 +123,14 @@ planets:
     radius: 12,795.7 km<br/>(2.008 Yrths)
     surface_area: 2.057 × 10<sup>09</sup> km<sup>2</sup><br/>(4.034 Yrths)
     volume: 8.776 × 10<sup>12</sup> km<sup>3</sup><br/>(8.102 Yrths)
-    mass: 5.452 × 10<sup>25</sup> kg<br />(9.128876633806696 Yrths)
+    mass: 5.452 × 10<sup>25</sup> kg<br />(9.13 Yrths)
     density: 6.212 g/cm<sup>3</sup>
     surface_gravity: 22.194 m/s<sup>2</sup><br />(2.263 g<sub>0</sub>)
     escape_velocity: 23.848 km/s<br />(85,853 km/h)
     rotation_period: 0.538 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 128 K<br />(-146 °C)
+    temperature: 156 K<br />(-118 °C)
     surface_pressure: 77 kPa<br />(1 atm)
     composition:
       - 88.0343% methane
@@ -148,14 +148,14 @@ planets:
         radius: 13,393.5 km<br/>(2.102 Yrths)
         surface_area: 2.254 × 10<sup>09</sup> km<sup>2</sup><br/>(4.420 Yrths)
         volume: 1.006 × 10<sup>13</sup> km<sup>3</sup><br/>(9.291 Yrths)
-        mass: 2.927 × 10<sup>25</sup> kg<br />(9.128876633806696 Yrths)
+        mass: 2.927 × 10<sup>25</sup> kg<br />(4.902 Yrths)
         density: 2.909 g/cm<sup>3</sup>
         surface_gravity: 10.876 m/s<sup>2</sup><br />(1.109 g<sub>0</sub>)
         escape_velocity: 17.080 km/s<br />(61,489 km/h)
         rotation_period: 50.236 d
         axial_tilt: 11.82°
         albedo: 0.30
-        temperature: 1136 K<br />(862 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0047 Niunioiad C III b
         type: Asteroid
         formationType: Captured
@@ -168,14 +168,14 @@ planets:
         radius: 9,785.6 km<br/>(1.536 Yrths)
         surface_area: 1.203 × 10<sup>09</sup> km<sup>2</sup><br/>(2.359 Yrths)
         volume: 3.925 × 10<sup>12</sup> km<sup>3</sup><br/>(3.624 Yrths)
-        mass: 7.496 × 10<sup>24</sup> kg<br />(9.128876633806696 Yrths)
+        mass: 7.496 × 10<sup>24</sup> kg<br />(1.255 Yrths)
         density: 1.910 g/cm<sup>3</sup>
         surface_gravity: 5.218 m/s<sup>2</sup><br />(0.532 g<sub>0</sub>)
         escape_velocity: 10.112 km/s<br />(36,403 km/h)
         rotation_period: 49.665 d
         axial_tilt: 24.96°
         albedo: 0.30
-        temperature: 1083 K<br />(810 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0047 Niunioiad C III c
         type: Rocky
         formationType: Captured
@@ -188,12 +188,12 @@ planets:
         radius: 8,392.8 km<br/>(1.317 Yrths)
         surface_area: 8.852 × 10<sup>08</sup> km<sup>2</sup><br/>(1.735 Yrths)
         volume: 2.476 × 10<sup>12</sup> km<sup>3</sup><br/>(2.286 Yrths)
-        mass: 8.915 × 10<sup>24</sup> kg<br />(9.128876633806696 Yrths)
+        mass: 8.915 × 10<sup>24</sup> kg<br />(1.493 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 8.436 m/s<sup>2</sup><br />(0.860 g<sub>0</sub>)
         escape_velocity: 11.907 km/s<br />(42,867 km/h)
         rotation_period: 37.709 d
         axial_tilt: 12.54°
         albedo: 0.30
-        temperature: 1032 K<br />(759 °C)
+        temperature: 105 K<br />(-168 °C)
 ---

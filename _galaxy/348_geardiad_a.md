@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      348 Geardiad A is a star in the constellation Geard
+      348 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 340.25 ly
 apparent_magnitude: 8.75
 absolute_magnitude: 3.66

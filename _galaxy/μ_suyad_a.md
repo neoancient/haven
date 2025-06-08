@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      μ Suyad A is a star in the constellation Su
+      μ Suyad A is a star in the constellation <a href="su.html">Su</a>
 distance: 844.54 ly
 apparent_magnitude: 6.53
 absolute_magnitude: -0.53

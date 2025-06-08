@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      885 Shanniashiad is a star in the constellation Shannias
+      885 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 370.93 ly
 apparent_magnitude: 10.11
 absolute_magnitude: 4.83

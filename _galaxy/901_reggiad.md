@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      901 Reggiad is a star in the constellation Reg
+      901 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 492.62 ly
 apparent_magnitude: 15.88
 absolute_magnitude: 9.98

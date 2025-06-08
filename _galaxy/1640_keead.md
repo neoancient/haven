@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1640 Keead is a star in the constellation Kee
+      1640 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 421.79 ly
 apparent_magnitude: 10.34
 absolute_magnitude: 4.79

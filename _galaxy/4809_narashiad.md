@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4809 Narashiad is a star in the constellation Naras
+      4809 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 933.94 ly
 apparent_magnitude: 16.46
 absolute_magnitude: 9.18

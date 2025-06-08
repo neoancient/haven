@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16215 Arkothiad A is a star in the constellation Arkoth
+      16215 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 639.44 ly
 apparent_magnitude: 8.22
 absolute_magnitude: 1.75

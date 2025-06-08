@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0137 Switheriad E is a star in the constellation Swither
+      0137 Switheriad E is a star in the constellation <a href="swither.html">Swither</a>
 distance: 165.90 ly
 apparent_magnitude: 8.32
 absolute_magnitude: 4.79

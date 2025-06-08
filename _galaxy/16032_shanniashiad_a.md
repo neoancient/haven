@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16032 Shanniashiad A is a star in the constellation Shannias
+      16032 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 465.38 ly
 apparent_magnitude: 7.19
 absolute_magnitude: 1.42

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Jangshun is a star in the constellation Arkoth
+      Jangshun is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 139.33 ly
 apparent_magnitude: 2.80
 absolute_magnitude: -0.35

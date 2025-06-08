@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0049 Olliad B is a star in the constellation Ol
+      0049 Olliad B is a star in the constellation <a href="ol.html">Ol</a>
 distance: 194.97 ly
 apparent_magnitude: 10.05
 absolute_magnitude: 6.17

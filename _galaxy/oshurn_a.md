@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Oshurn A is a star in the constellation Rayom
+      Oshurn A is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 10995.54 ly
 apparent_magnitude: 6.68
 absolute_magnitude: -5.95

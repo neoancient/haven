@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2580 Arkothiad A is a star in the constellation Arkoth
+      2580 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 461.67 ly
 apparent_magnitude: 8.19
 absolute_magnitude: 2.44

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2144 Ratharshinniad is a star in the constellation Ratharshin
+      2144 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 119.24 ly
 apparent_magnitude: 8.74
 absolute_magnitude: 5.92

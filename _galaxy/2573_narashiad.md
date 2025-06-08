@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2573 Narashiad is a star in the constellation Naras
+      2573 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 559.14 ly
 apparent_magnitude: 14.02
 absolute_magnitude: 7.85

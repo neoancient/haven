@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0062 Irsaiad A is a star in the constellation Irsa
+      0062 Irsaiad A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 303.73 ly
 apparent_magnitude: 6.50
 absolute_magnitude: 1.65

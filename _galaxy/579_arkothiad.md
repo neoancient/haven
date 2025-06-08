@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      579 Arkothiad is a star in the constellation Arkoth
+      579 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 212.86 ly
 apparent_magnitude: 9.73
 absolute_magnitude: 5.65
@@ -31,14 +31,14 @@ planets:
     radius: 8,026.6 km<br/>(1.260 Yrths)
     surface_area: 8.096 × 10<sup>08</sup> km<sup>2</sup><br/>(1.587 Yrths)
     volume: 2.166 × 10<sup>12</sup> km<sup>3</sup><br/>(2.000 Yrths)
-    mass: 2.231 × 10<sup>25</sup> kg<br />(3.735901428142174 Yrths)
+    mass: 2.231 × 10<sup>25</sup> kg<br />(3.74 Yrths)
     density: 10.300 g/cm<sup>3</sup>
     surface_gravity: 23.082 m/s<sup>2</sup><br />(2.354 g<sub>0</sub>)
     escape_velocity: 19.262 km/s<br />(69,345 km/h)
     rotation_period: 1.502 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 425 K<br />(151 °C)
+    temperature: 489 K<br />(215 °C)
     surface_pressure: 188 kPa<br />(2 atm)
     composition:
       - 84.2733% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 7,036.1 km<br/>(1.104 Yrths)
         surface_area: 6.221 × 10<sup>08</sup> km<sup>2</sup><br/>(1.220 Yrths)
         volume: 1.459 × 10<sup>12</sup> km<sup>3</sup><br/>(1.347 Yrths)
-        mass: 4.987 × 10<sup>24</sup> kg<br />(3.735901428142174 Yrths)
+        mass: 4.987 × 10<sup>24</sup> kg<br />(0.835 Yrths)
         density: 3.418 g/cm<sup>3</sup>
         surface_gravity: 6.714 m/s<sup>2</sup><br />(0.685 g<sub>0</sub>)
         escape_velocity: 9.727 km/s<br />(35,017 km/h)
         rotation_period: 32.747 d
         axial_tilt: 18.18°
         albedo: 0.30
-        temperature: 3795 K<br />(3522 °C)
+        temperature: 331 K<br />(58 °C)
   - name: 579 Arkothiad II
     type: Large terrestrial
     aphelion: 107,106,458 km<br />0.716 AU
@@ -76,14 +76,14 @@ planets:
     radius: 7,627.5 km<br/>(1.197 Yrths)
     surface_area: 7.311 × 10<sup>08</sup> km<sup>2</sup><br/>(1.433 Yrths)
     volume: 1.859 × 10<sup>12</sup> km<sup>3</sup><br/>(1.716 Yrths)
-    mass: 1.483 × 10<sup>25</sup> kg<br />(2.483850959665018 Yrths)
+    mass: 1.483 × 10<sup>25</sup> kg<br />(2.48 Yrths)
     density: 7.980 g/cm<sup>3</sup>
     surface_gravity: 16.994 m/s<sup>2</sup><br />(1.733 g<sub>0</sub>)
     escape_velocity: 16.112 km/s<br />(58,003 km/h)
     rotation_period: 1.353 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 383 K<br />(110 °C)
+    temperature: 904 K<br />(630 °C)
     surface_pressure: 143 kPa<br />(1 atm)
     composition:
       - 68.3424% carbon dioxide
@@ -102,14 +102,14 @@ planets:
         radius: 1,593.2 km<br/>(0.250 Yrths)
         surface_area: 3.190 × 10<sup>07</sup> km<sup>2</sup><br/>(0.063 Yrths)
         volume: 1.694 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
-        mass: 5.509 × 10<sup>22</sup> kg<br />(2.483850959665018 Yrths)
+        mass: 5.509 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 3.252 g/cm<sup>3</sup>
         surface_gravity: 1.447 m/s<sup>2</sup><br />(0.148 g<sub>0</sub>)
         escape_velocity: 2.149 km/s<br />(7,735 km/h)
         rotation_period: 32.015 d
         axial_tilt: 17.60°
         albedo: 0.30
-        temperature: 3734 K<br />(3461 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 579 Arkothiad II b
         type: Rocky
         formationType: Impact formed
@@ -122,14 +122,14 @@ planets:
         radius: 4,868.9 km<br/>(0.764 Yrths)
         surface_area: 2.979 × 10<sup>08</sup> km<sup>2</sup><br/>(0.584 Yrths)
         volume: 4.835 × 10<sup>11</sup> km<sup>3</sup><br/>(0.446 Yrths)
-        mass: 1.588 × 10<sup>24</sup> kg<br />(2.483850959665018 Yrths)
+        mass: 1.588 × 10<sup>24</sup> kg<br />(0.266 Yrths)
         density: 3.285 g/cm<sup>3</sup>
         surface_gravity: 4.466 m/s<sup>2</sup><br />(0.455 g<sub>0</sub>)
         escape_velocity: 6.599 km/s<br />(23,756 km/h)
         rotation_period: 40.057 d
         axial_tilt: 9.28°
         albedo: 0.30
-        temperature: 3560 K<br />(3287 °C)
+        temperature: 256 K<br />(-17 °C)
       - name: 579 Arkothiad II c
         type: Rocky
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 2,381.6 km<br/>(0.374 Yrths)
         surface_area: 7.128 × 10<sup>07</sup> km<sup>2</sup><br/>(0.140 Yrths)
         volume: 5.658 × 10<sup>10</sup> km<sup>3</sup><br/>(0.052 Yrths)
-        mass: 1.970 × 10<sup>23</sup> kg<br />(2.483850959665018 Yrths)
+        mass: 1.970 × 10<sup>23</sup> kg<br />(0.033 Yrths)
         density: 3.482 g/cm<sup>3</sup>
         surface_gravity: 2.315 m/s<sup>2</sup><br />(0.236 g<sub>0</sub>)
         escape_velocity: 3.323 km/s<br />(11,963 km/h)
         rotation_period: 28.902 d
         axial_tilt: 6.86°
         albedo: 0.30
-        temperature: 3395 K<br />(3121 °C)
+        temperature: 256 K<br />(-17 °C)
   - name: 579 Arkothiad III
     type: Gas giant
     aphelion: 185,670,797 km<br />1.241 AU
@@ -161,7 +161,7 @@ planets:
     radius: 168.8 km<br/>(0.027 Yrths)
     surface_area: 3.582 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.016 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.238 × 10<sup>26</sup> kg<br />(87.71294470418006 Yrths)
+    mass: 5.238 × 10<sup>26</sup> kg<br />(87.71 Yrths)
     density: 25980004.627 g/cm<sup>3</sup>
     surface_gravity: 1224698.368 m/s<sup>2</sup><br />(124884.478 g<sub>0</sub>)
     escape_velocity: 643.527 km/s<br />(2,316,698 km/h)
@@ -182,14 +182,14 @@ planets:
         radius: 66,677.6 km<br/>(10.466 Yrths)
         surface_area: 5.587 × 10<sup>10</sup> km<sup>2</sup><br/>(109.533 Yrths)
         volume: 1.242 × 10<sup>15</sup> km<sup>3</sup><br/>(1146.350 Yrths)
-        mass: 1.535 × 10<sup>27</sup> kg<br />(87.71294470418006 Yrths)
+        mass: 1.535 × 10<sup>27</sup> kg<br />(257.111 Yrths)
         density: 1.237 g/cm<sup>3</sup>
         surface_gravity: 23.020 m/s<sup>2</sup><br />(2.347 g<sub>0</sub>)
         escape_velocity: 55.443 km/s<br />(199,596 km/h)
         rotation_period: 45.860 d
         axial_tilt: 18.92°
         albedo: 0.30
-        temperature: 1174 K<br />(901 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 579 Arkothiad III b
         type: Dwarf planet
         formationType: Captured
@@ -202,14 +202,14 @@ planets:
         radius: 57,108.5 km<br/>(8.964 Yrths)
         surface_area: 4.098 × 10<sup>10</sup> km<sup>2</sup><br/>(80.350 Yrths)
         volume: 7.802 × 10<sup>14</sup> km<sup>3</sup><br/>(720.243 Yrths)
-        mass: 1.654 × 10<sup>27</sup> kg<br />(87.71294470418006 Yrths)
+        mass: 1.654 × 10<sup>27</sup> kg<br />(277.040 Yrths)
         density: 2.121 g/cm<sup>3</sup>
         surface_gravity: 33.813 m/s<sup>2</sup><br />(3.448 g<sub>0</sub>)
         escape_velocity: 62.187 km/s<br />(223,873 km/h)
         rotation_period: 39.048 d
         axial_tilt: 23.07°
         albedo: 0.30
-        temperature: 970 K<br />(697 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 579 Arkothiad III c
         type: Rocky
         formationType: Captured
@@ -222,14 +222,14 @@ planets:
         radius: 56,266.4 km<br/>(8.832 Yrths)
         surface_area: 3.978 × 10<sup>10</sup> km<sup>2</sup><br/>(77.998 Yrths)
         volume: 7.462 × 10<sup>14</sup> km<sup>3</sup><br/>(688.848 Yrths)
-        mass: 2.291 × 10<sup>27</sup> kg<br />(87.71294470418006 Yrths)
+        mass: 2.291 × 10<sup>27</sup> kg<br />(383.588 Yrths)
         density: 3.070 g/cm<sup>3</sup>
         surface_gravity: 48.228 m/s<sup>2</sup><br />(4.918 g<sub>0</sub>)
         escape_velocity: 73.720 km/s<br />(265,392 km/h)
         rotation_period: 41.991 d
         axial_tilt: 7.44°
         albedo: 0.30
-        temperature: 729 K<br />(456 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 579 Arkothiad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -242,14 +242,14 @@ planets:
         radius: 156,069.6 km<br/>(24.497 Yrths)
         surface_area: 3.061 × 10<sup>11</sup> km<sup>2</sup><br/>(600.097 Yrths)
         volume: 1.592 × 10<sup>16</sup> km<sup>3</sup><br/>(14700.505 Yrths)
-        mass: 3.530 × 10<sup>28</sup> kg<br />(87.71294470418006 Yrths)
+        mass: 3.530 × 10<sup>28</sup> kg<br />(5911.373 Yrths)
         density: 2.217 g/cm<sup>3</sup>
         surface_gravity: 96.602 m/s<sup>2</sup><br />(9.851 g<sub>0</sub>)
         escape_velocity: 173.765 km/s<br />(625,555 km/h)
         rotation_period: 39.002 d
         axial_tilt: 13.97°
         albedo: 0.30
-        temperature: 522 K<br />(249 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 579 Arkothiad III e
         type: Icy
         formationType: Accreted
@@ -262,34 +262,14 @@ planets:
         radius: 68,727.7 km<br/>(10.788 Yrths)
         surface_area: 5.936 × 10<sup>10</sup> km<sup>2</sup><br/>(116.372 Yrths)
         volume: 1.360 × 10<sup>15</sup> km<sup>3</sup><br/>(1255.373 Yrths)
-        mass: 1.228 × 10<sup>27</sup> kg<br />(87.71294470418006 Yrths)
+        mass: 1.228 × 10<sup>27</sup> kg<br />(205.678 Yrths)
         density: 0.903 g/cm<sup>3</sup>
         surface_gravity: 17.332 m/s<sup>2</sup><br />(1.767 g<sub>0</sub>)
         escape_velocity: 48.843 km/s<br />(175,836 km/h)
         rotation_period: 61.933 d
         axial_tilt: 23.68°
         albedo: 0.30
-        temperature: 411 K<br />(138 °C)
-      - name: 579 Arkothiad III f
-        type: Icy
-        formationType: Impact formed
-        aphelion: 74,004,350 km<br />
-        perihelion: 72,676,710 km<br />
-        semi_major_axis: 73,340,530 km<br />
-        eccentricity: 0.009
-        orbital_period: 0.01 d<br />
-        inclination: 2.16°
-        radius: 32,302.5 km<br/>(5.070 Yrths)
-        surface_area: 1.311 × 10<sup>10</sup> km<sup>2</sup><br/>(25.707 Yrths)
-        volume: 1.412 × 10<sup>14</sup> km<sup>3</sup><br/>(130.343 Yrths)
-        mass: 1.572 × 10<sup>26</sup> kg<br />(87.71294470418006 Yrths)
-        density: 1.113 g/cm<sup>3</sup>
-        surface_gravity: 10.039 m/s<sup>2</sup><br />(1.024 g<sub>0</sub>)
-        escape_velocity: 25.484 km/s<br />(91,743 km/h)
-        rotation_period: 64.572 d
-        axial_tilt: 15.10°
-        albedo: 0.30
-        temperature: 309 K<br />(36 °C)
+        temperature: 198 K<br />(-75 °C)
   - name: 579 Arkothiad IV
     type: Gas giant
     aphelion: 304,756,072 km<br />2.037 AU
@@ -301,7 +281,7 @@ planets:
     radius: 177.1 km<br/>(0.028 Yrths)
     surface_area: 3.941 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.327 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.127 × 10<sup>26</sup> kg<br />(102.5931504306401 Yrths)
+    mass: 6.127 × 10<sup>26</sup> kg<br />(102.59 Yrths)
     density: 26332719.280 g/cm<sup>3</sup>
     surface_gravity: 1302022.095 m/s<sup>2</sup><br />(132769.304 g<sub>0</sub>)
     escape_velocity: 679.560 km/s<br />(2,446,417 km/h)
@@ -322,14 +302,14 @@ planets:
         radius: 108,989.8 km<br/>(17.107 Yrths)
         surface_area: 1.493 × 10<sup>11</sup> km<sup>2</sup><br/>(292.655 Yrths)
         volume: 5.423 × 10<sup>15</sup> km<sup>3</sup><br/>(5006.506 Yrths)
-        mass: 9.665 × 10<sup>27</sup> kg<br />(102.5931504306401 Yrths)
+        mass: 9.665 × 10<sup>27</sup> kg<br />(1618.309 Yrths)
         density: 1.782 g/cm<sup>3</sup>
         surface_gravity: 54.228 m/s<sup>2</sup><br />(5.530 g<sub>0</sub>)
         escape_velocity: 108.797 km/s<br />(391,668 km/h)
         rotation_period: 41.660 d
         axial_tilt: 21.73°
         albedo: 0.30
-        temperature: 927 K<br />(654 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 579 Arkothiad IV b
         type: Rocky
         formationType: Accreted
@@ -342,14 +322,14 @@ planets:
         radius: 133,397.9 km<br/>(20.938 Yrths)
         surface_area: 2.236 × 10<sup>11</sup> km<sup>2</sup><br/>(438.412 Yrths)
         volume: 9.943 × 10<sup>15</sup> km<sup>3</sup><br/>(9179.609 Yrths)
-        mass: 2.799 × 10<sup>28</sup> kg<br />(102.5931504306401 Yrths)
+        mass: 2.799 × 10<sup>28</sup> kg<br />(4686.696 Yrths)
         density: 2.815 g/cm<sup>3</sup>
         surface_gravity: 104.835 m/s<sup>2</sup><br />(10.690 g<sub>0</sub>)
         escape_velocity: 167.354 km/s<br />(602,475 km/h)
         rotation_period: 29.907 d
         axial_tilt: 16.26°
         albedo: 0.30
-        temperature: 310 K<br />(37 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 579 Arkothiad IV c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -362,14 +342,14 @@ planets:
         radius: 110,712.6 km<br/>(17.378 Yrths)
         surface_area: 1.540 × 10<sup>11</sup> km<sup>2</sup><br/>(301.980 Yrths)
         volume: 5.684 × 10<sup>15</sup> km<sup>3</sup><br/>(5247.689 Yrths)
-        mass: 1.064 × 10<sup>28</sup> kg<br />(102.5931504306401 Yrths)
+        mass: 1.064 × 10<sup>28</sup> kg<br />(1782.459 Yrths)
         density: 1.873 g/cm<sup>3</sup>
         surface_gravity: 57.884 m/s<sup>2</sup><br />(5.903 g<sub>0</sub>)
         escape_velocity: 113.289 km/s<br />(407,842 km/h)
         rotation_period: 66.083 d
         axial_tilt: 22.66°
         albedo: 0.30
-        temperature: 222 K<br />(-51 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 579 Arkothiad IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -382,14 +362,14 @@ planets:
         radius: 103,871.2 km<br/>(16.304 Yrths)
         surface_area: 1.356 × 10<sup>11</sup> km<sup>2</sup><br/>(265.812 Yrths)
         volume: 4.694 × 10<sup>15</sup> km<sup>3</sup><br/>(4333.739 Yrths)
-        mass: 9.874 × 10<sup>27</sup> kg<br />(102.5931504306401 Yrths)
+        mass: 9.874 × 10<sup>27</sup> kg<br />(1653.415 Yrths)
         density: 2.103 g/cm<sup>3</sup>
         surface_gravity: 61.000 m/s<sup>2</sup><br />(6.220 g<sub>0</sub>)
         escape_velocity: 112.647 km/s<br />(405,531 km/h)
         rotation_period: 34.365 d
         axial_tilt: 20.37°
         albedo: 0.30
-        temperature: 167 K<br />(-106 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 579 Arkothiad IV e
         type: Icy
         formationType: Accreted
@@ -402,14 +382,14 @@ planets:
         radius: 142,412.4 km<br/>(22.353 Yrths)
         surface_area: 2.549 × 10<sup>11</sup> km<sup>2</sup><br/>(499.667 Yrths)
         volume: 1.210 × 10<sup>16</sup> km<sup>3</sup><br/>(11169.160 Yrths)
-        mass: 1.607 × 10<sup>28</sup> kg<br />(102.5931504306401 Yrths)
+        mass: 1.607 × 10<sup>28</sup> kg<br />(2690.823 Yrths)
         density: 1.328 g/cm<sup>3</sup>
         surface_gravity: 52.811 m/s<sup>2</sup><br />(5.385 g<sub>0</sub>)
         escape_velocity: 122.729 km/s<br />(441,824 km/h)
         rotation_period: 82.438 d
         axial_tilt: 24.98°
         albedo: 0.30
-        temperature: 159 K<br />(-114 °C)
+        temperature: 153 K<br />(-120 °C)
   - name: 579 Arkothiad V
     type: Ice giant
     aphelion: 521,081,341 km<br />3.483 AU
@@ -421,14 +401,14 @@ planets:
     radius: 13,520.1 km<br/>(2.122 Yrths)
     surface_area: 2.297 × 10<sup>09</sup> km<sup>2</sup><br/>(4.503 Yrths)
     volume: 1.035 × 10<sup>13</sup> km<sup>3</sup><br/>(9.557 Yrths)
-    mass: 1.874 × 10<sup>25</sup> kg<br />(3.1386482438373116 Yrths)
+    mass: 1.874 × 10<sup>25</sup> kg<br />(3.14 Yrths)
     density: 1.811 g/cm<sup>3</sup>
     surface_gravity: 6.835 m/s<sup>2</sup><br />(0.697 g<sub>0</sub>)
     escape_velocity: 13.604 km/s<br />(48,973 km/h)
     rotation_period: 0.609 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 219 K<br />(-54 °C)
+    temperature: 200 K<br />(-73 °C)
     composition:
       - 63.8483% hydrogen
       - 31.3575% helium
@@ -449,14 +429,14 @@ planets:
         radius: 6,321.0 km<br/>(0.992 Yrths)
         surface_area: 5.021 × 10<sup>08</sup> km<sup>2</sup><br/>(0.984 Yrths)
         volume: 1.058 × 10<sup>12</sup> km<sup>3</sup><br/>(0.977 Yrths)
-        mass: 2.699 × 10<sup>24</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 2.699 × 10<sup>24</sup> kg<br />(0.452 Yrths)
         density: 2.551 g/cm<sup>3</sup>
         surface_gravity: 4.502 m/s<sup>2</sup><br />(0.459 g<sub>0</sub>)
         escape_velocity: 7.549 km/s<br />(27,177 km/h)
         rotation_period: 33.984 d
         axial_tilt: 12.73°
         albedo: 0.30
-        temperature: 1346 K<br />(1073 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V b
         type: Icy
         formationType: Captured
@@ -469,14 +449,14 @@ planets:
         radius: 5,519.4 km<br/>(0.866 Yrths)
         surface_area: 3.828 × 10<sup>08</sup> km<sup>2</sup><br/>(0.751 Yrths)
         volume: 7.043 × 10<sup>11</sup> km<sup>3</sup><br/>(0.650 Yrths)
-        mass: 8.622 × 10<sup>23</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 8.622 × 10<sup>23</sup> kg<br />(0.144 Yrths)
         density: 1.224 g/cm<sup>3</sup>
         surface_gravity: 1.886 m/s<sup>2</sup><br />(0.192 g<sub>0</sub>)
         escape_velocity: 4.566 km/s<br />(16,439 km/h)
         rotation_period: 64.176 d
         axial_tilt: 15.56°
         albedo: 0.30
-        temperature: 1284 K<br />(1011 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V c
         type: Icy
         formationType: Accreted
@@ -489,14 +469,14 @@ planets:
         radius: 8,757.6 km<br/>(1.375 Yrths)
         surface_area: 9.638 × 10<sup>08</sup> km<sup>2</sup><br/>(1.890 Yrths)
         volume: 2.813 × 10<sup>12</sup> km<sup>3</sup><br/>(2.597 Yrths)
-        mass: 3.199 × 10<sup>24</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 3.199 × 10<sup>24</sup> kg<br />(0.536 Yrths)
         density: 1.137 g/cm<sup>3</sup>
         surface_gravity: 2.780 m/s<sup>2</sup><br />(0.283 g<sub>0</sub>)
         escape_velocity: 6.983 km/s<br />(25,138 km/h)
         rotation_period: 60.485 d
         axial_tilt: 10.08°
         albedo: 0.30
-        temperature: 1224 K<br />(951 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V d
         type: Icy
         formationType: Impact formed
@@ -509,14 +489,14 @@ planets:
         radius: 9,048.6 km<br/>(1.420 Yrths)
         surface_area: 1.029 × 10<sup>09</sup> km<sup>2</sup><br/>(2.017 Yrths)
         volume: 3.103 × 10<sup>12</sup> km<sup>3</sup><br/>(2.865 Yrths)
-        mass: 4.021 × 10<sup>24</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 4.021 × 10<sup>24</sup> kg<br />(0.673 Yrths)
         density: 1.296 g/cm<sup>3</sup>
         surface_gravity: 3.274 m/s<sup>2</sup><br />(0.334 g<sub>0</sub>)
         escape_velocity: 7.702 km/s<br />(27,728 km/h)
         rotation_period: 68.678 d
         axial_tilt: 22.66°
         albedo: 0.30
-        temperature: 1167 K<br />(894 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V e
         type: Rocky
         formationType: Captured
@@ -529,14 +509,14 @@ planets:
         radius: 4,675.3 km<br/>(0.734 Yrths)
         surface_area: 2.747 × 10<sup>08</sup> km<sup>2</sup><br/>(0.539 Yrths)
         volume: 4.281 × 10<sup>11</sup> km<sup>3</sup><br/>(0.395 Yrths)
-        mass: 1.174 × 10<sup>24</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 1.174 × 10<sup>24</sup> kg<br />(0.197 Yrths)
         density: 2.743 g/cm<sup>3</sup>
         surface_gravity: 3.580 m/s<sup>2</sup><br />(0.365 g<sub>0</sub>)
         escape_velocity: 5.790 km/s<br />(20,843 km/h)
         rotation_period: 54.164 d
         axial_tilt: 14.68°
         albedo: 0.30
-        temperature: 1113 K<br />(840 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V f
         type: Icy
         formationType: Impact formed
@@ -549,14 +529,14 @@ planets:
         radius: 7,100.4 km<br/>(1.114 Yrths)
         surface_area: 6.335 × 10<sup>08</sup> km<sup>2</sup><br/>(1.242 Yrths)
         volume: 1.499 × 10<sup>12</sup> km<sup>3</sup><br/>(1.384 Yrths)
-        mass: 2.274 × 10<sup>24</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 2.274 × 10<sup>24</sup> kg<br />(0.381 Yrths)
         density: 1.517 g/cm<sup>3</sup>
         surface_gravity: 3.006 m/s<sup>2</sup><br />(0.307 g<sub>0</sub>)
         escape_velocity: 6.539 km/s<br />(23,539 km/h)
         rotation_period: 47.230 d
         axial_tilt: 23.73°
         albedo: 0.30
-        temperature: 1061 K<br />(788 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V g
         type: Asteroid
         formationType: Captured
@@ -569,14 +549,14 @@ planets:
         radius: 4,133.9 km<br/>(0.649 Yrths)
         surface_area: 2.147 × 10<sup>08</sup> km<sup>2</sup><br/>(0.421 Yrths)
         volume: 2.959 × 10<sup>11</sup> km<sup>3</sup><br/>(0.273 Yrths)
-        mass: 5.307 × 10<sup>23</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 5.307 × 10<sup>23</sup> kg<br />(0.089 Yrths)
         density: 1.793 g/cm<sup>3</sup>
         surface_gravity: 2.070 m/s<sup>2</sup><br />(0.211 g<sub>0</sub>)
         escape_velocity: 4.140 km/s<br />(14,903 km/h)
         rotation_period: 44.751 d
         axial_tilt: 26.10°
         albedo: 0.30
-        temperature: 1012 K<br />(738 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V h
         type: Icy
         formationType: Impact formed
@@ -589,14 +569,14 @@ planets:
         radius: 3,234.2 km<br/>(0.508 Yrths)
         surface_area: 1.314 × 10<sup>08</sup> km<sup>2</sup><br/>(0.258 Yrths)
         volume: 1.417 × 10<sup>11</sup> km<sup>3</sup><br/>(0.131 Yrths)
-        mass: 2.162 × 10<sup>23</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 2.162 × 10<sup>23</sup> kg<br />(0.036 Yrths)
         density: 1.526 g/cm<sup>3</sup>
         surface_gravity: 1.378 m/s<sup>2</sup><br />(0.140 g<sub>0</sub>)
         escape_velocity: 2.987 km/s<br />(10,754 km/h)
         rotation_period: 60.655 d
         axial_tilt: 24.28°
         albedo: 0.30
-        temperature: 965 K<br />(691 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V i
         type: Icy
         formationType: Accreted
@@ -609,14 +589,14 @@ planets:
         radius: 3,798.3 km<br/>(0.596 Yrths)
         surface_area: 1.813 × 10<sup>08</sup> km<sup>2</sup><br/>(0.355 Yrths)
         volume: 2.295 × 10<sup>11</sup> km<sup>3</sup><br/>(0.212 Yrths)
-        mass: 3.168 × 10<sup>23</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 3.168 × 10<sup>23</sup> kg<br />(0.053 Yrths)
         density: 1.380 g/cm<sup>3</sup>
         surface_gravity: 1.464 m/s<sup>2</sup><br />(0.149 g<sub>0</sub>)
         escape_velocity: 3.337 km/s<br />(12,012 km/h)
         rotation_period: 47.756 d
         axial_tilt: 15.47°
         albedo: 0.30
-        temperature: 877 K<br />(604 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V j
         type: Icy
         formationType: Captured
@@ -629,14 +609,14 @@ planets:
         radius: 4,657.0 km<br/>(0.731 Yrths)
         surface_area: 2.725 × 10<sup>08</sup> km<sup>2</sup><br/>(0.534 Yrths)
         volume: 4.231 × 10<sup>11</sup> km<sup>3</sup><br/>(0.391 Yrths)
-        mass: 6.799 × 10<sup>23</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 6.799 × 10<sup>23</sup> kg<br />(0.114 Yrths)
         density: 1.607 g/cm<sup>3</sup>
         surface_gravity: 2.089 m/s<sup>2</sup><br />(0.213 g<sub>0</sub>)
         escape_velocity: 4.414 km/s<br />(15,892 km/h)
         rotation_period: 55.262 d
         axial_tilt: 20.95°
         albedo: 0.30
-        temperature: 836 K<br />(563 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V k
         type: Asteroid
         formationType: Captured
@@ -649,14 +629,14 @@ planets:
         radius: 7,315.0 km<br/>(1.148 Yrths)
         surface_area: 6.724 × 10<sup>08</sup> km<sup>2</sup><br/>(1.318 Yrths)
         volume: 1.640 × 10<sup>12</sup> km<sup>3</sup><br/>(1.514 Yrths)
-        mass: 3.520 × 10<sup>24</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 3.520 × 10<sup>24</sup> kg<br />(0.589 Yrths)
         density: 2.147 g/cm<sup>3</sup>
         surface_gravity: 4.385 m/s<sup>2</sup><br />(0.447 g<sub>0</sub>)
         escape_velocity: 8.015 km/s<br />(28,855 km/h)
         rotation_period: 54.993 d
         axial_tilt: 42.82°
         albedo: 0.30
-        temperature: 797 K<br />(524 °C)
+        temperature: 118 K<br />(-155 °C)
       - name: 579 Arkothiad V l
         type: Ice/rock hybrid
         formationType: Captured
@@ -669,14 +649,14 @@ planets:
         radius: 8,294.6 km<br/>(1.302 Yrths)
         surface_area: 8.646 × 10<sup>08</sup> km<sup>2</sup><br/>(1.695 Yrths)
         volume: 2.390 × 10<sup>12</sup> km<sup>3</sup><br/>(2.207 Yrths)
-        mass: 5.442 × 10<sup>24</sup> kg<br />(3.1386482438373116 Yrths)
+        mass: 5.442 × 10<sup>24</sup> kg<br />(0.911 Yrths)
         density: 2.277 g/cm<sup>3</sup>
         surface_gravity: 5.272 m/s<sup>2</sup><br />(0.538 g<sub>0</sub>)
         escape_velocity: 9.359 km/s<br />(33,691 km/h)
         rotation_period: 50.035 d
         axial_tilt: 25.54°
         albedo: 0.30
-        temperature: 760 K<br />(487 °C)
+        temperature: 118 K<br />(-155 °C)
   - name: 579 Arkothiad VI
     type: Ice giant
     aphelion: 839,943,022 km<br />5.615 AU
@@ -688,14 +668,14 @@ planets:
     radius: 30,436.9 km<br/>(4.777 Yrths)
     surface_area: 1.164 × 10<sup>10</sup> km<sup>2</sup><br/>(22.824 Yrths)
     volume: 1.181 × 10<sup>14</sup> km<sup>3</sup><br/>(109.039 Yrths)
-    mass: 1.319 × 10<sup>26</sup> kg<br />(22.083997888982562 Yrths)
+    mass: 1.319 × 10<sup>26</sup> kg<br />(22.08 Yrths)
     density: 1.117 g/cm<sup>3</sup>
     surface_gravity: 9.489 m/s<sup>2</sup><br />(0.968 g<sub>0</sub>)
     escape_velocity: 24.050 km/s<br />(86,580 km/h)
     rotation_period: 0.396 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 159 K<br />(-115 °C)
+    temperature: 142 K<br />(-131 °C)
     composition:
       - 87.6747% hydrogen
       - 11.2891% helium
@@ -713,14 +693,14 @@ planets:
         radius: 25,966.9 km<br/>(4.076 Yrths)
         surface_area: 8.473 × 10<sup>09</sup> km<sup>2</sup><br/>(16.612 Yrths)
         volume: 7.334 × 10<sup>13</sup> km<sup>3</sup><br/>(67.708 Yrths)
-        mass: 9.996 × 10<sup>25</sup> kg<br />(22.083997888982562 Yrths)
+        mass: 9.996 × 10<sup>25</sup> kg<br />(16.739 Yrths)
         density: 1.363 g/cm<sup>3</sup>
         surface_gravity: 9.881 m/s<sup>2</sup><br />(1.008 g<sub>0</sub>)
         escape_velocity: 22.669 km/s<br />(81,608 km/h)
         rotation_period: 64.102 d
         axial_tilt: 17.23°
         albedo: 0.30
-        temperature: 651 K<br />(378 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 579 Arkothiad VI b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -733,14 +713,14 @@ planets:
         radius: 20,579.3 km<br/>(3.230 Yrths)
         surface_area: 5.322 × 10<sup>09</sup> km<sup>2</sup><br/>(10.434 Yrths)
         volume: 3.651 × 10<sup>13</sup> km<sup>3</sup><br/>(33.703 Yrths)
-        mass: 7.735 × 10<sup>25</sup> kg<br />(22.083997888982562 Yrths)
+        mass: 7.735 × 10<sup>25</sup> kg<br />(12.953 Yrths)
         density: 2.119 g/cm<sup>3</sup>
         surface_gravity: 12.174 m/s<sup>2</sup><br />(1.241 g<sub>0</sub>)
         escape_velocity: 22.400 km/s<br />(80,640 km/h)
         rotation_period: 67.762 d
         axial_tilt: 7.41°
         albedo: 0.30
-        temperature: 592 K<br />(319 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 579 Arkothiad VI c
         type: Icy
         formationType: Accreted
@@ -753,14 +733,14 @@ planets:
         radius: 20,851.5 km<br/>(3.273 Yrths)
         surface_area: 5.464 × 10<sup>09</sup> km<sup>2</sup><br/>(10.712 Yrths)
         volume: 3.797 × 10<sup>13</sup> km<sup>3</sup><br/>(35.058 Yrths)
-        mass: 6.030 × 10<sup>25</sup> kg<br />(22.083997888982562 Yrths)
+        mass: 6.030 × 10<sup>25</sup> kg<br />(10.097 Yrths)
         density: 1.588 g/cm<sup>3</sup>
         surface_gravity: 9.244 m/s<sup>2</sup><br />(0.943 g<sub>0</sub>)
         escape_velocity: 19.647 km/s<br />(70,729 km/h)
         rotation_period: 60.742 d
         axial_tilt: 12.31°
         albedo: 0.30
-        temperature: 513 K<br />(240 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 579 Arkothiad VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -773,14 +753,14 @@ planets:
         radius: 17,994.2 km<br/>(2.824 Yrths)
         surface_area: 4.069 × 10<sup>09</sup> km<sup>2</sup><br/>(7.977 Yrths)
         volume: 2.441 × 10<sup>13</sup> km<sup>3</sup><br/>(22.531 Yrths)
-        mass: 6.005 × 10<sup>25</sup> kg<br />(22.083997888982562 Yrths)
+        mass: 6.005 × 10<sup>25</sup> kg<br />(10.055 Yrths)
         density: 2.460 g/cm<sup>3</sup>
         surface_gravity: 12.360 m/s<sup>2</sup><br />(1.260 g<sub>0</sub>)
         escape_velocity: 21.105 km/s<br />(75,979 km/h)
         rotation_period: 40.193 d
         axial_tilt: 22.16°
         albedo: 0.30
-        temperature: 466 K<br />(193 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 579 Arkothiad VI e
         type: Ice/rock hybrid
         formationType: Captured
@@ -793,14 +773,14 @@ planets:
         radius: 21,637.9 km<br/>(3.396 Yrths)
         surface_area: 5.884 × 10<sup>09</sup> km<sup>2</sup><br/>(11.535 Yrths)
         volume: 4.244 × 10<sup>13</sup> km<sup>3</sup><br/>(39.176 Yrths)
-        mass: 6.790 × 10<sup>25</sup> kg<br />(22.083997888982562 Yrths)
+        mass: 6.790 × 10<sup>25</sup> kg<br />(11.369 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 9.666 m/s<sup>2</sup><br />(0.986 g<sub>0</sub>)
         escape_velocity: 20.466 km/s<br />(73,678 km/h)
         rotation_period: 55.644 d
         axial_tilt: 24.95°
         albedo: 0.30
-        temperature: 445 K<br />(171 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 579 Arkothiad VI f
         type: Icy
         formationType: Captured
@@ -813,14 +793,14 @@ planets:
         radius: 22,425.7 km<br/>(3.520 Yrths)
         surface_area: 6.320 × 10<sup>09</sup> km<sup>2</sup><br/>(12.390 Yrths)
         volume: 4.724 × 10<sup>13</sup> km<sup>3</sup><br/>(43.613 Yrths)
-        mass: 6.234 × 10<sup>25</sup> kg<br />(22.083997888982562 Yrths)
+        mass: 6.234 × 10<sup>25</sup> kg<br />(10.438 Yrths)
         density: 1.320 g/cm<sup>3</sup>
         surface_gravity: 8.262 m/s<sup>2</sup><br />(0.842 g<sub>0</sub>)
         escape_velocity: 19.263 km/s<br />(69,346 km/h)
         rotation_period: 50.105 d
         axial_tilt: 12.54°
         albedo: 0.30
-        temperature: 404 K<br />(131 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 579 Arkothiad VI g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -833,14 +813,14 @@ planets:
         radius: 21,878.6 km<br/>(3.434 Yrths)
         surface_area: 6.015 × 10<sup>09</sup> km<sup>2</sup><br/>(11.793 Yrths)
         volume: 4.387 × 10<sup>13</sup> km<sup>3</sup><br/>(40.498 Yrths)
-        mass: 1.033 × 10<sup>26</sup> kg<br />(22.083997888982562 Yrths)
+        mass: 1.033 × 10<sup>26</sup> kg<br />(17.297 Yrths)
         density: 2.355 g/cm<sup>3</sup>
         surface_gravity: 14.384 m/s<sup>2</sup><br />(1.467 g<sub>0</sub>)
         escape_velocity: 25.105 km/s<br />(90,377 km/h)
         rotation_period: 36.524 d
         axial_tilt: 18.73°
         albedo: 0.30
-        temperature: 385 K<br />(112 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 579 Arkothiad VI h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -853,14 +833,14 @@ planets:
         radius: 31,035.0 km<br/>(4.871 Yrths)
         surface_area: 1.210 × 10<sup>10</sup> km<sup>2</sup><br/>(23.729 Yrths)
         volume: 1.252 × 10<sup>14</sup> km<sup>3</sup><br/>(115.593 Yrths)
-        mass: 2.995 × 10<sup>26</sup> kg<br />(22.083997888982562 Yrths)
+        mass: 2.995 × 10<sup>26</sup> kg<br />(50.147 Yrths)
         density: 2.392 g/cm<sup>3</sup>
         surface_gravity: 20.724 m/s<sup>2</sup><br />(2.113 g<sub>0</sub>)
         escape_velocity: 35.890 km/s<br />(129,205 km/h)
         rotation_period: 34.522 d
         axial_tilt: 20.86°
         albedo: 0.30
-        temperature: 367 K<br />(94 °C)
+        temperature: 91 K<br />(-182 °C)
   - name: 579 Arkothiad VII
     type: Gas giant
     aphelion: 1,405,589,061 km<br />9.396 AU
@@ -872,7 +852,7 @@ planets:
     radius: 188.0 km<br/>(0.030 Yrths)
     surface_area: 4.442 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.784 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.723 × 10<sup>26</sup> kg<br />(129.31996764985493 Yrths)
+    mass: 7.723 × 10<sup>26</sup> kg<br />(129.32 Yrths)
     density: 27741793.153 g/cm<sup>3</sup>
     surface_gravity: 1456218.826 m/s<sup>2</sup><br />(148492.995 g<sub>0</sub>)
     escape_velocity: 740.486 km/s<br />(2,665,750 km/h)
@@ -893,14 +873,14 @@ planets:
         radius: 106,299.1 km<br/>(16.685 Yrths)
         surface_area: 1.420 × 10<sup>11</sup> km<sup>2</sup><br/>(278.384 Yrths)
         volume: 5.031 × 10<sup>15</sup> km<sup>3</sup><br/>(4644.782 Yrths)
-        mass: 8.283 × 10<sup>27</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 8.283 × 10<sup>27</sup> kg<br />(1386.894 Yrths)
         density: 1.646 g/cm<sup>3</sup>
         surface_gravity: 48.856 m/s<sup>2</sup><br />(4.982 g<sub>0</sub>)
         escape_velocity: 101.985 km/s<br />(367,145 km/h)
         rotation_period: 50.066 d
         axial_tilt: 23.58°
         albedo: 0.30
-        temperature: 175 K<br />(-98 °C)
+        temperature: 71 K<br />(-203 °C)
       - name: 579 Arkothiad VII b
         type: Rocky
         formationType: Captured
@@ -913,14 +893,14 @@ planets:
         radius: 84,011.5 km<br/>(13.187 Yrths)
         surface_area: 8.869 × 10<sup>10</sup> km<sup>2</sup><br/>(173.885 Yrths)
         volume: 2.484 × 10<sup>15</sup> km<sup>3</sup><br/>(2292.944 Yrths)
-        mass: 8.437 × 10<sup>27</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 8.437 × 10<sup>27</sup> kg<br />(1412.842 Yrths)
         density: 3.397 g/cm<sup>3</sup>
         surface_gravity: 79.681 m/s<sup>2</sup><br />(8.125 g<sub>0</sub>)
         escape_velocity: 115.786 km/s<br />(416,829 km/h)
         rotation_period: 43.345 d
         axial_tilt: 14.01°
         albedo: 0.30
-        temperature: 144 K<br />(-129 °C)
+        temperature: 71 K<br />(-203 °C)
       - name: 579 Arkothiad VII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -933,14 +913,14 @@ planets:
         radius: 109,660.5 km<br/>(17.212 Yrths)
         surface_area: 1.511 × 10<sup>11</sup> km<sup>2</sup><br/>(296.269 Yrths)
         volume: 5.524 × 10<sup>15</sup> km<sup>3</sup><br/>(5099.509 Yrths)
-        mass: 1.252 × 10<sup>28</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 1.252 × 10<sup>28</sup> kg<br />(2095.896 Yrths)
         density: 2.266 g/cm<sup>3</sup>
         surface_gravity: 69.375 m/s<sup>2</sup><br />(7.074 g<sub>0</sub>)
         escape_velocity: 123.435 km/s<br />(444,365 km/h)
         rotation_period: 57.416 d
         axial_tilt: 14.21°
         albedo: 0.30
-        temperature: 138 K<br />(-135 °C)
+        temperature: 71 K<br />(-203 °C)
       - name: 579 Arkothiad VII d
         type: Icy
         formationType: Accreted
@@ -953,14 +933,14 @@ planets:
         radius: 121,055.2 km<br/>(19.001 Yrths)
         surface_area: 1.842 × 10<sup>11</sup> km<sup>2</sup><br/>(361.037 Yrths)
         volume: 7.431 × 10<sup>15</sup> km<sup>3</sup><br/>(6860.047 Yrths)
-        mass: 1.014 × 10<sup>28</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 1.014 × 10<sup>28</sup> kg<br />(1698.582 Yrths)
         density: 1.365 g/cm<sup>3</sup>
         surface_gravity: 46.138 m/s<sup>2</sup><br />(4.705 g<sub>0</sub>)
         escape_velocity: 105.762 km/s<br />(380,743 km/h)
         rotation_period: 83.839 d
         axial_tilt: 13.93°
         albedo: 0.30
-        temperature: 103 K<br />(-170 °C)
+        temperature: 71 K<br />(-203 °C)
       - name: 579 Arkothiad VII e
         type: Ice/rock hybrid
         formationType: Captured
@@ -973,14 +953,14 @@ planets:
         radius: 106,646.7 km<br/>(16.739 Yrths)
         surface_area: 1.429 × 10<sup>11</sup> km<sup>2</sup><br/>(280.207 Yrths)
         volume: 5.081 × 10<sup>15</sup> km<sup>3</sup><br/>(4690.499 Yrths)
-        mass: 9.425 × 10<sup>27</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 9.425 × 10<sup>27</sup> kg<br />(1578.159 Yrths)
         density: 1.855 g/cm<sup>3</sup>
         surface_gravity: 55.232 m/s<sup>2</sup><br />(5.632 g<sub>0</sub>)
         escape_velocity: 108.612 km/s<br />(391,005 km/h)
         rotation_period: 52.823 d
         axial_tilt: 22.55°
         albedo: 0.30
-        temperature: 99 K<br />(-174 °C)
+        temperature: 71 K<br />(-203 °C)
       - name: 579 Arkothiad VII f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -993,14 +973,14 @@ planets:
         radius: 96,303.6 km<br/>(15.116 Yrths)
         surface_area: 1.165 × 10<sup>11</sup> km<sup>2</sup><br/>(228.491 Yrths)
         volume: 3.741 × 10<sup>15</sup> km<sup>3</sup><br/>(3453.858 Yrths)
-        mass: 8.337 × 10<sup>27</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 8.337 × 10<sup>27</sup> kg<br />(1396.032 Yrths)
         density: 2.228 g/cm<sup>3</sup>
         surface_gravity: 59.916 m/s<sup>2</sup><br />(6.110 g<sub>0</sub>)
         escape_velocity: 107.499 km/s<br />(386,996 km/h)
         rotation_period: 33.696 d
         axial_tilt: 16.02°
         albedo: 0.30
-        temperature: 82 K<br />(-192 °C)
+        temperature: 71 K<br />(-203 °C)
       - name: 579 Arkothiad VII g
         type: Icy
         formationType: Captured
@@ -1013,14 +993,14 @@ planets:
         radius: 187,225.6 km<br/>(29.387 Yrths)
         surface_area: 4.405 × 10<sup>11</sup> km<sup>2</sup><br/>(863.605 Yrths)
         volume: 2.749 × 10<sup>16</sup> km<sup>3</sup><br/>(25378.900 Yrths)
-        mass: 1.924 × 10<sup>28</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 1.924 × 10<sup>28</sup> kg<br />(3222.274 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 36.590 m/s<sup>2</sup><br />(3.731 g<sub>0</sub>)
         escape_velocity: 117.132 km/s<br />(421,676 km/h)
         rotation_period: 104.180 d
         axial_tilt: 16.32°
         albedo: 0.30
-        temperature: 74 K<br />(-199 °C)
+        temperature: 71 K<br />(-203 °C)
       - name: 579 Arkothiad VII h
         type: Icy
         formationType: Accreted
@@ -1033,14 +1013,14 @@ planets:
         radius: 133,997.5 km<br/>(21.032 Yrths)
         surface_area: 2.256 × 10<sup>11</sup> km<sup>2</sup><br/>(442.362 Yrths)
         volume: 1.008 × 10<sup>16</sup> km<sup>3</sup><br/>(9303.949 Yrths)
-        mass: 1.263 × 10<sup>28</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 1.263 × 10<sup>28</sup> kg<br />(2114.122 Yrths)
         density: 1.253 g/cm<sup>3</sup>
         surface_gravity: 46.868 m/s<sup>2</sup><br />(4.779 g<sub>0</sub>)
         escape_velocity: 112.149 km/s<br />(403,736 km/h)
         rotation_period: 79.747 d
         axial_tilt: 17.10°
         albedo: 0.30
-        temperature: 53 K<br />(-220 °C)
+        temperature: 71 K<br />(-203 °C)
       - name: 579 Arkothiad VII i
         type: Ice/rock hybrid
         formationType: Captured
@@ -1053,14 +1033,14 @@ planets:
         radius: 114,752.1 km<br/>(18.012 Yrths)
         surface_area: 1.655 × 10<sup>11</sup> km<sup>2</sup><br/>(324.419 Yrths)
         volume: 6.330 × 10<sup>15</sup> km<sup>3</sup><br/>(5843.310 Yrths)
-        mass: 1.247 × 10<sup>28</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 1.247 × 10<sup>28</sup> kg<br />(2087.477 Yrths)
         density: 1.970 g/cm<sup>3</sup>
         surface_gravity: 63.101 m/s<sup>2</sup><br />(6.435 g<sub>0</sub>)
         escape_velocity: 120.423 km/s<br />(433,522 km/h)
         rotation_period: 38.638 d
         axial_tilt: 17.06°
         albedo: 0.30
-        temperature: 51 K<br />(-223 °C)
+        temperature: 71 K<br />(-203 °C)
       - name: 579 Arkothiad VII j
         type: Rocky
         formationType: Accreted
@@ -1073,14 +1053,14 @@ planets:
         radius: 145,294.9 km<br/>(22.806 Yrths)
         surface_area: 2.653 × 10<sup>11</sup> km<sup>2</sup><br/>(520.098 Yrths)
         volume: 1.285 × 10<sup>16</sup> km<sup>3</sup><br/>(11861.180 Yrths)
-        mass: 3.540 × 10<sup>28</sup> kg<br />(129.31996764985493 Yrths)
+        mass: 3.540 × 10<sup>28</sup> kg<br />(5928.398 Yrths)
         density: 2.756 g/cm<sup>3</sup>
         surface_gravity: 111.782 m/s<sup>2</sup><br />(11.399 g<sub>0</sub>)
         escape_velocity: 180.352 km/s<br />(649,268 km/h)
         rotation_period: 36.415 d
         axial_tilt: 10.17°
         albedo: 0.30
-        temperature: 40 K<br />(-233 °C)
+        temperature: 71 K<br />(-203 °C)
   - name: 579 Arkothiad VIII
     type: Gas dwarf
     aphelion: 2,520,997,861 km<br />16.852 AU
@@ -1092,14 +1072,14 @@ planets:
     radius: 10,574.9 km<br/>(1.660 Yrths)
     surface_area: 1.405 × 10<sup>09</sup> km<sup>2</sup><br/>(2.755 Yrths)
     volume: 4.954 × 10<sup>12</sup> km<sup>3</sup><br/>(4.573 Yrths)
-    mass: 1.074 × 10<sup>25</sup> kg<br />(1.7986465967322687 Yrths)
+    mass: 1.074 × 10<sup>25</sup> kg<br />(1.80 Yrths)
     density: 2.168 g/cm<sup>3</sup>
     surface_gravity: 6.402 m/s<sup>2</sup><br />(0.653 g<sub>0</sub>)
     escape_velocity: 11.644 km/s<br />(41,919 km/h)
     rotation_period: 0.571 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 80 K<br />(-193 °C)
+    temperature: 71 K<br />(-202 °C)
     composition:
       - 88.2621% hydrogen
       - 10.7716% helium
@@ -1118,14 +1098,14 @@ planets:
         radius: 2,356.1 km<br/>(0.370 Yrths)
         surface_area: 6.976 × 10<sup>07</sup> km<sup>2</sup><br/>(0.137 Yrths)
         volume: 5.479 × 10<sup>10</sup> km<sup>3</sup><br/>(0.051 Yrths)
-        mass: 1.404 × 10<sup>23</sup> kg<br />(1.7986465967322687 Yrths)
+        mass: 1.404 × 10<sup>23</sup> kg<br />(0.024 Yrths)
         density: 2.563 g/cm<sup>3</sup>
         surface_gravity: 1.686 m/s<sup>2</sup><br />(0.172 g<sub>0</sub>)
         escape_velocity: 2.821 km/s<br />(10,155 km/h)
         rotation_period: 38.514 d
         axial_tilt: 36.38°
         albedo: 0.30
-        temperature: 682 K<br />(408 °C)
+        temperature: 55 K<br />(-219 °C)
       - name: 579 Arkothiad VIII b
         type: Dwarf planet
         formationType: Captured
@@ -1138,14 +1118,14 @@ planets:
         radius: 3,989.0 km<br/>(0.626 Yrths)
         surface_area: 2.000 × 10<sup>08</sup> km<sup>2</sup><br/>(0.392 Yrths)
         volume: 2.659 × 10<sup>11</sup> km<sup>3</sup><br/>(0.245 Yrths)
-        mass: 3.190 × 10<sup>23</sup> kg<br />(1.7986465967322687 Yrths)
+        mass: 3.190 × 10<sup>23</sup> kg<br />(0.053 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 1.336 m/s<sup>2</sup><br />(0.136 g<sub>0</sub>)
         escape_velocity: 3.267 km/s<br />(11,763 km/h)
         rotation_period: 62.731 d
         axial_tilt: 48.28°
         albedo: 0.30
-        temperature: 620 K<br />(346 °C)
+        temperature: 55 K<br />(-219 °C)
       - name: 579 Arkothiad VIII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -1158,14 +1138,14 @@ planets:
         radius: 4,020.3 km<br/>(0.631 Yrths)
         surface_area: 2.031 × 10<sup>08</sup> km<sup>2</sup><br/>(0.398 Yrths)
         volume: 2.722 × 10<sup>11</sup> km<sup>3</sup><br/>(0.251 Yrths)
-        mass: 6.853 × 10<sup>23</sup> kg<br />(1.7986465967322687 Yrths)
+        mass: 6.853 × 10<sup>23</sup> kg<br />(0.115 Yrths)
         density: 2.518 g/cm<sup>3</sup>
         surface_gravity: 2.826 m/s<sup>2</sup><br />(0.288 g<sub>0</sub>)
         escape_velocity: 4.770 km/s<br />(17,173 km/h)
         rotation_period: 40.457 d
         axial_tilt: 21.75°
         albedo: 0.30
-        temperature: 591 K<br />(318 °C)
+        temperature: 55 K<br />(-219 °C)
       - name: 579 Arkothiad VIII d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1178,14 +1158,14 @@ planets:
         radius: 2,299.2 km<br/>(0.361 Yrths)
         surface_area: 6.643 × 10<sup>07</sup> km<sup>2</sup><br/>(0.130 Yrths)
         volume: 5.091 × 10<sup>10</sup> km<sup>3</sup><br/>(0.047 Yrths)
-        mass: 1.180 × 10<sup>23</sup> kg<br />(1.7986465967322687 Yrths)
+        mass: 1.180 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 2.318 g/cm<sup>3</sup>
         surface_gravity: 1.488 m/s<sup>2</sup><br />(0.152 g<sub>0</sub>)
         escape_velocity: 2.617 km/s<br />(9,423 km/h)
         rotation_period: 54.833 d
         axial_tilt: 9.73°
         albedo: 0.30
-        temperature: 563 K<br />(290 °C)
+        temperature: 55 K<br />(-219 °C)
       - name: 579 Arkothiad VIII e
         type: Dwarf planet
         formationType: Accreted
@@ -1198,14 +1178,14 @@ planets:
         radius: 3,745.1 km<br/>(0.588 Yrths)
         surface_area: 1.763 × 10<sup>08</sup> km<sup>2</sup><br/>(0.346 Yrths)
         volume: 2.200 × 10<sup>11</sup> km<sup>3</sup><br/>(0.203 Yrths)
-        mass: 5.463 × 10<sup>23</sup> kg<br />(1.7986465967322687 Yrths)
+        mass: 5.463 × 10<sup>23</sup> kg<br />(0.091 Yrths)
         density: 2.483 g/cm<sup>3</sup>
         surface_gravity: 2.596 m/s<sup>2</sup><br />(0.265 g<sub>0</sub>)
         escape_velocity: 4.413 km/s<br />(15,885 km/h)
         rotation_period: 43.682 d
         axial_tilt: 33.45°
         albedo: 0.30
-        temperature: 537 K<br />(264 °C)
+        temperature: 55 K<br />(-219 °C)
   - name: 579 Arkothiad IX
     type: Ice giant
     aphelion: 4,235,264,641 km<br />28.311 AU
@@ -1217,14 +1197,14 @@ planets:
     radius: 30,113.0 km<br/>(4.727 Yrths)
     surface_area: 1.140 × 10<sup>10</sup> km<sup>2</sup><br/>(22.340 Yrths)
     volume: 1.144 × 10<sup>14</sup> km<sup>3</sup><br/>(105.594 Yrths)
-    mass: 1.425 × 10<sup>26</sup> kg<br />(23.854178858231606 Yrths)
+    mass: 1.425 × 10<sup>26</sup> kg<br />(23.85 Yrths)
     density: 1.245 g/cm<sup>3</sup>
     surface_gravity: 10.471 m/s<sup>2</sup><br />(1.068 g<sub>0</sub>)
     escape_velocity: 25.129 km/s<br />(90,466 km/h)
     rotation_period: 0.325 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 77 K<br />(-196 °C)
+    temperature: 70 K<br />(-204 °C)
     composition:
       - 85.2775% hydrogen
       - 13.4050% helium
@@ -1242,14 +1222,14 @@ planets:
         radius: 34,700.8 km<br/>(5.447 Yrths)
         surface_area: 1.513 × 10<sup>10</sup> km<sup>2</sup><br/>(29.666 Yrths)
         volume: 1.750 × 10<sup>14</sup> km<sup>3</sup><br/>(161.583 Yrths)
-        mass: 4.136 × 10<sup>26</sup> kg<br />(23.854178858231606 Yrths)
+        mass: 4.136 × 10<sup>26</sup> kg<br />(69.262 Yrths)
         density: 2.363 g/cm<sup>3</sup>
         surface_gravity: 22.896 m/s<sup>2</sup><br />(2.335 g<sub>0</sub>)
         escape_velocity: 39.889 km/s<br />(143,601 km/h)
         rotation_period: 45.464 d
         axial_tilt: 18.17°
         albedo: 0.30
-        temperature: 342 K<br />(69 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 579 Arkothiad IX b
         type: Icy
         formationType: Accreted
@@ -1262,14 +1242,14 @@ planets:
         radius: 41,715.3 km<br/>(6.548 Yrths)
         surface_area: 2.187 × 10<sup>10</sup> km<sup>2</sup><br/>(42.872 Yrths)
         volume: 3.041 × 10<sup>14</sup> km<sup>3</sup><br/>(280.713 Yrths)
-        mass: 2.870 × 10<sup>26</sup> kg<br />(23.854178858231606 Yrths)
+        mass: 2.870 × 10<sup>26</sup> kg<br />(48.061 Yrths)
         density: 0.944 g/cm<sup>3</sup>
         surface_gravity: 10.994 m/s<sup>2</sup><br />(1.121 g<sub>0</sub>)
         escape_velocity: 30.306 km/s<br />(109,101 km/h)
         rotation_period: 69.731 d
         axial_tilt: 14.18°
         albedo: 0.30
-        temperature: 326 K<br />(53 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 579 Arkothiad IX c
         type: Asteroid
         formationType: Captured
@@ -1282,14 +1262,14 @@ planets:
         radius: 32,364.3 km<br/>(5.080 Yrths)
         surface_area: 1.316 × 10<sup>10</sup> km<sup>2</sup><br/>(25.806 Yrths)
         volume: 1.420 × 10<sup>14</sup> km<sup>3</sup><br/>(131.092 Yrths)
-        mass: 4.398 × 10<sup>26</sup> kg<br />(23.854178858231606 Yrths)
+        mass: 4.398 × 10<sup>26</sup> kg<br />(73.639 Yrths)
         density: 3.097 g/cm<sup>3</sup>
         surface_gravity: 27.984 m/s<sup>2</sup><br />(2.854 g<sub>0</sub>)
         escape_velocity: 42.589 km/s<br />(153,321 km/h)
         rotation_period: 50.366 d
         axial_tilt: 35.70°
         albedo: 0.30
-        temperature: 311 K<br />(38 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 579 Arkothiad IX d
         type: Icy
         formationType: Impact formed
@@ -1302,14 +1282,14 @@ planets:
         radius: 50,012.3 km<br/>(7.850 Yrths)
         surface_area: 3.143 × 10<sup>10</sup> km<sup>2</sup><br/>(61.622 Yrths)
         volume: 5.240 × 10<sup>14</sup> km<sup>3</sup><br/>(483.735 Yrths)
-        mass: 3.668 × 10<sup>26</sup> kg<br />(23.854178858231606 Yrths)
+        mass: 3.668 × 10<sup>26</sup> kg<br />(61.418 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 9.774 m/s<sup>2</sup><br />(0.997 g<sub>0</sub>)
         escape_velocity: 31.289 km/s<br />(112,639 km/h)
         rotation_period: 72.841 d
         axial_tilt: 13.33°
         albedo: 0.30
-        temperature: 297 K<br />(24 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 579 Arkothiad IX e
         type: Icy
         formationType: Captured
@@ -1322,14 +1302,14 @@ planets:
         radius: 22,381.1 km<br/>(3.513 Yrths)
         surface_area: 6.295 × 10<sup>09</sup> km<sup>2</sup><br/>(12.341 Yrths)
         volume: 4.696 × 10<sup>13</sup> km<sup>3</sup><br/>(43.353 Yrths)
-        mass: 7.429 × 10<sup>25</sup> kg<br />(23.854178858231606 Yrths)
+        mass: 7.429 × 10<sup>25</sup> kg<br />(12.440 Yrths)
         density: 1.582 g/cm<sup>3</sup>
         surface_gravity: 9.885 m/s<sup>2</sup><br />(1.008 g<sub>0</sub>)
         escape_velocity: 21.049 km/s<br />(75,778 km/h)
         rotation_period: 43.550 d
         axial_tilt: 15.19°
         albedo: 0.30
-        temperature: 270 K<br />(-3 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 579 Arkothiad IX f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1342,14 +1322,14 @@ planets:
         radius: 23,482.3 km<br/>(3.686 Yrths)
         surface_area: 6.929 × 10<sup>09</sup> km<sup>2</sup><br/>(13.585 Yrths)
         volume: 5.424 × 10<sup>13</sup> km<sup>3</sup><br/>(50.073 Yrths)
-        mass: 1.062 × 10<sup>26</sup> kg<br />(23.854178858231606 Yrths)
+        mass: 1.062 × 10<sup>26</sup> kg<br />(17.775 Yrths)
         density: 1.957 g/cm<sup>3</sup>
         surface_gravity: 12.831 m/s<sup>2</sup><br />(1.308 g<sub>0</sub>)
         escape_velocity: 24.565 km/s<br />(88,432 km/h)
         rotation_period: 47.716 d
         axial_tilt: 19.92°
         albedo: 0.30
-        temperature: 257 K<br />(-16 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 579 Arkothiad IX g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1362,14 +1342,14 @@ planets:
         radius: 25,325.6 km<br/>(3.975 Yrths)
         surface_area: 8.060 × 10<sup>09</sup> km<sup>2</sup><br/>(15.802 Yrths)
         volume: 6.804 × 10<sup>13</sup> km<sup>3</sup><br/>(62.814 Yrths)
-        mass: 1.338 × 10<sup>26</sup> kg<br />(23.854178858231606 Yrths)
+        mass: 1.338 × 10<sup>26</sup> kg<br />(22.413 Yrths)
         density: 1.967 g/cm<sup>3</sup>
         surface_gravity: 13.910 m/s<sup>2</sup><br />(1.418 g<sub>0</sub>)
         escape_velocity: 26.561 km/s<br />(95,620 km/h)
         rotation_period: 56.259 d
         axial_tilt: 17.34°
         albedo: 0.30
-        temperature: 245 K<br />(-28 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 579 Arkothiad IX h
         type: Ice/rock hybrid
         formationType: Captured
@@ -1382,14 +1362,14 @@ planets:
         radius: 22,967.9 km<br/>(3.605 Yrths)
         surface_area: 6.629 × 10<sup>09</sup> km<sup>2</sup><br/>(12.996 Yrths)
         volume: 5.075 × 10<sup>13</sup> km<sup>3</sup><br/>(46.853 Yrths)
-        mass: 1.074 × 10<sup>26</sup> kg<br />(23.854178858231606 Yrths)
+        mass: 1.074 × 10<sup>26</sup> kg<br />(17.986 Yrths)
         density: 2.116 g/cm<sup>3</sup>
         surface_gravity: 13.571 m/s<sup>2</sup><br />(1.384 g<sub>0</sub>)
         escape_velocity: 24.985 km/s<br />(89,946 km/h)
         rotation_period: 41.896 d
         axial_tilt: 16.17°
         albedo: 0.30
-        temperature: 234 K<br />(-39 °C)
+        temperature: 42 K<br />(-231 °C)
       - name: 579 Arkothiad IX i
         type: Icy
         formationType: Accreted
@@ -1402,12 +1382,12 @@ planets:
         radius: 23,541.2 km<br/>(3.695 Yrths)
         surface_area: 6.964 × 10<sup>09</sup> km<sup>2</sup><br/>(13.653 Yrths)
         volume: 5.465 × 10<sup>13</sup> km<sup>3</sup><br/>(50.450 Yrths)
-        mass: 6.615 × 10<sup>25</sup> kg<br />(23.854178858231606 Yrths)
+        mass: 6.615 × 10<sup>25</sup> kg<br />(11.077 Yrths)
         density: 1.210 g/cm<sup>3</sup>
         surface_gravity: 7.956 m/s<sup>2</sup><br />(0.811 g<sub>0</sub>)
         escape_velocity: 19.367 km/s<br />(69,722 km/h)
         rotation_period: 68.904 d
         axial_tilt: 9.31°
         albedo: 0.30
-        temperature: 213 K<br />(-61 °C)
+        temperature: 42 K<br />(-231 °C)
 ---

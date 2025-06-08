@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2542 Narashiad A is a star in the constellation Naras
+      2542 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 453.16 ly
 apparent_magnitude: 8.62
 absolute_magnitude: 2.91

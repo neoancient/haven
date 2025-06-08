@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Irento C is a star in the constellation Esunrain
+      Irento C is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 13974.31 ly
 apparent_magnitude: 4.12
 absolute_magnitude: -9.04

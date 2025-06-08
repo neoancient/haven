@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3489 Anilliad A is a star in the constellation Anil
+      3489 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 301.85 ly
 apparent_magnitude: 10.40
 absolute_magnitude: 5.57

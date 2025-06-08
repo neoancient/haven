@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Neothordeo is a star in the constellation Shy
+      Neothordeo is a star in the constellation <a href="shy.html">Shy</a>
 distance: 125.66 ly
 apparent_magnitude: 2.60
 absolute_magnitude: -0.33

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0253 Tanashad B is a star in the constellation Tanas
+      0253 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 104.96 ly
 apparent_magnitude: 7.74
 absolute_magnitude: 5.21

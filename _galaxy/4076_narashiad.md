@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4076 Narashiad is a star in the constellation Naras
+      4076 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 899.26 ly
 apparent_magnitude: 16.38
 absolute_magnitude: 9.18

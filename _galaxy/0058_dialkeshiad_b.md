@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0058 Dialkeshiad B is a star in the constellation Dialkes
+      0058 Dialkeshiad B is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 278.56 ly
 apparent_magnitude: 9.83
 absolute_magnitude: 5.17

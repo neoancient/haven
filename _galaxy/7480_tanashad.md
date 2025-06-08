@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7480 Tanashad is a star in the constellation Tanas
+      7480 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 235.53 ly
 apparent_magnitude: 10.62
 absolute_magnitude: 6.32

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      408 Anilliad is a star in the constellation Anil
+      408 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 633.26 ly
 apparent_magnitude: 11.10
 absolute_magnitude: 4.66

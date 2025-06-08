@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1099 Shanniashiad is a star in the constellation Shannias
+      1099 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 337.20 ly
 apparent_magnitude: 11.57
 absolute_magnitude: 6.50

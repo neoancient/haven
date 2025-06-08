@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      745 Lulithannaid A is a star in the constellation Lulithan
+      745 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 345.09 ly
 apparent_magnitude: 7.23
 absolute_magnitude: 2.11

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1689 Tanashad is a star in the constellation Tanas
+      1689 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 291.08 ly
 apparent_magnitude: 9.31
 absolute_magnitude: 4.56

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9421 Arkothiad is a star in the constellation Arkoth
+      9421 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 480.17 ly
 apparent_magnitude: 11.66
 absolute_magnitude: 5.82

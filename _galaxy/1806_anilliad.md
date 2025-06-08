@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1806 Anilliad is a star in the constellation Anil
+      1806 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 430.17 ly
 apparent_magnitude: 10.30
 absolute_magnitude: 4.70

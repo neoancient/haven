@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0021 Oniad B is a star in the constellation Oni
+      0021 Oniad B is a star in the constellation <a href="oni.html">Oni</a>
 distance: 88.86 ly
 apparent_magnitude: 8.58
 absolute_magnitude: 6.41

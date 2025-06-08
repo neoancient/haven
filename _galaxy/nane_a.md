@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nane A is a star in the constellation Nor
+      Nane A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 2150.34 ly
 apparent_magnitude: 2.71
 absolute_magnitude: -6.39

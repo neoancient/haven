@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1601 Ratharshinniad is a star in the constellation Ratharshin
+      1601 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 458.54 ly
 apparent_magnitude: 10.53
 absolute_magnitude: 4.79

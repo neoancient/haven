@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8118 Tanashad is a star in the constellation Tanas
+      8118 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 574.49 ly
 apparent_magnitude: 14.61
 absolute_magnitude: 8.38

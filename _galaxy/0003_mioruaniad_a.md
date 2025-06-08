@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0003 Mioruaniad A is a star in the constellation Mioruane
+      0003 Mioruaniad A is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 437.69 ly
 apparent_magnitude: 5.10
 absolute_magnitude: -0.54

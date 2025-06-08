@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      180 Ratharshinniad is a star in the constellation Ratharshin
+      180 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 492.46 ly
 apparent_magnitude: 8.68
 absolute_magnitude: 2.78

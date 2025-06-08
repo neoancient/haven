@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0083 Emniaiad is a star in the constellation Emnia
+      0083 Emniaiad is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 0.34 ly
 apparent_magnitude: 6.44
 absolute_magnitude: 16.34
@@ -31,14 +31,14 @@ planets:
     radius: 2,807.3 km<br/>(0.441 Yrths)
     surface_area: 9.904 × 10<sup>07</sup> km<sup>2</sup><br/>(0.194 Yrths)
     volume: 9.268 × 10<sup>10</sup> km<sup>3</sup><br/>(0.086 Yrths)
-    mass: 1.201 × 10<sup>25</sup> kg<br />(2.011169581186223 Yrths)
+    mass: 1.201 × 10<sup>25</sup> kg<br />(2.01 Yrths)
     density: 129.599 g/cm<sup>3</sup>
     surface_gravity: 101.578 m/s<sup>2</sup><br />(10.358 g<sub>0</sub>)
     escape_velocity: 23.898 km/s<br />(86,032 km/h)
     rotation_period: 2.918 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 385 K<br />(112 °C)
+    temperature: 1059 K<br />(786 °C)
     surface_pressure: 2,223 kPa<br />(22 atm)
     composition:
       - 95.7379% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 4,176.5 km<br/>(0.656 Yrths)
         surface_area: 2.192 × 10<sup>08</sup> km<sup>2</sup><br/>(0.430 Yrths)
         volume: 3.052 × 10<sup>11</sup> km<sup>3</sup><br/>(0.282 Yrths)
-        mass: 7.566 × 10<sup>23</sup> kg<br />(2.011169581186223 Yrths)
+        mass: 7.566 × 10<sup>23</sup> kg<br />(0.127 Yrths)
         density: 2.479 g/cm<sup>3</sup>
         surface_gravity: 2.891 m/s<sup>2</sup><br />(0.295 g<sub>0</sub>)
         escape_velocity: 4.918 km/s<br />(17,703 km/h)
         rotation_period: 29.905 d
         axial_tilt: 30.88°
         albedo: 0.30
-        temperature: 2228 K<br />(1955 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 0083 Emniaiad II
     type: Gas dwarf
     aphelion: 9,727,540 km<br />0.065 AU
@@ -75,14 +75,14 @@ planets:
     radius: 4,249.8 km<br/>(0.667 Yrths)
     surface_area: 2.270 × 10<sup>08</sup> km<sup>2</sup><br/>(0.445 Yrths)
     volume: 3.215 × 10<sup>11</sup> km<sup>3</sup><br/>(0.297 Yrths)
-    mass: 2.838 × 10<sup>25</sup> kg<br />(4.752474525404892 Yrths)
+    mass: 2.838 × 10<sup>25</sup> kg<br />(4.75 Yrths)
     density: 88.279 g/cm<sup>3</sup>
     surface_gravity: 104.744 m/s<sup>2</sup><br />(10.681 g<sub>0</sub>)
     escape_velocity: 29.858 km/s<br />(107,488 km/h)
     rotation_period: 4.481 d
     axial_tilt: 90.00°
     albedo: 0.60
-    temperature: 270 K<br />(-4 °C)
+    temperature: 239 K<br />(-34 °C)
     composition:
       - 56.6335% hydrogen
       - 43.3665% helium
@@ -97,7 +97,7 @@ planets:
     radius: 2,668.8 km<br/>(0.419 Yrths)
     surface_area: 8.951 × 10<sup>07</sup> km<sup>2</sup><br/>(0.175 Yrths)
     volume: 7.963 × 10<sup>10</sup> km<sup>3</sup><br/>(0.074 Yrths)
-    mass: 1.339 × 10<sup>25</sup> kg<br />(2.242722361257473 Yrths)
+    mass: 1.339 × 10<sup>25</sup> kg<br />(2.24 Yrths)
     density: 168.204 g/cm<sup>3</sup>
     surface_gravity: 125.333 m/s<sup>2</sup><br />(12.780 g<sub>0</sub>)
     escape_velocity: 25.882 km/s<br />(93,176 km/h)
@@ -118,12 +118,12 @@ planets:
         radius: 3,699.3 km<br/>(0.581 Yrths)
         surface_area: 1.720 × 10<sup>08</sup> km<sup>2</sup><br/>(0.337 Yrths)
         volume: 2.121 × 10<sup>11</sup> km<sup>3</sup><br/>(0.196 Yrths)
-        mass: 6.114 × 10<sup>23</sup> kg<br />(2.242722361257473 Yrths)
+        mass: 6.114 × 10<sup>23</sup> kg<br />(0.102 Yrths)
         density: 2.883 g/cm<sup>3</sup>
         surface_gravity: 2.978 m/s<sup>2</sup><br />(0.304 g<sub>0</sub>)
         escape_velocity: 4.697 km/s<br />(16,909 km/h)
         rotation_period: 45.525 d
         axial_tilt: 21.01°
         albedo: 0.30
-        temperature: 1277 K<br />(1003 °C)
+        temperature: 156 K<br />(-117 °C)
 ---

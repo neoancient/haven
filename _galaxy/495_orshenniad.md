@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      495 Orshenniad is a star in the constellation Orshen
+      495 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 493.71 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 4.83

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1274 Narashiad is a star in the constellation Naras
+      1274 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 309.73 ly
 apparent_magnitude: 10.91
 absolute_magnitude: 6.02

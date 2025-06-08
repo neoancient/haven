@@ -32,7 +32,7 @@ sections:
       - [Auric Prime](/haven/galaxy/auric_prime.html)
       - [Gildenspire](/haven/galaxy/gildenspire.html)
       - [The Grand Bazaar](/haven/galaxy/the_grand_bazaar.html)
-      - [Kestra-9](/haven/galaxy/kestra-9.html)
+      - [Kestra-2](/haven/galaxy/kestra-2.html)
       - [Ormoc](/haven/galaxy/ormoc.html)
       - [Typhon Exchange](/haven/galaxy/typhon_exchange.html)
       - [Zentarra](/haven/galaxy/zentarra.html)

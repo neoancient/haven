@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      806 Anilliad is a star in the constellation Anil
+      806 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 226.86 ly
 apparent_magnitude: 10.51
 absolute_magnitude: 6.30

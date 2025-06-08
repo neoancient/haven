@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      129 Switheriad A is a star in the constellation Swither
+      129 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 341.45 ly
 apparent_magnitude: 8.01
 absolute_magnitude: 2.91

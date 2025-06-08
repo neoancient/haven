@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3488 Geardiad is a star in the constellation Geard
+      3488 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 720.08 ly
 apparent_magnitude: 11.74
 absolute_magnitude: 5.03

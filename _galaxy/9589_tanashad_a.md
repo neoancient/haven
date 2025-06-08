@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9589 Tanashad A is a star in the constellation Tanas
+      9589 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 281.02 ly
 apparent_magnitude: 8.54
 absolute_magnitude: 3.87

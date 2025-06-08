@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      23224 Geardiad A is a star in the constellation Geard
+      23224 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 608.70 ly
 apparent_magnitude: 8.46
 absolute_magnitude: 2.10

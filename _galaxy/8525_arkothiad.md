@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8525 Arkothiad is a star in the constellation Arkoth
+      8525 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 459.14 ly
 apparent_magnitude: 8.53
 absolute_magnitude: 2.78

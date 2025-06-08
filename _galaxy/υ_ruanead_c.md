@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      υ Ruanead C is a star in the constellation Ruane
+      υ Ruanead C is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 1261.21 ly
 apparent_magnitude: 11.56
 absolute_magnitude: 3.62

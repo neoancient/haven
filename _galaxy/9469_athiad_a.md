@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9469 Athiad A is a star in the constellation Ath
+      9469 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 644.41 ly
 apparent_magnitude: 8.92
 absolute_magnitude: 2.44

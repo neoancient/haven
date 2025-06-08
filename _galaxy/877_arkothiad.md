@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      877 Arkothiad is a star in the constellation Arkoth
+      877 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 311.84 ly
 apparent_magnitude: 9.68
 absolute_magnitude: 4.78

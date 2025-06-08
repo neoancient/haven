@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2026 Arkothiad A is a star in the constellation Arkoth
+      2026 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 330.68 ly
 apparent_magnitude: 11.28
 absolute_magnitude: 6.25

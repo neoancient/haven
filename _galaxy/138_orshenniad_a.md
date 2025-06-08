@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      138 Orshenniad A is a star in the constellation Orshen
+      138 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 409.13 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 2.34

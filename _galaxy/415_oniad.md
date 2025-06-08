@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      415 Oniad is a star in the constellation Oni
+      415 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1009.42 ly
 apparent_magnitude: 14.99
 absolute_magnitude: 7.54

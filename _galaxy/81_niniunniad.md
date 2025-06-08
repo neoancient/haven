@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      81 Niniunniad is a star in the constellation Niniun
+      81 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 329.92 ly
 apparent_magnitude: 9.73
 absolute_magnitude: 4.70

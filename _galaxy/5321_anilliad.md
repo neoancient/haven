@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5321 Anilliad is a star in the constellation Anil
+      5321 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 701.19 ly
 apparent_magnitude: 14.75
 absolute_magnitude: 8.09

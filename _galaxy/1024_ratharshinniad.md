@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1024 Ratharshinniad is a star in the constellation Ratharshin
+      1024 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 467.69 ly
 apparent_magnitude: 11.52
 absolute_magnitude: 5.73

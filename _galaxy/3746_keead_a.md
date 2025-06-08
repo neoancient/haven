@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3746 Keead A is a star in the constellation Kee
+      3746 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 506.41 ly
 apparent_magnitude: 8.08
 absolute_magnitude: 2.12

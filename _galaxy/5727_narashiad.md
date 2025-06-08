@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5727 Narashiad is a star in the constellation Naras
+      5727 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 318.84 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 5.32

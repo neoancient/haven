@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5279 Narashiad A is a star in the constellation Naras
+      5279 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 477.58 ly
 apparent_magnitude: 8.72
 absolute_magnitude: 2.90

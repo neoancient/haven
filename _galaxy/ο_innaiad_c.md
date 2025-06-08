@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Innaiad C is a star in the constellation Inna
+      ο Innaiad C is a star in the constellation <a href="inna.html">Inna</a>
 distance: 89.89 ly
 apparent_magnitude: 6.90
 absolute_magnitude: 4.70
@@ -31,14 +31,14 @@ planets:
     radius: 6,220.5 km<br/>(0.976 Yrths)
     surface_area: 4.863 × 10<sup>08</sup> km<sup>2</sup><br/>(0.953 Yrths)
     volume: 1.008 × 10<sup>12</sup> km<sup>3</sup><br/>(0.931 Yrths)
-    mass: 6.165 × 10<sup>24</sup> kg<br />(1.0323630224829967 Yrths)
+    mass: 6.165 × 10<sup>24</sup> kg<br />(1.03 Yrths)
     density: 6.115 g/cm<sup>3</sup>
     surface_gravity: 10.620 m/s<sup>2</sup><br />(1.083 g<sub>0</sub>)
     escape_velocity: 11.502 km/s<br />(41,408 km/h)
     rotation_period: 1.373 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 276 K<br />(3 °C)
+    temperature: 289 K<br />(16 °C)
     surface_pressure: 28 kPa<br />(0 atm)
     composition:
       - 52.0028% nitrogen
@@ -60,14 +60,14 @@ planets:
         radius: 2,484.2 km<br/>(0.390 Yrths)
         surface_area: 7.755 × 10<sup>07</sup> km<sup>2</sup><br/>(0.152 Yrths)
         volume: 6.422 × 10<sup>10</sup> km<sup>3</sup><br/>(0.059 Yrths)
-        mass: 1.255 × 10<sup>23</sup> kg<br />(1.0323630224829967 Yrths)
+        mass: 1.255 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 1.955 g/cm<sup>3</sup>
         surface_gravity: 1.356 m/s<sup>2</sup><br />(0.138 g<sub>0</sub>)
         escape_velocity: 2.597 km/s<br />(9,350 km/h)
         rotation_period: 55.900 d
         axial_tilt: 25.57°
         albedo: 0.30
-        temperature: 3610 K<br />(3337 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: ο Innaiad C II
     type: Ice giant
     aphelion: 321,875,808 km<br />2.152 AU
@@ -79,14 +79,14 @@ planets:
     radius: 34,086.8 km<br/>(5.350 Yrths)
     surface_area: 1.460 × 10<sup>10</sup> km<sup>2</sup><br/>(28.626 Yrths)
     volume: 1.659 × 10<sup>14</sup> km<sup>3</sup><br/>(153.157 Yrths)
-    mass: 2.158 × 10<sup>26</sup> kg<br />(36.128581073070045 Yrths)
+    mass: 2.158 × 10<sup>26</sup> kg<br />(36.13 Yrths)
     density: 1.301 g/cm<sup>3</sup>
     surface_gravity: 12.377 m/s<sup>2</sup><br />(1.262 g<sub>0</sub>)
     escape_velocity: 29.068 km/s<br />(104,644 km/h)
     rotation_period: 0.472 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 318 K<br />(45 °C)
+    temperature: 287 K<br />(14 °C)
     composition:
       - 77.4951% hydrogen
       - 20.8283% helium
@@ -104,14 +104,14 @@ planets:
         radius: 63,843.2 km<br/>(10.021 Yrths)
         surface_area: 5.122 × 10<sup>10</sup> km<sup>2</sup><br/>(100.419 Yrths)
         volume: 1.090 × 10<sup>15</sup> km<sup>3</sup><br/>(1006.285 Yrths)
-        mass: 2.510 × 10<sup>27</sup> kg<br />(36.128581073070045 Yrths)
+        mass: 2.510 × 10<sup>27</sup> kg<br />(420.247 Yrths)
         density: 2.302 g/cm<sup>3</sup>
         surface_gravity: 41.040 m/s<sup>2</sup><br />(4.185 g<sub>0</sub>)
         escape_velocity: 72.439 km/s<br />(260,781 km/h)
         rotation_period: 38.399 d
         axial_tilt: 14.85°
         albedo: 0.30
-        temperature: 1459 K<br />(1186 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: ο Innaiad C II b
         type: Dwarf planet
         formationType: Captured
@@ -124,14 +124,14 @@ planets:
         radius: 50,165.8 km<br/>(7.874 Yrths)
         surface_area: 3.162 × 10<sup>10</sup> km<sup>2</sup><br/>(62.001 Yrths)
         volume: 5.288 × 10<sup>14</sup> km<sup>3</sup><br/>(488.203 Yrths)
-        mass: 9.937 × 10<sup>26</sup> kg<br />(36.128581073070045 Yrths)
+        mass: 9.937 × 10<sup>26</sup> kg<br />(166.385 Yrths)
         density: 1.879 g/cm<sup>3</sup>
         surface_gravity: 26.317 m/s<sup>2</sup><br />(2.684 g<sub>0</sub>)
         escape_velocity: 51.420 km/s<br />(185,111 km/h)
         rotation_period: 39.419 d
         axial_tilt: 33.06°
         albedo: 0.30
-        temperature: 1391 K<br />(1118 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: ο Innaiad C II c
         type: Dwarf planet
         formationType: Accreted
@@ -144,14 +144,14 @@ planets:
         radius: 35,327.9 km<br/>(5.545 Yrths)
         surface_area: 1.568 × 10<sup>10</sup> km<sup>2</sup><br/>(30.748 Yrths)
         volume: 1.847 × 10<sup>14</sup> km<sup>3</sup><br/>(170.503 Yrths)
-        mass: 3.630 × 10<sup>26</sup> kg<br />(36.128581073070045 Yrths)
+        mass: 3.630 × 10<sup>26</sup> kg<br />(60.786 Yrths)
         density: 1.966 g/cm<sup>3</sup>
         surface_gravity: 19.387 m/s<sup>2</sup><br />(1.977 g<sub>0</sub>)
         escape_velocity: 37.036 km/s<br />(133,328 km/h)
         rotation_period: 41.252 d
         axial_tilt: 34.31°
         albedo: 0.30
-        temperature: 1206 K<br />(933 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: ο Innaiad C II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -164,14 +164,14 @@ planets:
         radius: 29,250.8 km<br/>(4.591 Yrths)
         surface_area: 1.075 × 10<sup>10</sup> km<sup>2</sup><br/>(21.080 Yrths)
         volume: 1.048 × 10<sup>14</sup> km<sup>3</sup><br/>(96.781 Yrths)
-        mass: 2.780 × 10<sup>26</sup> kg<br />(36.128581073070045 Yrths)
+        mass: 2.780 × 10<sup>26</sup> kg<br />(46.550 Yrths)
         density: 2.652 g/cm<sup>3</sup>
         surface_gravity: 21.656 m/s<sup>2</sup><br />(2.208 g<sub>0</sub>)
         escape_velocity: 35.618 km/s<br />(128,224 km/h)
         rotation_period: 41.511 d
         axial_tilt: 22.90°
         albedo: 0.30
-        temperature: 1150 K<br />(877 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: ο Innaiad C II e
         type: Icy
         formationType: Captured
@@ -184,14 +184,14 @@ planets:
         radius: 39,002.5 km<br/>(6.122 Yrths)
         surface_area: 1.912 × 10<sup>10</sup> km<sup>2</sup><br/>(37.477 Yrths)
         volume: 2.485 × 10<sup>14</sup> km<sup>3</sup><br/>(229.431 Yrths)
-        mass: 4.432 × 10<sup>26</sup> kg<br />(36.128581073070045 Yrths)
+        mass: 4.432 × 10<sup>26</sup> kg<br />(74.214 Yrths)
         density: 1.783 g/cm<sup>3</sup>
         surface_gravity: 19.419 m/s<sup>2</sup><br />(1.980 g<sub>0</sub>)
         escape_velocity: 38.947 km/s<br />(140,209 km/h)
         rotation_period: 64.745 d
         axial_tilt: 17.79°
         albedo: 0.30
-        temperature: 1096 K<br />(823 °C)
+        temperature: 181 K<br />(-92 °C)
   - name: ο Innaiad C III
     type: Terrestrial
     aphelion: 596,785,292 km<br />3.989 AU
@@ -203,14 +203,14 @@ planets:
     radius: 7,604.1 km<br/>(1.194 Yrths)
     surface_area: 7.266 × 10<sup>08</sup> km<sup>2</sup><br/>(1.425 Yrths)
     volume: 1.842 × 10<sup>12</sup> km<sup>3</sup><br/>(1.700 Yrths)
-    mass: 9.130 × 10<sup>24</sup> kg<br />(1.5287681280052918 Yrths)
+    mass: 9.130 × 10<sup>24</sup> kg<br />(1.53 Yrths)
     density: 4.957 g/cm<sup>3</sup>
     surface_gravity: 10.524 m/s<sup>2</sup><br />(1.073 g<sub>0</sub>)
     escape_velocity: 12.660 km/s<br />(45,575 km/h)
     rotation_period: 0.917 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 153 K<br />(-120 °C)
+    temperature: 203 K<br />(-70 °C)
     surface_pressure: 17 kPa<br />(0 atm)
     composition:
       - 96.5028% methane
@@ -230,12 +230,12 @@ planets:
         radius: 2,763.8 km<br/>(0.434 Yrths)
         surface_area: 9.599 × 10<sup>07</sup> km<sup>2</sup><br/>(0.188 Yrths)
         volume: 8.843 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
-        mass: 2.836 × 10<sup>23</sup> kg<br />(1.5287681280052918 Yrths)
+        mass: 2.836 × 10<sup>23</sup> kg<br />(0.047 Yrths)
         density: 3.207 g/cm<sup>3</sup>
         surface_gravity: 2.474 m/s<sup>2</sup><br />(0.252 g<sub>0</sub>)
         escape_velocity: 3.701 km/s<br />(13,323 km/h)
         rotation_period: 39.098 d
         axial_tilt: 11.45°
         albedo: 0.30
-        temperature: 1925 K<br />(1652 °C)
+        temperature: 134 K<br />(-139 °C)
 ---

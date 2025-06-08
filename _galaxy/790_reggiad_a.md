@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      790 Reggiad A is a star in the constellation Reg
+      790 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 323.07 ly
 apparent_magnitude: 7.35
 absolute_magnitude: 2.37

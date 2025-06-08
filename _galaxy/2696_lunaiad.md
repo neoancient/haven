@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2696 Lunaiad is a star in the constellation Luna
+      2696 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 363.97 ly
 apparent_magnitude: 7.07
 absolute_magnitude: 1.84
@@ -31,14 +31,14 @@ planets:
     radius: 10,336.7 km<br/>(1.622 Yrths)
     surface_area: 1.343 × 10<sup>09</sup> km<sup>2</sup><br/>(2.632 Yrths)
     volume: 4.626 × 10<sup>12</sup> km<sup>3</sup><br/>(4.271 Yrths)
-    mass: 2.676 × 10<sup>25</sup> kg<br />(4.481455693985906 Yrths)
+    mass: 2.676 × 10<sup>25</sup> kg<br />(4.48 Yrths)
     density: 5.785 g/cm<sup>3</sup>
     surface_gravity: 16.695 m/s<sup>2</sup><br />(1.702 g<sub>0</sub>)
     escape_velocity: 18.591 km/s<br />(66,926 km/h)
     rotation_period: 0.643 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 589 K<br />(316 °C)
+    temperature: 675 K<br />(402 °C)
     surface_pressure: 2,030 kPa<br />(20 atm)
     composition:
       - 88.3142% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 7,218.5 km<br/>(1.133 Yrths)
         surface_area: 6.548 × 10<sup>08</sup> km<sup>2</sup><br/>(1.284 Yrths)
         volume: 1.576 × 10<sup>12</sup> km<sup>3</sup><br/>(1.454 Yrths)
-        mass: 4.959 × 10<sup>24</sup> kg<br />(4.481455693985906 Yrths)
+        mass: 4.959 × 10<sup>24</sup> kg<br />(0.830 Yrths)
         density: 3.148 g/cm<sup>3</sup>
         surface_gravity: 6.344 m/s<sup>2</sup><br />(0.647 g<sub>0</sub>)
         escape_velocity: 9.576 km/s<br />(34,475 km/h)
         rotation_period: 38.520 d
         axial_tilt: 17.49°
         albedo: 0.30
-        temperature: 5028 K<br />(4754 °C)
+        temperature: 396 K<br />(122 °C)
       - name: 2696 Lunaiad I b
         type: Icy
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 4,590.0 km<br/>(0.720 Yrths)
         surface_area: 2.647 × 10<sup>08</sup> km<sup>2</sup><br/>(0.519 Yrths)
         volume: 4.051 × 10<sup>11</sup> km<sup>3</sup><br/>(0.374 Yrths)
-        mass: 5.612 × 10<sup>23</sup> kg<br />(4.481455693985906 Yrths)
+        mass: 5.612 × 10<sup>23</sup> kg<br />(0.094 Yrths)
         density: 1.385 g/cm<sup>3</sup>
         surface_gravity: 1.775 m/s<sup>2</sup><br />(0.181 g<sub>0</sub>)
         escape_velocity: 4.040 km/s<br />(14,544 km/h)
         rotation_period: 46.921 d
         axial_tilt: 16.65°
         albedo: 0.30
-        temperature: 4794 K<br />(4520 °C)
+        temperature: 396 K<br />(122 °C)
   - name: 2696 Lunaiad II
     type: Gas giant
     aphelion: 688,956,411 km<br />4.605 AU
@@ -96,14 +96,14 @@ planets:
     radius: 153.8 km<br/>(0.024 Yrths)
     surface_area: 2.971 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.523 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.274 × 10<sup>26</sup> kg<br />(54.81765862389361 Yrths)
+    mass: 3.274 × 10<sup>26</sup> kg<br />(54.82 Yrths)
     density: 21498544.171 g/cm<sup>3</sup>
     surface_gravity: 922914.114 m/s<sup>2</sup><br />(94111.049 g<sub>0</sub>)
     escape_velocity: 533.107 km/s<br />(1,919,185 km/h)
     rotation_period: 0.279 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1159 K<br />(885 °C)
+    temperature: 1140 K<br />(867 °C)
     composition:
       - 78.7650% hydrogen
       - 14.2644% helium
@@ -122,75 +122,115 @@ planets:
         radius: 62,927.0 km<br/>(9.877 Yrths)
         surface_area: 4.976 × 10<sup>10</sup> km<sup>2</sup><br/>(97.557 Yrths)
         volume: 1.044 × 10<sup>15</sup> km<sup>3</sup><br/>(963.583 Yrths)
-        mass: 2.930 × 10<sup>27</sup> kg<br />(54.81765862389361 Yrths)
+        mass: 2.930 × 10<sup>27</sup> kg<br />(490.566 Yrths)
         density: 2.807 g/cm<sup>3</sup>
         surface_gravity: 49.313 m/s<sup>2</sup><br />(5.028 g<sub>0</sub>)
         escape_velocity: 78.833 km/s<br />(283,799 km/h)
         rotation_period: 40.824 d
         axial_tilt: 20.79°
         albedo: 0.30
-        temperature: 1565 K<br />(1292 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 2696 Lunaiad II b
-        type: Rocky
-        formationType: Impact formed
-        aphelion: 64,460,167 km<br />
-        perihelion: 64,392,851 km<br />
-        semi_major_axis: 64,426,509 km<br />
-        eccentricity: 0.001
-        orbital_period: 0.05 d<br />
-        inclination: 0.00°
-        radius: 48,575.1 km<br/>(7.624 Yrths)
-        surface_area: 2.965 × 10<sup>10</sup> km<sup>2</sup><br/>(58.132 Yrths)
-        volume: 4.801 × 10<sup>14</sup> km<sup>3</sup><br/>(443.218 Yrths)
-        mass: 1.163 × 10<sup>27</sup> kg<br />(54.81765862389361 Yrths)
-        density: 2.422 g/cm<sup>3</sup>
-        surface_gravity: 32.842 m/s<sup>2</sup><br />(3.349 g<sub>0</sub>)
-        escape_velocity: 56.523 km/s<br />(203,484 km/h)
-        rotation_period: 44.903 d
-        axial_tilt: 20.16°
-        albedo: 0.30
-        temperature: 803 K<br />(530 °C)
-      - name: 2696 Lunaiad II c
         type: Icy
         formationType: Accreted
-        aphelion: 219,729,776 km<br />
-        perihelion: 184,666,192 km<br />
-        semi_major_axis: 202,197,984 km<br />
-        eccentricity: 0.087
+        aphelion: 25,407,725 km<br />
+        perihelion: 24,270,691 km<br />
+        semi_major_axis: 24,839,208 km<br />
+        eccentricity: 0.023
         orbital_period: 0.05 d<br />
-        inclination: 6.07°
-        radius: 57,067.7 km<br/>(8.957 Yrths)
-        surface_area: 4.093 × 10<sup>10</sup> km<sup>2</sup><br/>(80.235 Yrths)
-        volume: 7.785 × 10<sup>14</sup> km<sup>3</sup><br/>(718.703 Yrths)
-        mass: 1.115 × 10<sup>27</sup> kg<br />(54.81765862389361 Yrths)
-        density: 1.432 g/cm<sup>3</sup>
-        surface_gravity: 22.815 m/s<sup>2</sup><br />(2.326 g<sub>0</sub>)
-        escape_velocity: 51.064 km/s<br />(183,830 km/h)
-        rotation_period: 48.314 d
-        axial_tilt: 20.04°
+        inclination: 4.12°
+        radius: 33,989.6 km<br/>(5.335 Yrths)
+        surface_area: 1.452 × 10<sup>10</sup> km<sup>2</sup><br/>(28.463 Yrths)
+        volume: 1.645 × 10<sup>14</sup> km<sup>3</sup><br/>(151.851 Yrths)
+        mass: 1.584 × 10<sup>26</sup> kg<br />(26.517 Yrths)
+        density: 0.963 g/cm<sup>3</sup>
+        surface_gravity: 9.136 m/s<sup>2</sup><br />(0.932 g<sub>0</sub>)
+        escape_velocity: 24.938 km/s<br />(89,778 km/h)
+        rotation_period: 56.866 d
+        axial_tilt: 13.40°
         albedo: 0.30
-        temperature: 453 K<br />(180 °C)
+        temperature: 283 K<br />(10 °C)
+      - name: 2696 Lunaiad II c
+        type: Dwarf planet
+        formationType: Accreted
+        aphelion: 37,084,942 km<br />
+        perihelion: 29,037,030 km<br />
+        semi_major_axis: 33,060,986 km<br />
+        eccentricity: 0.122
+        orbital_period: 0.05 d<br />
+        inclination: 3.55°
+        radius: 20,622.2 km<br/>(3.237 Yrths)
+        surface_area: 5.344 × 10<sup>09</sup> km<sup>2</sup><br/>(10.477 Yrths)
+        volume: 3.674 × 10<sup>13</sup> km<sup>3</sup><br/>(33.914 Yrths)
+        mass: 6.825 × 10<sup>25</sup> kg<br />(11.428 Yrths)
+        density: 1.858 g/cm<sup>3</sup>
+        surface_gravity: 10.696 m/s<sup>2</sup><br />(1.091 g<sub>0</sub>)
+        escape_velocity: 21.018 km/s<br />(75,665 km/h)
+        rotation_period: 52.243 d
+        axial_tilt: 22.91°
+        albedo: 0.30
+        temperature: 283 K<br />(10 °C)
       - name: 2696 Lunaiad II d
         type: Icy
-        formationType: Accreted
-        aphelion: 381,934,413 km<br />
-        perihelion: 334,477,713 km<br />
-        semi_major_axis: 358,206,063 km<br />
-        eccentricity: 0.066
+        formationType: Captured
+        aphelion: 156,598,978 km<br />
+        perihelion: 147,229,698 km<br />
+        semi_major_axis: 151,914,338 km<br />
+        eccentricity: 0.031
         orbital_period: 0.05 d<br />
-        inclination: 0.00°
-        radius: 65,002.8 km<br/>(10.203 Yrths)
-        surface_area: 5.310 × 10<sup>10</sup> km<sup>2</sup><br/>(104.100 Yrths)
-        volume: 1.150 × 10<sup>15</sup> km<sup>3</sup><br/>(1062.120 Yrths)
-        mass: 1.121 × 10<sup>27</sup> kg<br />(54.81765862389361 Yrths)
-        density: 0.974 g/cm<sup>3</sup>
-        surface_gravity: 17.683 m/s<sup>2</sup><br />(1.803 g<sub>0</sub>)
-        escape_velocity: 47.980 km/s<br />(172,727 km/h)
-        rotation_period: 53.564 d
-        axial_tilt: 15.56°
+        inclination: 0.49°
+        radius: 28,540.2 km<br/>(4.480 Yrths)
+        surface_area: 1.024 × 10<sup>10</sup> km<sup>2</sup><br/>(20.068 Yrths)
+        volume: 9.738 × 10<sup>13</sup> km<sup>3</sup><br/>(89.898 Yrths)
+        mass: 1.199 × 10<sup>26</sup> kg<br />(20.069 Yrths)
+        density: 1.231 g/cm<sup>3</sup>
+        surface_gravity: 9.807 m/s<sup>2</sup><br />(1.000 g<sub>0</sub>)
+        escape_velocity: 23.676 km/s<br />(85,234 km/h)
+        rotation_period: 88.753 d
+        axial_tilt: 22.11°
         albedo: 0.30
-        temperature: 341 K<br />(67 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 2696 Lunaiad II e
+        type: Icy
+        formationType: Captured
+        aphelion: 217,529,110 km<br />
+        perihelion: 116,682,434 km<br />
+        semi_major_axis: 167,105,772 km<br />
+        eccentricity: 0.302
+        orbital_period: 0.05 d<br />
+        inclination: 67.73°
+        radius: 41,831.9 km<br/>(6.566 Yrths)
+        surface_area: 2.199 × 10<sup>10</sup> km<sup>2</sup><br/>(43.112 Yrths)
+        volume: 3.066 × 10<sup>14</sup> km<sup>3</sup><br/>(283.075 Yrths)
+        mass: 2.576 × 10<sup>26</sup> kg<br />(43.136 Yrths)
+        density: 0.840 g/cm<sup>3</sup>
+        surface_gravity: 9.812 m/s<sup>2</sup><br />(1.001 g<sub>0</sub>)
+        escape_velocity: 28.671 km/s<br />(103,215 km/h)
+        rotation_period: 59.718 d
+        axial_tilt: 15.17°
+        albedo: 0.30
+        temperature: 283 K<br />(10 °C)
+      - name: 2696 Lunaiad II f
+        type: Icy
+        formationType: Captured
+        aphelion: 338,975,676 km<br />
+        perihelion: 253,100,461 km<br />
+        semi_major_axis: 296,038,069 km<br />
+        eccentricity: 0.145
+        orbital_period: 0.05 d<br />
+        inclination: 3.57°
+        radius: 40,729.2 km<br/>(6.393 Yrths)
+        surface_area: 2.085 × 10<sup>10</sup> km<sup>2</sup><br/>(40.869 Yrths)
+        volume: 2.830 × 10<sup>14</sup> km<sup>3</sup><br/>(261.273 Yrths)
+        mass: 2.367 × 10<sup>26</sup> kg<br />(39.634 Yrths)
+        density: 0.836 g/cm<sup>3</sup>
+        surface_gravity: 9.510 m/s<sup>2</sup><br />(0.970 g<sub>0</sub>)
+        escape_velocity: 27.852 km/s<br />(100,268 km/h)
+        rotation_period: 87.638 d
+        axial_tilt: 6.12°
+        albedo: 0.30
+        temperature: 283 K<br />(10 °C)
+      - name: 2696 Lunaiad II g
         type: Icy
         formationType: Captured
         aphelion: 606,394,784 km<br />
@@ -202,15 +242,35 @@ planets:
         radius: 59,498.1 km<br/>(9.339 Yrths)
         surface_area: 4.449 × 10<sup>10</sup> km<sup>2</sup><br/>(87.215 Yrths)
         volume: 8.823 × 10<sup>14</sup> km<sup>3</sup><br/>(814.489 Yrths)
-        mass: 1.502 × 10<sup>27</sup> kg<br />(54.81765862389361 Yrths)
+        mass: 1.502 × 10<sup>27</sup> kg<br />(251.458 Yrths)
         density: 1.702 g/cm<sup>3</sup>
         surface_gravity: 28.275 m/s<sup>2</sup><br />(2.883 g<sub>0</sub>)
         escape_velocity: 58.044 km/s<br />(208,959 km/h)
         rotation_period: 42.349 d
         axial_tilt: 25.36°
         albedo: 0.30
-        temperature: 281 K<br />(8 °C)
-      - name: 2696 Lunaiad II f
+        temperature: 283 K<br />(10 °C)
+      - name: 2696 Lunaiad II h
+        type: Icy
+        formationType: Accreted
+        aphelion: 1,526,166,767 km<br />
+        perihelion: 1,194,407,089 km<br />
+        semi_major_axis: 1,360,286,928 km<br />
+        eccentricity: 0.122
+        orbital_period: 0.05 d<br />
+        inclination: 1.78°
+        radius: 24,355.6 km<br/>(3.823 Yrths)
+        surface_area: 7.454 × 10<sup>09</sup> km<sup>2</sup><br/>(14.614 Yrths)
+        volume: 6.052 × 10<sup>13</sup> km<sup>3</sup><br/>(55.869 Yrths)
+        mass: 7.887 × 10<sup>25</sup> kg<br />(13.206 Yrths)
+        density: 1.303 g/cm<sup>3</sup>
+        surface_gravity: 8.861 m/s<sup>2</sup><br />(0.904 g<sub>0</sub>)
+        escape_velocity: 20.790 km/s<br />(74,845 km/h)
+        rotation_period: 66.872 d
+        axial_tilt: 14.91°
+        albedo: 0.30
+        temperature: 283 K<br />(10 °C)
+      - name: 2696 Lunaiad II i
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 1,857,231,312 km<br />
@@ -222,35 +282,15 @@ planets:
         radius: 57,404.9 km<br/>(9.010 Yrths)
         surface_area: 4.141 × 10<sup>10</sup> km<sup>2</sup><br/>(81.186 Yrths)
         volume: 7.924 × 10<sup>14</sup> km<sup>3</sup><br/>(731.516 Yrths)
-        mass: 1.879 × 10<sup>27</sup> kg<br />(54.81765862389361 Yrths)
+        mass: 1.879 × 10<sup>27</sup> kg<br />(314.652 Yrths)
         density: 2.371 g/cm<sup>3</sup>
         surface_gravity: 38.007 m/s<sup>2</sup><br />(3.876 g<sub>0</sub>)
         escape_velocity: 66.103 km/s<br />(237,969 km/h)
         rotation_period: 51.209 d
         axial_tilt: 18.79°
         albedo: 0.30
-        temperature: 151 K<br />(-122 °C)
-      - name: 2696 Lunaiad II g
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 2,781,101,652 km<br />
-        perihelion: 2,520,527,144 km<br />
-        semi_major_axis: 2,650,814,398 km<br />
-        eccentricity: 0.049
-        orbital_period: 0.05 d<br />
-        inclination: 2.04°
-        radius: 51,551.5 km<br/>(8.092 Yrths)
-        surface_area: 3.340 × 10<sup>10</sup> km<sup>2</sup><br/>(65.474 Yrths)
-        volume: 5.739 × 10<sup>14</sup> km<sup>3</sup><br/>(529.785 Yrths)
-        mass: 1.256 × 10<sup>27</sup> kg<br />(54.81765862389361 Yrths)
-        density: 2.188 g/cm<sup>3</sup>
-        surface_gravity: 31.496 m/s<sup>2</sup><br />(3.212 g<sub>0</sub>)
-        escape_velocity: 57.024 km/s<br />(205,287 km/h)
-        rotation_period: 49.681 d
-        axial_tilt: 19.29°
-        albedo: 0.30
-        temperature: 125 K<br />(-148 °C)
-      - name: 2696 Lunaiad II h
+        temperature: 283 K<br />(10 °C)
+      - name: 2696 Lunaiad II j
         type: Icy
         formationType: Accreted
         aphelion: 3,005,362,352 km<br />
@@ -262,15 +302,15 @@ planets:
         radius: 69,510.1 km<br/>(10.910 Yrths)
         surface_area: 6.072 × 10<sup>10</sup> km<sup>2</sup><br/>(119.037 Yrths)
         volume: 1.407 × 10<sup>15</sup> km<sup>3</sup><br/>(1298.738 Yrths)
-        mass: 1.431 × 10<sup>27</sup> kg<br />(54.81765862389361 Yrths)
+        mass: 1.431 × 10<sup>27</sup> kg<br />(239.692 Yrths)
         density: 1.018 g/cm<sup>3</sup>
         surface_gravity: 19.747 m/s<sup>2</sup><br />(2.014 g<sub>0</sub>)
         escape_velocity: 52.430 km/s<br />(188,748 km/h)
         rotation_period: 85.489 d
         axial_tilt: 12.89°
         albedo: 0.30
-        temperature: 119 K<br />(-154 °C)
-      - name: 2696 Lunaiad II i
+        temperature: 283 K<br />(10 °C)
+      - name: 2696 Lunaiad II k
         type: Rocky
         formationType: Accreted
         aphelion: 3,770,585,311 km<br />
@@ -282,12 +322,12 @@ planets:
         radius: 52,160.0 km<br/>(8.187 Yrths)
         surface_area: 3.419 × 10<sup>10</sup> km<sup>2</sup><br/>(67.029 Yrths)
         volume: 5.944 × 10<sup>14</sup> km<sup>3</sup><br/>(548.769 Yrths)
-        mass: 1.806 × 10<sup>27</sup> kg<br />(54.81765862389361 Yrths)
+        mass: 1.806 × 10<sup>27</sup> kg<br />(302.376 Yrths)
         density: 3.038 g/cm<sup>3</sup>
         surface_gravity: 44.239 m/s<sup>2</sup><br />(4.511 g<sub>0</sub>)
         escape_velocity: 67.980 km/s<br />(244,729 km/h)
         rotation_period: 56.151 d
         axial_tilt: 19.12°
         albedo: 0.30
-        temperature: 109 K<br />(-165 °C)
+        temperature: 283 K<br />(10 °C)
 ---

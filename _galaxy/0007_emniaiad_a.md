@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0007 Emniaiad A is a star in the constellation Emnia
+      0007 Emniaiad A is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 113.22 ly
 apparent_magnitude: 5.45
 absolute_magnitude: 2.74

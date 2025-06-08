@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Nethiaiad B is a star in the constellation Nethiai
+      θ Nethiaiad B is a star in the constellation <a href="nethiai.html">Nethiai</a>
 distance: 357.10 ly
 apparent_magnitude: 10.40
 absolute_magnitude: 5.20

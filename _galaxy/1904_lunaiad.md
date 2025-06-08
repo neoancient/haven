@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1904 Lunaiad is a star in the constellation Luna
+      1904 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 227.89 ly
 apparent_magnitude: 10.14
 absolute_magnitude: 5.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4980 Narashiad is a star in the constellation Naras
+      4980 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 370.15 ly
 apparent_magnitude: 11.20
 absolute_magnitude: 5.92

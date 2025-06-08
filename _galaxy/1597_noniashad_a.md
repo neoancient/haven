@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1597 Noniashad A is a star in the constellation Nonias
+      1597 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 418.57 ly
 apparent_magnitude: 7.95
 absolute_magnitude: 2.40

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Tanashad C is a star in the constellation Tanas
+      0028 Tanashad C is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1176.82 ly
 apparent_magnitude: 14.25
 absolute_magnitude: 6.46

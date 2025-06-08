@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9817 Arkothiad is a star in the constellation Arkoth
+      9817 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 420.23 ly
 apparent_magnitude: 13.56
 absolute_magnitude: 8.01

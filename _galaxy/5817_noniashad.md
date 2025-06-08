@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5817 Noniashad is a star in the constellation Nonias
+      5817 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 841.52 ly
 apparent_magnitude: 13.07
 absolute_magnitude: 6.01

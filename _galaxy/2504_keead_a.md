@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2504 Keead A is a star in the constellation Kee
+      2504 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 594.98 ly
 apparent_magnitude: 8.09
 absolute_magnitude: 1.78

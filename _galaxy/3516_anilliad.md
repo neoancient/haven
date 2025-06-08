@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3516 Anilliad is a star in the constellation Anil
+      3516 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 462.52 ly
 apparent_magnitude: 9.53
 absolute_magnitude: 3.78

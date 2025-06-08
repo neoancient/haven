@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2672 Geardiad is a star in the constellation Geard
+      2672 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 494.87 ly
 apparent_magnitude: 13.91
 absolute_magnitude: 8.01

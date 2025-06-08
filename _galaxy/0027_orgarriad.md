@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0027 Orgarriad is a star in the constellation Orgar
+      0027 Orgarriad is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 79.20 ly
 apparent_magnitude: 6.43
 absolute_magnitude: 4.50
@@ -31,14 +31,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.629 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 736 K<br />(463 °C)
+    temperature: 691 K<br />(418 °C)
     composition:
       - 77.5504% hydrogen
       - 22.4496% helium
@@ -55,14 +55,14 @@ planets:
         radius: 939.8 km<br/>(0.148 Yrths)
         surface_area: 1.110 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.477 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 9.736 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.736 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 0.735 m/s<sup>2</sup><br />(0.075 g<sub>0</sub>)
         escape_velocity: 1.176 km/s<br />(4,233 km/h)
         rotation_period: 35.417 d
         axial_tilt: 44.90°
         albedo: 0.30
-        temperature: 5124 K<br />(4851 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 0027 Orgarriad I b
         type: Asteroid
         formationType: Captured
@@ -75,14 +75,14 @@ planets:
         radius: 971.3 km<br/>(0.152 Yrths)
         surface_area: 1.185 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.838 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 8.570 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 8.570 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.233 g/cm<sup>3</sup>
         surface_gravity: 0.606 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 1.085 km/s<br />(3,907 km/h)
         rotation_period: 34.282 d
         axial_tilt: 47.18°
         albedo: 0.30
-        temperature: 3182 K<br />(2908 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 0027 Orgarriad I c
         type: Dwarf planet
         formationType: Accreted
@@ -95,14 +95,14 @@ planets:
         radius: 1,219.7 km<br/>(0.191 Yrths)
         surface_area: 1.869 × 10<sup>07</sup> km<sup>2</sup><br/>(0.037 Yrths)
         volume: 7.600 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.744 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.744 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.295 g/cm<sup>3</sup>
         surface_gravity: 0.781 m/s<sup>2</sup><br />(0.080 g<sub>0</sub>)
         escape_velocity: 1.382 km/s<br />(4,974 km/h)
         rotation_period: 44.521 d
         axial_tilt: 17.29°
         albedo: 0.30
-        temperature: 1349 K<br />(1076 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 0027 Orgarriad I d
         type: Icy
         formationType: Accreted
@@ -115,14 +115,14 @@ planets:
         radius: 1,084.0 km<br/>(0.170 Yrths)
         surface_area: 1.477 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.335 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 6.031 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.031 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.130 g/cm<sup>3</sup>
         surface_gravity: 0.342 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.862 km/s<br />(3,102 km/h)
         rotation_period: 54.773 d
         axial_tilt: 16.73°
         albedo: 0.30
-        temperature: 1014 K<br />(741 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 0027 Orgarriad I e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -135,14 +135,14 @@ planets:
         radius: 927.4 km<br/>(0.146 Yrths)
         surface_area: 1.081 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.341 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 7.608 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.608 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.277 g/cm<sup>3</sup>
         surface_gravity: 0.590 m/s<sup>2</sup><br />(0.060 g<sub>0</sub>)
         escape_velocity: 1.046 km/s<br />(3,767 km/h)
         rotation_period: 41.385 d
         axial_tilt: 21.90°
         albedo: 0.30
-        temperature: 629 K<br />(356 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 0027 Orgarriad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -155,14 +155,14 @@ planets:
         radius: 974.7 km<br/>(0.153 Yrths)
         surface_area: 1.194 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.879 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.065 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.065 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.746 g/cm<sup>3</sup>
         surface_gravity: 0.747 m/s<sup>2</sup><br />(0.076 g<sub>0</sub>)
         escape_velocity: 1.208 km/s<br />(4,348 km/h)
         rotation_period: 39.679 d
         axial_tilt: 19.49°
         albedo: 0.30
-        temperature: 600 K<br />(327 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 0027 Orgarriad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -175,14 +175,14 @@ planets:
         radius: 942.7 km<br/>(0.148 Yrths)
         surface_area: 1.117 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.509 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 8.164 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 8.164 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.327 g/cm<sup>3</sup>
         surface_gravity: 0.612 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 1.075 km/s<br />(3,871 km/h)
         rotation_period: 40.136 d
         axial_tilt: 20.28°
         albedo: 0.30
-        temperature: 520 K<br />(247 °C)
+        temperature: 235 K<br />(-38 °C)
   - name: 0027 Orgarriad II
     type: Large terrestrial
     aphelion: 456,110,330 km<br />3.049 AU
@@ -194,14 +194,14 @@ planets:
     radius: 7,444.6 km<br/>(1.169 Yrths)
     surface_area: 6.965 × 10<sup>08</sup> km<sup>2</sup><br/>(1.365 Yrths)
     volume: 1.728 × 10<sup>12</sup> km<sup>3</sup><br/>(1.596 Yrths)
-    mass: 1.129 × 10<sup>25</sup> kg<br />(1.8909104385930444 Yrths)
+    mass: 1.129 × 10<sup>25</sup> kg<br />(1.89 Yrths)
     density: 6.534 g/cm<sup>3</sup>
     surface_gravity: 13.581 m/s<sup>2</sup><br />(1.385 g<sub>0</sub>)
     escape_velocity: 14.230 km/s<br />(51,227 km/h)
     rotation_period: 0.948 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 220 K<br />(-53 °C)
+    temperature: 231 K<br />(-42 °C)
     surface_pressure: 218 kPa<br />(2 atm)
     composition:
       - 81.4869% ammonia
@@ -219,14 +219,14 @@ planets:
         radius: 3,910.3 km<br/>(0.614 Yrths)
         surface_area: 1.921 × 10<sup>08</sup> km<sup>2</sup><br/>(0.377 Yrths)
         volume: 2.505 × 10<sup>11</sup> km<sup>3</sup><br/>(0.231 Yrths)
-        mass: 8.167 × 10<sup>23</sup> kg<br />(1.8909104385930444 Yrths)
+        mass: 8.167 × 10<sup>23</sup> kg<br />(0.137 Yrths)
         density: 3.261 g/cm<sup>3</sup>
         surface_gravity: 3.560 m/s<sup>2</sup><br />(0.363 g<sub>0</sub>)
         escape_velocity: 5.280 km/s<br />(19,008 km/h)
         rotation_period: 31.038 d
         axial_tilt: 14.83°
         albedo: 0.30
-        temperature: 2355 K<br />(2082 °C)
+        temperature: 172 K<br />(-101 °C)
       - name: 0027 Orgarriad II b
         type: Icy
         formationType: Captured
@@ -239,14 +239,14 @@ planets:
         radius: 5,570.4 km<br/>(0.874 Yrths)
         surface_area: 3.899 × 10<sup>08</sup> km<sup>2</sup><br/>(0.764 Yrths)
         volume: 7.240 × 10<sup>11</sup> km<sup>3</sup><br/>(0.668 Yrths)
-        mass: 8.649 × 10<sup>23</sup> kg<br />(1.8909104385930444 Yrths)
+        mass: 8.649 × 10<sup>23</sup> kg<br />(0.145 Yrths)
         density: 1.195 g/cm<sup>3</sup>
         surface_gravity: 1.858 m/s<sup>2</sup><br />(0.189 g<sub>0</sub>)
         escape_velocity: 4.553 km/s<br />(16,389 km/h)
         rotation_period: 59.474 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 2246 K<br />(1973 °C)
+        temperature: 172 K<br />(-101 °C)
   - name: 0027 Orgarriad III
     type: Ice giant
     aphelion: 710,394,967 km<br />4.749 AU
@@ -258,14 +258,14 @@ planets:
     radius: 28,134.6 km<br/>(4.416 Yrths)
     surface_area: 9.947 × 10<sup>09</sup> km<sup>2</sup><br/>(19.501 Yrths)
     volume: 9.328 × 10<sup>13</sup> km<sup>3</sup><br/>(86.119 Yrths)
-    mass: 1.281 × 10<sup>26</sup> kg<br />(21.452151246958554 Yrths)
+    mass: 1.281 × 10<sup>26</sup> kg<br />(21.45 Yrths)
     density: 1.373 g/cm<sup>3</sup>
     surface_gravity: 10.788 m/s<sup>2</sup><br />(1.100 g<sub>0</sub>)
     escape_velocity: 24.654 km/s<br />(88,756 km/h)
     rotation_period: 0.397 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 221 K<br />(-52 °C)
+    temperature: 198 K<br />(-75 °C)
     composition:
       - 82.2435% hydrogen
       - 17.7565% helium
@@ -282,14 +282,14 @@ planets:
         radius: 9,225.4 km<br/>(1.448 Yrths)
         surface_area: 1.069 × 10<sup>09</sup> km<sup>2</sup><br/>(2.097 Yrths)
         volume: 3.289 × 10<sup>12</sup> km<sup>3</sup><br/>(3.036 Yrths)
-        mass: 7.335 × 10<sup>24</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 7.335 × 10<sup>24</sup> kg<br />(1.228 Yrths)
         density: 2.230 g/cm<sup>3</sup>
         surface_gravity: 5.745 m/s<sup>2</sup><br />(0.586 g<sub>0</sub>)
         escape_velocity: 10.302 km/s<br />(37,089 km/h)
         rotation_period: 38.786 d
         axial_tilt: 44.94°
         albedo: 0.30
-        temperature: 1123 K<br />(850 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0027 Orgarriad III b
         type: Dwarf planet
         formationType: Accreted
@@ -302,14 +302,14 @@ planets:
         radius: 11,673.0 km<br/>(1.832 Yrths)
         surface_area: 1.712 × 10<sup>09</sup> km<sup>2</sup><br/>(3.357 Yrths)
         volume: 6.663 × 10<sup>12</sup> km<sup>3</sup><br/>(6.151 Yrths)
-        mass: 1.327 × 10<sup>25</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 1.327 × 10<sup>25</sup> kg<br />(2.222 Yrths)
         density: 1.992 g/cm<sup>3</sup>
         surface_gravity: 6.491 m/s<sup>2</sup><br />(0.662 g<sub>0</sub>)
         escape_velocity: 12.318 km/s<br />(44,345 km/h)
         rotation_period: 44.798 d
         axial_tilt: 31.24°
         albedo: 0.30
-        temperature: 1071 K<br />(798 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0027 Orgarriad III c
         type: Icy
         formationType: Accreted
@@ -322,14 +322,14 @@ planets:
         radius: 15,961.0 km<br/>(2.505 Yrths)
         surface_area: 3.201 × 10<sup>09</sup> km<sup>2</sup><br/>(6.276 Yrths)
         volume: 1.703 × 10<sup>13</sup> km<sup>3</sup><br/>(15.724 Yrths)
-        mass: 1.907 × 10<sup>25</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 1.907 × 10<sup>25</sup> kg<br />(3.193 Yrths)
         density: 1.120 g/cm<sup>3</sup>
         surface_gravity: 4.989 m/s<sup>2</sup><br />(0.509 g<sub>0</sub>)
         escape_velocity: 12.628 km/s<br />(45,463 km/h)
         rotation_period: 54.328 d
         axial_tilt: 25.55°
         albedo: 0.30
-        temperature: 1021 K<br />(748 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0027 Orgarriad III d
         type: Dwarf planet
         formationType: Impact formed
@@ -342,14 +342,14 @@ planets:
         radius: 12,689.5 km<br/>(1.992 Yrths)
         surface_area: 2.023 × 10<sup>09</sup> km<sup>2</sup><br/>(3.967 Yrths)
         volume: 8.559 × 10<sup>12</sup> km<sup>3</sup><br/>(7.902 Yrths)
-        mass: 1.080 × 10<sup>25</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 1.080 × 10<sup>25</sup> kg<br />(1.808 Yrths)
         density: 1.262 g/cm<sup>3</sup>
         surface_gravity: 4.469 m/s<sup>2</sup><br />(0.456 g<sub>0</sub>)
         escape_velocity: 10.658 km/s<br />(38,368 km/h)
         rotation_period: 53.420 d
         axial_tilt: 26.18°
         albedo: 0.30
-        temperature: 974 K<br />(701 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0027 Orgarriad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -362,14 +362,14 @@ planets:
         radius: 17,137.4 km<br/>(2.690 Yrths)
         surface_area: 3.691 × 10<sup>09</sup> km<sup>2</sup><br/>(7.236 Yrths)
         volume: 2.108 × 10<sup>13</sup> km<sup>3</sup><br/>(19.463 Yrths)
-        mass: 5.527 × 10<sup>25</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 5.527 × 10<sup>25</sup> kg<br />(9.255 Yrths)
         density: 2.622 g/cm<sup>3</sup>
         surface_gravity: 12.543 m/s<sup>2</sup><br />(1.279 g<sub>0</sub>)
         escape_velocity: 20.749 km/s<br />(74,695 km/h)
         rotation_period: 42.031 d
         axial_tilt: 22.98°
         albedo: 0.30
-        temperature: 928 K<br />(655 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0027 Orgarriad III f
         type: Icy
         formationType: Accreted
@@ -382,14 +382,14 @@ planets:
         radius: 18,421.5 km<br/>(2.891 Yrths)
         surface_area: 4.264 × 10<sup>09</sup> km<sup>2</sup><br/>(8.361 Yrths)
         volume: 2.619 × 10<sup>13</sup> km<sup>3</sup><br/>(24.174 Yrths)
-        mass: 3.463 × 10<sup>25</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 3.463 × 10<sup>25</sup> kg<br />(5.799 Yrths)
         density: 1.322 g/cm<sup>3</sup>
         surface_gravity: 6.802 m/s<sup>2</sup><br />(0.694 g<sub>0</sub>)
         escape_velocity: 15.841 km/s<br />(57,027 km/h)
         rotation_period: 64.114 d
         axial_tilt: 11.02°
         albedo: 0.30
-        temperature: 885 K<br />(612 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0027 Orgarriad III g
         type: Icy
         formationType: Accreted
@@ -402,14 +402,14 @@ planets:
         radius: 62,808.5 km<br/>(9.858 Yrths)
         surface_area: 4.957 × 10<sup>10</sup> km<sup>2</sup><br/>(97.190 Yrths)
         volume: 1.038 × 10<sup>15</sup> km<sup>3</sup><br/>(958.146 Yrths)
-        mass: 1.353 × 10<sup>27</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 1.353 × 10<sup>27</sup> kg<br />(226.622 Yrths)
         density: 1.304 g/cm<sup>3</sup>
         surface_gravity: 22.867 m/s<sup>2</sup><br />(2.332 g<sub>0</sub>)
         escape_velocity: 53.632 km/s<br />(193,073 km/h)
         rotation_period: 61.810 d
         axial_tilt: 14.04°
         albedo: 0.30
-        temperature: 844 K<br />(571 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0027 Orgarriad III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -422,14 +422,14 @@ planets:
         radius: 11,631.6 km<br/>(1.826 Yrths)
         surface_area: 1.700 × 10<sup>09</sup> km<sup>2</sup><br/>(3.333 Yrths)
         volume: 6.592 × 10<sup>12</sup> km<sup>3</sup><br/>(6.085 Yrths)
-        mass: 1.431 × 10<sup>25</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 1.431 × 10<sup>25</sup> kg<br />(2.397 Yrths)
         density: 2.172 g/cm<sup>3</sup>
         surface_gravity: 7.052 m/s<sup>2</sup><br />(0.719 g<sub>0</sub>)
         escape_velocity: 12.817 km/s<br />(46,141 km/h)
         rotation_period: 56.323 d
         axial_tilt: 16.32°
         albedo: 0.30
-        temperature: 805 K<br />(532 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0027 Orgarriad III i
         type: Ice/rock hybrid
         formationType: Captured
@@ -442,14 +442,14 @@ planets:
         radius: 20,019.8 km<br/>(3.142 Yrths)
         surface_area: 5.037 × 10<sup>09</sup> km<sup>2</sup><br/>(9.874 Yrths)
         volume: 3.361 × 10<sup>13</sup> km<sup>3</sup><br/>(31.028 Yrths)
-        mass: 5.966 × 10<sup>25</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 5.966 × 10<sup>25</sup> kg<br />(9.990 Yrths)
         density: 1.775 g/cm<sup>3</sup>
         surface_gravity: 9.922 m/s<sup>2</sup><br />(1.012 g<sub>0</sub>)
         escape_velocity: 19.945 km/s<br />(71,802 km/h)
         rotation_period: 37.547 d
         axial_tilt: 15.59°
         albedo: 0.30
-        temperature: 767 K<br />(494 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0027 Orgarriad III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -462,14 +462,14 @@ planets:
         radius: 9,405.8 km<br/>(1.476 Yrths)
         surface_area: 1.112 × 10<sup>09</sup> km<sup>2</sup><br/>(2.180 Yrths)
         volume: 3.486 × 10<sup>12</sup> km<sup>3</sup><br/>(3.218 Yrths)
-        mass: 7.642 × 10<sup>24</sup> kg<br />(21.452151246958554 Yrths)
+        mass: 7.642 × 10<sup>24</sup> kg<br />(1.280 Yrths)
         density: 2.193 g/cm<sup>3</sup>
         surface_gravity: 5.758 m/s<sup>2</sup><br />(0.587 g<sub>0</sub>)
         escape_velocity: 10.414 km/s<br />(37,492 km/h)
         rotation_period: 51.699 d
         axial_tilt: 16.46°
         albedo: 0.30
-        temperature: 698 K<br />(424 °C)
+        temperature: 126 K<br />(-147 °C)
   - name: 0027 Orgarriad IV
     type: Gas giant
     aphelion: 1,403,962,160 km<br />9.385 AU
@@ -481,7 +481,7 @@ planets:
     radius: 114.7 km<br/>(0.018 Yrths)
     surface_area: 1.654 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 6.327 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.344 × 10<sup>25</sup> kg<br />(15.646833397151987 Yrths)
+    mass: 9.344 × 10<sup>25</sup> kg<br />(15.65 Yrths)
     density: 14769241.417 g/cm<sup>3</sup>
     surface_gravity: 473110.629 m/s<sup>2</sup><br />(48243.858 g<sub>0</sub>)
     escape_velocity: 329.717 km/s<br />(1,186,980 km/h)
@@ -502,14 +502,14 @@ planets:
         radius: 38,010.9 km<br/>(5.966 Yrths)
         surface_area: 1.816 × 10<sup>10</sup> km<sup>2</sup><br/>(35.596 Yrths)
         volume: 2.300 × 10<sup>14</sup> km<sup>3</sup><br/>(212.374 Yrths)
-        mass: 3.309 × 10<sup>26</sup> kg<br />(15.646833397151987 Yrths)
+        mass: 3.309 × 10<sup>26</sup> kg<br />(55.412 Yrths)
         density: 1.439 g/cm<sup>3</sup>
         surface_gravity: 15.266 m/s<sup>2</sup><br />(1.557 g<sub>0</sub>)
         escape_velocity: 34.090 km/s<br />(122,724 km/h)
         rotation_period: 78.390 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 867 K<br />(594 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: 0027 Orgarriad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -522,35 +522,15 @@ planets:
         radius: 38,711.5 km<br/>(6.076 Yrths)
         surface_area: 1.883 × 10<sup>10</sup> km<sup>2</sup><br/>(36.920 Yrths)
         volume: 2.430 × 10<sup>14</sup> km<sup>3</sup><br/>(224.335 Yrths)
-        mass: 6.044 × 10<sup>26</sup> kg<br />(15.646833397151987 Yrths)
+        mass: 6.044 × 10<sup>26</sup> kg<br />(101.209 Yrths)
         density: 2.487 g/cm<sup>3</sup>
         surface_gravity: 26.883 m/s<sup>2</sup><br />(2.741 g<sub>0</sub>)
         escape_velocity: 45.653 km/s<br />(164,350 km/h)
         rotation_period: 50.017 d
         axial_tilt: 18.66°
         albedo: 0.30
-        temperature: 592 K<br />(319 °C)
+        temperature: 92 K<br />(-181 °C)
       - name: 0027 Orgarriad IV c
-        type: Icy
-        formationType: Accreted
-        aphelion: 154,850,749 km<br />
-        perihelion: 114,117,822 km<br />
-        semi_major_axis: 134,484,286 km<br />
-        eccentricity: 0.151
-        orbital_period: 0.39 d<br />
-        inclination: 15.01°
-        radius: 19,261.1 km<br/>(3.023 Yrths)
-        surface_area: 4.662 × 10<sup>09</sup> km<sup>2</sup><br/>(9.140 Yrths)
-        volume: 2.993 × 10<sup>13</sup> km<sup>3</sup><br/>(27.633 Yrths)
-        mass: 5.591 × 10<sup>25</sup> kg<br />(15.646833397151987 Yrths)
-        density: 1.868 g/cm<sup>3</sup>
-        surface_gravity: 10.044 m/s<sup>2</sup><br />(1.024 g<sub>0</sub>)
-        escape_velocity: 19.684 km/s<br />(70,861 km/h)
-        rotation_period: 39.022 d
-        axial_tilt: 16.95°
-        albedo: 0.30
-        temperature: 290 K<br />(17 °C)
-      - name: 0027 Orgarriad IV d
         type: Icy
         formationType: Captured
         aphelion: 175,677,633 km<br />
@@ -562,15 +542,15 @@ planets:
         radius: 43,028.1 km<br/>(6.754 Yrths)
         surface_area: 2.327 × 10<sup>10</sup> km<sup>2</sup><br/>(45.613 Yrths)
         volume: 3.337 × 10<sup>14</sup> km<sup>3</sup><br/>(308.060 Yrths)
-        mass: 3.811 × 10<sup>26</sup> kg<br />(15.646833397151987 Yrths)
+        mass: 3.811 × 10<sup>26</sup> kg<br />(63.815 Yrths)
         density: 1.142 g/cm<sup>3</sup>
         surface_gravity: 13.720 m/s<sup>2</sup><br />(1.399 g<sub>0</sub>)
         escape_velocity: 34.385 km/s<br />(123,785 km/h)
         rotation_period: 81.110 d
         axial_tilt: 14.98°
         albedo: 0.30
-        temperature: 276 K<br />(3 °C)
-      - name: 0027 Orgarriad IV e
+        temperature: 92 K<br />(-181 °C)
+      - name: 0027 Orgarriad IV d
         type: Icy
         formationType: Accreted
         aphelion: 644,401,194 km<br />
@@ -582,15 +562,15 @@ planets:
         radius: 51,495.0 km<br/>(8.083 Yrths)
         surface_area: 3.332 × 10<sup>10</sup> km<sup>2</sup><br/>(65.330 Yrths)
         volume: 5.720 × 10<sup>14</sup> km<sup>3</sup><br/>(528.046 Yrths)
-        mass: 5.143 × 10<sup>26</sup> kg<br />(15.646833397151987 Yrths)
+        mass: 5.143 × 10<sup>26</sup> kg<br />(86.118 Yrths)
         density: 0.899 g/cm<sup>3</sup>
         surface_gravity: 12.927 m/s<sup>2</sup><br />(1.318 g<sub>0</sub>)
         escape_velocity: 36.513 km/s<br />(131,445 km/h)
         rotation_period: 102.002 d
         axial_tilt: 13.57°
         albedo: 0.30
-        temperature: 135 K<br />(-138 °C)
-      - name: 0027 Orgarriad IV f
+        temperature: 92 K<br />(-181 °C)
+      - name: 0027 Orgarriad IV e
         type: Icy
         formationType: Accreted
         aphelion: 721,427,926 km<br />
@@ -602,14 +582,14 @@ planets:
         radius: 44,790.6 km<br/>(7.030 Yrths)
         surface_area: 2.521 × 10<sup>10</sup> km<sup>2</sup><br/>(49.426 Yrths)
         volume: 3.764 × 10<sup>14</sup> km<sup>3</sup><br/>(347.485 Yrths)
-        mass: 4.954 × 10<sup>26</sup> kg<br />(15.646833397151987 Yrths)
+        mass: 4.954 × 10<sup>26</sup> kg<br />(82.955 Yrths)
         density: 1.316 g/cm<sup>3</sup>
         surface_gravity: 16.459 m/s<sup>2</sup><br />(1.678 g<sub>0</sub>)
         escape_velocity: 38.424 km/s<br />(138,328 km/h)
         rotation_period: 63.706 d
         axial_tilt: 21.84°
         albedo: 0.30
-        temperature: 129 K<br />(-144 °C)
+        temperature: 92 K<br />(-181 °C)
   - name: 0027 Orgarriad V
     type: Gas giant
     aphelion: 2,629,109,389 km<br />17.574 AU
@@ -621,7 +601,7 @@ planets:
     radius: 161.0 km<br/>(0.025 Yrths)
     surface_area: 3.256 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.747 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.973 × 10<sup>26</sup> kg<br />(66.52404032973331 Yrths)
+    mass: 3.973 × 10<sup>26</sup> kg<br />(66.52 Yrths)
     density: 22743630.209 g/cm<sup>3</sup>
     surface_gravity: 1022071.211 m/s<sup>2</sup><br />(104222.258 g<sub>0</sub>)
     escape_velocity: 573.996 km/s<br />(2,066,385 km/h)
@@ -642,14 +622,14 @@ planets:
         radius: 66,402.0 km<br/>(10.423 Yrths)
         surface_area: 5.541 × 10<sup>10</sup> km<sup>2</sup><br/>(108.629 Yrths)
         volume: 1.226 × 10<sup>15</sup> km<sup>3</sup><br/>(1132.192 Yrths)
-        mass: 1.668 × 10<sup>27</sup> kg<br />(66.52404032973331 Yrths)
+        mass: 1.668 × 10<sup>27</sup> kg<br />(279.355 Yrths)
         density: 1.360 g/cm<sup>3</sup>
         surface_gravity: 25.219 m/s<sup>2</sup><br />(2.572 g<sub>0</sub>)
         escape_velocity: 57.912 km/s<br />(208,482 km/h)
         rotation_period: 44.877 d
         axial_tilt: 11.03°
         albedo: 0.30
-        temperature: 499 K<br />(226 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0027 Orgarriad V b
         type: Icy
         formationType: Captured
@@ -662,14 +642,14 @@ planets:
         radius: 113,498.9 km<br/>(17.815 Yrths)
         surface_area: 1.619 × 10<sup>11</sup> km<sup>2</sup><br/>(317.372 Yrths)
         volume: 6.124 × 10<sup>15</sup> km<sup>3</sup><br/>(5653.951 Yrths)
-        mass: 6.007 × 10<sup>27</sup> kg<br />(66.52404032973331 Yrths)
+        mass: 6.007 × 10<sup>27</sup> kg<br />(1005.878 Yrths)
         density: 0.981 g/cm<sup>3</sup>
         surface_gravity: 31.081 m/s<sup>2</sup><br />(3.169 g<sub>0</sub>)
         escape_velocity: 84.053 km/s<br />(302,592 km/h)
         rotation_period: 64.268 d
         axial_tilt: 23.38°
         albedo: 0.30
-        temperature: 412 K<br />(139 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0027 Orgarriad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -682,14 +662,14 @@ planets:
         radius: 58,935.4 km<br/>(9.251 Yrths)
         surface_area: 4.365 × 10<sup>10</sup> km<sup>2</sup><br/>(85.573 Yrths)
         volume: 8.575 × 10<sup>14</sup> km<sup>3</sup><br/>(791.601 Yrths)
-        mass: 1.727 × 10<sup>27</sup> kg<br />(66.52404032973331 Yrths)
+        mass: 1.727 × 10<sup>27</sup> kg<br />(289.106 Yrths)
         density: 2.014 g/cm<sup>3</sup>
         surface_gravity: 33.131 m/s<sup>2</sup><br />(3.378 g<sub>0</sub>)
         escape_velocity: 62.534 km/s<br />(225,123 km/h)
         rotation_period: 48.876 d
         axial_tilt: 26.57°
         albedo: 0.30
-        temperature: 256 K<br />(-17 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0027 Orgarriad V d
         type: Icy
         formationType: Accreted
@@ -702,14 +682,14 @@ planets:
         radius: 68,556.8 km<br/>(10.761 Yrths)
         surface_area: 5.906 × 10<sup>10</sup> km<sup>2</sup><br/>(115.794 Yrths)
         volume: 1.350 × 10<sup>15</sup> km<sup>3</sup><br/>(1246.031 Yrths)
-        mass: 2.564 × 10<sup>27</sup> kg<br />(66.52404032973331 Yrths)
+        mass: 2.564 × 10<sup>27</sup> kg<br />(429.412 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 36.367 m/s<sup>2</sup><br />(3.708 g<sub>0</sub>)
         escape_velocity: 70.663 km/s<br />(254,385 km/h)
         rotation_period: 41.198 d
         axial_tilt: 8.29°
         albedo: 0.30
-        temperature: 244 K<br />(-29 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0027 Orgarriad V e
         type: Icy
         formationType: Accreted
@@ -722,14 +702,14 @@ planets:
         radius: 77,352.4 km<br/>(12.141 Yrths)
         surface_area: 7.519 × 10<sup>10</sup> km<sup>2</sup><br/>(147.412 Yrths)
         volume: 1.939 × 10<sup>15</sup> km<sup>3</sup><br/>(1789.776 Yrths)
-        mass: 1.652 × 10<sup>27</sup> kg<br />(66.52404032973331 Yrths)
+        mass: 1.652 × 10<sup>27</sup> kg<br />(276.560 Yrths)
         density: 0.852 g/cm<sup>3</sup>
         surface_gravity: 18.398 m/s<sup>2</sup><br />(1.876 g<sub>0</sub>)
         escape_velocity: 53.387 km/s<br />(192,193 km/h)
         rotation_period: 58.338 d
         axial_tilt: 17.24°
         albedo: 0.30
-        temperature: 167 K<br />(-106 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0027 Orgarriad V f
         type: Icy
         formationType: Accreted
@@ -742,14 +722,14 @@ planets:
         radius: 70,823.2 km<br/>(11.116 Yrths)
         surface_area: 6.303 × 10<sup>10</sup> km<sup>2</sup><br/>(123.576 Yrths)
         volume: 1.488 × 10<sup>15</sup> km<sup>3</sup><br/>(1373.737 Yrths)
-        mass: 2.518 × 10<sup>27</sup> kg<br />(66.52404032973331 Yrths)
+        mass: 2.518 × 10<sup>27</sup> kg<br />(421.653 Yrths)
         density: 1.692 g/cm<sup>3</sup>
         surface_gravity: 33.461 m/s<sup>2</sup><br />(3.412 g<sub>0</sub>)
         escape_velocity: 68.892 km/s<br />(248,011 km/h)
         rotation_period: 44.882 d
         axial_tilt: 9.92°
         albedo: 0.30
-        temperature: 131 K<br />(-142 °C)
+        temperature: 68 K<br />(-206 °C)
   - name: 0027 Orgarriad VI
     type: Large terrestrial
     aphelion: 4,602,761,033 km<br />30.767 AU
@@ -761,14 +741,14 @@ planets:
     radius: 2,878.0 km<br/>(0.452 Yrths)
     surface_area: 1.041 × 10<sup>08</sup> km<sup>2</sup><br/>(0.204 Yrths)
     volume: 9.985 × 10<sup>10</sup> km<sup>3</sup><br/>(0.092 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.981 g/cm<sup>3</sup>
     surface_gravity: 4.806 m/s<sup>2</sup><br />(0.490 g<sub>0</sub>)
     escape_velocity: 5.263 km/s<br />(18,947 km/h)
     rotation_period: 1.529 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 66 K<br />(-207 °C)
+    temperature: 64 K<br />(-209 °C)
     surface_pressure: 493 kPa<br />(5 atm)
     composition:
       - 51.1590% nitrogen
@@ -787,14 +767,14 @@ planets:
         radius: 563.8 km<br/>(0.088 Yrths)
         surface_area: 3.995 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.508 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.177 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.177 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.900 g/cm<sup>3</sup>
         surface_gravity: 0.456 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 0.718 km/s<br />(2,585 km/h)
         rotation_period: 33.715 d
         axial_tilt: 18.36°
         albedo: 0.30
-        temperature: 1096 K<br />(823 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 0027 Orgarriad VI b
         type: Rocky
         formationType: Impact formed
@@ -807,14 +787,14 @@ planets:
         radius: 242.7 km<br/>(0.038 Yrths)
         surface_area: 7.401 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 5.987 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.437 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.437 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 0.163 m/s<sup>2</sup><br />(0.017 g<sub>0</sub>)
         escape_velocity: 0.281 km/s<br />(1,012 km/h)
         rotation_period: 39.869 d
         axial_tilt: 10.09°
         albedo: 0.30
-        temperature: 1045 K<br />(772 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 0027 Orgarriad VI c
         type: Asteroid
         formationType: Captured
@@ -827,14 +807,14 @@ planets:
         radius: 693.7 km<br/>(0.109 Yrths)
         surface_area: 6.046 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.398 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.022 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.022 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.446 g/cm<sup>3</sup>
         surface_gravity: 0.280 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.624 km/s<br />(2,246 km/h)
         rotation_period: 49.908 d
         axial_tilt: 39.51°
         albedo: 0.30
-        temperature: 996 K<br />(723 °C)
+        temperature: 50 K<br />(-224 °C)
       - name: 0027 Orgarriad VI d
         type: Icy
         formationType: Captured
@@ -847,12 +827,12 @@ planets:
         radius: 590.4 km<br/>(0.093 Yrths)
         surface_area: 4.380 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.619 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 6.033 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.033 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.115 m/s<sup>2</sup><br />(0.012 g<sub>0</sub>)
         escape_velocity: 0.369 km/s<br />(1,330 km/h)
         rotation_period: 95.129 d
         axial_tilt: 6.77°
         albedo: 0.30
-        temperature: 950 K<br />(677 °C)
+        temperature: 50 K<br />(-224 °C)
 ---

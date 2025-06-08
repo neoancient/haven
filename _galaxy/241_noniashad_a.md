@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      241 Noniashad A is a star in the constellation Nonias
+      241 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 367.51 ly
 apparent_magnitude: 7.95
 absolute_magnitude: 2.69

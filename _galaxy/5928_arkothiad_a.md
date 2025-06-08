@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5928 Arkothiad A is a star in the constellation Arkoth
+      5928 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 299.68 ly
 apparent_magnitude: 9.85
 absolute_magnitude: 5.03

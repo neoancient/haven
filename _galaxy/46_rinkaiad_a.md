@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      46 Rinkaiad A is a star in the constellation Rinka
+      46 Rinkaiad A is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 418.79 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 2.30

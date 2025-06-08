@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1279 Ratharshinniad is a star in the constellation Ratharshin
+      1279 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 309.58 ly
 apparent_magnitude: 9.59
 absolute_magnitude: 4.70

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1456 Arniad is a star in the constellation Arni
+      1456 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 154.94 ly
 apparent_magnitude: 8.41
 absolute_magnitude: 5.03

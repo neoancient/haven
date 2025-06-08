@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2963 Anilliad A is a star in the constellation Anil
+      2963 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 357.02 ly
 apparent_magnitude: 7.67
 absolute_magnitude: 2.47

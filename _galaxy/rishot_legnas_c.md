@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rishot Legnas C is a star in the constellation Rishauth
+      Rishot Legnas C is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 2895.09 ly
 apparent_magnitude: 4.59
 absolute_magnitude: -5.15

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5245 Dialkeshiad is a star in the constellation Dialkes
+      5245 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 362.35 ly
 apparent_magnitude: 9.69
 absolute_magnitude: 4.46
@@ -31,14 +31,14 @@ planets:
     radius: 4,792.8 km<br/>(0.752 Yrths)
     surface_area: 2.887 × 10<sup>08</sup> km<sup>2</sup><br/>(0.566 Yrths)
     volume: 4.612 × 10<sup>11</sup> km<sup>3</sup><br/>(0.426 Yrths)
-    mass: 2.029 × 10<sup>24</sup> kg<br />(0.3397898238189061 Yrths)
+    mass: 2.029 × 10<sup>24</sup> kg<br />(0.34 Yrths)
     density: 4.400 g/cm<sup>3</sup>
     surface_gravity: 5.888 m/s<sup>2</sup><br />(0.600 g<sub>0</sub>)
     escape_velocity: 7.518 km/s<br />(27,064 km/h)
     rotation_period: 1.828 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 252 K<br />(-21 °C)
+    temperature: 294 K<br />(21 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 89.6629% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 1,053.7 km<br/>(0.165 Yrths)
         surface_area: 1.395 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.900 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.764 × 10<sup>22</sup> kg<br />(0.3397898238189061 Yrths)
+        mass: 1.764 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 1.059 m/s<sup>2</sup><br />(0.108 g<sub>0</sub>)
         escape_velocity: 1.495 km/s<br />(5,382 km/h)
         rotation_period: 28.016 d
         axial_tilt: 19.88°
         albedo: 0.30
-        temperature: 3901 K<br />(3628 °C)
+        temperature: 232 K<br />(-41 °C)
       - name: 5245 Dialkeshiad I b
         type: Rocky
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 1,027.6 km<br/>(0.161 Yrths)
         surface_area: 1.327 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.545 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.377 × 10<sup>22</sup> kg<br />(0.3397898238189061 Yrths)
+        mass: 1.377 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 3.030 g/cm<sup>3</sup>
         surface_gravity: 0.869 m/s<sup>2</sup><br />(0.089 g<sub>0</sub>)
         escape_velocity: 1.338 km/s<br />(4,815 km/h)
         rotation_period: 31.433 d
         axial_tilt: 14.32°
         albedo: 0.30
-        temperature: 3719 K<br />(3446 °C)
+        temperature: 232 K<br />(-41 °C)
   - name: 5245 Dialkeshiad II
     type: Large terrestrial
     aphelion: 496,871,402 km<br />3.321 AU
@@ -97,14 +97,14 @@ planets:
     radius: 3,804.6 km<br/>(0.597 Yrths)
     surface_area: 1.819 × 10<sup>08</sup> km<sup>2</sup><br/>(0.357 Yrths)
     volume: 2.307 × 10<sup>11</sup> km<sup>3</sup><br/>(0.213 Yrths)
-    mass: 1.549 × 10<sup>24</sup> kg<br />(0.2593495949787161 Yrths)
+    mass: 1.549 × 10<sup>24</sup> kg<br />(0.26 Yrths)
     density: 6.714 g/cm<sup>3</sup>
     surface_gravity: 7.132 m/s<sup>2</sup><br />(0.727 g<sub>0</sub>)
     escape_velocity: 7.372 km/s<br />(26,538 km/h)
     rotation_period: 1.751 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 213 K<br />(-60 °C)
+    temperature: 260 K<br />(-13 °C)
     surface_pressure: 106 kPa<br />(1 atm)
     composition:
       - 89.7901% methane
@@ -125,14 +125,14 @@ planets:
         radius: 681.5 km<br/>(0.107 Yrths)
         surface_area: 5.836 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.326 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.051 × 10<sup>21</sup> kg<br />(0.2593495949787161 Yrths)
+        mass: 2.051 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.547 g/cm<sup>3</sup>
         surface_gravity: 0.294 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.634 km/s<br />(2,282 km/h)
         rotation_period: 44.971 d
         axial_tilt: 20.91°
         albedo: 0.30
-        temperature: 3070 K<br />(2797 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 5245 Dialkeshiad II b
         type: Asteroid
         formationType: Captured
@@ -145,12 +145,12 @@ planets:
         radius: 1,243.2 km<br/>(0.195 Yrths)
         surface_area: 1.942 × 10<sup>07</sup> km<sup>2</sup><br/>(0.038 Yrths)
         volume: 8.048 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 2.073 × 10<sup>22</sup> kg<br />(0.2593495949787161 Yrths)
+        mass: 2.073 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.575 g/cm<sup>3</sup>
         surface_gravity: 0.894 m/s<sup>2</sup><br />(0.091 g<sub>0</sub>)
         escape_velocity: 1.492 km/s<br />(5,371 km/h)
         rotation_period: 35.354 d
         axial_tilt: 27.60°
         albedo: 0.30
-        temperature: 2927 K<br />(2654 °C)
+        temperature: 171 K<br />(-102 °C)
 ---

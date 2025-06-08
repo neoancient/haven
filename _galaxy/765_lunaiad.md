@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      765 Lunaiad is a star in the constellation Luna
+      765 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 342.56 ly
 apparent_magnitude: 10.06
 absolute_magnitude: 4.95

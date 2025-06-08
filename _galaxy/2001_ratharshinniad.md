@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2001 Ratharshinniad is a star in the constellation Ratharshin
+      2001 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 82.54 ly
 apparent_magnitude: 8.34
 absolute_magnitude: 6.32

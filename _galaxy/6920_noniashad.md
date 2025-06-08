@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6920 Noniashad is a star in the constellation Nonias
+      6920 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 454.56 ly
 apparent_magnitude: 9.50
 absolute_magnitude: 3.78

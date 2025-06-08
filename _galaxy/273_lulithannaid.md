@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      273 Lulithannaid is a star in the constellation Lulithan
+      273 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 579.23 ly
 apparent_magnitude: 11.08
 absolute_magnitude: 4.84

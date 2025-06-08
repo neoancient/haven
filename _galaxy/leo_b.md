@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Leo B is a star in the constellation Niniun
+      Leo B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 238.90 ly
 apparent_magnitude: 10.66
 absolute_magnitude: 6.33

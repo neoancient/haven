@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4751 Dialkeshiad is a star in the constellation Dialkes
+      4751 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 426.60 ly
 apparent_magnitude: 13.25
 absolute_magnitude: 7.67

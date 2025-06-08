@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      159 Reggiad A is a star in the constellation Reg
+      159 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 295.45 ly
 apparent_magnitude: 7.13
 absolute_magnitude: 2.34

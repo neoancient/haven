@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5260 Athiad is a star in the constellation Ath
+      5260 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 609.89 ly
 apparent_magnitude: 7.94
 absolute_magnitude: 1.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      537 Reggiad is a star in the constellation Reg
+      537 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 638.86 ly
 apparent_magnitude: 6.78
 absolute_magnitude: 0.32
@@ -31,14 +31,14 @@ planets:
     radius: 209.8 km<br/>(0.033 Yrths)
     surface_area: 5.531 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.868 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.250 × 10<sup>27</sup> kg<br />(209.27919935905982 Yrths)
+    mass: 1.250 × 10<sup>27</sup> kg<br />(209.28 Yrths)
     density: 32311499.605 g/cm<sup>3</sup>
     surface_gravity: 1892613.167 m/s<sup>2</sup><br />(192992.833 g<sub>0</sub>)
     escape_velocity: 891.745 km/s<br />(3,210,283 km/h)
     rotation_period: 0.244 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2401 K<br />(2128 °C)
+    temperature: 2520 K<br />(2246 °C)
     composition:
       - 75.0321% hydrogen
       - 18.5589% helium
@@ -59,14 +59,14 @@ planets:
         radius: 248,331.8 km<br/>(38.978 Yrths)
         surface_area: 7.750 × 10<sup>11</sup> km<sup>2</sup><br/>(1519.320 Yrths)
         volume: 6.415 × 10<sup>16</sup> km<sup>3</sup><br/>(59220.765 Yrths)
-        mass: 7.547 × 10<sup>28</sup> kg<br />(209.27919935905982 Yrths)
+        mass: 7.547 × 10<sup>28</sup> kg<br />(12637.347 Yrths)
         density: 1.176 g/cm<sup>3</sup>
         surface_gravity: 81.569 m/s<sup>2</sup><br />(8.318 g<sub>0</sub>)
         escape_velocity: 201.414 km/s<br />(725,090 km/h)
         rotation_period: 65.911 d
         axial_tilt: 17.81°
         albedo: 0.30
-        temperature: 3216 K<br />(2943 °C)
+        temperature: 554 K<br />(281 °C)
       - name: 537 Reggiad I b
         type: Asteroid
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 195,954.1 km<br/>(30.757 Yrths)
         surface_area: 4.825 × 10<sup>11</sup> km<sup>2</sup><br/>(946.005 Yrths)
         volume: 3.152 × 10<sup>16</sup> km<sup>3</sup><br/>(29096.474 Yrths)
-        mass: 6.961 × 10<sup>28</sup> kg<br />(209.27919935905982 Yrths)
+        mass: 6.961 × 10<sup>28</sup> kg<br />(11655.925 Yrths)
         density: 2.209 g/cm<sup>3</sup>
         surface_gravity: 120.830 m/s<sup>2</sup><br />(12.321 g<sub>0</sub>)
         escape_velocity: 217.758 km/s<br />(783,928 km/h)
         rotation_period: 43.205 d
         axial_tilt: 32.48°
         albedo: 0.30
-        temperature: 3066 K<br />(2793 °C)
+        temperature: 554 K<br />(281 °C)
       - name: 537 Reggiad I c
         type: Asteroid
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 139,082.9 km<br/>(21.831 Yrths)
         surface_area: 2.431 × 10<sup>11</sup> km<sup>2</sup><br/>(476.576 Yrths)
         volume: 1.127 × 10<sup>16</sup> km<sup>3</sup><br/>(10403.945 Yrths)
-        mass: 2.486 × 10<sup>28</sup> kg<br />(209.27919935905982 Yrths)
+        mass: 2.486 × 10<sup>28</sup> kg<br />(4163.323 Yrths)
         density: 2.206 g/cm<sup>3</sup>
         surface_gravity: 85.670 m/s<sup>2</sup><br />(8.736 g<sub>0</sub>)
         escape_velocity: 154.476 km/s<br />(556,114 km/h)
         rotation_period: 49.761 d
         axial_tilt: 44.10°
         albedo: 0.30
-        temperature: 2416 K<br />(2143 °C)
+        temperature: 554 K<br />(281 °C)
       - name: 537 Reggiad I d
         type: Icy
         formationType: Captured
@@ -119,14 +119,14 @@ planets:
         radius: 158,085.2 km<br/>(24.813 Yrths)
         surface_area: 3.140 × 10<sup>11</sup> km<sup>2</sup><br/>(615.697 Yrths)
         volume: 1.655 × 10<sup>16</sup> km<sup>3</sup><br/>(15277.450 Yrths)
-        mass: 2.079 × 10<sup>28</sup> kg<br />(209.27919935905982 Yrths)
+        mass: 2.079 × 10<sup>28</sup> kg<br />(3481.860 Yrths)
         density: 1.257 g/cm<sup>3</sup>
         surface_gravity: 55.458 m/s<sup>2</sup><br />(5.655 g<sub>0</sub>)
         escape_velocity: 132.507 km/s<br />(477,024 km/h)
         rotation_period: 54.637 d
         axial_tilt: 14.83°
         albedo: 0.30
-        temperature: 1815 K<br />(1542 °C)
+        temperature: 554 K<br />(281 °C)
       - name: 537 Reggiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 287,462.5 km<br/>(45.120 Yrths)
         surface_area: 1.038 × 10<sup>12</sup> km<sup>2</sup><br/>(2035.857 Yrths)
         volume: 9.950 × 10<sup>16</sup> km<sup>3</sup><br/>(91858.839 Yrths)
-        mass: 2.203 × 10<sup>29</sup> kg<br />(209.27919935905982 Yrths)
+        mass: 2.203 × 10<sup>29</sup> kg<br />(36883.564 Yrths)
         density: 2.214 g/cm<sup>3</sup>
         surface_gravity: 177.667 m/s<sup>2</sup><br />(18.117 g<sub>0</sub>)
         escape_velocity: 319.818 km/s<br />(1,151,347 km/h)
         rotation_period: 35.400 d
         axial_tilt: 13.27°
         albedo: 0.30
-        temperature: 1731 K<br />(1458 °C)
+        temperature: 554 K<br />(281 °C)
       - name: 537 Reggiad I f
         type: Icy
         formationType: Captured
@@ -159,14 +159,14 @@ planets:
         radius: 183,246.0 km<br/>(28.763 Yrths)
         surface_area: 4.220 × 10<sup>11</sup> km<sup>2</sup><br/>(827.283 Yrths)
         volume: 2.577 × 10<sup>16</sup> km<sup>3</sup><br/>(23794.743 Yrths)
-        mass: 4.053 × 10<sup>28</sup> kg<br />(209.27919935905982 Yrths)
+        mass: 4.053 × 10<sup>28</sup> kg<br />(6787.450 Yrths)
         density: 1.573 g/cm<sup>3</sup>
         surface_gravity: 80.459 m/s<sup>2</sup><br />(8.205 g<sub>0</sub>)
         escape_velocity: 171.836 km/s<br />(618,609 km/h)
         rotation_period: 64.755 d
         axial_tilt: 14.70°
         albedo: 0.30
-        temperature: 1500 K<br />(1227 °C)
+        temperature: 554 K<br />(281 °C)
       - name: 537 Reggiad I g
         type: Icy
         formationType: Captured
@@ -179,14 +179,14 @@ planets:
         radius: 204,688.8 km<br/>(32.128 Yrths)
         surface_area: 5.265 × 10<sup>11</sup> km<sup>2</sup><br/>(1032.221 Yrths)
         volume: 3.592 × 10<sup>16</sup> km<sup>3</sup><br/>(33163.422 Yrths)
-        mass: 5.007 × 10<sup>28</sup> kg<br />(209.27919935905982 Yrths)
+        mass: 5.007 × 10<sup>28</sup> kg<br />(8384.136 Yrths)
         density: 1.394 g/cm<sup>3</sup>
         surface_gravity: 79.654 m/s<sup>2</sup><br />(8.122 g<sub>0</sub>)
         escape_velocity: 180.701 km/s<br />(650,523 km/h)
         rotation_period: 55.839 d
         axial_tilt: 17.86°
         albedo: 0.30
-        temperature: 1431 K<br />(1157 °C)
+        temperature: 554 K<br />(281 °C)
   - name: 537 Reggiad II
     type: Gas giant
     aphelion: 840,713,539 km<br />5.620 AU
@@ -198,14 +198,14 @@ planets:
     radius: 246.9 km<br/>(0.039 Yrths)
     surface_area: 7.661 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.305 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.492 × 10<sup>27</sup> kg<br />(417.23635682706686 Yrths)
+    mass: 2.492 × 10<sup>27</sup> kg<br />(417.24 Yrths)
     density: 39518551.777 g/cm<sup>3</sup>
     surface_gravity: 2724226.132 m/s<sup>2</sup><br />(277793.756 g<sub>0</sub>)
     escape_velocity: 1160.647 km/s<br />(4,178,329 km/h)
     rotation_period: 0.228 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1789 K<br />(1516 °C)
+    temperature: 1895 K<br />(1622 °C)
     composition:
       - 72.8053% helium
       - 18.2446% phosphine
@@ -224,14 +224,14 @@ planets:
         radius: 310,616.5 km<br/>(48.755 Yrths)
         surface_area: 1.212 × 10<sup>12</sup> km<sup>2</sup><br/>(2377.025 Yrths)
         volume: 1.255 × 10<sup>17</sup> km<sup>3</sup><br/>(115891.226 Yrths)
-        mass: 1.310 × 10<sup>29</sup> kg<br />(417.23635682706686 Yrths)
+        mass: 1.310 × 10<sup>29</sup> kg<br />(21931.455 Yrths)
         density: 1.043 g/cm<sup>3</sup>
         surface_gravity: 90.480 m/s<sup>2</sup><br />(9.226 g<sub>0</sub>)
         escape_velocity: 237.246 km/s<br />(854,086 km/h)
         rotation_period: 62.661 d
         axial_tilt: 16.60°
         albedo: 0.30
-        temperature: 1889 K<br />(1616 °C)
+        temperature: 396 K<br />(123 °C)
       - name: 537 Reggiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -244,14 +244,14 @@ planets:
         radius: 258,801.5 km<br/>(40.622 Yrths)
         surface_area: 8.417 × 10<sup>11</sup> km<sup>2</sup><br/>(1650.131 Yrths)
         volume: 7.261 × 10<sup>16</sup> km<sup>3</sup><br/>(67031.321 Yrths)
-        mass: 1.530 × 10<sup>29</sup> kg<br />(417.23635682706686 Yrths)
+        mass: 1.530 × 10<sup>29</sup> kg<br />(25621.018 Yrths)
         density: 2.107 g/cm<sup>3</sup>
         surface_gravity: 152.264 m/s<sup>2</sup><br />(15.527 g<sub>0</sub>)
         escape_velocity: 280.926 km/s<br />(1,011,335 km/h)
         rotation_period: 36.620 d
         axial_tilt: 14.31°
         albedo: 0.30
-        temperature: 602 K<br />(329 °C)
+        temperature: 396 K<br />(123 °C)
       - name: 537 Reggiad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -264,14 +264,14 @@ planets:
         radius: 308,055.7 km<br/>(48.353 Yrths)
         surface_area: 1.193 × 10<sup>12</sup> km<sup>2</sup><br/>(2337.993 Yrths)
         volume: 1.225 × 10<sup>17</sup> km<sup>3</sup><br/>(113048.509 Yrths)
-        mass: 2.757 × 10<sup>29</sup> kg<br />(417.23635682706686 Yrths)
+        mass: 2.757 × 10<sup>29</sup> kg<br />(46172.077 Yrths)
         density: 2.252 g/cm<sup>3</sup>
         surface_gravity: 193.668 m/s<sup>2</sup><br />(19.749 g<sub>0</sub>)
         escape_velocity: 345.663 km/s<br />(1,244,387 km/h)
         rotation_period: 35.607 d
         axial_tilt: 20.03°
         albedo: 0.30
-        temperature: 522 K<br />(249 °C)
+        temperature: 396 K<br />(123 °C)
       - name: 537 Reggiad II d
         type: Icy
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 369,925.3 km<br/>(58.064 Yrths)
         surface_area: 1.720 × 10<sup>12</sup> km<sup>2</sup><br/>(3371.420 Yrths)
         volume: 2.120 × 10<sup>17</sup> km<sup>3</sup><br/>(195757.873 Yrths)
-        mass: 2.929 × 10<sup>29</sup> kg<br />(417.23635682706686 Yrths)
+        mass: 2.929 × 10<sup>29</sup> kg<br />(49043.583 Yrths)
         density: 1.381 g/cm<sup>3</sup>
         surface_gravity: 142.656 m/s<sup>2</sup><br />(14.547 g<sub>0</sub>)
         escape_velocity: 325.096 km/s<br />(1,170,346 km/h)
         rotation_period: 75.856 d
         axial_tilt: 25.63°
         albedo: 0.30
-        temperature: 474 K<br />(201 °C)
+        temperature: 396 K<br />(123 °C)
       - name: 537 Reggiad II e
         type: Rocky
         formationType: Accreted
@@ -304,14 +304,14 @@ planets:
         radius: 321,490.1 km<br/>(50.461 Yrths)
         surface_area: 1.299 × 10<sup>12</sup> km<sup>2</sup><br/>(2546.360 Yrths)
         volume: 1.392 × 10<sup>17</sup> km<sup>3</sup><br/>(128493.100 Yrths)
-        mass: 4.451 × 10<sup>29</sup> kg<br />(417.23635682706686 Yrths)
+        mass: 4.451 × 10<sup>29</sup> kg<br />(74525.071 Yrths)
         density: 3.198 g/cm<sup>3</sup>
         surface_gravity: 287.014 m/s<sup>2</sup><br />(29.267 g<sub>0</sub>)
         escape_velocity: 429.878 km/s<br />(1,547,561 km/h)
         rotation_period: 38.646 d
         axial_tilt: 13.91°
         albedo: 0.30
-        temperature: 324 K<br />(51 °C)
+        temperature: 396 K<br />(123 °C)
       - name: 537 Reggiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -324,14 +324,14 @@ planets:
         radius: 250,171.1 km<br/>(39.267 Yrths)
         surface_area: 7.865 × 10<sup>11</sup> km<sup>2</sup><br/>(1541.910 Yrths)
         volume: 6.558 × 10<sup>16</sup> km<sup>3</sup><br/>(60546.423 Yrths)
-        mass: 1.540 × 10<sup>29</sup> kg<br />(417.23635682706686 Yrths)
+        mass: 1.540 × 10<sup>29</sup> kg<br />(25787.771 Yrths)
         density: 2.348 g/cm<sup>3</sup>
         surface_gravity: 164.012 m/s<sup>2</sup><br />(16.725 g<sub>0</sub>)
         escape_velocity: 286.659 km/s<br />(1,031,974 km/h)
         rotation_period: 32.714 d
         axial_tilt: 19.13°
         albedo: 0.30
-        temperature: 281 K<br />(8 °C)
+        temperature: 396 K<br />(123 °C)
   - name: 537 Reggiad III
     type: Gas giant
     aphelion: 1,456,210,179 km<br />9.734 AU
@@ -343,14 +343,14 @@ planets:
     radius: 227.5 km<br/>(0.036 Yrths)
     surface_area: 6.506 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.935 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.751 × 10<sup>27</sup> kg<br />(293.1254196718818 Yrths)
+    mass: 1.751 × 10<sup>27</sup> kg<br />(293.13 Yrths)
     density: 35473912.591 g/cm<sup>3</sup>
     surface_gravity: 2253576.547 m/s<sup>2</sup><br />(229800.854 g<sub>0</sub>)
     escape_velocity: 1013.387 km/s<br />(3,648,192 km/h)
     rotation_period: 0.236 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1211 K<br />(938 °C)
+    temperature: 1171 K<br />(898 °C)
     composition:
       - 87.4138% hydrogen
       - 8.1143% helium
@@ -369,14 +369,14 @@ planets:
         radius: 208,675.7 km<br/>(32.754 Yrths)
         surface_area: 5.472 × 10<sup>11</sup> km<sup>2</sup><br/>(1072.824 Yrths)
         volume: 3.806 × 10<sup>16</sup> km<sup>3</sup><br/>(35139.282 Yrths)
-        mass: 8.014 × 10<sup>28</sup> kg<br />(293.1254196718818 Yrths)
+        mass: 8.014 × 10<sup>28</sup> kg<br />(13419.033 Yrths)
         density: 2.105 g/cm<sup>3</sup>
         surface_gravity: 122.663 m/s<sup>2</sup><br />(12.508 g<sub>0</sub>)
         escape_velocity: 226.414 km/s<br />(815,089 km/h)
         rotation_period: 53.045 d
         axial_tilt: 28.06°
         albedo: 0.30
-        temperature: 1540 K<br />(1267 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 537 Reggiad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -389,14 +389,14 @@ planets:
         radius: 222,106.8 km<br/>(34.862 Yrths)
         surface_area: 6.199 × 10<sup>11</sup> km<sup>2</sup><br/>(1215.370 Yrths)
         volume: 4.590 × 10<sup>16</sup> km<sup>3</sup><br/>(42370.443 Yrths)
-        mass: 8.692 × 10<sup>28</sup> kg<br />(293.1254196718818 Yrths)
+        mass: 8.692 × 10<sup>28</sup> kg<br />(14554.399 Yrths)
         density: 1.894 g/cm<sup>3</sup>
         surface_gravity: 117.437 m/s<sup>2</sup><br />(11.975 g<sub>0</sub>)
         escape_velocity: 228.557 km/s<br />(822,804 km/h)
         rotation_period: 58.326 d
         axial_tilt: 22.60°
         albedo: 0.30
-        temperature: 1335 K<br />(1061 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 537 Reggiad III c
         type: Dwarf planet
         formationType: Impact formed
@@ -409,14 +409,14 @@ planets:
         radius: 183,712.3 km<br/>(28.836 Yrths)
         surface_area: 4.241 × 10<sup>11</sup> km<sup>2</sup><br/>(831.498 Yrths)
         volume: 2.597 × 10<sup>16</sup> km<sup>3</sup><br/>(23976.851 Yrths)
-        mass: 6.253 × 10<sup>28</sup> kg<br />(293.1254196718818 Yrths)
+        mass: 6.253 × 10<sup>28</sup> kg<br />(10470.701 Yrths)
         density: 2.408 g/cm<sup>3</sup>
         surface_gravity: 123.491 m/s<sup>2</sup><br />(12.593 g<sub>0</sub>)
         escape_velocity: 213.155 km/s<br />(767,360 km/h)
         rotation_period: 43.667 d
         axial_tilt: 17.22°
         albedo: 0.30
-        temperature: 1003 K<br />(730 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 537 Reggiad III d
         type: Icy
         formationType: Impact formed
@@ -429,14 +429,14 @@ planets:
         radius: 192,517.6 km<br/>(30.218 Yrths)
         surface_area: 4.657 × 10<sup>11</sup> km<sup>2</sup><br/>(913.115 Yrths)
         volume: 2.989 × 10<sup>16</sup> km<sup>3</sup><br/>(27592.332 Yrths)
-        mass: 4.198 × 10<sup>28</sup> kg<br />(293.1254196718818 Yrths)
+        mass: 4.198 × 10<sup>28</sup> kg<br />(7028.750 Yrths)
         density: 1.404 g/cm<sup>3</sup>
         surface_gravity: 75.487 m/s<sup>2</sup><br />(7.698 g<sub>0</sub>)
         escape_velocity: 170.601 km/s<br />(614,164 km/h)
         rotation_period: 48.485 d
         axial_tilt: 24.27°
         albedo: 0.30
-        temperature: 566 K<br />(293 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 537 Reggiad III e
         type: Icy
         formationType: Impact formed
@@ -449,14 +449,14 @@ planets:
         radius: 209,153.5 km<br/>(32.829 Yrths)
         surface_area: 5.497 × 10<sup>11</sup> km<sup>2</sup><br/>(1077.743 Yrths)
         volume: 3.833 × 10<sup>16</sup> km<sup>3</sup><br/>(35381.203 Yrths)
-        mass: 7.282 × 10<sup>28</sup> kg<br />(293.1254196718818 Yrths)
+        mass: 7.282 × 10<sup>28</sup> kg<br />(12193.203 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 110.949 m/s<sup>2</sup><br />(11.314 g<sub>0</sub>)
         escape_velocity: 215.578 km/s<br />(776,080 km/h)
         rotation_period: 62.303 d
         axial_tilt: 13.37°
         albedo: 0.30
-        temperature: 515 K<br />(241 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 537 Reggiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -469,14 +469,14 @@ planets:
         radius: 176,357.8 km<br/>(27.681 Yrths)
         surface_area: 3.908 × 10<sup>11</sup> km<sup>2</sup><br/>(766.256 Yrths)
         volume: 2.298 × 10<sup>16</sup> km<sup>3</sup><br/>(21210.993 Yrths)
-        mass: 4.158 × 10<sup>28</sup> kg<br />(293.1254196718818 Yrths)
+        mass: 4.158 × 10<sup>28</sup> kg<br />(6963.075 Yrths)
         density: 1.810 g/cm<sup>3</sup>
         surface_gravity: 89.114 m/s<sup>2</sup><br />(9.087 g<sub>0</sub>)
         escape_velocity: 177.411 km/s<br />(638,680 km/h)
         rotation_period: 45.378 d
         axial_tilt: 16.31°
         albedo: 0.30
-        temperature: 229 K<br />(-44 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 537 Reggiad III g
         type: Icy
         formationType: Captured
@@ -489,12 +489,12 @@ planets:
         radius: 213,081.9 km<br/>(33.446 Yrths)
         surface_area: 5.706 × 10<sup>11</sup> km<sup>2</sup><br/>(1118.608 Yrths)
         volume: 4.053 × 10<sup>16</sup> km<sup>3</sup><br/>(37412.520 Yrths)
-        mass: 5.596 × 10<sup>28</sup> kg<br />(293.1254196718818 Yrths)
+        mass: 5.596 × 10<sup>28</sup> kg<br />(9370.679 Yrths)
         density: 1.381 g/cm<sup>3</sup>
         surface_gravity: 82.151 m/s<sup>2</sup><br />(8.377 g<sub>0</sub>)
         escape_velocity: 187.236 km/s<br />(674,051 km/h)
         rotation_period: 62.881 d
         axial_tilt: 14.92°
         albedo: 0.30
-        temperature: 164 K<br />(-109 °C)
+        temperature: 283 K<br />(10 °C)
 ---

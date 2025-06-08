@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0193 Irsaiad D is a star in the constellation Irsa
+      0193 Irsaiad D is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 1250.47 ly
 apparent_magnitude: 18.29
 absolute_magnitude: 10.37

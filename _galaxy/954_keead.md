@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      954 Keead is a star in the constellation Kee
+      954 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 437.92 ly
 apparent_magnitude: 11.88
 absolute_magnitude: 6.24

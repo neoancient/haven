@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5003 Geardiad is a star in the constellation Geard
+      5003 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 428.19 ly
 apparent_magnitude: 15.40
 absolute_magnitude: 9.81

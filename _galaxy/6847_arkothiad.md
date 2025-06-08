@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6847 Arkothiad is a star in the constellation Arkoth
+      6847 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 151.94 ly
 apparent_magnitude: 7.49
 absolute_magnitude: 4.15
@@ -31,14 +31,14 @@ planets:
     radius: 9,286.2 km<br/>(1.458 Yrths)
     surface_area: 1.084 × 10<sup>09</sup> km<sup>2</sup><br/>(2.125 Yrths)
     volume: 3.354 × 10<sup>12</sup> km<sup>3</sup><br/>(3.097 Yrths)
-    mass: 2.385 × 10<sup>25</sup> kg<br />(3.994081972352183 Yrths)
+    mass: 2.385 × 10<sup>25</sup> kg<br />(3.99 Yrths)
     density: 7.111 g/cm<sup>3</sup>
     surface_gravity: 18.437 m/s<sup>2</sup><br />(1.880 g<sub>0</sub>)
     escape_velocity: 18.517 km/s<br />(66,661 km/h)
     rotation_period: 1.202 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 329 K<br />(56 °C)
+    temperature: 425 K<br />(152 °C)
     surface_pressure: 114 kPa<br />(1 atm)
     composition:
       - 67.5780% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 6,228.4 km<br/>(0.978 Yrths)
         surface_area: 4.875 × 10<sup>08</sup> km<sup>2</sup><br/>(0.956 Yrths)
         volume: 1.012 × 10<sup>12</sup> km<sup>3</sup><br/>(0.934 Yrths)
-        mass: 1.164 × 10<sup>24</sup> kg<br />(3.994081972352183 Yrths)
+        mass: 1.164 × 10<sup>24</sup> kg<br />(0.195 Yrths)
         density: 1.150 g/cm<sup>3</sup>
         surface_gravity: 1.999 m/s<sup>2</sup><br />(0.204 g<sub>0</sub>)
         escape_velocity: 4.994 km/s<br />(17,977 km/h)
         rotation_period: 71.853 d
         axial_tilt: 15.49°
         albedo: 0.30
-        temperature: 3782 K<br />(3509 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 6847 Arkothiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 6,493.1 km<br/>(1.019 Yrths)
         surface_area: 5.298 × 10<sup>08</sup> km<sup>2</sup><br/>(1.039 Yrths)
         volume: 1.147 × 10<sup>12</sup> km<sup>3</sup><br/>(1.059 Yrths)
-        mass: 2.662 × 10<sup>24</sup> kg<br />(3.994081972352183 Yrths)
+        mass: 2.662 × 10<sup>24</sup> kg<br />(0.446 Yrths)
         density: 2.321 g/cm<sup>3</sup>
         surface_gravity: 4.208 m/s<sup>2</sup><br />(0.429 g<sub>0</sub>)
         escape_velocity: 7.397 km/s<br />(26,630 km/h)
         rotation_period: 62.114 d
         axial_tilt: 25.38°
         albedo: 0.30
-        temperature: 3606 K<br />(3333 °C)
+        temperature: 261 K<br />(-12 °C)
   - name: 6847 Arkothiad II
     type: Ice giant
     aphelion: 566,009,758 km<br />3.783 AU
@@ -98,14 +98,14 @@ planets:
     radius: 27,686.4 km<br/>(4.346 Yrths)
     surface_area: 9.633 × 10<sup>09</sup> km<sup>2</sup><br/>(18.885 Yrths)
     volume: 8.890 × 10<sup>13</sup> km<sup>3</sup><br/>(82.069 Yrths)
-    mass: 1.329 × 10<sup>26</sup> kg<br />(22.25993361979716 Yrths)
+    mass: 1.329 × 10<sup>26</sup> kg<br />(22.26 Yrths)
     density: 1.495 g/cm<sup>3</sup>
     surface_gravity: 11.559 m/s<sup>2</sup><br />(1.179 g<sub>0</sub>)
     escape_velocity: 25.317 km/s<br />(91,140 km/h)
     rotation_period: 0.553 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 338 K<br />(65 °C)
+    temperature: 311 K<br />(38 °C)
     composition:
       - 69.1878% hydrogen
       - 24.5629% helium
@@ -124,14 +124,14 @@ planets:
         radius: 14,505.3 km<br/>(2.277 Yrths)
         surface_area: 2.644 × 10<sup>09</sup> km<sup>2</sup><br/>(5.184 Yrths)
         volume: 1.278 × 10<sup>13</sup> km<sup>3</sup><br/>(11.802 Yrths)
-        mass: 2.619 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 2.619 × 10<sup>25</sup> kg<br />(4.385 Yrths)
         density: 2.049 g/cm<sup>3</sup>
         surface_gravity: 8.297 m/s<sup>2</sup><br />(0.846 g<sub>0</sub>)
         escape_velocity: 15.525 km/s<br />(55,889 km/h)
         rotation_period: 63.689 d
         axial_tilt: 7.96°
         albedo: 0.30
-        temperature: 1914 K<br />(1641 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II b
         type: Asteroid
         formationType: Captured
@@ -144,14 +144,14 @@ planets:
         radius: 19,572.2 km<br/>(3.072 Yrths)
         surface_area: 4.814 × 10<sup>09</sup> km<sup>2</sup><br/>(9.438 Yrths)
         volume: 3.141 × 10<sup>13</sup> km<sup>3</sup><br/>(28.993 Yrths)
-        mass: 8.055 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 8.055 × 10<sup>25</sup> kg<br />(13.488 Yrths)
         density: 2.565 g/cm<sup>3</sup>
         surface_gravity: 14.016 m/s<sup>2</sup><br />(1.429 g<sub>0</sub>)
         escape_velocity: 23.439 km/s<br />(84,380 km/h)
         rotation_period: 34.415 d
         axial_tilt: 37.05°
         albedo: 0.30
-        temperature: 1825 K<br />(1552 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II c
         type: Icy
         formationType: Accreted
@@ -164,14 +164,14 @@ planets:
         radius: 18,876.2 km<br/>(2.963 Yrths)
         surface_area: 4.478 × 10<sup>09</sup> km<sup>2</sup><br/>(8.778 Yrths)
         volume: 2.817 × 10<sup>13</sup> km<sup>3</sup><br/>(26.009 Yrths)
-        mass: 4.049 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 4.049 × 10<sup>25</sup> kg<br />(6.780 Yrths)
         density: 1.437 g/cm<sup>3</sup>
         surface_gravity: 7.575 m/s<sup>2</sup><br />(0.772 g<sub>0</sub>)
         escape_velocity: 16.922 km/s<br />(60,919 km/h)
         rotation_period: 76.138 d
         axial_tilt: 17.44°
         albedo: 0.30
-        temperature: 1740 K<br />(1467 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -184,14 +184,14 @@ planets:
         radius: 20,708.4 km<br/>(3.250 Yrths)
         surface_area: 5.389 × 10<sup>09</sup> km<sup>2</sup><br/>(10.565 Yrths)
         volume: 3.720 × 10<sup>13</sup> km<sup>3</sup><br/>(34.342 Yrths)
-        mass: 9.320 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 9.320 × 10<sup>25</sup> kg<br />(15.606 Yrths)
         density: 2.505 g/cm<sup>3</sup>
         surface_gravity: 14.485 m/s<sup>2</sup><br />(1.477 g<sub>0</sub>)
         escape_velocity: 24.510 km/s<br />(88,236 km/h)
         rotation_period: 53.393 d
         axial_tilt: 7.33°
         albedo: 0.30
-        temperature: 1659 K<br />(1386 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -204,14 +204,14 @@ planets:
         radius: 15,806.4 km<br/>(2.481 Yrths)
         surface_area: 3.140 × 10<sup>09</sup> km<sup>2</sup><br/>(6.155 Yrths)
         volume: 1.654 × 10<sup>13</sup> km<sup>3</sup><br/>(15.271 Yrths)
-        mass: 4.117 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 4.117 × 10<sup>25</sup> kg<br />(6.894 Yrths)
         density: 2.489 g/cm<sup>3</sup>
         surface_gravity: 10.983 m/s<sup>2</sup><br />(1.120 g<sub>0</sub>)
         escape_velocity: 18.646 km/s<br />(67,126 km/h)
         rotation_period: 37.513 d
         axial_tilt: 25.76°
         albedo: 0.30
-        temperature: 1582 K<br />(1309 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II f
         type: Asteroid
         formationType: Captured
@@ -224,14 +224,14 @@ planets:
         radius: 14,172.9 km<br/>(2.225 Yrths)
         surface_area: 2.524 × 10<sup>09</sup> km<sup>2</sup><br/>(4.949 Yrths)
         volume: 1.193 × 10<sup>13</sup> km<sup>3</sup><br/>(11.009 Yrths)
-        mass: 2.654 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 2.654 × 10<sup>25</sup> kg<br />(4.444 Yrths)
         density: 2.226 g/cm<sup>3</sup>
         surface_gravity: 8.807 m/s<sup>2</sup><br />(0.898 g<sub>0</sub>)
         escape_velocity: 15.811 km/s<br />(56,920 km/h)
         rotation_period: 33.233 d
         axial_tilt: 24.77°
         albedo: 0.30
-        temperature: 1371 K<br />(1098 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II g
         type: Ice/rock hybrid
         formationType: Captured
@@ -244,14 +244,14 @@ planets:
         radius: 16,739.2 km<br/>(2.627 Yrths)
         surface_area: 3.521 × 10<sup>09</sup> km<sup>2</sup><br/>(6.903 Yrths)
         volume: 1.965 × 10<sup>13</sup> km<sup>3</sup><br/>(18.138 Yrths)
-        mass: 4.615 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 4.615 × 10<sup>25</sup> kg<br />(7.727 Yrths)
         density: 2.349 g/cm<sup>3</sup>
         surface_gravity: 10.977 m/s<sup>2</sup><br />(1.119 g<sub>0</sub>)
         escape_velocity: 19.183 km/s<br />(69,061 km/h)
         rotation_period: 39.446 d
         axial_tilt: 29.29°
         albedo: 0.30
-        temperature: 1307 K<br />(1034 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II h
         type: Icy
         formationType: Accreted
@@ -264,14 +264,14 @@ planets:
         radius: 27,677.8 km<br/>(4.344 Yrths)
         surface_area: 9.627 × 10<sup>09</sup> km<sup>2</sup><br/>(18.873 Yrths)
         volume: 8.881 × 10<sup>13</sup> km<sup>3</sup><br/>(81.992 Yrths)
-        mass: 9.278 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 9.278 × 10<sup>25</sup> kg<br />(15.536 Yrths)
         density: 1.045 g/cm<sup>3</sup>
         surface_gravity: 8.072 m/s<sup>2</sup><br />(0.823 g<sub>0</sub>)
         escape_velocity: 21.153 km/s<br />(76,152 km/h)
         rotation_period: 57.152 d
         axial_tilt: 10.17°
         albedo: 0.30
-        temperature: 1189 K<br />(915 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II i
         type: Asteroid
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 13,958.8 km<br/>(2.191 Yrths)
         surface_area: 2.449 × 10<sup>09</sup> km<sup>2</sup><br/>(4.800 Yrths)
         volume: 1.139 × 10<sup>13</sup> km<sup>3</sup><br/>(10.518 Yrths)
-        mass: 3.293 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 3.293 × 10<sup>25</sup> kg<br />(5.515 Yrths)
         density: 2.891 g/cm<sup>3</sup>
         surface_gravity: 11.266 m/s<sup>2</sup><br />(1.149 g<sub>0</sub>)
         escape_velocity: 17.746 km/s<br />(63,887 km/h)
         rotation_period: 41.539 d
         axial_tilt: 50.18°
         albedo: 0.30
-        temperature: 1133 K<br />(860 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II j
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -304,14 +304,14 @@ planets:
         radius: 17,893.5 km<br/>(2.809 Yrths)
         surface_area: 4.023 × 10<sup>09</sup> km<sup>2</sup><br/>(7.888 Yrths)
         volume: 2.400 × 10<sup>13</sup> km<sup>3</sup><br/>(22.154 Yrths)
-        mass: 4.277 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 4.277 × 10<sup>25</sup> kg<br />(7.162 Yrths)
         density: 1.782 g/cm<sup>3</sup>
         surface_gravity: 8.904 m/s<sup>2</sup><br />(0.908 g<sub>0</sub>)
         escape_velocity: 17.863 km/s<br />(64,308 km/h)
         rotation_period: 59.874 d
         axial_tilt: 19.16°
         albedo: 0.30
-        temperature: 1030 K<br />(757 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 6847 Arkothiad II k
         type: Ice/rock hybrid
         formationType: Captured
@@ -324,12 +324,12 @@ planets:
         radius: 15,063.7 km<br/>(2.364 Yrths)
         surface_area: 2.852 × 10<sup>09</sup> km<sup>2</sup><br/>(5.591 Yrths)
         volume: 1.432 × 10<sup>13</sup> km<sup>3</sup><br/>(13.218 Yrths)
-        mass: 2.902 × 10<sup>25</sup> kg<br />(22.25993361979716 Yrths)
+        mass: 2.902 × 10<sup>25</sup> kg<br />(4.859 Yrths)
         density: 2.027 g/cm<sup>3</sup>
         surface_gravity: 8.523 m/s<sup>2</sup><br />(0.869 g<sub>0</sub>)
         escape_velocity: 16.035 km/s<br />(57,727 km/h)
         rotation_period: 44.126 d
         axial_tilt: 21.01°
         albedo: 0.30
-        temperature: 982 K<br />(709 °C)
+        temperature: 194 K<br />(-79 °C)
 ---

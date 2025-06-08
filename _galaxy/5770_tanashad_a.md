@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5770 Tanashad A is a star in the constellation Tanas
+      5770 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 336.94 ly
 apparent_magnitude: 7.10
 absolute_magnitude: 2.03

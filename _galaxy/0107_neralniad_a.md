@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0107 Neralniad A is a star in the constellation Neraln
+      0107 Neralniad A is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 245.59 ly
 apparent_magnitude: 6.68
 absolute_magnitude: 2.30

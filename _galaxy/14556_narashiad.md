@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      14556 Narashiad is a star in the constellation Naras
+      14556 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 513.91 ly
 apparent_magnitude: 11.07
 absolute_magnitude: 5.08

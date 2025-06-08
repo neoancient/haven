@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1872 Arniad A is a star in the constellation Arni
+      1872 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 407.14 ly
 apparent_magnitude: 8.07
 absolute_magnitude: 2.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7309 Tanashad is a star in the constellation Tanas
+      7309 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 401.28 ly
 apparent_magnitude: 10.43
 absolute_magnitude: 4.98

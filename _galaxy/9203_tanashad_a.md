@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9203 Tanashad A is a star in the constellation Tanas
+      9203 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 349.70 ly
 apparent_magnitude: 7.38
 absolute_magnitude: 2.22

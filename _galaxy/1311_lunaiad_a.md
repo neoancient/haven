@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1311 Lunaiad A is a star in the constellation Luna
+      1311 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 539.48 ly
 apparent_magnitude: 7.01
 absolute_magnitude: 0.91

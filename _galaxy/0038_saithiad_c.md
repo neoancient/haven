@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0038 Saithiad C is a star in the constellation Saith
+      0038 Saithiad C is a star in the constellation <a href="saith.html">Saith</a>
 distance: 171.66 ly
 apparent_magnitude: 8.14
 absolute_magnitude: 4.53

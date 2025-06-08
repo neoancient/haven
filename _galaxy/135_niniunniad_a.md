@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      135 Niniunniad A is a star in the constellation Niniun
+      135 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 128.22 ly
 apparent_magnitude: 9.22
 absolute_magnitude: 6.25

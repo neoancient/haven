@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4476 Geardiad is a star in the constellation Geard
+      4476 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 332.24 ly
 apparent_magnitude: 9.87
 absolute_magnitude: 4.83

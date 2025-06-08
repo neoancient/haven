@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1354 Athiad is a star in the constellation Ath
+      1354 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 490.51 ly
 apparent_magnitude: 9.03
 absolute_magnitude: 3.14
@@ -31,14 +31,14 @@ planets:
     radius: 33,442.4 km<br/>(5.249 Yrths)
     surface_area: 1.405 × 10<sup>10</sup> km<sup>2</sup><br/>(27.554 Yrths)
     volume: 1.567 × 10<sup>14</sup> km<sup>3</sup><br/>(144.634 Yrths)
-    mass: 1.843 × 10<sup>26</sup> kg<br />(30.86289668152181 Yrths)
+    mass: 1.843 × 10<sup>26</sup> kg<br />(30.86 Yrths)
     density: 1.176 g/cm<sup>3</sup>
     surface_gravity: 10.984 m/s<sup>2</sup><br />(1.120 g<sub>0</sub>)
     escape_velocity: 27.124 km/s<br />(97,645 km/h)
     rotation_period: 0.542 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 394 K<br />(121 °C)
+    temperature: 350 K<br />(77 °C)
     composition:
       - 68.6044% hydrogen
       - 31.3956% helium
@@ -55,14 +55,14 @@ planets:
         radius: 21,074.5 km<br/>(3.308 Yrths)
         surface_area: 5.581 × 10<sup>09</sup> km<sup>2</sup><br/>(10.942 Yrths)
         volume: 3.921 × 10<sup>13</sup> km<sup>3</sup><br/>(36.195 Yrths)
-        mass: 5.844 × 10<sup>25</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 5.844 × 10<sup>25</sup> kg<br />(9.786 Yrths)
         density: 1.491 g/cm<sup>3</sup>
         surface_gravity: 8.770 m/s<sup>2</sup><br />(0.894 g<sub>0</sub>)
         escape_velocity: 19.240 km/s<br />(69,263 km/h)
         rotation_period: 56.652 d
         axial_tilt: 17.57°
         albedo: 0.30
-        temperature: 1930 K<br />(1657 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -75,14 +75,14 @@ planets:
         radius: 20,142.0 km<br/>(3.162 Yrths)
         surface_area: 5.098 × 10<sup>09</sup> km<sup>2</sup><br/>(9.995 Yrths)
         volume: 3.423 × 10<sup>13</sup> km<sup>3</sup><br/>(31.600 Yrths)
-        mass: 6.517 × 10<sup>25</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 6.517 × 10<sup>25</sup> kg<br />(10.913 Yrths)
         density: 1.904 g/cm<sup>3</sup>
         surface_gravity: 10.707 m/s<sup>2</sup><br />(1.092 g<sub>0</sub>)
         escape_velocity: 20.783 km/s<br />(74,817 km/h)
         rotation_period: 42.402 d
         axial_tilt: 16.19°
         albedo: 0.30
-        temperature: 1840 K<br />(1567 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I c
         type: Asteroid
         formationType: Captured
@@ -95,14 +95,14 @@ planets:
         radius: 21,139.2 km<br/>(3.318 Yrths)
         surface_area: 5.615 × 10<sup>09</sup> km<sup>2</sup><br/>(11.009 Yrths)
         volume: 3.957 × 10<sup>13</sup> km<sup>3</sup><br/>(36.529 Yrths)
-        mass: 9.078 × 10<sup>25</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 9.078 × 10<sup>25</sup> kg<br />(15.201 Yrths)
         density: 2.294 g/cm<sup>3</sup>
         surface_gravity: 13.540 m/s<sup>2</sup><br />(1.381 g<sub>0</sub>)
         escape_velocity: 23.942 km/s<br />(86,192 km/h)
         rotation_period: 32.931 d
         axial_tilt: 44.21°
         albedo: 0.30
-        temperature: 1755 K<br />(1482 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -115,14 +115,14 @@ planets:
         radius: 36,687.3 km<br/>(5.758 Yrths)
         surface_area: 1.691 × 10<sup>10</sup> km<sup>2</sup><br/>(33.160 Yrths)
         volume: 2.068 × 10<sup>14</sup> km<sup>3</sup><br/>(190.951 Yrths)
-        mass: 3.309 × 10<sup>26</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 3.309 × 10<sup>26</sup> kg<br />(55.416 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 16.389 m/s<sup>2</sup><br />(1.671 g<sub>0</sub>)
         escape_velocity: 34.701 km/s<br />(124,922 km/h)
         rotation_period: 41.772 d
         axial_tilt: 24.75°
         albedo: 0.30
-        temperature: 1595 K<br />(1322 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -135,14 +135,14 @@ planets:
         radius: 22,755.2 km<br/>(3.572 Yrths)
         surface_area: 6.507 × 10<sup>09</sup> km<sup>2</sup><br/>(12.757 Yrths)
         volume: 4.935 × 10<sup>13</sup> km<sup>3</sup><br/>(45.564 Yrths)
-        mass: 1.117 × 10<sup>26</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 1.117 × 10<sup>26</sup> kg<br />(18.698 Yrths)
         density: 2.262 g/cm<sup>3</sup>
         surface_gravity: 14.374 m/s<sup>2</sup><br />(1.466 g<sub>0</sub>)
         escape_velocity: 25.594 km/s<br />(92,137 km/h)
         rotation_period: 37.466 d
         axial_tilt: 27.56°
         albedo: 0.30
-        temperature: 1521 K<br />(1248 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -155,14 +155,14 @@ planets:
         radius: 33,930.0 km<br/>(5.326 Yrths)
         surface_area: 1.447 × 10<sup>10</sup> km<sup>2</sup><br/>(28.363 Yrths)
         volume: 1.636 × 10<sup>14</sup> km<sup>3</sup><br/>(151.053 Yrths)
-        mass: 3.462 × 10<sup>26</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 3.462 × 10<sup>26</sup> kg<br />(57.974 Yrths)
         density: 2.116 g/cm<sup>3</sup>
         surface_gravity: 20.045 m/s<sup>2</sup><br />(2.044 g<sub>0</sub>)
         escape_velocity: 36.906 km/s<br />(132,863 km/h)
         rotation_period: 58.239 d
         axial_tilt: 23.63°
         albedo: 0.30
-        temperature: 1383 K<br />(1110 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I g
         type: Icy
         formationType: Accreted
@@ -175,14 +175,14 @@ planets:
         radius: 23,039.2 km<br/>(3.616 Yrths)
         surface_area: 6.670 × 10<sup>09</sup> km<sup>2</sup><br/>(13.077 Yrths)
         volume: 5.123 × 10<sup>13</sup> km<sup>3</sup><br/>(47.291 Yrths)
-        mass: 7.175 × 10<sup>25</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 7.175 × 10<sup>25</sup> kg<br />(12.014 Yrths)
         density: 1.401 g/cm<sup>3</sup>
         surface_gravity: 9.010 m/s<sup>2</sup><br />(0.919 g<sub>0</sub>)
         escape_velocity: 20.389 km/s<br />(73,400 km/h)
         rotation_period: 56.949 d
         axial_tilt: 13.26°
         albedo: 0.30
-        temperature: 1318 K<br />(1045 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I h
         type: Ice/rock hybrid
         formationType: Captured
@@ -195,14 +195,14 @@ planets:
         radius: 17,647.1 km<br/>(2.770 Yrths)
         surface_area: 3.913 × 10<sup>09</sup> km<sup>2</sup><br/>(7.672 Yrths)
         volume: 2.302 × 10<sup>13</sup> km<sup>3</sup><br/>(21.252 Yrths)
-        mass: 5.539 × 10<sup>25</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 5.539 × 10<sup>25</sup> kg<br />(9.274 Yrths)
         density: 2.406 g/cm<sup>3</sup>
         surface_gravity: 11.854 m/s<sup>2</sup><br />(1.209 g<sub>0</sub>)
         escape_velocity: 20.468 km/s<br />(73,686 km/h)
         rotation_period: 32.307 d
         axial_tilt: 21.71°
         albedo: 0.30
-        temperature: 1257 K<br />(984 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I i
         type: Icy
         formationType: Accreted
@@ -215,14 +215,14 @@ planets:
         radius: 53,748.1 km<br/>(8.436 Yrths)
         surface_area: 3.630 × 10<sup>10</sup> km<sup>2</sup><br/>(71.172 Yrths)
         volume: 6.504 × 10<sup>14</sup> km<sup>3</sup><br/>(600.437 Yrths)
-        mass: 4.553 × 10<sup>26</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 4.553 × 10<sup>26</sup> kg<br />(76.236 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 10.504 m/s<sup>2</sup><br />(1.071 g<sub>0</sub>)
         escape_velocity: 33.626 km/s<br />(121,053 km/h)
         rotation_period: 107.662 d
         axial_tilt: 24.46°
         albedo: 0.30
-        temperature: 1198 K<br />(925 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -235,14 +235,14 @@ planets:
         radius: 22,770.1 km<br/>(3.574 Yrths)
         surface_area: 6.515 × 10<sup>09</sup> km<sup>2</sup><br/>(12.774 Yrths)
         volume: 4.945 × 10<sup>13</sup> km<sup>3</sup><br/>(45.653 Yrths)
-        mass: 1.003 × 10<sup>26</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 1.003 × 10<sup>26</sup> kg<br />(16.803 Yrths)
         density: 2.029 g/cm<sup>3</sup>
         surface_gravity: 12.900 m/s<sup>2</sup><br />(1.315 g<sub>0</sub>)
         escape_velocity: 24.254 km/s<br />(87,315 km/h)
         rotation_period: 52.845 d
         axial_tilt: 24.01°
         albedo: 0.30
-        temperature: 1143 K<br />(870 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 1354 Athiad I k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -255,14 +255,14 @@ planets:
         radius: 43,389.8 km<br/>(6.811 Yrths)
         surface_area: 2.366 × 10<sup>10</sup> km<sup>2</sup><br/>(46.383 Yrths)
         volume: 3.422 × 10<sup>14</sup> km<sup>3</sup><br/>(315.893 Yrths)
-        mass: 6.147 × 10<sup>26</sup> kg<br />(30.86289668152181 Yrths)
+        mass: 6.147 × 10<sup>26</sup> kg<br />(102.923 Yrths)
         density: 1.796 g/cm<sup>3</sup>
         surface_gravity: 21.761 m/s<sup>2</sup><br />(2.219 g<sub>0</sub>)
         escape_velocity: 43.485 km/s<br />(156,546 km/h)
         rotation_period: 68.476 d
         axial_tilt: 18.56°
         albedo: 0.30
-        temperature: 990 K<br />(717 °C)
+        temperature: 237 K<br />(-36 °C)
   - name: 1354 Athiad II
     type: Gas giant
     aphelion: 953,098,101 km<br />6.371 AU
@@ -274,7 +274,7 @@ planets:
     radius: 56.4 km<br/>(0.009 Yrths)
     surface_area: 4.000 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 7.523 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.505 × 10<sup>24</sup> kg<br />(0.754275788068167 Yrths)
+    mass: 4.505 × 10<sup>24</sup> kg<br />(0.75 Yrths)
     density: 5987884.492 g/cm<sup>3</sup>
     surface_gravity: 94320.789 m/s<sup>2</sup><br />(9618.044 g<sub>0</sub>)
     escape_velocity: 103.235 km/s<br />(371,647 km/h)
@@ -295,14 +295,14 @@ planets:
         radius: 3,322.8 km<br/>(0.522 Yrths)
         surface_area: 1.387 × 10<sup>08</sup> km<sup>2</sup><br/>(0.272 Yrths)
         volume: 1.537 × 10<sup>11</sup> km<sup>3</sup><br/>(0.142 Yrths)
-        mass: 2.180 × 10<sup>23</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 2.180 × 10<sup>23</sup> kg<br />(0.037 Yrths)
         density: 1.419 g/cm<sup>3</sup>
         surface_gravity: 1.316 m/s<sup>2</sup><br />(0.134 g<sub>0</sub>)
         escape_velocity: 2.960 km/s<br />(10,654 km/h)
         rotation_period: 81.685 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 2281 K<br />(2007 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1354 Athiad II b
         type: Icy
         formationType: Impact formed
@@ -315,14 +315,14 @@ planets:
         radius: 3,532.8 km<br/>(0.555 Yrths)
         surface_area: 1.568 × 10<sup>08</sup> km<sup>2</sup><br/>(0.307 Yrths)
         volume: 1.847 × 10<sup>11</sup> km<sup>3</sup><br/>(0.171 Yrths)
-        mass: 2.515 × 10<sup>23</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 2.515 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 1.362 g/cm<sup>3</sup>
         surface_gravity: 1.343 m/s<sup>2</sup><br />(0.137 g<sub>0</sub>)
         escape_velocity: 3.083 km/s<br />(11,099 km/h)
         rotation_period: 46.991 d
         axial_tilt: 8.33°
         albedo: 0.30
-        temperature: 1977 K<br />(1704 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1354 Athiad II c
         type: Icy
         formationType: Accreted
@@ -335,14 +335,14 @@ planets:
         radius: 3,306.7 km<br/>(0.519 Yrths)
         surface_area: 1.374 × 10<sup>08</sup> km<sup>2</sup><br/>(0.269 Yrths)
         volume: 1.515 × 10<sup>11</sup> km<sup>3</sup><br/>(0.140 Yrths)
-        mass: 2.479 × 10<sup>23</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 2.479 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 1.637 g/cm<sup>3</sup>
         surface_gravity: 1.511 m/s<sup>2</sup><br />(0.154 g<sub>0</sub>)
         escape_velocity: 3.163 km/s<br />(11,387 km/h)
         rotation_period: 47.166 d
         axial_tilt: 16.08°
         albedo: 0.30
-        temperature: 1797 K<br />(1524 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1354 Athiad II d
         type: Icy
         formationType: Impact formed
@@ -355,14 +355,14 @@ planets:
         radius: 3,816.6 km<br/>(0.599 Yrths)
         surface_area: 1.830 × 10<sup>08</sup> km<sup>2</sup><br/>(0.359 Yrths)
         volume: 2.329 × 10<sup>11</sup> km<sup>3</sup><br/>(0.215 Yrths)
-        mass: 3.015 × 10<sup>23</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 3.015 × 10<sup>23</sup> kg<br />(0.050 Yrths)
         density: 1.295 g/cm<sup>3</sup>
         surface_gravity: 1.380 m/s<sup>2</sup><br />(0.141 g<sub>0</sub>)
         escape_velocity: 3.248 km/s<br />(11,691 km/h)
         rotation_period: 47.152 d
         axial_tilt: 25.11°
         albedo: 0.30
-        temperature: 1634 K<br />(1361 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1354 Athiad II e
         type: Icy
         formationType: Accreted
@@ -375,14 +375,14 @@ planets:
         radius: 5,215.6 km<br/>(0.819 Yrths)
         surface_area: 3.418 × 10<sup>08</sup> km<sup>2</sup><br/>(0.670 Yrths)
         volume: 5.943 × 10<sup>11</sup> km<sup>3</sup><br/>(0.549 Yrths)
-        mass: 7.259 × 10<sup>23</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 7.259 × 10<sup>23</sup> kg<br />(0.122 Yrths)
         density: 1.222 g/cm<sup>3</sup>
         surface_gravity: 1.779 m/s<sup>2</sup><br />(0.181 g<sub>0</sub>)
         escape_velocity: 4.310 km/s<br />(15,517 km/h)
         rotation_period: 74.892 d
         axial_tilt: 15.51°
         albedo: 0.30
-        temperature: 1350 K<br />(1077 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1354 Athiad II f
         type: Asteroid
         formationType: Captured
@@ -395,14 +395,14 @@ planets:
         radius: 5,517.8 km<br/>(0.866 Yrths)
         surface_area: 3.826 × 10<sup>08</sup> km<sup>2</sup><br/>(0.750 Yrths)
         volume: 7.037 × 10<sup>11</sup> km<sup>3</sup><br/>(0.650 Yrths)
-        mass: 1.269 × 10<sup>24</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 1.269 × 10<sup>24</sup> kg<br />(0.212 Yrths)
         density: 1.803 g/cm<sup>3</sup>
         surface_gravity: 2.777 m/s<sup>2</sup><br />(0.283 g<sub>0</sub>)
         escape_velocity: 5.540 km/s<br />(19,943 km/h)
         rotation_period: 45.893 d
         axial_tilt: 24.00°
         albedo: 0.30
-        temperature: 1227 K<br />(954 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1354 Athiad II g
         type: Icy
         formationType: Impact formed
@@ -415,14 +415,14 @@ planets:
         radius: 4,471.8 km<br/>(0.702 Yrths)
         surface_area: 2.513 × 10<sup>08</sup> km<sup>2</sup><br/>(0.493 Yrths)
         volume: 3.746 × 10<sup>11</sup> km<sup>3</sup><br/>(0.346 Yrths)
-        mass: 3.497 × 10<sup>23</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 3.497 × 10<sup>23</sup> kg<br />(0.059 Yrths)
         density: 0.934 g/cm<sup>3</sup>
         surface_gravity: 1.166 m/s<sup>2</sup><br />(0.119 g<sub>0</sub>)
         escape_velocity: 3.231 km/s<br />(11,631 km/h)
         rotation_period: 70.934 d
         axial_tilt: 21.47°
         albedo: 0.30
-        temperature: 879 K<br />(606 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1354 Athiad II h
         type: Icy
         formationType: Accreted
@@ -435,14 +435,14 @@ planets:
         radius: 4,551.1 km<br/>(0.714 Yrths)
         surface_area: 2.603 × 10<sup>08</sup> km<sup>2</sup><br/>(0.510 Yrths)
         volume: 3.949 × 10<sup>11</sup> km<sup>3</sup><br/>(0.365 Yrths)
-        mass: 6.070 × 10<sup>23</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 6.070 × 10<sup>23</sup> kg<br />(0.102 Yrths)
         density: 1.537 g/cm<sup>3</sup>
         surface_gravity: 1.953 m/s<sup>2</sup><br />(0.199 g<sub>0</sub>)
         escape_velocity: 4.220 km/s<br />(15,190 km/h)
         rotation_period: 41.726 d
         axial_tilt: 14.18°
         albedo: 0.30
-        temperature: 373 K<br />(100 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1354 Athiad II i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -455,14 +455,14 @@ planets:
         radius: 3,093.7 km<br/>(0.486 Yrths)
         surface_area: 1.203 × 10<sup>08</sup> km<sup>2</sup><br/>(0.236 Yrths)
         volume: 1.240 × 10<sup>11</sup> km<sup>3</sup><br/>(0.114 Yrths)
-        mass: 2.832 × 10<sup>23</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 2.832 × 10<sup>23</sup> kg<br />(0.047 Yrths)
         density: 2.284 g/cm<sup>3</sup>
         surface_gravity: 1.973 m/s<sup>2</sup><br />(0.201 g<sub>0</sub>)
         escape_velocity: 3.496 km/s<br />(12,585 km/h)
         rotation_period: 38.714 d
         axial_tilt: 20.73°
         albedo: 0.30
-        temperature: 119 K<br />(-154 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 1354 Athiad II j
         type: Icy
         formationType: Accreted
@@ -475,14 +475,14 @@ planets:
         radius: 3,880.4 km<br/>(0.609 Yrths)
         surface_area: 1.892 × 10<sup>08</sup> km<sup>2</sup><br/>(0.371 Yrths)
         volume: 2.447 × 10<sup>11</sup> km<sup>3</sup><br/>(0.226 Yrths)
-        mass: 3.389 × 10<sup>23</sup> kg<br />(0.754275788068167 Yrths)
+        mass: 3.389 × 10<sup>23</sup> kg<br />(0.057 Yrths)
         density: 1.385 g/cm<sup>3</sup>
         surface_gravity: 1.500 m/s<sup>2</sup><br />(0.153 g<sub>0</sub>)
         escape_velocity: 3.414 km/s<br />(12,292 km/h)
         rotation_period: 47.723 d
         axial_tilt: 23.72°
         albedo: 0.30
-        temperature: 58 K<br />(-215 °C)
+        temperature: 166 K<br />(-107 °C)
   - name: 1354 Athiad III
     type: Gas giant
     aphelion: 1,692,475,803 km<br />11.313 AU
@@ -494,7 +494,7 @@ planets:
     radius: 196.5 km<br/>(0.031 Yrths)
     surface_area: 4.853 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.179 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.360 × 10<sup>26</sup> kg<br />(156.73890357832113 Yrths)
+    mass: 9.360 × 10<sup>26</sup> kg<br />(156.74 Yrths)
     density: 29441863.731 g/cm<sup>3</sup>
     surface_gravity: 1615415.428 m/s<sup>2</sup><br />(164726.530 g<sub>0</sub>)
     escape_velocity: 797.368 km/s<br />(2,870,526 km/h)
@@ -515,14 +515,14 @@ planets:
         radius: 110,645.2 km<br/>(17.367 Yrths)
         surface_area: 1.538 × 10<sup>11</sup> km<sup>2</sup><br/>(301.613 Yrths)
         volume: 5.674 × 10<sup>15</sup> km<sup>3</sup><br/>(5238.119 Yrths)
-        mass: 1.344 × 10<sup>28</sup> kg<br />(156.73890357832113 Yrths)
+        mass: 1.344 × 10<sup>28</sup> kg<br />(2250.237 Yrths)
         density: 2.368 g/cm<sup>3</sup>
         surface_gravity: 73.164 m/s<sup>2</sup><br />(7.461 g<sub>0</sub>)
         escape_velocity: 127.328 km/s<br />(458,382 km/h)
         rotation_period: 60.330 d
         axial_tilt: 25.98°
         albedo: 0.30
-        temperature: 722 K<br />(449 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 1354 Athiad III b
         type: Icy
         formationType: Captured
@@ -535,14 +535,14 @@ planets:
         radius: 138,335.9 km<br/>(21.713 Yrths)
         surface_area: 2.405 × 10<sup>11</sup> km<sup>2</sup><br/>(471.471 Yrths)
         volume: 1.109 × 10<sup>16</sup> km<sup>3</sup><br/>(10237.216 Yrths)
-        mass: 9.521 × 10<sup>27</sup> kg<br />(156.73890357832113 Yrths)
+        mass: 9.521 × 10<sup>27</sup> kg<br />(1594.285 Yrths)
         density: 0.859 g/cm<sup>3</sup>
         surface_gravity: 33.161 m/s<sup>2</sup><br />(3.382 g<sub>0</sub>)
         escape_velocity: 95.850 km/s<br />(345,061 km/h)
         rotation_period: 85.246 d
         axial_tilt: 13.56°
         albedo: 0.30
-        temperature: 626 K<br />(352 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 1354 Athiad III c
         type: Dwarf planet
         formationType: Captured
@@ -555,14 +555,14 @@ planets:
         radius: 91,595.4 km<br/>(14.377 Yrths)
         surface_area: 1.054 × 10<sup>11</sup> km<sup>2</sup><br/>(206.696 Yrths)
         volume: 3.219 × 10<sup>15</sup> km<sup>3</sup><br/>(2971.652 Yrths)
-        mass: 6.160 × 10<sup>27</sup> kg<br />(156.73890357832113 Yrths)
+        mass: 6.160 × 10<sup>27</sup> kg<br />(1031.525 Yrths)
         density: 1.914 g/cm<sup>3</sup>
         surface_gravity: 48.940 m/s<sup>2</sup><br />(4.991 g<sub>0</sub>)
         escape_velocity: 94.750 km/s<br />(341,101 km/h)
         rotation_period: 42.047 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 219 K<br />(-54 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 1354 Athiad III d
         type: Icy
         formationType: Captured
@@ -575,14 +575,14 @@ planets:
         radius: 108,915.7 km<br/>(17.096 Yrths)
         surface_area: 1.491 × 10<sup>11</sup> km<sup>2</sup><br/>(292.258 Yrths)
         volume: 5.412 × 10<sup>15</sup> km<sup>3</sup><br/>(4996.303 Yrths)
-        mass: 5.916 × 10<sup>27</sup> kg<br />(156.73890357832113 Yrths)
+        mass: 5.916 × 10<sup>27</sup> kg<br />(990.628 Yrths)
         density: 1.093 g/cm<sup>3</sup>
         surface_gravity: 33.240 m/s<sup>2</sup><br />(3.390 g<sub>0</sub>)
         escape_velocity: 85.151 km/s<br />(306,542 km/h)
         rotation_period: 59.338 d
         axial_tilt: 19.96°
         albedo: 0.30
-        temperature: 181 K<br />(-92 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 1354 Athiad III e
         type: Icy
         formationType: Accreted
@@ -595,14 +595,14 @@ planets:
         radius: 149,525.0 km<br/>(23.470 Yrths)
         surface_area: 2.810 × 10<sup>11</sup> km<sup>2</sup><br/>(550.823 Yrths)
         volume: 1.400 × 10<sup>16</sup> km<sup>3</sup><br/>(12927.617 Yrths)
-        mass: 1.182 × 10<sup>28</sup> kg<br />(156.73890357832113 Yrths)
+        mass: 1.182 × 10<sup>28</sup> kg<br />(1979.464 Yrths)
         density: 0.844 g/cm<sup>3</sup>
         surface_gravity: 35.242 m/s<sup>2</sup><br />(3.594 g<sub>0</sub>)
         escape_velocity: 102.729 km/s<br />(369,826 km/h)
         rotation_period: 61.304 d
         axial_tilt: 17.19°
         albedo: 0.30
-        temperature: 93 K<br />(-180 °C)
+        temperature: 116 K<br />(-157 °C)
       - name: 1354 Athiad III f
         type: Icy
         formationType: Captured
@@ -615,14 +615,14 @@ planets:
         radius: 130,406.5 km<br/>(20.469 Yrths)
         surface_area: 2.137 × 10<sup>11</sup> km<sup>2</sup><br/>(418.970 Yrths)
         volume: 9.289 × 10<sup>15</sup> km<sup>3</sup><br/>(8575.808 Yrths)
-        mass: 1.126 × 10<sup>28</sup> kg<br />(156.73890357832113 Yrths)
+        mass: 1.126 × 10<sup>28</sup> kg<br />(1884.908 Yrths)
         density: 1.212 g/cm<sup>3</sup>
         surface_gravity: 44.119 m/s<sup>2</sup><br />(4.499 g<sub>0</sub>)
         escape_velocity: 107.343 km/s<br />(386,434 km/h)
         rotation_period: 54.430 d
         axial_tilt: 18.76°
         albedo: 0.30
-        temperature: 89 K<br />(-184 °C)
+        temperature: 116 K<br />(-157 °C)
   - name: 1354 Athiad IV
     type: Gas giant
     aphelion: 3,563,221,818 km<br />23.818 AU
@@ -634,7 +634,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.623 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -655,14 +655,14 @@ planets:
         radius: 753.4 km<br/>(0.118 Yrths)
         surface_area: 7.134 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.792 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.891 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.891 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.055 g/cm<sup>3</sup>
         surface_gravity: 0.222 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.579 km/s<br />(2,083 km/h)
         rotation_period: 90.188 d
         axial_tilt: 20.30°
         albedo: 0.30
-        temperature: 1294 K<br />(1021 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 1354 Athiad IV b
         type: Icy
         formationType: Accreted
@@ -675,14 +675,14 @@ planets:
         radius: 1,133.7 km<br/>(0.178 Yrths)
         surface_area: 1.615 × 10<sup>07</sup> km<sup>2</sup><br/>(0.032 Yrths)
         volume: 6.103 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 6.248 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.248 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.024 g/cm<sup>3</sup>
         surface_gravity: 0.324 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.858 km/s<br />(3,088 km/h)
         rotation_period: 65.580 d
         axial_tilt: 9.64°
         albedo: 0.30
-        temperature: 1176 K<br />(903 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 1354 Athiad IV c
         type: Icy
         formationType: Impact formed
@@ -695,14 +695,14 @@ planets:
         radius: 1,071.6 km<br/>(0.168 Yrths)
         surface_area: 1.443 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 5.155 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 6.731 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.731 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.306 g/cm<sup>3</sup>
         surface_gravity: 0.391 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.916 km/s<br />(3,296 km/h)
         rotation_period: 48.185 d
         axial_tilt: 19.85°
         albedo: 0.30
-        temperature: 884 K<br />(611 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 1354 Athiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -715,14 +715,14 @@ planets:
         radius: 1,091.5 km<br/>(0.171 Yrths)
         surface_area: 1.497 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.447 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.181 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.181 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.169 g/cm<sup>3</sup>
         surface_gravity: 0.661 m/s<sup>2</sup><br />(0.067 g<sub>0</sub>)
         escape_velocity: 1.202 km/s<br />(4,327 km/h)
         rotation_period: 44.748 d
         axial_tilt: 15.56°
         albedo: 0.30
-        temperature: 453 K<br />(180 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 1354 Athiad IV e
         type: Icy
         formationType: Accreted
@@ -735,14 +735,14 @@ planets:
         radius: 793.0 km<br/>(0.124 Yrths)
         surface_area: 7.903 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 2.089 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.147 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.147 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.028 g/cm<sup>3</sup>
         surface_gravity: 0.228 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.601 km/s<br />(2,164 km/h)
         rotation_period: 68.014 d
         axial_tilt: 9.07°
         albedo: 0.30
-        temperature: 244 K<br />(-29 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 1354 Athiad IV f
         type: Icy
         formationType: Impact formed
@@ -755,12 +755,12 @@ planets:
         radius: 685.9 km<br/>(0.108 Yrths)
         surface_area: 5.911 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.351 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.905 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.905 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.410 g/cm<sup>3</sup>
         surface_gravity: 0.270 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.609 km/s<br />(2,192 km/h)
         rotation_period: 59.554 d
         axial_tilt: 24.85°
         albedo: 0.30
-        temperature: 138 K<br />(-135 °C)
+        temperature: 81 K<br />(-192 °C)
 ---

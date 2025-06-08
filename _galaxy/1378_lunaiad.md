@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1378 Lunaiad is a star in the constellation Luna
+      1378 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 570.04 ly
 apparent_magnitude: 11.89
 absolute_magnitude: 5.67

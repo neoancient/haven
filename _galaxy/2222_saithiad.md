@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2222 Saithiad is a star in the constellation Saith
+      2222 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 247.25 ly
 apparent_magnitude: 10.71
 absolute_magnitude: 6.31

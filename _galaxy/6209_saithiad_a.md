@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6209 Saithiad A is a star in the constellation Saith
+      6209 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 642.34 ly
 apparent_magnitude: 7.65
 absolute_magnitude: 1.18

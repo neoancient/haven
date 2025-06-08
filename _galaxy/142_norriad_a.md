@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      142 Norriad A is a star in the constellation Nor
+      142 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1531.50 ly
 apparent_magnitude: 6.54
 absolute_magnitude: -1.81

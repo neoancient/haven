@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1338 Urthiad is a star in the constellation Urth
+      1338 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 446.38 ly
 apparent_magnitude: 10.59
 absolute_magnitude: 4.91

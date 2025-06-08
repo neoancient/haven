@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11185 Arkothiad is a star in the constellation Arkoth
+      11185 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 255.42 ly
 apparent_magnitude: 11.33
 absolute_magnitude: 6.86
@@ -31,14 +31,14 @@ planets:
     radius: 27,372.7 km<br/>(4.296 Yrths)
     surface_area: 9.416 × 10<sup>09</sup> km<sup>2</sup><br/>(18.460 Yrths)
     volume: 8.591 × 10<sup>13</sup> km<sup>3</sup><br/>(79.311 Yrths)
-    mass: 1.160 × 10<sup>26</sup> kg<br />(19.415867451196448 Yrths)
+    mass: 1.160 × 10<sup>26</sup> kg<br />(19.42 Yrths)
     density: 1.350 g/cm<sup>3</sup>
     surface_gravity: 10.315 m/s<sup>2</sup><br />(1.052 g<sub>0</sub>)
     escape_velocity: 23.779 km/s<br />(85,605 km/h)
     rotation_period: 1.077 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 541 K<br />(268 °C)
+    temperature: 483 K<br />(210 °C)
     composition:
       - 80.4784% hydrogen
       - 17.7003% helium
@@ -56,14 +56,14 @@ planets:
         radius: 19,046.6 km<br/>(2.990 Yrths)
         surface_area: 4.559 × 10<sup>09</sup> km<sup>2</sup><br/>(8.938 Yrths)
         volume: 2.894 × 10<sup>13</sup> km<sup>3</sup><br/>(26.719 Yrths)
-        mass: 9.643 × 10<sup>25</sup> kg<br />(19.415867451196448 Yrths)
+        mass: 9.643 × 10<sup>25</sup> kg<br />(16.147 Yrths)
         density: 3.332 g/cm<sup>3</sup>
         surface_gravity: 17.717 m/s<sup>2</sup><br />(1.807 g<sub>0</sub>)
         escape_velocity: 25.997 km/s<br />(93,588 km/h)
         rotation_period: 48.755 d
         axial_tilt: 15.73°
         albedo: 0.30
-        temperature: 2564 K<br />(2291 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 11185 Arkothiad I b
         type: Asteroid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 11,677.7 km<br/>(1.833 Yrths)
         surface_area: 1.714 × 10<sup>09</sup> km<sup>2</sup><br/>(3.360 Yrths)
         volume: 6.670 × 10<sup>12</sup> km<sup>3</sup><br/>(6.158 Yrths)
-        mass: 1.529 × 10<sup>25</sup> kg<br />(19.415867451196448 Yrths)
+        mass: 1.529 × 10<sup>25</sup> kg<br />(2.561 Yrths)
         density: 2.293 g/cm<sup>3</sup>
         surface_gravity: 7.475 m/s<sup>2</sup><br />(0.762 g<sub>0</sub>)
         escape_velocity: 13.222 km/s<br />(47,598 km/h)
         rotation_period: 64.458 d
         axial_tilt: 37.36°
         albedo: 0.30
-        temperature: 2331 K<br />(2058 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 11185 Arkothiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 30,666.0 km<br/>(4.813 Yrths)
         surface_area: 1.182 × 10<sup>10</sup> km<sup>2</sup><br/>(23.169 Yrths)
         volume: 1.208 × 10<sup>14</sup> km<sup>3</sup><br/>(111.519 Yrths)
-        mass: 3.096 × 10<sup>26</sup> kg<br />(19.415867451196448 Yrths)
+        mass: 3.096 × 10<sup>26</sup> kg<br />(51.838 Yrths)
         density: 2.563 g/cm<sup>3</sup>
         surface_gravity: 21.942 m/s<sup>2</sup><br />(2.237 g<sub>0</sub>)
         escape_velocity: 36.709 km/s<br />(132,152 km/h)
         rotation_period: 48.680 d
         axial_tilt: 20.43°
         albedo: 0.30
-        temperature: 2222 K<br />(1949 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 11185 Arkothiad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 11,241.3 km<br/>(1.764 Yrths)
         surface_area: 1.588 × 10<sup>09</sup> km<sup>2</sup><br/>(3.113 Yrths)
         volume: 5.950 × 10<sup>12</sup> km<sup>3</sup><br/>(5.493 Yrths)
-        mass: 1.666 × 10<sup>25</sup> kg<br />(19.415867451196448 Yrths)
+        mass: 1.666 × 10<sup>25</sup> kg<br />(2.790 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 8.788 m/s<sup>2</sup><br />(0.896 g<sub>0</sub>)
         escape_velocity: 14.066 km/s<br />(50,636 km/h)
         rotation_period: 42.059 d
         axial_tilt: 8.23°
         albedo: 0.30
-        temperature: 2119 K<br />(1846 °C)
+        temperature: 318 K<br />(45 °C)
       - name: 11185 Arkothiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 15,015.1 km<br/>(2.357 Yrths)
         surface_area: 2.833 × 10<sup>09</sup> km<sup>2</sup><br/>(5.554 Yrths)
         volume: 1.418 × 10<sup>13</sup> km<sup>3</sup><br/>(13.091 Yrths)
-        mass: 2.340 × 10<sup>25</sup> kg<br />(19.415867451196448 Yrths)
+        mass: 2.340 × 10<sup>25</sup> kg<br />(3.918 Yrths)
         density: 1.650 g/cm<sup>3</sup>
         surface_gravity: 6.918 m/s<sup>2</sup><br />(0.705 g<sub>0</sub>)
         escape_velocity: 14.423 km/s<br />(51,923 km/h)
         rotation_period: 55.471 d
         axial_tilt: 12.21°
         albedo: 0.30
-        temperature: 2020 K<br />(1747 °C)
+        temperature: 318 K<br />(45 °C)
   - name: 11185 Arkothiad II
     type: Terrestrial
     aphelion: 78,110,019 km<br />0.522 AU
@@ -155,14 +155,14 @@ planets:
     radius: 5,046.4 km<br/>(0.792 Yrths)
     surface_area: 3.200 × 10<sup>08</sup> km<sup>2</sup><br/>(0.627 Yrths)
     volume: 5.383 × 10<sup>11</sup> km<sup>3</sup><br/>(0.497 Yrths)
-    mass: 2.852 × 10<sup>24</sup> kg<br />(0.4774992540763888 Yrths)
+    mass: 2.852 × 10<sup>24</sup> kg<br />(0.48 Yrths)
     density: 5.297 g/cm<sup>3</sup>
     surface_gravity: 7.463 m/s<sup>2</sup><br />(0.761 g<sub>0</sub>)
     escape_velocity: 8.685 km/s<br />(31,266 km/h)
     rotation_period: 2.385 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 284 K<br />(10 °C)
+    temperature: 382 K<br />(109 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 84.8553% nitrogen
@@ -180,14 +180,14 @@ planets:
         radius: 1,590.5 km<br/>(0.250 Yrths)
         surface_area: 3.179 × 10<sup>07</sup> km<sup>2</sup><br/>(0.062 Yrths)
         volume: 1.685 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
-        mass: 2.904 × 10<sup>22</sup> kg<br />(0.4774992540763888 Yrths)
+        mass: 2.904 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 1.723 g/cm<sup>3</sup>
         surface_gravity: 0.765 m/s<sup>2</sup><br />(0.078 g<sub>0</sub>)
         escape_velocity: 1.561 km/s<br />(5,621 km/h)
         rotation_period: 56.350 d
         axial_tilt: 36.81°
         albedo: 0.30
-        temperature: 3951 K<br />(3678 °C)
+        temperature: 252 K<br />(-21 °C)
   - name: 11185 Arkothiad III
     type: Terrestrial
     aphelion: 125,490,600 km<br />0.839 AU
@@ -199,7 +199,7 @@ planets:
     radius: 7,561.8 km<br/>(1.187 Yrths)
     surface_area: 7.186 × 10<sup>08</sup> km<sup>2</sup><br/>(1.409 Yrths)
     volume: 1.811 × 10<sup>12</sup> km<sup>3</sup><br/>(1.672 Yrths)
-    mass: 9.381 × 10<sup>24</sup> kg<br />(1.5709093899151214 Yrths)
+    mass: 9.381 × 10<sup>24</sup> kg<br />(1.57 Yrths)
     density: 5.180 g/cm<sup>3</sup>
     surface_gravity: 10.935 m/s<sup>2</sup><br />(1.115 g<sub>0</sub>)
     escape_velocity: 12.869 km/s<br />(46,328 km/h)
@@ -220,14 +220,14 @@ planets:
         radius: 4,835.5 km<br/>(0.759 Yrths)
         surface_area: 2.938 × 10<sup>08</sup> km<sup>2</sup><br/>(0.576 Yrths)
         volume: 4.736 × 10<sup>11</sup> km<sup>3</sup><br/>(0.437 Yrths)
-        mass: 5.674 × 10<sup>23</sup> kg<br />(1.5709093899151214 Yrths)
+        mass: 5.674 × 10<sup>23</sup> kg<br />(0.095 Yrths)
         density: 1.198 g/cm<sup>3</sup>
         surface_gravity: 1.617 m/s<sup>2</sup><br />(0.165 g<sub>0</sub>)
         escape_velocity: 3.958 km/s<br />(14,247 km/h)
         rotation_period: 71.892 d
         axial_tilt: 20.29°
         albedo: 0.30
-        temperature: 2443 K<br />(2170 °C)
+        temperature: 199 K<br />(-74 °C)
   - name: 11185 Arkothiad IV
     type: Large terrestrial
     aphelion: 196,641,176 km<br />1.314 AU
@@ -239,14 +239,14 @@ planets:
     radius: 8,192.5 km<br/>(1.286 Yrths)
     surface_area: 8.434 × 10<sup>08</sup> km<sup>2</sup><br/>(1.654 Yrths)
     volume: 2.303 × 10<sup>12</sup> km<sup>3</sup><br/>(2.126 Yrths)
-    mass: 1.722 × 10<sup>25</sup> kg<br />(2.883268615442897 Yrths)
+    mass: 1.722 × 10<sup>25</sup> kg<br />(2.88 Yrths)
     density: 7.476 g/cm<sup>3</sup>
     surface_gravity: 17.100 m/s<sup>2</sup><br />(1.744 g<sub>0</sub>)
     escape_velocity: 16.750 km/s<br />(60,300 km/h)
     rotation_period: 0.889 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 199 K<br />(-74 °C)
+    temperature: 198 K<br />(-75 °C)
     surface_pressure: 203 kPa<br />(2 atm)
     composition:
       - 66.7055% nitrogen
@@ -264,14 +264,14 @@ planets:
         radius: 4,894.3 km<br/>(0.768 Yrths)
         surface_area: 3.010 × 10<sup>08</sup> km<sup>2</sup><br/>(0.590 Yrths)
         volume: 4.911 × 10<sup>11</sup> km<sup>3</sup><br/>(0.453 Yrths)
-        mass: 1.619 × 10<sup>24</sup> kg<br />(2.883268615442897 Yrths)
+        mass: 1.619 × 10<sup>24</sup> kg<br />(0.271 Yrths)
         density: 3.296 g/cm<sup>3</sup>
         surface_gravity: 4.504 m/s<sup>2</sup><br />(0.459 g<sub>0</sub>)
         escape_velocity: 6.644 km/s<br />(23,919 km/h)
         rotation_period: 41.922 d
         axial_tilt: 17.58°
         albedo: 0.30
-        temperature: 1777 K<br />(1504 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 11185 Arkothiad IV b
         type: Rocky
         formationType: Accreted
@@ -284,14 +284,14 @@ planets:
         radius: 3,534.2 km<br/>(0.555 Yrths)
         surface_area: 1.570 × 10<sup>08</sup> km<sup>2</sup><br/>(0.308 Yrths)
         volume: 1.849 × 10<sup>11</sup> km<sup>3</sup><br/>(0.171 Yrths)
-        mass: 5.663 × 10<sup>23</sup> kg<br />(2.883268615442897 Yrths)
+        mass: 5.663 × 10<sup>23</sup> kg<br />(0.095 Yrths)
         density: 3.063 g/cm<sup>3</sup>
         surface_gravity: 3.022 m/s<sup>2</sup><br />(0.308 g<sub>0</sub>)
         escape_velocity: 4.625 km/s<br />(16,650 km/h)
         rotation_period: 38.494 d
         axial_tilt: 20.33°
         albedo: 0.30
-        temperature: 1694 K<br />(1421 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 11185 Arkothiad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -304,14 +304,14 @@ planets:
         radius: 6,353.2 km<br/>(0.997 Yrths)
         surface_area: 5.072 × 10<sup>08</sup> km<sup>2</sup><br/>(0.994 Yrths)
         volume: 1.074 × 10<sup>12</sup> km<sup>3</sup><br/>(0.992 Yrths)
-        mass: 2.511 × 10<sup>24</sup> kg<br />(2.883268615442897 Yrths)
+        mass: 2.511 × 10<sup>24</sup> kg<br />(0.421 Yrths)
         density: 2.338 g/cm<sup>3</sup>
         surface_gravity: 4.147 m/s<sup>2</sup><br />(0.423 g<sub>0</sub>)
         escape_velocity: 7.264 km/s<br />(26,150 km/h)
         rotation_period: 45.755 d
         axial_tilt: 13.42°
         albedo: 0.30
-        temperature: 1615 K<br />(1342 °C)
+        temperature: 158 K<br />(-115 °C)
   - name: 11185 Arkothiad V
     type: Large terrestrial
     aphelion: 313,635,488 km<br />2.096 AU
@@ -323,14 +323,14 @@ planets:
     radius: 8,570.4 km<br/>(1.345 Yrths)
     surface_area: 9.230 × 10<sup>08</sup> km<sup>2</sup><br/>(1.810 Yrths)
     volume: 2.637 × 10<sup>12</sup> km<sup>3</sup><br/>(2.434 Yrths)
-    mass: 1.745 × 10<sup>25</sup> kg<br />(2.922191860330404 Yrths)
+    mass: 1.745 × 10<sup>25</sup> kg<br />(2.92 Yrths)
     density: 6.618 g/cm<sup>3</sup>
     surface_gravity: 15.836 m/s<sup>2</sup><br />(1.615 g<sub>0</sub>)
     escape_velocity: 16.487 km/s<br />(59,352 km/h)
     rotation_period: 0.802 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 166 K<br />(-108 °C)
+    temperature: 227 K<br />(-46 °C)
     surface_pressure: 196 kPa<br />(2 atm)
     composition:
       - 90.6639% methane
@@ -349,14 +349,14 @@ planets:
         radius: 7,198.9 km<br/>(1.130 Yrths)
         surface_area: 6.512 × 10<sup>08</sup> km<sup>2</sup><br/>(1.277 Yrths)
         volume: 1.563 × 10<sup>12</sup> km<sup>3</sup><br/>(1.443 Yrths)
-        mass: 4.176 × 10<sup>24</sup> kg<br />(2.922191860330404 Yrths)
+        mass: 4.176 × 10<sup>24</sup> kg<br />(0.699 Yrths)
         density: 2.672 g/cm<sup>3</sup>
         surface_gravity: 5.371 m/s<sup>2</sup><br />(0.548 g<sub>0</sub>)
         escape_velocity: 8.800 km/s<br />(31,679 km/h)
         rotation_period: 32.642 d
         axial_tilt: 15.30°
         albedo: 0.30
-        temperature: 1477 K<br />(1204 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 11185 Arkothiad V b
         type: Rocky
         formationType: Accreted
@@ -369,12 +369,12 @@ planets:
         radius: 3,861.9 km<br/>(0.606 Yrths)
         surface_area: 1.874 × 10<sup>08</sup> km<sup>2</sup><br/>(0.367 Yrths)
         volume: 2.413 × 10<sup>11</sup> km<sup>3</sup><br/>(0.223 Yrths)
-        mass: 6.233 × 10<sup>23</sup> kg<br />(2.922191860330404 Yrths)
+        mass: 6.233 × 10<sup>23</sup> kg<br />(0.104 Yrths)
         density: 2.583 g/cm<sup>3</sup>
         surface_gravity: 2.785 m/s<sup>2</sup><br />(0.284 g<sub>0</sub>)
         escape_velocity: 4.641 km/s<br />(16,709 km/h)
         rotation_period: 34.890 d
         axial_tilt: 9.68°
         albedo: 0.30
-        temperature: 1408 K<br />(1135 °C)
+        temperature: 125 K<br />(-148 °C)
 ---

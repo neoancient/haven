@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0006 Narashiad B is a star in the constellation Naras
+      0006 Narashiad B is a star in the constellation <a href="naras.html">Naras</a>
 distance: 144.49 ly
 apparent_magnitude: 8.09
 absolute_magnitude: 4.86

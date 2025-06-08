@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Neralniad A is a star in the constellation Neraln
+      ψ Neralniad A is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 135.28 ly
 apparent_magnitude: 5.73
 absolute_magnitude: 2.64

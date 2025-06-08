@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3287 Lulithannaid A is a star in the constellation Lulithan
+      3287 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 478.79 ly
 apparent_magnitude: 7.91
 absolute_magnitude: 2.08

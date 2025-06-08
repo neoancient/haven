@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1792 Ratharshinniad A is a star in the constellation Ratharshin
+      1792 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 217.55 ly
 apparent_magnitude: 9.16
 absolute_magnitude: 5.04

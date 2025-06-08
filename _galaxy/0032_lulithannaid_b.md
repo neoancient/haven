@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0032 Lulithannaid B is a star in the constellation Lulithan
+      0032 Lulithannaid B is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 82.33 ly
 apparent_magnitude: 6.90
 absolute_magnitude: 4.89

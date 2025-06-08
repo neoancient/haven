@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Sudyam B is a star in the constellation Esunrain
+      Sudyam B is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 708.79 ly
 apparent_magnitude: 3.24
 absolute_magnitude: -3.44
@@ -31,14 +31,14 @@ planets:
     radius: 4,004.2 km<br/>(0.629 Yrths)
     surface_area: 2.015 × 10<sup>08</sup> km<sup>2</sup><br/>(0.395 Yrths)
     volume: 2.689 × 10<sup>11</sup> km<sup>3</sup><br/>(0.248 Yrths)
-    mass: 1.401 × 10<sup>24</sup> kg<br />(0.23451980690649532 Yrths)
+    mass: 1.401 × 10<sup>24</sup> kg<br />(0.23 Yrths)
     density: 5.208 g/cm<sup>3</sup>
     surface_gravity: 5.822 m/s<sup>2</sup><br />(0.594 g<sub>0</sub>)
     escape_velocity: 6.833 km/s<br />(24,599 km/h)
     rotation_period: 1.584 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 1980 K<br />(1706 °C)
+    temperature: 2756 K<br />(2483 °C)
     surface_pressure: 4 kPa<br />(0 atm)
     composition:
       - 97.1343% methane
@@ -58,14 +58,14 @@ planets:
         radius: 886.4 km<br/>(0.139 Yrths)
         surface_area: 9.873 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.917 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.637 × 10<sup>21</sup> kg<br />(0.23451980690649532 Yrths)
+        mass: 6.637 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.275 g/cm<sup>3</sup>
         surface_gravity: 0.563 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 1.000 km/s<br />(3,599 km/h)
         rotation_period: 34.434 d
         axial_tilt: 42.61°
         albedo: 0.30
-        temperature: 50628 K<br />(50355 °C)
+        temperature: 1835 K<br />(1562 °C)
   - name: Sudyam B II
     type: Ice giant
     aphelion: 782,045,693 km<br />5.228 AU
@@ -77,14 +77,14 @@ planets:
     radius: 20,486.4 km<br/>(3.216 Yrths)
     surface_area: 5.274 × 10<sup>09</sup> km<sup>2</sup><br/>(10.340 Yrths)
     volume: 3.602 × 10<sup>13</sup> km<sup>3</sup><br/>(33.249 Yrths)
-    mass: 3.860 × 10<sup>25</sup> kg<br />(6.463177848049799 Yrths)
+    mass: 3.860 × 10<sup>25</sup> kg<br />(6.46 Yrths)
     density: 1.072 g/cm<sup>3</sup>
     surface_gravity: 6.130 m/s<sup>2</sup><br />(0.625 g<sub>0</sub>)
     escape_velocity: 15.859 km/s<br />(57,091 km/h)
     rotation_period: 0.391 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 2350 K<br />(2077 °C)
+    temperature: 2133 K<br />(1860 °C)
     composition:
       - 95.9971% hydrogen
       - 1.8564% ethane
@@ -103,14 +103,14 @@ planets:
         radius: 7,879.2 km<br/>(1.237 Yrths)
         surface_area: 7.801 × 10<sup>08</sup> km<sup>2</sup><br/>(1.529 Yrths)
         volume: 2.049 × 10<sup>12</sup> km<sup>3</sup><br/>(1.892 Yrths)
-        mass: 5.286 × 10<sup>24</sup> kg<br />(6.463177848049799 Yrths)
+        mass: 5.286 × 10<sup>24</sup> kg<br />(0.885 Yrths)
         density: 2.580 g/cm<sup>3</sup>
         surface_gravity: 5.675 m/s<sup>2</sup><br />(0.579 g<sub>0</sub>)
         escape_velocity: 9.463 km/s<br />(34,069 km/h)
         rotation_period: 40.128 d
         axial_tilt: 40.80°
         albedo: 0.30
-        temperature: 19053 K<br />(18780 °C)
+        temperature: 1259 K<br />(986 °C)
       - name: Sudyam B II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -123,14 +123,14 @@ planets:
         radius: 20,240.8 km<br/>(3.177 Yrths)
         surface_area: 5.148 × 10<sup>09</sup> km<sup>2</sup><br/>(10.093 Yrths)
         volume: 3.474 × 10<sup>13</sup> km<sup>3</sup><br/>(32.067 Yrths)
-        mass: 7.993 × 10<sup>25</sup> kg<br />(6.463177848049799 Yrths)
+        mass: 7.993 × 10<sup>25</sup> kg<br />(13.384 Yrths)
         density: 2.301 g/cm<sup>3</sup>
         surface_gravity: 13.003 m/s<sup>2</sup><br />(1.326 g<sub>0</sub>)
         escape_velocity: 22.959 km/s<br />(82,652 km/h)
         rotation_period: 55.670 d
         axial_tilt: 13.92°
         albedo: 0.30
-        temperature: 18167 K<br />(17893 °C)
+        temperature: 1259 K<br />(986 °C)
       - name: Sudyam B II c
         type: Dwarf planet
         formationType: Accreted
@@ -143,14 +143,14 @@ planets:
         radius: 14,281.3 km<br/>(2.242 Yrths)
         surface_area: 2.563 × 10<sup>09</sup> km<sup>2</sup><br/>(5.025 Yrths)
         volume: 1.220 × 10<sup>13</sup> km<sup>3</sup><br/>(11.264 Yrths)
-        mass: 2.416 × 10<sup>25</sup> kg<br />(6.463177848049799 Yrths)
+        mass: 2.416 × 10<sup>25</sup> kg<br />(4.045 Yrths)
         density: 1.980 g/cm<sup>3</sup>
         surface_gravity: 7.895 m/s<sup>2</sup><br />(0.805 g<sub>0</sub>)
         escape_velocity: 15.027 km/s<br />(54,097 km/h)
         rotation_period: 39.361 d
         axial_tilt: 36.30°
         albedo: 0.30
-        temperature: 17321 K<br />(17048 °C)
+        temperature: 1259 K<br />(986 °C)
       - name: Sudyam B II d
         type: Icy
         formationType: Impact formed
@@ -163,14 +163,14 @@ planets:
         radius: 14,707.9 km<br/>(2.309 Yrths)
         surface_area: 2.718 × 10<sup>09</sup> km<sup>2</sup><br/>(5.330 Yrths)
         volume: 1.333 × 10<sup>13</sup> km<sup>3</sup><br/>(12.304 Yrths)
-        mass: 1.851 × 10<sup>25</sup> kg<br />(6.463177848049799 Yrths)
+        mass: 1.851 × 10<sup>25</sup> kg<br />(3.099 Yrths)
         density: 1.389 g/cm<sup>3</sup>
         surface_gravity: 5.703 m/s<sup>2</sup><br />(0.582 g<sub>0</sub>)
         escape_velocity: 12.961 km/s<br />(46,659 km/h)
         rotation_period: 55.823 d
         axial_tilt: 14.97°
         albedo: 0.30
-        temperature: 16515 K<br />(16242 °C)
+        temperature: 1259 K<br />(986 °C)
       - name: Sudyam B II e
         type: Icy
         formationType: Accreted
@@ -183,14 +183,14 @@ planets:
         radius: 8,929.9 km<br/>(1.402 Yrths)
         surface_area: 1.002 × 10<sup>09</sup> km<sup>2</sup><br/>(1.965 Yrths)
         volume: 2.983 × 10<sup>12</sup> km<sup>3</sup><br/>(2.754 Yrths)
-        mass: 5.146 × 10<sup>24</sup> kg<br />(6.463177848049799 Yrths)
+        mass: 5.146 × 10<sup>24</sup> kg<br />(0.862 Yrths)
         density: 1.725 g/cm<sup>3</sup>
         surface_gravity: 4.301 m/s<sup>2</sup><br />(0.439 g<sub>0</sub>)
         escape_velocity: 8.770 km/s<br />(31,574 km/h)
         rotation_period: 40.092 d
         axial_tilt: 16.51°
         albedo: 0.30
-        temperature: 15746 K<br />(15473 °C)
+        temperature: 1259 K<br />(986 °C)
       - name: Sudyam B II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -203,14 +203,14 @@ planets:
         radius: 11,547.6 km<br/>(1.813 Yrths)
         surface_area: 1.676 × 10<sup>09</sup> km<sup>2</sup><br/>(3.285 Yrths)
         volume: 6.450 × 10<sup>12</sup> km<sup>3</sup><br/>(5.955 Yrths)
-        mass: 1.552 × 10<sup>25</sup> kg<br />(6.463177848049799 Yrths)
+        mass: 1.552 × 10<sup>25</sup> kg<br />(2.598 Yrths)
         density: 2.406 g/cm<sup>3</sup>
         surface_gravity: 7.756 m/s<sup>2</sup><br />(0.791 g<sub>0</sub>)
         escape_velocity: 13.393 km/s<br />(48,214 km/h)
         rotation_period: 51.723 d
         axial_tilt: 10.31°
         albedo: 0.30
-        temperature: 13649 K<br />(13376 °C)
+        temperature: 1259 K<br />(986 °C)
   - name: Sudyam B III
     type: Gas giant
     aphelion: 2,823,325,080 km<br />18.872 AU
@@ -222,14 +222,14 @@ planets:
     radius: 202.7 km<br/>(0.032 Yrths)
     surface_area: 5.165 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.491 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.068 × 10<sup>27</sup> kg<br />(178.8063867375106 Yrths)
+    mass: 1.068 × 10<sup>27</sup> kg<br />(178.81 Yrths)
     density: 30590922.679 g/cm<sup>3</sup>
     surface_gravity: 1731561.094 m/s<sup>2</sup><br />(176570.092 g<sub>0</sub>)
     escape_velocity: 838.492 km/s<br />(3,018,572 km/h)
     rotation_period: 0.248 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 3671 K<br />(3397 °C)
+    temperature: 3516 K<br />(3243 °C)
     composition:
       - 71.9415% hydrogen
       - 21.2844% helium
@@ -249,14 +249,14 @@ planets:
         radius: 122,826.2 km<br/>(19.279 Yrths)
         surface_area: 1.896 × 10<sup>11</sup> km<sup>2</sup><br/>(371.678 Yrths)
         volume: 7.762 × 10<sup>15</sup> km<sup>3</sup><br/>(7165.562 Yrths)
-        mass: 9.554 × 10<sup>27</sup> kg<br />(178.8063867375106 Yrths)
+        mass: 9.554 × 10<sup>27</sup> kg<br />(1599.827 Yrths)
         density: 1.231 g/cm<sup>3</sup>
         surface_gravity: 42.211 m/s<sup>2</sup><br />(4.304 g<sub>0</sub>)
         escape_velocity: 101.899 km/s<br />(366,835 km/h)
         rotation_period: 56.826 d
         axial_tilt: 27.77°
         albedo: 0.30
-        temperature: 6513 K<br />(6240 °C)
+        temperature: 864 K<br />(591 °C)
       - name: Sudyam B III b
         type: Icy
         formationType: Accreted
@@ -269,14 +269,14 @@ planets:
         radius: 189,934.7 km<br/>(29.812 Yrths)
         surface_area: 4.533 × 10<sup>11</sup> km<sup>2</sup><br/>(888.779 Yrths)
         volume: 2.870 × 10<sup>16</sup> km<sup>3</sup><br/>(26496.617 Yrths)
-        mass: 2.822 × 10<sup>28</sup> kg<br />(178.8063867375106 Yrths)
+        mass: 2.822 × 10<sup>28</sup> kg<br />(4725.674 Yrths)
         density: 0.983 g/cm<sup>3</sup>
         surface_gravity: 52.142 m/s<sup>2</sup><br />(5.317 g<sub>0</sub>)
         escape_velocity: 140.834 km/s<br />(507,002 km/h)
         rotation_period: 54.184 d
         axial_tilt: 14.17°
         albedo: 0.30
-        temperature: 2394 K<br />(2121 °C)
+        temperature: 864 K<br />(591 °C)
       - name: Sudyam B III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -289,14 +289,14 @@ planets:
         radius: 126,530.2 km<br/>(19.860 Yrths)
         surface_area: 2.012 × 10<sup>11</sup> km<sup>2</sup><br/>(394.433 Yrths)
         volume: 8.485 × 10<sup>15</sup> km<sup>3</sup><br/>(7833.565 Yrths)
-        mass: 1.702 × 10<sup>28</sup> kg<br />(178.8063867375106 Yrths)
+        mass: 1.702 × 10<sup>28</sup> kg<br />(2849.711 Yrths)
         density: 2.006 g/cm<sup>3</sup>
         surface_gravity: 70.851 m/s<sup>2</sup><br />(7.225 g<sub>0</sub>)
         escape_velocity: 133.993 km/s<br />(482,374 km/h)
         rotation_period: 43.926 d
         axial_tilt: 10.64°
         albedo: 0.30
-        temperature: 1487 K<br />(1213 °C)
+        temperature: 864 K<br />(591 °C)
       - name: Sudyam B III d
         type: Icy
         formationType: Captured
@@ -309,14 +309,14 @@ planets:
         radius: 150,344.8 km<br/>(23.598 Yrths)
         surface_area: 2.840 × 10<sup>11</sup> km<sup>2</sup><br/>(556.880 Yrths)
         volume: 1.423 × 10<sup>16</sup> km<sup>3</sup><br/>(13141.415 Yrths)
-        mass: 2.055 × 10<sup>28</sup> kg<br />(178.8063867375106 Yrths)
+        mass: 2.055 × 10<sup>28</sup> kg<br />(3441.520 Yrths)
         density: 1.444 g/cm<sup>3</sup>
         surface_gravity: 60.605 m/s<sup>2</sup><br />(6.180 g<sub>0</sub>)
         escape_velocity: 135.086 km/s<br />(486,308 km/h)
         rotation_period: 46.907 d
         axial_tilt: 24.71°
         albedo: 0.30
-        temperature: 1117 K<br />(844 °C)
+        temperature: 864 K<br />(591 °C)
       - name: Sudyam B III e
         type: Icy
         formationType: Accreted
@@ -329,14 +329,14 @@ planets:
         radius: 119,336.1 km<br/>(18.731 Yrths)
         surface_area: 1.790 × 10<sup>11</sup> km<sup>2</sup><br/>(350.856 Yrths)
         volume: 7.119 × 10<sup>15</sup> km<sup>3</sup><br/>(6571.933 Yrths)
-        mass: 9.425 × 10<sup>27</sup> kg<br />(178.8063867375106 Yrths)
+        mass: 9.425 × 10<sup>27</sup> kg<br />(1578.222 Yrths)
         density: 1.324 g/cm<sup>3</sup>
         surface_gravity: 44.112 m/s<sup>2</sup><br />(4.498 g<sub>0</sub>)
         escape_velocity: 102.678 km/s<br />(369,639 km/h)
         rotation_period: 44.728 d
         axial_tilt: 22.93°
         albedo: 0.30
-        temperature: 800 K<br />(527 °C)
+        temperature: 864 K<br />(591 °C)
       - name: Sudyam B III f
         type: Icy
         formationType: Accreted
@@ -349,14 +349,14 @@ planets:
         radius: 127,386.4 km<br/>(19.995 Yrths)
         surface_area: 2.039 × 10<sup>11</sup> km<sup>2</sup><br/>(399.789 Yrths)
         volume: 8.659 × 10<sup>15</sup> km<sup>3</sup><br/>(7993.680 Yrths)
-        mass: 1.005 × 10<sup>28</sup> kg<br />(178.8063867375106 Yrths)
+        mass: 1.005 × 10<sup>28</sup> kg<br />(1682.771 Yrths)
         density: 1.161 g/cm<sup>3</sup>
         surface_gravity: 41.278 m/s<sup>2</sup><br />(4.209 g<sub>0</sub>)
         escape_velocity: 102.619 km/s<br />(369,429 km/h)
         rotation_period: 76.132 d
         axial_tilt: 17.56°
         albedo: 0.30
-        temperature: 763 K<br />(490 °C)
+        temperature: 864 K<br />(591 °C)
   - name: Sudyam B IV
     type: Large terrestrial
     aphelion: 5,999,620,526 km<br />40.104 AU
@@ -368,14 +368,14 @@ planets:
     radius: 11,815.0 km<br/>(1.854 Yrths)
     surface_area: 1.754 × 10<sup>09</sup> km<sup>2</sup><br/>(3.439 Yrths)
     volume: 6.909 × 10<sup>12</sup> km<sup>3</sup><br/>(6.378 Yrths)
-    mass: 4.053 × 10<sup>25</sup> kg<br />(6.787382798725037 Yrths)
+    mass: 4.053 × 10<sup>25</sup> kg<br />(6.79 Yrths)
     density: 5.867 g/cm<sup>3</sup>
     surface_gravity: 19.354 m/s<sup>2</sup><br />(1.974 g<sub>0</sub>)
     escape_velocity: 21.400 km/s<br />(77,040 km/h)
     rotation_period: 0.521 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 849 K<br />(576 °C)
+    temperature: 773 K<br />(500 °C)
     surface_pressure: 1,783 kPa<br />(18 atm)
     composition:
       - 80.2008% nitrogen
@@ -393,14 +393,14 @@ planets:
         radius: 12,175.2 km<br/>(1.911 Yrths)
         surface_area: 1.863 × 10<sup>09</sup> km<sup>2</sup><br/>(3.652 Yrths)
         volume: 7.560 × 10<sup>12</sup> km<sup>3</sup><br/>(6.979 Yrths)
-        mass: 2.339 × 10<sup>25</sup> kg<br />(6.787382798725037 Yrths)
+        mass: 2.339 × 10<sup>25</sup> kg<br />(3.917 Yrths)
         density: 3.095 g/cm<sup>3</sup>
         surface_gravity: 10.519 m/s<sup>2</sup><br />(1.073 g<sub>0</sub>)
         escape_velocity: 16.015 km/s<br />(57,655 km/h)
         rotation_period: 55.031 d
         axial_tilt: 14.29°
         albedo: 0.30
-        temperature: 8942 K<br />(8668 °C)
+        temperature: 593 K<br />(320 °C)
       - name: Sudyam B IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -413,12 +413,12 @@ planets:
         radius: 11,038.3 km<br/>(1.733 Yrths)
         surface_area: 1.531 × 10<sup>09</sup> km<sup>2</sup><br/>(3.002 Yrths)
         volume: 5.634 × 10<sup>12</sup> km<sup>3</sup><br/>(5.201 Yrths)
-        mass: 1.015 × 10<sup>25</sup> kg<br />(6.787382798725037 Yrths)
+        mass: 1.015 × 10<sup>25</sup> kg<br />(1.700 Yrths)
         density: 1.803 g/cm<sup>3</sup>
         surface_gravity: 5.555 m/s<sup>2</sup><br />(0.566 g<sub>0</sub>)
         escape_velocity: 11.082 km/s<br />(39,894 km/h)
         rotation_period: 73.251 d
         axial_tilt: 18.95°
         albedo: 0.30
-        temperature: 8525 K<br />(8252 °C)
+        temperature: 593 K<br />(320 °C)
 ---

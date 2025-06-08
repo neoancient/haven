@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      54809 Dialkeshiad is a star in the constellation Dialkes
+      54809 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 445.93 ly
 apparent_magnitude: 11.01
 absolute_magnitude: 5.33

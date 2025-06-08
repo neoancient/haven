@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8675 Dialkeshiad is a star in the constellation Dialkes
+      8675 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1042.96 ly
 apparent_magnitude: 15.32
 absolute_magnitude: 7.80

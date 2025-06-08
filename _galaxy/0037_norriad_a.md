@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0037 Norriad A is a star in the constellation Nor
+      0037 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 4599.62 ly
 apparent_magnitude: 6.76
 absolute_magnitude: -3.98

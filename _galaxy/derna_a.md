@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Derna A is a star in the constellation Niokero
+      Derna A is a star in the constellation <a href="niokero.html">Niokero</a>
 distance: 142.84 ly
 apparent_magnitude: 3.12
 absolute_magnitude: -0.09

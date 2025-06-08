@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1997 Arniad A is a star in the constellation Arni
+      1997 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 594.48 ly
 apparent_magnitude: 8.29
 absolute_magnitude: 1.99

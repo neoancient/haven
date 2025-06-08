@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      908 Noniashad is a star in the constellation Nonias
+      908 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 292.97 ly
 apparent_magnitude: 11.80
 absolute_magnitude: 7.04

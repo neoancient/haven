@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2848 Athiad is a star in the constellation Ath
+      2848 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 349.44 ly
 apparent_magnitude: 8.47
 absolute_magnitude: 3.32
@@ -31,14 +31,14 @@ planets:
     radius: 12,321.1 km<br/>(1.934 Yrths)
     surface_area: 1.908 × 10<sup>09</sup> km<sup>2</sup><br/>(3.740 Yrths)
     volume: 7.835 × 10<sup>12</sup> km<sup>3</sup><br/>(7.233 Yrths)
-    mass: 5.111 × 10<sup>25</sup> kg<br />(8.558801600353998 Yrths)
+    mass: 5.111 × 10<sup>25</sup> kg<br />(8.56 Yrths)
     density: 6.524 g/cm<sup>3</sup>
     surface_gravity: 22.441 m/s<sup>2</sup><br />(2.288 g<sub>0</sub>)
     escape_velocity: 23.532 km/s<br />(84,715 km/h)
     rotation_period: 0.747 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 305 K<br />(32 °C)
+    temperature: 378 K<br />(104 °C)
     surface_pressure: 70 kPa<br />(1 atm)
     composition:
       - 79.3696% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 15,574.2 km<br/>(2.445 Yrths)
         surface_area: 3.048 × 10<sup>09</sup> km<sup>2</sup><br/>(5.976 Yrths)
         volume: 1.582 × 10<sup>13</sup> km<sup>3</sup><br/>(14.608 Yrths)
-        mass: 1.727 × 10<sup>25</sup> kg<br />(8.558801600353998 Yrths)
+        mass: 1.727 × 10<sup>25</sup> kg<br />(2.892 Yrths)
         density: 1.092 g/cm<sup>3</sup>
         surface_gravity: 4.747 m/s<sup>2</sup><br />(0.484 g<sub>0</sub>)
         escape_velocity: 12.168 km/s<br />(43,804 km/h)
         rotation_period: 48.116 d
         axial_tilt: 8.71°
         albedo: 0.30
-        temperature: 3263 K<br />(2990 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 2848 Athiad I b
         type: Asteroid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 8,363.4 km<br/>(1.313 Yrths)
         surface_area: 8.790 × 10<sup>08</sup> km<sup>2</sup><br/>(1.723 Yrths)
         volume: 2.450 × 10<sup>12</sup> km<sup>3</sup><br/>(2.262 Yrths)
-        mass: 4.894 × 10<sup>24</sup> kg<br />(8.558801600353998 Yrths)
+        mass: 4.894 × 10<sup>24</sup> kg<br />(0.819 Yrths)
         density: 1.997 g/cm<sup>3</sup>
         surface_gravity: 4.663 m/s<sup>2</sup><br />(0.476 g<sub>0</sub>)
         escape_velocity: 8.838 km/s<br />(31,816 km/h)
         rotation_period: 39.565 d
         axial_tilt: 38.95°
         albedo: 0.30
-        temperature: 3111 K<br />(2838 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 2848 Athiad I c
         type: Rocky
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 8,037.6 km<br/>(1.262 Yrths)
         surface_area: 8.118 × 10<sup>08</sup> km<sup>2</sup><br/>(1.592 Yrths)
         volume: 2.175 × 10<sup>12</sup> km<sup>3</sup><br/>(2.008 Yrths)
-        mass: 5.656 × 10<sup>24</sup> kg<br />(8.558801600353998 Yrths)
+        mass: 5.656 × 10<sup>24</sup> kg<br />(0.947 Yrths)
         density: 2.600 g/cm<sup>3</sup>
         surface_gravity: 5.835 m/s<sup>2</sup><br />(0.595 g<sub>0</sub>)
         escape_velocity: 9.692 km/s<br />(34,891 km/h)
         rotation_period: 35.998 d
         axial_tilt: 12.25°
         albedo: 0.30
-        temperature: 2967 K<br />(2694 °C)
+        temperature: 252 K<br />(-21 °C)
   - name: 2848 Athiad II
     type: Large terrestrial
     aphelion: 839,268,098 km<br />5.610 AU
@@ -117,14 +117,14 @@ planets:
     radius: 2,711.6 km<br/>(0.426 Yrths)
     surface_area: 9.240 × 10<sup>07</sup> km<sup>2</sup><br/>(0.181 Yrths)
     volume: 8.351 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 7.151 g/cm<sup>3</sup>
     surface_gravity: 5.414 m/s<sup>2</sup><br />(0.552 g<sub>0</sub>)
     escape_velocity: 5.422 km/s<br />(19,519 km/h)
     rotation_period: 1.932 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 229 K<br />(-44 °C)
+    temperature: 282 K<br />(8 °C)
     surface_pressure: 125 kPa<br />(1 atm)
     composition:
       - 95.4254% methane
@@ -142,14 +142,14 @@ planets:
         radius: 642.6 km<br/>(0.101 Yrths)
         surface_area: 5.189 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.111 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.076 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.076 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.767 g/cm<sup>3</sup>
         surface_gravity: 0.496 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 0.799 km/s<br />(2,878 km/h)
         rotation_period: 33.212 d
         axial_tilt: 46.38°
         albedo: 0.30
-        temperature: 4942 K<br />(4669 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 2848 Athiad II b
         type: Dwarf planet
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 220.7 km<br/>(0.035 Yrths)
         surface_area: 6.120 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 4.502 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 9.470 × 10<sup>19</sup> kg<br />(0.1 Yrths)
+        mass: 9.470 × 10<sup>19</sup> kg<br />(0.000 Yrths)
         density: 2.103 g/cm<sup>3</sup>
         surface_gravity: 0.130 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.239 km/s<br />(862 km/h)
         rotation_period: 48.794 d
         axial_tilt: 36.28°
         albedo: 0.30
-        temperature: 4712 K<br />(4439 °C)
+        temperature: 181 K<br />(-92 °C)
   - name: 2848 Athiad III
     type: Large terrestrial
     aphelion: 1,630,693,333 km<br />10.900 AU
@@ -181,14 +181,14 @@ planets:
     radius: 2,764.6 km<br/>(0.434 Yrths)
     surface_area: 9.605 × 10<sup>07</sup> km<sup>2</sup><br/>(0.188 Yrths)
     volume: 8.851 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.747 g/cm<sup>3</sup>
     surface_gravity: 5.208 m/s<sup>2</sup><br />(0.531 g<sub>0</sub>)
     escape_velocity: 5.370 km/s<br />(19,331 km/h)
     rotation_period: 1.730 d
     axial_tilt: 80.88°
     albedo: 0.35
-    temperature: 166 K<br />(-107 °C)
+    temperature: 203 K<br />(-70 °C)
     surface_pressure: 139 kPa<br />(1 atm)
     composition:
       - 94.8528% methane
@@ -206,14 +206,14 @@ planets:
         radius: 220.5 km<br/>(0.035 Yrths)
         surface_area: 6.109 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 4.490 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.303 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.303 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.903 g/cm<sup>3</sup>
         surface_gravity: 0.179 m/s<sup>2</sup><br />(0.018 g<sub>0</sub>)
         escape_velocity: 0.281 km/s<br />(1,011 km/h)
         rotation_period: 46.725 d
         axial_tilt: 22.60°
         albedo: 0.30
-        temperature: 3559 K<br />(3285 °C)
+        temperature: 131 K<br />(-143 °C)
       - name: 2848 Athiad III b
         type: Rocky
         formationType: Captured
@@ -226,14 +226,14 @@ planets:
         radius: 388.0 km<br/>(0.061 Yrths)
         surface_area: 1.891 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.446 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 8.448 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 8.448 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.454 g/cm<sup>3</sup>
         surface_gravity: 0.374 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.539 km/s<br />(1,941 km/h)
         rotation_period: 30.703 d
         axial_tilt: 18.58°
         albedo: 0.30
-        temperature: 3393 K<br />(3120 °C)
+        temperature: 131 K<br />(-143 °C)
       - name: 2848 Athiad III c
         type: Icy
         formationType: Captured
@@ -246,14 +246,14 @@ planets:
         radius: 668.6 km<br/>(0.105 Yrths)
         surface_area: 5.618 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.252 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.452 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.452 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.160 g/cm<sup>3</sup>
         surface_gravity: 0.217 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.538 km/s<br />(1,938 km/h)
         rotation_period: 90.063 d
         axial_tilt: 25.62°
         albedo: 0.30
-        temperature: 3235 K<br />(2962 °C)
+        temperature: 131 K<br />(-143 °C)
   - name: 2848 Athiad IV
     type: Large terrestrial
     aphelion: 3,072,774,734 km<br />20.540 AU
@@ -265,14 +265,14 @@ planets:
     radius: 13,425.8 km<br/>(2.107 Yrths)
     surface_area: 2.265 × 10<sup>09</sup> km<sup>2</sup><br/>(4.441 Yrths)
     volume: 1.014 × 10<sup>13</sup> km<sup>3</sup><br/>(9.358 Yrths)
-    mass: 6.612 × 10<sup>25</sup> kg<br />(11.071749103753445 Yrths)
+    mass: 6.612 × 10<sup>25</sup> kg<br />(11.07 Yrths)
     density: 6.523 g/cm<sup>3</sup>
     surface_gravity: 24.450 m/s<sup>2</sup><br />(2.493 g<sub>0</sub>)
     escape_velocity: 25.640 km/s<br />(92,304 km/h)
     rotation_period: 0.498 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 114 K<br />(-159 °C)
+    temperature: 101 K<br />(-172 °C)
     surface_pressure: 131 kPa<br />(1 atm)
     composition:
       - 95.1571% nitrogen
@@ -290,14 +290,14 @@ planets:
         radius: 14,963.5 km<br/>(2.349 Yrths)
         surface_area: 2.814 × 10<sup>09</sup> km<sup>2</sup><br/>(5.516 Yrths)
         volume: 1.403 × 10<sup>13</sup> km<sup>3</sup><br/>(12.956 Yrths)
-        mass: 1.578 × 10<sup>25</sup> kg<br />(11.071749103753445 Yrths)
+        mass: 1.578 × 10<sup>25</sup> kg<br />(2.642 Yrths)
         density: 1.124 g/cm<sup>3</sup>
         surface_gravity: 4.698 m/s<sup>2</sup><br />(0.479 g<sub>0</sub>)
         escape_velocity: 11.865 km/s<br />(42,713 km/h)
         rotation_period: 68.395 d
         axial_tilt: 19.63°
         albedo: 0.30
-        temperature: 1119 K<br />(846 °C)
+        temperature: 94 K<br />(-179 °C)
       - name: 2848 Athiad IV b
         type: Rocky
         formationType: Accreted
@@ -310,12 +310,12 @@ planets:
         radius: 14,620.4 km<br/>(2.295 Yrths)
         surface_area: 2.686 × 10<sup>09</sup> km<sup>2</sup><br/>(5.266 Yrths)
         volume: 1.309 × 10<sup>13</sup> km<sup>3</sup><br/>(12.085 Yrths)
-        mass: 3.721 × 10<sup>25</sup> kg<br />(11.071749103753445 Yrths)
+        mass: 3.721 × 10<sup>25</sup> kg<br />(6.231 Yrths)
         density: 2.843 g/cm<sup>3</sup>
         surface_gravity: 11.604 m/s<sup>2</sup><br />(1.183 g<sub>0</sub>)
         escape_velocity: 18.433 km/s<br />(66,358 km/h)
         rotation_period: 31.938 d
         axial_tilt: 20.50°
         albedo: 0.30
-        temperature: 1067 K<br />(794 °C)
+        temperature: 94 K<br />(-179 °C)
 ---

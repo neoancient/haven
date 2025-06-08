@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6673 Tanashad A is a star in the constellation Tanas
+      6673 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 219.71 ly
 apparent_magnitude: 9.25
 absolute_magnitude: 5.11

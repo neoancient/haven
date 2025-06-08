@@ -15,7 +15,7 @@ stars:
     absolute_magnitude: -3.28
     distance: 781.76
     spectral_class: B4V + A7III
-  - name:
+  - name: <a href="oban.html">Oban</a>
     designation: β Innaiad
     ra: 0<sup>h</sup> 11<sup>m</sup> 43.38<sup>s</sup>
     dec: 22° 46' 35.21"
@@ -23,7 +23,7 @@ stars:
     absolute_magnitude: -3.31
     distance: 824.92
     spectral_class: B3V
-  - name:
+  - name: <a href="innad_erna.html">Innad Erna</a>
     designation: γ Innaiad
     ra: 1<sup>h</sup> 12<sup>m</sup> 31.66<sup>s</sup>
     dec: 25° 08' 24.88"
@@ -136,7 +136,7 @@ stars:
     distance: 510.48
     spectral_class: A5III
   - name:
-    designation: σ Innaiad
+    designation: <a href="σ_innaiad.html">σ Innaiad</a>
     ra: 0<sup>h</sup> 10<sup>m</sup> 10.61<sup>s</sup>
     dec: 10° 40' 3.39"
     apparent_magnitude: 5.71
@@ -168,7 +168,7 @@ stars:
     distance: 567.07
     spectral_class: A5III
   - name:
-    designation: π Innaiad
+    designation: <a href="π_innaiad.html">π Innaiad</a>
     ra: 1<sup>h</sup> 24<sup>m</sup> 28.40<sup>s</sup>
     dec: 10° 59' 21.86"
     apparent_magnitude: 6.01
@@ -184,7 +184,7 @@ stars:
     distance: 539.46
     spectral_class: A2IV
   - name:
-    designation: 0012 Innaiad
+    designation: <a href="0012_innaiad.html">0012 Innaiad</a>
     ra: 1<sup>h</sup> 22<sup>m</sup> 54.85<sup>s</sup>
     dec: 29° 41' 0.07"
     apparent_magnitude: 6.10
@@ -248,7 +248,7 @@ stars:
     distance: 94.06
     spectral_class: F7IV
   - name:
-    designation: ο Innaiad
+    designation: <a href="ο_innaiad.html">ο Innaiad</a>
     ra: 1<sup>h</sup> 09<sup>m</sup> 58.95<sup>s</sup>
     dec: 10° 39' 24.53"
     apparent_magnitude: 6.23
@@ -264,7 +264,7 @@ stars:
     distance: 131.23
     spectral_class: A8V + G7V
   - name:
-    designation: 0015 Innaiad
+    designation: <a href="0015_innaiad.html">0015 Innaiad</a>
     ra: 1<sup>h</sup> 07<sup>m</sup> 36.79<sup>s</sup>
     dec: 26° 30' 51.22"
     apparent_magnitude: 6.30
@@ -288,7 +288,7 @@ stars:
     distance: 309.14
     spectral_class: A8V + F6III
   - name:
-    designation: 0010 Innaiad
+    designation: <a href="0010_innaiad.html">0010 Innaiad</a>
     ra: 0<sup>h</sup> 20<sup>m</sup> 43.34<sup>s</sup>
     dec: 27° 09' 50.12"
     apparent_magnitude: 6.35
@@ -296,7 +296,7 @@ stars:
     distance: 2,298.25
     spectral_class: B6V
   - name:
-    designation: 0014 Innaiad
+    designation: <a href="0014_innaiad.html">0014 Innaiad</a>
     ra: 1<sup>h</sup> 37<sup>m</sup> 57.11<sup>s</sup>
     dec: 27° 14' 30.13"
     apparent_magnitude: 6.36
@@ -304,7 +304,7 @@ stars:
     distance: 86.02
     spectral_class: K3III
   - name:
-    designation: 0009 Innaiad
+    designation: <a href="0009_innaiad.html">0009 Innaiad</a>
     ra: 0<sup>h</sup> 26<sup>m</sup> 58.65<sup>s</sup>
     dec: 23° 24' 38.76"
     apparent_magnitude: 6.36
@@ -336,7 +336,7 @@ stars:
     distance: 1,522.59
     spectral_class: A3II + M4III
   - name:
-    designation: υ Innaiad
+    designation: <a href="υ_innaiad.html">υ Innaiad</a>
     ra: 1<sup>h</sup> 09<sup>m</sup> 21.78<sup>s</sup>
     dec: 15° 39' 52.41"
     apparent_magnitude: 6.46

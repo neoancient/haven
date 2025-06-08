@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2517 Lunaiad A is a star in the constellation Luna
+      2517 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 602.52 ly
 apparent_magnitude: 7.46
 absolute_magnitude: 1.13

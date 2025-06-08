@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3923 Tanashad A is a star in the constellation Tanas
+      3923 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 569.54 ly
 apparent_magnitude: 7.39
 absolute_magnitude: 1.18

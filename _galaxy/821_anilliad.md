@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      821 Anilliad is a star in the constellation Anil
+      821 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 373.66 ly
 apparent_magnitude: 11.72
 absolute_magnitude: 6.43

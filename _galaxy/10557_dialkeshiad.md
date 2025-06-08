@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10557 Dialkeshiad is a star in the constellation Dialkes
+      10557 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 488.73 ly
 apparent_magnitude: 10.89
 absolute_magnitude: 5.02

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2709 Arkothiad is a star in the constellation Arkoth
+      2709 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 389.94 ly
 apparent_magnitude: 10.71
 absolute_magnitude: 5.32
@@ -31,15 +31,15 @@ planets:
     radius: 2,795.8 km<br/>(0.439 Yrths)
     surface_area: 9.822 × 10<sup>07</sup> km<sup>2</sup><br/>(0.193 Yrths)
     volume: 9.154 × 10<sup>10</sup> km<sup>3</sup><br/>(0.085 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.524 g/cm<sup>3</sup>
     surface_gravity: 5.092 m/s<sup>2</sup><br />(0.519 g<sub>0</sub>)
     escape_velocity: 5.340 km/s<br />(19,223 km/h)
     rotation_period: 3.047 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 366 K<br />(93 °C)
-    surface_pressure: 151 kPa<br />(1 atm)
+    temperature: 386 K<br />(113 °C)
+    surface_pressure: 151 kPa<br />(2 atm)
     composition:
       - 92.2294% nitrogen
       - 7.2186% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 615.1 km<br/>(0.097 Yrths)
         surface_area: 4.754 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.747 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.120 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.120 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.175 g/cm<sup>3</sup>
         surface_gravity: 0.374 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.678 km/s<br />(2,442 km/h)
         rotation_period: 34.267 d
         axial_tilt: 44.77°
         albedo: 0.30
-        temperature: 6279 K<br />(6006 °C)
+        temperature: 293 K<br />(20 °C)
   - name: 2709 Arkothiad II
     type: Large terrestrial
     aphelion: 154,443,025 km<br />1.032 AU
@@ -76,14 +76,14 @@ planets:
     radius: 7,753.3 km<br/>(1.217 Yrths)
     surface_area: 7.554 × 10<sup>08</sup> km<sup>2</sup><br/>(1.481 Yrths)
     volume: 1.952 × 10<sup>12</sup> km<sup>3</sup><br/>(1.802 Yrths)
-    mass: 1.376 × 10<sup>25</sup> kg<br />(2.3034216398902823 Yrths)
+    mass: 1.376 × 10<sup>25</sup> kg<br />(2.30 Yrths)
     density: 7.046 g/cm<sup>3</sup>
     surface_gravity: 15.252 m/s<sup>2</sup><br />(1.555 g<sub>0</sub>)
     escape_velocity: 15.389 km/s<br />(55,402 km/h)
     rotation_period: 1.165 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 345 K<br />(72 °C)
+    temperature: 719 K<br />(446 °C)
     surface_pressure: 288 kPa<br />(3 atm)
     composition:
       - 51.4628% carbon dioxide
@@ -102,14 +102,14 @@ planets:
         radius: 5,624.7 km<br/>(0.883 Yrths)
         surface_area: 3.976 × 10<sup>08</sup> km<sup>2</sup><br/>(0.779 Yrths)
         volume: 7.454 × 10<sup>11</sup> km<sup>3</sup><br/>(0.688 Yrths)
-        mass: 1.630 × 10<sup>24</sup> kg<br />(2.3034216398902823 Yrths)
+        mass: 1.630 × 10<sup>24</sup> kg<br />(0.273 Yrths)
         density: 2.187 g/cm<sup>3</sup>
         surface_gravity: 3.434 m/s<sup>2</sup><br />(0.350 g<sub>0</sub>)
         escape_velocity: 6.219 km/s<br />(22,390 km/h)
         rotation_period: 63.212 d
         axial_tilt: 14.04°
         albedo: 0.30
-        temperature: 3361 K<br />(3087 °C)
+        temperature: 229 K<br />(-44 °C)
       - name: 2709 Arkothiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -122,14 +122,14 @@ planets:
         radius: 5,157.1 km<br/>(0.809 Yrths)
         surface_area: 3.342 × 10<sup>08</sup> km<sup>2</sup><br/>(0.655 Yrths)
         volume: 5.745 × 10<sup>11</sup> km<sup>3</sup><br/>(0.530 Yrths)
-        mass: 1.171 × 10<sup>24</sup> kg<br />(2.3034216398902823 Yrths)
+        mass: 1.171 × 10<sup>24</sup> kg<br />(0.196 Yrths)
         density: 2.037 g/cm<sup>3</sup>
         surface_gravity: 2.934 m/s<sup>2</sup><br />(0.299 g<sub>0</sub>)
         escape_velocity: 5.504 km/s<br />(19,816 km/h)
         rotation_period: 53.640 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 3204 K<br />(2931 °C)
+        temperature: 229 K<br />(-44 °C)
   - name: 2709 Arkothiad III
     type: Terrestrial
     aphelion: 259,409,981 km<br />1.734 AU
@@ -141,14 +141,14 @@ planets:
     radius: 6,146.3 km<br/>(0.965 Yrths)
     surface_area: 4.747 × 10<sup>08</sup> km<sup>2</sup><br/>(0.931 Yrths)
     volume: 9.726 × 10<sup>11</sup> km<sup>3</sup><br/>(0.898 Yrths)
-    mass: 4.977 × 10<sup>24</sup> kg<br />(0.8333491865511875 Yrths)
+    mass: 4.977 × 10<sup>24</sup> kg<br />(0.83 Yrths)
     density: 5.117 g/cm<sup>3</sup>
     surface_gravity: 8.781 m/s<sup>2</sup><br />(0.895 g<sub>0</sub>)
     escape_velocity: 10.396 km/s<br />(37,427 km/h)
     rotation_period: 1.262 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 199 K<br />(-74 °C)
+    temperature: 243 K<br />(-30 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 56.1369% nitrogen
@@ -168,14 +168,14 @@ planets:
         radius: 2,519.8 km<br/>(0.396 Yrths)
         surface_area: 7.979 × 10<sup>07</sup> km<sup>2</sup><br/>(0.156 Yrths)
         volume: 6.702 × 10<sup>10</sup> km<sup>3</sup><br/>(0.062 Yrths)
-        mass: 2.034 × 10<sup>23</sup> kg<br />(0.8333491865511875 Yrths)
+        mass: 2.034 × 10<sup>23</sup> kg<br />(0.034 Yrths)
         density: 3.035 g/cm<sup>3</sup>
         surface_gravity: 2.135 m/s<sup>2</sup><br />(0.218 g<sub>0</sub>)
         escape_velocity: 3.283 km/s<br />(11,817 km/h)
         rotation_period: 33.627 d
         axial_tilt: 36.13°
         albedo: 0.30
-        temperature: 2694 K<br />(2421 °C)
+        temperature: 179 K<br />(-95 °C)
   - name: 2709 Arkothiad IV
     type: Gas dwarf
     aphelion: 419,966,984 km<br />2.807 AU
@@ -187,14 +187,14 @@ planets:
     radius: 21,331.5 km<br/>(3.348 Yrths)
     surface_area: 5.718 × 10<sup>09</sup> km<sup>2</sup><br/>(11.211 Yrths)
     volume: 4.066 × 10<sup>13</sup> km<sup>3</sup><br/>(37.536 Yrths)
-    mass: 1.070 × 10<sup>26</sup> kg<br />(17.908680351814795 Yrths)
+    mass: 1.070 × 10<sup>26</sup> kg<br />(17.91 Yrths)
     density: 2.630 g/cm<sup>3</sup>
     surface_gravity: 15.666 m/s<sup>2</sup><br />(1.597 g<sub>0</sub>)
     escape_velocity: 25.870 km/s<br />(93,132 km/h)
     rotation_period: 0.451 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 198 K<br />(-75 °C)
+    temperature: 178 K<br />(-96 °C)
     composition:
       - 60.7704% helium
       - 30.9859% hydrogen
@@ -212,14 +212,14 @@ planets:
         radius: 18,271.8 km<br/>(2.868 Yrths)
         surface_area: 4.195 × 10<sup>09</sup> km<sup>2</sup><br/>(8.225 Yrths)
         volume: 2.555 × 10<sup>13</sup> km<sup>3</sup><br/>(23.590 Yrths)
-        mass: 4.738 × 10<sup>25</sup> kg<br />(17.908680351814795 Yrths)
+        mass: 4.738 × 10<sup>25</sup> kg<br />(7.933 Yrths)
         density: 1.854 g/cm<sup>3</sup>
         surface_gravity: 9.458 m/s<sup>2</sup><br />(0.964 g<sub>0</sub>)
         escape_velocity: 18.604 km/s<br />(66,974 km/h)
         rotation_period: 45.977 d
         axial_tilt: 42.97°
         albedo: 0.30
-        temperature: 1230 K<br />(957 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 2709 Arkothiad IV b
         type: Asteroid
         formationType: Captured
@@ -232,14 +232,14 @@ planets:
         radius: 20,391.5 km<br/>(3.201 Yrths)
         surface_area: 5.225 × 10<sup>09</sup> km<sup>2</sup><br/>(10.244 Yrths)
         volume: 3.552 × 10<sup>13</sup> km<sup>3</sup><br/>(32.789 Yrths)
-        mass: 6.439 × 10<sup>25</sup> kg<br />(17.908680351814795 Yrths)
+        mass: 6.439 × 10<sup>25</sup> kg<br />(10.783 Yrths)
         density: 1.813 g/cm<sup>3</sup>
         surface_gravity: 10.322 m/s<sup>2</sup><br />(1.053 g<sub>0</sub>)
         escape_velocity: 20.531 km/s<br />(73,912 km/h)
         rotation_period: 63.908 d
         axial_tilt: 27.81°
         albedo: 0.30
-        temperature: 1172 K<br />(899 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 2709 Arkothiad IV c
         type: Rocky
         formationType: Accreted
@@ -252,14 +252,14 @@ planets:
         radius: 23,228.6 km<br/>(3.646 Yrths)
         surface_area: 6.780 × 10<sup>09</sup> km<sup>2</sup><br/>(13.293 Yrths)
         volume: 5.250 × 10<sup>13</sup> km<sup>3</sup><br/>(48.467 Yrths)
-        mass: 1.445 × 10<sup>26</sup> kg<br />(17.908680351814795 Yrths)
+        mass: 1.445 × 10<sup>26</sup> kg<br />(24.197 Yrths)
         density: 2.752 g/cm<sup>3</sup>
         surface_gravity: 17.850 m/s<sup>2</sup><br />(1.820 g<sub>0</sub>)
         escape_velocity: 28.817 km/s<br />(103,740 km/h)
         rotation_period: 29.966 d
         axial_tilt: 11.32°
         albedo: 0.30
-        temperature: 1118 K<br />(845 °C)
+        temperature: 139 K<br />(-134 °C)
   - name: 2709 Arkothiad V
     type: Ice giant
     aphelion: 686,687,065 km<br />4.590 AU
@@ -271,14 +271,14 @@ planets:
     radius: 30,761.7 km<br/>(4.828 Yrths)
     surface_area: 1.189 × 10<sup>10</sup> km<sup>2</sup><br/>(23.313 Yrths)
     volume: 1.219 × 10<sup>14</sup> km<sup>3</sup><br/>(112.566 Yrths)
-    mass: 1.733 × 10<sup>26</sup> kg<br />(29.01862709291765 Yrths)
+    mass: 1.733 × 10<sup>26</sup> kg<br />(29.02 Yrths)
     density: 1.421 g/cm<sup>3</sup>
     surface_gravity: 12.207 m/s<sup>2</sup><br />(1.245 g<sub>0</sub>)
     escape_velocity: 27.423 km/s<br />(98,722 km/h)
     rotation_period: 0.387 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 193 K<br />(-80 °C)
+    temperature: 177 K<br />(-97 °C)
     composition:
       - 53.8631% hydrogen
       - 42.3789% helium
@@ -296,14 +296,14 @@ planets:
         radius: 23,703.0 km<br/>(3.720 Yrths)
         surface_area: 7.060 × 10<sup>09</sup> km<sup>2</sup><br/>(13.842 Yrths)
         volume: 5.578 × 10<sup>13</sup> km<sup>3</sup><br/>(51.497 Yrths)
-        mass: 1.287 × 10<sup>26</sup> kg<br />(29.01862709291765 Yrths)
+        mass: 1.287 × 10<sup>26</sup> kg<br />(21.552 Yrths)
         density: 2.307 g/cm<sup>3</sup>
         surface_gravity: 15.269 m/s<sup>2</sup><br />(1.557 g<sub>0</sub>)
         escape_velocity: 26.923 km/s<br />(96,922 km/h)
         rotation_period: 33.474 d
         axial_tilt: 21.82°
         albedo: 0.30
-        temperature: 844 K<br />(571 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 2709 Arkothiad V b
         type: Ice/rock hybrid
         formationType: Captured
@@ -316,14 +316,14 @@ planets:
         radius: 31,749.6 km<br/>(4.983 Yrths)
         surface_area: 1.267 × 10<sup>10</sup> km<sup>2</sup><br/>(24.835 Yrths)
         volume: 1.341 × 10<sup>14</sup> km<sup>3</sup><br/>(123.763 Yrths)
-        mass: 2.250 × 10<sup>26</sup> kg<br />(29.01862709291765 Yrths)
+        mass: 2.250 × 10<sup>26</sup> kg<br />(37.677 Yrths)
         density: 1.678 g/cm<sup>3</sup>
         surface_gravity: 14.878 m/s<sup>2</sup><br />(1.517 g<sub>0</sub>)
         escape_velocity: 30.757 km/s<br />(110,726 km/h)
         rotation_period: 70.748 d
         axial_tilt: 24.58°
         albedo: 0.30
-        temperature: 805 K<br />(531 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 2709 Arkothiad V c
         type: Dwarf planet
         formationType: Impact formed
@@ -336,14 +336,14 @@ planets:
         radius: 24,266.9 km<br/>(3.809 Yrths)
         surface_area: 7.400 × 10<sup>09</sup> km<sup>2</sup><br/>(14.508 Yrths)
         volume: 5.986 × 10<sup>13</sup> km<sup>3</sup><br/>(55.261 Yrths)
-        mass: 8.326 × 10<sup>25</sup> kg<br />(29.01862709291765 Yrths)
+        mass: 8.326 × 10<sup>25</sup> kg<br />(13.942 Yrths)
         density: 1.391 g/cm<sup>3</sup>
         surface_gravity: 9.424 m/s<sup>2</sup><br />(0.961 g<sub>0</sub>)
         escape_velocity: 21.401 km/s<br />(77,044 km/h)
         rotation_period: 45.171 d
         axial_tilt: 13.46°
         albedo: 0.30
-        temperature: 767 K<br />(494 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 2709 Arkothiad V d
         type: Rocky
         formationType: Impact formed
@@ -356,14 +356,14 @@ planets:
         radius: 21,232.3 km<br/>(3.333 Yrths)
         surface_area: 5.665 × 10<sup>09</sup> km<sup>2</sup><br/>(11.107 Yrths)
         volume: 4.009 × 10<sup>13</sup> km<sup>3</sup><br/>(37.014 Yrths)
-        mass: 1.179 × 10<sup>26</sup> kg<br />(29.01862709291765 Yrths)
+        mass: 1.179 × 10<sup>26</sup> kg<br />(19.736 Yrths)
         density: 2.940 g/cm<sup>3</sup>
         surface_gravity: 17.426 m/s<sup>2</sup><br />(1.777 g<sub>0</sub>)
         escape_velocity: 27.221 km/s<br />(97,996 km/h)
         rotation_period: 29.095 d
         axial_tilt: 9.43°
         albedo: 0.30
-        temperature: 731 K<br />(458 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 2709 Arkothiad V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -376,14 +376,14 @@ planets:
         radius: 47,403.2 km<br/>(7.440 Yrths)
         surface_area: 2.824 × 10<sup>10</sup> km<sup>2</sup><br/>(55.361 Yrths)
         volume: 4.462 × 10<sup>14</sup> km<sup>3</sup><br/>(411.908 Yrths)
-        mass: 8.093 × 10<sup>26</sup> kg<br />(29.01862709291765 Yrths)
+        mass: 8.093 × 10<sup>26</sup> kg<br />(135.519 Yrths)
         density: 1.814 g/cm<sup>3</sup>
         surface_gravity: 24.006 m/s<sup>2</sup><br />(2.448 g<sub>0</sub>)
         escape_velocity: 47.739 km/s<br />(171,861 km/h)
         rotation_period: 51.846 d
         axial_tilt: 17.10°
         albedo: 0.30
-        temperature: 697 K<br />(424 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 2709 Arkothiad V f
         type: Icy
         formationType: Impact formed
@@ -396,14 +396,14 @@ planets:
         radius: 51,331.2 km<br/>(8.057 Yrths)
         surface_area: 3.311 × 10<sup>10</sup> km<sup>2</sup><br/>(64.915 Yrths)
         volume: 5.665 × 10<sup>14</sup> km<sup>3</sup><br/>(523.025 Yrths)
-        mass: 6.239 × 10<sup>26</sup> kg<br />(29.01862709291765 Yrths)
+        mass: 6.239 × 10<sup>26</sup> kg<br />(104.476 Yrths)
         density: 1.101 g/cm<sup>3</sup>
         surface_gravity: 15.783 m/s<sup>2</sup><br />(1.609 g<sub>0</sub>)
         escape_velocity: 40.281 km/s<br />(145,010 km/h)
         rotation_period: 65.696 d
         axial_tilt: 20.23°
         albedo: 0.30
-        temperature: 665 K<br />(392 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 2709 Arkothiad V g
         type: Icy
         formationType: Accreted
@@ -416,14 +416,14 @@ planets:
         radius: 41,190.9 km<br/>(6.465 Yrths)
         surface_area: 2.132 × 10<sup>10</sup> km<sup>2</sup><br/>(41.801 Yrths)
         volume: 2.927 × 10<sup>14</sup> km<sup>3</sup><br/>(270.260 Yrths)
-        mass: 4.614 × 10<sup>26</sup> kg<br />(29.01862709291765 Yrths)
+        mass: 4.614 × 10<sup>26</sup> kg<br />(77.261 Yrths)
         density: 1.576 g/cm<sup>3</sup>
         surface_gravity: 18.126 m/s<sup>2</sup><br />(1.848 g<sub>0</sub>)
         escape_velocity: 38.668 km/s<br />(139,206 km/h)
         rotation_period: 42.098 d
         axial_tilt: 17.34°
         albedo: 0.30
-        temperature: 634 K<br />(361 °C)
+        temperature: 109 K<br />(-164 °C)
   - name: 2709 Arkothiad VI
     type: Ice giant
     aphelion: 1,120,523,520 km<br />7.490 AU
@@ -435,14 +435,14 @@ planets:
     radius: 4,751.1 km<br/>(0.746 Yrths)
     surface_area: 2.837 × 10<sup>08</sup> km<sup>2</sup><br/>(0.556 Yrths)
     volume: 4.492 × 10<sup>11</sup> km<sup>3</sup><br/>(0.415 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.329 g/cm<sup>3</sup>
     surface_gravity: 1.763 m/s<sup>2</sup><br />(0.180 g<sub>0</sub>)
     escape_velocity: 4.096 km/s<br />(14,746 km/h)
     rotation_period: 0.823 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 151 K<br />(-122 °C)
+    temperature: 135 K<br />(-138 °C)
     composition:
       - 94.3170% hydrogen
       - 5.6067% helium
@@ -460,14 +460,14 @@ planets:
         radius: 390.0 km<br/>(0.061 Yrths)
         surface_area: 1.911 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.485 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.443 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.443 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.788 g/cm<sup>3</sup>
         surface_gravity: 0.195 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.390 km/s<br />(1,404 km/h)
         rotation_period: 58.558 d
         axial_tilt: 21.26°
         albedo: 0.30
-        temperature: 1773 K<br />(1500 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 2709 Arkothiad VI b
         type: Dwarf planet
         formationType: Captured
@@ -480,14 +480,14 @@ planets:
         radius: 727.5 km<br/>(0.114 Yrths)
         surface_area: 6.651 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.613 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.746 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.746 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.702 g/cm<sup>3</sup>
         surface_gravity: 0.346 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.710 km/s<br />(2,555 km/h)
         rotation_period: 43.667 d
         axial_tilt: 21.99°
         albedo: 0.30
-        temperature: 1690 K<br />(1417 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 2709 Arkothiad VI c
         type: Icy
         formationType: Impact formed
@@ -500,14 +500,14 @@ planets:
         radius: 777.1 km<br/>(0.122 Yrths)
         surface_area: 7.589 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.966 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.767 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.767 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.899 g/cm<sup>3</sup>
         surface_gravity: 0.195 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.551 km/s<br />(1,983 km/h)
         rotation_period: 78.830 d
         axial_tilt: 18.11°
         albedo: 0.30
-        temperature: 1612 K<br />(1338 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 2709 Arkothiad VI d
         type: Ice/rock hybrid
         formationType: Captured
@@ -520,14 +520,14 @@ planets:
         radius: 1,029.9 km<br/>(0.162 Yrths)
         surface_area: 1.333 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.576 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 8.273 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 8.273 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.808 g/cm<sup>3</sup>
         surface_gravity: 0.520 m/s<sup>2</sup><br />(0.053 g<sub>0</sub>)
         escape_velocity: 1.035 km/s<br />(3,728 km/h)
         rotation_period: 45.557 d
         axial_tilt: 30.43°
         albedo: 0.30
-        temperature: 1537 K<br />(1263 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 2709 Arkothiad VI e
         type: Dwarf planet
         formationType: Accreted
@@ -540,14 +540,14 @@ planets:
         radius: 459.7 km<br/>(0.072 Yrths)
         surface_area: 2.656 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 4.069 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.913 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.913 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.699 g/cm<sup>3</sup>
         surface_gravity: 0.218 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.448 km/s<br />(1,613 km/h)
         rotation_period: 61.757 d
         axial_tilt: 31.86°
         albedo: 0.30
-        temperature: 1465 K<br />(1192 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 2709 Arkothiad VI f
         type: Icy
         formationType: Accreted
@@ -560,14 +560,14 @@ planets:
         radius: 495.7 km<br/>(0.078 Yrths)
         surface_area: 3.088 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.103 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.593 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.593 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.292 g/cm<sup>3</sup>
         surface_gravity: 0.179 m/s<sup>2</sup><br />(0.018 g<sub>0</sub>)
         escape_velocity: 0.421 km/s<br />(1,517 km/h)
         rotation_period: 76.692 d
         axial_tilt: 14.75°
         albedo: 0.30
-        temperature: 1397 K<br />(1124 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 2709 Arkothiad VI g
         type: Icy
         formationType: Accreted
@@ -580,14 +580,14 @@ planets:
         radius: 442.1 km<br/>(0.069 Yrths)
         surface_area: 2.456 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.619 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.754 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.754 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.037 g/cm<sup>3</sup>
         surface_gravity: 0.128 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.337 km/s<br />(1,212 km/h)
         rotation_period: 84.954 d
         axial_tilt: 22.56°
         albedo: 0.30
-        temperature: 1332 K<br />(1059 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 2709 Arkothiad VI h
         type: Ice/rock hybrid
         formationType: Captured
@@ -600,14 +600,14 @@ planets:
         radius: 388.5 km<br/>(0.061 Yrths)
         surface_area: 1.897 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.457 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.871 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.871 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.983 g/cm<sup>3</sup>
         surface_gravity: 0.215 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.409 km/s<br />(1,473 km/h)
         rotation_period: 35.889 d
         axial_tilt: 28.10°
         albedo: 0.30
-        temperature: 1211 K<br />(938 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 2709 Arkothiad VI i
         type: Ice/rock hybrid
         formationType: Captured
@@ -620,12 +620,12 @@ planets:
         radius: 719.2 km<br/>(0.113 Yrths)
         surface_area: 6.501 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.558 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.996 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.996 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.564 g/cm<sup>3</sup>
         surface_gravity: 0.515 m/s<sup>2</sup><br />(0.053 g<sub>0</sub>)
         escape_velocity: 0.861 km/s<br />(3,100 km/h)
         rotation_period: 52.136 d
         axial_tilt: 24.16°
         albedo: 0.30
-        temperature: 1155 K<br />(881 °C)
+        temperature: 85 K<br />(-188 °C)
 ---

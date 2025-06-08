@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      429 Arniad A is a star in the constellation Arni
+      429 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 234.26 ly
 apparent_magnitude: 8.56
 absolute_magnitude: 4.28

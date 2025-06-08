@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6349 Shanniashiad A is a star in the constellation Shannias
+      6349 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 144.23 ly
 apparent_magnitude: 8.20
 absolute_magnitude: 4.97

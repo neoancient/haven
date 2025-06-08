@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4825 Geardiad is a star in the constellation Geard
+      4825 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1107.26 ly
 apparent_magnitude: 9.58
 absolute_magnitude: 1.93

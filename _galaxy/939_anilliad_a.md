@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      939 Anilliad A is a star in the constellation Anil
+      939 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 278.80 ly
 apparent_magnitude: 7.40
 absolute_magnitude: 2.74

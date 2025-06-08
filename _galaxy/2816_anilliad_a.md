@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2816 Anilliad A is a star in the constellation Anil
+      2816 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 920.63 ly
 apparent_magnitude: 7.01
 absolute_magnitude: -0.24

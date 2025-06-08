@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2237 Arkothiad is a star in the constellation Arkoth
+      2237 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 391.59 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 5.92

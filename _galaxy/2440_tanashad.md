@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2440 Tanashad is a star in the constellation Tanas
+      2440 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 252.04 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 4.39

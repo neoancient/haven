@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      37 Athiad is a star in the constellation Ath
+      37 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 291.27 ly
 apparent_magnitude: 8.49
 absolute_magnitude: 3.74
@@ -31,7 +31,7 @@ planets:
     radius: 4,978.7 km<br/>(0.781 Yrths)
     surface_area: 3.115 × 10<sup>08</sup> km<sup>2</sup><br/>(0.611 Yrths)
     volume: 5.169 × 10<sup>11</sup> km<sup>3</sup><br/>(0.477 Yrths)
-    mass: 2.828 × 10<sup>24</sup> kg<br />(0.47355135776814966 Yrths)
+    mass: 2.828 × 10<sup>24</sup> kg<br />(0.47 Yrths)
     density: 5.471 g/cm<sup>3</sup>
     surface_gravity: 7.605 m/s<sup>2</sup><br />(0.775 g<sub>0</sub>)
     escape_velocity: 8.708 km/s<br />(31,348 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 623.1 km<br/>(0.098 Yrths)
         surface_area: 4.879 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.014 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.064 × 10<sup>21</sup> kg<br />(0.47355135776814966 Yrths)
+        mass: 2.064 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.037 g/cm<sup>3</sup>
         surface_gravity: 0.354 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.665 km/s<br />(2,394 km/h)
         rotation_period: 59.627 d
         axial_tilt: 31.51°
         albedo: 0.30
-        temperature: 3548 K<br />(3274 °C)
+        temperature: 223 K<br />(-51 °C)
       - name: 37 Athiad I b
         type: Dwarf planet
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 1,890.7 km<br/>(0.297 Yrths)
         surface_area: 4.492 × 10<sup>07</sup> km<sup>2</sup><br/>(0.088 Yrths)
         volume: 2.831 × 10<sup>10</sup> km<sup>3</sup><br/>(0.026 Yrths)
-        mass: 5.214 × 10<sup>22</sup> kg<br />(0.47355135776814966 Yrths)
+        mass: 5.214 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 1.842 g/cm<sup>3</sup>
         surface_gravity: 0.972 m/s<sup>2</sup><br />(0.099 g<sub>0</sub>)
         escape_velocity: 1.919 km/s<br />(6,907 km/h)
         rotation_period: 37.048 d
         axial_tilt: 28.46°
         albedo: 0.30
-        temperature: 3382 K<br />(3109 °C)
+        temperature: 223 K<br />(-51 °C)
   - name: 37 Athiad II
     type: Gas giant
     aphelion: 764,045,793 km<br />5.107 AU
@@ -91,7 +91,7 @@ planets:
     radius: 170.8 km<br/>(0.027 Yrths)
     surface_area: 3.665 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.086 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.113 × 10<sup>26</sup> kg<br />(85.61204905796329 Yrths)
+    mass: 5.113 × 10<sup>26</sup> kg<br />(85.61 Yrths)
     density: 24503990.188 g/cm<sup>3</sup>
     surface_gravity: 1168381.297 m/s<sup>2</sup><br />(119141.735 g<sub>0</sub>)
     escape_velocity: 632.155 km/s<br />(2,275,758 km/h)
@@ -112,14 +112,14 @@ planets:
         radius: 72,864.8 km<br/>(11.437 Yrths)
         surface_area: 6.672 × 10<sup>10</sup> km<sup>2</sup><br/>(130.804 Yrths)
         volume: 1.620 × 10<sup>15</sup> km<sup>3</sup><br/>(1495.999 Yrths)
-        mass: 2.909 × 10<sup>27</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 2.909 × 10<sup>27</sup> kg<br />(487.184 Yrths)
         density: 1.795 g/cm<sup>3</sup>
         surface_gravity: 36.525 m/s<sup>2</sup><br />(3.725 g<sub>0</sub>)
         escape_velocity: 73.007 km/s<br />(262,826 km/h)
         rotation_period: 54.658 d
         axial_tilt: 23.07°
         albedo: 0.30
-        temperature: 374 K<br />(101 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II b
         type: Icy
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 98,749.3 km<br/>(15.500 Yrths)
         surface_area: 1.225 × 10<sup>11</sup> km<sup>2</sup><br/>(240.244 Yrths)
         volume: 4.034 × 10<sup>15</sup> km<sup>3</sup><br/>(3723.738 Yrths)
-        mass: 4.705 × 10<sup>27</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 4.705 × 10<sup>27</sup> kg<br />(787.762 Yrths)
         density: 1.166 g/cm<sup>3</sup>
         surface_gravity: 32.156 m/s<sup>2</sup><br />(3.279 g<sub>0</sub>)
         escape_velocity: 79.746 km/s<br />(287,085 km/h)
         rotation_period: 59.340 d
         axial_tilt: 26.15°
         albedo: 0.30
-        temperature: 357 K<br />(84 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II c
         type: Icy
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 57,053.2 km<br/>(8.955 Yrths)
         surface_area: 4.090 × 10<sup>10</sup> km<sup>2</sup><br/>(80.195 Yrths)
         volume: 7.779 × 10<sup>14</sup> km<sup>3</sup><br/>(718.155 Yrths)
-        mass: 9.152 × 10<sup>26</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 9.152 × 10<sup>26</sup> kg<br />(153.251 Yrths)
         density: 1.177 g/cm<sup>3</sup>
         surface_gravity: 18.740 m/s<sup>2</sup><br />(1.911 g<sub>0</sub>)
         escape_velocity: 46.274 km/s<br />(166,587 km/h)
         rotation_period: 82.463 d
         axial_tilt: 13.55°
         albedo: 0.30
-        temperature: 309 K<br />(36 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II d
         type: Asteroid
         formationType: Captured
@@ -172,14 +172,14 @@ planets:
         radius: 74,195.3 km<br/>(11.646 Yrths)
         surface_area: 6.918 × 10<sup>10</sup> km<sup>2</sup><br/>(135.624 Yrths)
         volume: 1.711 × 10<sup>15</sup> km<sup>3</sup><br/>(1579.452 Yrths)
-        mass: 3.913 × 10<sup>27</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 3.913 × 10<sup>27</sup> kg<br />(655.222 Yrths)
         density: 2.287 g/cm<sup>3</sup>
         surface_gravity: 47.377 m/s<sup>2</sup><br />(4.831 g<sub>0</sub>)
         escape_velocity: 83.904 km/s<br />(302,055 km/h)
         rotation_period: 44.392 d
         axial_tilt: 27.55°
         albedo: 0.30
-        temperature: 232 K<br />(-41 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II e
         type: Icy
         formationType: Accreted
@@ -192,14 +192,14 @@ planets:
         radius: 55,901.5 km<br/>(8.774 Yrths)
         surface_area: 3.927 × 10<sup>10</sup> km<sup>2</sup><br/>(76.990 Yrths)
         volume: 7.317 × 10<sup>14</sup> km<sup>3</sup><br/>(675.535 Yrths)
-        mass: 9.219 × 10<sup>26</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 9.219 × 10<sup>26</sup> kg<br />(154.364 Yrths)
         density: 1.260 g/cm<sup>3</sup>
         surface_gravity: 19.662 m/s<sup>2</sup><br />(2.005 g<sub>0</sub>)
         escape_velocity: 46.918 km/s<br />(168,905 km/h)
         rotation_period: 47.787 d
         axial_tilt: 16.06°
         albedo: 0.30
-        temperature: 192 K<br />(-81 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II f
         type: Icy
         formationType: Accreted
@@ -212,14 +212,14 @@ planets:
         radius: 50,975.4 km<br/>(8.001 Yrths)
         surface_area: 3.265 × 10<sup>10</sup> km<sup>2</sup><br/>(64.019 Yrths)
         volume: 5.548 × 10<sup>14</sup> km<sup>3</sup><br/>(512.224 Yrths)
-        mass: 9.782 × 10<sup>26</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 9.782 × 10<sup>26</sup> kg<br />(163.794 Yrths)
         density: 1.763 g/cm<sup>3</sup>
         surface_gravity: 25.091 m/s<sup>2</sup><br />(2.559 g<sub>0</sub>)
         escape_velocity: 50.611 km/s<br />(182,200 km/h)
         rotation_period: 60.866 d
         axial_tilt: 9.99°
         albedo: 0.30
-        temperature: 183 K<br />(-90 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -232,14 +232,14 @@ planets:
         radius: 49,564.4 km<br/>(7.780 Yrths)
         surface_area: 3.087 × 10<sup>10</sup> km<sup>2</sup><br/>(60.524 Yrths)
         volume: 5.100 × 10<sup>14</sup> km<sup>3</sup><br/>(470.854 Yrths)
-        mass: 1.203 × 10<sup>27</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 1.203 × 10<sup>27</sup> kg<br />(201.400 Yrths)
         density: 2.358 g/cm<sup>3</sup>
         surface_gravity: 32.633 m/s<sup>2</sup><br />(3.328 g<sub>0</sub>)
         escape_velocity: 56.914 km/s<br />(204,892 km/h)
         rotation_period: 39.252 d
         axial_tilt: 18.29°
         albedo: 0.30
-        temperature: 151 K<br />(-122 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II h
         type: Rocky
         formationType: Captured
@@ -252,14 +252,14 @@ planets:
         radius: 45,299.5 km<br/>(7.110 Yrths)
         surface_area: 2.579 × 10<sup>10</sup> km<sup>2</sup><br/>(50.556 Yrths)
         volume: 3.894 × 10<sup>14</sup> km<sup>3</sup><br/>(359.466 Yrths)
-        mass: 1.402 × 10<sup>27</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 1.402 × 10<sup>27</sup> kg<br />(234.721 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 45.530 m/s<sup>2</sup><br />(4.643 g<sub>0</sub>)
         escape_velocity: 64.270 km/s<br />(231,371 km/h)
         rotation_period: 28.479 d
         axial_tilt: 16.37°
         albedo: 0.30
-        temperature: 131 K<br />(-142 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II i
         type: Icy
         formationType: Accreted
@@ -272,14 +272,14 @@ planets:
         radius: 51,847.0 km<br/>(8.138 Yrths)
         surface_area: 3.378 × 10<sup>10</sup> km<sup>2</sup><br/>(66.227 Yrths)
         volume: 5.838 × 10<sup>14</sup> km<sup>3</sup><br/>(538.950 Yrths)
-        mass: 1.109 × 10<sup>27</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 1.109 × 10<sup>27</sup> kg<br />(185.735 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 27.503 m/s<sup>2</sup><br />(2.805 g<sub>0</sub>)
         escape_velocity: 53.440 km/s<br />(192,382 km/h)
         rotation_period: 51.396 d
         axial_tilt: 22.44°
         albedo: 0.30
-        temperature: 114 K<br />(-159 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -292,14 +292,14 @@ planets:
         radius: 68,564.4 km<br/>(10.762 Yrths)
         surface_area: 5.908 × 10<sup>10</sup> km<sup>2</sup><br/>(115.819 Yrths)
         volume: 1.350 × 10<sup>15</sup> km<sup>3</sup><br/>(1246.443 Yrths)
-        mass: 2.359 × 10<sup>27</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 2.359 × 10<sup>27</sup> kg<br />(394.948 Yrths)
         density: 1.747 g/cm<sup>3</sup>
         surface_gravity: 33.441 m/s<sup>2</sup><br />(3.410 g<sub>0</sub>)
         escape_velocity: 67.764 km/s<br />(243,950 km/h)
         rotation_period: 40.571 d
         axial_tilt: 20.89°
         albedo: 0.30
-        temperature: 99 K<br />(-175 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 37 Athiad II k
         type: Icy
         formationType: Captured
@@ -312,14 +312,14 @@ planets:
         radius: 56,238.4 km<br/>(8.827 Yrths)
         surface_area: 3.974 × 10<sup>10</sup> km<sup>2</sup><br/>(77.920 Yrths)
         volume: 7.451 × 10<sup>14</sup> km<sup>3</sup><br/>(687.824 Yrths)
-        mass: 1.224 × 10<sup>27</sup> kg<br />(85.61204905796329 Yrths)
+        mass: 1.224 × 10<sup>27</sup> kg<br />(205.010 Yrths)
         density: 1.643 g/cm<sup>3</sup>
         surface_gravity: 25.801 m/s<sup>2</sup><br />(2.631 g<sub>0</sub>)
         escape_velocity: 53.907 km/s<br />(194,067 km/h)
         rotation_period: 63.175 d
         axial_tilt: 20.52°
         albedo: 0.30
-        temperature: 94 K<br />(-179 °C)
+        temperature: 159 K<br />(-114 °C)
   - name: 37 Athiad III
     type: Gas giant
     aphelion: 1,669,084,770 km<br />11.157 AU
@@ -331,7 +331,7 @@ planets:
     radius: 154.7 km<br/>(0.024 Yrths)
     surface_area: 3.007 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.550 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.343 × 10<sup>26</sup> kg<br />(55.97771908544471 Yrths)
+    mass: 3.343 × 10<sup>26</sup> kg<br />(55.98 Yrths)
     density: 21563978.851 g/cm<sup>3</sup>
     surface_gravity: 931263.876 m/s<sup>2</sup><br />(94962.487 g<sub>0</sub>)
     escape_velocity: 537.113 km/s<br />(1,933,607 km/h)
@@ -352,15 +352,35 @@ planets:
         radius: 46,927.0 km<br/>(7.366 Yrths)
         surface_area: 2.767 × 10<sup>10</sup> km<sup>2</sup><br/>(54.254 Yrths)
         volume: 4.329 × 10<sup>14</sup> km<sup>3</sup><br/>(399.620 Yrths)
-        mass: 5.848 × 10<sup>26</sup> kg<br />(55.97771908544471 Yrths)
+        mass: 5.848 × 10<sup>26</sup> kg<br />(97.929 Yrths)
         density: 1.351 g/cm<sup>3</sup>
         surface_gravity: 17.701 m/s<sup>2</sup><br />(1.805 g<sub>0</sub>)
         escape_velocity: 40.787 km/s<br />(146,833 km/h)
         rotation_period: 45.130 d
         axial_tilt: 12.55°
         albedo: 0.30
-        temperature: 782 K<br />(509 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 37 Athiad III b
+        type: Icy
+        formationType: Accreted
+        aphelion: 88,925,584 km<br />
+        perihelion: 75,472,968 km<br />
+        semi_major_axis: 82,199,276 km<br />
+        eccentricity: 0.082
+        orbital_period: 0.25 d<br />
+        inclination: 1.92°
+        radius: 49,670.5 km<br/>(7.796 Yrths)
+        surface_area: 3.100 × 10<sup>10</sup> km<sup>2</sup><br/>(60.783 Yrths)
+        volume: 5.133 × 10<sup>14</sup> km<sup>3</sup><br/>(473.886 Yrths)
+        mass: 4.780 × 10<sup>26</sup> kg<br />(80.048 Yrths)
+        density: 0.931 g/cm<sup>3</sup>
+        surface_gravity: 12.915 m/s<sup>2</sup><br />(1.317 g<sub>0</sub>)
+        escape_velocity: 35.843 km/s<br />(129,035 km/h)
+        rotation_period: 75.253 d
+        axial_tilt: 7.38°
+        albedo: 0.30
+        temperature: 114 K<br />(-159 °C)
+      - name: 37 Athiad III c
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 98,425,387 km<br />
@@ -372,34 +392,14 @@ planets:
         radius: 52,330.3 km<br/>(8.214 Yrths)
         surface_area: 3.441 × 10<sup>10</sup> km<sup>2</sup><br/>(67.467 Yrths)
         volume: 6.003 × 10<sup>14</sup> km<sup>3</sup><br/>(554.162 Yrths)
-        mass: 1.300 × 10<sup>27</sup> kg<br />(55.97771908544471 Yrths)
+        mass: 1.300 × 10<sup>27</sup> kg<br />(217.735 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 31.649 m/s<sup>2</sup><br />(3.227 g<sub>0</sub>)
         escape_velocity: 57.592 km/s<br />(207,333 km/h)
         rotation_period: 43.222 d
         axial_tilt: 15.75°
         albedo: 0.30
-        temperature: 463 K<br />(190 °C)
-      - name: 37 Athiad III c
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 170,160,482 km<br />
-        perihelion: 150,205,789 km<br />
-        semi_major_axis: 160,183,135 km<br />
-        eccentricity: 0.062
-        orbital_period: 0.25 d<br />
-        inclination: 3.59°
-        radius: 15,634.5 km<br/>(2.454 Yrths)
-        surface_area: 3.072 × 10<sup>09</sup> km<sup>2</sup><br/>(6.022 Yrths)
-        volume: 1.601 × 10<sup>13</sup> km<sup>3</sup><br/>(14.778 Yrths)
-        mass: 3.630 × 10<sup>25</sup> kg<br />(55.97771908544471 Yrths)
-        density: 2.268 g/cm<sup>3</sup>
-        surface_gravity: 9.899 m/s<sup>2</sup><br />(1.009 g<sub>0</sub>)
-        escape_velocity: 17.606 km/s<br />(63,380 km/h)
-        rotation_period: 38.582 d
-        axial_tilt: 24.97°
-        albedo: 0.30
-        temperature: 348 K<br />(75 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 37 Athiad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -412,14 +412,14 @@ planets:
         radius: 77,971.0 km<br/>(12.238 Yrths)
         surface_area: 7.640 × 10<sup>10</sup> km<sup>2</sup><br/>(149.779 Yrths)
         volume: 1.986 × 10<sup>15</sup> km<sup>3</sup><br/>(1833.059 Yrths)
-        mass: 3.793 × 10<sup>27</sup> kg<br />(55.97771908544471 Yrths)
+        mass: 3.793 × 10<sup>27</sup> kg<br />(635.176 Yrths)
         density: 1.910 g/cm<sup>3</sup>
         surface_gravity: 41.588 m/s<sup>2</sup><br />(4.241 g<sub>0</sub>)
         escape_velocity: 80.586 km/s<br />(290,109 km/h)
         rotation_period: 41.564 d
         axial_tilt: 17.52°
         albedo: 0.30
-        temperature: 302 K<br />(28 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 37 Athiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -432,14 +432,14 @@ planets:
         radius: 41,371.1 km<br/>(6.494 Yrths)
         surface_area: 2.151 × 10<sup>10</sup> km<sup>2</sup><br/>(42.168 Yrths)
         volume: 2.966 × 10<sup>14</sup> km<sup>3</sup><br/>(273.822 Yrths)
-        mass: 6.298 × 10<sup>26</sup> kg<br />(55.97771908544471 Yrths)
+        mass: 6.298 × 10<sup>26</sup> kg<br />(105.452 Yrths)
         density: 2.123 g/cm<sup>3</sup>
         surface_gravity: 24.524 m/s<sup>2</sup><br />(2.501 g<sub>0</sub>)
         escape_velocity: 45.077 km/s<br />(162,278 km/h)
         rotation_period: 63.120 d
         axial_tilt: 12.13°
         albedo: 0.30
-        temperature: 274 K<br />(1 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 37 Athiad III f
         type: Icy
         formationType: Captured
@@ -452,14 +452,14 @@ planets:
         radius: 60,399.3 km<br/>(9.480 Yrths)
         surface_area: 4.584 × 10<sup>10</sup> km<sup>2</sup><br/>(89.877 Yrths)
         volume: 9.230 × 10<sup>14</sup> km<sup>3</sup><br/>(852.064 Yrths)
-        mass: 1.360 × 10<sup>27</sup> kg<br />(55.97771908544471 Yrths)
+        mass: 1.360 × 10<sup>27</sup> kg<br />(227.651 Yrths)
         density: 1.473 g/cm<sup>3</sup>
         surface_gravity: 24.839 m/s<sup>2</sup><br />(2.533 g<sub>0</sub>)
         escape_velocity: 54.815 km/s<br />(197,333 km/h)
         rotation_period: 43.396 d
         axial_tilt: 23.08°
         albedo: 0.30
-        temperature: 187 K<br />(-86 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 37 Athiad III g
         type: Icy
         formationType: Accreted
@@ -472,15 +472,55 @@ planets:
         radius: 49,434.7 km<br/>(7.759 Yrths)
         surface_area: 3.071 × 10<sup>10</sup> km<sup>2</sup><br/>(60.207 Yrths)
         volume: 5.060 × 10<sup>14</sup> km<sup>3</sup><br/>(467.168 Yrths)
-        mass: 6.331 × 10<sup>26</sup> kg<br />(55.97771908544471 Yrths)
+        mass: 6.331 × 10<sup>26</sup> kg<br />(106.018 Yrths)
         density: 1.251 g/cm<sup>3</sup>
         surface_gravity: 17.268 m/s<sup>2</sup><br />(1.761 g<sub>0</sub>)
         escape_velocity: 41.348 km/s<br />(148,852 km/h)
         rotation_period: 56.813 d
         axial_tilt: 10.52°
         albedo: 0.30
-        temperature: 162 K<br />(-111 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 37 Athiad III h
+        type: Icy
+        formationType: Accreted
+        aphelion: 1,316,628,193 km<br />
+        perihelion: 838,635,877 km<br />
+        semi_major_axis: 1,077,632,035 km<br />
+        eccentricity: 0.222
+        orbital_period: 0.25 d<br />
+        inclination: 10.34°
+        radius: 41,465.7 km<br/>(6.509 Yrths)
+        surface_area: 2.161 × 10<sup>10</sup> km<sup>2</sup><br/>(42.361 Yrths)
+        volume: 2.986 × 10<sup>14</sup> km<sup>3</sup><br/>(275.704 Yrths)
+        mass: 4.434 × 10<sup>26</sup> kg<br />(74.243 Yrths)
+        density: 1.485 g/cm<sup>3</sup>
+        surface_gravity: 17.188 m/s<sup>2</sup><br />(1.753 g<sub>0</sub>)
+        escape_velocity: 37.780 km/s<br />(136,008 km/h)
+        rotation_period: 60.922 d
+        axial_tilt: 18.84°
+        albedo: 0.30
+        temperature: 114 K<br />(-159 °C)
+      - name: 37 Athiad III i
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 1,464,321,798 km<br />
+        perihelion: 906,468,679 km<br />
+        semi_major_axis: 1,185,395,239 km<br />
+        eccentricity: 0.235
+        orbital_period: 0.25 d<br />
+        inclination: 44.09°
+        radius: 36,986.2 km<br/>(5.805 Yrths)
+        surface_area: 1.719 × 10<sup>10</sup> km<sup>2</sup><br/>(33.703 Yrths)
+        volume: 2.119 × 10<sup>14</sup> km<sup>3</sup><br/>(195.657 Yrths)
+        mass: 4.130 × 10<sup>26</sup> kg<br />(69.156 Yrths)
+        density: 1.949 g/cm<sup>3</sup>
+        surface_gravity: 20.123 m/s<sup>2</sup><br />(2.052 g<sub>0</sub>)
+        escape_velocity: 38.608 km/s<br />(138,988 km/h)
+        rotation_period: 47.771 d
+        axial_tilt: 22.48°
+        albedo: 0.30
+        temperature: 114 K<br />(-159 °C)
+      - name: 37 Athiad III j
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 1,673,669,982 km<br />
@@ -492,15 +532,35 @@ planets:
         radius: 42,707.8 km<br/>(6.703 Yrths)
         surface_area: 2.292 × 10<sup>10</sup> km<sup>2</sup><br/>(44.937 Yrths)
         volume: 3.263 × 10<sup>14</sup> km<sup>3</sup><br/>(301.231 Yrths)
-        mass: 6.110 × 10<sup>26</sup> kg<br />(55.97771908544471 Yrths)
+        mass: 6.110 × 10<sup>26</sup> kg<br />(102.306 Yrths)
         density: 1.872 g/cm<sup>3</sup>
         surface_gravity: 22.327 m/s<sup>2</sup><br />(2.277 g<sub>0</sub>)
         escape_velocity: 43.699 km/s<br />(157,317 km/h)
         rotation_period: 37.038 d
         axial_tilt: 23.37°
         albedo: 0.30
-        temperature: 122 K<br />(-151 °C)
-      - name: 37 Athiad III i
+        temperature: 114 K<br />(-159 °C)
+      - name: 37 Athiad III k
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 1,652,540,104 km<br />
+        perihelion: 1,502,982,022 km<br />
+        semi_major_axis: 1,577,761,063 km<br />
+        eccentricity: 0.047
+        orbital_period: 0.25 d<br />
+        inclination: 1.49°
+        radius: 36,801.5 km<br/>(5.776 Yrths)
+        surface_area: 1.702 × 10<sup>10</sup> km<sup>2</sup><br/>(33.367 Yrths)
+        volume: 2.088 × 10<sup>14</sup> km<sup>3</sup><br/>(192.741 Yrths)
+        mass: 4.459 × 10<sup>26</sup> kg<br />(74.661 Yrths)
+        density: 2.136 g/cm<sup>3</sup>
+        surface_gravity: 21.943 m/s<sup>2</sup><br />(2.238 g<sub>0</sub>)
+        escape_velocity: 40.215 km/s<br />(144,775 km/h)
+        rotation_period: 42.241 d
+        axial_tilt: 8.18°
+        albedo: 0.30
+        temperature: 114 K<br />(-159 °C)
+      - name: 37 Athiad III l
         type: Icy
         formationType: Captured
         aphelion: 2,675,503,648 km<br />
@@ -512,12 +572,12 @@ planets:
         radius: 61,604.6 km<br/>(9.670 Yrths)
         surface_area: 4.769 × 10<sup>10</sup> km<sup>2</sup><br/>(93.500 Yrths)
         volume: 9.793 × 10<sup>14</sup> km<sup>3</sup><br/>(904.100 Yrths)
-        mass: 1.327 × 10<sup>27</sup> kg<br />(55.97771908544471 Yrths)
+        mass: 1.327 × 10<sup>27</sup> kg<br />(222.126 Yrths)
         density: 1.355 g/cm<sup>3</sup>
         surface_gravity: 23.297 m/s<sup>2</sup><br />(2.376 g<sub>0</sub>)
         escape_velocity: 53.613 km/s<br />(193,007 km/h)
         rotation_period: 72.897 d
         axial_tilt: 21.48°
         albedo: 0.30
-        temperature: 87 K<br />(-186 °C)
+        temperature: 114 K<br />(-159 °C)
 ---

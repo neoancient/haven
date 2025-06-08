@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2552 Athiad A is a star in the constellation Ath
+      2552 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 341.03 ly
 apparent_magnitude: 8.52
 absolute_magnitude: 3.42

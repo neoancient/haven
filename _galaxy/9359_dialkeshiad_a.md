@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9359 Dialkeshiad A is a star in the constellation Dialkes
+      9359 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1064.10 ly
 apparent_magnitude: 6.68
 absolute_magnitude: -0.89

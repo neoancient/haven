@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4611 Tanashad is a star in the constellation Tanas
+      4611 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 280.55 ly
 apparent_magnitude: 9.63
 absolute_magnitude: 4.96

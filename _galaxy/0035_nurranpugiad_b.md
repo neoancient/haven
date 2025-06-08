@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0035 Nurranpugiad B is a star in the constellation Nurranpug
+      0035 Nurranpugiad B is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 165.93 ly
 apparent_magnitude: 9.40
 absolute_magnitude: 5.87

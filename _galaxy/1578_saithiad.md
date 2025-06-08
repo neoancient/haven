@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1578 Saithiad is a star in the constellation Saith
+      1578 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 2185.61 ly
 apparent_magnitude: 18.07
 absolute_magnitude: 8.94

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      430 Geardiad is a star in the constellation Geard
+      430 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 433.04 ly
 apparent_magnitude: 9.25
 absolute_magnitude: 3.64

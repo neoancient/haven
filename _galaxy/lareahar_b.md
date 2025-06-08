@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Lareahar B is a star in the constellation Shy
+      Lareahar B is a star in the constellation <a href="shy.html">Shy</a>
 distance: 738.50 ly
 apparent_magnitude: 14.46
 absolute_magnitude: 7.68

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0025 Orshenniad A is a star in the constellation Orshen
+      0025 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 227.33 ly
 apparent_magnitude: 5.93
 absolute_magnitude: 1.71

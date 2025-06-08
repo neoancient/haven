@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0192 Rukentuaiad is a star in the constellation Rukentua
+      0192 Rukentuaiad is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 12.75 ly
 apparent_magnitude: 5.67
 absolute_magnitude: 7.71
@@ -31,14 +31,14 @@ planets:
     radius: 16,023.8 km<br/>(2.515 Yrths)
     surface_area: 3.227 × 10<sup>09</sup> km<sup>2</sup><br/>(6.326 Yrths)
     volume: 1.723 × 10<sup>13</sup> km<sup>3</sup><br/>(15.910 Yrths)
-    mass: 5.111 × 10<sup>25</sup> kg<br />(8.55758551715393 Yrths)
+    mass: 5.111 × 10<sup>25</sup> kg<br />(8.56 Yrths)
     density: 2.965 g/cm<sup>3</sup>
     surface_gravity: 13.266 m/s<sup>2</sup><br />(1.353 g<sub>0</sub>)
     escape_velocity: 20.633 km/s<br />(74,280 km/h)
     rotation_period: 1.354 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 423 K<br />(150 °C)
+    temperature: 370 K<br />(97 °C)
     composition:
       - 86.5543% hydrogen
       - 9.9354% helium
@@ -58,14 +58,14 @@ planets:
         radius: 2,903.7 km<br/>(0.456 Yrths)
         surface_area: 1.060 × 10<sup>08</sup> km<sup>2</sup><br/>(0.208 Yrths)
         volume: 1.026 × 10<sup>11</sup> km<sup>3</sup><br/>(0.095 Yrths)
-        mass: 1.500 × 10<sup>23</sup> kg<br />(8.55758551715393 Yrths)
+        mass: 1.500 × 10<sup>23</sup> kg<br />(0.025 Yrths)
         density: 1.463 g/cm<sup>3</sup>
         surface_gravity: 1.186 m/s<sup>2</sup><br />(0.121 g<sub>0</sub>)
         escape_velocity: 2.626 km/s<br />(9,454 km/h)
         rotation_period: 44.403 d
         axial_tilt: 24.56°
         albedo: 0.30
-        temperature: 2906 K<br />(2633 °C)
+        temperature: 320 K<br />(46 °C)
       - name: 0192 Rukentuaiad I b
         type: Rocky
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 8,617.6 km<br/>(1.353 Yrths)
         surface_area: 9.332 × 10<sup>08</sup> km<sup>2</sup><br/>(1.830 Yrths)
         volume: 2.681 × 10<sup>12</sup> km<sup>3</sup><br/>(2.475 Yrths)
-        mass: 9.651 × 10<sup>24</sup> kg<br />(8.55758551715393 Yrths)
+        mass: 9.651 × 10<sup>24</sup> kg<br />(1.616 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 8.662 m/s<sup>2</sup><br />(0.883 g<sub>0</sub>)
         escape_velocity: 12.226 km/s<br />(44,015 km/h)
         rotation_period: 27.321 d
         axial_tilt: 17.87°
         albedo: 0.30
-        temperature: 2771 K<br />(2498 °C)
+        temperature: 320 K<br />(46 °C)
       - name: 0192 Rukentuaiad I c
         type: Rocky
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 8,643.7 km<br/>(1.357 Yrths)
         surface_area: 9.389 × 10<sup>08</sup> km<sup>2</sup><br/>(1.841 Yrths)
         volume: 2.705 × 10<sup>12</sup> km<sup>3</sup><br/>(2.497 Yrths)
-        mass: 7.505 × 10<sup>24</sup> kg<br />(8.55758551715393 Yrths)
+        mass: 7.505 × 10<sup>24</sup> kg<br />(1.257 Yrths)
         density: 2.774 g/cm<sup>3</sup>
         surface_gravity: 6.696 m/s<sup>2</sup><br />(0.683 g<sub>0</sub>)
         escape_velocity: 10.766 km/s<br />(38,757 km/h)
         rotation_period: 46.924 d
         axial_tilt: 15.15°
         albedo: 0.30
-        temperature: 2642 K<br />(2369 °C)
+        temperature: 320 K<br />(46 °C)
       - name: 0192 Rukentuaiad I d
         type: Icy
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 2,455.8 km<br/>(0.385 Yrths)
         surface_area: 7.579 × 10<sup>07</sup> km<sup>2</sup><br/>(0.149 Yrths)
         volume: 6.204 × 10<sup>10</sup> km<sup>3</sup><br/>(0.057 Yrths)
-        mass: 1.133 × 10<sup>23</sup> kg<br />(8.55758551715393 Yrths)
+        mass: 1.133 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 1.826 g/cm<sup>3</sup>
         surface_gravity: 1.252 m/s<sup>2</sup><br />(0.128 g<sub>0</sub>)
         escape_velocity: 2.482 km/s<br />(8,934 km/h)
         rotation_period: 53.332 d
         axial_tilt: 24.06°
         albedo: 0.30
-        temperature: 2519 K<br />(2246 °C)
+        temperature: 320 K<br />(46 °C)
   - name: 0192 Rukentuaiad II
     type: Terrestrial
     aphelion: 51,227,959 km<br />0.342 AU
@@ -137,14 +137,14 @@ planets:
     radius: 6,269.8 km<br/>(0.984 Yrths)
     surface_area: 4.940 × 10<sup>08</sup> km<sup>2</sup><br/>(0.968 Yrths)
     volume: 1.032 × 10<sup>12</sup> km<sup>3</sup><br/>(0.953 Yrths)
-    mass: 4.811 × 10<sup>24</sup> kg<br />(0.8055478663156652 Yrths)
+    mass: 4.811 × 10<sup>24</sup> kg<br />(0.81 Yrths)
     density: 4.660 g/cm<sup>3</sup>
     surface_gravity: 8.157 m/s<sup>2</sup><br />(0.832 g<sub>0</sub>)
     escape_velocity: 10.120 km/s<br />(36,433 km/h)
     rotation_period: 2.217 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 373 K<br />(100 °C)
+    temperature: 1128 K<br />(855 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 100.0000% carbon dioxide
@@ -161,12 +161,12 @@ planets:
         radius: 2,126.7 km<br/>(0.334 Yrths)
         surface_area: 5.684 × 10<sup>07</sup> km<sup>2</sup><br/>(0.111 Yrths)
         volume: 4.029 × 10<sup>10</sup> km<sup>3</sup><br/>(0.037 Yrths)
-        mass: 1.127 × 10<sup>23</sup> kg<br />(0.8055478663156652 Yrths)
+        mass: 1.127 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 2.798 g/cm<sup>3</sup>
         surface_gravity: 1.661 m/s<sup>2</sup><br />(0.169 g<sub>0</sub>)
         escape_velocity: 2.660 km/s<br />(9,576 km/h)
         rotation_period: 51.443 d
         axial_tilt: 22.58°
         albedo: 0.30
-        temperature: 4642 K<br />(4368 °C)
+        temperature: 259 K<br />(-14 °C)
 ---

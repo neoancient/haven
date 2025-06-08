@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      853 Geardiad is a star in the constellation Geard
+      853 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1058.32 ly
 apparent_magnitude: 9.49
 absolute_magnitude: 1.93

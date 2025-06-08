@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5036 Noniashad A is a star in the constellation Nonias
+      5036 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 264.97 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 3.60

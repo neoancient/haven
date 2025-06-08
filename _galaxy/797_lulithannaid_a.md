@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      797 Lulithannaid A is a star in the constellation Lulithan
+      797 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 351.72 ly
 apparent_magnitude: 6.99
 absolute_magnitude: 1.82

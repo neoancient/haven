@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6203 Shanniashiad is a star in the constellation Shannias
+      6203 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 484.42 ly
 apparent_magnitude: 11.68
 absolute_magnitude: 5.82

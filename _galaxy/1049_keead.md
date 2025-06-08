@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1049 Keead is a star in the constellation Kee
+      1049 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 236.25 ly
 apparent_magnitude: 17.39
 absolute_magnitude: 13.09

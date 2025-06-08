@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4450 Dialkeshiad is a star in the constellation Dialkes
+      4450 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 633.92 ly
 apparent_magnitude: 7.18
 absolute_magnitude: 0.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      143 Reggiad is a star in the constellation Reg
+      143 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 549.03 ly
 apparent_magnitude: 10.58
 absolute_magnitude: 4.45

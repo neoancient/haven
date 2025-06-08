@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1974 Saithiad is a star in the constellation Saith
+      1974 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 558.38 ly
 apparent_magnitude: 11.45
 absolute_magnitude: 5.29

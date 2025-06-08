@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      704 Saithiad is a star in the constellation Saith
+      704 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 336.80 ly
 apparent_magnitude: 10.09
 absolute_magnitude: 5.02

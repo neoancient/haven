@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4533 Athiad A is a star in the constellation Ath
+      4533 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 255.51 ly
 apparent_magnitude: 6.88
 absolute_magnitude: 2.41

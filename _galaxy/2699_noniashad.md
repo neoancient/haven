@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2699 Noniashad is a star in the constellation Nonias
+      2699 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 825.19 ly
 apparent_magnitude: 6.51
 absolute_magnitude: -0.50
@@ -31,7 +31,7 @@ planets:
     radius: 9,192.0 km<br/>(1.443 Yrths)
     surface_area: 1.062 × 10<sup>09</sup> km<sup>2</sup><br/>(2.082 Yrths)
     volume: 3.253 × 10<sup>12</sup> km<sup>3</sup><br/>(3.003 Yrths)
-    mass: 1.387 × 10<sup>25</sup> kg<br />(2.3219288307902053 Yrths)
+    mass: 1.387 × 10<sup>25</sup> kg<br />(2.32 Yrths)
     density: 4.262 g/cm<sup>3</sup>
     surface_gravity: 10.939 m/s<sup>2</sup><br />(1.115 g<sub>0</sub>)
     escape_velocity: 14.190 km/s<br />(51,086 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 7,260.7 km<br/>(1.140 Yrths)
         surface_area: 6.625 × 10<sup>08</sup> km<sup>2</sup><br/>(1.299 Yrths)
         volume: 1.603 × 10<sup>12</sup> km<sup>3</sup><br/>(1.480 Yrths)
-        mass: 1.963 × 10<sup>24</sup> kg<br />(2.3219288307902053 Yrths)
+        mass: 1.963 × 10<sup>24</sup> kg<br />(0.329 Yrths)
         density: 1.224 g/cm<sup>3</sup>
         surface_gravity: 2.482 m/s<sup>2</sup><br />(0.253 g<sub>0</sub>)
         escape_velocity: 6.008 km/s<br />(21,627 km/h)
         rotation_period: 58.459 d
         axial_tilt: 14.41°
         albedo: 0.30
-        temperature: 4420 K<br />(4147 °C)
+        temperature: 312 K<br />(39 °C)
   - name: 2699 Noniashad II
     type: Gas giant
     aphelion: 2,896,999,197 km<br />19.365 AU
@@ -71,7 +71,7 @@ planets:
     radius: 276.7 km<br/>(0.043 Yrths)
     surface_area: 9.623 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 8.877 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.075 × 10<sup>27</sup> kg<br />(682.3875717655741 Yrths)
+    mass: 4.075 × 10<sup>27</sup> kg<br />(682.39 Yrths)
     density: 45907827.292 g/cm<sup>3</sup>
     surface_gravity: 3546908.253 m/s<sup>2</sup><br />(361683.985 g<sub>0</sub>)
     escape_velocity: 1402.052 km/s<br />(5,047,386 km/h)
@@ -92,14 +92,14 @@ planets:
         radius: 427,120.0 km<br/>(67.041 Yrths)
         surface_area: 2.293 × 10<sup>12</sup> km<sup>2</sup><br/>(4494.534 Yrths)
         volume: 3.264 × 10<sup>17</sup> km<sup>3</sup><br/>(301319.311 Yrths)
-        mass: 3.410 × 10<sup>29</sup> kg<br />(682.3875717655741 Yrths)
+        mass: 3.410 × 10<sup>29</sup> kg<br />(57099.150 Yrths)
         density: 1.045 g/cm<sup>3</sup>
         surface_gravity: 124.585 m/s<sup>2</sup><br />(12.704 g<sub>0</sub>)
         escape_velocity: 326.451 km/s<br />(1,175,223 km/h)
         rotation_period: 58.135 d
         axial_tilt: 13.36°
         albedo: 0.30
-        temperature: 774 K<br />(501 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 2699 Noniashad II b
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 413,927.8 km<br/>(64.971 Yrths)
         surface_area: 2.153 × 10<sup>12</sup> km<sup>2</sup><br/>(4221.182 Yrths)
         volume: 2.971 × 10<sup>17</sup> km<sup>3</sup><br/>(274252.784 Yrths)
-        mass: 4.182 × 10<sup>29</sup> kg<br />(682.3875717655741 Yrths)
+        mass: 4.182 × 10<sup>29</sup> kg<br />(70033.845 Yrths)
         density: 1.408 g/cm<sup>3</sup>
         surface_gravity: 162.703 m/s<sup>2</sup><br />(16.591 g<sub>0</sub>)
         escape_velocity: 367.256 km/s<br />(1,322,123 km/h)
         rotation_period: 60.187 d
         axial_tilt: 18.75°
         albedo: 0.30
-        temperature: 703 K<br />(430 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 2699 Noniashad II c
         type: Icy
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 404,939.5 km<br/>(63.560 Yrths)
         surface_area: 2.061 × 10<sup>12</sup> km<sup>2</sup><br/>(4039.849 Yrths)
         volume: 2.781 × 10<sup>17</sup> km<sup>3</sup><br/>(256771.996 Yrths)
-        mass: 3.910 × 10<sup>29</sup> kg<br />(682.3875717655741 Yrths)
+        mass: 3.910 × 10<sup>29</sup> kg<br />(65472.883 Yrths)
         density: 1.406 g/cm<sup>3</sup>
         surface_gravity: 158.934 m/s<sup>2</sup><br />(16.207 g<sub>0</sub>)
         escape_velocity: 359.016 km/s<br />(1,292,456 km/h)
         rotation_period: 44.995 d
         axial_tilt: 14.25°
         albedo: 0.30
-        temperature: 480 K<br />(207 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 2699 Noniashad II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -152,14 +152,14 @@ planets:
         radius: 371,170.3 km<br/>(58.259 Yrths)
         surface_area: 1.731 × 10<sup>12</sup> km<sup>2</sup><br/>(3394.152 Yrths)
         volume: 2.142 × 10<sup>17</sup> km<sup>3</sup><br/>(197741.050 Yrths)
-        mass: 5.029 × 10<sup>29</sup> kg<br />(682.3875717655741 Yrths)
+        mass: 5.029 × 10<sup>29</sup> kg<br />(84212.415 Yrths)
         density: 2.348 g/cm<sup>3</sup>
         surface_gravity: 243.313 m/s<sup>2</sup><br />(24.811 g<sub>0</sub>)
         escape_velocity: 425.284 km/s<br />(1,531,023 km/h)
         rotation_period: 52.989 d
         axial_tilt: 14.44°
         albedo: 0.30
-        temperature: 458 K<br />(185 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 2699 Noniashad II e
         type: Dwarf planet
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 380,859.5 km<br/>(59.780 Yrths)
         surface_area: 1.823 × 10<sup>12</sup> km<sup>2</sup><br/>(3573.669 Yrths)
         volume: 2.314 × 10<sup>17</sup> km<sup>3</sup><br/>(213634.524 Yrths)
-        mass: 3.931 × 10<sup>29</sup> kg<br />(682.3875717655741 Yrths)
+        mass: 3.931 × 10<sup>29</sup> kg<br />(65828.488 Yrths)
         density: 1.699 g/cm<sup>3</sup>
         surface_gravity: 180.643 m/s<sup>2</sup><br />(18.420 g<sub>0</sub>)
         escape_velocity: 371.195 km/s<br />(1,336,303 km/h)
         rotation_period: 44.427 d
         axial_tilt: 12.10°
         albedo: 0.30
-        temperature: 298 K<br />(25 °C)
+        temperature: 206 K<br />(-67 °C)
       - name: 2699 Noniashad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -192,12 +192,12 @@ planets:
         radius: 441,694.3 km<br/>(69.329 Yrths)
         surface_area: 2.452 × 10<sup>12</sup> km<sup>2</sup><br/>(4806.493 Yrths)
         volume: 3.610 × 10<sup>17</sup> km<sup>3</sup><br/>(333228.805 Yrths)
-        mass: 7.409 × 10<sup>29</sup> kg<br />(682.3875717655741 Yrths)
+        mass: 7.409 × 10<sup>29</sup> kg<br />(124062.594 Yrths)
         density: 2.053 g/cm<sup>3</sup>
         surface_gravity: 253.124 m/s<sup>2</sup><br />(25.811 g<sub>0</sub>)
         escape_velocity: 473.192 km/s<br />(1,703,491 km/h)
         rotation_period: 60.664 d
         axial_tilt: 15.68°
         albedo: 0.30
-        temperature: 121 K<br />(-153 °C)
+        temperature: 206 K<br />(-67 °C)
 ---

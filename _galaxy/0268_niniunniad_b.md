@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0268 Niniunniad B is a star in the constellation Niniun
+      0268 Niniunniad B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 915.58 ly
 apparent_magnitude: 15.18
 absolute_magnitude: 7.94

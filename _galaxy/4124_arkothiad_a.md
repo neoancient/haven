@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4124 Arkothiad A is a star in the constellation Arkoth
+      4124 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 548.95 ly
 apparent_magnitude: 8.01
 absolute_magnitude: 1.88

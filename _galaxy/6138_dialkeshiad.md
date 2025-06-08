@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6138 Dialkeshiad is a star in the constellation Dialkes
+      6138 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 492.41 ly
 apparent_magnitude: 11.72
 absolute_magnitude: 5.82

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5264 Dialkeshiad is a star in the constellation Dialkes
+      5264 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 391.18 ly
 apparent_magnitude: 8.77
 absolute_magnitude: 3.37
@@ -31,14 +31,14 @@ planets:
     radius: 3,973.5 km<br/>(0.624 Yrths)
     surface_area: 1.984 × 10<sup>08</sup> km<sup>2</sup><br/>(0.389 Yrths)
     volume: 2.628 × 10<sup>11</sup> km<sup>3</sup><br/>(0.243 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.273 g/cm<sup>3</sup>
     surface_gravity: 2.521 m/s<sup>2</sup><br />(0.257 g<sub>0</sub>)
     escape_velocity: 4.479 km/s<br />(16,125 km/h)
     rotation_period: 1.403 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 339 K<br />(65 °C)
+    temperature: 294 K<br />(21 °C)
     composition:
       - 91.5937% hydrogen
       - 7.8450% helium
@@ -56,14 +56,14 @@ planets:
         radius: 536.4 km<br/>(0.084 Yrths)
         surface_area: 3.616 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.464 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 8.851 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 8.851 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.369 g/cm<sup>3</sup>
         surface_gravity: 0.205 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.469 km/s<br />(1,690 km/h)
         rotation_period: 42.746 d
         axial_tilt: 14.18°
         albedo: 0.30
-        temperature: 5162 K<br />(4889 °C)
+        temperature: 258 K<br />(-15 °C)
       - name: 5264 Dialkeshiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 1,129.2 km<br/>(0.177 Yrths)
         surface_area: 1.602 × 10<sup>07</sup> km<sup>2</sup><br/>(0.031 Yrths)
         volume: 6.031 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.180 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.180 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.956 g/cm<sup>3</sup>
         surface_gravity: 0.617 m/s<sup>2</sup><br />(0.063 g<sub>0</sub>)
         escape_velocity: 1.181 km/s<br />(4,251 km/h)
         rotation_period: 52.677 d
         axial_tilt: 24.62°
         albedo: 0.30
-        temperature: 4922 K<br />(4649 °C)
+        temperature: 258 K<br />(-15 °C)
       - name: 5264 Dialkeshiad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 292.7 km<br/>(0.046 Yrths)
         surface_area: 1.076 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 1.050 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.713 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.713 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.632 g/cm<sup>3</sup>
         surface_gravity: 0.133 m/s<sup>2</sup><br />(0.014 g<sub>0</sub>)
         escape_velocity: 0.280 km/s<br />(1,006 km/h)
         rotation_period: 49.781 d
         axial_tilt: 29.10°
         albedo: 0.30
-        temperature: 4693 K<br />(4420 °C)
+        temperature: 258 K<br />(-15 °C)
       - name: 5264 Dialkeshiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -116,12 +116,12 @@ planets:
         radius: 407.9 km<br/>(0.064 Yrths)
         surface_area: 2.090 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.842 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.657 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.657 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.991 g/cm<sup>3</sup>
         surface_gravity: 0.227 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.430 km/s<br />(1,549 km/h)
         rotation_period: 50.695 d
         axial_tilt: 14.86°
         albedo: 0.30
-        temperature: 4266 K<br />(3993 °C)
+        temperature: 258 K<br />(-15 °C)
 ---

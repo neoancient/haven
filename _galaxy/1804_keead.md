@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1804 Keead is a star in the constellation Kee
+      1804 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 451.16 ly
 apparent_magnitude: 8.43
 absolute_magnitude: 2.72

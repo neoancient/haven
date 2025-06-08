@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12015 Dialkeshiad is a star in the constellation Dialkes
+      12015 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 932.66 ly
 apparent_magnitude: 7.04
 absolute_magnitude: -0.24
@@ -31,14 +31,14 @@ planets:
     radius: 151.1 km<br/>(0.024 Yrths)
     surface_area: 2.870 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.446 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.104 × 10<sup>26</sup> kg<br />(51.97469235754302 Yrths)
+    mass: 3.104 × 10<sup>26</sup> kg<br />(51.97 Yrths)
     density: 21465709.644 g/cm<sup>3</sup>
     surface_gravity: 905751.862 m/s<sup>2</sup><br />(92360.986 g<sub>0</sub>)
     escape_velocity: 523.593 km/s<br />(1,884,936 km/h)
     rotation_period: 0.281 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1590 K<br />(1317 °C)
+    temperature: 1533 K<br />(1260 °C)
     composition:
       - 68.1044% hydrogen
       - 19.8431% helium
@@ -58,14 +58,14 @@ planets:
         radius: 62,167.4 km<br/>(9.758 Yrths)
         surface_area: 4.857 × 10<sup>10</sup> km<sup>2</sup><br/>(95.216 Yrths)
         volume: 1.006 × 10<sup>15</sup> km<sup>3</sup><br/>(929.106 Yrths)
-        mass: 2.230 × 10<sup>27</sup> kg<br />(51.97469235754302 Yrths)
+        mass: 2.230 × 10<sup>27</sup> kg<br />(373.459 Yrths)
         density: 2.216 g/cm<sup>3</sup>
         surface_gravity: 38.464 m/s<sup>2</sup><br />(3.922 g<sub>0</sub>)
         escape_velocity: 69.202 km/s<br />(249,127 km/h)
         rotation_period: 39.686 d
         axial_tilt: 12.90°
         albedo: 0.30
-        temperature: 2833 K<br />(2560 °C)
+        temperature: 382 K<br />(108 °C)
       - name: 12015 Dialkeshiad I b
         type: Icy
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 94,803.9 km<br/>(14.881 Yrths)
         surface_area: 1.129 × 10<sup>11</sup> km<sup>2</sup><br/>(221.430 Yrths)
         volume: 3.569 × 10<sup>15</sup> km<sup>3</sup><br/>(3295.004 Yrths)
-        mass: 3.805 × 10<sup>27</sup> kg<br />(51.97469235754302 Yrths)
+        mass: 3.805 × 10<sup>27</sup> kg<br />(637.138 Yrths)
         density: 1.066 g/cm<sup>3</sup>
         surface_gravity: 28.217 m/s<sup>2</sup><br />(2.877 g<sub>0</sub>)
         escape_velocity: 73.195 km/s<br />(263,502 km/h)
         rotation_period: 52.137 d
         axial_tilt: 14.20°
         albedo: 0.30
-        temperature: 1386 K<br />(1113 °C)
+        temperature: 382 K<br />(108 °C)
       - name: 12015 Dialkeshiad I c
         type: Icy
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 73,089.7 km<br/>(11.472 Yrths)
         surface_area: 6.713 × 10<sup>10</sup> km<sup>2</sup><br/>(131.612 Yrths)
         volume: 1.636 × 10<sup>15</sup> km<sup>3</sup><br/>(1509.889 Yrths)
-        mass: 2.817 × 10<sup>27</sup> kg<br />(51.97469235754302 Yrths)
+        mass: 2.817 × 10<sup>27</sup> kg<br />(471.619 Yrths)
         density: 1.722 g/cm<sup>3</sup>
         surface_gravity: 35.141 m/s<sup>2</sup><br />(3.583 g<sub>0</sub>)
         escape_velocity: 71.721 km/s<br />(258,195 km/h)
         rotation_period: 44.367 d
         axial_tilt: 18.08°
         albedo: 0.30
-        temperature: 1260 K<br />(987 °C)
+        temperature: 382 K<br />(108 °C)
       - name: 12015 Dialkeshiad I d
         type: Icy
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 86,824.9 km<br/>(13.628 Yrths)
         surface_area: 9.473 × 10<sup>10</sup> km<sup>2</sup><br/>(185.726 Yrths)
         volume: 2.742 × 10<sup>15</sup> km<sup>3</sup><br/>(2531.105 Yrths)
-        mass: 3.478 × 10<sup>27</sup> kg<br />(51.97469235754302 Yrths)
+        mass: 3.478 × 10<sup>27</sup> kg<br />(582.331 Yrths)
         density: 1.268 g/cm<sup>3</sup>
         surface_gravity: 30.748 m/s<sup>2</sup><br />(3.135 g<sub>0</sub>)
         escape_velocity: 73.121 km/s<br />(263,235 km/h)
         rotation_period: 51.388 d
         axial_tilt: 14.97°
         albedo: 0.30
-        temperature: 1146 K<br />(873 °C)
+        temperature: 382 K<br />(108 °C)
       - name: 12015 Dialkeshiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -138,34 +138,14 @@ planets:
         radius: 70,154.2 km<br/>(11.011 Yrths)
         surface_area: 6.185 × 10<sup>10</sup> km<sup>2</sup><br/>(121.253 Yrths)
         volume: 1.446 × 10<sup>15</sup> km<sup>3</sup><br/>(1335.175 Yrths)
-        mass: 2.673 × 10<sup>27</sup> kg<br />(51.97469235754302 Yrths)
+        mass: 2.673 × 10<sup>27</sup> kg<br />(447.517 Yrths)
         density: 1.848 g/cm<sup>3</sup>
         surface_gravity: 36.194 m/s<sup>2</sup><br />(3.691 g<sub>0</sub>)
         escape_velocity: 71.311 km/s<br />(256,719 km/h)
         rotation_period: 47.888 d
         axial_tilt: 10.11°
         albedo: 0.30
-        temperature: 561 K<br />(287 °C)
-      - name: 12015 Dialkeshiad I f
-        type: Icy
-        formationType: Accreted
-        aphelion: 904,297,543 km<br />
-        perihelion: 866,459,494 km<br />
-        semi_major_axis: 885,378,519 km<br />
-        eccentricity: 0.021
-        orbital_period: 0.08 d<br />
-        inclination: 5.29°
-        radius: 32,571.1 km<br/>(5.112 Yrths)
-        surface_area: 1.333 × 10<sup>10</sup> km<sup>2</sup><br/>(26.137 Yrths)
-        volume: 1.447 × 10<sup>14</sup> km<sup>3</sup><br/>(133.621 Yrths)
-        mass: 1.635 × 10<sup>26</sup> kg<br />(51.97469235754302 Yrths)
-        density: 1.130 g/cm<sup>3</sup>
-        surface_gravity: 10.272 m/s<sup>2</sup><br />(1.047 g<sub>0</sub>)
-        escape_velocity: 25.885 km/s<br />(93,187 km/h)
-        rotation_period: 77.466 d
-        axial_tilt: 17.06°
-        albedo: 0.30
-        temperature: 332 K<br />(59 °C)
+        temperature: 382 K<br />(108 °C)
   - name: 12015 Dialkeshiad II
     type: Gas giant
     aphelion: 1,517,074,706 km<br />10.141 AU
@@ -177,14 +157,14 @@ planets:
     radius: 236.3 km<br/>(0.037 Yrths)
     surface_area: 7.019 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.529 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.074 × 10<sup>27</sup> kg<br />(347.2686653216124 Yrths)
+    mass: 2.074 × 10<sup>27</sup> kg<br />(347.27 Yrths)
     density: 37506083.714 g/cm<sup>3</sup>
     surface_gravity: 2474788.586 m/s<sup>2</sup><br />(252358.204 g<sub>0</sub>)
     escape_velocity: 1082.293 km/s<br />(3,896,254 km/h)
     rotation_period: 0.232 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1093 K<br />(820 °C)
+    temperature: 1054 K<br />(781 °C)
     composition:
       - 80.2042% hydrogen
       - 13.0793% helium
@@ -204,14 +184,14 @@ planets:
         radius: 237,545.9 km<br/>(37.285 Yrths)
         surface_area: 7.091 × 10<sup>11</sup> km<sup>2</sup><br/>(1390.208 Yrths)
         volume: 5.615 × 10<sup>16</sup> km<sup>3</sup><br/>(51834.599 Yrths)
-        mass: 1.067 × 10<sup>29</sup> kg<br />(347.2686653216124 Yrths)
+        mass: 1.067 × 10<sup>29</sup> kg<br />(17863.435 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 126.010 m/s<sup>2</sup><br />(12.849 g<sub>0</sub>)
         escape_velocity: 244.842 km/s<br />(881,432 km/h)
         rotation_period: 42.284 d
         axial_tilt: 20.07°
         albedo: 0.30
-        temperature: 1587 K<br />(1314 °C)
+        temperature: 267 K<br />(-7 °C)
       - name: 12015 Dialkeshiad II b
         type: Rocky
         formationType: Accreted
@@ -224,14 +204,14 @@ planets:
         radius: 206,190.0 km<br/>(32.364 Yrths)
         surface_area: 5.343 × 10<sup>11</sup> km<sup>2</sup><br/>(1047.418 Yrths)
         volume: 3.672 × 10<sup>16</sup> km<sup>3</sup><br/>(33898.459 Yrths)
-        mass: 1.042 × 10<sup>29</sup> kg<br />(347.2686653216124 Yrths)
+        mass: 1.042 × 10<sup>29</sup> kg<br />(17454.298 Yrths)
         density: 2.839 g/cm<sup>3</sup>
         surface_gravity: 163.419 m/s<sup>2</sup><br />(16.664 g<sub>0</sub>)
         escape_velocity: 259.774 km/s<br />(935,185 km/h)
         rotation_period: 34.942 d
         axial_tilt: 21.39°
         albedo: 0.30
-        temperature: 1034 K<br />(761 °C)
+        temperature: 267 K<br />(-7 °C)
       - name: 12015 Dialkeshiad II c
         type: Icy
         formationType: Captured
@@ -244,14 +224,14 @@ planets:
         radius: 195,927.4 km<br/>(30.753 Yrths)
         surface_area: 4.824 × 10<sup>11</sup> km<sup>2</sup><br/>(945.748 Yrths)
         volume: 3.150 × 10<sup>16</sup> km<sup>3</sup><br/>(29084.591 Yrths)
-        mass: 5.986 × 10<sup>28</sup> kg<br />(347.2686653216124 Yrths)
+        mass: 5.986 × 10<sup>28</sup> kg<br />(10023.241 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 103.933 m/s<sup>2</sup><br />(10.598 g<sub>0</sub>)
         escape_velocity: 201.946 km/s<br />(727,004 km/h)
         rotation_period: 36.995 d
         axial_tilt: 21.19°
         albedo: 0.30
-        temperature: 896 K<br />(623 °C)
+        temperature: 267 K<br />(-7 °C)
       - name: 12015 Dialkeshiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -264,14 +244,14 @@ planets:
         radius: 193,096.6 km<br/>(30.309 Yrths)
         surface_area: 4.686 × 10<sup>11</sup> km<sup>2</sup><br/>(918.616 Yrths)
         volume: 3.016 × 10<sup>16</sup> km<sup>3</sup><br/>(27842.023 Yrths)
-        mass: 7.910 × 10<sup>28</sup> kg<br />(347.2686653216124 Yrths)
+        mass: 7.910 × 10<sup>28</sup> kg<br />(13245.849 Yrths)
         density: 2.623 g/cm<sup>3</sup>
         surface_gravity: 141.406 m/s<sup>2</sup><br />(14.419 g<sub>0</sub>)
         escape_velocity: 233.846 km/s<br />(841,846 km/h)
         rotation_period: 53.443 d
         axial_tilt: 20.43°
         albedo: 0.30
-        temperature: 815 K<br />(541 °C)
+        temperature: 267 K<br />(-7 °C)
       - name: 12015 Dialkeshiad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -284,14 +264,14 @@ planets:
         radius: 245,591.5 km<br/>(38.548 Yrths)
         surface_area: 7.579 × 10<sup>11</sup> km<sup>2</sup><br/>(1485.975 Yrths)
         volume: 6.205 × 10<sup>16</sup> km<sup>3</sup><br/>(57281.865 Yrths)
-        mass: 1.441 × 10<sup>29</sup> kg<br />(347.2686653216124 Yrths)
+        mass: 1.441 × 10<sup>29</sup> kg<br />(24123.836 Yrths)
         density: 2.322 g/cm<sup>3</sup>
         surface_gravity: 159.205 m/s<sup>2</sup><br />(16.234 g<sub>0</sub>)
         escape_velocity: 279.830 km/s<br />(1,007,388 km/h)
         rotation_period: 42.238 d
         axial_tilt: 27.67°
         albedo: 0.30
-        temperature: 777 K<br />(504 °C)
+        temperature: 267 K<br />(-7 °C)
       - name: 12015 Dialkeshiad II f
         type: Icy
         formationType: Captured
@@ -304,14 +284,14 @@ planets:
         radius: 286,608.2 km<br/>(44.986 Yrths)
         surface_area: 1.032 × 10<sup>12</sup> km<sup>2</sup><br/>(2023.774 Yrths)
         volume: 9.862 × 10<sup>16</sup> km<sup>3</sup><br/>(91042.274 Yrths)
-        mass: 1.520 × 10<sup>29</sup> kg<br />(347.2686653216124 Yrths)
+        mass: 1.520 × 10<sup>29</sup> kg<br />(25457.205 Yrths)
         density: 1.542 g/cm<sup>3</sup>
         surface_gravity: 123.359 m/s<sup>2</sup><br />(12.579 g<sub>0</sub>)
         escape_velocity: 266.096 km/s<br />(957,947 km/h)
         rotation_period: 59.964 d
         axial_tilt: 18.49°
         albedo: 0.30
-        temperature: 673 K<br />(400 °C)
+        temperature: 267 K<br />(-7 °C)
       - name: 12015 Dialkeshiad II g
         type: Asteroid
         formationType: Captured
@@ -324,14 +304,14 @@ planets:
         radius: 277,966.4 km<br/>(43.630 Yrths)
         surface_area: 9.709 × 10<sup>11</sup> km<sup>2</sup><br/>(1903.573 Yrths)
         volume: 8.996 × 10<sup>16</sup> km<sup>3</sup><br/>(83052.792 Yrths)
-        mass: 2.525 × 10<sup>29</sup> kg<br />(347.2686653216124 Yrths)
+        mass: 2.525 × 10<sup>29</sup> kg<br />(42287.431 Yrths)
         density: 2.807 g/cm<sup>3</sup>
         surface_gravity: 217.852 m/s<sup>2</sup><br />(22.215 g<sub>0</sub>)
         escape_velocity: 348.247 km/s<br />(1,253,689 km/h)
         rotation_period: 47.675 d
         axial_tilt: 36.68°
         albedo: 0.30
-        temperature: 584 K<br />(310 °C)
+        temperature: 267 K<br />(-7 °C)
   - name: 12015 Dialkeshiad III
     type: Ice giant
     aphelion: 2,801,391,900 km<br />18.726 AU
@@ -343,14 +323,14 @@ planets:
     radius: 37,542.6 km<br/>(5.893 Yrths)
     surface_area: 1.771 × 10<sup>10</sup> km<sup>2</sup><br/>(34.724 Yrths)
     volume: 2.216 × 10<sup>14</sup> km<sup>3</sup><br/>(204.620 Yrths)
-    mass: 2.880 × 10<sup>26</sup> kg<br />(48.2286750140352 Yrths)
+    mass: 2.880 × 10<sup>26</sup> kg<br />(48.23 Yrths)
     density: 1.299 g/cm<sup>3</sup>
     surface_gravity: 13.621 m/s<sup>2</sup><br />(1.389 g<sub>0</sub>)
     escape_velocity: 32.001 km/s<br />(115,205 km/h)
     rotation_period: 0.289 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 413 K<br />(140 °C)
+    temperature: 410 K<br />(136 °C)
     composition:
       - 43.1824% helium
       - 35.4908% hydrogen
@@ -372,14 +352,14 @@ planets:
         radius: 36,288.2 km<br/>(5.696 Yrths)
         surface_area: 1.655 × 10<sup>10</sup> km<sup>2</sup><br/>(32.443 Yrths)
         volume: 2.002 × 10<sup>14</sup> km<sup>3</sup><br/>(184.787 Yrths)
-        mass: 3.027 × 10<sup>26</sup> kg<br />(48.2286750140352 Yrths)
+        mass: 3.027 × 10<sup>26</sup> kg<br />(50.693 Yrths)
         density: 1.512 g/cm<sup>3</sup>
         surface_gravity: 15.323 m/s<sup>2</sup><br />(1.563 g<sub>0</sub>)
         escape_velocity: 33.371 km/s<br />(120,136 km/h)
         rotation_period: 64.375 d
         axial_tilt: 27.12°
         albedo: 0.30
-        temperature: 1630 K<br />(1357 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 12015 Dialkeshiad III b
         type: Icy
         formationType: Impact formed
@@ -392,14 +372,14 @@ planets:
         radius: 65,771.3 km<br/>(10.324 Yrths)
         surface_area: 5.436 × 10<sup>10</sup> km<sup>2</sup><br/>(106.575 Yrths)
         volume: 1.192 × 10<sup>15</sup> km<sup>3</sup><br/>(1100.236 Yrths)
-        mass: 1.520 × 10<sup>27</sup> kg<br />(48.2286750140352 Yrths)
+        mass: 1.520 × 10<sup>27</sup> kg<br />(254.591 Yrths)
         density: 1.276 g/cm<sup>3</sup>
         surface_gravity: 23.426 m/s<sup>2</sup><br />(2.389 g<sub>0</sub>)
         escape_velocity: 55.550 km/s<br />(199,979 km/h)
         rotation_period: 52.111 d
         axial_tilt: 19.70°
         albedo: 0.30
-        temperature: 1554 K<br />(1281 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 12015 Dialkeshiad III c
         type: Icy
         formationType: Impact formed
@@ -412,14 +392,14 @@ planets:
         radius: 33,816.6 km<br/>(5.308 Yrths)
         surface_area: 1.437 × 10<sup>10</sup> km<sup>2</sup><br/>(28.174 Yrths)
         volume: 1.620 × 10<sup>14</sup> km<sup>3</sup><br/>(149.543 Yrths)
-        mass: 2.420 × 10<sup>26</sup> kg<br />(48.2286750140352 Yrths)
+        mass: 2.420 × 10<sup>26</sup> kg<br />(40.523 Yrths)
         density: 1.494 g/cm<sup>3</sup>
         surface_gravity: 14.105 m/s<sup>2</sup><br />(1.438 g<sub>0</sub>)
         escape_velocity: 30.908 km/s<br />(111,267 km/h)
         rotation_period: 58.549 d
         axial_tilt: 21.73°
         albedo: 0.30
-        temperature: 1413 K<br />(1139 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 12015 Dialkeshiad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -432,14 +412,14 @@ planets:
         radius: 48,908.5 km<br/>(7.677 Yrths)
         surface_area: 3.006 × 10<sup>10</sup> km<sup>2</sup><br/>(58.932 Yrths)
         volume: 4.901 × 10<sup>14</sup> km<sup>3</sup><br/>(452.407 Yrths)
-        mass: 1.182 × 10<sup>27</sup> kg<br />(48.2286750140352 Yrths)
+        mass: 1.182 × 10<sup>27</sup> kg<br />(197.985 Yrths)
         density: 2.413 g/cm<sup>3</sup>
         surface_gravity: 32.946 m/s<sup>2</sup><br />(3.360 g<sub>0</sub>)
         escape_velocity: 56.807 km/s<br />(204,505 km/h)
         rotation_period: 60.225 d
         axial_tilt: 27.69°
         albedo: 0.30
-        temperature: 1347 K<br />(1074 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 12015 Dialkeshiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -452,14 +432,14 @@ planets:
         radius: 41,949.1 km<br/>(6.584 Yrths)
         surface_area: 2.211 × 10<sup>10</sup> km<sup>2</sup><br/>(43.354 Yrths)
         volume: 3.092 × 10<sup>14</sup> km<sup>3</sup><br/>(285.461 Yrths)
-        mass: 6.115 × 10<sup>26</sup> kg<br />(48.2286750140352 Yrths)
+        mass: 6.115 × 10<sup>26</sup> kg<br />(102.390 Yrths)
         density: 1.978 g/cm<sup>3</sup>
         surface_gravity: 23.160 m/s<sup>2</sup><br />(2.362 g<sub>0</sub>)
         escape_velocity: 44.111 km/s<br />(158,799 km/h)
         rotation_period: 49.246 d
         axial_tilt: 15.04°
         albedo: 0.30
-        temperature: 1284 K<br />(1011 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 12015 Dialkeshiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -472,12 +452,12 @@ planets:
         radius: 78,423.6 km<br/>(12.309 Yrths)
         surface_area: 7.729 × 10<sup>10</sup> km<sup>2</sup><br/>(151.523 Yrths)
         volume: 2.020 × 10<sup>15</sup> km<sup>3</sup><br/>(1865.167 Yrths)
-        mass: 4.186 × 10<sup>27</sup> kg<br />(48.2286750140352 Yrths)
+        mass: 4.186 × 10<sup>27</sup> kg<br />(700.907 Yrths)
         density: 2.072 g/cm<sup>3</sup>
         surface_gravity: 45.363 m/s<sup>2</sup><br />(4.626 g<sub>0</sub>)
         escape_velocity: 84.408 km/s<br />(303,870 km/h)
         rotation_period: 51.251 d
         axial_tilt: 30.73°
         albedo: 0.30
-        temperature: 1167 K<br />(894 °C)
+        temperature: 186 K<br />(-87 °C)
 ---

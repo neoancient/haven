@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1613 Geardiad is a star in the constellation Geard
+      1613 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 337.97 ly
 apparent_magnitude: 10.37
 absolute_magnitude: 5.29

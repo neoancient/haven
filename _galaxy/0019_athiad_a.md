@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0019 Athiad A is a star in the constellation Ath
+      0019 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 92.77 ly
 apparent_magnitude: 7.05
 absolute_magnitude: 4.78

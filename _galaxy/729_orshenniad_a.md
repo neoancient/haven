@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      729 Orshenniad A is a star in the constellation Orshen
+      729 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 472.53 ly
 apparent_magnitude: 8.21
 absolute_magnitude: 2.40

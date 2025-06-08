@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1554 Arkothiad is a star in the constellation Arkoth
+      1554 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 347.35 ly
 apparent_magnitude: 15.00
 absolute_magnitude: 9.86

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7749 Arkothiad is a star in the constellation Arkoth
+      7749 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1370.28 ly
 apparent_magnitude: 17.92
 absolute_magnitude: 9.81

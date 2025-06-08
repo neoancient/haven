@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3826 Ratharshinniad A is a star in the constellation Ratharshin
+      3826 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 497.16 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 1.61

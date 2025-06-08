@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6 Arreniad is a star in the constellation Arren
+      6 Arreniad is a star in the constellation <a href="arren.html">Arren</a>
 distance: 389.87 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 5.34

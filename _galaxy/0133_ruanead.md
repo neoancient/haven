@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0133 Ruanead is a star in the constellation Ruane
+      0133 Ruanead is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 77.91 ly
 apparent_magnitude: 6.32
 absolute_magnitude: 4.43
@@ -31,14 +31,14 @@ planets:
     radius: 3,181.8 km<br/>(0.499 Yrths)
     surface_area: 1.272 × 10<sup>08</sup> km<sup>2</sup><br/>(0.249 Yrths)
     volume: 1.349 × 10<sup>11</sup> km<sup>3</sup><br/>(0.125 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.426 g/cm<sup>3</sup>
     surface_gravity: 3.932 m/s<sup>2</sup><br />(0.401 g<sub>0</sub>)
     escape_velocity: 5.005 km/s<br />(18,020 km/h)
     rotation_period: 2.610 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 281 K<br />(8 °C)
+    temperature: 312 K<br />(39 °C)
     surface_pressure: 7 kPa<br />(0 atm)
     composition:
       - 87.2356% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 759.6 km<br/>(0.119 Yrths)
         surface_area: 7.250 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.836 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.573 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.573 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.947 g/cm<sup>3</sup>
         surface_gravity: 0.413 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.792 km/s<br />(2,853 km/h)
         rotation_period: 57.770 d
         axial_tilt: 25.57°
         albedo: 0.30
-        temperature: 6777 K<br />(6504 °C)
+        temperature: 265 K<br />(-9 °C)
   - name: 0133 Ruanead II
     type: Terrestrial
     aphelion: 498,151,943 km<br />3.330 AU
@@ -78,14 +78,14 @@ planets:
     radius: 6,923.2 km<br/>(1.087 Yrths)
     surface_area: 6.023 × 10<sup>08</sup> km<sup>2</sup><br/>(1.181 Yrths)
     volume: 1.390 × 10<sup>12</sup> km<sup>3</sup><br/>(1.283 Yrths)
-    mass: 6.904 × 10<sup>24</sup> kg<br />(1.1561294331064809 Yrths)
+    mass: 6.904 × 10<sup>24</sup> kg<br />(1.16 Yrths)
     density: 4.967 g/cm<sup>3</sup>
     surface_gravity: 9.601 m/s<sup>2</sup><br />(0.979 g<sub>0</sub>)
     escape_velocity: 11.538 km/s<br />(41,537 km/h)
     rotation_period: 1.060 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 268 K<br />(-6 °C)
+    temperature: 676 K<br />(403 °C)
     surface_pressure: 18 kPa<br />(0 atm)
     composition:
       - 71.0046% carbon dioxide
@@ -104,12 +104,12 @@ planets:
         radius: 3,297.0 km<br/>(0.518 Yrths)
         surface_area: 1.366 × 10<sup>08</sup> km<sup>2</sup><br/>(0.268 Yrths)
         volume: 1.501 × 10<sup>11</sup> km<sup>3</sup><br/>(0.139 Yrths)
-        mass: 4.204 × 10<sup>23</sup> kg<br />(1.1561294331064809 Yrths)
+        mass: 4.204 × 10<sup>23</sup> kg<br />(0.070 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 2.577 m/s<sup>2</sup><br />(0.263 g<sub>0</sub>)
         escape_velocity: 4.125 km/s<br />(14,851 km/h)
         rotation_period: 45.246 d
         axial_tilt: 21.09°
         albedo: 0.30
-        temperature: 4113 K<br />(3840 °C)
+        temperature: 199 K<br />(-74 °C)
 ---

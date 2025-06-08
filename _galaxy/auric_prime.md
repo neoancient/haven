@@ -11,49 +11,48 @@ sections:
       Auric Prime is a terrestrial planet in the <a href="5481_kinanniad.html">5481 Kinanniad</a> system.
       Auric Prime is the capital and financial heart of the Gilded Consortium. It is a world of pristine cities with towering gilded spires, luxurious palaces, and massive trade halls. It houses the Consortium's central banks, stock exchanges, and elite trade guilds.
 planet:
-  aphelion: 181,801,831 km<br />1.215 AU
-  perihelion: 181,277,660 km<br />1.212 AU
-  semi_major_axis: 181,539,745 km<br />1.214 AU
-  eccentricity: 0.001
-  orbital_period: 491.65 d<br />1.346 y
-  inclination: 30.09°
-  radius: 6,942.7 km<br/>(1.090 Yrths)
-  surface_area: 6.057 × 10<sup>08</sup> km<sup>2</sup><br/>(1.188 Yrths)
-  volume: 1.402 × 10<sup>12</sup> km<sup>3</sup><br/>(1.294 Yrths)
-  mass: 7.183 × 10<sup>24</sup> kg<br />(1.20 Yrths)
-  density: 5.125 g/cm<sup>3</sup>
-  surface_gravity: 9.933 m/s<sup>2</sup><br />(1.013 g<sub>0</sub>)
-  escape_velocity: 11.752 km/s<br />(42,308 km/h)
-  rotation_period: 1.272 d
+  aphelion: 53,657,612 km<br />0.359 AU
+  perihelion: 52,748,284 km<br />0.353 AU
+  semi_major_axis: 53,202,948 km<br />0.356 AU
+  eccentricity: 0.009
+  orbital_period: 99.69 d<br />0.273 y
+  inclination: 0.78°
+  radius: 5,641.4 km<br/>(0.885 Yrths)
+  surface_area: 3.999 × 10<sup>08</sup> km<sup>2</sup><br/>(0.784 Yrths)
+  volume: 7.520 × 10<sup>11</sup> km<sup>3</sup><br/>(0.694 Yrths)
+  mass: 4.219 × 10<sup>24</sup> kg<br />(0.71 Yrths)
+  density: 5.610 g/cm<sup>3</sup>
+  surface_gravity: 8.836 m/s<sup>2</sup><br />(0.901 g<sub>0</sub>)
+  escape_velocity: 9.991 km/s<br />(35,969 km/h)
+  rotation_period: 2.265 d
   axial_tilt: 0.00°
   albedo: 0.30
-  temperature: 254 K<br />(-19 °C)
-  surface_pressure: 109 kPa<br />(1 atm)
+  temperature: 277 K<br />(4 °C)
+  surface_pressure: 119 kPa<br />(1 atm)
   composition:
-    - 78.2998% nitrogen
+    - 78.2106% nitrogen
     - 20.1313% oxygen
     - 1.5471% argon
-    - 0.0217% carbon dioxide
-    - 0.0001% carbon monoxide
+    - 0.1110% carbon dioxide
   moons:
     - name: Auric Prime a
-      type: Icy
-      formationType: Captured
-      aphelion: 1,266,835 km<br />
-      perihelion: 673,464 km<br />
-      semi_major_axis: 970,150 km<br />
-      eccentricity: 0.306
-      orbital_period: 0.07 d<br />
-      inclination: 56.79°
-      radius: 4,566.8 km<br/>(0.717 Yrths)
-      surface_area: 2.621 × 10<sup>08</sup> km<sup>2</sup><br/>(0.514 Yrths)
-      volume: 3.990 × 10<sup>11</sup> km<sup>3</sup><br/>(0.368 Yrths)
-      mass: 4.896 × 10<sup>23</sup> kg<br />(1.2028543262259896 Yrths)
-      density: 1.227 g/cm<sup>3</sup>
-      surface_gravity: 1.565 m/s<sup>2</sup><br />(0.160 g<sub>0</sub>)
-      escape_velocity: 3.783 km/s<br />(13,619 km/h)
-      rotation_period: 50.427 d
-      axial_tilt: 25.89°
+      type: Rocky
+      formationType: Impact formed
+      aphelion: 282,575 km<br />
+      perihelion: 278,239 km<br />
+      semi_major_axis: 280,407 km<br />
+      eccentricity: 0.008
+      orbital_period: 0.01 d<br />
+      inclination: 1.80°
+      radius: 2,063.1 km<br/>(0.324 Yrths)
+      surface_area: 5.349 × 10<sup>07</sup> km<sup>2</sup><br/>(0.105 Yrths)
+      volume: 3.679 × 10<sup>10</sup> km<sup>3</sup><br/>(0.034 Yrths)
+      mass: 9.928 × 10<sup>22</sup> kg<br />(0.017 Yrths)
+      density: 2.699 g/cm<sup>3</sup>
+      surface_gravity: 1.555 m/s<sup>2</sup><br />(0.159 g<sub>0</sub>)
+      escape_velocity: 2.534 km/s<br />(9,124 km/h)
+      rotation_period: 46.176 d
+      axial_tilt: 7.01°
       albedo: 0.30
-      temperature: 3263 K<br />(2990 °C)
+      temperature: 258 K<br />(-15 °C)
 ---

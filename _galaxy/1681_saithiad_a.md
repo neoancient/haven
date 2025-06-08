@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1681 Saithiad A is a star in the constellation Saith
+      1681 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 625.55 ly
 apparent_magnitude: 8.13
 absolute_magnitude: 1.71

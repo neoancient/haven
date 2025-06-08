@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0022 Nishediad C is a star in the constellation Nishedi
+      0022 Nishediad C is a star in the constellation <a href="nishedi.html">Nishedi</a>
 distance: 228.80 ly
 apparent_magnitude: 9.16
 absolute_magnitude: 4.93
@@ -31,14 +31,14 @@ planets:
     radius: 5,360.7 km<br/>(0.841 Yrths)
     surface_area: 3.611 × 10<sup>08</sup> km<sup>2</sup><br/>(0.708 Yrths)
     volume: 6.453 × 10<sup>11</sup> km<sup>3</sup><br/>(0.596 Yrths)
-    mass: 5.644 × 10<sup>24</sup> kg<br />(0.9451331661109859 Yrths)
+    mass: 5.644 × 10<sup>24</sup> kg<br />(0.95 Yrths)
     density: 8.747 g/cm<sup>3</sup>
     surface_gravity: 13.091 m/s<sup>2</sup><br />(1.335 g<sub>0</sub>)
     escape_velocity: 11.855 km/s<br />(42,679 km/h)
     rotation_period: 2.236 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 399 K<br />(126 °C)
+    temperature: 525 K<br />(252 °C)
     surface_pressure: 88 kPa<br />(1 atm)
     composition:
       - 96.7970% methane
@@ -57,14 +57,14 @@ planets:
         radius: 1,937.7 km<br/>(0.304 Yrths)
         surface_area: 4.718 × 10<sup>07</sup> km<sup>2</sup><br/>(0.093 Yrths)
         volume: 3.047 × 10<sup>10</sup> km<sup>3</sup><br/>(0.028 Yrths)
-        mass: 1.044 × 10<sup>23</sup> kg<br />(0.9451331661109859 Yrths)
+        mass: 1.044 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 3.426 g/cm<sup>3</sup>
         surface_gravity: 1.853 m/s<sup>2</sup><br />(0.189 g<sub>0</sub>)
         escape_velocity: 2.682 km/s<br />(9,654 km/h)
         rotation_period: 27.862 d
         axial_tilt: 11.09°
         albedo: 0.30
-        temperature: 4806 K<br />(4533 °C)
+        temperature: 321 K<br />(47 °C)
       - name: 0022 Nishediad C I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 4,594.8 km<br/>(0.721 Yrths)
         surface_area: 2.653 × 10<sup>08</sup> km<sup>2</sup><br/>(0.520 Yrths)
         volume: 4.063 × 10<sup>11</sup> km<sup>3</sup><br/>(0.375 Yrths)
-        mass: 2.960 × 10<sup>23</sup> kg<br />(0.9451331661109859 Yrths)
+        mass: 2.960 × 10<sup>23</sup> kg<br />(0.050 Yrths)
         density: 0.729 g/cm<sup>3</sup>
         surface_gravity: 0.935 m/s<sup>2</sup><br />(0.095 g<sub>0</sub>)
         escape_velocity: 2.933 km/s<br />(10,557 km/h)
         rotation_period: 84.273 d
         axial_tilt: 9.96°
         albedo: 0.30
-        temperature: 4582 K<br />(4309 °C)
+        temperature: 321 K<br />(47 °C)
       - name: 0022 Nishediad C I c
         type: Rocky
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 1,924.8 km<br/>(0.302 Yrths)
         surface_area: 4.656 × 10<sup>07</sup> km<sup>2</sup><br/>(0.091 Yrths)
         volume: 2.987 × 10<sup>10</sup> km<sup>3</sup><br/>(0.028 Yrths)
-        mass: 1.033 × 10<sup>23</sup> kg<br />(0.9451331661109859 Yrths)
+        mass: 1.033 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 3.460 g/cm<sup>3</sup>
         surface_gravity: 1.859 m/s<sup>2</sup><br />(0.190 g<sub>0</sub>)
         escape_velocity: 2.677 km/s<br />(9,638 km/h)
         rotation_period: 26.972 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 4369 K<br />(4096 °C)
+        temperature: 321 K<br />(47 °C)
   - name: 0022 Nishediad C II
     type: Large terrestrial
     aphelion: 167,926,287 km<br />1.123 AU
@@ -116,14 +116,14 @@ planets:
     radius: 8,592.9 km<br/>(1.349 Yrths)
     surface_area: 9.279 × 10<sup>08</sup> km<sup>2</sup><br/>(1.819 Yrths)
     volume: 2.658 × 10<sup>12</sup> km<sup>3</sup><br/>(2.454 Yrths)
-    mass: 1.984 × 10<sup>25</sup> kg<br />(3.322017216006338 Yrths)
+    mass: 1.984 × 10<sup>25</sup> kg<br />(3.32 Yrths)
     density: 7.465 g/cm<sup>3</sup>
     surface_gravity: 17.908 m/s<sup>2</sup><br />(1.826 g<sub>0</sub>)
     escape_velocity: 17.555 km/s<br />(63,199 km/h)
     rotation_period: 1.293 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 293 K<br />(20 °C)
+    temperature: 354 K<br />(81 °C)
     surface_pressure: 78 kPa<br />(1 atm)
     composition:
       - 81.0301% nitrogen
@@ -142,14 +142,14 @@ planets:
         radius: 7,647.5 km<br/>(1.200 Yrths)
         surface_area: 7.349 × 10<sup>08</sup> km<sup>2</sup><br/>(1.441 Yrths)
         volume: 1.873 × 10<sup>12</sup> km<sup>3</sup><br/>(1.730 Yrths)
-        mass: 3.215 × 10<sup>24</sup> kg<br />(3.322017216006338 Yrths)
+        mass: 3.215 × 10<sup>24</sup> kg<br />(0.538 Yrths)
         density: 1.716 g/cm<sup>3</sup>
         surface_gravity: 3.664 m/s<sup>2</sup><br />(0.374 g<sub>0</sub>)
         escape_velocity: 7.491 km/s<br />(26,968 km/h)
         rotation_period: 39.108 d
         axial_tilt: 18.49°
         albedo: 0.30
-        temperature: 2885 K<br />(2612 °C)
+        temperature: 241 K<br />(-32 °C)
       - name: 0022 Nishediad C II b
         type: Rocky
         formationType: Impact formed
@@ -162,14 +162,14 @@ planets:
         radius: 4,425.3 km<br/>(0.695 Yrths)
         surface_area: 2.461 × 10<sup>08</sup> km<sup>2</sup><br/>(0.482 Yrths)
         volume: 3.630 × 10<sup>11</sup> km<sup>3</sup><br/>(0.335 Yrths)
-        mass: 1.022 × 10<sup>24</sup> kg<br />(3.322017216006338 Yrths)
+        mass: 1.022 × 10<sup>24</sup> kg<br />(0.171 Yrths)
         density: 2.817 g/cm<sup>3</sup>
         surface_gravity: 3.480 m/s<sup>2</sup><br />(0.355 g<sub>0</sub>)
         escape_velocity: 5.554 km/s<br />(19,993 km/h)
         rotation_period: 51.177 d
         axial_tilt: 22.21°
         albedo: 0.30
-        temperature: 2751 K<br />(2478 °C)
+        temperature: 241 K<br />(-32 °C)
   - name: 0022 Nishediad C III
     type: Ice giant
     aphelion: 298,740,575 km<br />1.997 AU
@@ -181,14 +181,14 @@ planets:
     radius: 27,938.4 km<br/>(4.385 Yrths)
     surface_area: 9.809 × 10<sup>09</sup> km<sup>2</sup><br/>(19.230 Yrths)
     volume: 9.135 × 10<sup>13</sup> km<sup>3</sup><br/>(84.330 Yrths)
-    mass: 1.272 × 10<sup>26</sup> kg<br />(21.305935516400684 Yrths)
+    mass: 1.272 × 10<sup>26</sup> kg<br />(21.31 Yrths)
     density: 1.393 g/cm<sup>3</sup>
     surface_gravity: 10.865 m/s<sup>2</sup><br />(1.108 g<sub>0</sub>)
     escape_velocity: 24.656 km/s<br />(88,762 km/h)
     rotation_period: 0.660 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 304 K<br />(31 °C)
+    temperature: 287 K<br />(14 °C)
     composition:
       - 90.7876% hydrogen
       - 7.4076% helium
@@ -206,14 +206,14 @@ planets:
         radius: 11,855.6 km<br/>(1.861 Yrths)
         surface_area: 1.766 × 10<sup>09</sup> km<sup>2</sup><br/>(3.463 Yrths)
         volume: 6.980 × 10<sup>12</sup> km<sup>3</sup><br/>(6.444 Yrths)
-        mass: 2.434 × 10<sup>25</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 2.434 × 10<sup>25</sup> kg<br />(4.075 Yrths)
         density: 3.487 g/cm<sup>3</sup>
         surface_gravity: 11.542 m/s<sup>2</sup><br />(1.177 g<sub>0</sub>)
         escape_velocity: 16.554 km/s<br />(59,595 km/h)
         rotation_period: 47.377 d
         axial_tilt: 8.53°
         albedo: 0.30
-        temperature: 1530 K<br />(1256 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III b
         type: Rocky
         formationType: Accreted
@@ -226,14 +226,14 @@ planets:
         radius: 7,914.8 km<br/>(1.242 Yrths)
         surface_area: 7.872 × 10<sup>08</sup> km<sup>2</sup><br/>(1.543 Yrths)
         volume: 2.077 × 10<sup>12</sup> km<sup>3</sup><br/>(1.917 Yrths)
-        mass: 6.717 × 10<sup>24</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 6.717 × 10<sup>24</sup> kg<br />(1.125 Yrths)
         density: 3.234 g/cm<sup>3</sup>
         surface_gravity: 7.146 m/s<sup>2</sup><br />(0.729 g<sub>0</sub>)
         escape_velocity: 10.643 km/s<br />(38,316 km/h)
         rotation_period: 36.603 d
         axial_tilt: 16.13°
         albedo: 0.30
-        temperature: 1458 K<br />(1185 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -246,14 +246,14 @@ planets:
         radius: 10,312.6 km<br/>(1.619 Yrths)
         surface_area: 1.336 × 10<sup>09</sup> km<sup>2</sup><br/>(2.620 Yrths)
         volume: 4.594 × 10<sup>12</sup> km<sup>3</sup><br/>(4.241 Yrths)
-        mass: 8.779 × 10<sup>24</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 8.779 × 10<sup>24</sup> kg<br />(1.470 Yrths)
         density: 1.911 g/cm<sup>3</sup>
         surface_gravity: 5.502 m/s<sup>2</sup><br />(0.561 g<sub>0</sub>)
         escape_velocity: 10.660 km/s<br />(38,375 km/h)
         rotation_period: 42.672 d
         axial_tilt: 9.65°
         albedo: 0.30
-        temperature: 1391 K<br />(1117 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -266,14 +266,14 @@ planets:
         radius: 28,410.9 km<br/>(4.459 Yrths)
         surface_area: 1.014 × 10<sup>10</sup> km<sup>2</sup><br/>(19.886 Yrths)
         volume: 9.606 × 10<sup>13</sup> km<sup>3</sup><br/>(88.682 Yrths)
-        mass: 1.926 × 10<sup>26</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 1.926 × 10<sup>26</sup> kg<br />(32.243 Yrths)
         density: 2.005 g/cm<sup>3</sup>
         surface_gravity: 15.900 m/s<sup>2</sup><br />(1.621 g<sub>0</sub>)
         escape_velocity: 30.078 km/s<br />(108,282 km/h)
         rotation_period: 61.797 d
         axial_tilt: 21.54°
         albedo: 0.30
-        temperature: 1326 K<br />(1053 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -286,14 +286,14 @@ planets:
         radius: 15,719.8 km<br/>(2.467 Yrths)
         surface_area: 3.105 × 10<sup>09</sup> km<sup>2</sup><br/>(6.088 Yrths)
         volume: 1.627 × 10<sup>13</sup> km<sup>3</sup><br/>(15.022 Yrths)
-        mass: 4.094 × 10<sup>25</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 4.094 × 10<sup>25</sup> kg<br />(6.854 Yrths)
         density: 2.516 g/cm<sup>3</sup>
         surface_gravity: 11.041 m/s<sup>2</sup><br />(1.126 g<sub>0</sub>)
         escape_velocity: 18.644 km/s<br />(67,119 km/h)
         rotation_period: 57.885 d
         axial_tilt: 26.93°
         albedo: 0.30
-        temperature: 1264 K<br />(991 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -306,14 +306,14 @@ planets:
         radius: 15,647.7 km<br/>(2.456 Yrths)
         surface_area: 3.077 × 10<sup>09</sup> km<sup>2</sup><br/>(6.032 Yrths)
         volume: 1.605 × 10<sup>13</sup> km<sup>3</sup><br/>(14.816 Yrths)
-        mass: 3.771 × 10<sup>25</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 3.771 × 10<sup>25</sup> kg<br />(6.315 Yrths)
         density: 2.350 g/cm<sup>3</sup>
         surface_gravity: 10.267 m/s<sup>2</sup><br />(1.047 g<sub>0</sub>)
         escape_velocity: 17.937 km/s<br />(64,573 km/h)
         rotation_period: 42.233 d
         axial_tilt: 22.94°
         albedo: 0.30
-        temperature: 1205 K<br />(932 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -326,14 +326,14 @@ planets:
         radius: 13,476.5 km<br/>(2.115 Yrths)
         surface_area: 2.282 × 10<sup>09</sup> km<sup>2</sup><br/>(4.474 Yrths)
         volume: 1.025 × 10<sup>13</sup> km<sup>3</sup><br/>(9.465 Yrths)
-        mass: 2.198 × 10<sup>25</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 2.198 × 10<sup>25</sup> kg<br />(3.681 Yrths)
         density: 2.144 g/cm<sup>3</sup>
         surface_gravity: 8.067 m/s<sup>2</sup><br />(0.823 g<sub>0</sub>)
         escape_velocity: 14.756 km/s<br />(53,120 km/h)
         rotation_period: 35.884 d
         axial_tilt: 15.64°
         albedo: 0.30
-        temperature: 1096 K<br />(823 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III h
         type: Rocky
         formationType: Accreted
@@ -346,14 +346,14 @@ planets:
         radius: 12,781.4 km<br/>(2.006 Yrths)
         surface_area: 2.053 × 10<sup>09</sup> km<sup>2</sup><br/>(4.025 Yrths)
         volume: 8.746 × 10<sup>12</sup> km<sup>3</sup><br/>(8.074 Yrths)
-        mass: 2.545 × 10<sup>25</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 2.545 × 10<sup>25</sup> kg<br />(4.261 Yrths)
         density: 2.909 g/cm<sup>3</sup>
         surface_gravity: 10.382 m/s<sup>2</sup><br />(1.059 g<sub>0</sub>)
         escape_velocity: 16.302 km/s<br />(58,687 km/h)
         rotation_period: 46.910 d
         axial_tilt: 18.22°
         albedo: 0.30
-        temperature: 1045 K<br />(772 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III i
         type: Ice/rock hybrid
         formationType: Captured
@@ -366,14 +366,14 @@ planets:
         radius: 21,684.3 km<br/>(3.404 Yrths)
         surface_area: 5.909 × 10<sup>09</sup> km<sup>2</sup><br/>(11.584 Yrths)
         volume: 4.271 × 10<sup>13</sup> km<sup>3</sup><br/>(39.429 Yrths)
-        mass: 1.038 × 10<sup>26</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 1.038 × 10<sup>26</sup> kg<br />(17.387 Yrths)
         density: 2.431 g/cm<sup>3</sup>
         surface_gravity: 14.718 m/s<sup>2</sup><br />(1.501 g<sub>0</sub>)
         escape_velocity: 25.282 km/s<br />(91,016 km/h)
         rotation_period: 35.143 d
         axial_tilt: 18.53°
         albedo: 0.30
-        temperature: 996 K<br />(723 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III j
         type: Icy
         formationType: Impact formed
@@ -386,14 +386,14 @@ planets:
         radius: 18,764.8 km<br/>(2.945 Yrths)
         surface_area: 4.425 × 10<sup>09</sup> km<sup>2</sup><br/>(8.675 Yrths)
         volume: 2.768 × 10<sup>13</sup> km<sup>3</sup><br/>(25.551 Yrths)
-        mass: 4.838 × 10<sup>25</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 4.838 × 10<sup>25</sup> kg<br />(8.101 Yrths)
         density: 1.748 g/cm<sup>3</sup>
         surface_gravity: 9.158 m/s<sup>2</sup><br />(0.934 g<sub>0</sub>)
         escape_velocity: 18.551 km/s<br />(66,784 km/h)
         rotation_period: 38.295 d
         axial_tilt: 19.70°
         albedo: 0.30
-        temperature: 950 K<br />(677 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -406,14 +406,14 @@ planets:
         radius: 21,372.6 km<br/>(3.355 Yrths)
         surface_area: 5.740 × 10<sup>09</sup> km<sup>2</sup><br/>(11.254 Yrths)
         volume: 4.089 × 10<sup>13</sup> km<sup>3</sup><br/>(37.753 Yrths)
-        mass: 9.581 × 10<sup>25</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 9.581 × 10<sup>25</sup> kg<br />(16.043 Yrths)
         density: 2.343 g/cm<sup>3</sup>
         surface_gravity: 13.980 m/s<sup>2</sup><br />(1.426 g<sub>0</sub>)
         escape_velocity: 24.462 km/s<br />(88,063 km/h)
         rotation_period: 48.515 d
         axial_tilt: 18.76°
         albedo: 0.30
-        temperature: 906 K<br />(632 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0022 Nishediad C III l
         type: Icy
         formationType: Captured
@@ -426,12 +426,12 @@ planets:
         radius: 16,671.0 km<br/>(2.617 Yrths)
         surface_area: 3.492 × 10<sup>09</sup> km<sup>2</sup><br/>(6.847 Yrths)
         volume: 1.941 × 10<sup>13</sup> km<sup>3</sup><br/>(17.917 Yrths)
-        mass: 1.614 × 10<sup>25</sup> kg<br />(21.305935516400684 Yrths)
+        mass: 1.614 × 10<sup>25</sup> kg<br />(2.702 Yrths)
         density: 0.831 g/cm<sup>3</sup>
         surface_gravity: 3.870 m/s<sup>2</sup><br />(0.395 g<sub>0</sub>)
         escape_velocity: 11.367 km/s<br />(40,921 km/h)
         rotation_period: 68.601 d
         axial_tilt: 18.72°
         albedo: 0.30
-        temperature: 863 K<br />(590 °C)
+        temperature: 181 K<br />(-92 °C)
 ---

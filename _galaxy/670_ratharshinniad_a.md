@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      670 Ratharshinniad A is a star in the constellation Ratharshin
+      670 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 232.30 ly
 apparent_magnitude: 9.66
 absolute_magnitude: 5.40

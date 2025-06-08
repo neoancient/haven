@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2964 Noniashad is a star in the constellation Nonias
+      2964 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 422.23 ly
 apparent_magnitude: 10.54
 absolute_magnitude: 4.98

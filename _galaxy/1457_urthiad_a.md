@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1457 Urthiad A is a star in the constellation Urth
+      1457 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 205.79 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 6.79

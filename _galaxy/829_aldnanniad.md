@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      829 Aldnanniad is a star in the constellation Aldnan
+      829 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 263.42 ly
 apparent_magnitude: 9.53
 absolute_magnitude: 4.99

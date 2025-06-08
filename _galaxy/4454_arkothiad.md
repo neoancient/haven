@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4454 Arkothiad is a star in the constellation Arkoth
+      4454 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 344.81 ly
 apparent_magnitude: 9.01
 absolute_magnitude: 3.89
@@ -31,14 +31,14 @@ planets:
     radius: 12,014.5 km<br/>(1.886 Yrths)
     surface_area: 1.814 × 10<sup>09</sup> km<sup>2</sup><br/>(3.556 Yrths)
     volume: 7.265 × 10<sup>12</sup> km<sup>3</sup><br/>(6.707 Yrths)
-    mass: 4.693 × 10<sup>25</sup> kg<br />(7.858953062692721 Yrths)
+    mass: 4.693 × 10<sup>25</sup> kg<br />(7.86 Yrths)
     density: 6.461 g/cm<sup>3</sup>
     surface_gravity: 21.671 m/s<sup>2</sup><br />(2.210 g<sub>0</sub>)
     escape_velocity: 22.835 km/s<br />(82,207 km/h)
     rotation_period: 0.944 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 298 K<br />(25 °C)
+    temperature: 347 K<br />(74 °C)
     surface_pressure: 41 kPa<br />(0 atm)
     composition:
       - 76.8002% ammonia
@@ -58,14 +58,14 @@ planets:
         radius: 809.0 km<br/>(0.127 Yrths)
         surface_area: 8.225 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.218 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.994 × 10<sup>21</sup> kg<br />(7.858953062692721 Yrths)
+        mass: 3.994 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.801 g/cm<sup>3</sup>
         surface_gravity: 0.407 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.812 km/s<br />(2,922 km/h)
         rotation_period: 49.061 d
         axial_tilt: 50.80°
         albedo: 0.30
-        temperature: 3281 K<br />(3008 °C)
+        temperature: 258 K<br />(-16 °C)
       - name: 4454 Arkothiad I b
         type: Rocky
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 5,364.3 km<br/>(0.842 Yrths)
         surface_area: 3.616 × 10<sup>08</sup> km<sup>2</sup><br/>(0.709 Yrths)
         volume: 6.466 × 10<sup>11</sup> km<sup>3</sup><br/>(0.597 Yrths)
-        mass: 1.734 × 10<sup>24</sup> kg<br />(7.858953062692721 Yrths)
+        mass: 1.734 × 10<sup>24</sup> kg<br />(0.290 Yrths)
         density: 2.681 g/cm<sup>3</sup>
         surface_gravity: 4.016 m/s<sup>2</sup><br />(0.409 g<sub>0</sub>)
         escape_velocity: 6.568 km/s<br />(23,645 km/h)
         rotation_period: 38.917 d
         axial_tilt: 19.13°
         albedo: 0.30
-        temperature: 3129 K<br />(2856 °C)
+        temperature: 258 K<br />(-16 °C)
       - name: 4454 Arkothiad I c
         type: Icy
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 13,433.4 km<br/>(2.109 Yrths)
         surface_area: 2.268 × 10<sup>09</sup> km<sup>2</sup><br/>(4.446 Yrths)
         volume: 1.015 × 10<sup>13</sup> km<sup>3</sup><br/>(9.374 Yrths)
-        mass: 1.198 × 10<sup>25</sup> kg<br />(7.858953062692721 Yrths)
+        mass: 1.198 × 10<sup>25</sup> kg<br />(2.006 Yrths)
         density: 1.180 g/cm<sup>3</sup>
         surface_gravity: 4.425 m/s<sup>2</sup><br />(0.451 g<sub>0</sub>)
         escape_velocity: 10.911 km/s<br />(39,278 km/h)
         rotation_period: 86.233 d
         axial_tilt: 13.95°
         albedo: 0.30
-        temperature: 2983 K<br />(2710 °C)
+        temperature: 258 K<br />(-16 °C)
       - name: 4454 Arkothiad I d
         type: Rocky
         formationType: Accreted
@@ -118,12 +118,12 @@ planets:
         radius: 4,276.4 km<br/>(0.671 Yrths)
         surface_area: 2.298 × 10<sup>08</sup> km<sup>2</sup><br/>(0.451 Yrths)
         volume: 3.276 × 10<sup>11</sup> km<sup>3</sup><br/>(0.302 Yrths)
-        mass: 1.159 × 10<sup>24</sup> kg<br />(7.858953062692721 Yrths)
+        mass: 1.159 × 10<sup>24</sup> kg<br />(0.194 Yrths)
         density: 3.537 g/cm<sup>3</sup>
         surface_gravity: 4.223 m/s<sup>2</sup><br />(0.431 g<sub>0</sub>)
         escape_velocity: 6.014 km/s<br />(21,651 km/h)
         rotation_period: 47.425 d
         axial_tilt: 12.47°
         albedo: 0.30
-        temperature: 2844 K<br />(2571 °C)
+        temperature: 258 K<br />(-16 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11621 Dialkeshiad is a star in the constellation Dialkes
+      11621 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 363.88 ly
 apparent_magnitude: 10.56
 absolute_magnitude: 5.33

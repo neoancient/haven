@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10410 Dialkeshiad A is a star in the constellation Dialkes
+      10410 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 421.57 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 2.49

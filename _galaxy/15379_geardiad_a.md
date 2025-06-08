@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      15379 Geardiad A is a star in the constellation Geard
+      15379 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 353.20 ly
 apparent_magnitude: 10.66
 absolute_magnitude: 5.49

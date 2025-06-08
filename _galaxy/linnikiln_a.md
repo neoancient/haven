@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Linnikiln A is a star in the constellation Dialkes
+      Linnikiln A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 924.01 ly
 apparent_magnitude: 3.89
 absolute_magnitude: -3.37

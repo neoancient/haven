@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      272 Rukentuaiad A is a star in the constellation Rukentua
+      272 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 297.68 ly
 apparent_magnitude: 8.68
 absolute_magnitude: 3.88

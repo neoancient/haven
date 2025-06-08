@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0115 Rukentuaiad B is a star in the constellation Rukentua
+      0115 Rukentuaiad B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 1340.47 ly
 apparent_magnitude: 9.95
 absolute_magnitude: 1.88

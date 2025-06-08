@@ -72,7 +72,7 @@ stars:
     distance: 678.94
     spectral_class: A1II
   - name:
-    designation: ρ Molaiad
+    designation: <a href="ρ_molaiad.html">ρ Molaiad</a>
     ra: 20<sup>h</sup> 32<sup>m</sup> 40.07<sup>s</sup>
     dec: -16° 46' 43.49"
     apparent_magnitude: 4.72
@@ -280,7 +280,7 @@ stars:
     distance: 307.83
     spectral_class: F4III
   - name:
-    designation: φ Molaiad
+    designation: <a href="φ_molaiad.html">φ Molaiad</a>
     ra: 20<sup>h</sup> 02<sup>m</sup> 25.00<sup>s</sup>
     dec: -21° 11' 51.73"
     apparent_magnitude: 6.43

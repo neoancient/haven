@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3376 Narashiad is a star in the constellation Naras
+      3376 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 262.47 ly
 apparent_magnitude: 11.59
 absolute_magnitude: 7.06

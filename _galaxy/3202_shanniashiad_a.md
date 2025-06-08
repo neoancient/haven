@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3202 Shanniashiad A is a star in the constellation Shannias
+      3202 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 205.26 ly
 apparent_magnitude: 7.35
 absolute_magnitude: 3.36

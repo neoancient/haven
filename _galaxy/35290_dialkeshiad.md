@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      35290 Dialkeshiad is a star in the constellation Dialkes
+      35290 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 622.23 ly
 apparent_magnitude: 14.49
 absolute_magnitude: 8.09

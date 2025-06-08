@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4911 Anilliad A is a star in the constellation Anil
+      4911 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 405.52 ly
 apparent_magnitude: 10.44
 absolute_magnitude: 4.97

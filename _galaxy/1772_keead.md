@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1772 Keead is a star in the constellation Kee
+      1772 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 490.48 ly
 apparent_magnitude: 7.66
 absolute_magnitude: 1.77

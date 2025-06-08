@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1029 Ratharshinniad is a star in the constellation Ratharshin
+      1029 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 256.16 ly
 apparent_magnitude: 9.28
 absolute_magnitude: 4.80

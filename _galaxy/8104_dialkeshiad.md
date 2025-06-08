@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8104 Dialkeshiad is a star in the constellation Dialkes
+      8104 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 612.60 ly
 apparent_magnitude: 8.17
 absolute_magnitude: 1.80
@@ -31,14 +31,14 @@ planets:
     radius: 9,912.4 km<br/>(1.556 Yrths)
     surface_area: 1.235 × 10<sup>09</sup> km<sup>2</sup><br/>(2.421 Yrths)
     volume: 4.080 × 10<sup>12</sup> km<sup>3</sup><br/>(3.766 Yrths)
-    mass: 2.718 × 10<sup>25</sup> kg<br />(4.551202751601563 Yrths)
+    mass: 2.718 × 10<sup>25</sup> kg<br />(4.55 Yrths)
     density: 6.662 g/cm<sup>3</sup>
     surface_gravity: 18.438 m/s<sup>2</sup><br />(1.880 g<sub>0</sub>)
     escape_velocity: 19.132 km/s<br />(68,874 km/h)
     rotation_period: 0.820 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 426 K<br />(152 °C)
+    temperature: 398 K<br />(125 °C)
     surface_pressure: 1,066 kPa<br />(11 atm)
     composition:
       - 68.3572% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 9,703.1 km<br/>(1.523 Yrths)
         surface_area: 1.183 × 10<sup>09</sup> km<sup>2</sup><br/>(2.320 Yrths)
         volume: 3.827 × 10<sup>12</sup> km<sup>3</sup><br/>(3.533 Yrths)
-        mass: 5.015 × 10<sup>24</sup> kg<br />(4.551202751601563 Yrths)
+        mass: 5.015 × 10<sup>24</sup> kg<br />(0.840 Yrths)
         density: 1.311 g/cm<sup>3</sup>
         surface_gravity: 3.550 m/s<sup>2</sup><br />(0.362 g<sub>0</sub>)
         escape_velocity: 8.306 km/s<br />(29,902 km/h)
         rotation_period: 46.948 d
         axial_tilt: 11.48°
         albedo: 0.30
-        temperature: 3587 K<br />(3314 °C)
+        temperature: 305 K<br />(32 °C)
   - name: 8104 Dialkeshiad II
     type: Large terrestrial
     aphelion: 860,680,447 km<br />5.753 AU
@@ -77,14 +77,14 @@ planets:
     radius: 8,224.3 km<br/>(1.291 Yrths)
     surface_area: 8.500 × 10<sup>08</sup> km<sup>2</sup><br/>(1.666 Yrths)
     volume: 2.330 × 10<sup>12</sup> km<sup>3</sup><br/>(2.151 Yrths)
-    mass: 1.508 × 10<sup>25</sup> kg<br />(2.524692462622171 Yrths)
+    mass: 1.508 × 10<sup>25</sup> kg<br />(2.52 Yrths)
     density: 6.471 g/cm<sup>3</sup>
     surface_gravity: 14.858 m/s<sup>2</sup><br />(1.515 g<sub>0</sub>)
     escape_velocity: 15.643 km/s<br />(56,316 km/h)
     rotation_period: 0.819 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 292 K<br />(19 °C)
+    temperature: 315 K<br />(42 °C)
     surface_pressure: 459 kPa<br />(5 atm)
     composition:
       - 82.0248% ammonia
@@ -106,14 +106,14 @@ planets:
         radius: 6,036.0 km<br/>(0.947 Yrths)
         surface_area: 4.578 × 10<sup>08</sup> km<sup>2</sup><br/>(0.898 Yrths)
         volume: 9.212 × 10<sup>11</sup> km<sup>3</sup><br/>(0.850 Yrths)
-        mass: 2.654 × 10<sup>24</sup> kg<br />(2.524692462622171 Yrths)
+        mass: 2.654 × 10<sup>24</sup> kg<br />(0.444 Yrths)
         density: 2.881 g/cm<sup>3</sup>
         surface_gravity: 4.855 m/s<sup>2</sup><br />(0.495 g<sub>0</sub>)
         escape_velocity: 7.661 km/s<br />(27,579 km/h)
         rotation_period: 31.339 d
         axial_tilt: 26.78°
         albedo: 0.30
-        temperature: 2860 K<br />(2587 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: 8104 Dialkeshiad II b
         type: Rocky
         formationType: Captured
@@ -126,14 +126,14 @@ planets:
         radius: 4,127.9 km<br/>(0.648 Yrths)
         surface_area: 2.141 × 10<sup>08</sup> km<sup>2</sup><br/>(0.420 Yrths)
         volume: 2.946 × 10<sup>11</sup> km<sup>3</sup><br/>(0.272 Yrths)
-        mass: 9.811 × 10<sup>23</sup> kg<br />(2.524692462622171 Yrths)
+        mass: 9.811 × 10<sup>23</sup> kg<br />(0.164 Yrths)
         density: 3.330 g/cm<sup>3</sup>
         surface_gravity: 3.838 m/s<sup>2</sup><br />(0.391 g<sub>0</sub>)
         escape_velocity: 5.633 km/s<br />(20,277 km/h)
         rotation_period: 42.350 d
         axial_tilt: 12.73°
         albedo: 0.30
-        temperature: 2727 K<br />(2454 °C)
+        temperature: 217 K<br />(-57 °C)
   - name: 8104 Dialkeshiad III
     type: Ice giant
     aphelion: 1,718,326,161 km<br />11.486 AU
@@ -145,14 +145,14 @@ planets:
     radius: 28,295.9 km<br/>(4.441 Yrths)
     surface_area: 1.006 × 10<sup>10</sup> km<sup>2</sup><br/>(19.726 Yrths)
     volume: 9.490 × 10<sup>13</sup> km<sup>3</sup><br/>(87.609 Yrths)
-    mass: 1.428 × 10<sup>26</sup> kg<br />(23.905122270407297 Yrths)
+    mass: 1.428 × 10<sup>26</sup> kg<br />(23.91 Yrths)
     density: 1.504 g/cm<sup>3</sup>
     surface_gravity: 11.884 m/s<sup>2</sup><br />(1.212 g<sub>0</sub>)
     escape_velocity: 25.951 km/s<br />(93,425 km/h)
     rotation_period: 0.355 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 286 K<br />(13 °C)
+    temperature: 258 K<br />(-15 °C)
     composition:
       - 86.7826% hydrogen
       - 12.2508% helium
@@ -171,14 +171,14 @@ planets:
         radius: 26,713.1 km<br/>(4.193 Yrths)
         surface_area: 8.967 × 10<sup>09</sup> km<sup>2</sup><br/>(17.581 Yrths)
         volume: 7.985 × 10<sup>13</sup> km<sup>3</sup><br/>(73.714 Yrths)
-        mass: 1.781 × 10<sup>26</sup> kg<br />(23.905122270407297 Yrths)
+        mass: 1.781 × 10<sup>26</sup> kg<br />(29.815 Yrths)
         density: 2.230 g/cm<sup>3</sup>
         surface_gravity: 16.631 m/s<sup>2</sup><br />(1.696 g<sub>0</sub>)
         escape_velocity: 29.829 km/s<br />(107,383 km/h)
         rotation_period: 36.007 d
         axial_tilt: 16.20°
         albedo: 0.30
-        temperature: 1292 K<br />(1019 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 8104 Dialkeshiad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -191,14 +191,14 @@ planets:
         radius: 38,030.8 km<br/>(5.969 Yrths)
         surface_area: 1.818 × 10<sup>10</sup> km<sup>2</sup><br/>(35.633 Yrths)
         volume: 2.304 × 10<sup>14</sup> km<sup>3</sup><br/>(212.708 Yrths)
-        mass: 5.190 × 10<sup>26</sup> kg<br />(23.905122270407297 Yrths)
+        mass: 5.190 × 10<sup>26</sup> kg<br />(86.904 Yrths)
         density: 2.252 g/cm<sup>3</sup>
         surface_gravity: 23.917 m/s<sup>2</sup><br />(2.439 g<sub>0</sub>)
         escape_velocity: 42.681 km/s<br />(153,650 km/h)
         rotation_period: 36.282 d
         axial_tilt: 31.21°
         albedo: 0.30
-        temperature: 1232 K<br />(959 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 8104 Dialkeshiad III c
         type: Asteroid
         formationType: Captured
@@ -211,14 +211,14 @@ planets:
         radius: 42,368.2 km<br/>(6.650 Yrths)
         surface_area: 2.256 × 10<sup>10</sup> km<sup>2</sup><br/>(44.225 Yrths)
         volume: 3.186 × 10<sup>14</sup> km<sup>3</sup><br/>(294.102 Yrths)
-        mass: 9.553 × 10<sup>26</sup> kg<br />(23.905122270407297 Yrths)
+        mass: 9.553 × 10<sup>26</sup> kg<br />(159.961 Yrths)
         density: 2.999 g/cm<sup>3</sup>
         surface_gravity: 35.471 m/s<sup>2</sup><br />(3.617 g<sub>0</sub>)
         escape_velocity: 54.861 km/s<br />(197,500 km/h)
         rotation_period: 50.317 d
         axial_tilt: 35.32°
         albedo: 0.30
-        temperature: 1068 K<br />(795 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 8104 Dialkeshiad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -231,14 +231,14 @@ planets:
         radius: 22,539.0 km<br/>(3.538 Yrths)
         surface_area: 6.384 × 10<sup>09</sup> km<sup>2</sup><br/>(12.516 Yrths)
         volume: 4.796 × 10<sup>13</sup> km<sup>3</sup><br/>(44.277 Yrths)
-        mass: 1.172 × 10<sup>26</sup> kg<br />(23.905122270407297 Yrths)
+        mass: 1.172 × 10<sup>26</sup> kg<br />(19.632 Yrths)
         density: 2.445 g/cm<sup>3</sup>
         surface_gravity: 15.383 m/s<sup>2</sup><br />(1.569 g<sub>0</sub>)
         escape_velocity: 26.351 km/s<br />(94,863 km/h)
         rotation_period: 52.776 d
         axial_tilt: 30.17°
         albedo: 0.30
-        temperature: 1018 K<br />(745 °C)
+        temperature: 154 K<br />(-120 °C)
       - name: 8104 Dialkeshiad III e
         type: Icy
         formationType: Accreted
@@ -251,14 +251,14 @@ planets:
         radius: 31,245.0 km<br/>(4.904 Yrths)
         surface_area: 1.227 × 10<sup>10</sup> km<sup>2</sup><br/>(24.052 Yrths)
         volume: 1.278 × 10<sup>14</sup> km<sup>3</sup><br/>(117.956 Yrths)
-        mass: 1.913 × 10<sup>26</sup> kg<br />(23.905122270407297 Yrths)
+        mass: 1.913 × 10<sup>26</sup> kg<br />(32.031 Yrths)
         density: 1.497 g/cm<sup>3</sup>
         surface_gravity: 13.060 m/s<sup>2</sup><br />(1.332 g<sub>0</sub>)
         escape_velocity: 28.587 km/s<br />(102,914 km/h)
         rotation_period: 56.622 d
         axial_tilt: 18.80°
         albedo: 0.30
-        temperature: 971 K<br />(698 °C)
+        temperature: 154 K<br />(-120 °C)
   - name: 8104 Dialkeshiad IV
     type: Terrestrial
     aphelion: 3,463,629,414 km<br />23.153 AU
@@ -270,14 +270,14 @@ planets:
     radius: 5,112.5 km<br/>(0.802 Yrths)
     surface_area: 3.285 × 10<sup>08</sup> km<sup>2</sup><br/>(0.644 Yrths)
     volume: 5.597 × 10<sup>11</sup> km<sup>3</sup><br/>(0.517 Yrths)
-    mass: 2.489 × 10<sup>24</sup> kg<br />(0.41672808035323594 Yrths)
+    mass: 2.489 × 10<sup>24</sup> kg<br />(0.42 Yrths)
     density: 4.446 g/cm<sup>3</sup>
     surface_gravity: 6.346 m/s<sup>2</sup><br />(0.647 g<sub>0</sub>)
     escape_velocity: 8.061 km/s<br />(29,020 km/h)
     rotation_period: 1.303 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 124 K<br />(-149 °C)
+    temperature: 174 K<br />(-99 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 94.7231% methane
@@ -298,14 +298,14 @@ planets:
         radius: 1,221.5 km<br/>(0.192 Yrths)
         surface_area: 1.875 × 10<sup>07</sup> km<sup>2</sup><br/>(0.037 Yrths)
         volume: 7.634 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 2.108 × 10<sup>22</sup> kg<br />(0.41672808035323594 Yrths)
+        mass: 2.108 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.761 g/cm<sup>3</sup>
         surface_gravity: 0.942 m/s<sup>2</sup><br />(0.096 g<sub>0</sub>)
         escape_velocity: 1.518 km/s<br />(5,464 km/h)
         rotation_period: 42.805 d
         axial_tilt: 19.57°
         albedo: 0.30
-        temperature: 1996 K<br />(1723 °C)
+        temperature: 109 K<br />(-164 °C)
   - name: 8104 Dialkeshiad V
     type: Ice giant
     aphelion: 6,820,845,137 km<br />45.594 AU
@@ -317,14 +317,14 @@ planets:
     radius: 11,684.1 km<br/>(1.834 Yrths)
     surface_area: 1.716 × 10<sup>09</sup> km<sup>2</sup><br/>(3.363 Yrths)
     volume: 6.681 × 10<sup>12</sup> km<sup>3</sup><br/>(6.168 Yrths)
-    mass: 8.837 × 10<sup>24</sup> kg<br />(1.4796720726305197 Yrths)
+    mass: 8.837 × 10<sup>24</sup> kg<br />(1.48 Yrths)
     density: 1.323 g/cm<sup>3</sup>
     surface_gravity: 4.314 m/s<sup>2</sup><br />(0.440 g<sub>0</sub>)
     escape_velocity: 10.048 km/s<br />(36,171 km/h)
     rotation_period: 0.485 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 144 K<br />(-129 °C)
+    temperature: 130 K<br />(-143 °C)
     composition:
       - 89.7845% hydrogen
       - 9.8397% helium
@@ -342,14 +342,14 @@ planets:
         radius: 3,126.8 km<br/>(0.491 Yrths)
         surface_area: 1.229 × 10<sup>08</sup> km<sup>2</sup><br/>(0.241 Yrths)
         volume: 1.280 × 10<sup>11</sup> km<sup>3</sup><br/>(0.118 Yrths)
-        mass: 1.368 × 10<sup>23</sup> kg<br />(1.4796720726305197 Yrths)
+        mass: 1.368 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 1.068 g/cm<sup>3</sup>
         surface_gravity: 0.933 m/s<sup>2</sup><br />(0.095 g<sub>0</sub>)
         escape_velocity: 2.417 km/s<br />(8,700 km/h)
         rotation_period: 75.371 d
         axial_tilt: 19.68°
         albedo: 0.30
-        temperature: 1083 K<br />(810 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 8104 Dialkeshiad V b
         type: Ice/rock hybrid
         formationType: Captured
@@ -362,14 +362,14 @@ planets:
         radius: 4,105.1 km<br/>(0.644 Yrths)
         surface_area: 2.118 × 10<sup>08</sup> km<sup>2</sup><br/>(0.415 Yrths)
         volume: 2.898 × 10<sup>11</sup> km<sup>3</sup><br/>(0.268 Yrths)
-        mass: 5.606 × 10<sup>23</sup> kg<br />(1.4796720726305197 Yrths)
+        mass: 5.606 × 10<sup>23</sup> kg<br />(0.094 Yrths)
         density: 1.934 g/cm<sup>3</sup>
         surface_gravity: 2.217 m/s<sup>2</sup><br />(0.226 g<sub>0</sub>)
         escape_velocity: 4.269 km/s<br />(15,370 km/h)
         rotation_period: 48.972 d
         axial_tilt: 25.45°
         albedo: 0.30
-        temperature: 1033 K<br />(759 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 8104 Dialkeshiad V c
         type: Dwarf planet
         formationType: Accreted
@@ -382,14 +382,14 @@ planets:
         radius: 1,265.3 km<br/>(0.199 Yrths)
         surface_area: 2.012 × 10<sup>07</sup> km<sup>2</sup><br/>(0.039 Yrths)
         volume: 8.486 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 1.018 × 10<sup>22</sup> kg<br />(1.4796720726305197 Yrths)
+        mass: 1.018 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 0.424 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 1.036 km/s<br />(3,731 km/h)
         rotation_period: 49.664 d
         axial_tilt: 23.61°
         albedo: 0.30
-        temperature: 985 K<br />(711 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 8104 Dialkeshiad V d
         type: Ice/rock hybrid
         formationType: Captured
@@ -402,14 +402,14 @@ planets:
         radius: 2,586.2 km<br/>(0.406 Yrths)
         surface_area: 8.405 × 10<sup>07</sup> km<sup>2</sup><br/>(0.165 Yrths)
         volume: 7.246 × 10<sup>10</sup> km<sup>3</sup><br/>(0.067 Yrths)
-        mass: 1.505 × 10<sup>23</sup> kg<br />(1.4796720726305197 Yrths)
+        mass: 1.505 × 10<sup>23</sup> kg<br />(0.025 Yrths)
         density: 2.077 g/cm<sup>3</sup>
         surface_gravity: 1.500 m/s<sup>2</sup><br />(0.153 g<sub>0</sub>)
         escape_velocity: 2.787 km/s<br />(10,034 km/h)
         rotation_period: 46.921 d
         axial_tilt: 10.46°
         albedo: 0.30
-        temperature: 939 K<br />(666 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 8104 Dialkeshiad V e
         type: Icy
         formationType: Accreted
@@ -422,14 +422,14 @@ planets:
         radius: 6,380.0 km<br/>(1.001 Yrths)
         surface_area: 5.115 × 10<sup>08</sup> km<sup>2</sup><br/>(1.003 Yrths)
         volume: 1.088 × 10<sup>12</sup> km<sup>3</sup><br/>(1.004 Yrths)
-        mass: 1.294 × 10<sup>24</sup> kg<br />(1.4796720726305197 Yrths)
+        mass: 1.294 × 10<sup>24</sup> kg<br />(0.217 Yrths)
         density: 1.189 g/cm<sup>3</sup>
         surface_gravity: 2.118 m/s<sup>2</sup><br />(0.216 g<sub>0</sub>)
         escape_velocity: 5.202 km/s<br />(18,728 km/h)
         rotation_period: 45.564 d
         axial_tilt: 14.32°
         albedo: 0.30
-        temperature: 895 K<br />(622 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 8104 Dialkeshiad V f
         type: Ice/rock hybrid
         formationType: Captured
@@ -442,14 +442,14 @@ planets:
         radius: 3,546.4 km<br/>(0.557 Yrths)
         surface_area: 1.580 × 10<sup>08</sup> km<sup>2</sup><br/>(0.310 Yrths)
         volume: 1.868 × 10<sup>11</sup> km<sup>3</sup><br/>(0.172 Yrths)
-        mass: 4.177 × 10<sup>23</sup> kg<br />(1.4796720726305197 Yrths)
+        mass: 4.177 × 10<sup>23</sup> kg<br />(0.070 Yrths)
         density: 2.235 g/cm<sup>3</sup>
         surface_gravity: 2.213 m/s<sup>2</sup><br />(0.226 g<sub>0</sub>)
         escape_velocity: 3.965 km/s<br />(14,274 km/h)
         rotation_period: 62.005 d
         axial_tilt: 15.96°
         albedo: 0.30
-        temperature: 853 K<br />(580 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 8104 Dialkeshiad V g
         type: Ice/rock hybrid
         formationType: Captured
@@ -462,14 +462,14 @@ planets:
         radius: 1,380.2 km<br/>(0.217 Yrths)
         surface_area: 2.394 × 10<sup>07</sup> km<sup>2</sup><br/>(0.047 Yrths)
         volume: 1.101 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 2.571 × 10<sup>22</sup> kg<br />(1.4796720726305197 Yrths)
+        mass: 2.571 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.334 g/cm<sup>3</sup>
         surface_gravity: 0.899 m/s<sup>2</sup><br />(0.092 g<sub>0</sub>)
         escape_velocity: 1.577 km/s<br />(5,676 km/h)
         rotation_period: 63.512 d
         axial_tilt: 29.22°
         albedo: 0.30
-        temperature: 776 K<br />(503 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 8104 Dialkeshiad V h
         type: Icy
         formationType: Impact formed
@@ -482,12 +482,12 @@ planets:
         radius: 1,966.3 km<br/>(0.309 Yrths)
         surface_area: 4.858 × 10<sup>07</sup> km<sup>2</sup><br/>(0.095 Yrths)
         volume: 3.184 × 10<sup>10</sup> km<sup>3</sup><br/>(0.029 Yrths)
-        mass: 5.855 × 10<sup>22</sup> kg<br />(1.4796720726305197 Yrths)
+        mass: 5.855 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 1.839 g/cm<sup>3</sup>
         surface_gravity: 1.009 m/s<sup>2</sup><br />(0.103 g<sub>0</sub>)
         escape_velocity: 1.994 km/s<br />(7,178 km/h)
         rotation_period: 38.231 d
         axial_tilt: 25.82°
         albedo: 0.30
-        temperature: 740 K<br />(467 °C)
+        temperature: 77 K<br />(-196 °C)
 ---

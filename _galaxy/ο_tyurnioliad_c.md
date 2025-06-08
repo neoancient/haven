@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Tyurnioliad C is a star in the constellation Tyurniol
+      ο Tyurnioliad C is a star in the constellation <a href="tyurniol.html">Tyurniol</a>
 distance: 76.25 ly
 apparent_magnitude: 7.69
 absolute_magnitude: 5.84
@@ -31,14 +31,14 @@ planets:
     radius: 9,089.2 km<br/>(1.427 Yrths)
     surface_area: 1.038 × 10<sup>09</sup> km<sup>2</sup><br/>(2.035 Yrths)
     volume: 3.145 × 10<sup>12</sup> km<sup>3</sup><br/>(2.904 Yrths)
-    mass: 1.249 × 10<sup>25</sup> kg<br />(2.0911761433351086 Yrths)
+    mass: 1.249 × 10<sup>25</sup> kg<br />(2.09 Yrths)
     density: 3.971 g/cm<sup>3</sup>
     surface_gravity: 10.076 m/s<sup>2</sup><br />(1.027 g<sub>0</sub>)
     escape_velocity: 13.543 km/s<br />(48,754 km/h)
     rotation_period: 2.206 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 470 K<br />(197 °C)
+    temperature: 420 K<br />(147 °C)
     composition:
       - 57.4445% helium
       - 38.3033% hydrogen
@@ -57,14 +57,14 @@ planets:
         radius: 5,696.2 km<br/>(0.894 Yrths)
         surface_area: 4.077 × 10<sup>08</sup> km<sup>2</sup><br/>(0.799 Yrths)
         volume: 7.742 × 10<sup>11</sup> km<sup>3</sup><br/>(0.715 Yrths)
-        mass: 2.787 × 10<sup>24</sup> kg<br />(2.0911761433351086 Yrths)
+        mass: 2.787 × 10<sup>24</sup> kg<br />(0.467 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 5.725 m/s<sup>2</sup><br />(0.584 g<sub>0</sub>)
         escape_velocity: 8.082 km/s<br />(29,094 km/h)
         rotation_period: 36.891 d
         axial_tilt: 16.59°
         albedo: 0.30
-        temperature: 4055 K<br />(3782 °C)
+        temperature: 334 K<br />(61 °C)
   - name: ο Tyurnioliad C II
     type: Terrestrial
     aphelion: 96,084,532 km<br />0.642 AU
@@ -76,14 +76,14 @@ planets:
     radius: 5,134.7 km<br/>(0.806 Yrths)
     surface_area: 3.313 × 10<sup>08</sup> km<sup>2</sup><br/>(0.650 Yrths)
     volume: 5.671 × 10<sup>11</sup> km<sup>3</sup><br/>(0.523 Yrths)
-    mass: 3.662 × 10<sup>24</sup> kg<br />(0.6131400697507284 Yrths)
+    mass: 3.662 × 10<sup>24</sup> kg<br />(0.61 Yrths)
     density: 6.457 g/cm<sup>3</sup>
     surface_gravity: 9.257 m/s<sup>2</sup><br />(0.944 g<sub>0</sub>)
     escape_velocity: 9.757 km/s<br />(35,124 km/h)
     rotation_period: 2.473 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 289 K<br />(16 °C)
+    temperature: 335 K<br />(62 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 91.0221% nitrogen
@@ -100,14 +100,14 @@ planets:
     radius: 4,666.9 km<br/>(0.733 Yrths)
     surface_area: 2.737 × 10<sup>08</sup> km<sup>2</sup><br/>(0.537 Yrths)
     volume: 4.258 × 10<sup>11</sup> km<sup>3</sup><br/>(0.393 Yrths)
-    mass: 2.434 × 10<sup>24</sup> kg<br />(0.40764028225368665 Yrths)
+    mass: 2.434 × 10<sup>24</sup> kg<br />(0.41 Yrths)
     density: 5.718 g/cm<sup>3</sup>
     surface_gravity: 7.450 m/s<sup>2</sup><br />(0.760 g<sub>0</sub>)
     escape_velocity: 8.345 km/s<br />(30,040 km/h)
     rotation_period: 1.987 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 218 K<br />(-55 °C)
+    temperature: 208 K<br />(-65 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 99.4749% nitrogen
@@ -125,14 +125,14 @@ planets:
         radius: 1,830.2 km<br/>(0.287 Yrths)
         surface_area: 4.209 × 10<sup>07</sup> km<sup>2</sup><br/>(0.083 Yrths)
         volume: 2.568 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 4.163 × 10<sup>22</sup> kg<br />(0.40764028225368665 Yrths)
+        mass: 4.163 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 1.621 g/cm<sup>3</sup>
         surface_gravity: 0.828 m/s<sup>2</sup><br />(0.084 g<sub>0</sub>)
         escape_velocity: 1.742 km/s<br />(6,273 km/h)
         rotation_period: 64.963 d
         axial_tilt: 17.91°
         albedo: 0.30
-        temperature: 3222 K<br />(2949 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: ο Tyurnioliad C IV
     type: Large terrestrial
     aphelion: 266,917,575 km<br />1.784 AU
@@ -144,14 +144,14 @@ planets:
     radius: 8,576.8 km<br/>(1.346 Yrths)
     surface_area: 9.244 × 10<sup>08</sup> km<sup>2</sup><br/>(1.812 Yrths)
     volume: 2.643 × 10<sup>12</sup> km<sup>3</sup><br/>(2.440 Yrths)
-    mass: 1.777 × 10<sup>25</sup> kg<br />(2.976386538427403 Yrths)
+    mass: 1.777 × 10<sup>25</sup> kg<br />(2.98 Yrths)
     density: 6.726 g/cm<sup>3</sup>
     surface_gravity: 16.106 m/s<sup>2</sup><br />(1.642 g<sub>0</sub>)
     escape_velocity: 16.633 km/s<br />(59,877 km/h)
     rotation_period: 0.987 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 266 K<br />(-7 °C)
+    temperature: 733 K<br />(460 °C)
     surface_pressure: 308 kPa<br />(3 atm)
     composition:
       - 97.9677% carbon dioxide
@@ -169,14 +169,14 @@ planets:
         radius: 6,600.2 km<br/>(1.036 Yrths)
         surface_area: 5.474 × 10<sup>08</sup> km<sup>2</sup><br/>(1.073 Yrths)
         volume: 1.204 × 10<sup>12</sup> km<sup>3</sup><br/>(1.112 Yrths)
-        mass: 3.715 × 10<sup>24</sup> kg<br />(2.976386538427403 Yrths)
+        mass: 3.715 × 10<sup>24</sup> kg<br />(0.622 Yrths)
         density: 3.085 g/cm<sup>3</sup>
         surface_gravity: 5.685 m/s<sup>2</sup><br />(0.580 g<sub>0</sub>)
         escape_velocity: 8.668 km/s<br />(31,206 km/h)
         rotation_period: 43.067 d
         axial_tilt: 10.48°
         albedo: 0.30
-        temperature: 2377 K<br />(2104 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: ο Tyurnioliad C IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -189,14 +189,14 @@ planets:
         radius: 1,959.9 km<br/>(0.308 Yrths)
         surface_area: 4.827 × 10<sup>07</sup> km<sup>2</sup><br/>(0.095 Yrths)
         volume: 3.153 × 10<sup>10</sup> km<sup>3</sup><br/>(0.029 Yrths)
-        mass: 8.137 × 10<sup>22</sup> kg<br />(2.976386538427403 Yrths)
+        mass: 8.137 × 10<sup>22</sup> kg<br />(0.014 Yrths)
         density: 2.580 g/cm<sup>3</sup>
         surface_gravity: 1.412 m/s<sup>2</sup><br />(0.144 g<sub>0</sub>)
         escape_velocity: 2.354 km/s<br />(8,475 km/h)
         rotation_period: 61.417 d
         axial_tilt: 20.95°
         albedo: 0.30
-        temperature: 2266 K<br />(1993 °C)
+        temperature: 157 K<br />(-116 °C)
   - name: ο Tyurnioliad C V
     type: Terrestrial
     aphelion: 446,564,096 km<br />2.985 AU
@@ -208,14 +208,14 @@ planets:
     radius: 6,929.3 km<br/>(1.088 Yrths)
     surface_area: 6.034 × 10<sup>08</sup> km<sup>2</sup><br/>(1.183 Yrths)
     volume: 1.394 × 10<sup>12</sup> km<sup>3</sup><br/>(1.287 Yrths)
-    mass: 7.043 × 10<sup>24</sup> kg<br />(1.1793234416567633 Yrths)
+    mass: 7.043 × 10<sup>24</sup> kg<br />(1.18 Yrths)
     density: 5.054 g/cm<sup>3</sup>
     surface_gravity: 9.777 m/s<sup>2</sup><br />(0.997 g<sub>0</sub>)
     escape_velocity: 11.648 km/s<br />(41,933 km/h)
     rotation_period: 1.032 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 138 K<br />(-136 °C)
+    temperature: 164 K<br />(-110 °C)
     surface_pressure: 18 kPa<br />(0 atm)
     composition:
       - 84.7699% nitrogen
@@ -235,14 +235,14 @@ planets:
         radius: 3,689.5 km<br/>(0.579 Yrths)
         surface_area: 1.711 × 10<sup>08</sup> km<sup>2</sup><br/>(0.335 Yrths)
         volume: 2.104 × 10<sup>11</sup> km<sup>3</sup><br/>(0.194 Yrths)
-        mass: 4.760 × 10<sup>23</sup> kg<br />(1.1793234416567633 Yrths)
+        mass: 4.760 × 10<sup>23</sup> kg<br />(0.080 Yrths)
         density: 2.263 g/cm<sup>3</sup>
         surface_gravity: 2.331 m/s<sup>2</sup><br />(0.238 g<sub>0</sub>)
         escape_velocity: 4.150 km/s<br />(14,939 km/h)
         rotation_period: 63.359 d
         axial_tilt: 50.57°
         albedo: 0.30
-        temperature: 1683 K<br />(1409 °C)
+        temperature: 122 K<br />(-151 °C)
       - name: ο Tyurnioliad C V b
         type: Icy
         formationType: Impact formed
@@ -255,14 +255,14 @@ planets:
         radius: 1,930.1 km<br/>(0.303 Yrths)
         surface_area: 4.681 × 10<sup>07</sup> km<sup>2</sup><br/>(0.092 Yrths)
         volume: 3.012 × 10<sup>10</sup> km<sup>3</sup><br/>(0.028 Yrths)
-        mass: 2.920 × 10<sup>22</sup> kg<br />(1.1793234416567633 Yrths)
+        mass: 2.920 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 0.970 g/cm<sup>3</sup>
         surface_gravity: 0.522 m/s<sup>2</sup><br />(0.053 g<sub>0</sub>)
         escape_velocity: 1.421 km/s<br />(5,116 km/h)
         rotation_period: 66.705 d
         axial_tilt: 8.26°
         albedo: 0.30
-        temperature: 1604 K<br />(1331 °C)
+        temperature: 122 K<br />(-151 °C)
   - name: ο Tyurnioliad C VI
     type: Large terrestrial
     aphelion: 716,037,041 km<br />4.786 AU
@@ -274,14 +274,14 @@ planets:
     radius: 7,972.4 km<br/>(1.251 Yrths)
     surface_area: 7.987 × 10<sup>08</sup> km<sup>2</sup><br/>(1.566 Yrths)
     volume: 2.123 × 10<sup>12</sup> km<sup>3</sup><br/>(1.959 Yrths)
-    mass: 1.521 × 10<sup>25</sup> kg<br />(2.547157449302121 Yrths)
+    mass: 1.521 × 10<sup>25</sup> kg<br />(2.55 Yrths)
     density: 7.167 g/cm<sup>3</sup>
     surface_gravity: 15.952 m/s<sup>2</sup><br />(1.627 g<sub>0</sub>)
     escape_velocity: 15.959 km/s<br />(57,453 km/h)
     rotation_period: 0.814 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 124 K<br />(-149 °C)
+    temperature: 152 K<br />(-122 °C)
     surface_pressure: 213 kPa<br />(2 atm)
     composition:
       - 83.1905% methane
@@ -301,14 +301,14 @@ planets:
         radius: 4,637.2 km<br/>(0.728 Yrths)
         surface_area: 2.702 × 10<sup>08</sup> km<sup>2</sup><br/>(0.530 Yrths)
         volume: 4.177 × 10<sup>11</sup> km<sup>3</sup><br/>(0.386 Yrths)
-        mass: 1.161 × 10<sup>24</sup> kg<br />(2.547157449302121 Yrths)
+        mass: 1.161 × 10<sup>24</sup> kg<br />(0.194 Yrths)
         density: 2.780 g/cm<sup>3</sup>
         surface_gravity: 3.599 m/s<sup>2</sup><br />(0.367 g<sub>0</sub>)
         escape_velocity: 5.781 km/s<br />(20,813 km/h)
         rotation_period: 56.341 d
         axial_tilt: 16.61°
         albedo: 0.30
-        temperature: 1169 K<br />(896 °C)
+        temperature: 95 K<br />(-178 °C)
       - name: ο Tyurnioliad C VI b
         type: Rocky
         formationType: Accreted
@@ -321,14 +321,14 @@ planets:
         radius: 5,206.1 km<br/>(0.817 Yrths)
         surface_area: 3.406 × 10<sup>08</sup> km<sup>2</sup><br/>(0.668 Yrths)
         volume: 5.911 × 10<sup>11</sup> km<sup>3</sup><br/>(0.546 Yrths)
-        mass: 1.654 × 10<sup>24</sup> kg<br />(2.547157449302121 Yrths)
+        mass: 1.654 × 10<sup>24</sup> kg<br />(0.277 Yrths)
         density: 2.799 g/cm<sup>3</sup>
         surface_gravity: 4.068 m/s<sup>2</sup><br />(0.415 g<sub>0</sub>)
         escape_velocity: 6.513 km/s<br />(23,445 km/h)
         rotation_period: 53.913 d
         axial_tilt: 15.68°
         albedo: 0.30
-        temperature: 1115 K<br />(841 °C)
+        temperature: 95 K<br />(-178 °C)
       - name: ο Tyurnioliad C VI c
         type: Dwarf planet
         formationType: Accreted
@@ -341,14 +341,14 @@ planets:
         radius: 5,378.5 km<br/>(0.844 Yrths)
         surface_area: 3.635 × 10<sup>08</sup> km<sup>2</sup><br/>(0.713 Yrths)
         volume: 6.517 × 10<sup>11</sup> km<sup>3</sup><br/>(0.602 Yrths)
-        mass: 1.090 × 10<sup>24</sup> kg<br />(2.547157449302121 Yrths)
+        mass: 1.090 × 10<sup>24</sup> kg<br />(0.183 Yrths)
         density: 1.673 g/cm<sup>3</sup>
         surface_gravity: 2.512 m/s<sup>2</sup><br />(0.256 g<sub>0</sub>)
         escape_velocity: 5.202 km/s<br />(18,728 km/h)
         rotation_period: 46.887 d
         axial_tilt: 33.48°
         albedo: 0.30
-        temperature: 1013 K<br />(740 °C)
+        temperature: 95 K<br />(-178 °C)
       - name: ο Tyurnioliad C VI d
         type: Asteroid
         formationType: Captured
@@ -361,14 +361,14 @@ planets:
         radius: 4,569.2 km<br/>(0.717 Yrths)
         surface_area: 2.624 × 10<sup>08</sup> km<sup>2</sup><br/>(0.514 Yrths)
         volume: 3.996 × 10<sup>11</sup> km<sup>3</sup><br/>(0.369 Yrths)
-        mass: 5.673 × 10<sup>23</sup> kg<br />(2.547157449302121 Yrths)
+        mass: 5.673 × 10<sup>23</sup> kg<br />(0.095 Yrths)
         density: 1.420 g/cm<sup>3</sup>
         surface_gravity: 1.811 m/s<sup>2</sup><br />(0.185 g<sub>0</sub>)
         escape_velocity: 4.071 km/s<br />(14,655 km/h)
         rotation_period: 62.360 d
         axial_tilt: 53.13°
         albedo: 0.30
-        temperature: 966 K<br />(693 °C)
+        temperature: 95 K<br />(-178 °C)
   - name: ο Tyurnioliad C VII
     type: Gas giant
     aphelion: 1,204,207,018 km<br />8.050 AU
@@ -380,7 +380,7 @@ planets:
     radius: 204.3 km<br/>(0.032 Yrths)
     surface_area: 5.244 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.571 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.103 × 10<sup>27</sup> kg<br />(184.65734394374107 Yrths)
+    mass: 1.103 × 10<sup>27</sup> kg<br />(184.66 Yrths)
     density: 30885191.179 g/cm<sup>3</sup>
     surface_gravity: 1761452.015 m/s<sup>2</sup><br />(179618.118 g<sub>0</sub>)
     escape_velocity: 848.893 km/s<br />(3,056,016 km/h)
@@ -401,14 +401,14 @@ planets:
         radius: 93,164.8 km<br/>(14.623 Yrths)
         surface_area: 1.091 × 10<sup>11</sup> km<sup>2</sup><br/>(213.840 Yrths)
         volume: 3.387 × 10<sup>15</sup> km<sup>3</sup><br/>(3127.038 Yrths)
-        mass: 7.318 × 10<sup>27</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 7.318 × 10<sup>27</sup> kg<br />(1225.391 Yrths)
         density: 2.160 g/cm<sup>3</sup>
         surface_gravity: 56.196 m/s<sup>2</sup><br />(5.730 g<sub>0</sub>)
         escape_velocity: 102.397 km/s<br />(368,631 km/h)
         rotation_period: 39.608 d
         axial_tilt: 24.08°
         albedo: 0.30
-        temperature: 290 K<br />(17 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -421,14 +421,14 @@ planets:
         radius: 133,412.1 km<br/>(20.941 Yrths)
         surface_area: 2.237 × 10<sup>11</sup> km<sup>2</sup><br/>(438.505 Yrths)
         volume: 9.947 × 10<sup>15</sup> km<sup>3</sup><br/>(9182.531 Yrths)
-        mass: 2.224 × 10<sup>28</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 2.224 × 10<sup>28</sup> kg<br />(3723.382 Yrths)
         density: 2.236 g/cm<sup>3</sup>
         surface_gravity: 83.269 m/s<sup>2</sup><br />(8.491 g<sub>0</sub>)
         escape_velocity: 149.159 km/s<br />(536,972 km/h)
         rotation_period: 35.416 d
         axial_tilt: 16.30°
         albedo: 0.30
-        temperature: 229 K<br />(-44 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -441,14 +441,14 @@ planets:
         radius: 99,688.7 km<br/>(15.647 Yrths)
         surface_area: 1.249 × 10<sup>11</sup> km<sup>2</sup><br/>(244.837 Yrths)
         volume: 4.150 × 10<sup>15</sup> km<sup>3</sup><br/>(3831.025 Yrths)
-        mass: 7.592 × 10<sup>27</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 7.592 × 10<sup>27</sup> kg<br />(1271.333 Yrths)
         density: 1.830 g/cm<sup>3</sup>
         surface_gravity: 50.922 m/s<sup>2</sup><br />(5.193 g<sub>0</sub>)
         escape_velocity: 100.829 km/s<br />(362,984 km/h)
         rotation_period: 43.397 d
         axial_tilt: 14.92°
         albedo: 0.30
-        temperature: 208 K<br />(-65 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -461,14 +461,14 @@ planets:
         radius: 98,083.4 km<br/>(15.395 Yrths)
         surface_area: 1.209 × 10<sup>11</sup> km<sup>2</sup><br/>(237.015 Yrths)
         volume: 3.953 × 10<sup>15</sup> km<sup>3</sup><br/>(3648.916 Yrths)
-        mass: 7.093 × 10<sup>27</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 7.093 × 10<sup>27</sup> kg<br />(1187.786 Yrths)
         density: 1.795 g/cm<sup>3</sup>
         surface_gravity: 49.145 m/s<sup>2</sup><br />(5.011 g<sub>0</sub>)
         escape_velocity: 98.254 km/s<br />(353,713 km/h)
         rotation_period: 53.418 d
         axial_tilt: 19.92°
         albedo: 0.30
-        temperature: 180 K<br />(-93 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII e
         type: Icy
         formationType: Captured
@@ -481,14 +481,14 @@ planets:
         radius: 112,079.7 km<br/>(17.592 Yrths)
         surface_area: 1.579 × 10<sup>11</sup> km<sup>2</sup><br/>(309.484 Yrths)
         volume: 5.898 × 10<sup>15</sup> km<sup>3</sup><br/>(5444.494 Yrths)
-        mass: 9.771 × 10<sup>27</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 9.771 × 10<sup>27</sup> kg<br />(1636.087 Yrths)
         density: 1.657 g/cm<sup>3</sup>
         surface_gravity: 51.843 m/s<sup>2</sup><br />(5.286 g<sub>0</sub>)
         escape_velocity: 107.874 km/s<br />(388,347 km/h)
         rotation_period: 61.010 d
         axial_tilt: 15.08°
         albedo: 0.30
-        temperature: 107 K<br />(-166 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII f
         type: Icy
         formationType: Impact formed
@@ -501,14 +501,14 @@ planets:
         radius: 109,214.9 km<br/>(17.143 Yrths)
         surface_area: 1.499 × 10<sup>11</sup> km<sup>2</sup><br/>(293.866 Yrths)
         volume: 5.457 × 10<sup>15</sup> km<sup>3</sup><br/>(5037.596 Yrths)
-        mass: 6.970 × 10<sup>27</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 6.970 × 10<sup>27</sup> kg<br />(1167.125 Yrths)
         density: 1.277 g/cm<sup>3</sup>
         surface_gravity: 38.948 m/s<sup>2</sup><br />(3.972 g<sub>0</sub>)
         escape_velocity: 92.299 km/s<br />(332,275 km/h)
         rotation_period: 54.942 d
         axial_tilt: 20.04°
         albedo: 0.30
-        temperature: 63 K<br />(-210 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII g
         type: Icy
         formationType: Accreted
@@ -521,14 +521,14 @@ planets:
         radius: 121,440.1 km<br/>(19.061 Yrths)
         surface_area: 1.853 × 10<sup>11</sup> km<sup>2</sup><br/>(363.336 Yrths)
         volume: 7.502 × 10<sup>15</sup> km<sup>3</sup><br/>(6925.696 Yrths)
-        mass: 1.123 × 10<sup>28</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 1.123 × 10<sup>28</sup> kg<br />(1880.890 Yrths)
         density: 1.497 g/cm<sup>3</sup>
         surface_gravity: 50.766 m/s<sup>2</sup><br />(5.177 g<sub>0</sub>)
         escape_velocity: 111.116 km/s<br />(400,019 km/h)
         rotation_period: 51.658 d
         axial_tilt: 9.18°
         albedo: 0.30
-        temperature: 57 K<br />(-216 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII h
         type: Icy
         formationType: Impact formed
@@ -541,14 +541,14 @@ planets:
         radius: 157,254.3 km<br/>(24.683 Yrths)
         surface_area: 3.108 × 10<sup>11</sup> km<sup>2</sup><br/>(609.242 Yrths)
         volume: 1.629 × 10<sup>16</sup> km<sup>3</sup><br/>(15037.817 Yrths)
-        mass: 1.933 × 10<sup>28</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 1.933 × 10<sup>28</sup> kg<br />(3236.215 Yrths)
         density: 1.186 g/cm<sup>3</sup>
         surface_gravity: 52.092 m/s<sup>2</sup><br />(5.312 g<sub>0</sub>)
         escape_velocity: 128.084 km/s<br />(461,103 km/h)
         rotation_period: 46.299 d
         axial_tilt: 12.75°
         albedo: 0.30
-        temperature: 50 K<br />(-223 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII i
         type: Asteroid
         formationType: Captured
@@ -561,14 +561,14 @@ planets:
         radius: 126,304.3 km<br/>(19.825 Yrths)
         surface_area: 2.005 × 10<sup>11</sup> km<sup>2</sup><br/>(393.026 Yrths)
         volume: 8.440 × 10<sup>15</sup> km<sup>3</sup><br/>(7791.691 Yrths)
-        mass: 2.319 × 10<sup>28</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 2.319 × 10<sup>28</sup> kg<br />(3883.078 Yrths)
         density: 2.748 g/cm<sup>3</sup>
         surface_gravity: 96.889 m/s<sup>2</sup><br />(9.880 g<sub>0</sub>)
         escape_velocity: 156.551 km/s<br />(563,585 km/h)
         rotation_period: 59.079 d
         axial_tilt: 54.38°
         albedo: 0.30
-        temperature: 41 K<br />(-232 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII j
         type: Icy
         formationType: Accreted
@@ -581,14 +581,14 @@ planets:
         radius: 137,086.3 km<br/>(21.517 Yrths)
         surface_area: 2.362 × 10<sup>11</sup> km<sup>2</sup><br/>(462.991 Yrths)
         volume: 1.079 × 10<sup>16</sup> km<sup>3</sup><br/>(9962.284 Yrths)
-        mass: 2.022 × 10<sup>28</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 2.022 × 10<sup>28</sup> kg<br />(3386.139 Yrths)
         density: 1.874 g/cm<sup>3</sup>
         surface_gravity: 71.722 m/s<sup>2</sup><br />(7.314 g<sub>0</sub>)
         escape_velocity: 140.324 km/s<br />(505,168 km/h)
         rotation_period: 40.607 d
         axial_tilt: 26.42°
         albedo: 0.30
-        temperature: 37 K<br />(-236 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII k
         type: Icy
         formationType: Accreted
@@ -601,14 +601,14 @@ planets:
         radius: 127,736.8 km<br/>(20.050 Yrths)
         surface_area: 2.050 × 10<sup>11</sup> km<sup>2</sup><br/>(401.991 Yrths)
         volume: 8.730 × 10<sup>15</sup> km<sup>3</sup><br/>(8059.813 Yrths)
-        mass: 1.326 × 10<sup>28</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 1.326 × 10<sup>28</sup> kg<br />(2220.464 Yrths)
         density: 1.519 g/cm<sup>3</sup>
         surface_gravity: 54.169 m/s<sup>2</sup><br />(5.524 g<sub>0</sub>)
         escape_velocity: 117.718 km/s<br />(423,784 km/h)
         rotation_period: 65.734 d
         axial_tilt: 17.28°
         albedo: 0.30
-        temperature: 32 K<br />(-241 °C)
+        temperature: 74 K<br />(-199 °C)
       - name: ο Tyurnioliad C VII l
         type: Icy
         formationType: Accreted
@@ -621,12 +621,12 @@ planets:
         radius: 135,987.7 km<br/>(21.345 Yrths)
         surface_area: 2.324 × 10<sup>11</sup> km<sup>2</sup><br/>(455.600 Yrths)
         volume: 1.053 × 10<sup>16</sup> km<sup>3</sup><br/>(9724.687 Yrths)
-        mass: 9.860 × 10<sup>27</sup> kg<br />(184.65734394374107 Yrths)
+        mass: 9.860 × 10<sup>27</sup> kg<br />(1651.068 Yrths)
         density: 0.936 g/cm<sup>3</sup>
         surface_gravity: 35.539 m/s<sup>2</sup><br />(3.624 g<sub>0</sub>)
         escape_velocity: 98.381 km/s<br />(354,171 km/h)
         rotation_period: 76.812 d
         axial_tilt: 18.12°
         albedo: 0.30
-        temperature: 24 K<br />(-249 °C)
+        temperature: 74 K<br />(-199 °C)
 ---

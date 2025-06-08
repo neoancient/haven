@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      19617 Reggiad A is a star in the constellation Reg
+      19617 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 641.38 ly
 apparent_magnitude: 7.65
 absolute_magnitude: 1.18

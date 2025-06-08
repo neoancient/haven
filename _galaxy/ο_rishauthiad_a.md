@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Rishauthiad A is a star in the constellation Rishauth
+      ο Rishauthiad A is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 396.05 ly
 apparent_magnitude: 4.36
 absolute_magnitude: -1.06

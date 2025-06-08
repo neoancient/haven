@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1967 Shanniashiad A is a star in the constellation Shannias
+      1967 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 666.11 ly
 apparent_magnitude: 7.16
 absolute_magnitude: 0.61

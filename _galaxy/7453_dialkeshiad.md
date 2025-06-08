@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7453 Dialkeshiad is a star in the constellation Dialkes
+      7453 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 518.79 ly
 apparent_magnitude: 10.66
 absolute_magnitude: 4.65

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2859 Lunaiad is a star in the constellation Luna
+      2859 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 269.09 ly
 apparent_magnitude: 14.44
 absolute_magnitude: 9.86

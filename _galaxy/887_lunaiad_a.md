@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      887 Lunaiad A is a star in the constellation Luna
+      887 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 572.21 ly
 apparent_magnitude: 7.35
 absolute_magnitude: 1.13

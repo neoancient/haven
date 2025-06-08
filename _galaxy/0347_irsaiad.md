@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0347 Irsaiad is a star in the constellation Irsa
+      0347 Irsaiad is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 579.52 ly
 apparent_magnitude: 6.33
 absolute_magnitude: 0.08
@@ -31,14 +31,14 @@ planets:
     radius: 24,690.3 km<br/>(3.875 Yrths)
     surface_area: 7.661 × 10<sup>09</sup> km<sup>2</sup><br/>(15.019 Yrths)
     volume: 6.305 × 10<sup>13</sup> km<sup>3</sup><br/>(58.204 Yrths)
-    mass: 9.175 × 10<sup>25</sup> kg<br />(15.363532377745504 Yrths)
+    mass: 9.175 × 10<sup>25</sup> kg<br />(15.36 Yrths)
     density: 1.455 g/cm<sup>3</sup>
     surface_gravity: 10.032 m/s<sup>2</sup><br />(1.023 g<sub>0</sub>)
     escape_velocity: 22.272 km/s<br />(80,179 km/h)
     rotation_period: 0.393 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 765 K<br />(492 °C)
+    temperature: 703 K<br />(430 °C)
     composition:
       - 71.7548% hydrogen
       - 20.1666% helium
@@ -57,14 +57,14 @@ planets:
         radius: 15,872.1 km<br/>(2.491 Yrths)
         surface_area: 3.166 × 10<sup>09</sup> km<sup>2</sup><br/>(6.207 Yrths)
         volume: 1.675 × 10<sup>13</sup> km<sup>3</sup><br/>(15.463 Yrths)
-        mass: 4.246 × 10<sup>25</sup> kg<br />(15.363532377745504 Yrths)
+        mass: 4.246 × 10<sup>25</sup> kg<br />(7.110 Yrths)
         density: 2.535 g/cm<sup>3</sup>
         surface_gravity: 11.234 m/s<sup>2</sup><br />(1.146 g<sub>0</sub>)
         escape_velocity: 18.897 km/s<br />(68,030 km/h)
         rotation_period: 51.251 d
         axial_tilt: 21.53°
         albedo: 0.30
-        temperature: 3855 K<br />(3582 °C)
+        temperature: 371 K<br />(98 °C)
       - name: 0347 Irsaiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 14,484.5 km<br/>(2.274 Yrths)
         surface_area: 2.636 × 10<sup>09</sup> km<sup>2</sup><br/>(5.169 Yrths)
         volume: 1.273 × 10<sup>13</sup> km<sup>3</sup><br/>(11.751 Yrths)
-        mass: 3.040 × 10<sup>25</sup> kg<br />(15.363532377745504 Yrths)
+        mass: 3.040 × 10<sup>25</sup> kg<br />(5.090 Yrths)
         density: 2.388 g/cm<sup>3</sup>
         surface_gravity: 9.657 m/s<sup>2</sup><br />(0.985 g<sub>0</sub>)
         escape_velocity: 16.737 km/s<br />(60,253 km/h)
         rotation_period: 60.991 d
         axial_tilt: 19.36°
         albedo: 0.30
-        temperature: 3505 K<br />(3232 °C)
+        temperature: 371 K<br />(98 °C)
       - name: 0347 Irsaiad I c
         type: Asteroid
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 15,874.4 km<br/>(2.492 Yrths)
         surface_area: 3.167 × 10<sup>09</sup> km<sup>2</sup><br/>(6.208 Yrths)
         volume: 1.676 × 10<sup>13</sup> km<sup>3</sup><br/>(15.469 Yrths)
-        mass: 4.743 × 10<sup>25</sup> kg<br />(15.363532377745504 Yrths)
+        mass: 4.743 × 10<sup>25</sup> kg<br />(7.942 Yrths)
         density: 2.830 g/cm<sup>3</sup>
         surface_gravity: 12.545 m/s<sup>2</sup><br />(1.279 g<sub>0</sub>)
         escape_velocity: 19.971 km/s<br />(71,894 km/h)
         rotation_period: 32.148 d
         axial_tilt: 22.01°
         albedo: 0.30
-        temperature: 3342 K<br />(3069 °C)
+        temperature: 371 K<br />(98 °C)
       - name: 0347 Irsaiad I d
         type: Icy
         formationType: Impact formed
@@ -117,14 +117,14 @@ planets:
         radius: 13,238.3 km<br/>(2.078 Yrths)
         surface_area: 2.202 × 10<sup>09</sup> km<sup>2</sup><br/>(4.318 Yrths)
         volume: 9.718 × 10<sup>12</sup> km<sup>3</sup><br/>(8.972 Yrths)
-        mass: 1.215 × 10<sup>25</sup> kg<br />(15.363532377745504 Yrths)
+        mass: 1.215 × 10<sup>25</sup> kg<br />(2.034 Yrths)
         density: 1.250 g/cm<sup>3</sup>
         surface_gravity: 4.619 m/s<sup>2</sup><br />(0.471 g<sub>0</sub>)
         escape_velocity: 11.067 km/s<br />(39,840 km/h)
         rotation_period: 48.111 d
         axial_tilt: 15.91°
         albedo: 0.30
-        temperature: 3186 K<br />(2913 °C)
+        temperature: 371 K<br />(98 °C)
       - name: 0347 Irsaiad I e
         type: Dwarf planet
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 25,381.0 km<br/>(3.984 Yrths)
         surface_area: 8.095 × 10<sup>09</sup> km<sup>2</sup><br/>(15.871 Yrths)
         volume: 6.849 × 10<sup>13</sup> km<sup>3</sup><br/>(63.227 Yrths)
-        mass: 1.381 × 10<sup>26</sup> kg<br />(15.363532377745504 Yrths)
+        mass: 1.381 × 10<sup>26</sup> kg<br />(23.123 Yrths)
         density: 2.016 g/cm<sup>3</sup>
         surface_gravity: 14.287 m/s<sup>2</sup><br />(1.457 g<sub>0</sub>)
         escape_velocity: 26.949 km/s<br />(97,016 km/h)
         rotation_period: 46.833 d
         axial_tilt: 12.54°
         albedo: 0.30
-        temperature: 3038 K<br />(2765 °C)
+        temperature: 371 K<br />(98 °C)
       - name: 0347 Irsaiad I f
         type: Asteroid
         formationType: Captured
@@ -157,12 +157,12 @@ planets:
         radius: 10,288.3 km<br/>(1.615 Yrths)
         surface_area: 1.330 × 10<sup>09</sup> km<sup>2</sup><br/>(2.608 Yrths)
         volume: 4.562 × 10<sup>12</sup> km<sup>3</sup><br/>(4.211 Yrths)
-        mass: 1.192 × 10<sup>25</sup> kg<br />(15.363532377745504 Yrths)
+        mass: 1.192 × 10<sup>25</sup> kg<br />(1.997 Yrths)
         density: 2.614 g/cm<sup>3</sup>
         surface_gravity: 7.509 m/s<sup>2</sup><br />(0.766 g<sub>0</sub>)
         escape_velocity: 12.438 km/s<br />(44,778 km/h)
         rotation_period: 44.232 d
         axial_tilt: 34.95°
         albedo: 0.30
-        temperature: 2897 K<br />(2623 °C)
+        temperature: 371 K<br />(98 °C)
 ---

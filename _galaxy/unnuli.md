@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Unnuli is a star in the constellation Kinan
+      Unnuli is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 198.74 ly
 apparent_magnitude: 1.88
 absolute_magnitude: -2.04

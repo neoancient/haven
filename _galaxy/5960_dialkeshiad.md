@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5960 Dialkeshiad is a star in the constellation Dialkes
+      5960 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 489.23 ly
 apparent_magnitude: 10.67
 absolute_magnitude: 4.78

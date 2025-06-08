@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2062 Narashiad is a star in the constellation Naras
+      2062 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 496.62 ly
 apparent_magnitude: 10.94
 absolute_magnitude: 5.03

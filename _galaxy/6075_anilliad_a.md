@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6075 Anilliad A is a star in the constellation Anil
+      6075 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 141.80 ly
 apparent_magnitude: 8.73
 absolute_magnitude: 5.54

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      24426 Narashiad is a star in the constellation Naras
+      24426 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 465.17 ly
 apparent_magnitude: 11.12
 absolute_magnitude: 5.35

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10620 Tanashad A is a star in the constellation Tanas
+      10620 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 247.46 ly
 apparent_magnitude: 7.18
 absolute_magnitude: 2.78

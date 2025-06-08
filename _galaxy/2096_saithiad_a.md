@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2096 Saithiad A is a star in the constellation Saith
+      2096 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 961.33 ly
 apparent_magnitude: 6.89
 absolute_magnitude: -0.46

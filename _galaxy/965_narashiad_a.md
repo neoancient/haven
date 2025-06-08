@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      965 Narashiad A is a star in the constellation Naras
+      965 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 433.77 ly
 apparent_magnitude: 8.35
 absolute_magnitude: 2.73

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      γ Tenioshiad A is a star in the constellation Tenios
+      γ Tenioshiad A is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 312.08 ly
 apparent_magnitude: 4.43
 absolute_magnitude: -0.48

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0242 Tanashad C is a star in the constellation Tanas
+      0242 Tanashad C is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 2573.90 ly
 apparent_magnitude: 19.06
 absolute_magnitude: 9.58
@@ -31,14 +31,14 @@ planets:
     radius: 2,737.2 km<br/>(0.430 Yrths)
     surface_area: 9.415 × 10<sup>07</sup> km<sup>2</sup><br/>(0.185 Yrths)
     volume: 8.590 × 10<sup>10</sup> km<sup>3</sup><br/>(0.079 Yrths)
-    mass: 1.192 × 10<sup>25</sup> kg<br />(1.9962231693972656 Yrths)
+    mass: 1.192 × 10<sup>25</sup> kg<br />(2.00 Yrths)
     density: 138.776 g/cm<sup>3</sup>
     surface_gravity: 106.054 m/s<sup>2</sup><br />(10.815 g<sub>0</sub>)
     escape_velocity: 24.112 km/s<br />(86,802 km/h)
     rotation_period: 2.918 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 604 K<br />(331 °C)
+    temperature: 1602 K<br />(1329 °C)
     surface_pressure: 1,275 kPa<br />(13 atm)
     composition:
       - 90.5972% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 3,201.7 km<br/>(0.503 Yrths)
         surface_area: 1.288 × 10<sup>08</sup> km<sup>2</sup><br/>(0.253 Yrths)
         volume: 1.375 × 10<sup>11</sup> km<sup>3</sup><br/>(0.127 Yrths)
-        mass: 4.949 × 10<sup>23</sup> kg<br />(1.9962231693972656 Yrths)
+        mass: 4.949 × 10<sup>23</sup> kg<br />(0.083 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 3.218 m/s<sup>2</sup><br />(0.328 g<sub>0</sub>)
         escape_velocity: 4.542 km/s<br />(16,353 km/h)
         rotation_period: 31.385 d
         axial_tilt: 17.23°
         albedo: 0.30
-        temperature: 5672 K<br />(5399 °C)
+        temperature: 333 K<br />(60 °C)
   - name: 0242 Tanashad C II
     type: Large terrestrial
     aphelion: 61,393,108 km<br />0.410 AU
@@ -75,14 +75,14 @@ planets:
     radius: 2,764.0 km<br/>(0.434 Yrths)
     surface_area: 9.600 × 10<sup>07</sup> km<sup>2</sup><br/>(0.188 Yrths)
     volume: 8.845 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.752 g/cm<sup>3</sup>
     surface_gravity: 5.210 m/s<sup>2</sup><br />(0.531 g<sub>0</sub>)
     escape_velocity: 5.370 km/s<br />(19,333 km/h)
     rotation_period: 4.873 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 358 K<br />(84 °C)
+    temperature: 692 K<br />(419 °C)
     surface_pressure: 115 kPa<br />(1 atm)
     composition:
       - 50.4483% nitrogen
@@ -101,14 +101,14 @@ planets:
         radius: 246.6 km<br/>(0.039 Yrths)
         surface_area: 7.642 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 6.281 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.190 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.190 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.487 g/cm<sup>3</sup>
         surface_gravity: 0.240 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.344 km/s<br />(1,240 km/h)
         rotation_period: 30.712 d
         axial_tilt: 14.66°
         albedo: 0.30
-        temperature: 6446 K<br />(6172 °C)
+        temperature: 258 K<br />(-15 °C)
       - name: 0242 Tanashad C II b
         type: Rocky
         formationType: Accreted
@@ -121,14 +121,14 @@ planets:
         radius: 675.7 km<br/>(0.106 Yrths)
         surface_area: 5.738 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.292 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 4.023 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.023 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.112 g/cm<sup>3</sup>
         surface_gravity: 0.587 m/s<sup>2</sup><br />(0.060 g<sub>0</sub>)
         escape_velocity: 0.891 km/s<br />(3,209 km/h)
         rotation_period: 55.447 d
         axial_tilt: 16.41°
         albedo: 0.30
-        temperature: 6146 K<br />(5872 °C)
+        temperature: 258 K<br />(-15 °C)
       - name: 0242 Tanashad C II c
         type: Rocky
         formationType: Captured
@@ -141,14 +141,14 @@ planets:
         radius: 325.8 km<br/>(0.051 Yrths)
         surface_area: 1.334 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.449 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.767 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.767 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.290 g/cm<sup>3</sup>
         surface_gravity: 0.299 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.442 km/s<br />(1,591 km/h)
         rotation_period: 36.930 d
         axial_tilt: 13.25°
         albedo: 0.30
-        temperature: 5860 K<br />(5586 °C)
+        temperature: 258 K<br />(-15 °C)
   - name: 0242 Tanashad C III
     type: Large terrestrial
     aphelion: 102,436,569 km<br />0.685 AU
@@ -160,7 +160,7 @@ planets:
     radius: 2,848.3 km<br/>(0.447 Yrths)
     surface_area: 1.019 × 10<sup>08</sup> km<sup>2</sup><br/>(0.200 Yrths)
     volume: 9.679 × 10<sup>10</sup> km<sup>3</sup><br/>(0.089 Yrths)
-    mass: 8.640 × 10<sup>24</sup> kg<br />(1.4467578952308489 Yrths)
+    mass: 8.640 × 10<sup>24</sup> kg<br />(1.45 Yrths)
     density: 89.262 g/cm<sup>3</sup>
     surface_gravity: 70.984 m/s<sup>2</sup><br />(7.238 g<sub>0</sub>)
     escape_velocity: 20.123 km/s<br />(72,441 km/h)
@@ -181,14 +181,14 @@ planets:
         radius: 984.4 km<br/>(0.155 Yrths)
         surface_area: 1.218 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 3.995 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.080 × 10<sup>22</sup> kg<br />(1.4467578952308489 Yrths)
+        mass: 1.080 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.703 g/cm<sup>3</sup>
         surface_gravity: 0.743 m/s<sup>2</sup><br />(0.076 g<sub>0</sub>)
         escape_velocity: 1.210 km/s<br />(4,357 km/h)
         rotation_period: 41.363 d
         axial_tilt: 14.11°
         albedo: 0.30
-        temperature: 2770 K<br />(2497 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: 0242 Tanashad C III b
         type: Icy
         formationType: Impact formed
@@ -201,12 +201,12 @@ planets:
         radius: 6,944.9 km<br/>(1.090 Yrths)
         surface_area: 6.061 × 10<sup>08</sup> km<sup>2</sup><br/>(1.188 Yrths)
         volume: 1.403 × 10<sup>12</sup> km<sup>3</sup><br/>(1.295 Yrths)
-        mass: 1.039 × 10<sup>24</sup> kg<br />(1.4467578952308489 Yrths)
+        mass: 1.039 × 10<sup>24</sup> kg<br />(0.174 Yrths)
         density: 0.740 g/cm<sup>3</sup>
         surface_gravity: 1.435 m/s<sup>2</sup><br />(0.146 g<sub>0</sub>)
         escape_velocity: 4.468 km/s<br />(16,085 km/h)
         rotation_period: 84.897 d
         axial_tilt: 14.05°
         albedo: 0.30
-        temperature: 2641 K<br />(2368 °C)
+        temperature: 200 K<br />(-73 °C)
 ---

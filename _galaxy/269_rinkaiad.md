@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      269 Rinkaiad is a star in the constellation Rinka
+      269 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 856.44 ly
 apparent_magnitude: 11.51
 absolute_magnitude: 4.42

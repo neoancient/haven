@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1024 Geardiad is a star in the constellation Geard
+      1024 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 389.12 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 5.41

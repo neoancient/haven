@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8035 Dialkeshiad is a star in the constellation Dialkes
+      8035 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 539.59 ly
 apparent_magnitude: 11.50
 absolute_magnitude: 5.41

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7210 Tanashad is a star in the constellation Tanas
+      7210 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 979.07 ly
 apparent_magnitude: 12.60
 absolute_magnitude: 5.21

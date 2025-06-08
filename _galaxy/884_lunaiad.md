@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      884 Lunaiad is a star in the constellation Luna
+      884 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 746.98 ly
 apparent_magnitude: 11.58
 absolute_magnitude: 4.78

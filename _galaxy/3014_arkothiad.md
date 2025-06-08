@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3014 Arkothiad is a star in the constellation Arkoth
+      3014 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 928.48 ly
 apparent_magnitude: 12.49
 absolute_magnitude: 5.21

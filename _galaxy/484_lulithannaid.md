@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      484 Lulithannaid is a star in the constellation Lulithan
+      484 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 355.72 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 3.64

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1056 Niniunniad A is a star in the constellation Niniun
+      1056 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 211.38 ly
 apparent_magnitude: 9.44
 absolute_magnitude: 5.38

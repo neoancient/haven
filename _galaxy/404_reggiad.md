@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      404 Reggiad is a star in the constellation Reg
+      404 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 919.77 ly
 apparent_magnitude: 10.49
 absolute_magnitude: 3.24

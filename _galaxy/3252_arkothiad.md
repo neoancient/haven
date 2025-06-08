@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3252 Arkothiad is a star in the constellation Arkoth
+      3252 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 406.78 ly
 apparent_magnitude: 10.49
 absolute_magnitude: 5.01

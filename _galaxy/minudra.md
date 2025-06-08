@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Minudra is a star in the constellation Shuli
+      Minudra is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 559.86 ly
 apparent_magnitude: 3.17
 absolute_magnitude: -3.00

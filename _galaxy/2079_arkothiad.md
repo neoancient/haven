@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2079 Arkothiad is a star in the constellation Arkoth
+      2079 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 325.97 ly
 apparent_magnitude: 20.52
 absolute_magnitude: 15.52

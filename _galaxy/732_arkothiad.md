@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      732 Arkothiad is a star in the constellation Arkoth
+      732 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 305.46 ly
 apparent_magnitude: 11.57
 absolute_magnitude: 6.71

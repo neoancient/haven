@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Olliad A is a star in the constellation Ol
+      0002 Olliad A is a star in the constellation <a href="ol.html">Ol</a>
 distance: 232.37 ly
 apparent_magnitude: 5.61
 absolute_magnitude: 1.35

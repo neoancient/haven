@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0050 Derriathiad A is a star in the constellation Derriath
+      0050 Derriathiad A is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 832.30 ly
 apparent_magnitude: 6.20
 absolute_magnitude: -0.83

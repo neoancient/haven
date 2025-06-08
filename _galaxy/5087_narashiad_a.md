@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5087 Narashiad A is a star in the constellation Naras
+      5087 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 432.83 ly
 apparent_magnitude: 8.00
 absolute_magnitude: 2.39

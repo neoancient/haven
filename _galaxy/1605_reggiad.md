@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1605 Reggiad is a star in the constellation Reg
+      1605 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 294.46 ly
 apparent_magnitude: 10.01
 absolute_magnitude: 5.23
@@ -31,7 +31,7 @@ planets:
     radius: 168.4 km<br/>(0.026 Yrths)
     surface_area: 3.562 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.999 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.521 × 10<sup>26</sup> kg<br />(109.19467903255365 Yrths)
+    mass: 6.521 × 10<sup>26</sup> kg<br />(109.19 Yrths)
     density: 32620037.193 g/cm<sup>3</sup>
     surface_gravity: 1533340.308 m/s<sup>2</sup><br />(156357.197 g<sub>0</sub>)
     escape_velocity: 719.041 km/s<br />(2,588,548 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 95,206.3 km<br/>(14.944 Yrths)
         surface_area: 1.139 × 10<sup>11</sup> km<sup>2</sup><br/>(223.314 Yrths)
         volume: 3.615 × 10<sup>15</sup> km<sup>3</sup><br/>(3337.143 Yrths)
-        mass: 7.492 × 10<sup>27</sup> kg<br />(109.19467903255365 Yrths)
+        mass: 7.492 × 10<sup>27</sup> kg<br />(1254.484 Yrths)
         density: 2.073 g/cm<sup>3</sup>
         surface_gravity: 55.090 m/s<sup>2</sup><br />(5.618 g<sub>0</sub>)
         escape_velocity: 102.489 km/s<br />(368,961 km/h)
         rotation_period: 35.221 d
         axial_tilt: 19.87°
         albedo: 0.30
-        temperature: 1786 K<br />(1513 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 1605 Reggiad I b
         type: Icy
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 146,742.8 km<br/>(23.033 Yrths)
         surface_area: 2.706 × 10<sup>11</sup> km<sup>2</sup><br/>(530.516 Yrths)
         volume: 1.324 × 10<sup>16</sup> km<sup>3</sup><br/>(12219.333 Yrths)
-        mass: 1.588 × 10<sup>28</sup> kg<br />(109.19467903255365 Yrths)
+        mass: 1.588 × 10<sup>28</sup> kg<br />(2659.553 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 49.162 m/s<sup>2</sup><br />(5.013 g<sub>0</sub>)
         escape_velocity: 120.200 km/s<br />(432,719 km/h)
         rotation_period: 53.525 d
         axial_tilt: 19.09°
         albedo: 0.30
-        temperature: 1548 K<br />(1275 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 1605 Reggiad I c
         type: Icy
         formationType: Impact formed
@@ -92,14 +92,14 @@ planets:
         radius: 105,080.5 km<br/>(16.494 Yrths)
         surface_area: 1.388 × 10<sup>11</sup> km<sup>2</sup><br/>(272.038 Yrths)
         volume: 4.860 × 10<sup>15</sup> km<sup>3</sup><br/>(4486.876 Yrths)
-        mass: 8.047 × 10<sup>27</sup> kg<br />(109.19467903255365 Yrths)
+        mass: 8.047 × 10<sup>27</sup> kg<br />(1347.466 Yrths)
         density: 1.656 g/cm<sup>3</sup>
         surface_gravity: 48.575 m/s<sup>2</sup><br />(4.953 g<sub>0</sub>)
         escape_velocity: 101.106 km/s<br />(363,980 km/h)
         rotation_period: 42.521 d
         axial_tilt: 13.28°
         albedo: 0.30
-        temperature: 758 K<br />(484 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 1605 Reggiad I d
         type: Asteroid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 83,864.6 km<br/>(13.163 Yrths)
         surface_area: 8.838 × 10<sup>10</sup> km<sup>2</sup><br/>(173.277 Yrths)
         volume: 2.471 × 10<sup>15</sup> km<sup>3</sup><br/>(2280.935 Yrths)
-        mass: 7.513 × 10<sup>27</sup> kg<br />(109.19467903255365 Yrths)
+        mass: 7.513 × 10<sup>27</sup> kg<br />(1257.994 Yrths)
         density: 3.041 g/cm<sup>3</sup>
         surface_gravity: 71.196 m/s<sup>2</sup><br />(7.260 g<sub>0</sub>)
         escape_velocity: 109.352 km/s<br />(393,668 km/h)
         rotation_period: 43.172 d
         axial_tilt: 49.41°
         albedo: 0.30
-        temperature: 722 K<br />(449 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 1605 Reggiad I e
         type: Rocky
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 81,512.4 km<br/>(12.794 Yrths)
         surface_area: 8.349 × 10<sup>10</sup> km<sup>2</sup><br/>(163.694 Yrths)
         volume: 2.269 × 10<sup>15</sup> km<sup>3</sup><br/>(2094.345 Yrths)
-        mass: 7.180 × 10<sup>27</sup> kg<br />(109.19467903255365 Yrths)
+        mass: 7.180 × 10<sup>27</sup> kg<br />(1202.308 Yrths)
         density: 3.165 g/cm<sup>3</sup>
         surface_gravity: 72.029 m/s<sup>2</sup><br />(7.345 g<sub>0</sub>)
         escape_velocity: 108.436 km/s<br />(390,370 km/h)
         rotation_period: 33.675 d
         axial_tilt: 18.71°
         albedo: 0.30
-        temperature: 626 K<br />(353 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 1605 Reggiad I f
         type: Ice/rock hybrid
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 91,255.9 km<br/>(14.324 Yrths)
         surface_area: 1.046 × 10<sup>11</sup> km<sup>2</sup><br/>(205.167 Yrths)
         volume: 3.183 × 10<sup>15</sup> km<sup>3</sup><br/>(2938.733 Yrths)
-        mass: 7.087 × 10<sup>27</sup> kg<br />(109.19467903255365 Yrths)
+        mass: 7.087 × 10<sup>27</sup> kg<br />(1186.638 Yrths)
         density: 2.226 g/cm<sup>3</sup>
         surface_gravity: 56.719 m/s<sup>2</sup><br />(5.784 g<sub>0</sub>)
         escape_velocity: 101.814 km/s<br />(366,530 km/h)
         rotation_period: 63.326 d
         axial_tilt: 24.06°
         albedo: 0.30
-        temperature: 428 K<br />(154 °C)
+        temperature: 324 K<br />(51 °C)
   - name: 1605 Reggiad II
     type: Terrestrial
     aphelion: 176,382,547 km<br />1.179 AU
@@ -171,14 +171,14 @@ planets:
     radius: 7,173.9 km<br/>(1.126 Yrths)
     surface_area: 6.467 × 10<sup>08</sup> km<sup>2</sup><br/>(1.268 Yrths)
     volume: 1.546 × 10<sup>12</sup> km<sup>3</sup><br/>(1.428 Yrths)
-    mass: 8.542 × 10<sup>24</sup> kg<br />(1.43041263602237 Yrths)
+    mass: 8.542 × 10<sup>24</sup> kg<br />(1.43 Yrths)
     density: 5.524 g/cm<sup>3</sup>
     surface_gravity: 11.063 m/s<sup>2</sup><br />(1.128 g<sub>0</sub>)
     escape_velocity: 12.608 km/s<br />(45,387 km/h)
     rotation_period: 1.338 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 317 K<br />(44 °C)
+    temperature: 704 K<br />(430 °C)
     surface_pressure: 18 kPa<br />(0 atm)
     composition:
       - 50.9650% carbon dioxide
@@ -200,14 +200,14 @@ planets:
         radius: 2,602.1 km<br/>(0.408 Yrths)
         surface_area: 8.509 × 10<sup>07</sup> km<sup>2</sup><br/>(0.167 Yrths)
         volume: 7.380 × 10<sup>10</sup> km<sup>3</sup><br/>(0.068 Yrths)
-        mass: 1.734 × 10<sup>23</sup> kg<br />(1.43041263602237 Yrths)
+        mass: 1.734 × 10<sup>23</sup> kg<br />(0.029 Yrths)
         density: 2.349 g/cm<sup>3</sup>
         surface_gravity: 1.707 m/s<sup>2</sup><br />(0.174 g<sub>0</sub>)
         escape_velocity: 2.982 km/s<br />(10,736 km/h)
         rotation_period: 33.773 d
         axial_tilt: 40.54°
         albedo: 0.30
-        temperature: 3813 K<br />(3540 °C)
+        temperature: 247 K<br />(-26 °C)
       - name: 1605 Reggiad II b
         type: Rocky
         formationType: Impact formed
@@ -220,14 +220,14 @@ planets:
         radius: 1,508.7 km<br/>(0.237 Yrths)
         surface_area: 2.860 × 10<sup>07</sup> km<sup>2</sup><br/>(0.056 Yrths)
         volume: 1.438 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 4.425 × 10<sup>22</sup> kg<br />(1.43041263602237 Yrths)
+        mass: 4.425 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 3.076 g/cm<sup>3</sup>
         surface_gravity: 1.296 m/s<sup>2</sup><br />(0.132 g<sub>0</sub>)
         escape_velocity: 1.979 km/s<br />(7,123 km/h)
         rotation_period: 31.174 d
         axial_tilt: 8.25°
         albedo: 0.30
-        temperature: 3636 K<br />(3362 °C)
+        temperature: 247 K<br />(-26 °C)
   - name: 1605 Reggiad III
     type: Gas dwarf
     aphelion: 268,788,449 km<br />1.797 AU
@@ -239,14 +239,14 @@ planets:
     radius: 14,598.4 km<br/>(2.291 Yrths)
     surface_area: 2.678 × 10<sup>09</sup> km<sup>2</sup><br/>(5.250 Yrths)
     volume: 1.303 × 10<sup>13</sup> km<sup>3</sup><br/>(12.031 Yrths)
-    mass: 3.427 × 10<sup>25</sup> kg<br />(5.738643038904203 Yrths)
+    mass: 3.427 × 10<sup>25</sup> kg<br />(5.74 Yrths)
     density: 2.630 g/cm<sup>3</sup>
     surface_gravity: 10.719 m/s<sup>2</sup><br />(1.093 g<sub>0</sub>)
     escape_velocity: 17.702 km/s<br />(63,728 km/h)
     rotation_period: 0.672 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 261 K<br />(-12 °C)
+    temperature: 252 K<br />(-21 °C)
     composition:
       - 75.7318% hydrogen
       - 20.4555% helium
@@ -264,14 +264,14 @@ planets:
         radius: 5,030.2 km<br/>(0.790 Yrths)
         surface_area: 3.180 × 10<sup>08</sup> km<sup>2</sup><br/>(0.623 Yrths)
         volume: 5.331 × 10<sup>11</sup> km<sup>3</sup><br/>(0.492 Yrths)
-        mass: 1.625 × 10<sup>24</sup> kg<br />(5.738643038904203 Yrths)
+        mass: 1.625 × 10<sup>24</sup> kg<br />(0.272 Yrths)
         density: 3.047 g/cm<sup>3</sup>
         surface_gravity: 4.279 m/s<sup>2</sup><br />(0.436 g<sub>0</sub>)
         escape_velocity: 6.566 km/s<br />(23,637 km/h)
         rotation_period: 39.927 d
         axial_tilt: 9.50°
         albedo: 0.30
-        temperature: 1958 K<br />(1685 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 1605 Reggiad III b
         type: Icy
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 16,744.6 km<br/>(2.628 Yrths)
         surface_area: 3.523 × 10<sup>09</sup> km<sup>2</sup><br/>(6.908 Yrths)
         volume: 1.967 × 10<sup>13</sup> km<sup>3</sup><br/>(18.155 Yrths)
-        mass: 2.378 × 10<sup>25</sup> kg<br />(5.738643038904203 Yrths)
+        mass: 2.378 × 10<sup>25</sup> kg<br />(3.982 Yrths)
         density: 1.209 g/cm<sup>3</sup>
         surface_gravity: 5.654 m/s<sup>2</sup><br />(0.577 g<sub>0</sub>)
         escape_velocity: 13.769 km/s<br />(49,569 km/h)
         rotation_period: 73.871 d
         axial_tilt: 21.18°
         albedo: 0.30
-        temperature: 1867 K<br />(1594 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 1605 Reggiad III c
         type: Rocky
         formationType: Captured
@@ -304,14 +304,14 @@ planets:
         radius: 8,322.5 km<br/>(1.306 Yrths)
         surface_area: 8.704 × 10<sup>08</sup> km<sup>2</sup><br/>(1.706 Yrths)
         volume: 2.415 × 10<sup>12</sup> km<sup>3</sup><br/>(2.229 Yrths)
-        mass: 6.982 × 10<sup>24</sup> kg<br />(5.738643038904203 Yrths)
+        mass: 6.982 × 10<sup>24</sup> kg<br />(1.169 Yrths)
         density: 2.891 g/cm<sup>3</sup>
         surface_gravity: 6.718 m/s<sup>2</sup><br />(0.685 g<sub>0</sub>)
         escape_velocity: 10.582 km/s<br />(38,096 km/h)
         rotation_period: 32.572 d
         axial_tilt: 18.69°
         albedo: 0.30
-        temperature: 1780 K<br />(1507 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 1605 Reggiad III d
         type: Asteroid
         formationType: Captured
@@ -324,14 +324,14 @@ planets:
         radius: 7,642.6 km<br/>(1.200 Yrths)
         surface_area: 7.340 × 10<sup>08</sup> km<sup>2</sup><br/>(1.439 Yrths)
         volume: 1.870 × 10<sup>12</sup> km<sup>3</sup><br/>(1.726 Yrths)
-        mass: 5.829 × 10<sup>24</sup> kg<br />(5.738643038904203 Yrths)
+        mass: 5.829 × 10<sup>24</sup> kg<br />(0.976 Yrths)
         density: 3.117 g/cm<sup>3</sup>
         surface_gravity: 6.651 m/s<sup>2</sup><br />(0.678 g<sub>0</sub>)
         escape_velocity: 10.090 km/s<br />(36,323 km/h)
         rotation_period: 47.440 d
         axial_tilt: 26.41°
         albedo: 0.30
-        temperature: 1697 K<br />(1424 °C)
+        temperature: 188 K<br />(-86 °C)
   - name: 1605 Reggiad IV
     type: Gas dwarf
     aphelion: 447,809,181 km<br />2.993 AU
@@ -343,14 +343,14 @@ planets:
     radius: 14,475.5 km<br/>(2.272 Yrths)
     surface_area: 2.633 × 10<sup>09</sup> km<sup>2</sup><br/>(5.162 Yrths)
     volume: 1.271 × 10<sup>13</sup> km<sup>3</sup><br/>(11.730 Yrths)
-    mass: 2.965 × 10<sup>25</sup> kg<br />(4.965652963725468 Yrths)
+    mass: 2.965 × 10<sup>25</sup> kg<br />(4.97 Yrths)
     density: 2.334 g/cm<sup>3</sup>
     surface_gravity: 9.433 m/s<sup>2</sup><br />(0.962 g<sub>0</sub>)
     escape_velocity: 16.537 km/s<br />(59,532 km/h)
     rotation_period: 0.570 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 203 K<br />(-71 °C)
+    temperature: 178 K<br />(-95 °C)
     composition:
       - 60.2252% hydrogen
       - 38.6379% helium
@@ -368,14 +368,14 @@ planets:
         radius: 5,393.9 km<br/>(0.847 Yrths)
         surface_area: 3.656 × 10<sup>08</sup> km<sup>2</sup><br/>(0.717 Yrths)
         volume: 6.573 × 10<sup>11</sup> km<sup>3</sup><br/>(0.607 Yrths)
-        mass: 1.616 × 10<sup>24</sup> kg<br />(4.965652963725468 Yrths)
+        mass: 1.616 × 10<sup>24</sup> kg<br />(0.271 Yrths)
         density: 2.459 g/cm<sup>3</sup>
         surface_gravity: 3.703 m/s<sup>2</sup><br />(0.378 g<sub>0</sub>)
         escape_velocity: 6.324 km/s<br />(22,767 km/h)
         rotation_period: 52.477 d
         axial_tilt: 23.11°
         albedo: 0.30
-        temperature: 1517 K<br />(1244 °C)
+        temperature: 143 K<br />(-131 °C)
       - name: 1605 Reggiad IV b
         type: Icy
         formationType: Accreted
@@ -388,14 +388,14 @@ planets:
         radius: 14,319.0 km<br/>(2.248 Yrths)
         surface_area: 2.577 × 10<sup>09</sup> km<sup>2</sup><br/>(5.051 Yrths)
         volume: 1.230 × 10<sup>13</sup> km<sup>3</sup><br/>(11.353 Yrths)
-        mass: 1.270 × 10<sup>25</sup> kg<br />(4.965652963725468 Yrths)
+        mass: 1.270 × 10<sup>25</sup> kg<br />(2.126 Yrths)
         density: 1.032 g/cm<sup>3</sup>
         surface_gravity: 4.127 m/s<sup>2</sup><br />(0.421 g<sub>0</sub>)
         escape_velocity: 10.879 km/s<br />(39,163 km/h)
         rotation_period: 60.691 d
         axial_tilt: 25.32°
         albedo: 0.30
-        temperature: 1446 K<br />(1173 °C)
+        temperature: 143 K<br />(-131 °C)
       - name: 1605 Reggiad IV c
         type: Icy
         formationType: Captured
@@ -408,14 +408,14 @@ planets:
         radius: 2,127.2 km<br/>(0.334 Yrths)
         surface_area: 5.686 × 10<sup>07</sup> km<sup>2</sup><br/>(0.111 Yrths)
         volume: 4.032 × 10<sup>10</sup> km<sup>3</sup><br/>(0.037 Yrths)
-        mass: 5.687 × 10<sup>22</sup> kg<br />(4.965652963725468 Yrths)
+        mass: 5.687 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 1.410 g/cm<sup>3</sup>
         surface_gravity: 0.838 m/s<sup>2</sup><br />(0.085 g<sub>0</sub>)
         escape_velocity: 1.889 km/s<br />(6,801 km/h)
         rotation_period: 47.604 d
         axial_tilt: 23.62°
         albedo: 0.30
-        temperature: 1379 K<br />(1106 °C)
+        temperature: 143 K<br />(-131 °C)
       - name: 1605 Reggiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -428,14 +428,14 @@ planets:
         radius: 9,808.3 km<br/>(1.540 Yrths)
         surface_area: 1.209 × 10<sup>09</sup> km<sup>2</sup><br/>(2.370 Yrths)
         volume: 3.952 × 10<sup>12</sup> km<sup>3</sup><br/>(3.649 Yrths)
-        mass: 7.629 × 10<sup>24</sup> kg<br />(4.965652963725468 Yrths)
+        mass: 7.629 × 10<sup>24</sup> kg<br />(1.277 Yrths)
         density: 1.930 g/cm<sup>3</sup>
         surface_gravity: 5.286 m/s<sup>2</sup><br />(0.539 g<sub>0</sub>)
         escape_velocity: 10.190 km/s<br />(36,683 km/h)
         rotation_period: 41.413 d
         axial_tilt: 22.59°
         albedo: 0.30
-        temperature: 1315 K<br />(1042 °C)
+        temperature: 143 K<br />(-131 °C)
   - name: 1605 Reggiad V
     type: Gas giant
     aphelion: 722,081,815 km<br />4.827 AU
@@ -447,7 +447,7 @@ planets:
     radius: 167.1 km<br/>(0.026 Yrths)
     surface_area: 3.509 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.954 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.670 × 10<sup>26</sup> kg<br />(78.1915820765547 Yrths)
+    mass: 4.670 × 10<sup>26</sup> kg<br />(78.19 Yrths)
     density: 23893094.294 g/cm<sup>3</sup>
     surface_gravity: 1114679.526 m/s<sup>2</sup><br />(113665.678 g<sub>0</sub>)
     escape_velocity: 610.761 km/s<br />(2,198,740 km/h)
@@ -468,14 +468,14 @@ planets:
         radius: 106,031.2 km<br/>(16.643 Yrths)
         surface_area: 1.413 × 10<sup>11</sup> km<sup>2</sup><br/>(276.982 Yrths)
         volume: 4.993 × 10<sup>15</sup> km<sup>3</sup><br/>(4609.761 Yrths)
-        mass: 6.398 × 10<sup>27</sup> kg<br />(78.1915820765547 Yrths)
+        mass: 6.398 × 10<sup>27</sup> kg<br />(1071.268 Yrths)
         density: 1.281 g/cm<sup>3</sup>
         surface_gravity: 37.929 m/s<sup>2</sup><br />(3.868 g<sub>0</sub>)
         escape_velocity: 89.745 km/s<br />(323,082 km/h)
         rotation_period: 47.325 d
         axial_tilt: 17.09°
         albedo: 0.30
-        temperature: 547 K<br />(274 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1605 Reggiad V b
         type: Icy
         formationType: Captured
@@ -488,14 +488,14 @@ planets:
         radius: 139,534.9 km<br/>(21.902 Yrths)
         surface_area: 2.447 × 10<sup>11</sup> km<sup>2</sup><br/>(479.679 Yrths)
         volume: 1.138 × 10<sup>16</sup> km<sup>3</sup><br/>(10505.728 Yrths)
-        mass: 1.280 × 10<sup>28</sup> kg<br />(78.1915820765547 Yrths)
+        mass: 1.280 × 10<sup>28</sup> kg<br />(2144.131 Yrths)
         density: 1.125 g/cm<sup>3</sup>
         surface_gravity: 43.835 m/s<sup>2</sup><br />(4.470 g<sub>0</sub>)
         escape_velocity: 110.678 km/s<br />(398,441 km/h)
         rotation_period: 54.046 d
         axial_tilt: 8.46°
         albedo: 0.30
-        temperature: 498 K<br />(224 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1605 Reggiad V c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -508,14 +508,14 @@ planets:
         radius: 57,598.7 km<br/>(9.041 Yrths)
         surface_area: 4.169 × 10<sup>10</sup> km<sup>2</sup><br/>(81.735 Yrths)
         volume: 8.004 × 10<sup>14</sup> km<sup>3</sup><br/>(738.951 Yrths)
-        mass: 1.770 × 10<sup>27</sup> kg<br />(78.1915820765547 Yrths)
+        mass: 1.770 × 10<sup>27</sup> kg<br />(296.443 Yrths)
         density: 2.212 g/cm<sup>3</sup>
         surface_gravity: 35.567 m/s<sup>2</sup><br />(3.627 g<sub>0</sub>)
         escape_velocity: 64.053 km/s<br />(230,592 km/h)
         rotation_period: 35.145 d
         axial_tilt: 30.85°
         albedo: 0.30
-        temperature: 474 K<br />(201 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1605 Reggiad V d
         type: Asteroid
         formationType: Captured
@@ -528,14 +528,14 @@ planets:
         radius: 69,975.7 km<br/>(10.983 Yrths)
         surface_area: 6.153 × 10<sup>10</sup> km<sup>2</sup><br/>(120.637 Yrths)
         volume: 1.435 × 10<sup>15</sup> km<sup>3</sup><br/>(1325.011 Yrths)
-        mass: 1.981 × 10<sup>27</sup> kg<br />(78.1915820765547 Yrths)
+        mass: 1.981 × 10<sup>27</sup> kg<br />(331.772 Yrths)
         density: 1.380 g/cm<sup>3</sup>
         surface_gravity: 26.970 m/s<sup>2</sup><br />(2.750 g<sub>0</sub>)
         escape_velocity: 61.479 km/s<br />(221,323 km/h)
         rotation_period: 84.003 d
         axial_tilt: 42.49°
         albedo: 0.30
-        temperature: 411 K<br />(138 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1605 Reggiad V e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -548,14 +548,14 @@ planets:
         radius: 65,520.0 km<br/>(10.284 Yrths)
         surface_area: 5.395 × 10<sup>10</sup> km<sup>2</sup><br/>(105.763 Yrths)
         volume: 1.178 × 10<sup>15</sup> km<sup>3</sup><br/>(1087.673 Yrths)
-        mass: 3.101 × 10<sup>27</sup> kg<br />(78.1915820765547 Yrths)
+        mass: 3.101 × 10<sup>27</sup> kg<br />(519.203 Yrths)
         density: 2.632 g/cm<sup>3</sup>
         surface_gravity: 48.142 m/s<sup>2</sup><br />(4.909 g<sub>0</sub>)
         escape_velocity: 79.480 km/s<br />(286,129 km/h)
         rotation_period: 56.941 d
         axial_tilt: 22.17°
         albedo: 0.30
-        temperature: 356 K<br />(83 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1605 Reggiad V f
         type: Asteroid
         formationType: Captured
@@ -568,14 +568,14 @@ planets:
         radius: 70,230.4 km<br/>(11.023 Yrths)
         surface_area: 6.198 × 10<sup>10</sup> km<sup>2</sup><br/>(121.517 Yrths)
         volume: 1.451 × 10<sup>15</sup> km<sup>3</sup><br/>(1339.533 Yrths)
-        mass: 2.732 × 10<sup>27</sup> kg<br />(78.1915820765547 Yrths)
+        mass: 2.732 × 10<sup>27</sup> kg<br />(457.530 Yrths)
         density: 1.883 g/cm<sup>3</sup>
         surface_gravity: 36.924 m/s<sup>2</sup><br />(3.765 g<sub>0</sub>)
         escape_velocity: 72.065 km/s<br />(259,434 km/h)
         rotation_period: 44.320 d
         axial_tilt: 39.44°
         albedo: 0.30
-        temperature: 174 K<br />(-99 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1605 Reggiad V g
         type: Icy
         formationType: Accreted
@@ -588,7 +588,7 @@ planets:
         radius: 66,740.5 km<br/>(10.476 Yrths)
         surface_area: 5.597 × 10<sup>10</sup> km<sup>2</sup><br/>(109.740 Yrths)
         volume: 1.245 × 10<sup>15</sup> km<sup>3</sup><br/>(1149.597 Yrths)
-        mass: 1.661 × 10<sup>27</sup> kg<br />(78.1915820765547 Yrths)
+        mass: 1.661 × 10<sup>27</sup> kg<br />(278.106 Yrths)
         density: 1.334 g/cm<sup>3</sup>
         surface_gravity: 24.852 m/s<sup>2</sup><br />(2.534 g<sub>0</sub>)
         escape_velocity: 57.635 km/s<br />(207,487 km/h)
@@ -608,14 +608,14 @@ planets:
         radius: 80,332.0 km<br/>(12.609 Yrths)
         surface_area: 8.109 × 10<sup>10</sup> km<sup>2</sup><br/>(158.987 Yrths)
         volume: 2.171 × 10<sup>15</sup> km<sup>3</sup><br/>(2004.667 Yrths)
-        mass: 2.402 × 10<sup>27</sup> kg<br />(78.1915820765547 Yrths)
+        mass: 2.402 × 10<sup>27</sup> kg<br />(402.181 Yrths)
         density: 1.106 g/cm<sup>3</sup>
         surface_gravity: 24.807 m/s<sup>2</sup><br />(2.530 g<sub>0</sub>)
         escape_velocity: 63.175 km/s<br />(227,430 km/h)
         rotation_period: 60.418 d
         axial_tilt: 16.44°
         albedo: 0.30
-        temperature: 94 K<br />(-179 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 1605 Reggiad V i
         type: Ice/rock hybrid
         formationType: Captured
@@ -628,14 +628,14 @@ planets:
         radius: 58,648.0 km<br/>(9.205 Yrths)
         surface_area: 4.322 × 10<sup>10</sup> km<sup>2</sup><br/>(84.740 Yrths)
         volume: 8.450 × 10<sup>14</sup> km<sup>3</sup><br/>(780.074 Yrths)
-        mass: 2.162 × 10<sup>27</sup> kg<br />(78.1915820765547 Yrths)
+        mass: 2.162 × 10<sup>27</sup> kg<br />(362.047 Yrths)
         density: 2.559 g/cm<sup>3</sup>
         surface_gravity: 41.898 m/s<sup>2</sup><br />(4.272 g<sub>0</sub>)
         escape_velocity: 70.151 km/s<br />(252,544 km/h)
         rotation_period: 37.349 d
         axial_tilt: 11.59°
         albedo: 0.30
-        temperature: 71 K<br />(-203 °C)
+        temperature: 108 K<br />(-165 °C)
   - name: 1605 Reggiad VI
     type: Terrestrial
     aphelion: 1,361,692,874 km<br />9.102 AU
@@ -647,14 +647,14 @@ planets:
     radius: 7,278.7 km<br/>(1.142 Yrths)
     surface_area: 6.658 × 10<sup>08</sup> km<sup>2</sup><br/>(1.305 Yrths)
     volume: 1.615 × 10<sup>12</sup> km<sup>3</sup><br/>(1.491 Yrths)
-    mass: 7.011 × 10<sup>24</sup> kg<br />(1.1739597775303297 Yrths)
+    mass: 7.011 × 10<sup>24</sup> kg<br />(1.17 Yrths)
     density: 4.340 g/cm<sup>3</sup>
     surface_gravity: 8.820 m/s<sup>2</sup><br />(0.899 g<sub>0</sub>)
     escape_velocity: 11.339 km/s<br />(40,821 km/h)
     rotation_period: 0.960 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 93 K<br />(-180 °C)
+    temperature: 94 K<br />(-179 °C)
     surface_pressure: 27 kPa<br />(0 atm)
     composition:
       - 63.6927% nitrogen
@@ -675,14 +675,14 @@ planets:
         radius: 1,105.9 km<br/>(0.174 Yrths)
         surface_area: 1.537 × 10<sup>07</sup> km<sup>2</sup><br/>(0.030 Yrths)
         volume: 5.665 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.462 × 10<sup>22</sup> kg<br />(1.1739597775303297 Yrths)
+        mass: 1.462 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.580 g/cm<sup>3</sup>
         surface_gravity: 0.797 m/s<sup>2</sup><br />(0.081 g<sub>0</sub>)
         escape_velocity: 1.328 km/s<br />(4,782 km/h)
         rotation_period: 32.600 d
         axial_tilt: 23.44°
         albedo: 0.30
-        temperature: 1128 K<br />(855 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 1605 Reggiad VI b
         type: Rocky
         formationType: Impact formed
@@ -695,14 +695,14 @@ planets:
         radius: 2,559.9 km<br/>(0.402 Yrths)
         surface_area: 8.235 × 10<sup>07</sup> km<sup>2</sup><br/>(0.161 Yrths)
         volume: 7.026 × 10<sup>10</sup> km<sup>3</sup><br/>(0.065 Yrths)
-        mass: 1.959 × 10<sup>23</sup> kg<br />(1.1739597775303297 Yrths)
+        mass: 1.959 × 10<sup>23</sup> kg<br />(0.033 Yrths)
         density: 2.788 g/cm<sup>3</sup>
         surface_gravity: 1.993 m/s<sup>2</sup><br />(0.203 g<sub>0</sub>)
         escape_velocity: 3.196 km/s<br />(11,506 km/h)
         rotation_period: 40.857 d
         axial_tilt: 9.16°
         albedo: 0.30
-        temperature: 1076 K<br />(802 °C)
+        temperature: 82 K<br />(-191 °C)
   - name: 1605 Reggiad VII
     type: Gas giant
     aphelion: 2,563,845,572 km<br />17.138 AU
@@ -714,7 +714,7 @@ planets:
     radius: 214.5 km<br/>(0.034 Yrths)
     surface_area: 5.782 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.135 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.358 × 10<sup>27</sup> kg<br />(227.3650775975246 Yrths)
+    mass: 1.358 × 10<sup>27</sup> kg<br />(227.37 Yrths)
     density: 32840741.963 g/cm<sup>3</sup>
     surface_gravity: 1966821.677 m/s<sup>2</sup><br />(200559.995 g<sub>0</sub>)
     escape_velocity: 919.213 km/s<br />(3,309,165 km/h)
@@ -735,14 +735,14 @@ planets:
         radius: 172,155.5 km<br/>(27.022 Yrths)
         surface_area: 3.724 × 10<sup>11</sup> km<sup>2</sup><br/>(730.174 Yrths)
         volume: 2.137 × 10<sup>16</sup> km<sup>3</sup><br/>(19730.572 Yrths)
-        mass: 2.943 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 2.943 × 10<sup>28</sup> kg<br />(4927.323 Yrths)
         density: 1.377 g/cm<sup>3</sup>
         surface_gravity: 66.177 m/s<sup>2</sup><br />(6.748 g<sub>0</sub>)
         escape_velocity: 151.051 km/s<br />(543,783 km/h)
         rotation_period: 45.748 d
         axial_tilt: 19.12°
         albedo: 0.30
-        temperature: 321 K<br />(47 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 1605 Reggiad VII b
         type: Icy
         formationType: Accreted
@@ -755,14 +755,14 @@ planets:
         radius: 121,350.6 km<br/>(19.047 Yrths)
         surface_area: 1.851 × 10<sup>11</sup> km<sup>2</sup><br/>(362.801 Yrths)
         volume: 7.485 × 10<sup>15</sup> km<sup>3</sup><br/>(6910.390 Yrths)
-        mass: 1.422 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 1.422 × 10<sup>28</sup> kg<br />(2381.485 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 64.372 m/s<sup>2</sup><br />(6.564 g<sub>0</sub>)
         escape_velocity: 125.078 km/s<br />(450,281 km/h)
         rotation_period: 51.380 d
         axial_tilt: 20.59°
         albedo: 0.30
-        temperature: 253 K<br />(-21 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 1605 Reggiad VII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -775,14 +775,14 @@ planets:
         radius: 123,314.0 km<br/>(19.356 Yrths)
         surface_area: 1.911 × 10<sup>11</sup> km<sup>2</sup><br/>(374.636 Yrths)
         volume: 7.855 × 10<sup>15</sup> km<sup>3</sup><br/>(7251.281 Yrths)
-        mass: 1.538 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 1.538 × 10<sup>28</sup> kg<br />(2575.604 Yrths)
         density: 1.958 g/cm<sup>3</sup>
         surface_gravity: 67.420 m/s<sup>2</sup><br />(6.875 g<sub>0</sub>)
         escape_velocity: 129.036 km/s<br />(464,530 km/h)
         rotation_period: 42.844 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 190 K<br />(-83 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 1605 Reggiad VII d
         type: Icy
         formationType: Captured
@@ -795,14 +795,14 @@ planets:
         radius: 149,217.6 km<br/>(23.421 Yrths)
         surface_area: 2.798 × 10<sup>11</sup> km<sup>2</sup><br/>(548.561 Yrths)
         volume: 1.392 × 10<sup>16</sup> km<sup>3</sup><br/>(12848.065 Yrths)
-        mass: 1.834 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 1.834 × 10<sup>28</sup> kg<br />(3071.136 Yrths)
         density: 1.318 g/cm<sup>3</sup>
         surface_gravity: 54.903 m/s<sup>2</sup><br />(5.599 g<sub>0</sub>)
         escape_velocity: 128.091 km/s<br />(461,126 km/h)
         rotation_period: 48.399 d
         axial_tilt: 14.29°
         albedo: 0.30
-        temperature: 157 K<br />(-116 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 1605 Reggiad VII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -815,14 +815,14 @@ planets:
         radius: 132,327.3 km<br/>(20.770 Yrths)
         surface_area: 2.200 × 10<sup>11</sup> km<sup>2</sup><br/>(431.404 Yrths)
         volume: 9.706 × 10<sup>15</sup> km<sup>3</sup><br/>(8960.367 Yrths)
-        mass: 2.261 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 2.261 × 10<sup>28</sup> kg<br />(3786.455 Yrths)
         density: 2.330 g/cm<sup>3</sup>
         surface_gravity: 86.074 m/s<sup>2</sup><br />(8.777 g<sub>0</sub>)
         escape_velocity: 151.032 km/s<br />(543,716 km/h)
         rotation_period: 63.686 d
         axial_tilt: 19.48°
         albedo: 0.30
-        temperature: 136 K<br />(-137 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 1605 Reggiad VII f
         type: Icy
         formationType: Accreted
@@ -835,14 +835,14 @@ planets:
         radius: 174,995.9 km<br/>(27.468 Yrths)
         surface_area: 3.848 × 10<sup>11</sup> km<sup>2</sup><br/>(754.467 Yrths)
         volume: 2.245 × 10<sup>16</sup> km<sup>3</sup><br/>(20723.377 Yrths)
-        mass: 2.859 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 2.859 × 10<sup>28</sup> kg<br />(4787.459 Yrths)
         density: 1.274 g/cm<sup>3</sup>
         surface_gravity: 62.228 m/s<sup>2</sup><br />(6.345 g<sub>0</sub>)
         escape_velocity: 147.678 km/s<br />(531,642 km/h)
         rotation_period: 64.184 d
         axial_tilt: 19.23°
         albedo: 0.30
-        temperature: 118 K<br />(-155 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 1605 Reggiad VII g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -855,14 +855,14 @@ planets:
         radius: 116,368.1 km<br/>(18.265 Yrths)
         surface_area: 1.702 × 10<sup>11</sup> km<sup>2</sup><br/>(333.620 Yrths)
         volume: 6.601 × 10<sup>15</sup> km<sup>3</sup><br/>(6093.668 Yrths)
-        mass: 1.567 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 1.567 × 10<sup>28</sup> kg<br />(2624.253 Yrths)
         density: 2.374 g/cm<sup>3</sup>
         surface_gravity: 77.139 m/s<sup>2</sup><br />(7.866 g<sub>0</sub>)
         escape_velocity: 134.080 km/s<br />(482,688 km/h)
         rotation_period: 58.683 d
         axial_tilt: 21.48°
         albedo: 0.30
-        temperature: 73 K<br />(-200 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 1605 Reggiad VII h
         type: Icy
         formationType: Impact formed
@@ -875,14 +875,14 @@ planets:
         radius: 145,660.2 km<br/>(22.863 Yrths)
         surface_area: 2.666 × 10<sup>11</sup> km<sup>2</sup><br/>(522.717 Yrths)
         volume: 1.295 × 10<sup>16</sup> km<sup>3</sup><br/>(11950.892 Yrths)
-        mass: 1.619 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 1.619 × 10<sup>28</sup> kg<br />(2710.784 Yrths)
         density: 1.251 g/cm<sup>3</sup>
         surface_gravity: 50.857 m/s<sup>2</sup><br />(5.186 g<sub>0</sub>)
         escape_velocity: 121.802 km/s<br />(438,487 km/h)
         rotation_period: 52.277 d
         axial_tilt: 19.62°
         albedo: 0.30
-        temperature: 50 K<br />(-223 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 1605 Reggiad VII i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -895,14 +895,14 @@ planets:
         radius: 229,376.6 km<br/>(36.003 Yrths)
         surface_area: 6.612 × 10<sup>11</sup> km<sup>2</sup><br/>(1296.232 Yrths)
         volume: 5.055 × 10<sup>16</sup> km<sup>3</sup><br/>(46668.543 Yrths)
-        mass: 9.723 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 9.723 × 10<sup>28</sup> kg<br />(16280.698 Yrths)
         density: 1.923 g/cm<sup>3</sup>
         surface_gravity: 123.172 m/s<sup>2</sup><br />(12.560 g<sub>0</sub>)
         escape_velocity: 237.870 km/s<br />(856,332 km/h)
         rotation_period: 61.983 d
         axial_tilt: 14.41°
         albedo: 0.30
-        temperature: 41 K<br />(-232 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 1605 Reggiad VII j
         type: Rocky
         formationType: Impact formed
@@ -915,14 +915,14 @@ planets:
         radius: 111,018.1 km<br/>(17.426 Yrths)
         surface_area: 1.549 × 10<sup>11</sup> km<sup>2</sup><br/>(303.649 Yrths)
         volume: 5.732 × 10<sup>15</sup> km<sup>3</sup><br/>(5291.257 Yrths)
-        mass: 1.697 × 10<sup>28</sup> kg<br />(227.3650775975246 Yrths)
+        mass: 1.697 × 10<sup>28</sup> kg<br />(2842.195 Yrths)
         density: 2.961 g/cm<sup>3</sup>
         surface_gravity: 91.791 m/s<sup>2</sup><br />(9.360 g<sub>0</sub>)
         escape_velocity: 142.859 km/s<br />(514,293 km/h)
         rotation_period: 34.810 d
         axial_tilt: 11.77°
         albedo: 0.30
-        temperature: 33 K<br />(-241 °C)
+        temperature: 63 K<br />(-210 °C)
   - name: 1605 Reggiad VIII
     type: Gas giant
     aphelion: 4,072,180,098 km<br />27.220 AU
@@ -934,7 +934,7 @@ planets:
     radius: 251.1 km<br/>(0.039 Yrths)
     surface_area: 7.922 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 6.631 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.665 × 10<sup>27</sup> kg<br />(446.3227148705912 Yrths)
+    mass: 2.665 × 10<sup>27</sup> kg<br />(446.32 Yrths)
     density: 40198774.348 g/cm<sup>3</sup>
     surface_gravity: 2817993.349 m/s<sup>2</sup><br />(287355.351 g<sub>0</sub>)
     escape_velocity: 1190.395 km/s<br />(4,285,421 km/h)
@@ -955,14 +955,14 @@ planets:
         radius: 228,805.0 km<br/>(35.914 Yrths)
         surface_area: 6.579 × 10<sup>11</sup> km<sup>2</sup><br/>(1289.781 Yrths)
         volume: 5.017 × 10<sup>16</sup> km<sup>3</sup><br/>(46320.561 Yrths)
-        mass: 1.313 × 10<sup>29</sup> kg<br />(446.3227148705912 Yrths)
+        mass: 1.313 × 10<sup>29</sup> kg<br />(21986.404 Yrths)
         density: 2.617 g/cm<sup>3</sup>
         surface_gravity: 167.170 m/s<sup>2</sup><br />(17.047 g<sub>0</sub>)
         escape_velocity: 276.772 km/s<br />(996,379 km/h)
         rotation_period: 43.911 d
         axial_tilt: 34.31°
         albedo: 0.30
-        temperature: 180 K<br />(-93 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 1605 Reggiad VIII b
         type: Ice/rock hybrid
         formationType: Captured
@@ -975,14 +975,14 @@ planets:
         radius: 193,247.7 km<br/>(30.332 Yrths)
         surface_area: 4.693 × 10<sup>11</sup> km<sup>2</sup><br/>(920.055 Yrths)
         volume: 3.023 × 10<sup>16</sup> km<sup>3</sup><br/>(27907.471 Yrths)
-        mass: 6.248 × 10<sup>28</sup> kg<br />(446.3227148705912 Yrths)
+        mass: 6.248 × 10<sup>28</sup> kg<br />(10462.824 Yrths)
         density: 2.067 g/cm<sup>3</sup>
         surface_gravity: 111.521 m/s<sup>2</sup><br />(11.372 g<sub>0</sub>)
         escape_velocity: 207.752 km/s<br />(747,907 km/h)
         rotation_period: 37.026 d
         axial_tilt: 16.21°
         albedo: 0.30
-        temperature: 156 K<br />(-117 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 1605 Reggiad VIII c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -995,14 +995,14 @@ planets:
         radius: 244,867.4 km<br/>(38.435 Yrths)
         surface_area: 7.535 × 10<sup>11</sup> km<sup>2</sup><br/>(1477.225 Yrths)
         volume: 6.150 × 10<sup>16</sup> km<sup>3</sup><br/>(56776.667 Yrths)
-        mass: 1.012 × 10<sup>29</sup> kg<br />(446.3227148705912 Yrths)
+        mass: 1.012 × 10<sup>29</sup> kg<br />(16937.567 Yrths)
         density: 1.645 g/cm<sup>3</sup>
         surface_gravity: 112.441 m/s<sup>2</sup><br />(11.466 g<sub>0</sub>)
         escape_velocity: 234.821 km/s<br />(845,357 km/h)
         rotation_period: 71.088 d
         axial_tilt: 17.54°
         albedo: 0.30
-        temperature: 112 K<br />(-161 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 1605 Reggiad VIII d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1015,14 +1015,14 @@ planets:
         radius: 192,037.1 km<br/>(30.142 Yrths)
         surface_area: 4.634 × 10<sup>11</sup> km<sup>2</sup><br/>(908.563 Yrths)
         volume: 2.966 × 10<sup>16</sup> km<sup>3</sup><br/>(27386.250 Yrths)
-        mass: 6.494 × 10<sup>28</sup> kg<br />(446.3227148705912 Yrths)
+        mass: 6.494 × 10<sup>28</sup> kg<br />(10873.419 Yrths)
         density: 2.189 g/cm<sup>3</sup>
         surface_gravity: 117.363 m/s<sup>2</sup><br />(11.968 g<sub>0</sub>)
         escape_velocity: 212.456 km/s<br />(764,840 km/h)
         rotation_period: 49.880 d
         axial_tilt: 32.47°
         albedo: 0.30
-        temperature: 76 K<br />(-197 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 1605 Reggiad VIII e
         type: Asteroid
         formationType: Captured
@@ -1035,14 +1035,14 @@ planets:
         radius: 210,888.3 km<br/>(33.101 Yrths)
         surface_area: 5.589 × 10<sup>11</sup> km<sup>2</sup><br/>(1095.695 Yrths)
         volume: 3.929 × 10<sup>16</sup> km<sup>3</sup><br/>(36268.920 Yrths)
-        mass: 8.336 × 10<sup>28</sup> kg<br />(446.3227148705912 Yrths)
+        mass: 8.336 × 10<sup>28</sup> kg<br />(13959.246 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 124.938 m/s<sup>2</sup><br />(12.740 g<sub>0</sub>)
         escape_velocity: 229.711 km/s<br />(826,961 km/h)
         rotation_period: 48.946 d
         axial_tilt: 16.99°
         albedo: 0.30
-        temperature: 69 K<br />(-204 °C)
+        temperature: 48 K<br />(-225 °C)
       - name: 1605 Reggiad VIII f
         type: Icy
         formationType: Accreted
@@ -1055,14 +1055,14 @@ planets:
         radius: 229,119.8 km<br/>(35.963 Yrths)
         surface_area: 6.597 × 10<sup>11</sup> km<sup>2</sup><br/>(1293.332 Yrths)
         volume: 5.038 × 10<sup>16</sup> km<sup>3</sup><br/>(46511.981 Yrths)
-        mass: 5.987 × 10<sup>28</sup> kg<br />(446.3227148705912 Yrths)
+        mass: 5.987 × 10<sup>28</sup> kg<br />(10024.451 Yrths)
         density: 1.188 g/cm<sup>3</sup>
         surface_gravity: 76.010 m/s<sup>2</sup><br />(7.751 g<sub>0</sub>)
         escape_velocity: 186.757 km/s<br />(672,325 km/h)
         rotation_period: 47.262 d
         axial_tilt: 12.29°
         albedo: 0.30
-        temperature: 60 K<br />(-213 °C)
+        temperature: 48 K<br />(-225 °C)
   - name: 1605 Reggiad IX
     type: Gas giant
     aphelion: 7,667,878,030 km<br />51.256 AU
@@ -1074,7 +1074,7 @@ planets:
     radius: 199.5 km<br/>(0.031 Yrths)
     surface_area: 5.001 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.326 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.946 × 10<sup>26</sup> kg<br />(166.53819589123162 Yrths)
+    mass: 9.946 × 10<sup>26</sup> kg<br />(166.54 Yrths)
     density: 29905170.831 g/cm<sup>3</sup>
     surface_gravity: 1665650.590 m/s<sup>2</sup><br />(169849.091 g<sub>0</sub>)
     escape_velocity: 815.771 km/s<br />(2,936,775 km/h)
@@ -1095,14 +1095,14 @@ planets:
         radius: 141,092.4 km<br/>(22.146 Yrths)
         surface_area: 2.502 × 10<sup>11</sup> km<sup>2</sup><br/>(490.447 Yrths)
         volume: 1.177 × 10<sup>16</sup> km<sup>3</sup><br/>(10861.445 Yrths)
-        mass: 1.773 × 10<sup>28</sup> kg<br />(166.53819589123162 Yrths)
+        mass: 1.773 × 10<sup>28</sup> kg<br />(2969.431 Yrths)
         density: 1.507 g/cm<sup>3</sup>
         surface_gravity: 59.375 m/s<sup>2</sup><br />(6.055 g<sub>0</sub>)
         escape_velocity: 129.528 km/s<br />(466,300 km/h)
         rotation_period: 65.202 d
         axial_tilt: 41.16°
         albedo: 0.30
-        temperature: 147 K<br />(-126 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 1605 Reggiad IX b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1115,14 +1115,14 @@ planets:
         radius: 135,407.8 km<br/>(21.254 Yrths)
         surface_area: 2.304 × 10<sup>11</sup> km<sup>2</sup><br/>(451.723 Yrths)
         volume: 1.040 × 10<sup>16</sup> km<sup>3</sup><br/>(9600.820 Yrths)
-        mass: 2.330 × 10<sup>28</sup> kg<br />(166.53819589123162 Yrths)
+        mass: 2.330 × 10<sup>28</sup> kg<br />(3901.227 Yrths)
         density: 2.240 g/cm<sup>3</sup>
         surface_gravity: 84.693 m/s<sup>2</sup><br />(8.636 g<sub>0</sub>)
         escape_velocity: 151.550 km/s<br />(545,581 km/h)
         rotation_period: 41.789 d
         axial_tilt: 20.72°
         albedo: 0.30
-        temperature: 133 K<br />(-140 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 1605 Reggiad IX c
         type: Icy
         formationType: Captured
@@ -1135,14 +1135,14 @@ planets:
         radius: 151,358.3 km<br/>(23.757 Yrths)
         surface_area: 2.879 × 10<sup>11</sup> km<sup>2</sup><br/>(564.414 Yrths)
         volume: 1.452 × 10<sup>16</sup> km<sup>3</sup><br/>(13408.991 Yrths)
-        mass: 1.755 × 10<sup>28</sup> kg<br />(166.53819589123162 Yrths)
+        mass: 1.755 × 10<sup>28</sup> kg<br />(2938.519 Yrths)
         density: 1.208 g/cm<sup>3</sup>
         surface_gravity: 51.057 m/s<sup>2</sup><br />(5.206 g<sub>0</sub>)
         escape_velocity: 124.405 km/s<br />(447,859 km/h)
         rotation_period: 56.878 d
         axial_tilt: 12.84°
         albedo: 0.30
-        temperature: 121 K<br />(-152 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 1605 Reggiad IX d
         type: Icy
         formationType: Accreted
@@ -1155,14 +1155,14 @@ planets:
         radius: 134,491.3 km<br/>(21.110 Yrths)
         surface_area: 2.273 × 10<sup>11</sup> km<sup>2</sup><br/>(445.629 Yrths)
         volume: 1.019 × 10<sup>16</sup> km<sup>3</sup><br/>(9407.191 Yrths)
-        mass: 1.352 × 10<sup>28</sup> kg<br />(166.53819589123162 Yrths)
+        mass: 1.352 × 10<sup>28</sup> kg<br />(2264.190 Yrths)
         density: 1.327 g/cm<sup>3</sup>
         surface_gravity: 49.826 m/s<sup>2</sup><br />(5.081 g<sub>0</sub>)
         escape_velocity: 115.848 km/s<br />(417,051 km/h)
         rotation_period: 69.253 d
         axial_tilt: 25.48°
         albedo: 0.30
-        temperature: 79 K<br />(-194 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 1605 Reggiad IX e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1175,14 +1175,14 @@ planets:
         radius: 108,169.1 km<br/>(16.978 Yrths)
         surface_area: 1.470 × 10<sup>11</sup> km<sup>2</sup><br/>(288.264 Yrths)
         volume: 5.301 × 10<sup>15</sup> km<sup>3</sup><br/>(4894.253 Yrths)
-        mass: 1.075 × 10<sup>28</sup> kg<br />(166.53819589123162 Yrths)
+        mass: 1.075 × 10<sup>28</sup> kg<br />(1800.752 Yrths)
         density: 2.029 g/cm<sup>3</sup>
         surface_gravity: 61.261 m/s<sup>2</sup><br />(6.247 g<sub>0</sub>)
         escape_velocity: 115.200 km/s<br />(414,721 km/h)
         rotation_period: 62.847 d
         axial_tilt: 20.37°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 1605 Reggiad IX f
         type: Rocky
         formationType: Captured
@@ -1195,14 +1195,14 @@ planets:
         radius: 93,078.4 km<br/>(14.610 Yrths)
         surface_area: 1.089 × 10<sup>11</sup> km<sup>2</sup><br/>(213.444 Yrths)
         volume: 3.378 × 10<sup>15</sup> km<sup>3</sup><br/>(3118.347 Yrths)
-        mass: 1.216 × 10<sup>28</sup> kg<br />(166.53819589123162 Yrths)
+        mass: 1.216 × 10<sup>28</sup> kg<br />(2036.192 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 93.553 m/s<sup>2</sup><br />(9.540 g<sub>0</sub>)
         escape_velocity: 132.057 km/s<br />(475,406 km/h)
         rotation_period: 40.453 d
         axial_tilt: 16.79°
         albedo: 0.30
-        temperature: 19 K<br />(-254 °C)
+        temperature: 36 K<br />(-237 °C)
       - name: 1605 Reggiad IX g
         type: Icy
         formationType: Impact formed
@@ -1215,12 +1215,12 @@ planets:
         radius: 131,019.9 km<br/>(20.565 Yrths)
         surface_area: 2.157 × 10<sup>11</sup> km<sup>2</sup><br/>(422.921 Yrths)
         volume: 9.421 × 10<sup>15</sup> km<sup>3</sup><br/>(8697.397 Yrths)
-        mass: 9.777 × 10<sup>27</sup> kg<br />(166.53819589123162 Yrths)
+        mass: 9.777 × 10<sup>27</sup> kg<br />(1637.148 Yrths)
         density: 1.038 g/cm<sup>3</sup>
         surface_gravity: 37.962 m/s<sup>2</sup><br />(3.871 g<sub>0</sub>)
         escape_velocity: 99.805 km/s<br />(359,299 km/h)
         rotation_period: 49.061 d
         axial_tilt: 11.53°
         albedo: 0.30
-        temperature: 11 K<br />(-262 °C)
+        temperature: 36 K<br />(-237 °C)
 ---

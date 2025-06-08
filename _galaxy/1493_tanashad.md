@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1493 Tanashad is a star in the constellation Tanas
+      1493 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 348.70 ly
 apparent_magnitude: 11.00
 absolute_magnitude: 5.86

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1053 Geardiad is a star in the constellation Geard
+      1053 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 290.39 ly
 apparent_magnitude: 11.11
 absolute_magnitude: 6.37

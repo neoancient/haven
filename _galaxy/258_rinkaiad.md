@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      258 Rinkaiad is a star in the constellation Rinka
+      258 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 129.96 ly
 apparent_magnitude: 18.52
 absolute_magnitude: 15.52

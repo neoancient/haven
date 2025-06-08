@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      731 Arniad is a star in the constellation Arni
+      731 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1477.36 ly
 apparent_magnitude: 9.26
 absolute_magnitude: 0.98

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1706 Lunaiad is a star in the constellation Luna
+      1706 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 256.34 ly
 apparent_magnitude: 9.43
 absolute_magnitude: 4.95

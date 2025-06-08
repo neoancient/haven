@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4322 Athiad is a star in the constellation Ath
+      4322 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 321.36 ly
 apparent_magnitude: 9.86
 absolute_magnitude: 4.89

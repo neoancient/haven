@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      574 Urthiad is a star in the constellation Urth
+      574 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 420.23 ly
 apparent_magnitude: 10.89
 absolute_magnitude: 5.34

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      23121 Dialkeshiad A is a star in the constellation Dialkes
+      23121 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 551.10 ly
 apparent_magnitude: 7.34
 absolute_magnitude: 1.20

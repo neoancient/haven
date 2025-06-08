@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      988 Arniad A is a star in the constellation Arni
+      988 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 275.43 ly
 apparent_magnitude: 7.29
 absolute_magnitude: 2.65

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0056 Ratharshinniad B is a star in the constellation Ratharshin
+      0056 Ratharshinniad B is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 195.24 ly
 apparent_magnitude: 9.22
 absolute_magnitude: 5.33

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Shear A is a star in the constellation Emnia
+      Shear A is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 67.39 ly
 apparent_magnitude: 2.30
 absolute_magnitude: 0.72

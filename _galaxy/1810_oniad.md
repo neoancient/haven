@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1810 Oniad is a star in the constellation Oni
+      1810 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1081.04 ly
 apparent_magnitude: 15.14
 absolute_magnitude: 7.54

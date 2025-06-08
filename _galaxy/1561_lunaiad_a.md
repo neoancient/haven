@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1561 Lunaiad A is a star in the constellation Luna
+      1561 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 170.86 ly
 apparent_magnitude: 7.18
 absolute_magnitude: 3.59

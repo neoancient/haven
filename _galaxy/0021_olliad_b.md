@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0021 Olliad B is a star in the constellation Ol
+      0021 Olliad B is a star in the constellation <a href="ol.html">Ol</a>
 distance: 330.17 ly
 apparent_magnitude: 9.84
 absolute_magnitude: 4.82

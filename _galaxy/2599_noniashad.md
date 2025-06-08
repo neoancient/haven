@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2599 Noniashad is a star in the constellation Nonias
+      2599 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 349.35 ly
 apparent_magnitude: 10.77
 absolute_magnitude: 5.62

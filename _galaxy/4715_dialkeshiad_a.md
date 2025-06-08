@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4715 Dialkeshiad A is a star in the constellation Dialkes
+      4715 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 453.83 ly
 apparent_magnitude: 8.10
 absolute_magnitude: 2.39

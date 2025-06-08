@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      942 Geardiad is a star in the constellation Geard
+      942 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 277.40 ly
 apparent_magnitude: 11.07
 absolute_magnitude: 6.43

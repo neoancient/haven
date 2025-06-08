@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1242 Arkothiad is a star in the constellation Arkoth
+      1242 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 191.61 ly
 apparent_magnitude: 6.95
 absolute_magnitude: 3.10
@@ -31,14 +31,14 @@ planets:
     radius: 14,630.9 km<br/>(2.296 Yrths)
     surface_area: 2.690 × 10<sup>09</sup> km<sup>2</sup><br/>(5.274 Yrths)
     volume: 1.312 × 10<sup>13</sup> km<sup>3</sup><br/>(12.111 Yrths)
-    mass: 1.700 × 10<sup>25</sup> kg<br />(2.8471067452686034 Yrths)
+    mass: 1.700 × 10<sup>25</sup> kg<br />(2.85 Yrths)
     density: 1.296 g/cm<sup>3</sup>
     surface_gravity: 5.294 m/s<sup>2</sup><br />(0.540 g<sub>0</sub>)
     escape_velocity: 12.455 km/s<br />(44,838 km/h)
     rotation_period: 0.602 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 418 K<br />(145 °C)
+    temperature: 376 K<br />(103 °C)
     composition:
       - 94.5635% hydrogen
       - 3.1282% helium
@@ -58,14 +58,14 @@ planets:
         radius: 5,268.3 km<br/>(0.827 Yrths)
         surface_area: 3.488 × 10<sup>08</sup> km<sup>2</sup><br/>(0.684 Yrths)
         volume: 6.125 × 10<sup>11</sup> km<sup>3</sup><br/>(0.565 Yrths)
-        mass: 1.347 × 10<sup>24</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 1.347 × 10<sup>24</sup> kg<br />(0.226 Yrths)
         density: 2.200 g/cm<sup>3</sup>
         surface_gravity: 3.236 m/s<sup>2</sup><br />(0.330 g<sub>0</sub>)
         escape_velocity: 5.843 km/s<br />(21,035 km/h)
         rotation_period: 46.609 d
         axial_tilt: 11.17°
         albedo: 0.30
-        temperature: 2733 K<br />(2460 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I b
         type: Icy
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 5,654.4 km<br/>(0.888 Yrths)
         surface_area: 4.018 × 10<sup>08</sup> km<sup>2</sup><br/>(0.788 Yrths)
         volume: 7.573 × 10<sup>11</sup> km<sup>3</sup><br/>(0.699 Yrths)
-        mass: 1.168 × 10<sup>24</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 1.168 × 10<sup>24</sup> kg<br />(0.196 Yrths)
         density: 1.542 g/cm<sup>3</sup>
         surface_gravity: 2.435 m/s<sup>2</sup><br />(0.248 g<sub>0</sub>)
         escape_velocity: 5.251 km/s<br />(18,903 km/h)
         rotation_period: 41.649 d
         axial_tilt: 22.88°
         albedo: 0.30
-        temperature: 2369 K<br />(2095 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I c
         type: Icy
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 4,626.2 km<br/>(0.726 Yrths)
         surface_area: 2.689 × 10<sup>08</sup> km<sup>2</sup><br/>(0.527 Yrths)
         volume: 4.147 × 10<sup>11</sup> km<sup>3</sup><br/>(0.383 Yrths)
-        mass: 5.447 × 10<sup>23</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 5.447 × 10<sup>23</sup> kg<br />(0.091 Yrths)
         density: 1.313 g/cm<sup>3</sup>
         surface_gravity: 1.697 m/s<sup>2</sup><br />(0.173 g<sub>0</sub>)
         escape_velocity: 3.965 km/s<br />(14,273 km/h)
         rotation_period: 45.084 d
         axial_tilt: 21.93°
         albedo: 0.30
-        temperature: 2258 K<br />(1985 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I d
         type: Icy
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 4,817.4 km<br/>(0.756 Yrths)
         surface_area: 2.916 × 10<sup>08</sup> km<sup>2</sup><br/>(0.572 Yrths)
         volume: 4.683 × 10<sup>11</sup> km<sup>3</sup><br/>(0.432 Yrths)
-        mass: 6.662 × 10<sup>23</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 6.662 × 10<sup>23</sup> kg<br />(0.112 Yrths)
         density: 1.423 g/cm<sup>3</sup>
         surface_gravity: 1.913 m/s<sup>2</sup><br />(0.195 g<sub>0</sub>)
         escape_velocity: 4.296 km/s<br />(15,467 km/h)
         rotation_period: 55.882 d
         axial_tilt: 9.05°
         albedo: 0.30
-        temperature: 2053 K<br />(1780 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I e
         type: Asteroid
         formationType: Captured
@@ -138,14 +138,14 @@ planets:
         radius: 3,475.4 km<br/>(0.545 Yrths)
         surface_area: 1.518 × 10<sup>08</sup> km<sup>2</sup><br/>(0.298 Yrths)
         volume: 1.758 × 10<sup>11</sup> km<sup>3</sup><br/>(0.162 Yrths)
-        mass: 6.255 × 10<sup>23</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 6.255 × 10<sup>23</sup> kg<br />(0.105 Yrths)
         density: 3.557 g/cm<sup>3</sup>
         surface_gravity: 3.452 m/s<sup>2</sup><br />(0.352 g<sub>0</sub>)
         escape_velocity: 4.901 km/s<br />(17,645 km/h)
         rotation_period: 33.164 d
         axial_tilt: 38.38°
         albedo: 0.30
-        temperature: 1958 K<br />(1684 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I f
         type: Asteroid
         formationType: Captured
@@ -158,14 +158,14 @@ planets:
         radius: 2,766.7 km<br/>(0.434 Yrths)
         surface_area: 9.619 × 10<sup>07</sup> km<sup>2</sup><br/>(0.189 Yrths)
         volume: 8.871 × 10<sup>10</sup> km<sup>3</sup><br/>(0.082 Yrths)
-        mass: 3.282 × 10<sup>23</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 3.282 × 10<sup>23</sup> kg<br />(0.055 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 2.858 m/s<sup>2</sup><br />(0.291 g<sub>0</sub>)
         escape_velocity: 3.979 km/s<br />(14,326 km/h)
         rotation_period: 28.250 d
         axial_tilt: 29.59°
         albedo: 0.30
-        temperature: 1866 K<br />(1593 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -178,14 +178,14 @@ planets:
         radius: 3,433.0 km<br/>(0.539 Yrths)
         surface_area: 1.481 × 10<sup>08</sup> km<sup>2</sup><br/>(0.290 Yrths)
         volume: 1.695 × 10<sup>11</sup> km<sup>3</sup><br/>(0.156 Yrths)
-        mass: 3.583 × 10<sup>23</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 3.583 × 10<sup>23</sup> kg<br />(0.060 Yrths)
         density: 2.114 g/cm<sup>3</sup>
         surface_gravity: 2.026 m/s<sup>2</sup><br />(0.207 g<sub>0</sub>)
         escape_velocity: 3.733 km/s<br />(13,437 km/h)
         rotation_period: 41.824 d
         axial_tilt: 8.64°
         albedo: 0.30
-        temperature: 1697 K<br />(1424 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I h
         type: Icy
         formationType: Captured
@@ -198,14 +198,14 @@ planets:
         radius: 5,597.4 km<br/>(0.879 Yrths)
         surface_area: 3.937 × 10<sup>08</sup> km<sup>2</sup><br/>(0.772 Yrths)
         volume: 7.346 × 10<sup>11</sup> km<sup>3</sup><br/>(0.678 Yrths)
-        mass: 9.030 × 10<sup>23</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 9.030 × 10<sup>23</sup> kg<br />(0.151 Yrths)
         density: 1.229 g/cm<sup>3</sup>
         surface_gravity: 1.921 m/s<sup>2</sup><br />(0.196 g<sub>0</sub>)
         escape_velocity: 4.640 km/s<br />(16,706 km/h)
         rotation_period: 56.386 d
         axial_tilt: 27.64°
         albedo: 0.30
-        temperature: 1543 K<br />(1269 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -218,14 +218,14 @@ planets:
         radius: 3,821.3 km<br/>(0.600 Yrths)
         surface_area: 1.835 × 10<sup>08</sup> km<sup>2</sup><br/>(0.360 Yrths)
         volume: 2.337 × 10<sup>11</sup> km<sup>3</sup><br/>(0.216 Yrths)
-        mass: 5.298 × 10<sup>23</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 5.298 × 10<sup>23</sup> kg<br />(0.089 Yrths)
         density: 2.267 g/cm<sup>3</sup>
         surface_gravity: 2.418 m/s<sup>2</sup><br />(0.247 g<sub>0</sub>)
         escape_velocity: 4.302 km/s<br />(15,487 km/h)
         rotation_period: 33.301 d
         axial_tilt: 13.97°
         albedo: 0.30
-        temperature: 1402 K<br />(1129 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I j
         type: Rocky
         formationType: Accreted
@@ -238,14 +238,14 @@ planets:
         radius: 3,176.0 km<br/>(0.499 Yrths)
         surface_area: 1.268 × 10<sup>08</sup> km<sup>2</sup><br/>(0.249 Yrths)
         volume: 1.342 × 10<sup>11</sup> km<sup>3</sup><br/>(0.124 Yrths)
-        mass: 4.314 × 10<sup>23</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 4.314 × 10<sup>23</sup> kg<br />(0.072 Yrths)
         density: 3.215 g/cm<sup>3</sup>
         surface_gravity: 2.851 m/s<sup>2</sup><br />(0.291 g<sub>0</sub>)
         escape_velocity: 4.258 km/s<br />(15,330 km/h)
         rotation_period: 34.379 d
         axial_tilt: 13.05°
         albedo: 0.30
-        temperature: 1337 K<br />(1064 °C)
+        temperature: 235 K<br />(-38 °C)
       - name: 1242 Arkothiad I k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -258,14 +258,14 @@ planets:
         radius: 6,342.6 km<br/>(0.996 Yrths)
         surface_area: 5.055 × 10<sup>08</sup> km<sup>2</sup><br/>(0.991 Yrths)
         volume: 1.069 × 10<sup>12</sup> km<sup>3</sup><br/>(0.987 Yrths)
-        mass: 2.172 × 10<sup>24</sup> kg<br />(2.8471067452686034 Yrths)
+        mass: 2.172 × 10<sup>24</sup> kg<br />(0.364 Yrths)
         density: 2.033 g/cm<sup>3</sup>
         surface_gravity: 3.599 m/s<sup>2</sup><br />(0.367 g<sub>0</sub>)
         escape_velocity: 6.762 km/s<br />(24,342 km/h)
         rotation_period: 41.530 d
         axial_tilt: 7.42°
         albedo: 0.30
-        temperature: 1275 K<br />(1002 °C)
+        temperature: 235 K<br />(-38 °C)
   - name: 1242 Arkothiad II
     type: Large terrestrial
     aphelion: 902,980,485 km<br />6.036 AU
@@ -277,14 +277,14 @@ planets:
     radius: 2,700.4 km<br/>(0.424 Yrths)
     surface_area: 9.163 × 10<sup>07</sup> km<sup>2</sup><br/>(0.180 Yrths)
     volume: 8.248 × 10<sup>10</sup> km<sup>3</sup><br/>(0.076 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 7.240 g/cm<sup>3</sup>
     surface_gravity: 5.459 m/s<sup>2</sup><br />(0.557 g<sub>0</sub>)
     escape_velocity: 5.433 km/s<br />(19,560 km/h)
     rotation_period: 1.692 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 204 K<br />(-69 °C)
+    temperature: 198 K<br />(-75 °C)
     surface_pressure: 183 kPa<br />(2 atm)
     composition:
       - 87.1869% nitrogen
@@ -305,14 +305,14 @@ planets:
         radius: 674.3 km<br/>(0.106 Yrths)
         surface_area: 5.713 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.284 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.271 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.271 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.990 g/cm<sup>3</sup>
         surface_gravity: 0.186 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.502 km/s<br />(1,806 km/h)
         rotation_period: 72.789 d
         axial_tilt: 10.54°
         albedo: 0.30
-        temperature: 3529 K<br />(3256 °C)
+        temperature: 163 K<br />(-110 °C)
       - name: 1242 Arkothiad II b
         type: Rocky
         formationType: Captured
@@ -325,14 +325,14 @@ planets:
         radius: 561.6 km<br/>(0.088 Yrths)
         surface_area: 3.964 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.420 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.906 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.906 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.569 g/cm<sup>3</sup>
         surface_gravity: 0.403 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.673 km/s<br />(2,423 km/h)
         rotation_period: 42.567 d
         axial_tilt: 14.95°
         albedo: 0.30
-        temperature: 3365 K<br />(3091 °C)
+        temperature: 163 K<br />(-110 °C)
       - name: 1242 Arkothiad II c
         type: Asteroid
         formationType: Captured
@@ -345,14 +345,14 @@ planets:
         radius: 336.7 km<br/>(0.053 Yrths)
         surface_area: 1.425 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.599 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.134 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.134 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.959 g/cm<sup>3</sup>
         surface_gravity: 0.184 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.352 km/s<br />(1,269 km/h)
         rotation_period: 40.405 d
         axial_tilt: 31.20°
         albedo: 0.30
-        temperature: 3208 K<br />(2935 °C)
+        temperature: 163 K<br />(-110 °C)
   - name: 1242 Arkothiad III
     type: Ice giant
     aphelion: 1,883,004,170 km<br />12.587 AU
@@ -364,14 +364,14 @@ planets:
     radius: 4,898.7 km<br/>(0.769 Yrths)
     surface_area: 3.016 × 10<sup>08</sup> km<sup>2</sup><br/>(0.591 Yrths)
     volume: 4.924 × 10<sup>11</sup> km<sup>3</sup><br/>(0.455 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.213 g/cm<sup>3</sup>
     surface_gravity: 1.659 m/s<sup>2</sup><br />(0.169 g<sub>0</sub>)
     escape_velocity: 4.034 km/s<br />(14,522 km/h)
     rotation_period: 0.765 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 201 K<br />(-73 °C)
+    temperature: 180 K<br />(-93 °C)
     composition:
       - 85.9408% hydrogen
       - 13.6237% helium
@@ -390,14 +390,14 @@ planets:
         radius: 543.7 km<br/>(0.085 Yrths)
         surface_area: 3.715 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.733 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.918 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.918 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.849 g/cm<sup>3</sup>
         surface_gravity: 0.432 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 0.686 km/s<br />(2,470 km/h)
         rotation_period: 39.752 d
         axial_tilt: 34.38°
         albedo: 0.30
-        temperature: 2422 K<br />(2149 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 1242 Arkothiad III b
         type: Icy
         formationType: Impact formed
@@ -410,14 +410,14 @@ planets:
         radius: 775.3 km<br/>(0.122 Yrths)
         surface_area: 7.554 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.952 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.444 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.444 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.252 g/cm<sup>3</sup>
         surface_gravity: 0.271 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.649 km/s<br />(2,335 km/h)
         rotation_period: 67.622 d
         axial_tilt: 16.18°
         albedo: 0.30
-        temperature: 2310 K<br />(2037 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 1242 Arkothiad III c
         type: Icy
         formationType: Impact formed
@@ -430,14 +430,14 @@ planets:
         radius: 1,349.9 km<br/>(0.212 Yrths)
         surface_area: 2.290 × 10<sup>07</sup> km<sup>2</sup><br/>(0.045 Yrths)
         volume: 1.030 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 1.557 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.557 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.511 g/cm<sup>3</sup>
         surface_gravity: 0.570 m/s<sup>2</sup><br />(0.058 g<sub>0</sub>)
         escape_velocity: 1.241 km/s<br />(4,467 km/h)
         rotation_period: 46.270 d
         axial_tilt: 17.56°
         albedo: 0.30
-        temperature: 2202 K<br />(1929 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 1242 Arkothiad III d
         type: Icy
         formationType: Impact formed
@@ -450,14 +450,14 @@ planets:
         radius: 638.1 km<br/>(0.100 Yrths)
         surface_area: 5.116 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.088 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.231 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.231 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.131 g/cm<sup>3</sup>
         surface_gravity: 0.202 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.507 km/s<br />(1,827 km/h)
         rotation_period: 52.612 d
         axial_tilt: 6.05°
         albedo: 0.30
-        temperature: 2100 K<br />(1827 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 1242 Arkothiad III e
         type: Asteroid
         formationType: Captured
@@ -470,14 +470,14 @@ planets:
         radius: 498.0 km<br/>(0.078 Yrths)
         surface_area: 3.116 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.172 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.576 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.576 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.046 g/cm<sup>3</sup>
         surface_gravity: 0.424 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.650 km/s<br />(2,340 km/h)
         rotation_period: 29.504 d
         axial_tilt: 40.56°
         albedo: 0.30
-        temperature: 1735 K<br />(1462 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 1242 Arkothiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -490,14 +490,14 @@ planets:
         radius: 595.7 km<br/>(0.093 Yrths)
         surface_area: 4.459 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.853 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.594 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.594 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.800 g/cm<sup>3</sup>
         surface_gravity: 0.299 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.598 km/s<br />(2,151 km/h)
         rotation_period: 54.923 d
         axial_tilt: 12.27°
         albedo: 0.30
-        temperature: 1655 K<br />(1381 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 1242 Arkothiad III g
         type: Icy
         formationType: Impact formed
@@ -510,14 +510,14 @@ planets:
         radius: 765.9 km<br/>(0.120 Yrths)
         surface_area: 7.371 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.882 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.671 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.671 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.888 g/cm<sup>3</sup>
         surface_gravity: 0.190 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.540 km/s<br />(1,943 km/h)
         rotation_period: 90.789 d
         axial_tilt: 9.67°
         albedo: 0.30
-        temperature: 1578 K<br />(1304 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 1242 Arkothiad III h
         type: Icy
         formationType: Impact formed
@@ -530,12 +530,12 @@ planets:
         radius: 1,077.5 km<br/>(0.169 Yrths)
         surface_area: 1.459 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.240 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 4.191 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.191 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.800 g/cm<sup>3</sup>
         surface_gravity: 0.241 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.721 km/s<br />(2,594 km/h)
         rotation_period: 60.058 d
         axial_tilt: 11.47°
         albedo: 0.30
-        temperature: 1504 K<br />(1231 °C)
+        temperature: 114 K<br />(-159 °C)
 ---

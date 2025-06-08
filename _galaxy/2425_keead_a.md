@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2425 Keead A is a star in the constellation Kee
+      2425 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 357.55 ly
 apparent_magnitude: 6.97
 absolute_magnitude: 1.77

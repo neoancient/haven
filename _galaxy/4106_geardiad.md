@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4106 Geardiad is a star in the constellation Geard
+      4106 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 369.56 ly
 apparent_magnitude: 13.17
 absolute_magnitude: 7.90

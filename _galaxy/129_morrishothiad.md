@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      129 Morrishothiad is a star in the constellation Morrishoth
+      129 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 443.82 ly
 apparent_magnitude: 11.01
 absolute_magnitude: 5.34

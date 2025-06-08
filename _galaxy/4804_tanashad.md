@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4804 Tanashad is a star in the constellation Tanas
+      4804 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 479.02 ly
 apparent_magnitude: 10.44
 absolute_magnitude: 4.60

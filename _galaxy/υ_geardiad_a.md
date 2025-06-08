@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      υ Geardiad A is a star in the constellation Geard
+      υ Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1531.22 ly
 apparent_magnitude: 5.30
 absolute_magnitude: -3.06

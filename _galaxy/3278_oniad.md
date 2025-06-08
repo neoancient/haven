@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3278 Oniad is a star in the constellation Oni
+      3278 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 525.41 ly
 apparent_magnitude: 11.23
 absolute_magnitude: 5.20

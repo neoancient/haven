@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4180 Geardiad is a star in the constellation Geard
+      4180 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 315.25 ly
 apparent_magnitude: 10.24
 absolute_magnitude: 5.31

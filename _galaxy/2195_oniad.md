@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2195 Oniad is a star in the constellation Oni
+      2195 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 422.52 ly
 apparent_magnitude: 10.47
 absolute_magnitude: 4.91

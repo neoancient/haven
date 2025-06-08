@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0023 Anasoiad A is a star in the constellation Anaso
+      0023 Anasoiad A is a star in the constellation <a href="anaso.html">Anaso</a>
 distance: 471.18 ly
 apparent_magnitude: 6.23
 absolute_magnitude: 0.43

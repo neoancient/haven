@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5458 Tanashad A is a star in the constellation Tanas
+      5458 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 641.43 ly
 apparent_magnitude: 6.69
 absolute_magnitude: 0.22

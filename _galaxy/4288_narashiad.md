@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4288 Narashiad is a star in the constellation Naras
+      4288 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 305.22 ly
 apparent_magnitude: 10.90
 absolute_magnitude: 6.04

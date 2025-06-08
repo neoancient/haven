@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2596 Oniad is a star in the constellation Oni
+      2596 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 482.91 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 4.91

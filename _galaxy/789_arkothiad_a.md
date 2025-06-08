@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      789 Arkothiad A is a star in the constellation Arkoth
+      789 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 276.84 ly
 apparent_magnitude: 11.34
 absolute_magnitude: 6.69

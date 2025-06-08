@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4513780 Tanashad A is a star in the constellation Tanas
+      4513780 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 343.61 ly
 apparent_magnitude: 8.49
 absolute_magnitude: 3.38

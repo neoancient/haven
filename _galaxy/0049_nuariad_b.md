@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0049 Nuariad B is a star in the constellation Nuari
+      0049 Nuariad B is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 628.16 ly
 apparent_magnitude: 10.96
 absolute_magnitude: 4.54

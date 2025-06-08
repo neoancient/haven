@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      160 Morrishothiad A is a star in the constellation Morrishoth
+      160 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 489.32 ly
 apparent_magnitude: 7.70
 absolute_magnitude: 1.82

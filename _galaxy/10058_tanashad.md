@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10058 Tanashad is a star in the constellation Tanas
+      10058 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 343.24 ly
 apparent_magnitude: 10.71
 absolute_magnitude: 5.60
@@ -31,7 +31,7 @@ planets:
     radius: 7,752.1 km<br/>(1.217 Yrths)
     surface_area: 7.552 × 10<sup>08</sup> km<sup>2</sup><br/>(1.481 Yrths)
     volume: 1.951 × 10<sup>12</sup> km<sup>3</sup><br/>(1.802 Yrths)
-    mass: 8.845 × 10<sup>24</sup> kg<br />(1.481041723372615 Yrths)
+    mass: 8.845 × 10<sup>24</sup> kg<br />(1.48 Yrths)
     density: 4.533 g/cm<sup>3</sup>
     surface_gravity: 9.810 m/s<sup>2</sup><br />(1.000 g<sub>0</sub>)
     escape_velocity: 12.341 km/s<br />(44,428 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 1,836.9 km<br/>(0.288 Yrths)
         surface_area: 4.240 × 10<sup>07</sup> km<sup>2</sup><br/>(0.083 Yrths)
         volume: 2.596 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 8.708 × 10<sup>22</sup> kg<br />(1.481041723372615 Yrths)
+        mass: 8.708 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 3.354 g/cm<sup>3</sup>
         surface_gravity: 1.720 m/s<sup>2</sup><br />(0.175 g<sub>0</sub>)
         escape_velocity: 2.516 km/s<br />(9,056 km/h)
         rotation_period: 49.150 d
         axial_tilt: 7.43°
         albedo: 0.30
-        temperature: 3312 K<br />(3038 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 10058 Tanashad I b
         type: Asteroid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 2,702.1 km<br/>(0.424 Yrths)
         surface_area: 9.175 × 10<sup>07</sup> km<sup>2</sup><br/>(0.180 Yrths)
         volume: 8.264 × 10<sup>10</sup> km<sup>3</sup><br/>(0.076 Yrths)
-        mass: 3.023 × 10<sup>23</sup> kg<br />(1.481041723372615 Yrths)
+        mass: 3.023 × 10<sup>23</sup> kg<br />(0.051 Yrths)
         density: 3.659 g/cm<sup>3</sup>
         surface_gravity: 2.760 m/s<sup>2</sup><br />(0.281 g<sub>0</sub>)
         escape_velocity: 3.865 km/s<br />(13,913 km/h)
         rotation_period: 28.055 d
         axial_tilt: 36.09°
         albedo: 0.30
-        temperature: 3158 K<br />(2884 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: 10058 Tanashad II
     type: Large terrestrial
     aphelion: 350,038,880 km<br />2.340 AU
@@ -91,14 +91,14 @@ planets:
     radius: 11,529.8 km<br/>(1.810 Yrths)
     surface_area: 1.671 × 10<sup>09</sup> km<sup>2</sup><br/>(3.275 Yrths)
     volume: 6.420 × 10<sup>12</sup> km<sup>3</sup><br/>(5.927 Yrths)
-    mass: 4.716 × 10<sup>25</sup> kg<br />(7.8967391342066655 Yrths)
+    mass: 4.716 × 10<sup>25</sup> kg<br />(7.90 Yrths)
     density: 7.345 g/cm<sup>3</sup>
     surface_gravity: 23.645 m/s<sup>2</sup><br />(2.411 g<sub>0</sub>)
     escape_velocity: 23.366 km/s<br />(84,119 km/h)
     rotation_period: 0.672 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 232 K<br />(-41 °C)
+    temperature: 360 K<br />(87 °C)
     surface_pressure: 72 kPa<br />(1 atm)
     composition:
       - 76.4514% ammonia
@@ -117,14 +117,14 @@ planets:
         radius: 6,552.8 km<br/>(1.029 Yrths)
         surface_area: 5.396 × 10<sup>08</sup> km<sup>2</sup><br/>(1.058 Yrths)
         volume: 1.179 × 10<sup>12</sup> km<sup>3</sup><br/>(1.088 Yrths)
-        mass: 2.157 × 10<sup>24</sup> kg<br />(7.8967391342066655 Yrths)
+        mass: 2.157 × 10<sup>24</sup> kg<br />(0.361 Yrths)
         density: 1.830 g/cm<sup>3</sup>
         surface_gravity: 3.348 m/s<sup>2</sup><br />(0.341 g<sub>0</sub>)
         escape_velocity: 6.628 km/s<br />(23,861 km/h)
         rotation_period: 44.001 d
         axial_tilt: 24.12°
         albedo: 0.30
-        temperature: 2062 K<br />(1789 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 10058 Tanashad II b
         type: Icy
         formationType: Accreted
@@ -137,14 +137,14 @@ planets:
         radius: 7,166.5 km<br/>(1.125 Yrths)
         surface_area: 6.454 × 10<sup>08</sup> km<sup>2</sup><br/>(1.265 Yrths)
         volume: 1.542 × 10<sup>12</sup> km<sup>3</sup><br/>(1.423 Yrths)
-        mass: 2.357 × 10<sup>24</sup> kg<br />(7.8967391342066655 Yrths)
+        mass: 2.357 × 10<sup>24</sup> kg<br />(0.395 Yrths)
         density: 1.529 g/cm<sup>3</sup>
         surface_gravity: 3.059 m/s<sup>2</sup><br />(0.312 g<sub>0</sub>)
         escape_velocity: 6.626 km/s<br />(23,853 km/h)
         rotation_period: 48.187 d
         axial_tilt: 13.35°
         albedo: 0.30
-        temperature: 1966 K<br />(1693 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 10058 Tanashad II c
         type: Rocky
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 13,384.8 km<br/>(2.101 Yrths)
         surface_area: 2.251 × 10<sup>09</sup> km<sup>2</sup><br/>(4.414 Yrths)
         volume: 1.004 × 10<sup>13</sup> km<sup>3</sup><br/>(9.273 Yrths)
-        mass: 3.082 × 10<sup>25</sup> kg<br />(7.8967391342066655 Yrths)
+        mass: 3.082 × 10<sup>25</sup> kg<br />(5.161 Yrths)
         density: 3.069 g/cm<sup>3</sup>
         surface_gravity: 11.468 m/s<sup>2</sup><br />(1.169 g<sub>0</sub>)
         escape_velocity: 17.533 km/s<br />(63,119 km/h)
         rotation_period: 30.190 d
         axial_tilt: 17.72°
         albedo: 0.30
-        temperature: 1875 K<br />(1602 °C)
+        temperature: 183 K<br />(-90 °C)
   - name: 10058 Tanashad III
     type: Large terrestrial
     aphelion: 608,758,883 km<br />4.069 AU
@@ -176,14 +176,14 @@ planets:
     radius: 7,889.1 km<br/>(1.238 Yrths)
     surface_area: 7.821 × 10<sup>08</sup> km<sup>2</sup><br/>(1.533 Yrths)
     volume: 2.057 × 10<sup>12</sup> km<sup>3</sup><br/>(1.899 Yrths)
-    mass: 1.286 × 10<sup>25</sup> kg<br />(2.1528018940059055 Yrths)
+    mass: 1.286 × 10<sup>25</sup> kg<br />(2.15 Yrths)
     density: 6.251 g/cm<sup>3</sup>
     surface_gravity: 13.769 m/s<sup>2</sup><br />(1.404 g<sub>0</sub>)
     escape_velocity: 14.749 km/s<br />(53,097 km/h)
     rotation_period: 0.835 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 172 K<br />(-101 °C)
+    temperature: 195 K<br />(-79 °C)
     surface_pressure: 127 kPa<br />(1 atm)
     composition:
       - 78.6284% ammonia
@@ -203,14 +203,14 @@ planets:
         radius: 7,964.0 km<br/>(1.250 Yrths)
         surface_area: 7.970 × 10<sup>08</sup> km<sup>2</sup><br/>(1.563 Yrths)
         volume: 2.116 × 10<sup>12</sup> km<sup>3</sup><br/>(1.953 Yrths)
-        mass: 3.216 × 10<sup>24</sup> kg<br />(2.1528018940059055 Yrths)
+        mass: 3.216 × 10<sup>24</sup> kg<br />(0.539 Yrths)
         density: 1.520 g/cm<sup>3</sup>
         surface_gravity: 3.380 m/s<sup>2</sup><br />(0.345 g<sub>0</sub>)
         escape_velocity: 7.342 km/s<br />(26,431 km/h)
         rotation_period: 62.348 d
         axial_tilt: 20.98°
         albedo: 0.30
-        temperature: 1831 K<br />(1558 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 10058 Tanashad III b
         type: Asteroid
         formationType: Captured
@@ -223,12 +223,12 @@ planets:
         radius: 2,458.6 km<br/>(0.386 Yrths)
         surface_area: 7.596 × 10<sup>07</sup> km<sup>2</sup><br/>(0.149 Yrths)
         volume: 6.225 × 10<sup>10</sup> km<sup>3</sup><br/>(0.057 Yrths)
-        mass: 1.583 × 10<sup>23</sup> kg<br />(2.1528018940059055 Yrths)
+        mass: 1.583 × 10<sup>23</sup> kg<br />(0.027 Yrths)
         density: 2.543 g/cm<sup>3</sup>
         surface_gravity: 1.746 m/s<sup>2</sup><br />(0.178 g<sub>0</sub>)
         escape_velocity: 2.932 km/s<br />(10,555 km/h)
         rotation_period: 37.802 d
         axial_tilt: 52.07°
         albedo: 0.30
-        temperature: 1746 K<br />(1473 °C)
+        temperature: 138 K<br />(-135 °C)
 ---

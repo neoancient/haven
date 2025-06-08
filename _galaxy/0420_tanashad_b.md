@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0420 Tanashad B is a star in the constellation Tanas
+      0420 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 158.67 ly
 apparent_magnitude: 6.55
 absolute_magnitude: 3.11

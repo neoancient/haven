@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0079 Lasraiad A is a star in the constellation Lasra
+      0079 Lasraiad A is a star in the constellation <a href="lasra.html">Lasra</a>
 distance: 1220.27 ly
 apparent_magnitude: 6.29
 absolute_magnitude: -1.57

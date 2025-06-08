@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5322 Saithiad is a star in the constellation Saith
+      5322 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 695.96 ly
 apparent_magnitude: 11.93
 absolute_magnitude: 5.29

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10631 Dialkeshiad A is a star in the constellation Dialkes
+      10631 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 226.90 ly
 apparent_magnitude: 9.70
 absolute_magnitude: 5.49

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3586 Niniunniad is a star in the constellation Niniun
+      3586 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 360.75 ly
 apparent_magnitude: 10.39
 absolute_magnitude: 5.17

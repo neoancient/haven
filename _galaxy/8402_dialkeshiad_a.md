@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8402 Dialkeshiad A is a star in the constellation Dialkes
+      8402 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 518.22 ly
 apparent_magnitude: 6.77
 absolute_magnitude: 0.77

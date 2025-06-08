@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Noniashad B is a star in the constellation Nonias
+      θ Noniashad B is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 846.10 ly
 apparent_magnitude: 17.22
 absolute_magnitude: 10.15

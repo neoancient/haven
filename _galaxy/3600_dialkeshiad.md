@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3600 Dialkeshiad is a star in the constellation Dialkes
+      3600 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 203.17 ly
 apparent_magnitude: 10.30
 absolute_magnitude: 6.32

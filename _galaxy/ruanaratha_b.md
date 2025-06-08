@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ruanaratha B is a star in the constellation Mioruane
+      Ruanaratha B is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 710.20 ly
 apparent_magnitude: 4.22
 absolute_magnitude: -2.47

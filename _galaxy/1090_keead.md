@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1090 Keead is a star in the constellation Kee
+      1090 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 487.48 ly
 apparent_magnitude: 10.66
 absolute_magnitude: 4.79

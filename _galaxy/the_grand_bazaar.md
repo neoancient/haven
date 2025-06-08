@@ -28,14 +28,14 @@ planet:
   escape_velocity: 8.556 km/s<br />(30,801 km/h)
   rotation_period: 2.738 d
   axial_tilt: 0.00°
-  albedo: 0.35
-  temperature: 268 K<br />(-5 °C)
-  surface_pressure: 86 kPa<br />(1 atm)
+  albedo: 0.25
+  temperature: 281 K<br />(8 °C)
+  surface_pressure: 111 kPa<br />(1 atm)
   composition:
-    - 76.3168% nitrogen
+    - 76.2645% nitrogen
     - 22.3000% oxygen
     - 1.3632% argon
-    - 0.0200% carbon dioxide
+    - 0.0724% carbon dioxide
   moons:
     - name: The Grand Bazaar a
       type: Rocky
@@ -49,14 +49,14 @@ planet:
       radius: 623.5 km<br/>(0.098 Yrths)
       surface_area: 4.885 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
       volume: 1.015 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-      mass: 2.564 × 10<sup>21</sup> kg<br />
+      mass: 2.564 × 10<sup>21</sup> kg<br />(0.000 Yrths)
       density: 2.525 g/cm<sup>3</sup>
       surface_gravity: 0.440 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
       escape_velocity: 0.741 km/s<br />(2,667 km/h)
       rotation_period: 54.401 d
       axial_tilt: 9.76°
       albedo: 0.30
-      temperature: 4235 K<br />(3962 °C)
+      temperature: 259 K<br />(-14 °C)
     - name: The Grand Bazaar b
       type: Rocky
       formationType: Impact formed
@@ -69,12 +69,12 @@ planet:
       radius: 1,895.1 km<br/>(0.297 Yrths)
       surface_area: 4.513 × 10<sup>07</sup> km<sup>2</sup><br/>(0.088 Yrths)
       volume: 2.851 × 10<sup>10</sup> km<sup>3</sup><br/>(0.026 Yrths)
-      mass: 6.842 × 10<sup>22</sup> kg<br />
+      mass: 6.842 × 10<sup>22</sup> kg<br />(0.011 Yrths)
       density: 2.400 g/cm<sup>3</sup>
       surface_gravity: 1.270 m/s<sup>2</sup><br />(0.129 g<sub>0</sub>)
       escape_velocity: 2.195 km/s<br />(7,903 km/h)
       rotation_period: 53.477 d
       axial_tilt: 9.86°
       albedo: 0.30
-      temperature: 4038 K<br />(3765 °C)
+      temperature: 259 K<br />(-14 °C)
 ---

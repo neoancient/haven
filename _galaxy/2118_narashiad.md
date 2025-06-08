@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2118 Narashiad is a star in the constellation Naras
+      2118 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 304.16 ly
 apparent_magnitude: 9.63
 absolute_magnitude: 4.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0049 Kulniad A is a star in the constellation Kuln
+      0049 Kulniad A is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 361.01 ly
 apparent_magnitude: 6.30
 absolute_magnitude: 1.08

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0355 Irsaiad A is a star in the constellation Irsa
+      0355 Irsaiad A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 719.75 ly
 apparent_magnitude: 6.15
 absolute_magnitude: -0.57

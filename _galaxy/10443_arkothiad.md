@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10443 Arkothiad is a star in the constellation Arkoth
+      10443 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 284.70 ly
 apparent_magnitude: 7.75
 absolute_magnitude: 3.05
@@ -31,14 +31,14 @@ planets:
     radius: 184.9 km<br/>(0.029 Yrths)
     surface_area: 4.296 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.648 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.250 × 10<sup>26</sup> kg<br />(121.39784323912127 Yrths)
+    mass: 7.250 × 10<sup>26</sup> kg<br />(121.40 Yrths)
     density: 27380927.959 g/cm<sup>3</sup>
     surface_gravity: 1413462.176 m/s<sup>2</sup><br />(144133.030 g<sub>0</sub>)
     escape_velocity: 723.465 km/s<br />(2,604,474 km/h)
     rotation_period: 0.258 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1506 K<br />(1233 °C)
+    temperature: 1436 K<br />(1163 °C)
     composition:
       - 80.4590% hydrogen
       - 18.7288% helium
@@ -56,14 +56,14 @@ planets:
         radius: 132,772.4 km<br/>(20.840 Yrths)
         surface_area: 2.215 × 10<sup>11</sup> km<sup>2</sup><br/>(434.310 Yrths)
         volume: 9.804 × 10<sup>15</sup> km<sup>3</sup><br/>(9051.079 Yrths)
-        mass: 2.227 × 10<sup>28</sup> kg<br />(121.39784323912127 Yrths)
+        mass: 2.227 × 10<sup>28</sup> kg<br />(3729.845 Yrths)
         density: 2.272 g/cm<sup>3</sup>
         surface_gravity: 84.219 m/s<sup>2</sup><br />(8.588 g<sub>0</sub>)
         escape_velocity: 149.647 km/s<br />(538,731 km/h)
         rotation_period: 60.524 d
         axial_tilt: 26.44°
         albedo: 0.30
-        temperature: 1263 K<br />(990 °C)
+        temperature: 362 K<br />(88 °C)
       - name: 10443 Arkothiad I b
         type: Rocky
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 126,819.3 km<br/>(19.906 Yrths)
         surface_area: 2.021 × 10<sup>11</sup> km<sup>2</sup><br/>(396.237 Yrths)
         volume: 8.544 × 10<sup>15</sup> km<sup>3</sup><br/>(7887.381 Yrths)
-        mass: 2.728 × 10<sup>28</sup> kg<br />(121.39784323912127 Yrths)
+        mass: 2.728 × 10<sup>28</sup> kg<br />(4567.343 Yrths)
         density: 3.193 g/cm<sup>3</sup>
         surface_gravity: 113.039 m/s<sup>2</sup><br />(11.527 g<sub>0</sub>)
         escape_velocity: 169.440 km/s<br />(609,985 km/h)
         rotation_period: 39.356 d
         axial_tilt: 14.01°
         albedo: 0.30
-        temperature: 995 K<br />(722 °C)
+        temperature: 362 K<br />(88 °C)
       - name: 10443 Arkothiad I c
         type: Rocky
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 94,063.0 km<br/>(14.764 Yrths)
         surface_area: 1.112 × 10<sup>11</sup> km<sup>2</sup><br/>(217.983 Yrths)
         volume: 3.486 × 10<sup>15</sup> km<sup>3</sup><br/>(3218.355 Yrths)
-        mass: 1.089 × 10<sup>28</sup> kg<br />(121.39784323912127 Yrths)
+        mass: 1.089 × 10<sup>28</sup> kg<br />(1824.130 Yrths)
         density: 3.125 g/cm<sup>3</sup>
         surface_gravity: 82.064 m/s<sup>2</sup><br />(8.368 g<sub>0</sub>)
         escape_velocity: 124.336 km/s<br />(447,609 km/h)
         rotation_period: 35.306 d
         axial_tilt: 19.21°
         albedo: 0.30
-        temperature: 562 K<br />(289 °C)
+        temperature: 362 K<br />(88 °C)
       - name: 10443 Arkothiad I d
         type: Rocky
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 87,920.9 km<br/>(13.800 Yrths)
         surface_area: 9.714 × 10<sup>10</sup> km<sup>2</sup><br/>(190.445 Yrths)
         volume: 2.847 × 10<sup>15</sup> km<sup>3</sup><br/>(2628.171 Yrths)
-        mass: 7.712 × 10<sup>27</sup> kg<br />(121.39784323912127 Yrths)
+        mass: 7.712 × 10<sup>27</sup> kg<br />(1291.384 Yrths)
         density: 2.709 g/cm<sup>3</sup>
         surface_gravity: 66.498 m/s<sup>2</sup><br />(6.781 g<sub>0</sub>)
         escape_velocity: 108.208 km/s<br />(389,549 km/h)
         rotation_period: 41.379 d
         axial_tilt: 18.15°
         albedo: 0.30
-        temperature: 464 K<br />(191 °C)
+        temperature: 362 K<br />(88 °C)
       - name: 10443 Arkothiad I e
         type: Icy
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 114,360.7 km<br/>(17.950 Yrths)
         surface_area: 1.643 × 10<sup>11</sup> km<sup>2</sup><br/>(322.210 Yrths)
         volume: 6.265 × 10<sup>15</sup> km<sup>3</sup><br/>(5783.726 Yrths)
-        mass: 9.392 × 10<sup>27</sup> kg<br />(121.39784323912127 Yrths)
+        mass: 9.392 × 10<sup>27</sup> kg<br />(1572.674 Yrths)
         density: 1.499 g/cm<sup>3</sup>
         surface_gravity: 47.865 m/s<sup>2</sup><br />(4.881 g<sub>0</sub>)
         escape_velocity: 104.703 km/s<br />(376,930 km/h)
         rotation_period: 48.732 d
         axial_tilt: 14.57°
         albedo: 0.30
-        temperature: 402 K<br />(129 °C)
+        temperature: 362 K<br />(88 °C)
   - name: 10443 Arkothiad II
     type: Gas giant
     aphelion: 310,433,116 km<br />2.075 AU
@@ -155,14 +155,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.031 g/cm<sup>3</sup>
     surface_gravity: 31873.844 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 980 K<br />(707 °C)
+    temperature: 931 K<br />(658 °C)
     composition:
       - 69.9965% hydrogen
       - 25.6068% helium
@@ -183,14 +183,14 @@ planets:
         radius: 1,511.9 km<br/>(0.237 Yrths)
         surface_area: 2.873 × 10<sup>07</sup> km<sup>2</sup><br/>(0.056 Yrths)
         volume: 1.448 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 1.525 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.525 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.053 g/cm<sup>3</sup>
         surface_gravity: 0.445 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 1.160 km/s<br />(4,177 km/h)
         rotation_period: 67.099 d
         axial_tilt: 21.51°
         albedo: 0.30
-        temperature: 3706 K<br />(3433 °C)
+        temperature: 268 K<br />(-5 °C)
       - name: 10443 Arkothiad II b
         type: Icy
         formationType: Accreted
@@ -203,14 +203,14 @@ planets:
         radius: 1,332.7 km<br/>(0.209 Yrths)
         surface_area: 2.232 × 10<sup>07</sup> km<sup>2</sup><br/>(0.044 Yrths)
         volume: 9.916 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 6.941 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.941 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.260 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.834 km/s<br />(3,002 km/h)
         rotation_period: 100.946 d
         axial_tilt: 23.12°
         albedo: 0.30
-        temperature: 2921 K<br />(2647 °C)
+        temperature: 268 K<br />(-5 °C)
       - name: 10443 Arkothiad II c
         type: Asteroid
         formationType: Captured
@@ -223,14 +223,14 @@ planets:
         radius: 754.0 km<br/>(0.118 Yrths)
         surface_area: 7.144 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.796 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.749 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.749 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.202 g/cm<sup>3</sup>
         surface_gravity: 0.674 m/s<sup>2</sup><br />(0.069 g<sub>0</sub>)
         escape_velocity: 1.009 km/s<br />(3,632 km/h)
         rotation_period: 30.075 d
         axial_tilt: 51.02°
         albedo: 0.30
-        temperature: 2655 K<br />(2382 °C)
+        temperature: 268 K<br />(-5 °C)
       - name: 10443 Arkothiad II d
         type: Icy
         formationType: Accreted
@@ -243,14 +243,14 @@ planets:
         radius: 1,323.9 km<br/>(0.208 Yrths)
         surface_area: 2.203 × 10<sup>07</sup> km<sup>2</sup><br/>(0.043 Yrths)
         volume: 9.720 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 1.209 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.209 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.244 g/cm<sup>3</sup>
         surface_gravity: 0.460 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 1.104 km/s<br />(3,975 km/h)
         rotation_period: 80.477 d
         axial_tilt: 21.28°
         albedo: 0.30
-        temperature: 2414 K<br />(2141 °C)
+        temperature: 268 K<br />(-5 °C)
       - name: 10443 Arkothiad II e
         type: Icy
         formationType: Accreted
@@ -263,12 +263,12 @@ planets:
         radius: 915.0 km<br/>(0.144 Yrths)
         surface_area: 1.052 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.209 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 5.818 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.818 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.813 g/cm<sup>3</sup>
         surface_gravity: 0.463 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 0.921 km/s<br />(3,317 km/h)
         rotation_period: 73.123 d
         axial_tilt: 19.33°
         albedo: 0.30
-        temperature: 931 K<br />(657 °C)
+        temperature: 268 K<br />(-5 °C)
 ---

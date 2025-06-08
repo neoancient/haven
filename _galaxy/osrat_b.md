@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Osrat B is a star in the constellation Kinan
+      Osrat B is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 424.54 ly
 apparent_magnitude: 4.88
 absolute_magnitude: -0.69

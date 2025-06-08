@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1013 Reggiad A is a star in the constellation Reg
+      1013 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 472.65 ly
 apparent_magnitude: 7.32
 absolute_magnitude: 1.51

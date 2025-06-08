@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1700 Keead is a star in the constellation Kee
+      1700 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 388.29 ly
 apparent_magnitude: 15.19
 absolute_magnitude: 9.81

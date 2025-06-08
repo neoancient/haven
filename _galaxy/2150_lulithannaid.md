@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2150 Lulithannaid is a star in the constellation Lulithan
+      2150 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 414.24 ly
 apparent_magnitude: 10.93
 absolute_magnitude: 5.41

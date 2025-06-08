@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3123 Lunaiad A is a star in the constellation Luna
+      3123 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 473.20 ly
 apparent_magnitude: 7.97
 absolute_magnitude: 2.16

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0017 Shyad is a star in the constellation Shy
+      0017 Shyad is a star in the constellation <a href="shy.html">Shy</a>
 distance: 138.49 ly
 apparent_magnitude: 6.22
 absolute_magnitude: 3.08
@@ -31,14 +31,14 @@ planets:
     radius: 12,803.8 km<br/>(2.010 Yrths)
     surface_area: 2.060 × 10<sup>09</sup> km<sup>2</sup><br/>(4.039 Yrths)
     volume: 8.792 × 10<sup>12</sup> km<sup>3</sup><br/>(8.117 Yrths)
-    mass: 6.197 × 10<sup>25</sup> kg<br />(10.377445417685205 Yrths)
+    mass: 6.197 × 10<sup>25</sup> kg<br />(10.38 Yrths)
     density: 7.049 g/cm<sup>3</sup>
     surface_gravity: 25.197 m/s<sup>2</sup><br />(2.569 g<sub>0</sub>)
     escape_velocity: 25.419 km/s<br />(91,507 km/h)
     rotation_period: 0.670 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 277 K<br />(4 °C)
+    temperature: 349 K<br />(76 °C)
     surface_pressure: 41 kPa<br />(0 atm)
     composition:
       - 80.6232% methane
@@ -56,14 +56,14 @@ planets:
         radius: 8,908.4 km<br/>(1.398 Yrths)
         surface_area: 9.973 × 10<sup>08</sup> km<sup>2</sup><br/>(1.955 Yrths)
         volume: 2.961 × 10<sup>12</sup> km<sup>3</sup><br/>(2.734 Yrths)
-        mass: 2.972 × 10<sup>24</sup> kg<br />(10.377445417685205 Yrths)
+        mass: 2.972 × 10<sup>24</sup> kg<br />(0.498 Yrths)
         density: 1.004 g/cm<sup>3</sup>
         surface_gravity: 2.496 m/s<sup>2</sup><br />(0.255 g<sub>0</sub>)
         escape_velocity: 6.673 km/s<br />(24,024 km/h)
         rotation_period: 78.878 d
         axial_tilt: 10.85°
         albedo: 0.30
-        temperature: 2448 K<br />(2175 °C)
+        temperature: 237 K<br />(-37 °C)
       - name: 0017 Shyad I b
         type: Icy
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 26,283.6 km<br/>(4.126 Yrths)
         surface_area: 8.681 × 10<sup>09</sup> km<sup>2</sup><br/>(17.020 Yrths)
         volume: 7.606 × 10<sup>13</sup> km<sup>3</sup><br/>(70.215 Yrths)
-        mass: 6.425 × 10<sup>25</sup> kg<br />(10.377445417685205 Yrths)
+        mass: 6.425 × 10<sup>25</sup> kg<br />(10.758 Yrths)
         density: 0.845 g/cm<sup>3</sup>
         surface_gravity: 6.199 m/s<sup>2</sup><br />(0.632 g<sub>0</sub>)
         escape_velocity: 18.064 km/s<br />(65,029 km/h)
         rotation_period: 93.515 d
         axial_tilt: 9.34°
         albedo: 0.30
-        temperature: 2334 K<br />(2061 °C)
+        temperature: 237 K<br />(-37 °C)
   - name: 0017 Shyad II
     type: Gas dwarf
     aphelion: 858,007,380 km<br />5.735 AU
@@ -95,14 +95,14 @@ planets:
     radius: 25,529.4 km<br/>(4.007 Yrths)
     surface_area: 8.190 × 10<sup>09</sup> km<sup>2</sup><br/>(16.057 Yrths)
     volume: 6.970 × 10<sup>13</sup> km<sup>3</sup><br/>(64.343 Yrths)
-    mass: 1.548 × 10<sup>26</sup> kg<br />(25.928808213677886 Yrths)
+    mass: 1.548 × 10<sup>26</sup> kg<br />(25.93 Yrths)
     density: 2.222 g/cm<sup>3</sup>
     surface_gravity: 15.836 m/s<sup>2</sup><br />(1.615 g<sub>0</sub>)
     escape_velocity: 28.454 km/s<br />(102,436 km/h)
     rotation_period: 0.375 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 217 K<br />(-56 °C)
+    temperature: 191 K<br />(-82 °C)
     composition:
       - 81.1972% hydrogen
       - 15.7608% helium
@@ -120,14 +120,14 @@ planets:
         radius: 22,653.8 km<br/>(3.556 Yrths)
         surface_area: 6.449 × 10<sup>09</sup> km<sup>2</sup><br/>(12.643 Yrths)
         volume: 4.870 × 10<sup>13</sup> km<sup>3</sup><br/>(44.957 Yrths)
-        mass: 1.556 × 10<sup>26</sup> kg<br />(25.928808213677886 Yrths)
+        mass: 1.556 × 10<sup>26</sup> kg<br />(26.051 Yrths)
         density: 3.195 g/cm<sup>3</sup>
         surface_gravity: 20.206 m/s<sup>2</sup><br />(2.060 g<sub>0</sub>)
         escape_velocity: 30.278 km/s<br />(108,999 km/h)
         rotation_period: 33.347 d
         axial_tilt: 40.48°
         albedo: 0.30
-        temperature: 1406 K<br />(1133 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0017 Shyad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -140,14 +140,14 @@ planets:
         radius: 14,123.8 km<br/>(2.217 Yrths)
         surface_area: 2.507 × 10<sup>09</sup> km<sup>2</sup><br/>(4.915 Yrths)
         volume: 1.180 × 10<sup>13</sup> km<sup>3</sup><br/>(10.895 Yrths)
-        mass: 2.261 × 10<sup>25</sup> kg<br />(25.928808213677886 Yrths)
+        mass: 2.261 × 10<sup>25</sup> kg<br />(3.786 Yrths)
         density: 1.916 g/cm<sup>3</sup>
         surface_gravity: 7.555 m/s<sup>2</sup><br />(0.770 g<sub>0</sub>)
         escape_velocity: 14.619 km/s<br />(52,628 km/h)
         rotation_period: 45.994 d
         axial_tilt: 14.93°
         albedo: 0.30
-        temperature: 1340 K<br />(1067 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0017 Shyad II c
         type: Icy
         formationType: Impact formed
@@ -160,14 +160,14 @@ planets:
         radius: 32,193.9 km<br/>(5.053 Yrths)
         surface_area: 1.302 × 10<sup>10</sup> km<sup>2</sup><br/>(25.535 Yrths)
         volume: 1.398 × 10<sup>14</sup> km<sup>3</sup><br/>(129.032 Yrths)
-        mass: 1.339 × 10<sup>26</sup> kg<br />(25.928808213677886 Yrths)
+        mass: 1.339 × 10<sup>26</sup> kg<br />(22.424 Yrths)
         density: 0.958 g/cm<sup>3</sup>
         surface_gravity: 8.612 m/s<sup>2</sup><br />(0.878 g<sub>0</sub>)
         escape_velocity: 23.564 km/s<br />(84,831 km/h)
         rotation_period: 96.952 d
         axial_tilt: 20.73°
         albedo: 0.30
-        temperature: 1278 K<br />(1005 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0017 Shyad II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -180,14 +180,14 @@ planets:
         radius: 21,680.8 km<br/>(3.403 Yrths)
         surface_area: 5.907 × 10<sup>09</sup> km<sup>2</sup><br/>(11.581 Yrths)
         volume: 4.269 × 10<sup>13</sup> km<sup>3</sup><br/>(39.409 Yrths)
-        mass: 9.163 × 10<sup>25</sup> kg<br />(25.928808213677886 Yrths)
+        mass: 9.163 × 10<sup>25</sup> kg<br />(15.343 Yrths)
         density: 2.146 g/cm<sup>3</sup>
         surface_gravity: 12.992 m/s<sup>2</sup><br />(1.325 g<sub>0</sub>)
         escape_velocity: 23.751 km/s<br />(85,505 km/h)
         rotation_period: 42.255 d
         axial_tilt: 27.55°
         albedo: 0.30
-        temperature: 1219 K<br />(945 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0017 Shyad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -200,12 +200,12 @@ planets:
         radius: 10,250.1 km<br/>(1.609 Yrths)
         surface_area: 1.320 × 10<sup>09</sup> km<sup>2</sup><br/>(2.588 Yrths)
         volume: 4.511 × 10<sup>12</sup> km<sup>3</sup><br/>(4.164 Yrths)
-        mass: 9.986 × 10<sup>24</sup> kg<br />(25.928808213677886 Yrths)
+        mass: 9.986 × 10<sup>24</sup> kg<br />(1.672 Yrths)
         density: 2.214 g/cm<sup>3</sup>
         surface_gravity: 6.335 m/s<sup>2</sup><br />(0.646 g<sub>0</sub>)
         escape_velocity: 11.404 km/s<br />(41,053 km/h)
         rotation_period: 38.933 d
         axial_tilt: 10.69°
         albedo: 0.30
-        temperature: 1162 K<br />(889 °C)
+        temperature: 165 K<br />(-108 °C)
 ---

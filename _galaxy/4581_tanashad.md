@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4581 Tanashad is a star in the constellation Tanas
+      4581 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 254.21 ly
 apparent_magnitude: 9.02
 absolute_magnitude: 4.56

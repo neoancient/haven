@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      263 Morrishothiad is a star in the constellation Morrishoth
+      263 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 368.46 ly
 apparent_magnitude: 10.60
 absolute_magnitude: 5.34

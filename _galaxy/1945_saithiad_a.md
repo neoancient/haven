@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1945 Saithiad A is a star in the constellation Saith
+      1945 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 260.19 ly
 apparent_magnitude: 7.09
 absolute_magnitude: 2.58

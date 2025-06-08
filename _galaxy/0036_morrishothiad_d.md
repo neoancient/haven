@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0036 Morrishothiad D is a star in the constellation Morrishoth
+      0036 Morrishothiad D is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 8204.55 ly
 apparent_magnitude: 9.16
 absolute_magnitude: -2.84

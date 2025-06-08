@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6884 Tanashad A is a star in the constellation Tanas
+      6884 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 151.11 ly
 apparent_magnitude: 7.83
 absolute_magnitude: 4.50

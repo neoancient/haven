@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      187 Orshenniad is a star in the constellation Orshen
+      187 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 1148.22 ly
 apparent_magnitude: 11.84
 absolute_magnitude: 4.11

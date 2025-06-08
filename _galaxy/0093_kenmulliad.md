@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0093 Kenmulliad is a star in the constellation Kenmul
+      0093 Kenmulliad is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 76.46 ly
 apparent_magnitude: 6.13
 absolute_magnitude: 4.28
@@ -31,14 +31,14 @@ planets:
     radius: 9,605.7 km<br/>(1.508 Yrths)
     surface_area: 1.159 × 10<sup>09</sup> km<sup>2</sup><br/>(2.273 Yrths)
     volume: 3.713 × 10<sup>12</sup> km<sup>3</sup><br/>(3.427 Yrths)
-    mass: 2.907 × 10<sup>25</sup> kg<br />(4.867818083176615 Yrths)
+    mass: 2.907 × 10<sup>25</sup> kg<br />(4.87 Yrths)
     density: 7.830 g/cm<sup>3</sup>
     surface_gravity: 21.000 m/s<sup>2</sup><br />(2.141 g<sub>0</sub>)
     escape_velocity: 20.099 km/s<br />(72,358 km/h)
     rotation_period: 1.113 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 297 K<br />(24 °C)
+    temperature: 389 K<br />(115 °C)
     surface_pressure: 52 kPa<br />(1 atm)
     composition:
       - 86.7064% ammonia
@@ -60,14 +60,14 @@ planets:
         radius: 6,022.2 km<br/>(0.945 Yrths)
         surface_area: 4.557 × 10<sup>08</sup> km<sup>2</sup><br/>(0.893 Yrths)
         volume: 9.149 × 10<sup>11</sup> km<sup>3</sup><br/>(0.845 Yrths)
-        mass: 2.562 × 10<sup>24</sup> kg<br />(4.867818083176615 Yrths)
+        mass: 2.562 × 10<sup>24</sup> kg<br />(0.429 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 4.708 m/s<sup>2</sup><br />(0.480 g<sub>0</sub>)
         escape_velocity: 7.535 km/s<br />(27,127 km/h)
         rotation_period: 39.253 d
         axial_tilt: 16.40°
         albedo: 0.30
-        temperature: 2911 K<br />(2638 °C)
+        temperature: 249 K<br />(-25 °C)
       - name: 0093 Kenmulliad I b
         type: Rocky
         formationType: Captured
@@ -80,14 +80,14 @@ planets:
         radius: 4,761.2 km<br/>(0.747 Yrths)
         surface_area: 2.849 × 10<sup>08</sup> km<sup>2</sup><br/>(0.558 Yrths)
         volume: 4.521 × 10<sup>11</sup> km<sup>3</sup><br/>(0.417 Yrths)
-        mass: 1.385 × 10<sup>24</sup> kg<br />(4.867818083176615 Yrths)
+        mass: 1.385 × 10<sup>24</sup> kg<br />(0.232 Yrths)
         density: 3.063 g/cm<sup>3</sup>
         surface_gravity: 4.071 m/s<sup>2</sup><br />(0.415 g<sub>0</sub>)
         escape_velocity: 6.231 km/s<br />(22,430 km/h)
         rotation_period: 37.743 d
         axial_tilt: 22.08°
         albedo: 0.30
-        temperature: 2775 K<br />(2502 °C)
+        temperature: 249 K<br />(-25 °C)
       - name: 0093 Kenmulliad I c
         type: Rocky
         formationType: Captured
@@ -100,14 +100,14 @@ planets:
         radius: 6,505.1 km<br/>(1.021 Yrths)
         surface_area: 5.318 × 10<sup>08</sup> km<sup>2</sup><br/>(1.043 Yrths)
         volume: 1.153 × 10<sup>12</sup> km<sup>3</sup><br/>(1.065 Yrths)
-        mass: 4.151 × 10<sup>24</sup> kg<br />(4.867818083176615 Yrths)
+        mass: 4.151 × 10<sup>24</sup> kg<br />(0.695 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 6.538 m/s<sup>2</sup><br />(0.667 g<sub>0</sub>)
         escape_velocity: 9.229 km/s<br />(33,226 km/h)
         rotation_period: 42.546 d
         axial_tilt: 9.83°
         albedo: 0.30
-        temperature: 2646 K<br />(2373 °C)
+        temperature: 249 K<br />(-25 °C)
       - name: 0093 Kenmulliad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -120,14 +120,14 @@ planets:
         radius: 7,698.1 km<br/>(1.208 Yrths)
         surface_area: 7.447 × 10<sup>08</sup> km<sup>2</sup><br/>(1.460 Yrths)
         volume: 1.911 × 10<sup>12</sup> km<sup>3</sup><br/>(1.764 Yrths)
-        mass: 5.215 × 10<sup>24</sup> kg<br />(4.867818083176615 Yrths)
+        mass: 5.215 × 10<sup>24</sup> kg<br />(0.873 Yrths)
         density: 2.729 g/cm<sup>3</sup>
         surface_gravity: 5.865 m/s<sup>2</sup><br />(0.598 g<sub>0</sub>)
         escape_velocity: 9.509 km/s<br />(34,233 km/h)
         rotation_period: 33.214 d
         axial_tilt: 23.62°
         albedo: 0.30
-        temperature: 2523 K<br />(2250 °C)
+        temperature: 249 K<br />(-25 °C)
   - name: 0093 Kenmulliad II
     type: Ice giant
     aphelion: 434,467,635 km<br />2.904 AU
@@ -139,14 +139,14 @@ planets:
     radius: 17,001.9 km<br/>(2.669 Yrths)
     surface_area: 3.632 × 10<sup>09</sup> km<sup>2</sup><br/>(7.122 Yrths)
     volume: 2.059 × 10<sup>13</sup> km<sup>3</sup><br/>(19.005 Yrths)
-    mass: 2.539 × 10<sup>25</sup> kg<br />(4.2511363742543855 Yrths)
+    mass: 2.539 × 10<sup>25</sup> kg<br />(4.25 Yrths)
     density: 1.233 g/cm<sup>3</sup>
     surface_gravity: 5.854 m/s<sup>2</sup><br />(0.597 g<sub>0</sub>)
     escape_velocity: 14.118 km/s<br />(50,826 km/h)
     rotation_period: 0.733 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 322 K<br />(49 °C)
+    temperature: 291 K<br />(18 °C)
     composition:
       - 46.5590% hydrogen
       - 46.3846% helium
@@ -166,14 +166,14 @@ planets:
         radius: 11,655.8 km<br/>(1.830 Yrths)
         surface_area: 1.707 × 10<sup>09</sup> km<sup>2</sup><br/>(3.347 Yrths)
         volume: 6.633 × 10<sup>12</sup> km<sup>3</sup><br/>(6.124 Yrths)
-        mass: 1.118 × 10<sup>25</sup> kg<br />(4.2511363742543855 Yrths)
+        mass: 1.118 × 10<sup>25</sup> kg<br />(1.872 Yrths)
         density: 1.685 g/cm<sup>3</sup>
         surface_gravity: 5.484 m/s<sup>2</sup><br />(0.559 g<sub>0</sub>)
         escape_velocity: 11.314 km/s<br />(40,732 km/h)
         rotation_period: 46.692 d
         axial_tilt: 23.05°
         albedo: 0.30
-        temperature: 2012 K<br />(1739 °C)
+        temperature: 176 K<br />(-97 °C)
       - name: 0093 Kenmulliad II b
         type: Icy
         formationType: Accreted
@@ -186,14 +186,14 @@ planets:
         radius: 7,905.2 km<br/>(1.241 Yrths)
         surface_area: 7.853 × 10<sup>08</sup> km<sup>2</sup><br/>(1.540 Yrths)
         volume: 2.069 × 10<sup>12</sup> km<sup>3</sup><br/>(1.910 Yrths)
-        mass: 3.174 × 10<sup>24</sup> kg<br />(4.2511363742543855 Yrths)
+        mass: 3.174 × 10<sup>24</sup> kg<br />(0.532 Yrths)
         density: 1.534 g/cm<sup>3</sup>
         surface_gravity: 3.386 m/s<sup>2</sup><br />(0.345 g<sub>0</sub>)
         escape_velocity: 7.321 km/s<br />(26,357 km/h)
         rotation_period: 47.706 d
         axial_tilt: 21.93°
         albedo: 0.30
-        temperature: 1918 K<br />(1645 °C)
+        temperature: 176 K<br />(-97 °C)
       - name: 0093 Kenmulliad II c
         type: Icy
         formationType: Accreted
@@ -206,14 +206,14 @@ planets:
         radius: 16,866.6 km<br/>(2.647 Yrths)
         surface_area: 3.575 × 10<sup>09</sup> km<sup>2</sup><br/>(7.009 Yrths)
         volume: 2.010 × 10<sup>13</sup> km<sup>3</sup><br/>(18.555 Yrths)
-        mass: 2.756 × 10<sup>25</sup> kg<br />(4.2511363742543855 Yrths)
+        mass: 2.756 × 10<sup>25</sup> kg<br />(4.615 Yrths)
         density: 1.371 g/cm<sup>3</sup>
         surface_gravity: 6.457 m/s<sup>2</sup><br />(0.658 g<sub>0</sub>)
         escape_velocity: 14.769 km/s<br />(53,167 km/h)
         rotation_period: 66.750 d
         axial_tilt: 11.41°
         albedo: 0.30
-        temperature: 1829 K<br />(1556 °C)
+        temperature: 176 K<br />(-97 °C)
       - name: 0093 Kenmulliad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -226,14 +226,14 @@ planets:
         radius: 7,423.8 km<br/>(1.165 Yrths)
         surface_area: 6.926 × 10<sup>08</sup> km<sup>2</sup><br/>(1.358 Yrths)
         volume: 1.714 × 10<sup>12</sup> km<sup>3</sup><br/>(1.582 Yrths)
-        mass: 3.704 × 10<sup>24</sup> kg<br />(4.2511363742543855 Yrths)
+        mass: 3.704 × 10<sup>24</sup> kg<br />(0.620 Yrths)
         density: 2.161 g/cm<sup>3</sup>
         surface_gravity: 4.479 m/s<sup>2</sup><br />(0.457 g<sub>0</sub>)
         escape_velocity: 8.161 km/s<br />(29,378 km/h)
         rotation_period: 50.410 d
         axial_tilt: 22.23°
         albedo: 0.30
-        temperature: 1744 K<br />(1471 °C)
+        temperature: 176 K<br />(-97 °C)
       - name: 0093 Kenmulliad II e
         type: Dwarf planet
         formationType: Captured
@@ -246,14 +246,14 @@ planets:
         radius: 5,375.7 km<br/>(0.844 Yrths)
         surface_area: 3.631 × 10<sup>08</sup> km<sup>2</sup><br/>(0.712 Yrths)
         volume: 6.507 × 10<sup>11</sup> km<sup>3</sup><br/>(0.601 Yrths)
-        mass: 1.822 × 10<sup>24</sup> kg<br />(4.2511363742543855 Yrths)
+        mass: 1.822 × 10<sup>24</sup> kg<br />(0.305 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 4.202 m/s<sup>2</sup><br />(0.429 g<sub>0</sub>)
         escape_velocity: 6.726 km/s<br />(24,215 km/h)
         rotation_period: 30.715 d
         axial_tilt: 9.11°
         albedo: 0.30
-        temperature: 1663 K<br />(1390 °C)
+        temperature: 176 K<br />(-97 °C)
       - name: 0093 Kenmulliad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -266,14 +266,14 @@ planets:
         radius: 7,106.8 km<br/>(1.115 Yrths)
         surface_area: 6.347 × 10<sup>08</sup> km<sup>2</sup><br/>(1.244 Yrths)
         volume: 1.504 × 10<sup>12</sup> km<sup>3</sup><br/>(1.388 Yrths)
-        mass: 3.056 × 10<sup>24</sup> kg<br />(4.2511363742543855 Yrths)
+        mass: 3.056 × 10<sup>24</sup> kg<br />(0.512 Yrths)
         density: 2.033 g/cm<sup>3</sup>
         surface_gravity: 4.034 m/s<sup>2</sup><br />(0.411 g<sub>0</sub>)
         escape_velocity: 7.577 km/s<br />(27,277 km/h)
         rotation_period: 38.761 d
         axial_tilt: 16.67°
         albedo: 0.30
-        temperature: 1585 K<br />(1312 °C)
+        temperature: 176 K<br />(-97 °C)
       - name: 0093 Kenmulliad II g
         type: Icy
         formationType: Impact formed
@@ -286,14 +286,14 @@ planets:
         radius: 7,668.3 km<br/>(1.204 Yrths)
         surface_area: 7.389 × 10<sup>08</sup> km<sup>2</sup><br/>(1.449 Yrths)
         volume: 1.889 × 10<sup>12</sup> km<sup>3</sup><br/>(1.744 Yrths)
-        mass: 2.317 × 10<sup>24</sup> kg<br />(4.2511363742543855 Yrths)
+        mass: 2.317 × 10<sup>24</sup> kg<br />(0.388 Yrths)
         density: 1.227 g/cm<sup>3</sup>
         surface_gravity: 2.626 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
         escape_velocity: 6.351 km/s<br />(22,862 km/h)
         rotation_period: 88.303 d
         axial_tilt: 18.71°
         albedo: 0.30
-        temperature: 1512 K<br />(1238 °C)
+        temperature: 176 K<br />(-97 °C)
       - name: 0093 Kenmulliad II h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -306,14 +306,14 @@ planets:
         radius: 6,747.9 km<br/>(1.059 Yrths)
         surface_area: 5.722 × 10<sup>08</sup> km<sup>2</sup><br/>(1.122 Yrths)
         volume: 1.287 × 10<sup>12</sup> km<sup>3</sup><br/>(1.188 Yrths)
-        mass: 2.697 × 10<sup>24</sup> kg<br />(4.2511363742543855 Yrths)
+        mass: 2.697 × 10<sup>24</sup> kg<br />(0.452 Yrths)
         density: 2.096 g/cm<sup>3</sup>
         surface_gravity: 3.948 m/s<sup>2</sup><br />(0.403 g<sub>0</sub>)
         escape_velocity: 7.305 km/s<br />(26,297 km/h)
         rotation_period: 61.978 d
         axial_tilt: 18.94°
         albedo: 0.30
-        temperature: 1441 K<br />(1168 °C)
+        temperature: 176 K<br />(-97 °C)
   - name: 0093 Kenmulliad III
     type: Ice giant
     aphelion: 863,966,827 km<br />5.775 AU
@@ -325,14 +325,14 @@ planets:
     radius: 26,167.4 km<br/>(4.107 Yrths)
     surface_area: 8.605 × 10<sup>09</sup> km<sup>2</sup><br/>(16.870 Yrths)
     volume: 7.505 × 10<sup>13</sup> km<sup>3</sup><br/>(69.288 Yrths)
-    mass: 1.042 × 10<sup>26</sup> kg<br />(17.446656143563406 Yrths)
+    mass: 1.042 × 10<sup>26</sup> kg<br />(17.45 Yrths)
     density: 1.388 g/cm<sup>3</sup>
     surface_gravity: 10.142 m/s<sup>2</sup><br />(1.034 g<sub>0</sub>)
     escape_velocity: 23.054 km/s<br />(82,996 km/h)
     rotation_period: 0.462 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 216 K<br />(-57 °C)
+    temperature: 193 K<br />(-80 °C)
     composition:
       - 79.4657% hydrogen
       - 20.5343% helium
@@ -349,14 +349,14 @@ planets:
         radius: 8,277.8 km<br/>(1.299 Yrths)
         surface_area: 8.611 × 10<sup>08</sup> km<sup>2</sup><br/>(1.688 Yrths)
         volume: 2.376 × 10<sup>12</sup> km<sup>3</sup><br/>(2.193 Yrths)
-        mass: 2.840 × 10<sup>24</sup> kg<br />(17.446656143563406 Yrths)
+        mass: 2.840 × 10<sup>24</sup> kg<br />(0.476 Yrths)
         density: 1.195 g/cm<sup>3</sup>
         surface_gravity: 2.762 m/s<sup>2</sup><br />(0.282 g<sub>0</sub>)
         escape_velocity: 6.767 km/s<br />(24,362 km/h)
         rotation_period: 70.527 d
         axial_tilt: 21.60°
         albedo: 0.30
-        temperature: 1127 K<br />(854 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 0093 Kenmulliad III b
         type: Icy
         formationType: Accreted
@@ -369,14 +369,14 @@ planets:
         radius: 25,072.2 km<br/>(3.935 Yrths)
         surface_area: 7.899 × 10<sup>09</sup> km<sup>2</sup><br/>(15.487 Yrths)
         volume: 6.602 × 10<sup>13</sup> km<sup>3</sup><br/>(60.947 Yrths)
-        mass: 6.546 × 10<sup>25</sup> kg<br />(17.446656143563406 Yrths)
+        mass: 6.546 × 10<sup>25</sup> kg<br />(10.961 Yrths)
         density: 0.992 g/cm<sup>3</sup>
         surface_gravity: 6.941 m/s<sup>2</sup><br />(0.708 g<sub>0</sub>)
         escape_velocity: 18.669 km/s<br />(67,207 km/h)
         rotation_period: 79.666 d
         axial_tilt: 20.42°
         albedo: 0.30
-        temperature: 1074 K<br />(801 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 0093 Kenmulliad III c
         type: Dwarf planet
         formationType: Accreted
@@ -389,14 +389,14 @@ planets:
         radius: 18,739.5 km<br/>(2.941 Yrths)
         surface_area: 4.413 × 10<sup>09</sup> km<sup>2</sup><br/>(8.652 Yrths)
         volume: 2.757 × 10<sup>13</sup> km<sup>3</sup><br/>(25.448 Yrths)
-        mass: 3.957 × 10<sup>25</sup> kg<br />(17.446656143563406 Yrths)
+        mass: 3.957 × 10<sup>25</sup> kg<br />(6.627 Yrths)
         density: 1.436 g/cm<sup>3</sup>
         surface_gravity: 7.511 m/s<sup>2</sup><br />(0.766 g<sub>0</sub>)
         escape_velocity: 16.790 km/s<br />(60,443 km/h)
         rotation_period: 41.464 d
         axial_tilt: 20.77°
         albedo: 0.30
-        temperature: 1024 K<br />(751 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 0093 Kenmulliad III d
         type: Dwarf planet
         formationType: Captured
@@ -409,14 +409,14 @@ planets:
         radius: 26,062.7 km<br/>(4.091 Yrths)
         surface_area: 8.536 × 10<sup>09</sup> km<sup>2</sup><br/>(16.735 Yrths)
         volume: 7.416 × 10<sup>13</sup> km<sup>3</sup><br/>(68.460 Yrths)
-        mass: 1.668 × 10<sup>26</sup> kg<br />(17.446656143563406 Yrths)
+        mass: 1.668 × 10<sup>26</sup> kg<br />(27.923 Yrths)
         density: 2.249 g/cm<sup>3</sup>
         surface_gravity: 16.363 m/s<sup>2</sup><br />(1.669 g<sub>0</sub>)
         escape_velocity: 29.224 km/s<br />(105,208 km/h)
         rotation_period: 43.022 d
         axial_tilt: 16.04°
         albedo: 0.30
-        temperature: 977 K<br />(704 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 0093 Kenmulliad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -429,14 +429,14 @@ planets:
         radius: 16,991.1 km<br/>(2.667 Yrths)
         surface_area: 3.628 × 10<sup>09</sup> km<sup>2</sup><br/>(7.113 Yrths)
         volume: 2.055 × 10<sup>13</sup> km<sup>3</sup><br/>(18.969 Yrths)
-        mass: 4.684 × 10<sup>25</sup> kg<br />(17.446656143563406 Yrths)
+        mass: 4.684 × 10<sup>25</sup> kg<br />(7.844 Yrths)
         density: 2.280 g/cm<sup>3</sup>
         surface_gravity: 10.815 m/s<sup>2</sup><br />(1.103 g<sub>0</sub>)
         escape_velocity: 19.184 km/s<br />(69,062 km/h)
         rotation_period: 62.673 d
         axial_tilt: 7.89°
         albedo: 0.30
-        temperature: 931 K<br />(658 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 0093 Kenmulliad III f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -449,14 +449,14 @@ planets:
         radius: 8,768.7 km<br/>(1.376 Yrths)
         surface_area: 9.662 × 10<sup>08</sup> km<sup>2</sup><br/>(1.894 Yrths)
         volume: 2.824 × 10<sup>12</sup> km<sup>3</sup><br/>(2.607 Yrths)
-        mass: 7.055 × 10<sup>24</sup> kg<br />(17.446656143563406 Yrths)
+        mass: 7.055 × 10<sup>24</sup> kg<br />(1.181 Yrths)
         density: 2.498 g/cm<sup>3</sup>
         surface_gravity: 6.116 m/s<sup>2</sup><br />(0.624 g<sub>0</sub>)
         escape_velocity: 10.363 km/s<br />(37,308 km/h)
         rotation_period: 46.553 d
         axial_tilt: 17.06°
         albedo: 0.30
-        temperature: 888 K<br />(615 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 0093 Kenmulliad III g
         type: Icy
         formationType: Impact formed
@@ -469,14 +469,14 @@ planets:
         radius: 21,386.4 km<br/>(3.357 Yrths)
         surface_area: 5.748 × 10<sup>09</sup> km<sup>2</sup><br/>(11.268 Yrths)
         volume: 4.097 × 10<sup>13</sup> km<sup>3</sup><br/>(37.826 Yrths)
-        mass: 5.090 × 10<sup>25</sup> kg<br />(17.446656143563406 Yrths)
+        mass: 5.090 × 10<sup>25</sup> kg<br />(8.523 Yrths)
         density: 1.242 g/cm<sup>3</sup>
         surface_gravity: 7.417 m/s<sup>2</sup><br />(0.756 g<sub>0</sub>)
         escape_velocity: 17.823 km/s<br />(64,165 km/h)
         rotation_period: 77.895 d
         axial_tilt: 13.87°
         albedo: 0.30
-        temperature: 807 K<br />(534 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 0093 Kenmulliad III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -489,12 +489,12 @@ planets:
         radius: 28,614.5 km<br/>(4.491 Yrths)
         surface_area: 1.029 × 10<sup>10</sup> km<sup>2</sup><br/>(20.172 Yrths)
         volume: 9.814 × 10<sup>13</sup> km<sup>3</sup><br/>(90.601 Yrths)
-        mass: 2.053 × 10<sup>26</sup> kg<br />(17.446656143563406 Yrths)
+        mass: 2.053 × 10<sup>26</sup> kg<br />(34.381 Yrths)
         density: 2.092 g/cm<sup>3</sup>
         surface_gravity: 16.714 m/s<sup>2</sup><br />(1.704 g<sub>0</sub>)
         escape_velocity: 30.949 km/s<br />(111,415 km/h)
         rotation_period: 38.787 d
         axial_tilt: 30.26°
         albedo: 0.30
-        temperature: 770 K<br />(497 °C)
+        temperature: 125 K<br />(-148 °C)
 ---

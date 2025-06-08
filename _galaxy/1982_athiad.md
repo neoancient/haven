@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1982 Athiad is a star in the constellation Ath
+      1982 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 212.64 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 5.37

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      738 Saithiad is a star in the constellation Saith
+      738 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1120.70 ly
 apparent_magnitude: 11.30
 absolute_magnitude: 3.61

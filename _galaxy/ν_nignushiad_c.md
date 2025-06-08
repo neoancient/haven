@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Nignushiad C is a star in the constellation Nignus
+      ν Nignushiad C is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 730.44 ly
 apparent_magnitude: 12.66
 absolute_magnitude: 5.91
@@ -31,7 +31,7 @@ planets:
     radius: 7,425.7 km<br/>(1.166 Yrths)
     surface_area: 6.929 × 10<sup>08</sup> km<sup>2</sup><br/>(1.359 Yrths)
     volume: 1.715 × 10<sup>12</sup> km<sup>3</sup><br/>(1.583 Yrths)
-    mass: 9.327 × 10<sup>24</sup> kg<br />(1.5617690437654597 Yrths)
+    mass: 9.327 × 10<sup>24</sup> kg<br />(1.56 Yrths)
     density: 5.438 g/cm<sup>3</sup>
     surface_gravity: 11.274 m/s<sup>2</sup><br />(1.150 g<sub>0</sub>)
     escape_velocity: 12.948 km/s<br />(46,614 km/h)
@@ -52,12 +52,12 @@ planets:
         radius: 5,108.5 km<br/>(0.802 Yrths)
         surface_area: 3.279 × 10<sup>08</sup> km<sup>2</sup><br/>(0.643 Yrths)
         volume: 5.584 × 10<sup>11</sup> km<sup>3</sup><br/>(0.516 Yrths)
-        mass: 8.067 × 10<sup>23</sup> kg<br />(1.5617690437654597 Yrths)
+        mass: 8.067 × 10<sup>23</sup> kg<br />(0.135 Yrths)
         density: 1.445 g/cm<sup>3</sup>
         surface_gravity: 2.060 m/s<sup>2</sup><br />(0.210 g<sub>0</sub>)
         escape_velocity: 4.591 km/s<br />(16,528 km/h)
         rotation_period: 46.072 d
         axial_tilt: 15.28°
         albedo: 0.30
-        temperature: 3303 K<br />(3030 °C)
+        temperature: 246 K<br />(-27 °C)
 ---

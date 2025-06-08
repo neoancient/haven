@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Nethiaiad D is a star in the constellation Nethiai
+      θ Nethiaiad D is a star in the constellation <a href="nethiai.html">Nethiai</a>
 distance: 357.10 ly
 apparent_magnitude: 15.49
 absolute_magnitude: 10.29

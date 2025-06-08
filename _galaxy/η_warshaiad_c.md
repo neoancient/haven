@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      η Warshaiad C is a star in the constellation Warsha
+      η Warshaiad C is a star in the constellation <a href="warsha.html">Warsha</a>
 distance: 659.22 ly
 apparent_magnitude: 12.59
 absolute_magnitude: 6.06
@@ -31,7 +31,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.642 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 727.3 km<br/>(0.114 Yrths)
         surface_area: 6.646 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.611 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.205 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.205 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.369 g/cm<sup>3</sup>
         surface_gravity: 0.278 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.636 km/s<br />(2,290 km/h)
         rotation_period: 53.325 d
         axial_tilt: 12.29°
         albedo: 0.30
-        temperature: 3415 K<br />(3142 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: η Warshaiad C I b
         type: Icy
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 698.3 km<br/>(0.110 Yrths)
         surface_area: 6.127 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.426 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.661 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.661 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.866 g/cm<sup>3</sup>
         surface_gravity: 0.364 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.713 km/s<br />(2,568 km/h)
         rotation_period: 58.802 d
         axial_tilt: 21.52°
         albedo: 0.30
-        temperature: 1671 K<br />(1398 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: η Warshaiad C I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 703.7 km<br/>(0.110 Yrths)
         surface_area: 6.222 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.459 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.315 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.315 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.271 g/cm<sup>3</sup>
         surface_gravity: 0.446 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.793 km/s<br />(2,855 km/h)
         rotation_period: 36.092 d
         axial_tilt: 22.44°
         albedo: 0.30
-        temperature: 743 K<br />(470 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: η Warshaiad C I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 738.0 km<br/>(0.116 Yrths)
         surface_area: 6.844 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.684 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.381 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.381 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.414 g/cm<sup>3</sup>
         surface_gravity: 0.291 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.656 km/s<br />(2,363 km/h)
         rotation_period: 49.490 d
         axial_tilt: 10.19°
         albedo: 0.30
-        temperature: 676 K<br />(403 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: η Warshaiad C I e
         type: Icy
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 1,076.4 km<br/>(0.169 Yrths)
         surface_area: 1.456 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.224 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 3.657 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.657 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.210 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.673 km/s<br />(2,424 km/h)
         rotation_period: 114.272 d
         axial_tilt: 14.58°
         albedo: 0.30
-        temperature: 614 K<br />(341 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: η Warshaiad C I f
         type: Icy
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 719.7 km<br/>(0.113 Yrths)
         surface_area: 6.508 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.561 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.099 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.099 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.345 g/cm<sup>3</sup>
         surface_gravity: 0.270 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.624 km/s<br />(2,247 km/h)
         rotation_period: 66.201 d
         axial_tilt: 23.54°
         albedo: 0.30
-        temperature: 381 K<br />(108 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: η Warshaiad C I g
         type: Icy
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 910.3 km<br/>(0.143 Yrths)
         surface_area: 1.041 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.160 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.605 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.605 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.141 g/cm<sup>3</sup>
         surface_gravity: 0.290 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.727 km/s<br />(2,617 km/h)
         rotation_period: 75.667 d
         axial_tilt: 16.37°
         albedo: 0.30
-        temperature: 331 K<br />(57 °C)
+        temperature: 250 K<br />(-23 °C)
   - name: η Warshaiad C II
     type: Large terrestrial
     aphelion: 280,903,227 km<br />1.878 AU
@@ -191,15 +191,15 @@ planets:
     radius: 9,241.1 km<br/>(1.450 Yrths)
     surface_area: 1.073 × 10<sup>09</sup> km<sup>2</sup><br/>(2.104 Yrths)
     volume: 3.306 × 10<sup>12</sup> km<sup>3</sup><br/>(3.052 Yrths)
-    mass: 2.393 × 10<sup>25</sup> kg<br />(4.007052537820607 Yrths)
+    mass: 2.393 × 10<sup>25</sup> kg<br />(4.01 Yrths)
     density: 7.239 g/cm<sup>3</sup>
     surface_gravity: 18.677 m/s<sup>2</sup><br />(1.905 g<sub>0</sub>)
     escape_velocity: 18.592 km/s<br />(66,931 km/h)
     rotation_period: 1.009 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 242 K<br />(-31 °C)
-    surface_pressure: 151 kPa<br />(1 atm)
+    temperature: 283 K<br />(9 °C)
+    surface_pressure: 151 kPa<br />(2 atm)
     composition:
       - 78.3252% nitrogen
       - 11.4199% carbon dioxide
@@ -218,14 +218,14 @@ planets:
         radius: 8,696.7 km<br/>(1.365 Yrths)
         surface_area: 9.504 × 10<sup>08</sup> km<sup>2</sup><br/>(1.863 Yrths)
         volume: 2.755 × 10<sup>12</sup> km<sup>3</sup><br/>(2.544 Yrths)
-        mass: 5.432 × 10<sup>24</sup> kg<br />(4.007052537820607 Yrths)
+        mass: 5.432 × 10<sup>24</sup> kg<br />(0.910 Yrths)
         density: 1.972 g/cm<sup>3</sup>
         surface_gravity: 4.787 m/s<sup>2</sup><br />(0.488 g<sub>0</sub>)
         escape_velocity: 9.131 km/s<br />(32,873 km/h)
         rotation_period: 38.159 d
         axial_tilt: 22.26°
         albedo: 0.30
-        temperature: 2249 K<br />(1976 °C)
+        temperature: 191 K<br />(-82 °C)
   - name: η Warshaiad C III
     type: Large terrestrial
     aphelion: 482,554,384 km<br />3.226 AU
@@ -237,14 +237,14 @@ planets:
     radius: 6,472.3 km<br/>(1.016 Yrths)
     surface_area: 5.264 × 10<sup>08</sup> km<sup>2</sup><br/>(1.032 Yrths)
     volume: 1.136 × 10<sup>12</sup> km<sup>3</sup><br/>(1.048 Yrths)
-    mass: 7.949 × 10<sup>24</sup> kg<br />(1.3309657884244632 Yrths)
+    mass: 7.949 × 10<sup>24</sup> kg<br />(1.33 Yrths)
     density: 6.999 g/cm<sup>3</sup>
     surface_gravity: 12.647 m/s<sup>2</sup><br />(1.290 g<sub>0</sub>)
     escape_velocity: 12.804 km/s<br />(46,093 km/h)
     rotation_period: 1.131 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 184 K<br />(-89 °C)
+    temperature: 181 K<br />(-92 °C)
     surface_pressure: 208 kPa<br />(2 atm)
     composition:
       - 52.5435% nitrogen
@@ -265,14 +265,14 @@ planets:
         radius: 4,596.4 km<br/>(0.721 Yrths)
         surface_area: 2.655 × 10<sup>08</sup> km<sup>2</sup><br/>(0.520 Yrths)
         volume: 4.068 × 10<sup>11</sup> km<sup>3</sup><br/>(0.376 Yrths)
-        mass: 1.079 × 10<sup>24</sup> kg<br />(1.3309657884244632 Yrths)
+        mass: 1.079 × 10<sup>24</sup> kg<br />(0.181 Yrths)
         density: 2.654 g/cm<sup>3</sup>
         surface_gravity: 3.405 m/s<sup>2</sup><br />(0.347 g<sub>0</sub>)
         escape_velocity: 5.599 km/s<br />(20,156 km/h)
         rotation_period: 32.357 d
         axial_tilt: 11.25°
         albedo: 0.30
-        temperature: 2013 K<br />(1740 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: η Warshaiad C III b
         type: Icy
         formationType: Accreted
@@ -285,12 +285,12 @@ planets:
         radius: 3,337.4 km<br/>(0.524 Yrths)
         surface_area: 1.400 × 10<sup>08</sup> km<sup>2</sup><br/>(0.274 Yrths)
         volume: 1.557 × 10<sup>11</sup> km<sup>3</sup><br/>(0.144 Yrths)
-        mass: 2.090 × 10<sup>23</sup> kg<br />(1.3309657884244632 Yrths)
+        mass: 2.090 × 10<sup>23</sup> kg<br />(0.035 Yrths)
         density: 1.342 g/cm<sup>3</sup>
         surface_gravity: 1.251 m/s<sup>2</sup><br />(0.128 g<sub>0</sub>)
         escape_velocity: 2.891 km/s<br />(10,409 km/h)
         rotation_period: 48.495 d
         axial_tilt: 12.47°
         albedo: 0.30
-        temperature: 1919 K<br />(1646 °C)
+        temperature: 146 K<br />(-127 °C)
 ---

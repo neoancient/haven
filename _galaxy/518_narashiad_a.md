@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      518 Narashiad A is a star in the constellation Naras
+      518 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 246.21 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 6.29

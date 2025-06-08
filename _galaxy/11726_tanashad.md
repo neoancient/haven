@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11726 Tanashad is a star in the constellation Tanas
+      11726 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 203.98 ly
 apparent_magnitude: 16.03
 absolute_magnitude: 12.05

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Irento A is a star in the constellation Esunrain
+      Irento A is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 13974.31 ly
 apparent_magnitude: 6.96
 absolute_magnitude: -6.20

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0011 Narashiad A is a star in the constellation Naras
+      0011 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 350.92 ly
 apparent_magnitude: 5.97
 absolute_magnitude: 0.81

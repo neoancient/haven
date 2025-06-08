@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      231 Morrishothiad is a star in the constellation Morrishoth
+      231 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 308.93 ly
 apparent_magnitude: 9.64
 absolute_magnitude: 4.76

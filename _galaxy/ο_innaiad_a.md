@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Innaiad A is a star in the constellation Inna
+      ο Innaiad A is a star in the constellation <a href="inna.html">Inna</a>
 distance: 89.89 ly
 apparent_magnitude: 7.07
 absolute_magnitude: 4.87

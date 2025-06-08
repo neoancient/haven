@@ -21,519 +21,643 @@ age: 53.5 Myr
 temperature: 5,339 K
 planets:
   - name: Rian I
-    type: Large terrestrial
-    aphelion: 1,024,611,321 km<br />6.849 AU
-    perihelion: 181,552,471 km<br />1.214 AU
+    type: Ice giant
+    aphelion: 1,206,163,792 km<br />8.063 AU
+    perihelion: 0 km<br />0.000 AU
     semi_major_axis: 603,081,896 km<br />4.031 AU
-    eccentricity: 0.699
+    eccentricity: 1.000
     orbital_period: 3,301.91 d<br />9.040 y
-    inclination: 0.00°
-    radius: 13,829.7 km<br/>(2.171 Yrths)
-    surface_area: 2.403 × 10<sup>09</sup> km<sup>2</sup><br/>(4.712 Yrths)
-    volume: 1.108 × 10<sup>13</sup> km<sup>3</sup><br/>(10.228 Yrths)
-    mass: 7.874 × 10<sup>25</sup> kg<br />(13.18 Yrths)
-    density: 7.107 g/cm<sup>3</sup>
-    surface_gravity: 27.440 m/s<sup>2</sup><br />(2.798 g<sub>0</sub>)
-    escape_velocity: 27.568 km/s<br />(99,245 km/h)
-    rotation_period: 0.438 d
+    inclination: 13.12°
+    radius: 16,902.3 km<br/>(2.653 Yrths)
+    surface_area: 3.590 × 10<sup>09</sup> km<sup>2</sup><br/>(7.038 Yrths)
+    volume: 2.023 × 10<sup>13</sup> km<sup>3</sup><br/>(18.673 Yrths)
+    mass: 2.612 × 10<sup>25</sup> kg<br />(4.37 Yrths)
+    density: 1.291 g/cm<sup>3</sup>
+    surface_gravity: 6.094 m/s<sup>2</sup><br />(0.621 g<sub>0</sub>)
+    escape_velocity: 14.362 km/s<br />(51,704 km/h)
+    rotation_period: 0.402 d
     axial_tilt: 0.00°
-    albedo: 0.35
-    temperature: 1540 K<br />(1267 °C)
-    surface_pressure: 1,883 kPa<br />(19 atm)
+    albedo: 0.50
+    temperature: 1779 K<br />(1506 °C)
     composition:
-      - 76.9264% nitrogen
-      - 20.6518% ammonia
-      - 2.4218% hydrogen sulfide
+      - 80.8343% hydrogen
+      - 17.5619% helium
+      - 1.6038% nitrogen
     moons:
       - name: Rian I a
-        type: Rocky
-        formationType: Captured
-        aphelion: 8,232,242 km<br />
-        perihelion: 7,110,237 km<br />
-        semi_major_axis: 7,671,240 km<br />
-        eccentricity: 0.073
-        orbital_period: 0.13 d<br />
-        inclination: 0.00°
-        radius: 17,506.1 km<br/>(2.748 Yrths)
-        surface_area: 3.851 × 10<sup>09</sup> km<sup>2</sup><br/>(7.550 Yrths)
-        volume: 2.247 × 10<sup>13</sup> km<sup>3</sup><br/>(20.746 Yrths)
-        mass: 6.807 × 10<sup>25</sup> kg<br />(13.184626799664201 Yrths)
-        density: 3.029 g/cm<sup>3</sup>
-        surface_gravity: 14.806 m/s<sup>2</sup><br />(1.510 g<sub>0</sub>)
-        escape_velocity: 22.783 km/s<br />(82,020 km/h)
-        rotation_period: 29.358 d
-        axial_tilt: 18.23°
-        albedo: 0.30
-        temperature: 9557 K<br />(9283 °C)
-      - name: Rian I b
-        type: Rocky
-        formationType: Impact formed
-        aphelion: 9,637,936 km<br />
-        perihelion: 7,238,792 km<br />
-        semi_major_axis: 8,438,364 km<br />
-        eccentricity: 0.142
-        orbital_period: 0.13 d<br />
-        inclination: 2.44°
-        radius: 10,389.7 km<br/>(1.631 Yrths)
-        surface_area: 1.356 × 10<sup>09</sup> km<sup>2</sup><br/>(2.659 Yrths)
-        volume: 4.698 × 10<sup>12</sup> km<sup>3</sup><br/>(4.337 Yrths)
-        mass: 1.127 × 10<sup>25</sup> kg<br />(13.184626799664201 Yrths)
-        density: 2.400 g/cm<sup>3</sup>
-        surface_gravity: 6.962 m/s<sup>2</sup><br />(0.710 g<sub>0</sub>)
-        escape_velocity: 12.036 km/s<br />(43,329 km/h)
-        rotation_period: 32.990 d
-        axial_tilt: 11.58°
-        albedo: 0.30
-        temperature: 9112 K<br />(8839 °C)
-      - name: Rian I c
         type: Icy
-        formationType: Accreted
-        aphelion: 10,358,266 km<br />
-        perihelion: 8,206,134 km<br />
-        semi_major_axis: 9,282,200 km<br />
-        eccentricity: 0.116
-        orbital_period: 0.13 d<br />
-        inclination: 1.26°
-        radius: 16,289.5 km<br/>(2.557 Yrths)
-        surface_area: 3.334 × 10<sup>09</sup> km<sup>2</sup><br/>(6.537 Yrths)
-        volume: 1.811 × 10<sup>13</sup> km<sup>3</sup><br/>(16.715 Yrths)
-        mass: 2.776 × 10<sup>25</sup> kg<br />(13.184626799664201 Yrths)
-        density: 1.533 g/cm<sup>3</sup>
-        surface_gravity: 6.972 m/s<sup>2</sup><br />(0.711 g<sub>0</sub>)
-        escape_velocity: 15.081 km/s<br />(54,292 km/h)
-        rotation_period: 57.567 d
-        axial_tilt: 10.06°
+        formationType: Captured
+        aphelion: 6,455,192 km<br />
+        perihelion: 4,165,434 km<br />
+        semi_major_axis: 5,310,313 km<br />
+        eccentricity: 0.216
+        orbital_period: 0.23 d<br />
+        inclination: 11.87°
+        radius: 10,060.1 km<br/>(1.579 Yrths)
+        surface_area: 1.272 × 10<sup>09</sup> km<sup>2</sup><br/>(2.493 Yrths)
+        volume: 4.265 × 10<sup>12</sup> km<sup>3</sup><br/>(3.937 Yrths)
+        mass: 3.975 × 10<sup>24</sup> kg<br />(0.666 Yrths)
+        density: 0.932 g/cm<sup>3</sup>
+        surface_gravity: 2.618 m/s<sup>2</sup><br />(0.267 g<sub>0</sub>)
+        escape_velocity: 7.263 km/s<br />(26,147 km/h)
+        rotation_period: 61.848 d
+        axial_tilt: 23.86°
         albedo: 0.30
-        temperature: 8688 K<br />(8415 °C)
+        temperature: 1070 K<br />(796 °C)
+      - name: Rian I b
+        type: Icy
+        formationType: Captured
+        aphelion: 6,918,850 km<br />
+        perihelion: 4,763,838 km<br />
+        semi_major_axis: 5,841,344 km<br />
+        eccentricity: 0.184
+        orbital_period: 0.23 d<br />
+        inclination: 6.17°
+        radius: 7,364.9 km<br/>(1.156 Yrths)
+        surface_area: 6.816 × 10<sup>08</sup> km<sup>2</sup><br/>(1.336 Yrths)
+        volume: 1.673 × 10<sup>12</sup> km<sup>3</sup><br/>(1.545 Yrths)
+        mass: 2.733 × 10<sup>24</sup> kg<br />(0.458 Yrths)
+        density: 1.633 g/cm<sup>3</sup>
+        surface_gravity: 3.359 m/s<sup>2</sup><br />(0.342 g<sub>0</sub>)
+        escape_velocity: 7.039 km/s<br />(25,339 km/h)
+        rotation_period: 72.788 d
+        axial_tilt: 14.00°
+        albedo: 0.30
+        temperature: 1070 K<br />(796 °C)
+      - name: Rian I c
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 7,527,900 km<br />
+        perihelion: 5,323,057 km<br />
+        semi_major_axis: 6,425,479 km<br />
+        eccentricity: 0.172
+        orbital_period: 0.23 d<br />
+        inclination: 0.00°
+        radius: 10,970.6 km<br/>(1.722 Yrths)
+        surface_area: 1.512 × 10<sup>09</sup> km<sup>2</sup><br/>(2.965 Yrths)
+        volume: 5.531 × 10<sup>12</sup> km<sup>3</sup><br/>(5.106 Yrths)
+        mass: 1.352 × 10<sup>25</sup> kg<br />(2.263 Yrths)
+        density: 2.444 g/cm<sup>3</sup>
+        surface_gravity: 7.485 m/s<sup>2</sup><br />(0.763 g<sub>0</sub>)
+        escape_velocity: 12.824 km/s<br />(46,166 km/h)
+        rotation_period: 35.046 d
+        axial_tilt: 29.50°
+        albedo: 0.30
+        temperature: 1070 K<br />(796 °C)
+      - name: Rian I d
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 7,215,924 km<br />
+        perihelion: 6,920,129 km<br />
+        semi_major_axis: 7,068,026 km<br />
+        eccentricity: 0.021
+        orbital_period: 0.23 d<br />
+        inclination: 0.30°
+        radius: 8,331.9 km<br/>(1.308 Yrths)
+        surface_area: 8.724 × 10<sup>08</sup> km<sup>2</sup><br/>(1.710 Yrths)
+        volume: 2.423 × 10<sup>12</sup> km<sup>3</sup><br/>(2.237 Yrths)
+        mass: 5.428 × 10<sup>24</sup> kg<br />(0.909 Yrths)
+        density: 2.241 g/cm<sup>3</sup>
+        surface_gravity: 5.212 m/s<sup>2</sup><br />(0.531 g<sub>0</sub>)
+        escape_velocity: 9.326 km/s<br />(33,572 km/h)
+        rotation_period: 54.620 d
+        axial_tilt: 18.42°
+        albedo: 0.30
+        temperature: 1070 K<br />(796 °C)
+      - name: Rian I e
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 9,461,471 km<br />
+        perihelion: 7,643,153 km<br />
+        semi_major_axis: 8,552,312 km<br />
+        eccentricity: 0.106
+        orbital_period: 0.23 d<br />
+        inclination: 2.37°
+        radius: 5,045.7 km<br/>(0.792 Yrths)
+        surface_area: 3.199 × 10<sup>08</sup> km<sup>2</sup><br/>(0.627 Yrths)
+        volume: 5.381 × 10<sup>11</sup> km<sup>3</sup><br/>(0.497 Yrths)
+        mass: 1.246 × 10<sup>24</sup> kg<br />(0.209 Yrths)
+        density: 2.315 g/cm<sup>3</sup>
+        surface_gravity: 3.261 m/s<sup>2</sup><br />(0.333 g<sub>0</sub>)
+        escape_velocity: 5.741 km/s<br />(20,666 km/h)
+        rotation_period: 55.718 d
+        axial_tilt: 18.73°
+        albedo: 0.30
+        temperature: 1070 K<br />(796 °C)
   - name: Rian II
     type: Gas giant
-    aphelion: 2,102,200,706 km<br />14.052 AU
-    perihelion: 372,714,421 km<br />2.491 AU
+    aphelion: 2,474,915,127 km<br />16.544 AU
+    perihelion: 0 km<br />0.000 AU
     semi_major_axis: 1,237,457,563 km<br />8.272 AU
-    eccentricity: 0.699
+    eccentricity: 1.000
     orbital_period: 9,705.03 d<br />26.571 y
-    inclination: 37.60°
-    radius: 269.7 km<br/>(0.042 Yrths)
-    surface_area: 9.139 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
-    volume: 8.215 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.620 × 10<sup>27</sup> kg<br />(606.15 Yrths)
-    density: 44066017.415 g/cm<sup>3</sup>
-    surface_gravity: 3317752.891 m/s<sup>2</sup><br />(338316.641 g<sub>0</sub>)
-    escape_velocity: 1338.596 km/s<br />(4,818,946 km/h)
-    rotation_period: 0.220 d
+    inclination: 0.00°
+    radius: 259.9 km<br/>(0.041 Yrths)
+    surface_area: 8.489 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
+    volume: 7.355 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
+    mass: 3.091 × 10<sup>27</sup> kg<br />(517.58 Yrths)
+    density: 42026389.589 g/cm<sup>3</sup>
+    surface_gravity: 3049680.283 m/s<sup>2</sup><br />(310980.843 g<sub>0</sub>)
+    escape_velocity: 1259.943 km/s<br />(4,535,793 km/h)
+    rotation_period: 0.223 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 3246 K<br />(2973 °C)
+    temperature: 3182 K<br />(2908 °C)
     composition:
-      - 63.9689% hydrogen
-      - 28.9730% helium
-      - 3.8393% ammonia
-      - 3.2188% hydrogen sulfide
+      - 86.3174% hydrogen
+      - 9.6496% helium
+      - 2.5971% carbonyl sufide
+      - 1.4358% hydrogen cyanide
     moons:
       - name: Rian II a
-        type: Ice/rock hybrid
-        formationType: Impact formed
-        aphelion: 93,237,408 km<br />
-        perihelion: 71,879,210 km<br />
-        semi_major_axis: 82,558,309 km<br />
-        eccentricity: 0.129
+        type: Icy
+        formationType: Captured
+        aphelion: 109,082,198 km<br />
+        perihelion: 99,415,018 km<br />
+        semi_major_axis: 104,248,608 km<br />
+        eccentricity: 0.046
         orbital_period: 0.06 d<br />
-        inclination: 0.39°
-        radius: 313,259.2 km<br/>(49.170 Yrths)
-        surface_area: 1.233 × 10<sup>12</sup> km<sup>2</sup><br/>(2417.644 Yrths)
-        volume: 1.288 × 10<sup>17</sup> km<sup>3</sup><br/>(118874.479 Yrths)
-        mass: 2.584 × 10<sup>29</sup> kg<br />(606.1487693462161 Yrths)
-        density: 2.006 g/cm<sup>3</sup>
-        surface_gravity: 175.487 m/s<sup>2</sup><br />(17.895 g<sub>0</sub>)
-        escape_velocity: 331.806 km/s<br />(1,194,500 km/h)
-        rotation_period: 35.054 d
-        axial_tilt: 14.05°
+        inclination: 4.42°
+        radius: 355,713.6 km<br/>(55.833 Yrths)
+        surface_area: 1.590 × 10<sup>12</sup> km<sup>2</sup><br/>(3117.351 Yrths)
+        volume: 1.885 × 10<sup>17</sup> km<sup>3</sup><br/>(174051.774 Yrths)
+        mass: 2.731 × 10<sup>29</sup> kg<br />(45736.198 Yrths)
+        density: 1.449 g/cm<sup>3</sup>
+        surface_gravity: 143.878 m/s<sup>2</sup><br />(14.671 g<sub>0</sub>)
+        escape_velocity: 320.153 km/s<br />(1,152,551 km/h)
+        rotation_period: 65.264 d
+        axial_tilt: 17.24°
         albedo: 0.30
-        temperature: 2900 K<br />(2627 °C)
+        temperature: 747 K<br />(474 °C)
       - name: Rian II b
         type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 136,175,556 km<br />
-        perihelion: 129,746,408 km<br />
-        semi_major_axis: 132,960,982 km<br />
-        eccentricity: 0.024
-        orbital_period: 0.06 d<br />
-        inclination: 1.04°
-        radius: 263,718.7 km<br/>(41.394 Yrths)
-        surface_area: 8.740 × 10<sup>11</sup> km<sup>2</sup><br/>(1713.431 Yrths)
-        volume: 7.683 × 10<sup>16</sup> km<sup>3</sup><br/>(70925.124 Yrths)
-        mass: 2.055 × 10<sup>29</sup> kg<br />(606.1487693462161 Yrths)
-        density: 2.675 g/cm<sup>3</sup>
-        surface_gravity: 196.936 m/s<sup>2</sup><br />(20.082 g<sub>0</sub>)
-        escape_velocity: 322.510 km/s<br />(1,161,036 km/h)
-        rotation_period: 34.484 d
-        axial_tilt: 13.06°
-        albedo: 0.30
-        temperature: 2285 K<br />(2012 °C)
-      - name: Rian II c
-        type: Ice/rock hybrid
         formationType: Captured
-        aphelion: 380,285,559 km<br />
-        perihelion: 378,420,839 km<br />
-        semi_major_axis: 379,353,199 km<br />
-        eccentricity: 0.002
+        aphelion: 159,924,657 km<br />
+        perihelion: 145,336,117 km<br />
+        semi_major_axis: 152,630,387 km<br />
+        eccentricity: 0.048
         orbital_period: 0.06 d<br />
-        inclination: 4.19°
-        radius: 426,122.3 km<br/>(66.885 Yrths)
-        surface_area: 2.282 × 10<sup>12</sup> km<sup>2</sup><br/>(4473.560 Yrths)
-        volume: 3.241 × 10<sup>17</sup> km<sup>3</sup><br/>(299212.568 Yrths)
-        mass: 7.963 × 10<sup>29</sup> kg<br />(606.1487693462161 Yrths)
-        density: 2.457 g/cm<sup>3</sup>
-        surface_gravity: 292.305 m/s<sup>2</sup><br />(29.807 g<sub>0</sub>)
-        escape_velocity: 499.454 km/s<br />(1,798,034 km/h)
-        rotation_period: 37.173 d
-        axial_tilt: 16.67°
+        inclination: 0.86°
+        radius: 272,145.8 km<br/>(42.716 Yrths)
+        surface_area: 9.307 × 10<sup>11</sup> km<sup>2</sup><br/>(1824.685 Yrths)
+        volume: 8.443 × 10<sup>16</sup> km<sup>3</sup><br/>(77943.857 Yrths)
+        mass: 1.799 × 10<sup>29</sup> kg<br />(30127.145 Yrths)
+        density: 2.131 g/cm<sup>3</sup>
+        surface_gravity: 161.916 m/s<sup>2</sup><br />(16.511 g<sub>0</sub>)
+        escape_velocity: 297.068 km/s<br />(1,069,445 km/h)
+        rotation_period: 46.563 d
+        axial_tilt: 19.10°
         albedo: 0.30
-        temperature: 1353 K<br />(1080 °C)
+        temperature: 747 K<br />(474 °C)
+      - name: Rian II c
+        type: Icy
+        formationType: Accreted
+        aphelion: 215,850,307 km<br />
+        perihelion: 153,515,230 km<br />
+        semi_major_axis: 184,682,769 km<br />
+        eccentricity: 0.169
+        orbital_period: 0.06 d<br />
+        inclination: 66.43°
+        radius: 283,287.3 km<br/>(44.465 Yrths)
+        surface_area: 1.008 × 10<sup>12</sup> km<sup>2</sup><br/>(1977.148 Yrths)
+        volume: 9.523 × 10<sup>16</sup> km<sup>3</sup><br/>(87914.131 Yrths)
+        mass: 1.497 × 10<sup>29</sup> kg<br />(25074.972 Yrths)
+        density: 1.572 g/cm<sup>3</sup>
+        surface_gravity: 124.372 m/s<sup>2</sup><br />(12.682 g<sub>0</sub>)
+        escape_velocity: 265.634 km/s<br />(956,284 km/h)
+        rotation_period: 49.560 d
+        axial_tilt: 22.87°
+        albedo: 0.30
+        temperature: 747 K<br />(474 °C)
       - name: Rian II d
         type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 605,624,698 km<br />
-        perihelion: 312,410,043 km<br />
-        semi_major_axis: 459,017,371 km<br />
-        eccentricity: 0.319
-        orbital_period: 0.06 d<br />
-        inclination: 56.48°
-        radius: 268,136.3 km<br/>(42.087 Yrths)
-        surface_area: 9.035 × 10<sup>11</sup> km<sup>2</sup><br/>(1771.316 Yrths)
-        volume: 8.075 × 10<sup>16</sup> km<sup>3</sup><br/>(74549.361 Yrths)
-        mass: 1.884 × 10<sup>29</sup> kg<br />(606.1487693462161 Yrths)
-        density: 2.333 g/cm<sup>3</sup>
-        surface_gravity: 174.667 m/s<sup>2</sup><br />(17.811 g<sub>0</sub>)
-        escape_velocity: 306.262 km/s<br />(1,102,544 km/h)
-        rotation_period: 38.321 d
-        axial_tilt: 19.21°
-        albedo: 0.30
-        temperature: 1230 K<br />(957 °C)
-      - name: Rian II e
-        type: Asteroid
         formationType: Captured
-        aphelion: 775,179,928 km<br />
-        perihelion: 703,324,203 km<br />
-        semi_major_axis: 739,252,065 km<br />
-        eccentricity: 0.049
+        aphelion: 412,418,261 km<br />
+        perihelion: 379,349,572 km<br />
+        semi_major_axis: 395,883,916 km<br />
+        eccentricity: 0.042
         orbital_period: 0.06 d<br />
-        inclination: 4.75°
-        radius: 314,240.5 km<br/>(49.324 Yrths)
-        surface_area: 1.241 × 10<sup>12</sup> km<sup>2</sup><br/>(2432.816 Yrths)
-        volume: 1.300 × 10<sup>17</sup> km<sup>3</sup><br/>(119995.171 Yrths)
-        mass: 3.596 × 10<sup>29</sup> kg<br />(606.1487693462161 Yrths)
-        density: 2.766 g/cm<sup>3</sup>
-        surface_gravity: 242.707 m/s<sup>2</sup><br />(24.749 g<sub>0</sub>)
-        escape_velocity: 390.824 km/s<br />(1,406,968 km/h)
-        rotation_period: 46.701 d
-        axial_tilt: 25.97°
+        inclination: 1.58°
+        radius: 248,035.3 km<br/>(38.932 Yrths)
+        surface_area: 7.731 × 10<sup>11</sup> km<sup>2</sup><br/>(1515.695 Yrths)
+        volume: 6.392 × 10<sup>16</sup> km<sup>3</sup><br/>(59008.922 Yrths)
+        mass: 1.296 × 10<sup>29</sup> kg<br />(21701.469 Yrths)
+        density: 2.028 g/cm<sup>3</sup>
+        surface_gravity: 140.410 m/s<sup>2</sup><br />(14.318 g<sub>0</sub>)
+        escape_velocity: 264.098 km/s<br />(950,754 km/h)
+        rotation_period: 37.299 d
+        axial_tilt: 34.12°
         albedo: 0.30
-        temperature: 969 K<br />(696 °C)
+        temperature: 747 K<br />(474 °C)
+      - name: Rian II e
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 776,669,348 km<br />
+        perihelion: 625,995,665 km<br />
+        semi_major_axis: 701,332,506 km<br />
+        eccentricity: 0.107
+        orbital_period: 0.06 d<br />
+        inclination: 5.22°
+        radius: 262,041.9 km<br/>(41.130 Yrths)
+        surface_area: 8.629 × 10<sup>11</sup> km<sup>2</sup><br/>(1691.711 Yrths)
+        volume: 7.537 × 10<sup>16</sup> km<sup>3</sup><br/>(69580.773 Yrths)
+        mass: 1.790 × 10<sup>29</sup> kg<br />(29969.492 Yrths)
+        density: 2.375 g/cm<sup>3</sup>
+        surface_gravity: 173.730 m/s<sup>2</sup><br />(17.715 g<sub>0</sub>)
+        escape_velocity: 301.948 km/s<br />(1,087,013 km/h)
+        rotation_period: 46.213 d
+        axial_tilt: 12.13°
+        albedo: 0.30
+        temperature: 747 K<br />(474 °C)
       - name: Rian II f
         type: Icy
         formationType: Accreted
-        aphelion: 5,848,425,025 km<br />
-        perihelion: 5,092,875,086 km<br />
-        semi_major_axis: 5,470,650,056 km<br />
-        eccentricity: 0.069
+        aphelion: 1,655,282,116 km<br />
+        perihelion: 1,652,128,612 km<br />
+        semi_major_axis: 1,653,705,364 km<br />
+        eccentricity: 0.001
         orbital_period: 0.06 d<br />
-        inclination: 0.00°
-        radius: 382,614.3 km<br/>(60.056 Yrths)
-        surface_area: 1.840 × 10<sup>12</sup> km<sup>2</sup><br/>(3606.677 Yrths)
-        volume: 2.346 × 10<sup>17</sup> km<sup>3</sup><br/>(216601.238 Yrths)
-        mass: 1.861 × 10<sup>29</sup> kg<br />(606.1487693462161 Yrths)
-        density: 0.793 g/cm<sup>3</sup>
-        surface_gravity: 84.748 m/s<sup>2</sup><br />(8.642 g<sub>0</sub>)
-        escape_velocity: 254.833 km/s<br />(917,398 km/h)
-        rotation_period: 106.031 d
-        axial_tilt: 15.34°
+        inclination: 2.29°
+        radius: 272,745.6 km<br/>(42.810 Yrths)
+        surface_area: 9.348 × 10<sup>11</sup> km<sup>2</sup><br/>(1832.738 Yrths)
+        volume: 8.499 × 10<sup>16</sup> km<sup>3</sup><br/>(78460.394 Yrths)
+        mass: 1.243 × 10<sup>29</sup> kg<br />(20817.014 Yrths)
+        density: 1.463 g/cm<sup>3</sup>
+        surface_gravity: 111.388 m/s<sup>2</sup><br />(11.358 g<sub>0</sub>)
+        escape_velocity: 246.665 km/s<br />(887,995 km/h)
+        rotation_period: 78.216 d
+        axial_tilt: 26.49°
         albedo: 0.30
-        temperature: 356 K<br />(83 °C)
+        temperature: 747 K<br />(474 °C)
       - name: Rian II g
         type: Icy
-        formationType: Accreted
-        aphelion: 10,817,651,819 km<br />
-        perihelion: 8,565,528,747 km<br />
-        semi_major_axis: 9,691,590,283 km<br />
-        eccentricity: 0.116
+        formationType: Captured
+        aphelion: 3,268,979,945 km<br />
+        perihelion: 2,057,638,106 km<br />
+        semi_major_axis: 2,663,309,026 km<br />
+        eccentricity: 0.227
         orbital_period: 0.06 d<br />
-        inclination: 1.44°
-        radius: 352,239.1 km<br/>(55.288 Yrths)
-        surface_area: 1.559 × 10<sup>12</sup> km<sup>2</sup><br/>(3056.750 Yrths)
-        volume: 1.831 × 10<sup>17</sup> km<sup>3</sup><br/>(169001.236 Yrths)
-        mass: 2.202 × 10<sup>29</sup> kg<br />(606.1487693462161 Yrths)
-        density: 1.203 g/cm<sup>3</sup>
-        surface_gravity: 118.287 m/s<sup>2</sup><br />(12.062 g<sub>0</sub>)
-        escape_velocity: 288.866 km/s<br />(1,039,918 km/h)
-        rotation_period: 49.416 d
-        axial_tilt: 18.56°
+        inclination: 31.47°
+        radius: 471,866.8 km<br/>(74.065 Yrths)
+        surface_area: 2.798 × 10<sup>12</sup> km<sup>2</sup><br/>(5485.594 Yrths)
+        volume: 4.401 × 10<sup>17</sup> km<sup>3</sup><br/>(406289.362 Yrths)
+        mass: 6.008 × 10<sup>29</sup> kg<br />(100598.304 Yrths)
+        density: 1.365 g/cm<sup>3</sup>
+        surface_gravity: 179.841 m/s<sup>2</sup><br />(18.339 g<sub>0</sub>)
+        escape_velocity: 412.253 km/s<br />(1,484,109 km/h)
+        rotation_period: 56.255 d
+        axial_tilt: 8.38°
         albedo: 0.30
-        temperature: 268 K<br />(-5 °C)
+        temperature: 747 K<br />(474 °C)
       - name: Rian II h
-        type: Icy
-        formationType: Captured
-        aphelion: 28,426,030,478 km<br />
-        perihelion: 26,876,445,813 km<br />
-        semi_major_axis: 27,651,238,145 km<br />
-        eccentricity: 0.028
-        orbital_period: 0.06 d<br />
-        inclination: 2.49°
-        radius: 345,348.3 km<br/>(54.206 Yrths)
-        surface_area: 1.499 × 10<sup>12</sup> km<sup>2</sup><br/>(2938.323 Yrths)
-        volume: 1.725 × 10<sup>17</sup> km<sup>3</sup><br/>(159275.629 Yrths)
-        mass: 1.883 × 10<sup>29</sup> kg<br />(606.1487693462161 Yrths)
-        density: 1.092 g/cm<sup>3</sup>
-        surface_gravity: 105.255 m/s<sup>2</sup><br />(10.733 g<sub>0</sub>)
-        escape_velocity: 269.811 km/s<br />(971,319 km/h)
-        rotation_period: 73.873 d
-        axial_tilt: 15.95°
-        albedo: 0.30
-        temperature: 158 K<br />(-115 °C)
-      - name: Rian II i
-        type: Rocky
-        formationType: Captured
-        aphelion: 30,702,689,711 km<br />
-        perihelion: 30,130,034,209 km<br />
-        semi_major_axis: 30,416,361,960 km<br />
-        eccentricity: 0.009
-        orbital_period: 0.06 d<br />
-        inclination: 1.69°
-        radius: 301,157.9 km<br/>(47.270 Yrths)
-        surface_area: 1.140 × 10<sup>12</sup> km<sup>2</sup><br/>(2234.464 Yrths)
-        volume: 1.144 × 10<sup>17</sup> km<sup>3</sup><br/>(105623.404 Yrths)
-        mass: 3.412 × 10<sup>29</sup> kg<br />(606.1487693462161 Yrths)
-        density: 2.982 g/cm<sup>3</sup>
-        surface_gravity: 250.735 m/s<sup>2</sup><br />(25.568 g<sub>0</sub>)
-        escape_velocity: 388.879 km/s<br />(1,399,964 km/h)
-        rotation_period: 45.275 d
-        axial_tilt: 13.28°
-        albedo: 0.30
-        temperature: 151 K<br />(-122 °C)
-  - name: Rian III
-    type: Gas giant
-    aphelion: 4,314,856,872 km<br />28.843 AU
-    perihelion: 763,396,118 km<br />5.103 AU
-    semi_major_axis: 2,539,126,495 km<br />16.973 AU
-    eccentricity: 0.699
-    orbital_period: 28,525.14 d<br />78.098 y
-    inclination: 37.63°
-    radius: 184.5 km<br/>(0.029 Yrths)
-    surface_area: 4.280 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
-    volume: 2.633 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.123 × 10<sup>26</sup> kg<br />(119.27 Yrths)
-    density: 27055190.702 g/cm<sup>3</sup>
-    surface_gravity: 1393988.830 m/s<sup>2</sup><br />(142147.301 g<sub>0</sub>)
-    escape_velocity: 717.780 km/s<br />(2,584,009 km/h)
-    rotation_period: 0.258 d
-    axial_tilt: 0.00°
-    albedo: 0.40
-    temperature: 2261 K<br />(1988 °C)
-    composition:
-      - 38.6531% helium
-      - 34.1562% hydrogen
-      - 16.6017% acetylene
-      - 5.3468% ammonia
-      - 5.2422% methane
-    moons:
-      - name: Rian III a
-        type: Rocky
-        formationType: Accreted
-        aphelion: 73,801,208 km<br />
-        perihelion: 60,792,510 km<br />
-        semi_major_axis: 67,296,859 km<br />
-        eccentricity: 0.097
-        orbital_period: 0.38 d<br />
-        inclination: 4.12°
-        radius: 68,756.6 km<br/>(10.792 Yrths)
-        surface_area: 5.941 × 10<sup>10</sup> km<sup>2</sup><br/>(116.470 Yrths)
-        volume: 1.362 × 10<sup>15</sup> km<sup>3</sup><br/>(1256.957 Yrths)
-        mass: 3.324 × 10<sup>27</sup> kg<br />(119.27005101481235 Yrths)
-        density: 2.441 g/cm<sup>3</sup>
-        surface_gravity: 46.866 m/s<sup>2</sup><br />(4.779 g<sub>0</sub>)
-        escape_velocity: 80.333 km/s<br />(289,199 km/h)
-        rotation_period: 44.502 d
-        axial_tilt: 11.02°
-        albedo: 0.30
-        temperature: 3232 K<br />(2958 °C)
-      - name: Rian III b
         type: Ice/rock hybrid
         formationType: Accreted
-        aphelion: 152,985,207 km<br />
-        perihelion: 135,528,381 km<br />
-        semi_major_axis: 144,256,794 km<br />
-        eccentricity: 0.061
-        orbital_period: 0.38 d<br />
-        inclination: 4.63°
-        radius: 59,582.4 km<br/>(9.352 Yrths)
-        surface_area: 4.461 × 10<sup>10</sup> km<sup>2</sup><br/>(87.462 Yrths)
-        volume: 8.860 × 10<sup>14</sup> km<sup>3</sup><br/>(817.957 Yrths)
-        mass: 2.169 × 10<sup>27</sup> kg<br />(119.27005101481235 Yrths)
-        density: 2.448 g/cm<sup>3</sup>
-        surface_gravity: 40.723 m/s<sup>2</sup><br />(4.153 g<sub>0</sub>)
-        escape_velocity: 69.709 km/s<br />(250,953 km/h)
-        rotation_period: 49.491 d
-        axial_tilt: 23.79°
+        aphelion: 4,050,709,996 km<br />
+        perihelion: 3,747,991,493 km<br />
+        semi_major_axis: 3,899,350,744 km<br />
+        eccentricity: 0.039
+        orbital_period: 0.06 d<br />
+        inclination: 2.66°
+        radius: 252,651.2 km<br/>(39.656 Yrths)
+        surface_area: 8.021 × 10<sup>11</sup> km<sup>2</sup><br/>(1572.633 Yrths)
+        volume: 6.755 × 10<sup>16</sup> km<sup>3</sup><br/>(62365.015 Yrths)
+        mass: 1.535 × 10<sup>29</sup> kg<br />(25710.798 Yrths)
+        density: 2.273 g/cm<sup>3</sup>
+        surface_gravity: 160.328 m/s<sup>2</sup><br />(16.349 g<sub>0</sub>)
+        escape_velocity: 284.823 km/s<br />(1,025,362 km/h)
+        rotation_period: 45.495 d
+        axial_tilt: 24.49°
         albedo: 0.30
-        temperature: 2207 K<br />(1934 °C)
+        temperature: 747 K<br />(474 °C)
+  - name: Rian III
+    type: Gas giant
+    aphelion: 5,078,252,990 km<br />33.946 AU
+    perihelion: 0 km<br />0.000 AU
+    semi_major_axis: 2,539,126,495 km<br />16.973 AU
+    eccentricity: 1.000
+    orbital_period: 28,525.14 d<br />78.098 y
+    inclination: 90.00°
+    radius: 244.7 km<br/>(0.038 Yrths)
+    surface_area: 7.524 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
+    volume: 6.137 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
+    mass: 2.386 × 10<sup>27</sup> kg<br />(399.61 Yrths)
+    density: 38884969.135 g/cm<sup>3</sup>
+    surface_gravity: 2656529.782 m/s<sup>2</sup><br />(270890.649 g<sub>0</sub>)
+    escape_velocity: 1140.989 km/s<br />(4,107,559 km/h)
+    rotation_period: 0.229 d
+    axial_tilt: 0.00°
+    albedo: 0.40
+    temperature: 2255 K<br />(1982 °C)
+    composition:
+      - 78.1124% hydrogen
+      - 12.3753% helium
+      - 3.0843% ethane
+      - 2.8960% hydrogen sulfide
+      - 2.2853% xenon
+      - 1.2467% ammonia
+    moons:
+      - name: Rian III a
+        type: Ice/rock hybrid
+        formationType: Captured
+        aphelion: 166,213,274 km<br />
+        perihelion: 158,143,401 km<br />
+        semi_major_axis: 162,178,338 km<br />
+        eccentricity: 0.025
+        orbital_period: 0.21 d<br />
+        inclination: 0.06°
+        radius: 240,834.0 km<br/>(37.802 Yrths)
+        surface_area: 7.289 × 10<sup>11</sup> km<sup>2</sup><br/>(1428.961 Yrths)
+        volume: 5.851 × 10<sup>16</sup> km<sup>3</sup><br/>(54017.036 Yrths)
+        mass: 1.399 × 10<sup>29</sup> kg<br />(23428.096 Yrths)
+        density: 2.391 g/cm<sup>3</sup>
+        surface_gravity: 160.782 m/s<sup>2</sup><br />(16.395 g<sub>0</sub>)
+        escape_velocity: 278.476 km/s<br />(1,002,513 km/h)
+        rotation_period: 34.361 d
+        axial_tilt: 20.42°
+        albedo: 0.30
+        temperature: 521 K<br />(248 °C)
+      - name: Rian III b
+        type: Rocky
+        formationType: Accreted
+        aphelion: 324,120,079 km<br />
+        perihelion: 250,497,557 km<br />
+        semi_major_axis: 287,308,818 km<br />
+        eccentricity: 0.128
+        orbital_period: 0.21 d<br />
+        inclination: 4.01°
+        radius: 186,875.4 km<br/>(29.332 Yrths)
+        surface_area: 4.388 × 10<sup>11</sup> km<sup>2</sup><br/>(860.377 Yrths)
+        volume: 2.734 × 10<sup>16</sup> km<sup>3</sup><br/>(25236.749 Yrths)
+        mass: 8.458 × 10<sup>28</sup> kg<br />(14162.683 Yrths)
+        density: 3.094 g/cm<sup>3</sup>
+        surface_gravity: 161.427 m/s<sup>2</sup><br />(16.461 g<sub>0</sub>)
+        escape_velocity: 245.796 km/s<br />(884,865 km/h)
+        rotation_period: 34.955 d
+        axial_tilt: 11.66°
+        albedo: 0.30
+        temperature: 521 K<br />(248 °C)
       - name: Rian III c
         type: Icy
         formationType: Captured
-        aphelion: 453,697,296 km<br />
-        perihelion: 294,632,649 km<br />
-        semi_major_axis: 374,164,973 km<br />
-        eccentricity: 0.213
-        orbital_period: 0.38 d<br />
-        inclination: 79.23°
-        radius: 83,271.0 km<br/>(13.070 Yrths)
-        surface_area: 8.714 × 10<sup>10</sup> km<sup>2</sup><br/>(170.833 Yrths)
-        volume: 2.419 × 10<sup>15</sup> km<sup>3</sup><br/>(2232.848 Yrths)
-        mass: 3.917 × 10<sup>27</sup> kg<br />(119.27005101481235 Yrths)
-        density: 1.620 g/cm<sup>3</sup>
-        surface_gravity: 37.655 m/s<sup>2</sup><br />(3.840 g<sub>0</sub>)
-        escape_velocity: 79.244 km/s<br />(285,278 km/h)
-        rotation_period: 58.603 d
-        axial_tilt: 10.66°
+        aphelion: 522,275,643 km<br />
+        perihelion: 319,022,037 km<br />
+        semi_major_axis: 420,648,840 km<br />
+        eccentricity: 0.242
+        orbital_period: 0.21 d<br />
+        inclination: 4.22°
+        radius: 293,568.1 km<br/>(46.079 Yrths)
+        surface_area: 1.083 × 10<sup>12</sup> km<sup>2</sup><br/>(2123.257 Yrths)
+        volume: 1.060 × 10<sup>17</sup> km<sup>3</sup><br/>(97837.145 Yrths)
+        mass: 7.418 × 10<sup>28</sup> kg<br />(12422.055 Yrths)
+        density: 0.700 g/cm<sup>3</sup>
+        surface_gravity: 57.374 m/s<sup>2</sup><br />(5.850 g<sub>0</sub>)
+        escape_velocity: 183.662 km/s<br />(661,184 km/h)
+        rotation_period: 76.728 d
+        axial_tilt: 22.35°
         albedo: 0.30
-        temperature: 1370 K<br />(1097 °C)
+        temperature: 521 K<br />(248 °C)
       - name: Rian III d
-        type: Icy
-        formationType: Captured
-        aphelion: 523,353,364 km<br />
-        perihelion: 472,673,793 km<br />
-        semi_major_axis: 498,013,579 km<br />
-        eccentricity: 0.051
-        orbital_period: 0.38 d<br />
-        inclination: 0.85°
-        radius: 160,257.5 km<br/>(25.154 Yrths)
-        surface_area: 3.227 × 10<sup>11</sup> km<sup>2</sup><br/>(632.734 Yrths)
-        volume: 1.724 × 10<sup>16</sup> km<sup>3</sup><br/>(15915.936 Yrths)
-        mass: 2.159 × 10<sup>28</sup> kg<br />(119.27005101481235 Yrths)
-        density: 1.252 g/cm<sup>3</sup>
-        surface_gravity: 56.026 m/s<sup>2</sup><br />(5.713 g<sub>0</sub>)
-        escape_velocity: 134.095 km/s<br />(482,742 km/h)
-        rotation_period: 76.736 d
-        axial_tilt: 20.01°
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 658,340,932 km<br />
+        perihelion: 573,403,002 km<br />
+        semi_major_axis: 615,871,967 km<br />
+        eccentricity: 0.069
+        orbital_period: 0.21 d<br />
+        inclination: 4.24°
+        radius: 268,755.9 km<br/>(42.184 Yrths)
+        surface_area: 9.077 × 10<sup>11</sup> km<sup>2</sup><br/>(1779.512 Yrths)
+        volume: 8.131 × 10<sup>16</sup> km<sup>3</sup><br/>(75067.394 Yrths)
+        mass: 1.618 × 10<sup>29</sup> kg<br />(27091.779 Yrths)
+        density: 1.990 g/cm<sup>3</sup>
+        surface_gravity: 149.299 m/s<sup>2</sup><br />(15.224 g<sub>0</sub>)
+        escape_velocity: 283.477 km/s<br />(1,020,516 km/h)
+        rotation_period: 55.588 d
+        axial_tilt: 21.29°
         albedo: 0.30
-        temperature: 1188 K<br />(915 °C)
+        temperature: 521 K<br />(248 °C)
       - name: Rian III e
-        type: Icy
-        formationType: Accreted
-        aphelion: 984,072,794 km<br />
-        perihelion: 956,902,359 km<br />
-        semi_major_axis: 970,487,577 km<br />
-        eccentricity: 0.014
-        orbital_period: 0.38 d<br />
-        inclination: 5.91°
-        radius: 92,759.6 km<br/>(14.560 Yrths)
-        surface_area: 1.081 × 10<sup>11</sup> km<sup>2</sup><br/>(211.984 Yrths)
-        volume: 3.343 × 10<sup>15</sup> km<sup>3</sup><br/>(3086.416 Yrths)
-        mass: 3.621 × 10<sup>27</sup> kg<br />(119.27005101481235 Yrths)
-        density: 1.083 g/cm<sup>3</sup>
-        surface_gravity: 28.049 m/s<sup>2</sup><br />(2.860 g<sub>0</sub>)
-        escape_velocity: 72.185 km/s<br />(259,867 km/h)
-        rotation_period: 55.502 d
-        axial_tilt: 20.06°
-        albedo: 0.30
-        temperature: 851 K<br />(578 °C)
-      - name: Rian III f
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 1,853,757,967 km<br />
-        perihelion: 1,584,797,917 km<br />
-        semi_major_axis: 1,719,277,942 km<br />
-        eccentricity: 0.078
-        orbital_period: 0.38 d<br />
-        inclination: 2.53°
-        radius: 84,437.5 km<br/>(13.253 Yrths)
-        surface_area: 8.959 × 10<sup>10</sup> km<sup>2</sup><br/>(175.653 Yrths)
-        volume: 2.522 × 10<sup>15</sup> km<sup>3</sup><br/>(2328.004 Yrths)
-        mass: 5.711 × 10<sup>27</sup> kg<br />(119.27005101481235 Yrths)
-        density: 2.265 g/cm<sup>3</sup>
-        surface_gravity: 53.386 m/s<sup>2</sup><br />(5.444 g<sub>0</sub>)
-        escape_velocity: 95.015 km/s<br />(342,053 km/h)
-        rotation_period: 42.771 d
-        axial_tilt: 18.20°
-        albedo: 0.30
-        temperature: 639 K<br />(366 °C)
-      - name: Rian III g
-        type: Ice/rock hybrid
-        formationType: Impact formed
-        aphelion: 2,101,973,285 km<br />
-        perihelion: 2,058,679,335 km<br />
-        semi_major_axis: 2,080,326,310 km<br />
-        eccentricity: 0.010
-        orbital_period: 0.38 d<br />
-        inclination: 4.16°
-        radius: 82,043.6 km<br/>(12.878 Yrths)
-        surface_area: 8.459 × 10<sup>10</sup> km<sup>2</sup><br/>(165.834 Yrths)
-        volume: 2.313 × 10<sup>15</sup> km<sup>3</sup><br/>(2135.561 Yrths)
-        mass: 5.272 × 10<sup>27</sup> kg<br />(119.27005101481235 Yrths)
-        density: 2.279 g/cm<sup>3</sup>
-        surface_gravity: 52.208 m/s<sup>2</sup><br />(5.324 g<sub>0</sub>)
-        escape_velocity: 92.619 km/s<br />(333,429 km/h)
-        rotation_period: 52.463 d
-        axial_tilt: 9.24°
-        albedo: 0.30
-        temperature: 581 K<br />(308 °C)
-      - name: Rian III h
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 4,414,279,102 km<br />
-        perihelion: 3,693,655,804 km<br />
-        semi_major_axis: 4,053,967,453 km<br />
-        eccentricity: 0.089
-        orbital_period: 0.38 d<br />
-        inclination: 2.84°
-        radius: 77,841.0 km<br/>(12.218 Yrths)
-        surface_area: 7.614 × 10<sup>10</sup> km<sup>2</sup><br/>(149.280 Yrths)
-        volume: 1.976 × 10<sup>15</sup> km<sup>3</sup><br/>(1823.909 Yrths)
-        mass: 4.869 × 10<sup>27</sup> kg<br />(119.27005101481235 Yrths)
-        density: 2.465 g/cm<sup>3</sup>
-        surface_gravity: 53.562 m/s<sup>2</sup><br />(5.462 g<sub>0</sub>)
-        escape_velocity: 91.379 km/s<br />(328,963 km/h)
-        rotation_period: 55.605 d
-        axial_tilt: 8.95°
-        albedo: 0.30
-        temperature: 416 K<br />(143 °C)
-      - name: Rian III i
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 4,909,036,798 km<br />
-        perihelion: 4,009,691,599 km<br />
-        semi_major_axis: 4,459,364,198 km<br />
-        eccentricity: 0.101
-        orbital_period: 0.38 d<br />
-        inclination: 2.39°
-        radius: 62,575.1 km<br/>(9.822 Yrths)
-        surface_area: 4.921 × 10<sup>10</sup> km<sup>2</sup><br/>(96.469 Yrths)
-        volume: 1.026 × 10<sup>15</sup> km<sup>3</sup><br/>(947.507 Yrths)
-        mass: 2.240 × 10<sup>27</sup> kg<br />(119.27005101481235 Yrths)
-        density: 2.183 g/cm<sup>3</sup>
-        surface_gravity: 38.130 m/s<sup>2</sup><br />(3.888 g<sub>0</sub>)
-        escape_velocity: 69.126 km/s<br />(248,855 km/h)
-        rotation_period: 51.816 d
-        axial_tilt: 22.08°
-        albedo: 0.30
-        temperature: 397 K<br />(124 °C)
-      - name: <a href="haven.html">Haven</a>
         type: Dwarf planet
         formationType: Captured
-        aphelion: 5,998,357,523 km<br />
-        perihelion: 5,872,469,974 km<br />
-        semi_major_axis: 5,935,413,748 km<br />
-        eccentricity: 0.011
-        orbital_period: 0.38 d<br />
-        inclination: 3.47°
-        radius: 12,807.0 km<br/>(2.010 Yrths)
-        surface_area: 2.061 × 10<sup>09</sup> km<sup>2</sup><br/>(4.041 Yrths)
-        volume: 8.799 × 10<sup>12</sup> km<sup>3</sup><br/>(8.123 Yrths)
-        mass: 2.464 × 10<sup>25</sup> kg<br />(119.27005101481235 Yrths)
-        density: 2.800 g/cm<sup>3</sup>
-        surface_gravity: 10.012 m/s<sup>2</sup><br />(1.021 g<sub>0</sub>)
-        escape_velocity: 16.025 km/s<br />(57,689 km/h)
-        rotation_period: 34.792 d
-        axial_tilt: 10.72°
+        aphelion: 1,885,162,657 km<br />
+        perihelion: 1,629,146,538 km<br />
+        semi_major_axis: 1,757,154,597 km<br />
+        eccentricity: 0.073
+        orbital_period: 0.21 d<br />
+        inclination: 5.16°
+        radius: 231,932.7 km<br/>(36.404 Yrths)
+        surface_area: 6.760 × 10<sup>11</sup> km<sup>2</sup><br/>(1325.283 Yrths)
+        volume: 5.226 × 10<sup>16</sup> km<sup>3</sup><br/>(48246.192 Yrths)
+        mass: 7.917 × 10<sup>28</sup> kg<br />(13256.357 Yrths)
+        density: 1.515 g/cm<sup>3</sup>
+        surface_gravity: 98.093 m/s<sup>2</sup><br />(10.003 g<sub>0</sub>)
+        escape_velocity: 213.456 km/s<br />(768,443 km/h)
+        rotation_period: 45.173 d
+        axial_tilt: 39.70°
         albedo: 0.30
-        temperature: 344 K<br />(71 °C)
+        temperature: 521 K<br />(248 °C)
+  - name: Rian IV
+    type: Ice giant
+    aphelion: 10,420,015,279 km<br />69.653 AU
+    perihelion: 0 km<br />0.000 AU
+    semi_major_axis: 5,210,007,639 km<br />34.826 AU
+    eccentricity: 1.000
+    orbital_period: 83,841.47 d<br />229.545 y
+    inclination: 0.89°
+    radius: 31,403.9 km<br/>(4.929 Yrths)
+    surface_area: 1.239 × 10<sup>10</sup> km<sup>2</sup><br/>(24.297 Yrths)
+    volume: 1.297 × 10<sup>14</sup> km<sup>3</sup><br/>(119.765 Yrths)
+    mass: 1.939 × 10<sup>26</sup> kg<br />(32.47 Yrths)
+    density: 1.495 g/cm<sup>3</sup>
+    surface_gravity: 13.107 m/s<sup>2</sup><br />(1.337 g<sub>0</sub>)
+    escape_velocity: 28.712 km/s<br />(103,361 km/h)
+    rotation_period: 0.297 d
+    axial_tilt: 0.00°
+    albedo: 0.50
+    temperature: 692 K<br />(418 °C)
+    composition:
+      - 68.3945% hydrogen
+      - 28.0231% helium
+      - 3.5824% neon
+    moons:
+      - name: Rian IV a
+        type: Dwarf planet
+        formationType: Captured
+        aphelion: 105,726,755 km<br />
+        perihelion: 73,271,471 km<br />
+        semi_major_axis: 89,499,113 km<br />
+        eccentricity: 0.181
+        orbital_period: 2.12 d<br />
+        inclination: 0.00°
+        radius: 33,646.6 km<br/>(5.281 Yrths)
+        surface_area: 1.423 × 10<sup>10</sup> km<sup>2</sup><br/>(27.891 Yrths)
+        volume: 1.596 × 10<sup>14</sup> km<sup>3</sup><br/>(147.299 Yrths)
+        mass: 3.494 × 10<sup>26</sup> kg<br />(58.514 Yrths)
+        density: 2.190 g/cm<sup>3</sup>
+        surface_gravity: 20.574 m/s<sup>2</sup><br />(2.098 g<sub>0</sub>)
+        escape_velocity: 37.234 km/s<br />(134,041 km/h)
+        rotation_period: 52.510 d
+        axial_tilt: 22.24°
+        albedo: 0.30
+        temperature: 364 K<br />(91 °C)
+      - name: Rian IV b
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 98,553,671 km<br />
+        perihelion: 98,344,378 km<br />
+        semi_major_axis: 98,449,024 km<br />
+        eccentricity: 0.001
+        orbital_period: 2.12 d<br />
+        inclination: 1.50°
+        radius: 28,132.6 km<br/>(4.416 Yrths)
+        surface_area: 9.946 × 10<sup>09</sup> km<sup>2</sup><br/>(19.499 Yrths)
+        volume: 9.326 × 10<sup>13</sup> km<sup>3</sup><br/>(86.100 Yrths)
+        mass: 1.766 × 10<sup>26</sup> kg<br />(29.575 Yrths)
+        density: 1.894 g/cm<sup>3</sup>
+        surface_gravity: 14.874 m/s<sup>2</sup><br />(1.517 g<sub>0</sub>)
+        escape_velocity: 28.949 km/s<br />(104,217 km/h)
+        rotation_period: 38.813 d
+        axial_tilt: 23.53°
+        albedo: 0.30
+        temperature: 364 K<br />(91 °C)
+      - name: Rian IV c
+        type: Dwarf planet
+        formationType: Captured
+        aphelion: 135,762,590 km<br />
+        perihelion: 102,484,049 km<br />
+        semi_major_axis: 119,123,320 km<br />
+        eccentricity: 0.140
+        orbital_period: 2.12 d<br />
+        inclination: 5.69°
+        radius: 51,813.9 km<br/>(8.133 Yrths)
+        surface_area: 3.374 × 10<sup>10</sup> km<sup>2</sup><br/>(66.142 Yrths)
+        volume: 5.827 × 10<sup>14</sup> km<sup>3</sup><br/>(537.918 Yrths)
+        mass: 1.003 × 10<sup>27</sup> kg<br />(168.015 Yrths)
+        density: 1.722 g/cm<sup>3</sup>
+        surface_gravity: 24.911 m/s<sup>2</sup><br />(2.540 g<sub>0</sub>)
+        escape_velocity: 50.843 km/s<br />(183,034 km/h)
+        rotation_period: 39.632 d
+        axial_tilt: 39.67°
+        albedo: 0.30
+        temperature: 364 K<br />(91 °C)
+      - name: Rian IV d
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 139,044,167 km<br />
+        perihelion: 123,027,136 km<br />
+        semi_major_axis: 131,035,652 km<br />
+        eccentricity: 0.061
+        orbital_period: 2.12 d<br />
+        inclination: 0.00°
+        radius: 47,135.3 km<br/>(7.398 Yrths)
+        surface_area: 2.792 × 10<sup>10</sup> km<sup>2</sup><br/>(54.737 Yrths)
+        volume: 4.387 × 10<sup>14</sup> km<sup>3</sup><br/>(404.965 Yrths)
+        mass: 1.057 × 10<sup>27</sup> kg<br />(176.966 Yrths)
+        density: 2.409 g/cm<sup>3</sup>
+        surface_gravity: 31.705 m/s<sup>2</sup><br />(3.233 g<sub>0</sub>)
+        escape_velocity: 54.708 km/s<br />(196,948 km/h)
+        rotation_period: 35.398 d
+        axial_tilt: 13.51°
+        albedo: 0.30
+        temperature: 364 K<br />(91 °C)
+      - name: Rian IV e
+        type: Icy
+        formationType: Impact formed
+        aphelion: 165,881,362 km<br />
+        perihelion: 122,397,072 km<br />
+        semi_major_axis: 144,139,217 km<br />
+        eccentricity: 0.151
+        orbital_period: 2.12 d<br />
+        inclination: 41.54°
+        radius: 28,644.6 km<br/>(4.496 Yrths)
+        surface_area: 1.031 × 10<sup>10</sup> km<sup>2</sup><br/>(20.215 Yrths)
+        volume: 9.845 × 10<sup>13</sup> km<sup>3</sup><br/>(90.888 Yrths)
+        mass: 1.022 × 10<sup>26</sup> kg<br />(17.112 Yrths)
+        density: 1.038 g/cm<sup>3</sup>
+        surface_gravity: 8.301 m/s<sup>2</sup><br />(0.846 g<sub>0</sub>)
+        escape_velocity: 21.822 km/s<br />(78,560 km/h)
+        rotation_period: 59.204 d
+        axial_tilt: 13.13°
+        albedo: 0.30
+        temperature: 364 K<br />(91 °C)
+      - name: Rian IV f
+        type: Asteroid
+        formationType: Captured
+        aphelion: 176,106,459 km<br />
+        perihelion: 140,999,818 km<br />
+        semi_major_axis: 158,553,138 km<br />
+        eccentricity: 0.111
+        orbital_period: 2.12 d<br />
+        inclination: 0.12°
+        radius: 26,047.5 km<br/>(4.088 Yrths)
+        surface_area: 8.526 × 10<sup>09</sup> km<sup>2</sup><br/>(16.715 Yrths)
+        volume: 7.403 × 10<sup>13</sup> km<sup>3</sup><br/>(68.340 Yrths)
+        mass: 1.738 × 10<sup>26</sup> kg<br />(29.095 Yrths)
+        density: 2.347 g/cm<sup>3</sup>
+        surface_gravity: 17.070 m/s<sup>2</sup><br />(1.741 g<sub>0</sub>)
+        escape_velocity: 29.840 km/s<br />(107,426 km/h)
+        rotation_period: 57.386 d
+        axial_tilt: 15.40°
+        albedo: 0.30
+        temperature: 364 K<br />(91 °C)
+      - name: Rian IV g
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 174,999,208 km<br />
+        perihelion: 173,817,697 km<br />
+        semi_major_axis: 174,408,452 km<br />
+        eccentricity: 0.003
+        orbital_period: 2.12 d<br />
+        inclination: 3.08°
+        radius: 43,621.6 km<br/>(6.847 Yrths)
+        surface_area: 2.391 × 10<sup>10</sup> km<sup>2</sup><br/>(46.880 Yrths)
+        volume: 3.477 × 10<sup>14</sup> km<sup>3</sup><br/>(320.983 Yrths)
+        mass: 7.146 × 10<sup>26</sup> kg<br />(119.666 Yrths)
+        density: 2.055 g/cm<sup>3</sup>
+        surface_gravity: 25.032 m/s<sup>2</sup><br />(2.553 g<sub>0</sub>)
+        escape_velocity: 46.764 km/s<br />(168,351 km/h)
+        rotation_period: 53.436 d
+        axial_tilt: 28.60°
+        albedo: 0.30
+        temperature: 364 K<br />(91 °C)
+      - name: <a href="haven.html">Haven</a>
+        type: Dwarf planet
+        formationType: Accreted
+        aphelion: 224,741,235 km<br />
+        perihelion: 158,957,360 km<br />
+        semi_major_axis: 191,849,298 km<br />
+        eccentricity: 0.171
+        orbital_period: 2.12 d<br />
+        inclination: 32.25°
+        radius: 19,949.8 km<br/>(3.131 Yrths)
+        surface_area: 5.001 × 10<sup>09</sup> km<sup>2</sup><br/>(9.805 Yrths)
+        volume: 3.326 × 10<sup>13</sup> km<sup>3</sup><br/>(30.704 Yrths)
+        mass: 5.638 × 10<sup>25</sup> kg<br />(9.442 Yrths)
+        density: 1.695 g/cm<sup>3</sup>
+        surface_gravity: 9.443 m/s<sup>2</sup><br />(0.963 g<sub>0</sub>)
+        escape_velocity: 19.424 km/s<br />(69,925 km/h)
+        rotation_period: 70.568 d
+        axial_tilt: 9.22°
+        albedo: 0.30
+        temperature: 364 K<br />(91 °C)
+      - name: Rian IV i
+        type: Icy
+        formationType: Captured
+        aphelion: 222,536,788 km<br />
+        perihelion: 199,531,667 km<br />
+        semi_major_axis: 211,034,227 km<br />
+        eccentricity: 0.055
+        orbital_period: 2.12 d<br />
+        inclination: 0.00°
+        radius: 34,259.2 km<br/>(5.377 Yrths)
+        surface_area: 1.475 × 10<sup>10</sup> km<sup>2</sup><br/>(28.916 Yrths)
+        volume: 1.684 × 10<sup>14</sup> km<sup>3</sup><br/>(155.492 Yrths)
+        mass: 1.688 × 10<sup>26</sup> kg<br />(28.263 Yrths)
+        density: 1.002 g/cm<sup>3</sup>
+        surface_gravity: 9.585 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
+        escape_velocity: 25.645 km/s<br />(92,321 km/h)
+        rotation_period: 74.317 d
+        axial_tilt: 12.48°
+        albedo: 0.30
+        temperature: 364 K<br />(91 °C)
 ---

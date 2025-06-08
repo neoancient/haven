@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0041 Saithiad D is a star in the constellation Saith
+      0041 Saithiad D is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1097.41 ly
 apparent_magnitude: 13.06
 absolute_magnitude: 5.42

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7130 Dialkeshiad A is a star in the constellation Dialkes
+      7130 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1153.07 ly
 apparent_magnitude: 7.27
 absolute_magnitude: -0.48

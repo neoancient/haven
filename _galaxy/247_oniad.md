@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      247 Oniad is a star in the constellation Oni
+      247 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 945.06 ly
 apparent_magnitude: 9.65
 absolute_magnitude: 2.34

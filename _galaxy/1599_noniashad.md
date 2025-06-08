@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1599 Noniashad is a star in the constellation Nonias
+      1599 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 995.15 ly
 apparent_magnitude: 12.26
 absolute_magnitude: 4.84

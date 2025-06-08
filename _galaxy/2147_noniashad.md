@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2147 Noniashad is a star in the constellation Nonias
+      2147 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 527.43 ly
 apparent_magnitude: 9.96
 absolute_magnitude: 3.92

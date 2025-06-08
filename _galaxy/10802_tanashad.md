@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10802 Tanashad is a star in the constellation Tanas
+      10802 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 123.25 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 5.17
@@ -31,7 +31,7 @@ planets:
     radius: 170.9 km<br/>(0.027 Yrths)
     surface_area: 3.672 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.092 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.698 × 10<sup>26</sup> kg<br />(112.1513967204257 Yrths)
+    mass: 6.698 × 10<sup>26</sup> kg<br />(112.15 Yrths)
     density: 32009312.690 g/cm<sup>3</sup>
     surface_gravity: 1527686.429 m/s<sup>2</sup><br />(155780.662 g<sub>0</sub>)
     escape_velocity: 723.192 km/s<br />(2,603,491 km/h)
@@ -41,6 +41,46 @@ planets:
     temperature: 268 K<br />(-5 °C)
     moons:
       - name: 10802 Tanashad I a
+        type: Icy
+        formationType: Captured
+        aphelion: 3,259,764 km<br />
+        perihelion: 2,982,829 km<br />
+        semi_major_axis: 3,121,297 km<br />
+        eccentricity: 0.044
+        orbital_period: 0.00 d<br />
+        inclination: 6.20°
+        radius: 27,043.7 km<br/>(4.245 Yrths)
+        surface_area: 9.191 × 10<sup>09</sup> km<sup>2</sup><br/>(18.018 Yrths)
+        volume: 8.285 × 10<sup>13</sup> km<sup>3</sup><br/>(76.485 Yrths)
+        mass: 1.182 × 10<sup>26</sup> kg<br />(19.800 Yrths)
+        density: 1.427 g/cm<sup>3</sup>
+        surface_gravity: 10.777 m/s<sup>2</sup><br />(1.099 g<sub>0</sub>)
+        escape_velocity: 24.159 km/s<br />(86,973 km/h)
+        rotation_period: 46.710 d
+        axial_tilt: 16.98°
+        albedo: 0.30
+        temperature: 279 K<br />(5 °C)
+      - name: 10802 Tanashad I b
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 10,303,202 km<br />
+        perihelion: 9,288,731 km<br />
+        semi_major_axis: 9,795,966 km<br />
+        eccentricity: 0.052
+        orbital_period: 0.00 d<br />
+        inclination: 1.05°
+        radius: 16,956.9 km<br/>(2.662 Yrths)
+        surface_area: 3.613 × 10<sup>09</sup> km<sup>2</sup><br/>(7.084 Yrths)
+        volume: 2.042 × 10<sup>13</sup> km<sup>3</sup><br/>(18.855 Yrths)
+        mass: 4.159 × 10<sup>25</sup> kg<br />(6.964 Yrths)
+        density: 2.036 g/cm<sup>3</sup>
+        surface_gravity: 9.640 m/s<sup>2</sup><br />(0.983 g<sub>0</sub>)
+        escape_velocity: 18.094 km/s<br />(65,137 km/h)
+        rotation_period: 50.589 d
+        axial_tilt: 22.63°
+        albedo: 0.30
+        temperature: 279 K<br />(5 °C)
+      - name: 10802 Tanashad I c
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 15,719,823 km<br />
@@ -52,15 +92,35 @@ planets:
         radius: 75,608.4 km<br/>(11.868 Yrths)
         surface_area: 7.184 × 10<sup>10</sup> km<sup>2</sup><br/>(140.840 Yrths)
         volume: 1.811 × 10<sup>15</sup> km<sup>3</sup><br/>(1671.430 Yrths)
-        mass: 4.973 × 10<sup>27</sup> kg<br />(112.1513967204257 Yrths)
+        mass: 4.973 × 10<sup>27</sup> kg<br />(832.701 Yrths)
         density: 2.747 g/cm<sup>3</sup>
         surface_gravity: 57.981 m/s<sup>2</sup><br />(5.912 g<sub>0</sub>)
         escape_velocity: 93.699 km/s<br />(337,318 km/h)
         rotation_period: 42.338 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 772 K<br />(499 °C)
-      - name: 10802 Tanashad I b
+        temperature: 279 K<br />(5 °C)
+      - name: 10802 Tanashad I d
+        type: Icy
+        formationType: Captured
+        aphelion: 16,174,262 km<br />
+        perihelion: 15,378,741 km<br />
+        semi_major_axis: 15,776,502 km<br />
+        eccentricity: 0.025
+        orbital_period: 0.00 d<br />
+        inclination: 3.77°
+        radius: 25,124.3 km<br/>(3.944 Yrths)
+        surface_area: 7.932 × 10<sup>09</sup> km<sup>2</sup><br/>(15.551 Yrths)
+        volume: 6.643 × 10<sup>13</sup> km<sup>3</sup><br/>(61.328 Yrths)
+        mass: 9.272 × 10<sup>25</sup> kg<br />(15.525 Yrths)
+        density: 1.396 g/cm<sup>3</sup>
+        surface_gravity: 9.790 m/s<sup>2</sup><br />(0.998 g<sub>0</sub>)
+        escape_velocity: 22.195 km/s<br />(79,902 km/h)
+        rotation_period: 56.123 d
+        axial_tilt: 18.80°
+        albedo: 0.30
+        temperature: 279 K<br />(5 °C)
+      - name: 10802 Tanashad I e
         type: Dwarf planet
         formationType: Accreted
         aphelion: 18,609,192 km<br />
@@ -72,15 +132,15 @@ planets:
         radius: 83,454.5 km<br/>(13.099 Yrths)
         surface_area: 8.752 × 10<sup>10</sup> km<sup>2</sup><br/>(171.587 Yrths)
         volume: 2.435 × 10<sup>15</sup> km<sup>3</sup><br/>(2247.637 Yrths)
-        mass: 4.833 × 10<sup>27</sup> kg<br />(112.1513967204257 Yrths)
+        mass: 4.833 × 10<sup>27</sup> kg<br />(809.260 Yrths)
         density: 1.985 g/cm<sup>3</sup>
         surface_gravity: 46.251 m/s<sup>2</sup><br />(4.716 g<sub>0</sub>)
         escape_velocity: 87.922 km/s<br />(316,519 km/h)
         rotation_period: 52.340 d
         axial_tilt: 19.17°
         albedo: 0.30
-        temperature: 702 K<br />(428 °C)
-      - name: 10802 Tanashad I c
+        temperature: 279 K<br />(5 °C)
+      - name: 10802 Tanashad I f
         type: Icy
         formationType: Accreted
         aphelion: 26,159,364 km<br />
@@ -92,15 +152,35 @@ planets:
         radius: 125,226.9 km<br/>(19.656 Yrths)
         surface_area: 1.971 × 10<sup>11</sup> km<sup>2</sup><br/>(386.349 Yrths)
         volume: 8.226 × 10<sup>15</sup> km<sup>3</sup><br/>(7593.996 Yrths)
-        mass: 8.317 × 10<sup>27</sup> kg<br />(112.1513967204257 Yrths)
+        mass: 8.317 × 10<sup>27</sup> kg<br />(1392.660 Yrths)
         density: 1.011 g/cm<sup>3</sup>
         surface_gravity: 35.350 m/s<sup>2</sup><br />(3.605 g<sub>0</sub>)
         escape_velocity: 94.157 km/s<br />(338,964 km/h)
         rotation_period: 95.958 d
         axial_tilt: 11.36°
         albedo: 0.30
-        temperature: 608 K<br />(335 °C)
-      - name: 10802 Tanashad I d
+        temperature: 279 K<br />(5 °C)
+      - name: 10802 Tanashad I g
+        type: Icy
+        formationType: Impact formed
+        aphelion: 27,938,612 km<br />
+        perihelion: 22,877,815 km<br />
+        semi_major_axis: 25,408,213 km<br />
+        eccentricity: 0.100
+        orbital_period: 0.00 d<br />
+        inclination: 5.80°
+        radius: 24,957.9 km<br/>(3.917 Yrths)
+        surface_area: 7.828 × 10<sup>09</sup> km<sup>2</sup><br/>(15.346 Yrths)
+        volume: 6.512 × 10<sup>13</sup> km<sup>3</sup><br/>(60.117 Yrths)
+        mass: 1.002 × 10<sup>26</sup> kg<br />(16.773 Yrths)
+        density: 1.538 g/cm<sup>3</sup>
+        surface_gravity: 10.718 m/s<sup>2</sup><br />(1.093 g<sub>0</sub>)
+        escape_velocity: 23.146 km/s<br />(83,326 km/h)
+        rotation_period: 40.966 d
+        axial_tilt: 23.53°
+        albedo: 0.30
+        temperature: 279 K<br />(5 °C)
+      - name: 10802 Tanashad I h
         type: Icy
         formationType: Captured
         aphelion: 48,329,982 km<br />
@@ -112,15 +192,35 @@ planets:
         radius: 110,557.9 km<br/>(17.353 Yrths)
         surface_area: 1.536 × 10<sup>11</sup> km<sup>2</sup><br/>(301.137 Yrths)
         volume: 5.661 × 10<sup>15</sup> km<sup>3</sup><br/>(5225.728 Yrths)
-        mass: 5.391 × 10<sup>27</sup> kg<br />(112.1513967204257 Yrths)
+        mass: 5.391 × 10<sup>27</sup> kg<br />(902.746 Yrths)
         density: 0.952 g/cm<sup>3</sup>
         surface_gravity: 29.398 m/s<sup>2</sup><br />(2.998 g<sub>0</sub>)
         escape_velocity: 80.680 km/s<br />(290,448 km/h)
         rotation_period: 60.145 d
         axial_tilt: 18.81°
         albedo: 0.30
-        temperature: 457 K<br />(184 °C)
-      - name: 10802 Tanashad I e
+        temperature: 279 K<br />(5 °C)
+      - name: 10802 Tanashad I i
+        type: Icy
+        formationType: Accreted
+        aphelion: 49,999,584 km<br />
+        perihelion: 49,027,256 km<br />
+        semi_major_axis: 49,513,420 km<br />
+        eccentricity: 0.010
+        orbital_period: 0.00 d<br />
+        inclination: 0.00°
+        radius: 27,495.3 km<br/>(4.316 Yrths)
+        surface_area: 9.500 × 10<sup>09</sup> km<sup>2</sup><br/>(18.625 Yrths)
+        volume: 8.707 × 10<sup>13</sup> km<sup>3</sup><br/>(80.380 Yrths)
+        mass: 1.095 × 10<sup>26</sup> kg<br />(18.331 Yrths)
+        density: 1.257 g/cm<sup>3</sup>
+        surface_gravity: 9.652 m/s<sup>2</sup><br />(0.984 g<sub>0</sub>)
+        escape_velocity: 23.054 km/s<br />(82,994 km/h)
+        rotation_period: 56.099 d
+        axial_tilt: 12.58°
+        albedo: 0.30
+        temperature: 279 K<br />(5 °C)
+      - name: 10802 Tanashad I j
         type: Icy
         formationType: Accreted
         aphelion: 111,004,749 km<br />
@@ -132,14 +232,14 @@ planets:
         radius: 120,810.8 km<br/>(18.963 Yrths)
         surface_area: 1.834 × 10<sup>11</sup> km<sup>2</sup><br/>(359.581 Yrths)
         volume: 7.386 × 10<sup>15</sup> km<sup>3</sup><br/>(6818.586 Yrths)
-        mass: 5.170 × 10<sup>27</sup> kg<br />(112.1513967204257 Yrths)
+        mass: 5.170 × 10<sup>27</sup> kg<br />(865.733 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 23.611 m/s<sup>2</sup><br />(2.408 g<sub>0</sub>)
         escape_velocity: 75.582 km/s<br />(272,094 km/h)
         rotation_period: 76.123 d
         axial_tilt: 15.62°
         albedo: 0.30
-        temperature: 284 K<br />(11 °C)
+        temperature: 279 K<br />(5 °C)
   - name: 10802 Tanashad II
     type: Ice giant
     aphelion: 187,659,494 km<br />1.254 AU
@@ -151,14 +251,14 @@ planets:
     radius: 30,989.2 km<br/>(4.864 Yrths)
     surface_area: 1.207 × 10<sup>10</sup> km<sup>2</sup><br/>(23.659 Yrths)
     volume: 1.247 × 10<sup>14</sup> km<sup>3</sup><br/>(115.082 Yrths)
-    mass: 1.684 × 10<sup>26</sup> kg<br />(28.204616729317312 Yrths)
+    mass: 1.684 × 10<sup>26</sup> kg<br />(28.20 Yrths)
     density: 1.351 g/cm<sup>3</sup>
     surface_gravity: 11.691 m/s<sup>2</sup><br />(1.192 g<sub>0</sub>)
     escape_velocity: 26.936 km/s<br />(96,970 km/h)
     rotation_period: 0.593 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 403 K<br />(130 °C)
+    temperature: 376 K<br />(103 °C)
     composition:
       - 82.9929% helium
       - 7.8465% methane
@@ -177,14 +277,14 @@ planets:
         radius: 51,631.7 km<br/>(8.104 Yrths)
         surface_area: 3.350 × 10<sup>10</sup> km<sup>2</sup><br/>(65.678 Yrths)
         volume: 5.765 × 10<sup>14</sup> km<sup>3</sup><br/>(532.262 Yrths)
-        mass: 8.273 × 10<sup>26</sup> kg<br />(28.204616729317312 Yrths)
+        mass: 8.273 × 10<sup>26</sup> kg<br />(138.524 Yrths)
         density: 1.435 g/cm<sup>3</sup>
         surface_gravity: 20.684 m/s<sup>2</sup><br />(2.109 g<sub>0</sub>)
         escape_velocity: 46.247 km/s<br />(166,489 km/h)
         rotation_period: 54.153 d
         axial_tilt: 15.14°
         albedo: 0.30
-        temperature: 1775 K<br />(1502 °C)
+        temperature: 215 K<br />(-58 °C)
       - name: 10802 Tanashad II b
         type: Icy
         formationType: Captured
@@ -197,14 +297,14 @@ planets:
         radius: 46,334.6 km<br/>(7.273 Yrths)
         surface_area: 2.698 × 10<sup>10</sup> km<sup>2</sup><br/>(52.893 Yrths)
         volume: 4.167 × 10<sup>14</sup> km<sup>3</sup><br/>(384.674 Yrths)
-        mass: 4.097 × 10<sup>26</sup> kg<br />(28.204616729317312 Yrths)
+        mass: 4.097 × 10<sup>26</sup> kg<br />(68.609 Yrths)
         density: 0.983 g/cm<sup>3</sup>
         surface_gravity: 12.721 m/s<sup>2</sup><br />(1.297 g<sub>0</sub>)
         escape_velocity: 34.357 km/s<br />(123,686 km/h)
         rotation_period: 61.888 d
         axial_tilt: 10.88°
         albedo: 0.30
-        temperature: 1692 K<br />(1419 °C)
+        temperature: 215 K<br />(-58 °C)
       - name: 10802 Tanashad II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -217,14 +317,14 @@ planets:
         radius: 46,502.0 km<br/>(7.299 Yrths)
         surface_area: 2.717 × 10<sup>10</sup> km<sup>2</sup><br/>(53.276 Yrths)
         volume: 4.212 × 10<sup>14</sup> km<sup>3</sup><br/>(388.858 Yrths)
-        mass: 9.662 × 10<sup>26</sup> kg<br />(28.204616729317312 Yrths)
+        mass: 9.662 × 10<sup>26</sup> kg<br />(161.795 Yrths)
         density: 2.294 g/cm<sup>3</sup>
         surface_gravity: 29.782 m/s<sup>2</sup><br />(3.037 g<sub>0</sub>)
         escape_velocity: 52.665 km/s<br />(189,595 km/h)
         rotation_period: 47.230 d
         axial_tilt: 13.12°
         albedo: 0.30
-        temperature: 1613 K<br />(1340 °C)
+        temperature: 215 K<br />(-58 °C)
       - name: 10802 Tanashad II d
         type: Icy
         formationType: Captured
@@ -237,14 +337,14 @@ planets:
         radius: 33,346.0 km<br/>(5.234 Yrths)
         surface_area: 1.397 × 10<sup>10</sup> km<sup>2</sup><br/>(27.395 Yrths)
         volume: 1.553 × 10<sup>14</sup> km<sup>3</sup><br/>(143.387 Yrths)
-        mass: 1.087 × 10<sup>26</sup> kg<br />(28.204616729317312 Yrths)
+        mass: 1.087 × 10<sup>26</sup> kg<br />(18.205 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 6.517 m/s<sup>2</sup><br />(0.665 g<sub>0</sub>)
         escape_velocity: 20.862 km/s<br />(75,103 km/h)
         rotation_period: 103.307 d
         axial_tilt: 16.84°
         albedo: 0.30
-        temperature: 1538 K<br />(1265 °C)
+        temperature: 215 K<br />(-58 °C)
       - name: 10802 Tanashad II e
         type: Icy
         formationType: Captured
@@ -257,14 +357,14 @@ planets:
         radius: 16,408.9 km<br/>(2.576 Yrths)
         surface_area: 3.384 × 10<sup>09</sup> km<sup>2</sup><br/>(6.634 Yrths)
         volume: 1.851 × 10<sup>13</sup> km<sup>3</sup><br/>(17.085 Yrths)
-        mass: 1.963 × 10<sup>25</sup> kg<br />(28.204616729317312 Yrths)
+        mass: 1.963 × 10<sup>25</sup> kg<br />(3.287 Yrths)
         density: 1.061 g/cm<sup>3</sup>
         surface_gravity: 4.859 m/s<sup>2</sup><br />(0.495 g<sub>0</sub>)
         escape_velocity: 12.637 km/s<br />(45,491 km/h)
         rotation_period: 80.680 d
         axial_tilt: 14.46°
         albedo: 0.30
-        temperature: 1467 K<br />(1194 °C)
+        temperature: 215 K<br />(-58 °C)
       - name: 10802 Tanashad II f
         type: Icy
         formationType: Captured
@@ -277,14 +377,14 @@ planets:
         radius: 42,110.5 km<br/>(6.610 Yrths)
         surface_area: 2.228 × 10<sup>10</sup> km<sup>2</sup><br/>(43.688 Yrths)
         volume: 3.128 × 10<sup>14</sup> km<sup>3</sup><br/>(288.768 Yrths)
-        mass: 3.559 × 10<sup>26</sup> kg<br />(28.204616729317312 Yrths)
+        mass: 3.559 × 10<sup>26</sup> kg<br />(59.602 Yrths)
         density: 1.138 g/cm<sup>3</sup>
         surface_gravity: 13.379 m/s<sup>2</sup><br />(1.364 g<sub>0</sub>)
         escape_velocity: 33.590 km/s<br />(120,924 km/h)
         rotation_period: 63.358 d
         axial_tilt: 17.47°
         albedo: 0.30
-        temperature: 1271 K<br />(998 °C)
+        temperature: 215 K<br />(-58 °C)
   - name: 10802 Tanashad III
     type: Large terrestrial
     aphelion: 330,114,237 km<br />2.207 AU
@@ -296,14 +396,14 @@ planets:
     radius: 10,380.0 km<br/>(1.629 Yrths)
     surface_area: 1.354 × 10<sup>09</sup> km<sup>2</sup><br/>(2.654 Yrths)
     volume: 4.685 × 10<sup>12</sup> km<sup>3</sup><br/>(4.325 Yrths)
-    mass: 2.871 × 10<sup>25</sup> kg<br />(4.8079569125382005 Yrths)
+    mass: 2.871 × 10<sup>25</sup> kg<br />(4.81 Yrths)
     density: 6.129 g/cm<sup>3</sup>
     surface_gravity: 17.762 m/s<sup>2</sup><br />(1.811 g<sub>0</sub>)
     escape_velocity: 19.216 km/s<br />(69,177 km/h)
     rotation_period: 0.775 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 207 K<br />(-66 °C)
+    temperature: 223 K<br />(-50 °C)
     surface_pressure: 141 kPa<br />(1 atm)
     composition:
       - 81.6768% ammonia
@@ -324,14 +424,14 @@ planets:
         radius: 7,874.8 km<br/>(1.236 Yrths)
         surface_area: 7.793 × 10<sup>08</sup> km<sup>2</sup><br/>(1.528 Yrths)
         volume: 2.046 × 10<sup>12</sup> km<sup>3</sup><br/>(1.888 Yrths)
-        mass: 6.639 × 10<sup>24</sup> kg<br />(4.8079569125382005 Yrths)
+        mass: 6.639 × 10<sup>24</sup> kg<br />(1.112 Yrths)
         density: 3.245 g/cm<sup>3</sup>
         surface_gravity: 7.135 m/s<sup>2</sup><br />(0.728 g<sub>0</sub>)
         escape_velocity: 10.608 km/s<br />(38,189 km/h)
         rotation_period: 41.124 d
         axial_tilt: 17.04°
         albedo: 0.30
-        temperature: 1883 K<br />(1609 °C)
+        temperature: 166 K<br />(-107 °C)
       - name: 10802 Tanashad III b
         type: Rocky
         formationType: Impact formed
@@ -344,12 +444,12 @@ planets:
         radius: 6,936.5 km<br/>(1.089 Yrths)
         surface_area: 6.046 × 10<sup>08</sup> km<sup>2</sup><br/>(1.185 Yrths)
         volume: 1.398 × 10<sup>12</sup> km<sup>3</sup><br/>(1.291 Yrths)
-        mass: 4.032 × 10<sup>24</sup> kg<br />(4.8079569125382005 Yrths)
+        mass: 4.032 × 10<sup>24</sup> kg<br />(0.675 Yrths)
         density: 2.884 g/cm<sup>3</sup>
         surface_gravity: 5.585 m/s<sup>2</sup><br />(0.569 g<sub>0</sub>)
         escape_velocity: 8.808 km/s<br />(31,710 km/h)
         rotation_period: 42.230 d
         axial_tilt: 13.75°
         albedo: 0.30
-        temperature: 1795 K<br />(1522 °C)
+        temperature: 166 K<br />(-107 °C)
 ---

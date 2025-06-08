@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      837 Lulithannaid is a star in the constellation Lulithan
+      837 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 206.90 ly
 apparent_magnitude: 9.66
 absolute_magnitude: 5.65

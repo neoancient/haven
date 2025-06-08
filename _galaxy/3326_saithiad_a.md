@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3326 Saithiad A is a star in the constellation Saith
+      3326 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1287.44 ly
 apparent_magnitude: 6.55
 absolute_magnitude: -1.43

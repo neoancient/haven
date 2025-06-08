@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3892 Anilliad is a star in the constellation Anil
+      3892 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 341.49 ly
 apparent_magnitude: 10.37
 absolute_magnitude: 5.27

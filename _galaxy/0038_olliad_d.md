@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0038 Olliad D is a star in the constellation Ol
+      0038 Olliad D is a star in the constellation <a href="ol.html">Ol</a>
 distance: 99.97 ly
 apparent_magnitude: 12.34
 absolute_magnitude: 9.91
@@ -31,14 +31,14 @@ planets:
     radius: 2,956.3 km<br/>(0.464 Yrths)
     surface_area: 1.098 × 10<sup>08</sup> km<sup>2</sup><br/>(0.215 Yrths)
     volume: 1.082 × 10<sup>11</sup> km<sup>3</sup><br/>(0.100 Yrths)
-    mass: 3.611 × 10<sup>24</sup> kg<br />(0.6046442717998854 Yrths)
+    mass: 3.611 × 10<sup>24</sup> kg<br />(0.60 Yrths)
     density: 33.363 g/cm<sup>3</sup>
     surface_gravity: 27.538 m/s<sup>2</sup><br />(2.808 g<sub>0</sub>)
     escape_velocity: 12.769 km/s<br />(45,968 km/h)
     rotation_period: 3.471 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 389 K<br />(116 °C)
+    temperature: 968 K<br />(695 °C)
     surface_pressure: 87 kPa<br />(1 atm)
     composition:
       - 77.1730% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 1,497.6 km<br/>(0.235 Yrths)
         surface_area: 2.818 × 10<sup>07</sup> km<sup>2</sup><br/>(0.055 Yrths)
         volume: 1.407 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 3.945 × 10<sup>22</sup> kg<br />(0.6046442717998854 Yrths)
+        mass: 3.945 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 2.804 g/cm<sup>3</sup>
         surface_gravity: 1.172 m/s<sup>2</sup><br />(0.120 g<sub>0</sub>)
         escape_velocity: 1.875 km/s<br />(6,751 km/h)
         rotation_period: 33.141 d
         axial_tilt: 10.08°
         albedo: 0.30
-        temperature: 4175 K<br />(3902 °C)
+        temperature: 259 K<br />(-14 °C)
   - name: 0038 Olliad D II
     type: Terrestrial
     aphelion: 56,319,610 km<br />0.376 AU
@@ -76,7 +76,7 @@ planets:
     radius: 3,148.9 km<br/>(0.494 Yrths)
     surface_area: 1.246 × 10<sup>08</sup> km<sup>2</sup><br/>(0.244 Yrths)
     volume: 1.308 × 10<sup>11</sup> km<sup>3</sup><br/>(0.121 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.566 g/cm<sup>3</sup>
     surface_gravity: 4.014 m/s<sup>2</sup><br />(0.409 g<sub>0</sub>)
     escape_velocity: 5.032 km/s<br />(18,113 km/h)
@@ -97,14 +97,14 @@ planets:
         radius: 387.9 km<br/>(0.061 Yrths)
         surface_area: 1.891 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.445 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.056 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.056 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.476 g/cm<sup>3</sup>
         surface_gravity: 0.268 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.456 km/s<br />(1,643 km/h)
         rotation_period: 37.745 d
         axial_tilt: 18.45°
         albedo: 0.30
-        temperature: 3602 K<br />(3329 °C)
+        temperature: 208 K<br />(-66 °C)
       - name: 0038 Olliad D II b
         type: Rocky
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 455.7 km<br/>(0.072 Yrths)
         surface_area: 2.610 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.965 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.182 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.182 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.981 g/cm<sup>3</sup>
         surface_gravity: 0.379 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.588 km/s<br />(2,118 km/h)
         rotation_period: 50.907 d
         axial_tilt: 6.54°
         albedo: 0.30
-        temperature: 3435 K<br />(3162 °C)
+        temperature: 208 K<br />(-66 °C)
   - name: 0038 Olliad D III
     type: Terrestrial
     aphelion: 87,999,096 km<br />0.588 AU
@@ -136,7 +136,7 @@ planets:
     radius: 4,077.9 km<br/>(0.640 Yrths)
     surface_area: 2.090 × 10<sup>08</sup> km<sup>2</sup><br/>(0.410 Yrths)
     volume: 2.840 × 10<sup>11</sup> km<sup>3</sup><br/>(0.262 Yrths)
-    mass: 2.242 × 10<sup>24</sup> kg<br />(0.3753937901135156 Yrths)
+    mass: 2.242 × 10<sup>24</sup> kg<br />(0.38 Yrths)
     density: 7.893 g/cm<sup>3</sup>
     surface_gravity: 8.986 m/s<sup>2</sup><br />(0.916 g<sub>0</sub>)
     escape_velocity: 8.567 km/s<br />(30,839 km/h)
@@ -157,14 +157,14 @@ planets:
         radius: 1,094.4 km<br/>(0.172 Yrths)
         surface_area: 1.505 × 10<sup>07</sup> km<sup>2</sup><br/>(0.030 Yrths)
         volume: 5.491 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.283 × 10<sup>22</sup> kg<br />(0.3753937901135156 Yrths)
+        mass: 1.283 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.337 g/cm<sup>3</sup>
         surface_gravity: 0.714 m/s<sup>2</sup><br />(0.073 g<sub>0</sub>)
         escape_velocity: 1.251 km/s<br />(4,504 km/h)
         rotation_period: 34.395 d
         axial_tilt: 12.95°
         albedo: 0.30
-        temperature: 2318 K<br />(2045 °C)
+        temperature: 167 K<br />(-107 °C)
   - name: 0038 Olliad D IV
     type: Terrestrial
     aphelion: 137,401,403 km<br />0.918 AU
@@ -176,14 +176,14 @@ planets:
     radius: 5,203.4 km<br/>(0.817 Yrths)
     surface_area: 3.402 × 10<sup>08</sup> km<sup>2</sup><br/>(0.667 Yrths)
     volume: 5.901 × 10<sup>11</sup> km<sup>3</sup><br/>(0.545 Yrths)
-    mass: 3.938 × 10<sup>24</sup> kg<br />(0.6593776580982347 Yrths)
+    mass: 3.938 × 10<sup>24</sup> kg<br />(0.66 Yrths)
     density: 6.673 g/cm<sup>3</sup>
     surface_gravity: 9.694 m/s<sup>2</sup><br />(0.988 g<sub>0</sub>)
     escape_velocity: 10.051 km/s<br />(36,183 km/h)
     rotation_period: 1.415 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 152 K<br />(-121 °C)
+    temperature: 208 K<br />(-66 °C)
     surface_pressure: 17 kPa<br />(0 atm)
     composition:
       - 97.1934% methane
@@ -204,14 +204,14 @@ planets:
         radius: 1,843.2 km<br/>(0.289 Yrths)
         surface_area: 4.269 × 10<sup>07</sup> km<sup>2</sup><br/>(0.084 Yrths)
         volume: 2.623 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 5.242 × 10<sup>22</sup> kg<br />(0.6593776580982347 Yrths)
+        mass: 5.242 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 1.998 g/cm<sup>3</sup>
         surface_gravity: 1.028 m/s<sup>2</sup><br />(0.105 g<sub>0</sub>)
         escape_velocity: 1.948 km/s<br />(7,014 km/h)
         rotation_period: 42.267 d
         axial_tilt: 14.36°
         albedo: 0.30
-        temperature: 1778 K<br />(1505 °C)
+        temperature: 134 K<br />(-140 °C)
       - name: 0038 Olliad D IV b
         type: Rocky
         formationType: Captured
@@ -224,12 +224,12 @@ planets:
         radius: 1,485.0 km<br/>(0.233 Yrths)
         surface_area: 2.771 × 10<sup>07</sup> km<sup>2</sup><br/>(0.054 Yrths)
         volume: 1.372 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 3.392 × 10<sup>22</sup> kg<br />(0.6593776580982347 Yrths)
+        mass: 3.392 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 2.473 g/cm<sup>3</sup>
         surface_gravity: 1.025 m/s<sup>2</sup><br />(0.105 g<sub>0</sub>)
         escape_velocity: 1.746 km/s<br />(6,286 km/h)
         rotation_period: 39.813 d
         axial_tilt: 14.91°
         albedo: 0.30
-        temperature: 1695 K<br />(1422 °C)
+        temperature: 134 K<br />(-140 °C)
 ---

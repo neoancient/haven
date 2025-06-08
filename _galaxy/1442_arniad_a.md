@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1442 Arniad A is a star in the constellation Arni
+      1442 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 224.21 ly
 apparent_magnitude: 7.61
 absolute_magnitude: 3.42

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0346 Tanashad B is a star in the constellation Tanas
+      0346 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 2344.31 ly
 apparent_magnitude: 14.08
 absolute_magnitude: 4.79

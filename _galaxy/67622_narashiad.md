@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      67622 Narashiad is a star in the constellation Naras
+      67622 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 594.84 ly
 apparent_magnitude: 8.32
 absolute_magnitude: 2.02

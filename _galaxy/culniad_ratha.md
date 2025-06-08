@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      Culniad Ratha is a star in the constellation Kuln
+      Culniad Ratha is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 150.10 ly
 apparent_magnitude: 2.81
 absolute_magnitude: -0.50

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12016 Dialkeshiad is a star in the constellation Dialkes
+      12016 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1051.20 ly
 apparent_magnitude: 17.55
 absolute_magnitude: 10.01

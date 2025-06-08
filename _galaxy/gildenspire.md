@@ -26,14 +26,14 @@ planet:
   escape_velocity: 11.190 km/s<br />(40,284 km/h)
   rotation_period: 2.004 d
   axial_tilt: 0.00°
-  albedo: 0.30
-  temperature: 271 K<br />(-3 °C)
-  surface_pressure: 83 kPa<br />(1 atm)
+  albedo: 0.20
+  temperature: 283 K<br />(10 °C)
+  surface_pressure: 108 kPa<br />(1 atm)
   composition:
-    - 79.0039% nitrogen
+    - 78.9552% nitrogen
     - 20.4926% oxygen
     - 0.4835% argon
-    - 0.0200% carbon dioxide
+    - 0.0686% carbon dioxide
   moons:
     - name: Gildenspire a
       type: Icy
@@ -47,12 +47,12 @@ planet:
       radius: 2,657.9 km<br/>(0.417 Yrths)
       surface_area: 8.877 × 10<sup>07</sup> km<sup>2</sup><br/>(0.174 Yrths)
       volume: 7.865 × 10<sup>10</sup> km<sup>3</sup><br/>(0.073 Yrths)
-      mass: 8.416 × 10<sup>22</sup> kg<br />(1.0499493189861542 Yrths)
+      mass: 8.416 × 10<sup>22</sup> kg<br />(0.014 Yrths)
       density: 1.070 g/cm<sup>3</sup>
       surface_gravity: 0.794 m/s<sup>2</sup><br />(0.081 g<sub>0</sub>)
       escape_velocity: 2.056 km/s<br />(7,401 km/h)
       rotation_period: 74.780 d
       axial_tilt: 14.88°
       albedo: 0.30
-      temperature: 3336 K<br />(3063 °C)
+      temperature: 257 K<br />(-16 °C)
 ---

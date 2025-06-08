@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2345 Arniad A is a star in the constellation Arni
+      2345 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 952.45 ly
 apparent_magnitude: 7.34
 absolute_magnitude: 0.01

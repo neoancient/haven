@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0339 Irsaiad A is a star in the constellation Irsa
+      0339 Irsaiad A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 272.94 ly
 apparent_magnitude: 6.55
 absolute_magnitude: 1.94

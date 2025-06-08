@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3248 Dialkeshiad is a star in the constellation Dialkes
+      3248 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 268.91 ly
 apparent_magnitude: 10.37
 absolute_magnitude: 5.79
@@ -31,7 +31,7 @@ planets:
     radius: 183.4 km<br/>(0.029 Yrths)
     surface_area: 4.228 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.585 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.166 × 10<sup>26</sup> kg<br />(119.9952731167647 Yrths)
+    mass: 7.166 × 10<sup>26</sup> kg<br />(120.00 Yrths)
     density: 27721246.603 g/cm<sup>3</sup>
     surface_gravity: 1419640.268 m/s<sup>2</sup><br />(144763.020 g<sub>0</sub>)
     escape_velocity: 722.153 km/s<br />(2,599,752 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 107,934.2 km<br/>(16.941 Yrths)
         surface_area: 1.464 × 10<sup>11</sup> km<sup>2</sup><br/>(287.014 Yrths)
         volume: 5.267 × 10<sup>15</sup> km<sup>3</sup><br/>(4862.446 Yrths)
-        mass: 4.786 × 10<sup>27</sup> kg<br />(119.9952731167647 Yrths)
+        mass: 4.786 × 10<sup>27</sup> kg<br />(801.357 Yrths)
         density: 0.909 g/cm<sup>3</sup>
         surface_gravity: 27.381 m/s<sup>2</sup><br />(2.792 g<sub>0</sub>)
         escape_velocity: 76.933 km/s<br />(276,958 km/h)
         rotation_period: 75.522 d
         axial_tilt: 17.76°
         albedo: 0.30
-        temperature: 1244 K<br />(971 °C)
+        temperature: 243 K<br />(-31 °C)
       - name: 3248 Dialkeshiad I b
         type: Asteroid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 84,954.6 km<br/>(13.335 Yrths)
         surface_area: 9.070 × 10<sup>10</sup> km<sup>2</sup><br/>(177.811 Yrths)
         volume: 2.568 × 10<sup>15</sup> km<sup>3</sup><br/>(2371.038 Yrths)
-        mass: 5.759 × 10<sup>27</sup> kg<br />(119.9952731167647 Yrths)
+        mass: 5.759 × 10<sup>27</sup> kg<br />(964.285 Yrths)
         density: 2.242 g/cm<sup>3</sup>
         surface_gravity: 53.182 m/s<sup>2</sup><br />(5.423 g<sub>0</sub>)
         escape_velocity: 95.123 km/s<br />(342,444 km/h)
         rotation_period: 41.880 d
         axial_tilt: 10.70°
         albedo: 0.30
-        temperature: 1131 K<br />(858 °C)
+        temperature: 243 K<br />(-31 °C)
       - name: 3248 Dialkeshiad I c
         type: Icy
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 151,797.5 km<br/>(23.826 Yrths)
         surface_area: 2.896 × 10<sup>11</sup> km<sup>2</sup><br/>(567.694 Yrths)
         volume: 1.465 × 10<sup>16</sup> km<sup>3</sup><br/>(13526.051 Yrths)
-        mass: 1.605 × 10<sup>28</sup> kg<br />(119.9952731167647 Yrths)
+        mass: 1.605 × 10<sup>28</sup> kg<br />(2687.290 Yrths)
         density: 1.095 g/cm<sup>3</sup>
         surface_gravity: 46.422 m/s<sup>2</sup><br />(4.734 g<sub>0</sub>)
         escape_velocity: 118.796 km/s<br />(427,666 km/h)
         rotation_period: 72.849 d
         axial_tilt: 19.03°
         albedo: 0.30
-        temperature: 553 K<br />(280 °C)
+        temperature: 243 K<br />(-31 °C)
       - name: 3248 Dialkeshiad I d
         type: Icy
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 92,064.3 km<br/>(14.451 Yrths)
         surface_area: 1.065 × 10<sup>11</sup> km<sup>2</sup><br/>(208.818 Yrths)
         volume: 3.269 × 10<sup>15</sup> km<sup>3</sup><br/>(3017.526 Yrths)
-        mass: 4.432 × 10<sup>27</sup> kg<br />(119.9952731167647 Yrths)
+        mass: 4.432 × 10<sup>27</sup> kg<br />(742.058 Yrths)
         density: 1.356 g/cm<sup>3</sup>
         surface_gravity: 34.849 m/s<sup>2</sup><br />(3.554 g<sub>0</sub>)
         escape_velocity: 80.159 km/s<br />(288,572 km/h)
         rotation_period: 53.942 d
         axial_tilt: 15.01°
         albedo: 0.30
-        temperature: 396 K<br />(123 °C)
+        temperature: 243 K<br />(-31 °C)
       - name: 3248 Dialkeshiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 90,216.6 km<br/>(14.161 Yrths)
         surface_area: 1.023 × 10<sup>11</sup> km<sup>2</sup><br/>(200.520 Yrths)
         volume: 3.076 × 10<sup>15</sup> km<sup>3</sup><br/>(2839.466 Yrths)
-        mass: 6.549 × 10<sup>27</sup> kg<br />(119.9952731167647 Yrths)
+        mass: 6.549 × 10<sup>27</sup> kg<br />(1096.665 Yrths)
         density: 2.129 g/cm<sup>3</sup>
         surface_gravity: 53.634 m/s<sup>2</sup><br />(5.469 g<sub>0</sub>)
         escape_velocity: 98.440 km/s<br />(354,384 km/h)
         rotation_period: 59.276 d
         axial_tilt: 23.88°
         albedo: 0.30
-        temperature: 168 K<br />(-105 °C)
+        temperature: 243 K<br />(-31 °C)
       - name: 3248 Dialkeshiad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 76,212.1 km<br/>(11.962 Yrths)
         surface_area: 7.299 × 10<sup>10</sup> km<sup>2</sup><br/>(143.098 Yrths)
         volume: 1.854 × 10<sup>15</sup> km<sup>3</sup><br/>(1711.782 Yrths)
-        mass: 5.017 × 10<sup>27</sup> kg<br />(119.9952731167647 Yrths)
+        mass: 5.017 × 10<sup>27</sup> kg<br />(840.142 Yrths)
         density: 2.706 g/cm<sup>3</sup>
         surface_gravity: 57.576 m/s<sup>2</sup><br />(5.871 g<sub>0</sub>)
         escape_velocity: 93.744 km/s<br />(337,477 km/h)
         rotation_period: 59.531 d
         axial_tilt: 26.95°
         albedo: 0.30
-        temperature: 132 K<br />(-141 °C)
+        temperature: 243 K<br />(-31 °C)
   - name: 3248 Dialkeshiad II
     type: Gas giant
     aphelion: 362,880,717 km<br />2.426 AU
@@ -171,7 +171,7 @@ planets:
     radius: 237.7 km<br/>(0.037 Yrths)
     surface_area: 7.098 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.624 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.126 × 10<sup>27</sup> kg<br />(355.95350815872405 Yrths)
+    mass: 2.126 × 10<sup>27</sup> kg<br />(355.95 Yrths)
     density: 37800544.786 g/cm<sup>3</sup>
     surface_gravity: 2508292.759 m/s<sup>2</sup><br />(255774.679 g<sub>0</sub>)
     escape_velocity: 1092.664 km/s<br />(3,933,591 km/h)
@@ -192,14 +192,14 @@ planets:
         radius: 225,719.2 km<br/>(35.429 Yrths)
         surface_area: 6.402 × 10<sup>11</sup> km<sup>2</sup><br/>(1255.226 Yrths)
         volume: 4.817 × 10<sup>16</sup> km<sup>3</sup><br/>(44471.592 Yrths)
-        mass: 1.130 × 10<sup>29</sup> kg<br />(355.95350815872405 Yrths)
+        mass: 1.130 × 10<sup>29</sup> kg<br />(18919.860 Yrths)
         density: 2.346 g/cm<sup>3</sup>
         surface_gravity: 147.814 m/s<sup>2</sup><br />(15.073 g<sub>0</sub>)
         escape_velocity: 258.495 km/s<br />(930,583 km/h)
         rotation_period: 33.564 d
         axial_tilt: 20.76°
         albedo: 0.30
-        temperature: 821 K<br />(548 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 3248 Dialkeshiad II b
         type: Icy
         formationType: Accreted
@@ -212,14 +212,14 @@ planets:
         radius: 311,775.7 km<br/>(48.937 Yrths)
         surface_area: 1.222 × 10<sup>12</sup> km<sup>2</sup><br/>(2394.800 Yrths)
         volume: 1.269 × 10<sup>17</sup> km<sup>3</sup><br/>(117193.597 Yrths)
-        mass: 1.436 × 10<sup>29</sup> kg<br />(355.95350815872405 Yrths)
+        mass: 1.436 × 10<sup>29</sup> kg<br />(24053.628 Yrths)
         density: 1.132 g/cm<sup>3</sup>
         surface_gravity: 98.499 m/s<sup>2</sup><br />(10.044 g<sub>0</sub>)
         escape_velocity: 247.997 km/s<br />(892,790 km/h)
         rotation_period: 58.542 d
         axial_tilt: 21.26°
         albedo: 0.30
-        temperature: 746 K<br />(473 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 3248 Dialkeshiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -232,14 +232,14 @@ planets:
         radius: 187,203.6 km<br/>(29.384 Yrths)
         surface_area: 4.404 × 10<sup>11</sup> km<sup>2</sup><br/>(863.403 Yrths)
         volume: 2.748 × 10<sup>16</sup> km<sup>3</sup><br/>(25369.976 Yrths)
-        mass: 5.772 × 10<sup>28</sup> kg<br />(355.95350815872405 Yrths)
+        mass: 5.772 × 10<sup>28</sup> kg<br />(9665.110 Yrths)
         density: 2.100 g/cm<sup>3</sup>
         surface_gravity: 109.778 m/s<sup>2</sup><br />(11.194 g<sub>0</sub>)
         escape_velocity: 202.873 km/s<br />(730,342 km/h)
         rotation_period: 45.563 d
         axial_tilt: 21.86°
         albedo: 0.30
-        temperature: 678 K<br />(405 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 3248 Dialkeshiad II d
         type: Icy
         formationType: Accreted
@@ -252,14 +252,14 @@ planets:
         radius: 286,776.6 km<br/>(45.013 Yrths)
         surface_area: 1.033 × 10<sup>12</sup> km<sup>2</sup><br/>(2026.153 Yrths)
         volume: 9.879 × 10<sup>16</sup> km<sup>3</sup><br/>(91202.868 Yrths)
-        mass: 6.915 × 10<sup>28</sup> kg<br />(355.95350815872405 Yrths)
+        mass: 6.915 × 10<sup>28</sup> kg<br />(11579.723 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 56.046 m/s<sup>2</sup><br />(5.715 g<sub>0</sub>)
         escape_velocity: 179.413 km/s<br />(645,888 km/h)
         rotation_period: 69.791 d
         axial_tilt: 17.68°
         albedo: 0.30
-        temperature: 647 K<br />(374 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 3248 Dialkeshiad II e
         type: Icy
         formationType: Accreted
@@ -272,14 +272,14 @@ planets:
         radius: 279,970.9 km<br/>(43.945 Yrths)
         surface_area: 9.850 × 10<sup>11</sup> km<sup>2</sup><br/>(1931.126 Yrths)
         volume: 9.192 × 10<sup>16</sup> km<sup>3</sup><br/>(84862.551 Yrths)
-        mass: 9.435 × 10<sup>28</sup> kg<br />(355.95350815872405 Yrths)
+        mass: 9.435 × 10<sup>28</sup> kg<br />(15798.520 Yrths)
         density: 1.026 g/cm<sup>3</sup>
         surface_gravity: 80.228 m/s<sup>2</sup><br />(8.181 g<sub>0</sub>)
         escape_velocity: 212.095 km/s<br />(763,540 km/h)
         rotation_period: 71.351 d
         axial_tilt: 9.92°
         albedo: 0.30
-        temperature: 561 K<br />(288 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 3248 Dialkeshiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 271,921.8 km<br/>(42.681 Yrths)
         surface_area: 9.292 × 10<sup>11</sup> km<sup>2</sup><br/>(1821.684 Yrths)
         volume: 8.422 × 10<sup>16</sup> km<sup>3</sup><br/>(77751.620 Yrths)
-        mass: 2.065 × 10<sup>29</sup> kg<br />(355.95350815872405 Yrths)
+        mass: 2.065 × 10<sup>29</sup> kg<br />(34575.969 Yrths)
         density: 2.452 g/cm<sup>3</sup>
         surface_gravity: 186.132 m/s<sup>2</sup><br />(18.980 g<sub>0</sub>)
         escape_velocity: 318.378 km/s<br />(1,146,160 km/h)
         rotation_period: 43.176 d
         axial_tilt: 27.16°
         albedo: 0.30
-        temperature: 442 K<br />(169 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 3248 Dialkeshiad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -312,14 +312,14 @@ planets:
         radius: 366,905.2 km<br/>(57.590 Yrths)
         surface_area: 1.692 × 10<sup>12</sup> km<sup>2</sup><br/>(3316.595 Yrths)
         volume: 2.069 × 10<sup>17</sup> km<sup>3</sup><br/>(191002.336 Yrths)
-        mass: 3.310 × 10<sup>29</sup> kg<br />(355.95350815872405 Yrths)
+        mass: 3.310 × 10<sup>29</sup> kg<br />(55430.690 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 163.900 m/s<sup>2</sup><br />(16.713 g<sub>0</sub>)
         escape_velocity: 347.037 km/s<br />(1,249,334 km/h)
         rotation_period: 40.827 d
         axial_tilt: 22.43°
         albedo: 0.30
-        temperature: 316 K<br />(43 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 3248 Dialkeshiad II h
         type: Icy
         formationType: Accreted
@@ -332,14 +332,14 @@ planets:
         radius: 227,137.2 km<br/>(35.652 Yrths)
         surface_area: 6.483 × 10<sup>11</sup> km<sup>2</sup><br/>(1271.046 Yrths)
         volume: 4.909 × 10<sup>16</sup> km<sup>3</sup><br/>(45314.987 Yrths)
-        mass: 7.682 × 10<sup>28</sup> kg<br />(355.95350815872405 Yrths)
+        mass: 7.682 × 10<sup>28</sup> kg<br />(12863.622 Yrths)
         density: 1.565 g/cm<sup>3</sup>
         surface_gravity: 99.248 m/s<sup>2</sup><br />(10.121 g<sub>0</sub>)
         escape_velocity: 212.479 km/s<br />(764,923 km/h)
         rotation_period: 78.375 d
         axial_tilt: 27.57°
         albedo: 0.30
-        temperature: 206 K<br />(-67 °C)
+        temperature: 183 K<br />(-90 °C)
       - name: 3248 Dialkeshiad II i
         type: Rocky
         formationType: Captured
@@ -352,14 +352,14 @@ planets:
         radius: 188,216.5 km<br/>(29.543 Yrths)
         surface_area: 4.452 × 10<sup>11</sup> km<sup>2</sup><br/>(872.770 Yrths)
         volume: 2.793 × 10<sup>16</sup> km<sup>3</sup><br/>(25783.979 Yrths)
-        mass: 9.319 × 10<sup>28</sup> kg<br />(355.95350815872405 Yrths)
+        mass: 9.319 × 10<sup>28</sup> kg<br />(15603.940 Yrths)
         density: 3.337 g/cm<sup>3</sup>
         surface_gravity: 175.330 m/s<sup>2</sup><br />(17.879 g<sub>0</sub>)
         escape_velocity: 257.079 km/s<br />(925,483 km/h)
         rotation_period: 49.648 d
         axial_tilt: 12.27°
         albedo: 0.30
-        temperature: 179 K<br />(-95 °C)
+        temperature: 183 K<br />(-90 °C)
   - name: 3248 Dialkeshiad III
     type: Gas giant
     aphelion: 669,183,955 km<br />4.473 AU
@@ -371,7 +371,7 @@ planets:
     radius: 229.7 km<br/>(0.036 Yrths)
     surface_area: 6.632 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.079 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.826 × 10<sup>27</sup> kg<br />(305.7022760696426 Yrths)
+    mass: 1.826 × 10<sup>27</sup> kg<br />(305.70 Yrths)
     density: 35948032.376 g/cm<sup>3</sup>
     surface_gravity: 2305674.870 m/s<sup>2</sup><br />(235113.405 g<sub>0</sub>)
     escape_velocity: 1029.954 km/s<br />(3,707,836 km/h)
@@ -392,14 +392,14 @@ planets:
         radius: 282,843.8 km<br/>(44.396 Yrths)
         surface_area: 1.005 × 10<sup>12</sup> km<sup>2</sup><br/>(1970.961 Yrths)
         volume: 9.478 × 10<sup>16</sup> km<sup>3</sup><br/>(87501.809 Yrths)
-        mass: 1.996 × 10<sup>29</sup> kg<br />(305.7022760696426 Yrths)
+        mass: 1.996 × 10<sup>29</sup> kg<br />(33417.174 Yrths)
         density: 2.106 g/cm<sup>3</sup>
         surface_gravity: 166.269 m/s<sup>2</sup><br />(16.955 g<sub>0</sub>)
         escape_velocity: 306.895 km/s<br />(1,104,821 km/h)
         rotation_period: 50.710 d
         axial_tilt: 23.23°
         albedo: 0.30
-        temperature: 635 K<br />(362 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 3248 Dialkeshiad III b
         type: Icy
         formationType: Accreted
@@ -412,14 +412,14 @@ planets:
         radius: 180,526.9 km<br/>(28.336 Yrths)
         surface_area: 4.095 × 10<sup>11</sup> km<sup>2</sup><br/>(802.914 Yrths)
         volume: 2.464 × 10<sup>16</sup> km<sup>3</sup><br/>(22751.139 Yrths)
-        mass: 3.325 × 10<sup>28</sup> kg<br />(305.7022760696426 Yrths)
+        mass: 3.325 × 10<sup>28</sup> kg<br />(5568.237 Yrths)
         density: 1.349 g/cm<sup>3</sup>
         surface_gravity: 68.010 m/s<sup>2</sup><br />(6.935 g<sub>0</sub>)
         escape_velocity: 156.807 km/s<br />(564,505 km/h)
         rotation_period: 58.821 d
         axial_tilt: 12.43°
         albedo: 0.30
-        temperature: 525 K<br />(251 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 3248 Dialkeshiad III c
         type: Icy
         formationType: Captured
@@ -432,14 +432,14 @@ planets:
         radius: 185,141.0 km<br/>(29.060 Yrths)
         surface_area: 4.307 × 10<sup>11</sup> km<sup>2</sup><br/>(844.481 Yrths)
         volume: 2.658 × 10<sup>16</sup> km<sup>3</sup><br/>(24540.572 Yrths)
-        mass: 3.451 × 10<sup>28</sup> kg<br />(305.7022760696426 Yrths)
+        mass: 3.451 × 10<sup>28</sup> kg<br />(5777.947 Yrths)
         density: 1.298 g/cm<sup>3</sup>
         surface_gravity: 67.097 m/s<sup>2</sup><br />(6.842 g<sub>0</sub>)
         escape_velocity: 157.730 km/s<br />(567,827 km/h)
         rotation_period: 74.597 d
         axial_tilt: 16.36°
         albedo: 0.30
-        temperature: 326 K<br />(53 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 3248 Dialkeshiad III d
         type: Icy
         formationType: Accreted
@@ -452,14 +452,14 @@ planets:
         radius: 239,275.2 km<br/>(37.557 Yrths)
         surface_area: 7.195 × 10<sup>11</sup> km<sup>2</sup><br/>(1410.523 Yrths)
         volume: 5.738 × 10<sup>16</sup> km<sup>3</sup><br/>(52974.928 Yrths)
-        mass: 1.090 × 10<sup>29</sup> kg<br />(305.7022760696426 Yrths)
+        mass: 1.090 × 10<sup>29</sup> kg<br />(18256.419 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 126.928 m/s<sup>2</sup><br />(12.943 g<sub>0</sub>)
         escape_velocity: 246.625 km/s<br />(887,849 km/h)
         rotation_period: 47.488 d
         axial_tilt: 17.03°
         albedo: 0.30
-        temperature: 245 K<br />(-28 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 3248 Dialkeshiad III e
         type: Icy
         formationType: Accreted
@@ -472,14 +472,14 @@ planets:
         radius: 197,173.7 km<br/>(30.949 Yrths)
         surface_area: 4.885 × 10<sup>11</sup> km<sup>2</sup><br/>(957.817 Yrths)
         volume: 3.211 × 10<sup>16</sup> km<sup>3</sup><br/>(29643.122 Yrths)
-        mass: 4.516 × 10<sup>28</sup> kg<br />(305.7022760696426 Yrths)
+        mass: 4.516 × 10<sup>28</sup> kg<br />(7561.961 Yrths)
         density: 1.406 g/cm<sup>3</sup>
         surface_gravity: 77.423 m/s<sup>2</sup><br />(7.895 g<sub>0</sub>)
         escape_velocity: 174.852 km/s<br />(629,467 km/h)
         rotation_period: 43.865 d
         axial_tilt: 16.74°
         albedo: 0.30
-        temperature: 145 K<br />(-128 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 3248 Dialkeshiad III f
         type: Icy
         formationType: Captured
@@ -492,14 +492,14 @@ planets:
         radius: 184,578.8 km<br/>(28.972 Yrths)
         surface_area: 4.281 × 10<sup>11</sup> km<sup>2</sup><br/>(839.361 Yrths)
         volume: 2.634 × 10<sup>16</sup> km<sup>3</sup><br/>(24317.724 Yrths)
-        mass: 4.002 × 10<sup>28</sup> kg<br />(305.7022760696426 Yrths)
+        mass: 4.002 × 10<sup>28</sup> kg<br />(6701.706 Yrths)
         density: 1.519 g/cm<sup>3</sup>
         surface_gravity: 78.299 m/s<sup>2</sup><br />(7.984 g<sub>0</sub>)
         escape_velocity: 170.129 km/s<br />(612,466 km/h)
         rotation_period: 68.754 d
         axial_tilt: 23.82°
         albedo: 0.30
-        temperature: 126 K<br />(-148 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 3248 Dialkeshiad III g
         type: Icy
         formationType: Accreted
@@ -512,14 +512,14 @@ planets:
         radius: 178,533.8 km<br/>(28.023 Yrths)
         surface_area: 4.005 × 10<sup>11</sup> km<sup>2</sup><br/>(785.282 Yrths)
         volume: 2.384 × 10<sup>16</sup> km<sup>3</sup><br/>(22005.881 Yrths)
-        mass: 3.207 × 10<sup>28</sup> kg<br />(305.7022760696426 Yrths)
+        mass: 3.207 × 10<sup>28</sup> kg<br />(5370.128 Yrths)
         density: 1.345 g/cm<sup>3</sup>
         surface_gravity: 67.062 m/s<sup>2</sup><br />(6.838 g<sub>0</sub>)
         escape_velocity: 154.850 km/s<br />(557,458 km/h)
         rotation_period: 63.193 d
         axial_tilt: 21.98°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 3248 Dialkeshiad III h
         type: Icy
         formationType: Captured
@@ -532,14 +532,14 @@ planets:
         radius: 434,323.2 km<br/>(68.172 Yrths)
         surface_area: 2.370 × 10<sup>12</sup> km<sup>2</sup><br/>(4647.409 Yrths)
         volume: 3.432 × 10<sup>17</sup> km<sup>3</sup><br/>(316822.752 Yrths)
-        mass: 2.948 × 10<sup>29</sup> kg<br />(305.7022760696426 Yrths)
+        mass: 2.948 × 10<sup>29</sup> kg<br />(49366.280 Yrths)
         density: 0.859 g/cm<sup>3</sup>
         surface_gravity: 104.169 m/s<sup>2</sup><br />(10.622 g<sub>0</sub>)
         escape_velocity: 301.014 km/s<br />(1,083,650 km/h)
         rotation_period: 70.239 d
         axial_tilt: 7.75°
         albedo: 0.30
-        temperature: 90 K<br />(-183 °C)
+        temperature: 138 K<br />(-135 °C)
       - name: 3248 Dialkeshiad III i
         type: Ice/rock hybrid
         formationType: Captured
@@ -552,14 +552,14 @@ planets:
         radius: 151,788.7 km<br/>(23.825 Yrths)
         surface_area: 2.895 × 10<sup>11</sup> km<sup>2</sup><br/>(567.628 Yrths)
         volume: 1.465 × 10<sup>16</sup> km<sup>3</sup><br/>(13523.704 Yrths)
-        mass: 3.304 × 10<sup>28</sup> kg<br />(305.7022760696426 Yrths)
+        mass: 3.304 × 10<sup>28</sup> kg<br />(5532.964 Yrths)
         density: 2.256 g/cm<sup>3</sup>
         surface_gravity: 95.591 m/s<sup>2</sup><br />(9.748 g<sub>0</sub>)
         escape_velocity: 170.466 km/s<br />(613,676 km/h)
         rotation_period: 35.777 d
         axial_tilt: 10.43°
         albedo: 0.30
-        temperature: 78 K<br />(-195 °C)
+        temperature: 138 K<br />(-135 °C)
   - name: 3248 Dialkeshiad IV
     type: Large terrestrial
     aphelion: 1,075,942,989 km<br />7.192 AU
@@ -571,14 +571,14 @@ planets:
     radius: 9,924.1 km<br/>(1.558 Yrths)
     surface_area: 1.238 × 10<sup>09</sup> km<sup>2</sup><br/>(2.426 Yrths)
     volume: 4.094 × 10<sup>12</sup> km<sup>3</sup><br/>(3.780 Yrths)
-    mass: 2.577 × 10<sup>25</sup> kg<br />(4.315637829017121 Yrths)
+    mass: 2.577 × 10<sup>25</sup> kg<br />(4.32 Yrths)
     density: 6.295 g/cm<sup>3</sup>
     surface_gravity: 17.442 m/s<sup>2</sup><br />(1.779 g<sub>0</sub>)
     escape_velocity: 18.619 km/s<br />(67,028 km/h)
     rotation_period: 0.747 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 135 K<br />(-138 °C)
+    temperature: 153 K<br />(-121 °C)
     surface_pressure: 239 kPa<br />(2 atm)
     composition:
       - 82.2178% nitrogen
@@ -598,14 +598,14 @@ planets:
         radius: 6,535.2 km<br/>(1.026 Yrths)
         surface_area: 5.367 × 10<sup>08</sup> km<sup>2</sup><br/>(1.052 Yrths)
         volume: 1.169 × 10<sup>12</sup> km<sup>3</sup><br/>(1.079 Yrths)
-        mass: 2.528 × 10<sup>24</sup> kg<br />(4.315637829017121 Yrths)
+        mass: 2.528 × 10<sup>24</sup> kg<br />(0.423 Yrths)
         density: 2.162 g/cm<sup>3</sup>
         surface_gravity: 3.946 m/s<sup>2</sup><br />(0.402 g<sub>0</sub>)
         escape_velocity: 7.186 km/s<br />(25,870 km/h)
         rotation_period: 44.768 d
         axial_tilt: 51.16°
         albedo: 0.30
-        temperature: 1222 K<br />(949 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 3248 Dialkeshiad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -618,14 +618,14 @@ planets:
         radius: 7,363.1 km<br/>(1.156 Yrths)
         surface_area: 6.813 × 10<sup>08</sup> km<sup>2</sup><br/>(1.336 Yrths)
         volume: 1.672 × 10<sup>12</sup> km<sup>3</sup><br/>(1.544 Yrths)
-        mass: 3.590 × 10<sup>24</sup> kg<br />(4.315637829017121 Yrths)
+        mass: 3.590 × 10<sup>24</sup> kg<br />(0.601 Yrths)
         density: 2.147 g/cm<sup>3</sup>
         surface_gravity: 4.414 m/s<sup>2</sup><br />(0.450 g<sub>0</sub>)
         escape_velocity: 8.068 km/s<br />(29,044 km/h)
         rotation_period: 53.512 d
         axial_tilt: 19.31°
         albedo: 0.30
-        temperature: 1165 K<br />(892 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 3248 Dialkeshiad IV c
         type: Icy
         formationType: Accreted
@@ -638,14 +638,14 @@ planets:
         radius: 6,182.6 km<br/>(0.970 Yrths)
         surface_area: 4.803 × 10<sup>08</sup> km<sup>2</sup><br/>(0.942 Yrths)
         volume: 9.899 × 10<sup>11</sup> km<sup>3</sup><br/>(0.914 Yrths)
-        mass: 1.529 × 10<sup>24</sup> kg<br />(4.315637829017121 Yrths)
+        mass: 1.529 × 10<sup>24</sup> kg<br />(0.256 Yrths)
         density: 1.544 g/cm<sup>3</sup>
         surface_gravity: 2.665 m/s<sup>2</sup><br />(0.272 g<sub>0</sub>)
         escape_velocity: 5.745 km/s<br />(20,682 km/h)
         rotation_period: 57.620 d
         axial_tilt: 17.45°
         albedo: 0.30
-        temperature: 1111 K<br />(838 °C)
+        temperature: 104 K<br />(-169 °C)
   - name: 3248 Dialkeshiad V
     type: Ice giant
     aphelion: 1,971,688,908 km<br />13.180 AU
@@ -657,14 +657,14 @@ planets:
     radius: 24,141.0 km<br/>(3.789 Yrths)
     surface_area: 7.324 × 10<sup>09</sup> km<sup>2</sup><br/>(14.358 Yrths)
     volume: 5.893 × 10<sup>13</sup> km<sup>3</sup><br/>(54.406 Yrths)
-    mass: 7.356 × 10<sup>25</sup> kg<br />(12.31732158329255 Yrths)
+    mass: 7.356 × 10<sup>25</sup> kg<br />(12.32 Yrths)
     density: 1.248 g/cm<sup>3</sup>
     surface_gravity: 8.413 m/s<sup>2</sup><br />(0.858 g<sub>0</sub>)
     escape_velocity: 20.168 km/s<br />(72,604 km/h)
     rotation_period: 0.413 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 144 K<br />(-130 °C)
+    temperature: 131 K<br />(-142 °C)
     composition:
       - 68.7880% hydrogen
       - 29.0255% helium
@@ -683,14 +683,14 @@ planets:
         radius: 14,284.0 km<br/>(2.242 Yrths)
         surface_area: 2.564 × 10<sup>09</sup> km<sup>2</sup><br/>(5.027 Yrths)
         volume: 1.221 × 10<sup>13</sup> km<sup>3</sup><br/>(11.270 Yrths)
-        mass: 2.512 × 10<sup>25</sup> kg<br />(12.31732158329255 Yrths)
+        mass: 2.512 × 10<sup>25</sup> kg<br />(4.206 Yrths)
         density: 2.058 g/cm<sup>3</sup>
         surface_gravity: 8.206 m/s<sup>2</sup><br />(0.837 g<sub>0</sub>)
         escape_velocity: 15.321 km/s<br />(55,157 km/h)
         rotation_period: 34.861 d
         axial_tilt: 9.69°
         albedo: 0.30
-        temperature: 713 K<br />(440 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 3248 Dialkeshiad V b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -703,14 +703,14 @@ planets:
         radius: 11,263.4 km<br/>(1.768 Yrths)
         surface_area: 1.594 × 10<sup>09</sup> km<sup>2</sup><br/>(3.126 Yrths)
         volume: 5.985 × 10<sup>12</sup> km<sup>3</sup><br/>(5.526 Yrths)
-        mass: 9.577 × 10<sup>24</sup> kg<br />(12.31732158329255 Yrths)
+        mass: 9.577 × 10<sup>24</sup> kg<br />(1.604 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 5.031 m/s<sup>2</sup><br />(0.513 g<sub>0</sub>)
         escape_velocity: 10.653 km/s<br />(38,352 km/h)
         rotation_period: 50.018 d
         axial_tilt: 24.27°
         albedo: 0.30
-        temperature: 680 K<br />(407 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 3248 Dialkeshiad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -723,14 +723,14 @@ planets:
         radius: 9,841.2 km<br/>(1.545 Yrths)
         surface_area: 1.217 × 10<sup>09</sup> km<sup>2</sup><br/>(2.386 Yrths)
         volume: 3.992 × 10<sup>12</sup> km<sup>3</sup><br/>(3.686 Yrths)
-        mass: 1.118 × 10<sup>25</sup> kg<br />(12.31732158329255 Yrths)
+        mass: 1.118 × 10<sup>25</sup> kg<br />(1.872 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 7.693 m/s<sup>2</sup><br />(0.784 g<sub>0</sub>)
         escape_velocity: 12.314 km/s<br />(44,329 km/h)
         rotation_period: 48.153 d
         axial_tilt: 7.61°
         albedo: 0.30
-        temperature: 648 K<br />(375 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 3248 Dialkeshiad V d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -743,14 +743,14 @@ planets:
         radius: 21,661.4 km<br/>(3.400 Yrths)
         surface_area: 5.896 × 10<sup>09</sup> km<sup>2</sup><br/>(11.560 Yrths)
         volume: 4.257 × 10<sup>13</sup> km<sup>3</sup><br/>(39.304 Yrths)
-        mass: 1.019 × 10<sup>26</sup> kg<br />(12.31732158329255 Yrths)
+        mass: 1.019 × 10<sup>26</sup> kg<br />(17.069 Yrths)
         density: 2.394 g/cm<sup>3</sup>
         surface_gravity: 14.480 m/s<sup>2</sup><br />(1.477 g<sub>0</sub>)
         escape_velocity: 25.064 km/s<br />(90,229 km/h)
         rotation_period: 37.994 d
         axial_tilt: 10.98°
         albedo: 0.30
-        temperature: 562 K<br />(289 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 3248 Dialkeshiad V e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -763,14 +763,14 @@ planets:
         radius: 12,043.2 km<br/>(1.890 Yrths)
         surface_area: 1.823 × 10<sup>09</sup> km<sup>2</sup><br/>(3.573 Yrths)
         volume: 7.317 × 10<sup>12</sup> km<sup>3</sup><br/>(6.755 Yrths)
-        mass: 1.764 × 10<sup>25</sup> kg<br />(12.31732158329255 Yrths)
+        mass: 1.764 × 10<sup>25</sup> kg<br />(2.953 Yrths)
         density: 2.410 g/cm<sup>3</sup>
         surface_gravity: 8.105 m/s<sup>2</sup><br />(0.826 g<sub>0</sub>)
         escape_velocity: 13.981 km/s<br />(50,333 km/h)
         rotation_period: 45.507 d
         axial_tilt: 27.29°
         albedo: 0.30
-        temperature: 536 K<br />(263 °C)
+        temperature: 78 K<br />(-195 °C)
   - name: 3248 Dialkeshiad VI
     type: Ice giant
     aphelion: 3,414,449,979 km<br />22.824 AU
@@ -782,14 +782,14 @@ planets:
     radius: 29,304.3 km<br/>(4.600 Yrths)
     surface_area: 1.079 × 10<sup>10</sup> km<sup>2</sup><br/>(21.157 Yrths)
     volume: 1.054 × 10<sup>14</sup> km<sup>3</sup><br/>(97.314 Yrths)
-    mass: 1.531 × 10<sup>26</sup> kg<br />(25.63104125369479 Yrths)
+    mass: 1.531 × 10<sup>26</sup> kg<br />(25.63 Yrths)
     density: 1.452 g/cm<sup>3</sup>
     surface_gravity: 11.881 m/s<sup>2</sup><br />(1.211 g<sub>0</sub>)
     escape_velocity: 26.406 km/s<br />(95,060 km/h)
     rotation_period: 0.340 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 103 K<br />(-170 °C)
+    temperature: 92 K<br />(-181 °C)
     composition:
       - 96.4962% hydrogen
       - 3.5038% helium
@@ -806,14 +806,14 @@ planets:
         radius: 33,494.3 km<br/>(5.257 Yrths)
         surface_area: 1.410 × 10<sup>10</sup> km<sup>2</sup><br/>(27.639 Yrths)
         volume: 1.574 × 10<sup>14</sup> km<sup>3</sup><br/>(145.308 Yrths)
-        mass: 2.133 × 10<sup>26</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 2.133 × 10<sup>26</sup> kg<br />(35.723 Yrths)
         density: 1.355 g/cm<sup>3</sup>
         surface_gravity: 12.675 m/s<sup>2</sup><br />(1.292 g<sub>0</sub>)
         escape_velocity: 29.159 km/s<br />(104,971 km/h)
         rotation_period: 45.089 d
         axial_tilt: 16.02°
         albedo: 0.30
-        temperature: 498 K<br />(224 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI b
         type: Rocky
         formationType: Captured
@@ -826,14 +826,14 @@ planets:
         radius: 14,195.3 km<br/>(2.228 Yrths)
         surface_area: 2.532 × 10<sup>09</sup> km<sup>2</sup><br/>(4.964 Yrths)
         volume: 1.198 × 10<sup>13</sup> km<sup>3</sup><br/>(11.061 Yrths)
-        mass: 4.313 × 10<sup>25</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 4.313 × 10<sup>25</sup> kg<br />(7.223 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 14.268 m/s<sup>2</sup><br />(1.455 g<sub>0</sub>)
         escape_velocity: 20.140 km/s<br />(72,504 km/h)
         rotation_period: 35.376 d
         axial_tilt: 9.93°
         albedo: 0.30
-        temperature: 474 K<br />(201 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI c
         type: Rocky
         formationType: Impact formed
@@ -846,14 +846,14 @@ planets:
         radius: 19,788.5 km<br/>(3.106 Yrths)
         surface_area: 4.921 × 10<sup>09</sup> km<sup>2</sup><br/>(9.647 Yrths)
         volume: 3.246 × 10<sup>13</sup> km<sup>3</sup><br/>(29.965 Yrths)
-        mass: 9.168 × 10<sup>25</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 9.168 × 10<sup>25</sup> kg<br />(15.352 Yrths)
         density: 2.825 g/cm<sup>3</sup>
         surface_gravity: 15.606 m/s<sup>2</sup><br />(1.591 g<sub>0</sub>)
         escape_velocity: 24.869 km/s<br />(89,528 km/h)
         rotation_period: 34.043 d
         axial_tilt: 16.88°
         albedo: 0.30
-        temperature: 452 K<br />(179 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -866,14 +866,14 @@ planets:
         radius: 28,986.1 km<br/>(4.550 Yrths)
         surface_area: 1.056 × 10<sup>10</sup> km<sup>2</sup><br/>(20.700 Yrths)
         volume: 1.020 × 10<sup>14</sup> km<sup>3</sup><br/>(94.177 Yrths)
-        mass: 2.279 × 10<sup>26</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 2.279 × 10<sup>26</sup> kg<br />(38.161 Yrths)
         density: 2.234 g/cm<sup>3</sup>
         surface_gravity: 18.079 m/s<sup>2</sup><br />(1.844 g<sub>0</sub>)
         escape_velocity: 32.396 km/s<br />(116,627 km/h)
         rotation_period: 47.813 d
         axial_tilt: 17.15°
         albedo: 0.30
-        temperature: 431 K<br />(158 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI e
         type: Icy
         formationType: Captured
@@ -886,14 +886,14 @@ planets:
         radius: 25,455.1 km<br/>(3.995 Yrths)
         surface_area: 8.143 × 10<sup>09</sup> km<sup>2</sup><br/>(15.964 Yrths)
         volume: 6.909 × 10<sup>13</sup> km<sup>3</sup><br/>(63.782 Yrths)
-        mass: 6.915 × 10<sup>25</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 6.915 × 10<sup>25</sup> kg<br />(11.579 Yrths)
         density: 1.001 g/cm<sup>3</sup>
         surface_gravity: 7.113 m/s<sup>2</sup><br />(0.725 g<sub>0</sub>)
         escape_velocity: 19.042 km/s<br />(68,553 km/h)
         rotation_period: 56.136 d
         axial_tilt: 23.67°
         albedo: 0.30
-        temperature: 374 K<br />(101 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI f
         type: Dwarf planet
         formationType: Captured
@@ -906,14 +906,14 @@ planets:
         radius: 38,240.7 km<br/>(6.002 Yrths)
         surface_area: 1.838 × 10<sup>10</sup> km<sup>2</sup><br/>(36.028 Yrths)
         volume: 2.342 × 10<sup>14</sup> km<sup>3</sup><br/>(216.248 Yrths)
-        mass: 6.117 × 10<sup>26</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 6.117 × 10<sup>26</sup> kg<br />(102.429 Yrths)
         density: 2.611 g/cm<sup>3</sup>
         surface_gravity: 27.881 m/s<sup>2</sup><br />(2.843 g<sub>0</sub>)
         escape_velocity: 46.209 km/s<br />(166,352 km/h)
         rotation_period: 43.915 d
         axial_tilt: 25.45°
         albedo: 0.30
-        temperature: 324 K<br />(51 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI g
         type: Icy
         formationType: Accreted
@@ -926,14 +926,14 @@ planets:
         radius: 24,294.3 km<br/>(3.813 Yrths)
         surface_area: 7.417 × 10<sup>09</sup> km<sup>2</sup><br/>(14.541 Yrths)
         volume: 6.006 × 10<sup>13</sup> km<sup>3</sup><br/>(55.448 Yrths)
-        mass: 6.860 × 10<sup>25</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 6.860 × 10<sup>25</sup> kg<br />(11.488 Yrths)
         density: 1.142 g/cm<sup>3</sup>
         surface_gravity: 7.748 m/s<sup>2</sup><br />(0.790 g<sub>0</sub>)
         escape_velocity: 19.415 km/s<br />(69,895 km/h)
         rotation_period: 48.454 d
         axial_tilt: 16.12°
         albedo: 0.30
-        temperature: 295 K<br />(21 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI h
         type: Rocky
         formationType: Captured
@@ -946,14 +946,14 @@ planets:
         radius: 21,718.2 km<br/>(3.409 Yrths)
         surface_area: 5.927 × 10<sup>09</sup> km<sup>2</sup><br/>(11.621 Yrths)
         volume: 4.291 × 10<sup>13</sup> km<sup>3</sup><br/>(39.614 Yrths)
-        mass: 1.357 × 10<sup>26</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 1.357 × 10<sup>26</sup> kg<br />(22.715 Yrths)
         density: 3.161 g/cm<sup>3</sup>
         surface_gravity: 19.169 m/s<sup>2</sup><br />(1.955 g<sub>0</sub>)
         escape_velocity: 28.875 km/s<br />(103,950 km/h)
         rotation_period: 30.758 d
         axial_tilt: 18.77°
         albedo: 0.30
-        temperature: 281 K<br />(8 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI i
         type: Icy
         formationType: Impact formed
@@ -966,14 +966,14 @@ planets:
         radius: 21,205.5 km<br/>(3.328 Yrths)
         surface_area: 5.651 × 10<sup>09</sup> km<sup>2</sup><br/>(11.079 Yrths)
         volume: 3.994 × 10<sup>13</sup> km<sup>3</sup><br/>(36.874 Yrths)
-        mass: 4.409 × 10<sup>25</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 4.409 × 10<sup>25</sup> kg<br />(7.383 Yrths)
         density: 1.104 g/cm<sup>3</sup>
         surface_gravity: 6.535 m/s<sup>2</sup><br />(0.666 g<sub>0</sub>)
         escape_velocity: 16.659 km/s<br />(59,973 km/h)
         rotation_period: 49.358 d
         axial_tilt: 27.91°
         albedo: 0.30
-        temperature: 268 K<br />(-5 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI j
         type: Icy
         formationType: Captured
@@ -986,14 +986,14 @@ planets:
         radius: 21,059.0 km<br/>(3.305 Yrths)
         surface_area: 5.573 × 10<sup>09</sup> km<sup>2</sup><br/>(10.926 Yrths)
         volume: 3.912 × 10<sup>13</sup> km<sup>3</sup><br/>(36.115 Yrths)
-        mass: 4.755 × 10<sup>25</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 4.755 × 10<sup>25</sup> kg<br />(7.962 Yrths)
         density: 1.215 g/cm<sup>3</sup>
         surface_gravity: 7.146 m/s<sup>2</sup><br />(0.729 g<sub>0</sub>)
         escape_velocity: 17.360 km/s<br />(62,497 km/h)
         rotation_period: 45.134 d
         axial_tilt: 20.56°
         albedo: 0.30
-        temperature: 255 K<br />(-18 °C)
+        temperature: 59 K<br />(-214 °C)
       - name: 3248 Dialkeshiad VI k
         type: Ice/rock hybrid
         formationType: Captured
@@ -1006,12 +1006,12 @@ planets:
         radius: 27,514.8 km<br/>(4.319 Yrths)
         surface_area: 9.514 × 10<sup>09</sup> km<sup>2</sup><br/>(18.652 Yrths)
         volume: 8.725 × 10<sup>13</sup> km<sup>3</sup><br/>(80.552 Yrths)
-        mass: 1.849 × 10<sup>26</sup> kg<br />(25.63104125369479 Yrths)
+        mass: 1.849 × 10<sup>26</sup> kg<br />(30.954 Yrths)
         density: 2.119 g/cm<sup>3</sup>
         surface_gravity: 16.275 m/s<sup>2</sup><br />(1.660 g<sub>0</sub>)
         escape_velocity: 29.947 km/s<br />(107,810 km/h)
         rotation_period: 47.275 d
         axial_tilt: 32.73°
         albedo: 0.30
-        temperature: 243 K<br />(-30 °C)
+        temperature: 59 K<br />(-214 °C)
 ---

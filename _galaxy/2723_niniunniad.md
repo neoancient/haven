@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2723 Niniunniad is a star in the constellation Niniun
+      2723 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 175.80 ly
 apparent_magnitude: 10.02
 absolute_magnitude: 6.37

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6396 Arkothiad is a star in the constellation Arkoth
+      6396 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 556.96 ly
 apparent_magnitude: 14.25
 absolute_magnitude: 8.09

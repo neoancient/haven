@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6487 Anilliad is a star in the constellation Anil
+      6487 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 249.11 ly
 apparent_magnitude: 9.70
 absolute_magnitude: 5.29

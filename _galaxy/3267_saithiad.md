@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3267 Saithiad is a star in the constellation Saith
+      3267 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 307.88 ly
 apparent_magnitude: 10.25
 absolute_magnitude: 5.37

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10917 Tanashad A is a star in the constellation Tanas
+      10917 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 175.31 ly
 apparent_magnitude: 9.68
 absolute_magnitude: 6.02

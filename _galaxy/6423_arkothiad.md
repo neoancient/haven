@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6423 Arkothiad is a star in the constellation Arkoth
+      6423 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 265.41 ly
 apparent_magnitude: 11.26
 absolute_magnitude: 6.71

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      105 Lunaiad is a star in the constellation Luna
+      105 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 425.41 ly
 apparent_magnitude: 11.85
 absolute_magnitude: 6.27

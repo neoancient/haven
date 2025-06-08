@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      447 Arniad A is a star in the constellation Arni
+      447 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 397.63 ly
 apparent_magnitude: 8.02
 absolute_magnitude: 2.58

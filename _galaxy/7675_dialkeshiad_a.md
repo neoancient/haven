@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7675 Dialkeshiad A is a star in the constellation Dialkes
+      7675 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 632.89 ly
 apparent_magnitude: 8.32
 absolute_magnitude: 1.88

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1318 Orshenniad is a star in the constellation Orshen
+      1318 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 200.90 ly
 apparent_magnitude: 8.88
 absolute_magnitude: 4.93
@@ -31,14 +31,14 @@ planets:
     radius: 3,599.4 km<br/>(0.565 Yrths)
     surface_area: 1.628 × 10<sup>08</sup> km<sup>2</sup><br/>(0.319 Yrths)
     volume: 1.953 × 10<sup>11</sup> km<sup>3</sup><br/>(0.180 Yrths)
-    mass: 1.392 × 10<sup>24</sup> kg<br />(0.23314944858334927 Yrths)
+    mass: 1.392 × 10<sup>24</sup> kg<br />(0.23 Yrths)
     density: 7.128 g/cm<sup>3</sup>
     surface_gravity: 7.163 m/s<sup>2</sup><br />(0.730 g<sub>0</sub>)
     escape_velocity: 7.186 km/s<br />(25,869 km/h)
     rotation_period: 2.019 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 408 K<br />(135 °C)
+    temperature: 461 K<br />(188 °C)
     surface_pressure: 175 kPa<br />(2 atm)
     composition:
       - 88.2933% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 957.7 km<br/>(0.150 Yrths)
         surface_area: 1.153 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.679 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 1.020 × 10<sup>22</sup> kg<br />(0.23314944858334927 Yrths)
+        mass: 1.020 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.772 g/cm<sup>3</sup>
         surface_gravity: 0.741 m/s<sup>2</sup><br />(0.076 g<sub>0</sub>)
         escape_velocity: 1.192 km/s<br />(4,292 km/h)
         rotation_period: 37.887 d
         axial_tilt: 23.03°
         albedo: 0.30
-        temperature: 5943 K<br />(5670 °C)
+        temperature: 321 K<br />(48 °C)
   - name: 1318 Orshenniad II
     type: Terrestrial
     aphelion: 166,716,602 km<br />1.114 AU
@@ -76,7 +76,7 @@ planets:
     radius: 5,466.1 km<br/>(0.858 Yrths)
     surface_area: 3.755 × 10<sup>08</sup> km<sup>2</sup><br/>(0.736 Yrths)
     volume: 6.841 × 10<sup>11</sup> km<sup>3</sup><br/>(0.632 Yrths)
-    mass: 3.050 × 10<sup>24</sup> kg<br />(0.5107427437722977 Yrths)
+    mass: 3.050 × 10<sup>24</sup> kg<br />(0.51 Yrths)
     density: 4.459 g/cm<sup>3</sup>
     surface_gravity: 6.804 m/s<sup>2</sup><br />(0.694 g<sub>0</sub>)
     escape_velocity: 8.631 km/s<br />(31,070 km/h)
@@ -97,14 +97,14 @@ planets:
         radius: 1,962.6 km<br/>(0.308 Yrths)
         surface_area: 4.840 × 10<sup>07</sup> km<sup>2</sup><br/>(0.095 Yrths)
         volume: 3.166 × 10<sup>10</sup> km<sup>3</sup><br/>(0.029 Yrths)
-        mass: 7.298 × 10<sup>22</sup> kg<br />(0.5107427437722977 Yrths)
+        mass: 7.298 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 2.305 g/cm<sup>3</sup>
         surface_gravity: 1.263 m/s<sup>2</sup><br />(0.129 g<sub>0</sub>)
         escape_velocity: 2.228 km/s<br />(8,021 km/h)
         rotation_period: 54.285 d
         axial_tilt: 33.48°
         albedo: 0.30
-        temperature: 3788 K<br />(3515 °C)
+        temperature: 241 K<br />(-32 °C)
       - name: 1318 Orshenniad II b
         type: Rocky
         formationType: Impact formed
@@ -117,14 +117,14 @@ planets:
         radius: 1,045.1 km<br/>(0.164 Yrths)
         surface_area: 1.372 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.781 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.383 × 10<sup>22</sup> kg<br />(0.5107427437722977 Yrths)
+        mass: 1.383 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.892 g/cm<sup>3</sup>
         surface_gravity: 0.844 m/s<sup>2</sup><br />(0.086 g<sub>0</sub>)
         escape_velocity: 1.329 km/s<br />(4,784 km/h)
         rotation_period: 35.314 d
         axial_tilt: 13.02°
         albedo: 0.30
-        temperature: 3612 K<br />(3339 °C)
+        temperature: 241 K<br />(-32 °C)
   - name: 1318 Orshenniad III
     type: Gas dwarf
     aphelion: 295,106,599 km<br />1.973 AU
@@ -136,14 +136,14 @@ planets:
     radius: 10,607.5 km<br/>(1.665 Yrths)
     surface_area: 1.414 × 10<sup>09</sup> km<sup>2</sup><br/>(2.772 Yrths)
     volume: 5.000 × 10<sup>12</sup> km<sup>3</sup><br/>(4.616 Yrths)
-    mass: 1.323 × 10<sup>25</sup> kg<br />(2.215232543784134 Yrths)
+    mass: 1.323 × 10<sup>25</sup> kg<br />(2.22 Yrths)
     density: 2.646 g/cm<sup>3</sup>
     surface_gravity: 7.837 m/s<sup>2</sup><br />(0.799 g<sub>0</sub>)
     escape_velocity: 12.903 km/s<br />(46,450 km/h)
     rotation_period: 0.680 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 257 K<br />(-16 °C)
+    temperature: 249 K<br />(-24 °C)
     composition:
       - 79.8488% hydrogen
       - 16.6291% helium
@@ -162,14 +162,14 @@ planets:
         radius: 5,806.7 km<br/>(0.911 Yrths)
         surface_area: 4.237 × 10<sup>08</sup> km<sup>2</sup><br/>(0.831 Yrths)
         volume: 8.201 × 10<sup>11</sup> km<sup>3</sup><br/>(0.757 Yrths)
-        mass: 1.308 × 10<sup>24</sup> kg<br />(2.215232543784134 Yrths)
+        mass: 1.308 × 10<sup>24</sup> kg<br />(0.219 Yrths)
         density: 1.596 g/cm<sup>3</sup>
         surface_gravity: 2.587 m/s<sup>2</sup><br />(0.264 g<sub>0</sub>)
         escape_velocity: 5.485 km/s<br />(19,744 km/h)
         rotation_period: 43.113 d
         axial_tilt: 24.65°
         albedo: 0.30
-        temperature: 2141 K<br />(1868 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 1318 Orshenniad III b
         type: Asteroid
         formationType: Captured
@@ -182,14 +182,14 @@ planets:
         radius: 3,620.5 km<br/>(0.568 Yrths)
         surface_area: 1.647 × 10<sup>08</sup> km<sup>2</sup><br/>(0.323 Yrths)
         volume: 1.988 × 10<sup>11</sup> km<sup>3</sup><br/>(0.184 Yrths)
-        mass: 5.169 × 10<sup>23</sup> kg<br />(2.215232543784134 Yrths)
+        mass: 5.169 × 10<sup>23</sup> kg<br />(0.087 Yrths)
         density: 2.600 g/cm<sup>3</sup>
         surface_gravity: 2.628 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
         escape_velocity: 4.366 km/s<br />(15,716 km/h)
         rotation_period: 38.445 d
         axial_tilt: 58.68°
         albedo: 0.30
-        temperature: 2041 K<br />(1768 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 1318 Orshenniad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 6,148.7 km<br/>(0.965 Yrths)
         surface_area: 4.751 × 10<sup>08</sup> km<sup>2</sup><br/>(0.931 Yrths)
         volume: 9.737 × 10<sup>11</sup> km<sup>3</sup><br/>(0.899 Yrths)
-        mass: 2.441 × 10<sup>24</sup> kg<br />(2.215232543784134 Yrths)
+        mass: 2.441 × 10<sup>24</sup> kg<br />(0.409 Yrths)
         density: 2.507 g/cm<sup>3</sup>
         surface_gravity: 4.303 m/s<sup>2</sup><br />(0.439 g<sub>0</sub>)
         escape_velocity: 7.280 km/s<br />(26,206 km/h)
         rotation_period: 52.440 d
         axial_tilt: 26.41°
         albedo: 0.30
-        temperature: 1856 K<br />(1583 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 1318 Orshenniad III d
         type: Asteroid
         formationType: Captured
@@ -222,14 +222,14 @@ planets:
         radius: 5,990.2 km<br/>(0.940 Yrths)
         surface_area: 4.509 × 10<sup>08</sup> km<sup>2</sup><br/>(0.884 Yrths)
         volume: 9.003 × 10<sup>11</sup> km<sup>3</sup><br/>(0.831 Yrths)
-        mass: 1.201 × 10<sup>24</sup> kg<br />(2.215232543784134 Yrths)
+        mass: 1.201 × 10<sup>24</sup> kg<br />(0.201 Yrths)
         density: 1.334 g/cm<sup>3</sup>
         surface_gravity: 2.231 m/s<sup>2</sup><br />(0.227 g<sub>0</sub>)
         escape_velocity: 5.173 km/s<br />(18,624 km/h)
         rotation_period: 56.997 d
         axial_tilt: 35.46°
         albedo: 0.30
-        temperature: 1687 K<br />(1414 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 1318 Orshenniad III e
         type: Rocky
         formationType: Impact formed
@@ -242,14 +242,14 @@ planets:
         radius: 4,189.8 km<br/>(0.658 Yrths)
         surface_area: 2.206 × 10<sup>08</sup> km<sup>2</sup><br/>(0.432 Yrths)
         volume: 3.081 × 10<sup>11</sup> km<sup>3</sup><br/>(0.284 Yrths)
-        mass: 1.028 × 10<sup>24</sup> kg<br />(2.215232543784134 Yrths)
+        mass: 1.028 × 10<sup>24</sup> kg<br />(0.172 Yrths)
         density: 3.338 g/cm<sup>3</sup>
         surface_gravity: 3.905 m/s<sup>2</sup><br />(0.398 g<sub>0</sub>)
         escape_velocity: 5.724 km/s<br />(20,606 km/h)
         rotation_period: 36.487 d
         axial_tilt: 22.71°
         albedo: 0.30
-        temperature: 1609 K<br />(1335 °C)
+        temperature: 181 K<br />(-92 °C)
   - name: 1318 Orshenniad IV
     type: Large terrestrial
     aphelion: 532,349,964 km<br />3.558 AU
@@ -261,14 +261,14 @@ planets:
     radius: 9,219.7 km<br/>(1.447 Yrths)
     surface_area: 1.068 × 10<sup>09</sup> km<sup>2</sup><br/>(2.094 Yrths)
     volume: 3.283 × 10<sup>12</sup> km<sup>3</sup><br/>(3.031 Yrths)
-    mass: 1.889 × 10<sup>25</sup> kg<br />(3.1634532997793015 Yrths)
+    mass: 1.889 × 10<sup>25</sup> kg<br />(3.16 Yrths)
     density: 5.755 g/cm<sup>3</sup>
     surface_gravity: 14.814 m/s<sup>2</sup><br />(1.511 g<sub>0</sub>)
     escape_velocity: 16.539 km/s<br />(59,539 km/h)
     rotation_period: 0.721 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 181 K<br />(-93 °C)
+    temperature: 248 K<br />(-25 °C)
     surface_pressure: 194 kPa<br />(2 atm)
     composition:
       - 85.5779% ammonia
@@ -287,14 +287,14 @@ planets:
         radius: 5,963.8 km<br/>(0.936 Yrths)
         surface_area: 4.469 × 10<sup>08</sup> km<sup>2</sup><br/>(0.876 Yrths)
         volume: 8.885 × 10<sup>11</sup> km<sup>3</sup><br/>(0.820 Yrths)
-        mass: 2.790 × 10<sup>24</sup> kg<br />(3.1634532997793015 Yrths)
+        mass: 2.790 × 10<sup>24</sup> kg<br />(0.467 Yrths)
         density: 3.140 g/cm<sup>3</sup>
         surface_gravity: 5.229 m/s<sup>2</sup><br />(0.533 g<sub>0</sub>)
         escape_velocity: 7.902 km/s<br />(28,449 km/h)
         rotation_period: 33.198 d
         axial_tilt: 17.51°
         albedo: 0.30
-        temperature: 1690 K<br />(1416 °C)
+        temperature: 136 K<br />(-137 °C)
       - name: 1318 Orshenniad IV b
         type: Icy
         formationType: Captured
@@ -307,14 +307,14 @@ planets:
         radius: 2,936.5 km<br/>(0.461 Yrths)
         surface_area: 1.084 × 10<sup>08</sup> km<sup>2</sup><br/>(0.212 Yrths)
         volume: 1.061 × 10<sup>11</sup> km<sup>3</sup><br/>(0.098 Yrths)
-        mass: 1.646 × 10<sup>23</sup> kg<br />(3.1634532997793015 Yrths)
+        mass: 1.646 × 10<sup>23</sup> kg<br />(0.028 Yrths)
         density: 1.552 g/cm<sup>3</sup>
         surface_gravity: 1.273 m/s<sup>2</sup><br />(0.130 g<sub>0</sub>)
         escape_velocity: 2.736 km/s<br />(9,849 km/h)
         rotation_period: 48.472 d
         axial_tilt: 14.25°
         albedo: 0.30
-        temperature: 1611 K<br />(1338 °C)
+        temperature: 136 K<br />(-137 °C)
   - name: 1318 Orshenniad V
     type: Terrestrial
     aphelion: 943,405,537 km<br />6.306 AU
@@ -326,7 +326,7 @@ planets:
     radius: 6,333.5 km<br/>(0.994 Yrths)
     surface_area: 5.041 × 10<sup>08</sup> km<sup>2</sup><br/>(0.988 Yrths)
     volume: 1.064 × 10<sup>12</sup> km<sup>3</sup><br/>(0.982 Yrths)
-    mass: 5.538 × 10<sup>24</sup> kg<br />(0.9272565834163186 Yrths)
+    mass: 5.538 × 10<sup>24</sup> kg<br />(0.93 Yrths)
     density: 5.203 g/cm<sup>3</sup>
     surface_gravity: 9.201 m/s<sup>2</sup><br />(0.938 g<sub>0</sub>)
     escape_velocity: 10.803 km/s<br />(38,892 km/h)
@@ -353,14 +353,14 @@ planets:
         radius: 2,077.3 km<br/>(0.326 Yrths)
         surface_area: 5.422 × 10<sup>07</sup> km<sup>2</sup><br/>(0.106 Yrths)
         volume: 3.755 × 10<sup>10</sup> km<sup>3</sup><br/>(0.035 Yrths)
-        mass: 1.044 × 10<sup>23</sup> kg<br />(0.9272565834163186 Yrths)
+        mass: 1.044 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 2.779 g/cm<sup>3</sup>
         surface_gravity: 1.612 m/s<sup>2</sup><br />(0.164 g<sub>0</sub>)
         escape_velocity: 2.590 km/s<br />(9,323 km/h)
         rotation_period: 46.294 d
         axial_tilt: 21.85°
         albedo: 0.30
-        temperature: 1473 K<br />(1200 °C)
+        temperature: 102 K<br />(-171 °C)
   - name: 1318 Orshenniad VI
     type: Ice giant
     aphelion: 1,660,380,052 km<br />11.099 AU
@@ -372,14 +372,14 @@ planets:
     radius: 20,666.9 km<br/>(3.244 Yrths)
     surface_area: 5.367 × 10<sup>09</sup> km<sup>2</sup><br/>(10.523 Yrths)
     volume: 3.698 × 10<sup>13</sup> km<sup>3</sup><br/>(34.135 Yrths)
-    mass: 3.699 × 10<sup>25</sup> kg<br />(6.193261237855299 Yrths)
+    mass: 3.699 × 10<sup>25</sup> kg<br />(6.19 Yrths)
     density: 1.000 g/cm<sup>3</sup>
     surface_gravity: 5.772 m/s<sup>2</sup><br />(0.589 g<sub>0</sub>)
     escape_velocity: 15.456 km/s<br />(55,642 km/h)
     rotation_period: 0.405 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 141 K<br />(-133 °C)
+    temperature: 128 K<br />(-145 °C)
     composition:
       - 58.9462% hydrogen
       - 38.3148% helium
@@ -397,14 +397,14 @@ planets:
         radius: 7,732.8 km<br/>(1.214 Yrths)
         surface_area: 7.514 × 10<sup>08</sup> km<sup>2</sup><br/>(1.473 Yrths)
         volume: 1.937 × 10<sup>12</sup> km<sup>3</sup><br/>(1.788 Yrths)
-        mass: 3.751 × 10<sup>24</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 3.751 × 10<sup>24</sup> kg<br />(0.628 Yrths)
         density: 1.936 g/cm<sup>3</sup>
         surface_gravity: 4.181 m/s<sup>2</sup><br />(0.426 g<sub>0</sub>)
         escape_velocity: 8.046 km/s<br />(28,967 km/h)
         rotation_period: 36.675 d
         axial_tilt: 25.97°
         albedo: 0.30
-        temperature: 799 K<br />(526 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -417,14 +417,14 @@ planets:
         radius: 11,350.8 km<br/>(1.782 Yrths)
         surface_area: 1.619 × 10<sup>09</sup> km<sup>2</sup><br/>(3.174 Yrths)
         volume: 6.126 × 10<sup>12</sup> km<sup>3</sup><br/>(5.655 Yrths)
-        mass: 1.541 × 10<sup>25</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 1.541 × 10<sup>25</sup> kg<br />(2.581 Yrths)
         density: 2.516 g/cm<sup>3</sup>
         surface_gravity: 7.973 m/s<sup>2</sup><br />(0.813 g<sub>0</sub>)
         escape_velocity: 13.463 km/s<br />(48,467 km/h)
         rotation_period: 34.112 d
         axial_tilt: 12.27°
         albedo: 0.30
-        temperature: 762 K<br />(488 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI c
         type: Icy
         formationType: Accreted
@@ -437,14 +437,14 @@ planets:
         radius: 10,978.8 km<br/>(1.723 Yrths)
         surface_area: 1.515 × 10<sup>09</sup> km<sup>2</sup><br/>(2.970 Yrths)
         volume: 5.543 × 10<sup>12</sup> km<sup>3</sup><br/>(5.117 Yrths)
-        mass: 5.962 × 10<sup>24</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 5.962 × 10<sup>24</sup> kg<br />(0.998 Yrths)
         density: 1.075 g/cm<sup>3</sup>
         surface_gravity: 3.297 m/s<sup>2</sup><br />(0.336 g<sub>0</sub>)
         escape_velocity: 8.514 km/s<br />(30,649 km/h)
         rotation_period: 81.075 d
         axial_tilt: 9.22°
         albedo: 0.30
-        temperature: 726 K<br />(453 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI d
         type: Icy
         formationType: Accreted
@@ -457,14 +457,14 @@ planets:
         radius: 9,364.7 km<br/>(1.470 Yrths)
         surface_area: 1.102 × 10<sup>09</sup> km<sup>2</sup><br/>(2.161 Yrths)
         volume: 3.440 × 10<sup>12</sup> km<sup>3</sup><br/>(3.176 Yrths)
-        mass: 3.688 × 10<sup>24</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 3.688 × 10<sup>24</sup> kg<br />(0.618 Yrths)
         density: 1.072 g/cm<sup>3</sup>
         surface_gravity: 2.803 m/s<sup>2</sup><br />(0.286 g<sub>0</sub>)
         escape_velocity: 7.251 km/s<br />(26,103 km/h)
         rotation_period: 71.237 d
         axial_tilt: 24.24°
         albedo: 0.30
-        temperature: 660 K<br />(387 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI e
         type: Dwarf planet
         formationType: Accreted
@@ -477,14 +477,14 @@ planets:
         radius: 4,925.5 km<br/>(0.773 Yrths)
         surface_area: 3.049 × 10<sup>08</sup> km<sup>2</sup><br/>(0.598 Yrths)
         volume: 5.005 × 10<sup>11</sup> km<sup>3</sup><br/>(0.462 Yrths)
-        mass: 1.036 × 10<sup>24</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 1.036 × 10<sup>24</sup> kg<br />(0.174 Yrths)
         density: 2.070 g/cm<sup>3</sup>
         surface_gravity: 2.847 m/s<sup>2</sup><br />(0.290 g<sub>0</sub>)
         escape_velocity: 5.299 km/s<br />(19,078 km/h)
         rotation_period: 48.457 d
         axial_tilt: 39.59°
         albedo: 0.30
-        temperature: 629 K<br />(356 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI f
         type: Ice/rock hybrid
         formationType: Captured
@@ -497,14 +497,14 @@ planets:
         radius: 15,253.3 km<br/>(2.394 Yrths)
         surface_area: 2.924 × 10<sup>09</sup> km<sup>2</sup><br/>(5.732 Yrths)
         volume: 1.487 × 10<sup>13</sup> km<sup>3</sup><br/>(13.723 Yrths)
-        mass: 2.986 × 10<sup>25</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 2.986 × 10<sup>25</sup> kg<br />(5.000 Yrths)
         density: 2.009 g/cm<sup>3</sup>
         surface_gravity: 8.555 m/s<sup>2</sup><br />(0.872 g<sub>0</sub>)
         escape_velocity: 16.166 km/s<br />(58,196 km/h)
         rotation_period: 64.303 d
         axial_tilt: 20.80°
         albedo: 0.30
-        temperature: 600 K<br />(327 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI g
         type: Icy
         formationType: Impact formed
@@ -517,14 +517,14 @@ planets:
         radius: 6,767.0 km<br/>(1.062 Yrths)
         surface_area: 5.754 × 10<sup>08</sup> km<sup>2</sup><br/>(1.128 Yrths)
         volume: 1.298 × 10<sup>12</sup> km<sup>3</sup><br/>(1.198 Yrths)
-        mass: 1.299 × 10<sup>24</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 1.299 × 10<sup>24</sup> kg<br />(0.217 Yrths)
         density: 1.001 g/cm<sup>3</sup>
         surface_gravity: 1.890 m/s<sup>2</sup><br />(0.193 g<sub>0</sub>)
         escape_velocity: 5.062 km/s<br />(18,222 km/h)
         rotation_period: 61.840 d
         axial_tilt: 18.29°
         albedo: 0.30
-        temperature: 572 K<br />(299 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI h
         type: Icy
         formationType: Impact formed
@@ -537,14 +537,14 @@ planets:
         radius: 4,938.2 km<br/>(0.775 Yrths)
         surface_area: 3.064 × 10<sup>08</sup> km<sup>2</sup><br/>(0.601 Yrths)
         volume: 5.044 × 10<sup>11</sup> km<sup>3</sup><br/>(0.466 Yrths)
-        mass: 6.368 × 10<sup>23</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 6.368 × 10<sup>23</sup> kg<br />(0.107 Yrths)
         density: 1.262 g/cm<sup>3</sup>
         surface_gravity: 1.740 m/s<sup>2</sup><br />(0.177 g<sub>0</sub>)
         escape_velocity: 4.149 km/s<br />(14,936 km/h)
         rotation_period: 84.800 d
         axial_tilt: 9.28°
         albedo: 0.30
-        temperature: 546 K<br />(272 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI i
         type: Icy
         formationType: Accreted
@@ -557,14 +557,14 @@ planets:
         radius: 4,078.3 km<br/>(0.640 Yrths)
         surface_area: 2.090 × 10<sup>08</sup> km<sup>2</sup><br/>(0.410 Yrths)
         volume: 2.841 × 10<sup>11</sup> km<sup>3</sup><br/>(0.262 Yrths)
-        mass: 4.798 × 10<sup>23</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 4.798 × 10<sup>23</sup> kg<br />(0.080 Yrths)
         density: 1.689 g/cm<sup>3</sup>
         surface_gravity: 1.923 m/s<sup>2</sup><br />(0.196 g<sub>0</sub>)
         escape_velocity: 3.963 km/s<br />(14,266 km/h)
         rotation_period: 51.117 d
         axial_tilt: 19.29°
         albedo: 0.30
-        temperature: 473 K<br />(200 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI j
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -577,14 +577,14 @@ planets:
         radius: 5,559.5 km<br/>(0.873 Yrths)
         surface_area: 3.884 × 10<sup>08</sup> km<sup>2</sup><br/>(0.761 Yrths)
         volume: 7.198 × 10<sup>11</sup> km<sup>3</sup><br/>(0.664 Yrths)
-        mass: 1.770 × 10<sup>24</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 1.770 × 10<sup>24</sup> kg<br />(0.296 Yrths)
         density: 2.459 g/cm<sup>3</sup>
         surface_gravity: 3.817 m/s<sup>2</sup><br />(0.389 g<sub>0</sub>)
         escape_velocity: 6.519 km/s<br />(23,469 km/h)
         rotation_period: 51.217 d
         axial_tilt: 14.73°
         albedo: 0.30
-        temperature: 451 K<br />(178 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 1318 Orshenniad VI k
         type: Ice/rock hybrid
         formationType: Captured
@@ -597,14 +597,14 @@ planets:
         radius: 4,428.6 km<br/>(0.695 Yrths)
         surface_area: 2.465 × 10<sup>08</sup> km<sup>2</sup><br/>(0.483 Yrths)
         volume: 3.638 × 10<sup>11</sup> km<sup>3</sup><br/>(0.336 Yrths)
-        mass: 6.266 × 10<sup>23</sup> kg<br />(6.193261237855299 Yrths)
+        mass: 6.266 × 10<sup>23</sup> kg<br />(0.105 Yrths)
         density: 1.722 g/cm<sup>3</sup>
         surface_gravity: 2.130 m/s<sup>2</sup><br />(0.217 g<sub>0</sub>)
         escape_velocity: 4.346 km/s<br />(15,646 km/h)
         rotation_period: 46.341 d
         axial_tilt: 10.74°
         albedo: 0.30
-        temperature: 430 K<br />(157 °C)
+        temperature: 77 K<br />(-196 °C)
   - name: 1318 Orshenniad VII
     type: Ice giant
     aphelion: 2,913,435,336 km<br />19.475 AU
@@ -616,14 +616,14 @@ planets:
     radius: 20,986.7 km<br/>(3.294 Yrths)
     surface_area: 5.535 × 10<sup>09</sup> km<sup>2</sup><br/>(10.851 Yrths)
     volume: 3.872 × 10<sup>13</sup> km<sup>3</sup><br/>(35.744 Yrths)
-    mass: 6.106 × 10<sup>25</sup> kg<br />(10.22434929050778 Yrths)
+    mass: 6.106 × 10<sup>25</sup> kg<br />(10.22 Yrths)
     density: 1.577 g/cm<sup>3</sup>
     surface_gravity: 9.240 m/s<sup>2</sup><br />(0.942 g<sub>0</sub>)
     escape_velocity: 19.707 km/s<br />(70,946 km/h)
     rotation_period: 0.364 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 104 K<br />(-169 °C)
+    temperature: 93 K<br />(-180 °C)
     composition:
       - 96.6427% hydrogen
       - 3.3573% helium
@@ -640,14 +640,14 @@ planets:
         radius: 10,850.0 km<br/>(1.703 Yrths)
         surface_area: 1.479 × 10<sup>09</sup> km<sup>2</sup><br/>(2.900 Yrths)
         volume: 5.350 × 10<sup>12</sup> km<sup>3</sup><br/>(4.939 Yrths)
-        mass: 7.050 × 10<sup>24</sup> kg<br />(10.22434929050778 Yrths)
+        mass: 7.050 × 10<sup>24</sup> kg<br />(1.180 Yrths)
         density: 1.318 g/cm<sup>3</sup>
         surface_gravity: 3.991 m/s<sup>2</sup><br />(0.407 g<sub>0</sub>)
         escape_velocity: 9.313 km/s<br />(33,527 km/h)
         rotation_period: 72.487 d
         axial_tilt: 18.27°
         albedo: 0.30
-        temperature: 551 K<br />(278 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 1318 Orshenniad VII b
         type: Icy
         formationType: Accreted
@@ -660,14 +660,14 @@ planets:
         radius: 16,495.8 km<br/>(2.589 Yrths)
         surface_area: 3.419 × 10<sup>09</sup> km<sup>2</sup><br/>(6.704 Yrths)
         volume: 1.880 × 10<sup>13</sup> km<sup>3</sup><br/>(17.358 Yrths)
-        mass: 1.613 × 10<sup>25</sup> kg<br />(10.22434929050778 Yrths)
+        mass: 1.613 × 10<sup>25</sup> kg<br />(2.701 Yrths)
         density: 0.858 g/cm<sup>3</sup>
         surface_gravity: 3.951 m/s<sup>2</sup><br />(0.403 g<sub>0</sub>)
         escape_velocity: 11.424 km/s<br />(41,127 km/h)
         rotation_period: 60.578 d
         axial_tilt: 15.24°
         albedo: 0.30
-        temperature: 526 K<br />(253 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 1318 Orshenniad VII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -680,14 +680,14 @@ planets:
         radius: 11,012.8 km<br/>(1.729 Yrths)
         surface_area: 1.524 × 10<sup>09</sup> km<sup>2</sup><br/>(2.988 Yrths)
         volume: 5.595 × 10<sup>12</sup> km<sup>3</sup><br/>(5.165 Yrths)
-        mass: 1.480 × 10<sup>25</sup> kg<br />(10.22434929050778 Yrths)
+        mass: 1.480 × 10<sup>25</sup> kg<br />(2.478 Yrths)
         density: 2.645 g/cm<sup>3</sup>
         surface_gravity: 8.133 m/s<sup>2</sup><br />(0.829 g<sub>0</sub>)
         escape_velocity: 13.393 km/s<br />(48,216 km/h)
         rotation_period: 48.446 d
         axial_tilt: 16.85°
         albedo: 0.30
-        temperature: 501 K<br />(228 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 1318 Orshenniad VII d
         type: Icy
         formationType: Captured
@@ -700,14 +700,14 @@ planets:
         radius: 7,166.0 km<br/>(1.125 Yrths)
         surface_area: 6.453 × 10<sup>08</sup> km<sup>2</sup><br/>(1.265 Yrths)
         volume: 1.541 × 10<sup>12</sup> km<sup>3</sup><br/>(1.423 Yrths)
-        mass: 1.783 × 10<sup>24</sup> kg<br />(10.22434929050778 Yrths)
+        mass: 1.783 × 10<sup>24</sup> kg<br />(0.299 Yrths)
         density: 1.157 g/cm<sup>3</sup>
         surface_gravity: 2.314 m/s<sup>2</sup><br />(0.236 g<sub>0</sub>)
         escape_velocity: 5.763 km/s<br />(20,747 km/h)
         rotation_period: 76.790 d
         axial_tilt: 19.24°
         albedo: 0.30
-        temperature: 478 K<br />(205 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 1318 Orshenniad VII e
         type: Ice/rock hybrid
         formationType: Captured
@@ -720,14 +720,14 @@ planets:
         radius: 18,823.1 km<br/>(2.955 Yrths)
         surface_area: 4.452 × 10<sup>09</sup> km<sup>2</sup><br/>(8.729 Yrths)
         volume: 2.794 × 10<sup>13</sup> km<sup>3</sup><br/>(25.790 Yrths)
-        mass: 7.345 × 10<sup>25</sup> kg<br />(10.22434929050778 Yrths)
+        mass: 7.345 × 10<sup>25</sup> kg<br />(12.299 Yrths)
         density: 2.629 g/cm<sup>3</sup>
         surface_gravity: 13.818 m/s<sup>2</sup><br />(1.409 g<sub>0</sub>)
         escape_velocity: 22.823 km/s<br />(82,163 km/h)
         rotation_period: 36.153 d
         axial_tilt: 22.50°
         albedo: 0.30
-        temperature: 456 K<br />(183 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 1318 Orshenniad VII f
         type: Icy
         formationType: Accreted
@@ -740,14 +740,14 @@ planets:
         radius: 21,568.1 km<br/>(3.385 Yrths)
         surface_area: 5.846 × 10<sup>09</sup> km<sup>2</sup><br/>(11.461 Yrths)
         volume: 4.203 × 10<sup>13</sup> km<sup>3</sup><br/>(38.798 Yrths)
-        mass: 6.993 × 10<sup>25</sup> kg<br />(10.22434929050778 Yrths)
+        mass: 6.993 × 10<sup>25</sup> kg<br />(11.710 Yrths)
         density: 1.664 g/cm<sup>3</sup>
         surface_gravity: 10.020 m/s<sup>2</sup><br />(1.022 g<sub>0</sub>)
         escape_velocity: 20.804 km/s<br />(74,894 km/h)
         rotation_period: 59.702 d
         axial_tilt: 14.07°
         albedo: 0.30
-        temperature: 414 K<br />(141 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 1318 Orshenniad VII g
         type: Ice/rock hybrid
         formationType: Captured
@@ -760,14 +760,14 @@ planets:
         radius: 15,601.6 km<br/>(2.449 Yrths)
         surface_area: 3.059 × 10<sup>09</sup> km<sup>2</sup><br/>(5.997 Yrths)
         volume: 1.591 × 10<sup>13</sup> km<sup>3</sup><br/>(14.685 Yrths)
-        mass: 4.296 × 10<sup>25</sup> kg<br />(10.22434929050778 Yrths)
+        mass: 4.296 × 10<sup>25</sup> kg<br />(7.193 Yrths)
         density: 2.701 g/cm<sup>3</sup>
         surface_gravity: 11.763 m/s<sup>2</sup><br />(1.200 g<sub>0</sub>)
         escape_velocity: 19.172 km/s<br />(69,018 km/h)
         rotation_period: 36.827 d
         axial_tilt: 10.97°
         albedo: 0.30
-        temperature: 395 K<br />(122 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 1318 Orshenniad VII h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -780,14 +780,14 @@ planets:
         radius: 6,589.5 km<br/>(1.034 Yrths)
         surface_area: 5.457 × 10<sup>08</sup> km<sup>2</sup><br/>(1.070 Yrths)
         volume: 1.199 × 10<sup>12</sup> km<sup>3</sup><br/>(1.106 Yrths)
-        mass: 3.035 × 10<sup>24</sup> kg<br />(10.22434929050778 Yrths)
+        mass: 3.035 × 10<sup>24</sup> kg<br />(0.508 Yrths)
         density: 2.533 g/cm<sup>3</sup>
         surface_gravity: 4.659 m/s<sup>2</sup><br />(0.475 g<sub>0</sub>)
         escape_velocity: 7.842 km/s<br />(28,230 km/h)
         rotation_period: 53.672 d
         axial_tilt: 24.92°
         albedo: 0.30
-        temperature: 377 K<br />(104 °C)
+        temperature: 58 K<br />(-215 °C)
       - name: 1318 Orshenniad VII i
         type: Icy
         formationType: Accreted
@@ -800,14 +800,14 @@ planets:
         radius: 14,819.6 km<br/>(2.326 Yrths)
         surface_area: 2.760 × 10<sup>09</sup> km<sup>2</sup><br/>(5.411 Yrths)
         volume: 1.363 × 10<sup>13</sup> km<sup>3</sup><br/>(12.586 Yrths)
-        mass: 1.136 × 10<sup>25</sup> kg<br />(10.22434929050778 Yrths)
+        mass: 1.136 × 10<sup>25</sup> kg<br />(1.902 Yrths)
         density: 0.833 g/cm<sup>3</sup>
         surface_gravity: 3.447 m/s<sup>2</sup><br />(0.352 g<sub>0</sub>)
         escape_velocity: 10.115 km/s<br />(36,413 km/h)
         rotation_period: 59.868 d
         axial_tilt: 16.50°
         albedo: 0.30
-        temperature: 359 K<br />(86 °C)
+        temperature: 58 K<br />(-215 °C)
   - name: 1318 Orshenniad VIII
     type: Large terrestrial
     aphelion: 5,128,369,114 km<br />34.281 AU
@@ -819,14 +819,14 @@ planets:
     radius: 10,862.5 km<br/>(1.705 Yrths)
     surface_area: 1.483 × 10<sup>09</sup> km<sup>2</sup><br/>(2.907 Yrths)
     volume: 5.369 × 10<sup>12</sup> km<sup>3</sup><br/>(4.956 Yrths)
-    mass: 3.853 × 10<sup>25</sup> kg<br />(6.452150633859714 Yrths)
+    mass: 3.853 × 10<sup>25</sup> kg<br />(6.45 Yrths)
     density: 7.177 g/cm<sup>3</sup>
     surface_gravity: 21.766 m/s<sup>2</sup><br />(2.220 g<sub>0</sub>)
     escape_velocity: 21.760 km/s<br />(78,337 km/h)
     rotation_period: 0.532 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 57 K<br />(-216 °C)
+    temperature: 50 K<br />(-223 °C)
     surface_pressure: 514 kPa<br />(5 atm)
     composition:
       - 98.5237% nitrogen
@@ -844,14 +844,14 @@ planets:
         radius: 12,200.3 km<br/>(1.915 Yrths)
         surface_area: 1.870 × 10<sup>09</sup> km<sup>2</sup><br/>(3.667 Yrths)
         volume: 7.607 × 10<sup>12</sup> km<sup>3</sup><br/>(7.022 Yrths)
-        mass: 1.555 × 10<sup>25</sup> kg<br />(6.452150633859714 Yrths)
+        mass: 1.555 × 10<sup>25</sup> kg<br />(2.603 Yrths)
         density: 2.044 g/cm<sup>3</sup>
         surface_gravity: 6.962 m/s<sup>2</sup><br />(0.710 g<sub>0</sub>)
         escape_velocity: 13.043 km/s<br />(46,953 km/h)
         rotation_period: 56.152 d
         axial_tilt: 21.40°
         albedo: 0.30
-        temperature: 448 K<br />(175 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 1318 Orshenniad VIII b
         type: Dwarf planet
         formationType: Captured
@@ -864,12 +864,12 @@ planets:
         radius: 4,058.5 km<br/>(0.637 Yrths)
         surface_area: 2.070 × 10<sup>08</sup> km<sup>2</sup><br/>(0.406 Yrths)
         volume: 2.800 × 10<sup>11</sup> km<sup>3</sup><br/>(0.259 Yrths)
-        mass: 4.360 × 10<sup>23</sup> kg<br />(6.452150633859714 Yrths)
+        mass: 4.360 × 10<sup>23</sup> kg<br />(0.073 Yrths)
         density: 1.557 g/cm<sup>3</sup>
         surface_gravity: 1.764 m/s<sup>2</sup><br />(0.180 g<sub>0</sub>)
         escape_velocity: 3.787 km/s<br />(13,633 km/h)
         rotation_period: 45.924 d
         axial_tilt: 41.18°
         albedo: 0.30
-        temperature: 427 K<br />(154 °C)
+        temperature: 43 K<br />(-230 °C)
 ---

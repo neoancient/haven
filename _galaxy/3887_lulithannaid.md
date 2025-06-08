@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3887 Lulithannaid is a star in the constellation Lulithan
+      3887 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 387.99 ly
 apparent_magnitude: 10.41
 absolute_magnitude: 5.03

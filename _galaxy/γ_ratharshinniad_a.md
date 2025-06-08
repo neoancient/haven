@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      γ Ratharshinniad A is a star in the constellation Ratharshin
+      γ Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 243.86 ly
 apparent_magnitude: 2.95
 absolute_magnitude: -1.42

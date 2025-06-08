@@ -7,7 +7,7 @@ sections:
   - content: >-
       Nishi is a constellation representing a Fish.
 stars:
-  - name:
+  - name: <a href="leranishi.html">Leranishi</a>
     designation: α Nishiad
     ra: 1<sup>h</sup> 54<sup>m</sup> 31.46<sup>s</sup>
     dec: 43° 09' 58.64"
@@ -15,7 +15,7 @@ stars:
     absolute_magnitude: -0.41
     distance: 102.18
     spectral_class: B9V
-  - name:
+  - name: <a href="ailnishi.html">Ailnishi</a>
     designation: β Nishiad
     ra: 0<sup>h</sup> -33<sup>m</sup> -56.93<sup>s</sup>
     dec: 40° 24' 45.87"
@@ -104,7 +104,7 @@ stars:
     distance: 8,136.97
     spectral_class: O5IV + B7Iab + Magnetar
   - name:
-    designation: ν Nishiad
+    designation: <a href="ν_nishiad.html">ν Nishiad</a>
     ra: 0<sup>h</sup> 59<sup>m</sup> 8.68<sup>s</sup>
     dec: 39° 28' 17.12"
     apparent_magnitude: 4.29
@@ -200,7 +200,7 @@ stars:
     distance: 2,500.29
     spectral_class: B4V + B5V + B6V
   - name:
-    designation: 0001 Nishiad
+    designation: <a href="0001_nishiad.html">0001 Nishiad</a>
     ra: 2<sup>h</sup> 03<sup>m</sup> 5.63<sup>s</sup>
     dec: 42° 23' 43.86"
     apparent_magnitude: 5.21
@@ -352,7 +352,7 @@ stars:
     distance: 290.03
     spectral_class: A8III + K2III + F8V
   - name:
-    designation: 0076 Nishiad
+    designation: <a href="0076_nishiad.html">0076 Nishiad</a>
     ra: 1<sup>h</sup> 29<sup>m</sup> 3.86<sup>s</sup>
     dec: 47° 32' 18.21"
     apparent_magnitude: 5.90
@@ -392,7 +392,7 @@ stars:
     distance: 150.96
     spectral_class: A5V
   - name:
-    designation: 0073 Nishiad
+    designation: <a href="0073_nishiad.html">0073 Nishiad</a>
     ra: 1<sup>h</sup> 33<sup>m</sup> 24.97<sup>s</sup>
     dec: 46° 53' 57.49"
     apparent_magnitude: 5.98
@@ -456,7 +456,7 @@ stars:
     distance: 2,125.50
     spectral_class: B5V + K4III
   - name:
-    designation: 0079 Nishiad
+    designation: <a href="0079_nishiad.html">0079 Nishiad</a>
     ra: 1<sup>h</sup> 24<sup>m</sup> 12.10<sup>s</sup>
     dec: 46° 48' 26.11"
     apparent_magnitude: 6.06
@@ -504,7 +504,7 @@ stars:
     distance: 2,223.37
     spectral_class: B5V + M0III
   - name:
-    designation: 0018 Nishiad
+    designation: <a href="0018_nishiad.html">0018 Nishiad</a>
     ra: 2<sup>h</sup> 07<sup>m</sup> 2.14<sup>s</sup>
     dec: 34° 33' 30.76"
     apparent_magnitude: 6.11
@@ -568,7 +568,7 @@ stars:
     distance: 993.50
     spectral_class: A2III + M0III
   - name:
-    designation: 0053 Nishiad
+    designation: <a href="0053_nishiad.html">0053 Nishiad</a>
     ra: 23<sup>h</sup> 15<sup>m</sup> 3.55<sup>s</sup>
     dec: 45° 58' 35.45"
     apparent_magnitude: 6.19
@@ -632,7 +632,7 @@ stars:
     distance: 914.03
     spectral_class: A5III
   - name:
-    designation: 0036 Nishiad
+    designation: <a href="0036_nishiad.html">0036 Nishiad</a>
     ra: 0<sup>h</sup> 32<sup>m</sup> 7.06<sup>s</sup>
     dec: 34° 27' 26.29"
     apparent_magnitude: 6.27
@@ -704,7 +704,7 @@ stars:
     distance: 94.78
     spectral_class: K7II
   - name:
-    designation: 0021 Nishiad
+    designation: <a href="0021_nishiad.html">0021 Nishiad</a>
     ra: 1<sup>h</sup> 40<sup>m</sup> 15.36<sup>s</sup>
     dec: 31° 46' 37.79"
     apparent_magnitude: 6.32
@@ -720,7 +720,7 @@ stars:
     distance: 472.19
     spectral_class: A9III
   - name:
-    designation: 0033 Nishiad
+    designation: <a href="0033_nishiad.html">0033 Nishiad</a>
     ra: 23<sup>h</sup> 06<sup>m</sup> 39.67<sup>s</sup>
     dec: 35° 56' 2.61"
     apparent_magnitude: 6.33
@@ -744,7 +744,7 @@ stars:
     distance: 919.78
     spectral_class: A3III
   - name:
-    designation: 0057 Nishiad
+    designation: <a href="0057_nishiad.html">0057 Nishiad</a>
     ra: 0<sup>h</sup> 08<sup>m</sup> 28.53<sup>s</sup>
     dec: 47° 19' 52.26"
     apparent_magnitude: 6.34
@@ -760,7 +760,7 @@ stars:
     distance: 621.01
     spectral_class: A5III
   - name:
-    designation: 0060 Nishiad
+    designation: <a href="0060_nishiad.html">0060 Nishiad</a>
     ra: 23<sup>h</sup> 48<sup>m</sup> 29.12<sup>s</sup>
     dec: 42° 39' 3.97"
     apparent_magnitude: 6.37
@@ -808,7 +808,7 @@ stars:
     distance: 23,492.57
     spectral_class: B0V + B4Iab + B6V
   - name:
-    designation: 0065 Nishiad
+    designation: <a href="0065_nishiad.html">0065 Nishiad</a>
     ra: 0<sup>h</sup> 36<sup>m</sup> 38.02<sup>s</sup>
     dec: 41° 27' 7.07"
     apparent_magnitude: 6.42
@@ -856,7 +856,7 @@ stars:
     distance: 747.16
     spectral_class: A6III
   - name:
-    designation: 0038 Nishiad
+    designation: <a href="0038_nishiad.html">0038 Nishiad</a>
     ra: 0<sup>h</sup> 54<sup>m</sup> 42.53<sup>s</sup>
     dec: 37° 28' 59.89"
     apparent_magnitude: 6.46

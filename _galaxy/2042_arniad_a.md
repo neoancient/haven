@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2042 Arniad A is a star in the constellation Arni
+      2042 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 326.67 ly
 apparent_magnitude: 8.87
 absolute_magnitude: 3.87

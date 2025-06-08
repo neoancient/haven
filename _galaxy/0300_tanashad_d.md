@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0300 Tanashad D is a star in the constellation Tanas
+      0300 Tanashad D is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1914.74 ly
 apparent_magnitude: 6.57
 absolute_magnitude: -2.27

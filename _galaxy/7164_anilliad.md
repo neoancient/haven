@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7164 Anilliad is a star in the constellation Anil
+      7164 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 711.01 ly
 apparent_magnitude: 14.78
 absolute_magnitude: 8.09

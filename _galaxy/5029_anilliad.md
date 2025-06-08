@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5029 Anilliad is a star in the constellation Anil
+      5029 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 385.14 ly
 apparent_magnitude: 20.88
 absolute_magnitude: 15.52

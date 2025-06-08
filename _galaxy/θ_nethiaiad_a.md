@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Nethiaiad A is a star in the constellation Nethiai
+      θ Nethiaiad A is a star in the constellation <a href="nethiai.html">Nethiai</a>
 distance: 357.10 ly
 apparent_magnitude: 7.43
 absolute_magnitude: 2.24

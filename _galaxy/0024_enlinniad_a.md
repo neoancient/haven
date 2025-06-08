@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Enlinniad A is a star in the constellation Enlin
+      0024 Enlinniad A is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 216.04 ly
 apparent_magnitude: 6.59
 absolute_magnitude: 2.48

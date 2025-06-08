@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Leo A is a star in the constellation Niniun
+      Leo A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 238.90 ly
 apparent_magnitude: 1.99
 absolute_magnitude: -2.33

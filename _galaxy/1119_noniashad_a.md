@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1119 Noniashad A is a star in the constellation Nonias
+      1119 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 609.25 ly
 apparent_magnitude: 7.77
 absolute_magnitude: 1.42

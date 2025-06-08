@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0250 Irsaiad A is a star in the constellation Irsa
+      0250 Irsaiad A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 740.01 ly
 apparent_magnitude: 6.49
 absolute_magnitude: -0.29

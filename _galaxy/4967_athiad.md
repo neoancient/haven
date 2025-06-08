@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4967 Athiad is a star in the constellation Ath
+      4967 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 403.90 ly
 apparent_magnitude: 17.51
 absolute_magnitude: 12.05

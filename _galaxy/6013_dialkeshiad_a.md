@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6013 Dialkeshiad A is a star in the constellation Dialkes
+      6013 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 405.58 ly
 apparent_magnitude: 10.28
 absolute_magnitude: 4.81

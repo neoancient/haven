@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      381 Oniad is a star in the constellation Oni
+      381 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 952.31 ly
 apparent_magnitude: 9.67
 absolute_magnitude: 2.34

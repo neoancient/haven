@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5068 Narashiad is a star in the constellation Naras
+      5068 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 938.43 ly
 apparent_magnitude: 16.47
 absolute_magnitude: 9.18

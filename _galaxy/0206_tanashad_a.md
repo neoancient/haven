@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0206 Tanashad A is a star in the constellation Tanas
+      0206 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 319.59 ly
 apparent_magnitude: 6.82
 absolute_magnitude: 1.86

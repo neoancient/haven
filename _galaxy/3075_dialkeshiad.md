@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3075 Dialkeshiad is a star in the constellation Dialkes
+      3075 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 145.58 ly
 apparent_magnitude: 8.65
 absolute_magnitude: 5.40

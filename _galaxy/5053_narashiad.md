@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5053 Narashiad is a star in the constellation Naras
+      5053 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 421.89 ly
 apparent_magnitude: 11.08
 absolute_magnitude: 5.52

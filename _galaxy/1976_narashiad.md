@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1976 Narashiad is a star in the constellation Naras
+      1976 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 663.28 ly
 apparent_magnitude: 15.98
 absolute_magnitude: 9.43

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8531 Arkothiad A is a star in the constellation Arkoth
+      8531 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 648.30 ly
 apparent_magnitude: 8.45
 absolute_magnitude: 1.96

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0138 Lulithannaid A is a star in the constellation Lulithan
+      0138 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 338.25 ly
 apparent_magnitude: 6.49
 absolute_magnitude: 1.41

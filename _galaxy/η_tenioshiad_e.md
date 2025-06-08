@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      η Tenioshiad E is a star in the constellation Tenios
+      η Tenioshiad E is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 225.88 ly
 apparent_magnitude: 9.16
 absolute_magnitude: 4.96

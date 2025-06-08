@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Nalithiad C is a star in the constellation Nalith
+      0002 Nalithiad C is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 2488.11 ly
 apparent_magnitude: 13.48
 absolute_magnitude: 4.07
@@ -31,7 +31,7 @@ planets:
     radius: 196.3 km<br/>(0.031 Yrths)
     surface_area: 4.843 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.169 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.328 × 10<sup>26</sup> kg<br />(156.19890918172075 Yrths)
+    mass: 9.328 × 10<sup>26</sup> kg<br />(156.20 Yrths)
     density: 29433801.541 g/cm<sup>3</sup>
     surface_gravity: 1613263.580 m/s<sup>2</sup><br />(164507.103 g<sub>0</sub>)
     escape_velocity: 796.415 km/s<br />(2,867,095 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 108,503.7 km<br/>(17.031 Yrths)
         surface_area: 1.479 × 10<sup>11</sup> km<sup>2</sup><br/>(290.051 Yrths)
         volume: 5.351 × 10<sup>15</sup> km<sup>3</sup><br/>(4939.818 Yrths)
-        mass: 1.163 × 10<sup>28</sup> kg<br />(156.19890918172075 Yrths)
+        mass: 1.163 × 10<sup>28</sup> kg<br />(1946.700 Yrths)
         density: 2.173 g/cm<sup>3</sup>
         surface_gravity: 65.818 m/s<sup>2</sup><br />(6.712 g<sub>0</sub>)
         escape_velocity: 119.593 km/s<br />(430,534 km/h)
         rotation_period: 34.954 d
         axial_tilt: 23.86°
         albedo: 0.30
-        temperature: 1579 K<br />(1306 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0002 Nalithiad C I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 102,401.7 km<br/>(16.073 Yrths)
         surface_area: 1.318 × 10<sup>11</sup> km<sup>2</sup><br/>(258.344 Yrths)
         volume: 4.498 × 10<sup>15</sup> km<sup>3</sup><br/>(4152.397 Yrths)
-        mass: 1.084 × 10<sup>28</sup> kg<br />(156.19890918172075 Yrths)
+        mass: 1.084 × 10<sup>28</sup> kg<br />(1815.297 Yrths)
         density: 2.410 g/cm<sup>3</sup>
         surface_gravity: 68.908 m/s<sup>2</sup><br />(7.027 g<sub>0</sub>)
         escape_velocity: 118.877 km/s<br />(427,957 km/h)
         rotation_period: 48.521 d
         axial_tilt: 18.82°
         albedo: 0.30
-        temperature: 935 K<br />(662 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0002 Nalithiad C I c
         type: Icy
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 174,231.4 km<br/>(27.348 Yrths)
         surface_area: 3.815 × 10<sup>11</sup> km<sup>2</sup><br/>(747.890 Yrths)
         volume: 2.215 × 10<sup>16</sup> km<sup>3</sup><br/>(20452.989 Yrths)
-        mass: 1.551 × 10<sup>28</sup> kg<br />(156.19890918172075 Yrths)
+        mass: 1.551 × 10<sup>28</sup> kg<br />(2596.847 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 34.051 m/s<sup>2</sup><br />(3.472 g<sub>0</sub>)
         escape_velocity: 109.003 km/s<br />(392,410 km/h)
         rotation_period: 89.937 d
         axial_tilt: 19.52°
         albedo: 0.30
-        temperature: 850 K<br />(577 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0002 Nalithiad C I d
         type: Rocky
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 88,386.0 km<br/>(13.873 Yrths)
         surface_area: 9.817 × 10<sup>10</sup> km<sup>2</sup><br/>(192.465 Yrths)
         volume: 2.892 × 10<sup>15</sup> km<sup>3</sup><br/>(2670.103 Yrths)
-        mass: 8.714 × 10<sup>27</sup> kg<br />(156.19890918172075 Yrths)
+        mass: 8.714 × 10<sup>27</sup> kg<br />(1459.063 Yrths)
         density: 3.013 g/cm<sup>3</sup>
         surface_gravity: 74.343 m/s<sup>2</sup><br />(7.581 g<sub>0</sub>)
         escape_velocity: 114.716 km/s<br />(412,977 km/h)
         rotation_period: 52.616 d
         axial_tilt: 19.26°
         albedo: 0.30
-        temperature: 457 K<br />(184 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0002 Nalithiad C I e
         type: Icy
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 141,455.9 km<br/>(22.203 Yrths)
         surface_area: 2.515 × 10<sup>11</sup> km<sup>2</sup><br/>(492.977 Yrths)
         volume: 1.186 × 10<sup>16</sup> km<sup>3</sup><br/>(10945.617 Yrths)
-        mass: 1.495 × 10<sup>28</sup> kg<br />(156.19890918172075 Yrths)
+        mass: 1.495 × 10<sup>28</sup> kg<br />(2502.725 Yrths)
         density: 1.261 g/cm<sup>3</sup>
         surface_gravity: 49.786 m/s<sup>2</sup><br />(5.077 g<sub>0</sub>)
         escape_velocity: 118.761 km/s<br />(427,540 km/h)
         rotation_period: 70.223 d
         axial_tilt: 22.23°
         albedo: 0.30
-        temperature: 396 K<br />(123 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0002 Nalithiad C I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 100,575.1 km<br/>(15.786 Yrths)
         surface_area: 1.271 × 10<sup>11</sup> km<sup>2</sup><br/>(249.210 Yrths)
         volume: 4.261 × 10<sup>15</sup> km<sup>3</sup><br/>(3934.131 Yrths)
-        mass: 9.313 × 10<sup>27</sup> kg<br />(156.19890918172075 Yrths)
+        mass: 9.313 × 10<sup>27</sup> kg<br />(1559.467 Yrths)
         density: 2.185 g/cm<sup>3</sup>
         surface_gravity: 61.366 m/s<sup>2</sup><br />(6.258 g<sub>0</sub>)
         escape_velocity: 111.178 km/s<br />(400,242 km/h)
         rotation_period: 52.699 d
         axial_tilt: 26.18°
         albedo: 0.30
-        temperature: 344 K<br />(70 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0002 Nalithiad C I g
         type: Icy
         formationType: Captured
@@ -172,14 +172,14 @@ planets:
         radius: 122,764.8 km<br/>(19.269 Yrths)
         surface_area: 1.894 × 10<sup>11</sup> km<sup>2</sup><br/>(371.306 Yrths)
         volume: 7.750 × 10<sup>15</sup> km<sup>3</sup><br/>(7154.814 Yrths)
-        mass: 9.110 × 10<sup>27</sup> kg<br />(156.19890918172075 Yrths)
+        mass: 9.110 × 10<sup>27</sup> kg<br />(1525.454 Yrths)
         density: 1.175 g/cm<sup>3</sup>
         surface_gravity: 40.289 m/s<sup>2</sup><br />(4.108 g<sub>0</sub>)
         escape_velocity: 99.527 km/s<br />(358,297 km/h)
         rotation_period: 67.680 d
         axial_tilt: 21.47°
         albedo: 0.30
-        temperature: 176 K<br />(-97 °C)
+        temperature: 223 K<br />(-50 °C)
       - name: 0002 Nalithiad C I h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -192,14 +192,14 @@ planets:
         radius: 145,560.7 km<br/>(22.847 Yrths)
         surface_area: 2.663 × 10<sup>11</sup> km<sup>2</sup><br/>(522.003 Yrths)
         volume: 1.292 × 10<sup>16</sup> km<sup>3</sup><br/>(11926.398 Yrths)
-        mass: 2.995 × 10<sup>28</sup> kg<br />(156.19890918172075 Yrths)
+        mass: 2.995 × 10<sup>28</sup> kg<br />(5015.582 Yrths)
         density: 2.319 g/cm<sup>3</sup>
         surface_gravity: 94.226 m/s<sup>2</sup><br />(9.608 g<sub>0</sub>)
         escape_velocity: 165.736 km/s<br />(596,649 km/h)
         rotation_period: 33.849 d
         axial_tilt: 27.06°
         albedo: 0.30
-        temperature: 168 K<br />(-105 °C)
+        temperature: 223 K<br />(-50 °C)
   - name: 0002 Nalithiad C II
     type: Large terrestrial
     aphelion: 767,212,145 km<br />5.128 AU
@@ -211,14 +211,14 @@ planets:
     radius: 6,814.5 km<br/>(1.070 Yrths)
     surface_area: 5.835 × 10<sup>08</sup> km<sup>2</sup><br/>(1.144 Yrths)
     volume: 1.326 × 10<sup>12</sup> km<sup>3</sup><br/>(1.224 Yrths)
-    mass: 8.008 × 10<sup>24</sup> kg<br />(1.3409193859326265 Yrths)
+    mass: 8.008 × 10<sup>24</sup> kg<br />(1.34 Yrths)
     density: 6.041 g/cm<sup>3</sup>
     surface_gravity: 11.494 m/s<sup>2</sup><br />(1.172 g<sub>0</sub>)
     escape_velocity: 12.525 km/s<br />(45,089 km/h)
     rotation_period: 1.057 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 201 K<br />(-73 °C)
+    temperature: 202 K<br />(-71 °C)
     surface_pressure: 184 kPa<br />(2 atm)
     composition:
       - 94.4905% nitrogen
@@ -236,14 +236,14 @@ planets:
         radius: 4,440.4 km<br/>(0.697 Yrths)
         surface_area: 2.478 × 10<sup>08</sup> km<sup>2</sup><br/>(0.486 Yrths)
         volume: 3.667 × 10<sup>11</sup> km<sup>3</sup><br/>(0.339 Yrths)
-        mass: 3.844 × 10<sup>23</sup> kg<br />(1.3409193859326265 Yrths)
+        mass: 3.844 × 10<sup>23</sup> kg<br />(0.064 Yrths)
         density: 1.048 g/cm<sup>3</sup>
         surface_gravity: 1.299 m/s<sup>2</sup><br />(0.133 g<sub>0</sub>)
         escape_velocity: 3.399 km/s<br />(12,237 km/h)
         rotation_period: 81.770 d
         axial_tilt: 13.84°
         albedo: 0.30
-        temperature: 2545 K<br />(2272 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: 0002 Nalithiad C II b
         type: Asteroid
         formationType: Captured
@@ -256,14 +256,14 @@ planets:
         radius: 3,873.6 km<br/>(0.608 Yrths)
         surface_area: 1.886 × 10<sup>08</sup> km<sup>2</sup><br/>(0.370 Yrths)
         volume: 2.435 × 10<sup>11</sup> km<sup>3</sup><br/>(0.225 Yrths)
-        mass: 6.370 × 10<sup>23</sup> kg<br />(1.3409193859326265 Yrths)
+        mass: 6.370 × 10<sup>23</sup> kg<br />(0.107 Yrths)
         density: 2.617 g/cm<sup>3</sup>
         surface_gravity: 2.830 m/s<sup>2</sup><br />(0.289 g<sub>0</sub>)
         escape_velocity: 4.685 km/s<br />(16,867 km/h)
         rotation_period: 40.623 d
         axial_tilt: 53.42°
         albedo: 0.30
-        temperature: 2427 K<br />(2154 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: 0002 Nalithiad C II c
         type: Asteroid
         formationType: Captured
@@ -276,14 +276,14 @@ planets:
         radius: 3,374.4 km<br/>(0.530 Yrths)
         surface_area: 1.431 × 10<sup>08</sup> km<sup>2</sup><br/>(0.281 Yrths)
         volume: 1.609 × 10<sup>11</sup> km<sup>3</sup><br/>(0.149 Yrths)
-        mass: 2.880 × 10<sup>23</sup> kg<br />(1.3409193859326265 Yrths)
+        mass: 2.880 × 10<sup>23</sup> kg<br />(0.048 Yrths)
         density: 1.789 g/cm<sup>3</sup>
         surface_gravity: 1.686 m/s<sup>2</sup><br />(0.172 g<sub>0</sub>)
         escape_velocity: 3.375 km/s<br />(12,151 km/h)
         rotation_period: 52.171 d
         axial_tilt: 41.61°
         albedo: 0.30
-        temperature: 2314 K<br />(2041 °C)
+        temperature: 160 K<br />(-113 °C)
   - name: 0002 Nalithiad C III
     type: Terrestrial
     aphelion: 1,511,121,596 km<br />10.101 AU
@@ -295,14 +295,14 @@ planets:
     radius: 5,951.7 km<br/>(0.934 Yrths)
     surface_area: 4.451 × 10<sup>08</sup> km<sup>2</sup><br/>(0.873 Yrths)
     volume: 8.831 × 10<sup>11</sup> km<sup>3</sup><br/>(0.815 Yrths)
-    mass: 4.250 × 10<sup>24</sup> kg<br />(0.7116872417428978 Yrths)
+    mass: 4.250 × 10<sup>24</sup> kg<br />(0.71 Yrths)
     density: 4.813 g/cm<sup>3</sup>
     surface_gravity: 7.997 m/s<sup>2</sup><br />(0.816 g<sub>0</sub>)
     escape_velocity: 9.763 km/s<br />(35,148 km/h)
     rotation_period: 1.124 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 128 K<br />(-146 °C)
+    temperature: 133 K<br />(-140 °C)
     surface_pressure: 21 kPa<br />(0 atm)
     composition:
       - 71.2996% nitrogen
@@ -321,14 +321,14 @@ planets:
         radius: 1,702.4 km<br/>(0.267 Yrths)
         surface_area: 3.642 × 10<sup>07</sup> km<sup>2</sup><br/>(0.071 Yrths)
         volume: 2.067 × 10<sup>10</sup> km<sup>3</sup><br/>(0.019 Yrths)
-        mass: 4.223 × 10<sup>22</sup> kg<br />(0.7116872417428978 Yrths)
+        mass: 4.223 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 2.043 g/cm<sup>3</sup>
         surface_gravity: 0.971 m/s<sup>2</sup><br />(0.099 g<sub>0</sub>)
         escape_velocity: 1.820 km/s<br />(6,551 km/h)
         rotation_period: 49.116 d
         axial_tilt: 51.99°
         albedo: 0.30
-        temperature: 2019 K<br />(1745 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0002 Nalithiad C III b
         type: Icy
         formationType: Captured
@@ -341,12 +341,12 @@ planets:
         radius: 1,872.4 km<br/>(0.294 Yrths)
         surface_area: 4.405 × 10<sup>07</sup> km<sup>2</sup><br/>(0.086 Yrths)
         volume: 2.750 × 10<sup>10</sup> km<sup>3</sup><br/>(0.025 Yrths)
-        mass: 1.925 × 10<sup>22</sup> kg<br />(0.7116872417428978 Yrths)
+        mass: 1.925 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.366 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 1.171 km/s<br />(4,217 km/h)
         rotation_period: 65.279 d
         axial_tilt: 26.44°
         albedo: 0.30
-        temperature: 1925 K<br />(1651 °C)
+        temperature: 114 K<br />(-159 °C)
 ---

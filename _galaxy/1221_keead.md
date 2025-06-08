@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1221 Keead is a star in the constellation Kee
+      1221 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 309.06 ly
 apparent_magnitude: 8.11
 absolute_magnitude: 3.23
@@ -31,14 +31,14 @@ planets:
     radius: 6,398.8 km<br/>(1.004 Yrths)
     surface_area: 5.145 × 10<sup>08</sup> km<sup>2</sup><br/>(1.009 Yrths)
     volume: 1.097 × 10<sup>12</sup> km<sup>3</sup><br/>(1.013 Yrths)
-    mass: 5.489 × 10<sup>24</sup> kg<br />(0.9190825909457517 Yrths)
+    mass: 5.489 × 10<sup>24</sup> kg<br />(0.92 Yrths)
     density: 5.001 g/cm<sup>3</sup>
     surface_gravity: 8.935 m/s<sup>2</sup><br />(0.911 g<sub>0</sub>)
     escape_velocity: 10.701 km/s<br />(38,522 km/h)
     rotation_period: 1.200 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 495 K<br />(222 °C)
+    temperature: 1075 K<br />(801 °C)
     surface_pressure: 67 kPa<br />(1 atm)
     composition:
       - 48.3927% methane
@@ -58,14 +58,14 @@ planets:
         radius: 3,380.4 km<br/>(0.531 Yrths)
         surface_area: 1.436 × 10<sup>08</sup> km<sup>2</sup><br/>(0.282 Yrths)
         volume: 1.618 × 10<sup>11</sup> km<sup>3</sup><br/>(0.149 Yrths)
-        mass: 2.770 × 10<sup>23</sup> kg<br />(0.9190825909457517 Yrths)
+        mass: 2.770 × 10<sup>23</sup> kg<br />(0.046 Yrths)
         density: 1.712 g/cm<sup>3</sup>
         surface_gravity: 1.616 m/s<sup>2</sup><br />(0.165 g<sub>0</sub>)
         escape_velocity: 3.307 km/s<br />(11,907 km/h)
         rotation_period: 70.574 d
         axial_tilt: 21.71°
         albedo: 0.30
-        temperature: 6449 K<br />(6175 °C)
+        temperature: 355 K<br />(82 °C)
   - name: 1221 Keead II
     type: Gas dwarf
     aphelion: 293,569,590 km<br />1.962 AU
@@ -77,14 +77,14 @@ planets:
     radius: 16,733.5 km<br/>(2.627 Yrths)
     surface_area: 3.519 × 10<sup>09</sup> km<sup>2</sup><br/>(6.899 Yrths)
     volume: 1.963 × 10<sup>13</sup> km<sup>3</sup><br/>(18.119 Yrths)
-    mass: 3.173 × 10<sup>25</sup> kg<br />(5.3134211606405986 Yrths)
+    mass: 3.173 × 10<sup>25</sup> kg<br />(5.31 Yrths)
     density: 1.617 g/cm<sup>3</sup>
     surface_gravity: 7.553 m/s<sup>2</sup><br />(0.770 g<sub>0</sub>)
     escape_velocity: 15.910 km/s<br />(57,276 km/h)
     rotation_period: 0.523 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 409 K<br />(136 °C)
+    temperature: 363 K<br />(90 °C)
     composition:
       - 51.1096% hydrogen
       - 44.0896% helium
@@ -103,14 +103,14 @@ planets:
         radius: 5,051.4 km<br/>(0.793 Yrths)
         surface_area: 3.207 × 10<sup>08</sup> km<sup>2</sup><br/>(0.629 Yrths)
         volume: 5.399 × 10<sup>11</sup> km<sup>3</sup><br/>(0.498 Yrths)
-        mass: 1.117 × 10<sup>24</sup> kg<br />(5.3134211606405986 Yrths)
+        mass: 1.117 × 10<sup>24</sup> kg<br />(0.187 Yrths)
         density: 2.069 g/cm<sup>3</sup>
         surface_gravity: 2.917 m/s<sup>2</sup><br />(0.297 g<sub>0</sub>)
         escape_velocity: 5.433 km/s<br />(19,557 km/h)
         rotation_period: 42.698 d
         axial_tilt: 14.64°
         albedo: 0.30
-        temperature: 3029 K<br />(2756 °C)
+        temperature: 265 K<br />(-8 °C)
       - name: 1221 Keead II b
         type: Icy
         formationType: Accreted
@@ -123,14 +123,14 @@ planets:
         radius: 5,821.6 km<br/>(0.914 Yrths)
         surface_area: 4.259 × 10<sup>08</sup> km<sup>2</sup><br/>(0.835 Yrths)
         volume: 8.264 × 10<sup>11</sup> km<sup>3</sup><br/>(0.763 Yrths)
-        mass: 1.570 × 10<sup>24</sup> kg<br />(5.3134211606405986 Yrths)
+        mass: 1.570 × 10<sup>24</sup> kg<br />(0.263 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 3.088 m/s<sup>2</sup><br />(0.315 g<sub>0</sub>)
         escape_velocity: 6.000 km/s<br />(21,601 km/h)
         rotation_period: 57.819 d
         axial_tilt: 6.81°
         albedo: 0.30
-        temperature: 2888 K<br />(2615 °C)
+        temperature: 265 K<br />(-8 °C)
       - name: 1221 Keead II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -143,14 +143,14 @@ planets:
         radius: 8,336.1 km<br/>(1.308 Yrths)
         surface_area: 8.732 × 10<sup>08</sup> km<sup>2</sup><br/>(1.712 Yrths)
         volume: 2.426 × 10<sup>12</sup> km<sup>3</sup><br/>(2.240 Yrths)
-        mass: 5.149 × 10<sup>24</sup> kg<br />(5.3134211606405986 Yrths)
+        mass: 5.149 × 10<sup>24</sup> kg<br />(0.862 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 4.939 m/s<sup>2</sup><br />(0.504 g<sub>0</sub>)
         escape_velocity: 9.080 km/s<br />(32,690 km/h)
         rotation_period: 34.120 d
         axial_tilt: 34.15°
         albedo: 0.30
-        temperature: 2754 K<br />(2481 °C)
+        temperature: 265 K<br />(-8 °C)
       - name: 1221 Keead II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -163,14 +163,14 @@ planets:
         radius: 8,957.6 km<br/>(1.406 Yrths)
         surface_area: 1.008 × 10<sup>09</sup> km<sup>2</sup><br/>(1.977 Yrths)
         volume: 3.011 × 10<sup>12</sup> km<sup>3</sup><br/>(2.779 Yrths)
-        mass: 5.638 × 10<sup>24</sup> kg<br />(5.3134211606405986 Yrths)
+        mass: 5.638 × 10<sup>24</sup> kg<br />(0.944 Yrths)
         density: 1.873 g/cm<sup>3</sup>
         surface_gravity: 4.684 m/s<sup>2</sup><br />(0.478 g<sub>0</sub>)
         escape_velocity: 9.166 km/s<br />(32,999 km/h)
         rotation_period: 46.863 d
         axial_tilt: 27.97°
         albedo: 0.30
-        temperature: 2626 K<br />(2353 °C)
+        temperature: 265 K<br />(-8 °C)
   - name: 1221 Keead III
     type: Large terrestrial
     aphelion: 563,788,073 km<br />3.769 AU
@@ -182,14 +182,14 @@ planets:
     radius: 6,213.0 km<br/>(0.975 Yrths)
     surface_area: 4.851 × 10<sup>08</sup> km<sup>2</sup><br/>(0.951 Yrths)
     volume: 1.005 × 10<sup>12</sup> km<sup>3</sup><br/>(0.927 Yrths)
-    mass: 6.602 × 10<sup>24</sup> kg<br />(1.1054440115439135 Yrths)
+    mass: 6.602 × 10<sup>24</sup> kg<br />(1.11 Yrths)
     density: 6.572 g/cm<sup>3</sup>
     surface_gravity: 11.399 m/s<sup>2</sup><br />(1.162 g<sub>0</sub>)
     escape_velocity: 11.910 km/s<br />(42,874 km/h)
     rotation_period: 0.889 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 285 K<br />(12 °C)
+    temperature: 334 K<br />(61 °C)
     surface_pressure: 1,108 kPa<br />(11 atm)
     composition:
       - 81.5615% methane
@@ -209,14 +209,14 @@ planets:
         radius: 3,140.1 km<br/>(0.493 Yrths)
         surface_area: 1.239 × 10<sup>08</sup> km<sup>2</sup><br/>(0.243 Yrths)
         volume: 1.297 × 10<sup>11</sup> km<sup>3</sup><br/>(0.120 Yrths)
-        mass: 3.984 × 10<sup>23</sup> kg<br />(1.1054440115439135 Yrths)
+        mass: 3.984 × 10<sup>23</sup> kg<br />(0.067 Yrths)
         density: 3.072 g/cm<sup>3</sup>
         surface_gravity: 2.693 m/s<sup>2</sup><br />(0.275 g<sub>0</sub>)
         escape_velocity: 4.115 km/s<br />(14,815 km/h)
         rotation_period: 54.691 d
         axial_tilt: 18.66°
         albedo: 0.30
-        temperature: 3060 K<br />(2786 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 1221 Keead III b
         type: Icy
         formationType: Captured
@@ -229,14 +229,14 @@ planets:
         radius: 4,569.1 km<br/>(0.717 Yrths)
         surface_area: 2.623 × 10<sup>08</sup> km<sup>2</sup><br/>(0.514 Yrths)
         volume: 3.996 × 10<sup>11</sup> km<sup>3</sup><br/>(0.369 Yrths)
-        mass: 4.908 × 10<sup>23</sup> kg<br />(1.1054440115439135 Yrths)
+        mass: 4.908 × 10<sup>23</sup> kg<br />(0.082 Yrths)
         density: 1.228 g/cm<sup>3</sup>
         surface_gravity: 1.567 m/s<sup>2</sup><br />(0.160 g<sub>0</sub>)
         escape_velocity: 3.787 km/s<br />(13,632 km/h)
         rotation_period: 77.517 d
         axial_tilt: 21.37°
         albedo: 0.30
-        temperature: 2917 K<br />(2644 °C)
+        temperature: 198 K<br />(-75 °C)
   - name: 1221 Keead IV
     type: Ice giant
     aphelion: 966,684,367 km<br />6.462 AU
@@ -248,14 +248,14 @@ planets:
     radius: 17,460.2 km<br/>(2.741 Yrths)
     surface_area: 3.831 × 10<sup>09</sup> km<sup>2</sup><br/>(7.511 Yrths)
     volume: 2.230 × 10<sup>13</sup> km<sup>3</sup><br/>(20.584 Yrths)
-    mass: 2.882 × 10<sup>25</sup> kg<br />(4.825766611680994 Yrths)
+    mass: 2.882 × 10<sup>25</sup> kg<br />(4.83 Yrths)
     density: 1.293 g/cm<sup>3</sup>
     surface_gravity: 6.301 m/s<sup>2</sup><br />(0.643 g<sub>0</sub>)
     escape_velocity: 14.844 km/s<br />(53,437 km/h)
     rotation_period: 0.422 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 295 K<br />(22 °C)
+    temperature: 271 K<br />(-2 °C)
     composition:
       - 87.9486% hydrogen
       - 8.7256% helium
@@ -276,14 +276,14 @@ planets:
         radius: 11,044.4 km<br/>(1.734 Yrths)
         surface_area: 1.533 × 10<sup>09</sup> km<sup>2</sup><br/>(3.005 Yrths)
         volume: 5.643 × 10<sup>12</sup> km<sup>3</sup><br/>(5.210 Yrths)
-        mass: 1.271 × 10<sup>25</sup> kg<br />(4.825766611680994 Yrths)
+        mass: 1.271 × 10<sup>25</sup> kg<br />(2.129 Yrths)
         density: 2.253 g/cm<sup>3</sup>
         surface_gravity: 6.946 m/s<sup>2</sup><br />(0.708 g<sub>0</sub>)
         escape_velocity: 12.395 km/s<br />(44,623 km/h)
         rotation_period: 43.088 d
         axial_tilt: 29.25°
         albedo: 0.30
-        temperature: 1718 K<br />(1445 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1221 Keead IV b
         type: Icy
         formationType: Accreted
@@ -296,14 +296,14 @@ planets:
         radius: 8,329.7 km<br/>(1.307 Yrths)
         surface_area: 8.719 × 10<sup>08</sup> km<sup>2</sup><br/>(1.709 Yrths)
         volume: 2.421 × 10<sup>12</sup> km<sup>3</sup><br/>(2.235 Yrths)
-        mass: 3.083 × 10<sup>24</sup> kg<br />(4.825766611680994 Yrths)
+        mass: 3.083 × 10<sup>24</sup> kg<br />(0.516 Yrths)
         density: 1.274 g/cm<sup>3</sup>
         surface_gravity: 2.962 m/s<sup>2</sup><br />(0.302 g<sub>0</sub>)
         escape_velocity: 7.029 km/s<br />(25,305 km/h)
         rotation_period: 66.750 d
         axial_tilt: 13.26°
         albedo: 0.30
-        temperature: 1638 K<br />(1365 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1221 Keead IV c
         type: Icy
         formationType: Accreted
@@ -316,14 +316,14 @@ planets:
         radius: 25,985.3 km<br/>(4.079 Yrths)
         surface_area: 8.485 × 10<sup>09</sup> km<sup>2</sup><br/>(16.636 Yrths)
         volume: 7.350 × 10<sup>13</sup> km<sup>3</sup><br/>(67.852 Yrths)
-        mass: 5.145 × 10<sup>25</sup> kg<br />(4.825766611680994 Yrths)
+        mass: 5.145 × 10<sup>25</sup> kg<br />(8.615 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 5.078 m/s<sup>2</sup><br />(0.518 g<sub>0</sub>)
         escape_velocity: 16.257 km/s<br />(58,525 km/h)
         rotation_period: 70.019 d
         axial_tilt: 9.82°
         albedo: 0.30
-        temperature: 1562 K<br />(1289 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1221 Keead IV d
         type: Icy
         formationType: Accreted
@@ -336,14 +336,14 @@ planets:
         radius: 10,344.2 km<br/>(1.624 Yrths)
         surface_area: 1.345 × 10<sup>09</sup> km<sup>2</sup><br/>(2.636 Yrths)
         volume: 4.636 × 10<sup>12</sup> km<sup>3</sup><br/>(4.280 Yrths)
-        mass: 5.286 × 10<sup>24</sup> kg<br />(4.825766611680994 Yrths)
+        mass: 5.286 × 10<sup>24</sup> kg<br />(0.885 Yrths)
         density: 1.140 g/cm<sup>3</sup>
         surface_gravity: 3.293 m/s<sup>2</sup><br />(0.336 g<sub>0</sub>)
         escape_velocity: 8.259 km/s<br />(29,732 km/h)
         rotation_period: 57.305 d
         axial_tilt: 20.47°
         albedo: 0.30
-        temperature: 1489 K<br />(1216 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1221 Keead IV e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -356,14 +356,14 @@ planets:
         radius: 10,422.8 km<br/>(1.636 Yrths)
         surface_area: 1.365 × 10<sup>09</sup> km<sup>2</sup><br/>(2.676 Yrths)
         volume: 4.743 × 10<sup>12</sup> km<sup>3</sup><br/>(4.379 Yrths)
-        mass: 9.044 × 10<sup>24</sup> kg<br />(4.825766611680994 Yrths)
+        mass: 9.044 × 10<sup>24</sup> kg<br />(1.514 Yrths)
         density: 1.907 g/cm<sup>3</sup>
         surface_gravity: 5.549 m/s<sup>2</sup><br />(0.566 g<sub>0</sub>)
         escape_velocity: 10.762 km/s<br />(38,744 km/h)
         rotation_period: 47.983 d
         axial_tilt: 17.25°
         albedo: 0.30
-        temperature: 1420 K<br />(1147 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1221 Keead IV f
         type: Icy
         formationType: Captured
@@ -376,14 +376,14 @@ planets:
         radius: 6,580.8 km<br/>(1.033 Yrths)
         surface_area: 5.442 × 10<sup>08</sup> km<sup>2</sup><br/>(1.067 Yrths)
         volume: 1.194 × 10<sup>12</sup> km<sup>3</sup><br/>(1.102 Yrths)
-        mass: 1.556 × 10<sup>24</sup> kg<br />(4.825766611680994 Yrths)
+        mass: 1.556 × 10<sup>24</sup> kg<br />(0.261 Yrths)
         density: 1.304 g/cm<sup>3</sup>
         surface_gravity: 2.395 m/s<sup>2</sup><br />(0.244 g<sub>0</sub>)
         escape_velocity: 5.619 km/s<br />(20,227 km/h)
         rotation_period: 55.752 d
         axial_tilt: 15.12°
         albedo: 0.30
-        temperature: 1354 K<br />(1080 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1221 Keead IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -396,14 +396,14 @@ planets:
         radius: 5,284.4 km<br/>(0.829 Yrths)
         surface_area: 3.509 × 10<sup>08</sup> km<sup>2</sup><br/>(0.688 Yrths)
         volume: 6.181 × 10<sup>11</sup> km<sup>3</sup><br/>(0.571 Yrths)
-        mass: 1.154 × 10<sup>24</sup> kg<br />(4.825766611680994 Yrths)
+        mass: 1.154 × 10<sup>24</sup> kg<br />(0.193 Yrths)
         density: 1.867 g/cm<sup>3</sup>
         surface_gravity: 2.755 m/s<sup>2</sup><br />(0.281 g<sub>0</sub>)
         escape_velocity: 5.399 km/s<br />(19,437 km/h)
         rotation_period: 49.806 d
         axial_tilt: 12.71°
         albedo: 0.30
-        temperature: 1291 K<br />(1017 °C)
+        temperature: 148 K<br />(-125 °C)
   - name: 1221 Keead V
     type: Gas giant
     aphelion: 1,813,625,283 km<br />12.123 AU
@@ -415,7 +415,7 @@ planets:
     radius: 217.0 km<br/>(0.034 Yrths)
     surface_area: 5.917 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.280 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.428 × 10<sup>27</sup> kg<br />(239.1104780289253 Yrths)
+    mass: 1.428 × 10<sup>27</sup> kg<br />(239.11 Yrths)
     density: 33363182.058 g/cm<sup>3</sup>
     surface_gravity: 2021279.038 m/s<sup>2</sup><br />(206113.101 g<sub>0</sub>)
     escape_velocity: 937.238 km/s<br />(3,374,058 km/h)
@@ -436,14 +436,14 @@ planets:
         radius: 203,001.0 km<br/>(31.863 Yrths)
         surface_area: 5.179 × 10<sup>11</sup> km<sup>2</sup><br/>(1015.269 Yrths)
         volume: 3.504 × 10<sup>16</sup> km<sup>3</sup><br/>(32349.827 Yrths)
-        mass: 1.017 × 10<sup>29</sup> kg<br />(239.1104780289253 Yrths)
+        mass: 1.017 × 10<sup>29</sup> kg<br />(17023.289 Yrths)
         density: 2.901 g/cm<sup>3</sup>
         surface_gravity: 164.431 m/s<sup>2</sup><br />(16.767 g<sub>0</sub>)
         escape_velocity: 258.553 km/s<br />(930,792 km/h)
         rotation_period: 51.405 d
         axial_tilt: 19.44°
         albedo: 0.30
-        temperature: 668 K<br />(395 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 1221 Keead V b
         type: Icy
         formationType: Captured
@@ -456,14 +456,14 @@ planets:
         radius: 190,217.8 km<br/>(29.857 Yrths)
         surface_area: 4.547 × 10<sup>11</sup> km<sup>2</sup><br/>(891.430 Yrths)
         volume: 2.883 × 10<sup>16</sup> km<sup>3</sup><br/>(26615.268 Yrths)
-        mass: 4.354 × 10<sup>28</sup> kg<br />(239.1104780289253 Yrths)
+        mass: 4.354 × 10<sup>28</sup> kg<br />(7290.274 Yrths)
         density: 1.510 g/cm<sup>3</sup>
         surface_gravity: 80.201 m/s<sup>2</sup><br />(8.178 g<sub>0</sub>)
         escape_velocity: 174.793 km/s<br />(629,255 km/h)
         rotation_period: 70.140 d
         axial_tilt: 25.07°
         albedo: 0.30
-        temperature: 579 K<br />(306 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 1221 Keead V c
         type: Icy
         formationType: Captured
@@ -476,14 +476,14 @@ planets:
         radius: 191,579.5 km<br/>(30.071 Yrths)
         surface_area: 4.612 × 10<sup>11</sup> km<sup>2</sup><br/>(904.238 Yrths)
         volume: 2.945 × 10<sup>16</sup> km<sup>3</sup><br/>(27190.928 Yrths)
-        mass: 5.133 × 10<sup>28</sup> kg<br />(239.1104780289253 Yrths)
+        mass: 5.133 × 10<sup>28</sup> kg<br />(8594.535 Yrths)
         density: 1.743 g/cm<sup>3</sup>
         surface_gravity: 93.210 m/s<sup>2</sup><br />(9.505 g<sub>0</sub>)
         escape_velocity: 189.110 km/s<br />(680,796 km/h)
         rotation_period: 51.697 d
         axial_tilt: 22.99°
         albedo: 0.30
-        temperature: 502 K<br />(229 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 1221 Keead V d
         type: Ice/rock hybrid
         formationType: Captured
@@ -496,14 +496,14 @@ planets:
         radius: 174,310.6 km<br/>(27.360 Yrths)
         surface_area: 3.818 × 10<sup>11</sup> km<sup>2</sup><br/>(748.570 Yrths)
         volume: 2.219 × 10<sup>16</sup> km<sup>3</sup><br/>(20480.864 Yrths)
-        mass: 4.497 × 10<sup>28</sup> kg<br />(239.1104780289253 Yrths)
+        mass: 4.497 × 10<sup>28</sup> kg<br />(7529.372 Yrths)
         density: 2.027 g/cm<sup>3</sup>
         surface_gravity: 98.639 m/s<sup>2</sup><br />(10.058 g<sub>0</sub>)
         escape_velocity: 185.565 km/s<br />(668,033 km/h)
         rotation_period: 42.865 d
         axial_tilt: 19.54°
         albedo: 0.30
-        temperature: 396 K<br />(122 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 1221 Keead V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -516,14 +516,14 @@ planets:
         radius: 192,180.7 km<br/>(30.165 Yrths)
         surface_area: 4.641 × 10<sup>11</sup> km<sup>2</sup><br/>(909.923 Yrths)
         volume: 2.973 × 10<sup>16</sup> km<sup>3</sup><br/>(27447.754 Yrths)
-        mass: 6.129 × 10<sup>28</sup> kg<br />(239.1104780289253 Yrths)
+        mass: 6.129 × 10<sup>28</sup> kg<br />(10262.366 Yrths)
         density: 2.061 g/cm<sup>3</sup>
         surface_gravity: 110.602 m/s<sup>2</sup><br />(11.278 g<sub>0</sub>)
         escape_velocity: 206.322 km/s<br />(742,761 km/h)
         rotation_period: 37.438 d
         axial_tilt: 14.35°
         albedo: 0.30
-        temperature: 145 K<br />(-128 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 1221 Keead V f
         type: Ice/rock hybrid
         formationType: Captured
@@ -536,12 +536,12 @@ planets:
         radius: 261,198.8 km<br/>(40.998 Yrths)
         surface_area: 8.573 × 10<sup>11</sup> km<sup>2</sup><br/>(1680.844 Yrths)
         volume: 7.465 × 10<sup>16</sup> km<sup>3</sup><br/>(68911.378 Yrths)
-        mass: 1.343 × 10<sup>29</sup> kg<br />(239.1104780289253 Yrths)
+        mass: 1.343 × 10<sup>29</sup> kg<br />(22482.113 Yrths)
         density: 1.799 g/cm<sup>3</sup>
         surface_gravity: 131.169 m/s<sup>2</sup><br />(13.375 g<sub>0</sub>)
         escape_velocity: 261.945 km/s<br />(943,003 km/h)
         rotation_period: 40.197 d
         axial_tilt: 19.32°
         albedo: 0.30
-        temperature: 51 K<br />(-222 °C)
+        temperature: 110 K<br />(-163 °C)
 ---

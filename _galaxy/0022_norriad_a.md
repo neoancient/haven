@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0022 Norriad A is a star in the constellation Nor
+      0022 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 470.96 ly
 apparent_magnitude: 5.06
 absolute_magnitude: -0.74

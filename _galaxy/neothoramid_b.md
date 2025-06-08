@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Neothoramid B is a star in the constellation Shy
+      Neothoramid B is a star in the constellation <a href="shy.html">Shy</a>
 distance: 1359.37 ly
 apparent_magnitude: 5.86
 absolute_magnitude: -2.24

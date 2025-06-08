@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Switheriad B is a star in the constellation Swither
+      ο Switheriad B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 65.35 ly
 apparent_magnitude: 11.48
 absolute_magnitude: 9.97

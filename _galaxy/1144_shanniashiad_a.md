@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1144 Shanniashiad A is a star in the constellation Shannias
+      1144 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1322.52 ly
 apparent_magnitude: 6.91
 absolute_magnitude: -1.13

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3061 Lulithannaid is a star in the constellation Lulithan
+      3061 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 429.56 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 5.03

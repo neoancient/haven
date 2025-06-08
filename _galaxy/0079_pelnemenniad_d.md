@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0079 Pelnemenniad D is a star in the constellation Pelnemen
+      0079 Pelnemenniad D is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 88.17 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 5.68

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1598 Shanniashiad is a star in the constellation Shannias
+      1598 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 622.93 ly
 apparent_magnitude: 7.81
 absolute_magnitude: 1.40
@@ -31,7 +31,7 @@ planets:
     radius: 227.3 km<br/>(0.036 Yrths)
     surface_area: 6.491 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.917 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.906 × 10<sup>27</sup> kg<br />(319.1789349217984 Yrths)
+    mass: 1.906 × 10<sup>27</sup> kg<br />(319.18 Yrths)
     density: 38767010.389 g/cm<sup>3</sup>
     surface_gravity: 2459808.928 m/s<sup>2</sup><br />(250830.704 g<sub>0</sub>)
     escape_velocity: 1058.102 km/s<br />(3,809,169 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 158,974.9 km<br/>(24.953 Yrths)
         surface_area: 3.176 × 10<sup>11</sup> km<sup>2</sup><br/>(622.647 Yrths)
         volume: 1.683 × 10<sup>16</sup> km<sup>3</sup><br/>(15536.839 Yrths)
-        mass: 2.336 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 2.336 × 10<sup>28</sup> kg<br />(3912.053 Yrths)
         density: 1.388 g/cm<sup>3</sup>
         surface_gravity: 61.615 m/s<sup>2</sup><br />(6.283 g<sub>0</sub>)
         escape_velocity: 140.061 km/s<br />(504,218 km/h)
         rotation_period: 81.277 d
         axial_tilt: 22.49°
         albedo: 0.30
-        temperature: 1609 K<br />(1336 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 1598 Shanniashiad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 121,638.0 km<br/>(19.092 Yrths)
         surface_area: 1.859 × 10<sup>11</sup> km<sup>2</sup><br/>(364.522 Yrths)
         volume: 7.539 × 10<sup>15</sup> km<sup>3</sup><br/>(6959.619 Yrths)
-        mass: 1.505 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 1.505 × 10<sup>28</sup> kg<br />(2519.589 Yrths)
         density: 1.996 g/cm<sup>3</sup>
         surface_gravity: 67.784 m/s<sup>2</sup><br />(6.912 g<sub>0</sub>)
         escape_velocity: 128.501 km/s<br />(462,605 km/h)
         rotation_period: 44.775 d
         axial_tilt: 20.47°
         albedo: 0.30
-        temperature: 1329 K<br />(1056 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 1598 Shanniashiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 164,342.7 km<br/>(25.795 Yrths)
         surface_area: 3.394 × 10<sup>11</sup> km<sup>2</sup><br/>(665.405 Yrths)
         volume: 1.859 × 10<sup>16</sup> km<sup>3</sup><br/>(17164.407 Yrths)
-        mass: 4.261 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 4.261 × 10<sup>28</sup> kg<br />(7135.495 Yrths)
         density: 2.292 g/cm<sup>3</sup>
         surface_gravity: 105.162 m/s<sup>2</sup><br />(10.724 g<sub>0</sub>)
         escape_velocity: 186.044 km/s<br />(669,757 km/h)
         rotation_period: 34.109 d
         axial_tilt: 29.72°
         albedo: 0.30
-        temperature: 1268 K<br />(994 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 1598 Shanniashiad I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 167,700.3 km<br/>(26.322 Yrths)
         surface_area: 3.534 × 10<sup>11</sup> km<sup>2</sup><br/>(692.871 Yrths)
         volume: 1.976 × 10<sup>16</sup> km<sup>3</sup><br/>(18238.048 Yrths)
-        mass: 2.146 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 2.146 × 10<sup>28</sup> kg<br />(3592.860 Yrths)
         density: 1.086 g/cm<sup>3</sup>
         surface_gravity: 50.852 m/s<sup>2</sup><br />(5.185 g<sub>0</sub>)
         escape_velocity: 130.687 km/s<br />(470,472 km/h)
         rotation_period: 69.316 d
         axial_tilt: 8.02°
         albedo: 0.30
-        temperature: 1048 K<br />(774 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 1598 Shanniashiad I e
         type: Icy
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 199,886.8 km<br/>(31.374 Yrths)
         surface_area: 5.021 × 10<sup>11</sup> km<sup>2</sup><br/>(984.358 Yrths)
         volume: 3.345 × 10<sup>16</sup> km<sup>3</sup><br/>(30883.717 Yrths)
-        mass: 4.809 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 4.809 × 10<sup>28</sup> kg<br />(8052.475 Yrths)
         density: 1.438 g/cm<sup>3</sup>
         surface_gravity: 80.223 m/s<sup>2</sup><br />(8.180 g<sub>0</sub>)
         escape_velocity: 179.205 km/s<br />(645,138 km/h)
         rotation_period: 68.692 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 908 K<br />(635 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 1598 Shanniashiad I f
         type: Icy
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 129,044.9 km<br/>(20.255 Yrths)
         surface_area: 2.093 × 10<sup>11</sup> km<sup>2</sup><br/>(410.267 Yrths)
         volume: 9.001 × 10<sup>15</sup> km<sup>3</sup><br/>(8309.973 Yrths)
-        mass: 1.596 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 1.596 × 10<sup>28</sup> kg<br />(2671.726 Yrths)
         density: 1.773 g/cm<sup>3</sup>
         surface_gravity: 63.863 m/s<sup>2</sup><br />(6.512 g<sub>0</sub>)
         escape_velocity: 128.470 km/s<br />(462,494 km/h)
         rotation_period: 38.168 d
         axial_tilt: 19.98°
         albedo: 0.30
-        temperature: 538 K<br />(264 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 1598 Shanniashiad I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -172,14 +172,14 @@ planets:
         radius: 160,522.9 km<br/>(25.196 Yrths)
         surface_area: 3.238 × 10<sup>11</sup> km<sup>2</sup><br/>(634.832 Yrths)
         volume: 1.733 × 10<sup>16</sup> km<sup>3</sup><br/>(15995.151 Yrths)
-        mass: 2.772 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 2.772 × 10<sup>28</sup> kg<br />(4641.945 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 71.707 m/s<sup>2</sup><br />(7.312 g<sub>0</sub>)
         escape_velocity: 151.831 km/s<br />(546,590 km/h)
         rotation_period: 52.284 d
         axial_tilt: 21.75°
         albedo: 0.30
-        temperature: 350 K<br />(77 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 1598 Shanniashiad I h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -192,14 +192,14 @@ planets:
         radius: 196,856.5 km<br/>(30.899 Yrths)
         surface_area: 4.870 × 10<sup>11</sup> km<sup>2</sup><br/>(954.738 Yrths)
         volume: 3.195 × 10<sup>16</sup> km<sup>3</sup><br/>(29500.298 Yrths)
-        mass: 8.377 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 8.377 × 10<sup>28</sup> kg<br />(14027.467 Yrths)
         density: 2.622 g/cm<sup>3</sup>
         surface_gravity: 144.084 m/s<sup>2</sup><br />(14.692 g<sub>0</sub>)
         escape_velocity: 238.338 km/s<br />(858,015 km/h)
         rotation_period: 38.504 d
         axial_tilt: 22.31°
         albedo: 0.30
-        temperature: 318 K<br />(45 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 1598 Shanniashiad I i
         type: Ice/rock hybrid
         formationType: Captured
@@ -212,14 +212,14 @@ planets:
         radius: 113,069.6 km<br/>(17.748 Yrths)
         surface_area: 1.607 × 10<sup>11</sup> km<sup>2</sup><br/>(314.975 Yrths)
         volume: 6.055 × 10<sup>15</sup> km<sup>3</sup><br/>(5590.040 Yrths)
-        mass: 1.505 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 1.505 × 10<sup>28</sup> kg<br />(2519.798 Yrths)
         density: 2.485 g/cm<sup>3</sup>
         surface_gravity: 78.453 m/s<sup>2</sup><br />(8.000 g<sub>0</sub>)
         escape_velocity: 133.287 km/s<br />(479,833 km/h)
         rotation_period: 54.639 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 217 K<br />(-56 °C)
+        temperature: 304 K<br />(31 °C)
       - name: 1598 Shanniashiad I j
         type: Icy
         formationType: Accreted
@@ -232,14 +232,14 @@ planets:
         radius: 197,560.4 km<br/>(31.009 Yrths)
         surface_area: 4.905 × 10<sup>11</sup> km<sup>2</sup><br/>(961.578 Yrths)
         volume: 3.230 × 10<sup>16</sup> km<sup>3</sup><br/>(29817.879 Yrths)
-        mass: 5.014 × 10<sup>28</sup> kg<br />(319.1789349217984 Yrths)
+        mass: 5.014 × 10<sup>28</sup> kg<br />(8396.468 Yrths)
         density: 1.552 g/cm<sup>3</sup>
         surface_gravity: 85.631 m/s<sup>2</sup><br />(8.732 g<sub>0</sub>)
         escape_velocity: 184.067 km/s<br />(662,642 km/h)
         rotation_period: 47.560 d
         axial_tilt: 22.44°
         albedo: 0.30
-        temperature: 142 K<br />(-132 °C)
+        temperature: 304 K<br />(31 °C)
   - name: 1598 Shanniashiad II
     type: Large terrestrial
     aphelion: 1,238,849,024 km<br />8.281 AU
@@ -251,14 +251,14 @@ planets:
     radius: 11,778.9 km<br/>(1.849 Yrths)
     surface_area: 1.744 × 10<sup>09</sup> km<sup>2</sup><br/>(3.418 Yrths)
     volume: 6.846 × 10<sup>12</sup> km<sup>3</sup><br/>(6.320 Yrths)
-    mass: 4.047 × 10<sup>25</sup> kg<br />(6.776399847742193 Yrths)
+    mass: 4.047 × 10<sup>25</sup> kg<br />(6.78 Yrths)
     density: 5.912 g/cm<sup>3</sup>
     surface_gravity: 19.441 m/s<sup>2</sup><br />(1.982 g<sub>0</sub>)
     escape_velocity: 21.415 km/s<br />(77,095 km/h)
     rotation_period: 0.605 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 295 K<br />(22 °C)
+    temperature: 355 K<br />(82 °C)
     surface_pressure: 570 kPa<br />(6 atm)
     composition:
       - 80.2990% methane
@@ -277,14 +277,14 @@ planets:
         radius: 13,695.0 km<br/>(2.150 Yrths)
         surface_area: 2.357 × 10<sup>09</sup> km<sup>2</sup><br/>(4.621 Yrths)
         volume: 1.076 × 10<sup>13</sup> km<sup>3</sup><br/>(9.933 Yrths)
-        mass: 3.344 × 10<sup>25</sup> kg<br />(6.776399847742193 Yrths)
+        mass: 3.344 × 10<sup>25</sup> kg<br />(5.600 Yrths)
         density: 3.108 g/cm<sup>3</sup>
         surface_gravity: 11.884 m/s<sup>2</sup><br />(1.212 g<sub>0</sub>)
         escape_velocity: 18.054 km/s<br />(64,995 km/h)
         rotation_period: 54.316 d
         axial_tilt: 11.37°
         albedo: 0.30
-        temperature: 2454 K<br />(2181 °C)
+        temperature: 212 K<br />(-61 °C)
   - name: 1598 Shanniashiad III
     type: Gas giant
     aphelion: 2,407,637,882 km<br />16.094 AU
@@ -296,7 +296,7 @@ planets:
     radius: 239.7 km<br/>(0.038 Yrths)
     surface_area: 7.218 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.767 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.206 × 10<sup>27</sup> kg<br />(369.36910429399734 Yrths)
+    mass: 2.206 × 10<sup>27</sup> kg<br />(369.37 Yrths)
     density: 38251648.191 g/cm<sup>3</sup>
     surface_gravity: 2559580.050 m/s<sup>2</sup><br />(261004.528 g<sub>0</sub>)
     escape_velocity: 1108.412 km/s<br />(3,990,282 km/h)
@@ -317,14 +317,14 @@ planets:
         radius: 136,055.4 km<br/>(21.355 Yrths)
         surface_area: 2.326 × 10<sup>11</sup> km<sup>2</sup><br/>(456.054 Yrths)
         volume: 1.055 × 10<sup>16</sup> km<sup>3</sup><br/>(9739.231 Yrths)
-        mass: 2.314 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 2.314 × 10<sup>28</sup> kg<br />(3875.025 Yrths)
         density: 2.194 g/cm<sup>3</sup>
         surface_gravity: 83.326 m/s<sup>2</sup><br />(8.497 g<sub>0</sub>)
         escape_velocity: 150.681 km/s<br />(542,450 km/h)
         rotation_period: 36.065 d
         axial_tilt: 14.11°
         albedo: 0.30
-        temperature: 728 K<br />(455 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III b
         type: Icy
         formationType: Impact formed
@@ -337,14 +337,14 @@ planets:
         radius: 228,415.5 km<br/>(35.852 Yrths)
         surface_area: 6.556 × 10<sup>11</sup> km<sup>2</sup><br/>(1285.393 Yrths)
         volume: 4.992 × 10<sup>16</sup> km<sup>3</sup><br/>(46084.406 Yrths)
-        mass: 6.281 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 6.281 × 10<sup>28</sup> kg<br />(10516.762 Yrths)
         density: 1.258 g/cm<sup>3</sup>
         surface_gravity: 80.236 m/s<sup>2</sup><br />(8.182 g<sub>0</sub>)
         escape_velocity: 191.583 km/s<br />(689,697 km/h)
         rotation_period: 69.192 d
         axial_tilt: 10.43°
         albedo: 0.30
-        temperature: 695 K<br />(421 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -357,14 +357,14 @@ planets:
         radius: 209,257.1 km<br/>(32.845 Yrths)
         surface_area: 5.503 × 10<sup>11</sup> km<sup>2</sup><br/>(1078.811 Yrths)
         volume: 3.838 × 10<sup>16</sup> km<sup>3</sup><br/>(35433.822 Yrths)
-        mass: 9.037 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 9.037 × 10<sup>28</sup> kg<br />(15132.528 Yrths)
         density: 2.355 g/cm<sup>3</sup>
         surface_gravity: 137.558 m/s<sup>2</sup><br />(14.027 g<sub>0</sub>)
         escape_velocity: 240.101 km/s<br />(864,362 km/h)
         rotation_period: 44.501 d
         axial_tilt: 23.30°
         albedo: 0.30
-        temperature: 631 K<br />(358 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III d
         type: Icy
         formationType: Accreted
@@ -377,14 +377,14 @@ planets:
         radius: 201,705.7 km<br/>(31.660 Yrths)
         surface_area: 5.113 × 10<sup>11</sup> km<sup>2</sup><br/>(1002.354 Yrths)
         volume: 3.438 × 10<sup>16</sup> km<sup>3</sup><br/>(31734.508 Yrths)
-        mass: 4.094 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 4.094 × 10<sup>28</sup> kg<br />(6855.404 Yrths)
         density: 1.191 g/cm<sup>3</sup>
         surface_gravity: 67.071 m/s<sup>2</sup><br />(6.839 g<sub>0</sub>)
         escape_velocity: 164.602 km/s<br />(592,567 km/h)
         rotation_period: 71.293 d
         axial_tilt: 24.36°
         albedo: 0.30
-        temperature: 602 K<br />(329 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -397,14 +397,14 @@ planets:
         radius: 178,286.8 km<br/>(27.984 Yrths)
         surface_area: 3.994 × 10<sup>11</sup> km<sup>2</sup><br/>(783.111 Yrths)
         volume: 2.374 × 10<sup>16</sup> km<sup>3</sup><br/>(21914.668 Yrths)
-        mass: 3.995 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 3.995 × 10<sup>28</sup> kg<br />(6689.483 Yrths)
         density: 1.683 g/cm<sup>3</sup>
         surface_gravity: 83.770 m/s<sup>2</sup><br />(8.542 g<sub>0</sub>)
         escape_velocity: 172.948 km/s<br />(622,611 km/h)
         rotation_period: 56.155 d
         axial_tilt: 26.09°
         albedo: 0.30
-        temperature: 574 K<br />(301 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III f
         type: Icy
         formationType: Captured
@@ -417,14 +417,14 @@ planets:
         radius: 175,618.5 km<br/>(27.565 Yrths)
         surface_area: 3.876 × 10<sup>11</sup> km<sup>2</sup><br/>(759.846 Yrths)
         volume: 2.269 × 10<sup>16</sup> km<sup>3</sup><br/>(20945.384 Yrths)
-        mass: 2.237 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 2.237 × 10<sup>28</sup> kg<br />(3746.515 Yrths)
         density: 0.986 g/cm<sup>3</sup>
         surface_gravity: 48.353 m/s<sup>2</sup><br />(4.931 g<sub>0</sub>)
         escape_velocity: 130.409 km/s<br />(469,471 km/h)
         rotation_period: 64.298 d
         axial_tilt: 19.89°
         albedo: 0.30
-        temperature: 547 K<br />(274 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III g
         type: Icy
         formationType: Impact formed
@@ -437,14 +437,14 @@ planets:
         radius: 170,485.9 km<br/>(26.760 Yrths)
         surface_area: 3.652 × 10<sup>11</sup> km<sup>2</sup><br/>(716.080 Yrths)
         volume: 2.076 × 10<sup>16</sup> km<sup>3</sup><br/>(19162.062 Yrths)
-        mass: 2.741 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 2.741 × 10<sup>28</sup> kg<br />(4589.246 Yrths)
         density: 1.320 g/cm<sup>3</sup>
         surface_gravity: 62.849 m/s<sup>2</sup><br />(6.409 g<sub>0</sub>)
         escape_velocity: 146.489 km/s<br />(527,359 km/h)
         rotation_period: 65.488 d
         axial_tilt: 6.35°
         albedo: 0.30
-        temperature: 498 K<br />(224 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III h
         type: Icy
         formationType: Accreted
@@ -457,14 +457,14 @@ planets:
         radius: 194,483.5 km<br/>(30.526 Yrths)
         surface_area: 4.753 × 10<sup>11</sup> km<sup>2</sup><br/>(931.859 Yrths)
         volume: 3.081 × 10<sup>16</sup> km<sup>3</sup><br/>(28446.275 Yrths)
-        mass: 4.158 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 4.158 × 10<sup>28</sup> kg<br />(6962.962 Yrths)
         density: 1.350 g/cm<sup>3</sup>
         surface_gravity: 73.276 m/s<sup>2</sup><br />(7.472 g<sub>0</sub>)
         escape_velocity: 168.940 km/s<br />(608,185 km/h)
         rotation_period: 46.953 d
         axial_tilt: 18.45°
         albedo: 0.30
-        temperature: 474 K<br />(201 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III i
         type: Icy
         formationType: Captured
@@ -477,14 +477,14 @@ planets:
         radius: 292,129.6 km<br/>(45.853 Yrths)
         surface_area: 1.072 × 10<sup>12</sup> km<sup>2</sup><br/>(2102.500 Yrths)
         volume: 1.044 × 10<sup>17</sup> km<sup>3</sup><br/>(96405.996 Yrths)
-        mass: 1.504 × 10<sup>29</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 1.504 × 10<sup>29</sup> kg<br />(25189.101 Yrths)
         density: 1.441 g/cm<sup>3</sup>
         surface_gravity: 117.489 m/s<sup>2</sup><br />(11.981 g<sub>0</sub>)
         escape_velocity: 262.178 km/s<br />(943,841 km/h)
         rotation_period: 60.413 d
         axial_tilt: 22.85°
         albedo: 0.30
-        temperature: 411 K<br />(138 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III j
         type: Ice/rock hybrid
         formationType: Captured
@@ -497,14 +497,14 @@ planets:
         radius: 149,084.5 km<br/>(23.400 Yrths)
         surface_area: 2.793 × 10<sup>11</sup> km<sup>2</sup><br/>(547.583 Yrths)
         volume: 1.388 × 10<sup>16</sup> km<sup>3</sup><br/>(12813.702 Yrths)
-        mass: 2.928 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 2.928 × 10<sup>28</sup> kg<br />(4903.170 Yrths)
         density: 2.110 g/cm<sup>3</sup>
         surface_gravity: 87.811 m/s<sup>2</sup><br />(8.954 g<sub>0</sub>)
         escape_velocity: 161.920 km/s<br />(582,911 km/h)
         rotation_period: 58.771 d
         axial_tilt: 16.96°
         albedo: 0.30
-        temperature: 374 K<br />(101 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 1598 Shanniashiad III k
         type: Asteroid
         formationType: Captured
@@ -517,12 +517,12 @@ planets:
         radius: 141,427.8 km<br/>(22.199 Yrths)
         surface_area: 2.514 × 10<sup>11</sup> km<sup>2</sup><br/>(492.782 Yrths)
         volume: 1.185 × 10<sup>16</sup> km<sup>3</sup><br/>(10939.108 Yrths)
-        mass: 3.314 × 10<sup>28</sup> kg<br />(369.36910429399734 Yrths)
+        mass: 3.314 × 10<sup>28</sup> kg<br />(5549.038 Yrths)
         density: 2.797 g/cm<sup>3</sup>
         surface_gravity: 110.429 m/s<sup>2</sup><br />(11.261 g<sub>0</sub>)
         escape_velocity: 176.856 km/s<br />(636,681 km/h)
         rotation_period: 50.262 d
         axial_tilt: 28.26°
         albedo: 0.30
-        temperature: 295 K<br />(21 °C)
+        temperature: 148 K<br />(-125 °C)
 ---

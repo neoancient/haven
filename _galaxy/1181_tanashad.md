@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1181 Tanashad is a star in the constellation Tanas
+      1181 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 498.12 ly
 apparent_magnitude: 13.77
 absolute_magnitude: 7.85

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      477 Athiad is a star in the constellation Ath
+      477 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 827.31 ly
 apparent_magnitude: 11.53
 absolute_magnitude: 4.50

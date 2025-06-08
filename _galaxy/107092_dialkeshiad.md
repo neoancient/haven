@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      107092 Dialkeshiad is a star in the constellation Dialkes
+      107092 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 589.79 ly
 apparent_magnitude: 8.30
 absolute_magnitude: 2.02

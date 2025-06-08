@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      564 Athiad is a star in the constellation Ath
+      564 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1335.94 ly
 apparent_magnitude: 12.74
 absolute_magnitude: 4.68

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0092 Tanashad A is a star in the constellation Tanas
+      0092 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1213.58 ly
 apparent_magnitude: 6.14
 absolute_magnitude: -1.71

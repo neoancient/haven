@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      χ Guashiad C is a star in the constellation Guashi
+      χ Guashiad C is a star in the constellation <a href="guashi.html">Guashi</a>
 distance: 1420.81 ly
 apparent_magnitude: 16.76
 absolute_magnitude: 8.57
@@ -31,14 +31,14 @@ planets:
     radius: 2,787.2 km<br/>(0.437 Yrths)
     surface_area: 9.762 × 10<sup>07</sup> km<sup>2</sup><br/>(0.191 Yrths)
     volume: 9.069 × 10<sup>10</sup> km<sup>3</sup><br/>(0.084 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.585 g/cm<sup>3</sup>
     surface_gravity: 5.124 m/s<sup>2</sup><br />(0.523 g<sub>0</sub>)
     escape_velocity: 5.348 km/s<br />(19,253 km/h)
     rotation_period: 5.803 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 432 K<br />(159 °C)
+    temperature: 680 K<br />(407 °C)
     surface_pressure: 55 kPa<br />(1 atm)
     composition:
       - 67.6000% ammonia
@@ -58,14 +58,14 @@ planets:
         radius: 701.7 km<br/>(0.110 Yrths)
         surface_area: 6.188 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.447 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 4.034 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.034 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.787 g/cm<sup>3</sup>
         surface_gravity: 0.546 m/s<sup>2</sup><br />(0.056 g<sub>0</sub>)
         escape_velocity: 0.876 km/s<br />(3,154 km/h)
         rotation_period: 36.123 d
         axial_tilt: 12.43°
         albedo: 0.30
-        temperature: 8504 K<br />(8230 °C)
+        temperature: 346 K<br />(73 °C)
       - name: χ Guashiad C I b
         type: Rocky
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 260.8 km<br/>(0.041 Yrths)
         surface_area: 8.547 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 7.430 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.114 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.114 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.845 g/cm<sup>3</sup>
         surface_gravity: 0.207 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.329 km/s<br />(1,184 km/h)
         rotation_period: 34.064 d
         axial_tilt: 6.45°
         albedo: 0.30
-        temperature: 8108 K<br />(7835 °C)
+        temperature: 346 K<br />(73 °C)
   - name: χ Guashiad C II
     type: Large terrestrial
     aphelion: 85,380,164 km<br />0.571 AU
@@ -97,14 +97,14 @@ planets:
     radius: 2,668.8 km<br/>(0.419 Yrths)
     surface_area: 8.951 × 10<sup>07</sup> km<sup>2</sup><br/>(0.175 Yrths)
     volume: 7.963 × 10<sup>10</sup> km<sup>3</sup><br/>(0.074 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 7.500 g/cm<sup>3</sup>
     surface_gravity: 5.588 m/s<sup>2</sup><br />(0.570 g<sub>0</sub>)
     escape_velocity: 5.465 km/s<br />(19,675 km/h)
     rotation_period: 4.492 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 320 K<br />(47 °C)
+    temperature: 331 K<br />(58 °C)
     surface_pressure: 114 kPa<br />(1 atm)
     composition:
       - 65.1081% nitrogen
@@ -124,14 +124,14 @@ planets:
         radius: 577.7 km<br/>(0.091 Yrths)
         surface_area: 4.193 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.075 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.015 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.015 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.496 g/cm<sup>3</sup>
         surface_gravity: 0.403 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.682 km/s<br />(2,457 km/h)
         rotation_period: 33.772 d
         axial_tilt: 21.20°
         albedo: 0.30
-        temperature: 6004 K<br />(5731 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: χ Guashiad C II b
         type: Icy
         formationType: Captured
@@ -144,14 +144,14 @@ planets:
         radius: 659.7 km<br/>(0.104 Yrths)
         surface_area: 5.469 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.203 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.247 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.247 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.036 g/cm<sup>3</sup>
         surface_gravity: 0.191 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.502 km/s<br />(1,808 km/h)
         rotation_period: 57.679 d
         axial_tilt: 9.98°
         albedo: 0.30
-        temperature: 5724 K<br />(5451 °C)
+        temperature: 262 K<br />(-11 °C)
   - name: χ Guashiad C III
     type: Terrestrial
     aphelion: 149,388,756 km<br />0.999 AU
@@ -163,14 +163,14 @@ planets:
     radius: 3,024.7 km<br/>(0.475 Yrths)
     surface_area: 1.150 × 10<sup>08</sup> km<sup>2</sup><br/>(0.225 Yrths)
     volume: 1.159 × 10<sup>11</sup> km<sup>3</sup><br/>(0.107 Yrths)
-    mass: 1.002 × 10<sup>24</sup> kg<br />(0.16782364877583275 Yrths)
+    mass: 1.002 × 10<sup>24</sup> kg<br />(0.17 Yrths)
     density: 8.646 g/cm<sup>3</sup>
     surface_gravity: 7.302 m/s<sup>2</sup><br />(0.745 g<sub>0</sub>)
     escape_velocity: 6.651 km/s<br />(23,942 km/h)
     rotation_period: 3.394 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 261 K<br />(-12 °C)
+    temperature: 603 K<br />(330 °C)
     surface_pressure: 21 kPa<br />(0 atm)
     composition:
       - 57.8232% carbon dioxide
@@ -189,14 +189,14 @@ planets:
         radius: 841.8 km<br/>(0.132 Yrths)
         surface_area: 8.905 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.499 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 8.320 × 10<sup>21</sup> kg<br />(0.16782364877583275 Yrths)
+        mass: 8.320 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.330 g/cm<sup>3</sup>
         surface_gravity: 0.783 m/s<sup>2</sup><br />(0.080 g<sub>0</sub>)
         escape_velocity: 1.149 km/s<br />(4,135 km/h)
         rotation_period: 51.184 d
         axial_tilt: 30.23°
         albedo: 0.30
-        temperature: 4893 K<br />(4620 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: χ Guashiad C III b
         type: Icy
         formationType: Captured
@@ -209,12 +209,12 @@ planets:
         radius: 552.4 km<br/>(0.087 Yrths)
         surface_area: 3.835 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.062 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 8.223 × 10<sup>20</sup> kg<br />(0.16782364877583275 Yrths)
+        mass: 8.223 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.164 g/cm<sup>3</sup>
         surface_gravity: 0.180 m/s<sup>2</sup><br />(0.018 g<sub>0</sub>)
         escape_velocity: 0.446 km/s<br />(1,605 km/h)
         rotation_period: 56.441 d
         axial_tilt: 17.25°
         albedo: 0.30
-        temperature: 4665 K<br />(4392 °C)
+        temperature: 198 K<br />(-75 °C)
 ---

@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0060 Kenmulliad B is a star in the constellation Kenmul
+      0060 Kenmulliad B is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 138.99 ly
 apparent_magnitude: 8.19
 absolute_magnitude: 5.04

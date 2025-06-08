@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4817 Anilliad is a star in the constellation Anil
+      4817 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 319.55 ly
 apparent_magnitude: 9.60
 absolute_magnitude: 4.64
@@ -31,14 +31,14 @@ planets:
     radius: 2,953.7 km<br/>(0.464 Yrths)
     surface_area: 1.096 × 10<sup>08</sup> km<sup>2</sup><br/>(0.215 Yrths)
     volume: 1.079 × 10<sup>11</sup> km<sup>3</sup><br/>(0.100 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.533 g/cm<sup>3</sup>
     surface_gravity: 4.563 m/s<sup>2</sup><br />(0.465 g<sub>0</sub>)
     escape_velocity: 5.195 km/s<br />(18,702 km/h)
     rotation_period: 3.131 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 324 K<br />(51 °C)
+    temperature: 409 K<br />(136 °C)
     surface_pressure: 57 kPa<br />(1 atm)
     composition:
       - 97.5357% methane
@@ -57,14 +57,14 @@ planets:
         radius: 479.1 km<br/>(0.075 Yrths)
         surface_area: 2.885 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.607 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.119 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.119 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.428 g/cm<sup>3</sup>
         surface_gravity: 0.325 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.558 km/s<br />(2,010 km/h)
         rotation_period: 38.376 d
         axial_tilt: 15.20°
         albedo: 0.30
-        temperature: 7077 K<br />(6804 °C)
+        temperature: 270 K<br />(-3 °C)
       - name: 4817 Anilliad I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 584.3 km<br/>(0.092 Yrths)
         surface_area: 4.290 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.356 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.236 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.236 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.479 g/cm<sup>3</sup>
         surface_gravity: 0.241 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.531 km/s<br />(1,913 km/h)
         rotation_period: 56.077 d
         axial_tilt: 20.20°
         albedo: 0.30
-        temperature: 6748 K<br />(6475 °C)
+        temperature: 270 K<br />(-3 °C)
   - name: 4817 Anilliad II
     type: Terrestrial
     aphelion: 426,261,195 km<br />2.849 AU
@@ -96,14 +96,14 @@ planets:
     radius: 7,674.3 km<br/>(1.205 Yrths)
     surface_area: 7.401 × 10<sup>08</sup> km<sup>2</sup><br/>(1.451 Yrths)
     volume: 1.893 × 10<sup>12</sup> km<sup>3</sup><br/>(1.748 Yrths)
-    mass: 7.890 × 10<sup>24</sup> kg<br />(1.3210823317834592 Yrths)
+    mass: 7.890 × 10<sup>24</sup> kg<br />(1.32 Yrths)
     density: 4.167 g/cm<sup>3</sup>
     surface_gravity: 8.929 m/s<sup>2</sup><br />(0.910 g<sub>0</sub>)
     escape_velocity: 11.715 km/s<br />(42,172 km/h)
     rotation_period: 1.117 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 219 K<br />(-54 °C)
+    temperature: 208 K<br />(-65 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 98.8149% nitrogen
@@ -121,14 +121,14 @@ planets:
         radius: 2,296.8 km<br/>(0.361 Yrths)
         surface_area: 6.629 × 10<sup>07</sup> km<sup>2</sup><br/>(0.130 Yrths)
         volume: 5.075 × 10<sup>10</sup> km<sup>3</sup><br/>(0.047 Yrths)
-        mass: 1.641 × 10<sup>23</sup> kg<br />(1.3210823317834592 Yrths)
+        mass: 1.641 × 10<sup>23</sup> kg<br />(0.027 Yrths)
         density: 3.234 g/cm<sup>3</sup>
         surface_gravity: 2.074 m/s<sup>2</sup><br />(0.211 g<sub>0</sub>)
         escape_velocity: 3.089 km/s<br />(11,119 km/h)
         rotation_period: 38.504 d
         axial_tilt: 10.09°
         albedo: 0.30
-        temperature: 3341 K<br />(3068 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: 4817 Anilliad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -141,12 +141,12 @@ planets:
         radius: 2,892.5 km<br/>(0.454 Yrths)
         surface_area: 1.051 × 10<sup>08</sup> km<sup>2</sup><br/>(0.206 Yrths)
         volume: 1.014 × 10<sup>11</sup> km<sup>3</sup><br/>(0.094 Yrths)
-        mass: 2.056 × 10<sup>23</sup> kg<br />(1.3210823317834592 Yrths)
+        mass: 2.056 × 10<sup>23</sup> kg<br />(0.034 Yrths)
         density: 2.028 g/cm<sup>3</sup>
         surface_gravity: 1.638 m/s<sup>2</sup><br />(0.167 g<sub>0</sub>)
         escape_velocity: 3.080 km/s<br />(11,089 km/h)
         rotation_period: 47.069 d
         axial_tilt: 17.33°
         albedo: 0.30
-        temperature: 3185 K<br />(2912 °C)
+        temperature: 205 K<br />(-68 °C)
 ---

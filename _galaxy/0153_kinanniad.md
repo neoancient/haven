@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0153 Kinanniad is a star in the constellation Kinan
+      0153 Kinanniad is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 168.82 ly
 apparent_magnitude: 6.14
 absolute_magnitude: 2.57
@@ -31,14 +31,14 @@ planets:
     radius: 6,201.2 km<br/>(0.973 Yrths)
     surface_area: 4.832 × 10<sup>08</sup> km<sup>2</sup><br/>(0.947 Yrths)
     volume: 9.989 × 10<sup>11</sup> km<sup>3</sup><br/>(0.922 Yrths)
-    mass: 5.316 × 10<sup>24</sup> kg<br />(0.8901967579766344 Yrths)
+    mass: 5.316 × 10<sup>24</sup> kg<br />(0.89 Yrths)
     density: 5.322 g/cm<sup>3</sup>
     surface_gravity: 9.214 m/s<sup>2</sup><br />(0.940 g<sub>0</sub>)
     escape_velocity: 10.698 km/s<br />(38,511 km/h)
     rotation_period: 1.110 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 466 K<br />(192 °C)
+    temperature: 636 K<br />(362 °C)
     surface_pressure: 57 kPa<br />(1 atm)
     composition:
       - 74.6507% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 1,901.4 km<br/>(0.298 Yrths)
         surface_area: 4.543 × 10<sup>07</sup> km<sup>2</sup><br/>(0.089 Yrths)
         volume: 2.880 × 10<sup>10</sup> km<sup>3</sup><br/>(0.027 Yrths)
-        mass: 9.087 × 10<sup>22</sup> kg<br />(0.8901967579766344 Yrths)
+        mass: 9.087 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 3.156 g/cm<sup>3</sup>
         surface_gravity: 1.675 m/s<sup>2</sup><br />(0.171 g<sub>0</sub>)
         escape_velocity: 2.526 km/s<br />(9,093 km/h)
         rotation_period: 29.376 d
         axial_tilt: 14.14°
         albedo: 0.30
-        temperature: 6235 K<br />(5962 °C)
+        temperature: 376 K<br />(103 °C)
   - name: 0153 Kinanniad II
     type: Gas dwarf
     aphelion: 375,653,344 km<br />2.511 AU
@@ -77,14 +77,14 @@ planets:
     radius: 17,210.3 km<br/>(2.701 Yrths)
     surface_area: 3.722 × 10<sup>09</sup> km<sup>2</sup><br/>(7.297 Yrths)
     volume: 2.135 × 10<sup>13</sup> km<sup>3</sup><br/>(19.713 Yrths)
-    mass: 5.153 × 10<sup>25</sup> kg<br />(8.628109471568035 Yrths)
+    mass: 5.153 × 10<sup>25</sup> kg<br />(8.63 Yrths)
     density: 2.413 g/cm<sup>3</sup>
     surface_gravity: 11.595 m/s<sup>2</sup><br />(1.182 g<sub>0</sub>)
     escape_velocity: 19.991 km/s<br />(71,969 km/h)
     rotation_period: 0.436 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 450 K<br />(177 °C)
+    temperature: 407 K<br />(134 °C)
     composition:
       - 86.6469% hydrogen
       - 8.8624% helium
@@ -104,14 +104,14 @@ planets:
         radius: 22,678.1 km<br/>(3.560 Yrths)
         surface_area: 6.463 × 10<sup>09</sup> km<sup>2</sup><br/>(12.671 Yrths)
         volume: 4.886 × 10<sup>13</sup> km<sup>3</sup><br/>(45.102 Yrths)
-        mass: 8.591 × 10<sup>25</sup> kg<br />(8.628109471568035 Yrths)
+        mass: 8.591 × 10<sup>25</sup> kg<br />(14.386 Yrths)
         density: 1.759 g/cm<sup>3</sup>
         surface_gravity: 11.134 m/s<sup>2</sup><br />(1.135 g<sub>0</sub>)
         escape_velocity: 22.488 km/s<br />(80,956 km/h)
         rotation_period: 69.571 d
         axial_tilt: 27.44°
         albedo: 0.30
-        temperature: 2946 K<br />(2673 °C)
+        temperature: 275 K<br />(2 °C)
       - name: 0153 Kinanniad II b
         type: Icy
         formationType: Captured
@@ -124,12 +124,12 @@ planets:
         radius: 14,356.1 km<br/>(2.253 Yrths)
         surface_area: 2.590 × 10<sup>09</sup> km<sup>2</sup><br/>(5.078 Yrths)
         volume: 1.239 × 10<sup>13</sup> km<sup>3</sup><br/>(11.442 Yrths)
-        mass: 1.454 × 10<sup>25</sup> kg<br />(8.628109471568035 Yrths)
+        mass: 1.454 × 10<sup>25</sup> kg<br />(2.435 Yrths)
         density: 1.173 g/cm<sup>3</sup>
         surface_gravity: 4.703 m/s<sup>2</sup><br />(0.480 g<sub>0</sub>)
         escape_velocity: 11.628 km/s<br />(41,860 km/h)
         rotation_period: 60.273 d
         axial_tilt: 18.22°
         albedo: 0.30
-        temperature: 2809 K<br />(2536 °C)
+        temperature: 275 K<br />(2 °C)
 ---

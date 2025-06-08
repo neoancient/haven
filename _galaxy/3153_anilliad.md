@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3153 Anilliad is a star in the constellation Anil
+      3153 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 614.31 ly
 apparent_magnitude: 12.35
 absolute_magnitude: 5.97

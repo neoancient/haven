@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2542 Geardiad is a star in the constellation Geard
+      2542 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 363.83 ly
 apparent_magnitude: 9.99
 absolute_magnitude: 4.75

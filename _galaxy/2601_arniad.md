@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2601 Arniad is a star in the constellation Arni
+      2601 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 634.10 ly
 apparent_magnitude: 12.41
 absolute_magnitude: 5.97

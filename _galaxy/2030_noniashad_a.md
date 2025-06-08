@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2030 Noniashad A is a star in the constellation Nonias
+      2030 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 453.77 ly
 apparent_magnitude: 8.00
 absolute_magnitude: 2.29

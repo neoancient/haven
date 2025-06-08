@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      443 Orshenniad is a star in the constellation Orshen
+      443 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 871.36 ly
 apparent_magnitude: 16.76
 absolute_magnitude: 9.63

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      940 Shanniashiad A is a star in the constellation Shannias
+      940 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1303.82 ly
 apparent_magnitude: 6.87
 absolute_magnitude: -1.13

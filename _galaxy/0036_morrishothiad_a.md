@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0036 Morrishothiad A is a star in the constellation Morrishoth
+      0036 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 8204.55 ly
 apparent_magnitude: 6.63
 absolute_magnitude: -5.38

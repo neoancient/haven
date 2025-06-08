@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1594 Saithiad A is a star in the constellation Saith
+      1594 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1216.88 ly
 apparent_magnitude: 6.88
 absolute_magnitude: -0.98

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Kelniad B is a star in the constellation Keln
+      ν Kelniad B is a star in the constellation <a href="keln.html">Keln</a>
 distance: 801.86 ly
 apparent_magnitude: 17.21
 absolute_magnitude: 10.26

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      24039 Shanniashiad A is a star in the constellation Shannias
+      24039 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 478.36 ly
 apparent_magnitude: 7.62
 absolute_magnitude: 1.79

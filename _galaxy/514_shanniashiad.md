@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      514 Shanniashiad is a star in the constellation Shannias
+      514 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 420.12 ly
 apparent_magnitude: 7.45
 absolute_magnitude: 1.90
@@ -31,14 +31,14 @@ planets:
     radius: 184.9 km<br/>(0.029 Yrths)
     surface_area: 4.298 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.650 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.311 × 10<sup>26</sup> kg<br />(122.41678065423183 Yrths)
+    mass: 7.311 × 10<sup>26</sup> kg<br />(122.42 Yrths)
     density: 27589216.150 g/cm<sup>3</sup>
     surface_gravity: 1424584.840 m/s<sup>2</sup><br />(145267.226 g<sub>0</sub>)
     escape_velocity: 726.400 km/s<br />(2,615,042 km/h)
     rotation_period: 0.258 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1631 K<br />(1358 °C)
+    temperature: 1557 K<br />(1284 °C)
     composition:
       - 76.7061% hydrogen
       - 20.6368% helium
@@ -58,14 +58,14 @@ planets:
         radius: 61,788.2 km<br/>(9.698 Yrths)
         surface_area: 4.798 × 10<sup>10</sup> km<sup>2</sup><br/>(94.058 Yrths)
         volume: 9.881 × 10<sup>14</sup> km<sup>3</sup><br/>(912.206 Yrths)
-        mass: 2.855 × 10<sup>27</sup> kg<br />(122.41678065423183 Yrths)
+        mass: 2.855 × 10<sup>27</sup> kg<br />(478.061 Yrths)
         density: 2.889 g/cm<sup>3</sup>
         surface_gravity: 49.844 m/s<sup>2</sup><br />(5.083 g<sub>0</sub>)
         escape_velocity: 78.536 km/s<br />(282,728 km/h)
         rotation_period: 32.083 d
         axial_tilt: 17.04°
         albedo: 0.30
-        temperature: 1362 K<br />(1089 °C)
+        temperature: 395 K<br />(122 °C)
       - name: 514 Shanniashiad I b
         type: Rocky
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 59,956.1 km<br/>(9.411 Yrths)
         surface_area: 4.517 × 10<sup>10</sup> km<sup>2</sup><br/>(88.563 Yrths)
         volume: 9.028 × 10<sup>14</sup> km<sup>3</sup><br/>(833.444 Yrths)
-        mass: 3.096 × 10<sup>27</sup> kg<br />(122.41678065423183 Yrths)
+        mass: 3.096 × 10<sup>27</sup> kg<br />(518.442 Yrths)
         density: 3.430 g/cm<sup>3</sup>
         surface_gravity: 57.408 m/s<sup>2</sup><br />(5.854 g<sub>0</sub>)
         escape_velocity: 83.025 km/s<br />(298,892 km/h)
         rotation_period: 32.230 d
         axial_tilt: 19.44°
         albedo: 0.30
-        temperature: 930 K<br />(657 °C)
+        temperature: 395 K<br />(122 °C)
       - name: 514 Shanniashiad I c
         type: Icy
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 89,322.8 km<br/>(14.020 Yrths)
         surface_area: 1.003 × 10<sup>11</sup> km<sup>2</sup><br/>(196.567 Yrths)
         volume: 2.985 × 10<sup>15</sup> km<sup>3</sup><br/>(2755.909 Yrths)
-        mass: 4.245 × 10<sup>27</sup> kg<br />(122.41678065423183 Yrths)
+        mass: 4.245 × 10<sup>27</sup> kg<br />(710.808 Yrths)
         density: 1.422 g/cm<sup>3</sup>
         surface_gravity: 35.462 m/s<sup>2</sup><br />(3.616 g<sub>0</sub>)
         escape_velocity: 79.648 km/s<br />(286,731 km/h)
         rotation_period: 48.966 d
         axial_tilt: 22.98°
         albedo: 0.30
-        temperature: 635 K<br />(362 °C)
+        temperature: 395 K<br />(122 °C)
       - name: 514 Shanniashiad I d
         type: Icy
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 143,163.8 km<br/>(22.471 Yrths)
         surface_area: 2.576 × 10<sup>11</sup> km<sup>2</sup><br/>(504.953 Yrths)
         volume: 1.229 × 10<sup>16</sup> km<sup>3</sup><br/>(11346.889 Yrths)
-        mass: 1.893 × 10<sup>28</sup> kg<br />(122.41678065423183 Yrths)
+        mass: 1.893 × 10<sup>28</sup> kg<br />(3169.261 Yrths)
         density: 1.540 g/cm<sup>3</sup>
         surface_gravity: 61.550 m/s<sup>2</sup><br />(6.276 g<sub>0</sub>)
         escape_velocity: 132.843 km/s<br />(478,236 km/h)
         rotation_period: 78.106 d
         axial_tilt: 11.90°
         albedo: 0.30
-        temperature: 525 K<br />(252 °C)
+        temperature: 395 K<br />(122 °C)
       - name: 514 Shanniashiad I e
         type: Dwarf planet
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 82,042.6 km<br/>(12.878 Yrths)
         surface_area: 8.458 × 10<sup>10</sup> km<sup>2</sup><br/>(165.830 Yrths)
         volume: 2.313 × 10<sup>15</sup> km<sup>3</sup><br/>(2135.480 Yrths)
-        mass: 5.511 × 10<sup>27</sup> kg<br />(122.41678065423183 Yrths)
+        mass: 5.511 × 10<sup>27</sup> kg<br />(922.862 Yrths)
         density: 2.383 g/cm<sup>3</sup>
         surface_gravity: 54.575 m/s<sup>2</sup><br />(5.565 g<sub>0</sub>)
         escape_velocity: 94.695 km/s<br />(340,902 km/h)
         rotation_period: 43.583 d
         axial_tilt: 27.21°
         albedo: 0.30
-        temperature: 342 K<br />(69 °C)
+        temperature: 395 K<br />(122 °C)
   - name: 514 Shanniashiad II
     type: Gas giant
     aphelion: 561,325,085 km<br />3.752 AU
@@ -157,14 +157,14 @@ planets:
     radius: 245.8 km<br/>(0.039 Yrths)
     surface_area: 7.594 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 6.223 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.449 × 10<sup>27</sup> kg<br />(410.1042868860009 Yrths)
+    mass: 2.449 × 10<sup>27</sup> kg<br />(410.10 Yrths)
     density: 39356196.913 g/cm<sup>3</sup>
     surface_gravity: 2701190.905 m/s<sup>2</sup><br />(275444.816 g<sub>0</sub>)
     escape_velocity: 1153.204 km/s<br />(4,151,535 km/h)
     rotation_period: 0.228 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1150 K<br />(876 °C)
+    temperature: 1127 K<br />(854 °C)
     composition:
       - 66.6424% hydrogen
       - 27.4598% helium
@@ -183,14 +183,14 @@ planets:
         radius: 229,704.7 km<br/>(36.055 Yrths)
         surface_area: 6.631 × 10<sup>11</sup> km<sup>2</sup><br/>(1299.944 Yrths)
         volume: 5.077 × 10<sup>16</sup> km<sup>3</sup><br/>(46869.138 Yrths)
-        mass: 8.123 × 10<sup>28</sup> kg<br />(410.1042868860009 Yrths)
+        mass: 8.123 × 10<sup>28</sup> kg<br />(13601.869 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 102.611 m/s<sup>2</sup><br />(10.463 g<sub>0</sub>)
         escape_velocity: 217.266 km/s<br />(782,158 km/h)
         rotation_period: 45.203 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 1287 K<br />(1014 °C)
+        temperature: 283 K<br />(9 °C)
       - name: 514 Shanniashiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -203,14 +203,14 @@ planets:
         radius: 192,344.9 km<br/>(30.191 Yrths)
         surface_area: 4.649 × 10<sup>11</sup> km<sup>2</sup><br/>(911.478 Yrths)
         volume: 2.981 × 10<sup>16</sup> km<sup>3</sup><br/>(27518.169 Yrths)
-        mass: 5.965 × 10<sup>28</sup> kg<br />(410.1042868860009 Yrths)
+        mass: 5.965 × 10<sup>28</sup> kg<br />(9987.793 Yrths)
         density: 2.001 g/cm<sup>3</sup>
         surface_gravity: 107.459 m/s<sup>2</sup><br />(10.958 g<sub>0</sub>)
         escape_velocity: 203.457 km/s<br />(732,444 km/h)
         rotation_period: 56.743 d
         axial_tilt: 20.38°
         albedo: 0.30
-        temperature: 922 K<br />(649 °C)
+        temperature: 283 K<br />(9 °C)
       - name: 514 Shanniashiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -223,14 +223,14 @@ planets:
         radius: 215,124.2 km<br/>(33.766 Yrths)
         surface_area: 5.816 × 10<sup>11</sup> km<sup>2</sup><br/>(1140.153 Yrths)
         volume: 4.170 × 10<sup>16</sup> km<sup>3</sup><br/>(38498.578 Yrths)
-        mass: 1.168 × 10<sup>29</sup> kg<br />(410.1042868860009 Yrths)
+        mass: 1.168 × 10<sup>29</sup> kg<br />(19552.142 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 168.171 m/s<sup>2</sup><br />(17.149 g<sub>0</sub>)
         escape_velocity: 269.172 km/s<br />(969,020 km/h)
         rotation_period: 41.026 d
         axial_tilt: 14.72°
         albedo: 0.30
-        temperature: 727 K<br />(454 °C)
+        temperature: 283 K<br />(9 °C)
       - name: 514 Shanniashiad II d
         type: Icy
         formationType: Captured
@@ -243,14 +243,14 @@ planets:
         radius: 224,993.6 km<br/>(35.315 Yrths)
         surface_area: 6.361 × 10<sup>11</sup> km<sup>2</sup><br/>(1247.168 Yrths)
         volume: 4.771 × 10<sup>16</sup> km<sup>3</sup><br/>(44044.094 Yrths)
-        mass: 7.818 × 10<sup>28</sup> kg<br />(410.1042868860009 Yrths)
+        mass: 7.818 × 10<sup>28</sup> kg<br />(13091.432 Yrths)
         density: 1.639 g/cm<sup>3</sup>
         surface_gravity: 102.940 m/s<sup>2</sup><br />(10.497 g<sub>0</sub>)
         escape_velocity: 215.371 km/s<br />(775,334 km/h)
         rotation_period: 65.090 d
         axial_tilt: 15.51°
         albedo: 0.30
-        temperature: 410 K<br />(137 °C)
+        temperature: 283 K<br />(9 °C)
       - name: 514 Shanniashiad II e
         type: Asteroid
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 179,820.6 km<br/>(28.225 Yrths)
         surface_area: 4.063 × 10<sup>11</sup> km<sup>2</sup><br/>(796.643 Yrths)
         volume: 2.436 × 10<sup>16</sup> km<sup>3</sup><br/>(22485.148 Yrths)
-        mass: 5.754 × 10<sup>28</sup> kg<br />(410.1042868860009 Yrths)
+        mass: 5.754 × 10<sup>28</sup> kg<br />(9635.620 Yrths)
         density: 2.363 g/cm<sup>3</sup>
         surface_gravity: 118.614 m/s<sup>2</sup><br />(12.095 g<sub>0</sub>)
         escape_velocity: 206.680 km/s<br />(744,047 km/h)
         rotation_period: 38.450 d
         axial_tilt: 19.49°
         albedo: 0.30
-        temperature: 356 K<br />(82 °C)
+        temperature: 283 K<br />(9 °C)
       - name: 514 Shanniashiad II f
         type: Rocky
         formationType: Accreted
@@ -283,14 +283,14 @@ planets:
         radius: 235,119.0 km<br/>(36.905 Yrths)
         surface_area: 6.947 × 10<sup>11</sup> km<sup>2</sup><br/>(1361.947 Yrths)
         volume: 5.444 × 10<sup>16</sup> km<sup>3</sup><br/>(50262.063 Yrths)
-        mass: 1.607 × 10<sup>29</sup> kg<br />(410.1042868860009 Yrths)
+        mass: 1.607 × 10<sup>29</sup> kg<br />(26907.198 Yrths)
         density: 2.951 g/cm<sup>3</sup>
         surface_gravity: 193.744 m/s<sup>2</sup><br />(19.756 g<sub>0</sub>)
         escape_velocity: 302.043 km/s<br />(1,087,353 km/h)
         rotation_period: 40.406 d
         axial_tilt: 6.21°
         albedo: 0.30
-        temperature: 339 K<br />(66 °C)
+        temperature: 283 K<br />(9 °C)
   - name: 514 Shanniashiad III
     type: Large terrestrial
     aphelion: 992,738,396 km<br />6.636 AU
@@ -302,14 +302,14 @@ planets:
     radius: 10,071.0 km<br/>(1.581 Yrths)
     surface_area: 1.275 × 10<sup>09</sup> km<sup>2</sup><br/>(2.499 Yrths)
     volume: 4.279 × 10<sup>12</sup> km<sup>3</sup><br/>(3.950 Yrths)
-    mass: 2.680 × 10<sup>25</sup> kg<br />(4.488345253940955 Yrths)
+    mass: 2.680 × 10<sup>25</sup> kg<br />(4.49 Yrths)
     density: 6.265 g/cm<sup>3</sup>
     surface_gravity: 17.615 m/s<sup>2</sup><br />(1.796 g<sub>0</sub>)
     escape_velocity: 18.849 km/s<br />(67,856 km/h)
     rotation_period: 0.597 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 309 K<br />(36 °C)
+    temperature: 330 K<br />(57 °C)
     surface_pressure: 3,839 kPa<br />(38 atm)
     composition:
       - 92.0873% nitrogen
@@ -327,14 +327,14 @@ planets:
         radius: 8,010.4 km<br/>(1.257 Yrths)
         surface_area: 8.063 × 10<sup>08</sup> km<sup>2</sup><br/>(1.581 Yrths)
         volume: 2.153 × 10<sup>12</sup> km<sup>3</sup><br/>(1.988 Yrths)
-        mass: 3.569 × 10<sup>24</sup> kg<br />(4.488345253940955 Yrths)
+        mass: 3.569 × 10<sup>24</sup> kg<br />(0.598 Yrths)
         density: 1.658 g/cm<sup>3</sup>
         surface_gravity: 3.708 m/s<sup>2</sup><br />(0.378 g<sub>0</sub>)
         escape_velocity: 7.712 km/s<br />(27,764 km/h)
         rotation_period: 42.874 d
         axial_tilt: 42.90°
         albedo: 0.30
-        temperature: 2538 K<br />(2265 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 514 Shanniashiad III b
         type: Rocky
         formationType: Accreted
@@ -347,14 +347,14 @@ planets:
         radius: 4,873.0 km<br/>(0.765 Yrths)
         surface_area: 2.984 × 10<sup>08</sup> km<sup>2</sup><br/>(0.585 Yrths)
         volume: 4.847 × 10<sup>11</sup> km<sup>3</sup><br/>(0.447 Yrths)
-        mass: 1.321 × 10<sup>24</sup> kg<br />(4.488345253940955 Yrths)
+        mass: 1.321 × 10<sup>24</sup> kg<br />(0.221 Yrths)
         density: 2.725 g/cm<sup>3</sup>
         surface_gravity: 3.708 m/s<sup>2</sup><br />(0.378 g<sub>0</sub>)
         escape_velocity: 6.015 km/s<br />(21,655 km/h)
         rotation_period: 32.835 d
         axial_tilt: 19.00°
         albedo: 0.30
-        temperature: 2420 K<br />(2147 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 514 Shanniashiad IV
     type: Gas giant
     aphelion: 2,290,613,395 km<br />15.312 AU
@@ -366,7 +366,7 @@ planets:
     radius: 210.5 km<br/>(0.033 Yrths)
     surface_area: 5.567 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.906 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.252 × 10<sup>27</sup> kg<br />(209.71058542385123 Yrths)
+    mass: 1.252 × 10<sup>27</sup> kg<br />(209.71 Yrths)
     density: 32063837.509 g/cm<sup>3</sup>
     surface_gravity: 1884222.604 m/s<sup>2</sup><br />(192137.234 g<sub>0</sub>)
     escape_velocity: 891.214 km/s<br />(3,208,370 km/h)
@@ -387,14 +387,14 @@ planets:
         radius: 113,268.6 km<br/>(17.779 Yrths)
         surface_area: 1.612 × 10<sup>11</sup> km<sup>2</sup><br/>(316.085 Yrths)
         volume: 6.087 × 10<sup>15</sup> km<sup>3</sup><br/>(5619.605 Yrths)
-        mass: 9.946 × 10<sup>27</sup> kg<br />(209.71058542385123 Yrths)
+        mass: 9.946 × 10<sup>27</sup> kg<br />(1665.363 Yrths)
         density: 1.634 g/cm<sup>3</sup>
         surface_gravity: 51.668 m/s<sup>2</sup><br />(5.269 g<sub>0</sub>)
         escape_velocity: 108.262 km/s<br />(389,744 km/h)
         rotation_period: 38.978 d
         axial_tilt: 33.44°
         albedo: 0.30
-        temperature: 933 K<br />(660 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 514 Shanniashiad IV b
         type: Asteroid
         formationType: Captured
@@ -407,14 +407,14 @@ planets:
         radius: 132,479.3 km<br/>(20.794 Yrths)
         surface_area: 2.205 × 10<sup>11</sup> km<sup>2</sup><br/>(432.395 Yrths)
         volume: 9.739 × 10<sup>15</sup> km<sup>3</sup><br/>(8991.269 Yrths)
-        mass: 2.861 × 10<sup>28</sup> kg<br />(209.71058542385123 Yrths)
+        mass: 2.861 × 10<sup>28</sup> kg<br />(4791.156 Yrths)
         density: 2.938 g/cm<sup>3</sup>
         surface_gravity: 108.663 m/s<sup>2</sup><br />(11.081 g<sub>0</sub>)
         escape_velocity: 169.795 km/s<br />(611,261 km/h)
         rotation_period: 35.668 d
         axial_tilt: 42.90°
         albedo: 0.30
-        temperature: 735 K<br />(462 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 514 Shanniashiad IV c
         type: Icy
         formationType: Captured
@@ -427,14 +427,14 @@ planets:
         radius: 106,994.5 km<br/>(16.794 Yrths)
         surface_area: 1.439 × 10<sup>11</sup> km<sup>2</sup><br/>(282.038 Yrths)
         volume: 5.131 × 10<sup>15</sup> km<sup>3</sup><br/>(4736.543 Yrths)
-        mass: 7.612 × 10<sup>27</sup> kg<br />(209.71058542385123 Yrths)
+        mass: 7.612 × 10<sup>27</sup> kg<br />(1274.535 Yrths)
         density: 1.484 g/cm<sup>3</sup>
         surface_gravity: 44.316 m/s<sup>2</sup><br />(4.519 g<sub>0</sub>)
         escape_velocity: 97.448 km/s<br />(350,813 km/h)
         rotation_period: 43.868 d
         axial_tilt: 12.16°
         albedo: 0.30
-        temperature: 668 K<br />(395 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 514 Shanniashiad IV d
         type: Icy
         formationType: Impact formed
@@ -447,14 +447,14 @@ planets:
         radius: 113,741.4 km<br/>(17.853 Yrths)
         surface_area: 1.626 × 10<sup>11</sup> km<sup>2</sup><br/>(318.729 Yrths)
         volume: 6.164 × 10<sup>15</sup> km<sup>3</sup><br/>(5690.266 Yrths)
-        mass: 9.361 × 10<sup>27</sup> kg<br />(209.71058542385123 Yrths)
+        mass: 9.361 × 10<sup>27</sup> kg<br />(1567.398 Yrths)
         density: 1.519 g/cm<sup>3</sup>
         surface_gravity: 48.226 m/s<sup>2</sup><br />(4.918 g<sub>0</sub>)
         escape_velocity: 104.811 km/s<br />(377,321 km/h)
         rotation_period: 65.670 d
         axial_tilt: 15.97°
         albedo: 0.30
-        temperature: 552 K<br />(279 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 514 Shanniashiad IV e
         type: Asteroid
         formationType: Captured
@@ -467,14 +467,14 @@ planets:
         radius: 104,360.8 km<br/>(16.381 Yrths)
         surface_area: 1.369 × 10<sup>11</sup> km<sup>2</sup><br/>(268.324 Yrths)
         volume: 4.761 × 10<sup>15</sup> km<sup>3</sup><br/>(4395.310 Yrths)
-        mass: 1.158 × 10<sup>28</sup> kg<br />(209.71058542385123 Yrths)
+        mass: 1.158 × 10<sup>28</sup> kg<br />(1939.722 Yrths)
         density: 2.433 g/cm<sup>3</sup>
         surface_gravity: 70.893 m/s<sup>2</sup><br />(7.229 g<sub>0</sub>)
         escape_velocity: 121.725 km/s<br />(438,209 km/h)
         rotation_period: 48.488 d
         axial_tilt: 43.61°
         albedo: 0.30
-        temperature: 396 K<br />(122 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 514 Shanniashiad IV f
         type: Icy
         formationType: Accreted
@@ -487,14 +487,14 @@ planets:
         radius: 159,482.8 km<br/>(25.033 Yrths)
         surface_area: 3.196 × 10<sup>11</sup> km<sup>2</sup><br/>(626.632 Yrths)
         volume: 1.699 × 10<sup>16</sup> km<sup>3</sup><br/>(15686.233 Yrths)
-        mass: 1.203 × 10<sup>28</sup> kg<br />(209.71058542385123 Yrths)
+        mass: 1.203 × 10<sup>28</sup> kg<br />(2014.560 Yrths)
         density: 0.708 g/cm<sup>3</sup>
         surface_gravity: 31.527 m/s<sup>2</sup><br />(3.215 g<sub>0</sub>)
         escape_velocity: 100.349 km/s<br />(361,255 km/h)
         rotation_period: 86.049 d
         axial_tilt: 20.83°
         albedo: 0.30
-        temperature: 312 K<br />(39 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 514 Shanniashiad IV g
         type: Icy
         formationType: Accreted
@@ -507,14 +507,14 @@ planets:
         radius: 177,192.9 km<br/>(27.812 Yrths)
         surface_area: 3.946 × 10<sup>11</sup> km<sup>2</sup><br/>(773.531 Yrths)
         volume: 2.330 × 10<sup>16</sup> km<sup>3</sup><br/>(21513.762 Yrths)
-        mass: 4.040 × 10<sup>28</sup> kg<br />(209.71058542385123 Yrths)
+        mass: 4.040 × 10<sup>28</sup> kg<br />(6764.339 Yrths)
         density: 1.733 g/cm<sup>3</sup>
         surface_gravity: 85.757 m/s<sup>2</sup><br />(8.745 g<sub>0</sub>)
         escape_velocity: 174.449 km/s<br />(628,015 km/h)
         rotation_period: 41.574 d
         axial_tilt: 15.13°
         albedo: 0.30
-        temperature: 297 K<br />(24 °C)
+        temperature: 145 K<br />(-128 °C)
       - name: 514 Shanniashiad IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -527,12 +527,12 @@ planets:
         radius: 124,996.8 km<br/>(19.620 Yrths)
         surface_area: 1.963 × 10<sup>11</sup> km<sup>2</sup><br/>(384.930 Yrths)
         volume: 8.181 × 10<sup>15</sup> km<sup>3</sup><br/>(7552.200 Yrths)
-        mass: 1.978 × 10<sup>28</sup> kg<br />(209.71058542385123 Yrths)
+        mass: 1.978 × 10<sup>28</sup> kg<br />(3311.827 Yrths)
         density: 2.418 g/cm<sup>3</sup>
         surface_gravity: 84.373 m/s<sup>2</sup><br />(8.604 g<sub>0</sub>)
         escape_velocity: 145.332 km/s<br />(523,196 km/h)
         rotation_period: 34.042 d
         axial_tilt: 23.93°
         albedo: 0.30
-        temperature: 132 K<br />(-141 °C)
+        temperature: 145 K<br />(-128 °C)
 ---

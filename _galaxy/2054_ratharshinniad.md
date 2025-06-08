@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2054 Ratharshinniad is a star in the constellation Ratharshin
+      2054 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 157.80 ly
 apparent_magnitude: 17.86
 absolute_magnitude: 14.43

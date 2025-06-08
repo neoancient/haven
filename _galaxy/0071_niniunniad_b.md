@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0071 Niniunniad B is a star in the constellation Niniun
+      0071 Niniunniad B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 1151.50 ly
 apparent_magnitude: 13.18
 absolute_magnitude: 5.44

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      582 Oniad is a star in the constellation Oni
+      582 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 527.78 ly
 apparent_magnitude: 11.24
 absolute_magnitude: 5.20

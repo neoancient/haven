@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3974 Lulithannaid is a star in the constellation Lulithan
+      3974 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 491.38 ly
 apparent_magnitude: 10.70
 absolute_magnitude: 4.81

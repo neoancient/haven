@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1667 Ratharshinniad A is a star in the constellation Ratharshin
+      1667 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 208.46 ly
 apparent_magnitude: 9.20
 absolute_magnitude: 5.17

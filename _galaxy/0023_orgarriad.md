@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0023 Orgarriad is a star in the constellation Orgar
+      0023 Orgarriad is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 867.49 ly
 apparent_magnitude: 6.14
 absolute_magnitude: -0.99
@@ -31,14 +31,14 @@ planets:
     radius: 36,931.6 km<br/>(5.797 Yrths)
     surface_area: 1.714 × 10<sup>10</sup> km<sup>2</sup><br/>(33.603 Yrths)
     volume: 2.110 × 10<sup>14</sup> km<sup>3</sup><br/>(194.792 Yrths)
-    mass: 3.167 × 10<sup>26</sup> kg<br />(53.02502417422781 Yrths)
+    mass: 3.167 × 10<sup>26</sup> kg<br />(53.03 Yrths)
     density: 1.501 g/cm<sup>3</sup>
     surface_gravity: 15.475 m/s<sup>2</sup><br />(1.578 g<sub>0</sub>)
     escape_velocity: 33.831 km/s<br />(121,793 km/h)
     rotation_period: 0.312 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 863 K<br />(590 °C)
+    temperature: 804 K<br />(531 °C)
     composition:
       - 76.3459% hydrogen
       - 18.3748% helium
@@ -58,14 +58,14 @@ planets:
         radius: 44,235.3 km<br/>(6.943 Yrths)
         surface_area: 2.459 × 10<sup>10</sup> km<sup>2</sup><br/>(48.208 Yrths)
         volume: 3.626 × 10<sup>14</sup> km<sup>3</sup><br/>(334.721 Yrths)
-        mass: 9.326 × 10<sup>26</sup> kg<br />(53.02502417422781 Yrths)
+        mass: 9.326 × 10<sup>26</sup> kg<br />(156.157 Yrths)
         density: 2.572 g/cm<sup>3</sup>
         surface_gravity: 31.766 m/s<sup>2</sup><br />(3.239 g<sub>0</sub>)
         escape_velocity: 53.049 km/s<br />(190,975 km/h)
         rotation_period: 39.059 d
         axial_tilt: 17.65°
         albedo: 0.30
-        temperature: 3701 K<br />(3428 °C)
+        temperature: 410 K<br />(137 °C)
       - name: 0023 Orgarriad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 58,059.9 km<br/>(9.113 Yrths)
         surface_area: 4.236 × 10<sup>10</sup> km<sup>2</sup><br/>(83.050 Yrths)
         volume: 8.198 × 10<sup>14</sup> km<sup>3</sup><br/>(756.845 Yrths)
-        mass: 1.879 × 10<sup>27</sup> kg<br />(53.02502417422781 Yrths)
+        mass: 1.879 × 10<sup>27</sup> kg<br />(314.705 Yrths)
         density: 2.292 g/cm<sup>3</sup>
         surface_gravity: 37.161 m/s<sup>2</sup><br />(3.789 g<sub>0</sub>)
         escape_velocity: 65.734 km/s<br />(236,643 km/h)
         rotation_period: 45.114 d
         axial_tilt: 30.57°
         albedo: 0.30
-        temperature: 3529 K<br />(3256 °C)
+        temperature: 410 K<br />(137 °C)
       - name: 0023 Orgarriad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 34,629.9 km<br/>(5.436 Yrths)
         surface_area: 1.507 × 10<sup>10</sup> km<sup>2</sup><br/>(29.545 Yrths)
         volume: 1.740 × 10<sup>14</sup> km<sup>3</sup><br/>(160.595 Yrths)
-        mass: 3.609 × 10<sup>26</sup> kg<br />(53.02502417422781 Yrths)
+        mass: 3.609 × 10<sup>26</sup> kg<br />(60.434 Yrths)
         density: 2.075 g/cm<sup>3</sup>
         surface_gravity: 20.059 m/s<sup>2</sup><br />(2.045 g<sub>0</sub>)
         escape_velocity: 37.299 km/s<br />(134,275 km/h)
         rotation_period: 42.363 d
         axial_tilt: 26.43°
         albedo: 0.30
-        temperature: 3059 K<br />(2785 °C)
+        temperature: 410 K<br />(137 °C)
       - name: 0023 Orgarriad I d
         type: Dwarf planet
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 44,541.7 km<br/>(6.991 Yrths)
         surface_area: 2.493 × 10<sup>10</sup> km<sup>2</sup><br/>(48.878 Yrths)
         volume: 3.702 × 10<sup>14</sup> km<sup>3</sup><br/>(341.725 Yrths)
-        mass: 5.391 × 10<sup>26</sup> kg<br />(53.02502417422781 Yrths)
+        mass: 5.391 × 10<sup>26</sup> kg<br />(90.269 Yrths)
         density: 1.456 g/cm<sup>3</sup>
         surface_gravity: 18.111 m/s<sup>2</sup><br />(1.847 g<sub>0</sub>)
         escape_velocity: 40.194 km/s<br />(144,700 km/h)
         rotation_period: 42.556 d
         axial_tilt: 39.07°
         albedo: 0.30
-        temperature: 2916 K<br />(2643 °C)
+        temperature: 410 K<br />(137 °C)
       - name: 0023 Orgarriad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -138,14 +138,14 @@ planets:
         radius: 69,599.8 km<br/>(10.924 Yrths)
         surface_area: 6.087 × 10<sup>10</sup> km<sup>2</sup><br/>(119.344 Yrths)
         volume: 1.412 × 10<sup>15</sup> km<sup>3</sup><br/>(1303.770 Yrths)
-        mass: 3.023 × 10<sup>27</sup> kg<br />(53.02502417422781 Yrths)
+        mass: 3.023 × 10<sup>27</sup> kg<br />(506.155 Yrths)
         density: 2.140 g/cm<sup>3</sup>
         surface_gravity: 41.591 m/s<sup>2</sup><br />(4.241 g<sub>0</sub>)
         escape_velocity: 76.140 km/s<br />(274,106 km/h)
         rotation_period: 35.036 d
         axial_tilt: 16.07°
         albedo: 0.30
-        temperature: 2781 K<br />(2507 °C)
+        temperature: 410 K<br />(137 °C)
       - name: 0023 Orgarriad I f
         type: Asteroid
         formationType: Captured
@@ -158,12 +158,12 @@ planets:
         radius: 63,866.5 km<br/>(10.025 Yrths)
         surface_area: 5.126 × 10<sup>10</sup> km<sup>2</sup><br/>(100.492 Yrths)
         volume: 1.091 × 10<sup>15</sup> km<sup>3</sup><br/>(1007.386 Yrths)
-        mass: 1.840 × 10<sup>27</sup> kg<br />(53.02502417422781 Yrths)
+        mass: 1.840 × 10<sup>27</sup> kg<br />(308.124 Yrths)
         density: 1.686 g/cm<sup>3</sup>
         surface_gravity: 30.069 m/s<sup>2</sup><br />(3.066 g<sub>0</sub>)
         escape_velocity: 62.016 km/s<br />(223,258 km/h)
         rotation_period: 42.287 d
         axial_tilt: 43.50°
         albedo: 0.30
-        temperature: 2651 K<br />(2378 °C)
+        temperature: 410 K<br />(137 °C)
 ---

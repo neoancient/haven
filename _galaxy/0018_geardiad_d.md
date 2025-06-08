@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0018 Geardiad D is a star in the constellation Geard
+      0018 Geardiad D is a star in the constellation <a href="geard.html">Geard</a>
 distance: 6385.26 ly
 apparent_magnitude: 9.60
 absolute_magnitude: -1.86

@@ -72,7 +72,7 @@ stars:
     distance: 518.03
     spectral_class: B8V + F3V
   - name:
-    designation: ι Nuariad
+    designation: <a href="ι_nuariad.html">ι Nuariad</a>
     ra: 8<sup>h</sup> 18<sup>m</sup> 33.10<sup>s</sup>
     dec: 73° 10' 10.64"
     apparent_magnitude: 4.74
@@ -136,7 +136,7 @@ stars:
     distance: 129.65
     spectral_class: A9V
   - name:
-    designation: 12 Nuariad
+    designation: <a href="12_nuariad.html">12 Nuariad</a>
     ra: 7<sup>h</sup> 11<sup>m</sup> 41.70<sup>s</sup>
     dec: 62° 37' 18.14"
     apparent_magnitude: 5.04
@@ -232,7 +232,7 @@ stars:
     distance: 399.25
     spectral_class: A8II + F1V
   - name:
-    designation: 0051 Nuariad
+    designation: <a href="0051_nuariad.html">0051 Nuariad</a>
     ra: 7<sup>h</sup> 40<sup>m</sup> 6.18<sup>s</sup>
     dec: 80° 11' 0.01"
     apparent_magnitude: 5.51
@@ -240,7 +240,7 @@ stars:
     distance: 31.33
     spectral_class: G3V
   - name:
-    designation: 24 Nuariad
+    designation: <a href="24_nuariad.html">24 Nuariad</a>
     ra: 8<sup>h</sup> 05<sup>m</sup> 15.81<sup>s</sup>
     dec: 82° 15' 24.74"
     apparent_magnitude: 5.56
@@ -248,7 +248,7 @@ stars:
     distance: 172.06
     spectral_class: K6II
   - name:
-    designation: 25 Nuariad
+    designation: <a href="25_nuariad.html">25 Nuariad</a>
     ra: 8<sup>h</sup> 24<sup>m</sup> 38.33<sup>s</sup>
     dec: 68° 36' 36.12"
     apparent_magnitude: 5.60
@@ -272,7 +272,7 @@ stars:
     distance: 63.66
     spectral_class: A9V
   - name:
-    designation: 0027 Nuariad
+    designation: <a href="0027_nuariad.html">0027 Nuariad</a>
     ra: 4<sup>h</sup> 52<sup>m</sup> 58.60<sup>s</sup>
     dec: 78° 51' 12.41"
     apparent_magnitude: 5.64
@@ -304,7 +304,7 @@ stars:
     distance: 171.80
     spectral_class: G8III
   - name:
-    designation: 0031 Nuariad
+    designation: <a href="0031_nuariad.html">0031 Nuariad</a>
     ra: 7<sup>h</sup> 13<sup>m</sup> 44.58<sup>s</sup>
     dec: 68° 39' 41.74"
     apparent_magnitude: 5.70
@@ -352,7 +352,7 @@ stars:
     distance: 742.51
     spectral_class: A2III + K5III
   - name:
-    designation: 0050 Nuariad
+    designation: <a href="0050_nuariad.html">0050 Nuariad</a>
     ra: 6<sup>h</sup> 01<sup>m</sup> 27.21<sup>s</sup>
     dec: 77° 16' 21.43"
     apparent_magnitude: 5.77
@@ -400,7 +400,7 @@ stars:
     distance: 932.52
     spectral_class: A2III
   - name:
-    designation: 0049 Nuariad
+    designation: <a href="0049_nuariad.html">0049 Nuariad</a>
     ra: 7<sup>h</sup> 14<sup>m</sup> 10.97<sup>s</sup>
     dec: 67° 03' 47.98"
     apparent_magnitude: 5.90
@@ -408,7 +408,7 @@ stars:
     distance: 628.16
     spectral_class: B9IV + F2V + G1V + A7V
   - name:
-    designation: 39 Nuariad
+    designation: <a href="39_nuariad.html">39 Nuariad</a>
     ra: 8<sup>h</sup> 24<sup>m</sup> 7.69<sup>s</sup>
     dec: 65° 46' 54.19"
     apparent_magnitude: 5.91
@@ -496,7 +496,7 @@ stars:
     distance: 507.97
     spectral_class: A7III + M1III
   - name:
-    designation: 0063 Nuariad
+    designation: <a href="0063_nuariad.html">0063 Nuariad</a>
     ra: 7<sup>h</sup> 22<sup>m</sup> 29.05<sup>s</sup>
     dec: 68° 30' 42.07"
     apparent_magnitude: 5.99
@@ -504,7 +504,7 @@ stars:
     distance: 53.01
     spectral_class: G1V
   - name:
-    designation: 0053 Nuariad
+    designation: <a href="0053_nuariad.html">0053 Nuariad</a>
     ra: 6<sup>h</sup> 11<sup>m</sup> 47.59<sup>s</sup>
     dec: 82° 47' 47.22"
     apparent_magnitude: 5.99
@@ -536,7 +536,7 @@ stars:
     distance: 200.40
     spectral_class: A2V + F9V
   - name:
-    designation: 0009 Nuariad
+    designation: <a href="0009_nuariad.html">0009 Nuariad</a>
     ra: 5<sup>h</sup> 06<sup>m</sup> 51.58<sup>s</sup>
     dec: 64° 23' 48.71"
     apparent_magnitude: 6.08
@@ -552,7 +552,7 @@ stars:
     distance: 294.47
     spectral_class: A2V + A4V
   - name:
-    designation: 0024 Nuariad
+    designation: <a href="0024_nuariad.html">0024 Nuariad</a>
     ra: 5<sup>h</sup> 57<sup>m</sup> 31.73<sup>s</sup>
     dec: 89° 33' 42.67"
     apparent_magnitude: 6.13
@@ -568,7 +568,7 @@ stars:
     distance: 58.28
     spectral_class: F4V
   - name:
-    designation: 0011 Nuariad
+    designation: <a href="0011_nuariad.html">0011 Nuariad</a>
     ra: 5<sup>h</sup> 40<sup>m</sup> 33.38<sup>s</sup>
     dec: 71° 26' 26.10"
     apparent_magnitude: 6.17
@@ -632,7 +632,7 @@ stars:
     distance: 1,161.91
     spectral_class: A0III
   - name:
-    designation: 0065 Nuariad
+    designation: <a href="0065_nuariad.html">0065 Nuariad</a>
     ra: 9<sup>h</sup> 03<sup>m</sup> 40.73<sup>s</sup>
     dec: 61° 58' 47.71"
     apparent_magnitude: 6.25
@@ -640,7 +640,7 @@ stars:
     distance: 681.37
     spectral_class: A5III
   - name:
-    designation: 63 Nuariad
+    designation: <a href="63_nuariad.html">63 Nuariad</a>
     ra: 7<sup>h</sup> 00<sup>m</sup> 38.60<sup>s</sup>
     dec: 64° 16' 31.38"
     apparent_magnitude: 6.26
@@ -656,7 +656,7 @@ stars:
     distance: 910.67
     spectral_class: A3III
   - name:
-    designation: 0039 Nuariad
+    designation: <a href="0039_nuariad.html">0039 Nuariad</a>
     ra: 6<sup>h</sup> 53<sup>m</sup> 34.77<sup>s</sup>
     dec: 74° 28' 41.55"
     apparent_magnitude: 6.30
@@ -664,7 +664,7 @@ stars:
     distance: 213.97
     spectral_class: A4V
   - name:
-    designation: 0045 Nuariad
+    designation: <a href="0045_nuariad.html">0045 Nuariad</a>
     ra: 8<sup>h</sup> 06<sup>m</sup> 45.72<sup>s</sup>
     dec: 62° 25' 45.66"
     apparent_magnitude: 6.32
@@ -712,7 +712,7 @@ stars:
     distance: 636.91
     spectral_class: A7III
   - name:
-    designation: 74 Nuariad
+    designation: <a href="74_nuariad.html">74 Nuariad</a>
     ra: 8<sup>h</sup> 56<sup>m</sup> 25.41<sup>s</sup>
     dec: 67° 50' 30.21"
     apparent_magnitude: 6.37
@@ -728,7 +728,7 @@ stars:
     distance: 834.65
     spectral_class: A4III + K6III
   - name:
-    designation: 0071 Nuariad
+    designation: <a href="0071_nuariad.html">0071 Nuariad</a>
     ra: 8<sup>h</sup> 16<sup>m</sup> 31.64<sup>s</sup>
     dec: 77° 54' 4.01"
     apparent_magnitude: 6.40
@@ -760,7 +760,7 @@ stars:
     distance: 295.23
     spectral_class: A8IV
   - name:
-    designation: 0047 Nuariad
+    designation: <a href="0047_nuariad.html">0047 Nuariad</a>
     ra: 7<sup>h</sup> 23<sup>m</sup> 57.41<sup>s</sup>
     dec: 63° 48' 23.58"
     apparent_magnitude: 6.42
@@ -768,7 +768,7 @@ stars:
     distance: 840.49
     spectral_class: A5III + M8III + M6III + A5V
   - name:
-    designation: 0019 Nuariad
+    designation: <a href="0019_nuariad.html">0019 Nuariad</a>
     ra: 5<sup>h</sup> 48<sup>m</sup> 37.29<sup>s</sup>
     dec: 63° 29' 21.94"
     apparent_magnitude: 6.44
@@ -784,7 +784,7 @@ stars:
     distance: 271.05
     spectral_class: G6II
   - name:
-    designation: 0070 Nuariad
+    designation: <a href="0070_nuariad.html">0070 Nuariad</a>
     ra: 8<sup>h</sup> 26<sup>m</sup> 24.71<sup>s</sup>
     dec: 65° 41' 15.43"
     apparent_magnitude: 6.44
@@ -792,7 +792,7 @@ stars:
     distance: 93.66
     spectral_class: G5III
   - name:
-    designation: 0044 Nuariad
+    designation: <a href="0044_nuariad.html">0044 Nuariad</a>
     ra: 7<sup>h</sup> 18<sup>m</sup> 52.41<sup>s</sup>
     dec: 62° 32' 8.07"
     apparent_magnitude: 6.45
@@ -800,7 +800,7 @@ stars:
     distance: 382.34
     spectral_class: F6II
   - name:
-    designation: 0033 Nuariad
+    designation: <a href="0033_nuariad.html">0033 Nuariad</a>
     ra: 5<sup>h</sup> 57<sup>m</sup> 47.65<sup>s</sup>
     dec: 75° 11' 6.28"
     apparent_magnitude: 6.45
@@ -872,7 +872,7 @@ stars:
     distance: 408.65
     spectral_class: F4III + F5V
   - name:
-    designation: 0074 Nuariad
+    designation: <a href="0074_nuariad.html">0074 Nuariad</a>
     ra: 7<sup>h</sup> 28<sup>m</sup> 32.44<sup>s</sup>
     dec: 76° 17' 52.44"
     apparent_magnitude: 6.50
@@ -888,7 +888,7 @@ stars:
     distance: 1,855.95
     spectral_class: A1II
   - name:
-    designation: 102 Nuariad
+    designation: <a href="102_nuariad.html">102 Nuariad</a>
     ra: 8<sup>h</sup> 27<sup>m</sup> 1.46<sup>s</sup>
     dec: 78° 14' 5.59"
     apparent_magnitude: 6.60
@@ -952,7 +952,7 @@ stars:
     distance: 904.51
     spectral_class: F5V + A0IV
   - name:
-    designation: 142 Nuariad
+    designation: <a href="142_nuariad.html">142 Nuariad</a>
     ra: 8<sup>h</sup> 41<sup>m</sup> 53.77<sup>s</sup>
     dec: 72° 43' 22.40"
     apparent_magnitude: 6.85
@@ -992,7 +992,7 @@ stars:
     distance: 488.57
     spectral_class: A6IV
   - name:
-    designation: 195 Nuariad
+    designation: <a href="195_nuariad.html">195 Nuariad</a>
     ra: 8<sup>h</sup> 54<sup>m</sup> 19.82<sup>s</sup>
     dec: 67° 17' 54.80"
     apparent_magnitude: 7.08
@@ -1016,7 +1016,7 @@ stars:
     distance: 252.56
     spectral_class: K4II
   - name:
-    designation: 293 Nuariad
+    designation: <a href="293_nuariad.html">293 Nuariad</a>
     ra: 8<sup>h</sup> 19<sup>m</sup> 20.95<sup>s</sup>
     dec: 68° 26' 36.13"
     apparent_magnitude: 7.37
@@ -1064,7 +1064,7 @@ stars:
     distance: 278.14
     spectral_class: A7V
   - name:
-    designation: 578 Nuariad
+    designation: <a href="578_nuariad.html">578 Nuariad</a>
     ra: 8<sup>h</sup> 01<sup>m</sup> 51.57<sup>s</sup>
     dec: 72° 05' 20.76"
     apparent_magnitude: 7.86
@@ -1072,7 +1072,7 @@ stars:
     distance: 367.35
     spectral_class: A3V
   - name:
-    designation: 601 Nuariad
+    designation: <a href="601_nuariad.html">601 Nuariad</a>
     ra: 9<sup>h</sup> 08<sup>m</sup> 13.96<sup>s</sup>
     dec: 71° 00' 9.20"
     apparent_magnitude: 7.89
@@ -1088,7 +1088,7 @@ stars:
     distance: 333.58
     spectral_class: F6V + A6V
   - name:
-    designation: 832 Nuariad
+    designation: <a href="832_nuariad.html">832 Nuariad</a>
     ra: 8<sup>h</sup> 11<sup>m</sup> 36.49<sup>s</sup>
     dec: 62° 45' 25.79"
     apparent_magnitude: 8.13

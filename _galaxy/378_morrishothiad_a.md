@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      378 Morrishothiad A is a star in the constellation Morrishoth
+      378 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 632.84 ly
 apparent_magnitude: 7.35
 absolute_magnitude: 0.91

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1931 Arkothiad A is a star in the constellation Arkoth
+      1931 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 339.97 ly
 apparent_magnitude: 10.66
 absolute_magnitude: 5.57

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0120 Niunioiad D is a star in the constellation Niunio
+      0120 Niunioiad D is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 2223.63 ly
 apparent_magnitude: 15.59
 absolute_magnitude: 6.42
@@ -31,7 +31,7 @@ planets:
     radius: 3,079.1 km<br/>(0.483 Yrths)
     surface_area: 1.191 × 10<sup>08</sup> km<sup>2</sup><br/>(0.234 Yrths)
     volume: 1.223 × 10<sup>11</sup> km<sup>3</sup><br/>(0.113 Yrths)
-    mass: 4.318 × 10<sup>24</sup> kg<br />(0.7229666992423232 Yrths)
+    mass: 4.318 × 10<sup>24</sup> kg<br />(0.72 Yrths)
     density: 35.308 g/cm<sup>3</sup>
     surface_gravity: 30.353 m/s<sup>2</sup><br />(3.095 g<sub>0</sub>)
     escape_velocity: 13.681 km/s<br />(49,252 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 1,304.7 km<br/>(0.205 Yrths)
         surface_area: 2.139 × 10<sup>07</sup> km<sup>2</sup><br/>(0.042 Yrths)
         volume: 9.302 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 2.648 × 10<sup>22</sup> kg<br />(0.7229666992423232 Yrths)
+        mass: 2.648 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.846 g/cm<sup>3</sup>
         surface_gravity: 1.037 m/s<sup>2</sup><br />(0.106 g<sub>0</sub>)
         escape_velocity: 1.646 km/s<br />(5,925 km/h)
         rotation_period: 41.771 d
         axial_tilt: 18.49°
         albedo: 0.30
-        temperature: 6295 K<br />(6022 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 0120 Niunioiad D I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -72,12 +72,12 @@ planets:
         radius: 1,209.4 km<br/>(0.190 Yrths)
         surface_area: 1.838 × 10<sup>07</sup> km<sup>2</sup><br/>(0.036 Yrths)
         volume: 7.410 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.695 × 10<sup>22</sup> kg<br />(0.7229666992423232 Yrths)
+        mass: 1.695 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.288 g/cm<sup>3</sup>
         surface_gravity: 0.773 m/s<sup>2</sup><br />(0.079 g<sub>0</sub>)
         escape_velocity: 1.368 km/s<br />(4,925 km/h)
         rotation_period: 39.051 d
         axial_tilt: 22.22°
         albedo: 0.30
-        temperature: 6002 K<br />(5729 °C)
+        temperature: 358 K<br />(85 °C)
 ---

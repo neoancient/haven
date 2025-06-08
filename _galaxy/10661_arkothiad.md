@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10661 Arkothiad is a star in the constellation Arkoth
+      10661 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 675.19 ly
 apparent_magnitude: 11.93
 absolute_magnitude: 5.35

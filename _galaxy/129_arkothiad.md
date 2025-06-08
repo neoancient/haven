@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      129 Arkothiad is a star in the constellation Arkoth
+      129 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 199.93 ly
 apparent_magnitude: 10.26
 absolute_magnitude: 6.32

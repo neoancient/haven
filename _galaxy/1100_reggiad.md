@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1100 Reggiad is a star in the constellation Reg
+      1100 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 305.69 ly
 apparent_magnitude: 9.81
 absolute_magnitude: 4.95

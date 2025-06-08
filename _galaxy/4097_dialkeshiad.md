@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4097 Dialkeshiad is a star in the constellation Dialkes
+      4097 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1057.99 ly
 apparent_magnitude: 17.56
 absolute_magnitude: 10.01

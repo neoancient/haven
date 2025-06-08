@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0012 Eshtiad A is a star in the constellation Eshti
+      0012 Eshtiad A is a star in the constellation <a href="eshti.html">Eshti</a>
 distance: 365.65 ly
 apparent_magnitude: 6.15
 absolute_magnitude: 0.90

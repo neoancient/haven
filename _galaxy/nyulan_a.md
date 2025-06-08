@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nyulan A is a star in the constellation Kuln
+      Nyulan A is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 737.67 ly
 apparent_magnitude: 3.51
 absolute_magnitude: -3.27

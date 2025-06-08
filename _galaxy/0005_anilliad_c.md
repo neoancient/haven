@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Anilliad C is a star in the constellation Anil
+      0005 Anilliad C is a star in the constellation <a href="anil.html">Anil</a>
 distance: 354.31 ly
 apparent_magnitude: 9.82
 absolute_magnitude: 4.64
@@ -31,14 +31,14 @@ planets:
     radius: 9,673.4 km<br/>(1.518 Yrths)
     surface_area: 1.176 × 10<sup>09</sup> km<sup>2</sup><br/>(2.305 Yrths)
     volume: 3.792 × 10<sup>12</sup> km<sup>3</sup><br/>(3.500 Yrths)
-    mass: 2.677 × 10<sup>25</sup> kg<br />(4.482929180030562 Yrths)
+    mass: 2.677 × 10<sup>25</sup> kg<br />(4.48 Yrths)
     density: 7.061 g/cm<sup>3</sup>
     surface_gravity: 19.069 m/s<sup>2</sup><br />(1.945 g<sub>0</sub>)
     escape_velocity: 19.221 km/s<br />(69,194 km/h)
     rotation_period: 0.841 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 348 K<br />(74 °C)
+    temperature: 510 K<br />(237 °C)
     surface_pressure: 613 kPa<br />(6 atm)
     composition:
       - 73.3702% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 8,407.0 km<br/>(1.320 Yrths)
         surface_area: 8.882 × 10<sup>08</sup> km<sup>2</sup><br/>(1.741 Yrths)
         volume: 2.489 × 10<sup>12</sup> km<sup>3</sup><br/>(2.298 Yrths)
-        mass: 4.532 × 10<sup>24</sup> kg<br />(4.482929180030562 Yrths)
+        mass: 4.532 × 10<sup>24</sup> kg<br />(0.759 Yrths)
         density: 1.821 g/cm<sup>3</sup>
         surface_gravity: 4.273 m/s<sup>2</sup><br />(0.436 g<sub>0</sub>)
         escape_velocity: 8.482 km/s<br />(30,537 km/h)
         rotation_period: 43.398 d
         axial_tilt: 20.40°
         albedo: 0.30
-        temperature: 2982 K<br />(2709 °C)
+        temperature: 242 K<br />(-31 °C)
   - name: 0005 Anilliad C II
     type: Large terrestrial
     aphelion: 329,693,182 km<br />2.204 AU
@@ -76,7 +76,7 @@ planets:
     radius: 10,942.5 km<br/>(1.718 Yrths)
     surface_area: 1.505 × 10<sup>09</sup> km<sup>2</sup><br/>(2.950 Yrths)
     volume: 5.488 × 10<sup>12</sup> km<sup>3</sup><br/>(5.067 Yrths)
-    mass: 3.737 × 10<sup>25</sup> kg<br />(6.256749714444631 Yrths)
+    mass: 3.737 × 10<sup>25</sup> kg<br />(6.26 Yrths)
     density: 6.808 g/cm<sup>3</sup>
     surface_gravity: 20.799 m/s<sup>2</sup><br />(2.121 g<sub>0</sub>)
     escape_velocity: 21.350 km/s<br />(76,859 km/h)
@@ -97,14 +97,14 @@ planets:
         radius: 16,520.4 km<br/>(2.593 Yrths)
         surface_area: 3.430 × 10<sup>09</sup> km<sup>2</sup><br/>(6.724 Yrths)
         volume: 1.889 × 10<sup>13</sup> km<sup>3</sup><br/>(17.436 Yrths)
-        mass: 2.736 × 10<sup>25</sup> kg<br />(6.256749714444631 Yrths)
+        mass: 2.736 × 10<sup>25</sup> kg<br />(4.582 Yrths)
         density: 1.449 g/cm<sup>3</sup>
         surface_gravity: 6.683 m/s<sup>2</sup><br />(0.681 g<sub>0</sub>)
         escape_velocity: 14.870 km/s<br />(53,530 km/h)
         rotation_period: 70.538 d
         axial_tilt: 23.95°
         albedo: 0.30
-        temperature: 1942 K<br />(1669 °C)
+        temperature: 179 K<br />(-94 °C)
   - name: 0005 Anilliad C III
     type: Terrestrial
     aphelion: 600,395,629 km<br />4.013 AU
@@ -116,14 +116,14 @@ planets:
     radius: 8,733.9 km<br/>(1.371 Yrths)
     surface_area: 9.586 × 10<sup>08</sup> km<sup>2</sup><br/>(1.879 Yrths)
     volume: 2.791 × 10<sup>12</sup> km<sup>3</sup><br/>(2.576 Yrths)
-    mass: 1.323 × 10<sup>25</sup> kg<br />(2.2156027338382462 Yrths)
+    mass: 1.323 × 10<sup>25</sup> kg<br />(2.22 Yrths)
     density: 4.741 g/cm<sup>3</sup>
     surface_gravity: 11.561 m/s<sup>2</sup><br />(1.179 g<sub>0</sub>)
     escape_velocity: 14.221 km/s<br />(51,194 km/h)
     rotation_period: 0.808 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 155 K<br />(-118 °C)
+    temperature: 192 K<br />(-81 °C)
     surface_pressure: 29 kPa<br />(0 atm)
     composition:
       - 80.4020% methane
@@ -143,14 +143,14 @@ planets:
         radius: 6,648.2 km<br/>(1.044 Yrths)
         surface_area: 5.554 × 10<sup>08</sup> km<sup>2</sup><br/>(1.089 Yrths)
         volume: 1.231 × 10<sup>12</sup> km<sup>3</sup><br/>(1.136 Yrths)
-        mass: 1.787 × 10<sup>24</sup> kg<br />(2.2156027338382462 Yrths)
+        mass: 1.787 × 10<sup>24</sup> kg<br />(0.299 Yrths)
         density: 1.452 g/cm<sup>3</sup>
         surface_gravity: 2.695 m/s<sup>2</sup><br />(0.275 g<sub>0</sub>)
         escape_velocity: 5.990 km/s<br />(21,564 km/h)
         rotation_period: 61.238 d
         axial_tilt: 18.28°
         albedo: 0.30
-        temperature: 1782 K<br />(1509 °C)
+        temperature: 133 K<br />(-140 °C)
   - name: 0005 Anilliad C IV
     type: Gas giant
     aphelion: 1,142,666,661 km<br />7.638 AU
@@ -162,7 +162,7 @@ planets:
     radius: 221.4 km<br/>(0.035 Yrths)
     surface_area: 6.161 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.547 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.563 × 10<sup>27</sup> kg<br />(261.7934738218468 Yrths)
+    mass: 1.563 × 10<sup>27</sup> kg<br />(261.79 Yrths)
     density: 34383482.613 g/cm<sup>3</sup>
     surface_gravity: 2125533.431 m/s<sup>2</sup><br />(216744.090 g<sub>0</sub>)
     escape_velocity: 970.846 km/s<br />(3,495,047 km/h)
@@ -183,14 +183,14 @@ planets:
         radius: 145,832.9 km<br/>(22.890 Yrths)
         surface_area: 2.673 × 10<sup>11</sup> km<sup>2</sup><br/>(523.957 Yrths)
         volume: 1.299 × 10<sup>16</sup> km<sup>3</sup><br/>(11993.430 Yrths)
-        mass: 1.685 × 10<sup>28</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 1.685 × 10<sup>28</sup> kg<br />(2820.858 Yrths)
         density: 1.297 g/cm<sup>3</sup>
         surface_gravity: 52.797 m/s<sup>2</sup><br />(5.384 g<sub>0</sub>)
         escape_velocity: 124.177 km/s<br />(447,037 km/h)
         rotation_period: 67.326 d
         axial_tilt: 21.77°
         albedo: 0.30
-        temperature: 572 K<br />(299 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV b
         type: Icy
         formationType: Accreted
@@ -203,14 +203,14 @@ planets:
         radius: 128,831.0 km<br/>(20.221 Yrths)
         surface_area: 2.086 × 10<sup>11</sup> km<sup>2</sup><br/>(408.908 Yrths)
         volume: 8.957 × 10<sup>15</sup> km<sup>3</sup><br/>(8268.723 Yrths)
-        mass: 1.283 × 10<sup>28</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 1.283 × 10<sup>28</sup> kg<br />(2148.058 Yrths)
         density: 1.432 g/cm<sup>3</sup>
         surface_gravity: 51.516 m/s<sup>2</sup><br />(5.253 g<sub>0</sub>)
         escape_velocity: 115.290 km/s<br />(415,043 km/h)
         rotation_period: 68.109 d
         axial_tilt: 20.67°
         albedo: 0.30
-        temperature: 451 K<br />(178 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -223,14 +223,14 @@ planets:
         radius: 137,482.7 km<br/>(21.579 Yrths)
         surface_area: 2.375 × 10<sup>11</sup> km<sup>2</sup><br/>(465.673 Yrths)
         volume: 1.089 × 10<sup>16</sup> km<sup>3</sup><br/>(10048.967 Yrths)
-        mass: 2.357 × 10<sup>28</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 2.357 × 10<sup>28</sup> kg<br />(3947.444 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 83.130 m/s<sup>2</sup><br />(8.477 g<sub>0</sub>)
         escape_velocity: 151.291 km/s<br />(544,646 km/h)
         rotation_period: 58.388 d
         axial_tilt: 27.23°
         albedo: 0.30
-        temperature: 430 K<br />(157 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV d
         type: Icy
         formationType: Accreted
@@ -243,14 +243,14 @@ planets:
         radius: 122,820.2 km<br/>(19.278 Yrths)
         surface_area: 1.896 × 10<sup>11</sup> km<sup>2</sup><br/>(371.642 Yrths)
         volume: 7.761 × 10<sup>15</sup> km<sup>3</sup><br/>(7164.511 Yrths)
-        mass: 9.589 × 10<sup>27</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 9.589 × 10<sup>27</sup> kg<br />(1605.674 Yrths)
         density: 1.236 g/cm<sup>3</sup>
         surface_gravity: 42.370 m/s<sup>2</sup><br />(4.320 g<sub>0</sub>)
         escape_velocity: 102.087 km/s<br />(367,514 km/h)
         rotation_period: 67.755 d
         axial_tilt: 16.19°
         albedo: 0.30
-        temperature: 410 K<br />(137 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV e
         type: Icy
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 122,105.2 km<br/>(19.166 Yrths)
         surface_area: 1.874 × 10<sup>11</sup> km<sup>2</sup><br/>(367.327 Yrths)
         volume: 7.626 × 10<sup>15</sup> km<sup>3</sup><br/>(7040.117 Yrths)
-        mass: 1.274 × 10<sup>28</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 1.274 × 10<sup>28</sup> kg<br />(2132.882 Yrths)
         density: 1.670 g/cm<sup>3</sup>
         surface_gravity: 56.942 m/s<sup>2</sup><br />(5.806 g<sub>0</sub>)
         escape_velocity: 118.003 km/s<br />(424,812 km/h)
         rotation_period: 42.382 d
         axial_tilt: 19.21°
         albedo: 0.30
-        temperature: 373 K<br />(100 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -283,14 +283,14 @@ planets:
         radius: 96,745.5 km<br/>(15.185 Yrths)
         surface_area: 1.176 × 10<sup>11</sup> km<sup>2</sup><br/>(230.593 Yrths)
         volume: 3.793 × 10<sup>15</sup> km<sup>3</sup><br/>(3501.624 Yrths)
-        mass: 9.532 × 10<sup>27</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 9.532 × 10<sup>27</sup> kg<br />(1596.183 Yrths)
         density: 2.513 g/cm<sup>3</sup>
         surface_gravity: 67.882 m/s<sup>2</sup><br />(6.922 g<sub>0</sub>)
         escape_velocity: 114.684 km/s<br />(412,863 km/h)
         rotation_period: 32.015 d
         axial_tilt: 19.81°
         albedo: 0.30
-        temperature: 355 K<br />(82 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV g
         type: Icy
         formationType: Accreted
@@ -303,14 +303,14 @@ planets:
         radius: 123,933.7 km<br/>(19.453 Yrths)
         surface_area: 1.930 × 10<sup>11</sup> km<sup>2</sup><br/>(378.411 Yrths)
         volume: 7.974 × 10<sup>15</sup> km<sup>3</sup><br/>(7361.140 Yrths)
-        mass: 1.025 × 10<sup>28</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 1.025 × 10<sup>28</sup> kg<br />(1715.823 Yrths)
         density: 1.285 g/cm<sup>3</sup>
         surface_gravity: 44.466 m/s<sup>2</sup><br />(4.534 g<sub>0</sub>)
         escape_velocity: 105.056 km/s<br />(378,200 km/h)
         rotation_period: 50.578 d
         axial_tilt: 8.31°
         albedo: 0.30
-        temperature: 323 K<br />(50 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV h
         type: Ice/rock hybrid
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 110,625.4 km<br/>(17.364 Yrths)
         surface_area: 1.538 × 10<sup>11</sup> km<sup>2</sup><br/>(301.505 Yrths)
         volume: 5.671 × 10<sup>15</sup> km<sup>3</sup><br/>(5235.300 Yrths)
-        mass: 1.146 × 10<sup>28</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 1.146 × 10<sup>28</sup> kg<br />(1918.768 Yrths)
         density: 2.021 g/cm<sup>3</sup>
         surface_gravity: 62.409 m/s<sup>2</sup><br />(6.364 g<sub>0</sub>)
         escape_velocity: 117.588 km/s<br />(423,315 km/h)
         rotation_period: 65.741 d
         axial_tilt: 31.69°
         albedo: 0.30
-        temperature: 267 K<br />(-6 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV i
         type: Icy
         formationType: Accreted
@@ -343,14 +343,14 @@ planets:
         radius: 420,652.2 km<br/>(66.026 Yrths)
         surface_area: 2.224 × 10<sup>12</sup> km<sup>2</sup><br/>(4359.445 Yrths)
         volume: 3.118 × 10<sup>17</sup> km<sup>3</sup><br/>(287837.079 Yrths)
-        mass: 2.515 × 10<sup>29</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 2.515 × 10<sup>29</sup> kg<br />(42113.970 Yrths)
         density: 0.807 g/cm<sup>3</sup>
         surface_gravity: 94.736 m/s<sup>2</sup><br />(9.660 g<sub>0</sub>)
         escape_velocity: 282.507 km/s<br />(1,017,025 km/h)
         rotation_period: 98.695 d
         axial_tilt: 14.87°
         albedo: 0.30
-        temperature: 201 K<br />(-73 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV j
         type: Asteroid
         formationType: Captured
@@ -363,14 +363,14 @@ planets:
         radius: 144,540.6 km<br/>(22.687 Yrths)
         surface_area: 2.625 × 10<sup>11</sup> km<sup>2</sup><br/>(514.712 Yrths)
         volume: 1.265 × 10<sup>16</sup> km<sup>3</sup><br/>(11677.416 Yrths)
-        mass: 3.489 × 10<sup>28</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 3.489 × 10<sup>28</sup> kg<br />(5842.690 Yrths)
         density: 2.759 g/cm<sup>3</sup>
         surface_gravity: 111.319 m/s<sup>2</sup><br />(11.351 g<sub>0</sub>)
         escape_velocity: 179.510 km/s<br />(646,237 km/h)
         rotation_period: 48.462 d
         axial_tilt: 37.64°
         albedo: 0.30
-        temperature: 144 K<br />(-129 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -383,14 +383,14 @@ planets:
         radius: 110,394.2 km<br/>(17.328 Yrths)
         surface_area: 1.531 × 10<sup>11</sup> km<sup>2</sup><br/>(300.246 Yrths)
         volume: 5.635 × 10<sup>15</sup> km<sup>3</sup><br/>(5202.547 Yrths)
-        mass: 1.258 × 10<sup>28</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 1.258 × 10<sup>28</sup> kg<br />(2106.737 Yrths)
         density: 2.233 g/cm<sup>3</sup>
         surface_gravity: 68.810 m/s<sup>2</sup><br />(7.017 g<sub>0</sub>)
         escape_velocity: 123.342 km/s<br />(444,030 km/h)
         rotation_period: 58.470 d
         axial_tilt: 16.61°
         albedo: 0.30
-        temperature: 108 K<br />(-165 °C)
+        temperature: 99 K<br />(-175 °C)
       - name: 0005 Anilliad C IV l
         type: Icy
         formationType: Captured
@@ -403,14 +403,14 @@ planets:
         radius: 122,423.1 km<br/>(19.216 Yrths)
         surface_area: 1.883 × 10<sup>11</sup> km<sup>2</sup><br/>(369.243 Yrths)
         volume: 7.686 × 10<sup>15</sup> km<sup>3</sup><br/>(7095.250 Yrths)
-        mass: 8.813 × 10<sup>27</sup> kg<br />(261.7934738218468 Yrths)
+        mass: 8.813 × 10<sup>27</sup> kg<br />(1475.637 Yrths)
         density: 1.147 g/cm<sup>3</sup>
         surface_gravity: 39.191 m/s<sup>2</sup><br />(3.996 g<sub>0</sub>)
         escape_velocity: 98.025 km/s<br />(352,889 km/h)
         rotation_period: 59.792 d
         axial_tilt: 18.94°
         albedo: 0.30
-        temperature: 98 K<br />(-175 °C)
+        temperature: 99 K<br />(-175 °C)
   - name: 0005 Anilliad C V
     type: Ice giant
     aphelion: 1,991,097,981 km<br />13.309 AU
@@ -422,14 +422,14 @@ planets:
     radius: 27,366.2 km<br/>(4.295 Yrths)
     surface_area: 9.411 × 10<sup>09</sup> km<sup>2</sup><br/>(18.451 Yrths)
     volume: 8.585 × 10<sup>13</sup> km<sup>3</sup><br/>(79.254 Yrths)
-    mass: 1.468 × 10<sup>26</sup> kg<br />(24.57827304949074 Yrths)
+    mass: 1.468 × 10<sup>26</sup> kg<br />(24.58 Yrths)
     density: 1.710 g/cm<sup>3</sup>
     surface_gravity: 13.063 m/s<sup>2</sup><br />(1.332 g<sub>0</sub>)
     escape_velocity: 26.758 km/s<br />(96,327 km/h)
     rotation_period: 0.327 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 129 K<br />(-144 °C)
+    temperature: 116 K<br />(-158 °C)
     composition:
       - 90.7974% hydrogen
       - 9.2026% helium
@@ -446,14 +446,14 @@ planets:
         radius: 13,606.5 km<br/>(2.136 Yrths)
         surface_area: 2.326 × 10<sup>09</sup> km<sup>2</sup><br/>(4.561 Yrths)
         volume: 1.055 × 10<sup>13</sup> km<sup>3</sup><br/>(9.741 Yrths)
-        mass: 1.169 × 10<sup>25</sup> kg<br />(24.57827304949074 Yrths)
+        mass: 1.169 × 10<sup>25</sup> kg<br />(1.957 Yrths)
         density: 1.108 g/cm<sup>3</sup>
         surface_gravity: 4.208 m/s<sup>2</sup><br />(0.429 g<sub>0</sub>)
         escape_velocity: 10.708 km/s<br />(38,549 km/h)
         rotation_period: 89.485 d
         axial_tilt: 18.50°
         albedo: 0.30
-        temperature: 629 K<br />(356 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 0005 Anilliad C V b
         type: Icy
         formationType: Impact formed
@@ -466,14 +466,14 @@ planets:
         radius: 35,820.7 km<br/>(5.622 Yrths)
         surface_area: 1.612 × 10<sup>10</sup> km<sup>2</sup><br/>(31.612 Yrths)
         volume: 1.925 × 10<sup>14</sup> km<sup>3</sup><br/>(177.738 Yrths)
-        mass: 2.826 × 10<sup>26</sup> kg<br />(24.57827304949074 Yrths)
+        mass: 2.826 × 10<sup>26</sup> kg<br />(47.317 Yrths)
         density: 1.468 g/cm<sup>3</sup>
         surface_gravity: 14.679 m/s<sup>2</sup><br />(1.497 g<sub>0</sub>)
         escape_velocity: 32.450 km/s<br />(116,821 km/h)
         rotation_period: 47.211 d
         axial_tilt: 21.00°
         albedo: 0.30
-        temperature: 600 K<br />(327 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 0005 Anilliad C V c
         type: Icy
         formationType: Accreted
@@ -486,14 +486,14 @@ planets:
         radius: 30,184.1 km<br/>(4.738 Yrths)
         surface_area: 1.145 × 10<sup>10</sup> km<sup>2</sup><br/>(22.446 Yrths)
         volume: 1.152 × 10<sup>14</sup> km<sup>3</sup><br/>(106.344 Yrths)
-        mass: 1.765 × 10<sup>26</sup> kg<br />(24.57827304949074 Yrths)
+        mass: 1.765 × 10<sup>26</sup> kg<br />(29.546 Yrths)
         density: 1.532 g/cm<sup>3</sup>
         surface_gravity: 12.909 m/s<sup>2</sup><br />(1.316 g<sub>0</sub>)
         escape_velocity: 27.934 km/s<br />(100,564 km/h)
         rotation_period: 45.305 d
         axial_tilt: 17.71°
         albedo: 0.30
-        temperature: 572 K<br />(299 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 0005 Anilliad C V d
         type: Dwarf planet
         formationType: Accreted
@@ -506,14 +506,14 @@ planets:
         radius: 32,890.4 km<br/>(5.163 Yrths)
         surface_area: 1.359 × 10<sup>10</sup> km<sup>2</sup><br/>(26.652 Yrths)
         volume: 1.490 × 10<sup>14</sup> km<sup>3</sup><br/>(137.590 Yrths)
-        mass: 2.244 × 10<sup>26</sup> kg<br />(24.57827304949074 Yrths)
+        mass: 2.244 × 10<sup>26</sup> kg<br />(37.582 Yrths)
         density: 1.506 g/cm<sup>3</sup>
         surface_gravity: 13.829 m/s<sup>2</sup><br />(1.410 g<sub>0</sub>)
         escape_velocity: 30.181 km/s<br />(108,651 km/h)
         rotation_period: 49.916 d
         axial_tilt: 32.81°
         albedo: 0.30
-        temperature: 545 K<br />(272 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 0005 Anilliad C V e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -526,14 +526,14 @@ planets:
         radius: 20,793.1 km<br/>(3.264 Yrths)
         surface_area: 5.433 × 10<sup>09</sup> km<sup>2</sup><br/>(10.652 Yrths)
         volume: 3.766 × 10<sup>13</sup> km<sup>3</sup><br/>(34.764 Yrths)
-        mass: 8.528 × 10<sup>25</sup> kg<br />(24.57827304949074 Yrths)
+        mass: 8.528 × 10<sup>25</sup> kg<br />(14.280 Yrths)
         density: 2.265 g/cm<sup>3</sup>
         surface_gravity: 13.147 m/s<sup>2</sup><br />(1.341 g<sub>0</sub>)
         escape_velocity: 23.398 km/s<br />(84,235 km/h)
         rotation_period: 33.993 d
         axial_tilt: 17.42°
         albedo: 0.30
-        temperature: 520 K<br />(247 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 0005 Anilliad C V f
         type: Dwarf planet
         formationType: Impact formed
@@ -546,14 +546,14 @@ planets:
         radius: 21,762.5 km<br/>(3.416 Yrths)
         surface_area: 5.951 × 10<sup>09</sup> km<sup>2</sup><br/>(11.668 Yrths)
         volume: 4.317 × 10<sup>13</sup> km<sup>3</sup><br/>(39.857 Yrths)
-        mass: 5.181 × 10<sup>25</sup> kg<br />(24.57827304949074 Yrths)
+        mass: 5.181 × 10<sup>25</sup> kg<br />(8.675 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 7.291 m/s<sup>2</sup><br />(0.743 g<sub>0</sub>)
         escape_velocity: 17.826 km/s<br />(64,175 km/h)
         rotation_period: 50.897 d
         axial_tilt: 39.73°
         albedo: 0.30
-        temperature: 496 K<br />(223 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 0005 Anilliad C V g
         type: Icy
         formationType: Captured
@@ -566,14 +566,14 @@ planets:
         radius: 15,256.5 km<br/>(2.395 Yrths)
         surface_area: 2.925 × 10<sup>09</sup> km<sup>2</sup><br/>(5.734 Yrths)
         volume: 1.487 × 10<sup>13</sup> km<sup>3</sup><br/>(13.732 Yrths)
-        mass: 1.733 × 10<sup>25</sup> kg<br />(24.57827304949074 Yrths)
+        mass: 1.733 × 10<sup>25</sup> kg<br />(2.902 Yrths)
         density: 1.165 g/cm<sup>3</sup>
         surface_gravity: 4.963 m/s<sup>2</sup><br />(0.506 g<sub>0</sub>)
         escape_velocity: 12.315 km/s<br />(44,333 km/h)
         rotation_period: 87.775 d
         axial_tilt: 18.31°
         albedo: 0.30
-        temperature: 473 K<br />(200 °C)
+        temperature: 73 K<br />(-200 °C)
       - name: 0005 Anilliad C V h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -586,14 +586,14 @@ planets:
         radius: 33,396.9 km<br/>(5.242 Yrths)
         surface_area: 1.402 × 10<sup>10</sup> km<sup>2</sup><br/>(27.479 Yrths)
         volume: 1.560 × 10<sup>14</sup> km<sup>3</sup><br/>(144.044 Yrths)
-        mass: 3.299 × 10<sup>26</sup> kg<br />(24.57827304949074 Yrths)
+        mass: 3.299 × 10<sup>26</sup> kg<br />(55.239 Yrths)
         density: 2.114 g/cm<sup>3</sup>
         surface_gravity: 19.714 m/s<sup>2</sup><br />(2.010 g<sub>0</sub>)
         escape_velocity: 36.312 km/s<br />(130,722 km/h)
         rotation_period: 42.866 d
         axial_tilt: 19.16°
         albedo: 0.30
-        temperature: 430 K<br />(157 °C)
+        temperature: 73 K<br />(-200 °C)
   - name: 0005 Anilliad C VI
     type: Ice giant
     aphelion: 3,697,221,754 km<br />24.714 AU
@@ -605,14 +605,14 @@ planets:
     radius: 28,698.5 km<br/>(4.505 Yrths)
     surface_area: 1.035 × 10<sup>10</sup> km<sup>2</sup><br/>(20.291 Yrths)
     volume: 9.901 × 10<sup>13</sup> km<sup>3</sup><br/>(91.401 Yrths)
-    mass: 1.701 × 10<sup>26</sup> kg<br />(28.485473813235014 Yrths)
+    mass: 1.701 × 10<sup>26</sup> kg<br />(28.49 Yrths)
     density: 1.718 g/cm<sup>3</sup>
     surface_gravity: 13.767 m/s<sup>2</sup><br />(1.404 g<sub>0</sub>)
     escape_velocity: 28.129 km/s<br />(101,266 km/h)
     rotation_period: 0.311 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 97 K<br />(-176 °C)
+    temperature: 88 K<br />(-185 °C)
     composition:
       - 85.0733% hydrogen
       - 11.6896% helium
@@ -630,14 +630,14 @@ planets:
         radius: 25,238.7 km<br/>(3.961 Yrths)
         surface_area: 8.005 × 10<sup>09</sup> km<sup>2</sup><br/>(15.693 Yrths)
         volume: 6.734 × 10<sup>13</sup> km<sup>3</sup><br/>(62.169 Yrths)
-        mass: 1.657 × 10<sup>26</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 1.657 × 10<sup>26</sup> kg<br />(27.739 Yrths)
         density: 2.460 g/cm<sup>3</sup>
         surface_gravity: 17.334 m/s<sup>2</sup><br />(1.768 g<sub>0</sub>)
         escape_velocity: 29.600 km/s<br />(106,560 km/h)
         rotation_period: 34.511 d
         axial_tilt: 24.34°
         albedo: 0.30
-        temperature: 455 K<br />(182 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -650,14 +650,14 @@ planets:
         radius: 16,077.8 km<br/>(2.524 Yrths)
         surface_area: 3.248 × 10<sup>09</sup> km<sup>2</sup><br/>(6.369 Yrths)
         volume: 1.741 × 10<sup>13</sup> km<sup>3</sup><br/>(16.072 Yrths)
-        mass: 4.720 × 10<sup>25</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 4.720 × 10<sup>25</sup> kg<br />(7.903 Yrths)
         density: 2.711 g/cm<sup>3</sup>
         surface_gravity: 12.170 m/s<sup>2</sup><br />(1.241 g<sub>0</sub>)
         escape_velocity: 19.796 km/s<br />(71,264 km/h)
         rotation_period: 44.472 d
         axial_tilt: 30.05°
         albedo: 0.30
-        temperature: 414 K<br />(141 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -670,14 +670,14 @@ planets:
         radius: 15,215.6 km<br/>(2.388 Yrths)
         surface_area: 2.909 × 10<sup>09</sup> km<sup>2</sup><br/>(5.704 Yrths)
         volume: 1.476 × 10<sup>13</sup> km<sup>3</sup><br/>(13.622 Yrths)
-        mass: 4.063 × 10<sup>25</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 4.063 × 10<sup>25</sup> kg<br />(6.804 Yrths)
         density: 2.754 g/cm<sup>3</sup>
         surface_gravity: 11.698 m/s<sup>2</sup><br />(1.193 g<sub>0</sub>)
         escape_velocity: 18.880 km/s<br />(67,968 km/h)
         rotation_period: 32.989 d
         axial_tilt: 24.51°
         albedo: 0.30
-        temperature: 376 K<br />(103 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI d
         type: Icy
         formationType: Accreted
@@ -690,14 +690,14 @@ planets:
         radius: 38,263.2 km<br/>(6.006 Yrths)
         surface_area: 1.840 × 10<sup>10</sup> km<sup>2</sup><br/>(36.070 Yrths)
         volume: 2.347 × 10<sup>14</sup> km<sup>3</sup><br/>(216.631 Yrths)
-        mass: 2.520 × 10<sup>26</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 2.520 × 10<sup>26</sup> kg<br />(42.193 Yrths)
         density: 1.074 g/cm<sup>3</sup>
         surface_gravity: 11.471 m/s<sup>2</sup><br />(1.170 g<sub>0</sub>)
         escape_velocity: 29.649 km/s<br />(106,736 km/h)
         rotation_period: 77.697 d
         axial_tilt: 13.66°
         albedo: 0.30
-        temperature: 359 K<br />(86 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI e
         type: Icy
         formationType: Accreted
@@ -710,14 +710,14 @@ planets:
         radius: 15,159.7 km<br/>(2.379 Yrths)
         surface_area: 2.888 × 10<sup>09</sup> km<sup>2</sup><br/>(5.662 Yrths)
         volume: 1.459 × 10<sup>13</sup> km<sup>3</sup><br/>(13.472 Yrths)
-        mass: 1.754 × 10<sup>25</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 1.754 × 10<sup>25</sup> kg<br />(2.936 Yrths)
         density: 1.202 g/cm<sup>3</sup>
         surface_gravity: 5.086 m/s<sup>2</sup><br />(0.519 g<sub>0</sub>)
         escape_velocity: 12.426 km/s<br />(44,734 km/h)
         rotation_period: 62.022 d
         axial_tilt: 27.81°
         albedo: 0.30
-        temperature: 342 K<br />(69 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -730,14 +730,14 @@ planets:
         radius: 12,664.9 km<br/>(1.988 Yrths)
         surface_area: 2.016 × 10<sup>09</sup> km<sup>2</sup><br/>(3.952 Yrths)
         volume: 8.509 × 10<sup>12</sup> km<sup>3</sup><br/>(7.856 Yrths)
-        mass: 1.713 × 10<sup>25</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 1.713 × 10<sup>25</sup> kg<br />(2.868 Yrths)
         density: 2.013 g/cm<sup>3</sup>
         surface_gravity: 7.118 m/s<sup>2</sup><br />(0.726 g<sub>0</sub>)
         escape_velocity: 13.437 km/s<br />(48,372 km/h)
         rotation_period: 45.543 d
         axial_tilt: 20.09°
         albedo: 0.30
-        temperature: 326 K<br />(53 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -750,14 +750,14 @@ planets:
         radius: 17,081.7 km<br/>(2.681 Yrths)
         surface_area: 3.667 × 10<sup>09</sup> km<sup>2</sup><br/>(7.189 Yrths)
         volume: 2.088 × 10<sup>13</sup> km<sup>3</sup><br/>(19.274 Yrths)
-        mass: 4.656 × 10<sup>25</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 4.656 × 10<sup>25</sup> kg<br />(7.797 Yrths)
         density: 2.230 g/cm<sup>3</sup>
         surface_gravity: 10.636 m/s<sup>2</sup><br />(1.085 g<sub>0</sub>)
         escape_velocity: 19.075 km/s<br />(68,671 km/h)
         rotation_period: 40.330 d
         axial_tilt: 10.47°
         albedo: 0.30
-        temperature: 311 K<br />(38 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI h
         type: Asteroid
         formationType: Captured
@@ -770,14 +770,14 @@ planets:
         radius: 13,428.1 km<br/>(2.108 Yrths)
         surface_area: 2.266 × 10<sup>09</sup> km<sup>2</sup><br/>(4.442 Yrths)
         volume: 1.014 × 10<sup>13</sup> km<sup>3</sup><br/>(9.363 Yrths)
-        mass: 1.609 × 10<sup>25</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 1.609 × 10<sup>25</sup> kg<br />(2.695 Yrths)
         density: 1.587 g/cm<sup>3</sup>
         surface_gravity: 5.948 m/s<sup>2</sup><br />(0.607 g<sub>0</sub>)
         escape_velocity: 12.648 km/s<br />(45,532 km/h)
         rotation_period: 50.160 d
         axial_tilt: 62.09°
         albedo: 0.30
-        temperature: 297 K<br />(23 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI i
         type: Icy
         formationType: Captured
@@ -790,14 +790,14 @@ planets:
         radius: 34,033.3 km<br/>(5.342 Yrths)
         surface_area: 1.456 × 10<sup>10</sup> km<sup>2</sup><br/>(28.536 Yrths)
         volume: 1.651 × 10<sup>14</sup> km<sup>3</sup><br/>(152.437 Yrths)
-        mass: 2.382 × 10<sup>26</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 2.382 × 10<sup>26</sup> kg<br />(39.887 Yrths)
         density: 1.443 g/cm<sup>3</sup>
         surface_gravity: 13.707 m/s<sup>2</sup><br />(1.398 g<sub>0</sub>)
         escape_velocity: 30.566 km/s<br />(110,038 km/h)
         rotation_period: 67.729 d
         axial_tilt: 14.48°
         albedo: 0.30
-        temperature: 283 K<br />(10 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI j
         type: Ice/rock hybrid
         formationType: Captured
@@ -810,14 +810,14 @@ planets:
         radius: 21,072.5 km<br/>(3.308 Yrths)
         surface_area: 5.580 × 10<sup>09</sup> km<sup>2</sup><br/>(10.940 Yrths)
         volume: 3.920 × 10<sup>13</sup> km<sup>3</sup><br/>(36.185 Yrths)
-        mass: 8.668 × 10<sup>25</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 8.668 × 10<sup>25</sup> kg<br />(14.514 Yrths)
         density: 2.211 g/cm<sup>3</sup>
         surface_gravity: 13.010 m/s<sup>2</sup><br />(1.327 g<sub>0</sub>)
         escape_velocity: 23.432 km/s<br />(84,355 km/h)
         rotation_period: 34.560 d
         axial_tilt: 23.96°
         albedo: 0.30
-        temperature: 270 K<br />(-4 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI k
         type: Ice/rock hybrid
         formationType: Captured
@@ -830,14 +830,14 @@ planets:
         radius: 14,412.3 km<br/>(2.262 Yrths)
         surface_area: 2.610 × 10<sup>09</sup> km<sup>2</sup><br/>(5.117 Yrths)
         volume: 1.254 × 10<sup>13</sup> km<sup>3</sup><br/>(11.577 Yrths)
-        mass: 3.131 × 10<sup>25</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 3.131 × 10<sup>25</sup> kg<br />(5.242 Yrths)
         density: 2.497 g/cm<sup>3</sup>
         surface_gravity: 10.046 m/s<sup>2</sup><br />(1.024 g<sub>0</sub>)
         escape_velocity: 17.029 km/s<br />(61,303 km/h)
         rotation_period: 45.588 d
         axial_tilt: 8.25°
         albedo: 0.30
-        temperature: 257 K<br />(-16 °C)
+        temperature: 54 K<br />(-219 °C)
       - name: 0005 Anilliad C VI l
         type: Icy
         formationType: Accreted
@@ -850,12 +850,12 @@ planets:
         radius: 14,367.7 km<br/>(2.255 Yrths)
         surface_area: 2.594 × 10<sup>09</sup> km<sup>2</sup><br/>(5.086 Yrths)
         volume: 1.242 × 10<sup>13</sup> km<sup>3</sup><br/>(11.469 Yrths)
-        mass: 2.124 × 10<sup>25</sup> kg<br />(28.485473813235014 Yrths)
+        mass: 2.124 × 10<sup>25</sup> kg<br />(3.556 Yrths)
         density: 1.709 g/cm<sup>3</sup>
         surface_gravity: 6.857 m/s<sup>2</sup><br />(0.699 g<sub>0</sub>)
         escape_velocity: 14.047 km/s<br />(50,568 km/h)
         rotation_period: 50.618 d
         axial_tilt: 19.67°
         albedo: 0.30
-        temperature: 245 K<br />(-28 °C)
+        temperature: 54 K<br />(-219 °C)
 ---

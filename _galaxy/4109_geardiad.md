@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4109 Geardiad is a star in the constellation Geard
+      4109 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 365.81 ly
 apparent_magnitude: 8.89
 absolute_magnitude: 3.64

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7048 Dialkeshiad is a star in the constellation Dialkes
+      7048 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 554.76 ly
 apparent_magnitude: 11.98
 absolute_magnitude: 5.82

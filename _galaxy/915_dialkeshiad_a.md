@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      915 Dialkeshiad A is a star in the constellation Dialkes
+      915 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 353.71 ly
 apparent_magnitude: 8.87
 absolute_magnitude: 3.70

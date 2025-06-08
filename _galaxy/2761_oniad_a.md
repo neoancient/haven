@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2761 Oniad A is a star in the constellation Oni
+      2761 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 589.47 ly
 apparent_magnitude: 6.86
 absolute_magnitude: 0.57

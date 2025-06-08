@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      788 Erikkiad is a star in the constellation Erik
+      788 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1033.69 ly
 apparent_magnitude: 15.04
 absolute_magnitude: 7.54

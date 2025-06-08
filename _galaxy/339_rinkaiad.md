@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      339 Rinkaiad is a star in the constellation Rinka
+      339 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 878.51 ly
 apparent_magnitude: 11.57
 absolute_magnitude: 4.42

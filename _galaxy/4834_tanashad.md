@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4834 Tanashad is a star in the constellation Tanas
+      4834 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 506.52 ly
 apparent_magnitude: 10.40
 absolute_magnitude: 4.45

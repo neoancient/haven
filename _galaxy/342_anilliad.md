@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      342 Anilliad is a star in the constellation Anil
+      342 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 424.85 ly
 apparent_magnitude: 10.48
 absolute_magnitude: 4.91

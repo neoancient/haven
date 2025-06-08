@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      φ Ricksonniad is a star in the constellation Rickson
+      φ Ricksonniad is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 144.07 ly
 apparent_magnitude: 6.43
 absolute_magnitude: 3.20
@@ -31,14 +31,14 @@ planets:
     radius: 7,984.7 km<br/>(1.253 Yrths)
     surface_area: 8.012 × 10<sup>08</sup> km<sup>2</sup><br/>(1.571 Yrths)
     volume: 2.132 × 10<sup>12</sup> km<sup>3</sup><br/>(1.969 Yrths)
-    mass: 1.317 × 10<sup>25</sup> kg<br />(2.2059382248514594 Yrths)
+    mass: 1.317 × 10<sup>25</sup> kg<br />(2.21 Yrths)
     density: 6.178 g/cm<sup>3</sup>
     surface_gravity: 13.772 m/s<sup>2</sup><br />(1.404 g<sub>0</sub>)
     escape_velocity: 14.840 km/s<br />(53,425 km/h)
     rotation_period: 1.017 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 302 K<br />(29 °C)
+    temperature: 263 K<br />(-11 °C)
     surface_pressure: 154 kPa<br />(2 atm)
     composition:
       - 100.0000% nitrogen
@@ -55,14 +55,14 @@ planets:
         radius: 5,920.7 km<br/>(0.929 Yrths)
         surface_area: 4.405 × 10<sup>08</sup> km<sup>2</sup><br/>(0.864 Yrths)
         volume: 8.694 × 10<sup>11</sup> km<sup>3</sup><br/>(0.803 Yrths)
-        mass: 2.303 × 10<sup>24</sup> kg<br />(2.2059382248514594 Yrths)
+        mass: 2.303 × 10<sup>24</sup> kg<br />(0.386 Yrths)
         density: 2.649 g/cm<sup>3</sup>
         surface_gravity: 4.380 m/s<sup>2</sup><br />(0.447 g<sub>0</sub>)
         escape_velocity: 7.206 km/s<br />(25,943 km/h)
         rotation_period: 37.593 d
         axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 3918 K<br />(3645 °C)
+        temperature: 248 K<br />(-26 °C)
       - name: φ Ricksonniad I b
         type: Rocky
         formationType: Impact formed
@@ -75,14 +75,14 @@ planets:
         radius: 3,941.5 km<br/>(0.619 Yrths)
         surface_area: 1.952 × 10<sup>08</sup> km<sup>2</sup><br/>(0.383 Yrths)
         volume: 2.565 × 10<sup>11</sup> km<sup>3</sup><br/>(0.237 Yrths)
-        mass: 7.623 × 10<sup>23</sup> kg<br />(2.2059382248514594 Yrths)
+        mass: 7.623 × 10<sup>23</sup> kg<br />(0.128 Yrths)
         density: 2.972 g/cm<sup>3</sup>
         surface_gravity: 3.271 m/s<sup>2</sup><br />(0.334 g<sub>0</sub>)
         escape_velocity: 5.081 km/s<br />(18,292 km/h)
         rotation_period: 43.739 d
         axial_tilt: 16.60°
         albedo: 0.30
-        temperature: 3735 K<br />(3462 °C)
+        temperature: 248 K<br />(-26 °C)
       - name: φ Ricksonniad I c
         type: Asteroid
         formationType: Captured
@@ -95,14 +95,14 @@ planets:
         radius: 2,143.1 km<br/>(0.336 Yrths)
         surface_area: 5.771 × 10<sup>07</sup> km<sup>2</sup><br/>(0.113 Yrths)
         volume: 4.123 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 1.129 × 10<sup>23</sup> kg<br />(2.2059382248514594 Yrths)
+        mass: 1.129 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 2.738 g/cm<sup>3</sup>
         surface_gravity: 1.638 m/s<sup>2</sup><br />(0.167 g<sub>0</sub>)
         escape_velocity: 2.651 km/s<br />(9,545 km/h)
         rotation_period: 33.259 d
         axial_tilt: 41.47°
         albedo: 0.30
-        temperature: 3562 K<br />(3288 °C)
+        temperature: 248 K<br />(-26 °C)
   - name: φ Ricksonniad II
     type: Terrestrial
     aphelion: 1,049,789,909 km<br />7.017 AU
@@ -114,14 +114,14 @@ planets:
     radius: 4,932.8 km<br/>(0.774 Yrths)
     surface_area: 3.058 × 10<sup>08</sup> km<sup>2</sup><br/>(0.599 Yrths)
     volume: 5.028 × 10<sup>11</sup> km<sup>3</sup><br/>(0.464 Yrths)
-    mass: 2.229 × 10<sup>24</sup> kg<br />(0.37324221193910895 Yrths)
+    mass: 2.229 × 10<sup>24</sup> kg<br />(0.37 Yrths)
     density: 4.433 g/cm<sup>3</sup>
     surface_gravity: 6.106 m/s<sup>2</sup><br />(0.623 g<sub>0</sub>)
     escape_velocity: 7.766 km/s<br />(27,959 km/h)
     rotation_period: 1.384 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 220 K<br />(-53 °C)
+    temperature: 458 K<br />(185 °C)
     surface_pressure: 18 kPa<br />(0 atm)
     composition:
       - 46.5906% carbon dioxide
@@ -141,12 +141,12 @@ planets:
         radius: 1,250.5 km<br/>(0.196 Yrths)
         surface_area: 1.965 × 10<sup>07</sup> km<sup>2</sup><br/>(0.039 Yrths)
         volume: 8.191 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 1.691 × 10<sup>22</sup> kg<br />(0.37324221193910895 Yrths)
+        mass: 1.691 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.064 g/cm<sup>3</sup>
         surface_gravity: 0.721 m/s<sup>2</sup><br />(0.073 g<sub>0</sub>)
         escape_velocity: 1.343 km/s<br />(4,837 km/h)
         rotation_period: 40.496 d
         axial_tilt: 20.37°
         albedo: 0.30
-        temperature: 4306 K<br />(4032 °C)
+        temperature: 175 K<br />(-99 °C)
 ---

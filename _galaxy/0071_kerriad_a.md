@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0071 Kerriad A is a star in the constellation Kerr
+      0071 Kerriad A is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 223.77 ly
 apparent_magnitude: 6.49
 absolute_magnitude: 2.31

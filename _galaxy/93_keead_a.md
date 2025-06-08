@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      93 Keead A is a star in the constellation Kee
+      93 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 417.71 ly
 apparent_magnitude: 6.63
 absolute_magnitude: 1.09

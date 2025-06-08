@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Anilliad D is a star in the constellation Anil
+      0005 Anilliad D is a star in the constellation <a href="anil.html">Anil</a>
 distance: 354.31 ly
 apparent_magnitude: 13.99
 absolute_magnitude: 8.81

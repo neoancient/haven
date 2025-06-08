@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9747 Arkothiad is a star in the constellation Arkoth
+      9747 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 811.54 ly
 apparent_magnitude: 12.13
 absolute_magnitude: 5.15

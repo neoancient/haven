@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0032 Shyad is a star in the constellation Shy
+      0032 Shyad is a star in the constellation <a href="shy.html">Shy</a>
 distance: 0.24 ly
 apparent_magnitude: 6.13
 absolute_magnitude: 16.80
@@ -31,14 +31,14 @@ planets:
     radius: 2,841.4 km<br/>(0.446 Yrths)
     surface_area: 1.015 × 10<sup>08</sup> km<sup>2</sup><br/>(0.199 Yrths)
     volume: 9.609 × 10<sup>10</sup> km<sup>3</sup><br/>(0.089 Yrths)
-    mass: 8.427 × 10<sup>24</sup> kg<br />(1.4110286498113254 Yrths)
+    mass: 8.427 × 10<sup>24</sup> kg<br />(1.41 Yrths)
     density: 87.696 g/cm<sup>3</sup>
     surface_gravity: 69.568 m/s<sup>2</sup><br />(7.094 g<sub>0</sub>)
     escape_velocity: 19.897 km/s<br />(71,628 km/h)
     rotation_period: 4.941 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 349 K<br />(76 °C)
+    temperature: 764 K<br />(491 °C)
     surface_pressure: 1,901 kPa<br />(19 atm)
     composition:
       - 57.9306% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 2,862.9 km<br/>(0.449 Yrths)
         surface_area: 1.030 × 10<sup>08</sup> km<sup>2</sup><br/>(0.202 Yrths)
         volume: 9.829 × 10<sup>10</sup> km<sup>3</sup><br/>(0.091 Yrths)
-        mass: 3.095 × 10<sup>23</sup> kg<br />(1.4110286498113254 Yrths)
+        mass: 3.095 × 10<sup>23</sup> kg<br />(0.052 Yrths)
         density: 3.149 g/cm<sup>3</sup>
         surface_gravity: 2.517 m/s<sup>2</sup><br />(0.257 g<sub>0</sub>)
         escape_velocity: 3.799 km/s<br />(13,675 km/h)
         rotation_period: 0.001 d
         axial_tilt: 20.96°
         albedo: 0.30
-        temperature: 2314 K<br />(2041 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 0032 Shyad I b
         type: Rocky
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 1,993.9 km<br/>(0.313 Yrths)
         surface_area: 4.996 × 10<sup>07</sup> km<sup>2</sup><br/>(0.098 Yrths)
         volume: 3.321 × 10<sup>10</sup> km<sup>3</sup><br/>(0.031 Yrths)
-        mass: 9.091 × 10<sup>22</sup> kg<br />(1.4110286498113254 Yrths)
+        mass: 9.091 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 2.738 g/cm<sup>3</sup>
         surface_gravity: 1.524 m/s<sup>2</sup><br />(0.155 g<sub>0</sub>)
         escape_velocity: 2.467 km/s<br />(8,881 km/h)
         rotation_period: 0.001 d
         axial_tilt: 12.54°
         albedo: 0.30
-        temperature: 2207 K<br />(1934 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 0032 Shyad II
     type: Terrestrial
     aphelion: 9,730,884 km<br />0.065 AU
@@ -96,14 +96,14 @@ planets:
     radius: 2,950.6 km<br/>(0.463 Yrths)
     surface_area: 1.094 × 10<sup>08</sup> km<sup>2</sup><br/>(0.214 Yrths)
     volume: 1.076 × 10<sup>11</sup> km<sup>3</sup><br/>(0.099 Yrths)
-    mass: 4.529 × 10<sup>24</sup> kg<br />(0.758426569461558 Yrths)
+    mass: 4.529 × 10<sup>24</sup> kg<br />(0.76 Yrths)
     density: 42.095 g/cm<sup>3</sup>
     surface_gravity: 34.677 m/s<sup>2</sup><br />(3.536 g<sub>0</sub>)
     escape_velocity: 14.315 km/s<br />(51,533 km/h)
     rotation_period: 16.716 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 216 K<br />(-57 °C)
+    temperature: 231 K<br />(-42 °C)
     surface_pressure: 76 kPa<br />(1 atm)
     composition:
       - 59.6400% nitrogen
@@ -122,14 +122,14 @@ planets:
         radius: 1,403.6 km<br/>(0.220 Yrths)
         surface_area: 2.476 × 10<sup>07</sup> km<sup>2</sup><br/>(0.049 Yrths)
         volume: 1.158 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 3.092 × 10<sup>22</sup> kg<br />(0.758426569461558 Yrths)
+        mass: 3.092 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.670 g/cm<sup>3</sup>
         surface_gravity: 1.046 m/s<sup>2</sup><br />(0.107 g<sub>0</sub>)
         escape_velocity: 1.715 km/s<br />(6,174 km/h)
         rotation_period: 0.001 d
         axial_tilt: 16.58°
         albedo: 0.30
-        temperature: 1913 K<br />(1640 °C)
+        temperature: 178 K<br />(-96 °C)
       - name: 0032 Shyad II b
         type: Asteroid
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 1,313.3 km<br/>(0.206 Yrths)
         surface_area: 2.167 × 10<sup>07</sup> km<sup>2</sup><br/>(0.042 Yrths)
         volume: 9.488 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 2.485 × 10<sup>22</sup> kg<br />(0.758426569461558 Yrths)
+        mass: 2.485 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.619 g/cm<sup>3</sup>
         surface_gravity: 0.960 m/s<sup>2</sup><br />(0.098 g<sub>0</sub>)
         escape_velocity: 1.589 km/s<br />(5,721 km/h)
         rotation_period: 36.445 d
         axial_tilt: 45.62°
         albedo: 0.30
-        temperature: 1824 K<br />(1551 °C)
+        temperature: 178 K<br />(-96 °C)
   - name: 0032 Shyad III
     type: Large terrestrial
     aphelion: 12,652,383 km<br />0.085 AU
@@ -161,14 +161,14 @@ planets:
     radius: 2,755.4 km<br/>(0.432 Yrths)
     surface_area: 9.541 × 10<sup>07</sup> km<sup>2</sup><br/>(0.187 Yrths)
     volume: 8.763 × 10<sup>10</sup> km<sup>3</sup><br/>(0.081 Yrths)
-    mass: 2.427 × 10<sup>25</sup> kg<br />(4.064052442441801 Yrths)
+    mass: 2.427 × 10<sup>25</sup> kg<br />(4.06 Yrths)
     density: 276.974 g/cm<sup>3</sup>
     surface_gravity: 213.072 m/s<sup>2</sup><br />(21.727 g<sub>0</sub>)
     escape_velocity: 34.290 km/s<br />(123,443 km/h)
     rotation_period: 2.941 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 209 K<br />(-64 °C)
+    temperature: 180 K<br />(-93 °C)
     surface_pressure: 689 kPa<br />(7 atm)
     composition:
       - 100.0000% nitrogen
@@ -185,12 +185,12 @@ planets:
         radius: 6,879.1 km<br/>(1.080 Yrths)
         surface_area: 5.947 × 10<sup>08</sup> km<sup>2</sup><br/>(1.166 Yrths)
         volume: 1.364 × 10<sup>12</sup> km<sup>3</sup><br/>(1.259 Yrths)
-        mass: 3.902 × 10<sup>24</sup> kg<br />(4.064052442441801 Yrths)
+        mass: 3.902 × 10<sup>24</sup> kg<br />(0.653 Yrths)
         density: 2.861 g/cm<sup>3</sup>
         surface_gravity: 5.496 m/s<sup>2</sup><br />(0.560 g<sub>0</sub>)
         escape_velocity: 8.701 km/s<br />(31,325 km/h)
         rotation_period: 24.063 d
         axial_tilt: 19.06°
         albedo: 0.30
-        temperature: 1239 K<br />(966 °C)
+        temperature: 156 K<br />(-117 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0104 Geardiad is a star in the constellation Geard
+      0104 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 108.80 ly
 apparent_magnitude: 6.19
 absolute_magnitude: 3.57
@@ -31,14 +31,14 @@ planets:
     radius: 4,917.8 km<br/>(0.772 Yrths)
     surface_area: 3.039 × 10<sup>08</sup> km<sup>2</sup><br/>(0.596 Yrths)
     volume: 4.982 × 10<sup>11</sup> km<sup>3</sup><br/>(0.460 Yrths)
-    mass: 3.621 × 10<sup>24</sup> kg<br />(0.606276287495432 Yrths)
+    mass: 3.621 × 10<sup>24</sup> kg<br />(0.61 Yrths)
     density: 7.267 g/cm<sup>3</sup>
     surface_gravity: 9.978 m/s<sup>2</sup><br />(1.018 g<sub>0</sub>)
     escape_velocity: 9.913 km/s<br />(35,689 km/h)
     rotation_period: 1.097 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 393 K<br />(120 °C)
+    temperature: 429 K<br />(156 °C)
     surface_pressure: 541 kPa<br />(5 atm)
     composition:
       - 66.8912% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 2,626.8 km<br/>(0.412 Yrths)
         surface_area: 8.671 × 10<sup>07</sup> km<sup>2</sup><br/>(0.170 Yrths)
         volume: 7.592 × 10<sup>10</sup> km<sup>3</sup><br/>(0.070 Yrths)
-        mass: 2.394 × 10<sup>23</sup> kg<br />(0.606276287495432 Yrths)
+        mass: 2.394 × 10<sup>23</sup> kg<br />(0.040 Yrths)
         density: 3.153 g/cm<sup>3</sup>
         surface_gravity: 2.312 m/s<sup>2</sup><br />(0.236 g<sub>0</sub>)
         escape_velocity: 3.488 km/s<br />(12,556 km/h)
         rotation_period: 45.291 d
         axial_tilt: 20.90°
         albedo: 0.30
-        temperature: 4723 K<br />(4450 °C)
+        temperature: 291 K<br />(17 °C)
   - name: 0104 Geardiad II
     type: Large terrestrial
     aphelion: 395,754,512 km<br />2.645 AU
@@ -77,14 +77,14 @@ planets:
     radius: 7,303.7 km<br/>(1.146 Yrths)
     surface_area: 6.703 × 10<sup>08</sup> km<sup>2</sup><br/>(1.314 Yrths)
     volume: 1.632 × 10<sup>12</sup> km<sup>3</sup><br/>(1.507 Yrths)
-    mass: 1.070 × 10<sup>25</sup> kg<br />(1.7915211725395195 Yrths)
+    mass: 1.070 × 10<sup>25</sup> kg<br />(1.79 Yrths)
     density: 6.556 g/cm<sup>3</sup>
     surface_gravity: 13.368 m/s<sup>2</sup><br />(1.363 g<sub>0</sub>)
     escape_velocity: 13.984 km/s<br />(50,341 km/h)
     rotation_period: 0.785 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 362 K<br />(88 °C)
+    temperature: 834 K<br />(560 °C)
     surface_pressure: 1,091 kPa<br />(11 atm)
     composition:
       - 67.0070% carbon dioxide
@@ -103,14 +103,14 @@ planets:
         radius: 5,709.2 km<br/>(0.896 Yrths)
         surface_area: 4.096 × 10<sup>08</sup> km<sup>2</sup><br/>(0.803 Yrths)
         volume: 7.795 × 10<sup>11</sup> km<sup>3</sup><br/>(0.720 Yrths)
-        mass: 2.327 × 10<sup>24</sup> kg<br />(1.7915211725395195 Yrths)
+        mass: 2.327 × 10<sup>24</sup> kg<br />(0.390 Yrths)
         density: 2.986 g/cm<sup>3</sup>
         surface_gravity: 4.759 m/s<sup>2</sup><br />(0.485 g<sub>0</sub>)
         escape_velocity: 7.377 km/s<br />(26,556 km/h)
         rotation_period: 55.638 d
         axial_tilt: 14.21°
         albedo: 0.30
-        temperature: 3470 K<br />(3197 °C)
+        temperature: 213 K<br />(-60 °C)
   - name: 0104 Geardiad III
     type: Gas giant
     aphelion: 806,796,997 km<br />5.393 AU
@@ -122,7 +122,7 @@ planets:
     radius: 191.8 km<br/>(0.030 Yrths)
     surface_area: 4.622 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.955 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.445 × 10<sup>26</sup> kg<br />(141.40971776120082 Yrths)
+    mass: 8.445 × 10<sup>26</sup> kg<br />(141.41 Yrths)
     density: 28580541.032 g/cm<sup>3</sup>
     surface_gravity: 1530341.920 m/s<sup>2</sup><br />(156051.447 g<sub>0</sub>)
     escape_velocity: 766.674 km/s<br />(2,760,026 km/h)
@@ -143,55 +143,15 @@ planets:
         radius: 85,515.0 km<br/>(13.423 Yrths)
         surface_area: 9.190 × 10<sup>10</sup> km<sup>2</sup><br/>(180.164 Yrths)
         volume: 2.619 × 10<sup>15</sup> km<sup>3</sup><br/>(2418.264 Yrths)
-        mass: 5.268 × 10<sup>27</sup> kg<br />(141.40971776120082 Yrths)
+        mass: 5.268 × 10<sup>27</sup> kg<br />(882.129 Yrths)
         density: 2.011 g/cm<sup>3</sup>
         surface_gravity: 48.016 m/s<sup>2</sup><br />(4.896 g<sub>0</sub>)
         escape_velocity: 90.682 km/s<br />(326,456 km/h)
         rotation_period: 43.165 d
         axial_tilt: 26.41°
         albedo: 0.30
-        temperature: 1000 K<br />(727 °C)
+        temperature: 156 K<br />(-117 °C)
       - name: 0104 Geardiad III b
-        type: Asteroid
-        formationType: Captured
-        aphelion: 158,429,505 km<br />
-        perihelion: 104,048,935 km<br />
-        semi_major_axis: 131,239,220 km<br />
-        eccentricity: 0.207
-        orbital_period: 0.05 d<br />
-        inclination: 21.04°
-        radius: 13,961.5 km<br/>(2.191 Yrths)
-        surface_area: 2.449 × 10<sup>09</sup> km<sup>2</sup><br/>(4.802 Yrths)
-        volume: 1.140 × 10<sup>13</sup> km<sup>3</sup><br/>(10.524 Yrths)
-        mass: 2.984 × 10<sup>25</sup> kg<br />(141.40971776120082 Yrths)
-        density: 2.618 g/cm<sup>3</sup>
-        surface_gravity: 10.205 m/s<sup>2</sup><br />(1.041 g<sub>0</sub>)
-        escape_velocity: 16.892 km/s<br />(60,810 km/h)
-        rotation_period: 54.399 d
-        axial_tilt: 43.33°
-        albedo: 0.30
-        temperature: 368 K<br />(94 °C)
-      - name: 0104 Geardiad III c
-        type: Icy
-        formationType: Captured
-        aphelion: 233,582,978 km<br />
-        perihelion: 189,141,174 km<br />
-        semi_major_axis: 211,362,076 km<br />
-        eccentricity: 0.105
-        orbital_period: 0.05 d<br />
-        inclination: 4.76°
-        radius: 39,926.5 km<br/>(6.267 Yrths)
-        surface_area: 2.003 × 10<sup>10</sup> km<sup>2</sup><br/>(39.274 Yrths)
-        volume: 2.666 × 10<sup>14</sup> km<sup>3</sup><br/>(246.129 Yrths)
-        mass: 2.402 × 10<sup>26</sup> kg<br />(141.40971776120082 Yrths)
-        density: 0.901 g/cm<sup>3</sup>
-        surface_gravity: 10.045 m/s<sup>2</sup><br />(1.024 g<sub>0</sub>)
-        escape_velocity: 28.341 km/s<br />(102,027 km/h)
-        rotation_period: 61.207 d
-        axial_tilt: 19.55°
-        albedo: 0.30
-        temperature: 290 K<br />(16 °C)
-      - name: 0104 Geardiad III d
         type: Dwarf planet
         formationType: Accreted
         aphelion: 675,404,732 km<br />
@@ -203,15 +163,15 @@ planets:
         radius: 76,375.5 km<br/>(11.988 Yrths)
         surface_area: 7.330 × 10<sup>10</sup> km<sup>2</sup><br/>(143.712 Yrths)
         volume: 1.866 × 10<sup>15</sup> km<sup>3</sup><br/>(1722.821 Yrths)
-        mass: 3.108 × 10<sup>27</sup> kg<br />(141.40971776120082 Yrths)
+        mass: 3.108 × 10<sup>27</sup> kg<br />(520.500 Yrths)
         density: 1.666 g/cm<sup>3</sup>
         surface_gravity: 35.518 m/s<sup>2</sup><br />(3.622 g<sub>0</sub>)
         escape_velocity: 73.707 km/s<br />(265,347 km/h)
         rotation_period: 71.071 d
         axial_tilt: 45.79°
         albedo: 0.30
-        temperature: 163 K<br />(-110 °C)
-      - name: 0104 Geardiad III e
+        temperature: 156 K<br />(-117 °C)
+      - name: 0104 Geardiad III c
         type: Icy
         formationType: Captured
         aphelion: 1,961,860,236 km<br />
@@ -223,15 +183,15 @@ planets:
         radius: 97,152.7 km<br/>(15.249 Yrths)
         surface_area: 1.186 × 10<sup>11</sup> km<sup>2</sup><br/>(232.538 Yrths)
         volume: 3.841 × 10<sup>15</sup> km<sup>3</sup><br/>(3546.023 Yrths)
-        mass: 4.085 × 10<sup>27</sup> kg<br />(141.40971776120082 Yrths)
+        mass: 4.085 × 10<sup>27</sup> kg<br />(684.036 Yrths)
         density: 1.064 g/cm<sup>3</sup>
         surface_gravity: 28.847 m/s<sup>2</sup><br />(2.942 g<sub>0</sub>)
         escape_velocity: 74.919 km/s<br />(269,707 km/h)
         rotation_period: 85.370 d
         axial_tilt: 16.69°
         albedo: 0.30
-        temperature: 106 K<br />(-167 °C)
-      - name: 0104 Geardiad III f
+        temperature: 156 K<br />(-117 °C)
+      - name: 0104 Geardiad III d
         type: Rocky
         formationType: Accreted
         aphelion: 2,749,568,306 km<br />
@@ -243,15 +203,15 @@ planets:
         radius: 88,556.8 km<br/>(13.900 Yrths)
         surface_area: 9.855 × 10<sup>10</sup> km<sup>2</sup><br/>(193.209 Yrths)
         volume: 2.909 × 10<sup>15</sup> km<sup>3</sup><br/>(2685.606 Yrths)
-        mass: 9.653 × 10<sup>27</sup> kg<br />(141.40971776120082 Yrths)
+        mass: 9.653 × 10<sup>27</sup> kg<br />(1616.399 Yrths)
         density: 3.318 g/cm<sup>3</sup>
         surface_gravity: 82.043 m/s<sup>2</sup><br />(8.366 g<sub>0</sub>)
         escape_velocity: 120.626 km/s<br />(434,254 km/h)
         rotation_period: 38.681 d
         axial_tilt: 18.43°
         albedo: 0.30
-        temperature: 84 K<br />(-189 °C)
-      - name: 0104 Geardiad III g
+        temperature: 156 K<br />(-117 °C)
+      - name: 0104 Geardiad III e
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 5,297,210,129 km<br />
@@ -263,15 +223,15 @@ planets:
         radius: 75,452.9 km<br/>(11.843 Yrths)
         surface_area: 7.154 × 10<sup>10</sup> km<sup>2</sup><br/>(140.261 Yrths)
         volume: 1.799 × 10<sup>15</sup> km<sup>3</sup><br/>(1661.136 Yrths)
-        mass: 4.307 × 10<sup>27</sup> kg<br />(141.40971776120082 Yrths)
+        mass: 4.307 × 10<sup>27</sup> kg<br />(721.265 Yrths)
         density: 2.394 g/cm<sup>3</sup>
         surface_gravity: 50.429 m/s<sup>2</sup><br />(5.142 g<sub>0</sub>)
         escape_velocity: 87.295 km/s<br />(314,260 km/h)
         rotation_period: 46.608 d
         axial_tilt: 16.33°
         albedo: 0.30
-        temperature: 60 K<br />(-213 °C)
-      - name: 0104 Geardiad III h
+        temperature: 156 K<br />(-117 °C)
+      - name: 0104 Geardiad III f
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 7,263,256,327 km<br />
@@ -283,15 +243,15 @@ planets:
         radius: 67,209.5 km<br/>(10.549 Yrths)
         surface_area: 5.676 × 10<sup>10</sup> km<sup>2</sup><br/>(111.287 Yrths)
         volume: 1.272 × 10<sup>15</sup> km<sup>3</sup><br/>(1174.004 Yrths)
-        mass: 3.332 × 10<sup>27</sup> kg<br />(141.40971776120082 Yrths)
+        mass: 3.332 × 10<sup>27</sup> kg<br />(557.953 Yrths)
         density: 2.620 g/cm<sup>3</sup>
         surface_gravity: 49.167 m/s<sup>2</sup><br />(5.014 g<sub>0</sub>)
         escape_velocity: 81.351 km/s<br />(292,862 km/h)
         rotation_period: 44.695 d
         axial_tilt: 26.50°
         albedo: 0.30
-        temperature: 50 K<br />(-223 °C)
-      - name: 0104 Geardiad III i
+        temperature: 156 K<br />(-117 °C)
+      - name: 0104 Geardiad III g
         type: Icy
         formationType: Captured
         aphelion: 16,048,944,568 km<br />
@@ -303,15 +263,15 @@ planets:
         radius: 109,364.2 km<br/>(17.166 Yrths)
         surface_area: 1.503 × 10<sup>11</sup> km<sup>2</sup><br/>(294.669 Yrths)
         volume: 5.479 × 10<sup>15</sup> km<sup>3</sup><br/>(5058.274 Yrths)
-        mass: 8.491 × 10<sup>27</sup> kg<br />(141.40971776120082 Yrths)
+        mass: 8.491 × 10<sup>27</sup> kg<br />(1421.810 Yrths)
         density: 1.550 g/cm<sup>3</sup>
         surface_gravity: 47.318 m/s<sup>2</sup><br />(4.825 g<sub>0</sub>)
         escape_velocity: 101.803 km/s<br />(366,491 km/h)
         rotation_period: 70.811 d
         axial_tilt: 13.52°
         albedo: 0.30
-        temperature: 34 K<br />(-239 °C)
-      - name: 0104 Geardiad III j
+        temperature: 156 K<br />(-117 °C)
+      - name: 0104 Geardiad III h
         type: Icy
         formationType: Accreted
         aphelion: 22,728,117,320 km<br />
@@ -323,14 +283,14 @@ planets:
         radius: 108,559.6 km<br/>(17.040 Yrths)
         surface_area: 1.481 × 10<sup>11</sup> km<sup>2</sup><br/>(290.350 Yrths)
         volume: 5.359 × 10<sup>15</sup> km<sup>3</sup><br/>(4947.460 Yrths)
-        mass: 8.643 × 10<sup>27</sup> kg<br />(141.40971776120082 Yrths)
+        mass: 8.643 × 10<sup>27</sup> kg<br />(1447.231 Yrths)
         density: 1.613 g/cm<sup>3</sup>
         surface_gravity: 48.881 m/s<sup>2</sup><br />(4.984 g<sub>0</sub>)
         escape_velocity: 103.089 km/s<br />(371,121 km/h)
         rotation_period: 63.687 d
         axial_tilt: 16.20°
         albedo: 0.30
-        temperature: 31 K<br />(-242 °C)
+        temperature: 156 K<br />(-117 °C)
   - name: 0104 Geardiad IV
     type: Large terrestrial
     aphelion: 1,443,769,564 km<br />9.651 AU
@@ -342,14 +302,14 @@ planets:
     radius: 9,682.9 km<br/>(1.520 Yrths)
     surface_area: 1.178 × 10<sup>09</sup> km<sup>2</sup><br/>(2.310 Yrths)
     volume: 3.803 × 10<sup>12</sup> km<sup>3</sup><br/>(3.511 Yrths)
-    mass: 2.696 × 10<sup>25</sup> kg<br />(4.51454080921256 Yrths)
+    mass: 2.696 × 10<sup>25</sup> kg<br />(4.51 Yrths)
     density: 7.090 g/cm<sup>3</sup>
     surface_gravity: 19.166 m/s<sup>2</sup><br />(1.954 g<sub>0</sub>)
     escape_velocity: 19.279 km/s<br />(69,404 km/h)
     rotation_period: 0.587 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 162 K<br />(-112 °C)
+    temperature: 147 K<br />(-126 °C)
     surface_pressure: 1,418 kPa<br />(14 atm)
     composition:
       - 81.4785% nitrogen
@@ -369,12 +329,12 @@ planets:
         radius: 10,830.4 km<br/>(1.700 Yrths)
         surface_area: 1.474 × 10<sup>09</sup> km<sup>2</sup><br/>(2.890 Yrths)
         volume: 5.321 × 10<sup>12</sup> km<sup>3</sup><br/>(4.913 Yrths)
-        mass: 1.484 × 10<sup>25</sup> kg<br />(4.51454080921256 Yrths)
+        mass: 1.484 × 10<sup>25</sup> kg<br />(2.485 Yrths)
         density: 2.789 g/cm<sup>3</sup>
         surface_gravity: 8.434 m/s<sup>2</sup><br />(0.860 g<sub>0</sub>)
         escape_velocity: 13.525 km/s<br />(48,691 km/h)
         rotation_period: 49.647 d
         axial_tilt: 10.96°
         albedo: 0.30
-        temperature: 1309 K<br />(1036 °C)
+        temperature: 114 K<br />(-159 °C)
 ---

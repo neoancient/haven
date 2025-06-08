@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Narashiad A is a star in the constellation Naras
+      σ Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 358.84 ly
 apparent_magnitude: 6.34
 absolute_magnitude: 1.13

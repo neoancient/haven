@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4328 Geardiad is a star in the constellation Geard
+      4328 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 512.29 ly
 apparent_magnitude: 13.99
 absolute_magnitude: 8.01

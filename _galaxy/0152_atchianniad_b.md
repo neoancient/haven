@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0152 Atchianniad B is a star in the constellation Atchian
+      0152 Atchianniad B is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 330.33 ly
 apparent_magnitude: 6.25
 absolute_magnitude: 1.22

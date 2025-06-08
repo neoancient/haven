@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nairn A is a star in the constellation Keln
+      Nairn A is a star in the constellation <a href="keln.html">Keln</a>
 distance: 401.69 ly
 apparent_magnitude: 2.73
 absolute_magnitude: -2.72

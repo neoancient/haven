@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1321 Arkothiad is a star in the constellation Arkoth
+      1321 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 358.32 ly
 apparent_magnitude: 9.77
 absolute_magnitude: 4.56

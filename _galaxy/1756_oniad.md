@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1756 Oniad is a star in the constellation Oni
+      1756 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 751.63 ly
 apparent_magnitude: 17.79
 absolute_magnitude: 10.97

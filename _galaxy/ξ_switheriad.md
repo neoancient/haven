@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      ξ Switheriad is a star in the constellation Swither
+      ξ Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 101.46 ly
 apparent_magnitude: 4.24
 absolute_magnitude: 1.77
@@ -31,15 +31,15 @@ planets:
     radius: 6,062.8 km<br/>(0.952 Yrths)
     surface_area: 4.619 × 10<sup>08</sup> km<sup>2</sup><br/>(0.906 Yrths)
     volume: 9.335 × 10<sup>11</sup> km<sup>3</sup><br/>(0.862 Yrths)
-    mass: 5.757 × 10<sup>24</sup> kg<br />(0.9640506780673515 Yrths)
+    mass: 5.757 × 10<sup>24</sup> kg<br />(0.96 Yrths)
     density: 6.168 g/cm<sup>3</sup>
     surface_gravity: 10.440 m/s<sup>2</sup><br />(1.065 g<sub>0</sub>)
     escape_velocity: 11.259 km/s<br />(40,532 km/h)
     rotation_period: 0.978 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 564 K<br />(291 °C)
-    surface_pressure: 1,869 kPa<br />(18 atm)
+    temperature: 1520 K<br />(1247 °C)
+    surface_pressure: 1,869 kPa<br />(19 atm)
     composition:
       - 92.4461% carbon dioxide
       - 4.8090% acetylene
@@ -58,14 +58,14 @@ planets:
         radius: 3,740.1 km<br/>(0.587 Yrths)
         surface_area: 1.758 × 10<sup>08</sup> km<sup>2</sup><br/>(0.345 Yrths)
         volume: 2.192 × 10<sup>11</sup> km<sup>3</sup><br/>(0.202 Yrths)
-        mass: 3.111 × 10<sup>23</sup> kg<br />(0.9640506780673515 Yrths)
+        mass: 3.111 × 10<sup>23</sup> kg<br />(0.052 Yrths)
         density: 1.420 g/cm<sup>3</sup>
         surface_gravity: 1.482 m/s<sup>2</sup><br />(0.151 g<sub>0</sub>)
         escape_velocity: 3.332 km/s<br />(11,996 km/h)
         rotation_period: 57.442 d
         axial_tilt: 18.03°
         albedo: 0.30
-        temperature: 6325 K<br />(6052 °C)
+        temperature: 302 K<br />(29 °C)
       - name: ξ Switheriad I b
         type: Icy
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 3,926.9 km<br/>(0.616 Yrths)
         surface_area: 1.938 × 10<sup>08</sup> km<sup>2</sup><br/>(0.380 Yrths)
         volume: 2.537 × 10<sup>11</sup> km<sup>3</sup><br/>(0.234 Yrths)
-        mass: 3.631 × 10<sup>23</sup> kg<br />(0.9640506780673515 Yrths)
+        mass: 3.631 × 10<sup>23</sup> kg<br />(0.061 Yrths)
         density: 1.432 g/cm<sup>3</sup>
         surface_gravity: 1.570 m/s<sup>2</sup><br />(0.160 g<sub>0</sub>)
         escape_velocity: 3.513 km/s<br />(12,648 km/h)
         rotation_period: 60.604 d
         axial_tilt: 18.21°
         albedo: 0.30
-        temperature: 6030 K<br />(5757 °C)
+        temperature: 302 K<br />(29 °C)
   - name: ξ Switheriad II
     type: Gas dwarf
     aphelion: 772,523,746 km<br />5.164 AU
@@ -97,14 +97,14 @@ planets:
     radius: 22,165.2 km<br/>(3.479 Yrths)
     surface_area: 6.174 × 10<sup>09</sup> km<sup>2</sup><br/>(12.104 Yrths)
     volume: 4.561 × 10<sup>13</sup> km<sup>3</sup><br/>(42.110 Yrths)
-    mass: 1.093 × 10<sup>26</sup> kg<br />(18.299878810390915 Yrths)
+    mass: 1.093 × 10<sup>26</sup> kg<br />(18.30 Yrths)
     density: 2.396 g/cm<sup>3</sup>
     surface_gravity: 14.827 m/s<sup>2</sup><br />(1.512 g<sub>0</sub>)
     escape_velocity: 25.655 km/s<br />(92,357 km/h)
     rotation_period: 0.370 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 384 K<br />(111 °C)
+    temperature: 353 K<br />(79 °C)
     composition:
       - 78.3806% helium
       - 15.2621% hydrogen
@@ -122,14 +122,14 @@ planets:
         radius: 11,792.0 km<br/>(1.851 Yrths)
         surface_area: 1.747 × 10<sup>09</sup> km<sup>2</sup><br/>(3.426 Yrths)
         volume: 6.868 × 10<sup>12</sup> km<sup>3</sup><br/>(6.341 Yrths)
-        mass: 1.305 × 10<sup>25</sup> kg<br />(18.299878810390915 Yrths)
+        mass: 1.305 × 10<sup>25</sup> kg<br />(2.185 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 6.255 m/s<sup>2</sup><br />(0.638 g<sub>0</sub>)
         escape_velocity: 12.154 km/s<br />(43,755 km/h)
         rotation_period: 57.100 d
         axial_tilt: 20.83°
         albedo: 0.30
-        temperature: 2094 K<br />(1821 °C)
+        temperature: 224 K<br />(-50 °C)
       - name: ξ Switheriad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -142,14 +142,14 @@ planets:
         radius: 26,173.3 km<br/>(4.108 Yrths)
         surface_area: 8.608 × 10<sup>09</sup> km<sup>2</sup><br/>(16.877 Yrths)
         volume: 7.510 × 10<sup>13</sup> km<sup>3</sup><br/>(69.335 Yrths)
-        mass: 1.584 × 10<sup>26</sup> kg<br />(18.299878810390915 Yrths)
+        mass: 1.584 × 10<sup>26</sup> kg<br />(26.526 Yrths)
         density: 2.109 g/cm<sup>3</sup>
         surface_gravity: 15.413 m/s<sup>2</sup><br />(1.572 g<sub>0</sub>)
         escape_velocity: 28.424 km/s<br />(102,325 km/h)
         rotation_period: 45.968 d
         axial_tilt: 22.05°
         albedo: 0.30
-        temperature: 1996 K<br />(1723 °C)
+        temperature: 224 K<br />(-50 °C)
       - name: ξ Switheriad II c
         type: Icy
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 17,488.1 km<br/>(2.745 Yrths)
         surface_area: 3.843 × 10<sup>09</sup> km<sup>2</sup><br/>(7.535 Yrths)
         volume: 2.240 × 10<sup>13</sup> km<sup>3</sup><br/>(20.683 Yrths)
-        mass: 3.017 × 10<sup>25</sup> kg<br />(18.299878810390915 Yrths)
+        mass: 3.017 × 10<sup>25</sup> kg<br />(5.052 Yrths)
         density: 1.347 g/cm<sup>3</sup>
         surface_gravity: 6.575 m/s<sup>2</sup><br />(0.670 g<sub>0</sub>)
         escape_velocity: 15.175 km/s<br />(54,631 km/h)
         rotation_period: 69.346 d
         axial_tilt: 17.15°
         albedo: 0.30
-        temperature: 1903 K<br />(1630 °C)
+        temperature: 224 K<br />(-50 °C)
       - name: ξ Switheriad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -182,14 +182,14 @@ planets:
         radius: 11,331.7 km<br/>(1.779 Yrths)
         surface_area: 1.614 × 10<sup>09</sup> km<sup>2</sup><br/>(3.164 Yrths)
         volume: 6.095 × 10<sup>12</sup> km<sup>3</sup><br/>(5.627 Yrths)
-        mass: 1.079 × 10<sup>25</sup> kg<br />(18.299878810390915 Yrths)
+        mass: 1.079 × 10<sup>25</sup> kg<br />(1.807 Yrths)
         density: 1.771 g/cm<sup>3</sup>
         surface_gravity: 5.602 m/s<sup>2</sup><br />(0.571 g<sub>0</sub>)
         escape_velocity: 11.276 km/s<br />(40,593 km/h)
         rotation_period: 58.042 d
         axial_tilt: 13.54°
         albedo: 0.30
-        temperature: 1815 K<br />(1542 °C)
+        temperature: 224 K<br />(-50 °C)
   - name: ξ Switheriad III
     type: Ice giant
     aphelion: 1,401,130,434 km<br />9.366 AU
@@ -201,14 +201,14 @@ planets:
     radius: 37,345.7 km<br/>(5.862 Yrths)
     surface_area: 1.753 × 10<sup>10</sup> km<sup>2</sup><br/>(34.361 Yrths)
     volume: 2.182 × 10<sup>14</sup> km<sup>3</sup><br/>(201.419 Yrths)
-    mass: 2.872 × 10<sup>26</sup> kg<br />(48.08904930465157 Yrths)
+    mass: 2.872 × 10<sup>26</sup> kg<br />(48.09 Yrths)
     density: 1.316 g/cm<sup>3</sup>
     surface_gravity: 13.725 m/s<sup>2</sup><br />(1.400 g<sub>0</sub>)
     escape_velocity: 32.039 km/s<br />(115,341 km/h)
     rotation_period: 0.296 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 344 K<br />(71 °C)
+    temperature: 314 K<br />(41 °C)
     composition:
       - 88.3632% hydrogen
       - 10.6147% helium
@@ -226,14 +226,14 @@ planets:
         radius: 52,433.9 km<br/>(8.230 Yrths)
         surface_area: 3.455 × 10<sup>10</sup> km<sup>2</sup><br/>(67.734 Yrths)
         volume: 6.038 × 10<sup>14</sup> km<sup>3</sup><br/>(557.459 Yrths)
-        mass: 1.275 × 10<sup>27</sup> kg<br />(48.08904930465157 Yrths)
+        mass: 1.275 × 10<sup>27</sup> kg<br />(213.571 Yrths)
         density: 2.112 g/cm<sup>3</sup>
         surface_gravity: 30.921 m/s<sup>2</sup><br />(3.153 g<sub>0</sub>)
         escape_velocity: 56.983 km/s<br />(205,138 km/h)
         rotation_period: 66.981 d
         axial_tilt: 49.72°
         albedo: 0.30
-        temperature: 1378 K<br />(1105 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: ξ Switheriad III b
         type: Icy
         formationType: Captured
@@ -246,14 +246,14 @@ planets:
         radius: 52,591.4 km<br/>(8.255 Yrths)
         surface_area: 3.476 × 10<sup>10</sup> km<sup>2</sup><br/>(68.142 Yrths)
         volume: 6.093 × 10<sup>14</sup> km<sup>3</sup><br/>(562.499 Yrths)
-        mass: 8.547 × 10<sup>26</sup> kg<br />(48.08904930465157 Yrths)
+        mass: 8.547 × 10<sup>26</sup> kg<br />(143.122 Yrths)
         density: 1.403 g/cm<sup>3</sup>
         surface_gravity: 20.597 m/s<sup>2</sup><br />(2.100 g<sub>0</sub>)
         escape_velocity: 46.577 km/s<br />(167,678 km/h)
         rotation_period: 42.972 d
         axial_tilt: 18.58°
         albedo: 0.30
-        temperature: 1314 K<br />(1041 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: ξ Switheriad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -266,14 +266,14 @@ planets:
         radius: 27,148.4 km<br/>(4.261 Yrths)
         surface_area: 9.262 × 10<sup>09</sup> km<sup>2</sup><br/>(18.158 Yrths)
         volume: 8.381 × 10<sup>13</sup> km<sup>3</sup><br/>(77.376 Yrths)
-        mass: 1.869 × 10<sup>26</sup> kg<br />(48.08904930465157 Yrths)
+        mass: 1.869 × 10<sup>26</sup> kg<br />(31.297 Yrths)
         density: 2.230 g/cm<sup>3</sup>
         surface_gravity: 16.902 m/s<sup>2</sup><br />(1.724 g<sub>0</sub>)
         escape_velocity: 30.315 km/s<br />(109,133 km/h)
         rotation_period: 53.358 d
         axial_tilt: 29.64°
         albedo: 0.30
-        temperature: 1253 K<br />(980 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: ξ Switheriad III d
         type: Icy
         formationType: Captured
@@ -286,14 +286,14 @@ planets:
         radius: 52,489.5 km<br/>(8.239 Yrths)
         surface_area: 3.462 × 10<sup>10</sup> km<sup>2</sup><br/>(67.878 Yrths)
         volume: 6.058 × 10<sup>14</sup> km<sup>3</sup><br/>(559.235 Yrths)
-        mass: 5.341 × 10<sup>26</sup> kg<br />(48.08904930465157 Yrths)
+        mass: 5.341 × 10<sup>26</sup> kg<br />(89.433 Yrths)
         density: 0.882 g/cm<sup>3</sup>
         surface_gravity: 12.921 m/s<sup>2</sup><br />(1.318 g<sub>0</sub>)
         escape_velocity: 36.854 km/s<br />(132,676 km/h)
         rotation_period: 54.989 d
         axial_tilt: 27.62°
         albedo: 0.30
-        temperature: 1195 K<br />(922 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: ξ Switheriad III e
         type: Asteroid
         formationType: Captured
@@ -306,14 +306,14 @@ planets:
         radius: 14,513.9 km<br/>(2.278 Yrths)
         surface_area: 2.647 × 10<sup>09</sup> km<sup>2</sup><br/>(5.190 Yrths)
         volume: 1.281 × 10<sup>13</sup> km<sup>3</sup><br/>(11.823 Yrths)
-        mass: 3.810 × 10<sup>25</sup> kg<br />(48.08904930465157 Yrths)
+        mass: 3.810 × 10<sup>25</sup> kg<br />(6.379 Yrths)
         density: 2.975 g/cm<sup>3</sup>
         surface_gravity: 12.054 m/s<sup>2</sup><br />(1.229 g<sub>0</sub>)
         escape_velocity: 18.718 km/s<br />(67,386 km/h)
         rotation_period: 30.277 d
         axial_tilt: 22.61°
         albedo: 0.30
-        temperature: 1086 K<br />(813 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: ξ Switheriad III f
         type: Icy
         formationType: Accreted
@@ -326,14 +326,14 @@ planets:
         radius: 32,935.7 km<br/>(5.170 Yrths)
         surface_area: 1.363 × 10<sup>10</sup> km<sup>2</sup><br/>(26.725 Yrths)
         volume: 1.497 × 10<sup>14</sup> km<sup>3</sup><br/>(138.159 Yrths)
-        mass: 1.677 × 10<sup>26</sup> kg<br />(48.08904930465157 Yrths)
+        mass: 1.677 × 10<sup>26</sup> kg<br />(28.087 Yrths)
         density: 1.121 g/cm<sup>3</sup>
         surface_gravity: 10.306 m/s<sup>2</sup><br />(1.051 g<sub>0</sub>)
         escape_velocity: 26.073 km/s<br />(93,864 km/h)
         rotation_period: 67.514 d
         axial_tilt: 22.77°
         albedo: 0.30
-        temperature: 1036 K<br />(762 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: ξ Switheriad III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -346,14 +346,14 @@ planets:
         radius: 21,434.3 km<br/>(3.364 Yrths)
         surface_area: 5.773 × 10<sup>09</sup> km<sup>2</sup><br/>(11.319 Yrths)
         volume: 4.125 × 10<sup>13</sup> km<sup>3</sup><br/>(38.081 Yrths)
-        mass: 1.137 × 10<sup>26</sup> kg<br />(48.08904930465157 Yrths)
+        mass: 1.137 × 10<sup>26</sup> kg<br />(19.045 Yrths)
         density: 2.757 g/cm<sup>3</sup>
         surface_gravity: 16.501 m/s<sup>2</sup><br />(1.683 g<sub>0</sub>)
         escape_velocity: 26.614 km/s<br />(95,811 km/h)
         rotation_period: 49.708 d
         axial_tilt: 25.73°
         albedo: 0.30
-        temperature: 987 K<br />(714 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: ξ Switheriad III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -366,14 +366,14 @@ planets:
         radius: 14,640.2 km<br/>(2.298 Yrths)
         surface_area: 2.693 × 10<sup>09</sup> km<sup>2</sup><br/>(5.281 Yrths)
         volume: 1.314 × 10<sup>13</sup> km<sup>3</sup><br/>(12.134 Yrths)
-        mass: 2.381 × 10<sup>25</sup> kg<br />(48.08904930465157 Yrths)
+        mass: 2.381 × 10<sup>25</sup> kg<br />(3.987 Yrths)
         density: 1.811 g/cm<sup>3</sup>
         surface_gravity: 7.404 m/s<sup>2</sup><br />(0.755 g<sub>0</sub>)
         escape_velocity: 14.733 km/s<br />(53,040 km/h)
         rotation_period: 37.110 d
         axial_tilt: 32.20°
         albedo: 0.30
-        temperature: 898 K<br />(624 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: ξ Switheriad III i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -386,12 +386,12 @@ planets:
         radius: 25,070.5 km<br/>(3.935 Yrths)
         surface_area: 7.898 × 10<sup>09</sup> km<sup>2</sup><br/>(15.485 Yrths)
         volume: 6.601 × 10<sup>13</sup> km<sup>3</sup><br/>(60.935 Yrths)
-        mass: 1.401 × 10<sup>26</sup> kg<br />(48.08904930465157 Yrths)
+        mass: 1.401 × 10<sup>26</sup> kg<br />(23.456 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 14.855 m/s<sup>2</sup><br />(1.515 g<sub>0</sub>)
         escape_velocity: 27.310 km/s<br />(98,317 km/h)
         rotation_period: 44.466 d
         axial_tilt: 27.68°
         albedo: 0.30
-        temperature: 856 K<br />(583 °C)
+        temperature: 165 K<br />(-108 °C)
 ---

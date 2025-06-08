@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      528 Keead is a star in the constellation Kee
+      528 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 243.77 ly
 apparent_magnitude: 10.39
 absolute_magnitude: 6.02

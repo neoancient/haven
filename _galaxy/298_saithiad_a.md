@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      298 Saithiad A is a star in the constellation Saith
+      298 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1147.79 ly
 apparent_magnitude: 6.75
 absolute_magnitude: -0.98

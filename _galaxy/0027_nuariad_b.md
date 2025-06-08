@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0027 Nuariad B is a star in the constellation Nuari
+      0027 Nuariad B is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 222.31 ly
 apparent_magnitude: 9.07
 absolute_magnitude: 4.90

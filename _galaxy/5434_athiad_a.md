@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5434 Athiad A is a star in the constellation Ath
+      5434 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 527.80 ly
 apparent_magnitude: 7.89
 absolute_magnitude: 1.84

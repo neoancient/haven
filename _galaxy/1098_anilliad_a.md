@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1098 Anilliad A is a star in the constellation Anil
+      1098 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 422.74 ly
 apparent_magnitude: 7.73
 absolute_magnitude: 2.16

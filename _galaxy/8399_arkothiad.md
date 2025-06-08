@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8399 Arkothiad is a star in the constellation Arkoth
+      8399 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 469.75 ly
 apparent_magnitude: 7.71
 absolute_magnitude: 1.92
@@ -31,14 +31,14 @@ planets:
     radius: 24,310.2 km<br/>(3.816 Yrths)
     surface_area: 7.427 × 10<sup>09</sup> km<sup>2</sup><br/>(14.560 Yrths)
     volume: 6.018 × 10<sup>13</sup> km<sup>3</sup><br/>(55.558 Yrths)
-    mass: 7.154 × 10<sup>25</sup> kg<br />(11.980050076972574 Yrths)
+    mass: 7.154 × 10<sup>25</sup> kg<br />(11.98 Yrths)
     density: 1.189 g/cm<sup>3</sup>
     surface_gravity: 8.069 m/s<sup>2</sup><br />(0.823 g<sub>0</sub>)
     escape_velocity: 19.820 km/s<br />(71,353 km/h)
     rotation_period: 0.372 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 785 K<br />(512 °C)
+    temperature: 712 K<br />(439 °C)
     composition:
       - 78.3398% hydrogen
       - 21.0219% helium
@@ -57,14 +57,14 @@ planets:
         radius: 18,923.5 km<br/>(2.970 Yrths)
         surface_area: 4.500 × 10<sup>09</sup> km<sup>2</sup><br/>(8.822 Yrths)
         volume: 2.839 × 10<sup>13</sup> km<sup>3</sup><br/>(26.205 Yrths)
-        mass: 6.534 × 10<sup>25</sup> kg<br />(11.980050076972574 Yrths)
+        mass: 6.534 × 10<sup>25</sup> kg<br />(10.941 Yrths)
         density: 2.302 g/cm<sup>3</sup>
         surface_gravity: 12.162 m/s<sup>2</sup><br />(1.240 g<sub>0</sub>)
         escape_velocity: 21.469 km/s<br />(77,288 km/h)
         rotation_period: 52.121 d
         axial_tilt: 34.16°
         albedo: 0.30
-        temperature: 4080 K<br />(3807 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 8399 Arkothiad I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 22,897.3 km<br/>(3.594 Yrths)
         surface_area: 6.588 × 10<sup>09</sup> km<sup>2</sup><br/>(12.917 Yrths)
         volume: 5.029 × 10<sup>13</sup> km<sup>3</sup><br/>(46.422 Yrths)
-        mass: 8.918 × 10<sup>25</sup> kg<br />(11.980050076972574 Yrths)
+        mass: 8.918 × 10<sup>25</sup> kg<br />(14.933 Yrths)
         density: 1.773 g/cm<sup>3</sup>
         surface_gravity: 11.337 m/s<sup>2</sup><br />(1.156 g<sub>0</sub>)
         escape_velocity: 22.801 km/s<br />(82,085 km/h)
         rotation_period: 51.231 d
         axial_tilt: 15.06°
         albedo: 0.30
-        temperature: 3890 K<br />(3617 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 8399 Arkothiad I c
         type: Rocky
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 14,865.4 km<br/>(2.333 Yrths)
         surface_area: 2.777 × 10<sup>09</sup> km<sup>2</sup><br/>(5.444 Yrths)
         volume: 1.376 × 10<sup>13</sup> km<sup>3</sup><br/>(12.703 Yrths)
-        mass: 3.697 × 10<sup>25</sup> kg<br />(11.980050076972574 Yrths)
+        mass: 3.697 × 10<sup>25</sup> kg<br />(6.191 Yrths)
         density: 2.687 g/cm<sup>3</sup>
         surface_gravity: 11.152 m/s<sup>2</sup><br />(1.137 g<sub>0</sub>)
         escape_velocity: 18.221 km/s<br />(65,597 km/h)
         rotation_period: 33.844 d
         axial_tilt: 21.42°
         albedo: 0.30
-        temperature: 3709 K<br />(3436 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 8399 Arkothiad I d
         type: Icy
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 33,350.4 km<br/>(5.235 Yrths)
         surface_area: 1.398 × 10<sup>10</sup> km<sup>2</sup><br/>(27.402 Yrths)
         volume: 1.554 × 10<sup>14</sup> km<sup>3</sup><br/>(143.443 Yrths)
-        mass: 1.938 × 10<sup>26</sup> kg<br />(11.980050076972574 Yrths)
+        mass: 1.938 × 10<sup>26</sup> kg<br />(32.455 Yrths)
         density: 1.247 g/cm<sup>3</sup>
         surface_gravity: 11.615 m/s<sup>2</sup><br />(1.184 g<sub>0</sub>)
         escape_velocity: 27.853 km/s<br />(100,270 km/h)
         rotation_period: 58.587 d
         axial_tilt: 22.71°
         albedo: 0.30
-        temperature: 3536 K<br />(3263 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 8399 Arkothiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 17,610.5 km<br/>(2.764 Yrths)
         surface_area: 3.897 × 10<sup>09</sup> km<sup>2</sup><br/>(7.641 Yrths)
         volume: 2.288 × 10<sup>13</sup> km<sup>3</sup><br/>(21.120 Yrths)
-        mass: 5.480 × 10<sup>25</sup> kg<br />(11.980050076972574 Yrths)
+        mass: 5.480 × 10<sup>25</sup> kg<br />(9.176 Yrths)
         density: 2.395 g/cm<sup>3</sup>
         surface_gravity: 11.777 m/s<sup>2</sup><br />(1.201 g<sub>0</sub>)
         escape_velocity: 20.380 km/s<br />(73,369 km/h)
         rotation_period: 45.463 d
         axial_tilt: 16.92°
         albedo: 0.30
-        temperature: 3372 K<br />(3099 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 8399 Arkothiad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -157,12 +157,12 @@ planets:
         radius: 16,355.5 km<br/>(2.567 Yrths)
         surface_area: 3.362 × 10<sup>09</sup> km<sup>2</sup><br/>(6.590 Yrths)
         volume: 1.833 × 10<sup>13</sup> km<sup>3</sup><br/>(16.919 Yrths)
-        mass: 4.849 × 10<sup>25</sup> kg<br />(11.980050076972574 Yrths)
+        mass: 4.849 × 10<sup>25</sup> kg<br />(8.120 Yrths)
         density: 2.646 g/cm<sup>3</sup>
         surface_gravity: 12.083 m/s<sup>2</sup><br />(1.232 g<sub>0</sub>)
         escape_velocity: 19.894 km/s<br />(71,618 km/h)
         rotation_period: 41.643 d
         axial_tilt: 32.25°
         albedo: 0.30
-        temperature: 3065 K<br />(2792 °C)
+        temperature: 394 K<br />(121 °C)
 ---

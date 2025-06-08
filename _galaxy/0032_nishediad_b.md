@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0032 Nishediad B is a star in the constellation Nishedi
+      0032 Nishediad B is a star in the constellation <a href="nishedi.html">Nishedi</a>
 distance: 290.47 ly
 apparent_magnitude: 9.47
 absolute_magnitude: 4.72

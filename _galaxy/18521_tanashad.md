@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      18521 Tanashad is a star in the constellation Tanas
+      18521 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 427.73 ly
 apparent_magnitude: 10.35
 absolute_magnitude: 4.76

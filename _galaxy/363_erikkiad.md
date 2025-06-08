@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      363 Erikkiad is a star in the constellation Erik
+      363 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1651.32 ly
 apparent_magnitude: 13.60
 absolute_magnitude: 5.08

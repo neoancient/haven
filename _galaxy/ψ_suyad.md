@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Suyad is a star in the constellation Su
+      ψ Suyad is a star in the constellation <a href="su.html">Su</a>
 distance: 643.61 ly
 apparent_magnitude: 6.38
 absolute_magnitude: -0.09
@@ -31,14 +31,14 @@ planets:
     radius: 10,051.6 km<br/>(1.578 Yrths)
     surface_area: 1.270 × 10<sup>09</sup> km<sup>2</sup><br/>(2.489 Yrths)
     volume: 4.254 × 10<sup>12</sup> km<sup>3</sup><br/>(3.927 Yrths)
-    mass: 2.688 × 10<sup>25</sup> kg<br />(4.500508129183643 Yrths)
+    mass: 2.688 × 10<sup>25</sup> kg<br />(4.50 Yrths)
     density: 6.318 g/cm<sup>3</sup>
     surface_gravity: 17.731 m/s<sup>2</sup><br />(1.808 g<sub>0</sub>)
     escape_velocity: 18.893 km/s<br />(68,013 km/h)
     rotation_period: 0.576 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 1459 K<br />(1186 °C)
+    temperature: 3328 K<br />(3055 °C)
     surface_pressure: 1,627 kPa<br />(16 atm)
     composition:
       - 66.8433% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 6,500.9 km<br/>(1.020 Yrths)
         surface_area: 5.311 × 10<sup>08</sup> km<sup>2</sup><br/>(1.041 Yrths)
         volume: 1.151 × 10<sup>12</sup> km<sup>3</sup><br/>(1.062 Yrths)
-        mass: 2.247 × 10<sup>24</sup> kg<br />(4.500508129183643 Yrths)
+        mass: 2.247 × 10<sup>24</sup> kg<br />(0.376 Yrths)
         density: 1.953 g/cm<sup>3</sup>
         surface_gravity: 3.544 m/s<sup>2</sup><br />(0.361 g<sub>0</sub>)
         escape_velocity: 6.793 km/s<br />(24,455 km/h)
         rotation_period: 70.214 d
         axial_tilt: 16.75°
         albedo: 0.30
-        temperature: 16770 K<br />(16497 °C)
+        temperature: 843 K<br />(570 °C)
       - name: ψ Suyad I b
         type: Asteroid
         formationType: Captured
@@ -78,12 +78,12 @@ planets:
         radius: 6,683.7 km<br/>(1.049 Yrths)
         surface_area: 5.614 × 10<sup>08</sup> km<sup>2</sup><br/>(1.101 Yrths)
         volume: 1.251 × 10<sup>12</sup> km<sup>3</sup><br/>(1.155 Yrths)
-        mass: 2.668 × 10<sup>24</sup> kg<br />(4.500508129183643 Yrths)
+        mass: 2.668 × 10<sup>24</sup> kg<br />(0.447 Yrths)
         density: 2.134 g/cm<sup>3</sup>
         surface_gravity: 3.982 m/s<sup>2</sup><br />(0.406 g<sub>0</sub>)
         escape_velocity: 7.300 km/s<br />(26,281 km/h)
         rotation_period: 67.041 d
         axial_tilt: 45.64°
         albedo: 0.30
-        temperature: 15990 K<br />(15717 °C)
+        temperature: 843 K<br />(570 °C)
 ---

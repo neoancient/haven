@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0001 Urthiad D is a star in the constellation Urth
+      0001 Urthiad D is a star in the constellation <a href="urth.html">Urth</a>
 distance: 109.68 ly
 apparent_magnitude: 7.37
 absolute_magnitude: 4.73

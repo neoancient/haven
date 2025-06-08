@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1013 Athiad is a star in the constellation Ath
+      1013 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 290.05 ly
 apparent_magnitude: 10.15
 absolute_magnitude: 5.40

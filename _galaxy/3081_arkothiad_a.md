@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3081 Arkothiad A is a star in the constellation Arkoth
+      3081 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 403.87 ly
 apparent_magnitude: 7.29
 absolute_magnitude: 1.82

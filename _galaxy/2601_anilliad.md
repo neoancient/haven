@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2601 Anilliad is a star in the constellation Anil
+      2601 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 668.03 ly
 apparent_magnitude: 12.53
 absolute_magnitude: 5.97

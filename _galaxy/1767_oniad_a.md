@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1767 Oniad A is a star in the constellation Oni
+      1767 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 966.25 ly
 apparent_magnitude: 7.28
 absolute_magnitude: -0.08

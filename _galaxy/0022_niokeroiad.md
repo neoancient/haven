@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0022 Niokeroiad is a star in the constellation Niokero
+      0022 Niokeroiad is a star in the constellation <a href="niokero.html">Niokero</a>
 distance: 1220.42 ly
 apparent_magnitude: 5.77
 absolute_magnitude: -2.10
@@ -31,14 +31,14 @@ planets:
     radius: 169.1 km<br/>(0.027 Yrths)
     surface_area: 3.592 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.025 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.895 × 10<sup>26</sup> kg<br />(81.9701466541636 Yrths)
+    mass: 4.895 × 10<sup>26</sup> kg<br />(81.97 Yrths)
     density: 24179145.554 g/cm<sup>3</sup>
     surface_gravity: 1141373.092 m/s<sup>2</sup><br />(116387.665 g<sub>0</sub>)
     escape_velocity: 621.677 km/s<br />(2,238,036 km/h)
     rotation_period: 0.268 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2903 K<br />(2630 °C)
+    temperature: 2854 K<br />(2581 °C)
     composition:
       - 75.7409% hydrogen
       - 16.4821% helium
@@ -59,14 +59,14 @@ planets:
         radius: 80,054.1 km<br/>(12.565 Yrths)
         surface_area: 8.053 × 10<sup>10</sup> km<sup>2</sup><br/>(157.889 Yrths)
         volume: 2.149 × 10<sup>15</sup> km<sup>3</sup><br/>(1983.938 Yrths)
-        mass: 2.496 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 2.496 × 10<sup>27</sup> kg<br />(418.012 Yrths)
         density: 1.162 g/cm<sup>3</sup>
         surface_gravity: 25.963 m/s<sup>2</sup><br />(2.648 g<sub>0</sub>)
         escape_velocity: 64.518 km/s<br />(232,265 km/h)
         rotation_period: 82.547 d
         axial_tilt: 16.90°
         albedo: 0.30
-        temperature: 6208 K<br />(5935 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I b
         type: Icy
         formationType: Impact formed
@@ -79,14 +79,14 @@ planets:
         radius: 74,292.2 km<br/>(11.661 Yrths)
         surface_area: 6.936 × 10<sup>10</sup> km<sup>2</sup><br/>(135.979 Yrths)
         volume: 1.718 × 10<sup>15</sup> km<sup>3</sup><br/>(1585.649 Yrths)
-        mass: 1.914 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 1.914 × 10<sup>27</sup> kg<br />(320.523 Yrths)
         density: 1.114 g/cm<sup>3</sup>
         surface_gravity: 23.116 m/s<sup>2</sup><br />(2.357 g<sub>0</sub>)
         escape_velocity: 58.646 km/s<br />(211,124 km/h)
         rotation_period: 62.446 d
         axial_tilt: 19.42°
         albedo: 0.30
-        temperature: 5919 K<br />(5646 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I c
         type: Icy
         formationType: Accreted
@@ -99,14 +99,14 @@ planets:
         radius: 87,978.6 km<br/>(13.809 Yrths)
         surface_area: 9.727 × 10<sup>10</sup> km<sup>2</sup><br/>(190.695 Yrths)
         volume: 2.852 × 10<sup>15</sup> km<sup>3</sup><br/>(2633.348 Yrths)
-        mass: 4.128 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 4.128 × 10<sup>27</sup> kg<br />(691.148 Yrths)
         density: 1.447 g/cm<sup>3</sup>
         surface_gravity: 35.543 m/s<sup>2</sup><br />(3.624 g<sub>0</sub>)
         escape_velocity: 79.136 km/s<br />(284,890 km/h)
         rotation_period: 45.064 d
         axial_tilt: 13.63°
         albedo: 0.30
-        temperature: 5131 K<br />(4857 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -119,14 +119,14 @@ planets:
         radius: 84,051.1 km<br/>(13.193 Yrths)
         surface_area: 8.878 × 10<sup>10</sup> km<sup>2</sup><br/>(174.049 Yrths)
         volume: 2.487 × 10<sup>15</sup> km<sup>3</sup><br/>(2296.190 Yrths)
-        mass: 5.859 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 5.859 × 10<sup>27</sup> kg<br />(981.038 Yrths)
         density: 2.356 g/cm<sup>3</sup>
         surface_gravity: 55.276 m/s<sup>2</sup><br />(5.637 g<sub>0</sub>)
         escape_velocity: 96.460 km/s<br />(347,257 km/h)
         rotation_period: 50.223 d
         axial_tilt: 14.82°
         albedo: 0.30
-        temperature: 4447 K<br />(4174 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I e
         type: Icy
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 75,443.4 km<br/>(11.842 Yrths)
         surface_area: 7.152 × 10<sup>10</sup> km<sup>2</sup><br/>(140.225 Yrths)
         volume: 1.799 × 10<sup>15</sup> km<sup>3</sup><br/>(1660.505 Yrths)
-        mass: 1.850 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 1.850 × 10<sup>27</sup> kg<br />(309.706 Yrths)
         density: 1.028 g/cm<sup>3</sup>
         surface_gravity: 21.659 m/s<sup>2</sup><br />(2.209 g<sub>0</sub>)
         escape_velocity: 57.206 km/s<br />(205,942 km/h)
         rotation_period: 69.077 d
         axial_tilt: 17.78°
         albedo: 0.30
-        temperature: 3037 K<br />(2764 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I f
         type: Asteroid
         formationType: Captured
@@ -159,14 +159,14 @@ planets:
         radius: 81,415.4 km<br/>(12.779 Yrths)
         surface_area: 8.330 × 10<sup>10</sup> km<sup>2</sup><br/>(163.304 Yrths)
         volume: 2.261 × 10<sup>15</sup> km<sup>3</sup><br/>(2086.879 Yrths)
-        mass: 2.948 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 2.948 × 10<sup>27</sup> kg<br />(493.624 Yrths)
         density: 1.304 g/cm<sup>3</sup>
         surface_gravity: 29.643 m/s<sup>2</sup><br />(3.023 g<sub>0</sub>)
         escape_velocity: 69.522 km/s<br />(250,279 km/h)
         rotation_period: 46.421 d
         axial_tilt: 48.55°
         albedo: 0.30
-        temperature: 2510 K<br />(2237 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I g
         type: Icy
         formationType: Impact formed
@@ -179,14 +179,14 @@ planets:
         radius: 85,262.2 km<br/>(13.383 Yrths)
         surface_area: 9.135 × 10<sup>10</sup> km<sup>2</sup><br/>(179.101 Yrths)
         volume: 2.596 × 10<sup>15</sup> km<sup>3</sup><br/>(2396.885 Yrths)
-        mass: 3.397 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 3.397 × 10<sup>27</sup> kg<br />(568.879 Yrths)
         density: 1.309 g/cm<sup>3</sup>
         surface_gravity: 31.149 m/s<sup>2</sup><br />(3.176 g<sub>0</sub>)
         escape_velocity: 72.931 km/s<br />(262,550 km/h)
         rotation_period: 86.225 d
         axial_tilt: 16.08°
         albedo: 0.30
-        temperature: 1978 K<br />(1705 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I h
         type: Rocky
         formationType: Accreted
@@ -199,14 +199,14 @@ planets:
         radius: 100,075.4 km<br/>(15.708 Yrths)
         surface_area: 1.259 × 10<sup>11</sup> km<sup>2</sup><br/>(246.740 Yrths)
         volume: 4.198 × 10<sup>15</sup> km<sup>3</sup><br/>(3875.778 Yrths)
-        mass: 1.093 × 10<sup>28</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 1.093 × 10<sup>28</sup> kg<br />(1829.525 Yrths)
         density: 2.602 g/cm<sup>3</sup>
         surface_gravity: 72.714 m/s<sup>2</sup><br />(7.415 g<sub>0</sub>)
         escape_velocity: 120.721 km/s<br />(434,596 km/h)
         rotation_period: 56.553 d
         axial_tilt: 14.81°
         albedo: 0.30
-        temperature: 1715 K<br />(1441 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I i
         type: Ice/rock hybrid
         formationType: Captured
@@ -219,14 +219,14 @@ planets:
         radius: 59,749.3 km<br/>(9.378 Yrths)
         surface_area: 4.486 × 10<sup>10</sup> km<sup>2</sup><br/>(87.953 Yrths)
         volume: 8.935 × 10<sup>14</sup> km<sup>3</sup><br/>(824.852 Yrths)
-        mass: 1.968 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 1.968 × 10<sup>27</sup> kg<br />(329.564 Yrths)
         density: 2.203 g/cm<sup>3</sup>
         surface_gravity: 36.746 m/s<sup>2</sup><br />(3.747 g<sub>0</sub>)
         escape_velocity: 66.310 km/s<br />(238,717 km/h)
         rotation_period: 43.444 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 1635 K<br />(1362 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -239,14 +239,14 @@ planets:
         radius: 64,008.3 km<br/>(10.047 Yrths)
         surface_area: 5.149 × 10<sup>10</sup> km<sup>2</sup><br/>(100.939 Yrths)
         volume: 1.098 × 10<sup>15</sup> km<sup>3</sup><br/>(1014.112 Yrths)
-        mass: 2.478 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 2.478 × 10<sup>27</sup> kg<br />(415.005 Yrths)
         density: 2.256 g/cm<sup>3</sup>
         surface_gravity: 40.320 m/s<sup>2</sup><br />(4.111 g<sub>0</sub>)
         escape_velocity: 71.893 km/s<br />(258,815 km/h)
         rotation_period: 36.439 d
         axial_tilt: 24.70°
         albedo: 0.30
-        temperature: 763 K<br />(489 °C)
+        temperature: 689 K<br />(416 °C)
       - name: 0022 Niokeroiad I k
         type: Ice/rock hybrid
         formationType: Captured
@@ -259,14 +259,14 @@ planets:
         radius: 62,383.0 km<br/>(9.792 Yrths)
         surface_area: 4.890 × 10<sup>10</sup> km<sup>2</sup><br/>(95.878 Yrths)
         volume: 1.017 × 10<sup>15</sup> km<sup>3</sup><br/>(938.807 Yrths)
-        mass: 2.236 × 10<sup>27</sup> kg<br />(81.9701466541636 Yrths)
+        mass: 2.236 × 10<sup>27</sup> kg<br />(374.398 Yrths)
         density: 2.199 g/cm<sup>3</sup>
         surface_gravity: 38.295 m/s<sup>2</sup><br />(3.905 g<sub>0</sub>)
         escape_velocity: 69.169 km/s<br />(249,008 km/h)
         rotation_period: 48.225 d
         axial_tilt: 16.82°
         albedo: 0.30
-        temperature: 727 K<br />(454 °C)
+        temperature: 689 K<br />(416 °C)
   - name: 0022 Niokeroiad II
     type: Large terrestrial
     aphelion: 1,225,379,791 km<br />8.191 AU
@@ -278,7 +278,7 @@ planets:
     radius: 2,847.0 km<br/>(0.447 Yrths)
     surface_area: 1.019 × 10<sup>08</sup> km<sup>2</sup><br/>(0.200 Yrths)
     volume: 9.666 × 10<sup>10</sup> km<sup>3</sup><br/>(0.089 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.178 g/cm<sup>3</sup>
     surface_gravity: 4.911 m/s<sup>2</sup><br />(0.501 g<sub>0</sub>)
     escape_velocity: 5.292 km/s<br />(19,050 km/h)
@@ -299,14 +299,14 @@ planets:
         radius: 1,112.8 km<br/>(0.175 Yrths)
         surface_area: 1.556 × 10<sup>07</sup> km<sup>2</sup><br/>(0.031 Yrths)
         volume: 5.772 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 4.250 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.250 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.736 g/cm<sup>3</sup>
         surface_gravity: 0.229 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.714 km/s<br />(2,571 km/h)
         rotation_period: 79.205 d
         axial_tilt: 19.24°
         albedo: 0.30
-        temperature: 14391 K<br />(14118 °C)
+        temperature: 478 K<br />(205 °C)
       - name: 0022 Niokeroiad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -319,14 +319,14 @@ planets:
         radius: 262.1 km<br/>(0.041 Yrths)
         surface_area: 8.632 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 7.542 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.631 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.631 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.163 g/cm<sup>3</sup>
         surface_gravity: 0.158 m/s<sup>2</sup><br />(0.016 g<sub>0</sub>)
         escape_velocity: 0.288 km/s<br />(1,038 km/h)
         rotation_period: 41.621 d
         axial_tilt: 27.02°
         albedo: 0.30
-        temperature: 13721 K<br />(13448 °C)
+        temperature: 478 K<br />(205 °C)
       - name: 0022 Niokeroiad II c
         type: Rocky
         formationType: Captured
@@ -339,12 +339,12 @@ planets:
         radius: 309.4 km<br/>(0.049 Yrths)
         surface_area: 1.203 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 1.240 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.344 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.344 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.696 g/cm<sup>3</sup>
         surface_gravity: 0.233 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.380 km/s<br />(1,367 km/h)
         rotation_period: 39.113 d
         axial_tilt: 8.97°
         albedo: 0.30
-        temperature: 13083 K<br />(12810 °C)
+        temperature: 478 K<br />(205 °C)
 ---

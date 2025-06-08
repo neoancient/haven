@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2221 Dialkeshiad is a star in the constellation Dialkes
+      2221 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 334.77 ly
 apparent_magnitude: 11.82
 absolute_magnitude: 6.76

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5609 Geardiad is a star in the constellation Geard
+      5609 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 402.42 ly
 apparent_magnitude: 10.06
 absolute_magnitude: 4.60

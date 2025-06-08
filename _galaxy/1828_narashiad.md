@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1828 Narashiad is a star in the constellation Naras
+      1828 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 475.77 ly
 apparent_magnitude: 9.46
 absolute_magnitude: 3.64

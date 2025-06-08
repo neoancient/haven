@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      135 Switheriad is a star in the constellation Swither
+      135 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 315.62 ly
 apparent_magnitude: 11.35
 absolute_magnitude: 6.43

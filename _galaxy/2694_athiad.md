@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2694 Athiad is a star in the constellation Ath
+      2694 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 904.72 ly
 apparent_magnitude: 11.56
 absolute_magnitude: 4.34

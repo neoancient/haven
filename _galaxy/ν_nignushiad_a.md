@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Nignushiad A is a star in the constellation Nignus
+      ν Nignushiad A is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 730.44 ly
 apparent_magnitude: 5.09
 absolute_magnitude: -1.66

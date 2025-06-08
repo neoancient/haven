@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1013 Nwaliad is a star in the constellation Nwal
+      1013 Nwaliad is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 416.04 ly
 apparent_magnitude: 10.94
 absolute_magnitude: 5.41

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6071 Tanashad is a star in the constellation Tanas
+      6071 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 432.64 ly
 apparent_magnitude: 7.85
 absolute_magnitude: 2.23
@@ -31,14 +31,14 @@ planets:
     radius: 22,205.6 km<br/>(3.485 Yrths)
     surface_area: 6.196 × 10<sup>09</sup> km<sup>2</sup><br/>(12.148 Yrths)
     volume: 4.586 × 10<sup>13</sup> km<sup>3</sup><br/>(42.342 Yrths)
-    mass: 6.930 × 10<sup>25</sup> kg<br />(11.60445900458368 Yrths)
+    mass: 6.930 × 10<sup>25</sup> kg<br />(11.60 Yrths)
     density: 1.511 g/cm<sup>3</sup>
     surface_gravity: 9.368 m/s<sup>2</sup><br />(0.955 g<sub>0</sub>)
     escape_velocity: 20.411 km/s<br />(73,479 km/h)
     rotation_period: 0.422 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 604 K<br />(331 °C)
+    temperature: 583 K<br />(310 °C)
     composition:
       - 70.2558% hydrogen
       - 26.8790% helium
@@ -56,14 +56,14 @@ planets:
         radius: 6,143.4 km<br/>(0.964 Yrths)
         surface_area: 4.743 × 10<sup>08</sup> km<sup>2</sup><br/>(0.930 Yrths)
         volume: 9.712 × 10<sup>11</sup> km<sup>3</sup><br/>(0.897 Yrths)
-        mass: 3.496 × 10<sup>24</sup> kg<br />(11.60445900458368 Yrths)
+        mass: 3.496 × 10<sup>24</sup> kg<br />(0.585 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 6.175 m/s<sup>2</sup><br />(0.630 g<sub>0</sub>)
         escape_velocity: 8.716 km/s<br />(31,378 km/h)
         rotation_period: 30.237 d
         axial_tilt: 13.45°
         albedo: 0.30
-        temperature: 3973 K<br />(3700 °C)
+        temperature: 385 K<br />(112 °C)
       - name: 6071 Tanashad I b
         type: Dwarf planet
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 9,996.3 km<br/>(1.569 Yrths)
         surface_area: 1.256 × 10<sup>09</sup> km<sup>2</sup><br/>(2.462 Yrths)
         volume: 4.184 × 10<sup>12</sup> km<sup>3</sup><br/>(3.863 Yrths)
-        mass: 1.070 × 10<sup>25</sup> kg<br />(11.60445900458368 Yrths)
+        mass: 1.070 × 10<sup>25</sup> kg<br />(1.791 Yrths)
         density: 2.557 g/cm<sup>3</sup>
         surface_gravity: 7.135 m/s<sup>2</sup><br />(0.728 g<sub>0</sub>)
         escape_velocity: 11.952 km/s<br />(43,027 km/h)
         rotation_period: 49.218 d
         axial_tilt: 39.40°
         albedo: 0.30
-        temperature: 3788 K<br />(3515 °C)
+        temperature: 385 K<br />(112 °C)
       - name: 6071 Tanashad I c
         type: Icy
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 20,060.6 km<br/>(3.149 Yrths)
         surface_area: 5.057 × 10<sup>09</sup> km<sup>2</sup><br/>(9.915 Yrths)
         volume: 3.382 × 10<sup>13</sup> km<sup>3</sup><br/>(31.218 Yrths)
-        mass: 4.861 × 10<sup>25</sup> kg<br />(11.60445900458368 Yrths)
+        mass: 4.861 × 10<sup>25</sup> kg<br />(8.140 Yrths)
         density: 1.438 g/cm<sup>3</sup>
         surface_gravity: 8.051 m/s<sup>2</sup><br />(0.821 g<sub>0</sub>)
         escape_velocity: 17.985 km/s<br />(64,747 km/h)
         rotation_period: 74.040 d
         axial_tilt: 15.17°
         albedo: 0.30
-        temperature: 3612 K<br />(3339 °C)
+        temperature: 385 K<br />(112 °C)
   - name: 6071 Tanashad II
     type: Large terrestrial
     aphelion: 443,155,303 km<br />2.962 AU
@@ -115,14 +115,14 @@ planets:
     radius: 6,199.6 km<br/>(0.973 Yrths)
     surface_area: 4.830 × 10<sup>08</sup> km<sup>2</sup><br/>(0.947 Yrths)
     volume: 9.981 × 10<sup>11</sup> km<sup>3</sup><br/>(0.921 Yrths)
-    mass: 7.454 × 10<sup>24</sup> kg<br />(1.2481263861975374 Yrths)
+    mass: 7.454 × 10<sup>24</sup> kg<br />(1.25 Yrths)
     density: 7.468 g/cm<sup>3</sup>
     surface_gravity: 12.926 m/s<sup>2</sup><br />(1.318 g<sub>0</sub>)
     escape_velocity: 12.668 km/s<br />(45,606 km/h)
     rotation_period: 0.826 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 400 K<br />(127 °C)
+    temperature: 450 K<br />(177 °C)
     surface_pressure: 1,110 kPa<br />(11 atm)
     composition:
       - 68.0839% ammonia
@@ -143,14 +143,14 @@ planets:
         radius: 3,192.0 km<br/>(0.501 Yrths)
         surface_area: 1.280 × 10<sup>08</sup> km<sup>2</sup><br/>(0.251 Yrths)
         volume: 1.362 × 10<sup>11</sup> km<sup>3</sup><br/>(0.126 Yrths)
-        mass: 3.411 × 10<sup>23</sup> kg<br />(1.2481263861975374 Yrths)
+        mass: 3.411 × 10<sup>23</sup> kg<br />(0.057 Yrths)
         density: 2.504 g/cm<sup>3</sup>
         surface_gravity: 2.231 m/s<sup>2</sup><br />(0.228 g<sub>0</sub>)
         escape_velocity: 3.777 km/s<br />(13,596 km/h)
         rotation_period: 62.336 d
         axial_tilt: 23.37°
         albedo: 0.30
-        temperature: 4304 K<br />(4031 °C)
+        temperature: 279 K<br />(6 °C)
       - name: 6071 Tanashad II b
         type: Asteroid
         formationType: Captured
@@ -163,12 +163,12 @@ planets:
         radius: 2,156.9 km<br/>(0.339 Yrths)
         surface_area: 5.846 × 10<sup>07</sup> km<sup>2</sup><br/>(0.115 Yrths)
         volume: 4.203 × 10<sup>10</sup> km<sup>3</sup><br/>(0.039 Yrths)
-        mass: 1.231 × 10<sup>23</sup> kg<br />(1.2481263861975374 Yrths)
+        mass: 1.231 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 2.929 g/cm<sup>3</sup>
         surface_gravity: 1.764 m/s<sup>2</sup><br />(0.180 g<sub>0</sub>)
         escape_velocity: 2.760 km/s<br />(9,937 km/h)
         rotation_period: 35.797 d
         axial_tilt: 51.37°
         albedo: 0.30
-        temperature: 4103 K<br />(3830 °C)
+        temperature: 279 K<br />(6 °C)
 ---

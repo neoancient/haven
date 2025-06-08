@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3030 Narashiad is a star in the constellation Naras
+      3030 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 755.79 ly
 apparent_magnitude: 11.55
 absolute_magnitude: 4.73

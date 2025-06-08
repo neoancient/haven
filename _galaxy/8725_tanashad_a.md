@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8725 Tanashad A is a star in the constellation Tanas
+      8725 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 734.09 ly
 apparent_magnitude: 7.58
 absolute_magnitude: 0.82

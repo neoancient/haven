@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      519 Aldnanniad is a star in the constellation Aldnan
+      519 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 571.05 ly
 apparent_magnitude: 10.77
 absolute_magnitude: 4.56

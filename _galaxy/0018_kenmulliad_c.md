@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0018 Kenmulliad C is a star in the constellation Kenmul
+      0018 Kenmulliad C is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 213.38 ly
 apparent_magnitude: 10.82
 absolute_magnitude: 6.74
@@ -31,14 +31,14 @@ planets:
     radius: 2,782.7 km<br/>(0.437 Yrths)
     surface_area: 9.731 × 10<sup>07</sup> km<sup>2</sup><br/>(0.191 Yrths)
     volume: 9.026 × 10<sup>10</sup> km<sup>3</sup><br/>(0.083 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.617 g/cm<sup>3</sup>
     surface_gravity: 5.140 m/s<sup>2</sup><br />(0.524 g<sub>0</sub>)
     escape_velocity: 5.352 km/s<br />(19,268 km/h)
     rotation_period: 5.048 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 556 K<br />(282 °C)
+    temperature: 1580 K<br />(1307 °C)
     surface_pressure: 90 kPa<br />(1 atm)
     composition:
       - 100.0000% carbon dioxide
@@ -55,14 +55,14 @@ planets:
         radius: 645.6 km<br/>(0.101 Yrths)
         surface_area: 5.237 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.127 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.803 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.803 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.288 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.611 km/s<br />(2,198 km/h)
         rotation_period: 40.496 d
         axial_tilt: 25.44°
         albedo: 0.30
-        temperature: 11195 K<br />(10922 °C)
+        temperature: 354 K<br />(81 °C)
       - name: 0018 Kenmulliad C I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -75,14 +75,14 @@ planets:
         radius: 487.6 km<br/>(0.077 Yrths)
         surface_area: 2.987 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.855 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 7.768 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 7.768 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.218 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.461 km/s<br />(1,660 km/h)
         rotation_period: 47.814 d
         axial_tilt: 20.58°
         albedo: 0.30
-        temperature: 10674 K<br />(10401 °C)
+        temperature: 354 K<br />(81 °C)
       - name: 0018 Kenmulliad C I c
         type: Rocky
         formationType: Accreted
@@ -95,14 +95,14 @@ planets:
         radius: 493.6 km<br/>(0.077 Yrths)
         surface_area: 3.062 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.038 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.779 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.779 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.531 g/cm<sup>3</sup>
         surface_gravity: 0.487 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
         escape_velocity: 0.694 km/s<br />(2,497 km/h)
         rotation_period: 27.096 d
         axial_tilt: 21.12°
         albedo: 0.30
-        temperature: 10178 K<br />(9904 °C)
+        temperature: 354 K<br />(81 °C)
   - name: 0018 Kenmulliad C II
     type: Ice giant
     aphelion: 111,997,702 km<br />0.749 AU
@@ -114,7 +114,7 @@ planets:
     radius: 4,626.3 km<br/>(0.726 Yrths)
     surface_area: 2.690 × 10<sup>08</sup> km<sup>2</sup><br/>(0.527 Yrths)
     volume: 4.148 × 10<sup>11</sup> km<sup>3</sup><br/>(0.383 Yrths)
-    mass: 1.262 × 10<sup>26</sup> kg<br />(21.135844101812545 Yrths)
+    mass: 1.262 × 10<sup>26</sup> kg<br />(21.14 Yrths)
     density: 304.329 g/cm<sup>3</sup>
     surface_gravity: 393.082 m/s<sup>2</sup><br />(40.083 g<sub>0</sub>)
     escape_velocity: 60.349 km/s<br />(217,256 km/h)
@@ -135,14 +135,14 @@ planets:
         radius: 33,781.4 km<br/>(5.302 Yrths)
         surface_area: 1.434 × 10<sup>10</sup> km<sup>2</sup><br/>(28.115 Yrths)
         volume: 1.615 × 10<sup>14</sup> km<sup>3</sup><br/>(149.077 Yrths)
-        mass: 1.849 × 10<sup>26</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 1.849 × 10<sup>26</sup> kg<br />(30.961 Yrths)
         density: 1.145 g/cm<sup>3</sup>
         surface_gravity: 10.799 m/s<sup>2</sup><br />(1.101 g<sub>0</sub>)
         escape_velocity: 27.030 km/s<br />(97,308 km/h)
         rotation_period: 55.167 d
         axial_tilt: 14.71°
         albedo: 0.30
-        temperature: 2551 K<br />(2278 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -155,14 +155,14 @@ planets:
         radius: 11,454.7 km<br/>(1.798 Yrths)
         surface_area: 1.649 × 10<sup>09</sup> km<sup>2</sup><br/>(3.233 Yrths)
         volume: 6.296 × 10<sup>12</sup> km<sup>3</sup><br/>(5.812 Yrths)
-        mass: 1.172 × 10<sup>25</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 1.172 × 10<sup>25</sup> kg<br />(1.962 Yrths)
         density: 1.861 g/cm<sup>3</sup>
         surface_gravity: 5.952 m/s<sup>2</sup><br />(0.607 g<sub>0</sub>)
         escape_velocity: 11.685 km/s<br />(42,066 km/h)
         rotation_period: 56.304 d
         axial_tilt: 31.07°
         albedo: 0.30
-        temperature: 2432 K<br />(2159 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -175,14 +175,14 @@ planets:
         radius: 16,023.8 km<br/>(2.515 Yrths)
         surface_area: 3.227 × 10<sup>09</sup> km<sup>2</sup><br/>(6.326 Yrths)
         volume: 1.723 × 10<sup>13</sup> km<sup>3</sup><br/>(15.910 Yrths)
-        mass: 3.928 × 10<sup>25</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 3.928 × 10<sup>25</sup> kg<br />(6.577 Yrths)
         density: 2.279 g/cm<sup>3</sup>
         surface_gravity: 10.196 m/s<sup>2</sup><br />(1.040 g<sub>0</sub>)
         escape_velocity: 18.088 km/s<br />(65,118 km/h)
         rotation_period: 65.447 d
         axial_tilt: 24.83°
         albedo: 0.30
-        temperature: 2319 K<br />(2046 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II d
         type: Rocky
         formationType: Captured
@@ -195,14 +195,14 @@ planets:
         radius: 10,782.9 km<br/>(1.693 Yrths)
         surface_area: 1.461 × 10<sup>09</sup> km<sup>2</sup><br/>(2.865 Yrths)
         volume: 5.252 × 10<sup>12</sup> km<sup>3</sup><br/>(4.848 Yrths)
-        mass: 1.891 × 10<sup>25</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 1.891 × 10<sup>25</sup> kg<br />(3.166 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 10.838 m/s<sup>2</sup><br />(1.105 g<sub>0</sub>)
         escape_velocity: 15.299 km/s<br />(55,075 km/h)
         rotation_period: 32.530 d
         axial_tilt: 5.86°
         albedo: 0.30
-        temperature: 2211 K<br />(1938 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -215,14 +215,14 @@ planets:
         radius: 13,545.5 km<br/>(2.126 Yrths)
         surface_area: 2.306 × 10<sup>09</sup> km<sup>2</sup><br/>(4.520 Yrths)
         volume: 1.041 × 10<sup>13</sup> km<sup>3</sup><br/>(9.611 Yrths)
-        mass: 2.510 × 10<sup>25</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 2.510 × 10<sup>25</sup> kg<br />(4.203 Yrths)
         density: 2.411 g/cm<sup>3</sup>
         surface_gravity: 9.118 m/s<sup>2</sup><br />(0.930 g<sub>0</sub>)
         escape_velocity: 15.727 km/s<br />(56,619 km/h)
         rotation_period: 32.927 d
         axial_tilt: 28.61°
         albedo: 0.30
-        temperature: 2108 K<br />(1835 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II f
         type: Icy
         formationType: Accreted
@@ -235,14 +235,14 @@ planets:
         radius: 14,856.5 km<br/>(2.332 Yrths)
         surface_area: 2.774 × 10<sup>09</sup> km<sup>2</sup><br/>(5.438 Yrths)
         volume: 1.374 × 10<sup>13</sup> km<sup>3</sup><br/>(12.680 Yrths)
-        mass: 1.886 × 10<sup>25</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 1.886 × 10<sup>25</sup> kg<br />(3.158 Yrths)
         density: 1.373 g/cm<sup>3</sup>
         surface_gravity: 5.695 m/s<sup>2</sup><br />(0.581 g<sub>0</sub>)
         escape_velocity: 13.018 km/s<br />(46,863 km/h)
         rotation_period: 43.282 d
         axial_tilt: 14.86°
         albedo: 0.30
-        temperature: 2010 K<br />(1737 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II g
         type: Icy
         formationType: Accreted
@@ -255,14 +255,14 @@ planets:
         radius: 12,014.5 km<br/>(1.886 Yrths)
         surface_area: 1.814 × 10<sup>09</sup> km<sup>2</sup><br/>(3.556 Yrths)
         volume: 7.265 × 10<sup>12</sup> km<sup>3</sup><br/>(6.707 Yrths)
-        mass: 6.370 × 10<sup>24</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 6.370 × 10<sup>24</sup> kg<br />(1.067 Yrths)
         density: 0.877 g/cm<sup>3</sup>
         surface_gravity: 2.941 m/s<sup>2</sup><br />(0.300 g<sub>0</sub>)
         escape_velocity: 8.412 km/s<br />(30,285 km/h)
         rotation_period: 93.723 d
         axial_tilt: 13.36°
         albedo: 0.30
-        temperature: 1916 K<br />(1643 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II h
         type: Rocky
         formationType: Accreted
@@ -275,14 +275,14 @@ planets:
         radius: 13,879.8 km<br/>(2.179 Yrths)
         surface_area: 2.421 × 10<sup>09</sup> km<sup>2</sup><br/>(4.746 Yrths)
         volume: 1.120 × 10<sup>13</sup> km<sup>3</sup><br/>(10.340 Yrths)
-        mass: 3.075 × 10<sup>25</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 3.075 × 10<sup>25</sup> kg<br />(5.149 Yrths)
         density: 2.745 g/cm<sup>3</sup>
         surface_gravity: 10.639 m/s<sup>2</sup><br />(1.085 g<sub>0</sub>)
         escape_velocity: 17.197 km/s<br />(61,908 km/h)
         rotation_period: 32.916 d
         axial_tilt: 15.81°
         albedo: 0.30
-        temperature: 1827 K<br />(1554 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II i
         type: Dwarf planet
         formationType: Captured
@@ -295,14 +295,14 @@ planets:
         radius: 13,510.4 km<br/>(2.121 Yrths)
         surface_area: 2.294 × 10<sup>09</sup> km<sup>2</sup><br/>(4.497 Yrths)
         volume: 1.033 × 10<sup>13</sup> km<sup>3</sup><br/>(9.536 Yrths)
-        mass: 2.306 × 10<sup>25</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 2.306 × 10<sup>25</sup> kg<br />(3.861 Yrths)
         density: 2.232 g/cm<sup>3</sup>
         surface_gravity: 8.420 m/s<sup>2</sup><br />(0.859 g<sub>0</sub>)
         escape_velocity: 15.094 km/s<br />(54,339 km/h)
         rotation_period: 47.059 d
         axial_tilt: 37.69°
         albedo: 0.30
-        temperature: 1661 K<br />(1388 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II j
         type: Rocky
         formationType: Captured
@@ -315,14 +315,14 @@ planets:
         radius: 8,461.4 km<br/>(1.328 Yrths)
         surface_area: 8.997 × 10<sup>08</sup> km<sup>2</sup><br/>(1.764 Yrths)
         volume: 2.538 × 10<sup>12</sup> km<sup>3</sup><br/>(2.343 Yrths)
-        mass: 7.827 × 10<sup>24</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 7.827 × 10<sup>24</sup> kg<br />(1.311 Yrths)
         density: 3.085 g/cm<sup>3</sup>
         surface_gravity: 7.287 m/s<sup>2</sup><br />(0.743 g<sub>0</sub>)
         escape_velocity: 11.112 km/s<br />(40,005 km/h)
         rotation_period: 36.307 d
         axial_tilt: 17.56°
         albedo: 0.30
-        temperature: 1584 K<br />(1311 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II k
         type: Asteroid
         formationType: Captured
@@ -335,14 +335,14 @@ planets:
         radius: 22,237.9 km<br/>(3.490 Yrths)
         surface_area: 6.214 × 10<sup>09</sup> km<sup>2</sup><br/>(12.184 Yrths)
         volume: 4.606 × 10<sup>13</sup> km<sup>3</sup><br/>(42.526 Yrths)
-        mass: 8.830 × 10<sup>25</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 8.830 × 10<sup>25</sup> kg<br />(14.785 Yrths)
         density: 1.917 g/cm<sup>3</sup>
         surface_gravity: 11.901 m/s<sup>2</sup><br />(1.214 g<sub>0</sub>)
         escape_velocity: 23.022 km/s<br />(82,879 km/h)
         rotation_period: 37.458 d
         axial_tilt: 59.97°
         albedo: 0.30
-        temperature: 1510 K<br />(1237 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Kenmulliad C II l
         type: Asteroid
         formationType: Captured
@@ -355,14 +355,14 @@ planets:
         radius: 7,937.1 km<br/>(1.246 Yrths)
         surface_area: 7.917 × 10<sup>08</sup> km<sup>2</sup><br/>(1.552 Yrths)
         volume: 2.094 × 10<sup>12</sup> km<sup>3</sup><br/>(1.934 Yrths)
-        mass: 2.917 × 10<sup>24</sup> kg<br />(21.135844101812545 Yrths)
+        mass: 2.917 × 10<sup>24</sup> kg<br />(0.488 Yrths)
         density: 1.392 g/cm<sup>3</sup>
         surface_gravity: 3.086 m/s<sup>2</sup><br />(0.315 g<sub>0</sub>)
         escape_velocity: 7.004 km/s<br />(25,213 km/h)
         rotation_period: 46.203 d
         axial_tilt: 39.97°
         albedo: 0.30
-        temperature: 1440 K<br />(1167 °C)
+        temperature: 262 K<br />(-11 °C)
   - name: 0018 Kenmulliad C III
     type: Terrestrial
     aphelion: 205,140,992 km<br />1.371 AU
@@ -374,14 +374,14 @@ planets:
     radius: 6,496.4 km<br/>(1.020 Yrths)
     surface_area: 5.303 × 10<sup>08</sup> km<sup>2</sup><br/>(1.040 Yrths)
     volume: 1.148 × 10<sup>12</sup> km<sup>3</sup><br/>(1.060 Yrths)
-    mass: 8.844 × 10<sup>24</sup> kg<br />(1.4808587764783907 Yrths)
+    mass: 8.844 × 10<sup>24</sup> kg<br />(1.48 Yrths)
     density: 7.701 g/cm<sup>3</sup>
     surface_gravity: 13.967 m/s<sup>2</sup><br />(1.424 g<sub>0</sub>)
     escape_velocity: 13.480 km/s<br />(48,529 km/h)
     rotation_period: 1.408 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 260 K<br />(-13 °C)
+    temperature: 597 K<br />(324 °C)
     surface_pressure: 28 kPa<br />(0 atm)
     composition:
       - 60.6272% carbon dioxide
@@ -400,14 +400,14 @@ planets:
         radius: 3,118.9 km<br/>(0.490 Yrths)
         surface_area: 1.222 × 10<sup>08</sup> km<sup>2</sup><br/>(0.240 Yrths)
         volume: 1.271 × 10<sup>11</sup> km<sup>3</sup><br/>(0.117 Yrths)
-        mass: 3.650 × 10<sup>23</sup> kg<br />(1.4808587764783907 Yrths)
+        mass: 3.650 × 10<sup>23</sup> kg<br />(0.061 Yrths)
         density: 2.872 g/cm<sup>3</sup>
         surface_gravity: 2.501 m/s<sup>2</sup><br />(0.255 g<sub>0</sub>)
         escape_velocity: 3.952 km/s<br />(14,229 km/h)
         rotation_period: 33.101 d
         axial_tilt: 20.06°
         albedo: 0.30
-        temperature: 3530 K<br />(3256 °C)
+        temperature: 194 K<br />(-79 °C)
       - name: 0018 Kenmulliad C III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -420,12 +420,12 @@ planets:
         radius: 761.1 km<br/>(0.119 Yrths)
         surface_area: 7.280 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.847 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.309 × 10<sup>21</sup> kg<br />(1.4808587764783907 Yrths)
+        mass: 4.309 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.333 g/cm<sup>3</sup>
         surface_gravity: 0.496 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 0.869 km/s<br />(3,129 km/h)
         rotation_period: 36.066 d
         axial_tilt: 21.74°
         albedo: 0.30
-        temperature: 3365 K<br />(3092 °C)
+        temperature: 194 K<br />(-79 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1849 Noniashad is a star in the constellation Nonias
+      1849 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 1025.06 ly
 apparent_magnitude: 12.33
 absolute_magnitude: 4.84

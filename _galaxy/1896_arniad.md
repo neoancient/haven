@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1896 Arniad is a star in the constellation Arni
+      1896 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 362.36 ly
 apparent_magnitude: 10.36
 absolute_magnitude: 5.13
@@ -31,14 +31,14 @@ planets:
     radius: 2,775.9 km<br/>(0.436 Yrths)
     surface_area: 9.683 × 10<sup>07</sup> km<sup>2</sup><br/>(0.190 Yrths)
     volume: 8.960 × 10<sup>10</sup> km<sup>3</sup><br/>(0.083 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.665 g/cm<sup>3</sup>
     surface_gravity: 5.166 m/s<sup>2</sup><br />(0.527 g<sub>0</sub>)
     escape_velocity: 5.359 km/s<br />(19,292 km/h)
     rotation_period: 3.308 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 381 K<br />(108 °C)
+    temperature: 364 K<br />(91 °C)
     surface_pressure: 81 kPa<br />(1 atm)
     composition:
       - 69.7450% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 702.8 km<br/>(0.110 Yrths)
         surface_area: 6.207 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.454 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.789 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.789 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.918 g/cm<sup>3</sup>
         surface_gravity: 0.376 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.728 km/s<br />(2,620 km/h)
         rotation_period: 47.229 d
         axial_tilt: 37.58°
         albedo: 0.30
-        temperature: 6675 K<br />(6401 °C)
+        temperature: 323 K<br />(50 °C)
   - name: 1896 Arniad II
     type: Gas dwarf
     aphelion: 156,141,495 km<br />1.044 AU
@@ -75,14 +75,14 @@ planets:
     radius: 16,514.6 km<br/>(2.592 Yrths)
     surface_area: 3.427 × 10<sup>09</sup> km<sup>2</sup><br/>(6.719 Yrths)
     volume: 1.887 × 10<sup>13</sup> km<sup>3</sup><br/>(17.417 Yrths)
-    mass: 4.953 × 10<sup>25</sup> kg<br />(8.293870993805943 Yrths)
+    mass: 4.953 × 10<sup>25</sup> kg<br />(8.29 Yrths)
     density: 2.625 g/cm<sup>3</sup>
     surface_gravity: 12.105 m/s<sup>2</sup><br />(1.234 g<sub>0</sub>)
     escape_velocity: 20.009 km/s<br />(72,032 km/h)
     rotation_period: 0.865 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 331 K<br />(58 °C)
+    temperature: 308 K<br />(35 °C)
     composition:
       - 78.5245% hydrogen
       - 16.5072% helium
@@ -102,14 +102,14 @@ planets:
         radius: 27,332.3 km<br/>(4.290 Yrths)
         surface_area: 9.388 × 10<sup>09</sup> km<sup>2</sup><br/>(18.405 Yrths)
         volume: 8.553 × 10<sup>13</sup> km<sup>3</sup><br/>(78.960 Yrths)
-        mass: 8.313 × 10<sup>25</sup> kg<br />(8.293870993805943 Yrths)
+        mass: 8.313 × 10<sup>25</sup> kg<br />(13.920 Yrths)
         density: 0.972 g/cm<sup>3</sup>
         surface_gravity: 7.417 m/s<sup>2</sup><br />(0.756 g<sub>0</sub>)
         escape_velocity: 20.149 km/s<br />(72,537 km/h)
         rotation_period: 62.217 d
         axial_tilt: 16.57°
         albedo: 0.30
-        temperature: 2407 K<br />(2133 °C)
+        temperature: 245 K<br />(-29 °C)
       - name: 1896 Arniad II b
         type: Dwarf planet
         formationType: Impact formed
@@ -122,14 +122,14 @@ planets:
         radius: 8,450.4 km<br/>(1.326 Yrths)
         surface_area: 8.974 × 10<sup>08</sup> km<sup>2</sup><br/>(1.759 Yrths)
         volume: 2.528 × 10<sup>12</sup> km<sup>3</sup><br/>(2.334 Yrths)
-        mass: 3.033 × 10<sup>24</sup> kg<br />(8.293870993805943 Yrths)
+        mass: 3.033 × 10<sup>24</sup> kg<br />(0.508 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 2.831 m/s<sup>2</sup><br />(0.289 g<sub>0</sub>)
         escape_velocity: 6.922 km/s<br />(24,919 km/h)
         rotation_period: 51.015 d
         axial_tilt: 36.56°
         albedo: 0.30
-        temperature: 2295 K<br />(2021 °C)
+        temperature: 245 K<br />(-29 °C)
       - name: 1896 Arniad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 5,440.0 km<br/>(0.854 Yrths)
         surface_area: 3.719 × 10<sup>08</sup> km<sup>2</sup><br/>(0.729 Yrths)
         volume: 6.743 × 10<sup>11</sup> km<sup>3</sup><br/>(0.623 Yrths)
-        mass: 1.728 × 10<sup>24</sup> kg<br />(8.293870993805943 Yrths)
+        mass: 1.728 × 10<sup>24</sup> kg<br />(0.289 Yrths)
         density: 2.563 g/cm<sup>3</sup>
         surface_gravity: 3.893 m/s<sup>2</sup><br />(0.397 g<sub>0</sub>)
         escape_velocity: 6.512 km/s<br />(23,445 km/h)
         rotation_period: 36.504 d
         axial_tilt: 30.78°
         albedo: 0.30
-        temperature: 2086 K<br />(1813 °C)
+        temperature: 245 K<br />(-29 °C)
       - name: 1896 Arniad II d
         type: Dwarf planet
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 3,493.2 km<br/>(0.548 Yrths)
         surface_area: 1.533 × 10<sup>08</sup> km<sup>2</sup><br/>(0.301 Yrths)
         volume: 1.785 × 10<sup>11</sup> km<sup>3</sup><br/>(0.165 Yrths)
-        mass: 3.877 × 10<sup>23</sup> kg<br />(8.293870993805943 Yrths)
+        mass: 3.877 × 10<sup>23</sup> kg<br />(0.065 Yrths)
         density: 2.172 g/cm<sup>3</sup>
         surface_gravity: 2.118 m/s<sup>2</sup><br />(0.216 g<sub>0</sub>)
         escape_velocity: 3.849 km/s<br />(13,857 km/h)
         rotation_period: 61.905 d
         axial_tilt: 33.14°
         albedo: 0.30
-        temperature: 1989 K<br />(1716 °C)
+        temperature: 245 K<br />(-29 °C)
       - name: 1896 Arniad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -182,14 +182,14 @@ planets:
         radius: 4,137.0 km<br/>(0.649 Yrths)
         surface_area: 2.151 × 10<sup>08</sup> km<sup>2</sup><br/>(0.422 Yrths)
         volume: 2.966 × 10<sup>11</sup> km<sup>3</sup><br/>(0.274 Yrths)
-        mass: 7.669 × 10<sup>23</sup> kg<br />(8.293870993805943 Yrths)
+        mass: 7.669 × 10<sup>23</sup> kg<br />(0.128 Yrths)
         density: 2.586 g/cm<sup>3</sup>
         surface_gravity: 2.987 m/s<sup>2</sup><br />(0.305 g<sub>0</sub>)
         escape_velocity: 4.974 km/s<br />(17,908 km/h)
         rotation_period: 31.433 d
         axial_tilt: 15.77°
         albedo: 0.30
-        temperature: 1896 K<br />(1623 °C)
+        temperature: 245 K<br />(-29 °C)
   - name: 1896 Arniad III
     type: Terrestrial
     aphelion: 259,798,834 km<br />1.737 AU
@@ -201,14 +201,14 @@ planets:
     radius: 6,487.0 km<br/>(1.018 Yrths)
     surface_area: 5.288 × 10<sup>08</sup> km<sup>2</sup><br/>(1.037 Yrths)
     volume: 1.143 × 10<sup>12</sup> km<sup>3</sup><br/>(1.056 Yrths)
-    mass: 5.844 × 10<sup>24</sup> kg<br />(0.9785244543546339 Yrths)
+    mass: 5.844 × 10<sup>24</sup> kg<br />(0.98 Yrths)
     density: 5.111 g/cm<sup>3</sup>
     surface_gravity: 9.256 m/s<sup>2</sup><br />(0.944 g<sub>0</sub>)
     escape_velocity: 10.966 km/s<br />(39,477 km/h)
     rotation_period: 1.212 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 200 K<br />(-73 °C)
+    temperature: 227 K<br />(-46 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 59.4883% nitrogen
@@ -229,14 +229,14 @@ planets:
         radius: 1,983.5 km<br/>(0.311 Yrths)
         surface_area: 4.944 × 10<sup>07</sup> km<sup>2</sup><br/>(0.097 Yrths)
         volume: 3.269 × 10<sup>10</sup> km<sup>3</sup><br/>(0.030 Yrths)
-        mass: 1.133 × 10<sup>23</sup> kg<br />(0.9785244543546339 Yrths)
+        mass: 1.133 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 3.467 g/cm<sup>3</sup>
         surface_gravity: 1.920 m/s<sup>2</sup><br />(0.196 g<sub>0</sub>)
         escape_velocity: 2.762 km/s<br />(9,942 km/h)
         rotation_period: 30.922 d
         axial_tilt: 11.16°
         albedo: 0.30
-        temperature: 2636 K<br />(2363 °C)
+        temperature: 185 K<br />(-88 °C)
   - name: 1896 Arniad IV
     type: Gas giant
     aphelion: 453,066,424 km<br />3.029 AU
@@ -248,7 +248,7 @@ planets:
     radius: 179.5 km<br/>(0.028 Yrths)
     surface_area: 4.050 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.423 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.397 × 10<sup>26</sup> kg<br />(107.11596705110725 Yrths)
+    mass: 6.397 × 10<sup>26</sup> kg<br />(107.12 Yrths)
     density: 26398820.176 g/cm<sup>3</sup>
     surface_gravity: 1323090.371 m/s<sup>2</sup><br />(134917.670 g<sub>0</sub>)
     escape_velocity: 689.691 km/s<br />(2,482,889 km/h)
@@ -269,14 +269,14 @@ planets:
         radius: 121,333.5 km<br/>(19.045 Yrths)
         surface_area: 1.850 × 10<sup>11</sup> km<sup>2</sup><br/>(362.699 Yrths)
         volume: 7.482 × 10<sup>15</sup> km<sup>3</sup><br/>(6907.472 Yrths)
-        mass: 9.659 × 10<sup>27</sup> kg<br />(107.11596705110725 Yrths)
+        mass: 9.659 × 10<sup>27</sup> kg<br />(1617.426 Yrths)
         density: 1.291 g/cm<sup>3</sup>
         surface_gravity: 43.732 m/s<sup>2</sup><br />(4.459 g<sub>0</sub>)
         escape_velocity: 103.086 km/s<br />(371,110 km/h)
         rotation_period: 48.477 d
         axial_tilt: 23.09°
         albedo: 0.30
-        temperature: 856 K<br />(583 °C)
+        temperature: 140 K<br />(-133 °C)
       - name: 1896 Arniad IV b
         type: Icy
         formationType: Accreted
@@ -289,14 +289,14 @@ planets:
         radius: 125,447.0 km<br/>(19.690 Yrths)
         surface_area: 1.978 × 10<sup>11</sup> km<sup>2</sup><br/>(387.709 Yrths)
         volume: 8.269 × 10<sup>15</sup> km<sup>3</sup><br/>(7634.106 Yrths)
-        mass: 1.064 × 10<sup>28</sup> kg<br />(107.11596705110725 Yrths)
+        mass: 1.064 × 10<sup>28</sup> kg<br />(1781.280 Yrths)
         density: 1.286 g/cm<sup>3</sup>
         surface_gravity: 45.055 m/s<sup>2</sup><br />(4.594 g<sub>0</sub>)
         escape_velocity: 106.393 km/s<br />(383,015 km/h)
         rotation_period: 48.920 d
         axial_tilt: 27.00°
         albedo: 0.30
-        temperature: 742 K<br />(469 °C)
+        temperature: 140 K<br />(-133 °C)
       - name: 1896 Arniad IV c
         type: Icy
         formationType: Captured
@@ -309,14 +309,14 @@ planets:
         radius: 142,855.8 km<br/>(22.423 Yrths)
         surface_area: 2.565 × 10<sup>11</sup> km<sup>2</sup><br/>(502.783 Yrths)
         volume: 1.221 × 10<sup>16</sup> km<sup>3</sup><br/>(11273.821 Yrths)
-        mass: 1.552 × 10<sup>28</sup> kg<br />(107.11596705110725 Yrths)
+        mass: 1.552 × 10<sup>28</sup> kg<br />(2598.867 Yrths)
         density: 1.271 g/cm<sup>3</sup>
         surface_gravity: 50.690 m/s<sup>2</sup><br />(5.169 g<sub>0</sub>)
         escape_velocity: 120.426 km/s<br />(433,534 km/h)
         rotation_period: 68.151 d
         axial_tilt: 20.97°
         albedo: 0.30
-        temperature: 643 K<br />(370 °C)
+        temperature: 140 K<br />(-133 °C)
       - name: 1896 Arniad IV d
         type: Icy
         formationType: Captured
@@ -329,14 +329,14 @@ planets:
         radius: 130,334.7 km<br/>(20.458 Yrths)
         surface_area: 2.135 × 10<sup>11</sup> km<sup>2</sup><br/>(418.509 Yrths)
         volume: 9.274 × 10<sup>15</sup> km<sup>3</sup><br/>(8561.657 Yrths)
-        mass: 8.889 × 10<sup>27</sup> kg<br />(107.11596705110725 Yrths)
+        mass: 8.889 × 10<sup>27</sup> kg<br />(1488.516 Yrths)
         density: 0.959 g/cm<sup>3</sup>
         surface_gravity: 34.879 m/s<sup>2</sup><br />(3.557 g<sub>0</sub>)
         escape_velocity: 95.417 km/s<br />(343,500 km/h)
         rotation_period: 89.117 d
         axial_tilt: 21.73°
         albedo: 0.30
-        temperature: 461 K<br />(188 °C)
+        temperature: 140 K<br />(-133 °C)
       - name: 1896 Arniad IV e
         type: Icy
         formationType: Captured
@@ -349,14 +349,14 @@ planets:
         radius: 219,768.1 km<br/>(34.495 Yrths)
         surface_area: 6.069 × 10<sup>11</sup> km<sup>2</sup><br/>(1189.910 Yrths)
         volume: 4.446 × 10<sup>16</sup> km<sup>3</sup><br/>(41046.011 Yrths)
-        mass: 3.829 × 10<sup>28</sup> kg<br />(107.11596705110725 Yrths)
+        mass: 3.829 × 10<sup>28</sup> kg<br />(6411.038 Yrths)
         density: 0.861 g/cm<sup>3</sup>
         surface_gravity: 52.837 m/s<sup>2</sup><br />(5.388 g<sub>0</sub>)
         escape_velocity: 152.496 km/s<br />(548,987 km/h)
         rotation_period: 82.801 d
         axial_tilt: 16.72°
         albedo: 0.30
-        temperature: 439 K<br />(166 °C)
+        temperature: 140 K<br />(-133 °C)
       - name: 1896 Arniad IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -369,14 +369,14 @@ planets:
         radius: 130,598.6 km<br/>(20.499 Yrths)
         surface_area: 2.143 × 10<sup>11</sup> km<sup>2</sup><br/>(420.206 Yrths)
         volume: 9.330 × 10<sup>15</sup> km<sup>3</sup><br/>(8613.767 Yrths)
-        mass: 1.611 × 10<sup>28</sup> kg<br />(107.11596705110725 Yrths)
+        mass: 1.611 × 10<sup>28</sup> kg<br />(2697.186 Yrths)
         density: 1.726 g/cm<sup>3</sup>
         surface_gravity: 62.946 m/s<sup>2</sup><br />(6.419 g<sub>0</sub>)
         escape_velocity: 128.311 km/s<br />(461,920 km/h)
         rotation_period: 69.376 d
         axial_tilt: 31.48°
         albedo: 0.30
-        temperature: 399 K<br />(126 °C)
+        temperature: 140 K<br />(-133 °C)
   - name: 1896 Arniad V
     type: Gas giant
     aphelion: 818,227,924 km<br />5.469 AU
@@ -388,7 +388,7 @@ planets:
     radius: 147.1 km<br/>(0.023 Yrths)
     surface_area: 2.718 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.333 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.703 × 10<sup>26</sup> kg<br />(45.25860029162739 Yrths)
+    mass: 2.703 × 10<sup>26</sup> kg<br />(45.26 Yrths)
     density: 20280928.047 g/cm<sup>3</sup>
     surface_gravity: 832799.933 m/s<sup>2</sup><br />(84921.959 g<sub>0</sub>)
     escape_velocity: 495.284 km/s<br />(1,783,022 km/h)
@@ -409,14 +409,14 @@ planets:
         radius: 81,632.9 km<br/>(12.813 Yrths)
         surface_area: 8.374 × 10<sup>10</sup> km<sup>2</sup><br/>(164.178 Yrths)
         volume: 2.279 × 10<sup>15</sup> km<sup>3</sup><br/>(2103.648 Yrths)
-        mass: 5.363 × 10<sup>27</sup> kg<br />(45.25860029162739 Yrths)
+        mass: 5.363 × 10<sup>27</sup> kg<br />(898.013 Yrths)
         density: 2.354 g/cm<sup>3</sup>
         surface_gravity: 53.640 m/s<sup>2</sup><br />(5.470 g<sub>0</sub>)
         escape_velocity: 93.645 km/s<br />(337,123 km/h)
         rotation_period: 33.887 d
         axial_tilt: 49.06°
         albedo: 0.30
-        temperature: 487 K<br />(214 °C)
+        temperature: 106 K<br />(-167 °C)
       - name: 1896 Arniad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -429,14 +429,14 @@ planets:
         radius: 70,648.0 km<br/>(11.089 Yrths)
         surface_area: 6.272 × 10<sup>10</sup> km<sup>2</sup><br/>(122.966 Yrths)
         volume: 1.477 × 10<sup>15</sup> km<sup>3</sup><br/>(1363.570 Yrths)
-        mass: 2.900 × 10<sup>27</sup> kg<br />(45.25860029162739 Yrths)
+        mass: 2.900 × 10<sup>27</sup> kg<br />(485.606 Yrths)
         density: 1.963 g/cm<sup>3</sup>
         surface_gravity: 38.728 m/s<sup>2</sup><br />(3.949 g<sub>0</sub>)
         escape_velocity: 74.024 km/s<br />(266,485 km/h)
         rotation_period: 44.198 d
         axial_tilt: 30.54°
         albedo: 0.30
-        temperature: 443 K<br />(170 °C)
+        temperature: 106 K<br />(-167 °C)
       - name: 1896 Arniad V c
         type: Icy
         formationType: Accreted
@@ -449,14 +449,14 @@ planets:
         radius: 61,859.9 km<br/>(9.710 Yrths)
         surface_area: 4.809 × 10<sup>10</sup> km<sup>2</sup><br/>(94.276 Yrths)
         volume: 9.916 × 10<sup>14</sup> km<sup>3</sup><br/>(915.388 Yrths)
-        mass: 1.057 × 10<sup>27</sup> kg<br />(45.25860029162739 Yrths)
+        mass: 1.057 × 10<sup>27</sup> kg<br />(177.013 Yrths)
         density: 1.066 g/cm<sup>3</sup>
         surface_gravity: 18.413 m/s<sup>2</sup><br />(1.878 g<sub>0</sub>)
         escape_velocity: 47.761 km/s<br />(171,941 km/h)
         rotation_period: 64.085 d
         axial_tilt: 22.33°
         albedo: 0.30
-        temperature: 366 K<br />(93 °C)
+        temperature: 106 K<br />(-167 °C)
       - name: 1896 Arniad V d
         type: Ice/rock hybrid
         formationType: Captured
@@ -469,35 +469,15 @@ planets:
         radius: 56,213.5 km<br/>(8.823 Yrths)
         surface_area: 3.971 × 10<sup>10</sup> km<sup>2</sup><br/>(77.851 Yrths)
         volume: 7.441 × 10<sup>14</sup> km<sup>3</sup><br/>(686.909 Yrths)
-        mass: 1.857 × 10<sup>27</sup> kg<br />(45.25860029162739 Yrths)
+        mass: 1.857 × 10<sup>27</sup> kg<br />(310.946 Yrths)
         density: 2.496 g/cm<sup>3</sup>
         surface_gravity: 39.169 m/s<sup>2</sup><br />(3.994 g<sub>0</sub>)
         escape_velocity: 66.405 km/s<br />(239,057 km/h)
         rotation_period: 39.230 d
         axial_tilt: 21.72°
         albedo: 0.30
-        temperature: 333 K<br />(60 °C)
+        temperature: 106 K<br />(-167 °C)
       - name: 1896 Arniad V e
-        type: Icy
-        formationType: Accreted
-        aphelion: 122,464,387 km<br />
-        perihelion: 113,011,350 km<br />
-        semi_major_axis: 117,737,869 km<br />
-        eccentricity: 0.040
-        orbital_period: 0.11 d<br />
-        inclination: 5.32°
-        radius: 42,289.0 km<br/>(6.638 Yrths)
-        surface_area: 2.247 × 10<sup>10</sup> km<sup>2</sup><br/>(44.060 Yrths)
-        volume: 3.168 × 10<sup>14</sup> km<sup>3</sup><br/>(292.455 Yrths)
-        mass: 2.667 × 10<sup>26</sup> kg<br />(45.25860029162739 Yrths)
-        density: 0.842 g/cm<sup>3</sup>
-        surface_gravity: 9.941 m/s<sup>2</sup><br />(1.014 g<sub>0</sub>)
-        escape_velocity: 29.015 km/s<br />(104,455 km/h)
-        rotation_period: 56.958 d
-        axial_tilt: 11.59°
-        albedo: 0.30
-        temperature: 275 K<br />(2 °C)
-      - name: 1896 Arniad V f
         type: Rocky
         formationType: Captured
         aphelion: 352,150,463 km<br />
@@ -509,14 +489,14 @@ planets:
         radius: 44,951.5 km<br/>(7.056 Yrths)
         surface_area: 2.539 × 10<sup>10</sup> km<sup>2</sup><br/>(49.782 Yrths)
         volume: 3.805 × 10<sup>14</sup> km<sup>3</sup><br/>(351.244 Yrths)
-        mass: 1.193 × 10<sup>27</sup> kg<br />(45.25860029162739 Yrths)
+        mass: 1.193 × 10<sup>27</sup> kg<br />(199.696 Yrths)
         density: 3.134 g/cm<sup>3</sup>
         surface_gravity: 39.338 m/s<sup>2</sup><br />(4.011 g<sub>0</sub>)
         escape_velocity: 59.510 km/s<br />(214,236 km/h)
         rotation_period: 41.589 d
         axial_tilt: 16.99°
         albedo: 0.30
-        temperature: 163 K<br />(-110 °C)
+        temperature: 106 K<br />(-167 °C)
   - name: 1896 Arniad VI
     type: Large terrestrial
     aphelion: 1,487,243,830 km<br />9.941 AU
@@ -528,14 +508,14 @@ planets:
     radius: 9,242.4 km<br/>(1.451 Yrths)
     surface_area: 1.073 × 10<sup>09</sup> km<sup>2</sup><br/>(2.105 Yrths)
     volume: 3.307 × 10<sup>12</sup> km<sup>3</sup><br/>(3.053 Yrths)
-    mass: 2.009 × 10<sup>25</sup> kg<br />(3.3635727685461703 Yrths)
+    mass: 2.009 × 10<sup>25</sup> kg<br />(3.36 Yrths)
     density: 6.074 g/cm<sup>3</sup>
     surface_gravity: 15.673 m/s<sup>2</sup><br />(1.598 g<sub>0</sub>)
     escape_velocity: 17.033 km/s<br />(61,318 km/h)
     rotation_period: 0.687 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 101 K<br />(-172 °C)
+    temperature: 88 K<br />(-185 °C)
     surface_pressure: 247 kPa<br />(2 atm)
     composition:
       - 96.2133% nitrogen
@@ -555,14 +535,14 @@ planets:
         radius: 4,476.0 km<br/>(0.703 Yrths)
         surface_area: 2.518 × 10<sup>08</sup> km<sup>2</sup><br/>(0.494 Yrths)
         volume: 3.756 × 10<sup>11</sup> km<sup>3</sup><br/>(0.347 Yrths)
-        mass: 8.363 × 10<sup>23</sup> kg<br />(3.3635727685461703 Yrths)
+        mass: 8.363 × 10<sup>23</sup> kg<br />(0.140 Yrths)
         density: 2.226 g/cm<sup>3</sup>
         surface_gravity: 2.782 m/s<sup>2</sup><br />(0.284 g<sub>0</sub>)
         escape_velocity: 4.994 km/s<br />(17,978 km/h)
         rotation_period: 57.294 d
         axial_tilt: 16.79°
         albedo: 0.30
-        temperature: 918 K<br />(644 °C)
+        temperature: 80 K<br />(-193 °C)
       - name: 1896 Arniad VI b
         type: Ice/rock hybrid
         formationType: Captured
@@ -575,14 +555,14 @@ planets:
         radius: 3,220.7 km<br/>(0.506 Yrths)
         surface_area: 1.303 × 10<sup>08</sup> km<sup>2</sup><br/>(0.256 Yrths)
         volume: 1.399 × 10<sup>11</sup> km<sup>3</sup><br/>(0.129 Yrths)
-        mass: 3.166 × 10<sup>23</sup> kg<br />(3.3635727685461703 Yrths)
+        mass: 3.166 × 10<sup>23</sup> kg<br />(0.053 Yrths)
         density: 2.262 g/cm<sup>3</sup>
         surface_gravity: 2.034 m/s<sup>2</sup><br />(0.207 g<sub>0</sub>)
         escape_velocity: 3.622 km/s<br />(13,041 km/h)
         rotation_period: 62.388 d
         axial_tilt: 21.35°
         albedo: 0.30
-        temperature: 875 K<br />(602 °C)
+        temperature: 80 K<br />(-193 °C)
       - name: 1896 Arniad VI c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -595,14 +575,14 @@ planets:
         radius: 3,486.0 km<br/>(0.547 Yrths)
         surface_area: 1.527 × 10<sup>08</sup> km<sup>2</sup><br/>(0.299 Yrths)
         volume: 1.774 × 10<sup>11</sup> km<sup>3</sup><br/>(0.164 Yrths)
-        mass: 3.798 × 10<sup>23</sup> kg<br />(3.3635727685461703 Yrths)
+        mass: 3.798 × 10<sup>23</sup> kg<br />(0.064 Yrths)
         density: 2.140 g/cm<sup>3</sup>
         surface_gravity: 2.083 m/s<sup>2</sup><br />(0.212 g<sub>0</sub>)
         escape_velocity: 3.813 km/s<br />(13,728 km/h)
         rotation_period: 39.644 d
         axial_tilt: 29.78°
         albedo: 0.30
-        temperature: 834 K<br />(561 °C)
+        temperature: 80 K<br />(-193 °C)
       - name: 1896 Arniad VI d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -615,14 +595,14 @@ planets:
         radius: 5,269.2 km<br/>(0.827 Yrths)
         surface_area: 3.489 × 10<sup>08</sup> km<sup>2</sup><br/>(0.684 Yrths)
         volume: 6.128 × 10<sup>11</sup> km<sup>3</sup><br/>(0.566 Yrths)
-        mass: 1.214 × 10<sup>24</sup> kg<br />(3.3635727685461703 Yrths)
+        mass: 1.214 × 10<sup>24</sup> kg<br />(0.203 Yrths)
         density: 1.981 g/cm<sup>3</sup>
         surface_gravity: 2.914 m/s<sup>2</sup><br />(0.297 g<sub>0</sub>)
         escape_velocity: 5.545 km/s<br />(19,962 km/h)
         rotation_period: 53.273 d
         axial_tilt: 15.18°
         albedo: 0.30
-        temperature: 795 K<br />(522 °C)
+        temperature: 80 K<br />(-193 °C)
   - name: 1896 Arniad VII
     type: Ice giant
     aphelion: 2,402,901,230 km<br />16.062 AU
@@ -634,14 +614,14 @@ planets:
     radius: 19,753.9 km<br/>(3.101 Yrths)
     surface_area: 4.904 × 10<sup>09</sup> km<sup>2</sup><br/>(9.614 Yrths)
     volume: 3.229 × 10<sup>13</sup> km<sup>3</sup><br/>(29.808 Yrths)
-    mass: 4.550 × 10<sup>25</sup> kg<br />(7.618571217570726 Yrths)
+    mass: 4.550 × 10<sup>25</sup> kg<br />(7.62 Yrths)
     density: 1.409 g/cm<sup>3</sup>
     surface_gravity: 7.772 m/s<sup>2</sup><br />(0.792 g<sub>0</sub>)
     escape_velocity: 17.534 km/s<br />(63,123 km/h)
     rotation_period: 0.398 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 114 K<br />(-159 °C)
+    temperature: 105 K<br />(-168 °C)
     composition:
       - 60.1234% hydrogen
       - 36.6687% helium
@@ -660,14 +640,14 @@ planets:
         radius: 7,158.4 km<br/>(1.124 Yrths)
         surface_area: 6.439 × 10<sup>08</sup> km<sup>2</sup><br/>(1.262 Yrths)
         volume: 1.537 × 10<sup>12</sup> km<sup>3</sup><br/>(1.418 Yrths)
-        mass: 3.113 × 10<sup>24</sup> kg<br />(7.618571217570726 Yrths)
+        mass: 3.113 × 10<sup>24</sup> kg<br />(0.521 Yrths)
         density: 2.026 g/cm<sup>3</sup>
         surface_gravity: 4.049 m/s<sup>2</sup><br />(0.413 g<sub>0</sub>)
         escape_velocity: 7.619 km/s<br />(27,428 km/h)
         rotation_period: 47.610 d
         axial_tilt: 19.78°
         albedo: 0.30
-        temperature: 608 K<br />(335 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 1896 Arniad VII b
         type: Icy
         formationType: Accreted
@@ -680,14 +660,14 @@ planets:
         radius: 20,644.5 km<br/>(3.240 Yrths)
         surface_area: 5.356 × 10<sup>09</sup> km<sup>2</sup><br/>(10.500 Yrths)
         volume: 3.686 × 10<sup>13</sup> km<sup>3</sup><br/>(34.024 Yrths)
-        mass: 5.264 × 10<sup>25</sup> kg<br />(7.618571217570726 Yrths)
+        mass: 5.264 × 10<sup>25</sup> kg<br />(8.814 Yrths)
         density: 1.428 g/cm<sup>3</sup>
         surface_gravity: 8.232 m/s<sup>2</sup><br />(0.839 g<sub>0</sub>)
         escape_velocity: 18.449 km/s<br />(66,416 km/h)
         rotation_period: 44.970 d
         axial_tilt: 14.01°
         albedo: 0.30
-        temperature: 580 K<br />(307 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 1896 Arniad VII c
         type: Icy
         formationType: Captured
@@ -700,14 +680,14 @@ planets:
         radius: 13,611.8 km<br/>(2.137 Yrths)
         surface_area: 2.328 × 10<sup>09</sup> km<sup>2</sup><br/>(4.565 Yrths)
         volume: 1.056 × 10<sup>13</sup> km<sup>3</sup><br/>(9.753 Yrths)
-        mass: 1.302 × 10<sup>25</sup> kg<br />(7.618571217570726 Yrths)
+        mass: 1.302 × 10<sup>25</sup> kg<br />(2.180 Yrths)
         density: 1.233 g/cm<sup>3</sup>
         surface_gravity: 4.684 m/s<sup>2</sup><br />(0.478 g<sub>0</sub>)
         escape_velocity: 11.300 km/s<br />(40,680 km/h)
         rotation_period: 54.819 d
         axial_tilt: 9.58°
         albedo: 0.30
-        temperature: 553 K<br />(280 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 1896 Arniad VII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -720,14 +700,14 @@ planets:
         radius: 13,005.7 km<br/>(2.041 Yrths)
         surface_area: 2.126 × 10<sup>09</sup> km<sup>2</sup><br/>(4.167 Yrths)
         volume: 9.215 × 10<sup>12</sup> km<sup>3</sup><br/>(8.507 Yrths)
-        mass: 1.818 × 10<sup>25</sup> kg<br />(7.618571217570726 Yrths)
+        mass: 1.818 × 10<sup>25</sup> kg<br />(3.044 Yrths)
         density: 1.973 g/cm<sup>3</sup>
         surface_gravity: 7.163 m/s<sup>2</sup><br />(0.730 g<sub>0</sub>)
         escape_velocity: 13.659 km/s<br />(49,173 km/h)
         rotation_period: 49.347 d
         axial_tilt: 19.36°
         albedo: 0.30
-        temperature: 527 K<br />(254 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 1896 Arniad VII e
         type: Ice/rock hybrid
         formationType: Captured
@@ -740,14 +720,14 @@ planets:
         radius: 19,683.1 km<br/>(3.089 Yrths)
         surface_area: 4.868 × 10<sup>09</sup> km<sup>2</sup><br/>(9.545 Yrths)
         volume: 3.194 × 10<sup>13</sup> km<sup>3</sup><br/>(29.489 Yrths)
-        mass: 7.358 × 10<sup>25</sup> kg<br />(7.618571217570726 Yrths)
+        mass: 7.358 × 10<sup>25</sup> kg<br />(12.320 Yrths)
         density: 2.303 g/cm<sup>3</sup>
         surface_gravity: 12.658 m/s<sup>2</sup><br />(1.291 g<sub>0</sub>)
         escape_velocity: 22.338 km/s<br />(80,417 km/h)
         rotation_period: 36.754 d
         axial_tilt: 20.75°
         albedo: 0.30
-        temperature: 503 K<br />(229 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 1896 Arniad VII f
         type: Ice/rock hybrid
         formationType: Captured
@@ -760,12 +740,12 @@ planets:
         radius: 11,989.6 km<br/>(1.882 Yrths)
         surface_area: 1.806 × 10<sup>09</sup> km<sup>2</sup><br/>(3.542 Yrths)
         volume: 7.219 × 10<sup>12</sup> km<sup>3</sup><br/>(6.665 Yrths)
-        mass: 1.981 × 10<sup>25</sup> kg<br />(7.618571217570726 Yrths)
+        mass: 1.981 × 10<sup>25</sup> kg<br />(3.317 Yrths)
         density: 2.744 g/cm<sup>3</sup>
         surface_gravity: 9.186 m/s<sup>2</sup><br />(0.937 g<sub>0</sub>)
         escape_velocity: 14.852 km/s<br />(53,466 km/h)
         rotation_period: 46.483 d
         axial_tilt: 18.28°
         albedo: 0.30
-        temperature: 479 K<br />(206 °C)
+        temperature: 61 K<br />(-212 °C)
 ---

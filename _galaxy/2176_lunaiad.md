@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2176 Lunaiad is a star in the constellation Luna
+      2176 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 637.08 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 4.86

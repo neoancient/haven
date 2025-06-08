@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0093 Neralniad is a star in the constellation Neraln
+      0093 Neralniad is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 198.18 ly
 apparent_magnitude: 6.20
 absolute_magnitude: 2.28
@@ -31,14 +31,14 @@ planets:
     radius: 9,387.1 km<br/>(1.473 Yrths)
     surface_area: 1.107 × 10<sup>09</sup> km<sup>2</sup><br/>(2.171 Yrths)
     volume: 3.465 × 10<sup>12</sup> km<sup>3</sup><br/>(3.199 Yrths)
-    mass: 1.581 × 10<sup>25</sup> kg<br />(2.6465942813868453 Yrths)
+    mass: 1.581 × 10<sup>25</sup> kg<br />(2.65 Yrths)
     density: 4.562 g/cm<sup>3</sup>
     surface_gravity: 11.955 m/s<sup>2</sup><br />(1.219 g<sub>0</sub>)
     escape_velocity: 14.992 km/s<br />(53,971 km/h)
     rotation_period: 0.819 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 478 K<br />(205 °C)
+    temperature: 613 K<br />(340 °C)
     surface_pressure: 70 kPa<br />(1 atm)
     composition:
       - 98.0786% methane
@@ -57,14 +57,14 @@ planets:
         radius: 5,454.6 km<br/>(0.856 Yrths)
         surface_area: 3.739 × 10<sup>08</sup> km<sup>2</sup><br/>(0.733 Yrths)
         volume: 6.798 × 10<sup>11</sup> km<sup>3</sup><br/>(0.628 Yrths)
-        mass: 2.078 × 10<sup>24</sup> kg<br />(2.6465942813868453 Yrths)
+        mass: 2.078 × 10<sup>24</sup> kg<br />(0.348 Yrths)
         density: 3.057 g/cm<sup>3</sup>
         surface_gravity: 4.656 m/s<sup>2</sup><br />(0.475 g<sub>0</sub>)
         escape_velocity: 7.132 km/s<br />(25,674 km/h)
         rotation_period: 42.468 d
         axial_tilt: 11.54°
         albedo: 0.30
-        temperature: 5318 K<br />(5045 °C)
+        temperature: 385 K<br />(112 °C)
   - name: 0093 Neralniad II
     type: Terrestrial
     aphelion: 469,302,836 km<br />3.137 AU
@@ -76,14 +76,14 @@ planets:
     radius: 6,060.6 km<br/>(0.951 Yrths)
     surface_area: 4.616 × 10<sup>08</sup> km<sup>2</sup><br/>(0.905 Yrths)
     volume: 9.325 × 10<sup>11</sup> km<sup>3</sup><br/>(0.861 Yrths)
-    mass: 4.175 × 10<sup>24</sup> kg<br />(0.699076627242547 Yrths)
+    mass: 4.175 × 10<sup>24</sup> kg<br />(0.70 Yrths)
     density: 4.477 g/cm<sup>3</sup>
     surface_gravity: 7.576 m/s<sup>2</sup><br />(0.773 g<sub>0</sub>)
     escape_velocity: 9.589 km/s<br />(34,521 km/h)
     rotation_period: 1.144 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 339 K<br />(66 °C)
+    temperature: 388 K<br />(115 °C)
     surface_pressure: 65 kPa<br />(1 atm)
     composition:
       - 83.1723% nitrogen
@@ -103,12 +103,12 @@ planets:
         radius: 2,662.8 km<br/>(0.418 Yrths)
         surface_area: 8.910 × 10<sup>07</sup> km<sup>2</sup><br/>(0.175 Yrths)
         volume: 7.909 × 10<sup>10</sup> km<sup>3</sup><br/>(0.073 Yrths)
-        mass: 1.775 × 10<sup>23</sup> kg<br />(0.699076627242547 Yrths)
+        mass: 1.775 × 10<sup>23</sup> kg<br />(0.030 Yrths)
         density: 2.244 g/cm<sup>3</sup>
         surface_gravity: 1.668 m/s<sup>2</sup><br />(0.170 g<sub>0</sub>)
         escape_velocity: 2.983 km/s<br />(10,738 km/h)
         rotation_period: 43.229 d
         axial_tilt: 37.24°
         albedo: 0.30
-        temperature: 4728 K<br />(4455 °C)
+        temperature: 279 K<br />(6 °C)
 ---

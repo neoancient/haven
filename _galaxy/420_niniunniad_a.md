@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      420 Niniunniad A is a star in the constellation Niniun
+      420 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 145.55 ly
 apparent_magnitude: 8.82
 absolute_magnitude: 5.57

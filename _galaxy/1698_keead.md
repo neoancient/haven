@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1698 Keead is a star in the constellation Kee
+      1698 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 366.37 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 4.73

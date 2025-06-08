@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0029 Oniad C is a star in the constellation Oni
+      0029 Oniad C is a star in the constellation <a href="oni.html">Oni</a>
 distance: 268.72 ly
 apparent_magnitude: 8.67
 absolute_magnitude: 4.09
@@ -31,14 +31,14 @@ planets:
     radius: 49.0 km<br/>(0.008 Yrths)
     surface_area: 3.022 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 4.940 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.510 × 10<sup>24</sup> kg<br />(0.420349985798449 Yrths)
+    mass: 2.510 × 10<sup>24</sup> kg<br />(0.42 Yrths)
     density: 5081827.486 g/cm<sup>3</sup>
     surface_gravity: 69576.949 m/s<sup>2</sup><br />(7094.874 g<sub>0</sub>)
     escape_velocity: 82.663 km/s<br />(297,588 km/h)
     rotation_period: 0.454 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 685 K<br />(412 °C)
+    temperature: 643 K<br />(369 °C)
     composition:
       - 100.0000% helium
     moons:
@@ -54,14 +54,14 @@ planets:
         radius: 3,358.0 km<br/>(0.527 Yrths)
         surface_area: 1.417 × 10<sup>08</sup> km<sup>2</sup><br/>(0.278 Yrths)
         volume: 1.586 × 10<sup>11</sup> km<sup>3</sup><br/>(0.146 Yrths)
-        mass: 1.353 × 10<sup>23</sup> kg<br />(0.420349985798449 Yrths)
+        mass: 1.353 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 0.853 g/cm<sup>3</sup>
         surface_gravity: 0.800 m/s<sup>2</sup><br />(0.082 g<sub>0</sub>)
         escape_velocity: 2.319 km/s<br />(8,348 km/h)
         rotation_period: 83.548 d
         axial_tilt: 13.59°
         albedo: 0.30
-        temperature: 1205 K<br />(932 °C)
+        temperature: 219 K<br />(-55 °C)
       - name: 0029 Oniad C I b
         type: Icy
         formationType: Impact formed
@@ -74,14 +74,14 @@ planets:
         radius: 2,623.5 km<br/>(0.412 Yrths)
         surface_area: 8.649 × 10<sup>07</sup> km<sup>2</sup><br/>(0.170 Yrths)
         volume: 7.564 × 10<sup>10</sup> km<sup>3</sup><br/>(0.070 Yrths)
-        mass: 9.534 × 10<sup>22</sup> kg<br />(0.420349985798449 Yrths)
+        mass: 9.534 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 1.261 g/cm<sup>3</sup>
         surface_gravity: 0.923 m/s<sup>2</sup><br />(0.094 g<sub>0</sub>)
         escape_velocity: 2.203 km/s<br />(7,929 km/h)
         rotation_period: 51.172 d
         axial_tilt: 14.90°
         albedo: 0.30
-        temperature: 1149 K<br />(876 °C)
+        temperature: 219 K<br />(-55 °C)
       - name: 0029 Oniad C I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -94,14 +94,14 @@ planets:
         radius: 3,052.7 km<br/>(0.479 Yrths)
         surface_area: 1.171 × 10<sup>08</sup> km<sup>2</sup><br/>(0.230 Yrths)
         volume: 1.192 × 10<sup>11</sup> km<sup>3</sup><br/>(0.110 Yrths)
-        mass: 2.397 × 10<sup>23</sup> kg<br />(0.420349985798449 Yrths)
+        mass: 2.397 × 10<sup>23</sup> kg<br />(0.040 Yrths)
         density: 2.012 g/cm<sup>3</sup>
         surface_gravity: 1.714 m/s<sup>2</sup><br />(0.175 g<sub>0</sub>)
         escape_velocity: 3.237 km/s<br />(11,655 km/h)
         rotation_period: 47.559 d
         axial_tilt: 17.96°
         albedo: 0.30
-        temperature: 996 K<br />(723 °C)
+        temperature: 219 K<br />(-55 °C)
       - name: 0029 Oniad C I d
         type: Icy
         formationType: Impact formed
@@ -114,14 +114,14 @@ planets:
         radius: 3,657.9 km<br/>(0.574 Yrths)
         surface_area: 1.681 × 10<sup>08</sup> km<sup>2</sup><br/>(0.330 Yrths)
         volume: 2.050 × 10<sup>11</sup> km<sup>3</sup><br/>(0.189 Yrths)
-        mass: 2.521 × 10<sup>23</sup> kg<br />(0.420349985798449 Yrths)
+        mass: 2.521 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 1.230 g/cm<sup>3</sup>
         surface_gravity: 1.256 m/s<sup>2</sup><br />(0.128 g<sub>0</sub>)
         escape_velocity: 3.033 km/s<br />(10,919 km/h)
         rotation_period: 57.021 d
         axial_tilt: 10.69°
         albedo: 0.30
-        temperature: 950 K<br />(676 °C)
+        temperature: 219 K<br />(-55 °C)
       - name: 0029 Oniad C I e
         type: Icy
         formationType: Accreted
@@ -134,14 +134,14 @@ planets:
         radius: 3,760.7 km<br/>(0.590 Yrths)
         surface_area: 1.777 × 10<sup>08</sup> km<sup>2</sup><br/>(0.348 Yrths)
         volume: 2.228 × 10<sup>11</sup> km<sup>3</sup><br/>(0.206 Yrths)
-        mass: 3.129 × 10<sup>23</sup> kg<br />(0.420349985798449 Yrths)
+        mass: 3.129 × 10<sup>23</sup> kg<br />(0.052 Yrths)
         density: 1.405 g/cm<sup>3</sup>
         surface_gravity: 1.475 m/s<sup>2</sup><br />(0.150 g<sub>0</sub>)
         escape_velocity: 3.333 km/s<br />(11,998 km/h)
         rotation_period: 63.713 d
         axial_tilt: 12.77°
         albedo: 0.30
-        temperature: 863 K<br />(590 °C)
+        temperature: 219 K<br />(-55 °C)
       - name: 0029 Oniad C I f
         type: Icy
         formationType: Accreted
@@ -154,14 +154,14 @@ planets:
         radius: 2,527.5 km<br/>(0.397 Yrths)
         surface_area: 8.028 × 10<sup>07</sup> km<sup>2</sup><br/>(0.157 Yrths)
         volume: 6.763 × 10<sup>10</sup> km<sup>3</sup><br/>(0.062 Yrths)
-        mass: 1.115 × 10<sup>23</sup> kg<br />(0.420349985798449 Yrths)
+        mass: 1.115 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 1.648 g/cm<sup>3</sup>
         surface_gravity: 1.163 m/s<sup>2</sup><br />(0.119 g<sub>0</sub>)
         escape_velocity: 2.427 km/s<br />(8,736 km/h)
         rotation_period: 69.024 d
         axial_tilt: 12.54°
         albedo: 0.30
-        temperature: 713 K<br />(440 °C)
+        temperature: 219 K<br />(-55 °C)
   - name: 0029 Oniad C II
     type: Large terrestrial
     aphelion: 575,756,360 km<br />3.849 AU
@@ -173,14 +173,14 @@ planets:
     radius: 7,397.5 km<br/>(1.161 Yrths)
     surface_area: 6.877 × 10<sup>08</sup> km<sup>2</sup><br/>(1.348 Yrths)
     volume: 1.696 × 10<sup>12</sup> km<sup>3</sup><br/>(1.565 Yrths)
-    mass: 1.033 × 10<sup>25</sup> kg<br />(1.7300843707383993 Yrths)
+    mass: 1.033 × 10<sup>25</sup> kg<br />(1.73 Yrths)
     density: 6.093 g/cm<sup>3</sup>
     surface_gravity: 12.584 m/s<sup>2</sup><br />(1.283 g<sub>0</sub>)
     escape_velocity: 13.654 km/s<br />(49,155 km/h)
     rotation_period: 0.826 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 215 K<br />(-59 °C)
+    temperature: 300 K<br />(27 °C)
     surface_pressure: 369 kPa<br />(4 atm)
     composition:
       - 89.3931% methane
@@ -200,14 +200,14 @@ planets:
         radius: 2,787.9 km<br/>(0.438 Yrths)
         surface_area: 9.767 × 10<sup>07</sup> km<sup>2</sup><br/>(0.191 Yrths)
         volume: 9.077 × 10<sup>10</sup> km<sup>3</sup><br/>(0.084 Yrths)
-        mass: 2.567 × 10<sup>23</sup> kg<br />(1.7300843707383993 Yrths)
+        mass: 2.567 × 10<sup>23</sup> kg<br />(0.043 Yrths)
         density: 2.828 g/cm<sup>3</sup>
         surface_gravity: 2.201 m/s<sup>2</sup><br />(0.224 g<sub>0</sub>)
         escape_velocity: 3.506 km/s<br />(12,620 km/h)
         rotation_period: 41.582 d
         axial_tilt: 11.04°
         albedo: 0.30
-        temperature: 2271 K<br />(1998 °C)
+        temperature: 154 K<br />(-119 °C)
       - name: 0029 Oniad C II b
         type: Rocky
         formationType: Impact formed
@@ -220,14 +220,14 @@ planets:
         radius: 4,232.3 km<br/>(0.664 Yrths)
         surface_area: 2.251 × 10<sup>08</sup> km<sup>2</sup><br/>(0.441 Yrths)
         volume: 3.176 × 10<sup>11</sup> km<sup>3</sup><br/>(0.293 Yrths)
-        mass: 9.616 × 10<sup>23</sup> kg<br />(1.7300843707383993 Yrths)
+        mass: 9.616 × 10<sup>23</sup> kg<br />(0.161 Yrths)
         density: 3.028 g/cm<sup>3</sup>
         surface_gravity: 3.578 m/s<sup>2</sup><br />(0.365 g<sub>0</sub>)
         escape_velocity: 5.507 km/s<br />(19,826 km/h)
         rotation_period: 28.786 d
         axial_tilt: 8.66°
         albedo: 0.30
-        temperature: 2165 K<br />(1892 °C)
+        temperature: 154 K<br />(-119 °C)
   - name: 0029 Oniad C III
     type: Gas giant
     aphelion: 1,154,752,582 km<br />7.719 AU
@@ -239,7 +239,7 @@ planets:
     radius: 173.5 km<br/>(0.027 Yrths)
     surface_area: 3.783 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.188 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.490 × 10<sup>26</sup> kg<br />(91.93692885692701 Yrths)
+    mass: 5.490 × 10<sup>26</sup> kg<br />(91.94 Yrths)
     density: 25090628.245 g/cm<sup>3</sup>
     surface_gravity: 1215493.891 m/s<sup>2</sup><br />(123945.883 g<sub>0</sub>)
     escape_velocity: 649.912 km/s<br />(2,339,683 km/h)
@@ -260,14 +260,14 @@ planets:
         radius: 75,352.3 km<br/>(11.827 Yrths)
         surface_area: 7.135 × 10<sup>10</sup> km<sup>2</sup><br/>(139.887 Yrths)
         volume: 1.792 × 10<sup>15</sup> km<sup>3</sup><br/>(1654.497 Yrths)
-        mass: 2.970 × 10<sup>27</sup> kg<br />(91.93692885692701 Yrths)
+        mass: 2.970 × 10<sup>27</sup> kg<br />(497.289 Yrths)
         density: 1.657 g/cm<sup>3</sup>
         surface_gravity: 34.862 m/s<sup>2</sup><br />(3.555 g<sub>0</sub>)
         escape_velocity: 72.533 km/s<br />(261,118 km/h)
         rotation_period: 40.638 d
         axial_tilt: 12.58°
         albedo: 0.30
-        temperature: 732 K<br />(459 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0029 Oniad C III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -280,14 +280,14 @@ planets:
         radius: 73,636.2 km<br/>(11.558 Yrths)
         surface_area: 6.814 × 10<sup>10</sup> km<sup>2</sup><br/>(133.588 Yrths)
         volume: 1.672 × 10<sup>15</sup> km<sup>3</sup><br/>(1544.015 Yrths)
-        mass: 3.594 × 10<sup>27</sup> kg<br />(91.93692885692701 Yrths)
+        mass: 3.594 × 10<sup>27</sup> kg<br />(601.762 Yrths)
         density: 2.149 g/cm<sup>3</sup>
         surface_gravity: 44.175 m/s<sup>2</sup><br />(4.505 g<sub>0</sub>)
         escape_velocity: 80.713 km/s<br />(290,567 km/h)
         rotation_period: 35.581 d
         axial_tilt: 12.00°
         albedo: 0.30
-        temperature: 698 K<br />(425 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0029 Oniad C III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -300,14 +300,14 @@ planets:
         radius: 78,246.6 km<br/>(12.282 Yrths)
         surface_area: 7.694 × 10<sup>10</sup> km<sup>2</sup><br/>(150.840 Yrths)
         volume: 2.007 × 10<sup>15</sup> km<sup>3</sup><br/>(1852.568 Yrths)
-        mass: 4.712 × 10<sup>27</sup> kg<br />(91.93692885692701 Yrths)
+        mass: 4.712 × 10<sup>27</sup> kg<br />(789.076 Yrths)
         density: 2.348 g/cm<sup>3</sup>
         surface_gravity: 51.301 m/s<sup>2</sup><br />(5.231 g<sub>0</sub>)
         escape_velocity: 89.661 km/s<br />(322,780 km/h)
         rotation_period: 42.224 d
         axial_tilt: 17.37°
         albedo: 0.30
-        temperature: 550 K<br />(277 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0029 Oniad C III d
         type: Icy
         formationType: Accreted
@@ -320,14 +320,14 @@ planets:
         radius: 122,553.3 km<br/>(19.236 Yrths)
         surface_area: 1.887 × 10<sup>11</sup> km<sup>2</sup><br/>(370.028 Yrths)
         volume: 7.710 × 10<sup>15</sup> km<sup>3</sup><br/>(7117.900 Yrths)
-        mass: 1.465 × 10<sup>28</sup> kg<br />(91.93692885692701 Yrths)
+        mass: 1.465 × 10<sup>28</sup> kg<br />(2452.997 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 65.010 m/s<sup>2</sup><br />(6.629 g<sub>0</sub>)
         escape_velocity: 126.318 km/s<br />(454,743 km/h)
         rotation_period: 48.159 d
         axial_tilt: 8.95°
         albedo: 0.30
-        temperature: 434 K<br />(160 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0029 Oniad C III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -340,34 +340,14 @@ planets:
         radius: 69,900.3 km<br/>(10.972 Yrths)
         surface_area: 6.140 × 10<sup>10</sup> km<sup>2</sup><br/>(120.377 Yrths)
         volume: 1.431 × 10<sup>15</sup> km<sup>3</sup><br/>(1320.729 Yrths)
-        mass: 2.601 × 10<sup>27</sup> kg<br />(91.93692885692701 Yrths)
+        mass: 2.601 × 10<sup>27</sup> kg<br />(435.538 Yrths)
         density: 1.818 g/cm<sup>3</sup>
         surface_gravity: 35.482 m/s<sup>2</sup><br />(3.618 g<sub>0</sub>)
         escape_velocity: 70.478 km/s<br />(253,719 km/h)
         rotation_period: 39.977 d
         axial_tilt: 23.01°
         albedo: 0.30
-        temperature: 394 K<br />(121 °C)
-      - name: 0029 Oniad C III f
-        type: Icy
-        formationType: Accreted
-        aphelion: 123,566,334 km<br />
-        perihelion: 89,893,246 km<br />
-        semi_major_axis: 106,729,790 km<br />
-        eccentricity: 0.158
-        orbital_period: 0.13 d<br />
-        inclination: 6.28°
-        radius: 28,093.0 km<br/>(4.410 Yrths)
-        surface_area: 9.918 × 10<sup>09</sup> km<sup>2</sup><br/>(19.444 Yrths)
-        volume: 9.287 × 10<sup>13</sup> km<sup>3</sup><br/>(85.738 Yrths)
-        mass: 1.155 × 10<sup>26</sup> kg<br />(91.93692885692701 Yrths)
-        density: 1.243 g/cm<sup>3</sup>
-        surface_gravity: 9.752 m/s<sup>2</sup><br />(0.994 g<sub>0</sub>)
-        escape_velocity: 23.424 km/s<br />(84,325 km/h)
-        rotation_period: 85.605 d
-        axial_tilt: 19.03°
-        albedo: 0.30
-        temperature: 358 K<br />(85 °C)
+        temperature: 109 K<br />(-164 °C)
   - name: 0029 Oniad C IV
     type: Gas giant
     aphelion: 2,409,448,495 km<br />16.106 AU
@@ -379,7 +359,7 @@ planets:
     radius: 239.3 km<br/>(0.038 Yrths)
     surface_area: 7.197 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.741 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.173 × 10<sup>27</sup> kg<br />(363.781709676733 Yrths)
+    mass: 2.173 × 10<sup>27</sup> kg<br />(363.78 Yrths)
     density: 37839755.467 g/cm<sup>3</sup>
     surface_gravity: 2528294.112 m/s<sup>2</sup><br />(257814.250 g<sub>0</sub>)
     escape_velocity: 1100.806 km/s<br />(3,962,903 km/h)
@@ -400,14 +380,14 @@ planets:
         radius: 201,910.8 km<br/>(31.692 Yrths)
         surface_area: 5.123 × 10<sup>11</sup> km<sup>2</sup><br/>(1004.393 Yrths)
         volume: 3.448 × 10<sup>16</sup> km<sup>3</sup><br/>(31831.395 Yrths)
-        mass: 5.791 × 10<sup>28</sup> kg<br />(363.781709676733 Yrths)
+        mass: 5.791 × 10<sup>28</sup> kg<br />(9696.986 Yrths)
         density: 1.680 g/cm<sup>3</sup>
         surface_gravity: 94.679 m/s<sup>2</sup><br />(9.655 g<sub>0</sub>)
         escape_velocity: 195.666 km/s<br />(704,399 km/h)
         rotation_period: 74.400 d
         axial_tilt: 20.57°
         albedo: 0.30
-        temperature: 374 K<br />(101 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 0029 Oniad C IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -420,14 +400,14 @@ planets:
         radius: 244,633.7 km<br/>(38.398 Yrths)
         surface_area: 7.520 × 10<sup>11</sup> km<sup>2</sup><br/>(1474.407 Yrths)
         volume: 6.132 × 10<sup>16</sup> km<sup>3</sup><br/>(56614.291 Yrths)
-        mass: 1.603 × 10<sup>29</sup> kg<br />(363.781709676733 Yrths)
+        mass: 1.603 × 10<sup>29</sup> kg<br />(26839.703 Yrths)
         density: 2.614 g/cm<sup>3</sup>
         surface_gravity: 178.518 m/s<sup>2</sup><br />(18.204 g<sub>0</sub>)
         escape_velocity: 295.739 km/s<br />(1,064,660 km/h)
         rotation_period: 45.932 d
         axial_tilt: 25.50°
         albedo: 0.30
-        temperature: 255 K<br />(-18 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 0029 Oniad C IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -440,14 +420,14 @@ planets:
         radius: 182,942.5 km<br/>(28.715 Yrths)
         surface_area: 4.206 × 10<sup>11</sup> km<sup>2</sup><br/>(824.544 Yrths)
         volume: 2.565 × 10<sup>16</sup> km<sup>3</sup><br/>(23676.675 Yrths)
-        mass: 6.710 × 10<sup>28</sup> kg<br />(363.781709676733 Yrths)
+        mass: 6.710 × 10<sup>28</sup> kg<br />(11236.463 Yrths)
         density: 2.616 g/cm<sup>3</sup>
         surface_gravity: 133.640 m/s<sup>2</sup><br />(13.627 g<sub>0</sub>)
         escape_velocity: 221.277 km/s<br />(796,595 km/h)
         rotation_period: 56.352 d
         axial_tilt: 17.80°
         albedo: 0.30
-        temperature: 183 K<br />(-90 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 0029 Oniad C IV d
         type: Asteroid
         formationType: Captured
@@ -460,14 +440,14 @@ planets:
         radius: 204,958.8 km<br/>(32.171 Yrths)
         surface_area: 5.279 × 10<sup>11</sup> km<sup>2</sup><br/>(1034.947 Yrths)
         volume: 3.607 × 10<sup>16</sup> km<sup>3</sup><br/>(33294.846 Yrths)
-        mass: 1.111 × 10<sup>29</sup> kg<br />(363.781709676733 Yrths)
+        mass: 1.111 × 10<sup>29</sup> kg<br />(18604.808 Yrths)
         density: 3.081 g/cm<sup>3</sup>
         surface_gravity: 176.290 m/s<sup>2</sup><br />(17.977 g<sub>0</sub>)
         escape_velocity: 269.003 km/s<br />(968,411 km/h)
         rotation_period: 53.266 d
         axial_tilt: 16.28°
         albedo: 0.30
-        temperature: 174 K<br />(-99 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 0029 Oniad C IV e
         type: Icy
         formationType: Impact formed
@@ -480,14 +460,14 @@ planets:
         radius: 273,517.7 km<br/>(42.932 Yrths)
         surface_area: 9.401 × 10<sup>11</sup> km<sup>2</sup><br/>(1843.129 Yrths)
         volume: 8.571 × 10<sup>16</sup> km<sup>3</sup><br/>(79128.637 Yrths)
-        mass: 1.164 × 10<sup>29</sup> kg<br />(363.781709676733 Yrths)
+        mass: 1.164 × 10<sup>29</sup> kg<br />(19498.343 Yrths)
         density: 1.359 g/cm<sup>3</sup>
         surface_gravity: 103.744 m/s<sup>2</sup><br />(10.579 g<sub>0</sub>)
         escape_velocity: 238.388 km/s<br />(858,196 km/h)
         rotation_period: 71.093 d
         axial_tilt: 18.39°
         albedo: 0.30
-        temperature: 119 K<br />(-154 °C)
+        temperature: 77 K<br />(-196 °C)
       - name: 0029 Oniad C IV f
         type: Icy
         formationType: Accreted
@@ -500,12 +480,12 @@ planets:
         radius: 205,805.9 km<br/>(32.304 Yrths)
         surface_area: 5.323 × 10<sup>11</sup> km<sup>2</sup><br/>(1043.519 Yrths)
         volume: 3.651 × 10<sup>16</sup> km<sup>3</sup><br/>(33709.360 Yrths)
-        mass: 6.454 × 10<sup>28</sup> kg<br />(363.781709676733 Yrths)
+        mass: 6.454 × 10<sup>28</sup> kg<br />(10807.646 Yrths)
         density: 1.768 g/cm<sup>3</sup>
         surface_gravity: 101.567 m/s<sup>2</sup><br />(10.357 g<sub>0</sub>)
         escape_velocity: 204.604 km/s<br />(736,575 km/h)
         rotation_period: 42.560 d
         axial_tilt: 13.24°
         albedo: 0.30
-        temperature: 103 K<br />(-170 °C)
+        temperature: 77 K<br />(-196 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1167 Orshenniad is a star in the constellation Orshen
+      1167 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 657.40 ly
 apparent_magnitude: 11.08
 absolute_magnitude: 4.56

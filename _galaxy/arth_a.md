@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Arth A is a star in the constellation Swither
+      Arth A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 2363.18 ly
 apparent_magnitude: 3.14
 absolute_magnitude: -6.16

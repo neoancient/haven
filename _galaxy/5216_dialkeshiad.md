@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5216 Dialkeshiad is a star in the constellation Dialkes
+      5216 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 429.08 ly
 apparent_magnitude: 8.52
 absolute_magnitude: 2.93
@@ -31,14 +31,14 @@ planets:
     radius: 6,502.3 km<br/>(1.021 Yrths)
     surface_area: 5.313 × 10<sup>08</sup> km<sup>2</sup><br/>(1.042 Yrths)
     volume: 1.152 × 10<sup>12</sup> km<sup>3</sup><br/>(1.063 Yrths)
-    mass: 4.864 × 10<sup>24</sup> kg<br />(0.8144345793841259 Yrths)
+    mass: 4.864 × 10<sup>24</sup> kg<br />(0.81 Yrths)
     density: 4.224 g/cm<sup>3</sup>
     surface_gravity: 7.668 m/s<sup>2</sup><br />(0.782 g<sub>0</sub>)
     escape_velocity: 9.992 km/s<br />(35,973 km/h)
     rotation_period: 1.104 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 425 K<br />(152 °C)
+    temperature: 455 K<br />(182 °C)
     surface_pressure: 45 kPa<br />(0 atm)
     composition:
       - 58.8530% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 1,801.3 km<br/>(0.283 Yrths)
         surface_area: 4.078 × 10<sup>07</sup> km<sup>2</sup><br/>(0.080 Yrths)
         volume: 2.448 × 10<sup>10</sup> km<sup>3</sup><br/>(0.023 Yrths)
-        mass: 7.422 × 10<sup>22</sup> kg<br />(0.8144345793841259 Yrths)
+        mass: 7.422 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 3.031 g/cm<sup>3</sup>
         surface_gravity: 1.525 m/s<sup>2</sup><br />(0.155 g<sub>0</sub>)
         escape_velocity: 2.345 km/s<br />(8,443 km/h)
         rotation_period: 28.776 d
         axial_tilt: 22.99°
         albedo: 0.30
-        temperature: 5813 K<br />(5540 °C)
+        temperature: 363 K<br />(90 °C)
   - name: 5216 Dialkeshiad II
     type: Gas giant
     aphelion: 319,898,837 km<br />2.138 AU
@@ -77,14 +77,14 @@ planets:
     radius: 210.7 km<br/>(0.033 Yrths)
     surface_area: 5.579 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.918 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.262 × 10<sup>27</sup> kg<br />(211.30969871060253 Yrths)
+    mass: 1.262 × 10<sup>27</sup> kg<br />(211.31 Yrths)
     density: 32207690.979 g/cm<sup>3</sup>
     surface_gravity: 1894645.503 m/s<sup>2</sup><br />(193200.074 g<sub>0</sub>)
     escape_velocity: 894.140 km/s<br />(3,218,905 km/h)
     rotation_period: 0.244 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1130 K<br />(857 °C)
+    temperature: 1095 K<br />(821 °C)
     composition:
       - 91.8318% hydrogen
       - 4.2913% ethane
@@ -103,14 +103,14 @@ planets:
         radius: 178,625.3 km<br/>(28.037 Yrths)
         surface_area: 4.010 × 10<sup>11</sup> km<sup>2</sup><br/>(786.087 Yrths)
         volume: 2.387 × 10<sup>16</sup> km<sup>3</sup><br/>(22039.727 Yrths)
-        mass: 2.025 × 10<sup>28</sup> kg<br />(211.30969871060253 Yrths)
+        mass: 2.025 × 10<sup>28</sup> kg<br />(3391.091 Yrths)
         density: 0.848 g/cm<sup>3</sup>
         surface_gravity: 42.305 m/s<sup>2</sup><br />(4.314 g<sub>0</sub>)
         escape_velocity: 123.020 km/s<br />(442,872 km/h)
         rotation_period: 74.355 d
         axial_tilt: 20.50°
         albedo: 0.30
-        temperature: 1676 K<br />(1403 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 5216 Dialkeshiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -123,14 +123,14 @@ planets:
         radius: 196,052.7 km<br/>(30.773 Yrths)
         surface_area: 4.830 × 10<sup>11</sup> km<sup>2</sup><br/>(946.957 Yrths)
         volume: 3.157 × 10<sup>16</sup> km<sup>3</sup><br/>(29140.400 Yrths)
-        mass: 7.333 × 10<sup>28</sup> kg<br />(211.30969871060253 Yrths)
+        mass: 7.333 × 10<sup>28</sup> kg<br />(12278.614 Yrths)
         density: 2.323 g/cm<sup>3</sup>
         surface_gravity: 127.157 m/s<sup>2</sup><br />(12.966 g<sub>0</sub>)
         escape_velocity: 223.443 km/s<br />(804,393 km/h)
         rotation_period: 39.358 d
         axial_tilt: 23.04°
         albedo: 0.30
-        temperature: 1524 K<br />(1251 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 5216 Dialkeshiad II c
         type: Rocky
         formationType: Captured
@@ -143,14 +143,14 @@ planets:
         radius: 215,999.1 km<br/>(33.903 Yrths)
         surface_area: 5.863 × 10<sup>11</sup> km<sup>2</sup><br/>(1149.446 Yrths)
         volume: 4.221 × 10<sup>16</sup> km<sup>3</sup><br/>(38970.214 Yrths)
-        mass: 1.465 × 10<sup>29</sup> kg<br />(211.30969871060253 Yrths)
+        mass: 1.465 × 10<sup>29</sup> kg<br />(24523.633 Yrths)
         density: 3.469 g/cm<sup>3</sup>
         surface_gravity: 209.227 m/s<sup>2</sup><br />(21.335 g<sub>0</sub>)
         escape_velocity: 300.846 km/s<br />(1,083,046 km/h)
         rotation_period: 36.681 d
         axial_tilt: 13.28°
         albedo: 0.30
-        temperature: 1453 K<br />(1180 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 5216 Dialkeshiad II d
         type: Icy
         formationType: Impact formed
@@ -163,14 +163,14 @@ planets:
         radius: 162,995.5 km<br/>(25.584 Yrths)
         surface_area: 3.339 × 10<sup>11</sup> km<sup>2</sup><br/>(654.540 Yrths)
         volume: 1.814 × 10<sup>16</sup> km<sup>3</sup><br/>(16745.729 Yrths)
-        mass: 2.349 × 10<sup>28</sup> kg<br />(211.30969871060253 Yrths)
+        mass: 2.349 × 10<sup>28</sup> kg<br />(3932.683 Yrths)
         density: 1.295 g/cm<sup>3</sup>
         surface_gravity: 58.921 m/s<sup>2</sup><br />(6.008 g<sub>0</sub>)
         escape_velocity: 138.687 km/s<br />(499,272 km/h)
         rotation_period: 84.280 d
         axial_tilt: 26.77°
         albedo: 0.30
-        temperature: 1259 K<br />(986 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 5216 Dialkeshiad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -183,12 +183,12 @@ planets:
         radius: 142,364.6 km<br/>(22.346 Yrths)
         surface_area: 2.547 × 10<sup>11</sup> km<sup>2</sup><br/>(499.331 Yrths)
         volume: 1.209 × 10<sup>16</sup> km<sup>3</sup><br/>(11157.917 Yrths)
-        mass: 2.562 × 10<sup>28</sup> kg<br />(211.30969871060253 Yrths)
+        mass: 2.562 × 10<sup>28</sup> kg<br />(4289.996 Yrths)
         density: 2.120 g/cm<sup>3</sup>
         surface_gravity: 84.254 m/s<sup>2</sup><br />(8.591 g<sub>0</sub>)
         escape_velocity: 154.991 km/s<br />(557,966 km/h)
         rotation_period: 66.437 d
         axial_tilt: 21.54°
         albedo: 0.30
-        temperature: 1201 K<br />(928 °C)
+        temperature: 269 K<br />(-4 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0026 Pokiad is a star in the constellation Poke
+      0026 Pokiad is a star in the constellation <a href="poke.html">Poke</a>
 distance: 149.98 ly
 apparent_magnitude: 5.61
 absolute_magnitude: 2.30
@@ -31,14 +31,14 @@ planets:
     radius: 5,141.5 km<br/>(0.807 Yrths)
     surface_area: 3.322 × 10<sup>08</sup> km<sup>2</sup><br/>(0.651 Yrths)
     volume: 5.693 × 10<sup>11</sup> km<sup>3</sup><br/>(0.526 Yrths)
-    mass: 2.986 × 10<sup>24</sup> kg<br />(0.5000667015686184 Yrths)
+    mass: 2.986 × 10<sup>24</sup> kg<br />(0.50 Yrths)
     density: 5.245 g/cm<sup>3</sup>
     surface_gravity: 7.530 m/s<sup>2</sup><br />(0.768 g<sub>0</sub>)
     escape_velocity: 8.805 km/s<br />(31,699 km/h)
     rotation_period: 1.282 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 443 K<br />(170 °C)
+    temperature: 432 K<br />(159 °C)
     surface_pressure: 48 kPa<br />(0 atm)
     composition:
       - 91.7111% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 1,649.2 km<br/>(0.259 Yrths)
         surface_area: 3.418 × 10<sup>07</sup> km<sup>2</sup><br/>(0.067 Yrths)
         volume: 1.879 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 5.501 × 10<sup>22</sup> kg<br />(0.5000667015686184 Yrths)
+        mass: 5.501 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 2.928 g/cm<sup>3</sup>
         surface_gravity: 1.348 m/s<sup>2</sup><br />(0.137 g<sub>0</sub>)
         escape_velocity: 2.110 km/s<br />(7,597 km/h)
         rotation_period: 44.196 d
         axial_tilt: 15.72°
         albedo: 0.30
-        temperature: 6657 K<br />(6384 °C)
+        temperature: 383 K<br />(110 °C)
       - name: 0026 Pokiad I b
         type: Rocky
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 1,322.8 km<br/>(0.208 Yrths)
         surface_area: 2.199 × 10<sup>07</sup> km<sup>2</sup><br/>(0.043 Yrths)
         volume: 9.695 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 3.211 × 10<sup>22</sup> kg<br />(0.5000667015686184 Yrths)
+        mass: 3.211 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 3.312 g/cm<sup>3</sup>
         surface_gravity: 1.223 m/s<sup>2</sup><br />(0.125 g<sub>0</sub>)
         escape_velocity: 1.800 km/s<br />(6,481 km/h)
         rotation_period: 48.223 d
         axial_tilt: 14.34°
         albedo: 0.30
-        temperature: 6347 K<br />(6074 °C)
+        temperature: 383 K<br />(110 °C)
   - name: 0026 Pokiad II
     type: Large terrestrial
     aphelion: 419,994,028 km<br />2.807 AU
@@ -96,15 +96,15 @@ planets:
     radius: 11,583.4 km<br/>(1.818 Yrths)
     surface_area: 1.686 × 10<sup>09</sup> km<sup>2</sup><br/>(3.306 Yrths)
     volume: 6.510 × 10<sup>12</sup> km<sup>3</sup><br/>(6.010 Yrths)
-    mass: 4.157 × 10<sup>25</sup> kg<br />(6.960890890516175 Yrths)
+    mass: 4.157 × 10<sup>25</sup> kg<br />(6.96 Yrths)
     density: 6.385 g/cm<sup>3</sup>
     surface_gravity: 20.651 m/s<sup>2</sup><br />(2.106 g<sub>0</sub>)
     escape_velocity: 21.887 km/s<br />(78,794 km/h)
     rotation_period: 0.539 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 542 K<br />(269 °C)
-    surface_pressure: 8,291 kPa<br />(82 atm)
+    temperature: 1333 K<br />(1060 °C)
+    surface_pressure: 8,291 kPa<br />(83 atm)
     composition:
       - 75.5603% carbon dioxide
       - 18.2557% nitrogen

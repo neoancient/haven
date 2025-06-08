@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1881 Noniashad A is a star in the constellation Nonias
+      1881 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 611.91 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 1.79

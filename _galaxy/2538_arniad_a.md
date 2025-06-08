@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2538 Arniad A is a star in the constellation Arni
+      2538 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 693.49 ly
 apparent_magnitude: 6.81
 absolute_magnitude: 0.18

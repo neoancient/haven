@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9019 Dialkeshiad is a star in the constellation Dialkes
+      9019 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 552.50 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 5.18

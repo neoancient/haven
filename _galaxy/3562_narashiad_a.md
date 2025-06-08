@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3562 Narashiad A is a star in the constellation Naras
+      3562 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 476.56 ly
 apparent_magnitude: 7.61
 absolute_magnitude: 1.79

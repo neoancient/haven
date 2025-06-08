@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0073 Emniaiad A is a star in the constellation Emnia
+      0073 Emniaiad A is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 223.80 ly
 apparent_magnitude: 5.85
 absolute_magnitude: 1.67

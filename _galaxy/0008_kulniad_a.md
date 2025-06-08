@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0008 Kulniad A is a star in the constellation Kuln
+      0008 Kulniad A is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 219.74 ly
 apparent_magnitude: 5.73
 absolute_magnitude: 1.58

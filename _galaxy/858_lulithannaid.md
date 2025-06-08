@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      858 Lulithannaid is a star in the constellation Lulithan
+      858 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 349.88 ly
 apparent_magnitude: 9.71
 absolute_magnitude: 4.55

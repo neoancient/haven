@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5245 Narashiad is a star in the constellation Naras
+      5245 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 473.91 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 5.58

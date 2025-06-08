@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Lasraiad C is a star in the constellation Lasra
+      0028 Lasraiad C is a star in the constellation <a href="lasra.html">Lasra</a>
 distance: 254.66 ly
 apparent_magnitude: 9.25
 absolute_magnitude: 4.79
@@ -31,7 +31,7 @@ planets:
     radius: 209.5 km<br/>(0.033 Yrths)
     surface_area: 5.515 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.851 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.304 × 10<sup>27</sup> kg<br />(218.4098370834084 Yrths)
+    mass: 1.304 × 10<sup>27</sup> kg<br />(218.41 Yrths)
     density: 33872572.680 g/cm<sup>3</sup>
     surface_gravity: 1981091.858 m/s<sup>2</sup><br />(202015.149 g<sub>0</sub>)
     escape_velocity: 911.671 km/s<br />(3,282,014 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 280,259.9 km<br/>(43.990 Yrths)
         surface_area: 9.870 × 10<sup>11</sup> km<sup>2</sup><br/>(1935.115 Yrths)
         volume: 9.221 × 10<sup>16</sup> km<sup>3</sup><br/>(85125.602 Yrths)
-        mass: 1.428 × 10<sup>29</sup> kg<br />(218.4098370834084 Yrths)
+        mass: 1.428 × 10<sup>29</sup> kg<br />(23903.468 Yrths)
         density: 1.548 g/cm<sup>3</sup>
         surface_gravity: 121.136 m/s<sup>2</sup><br />(12.352 g<sub>0</sub>)
         escape_velocity: 260.752 km/s<br />(938,707 km/h)
         rotation_period: 61.629 d
         axial_tilt: 37.20°
         albedo: 0.30
-        temperature: 1477 K<br />(1203 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0028 Lasraiad C I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 128,122.0 km<br/>(20.110 Yrths)
         surface_area: 2.063 × 10<sup>11</sup> km<sup>2</sup><br/>(404.420 Yrths)
         volume: 8.810 × 10<sup>15</sup> km<sup>3</sup><br/>(8132.958 Yrths)
-        mass: 2.030 × 10<sup>28</sup> kg<br />(218.4098370834084 Yrths)
+        mass: 2.030 × 10<sup>28</sup> kg<br />(3399.303 Yrths)
         density: 2.304 g/cm<sup>3</sup>
         surface_gravity: 82.429 m/s<sup>2</sup><br />(8.405 g<sub>0</sub>)
         escape_velocity: 145.432 km/s<br />(523,556 km/h)
         rotation_period: 45.925 d
         axial_tilt: 11.26°
         albedo: 0.30
-        temperature: 1342 K<br />(1069 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0028 Lasraiad C I c
         type: Dwarf planet
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 128,329.2 km<br/>(20.143 Yrths)
         surface_area: 2.069 × 10<sup>11</sup> km<sup>2</sup><br/>(405.729 Yrths)
         volume: 8.852 × 10<sup>15</sup> km<sup>3</sup><br/>(8172.475 Yrths)
-        mass: 1.621 × 10<sup>28</sup> kg<br />(218.4098370834084 Yrths)
+        mass: 1.621 × 10<sup>28</sup> kg<br />(2713.938 Yrths)
         density: 1.831 g/cm<sup>3</sup>
         surface_gravity: 65.597 m/s<sup>2</sup><br />(6.689 g<sub>0</sub>)
         escape_velocity: 129.842 km/s<br />(467,431 km/h)
         rotation_period: 39.084 d
         axial_tilt: 26.37°
         albedo: 0.30
-        temperature: 722 K<br />(449 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0028 Lasraiad C I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 128,797.8 km<br/>(20.216 Yrths)
         surface_area: 2.085 × 10<sup>11</sup> km<sup>2</sup><br/>(408.697 Yrths)
         volume: 8.950 × 10<sup>15</sup> km<sup>3</sup><br/>(8262.334 Yrths)
-        mass: 1.465 × 10<sup>28</sup> kg<br />(218.4098370834084 Yrths)
+        mass: 1.465 × 10<sup>28</sup> kg<br />(2453.399 Yrths)
         density: 1.637 g/cm<sup>3</sup>
         surface_gravity: 58.869 m/s<sup>2</sup><br />(6.003 g<sub>0</sub>)
         escape_velocity: 123.227 km/s<br />(443,619 km/h)
         rotation_period: 49.812 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 428 K<br />(155 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 0028 Lasraiad C I e
         type: Icy
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 124,802.5 km<br/>(19.589 Yrths)
         surface_area: 1.957 × 10<sup>11</sup> km<sup>2</sup><br/>(383.735 Yrths)
         volume: 8.143 × 10<sup>15</sup> km<sup>3</sup><br/>(7517.039 Yrths)
-        mass: 1.361 × 10<sup>28</sup> kg<br />(218.4098370834084 Yrths)
+        mass: 1.361 × 10<sup>28</sup> kg<br />(2278.382 Yrths)
         density: 1.671 g/cm<sup>3</sup>
         surface_gravity: 58.226 m/s<sup>2</sup><br />(5.937 g<sub>0</sub>)
         escape_velocity: 120.637 km/s<br />(434,292 km/h)
         rotation_period: 61.270 d
         axial_tilt: 23.20°
         albedo: 0.30
-        temperature: 337 K<br />(64 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: 0028 Lasraiad C II
     type: Gas giant
     aphelion: 307,609,869 km<br />2.056 AU
@@ -151,7 +151,7 @@ planets:
     radius: 211.4 km<br/>(0.033 Yrths)
     surface_area: 5.617 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.958 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.308 × 10<sup>27</sup> kg<br />(219.09350695318358 Yrths)
+    mass: 1.308 × 10<sup>27</sup> kg<br />(219.09 Yrths)
     density: 33055180.466 g/cm<sup>3</sup>
     surface_gravity: 1951122.857 m/s<sup>2</sup><br />(198959.161 g<sub>0</sub>)
     escape_velocity: 908.913 km/s<br />(3,272,087 km/h)
@@ -172,14 +172,14 @@ planets:
         radius: 271,653.1 km<br/>(42.639 Yrths)
         surface_area: 9.273 × 10<sup>11</sup> km<sup>2</sup><br/>(1818.085 Yrths)
         volume: 8.397 × 10<sup>16</sup> km<sup>3</sup><br/>(77521.361 Yrths)
-        mass: 1.761 × 10<sup>29</sup> kg<br />(219.09350695318358 Yrths)
+        mass: 1.761 × 10<sup>29</sup> kg<br />(29482.096 Yrths)
         density: 2.097 g/cm<sup>3</sup>
         surface_gravity: 159.025 m/s<sup>2</sup><br />(16.216 g<sub>0</sub>)
         escape_velocity: 294.137 km/s<br />(1,058,893 km/h)
         rotation_period: 38.626 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 1104 K<br />(831 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 0028 Lasraiad C II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -192,14 +192,14 @@ planets:
         radius: 124,981.2 km<br/>(19.617 Yrths)
         surface_area: 1.963 × 10<sup>11</sup> km<sup>2</sup><br/>(384.835 Yrths)
         volume: 8.178 × 10<sup>15</sup> km<sup>3</sup><br/>(7549.380 Yrths)
-        mass: 1.900 × 10<sup>28</sup> kg<br />(219.09350695318358 Yrths)
+        mass: 1.900 × 10<sup>28</sup> kg<br />(3182.254 Yrths)
         density: 2.324 g/cm<sup>3</sup>
         surface_gravity: 81.093 m/s<sup>2</sup><br />(8.269 g<sub>0</sub>)
         escape_velocity: 142.470 km/s<br />(512,891 km/h)
         rotation_period: 57.634 d
         axial_tilt: 9.55°
         albedo: 0.30
-        temperature: 1053 K<br />(780 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 0028 Lasraiad C II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -212,14 +212,14 @@ planets:
         radius: 269,952.5 km<br/>(42.372 Yrths)
         surface_area: 9.158 × 10<sup>11</sup> km<sup>2</sup><br/>(1795.393 Yrths)
         volume: 8.240 × 10<sup>16</sup> km<sup>3</sup><br/>(76074.538 Yrths)
-        mass: 1.545 × 10<sup>29</sup> kg<br />(219.09350695318358 Yrths)
+        mass: 1.545 × 10<sup>29</sup> kg<br />(25864.688 Yrths)
         density: 1.874 g/cm<sup>3</sup>
         surface_gravity: 141.276 m/s<sup>2</sup><br />(14.406 g<sub>0</sub>)
         escape_velocity: 276.368 km/s<br />(994,925 km/h)
         rotation_period: 41.390 d
         axial_tilt: 27.81°
         albedo: 0.30
-        temperature: 594 K<br />(321 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 0028 Lasraiad C II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -232,14 +232,14 @@ planets:
         radius: 118,326.8 km<br/>(18.573 Yrths)
         surface_area: 1.759 × 10<sup>11</sup> km<sup>2</sup><br/>(344.946 Yrths)
         volume: 6.940 × 10<sup>15</sup> km<sup>3</sup><br/>(6406.577 Yrths)
-        mass: 1.726 × 10<sup>28</sup> kg<br />(219.09350695318358 Yrths)
+        mass: 1.726 × 10<sup>28</sup> kg<br />(2890.525 Yrths)
         density: 2.487 g/cm<sup>3</sup>
         surface_gravity: 82.176 m/s<sup>2</sup><br />(8.380 g<sub>0</sub>)
         escape_velocity: 139.548 km/s<br />(502,374 km/h)
         rotation_period: 32.093 d
         axial_tilt: 22.26°
         albedo: 0.30
-        temperature: 387 K<br />(114 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 0028 Lasraiad C II e
         type: Rocky
         formationType: Captured
@@ -252,14 +252,14 @@ planets:
         radius: 120,783.0 km<br/>(18.958 Yrths)
         surface_area: 1.833 × 10<sup>11</sup> km<sup>2</sup><br/>(359.415 Yrths)
         volume: 7.381 × 10<sup>15</sup> km<sup>3</sup><br/>(6813.877 Yrths)
-        mass: 1.837 × 10<sup>28</sup> kg<br />(219.09350695318358 Yrths)
+        mass: 1.837 × 10<sup>28</sup> kg<br />(3075.422 Yrths)
         density: 2.488 g/cm<sup>3</sup>
         surface_gravity: 83.913 m/s<sup>2</sup><br />(8.557 g<sub>0</sub>)
         escape_velocity: 142.471 km/s<br />(512,896 km/h)
         rotation_period: 42.491 d
         axial_tilt: 11.11°
         albedo: 0.30
-        temperature: 352 K<br />(79 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 0028 Lasraiad C II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -272,14 +272,14 @@ planets:
         radius: 159,500.4 km<br/>(25.035 Yrths)
         surface_area: 3.197 × 10<sup>11</sup> km<sup>2</sup><br/>(626.770 Yrths)
         volume: 1.700 × 10<sup>16</sup> km<sup>3</sup><br/>(15691.432 Yrths)
-        mass: 3.578 × 10<sup>28</sup> kg<br />(219.09350695318358 Yrths)
+        mass: 3.578 × 10<sup>28</sup> kg<br />(5991.777 Yrths)
         density: 2.105 g/cm<sup>3</sup>
         surface_gravity: 93.749 m/s<sup>2</sup><br />(9.560 g<sub>0</sub>)
         escape_velocity: 173.051 km/s<br />(622,984 km/h)
         rotation_period: 34.917 d
         axial_tilt: 7.06°
         albedo: 0.30
-        temperature: 305 K<br />(32 °C)
+        temperature: 186 K<br />(-87 °C)
   - name: 0028 Lasraiad C III
     type: Ice giant
     aphelion: 519,344,407 km<br />3.472 AU
@@ -291,14 +291,14 @@ planets:
     radius: 31,523.7 km<br/>(4.948 Yrths)
     surface_area: 1.249 × 10<sup>10</sup> km<sup>2</sup><br/>(24.483 Yrths)
     volume: 1.312 × 10<sup>14</sup> km<sup>3</sup><br/>(121.140 Yrths)
-    mass: 1.925 × 10<sup>26</sup> kg<br />(32.23682601614937 Yrths)
+    mass: 1.925 × 10<sup>26</sup> kg<br />(32.24 Yrths)
     density: 1.467 g/cm<sup>3</sup>
     surface_gravity: 12.913 m/s<sup>2</sup><br />(1.317 g<sub>0</sub>)
     escape_velocity: 28.552 km/s<br />(102,787 km/h)
     rotation_period: 0.348 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 255 K<br />(-18 °C)
+    temperature: 229 K<br />(-44 °C)
     composition:
       - 57.4375% hydrogen
       - 42.5625% helium
@@ -315,14 +315,14 @@ planets:
         radius: 24,287.3 km<br/>(3.812 Yrths)
         surface_area: 7.413 × 10<sup>09</sup> km<sup>2</sup><br/>(14.533 Yrths)
         volume: 6.001 × 10<sup>13</sup> km<sup>3</sup><br/>(55.401 Yrths)
-        mass: 1.524 × 10<sup>26</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 1.524 × 10<sup>26</sup> kg<br />(25.512 Yrths)
         density: 2.539 g/cm<sup>3</sup>
         surface_gravity: 17.215 m/s<sup>2</sup><br />(1.755 g<sub>0</sub>)
         escape_velocity: 28.937 km/s<br />(104,174 km/h)
         rotation_period: 34.457 d
         axial_tilt: 15.15°
         albedo: 0.30
-        temperature: 1137 K<br />(864 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III b
         type: Icy
         formationType: Captured
@@ -335,14 +335,14 @@ planets:
         radius: 22,494.8 km<br/>(3.531 Yrths)
         surface_area: 6.359 × 10<sup>09</sup> km<sup>2</sup><br/>(12.467 Yrths)
         volume: 4.768 × 10<sup>13</sup> km<sup>3</sup><br/>(44.017 Yrths)
-        mass: 7.754 × 10<sup>25</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 7.754 × 10<sup>25</sup> kg<br />(12.984 Yrths)
         density: 1.626 g/cm<sup>3</sup>
         surface_gravity: 10.214 m/s<sup>2</sup><br />(1.042 g<sub>0</sub>)
         escape_velocity: 21.451 km/s<br />(77,223 km/h)
         rotation_period: 41.129 d
         axial_tilt: 12.67°
         albedo: 0.30
-        temperature: 1084 K<br />(811 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III c
         type: Icy
         formationType: Accreted
@@ -355,14 +355,14 @@ planets:
         radius: 15,004.2 km<br/>(2.355 Yrths)
         surface_area: 2.829 × 10<sup>09</sup> km<sup>2</sup><br/>(5.546 Yrths)
         volume: 1.415 × 10<sup>13</sup> km<sup>3</sup><br/>(13.062 Yrths)
-        mass: 1.591 × 10<sup>25</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 1.591 × 10<sup>25</sup> kg<br />(2.665 Yrths)
         density: 1.125 g/cm<sup>3</sup>
         surface_gravity: 4.711 m/s<sup>2</sup><br />(0.480 g<sub>0</sub>)
         escape_velocity: 11.898 km/s<br />(42,834 km/h)
         rotation_period: 60.264 d
         axial_tilt: 9.14°
         albedo: 0.30
-        temperature: 1034 K<br />(761 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III d
         type: Asteroid
         formationType: Captured
@@ -375,14 +375,14 @@ planets:
         radius: 17,944.2 km<br/>(2.817 Yrths)
         surface_area: 4.046 × 10<sup>09</sup> km<sup>2</sup><br/>(7.933 Yrths)
         volume: 2.420 × 10<sup>13</sup> km<sup>3</sup><br/>(22.343 Yrths)
-        mass: 3.701 × 10<sup>25</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 3.701 × 10<sup>25</sup> kg<br />(6.198 Yrths)
         density: 1.529 g/cm<sup>3</sup>
         surface_gravity: 7.661 m/s<sup>2</sup><br />(0.781 g<sub>0</sub>)
         escape_velocity: 16.593 km/s<br />(59,735 km/h)
         rotation_period: 75.358 d
         axial_tilt: 42.10°
         albedo: 0.30
-        temperature: 986 K<br />(713 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -395,14 +395,14 @@ planets:
         radius: 22,519.4 km<br/>(3.535 Yrths)
         surface_area: 6.373 × 10<sup>09</sup> km<sup>2</sup><br/>(12.494 Yrths)
         volume: 4.784 × 10<sup>13</sup> km<sup>3</sup><br/>(44.162 Yrths)
-        mass: 1.165 × 10<sup>26</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 1.165 × 10<sup>26</sup> kg<br />(19.507 Yrths)
         density: 2.435 g/cm<sup>3</sup>
         surface_gravity: 15.312 m/s<sup>2</sup><br />(1.561 g<sub>0</sub>)
         escape_velocity: 26.278 km/s<br />(94,602 km/h)
         rotation_period: 47.333 d
         axial_tilt: 12.87°
         albedo: 0.30
-        temperature: 940 K<br />(667 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -415,14 +415,14 @@ planets:
         radius: 14,925.6 km<br/>(2.343 Yrths)
         surface_area: 2.799 × 10<sup>09</sup> km<sup>2</sup><br/>(5.488 Yrths)
         volume: 1.393 × 10<sup>13</sup> km<sup>3</sup><br/>(12.858 Yrths)
-        mass: 3.357 × 10<sup>25</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 3.357 × 10<sup>25</sup> kg<br />(5.622 Yrths)
         density: 2.410 g/cm<sup>3</sup>
         surface_gravity: 10.045 m/s<sup>2</sup><br />(1.024 g<sub>0</sub>)
         escape_velocity: 17.328 km/s<br />(62,381 km/h)
         rotation_period: 42.802 d
         axial_tilt: 18.16°
         albedo: 0.30
-        temperature: 854 K<br />(581 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III g
         type: Dwarf planet
         formationType: Impact formed
@@ -435,14 +435,14 @@ planets:
         radius: 19,916.1 km<br/>(3.126 Yrths)
         surface_area: 4.984 × 10<sup>09</sup> km<sup>2</sup><br/>(9.772 Yrths)
         volume: 3.309 × 10<sup>13</sup> km<sup>3</sup><br/>(30.549 Yrths)
-        mass: 7.306 × 10<sup>25</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 7.306 × 10<sup>25</sup> kg<br />(12.234 Yrths)
         density: 2.208 g/cm<sup>3</sup>
         surface_gravity: 12.277 m/s<sup>2</sup><br />(1.252 g<sub>0</sub>)
         escape_velocity: 22.129 km/s<br />(79,664 km/h)
         rotation_period: 35.430 d
         axial_tilt: 21.96°
         albedo: 0.30
-        temperature: 815 K<br />(542 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III h
         type: Icy
         formationType: Captured
@@ -455,14 +455,14 @@ planets:
         radius: 27,908.4 km<br/>(4.381 Yrths)
         surface_area: 9.788 × 10<sup>09</sup> km<sup>2</sup><br/>(19.189 Yrths)
         volume: 9.105 × 10<sup>13</sup> km<sup>3</sup><br/>(84.058 Yrths)
-        mass: 1.250 × 10<sup>26</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 1.250 × 10<sup>26</sup> kg<br />(20.932 Yrths)
         density: 1.373 g/cm<sup>3</sup>
         surface_gravity: 10.697 m/s<sup>2</sup><br />(1.091 g<sub>0</sub>)
         escape_velocity: 24.452 km/s<br />(88,026 km/h)
         rotation_period: 67.492 d
         axial_tilt: 10.62°
         albedo: 0.30
-        temperature: 777 K<br />(504 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III i
         type: Icy
         formationType: Captured
@@ -475,14 +475,14 @@ planets:
         radius: 36,294.2 km<br/>(5.697 Yrths)
         surface_area: 1.655 × 10<sup>10</sup> km<sup>2</sup><br/>(32.453 Yrths)
         volume: 2.003 × 10<sup>14</sup> km<sup>3</sup><br/>(184.879 Yrths)
-        mass: 3.462 × 10<sup>26</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 3.462 × 10<sup>26</sup> kg<br />(57.967 Yrths)
         density: 1.729 g/cm<sup>3</sup>
         surface_gravity: 17.516 m/s<sup>2</sup><br />(1.786 g<sub>0</sub>)
         escape_velocity: 35.682 km/s<br />(128,455 km/h)
         rotation_period: 39.452 d
         axial_tilt: 21.60°
         albedo: 0.30
-        temperature: 741 K<br />(467 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III j
         type: Icy
         formationType: Captured
@@ -495,14 +495,14 @@ planets:
         radius: 26,510.9 km<br/>(4.161 Yrths)
         surface_area: 8.832 × 10<sup>09</sup> km<sup>2</sup><br/>(17.315 Yrths)
         volume: 7.805 × 10<sup>13</sup> km<sup>3</sup><br/>(72.053 Yrths)
-        mass: 1.206 × 10<sup>26</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 1.206 × 10<sup>26</sup> kg<br />(20.188 Yrths)
         density: 1.545 g/cm<sup>3</sup>
         surface_gravity: 11.434 m/s<sup>2</sup><br />(1.166 g<sub>0</sub>)
         escape_velocity: 24.638 km/s<br />(88,698 km/h)
         rotation_period: 75.791 d
         axial_tilt: 20.18°
         albedo: 0.30
-        temperature: 706 K<br />(433 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0028 Lasraiad C III k
         type: Asteroid
         formationType: Captured
@@ -515,14 +515,14 @@ planets:
         radius: 27,830.2 km<br/>(4.368 Yrths)
         surface_area: 9.733 × 10<sup>09</sup> km<sup>2</sup><br/>(19.082 Yrths)
         volume: 9.029 × 10<sup>13</sup> km<sup>3</sup><br/>(83.354 Yrths)
-        mass: 1.609 × 10<sup>26</sup> kg<br />(32.23682601614937 Yrths)
+        mass: 1.609 × 10<sup>26</sup> kg<br />(26.935 Yrths)
         density: 1.782 g/cm<sup>3</sup>
         surface_gravity: 13.843 m/s<sup>2</sup><br />(1.412 g<sub>0</sub>)
         escape_velocity: 27.777 km/s<br />(99,996 km/h)
         rotation_period: 70.816 d
         axial_tilt: 33.76°
         albedo: 0.30
-        temperature: 673 K<br />(400 °C)
+        temperature: 139 K<br />(-134 °C)
   - name: 0028 Lasraiad C IV
     type: Gas giant
     aphelion: 1,031,571,774 km<br />6.896 AU
@@ -534,7 +534,7 @@ planets:
     radius: 202.2 km<br/>(0.032 Yrths)
     surface_area: 5.136 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.461 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.058 × 10<sup>27</sup> kg<br />(177.11341203641078 Yrths)
+    mass: 1.058 × 10<sup>27</sup> kg<br />(177.11 Yrths)
     density: 30556830.355 g/cm<sup>3</sup>
     surface_gravity: 1724796.165 m/s<sup>2</sup><br />(175880.261 g<sub>0</sub>)
     escape_velocity: 835.682 km/s<br />(3,008,456 km/h)
@@ -555,14 +555,14 @@ planets:
         radius: 157,420.4 km<br/>(24.709 Yrths)
         surface_area: 3.114 × 10<sup>11</sup> km<sup>2</sup><br/>(610.529 Yrths)
         volume: 1.634 × 10<sup>16</sup> km<sup>3</sup><br/>(15085.507 Yrths)
-        mass: 4.542 × 10<sup>28</sup> kg<br />(177.11341203641078 Yrths)
+        mass: 4.542 × 10<sup>28</sup> kg<br />(7604.849 Yrths)
         density: 2.779 g/cm<sup>3</sup>
         surface_gravity: 122.153 m/s<sup>2</sup><br />(12.456 g<sub>0</sub>)
         escape_velocity: 196.242 km/s<br />(706,472 km/h)
         rotation_period: 49.645 d
         axial_tilt: 10.70°
         albedo: 0.30
-        temperature: 641 K<br />(367 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0028 Lasraiad C IV b
         type: Icy
         formationType: Captured
@@ -575,14 +575,14 @@ planets:
         radius: 152,790.2 km<br/>(23.982 Yrths)
         surface_area: 2.934 × 10<sup>11</sup> km<sup>2</sup><br/>(575.143 Yrths)
         volume: 1.494 × 10<sup>16</sup> km<sup>3</sup><br/>(13793.161 Yrths)
-        mass: 1.669 × 10<sup>28</sup> kg<br />(177.11341203641078 Yrths)
+        mass: 1.669 × 10<sup>28</sup> kg<br />(2793.882 Yrths)
         density: 1.117 g/cm<sup>3</sup>
         surface_gravity: 47.638 m/s<sup>2</sup><br />(4.858 g<sub>0</sub>)
         escape_velocity: 120.735 km/s<br />(434,647 km/h)
         rotation_period: 62.326 d
         axial_tilt: 13.14°
         albedo: 0.30
-        temperature: 459 K<br />(186 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0028 Lasraiad C IV c
         type: Icy
         formationType: Captured
@@ -595,14 +595,14 @@ planets:
         radius: 140,515.2 km<br/>(22.055 Yrths)
         surface_area: 2.481 × 10<sup>11</sup> km<sup>2</sup><br/>(486.442 Yrths)
         volume: 1.162 × 10<sup>16</sup> km<sup>3</sup><br/>(10728.699 Yrths)
-        mass: 1.399 × 10<sup>28</sup> kg<br />(177.11341203641078 Yrths)
+        mass: 1.399 × 10<sup>28</sup> kg<br />(2342.639 Yrths)
         density: 1.204 g/cm<sup>3</sup>
         surface_gravity: 47.227 m/s<sup>2</sup><br />(4.816 g<sub>0</sub>)
         escape_velocity: 115.284 km/s<br />(415,022 km/h)
         rotation_period: 51.372 d
         axial_tilt: 12.63°
         albedo: 0.30
-        temperature: 438 K<br />(164 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0028 Lasraiad C IV d
         type: Icy
         formationType: Impact formed
@@ -615,14 +615,14 @@ planets:
         radius: 156,110.2 km<br/>(24.503 Yrths)
         surface_area: 3.062 × 10<sup>11</sup> km<sup>2</sup><br/>(600.410 Yrths)
         volume: 1.594 × 10<sup>16</sup> km<sup>3</sup><br/>(14711.990 Yrths)
-        mass: 1.615 × 10<sup>28</sup> kg<br />(177.11341203641078 Yrths)
+        mass: 1.615 × 10<sup>28</sup> kg<br />(2704.930 Yrths)
         density: 1.014 g/cm<sup>3</sup>
         surface_gravity: 44.180 m/s<sup>2</sup><br />(4.505 g<sub>0</sub>)
         escape_velocity: 117.528 km/s<br />(423,100 km/h)
         rotation_period: 79.134 d
         axial_tilt: 14.41°
         albedo: 0.30
-        temperature: 313 K<br />(40 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0028 Lasraiad C IV e
         type: Icy
         formationType: Accreted
@@ -635,14 +635,14 @@ planets:
         radius: 174,348.2 km<br/>(27.366 Yrths)
         surface_area: 3.820 × 10<sup>11</sup> km<sup>2</sup><br/>(748.893 Yrths)
         volume: 2.220 × 10<sup>16</sup> km<sup>3</sup><br/>(20494.123 Yrths)
-        mass: 2.223 × 10<sup>28</sup> kg<br />(177.11341203641078 Yrths)
+        mass: 2.223 × 10<sup>28</sup> kg<br />(3722.988 Yrths)
         density: 1.002 g/cm<sup>3</sup>
         surface_gravity: 48.752 m/s<sup>2</sup><br />(4.971 g<sub>0</sub>)
         escape_velocity: 130.471 km/s<br />(469,697 km/h)
         rotation_period: 94.620 d
         axial_tilt: 15.06°
         albedo: 0.30
-        temperature: 247 K<br />(-26 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0028 Lasraiad C IV f
         type: Rocky
         formationType: Impact formed
@@ -655,14 +655,14 @@ planets:
         radius: 118,073.4 km<br/>(18.533 Yrths)
         surface_area: 1.752 × 10<sup>11</sup> km<sup>2</sup><br/>(343.470 Yrths)
         volume: 6.895 × 10<sup>15</sup> km<sup>3</sup><br/>(6365.509 Yrths)
-        mass: 2.074 × 10<sup>28</sup> kg<br />(177.11341203641078 Yrths)
+        mass: 2.074 × 10<sup>28</sup> kg<br />(3472.489 Yrths)
         density: 3.008 g/cm<sup>3</sup>
         surface_gravity: 99.145 m/s<sup>2</sup><br />(10.110 g<sub>0</sub>)
         escape_velocity: 153.117 km/s<br />(551,220 km/h)
         rotation_period: 33.319 d
         axial_tilt: 12.21°
         albedo: 0.30
-        temperature: 214 K<br />(-59 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0028 Lasraiad C IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -675,14 +675,14 @@ planets:
         radius: 120,735.4 km<br/>(18.951 Yrths)
         surface_area: 1.832 × 10<sup>11</sup> km<sup>2</sup><br/>(359.132 Yrths)
         volume: 7.372 × 10<sup>15</sup> km<sup>3</sup><br/>(6805.833 Yrths)
-        mass: 1.514 × 10<sup>28</sup> kg<br />(177.11341203641078 Yrths)
+        mass: 1.514 × 10<sup>28</sup> kg<br />(2535.248 Yrths)
         density: 2.054 g/cm<sup>3</sup>
         surface_gravity: 69.229 m/s<sup>2</sup><br />(7.059 g<sub>0</sub>)
         escape_velocity: 129.381 km/s<br />(465,772 km/h)
         rotation_period: 37.865 d
         axial_tilt: 30.17°
         albedo: 0.30
-        temperature: 139 K<br />(-134 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0028 Lasraiad C IV h
         type: Asteroid
         formationType: Captured
@@ -695,14 +695,14 @@ planets:
         radius: 162,229.7 km<br/>(25.464 Yrths)
         surface_area: 3.307 × 10<sup>11</sup> km<sup>2</sup><br/>(648.404 Yrths)
         volume: 1.788 × 10<sup>16</sup> km<sup>3</sup><br/>(16510.807 Yrths)
-        mass: 5.872 × 10<sup>28</sup> kg<br />(177.11341203641078 Yrths)
+        mass: 5.872 × 10<sup>28</sup> kg<br />(9832.202 Yrths)
         density: 3.283 g/cm<sup>3</sup>
         surface_gravity: 148.705 m/s<sup>2</sup><br />(15.164 g<sub>0</sub>)
         escape_velocity: 219.805 km/s<br />(791,299 km/h)
         rotation_period: 35.016 d
         axial_tilt: 41.99°
         albedo: 0.30
-        temperature: 133 K<br />(-140 °C)
+        temperature: 104 K<br />(-169 °C)
       - name: 0028 Lasraiad C IV i
         type: Ice/rock hybrid
         formationType: Captured
@@ -715,12 +715,12 @@ planets:
         radius: 121,068.4 km<br/>(19.003 Yrths)
         surface_area: 1.842 × 10<sup>11</sup> km<sup>2</sup><br/>(361.116 Yrths)
         volume: 7.433 × 10<sup>15</sup> km<sup>3</sup><br/>(6862.304 Yrths)
-        mass: 1.297 × 10<sup>28</sup> kg<br />(177.11341203641078 Yrths)
+        mass: 1.297 × 10<sup>28</sup> kg<br />(2172.043 Yrths)
         density: 1.745 g/cm<sup>3</sup>
         surface_gravity: 58.985 m/s<sup>2</sup><br />(6.015 g<sub>0</sub>)
         escape_velocity: 119.590 km/s<br />(430,526 km/h)
         rotation_period: 65.156 d
         axial_tilt: 23.29°
         albedo: 0.30
-        temperature: 121 K<br />(-152 °C)
+        temperature: 104 K<br />(-169 °C)
 ---

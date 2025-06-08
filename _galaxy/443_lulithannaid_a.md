@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      443 Lulithannaid A is a star in the constellation Lulithan
+      443 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 418.42 ly
 apparent_magnitude: 7.62
 absolute_magnitude: 2.08

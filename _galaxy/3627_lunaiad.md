@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3627 Lunaiad is a star in the constellation Luna
+      3627 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 128.98 ly
 apparent_magnitude: 9.30
 absolute_magnitude: 6.31

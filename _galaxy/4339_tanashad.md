@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4339 Tanashad is a star in the constellation Tanas
+      4339 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 519.61 ly
 apparent_magnitude: 10.87
 absolute_magnitude: 4.86

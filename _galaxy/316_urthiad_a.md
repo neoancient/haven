@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      316 Urthiad A is a star in the constellation Urth
+      316 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 358.00 ly
 apparent_magnitude: 8.62
 absolute_magnitude: 3.42

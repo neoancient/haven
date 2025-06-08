@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1423 Orshenniad is a star in the constellation Orshen
+      1423 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 260.65 ly
 apparent_magnitude: 6.97
 absolute_magnitude: 2.45
@@ -31,7 +31,7 @@ planets:
     radius: 3,082.1 km<br/>(0.484 Yrths)
     surface_area: 1.194 × 10<sup>08</sup> km<sup>2</sup><br/>(0.234 Yrths)
     volume: 1.226 × 10<sup>11</sup> km<sup>3</sup><br/>(0.113 Yrths)
-    mass: 6.799 × 10<sup>23</sup> kg<br />(0.11384566146878546 Yrths)
+    mass: 6.799 × 10<sup>23</sup> kg<br />(0.11 Yrths)
     density: 5.544 g/cm<sup>3</sup>
     surface_gravity: 4.771 m/s<sup>2</sup><br />(0.486 g<sub>0</sub>)
     escape_velocity: 5.426 km/s<br />(19,535 km/h)
@@ -52,12 +52,12 @@ planets:
         radius: 728.7 km<br/>(0.114 Yrths)
         surface_area: 6.672 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.621 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.057 × 10<sup>21</sup> kg<br />(0.11384566146878546 Yrths)
+        mass: 3.057 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.886 g/cm<sup>3</sup>
         surface_gravity: 0.384 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.748 km/s<br />(2,694 km/h)
         rotation_period: 45.372 d
         axial_tilt: 10.60°
         albedo: 0.30
-        temperature: 8352 K<br />(8079 °C)
+        temperature: 379 K<br />(106 °C)
 ---

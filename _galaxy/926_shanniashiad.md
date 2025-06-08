@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      926 Shanniashiad is a star in the constellation Shannias
+      926 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 750.83 ly
 apparent_magnitude: 11.67
 absolute_magnitude: 4.86

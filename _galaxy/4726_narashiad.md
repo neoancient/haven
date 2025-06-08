@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4726 Narashiad is a star in the constellation Naras
+      4726 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 355.97 ly
 apparent_magnitude: 11.11
 absolute_magnitude: 5.92

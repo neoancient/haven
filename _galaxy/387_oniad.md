@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      387 Oniad is a star in the constellation Oni
+      387 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 460.20 ly
 apparent_magnitude: 8.76
 absolute_magnitude: 3.01

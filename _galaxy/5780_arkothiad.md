@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5780 Arkothiad is a star in the constellation Arkoth
+      5780 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 491.15 ly
 apparent_magnitude: 9.75
 absolute_magnitude: 3.87

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      649 Narashiad is a star in the constellation Naras
+      649 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 419.91 ly
 apparent_magnitude: 8.36
 absolute_magnitude: 2.81
@@ -31,14 +31,14 @@ planets:
     radius: 197.1 km<br/>(0.031 Yrths)
     surface_area: 4.881 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.207 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.575 × 10<sup>26</sup> kg<br />(160.32399366956795 Yrths)
+    mass: 9.575 × 10<sup>26</sup> kg<br />(160.32 Yrths)
     density: 29855773.662 g/cm<sup>3</sup>
     surface_gravity: 1642858.478 m/s<sup>2</sup><br />(167524.943 g<sub>0</sub>)
     escape_velocity: 805.274 km/s<br />(2,898,985 km/h)
     rotation_period: 0.251 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1536 K<br />(1263 °C)
+    temperature: 1557 K<br />(1284 °C)
     composition:
       - 78.6919% hydrogen
       - 18.5148% helium
@@ -57,14 +57,14 @@ planets:
         radius: 143,606.0 km<br/>(22.541 Yrths)
         surface_area: 2.592 × 10<sup>11</sup> km<sup>2</sup><br/>(508.077 Yrths)
         volume: 1.241 × 10<sup>16</sup> km<sup>3</sup><br/>(11452.357 Yrths)
-        mass: 4.226 × 10<sup>28</sup> kg<br />(160.32399366956795 Yrths)
+        mass: 4.226 × 10<sup>28</sup> kg<br />(7075.875 Yrths)
         density: 3.406 g/cm<sup>3</sup>
         surface_gravity: 136.575 m/s<sup>2</sup><br />(13.927 g<sub>0</sub>)
         escape_velocity: 198.190 km/s<br />(713,484 km/h)
         rotation_period: 38.515 d
         axial_tilt: 29.05°
         albedo: 0.30
-        temperature: 1723 K<br />(1450 °C)
+        temperature: 368 K<br />(94 °C)
       - name: 649 Narashiad I b
         type: Icy
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 134,297.7 km<br/>(21.080 Yrths)
         surface_area: 2.266 × 10<sup>11</sup> km<sup>2</sup><br/>(444.347 Yrths)
         volume: 1.015 × 10<sup>16</sup> km<sup>3</sup><br/>(9366.615 Yrths)
-        mass: 1.580 × 10<sup>28</sup> kg<br />(160.32399366956795 Yrths)
+        mass: 1.580 × 10<sup>28</sup> kg<br />(2645.954 Yrths)
         density: 1.557 g/cm<sup>3</sup>
         surface_gravity: 58.396 m/s<sup>2</sup><br />(5.955 g<sub>0</sub>)
         escape_velocity: 125.324 km/s<br />(451,167 km/h)
         rotation_period: 61.691 d
         axial_tilt: 23.56°
         albedo: 0.30
-        temperature: 1070 K<br />(797 °C)
+        temperature: 368 K<br />(94 °C)
       - name: 649 Narashiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 143,736.2 km<br/>(22.561 Yrths)
         surface_area: 2.596 × 10<sup>11</sup> km<sup>2</sup><br/>(508.999 Yrths)
         volume: 1.244 × 10<sup>16</sup> km<sup>3</sup><br/>(11483.539 Yrths)
-        mass: 2.808 × 10<sup>28</sup> kg<br />(160.32399366956795 Yrths)
+        mass: 2.808 × 10<sup>28</sup> kg<br />(4701.177 Yrths)
         density: 2.257 g/cm<sup>3</sup>
         surface_gravity: 90.575 m/s<sup>2</sup><br />(9.236 g<sub>0</sub>)
         escape_velocity: 161.472 km/s<br />(581,300 km/h)
         rotation_period: 44.947 d
         axial_tilt: 9.92°
         albedo: 0.30
-        temperature: 884 K<br />(611 °C)
+        temperature: 368 K<br />(94 °C)
       - name: 649 Narashiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 116,418.9 km<br/>(18.273 Yrths)
         surface_area: 1.703 × 10<sup>11</sup> km<sup>2</sup><br/>(333.912 Yrths)
         volume: 6.609 × 10<sup>15</sup> km<sup>3</sup><br/>(6101.652 Yrths)
-        mass: 1.668 × 10<sup>28</sup> kg<br />(160.32399366956795 Yrths)
+        mass: 1.668 × 10<sup>28</sup> kg<br />(2793.351 Yrths)
         density: 2.524 g/cm<sup>3</sup>
         surface_gravity: 82.038 m/s<sup>2</sup><br />(8.366 g<sub>0</sub>)
         escape_velocity: 138.302 km/s<br />(497,888 km/h)
         rotation_period: 33.674 d
         axial_tilt: 7.70°
         albedo: 0.30
-        temperature: 843 K<br />(570 °C)
+        temperature: 368 K<br />(94 °C)
       - name: 649 Narashiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 128,307.5 km<br/>(20.139 Yrths)
         surface_area: 2.069 × 10<sup>11</sup> km<sup>2</sup><br/>(405.591 Yrths)
         volume: 8.848 × 10<sup>15</sup> km<sup>3</sup><br/>(8168.324 Yrths)
-        mass: 2.072 × 10<sup>28</sup> kg<br />(160.32399366956795 Yrths)
+        mass: 2.072 × 10<sup>28</sup> kg<br />(3470.044 Yrths)
         density: 2.342 g/cm<sup>3</sup>
         surface_gravity: 83.901 m/s<sup>2</sup><br />(8.556 g<sub>0</sub>)
         escape_velocity: 146.832 km/s<br />(528,593 km/h)
         rotation_period: 33.592 d
         axial_tilt: 32.08°
         albedo: 0.30
-        temperature: 576 K<br />(303 °C)
+        temperature: 368 K<br />(94 °C)
       - name: 649 Narashiad I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -157,14 +157,14 @@ planets:
         radius: 122,591.4 km<br/>(19.242 Yrths)
         surface_area: 1.889 × 10<sup>11</sup> km<sup>2</sup><br/>(370.258 Yrths)
         volume: 7.717 × 10<sup>15</sup> km<sup>3</sup><br/>(7124.551 Yrths)
-        mass: 1.996 × 10<sup>28</sup> kg<br />(160.32399366956795 Yrths)
+        mass: 1.996 × 10<sup>28</sup> kg<br />(3342.525 Yrths)
         density: 2.587 g/cm<sup>3</sup>
         surface_gravity: 88.530 m/s<sup>2</sup><br />(9.028 g<sub>0</sub>)
         escape_velocity: 147.430 km/s<br />(530,747 km/h)
         rotation_period: 49.430 d
         axial_tilt: 12.55°
         albedo: 0.30
-        temperature: 375 K<br />(102 °C)
+        temperature: 368 K<br />(94 °C)
   - name: 649 Narashiad II
     type: Large terrestrial
     aphelion: 364,133,122 km<br />2.434 AU
@@ -176,14 +176,14 @@ planets:
     radius: 10,770.6 km<br/>(1.691 Yrths)
     surface_area: 1.458 × 10<sup>09</sup> km<sup>2</sup><br/>(2.858 Yrths)
     volume: 5.234 × 10<sup>12</sup> km<sup>3</sup><br/>(4.832 Yrths)
-    mass: 3.578 × 10<sup>25</sup> kg<br />(5.990508608758037 Yrths)
+    mass: 3.578 × 10<sup>25</sup> kg<br />(5.99 Yrths)
     density: 6.836 g/cm<sup>3</sup>
     surface_gravity: 20.555 m/s<sup>2</sup><br />(2.096 g<sub>0</sub>)
     escape_velocity: 21.057 km/s<br />(75,804 km/h)
     rotation_period: 0.563 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 497 K<br />(224 °C)
+    temperature: 1065 K<br />(791 °C)
     surface_pressure: 6,059 kPa<br />(60 atm)
     composition:
       - 57.6670% carbon dioxide
@@ -203,14 +203,14 @@ planets:
         radius: 7,296.3 km<br/>(1.145 Yrths)
         surface_area: 6.690 × 10<sup>08</sup> km<sup>2</sup><br/>(1.312 Yrths)
         volume: 1.627 × 10<sup>12</sup> km<sup>3</sup><br/>(1.502 Yrths)
-        mass: 5.141 × 10<sup>24</sup> kg<br />(5.990508608758037 Yrths)
+        mass: 5.141 × 10<sup>24</sup> kg<br />(0.861 Yrths)
         density: 3.160 g/cm<sup>3</sup>
         surface_gravity: 6.437 m/s<sup>2</sup><br />(0.656 g<sub>0</sub>)
         escape_velocity: 9.699 km/s<br />(34,915 km/h)
         rotation_period: 35.862 d
         axial_tilt: 19.57°
         albedo: 0.30
-        temperature: 3669 K<br />(3396 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: 649 Narashiad II b
         type: Rocky
         formationType: Impact formed
@@ -223,12 +223,12 @@ planets:
         radius: 6,546.1 km<br/>(1.027 Yrths)
         surface_area: 5.385 × 10<sup>08</sup> km<sup>2</sup><br/>(1.056 Yrths)
         volume: 1.175 × 10<sup>12</sup> km<sup>3</sup><br/>(1.085 Yrths)
-        mass: 3.688 × 10<sup>24</sup> kg<br />(5.990508608758037 Yrths)
+        mass: 3.688 × 10<sup>24</sup> kg<br />(0.618 Yrths)
         density: 3.139 g/cm<sup>3</sup>
         surface_gravity: 5.737 m/s<sup>2</sup><br />(0.585 g<sub>0</sub>)
         escape_velocity: 8.672 km/s<br />(31,220 km/h)
         rotation_period: 28.819 d
         axial_tilt: 5.81°
         albedo: 0.30
-        temperature: 3498 K<br />(3225 °C)
+        temperature: 271 K<br />(-2 °C)
 ---

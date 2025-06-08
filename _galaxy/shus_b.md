@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      Shus B is a star in the constellation Pelnemen
+      Shus B is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 130.68 ly
 apparent_magnitude: 7.66
 absolute_magnitude: 4.64

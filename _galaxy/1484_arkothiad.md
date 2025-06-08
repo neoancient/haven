@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1484 Arkothiad is a star in the constellation Arkoth
+      1484 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 426.17 ly
 apparent_magnitude: 10.75
 absolute_magnitude: 5.17

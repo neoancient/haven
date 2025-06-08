@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      149 Saithiad is a star in the constellation Saith
+      149 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 252.54 ly
 apparent_magnitude: 10.44
 absolute_magnitude: 6.00

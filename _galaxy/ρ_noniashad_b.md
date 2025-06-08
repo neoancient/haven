@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ρ Noniashad B is a star in the constellation Nonias
+      ρ Noniashad B is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 147.44 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 4.56

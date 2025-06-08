@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7223 Arkothiad A is a star in the constellation Arkoth
+      7223 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 382.75 ly
 apparent_magnitude: 8.08
 absolute_magnitude: 2.73

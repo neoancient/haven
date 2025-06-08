@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1490 Geardiad is a star in the constellation Geard
+      1490 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 269.53 ly
 apparent_magnitude: 20.11
 absolute_magnitude: 15.52

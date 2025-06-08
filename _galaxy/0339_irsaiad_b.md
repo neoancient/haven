@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0339 Irsaiad B is a star in the constellation Irsa
+      0339 Irsaiad B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 272.94 ly
 apparent_magnitude: 9.54
 absolute_magnitude: 4.93

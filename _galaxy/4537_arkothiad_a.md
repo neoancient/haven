@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4537 Arkothiad A is a star in the constellation Arkoth
+      4537 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1391.49 ly
 apparent_magnitude: 6.71
 absolute_magnitude: -1.44

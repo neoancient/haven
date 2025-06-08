@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      238 Ruanead is a star in the constellation Ruane
+      238 Ruanead is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 334.01 ly
 apparent_magnitude: 10.42
 absolute_magnitude: 5.37

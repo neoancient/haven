@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3316 Noniashad is a star in the constellation Nonias
+      3316 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 405.75 ly
 apparent_magnitude: 10.46
 absolute_magnitude: 4.99

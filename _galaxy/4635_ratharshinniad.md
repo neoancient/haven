@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4635 Ratharshinniad is a star in the constellation Ratharshin
+      4635 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 560.60 ly
 apparent_magnitude: 11.91
 absolute_magnitude: 5.73

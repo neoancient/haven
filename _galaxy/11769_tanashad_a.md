@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11769 Tanashad A is a star in the constellation Tanas
+      11769 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 212.15 ly
 apparent_magnitude: 9.64
 absolute_magnitude: 5.57

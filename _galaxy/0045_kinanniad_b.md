@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0045 Kinanniad B is a star in the constellation Kinan
+      0045 Kinanniad B is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 232.19 ly
 apparent_magnitude: 9.07
 absolute_magnitude: 4.81

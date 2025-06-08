@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      158 Keead is a star in the constellation Kee
+      158 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 517.65 ly
 apparent_magnitude: 7.78
 absolute_magnitude: 1.77

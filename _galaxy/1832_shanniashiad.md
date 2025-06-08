@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1832 Shanniashiad is a star in the constellation Shannias
+      1832 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 755.33 ly
 apparent_magnitude: 9.22
 absolute_magnitude: 2.40

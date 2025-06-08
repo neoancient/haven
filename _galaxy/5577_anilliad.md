@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5577 Anilliad is a star in the constellation Anil
+      5577 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 605.50 ly
 apparent_magnitude: 11.26
 absolute_magnitude: 4.92

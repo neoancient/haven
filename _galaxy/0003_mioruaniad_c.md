@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0003 Mioruaniad C is a star in the constellation Mioruane
+      0003 Mioruaniad C is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 437.69 ly
 apparent_magnitude: 11.28
 absolute_magnitude: 5.64
@@ -31,14 +31,14 @@ planets:
     radius: 4,988.8 km<br/>(0.783 Yrths)
     surface_area: 3.128 × 10<sup>08</sup> km<sup>2</sup><br/>(0.613 Yrths)
     volume: 5.201 × 10<sup>11</sup> km<sup>3</sup><br/>(0.480 Yrths)
-    mass: 2.496 × 10<sup>24</sup> kg<br />(0.41796910432211065 Yrths)
+    mass: 2.496 × 10<sup>24</sup> kg<br />(0.42 Yrths)
     density: 4.799 g/cm<sup>3</sup>
     surface_gravity: 6.685 m/s<sup>2</sup><br />(0.682 g<sub>0</sub>)
     escape_velocity: 8.172 km/s<br />(29,421 km/h)
     rotation_period: 1.892 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 268 K<br />(-5 °C)
+    temperature: 353 K<br />(80 °C)
     surface_pressure: 8 kPa<br />(0 atm)
     composition:
       - 87.4893% methane
@@ -56,14 +56,14 @@ planets:
         radius: 826.9 km<br/>(0.130 Yrths)
         surface_area: 8.593 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.368 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 7.014 × 10<sup>21</sup> kg<br />(0.41796910432211065 Yrths)
+        mass: 7.014 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.961 g/cm<sup>3</sup>
         surface_gravity: 0.684 m/s<sup>2</sup><br />(0.070 g<sub>0</sub>)
         escape_velocity: 1.064 km/s<br />(3,831 km/h)
         rotation_period: 35.507 d
         axial_tilt: 9.37°
         albedo: 0.30
-        temperature: 4287 K<br />(4013 °C)
+        temperature: 244 K<br />(-29 °C)
       - name: 0003 Mioruaniad C I b
         type: Rocky
         formationType: Impact formed
@@ -76,12 +76,12 @@ planets:
         radius: 1,171.2 km<br/>(0.184 Yrths)
         surface_area: 1.724 × 10<sup>07</sup> km<sup>2</sup><br/>(0.034 Yrths)
         volume: 6.729 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.914 × 10<sup>22</sup> kg<br />(0.41796910432211065 Yrths)
+        mass: 1.914 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.844 g/cm<sup>3</sup>
         surface_gravity: 0.930 m/s<sup>2</sup><br />(0.095 g<sub>0</sub>)
         escape_velocity: 1.477 km/s<br />(5,317 km/h)
         rotation_period: 44.327 d
         axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 4087 K<br />(3814 °C)
+        temperature: 244 K<br />(-29 °C)
 ---

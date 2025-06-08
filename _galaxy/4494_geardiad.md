@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4494 Geardiad is a star in the constellation Geard
+      4494 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 372.44 ly
 apparent_magnitude: 10.02
 absolute_magnitude: 4.73

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      μ Nethiaiad is a star in the constellation Nethiai
+      μ Nethiaiad is a star in the constellation <a href="nethiai.html">Nethiai</a>
 distance: 142.39 ly
 apparent_magnitude: 6.19
 absolute_magnitude: 2.99
@@ -31,14 +31,14 @@ planets:
     radius: 198.0 km<br/>(0.031 Yrths)
     surface_area: 4.928 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.253 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.725 × 10<sup>26</sup> kg<br />(162.84846908332628 Yrths)
+    mass: 9.725 × 10<sup>26</sup> kg<br />(162.85 Yrths)
     density: 29897262.943 g/cm<sup>3</sup>
     surface_gravity: 1652966.074 m/s<sup>2</sup><br />(168555.630 g<sub>0</sub>)
     escape_velocity: 809.666 km/s<br />(2,914,796 km/h)
     rotation_period: 0.250 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1604 K<br />(1331 °C)
+    temperature: 1920 K<br />(1647 °C)
     composition:
       - 87.7735% helium
       - 8.1799% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 190,100.8 km<br/>(29.838 Yrths)
         surface_area: 4.541 × 10<sup>11</sup> km<sup>2</sup><br/>(890.334 Yrths)
         volume: 2.878 × 10<sup>16</sup> km<sup>3</sup><br/>(26566.187 Yrths)
-        mass: 5.221 × 10<sup>28</sup> kg<br />(162.84846908332628 Yrths)
+        mass: 5.221 × 10<sup>28</sup> kg<br />(8741.890 Yrths)
         density: 1.814 g/cm<sup>3</sup>
         surface_gravity: 96.288 m/s<sup>2</sup><br />(9.819 g<sub>0</sub>)
         escape_velocity: 191.465 km/s<br />(689,272 km/h)
         rotation_period: 57.497 d
         axial_tilt: 25.84°
         albedo: 0.30
-        temperature: 2010 K<br />(1737 °C)
+        temperature: 364 K<br />(91 °C)
       - name: μ Nethiaiad I b
         type: Icy
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 148,512.4 km<br/>(23.311 Yrths)
         surface_area: 2.772 × 10<sup>11</sup> km<sup>2</sup><br/>(543.388 Yrths)
         volume: 1.372 × 10<sup>16</sup> km<sup>3</sup><br/>(12666.753 Yrths)
-        mass: 2.027 × 10<sup>28</sup> kg<br />(162.84846908332628 Yrths)
+        mass: 2.027 × 10<sup>28</sup> kg<br />(3394.316 Yrths)
         density: 1.477 g/cm<sup>3</sup>
         surface_gravity: 61.258 m/s<sup>2</sup><br />(6.247 g<sub>0</sub>)
         escape_velocity: 134.981 km/s<br />(485,931 km/h)
         rotation_period: 77.560 d
         axial_tilt: 22.16°
         albedo: 0.30
-        temperature: 1917 K<br />(1644 °C)
+        temperature: 364 K<br />(91 °C)
       - name: μ Nethiaiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 167,824.4 km<br/>(26.342 Yrths)
         surface_area: 3.539 × 10<sup>11</sup> km<sup>2</sup><br/>(693.897 Yrths)
         volume: 1.980 × 10<sup>16</sup> km<sup>3</sup><br/>(18278.585 Yrths)
-        mass: 3.808 × 10<sup>28</sup> kg<br />(162.84846908332628 Yrths)
+        mass: 3.808 × 10<sup>28</sup> kg<br />(6376.957 Yrths)
         density: 1.923 g/cm<sup>3</sup>
         surface_gravity: 90.124 m/s<sup>2</sup><br />(9.190 g<sub>0</sub>)
         escape_velocity: 174.043 km/s<br />(626,555 km/h)
         rotation_period: 55.311 d
         axial_tilt: 21.96°
         albedo: 0.30
-        temperature: 1742 K<br />(1469 °C)
+        temperature: 364 K<br />(91 °C)
       - name: μ Nethiaiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 106,756.3 km<br/>(16.757 Yrths)
         surface_area: 1.432 × 10<sup>11</sup> km<sup>2</sup><br/>(280.784 Yrths)
         volume: 5.096 × 10<sup>15</sup> km<sup>3</sup><br/>(4704.980 Yrths)
-        mass: 1.347 × 10<sup>28</sup> kg<br />(162.84846908332628 Yrths)
+        mass: 1.347 × 10<sup>28</sup> kg<br />(2255.006 Yrths)
         density: 2.642 g/cm<sup>3</sup>
         surface_gravity: 78.758 m/s<sup>2</sup><br />(8.031 g<sub>0</sub>)
         escape_velocity: 129.764 km/s<br />(467,151 km/h)
         rotation_period: 45.690 d
         axial_tilt: 9.52°
         albedo: 0.30
-        temperature: 1510 K<br />(1237 °C)
+        temperature: 364 K<br />(91 °C)
       - name: μ Nethiaiad I e
         type: Icy
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 135,774.3 km<br/>(21.311 Yrths)
         surface_area: 2.317 × 10<sup>11</sup> km<sup>2</sup><br/>(454.172 Yrths)
         volume: 1.048 × 10<sup>16</sup> km<sup>3</sup><br/>(9678.986 Yrths)
-        mass: 1.642 × 10<sup>28</sup> kg<br />(162.84846908332628 Yrths)
+        mass: 1.642 × 10<sup>28</sup> kg<br />(2749.738 Yrths)
         density: 1.566 g/cm<sup>3</sup>
         surface_gravity: 59.373 m/s<sup>2</sup><br />(6.054 g<sub>0</sub>)
         escape_velocity: 127.062 km/s<br />(457,422 km/h)
         rotation_period: 59.851 d
         axial_tilt: 21.96°
         albedo: 0.30
-        temperature: 1440 K<br />(1167 °C)
+        temperature: 364 K<br />(91 °C)
       - name: μ Nethiaiad I f
         type: Icy
         formationType: Impact formed
@@ -156,14 +156,14 @@ planets:
         radius: 118,012.1 km<br/>(18.523 Yrths)
         surface_area: 1.750 × 10<sup>11</sup> km<sup>2</sup><br/>(343.114 Yrths)
         volume: 6.884 × 10<sup>15</sup> km<sup>3</sup><br/>(6355.610 Yrths)
-        mass: 1.088 × 10<sup>28</sup> kg<br />(162.84846908332628 Yrths)
+        mass: 1.088 × 10<sup>28</sup> kg<br />(1821.898 Yrths)
         density: 1.580 g/cm<sup>3</sup>
         surface_gravity: 52.072 m/s<sup>2</sup><br />(5.310 g<sub>0</sub>)
         escape_velocity: 110.937 km/s<br />(399,373 km/h)
         rotation_period: 51.932 d
         axial_tilt: 15.08°
         albedo: 0.30
-        temperature: 705 K<br />(431 °C)
+        temperature: 364 K<br />(91 °C)
       - name: μ Nethiaiad I g
         type: Asteroid
         formationType: Captured
@@ -176,14 +176,14 @@ planets:
         radius: 120,552.5 km<br/>(18.922 Yrths)
         surface_area: 1.826 × 10<sup>11</sup> km<sup>2</sup><br/>(358.045 Yrths)
         volume: 7.339 × 10<sup>15</sup> km<sup>3</sup><br/>(6774.952 Yrths)
-        mass: 9.540 × 10<sup>27</sup> kg<br />(162.84846908332628 Yrths)
+        mass: 9.540 × 10<sup>27</sup> kg<br />(1597.501 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 43.755 m/s<sup>2</sup><br />(4.462 g<sub>0</sub>)
         escape_velocity: 102.780 km/s<br />(370,009 km/h)
         rotation_period: 60.828 d
         axial_tilt: 16.70°
         albedo: 0.30
-        temperature: 505 K<br />(232 °C)
+        temperature: 364 K<br />(91 °C)
       - name: μ Nethiaiad I h
         type: Rocky
         formationType: Captured
@@ -196,14 +196,14 @@ planets:
         radius: 125,982.7 km<br/>(19.774 Yrths)
         surface_area: 1.994 × 10<sup>11</sup> km<sup>2</sup><br/>(391.027 Yrths)
         volume: 8.376 × 10<sup>15</sup> km<sup>3</sup><br/>(7732.326 Yrths)
-        mass: 2.688 × 10<sup>28</sup> kg<br />(162.84846908332628 Yrths)
+        mass: 2.688 × 10<sup>28</sup> kg<br />(4501.138 Yrths)
         density: 3.209 g/cm<sup>3</sup>
         surface_gravity: 112.885 m/s<sup>2</sup><br />(11.511 g<sub>0</sub>)
         escape_velocity: 168.765 km/s<br />(607,555 km/h)
         rotation_period: 29.283 d
         axial_tilt: 14.60°
         albedo: 0.30
-        temperature: 459 K<br />(186 °C)
+        temperature: 364 K<br />(91 °C)
   - name: μ Nethiaiad II
     type: Gas giant
     aphelion: 351,957,239 km<br />2.353 AU
@@ -215,14 +215,14 @@ planets:
     radius: 199.0 km<br/>(0.031 Yrths)
     surface_area: 4.979 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.303 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.886 × 10<sup>26</sup> kg<br />(165.5388577297173 Yrths)
+    mass: 9.886 × 10<sup>26</sup> kg<br />(165.54 Yrths)
     density: 29928978.718 g/cm<sup>3</sup>
     surface_gravity: 1663194.380 m/s<sup>2</sup><br />(169598.627 g<sub>0</sub>)
     escape_velocity: 814.244 km/s<br />(2,931,278 km/h)
     rotation_period: 0.250 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1129 K<br />(856 °C)
+    temperature: 1090 K<br />(817 °C)
     composition:
       - 74.7909% hydrogen
       - 21.3298% helium
@@ -241,14 +241,14 @@ planets:
         radius: 150,078.6 km<br/>(23.557 Yrths)
         surface_area: 2.830 × 10<sup>11</sup> km<sup>2</sup><br/>(554.910 Yrths)
         volume: 1.416 × 10<sup>16</sup> km<sup>3</sup><br/>(13071.746 Yrths)
-        mass: 1.589 × 10<sup>28</sup> kg<br />(165.5388577297173 Yrths)
+        mass: 1.589 × 10<sup>28</sup> kg<br />(2661.063 Yrths)
         density: 1.122 g/cm<sup>3</sup>
         surface_gravity: 47.028 m/s<sup>2</sup><br />(4.795 g<sub>0</sub>)
         escape_velocity: 118.890 km/s<br />(428,005 km/h)
         rotation_period: 72.468 d
         axial_tilt: 7.00°
         albedo: 0.30
-        temperature: 1139 K<br />(866 °C)
+        temperature: 270 K<br />(-3 °C)
       - name: μ Nethiaiad II b
         type: Rocky
         formationType: Accreted
@@ -261,14 +261,14 @@ planets:
         radius: 116,420.3 km<br/>(18.273 Yrths)
         surface_area: 1.703 × 10<sup>11</sup> km<sup>2</sup><br/>(333.920 Yrths)
         volume: 6.610 × 10<sup>15</sup> km<sup>3</sup><br/>(6101.874 Yrths)
-        mass: 2.086 × 10<sup>28</sup> kg<br />(165.5388577297173 Yrths)
+        mass: 2.086 × 10<sup>28</sup> kg<br />(3493.700 Yrths)
         density: 3.157 g/cm<sup>3</sup>
         surface_gravity: 102.604 m/s<sup>2</sup><br />(10.463 g<sub>0</sub>)
         escape_velocity: 154.670 km/s<br />(556,812 km/h)
         rotation_period: 35.961 d
         axial_tilt: 12.94°
         albedo: 0.30
-        temperature: 1035 K<br />(762 °C)
+        temperature: 270 K<br />(-3 °C)
       - name: μ Nethiaiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -281,14 +281,14 @@ planets:
         radius: 189,770.3 km<br/>(29.787 Yrths)
         surface_area: 4.525 × 10<sup>11</sup> km<sup>2</sup><br/>(887.240 Yrths)
         volume: 2.863 × 10<sup>16</sup> km<sup>3</sup><br/>(26427.850 Yrths)
-        mass: 5.461 × 10<sup>28</sup> kg<br />(165.5388577297173 Yrths)
+        mass: 5.461 × 10<sup>28</sup> kg<br />(9144.486 Yrths)
         density: 1.908 g/cm<sup>3</sup>
         surface_gravity: 101.074 m/s<sup>2</sup><br />(10.307 g<sub>0</sub>)
         escape_velocity: 195.994 km/s<br />(705,579 km/h)
         rotation_period: 42.021 d
         axial_tilt: 22.33°
         albedo: 0.30
-        temperature: 987 K<br />(714 °C)
+        temperature: 270 K<br />(-3 °C)
       - name: μ Nethiaiad II d
         type: Rocky
         formationType: Accreted
@@ -301,14 +301,14 @@ planets:
         radius: 113,521.1 km<br/>(17.818 Yrths)
         surface_area: 1.619 × 10<sup>11</sup> km<sup>2</sup><br/>(317.496 Yrths)
         volume: 6.128 × 10<sup>15</sup> km<sup>3</sup><br/>(5657.277 Yrths)
-        mass: 1.996 × 10<sup>28</sup> kg<br />(165.5388577297173 Yrths)
+        mass: 1.996 × 10<sup>28</sup> kg<br />(3342.428 Yrths)
         density: 3.257 g/cm<sup>3</sup>
         surface_gravity: 103.239 m/s<sup>2</sup><br />(10.527 g<sub>0</sub>)
         escape_velocity: 153.204 km/s<br />(551,535 km/h)
         rotation_period: 35.241 d
         axial_tilt: 16.32°
         albedo: 0.30
-        temperature: 941 K<br />(668 °C)
+        temperature: 270 K<br />(-3 °C)
       - name: μ Nethiaiad II e
         type: Icy
         formationType: Accreted
@@ -321,14 +321,14 @@ planets:
         radius: 226,105.4 km<br/>(35.490 Yrths)
         surface_area: 6.424 × 10<sup>11</sup> km<sup>2</sup><br/>(1259.525 Yrths)
         volume: 4.842 × 10<sup>16</sup> km<sup>3</sup><br/>(44700.279 Yrths)
-        mass: 5.141 × 10<sup>28</sup> kg<br />(165.5388577297173 Yrths)
+        mass: 5.141 × 10<sup>28</sup> kg<br />(8607.935 Yrths)
         density: 1.062 g/cm<sup>3</sup>
         surface_gravity: 67.021 m/s<sup>2</sup><br />(6.834 g<sub>0</sub>)
         escape_velocity: 174.209 km/s<br />(627,154 km/h)
         rotation_period: 61.112 d
         axial_tilt: 17.88°
         albedo: 0.30
-        temperature: 816 K<br />(543 °C)
+        temperature: 270 K<br />(-3 °C)
       - name: μ Nethiaiad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -341,14 +341,14 @@ planets:
         radius: 146,451.1 km<br/>(22.987 Yrths)
         surface_area: 2.695 × 10<sup>11</sup> km<sup>2</sup><br/>(528.409 Yrths)
         volume: 1.316 × 10<sup>16</sup> km<sup>3</sup><br/>(12146.610 Yrths)
-        mass: 2.105 × 10<sup>28</sup> kg<br />(165.5388577297173 Yrths)
+        mass: 2.105 × 10<sup>28</sup> kg<br />(3525.062 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 65.421 m/s<sup>2</sup><br />(6.671 g<sub>0</sub>)
         escape_velocity: 138.521 km/s<br />(498,675 km/h)
         rotation_period: 62.354 d
         axial_tilt: 27.65°
         albedo: 0.30
-        temperature: 742 K<br />(468 °C)
+        temperature: 270 K<br />(-3 °C)
       - name: μ Nethiaiad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -361,14 +361,14 @@ planets:
         radius: 120,235.4 km<br/>(18.872 Yrths)
         surface_area: 1.817 × 10<sup>11</sup> km<sup>2</sup><br/>(356.163 Yrths)
         volume: 7.281 × 10<sup>15</sup> km<sup>3</sup><br/>(6721.619 Yrths)
-        mass: 1.947 × 10<sup>28</sup> kg<br />(165.5388577297173 Yrths)
+        mass: 1.947 × 10<sup>28</sup> kg<br />(3260.939 Yrths)
         density: 2.675 g/cm<sup>3</sup>
         surface_gravity: 89.787 m/s<sup>2</sup><br />(9.156 g<sub>0</sub>)
         escape_velocity: 147.039 km/s<br />(529,341 km/h)
         rotation_period: 30.621 d
         axial_tilt: 23.08°
         albedo: 0.30
-        temperature: 707 K<br />(434 °C)
+        temperature: 270 K<br />(-3 °C)
       - name: μ Nethiaiad II h
         type: Ice/rock hybrid
         formationType: Captured
@@ -381,12 +381,12 @@ planets:
         radius: 106,238.2 km<br/>(16.675 Yrths)
         surface_area: 1.418 × 10<sup>11</sup> km<sup>2</sup><br/>(278.065 Yrths)
         volume: 5.023 × 10<sup>15</sup> km<sup>3</sup><br/>(4636.813 Yrths)
-        mass: 1.221 × 10<sup>28</sup> kg<br />(165.5388577297173 Yrths)
+        mass: 1.221 × 10<sup>28</sup> kg<br />(2043.761 Yrths)
         density: 2.430 g/cm<sup>3</sup>
         surface_gravity: 72.078 m/s<sup>2</sup><br />(7.350 g<sub>0</sub>)
         escape_velocity: 123.838 km/s<br />(445,815 km/h)
         rotation_period: 34.563 d
         axial_tilt: 23.15°
         albedo: 0.30
-        temperature: 643 K<br />(370 °C)
+        temperature: 270 K<br />(-3 °C)
 ---

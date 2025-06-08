@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      205 Arkothiad A is a star in the constellation Arkoth
+      205 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 235.30 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 6.69

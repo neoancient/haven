@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0086 Shanniashiad A is a star in the constellation Shannias
+      0086 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 292.67 ly
 apparent_magnitude: 6.38
 absolute_magnitude: 1.62

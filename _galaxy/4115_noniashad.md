@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4115 Noniashad is a star in the constellation Nonias
+      4115 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 476.39 ly
 apparent_magnitude: 10.90
 absolute_magnitude: 5.08

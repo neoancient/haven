@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1912 Tanashad A is a star in the constellation Tanas
+      1912 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 231.61 ly
 apparent_magnitude: 7.01
 absolute_magnitude: 2.75

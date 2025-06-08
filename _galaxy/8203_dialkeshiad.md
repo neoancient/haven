@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8203 Dialkeshiad is a star in the constellation Dialkes
+      8203 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 496.55 ly
 apparent_magnitude: 8.25
 absolute_magnitude: 2.33
@@ -31,14 +31,14 @@ planets:
     radius: 10,283.2 km<br/>(1.614 Yrths)
     surface_area: 1.329 × 10<sup>09</sup> km<sup>2</sup><br/>(2.605 Yrths)
     volume: 4.555 × 10<sup>12</sup> km<sup>3</sup><br/>(4.205 Yrths)
-    mass: 2.818 × 10<sup>25</sup> kg<br />(4.718878785034273 Yrths)
+    mass: 2.818 × 10<sup>25</sup> kg<br />(4.72 Yrths)
     density: 6.187 g/cm<sup>3</sup>
     surface_gravity: 17.763 m/s<sup>2</sup><br />(1.811 g<sub>0</sub>)
     escape_velocity: 19.126 km/s<br />(68,855 km/h)
     rotation_period: 0.669 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 550 K<br />(277 °C)
+    temperature: 522 K<br />(249 °C)
     surface_pressure: 1,751 kPa<br />(17 atm)
     composition:
       - 75.9698% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 4,318.9 km<br/>(0.678 Yrths)
         surface_area: 2.344 × 10<sup>08</sup> km<sup>2</sup><br/>(0.460 Yrths)
         volume: 3.375 × 10<sup>11</sup> km<sup>3</sup><br/>(0.312 Yrths)
-        mass: 8.281 × 10<sup>23</sup> kg<br />(4.718878785034273 Yrths)
+        mass: 8.281 × 10<sup>23</sup> kg<br />(0.139 Yrths)
         density: 2.454 g/cm<sup>3</sup>
         surface_gravity: 2.959 m/s<sup>2</sup><br />(0.302 g<sub>0</sub>)
         escape_velocity: 5.059 km/s<br />(18,213 km/h)
         rotation_period: 48.890 d
         axial_tilt: 24.25°
         albedo: 0.30
-        temperature: 4605 K<br />(4332 °C)
+        temperature: 383 K<br />(110 °C)
       - name: 8203 Dialkeshiad I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 8,882.9 km<br/>(1.394 Yrths)
         surface_area: 9.916 × 10<sup>08</sup> km<sup>2</sup><br/>(1.944 Yrths)
         volume: 2.936 × 10<sup>12</sup> km<sup>3</sup><br/>(2.710 Yrths)
-        mass: 2.916 × 10<sup>24</sup> kg<br />(4.718878785034273 Yrths)
+        mass: 2.916 × 10<sup>24</sup> kg<br />(0.488 Yrths)
         density: 0.993 g/cm<sup>3</sup>
         surface_gravity: 2.463 m/s<sup>2</sup><br />(0.251 g<sub>0</sub>)
         escape_velocity: 6.620 km/s<br />(23,832 km/h)
         rotation_period: 81.589 d
         axial_tilt: 11.14°
         albedo: 0.30
-        temperature: 4391 K<br />(4117 °C)
+        temperature: 383 K<br />(110 °C)
       - name: 8203 Dialkeshiad I c
         type: Icy
         formationType: Captured
@@ -97,12 +97,12 @@ planets:
         radius: 6,221.4 km<br/>(0.977 Yrths)
         surface_area: 4.864 × 10<sup>08</sup> km<sup>2</sup><br/>(0.954 Yrths)
         volume: 1.009 × 10<sup>12</sup> km<sup>3</sup><br/>(0.931 Yrths)
-        mass: 1.426 × 10<sup>24</sup> kg<br />(4.718878785034273 Yrths)
+        mass: 1.426 × 10<sup>24</sup> kg<br />(0.239 Yrths)
         density: 1.414 g/cm<sup>3</sup>
         surface_gravity: 2.455 m/s<sup>2</sup><br />(0.250 g<sub>0</sub>)
         escape_velocity: 5.531 km/s<br />(19,912 km/h)
         rotation_period: 65.554 d
         axial_tilt: 18.33°
         albedo: 0.30
-        temperature: 4186 K<br />(3913 °C)
+        temperature: 383 K<br />(110 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Orshenniad B is a star in the constellation Orshen
+      0015 Orshenniad B is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 395.66 ly
 apparent_magnitude: 9.99
 absolute_magnitude: 4.57

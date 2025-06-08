@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3363 Geardiad is a star in the constellation Geard
+      3363 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 294.63 ly
 apparent_magnitude: 17.87
 absolute_magnitude: 13.09

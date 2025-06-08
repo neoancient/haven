@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      361 Keead is a star in the constellation Kee
+      361 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 310.26 ly
 apparent_magnitude: 9.72
 absolute_magnitude: 4.83

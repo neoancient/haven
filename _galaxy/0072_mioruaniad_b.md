@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0072 Mioruaniad B is a star in the constellation Mioruane
+      0072 Mioruaniad B is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 1955.57 ly
 apparent_magnitude: 13.83
 absolute_magnitude: 4.94

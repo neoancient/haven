@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2685 Narashiad A is a star in the constellation Naras
+      2685 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 959.35 ly
 apparent_magnitude: 6.88
 absolute_magnitude: -0.46

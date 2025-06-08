@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1488 Keead is a star in the constellation Kee
+      1488 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 464.22 ly
 apparent_magnitude: 7.54
 absolute_magnitude: 1.77

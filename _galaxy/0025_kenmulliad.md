@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0025 Kenmulliad is a star in the constellation Kenmul
+      0025 Kenmulliad is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 203.62 ly
 apparent_magnitude: 5.82
 absolute_magnitude: 1.84
@@ -31,14 +31,14 @@ planets:
     radius: 8,671.3 km<br/>(1.361 Yrths)
     surface_area: 9.449 × 10<sup>08</sup> km<sup>2</sup><br/>(1.852 Yrths)
     volume: 2.731 × 10<sup>12</sup> km<sup>3</sup><br/>(2.521 Yrths)
-    mass: 1.915 × 10<sup>25</sup> kg<br />(3.206442836961951 Yrths)
+    mass: 1.915 × 10<sup>25</sup> kg<br />(3.21 Yrths)
     density: 7.011 g/cm<sup>3</sup>
     surface_gravity: 16.974 m/s<sup>2</sup><br />(1.731 g<sub>0</sub>)
     escape_velocity: 17.169 km/s<br />(61,809 km/h)
     rotation_period: 0.888 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 371 K<br />(98 °C)
+    temperature: 767 K<br />(494 °C)
     surface_pressure: 141 kPa<br />(1 atm)
     composition:
       - 53.3864% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 5,912.9 km<br/>(0.928 Yrths)
         surface_area: 4.394 × 10<sup>08</sup> km<sup>2</sup><br/>(0.861 Yrths)
         volume: 8.660 × 10<sup>11</sup> km<sup>3</sup><br/>(0.799 Yrths)
-        mass: 9.682 × 10<sup>23</sup> kg<br />(3.206442836961951 Yrths)
+        mass: 9.682 × 10<sup>23</sup> kg<br />(0.162 Yrths)
         density: 1.118 g/cm<sup>3</sup>
         surface_gravity: 1.846 m/s<sup>2</sup><br />(0.188 g<sub>0</sub>)
         escape_velocity: 4.675 km/s<br />(16,831 km/h)
         rotation_period: 50.796 d
         axial_tilt: 19.51°
         albedo: 0.30
-        temperature: 3578 K<br />(3305 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 0025 Kenmulliad I b
         type: Icy
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 10,910.1 km<br/>(1.712 Yrths)
         surface_area: 1.496 × 10<sup>09</sup> km<sup>2</sup><br/>(2.933 Yrths)
         volume: 5.440 × 10<sup>12</sup> km<sup>3</sup><br/>(5.022 Yrths)
-        mass: 6.240 × 10<sup>24</sup> kg<br />(3.206442836961951 Yrths)
+        mass: 6.240 × 10<sup>24</sup> kg<br />(1.045 Yrths)
         density: 1.147 g/cm<sup>3</sup>
         surface_gravity: 3.494 m/s<sup>2</sup><br />(0.356 g<sub>0</sub>)
         escape_velocity: 8.738 km/s<br />(31,455 km/h)
         rotation_period: 63.661 d
         axial_tilt: 15.07°
         albedo: 0.30
-        temperature: 3412 K<br />(3139 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 0025 Kenmulliad I c
         type: Icy
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 4,116.4 km<br/>(0.646 Yrths)
         surface_area: 2.129 × 10<sup>08</sup> km<sup>2</sup><br/>(0.417 Yrths)
         volume: 2.922 × 10<sup>11</sup> km<sup>3</sup><br/>(0.270 Yrths)
-        mass: 2.780 × 10<sup>23</sup> kg<br />(3.206442836961951 Yrths)
+        mass: 2.780 × 10<sup>23</sup> kg<br />(0.047 Yrths)
         density: 0.951 g/cm<sup>3</sup>
         surface_gravity: 1.093 m/s<sup>2</sup><br />(0.111 g<sub>0</sub>)
         escape_velocity: 3.002 km/s<br />(10,808 km/h)
         rotation_period: 98.993 d
         axial_tilt: 9.92°
         albedo: 0.30
-        temperature: 3253 K<br />(2980 °C)
+        temperature: 259 K<br />(-14 °C)
   - name: 0025 Kenmulliad II
     type: Terrestrial
     aphelion: 1,309,893,557 km<br />8.756 AU
@@ -116,14 +116,14 @@ planets:
     radius: 8,101.2 km<br/>(1.272 Yrths)
     surface_area: 8.247 × 10<sup>08</sup> km<sup>2</sup><br/>(1.617 Yrths)
     volume: 2.227 × 10<sup>12</sup> km<sup>3</sup><br/>(2.056 Yrths)
-    mass: 1.036 × 10<sup>25</sup> kg<br />(1.7340797360639066 Yrths)
+    mass: 1.036 × 10<sup>25</sup> kg<br />(1.73 Yrths)
     density: 4.650 g/cm<sup>3</sup>
     surface_gravity: 10.517 m/s<sup>2</sup><br />(1.072 g<sub>0</sub>)
     escape_velocity: 13.063 km/s<br />(47,026 km/h)
     rotation_period: 0.862 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 202 K<br />(-72 °C)
+    temperature: 234 K<br />(-39 °C)
     surface_pressure: 17 kPa<br />(0 atm)
     composition:
       - 90.4055% nitrogen
@@ -142,14 +142,14 @@ planets:
         radius: 3,007.2 km<br/>(0.472 Yrths)
         surface_area: 1.136 × 10<sup>08</sup> km<sup>2</sup><br/>(0.223 Yrths)
         volume: 1.139 × 10<sup>11</sup> km<sup>3</sup><br/>(0.105 Yrths)
-        mass: 3.285 × 10<sup>23</sup> kg<br />(1.7340797360639066 Yrths)
+        mass: 3.285 × 10<sup>23</sup> kg<br />(0.055 Yrths)
         density: 2.884 g/cm<sup>3</sup>
         surface_gravity: 2.421 m/s<sup>2</sup><br />(0.247 g<sub>0</sub>)
         escape_velocity: 3.819 km/s<br />(13,747 km/h)
         rotation_period: 45.902 d
         axial_tilt: 23.86°
         albedo: 0.30
-        temperature: 2405 K<br />(2132 °C)
+        temperature: 181 K<br />(-92 °C)
       - name: 0025 Kenmulliad II b
         type: Rocky
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 1,494.1 km<br/>(0.235 Yrths)
         surface_area: 2.805 × 10<sup>07</sup> km<sup>2</sup><br/>(0.055 Yrths)
         volume: 1.397 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 3.646 × 10<sup>22</sup> kg<br />(1.7340797360639066 Yrths)
+        mass: 3.646 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 2.610 g/cm<sup>3</sup>
         surface_gravity: 1.089 m/s<sup>2</sup><br />(0.111 g<sub>0</sub>)
         escape_velocity: 1.805 km/s<br />(6,498 km/h)
         rotation_period: 36.099 d
         axial_tilt: 18.08°
         albedo: 0.30
-        temperature: 2293 K<br />(2020 °C)
+        temperature: 181 K<br />(-92 °C)
   - name: 0025 Kenmulliad III
     type: Ice giant
     aphelion: 2,705,119,059 km<br />18.082 AU
@@ -181,14 +181,14 @@ planets:
     radius: 46,982.3 km<br/>(7.374 Yrths)
     surface_area: 2.774 × 10<sup>10</sup> km<sup>2</sup><br/>(54.382 Yrths)
     volume: 4.344 × 10<sup>14</sup> km<sup>3</sup><br/>(401.033 Yrths)
-    mass: 4.353 × 10<sup>26</sup> kg<br />(72.88659564075682 Yrths)
+    mass: 4.353 × 10<sup>26</sup> kg<br />(72.89 Yrths)
     density: 1.002 g/cm<sup>3</sup>
     surface_gravity: 13.144 m/s<sup>2</sup><br />(1.340 g<sub>0</sub>)
     escape_velocity: 35.167 km/s<br />(126,601 km/h)
     rotation_period: 0.296 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 201 K<br />(-72 °C)
+    temperature: 178 K<br />(-95 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -204,14 +204,14 @@ planets:
         radius: 46,242.9 km<br/>(7.258 Yrths)
         surface_area: 2.687 × 10<sup>10</sup> km<sup>2</sup><br/>(52.683 Yrths)
         volume: 4.142 × 10<sup>14</sup> km<sup>3</sup><br/>(382.395 Yrths)
-        mass: 7.737 × 10<sup>26</sup> kg<br />(72.88659564075682 Yrths)
+        mass: 7.737 × 10<sup>26</sup> kg<br />(129.547 Yrths)
         density: 1.868 g/cm<sup>3</sup>
         surface_gravity: 24.114 m/s<sup>2</sup><br />(2.459 g<sub>0</sub>)
         escape_velocity: 47.257 km/s<br />(170,126 km/h)
         rotation_period: 38.393 d
         axial_tilt: 16.04°
         albedo: 0.30
-        temperature: 873 K<br />(600 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0025 Kenmulliad III b
         type: Icy
         formationType: Captured
@@ -224,14 +224,14 @@ planets:
         radius: 38,798.0 km<br/>(6.090 Yrths)
         surface_area: 1.892 × 10<sup>10</sup> km<sup>2</sup><br/>(37.085 Yrths)
         volume: 2.446 × 10<sup>14</sup> km<sup>3</sup><br/>(225.842 Yrths)
-        mass: 3.418 × 10<sup>26</sup> kg<br />(72.88659564075682 Yrths)
+        mass: 3.418 × 10<sup>26</sup> kg<br />(57.241 Yrths)
         density: 1.397 g/cm<sup>3</sup>
         surface_gravity: 15.136 m/s<sup>2</sup><br />(1.543 g<sub>0</sub>)
         escape_velocity: 34.295 km/s<br />(123,461 km/h)
         rotation_period: 74.313 d
         axial_tilt: 12.46°
         albedo: 0.30
-        temperature: 794 K<br />(521 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0025 Kenmulliad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -244,14 +244,14 @@ planets:
         radius: 44,328.7 km<br/>(6.958 Yrths)
         surface_area: 2.469 × 10<sup>10</sup> km<sup>2</sup><br/>(48.412 Yrths)
         volume: 3.649 × 10<sup>14</sup> km<sup>3</sup><br/>(336.848 Yrths)
-        mass: 6.503 × 10<sup>26</sup> kg<br />(72.88659564075682 Yrths)
+        mass: 6.503 × 10<sup>26</sup> kg<br />(108.898 Yrths)
         density: 1.782 g/cm<sup>3</sup>
         surface_gravity: 22.059 m/s<sup>2</sup><br />(2.249 g<sub>0</sub>)
         escape_velocity: 44.253 km/s<br />(159,312 km/h)
         rotation_period: 39.454 d
         axial_tilt: 31.67°
         albedo: 0.30
-        temperature: 722 K<br />(449 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0025 Kenmulliad III d
         type: Icy
         formationType: Impact formed
@@ -264,14 +264,14 @@ planets:
         radius: 46,725.2 km<br/>(7.334 Yrths)
         surface_area: 2.744 × 10<sup>10</sup> km<sup>2</sup><br/>(53.788 Yrths)
         volume: 4.273 × 10<sup>14</sup> km<sup>3</sup><br/>(394.484 Yrths)
-        mass: 4.286 × 10<sup>26</sup> kg<br />(72.88659564075682 Yrths)
+        mass: 4.286 × 10<sup>26</sup> kg<br />(71.760 Yrths)
         density: 1.003 g/cm<sup>3</sup>
         surface_gravity: 13.083 m/s<sup>2</sup><br />(1.334 g<sub>0</sub>)
         escape_velocity: 34.990 km/s<br />(125,964 km/h)
         rotation_period: 70.648 d
         axial_tilt: 17.45°
         albedo: 0.30
-        temperature: 688 K<br />(415 °C)
+        temperature: 126 K<br />(-147 °C)
       - name: 0025 Kenmulliad III e
         type: Dwarf planet
         formationType: Accreted
@@ -284,14 +284,14 @@ planets:
         radius: 100,144.0 km<br/>(15.719 Yrths)
         surface_area: 1.260 × 10<sup>11</sup> km<sup>2</sup><br/>(247.078 Yrths)
         volume: 4.207 × 10<sup>15</sup> km<sup>3</sup><br/>(3883.756 Yrths)
-        mass: 7.785 × 10<sup>27</sup> kg<br />(72.88659564075682 Yrths)
+        mass: 7.785 × 10<sup>27</sup> kg<br />(1303.563 Yrths)
         density: 1.850 g/cm<sup>3</sup>
         surface_gravity: 51.739 m/s<sup>2</sup><br />(5.276 g<sub>0</sub>)
         escape_velocity: 101.866 km/s<br />(366,719 km/h)
         rotation_period: 37.089 d
         axial_tilt: 33.41°
         albedo: 0.30
-        temperature: 656 K<br />(383 °C)
+        temperature: 126 K<br />(-147 °C)
   - name: 0025 Kenmulliad IV
     type: Terrestrial
     aphelion: 5,536,671,749 km<br />37.010 AU
@@ -303,14 +303,14 @@ planets:
     radius: 6,383.1 km<br/>(1.002 Yrths)
     surface_area: 5.120 × 10<sup>08</sup> km<sup>2</sup><br/>(1.004 Yrths)
     volume: 1.089 × 10<sup>12</sup> km<sup>3</sup><br/>(1.006 Yrths)
-    mass: 6.017 × 10<sup>24</sup> kg<br />(1.0075966029554781 Yrths)
+    mass: 6.017 × 10<sup>24</sup> kg<br />(1.01 Yrths)
     density: 5.524 g/cm<sup>3</sup>
     surface_gravity: 9.844 m/s<sup>2</sup><br />(1.004 g<sub>0</sub>)
     escape_velocity: 11.218 km/s<br />(40,384 km/h)
     rotation_period: 0.999 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 102 K<br />(-171 °C)
+    temperature: 130 K<br />(-143 °C)
     surface_pressure: 25 kPa<br />(0 atm)
     composition:
       - 76.6558% methane
@@ -331,14 +331,14 @@ planets:
         radius: 1,926.4 km<br/>(0.302 Yrths)
         surface_area: 4.664 × 10<sup>07</sup> km<sup>2</sup><br/>(0.091 Yrths)
         volume: 2.995 × 10<sup>10</sup> km<sup>3</sup><br/>(0.028 Yrths)
-        mass: 1.011 × 10<sup>23</sup> kg<br />(1.0075966029554781 Yrths)
+        mass: 1.011 × 10<sup>23</sup> kg<br />(0.017 Yrths)
         density: 3.376 g/cm<sup>3</sup>
         surface_gravity: 1.816 m/s<sup>2</sup><br />(0.185 g<sub>0</sub>)
         escape_velocity: 2.647 km/s<br />(9,528 km/h)
         rotation_period: 40.042 d
         axial_tilt: 18.62°
         albedo: 0.30
-        temperature: 1300 K<br />(1027 °C)
+        temperature: 88 K<br />(-186 °C)
       - name: 0025 Kenmulliad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -351,12 +351,12 @@ planets:
         radius: 1,291.7 km<br/>(0.203 Yrths)
         surface_area: 2.097 × 10<sup>07</sup> km<sup>2</sup><br/>(0.041 Yrths)
         volume: 9.028 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 2.213 × 10<sup>22</sup> kg<br />(1.0075966029554781 Yrths)
+        mass: 2.213 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.451 g/cm<sup>3</sup>
         surface_gravity: 0.884 m/s<sup>2</sup><br />(0.090 g<sub>0</sub>)
         escape_velocity: 1.512 km/s<br />(5,444 km/h)
         rotation_period: 34.190 d
         axial_tilt: 26.91°
         albedo: 0.30
-        temperature: 1240 K<br />(966 °C)
+        temperature: 88 K<br />(-186 °C)
 ---

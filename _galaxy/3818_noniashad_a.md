@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3818 Noniashad A is a star in the constellation Nonias
+      3818 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 474.87 ly
 apparent_magnitude: 7.91
 absolute_magnitude: 2.09

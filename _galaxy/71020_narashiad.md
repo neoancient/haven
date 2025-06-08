@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      71020 Narashiad is a star in the constellation Naras
+      71020 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 517.26 ly
 apparent_magnitude: 11.35
 absolute_magnitude: 5.35

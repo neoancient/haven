@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      86 Nurranpugiad is a star in the constellation Nurranpug
+      86 Nurranpugiad is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 1178.20 ly
 apparent_magnitude: 17.64
 absolute_magnitude: 9.85

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8112 Tanashad is a star in the constellation Tanas
+      8112 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 301.17 ly
 apparent_magnitude: 11.25
 absolute_magnitude: 6.43

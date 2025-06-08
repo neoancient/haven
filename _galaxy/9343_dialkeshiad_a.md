@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9343 Dialkeshiad A is a star in the constellation Dialkes
+      9343 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 255.54 ly
 apparent_magnitude: 10.52
 absolute_magnitude: 6.05

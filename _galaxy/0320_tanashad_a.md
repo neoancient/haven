@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0320 Tanashad A is a star in the constellation Tanas
+      0320 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 67.77 ly
 apparent_magnitude: 6.73
 absolute_magnitude: 5.14

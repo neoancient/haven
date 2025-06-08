@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1800 Keead A is a star in the constellation Kee
+      1800 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 459.36 ly
 apparent_magnitude: 8.40
 absolute_magnitude: 2.65

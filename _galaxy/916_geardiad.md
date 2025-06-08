@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      916 Geardiad is a star in the constellation Geard
+      916 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 497.66 ly
 apparent_magnitude: 12.39
 absolute_magnitude: 6.47

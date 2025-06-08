@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1333 Keead A is a star in the constellation Kee
+      1333 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 675.73 ly
 apparent_magnitude: 7.09
 absolute_magnitude: 0.51

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      758 Ratharshinniad A is a star in the constellation Ratharshin
+      758 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 222.50 ly
 apparent_magnitude: 9.86
 absolute_magnitude: 5.69

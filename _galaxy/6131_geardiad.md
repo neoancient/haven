@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6131 Geardiad is a star in the constellation Geard
+      6131 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 227.94 ly
 apparent_magnitude: 11.36
 absolute_magnitude: 7.14

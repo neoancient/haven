@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4511 Arkothiad is a star in the constellation Arkoth
+      4511 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 459.08 ly
 apparent_magnitude: 10.72
 absolute_magnitude: 4.98

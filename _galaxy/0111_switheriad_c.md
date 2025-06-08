@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0111 Switheriad C is a star in the constellation Swither
+      0111 Switheriad C is a star in the constellation <a href="swither.html">Swither</a>
 distance: 394.45 ly
 apparent_magnitude: 13.96
 absolute_magnitude: 8.55
@@ -31,7 +31,7 @@ planets:
     radius: 2,775.2 km<br/>(0.436 Yrths)
     surface_area: 9.678 × 10<sup>07</sup> km<sup>2</sup><br/>(0.190 Yrths)
     volume: 8.953 × 10<sup>10</sup> km<sup>3</sup><br/>(0.083 Yrths)
-    mass: 3.960 × 10<sup>25</sup> kg<br />(6.63152922784638 Yrths)
+    mass: 3.960 × 10<sup>25</sup> kg<br />(6.63 Yrths)
     density: 442.337 g/cm<sup>3</sup>
     surface_gravity: 342.732 m/s<sup>2</sup><br />(34.949 g<sub>0</sub>)
     escape_velocity: 43.645 km/s<br />(157,123 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 6,040.3 km<br/>(0.948 Yrths)
         surface_area: 4.585 × 10<sup>08</sup> km<sup>2</sup><br/>(0.899 Yrths)
         volume: 9.232 × 10<sup>11</sup> km<sup>3</sup><br/>(0.852 Yrths)
-        mass: 1.997 × 10<sup>24</sup> kg<br />(6.63152922784638 Yrths)
+        mass: 1.997 × 10<sup>24</sup> kg<br />(0.334 Yrths)
         density: 2.164 g/cm<sup>3</sup>
         surface_gravity: 3.649 m/s<sup>2</sup><br />(0.372 g<sub>0</sub>)
         escape_velocity: 6.644 km/s<br />(23,918 km/h)
         rotation_period: 48.800 d
         axial_tilt: 16.96°
         albedo: 0.30
-        temperature: 3786 K<br />(3513 °C)
+        temperature: 347 K<br />(73 °C)
       - name: 0111 Switheriad C I b
         type: Rocky
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 6,728.5 km<br/>(1.056 Yrths)
         surface_area: 5.689 × 10<sup>08</sup> km<sup>2</sup><br/>(1.115 Yrths)
         volume: 1.276 × 10<sup>12</sup> km<sup>3</sup><br/>(1.178 Yrths)
-        mass: 4.245 × 10<sup>24</sup> kg<br />(6.63152922784638 Yrths)
+        mass: 4.245 × 10<sup>24</sup> kg<br />(0.711 Yrths)
         density: 3.327 g/cm<sup>3</sup>
         surface_gravity: 6.250 m/s<sup>2</sup><br />(0.637 g<sub>0</sub>)
         escape_velocity: 9.177 km/s<br />(33,037 km/h)
         rotation_period: 27.819 d
         axial_tilt: 10.04°
         albedo: 0.30
-        temperature: 3610 K<br />(3336 °C)
+        temperature: 347 K<br />(73 °C)
   - name: 0111 Switheriad C II
     type: Terrestrial
     aphelion: 85,995,118 km<br />0.575 AU
@@ -91,14 +91,14 @@ planets:
     radius: 3,122.3 km<br/>(0.490 Yrths)
     surface_area: 1.225 × 10<sup>08</sup> km<sup>2</sup><br/>(0.240 Yrths)
     volume: 1.275 × 10<sup>11</sup> km<sup>3</sup><br/>(0.118 Yrths)
-    mass: 4.571 × 10<sup>24</sup> kg<br />(0.7653257864186516 Yrths)
+    mass: 4.571 × 10<sup>24</sup> kg<br />(0.77 Yrths)
     density: 35.847 g/cm<sup>3</sup>
     surface_gravity: 31.249 m/s<sup>2</sup><br />(3.186 g<sub>0</sub>)
     escape_velocity: 13.979 km/s<br />(50,323 km/h)
     rotation_period: 2.688 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 412 K<br />(139 °C)
+    temperature: 1167 K<br />(894 °C)
     surface_pressure: 77 kPa<br />(1 atm)
     composition:
       - 97.7667% carbon dioxide
@@ -117,12 +117,12 @@ planets:
         radius: 2,102.0 km<br/>(0.330 Yrths)
         surface_area: 5.552 × 10<sup>07</sup> km<sup>2</sup><br/>(0.109 Yrths)
         volume: 3.890 × 10<sup>10</sup> km<sup>3</sup><br/>(0.036 Yrths)
-        mass: 1.226 × 10<sup>23</sup> kg<br />(0.7653257864186516 Yrths)
+        mass: 1.226 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 3.152 g/cm<sup>3</sup>
         surface_gravity: 1.850 m/s<sup>2</sup><br />(0.189 g<sub>0</sub>)
         escape_velocity: 2.791 km/s<br />(10,047 km/h)
         rotation_period: 30.090 d
         axial_tilt: 9.91°
         albedo: 0.30
-        temperature: 5425 K<br />(5152 °C)
+        temperature: 262 K<br />(-11 °C)
 ---

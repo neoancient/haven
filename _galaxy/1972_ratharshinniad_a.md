@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1972 Ratharshinniad A is a star in the constellation Ratharshin
+      1972 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 404.61 ly
 apparent_magnitude: 7.08
 absolute_magnitude: 1.61

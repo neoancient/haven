@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      508 Arniad is a star in the constellation Arni
+      508 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1456.73 ly
 apparent_magnitude: 9.23
 absolute_magnitude: 0.98

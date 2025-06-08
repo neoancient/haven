@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0074 Lasraiad is a star in the constellation Lasra
+      0074 Lasraiad is a star in the constellation <a href="lasra.html">Lasra</a>
 distance: 660.02 ly
 apparent_magnitude: 6.22
 absolute_magnitude: -0.31
@@ -31,14 +31,14 @@ planets:
     radius: 6,275.6 km<br/>(0.985 Yrths)
     surface_area: 4.949 × 10<sup>08</sup> km<sup>2</sup><br/>(0.970 Yrths)
     volume: 1.035 × 10<sup>12</sup> km<sup>3</sup><br/>(0.956 Yrths)
-    mass: 6.852 × 10<sup>24</sup> kg<br />(1.1473131945612633 Yrths)
+    mass: 6.852 × 10<sup>24</sup> kg<br />(1.15 Yrths)
     density: 6.618 g/cm<sup>3</sup>
     surface_gravity: 11.596 m/s<sup>2</sup><br />(1.182 g<sub>0</sub>)
     escape_velocity: 12.072 km/s<br />(43,460 km/h)
     rotation_period: 0.855 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 552 K<br />(279 °C)
+    temperature: 660 K<br />(387 °C)
     surface_pressure: 1,022 kPa<br />(10 atm)
     composition:
       - 85.7481% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 3,883.3 km<br/>(0.610 Yrths)
         surface_area: 1.895 × 10<sup>08</sup> km<sup>2</sup><br/>(0.372 Yrths)
         volume: 2.453 × 10<sup>11</sup> km<sup>3</sup><br/>(0.226 Yrths)
-        mass: 4.415 × 10<sup>23</sup> kg<br />(1.1473131945612633 Yrths)
+        mass: 4.415 × 10<sup>23</sup> kg<br />(0.074 Yrths)
         density: 1.800 g/cm<sup>3</sup>
         surface_gravity: 1.952 m/s<sup>2</sup><br />(0.199 g<sub>0</sub>)
         escape_velocity: 3.896 km/s<br />(14,025 km/h)
         rotation_period: 66.891 d
         axial_tilt: 22.59°
         albedo: 0.30
-        temperature: 6496 K<br />(6223 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 0074 Lasraiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,12 +78,12 @@ planets:
         radius: 3,005.7 km<br/>(0.472 Yrths)
         surface_area: 1.135 × 10<sup>08</sup> km<sup>2</sup><br/>(0.223 Yrths)
         volume: 1.137 × 10<sup>11</sup> km<sup>3</sup><br/>(0.105 Yrths)
-        mass: 2.656 × 10<sup>23</sup> kg<br />(1.1473131945612633 Yrths)
+        mass: 2.656 × 10<sup>23</sup> kg<br />(0.044 Yrths)
         density: 2.335 g/cm<sup>3</sup>
         surface_gravity: 1.960 m/s<sup>2</sup><br />(0.200 g<sub>0</sub>)
         escape_velocity: 3.435 km/s<br />(12,365 km/h)
         rotation_period: 35.396 d
         axial_tilt: 14.01°
         albedo: 0.30
-        temperature: 6194 K<br />(5921 °C)
+        temperature: 384 K<br />(111 °C)
 ---

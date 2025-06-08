@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2160 Geardiad A is a star in the constellation Geard
+      2160 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 347.31 ly
 apparent_magnitude: 9.68
 absolute_magnitude: 4.55

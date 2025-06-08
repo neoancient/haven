@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3713 Athiad A is a star in the constellation Ath
+      3713 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 366.44 ly
 apparent_magnitude: 9.27
 absolute_magnitude: 4.01

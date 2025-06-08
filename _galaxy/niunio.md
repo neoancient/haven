@@ -1791,20 +1791,20 @@ stars:
     absolute_magnitude: 1.34
     distance: 351.28
     spectral_class: F2III
-  - name: 
-    designation: <a href="834_niunioiad.html">834 Niunioiad</a>
-    ra: 2<sup>h</sup> 19<sup>m</sup> 48.00<sup>s</sup>
-    dec: 7° 50' 24.00"
-    apparent_magnitude: 7.39
-    absolute_magnitude: 5.06
-    distance: 95.61
-    spectral_class: K6III
-  - name: 
+  - name:
     designation: <a href="2776_niunioiad.html">2776 Niunioiad</a>
     ra: 1<sup>h</sup> 12<sup>m</sup> 9.60<sup>s</sup>
     dec: -4° 35' 24.00"
-    apparent_magnitude: 8.26
-    absolute_magnitude: 4.97
+    apparent_magnitude: 9.45
+    absolute_magnitude: 6.15
     distance: 148.73
-    spectral_class: G4V
+    spectral_class: G9V
+  - name:
+    designation: <a href="834_niunioiad.html">834 Niunioiad</a>
+    ra: 2<sup>h</sup> 19<sup>m</sup> 48.00<sup>s</sup>
+    dec: 7° 50' 24.00"
+    apparent_magnitude: 10.15
+    absolute_magnitude: 7.82
+    distance: 95.61
+    spectral_class: K8V
 ---

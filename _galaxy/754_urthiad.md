@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      754 Urthiad is a star in the constellation Urth
+      754 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 639.20 ly
 apparent_magnitude: 17.44
 absolute_magnitude: 10.97

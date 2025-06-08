@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3401 Tanashad A is a star in the constellation Tanas
+      3401 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 207.80 ly
 apparent_magnitude: 8.42
 absolute_magnitude: 4.40

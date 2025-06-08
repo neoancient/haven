@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Lelniad is a star in the constellation Leln
+      τ Lelniad is a star in the constellation <a href="leln.html">Leln</a>
 distance: 60.52 ly
 apparent_magnitude: 6.00
 absolute_magnitude: 4.66
@@ -31,14 +31,14 @@ planets:
     radius: 12,200.3 km<br/>(1.915 Yrths)
     surface_area: 1.870 × 10<sup>09</sup> km<sup>2</sup><br/>(3.667 Yrths)
     volume: 7.607 × 10<sup>12</sup> km<sup>3</sup><br/>(7.022 Yrths)
-    mass: 4.862 × 10<sup>25</sup> kg<br />(8.14176181767086 Yrths)
+    mass: 4.862 × 10<sup>25</sup> kg<br />(8.14 Yrths)
     density: 6.392 g/cm<sup>3</sup>
     surface_gravity: 21.773 m/s<sup>2</sup><br />(2.220 g<sub>0</sub>)
     escape_velocity: 23.065 km/s<br />(83,034 km/h)
     rotation_period: 0.732 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 346 K<br />(73 °C)
+    temperature: 828 K<br />(555 °C)
     surface_pressure: 99 kPa<br />(1 atm)
     composition:
       - 71.5170% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 12,243.1 km<br/>(1.922 Yrths)
         surface_area: 1.884 × 10<sup>09</sup> km<sup>2</sup><br/>(3.693 Yrths)
         volume: 7.687 × 10<sup>12</sup> km<sup>3</sup><br/>(7.097 Yrths)
-        mass: 1.737 × 10<sup>25</sup> kg<br />(8.14176181767086 Yrths)
+        mass: 1.737 × 10<sup>25</sup> kg<br />(2.909 Yrths)
         density: 2.260 g/cm<sup>3</sup>
         surface_gravity: 7.724 m/s<sup>2</sup><br />(0.788 g<sub>0</sub>)
         escape_velocity: 13.762 km/s<br />(49,542 km/h)
         rotation_period: 44.713 d
         axial_tilt: 23.38°
         albedo: 0.30
-        temperature: 2806 K<br />(2533 °C)
+        temperature: 236 K<br />(-37 °C)
       - name: τ Lelniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 11,508.0 km<br/>(1.806 Yrths)
         surface_area: 1.664 × 10<sup>09</sup> km<sup>2</sup><br/>(3.263 Yrths)
         volume: 6.384 × 10<sup>12</sup> km<sup>3</sup><br/>(5.894 Yrths)
-        mass: 1.072 × 10<sup>25</sup> kg<br />(8.14176181767086 Yrths)
+        mass: 1.072 × 10<sup>25</sup> kg<br />(1.795 Yrths)
         density: 1.679 g/cm<sup>3</sup>
         surface_gravity: 5.395 m/s<sup>2</sup><br />(0.550 g<sub>0</sub>)
         escape_velocity: 11.151 km/s<br />(40,145 km/h)
         rotation_period: 66.920 d
         axial_tilt: 30.08°
         albedo: 0.30
-        temperature: 2676 K<br />(2403 °C)
+        temperature: 236 K<br />(-37 °C)
       - name: τ Lelniad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 9,291.1 km<br/>(1.458 Yrths)
         surface_area: 1.085 × 10<sup>09</sup> km<sup>2</sup><br/>(2.127 Yrths)
         volume: 3.360 × 10<sup>12</sup> km<sup>3</sup><br/>(3.102 Yrths)
-        mass: 8.424 × 10<sup>24</sup> kg<br />(8.14176181767086 Yrths)
+        mass: 8.424 × 10<sup>24</sup> kg<br />(1.411 Yrths)
         density: 2.508 g/cm<sup>3</sup>
         surface_gravity: 6.505 m/s<sup>2</sup><br />(0.663 g<sub>0</sub>)
         escape_velocity: 11.002 km/s<br />(39,605 km/h)
         rotation_period: 51.891 d
         axial_tilt: 7.68°
         albedo: 0.30
-        temperature: 2551 K<br />(2278 °C)
+        temperature: 236 K<br />(-37 °C)
       - name: τ Lelniad I d
         type: Icy
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 11,636.6 km<br/>(1.826 Yrths)
         surface_area: 1.702 × 10<sup>09</sup> km<sup>2</sup><br/>(3.336 Yrths)
         volume: 6.600 × 10<sup>12</sup> km<sup>3</sup><br/>(6.093 Yrths)
-        mass: 1.018 × 10<sup>25</sup> kg<br />(8.14176181767086 Yrths)
+        mass: 1.018 × 10<sup>25</sup> kg<br />(1.704 Yrths)
         density: 1.542 g/cm<sup>3</sup>
         surface_gravity: 5.009 m/s<sup>2</sup><br />(0.511 g<sub>0</sub>)
         escape_velocity: 10.804 km/s<br />(38,896 km/h)
         rotation_period: 77.439 d
         axial_tilt: 20.14°
         albedo: 0.30
-        temperature: 2433 K<br />(2159 °C)
+        temperature: 236 K<br />(-37 °C)
   - name: τ Lelniad II
     type: Terrestrial
     aphelion: 455,589,472 km<br />3.045 AU
@@ -136,14 +136,14 @@ planets:
     radius: 7,288.6 km<br/>(1.144 Yrths)
     surface_area: 6.676 × 10<sup>08</sup> km<sup>2</sup><br/>(1.309 Yrths)
     volume: 1.622 × 10<sup>12</sup> km<sup>3</sup><br/>(1.497 Yrths)
-    mass: 9.749 × 10<sup>24</sup> kg<br />(1.6325134465227262 Yrths)
+    mass: 9.749 × 10<sup>24</sup> kg<br />(1.63 Yrths)
     density: 6.011 g/cm<sup>3</sup>
     surface_gravity: 12.232 m/s<sup>2</sup><br />(1.247 g<sub>0</sub>)
     escape_velocity: 13.362 km/s<br />(48,104 km/h)
     rotation_period: 0.920 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 193 K<br />(-81 °C)
+    temperature: 222 K<br />(-51 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 82.8081% ammonia
@@ -162,14 +162,14 @@ planets:
         radius: 4,646.2 km<br/>(0.729 Yrths)
         surface_area: 2.713 × 10<sup>08</sup> km<sup>2</sup><br/>(0.532 Yrths)
         volume: 4.201 × 10<sup>11</sup> km<sup>3</sup><br/>(0.388 Yrths)
-        mass: 8.229 × 10<sup>23</sup> kg<br />(1.6325134465227262 Yrths)
+        mass: 8.229 × 10<sup>23</sup> kg<br />(0.138 Yrths)
         density: 1.959 g/cm<sup>3</sup>
         surface_gravity: 2.541 m/s<sup>2</sup><br />(0.259 g<sub>0</sub>)
         escape_velocity: 4.862 km/s<br />(17,505 km/h)
         rotation_period: 36.536 d
         axial_tilt: 25.84°
         albedo: 0.30
-        temperature: 2261 K<br />(1988 °C)
+        temperature: 175 K<br />(-98 °C)
   - name: τ Lelniad III
     type: Gas giant
     aphelion: 779,064,109 km<br />5.208 AU
@@ -181,7 +181,7 @@ planets:
     radius: 132.2 km<br/>(0.021 Yrths)
     surface_area: 2.195 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 9.673 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.705 × 10<sup>26</sup> kg<br />(28.550792380631346 Yrths)
+    mass: 1.705 × 10<sup>26</sup> kg<br />(28.55 Yrths)
     density: 17627133.351 g/cm<sup>3</sup>
     surface_gravity: 650492.471 m/s<sup>2</sup><br />(66331.772 g<sub>0</sub>)
     escape_velocity: 414.963 km/s<br />(1,493,865 km/h)
@@ -202,14 +202,14 @@ planets:
         radius: 26,536.1 km<br/>(4.165 Yrths)
         surface_area: 8.849 × 10<sup>09</sup> km<sup>2</sup><br/>(17.348 Yrths)
         volume: 7.827 × 10<sup>13</sup> km<sup>3</sup><br/>(72.259 Yrths)
-        mass: 1.026 × 10<sup>26</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 1.026 × 10<sup>26</sup> kg<br />(17.181 Yrths)
         density: 1.311 g/cm<sup>3</sup>
         surface_gravity: 9.712 m/s<sup>2</sup><br />(0.990 g<sub>0</sub>)
         escape_velocity: 22.719 km/s<br />(81,787 km/h)
         rotation_period: 84.593 d
         axial_tilt: 6.68°
         albedo: 0.30
-        temperature: 926 K<br />(653 °C)
+        temperature: 131 K<br />(-143 °C)
       - name: τ Lelniad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -222,14 +222,14 @@ planets:
         radius: 26,770.4 km<br/>(4.202 Yrths)
         surface_area: 9.006 × 10<sup>09</sup> km<sup>2</sup><br/>(17.656 Yrths)
         volume: 8.036 × 10<sup>13</sup> km<sup>3</sup><br/>(74.190 Yrths)
-        mass: 2.011 × 10<sup>26</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 2.011 × 10<sup>26</sup> kg<br />(33.666 Yrths)
         density: 2.502 g/cm<sup>3</sup>
         surface_gravity: 18.699 m/s<sup>2</sup><br />(1.907 g<sub>0</sub>)
         escape_velocity: 31.663 km/s<br />(113,985 km/h)
         rotation_period: 32.946 d
         axial_tilt: 32.12°
         albedo: 0.30
-        temperature: 603 K<br />(330 °C)
+        temperature: 131 K<br />(-143 °C)
       - name: τ Lelniad III c
         type: Icy
         formationType: Captured
@@ -242,55 +242,15 @@ planets:
         radius: 31,089.8 km<br/>(4.880 Yrths)
         surface_area: 1.215 × 10<sup>10</sup> km<sup>2</sup><br/>(23.813 Yrths)
         volume: 1.259 × 10<sup>14</sup> km<sup>3</sup><br/>(116.206 Yrths)
-        mass: 1.203 × 10<sup>26</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 1.203 × 10<sup>26</sup> kg<br />(20.143 Yrths)
         density: 0.956 g/cm<sup>3</sup>
         surface_gravity: 8.295 m/s<sup>2</sup><br />(0.846 g<sub>0</sub>)
         escape_velocity: 22.726 km/s<br />(81,815 km/h)
         rotation_period: 78.794 d
         axial_tilt: 12.14°
         albedo: 0.30
-        temperature: 575 K<br />(302 °C)
+        temperature: 131 K<br />(-143 °C)
       - name: τ Lelniad III d
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 119,107,998 km<br />
-        perihelion: 110,041,557 km<br />
-        semi_major_axis: 114,574,777 km<br />
-        eccentricity: 0.040
-        orbital_period: 0.13 d<br />
-        inclination: 1.85°
-        radius: 16,964.0 km<br/>(2.663 Yrths)
-        surface_area: 3.616 × 10<sup>09</sup> km<sup>2</sup><br/>(7.090 Yrths)
-        volume: 2.045 × 10<sup>13</sup> km<sup>3</sup><br/>(18.878 Yrths)
-        mass: 4.199 × 10<sup>25</sup> kg<br />(28.550792380631346 Yrths)
-        density: 2.054 g/cm<sup>3</sup>
-        surface_gravity: 9.726 m/s<sup>2</sup><br />(0.992 g<sub>0</sub>)
-        escape_velocity: 18.178 km/s<br />(65,441 km/h)
-        rotation_period: 60.759 d
-        axial_tilt: 14.32°
-        albedo: 0.30
-        temperature: 340 K<br />(67 °C)
-      - name: τ Lelniad III e
-        type: Asteroid
-        formationType: Captured
-        aphelion: 149,465,233 km<br />
-        perihelion: 127,805,728 km<br />
-        semi_major_axis: 138,635,481 km<br />
-        eccentricity: 0.078
-        orbital_period: 0.13 d<br />
-        inclination: 3.82°
-        radius: 11,712.1 km<br/>(1.838 Yrths)
-        surface_area: 1.724 × 10<sup>09</sup> km<sup>2</sup><br/>(3.379 Yrths)
-        volume: 6.730 × 10<sup>12</sup> km<sup>3</sup><br/>(6.213 Yrths)
-        mass: 1.992 × 10<sup>25</sup> kg<br />(28.550792380631346 Yrths)
-        density: 2.959 g/cm<sup>3</sup>
-        surface_gravity: 9.677 m/s<sup>2</sup><br />(0.987 g<sub>0</sub>)
-        escape_velocity: 15.066 km/s<br />(54,238 km/h)
-        rotation_period: 31.256 d
-        axial_tilt: 14.97°
-        albedo: 0.30
-        temperature: 309 K<br />(36 °C)
-      - name: τ Lelniad III f
         type: Icy
         formationType: Captured
         aphelion: 206,615,843 km<br />
@@ -302,15 +262,15 @@ planets:
         radius: 27,263.5 km<br/>(4.279 Yrths)
         surface_area: 9.341 × 10<sup>09</sup> km<sup>2</sup><br/>(18.312 Yrths)
         volume: 8.489 × 10<sup>13</sup> km<sup>3</sup><br/>(78.365 Yrths)
-        mass: 9.064 × 10<sup>25</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 9.064 × 10<sup>25</sup> kg<br />(15.178 Yrths)
         density: 1.068 g/cm<sup>3</sup>
         surface_gravity: 8.128 m/s<sup>2</sup><br />(0.829 g<sub>0</sub>)
         escape_velocity: 21.067 km/s<br />(75,841 km/h)
         rotation_period: 71.194 d
         axial_tilt: 7.54°
         albedo: 0.30
-        temperature: 256 K<br />(-17 °C)
-      - name: τ Lelniad III g
+        temperature: 131 K<br />(-143 °C)
+      - name: τ Lelniad III e
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 285,659,805 km<br />
@@ -322,15 +282,15 @@ planets:
         radius: 21,795.3 km<br/>(3.421 Yrths)
         surface_area: 5.969 × 10<sup>09</sup> km<sup>2</sup><br/>(11.703 Yrths)
         volume: 4.337 × 10<sup>13</sup> km<sup>3</sup><br/>(40.037 Yrths)
-        mass: 1.004 × 10<sup>26</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 1.004 × 10<sup>26</sup> kg<br />(16.820 Yrths)
         density: 2.316 g/cm<sup>3</sup>
         surface_gravity: 14.094 m/s<sup>2</sup><br />(1.437 g<sub>0</sub>)
         escape_velocity: 24.803 km/s<br />(89,292 km/h)
         rotation_period: 49.771 d
         axial_tilt: 32.19°
         albedo: 0.30
-        temperature: 222 K<br />(-51 °C)
-      - name: τ Lelniad III h
+        temperature: 131 K<br />(-143 °C)
+      - name: τ Lelniad III f
         type: Icy
         formationType: Accreted
         aphelion: 331,711,321 km<br />
@@ -342,15 +302,15 @@ planets:
         radius: 63,481.2 km<br/>(9.964 Yrths)
         surface_area: 5.064 × 10<sup>10</sup> km<sup>2</sup><br/>(99.283 Yrths)
         volume: 1.072 × 10<sup>15</sup> km<sup>3</sup><br/>(989.263 Yrths)
-        mass: 1.574 × 10<sup>27</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 1.574 × 10<sup>27</sup> kg<br />(263.590 Yrths)
         density: 1.469 g/cm<sup>3</sup>
         surface_gravity: 26.036 m/s<sup>2</sup><br />(2.655 g<sub>0</sub>)
         escape_velocity: 57.533 km/s<br />(207,120 km/h)
         rotation_period: 64.138 d
         axial_tilt: 23.24°
         albedo: 0.30
-        temperature: 211 K<br />(-62 °C)
-      - name: τ Lelniad III i
+        temperature: 131 K<br />(-143 °C)
+      - name: τ Lelniad III g
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 1,026,773,400 km<br />
@@ -362,15 +322,15 @@ planets:
         radius: 32,597.6 km<br/>(5.117 Yrths)
         surface_area: 1.335 × 10<sup>10</sup> km<sup>2</sup><br/>(26.179 Yrths)
         volume: 1.451 × 10<sup>14</sup> km<sup>3</sup><br/>(133.947 Yrths)
-        mass: 2.541 × 10<sup>26</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 2.541 × 10<sup>26</sup> kg<br />(42.549 Yrths)
         density: 1.751 g/cm<sup>3</sup>
         surface_gravity: 15.939 m/s<sup>2</sup><br />(1.625 g<sub>0</sub>)
         escape_velocity: 32.257 km/s<br />(116,127 km/h)
         rotation_period: 51.588 d
         axial_tilt: 20.89°
         albedo: 0.30
-        temperature: 114 K<br />(-159 °C)
-      - name: τ Lelniad III j
+        temperature: 131 K<br />(-143 °C)
+      - name: τ Lelniad III h
         type: Rocky
         formationType: Accreted
         aphelion: 4,483,229,780 km<br />
@@ -382,15 +342,15 @@ planets:
         radius: 30,372.2 km<br/>(4.767 Yrths)
         surface_area: 1.159 × 10<sup>10</sup> km<sup>2</sup><br/>(22.727 Yrths)
         volume: 1.174 × 10<sup>14</sup> km<sup>3</sup><br/>(108.344 Yrths)
-        mass: 3.755 × 10<sup>26</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 3.755 × 10<sup>26</sup> kg<br />(62.872 Yrths)
         density: 3.199 g/cm<sup>3</sup>
         surface_gravity: 27.130 m/s<sup>2</sup><br />(2.766 g<sub>0</sub>)
         escape_velocity: 40.623 km/s<br />(146,242 km/h)
         rotation_period: 50.933 d
         axial_tilt: 21.26°
         albedo: 0.30
-        temperature: 56 K<br />(-217 °C)
-      - name: τ Lelniad III k
+        temperature: 131 K<br />(-143 °C)
+      - name: τ Lelniad III i
         type: Rocky
         formationType: Accreted
         aphelion: 6,970,170,866 km<br />
@@ -402,15 +362,15 @@ planets:
         radius: 19,159.3 km<br/>(3.007 Yrths)
         surface_area: 4.613 × 10<sup>09</sup> km<sup>2</sup><br/>(9.044 Yrths)
         volume: 2.946 × 10<sup>13</sup> km<sup>3</sup><br/>(27.197 Yrths)
-        mass: 8.974 × 10<sup>25</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 8.974 × 10<sup>25</sup> kg<br />(15.027 Yrths)
         density: 3.046 g/cm<sup>3</sup>
         surface_gravity: 16.295 m/s<sup>2</sup><br />(1.662 g<sub>0</sub>)
         escape_velocity: 25.005 km/s<br />(90,018 km/h)
         rotation_period: 39.539 d
         axial_tilt: 14.91°
         albedo: 0.30
-        temperature: 44 K<br />(-229 °C)
-      - name: τ Lelniad III l
+        temperature: 131 K<br />(-143 °C)
+      - name: τ Lelniad III j
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 8,458,250,567 km<br />
@@ -422,12 +382,12 @@ planets:
         radius: 23,078.5 km<br/>(3.622 Yrths)
         surface_area: 6.693 × 10<sup>09</sup> km<sup>2</sup><br/>(13.122 Yrths)
         volume: 5.149 × 10<sup>13</sup> km<sup>3</sup><br/>(47.534 Yrths)
-        mass: 1.134 × 10<sup>26</sup> kg<br />(28.550792380631346 Yrths)
+        mass: 1.134 × 10<sup>26</sup> kg<br />(18.995 Yrths)
         density: 2.203 g/cm<sup>3</sup>
         surface_gravity: 14.196 m/s<sup>2</sup><br />(1.448 g<sub>0</sub>)
         escape_velocity: 25.615 km/s<br />(92,213 km/h)
         rotation_period: 43.490 d
         axial_tilt: 18.97°
         albedo: 0.30
-        temperature: 42 K<br />(-231 °C)
+        temperature: 131 K<br />(-143 °C)
 ---

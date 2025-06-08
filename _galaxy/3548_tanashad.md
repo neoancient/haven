@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3548 Tanashad is a star in the constellation Tanas
+      3548 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 547.19 ly
 apparent_magnitude: 11.41
 absolute_magnitude: 5.29

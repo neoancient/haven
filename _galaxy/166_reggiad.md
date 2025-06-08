@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      166 Reggiad is a star in the constellation Reg
+      166 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 518.24 ly
 apparent_magnitude: 10.45
 absolute_magnitude: 4.45

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3506 Shanniashiad is a star in the constellation Shannias
+      3506 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 203.86 ly
 apparent_magnitude: 10.69
 absolute_magnitude: 6.71

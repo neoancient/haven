@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1851 Geardiad is a star in the constellation Geard
+      1851 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 304.89 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 5.65

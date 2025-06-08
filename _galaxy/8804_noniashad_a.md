@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8804 Noniashad A is a star in the constellation Nonias
+      8804 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 776.04 ly
 apparent_magnitude: 7.31
 absolute_magnitude: 0.43

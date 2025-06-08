@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1354 Shanniashiad A is a star in the constellation Shannias
+      1354 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1190.71 ly
 apparent_magnitude: 6.68
 absolute_magnitude: -1.13

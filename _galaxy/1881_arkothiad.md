@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1881 Arkothiad is a star in the constellation Arkoth
+      1881 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 327.55 ly
 apparent_magnitude: 17.06
 absolute_magnitude: 12.05

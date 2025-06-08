@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4804 Narashiad A is a star in the constellation Naras
+      4804 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 569.74 ly
 apparent_magnitude: 7.21
 absolute_magnitude: 1.00

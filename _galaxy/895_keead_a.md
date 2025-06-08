@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      895 Keead A is a star in the constellation Kee
+      895 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 385.47 ly
 apparent_magnitude: 9.02
 absolute_magnitude: 3.66

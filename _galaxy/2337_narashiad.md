@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2337 Narashiad is a star in the constellation Naras
+      2337 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 910.12 ly
 apparent_magnitude: 16.40
 absolute_magnitude: 9.18

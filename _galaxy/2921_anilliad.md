@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2921 Anilliad is a star in the constellation Anil
+      2921 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 134.16 ly
 apparent_magnitude: 8.47
 absolute_magnitude: 5.40

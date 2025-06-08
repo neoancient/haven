@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      325 Saithiad is a star in the constellation Saith
+      325 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 699.94 ly
 apparent_magnitude: 11.86
 absolute_magnitude: 5.20

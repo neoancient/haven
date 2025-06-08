@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0135 Irsaiad C is a star in the constellation Irsa
+      0135 Irsaiad C is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 1705.54 ly
 apparent_magnitude: 13.37
 absolute_magnitude: 4.78
@@ -31,14 +31,14 @@ planets:
     radius: 11,210.9 km<br/>(1.760 Yrths)
     surface_area: 1.579 × 10<sup>09</sup> km<sup>2</sup><br/>(3.096 Yrths)
     volume: 5.902 × 10<sup>12</sup> km<sup>3</sup><br/>(5.449 Yrths)
-    mass: 3.854 × 10<sup>25</sup> kg<br />(6.453892416589556 Yrths)
+    mass: 3.854 × 10<sup>25</sup> kg<br />(6.45 Yrths)
     density: 6.530 g/cm<sup>3</sup>
     surface_gravity: 20.440 m/s<sup>2</sup><br />(2.084 g<sub>0</sub>)
     escape_velocity: 21.422 km/s<br />(77,121 km/h)
     rotation_period: 1.005 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 293 K<br />(20 °C)
+    temperature: 475 K<br />(202 °C)
     surface_pressure: 73 kPa<br />(1 atm)
     composition:
       - 74.6655% methane
@@ -58,14 +58,14 @@ planets:
         radius: 14,299.4 km<br/>(2.244 Yrths)
         surface_area: 2.569 × 10<sup>09</sup> km<sup>2</sup><br/>(5.038 Yrths)
         volume: 1.225 × 10<sup>13</sup> km<sup>3</sup><br/>(11.307 Yrths)
-        mass: 1.851 × 10<sup>25</sup> kg<br />(6.453892416589556 Yrths)
+        mass: 1.851 × 10<sup>25</sup> kg<br />(3.100 Yrths)
         density: 1.512 g/cm<sup>3</sup>
         surface_gravity: 6.035 m/s<sup>2</sup><br />(0.615 g<sub>0</sub>)
         escape_velocity: 13.147 km/s<br />(47,328 km/h)
         rotation_period: 44.119 d
         axial_tilt: 26.18°
         albedo: 0.30
-        temperature: 2894 K<br />(2621 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0135 Irsaiad C I b
         type: Rocky
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 5,770.0 km<br/>(0.906 Yrths)
         surface_area: 4.184 × 10<sup>08</sup> km<sup>2</sup><br/>(0.820 Yrths)
         volume: 8.047 × 10<sup>11</sup> km<sup>3</sup><br/>(0.743 Yrths)
-        mass: 2.125 × 10<sup>24</sup> kg<br />(6.453892416589556 Yrths)
+        mass: 2.125 × 10<sup>24</sup> kg<br />(0.356 Yrths)
         density: 2.641 g/cm<sup>3</sup>
         surface_gravity: 4.255 m/s<sup>2</sup><br />(0.434 g<sub>0</sub>)
         escape_velocity: 7.012 km/s<br />(25,242 km/h)
         rotation_period: 38.105 d
         axial_tilt: 17.40°
         albedo: 0.30
-        temperature: 2759 K<br />(2486 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: 0135 Irsaiad C I c
         type: Icy
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 10,890.8 km<br/>(1.709 Yrths)
         surface_area: 1.490 × 10<sup>09</sup> km<sup>2</sup><br/>(2.922 Yrths)
         volume: 5.411 × 10<sup>12</sup> km<sup>3</sup><br/>(4.995 Yrths)
-        mass: 6.369 × 10<sup>24</sup> kg<br />(6.453892416589556 Yrths)
+        mass: 6.369 × 10<sup>24</sup> kg<br />(1.066 Yrths)
         density: 1.177 g/cm<sup>3</sup>
         surface_gravity: 3.579 m/s<sup>2</sup><br />(0.365 g<sub>0</sub>)
         escape_velocity: 8.835 km/s<br />(31,807 km/h)
         rotation_period: 70.508 d
         axial_tilt: 24.12°
         albedo: 0.30
-        temperature: 2631 K<br />(2358 °C)
+        temperature: 228 K<br />(-45 °C)
   - name: 0135 Irsaiad C II
     type: Large terrestrial
     aphelion: 574,358,983 km<br />3.839 AU
@@ -117,14 +117,14 @@ planets:
     radius: 7,457.0 km<br/>(1.170 Yrths)
     surface_area: 6.988 × 10<sup>08</sup> km<sup>2</sup><br/>(1.370 Yrths)
     volume: 1.737 × 10<sup>12</sup> km<sup>3</sup><br/>(1.603 Yrths)
-    mass: 9.808 × 10<sup>24</sup> kg<br />(1.6424086610103257 Yrths)
+    mass: 9.808 × 10<sup>24</sup> kg<br />(1.64 Yrths)
     density: 5.647 g/cm<sup>3</sup>
     surface_gravity: 11.757 m/s<sup>2</sup><br />(1.199 g<sub>0</sub>)
     escape_velocity: 13.251 km/s<br />(47,702 km/h)
     rotation_period: 1.150 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 211 K<br />(-62 °C)
+    temperature: 217 K<br />(-56 °C)
     surface_pressure: 195 kPa<br />(2 atm)
     composition:
       - 85.1547% nitrogen
@@ -146,14 +146,14 @@ planets:
         radius: 3,494.3 km<br/>(0.548 Yrths)
         surface_area: 1.534 × 10<sup>08</sup> km<sup>2</sup><br/>(0.301 Yrths)
         volume: 1.787 × 10<sup>11</sup> km<sup>3</sup><br/>(0.165 Yrths)
-        mass: 5.114 × 10<sup>23</sup> kg<br />(1.6424086610103257 Yrths)
+        mass: 5.114 × 10<sup>23</sup> kg<br />(0.086 Yrths)
         density: 2.862 g/cm<sup>3</sup>
         surface_gravity: 2.792 m/s<sup>2</sup><br />(0.285 g<sub>0</sub>)
         escape_velocity: 4.420 km/s<br />(15,912 km/h)
         rotation_period: 46.432 d
         axial_tilt: 24.85°
         albedo: 0.30
-        temperature: 2461 K<br />(2188 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 0135 Irsaiad C II b
         type: Rocky
         formationType: Captured
@@ -166,14 +166,14 @@ planets:
         radius: 1,531.3 km<br/>(0.240 Yrths)
         surface_area: 2.947 × 10<sup>07</sup> km<sup>2</sup><br/>(0.058 Yrths)
         volume: 1.504 × 10<sup>10</sup> km<sup>3</sup><br/>(0.014 Yrths)
-        mass: 4.970 × 10<sup>22</sup> kg<br />(1.6424086610103257 Yrths)
+        mass: 4.970 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 3.304 g/cm<sup>3</sup>
         surface_gravity: 1.413 m/s<sup>2</sup><br />(0.144 g<sub>0</sub>)
         escape_velocity: 2.081 km/s<br />(7,493 km/h)
         rotation_period: 33.310 d
         axial_tilt: 16.48°
         albedo: 0.30
-        temperature: 2347 K<br />(2074 °C)
+        temperature: 167 K<br />(-106 °C)
       - name: 0135 Irsaiad C II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -186,12 +186,12 @@ planets:
         radius: 3,761.5 km<br/>(0.590 Yrths)
         surface_area: 1.778 × 10<sup>08</sup> km<sup>2</sup><br/>(0.349 Yrths)
         volume: 2.229 × 10<sup>11</sup> km<sup>3</sup><br/>(0.206 Yrths)
-        mass: 5.278 × 10<sup>23</sup> kg<br />(1.6424086610103257 Yrths)
+        mass: 5.278 × 10<sup>23</sup> kg<br />(0.088 Yrths)
         density: 2.368 g/cm<sup>3</sup>
         surface_gravity: 2.486 m/s<sup>2</sup><br />(0.254 g<sub>0</sub>)
         escape_velocity: 4.328 km/s<br />(15,581 km/h)
         rotation_period: 33.086 d
         axial_tilt: 32.74°
         albedo: 0.30
-        temperature: 2238 K<br />(1965 °C)
+        temperature: 167 K<br />(-106 °C)
 ---

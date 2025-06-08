@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4873 Arkothiad is a star in the constellation Arkoth
+      4873 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 427.18 ly
 apparent_magnitude: 18.11
 absolute_magnitude: 12.52

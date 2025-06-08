@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2268 Lulithannaid is a star in the constellation Lulithan
+      2268 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 595.30 ly
 apparent_magnitude: 13.97
 absolute_magnitude: 7.67

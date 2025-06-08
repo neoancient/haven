@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2288 Shanniashiad is a star in the constellation Shannias
+      2288 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1187.08 ly
 apparent_magnitude: 17.24
 absolute_magnitude: 9.43

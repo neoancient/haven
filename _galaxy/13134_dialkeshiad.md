@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13134 Dialkeshiad is a star in the constellation Dialkes
+      13134 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 592.41 ly
 apparent_magnitude: 14.38
 absolute_magnitude: 8.09

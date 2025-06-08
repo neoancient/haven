@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2026 Oniad is a star in the constellation Oni
+      2026 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 791.50 ly
 apparent_magnitude: 12.45
 absolute_magnitude: 5.53

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4157 Arkothiad is a star in the constellation Arkoth
+      4157 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 202.34 ly
 apparent_magnitude: 10.42
 absolute_magnitude: 6.46

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      369 Reggiad A is a star in the constellation Reg
+      369 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 792.15 ly
 apparent_magnitude: 7.14
 absolute_magnitude: 0.21

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1513 Narashiad is a star in the constellation Naras
+      1513 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 418.76 ly
 apparent_magnitude: 11.78
 absolute_magnitude: 6.24

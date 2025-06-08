@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1837 Arniad is a star in the constellation Arni
+      1837 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 733.91 ly
 apparent_magnitude: 11.96
 absolute_magnitude: 5.20

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5183 Dialkeshiad is a star in the constellation Dialkes
+      5183 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 643.97 ly
 apparent_magnitude: 7.21
 absolute_magnitude: 0.74

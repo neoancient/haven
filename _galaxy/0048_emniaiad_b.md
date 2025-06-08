@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0048 Emniaiad B is a star in the constellation Emnia
+      0048 Emniaiad B is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 338.10 ly
 apparent_magnitude: 9.91
 absolute_magnitude: 4.83

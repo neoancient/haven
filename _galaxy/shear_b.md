@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Shear B is a star in the constellation Emnia
+      Shear B is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 67.39 ly
 apparent_magnitude: 3.29
 absolute_magnitude: 1.71

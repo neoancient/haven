@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      κ Nayurnerniad B is a star in the constellation Nayunern
+      κ Nayurnerniad B is a star in the constellation <a href="nayunern.html">Nayunern</a>
 distance: 1145.93 ly
 apparent_magnitude: 15.77
 absolute_magnitude: 8.05

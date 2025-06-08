@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2848 Narashiad is a star in the constellation Naras
+      2848 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 500.51 ly
 apparent_magnitude: 8.51
 absolute_magnitude: 2.58
@@ -31,14 +31,14 @@ planets:
     radius: 19,200.1 km<br/>(3.014 Yrths)
     surface_area: 4.633 × 10<sup>09</sup> km<sup>2</sup><br/>(9.082 Yrths)
     volume: 2.965 × 10<sup>13</sup> km<sup>3</sup><br/>(27.371 Yrths)
-    mass: 7.693 × 10<sup>25</sup> kg<br />(12.8813379425586 Yrths)
+    mass: 7.693 × 10<sup>25</sup> kg<br />(12.88 Yrths)
     density: 2.595 g/cm<sup>3</sup>
     surface_gravity: 13.909 m/s<sup>2</sup><br />(1.418 g<sub>0</sub>)
     escape_velocity: 23.126 km/s<br />(83,255 km/h)
     rotation_period: 0.474 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 601 K<br />(328 °C)
+    temperature: 546 K<br />(273 °C)
     composition:
       - 89.4914% hydrogen
       - 8.2006% helium
@@ -59,14 +59,14 @@ planets:
         radius: 16,253.4 km<br/>(2.551 Yrths)
         surface_area: 3.320 × 10<sup>09</sup> km<sup>2</sup><br/>(6.508 Yrths)
         volume: 1.799 × 10<sup>13</sup> km<sup>3</sup><br/>(16.604 Yrths)
-        mass: 6.364 × 10<sup>25</sup> kg<br />(12.8813379425586 Yrths)
+        mass: 6.364 × 10<sup>25</sup> kg<br />(10.656 Yrths)
         density: 3.538 g/cm<sup>3</sup>
         surface_gravity: 16.056 m/s<sup>2</sup><br />(1.637 g<sub>0</sub>)
         escape_velocity: 22.862 km/s<br />(82,301 km/h)
         rotation_period: 49.396 d
         axial_tilt: 15.93°
         albedo: 0.30
-        temperature: 3746 K<br />(3473 °C)
+        temperature: 375 K<br />(101 °C)
       - name: 2848 Narashiad I b
         type: Icy
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 18,900.3 km<br/>(2.967 Yrths)
         surface_area: 4.489 × 10<sup>09</sup> km<sup>2</sup><br/>(8.801 Yrths)
         volume: 2.828 × 10<sup>13</sup> km<sup>3</sup><br/>(26.109 Yrths)
-        mass: 3.904 × 10<sup>25</sup> kg<br />(12.8813379425586 Yrths)
+        mass: 3.904 × 10<sup>25</sup> kg<br />(6.538 Yrths)
         density: 1.381 g/cm<sup>3</sup>
         surface_gravity: 7.285 m/s<sup>2</sup><br />(0.743 g<sub>0</sub>)
         escape_velocity: 16.605 km/s<br />(59,780 km/h)
         rotation_period: 66.978 d
         axial_tilt: 16.37°
         albedo: 0.30
-        temperature: 3572 K<br />(3299 °C)
+        temperature: 375 K<br />(101 °C)
       - name: 2848 Narashiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -99,14 +99,14 @@ planets:
         radius: 11,898.0 km<br/>(1.868 Yrths)
         surface_area: 1.779 × 10<sup>09</sup> km<sup>2</sup><br/>(3.488 Yrths)
         volume: 7.055 × 10<sup>12</sup> km<sup>3</sup><br/>(6.513 Yrths)
-        mass: 1.455 × 10<sup>25</sup> kg<br />(12.8813379425586 Yrths)
+        mass: 1.455 × 10<sup>25</sup> kg<br />(2.436 Yrths)
         density: 2.062 g/cm<sup>3</sup>
         surface_gravity: 6.851 m/s<sup>2</sup><br />(0.699 g<sub>0</sub>)
         escape_velocity: 12.777 km/s<br />(45,996 km/h)
         rotation_period: 62.147 d
         axial_tilt: 20.43°
         albedo: 0.30
-        temperature: 3406 K<br />(3132 °C)
+        temperature: 375 K<br />(101 °C)
       - name: 2848 Narashiad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -119,12 +119,12 @@ planets:
         radius: 19,005.5 km<br/>(2.983 Yrths)
         surface_area: 4.539 × 10<sup>09</sup> km<sup>2</sup><br/>(8.899 Yrths)
         volume: 2.876 × 10<sup>13</sup> km<sup>3</sup><br/>(26.547 Yrths)
-        mass: 6.788 × 10<sup>25</sup> kg<br />(12.8813379425586 Yrths)
+        mass: 6.788 × 10<sup>25</sup> kg<br />(11.366 Yrths)
         density: 2.360 g/cm<sup>3</sup>
         surface_gravity: 12.525 m/s<sup>2</sup><br />(1.277 g<sub>0</sub>)
         escape_velocity: 21.834 km/s<br />(78,603 km/h)
         rotation_period: 62.641 d
         axial_tilt: 33.48°
         albedo: 0.30
-        temperature: 3247 K<br />(2974 °C)
+        temperature: 375 K<br />(101 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Pukta is a star in the constellation Shy
+      Pukta is a star in the constellation <a href="shy.html">Shy</a>
 distance: 220.48 ly
 apparent_magnitude: 2.72
 absolute_magnitude: -1.43

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1416 Tanashad is a star in the constellation Tanas
+      1416 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 434.43 ly
 apparent_magnitude: 10.70
 absolute_magnitude: 5.08

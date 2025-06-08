@@ -27,7 +27,7 @@ planet:
   rotation_period: 1.387 d
   axial_tilt: 0.00°
   albedo: 0.30
-  temperature: 287 K<br />(13 °C)
+  temperature: 520 K<br />(246 °C)
   surface_pressure: 219 kPa<br />(2 atm)
   composition:
     - 54.6153% nitrogen
@@ -59,12 +59,12 @@ planet:
       radius: 2,408.8 km<br/>(0.378 Yrths)
       surface_area: 7.291 × 10<sup>07</sup> km<sup>2</sup><br/>(0.143 Yrths)
       volume: 5.854 × 10<sup>10</sup> km<sup>3</sup><br/>(0.054 Yrths)
-      mass: 1.825 × 10<sup>23</sup> kg<br />
+      mass: 1.825 × 10<sup>23</sup> kg<br />(0.031 Yrths)
       density: 3.117 g/cm<sup>3</sup>
       surface_gravity: 2.096 m/s<sup>2</sup><br />(0.214 g<sub>0</sub>)
       escape_velocity: 3.180 km/s<br />(11,448 km/h)
       rotation_period: 39.803 d
       axial_tilt: 12.20°
       albedo: 0.30
-      temperature: 3253 K<br />(2980 °C)
+      temperature: 239 K<br />(-34 °C)
 ---

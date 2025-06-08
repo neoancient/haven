@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1103 Dialkeshiad is a star in the constellation Dialkes
+      1103 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 314.71 ly
 apparent_magnitude: 10.21
 absolute_magnitude: 5.29

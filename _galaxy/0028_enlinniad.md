@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0028 Enlinniad is a star in the constellation Enlin
+      0028 Enlinniad is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 55.81 ly
 apparent_magnitude: 6.34
 absolute_magnitude: 5.18
@@ -31,14 +31,14 @@ planets:
     radius: 19,113.7 km<br/>(3.000 Yrths)
     surface_area: 4.591 × 10<sup>09</sup> km<sup>2</sup><br/>(9.001 Yrths)
     volume: 2.925 × 10<sup>13</sup> km<sup>3</sup><br/>(27.003 Yrths)
-    mass: 8.575 × 10<sup>25</sup> kg<br />(14.3579084053406 Yrths)
+    mass: 8.575 × 10<sup>25</sup> kg<br />(14.36 Yrths)
     density: 2.931 g/cm<sup>3</sup>
     surface_gravity: 15.644 m/s<sup>2</sup><br />(1.595 g<sub>0</sub>)
     escape_velocity: 24.471 km/s<br />(88,095 km/h)
     rotation_period: 1.422 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 420 K<br />(147 °C)
+    temperature: 365 K<br />(92 °C)
     composition:
       - 78.9946% hydrogen
       - 21.0054% helium
@@ -55,14 +55,14 @@ planets:
         radius: 21,878.8 km<br/>(3.434 Yrths)
         surface_area: 6.015 × 10<sup>09</sup> km<sup>2</sup><br/>(11.793 Yrths)
         volume: 4.387 × 10<sup>13</sup> km<sup>3</sup><br/>(40.499 Yrths)
-        mass: 7.004 × 10<sup>25</sup> kg<br />(14.3579084053406 Yrths)
+        mass: 7.004 × 10<sup>25</sup> kg<br />(11.729 Yrths)
         density: 1.597 g/cm<sup>3</sup>
         surface_gravity: 9.753 m/s<sup>2</sup><br />(0.995 g<sub>0</sub>)
         escape_velocity: 20.672 km/s<br />(74,421 km/h)
         rotation_period: 49.461 d
         axial_tilt: 16.04°
         albedo: 0.30
-        temperature: 2895 K<br />(2622 °C)
+        temperature: 324 K<br />(50 °C)
       - name: 0028 Enlinniad I b
         type: Rocky
         formationType: Accreted
@@ -75,14 +75,14 @@ planets:
         radius: 17,723.9 km<br/>(2.782 Yrths)
         surface_area: 3.948 × 10<sup>09</sup> km<sup>2</sup><br/>(7.739 Yrths)
         volume: 2.332 × 10<sup>13</sup> km<sup>3</sup><br/>(21.531 Yrths)
-        mass: 6.897 × 10<sup>25</sup> kg<br />(14.3579084053406 Yrths)
+        mass: 6.897 × 10<sup>25</sup> kg<br />(11.549 Yrths)
         density: 2.957 g/cm<sup>3</sup>
         surface_gravity: 14.634 m/s<sup>2</sup><br />(1.492 g<sub>0</sub>)
         escape_velocity: 22.791 km/s<br />(82,049 km/h)
         rotation_period: 34.063 d
         axial_tilt: 12.02°
         albedo: 0.30
-        temperature: 2760 K<br />(2487 °C)
+        temperature: 324 K<br />(50 °C)
       - name: 0028 Enlinniad I c
         type: Icy
         formationType: Impact formed
@@ -95,14 +95,14 @@ planets:
         radius: 7,360.1 km<br/>(1.155 Yrths)
         surface_area: 6.807 × 10<sup>08</sup> km<sup>2</sup><br/>(1.335 Yrths)
         volume: 1.670 × 10<sup>12</sup> km<sup>3</sup><br/>(1.542 Yrths)
-        mass: 2.340 × 10<sup>24</sup> kg<br />(14.3579084053406 Yrths)
+        mass: 2.340 × 10<sup>24</sup> kg<br />(0.392 Yrths)
         density: 1.401 g/cm<sup>3</sup>
         surface_gravity: 2.879 m/s<sup>2</sup><br />(0.294 g<sub>0</sub>)
         escape_velocity: 6.515 km/s<br />(23,454 km/h)
         rotation_period: 48.149 d
         axial_tilt: 22.41°
         albedo: 0.30
-        temperature: 2632 K<br />(2359 °C)
+        temperature: 324 K<br />(50 °C)
   - name: 0028 Enlinniad II
     type: Gas dwarf
     aphelion: 145,227,505 km<br />0.971 AU
@@ -114,14 +114,14 @@ planets:
     radius: 16,280.8 km<br/>(2.555 Yrths)
     surface_area: 3.331 × 10<sup>09</sup> km<sup>2</sup><br/>(6.530 Yrths)
     volume: 1.808 × 10<sup>13</sup> km<sup>3</sup><br/>(16.688 Yrths)
-    mass: 4.631 × 10<sup>25</sup> kg<br />(7.753971035988253 Yrths)
+    mass: 4.631 × 10<sup>25</sup> kg<br />(7.75 Yrths)
     density: 2.562 g/cm<sup>3</sup>
     surface_gravity: 11.644 m/s<sup>2</sup><br />(1.187 g<sub>0</sub>)
     escape_velocity: 19.485 km/s<br />(70,146 km/h)
     rotation_period: 1.107 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 326 K<br />(53 °C)
+    temperature: 284 K<br />(11 °C)
     composition:
       - 67.1704% hydrogen
       - 32.0176% helium
@@ -139,14 +139,14 @@ planets:
         radius: 16,100.7 km<br/>(2.527 Yrths)
         surface_area: 3.258 × 10<sup>09</sup> km<sup>2</sup><br/>(6.387 Yrths)
         volume: 1.748 × 10<sup>13</sup> km<sup>3</sup><br/>(16.140 Yrths)
-        mass: 1.891 × 10<sup>25</sup> kg<br />(7.753971035988253 Yrths)
+        mass: 1.891 × 10<sup>25</sup> kg<br />(3.166 Yrths)
         density: 1.082 g/cm<sup>3</sup>
         surface_gravity: 4.862 m/s<sup>2</sup><br />(0.496 g<sub>0</sub>)
         escape_velocity: 12.521 km/s<br />(45,076 km/h)
         rotation_period: 53.851 d
         axial_tilt: 18.60°
         albedo: 0.30
-        temperature: 2320 K<br />(2047 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0028 Enlinniad II b
         type: Rocky
         formationType: Captured
@@ -159,14 +159,14 @@ planets:
         radius: 7,852.4 km<br/>(1.233 Yrths)
         surface_area: 7.748 × 10<sup>08</sup> km<sup>2</sup><br/>(1.519 Yrths)
         volume: 2.028 × 10<sup>12</sup> km<sup>3</sup><br/>(1.872 Yrths)
-        mass: 6.239 × 10<sup>24</sup> kg<br />(7.753971035988253 Yrths)
+        mass: 6.239 × 10<sup>24</sup> kg<br />(1.045 Yrths)
         density: 3.076 g/cm<sup>3</sup>
         surface_gravity: 6.745 m/s<sup>2</sup><br />(0.688 g<sub>0</sub>)
         escape_velocity: 10.299 km/s<br />(37,076 km/h)
         rotation_period: 51.050 d
         axial_tilt: 17.40°
         albedo: 0.30
-        temperature: 2212 K<br />(1939 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0028 Enlinniad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -179,14 +179,14 @@ planets:
         radius: 10,939.1 km<br/>(1.717 Yrths)
         surface_area: 1.504 × 10<sup>09</sup> km<sup>2</sup><br/>(2.948 Yrths)
         volume: 5.483 × 10<sup>12</sup> km<sup>3</sup><br/>(5.062 Yrths)
-        mass: 1.200 × 10<sup>25</sup> kg<br />(7.753971035988253 Yrths)
+        mass: 1.200 × 10<sup>25</sup> kg<br />(2.010 Yrths)
         density: 2.189 g/cm<sup>3</sup>
         surface_gravity: 6.685 m/s<sup>2</sup><br />(0.682 g<sub>0</sub>)
         escape_velocity: 12.102 km/s<br />(43,567 km/h)
         rotation_period: 39.686 d
         axial_tilt: 18.00°
         albedo: 0.30
-        temperature: 2011 K<br />(1738 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0028 Enlinniad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -199,14 +199,14 @@ planets:
         radius: 7,677.3 km<br/>(1.205 Yrths)
         surface_area: 7.407 × 10<sup>08</sup> km<sup>2</sup><br/>(1.452 Yrths)
         volume: 1.895 × 10<sup>12</sup> km<sup>3</sup><br/>(1.750 Yrths)
-        mass: 4.352 × 10<sup>24</sup> kg<br />(7.753971035988253 Yrths)
+        mass: 4.352 × 10<sup>24</sup> kg<br />(0.729 Yrths)
         density: 2.296 g/cm<sup>3</sup>
         surface_gravity: 4.922 m/s<sup>2</sup><br />(0.502 g<sub>0</sub>)
         escape_velocity: 8.699 km/s<br />(31,316 km/h)
         rotation_period: 42.043 d
         axial_tilt: 21.22°
         albedo: 0.30
-        temperature: 1918 K<br />(1644 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0028 Enlinniad II e
         type: Rocky
         formationType: Impact formed
@@ -219,14 +219,14 @@ planets:
         radius: 7,131.1 km<br/>(1.119 Yrths)
         surface_area: 6.390 × 10<sup>08</sup> km<sup>2</sup><br/>(1.253 Yrths)
         volume: 1.519 × 10<sup>12</sup> km<sup>3</sup><br/>(1.402 Yrths)
-        mass: 4.834 × 10<sup>24</sup> kg<br />(7.753971035988253 Yrths)
+        mass: 4.834 × 10<sup>24</sup> kg<br />(0.809 Yrths)
         density: 3.182 g/cm<sup>3</sup>
         surface_gravity: 6.336 m/s<sup>2</sup><br />(0.646 g<sub>0</sub>)
         escape_velocity: 9.513 km/s<br />(34,246 km/h)
         rotation_period: 35.487 d
         axial_tilt: 16.00°
         albedo: 0.30
-        temperature: 1828 K<br />(1555 °C)
+        temperature: 245 K<br />(-28 °C)
   - name: 0028 Enlinniad III
     type: Gas dwarf
     aphelion: 252,179,004 km<br />1.686 AU
@@ -238,14 +238,14 @@ planets:
     radius: 16,105.7 km<br/>(2.528 Yrths)
     surface_area: 3.260 × 10<sup>09</sup> km<sup>2</sup><br/>(6.391 Yrths)
     volume: 1.750 × 10<sup>13</sup> km<sup>3</sup><br/>(16.155 Yrths)
-    mass: 4.375 × 10<sup>25</sup> kg<br />(7.325504921522241 Yrths)
+    mass: 4.375 × 10<sup>25</sup> kg<br />(7.33 Yrths)
     density: 2.500 g/cm<sup>3</sup>
     surface_gravity: 11.241 m/s<sup>2</sup><br />(1.146 g<sub>0</sub>)
     escape_velocity: 19.042 km/s<br />(68,550 km/h)
     rotation_period: 0.804 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 259 K<br />(-14 °C)
+    temperature: 247 K<br />(-26 °C)
     composition:
       - 88.1219% hydrogen
       - 5.1016% methane
@@ -265,14 +265,14 @@ planets:
         radius: 14,365.2 km<br/>(2.255 Yrths)
         surface_area: 2.593 × 10<sup>09</sup> km<sup>2</sup><br/>(5.084 Yrths)
         volume: 1.242 × 10<sup>13</sup> km<sup>3</sup><br/>(11.463 Yrths)
-        mass: 1.844 × 10<sup>25</sup> kg<br />(7.325504921522241 Yrths)
+        mass: 1.844 × 10<sup>25</sup> kg<br />(3.087 Yrths)
         density: 1.485 g/cm<sup>3</sup>
         surface_gravity: 5.955 m/s<sup>2</sup><br />(0.607 g<sub>0</sub>)
         escape_velocity: 13.089 km/s<br />(47,121 km/h)
         rotation_period: 50.681 d
         axial_tilt: 9.83°
         albedo: 0.30
-        temperature: 1877 K<br />(1604 °C)
+        temperature: 186 K<br />(-87 °C)
       - name: 0028 Enlinniad III b
         type: Rocky
         formationType: Captured
@@ -285,12 +285,12 @@ planets:
         radius: 8,024.7 km<br/>(1.260 Yrths)
         surface_area: 8.092 × 10<sup>08</sup> km<sup>2</sup><br/>(1.587 Yrths)
         volume: 2.165 × 10<sup>12</sup> km<sup>3</sup><br/>(1.998 Yrths)
-        mass: 6.898 × 10<sup>24</sup> kg<br />(7.325504921522241 Yrths)
+        mass: 6.898 × 10<sup>24</sup> kg<br />(1.155 Yrths)
         density: 3.187 g/cm<sup>3</sup>
         surface_gravity: 7.140 m/s<sup>2</sup><br />(0.728 g<sub>0</sub>)
         escape_velocity: 10.712 km/s<br />(38,563 km/h)
         rotation_period: 37.975 d
         axial_tilt: 16.27°
         albedo: 0.30
-        temperature: 1789 K<br />(1516 °C)
+        temperature: 186 K<br />(-87 °C)
 ---

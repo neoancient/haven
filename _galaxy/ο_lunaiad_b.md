@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Lunaiad B is a star in the constellation Luna
+      ο Lunaiad B is a star in the constellation <a href="luna.html">Luna</a>
 distance: 523.45 ly
 apparent_magnitude: 11.37
 absolute_magnitude: 5.34

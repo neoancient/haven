@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Irento D is a star in the constellation Esunrain
+      Irento D is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 13974.31 ly
 apparent_magnitude: 5.35
 absolute_magnitude: -7.81

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6141 Dialkeshiad A is a star in the constellation Dialkes
+      6141 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 348.91 ly
 apparent_magnitude: 10.12
 absolute_magnitude: 4.97

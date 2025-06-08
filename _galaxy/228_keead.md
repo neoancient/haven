@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      228 Keead is a star in the constellation Kee
+      228 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 491.20 ly
 apparent_magnitude: 7.66
 absolute_magnitude: 1.77

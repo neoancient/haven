@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11519 Tanashad is a star in the constellation Tanas
+      11519 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 167.98 ly
 apparent_magnitude: 8.45
 absolute_magnitude: 4.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10675 Tanashad is a star in the constellation Tanas
+      10675 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 132.17 ly
 apparent_magnitude: 9.87
 absolute_magnitude: 6.83

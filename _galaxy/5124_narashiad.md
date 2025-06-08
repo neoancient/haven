@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5124 Narashiad is a star in the constellation Naras
+      5124 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 457.71 ly
 apparent_magnitude: 10.54
 absolute_magnitude: 4.81

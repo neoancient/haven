@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8087 Arkothiad A is a star in the constellation Arkoth
+      8087 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 342.27 ly
 apparent_magnitude: 10.15
 absolute_magnitude: 5.04

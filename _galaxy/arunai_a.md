@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Arunai A is a star in the constellation Esunrain
+      Arunai A is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 312.23 ly
 apparent_magnitude: 3.22
 absolute_magnitude: -1.69

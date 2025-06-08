@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1145 Reggiad A is a star in the constellation Reg
+      1145 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 399.38 ly
 apparent_magnitude: 9.20
 absolute_magnitude: 3.76

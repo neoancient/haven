@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      741 Oniad is a star in the constellation Oni
+      741 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 988.20 ly
 apparent_magnitude: 17.03
 absolute_magnitude: 9.63

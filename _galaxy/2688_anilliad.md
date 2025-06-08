@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2688 Anilliad is a star in the constellation Anil
+      2688 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 733.15 ly
 apparent_magnitude: 12.38
 absolute_magnitude: 5.62

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      70388 Arkothiad A is a star in the constellation Arkoth
+      70388 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 592.57 ly
 apparent_magnitude: 6.70
 absolute_magnitude: 0.40

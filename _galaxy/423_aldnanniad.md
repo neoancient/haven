@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      423 Aldnanniad is a star in the constellation Aldnan
+      423 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 431.18 ly
 apparent_magnitude: 10.31
 absolute_magnitude: 4.71

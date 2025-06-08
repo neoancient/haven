@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5181 Anilliad A is a star in the constellation Anil
+      5181 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 431.96 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 5.38

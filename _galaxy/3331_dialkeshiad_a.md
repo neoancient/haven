@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3331 Dialkeshiad A is a star in the constellation Dialkes
+      3331 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 253.71 ly
 apparent_magnitude: 11.15
 absolute_magnitude: 6.69

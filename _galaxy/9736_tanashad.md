@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9736 Tanashad is a star in the constellation Tanas
+      9736 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 238.53 ly
 apparent_magnitude: 9.72
 absolute_magnitude: 5.40

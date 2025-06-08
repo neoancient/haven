@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rane B is a star in the constellation Pelnemen
+      Rane B is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 270.18 ly
 apparent_magnitude: 9.05
 absolute_magnitude: 4.46

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3713 Geardiad is a star in the constellation Geard
+      3713 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 519.95 ly
 apparent_magnitude: 14.02
 absolute_magnitude: 8.01

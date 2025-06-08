@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10826 Tanashad A is a star in the constellation Tanas
+      10826 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 179.40 ly
 apparent_magnitude: 9.12
 absolute_magnitude: 5.42

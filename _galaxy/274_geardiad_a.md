@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      274 Geardiad A is a star in the constellation Geard
+      274 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 267.97 ly
 apparent_magnitude: 9.38
 absolute_magnitude: 4.81

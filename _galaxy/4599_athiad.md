@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4599 Athiad is a star in the constellation Ath
+      4599 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 530.24 ly
 apparent_magnitude: 12.26
 absolute_magnitude: 6.20

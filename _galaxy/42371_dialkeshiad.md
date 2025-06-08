@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      42371 Dialkeshiad is a star in the constellation Dialkes
+      42371 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 627.21 ly
 apparent_magnitude: 14.51
 absolute_magnitude: 8.09

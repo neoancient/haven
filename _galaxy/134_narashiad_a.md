@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      134 Narashiad A is a star in the constellation Naras
+      134 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 268.43 ly
 apparent_magnitude: 10.83
 absolute_magnitude: 6.25

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1525 Reggiad is a star in the constellation Reg
+      1525 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 287.18 ly
 apparent_magnitude: 9.93
 absolute_magnitude: 5.21
@@ -31,7 +31,7 @@ planets:
     radius: 4,161.6 km<br/>(0.653 Yrths)
     surface_area: 2.176 × 10<sup>08</sup> km<sup>2</sup><br/>(0.427 Yrths)
     volume: 3.019 × 10<sup>11</sup> km<sup>3</sup><br/>(0.279 Yrths)
-    mass: 1.683 × 10<sup>24</sup> kg<br />(0.28175864409315937 Yrths)
+    mass: 1.683 × 10<sup>24</sup> kg<br />(0.28 Yrths)
     density: 5.574 g/cm<sup>3</sup>
     surface_gravity: 6.476 m/s<sup>2</sup><br />(0.660 g<sub>0</sub>)
     escape_velocity: 7.347 km/s<br />(26,448 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 1,415.1 km<br/>(0.222 Yrths)
         surface_area: 2.516 × 10<sup>07</sup> km<sup>2</sup><br/>(0.049 Yrths)
         volume: 1.187 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 2.329 × 10<sup>22</sup> kg<br />(0.28175864409315937 Yrths)
+        mass: 2.329 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 1.962 g/cm<sup>3</sup>
         surface_gravity: 0.775 m/s<sup>2</sup><br />(0.079 g<sub>0</sub>)
         escape_velocity: 1.482 km/s<br />(5,336 km/h)
         rotation_period: 57.071 d
         axial_tilt: 31.82°
         albedo: 0.30
-        temperature: 4982 K<br />(4709 °C)
+        temperature: 282 K<br />(9 °C)
   - name: 1525 Reggiad II
     type: Terrestrial
     aphelion: 195,828,703 km<br />1.309 AU
@@ -71,14 +71,14 @@ planets:
     radius: 6,985.5 km<br/>(1.096 Yrths)
     surface_area: 6.132 × 10<sup>08</sup> km<sup>2</sup><br/>(1.202 Yrths)
     volume: 1.428 × 10<sup>12</sup> km<sup>3</sup><br/>(1.318 Yrths)
-    mass: 7.631 × 10<sup>24</sup> kg<br />(1.2778158421948813 Yrths)
+    mass: 7.631 × 10<sup>24</sup> kg<br />(1.28 Yrths)
     density: 5.345 g/cm<sup>3</sup>
     surface_gravity: 10.423 m/s<sup>2</sup><br />(1.063 g<sub>0</sub>)
     escape_velocity: 12.076 km/s<br />(43,473 km/h)
     rotation_period: 1.036 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 258 K<br />(-15 °C)
+    temperature: 283 K<br />(10 °C)
     surface_pressure: 47 kPa<br />(0 atm)
     composition:
       - 86.6013% nitrogen
@@ -98,14 +98,14 @@ planets:
         radius: 2,916.6 km<br/>(0.458 Yrths)
         surface_area: 1.069 × 10<sup>08</sup> km<sup>2</sup><br/>(0.210 Yrths)
         volume: 1.039 × 10<sup>11</sup> km<sup>3</sup><br/>(0.096 Yrths)
-        mass: 2.365 × 10<sup>23</sup> kg<br />(1.2778158421948813 Yrths)
+        mass: 2.365 × 10<sup>23</sup> kg<br />(0.040 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 1.853 m/s<sup>2</sup><br />(0.189 g<sub>0</sub>)
         escape_velocity: 3.290 km/s<br />(11,844 km/h)
         rotation_period: 35.846 d
         axial_tilt: 31.63°
         albedo: 0.30
-        temperature: 3073 K<br />(2800 °C)
+        temperature: 218 K<br />(-55 °C)
   - name: 1525 Reggiad III
     type: Terrestrial
     aphelion: 298,262,922 km<br />1.994 AU
@@ -117,14 +117,14 @@ planets:
     radius: 6,957.2 km<br/>(1.092 Yrths)
     surface_area: 6.082 × 10<sup>08</sup> km<sup>2</sup><br/>(1.192 Yrths)
     volume: 1.411 × 10<sup>12</sup> km<sup>3</sup><br/>(1.302 Yrths)
-    mass: 7.695 × 10<sup>24</sup> kg<br />(1.288542943683757 Yrths)
+    mass: 7.695 × 10<sup>24</sup> kg<br />(1.29 Yrths)
     density: 5.455 g/cm<sup>3</sup>
     surface_gravity: 10.597 m/s<sup>2</sup><br />(1.081 g<sub>0</sub>)
     escape_velocity: 12.151 km/s<br />(43,743 km/h)
     rotation_period: 0.966 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 197 K<br />(-76 °C)
+    temperature: 210 K<br />(-63 °C)
     surface_pressure: 43 kPa<br />(0 atm)
     composition:
       - 88.6549% nitrogen
@@ -144,14 +144,14 @@ planets:
         radius: 2,254.3 km<br/>(0.354 Yrths)
         surface_area: 6.386 × 10<sup>07</sup> km<sup>2</sup><br/>(0.125 Yrths)
         volume: 4.799 × 10<sup>10</sup> km<sup>3</sup><br/>(0.044 Yrths)
-        mass: 1.377 × 10<sup>23</sup> kg<br />(1.288542943683757 Yrths)
+        mass: 1.377 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 2.870 g/cm<sup>3</sup>
         surface_gravity: 1.806 m/s<sup>2</sup><br />(0.184 g<sub>0</sub>)
         escape_velocity: 2.856 km/s<br />(10,281 km/h)
         rotation_period: 36.163 d
         axial_tilt: 21.53°
         albedo: 0.30
-        temperature: 2364 K<br />(2091 °C)
+        temperature: 169 K<br />(-104 °C)
       - name: 1525 Reggiad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -164,12 +164,12 @@ planets:
         radius: 1,768.3 km<br/>(0.278 Yrths)
         surface_area: 3.930 × 10<sup>07</sup> km<sup>2</sup><br/>(0.077 Yrths)
         volume: 2.316 × 10<sup>10</sup> km<sup>3</sup><br/>(0.021 Yrths)
-        mass: 6.068 × 10<sup>22</sup> kg<br />(1.288542943683757 Yrths)
+        mass: 6.068 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.620 g/cm<sup>3</sup>
         surface_gravity: 1.293 m/s<sup>2</sup><br />(0.132 g<sub>0</sub>)
         escape_velocity: 2.140 km/s<br />(7,705 km/h)
         rotation_period: 46.226 d
         axial_tilt: 26.68°
         albedo: 0.30
-        temperature: 2254 K<br />(1981 °C)
+        temperature: 169 K<br />(-104 °C)
 ---

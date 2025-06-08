@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10 Geardiad A is a star in the constellation Geard
+      10 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 151.14 ly
 apparent_magnitude: 8.50
 absolute_magnitude: 5.17

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      992 Narashiad is a star in the constellation Naras
+      992 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 411.55 ly
 apparent_magnitude: 12.27
 absolute_magnitude: 6.76

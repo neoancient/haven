@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3911 Athiad A is a star in the constellation Ath
+      3911 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 493.73 ly
 apparent_magnitude: 8.81
 absolute_magnitude: 2.91

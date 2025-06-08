@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0089 Olliad B is a star in the constellation Ol
+      0089 Olliad B is a star in the constellation <a href="ol.html">Ol</a>
 distance: 187.24 ly
 apparent_magnitude: 9.02
 absolute_magnitude: 5.22

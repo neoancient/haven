@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7215 Dialkeshiad is a star in the constellation Dialkes
+      7215 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 501.32 ly
 apparent_magnitude: 12.17
 absolute_magnitude: 6.24

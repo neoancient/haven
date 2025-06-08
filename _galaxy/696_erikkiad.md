@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      696 Erikkiad is a star in the constellation Erik
+      696 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1754.98 ly
 apparent_magnitude: 13.73
 absolute_magnitude: 5.08

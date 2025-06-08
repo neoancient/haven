@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6841 Dialkeshiad is a star in the constellation Dialkes
+      6841 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 340.66 ly
 apparent_magnitude: 12.34
 absolute_magnitude: 7.25
@@ -31,7 +31,7 @@ planets:
     radius: 5,587.4 km<br/>(0.877 Yrths)
     surface_area: 3.923 × 10<sup>08</sup> km<sup>2</sup><br/>(0.769 Yrths)
     volume: 7.307 × 10<sup>11</sup> km<sup>3</sup><br/>(0.675 Yrths)
-    mass: 3.808 × 10<sup>24</sup> kg<br />(0.6375649976431348 Yrths)
+    mass: 3.808 × 10<sup>24</sup> kg<br />(0.64 Yrths)
     density: 5.211 g/cm<sup>3</sup>
     surface_gravity: 8.129 m/s<sup>2</sup><br />(0.829 g<sub>0</sub>)
     escape_velocity: 9.537 km/s<br />(34,335 km/h)
@@ -50,14 +50,14 @@ planets:
     radius: 6,577.7 km<br/>(1.032 Yrths)
     surface_area: 5.437 × 10<sup>08</sup> km<sup>2</sup><br/>(1.066 Yrths)
     volume: 1.192 × 10<sup>12</sup> km<sup>3</sup><br/>(1.101 Yrths)
-    mass: 6.882 × 10<sup>24</sup> kg<br />(1.1524078565935216 Yrths)
+    mass: 6.882 × 10<sup>24</sup> kg<br />(1.15 Yrths)
     density: 5.773 g/cm<sup>3</sup>
     surface_gravity: 10.602 m/s<sup>2</sup><br />(1.081 g<sub>0</sub>)
     escape_velocity: 11.818 km/s<br />(42,545 km/h)
     rotation_period: 2.761 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 275 K<br />(2 °C)
+    temperature: 279 K<br />(6 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 96.0256% nitrogen
@@ -77,14 +77,14 @@ planets:
         radius: 1,998.9 km<br/>(0.314 Yrths)
         surface_area: 5.021 × 10<sup>07</sup> km<sup>2</sup><br/>(0.098 Yrths)
         volume: 3.345 × 10<sup>10</sup> km<sup>3</sup><br/>(0.031 Yrths)
-        mass: 1.160 × 10<sup>23</sup> kg<br />(1.1524078565935216 Yrths)
+        mass: 1.160 × 10<sup>23</sup> kg<br />(0.019 Yrths)
         density: 3.469 g/cm<sup>3</sup>
         surface_gravity: 1.936 m/s<sup>2</sup><br />(0.197 g<sub>0</sub>)
         escape_velocity: 2.784 km/s<br />(10,022 km/h)
         rotation_period: 39.418 d
         axial_tilt: 10.01°
         albedo: 0.30
-        temperature: 3289 K<br />(3015 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 6841 Dialkeshiad II b
         type: Rocky
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 2,150.9 km<br/>(0.338 Yrths)
         surface_area: 5.813 × 10<sup>07</sup> km<sup>2</sup><br/>(0.114 Yrths)
         volume: 4.168 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 1.269 × 10<sup>23</sup> kg<br />(1.1524078565935216 Yrths)
+        mass: 1.269 × 10<sup>23</sup> kg<br />(0.021 Yrths)
         density: 3.045 g/cm<sup>3</sup>
         surface_gravity: 1.829 m/s<sup>2</sup><br />(0.186 g<sub>0</sub>)
         escape_velocity: 2.807 km/s<br />(10,104 km/h)
         rotation_period: 32.625 d
         axial_tilt: 13.20°
         albedo: 0.30
-        temperature: 3135 K<br />(2862 °C)
+        temperature: 255 K<br />(-18 °C)
   - name: 6841 Dialkeshiad III
     type: Gas giant
     aphelion: 105,423,344 km<br />0.705 AU
@@ -116,7 +116,7 @@ planets:
     radius: 133.7 km<br/>(0.021 Yrths)
     surface_area: 2.248 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.002 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.845 × 10<sup>26</sup> kg<br />(30.89597098935633 Yrths)
+    mass: 1.845 × 10<sup>26</sup> kg<br />(30.90 Yrths)
     density: 18411459.303 g/cm<sup>3</sup>
     surface_gravity: 687502.872 m/s<sup>2</sup><br />(70105.783 g<sub>0</sub>)
     escape_velocity: 429.129 km/s<br />(1,544,864 km/h)
@@ -137,14 +137,14 @@ planets:
         radius: 35,523.7 km<br/>(5.576 Yrths)
         surface_area: 1.586 × 10<sup>10</sup> km<sup>2</sup><br/>(31.090 Yrths)
         volume: 1.878 × 10<sup>14</sup> km<sup>3</sup><br/>(173.353 Yrths)
-        mass: 2.774 × 10<sup>26</sup> kg<br />(30.89597098935633 Yrths)
+        mass: 2.774 × 10<sup>26</sup> kg<br />(46.458 Yrths)
         density: 1.478 g/cm<sup>3</sup>
         surface_gravity: 14.654 m/s<sup>2</sup><br />(1.494 g<sub>0</sub>)
         escape_velocity: 32.289 km/s<br />(116,239 km/h)
         rotation_period: 48.145 d
         axial_tilt: 18.49°
         albedo: 0.30
-        temperature: 1437 K<br />(1164 °C)
+        temperature: 204 K<br />(-70 °C)
       - name: 6841 Dialkeshiad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 36,292.4 km<br/>(5.696 Yrths)
         surface_area: 1.655 × 10<sup>10</sup> km<sup>2</sup><br/>(32.450 Yrths)
         volume: 2.002 × 10<sup>14</sup> km<sup>3</sup><br/>(184.852 Yrths)
-        mass: 3.813 × 10<sup>26</sup> kg<br />(30.89597098935633 Yrths)
+        mass: 3.813 × 10<sup>26</sup> kg<br />(63.843 Yrths)
         density: 1.904 g/cm<sup>3</sup>
         surface_gravity: 19.294 m/s<sup>2</sup><br />(1.967 g<sub>0</sub>)
         escape_velocity: 37.448 km/s<br />(134,812 km/h)
         rotation_period: 49.768 d
         axial_tilt: 21.31°
         albedo: 0.30
-        temperature: 1306 K<br />(1033 °C)
+        temperature: 204 K<br />(-70 °C)
       - name: 6841 Dialkeshiad III c
         type: Icy
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 44,094.2 km<br/>(6.921 Yrths)
         surface_area: 2.443 × 10<sup>10</sup> km<sup>2</sup><br/>(47.901 Yrths)
         volume: 3.591 × 10<sup>14</sup> km<sup>3</sup><br/>(331.529 Yrths)
-        mass: 3.611 × 10<sup>26</sup> kg<br />(30.89597098935633 Yrths)
+        mass: 3.611 × 10<sup>26</sup> kg<br />(60.465 Yrths)
         density: 1.006 g/cm<sup>3</sup>
         surface_gravity: 12.379 m/s<sup>2</sup><br />(1.262 g<sub>0</sub>)
         escape_velocity: 33.063 km/s<br />(119,026 km/h)
         rotation_period: 56.029 d
         axial_tilt: 7.97°
         albedo: 0.30
-        temperature: 936 K<br />(663 °C)
+        temperature: 204 K<br />(-70 °C)
       - name: 6841 Dialkeshiad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -197,14 +197,14 @@ planets:
         radius: 39,660.4 km<br/>(6.225 Yrths)
         surface_area: 1.977 × 10<sup>10</sup> km<sup>2</sup><br/>(38.753 Yrths)
         volume: 2.613 × 10<sup>14</sup> km<sup>3</sup><br/>(241.240 Yrths)
-        mass: 4.181 × 10<sup>26</sup> kg<br />(30.89597098935633 Yrths)
+        mass: 4.181 × 10<sup>26</sup> kg<br />(70.010 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 17.717 m/s<sup>2</sup><br />(1.807 g<sub>0</sub>)
         escape_velocity: 37.513 km/s<br />(135,046 km/h)
         rotation_period: 52.112 d
         axial_tilt: 29.58°
         albedo: 0.30
-        temperature: 703 K<br />(430 °C)
+        temperature: 204 K<br />(-70 °C)
       - name: 6841 Dialkeshiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -217,14 +217,14 @@ planets:
         radius: 32,062.8 km<br/>(5.033 Yrths)
         surface_area: 1.292 × 10<sup>10</sup> km<sup>2</sup><br/>(25.327 Yrths)
         volume: 1.381 × 10<sup>14</sup> km<sup>3</sup><br/>(127.462 Yrths)
-        mass: 3.143 × 10<sup>26</sup> kg<br />(30.89597098935633 Yrths)
+        mass: 3.143 × 10<sup>26</sup> kg<br />(52.626 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 20.377 m/s<sup>2</sup><br />(2.078 g<sub>0</sub>)
         escape_velocity: 36.172 km/s<br />(130,220 km/h)
         rotation_period: 42.969 d
         axial_tilt: 19.72°
         albedo: 0.30
-        temperature: 554 K<br />(281 °C)
+        temperature: 204 K<br />(-70 °C)
       - name: 6841 Dialkeshiad III f
         type: Icy
         formationType: Captured
@@ -237,14 +237,14 @@ planets:
         radius: 35,050.3 km<br/>(5.502 Yrths)
         surface_area: 1.544 × 10<sup>10</sup> km<sup>2</sup><br/>(30.267 Yrths)
         volume: 1.804 × 10<sup>14</sup> km<sup>3</sup><br/>(166.515 Yrths)
-        mass: 2.496 × 10<sup>26</sup> kg<br />(30.89597098935633 Yrths)
+        mass: 2.496 × 10<sup>26</sup> kg<br />(41.798 Yrths)
         density: 1.384 g/cm<sup>3</sup>
         surface_gravity: 13.543 m/s<sup>2</sup><br />(1.381 g<sub>0</sub>)
         escape_velocity: 30.833 km/s<br />(110,997 km/h)
         rotation_period: 44.289 d
         axial_tilt: 22.36°
         albedo: 0.30
-        temperature: 528 K<br />(255 °C)
+        temperature: 204 K<br />(-70 °C)
       - name: 6841 Dialkeshiad III g
         type: Dwarf planet
         formationType: Accreted
@@ -257,14 +257,14 @@ planets:
         radius: 38,629.0 km<br/>(6.063 Yrths)
         surface_area: 1.875 × 10<sup>10</sup> km<sup>2</sup><br/>(36.763 Yrths)
         volume: 2.415 × 10<sup>14</sup> km<sup>3</sup><br/>(222.905 Yrths)
-        mass: 5.742 × 10<sup>26</sup> kg<br />(30.89597098935633 Yrths)
+        mass: 5.742 × 10<sup>26</sup> kg<br />(96.146 Yrths)
         density: 2.378 g/cm<sup>3</sup>
         surface_gravity: 25.647 m/s<sup>2</sup><br />(2.615 g<sub>0</sub>)
         escape_velocity: 44.544 km/s<br />(160,357 km/h)
         rotation_period: 41.613 d
         axial_tilt: 32.64°
         albedo: 0.30
-        temperature: 480 K<br />(207 °C)
+        temperature: 204 K<br />(-70 °C)
       - name: 6841 Dialkeshiad III h
         type: Rocky
         formationType: Captured
@@ -277,14 +277,14 @@ planets:
         radius: 33,418.6 km<br/>(5.245 Yrths)
         surface_area: 1.403 × 10<sup>10</sup> km<sup>2</sup><br/>(27.514 Yrths)
         volume: 1.563 × 10<sup>14</sup> km<sup>3</sup><br/>(144.325 Yrths)
-        mass: 4.555 × 10<sup>26</sup> kg<br />(30.89597098935633 Yrths)
+        mass: 4.555 × 10<sup>26</sup> kg<br />(76.275 Yrths)
         density: 2.914 g/cm<sup>3</sup>
         surface_gravity: 27.186 m/s<sup>2</sup><br />(2.772 g<sub>0</sub>)
         escape_velocity: 42.655 km/s<br />(153,559 km/h)
         rotation_period: 37.630 d
         axial_tilt: 20.25°
         albedo: 0.30
-        temperature: 416 K<br />(143 °C)
+        temperature: 204 K<br />(-70 °C)
       - name: 6841 Dialkeshiad III i
         type: Dwarf planet
         formationType: Captured
@@ -297,14 +297,14 @@ planets:
         radius: 59,005.5 km<br/>(9.262 Yrths)
         surface_area: 4.375 × 10<sup>10</sup> km<sup>2</sup><br/>(85.777 Yrths)
         volume: 8.605 × 10<sup>14</sup> km<sup>3</sup><br/>(794.427 Yrths)
-        mass: 2.194 × 10<sup>27</sup> kg<br />(30.89597098935633 Yrths)
+        mass: 2.194 × 10<sup>27</sup> kg<br />(367.323 Yrths)
         density: 2.549 g/cm<sup>3</sup>
         surface_gravity: 41.995 m/s<sup>2</sup><br />(4.282 g<sub>0</sub>)
         escape_velocity: 70.446 km/s<br />(253,605 km/h)
         rotation_period: 56.694 d
         axial_tilt: 37.72°
         albedo: 0.30
-        temperature: 298 K<br />(25 °C)
+        temperature: 204 K<br />(-70 °C)
   - name: 6841 Dialkeshiad IV
     type: Large terrestrial
     aphelion: 163,901,044 km<br />1.096 AU
@@ -316,7 +316,7 @@ planets:
     radius: 9,080.4 km<br/>(1.425 Yrths)
     surface_area: 1.036 × 10<sup>09</sup> km<sup>2</sup><br/>(2.031 Yrths)
     volume: 3.136 × 10<sup>12</sup> km<sup>3</sup><br/>(2.895 Yrths)
-    mass: 1.911 × 10<sup>25</sup> kg<br />(3.2002952791564683 Yrths)
+    mass: 1.911 × 10<sup>25</sup> kg<br />(3.20 Yrths)
     density: 6.094 g/cm<sup>3</sup>
     surface_gravity: 15.450 m/s<sup>2</sup><br />(1.575 g<sub>0</sub>)
     escape_velocity: 16.762 km/s<br />(60,343 km/h)
@@ -337,14 +337,14 @@ planets:
         radius: 4,148.6 km<br/>(0.651 Yrths)
         surface_area: 2.163 × 10<sup>08</sup> km<sup>2</sup><br/>(0.424 Yrths)
         volume: 2.991 × 10<sup>11</sup> km<sup>3</sup><br/>(0.276 Yrths)
-        mass: 9.921 × 10<sup>23</sup> kg<br />(3.2002952791564683 Yrths)
+        mass: 9.921 × 10<sup>23</sup> kg<br />(0.166 Yrths)
         density: 3.317 g/cm<sup>3</sup>
         surface_gravity: 3.842 m/s<sup>2</sup><br />(0.392 g<sub>0</sub>)
         escape_velocity: 5.650 km/s<br />(20,340 km/h)
         rotation_period: 29.757 d
         axial_tilt: 20.21°
         albedo: 0.30
-        temperature: 1758 K<br />(1485 °C)
+        temperature: 163 K<br />(-110 °C)
       - name: 6841 Dialkeshiad IV b
         type: Dwarf planet
         formationType: Accreted
@@ -357,14 +357,14 @@ planets:
         radius: 4,666.1 km<br/>(0.732 Yrths)
         surface_area: 2.736 × 10<sup>08</sup> km<sup>2</sup><br/>(0.536 Yrths)
         volume: 4.256 × 10<sup>11</sup> km<sup>3</sup><br/>(0.393 Yrths)
-        mass: 1.060 × 10<sup>24</sup> kg<br />(3.2002952791564683 Yrths)
+        mass: 1.060 × 10<sup>24</sup> kg<br />(0.177 Yrths)
         density: 2.490 g/cm<sup>3</sup>
         surface_gravity: 3.244 m/s<sup>2</sup><br />(0.331 g<sub>0</sub>)
         escape_velocity: 5.506 km/s<br />(19,821 km/h)
         rotation_period: 48.382 d
         axial_tilt: 18.91°
         albedo: 0.30
-        temperature: 1676 K<br />(1403 °C)
+        temperature: 163 K<br />(-110 °C)
       - name: 6841 Dialkeshiad IV c
         type: Asteroid
         formationType: Captured
@@ -377,14 +377,14 @@ planets:
         radius: 3,353.3 km<br/>(0.526 Yrths)
         surface_area: 1.413 × 10<sup>08</sup> km<sup>2</sup><br/>(0.277 Yrths)
         volume: 1.580 × 10<sup>11</sup> km<sup>3</sup><br/>(0.146 Yrths)
-        mass: 3.389 × 10<sup>23</sup> kg<br />(3.2002952791564683 Yrths)
+        mass: 3.389 × 10<sup>23</sup> kg<br />(0.057 Yrths)
         density: 2.146 g/cm<sup>3</sup>
         surface_gravity: 2.009 m/s<sup>2</sup><br />(0.205 g<sub>0</sub>)
         escape_velocity: 3.673 km/s<br />(13,224 km/h)
         rotation_period: 41.651 d
         axial_tilt: 30.18°
         albedo: 0.30
-        temperature: 1598 K<br />(1325 °C)
+        temperature: 163 K<br />(-110 °C)
       - name: 6841 Dialkeshiad IV d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -397,14 +397,14 @@ planets:
         radius: 5,033.8 km<br/>(0.790 Yrths)
         surface_area: 3.184 × 10<sup>08</sup> km<sup>2</sup><br/>(0.624 Yrths)
         volume: 5.343 × 10<sup>11</sup> km<sup>3</sup><br/>(0.493 Yrths)
-        mass: 1.113 × 10<sup>24</sup> kg<br />(3.2002952791564683 Yrths)
+        mass: 1.113 × 10<sup>24</sup> kg<br />(0.186 Yrths)
         density: 2.083 g/cm<sup>3</sup>
         surface_gravity: 2.927 m/s<sup>2</sup><br />(0.298 g<sub>0</sub>)
         escape_velocity: 5.432 km/s<br />(19,557 km/h)
         rotation_period: 52.821 d
         axial_tilt: 14.06°
         albedo: 0.30
-        temperature: 1524 K<br />(1251 °C)
+        temperature: 163 K<br />(-110 °C)
   - name: 6841 Dialkeshiad V
     type: Terrestrial
     aphelion: 251,527,686 km<br />1.681 AU
@@ -416,14 +416,14 @@ planets:
     radius: 5,881.2 km<br/>(0.923 Yrths)
     surface_area: 4.346 × 10<sup>08</sup> km<sup>2</sup><br/>(0.852 Yrths)
     volume: 8.521 × 10<sup>11</sup> km<sup>3</sup><br/>(0.787 Yrths)
-    mass: 5.127 × 10<sup>24</sup> kg<br />(0.8584891898050416 Yrths)
+    mass: 5.127 × 10<sup>24</sup> kg<br />(0.86 Yrths)
     density: 6.017 g/cm<sup>3</sup>
     surface_gravity: 9.880 m/s<sup>2</sup><br />(1.007 g<sub>0</sub>)
     escape_velocity: 10.787 km/s<br />(38,834 km/h)
     rotation_period: 1.281 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 144 K<br />(-129 °C)
+    temperature: 135 K<br />(-138 °C)
     surface_pressure: 24 kPa<br />(0 atm)
     composition:
       - 95.6589% nitrogen
@@ -441,14 +441,14 @@ planets:
         radius: 2,275.5 km<br/>(0.357 Yrths)
         surface_area: 6.507 × 10<sup>07</sup> km<sup>2</sup><br/>(0.128 Yrths)
         volume: 4.936 × 10<sup>10</sup> km<sup>3</sup><br/>(0.046 Yrths)
-        mass: 9.727 × 10<sup>22</sup> kg<br />(0.8584891898050416 Yrths)
+        mass: 9.727 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 1.252 m/s<sup>2</sup><br />(0.128 g<sub>0</sub>)
         escape_velocity: 2.389 km/s<br />(8,600 km/h)
         rotation_period: 45.135 d
         axial_tilt: 18.62°
         albedo: 0.30
-        temperature: 1754 K<br />(1481 °C)
+        temperature: 130 K<br />(-143 °C)
       - name: 6841 Dialkeshiad V b
         type: Icy
         formationType: Impact formed
@@ -461,12 +461,12 @@ planets:
         radius: 1,061.4 km<br/>(0.167 Yrths)
         surface_area: 1.416 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 5.009 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 7.266 × 10<sup>21</sup> kg<br />(0.8584891898050416 Yrths)
+        mass: 7.266 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.451 g/cm<sup>3</sup>
         surface_gravity: 0.430 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 0.956 km/s<br />(3,441 km/h)
         rotation_period: 44.250 d
         axial_tilt: 12.95°
         albedo: 0.30
-        temperature: 1672 K<br />(1399 °C)
+        temperature: 130 K<br />(-143 °C)
 ---

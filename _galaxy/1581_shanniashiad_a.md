@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1581 Shanniashiad A is a star in the constellation Shannias
+      1581 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 632.78 ly
 apparent_magnitude: 8.28
 absolute_magnitude: 1.84

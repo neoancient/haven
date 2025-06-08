@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2786 Kenmulliad A is a star in the constellation Kenmul
+      2786 Kenmulliad A is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 301.06 ly
 apparent_magnitude: 8.52
 absolute_magnitude: 3.70

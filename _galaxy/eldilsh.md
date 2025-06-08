@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Eldilsh is a star in the constellation Geard
+      Eldilsh is a star in the constellation <a href="geard.html">Geard</a>
 distance: 99.71 ly
 apparent_magnitude: 3.38
 absolute_magnitude: 0.95

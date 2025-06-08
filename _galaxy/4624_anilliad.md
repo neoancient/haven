@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4624 Anilliad is a star in the constellation Anil
+      4624 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 505.96 ly
 apparent_magnitude: 10.94
 absolute_magnitude: 4.98

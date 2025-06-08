@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      η Arniad C is a star in the constellation Arni
+      η Arniad C is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1570.61 ly
 apparent_magnitude: 14.12
 absolute_magnitude: 5.71

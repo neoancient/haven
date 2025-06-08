@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      824 Arniad is a star in the constellation Arni
+      824 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 245.30 ly
 apparent_magnitude: 14.24
 absolute_magnitude: 9.86

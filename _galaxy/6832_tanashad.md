@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6832 Tanashad is a star in the constellation Tanas
+      6832 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 175.73 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 3.87
@@ -31,7 +31,7 @@ planets:
     radius: 261.5 km<br/>(0.041 Yrths)
     surface_area: 8.592 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
     volume: 7.489 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.196 × 10<sup>27</sup> kg<br />(535.2366191798761 Yrths)
+    mass: 3.196 × 10<sup>27</sup> kg<br />(535.24 Yrths)
     density: 42680129.757 g/cm<sup>3</sup>
     surface_gravity: 3115880.928 m/s<sup>2</sup><br />(317731.430 g<sub>0</sub>)
     escape_velocity: 1277.396 km/s<br />(4,598,625 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 249,117.9 km<br/>(39.102 Yrths)
         surface_area: 7.799 × 10<sup>11</sup> km<sup>2</sup><br/>(1528.955 Yrths)
         volume: 6.476 × 10<sup>16</sup> km<sup>3</sup><br/>(59784.965 Yrths)
-        mass: 1.411 × 10<sup>29</sup> kg<br />(535.2366191798761 Yrths)
+        mass: 1.411 × 10<sup>29</sup> kg<br />(23623.500 Yrths)
         density: 2.179 g/cm<sup>3</sup>
         surface_gravity: 151.520 m/s<sup>2</sup><br />(15.451 g<sub>0</sub>)
         escape_velocity: 274.946 km/s<br />(989,806 km/h)
         rotation_period: 48.273 d
         axial_tilt: 7.13°
         albedo: 0.30
-        temperature: 883 K<br />(610 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 6832 Tanashad I b
         type: Icy
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 384,702.2 km<br/>(60.383 Yrths)
         surface_area: 1.860 × 10<sup>12</sup> km<sup>2</sup><br/>(3646.146 Yrths)
         volume: 2.385 × 10<sup>17</sup> km<sup>3</sup><br/>(220166.440 Yrths)
-        mass: 1.669 × 10<sup>29</sup> kg<br />(535.2366191798761 Yrths)
+        mass: 1.669 × 10<sup>29</sup> kg<br />(27953.796 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 75.184 m/s<sup>2</sup><br />(7.667 g<sub>0</sub>)
         escape_velocity: 240.678 km/s<br />(866,440 km/h)
         rotation_period: 95.383 d
         axial_tilt: 27.40°
         albedo: 0.30
-        temperature: 842 K<br />(569 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 6832 Tanashad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -92,14 +92,14 @@ planets:
         radius: 266,696.5 km<br/>(41.861 Yrths)
         surface_area: 8.938 × 10<sup>11</sup> km<sup>2</sup><br/>(1752.344 Yrths)
         volume: 7.946 × 10<sup>16</sup> km<sup>3</sup><br/>(73354.908 Yrths)
-        mass: 1.738 × 10<sup>29</sup> kg<br />(535.2366191798761 Yrths)
+        mass: 1.738 × 10<sup>29</sup> kg<br />(29095.007 Yrths)
         density: 2.187 g/cm<sup>3</sup>
         surface_gravity: 162.824 m/s<sup>2</sup><br />(16.603 g<sub>0</sub>)
         escape_velocity: 294.902 km/s<br />(1,061,649 km/h)
         rotation_period: 36.811 d
         axial_tilt: 23.09°
         albedo: 0.30
-        temperature: 803 K<br />(530 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 6832 Tanashad I d
         type: Icy
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 492,553.2 km<br/>(77.312 Yrths)
         surface_area: 3.049 × 10<sup>12</sup> km<sup>2</sup><br/>(5977.107 Yrths)
         volume: 5.006 × 10<sup>17</sup> km<sup>3</sup><br/>(462100.643 Yrths)
-        mass: 6.404 × 10<sup>29</sup> kg<br />(535.2366191798761 Yrths)
+        mass: 6.404 × 10<sup>29</sup> kg<br />(107227.798 Yrths)
         density: 1.279 g/cm<sup>3</sup>
         surface_gravity: 175.929 m/s<sup>2</sup><br />(17.940 g<sub>0</sub>)
         escape_velocity: 416.586 km/s<br />(1,499,710 km/h)
         rotation_period: 74.991 d
         axial_tilt: 14.71°
         albedo: 0.30
-        temperature: 575 K<br />(302 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 6832 Tanashad I e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 296,986.8 km<br/>(46.615 Yrths)
         surface_area: 1.108 × 10<sup>12</sup> km<sup>2</sup><br/>(2172.997 Yrths)
         volume: 1.097 × 10<sup>17</sup> km<sup>3</sup><br/>(101295.168 Yrths)
-        mass: 2.314 × 10<sup>29</sup> kg<br />(535.2366191798761 Yrths)
+        mass: 2.314 × 10<sup>29</sup> kg<br />(38741.820 Yrths)
         density: 2.109 g/cm<sup>3</sup>
         surface_gravity: 174.840 m/s<sup>2</sup><br />(17.829 g<sub>0</sub>)
         escape_velocity: 322.477 km/s<br />(1,160,918 km/h)
         rotation_period: 47.563 d
         axial_tilt: 7.79°
         albedo: 0.30
-        temperature: 268 K<br />(-5 °C)
+        temperature: 252 K<br />(-21 °C)
       - name: 6832 Tanashad I f
         type: Rocky
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 246,121.8 km<br/>(38.632 Yrths)
         surface_area: 7.612 × 10<sup>11</sup> km<sup>2</sup><br/>(1492.398 Yrths)
         volume: 6.245 × 10<sup>16</sup> km<sup>3</sup><br/>(57653.699 Yrths)
-        mass: 1.807 × 10<sup>29</sup> kg<br />(535.2366191798761 Yrths)
+        mass: 1.807 × 10<sup>29</sup> kg<br />(30254.798 Yrths)
         density: 2.893 g/cm<sup>3</sup>
         surface_gravity: 198.806 m/s<sup>2</sup><br />(20.273 g<sub>0</sub>)
         escape_velocity: 313.040 km/s<br />(1,126,944 km/h)
         rotation_period: 55.289 d
         axial_tilt: 11.05°
         albedo: 0.30
-        temperature: 94 K<br />(-179 °C)
+        temperature: 252 K<br />(-21 °C)
   - name: 6832 Tanashad II
     type: Terrestrial
     aphelion: 829,435,769 km<br />5.544 AU
@@ -171,14 +171,14 @@ planets:
     radius: 7,309.0 km<br/>(1.147 Yrths)
     surface_area: 6.713 × 10<sup>08</sup> km<sup>2</sup><br/>(1.316 Yrths)
     volume: 1.636 × 10<sup>12</sup> km<sup>3</sup><br/>(1.510 Yrths)
-    mass: 8.448 × 10<sup>24</sup> kg<br />(1.4146645505959807 Yrths)
+    mass: 8.448 × 10<sup>24</sup> kg<br />(1.41 Yrths)
     density: 5.166 g/cm<sup>3</sup>
     surface_gravity: 10.541 m/s<sup>2</sup><br />(1.075 g<sub>0</sub>)
     escape_velocity: 12.422 km/s<br />(44,718 km/h)
     rotation_period: 0.963 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 204 K<br />(-70 °C)
+    temperature: 257 K<br />(-16 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 82.5759% nitrogen
@@ -199,14 +199,14 @@ planets:
         radius: 848.4 km<br/>(0.133 Yrths)
         surface_area: 9.044 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.558 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 7.487 × 10<sup>21</sup> kg<br />(1.4146645505959807 Yrths)
+        mass: 7.487 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.927 g/cm<sup>3</sup>
         surface_gravity: 0.693 m/s<sup>2</sup><br />(0.071 g<sub>0</sub>)
         escape_velocity: 1.085 km/s<br />(3,907 km/h)
         rotation_period: 29.207 d
         axial_tilt: 21.72°
         albedo: 0.30
-        temperature: 3156 K<br />(2883 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 6832 Tanashad II b
         type: Asteroid
         formationType: Captured
@@ -219,14 +219,14 @@ planets:
         radius: 2,709.0 km<br/>(0.425 Yrths)
         surface_area: 9.222 × 10<sup>07</sup> km<sup>2</sup><br/>(0.181 Yrths)
         volume: 8.328 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-        mass: 2.354 × 10<sup>23</sup> kg<br />(1.4146645505959807 Yrths)
+        mass: 2.354 × 10<sup>23</sup> kg<br />(0.039 Yrths)
         density: 2.827 g/cm<sup>3</sup>
         surface_gravity: 2.138 m/s<sup>2</sup><br />(0.218 g<sub>0</sub>)
         escape_velocity: 3.406 km/s<br />(12,261 km/h)
         rotation_period: 37.090 d
         axial_tilt: 23.55°
         albedo: 0.30
-        temperature: 3009 K<br />(2736 °C)
+        temperature: 182 K<br />(-91 °C)
   - name: 6832 Tanashad III
     type: Ice giant
     aphelion: 1,546,219,150 km<br />10.336 AU
@@ -238,14 +238,14 @@ planets:
     radius: 37,099.0 km<br/>(5.823 Yrths)
     surface_area: 1.730 × 10<sup>10</sup> km<sup>2</sup><br/>(33.909 Yrths)
     volume: 2.139 × 10<sup>14</sup> km<sup>3</sup><br/>(197.453 Yrths)
-    mass: 2.139 × 10<sup>26</sup> kg<br />(35.825266137642885 Yrths)
+    mass: 2.139 × 10<sup>26</sup> kg<br />(35.83 Yrths)
     density: 1.000 g/cm<sup>3</sup>
     surface_gravity: 10.361 m/s<sup>2</sup><br />(1.057 g<sub>0</sub>)
     escape_velocity: 27.745 km/s<br />(99,884 km/h)
     rotation_period: 0.365 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 216 K<br />(-58 °C)
+    temperature: 191 K<br />(-82 °C)
     composition:
       - 86.0319% hydrogen
       - 13.9681% helium
@@ -262,14 +262,14 @@ planets:
         radius: 28,019.4 km<br/>(4.398 Yrths)
         surface_area: 9.866 × 10<sup>09</sup> km<sup>2</sup><br/>(19.342 Yrths)
         volume: 9.214 × 10<sup>13</sup> km<sup>3</sup><br/>(85.066 Yrths)
-        mass: 1.355 × 10<sup>26</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 1.355 × 10<sup>26</sup> kg<br />(22.689 Yrths)
         density: 1.471 g/cm<sup>3</sup>
         surface_gravity: 11.504 m/s<sup>2</sup><br />(1.173 g<sub>0</sub>)
         escape_velocity: 25.407 km/s<br />(91,466 km/h)
         rotation_period: 80.529 d
         axial_tilt: 10.63°
         albedo: 0.30
-        temperature: 1219 K<br />(946 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III b
         type: Rocky
         formationType: Captured
@@ -282,14 +282,14 @@ planets:
         radius: 28,498.7 km<br/>(4.473 Yrths)
         surface_area: 1.021 × 10<sup>10</sup> km<sup>2</sup><br/>(20.009 Yrths)
         volume: 9.695 × 10<sup>13</sup> km<sup>3</sup><br/>(89.506 Yrths)
-        mass: 2.495 × 10<sup>26</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 2.495 × 10<sup>26</sup> kg<br />(41.777 Yrths)
         density: 2.573 g/cm<sup>3</sup>
         surface_gravity: 20.475 m/s<sup>2</sup><br />(2.088 g<sub>0</sub>)
         escape_velocity: 34.185 km/s<br />(123,065 km/h)
         rotation_period: 59.421 d
         axial_tilt: 19.36°
         albedo: 0.30
-        temperature: 1108 K<br />(835 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -302,14 +302,14 @@ planets:
         radius: 17,671.5 km<br/>(2.774 Yrths)
         surface_area: 3.924 × 10<sup>09</sup> km<sup>2</sup><br/>(7.694 Yrths)
         volume: 2.312 × 10<sup>13</sup> km<sup>3</sup><br/>(21.340 Yrths)
-        mass: 6.065 × 10<sup>25</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 6.065 × 10<sup>25</sup> kg<br />(10.156 Yrths)
         density: 2.624 g/cm<sup>3</sup>
         surface_gravity: 12.946 m/s<sup>2</sup><br />(1.320 g<sub>0</sub>)
         escape_velocity: 21.405 km/s<br />(77,058 km/h)
         rotation_period: 30.961 d
         axial_tilt: 25.53°
         albedo: 0.30
-        temperature: 1056 K<br />(783 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III d
         type: Icy
         formationType: Accreted
@@ -322,14 +322,14 @@ planets:
         radius: 14,738.6 km<br/>(2.313 Yrths)
         surface_area: 2.730 × 10<sup>09</sup> km<sup>2</sup><br/>(5.352 Yrths)
         volume: 1.341 × 10<sup>13</sup> km<sup>3</sup><br/>(12.381 Yrths)
-        mass: 2.232 × 10<sup>25</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 2.232 × 10<sup>25</sup> kg<br />(3.737 Yrths)
         density: 1.664 g/cm<sup>3</sup>
         surface_gravity: 6.848 m/s<sup>2</sup><br />(0.698 g<sub>0</sub>)
         escape_velocity: 14.217 km/s<br />(51,182 km/h)
         rotation_period: 51.330 d
         axial_tilt: 10.08°
         albedo: 0.30
-        temperature: 1007 K<br />(734 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III e
         type: Icy
         formationType: Impact formed
@@ -342,14 +342,14 @@ planets:
         radius: 20,983.5 km<br/>(3.294 Yrths)
         surface_area: 5.533 × 10<sup>09</sup> km<sup>2</sup><br/>(10.848 Yrths)
         volume: 3.870 × 10<sup>13</sup> km<sup>3</sup><br/>(35.728 Yrths)
-        mass: 6.148 × 10<sup>25</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 6.148 × 10<sup>25</sup> kg<br />(10.294 Yrths)
         density: 1.588 g/cm<sup>3</sup>
         surface_gravity: 9.306 m/s<sup>2</sup><br />(0.949 g<sub>0</sub>)
         escape_velocity: 19.776 km/s<br />(71,193 km/h)
         rotation_period: 56.465 d
         axial_tilt: 16.88°
         albedo: 0.30
-        temperature: 916 K<br />(643 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III f
         type: Asteroid
         formationType: Captured
@@ -362,14 +362,14 @@ planets:
         radius: 27,596.0 km<br/>(4.331 Yrths)
         surface_area: 9.570 × 10<sup>09</sup> km<sup>2</sup><br/>(18.762 Yrths)
         volume: 8.803 × 10<sup>13</sup> km<sup>3</sup><br/>(81.267 Yrths)
-        mass: 1.144 × 10<sup>26</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 1.144 × 10<sup>26</sup> kg<br />(19.162 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 10.016 m/s<sup>2</sup><br />(1.021 g<sub>0</sub>)
         escape_velocity: 23.528 km/s<br />(84,700 km/h)
         rotation_period: 48.334 d
         axial_tilt: 40.58°
         albedo: 0.30
-        temperature: 832 K<br />(559 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III g
         type: Icy
         formationType: Captured
@@ -382,14 +382,14 @@ planets:
         radius: 40,030.0 km<br/>(6.283 Yrths)
         surface_area: 2.014 × 10<sup>10</sup> km<sup>2</sup><br/>(39.478 Yrths)
         volume: 2.687 × 10<sup>14</sup> km<sup>3</sup><br/>(248.046 Yrths)
-        mass: 2.450 × 10<sup>26</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 2.450 × 10<sup>26</sup> kg<br />(41.024 Yrths)
         density: 0.912 g/cm<sup>3</sup>
         surface_gravity: 10.191 m/s<sup>2</sup><br />(1.039 g<sub>0</sub>)
         escape_velocity: 28.583 km/s<br />(102,898 km/h)
         rotation_period: 69.392 d
         axial_tilt: 18.17°
         albedo: 0.30
-        temperature: 794 K<br />(521 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III h
         type: Icy
         formationType: Impact formed
@@ -402,14 +402,14 @@ planets:
         radius: 19,670.9 km<br/>(3.088 Yrths)
         surface_area: 4.862 × 10<sup>09</sup> km<sup>2</sup><br/>(9.533 Yrths)
         volume: 3.188 × 10<sup>13</sup> km<sup>3</sup><br/>(29.434 Yrths)
-        mass: 5.054 × 10<sup>25</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 5.054 × 10<sup>25</sup> kg<br />(8.462 Yrths)
         density: 1.585 g/cm<sup>3</sup>
         surface_gravity: 8.705 m/s<sup>2</sup><br />(0.888 g<sub>0</sub>)
         escape_velocity: 18.518 km/s<br />(66,666 km/h)
         rotation_period: 46.336 d
         axial_tilt: 16.96°
         albedo: 0.30
-        temperature: 757 K<br />(484 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III i
         type: Asteroid
         formationType: Captured
@@ -422,14 +422,14 @@ planets:
         radius: 31,447.4 km<br/>(4.936 Yrths)
         surface_area: 1.243 × 10<sup>10</sup> km<sup>2</sup><br/>(24.364 Yrths)
         volume: 1.303 × 10<sup>14</sup> km<sup>3</sup><br/>(120.263 Yrths)
-        mass: 3.603 × 10<sup>26</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 3.603 × 10<sup>26</sup> kg<br />(60.327 Yrths)
         density: 2.766 g/cm<sup>3</sup>
         surface_gravity: 24.282 m/s<sup>2</sup><br />(2.476 g<sub>0</sub>)
         escape_velocity: 39.106 km/s<br />(140,781 km/h)
         rotation_period: 52.935 d
         axial_tilt: 41.96°
         albedo: 0.30
-        temperature: 722 K<br />(448 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -442,14 +442,14 @@ planets:
         radius: 20,330.9 km<br/>(3.191 Yrths)
         surface_area: 5.194 × 10<sup>09</sup> km<sup>2</sup><br/>(10.183 Yrths)
         volume: 3.520 × 10<sup>13</sup> km<sup>3</sup><br/>(32.497 Yrths)
-        mass: 7.323 × 10<sup>25</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 7.323 × 10<sup>25</sup> kg<br />(12.262 Yrths)
         density: 2.080 g/cm<sup>3</sup>
         surface_gravity: 11.809 m/s<sup>2</sup><br />(1.204 g<sub>0</sub>)
         escape_velocity: 21.927 km/s<br />(78,939 km/h)
         rotation_period: 34.557 d
         axial_tilt: 17.19°
         albedo: 0.30
-        temperature: 688 K<br />(415 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -462,14 +462,14 @@ planets:
         radius: 23,504.1 km<br/>(3.689 Yrths)
         surface_area: 6.942 × 10<sup>09</sup> km<sup>2</sup><br/>(13.610 Yrths)
         volume: 5.439 × 10<sup>13</sup> km<sup>3</sup><br/>(50.212 Yrths)
-        mass: 8.702 × 10<sup>25</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 8.702 × 10<sup>25</sup> kg<br />(14.572 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 10.499 m/s<sup>2</sup><br />(1.071 g<sub>0</sub>)
         escape_velocity: 22.231 km/s<br />(80,033 km/h)
         rotation_period: 40.020 d
         axial_tilt: 17.12°
         albedo: 0.30
-        temperature: 656 K<br />(383 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 6832 Tanashad III l
         type: Ice/rock hybrid
         formationType: Accreted
@@ -482,12 +482,12 @@ planets:
         radius: 20,611.3 km<br/>(3.235 Yrths)
         surface_area: 5.339 × 10<sup>09</sup> km<sup>2</sup><br/>(10.466 Yrths)
         volume: 3.668 × 10<sup>13</sup> km<sup>3</sup><br/>(33.860 Yrths)
-        mass: 7.563 × 10<sup>25</sup> kg<br />(35.825266137642885 Yrths)
+        mass: 7.563 × 10<sup>25</sup> kg<br />(12.664 Yrths)
         density: 2.062 g/cm<sup>3</sup>
         surface_gravity: 11.866 m/s<sup>2</sup><br />(1.210 g<sub>0</sub>)
         escape_velocity: 22.132 km/s<br />(79,674 km/h)
         rotation_period: 39.880 d
         axial_tilt: 8.82°
         albedo: 0.30
-        temperature: 625 K<br />(352 °C)
+        temperature: 131 K<br />(-142 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2031 Arkothiad is a star in the constellation Arkoth
+      2031 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 319.27 ly
 apparent_magnitude: 16.51
 absolute_magnitude: 11.56

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Orshenniad B is a star in the constellation Orshen
+      σ Orshenniad B is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 184.27 ly
 apparent_magnitude: 8.64
 absolute_magnitude: 4.88

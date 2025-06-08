@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1818 Saithiad is a star in the constellation Saith
+      1818 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 243.05 ly
 apparent_magnitude: 9.75
 absolute_magnitude: 5.39

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2777 Noniashad is a star in the constellation Nonias
+      2777 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 348.40 ly
 apparent_magnitude: 11.64
 absolute_magnitude: 6.50

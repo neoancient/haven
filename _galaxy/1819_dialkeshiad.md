@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1819 Dialkeshiad is a star in the constellation Dialkes
+      1819 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1122.03 ly
 apparent_magnitude: 15.48
 absolute_magnitude: 7.80

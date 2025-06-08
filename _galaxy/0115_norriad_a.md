@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0115 Norriad A is a star in the constellation Nor
+      0115 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1515.64 ly
 apparent_magnitude: 6.30
 absolute_magnitude: -2.04

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      26960 Shanniashiad A is a star in the constellation Shannias
+      26960 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 453.38 ly
 apparent_magnitude: 7.13
 absolute_magnitude: 1.42

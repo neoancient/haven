@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Nwaliad B is a star in the constellation Nwal
+      0015 Nwaliad B is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 1129.02 ly
 apparent_magnitude: 6.20
 absolute_magnitude: -1.50

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4630 Geardiad is a star in the constellation Geard
+      4630 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 485.83 ly
 apparent_magnitude: 7.64
 absolute_magnitude: 1.77

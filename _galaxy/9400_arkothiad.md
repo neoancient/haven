@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9400 Arkothiad is a star in the constellation Arkoth
+      9400 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 519.72 ly
 apparent_magnitude: 9.79
 absolute_magnitude: 3.78

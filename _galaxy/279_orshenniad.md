@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      279 Orshenniad is a star in the constellation Orshen
+      279 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 537.04 ly
 apparent_magnitude: 11.28
 absolute_magnitude: 5.20

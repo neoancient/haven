@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nane C is a star in the constellation Nor
+      Nane C is a star in the constellation <a href="nor.html">Nor</a>
 distance: 2150.34 ly
 apparent_magnitude: 6.66
 absolute_magnitude: -2.44

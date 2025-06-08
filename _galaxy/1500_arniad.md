@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1500 Arniad is a star in the constellation Arni
+      1500 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 486.54 ly
 apparent_magnitude: 10.61
 absolute_magnitude: 4.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0240 Naddiad is a star in the constellation Naddi
+      0240 Naddiad is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 143.51 ly
 apparent_magnitude: 6.35
 absolute_magnitude: 3.14
@@ -31,14 +31,14 @@ planets:
     radius: 22,193.1 km<br/>(3.483 Yrths)
     surface_area: 6.189 × 10<sup>09</sup> km<sup>2</sup><br/>(12.135 Yrths)
     volume: 4.579 × 10<sup>13</sup> km<sup>3</sup><br/>(42.270 Yrths)
-    mass: 1.083 × 10<sup>26</sup> kg<br />(18.139003941165 Yrths)
+    mass: 1.083 × 10<sup>26</sup> kg<br />(18.14 Yrths)
     density: 2.366 g/cm<sup>3</sup>
     surface_gravity: 14.659 m/s<sup>2</sup><br />(1.495 g<sub>0</sub>)
     escape_velocity: 25.526 km/s<br />(91,892 km/h)
     rotation_period: 0.407 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 601 K<br />(328 °C)
+    temperature: 561 K<br />(288 °C)
     composition:
       - 55.8604% hydrogen
       - 42.3145% helium
@@ -57,14 +57,14 @@ planets:
         radius: 36,253.9 km<br/>(5.690 Yrths)
         surface_area: 1.652 × 10<sup>10</sup> km<sup>2</sup><br/>(32.381 Yrths)
         volume: 1.996 × 10<sup>14</sup> km<sup>3</sup><br/>(184.264 Yrths)
-        mass: 3.198 × 10<sup>26</sup> kg<br />(18.139003941165 Yrths)
+        mass: 3.198 × 10<sup>26</sup> kg<br />(53.556 Yrths)
         density: 1.602 g/cm<sup>3</sup>
         surface_gravity: 16.219 m/s<sup>2</sup><br />(1.654 g<sub>0</sub>)
         escape_velocity: 34.317 km/s<br />(123,540 km/h)
         rotation_period: 43.434 d
         axial_tilt: 21.38°
         albedo: 0.30
-        temperature: 3355 K<br />(3082 °C)
+        temperature: 358 K<br />(85 °C)
   - name: 0240 Naddiad II
     type: Terrestrial
     aphelion: 297,717,553 km<br />1.990 AU
@@ -76,14 +76,14 @@ planets:
     radius: 6,651.6 km<br/>(1.044 Yrths)
     surface_area: 5.560 × 10<sup>08</sup> km<sup>2</sup><br/>(1.090 Yrths)
     volume: 1.233 × 10<sup>12</sup> km<sup>3</sup><br/>(1.138 Yrths)
-    mass: 6.484 × 10<sup>24</sup> kg<br />(1.0857447334843973 Yrths)
+    mass: 6.484 × 10<sup>24</sup> kg<br />(1.09 Yrths)
     density: 5.260 g/cm<sup>3</sup>
     surface_gravity: 9.768 m/s<sup>2</sup><br />(0.996 g<sub>0</sub>)
     escape_velocity: 11.407 km/s<br />(41,066 km/h)
     rotation_period: 0.997 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 328 K<br />(55 °C)
+    temperature: 305 K<br />(32 °C)
     surface_pressure: 119 kPa<br />(1 atm)
     composition:
       - 97.8094% nitrogen
@@ -101,14 +101,14 @@ planets:
         radius: 2,679.9 km<br/>(0.421 Yrths)
         surface_area: 9.025 × 10<sup>07</sup> km<sup>2</sup><br/>(0.177 Yrths)
         volume: 8.062 × 10<sup>10</sup> km<sup>3</sup><br/>(0.074 Yrths)
-        mass: 2.333 × 10<sup>23</sup> kg<br />(1.0857447334843973 Yrths)
+        mass: 2.333 × 10<sup>23</sup> kg<br />(0.039 Yrths)
         density: 2.893 g/cm<sup>3</sup>
         surface_gravity: 2.165 m/s<sup>2</sup><br />(0.221 g<sub>0</sub>)
         escape_velocity: 3.409 km/s<br />(12,271 km/h)
         rotation_period: 55.652 d
         axial_tilt: 18.39°
         albedo: 0.30
-        temperature: 4005 K<br />(3732 °C)
+        temperature: 267 K<br />(-7 °C)
   - name: 0240 Naddiad III
     type: Large terrestrial
     aphelion: 609,197,412 km<br />4.072 AU
@@ -120,14 +120,14 @@ planets:
     radius: 11,411.3 km<br/>(1.791 Yrths)
     surface_area: 1.636 × 10<sup>09</sup> km<sup>2</sup><br/>(3.208 Yrths)
     volume: 6.224 × 10<sup>12</sup> km<sup>3</sup><br/>(5.746 Yrths)
-    mass: 4.178 × 10<sup>25</sup> kg<br />(6.995973220115084 Yrths)
+    mass: 4.178 × 10<sup>25</sup> kg<br />(7.00 Yrths)
     density: 6.712 g/cm<sup>3</sup>
     surface_gravity: 21.385 m/s<sup>2</sup><br />(2.181 g<sub>0</sub>)
     escape_velocity: 22.107 km/s<br />(79,586 km/h)
     rotation_period: 0.532 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 307 K<br />(34 °C)
+    temperature: 357 K<br />(84 °C)
     surface_pressure: 3,912 kPa<br />(39 atm)
     composition:
       - 75.8965% methane
@@ -147,14 +147,14 @@ planets:
         radius: 8,152.0 km<br/>(1.280 Yrths)
         surface_area: 8.351 × 10<sup>08</sup> km<sup>2</sup><br/>(1.637 Yrths)
         volume: 2.269 × 10<sup>12</sup> km<sup>3</sup><br/>(2.095 Yrths)
-        mass: 4.851 × 10<sup>24</sup> kg<br />(6.995973220115084 Yrths)
+        mass: 4.851 × 10<sup>24</sup> kg<br />(0.812 Yrths)
         density: 2.138 g/cm<sup>3</sup>
         surface_gravity: 4.866 m/s<sup>2</sup><br />(0.496 g<sub>0</sub>)
         escape_velocity: 8.913 km/s<br />(32,086 km/h)
         rotation_period: 39.203 d
         axial_tilt: 28.82°
         albedo: 0.30
-        temperature: 2255 K<br />(1982 °C)
+        temperature: 198 K<br />(-75 °C)
       - name: 0240 Naddiad III b
         type: Rocky
         formationType: Captured
@@ -167,14 +167,14 @@ planets:
         radius: 8,377.9 km<br/>(1.315 Yrths)
         surface_area: 8.820 × 10<sup>08</sup> km<sup>2</sup><br/>(1.729 Yrths)
         volume: 2.463 × 10<sup>12</sup> km<sup>3</sup><br/>(2.274 Yrths)
-        mass: 7.023 × 10<sup>24</sup> kg<br />(6.995973220115084 Yrths)
+        mass: 7.023 × 10<sup>24</sup> kg<br />(1.176 Yrths)
         density: 2.851 g/cm<sup>3</sup>
         surface_gravity: 6.669 m/s<sup>2</sup><br />(0.680 g<sub>0</sub>)
         escape_velocity: 10.578 km/s<br />(38,081 km/h)
         rotation_period: 57.869 d
         axial_tilt: 19.16°
         albedo: 0.30
-        temperature: 2150 K<br />(1877 °C)
+        temperature: 198 K<br />(-75 °C)
   - name: 0240 Naddiad IV
     type: Gas giant
     aphelion: 1,226,315,973 km<br />8.197 AU
@@ -186,7 +186,7 @@ planets:
     radius: 170.2 km<br/>(0.027 Yrths)
     surface_area: 3.639 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.065 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.039 × 10<sup>26</sup> kg<br />(84.3815177601696 Yrths)
+    mass: 5.039 × 10<sup>26</sup> kg<br />(84.38 Yrths)
     density: 24407965.314 g/cm<sup>3</sup>
     surface_gravity: 1159716.729 m/s<sup>2</sup><br />(118258.195 g<sub>0</sub>)
     escape_velocity: 628.700 km/s<br />(2,263,321 km/h)
@@ -207,14 +207,14 @@ planets:
         radius: 104,333.3 km<br/>(16.376 Yrths)
         surface_area: 1.368 × 10<sup>11</sup> km<sup>2</sup><br/>(268.183 Yrths)
         volume: 4.757 × 10<sup>15</sup> km<sup>3</sup><br/>(4391.840 Yrths)
-        mass: 6.383 × 10<sup>27</sup> kg<br />(84.3815177601696 Yrths)
+        mass: 6.383 × 10<sup>27</sup> kg<br />(1068.897 Yrths)
         density: 1.342 g/cm<sup>3</sup>
         surface_gravity: 39.086 m/s<sup>2</sup><br />(3.986 g<sub>0</sub>)
         escape_velocity: 90.372 km/s<br />(325,339 km/h)
         rotation_period: 47.888 d
         axial_tilt: 22.81°
         albedo: 0.30
-        temperature: 453 K<br />(180 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 0240 Naddiad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -227,14 +227,14 @@ planets:
         radius: 88,296.1 km<br/>(13.859 Yrths)
         surface_area: 9.797 × 10<sup>10</sup> km<sup>2</sup><br/>(192.074 Yrths)
         volume: 2.883 × 10<sup>15</sup> km<sup>3</sup><br/>(2661.962 Yrths)
-        mass: 7.997 × 10<sup>27</sup> kg<br />(84.3815177601696 Yrths)
+        mass: 7.997 × 10<sup>27</sup> kg<br />(1339.047 Yrths)
         density: 2.773 g/cm<sup>3</sup>
         surface_gravity: 68.367 m/s<sup>2</sup><br />(6.972 g<sub>0</sub>)
         escape_velocity: 109.952 km/s<br />(395,829 km/h)
         rotation_period: 42.630 d
         axial_tilt: 19.13°
         albedo: 0.30
-        temperature: 432 K<br />(159 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 0240 Naddiad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -247,14 +247,14 @@ planets:
         radius: 71,018.3 km<br/>(11.147 Yrths)
         surface_area: 6.338 × 10<sup>10</sup> km<sup>2</sup><br/>(124.258 Yrths)
         volume: 1.500 × 10<sup>15</sup> km<sup>3</sup><br/>(1385.122 Yrths)
-        mass: 3.943 × 10<sup>27</sup> kg<br />(84.3815177601696 Yrths)
+        mass: 3.943 × 10<sup>27</sup> kg<br />(660.242 Yrths)
         density: 2.628 g/cm<sup>3</sup>
         surface_gravity: 52.107 m/s<sup>2</sup><br />(5.313 g<sub>0</sub>)
         escape_velocity: 86.088 km/s<br />(309,918 km/h)
         rotation_period: 35.076 d
         axial_tilt: 18.86°
         albedo: 0.30
-        temperature: 392 K<br />(119 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 0240 Naddiad IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -267,14 +267,14 @@ planets:
         radius: 86,087.8 km<br/>(13.512 Yrths)
         surface_area: 9.313 × 10<sup>10</sup> km<sup>2</sup><br/>(182.586 Yrths)
         volume: 2.672 × 10<sup>15</sup> km<sup>3</sup><br/>(2467.185 Yrths)
-        mass: 4.986 × 10<sup>27</sup> kg<br />(84.3815177601696 Yrths)
+        mass: 4.986 × 10<sup>27</sup> kg<br />(834.894 Yrths)
         density: 1.866 g/cm<sup>3</sup>
         surface_gravity: 44.842 m/s<sup>2</sup><br />(4.573 g<sub>0</sub>)
         escape_velocity: 87.927 km/s<br />(316,538 km/h)
         rotation_period: 37.477 d
         axial_tilt: 26.50°
         albedo: 0.30
-        temperature: 90 K<br />(-184 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 0240 Naddiad IV e
         type: Icy
         formationType: Accreted
@@ -287,14 +287,14 @@ planets:
         radius: 92,549.0 km<br/>(14.527 Yrths)
         surface_area: 1.076 × 10<sup>11</sup> km<sup>2</sup><br/>(211.022 Yrths)
         volume: 3.320 × 10<sup>15</sup> km<sup>3</sup><br/>(3065.432 Yrths)
-        mass: 4.505 × 10<sup>27</sup> kg<br />(84.3815177601696 Yrths)
+        mass: 4.505 × 10<sup>27</sup> kg<br />(754.375 Yrths)
         density: 1.357 g/cm<sup>3</sup>
         surface_gravity: 35.057 m/s<sup>2</sup><br />(3.575 g<sub>0</sub>)
         escape_velocity: 80.609 km/s<br />(290,194 km/h)
         rotation_period: 54.182 d
         axial_tilt: 13.38°
         albedo: 0.30
-        temperature: 78 K<br />(-196 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 0240 Naddiad IV f
         type: Icy
         formationType: Accreted
@@ -307,14 +307,14 @@ planets:
         radius: 114,831.8 km<br/>(18.024 Yrths)
         surface_area: 1.657 × 10<sup>11</sup> km<sup>2</sup><br/>(324.870 Yrths)
         volume: 6.343 × 10<sup>15</sup> km<sup>3</sup><br/>(5855.492 Yrths)
-        mass: 4.440 × 10<sup>27</sup> kg<br />(84.3815177601696 Yrths)
+        mass: 4.440 × 10<sup>27</sup> kg<br />(743.452 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 22.442 m/s<sup>2</sup><br />(2.288 g<sub>0</sub>)
         escape_velocity: 71.841 km/s<br />(258,628 km/h)
         rotation_period: 81.021 d
         axial_tilt: 23.99°
         albedo: 0.30
-        temperature: 71 K<br />(-203 °C)
+        temperature: 148 K<br />(-125 °C)
   - name: 0240 Naddiad V
     type: Gas giant
     aphelion: 1,880,676,179 km<br />12.571 AU
@@ -326,7 +326,7 @@ planets:
     radius: 212.7 km<br/>(0.033 Yrths)
     surface_area: 5.686 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.032 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.310 × 10<sup>27</sup> kg<br />(219.34804072511588 Yrths)
+    mass: 1.310 × 10<sup>27</sup> kg<br />(219.35 Yrths)
     density: 32491922.684 g/cm<sup>3</sup>
     surface_gravity: 1929641.452 m/s<sup>2</sup><br />(196768.667 g<sub>0</sub>)
     escape_velocity: 906.664 km/s<br />(3,263,990 km/h)
@@ -347,14 +347,14 @@ planets:
         radius: 211,722.0 km<br/>(33.232 Yrths)
         surface_area: 5.633 × 10<sup>11</sup> km<sup>2</sup><br/>(1104.375 Yrths)
         volume: 3.975 × 10<sup>16</sup> km<sup>3</sup><br/>(36700.742 Yrths)
-        mass: 8.445 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 8.445 × 10<sup>28</sup> kg<br />(14140.298 Yrths)
         density: 2.124 g/cm<sup>3</sup>
         surface_gravity: 125.563 m/s<sup>2</sup><br />(12.804 g<sub>0</sub>)
         escape_velocity: 230.741 km/s<br />(830,666 km/h)
         rotation_period: 36.648 d
         axial_tilt: 19.20°
         albedo: 0.30
-        temperature: 678 K<br />(405 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0240 Naddiad V b
         type: Icy
         formationType: Captured
@@ -367,14 +367,14 @@ planets:
         radius: 116,486.3 km<br/>(18.284 Yrths)
         surface_area: 1.705 × 10<sup>11</sup> km<sup>2</sup><br/>(334.299 Yrths)
         volume: 6.621 × 10<sup>15</sup> km<sup>3</sup><br/>(6112.266 Yrths)
-        mass: 1.055 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 1.055 × 10<sup>28</sup> kg<br />(1766.110 Yrths)
         density: 1.593 g/cm<sup>3</sup>
         surface_gravity: 51.809 m/s<sup>2</sup><br />(5.283 g<sub>0</sub>)
         escape_velocity: 109.938 km/s<br />(395,778 km/h)
         rotation_period: 47.125 d
         axial_tilt: 7.75°
         albedo: 0.30
-        temperature: 534 K<br />(261 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0240 Naddiad V c
         type: Asteroid
         formationType: Captured
@@ -387,14 +387,14 @@ planets:
         radius: 98,417.6 km<br/>(15.448 Yrths)
         surface_area: 1.217 × 10<sup>11</sup> km<sup>2</sup><br/>(238.633 Yrths)
         volume: 3.993 × 10<sup>15</sup> km<sup>3</sup><br/>(3686.345 Yrths)
-        mass: 1.090 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 1.090 × 10<sup>28</sup> kg<br />(1825.529 Yrths)
         density: 2.730 g/cm<sup>3</sup>
         surface_gravity: 75.020 m/s<sup>2</sup><br />(7.650 g<sub>0</sub>)
         escape_velocity: 121.601 km/s<br />(437,762 km/h)
         rotation_period: 31.657 d
         axial_tilt: 11.25°
         albedo: 0.30
-        temperature: 486 K<br />(213 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0240 Naddiad V d
         type: Icy
         formationType: Accreted
@@ -407,14 +407,14 @@ planets:
         radius: 188,356.9 km<br/>(29.565 Yrths)
         surface_area: 4.458 × 10<sup>11</sup> km<sup>2</sup><br/>(874.074 Yrths)
         volume: 2.799 × 10<sup>16</sup> km<sup>3</sup><br/>(25841.756 Yrths)
-        mass: 4.686 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 4.686 × 10<sup>28</sup> kg<br />(7847.084 Yrths)
         density: 1.674 g/cm<sup>3</sup>
         surface_gravity: 88.040 m/s<sup>2</sup><br />(8.978 g<sub>0</sub>)
         escape_velocity: 182.239 km/s<br />(656,060 km/h)
         rotation_period: 44.911 d
         axial_tilt: 13.47°
         albedo: 0.30
-        temperature: 421 K<br />(148 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0240 Naddiad V e
         type: Icy
         formationType: Accreted
@@ -427,14 +427,14 @@ planets:
         radius: 132,359.4 km<br/>(20.775 Yrths)
         surface_area: 2.202 × 10<sup>11</sup> km<sup>2</sup><br/>(431.613 Yrths)
         volume: 9.713 × 10<sup>15</sup> km<sup>3</sup><br/>(8966.887 Yrths)
-        mass: 1.192 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 1.192 × 10<sup>28</sup> kg<br />(1995.164 Yrths)
         density: 1.227 g/cm<sup>3</sup>
         surface_gravity: 45.332 m/s<sup>2</sup><br />(4.623 g<sub>0</sub>)
         escape_velocity: 109.620 km/s<br />(394,632 km/h)
         rotation_period: 70.509 d
         axial_tilt: 25.10°
         albedo: 0.30
-        temperature: 401 K<br />(128 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0240 Naddiad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -447,14 +447,14 @@ planets:
         radius: 129,413.9 km<br/>(20.313 Yrths)
         surface_area: 2.105 × 10<sup>11</sup> km<sup>2</sup><br/>(412.616 Yrths)
         volume: 9.079 × 10<sup>15</sup> km<sup>3</sup><br/>(8381.456 Yrths)
-        mass: 2.498 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 2.498 × 10<sup>28</sup> kg<br />(4182.994 Yrths)
         density: 2.752 g/cm<sup>3</sup>
         surface_gravity: 99.417 m/s<sup>2</sup><br />(10.138 g<sub>0</sub>)
         escape_velocity: 160.521 km/s<br />(577,874 km/h)
         rotation_period: 46.003 d
         axial_tilt: 20.46°
         albedo: 0.30
-        temperature: 365 K<br />(92 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0240 Naddiad V g
         type: Icy
         formationType: Captured
@@ -467,14 +467,14 @@ planets:
         radius: 211,630.1 km<br/>(33.218 Yrths)
         surface_area: 5.628 × 10<sup>11</sup> km<sup>2</sup><br/>(1103.417 Yrths)
         volume: 3.970 × 10<sup>16</sup> km<sup>3</sup><br/>(36653.011 Yrths)
-        mass: 4.328 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 4.328 × 10<sup>28</sup> kg<br />(7246.819 Yrths)
         density: 1.090 g/cm<sup>3</sup>
         surface_gravity: 64.406 m/s<sup>2</sup><br />(6.568 g<sub>0</sub>)
         escape_velocity: 165.220 km/s<br />(594,792 km/h)
         rotation_period: 52.805 d
         axial_tilt: 19.34°
         albedo: 0.30
-        temperature: 170 K<br />(-103 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0240 Naddiad V h
         type: Rocky
         formationType: Accreted
@@ -487,14 +487,14 @@ planets:
         radius: 96,594.7 km<br/>(15.162 Yrths)
         surface_area: 1.173 × 10<sup>11</sup> km<sup>2</sup><br/>(229.875 Yrths)
         volume: 3.775 × 10<sup>15</sup> km<sup>3</sup><br/>(3485.270 Yrths)
-        mass: 1.132 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 1.132 × 10<sup>28</sup> kg<br />(1895.242 Yrths)
         density: 2.998 g/cm<sup>3</sup>
         surface_gravity: 80.853 m/s<sup>2</sup><br />(8.245 g<sub>0</sub>)
         escape_velocity: 125.064 km/s<br />(450,232 km/h)
         rotation_period: 41.682 d
         axial_tilt: 15.87°
         albedo: 0.30
-        temperature: 148 K<br />(-126 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0240 Naddiad V i
         type: Icy
         formationType: Accreted
@@ -507,14 +507,14 @@ planets:
         radius: 117,243.5 km<br/>(18.403 Yrths)
         surface_area: 1.727 × 10<sup>11</sup> km<sup>2</sup><br/>(338.659 Yrths)
         volume: 6.751 × 10<sup>15</sup> km<sup>3</sup><br/>(6232.232 Yrths)
-        mass: 1.205 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 1.205 × 10<sup>28</sup> kg<br />(2017.082 Yrths)
         density: 1.784 g/cm<sup>3</sup>
         surface_gravity: 58.409 m/s<sup>2</sup><br />(5.956 g<sub>0</sub>)
         escape_velocity: 117.110 km/s<br />(421,597 km/h)
         rotation_period: 44.199 d
         axial_tilt: 10.46°
         albedo: 0.30
-        temperature: 106 K<br />(-167 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0240 Naddiad V j
         type: Icy
         formationType: Impact formed
@@ -527,12 +527,12 @@ planets:
         radius: 132,241.7 km<br/>(20.757 Yrths)
         surface_area: 2.198 × 10<sup>11</sup> km<sup>2</sup><br/>(430.846 Yrths)
         volume: 9.687 × 10<sup>15</sup> km<sup>3</sup><br/>(8942.988 Yrths)
-        mass: 1.056 × 10<sup>28</sup> kg<br />(219.34804072511588 Yrths)
+        mass: 1.056 × 10<sup>28</sup> kg<br />(1768.423 Yrths)
         density: 1.090 g/cm<sup>3</sup>
         surface_gravity: 40.252 m/s<sup>2</sup><br />(4.105 g<sub>0</sub>)
         escape_velocity: 103.249 km/s<br />(371,697 km/h)
         rotation_period: 88.252 d
         axial_tilt: 19.70°
         albedo: 0.30
-        temperature: 45 K<br />(-228 °C)
+        temperature: 110 K<br />(-163 °C)
 ---

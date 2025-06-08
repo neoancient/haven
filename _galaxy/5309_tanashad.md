@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5309 Tanashad is a star in the constellation Tanas
+      5309 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 924.85 ly
 apparent_magnitude: 12.64
 absolute_magnitude: 5.38

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3387 Anilliad is a star in the constellation Anil
+      3387 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 656.33 ly
 apparent_magnitude: 8.10
 absolute_magnitude: 1.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3535 Oniad A is a star in the constellation Oni
+      3535 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 219.55 ly
 apparent_magnitude: 9.11
 absolute_magnitude: 4.97

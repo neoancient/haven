@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0087 Olliad is a star in the constellation Ol
+      0087 Olliad is a star in the constellation <a href="ol.html">Ol</a>
 distance: 414.71 ly
 apparent_magnitude: 6.21
 absolute_magnitude: 0.69
@@ -31,14 +31,14 @@ planets:
     radius: 8,392.2 km<br/>(1.317 Yrths)
     surface_area: 8.850 × 10<sup>08</sup> km<sup>2</sup><br/>(1.735 Yrths)
     volume: 2.476 × 10<sup>12</sup> km<sup>3</sup><br/>(2.286 Yrths)
-    mass: 1.792 × 10<sup>25</sup> kg<br />(3.0002142951836834 Yrths)
+    mass: 1.792 × 10<sup>25</sup> kg<br />(3.00 Yrths)
     density: 7.237 g/cm<sup>3</sup>
     surface_gravity: 16.957 m/s<sup>2</sup><br />(1.729 g<sub>0</sub>)
     escape_velocity: 16.882 km/s<br />(60,774 km/h)
     rotation_period: 0.827 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 440 K<br />(167 °C)
+    temperature: 581 K<br />(308 °C)
     surface_pressure: 896 kPa<br />(9 atm)
     composition:
       - 93.1459% methane

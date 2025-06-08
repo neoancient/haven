@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1765 Lunaiad is a star in the constellation Luna
+      1765 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 597.30 ly
 apparent_magnitude: 11.56
 absolute_magnitude: 5.25

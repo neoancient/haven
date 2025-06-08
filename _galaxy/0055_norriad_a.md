@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0055 Norriad A is a star in the constellation Nor
+      0055 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1013.15 ly
 apparent_magnitude: 5.88
 absolute_magnitude: -1.58

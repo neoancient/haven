@@ -8,450 +8,358 @@ sections:
     content: >-
       5481 Kinanniad is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 213.71 ly
-apparent_magnitude: 8.87
-absolute_magnitude: 4.79
-spectral_class: G1V
+apparent_magnitude: 12.05
+absolute_magnitude: 7.97
+spectral_class: K9V
 equatorial: |
   RA: 5<sup>h</sup> 49<sup>m</sup> 12.00<sup>s</sup><br />Dec: -5° 12' 0.00"
 rectangular: -184.19S 30.25E -104.08R
-radius: 6.971 × 10<sup>05</sup> km<br />(1.002 R<sub>☉</sub>)
-mass: 1.961 × 10<sup>30</sup> kg<br />(0.986 M<sub>☉</sub>)
-luminosity: 4.343 × 10<sup>26</sup> W<br />(1.134 L<sub>☉</sub>)
-age: 6.0 Gyr
-temperature: 5,951 K
+radius: 5.100 × 10<sup>05</sup> km<br />(0.733 R<sub>☉</sub>)
+mass: 1.201 × 10<sup>30</sup> kg<br />(0.604 M<sub>☉</sub>)
+luminosity: 5.137 × 10<sup>25</sup> W<br />(0.134 L<sub>☉</sub>)
+age: 2.6 Gyr
+temperature: 4,080 K
 planets:
   - name: 5481 Kinanniad I
-    type: Terrestrial
-    aphelion: 103,175,486 km<br />0.690 AU
-    perihelion: 99,583,015 km<br />0.666 AU
-    semi_major_axis: 101,379,250 km<br />0.678 AU
-    eccentricity: 0.018
-    orbital_period: 205.17 d<br />0.562 y
-    inclination: 17.55°
-    radius: 5,674.5 km<br/>(0.891 Yrths)
-    surface_area: 4.046 × 10<sup>08</sup> km<sup>2</sup><br/>(0.793 Yrths)
-    volume: 7.654 × 10<sup>11</sup> km<sup>3</sup><br/>(0.707 Yrths)
-    mass: 4.830 × 10<sup>24</sup> kg<br />(0.81 Yrths)
-    density: 6.310 g/cm<sup>3</sup>
-    surface_gravity: 9.998 m/s<sup>2</sup><br />(1.019 g<sub>0</sub>)
-    escape_velocity: 10.659 km/s<br />(38,373 km/h)
-    rotation_period: 2.020 d
+    type: Large terrestrial
+    aphelion: 35,595,070 km<br />0.238 AU
+    perihelion: 34,038,993 km<br />0.228 AU
+    semi_major_axis: 34,817,031 km<br />0.233 AU
+    eccentricity: 0.022
+    orbital_period: 52.78 d<br />0.144 y
+    inclination: 1.11°
+    radius: 10,048.1 km<br/>(1.577 Yrths)
+    surface_area: 1.269 × 10<sup>09</sup> km<sup>2</sup><br/>(2.487 Yrths)
+    volume: 4.249 × 10<sup>12</sup> km<sup>3</sup><br/>(3.923 Yrths)
+    mass: 3.348 × 10<sup>25</sup> kg<br />(5.61 Yrths)
+    density: 7.879 g/cm<sup>3</sup>
+    surface_gravity: 22.104 m/s<sup>2</sup><br />(2.254 g<sub>0</sub>)
+    escape_velocity: 21.090 km/s<br />(75,926 km/h)
+    rotation_period: 1.085 d
     axial_tilt: 0.00°
-    albedo: 0.30
-    temperature: 326 K<br />(53 °C)
-    surface_pressure: 13 kPa<br />(0 atm)
+    albedo: 0.35
+    temperature: 1351 K<br />(1078 °C)
+    surface_pressure: 81 kPa<br />(1 atm)
     composition:
-      - 68.5458% nitrogen
-      - 27.0227% ammonia
-      - 1.9537% potassium vapor
-      - 1.5889% hydrochloric acid
-      - 0.8889% carbon dioxide
+      - 92.5238% carbon dioxide
+      - 7.4762% hydrogen sulfide
     moons:
       - name: 5481 Kinanniad I a
         type: Rocky
-        formationType: Captured
-        aphelion: 553,989 km<br />
-        perihelion: 395,265 km<br />
-        semi_major_axis: 474,627 km<br />
-        eccentricity: 0.167
-        orbital_period: 0.04 d<br />
-        inclination: 43.75°
-        radius: 1,331.2 km<br/>(0.209 Yrths)
-        surface_area: 2.227 × 10<sup>07</sup> km<sup>2</sup><br/>(0.044 Yrths)
-        volume: 9.881 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 2.959 × 10<sup>22</sup> kg<br />(0.8087644823157575 Yrths)
-        density: 2.995 g/cm<sup>3</sup>
-        surface_gravity: 1.113 m/s<sup>2</sup><br />(0.113 g<sub>0</sub>)
-        escape_velocity: 1.723 km/s<br />(6,201 km/h)
-        rotation_period: 34.832 d
-        axial_tilt: 21.45°
+        formationType: Accreted
+        aphelion: 377,664 km<br />
+        perihelion: 354,400 km<br />
+        semi_major_axis: 366,032 km<br />
+        eccentricity: 0.032
+        orbital_period: 0.00 d<br />
+        inclination: 2.61°
+        radius: 5,421.5 km<br/>(0.851 Yrths)
+        surface_area: 3.694 × 10<sup>08</sup> km<sup>2</sup><br/>(0.724 Yrths)
+        volume: 6.675 × 10<sup>11</sup> km<sup>3</sup><br/>(0.616 Yrths)
+        mass: 2.004 × 10<sup>24</sup> kg<br />(0.336 Yrths)
+        density: 3.002 g/cm<sup>3</sup>
+        surface_gravity: 4.544 m/s<sup>2</sup><br />(0.463 g<sub>0</sub>)
+        escape_velocity: 7.024 km/s<br />(25,285 km/h)
+        rotation_period: 50.125 d
+        axial_tilt: 22.06°
         albedo: 0.30
-        temperature: 4721 K<br />(4448 °C)
+        temperature: 319 K<br />(46 °C)
       - name: 5481 Kinanniad I b
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 522,809 km<br />
-        perihelion: 521,370 km<br />
-        semi_major_axis: 522,090 km<br />
-        eccentricity: 0.001
-        orbital_period: 0.04 d<br />
-        inclination: 5.59°
-        radius: 1,485.4 km<br/>(0.233 Yrths)
-        surface_area: 2.773 × 10<sup>07</sup> km<sup>2</sup><br/>(0.054 Yrths)
-        volume: 1.373 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 3.342 × 10<sup>22</sup> kg<br />(0.8087644823157575 Yrths)
-        density: 2.435 g/cm<sup>3</sup>
-        surface_gravity: 1.010 m/s<sup>2</sup><br />(0.103 g<sub>0</sub>)
-        escape_velocity: 1.733 km/s<br />(6,239 km/h)
-        rotation_period: 41.896 d
-        axial_tilt: 12.98°
+        type: Rocky
+        formationType: Accreted
+        aphelion: 465,654 km<br />
+        perihelion: 339,615 km<br />
+        semi_major_axis: 402,635 km<br />
+        eccentricity: 0.157
+        orbital_period: 0.00 d<br />
+        inclination: 48.59°
+        radius: 4,695.1 km<br/>(0.737 Yrths)
+        surface_area: 2.770 × 10<sup>08</sup> km<sup>2</sup><br/>(0.543 Yrths)
+        volume: 4.335 × 10<sup>11</sup> km<sup>3</sup><br/>(0.400 Yrths)
+        mass: 1.480 × 10<sup>24</sup> kg<br />(0.248 Yrths)
+        density: 3.414 g/cm<sup>3</sup>
+        surface_gravity: 4.475 m/s<sup>2</sup><br />(0.456 g<sub>0</sub>)
+        escape_velocity: 6.487 km/s<br />(23,353 km/h)
+        rotation_period: 33.781 d
+        axial_tilt: 14.20°
         albedo: 0.30
-        temperature: 4501 K<br />(4228 °C)
+        temperature: 319 K<br />(46 °C)
+      - name: 5481 Kinanniad I c
+        type: Rocky
+        formationType: Accreted
+        aphelion: 527,503 km<br />
+        perihelion: 358,293 km<br />
+        semi_major_axis: 442,898 km<br />
+        eccentricity: 0.191
+        orbital_period: 0.00 d<br />
+        inclination: 13.31°
+        radius: 5,590.8 km<br/>(0.878 Yrths)
+        surface_area: 3.928 × 10<sup>08</sup> km<sup>2</sup><br/>(0.770 Yrths)
+        volume: 7.320 × 10<sup>11</sup> km<sup>3</sup><br/>(0.676 Yrths)
+        mass: 2.338 × 10<sup>24</sup> kg<br />(0.391 Yrths)
+        density: 3.194 g/cm<sup>3</sup>
+        surface_gravity: 4.986 m/s<sup>2</sup><br />(0.508 g<sub>0</sub>)
+        escape_velocity: 7.471 km/s<br />(26,897 km/h)
+        rotation_period: 30.025 d
+        axial_tilt: 11.67°
+        albedo: 0.30
+        temperature: 319 K<br />(46 °C)
   - name: <a href="auric_prime.html">Auric Prime</a> (5481 Kinanniad II)
     type: Terrestrial
-    aphelion: 181,801,831 km<br />1.215 AU
-    perihelion: 181,277,660 km<br />1.212 AU
-    semi_major_axis: 181,539,745 km<br />1.214 AU
-    eccentricity: 0.001
-    orbital_period: 491.65 d<br />1.346 y
-    inclination: 30.09°
-    radius: 6,942.7 km<br/>(1.090 Yrths)
-    surface_area: 6.057 × 10<sup>08</sup> km<sup>2</sup><br/>(1.188 Yrths)
-    volume: 1.402 × 10<sup>12</sup> km<sup>3</sup><br/>(1.294 Yrths)
-    mass: 7.183 × 10<sup>24</sup> kg<br />(1.20 Yrths)
-    density: 5.125 g/cm<sup>3</sup>
-    surface_gravity: 9.933 m/s<sup>2</sup><br />(1.013 g<sub>0</sub>)
-    escape_velocity: 11.752 km/s<br />(42,308 km/h)
-    rotation_period: 1.272 d
+    aphelion: 53,657,612 km<br />0.359 AU
+    perihelion: 52,748,284 km<br />0.353 AU
+    semi_major_axis: 53,202,948 km<br />0.356 AU
+    eccentricity: 0.009
+    orbital_period: 99.69 d<br />0.273 y
+    inclination: 0.78°
+    radius: 5,641.4 km<br/>(0.885 Yrths)
+    surface_area: 3.999 × 10<sup>08</sup> km<sup>2</sup><br/>(0.784 Yrths)
+    volume: 7.520 × 10<sup>11</sup> km<sup>3</sup><br/>(0.694 Yrths)
+    mass: 4.219 × 10<sup>24</sup> kg<br />(0.71 Yrths)
+    density: 5.610 g/cm<sup>3</sup>
+    surface_gravity: 8.836 m/s<sup>2</sup><br />(0.901 g<sub>0</sub>)
+    escape_velocity: 9.991 km/s<br />(35,969 km/h)
+    rotation_period: 2.265 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 254 K<br />(-19 °C)
-    surface_pressure: 109 kPa<br />(1 atm)
+    temperature: 277 K<br />(4 °C)
+    surface_pressure: 119 kPa<br />(1 atm)
     composition:
-      - 78.2998% nitrogen
+      - 78.2106% nitrogen
       - 20.1313% oxygen
       - 1.5471% argon
-      - 0.0217% carbon dioxide
-      - 0.0001% carbon monoxide
+      - 0.1110% carbon dioxide
     moons:
       - name: Auric Prime a
-        type: Icy
-        formationType: Captured
-        aphelion: 1,266,835 km<br />
-        perihelion: 673,464 km<br />
-        semi_major_axis: 970,150 km<br />
-        eccentricity: 0.306
-        orbital_period: 0.07 d<br />
-        inclination: 56.79°
-        radius: 4,566.8 km<br/>(0.717 Yrths)
-        surface_area: 2.621 × 10<sup>08</sup> km<sup>2</sup><br/>(0.514 Yrths)
-        volume: 3.990 × 10<sup>11</sup> km<sup>3</sup><br/>(0.368 Yrths)
-        mass: 4.896 × 10<sup>23</sup> kg<br />(1.2028543262259896 Yrths)
-        density: 1.227 g/cm<sup>3</sup>
-        surface_gravity: 1.565 m/s<sup>2</sup><br />(0.160 g<sub>0</sub>)
-        escape_velocity: 3.783 km/s<br />(13,619 km/h)
-        rotation_period: 50.427 d
-        axial_tilt: 25.89°
+        type: Rocky
+        formationType: Impact formed
+        aphelion: 282,575 km<br />
+        perihelion: 278,239 km<br />
+        semi_major_axis: 280,407 km<br />
+        eccentricity: 0.008
+        orbital_period: 0.01 d<br />
+        inclination: 1.80°
+        radius: 2,063.1 km<br/>(0.324 Yrths)
+        surface_area: 5.349 × 10<sup>07</sup> km<sup>2</sup><br/>(0.105 Yrths)
+        volume: 3.679 × 10<sup>10</sup> km<sup>3</sup><br/>(0.034 Yrths)
+        mass: 9.928 × 10<sup>22</sup> kg<br />(0.017 Yrths)
+        density: 2.699 g/cm<sup>3</sup>
+        surface_gravity: 1.555 m/s<sup>2</sup><br />(0.159 g<sub>0</sub>)
+        escape_velocity: 2.534 km/s<br />(9,124 km/h)
+        rotation_period: 46.176 d
+        axial_tilt: 7.01°
         albedo: 0.30
-        temperature: 3263 K<br />(2990 °C)
+        temperature: 258 K<br />(-15 °C)
   - name: 5481 Kinanniad III
-    type: Large terrestrial
-    aphelion: 325,083,081 km<br />2.173 AU
-    perihelion: 325,083,081 km<br />2.173 AU
-    semi_major_axis: 325,083,081 km<br />2.173 AU
-    eccentricity: 0.000
-    orbital_period: 1,178.11 d<br />3.225 y
-    inclination: 0.00°
-    radius: 2,927.7 km<br/>(0.460 Yrths)
-    surface_area: 1.077 × 10<sup>08</sup> km<sup>2</sup><br/>(0.211 Yrths)
-    volume: 1.051 × 10<sup>11</sup> km<sup>3</sup><br/>(0.097 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
-    density: 5.681 g/cm<sup>3</sup>
-    surface_gravity: 4.644 m/s<sup>2</sup><br />(0.474 g<sub>0</sub>)
-    escape_velocity: 5.218 km/s<br />(18,785 km/h)
-    rotation_period: 2.050 d
+    type: Gas dwarf
+    aphelion: 82,657,633 km<br />0.553 AU
+    perihelion: 79,938,287 km<br />0.534 AU
+    semi_major_axis: 81,297,960 km<br />0.543 AU
+    eccentricity: 0.017
+    orbital_period: 188.30 d<br />0.516 y
+    inclination: 0.79°
+    radius: 18,669.6 km<br/>(2.930 Yrths)
+    surface_area: 4.380 × 10<sup>09</sup> km<sup>2</sup><br/>(8.587 Yrths)
+    volume: 2.726 × 10<sup>13</sup> km<sup>3</sup><br/>(25.164 Yrths)
+    mass: 6.184 × 10<sup>25</sup> kg<br />(10.36 Yrths)
+    density: 2.269 g/cm<sup>3</sup>
+    surface_gravity: 11.826 m/s<sup>2</sup><br />(1.206 g<sub>0</sub>)
+    escape_velocity: 21.028 km/s<br />(75,701 km/h)
+    rotation_period: 0.760 d
     axial_tilt: 0.00°
-    albedo: 0.35
-    temperature: 205 K<br />(-68 °C)
-    surface_pressure: 103 kPa<br />(1 atm)
+    albedo: 0.60
+    temperature: 262 K<br />(-11 °C)
     composition:
-      - 70.7605% methane
-      - 19.9313% carbon dioxide
-      - 7.4569% ammonia
-      - 1.8513% phosphine
+      - 80.9484% hydrogen
+      - 16.6180% helium
+      - 1.6853% carbon dioxide
+      - 0.7483% nitrogen
     moons:
       - name: 5481 Kinanniad III a
         type: Rocky
-        formationType: Captured
-        aphelion: 853,253 km<br />
-        perihelion: 663,170 km<br />
-        semi_major_axis: 758,212 km<br />
-        eccentricity: 0.125
-        orbital_period: 0.60 d<br />
-        inclination: 1.01°
-        radius: 354.8 km<br/>(0.056 Yrths)
-        surface_area: 1.582 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
-        volume: 1.870 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.577 × 10<sup>20</sup> kg<br />(0.1 Yrths)
-        density: 2.982 g/cm<sup>3</sup>
-        surface_gravity: 0.295 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
-        escape_velocity: 0.458 km/s<br />(1,649 km/h)
-        rotation_period: 52.910 d
-        axial_tilt: 10.52°
+        formationType: Impact formed
+        aphelion: 1,115,673 km<br />
+        perihelion: 981,644 km<br />
+        semi_major_axis: 1,048,659 km<br />
+        eccentricity: 0.064
+        orbital_period: 0.01 d<br />
+        inclination: 2.38°
+        radius: 5,371.7 km<br/>(0.843 Yrths)
+        surface_area: 3.626 × 10<sup>08</sup> km<sup>2</sup><br/>(0.711 Yrths)
+        volume: 6.493 × 10<sup>11</sup> km<sup>3</sup><br/>(0.599 Yrths)
+        mass: 1.950 × 10<sup>24</sup> kg<br />(0.327 Yrths)
+        density: 3.004 g/cm<sup>3</sup>
+        surface_gravity: 4.505 m/s<sup>2</sup><br />(0.459 g<sub>0</sub>)
+        escape_velocity: 6.962 km/s<br />(25,063 km/h)
+        rotation_period: 29.446 d
+        axial_tilt: 16.67°
         albedo: 0.30
-        temperature: 4074 K<br />(3801 °C)
+        temperature: 209 K<br />(-64 °C)
       - name: 5481 Kinanniad III b
         type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 919,766 km<br />
-        perihelion: 915,106 km<br />
-        semi_major_axis: 917,436 km<br />
-        eccentricity: 0.003
-        orbital_period: 0.60 d<br />
+        formationType: Impact formed
+        aphelion: 1,249,925 km<br />
+        perihelion: 1,057,124 km<br />
+        semi_major_axis: 1,153,524 km<br />
+        eccentricity: 0.084
+        orbital_period: 0.01 d<br />
         inclination: 2.34°
-        radius: 330.2 km<br/>(0.052 Yrths)
-        surface_area: 1.370 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
-        volume: 1.509 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.414 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        radius: 20,835.7 km<br/>(3.270 Yrths)
+        surface_area: 5.455 × 10<sup>09</sup> km<sup>2</sup><br/>(10.695 Yrths)
+        volume: 3.789 × 10<sup>13</sup> km<sup>3</sup><br/>(34.978 Yrths)
+        mass: 6.062 × 10<sup>25</sup> kg<br />(10.151 Yrths)
         density: 1.600 g/cm<sup>3</sup>
-        surface_gravity: 0.148 m/s<sup>2</sup><br />(0.015 g<sub>0</sub>)
-        escape_velocity: 0.312 km/s<br />(1,124 km/h)
-        rotation_period: 57.160 d
-        axial_tilt: 13.85°
+        surface_gravity: 9.307 m/s<sup>2</sup><br />(0.949 g<sub>0</sub>)
+        escape_velocity: 19.707 km/s<br />(70,947 km/h)
+        rotation_period: 72.317 d
+        axial_tilt: 16.39°
         albedo: 0.30
-        temperature: 3704 K<br />(3431 °C)
+        temperature: 209 K<br />(-64 °C)
       - name: 5481 Kinanniad III c
-        type: Icy
-        formationType: Captured
-        aphelion: 1,051,658 km<br />
-        perihelion: 966,701 km<br />
-        semi_major_axis: 1,009,180 km<br />
-        eccentricity: 0.042
-        orbital_period: 0.60 d<br />
-        inclination: 6.92°
-        radius: 789.6 km<br/>(0.124 Yrths)
-        surface_area: 7.834 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
-        volume: 2.062 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.541 × 10<sup>21</sup> kg<br />(0.1 Yrths)
-        density: 1.232 g/cm<sup>3</sup>
-        surface_gravity: 0.272 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
-        escape_velocity: 0.655 km/s<br />(2,359 km/h)
-        rotation_period: 63.139 d
-        axial_tilt: 11.75°
-        albedo: 0.30
-        temperature: 3532 K<br />(3258 °C)
-      - name: 5481 Kinanniad III d
-        type: Icy
-        formationType: Captured
-        aphelion: 1,121,252 km<br />
-        perihelion: 1,098,943 km<br />
-        semi_major_axis: 1,110,098 km<br />
-        eccentricity: 0.010
-        orbital_period: 0.60 d<br />
-        inclination: 0.32°
-        radius: 704.0 km<br/>(0.111 Yrths)
-        surface_area: 6.229 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
-        volume: 1.462 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.023 × 10<sup>21</sup> kg<br />(0.1 Yrths)
-        density: 0.700 g/cm<sup>3</sup>
-        surface_gravity: 0.138 m/s<sup>2</sup><br />(0.014 g<sub>0</sub>)
-        escape_velocity: 0.440 km/s<br />(1,586 km/h)
-        rotation_period: 85.386 d
-        axial_tilt: 15.98°
-        albedo: 0.30
-        temperature: 3367 K<br />(3094 °C)
-  - name: 5481 Kinanniad IV
-    type: Terrestrial
-    aphelion: 589,807,945 km<br />3.943 AU
-    perihelion: 574,444,099 km<br />3.840 AU
-    semi_major_axis: 582,126,022 km<br />3.891 AU
-    eccentricity: 0.013
-    orbital_period: 2,823.07 d<br />7.729 y
-    inclination: 0.00°
-    radius: 6,623.3 km<br/>(1.040 Yrths)
-    surface_area: 5.513 × 10<sup>08</sup> km<sup>2</sup><br/>(1.081 Yrths)
-    volume: 1.217 × 10<sup>12</sup> km<sup>3</sup><br/>(1.124 Yrths)
-    mass: 6.234 × 10<sup>24</sup> kg<br />(1.04 Yrths)
-    density: 5.122 g/cm<sup>3</sup>
-    surface_gravity: 9.472 m/s<sup>2</sup><br />(0.966 g<sub>0</sub>)
-    escape_velocity: 11.209 km/s<br />(40,353 km/h)
-    rotation_period: 1.025 d
-    axial_tilt: 0.00°
-    albedo: 0.30
-    temperature: 139 K<br />(-134 °C)
-    surface_pressure: 21 kPa<br />(0 atm)
-    composition:
-      - 87.9888% nitrogen
-      - 7.4459% carbon dioxide
-      - 3.5329% methane
-      - 1.0324% hydrogen sulfide
-    moons:
-      - name: 5481 Kinanniad IV a
         type: Asteroid
         formationType: Captured
-        aphelion: 3,450,252 km<br />
-        perihelion: 2,484,428 km<br />
-        semi_major_axis: 2,967,340 km<br />
-        eccentricity: 0.163
-        orbital_period: 0.44 d<br />
-        inclination: 31.77°
-        radius: 3,115.3 km<br/>(0.489 Yrths)
-        surface_area: 1.220 × 10<sup>08</sup> km<sup>2</sup><br/>(0.239 Yrths)
-        volume: 1.266 × 10<sup>11</sup> km<sup>3</sup><br/>(0.117 Yrths)
-        mass: 3.967 × 10<sup>23</sup> kg<br />(1.0439093211939705 Yrths)
-        density: 3.132 g/cm<sup>3</sup>
-        surface_gravity: 2.724 m/s<sup>2</sup><br />(0.278 g<sub>0</sub>)
-        escape_velocity: 4.123 km/s<br />(14,842 km/h)
-        rotation_period: 54.404 d
-        axial_tilt: 25.91°
+        aphelion: 1,393,968 km<br />
+        perihelion: 1,143,786 km<br />
+        semi_major_axis: 1,268,877 km<br />
+        eccentricity: 0.099
+        orbital_period: 0.01 d<br />
+        inclination: 3.87°
+        radius: 5,324.2 km<br/>(0.836 Yrths)
+        surface_area: 3.562 × 10<sup>08</sup> km<sup>2</sup><br/>(0.698 Yrths)
+        volume: 6.322 × 10<sup>11</sup> km<sup>3</sup><br/>(0.584 Yrths)
+        mass: 1.563 × 10<sup>24</sup> kg<br />(0.262 Yrths)
+        density: 2.472 g/cm<sup>3</sup>
+        surface_gravity: 3.675 m/s<sup>2</sup><br />(0.375 g<sub>0</sub>)
+        escape_velocity: 6.260 km/s<br />(22,536 km/h)
+        rotation_period: 35.149 d
+        axial_tilt: 29.24°
         albedo: 0.30
-        temperature: 1916 K<br />(1643 °C)
-  - name: 5481 Kinanniad V
+        temperature: 209 K<br />(-64 °C)
+      - name: 5481 Kinanniad III d
+        type: Rocky
+        formationType: Accreted
+        aphelion: 1,458,699 km<br />
+        perihelion: 1,332,830 km<br />
+        semi_major_axis: 1,395,765 km<br />
+        eccentricity: 0.045
+        orbital_period: 0.01 d<br />
+        inclination: 0.99°
+        radius: 11,562.6 km<br/>(1.815 Yrths)
+        surface_area: 1.680 × 10<sup>09</sup> km<sup>2</sup><br/>(3.294 Yrths)
+        volume: 6.475 × 10<sup>12</sup> km<sup>3</sup><br/>(5.978 Yrths)
+        mass: 2.035 × 10<sup>25</sup> kg<br />(3.408 Yrths)
+        density: 3.143 g/cm<sup>3</sup>
+        surface_gravity: 10.147 m/s<sup>2</sup><br />(1.035 g<sub>0</sub>)
+        escape_velocity: 15.329 km/s<br />(55,184 km/h)
+        rotation_period: 29.554 d
+        axial_tilt: 13.64°
+        albedo: 0.30
+        temperature: 209 K<br />(-64 °C)
+      - name: 5481 Kinanniad III e
+        type: Icy
+        formationType: Impact formed
+        aphelion: 1,667,547 km<br />
+        perihelion: 1,403,135 km<br />
+        semi_major_axis: 1,535,341 km<br />
+        eccentricity: 0.086
+        orbital_period: 0.01 d<br />
+        inclination: 4.00°
+        radius: 10,495.9 km<br/>(1.647 Yrths)
+        surface_area: 1.384 × 10<sup>09</sup> km<sup>2</sup><br/>(2.714 Yrths)
+        volume: 4.843 × 10<sup>12</sup> km<sup>3</sup><br/>(4.471 Yrths)
+        mass: 3.390 × 10<sup>24</sup> kg<br />(0.568 Yrths)
+        density: 0.700 g/cm<sup>3</sup>
+        surface_gravity: 2.051 m/s<sup>2</sup><br />(0.209 g<sub>0</sub>)
+        escape_velocity: 6.566 km/s<br />(23,639 km/h)
+        rotation_period: 74.233 d
+        axial_tilt: 14.71°
+        albedo: 0.30
+        temperature: 209 K<br />(-64 °C)
+  - name: 5481 Kinanniad IV
     type: Large terrestrial
-    aphelion: 1,073,211,567 km<br />7.174 AU
-    perihelion: 1,011,613,667 km<br />6.762 AU
-    semi_major_axis: 1,042,412,617 km<br />6.968 AU
-    eccentricity: 0.030
-    orbital_period: 6,764.80 d<br />18.521 y
-    inclination: 27.41°
-    radius: 7,645.2 km<br/>(1.200 Yrths)
-    surface_area: 7.345 × 10<sup>08</sup> km<sup>2</sup><br/>(1.440 Yrths)
-    volume: 1.872 × 10<sup>12</sup> km<sup>3</sup><br/>(1.728 Yrths)
-    mass: 1.279 × 10<sup>25</sup> kg<br />(2.14 Yrths)
-    density: 6.830 g/cm<sup>3</sup>
-    surface_gravity: 14.580 m/s<sup>2</sup><br />(1.487 g<sub>0</sub>)
-    escape_velocity: 14.941 km/s<br />(53,787 km/h)
-    rotation_period: 0.781 d
+    aphelion: 126,510,603 km<br />0.846 AU
+    perihelion: 121,947,751 km<br />0.815 AU
+    semi_major_axis: 124,229,177 km<br />0.830 AU
+    eccentricity: 0.018
+    orbital_period: 355.69 d<br />0.974 y
+    inclination: 0.91°
+    radius: 8,861.2 km<br/>(1.391 Yrths)
+    surface_area: 9.867 × 10<sup>08</sup> km<sup>2</sup><br/>(1.935 Yrths)
+    volume: 2.915 × 10<sup>12</sup> km<sup>3</sup><br/>(2.691 Yrths)
+    mass: 2.022 × 10<sup>25</sup> kg<br />(3.38 Yrths)
+    density: 6.936 g/cm<sup>3</sup>
+    surface_gravity: 17.160 m/s<sup>2</sup><br />(1.750 g<sub>0</sub>)
+    escape_velocity: 17.451 km/s<br />(62,822 km/h)
+    rotation_period: 0.835 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 113 K<br />(-160 °C)
-    surface_pressure: 240 kPa<br />(2 atm)
+    temperature: 575 K<br />(302 °C)
+    surface_pressure: 167 kPa<br />(2 atm)
     composition:
-      - 73.0945% methane
-      - 24.6031% ammonia
-      - 2.3025% nitrogen
+      - 63.8832% carbon dioxide
+      - 28.2010% nitrogen
+      - 3.7951% methane
+      - 2.3481% carbon monoxide
+      - 1.7726% water vapor
     moons:
-      - name: 5481 Kinanniad V a
-        type: Icy
+      - name: 5481 Kinanniad IV a
+        type: Rocky
         formationType: Captured
-        aphelion: 7,129,379 km<br />
-        perihelion: 6,372,554 km<br />
-        semi_major_axis: 6,750,966 km<br />
-        eccentricity: 0.056
-        orbital_period: 0.74 d<br />
-        inclination: 2.38°
-        radius: 5,452.1 km<br/>(0.856 Yrths)
-        surface_area: 3.735 × 10<sup>08</sup> km<sup>2</sup><br/>(0.732 Yrths)
-        volume: 6.789 × 10<sup>11</sup> km<sup>3</sup><br/>(0.627 Yrths)
-        mass: 1.113 × 10<sup>24</sup> kg<br />(2.1408722210247513 Yrths)
-        density: 1.639 g/cm<sup>3</sup>
-        surface_gravity: 2.495 m/s<sup>2</sup><br />(0.254 g<sub>0</sub>)
-        escape_velocity: 5.219 km/s<br />(18,789 km/h)
-        rotation_period: 45.365 d
-        axial_tilt: 26.09°
+        aphelion: 1,208,985 km<br />
+        perihelion: 998,675 km<br />
+        semi_major_axis: 1,103,830 km<br />
+        eccentricity: 0.095
+        orbital_period: 0.02 d<br />
+        inclination: 0.24°
+        radius: 2,283.8 km<br/>(0.358 Yrths)
+        surface_area: 6.554 × 10<sup>07</sup> km<sup>2</sup><br/>(0.128 Yrths)
+        volume: 4.989 × 10<sup>10</sup> km<sup>3</sup><br/>(0.046 Yrths)
+        mass: 1.473 × 10<sup>23</sup> kg<br />(0.025 Yrths)
+        density: 2.951 g/cm<sup>3</sup>
+        surface_gravity: 1.882 m/s<sup>2</sup><br />(0.192 g<sub>0</sub>)
+        escape_velocity: 2.934 km/s<br />(10,562 km/h)
+        rotation_period: 29.741 d
+        axial_tilt: 17.68°
         albedo: 0.30
-        temperature: 1291 K<br />(1018 °C)
-  - name: 5481 Kinanniad VI
-    type: Ice giant
-    aphelion: 1,887,693,179 km<br />12.618 AU
-    perihelion: 1,845,601,752 km<br />12.337 AU
-    semi_major_axis: 1,866,647,465 km<br />12.478 AU
-    eccentricity: 0.011
-    orbital_period: 16,210.22 d<br />44.381 y
-    inclination: 30.06°
-    radius: 31,663.9 km<br/>(4.970 Yrths)
-    surface_area: 1.260 × 10<sup>10</sup> km<sup>2</sup><br/>(24.701 Yrths)
-    volume: 1.330 × 10<sup>14</sup> km<sup>3</sup><br/>(122.763 Yrths)
-    mass: 1.862 × 10<sup>26</sup> kg<br />(31.18 Yrths)
-    density: 1.400 g/cm<sup>3</sup>
-    surface_gravity: 12.380 m/s<sup>2</sup><br />(1.262 g<sub>0</sub>)
-    escape_velocity: 28.019 km/s<br />(100,870 km/h)
-    rotation_period: 0.326 d
-    axial_tilt: 0.00°
-    albedo: 0.50
-    temperature: 116 K<br />(-157 °C)
-    composition:
-      - 85.9733% hydrogen
-      - 14.0267% helium
-    moons:
-      - name: 5481 Kinanniad VI a
-        type: Ice/rock hybrid
-        formationType: Impact formed
-        aphelion: 31,794,411 km<br />
-        perihelion: 27,252,599 km<br />
-        semi_major_axis: 29,523,505 km<br />
-        eccentricity: 0.077
-        orbital_period: 0.46 d<br />
-        inclination: 3.42°
-        radius: 34,708.6 km<br/>(5.448 Yrths)
-        surface_area: 1.514 × 10<sup>10</sup> km<sup>2</sup><br/>(29.680 Yrths)
-        volume: 1.751 × 10<sup>14</sup> km<sup>3</sup><br/>(161.692 Yrths)
-        mass: 4.078 × 10<sup>26</sup> kg<br />(31.183776781124614 Yrths)
-        density: 2.328 g/cm<sup>3</sup>
-        surface_gravity: 22.562 m/s<sup>2</sup><br />(2.301 g<sub>0</sub>)
-        escape_velocity: 39.602 km/s<br />(142,566 km/h)
-        rotation_period: 35.146 d
-        axial_tilt: 8.97°
-        albedo: 0.30
-        temperature: 591 K<br />(318 °C)
-      - name: 5481 Kinanniad VI b
-        type: Icy
+        temperature: 169 K<br />(-104 °C)
+      - name: 5481 Kinanniad IV b
+        type: Rocky
         formationType: Accreted
-        aphelion: 45,595,510 km<br />
-        perihelion: 40,855,218 km<br />
-        semi_major_axis: 43,225,364 km<br />
-        eccentricity: 0.055
-        orbital_period: 0.46 d<br />
-        inclination: 0.16°
-        radius: 61,295.4 km<br/>(9.621 Yrths)
-        surface_area: 4.721 × 10<sup>10</sup> km<sup>2</sup><br/>(92.564 Yrths)
-        volume: 9.647 × 10<sup>14</sup> km<sup>3</sup><br/>(890.554 Yrths)
-        mass: 1.017 × 10<sup>27</sup> kg<br />(31.183776781124614 Yrths)
-        density: 1.054 g/cm<sup>3</sup>
-        surface_gravity: 18.034 m/s<sup>2</sup><br />(1.839 g<sub>0</sub>)
-        escape_velocity: 47.051 km/s<br />(169,383 km/h)
-        rotation_period: 49.597 d
-        axial_tilt: 21.01°
+        aphelion: 1,337,169 km<br />
+        perihelion: 1,091,258 km<br />
+        semi_major_axis: 1,214,213 km<br />
+        eccentricity: 0.101
+        orbital_period: 0.02 d<br />
+        inclination: 1.71°
+        radius: 4,828.8 km<br/>(0.758 Yrths)
+        surface_area: 2.930 × 10<sup>08</sup> km<sup>2</sup><br/>(0.574 Yrths)
+        volume: 4.716 × 10<sup>11</sup> km<sup>3</sup><br/>(0.435 Yrths)
+        mass: 1.549 × 10<sup>24</sup> kg<br />(0.259 Yrths)
+        density: 3.285 g/cm<sup>3</sup>
+        surface_gravity: 4.429 m/s<sup>2</sup><br />(0.452 g<sub>0</sub>)
+        escape_velocity: 6.544 km/s<br />(23,560 km/h)
+        rotation_period: 51.510 d
+        axial_tilt: 8.16°
         albedo: 0.30
-        temperature: 489 K<br />(216 °C)
-      - name: 5481 Kinanniad VI c
-        type: Icy
+        temperature: 169 K<br />(-104 °C)
+      - name: 5481 Kinanniad IV c
+        type: Rocky
         formationType: Accreted
-        aphelion: 47,660,180 km<br />
-        perihelion: 47,435,620 km<br />
-        semi_major_axis: 47,547,900 km<br />
-        eccentricity: 0.002
-        orbital_period: 0.46 d<br />
-        inclination: 2.83°
-        radius: 35,658.4 km<br/>(5.597 Yrths)
-        surface_area: 1.598 × 10<sup>10</sup> km<sup>2</sup><br/>(31.326 Yrths)
-        volume: 1.899 × 10<sup>14</sup> km<sup>3</sup><br/>(175.333 Yrths)
-        mass: 3.058 × 10<sup>26</sup> kg<br />(31.183776781124614 Yrths)
-        density: 1.610 g/cm<sup>3</sup>
-        surface_gravity: 16.029 m/s<sup>2</sup><br />(1.634 g<sub>0</sub>)
-        escape_velocity: 33.833 km/s<br />(121,798 km/h)
-        rotation_period: 70.727 d
-        axial_tilt: 24.39°
+        aphelion: 1,602,165 km<br />
+        perihelion: 1,069,104 km<br />
+        semi_major_axis: 1,335,635 km<br />
+        eccentricity: 0.200
+        orbital_period: 0.02 d<br />
+        inclination: 6.19°
+        radius: 5,492.3 km<br/>(0.862 Yrths)
+        surface_area: 3.791 × 10<sup>08</sup> km<sup>2</sup><br/>(0.743 Yrths)
+        volume: 6.940 × 10<sup>11</sup> km<sup>3</sup><br/>(0.641 Yrths)
+        mass: 1.932 × 10<sup>24</sup> kg<br />(0.324 Yrths)
+        density: 2.784 g/cm<sup>3</sup>
+        surface_gravity: 4.269 m/s<sup>2</sup><br />(0.435 g<sub>0</sub>)
+        escape_velocity: 6.853 km/s<br />(24,670 km/h)
+        rotation_period: 30.862 d
+        axial_tilt: 17.50°
         albedo: 0.30
-        temperature: 466 K<br />(193 °C)
-      - name: 5481 Kinanniad VI d
-        type: Ice/rock hybrid
-        formationType: Captured
-        aphelion: 68,024,252 km<br />
-        perihelion: 36,581,129 km<br />
-        semi_major_axis: 52,302,690 km<br />
-        eccentricity: 0.301
-        orbital_period: 0.46 d<br />
-        inclination: 24.93°
-        radius: 30,134.1 km<br/>(4.730 Yrths)
-        surface_area: 1.141 × 10<sup>10</sup> km<sup>2</sup><br/>(22.372 Yrths)
-        volume: 1.146 × 10<sup>14</sup> km<sup>3</sup><br/>(105.816 Yrths)
-        mass: 2.287 × 10<sup>26</sup> kg<br />(31.183776781124614 Yrths)
-        density: 1.995 g/cm<sup>3</sup>
-        surface_gravity: 16.788 m/s<sup>2</sup><br />(1.712 g<sub>0</sub>)
-        escape_velocity: 31.830 km/s<br />(114,587 km/h)
-        rotation_period: 67.538 d
-        axial_tilt: 20.32°
-        albedo: 0.30
-        temperature: 444 K<br />(171 °C)
-      - name: 5481 Kinanniad VI e
-        type: Dwarf planet
-        formationType: Captured
-        aphelion: 72,652,083 km<br />
-        perihelion: 66,577,678 km<br />
-        semi_major_axis: 69,614,880 km<br />
-        eccentricity: 0.044
-        orbital_period: 0.46 d<br />
-        inclination: 2.27°
-        radius: 48,616.3 km<br/>(7.631 Yrths)
-        surface_area: 2.970 × 10<sup>10</sup> km<sup>2</sup><br/>(58.230 Yrths)
-        volume: 4.813 × 10<sup>14</sup> km<sup>3</sup><br/>(444.347 Yrths)
-        mass: 9.516 × 10<sup>26</sup> kg<br />(31.183776781124614 Yrths)
-        density: 1.977 g/cm<sup>3</sup>
-        surface_gravity: 26.836 m/s<sup>2</sup><br />(2.737 g<sub>0</sub>)
-        escape_velocity: 51.116 km/s<br />(184,019 km/h)
-        rotation_period: 38.372 d
-        axial_tilt: 38.84°
-        albedo: 0.30
-        temperature: 385 K<br />(112 °C)
+        temperature: 169 K<br />(-104 °C)
 ---

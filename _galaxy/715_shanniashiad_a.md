@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      715 Shanniashiad A is a star in the constellation Shannias
+      715 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 467.63 ly
 apparent_magnitude: 9.17
 absolute_magnitude: 3.39

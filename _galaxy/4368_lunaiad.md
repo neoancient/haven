@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4368 Lunaiad is a star in the constellation Luna
+      4368 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 656.75 ly
 apparent_magnitude: 11.80
 absolute_magnitude: 5.28

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3162 Oniad A is a star in the constellation Oni
+      3162 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 490.78 ly
 apparent_magnitude: 9.58
 absolute_magnitude: 3.70

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0240 Niniunniad A is a star in the constellation Niniun
+      0240 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 416.66 ly
 apparent_magnitude: 6.31
 absolute_magnitude: 0.78

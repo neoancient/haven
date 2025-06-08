@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      κ Lasraiad is a star in the constellation Lasra
+      κ Lasraiad is a star in the constellation <a href="lasra.html">Lasra</a>
 distance: 176.21 ly
 apparent_magnitude: 4.89
 absolute_magnitude: 1.23
@@ -31,7 +31,7 @@ planets:
     radius: 194.9 km<br/>(0.031 Yrths)
     surface_area: 4.772 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.100 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.833 × 10<sup>26</sup> kg<br />(164.6447258893281 Yrths)
+    mass: 9.833 × 10<sup>26</sup> kg<br />(164.64 Yrths)
     density: 31715751.947 g/cm<sup>3</sup>
     surface_gravity: 1725630.105 m/s<sup>2</sup><br />(175965.300 g<sub>0</sub>)
     escape_velocity: 820.668 km/s<br />(2,954,406 km/h)
@@ -41,6 +41,26 @@ planets:
     temperature: 292 K<br />(19 °C)
     moons:
       - name: κ Lasraiad I a
+        type: Icy
+        formationType: Impact formed
+        aphelion: 23,574,533 km<br />
+        perihelion: 23,053,728 km<br />
+        semi_major_axis: 23,314,131 km<br />
+        eccentricity: 0.011
+        orbital_period: 0.03 d<br />
+        inclination: 5.19°
+        radius: 35,529.5 km<br/>(5.577 Yrths)
+        surface_area: 1.586 × 10<sup>10</sup> km<sup>2</sup><br/>(31.100 Yrths)
+        volume: 1.879 × 10<sup>14</sup> km<sup>3</sup><br/>(173.438 Yrths)
+        mass: 1.822 × 10<sup>26</sup> kg<br />(30.505 Yrths)
+        density: 0.970 g/cm<sup>3</sup>
+        surface_gravity: 9.619 m/s<sup>2</sup><br />(0.981 g<sub>0</sub>)
+        escape_velocity: 26.162 km/s<br />(94,183 km/h)
+        rotation_period: 74.584 d
+        axial_tilt: 26.17°
+        albedo: 0.30
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I b
         type: Icy
         formationType: Accreted
         aphelion: 26,502,958 km<br />
@@ -52,15 +72,15 @@ planets:
         radius: 142,411.9 km<br/>(22.353 Yrths)
         surface_area: 2.549 × 10<sup>11</sup> km<sup>2</sup><br/>(499.663 Yrths)
         volume: 1.210 × 10<sup>16</sup> km<sup>3</sup><br/>(11169.036 Yrths)
-        mass: 1.474 × 10<sup>28</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 1.474 × 10<sup>28</sup> kg<br />(2467.948 Yrths)
         density: 1.218 g/cm<sup>3</sup>
         surface_gravity: 48.437 m/s<sup>2</sup><br />(4.939 g<sub>0</sub>)
         escape_velocity: 117.536 km/s<br />(423,131 km/h)
         rotation_period: 77.405 d
         axial_tilt: 22.78°
         albedo: 0.30
-        temperature: 1426 K<br />(1153 °C)
-      - name: κ Lasraiad I b
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I c
         type: Rocky
         formationType: Accreted
         aphelion: 29,420,798 km<br />
@@ -72,15 +92,15 @@ planets:
         radius: 123,201.6 km<br/>(19.338 Yrths)
         surface_area: 1.907 × 10<sup>11</sup> km<sup>2</sup><br/>(373.953 Yrths)
         volume: 7.833 × 10<sup>15</sup> km<sup>3</sup><br/>(7231.466 Yrths)
-        mass: 1.880 × 10<sup>28</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 1.880 × 10<sup>28</sup> kg<br />(3147.960 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 82.553 m/s<sup>2</sup><br />(8.418 g<sub>0</sub>)
         escape_velocity: 142.720 km/s<br />(513,791 km/h)
         rotation_period: 55.846 d
         axial_tilt: 9.39°
         albedo: 0.30
-        temperature: 1360 K<br />(1087 °C)
-      - name: κ Lasraiad I c
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I d
         type: Icy
         formationType: Captured
         aphelion: 37,800,320 km<br />
@@ -92,15 +112,15 @@ planets:
         radius: 118,808.1 km<br/>(18.648 Yrths)
         surface_area: 1.774 × 10<sup>11</sup> km<sup>2</sup><br/>(347.758 Yrths)
         volume: 7.025 × 10<sup>15</sup> km<sup>3</sup><br/>(6485.074 Yrths)
-        mass: 9.629 × 10<sup>27</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 9.629 × 10<sup>27</sup> kg<br />(1612.426 Yrths)
         density: 1.371 g/cm<sup>3</sup>
         surface_gravity: 45.470 m/s<sup>2</sup><br />(4.637 g<sub>0</sub>)
         escape_velocity: 104.015 km/s<br />(374,453 km/h)
         rotation_period: 58.347 d
         axial_tilt: 12.79°
         albedo: 0.30
-        temperature: 1236 K<br />(963 °C)
-      - name: κ Lasraiad I d
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I e
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 43,073,384 km<br />
@@ -112,15 +132,15 @@ planets:
         radius: 119,858.1 km<br/>(18.813 Yrths)
         surface_area: 1.805 × 10<sup>11</sup> km<sup>2</sup><br/>(353.932 Yrths)
         volume: 7.213 × 10<sup>15</sup> km<sup>3</sup><br/>(6658.542 Yrths)
-        mass: 1.836 × 10<sup>28</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 1.836 × 10<sup>28</sup> kg<br />(3073.971 Yrths)
         density: 2.545 g/cm<sup>3</sup>
         surface_gravity: 85.173 m/s<sup>2</sup><br />(8.685 g<sub>0</sub>)
         escape_velocity: 142.986 km/s<br />(514,750 km/h)
         rotation_period: 46.932 d
         axial_tilt: 25.25°
         albedo: 0.30
-        temperature: 1124 K<br />(851 °C)
-      - name: κ Lasraiad I e
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I f
         type: Icy
         formationType: Accreted
         aphelion: 109,672,800 km<br />
@@ -132,15 +152,15 @@ planets:
         radius: 153,913.7 km<br/>(24.158 Yrths)
         surface_area: 2.977 × 10<sup>11</sup> km<sup>2</sup><br/>(583.632 Yrths)
         volume: 1.527 × 10<sup>16</sup> km<sup>3</sup><br/>(14099.664 Yrths)
-        mass: 2.011 × 10<sup>28</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 2.011 × 10<sup>28</sup> kg<br />(3367.917 Yrths)
         density: 1.317 g/cm<sup>3</sup>
         surface_gravity: 56.590 m/s<sup>2</sup><br />(5.771 g<sub>0</sub>)
         escape_velocity: 132.075 km/s<br />(475,469 km/h)
         rotation_period: 78.945 d
         axial_tilt: 17.53°
         albedo: 0.30
-        temperature: 698 K<br />(425 °C)
-      - name: κ Lasraiad I f
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I g
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 261,242,103 km<br />
@@ -152,15 +172,15 @@ planets:
         radius: 93,596.1 km<br/>(14.691 Yrths)
         surface_area: 1.101 × 10<sup>11</sup> km<sup>2</sup><br/>(215.824 Yrths)
         volume: 3.434 × 10<sup>15</sup> km<sup>3</sup><br/>(3170.661 Yrths)
-        mass: 9.027 × 10<sup>27</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 9.027 × 10<sup>27</sup> kg<br />(1511.471 Yrths)
         density: 2.628 g/cm<sup>3</sup>
         surface_gravity: 68.678 m/s<sup>2</sup><br />(7.003 g<sub>0</sub>)
         escape_velocity: 113.462 km/s<br />(408,462 km/h)
         rotation_period: 47.350 d
         axial_tilt: 9.85°
         albedo: 0.30
-        temperature: 477 K<br />(203 °C)
-      - name: κ Lasraiad I g
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I h
         type: Rocky
         formationType: Impact formed
         aphelion: 474,097,507 km<br />
@@ -172,15 +192,15 @@ planets:
         radius: 93,675.5 km<br/>(14.703 Yrths)
         surface_area: 1.103 × 10<sup>11</sup> km<sup>2</sup><br/>(216.191 Yrths)
         volume: 3.443 × 10<sup>15</sup> km<sup>3</sup><br/>(3178.745 Yrths)
-        mass: 1.220 × 10<sup>28</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 1.220 × 10<sup>28</sup> kg<br />(2042.344 Yrths)
         density: 3.542 g/cm<sup>3</sup>
         surface_gravity: 92.643 m/s<sup>2</sup><br />(9.447 g<sub>0</sub>)
         escape_velocity: 131.835 km/s<br />(474,604 km/h)
         rotation_period: 30.417 d
         axial_tilt: 9.86°
         albedo: 0.30
-        temperature: 341 K<br />(68 °C)
-      - name: κ Lasraiad I h
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I i
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 765,774,879 km<br />
@@ -192,15 +212,15 @@ planets:
         radius: 99,093.4 km<br/>(15.554 Yrths)
         surface_area: 1.234 × 10<sup>11</sup> km<sup>2</sup><br/>(241.921 Yrths)
         volume: 4.076 × 10<sup>15</sup> km<sup>3</sup><br/>(3762.798 Yrths)
-        mass: 9.099 × 10<sup>27</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 9.099 × 10<sup>27</sup> kg<br />(1523.627 Yrths)
         density: 2.232 g/cm<sup>3</sup>
         surface_gravity: 61.763 m/s<sup>2</sup><br />(6.298 g<sub>0</sub>)
         escape_velocity: 110.712 km/s<br />(398,563 km/h)
         rotation_period: 52.847 d
         axial_tilt: 23.65°
         albedo: 0.30
-        temperature: 269 K<br />(-4 °C)
-      - name: κ Lasraiad I i
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I j
         type: Icy
         formationType: Accreted
         aphelion: 826,912,925 km<br />
@@ -212,15 +232,15 @@ planets:
         radius: 197,955.7 km<br/>(31.071 Yrths)
         surface_area: 4.924 × 10<sup>11</sup> km<sup>2</sup><br/>(965.430 Yrths)
         volume: 3.249 × 10<sup>16</sup> km<sup>3</sup><br/>(29997.218 Yrths)
-        mass: 2.275 × 10<sup>28</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 2.275 × 10<sup>28</sup> kg<br />(3808.646 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 38.687 m/s<sup>2</sup><br />(3.945 g<sub>0</sub>)
         escape_velocity: 123.845 km/s<br />(445,843 km/h)
         rotation_period: 75.177 d
         axial_tilt: 15.34°
         albedo: 0.30
-        temperature: 257 K<br />(-17 °C)
-      - name: κ Lasraiad I j
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I k
         type: Icy
         formationType: Accreted
         aphelion: 1,101,551,458 km<br />
@@ -232,15 +252,15 @@ planets:
         radius: 128,943.4 km<br/>(20.239 Yrths)
         surface_area: 2.089 × 10<sup>11</sup> km<sup>2</sup><br/>(409.622 Yrths)
         volume: 8.980 × 10<sup>15</sup> km<sup>3</sup><br/>(8290.385 Yrths)
-        mass: 1.396 × 10<sup>28</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 1.396 × 10<sup>28</sup> kg<br />(2338.258 Yrths)
         density: 1.555 g/cm<sup>3</sup>
         surface_gravity: 55.980 m/s<sup>2</sup><br />(5.708 g<sub>0</sub>)
         escape_velocity: 120.233 km/s<br />(432,840 km/h)
         rotation_period: 43.276 d
         axial_tilt: 24.74°
         albedo: 0.30
-        temperature: 222 K<br />(-51 °C)
-      - name: κ Lasraiad I k
+        temperature: 304 K<br />(31 °C)
+      - name: κ Lasraiad I l
         type: Asteroid
         formationType: Captured
         aphelion: 1,830,956,462 km<br />
@@ -252,14 +272,14 @@ planets:
         radius: 109,651.9 km<br/>(17.211 Yrths)
         surface_area: 1.511 × 10<sup>11</sup> km<sup>2</sup><br/>(296.222 Yrths)
         volume: 5.523 × 10<sup>15</sup> km<sup>3</sup><br/>(5098.302 Yrths)
-        mass: 9.391 × 10<sup>27</sup> kg<br />(164.6447258893281 Yrths)
+        mass: 9.391 × 10<sup>27</sup> kg<br />(1572.506 Yrths)
         density: 1.700 g/cm<sup>3</sup>
         surface_gravity: 52.059 m/s<sup>2</sup><br />(5.309 g<sub>0</sub>)
         escape_velocity: 106.922 km/s<br />(384,918 km/h)
         rotation_period: 47.231 d
         axial_tilt: 56.84°
         albedo: 0.30
-        temperature: 175 K<br />(-98 °C)
+        temperature: 304 K<br />(31 °C)
   - name: κ Lasraiad II
     type: Ice giant
     aphelion: 1,212,968,929 km<br />8.108 AU
@@ -271,14 +291,14 @@ planets:
     radius: 27,126.1 km<br/>(4.258 Yrths)
     surface_area: 9.247 × 10<sup>09</sup> km<sup>2</sup><br/>(18.128 Yrths)
     volume: 8.361 × 10<sup>13</sup> km<sup>3</sup><br/>(77.186 Yrths)
-    mass: 1.140 × 10<sup>26</sup> kg<br />(19.088731538351553 Yrths)
+    mass: 1.140 × 10<sup>26</sup> kg<br />(19.09 Yrths)
     density: 1.363 g/cm<sup>3</sup>
     surface_gravity: 10.326 m/s<sup>2</sup><br />(1.053 g<sub>0</sub>)
     escape_velocity: 23.685 km/s<br />(85,266 km/h)
     rotation_period: 0.388 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 412 K<br />(139 °C)
+    temperature: 384 K<br />(111 °C)
     composition:
       - 85.8547% hydrogen
       - 7.5017% helium
@@ -298,14 +318,14 @@ planets:
         radius: 23,163.5 km<br/>(3.636 Yrths)
         surface_area: 6.742 × 10<sup>09</sup> km<sup>2</sup><br/>(13.219 Yrths)
         volume: 5.206 × 10<sup>13</sup> km<sup>3</sup><br/>(48.060 Yrths)
-        mass: 5.035 × 10<sup>25</sup> kg<br />(19.088731538351553 Yrths)
+        mass: 5.035 × 10<sup>25</sup> kg<br />(8.430 Yrths)
         density: 0.967 g/cm<sup>3</sup>
         surface_gravity: 6.254 m/s<sup>2</sup><br />(0.638 g<sub>0</sub>)
         escape_velocity: 17.033 km/s<br />(61,320 km/h)
         rotation_period: 59.050 d
         axial_tilt: 15.17°
         albedo: 0.30
-        temperature: 1980 K<br />(1706 °C)
+        temperature: 210 K<br />(-63 °C)
       - name: κ Lasraiad II b
         type: Dwarf planet
         formationType: Accreted
@@ -318,14 +338,14 @@ planets:
         radius: 23,219.5 km<br/>(3.645 Yrths)
         surface_area: 6.775 × 10<sup>09</sup> km<sup>2</sup><br/>(13.283 Yrths)
         volume: 5.244 × 10<sup>13</sup> km<sup>3</sup><br/>(48.410 Yrths)
-        mass: 7.993 × 10<sup>25</sup> kg<br />(19.088731538351553 Yrths)
+        mass: 7.993 × 10<sup>25</sup> kg<br />(13.384 Yrths)
         density: 1.524 g/cm<sup>3</sup>
         surface_gravity: 9.881 m/s<sup>2</sup><br />(1.008 g<sub>0</sub>)
         escape_velocity: 21.436 km/s<br />(77,170 km/h)
         rotation_period: 78.969 d
         axial_tilt: 47.99°
         albedo: 0.30
-        temperature: 1887 K<br />(1614 °C)
+        temperature: 210 K<br />(-63 °C)
       - name: κ Lasraiad II c
         type: Icy
         formationType: Impact formed
@@ -338,14 +358,14 @@ planets:
         radius: 17,547.1 km<br/>(2.754 Yrths)
         surface_area: 3.869 × 10<sup>09</sup> km<sup>2</sup><br/>(7.586 Yrths)
         volume: 2.263 × 10<sup>13</sup> km<sup>3</sup><br/>(20.893 Yrths)
-        mass: 3.049 × 10<sup>25</sup> kg<br />(19.088731538351553 Yrths)
+        mass: 3.049 × 10<sup>25</sup> kg<br />(5.105 Yrths)
         density: 1.347 g/cm<sup>3</sup>
         surface_gravity: 6.600 m/s<sup>2</sup><br />(0.673 g<sub>0</sub>)
         escape_velocity: 15.229 km/s<br />(54,826 km/h)
         rotation_period: 67.645 d
         axial_tilt: 20.86°
         albedo: 0.30
-        temperature: 1716 K<br />(1443 °C)
+        temperature: 210 K<br />(-63 °C)
       - name: κ Lasraiad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -358,14 +378,14 @@ planets:
         radius: 16,350.8 km<br/>(2.566 Yrths)
         surface_area: 3.360 × 10<sup>09</sup> km<sup>2</sup><br/>(6.587 Yrths)
         volume: 1.831 × 10<sup>13</sup> km<sup>3</sup><br/>(16.904 Yrths)
-        mass: 3.489 × 10<sup>25</sup> kg<br />(19.088731538351553 Yrths)
+        mass: 3.489 × 10<sup>25</sup> kg<br />(5.842 Yrths)
         density: 1.905 g/cm<sup>3</sup>
         surface_gravity: 8.698 m/s<sup>2</sup><br />(0.887 g<sub>0</sub>)
         escape_velocity: 16.877 km/s<br />(60,757 km/h)
         rotation_period: 69.673 d
         axial_tilt: 12.92°
         albedo: 0.30
-        temperature: 1636 K<br />(1363 °C)
+        temperature: 210 K<br />(-63 °C)
       - name: κ Lasraiad II e
         type: Rocky
         formationType: Accreted
@@ -378,14 +398,14 @@ planets:
         radius: 26,081.3 km<br/>(4.094 Yrths)
         surface_area: 8.548 × 10<sup>09</sup> km<sup>2</sup><br/>(16.759 Yrths)
         volume: 7.432 × 10<sup>13</sup> km<sup>3</sup><br/>(68.607 Yrths)
-        mass: 2.282 × 10<sup>26</sup> kg<br />(19.088731538351553 Yrths)
+        mass: 2.282 × 10<sup>26</sup> kg<br />(38.208 Yrths)
         density: 3.070 g/cm<sup>3</sup>
         surface_gravity: 22.358 m/s<sup>2</sup><br />(2.280 g<sub>0</sub>)
         escape_velocity: 34.174 km/s<br />(123,025 km/h)
         rotation_period: 39.192 d
         axial_tilt: 19.39°
         albedo: 0.30
-        temperature: 1560 K<br />(1287 °C)
+        temperature: 210 K<br />(-63 °C)
       - name: κ Lasraiad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -398,14 +418,14 @@ planets:
         radius: 15,305.5 km<br/>(2.402 Yrths)
         surface_area: 2.944 × 10<sup>09</sup> km<sup>2</sup><br/>(5.771 Yrths)
         volume: 1.502 × 10<sup>13</sup> km<sup>3</sup><br/>(13.865 Yrths)
-        mass: 3.030 × 10<sup>25</sup> kg<br />(19.088731538351553 Yrths)
+        mass: 3.030 × 10<sup>25</sup> kg<br />(5.073 Yrths)
         density: 2.017 g/cm<sup>3</sup>
         surface_gravity: 8.620 m/s<sup>2</sup><br />(0.879 g<sub>0</sub>)
         escape_velocity: 16.255 km/s<br />(58,518 km/h)
         rotation_period: 42.884 d
         axial_tilt: 17.09°
         albedo: 0.30
-        temperature: 1487 K<br />(1214 °C)
+        temperature: 210 K<br />(-63 °C)
       - name: κ Lasraiad II g
         type: Ice/rock hybrid
         formationType: Captured
@@ -418,14 +438,14 @@ planets:
         radius: 16,070.4 km<br/>(2.522 Yrths)
         surface_area: 3.245 × 10<sup>09</sup> km<sup>2</sup><br/>(6.363 Yrths)
         volume: 1.738 × 10<sup>13</sup> km<sup>3</sup><br/>(16.049 Yrths)
-        mass: 3.866 × 10<sup>25</sup> kg<br />(19.088731538351553 Yrths)
+        mass: 3.866 × 10<sup>25</sup> kg<br />(6.474 Yrths)
         density: 2.224 g/cm<sup>3</sup>
         surface_gravity: 9.978 m/s<sup>2</sup><br />(1.017 g<sub>0</sub>)
         escape_velocity: 17.920 km/s<br />(64,512 km/h)
         rotation_period: 45.477 d
         axial_tilt: 19.88°
         albedo: 0.30
-        temperature: 1418 K<br />(1145 °C)
+        temperature: 210 K<br />(-63 °C)
       - name: κ Lasraiad II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -438,14 +458,14 @@ planets:
         radius: 15,257.4 km<br/>(2.395 Yrths)
         surface_area: 2.925 × 10<sup>09</sup> km<sup>2</sup><br/>(5.735 Yrths)
         volume: 1.488 × 10<sup>13</sup> km<sup>3</sup><br/>(13.735 Yrths)
-        mass: 2.836 × 10<sup>25</sup> kg<br />(19.088731538351553 Yrths)
+        mass: 2.836 × 10<sup>25</sup> kg<br />(4.749 Yrths)
         density: 1.906 g/cm<sup>3</sup>
         surface_gravity: 8.120 m/s<sup>2</sup><br />(0.828 g<sub>0</sub>)
         escape_velocity: 15.752 km/s<br />(56,706 km/h)
         rotation_period: 49.502 d
         axial_tilt: 9.39°
         albedo: 0.30
-        temperature: 1352 K<br />(1079 °C)
+        temperature: 210 K<br />(-63 °C)
       - name: κ Lasraiad II i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -458,14 +478,14 @@ planets:
         radius: 21,750.3 km<br/>(3.414 Yrths)
         surface_area: 5.945 × 10<sup>09</sup> km<sup>2</sup><br/>(11.655 Yrths)
         volume: 4.310 × 10<sup>13</sup> km<sup>3</sup><br/>(39.790 Yrths)
-        mass: 1.103 × 10<sup>26</sup> kg<br />(19.088731538351553 Yrths)
+        mass: 1.103 × 10<sup>26</sup> kg<br />(18.470 Yrths)
         density: 2.559 g/cm<sup>3</sup>
         surface_gravity: 15.541 m/s<sup>2</sup><br />(1.585 g<sub>0</sub>)
         escape_velocity: 26.019 km/s<br />(93,667 km/h)
         rotation_period: 36.638 d
         axial_tilt: 32.70°
         albedo: 0.30
-        temperature: 1289 K<br />(1016 °C)
+        temperature: 210 K<br />(-63 °C)
   - name: κ Lasraiad III
     type: Gas giant
     aphelion: 3,185,528,821 km<br />21.294 AU
@@ -477,7 +497,7 @@ planets:
     radius: 229.2 km<br/>(0.036 Yrths)
     surface_area: 6.601 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.043 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.820 × 10<sup>27</sup> kg<br />(304.68628659617156 Yrths)
+    mass: 1.820 × 10<sup>27</sup> kg<br />(304.69 Yrths)
     density: 36084857.889 g/cm<sup>3</sup>
     surface_gravity: 2308958.150 m/s<sup>2</sup><br />(235448.206 g<sub>0</sub>)
     escape_velocity: 1029.464 km/s<br />(3,706,069 km/h)
@@ -498,14 +518,14 @@ planets:
         radius: 141,483.4 km<br/>(22.207 Yrths)
         surface_area: 2.515 × 10<sup>11</sup> km<sup>2</sup><br/>(493.169 Yrths)
         volume: 1.186 × 10<sup>16</sup> km<sup>3</sup><br/>(10952.000 Yrths)
-        mass: 3.875 × 10<sup>28</sup> kg<br />(304.68628659617156 Yrths)
+        mass: 3.875 × 10<sup>28</sup> kg<br />(6489.422 Yrths)
         density: 3.267 g/cm<sup>3</sup>
         surface_gravity: 129.042 m/s<sup>2</sup><br />(13.159 g<sub>0</sub>)
         escape_velocity: 191.218 km/s<br />(688,384 km/h)
         rotation_period: 47.116 d
         axial_tilt: 11.23°
         albedo: 0.30
-        temperature: 442 K<br />(169 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: κ Lasraiad III b
         type: Icy
         formationType: Accreted
@@ -518,14 +538,14 @@ planets:
         radius: 264,104.7 km<br/>(41.454 Yrths)
         surface_area: 8.765 × 10<sup>11</sup> km<sup>2</sup><br/>(1718.450 Yrths)
         volume: 7.716 × 10<sup>16</sup> km<sup>3</sup><br/>(71236.981 Yrths)
-        mass: 5.402 × 10<sup>28</sup> kg<br />(304.68628659617156 Yrths)
+        mass: 5.402 × 10<sup>28</sup> kg<br />(9044.721 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 51.615 m/s<sup>2</sup><br />(5.263 g<sub>0</sub>)
         escape_velocity: 165.229 km/s<br />(594,826 km/h)
         rotation_period: 67.177 d
         axial_tilt: 22.64°
         albedo: 0.30
-        temperature: 227 K<br />(-47 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: κ Lasraiad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -538,14 +558,14 @@ planets:
         radius: 163,942.7 km<br/>(25.733 Yrths)
         surface_area: 3.377 × 10<sup>11</sup> km<sup>2</sup><br/>(662.169 Yrths)
         volume: 1.846 × 10<sup>16</sup> km<sup>3</sup><br/>(17039.361 Yrths)
-        mass: 3.748 × 10<sup>28</sup> kg<br />(304.68628659617156 Yrths)
+        mass: 3.748 × 10<sup>28</sup> kg<br />(6276.311 Yrths)
         density: 2.031 g/cm<sup>3</sup>
         surface_gravity: 92.951 m/s<sup>2</sup><br />(9.478 g<sub>0</sub>)
         escape_velocity: 174.696 km/s<br />(628,907 km/h)
         rotation_period: 35.498 d
         axial_tilt: 23.27°
         albedo: 0.30
-        temperature: 216 K<br />(-57 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: κ Lasraiad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -558,14 +578,14 @@ planets:
         radius: 158,476.2 km<br/>(24.875 Yrths)
         surface_area: 3.156 × 10<sup>11</sup> km<sup>2</sup><br/>(618.747 Yrths)
         volume: 1.667 × 10<sup>16</sup> km<sup>3</sup><br/>(15391.101 Yrths)
-        mass: 3.981 × 10<sup>28</sup> kg<br />(304.68628659617156 Yrths)
+        mass: 3.981 × 10<sup>28</sup> kg<br />(6665.528 Yrths)
         density: 2.388 g/cm<sup>3</sup>
         surface_gravity: 105.643 m/s<sup>2</sup><br />(10.773 g<sub>0</sub>)
         escape_velocity: 183.110 km/s<br />(659,197 km/h)
         rotation_period: 35.973 d
         axial_tilt: 21.10°
         albedo: 0.30
-        temperature: 206 K<br />(-67 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: κ Lasraiad III e
         type: Icy
         formationType: Captured
@@ -578,14 +598,14 @@ planets:
         radius: 196,303.2 km<br/>(30.812 Yrths)
         surface_area: 4.842 × 10<sup>11</sup> km<sup>2</sup><br/>(949.379 Yrths)
         volume: 3.169 × 10<sup>16</sup> km<sup>3</sup><br/>(29252.246 Yrths)
-        mass: 3.339 × 10<sup>28</sup> kg<br />(304.68628659617156 Yrths)
+        mass: 3.339 × 10<sup>28</sup> kg<br />(5591.574 Yrths)
         density: 1.054 g/cm<sup>3</sup>
         surface_gravity: 57.758 m/s<sup>2</sup><br />(5.890 g<sub>0</sub>)
         escape_velocity: 150.689 km/s<br />(542,480 km/h)
         rotation_period: 49.049 d
         axial_tilt: 18.60°
         albedo: 0.30
-        temperature: 170 K<br />(-103 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: κ Lasraiad III f
         type: Dwarf planet
         formationType: Accreted
@@ -598,14 +618,14 @@ planets:
         radius: 127,212.4 km<br/>(19.967 Yrths)
         surface_area: 2.034 × 10<sup>11</sup> km<sup>2</sup><br/>(398.697 Yrths)
         volume: 8.623 × 10<sup>15</sup> km<sup>3</sup><br/>(7960.954 Yrths)
-        mass: 2.253 × 10<sup>28</sup> kg<br />(304.68628659617156 Yrths)
+        mass: 2.253 × 10<sup>28</sup> kg<br />(3772.647 Yrths)
         density: 2.613 g/cm<sup>3</sup>
         surface_gravity: 92.795 m/s<sup>2</sup><br />(9.462 g<sub>0</sub>)
         escape_velocity: 153.757 km/s<br />(553,527 km/h)
         rotation_period: 40.525 d
         axial_tilt: 17.39°
         albedo: 0.30
-        temperature: 162 K<br />(-111 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: κ Lasraiad III g
         type: Asteroid
         formationType: Captured
@@ -618,14 +638,14 @@ planets:
         radius: 191,263.7 km<br/>(30.021 Yrths)
         surface_area: 4.597 × 10<sup>11</sup> km<sup>2</sup><br/>(901.260 Yrths)
         volume: 2.931 × 10<sup>16</sup> km<sup>3</sup><br/>(27056.721 Yrths)
-        mass: 3.810 × 10<sup>28</sup> kg<br />(304.68628659617156 Yrths)
+        mass: 3.810 × 10<sup>28</sup> kg<br />(6379.845 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 69.419 m/s<sup>2</sup><br />(7.079 g<sub>0</sub>)
         escape_velocity: 163.067 km/s<br />(587,042 km/h)
         rotation_period: 54.237 d
         axial_tilt: 48.21°
         albedo: 0.30
-        temperature: 155 K<br />(-118 °C)
+        temperature: 146 K<br />(-128 °C)
       - name: κ Lasraiad III h
         type: Ice/rock hybrid
         formationType: Captured
@@ -638,14 +658,14 @@ planets:
         radius: 196,671.8 km<br/>(30.870 Yrths)
         surface_area: 4.861 × 10<sup>11</sup> km<sup>2</sup><br/>(952.947 Yrths)
         volume: 3.187 × 10<sup>16</sup> km<sup>3</sup><br/>(29417.337 Yrths)
-        mass: 6.942 × 10<sup>28</sup> kg<br />(304.68628659617156 Yrths)
+        mass: 6.942 × 10<sup>28</sup> kg<br />(11623.776 Yrths)
         density: 2.178 g/cm<sup>3</sup>
         surface_gravity: 119.619 m/s<sup>2</sup><br />(12.198 g<sub>0</sub>)
         escape_velocity: 217.060 km/s<br />(781,417 km/h)
         rotation_period: 34.353 d
         axial_tilt: 27.05°
         albedo: 0.30
-        temperature: 148 K<br />(-126 °C)
+        temperature: 146 K<br />(-128 °C)
   - name: κ Lasraiad IV
     type: Ice giant
     aphelion: 5,815,822,844 km<br />38.876 AU
@@ -657,14 +677,14 @@ planets:
     radius: 22,579.4 km<br/>(3.544 Yrths)
     surface_area: 6.407 × 10<sup>09</sup> km<sup>2</sup><br/>(12.561 Yrths)
     volume: 4.822 × 10<sup>13</sup> km<sup>3</sup><br/>(44.516 Yrths)
-    mass: 7.381 × 10<sup>25</sup> kg<br />(12.359924366371189 Yrths)
+    mass: 7.381 × 10<sup>25</sup> kg<br />(12.36 Yrths)
     density: 1.531 g/cm<sup>3</sup>
     surface_gravity: 9.650 m/s<sup>2</sup><br />(0.984 g<sub>0</sub>)
     escape_velocity: 20.890 km/s<br />(75,202 km/h)
     rotation_period: 0.356 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 192 K<br />(-82 °C)
+    temperature: 174 K<br />(-99 °C)
     composition:
       - 81.1075% hydrogen
       - 15.6430% helium
@@ -684,14 +704,14 @@ planets:
         radius: 17,387.1 km<br/>(2.729 Yrths)
         surface_area: 3.799 × 10<sup>09</sup> km<sup>2</sup><br/>(7.448 Yrths)
         volume: 2.202 × 10<sup>13</sup> km<sup>3</sup><br/>(20.326 Yrths)
-        mass: 2.709 × 10<sup>25</sup> kg<br />(12.359924366371189 Yrths)
+        mass: 2.709 × 10<sup>25</sup> kg<br />(4.536 Yrths)
         density: 1.230 g/cm<sup>3</sup>
         surface_gravity: 5.973 m/s<sup>2</sup><br />(0.609 g<sub>0</sub>)
         escape_velocity: 14.422 km/s<br />(51,919 km/h)
         rotation_period: 55.413 d
         axial_tilt: 14.23°
         albedo: 0.30
-        temperature: 970 K<br />(696 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: κ Lasraiad IV b
         type: Icy
         formationType: Captured
@@ -704,14 +724,14 @@ planets:
         radius: 32,714.9 km<br/>(5.135 Yrths)
         surface_area: 1.345 × 10<sup>10</sup> km<sup>2</sup><br/>(26.368 Yrths)
         volume: 1.467 × 10<sup>14</sup> km<sup>3</sup><br/>(135.399 Yrths)
-        mass: 1.249 × 10<sup>26</sup> kg<br />(12.359924366371189 Yrths)
+        mass: 1.249 × 10<sup>26</sup> kg<br />(20.909 Yrths)
         density: 0.851 g/cm<sup>3</sup>
         surface_gravity: 7.777 m/s<sup>2</sup><br />(0.793 g<sub>0</sub>)
         escape_velocity: 22.572 km/s<br />(81,260 km/h)
         rotation_period: 106.866 d
         axial_tilt: 10.33°
         albedo: 0.30
-        temperature: 881 K<br />(608 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: κ Lasraiad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -724,14 +744,14 @@ planets:
         radius: 21,093.1 km<br/>(3.311 Yrths)
         surface_area: 5.591 × 10<sup>09</sup> km<sup>2</sup><br/>(10.961 Yrths)
         volume: 3.931 × 10<sup>13</sup> km<sup>3</sup><br/>(36.291 Yrths)
-        mass: 7.311 × 10<sup>25</sup> kg<br />(12.359924366371189 Yrths)
+        mass: 7.311 × 10<sup>25</sup> kg<br />(12.242 Yrths)
         density: 1.860 g/cm<sup>3</sup>
         surface_gravity: 10.952 m/s<sup>2</sup><br />(1.117 g<sub>0</sub>)
         escape_velocity: 21.510 km/s<br />(77,435 km/h)
         rotation_period: 39.218 d
         axial_tilt: 32.60°
         albedo: 0.30
-        temperature: 840 K<br />(567 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: κ Lasraiad IV d
         type: Icy
         formationType: Accreted
@@ -744,14 +764,14 @@ planets:
         radius: 17,762.2 km<br/>(2.788 Yrths)
         surface_area: 3.965 × 10<sup>09</sup> km<sup>2</sup><br/>(7.773 Yrths)
         volume: 2.347 × 10<sup>13</sup> km<sup>3</sup><br/>(21.670 Yrths)
-        mass: 3.277 × 10<sup>25</sup> kg<br />(12.359924366371189 Yrths)
+        mass: 3.277 × 10<sup>25</sup> kg<br />(5.487 Yrths)
         density: 1.396 g/cm<sup>3</sup>
         surface_gravity: 6.922 m/s<sup>2</sup><br />(0.706 g<sub>0</sub>)
         escape_velocity: 15.692 km/s<br />(56,492 km/h)
         rotation_period: 81.514 d
         axial_tilt: 26.24°
         albedo: 0.30
-        temperature: 801 K<br />(528 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: κ Lasraiad IV e
         type: Icy
         formationType: Captured
@@ -764,14 +784,14 @@ planets:
         radius: 25,478.4 km<br/>(3.999 Yrths)
         surface_area: 8.157 × 10<sup>09</sup> km<sup>2</sup><br/>(15.993 Yrths)
         volume: 6.928 × 10<sup>13</sup> km<sup>3</sup><br/>(63.958 Yrths)
-        mass: 6.471 × 10<sup>25</sup> kg<br />(12.359924366371189 Yrths)
+        mass: 6.471 × 10<sup>25</sup> kg<br />(10.835 Yrths)
         density: 0.934 g/cm<sup>3</sup>
         surface_gravity: 6.644 m/s<sup>2</sup><br />(0.677 g<sub>0</sub>)
         escape_velocity: 18.412 km/s<br />(66,285 km/h)
         rotation_period: 53.729 d
         axial_tilt: 19.44°
         albedo: 0.30
-        temperature: 764 K<br />(491 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: κ Lasraiad IV f
         type: Ice/rock hybrid
         formationType: Captured
@@ -784,14 +804,14 @@ planets:
         radius: 16,753.1 km<br/>(2.630 Yrths)
         surface_area: 3.527 × 10<sup>09</sup> km<sup>2</sup><br/>(6.915 Yrths)
         volume: 1.970 × 10<sup>13</sup> km<sup>3</sup><br/>(18.183 Yrths)
-        mass: 3.967 × 10<sup>25</sup> kg<br />(12.359924366371189 Yrths)
+        mass: 3.967 × 10<sup>25</sup> kg<br />(6.642 Yrths)
         density: 2.014 g/cm<sup>3</sup>
         surface_gravity: 9.420 m/s<sup>2</sup><br />(0.961 g<sub>0</sub>)
         escape_velocity: 17.778 km/s<br />(64,002 km/h)
         rotation_period: 60.986 d
         axial_tilt: 11.47°
         albedo: 0.30
-        temperature: 695 K<br />(421 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: κ Lasraiad IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -804,14 +824,14 @@ planets:
         radius: 24,262.2 km<br/>(3.808 Yrths)
         surface_area: 7.397 × 10<sup>09</sup> km<sup>2</sup><br/>(14.503 Yrths)
         volume: 5.982 × 10<sup>13</sup> km<sup>3</sup><br/>(55.229 Yrths)
-        mass: 1.343 × 10<sup>26</sup> kg<br />(12.359924366371189 Yrths)
+        mass: 1.343 × 10<sup>26</sup> kg<br />(22.490 Yrths)
         density: 2.245 g/cm<sup>3</sup>
         surface_gravity: 15.208 m/s<sup>2</sup><br />(1.551 g<sub>0</sub>)
         escape_velocity: 27.183 km/s<br />(97,860 km/h)
         rotation_period: 36.842 d
         axial_tilt: 21.31°
         albedo: 0.30
-        temperature: 662 K<br />(389 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: κ Lasraiad IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -824,14 +844,14 @@ planets:
         radius: 18,109.1 km<br/>(2.842 Yrths)
         surface_area: 4.121 × 10<sup>09</sup> km<sup>2</sup><br/>(8.079 Yrths)
         volume: 2.488 × 10<sup>13</sup> km<sup>3</sup><br/>(22.965 Yrths)
-        mass: 3.980 × 10<sup>25</sup> kg<br />(12.359924366371189 Yrths)
+        mass: 3.980 × 10<sup>25</sup> kg<br />(6.665 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 8.089 m/s<sup>2</sup><br />(0.825 g<sub>0</sub>)
         escape_velocity: 17.128 km/s<br />(61,663 km/h)
         rotation_period: 72.647 d
         axial_tilt: 27.87°
         albedo: 0.30
-        temperature: 631 K<br />(358 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: κ Lasraiad IV i
         type: Ice/rock hybrid
         formationType: Captured
@@ -844,12 +864,12 @@ planets:
         radius: 11,534.3 km<br/>(1.810 Yrths)
         surface_area: 1.672 × 10<sup>09</sup> km<sup>2</sup><br/>(3.278 Yrths)
         volume: 6.428 × 10<sup>12</sup> km<sup>3</sup><br/>(5.934 Yrths)
-        mass: 1.351 × 10<sup>25</sup> kg<br />(12.359924366371189 Yrths)
+        mass: 1.351 × 10<sup>25</sup> kg<br />(2.263 Yrths)
         density: 2.102 g/cm<sup>3</sup>
         surface_gravity: 6.771 m/s<sup>2</sup><br />(0.690 g<sub>0</sub>)
         escape_velocity: 12.506 km/s<br />(45,022 km/h)
         rotation_period: 37.749 d
         axial_tilt: 13.35°
         albedo: 0.30
-        temperature: 602 K<br />(329 °C)
+        temperature: 101 K<br />(-172 °C)
 ---

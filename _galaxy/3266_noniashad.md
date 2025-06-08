@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3266 Noniashad is a star in the constellation Nonias
+      3266 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 402.87 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 5.17

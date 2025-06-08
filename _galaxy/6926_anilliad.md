@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6926 Anilliad is a star in the constellation Anil
+      6926 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 444.52 ly
 apparent_magnitude: 10.59
 absolute_magnitude: 4.92

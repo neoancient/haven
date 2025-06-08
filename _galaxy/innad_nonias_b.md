@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Innad Nonias B is a star in the constellation Inna
+      Innad Nonias B is a star in the constellation <a href="inna.html">Inna</a>
 distance: 781.76 ly
 apparent_magnitude: 7.16
 absolute_magnitude: 0.27

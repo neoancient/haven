@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0012 Derriathiad B is a star in the constellation Derriath
+      0012 Derriathiad B is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 219.22 ly
 apparent_magnitude: 6.64
 absolute_magnitude: 2.50

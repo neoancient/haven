@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      514 Lunaiad is a star in the constellation Luna
+      514 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 813.02 ly
 apparent_magnitude: 11.62
 absolute_magnitude: 4.64

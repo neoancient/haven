@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7318 Narashiad A is a star in the constellation Naras
+      7318 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 653.38 ly
 apparent_magnitude: 7.66
 absolute_magnitude: 1.15

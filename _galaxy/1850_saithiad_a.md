@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1850 Saithiad A is a star in the constellation Saith
+      1850 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 937.79 ly
 apparent_magnitude: 6.83
 absolute_magnitude: -0.46

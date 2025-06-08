@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1652 Lulithannaid A is a star in the constellation Lulithan
+      1652 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 399.57 ly
 apparent_magnitude: 9.14
 absolute_magnitude: 3.70

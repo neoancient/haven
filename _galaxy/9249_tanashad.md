@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9249 Tanashad is a star in the constellation Tanas
+      9249 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 309.19 ly
 apparent_magnitude: 9.44
 absolute_magnitude: 4.56

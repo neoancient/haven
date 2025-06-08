@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5784 Geardiad A is a star in the constellation Geard
+      5784 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 579.51 ly
 apparent_magnitude: 7.93
 absolute_magnitude: 1.68

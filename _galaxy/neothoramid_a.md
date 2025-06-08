@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Neothoramid A is a star in the constellation Shy
+      Neothoramid A is a star in the constellation <a href="shy.html">Shy</a>
 distance: 1359.37 ly
 apparent_magnitude: 1.82
 absolute_magnitude: -6.28

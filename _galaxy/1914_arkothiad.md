@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1914 Arkothiad is a star in the constellation Arkoth
+      1914 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 435.60 ly
 apparent_magnitude: 11.83
 absolute_magnitude: 6.20

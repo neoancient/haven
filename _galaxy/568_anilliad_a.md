@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      568 Anilliad A is a star in the constellation Anil
+      568 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 527.15 ly
 apparent_magnitude: 7.81
 absolute_magnitude: 1.77

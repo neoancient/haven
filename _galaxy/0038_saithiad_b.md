@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0038 Saithiad B is a star in the constellation Saith
+      0038 Saithiad B is a star in the constellation <a href="saith.html">Saith</a>
 distance: 171.66 ly
 apparent_magnitude: 9.67
 absolute_magnitude: 6.06

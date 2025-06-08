@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2562 Saithiad is a star in the constellation Saith
+      2562 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 283.64 ly
 apparent_magnitude: 11.53
 absolute_magnitude: 6.83

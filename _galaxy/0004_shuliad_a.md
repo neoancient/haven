@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0004 Shuliad A is a star in the constellation Shuli
+      0004 Shuliad A is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 903.28 ly
 apparent_magnitude: 4.89
 absolute_magnitude: -2.32

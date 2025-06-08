@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4524 Anilliad A is a star in the constellation Anil
+      4524 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 375.18 ly
 apparent_magnitude: 8.42
 absolute_magnitude: 3.11

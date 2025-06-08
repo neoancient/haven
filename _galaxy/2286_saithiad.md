@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2286 Saithiad is a star in the constellation Saith
+      2286 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1167.53 ly
 apparent_magnitude: 14.12
 absolute_magnitude: 6.35

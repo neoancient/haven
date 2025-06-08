@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1850 Keead is a star in the constellation Kee
+      1850 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 444.62 ly
 apparent_magnitude: 8.40
 absolute_magnitude: 2.72

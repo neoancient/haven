@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      823 Athiad is a star in the constellation Ath
+      823 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1393.90 ly
 apparent_magnitude: 12.83
 absolute_magnitude: 4.68

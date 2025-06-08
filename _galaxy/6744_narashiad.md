@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6744 Narashiad is a star in the constellation Naras
+      6744 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 754.29 ly
 apparent_magnitude: 8.40
 absolute_magnitude: 1.58

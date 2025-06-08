@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4853 Geardiad is a star in the constellation Geard
+      4853 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 241.91 ly
 apparent_magnitude: 9.13
 absolute_magnitude: 4.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4801 Athiad is a star in the constellation Ath
+      4801 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 606.54 ly
 apparent_magnitude: 11.65
 absolute_magnitude: 5.30

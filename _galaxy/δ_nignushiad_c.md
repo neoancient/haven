@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      δ Nignushiad C is a star in the constellation Nignus
+      δ Nignushiad C is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 391.59 ly
 apparent_magnitude: 10.12
 absolute_magnitude: 4.72
@@ -31,7 +31,7 @@ planets:
     radius: 151.6 km<br/>(0.024 Yrths)
     surface_area: 2.888 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.459 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.524 × 10<sup>26</sup> kg<br />(59.01520865439922 Yrths)
+    mass: 3.524 × 10<sup>26</sup> kg<br />(59.02 Yrths)
     density: 24150915.348 g/cm<sup>3</sup>
     surface_gravity: 1022175.511 m/s<sup>2</sup><br />(104232.894 g<sub>0</sub>)
     escape_velocity: 557.078 km/s<br />(2,005,481 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 63,947.4 km<br/>(10.037 Yrths)
         surface_area: 5.139 × 10<sup>10</sup> km<sup>2</sup><br/>(100.747 Yrths)
         volume: 1.095 × 10<sup>15</sup> km<sup>3</sup><br/>(1011.220 Yrths)
-        mass: 2.757 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 2.757 × 10<sup>27</sup> kg<br />(461.615 Yrths)
         density: 2.517 g/cm<sup>3</sup>
         surface_gravity: 44.933 m/s<sup>2</sup><br />(4.582 g<sub>0</sub>)
         escape_velocity: 75.859 km/s<br />(273,092 km/h)
         rotation_period: 46.828 d
         axial_tilt: 18.37°
         albedo: 0.30
-        temperature: 1573 K<br />(1300 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: δ Nignushiad C I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 57,550.0 km<br/>(9.033 Yrths)
         surface_area: 4.162 × 10<sup>10</sup> km<sup>2</sup><br/>(81.597 Yrths)
         volume: 7.984 × 10<sup>14</sup> km<sup>3</sup><br/>(737.079 Yrths)
-        mass: 2.012 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 2.012 × 10<sup>27</sup> kg<br />(336.962 Yrths)
         density: 2.520 g/cm<sup>3</sup>
         surface_gravity: 40.497 m/s<sup>2</sup><br />(4.130 g<sub>0</sub>)
         escape_velocity: 68.320 km/s<br />(245,950 km/h)
         rotation_period: 44.027 d
         axial_tilt: 32.60°
         albedo: 0.30
-        temperature: 1182 K<br />(909 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: δ Nignushiad C I c
         type: Icy
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 65,330.5 km<br/>(10.254 Yrths)
         surface_area: 5.363 × 10<sup>10</sup> km<sup>2</sup><br/>(105.152 Yrths)
         volume: 1.168 × 10<sup>15</sup> km<sup>3</sup><br/>(1078.263 Yrths)
-        mass: 1.331 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 1.331 × 10<sup>27</sup> kg<br />(222.809 Yrths)
         density: 1.139 g/cm<sup>3</sup>
         surface_gravity: 20.780 m/s<sup>2</sup><br />(2.119 g<sub>0</sub>)
         escape_velocity: 52.142 km/s<br />(187,711 km/h)
         rotation_period: 54.206 d
         axial_tilt: 22.60°
         albedo: 0.30
-        temperature: 700 K<br />(427 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: δ Nignushiad C I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 86,109.5 km<br/>(13.516 Yrths)
         surface_area: 9.318 × 10<sup>10</sup> km<sup>2</sup><br/>(182.678 Yrths)
         volume: 2.674 × 10<sup>15</sup> km<sup>3</sup><br/>(2469.050 Yrths)
-        mass: 2.212 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 2.212 × 10<sup>27</sup> kg<br />(370.476 Yrths)
         density: 0.827 g/cm<sup>3</sup>
         surface_gravity: 19.888 m/s<sup>2</sup><br />(2.028 g<sub>0</sub>)
         escape_velocity: 58.564 km/s<br />(210,831 km/h)
         rotation_period: 56.809 d
         axial_tilt: 19.38°
         albedo: 0.30
-        temperature: 377 K<br />(103 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: δ Nignushiad C I e
         type: Icy
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 61,232.2 km<br/>(9.611 Yrths)
         surface_area: 4.712 × 10<sup>10</sup> km<sup>2</sup><br/>(92.373 Yrths)
         volume: 9.617 × 10<sup>14</sup> km<sup>3</sup><br/>(887.802 Yrths)
-        mass: 1.245 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 1.245 × 10<sup>27</sup> kg<br />(208.514 Yrths)
         density: 1.295 g/cm<sup>3</sup>
         surface_gravity: 22.137 m/s<sup>2</sup><br />(2.257 g<sub>0</sub>)
         escape_velocity: 52.102 km/s<br />(187,568 km/h)
         rotation_period: 66.600 d
         axial_tilt: 24.81°
         albedo: 0.30
-        temperature: 326 K<br />(53 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: δ Nignushiad C I f
         type: Rocky
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 59,702.3 km<br/>(9.371 Yrths)
         surface_area: 4.479 × 10<sup>10</sup> km<sup>2</sup><br/>(87.815 Yrths)
         volume: 8.914 × 10<sup>14</sup> km<sup>3</sup><br/>(822.905 Yrths)
-        mass: 2.370 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 2.370 × 10<sup>27</sup> kg<br />(396.915 Yrths)
         density: 2.659 g/cm<sup>3</sup>
         surface_gravity: 44.325 m/s<sup>2</sup><br />(4.520 g<sub>0</sub>)
         escape_velocity: 72.800 km/s<br />(262,080 km/h)
         rotation_period: 33.540 d
         axial_tilt: 7.99°
         albedo: 0.30
-        temperature: 270 K<br />(-3 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: δ Nignushiad C I g
         type: Rocky
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 44,578.6 km<br/>(6.997 Yrths)
         surface_area: 2.497 × 10<sup>10</sup> km<sup>2</sup><br/>(48.960 Yrths)
         volume: 3.711 × 10<sup>14</sup> km<sup>3</sup><br/>(342.576 Yrths)
-        mass: 1.304 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 1.304 × 10<sup>27</sup> kg<br />(218.331 Yrths)
         density: 3.514 g/cm<sup>3</sup>
         surface_gravity: 43.732 m/s<sup>2</sup><br />(4.459 g<sub>0</sub>)
         escape_velocity: 62.485 km/s<br />(224,944 km/h)
         rotation_period: 44.434 d
         axial_tilt: 11.02°
         albedo: 0.30
-        temperature: 176 K<br />(-97 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: δ Nignushiad C I h
         type: Icy
         formationType: Captured
@@ -192,14 +192,14 @@ planets:
         radius: 67,442.4 km<br/>(10.586 Yrths)
         surface_area: 5.716 × 10<sup>10</sup> km<sup>2</sup><br/>(112.060 Yrths)
         volume: 1.285 × 10<sup>15</sup> km<sup>3</sup><br/>(1186.250 Yrths)
-        mass: 1.632 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 1.632 × 10<sup>27</sup> kg<br />(273.258 Yrths)
         density: 1.270 g/cm<sup>3</sup>
         surface_gravity: 23.913 m/s<sup>2</sup><br />(2.438 g<sub>0</sub>)
         escape_velocity: 56.833 km/s<br />(204,598 km/h)
         rotation_period: 59.088 d
         axial_tilt: 6.12°
         albedo: 0.30
-        temperature: 160 K<br />(-113 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: δ Nignushiad C I i
         type: Dwarf planet
         formationType: Impact formed
@@ -212,14 +212,14 @@ planets:
         radius: 57,400.5 km<br/>(9.010 Yrths)
         surface_area: 4.140 × 10<sup>10</sup> km<sup>2</sup><br/>(81.174 Yrths)
         volume: 7.922 × 10<sup>14</sup> km<sup>3</sup><br/>(731.347 Yrths)
-        mass: 1.443 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 1.443 × 10<sup>27</sup> kg<br />(241.580 Yrths)
         density: 1.821 g/cm<sup>3</sup>
         surface_gravity: 29.185 m/s<sup>2</sup><br />(2.976 g<sub>0</sub>)
         escape_velocity: 57.923 km/s<br />(208,522 km/h)
         rotation_period: 51.239 d
         axial_tilt: 15.72°
         albedo: 0.30
-        temperature: 126 K<br />(-147 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: δ Nignushiad C I j
         type: Ice/rock hybrid
         formationType: Captured
@@ -232,14 +232,14 @@ planets:
         radius: 60,219.3 km<br/>(9.452 Yrths)
         surface_area: 4.557 × 10<sup>10</sup> km<sup>2</sup><br/>(89.342 Yrths)
         volume: 9.147 × 10<sup>14</sup> km<sup>3</sup><br/>(844.469 Yrths)
-        mass: 1.801 × 10<sup>27</sup> kg<br />(59.01520865439922 Yrths)
+        mass: 1.801 × 10<sup>27</sup> kg<br />(301.539 Yrths)
         density: 1.969 g/cm<sup>3</sup>
         surface_gravity: 33.099 m/s<sup>2</sup><br />(3.375 g<sub>0</sub>)
         escape_velocity: 63.180 km/s<br />(227,449 km/h)
         rotation_period: 43.200 d
         axial_tilt: 19.22°
         albedo: 0.30
-        temperature: 86 K<br />(-187 °C)
+        temperature: 245 K<br />(-28 °C)
   - name: δ Nignushiad C II
     type: Terrestrial
     aphelion: 337,565,992 km<br />2.256 AU
@@ -251,7 +251,7 @@ planets:
     radius: 2,983.6 km<br/>(0.468 Yrths)
     surface_area: 1.119 × 10<sup>08</sup> km<sup>2</sup><br/>(0.219 Yrths)
     volume: 1.113 × 10<sup>11</sup> km<sup>3</sup><br/>(0.103 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.368 g/cm<sup>3</sup>
     surface_gravity: 4.472 m/s<sup>2</sup><br />(0.456 g<sub>0</sub>)
     escape_velocity: 5.169 km/s<br />(18,608 km/h)
@@ -272,14 +272,14 @@ planets:
         radius: 848.4 km<br/>(0.133 Yrths)
         surface_area: 9.046 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.558 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.089 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.089 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.207 g/cm<sup>3</sup>
         surface_gravity: 0.286 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.697 km/s<br />(2,510 km/h)
         rotation_period: 51.525 d
         axial_tilt: 9.36°
         albedo: 0.30
-        temperature: 3911 K<br />(3638 °C)
+        temperature: 182 K<br />(-91 °C)
   - name: δ Nignushiad C III
     type: Gas dwarf
     aphelion: 595,043,592 km<br />3.978 AU
@@ -291,14 +291,14 @@ planets:
     radius: 16,455.1 km<br/>(2.583 Yrths)
     surface_area: 3.403 × 10<sup>09</sup> km<sup>2</sup><br/>(6.671 Yrths)
     volume: 1.866 × 10<sup>13</sup> km<sup>3</sup><br/>(17.230 Yrths)
-    mass: 4.137 × 10<sup>25</sup> kg<br />(6.927356618454264 Yrths)
+    mass: 4.137 × 10<sup>25</sup> kg<br />(6.93 Yrths)
     density: 2.217 g/cm<sup>3</sup>
     surface_gravity: 10.184 m/s<sup>2</sup><br />(1.038 g<sub>0</sub>)
     escape_velocity: 18.319 km/s<br />(65,950 km/h)
     rotation_period: 0.506 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 194 K<br />(-79 °C)
+    temperature: 171 K<br />(-102 °C)
     composition:
       - 90.2470% hydrogen
       - 8.9298% helium
@@ -317,14 +317,14 @@ planets:
         radius: 12,205.0 km<br/>(1.916 Yrths)
         surface_area: 1.872 × 10<sup>09</sup> km<sup>2</sup><br/>(3.670 Yrths)
         volume: 7.616 × 10<sup>12</sup> km<sup>3</sup><br/>(7.031 Yrths)
-        mass: 1.289 × 10<sup>25</sup> kg<br />(6.927356618454264 Yrths)
+        mass: 1.289 × 10<sup>25</sup> kg<br />(2.159 Yrths)
         density: 1.693 g/cm<sup>3</sup>
         surface_gravity: 5.768 m/s<sup>2</sup><br />(0.588 g<sub>0</sub>)
         escape_velocity: 11.874 km/s<br />(42,746 km/h)
         rotation_period: 55.165 d
         axial_tilt: 19.45°
         albedo: 0.30
-        temperature: 1436 K<br />(1163 °C)
+        temperature: 136 K<br />(-138 °C)
       - name: δ Nignushiad C III b
         type: Icy
         formationType: Accreted
@@ -337,14 +337,14 @@ planets:
         radius: 10,374.7 km<br/>(1.628 Yrths)
         surface_area: 1.353 × 10<sup>09</sup> km<sup>2</sup><br/>(2.652 Yrths)
         volume: 4.678 × 10<sup>12</sup> km<sup>3</sup><br/>(4.318 Yrths)
-        mass: 6.456 × 10<sup>24</sup> kg<br />(6.927356618454264 Yrths)
+        mass: 6.456 × 10<sup>24</sup> kg<br />(1.081 Yrths)
         density: 1.380 g/cm<sup>3</sup>
         surface_gravity: 3.998 m/s<sup>2</sup><br />(0.408 g<sub>0</sub>)
         escape_velocity: 9.114 km/s<br />(32,810 km/h)
         rotation_period: 68.831 d
         axial_tilt: 24.49°
         albedo: 0.30
-        temperature: 1370 K<br />(1096 °C)
+        temperature: 136 K<br />(-138 °C)
       - name: δ Nignushiad C III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -357,14 +357,14 @@ planets:
         radius: 15,898.0 km<br/>(2.495 Yrths)
         surface_area: 3.176 × 10<sup>09</sup> km<sup>2</sup><br/>(6.227 Yrths)
         volume: 1.683 × 10<sup>13</sup> km<sup>3</sup><br/>(15.538 Yrths)
-        mass: 3.727 × 10<sup>25</sup> kg<br />(6.927356618454264 Yrths)
+        mass: 3.727 × 10<sup>25</sup> kg<br />(6.240 Yrths)
         density: 2.214 g/cm<sup>3</sup>
         surface_gravity: 9.828 m/s<sup>2</sup><br />(1.002 g<sub>0</sub>)
         escape_velocity: 17.689 km/s<br />(63,680 km/h)
         rotation_period: 52.273 d
         axial_tilt: 8.08°
         albedo: 0.30
-        temperature: 1306 K<br />(1033 °C)
+        temperature: 136 K<br />(-138 °C)
       - name: δ Nignushiad C III d
         type: Icy
         formationType: Impact formed
@@ -377,14 +377,14 @@ planets:
         radius: 4,867.9 km<br/>(0.764 Yrths)
         surface_area: 2.978 × 10<sup>08</sup> km<sup>2</sup><br/>(0.584 Yrths)
         volume: 4.832 × 10<sup>11</sup> km<sup>3</sup><br/>(0.446 Yrths)
-        mass: 5.533 × 10<sup>23</sup> kg<br />(6.927356618454264 Yrths)
+        mass: 5.533 × 10<sup>23</sup> kg<br />(0.093 Yrths)
         density: 1.145 g/cm<sup>3</sup>
         surface_gravity: 1.556 m/s<sup>2</sup><br />(0.159 g<sub>0</sub>)
         escape_velocity: 3.895 km/s<br />(14,023 km/h)
         rotation_period: 46.402 d
         axial_tilt: 10.48°
         albedo: 0.30
-        temperature: 1245 K<br />(972 °C)
+        temperature: 136 K<br />(-138 °C)
   - name: δ Nignushiad C IV
     type: Gas giant
     aphelion: 1,117,969,137 km<br />7.473 AU
@@ -396,7 +396,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.625 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -417,14 +417,14 @@ planets:
         radius: 1,189.2 km<br/>(0.187 Yrths)
         surface_area: 1.777 × 10<sup>07</sup> km<sup>2</sup><br/>(0.035 Yrths)
         volume: 7.044 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 7.043 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.043 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.000 g/cm<sup>3</sup>
         surface_gravity: 0.332 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.889 km/s<br />(3,201 km/h)
         rotation_period: 57.898 d
         axial_tilt: 16.10°
         albedo: 0.30
-        temperature: 1877 K<br />(1604 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: δ Nignushiad C IV b
         type: Icy
         formationType: Accreted
@@ -437,14 +437,14 @@ planets:
         radius: 868.5 km<br/>(0.136 Yrths)
         surface_area: 9.478 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.744 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.145 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.145 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.146 g/cm<sup>3</sup>
         surface_gravity: 0.278 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.695 km/s<br />(2,503 km/h)
         rotation_period: 69.319 d
         axial_tilt: 16.72°
         albedo: 0.30
-        temperature: 1344 K<br />(1071 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: δ Nignushiad C IV c
         type: Icy
         formationType: Accreted
@@ -457,14 +457,14 @@ planets:
         radius: 1,026.2 km<br/>(0.161 Yrths)
         surface_area: 1.323 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.527 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.959 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.959 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.095 g/cm<sup>3</sup>
         surface_gravity: 0.314 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.803 km/s<br />(2,891 km/h)
         rotation_period: 63.470 d
         axial_tilt: 6.97°
         albedo: 0.30
-        temperature: 918 K<br />(645 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: δ Nignushiad C IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -477,14 +477,14 @@ planets:
         radius: 793.6 km<br/>(0.125 Yrths)
         surface_area: 7.914 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.094 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.720 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.720 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.777 g/cm<sup>3</sup>
         surface_gravity: 0.394 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.791 km/s<br />(2,848 km/h)
         rotation_period: 60.741 d
         axial_tilt: 18.25°
         albedo: 0.30
-        temperature: 796 K<br />(523 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: δ Nignushiad C IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -497,14 +497,14 @@ planets:
         radius: 844.3 km<br/>(0.133 Yrths)
         surface_area: 8.957 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.521 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.253 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.253 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.084 g/cm<sup>3</sup>
         surface_gravity: 0.491 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
         escape_velocity: 0.911 km/s<br />(3,281 km/h)
         rotation_period: 46.914 d
         axial_tilt: 18.56°
         albedo: 0.30
-        temperature: 658 K<br />(385 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: δ Nignushiad C IV f
         type: Icy
         formationType: Impact formed
@@ -517,14 +517,14 @@ planets:
         radius: 1,051.3 km<br/>(0.165 Yrths)
         surface_area: 1.389 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.867 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.323 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.323 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.888 g/cm<sup>3</sup>
         surface_gravity: 0.261 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.741 km/s<br />(2,667 km/h)
         rotation_period: 76.792 d
         axial_tilt: 20.29°
         albedo: 0.30
-        temperature: 544 K<br />(270 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: δ Nignushiad C IV g
         type: Icy
         formationType: Accreted
@@ -537,14 +537,14 @@ planets:
         radius: 970.8 km<br/>(0.152 Yrths)
         surface_area: 1.184 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.832 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.779 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.779 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.247 g/cm<sup>3</sup>
         surface_gravity: 0.338 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.811 km/s<br />(2,918 km/h)
         rotation_period: 67.904 d
         axial_tilt: 11.34°
         albedo: 0.30
-        temperature: 428 K<br />(155 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: δ Nignushiad C IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -557,14 +557,14 @@ planets:
         radius: 664.2 km<br/>(0.104 Yrths)
         surface_area: 5.543 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.227 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.073 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.073 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.504 g/cm<sup>3</sup>
         surface_gravity: 0.464 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 0.786 km/s<br />(2,829 km/h)
         rotation_period: 44.618 d
         axial_tilt: 30.70°
         albedo: 0.30
-        temperature: 371 K<br />(98 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: δ Nignushiad C IV i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -577,12 +577,12 @@ planets:
         radius: 860.5 km<br/>(0.135 Yrths)
         surface_area: 9.306 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.669 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 6.076 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.076 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 0.547 m/s<sup>2</sup><br />(0.056 g<sub>0</sub>)
         escape_velocity: 0.971 km/s<br />(3,495 km/h)
         rotation_period: 54.946 d
         axial_tilt: 24.42°
         albedo: 0.30
-        temperature: 173 K<br />(-100 °C)
+        temperature: 101 K<br />(-172 °C)
 ---

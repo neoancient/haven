@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      914 Saithiad is a star in the constellation Saith
+      914 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 361.80 ly
 apparent_magnitude: 12.06
 absolute_magnitude: 6.83

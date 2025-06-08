@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1420 Keead is a star in the constellation Kee
+      1420 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 449.79 ly
 apparent_magnitude: 10.43
 absolute_magnitude: 4.73

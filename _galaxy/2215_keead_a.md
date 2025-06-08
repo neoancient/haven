@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2215 Keead A is a star in the constellation Kee
+      2215 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 700.57 ly
 apparent_magnitude: 6.79
 absolute_magnitude: 0.13

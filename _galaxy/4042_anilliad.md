@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4042 Anilliad is a star in the constellation Anil
+      4042 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 668.14 ly
 apparent_magnitude: 14.41
 absolute_magnitude: 7.85

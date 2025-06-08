@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3337 Lunaiad is a star in the constellation Luna
+      3337 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 300.14 ly
 apparent_magnitude: 11.88
 absolute_magnitude: 7.06

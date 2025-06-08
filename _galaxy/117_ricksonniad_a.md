@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      117 Ricksonniad A is a star in the constellation Rickson
+      117 Ricksonniad A is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 541.65 ly
 apparent_magnitude: 6.61
 absolute_magnitude: 0.51

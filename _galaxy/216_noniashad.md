@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      216 Noniashad is a star in the constellation Nonias
+      216 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 281.53 ly
 apparent_magnitude: 17.51
 absolute_magnitude: 12.83

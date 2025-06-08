@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0103 Irsaiad B is a star in the constellation Irsa
+      0103 Irsaiad B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 122.94 ly
 apparent_magnitude: 7.68
 absolute_magnitude: 4.80

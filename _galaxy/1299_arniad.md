@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1299 Arniad is a star in the constellation Arni
+      1299 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1049.96 ly
 apparent_magnitude: 17.04
 absolute_magnitude: 9.50

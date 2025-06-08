@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3456 Shanniashiad is a star in the constellation Shannias
+      3456 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 259.90 ly
 apparent_magnitude: 10.18
 absolute_magnitude: 5.67

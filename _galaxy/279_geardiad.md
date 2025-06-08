@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      279 Geardiad is a star in the constellation Geard
+      279 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1046.25 ly
 apparent_magnitude: 15.33
 absolute_magnitude: 7.80

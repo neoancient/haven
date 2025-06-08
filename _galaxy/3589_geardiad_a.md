@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3589 Geardiad A is a star in the constellation Geard
+      3589 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 450.63 ly
 apparent_magnitude: 9.74
 absolute_magnitude: 4.03

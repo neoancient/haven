@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2638 Arkothiad A is a star in the constellation Arkoth
+      2638 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 391.67 ly
 apparent_magnitude: 11.65
 absolute_magnitude: 6.25

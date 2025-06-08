@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5338 Anilliad is a star in the constellation Anil
+      5338 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 1016.18 ly
 apparent_magnitude: 16.64
 absolute_magnitude: 9.18

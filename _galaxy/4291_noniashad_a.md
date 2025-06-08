@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4291 Noniashad A is a star in the constellation Nonias
+      4291 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 1155.00 ly
 apparent_magnitude: 8.40
 absolute_magnitude: 0.66

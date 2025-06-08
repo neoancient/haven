@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2546 Ratharshinniad is a star in the constellation Ratharshin
+      2546 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 624.75 ly
 apparent_magnitude: 12.14
 absolute_magnitude: 5.73

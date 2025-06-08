@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2563 Narashiad is a star in the constellation Naras
+      2563 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 944.32 ly
 apparent_magnitude: 16.48
 absolute_magnitude: 9.18

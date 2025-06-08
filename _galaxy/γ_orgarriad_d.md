@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      γ Orgarriad D is a star in the constellation Orgar
+      γ Orgarriad D is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 561.37 ly
 apparent_magnitude: 10.38
 absolute_magnitude: 4.20

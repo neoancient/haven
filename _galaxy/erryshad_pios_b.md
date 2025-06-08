@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      erryshad Pios B is a star in the constellation Ishgak
+      erryshad Pios B is a star in the constellation <a href="ishgak.html">Ishgak</a>
 distance: 2867.16 ly
 apparent_magnitude: 8.27
 absolute_magnitude: -1.45

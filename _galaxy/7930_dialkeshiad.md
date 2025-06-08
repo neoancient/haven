@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7930 Dialkeshiad is a star in the constellation Dialkes
+      7930 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 440.40 ly
 apparent_magnitude: 10.92
 absolute_magnitude: 5.27

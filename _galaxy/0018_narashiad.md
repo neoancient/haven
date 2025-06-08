@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0018 Narashiad is a star in the constellation Naras
+      0018 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 33.73 ly
 apparent_magnitude: 6.00
 absolute_magnitude: 5.93
@@ -31,14 +31,14 @@ planets:
     radius: 7,691.4 km<br/>(1.207 Yrths)
     surface_area: 7.434 × 10<sup>08</sup> km<sup>2</sup><br/>(1.457 Yrths)
     volume: 1.906 × 10<sup>12</sup> km<sup>3</sup><br/>(1.760 Yrths)
-    mass: 1.756 × 10<sup>25</sup> kg<br />(2.939707612316994 Yrths)
+    mass: 1.756 × 10<sup>25</sup> kg<br />(2.94 Yrths)
     density: 9.211 g/cm<sup>3</sup>
     surface_gravity: 19.780 m/s<sup>2</sup><br />(2.017 g<sub>0</sub>)
     escape_velocity: 17.455 km/s<br />(62,839 km/h)
     rotation_period: 1.227 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 520 K<br />(247 °C)
+    temperature: 1236 K<br />(963 °C)
     surface_pressure: 215 kPa<br />(2 atm)
     composition:
       - 70.0077% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 6,833.1 km<br/>(1.073 Yrths)
         surface_area: 5.867 × 10<sup>08</sup> km<sup>2</sup><br/>(1.150 Yrths)
         volume: 1.336 × 10<sup>12</sup> km<sup>3</sup><br/>(1.234 Yrths)
-        mass: 2.005 × 10<sup>24</sup> kg<br />(2.939707612316994 Yrths)
+        mass: 2.005 × 10<sup>24</sup> kg<br />(0.336 Yrths)
         density: 1.500 g/cm<sup>3</sup>
         surface_gravity: 2.861 m/s<sup>2</sup><br />(0.292 g<sub>0</sub>)
         escape_velocity: 6.258 km/s<br />(22,528 km/h)
         rotation_period: 64.153 d
         axial_tilt: 30.12°
         albedo: 0.30
-        temperature: 4768 K<br />(4495 °C)
+        temperature: 336 K<br />(63 °C)
       - name: 0018 Narashiad I b
         type: Rocky
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 1,183.9 km<br/>(0.186 Yrths)
         surface_area: 1.761 × 10<sup>07</sup> km<sup>2</sup><br/>(0.035 Yrths)
         volume: 6.952 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 2.241 × 10<sup>22</sup> kg<br />(2.939707612316994 Yrths)
+        mass: 2.241 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 3.224 g/cm<sup>3</sup>
         surface_gravity: 1.066 m/s<sup>2</sup><br />(0.109 g<sub>0</sub>)
         escape_velocity: 1.589 km/s<br />(5,722 km/h)
         rotation_period: 34.245 d
         axial_tilt: 16.67°
         albedo: 0.30
-        temperature: 4547 K<br />(4273 °C)
+        temperature: 336 K<br />(63 °C)
   - name: 0018 Narashiad II
     type: Gas giant
     aphelion: 93,315,833 km<br />0.624 AU
@@ -96,7 +96,7 @@ planets:
     radius: 160.6 km<br/>(0.025 Yrths)
     surface_area: 3.241 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.735 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.488 × 10<sup>26</sup> kg<br />(75.1490520043764 Yrths)
+    mass: 4.488 × 10<sup>26</sup> kg<br />(75.15 Yrths)
     density: 25864398.111 g/cm<sup>3</sup>
     surface_gravity: 1159732.547 m/s<sup>2</sup><br />(118259.808 g<sub>0</sub>)
     escape_velocity: 610.751 km/s<br />(2,198,703 km/h)
@@ -117,14 +117,14 @@ planets:
         radius: 61,739.0 km<br/>(9.691 Yrths)
         surface_area: 4.790 × 10<sup>10</sup> km<sup>2</sup><br/>(93.908 Yrths)
         volume: 9.858 × 10<sup>14</sup> km<sup>3</sup><br/>(910.031 Yrths)
-        mass: 1.194 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 1.194 × 10<sup>27</sup> kg<br />(199.995 Yrths)
         density: 1.212 g/cm<sup>3</sup>
         surface_gravity: 20.885 m/s<sup>2</sup><br />(2.130 g<sub>0</sub>)
         escape_velocity: 50.817 km/s<br />(182,940 km/h)
         rotation_period: 63.528 d
         axial_tilt: 18.71°
         albedo: 0.30
-        temperature: 1516 K<br />(1243 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II b
         type: Asteroid
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 86,048.0 km<br/>(13.506 Yrths)
         surface_area: 9.304 × 10<sup>10</sup> km<sup>2</sup><br/>(182.417 Yrths)
         volume: 2.669 × 10<sup>15</sup> km<sup>3</sup><br/>(2463.762 Yrths)
-        mass: 9.874 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 9.874 × 10<sup>27</sup> kg<br />(1653.454 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 88.889 m/s<sup>2</sup><br />(9.064 g<sub>0</sub>)
         escape_velocity: 123.767 km/s<br />(445,560 km/h)
         rotation_period: 42.491 d
         axial_tilt: 23.69°
         albedo: 0.30
-        temperature: 1035 K<br />(762 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -157,14 +157,14 @@ planets:
         radius: 51,551.1 km<br/>(8.092 Yrths)
         surface_area: 3.340 × 10<sup>10</sup> km<sup>2</sup><br/>(65.473 Yrths)
         volume: 5.739 × 10<sup>14</sup> km<sup>3</sup><br/>(529.775 Yrths)
-        mass: 1.401 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 1.401 × 10<sup>27</sup> kg<br />(234.571 Yrths)
         density: 2.441 g/cm<sup>3</sup>
         surface_gravity: 35.135 m/s<sup>2</sup><br />(3.583 g<sub>0</sub>)
         escape_velocity: 60.228 km/s<br />(216,820 km/h)
         rotation_period: 54.996 d
         axial_tilt: 16.68°
         albedo: 0.30
-        temperature: 816 K<br />(543 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 60,560.0 km<br/>(9.506 Yrths)
         surface_area: 4.609 × 10<sup>10</sup> km<sup>2</sup><br/>(90.356 Yrths)
         volume: 9.304 × 10<sup>14</sup> km<sup>3</sup><br/>(858.886 Yrths)
-        mass: 2.253 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 2.253 × 10<sup>27</sup> kg<br />(377.245 Yrths)
         density: 2.422 g/cm<sup>3</sup>
         surface_gravity: 40.944 m/s<sup>2</sup><br />(4.175 g<sub>0</sub>)
         escape_velocity: 70.469 km/s<br />(253,687 km/h)
         rotation_period: 40.122 d
         axial_tilt: 19.52°
         albedo: 0.30
-        temperature: 483 K<br />(210 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II e
         type: Icy
         formationType: Impact formed
@@ -197,14 +197,14 @@ planets:
         radius: 58,669.4 km<br/>(9.209 Yrths)
         surface_area: 4.325 × 10<sup>10</sup> km<sup>2</sup><br/>(84.802 Yrths)
         volume: 8.459 × 10<sup>14</sup> km<sup>3</sup><br/>(780.928 Yrths)
-        mass: 1.400 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 1.400 × 10<sup>27</sup> kg<br />(234.445 Yrths)
         density: 1.655 g/cm<sup>3</sup>
         surface_gravity: 27.111 m/s<sup>2</sup><br />(2.765 g<sub>0</sub>)
         escape_velocity: 56.441 km/s<br />(203,186 km/h)
         rotation_period: 41.229 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 399 K<br />(126 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II f
         type: Icy
         formationType: Accreted
@@ -217,14 +217,14 @@ planets:
         radius: 64,682.5 km<br/>(10.153 Yrths)
         surface_area: 5.258 × 10<sup>10</sup> km<sup>2</sup><br/>(103.076 Yrths)
         volume: 1.134 × 10<sup>15</sup> km<sup>3</sup><br/>(1046.494 Yrths)
-        mass: 1.571 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 1.571 × 10<sup>27</sup> kg<br />(263.143 Yrths)
         density: 1.386 g/cm<sup>3</sup>
         surface_gravity: 25.035 m/s<sup>2</sup><br />(2.553 g<sub>0</sub>)
         escape_velocity: 56.948 km/s<br />(205,014 km/h)
         rotation_period: 66.813 d
         axial_tilt: 15.95°
         albedo: 0.30
-        temperature: 346 K<br />(73 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II g
         type: Icy
         formationType: Captured
@@ -237,14 +237,14 @@ planets:
         radius: 59,490.9 km<br/>(9.338 Yrths)
         surface_area: 4.447 × 10<sup>10</sup> km<sup>2</sup><br/>(87.194 Yrths)
         volume: 8.819 × 10<sup>14</sup> km<sup>3</sup><br/>(814.197 Yrths)
-        mass: 1.676 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 1.676 × 10<sup>27</sup> kg<br />(280.592 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 31.558 m/s<sup>2</sup><br />(3.218 g<sub>0</sub>)
         escape_velocity: 61.318 km/s<br />(220,746 km/h)
         rotation_period: 56.535 d
         axial_tilt: 22.68°
         albedo: 0.30
-        temperature: 330 K<br />(57 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II h
         type: Asteroid
         formationType: Captured
@@ -257,14 +257,14 @@ planets:
         radius: 52,616.7 km<br/>(8.259 Yrths)
         surface_area: 3.479 × 10<sup>10</sup> km<sup>2</sup><br/>(68.207 Yrths)
         volume: 6.102 × 10<sup>14</sup> km<sup>3</sup><br/>(563.310 Yrths)
-        mass: 1.541 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 1.541 × 10<sup>27</sup> kg<br />(257.972 Yrths)
         density: 2.525 g/cm<sup>3</sup>
         surface_gravity: 37.090 m/s<sup>2</sup><br />(3.782 g<sub>0</sub>)
         escape_velocity: 62.518 km/s<br />(225,063 km/h)
         rotation_period: 55.863 d
         axial_tilt: 12.01°
         albedo: 0.30
-        temperature: 315 K<br />(41 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II i
         type: Rocky
         formationType: Accreted
@@ -277,14 +277,14 @@ planets:
         radius: 44,593.5 km<br/>(6.999 Yrths)
         surface_area: 2.499 × 10<sup>10</sup> km<sup>2</sup><br/>(48.992 Yrths)
         volume: 3.715 × 10<sup>14</sup> km<sup>3</sup><br/>(342.919 Yrths)
-        mass: 1.264 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 1.264 × 10<sup>27</sup> kg<br />(211.643 Yrths)
         density: 3.403 g/cm<sup>3</sup>
         surface_gravity: 42.364 m/s<sup>2</sup><br />(4.320 g<sub>0</sub>)
         escape_velocity: 61.510 km/s<br />(221,435 km/h)
         rotation_period: 52.991 d
         axial_tilt: 8.45°
         albedo: 0.30
-        temperature: 273 K<br />(-1 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II j
         type: Ice/rock hybrid
         formationType: Captured
@@ -297,14 +297,14 @@ planets:
         radius: 56,109.0 km<br/>(8.807 Yrths)
         surface_area: 3.956 × 10<sup>10</sup> km<sup>2</sup><br/>(77.562 Yrths)
         volume: 7.399 × 10<sup>14</sup> km<sup>3</sup><br/>(683.086 Yrths)
-        mass: 1.845 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 1.845 × 10<sup>27</sup> kg<br />(308.996 Yrths)
         density: 2.494 g/cm<sup>3</sup>
         surface_gravity: 39.068 m/s<sup>2</sup><br />(3.984 g<sub>0</sub>)
         escape_velocity: 66.258 km/s<br />(238,528 km/h)
         rotation_period: 42.174 d
         axial_tilt: 14.27°
         albedo: 0.30
-        temperature: 236 K<br />(-37 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II k
         type: Rocky
         formationType: Captured
@@ -317,14 +317,14 @@ planets:
         radius: 47,990.3 km<br/>(7.533 Yrths)
         surface_area: 2.894 × 10<sup>10</sup> km<sup>2</sup><br/>(56.740 Yrths)
         volume: 4.630 × 10<sup>14</sup> km<sup>3</sup><br/>(427.402 Yrths)
-        mass: 1.265 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 1.265 × 10<sup>27</sup> kg<br />(211.765 Yrths)
         density: 2.732 g/cm<sup>3</sup>
         surface_gravity: 36.600 m/s<sup>2</sup><br />(3.732 g<sub>0</sub>)
         escape_velocity: 59.310 km/s<br />(213,516 km/h)
         rotation_period: 58.559 d
         axial_tilt: 10.32°
         albedo: 0.30
-        temperature: 205 K<br />(-68 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0018 Narashiad II l
         type: Rocky
         formationType: Captured
@@ -337,14 +337,14 @@ planets:
         radius: 65,217.5 km<br/>(10.237 Yrths)
         surface_area: 5.345 × 10<sup>10</sup> km<sup>2</sup><br/>(104.788 Yrths)
         volume: 1.162 × 10<sup>15</sup> km<sup>3</sup><br/>(1072.678 Yrths)
-        mass: 3.756 × 10<sup>27</sup> kg<br />(75.1490520043764 Yrths)
+        mass: 3.756 × 10<sup>27</sup> kg<br />(629.008 Yrths)
         density: 3.233 g/cm<sup>3</sup>
         surface_gravity: 58.866 m/s<sup>2</sup><br />(6.003 g<sub>0</sub>)
         escape_velocity: 87.685 km/s<br />(315,665 km/h)
         rotation_period: 35.516 d
         axial_tilt: 21.29°
         albedo: 0.30
-        temperature: 195 K<br />(-78 °C)
+        temperature: 262 K<br />(-11 °C)
   - name: 0018 Narashiad III
     type: Terrestrial
     aphelion: 158,910,696 km<br />1.062 AU
@@ -356,14 +356,14 @@ planets:
     radius: 3,133.7 km<br/>(0.492 Yrths)
     surface_area: 1.234 × 10<sup>08</sup> km<sup>2</sup><br/>(0.242 Yrths)
     volume: 1.289 × 10<sup>11</sup> km<sup>3</sup><br/>(0.119 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.633 g/cm<sup>3</sup>
     surface_gravity: 4.054 m/s<sup>2</sup><br />(0.413 g<sub>0</sub>)
     escape_velocity: 5.044 km/s<br />(18,157 km/h)
     rotation_period: 2.526 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 221 K<br />(-52 °C)
+    temperature: 275 K<br />(2 °C)
     surface_pressure: 8 kPa<br />(0 atm)
     composition:
       - 81.7945% nitrogen
@@ -383,14 +383,14 @@ planets:
         radius: 322.0 km<br/>(0.051 Yrths)
         surface_area: 1.303 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.398 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.590 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.590 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.568 g/cm<sup>3</sup>
         surface_gravity: 0.231 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.386 km/s<br />(1,389 km/h)
         rotation_period: 43.851 d
         axial_tilt: 23.56°
         albedo: 0.30
-        temperature: 4217 K<br />(3944 °C)
+        temperature: 205 K<br />(-68 °C)
       - name: 0018 Narashiad III b
         type: Icy
         formationType: Accreted
@@ -403,14 +403,14 @@ planets:
         radius: 691.3 km<br/>(0.109 Yrths)
         surface_area: 6.006 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.384 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.720 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.720 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.242 g/cm<sup>3</sup>
         surface_gravity: 0.240 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.576 km/s<br />(2,074 km/h)
         rotation_period: 53.801 d
         axial_tilt: 23.07°
         albedo: 0.30
-        temperature: 4021 K<br />(3748 °C)
+        temperature: 205 K<br />(-68 °C)
   - name: 0018 Narashiad IV
     type: Gas giant
     aphelion: 264,547,051 km<br />1.768 AU
@@ -422,7 +422,7 @@ planets:
     radius: 120.4 km<br/>(0.019 Yrths)
     surface_area: 1.823 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 7.317 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.164 × 10<sup>26</sup> kg<br />(19.49107783857008 Yrths)
+    mass: 1.164 × 10<sup>26</sup> kg<br />(19.49 Yrths)
     density: 15908504.061 g/cm<sup>3</sup>
     surface_gravity: 534909.043 m/s<sup>2</sup><br />(54545.542 g<sub>0</sub>)
     escape_velocity: 359.189 km/s<br />(1,293,080 km/h)
@@ -443,14 +443,14 @@ planets:
         radius: 40,052.6 km<br/>(6.287 Yrths)
         surface_area: 2.016 × 10<sup>10</sup> km<sup>2</sup><br/>(39.523 Yrths)
         volume: 2.691 × 10<sup>14</sup> km<sup>3</sup><br/>(248.468 Yrths)
-        mass: 3.248 × 10<sup>26</sup> kg<br />(19.49107783857008 Yrths)
+        mass: 3.248 × 10<sup>26</sup> kg<br />(54.386 Yrths)
         density: 1.207 g/cm<sup>3</sup>
         surface_gravity: 13.495 m/s<sup>2</sup><br />(1.376 g<sub>0</sub>)
         escape_velocity: 32.901 km/s<br />(118,442 km/h)
         rotation_period: 56.668 d
         axial_tilt: 28.07°
         albedo: 0.30
-        temperature: 1104 K<br />(830 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: 0018 Narashiad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -463,14 +463,14 @@ planets:
         radius: 34,429.4 km<br/>(5.404 Yrths)
         surface_area: 1.490 × 10<sup>10</sup> km<sup>2</sup><br/>(29.204 Yrths)
         volume: 1.710 × 10<sup>14</sup> km<sup>3</sup><br/>(157.821 Yrths)
-        mass: 3.745 × 10<sup>26</sup> kg<br />(19.49107783857008 Yrths)
+        mass: 3.745 × 10<sup>26</sup> kg<br />(62.708 Yrths)
         density: 2.191 g/cm<sup>3</sup>
         surface_gravity: 21.057 m/s<sup>2</sup><br />(2.147 g<sub>0</sub>)
         escape_velocity: 38.104 km/s<br />(137,175 km/h)
         rotation_period: 41.141 d
         axial_tilt: 20.02°
         albedo: 0.30
-        temperature: 685 K<br />(412 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: 0018 Narashiad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -483,35 +483,15 @@ planets:
         radius: 32,331.8 km<br/>(5.075 Yrths)
         surface_area: 1.314 × 10<sup>10</sup> km<sup>2</sup><br/>(25.754 Yrths)
         volume: 1.416 × 10<sup>14</sup> km<sup>3</sup><br/>(130.697 Yrths)
-        mass: 3.621 × 10<sup>26</sup> kg<br />(19.49107783857008 Yrths)
+        mass: 3.621 × 10<sup>26</sup> kg<br />(60.626 Yrths)
         density: 2.557 g/cm<sup>3</sup>
         surface_gravity: 23.085 m/s<sup>2</sup><br />(2.354 g<sub>0</sub>)
         escape_velocity: 38.663 km/s<br />(139,185 km/h)
         rotation_period: 32.515 d
         axial_tilt: 24.98°
         albedo: 0.30
-        temperature: 426 K<br />(152 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: 0018 Narashiad IV d
-        type: Icy
-        formationType: Accreted
-        aphelion: 82,336,331 km<br />
-        perihelion: 64,426,840 km<br />
-        semi_major_axis: 73,381,586 km<br />
-        eccentricity: 0.122
-        orbital_period: 0.03 d<br />
-        inclination: 4.40°
-        radius: 19,222.4 km<br/>(3.017 Yrths)
-        surface_area: 4.643 × 10<sup>09</sup> km<sup>2</sup><br/>(9.103 Yrths)
-        volume: 2.975 × 10<sup>13</sup> km<sup>3</sup><br/>(27.466 Yrths)
-        mass: 5.452 × 10<sup>25</sup> kg<br />(19.49107783857008 Yrths)
-        density: 1.833 g/cm<sup>3</sup>
-        surface_gravity: 9.835 m/s<sup>2</sup><br />(1.003 g<sub>0</sub>)
-        escape_velocity: 19.458 km/s<br />(70,050 km/h)
-        rotation_period: 51.021 d
-        axial_tilt: 23.03°
-        albedo: 0.30
-        temperature: 291 K<br />(17 °C)
-      - name: 0018 Narashiad IV e
         type: Ice/rock hybrid
         formationType: Impact formed
         aphelion: 157,067,352 km<br />
@@ -523,15 +503,15 @@ planets:
         radius: 33,259.1 km<br/>(5.220 Yrths)
         surface_area: 1.390 × 10<sup>10</sup> km<sup>2</sup><br/>(27.252 Yrths)
         volume: 1.541 × 10<sup>14</sup> km<sup>3</sup><br/>(142.269 Yrths)
-        mass: 3.262 × 10<sup>26</sup> kg<br />(19.49107783857008 Yrths)
+        mass: 3.262 × 10<sup>26</sup> kg<br />(54.626 Yrths)
         density: 2.117 g/cm<sup>3</sup>
         surface_gravity: 19.657 m/s<sup>2</sup><br />(2.004 g<sub>0</sub>)
         escape_velocity: 36.185 km/s<br />(130,264 km/h)
         rotation_period: 59.415 d
         axial_tilt: 20.37°
         albedo: 0.30
-        temperature: 218 K<br />(-55 °C)
-      - name: 0018 Narashiad IV f
+        temperature: 160 K<br />(-113 °C)
+      - name: 0018 Narashiad IV e
         type: Asteroid
         formationType: Captured
         aphelion: 268,427,548 km<br />
@@ -543,12 +523,12 @@ planets:
         radius: 40,790.8 km<br/>(6.403 Yrths)
         surface_area: 2.091 × 10<sup>10</sup> km<sup>2</sup><br/>(40.993 Yrths)
         volume: 2.843 × 10<sup>14</sup> km<sup>3</sup><br/>(262.460 Yrths)
-        mass: 8.355 × 10<sup>26</sup> kg<br />(19.49107783857008 Yrths)
+        mass: 8.355 × 10<sup>26</sup> kg<br />(139.900 Yrths)
         density: 2.939 g/cm<sup>3</sup>
         surface_gravity: 33.468 m/s<sup>2</sup><br />(3.413 g<sub>0</sub>)
         escape_velocity: 52.289 km/s<br />(188,239 km/h)
         rotation_period: 35.877 d
         axial_tilt: 56.75°
         albedo: 0.30
-        temperature: 164 K<br />(-109 °C)
+        temperature: 160 K<br />(-113 °C)
 ---

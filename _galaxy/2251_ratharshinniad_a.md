@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2251 Ratharshinniad A is a star in the constellation Ratharshin
+      2251 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 540.05 ly
 apparent_magnitude: 7.71
 absolute_magnitude: 1.61

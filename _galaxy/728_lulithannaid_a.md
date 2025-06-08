@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      728 Lulithannaid A is a star in the constellation Lulithan
+      728 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 330.95 ly
 apparent_magnitude: 7.16
 absolute_magnitude: 2.12

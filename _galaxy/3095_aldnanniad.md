@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3095 Aldnanniad is a star in the constellation Aldnan
+      3095 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 511.92 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 4.76

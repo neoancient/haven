@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1229 Ratharshinniad A is a star in the constellation Ratharshin
+      1229 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 901.86 ly
 apparent_magnitude: 6.80
 absolute_magnitude: -0.41

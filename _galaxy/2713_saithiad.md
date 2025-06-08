@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2713 Saithiad is a star in the constellation Saith
+      2713 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 230.22 ly
 apparent_magnitude: 7.10
 absolute_magnitude: 2.85
@@ -31,14 +31,14 @@ planets:
     radius: 7,032.6 km<br/>(1.104 Yrths)
     surface_area: 6.215 × 10<sup>08</sup> km<sup>2</sup><br/>(1.218 Yrths)
     volume: 1.457 × 10<sup>12</sup> km<sup>3</sup><br/>(1.345 Yrths)
-    mass: 8.933 × 10<sup>24</sup> kg<br />(1.4957865118978944 Yrths)
+    mass: 8.933 × 10<sup>24</sup> kg<br />(1.50 Yrths)
     density: 6.131 g/cm<sup>3</sup>
     surface_gravity: 12.039 m/s<sup>2</sup><br />(1.228 g<sub>0</sub>)
     escape_velocity: 13.021 km/s<br />(46,877 km/h)
     rotation_period: 1.130 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 297 K<br />(23 °C)
+    temperature: 336 K<br />(63 °C)
     surface_pressure: 199 kPa<br />(2 atm)
     composition:
       - 84.2334% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 4,348.0 km<br/>(0.682 Yrths)
         surface_area: 2.376 × 10<sup>08</sup> km<sup>2</sup><br/>(0.466 Yrths)
         volume: 3.443 × 10<sup>11</sup> km<sup>3</sup><br/>(0.318 Yrths)
-        mass: 6.684 × 10<sup>23</sup> kg<br />(1.4957865118978944 Yrths)
+        mass: 6.684 × 10<sup>23</sup> kg<br />(0.112 Yrths)
         density: 1.941 g/cm<sup>3</sup>
         surface_gravity: 2.357 m/s<sup>2</sup><br />(0.240 g<sub>0</sub>)
         escape_velocity: 4.530 km/s<br />(16,308 km/h)
         rotation_period: 70.952 d
         axial_tilt: 18.51°
         albedo: 0.30
-        temperature: 3300 K<br />(3027 °C)
+        temperature: 231 K<br />(-42 °C)
       - name: 2713 Saithiad I b
         type: Dwarf planet
         formationType: Impact formed
@@ -79,14 +79,14 @@ planets:
         radius: 3,349.9 km<br/>(0.526 Yrths)
         surface_area: 1.410 × 10<sup>08</sup> km<sup>2</sup><br/>(0.276 Yrths)
         volume: 1.575 × 10<sup>11</sup> km<sup>3</sup><br/>(0.145 Yrths)
-        mass: 2.469 × 10<sup>23</sup> kg<br />(1.4957865118978944 Yrths)
+        mass: 2.469 × 10<sup>23</sup> kg<br />(0.041 Yrths)
         density: 1.568 g/cm<sup>3</sup>
         surface_gravity: 1.467 m/s<sup>2</sup><br />(0.150 g<sub>0</sub>)
         escape_velocity: 3.137 km/s<br />(11,292 km/h)
         rotation_period: 42.109 d
         axial_tilt: 27.56°
         albedo: 0.30
-        temperature: 3147 K<br />(2874 °C)
+        temperature: 231 K<br />(-42 °C)
       - name: 2713 Saithiad I c
         type: Dwarf planet
         formationType: Captured
@@ -99,12 +99,12 @@ planets:
         radius: 2,703.8 km<br/>(0.424 Yrths)
         surface_area: 9.187 × 10<sup>07</sup> km<sup>2</sup><br/>(0.180 Yrths)
         volume: 8.280 × 10<sup>10</sup> km<sup>3</sup><br/>(0.076 Yrths)
-        mass: 2.294 × 10<sup>23</sup> kg<br />(1.4957865118978944 Yrths)
+        mass: 2.294 × 10<sup>23</sup> kg<br />(0.038 Yrths)
         density: 2.771 g/cm<sup>3</sup>
         surface_gravity: 2.092 m/s<sup>2</sup><br />(0.213 g<sub>0</sub>)
         escape_velocity: 3.365 km/s<br />(12,116 km/h)
         rotation_period: 39.577 d
         axial_tilt: 25.63°
         albedo: 0.30
-        temperature: 3000 K<br />(2727 °C)
+        temperature: 231 K<br />(-42 °C)
 ---

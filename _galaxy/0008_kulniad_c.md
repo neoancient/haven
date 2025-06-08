@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0008 Kulniad C is a star in the constellation Kuln
+      0008 Kulniad C is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 219.74 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 5.83
@@ -31,14 +31,14 @@ planets:
     radius: 6,104.2 km<br/>(0.958 Yrths)
     surface_area: 4.682 × 10<sup>08</sup> km<sup>2</sup><br/>(0.918 Yrths)
     volume: 9.527 × 10<sup>11</sup> km<sup>3</sup><br/>(0.880 Yrths)
-    mass: 5.354 × 10<sup>24</sup> kg<br />(0.8965171214292992 Yrths)
+    mass: 5.354 × 10<sup>24</sup> kg<br />(0.90 Yrths)
     density: 5.620 g/cm<sup>3</sup>
     surface_gravity: 9.577 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
     escape_velocity: 10.820 km/s<br />(38,953 km/h)
     rotation_period: 1.474 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 279 K<br />(6 °C)
+    temperature: 423 K<br />(150 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 91.5291% methane
@@ -57,12 +57,12 @@ planets:
         radius: 2,145.4 km<br/>(0.337 Yrths)
         surface_area: 5.784 × 10<sup>07</sup> km<sup>2</sup><br/>(0.113 Yrths)
         volume: 4.136 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 9.028 × 10<sup>22</sup> kg<br />(0.8965171214292992 Yrths)
+        mass: 9.028 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 2.182 g/cm<sup>3</sup>
         surface_gravity: 1.307 m/s<sup>2</sup><br />(0.133 g<sub>0</sub>)
         escape_velocity: 2.370 km/s<br />(8,532 km/h)
         rotation_period: 53.917 d
         axial_tilt: 19.18°
         albedo: 0.30
-        temperature: 3849 K<br />(3576 °C)
+        temperature: 247 K<br />(-26 °C)
 ---

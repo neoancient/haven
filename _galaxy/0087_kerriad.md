@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0087 Kerriad is a star in the constellation Kerr
+      0087 Kerriad is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 67.30 ly
 apparent_magnitude: 6.38
 absolute_magnitude: 4.81
@@ -31,14 +31,14 @@ planets:
     radius: 7,544.1 km<br/>(1.184 Yrths)
     surface_area: 7.152 × 10<sup>08</sup> km<sup>2</sup><br/>(1.402 Yrths)
     volume: 1.798 × 10<sup>12</sup> km<sup>3</sup><br/>(1.660 Yrths)
-    mass: 1.007 × 10<sup>25</sup> kg<br />(1.6865636174267051 Yrths)
+    mass: 1.007 × 10<sup>25</sup> kg<br />(1.69 Yrths)
     density: 5.600 g/cm<sup>3</sup>
     surface_gravity: 11.796 m/s<sup>2</sup><br />(1.203 g<sub>0</sub>)
     escape_velocity: 13.350 km/s<br />(48,059 km/h)
     rotation_period: 0.860 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 1028 K<br />(755 °C)
+    temperature: 2521 K<br />(2248 °C)
     surface_pressure: 92 kPa<br />(1 atm)
     composition:
       - 70.4728% carbon dioxide
@@ -58,12 +58,12 @@ planets:
         radius: 3,314.9 km<br/>(0.520 Yrths)
         surface_area: 1.381 × 10<sup>08</sup> km<sup>2</sup><br/>(0.271 Yrths)
         volume: 1.526 × 10<sup>11</sup> km<sup>3</sup><br/>(0.141 Yrths)
-        mass: 3.685 × 10<sup>23</sup> kg<br />(1.6865636174267051 Yrths)
+        mass: 3.685 × 10<sup>23</sup> kg<br />(0.062 Yrths)
         density: 2.415 g/cm<sup>3</sup>
         surface_gravity: 2.235 m/s<sup>2</sup><br />(0.228 g<sub>0</sub>)
         escape_velocity: 3.852 km/s<br />(13,867 km/h)
         rotation_period: 46.864 d
         axial_tilt: 23.13°
         albedo: 0.30
-        temperature: 14827 K<br />(14554 °C)
+        temperature: 686 K<br />(413 °C)
 ---

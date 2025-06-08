@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      645 Tanashad A is a star in the constellation Tanas
+      645 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 212.34 ly
 apparent_magnitude: 8.98
 absolute_magnitude: 4.91

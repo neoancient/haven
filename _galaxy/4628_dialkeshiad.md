@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4628 Dialkeshiad is a star in the constellation Dialkes
+      4628 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 182.49 ly
 apparent_magnitude: 9.66
 absolute_magnitude: 5.92

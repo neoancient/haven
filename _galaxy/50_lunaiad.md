@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      50 Lunaiad is a star in the constellation Luna
+      50 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 287.93 ly
 apparent_magnitude: 10.51
 absolute_magnitude: 5.79

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5674 Dialkeshiad is a star in the constellation Dialkes
+      5674 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 351.37 ly
 apparent_magnitude: 10.22
 absolute_magnitude: 5.05
@@ -31,14 +31,14 @@ planets:
     radius: 15,896.0 km<br/>(2.495 Yrths)
     surface_area: 3.175 × 10<sup>09</sup> km<sup>2</sup><br/>(6.225 Yrths)
     volume: 1.682 × 10<sup>13</sup> km<sup>3</sup><br/>(15.532 Yrths)
-    mass: 4.657 × 10<sup>25</sup> kg<br />(7.79734814528173 Yrths)
+    mass: 4.657 × 10<sup>25</sup> kg<br />(7.80 Yrths)
     density: 2.768 g/cm<sup>3</sup>
     surface_gravity: 12.283 m/s<sup>2</sup><br />(1.253 g<sub>0</sub>)
     escape_velocity: 19.775 km/s<br />(71,189 km/h)
     rotation_period: 1.088 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 438 K<br />(165 °C)
+    temperature: 383 K<br />(110 °C)
     composition:
       - 89.1498% hydrogen
       - 8.4455% helium
@@ -57,14 +57,14 @@ planets:
         radius: 7,880.6 km<br/>(1.237 Yrths)
         surface_area: 7.804 × 10<sup>08</sup> km<sup>2</sup><br/>(1.530 Yrths)
         volume: 2.050 × 10<sup>12</sup> km<sup>3</sup><br/>(1.893 Yrths)
-        mass: 3.518 × 10<sup>24</sup> kg<br />(7.79734814528173 Yrths)
+        mass: 3.518 × 10<sup>24</sup> kg<br />(0.589 Yrths)
         density: 1.716 g/cm<sup>3</sup>
         surface_gravity: 3.775 m/s<sup>2</sup><br />(0.385 g<sub>0</sub>)
         escape_velocity: 7.719 km/s<br />(27,789 km/h)
         rotation_period: 57.850 d
         axial_tilt: 13.41°
         albedo: 0.30
-        temperature: 3199 K<br />(2926 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 5674 Dialkeshiad I b
         type: Icy
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 10,823.3 km<br/>(1.699 Yrths)
         surface_area: 1.472 × 10<sup>09</sup> km<sup>2</sup><br/>(2.886 Yrths)
         volume: 5.311 × 10<sup>12</sup> km<sup>3</sup><br/>(4.903 Yrths)
-        mass: 9.167 × 10<sup>24</sup> kg<br />(7.79734814528173 Yrths)
+        mass: 9.167 × 10<sup>24</sup> kg<br />(1.535 Yrths)
         density: 1.726 g/cm<sup>3</sup>
         surface_gravity: 5.216 m/s<sup>2</sup><br />(0.532 g<sub>0</sub>)
         escape_velocity: 10.633 km/s<br />(38,279 km/h)
         rotation_period: 41.231 d
         axial_tilt: 23.74°
         albedo: 0.30
-        temperature: 3050 K<br />(2777 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 5674 Dialkeshiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -97,14 +97,14 @@ planets:
         radius: 15,601.7 km<br/>(2.449 Yrths)
         surface_area: 3.059 × 10<sup>09</sup> km<sup>2</sup><br/>(5.997 Yrths)
         volume: 1.591 × 10<sup>13</sup> km<sup>3</sup><br/>(14.686 Yrths)
-        mass: 4.454 × 10<sup>25</sup> kg<br />(7.79734814528173 Yrths)
+        mass: 4.454 × 10<sup>25</sup> kg<br />(7.458 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 12.196 m/s<sup>2</sup><br />(1.244 g<sub>0</sub>)
         escape_velocity: 19.521 km/s<br />(70,277 km/h)
         rotation_period: 31.555 d
         axial_tilt: 28.24°
         albedo: 0.30
-        temperature: 2908 K<br />(2635 °C)
+        temperature: 322 K<br />(49 °C)
   - name: 5674 Dialkeshiad II
     type: Large terrestrial
     aphelion: 162,040,991 km<br />1.083 AU
@@ -116,14 +116,14 @@ planets:
     radius: 8,266.8 km<br/>(1.298 Yrths)
     surface_area: 8.588 × 10<sup>08</sup> km<sup>2</sup><br/>(1.684 Yrths)
     volume: 2.366 × 10<sup>12</sup> km<sup>3</sup><br/>(2.185 Yrths)
-    mass: 1.307 × 10<sup>25</sup> kg<br />(2.1878919465897773 Yrths)
+    mass: 1.307 × 10<sup>25</sup> kg<br />(2.19 Yrths)
     density: 5.521 g/cm<sup>3</sup>
     surface_gravity: 12.743 m/s<sup>2</sup><br />(1.299 g<sub>0</sub>)
     escape_velocity: 14.525 km/s<br />(52,291 km/h)
     rotation_period: 1.129 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 366 K<br />(93 °C)
+    temperature: 803 K<br />(530 °C)
     surface_pressure: 219 kPa<br />(2 atm)
     composition:
       - 55.7255% carbon dioxide
@@ -140,14 +140,14 @@ planets:
     radius: 19,936.4 km<br/>(3.129 Yrths)
     surface_area: 4.995 × 10<sup>09</sup> km<sup>2</sup><br/>(9.792 Yrths)
     volume: 3.319 × 10<sup>13</sup> km<sup>3</sup><br/>(30.642 Yrths)
-    mass: 5.053 × 10<sup>25</sup> kg<br />(8.461193674731007 Yrths)
+    mass: 5.053 × 10<sup>25</sup> kg<br />(8.46 Yrths)
     density: 1.522 g/cm<sup>3</sup>
     surface_gravity: 8.474 m/s<sup>2</sup><br />(0.864 g<sub>0</sub>)
     escape_velocity: 18.394 km/s<br />(66,217 km/h)
     rotation_period: 0.603 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 323 K<br />(50 °C)
+    temperature: 291 K<br />(18 °C)
     composition:
       - 70.7904% hydrogen
       - 26.8920% helium
@@ -165,14 +165,14 @@ planets:
         radius: 11,199.3 km<br/>(1.758 Yrths)
         surface_area: 1.576 × 10<sup>09</sup> km<sup>2</sup><br/>(3.090 Yrths)
         volume: 5.884 × 10<sup>12</sup> km<sup>3</sup><br/>(5.432 Yrths)
-        mass: 5.221 × 10<sup>24</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 5.221 × 10<sup>24</sup> kg<br />(0.874 Yrths)
         density: 0.887 g/cm<sup>3</sup>
         surface_gravity: 2.775 m/s<sup>2</sup><br />(0.283 g<sub>0</sub>)
         escape_velocity: 7.889 km/s<br />(28,400 km/h)
         rotation_period: 58.923 d
         axial_tilt: 19.53°
         albedo: 0.30
-        temperature: 1800 K<br />(1527 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: 5674 Dialkeshiad III b
         type: Dwarf planet
         formationType: Accreted
@@ -185,14 +185,14 @@ planets:
         radius: 15,651.7 km<br/>(2.457 Yrths)
         surface_area: 3.078 × 10<sup>09</sup> km<sup>2</sup><br/>(6.035 Yrths)
         volume: 1.606 × 10<sup>13</sup> km<sup>3</sup><br/>(14.827 Yrths)
-        mass: 3.948 × 10<sup>25</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 3.948 × 10<sup>25</sup> kg<br />(6.612 Yrths)
         density: 2.458 g/cm<sup>3</sup>
         surface_gravity: 10.743 m/s<sup>2</sup><br />(1.095 g<sub>0</sub>)
         escape_velocity: 18.351 km/s<br />(66,062 km/h)
         rotation_period: 50.896 d
         axial_tilt: 37.53°
         albedo: 0.30
-        temperature: 1716 K<br />(1443 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: 5674 Dialkeshiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -205,14 +205,14 @@ planets:
         radius: 13,971.9 km<br/>(2.193 Yrths)
         surface_area: 2.453 × 10<sup>09</sup> km<sup>2</sup><br/>(4.809 Yrths)
         volume: 1.143 × 10<sup>13</sup> km<sup>3</sup><br/>(10.547 Yrths)
-        mass: 2.724 × 10<sup>25</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 2.724 × 10<sup>25</sup> kg<br />(4.561 Yrths)
         density: 2.384 g/cm<sup>3</sup>
         surface_gravity: 9.300 m/s<sup>2</sup><br />(0.948 g<sub>0</sub>)
         escape_velocity: 16.132 km/s<br />(58,075 km/h)
         rotation_period: 32.213 d
         axial_tilt: 18.73°
         albedo: 0.30
-        temperature: 1637 K<br />(1363 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: 5674 Dialkeshiad III d
         type: Dwarf planet
         formationType: Captured
@@ -225,14 +225,14 @@ planets:
         radius: 19,129.1 km<br/>(3.003 Yrths)
         surface_area: 4.598 × 10<sup>09</sup> km<sup>2</sup><br/>(9.015 Yrths)
         volume: 2.932 × 10<sup>13</sup> km<sup>3</sup><br/>(27.068 Yrths)
-        mass: 7.072 × 10<sup>25</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 7.072 × 10<sup>25</sup> kg<br />(11.843 Yrths)
         density: 2.412 g/cm<sup>3</sup>
         surface_gravity: 12.882 m/s<sup>2</sup><br />(1.314 g<sub>0</sub>)
         escape_velocity: 22.215 km/s<br />(79,976 km/h)
         rotation_period: 46.219 d
         axial_tilt: 45.88°
         albedo: 0.30
-        temperature: 1560 K<br />(1287 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: 5674 Dialkeshiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -245,14 +245,14 @@ planets:
         radius: 12,064.1 km<br/>(1.894 Yrths)
         surface_area: 1.829 × 10<sup>09</sup> km<sup>2</sup><br/>(3.586 Yrths)
         volume: 7.355 × 10<sup>12</sup> km<sup>3</sup><br/>(6.790 Yrths)
-        mass: 1.374 × 10<sup>25</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 1.374 × 10<sup>25</sup> kg<br />(2.300 Yrths)
         density: 1.868 g/cm<sup>3</sup>
         surface_gravity: 6.290 m/s<sup>2</sup><br />(0.641 g<sub>0</sub>)
         escape_velocity: 12.328 km/s<br />(44,381 km/h)
         rotation_period: 47.036 d
         axial_tilt: 12.93°
         albedo: 0.30
-        temperature: 1488 K<br />(1215 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: 5674 Dialkeshiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -265,14 +265,14 @@ planets:
         radius: 9,291.1 km<br/>(1.458 Yrths)
         surface_area: 1.085 × 10<sup>09</sup> km<sup>2</sup><br/>(2.127 Yrths)
         volume: 3.360 × 10<sup>12</sup> km<sup>3</sup><br/>(3.102 Yrths)
-        mass: 9.182 × 10<sup>24</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 9.182 × 10<sup>24</sup> kg<br />(1.538 Yrths)
         density: 2.733 g/cm<sup>3</sup>
         surface_gravity: 7.090 m/s<sup>2</sup><br />(0.723 g<sub>0</sub>)
         escape_velocity: 11.486 km/s<br />(41,349 km/h)
         rotation_period: 45.102 d
         axial_tilt: 24.87°
         albedo: 0.30
-        temperature: 1419 K<br />(1145 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: 5674 Dialkeshiad III g
         type: Icy
         formationType: Accreted
@@ -285,14 +285,14 @@ planets:
         radius: 24,252.6 km<br/>(3.807 Yrths)
         surface_area: 7.391 × 10<sup>09</sup> km<sup>2</sup><br/>(14.491 Yrths)
         volume: 5.975 × 10<sup>13</sup> km<sup>3</sup><br/>(55.164 Yrths)
-        mass: 4.183 × 10<sup>25</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 4.183 × 10<sup>25</sup> kg<br />(7.004 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 4.740 m/s<sup>2</sup><br />(0.483 g<sub>0</sub>)
         escape_velocity: 15.173 km/s<br />(54,623 km/h)
         rotation_period: 76.599 d
         axial_tilt: 27.18°
         albedo: 0.30
-        temperature: 1353 K<br />(1079 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: 5674 Dialkeshiad III h
         type: Dwarf planet
         formationType: Accreted
@@ -305,14 +305,14 @@ planets:
         radius: 15,230.8 km<br/>(2.391 Yrths)
         surface_area: 2.915 × 10<sup>09</sup> km<sup>2</sup><br/>(5.715 Yrths)
         volume: 1.480 × 10<sup>13</sup> km<sup>3</sup><br/>(13.663 Yrths)
-        mass: 2.984 × 10<sup>25</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 2.984 × 10<sup>25</sup> kg<br />(4.996 Yrths)
         density: 2.016 g/cm<sup>3</sup>
         surface_gravity: 8.572 m/s<sup>2</sup><br />(0.874 g<sub>0</sub>)
         escape_velocity: 16.170 km/s<br />(58,214 km/h)
         rotation_period: 44.976 d
         axial_tilt: 27.70°
         albedo: 0.30
-        temperature: 1290 K<br />(1016 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: 5674 Dialkeshiad III i
         type: Icy
         formationType: Captured
@@ -325,14 +325,14 @@ planets:
         radius: 13,416.7 km<br/>(2.106 Yrths)
         surface_area: 2.262 × 10<sup>09</sup> km<sup>2</sup><br/>(4.435 Yrths)
         volume: 1.012 × 10<sup>13</sup> km<sup>3</sup><br/>(9.339 Yrths)
-        mass: 1.069 × 10<sup>25</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 1.069 × 10<sup>25</sup> kg<br />(1.789 Yrths)
         density: 1.056 g/cm<sup>3</sup>
         surface_gravity: 3.956 m/s<sup>2</sup><br />(0.403 g<sub>0</sub>)
         escape_velocity: 10.311 km/s<br />(37,118 km/h)
         rotation_period: 51.350 d
         axial_tilt: 20.15°
         albedo: 0.30
-        temperature: 1172 K<br />(899 °C)
+        temperature: 184 K<br />(-90 °C)
       - name: 5674 Dialkeshiad III j
         type: Ice/rock hybrid
         formationType: Captured
@@ -345,14 +345,14 @@ planets:
         radius: 8,501.7 km<br/>(1.334 Yrths)
         surface_area: 9.083 × 10<sup>08</sup> km<sup>2</sup><br/>(1.781 Yrths)
         volume: 2.574 × 10<sup>12</sup> km<sup>3</sup><br/>(2.376 Yrths)
-        mass: 5.436 × 10<sup>24</sup> kg<br />(8.461193674731007 Yrths)
+        mass: 5.436 × 10<sup>24</sup> kg<br />(0.910 Yrths)
         density: 2.112 g/cm<sup>3</sup>
         surface_gravity: 5.013 m/s<sup>2</sup><br />(0.511 g<sub>0</sub>)
         escape_velocity: 9.239 km/s<br />(33,259 km/h)
         rotation_period: 40.134 d
         axial_tilt: 17.46°
         albedo: 0.30
-        temperature: 1118 K<br />(845 °C)
+        temperature: 184 K<br />(-90 °C)
   - name: 5674 Dialkeshiad IV
     type: Gas giant
     aphelion: 488,421,804 km<br />3.265 AU
@@ -364,7 +364,7 @@ planets:
     radius: 165.2 km<br/>(0.026 Yrths)
     surface_area: 3.429 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.888 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.465 × 10<sup>26</sup> kg<br />(74.7615290659402 Yrths)
+    mass: 4.465 × 10<sup>26</sup> kg<br />(74.76 Yrths)
     density: 23643893.166 g/cm<sup>3</sup>
     surface_gravity: 1090486.960 m/s<sup>2</sup><br />(111198.723 g<sub>0</sub>)
     escape_velocity: 600.646 km/s<br />(2,162,325 km/h)
@@ -385,14 +385,14 @@ planets:
         radius: 73,762.5 km<br/>(11.578 Yrths)
         surface_area: 6.837 × 10<sup>10</sup> km<sup>2</sup><br/>(134.047 Yrths)
         volume: 1.681 × 10<sup>15</sup> km<sup>3</sup><br/>(1551.971 Yrths)
-        mass: 3.686 × 10<sup>27</sup> kg<br />(74.7615290659402 Yrths)
+        mass: 3.686 × 10<sup>27</sup> kg<br />(617.254 Yrths)
         density: 2.193 g/cm<sup>3</sup>
         surface_gravity: 45.157 m/s<sup>2</sup><br />(4.605 g<sub>0</sub>)
         escape_velocity: 81.676 km/s<br />(294,032 km/h)
         rotation_period: 65.160 d
         axial_tilt: 16.16°
         albedo: 0.30
-        temperature: 945 K<br />(672 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5674 Dialkeshiad IV b
         type: Asteroid
         formationType: Captured
@@ -405,14 +405,14 @@ planets:
         radius: 57,010.3 km<br/>(8.948 Yrths)
         surface_area: 4.084 × 10<sup>10</sup> km<sup>2</sup><br/>(80.074 Yrths)
         volume: 7.762 × 10<sup>14</sup> km<sup>3</sup><br/>(716.535 Yrths)
-        mass: 2.011 × 10<sup>27</sup> kg<br />(74.7615290659402 Yrths)
+        mass: 2.011 × 10<sup>27</sup> kg<br />(336.674 Yrths)
         density: 2.590 g/cm<sup>3</sup>
         surface_gravity: 41.232 m/s<sup>2</sup><br />(4.205 g<sub>0</sub>)
         escape_velocity: 68.613 km/s<br />(247,006 km/h)
         rotation_period: 53.636 d
         axial_tilt: 26.85°
         albedo: 0.30
-        temperature: 901 K<br />(628 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5674 Dialkeshiad IV c
         type: Rocky
         formationType: Captured
@@ -425,14 +425,14 @@ planets:
         radius: 58,915.3 km<br/>(9.247 Yrths)
         surface_area: 4.362 × 10<sup>10</sup> km<sup>2</sup><br/>(85.515 Yrths)
         volume: 8.566 × 10<sup>14</sup> km<sup>3</sup><br/>(790.790 Yrths)
-        mass: 2.243 × 10<sup>27</sup> kg<br />(74.7615290659402 Yrths)
+        mass: 2.243 × 10<sup>27</sup> kg<br />(375.658 Yrths)
         density: 2.619 g/cm<sup>3</sup>
         surface_gravity: 43.080 m/s<sup>2</sup><br />(4.393 g<sub>0</sub>)
         escape_velocity: 71.295 km/s<br />(256,663 km/h)
         rotation_period: 53.864 d
         axial_tilt: 12.63°
         albedo: 0.30
-        temperature: 781 K<br />(508 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5674 Dialkeshiad IV d
         type: Asteroid
         formationType: Captured
@@ -445,14 +445,14 @@ planets:
         radius: 94,568.5 km<br/>(14.844 Yrths)
         surface_area: 1.124 × 10<sup>11</sup> km<sup>2</sup><br/>(220.332 Yrths)
         volume: 3.543 × 10<sup>15</sup> km<sup>3</sup><br/>(3270.519 Yrths)
-        mass: 1.021 × 10<sup>28</sup> kg<br />(74.7615290659402 Yrths)
+        mass: 1.021 × 10<sup>28</sup> kg<br />(1710.200 Yrths)
         density: 2.883 g/cm<sup>3</sup>
         surface_gravity: 76.118 m/s<sup>2</sup><br />(7.762 g<sub>0</sub>)
         escape_velocity: 120.068 km/s<br />(432,246 km/h)
         rotation_period: 46.742 d
         axial_tilt: 31.89°
         albedo: 0.30
-        temperature: 615 K<br />(342 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5674 Dialkeshiad IV e
         type: Icy
         formationType: Accreted
@@ -465,14 +465,14 @@ planets:
         radius: 68,723.1 km<br/>(10.787 Yrths)
         surface_area: 5.935 × 10<sup>10</sup> km<sup>2</sup><br/>(116.356 Yrths)
         volume: 1.360 × 10<sup>15</sup> km<sup>3</sup><br/>(1255.121 Yrths)
-        mass: 2.206 × 10<sup>27</sup> kg<br />(74.7615290659402 Yrths)
+        mass: 2.206 × 10<sup>27</sup> kg<br />(369.463 Yrths)
         density: 1.623 g/cm<sup>3</sup>
         surface_gravity: 31.139 m/s<sup>2</sup><br />(3.175 g<sub>0</sub>)
         escape_velocity: 65.465 km/s<br />(235,675 km/h)
         rotation_period: 56.291 d
         axial_tilt: 12.71°
         albedo: 0.30
-        temperature: 559 K<br />(286 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5674 Dialkeshiad IV f
         type: Asteroid
         formationType: Captured
@@ -485,14 +485,14 @@ planets:
         radius: 70,103.6 km<br/>(11.004 Yrths)
         surface_area: 6.176 × 10<sup>10</sup> km<sup>2</sup><br/>(121.078 Yrths)
         volume: 1.443 × 10<sup>15</sup> km<sup>3</sup><br/>(1332.288 Yrths)
-        mass: 3.423 × 10<sup>27</sup> kg<br />(74.7615290659402 Yrths)
+        mass: 3.423 × 10<sup>27</sup> kg<br />(573.145 Yrths)
         density: 2.372 g/cm<sup>3</sup>
         surface_gravity: 46.422 m/s<sup>2</sup><br />(4.734 g<sub>0</sub>)
         escape_velocity: 80.731 km/s<br />(290,631 km/h)
         rotation_period: 40.511 d
         axial_tilt: 23.77°
         albedo: 0.30
-        temperature: 441 K<br />(168 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 5674 Dialkeshiad IV g
         type: Ice/rock hybrid
         formationType: Captured
@@ -505,14 +505,14 @@ planets:
         radius: 70,971.4 km<br/>(11.140 Yrths)
         surface_area: 6.330 × 10<sup>10</sup> km<sup>2</sup><br/>(124.094 Yrths)
         volume: 1.497 × 10<sup>15</sup> km<sup>3</sup><br/>(1382.380 Yrths)
-        mass: 3.577 × 10<sup>27</sup> kg<br />(74.7615290659402 Yrths)
+        mass: 3.577 × 10<sup>27</sup> kg<br />(599.042 Yrths)
         density: 2.389 g/cm<sup>3</sup>
         surface_gravity: 47.340 m/s<sup>2</sup><br />(4.827 g<sub>0</sub>)
         escape_velocity: 82.029 km/s<br />(295,303 km/h)
         rotation_period: 33.776 d
         axial_tilt: 25.33°
         albedo: 0.30
-        temperature: 364 K<br />(91 °C)
+        temperature: 139 K<br />(-134 °C)
   - name: 5674 Dialkeshiad V
     type: Gas dwarf
     aphelion: 893,340,560 km<br />5.972 AU
@@ -524,14 +524,14 @@ planets:
     radius: 20,588.2 km<br/>(3.232 Yrths)
     surface_area: 5.327 × 10<sup>09</sup> km<sup>2</sup><br/>(10.443 Yrths)
     volume: 3.655 × 10<sup>13</sup> km<sup>3</sup><br/>(33.747 Yrths)
-    mass: 8.480 × 10<sup>25</sup> kg<br />(14.199493676947867 Yrths)
+    mass: 8.480 × 10<sup>25</sup> kg<br />(14.20 Yrths)
     density: 2.320 g/cm<sup>3</sup>
     surface_gravity: 13.334 m/s<sup>2</sup><br />(1.360 g<sub>0</sub>)
     escape_velocity: 23.448 km/s<br />(84,413 km/h)
     rotation_period: 0.403 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 147 K<br />(-126 °C)
+    temperature: 131 K<br />(-142 °C)
     composition:
       - 81.2452% hydrogen
       - 12.0912% helium
@@ -550,14 +550,14 @@ planets:
         radius: 6,677.5 km<br/>(1.048 Yrths)
         surface_area: 5.603 × 10<sup>08</sup> km<sup>2</sup><br/>(1.099 Yrths)
         volume: 1.247 × 10<sup>12</sup> km<sup>3</sup><br/>(1.151 Yrths)
-        mass: 2.969 × 10<sup>24</sup> kg<br />(14.199493676947867 Yrths)
+        mass: 2.969 × 10<sup>24</sup> kg<br />(0.497 Yrths)
         density: 2.380 g/cm<sup>3</sup>
         surface_gravity: 4.437 m/s<sup>2</sup><br />(0.452 g<sub>0</sub>)
         escape_velocity: 7.703 km/s<br />(27,732 km/h)
         rotation_period: 36.718 d
         axial_tilt: 13.08°
         albedo: 0.30
-        temperature: 942 K<br />(669 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 5674 Dialkeshiad V b
         type: Icy
         formationType: Captured
@@ -570,14 +570,14 @@ planets:
         radius: 31,270.5 km<br/>(4.908 Yrths)
         surface_area: 1.229 × 10<sup>10</sup> km<sup>2</sup><br/>(24.091 Yrths)
         volume: 1.281 × 10<sup>14</sup> km<sup>3</sup><br/>(118.245 Yrths)
-        mass: 8.966 × 10<sup>25</sup> kg<br />(14.199493676947867 Yrths)
+        mass: 8.966 × 10<sup>25</sup> kg<br />(15.013 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 6.111 m/s<sup>2</sup><br />(0.623 g<sub>0</sub>)
         escape_velocity: 19.563 km/s<br />(70,429 km/h)
         rotation_period: 83.026 d
         axial_tilt: 16.67°
         albedo: 0.30
-        temperature: 899 K<br />(625 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 5674 Dialkeshiad V c
         type: Icy
         formationType: Accreted
@@ -590,14 +590,14 @@ planets:
         radius: 8,791.8 km<br/>(1.380 Yrths)
         surface_area: 9.713 × 10<sup>08</sup> km<sup>2</sup><br/>(1.904 Yrths)
         volume: 2.847 × 10<sup>12</sup> km<sup>3</sup><br/>(2.628 Yrths)
-        mass: 5.261 × 10<sup>24</sup> kg<br />(14.199493676947867 Yrths)
+        mass: 5.261 × 10<sup>24</sup> kg<br />(0.881 Yrths)
         density: 1.848 g/cm<sup>3</sup>
         surface_gravity: 4.537 m/s<sup>2</sup><br />(0.463 g<sub>0</sub>)
         escape_velocity: 8.937 km/s<br />(32,175 km/h)
         rotation_period: 57.328 d
         axial_tilt: 8.20°
         albedo: 0.30
-        temperature: 857 K<br />(584 °C)
+        temperature: 105 K<br />(-168 °C)
   - name: 5674 Dialkeshiad VI
     type: Ice giant
     aphelion: 1,479,942,278 km<br />9.893 AU
@@ -609,14 +609,14 @@ planets:
     radius: 4,785.1 km<br/>(0.751 Yrths)
     surface_area: 2.877 × 10<sup>08</sup> km<sup>2</sup><br/>(0.564 Yrths)
     volume: 4.589 × 10<sup>11</sup> km<sup>3</sup><br/>(0.424 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.301 g/cm<sup>3</sup>
     surface_gravity: 1.738 m/s<sup>2</sup><br />(0.177 g<sub>0</sub>)
     escape_velocity: 4.082 km/s<br />(14,694 km/h)
     rotation_period: 0.784 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 144 K<br />(-130 °C)
+    temperature: 130 K<br />(-143 °C)
     composition:
       - 58.9696% hydrogen
       - 39.7212% helium
@@ -636,14 +636,14 @@ planets:
         radius: 528.3 km<br/>(0.083 Yrths)
         surface_area: 3.508 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.177 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.479 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.479 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.393 g/cm<sup>3</sup>
         surface_gravity: 0.353 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.611 km/s<br />(2,200 km/h)
         rotation_period: 56.947 d
         axial_tilt: 42.26°
         albedo: 0.30
-        temperature: 1549 K<br />(1275 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -656,14 +656,14 @@ planets:
         radius: 837.0 km<br/>(0.131 Yrths)
         surface_area: 8.804 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.456 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.860 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.860 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.979 g/cm<sup>3</sup>
         surface_gravity: 0.462 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 0.880 km/s<br />(3,169 km/h)
         rotation_period: 48.725 d
         axial_tilt: 12.87°
         albedo: 0.30
-        temperature: 1477 K<br />(1203 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI c
         type: Dwarf planet
         formationType: Impact formed
@@ -676,14 +676,14 @@ planets:
         radius: 510.6 km<br/>(0.080 Yrths)
         surface_area: 3.276 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.576 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 8.277 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 8.277 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.484 g/cm<sup>3</sup>
         surface_gravity: 0.212 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.465 km/s<br />(1,675 km/h)
         rotation_period: 54.520 d
         axial_tilt: 39.88°
         albedo: 0.30
-        temperature: 1408 K<br />(1135 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI d
         type: Asteroid
         formationType: Captured
@@ -696,14 +696,14 @@ planets:
         radius: 473.7 km<br/>(0.074 Yrths)
         surface_area: 2.820 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.453 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 9.878 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.878 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.219 g/cm<sup>3</sup>
         surface_gravity: 0.293 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.528 km/s<br />(1,899 km/h)
         rotation_period: 47.067 d
         axial_tilt: 28.37°
         albedo: 0.30
-        temperature: 1342 K<br />(1069 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI e
         type: Icy
         formationType: Accreted
@@ -716,14 +716,14 @@ planets:
         radius: 1,006.2 km<br/>(0.158 Yrths)
         surface_area: 1.272 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.268 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 3.341 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.341 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.783 g/cm<sup>3</sup>
         surface_gravity: 0.220 m/s<sup>2</sup><br />(0.022 g<sub>0</sub>)
         escape_velocity: 0.666 km/s<br />(2,397 km/h)
         rotation_period: 74.882 d
         axial_tilt: 11.71°
         albedo: 0.30
-        temperature: 1280 K<br />(1007 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI f
         type: Icy
         formationType: Accreted
@@ -736,14 +736,14 @@ planets:
         radius: 452.7 km<br/>(0.071 Yrths)
         surface_area: 2.575 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.886 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.607 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.607 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.443 g/cm<sup>3</sup>
         surface_gravity: 0.182 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.407 km/s<br />(1,464 km/h)
         rotation_period: 44.284 d
         axial_tilt: 25.03°
         albedo: 0.30
-        temperature: 1109 K<br />(836 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI g
         type: Icy
         formationType: Impact formed
@@ -756,14 +756,14 @@ planets:
         radius: 480.7 km<br/>(0.075 Yrths)
         surface_area: 2.904 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.653 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 8.768 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 8.768 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.885 g/cm<sup>3</sup>
         surface_gravity: 0.253 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.493 km/s<br />(1,776 km/h)
         rotation_period: 43.984 d
         axial_tilt: 14.42°
         albedo: 0.30
-        temperature: 1058 K<br />(785 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI h
         type: Icy
         formationType: Accreted
@@ -776,14 +776,14 @@ planets:
         radius: 575.9 km<br/>(0.090 Yrths)
         surface_area: 4.168 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.001 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 5.941 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.941 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 0.743 g/cm<sup>3</sup>
         surface_gravity: 0.119 m/s<sup>2</sup><br />(0.012 g<sub>0</sub>)
         escape_velocity: 0.371 km/s<br />(1,336 km/h)
         rotation_period: 88.427 d
         axial_tilt: 17.89°
         albedo: 0.30
-        temperature: 1008 K<br />(735 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI i
         type: Icy
         formationType: Impact formed
@@ -796,14 +796,14 @@ planets:
         radius: 581.0 km<br/>(0.091 Yrths)
         surface_area: 4.242 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.215 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 9.945 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.945 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.211 g/cm<sup>3</sup>
         surface_gravity: 0.196 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.478 km/s<br />(1,721 km/h)
         rotation_period: 55.586 d
         axial_tilt: 23.56°
         albedo: 0.30
-        temperature: 962 K<br />(688 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -816,14 +816,14 @@ planets:
         radius: 516.0 km<br/>(0.081 Yrths)
         surface_area: 3.346 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 5.755 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.019 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.019 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.771 g/cm<sup>3</sup>
         surface_gravity: 0.255 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.514 km/s<br />(1,849 km/h)
         rotation_period: 72.631 d
         axial_tilt: 23.99°
         albedo: 0.30
-        temperature: 917 K<br />(644 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI k
         type: Icy
         formationType: Accreted
@@ -836,14 +836,14 @@ planets:
         radius: 1,005.6 km<br/>(0.158 Yrths)
         surface_area: 1.271 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.259 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 6.933 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.933 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.628 g/cm<sup>3</sup>
         surface_gravity: 0.457 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 0.959 km/s<br />(3,453 km/h)
         rotation_period: 47.213 d
         axial_tilt: 16.30°
         albedo: 0.30
-        temperature: 874 K<br />(601 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 5674 Dialkeshiad VI l
         type: Icy
         formationType: Impact formed
@@ -856,12 +856,12 @@ planets:
         radius: 860.4 km<br/>(0.135 Yrths)
         surface_area: 9.302 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.668 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.867 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.867 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.168 m/s<sup>2</sup><br />(0.017 g<sub>0</sub>)
         escape_velocity: 0.538 km/s<br />(1,938 km/h)
         rotation_period: 86.373 d
         axial_tilt: 12.73°
         albedo: 0.30
-        temperature: 833 K<br />(560 °C)
+        temperature: 79 K<br />(-194 °C)
 ---

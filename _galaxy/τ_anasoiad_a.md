@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Anasoiad A is a star in the constellation Anaso
+      τ Anasoiad A is a star in the constellation <a href="anaso.html">Anaso</a>
 distance: 746.32 ly
 apparent_magnitude: 6.03
 absolute_magnitude: -0.76

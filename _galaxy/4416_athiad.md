@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4416 Athiad is a star in the constellation Ath
+      4416 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 477.95 ly
 apparent_magnitude: 10.79
 absolute_magnitude: 4.96

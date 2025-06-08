@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      944 Geardiad A is a star in the constellation Geard
+      944 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 156.22 ly
 apparent_magnitude: 8.31
 absolute_magnitude: 4.91

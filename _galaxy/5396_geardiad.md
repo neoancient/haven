@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5396 Geardiad is a star in the constellation Geard
+      5396 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 268.23 ly
 apparent_magnitude: 9.61
 absolute_magnitude: 5.03

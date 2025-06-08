@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2748 Shanniashiad is a star in the constellation Shannias
+      2748 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 761.54 ly
 apparent_magnitude: 12.42
 absolute_magnitude: 5.58

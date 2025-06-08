@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Esau is a star in the constellation Swither
+      Esau is a star in the constellation <a href="swither.html">Swither</a>
 distance: 147.14 ly
 apparent_magnitude: 3.33
 absolute_magnitude: 0.06

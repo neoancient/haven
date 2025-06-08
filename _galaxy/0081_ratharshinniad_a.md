@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0081 Ratharshinniad A is a star in the constellation Ratharshin
+      0081 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 85.94 ly
 apparent_magnitude: 8.23
 absolute_magnitude: 6.12

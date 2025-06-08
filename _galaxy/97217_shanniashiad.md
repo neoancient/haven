@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      97217 Shanniashiad is a star in the constellation Shannias
+      97217 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 520.03 ly
 apparent_magnitude: 11.52
 absolute_magnitude: 5.51

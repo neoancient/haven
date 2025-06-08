@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Deonia A is a star in the constellation Saith
+      Deonia A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 950.83 ly
 apparent_magnitude: 2.10
 absolute_magnitude: -5.22

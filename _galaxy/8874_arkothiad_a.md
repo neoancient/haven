@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8874 Arkothiad A is a star in the constellation Arkoth
+      8874 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 405.46 ly
 apparent_magnitude: 9.51
 absolute_magnitude: 4.03

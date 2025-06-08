@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0050 Rukentuaiad A is a star in the constellation Rukentua
+      0050 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 175.86 ly
 apparent_magnitude: 5.19
 absolute_magnitude: 1.53

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2205 Geardiad is a star in the constellation Geard
+      2205 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 356.24 ly
 apparent_magnitude: 10.15
 absolute_magnitude: 4.96

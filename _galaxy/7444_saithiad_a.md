@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7444 Saithiad A is a star in the constellation Saith
+      7444 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 700.35 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 1.18

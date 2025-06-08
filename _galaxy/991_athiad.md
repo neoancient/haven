@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      991 Athiad is a star in the constellation Ath
+      991 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 323.72 ly
 apparent_magnitude: 21.39
 absolute_magnitude: 16.41

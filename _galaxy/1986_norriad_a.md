@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1986 Norriad A is a star in the constellation Nor
+      1986 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 669.50 ly
 apparent_magnitude: 7.47
 absolute_magnitude: 0.91

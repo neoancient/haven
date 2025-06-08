@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Switheriad A is a star in the constellation Swither
+      ο Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 65.35 ly
 apparent_magnitude: 3.76
 absolute_magnitude: 2.25

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      400 Anilliad is a star in the constellation Anil
+      400 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 315.11 ly
 apparent_magnitude: 10.65
 absolute_magnitude: 5.73
@@ -31,14 +31,14 @@ planets:
     radius: 23,328.2 km<br/>(3.662 Yrths)
     surface_area: 6.839 × 10<sup>09</sup> km<sup>2</sup><br/>(13.407 Yrths)
     volume: 5.318 × 10<sup>13</sup> km<sup>3</sup><br/>(49.093 Yrths)
-    mass: 8.501 × 10<sup>25</sup> kg<br />(14.234950709921588 Yrths)
+    mass: 8.501 × 10<sup>25</sup> kg<br />(14.23 Yrths)
     density: 1.599 g/cm<sup>3</sup>
     surface_gravity: 10.412 m/s<sup>2</sup><br />(1.062 g<sub>0</sub>)
     escape_velocity: 22.055 km/s<br />(79,400 km/h)
     rotation_period: 0.696 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 394 K<br />(121 °C)
+    temperature: 353 K<br />(80 °C)
     composition:
       - 59.1496% hydrogen
       - 39.5102% helium
@@ -56,14 +56,14 @@ planets:
         radius: 16,484.3 km<br/>(2.587 Yrths)
         surface_area: 3.415 × 10<sup>09</sup> km<sup>2</sup><br/>(6.695 Yrths)
         volume: 1.876 × 10<sup>13</sup> km<sup>3</sup><br/>(17.322 Yrths)
-        mass: 4.413 × 10<sup>25</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 4.413 × 10<sup>25</sup> kg<br />(7.389 Yrths)
         density: 2.352 g/cm<sup>3</sup>
         surface_gravity: 10.824 m/s<sup>2</sup><br />(1.104 g<sub>0</sub>)
         escape_velocity: 18.903 km/s<br />(68,052 km/h)
         rotation_period: 41.217 d
         axial_tilt: 17.29°
         albedo: 0.30
-        temperature: 1983 K<br />(1710 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 400 Anilliad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 8,133.6 km<br/>(1.277 Yrths)
         surface_area: 8.313 × 10<sup>08</sup> km<sup>2</sup><br/>(1.630 Yrths)
         volume: 2.254 × 10<sup>12</sup> km<sup>3</sup><br/>(2.081 Yrths)
-        mass: 6.061 × 10<sup>24</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 6.061 × 10<sup>24</sup> kg<br />(1.015 Yrths)
         density: 2.689 g/cm<sup>3</sup>
         surface_gravity: 6.107 m/s<sup>2</sup><br />(0.623 g<sub>0</sub>)
         escape_velocity: 9.973 km/s<br />(35,905 km/h)
         rotation_period: 36.862 d
         axial_tilt: 25.97°
         albedo: 0.30
-        temperature: 1803 K<br />(1530 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 400 Anilliad I c
         type: Icy
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 12,618.5 km<br/>(1.981 Yrths)
         surface_area: 2.001 × 10<sup>09</sup> km<sup>2</sup><br/>(3.923 Yrths)
         volume: 8.416 × 10<sup>12</sup> km<sup>3</sup><br/>(7.770 Yrths)
-        mass: 9.966 × 10<sup>24</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 9.966 × 10<sup>24</sup> kg<br />(1.669 Yrths)
         density: 1.184 g/cm<sup>3</sup>
         surface_gravity: 4.172 m/s<sup>2</sup><br />(0.425 g<sub>0</sub>)
         escape_velocity: 10.268 km/s<br />(36,963 km/h)
         rotation_period: 46.014 d
         axial_tilt: 14.64°
         albedo: 0.30
-        temperature: 1719 K<br />(1446 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 400 Anilliad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 7,264.8 km<br/>(1.140 Yrths)
         surface_area: 6.632 × 10<sup>08</sup> km<sup>2</sup><br/>(1.300 Yrths)
         volume: 1.606 × 10<sup>12</sup> km<sup>3</sup><br/>(1.483 Yrths)
-        mass: 3.659 × 10<sup>24</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 3.659 × 10<sup>24</sup> kg<br />(0.613 Yrths)
         density: 2.279 g/cm<sup>3</sup>
         surface_gravity: 4.621 m/s<sup>2</sup><br />(0.471 g<sub>0</sub>)
         escape_velocity: 8.200 km/s<br />(29,520 km/h)
         rotation_period: 60.728 d
         axial_tilt: 13.52°
         albedo: 0.30
-        temperature: 1639 K<br />(1366 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 400 Anilliad I e
         type: Icy
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 8,633.4 km<br/>(1.355 Yrths)
         surface_area: 9.366 × 10<sup>08</sup> km<sup>2</sup><br/>(1.836 Yrths)
         volume: 2.695 × 10<sup>12</sup> km<sup>3</sup><br/>(2.488 Yrths)
-        mass: 2.223 × 10<sup>24</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 2.223 × 10<sup>24</sup> kg<br />(0.372 Yrths)
         density: 0.825 g/cm<sup>3</sup>
         surface_gravity: 1.988 m/s<sup>2</sup><br />(0.203 g<sub>0</sub>)
         escape_velocity: 5.862 km/s<br />(21,104 km/h)
         rotation_period: 103.863 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 1563 K<br />(1290 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 400 Anilliad I f
         type: Icy
         formationType: Captured
@@ -156,14 +156,14 @@ planets:
         radius: 9,632.6 km<br/>(1.512 Yrths)
         surface_area: 1.166 × 10<sup>09</sup> km<sup>2</sup><br/>(2.286 Yrths)
         volume: 3.744 × 10<sup>12</sup> km<sup>3</sup><br/>(3.456 Yrths)
-        mass: 5.433 × 10<sup>24</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 5.433 × 10<sup>24</sup> kg<br />(0.910 Yrths)
         density: 1.451 g/cm<sup>3</sup>
         surface_gravity: 3.903 m/s<sup>2</sup><br />(0.398 g<sub>0</sub>)
         escape_velocity: 8.677 km/s<br />(31,238 km/h)
         rotation_period: 54.227 d
         axial_tilt: 6.91°
         albedo: 0.30
-        temperature: 1490 K<br />(1217 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 400 Anilliad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 9,946.7 km<br/>(1.561 Yrths)
         surface_area: 1.243 × 10<sup>09</sup> km<sup>2</sup><br/>(2.437 Yrths)
         volume: 4.122 × 10<sup>12</sup> km<sup>3</sup><br/>(3.805 Yrths)
-        mass: 9.718 × 10<sup>24</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 9.718 × 10<sup>24</sup> kg<br />(1.627 Yrths)
         density: 2.357 g/cm<sup>3</sup>
         surface_gravity: 6.547 m/s<sup>2</sup><br />(0.668 g<sub>0</sub>)
         escape_velocity: 11.420 km/s<br />(41,111 km/h)
         rotation_period: 42.632 d
         axial_tilt: 15.81°
         albedo: 0.30
-        temperature: 1421 K<br />(1148 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 400 Anilliad I h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -196,14 +196,14 @@ planets:
         radius: 17,165.5 km<br/>(2.694 Yrths)
         surface_area: 3.703 × 10<sup>09</sup> km<sup>2</sup><br/>(7.259 Yrths)
         volume: 2.119 × 10<sup>13</sup> km<sup>3</sup><br/>(19.559 Yrths)
-        mass: 3.390 × 10<sup>25</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 3.390 × 10<sup>25</sup> kg<br />(5.676 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 7.668 m/s<sup>2</sup><br />(0.782 g<sub>0</sub>)
         escape_velocity: 16.236 km/s<br />(58,450 km/h)
         rotation_period: 41.644 d
         axial_tilt: 19.62°
         albedo: 0.30
-        temperature: 1355 K<br />(1082 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 400 Anilliad I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -216,14 +216,14 @@ planets:
         radius: 23,704.9 km<br/>(3.721 Yrths)
         surface_area: 7.061 × 10<sup>09</sup> km<sup>2</sup><br/>(13.844 Yrths)
         volume: 5.580 × 10<sup>13</sup> km<sup>3</sup><br/>(51.510 Yrths)
-        mass: 1.245 × 10<sup>26</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 1.245 × 10<sup>26</sup> kg<br />(20.850 Yrths)
         density: 2.232 g/cm<sup>3</sup>
         surface_gravity: 14.770 m/s<sup>2</sup><br />(1.506 g<sub>0</sub>)
         escape_velocity: 26.480 km/s<br />(95,327 km/h)
         rotation_period: 54.779 d
         axial_tilt: 12.81°
         albedo: 0.30
-        temperature: 1292 K<br />(1019 °C)
+        temperature: 226 K<br />(-47 °C)
       - name: 400 Anilliad I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -236,14 +236,14 @@ planets:
         radius: 9,983.6 km<br/>(1.567 Yrths)
         surface_area: 1.253 × 10<sup>09</sup> km<sup>2</sup><br/>(2.456 Yrths)
         volume: 4.168 × 10<sup>12</sup> km<sup>3</sup><br/>(3.848 Yrths)
-        mass: 8.993 × 10<sup>24</sup> kg<br />(14.234950709921588 Yrths)
+        mass: 8.993 × 10<sup>24</sup> kg<br />(1.506 Yrths)
         density: 2.158 g/cm<sup>3</sup>
         surface_gravity: 6.014 m/s<sup>2</sup><br />(0.613 g<sub>0</sub>)
         escape_velocity: 10.966 km/s<br />(39,476 km/h)
         rotation_period: 55.888 d
         axial_tilt: 19.37°
         albedo: 0.30
-        temperature: 1174 K<br />(901 °C)
+        temperature: 226 K<br />(-47 °C)
   - name: 400 Anilliad II
     type: Gas giant
     aphelion: 285,407,286 km<br />1.908 AU
@@ -255,7 +255,7 @@ planets:
     radius: 189.2 km<br/>(0.030 Yrths)
     surface_area: 4.497 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.836 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.943 × 10<sup>26</sup> kg<br />(133.00070286890045 Yrths)
+    mass: 7.943 × 10<sup>26</sup> kg<br />(133.00 Yrths)
     density: 28010960.100 g/cm<sup>3</sup>
     surface_gravity: 1479398.138 m/s<sup>2</sup><br />(150856.627 g<sub>0</sub>)
     escape_velocity: 748.649 km/s<br />(2,695,138 km/h)
@@ -276,14 +276,14 @@ planets:
         radius: 127,918.4 km<br/>(20.078 Yrths)
         surface_area: 2.056 × 10<sup>11</sup> km<sup>2</sup><br/>(403.135 Yrths)
         volume: 8.768 × 10<sup>15</sup> km<sup>3</sup><br/>(8094.234 Yrths)
-        mass: 2.105 × 10<sup>28</sup> kg<br />(133.00070286890045 Yrths)
+        mass: 2.105 × 10<sup>28</sup> kg<br />(3525.177 Yrths)
         density: 2.401 g/cm<sup>3</sup>
         surface_gravity: 85.753 m/s<sup>2</sup><br />(8.744 g<sub>0</sub>)
         escape_velocity: 148.218 km/s<br />(533,586 km/h)
         rotation_period: 56.743 d
         axial_tilt: 20.65°
         albedo: 0.30
-        temperature: 1081 K<br />(808 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: 400 Anilliad II b
         type: Rocky
         formationType: Accreted
@@ -296,14 +296,14 @@ planets:
         radius: 109,778.4 km<br/>(17.231 Yrths)
         surface_area: 1.514 × 10<sup>11</sup> km<sup>2</sup><br/>(296.906 Yrths)
         volume: 5.542 × 10<sup>15</sup> km<sup>3</sup><br/>(5115.973 Yrths)
-        mass: 1.587 × 10<sup>28</sup> kg<br />(133.00070286890045 Yrths)
+        mass: 1.587 × 10<sup>28</sup> kg<br />(2657.421 Yrths)
         density: 2.864 g/cm<sup>3</sup>
         surface_gravity: 87.773 m/s<sup>2</sup><br />(8.950 g<sub>0</sub>)
         escape_velocity: 138.915 km/s<br />(500,094 km/h)
         rotation_period: 32.974 d
         axial_tilt: 10.75°
         albedo: 0.30
-        temperature: 417 K<br />(144 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: 400 Anilliad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -316,14 +316,14 @@ planets:
         radius: 156,413.4 km<br/>(24.551 Yrths)
         surface_area: 3.074 × 10<sup>11</sup> km<sup>2</sup><br/>(602.744 Yrths)
         volume: 1.603 × 10<sup>16</sup> km<sup>3</sup><br/>(14797.879 Yrths)
-        mass: 2.939 × 10<sup>28</sup> kg<br />(133.00070286890045 Yrths)
+        mass: 2.939 × 10<sup>28</sup> kg<br />(4921.575 Yrths)
         density: 1.834 g/cm<sup>3</sup>
         surface_gravity: 80.074 m/s<sup>2</sup><br />(8.165 g<sub>0</sub>)
         escape_velocity: 158.377 km/s<br />(570,158 km/h)
         rotation_period: 51.739 d
         axial_tilt: 17.54°
         albedo: 0.30
-        temperature: 329 K<br />(55 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: 400 Anilliad II d
         type: Rocky
         formationType: Impact formed
@@ -336,14 +336,14 @@ planets:
         radius: 110,467.9 km<br/>(17.339 Yrths)
         surface_area: 1.533 × 10<sup>11</sup> km<sup>2</sup><br/>(300.647 Yrths)
         volume: 5.647 × 10<sup>15</sup> km<sup>3</sup><br/>(5212.975 Yrths)
-        mass: 1.570 × 10<sup>28</sup> kg<br />(133.00070286890045 Yrths)
+        mass: 1.570 × 10<sup>28</sup> kg<br />(2629.455 Yrths)
         density: 2.781 g/cm<sup>3</sup>
         surface_gravity: 85.769 m/s<sup>2</sup><br />(8.746 g<sub>0</sub>)
         escape_velocity: 137.750 km/s<br />(495,901 km/h)
         rotation_period: 46.816 d
         axial_tilt: 12.67°
         albedo: 0.30
-        temperature: 95 K<br />(-178 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: 400 Anilliad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -356,14 +356,14 @@ planets:
         radius: 151,805.2 km<br/>(23.828 Yrths)
         surface_area: 2.896 × 10<sup>11</sup> km<sup>2</sup><br/>(567.751 Yrths)
         volume: 1.465 × 10<sup>16</sup> km<sup>3</sup><br/>(13528.115 Yrths)
-        mass: 2.896 × 10<sup>28</sup> kg<br />(133.00070286890045 Yrths)
+        mass: 2.896 × 10<sup>28</sup> kg<br />(4848.825 Yrths)
         density: 1.976 g/cm<sup>3</sup>
         surface_gravity: 83.753 m/s<sup>2</sup><br />(8.540 g<sub>0</sub>)
         escape_velocity: 159.571 km/s<br />(574,454 km/h)
         rotation_period: 36.830 d
         axial_tilt: 28.71°
         albedo: 0.30
-        temperature: 91 K<br />(-182 °C)
+        temperature: 170 K<br />(-103 °C)
   - name: 400 Anilliad III
     type: Gas giant
     aphelion: 474,778,884 km<br />3.174 AU
@@ -375,7 +375,7 @@ planets:
     radius: 189.8 km<br/>(0.030 Yrths)
     surface_area: 4.528 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.865 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.046 × 10<sup>26</sup> kg<br />(134.72257550350164 Yrths)
+    mass: 8.046 × 10<sup>26</sup> kg<br />(134.72 Yrths)
     density: 28078222.854 g/cm<sup>3</sup>
     surface_gravity: 1488132.595 m/s<sup>2</sup><br />(151747.293 g<sub>0</sub>)
     escape_velocity: 752.167 km/s<br />(2,707,801 km/h)
@@ -396,14 +396,14 @@ planets:
         radius: 92,179.6 km<br/>(14.469 Yrths)
         surface_area: 1.068 × 10<sup>11</sup> km<sup>2</sup><br/>(209.341 Yrths)
         volume: 3.281 × 10<sup>15</sup> km<sup>3</sup><br/>(3028.877 Yrths)
-        mass: 4.087 × 10<sup>27</sup> kg<br />(134.72257550350164 Yrths)
+        mass: 4.087 × 10<sup>27</sup> kg<br />(684.369 Yrths)
         density: 1.246 g/cm<sup>3</sup>
         surface_gravity: 32.059 m/s<sup>2</sup><br />(3.269 g<sub>0</sub>)
         escape_velocity: 76.932 km/s<br />(276,954 km/h)
         rotation_period: 81.645 d
         axial_tilt: 10.79°
         albedo: 0.30
-        temperature: 673 K<br />(400 °C)
+        temperature: 129 K<br />(-145 °C)
       - name: 400 Anilliad III b
         type: Icy
         formationType: Captured
@@ -416,14 +416,14 @@ planets:
         radius: 82,429.5 km<br/>(12.938 Yrths)
         surface_area: 8.538 × 10<sup>10</sup> km<sup>2</sup><br/>(167.398 Yrths)
         volume: 2.346 × 10<sup>15</sup> km<sup>3</sup><br/>(2165.832 Yrths)
-        mass: 3.398 × 10<sup>27</sup> kg<br />(134.72257550350164 Yrths)
+        mass: 3.398 × 10<sup>27</sup> kg<br />(568.916 Yrths)
         density: 1.448 g/cm<sup>3</sup>
         surface_gravity: 33.329 m/s<sup>2</sup><br />(3.399 g<sub>0</sub>)
         escape_velocity: 74.176 km/s<br />(267,032 km/h)
         rotation_period: 74.351 d
         axial_tilt: 20.11°
         albedo: 0.30
-        temperature: 398 K<br />(125 °C)
+        temperature: 129 K<br />(-145 °C)
       - name: 400 Anilliad III c
         type: Rocky
         formationType: Captured
@@ -436,35 +436,15 @@ planets:
         radius: 62,697.3 km<br/>(9.841 Yrths)
         surface_area: 4.940 × 10<sup>10</sup> km<sup>2</sup><br/>(96.846 Yrths)
         volume: 1.032 × 10<sup>15</sup> km<sup>3</sup><br/>(953.066 Yrths)
-        mass: 3.025 × 10<sup>27</sup> kg<br />(134.72257550350164 Yrths)
+        mass: 3.025 × 10<sup>27</sup> kg<br />(506.580 Yrths)
         density: 2.930 g/cm<sup>3</sup>
         surface_gravity: 51.296 m/s<sup>2</sup><br />(5.231 g<sub>0</sub>)
         escape_velocity: 80.256 km/s<br />(288,922 km/h)
         rotation_period: 32.376 d
         axial_tilt: 23.08°
         albedo: 0.30
-        temperature: 345 K<br />(72 °C)
+        temperature: 129 K<br />(-145 °C)
       - name: 400 Anilliad III d
-        type: Rocky
-        formationType: Accreted
-        aphelion: 97,503,023 km<br />
-        perihelion: 95,344,430 km<br />
-        semi_major_axis: 96,423,727 km<br />
-        eccentricity: 0.011
-        orbital_period: 0.03 d<br />
-        inclination: 1.04°
-        radius: 12,023.6 km<br/>(1.887 Yrths)
-        surface_area: 1.817 × 10<sup>09</sup> km<sup>2</sup><br/>(3.562 Yrths)
-        volume: 7.281 × 10<sup>12</sup> km<sup>3</sup><br/>(6.722 Yrths)
-        mass: 2.172 × 10<sup>25</sup> kg<br />(134.72257550350164 Yrths)
-        density: 2.983 g/cm<sup>3</sup>
-        surface_gravity: 10.014 m/s<sup>2</sup><br />(1.021 g<sub>0</sub>)
-        escape_velocity: 15.528 km/s<br />(55,902 km/h)
-        rotation_period: 30.511 d
-        axial_tilt: 14.67°
-        albedo: 0.30
-        temperature: 285 K<br />(12 °C)
-      - name: 400 Anilliad III e
         type: Icy
         formationType: Captured
         aphelion: 183,621,456 km<br />
@@ -476,15 +456,15 @@ planets:
         radius: 116,813.4 km<br/>(18.335 Yrths)
         surface_area: 1.715 × 10<sup>11</sup> km<sup>2</sup><br/>(336.179 Yrths)
         volume: 6.677 × 10<sup>15</sup> km<sup>3</sup><br/>(6163.896 Yrths)
-        mass: 5.068 × 10<sup>27</sup> kg<br />(134.72257550350164 Yrths)
+        mass: 5.068 × 10<sup>27</sup> kg<br />(848.661 Yrths)
         density: 0.759 g/cm<sup>3</sup>
         surface_gravity: 24.756 m/s<sup>2</sup><br />(2.524 g<sub>0</sub>)
         escape_velocity: 76.102 km/s<br />(273,969 km/h)
         rotation_period: 79.055 d
         axial_tilt: 12.19°
         albedo: 0.30
-        temperature: 214 K<br />(-59 °C)
-      - name: 400 Anilliad III f
+        temperature: 129 K<br />(-145 °C)
+      - name: 400 Anilliad III e
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 415,646,192 km<br />
@@ -496,15 +476,15 @@ planets:
         radius: 98,378.6 km<br/>(15.442 Yrths)
         surface_area: 1.216 × 10<sup>11</sup> km<sup>2</sup><br/>(238.444 Yrths)
         volume: 3.988 × 10<sup>15</sup> km<sup>3</sup><br/>(3681.955 Yrths)
-        mass: 8.081 × 10<sup>27</sup> kg<br />(134.72257550350164 Yrths)
+        mass: 8.081 × 10<sup>27</sup> kg<br />(1353.117 Yrths)
         density: 2.026 g/cm<sup>3</sup>
         surface_gravity: 55.651 m/s<sup>2</sup><br />(5.675 g<sub>0</sub>)
         escape_velocity: 104.712 km/s<br />(376,962 km/h)
         rotation_period: 39.483 d
         axial_tilt: 20.27°
         albedo: 0.30
-        temperature: 146 K<br />(-127 °C)
-      - name: 400 Anilliad III g
+        temperature: 129 K<br />(-145 °C)
+      - name: 400 Anilliad III f
         type: Icy
         formationType: Accreted
         aphelion: 549,388,739 km<br />
@@ -516,15 +496,15 @@ planets:
         radius: 94,183.3 km<br/>(14.783 Yrths)
         surface_area: 1.115 × 10<sup>11</sup> km<sup>2</sup><br/>(218.541 Yrths)
         volume: 3.500 × 10<sup>15</sup> km<sup>3</sup><br/>(3230.712 Yrths)
-        mass: 4.644 × 10<sup>27</sup> kg<br />(134.72257550350164 Yrths)
+        mass: 4.644 × 10<sup>27</sup> kg<br />(777.602 Yrths)
         density: 1.327 g/cm<sup>3</sup>
         surface_gravity: 34.894 m/s<sup>2</sup><br />(3.558 g<sub>0</sub>)
         escape_velocity: 81.128 km/s<br />(292,060 km/h)
         rotation_period: 58.866 d
         axial_tilt: 18.54°
         albedo: 0.30
-        temperature: 121 K<br />(-152 °C)
-      - name: 400 Anilliad III h
+        temperature: 129 K<br />(-145 °C)
+      - name: 400 Anilliad III g
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 1,012,778,335 km<br />
@@ -536,15 +516,15 @@ planets:
         radius: 71,123.2 km<br/>(11.164 Yrths)
         surface_area: 6.357 × 10<sup>10</sup> km<sup>2</sup><br/>(124.626 Yrths)
         volume: 1.507 × 10<sup>15</sup> km<sup>3</sup><br/>(1391.270 Yrths)
-        mass: 3.398 × 10<sup>27</sup> kg<br />(134.72257550350164 Yrths)
+        mass: 3.398 × 10<sup>27</sup> kg<br />(568.957 Yrths)
         density: 2.255 g/cm<sup>3</sup>
         surface_gravity: 44.771 m/s<sup>2</sup><br />(4.565 g<sub>0</sub>)
         escape_velocity: 79.857 km/s<br />(287,484 km/h)
         rotation_period: 52.675 d
         axial_tilt: 19.62°
         albedo: 0.30
-        temperature: 91 K<br />(-182 °C)
-      - name: 400 Anilliad III i
+        temperature: 129 K<br />(-145 °C)
+      - name: 400 Anilliad III h
         type: Icy
         formationType: Impact formed
         aphelion: 2,846,008,217 km<br />
@@ -556,15 +536,15 @@ planets:
         radius: 125,090.9 km<br/>(19.634 Yrths)
         surface_area: 1.966 × 10<sup>11</sup> km<sup>2</sup><br/>(385.510 Yrths)
         volume: 8.199 × 10<sup>15</sup> km<sup>3</sup><br/>(7569.267 Yrths)
-        mass: 1.203 × 10<sup>28</sup> kg<br />(134.72257550350164 Yrths)
+        mass: 1.203 × 10<sup>28</sup> kg<br />(2014.095 Yrths)
         density: 1.467 g/cm<sup>3</sup>
         surface_gravity: 51.235 m/s<sup>2</sup><br />(5.224 g<sub>0</sub>)
         escape_velocity: 113.293 km/s<br />(407,857 km/h)
         rotation_period: 60.346 d
         axial_tilt: 22.28°
         albedo: 0.30
-        temperature: 59 K<br />(-214 °C)
-      - name: 400 Anilliad III j
+        temperature: 129 K<br />(-145 °C)
+      - name: 400 Anilliad III i
         type: Icy
         formationType: Captured
         aphelion: 4,317,798,044 km<br />
@@ -576,14 +556,14 @@ planets:
         radius: 99,066.0 km<br/>(15.550 Yrths)
         surface_area: 1.233 × 10<sup>11</sup> km<sup>2</sup><br/>(241.788 Yrths)
         volume: 4.073 × 10<sup>15</sup> km<sup>3</sup><br/>(3759.680 Yrths)
-        mass: 2.851 × 10<sup>27</sup> kg<br />(134.72257550350164 Yrths)
+        mass: 2.851 × 10<sup>27</sup> kg<br />(477.354 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 19.361 m/s<sup>2</sup><br />(1.974 g<sub>0</sub>)
         escape_velocity: 61.978 km/s<br />(223,120 km/h)
         rotation_period: 78.260 d
         axial_tilt: 11.75°
         albedo: 0.30
-        temperature: 47 K<br />(-226 °C)
+        temperature: 129 K<br />(-145 °C)
   - name: 400 Anilliad IV
     type: Terrestrial
     aphelion: 868,289,304 km<br />5.804 AU
@@ -595,7 +575,7 @@ planets:
     radius: 4,228.6 km<br/>(0.664 Yrths)
     surface_area: 2.247 × 10<sup>08</sup> km<sup>2</sup><br/>(0.441 Yrths)
     volume: 3.167 × 10<sup>11</sup> km<sup>3</sup><br/>(0.292 Yrths)
-    mass: 1.837 × 10<sup>24</sup> kg<br />(0.30768349397773886 Yrths)
+    mass: 1.837 × 10<sup>24</sup> kg<br />(0.31 Yrths)
     density: 5.801 g/cm<sup>3</sup>
     surface_gravity: 6.849 m/s<sup>2</sup><br />(0.698 g<sub>0</sub>)
     escape_velocity: 7.616 km/s<br />(27,418 km/h)
@@ -616,12 +596,12 @@ planets:
         radius: 1,263.8 km<br/>(0.198 Yrths)
         surface_area: 2.007 × 10<sup>07</sup> km<sup>2</sup><br/>(0.039 Yrths)
         volume: 8.456 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 2.689 × 10<sup>22</sup> kg<br />(0.30768349397773886 Yrths)
+        mass: 2.689 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 3.180 g/cm<sup>3</sup>
         surface_gravity: 1.122 m/s<sup>2</sup><br />(0.114 g<sub>0</sub>)
         escape_velocity: 1.685 km/s<br />(6,067 km/h)
         rotation_period: 49.563 d
         axial_tilt: 17.50°
         albedo: 0.30
-        temperature: 1693 K<br />(1420 °C)
+        temperature: 97 K<br />(-176 °C)
 ---

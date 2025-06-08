@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2335 Narashiad is a star in the constellation Naras
+      2335 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 871.69 ly
 apparent_magnitude: 12.29
 absolute_magnitude: 5.15

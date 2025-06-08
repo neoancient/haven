@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      768 Niniunniad A is a star in the constellation Niniun
+      768 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 406.75 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 2.36

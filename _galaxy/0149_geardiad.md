@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0149 Geardiad is a star in the constellation Geard
+      0149 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 149.48 ly
 apparent_magnitude: 6.34
 absolute_magnitude: 3.03
@@ -31,7 +31,7 @@ planets:
     radius: 7,795.7 km<br/>(1.224 Yrths)
     surface_area: 7.637 × 10<sup>08</sup> km<sup>2</sup><br/>(1.497 Yrths)
     volume: 1.984 × 10<sup>12</sup> km<sup>3</sup><br/>(1.832 Yrths)
-    mass: 1.003 × 10<sup>25</sup> kg<br />(1.6800078582002007 Yrths)
+    mass: 1.003 × 10<sup>25</sup> kg<br />(1.68 Yrths)
     density: 5.056 g/cm<sup>3</sup>
     surface_gravity: 11.004 m/s<sup>2</sup><br />(1.122 g<sub>0</sub>)
     escape_velocity: 13.107 km/s<br />(47,186 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 3,153.7 km<br/>(0.495 Yrths)
         surface_area: 1.250 × 10<sup>08</sup> km<sup>2</sup><br/>(0.245 Yrths)
         volume: 1.314 × 10<sup>11</sup> km<sup>3</sup><br/>(0.121 Yrths)
-        mass: 3.901 × 10<sup>23</sup> kg<br />(1.6800078582002007 Yrths)
+        mass: 3.901 × 10<sup>23</sup> kg<br />(0.065 Yrths)
         density: 2.969 g/cm<sup>3</sup>
         surface_gravity: 2.614 m/s<sup>2</sup><br />(0.267 g<sub>0</sub>)
         escape_velocity: 4.063 km/s<br />(14,627 km/h)
         rotation_period: 30.050 d
         axial_tilt: 22.85°
         albedo: 0.30
-        temperature: 5031 K<br />(4758 °C)
+        temperature: 362 K<br />(89 °C)
   - name: 0149 Geardiad II
     type: Large terrestrial
     aphelion: 342,685,367 km<br />2.291 AU
@@ -71,14 +71,14 @@ planets:
     radius: 11,091.6 km<br/>(1.741 Yrths)
     surface_area: 1.546 × 10<sup>09</sup> km<sup>2</sup><br/>(3.031 Yrths)
     volume: 5.716 × 10<sup>12</sup> km<sup>3</sup><br/>(5.277 Yrths)
-    mass: 3.290 × 10<sup>25</sup> kg<br />(5.509395509089409 Yrths)
+    mass: 3.290 × 10<sup>25</sup> kg<br />(5.51 Yrths)
     density: 5.756 g/cm<sup>3</sup>
     surface_gravity: 17.826 m/s<sup>2</sup><br />(1.818 g<sub>0</sub>)
     escape_velocity: 19.899 km/s<br />(71,637 km/h)
     rotation_period: 0.596 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 413 K<br />(140 °C)
+    temperature: 514 K<br />(240 °C)
     surface_pressure: 2,841 kPa<br />(28 atm)
     composition:
       - 82.9883% nitrogen
@@ -97,14 +97,14 @@ planets:
         radius: 3,109.3 km<br/>(0.488 Yrths)
         surface_area: 1.215 × 10<sup>08</sup> km<sup>2</sup><br/>(0.238 Yrths)
         volume: 1.259 × 10<sup>11</sup> km<sup>3</sup><br/>(0.116 Yrths)
-        mass: 2.950 × 10<sup>23</sup> kg<br />(5.509395509089409 Yrths)
+        mass: 2.950 × 10<sup>23</sup> kg<br />(0.049 Yrths)
         density: 2.343 g/cm<sup>3</sup>
         surface_gravity: 2.034 m/s<sup>2</sup><br />(0.207 g<sub>0</sub>)
         escape_velocity: 3.559 km/s<br />(12,812 km/h)
         rotation_period: 37.543 d
         axial_tilt: 21.66°
         albedo: 0.30
-        temperature: 3218 K<br />(2945 °C)
+        temperature: 269 K<br />(-5 °C)
       - name: 0149 Geardiad II b
         type: Rocky
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 1,623.7 km<br/>(0.255 Yrths)
         surface_area: 3.313 × 10<sup>07</sup> km<sup>2</sup><br/>(0.065 Yrths)
         volume: 1.793 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 4.453 × 10<sup>22</sup> kg<br />(5.509395509089409 Yrths)
+        mass: 4.453 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 2.483 g/cm<sup>3</sup>
         surface_gravity: 1.126 m/s<sup>2</sup><br />(0.115 g<sub>0</sub>)
         escape_velocity: 1.913 km/s<br />(6,888 km/h)
         rotation_period: 48.758 d
         axial_tilt: 12.80°
         albedo: 0.30
-        temperature: 3068 K<br />(2795 °C)
+        temperature: 269 K<br />(-5 °C)
       - name: 0149 Geardiad II c
         type: Rocky
         formationType: Impact formed
@@ -137,14 +137,14 @@ planets:
         radius: 8,337.1 km<br/>(1.309 Yrths)
         surface_area: 8.734 × 10<sup>08</sup> km<sup>2</sup><br/>(1.712 Yrths)
         volume: 2.427 × 10<sup>12</sup> km<sup>3</sup><br/>(2.241 Yrths)
-        mass: 6.938 × 10<sup>24</sup> kg<br />(5.509395509089409 Yrths)
+        mass: 6.938 × 10<sup>24</sup> kg<br />(1.162 Yrths)
         density: 2.858 g/cm<sup>3</sup>
         surface_gravity: 6.653 m/s<sup>2</sup><br />(0.678 g<sub>0</sub>)
         escape_velocity: 10.540 km/s<br />(37,943 km/h)
         rotation_period: 57.152 d
         axial_tilt: 11.53°
         albedo: 0.30
-        temperature: 2925 K<br />(2652 °C)
+        temperature: 269 K<br />(-5 °C)
   - name: 0149 Geardiad III
     type: Gas giant
     aphelion: 607,150,702 km<br />4.058 AU
@@ -156,14 +156,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.553 g/cm<sup>3</sup>
     surface_gravity: 31873.847 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 727 K<br />(454 °C)
+    temperature: 693 K<br />(420 °C)
     composition:
       - 65.5067% hydrogen
       - 32.0420% helium
@@ -182,14 +182,14 @@ planets:
         radius: 796.3 km<br/>(0.125 Yrths)
         surface_area: 7.968 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.115 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.954 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.954 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.870 g/cm<sup>3</sup>
         surface_gravity: 0.416 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.814 km/s<br />(2,931 km/h)
         rotation_period: 44.420 d
         axial_tilt: 17.69°
         albedo: 0.30
-        temperature: 4034 K<br />(3761 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 0149 Geardiad III b
         type: Icy
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 765.4 km<br/>(0.120 Yrths)
         surface_area: 7.362 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.878 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.945 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.945 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.036 g/cm<sup>3</sup>
         surface_gravity: 0.221 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.582 km/s<br />(2,097 km/h)
         rotation_period: 66.490 d
         axial_tilt: 16.17°
         albedo: 0.30
-        temperature: 3496 K<br />(3223 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 0149 Geardiad III c
         type: Icy
         formationType: Accreted
@@ -222,14 +222,14 @@ planets:
         radius: 1,029.4 km<br/>(0.162 Yrths)
         surface_area: 1.332 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.569 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.963 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.963 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.086 g/cm<sup>3</sup>
         surface_gravity: 0.312 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.802 km/s<br />(2,888 km/h)
         rotation_period: 66.166 d
         axial_tilt: 21.15°
         albedo: 0.30
-        temperature: 2755 K<br />(2482 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 0149 Geardiad III d
         type: Asteroid
         formationType: Captured
@@ -242,14 +242,14 @@ planets:
         radius: 610.6 km<br/>(0.096 Yrths)
         surface_area: 4.686 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.538 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.812 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.812 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 0.324 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.629 km/s<br />(2,266 km/h)
         rotation_period: 39.668 d
         axial_tilt: 42.79°
         albedo: 0.30
-        temperature: 2388 K<br />(2115 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 0149 Geardiad III e
         type: Icy
         formationType: Impact formed
@@ -262,14 +262,14 @@ planets:
         radius: 752.5 km<br/>(0.118 Yrths)
         surface_area: 7.116 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.785 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.749 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.749 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.980 g/cm<sup>3</sup>
         surface_gravity: 0.206 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.557 km/s<br />(2,005 km/h)
         rotation_period: 51.352 d
         axial_tilt: 26.88°
         albedo: 0.30
-        temperature: 1882 K<br />(1609 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 0149 Geardiad III f
         type: Icy
         formationType: Accreted
@@ -282,14 +282,14 @@ planets:
         radius: 649.9 km<br/>(0.102 Yrths)
         surface_area: 5.308 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.150 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.547 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.547 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.345 g/cm<sup>3</sup>
         surface_gravity: 0.244 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.564 km/s<br />(2,029 km/h)
         rotation_period: 56.119 d
         axial_tilt: 12.48°
         albedo: 0.30
-        temperature: 1711 K<br />(1438 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 0149 Geardiad III g
         type: Icy
         formationType: Accreted
@@ -302,14 +302,14 @@ planets:
         radius: 747.7 km<br/>(0.117 Yrths)
         surface_area: 7.025 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.751 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.378 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.378 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.358 g/cm<sup>3</sup>
         surface_gravity: 0.284 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.652 km/s<br />(2,346 km/h)
         rotation_period: 61.827 d
         axial_tilt: 10.63°
         albedo: 0.30
-        temperature: 1631 K<br />(1358 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 0149 Geardiad III h
         type: Icy
         formationType: Impact formed
@@ -322,14 +322,14 @@ planets:
         radius: 1,060.4 km<br/>(0.166 Yrths)
         surface_area: 1.413 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 4.994 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 6.738 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.738 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.349 g/cm<sup>3</sup>
         surface_gravity: 0.399 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.921 km/s<br />(3,315 km/h)
         rotation_period: 74.248 d
         axial_tilt: 16.25°
         albedo: 0.30
-        temperature: 1285 K<br />(1012 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 0149 Geardiad III i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -342,14 +342,14 @@ planets:
         radius: 543.4 km<br/>(0.085 Yrths)
         surface_area: 3.711 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.722 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.493 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.493 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.222 g/cm<sup>3</sup>
         surface_gravity: 0.337 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.606 km/s<br />(2,180 km/h)
         rotation_period: 41.288 d
         axial_tilt: 25.51°
         albedo: 0.30
-        temperature: 966 K<br />(692 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 0149 Geardiad III j
         type: Icy
         formationType: Impact formed
@@ -362,12 +362,12 @@ planets:
         radius: 998.2 km<br/>(0.157 Yrths)
         surface_area: 1.252 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.166 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 7.380 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.380 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.771 g/cm<sup>3</sup>
         surface_gravity: 0.494 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
         escape_velocity: 0.993 km/s<br />(3,576 km/h)
         rotation_period: 63.852 d
         axial_tilt: 21.13°
         albedo: 0.30
-        temperature: 837 K<br />(564 °C)
+        temperature: 199 K<br />(-74 °C)
 ---

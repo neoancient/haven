@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rarniad Shunai A is a star in the constellation Swither
+      Rarniad Shunai A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 302.02 ly
 apparent_magnitude: 2.56
 absolute_magnitude: -2.27

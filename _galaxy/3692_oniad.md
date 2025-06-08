@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3692 Oniad is a star in the constellation Oni
+      3692 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 242.33 ly
 apparent_magnitude: 9.19
 absolute_magnitude: 4.83

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13062 Tanashad is a star in the constellation Tanas
+      13062 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 436.93 ly
 apparent_magnitude: 11.84
 absolute_magnitude: 6.20

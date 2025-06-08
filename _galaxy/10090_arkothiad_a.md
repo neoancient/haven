@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10090 Arkothiad A is a star in the constellation Arkoth
+      10090 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 169.28 ly
 apparent_magnitude: 9.15
 absolute_magnitude: 5.57

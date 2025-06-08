@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7919 Tanashad is a star in the constellation Tanas
+      7919 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 249.55 ly
 apparent_magnitude: 10.74
 absolute_magnitude: 6.32

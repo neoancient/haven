@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      924 Geardiad is a star in the constellation Geard
+      924 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 545.22 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 4.95

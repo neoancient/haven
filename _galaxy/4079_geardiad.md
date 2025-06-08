@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4079 Geardiad is a star in the constellation Geard
+      4079 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 125.63 ly
 apparent_magnitude: 7.42
 absolute_magnitude: 4.50

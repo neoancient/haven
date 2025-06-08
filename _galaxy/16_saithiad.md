@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16 Saithiad is a star in the constellation Saith
+      16 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 233.21 ly
 apparent_magnitude: 9.66
 absolute_magnitude: 5.39

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tispu A is a star in the constellation Shannias
+      Tispu A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 374.61 ly
 apparent_magnitude: 2.29
 absolute_magnitude: -3.01

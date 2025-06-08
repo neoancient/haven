@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11714 Arkothiad A is a star in the constellation Arkoth
+      11714 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 501.72 ly
 apparent_magnitude: 8.07
 absolute_magnitude: 2.13

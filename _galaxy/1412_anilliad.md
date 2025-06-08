@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1412 Anilliad is a star in the constellation Anil
+      1412 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 442.73 ly
 apparent_magnitude: 12.03
 absolute_magnitude: 6.37

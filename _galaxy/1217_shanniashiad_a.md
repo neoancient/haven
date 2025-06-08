@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1217 Shanniashiad A is a star in the constellation Shannias
+      1217 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 547.60 ly
 apparent_magnitude: 8.10
 absolute_magnitude: 1.97

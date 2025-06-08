@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Orra B is a star in the constellation Emnia
+      Orra B is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 304.94 ly
 apparent_magnitude: 7.13
 absolute_magnitude: 2.28

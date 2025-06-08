@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1901 Oniad is a star in the constellation Oni
+      1901 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 423.36 ly
 apparent_magnitude: 8.58
 absolute_magnitude: 3.01

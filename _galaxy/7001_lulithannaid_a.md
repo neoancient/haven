@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7001 Lulithannaid A is a star in the constellation Lulithan
+      7001 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 499.72 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 2.12

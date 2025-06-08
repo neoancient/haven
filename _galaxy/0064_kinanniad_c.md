@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0064 Kinanniad C is a star in the constellation Kinan
+      0064 Kinanniad C is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 405.34 ly
 apparent_magnitude: 10.70
 absolute_magnitude: 5.22
@@ -31,14 +31,14 @@ planets:
     radius: 35,961.5 km<br/>(5.645 Yrths)
     surface_area: 1.625 × 10<sup>10</sup> km<sup>2</sup><br/>(31.861 Yrths)
     volume: 1.948 × 10<sup>14</sup> km<sup>3</sup><br/>(179.842 Yrths)
-    mass: 2.531 × 10<sup>26</sup> kg<br />(42.37322003141084 Yrths)
+    mass: 2.531 × 10<sup>26</sup> kg<br />(42.37 Yrths)
     density: 1.299 g/cm<sup>3</sup>
     surface_gravity: 13.042 m/s<sup>2</sup><br />(1.330 g<sub>0</sub>)
     escape_velocity: 30.648 km/s<br />(110,333 km/h)
     rotation_period: 0.644 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 390 K<br />(117 °C)
+    temperature: 347 K<br />(73 °C)
     composition:
       - 73.8722% hydrogen
       - 26.1278% helium
@@ -55,14 +55,14 @@ planets:
         radius: 55,456.0 km<br/>(8.704 Yrths)
         surface_area: 3.865 × 10<sup>10</sup> km<sup>2</sup><br/>(75.767 Yrths)
         volume: 7.144 × 10<sup>14</sup> km<sup>3</sup><br/>(659.512 Yrths)
-        mass: 1.143 × 10<sup>27</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 1.143 × 10<sup>27</sup> kg<br />(191.397 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 24.773 m/s<sup>2</sup><br />(2.526 g<sub>0</sub>)
         escape_velocity: 52.453 km/s<br />(188,831 km/h)
         rotation_period: 67.410 d
         axial_tilt: 24.35°
         albedo: 0.30
-        temperature: 1719 K<br />(1445 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0064 Kinanniad C I b
         type: Icy
         formationType: Captured
@@ -75,14 +75,14 @@ planets:
         radius: 29,710.7 km<br/>(4.663 Yrths)
         surface_area: 1.109 × 10<sup>10</sup> km<sup>2</sup><br/>(21.748 Yrths)
         volume: 1.099 × 10<sup>14</sup> km<sup>3</sup><br/>(101.418 Yrths)
-        mass: 1.704 × 10<sup>26</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 1.704 × 10<sup>26</sup> kg<br />(28.540 Yrths)
         density: 1.551 g/cm<sup>3</sup>
         surface_gravity: 12.870 m/s<sup>2</sup><br />(1.312 g<sub>0</sub>)
         escape_velocity: 27.673 km/s<br />(99,621 km/h)
         rotation_period: 50.433 d
         axial_tilt: 13.44°
         albedo: 0.30
-        temperature: 1639 K<br />(1366 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0064 Kinanniad C I c
         type: Rocky
         formationType: Accreted
@@ -95,14 +95,14 @@ planets:
         radius: 21,451.7 km<br/>(3.367 Yrths)
         surface_area: 5.783 × 10<sup>09</sup> km<sup>2</sup><br/>(11.337 Yrths)
         volume: 4.135 × 10<sup>13</sup> km<sup>3</sup><br/>(38.174 Yrths)
-        mass: 1.303 × 10<sup>26</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 1.303 × 10<sup>26</sup> kg<br />(21.814 Yrths)
         density: 3.151 g/cm<sup>3</sup>
         surface_gravity: 18.869 m/s<sup>2</sup><br />(1.924 g<sub>0</sub>)
         escape_velocity: 28.472 km/s<br />(102,499 km/h)
         rotation_period: 48.472 d
         axial_tilt: 15.14°
         albedo: 0.30
-        temperature: 1562 K<br />(1289 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0064 Kinanniad C I d
         type: Icy
         formationType: Accreted
@@ -115,14 +115,14 @@ planets:
         radius: 26,437.2 km<br/>(4.150 Yrths)
         surface_area: 8.783 × 10<sup>09</sup> km<sup>2</sup><br/>(17.219 Yrths)
         volume: 7.740 × 10<sup>13</sup> km<sup>3</sup><br/>(71.453 Yrths)
-        mass: 1.197 × 10<sup>26</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 1.197 × 10<sup>26</sup> kg<br />(20.036 Yrths)
         density: 1.546 g/cm<sup>3</sup>
         surface_gravity: 11.411 m/s<sup>2</sup><br />(1.164 g<sub>0</sub>)
         escape_velocity: 24.579 km/s<br />(88,486 km/h)
         rotation_period: 49.832 d
         axial_tilt: 11.40°
         albedo: 0.30
-        temperature: 1490 K<br />(1217 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0064 Kinanniad C I e
         type: Rocky
         formationType: Accreted
@@ -135,14 +135,14 @@ planets:
         radius: 25,263.3 km<br/>(3.965 Yrths)
         surface_area: 8.020 × 10<sup>09</sup> km<sup>2</sup><br/>(15.724 Yrths)
         volume: 6.754 × 10<sup>13</sup> km<sup>3</sup><br/>(62.351 Yrths)
-        mass: 1.855 × 10<sup>26</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 1.855 × 10<sup>26</sup> kg<br />(31.066 Yrths)
         density: 2.747 g/cm<sup>3</sup>
         surface_gravity: 19.375 m/s<sup>2</sup><br />(1.976 g<sub>0</sub>)
         escape_velocity: 31.310 km/s<br />(112,715 km/h)
         rotation_period: 41.994 d
         axial_tilt: 18.27°
         albedo: 0.30
-        temperature: 1420 K<br />(1147 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0064 Kinanniad C I f
         type: Icy
         formationType: Impact formed
@@ -155,14 +155,14 @@ planets:
         radius: 52,894.6 km<br/>(8.302 Yrths)
         surface_area: 3.516 × 10<sup>10</sup> km<sup>2</sup><br/>(68.930 Yrths)
         volume: 6.199 × 10<sup>14</sup> km<sup>3</sup><br/>(572.282 Yrths)
-        mass: 1.097 × 10<sup>27</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 1.097 × 10<sup>27</sup> kg<br />(183.669 Yrths)
         density: 1.769 g/cm<sup>3</sup>
         surface_gravity: 26.131 m/s<sup>2</sup><br />(2.665 g<sub>0</sub>)
         escape_velocity: 52.613 km/s<br />(189,405 km/h)
         rotation_period: 65.462 d
         axial_tilt: 11.67°
         albedo: 0.30
-        temperature: 1354 K<br />(1081 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0064 Kinanniad C I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -175,14 +175,14 @@ planets:
         radius: 24,590.9 km<br/>(3.860 Yrths)
         surface_area: 7.599 × 10<sup>09</sup> km<sup>2</sup><br/>(14.898 Yrths)
         volume: 6.229 × 10<sup>13</sup> km<sup>3</sup><br/>(57.504 Yrths)
-        mass: 1.164 × 10<sup>26</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 1.164 × 10<sup>26</sup> kg<br />(19.483 Yrths)
         density: 1.868 g/cm<sup>3</sup>
         surface_gravity: 12.824 m/s<sup>2</sup><br />(1.308 g<sub>0</sub>)
         escape_velocity: 25.131 km/s<br />(90,473 km/h)
         rotation_period: 43.530 d
         axial_tilt: 10.65°
         albedo: 0.30
-        temperature: 1291 K<br />(1018 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0064 Kinanniad C I h
         type: Rocky
         formationType: Accreted
@@ -195,14 +195,14 @@ planets:
         radius: 33,259.6 km<br/>(5.220 Yrths)
         surface_area: 1.390 × 10<sup>10</sup> km<sup>2</sup><br/>(27.253 Yrths)
         volume: 1.541 × 10<sup>14</sup> km<sup>3</sup><br/>(142.275 Yrths)
-        mass: 4.407 × 10<sup>26</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 4.407 × 10<sup>26</sup> kg<br />(73.791 Yrths)
         density: 2.859 g/cm<sup>3</sup>
         surface_gravity: 26.553 m/s<sup>2</sup><br />(2.708 g<sub>0</sub>)
         escape_velocity: 42.055 km/s<br />(151,399 km/h)
         rotation_period: 37.346 d
         axial_tilt: 20.30°
         albedo: 0.30
-        temperature: 1231 K<br />(958 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0064 Kinanniad C I i
         type: Ice/rock hybrid
         formationType: Captured
@@ -215,14 +215,14 @@ planets:
         radius: 34,436.9 km<br/>(5.405 Yrths)
         surface_area: 1.490 × 10<sup>10</sup> km<sup>2</sup><br/>(29.217 Yrths)
         volume: 1.711 × 10<sup>14</sup> km<sup>3</sup><br/>(157.924 Yrths)
-        mass: 4.528 × 10<sup>26</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 4.528 × 10<sup>26</sup> kg<br />(75.829 Yrths)
         density: 2.647 g/cm<sup>3</sup>
         surface_gravity: 25.452 m/s<sup>2</sup><br />(2.595 g<sub>0</sub>)
         escape_velocity: 41.897 km/s<br />(150,829 km/h)
         rotation_period: 51.026 d
         axial_tilt: 21.92°
         albedo: 0.30
-        temperature: 1119 K<br />(846 °C)
+        temperature: 237 K<br />(-36 °C)
       - name: 0064 Kinanniad C I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -235,14 +235,14 @@ planets:
         radius: 25,951.1 km<br/>(4.073 Yrths)
         surface_area: 8.463 × 10<sup>09</sup> km<sup>2</sup><br/>(16.592 Yrths)
         volume: 7.321 × 10<sup>13</sup> km<sup>3</sup><br/>(67.584 Yrths)
-        mass: 1.579 × 10<sup>26</sup> kg<br />(42.37322003141084 Yrths)
+        mass: 1.579 × 10<sup>26</sup> kg<br />(26.448 Yrths)
         density: 2.158 g/cm<sup>3</sup>
         surface_gravity: 15.632 m/s<sup>2</sup><br />(1.594 g<sub>0</sub>)
         escape_velocity: 28.503 km/s<br />(102,612 km/h)
         rotation_period: 35.360 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 1067 K<br />(794 °C)
+        temperature: 237 K<br />(-36 °C)
   - name: 0064 Kinanniad C II
     type: Terrestrial
     aphelion: 420,524,572 km<br />2.811 AU
@@ -254,14 +254,14 @@ planets:
     radius: 5,652.1 km<br/>(0.887 Yrths)
     surface_area: 4.014 × 10<sup>08</sup> km<sup>2</sup><br/>(0.787 Yrths)
     volume: 7.563 × 10<sup>11</sup> km<sup>3</sup><br/>(0.698 Yrths)
-    mass: 4.552 × 10<sup>24</sup> kg<br />(0.7622142777576886 Yrths)
+    mass: 4.552 × 10<sup>24</sup> kg<br />(0.76 Yrths)
     density: 6.018 g/cm<sup>3</sup>
     surface_gravity: 9.497 m/s<sup>2</sup><br />(0.968 g<sub>0</sub>)
     escape_velocity: 10.368 km/s<br />(37,326 km/h)
     rotation_period: 1.234 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 250 K<br />(-23 °C)
+    temperature: 660 K<br />(386 °C)
     surface_pressure: 29 kPa<br />(0 atm)
     composition:
       - 77.1278% carbon dioxide
@@ -281,14 +281,14 @@ planets:
         radius: 3,781.1 km<br/>(0.593 Yrths)
         surface_area: 1.797 × 10<sup>08</sup> km<sup>2</sup><br/>(0.352 Yrths)
         volume: 2.264 × 10<sup>11</sup> km<sup>3</sup><br/>(0.209 Yrths)
-        mass: 1.994 × 10<sup>23</sup> kg<br />(0.7622142777576886 Yrths)
+        mass: 1.994 × 10<sup>23</sup> kg<br />(0.033 Yrths)
         density: 0.881 g/cm<sup>3</sup>
         surface_gravity: 0.930 m/s<sup>2</sup><br />(0.095 g<sub>0</sub>)
         escape_velocity: 2.653 km/s<br />(9,552 km/h)
         rotation_period: 80.927 d
         axial_tilt: 23.55°
         albedo: 0.30
-        temperature: 3486 K<br />(3213 °C)
+        temperature: 177 K<br />(-97 °C)
       - name: 0064 Kinanniad C II b
         type: Asteroid
         formationType: Captured
@@ -301,12 +301,12 @@ planets:
         radius: 946.4 km<br/>(0.149 Yrths)
         surface_area: 1.126 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.551 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 1.148 × 10<sup>22</sup> kg<br />(0.7622142777576886 Yrths)
+        mass: 1.148 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 3.234 g/cm<sup>3</sup>
         surface_gravity: 0.855 m/s<sup>2</sup><br />(0.087 g<sub>0</sub>)
         escape_velocity: 1.273 km/s<br />(4,582 km/h)
         rotation_period: 28.992 d
         axial_tilt: 18.33°
         albedo: 0.30
-        temperature: 3324 K<br />(3050 °C)
+        temperature: 177 K<br />(-97 °C)
 ---

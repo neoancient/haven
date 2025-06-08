@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1113 Reggiad is a star in the constellation Reg
+      1113 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 366.67 ly
 apparent_magnitude: 10.22
 absolute_magnitude: 4.96

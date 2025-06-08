@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ι Nuariad C is a star in the constellation Nuari
+      ι Nuariad C is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 1188.44 ly
 apparent_magnitude: 13.11
 absolute_magnitude: 5.31
@@ -31,14 +31,14 @@ planets:
     radius: 11,482.4 km<br/>(1.802 Yrths)
     surface_area: 1.657 × 10<sup>09</sup> km<sup>2</sup><br/>(3.248 Yrths)
     volume: 6.341 × 10<sup>12</sup> km<sup>3</sup><br/>(5.854 Yrths)
-    mass: 3.811 × 10<sup>25</sup> kg<br />(6.38144188625472 Yrths)
+    mass: 3.811 × 10<sup>25</sup> kg<br />(6.38 Yrths)
     density: 6.010 g/cm<sup>3</sup>
     surface_gravity: 19.266 m/s<sup>2</sup><br />(1.965 g<sub>0</sub>)
     escape_velocity: 21.048 km/s<br />(75,774 km/h)
     rotation_period: 0.917 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 277 K<br />(4 °C)
+    temperature: 254 K<br />(-19 °C)
     surface_pressure: 80 kPa<br />(1 atm)
     composition:
       - 90.1885% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 11,163.3 km<br/>(1.752 Yrths)
         surface_area: 1.566 × 10<sup>09</sup> km<sup>2</sup><br/>(3.070 Yrths)
         volume: 5.827 × 10<sup>12</sup> km<sup>3</sup><br/>(5.380 Yrths)
-        mass: 1.924 × 10<sup>25</sup> kg<br />(6.38144188625472 Yrths)
+        mass: 1.924 × 10<sup>25</sup> kg<br />(3.222 Yrths)
         density: 3.302 g/cm<sup>3</sup>
         surface_gravity: 10.292 m/s<sup>2</sup><br />(1.050 g<sub>0</sub>)
         escape_velocity: 15.169 km/s<br />(54,609 km/h)
         rotation_period: 45.211 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 2609 K<br />(2336 °C)
+        temperature: 236 K<br />(-37 °C)
       - name: ι Nuariad C I b
         type: Rocky
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 7,592.1 km<br/>(1.192 Yrths)
         surface_area: 7.243 × 10<sup>08</sup> km<sup>2</sup><br/>(1.420 Yrths)
         volume: 1.833 × 10<sup>12</sup> km<sup>3</sup><br/>(1.692 Yrths)
-        mass: 5.901 × 10<sup>24</sup> kg<br />(6.38144188625472 Yrths)
+        mass: 5.901 × 10<sup>24</sup> kg<br />(0.988 Yrths)
         density: 3.219 g/cm<sup>3</sup>
         surface_gravity: 6.824 m/s<sup>2</sup><br />(0.696 g<sub>0</sub>)
         escape_velocity: 10.186 km/s<br />(36,671 km/h)
         rotation_period: 38.091 d
         axial_tilt: 18.03°
         albedo: 0.30
-        temperature: 2488 K<br />(2215 °C)
+        temperature: 236 K<br />(-37 °C)
       - name: ι Nuariad C I c
         type: Icy
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 6,081.9 km<br/>(0.955 Yrths)
         surface_area: 4.648 × 10<sup>08</sup> km<sup>2</sup><br/>(0.911 Yrths)
         volume: 9.423 × 10<sup>11</sup> km<sup>3</sup><br/>(0.870 Yrths)
-        mass: 1.223 × 10<sup>24</sup> kg<br />(6.38144188625472 Yrths)
+        mass: 1.223 × 10<sup>24</sup> kg<br />(0.205 Yrths)
         density: 1.298 g/cm<sup>3</sup>
         surface_gravity: 2.204 m/s<sup>2</sup><br />(0.225 g<sub>0</sub>)
         escape_velocity: 5.181 km/s<br />(18,652 km/h)
         rotation_period: 48.767 d
         axial_tilt: 15.90°
         albedo: 0.30
-        temperature: 2372 K<br />(2099 °C)
+        temperature: 236 K<br />(-37 °C)
   - name: ι Nuariad C II
     type: Terrestrial
     aphelion: 432,355,200 km<br />2.890 AU
@@ -116,14 +116,14 @@ planets:
     radius: 7,169.3 km<br/>(1.125 Yrths)
     surface_area: 6.459 × 10<sup>08</sup> km<sup>2</sup><br/>(1.266 Yrths)
     volume: 1.544 × 10<sup>12</sup> km<sup>3</sup><br/>(1.425 Yrths)
-    mass: 8.166 × 10<sup>24</sup> kg<br />(1.3673742514200096 Yrths)
+    mass: 8.166 × 10<sup>24</sup> kg<br />(1.37 Yrths)
     density: 5.290 g/cm<sup>3</sup>
     surface_gravity: 10.589 m/s<sup>2</sup><br />(1.080 g<sub>0</sub>)
     escape_velocity: 12.331 km/s<br />(44,390 km/h)
     rotation_period: 1.018 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 231 K<br />(-42 °C)
+    temperature: 509 K<br />(235 °C)
     surface_pressure: 26 kPa<br />(0 atm)
     composition:
       - 54.3246% carbon dioxide
@@ -143,14 +143,14 @@ planets:
         radius: 3,936.6 km<br/>(0.618 Yrths)
         surface_area: 1.947 × 10<sup>08</sup> km<sup>2</sup><br/>(0.382 Yrths)
         volume: 2.555 × 10<sup>11</sup> km<sup>3</sup><br/>(0.236 Yrths)
-        mass: 5.699 × 10<sup>23</sup> kg<br />(1.3673742514200096 Yrths)
+        mass: 5.699 × 10<sup>23</sup> kg<br />(0.095 Yrths)
         density: 2.230 g/cm<sup>3</sup>
         surface_gravity: 2.451 m/s<sup>2</sup><br />(0.250 g<sub>0</sub>)
         escape_velocity: 4.396 km/s<br />(15,826 km/h)
         rotation_period: 51.804 d
         axial_tilt: 26.33°
         albedo: 0.30
-        temperature: 2961 K<br />(2688 °C)
+        temperature: 176 K<br />(-97 °C)
       - name: ι Nuariad C II b
         type: Asteroid
         formationType: Captured
@@ -163,12 +163,12 @@ planets:
         radius: 1,534.1 km<br/>(0.241 Yrths)
         surface_area: 2.957 × 10<sup>07</sup> km<sup>2</sup><br/>(0.058 Yrths)
         volume: 1.512 × 10<sup>10</sup> km<sup>3</sup><br/>(0.014 Yrths)
-        mass: 3.158 × 10<sup>22</sup> kg<br />(1.3673742514200096 Yrths)
+        mass: 3.158 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.088 g/cm<sup>3</sup>
         surface_gravity: 0.894 m/s<sup>2</sup><br />(0.091 g<sub>0</sub>)
         escape_velocity: 1.658 km/s<br />(5,967 km/h)
         rotation_period: 67.737 d
         axial_tilt: 44.97°
         albedo: 0.30
-        temperature: 2823 K<br />(2550 °C)
+        temperature: 176 K<br />(-97 °C)
 ---

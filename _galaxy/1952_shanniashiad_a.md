@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1952 Shanniashiad A is a star in the constellation Shannias
+      1952 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1225.92 ly
 apparent_magnitude: 6.74
 absolute_magnitude: -1.13

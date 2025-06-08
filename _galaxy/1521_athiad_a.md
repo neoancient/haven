@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1521 Athiad A is a star in the constellation Ath
+      1521 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 235.00 ly
 apparent_magnitude: 7.10
 absolute_magnitude: 2.81

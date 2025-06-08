@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4803 Arkothiad is a star in the constellation Arkoth
+      4803 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 403.84 ly
 apparent_magnitude: 15.33
 absolute_magnitude: 9.86

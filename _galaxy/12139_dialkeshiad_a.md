@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12139 Dialkeshiad A is a star in the constellation Dialkes
+      12139 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 408.65 ly
 apparent_magnitude: 8.81
 absolute_magnitude: 3.32

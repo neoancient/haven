@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0415 Tanashad B is a star in the constellation Tanas
+      0415 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 408.50 ly
 apparent_magnitude: 10.13
 absolute_magnitude: 4.64

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      17688 Dialkeshiad is a star in the constellation Dialkes
+      17688 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 586.70 ly
 apparent_magnitude: 15.71
 absolute_magnitude: 9.43

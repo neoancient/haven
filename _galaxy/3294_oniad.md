@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3294 Oniad is a star in the constellation Oni
+      3294 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 525.38 ly
 apparent_magnitude: 9.95
 absolute_magnitude: 3.92

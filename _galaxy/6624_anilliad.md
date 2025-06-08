@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6624 Anilliad is a star in the constellation Anil
+      6624 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 152.53 ly
 apparent_magnitude: 9.02
 absolute_magnitude: 5.67
@@ -31,7 +31,7 @@ planets:
     radius: 200.9 km<br/>(0.032 Yrths)
     surface_area: 5.070 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.395 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.111 × 10<sup>27</sup> kg<br />(185.98475790474006 Yrths)
+    mass: 1.111 × 10<sup>27</sup> kg<br />(185.98 Yrths)
     density: 32717818.922 g/cm<sup>3</sup>
     surface_gravity: 1834835.384 m/s<sup>2</sup><br />(187101.139 g<sub>0</sub>)
     escape_velocity: 859.137 km/s<br />(3,092,893 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 132,861.9 km<br/>(20.854 Yrths)
         surface_area: 2.218 × 10<sup>11</sup> km<sup>2</sup><br/>(434.896 Yrths)
         volume: 9.824 × 10<sup>15</sup> km<sup>3</sup><br/>(9069.403 Yrths)
-        mass: 1.448 × 10<sup>28</sup> kg<br />(185.98475790474006 Yrths)
+        mass: 1.448 × 10<sup>28</sup> kg<br />(2425.219 Yrths)
         density: 1.474 g/cm<sup>3</sup>
         surface_gravity: 54.687 m/s<sup>2</sup><br />(5.577 g<sub>0</sub>)
         escape_velocity: 120.629 km/s<br />(434,266 km/h)
         rotation_period: 49.883 d
         axial_tilt: 9.26°
         albedo: 0.30
-        temperature: 1720 K<br />(1447 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 6624 Anilliad I b
         type: Icy
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 143,158.0 km<br/>(22.470 Yrths)
         surface_area: 2.575 × 10<sup>11</sup> km<sup>2</sup><br/>(504.912 Yrths)
         volume: 1.229 × 10<sup>16</sup> km<sup>3</sup><br/>(11345.508 Yrths)
-        mass: 1.919 × 10<sup>28</sup> kg<br />(185.98475790474006 Yrths)
+        mass: 1.919 × 10<sup>28</sup> kg<br />(3212.503 Yrths)
         density: 1.561 g/cm<sup>3</sup>
         surface_gravity: 62.395 m/s<sup>2</sup><br />(6.362 g<sub>0</sub>)
         escape_velocity: 133.749 km/s<br />(481,498 km/h)
         rotation_period: 44.082 d
         axial_tilt: 17.59°
         albedo: 0.30
-        temperature: 1564 K<br />(1291 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 6624 Anilliad I c
         type: Icy
         formationType: Impact formed
@@ -92,14 +92,14 @@ planets:
         radius: 132,744.9 km<br/>(20.836 Yrths)
         surface_area: 2.214 × 10<sup>11</sup> km<sup>2</sup><br/>(434.131 Yrths)
         volume: 9.798 × 10<sup>15</sup> km<sup>3</sup><br/>(9045.471 Yrths)
-        mass: 1.862 × 10<sup>28</sup> kg<br />(185.98475790474006 Yrths)
+        mass: 1.862 × 10<sup>28</sup> kg<br />(3117.284 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 70.417 m/s<sup>2</sup><br />(7.181 g<sub>0</sub>)
         escape_velocity: 136.822 km/s<br />(492,560 km/h)
         rotation_period: 68.061 d
         axial_tilt: 11.10°
         albedo: 0.30
-        temperature: 374 K<br />(101 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 6624 Anilliad I d
         type: Asteroid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 151,620.9 km<br/>(23.799 Yrths)
         surface_area: 2.889 × 10<sup>11</sup> km<sup>2</sup><br/>(566.374 Yrths)
         volume: 1.460 × 10<sup>16</sup> km<sup>3</sup><br/>(13478.902 Yrths)
-        mass: 3.830 × 10<sup>28</sup> kg<br />(185.98475790474006 Yrths)
+        mass: 3.830 × 10<sup>28</sup> kg<br />(6412.590 Yrths)
         density: 2.623 g/cm<sup>3</sup>
         surface_gravity: 111.033 m/s<sup>2</sup><br />(11.322 g<sub>0</sub>)
         escape_velocity: 183.618 km/s<br />(661,024 km/h)
         rotation_period: 32.494 d
         axial_tilt: 26.98°
         albedo: 0.30
-        temperature: 340 K<br />(67 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 6624 Anilliad I e
         type: Icy
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 131,646.5 km<br/>(20.663 Yrths)
         surface_area: 2.178 × 10<sup>11</sup> km<sup>2</sup><br/>(426.976 Yrths)
         volume: 9.557 × 10<sup>15</sup> km<sup>3</sup><br/>(8822.779 Yrths)
-        mass: 1.398 × 10<sup>28</sup> kg<br />(185.98475790474006 Yrths)
+        mass: 1.398 × 10<sup>28</sup> kg<br />(2340.187 Yrths)
         density: 1.462 g/cm<sup>3</sup>
         surface_gravity: 53.749 m/s<sup>2</sup><br />(5.481 g<sub>0</sub>)
         escape_velocity: 119.041 km/s<br />(428,549 km/h)
         rotation_period: 47.041 d
         axial_tilt: 20.05°
         albedo: 0.30
-        temperature: 167 K<br />(-107 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 6624 Anilliad II
     type: Terrestrial
     aphelion: 127,354,021 km<br />0.851 AU
@@ -151,14 +151,14 @@ planets:
     radius: 7,107.6 km<br/>(1.116 Yrths)
     surface_area: 6.348 × 10<sup>08</sup> km<sup>2</sup><br/>(1.245 Yrths)
     volume: 1.504 × 10<sup>12</sup> km<sup>3</sup><br/>(1.389 Yrths)
-    mass: 7.553 × 10<sup>24</sup> kg<br />(1.2646843185759002 Yrths)
+    mass: 7.553 × 10<sup>24</sup> kg<br />(1.26 Yrths)
     density: 5.022 g/cm<sup>3</sup>
     surface_gravity: 9.965 m/s<sup>2</sup><br />(1.016 g<sub>0</sub>)
     escape_velocity: 11.910 km/s<br />(42,876 km/h)
     rotation_period: 1.856 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 262 K<br />(-11 °C)
+    temperature: 257 K<br />(-16 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 85.1428% nitrogen
@@ -176,14 +176,14 @@ planets:
         radius: 3,286.0 km<br/>(0.516 Yrths)
         surface_area: 1.357 × 10<sup>08</sup> km<sup>2</sup><br/>(0.266 Yrths)
         volume: 1.486 × 10<sup>11</sup> km<sup>3</sup><br/>(0.137 Yrths)
-        mass: 4.918 × 10<sup>23</sup> kg<br />(1.2646843185759002 Yrths)
+        mass: 4.918 × 10<sup>23</sup> kg<br />(0.082 Yrths)
         density: 3.309 g/cm<sup>3</sup>
         surface_gravity: 3.036 m/s<sup>2</sup><br />(0.310 g<sub>0</sub>)
         escape_velocity: 4.470 km/s<br />(16,091 km/h)
         rotation_period: 32.872 d
         axial_tilt: 45.48°
         albedo: 0.30
-        temperature: 3201 K<br />(2928 °C)
+        temperature: 244 K<br />(-29 °C)
   - name: 6624 Anilliad III
     type: Large terrestrial
     aphelion: 211,351,368 km<br />1.413 AU
@@ -195,14 +195,14 @@ planets:
     radius: 9,307.5 km<br/>(1.461 Yrths)
     surface_area: 1.089 × 10<sup>09</sup> km<sup>2</sup><br/>(2.134 Yrths)
     volume: 3.377 × 10<sup>12</sup> km<sup>3</sup><br/>(3.118 Yrths)
-    mass: 2.061 × 10<sup>25</sup> kg<br />(3.4512994326974935 Yrths)
+    mass: 2.061 × 10<sup>25</sup> kg<br />(3.45 Yrths)
     density: 6.103 g/cm<sup>3</sup>
     surface_gravity: 15.858 m/s<sup>2</sup><br />(1.617 g<sub>0</sub>)
     escape_velocity: 17.193 km/s<br />(61,895 km/h)
     rotation_period: 1.136 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 225 K<br />(-48 °C)
+    temperature: 197 K<br />(-77 °C)
     surface_pressure: 119 kPa<br />(1 atm)
     composition:
       - 100.0000% nitrogen
@@ -219,14 +219,14 @@ planets:
         radius: 3,538.9 km<br/>(0.555 Yrths)
         surface_area: 1.574 × 10<sup>08</sup> km<sup>2</sup><br/>(0.309 Yrths)
         volume: 1.856 × 10<sup>11</sup> km<sup>3</sup><br/>(0.171 Yrths)
-        mass: 5.479 × 10<sup>23</sup> kg<br />(3.4512994326974935 Yrths)
+        mass: 5.479 × 10<sup>23</sup> kg<br />(0.092 Yrths)
         density: 2.951 g/cm<sup>3</sup>
         surface_gravity: 2.916 m/s<sup>2</sup><br />(0.297 g<sub>0</sub>)
         escape_velocity: 4.546 km/s<br />(16,366 km/h)
         rotation_period: 50.239 d
         axial_tilt: 17.38°
         albedo: 0.30
-        temperature: 2073 K<br />(1800 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 6624 Anilliad III b
         type: Icy
         formationType: Captured
@@ -239,14 +239,14 @@ planets:
         radius: 7,211.4 km<br/>(1.132 Yrths)
         surface_area: 6.535 × 10<sup>08</sup> km<sup>2</sup><br/>(1.281 Yrths)
         volume: 1.571 × 10<sup>12</sup> km<sup>3</sup><br/>(1.450 Yrths)
-        mass: 2.985 × 10<sup>24</sup> kg<br />(3.4512994326974935 Yrths)
+        mass: 2.985 × 10<sup>24</sup> kg<br />(0.500 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 3.825 m/s<sup>2</sup><br />(0.390 g<sub>0</sub>)
         escape_velocity: 7.433 km/s<br />(26,758 km/h)
         rotation_period: 71.486 d
         axial_tilt: 14.22°
         albedo: 0.30
-        temperature: 1976 K<br />(1703 °C)
+        temperature: 187 K<br />(-86 °C)
   - name: 6624 Anilliad IV
     type: Large terrestrial
     aphelion: 367,985,318 km<br />2.460 AU
@@ -258,14 +258,14 @@ planets:
     radius: 5,704.5 km<br/>(0.895 Yrths)
     surface_area: 4.089 × 10<sup>08</sup> km<sup>2</sup><br/>(0.802 Yrths)
     volume: 7.776 × 10<sup>11</sup> km<sup>3</sup><br/>(0.718 Yrths)
-    mass: 5.308 × 10<sup>24</sup> kg<br />(0.8888190268850168 Yrths)
+    mass: 5.308 × 10<sup>24</sup> kg<br />(0.89 Yrths)
     density: 6.826 g/cm<sup>3</sup>
     surface_gravity: 10.872 m/s<sup>2</sup><br />(1.109 g<sub>0</sub>)
     escape_velocity: 11.145 km/s<br />(40,122 km/h)
     rotation_period: 1.343 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 180 K<br />(-93 °C)
+    temperature: 222 K<br />(-51 °C)
     surface_pressure: 108 kPa<br />(1 atm)
     composition:
       - 87.7480% methane
@@ -283,14 +283,14 @@ planets:
         radius: 2,606.3 km<br/>(0.409 Yrths)
         surface_area: 8.536 × 10<sup>07</sup> km<sup>2</sup><br/>(0.167 Yrths)
         volume: 7.416 × 10<sup>10</sup> km<sup>3</sup><br/>(0.068 Yrths)
-        mass: 2.215 × 10<sup>23</sup> kg<br />(0.8888190268850168 Yrths)
+        mass: 2.215 × 10<sup>23</sup> kg<br />(0.037 Yrths)
         density: 2.987 g/cm<sup>3</sup>
         surface_gravity: 2.173 m/s<sup>2</sup><br />(0.222 g<sub>0</sub>)
         escape_velocity: 3.368 km/s<br />(12,125 km/h)
         rotation_period: 43.918 d
         axial_tilt: 13.07°
         albedo: 0.30
-        temperature: 2093 K<br />(1820 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 6624 Anilliad IV b
         type: Rocky
         formationType: Captured
@@ -303,14 +303,14 @@ planets:
         radius: 1,098.3 km<br/>(0.172 Yrths)
         surface_area: 1.516 × 10<sup>07</sup> km<sup>2</sup><br/>(0.030 Yrths)
         volume: 5.549 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.760 × 10<sup>22</sup> kg<br />(0.8888190268850168 Yrths)
+        mass: 1.760 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 3.171 g/cm<sup>3</sup>
         surface_gravity: 0.972 m/s<sup>2</sup><br />(0.099 g<sub>0</sub>)
         escape_velocity: 1.462 km/s<br />(5,265 km/h)
         rotation_period: 53.233 d
         axial_tilt: 20.51°
         albedo: 0.30
-        temperature: 1996 K<br />(1722 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 6624 Anilliad IV c
         type: Rocky
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 1,786.1 km<br/>(0.280 Yrths)
         surface_area: 4.009 × 10<sup>07</sup> km<sup>2</sup><br/>(0.079 Yrths)
         volume: 2.387 × 10<sup>10</sup> km<sup>3</sup><br/>(0.022 Yrths)
-        mass: 7.113 × 10<sup>22</sup> kg<br />(0.8888190268850168 Yrths)
+        mass: 7.113 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 2.980 g/cm<sup>3</sup>
         surface_gravity: 1.486 m/s<sup>2</sup><br />(0.152 g<sub>0</sub>)
         escape_velocity: 2.306 km/s<br />(8,300 km/h)
         rotation_period: 53.290 d
         axial_tilt: 19.86°
         albedo: 0.30
-        temperature: 1903 K<br />(1630 °C)
+        temperature: 144 K<br />(-129 °C)
   - name: 6624 Anilliad V
     type: Ice giant
     aphelion: 617,543,073 km<br />4.128 AU
@@ -342,14 +342,14 @@ planets:
     radius: 27,979.0 km<br/>(4.392 Yrths)
     surface_area: 9.837 × 10<sup>09</sup> km<sup>2</sup><br/>(19.286 Yrths)
     volume: 9.175 × 10<sup>13</sup> km<sup>3</sup><br/>(84.698 Yrths)
-    mass: 1.193 × 10<sup>26</sup> kg<br />(19.979912539448875 Yrths)
+    mass: 1.193 × 10<sup>26</sup> kg<br />(19.98 Yrths)
     density: 1.301 g/cm<sup>3</sup>
     surface_gravity: 10.159 m/s<sup>2</sup><br />(1.036 g<sub>0</sub>)
     escape_velocity: 23.859 km/s<br />(85,894 km/h)
     rotation_period: 0.491 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 193 K<br />(-80 °C)
+    temperature: 173 K<br />(-101 °C)
     composition:
       - 93.1808% hydrogen
       - 6.8192% helium
@@ -366,14 +366,14 @@ planets:
         radius: 17,638.0 km<br/>(2.768 Yrths)
         surface_area: 3.909 × 10<sup>09</sup> km<sup>2</sup><br/>(7.665 Yrths)
         volume: 2.298 × 10<sup>13</sup> km<sup>3</sup><br/>(21.219 Yrths)
-        mass: 6.115 × 10<sup>25</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 6.115 × 10<sup>25</sup> kg<br />(10.239 Yrths)
         density: 2.660 g/cm<sup>3</sup>
         surface_gravity: 13.100 m/s<sup>2</sup><br />(1.336 g<sub>0</sub>)
         escape_velocity: 21.512 km/s<br />(77,443 km/h)
         rotation_period: 35.756 d
         axial_tilt: 12.68°
         albedo: 0.30
-        temperature: 914 K<br />(641 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V b
         type: Icy
         formationType: Captured
@@ -386,14 +386,14 @@ planets:
         radius: 15,762.2 km<br/>(2.474 Yrths)
         surface_area: 3.122 × 10<sup>09</sup> km<sup>2</sup><br/>(6.121 Yrths)
         volume: 1.640 × 10<sup>13</sup> km<sup>3</sup><br/>(15.144 Yrths)
-        mass: 2.769 × 10<sup>25</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 2.769 × 10<sup>25</sup> kg<br />(4.637 Yrths)
         density: 1.688 g/cm<sup>3</sup>
         surface_gravity: 7.428 m/s<sup>2</sup><br />(0.757 g<sub>0</sub>)
         escape_velocity: 15.313 km/s<br />(55,127 km/h)
         rotation_period: 74.092 d
         axial_tilt: 16.09°
         albedo: 0.30
-        temperature: 872 K<br />(599 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V c
         type: Icy
         formationType: Impact formed
@@ -406,14 +406,14 @@ planets:
         radius: 26,385.8 km<br/>(4.142 Yrths)
         surface_area: 8.749 × 10<sup>09</sup> km<sup>2</sup><br/>(17.152 Yrths)
         volume: 7.695 × 10<sup>13</sup> km<sup>3</sup><br/>(71.038 Yrths)
-        mass: 5.386 × 10<sup>25</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 5.386 × 10<sup>25</sup> kg<br />(9.019 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 5.157 m/s<sup>2</sup><br />(0.526 g<sub>0</sub>)
         escape_velocity: 16.508 km/s<br />(59,427 km/h)
         rotation_period: 72.884 d
         axial_tilt: 21.63°
         albedo: 0.30
-        temperature: 831 K<br />(558 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V d
         type: Dwarf planet
         formationType: Accreted
@@ -426,14 +426,14 @@ planets:
         radius: 17,137.5 km<br/>(2.690 Yrths)
         surface_area: 3.691 × 10<sup>09</sup> km<sup>2</sup><br/>(7.236 Yrths)
         volume: 2.108 × 10<sup>13</sup> km<sup>3</sup><br/>(19.463 Yrths)
-        mass: 3.929 × 10<sup>25</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 3.929 × 10<sup>25</sup> kg<br />(6.580 Yrths)
         density: 1.864 g/cm<sup>3</sup>
         surface_gravity: 8.917 m/s<sup>2</sup><br />(0.909 g<sub>0</sub>)
         escape_velocity: 17.495 km/s<br />(62,981 km/h)
         rotation_period: 68.968 d
         axial_tilt: 14.94°
         albedo: 0.30
-        temperature: 793 K<br />(519 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V e
         type: Icy
         formationType: Accreted
@@ -446,14 +446,14 @@ planets:
         radius: 11,174.7 km<br/>(1.754 Yrths)
         surface_area: 1.569 × 10<sup>09</sup> km<sup>2</sup><br/>(3.076 Yrths)
         volume: 5.845 × 10<sup>12</sup> km<sup>3</sup><br/>(5.396 Yrths)
-        mass: 7.930 × 10<sup>24</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 7.930 × 10<sup>24</sup> kg<br />(1.328 Yrths)
         density: 1.357 g/cm<sup>3</sup>
         surface_gravity: 4.233 m/s<sup>2</sup><br />(0.432 g<sub>0</sub>)
         escape_velocity: 9.733 km/s<br />(35,038 km/h)
         rotation_period: 65.559 d
         axial_tilt: 18.71°
         albedo: 0.30
-        temperature: 721 K<br />(447 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -466,14 +466,14 @@ planets:
         radius: 16,368.2 km<br/>(2.569 Yrths)
         surface_area: 3.367 × 10<sup>09</sup> km<sup>2</sup><br/>(6.601 Yrths)
         volume: 1.837 × 10<sup>13</sup> km<sup>3</sup><br/>(16.958 Yrths)
-        mass: 5.143 × 10<sup>25</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 5.143 × 10<sup>25</sup> kg<br />(8.613 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 12.796 m/s<sup>2</sup><br />(1.305 g<sub>0</sub>)
         escape_velocity: 20.481 km/s<br />(73,730 km/h)
         rotation_period: 36.610 d
         axial_tilt: 14.57°
         albedo: 0.30
-        temperature: 687 K<br />(414 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V g
         type: Dwarf planet
         formationType: Accreted
@@ -486,14 +486,14 @@ planets:
         radius: 12,754.2 km<br/>(2.002 Yrths)
         surface_area: 2.044 × 10<sup>09</sup> km<sup>2</sup><br/>(4.008 Yrths)
         volume: 8.691 × 10<sup>12</sup> km<sup>3</sup><br/>(8.023 Yrths)
-        mass: 1.458 × 10<sup>25</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 1.458 × 10<sup>25</sup> kg<br />(2.442 Yrths)
         density: 1.678 g/cm<sup>3</sup>
         surface_gravity: 5.976 m/s<sup>2</sup><br />(0.609 g<sub>0</sub>)
         escape_velocity: 12.354 km/s<br />(44,476 km/h)
         rotation_period: 44.257 d
         axial_tilt: 31.02°
         albedo: 0.30
-        temperature: 625 K<br />(351 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -506,14 +506,14 @@ planets:
         radius: 23,102.8 km<br/>(3.626 Yrths)
         surface_area: 6.707 × 10<sup>09</sup> km<sup>2</sup><br/>(13.150 Yrths)
         volume: 5.165 × 10<sup>13</sup> km<sup>3</sup><br/>(47.684 Yrths)
-        mass: 1.121 × 10<sup>26</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 1.121 × 10<sup>26</sup> kg<br />(18.769 Yrths)
         density: 2.170 g/cm<sup>3</sup>
         surface_gravity: 13.997 m/s<sup>2</sup><br />(1.427 g<sub>0</sub>)
         escape_velocity: 25.449 km/s<br />(91,615 km/h)
         rotation_period: 49.025 d
         axial_tilt: 11.58°
         albedo: 0.30
-        temperature: 595 K<br />(322 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -526,14 +526,14 @@ planets:
         radius: 21,648.8 km<br/>(3.398 Yrths)
         surface_area: 5.889 × 10<sup>09</sup> km<sup>2</sup><br/>(11.547 Yrths)
         volume: 4.250 × 10<sup>13</sup> km<sup>3</sup><br/>(39.235 Yrths)
-        mass: 8.594 × 10<sup>25</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 8.594 × 10<sup>25</sup> kg<br />(14.390 Yrths)
         density: 2.022 g/cm<sup>3</sup>
         surface_gravity: 12.222 m/s<sup>2</sup><br />(1.246 g<sub>0</sub>)
         escape_velocity: 23.019 km/s<br />(82,870 km/h)
         rotation_period: 55.768 d
         axial_tilt: 24.03°
         albedo: 0.30
-        temperature: 568 K<br />(295 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -546,14 +546,14 @@ planets:
         radius: 12,461.0 km<br/>(1.956 Yrths)
         surface_area: 1.951 × 10<sup>09</sup> km<sup>2</sup><br/>(3.826 Yrths)
         volume: 8.105 × 10<sup>12</sup> km<sup>3</sup><br/>(7.482 Yrths)
-        mass: 2.009 × 10<sup>25</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 2.009 × 10<sup>25</sup> kg<br />(3.364 Yrths)
         density: 2.478 g/cm<sup>3</sup>
         surface_gravity: 8.622 m/s<sup>2</sup><br />(0.879 g<sub>0</sub>)
         escape_velocity: 14.669 km/s<br />(52,808 km/h)
         rotation_period: 43.752 d
         axial_tilt: 15.15°
         albedo: 0.30
-        temperature: 541 K<br />(268 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 6624 Anilliad V k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -566,14 +566,14 @@ planets:
         radius: 9,775.0 km<br/>(1.534 Yrths)
         surface_area: 1.201 × 10<sup>09</sup> km<sup>2</sup><br/>(2.354 Yrths)
         volume: 3.912 × 10<sup>12</sup> km<sup>3</sup><br/>(3.612 Yrths)
-        mass: 8.289 × 10<sup>24</sup> kg<br />(19.979912539448875 Yrths)
+        mass: 8.289 × 10<sup>24</sup> kg<br />(1.388 Yrths)
         density: 2.119 g/cm<sup>3</sup>
         surface_gravity: 5.782 m/s<sup>2</sup><br />(0.590 g<sub>0</sub>)
         escape_velocity: 10.639 km/s<br />(38,301 km/h)
         rotation_period: 56.441 d
         axial_tilt: 15.33°
         albedo: 0.30
-        temperature: 516 K<br />(243 °C)
+        temperature: 111 K<br />(-162 °C)
   - name: 6624 Anilliad VI
     type: Gas giant
     aphelion: 1,003,001,282 km<br />6.705 AU
@@ -585,7 +585,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.541 g/cm<sup>3</sup>
     surface_gravity: 31873.847 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -606,14 +606,14 @@ planets:
         radius: 1,184.8 km<br/>(0.186 Yrths)
         surface_area: 1.764 × 10<sup>07</sup> km<sup>2</sup><br/>(0.035 Yrths)
         volume: 6.967 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 6.409 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.409 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.920 g/cm<sup>3</sup>
         surface_gravity: 0.304 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.850 km/s<br />(3,059 km/h)
         rotation_period: 86.932 d
         axial_tilt: 12.11°
         albedo: 0.30
-        temperature: 960 K<br />(686 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6624 Anilliad VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -626,14 +626,14 @@ planets:
         radius: 861.2 km<br/>(0.135 Yrths)
         surface_area: 9.320 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.675 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 6.589 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.589 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.463 g/cm<sup>3</sup>
         surface_gravity: 0.592 m/s<sup>2</sup><br />(0.060 g<sub>0</sub>)
         escape_velocity: 1.011 km/s<br />(3,638 km/h)
         rotation_period: 37.349 d
         axial_tilt: 24.03°
         albedo: 0.30
-        temperature: 721 K<br />(448 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6624 Anilliad VI c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -646,14 +646,14 @@ planets:
         radius: 1,112.1 km<br/>(0.175 Yrths)
         surface_area: 1.554 × 10<sup>07</sup> km<sup>2</sup><br/>(0.030 Yrths)
         volume: 5.762 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.319 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.319 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.289 g/cm<sup>3</sup>
         surface_gravity: 0.711 m/s<sup>2</sup><br />(0.072 g<sub>0</sub>)
         escape_velocity: 1.258 km/s<br />(4,529 km/h)
         rotation_period: 62.157 d
         axial_tilt: 23.09°
         albedo: 0.30
-        temperature: 568 K<br />(295 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6624 Anilliad VI d
         type: Icy
         formationType: Accreted
@@ -666,14 +666,14 @@ planets:
         radius: 883.6 km<br/>(0.139 Yrths)
         surface_area: 9.811 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.890 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.778 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.778 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.653 g/cm<sup>3</sup>
         surface_gravity: 0.408 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.850 km/s<br />(3,058 km/h)
         rotation_period: 39.166 d
         axial_tilt: 19.45°
         albedo: 0.30
-        temperature: 370 K<br />(97 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6624 Anilliad VI e
         type: Icy
         formationType: Impact formed
@@ -686,14 +686,14 @@ planets:
         radius: 1,271.0 km<br/>(0.199 Yrths)
         surface_area: 2.030 × 10<sup>07</sup> km<sup>2</sup><br/>(0.040 Yrths)
         volume: 8.600 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 6.020 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.020 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.248 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.795 km/s<br />(2,862 km/h)
         rotation_period: 89.174 d
         axial_tilt: 10.35°
         albedo: 0.30
-        temperature: 353 K<br />(80 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6624 Anilliad VI f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -706,14 +706,14 @@ planets:
         radius: 1,000.3 km<br/>(0.157 Yrths)
         surface_area: 1.257 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.192 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 9.957 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.957 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.375 g/cm<sup>3</sup>
         surface_gravity: 0.663 m/s<sup>2</sup><br />(0.068 g<sub>0</sub>)
         escape_velocity: 1.153 km/s<br />(4,150 km/h)
         rotation_period: 33.265 d
         axial_tilt: 16.86°
         albedo: 0.30
-        temperature: 292 K<br />(18 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6624 Anilliad VI g
         type: Icy
         formationType: Accreted
@@ -726,14 +726,14 @@ planets:
         radius: 1,247.6 km<br/>(0.196 Yrths)
         surface_area: 1.956 × 10<sup>07</sup> km<sup>2</sup><br/>(0.038 Yrths)
         volume: 8.133 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 5.693 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.693 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.244 m/s<sup>2</sup><br />(0.025 g<sub>0</sub>)
         escape_velocity: 0.781 km/s<br />(2,810 km/h)
         rotation_period: 64.118 d
         axial_tilt: 15.23°
         albedo: 0.30
-        temperature: 278 K<br />(5 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 6624 Anilliad VI h
         type: Icy
         formationType: Accreted
@@ -746,14 +746,14 @@ planets:
         radius: 1,012.7 km<br/>(0.159 Yrths)
         surface_area: 1.289 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.350 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.599 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.599 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.057 g/cm<sup>3</sup>
         surface_gravity: 0.299 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.779 km/s<br />(2,803 km/h)
         rotation_period: 64.624 d
         axial_tilt: 13.12°
         albedo: 0.30
-        temperature: 157 K<br />(-116 °C)
+        temperature: 85 K<br />(-188 °C)
   - name: 6624 Anilliad VII
     type: Ice giant
     aphelion: 1,696,652,826 km<br />11.341 AU
@@ -765,14 +765,14 @@ planets:
     radius: 27,756.6 km<br/>(4.357 Yrths)
     surface_area: 9.681 × 10<sup>09</sup> km<sup>2</sup><br/>(18.981 Yrths)
     volume: 8.958 × 10<sup>13</sup> km<sup>3</sup><br/>(82.694 Yrths)
-    mass: 1.383 × 10<sup>26</sup> kg<br />(23.159008157301614 Yrths)
+    mass: 1.383 × 10<sup>26</sup> kg<br />(23.16 Yrths)
     density: 1.544 g/cm<sup>3</sup>
     surface_gravity: 11.965 m/s<sup>2</sup><br />(1.220 g<sub>0</sub>)
     escape_velocity: 25.790 km/s<br />(92,845 km/h)
     rotation_period: 0.367 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 118 K<br />(-155 °C)
+    temperature: 108 K<br />(-165 °C)
     composition:
       - 56.0779% hydrogen
       - 38.8017% helium
@@ -791,14 +791,14 @@ planets:
         radius: 17,585.1 km<br/>(2.760 Yrths)
         surface_area: 3.886 × 10<sup>09</sup> km<sup>2</sup><br/>(7.619 Yrths)
         volume: 2.278 × 10<sup>13</sup> km<sup>3</sup><br/>(21.029 Yrths)
-        mass: 5.149 × 10<sup>25</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 5.149 × 10<sup>25</sup> kg<br />(8.622 Yrths)
         density: 2.260 g/cm<sup>3</sup>
         surface_gravity: 11.098 m/s<sup>2</sup><br />(1.132 g<sub>0</sub>)
         escape_velocity: 19.770 km/s<br />(71,171 km/h)
         rotation_period: 53.019 d
         axial_tilt: 15.59°
         albedo: 0.30
-        temperature: 529 K<br />(256 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII b
         type: Icy
         formationType: Accreted
@@ -811,14 +811,14 @@ planets:
         radius: 16,984.3 km<br/>(2.666 Yrths)
         surface_area: 3.625 × 10<sup>09</sup> km<sup>2</sup><br/>(7.107 Yrths)
         volume: 2.052 × 10<sup>13</sup> km<sup>3</sup><br/>(18.946 Yrths)
-        mass: 2.678 × 10<sup>25</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 2.678 × 10<sup>25</sup> kg<br />(4.484 Yrths)
         density: 1.305 g/cm<sup>3</sup>
         surface_gravity: 6.187 m/s<sup>2</sup><br />(0.631 g<sub>0</sub>)
         escape_velocity: 14.507 km/s<br />(52,225 km/h)
         rotation_period: 66.456 d
         axial_tilt: 17.86°
         albedo: 0.30
-        temperature: 504 K<br />(231 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII c
         type: Icy
         formationType: Accreted
@@ -831,14 +831,14 @@ planets:
         radius: 21,080.5 km<br/>(3.309 Yrths)
         surface_area: 5.584 × 10<sup>09</sup> km<sup>2</sup><br/>(10.948 Yrths)
         volume: 3.924 × 10<sup>13</sup> km<sup>3</sup><br/>(36.226 Yrths)
-        mass: 4.410 × 10<sup>25</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 4.410 × 10<sup>25</sup> kg<br />(7.385 Yrths)
         density: 1.124 g/cm<sup>3</sup>
         surface_gravity: 6.615 m/s<sup>2</sup><br />(0.675 g<sub>0</sub>)
         escape_velocity: 16.712 km/s<br />(60,162 km/h)
         rotation_period: 56.063 d
         axial_tilt: 25.19°
         albedo: 0.30
-        temperature: 481 K<br />(208 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII d
         type: Icy
         formationType: Accreted
@@ -851,14 +851,14 @@ planets:
         radius: 31,028.0 km<br/>(4.870 Yrths)
         surface_area: 1.210 × 10<sup>10</sup> km<sup>2</sup><br/>(23.719 Yrths)
         volume: 1.251 × 10<sup>14</sup> km<sup>3</sup><br/>(115.515 Yrths)
-        mass: 1.746 × 10<sup>26</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 1.746 × 10<sup>26</sup> kg<br />(29.244 Yrths)
         density: 1.396 g/cm<sup>3</sup>
         surface_gravity: 12.091 m/s<sup>2</sup><br />(1.233 g<sub>0</sub>)
         escape_velocity: 27.411 km/s<br />(98,679 km/h)
         rotation_period: 66.439 d
         axial_tilt: 23.94°
         albedo: 0.30
-        temperature: 458 K<br />(185 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII e
         type: Icy
         formationType: Accreted
@@ -871,14 +871,14 @@ planets:
         radius: 34,377.6 km<br/>(5.396 Yrths)
         surface_area: 1.485 × 10<sup>10</sup> km<sup>2</sup><br/>(29.116 Yrths)
         volume: 1.702 × 10<sup>14</sup> km<sup>3</sup><br/>(157.110 Yrths)
-        mass: 1.693 × 10<sup>26</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 1.693 × 10<sup>26</sup> kg<br />(28.352 Yrths)
         density: 0.995 g/cm<sup>3</sup>
         surface_gravity: 9.549 m/s<sup>2</sup><br />(0.974 g<sub>0</sub>)
         escape_velocity: 25.641 km/s<br />(92,307 km/h)
         rotation_period: 96.558 d
         axial_tilt: 15.08°
         albedo: 0.30
-        temperature: 417 K<br />(144 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII f
         type: Icy
         formationType: Captured
@@ -891,14 +891,14 @@ planets:
         radius: 16,528.7 km<br/>(2.594 Yrths)
         surface_area: 3.433 × 10<sup>09</sup> km<sup>2</sup><br/>(6.731 Yrths)
         volume: 1.891 × 10<sup>13</sup> km<sup>3</sup><br/>(17.462 Yrths)
-        mass: 2.102 × 10<sup>25</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 2.102 × 10<sup>25</sup> kg<br />(3.519 Yrths)
         density: 1.111 g/cm<sup>3</sup>
         surface_gravity: 5.128 m/s<sup>2</sup><br />(0.523 g<sub>0</sub>)
         escape_velocity: 13.028 km/s<br />(46,902 km/h)
         rotation_period: 50.192 d
         axial_tilt: 23.96°
         albedo: 0.30
-        temperature: 397 K<br />(124 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII g
         type: Icy
         formationType: Accreted
@@ -911,14 +911,14 @@ planets:
         radius: 30,071.0 km<br/>(4.720 Yrths)
         surface_area: 1.136 × 10<sup>10</sup> km<sup>2</sup><br/>(22.278 Yrths)
         volume: 1.139 × 10<sup>14</sup> km<sup>3</sup><br/>(105.153 Yrths)
-        mass: 9.720 × 10<sup>25</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 9.720 × 10<sup>25</sup> kg<br />(16.277 Yrths)
         density: 0.853 g/cm<sup>3</sup>
         surface_gravity: 7.165 m/s<sup>2</sup><br />(0.731 g<sub>0</sub>)
         escape_velocity: 20.772 km/s<br />(74,781 km/h)
         rotation_period: 59.221 d
         axial_tilt: 16.47°
         albedo: 0.30
-        temperature: 379 K<br />(106 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -931,14 +931,14 @@ planets:
         radius: 17,011.8 km<br/>(2.670 Yrths)
         surface_area: 3.637 × 10<sup>09</sup> km<sup>2</sup><br/>(7.130 Yrths)
         volume: 2.062 × 10<sup>13</sup> km<sup>3</sup><br/>(19.038 Yrths)
-        mass: 4.875 × 10<sup>25</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 4.875 × 10<sup>25</sup> kg<br />(8.164 Yrths)
         density: 2.364 g/cm<sup>3</sup>
         surface_gravity: 11.229 m/s<sup>2</sup><br />(1.145 g<sub>0</sub>)
         escape_velocity: 19.559 km/s<br />(70,413 km/h)
         rotation_period: 33.826 d
         axial_tilt: 16.12°
         albedo: 0.30
-        temperature: 361 K<br />(88 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII i
         type: Icy
         formationType: Accreted
@@ -951,14 +951,14 @@ planets:
         radius: 25,419.9 km<br/>(3.990 Yrths)
         surface_area: 8.120 × 10<sup>09</sup> km<sup>2</sup><br/>(15.920 Yrths)
         volume: 6.880 × 10<sup>13</sup> km<sup>3</sup><br/>(63.518 Yrths)
-        mass: 7.401 × 10<sup>25</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 7.401 × 10<sup>25</sup> kg<br />(12.392 Yrths)
         density: 1.076 g/cm<sup>3</sup>
         surface_gravity: 7.634 m/s<sup>2</sup><br />(0.778 g<sub>0</sub>)
         escape_velocity: 19.714 km/s<br />(70,969 km/h)
         rotation_period: 54.221 d
         axial_tilt: 17.33°
         albedo: 0.30
-        temperature: 344 K<br />(71 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII j
         type: Asteroid
         formationType: Captured
@@ -971,14 +971,14 @@ planets:
         radius: 15,562.6 km<br/>(2.443 Yrths)
         surface_area: 3.043 × 10<sup>09</sup> km<sup>2</sup><br/>(5.967 Yrths)
         volume: 1.579 × 10<sup>13</sup> km<sup>3</sup><br/>(14.575 Yrths)
-        mass: 2.052 × 10<sup>25</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 2.052 × 10<sup>25</sup> kg<br />(3.437 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 5.648 m/s<sup>2</sup><br />(0.576 g<sub>0</sub>)
         escape_velocity: 13.268 km/s<br />(47,766 km/h)
         rotation_period: 46.726 d
         axial_tilt: 25.96°
         albedo: 0.30
-        temperature: 313 K<br />(40 °C)
+        temperature: 65 K<br />(-208 °C)
       - name: 6624 Anilliad VII k
         type: Icy
         formationType: Accreted
@@ -991,12 +991,12 @@ planets:
         radius: 43,652.7 km<br/>(6.852 Yrths)
         surface_area: 2.395 × 10<sup>10</sup> km<sup>2</sup><br/>(46.947 Yrths)
         volume: 3.484 × 10<sup>14</sup> km<sup>3</sup><br/>(321.670 Yrths)
-        mass: 5.291 × 10<sup>26</sup> kg<br />(23.159008157301614 Yrths)
+        mass: 5.291 × 10<sup>26</sup> kg<br />(88.595 Yrths)
         density: 1.518 g/cm<sup>3</sup>
         surface_gravity: 18.506 m/s<sup>2</sup><br />(1.887 g<sub>0</sub>)
         escape_velocity: 40.223 km/s<br />(144,803 km/h)
         rotation_period: 42.601 d
         axial_tilt: 13.99°
         albedo: 0.30
-        temperature: 298 K<br />(25 °C)
+        temperature: 65 K<br />(-208 °C)
 ---

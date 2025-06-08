@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      514 Anilliad A is a star in the constellation Anil
+      514 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 409.01 ly
 apparent_magnitude: 8.88
 absolute_magnitude: 3.39

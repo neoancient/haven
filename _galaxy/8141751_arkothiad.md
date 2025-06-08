@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8141751 Arkothiad is a star in the constellation Arkoth
+      8141751 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 744.12 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 0.74

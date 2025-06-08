@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2361 Anilliad is a star in the constellation Anil
+      2361 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 631.23 ly
 apparent_magnitude: 12.05
 absolute_magnitude: 5.62

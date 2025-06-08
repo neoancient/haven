@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Darni C is a star in the constellation Nurranpug
+      Darni C is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 310.23 ly
 apparent_magnitude: 13.72
 absolute_magnitude: 8.83

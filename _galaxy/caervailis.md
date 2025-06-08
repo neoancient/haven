@@ -25,15 +25,15 @@ planet:
   escape_velocity: 11.470 km/s<br />(41,292 km/h)
   rotation_period: 2.394 d
   axial_tilt: 0.00°
-  albedo: 0.30
-  temperature: 262 K<br />(-11 °C)
-  surface_pressure: 98 kPa<br />(1 atm)
+  albedo: 0.10
+  temperature: 284 K<br />(11 °C)
+  surface_pressure: 112 kPa<br />(1 atm)
   composition:
-    - 76.5873% nitrogen
+    - 76.5243% nitrogen
     - 20.6448% oxygen
     - 1.5969% hydrogen sulfide
     - 1.1513% argon
-    - 0.0197% carbon dioxide
+    - 0.0826% carbon dioxide
     - 0.0001% carbon monoxide
   moons:
     - name: Caervailis a
@@ -48,12 +48,12 @@ planet:
       radius: 2,317.8 km<br/>(0.364 Yrths)
       surface_area: 6.751 × 10<sup>07</sup> km<sup>2</sup><br/>(0.132 Yrths)
       volume: 5.216 × 10<sup>10</sup> km<sup>3</sup><br/>(0.048 Yrths)
-      mass: 1.189 × 10<sup>23</sup> kg<br />(1.1119556866745288 Yrths)
+      mass: 1.189 × 10<sup>23</sup> kg<br />(0.020 Yrths)
       density: 2.279 g/cm<sup>3</sup>
       surface_gravity: 1.475 m/s<sup>2</sup><br />(0.150 g<sub>0</sub>)
       escape_velocity: 2.617 km/s<br />(9,420 km/h)
       rotation_period: 36.370 d
       axial_tilt: 19.02°
       albedo: 0.30
-      temperature: 3322 K<br />(3049 °C)
+      temperature: 247 K<br />(-26 °C)
 ---

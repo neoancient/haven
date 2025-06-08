@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Fatas A is a star in the constellation Luna
+      Fatas A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 1663.46 ly
 apparent_magnitude: 2.30
 absolute_magnitude: -6.24

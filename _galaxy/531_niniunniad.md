@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      531 Niniunniad is a star in the constellation Niniun
+      531 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 229.09 ly
 apparent_magnitude: 10.15
 absolute_magnitude: 5.92

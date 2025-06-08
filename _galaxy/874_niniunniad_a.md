@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      874 Niniunniad A is a star in the constellation Niniun
+      874 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 163.14 ly
 apparent_magnitude: 8.42
 absolute_magnitude: 4.92

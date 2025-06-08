@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0203 Switheriad B is a star in the constellation Swither
+      0203 Switheriad B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 62.47 ly
 apparent_magnitude: 11.95
 absolute_magnitude: 10.54

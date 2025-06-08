@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      238 Nurranpugiad is a star in the constellation Nurranpug
+      238 Nurranpugiad is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 478.46 ly
 apparent_magnitude: 12.30
 absolute_magnitude: 6.47

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1990 Rinkaiad A is a star in the constellation Rinka
+      1990 Rinkaiad A is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 403.74 ly
 apparent_magnitude: 7.64
 absolute_magnitude: 2.18

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7627 Tanashad A is a star in the constellation Tanas
+      7627 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 839.36 ly
 apparent_magnitude: 6.98
 absolute_magnitude: -0.08

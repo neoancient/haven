@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1407 Urthiad is a star in the constellation Urth
+      1407 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 209.31 ly
 apparent_magnitude: 10.26
 absolute_magnitude: 6.22
@@ -31,14 +31,14 @@ planets:
     radius: 9,724.3 km<br/>(1.526 Yrths)
     surface_area: 1.188 × 10<sup>09</sup> km<sup>2</sup><br/>(2.330 Yrths)
     volume: 3.852 × 10<sup>12</sup> km<sup>3</sup><br/>(3.556 Yrths)
-    mass: 2.688 × 10<sup>25</sup> kg<br />(4.500781262076862 Yrths)
+    mass: 2.688 × 10<sup>25</sup> kg<br />(4.50 Yrths)
     density: 6.978 g/cm<sup>3</sup>
     surface_gravity: 18.946 m/s<sup>2</sup><br />(1.932 g<sub>0</sub>)
     escape_velocity: 19.208 km/s<br />(69,151 km/h)
     rotation_period: 1.319 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 441 K<br />(168 °C)
+    temperature: 924 K<br />(650 °C)
     surface_pressure: 88 kPa<br />(1 atm)
     composition:
       - 49.7931% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 13,010.6 km<br/>(2.042 Yrths)
         surface_area: 2.127 × 10<sup>09</sup> km<sup>2</sup><br/>(4.170 Yrths)
         volume: 9.225 × 10<sup>12</sup> km<sup>3</sup><br/>(8.517 Yrths)
-        mass: 9.166 × 10<sup>24</sup> kg<br />(4.500781262076862 Yrths)
+        mass: 9.166 × 10<sup>24</sup> kg<br />(1.535 Yrths)
         density: 0.994 g/cm<sup>3</sup>
         surface_gravity: 3.609 m/s<sup>2</sup><br />(0.368 g<sub>0</sub>)
         escape_velocity: 9.698 km/s<br />(34,911 km/h)
         rotation_period: 86.446 d
         axial_tilt: 23.46°
         albedo: 0.30
-        temperature: 3981 K<br />(3708 °C)
+        temperature: 318 K<br />(44 °C)
   - name: 1407 Urthiad II
     type: Large terrestrial
     aphelion: 92,463,881 km<br />0.618 AU
@@ -76,14 +76,14 @@ planets:
     radius: 6,324.4 km<br/>(0.993 Yrths)
     surface_area: 5.026 × 10<sup>08</sup> km<sup>2</sup><br/>(0.985 Yrths)
     volume: 1.060 × 10<sup>12</sup> km<sup>3</sup><br/>(0.978 Yrths)
-    mass: 7.573 × 10<sup>24</sup> kg<br />(1.2681590323172656 Yrths)
+    mass: 7.573 × 10<sup>24</sup> kg<br />(1.27 Yrths)
     density: 7.148 g/cm<sup>3</sup>
     surface_gravity: 12.621 m/s<sup>2</sup><br />(1.287 g<sub>0</sub>)
     escape_velocity: 12.643 km/s<br />(45,515 km/h)
     rotation_period: 1.500 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 315 K<br />(42 °C)
+    temperature: 322 K<br />(49 °C)
     surface_pressure: 197 kPa<br />(2 atm)
     composition:
       - 93.3578% nitrogen
@@ -102,14 +102,14 @@ planets:
         radius: 3,768.9 km<br/>(0.592 Yrths)
         surface_area: 1.785 × 10<sup>08</sup> km<sup>2</sup><br/>(0.350 Yrths)
         volume: 2.243 × 10<sup>11</sup> km<sup>3</sup><br/>(0.207 Yrths)
-        mass: 7.350 × 10<sup>23</sup> kg<br />(1.2681590323172656 Yrths)
+        mass: 7.350 × 10<sup>23</sup> kg<br />(0.123 Yrths)
         density: 3.278 g/cm<sup>3</sup>
         surface_gravity: 3.449 m/s<sup>2</sup><br />(0.352 g<sub>0</sub>)
         escape_velocity: 5.102 km/s<br />(18,368 km/h)
         rotation_period: 50.263 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 3330 K<br />(3057 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 1407 Urthiad II b
         type: Rocky
         formationType: Accreted
@@ -122,14 +122,14 @@ planets:
         radius: 1,242.0 km<br/>(0.195 Yrths)
         surface_area: 1.938 × 10<sup>07</sup> km<sup>2</sup><br/>(0.038 Yrths)
         volume: 8.025 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 2.889 × 10<sup>22</sup> kg<br />(1.2681590323172656 Yrths)
+        mass: 2.889 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 1.248 m/s<sup>2</sup><br />(0.127 g<sub>0</sub>)
         escape_velocity: 1.762 km/s<br />(6,343 km/h)
         rotation_period: 46.758 d
         axial_tilt: 9.02°
         albedo: 0.30
-        temperature: 3175 K<br />(2902 °C)
+        temperature: 249 K<br />(-24 °C)
       - name: 1407 Urthiad II c
         type: Asteroid
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 1,833.4 km<br/>(0.288 Yrths)
         surface_area: 4.224 × 10<sup>07</sup> km<sup>2</sup><br/>(0.083 Yrths)
         volume: 2.581 × 10<sup>10</sup> km<sup>3</sup><br/>(0.024 Yrths)
-        mass: 6.792 × 10<sup>22</sup> kg<br />(1.2681590323172656 Yrths)
+        mass: 6.792 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 2.631 g/cm<sup>3</sup>
         surface_gravity: 1.347 m/s<sup>2</sup><br />(0.137 g<sub>0</sub>)
         escape_velocity: 2.224 km/s<br />(8,006 km/h)
         rotation_period: 50.483 d
         axial_tilt: 38.73°
         albedo: 0.30
-        temperature: 3028 K<br />(2754 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: 1407 Urthiad III
     type: Large terrestrial
     aphelion: 149,670,831 km<br />1.000 AU
@@ -161,14 +161,14 @@ planets:
     radius: 8,730.2 km<br/>(1.370 Yrths)
     surface_area: 9.578 × 10<sup>08</sup> km<sup>2</sup><br/>(1.878 Yrths)
     volume: 2.787 × 10<sup>12</sup> km<sup>3</sup><br/>(2.573 Yrths)
-    mass: 1.803 × 10<sup>25</sup> kg<br />(3.0193022988841824 Yrths)
+    mass: 1.803 × 10<sup>25</sup> kg<br />(3.02 Yrths)
     density: 6.469 g/cm<sup>3</sup>
     surface_gravity: 15.769 m/s<sup>2</sup><br />(1.608 g<sub>0</sub>)
     escape_velocity: 16.604 km/s<br />(59,775 km/h)
     rotation_period: 1.024 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 299 K<br />(26 °C)
+    temperature: 708 K<br />(434 °C)
     surface_pressure: 195 kPa<br />(2 atm)
     composition:
       - 68.9346% carbon dioxide
@@ -188,14 +188,14 @@ planets:
         radius: 3,395.4 km<br/>(0.533 Yrths)
         surface_area: 1.449 × 10<sup>08</sup> km<sup>2</sup><br/>(0.284 Yrths)
         volume: 1.640 × 10<sup>11</sup> km<sup>3</sup><br/>(0.151 Yrths)
-        mass: 4.038 × 10<sup>23</sup> kg<br />(3.0193022988841824 Yrths)
+        mass: 4.038 × 10<sup>23</sup> kg<br />(0.068 Yrths)
         density: 2.463 g/cm<sup>3</sup>
         surface_gravity: 2.335 m/s<sup>2</sup><br />(0.238 g<sub>0</sub>)
         escape_velocity: 3.984 km/s<br />(14,344 km/h)
         rotation_period: 32.972 d
         axial_tilt: 23.16°
         albedo: 0.30
-        temperature: 2739 K<br />(2466 °C)
+        temperature: 195 K<br />(-78 °C)
       - name: 1407 Urthiad III b
         type: Asteroid
         formationType: Captured
@@ -208,14 +208,14 @@ planets:
         radius: 8,197.2 km<br/>(1.287 Yrths)
         surface_area: 8.444 × 10<sup>08</sup> km<sup>2</sup><br/>(1.655 Yrths)
         volume: 2.307 × 10<sup>12</sup> km<sup>3</sup><br/>(2.130 Yrths)
-        mass: 5.354 × 10<sup>24</sup> kg<br />(3.0193022988841824 Yrths)
+        mass: 5.354 × 10<sup>24</sup> kg<br />(0.896 Yrths)
         density: 2.320 g/cm<sup>3</sup>
         surface_gravity: 5.311 m/s<sup>2</sup><br />(0.542 g<sub>0</sub>)
         escape_velocity: 9.337 km/s<br />(33,613 km/h)
         rotation_period: 41.785 d
         axial_tilt: 49.57°
         albedo: 0.30
-        temperature: 2612 K<br />(2339 °C)
+        temperature: 195 K<br />(-78 °C)
   - name: 1407 Urthiad IV
     type: Gas giant
     aphelion: 253,048,766 km<br />1.692 AU
@@ -227,7 +227,7 @@ planets:
     radius: 165.0 km<br/>(0.026 Yrths)
     surface_area: 3.420 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.881 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.416 × 10<sup>26</sup> kg<br />(73.95225305310686 Yrths)
+    mass: 4.416 × 10<sup>26</sup> kg<br />(73.95 Yrths)
     density: 23483540.776 g/cm<sup>3</sup>
     surface_gravity: 1081619.766 m/s<sup>2</sup><br />(110294.521 g<sub>0</sub>)
     escape_velocity: 597.792 km/s<br />(2,152,052 km/h)
@@ -248,14 +248,14 @@ planets:
         radius: 74,777.2 km<br/>(11.737 Yrths)
         surface_area: 7.027 × 10<sup>10</sup> km<sup>2</sup><br/>(137.760 Yrths)
         volume: 1.751 × 10<sup>15</sup> km<sup>3</sup><br/>(1616.908 Yrths)
-        mass: 3.284 × 10<sup>27</sup> kg<br />(73.95225305310686 Yrths)
+        mass: 3.284 × 10<sup>27</sup> kg<br />(549.841 Yrths)
         density: 1.875 g/cm<sup>3</sup>
         surface_gravity: 39.141 m/s<sup>2</sup><br />(3.991 g<sub>0</sub>)
         escape_velocity: 76.562 km/s<br />(275,622 km/h)
         rotation_period: 48.464 d
         axial_tilt: 26.27°
         albedo: 0.30
-        temperature: 522 K<br />(249 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 1407 Urthiad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -268,14 +268,14 @@ planets:
         radius: 76,845.4 km<br/>(12.062 Yrths)
         surface_area: 7.421 × 10<sup>10</sup> km<sup>2</sup><br/>(145.486 Yrths)
         volume: 1.901 × 10<sup>15</sup> km<sup>3</sup><br/>(1754.811 Yrths)
-        mass: 4.638 × 10<sup>27</sup> kg<br />(73.95225305310686 Yrths)
+        mass: 4.638 × 10<sup>27</sup> kg<br />(776.659 Yrths)
         density: 2.440 g/cm<sup>3</sup>
         surface_gravity: 52.352 m/s<sup>2</sup><br />(5.338 g<sub>0</sub>)
         escape_velocity: 89.760 km/s<br />(323,137 km/h)
         rotation_period: 61.897 d
         axial_tilt: 27.71°
         albedo: 0.30
-        temperature: 412 K<br />(138 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 1407 Urthiad IV c
         type: Icy
         formationType: Impact formed
@@ -288,14 +288,14 @@ planets:
         radius: 77,351.6 km<br/>(12.141 Yrths)
         surface_area: 7.519 × 10<sup>10</sup> km<sup>2</sup><br/>(147.409 Yrths)
         volume: 1.939 × 10<sup>15</sup> km<sup>3</sup><br/>(1789.719 Yrths)
-        mass: 3.234 × 10<sup>27</sup> kg<br />(73.95225305310686 Yrths)
+        mass: 3.234 × 10<sup>27</sup> kg<br />(541.515 Yrths)
         density: 1.668 g/cm<sup>3</sup>
         surface_gravity: 36.025 m/s<sup>2</sup><br />(3.674 g<sub>0</sub>)
         escape_velocity: 74.705 km/s<br />(268,937 km/h)
         rotation_period: 46.281 d
         axial_tilt: 19.15°
         albedo: 0.30
-        temperature: 295 K<br />(22 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 1407 Urthiad IV d
         type: Icy
         formationType: Accreted
@@ -308,14 +308,14 @@ planets:
         radius: 86,828.9 km<br/>(13.629 Yrths)
         surface_area: 9.474 × 10<sup>10</sup> km<sup>2</sup><br/>(185.743 Yrths)
         volume: 2.742 × 10<sup>15</sup> km<sup>3</sup><br/>(2531.454 Yrths)
-        mass: 3.983 × 10<sup>27</sup> kg<br />(73.95225305310686 Yrths)
+        mass: 3.983 × 10<sup>27</sup> kg<br />(666.918 Yrths)
         density: 1.452 g/cm<sup>3</sup>
         surface_gravity: 35.211 m/s<sup>2</sup><br />(3.591 g<sub>0</sub>)
         escape_velocity: 78.250 km/s<br />(281,698 km/h)
         rotation_period: 52.124 d
         axial_tilt: 26.88°
         albedo: 0.30
-        temperature: 58 K<br />(-215 °C)
+        temperature: 153 K<br />(-120 °C)
       - name: 1407 Urthiad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -328,12 +328,12 @@ planets:
         radius: 68,635.7 km<br/>(10.773 Yrths)
         surface_area: 5.920 × 10<sup>10</sup> km<sup>2</sup><br/>(116.061 Yrths)
         volume: 1.354 × 10<sup>15</sup> km<sup>3</sup><br/>(1250.337 Yrths)
-        mass: 3.274 × 10<sup>27</sup> kg<br />(73.95225305310686 Yrths)
+        mass: 3.274 × 10<sup>27</sup> kg<br />(548.243 Yrths)
         density: 2.417 g/cm<sup>3</sup>
         surface_gravity: 46.324 m/s<sup>2</sup><br />(4.724 g<sub>0</sub>)
         escape_velocity: 79.797 km/s<br />(287,271 km/h)
         rotation_period: 52.509 d
         axial_tilt: 20.37°
         albedo: 0.30
-        temperature: 30 K<br />(-243 °C)
+        temperature: 153 K<br />(-120 °C)
 ---

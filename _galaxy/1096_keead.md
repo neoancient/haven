@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1096 Keead is a star in the constellation Kee
+      1096 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 555.26 ly
 apparent_magnitude: 7.93
 absolute_magnitude: 1.77

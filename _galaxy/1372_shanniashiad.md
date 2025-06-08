@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1372 Shanniashiad is a star in the constellation Shannias
+      1372 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1088.33 ly
 apparent_magnitude: 17.63
 absolute_magnitude: 10.01

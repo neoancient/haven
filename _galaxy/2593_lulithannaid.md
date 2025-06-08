@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2593 Lulithannaid is a star in the constellation Lulithan
+      2593 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 468.93 ly
 apparent_magnitude: 11.20
 absolute_magnitude: 5.41

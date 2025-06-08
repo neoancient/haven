@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      820 Rinkaiad is a star in the constellation Rinka
+      820 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 806.70 ly
 apparent_magnitude: 11.82
 absolute_magnitude: 4.86

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1009 Keead is a star in the constellation Kee
+      1009 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 385.28 ly
 apparent_magnitude: 10.19
 absolute_magnitude: 4.83

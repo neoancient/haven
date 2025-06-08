@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2347 Tanashad A is a star in the constellation Tanas
+      2347 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 319.75 ly
 apparent_magnitude: 9.87
 absolute_magnitude: 4.91

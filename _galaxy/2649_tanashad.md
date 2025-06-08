@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2649 Tanashad is a star in the constellation Tanas
+      2649 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1108.32 ly
 apparent_magnitude: 6.98
 absolute_magnitude: -0.68
@@ -31,14 +31,14 @@ planets:
     radius: 26,614.2 km<br/>(4.177 Yrths)
     surface_area: 8.901 × 10<sup>09</sup> km<sup>2</sup><br/>(17.451 Yrths)
     volume: 7.896 × 10<sup>13</sup> km<sup>3</sup><br/>(72.898 Yrths)
-    mass: 1.189 × 10<sup>26</sup> kg<br />(19.913341805889576 Yrths)
+    mass: 1.189 × 10<sup>26</sup> kg<br />(19.91 Yrths)
     density: 1.506 g/cm<sup>3</sup>
     surface_gravity: 11.191 m/s<sup>2</sup><br />(1.141 g<sub>0</sub>)
     escape_velocity: 24.423 km/s<br />(87,922 km/h)
     rotation_period: 0.366 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 1216 K<br />(943 °C)
+    temperature: 1105 K<br />(832 °C)
     composition:
       - 80.1008% hydrogen
       - 15.9946% helium
@@ -58,14 +58,14 @@ planets:
         radius: 30,691.7 km<br/>(4.817 Yrths)
         surface_area: 1.184 × 10<sup>10</sup> km<sup>2</sup><br/>(23.207 Yrths)
         volume: 1.211 × 10<sup>14</sup> km<sup>3</sup><br/>(111.799 Yrths)
-        mass: 1.626 × 10<sup>26</sup> kg<br />(19.913341805889576 Yrths)
+        mass: 1.626 × 10<sup>26</sup> kg<br />(27.235 Yrths)
         density: 1.343 g/cm<sup>3</sup>
         surface_gravity: 11.509 m/s<sup>2</sup><br />(1.174 g<sub>0</sub>)
         escape_velocity: 26.597 km/s<br />(95,749 km/h)
         rotation_period: 56.901 d
         axial_tilt: 13.15°
         albedo: 0.30
-        temperature: 5830 K<br />(5557 °C)
+        temperature: 605 K<br />(332 °C)
       - name: 2649 Tanashad I b
         type: Icy
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 28,761.2 km<br/>(4.514 Yrths)
         surface_area: 1.040 × 10<sup>10</sup> km<sup>2</sup><br/>(20.380 Yrths)
         volume: 9.966 × 10<sup>13</sup> km<sup>3</sup><br/>(92.003 Yrths)
-        mass: 1.161 × 10<sup>26</sup> kg<br />(19.913341805889576 Yrths)
+        mass: 1.161 × 10<sup>26</sup> kg<br />(19.442 Yrths)
         density: 1.165 g/cm<sup>3</sup>
         surface_gravity: 9.355 m/s<sup>2</sup><br />(0.954 g<sub>0</sub>)
         escape_velocity: 23.214 km/s<br />(83,569 km/h)
         rotation_period: 68.293 d
         axial_tilt: 18.19°
         albedo: 0.30
-        temperature: 5053 K<br />(4780 °C)
+        temperature: 605 K<br />(332 °C)
       - name: 2649 Tanashad I c
         type: Asteroid
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 17,886.2 km<br/>(2.807 Yrths)
         surface_area: 4.020 × 10<sup>09</sup> km<sup>2</sup><br/>(7.882 Yrths)
         volume: 2.397 × 10<sup>13</sup> km<sup>3</sup><br/>(22.127 Yrths)
-        mass: 4.104 × 10<sup>25</sup> kg<br />(19.913341805889576 Yrths)
+        mass: 4.104 × 10<sup>25</sup> kg<br />(6.871 Yrths)
         density: 1.712 g/cm<sup>3</sup>
         surface_gravity: 8.549 m/s<sup>2</sup><br />(0.872 g<sub>0</sub>)
         escape_velocity: 17.500 km/s<br />(63,000 km/h)
         rotation_period: 53.737 d
         axial_tilt: 57.26°
         albedo: 0.30
-        temperature: 4594 K<br />(4321 °C)
+        temperature: 605 K<br />(332 °C)
       - name: 2649 Tanashad I d
         type: Icy
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 25,391.4 km<br/>(3.985 Yrths)
         surface_area: 8.102 × 10<sup>09</sup> km<sup>2</sup><br/>(15.884 Yrths)
         volume: 6.857 × 10<sup>13</sup> km<sup>3</sup><br/>(63.305 Yrths)
-        mass: 6.927 × 10<sup>25</sup> kg<br />(19.913341805889576 Yrths)
+        mass: 6.927 × 10<sup>25</sup> kg<br />(11.599 Yrths)
         density: 1.010 g/cm<sup>3</sup>
         surface_gravity: 7.161 m/s<sup>2</sup><br />(0.730 g<sub>0</sub>)
         escape_velocity: 19.083 km/s<br />(68,699 km/h)
         rotation_period: 65.595 d
         axial_tilt: 13.77°
         albedo: 0.30
-        temperature: 4380 K<br />(4107 °C)
+        temperature: 605 K<br />(332 °C)
       - name: 2649 Tanashad I e
         type: Icy
         formationType: Accreted
@@ -138,12 +138,12 @@ planets:
         radius: 24,444.5 km<br/>(3.837 Yrths)
         surface_area: 7.509 × 10<sup>09</sup> km<sup>2</sup><br/>(14.721 Yrths)
         volume: 6.118 × 10<sup>13</sup> km<sup>3</sup><br/>(56.484 Yrths)
-        mass: 8.653 × 10<sup>25</sup> kg<br />(19.913341805889576 Yrths)
+        mass: 8.653 × 10<sup>25</sup> kg<br />(14.490 Yrths)
         density: 1.414 g/cm<sup>3</sup>
         surface_gravity: 9.652 m/s<sup>2</sup><br />(0.984 g<sub>0</sub>)
         escape_velocity: 21.738 km/s<br />(78,256 km/h)
         rotation_period: 49.823 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 4176 K<br />(3903 °C)
+        temperature: 605 K<br />(332 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13 Keead is a star in the constellation Kee
+      13 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 170.99 ly
 apparent_magnitude: 16.69
 absolute_magnitude: 13.09

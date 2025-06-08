@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Derna B is a star in the constellation Niokero
+      Derna B is a star in the constellation <a href="niokero.html">Niokero</a>
 distance: 142.84 ly
 apparent_magnitude: 11.97
 absolute_magnitude: 8.77

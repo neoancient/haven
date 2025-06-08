@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0264 Tanashad B is a star in the constellation Tanas
+      0264 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 171.69 ly
 apparent_magnitude: 9.01
 absolute_magnitude: 5.40

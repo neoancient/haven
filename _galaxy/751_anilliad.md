@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      751 Anilliad is a star in the constellation Anil
+      751 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 635.29 ly
 apparent_magnitude: 12.42
 absolute_magnitude: 5.97

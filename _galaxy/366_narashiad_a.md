@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      366 Narashiad A is a star in the constellation Naras
+      366 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 863.49 ly
 apparent_magnitude: 7.04
 absolute_magnitude: -0.08

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3215 Saithiad is a star in the constellation Saith
+      3215 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 532.15 ly
 apparent_magnitude: 10.80
 absolute_magnitude: 4.74

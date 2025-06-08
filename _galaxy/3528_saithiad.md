@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3528 Saithiad is a star in the constellation Saith
+      3528 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 395.96 ly
 apparent_magnitude: 10.06
 absolute_magnitude: 4.63

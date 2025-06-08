@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2250 Tanashad A is a star in the constellation Tanas
+      2250 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 332.65 ly
 apparent_magnitude: 10.44
 absolute_magnitude: 5.40

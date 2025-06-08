@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2186 Athiad is a star in the constellation Ath
+      2186 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 604.98 ly
 apparent_magnitude: 11.62
 absolute_magnitude: 5.28

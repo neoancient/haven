@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4391 Narashiad is a star in the constellation Naras
+      4391 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 329.59 ly
 apparent_magnitude: 11.39
 absolute_magnitude: 6.37

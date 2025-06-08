@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0010 Pokiad C is a star in the constellation Poke
+      0010 Pokiad C is a star in the constellation <a href="poke.html">Poke</a>
 distance: 80.64 ly
 apparent_magnitude: 7.47
 absolute_magnitude: 5.50
@@ -31,14 +31,14 @@ planets:
     radius: 6,220.6 km<br/>(0.976 Yrths)
     surface_area: 4.863 × 10<sup>08</sup> km<sup>2</sup><br/>(0.953 Yrths)
     volume: 1.008 × 10<sup>12</sup> km<sup>3</sup><br/>(0.931 Yrths)
-    mass: 6.144 × 10<sup>24</sup> kg<br />(1.028820368266352 Yrths)
+    mass: 6.144 × 10<sup>24</sup> kg<br />(1.03 Yrths)
     density: 6.094 g/cm<sup>3</sup>
     surface_gravity: 10.583 m/s<sup>2</sup><br />(1.079 g<sub>0</sub>)
     escape_velocity: 11.482 km/s<br />(41,337 km/h)
     rotation_period: 2.277 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 433 K<br />(159 °C)
+    temperature: 1120 K<br />(846 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 67.2375% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 2,525.0 km<br/>(0.396 Yrths)
         surface_area: 8.012 × 10<sup>07</sup> km<sup>2</sup><br/>(0.157 Yrths)
         volume: 6.743 × 10<sup>10</sup> km<sup>3</sup><br/>(0.062 Yrths)
-        mass: 2.228 × 10<sup>23</sup> kg<br />(1.028820368266352 Yrths)
+        mass: 2.228 × 10<sup>23</sup> kg<br />(0.037 Yrths)
         density: 3.304 g/cm<sup>3</sup>
         surface_gravity: 2.329 m/s<sup>2</sup><br />(0.237 g<sub>0</sub>)
         escape_velocity: 3.432 km/s<br />(12,354 km/h)
         rotation_period: 30.647 d
         axial_tilt: 13.84°
         albedo: 0.30
-        temperature: 5576 K<br />(5303 °C)
+        temperature: 328 K<br />(55 °C)
   - name: 0010 Pokiad C II
     type: Large terrestrial
     aphelion: 118,304,835 km<br />0.791 AU
@@ -76,14 +76,14 @@ planets:
     radius: 6,885.0 km<br/>(1.081 Yrths)
     surface_area: 5.957 × 10<sup>08</sup> km<sup>2</sup><br/>(1.168 Yrths)
     volume: 1.367 × 10<sup>12</sup> km<sup>3</sup><br/>(1.262 Yrths)
-    mass: 8.941 × 10<sup>24</sup> kg<br />(1.4970927632535496 Yrths)
+    mass: 8.941 × 10<sup>24</sup> kg<br />(1.50 Yrths)
     density: 6.540 g/cm<sup>3</sup>
     surface_gravity: 12.571 m/s<sup>2</sup><br />(1.282 g<sub>0</sub>)
     escape_velocity: 13.166 km/s<br />(47,397 km/h)
     rotation_period: 1.304 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 425 K<br />(152 °C)
+    temperature: 1186 K<br />(913 °C)
     surface_pressure: 273 kPa<br />(3 atm)
     composition:
       - 100.0000% carbon dioxide
@@ -100,14 +100,14 @@ planets:
         radius: 5,100.4 km<br/>(0.801 Yrths)
         surface_area: 3.269 × 10<sup>08</sup> km<sup>2</sup><br/>(0.641 Yrths)
         volume: 5.558 × 10<sup>11</sup> km<sup>3</sup><br/>(0.513 Yrths)
-        mass: 9.530 × 10<sup>23</sup> kg<br />(1.4970927632535496 Yrths)
+        mass: 9.530 × 10<sup>23</sup> kg<br />(0.160 Yrths)
         density: 1.715 g/cm<sup>3</sup>
         surface_gravity: 2.442 m/s<sup>2</sup><br />(0.249 g<sub>0</sub>)
         escape_velocity: 4.994 km/s<br />(17,979 km/h)
         rotation_period: 46.667 d
         axial_tilt: 23.89°
         albedo: 0.30
-        temperature: 4324 K<br />(4051 °C)
+        temperature: 252 K<br />(-21 °C)
   - name: 0010 Pokiad C III
     type: Terrestrial
     aphelion: 200,407,073 km<br />1.340 AU
@@ -119,14 +119,14 @@ planets:
     radius: 7,100.1 km<br/>(1.114 Yrths)
     surface_area: 6.335 × 10<sup>08</sup> km<sup>2</sup><br/>(1.242 Yrths)
     volume: 1.499 × 10<sup>12</sup> km<sup>3</sup><br/>(1.384 Yrths)
-    mass: 7.605 × 10<sup>24</sup> kg<br />(1.273423254902134 Yrths)
+    mass: 7.605 × 10<sup>24</sup> kg<br />(1.27 Yrths)
     density: 5.072 g/cm<sup>3</sup>
     surface_gravity: 10.055 m/s<sup>2</sup><br />(1.025 g<sub>0</sub>)
     escape_velocity: 11.957 km/s<br />(43,046 km/h)
     rotation_period: 1.146 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 212 K<br />(-61 °C)
+    temperature: 221 K<br />(-52 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 92.2209% nitrogen
@@ -147,14 +147,14 @@ planets:
         radius: 3,692.9 km<br/>(0.580 Yrths)
         surface_area: 1.714 × 10<sup>08</sup> km<sup>2</sup><br/>(0.336 Yrths)
         volume: 2.110 × 10<sup>11</sup> km<sup>3</sup><br/>(0.195 Yrths)
-        mass: 5.580 × 10<sup>23</sup> kg<br />(1.273423254902134 Yrths)
+        mass: 5.580 × 10<sup>23</sup> kg<br />(0.093 Yrths)
         density: 2.645 g/cm<sup>3</sup>
         surface_gravity: 2.727 m/s<sup>2</sup><br />(0.278 g<sub>0</sub>)
         escape_velocity: 4.491 km/s<br />(16,168 km/h)
         rotation_period: 40.978 d
         axial_tilt: 45.47°
         albedo: 0.30
-        temperature: 2599 K<br />(2326 °C)
+        temperature: 194 K<br />(-79 °C)
   - name: 0010 Pokiad C IV
     type: Gas dwarf
     aphelion: 343,961,102 km<br />2.299 AU
@@ -166,14 +166,14 @@ planets:
     radius: 3,767.9 km<br/>(0.591 Yrths)
     surface_area: 1.784 × 10<sup>08</sup> km<sup>2</sup><br/>(0.350 Yrths)
     volume: 2.241 × 10<sup>11</sup> km<sup>3</sup><br/>(0.207 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.665 g/cm<sup>3</sup>
     surface_gravity: 2.804 m/s<sup>2</sup><br />(0.286 g<sub>0</sub>)
     escape_velocity: 4.600 km/s<br />(16,559 km/h)
     rotation_period: 1.293 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 203 K<br />(-70 °C)
+    temperature: 177 K<br />(-96 °C)
     composition:
       - 89.1519% hydrogen
       - 10.7407% helium
@@ -192,14 +192,14 @@ planets:
         radius: 454.0 km<br/>(0.071 Yrths)
         surface_area: 2.591 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.921 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.388 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.388 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 0.864 g/cm<sup>3</sup>
         surface_gravity: 0.110 m/s<sup>2</sup><br />(0.011 g<sub>0</sub>)
         escape_velocity: 0.316 km/s<br />(1,136 km/h)
         rotation_period: 95.466 d
         axial_tilt: 12.64°
         albedo: 0.30
-        temperature: 3014 K<br />(2741 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 0010 Pokiad C IV b
         type: Asteroid
         formationType: Captured
@@ -212,14 +212,14 @@ planets:
         radius: 650.2 km<br/>(0.102 Yrths)
         surface_area: 5.313 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.152 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.497 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.497 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 0.236 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.554 km/s<br />(1,996 km/h)
         rotation_period: 51.957 d
         axial_tilt: 38.79°
         albedo: 0.30
-        temperature: 2740 K<br />(2467 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 0010 Pokiad C IV c
         type: Icy
         formationType: Captured
@@ -232,14 +232,14 @@ planets:
         radius: 663.9 km<br/>(0.104 Yrths)
         surface_area: 5.539 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.226 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.212 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.212 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.989 g/cm<sup>3</sup>
         surface_gravity: 0.183 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.494 km/s<br />(1,777 km/h)
         rotation_period: 69.470 d
         axial_tilt: 12.27°
         albedo: 0.30
-        temperature: 2612 K<br />(2339 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 0010 Pokiad C IV d
         type: Asteroid
         formationType: Captured
@@ -252,14 +252,14 @@ planets:
         radius: 504.8 km<br/>(0.079 Yrths)
         surface_area: 3.202 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.387 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.604 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.604 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.977 g/cm<sup>3</sup>
         surface_gravity: 0.419 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 0.651 km/s<br />(2,344 km/h)
         rotation_period: 55.038 d
         axial_tilt: 19.54°
         albedo: 0.30
-        temperature: 2491 K<br />(2218 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 0010 Pokiad C IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -272,14 +272,14 @@ planets:
         radius: 557.8 km<br/>(0.088 Yrths)
         surface_area: 3.911 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.272 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.589 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.589 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.185 g/cm<sup>3</sup>
         surface_gravity: 0.340 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.617 km/s<br />(2,220 km/h)
         rotation_period: 35.061 d
         axial_tilt: 33.81°
         albedo: 0.30
-        temperature: 2375 K<br />(2102 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 0010 Pokiad C IV f
         type: Asteroid
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 312.6 km<br/>(0.049 Yrths)
         surface_area: 1.228 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 1.280 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 3.284 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 3.284 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.566 g/cm<sup>3</sup>
         surface_gravity: 0.224 m/s<sup>2</sup><br />(0.023 g<sub>0</sub>)
         escape_velocity: 0.374 km/s<br />(1,348 km/h)
         rotation_period: 38.418 d
         axial_tilt: 43.02°
         albedo: 0.30
-        temperature: 2264 K<br />(1991 °C)
+        temperature: 149 K<br />(-124 °C)
       - name: 0010 Pokiad C IV g
         type: Ice/rock hybrid
         formationType: Captured
@@ -312,14 +312,14 @@ planets:
         radius: 599.5 km<br/>(0.094 Yrths)
         surface_area: 4.516 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.023 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.858 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.858 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.059 g/cm<sup>3</sup>
         surface_gravity: 0.345 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.643 km/s<br />(2,315 km/h)
         rotation_period: 46.567 d
         axial_tilt: 27.69°
         albedo: 0.30
-        temperature: 2159 K<br />(1886 °C)
+        temperature: 149 K<br />(-124 °C)
   - name: 0010 Pokiad C V
     type: Ice giant
     aphelion: 613,111,929 km<br />4.098 AU
@@ -331,14 +331,14 @@ planets:
     radius: 26,317.7 km<br/>(4.131 Yrths)
     surface_area: 8.704 × 10<sup>09</sup> km<sup>2</sup><br/>(17.064 Yrths)
     volume: 7.635 × 10<sup>13</sup> km<sup>3</sup><br/>(70.489 Yrths)
-    mass: 1.094 × 10<sup>26</sup> kg<br />(18.320140773034154 Yrths)
+    mass: 1.094 × 10<sup>26</sup> kg<br />(18.32 Yrths)
     density: 1.433 g/cm<sup>3</sup>
     surface_gravity: 10.529 m/s<sup>2</sup><br />(1.074 g<sub>0</sub>)
     escape_velocity: 23.557 km/s<br />(84,805 km/h)
     rotation_period: 0.415 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 203 K<br />(-70 °C)
+    temperature: 184 K<br />(-89 °C)
     composition:
       - 79.4136% hydrogen
       - 17.0288% helium
@@ -357,14 +357,14 @@ planets:
         radius: 19,707.7 km<br/>(3.093 Yrths)
         surface_area: 4.881 × 10<sup>09</sup> km<sup>2</sup><br/>(9.569 Yrths)
         volume: 3.206 × 10<sup>13</sup> km<sup>3</sup><br/>(29.600 Yrths)
-        mass: 6.646 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 6.646 × 10<sup>25</sup> kg<br />(11.128 Yrths)
         density: 2.073 g/cm<sup>3</sup>
         surface_gravity: 11.405 m/s<sup>2</sup><br />(1.163 g<sub>0</sub>)
         escape_velocity: 21.216 km/s<br />(76,379 km/h)
         rotation_period: 36.946 d
         axial_tilt: 24.58°
         albedo: 0.30
-        temperature: 973 K<br />(700 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -377,14 +377,14 @@ planets:
         radius: 13,333.3 km<br/>(2.093 Yrths)
         surface_area: 2.234 × 10<sup>09</sup> km<sup>2</sup><br/>(4.380 Yrths)
         volume: 9.929 × 10<sup>12</sup> km<sup>3</sup><br/>(9.166 Yrths)
-        mass: 2.337 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 2.337 × 10<sup>25</sup> kg<br />(3.913 Yrths)
         density: 2.353 g/cm<sup>3</sup>
         surface_gravity: 8.761 m/s<sup>2</sup><br />(0.893 g<sub>0</sub>)
         escape_velocity: 15.295 km/s<br />(55,063 km/h)
         rotation_period: 32.491 d
         axial_tilt: 19.63°
         albedo: 0.30
-        temperature: 928 K<br />(654 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V c
         type: Icy
         formationType: Captured
@@ -397,14 +397,14 @@ planets:
         radius: 16,407.5 km<br/>(2.575 Yrths)
         surface_area: 3.383 × 10<sup>09</sup> km<sup>2</sup><br/>(6.632 Yrths)
         volume: 1.850 × 10<sup>13</sup> km<sup>3</sup><br/>(17.081 Yrths)
-        mass: 1.959 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 1.959 × 10<sup>25</sup> kg<br />(3.280 Yrths)
         density: 1.059 g/cm<sup>3</sup>
         surface_gravity: 4.850 m/s<sup>2</sup><br />(0.495 g<sub>0</sub>)
         escape_velocity: 12.624 km/s<br />(45,446 km/h)
         rotation_period: 77.851 d
         axial_tilt: 18.10°
         albedo: 0.30
-        temperature: 884 K<br />(611 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V d
         type: Icy
         formationType: Accreted
@@ -417,14 +417,14 @@ planets:
         radius: 13,329.9 km<br/>(2.092 Yrths)
         surface_area: 2.233 × 10<sup>09</sup> km<sup>2</sup><br/>(4.378 Yrths)
         volume: 9.921 × 10<sup>12</sup> km<sup>3</sup><br/>(9.159 Yrths)
-        mass: 1.136 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 1.136 × 10<sup>25</sup> kg<br />(1.902 Yrths)
         density: 1.145 g/cm<sup>3</sup>
         surface_gravity: 4.261 m/s<sup>2</sup><br />(0.434 g<sub>0</sub>)
         escape_velocity: 10.665 km/s<br />(38,395 km/h)
         rotation_period: 60.678 d
         axial_tilt: 18.05°
         albedo: 0.30
-        temperature: 804 K<br />(531 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V e
         type: Asteroid
         formationType: Captured
@@ -437,14 +437,14 @@ planets:
         radius: 10,738.6 km<br/>(1.686 Yrths)
         surface_area: 1.449 × 10<sup>09</sup> km<sup>2</sup><br/>(2.841 Yrths)
         volume: 5.187 × 10<sup>12</sup> km<sup>3</sup><br/>(4.789 Yrths)
-        mass: 1.303 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 1.303 × 10<sup>25</sup> kg<br />(2.182 Yrths)
         density: 2.512 g/cm<sup>3</sup>
         surface_gravity: 7.530 m/s<sup>2</sup><br />(0.768 g<sub>0</sub>)
         escape_velocity: 12.726 km/s<br />(45,813 km/h)
         rotation_period: 33.474 d
         axial_tilt: 47.27°
         albedo: 0.30
-        temperature: 731 K<br />(458 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -457,14 +457,14 @@ planets:
         radius: 16,250.2 km<br/>(2.551 Yrths)
         surface_area: 3.318 × 10<sup>09</sup> km<sup>2</sup><br/>(6.506 Yrths)
         volume: 1.797 × 10<sup>13</sup> km<sup>3</sup><br/>(16.594 Yrths)
-        mass: 3.632 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 3.632 × 10<sup>25</sup> kg<br />(6.081 Yrths)
         density: 2.020 g/cm<sup>3</sup>
         surface_gravity: 9.167 m/s<sup>2</sup><br />(0.935 g<sub>0</sub>)
         escape_velocity: 17.272 km/s<br />(62,179 km/h)
         rotation_period: 42.203 d
         axial_tilt: 18.94°
         albedo: 0.30
-        temperature: 697 K<br />(424 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V g
         type: Icy
         formationType: Captured
@@ -477,14 +477,14 @@ planets:
         radius: 19,655.2 km<br/>(3.085 Yrths)
         surface_area: 4.855 × 10<sup>09</sup> km<sup>2</sup><br/>(9.518 Yrths)
         volume: 3.181 × 10<sup>13</sup> km<sup>3</sup><br/>(29.363 Yrths)
-        mass: 4.355 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 4.355 × 10<sup>25</sup> kg<br />(7.293 Yrths)
         density: 1.369 g/cm<sup>3</sup>
         surface_gravity: 7.514 m/s<sup>2</sup><br />(0.766 g<sub>0</sub>)
         escape_velocity: 17.198 km/s<br />(61,914 km/h)
         rotation_period: 71.232 d
         axial_tilt: 11.02°
         albedo: 0.30
-        temperature: 634 K<br />(360 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V h
         type: Icy
         formationType: Captured
@@ -497,14 +497,14 @@ planets:
         radius: 17,308.7 km<br/>(2.717 Yrths)
         surface_area: 3.765 × 10<sup>09</sup> km<sup>2</sup><br/>(7.381 Yrths)
         volume: 2.172 × 10<sup>13</sup> km<sup>3</sup><br/>(20.052 Yrths)
-        mass: 2.461 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 2.461 × 10<sup>25</sup> kg<br />(4.120 Yrths)
         density: 1.133 g/cm<sup>3</sup>
         surface_gravity: 5.474 m/s<sup>2</sup><br />(0.558 g<sub>0</sub>)
         escape_velocity: 13.776 km/s<br />(49,592 km/h)
         rotation_period: 58.646 d
         axial_tilt: 15.16°
         albedo: 0.30
-        temperature: 604 K<br />(331 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -517,14 +517,14 @@ planets:
         radius: 19,723.0 km<br/>(3.096 Yrths)
         surface_area: 4.888 × 10<sup>09</sup> km<sup>2</sup><br/>(9.584 Yrths)
         volume: 3.214 × 10<sup>13</sup> km<sup>3</sup><br/>(29.669 Yrths)
-        mass: 5.723 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 5.723 × 10<sup>25</sup> kg<br />(9.582 Yrths)
         density: 1.781 g/cm<sup>3</sup>
         surface_gravity: 9.805 m/s<sup>2</sup><br />(1.000 g<sub>0</sub>)
         escape_velocity: 19.680 km/s<br />(70,848 km/h)
         rotation_period: 46.029 d
         axial_tilt: 31.05°
         albedo: 0.30
-        temperature: 576 K<br />(303 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V j
         type: Icy
         formationType: Accreted
@@ -537,14 +537,14 @@ planets:
         radius: 20,644.9 km<br/>(3.240 Yrths)
         surface_area: 5.356 × 10<sup>09</sup> km<sup>2</sup><br/>(10.500 Yrths)
         volume: 3.686 × 10<sup>13</sup> km<sup>3</sup><br/>(34.026 Yrths)
-        mass: 5.598 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 5.598 × 10<sup>25</sup> kg<br />(9.374 Yrths)
         density: 1.519 g/cm<sup>3</sup>
         surface_gravity: 8.754 m/s<sup>2</sup><br />(0.893 g<sub>0</sub>)
         escape_velocity: 19.025 km/s<br />(68,491 km/h)
         rotation_period: 54.945 d
         axial_tilt: 16.62°
         albedo: 0.30
-        temperature: 549 K<br />(276 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V k
         type: Asteroid
         formationType: Captured
@@ -557,14 +557,14 @@ planets:
         radius: 13,827.2 km<br/>(2.170 Yrths)
         surface_area: 2.403 × 10<sup>09</sup> km<sup>2</sup><br/>(4.710 Yrths)
         volume: 1.107 × 10<sup>13</sup> km<sup>3</sup><br/>(10.223 Yrths)
-        mass: 2.047 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 2.047 × 10<sup>25</sup> kg<br />(3.428 Yrths)
         density: 1.849 g/cm<sup>3</sup>
         surface_gravity: 7.138 m/s<sup>2</sup><br />(0.728 g<sub>0</sub>)
         escape_velocity: 14.059 km/s<br />(50,613 km/h)
         rotation_period: 52.238 d
         axial_tilt: 41.70°
         albedo: 0.30
-        temperature: 524 K<br />(250 °C)
+        temperature: 114 K<br />(-159 °C)
       - name: 0010 Pokiad C V l
         type: Ice/rock hybrid
         formationType: Captured
@@ -577,14 +577,14 @@ planets:
         radius: 13,028.1 km<br/>(2.045 Yrths)
         surface_area: 2.133 × 10<sup>09</sup> km<sup>2</sup><br/>(4.182 Yrths)
         volume: 9.263 × 10<sup>12</sup> km<sup>3</sup><br/>(8.551 Yrths)
-        mass: 2.356 × 10<sup>25</sup> kg<br />(18.320140773034154 Yrths)
+        mass: 2.356 × 10<sup>25</sup> kg<br />(3.945 Yrths)
         density: 2.544 g/cm<sup>3</sup>
         surface_gravity: 9.252 m/s<sup>2</sup><br />(0.943 g<sub>0</sub>)
         escape_velocity: 15.537 km/s<br />(55,933 km/h)
         rotation_period: 46.127 d
         axial_tilt: 19.06°
         albedo: 0.30
-        temperature: 476 K<br />(203 °C)
+        temperature: 114 K<br />(-159 °C)
   - name: 0010 Pokiad C VI
     type: Gas giant
     aphelion: 1,007,725,679 km<br />6.736 AU
@@ -596,7 +596,7 @@ planets:
     radius: 168.9 km<br/>(0.027 Yrths)
     surface_area: 3.585 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.018 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.881 × 10<sup>26</sup> kg<br />(81.73370586320517 Yrths)
+    mass: 4.881 × 10<sup>26</sup> kg<br />(81.73 Yrths)
     density: 24183296.170 g/cm<sup>3</sup>
     surface_gravity: 1140405.104 m/s<sup>2</sup><br />(116288.957 g<sub>0</sub>)
     escape_velocity: 621.096 km/s<br />(2,235,946 km/h)
@@ -617,14 +617,14 @@ planets:
         radius: 61,867.6 km<br/>(9.711 Yrths)
         surface_area: 4.810 × 10<sup>10</sup> km<sup>2</sup><br/>(94.300 Yrths)
         volume: 9.919 × 10<sup>14</sup> km<sup>3</sup><br/>(915.727 Yrths)
-        mass: 2.217 × 10<sup>27</sup> kg<br />(81.73370586320517 Yrths)
+        mass: 2.217 × 10<sup>27</sup> kg<br />(371.186 Yrths)
         density: 2.235 g/cm<sup>3</sup>
         surface_gravity: 38.601 m/s<sup>2</sup><br />(3.936 g<sub>0</sub>)
         escape_velocity: 69.158 km/s<br />(248,969 km/h)
         rotation_period: 38.407 d
         axial_tilt: 27.47°
         albedo: 0.30
-        temperature: 582 K<br />(309 °C)
+        temperature: 88 K<br />(-185 °C)
       - name: 0010 Pokiad C VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -637,14 +637,14 @@ planets:
         radius: 66,050.9 km<br/>(10.367 Yrths)
         surface_area: 5.482 × 10<sup>10</sup> km<sup>2</sup><br/>(107.484 Yrths)
         volume: 1.207 × 10<sup>15</sup> km<sup>3</sup><br/>(1114.330 Yrths)
-        mass: 2.521 × 10<sup>27</sup> kg<br />(81.73370586320517 Yrths)
+        mass: 2.521 × 10<sup>27</sup> kg<br />(422.090 Yrths)
         density: 2.088 g/cm<sup>3</sup>
         surface_gravity: 38.511 m/s<sup>2</sup><br />(3.927 g<sub>0</sub>)
         escape_velocity: 71.374 km/s<br />(256,947 km/h)
         rotation_period: 41.164 d
         axial_tilt: 23.87°
         albedo: 0.30
-        temperature: 555 K<br />(282 °C)
+        temperature: 88 K<br />(-185 °C)
       - name: 0010 Pokiad C VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -657,14 +657,14 @@ planets:
         radius: 64,566.1 km<br/>(10.134 Yrths)
         surface_area: 5.239 × 10<sup>10</sup> km<sup>2</sup><br/>(102.705 Yrths)
         volume: 1.127 × 10<sup>15</sup> km<sup>3</sup><br/>(1040.854 Yrths)
-        mass: 2.203 × 10<sup>27</sup> kg<br />(81.73370586320517 Yrths)
+        mass: 2.203 × 10<sup>27</sup> kg<br />(368.966 Yrths)
         density: 1.954 g/cm<sup>3</sup>
         surface_gravity: 35.230 m/s<sup>2</sup><br />(3.592 g<sub>0</sub>)
         escape_velocity: 67.495 km/s<br />(242,980 km/h)
         rotation_period: 42.894 d
         axial_tilt: 8.43°
         albedo: 0.30
-        temperature: 328 K<br />(55 °C)
+        temperature: 88 K<br />(-185 °C)
       - name: 0010 Pokiad C VI d
         type: Icy
         formationType: Accreted
@@ -677,14 +677,14 @@ planets:
         radius: 73,012.5 km<br/>(11.460 Yrths)
         surface_area: 6.699 × 10<sup>10</sup> km<sup>2</sup><br/>(131.335 Yrths)
         volume: 1.630 × 10<sup>15</sup> km<sup>3</sup><br/>(1505.111 Yrths)
-        mass: 1.861 × 10<sup>27</sup> kg<br />(81.73370586320517 Yrths)
+        mass: 1.861 × 10<sup>27</sup> kg<br />(311.582 Yrths)
         density: 1.141 g/cm<sup>3</sup>
         surface_gravity: 23.266 m/s<sup>2</sup><br />(2.372 g<sub>0</sub>)
         escape_velocity: 58.326 km/s<br />(209,975 km/h)
         rotation_period: 79.181 d
         axial_tilt: 25.99°
         albedo: 0.30
-        temperature: 185 K<br />(-88 °C)
+        temperature: 88 K<br />(-185 °C)
       - name: 0010 Pokiad C VI e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -697,14 +697,14 @@ planets:
         radius: 63,599.3 km<br/>(9.983 Yrths)
         surface_area: 5.083 × 10<sup>10</sup> km<sup>2</sup><br/>(99.653 Yrths)
         volume: 1.078 × 10<sup>15</sup> km<sup>3</sup><br/>(994.798 Yrths)
-        mass: 2.250 × 10<sup>27</sup> kg<br />(81.73370586320517 Yrths)
+        mass: 2.250 × 10<sup>27</sup> kg<br />(376.709 Yrths)
         density: 2.088 g/cm<sup>3</sup>
         surface_gravity: 37.071 m/s<sup>2</sup><br />(3.780 g<sub>0</sub>)
         escape_velocity: 68.716 km/s<br />(247,376 km/h)
         rotation_period: 53.161 d
         axial_tilt: 20.29°
         albedo: 0.30
-        temperature: 169 K<br />(-105 °C)
+        temperature: 88 K<br />(-185 °C)
       - name: 0010 Pokiad C VI f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -717,14 +717,14 @@ planets:
         radius: 66,790.7 km<br/>(10.484 Yrths)
         surface_area: 5.606 × 10<sup>10</sup> km<sup>2</sup><br/>(109.905 Yrths)
         volume: 1.248 × 10<sup>15</sup> km<sup>3</sup><br/>(1152.191 Yrths)
-        mass: 2.274 × 10<sup>27</sup> kg<br />(81.73370586320517 Yrths)
+        mass: 2.274 × 10<sup>27</sup> kg<br />(380.791 Yrths)
         density: 1.822 g/cm<sup>3</sup>
         surface_gravity: 33.977 m/s<sup>2</sup><br />(3.465 g<sub>0</sub>)
         escape_velocity: 67.416 km/s<br />(242,698 km/h)
         rotation_period: 61.777 d
         axial_tilt: 23.38°
         albedo: 0.30
-        temperature: 100 K<br />(-173 °C)
+        temperature: 88 K<br />(-185 °C)
       - name: 0010 Pokiad C VI g
         type: Icy
         formationType: Captured
@@ -737,14 +737,14 @@ planets:
         radius: 110,285.8 km<br/>(17.311 Yrths)
         surface_area: 1.528 × 10<sup>11</sup> km<sup>2</sup><br/>(299.657 Yrths)
         volume: 5.619 × 10<sup>15</sup> km<sup>3</sup><br/>(5187.234 Yrths)
-        mass: 9.043 × 10<sup>27</sup> kg<br />(81.73370586320517 Yrths)
+        mass: 9.043 × 10<sup>27</sup> kg<br />(1514.249 Yrths)
         density: 1.609 g/cm<sup>3</sup>
         surface_gravity: 49.556 m/s<sup>2</sup><br />(5.053 g<sub>0</sub>)
         escape_velocity: 104.620 km/s<br />(376,634 km/h)
         rotation_period: 61.494 d
         axial_tilt: 27.44°
         albedo: 0.30
-        temperature: 82 K<br />(-191 °C)
+        temperature: 88 K<br />(-185 °C)
       - name: 0010 Pokiad C VI h
         type: Icy
         formationType: Accreted
@@ -757,14 +757,14 @@ planets:
         radius: 79,334.5 km<br/>(12.452 Yrths)
         surface_area: 7.909 × 10<sup>10</sup> km<sup>2</sup><br/>(155.063 Yrths)
         volume: 2.092 × 10<sup>15</sup> km<sup>3</sup><br/>(1930.915 Yrths)
-        mass: 3.510 × 10<sup>27</sup> kg<br />(81.73370586320517 Yrths)
+        mass: 3.510 × 10<sup>27</sup> kg<br />(587.779 Yrths)
         density: 1.678 g/cm<sup>3</sup>
         surface_gravity: 37.173 m/s<sup>2</sup><br />(3.791 g<sub>0</sub>)
         escape_velocity: 76.852 km/s<br />(276,666 km/h)
         rotation_period: 50.931 d
         axial_tilt: 18.13°
         albedo: 0.30
-        temperature: 42 K<br />(-231 °C)
+        temperature: 88 K<br />(-185 °C)
       - name: 0010 Pokiad C VI i
         type: Icy
         formationType: Accreted
@@ -777,14 +777,14 @@ planets:
         radius: 81,063.9 km<br/>(12.724 Yrths)
         surface_area: 8.258 × 10<sup>10</sup> km<sup>2</sup><br/>(161.897 Yrths)
         volume: 2.231 × 10<sup>15</sup> km<sup>3</sup><br/>(2059.960 Yrths)
-        mass: 3.130 × 10<sup>27</sup> kg<br />(81.73370586320517 Yrths)
+        mass: 3.130 × 10<sup>27</sup> kg<br />(524.080 Yrths)
         density: 1.403 g/cm<sup>3</sup>
         surface_gravity: 31.745 m/s<sup>2</sup><br />(3.237 g<sub>0</sub>)
         escape_velocity: 71.790 km/s<br />(258,443 km/h)
         rotation_period: 61.684 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 40 K<br />(-233 °C)
+        temperature: 88 K<br />(-185 °C)
   - name: 0010 Pokiad C VII
     type: Gas giant
     aphelion: 1,687,932,987 km<br />11.283 AU
@@ -796,7 +796,7 @@ planets:
     radius: 238.0 km<br/>(0.037 Yrths)
     surface_area: 7.121 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.651 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.122 × 10<sup>27</sup> kg<br />(355.3181227311898 Yrths)
+    mass: 2.122 × 10<sup>27</sup> kg<br />(355.32 Yrths)
     density: 37552954.600 g/cm<sup>3</sup>
     surface_gravity: 2495841.224 m/s<sup>2</sup><br />(254504.976 g<sub>0</sub>)
     escape_velocity: 1090.818 km/s<br />(3,926,945 km/h)
@@ -817,14 +817,14 @@ planets:
         radius: 244,514.4 km<br/>(38.379 Yrths)
         surface_area: 7.513 × 10<sup>11</sup> km<sup>2</sup><br/>(1472.970 Yrths)
         volume: 6.124 × 10<sup>16</sup> km<sup>3</sup><br/>(56531.516 Yrths)
-        mass: 7.173 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 7.173 × 10<sup>28</sup> kg<br />(12010.648 Yrths)
         density: 1.171 g/cm<sup>3</sup>
         surface_gravity: 79.964 m/s<sup>2</sup><br />(8.154 g<sub>0</sub>)
         escape_velocity: 197.883 km/s<br />(712,379 km/h)
         rotation_period: 52.189 d
         axial_tilt: 16.45°
         albedo: 0.30
-        temperature: 334 K<br />(61 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII b
         type: Icy
         formationType: Accreted
@@ -837,14 +837,14 @@ planets:
         radius: 206,055.3 km<br/>(32.343 Yrths)
         surface_area: 5.336 × 10<sup>11</sup> km<sup>2</sup><br/>(1046.050 Yrths)
         volume: 3.665 × 10<sup>16</sup> km<sup>3</sup><br/>(33832.072 Yrths)
-        mass: 3.113 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 3.113 × 10<sup>28</sup> kg<br />(5212.086 Yrths)
         density: 0.849 g/cm<sup>3</sup>
         surface_gravity: 48.863 m/s<sup>2</sup><br />(4.983 g<sub>0</sub>)
         escape_velocity: 142.001 km/s<br />(511,204 km/h)
         rotation_period: 101.510 d
         axial_tilt: 14.36°
         albedo: 0.30
-        temperature: 276 K<br />(3 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII c
         type: Icy
         formationType: Accreted
@@ -857,14 +857,14 @@ planets:
         radius: 212,252.2 km<br/>(33.315 Yrths)
         surface_area: 5.661 × 10<sup>11</sup> km<sup>2</sup><br/>(1109.914 Yrths)
         volume: 4.005 × 10<sup>16</sup> km<sup>3</sup><br/>(36977.192 Yrths)
-        mass: 4.948 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 4.948 × 10<sup>28</sup> kg<br />(8285.544 Yrths)
         density: 1.235 g/cm<sup>3</sup>
         surface_gravity: 73.207 m/s<sup>2</sup><br />(7.465 g<sub>0</sub>)
         escape_velocity: 176.406 km/s<br />(635,060 km/h)
         rotation_period: 62.419 d
         axial_tilt: 20.18°
         albedo: 0.30
-        temperature: 228 K<br />(-45 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII d
         type: Icy
         formationType: Accreted
@@ -877,14 +877,14 @@ planets:
         radius: 207,056.9 km<br/>(32.500 Yrths)
         surface_area: 5.388 × 10<sup>11</sup> km<sup>2</sup><br/>(1056.244 Yrths)
         volume: 3.718 × 10<sup>16</sup> km<sup>3</sup><br/>(34327.837 Yrths)
-        mass: 3.282 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 3.282 × 10<sup>28</sup> kg<br />(5495.968 Yrths)
         density: 0.883 g/cm<sup>3</sup>
         surface_gravity: 51.027 m/s<sup>2</sup><br />(5.203 g<sub>0</sub>)
         escape_velocity: 145.464 km/s<br />(523,670 km/h)
         rotation_period: 55.748 d
         axial_tilt: 12.81°
         albedo: 0.30
-        temperature: 217 K<br />(-56 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII e
         type: Dwarf planet
         formationType: Captured
@@ -897,14 +897,14 @@ planets:
         radius: 152,194.3 km<br/>(23.889 Yrths)
         surface_area: 2.911 × 10<sup>11</sup> km<sup>2</sup><br/>(570.666 Yrths)
         volume: 1.477 × 10<sup>16</sup> km<sup>3</sup><br/>(13632.406 Yrths)
-        mass: 2.714 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 2.714 × 10<sup>28</sup> kg<br />(4544.950 Yrths)
         density: 1.838 g/cm<sup>3</sup>
         surface_gravity: 78.103 m/s<sup>2</sup><br />(7.964 g<sub>0</sub>)
         escape_velocity: 154.292 km/s<br />(555,451 km/h)
         rotation_period: 41.186 d
         axial_tilt: 27.87°
         albedo: 0.30
-        temperature: 207 K<br />(-66 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII f
         type: Ice/rock hybrid
         formationType: Captured
@@ -917,14 +917,14 @@ planets:
         radius: 182,595.6 km<br/>(28.660 Yrths)
         surface_area: 4.190 × 10<sup>11</sup> km<sup>2</sup><br/>(821.420 Yrths)
         volume: 2.550 × 10<sup>16</sup> km<sup>3</sup><br/>(23542.260 Yrths)
-        mass: 4.714 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 4.714 × 10<sup>28</sup> kg<br />(7894.278 Yrths)
         density: 1.849 g/cm<sup>3</sup>
         surface_gravity: 94.247 m/s<sup>2</sup><br />(9.611 g<sub>0</sub>)
         escape_velocity: 185.647 km/s<br />(668,331 km/h)
         rotation_period: 59.582 d
         axial_tilt: 18.55°
         albedo: 0.30
-        temperature: 188 K<br />(-85 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -937,14 +937,14 @@ planets:
         radius: 272,593.0 km<br/>(42.787 Yrths)
         surface_area: 9.338 × 10<sup>11</sup> km<sup>2</sup><br/>(1830.687 Yrths)
         volume: 8.485 × 10<sup>16</sup> km<sup>3</sup><br/>(78328.735 Yrths)
-        mass: 2.023 × 10<sup>29</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 2.023 × 10<sup>29</sup> kg<br />(33882.784 Yrths)
         density: 2.385 g/cm<sup>3</sup>
         surface_gravity: 181.504 m/s<sup>2</sup><br />(18.508 g<sub>0</sub>)
         escape_velocity: 314.782 km/s<br />(1,133,215 km/h)
         rotation_period: 62.481 d
         axial_tilt: 11.73°
         albedo: 0.30
-        temperature: 171 K<br />(-102 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII h
         type: Dwarf planet
         formationType: Accreted
@@ -957,14 +957,14 @@ planets:
         radius: 128,708.6 km<br/>(20.202 Yrths)
         surface_area: 2.082 × 10<sup>11</sup> km<sup>2</sup><br/>(408.131 Yrths)
         volume: 8.931 × 10<sup>15</sup> km<sup>3</sup><br/>(8245.167 Yrths)
-        mass: 1.691 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 1.691 × 10<sup>28</sup> kg<br />(2831.256 Yrths)
         density: 1.893 g/cm<sup>3</sup>
         surface_gravity: 68.030 m/s<sup>2</sup><br />(6.937 g<sub>0</sub>)
         escape_velocity: 132.423 km/s<br />(476,723 km/h)
         rotation_period: 46.223 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 163 K<br />(-110 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII i
         type: Rocky
         formationType: Accreted
@@ -977,14 +977,14 @@ planets:
         radius: 102,984.9 km<br/>(16.165 Yrths)
         surface_area: 1.333 × 10<sup>11</sup> km<sup>2</sup><br/>(261.296 Yrths)
         volume: 4.575 × 10<sup>15</sup> km<sup>3</sup><br/>(4223.750 Yrths)
-        mass: 1.313 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 1.313 × 10<sup>28</sup> kg<br />(2198.516 Yrths)
         density: 2.870 g/cm<sup>3</sup>
         surface_gravity: 82.512 m/s<sup>2</sup><br />(8.414 g<sub>0</sub>)
         escape_velocity: 130.454 km/s<br />(469,633 km/h)
         rotation_period: 55.218 d
         axial_tilt: 17.16°
         albedo: 0.30
-        temperature: 135 K<br />(-138 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII j
         type: Asteroid
         formationType: Captured
@@ -997,14 +997,14 @@ planets:
         radius: 185,572.4 km<br/>(29.128 Yrths)
         surface_area: 4.327 × 10<sup>11</sup> km<sup>2</sup><br/>(848.422 Yrths)
         volume: 2.677 × 10<sup>16</sup> km<sup>3</sup><br/>(24712.548 Yrths)
-        mass: 5.162 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 5.162 × 10<sup>28</sup> kg<br />(8643.499 Yrths)
         density: 1.928 g/cm<sup>3</sup>
         surface_gravity: 99.908 m/s<sup>2</sup><br />(10.188 g<sub>0</sub>)
         escape_velocity: 192.693 km/s<br />(693,695 km/h)
         rotation_period: 47.634 d
         axial_tilt: 9.74°
         albedo: 0.30
-        temperature: 123 K<br />(-150 °C)
+        temperature: 68 K<br />(-206 °C)
       - name: 0010 Pokiad C VII k
         type: Icy
         formationType: Captured
@@ -1017,12 +1017,12 @@ planets:
         radius: 139,570.9 km<br/>(21.907 Yrths)
         surface_area: 2.448 × 10<sup>11</sup> km<sup>2</sup><br/>(479.926 Yrths)
         volume: 1.139 × 10<sup>16</sup> km<sup>3</sup><br/>(10513.850 Yrths)
-        mass: 1.975 × 10<sup>28</sup> kg<br />(355.3181227311898 Yrths)
+        mass: 1.975 × 10<sup>28</sup> kg<br />(3306.320 Yrths)
         density: 1.734 g/cm<sup>3</sup>
         surface_gravity: 67.560 m/s<sup>2</sup><br />(6.889 g<sub>0</sub>)
         escape_velocity: 137.421 km/s<br />(494,715 km/h)
         rotation_period: 52.069 d
         axial_tilt: 16.74°
         albedo: 0.30
-        temperature: 117 K<br />(-156 °C)
+        temperature: 68 K<br />(-206 °C)
 ---

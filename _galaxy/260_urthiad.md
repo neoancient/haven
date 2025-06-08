@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      260 Urthiad is a star in the constellation Urth
+      260 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 539.07 ly
 apparent_magnitude: 12.37
 absolute_magnitude: 6.27

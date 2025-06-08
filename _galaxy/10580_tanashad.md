@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10580 Tanashad is a star in the constellation Tanas
+      10580 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 273.59 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 4.83

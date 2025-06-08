@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Wari is a star in the constellation Nignus
+      Wari is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 509.82 ly
 apparent_magnitude: 3.52
 absolute_magnitude: -2.45

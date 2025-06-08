@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0069 Mioruaniad B is a star in the constellation Mioruane
+      0069 Mioruaniad B is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 243.86 ly
 apparent_magnitude: 9.59
 absolute_magnitude: 5.22

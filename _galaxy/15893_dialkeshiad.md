@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      15893 Dialkeshiad is a star in the constellation Dialkes
+      15893 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 421.06 ly
 apparent_magnitude: 10.88
 absolute_magnitude: 5.33

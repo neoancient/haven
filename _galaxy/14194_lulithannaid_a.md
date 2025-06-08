@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      14194 Lulithannaid A is a star in the constellation Lulithan
+      14194 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 539.26 ly
 apparent_magnitude: 7.78
 absolute_magnitude: 1.68

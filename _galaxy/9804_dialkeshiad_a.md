@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9804 Dialkeshiad A is a star in the constellation Dialkes
+      9804 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 535.12 ly
 apparent_magnitude: 7.76
 absolute_magnitude: 1.68

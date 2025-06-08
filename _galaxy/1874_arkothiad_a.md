@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1874 Arkothiad A is a star in the constellation Arkoth
+      1874 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 444.72 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 2.47

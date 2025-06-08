@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7228 Arkothiad is a star in the constellation Arkoth
+      7228 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 370.22 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 4.70

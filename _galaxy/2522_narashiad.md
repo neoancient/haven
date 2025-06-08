@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2522 Narashiad is a star in the constellation Naras
+      2522 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 493.48 ly
 apparent_magnitude: 9.68
 absolute_magnitude: 3.78

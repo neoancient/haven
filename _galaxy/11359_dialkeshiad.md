@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11359 Dialkeshiad is a star in the constellation Dialkes
+      11359 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 395.65 ly
 apparent_magnitude: 10.74
 absolute_magnitude: 5.32

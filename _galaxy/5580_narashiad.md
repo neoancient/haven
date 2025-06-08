@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5580 Narashiad is a star in the constellation Naras
+      5580 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 288.59 ly
 apparent_magnitude: 9.37
 absolute_magnitude: 4.63

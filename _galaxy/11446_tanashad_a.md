@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11446 Tanashad A is a star in the constellation Tanas
+      11446 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 173.88 ly
 apparent_magnitude: 9.03
 absolute_magnitude: 5.40

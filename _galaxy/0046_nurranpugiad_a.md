@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0046 Nurranpugiad A is a star in the constellation Nurranpug
+      0046 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 327.57 ly
 apparent_magnitude: 6.70
 absolute_magnitude: 1.69

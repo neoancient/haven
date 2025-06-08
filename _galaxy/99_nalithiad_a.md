@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      99 Nalithiad A is a star in the constellation Nalith
+      99 Nalithiad A is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 561.87 ly
 apparent_magnitude: 7.19
 absolute_magnitude: 1.01

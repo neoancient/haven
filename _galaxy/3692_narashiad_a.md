@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3692 Narashiad A is a star in the constellation Naras
+      3692 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 360.53 ly
 apparent_magnitude: 7.87
 absolute_magnitude: 2.66

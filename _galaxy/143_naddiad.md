@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      143 Naddiad is a star in the constellation Naddi
+      143 Naddiad is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 335.05 ly
 apparent_magnitude: 11.52
 absolute_magnitude: 6.46

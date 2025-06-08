@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      17049 Dialkeshiad is a star in the constellation Dialkes
+      17049 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 433.32 ly
 apparent_magnitude: 11.07
 absolute_magnitude: 5.45

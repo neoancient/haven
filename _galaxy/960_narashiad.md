@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      960 Narashiad is a star in the constellation Naras
+      960 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 913.57 ly
 apparent_magnitude: 12.39
 absolute_magnitude: 5.15

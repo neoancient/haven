@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      38513 Dialkeshiad A is a star in the constellation Dialkes
+      38513 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 607.21 ly
 apparent_magnitude: 7.12
 absolute_magnitude: 0.77

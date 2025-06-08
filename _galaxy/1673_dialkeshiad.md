@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1673 Dialkeshiad is a star in the constellation Dialkes
+      1673 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 230.44 ly
 apparent_magnitude: 7.63
 absolute_magnitude: 3.38
@@ -31,15 +31,15 @@ planets:
     radius: 9,847.9 km<br/>(1.546 Yrths)
     surface_area: 1.219 × 10<sup>09</sup> km<sup>2</sup><br/>(2.389 Yrths)
     volume: 4.001 × 10<sup>12</sup> km<sup>3</sup><br/>(3.693 Yrths)
-    mass: 3.023 × 10<sup>25</sup> kg<br />(5.0617765373507995 Yrths)
+    mass: 3.023 × 10<sup>25</sup> kg<br />(5.06 Yrths)
     density: 7.556 g/cm<sup>3</sup>
     surface_gravity: 20.775 m/s<sup>2</sup><br />(2.118 g<sub>0</sub>)
     escape_velocity: 20.242 km/s<br />(72,872 km/h)
     rotation_period: 0.707 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 527 K<br />(254 °C)
-    surface_pressure: 2,963 kPa<br />(29 atm)
+    temperature: 564 K<br />(291 °C)
+    surface_pressure: 2,963 kPa<br />(30 atm)
     composition:
       - 90.4657% nitrogen
       - 7.9098% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 11,650.0 km<br/>(1.829 Yrths)
         surface_area: 1.706 × 10<sup>09</sup> km<sup>2</sup><br/>(3.344 Yrths)
         volume: 6.623 × 10<sup>12</sup> km<sup>3</sup><br/>(6.114 Yrths)
-        mass: 6.911 × 10<sup>24</sup> kg<br />(5.0617765373507995 Yrths)
+        mass: 6.911 × 10<sup>24</sup> kg<br />(1.157 Yrths)
         density: 1.043 g/cm<sup>3</sup>
         surface_gravity: 3.394 m/s<sup>2</sup><br />(0.346 g<sub>0</sub>)
         escape_velocity: 8.899 km/s<br />(32,035 km/h)
         rotation_period: 55.150 d
         axial_tilt: 10.61°
         albedo: 0.30
-        temperature: 4135 K<br />(3861 °C)
+        temperature: 350 K<br />(77 °C)
   - name: 1673 Dialkeshiad II
     type: Terrestrial
     aphelion: 274,356,981 km<br />1.834 AU
@@ -76,14 +76,14 @@ planets:
     radius: 7,759.5 km<br/>(1.218 Yrths)
     surface_area: 7.566 × 10<sup>08</sup> km<sup>2</sup><br/>(1.483 Yrths)
     volume: 1.957 × 10<sup>12</sup> km<sup>3</sup><br/>(1.807 Yrths)
-    mass: 1.010 × 10<sup>25</sup> kg<br />(1.6905850106782805 Yrths)
+    mass: 1.010 × 10<sup>25</sup> kg<br />(1.69 Yrths)
     density: 5.159 g/cm<sup>3</sup>
     surface_gravity: 11.176 m/s<sup>2</sup><br />(1.140 g<sub>0</sub>)
     escape_velocity: 13.179 km/s<br />(47,444 km/h)
     rotation_period: 0.903 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 330 K<br />(56 °C)
+    temperature: 331 K<br />(58 °C)
     surface_pressure: 147 kPa<br />(1 atm)
     composition:
       - 81.8134% nitrogen
@@ -103,12 +103,12 @@ planets:
         radius: 4,615.8 km<br/>(0.725 Yrths)
         surface_area: 2.677 × 10<sup>08</sup> km<sup>2</sup><br/>(0.525 Yrths)
         volume: 4.119 × 10<sup>11</sup> km<sup>3</sup><br/>(0.380 Yrths)
-        mass: 9.854 × 10<sup>23</sup> kg<br />(1.6905850106782805 Yrths)
+        mass: 9.854 × 10<sup>23</sup> kg<br />(0.165 Yrths)
         density: 2.392 g/cm<sup>3</sup>
         surface_gravity: 3.083 m/s<sup>2</sup><br />(0.314 g<sub>0</sub>)
         escape_velocity: 5.338 km/s<br />(19,217 km/h)
         rotation_period: 37.991 d
         axial_tilt: 17.73°
         albedo: 0.30
-        temperature: 3674 K<br />(3401 °C)
+        temperature: 262 K<br />(-11 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0053 Rukentuaiad C is a star in the constellation Rukentua
+      0053 Rukentuaiad C is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 151.07 ly
 apparent_magnitude: 8.20
 absolute_magnitude: 4.87

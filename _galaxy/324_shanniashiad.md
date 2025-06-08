@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      324 Shanniashiad is a star in the constellation Shannias
+      324 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 403.03 ly
 apparent_magnitude: 11.70
 absolute_magnitude: 6.24

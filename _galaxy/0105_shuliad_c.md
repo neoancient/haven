@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0105 Shuliad C is a star in the constellation Shuli
+      0105 Shuliad C is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 2349.77 ly
 apparent_magnitude: 18.53
 absolute_magnitude: 9.24
@@ -31,7 +31,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.152 g/cm<sup>3</sup>
     surface_gravity: 31873.845 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 506.4 km<br/>(0.079 Yrths)
         surface_area: 3.222 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.439 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.737 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.737 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.193 g/cm<sup>3</sup>
         surface_gravity: 0.451 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.677 km/s<br />(2,436 km/h)
         rotation_period: 30.076 d
         axial_tilt: 20.30°
         albedo: 0.30
-        temperature: 7144 K<br />(6871 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I b
         type: Dwarf planet
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 597.2 km<br/>(0.094 Yrths)
         surface_area: 4.481 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.920 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.162 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.162 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.424 g/cm<sup>3</sup>
         surface_gravity: 0.404 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.695 km/s<br />(2,503 km/h)
         rotation_period: 40.025 d
         axial_tilt: 38.58°
         albedo: 0.30
-        temperature: 6812 K<br />(6539 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I c
         type: Icy
         formationType: Impact formed
@@ -92,14 +92,14 @@ planets:
         radius: 794.2 km<br/>(0.125 Yrths)
         surface_area: 7.927 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.099 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.221 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.221 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.058 g/cm<sup>3</sup>
         surface_gravity: 0.235 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.611 km/s<br />(2,199 km/h)
         rotation_period: 82.937 d
         axial_tilt: 22.90°
         albedo: 0.30
-        temperature: 6495 K<br />(6222 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I d
         type: Icy
         formationType: Accreted
@@ -112,14 +112,14 @@ planets:
         radius: 718.3 km<br/>(0.113 Yrths)
         surface_area: 6.484 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.552 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.518 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.518 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 0.978 g/cm<sup>3</sup>
         surface_gravity: 0.196 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.531 km/s<br />(1,912 km/h)
         rotation_period: 66.907 d
         axial_tilt: 19.05°
         albedo: 0.30
-        temperature: 6193 K<br />(5919 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I e
         type: Rocky
         formationType: Impact formed
@@ -132,14 +132,14 @@ planets:
         radius: 741.8 km<br/>(0.116 Yrths)
         surface_area: 6.914 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.710 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.838 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.838 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.415 g/cm<sup>3</sup>
         surface_gravity: 0.707 m/s<sup>2</sup><br />(0.072 g<sub>0</sub>)
         escape_velocity: 1.025 km/s<br />(3,690 km/h)
         rotation_period: 45.238 d
         axial_tilt: 13.23°
         albedo: 0.30
-        temperature: 4653 K<br />(4379 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I f
         type: Asteroid
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 540.0 km<br/>(0.085 Yrths)
         surface_area: 3.665 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.597 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.101 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.101 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.184 g/cm<sup>3</sup>
         surface_gravity: 0.480 m/s<sup>2</sup><br />(0.049 g<sub>0</sub>)
         escape_velocity: 0.721 km/s<br />(2,594 km/h)
         rotation_period: 33.389 d
         axial_tilt: 14.08°
         albedo: 0.30
-        temperature: 3666 K<br />(3393 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I g
         type: Icy
         formationType: Impact formed
@@ -172,14 +172,14 @@ planets:
         radius: 696.4 km<br/>(0.109 Yrths)
         surface_area: 6.095 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.415 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.002 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.002 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.415 g/cm<sup>3</sup>
         surface_gravity: 0.275 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.619 km/s<br />(2,230 km/h)
         rotation_period: 46.575 d
         axial_tilt: 17.34°
         albedo: 0.30
-        temperature: 3496 K<br />(3222 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I h
         type: Asteroid
         formationType: Captured
@@ -192,14 +192,14 @@ planets:
         radius: 752.6 km<br/>(0.118 Yrths)
         surface_area: 7.118 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.786 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.513 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.513 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.967 g/cm<sup>3</sup>
         surface_gravity: 0.413 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.789 km/s<br />(2,842 km/h)
         rotation_period: 51.823 d
         axial_tilt: 18.54°
         albedo: 0.30
-        temperature: 3333 K<br />(3060 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -212,14 +212,14 @@ planets:
         radius: 590.4 km<br/>(0.093 Yrths)
         surface_area: 4.381 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.622 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.380 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.380 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.264 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.558 km/s<br />(2,010 km/h)
         rotation_period: 44.103 d
         axial_tilt: 18.27°
         albedo: 0.30
-        temperature: 3030 K<br />(2757 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I j
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -232,14 +232,14 @@ planets:
         radius: 545.6 km<br/>(0.086 Yrths)
         surface_area: 3.741 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.804 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.321 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.321 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.941 g/cm<sup>3</sup>
         surface_gravity: 0.296 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.568 km/s<br />(2,046 km/h)
         rotation_period: 46.420 d
         axial_tilt: 25.89°
         albedo: 0.30
-        temperature: 2754 K<br />(2481 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I k
         type: Rocky
         formationType: Impact formed
@@ -252,14 +252,14 @@ planets:
         radius: 547.8 km<br/>(0.086 Yrths)
         surface_area: 3.771 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.885 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.032 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.032 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.951 g/cm<sup>3</sup>
         surface_gravity: 0.451 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.704 km/s<br />(2,533 km/h)
         rotation_period: 48.910 d
         axial_tilt: 19.81°
         albedo: 0.30
-        temperature: 2626 K<br />(2353 °C)
+        temperature: 339 K<br />(66 °C)
       - name: 0105 Shuliad C I l
         type: Icy
         formationType: Accreted
@@ -272,14 +272,14 @@ planets:
         radius: 1,116.6 km<br/>(0.175 Yrths)
         surface_area: 1.567 × 10<sup>07</sup> km<sup>2</sup><br/>(0.031 Yrths)
         volume: 5.831 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 6.302 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.302 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.081 g/cm<sup>3</sup>
         surface_gravity: 0.337 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.868 km/s<br />(3,125 km/h)
         rotation_period: 79.503 d
         axial_tilt: 14.20°
         albedo: 0.30
-        temperature: 2388 K<br />(2114 °C)
+        temperature: 339 K<br />(66 °C)
   - name: 0105 Shuliad C II
     type: Large terrestrial
     aphelion: 71,104,145 km<br />0.475 AU
@@ -291,14 +291,14 @@ planets:
     radius: 2,839.3 km<br/>(0.446 Yrths)
     surface_area: 1.013 × 10<sup>08</sup> km<sup>2</sup><br/>(0.199 Yrths)
     volume: 9.588 × 10<sup>10</sup> km<sup>3</sup><br/>(0.089 Yrths)
-    mass: 3.820 × 10<sup>25</sup> kg<br />(6.396180752230627 Yrths)
+    mass: 3.820 × 10<sup>25</sup> kg<br />(6.40 Yrths)
     density: 398.381 g/cm<sup>3</sup>
     surface_gravity: 315.806 m/s<sup>2</sup><br />(32.203 g<sub>0</sub>)
     escape_velocity: 42.377 km/s<br />(152,557 km/h)
     rotation_period: 1.643 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 324 K<br />(51 °C)
+    temperature: 280 K<br />(7 °C)
     surface_pressure: 205 kPa<br />(2 atm)
     composition:
       - 100.0000% nitrogen
@@ -315,14 +315,14 @@ planets:
         radius: 2,445.7 km<br/>(0.384 Yrths)
         surface_area: 7.516 × 10<sup>07</sup> km<sup>2</sup><br/>(0.147 Yrths)
         volume: 6.128 × 10<sup>10</sup> km<sup>3</sup><br/>(0.057 Yrths)
-        mass: 2.038 × 10<sup>23</sup> kg<br />(6.396180752230627 Yrths)
+        mass: 2.038 × 10<sup>23</sup> kg<br />(0.034 Yrths)
         density: 3.326 g/cm<sup>3</sup>
         surface_gravity: 2.271 m/s<sup>2</sup><br />(0.232 g<sub>0</sub>)
         escape_velocity: 3.335 km/s<br />(12,006 km/h)
         rotation_period: 41.570 d
         axial_tilt: 20.01°
         albedo: 0.30
-        temperature: 2740 K<br />(2466 °C)
+        temperature: 260 K<br />(-13 °C)
       - name: 0105 Shuliad C II b
         type: Rocky
         formationType: Impact formed
@@ -335,14 +335,14 @@ planets:
         radius: 7,291.0 km<br/>(1.144 Yrths)
         surface_area: 6.680 × 10<sup>08</sup> km<sup>2</sup><br/>(1.310 Yrths)
         volume: 1.624 × 10<sup>12</sup> km<sup>3</sup><br/>(1.499 Yrths)
-        mass: 5.323 × 10<sup>24</sup> kg<br />(6.396180752230627 Yrths)
+        mass: 5.323 × 10<sup>24</sup> kg<br />(0.891 Yrths)
         density: 3.279 g/cm<sup>3</sup>
         surface_gravity: 6.674 m/s<sup>2</sup><br />(0.681 g<sub>0</sub>)
         escape_velocity: 9.872 km/s<br />(35,539 km/h)
         rotation_period: 51.292 d
         axial_tilt: 17.76°
         albedo: 0.30
-        temperature: 2612 K<br />(2339 °C)
+        temperature: 260 K<br />(-13 °C)
       - name: 0105 Shuliad C II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -355,12 +355,12 @@ planets:
         radius: 5,505.3 km<br/>(0.864 Yrths)
         surface_area: 3.809 × 10<sup>08</sup> km<sup>2</sup><br/>(0.747 Yrths)
         volume: 6.989 × 10<sup>11</sup> km<sup>3</sup><br/>(0.645 Yrths)
-        mass: 1.320 × 10<sup>24</sup> kg<br />(6.396180752230627 Yrths)
+        mass: 1.320 × 10<sup>24</sup> kg<br />(0.221 Yrths)
         density: 1.889 g/cm<sup>3</sup>
         surface_gravity: 2.904 m/s<sup>2</sup><br />(0.296 g<sub>0</sub>)
         escape_velocity: 5.658 km/s<br />(20,369 km/h)
         rotation_period: 62.704 d
         axial_tilt: 27.55°
         albedo: 0.30
-        temperature: 2491 K<br />(2217 °C)
+        temperature: 260 K<br />(-13 °C)
 ---

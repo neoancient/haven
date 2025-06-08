@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0033 Atchianniad B is a star in the constellation Atchian
+      0033 Atchianniad B is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 510.36 ly
 apparent_magnitude: 11.70
 absolute_magnitude: 5.73

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4069 Dialkeshiad A is a star in the constellation Dialkes
+      4069 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 562.97 ly
 apparent_magnitude: 8.29
 absolute_magnitude: 2.10

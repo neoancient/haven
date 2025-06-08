@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1028 Lulithannaid is a star in the constellation Lulithan
+      1028 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 221.51 ly
 apparent_magnitude: 8.59
 absolute_magnitude: 4.43

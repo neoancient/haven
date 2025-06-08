@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      φ Niniunniad D is a star in the constellation Niniun
+      φ Niniunniad D is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 581.51 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 4.73
@@ -31,14 +31,14 @@ planets:
     radius: 10,437.2 km<br/>(1.638 Yrths)
     surface_area: 1.369 × 10<sup>09</sup> km<sup>2</sup><br/>(2.684 Yrths)
     volume: 4.763 × 10<sup>12</sup> km<sup>3</sup><br/>(4.397 Yrths)
-    mass: 3.109 × 10<sup>25</sup> kg<br />(5.205631417448479 Yrths)
+    mass: 3.109 × 10<sup>25</sup> kg<br />(5.21 Yrths)
     density: 6.528 g/cm<sup>3</sup>
     surface_gravity: 19.021 m/s<sup>2</sup><br />(1.940 g<sub>0</sub>)
     escape_velocity: 19.940 km/s<br />(71,784 km/h)
     rotation_period: 0.887 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 291 K<br />(18 °C)
+    temperature: 359 K<br />(86 °C)
     surface_pressure: 124 kPa<br />(1 atm)
     composition:
       - 83.1712% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 8,406.0 km<br/>(1.319 Yrths)
         surface_area: 8.880 × 10<sup>08</sup> km<sup>2</sup><br/>(1.741 Yrths)
         volume: 2.488 × 10<sup>12</sup> km<sup>3</sup><br/>(2.297 Yrths)
-        mass: 4.294 × 10<sup>24</sup> kg<br />(5.205631417448479 Yrths)
+        mass: 4.294 × 10<sup>24</sup> kg<br />(0.719 Yrths)
         density: 1.726 g/cm<sup>3</sup>
         surface_gravity: 4.051 m/s<sup>2</sup><br />(0.413 g<sub>0</sub>)
         escape_velocity: 8.258 km/s<br />(29,728 km/h)
         rotation_period: 62.906 d
         axial_tilt: 26.20°
         albedo: 0.30
-        temperature: 2837 K<br />(2564 °C)
+        temperature: 231 K<br />(-42 °C)
       - name: φ Niniunniad D I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 7,306.6 km<br/>(1.147 Yrths)
         surface_area: 6.709 × 10<sup>08</sup> km<sup>2</sup><br/>(1.315 Yrths)
         volume: 1.634 × 10<sup>12</sup> km<sup>3</sup><br/>(1.508 Yrths)
-        mass: 3.685 × 10<sup>24</sup> kg<br />(5.205631417448479 Yrths)
+        mass: 3.685 × 10<sup>24</sup> kg<br />(0.617 Yrths)
         density: 2.256 g/cm<sup>3</sup>
         surface_gravity: 4.601 m/s<sup>2</sup><br />(0.469 g<sub>0</sub>)
         escape_velocity: 8.206 km/s<br />(29,540 km/h)
         rotation_period: 59.502 d
         axial_tilt: 23.14°
         albedo: 0.30
-        temperature: 2705 K<br />(2432 °C)
+        temperature: 231 K<br />(-42 °C)
       - name: φ Niniunniad D I c
         type: Rocky
         formationType: Accreted
@@ -97,12 +97,12 @@ planets:
         radius: 9,440.1 km<br/>(1.482 Yrths)
         surface_area: 1.120 × 10<sup>09</sup> km<sup>2</sup><br/>(2.196 Yrths)
         volume: 3.524 × 10<sup>12</sup> km<sup>3</sup><br/>(3.253 Yrths)
-        mass: 1.138 × 10<sup>25</sup> kg<br />(5.205631417448479 Yrths)
+        mass: 1.138 × 10<sup>25</sup> kg<br />(1.905 Yrths)
         density: 3.228 g/cm<sup>3</sup>
         surface_gravity: 8.509 m/s<sup>2</sup><br />(0.868 g<sub>0</sub>)
         escape_velocity: 12.683 km/s<br />(45,660 km/h)
         rotation_period: 45.003 d
         axial_tilt: 18.72°
         albedo: 0.30
-        temperature: 2579 K<br />(2306 °C)
+        temperature: 231 K<br />(-42 °C)
 ---

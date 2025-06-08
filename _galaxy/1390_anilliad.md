@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1390 Anilliad is a star in the constellation Anil
+      1390 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 433.89 ly
 apparent_magnitude: 11.36
 absolute_magnitude: 5.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Tenioshiad C is a star in the constellation Tenios
+      0015 Tenioshiad C is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 169.45 ly
 apparent_magnitude: 8.58
 absolute_magnitude: 5.01
@@ -31,14 +31,14 @@ planets:
     radius: 27,572.0 km<br/>(4.328 Yrths)
     surface_area: 9.553 × 10<sup>09</sup> km<sup>2</sup><br/>(18.729 Yrths)
     volume: 8.780 × 10<sup>13</sup> km<sup>3</sup><br/>(81.056 Yrths)
-    mass: 1.111 × 10<sup>26</sup> kg<br />(18.60613572993549 Yrths)
+    mass: 1.111 × 10<sup>26</sup> kg<br />(18.61 Yrths)
     density: 1.266 g/cm<sup>3</sup>
     surface_gravity: 9.742 m/s<sup>2</sup><br />(0.993 g<sub>0</sub>)
     escape_velocity: 23.194 km/s<br />(83,498 km/h)
     rotation_period: 0.836 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 546 K<br />(273 °C)
+    temperature: 487 K<br />(214 °C)
     composition:
       - 76.3161% hydrogen
       - 23.6839% helium
@@ -55,14 +55,14 @@ planets:
         radius: 15,516.3 km<br/>(2.435 Yrths)
         surface_area: 3.025 × 10<sup>09</sup> km<sup>2</sup><br/>(5.931 Yrths)
         volume: 1.565 × 10<sup>13</sup> km<sup>3</sup><br/>(14.446 Yrths)
-        mass: 3.532 × 10<sup>25</sup> kg<br />(18.60613572993549 Yrths)
+        mass: 3.532 × 10<sup>25</sup> kg<br />(5.914 Yrths)
         density: 2.257 g/cm<sup>3</sup>
         surface_gravity: 9.778 m/s<sup>2</sup><br />(0.997 g<sub>0</sub>)
         escape_velocity: 17.431 km/s<br />(62,752 km/h)
         rotation_period: 44.636 d
         axial_tilt: 17.18°
         albedo: 0.30
-        temperature: 2764 K<br />(2491 °C)
+        temperature: 321 K<br />(48 °C)
       - name: 0015 Tenioshiad C I b
         type: Rocky
         formationType: Accreted
@@ -75,14 +75,14 @@ planets:
         radius: 15,912.2 km<br/>(2.498 Yrths)
         surface_area: 3.182 × 10<sup>09</sup> km<sup>2</sup><br/>(6.238 Yrths)
         volume: 1.688 × 10<sup>13</sup> km<sup>3</sup><br/>(15.580 Yrths)
-        mass: 5.283 × 10<sup>25</sup> kg<br />(18.60613572993549 Yrths)
+        mass: 5.283 × 10<sup>25</sup> kg<br />(8.847 Yrths)
         density: 3.131 g/cm<sup>3</sup>
         surface_gravity: 13.908 m/s<sup>2</sup><br />(1.418 g<sub>0</sub>)
         escape_velocity: 21.053 km/s<br />(75,790 km/h)
         rotation_period: 50.866 d
         axial_tilt: 13.75°
         albedo: 0.30
-        temperature: 2636 K<br />(2363 °C)
+        temperature: 321 K<br />(48 °C)
       - name: 0015 Tenioshiad C I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -95,14 +95,14 @@ planets:
         radius: 18,356.8 km<br/>(2.881 Yrths)
         surface_area: 4.234 × 10<sup>09</sup> km<sup>2</sup><br/>(8.302 Yrths)
         volume: 2.591 × 10<sup>13</sup> km<sup>3</sup><br/>(23.920 Yrths)
-        mass: 6.476 × 10<sup>25</sup> kg<br />(18.60613572993549 Yrths)
+        mass: 6.476 × 10<sup>25</sup> kg<br />(10.844 Yrths)
         density: 2.499 g/cm<sup>3</sup>
         surface_gravity: 12.810 m/s<sup>2</sup><br />(1.306 g<sub>0</sub>)
         escape_velocity: 21.701 km/s<br />(78,124 km/h)
         rotation_period: 36.407 d
         axial_tilt: 18.26°
         albedo: 0.30
-        temperature: 2513 K<br />(2240 °C)
+        temperature: 321 K<br />(48 °C)
       - name: 0015 Tenioshiad C I d
         type: Icy
         formationType: Accreted
@@ -115,15 +115,35 @@ planets:
         radius: 18,211.0 km<br/>(2.858 Yrths)
         surface_area: 4.167 × 10<sup>09</sup> km<sup>2</sup><br/>(8.171 Yrths)
         volume: 2.530 × 10<sup>13</sup> km<sup>3</sup><br/>(23.355 Yrths)
-        mass: 4.310 × 10<sup>25</sup> kg<br />(18.60613572993549 Yrths)
+        mass: 4.310 × 10<sup>25</sup> kg<br />(7.217 Yrths)
         density: 1.704 g/cm<sup>3</sup>
         surface_gravity: 8.662 m/s<sup>2</sup><br />(0.883 g<sub>0</sub>)
         escape_velocity: 17.774 km/s<br />(63,986 km/h)
         rotation_period: 45.857 d
         axial_tilt: 16.13°
         albedo: 0.30
-        temperature: 2396 K<br />(2123 °C)
+        temperature: 321 K<br />(48 °C)
       - name: 0015 Tenioshiad C I e
+        type: Rocky
+        formationType: Impact formed
+        aphelion: 1,971,074 km<br />
+        perihelion: 1,665,171 km<br />
+        semi_major_axis: 1,818,122 km<br />
+        eccentricity: 0.084
+        orbital_period: 0.01 d<br />
+        inclination: 1.54°
+        radius: 10,325.4 km<br/>(1.621 Yrths)
+        surface_area: 1.340 × 10<sup>09</sup> km<sup>2</sup><br/>(2.627 Yrths)
+        volume: 4.611 × 10<sup>12</sup> km<sup>3</sup><br/>(4.257 Yrths)
+        mass: 1.544 × 10<sup>25</sup> kg<br />(2.585 Yrths)
+        density: 3.348 g/cm<sup>3</sup>
+        surface_gravity: 9.652 m/s<sup>2</sup><br />(0.984 g<sub>0</sub>)
+        escape_velocity: 14.127 km/s<br />(50,859 km/h)
+        rotation_period: 28.113 d
+        axial_tilt: 15.04°
+        albedo: 0.30
+        temperature: 321 K<br />(48 °C)
+      - name: 0015 Tenioshiad C I f
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 2,519,660 km<br />
@@ -135,15 +155,15 @@ planets:
         radius: 25,890.1 km<br/>(4.064 Yrths)
         surface_area: 8.423 × 10<sup>09</sup> km<sup>2</sup><br/>(16.514 Yrths)
         volume: 7.269 × 10<sup>13</sup> km<sup>3</sup><br/>(67.108 Yrths)
-        mass: 1.563 × 10<sup>26</sup> kg<br />(18.60613572993549 Yrths)
+        mass: 1.563 × 10<sup>26</sup> kg<br />(26.164 Yrths)
         density: 2.149 g/cm<sup>3</sup>
         surface_gravity: 15.537 m/s<sup>2</sup><br />(1.584 g<sub>0</sub>)
         escape_velocity: 28.383 km/s<br />(102,180 km/h)
         rotation_period: 65.612 d
         axial_tilt: 27.48°
         albedo: 0.30
-        temperature: 2077 K<br />(1804 °C)
-      - name: 0015 Tenioshiad C I f
+        temperature: 321 K<br />(48 °C)
+      - name: 0015 Tenioshiad C I g
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 2,876,827 km<br />
@@ -155,15 +175,15 @@ planets:
         radius: 30,663.8 km<br/>(4.813 Yrths)
         surface_area: 1.182 × 10<sup>10</sup> km<sup>2</sup><br/>(23.165 Yrths)
         volume: 1.208 × 10<sup>14</sup> km<sup>3</sup><br/>(111.495 Yrths)
-        mass: 3.202 × 10<sup>26</sup> kg<br />(18.60613572993549 Yrths)
+        mass: 3.202 × 10<sup>26</sup> kg<br />(53.611 Yrths)
         density: 2.651 g/cm<sup>3</sup>
         surface_gravity: 22.695 m/s<sup>2</sup><br />(2.314 g<sub>0</sub>)
         escape_velocity: 37.333 km/s<br />(134,398 km/h)
         rotation_period: 34.957 d
         axial_tilt: 30.36°
         albedo: 0.30
-        temperature: 1980 K<br />(1707 °C)
-      - name: 0015 Tenioshiad C I g
+        temperature: 321 K<br />(48 °C)
+      - name: 0015 Tenioshiad C I h
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 2,709,892 km<br />
@@ -175,15 +195,15 @@ planets:
         radius: 20,396.0 km<br/>(3.201 Yrths)
         surface_area: 5.228 × 10<sup>09</sup> km<sup>2</sup><br/>(10.249 Yrths)
         volume: 3.554 × 10<sup>13</sup> km<sup>3</sup><br/>(32.810 Yrths)
-        mass: 8.453 × 10<sup>25</sup> kg<br />(18.60613572993549 Yrths)
+        mass: 8.453 × 10<sup>25</sup> kg<br />(14.155 Yrths)
         density: 2.379 g/cm<sup>3</sup>
         surface_gravity: 13.544 m/s<sup>2</sup><br />(1.381 g<sub>0</sub>)
         escape_velocity: 23.521 km/s<br />(84,677 km/h)
         rotation_period: 44.580 d
         axial_tilt: 13.38°
         albedo: 0.30
-        temperature: 1888 K<br />(1615 °C)
-      - name: 0015 Tenioshiad C I h
+        temperature: 321 K<br />(48 °C)
+      - name: 0015 Tenioshiad C I i
         type: Rocky
         formationType: Accreted
         aphelion: 2,947,234 km<br />
@@ -195,14 +215,14 @@ planets:
         radius: 19,514.1 km<br/>(3.063 Yrths)
         surface_area: 4.785 × 10<sup>09</sup> km<sup>2</sup><br/>(9.382 Yrths)
         volume: 3.113 × 10<sup>13</sup> km<sup>3</sup><br/>(28.736 Yrths)
-        mass: 1.003 × 10<sup>26</sup> kg<br />(18.60613572993549 Yrths)
+        mass: 1.003 × 10<sup>26</sup> kg<br />(16.788 Yrths)
         density: 3.221 g/cm<sup>3</sup>
         surface_gravity: 17.548 m/s<sup>2</sup><br />(1.789 g<sub>0</sub>)
         escape_velocity: 26.188 km/s<br />(94,276 km/h)
         rotation_period: 28.338 d
         axial_tilt: 11.35°
         albedo: 0.30
-        temperature: 1800 K<br />(1527 °C)
+        temperature: 321 K<br />(48 °C)
   - name: 0015 Tenioshiad C II
     type: Ice giant
     aphelion: 164,910,425 km<br />1.102 AU
@@ -214,14 +234,14 @@ planets:
     radius: 29,689.3 km<br/>(4.660 Yrths)
     surface_area: 1.108 × 10<sup>10</sup> km<sup>2</sup><br/>(21.716 Yrths)
     volume: 1.096 × 10<sup>14</sup> km<sup>3</sup><br/>(101.199 Yrths)
-    mass: 1.511 × 10<sup>26</sup> kg<br />(25.307495321216788 Yrths)
+    mass: 1.511 × 10<sup>26</sup> kg<br />(25.31 Yrths)
     density: 1.379 g/cm<sup>3</sup>
     surface_gravity: 11.428 m/s<sup>2</sup><br />(1.165 g<sub>0</sub>)
     escape_velocity: 26.068 km/s<br />(93,844 km/h)
     rotation_period: 0.608 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 401 K<br />(128 °C)
+    temperature: 357 K<br />(84 °C)
     composition:
       - 83.1164% hydrogen
       - 16.8836% helium
@@ -238,14 +258,14 @@ planets:
         radius: 33,976.9 km<br/>(5.333 Yrths)
         surface_area: 1.451 × 10<sup>10</sup> km<sup>2</sup><br/>(28.442 Yrths)
         volume: 1.643 × 10<sup>14</sup> km<sup>3</sup><br/>(151.681 Yrths)
-        mass: 2.561 × 10<sup>26</sup> kg<br />(25.307495321216788 Yrths)
+        mass: 2.561 × 10<sup>26</sup> kg<br />(42.883 Yrths)
         density: 1.559 g/cm<sup>3</sup>
         surface_gravity: 14.786 m/s<sup>2</sup><br />(1.508 g<sub>0</sub>)
         escape_velocity: 31.720 km/s<br />(114,191 km/h)
         rotation_period: 41.996 d
         axial_tilt: 39.67°
         albedo: 0.30
-        temperature: 1886 K<br />(1612 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0015 Tenioshiad C II b
         type: Rocky
         formationType: Accreted
@@ -258,14 +278,14 @@ planets:
         radius: 15,284.1 km<br/>(2.399 Yrths)
         surface_area: 2.936 × 10<sup>09</sup> km<sup>2</sup><br/>(5.755 Yrths)
         volume: 1.496 × 10<sup>13</sup> km<sup>3</sup><br/>(13.807 Yrths)
-        mass: 4.769 × 10<sup>25</sup> kg<br />(25.307495321216788 Yrths)
+        mass: 4.769 × 10<sup>25</sup> kg<br />(7.986 Yrths)
         density: 3.189 g/cm<sup>3</sup>
         surface_gravity: 13.608 m/s<sup>2</sup><br />(1.388 g<sub>0</sub>)
         escape_velocity: 20.409 km/s<br />(73,473 km/h)
         rotation_period: 50.800 d
         axial_tilt: 13.10°
         albedo: 0.30
-        temperature: 1798 K<br />(1525 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0015 Tenioshiad C II c
         type: Icy
         formationType: Accreted
@@ -278,14 +298,14 @@ planets:
         radius: 32,419.3 km<br/>(5.089 Yrths)
         surface_area: 1.321 × 10<sup>10</sup> km<sup>2</sup><br/>(25.894 Yrths)
         volume: 1.427 × 10<sup>14</sup> km<sup>3</sup><br/>(131.762 Yrths)
-        mass: 2.400 × 10<sup>26</sup> kg<br />(25.307495321216788 Yrths)
+        mass: 2.400 × 10<sup>26</sup> kg<br />(40.187 Yrths)
         density: 1.682 g/cm<sup>3</sup>
         surface_gravity: 15.220 m/s<sup>2</sup><br />(1.552 g<sub>0</sub>)
         escape_velocity: 31.435 km/s<br />(113,167 km/h)
         rotation_period: 50.818 d
         axial_tilt: 22.10°
         albedo: 0.30
-        temperature: 1714 K<br />(1441 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0015 Tenioshiad C II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -298,14 +318,14 @@ planets:
         radius: 23,708.1 km<br/>(3.721 Yrths)
         surface_area: 7.063 × 10<sup>09</sup> km<sup>2</sup><br/>(13.848 Yrths)
         volume: 5.582 × 10<sup>13</sup> km<sup>3</sup><br/>(51.531 Yrths)
-        mass: 1.368 × 10<sup>26</sup> kg<br />(25.307495321216788 Yrths)
+        mass: 1.368 × 10<sup>26</sup> kg<br />(22.911 Yrths)
         density: 2.451 g/cm<sup>3</sup>
         surface_gravity: 16.225 m/s<sup>2</sup><br />(1.655 g<sub>0</sub>)
         escape_velocity: 27.756 km/s<br />(99,920 km/h)
         rotation_period: 56.538 d
         axial_tilt: 28.10°
         albedo: 0.30
-        temperature: 1634 K<br />(1361 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0015 Tenioshiad C II e
         type: Icy
         formationType: Accreted
@@ -318,14 +338,14 @@ planets:
         radius: 41,543.2 km<br/>(6.521 Yrths)
         surface_area: 2.169 × 10<sup>10</sup> km<sup>2</sup><br/>(42.519 Yrths)
         volume: 3.003 × 10<sup>14</sup> km<sup>3</sup><br/>(277.253 Yrths)
-        mass: 4.727 × 10<sup>26</sup> kg<br />(25.307495321216788 Yrths)
+        mass: 4.727 × 10<sup>26</sup> kg<br />(79.146 Yrths)
         density: 1.574 g/cm<sup>3</sup>
         surface_gravity: 18.254 m/s<sup>2</sup><br />(1.861 g<sub>0</sub>)
         escape_velocity: 38.971 km/s<br />(140,296 km/h)
         rotation_period: 51.973 d
         axial_tilt: 19.53°
         albedo: 0.30
-        temperature: 1558 K<br />(1285 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0015 Tenioshiad C II f
         type: Icy
         formationType: Captured
@@ -338,14 +358,14 @@ planets:
         radius: 36,193.3 km<br/>(5.681 Yrths)
         surface_area: 1.646 × 10<sup>10</sup> km<sup>2</sup><br/>(32.273 Yrths)
         volume: 1.986 × 10<sup>14</sup> km<sup>3</sup><br/>(183.342 Yrths)
-        mass: 2.476 × 10<sup>26</sup> kg<br />(25.307495321216788 Yrths)
+        mass: 2.476 × 10<sup>26</sup> kg<br />(41.466 Yrths)
         density: 1.247 g/cm<sup>3</sup>
         surface_gravity: 12.600 m/s<sup>2</sup><br />(1.285 g<sub>0</sub>)
         escape_velocity: 30.221 km/s<br />(108,796 km/h)
         rotation_period: 79.359 d
         axial_tilt: 20.76°
         albedo: 0.30
-        temperature: 1486 K<br />(1213 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0015 Tenioshiad C II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -358,14 +378,14 @@ planets:
         radius: 17,589.3 km<br/>(2.761 Yrths)
         surface_area: 3.888 × 10<sup>09</sup> km<sup>2</sup><br/>(7.622 Yrths)
         volume: 2.279 × 10<sup>13</sup> km<sup>3</sup><br/>(21.044 Yrths)
-        mass: 5.191 × 10<sup>25</sup> kg<br />(25.307495321216788 Yrths)
+        mass: 5.191 × 10<sup>25</sup> kg<br />(8.693 Yrths)
         density: 2.277 g/cm<sup>3</sup>
         surface_gravity: 11.184 m/s<sup>2</sup><br />(1.140 g<sub>0</sub>)
         escape_velocity: 19.849 km/s<br />(71,456 km/h)
         rotation_period: 43.784 d
         axial_tilt: 11.49°
         albedo: 0.30
-        temperature: 1417 K<br />(1143 °C)
+        temperature: 242 K<br />(-31 °C)
       - name: 0015 Tenioshiad C II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -378,14 +398,14 @@ planets:
         radius: 25,913.8 km<br/>(4.067 Yrths)
         surface_area: 8.439 × 10<sup>09</sup> km<sup>2</sup><br/>(16.544 Yrths)
         volume: 7.289 × 10<sup>13</sup> km<sup>3</sup><br/>(67.293 Yrths)
-        mass: 1.727 × 10<sup>26</sup> kg<br />(25.307495321216788 Yrths)
+        mass: 1.727 × 10<sup>26</sup> kg<br />(28.910 Yrths)
         density: 2.369 g/cm<sup>3</sup>
         surface_gravity: 17.136 m/s<sup>2</sup><br />(1.747 g<sub>0</sub>)
         escape_velocity: 29.822 km/s<br />(107,359 km/h)
         rotation_period: 45.034 d
         axial_tilt: 30.90°
         albedo: 0.30
-        temperature: 1351 K<br />(1078 °C)
+        temperature: 242 K<br />(-31 °C)
   - name: 0015 Tenioshiad C III
     type: Terrestrial
     aphelion: 287,093,570 km<br />1.919 AU
@@ -397,14 +417,14 @@ planets:
     radius: 7,554.8 km<br/>(1.186 Yrths)
     surface_area: 7.172 × 10<sup>08</sup> km<sup>2</sup><br/>(1.406 Yrths)
     volume: 1.806 × 10<sup>12</sup> km<sup>3</sup><br/>(1.667 Yrths)
-    mass: 8.479 × 10<sup>24</sup> kg<br />(1.4198623916396578 Yrths)
+    mass: 8.479 × 10<sup>24</sup> kg<br />(1.42 Yrths)
     density: 4.695 g/cm<sup>3</sup>
     surface_gravity: 9.902 m/s<sup>2</sup><br />(1.010 g<sub>0</sub>)
     escape_velocity: 12.240 km/s<br />(44,065 km/h)
     rotation_period: 1.009 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 203 K<br />(-70 °C)
+    temperature: 260 K<br />(-13 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 85.6391% nitrogen
@@ -424,14 +444,14 @@ planets:
         radius: 4,155.2 km<br/>(0.652 Yrths)
         surface_area: 2.170 × 10<sup>08</sup> km<sup>2</sup><br/>(0.425 Yrths)
         volume: 3.005 × 10<sup>11</sup> km<sup>3</sup><br/>(0.277 Yrths)
-        mass: 7.212 × 10<sup>23</sup> kg<br />(1.4198623916396578 Yrths)
+        mass: 7.212 × 10<sup>23</sup> kg<br />(0.121 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 2.784 m/s<sup>2</sup><br />(0.284 g<sub>0</sub>)
         escape_velocity: 4.813 km/s<br />(17,329 km/h)
         rotation_period: 36.724 d
         axial_tilt: 17.54°
         albedo: 0.30
-        temperature: 2492 K<br />(2219 °C)
+        temperature: 182 K<br />(-91 °C)
   - name: 0015 Tenioshiad C IV
     type: Terrestrial
     aphelion: 504,198,348 km<br />3.370 AU
@@ -443,14 +463,14 @@ planets:
     radius: 7,158.8 km<br/>(1.124 Yrths)
     surface_area: 6.440 × 10<sup>08</sup> km<sup>2</sup><br/>(1.263 Yrths)
     volume: 1.537 × 10<sup>12</sup> km<sup>3</sup><br/>(1.419 Yrths)
-    mass: 7.453 × 10<sup>24</sup> kg<br />(1.2479697199984243 Yrths)
+    mass: 7.453 × 10<sup>24</sup> kg<br />(1.25 Yrths)
     density: 4.850 g/cm<sup>3</sup>
     surface_gravity: 9.693 m/s<sup>2</sup><br />(0.988 g<sub>0</sub>)
     escape_velocity: 11.789 km/s<br />(42,439 km/h)
     rotation_period: 0.974 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 156 K<br />(-118 °C)
+    temperature: 197 K<br />(-76 °C)
     surface_pressure: 18 kPa<br />(0 atm)
     composition:
       - 76.9205% nitrogen
@@ -471,14 +491,14 @@ planets:
         radius: 3,561.8 km<br/>(0.559 Yrths)
         surface_area: 1.594 × 10<sup>08</sup> km<sup>2</sup><br/>(0.313 Yrths)
         volume: 1.893 × 10<sup>11</sup> km<sup>3</sup><br/>(0.175 Yrths)
-        mass: 5.350 × 10<sup>23</sup> kg<br />(1.2479697199984243 Yrths)
+        mass: 5.350 × 10<sup>23</sup> kg<br />(0.090 Yrths)
         density: 2.827 g/cm<sup>3</sup>
         surface_gravity: 2.811 m/s<sup>2</sup><br />(0.287 g<sub>0</sub>)
         escape_velocity: 4.478 km/s<br />(16,120 km/h)
         rotation_period: 43.943 d
         axial_tilt: 62.36°
         albedo: 0.30
-        temperature: 1929 K<br />(1656 °C)
+        temperature: 137 K<br />(-136 °C)
   - name: 0015 Tenioshiad C V
     type: Gas giant
     aphelion: 889,712,463 km<br />5.947 AU
@@ -490,7 +510,7 @@ planets:
     radius: 192.8 km<br/>(0.030 Yrths)
     surface_area: 4.673 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.004 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.615 × 10<sup>26</sup> kg<br />(144.2566804507055 Yrths)
+    mass: 8.615 × 10<sup>26</sup> kg<br />(144.26 Yrths)
     density: 28682390.320 g/cm<sup>3</sup>
     surface_gravity: 1544201.482 m/s<sup>2</sup><br />(157464.729 g<sub>0</sub>)
     escape_velocity: 772.243 km/s<br />(2,780,073 km/h)
@@ -511,14 +531,14 @@ planets:
         radius: 90,190.4 km<br/>(14.156 Yrths)
         surface_area: 1.022 × 10<sup>11</sup> km<sup>2</sup><br/>(200.404 Yrths)
         volume: 3.073 × 10<sup>15</sup> km<sup>3</sup><br/>(2836.995 Yrths)
-        mass: 7.978 × 10<sup>27</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 7.978 × 10<sup>27</sup> kg<br />(1335.966 Yrths)
         density: 2.596 g/cm<sup>3</sup>
         surface_gravity: 65.375 m/s<sup>2</sup><br />(6.666 g<sub>0</sub>)
         escape_velocity: 108.666 km/s<br />(391,199 km/h)
         rotation_period: 47.710 d
         axial_tilt: 15.38°
         albedo: 0.30
-        temperature: 475 K<br />(202 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0015 Tenioshiad C V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -531,14 +551,14 @@ planets:
         radius: 97,227.3 km<br/>(15.261 Yrths)
         surface_area: 1.188 × 10<sup>11</sup> km<sup>2</sup><br/>(232.895 Yrths)
         volume: 3.850 × 10<sup>15</sup> km<sup>3</sup><br/>(3554.196 Yrths)
-        mass: 6.449 × 10<sup>27</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 6.449 × 10<sup>27</sup> kg<br />(1079.811 Yrths)
         density: 1.675 g/cm<sup>3</sup>
         surface_gravity: 45.468 m/s<sup>2</sup><br />(4.636 g<sub>0</sub>)
         escape_velocity: 94.093 km/s<br />(338,735 km/h)
         rotation_period: 50.748 d
         axial_tilt: 12.83°
         albedo: 0.30
-        temperature: 357 K<br />(83 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0015 Tenioshiad C V c
         type: Icy
         formationType: Accreted
@@ -551,14 +571,14 @@ planets:
         radius: 120,693.6 km<br/>(18.944 Yrths)
         surface_area: 1.831 × 10<sup>11</sup> km<sup>2</sup><br/>(358.883 Yrths)
         volume: 7.364 × 10<sup>15</sup> km<sup>3</sup><br/>(6798.757 Yrths)
-        mass: 7.245 × 10<sup>27</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 7.245 × 10<sup>27</sup> kg<br />(1213.205 Yrths)
         density: 0.984 g/cm<sup>3</sup>
         surface_gravity: 33.151 m/s<sup>2</sup><br />(3.381 g<sub>0</sub>)
         escape_velocity: 89.516 km/s<br />(322,259 km/h)
         rotation_period: 94.104 d
         axial_tilt: 16.10°
         albedo: 0.30
-        temperature: 201 K<br />(-72 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0015 Tenioshiad C V d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -571,14 +591,14 @@ planets:
         radius: 109,467.9 km<br/>(17.182 Yrths)
         surface_area: 1.506 × 10<sup>11</sup> km<sup>2</sup><br/>(295.228 Yrths)
         volume: 5.495 × 10<sup>15</sup> km<sup>3</sup><br/>(5072.676 Yrths)
-        mass: 9.809 × 10<sup>27</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 9.809 × 10<sup>27</sup> kg<br />(1642.530 Yrths)
         density: 1.785 g/cm<sup>3</sup>
         surface_gravity: 54.560 m/s<sup>2</sup><br />(5.564 g<sub>0</sub>)
         escape_velocity: 109.368 km/s<br />(393,726 km/h)
         rotation_period: 46.009 d
         axial_tilt: 10.19°
         albedo: 0.30
-        temperature: 81 K<br />(-192 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0015 Tenioshiad C V e
         type: Rocky
         formationType: Accreted
@@ -591,14 +611,14 @@ planets:
         radius: 82,714.4 km<br/>(12.983 Yrths)
         surface_area: 8.598 × 10<sup>10</sup> km<sup>2</sup><br/>(168.557 Yrths)
         volume: 2.370 × 10<sup>15</sup> km<sup>3</sup><br/>(2188.370 Yrths)
-        mass: 6.405 × 10<sup>27</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 6.405 × 10<sup>27</sup> kg<br />(1072.580 Yrths)
         density: 2.702 g/cm<sup>3</sup>
         surface_gravity: 62.403 m/s<sup>2</sup><br />(6.363 g<sub>0</sub>)
         escape_velocity: 101.672 km/s<br />(366,020 km/h)
         rotation_period: 36.507 d
         axial_tilt: 11.42°
         albedo: 0.30
-        temperature: 74 K<br />(-199 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0015 Tenioshiad C V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -611,14 +631,14 @@ planets:
         radius: 91,233.2 km<br/>(14.320 Yrths)
         surface_area: 1.046 × 10<sup>11</sup> km<sup>2</sup><br/>(205.065 Yrths)
         volume: 3.181 × 10<sup>15</sup> km<sup>3</sup><br/>(2936.540 Yrths)
-        mass: 6.298 × 10<sup>27</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 6.298 × 10<sup>27</sup> kg<br />(1054.591 Yrths)
         density: 1.980 g/cm<sup>3</sup>
         surface_gravity: 50.433 m/s<sup>2</sup><br />(5.143 g<sub>0</sub>)
         escape_velocity: 95.994 km/s<br />(345,578 km/h)
         rotation_period: 41.713 d
         axial_tilt: 14.17°
         albedo: 0.30
-        temperature: 71 K<br />(-203 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0015 Tenioshiad C V g
         type: Icy
         formationType: Accreted
@@ -631,14 +651,14 @@ planets:
         radius: 135,228.3 km<br/>(21.226 Yrths)
         surface_area: 2.298 × 10<sup>11</sup> km<sup>2</sup><br/>(450.526 Yrths)
         volume: 1.036 × 10<sup>16</sup> km<sup>3</sup><br/>(9562.680 Yrths)
-        mass: 1.334 × 10<sup>28</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 1.334 × 10<sup>28</sup> kg<br />(2233.384 Yrths)
         density: 1.288 g/cm<sup>3</sup>
         surface_gravity: 48.614 m/s<sup>2</sup><br />(4.957 g<sub>0</sub>)
         escape_velocity: 114.743 km/s<br />(413,074 km/h)
         rotation_period: 70.646 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 51 K<br />(-223 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0015 Tenioshiad C V h
         type: Icy
         formationType: Captured
@@ -651,14 +671,14 @@ planets:
         radius: 126,684.2 km<br/>(19.885 Yrths)
         surface_area: 2.017 × 10<sup>11</sup> km<sup>2</sup><br/>(395.393 Yrths)
         volume: 8.516 × 10<sup>15</sup> km<sup>3</sup><br/>(7862.204 Yrths)
-        mass: 1.222 × 10<sup>28</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 1.222 × 10<sup>28</sup> kg<br />(2045.956 Yrths)
         density: 1.435 g/cm<sup>3</sup>
         surface_gravity: 50.744 m/s<sup>2</sup><br />(5.174 g<sub>0</sub>)
         escape_velocity: 113.466 km/s<br />(408,477 km/h)
         rotation_period: 66.235 d
         axial_tilt: 9.12°
         albedo: 0.30
-        temperature: 40 K<br />(-233 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0015 Tenioshiad C V i
         type: Icy
         formationType: Accreted
@@ -671,14 +691,14 @@ planets:
         radius: 120,337.6 km<br/>(18.888 Yrths)
         surface_area: 1.820 × 10<sup>11</sup> km<sup>2</sup><br/>(356.770 Yrths)
         volume: 7.299 × 10<sup>15</sup> km<sup>3</sup><br/>(6738.785 Yrths)
-        mass: 1.380 × 10<sup>28</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 1.380 × 10<sup>28</sup> kg<br />(2310.656 Yrths)
         density: 1.890 g/cm<sup>3</sup>
         surface_gravity: 63.514 m/s<sup>2</sup><br />(6.477 g<sub>0</sub>)
         escape_velocity: 123.721 km/s<br />(445,397 km/h)
         rotation_period: 36.599 d
         axial_tilt: 25.20°
         albedo: 0.30
-        temperature: 21 K<br />(-252 °C)
+        temperature: 103 K<br />(-170 °C)
       - name: 0015 Tenioshiad C V j
         type: Icy
         formationType: Captured
@@ -691,14 +711,14 @@ planets:
         radius: 119,056.8 km<br/>(18.687 Yrths)
         surface_area: 1.781 × 10<sup>11</sup> km<sup>2</sup><br/>(349.215 Yrths)
         volume: 7.069 × 10<sup>15</sup> km<sup>3</sup><br/>(6525.884 Yrths)
-        mass: 8.412 × 10<sup>27</sup> kg<br />(144.2566804507055 Yrths)
+        mass: 8.412 × 10<sup>27</sup> kg<br />(1408.609 Yrths)
         density: 1.190 g/cm<sup>3</sup>
         surface_gravity: 39.557 m/s<sup>2</sup><br />(4.034 g<sub>0</sub>)
         escape_velocity: 97.117 km/s<br />(349,622 km/h)
         rotation_period: 84.228 d
         axial_tilt: 23.03°
         albedo: 0.30
-        temperature: 19 K<br />(-255 °C)
+        temperature: 103 K<br />(-170 °C)
   - name: 0015 Tenioshiad C VI
     type: Gas dwarf
     aphelion: 1,575,854,445 km<br />10.534 AU
@@ -710,14 +730,14 @@ planets:
     radius: 20,248.4 km<br/>(3.178 Yrths)
     surface_area: 5.152 × 10<sup>09</sup> km<sup>2</sup><br/>(10.101 Yrths)
     volume: 3.477 × 10<sup>13</sup> km<sup>3</sup><br/>(32.103 Yrths)
-    mass: 7.810 × 10<sup>25</sup> kg<br />(13.078175308676666 Yrths)
+    mass: 7.810 × 10<sup>25</sup> kg<br />(13.08 Yrths)
     density: 2.246 g/cm<sup>3</sup>
     surface_gravity: 12.697 m/s<sup>2</sup><br />(1.295 g<sub>0</sub>)
     escape_velocity: 22.691 km/s<br />(81,688 km/h)
     rotation_period: 0.387 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 109 K<br />(-165 °C)
+    temperature: 97 K<br />(-177 °C)
     composition:
       - 78.5091% hydrogen
       - 17.0327% helium
@@ -736,14 +756,14 @@ planets:
         radius: 17,934.3 km<br/>(2.815 Yrths)
         surface_area: 4.042 × 10<sup>09</sup> km<sup>2</sup><br/>(7.924 Yrths)
         volume: 2.416 × 10<sup>13</sup> km<sup>3</sup><br/>(22.307 Yrths)
-        mass: 5.014 × 10<sup>25</sup> kg<br />(13.078175308676666 Yrths)
+        mass: 5.014 × 10<sup>25</sup> kg<br />(8.396 Yrths)
         density: 2.075 g/cm<sup>3</sup>
         surface_gravity: 10.391 m/s<sup>2</sup><br />(1.060 g<sub>0</sub>)
         escape_velocity: 19.319 km/s<br />(69,547 km/h)
         rotation_period: 38.256 d
         axial_tilt: 12.95°
         albedo: 0.30
-        temperature: 711 K<br />(438 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0015 Tenioshiad C VI b
         type: Icy
         formationType: Impact formed
@@ -756,14 +776,14 @@ planets:
         radius: 9,772.4 km<br/>(1.534 Yrths)
         surface_area: 1.200 × 10<sup>09</sup> km<sup>2</sup><br/>(2.353 Yrths)
         volume: 3.909 × 10<sup>12</sup> km<sup>3</sup><br/>(3.609 Yrths)
-        mass: 6.033 × 10<sup>24</sup> kg<br />(13.078175308676666 Yrths)
+        mass: 6.033 × 10<sup>24</sup> kg<br />(1.010 Yrths)
         density: 1.543 g/cm<sup>3</sup>
         surface_gravity: 4.211 m/s<sup>2</sup><br />(0.429 g<sub>0</sub>)
         escape_velocity: 9.078 km/s<br />(32,681 km/h)
         rotation_period: 48.312 d
         axial_tilt: 18.80°
         albedo: 0.30
-        temperature: 678 K<br />(405 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0015 Tenioshiad C VI c
         type: Icy
         formationType: Impact formed
@@ -776,14 +796,14 @@ planets:
         radius: 19,358.9 km<br/>(3.039 Yrths)
         surface_area: 4.709 × 10<sup>09</sup> km<sup>2</sup><br/>(9.233 Yrths)
         volume: 3.039 × 10<sup>13</sup> km<sup>3</sup><br/>(28.055 Yrths)
-        mass: 5.191 × 10<sup>25</sup> kg<br />(13.078175308676666 Yrths)
+        mass: 5.191 × 10<sup>25</sup> kg<br />(8.692 Yrths)
         density: 1.708 g/cm<sup>3</sup>
         surface_gravity: 9.232 m/s<sup>2</sup><br />(0.941 g<sub>0</sub>)
         escape_velocity: 18.919 km/s<br />(68,108 km/h)
         rotation_period: 49.583 d
         axial_tilt: 11.50°
         albedo: 0.30
-        temperature: 646 K<br />(373 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0015 Tenioshiad C VI d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -796,14 +816,14 @@ planets:
         radius: 13,128.9 km<br/>(2.061 Yrths)
         surface_area: 2.166 × 10<sup>09</sup> km<sup>2</sup><br/>(4.247 Yrths)
         volume: 9.479 × 10<sup>12</sup> km<sup>3</sup><br/>(8.751 Yrths)
-        mass: 1.870 × 10<sup>25</sup> kg<br />(13.078175308676666 Yrths)
+        mass: 1.870 × 10<sup>25</sup> kg<br />(3.131 Yrths)
         density: 1.972 g/cm<sup>3</sup>
         surface_gravity: 7.230 m/s<sup>2</sup><br />(0.737 g<sub>0</sub>)
         escape_velocity: 13.787 km/s<br />(49,634 km/h)
         rotation_period: 53.317 d
         axial_tilt: 15.54°
         albedo: 0.30
-        temperature: 616 K<br />(343 °C)
+        temperature: 78 K<br />(-195 °C)
   - name: 0015 Tenioshiad C VII
     type: Ice giant
     aphelion: 2,848,459,270 km<br />19.041 AU
@@ -815,14 +835,14 @@ planets:
     radius: 26,045.0 km<br/>(4.088 Yrths)
     surface_area: 8.524 × 10<sup>09</sup> km<sup>2</sup><br/>(16.712 Yrths)
     volume: 7.401 × 10<sup>13</sup> km<sup>3</sup><br/>(68.321 Yrths)
-    mass: 9.244 × 10<sup>25</sup> kg<br />(15.479342886856026 Yrths)
+    mass: 9.244 × 10<sup>25</sup> kg<br />(15.48 Yrths)
     density: 1.249 g/cm<sup>3</sup>
     surface_gravity: 9.083 m/s<sup>2</sup><br />(0.926 g<sub>0</sub>)
     escape_velocity: 21.767 km/s<br />(78,360 km/h)
     rotation_period: 0.347 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 108 K<br />(-165 °C)
+    temperature: 100 K<br />(-173 °C)
     composition:
       - 71.7595% hydrogen
       - 22.4835% helium
@@ -841,14 +861,14 @@ planets:
         radius: 22,405.3 km<br/>(3.517 Yrths)
         surface_area: 6.308 × 10<sup>09</sup> km<sup>2</sup><br/>(12.368 Yrths)
         volume: 4.711 × 10<sup>13</sup> km<sup>3</sup><br/>(43.494 Yrths)
-        mass: 1.284 × 10<sup>26</sup> kg<br />(15.479342886856026 Yrths)
+        mass: 1.284 × 10<sup>26</sup> kg<br />(21.506 Yrths)
         density: 2.726 g/cm<sup>3</sup>
         surface_gravity: 17.053 m/s<sup>2</sup><br />(1.739 g<sub>0</sub>)
         escape_velocity: 27.662 km/s<br />(99,583 km/h)
         rotation_period: 58.266 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 498 K<br />(225 °C)
+        temperature: 59 K<br />(-215 °C)
       - name: 0015 Tenioshiad C VII b
         type: Icy
         formationType: Accreted
@@ -861,14 +881,14 @@ planets:
         radius: 31,237.9 km<br/>(4.903 Yrths)
         surface_area: 1.226 × 10<sup>10</sup> km<sup>2</sup><br/>(24.041 Yrths)
         volume: 1.277 × 10<sup>14</sup> km<sup>3</sup><br/>(117.875 Yrths)
-        mass: 1.244 × 10<sup>26</sup> kg<br />(15.479342886856026 Yrths)
+        mass: 1.244 × 10<sup>26</sup> kg<br />(20.839 Yrths)
         density: 0.975 g/cm<sup>3</sup>
         surface_gravity: 8.500 m/s<sup>2</sup><br />(0.867 g<sub>0</sub>)
         escape_velocity: 23.061 km/s<br />(83,018 km/h)
         rotation_period: 67.936 d
         axial_tilt: 14.66°
         albedo: 0.30
-        temperature: 475 K<br />(202 °C)
+        temperature: 59 K<br />(-215 °C)
       - name: 0015 Tenioshiad C VII c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -881,14 +901,14 @@ planets:
         radius: 18,821.4 km<br/>(2.954 Yrths)
         surface_area: 4.452 × 10<sup>09</sup> km<sup>2</sup><br/>(8.728 Yrths)
         volume: 2.793 × 10<sup>13</sup> km<sup>3</sup><br/>(25.783 Yrths)
-        mass: 6.126 × 10<sup>25</sup> kg<br />(15.479342886856026 Yrths)
+        mass: 6.126 × 10<sup>25</sup> kg<br />(10.258 Yrths)
         density: 2.194 g/cm<sup>3</sup>
         surface_gravity: 11.527 m/s<sup>2</sup><br />(1.175 g<sub>0</sub>)
         escape_velocity: 20.844 km/s<br />(75,040 km/h)
         rotation_period: 64.539 d
         axial_tilt: 13.16°
         albedo: 0.30
-        temperature: 412 K<br />(139 °C)
+        temperature: 59 K<br />(-215 °C)
       - name: 0015 Tenioshiad C VII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -901,14 +921,14 @@ planets:
         radius: 17,741.2 km<br/>(2.785 Yrths)
         surface_area: 3.955 × 10<sup>09</sup> km<sup>2</sup><br/>(7.754 Yrths)
         volume: 2.339 × 10<sup>13</sup> km<sup>3</sup><br/>(21.594 Yrths)
-        mass: 5.428 × 10<sup>25</sup> kg<br />(15.479342886856026 Yrths)
+        mass: 5.428 × 10<sup>25</sup> kg<br />(9.089 Yrths)
         density: 2.321 g/cm<sup>3</sup>
         surface_gravity: 11.495 m/s<sup>2</sup><br />(1.172 g<sub>0</sub>)
         escape_velocity: 20.210 km/s<br />(72,754 km/h)
         rotation_period: 44.758 d
         axial_tilt: 13.50°
         albedo: 0.30
-        temperature: 340 K<br />(67 °C)
+        temperature: 59 K<br />(-215 °C)
       - name: 0015 Tenioshiad C VII e
         type: Dwarf planet
         formationType: Accreted
@@ -921,12 +941,12 @@ planets:
         radius: 21,604.8 km<br/>(3.391 Yrths)
         surface_area: 5.866 × 10<sup>09</sup> km<sup>2</sup><br/>(11.500 Yrths)
         volume: 4.224 × 10<sup>13</sup> km<sup>3</sup><br/>(38.997 Yrths)
-        mass: 9.015 × 10<sup>25</sup> kg<br />(15.479342886856026 Yrths)
+        mass: 9.015 × 10<sup>25</sup> kg<br />(15.095 Yrths)
         density: 2.134 g/cm<sup>3</sup>
         surface_gravity: 12.872 m/s<sup>2</sup><br />(1.313 g<sub>0</sub>)
         escape_velocity: 23.600 km/s<br />(84,961 km/h)
         rotation_period: 35.195 d
         axial_tilt: 32.80°
         albedo: 0.30
-        temperature: 309 K<br />(36 °C)
+        temperature: 59 K<br />(-215 °C)
 ---

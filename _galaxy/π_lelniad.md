@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      π Lelniad is a star in the constellation Leln
+      π Lelniad is a star in the constellation <a href="leln.html">Leln</a>
 distance: 67.17 ly
 apparent_magnitude: 5.57
 absolute_magnitude: 4.00
@@ -31,14 +31,14 @@ planets:
     radius: 9,292.4 km<br/>(1.459 Yrths)
     surface_area: 1.085 × 10<sup>09</sup> km<sup>2</sup><br/>(2.127 Yrths)
     volume: 3.361 × 10<sup>12</sup> km<sup>3</sup><br/>(3.103 Yrths)
-    mass: 2.522 × 10<sup>25</sup> kg<br />(4.223696900440599 Yrths)
+    mass: 2.522 × 10<sup>25</sup> kg<br />(4.22 Yrths)
     density: 7.505 g/cm<sup>3</sup>
     surface_gravity: 19.470 m/s<sup>2</sup><br />(1.985 g<sub>0</sub>)
     escape_velocity: 19.035 km/s<br />(68,527 km/h)
     rotation_period: 0.866 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 446 K<br />(173 °C)
+    temperature: 434 K<br />(161 °C)
     surface_pressure: 967 kPa<br />(10 atm)
     composition:
       - 95.0719% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 1,471.7 km<br/>(0.231 Yrths)
         surface_area: 2.722 × 10<sup>07</sup> km<sup>2</sup><br/>(0.053 Yrths)
         volume: 1.335 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 1.563 × 10<sup>22</sup> kg<br />(4.223696900440599 Yrths)
+        mass: 1.563 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.171 g/cm<sup>3</sup>
         surface_gravity: 0.481 m/s<sup>2</sup><br />(0.049 g<sub>0</sub>)
         escape_velocity: 1.191 km/s<br />(4,287 km/h)
         rotation_period: 66.855 d
         axial_tilt: 20.24°
         albedo: 0.30
-        temperature: 3637 K<br />(3364 °C)
+        temperature: 323 K<br />(50 °C)
       - name: π Lelniad I b
         type: Rocky
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 9,086.7 km<br/>(1.426 Yrths)
         surface_area: 1.038 × 10<sup>09</sup> km<sup>2</sup><br/>(2.034 Yrths)
         volume: 3.143 × 10<sup>12</sup> km<sup>3</sup><br/>(2.901 Yrths)
-        mass: 1.050 × 10<sup>25</sup> kg<br />(4.223696900440599 Yrths)
+        mass: 1.050 × 10<sup>25</sup> kg<br />(1.758 Yrths)
         density: 3.341 g/cm<sup>3</sup>
         surface_gravity: 8.476 m/s<sup>2</sup><br />(0.864 g<sub>0</sub>)
         escape_velocity: 12.420 km/s<br />(44,711 km/h)
         rotation_period: 37.383 d
         axial_tilt: 15.67°
         albedo: 0.30
-        temperature: 3468 K<br />(3194 °C)
+        temperature: 323 K<br />(50 °C)
   - name: π Lelniad II
     type: Gas giant
     aphelion: 269,189,762 km<br />1.799 AU
@@ -95,7 +95,7 @@ planets:
     radius: 216.1 km<br/>(0.034 Yrths)
     surface_area: 5.868 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.227 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.504 × 10<sup>27</sup> kg<br />(251.84992070733415 Yrths)
+    mass: 1.504 × 10<sup>27</sup> kg<br />(251.85 Yrths)
     density: 35581441.100 g/cm<sup>3</sup>
     surface_gravity: 2146733.109 m/s<sup>2</sup><br />(218905.856 g<sub>0</sub>)
     escape_velocity: 963.882 km/s<br />(3,469,974 km/h)
@@ -116,14 +116,14 @@ planets:
         radius: 149,657.7 km<br/>(23.490 Yrths)
         surface_area: 2.815 × 10<sup>11</sup> km<sup>2</sup><br/>(551.802 Yrths)
         volume: 1.404 × 10<sup>16</sup> km<sup>3</sup><br/>(12962.071 Yrths)
-        mass: 3.126 × 10<sup>28</sup> kg<br />(251.84992070733415 Yrths)
+        mass: 3.126 × 10<sup>28</sup> kg<br />(5235.140 Yrths)
         density: 2.227 g/cm<sup>3</sup>
         surface_gravity: 93.039 m/s<sup>2</sup><br />(9.487 g<sub>0</sub>)
         escape_velocity: 166.991 km/s<br />(601,167 km/h)
         rotation_period: 44.589 d
         axial_tilt: 25.47°
         albedo: 0.30
-        temperature: 1200 K<br />(927 °C)
+        temperature: 245 K<br />(-29 °C)
       - name: π Lelniad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -136,14 +136,14 @@ planets:
         radius: 166,879.8 km<br/>(26.194 Yrths)
         surface_area: 3.500 × 10<sup>11</sup> km<sup>2</sup><br/>(686.108 Yrths)
         volume: 1.947 × 10<sup>16</sup> km<sup>3</sup><br/>(17971.688 Yrths)
-        mass: 4.431 × 10<sup>28</sup> kg<br />(251.84992070733415 Yrths)
+        mass: 4.431 × 10<sup>28</sup> kg<br />(7420.300 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 106.059 m/s<sup>2</sup><br />(10.815 g<sub>0</sub>)
         escape_velocity: 188.272 km/s<br />(677,780 km/h)
         rotation_period: 34.214 d
         axial_tilt: 17.17°
         albedo: 0.30
-        temperature: 646 K<br />(373 °C)
+        temperature: 245 K<br />(-29 °C)
       - name: π Lelniad II c
         type: Icy
         formationType: Impact formed
@@ -156,14 +156,14 @@ planets:
         radius: 186,739.3 km<br/>(29.311 Yrths)
         surface_area: 4.382 × 10<sup>11</sup> km<sup>2</sup><br/>(859.125 Yrths)
         volume: 2.728 × 10<sup>16</sup> km<sup>3</sup><br/>(25181.651 Yrths)
-        mass: 3.528 × 10<sup>28</sup> kg<br />(251.84992070733415 Yrths)
+        mass: 3.528 × 10<sup>28</sup> kg<br />(5907.150 Yrths)
         density: 1.293 g/cm<sup>3</sup>
         surface_gravity: 67.428 m/s<sup>2</sup><br />(6.876 g<sub>0</sub>)
         escape_velocity: 158.799 km/s<br />(571,678 km/h)
         rotation_period: 50.265 d
         axial_tilt: 26.08°
         albedo: 0.30
-        temperature: 382 K<br />(109 °C)
+        temperature: 245 K<br />(-29 °C)
       - name: π Lelniad II d
         type: Icy
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 201,379.2 km<br/>(31.609 Yrths)
         surface_area: 5.096 × 10<sup>11</sup> km<sup>2</sup><br/>(999.112 Yrths)
         volume: 3.421 × 10<sup>16</sup> km<sup>3</sup><br/>(31580.657 Yrths)
-        mass: 4.907 × 10<sup>28</sup> kg<br />(251.84992070733415 Yrths)
+        mass: 4.907 × 10<sup>28</sup> kg<br />(8216.287 Yrths)
         density: 1.434 g/cm<sup>3</sup>
         surface_gravity: 80.646 m/s<sup>2</sup><br />(8.224 g<sub>0</sub>)
         escape_velocity: 180.347 km/s<br />(649,248 km/h)
         rotation_period: 64.396 d
         axial_tilt: 16.45°
         albedo: 0.30
-        temperature: 274 K<br />(1 °C)
+        temperature: 245 K<br />(-29 °C)
       - name: π Lelniad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -196,12 +196,12 @@ planets:
         radius: 249,392.1 km<br/>(39.145 Yrths)
         surface_area: 7.816 × 10<sup>11</sup> km<sup>2</sup><br/>(1532.322 Yrths)
         volume: 6.497 × 10<sup>16</sup> km<sup>3</sup><br/>(59982.564 Yrths)
-        mass: 1.352 × 10<sup>29</sup> kg<br />(251.84992070733415 Yrths)
+        mass: 1.352 × 10<sup>29</sup> kg<br />(22642.842 Yrths)
         density: 2.081 g/cm<sup>3</sup>
         surface_gravity: 144.911 m/s<sup>2</sup><br />(14.777 g<sub>0</sub>)
         escape_velocity: 269.031 km/s<br />(968,511 km/h)
         rotation_period: 62.337 d
         axial_tilt: 23.12°
         albedo: 0.30
-        temperature: 226 K<br />(-47 °C)
+        temperature: 245 K<br />(-29 °C)
 ---

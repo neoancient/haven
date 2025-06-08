@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6042 Tanashad A is a star in the constellation Tanas
+      6042 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 333.66 ly
 apparent_magnitude: 9.96
 absolute_magnitude: 4.91

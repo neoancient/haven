@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9606 Dialkeshiad A is a star in the constellation Dialkes
+      9606 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 318.09 ly
 apparent_magnitude: 8.83
 absolute_magnitude: 3.88

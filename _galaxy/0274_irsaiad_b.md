@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0274 Irsaiad B is a star in the constellation Irsa
+      0274 Irsaiad B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 127.79 ly
 apparent_magnitude: 8.01
 absolute_magnitude: 5.04

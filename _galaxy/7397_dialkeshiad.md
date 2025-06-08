@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7397 Dialkeshiad is a star in the constellation Dialkes
+      7397 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 557.64 ly
 apparent_magnitude: 10.97
 absolute_magnitude: 4.81

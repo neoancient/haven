@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0001 Niodionraiad C is a star in the constellation Niodionra
+      0001 Niodionraiad C is a star in the constellation <a href="niodionra.html">Niodionra</a>
 distance: 1939.25 ly
 apparent_magnitude: 12.31
 absolute_magnitude: 3.44
@@ -31,14 +31,14 @@ planets:
     radius: 5,609.9 km<br/>(0.881 Yrths)
     surface_area: 3.955 × 10<sup>08</sup> km<sup>2</sup><br/>(0.775 Yrths)
     volume: 7.395 × 10<sup>11</sup> km<sup>3</sup><br/>(0.683 Yrths)
-    mass: 5.701 × 10<sup>24</sup> kg<br />(0.9546697624072904 Yrths)
+    mass: 5.701 × 10<sup>24</sup> kg<br />(0.95 Yrths)
     density: 7.709 g/cm<sup>3</sup>
     surface_gravity: 12.075 m/s<sup>2</sup><br />(1.231 g<sub>0</sub>)
     escape_velocity: 11.647 km/s<br />(41,930 km/h)
     rotation_period: 1.587 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 326 K<br />(53 °C)
+    temperature: 483 K<br />(210 °C)
     surface_pressure: 183 kPa<br />(2 atm)
     composition:
       - 81.3725% methane
@@ -60,14 +60,14 @@ planets:
         radius: 3,550.2 km<br/>(0.557 Yrths)
         surface_area: 1.584 × 10<sup>08</sup> km<sup>2</sup><br/>(0.311 Yrths)
         volume: 1.874 × 10<sup>11</sup> km<sup>3</sup><br/>(0.173 Yrths)
-        mass: 4.968 × 10<sup>23</sup> kg<br />(0.9546697624072904 Yrths)
+        mass: 4.968 × 10<sup>23</sup> kg<br />(0.083 Yrths)
         density: 2.650 g/cm<sup>3</sup>
         surface_gravity: 2.627 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
         escape_velocity: 4.322 km/s<br />(15,558 km/h)
         rotation_period: 47.301 d
         axial_tilt: 7.20°
         albedo: 0.30
-        temperature: 4448 K<br />(4175 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0001 Niodionraiad C I b
         type: Rocky
         formationType: Captured
@@ -80,14 +80,14 @@ planets:
         radius: 497.9 km<br/>(0.078 Yrths)
         surface_area: 3.115 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.169 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.469 × 10<sup>21</sup> kg<br />(0.9546697624072904 Yrths)
+        mass: 1.469 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.842 g/cm<sup>3</sup>
         surface_gravity: 0.395 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.628 km/s<br />(2,259 km/h)
         rotation_period: 52.196 d
         axial_tilt: 18.32°
         albedo: 0.30
-        temperature: 4241 K<br />(3968 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0001 Niodionraiad C I c
         type: Rocky
         formationType: Captured
@@ -100,14 +100,14 @@ planets:
         radius: 2,151.6 km<br/>(0.338 Yrths)
         surface_area: 5.818 × 10<sup>07</sup> km<sup>2</sup><br/>(0.114 Yrths)
         volume: 4.172 × 10<sup>10</sup> km<sup>3</sup><br/>(0.039 Yrths)
-        mass: 1.217 × 10<sup>23</sup> kg<br />(0.9546697624072904 Yrths)
+        mass: 1.217 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 2.917 g/cm<sup>3</sup>
         surface_gravity: 1.752 m/s<sup>2</sup><br />(0.179 g<sub>0</sub>)
         escape_velocity: 2.748 km/s<br />(9,893 km/h)
         rotation_period: 48.358 d
         axial_tilt: 11.57°
         albedo: 0.30
-        temperature: 4044 K<br />(3771 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: 0001 Niodionraiad C II
     type: Large terrestrial
     aphelion: 692,035,666 km<br />4.626 AU
@@ -119,14 +119,14 @@ planets:
     radius: 10,918.2 km<br/>(1.714 Yrths)
     surface_area: 1.498 × 10<sup>09</sup> km<sup>2</sup><br/>(2.937 Yrths)
     volume: 5.452 × 10<sup>12</sup> km<sup>3</sup><br/>(5.033 Yrths)
-    mass: 3.892 × 10<sup>25</sup> kg<br />(6.517883422392026 Yrths)
+    mass: 3.892 × 10<sup>25</sup> kg<br />(6.52 Yrths)
     density: 7.140 g/cm<sup>3</sup>
     surface_gravity: 21.764 m/s<sup>2</sup><br />(2.219 g<sub>0</sub>)
     escape_velocity: 21.815 km/s<br />(78,534 km/h)
     rotation_period: 0.788 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 216 K<br />(-57 °C)
+    temperature: 298 K<br />(24 °C)
     surface_pressure: 80 kPa<br />(1 atm)
     composition:
       - 86.2806% ammonia
@@ -145,14 +145,14 @@ planets:
         radius: 5,393.5 km<br/>(0.847 Yrths)
         surface_area: 3.656 × 10<sup>08</sup> km<sup>2</sup><br/>(0.717 Yrths)
         volume: 6.572 × 10<sup>11</sup> km<sup>3</sup><br/>(0.607 Yrths)
-        mass: 2.165 × 10<sup>24</sup> kg<br />(6.517883422392026 Yrths)
+        mass: 2.165 × 10<sup>24</sup> kg<br />(0.363 Yrths)
         density: 3.294 g/cm<sup>3</sup>
         surface_gravity: 4.961 m/s<sup>2</sup><br />(0.506 g<sub>0</sub>)
         escape_velocity: 7.320 km/s<br />(26,353 km/h)
         rotation_period: 48.497 d
         axial_tilt: 9.78°
         albedo: 0.30
-        temperature: 2258 K<br />(1985 °C)
+        temperature: 173 K<br />(-101 °C)
       - name: 0001 Niodionraiad C II b
         type: Icy
         formationType: Captured
@@ -165,12 +165,12 @@ planets:
         radius: 11,902.0 km<br/>(1.868 Yrths)
         surface_area: 1.780 × 10<sup>09</sup> km<sup>2</sup><br/>(3.490 Yrths)
         volume: 7.062 × 10<sup>12</sup> km<sup>3</sup><br/>(6.520 Yrths)
-        mass: 8.846 × 10<sup>24</sup> kg<br />(6.517883422392026 Yrths)
+        mass: 8.846 × 10<sup>24</sup> kg<br />(1.481 Yrths)
         density: 1.253 g/cm<sup>3</sup>
         surface_gravity: 4.162 m/s<sup>2</sup><br />(0.424 g<sub>0</sub>)
         escape_velocity: 9.961 km/s<br />(35,859 km/h)
         rotation_period: 47.968 d
         axial_tilt: 21.57°
         albedo: 0.30
-        temperature: 2153 K<br />(1880 °C)
+        temperature: 173 K<br />(-101 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0311 Tanashad B is a star in the constellation Tanas
+      0311 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 185.24 ly
 apparent_magnitude: 9.06
 absolute_magnitude: 5.29

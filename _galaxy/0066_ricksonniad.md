@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0066 Ricksonniad is a star in the constellation Rickson
+      0066 Ricksonniad is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 40.46 ly
 apparent_magnitude: 5.70
 absolute_magnitude: 5.23
@@ -31,7 +31,7 @@ planets:
     radius: 124.3 km<br/>(0.020 Yrths)
     surface_area: 1.942 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 8.049 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.547 × 10<sup>26</sup> kg<br />(25.899755272344176 Yrths)
+    mass: 1.547 × 10<sup>26</sup> kg<br />(25.90 Yrths)
     density: 19215316.056 g/cm<sup>3</sup>
     surface_gravity: 666978.755 m/s<sup>2</sup><br />(68012.905 g<sub>0</sub>)
     escape_velocity: 407.517 km/s<br />(1,467,061 km/h)
@@ -41,6 +41,86 @@ planets:
     temperature: 312 K<br />(39 °C)
     moons:
       - name: 0066 Ricksonniad I a
+        type: Icy
+        formationType: Accreted
+        aphelion: 1,423,993 km<br />
+        perihelion: 1,300,079 km<br />
+        semi_major_axis: 1,362,036 km<br />
+        eccentricity: 0.045
+        orbital_period: 0.00 d<br />
+        inclination: 5.62°
+        radius: 21,481.1 km<br/>(3.372 Yrths)
+        surface_area: 5.799 × 10<sup>09</sup> km<sup>2</sup><br/>(11.368 Yrths)
+        volume: 4.152 × 10<sup>13</sup> km<sup>3</sup><br/>(38.330 Yrths)
+        mass: 6.425 × 10<sup>25</sup> kg<br />(10.759 Yrths)
+        density: 1.548 g/cm<sup>3</sup>
+        surface_gravity: 9.281 m/s<sup>2</sup><br />(0.946 g<sub>0</sub>)
+        escape_velocity: 19.982 km/s<br />(71,934 km/h)
+        rotation_period: 45.700 d
+        axial_tilt: 15.60°
+        albedo: 0.30
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I b
+        type: Asteroid
+        formationType: Captured
+        aphelion: 1,502,221 km<br />
+        perihelion: 1,494,258 km<br />
+        semi_major_axis: 1,498,240 km<br />
+        eccentricity: 0.003
+        orbital_period: 0.00 d<br />
+        inclination: 1.30°
+        radius: 11,049.7 km<br/>(1.734 Yrths)
+        surface_area: 1.534 × 10<sup>09</sup> km<sup>2</sup><br/>(3.008 Yrths)
+        volume: 5.651 × 10<sup>12</sup> km<sup>3</sup><br/>(5.217 Yrths)
+        mass: 1.839 × 10<sup>25</sup> kg<br />(3.079 Yrths)
+        density: 3.253 g/cm<sup>3</sup>
+        surface_gravity: 10.037 m/s<sup>2</sup><br />(1.023 g<sub>0</sub>)
+        escape_velocity: 14.903 km/s<br />(53,652 km/h)
+        rotation_period: 33.279 d
+        axial_tilt: 28.68°
+        albedo: 0.30
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I c
+        type: Icy
+        formationType: Captured
+        aphelion: 1,711,646 km<br />
+        perihelion: 1,584,481 km<br />
+        semi_major_axis: 1,648,064 km<br />
+        eccentricity: 0.039
+        orbital_period: 0.00 d<br />
+        inclination: 4.93°
+        radius: 30,935.6 km<br/>(4.856 Yrths)
+        surface_area: 1.203 × 10<sup>10</sup> km<sup>2</sup><br/>(23.578 Yrths)
+        volume: 1.240 × 10<sup>14</sup> km<sup>3</sup><br/>(114.486 Yrths)
+        mass: 1.529 × 10<sup>26</sup> kg<br />(25.602 Yrths)
+        density: 1.233 g/cm<sup>3</sup>
+        surface_gravity: 10.648 m/s<sup>2</sup><br />(1.086 g<sub>0</sub>)
+        escape_velocity: 25.685 km/s<br />(92,467 km/h)
+        rotation_period: 44.628 d
+        axial_tilt: 22.07°
+        albedo: 0.30
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I d
+        type: Rocky
+        formationType: Accreted
+        aphelion: 2,262,623 km<br />
+        perihelion: 1,725,691 km<br />
+        semi_major_axis: 1,994,157 km<br />
+        eccentricity: 0.135
+        orbital_period: 0.00 d<br />
+        inclination: 0.02°
+        radius: 10,339.4 km<br/>(1.623 Yrths)
+        surface_area: 1.343 × 10<sup>09</sup> km<sup>2</sup><br/>(2.634 Yrths)
+        volume: 4.630 × 10<sup>12</sup> km<sup>3</sup><br/>(4.274 Yrths)
+        mass: 1.572 × 10<sup>25</sup> kg<br />(2.633 Yrths)
+        density: 3.396 g/cm<sup>3</sup>
+        surface_gravity: 9.804 m/s<sup>2</sup><br />(1.000 g<sub>0</sub>)
+        escape_velocity: 14.248 km/s<br />(51,293 km/h)
+        rotation_period: 27.800 d
+        axial_tilt: 17.66°
+        albedo: 0.30
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I e
         type: Dwarf planet
         formationType: Accreted
         aphelion: 2,300,941 km<br />
@@ -52,15 +132,35 @@ planets:
         radius: 35,677.2 km<br/>(5.600 Yrths)
         surface_area: 1.600 × 10<sup>10</sup> km<sup>2</sup><br/>(31.359 Yrths)
         volume: 1.902 × 10<sup>14</sup> km<sup>3</sup><br/>(175.610 Yrths)
-        mass: 3.511 × 10<sup>26</sup> kg<br />(25.899755272344176 Yrths)
+        mass: 3.511 × 10<sup>26</sup> kg<br />(58.790 Yrths)
         density: 1.846 g/cm<sup>3</sup>
         surface_gravity: 18.385 m/s<sup>2</sup><br />(1.875 g<sub>0</sub>)
         escape_velocity: 36.244 km/s<br />(130,478 km/h)
         rotation_period: 71.148 d
         axial_tilt: 28.80°
         albedo: 0.30
-        temperature: 1972 K<br />(1699 °C)
-      - name: 0066 Ricksonniad I b
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I f
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 4,937,937 km<br />
+        perihelion: 3,611,368 km<br />
+        semi_major_axis: 4,274,652 km<br />
+        eccentricity: 0.155
+        orbital_period: 0.00 d<br />
+        inclination: 19.16°
+        radius: 15,251.2 km<br/>(2.394 Yrths)
+        surface_area: 2.923 × 10<sup>09</sup> km<sup>2</sup><br/>(5.731 Yrths)
+        volume: 1.486 × 10<sup>13</sup> km<sup>3</sup><br/>(13.718 Yrths)
+        mass: 3.384 × 10<sup>25</sup> kg<br />(5.667 Yrths)
+        density: 2.278 g/cm<sup>3</sup>
+        surface_gravity: 9.698 m/s<sup>2</sup><br />(0.989 g<sub>0</sub>)
+        escape_velocity: 17.211 km/s<br />(61,958 km/h)
+        rotation_period: 43.433 d
+        axial_tilt: 16.90°
+        albedo: 0.30
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I g
         type: Icy
         formationType: Captured
         aphelion: 9,847,738 km<br />
@@ -72,15 +172,15 @@ planets:
         radius: 43,697.4 km<br/>(6.859 Yrths)
         surface_area: 2.400 × 10<sup>10</sup> km<sup>2</sup><br/>(47.043 Yrths)
         volume: 3.495 × 10<sup>14</sup> km<sup>3</sup><br/>(322.659 Yrths)
-        mass: 2.625 × 10<sup>26</sup> kg<br />(25.899755272344176 Yrths)
+        mass: 2.625 × 10<sup>26</sup> kg<br />(43.952 Yrths)
         density: 0.751 g/cm<sup>3</sup>
         surface_gravity: 9.162 m/s<sup>2</sup><br />(0.934 g<sub>0</sub>)
         escape_velocity: 28.316 km/s<br />(101,939 km/h)
         rotation_period: 68.983 d
         axial_tilt: 13.47°
         albedo: 0.30
-        temperature: 1012 K<br />(739 °C)
-      - name: 0066 Ricksonniad I c
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I h
         type: Rocky
         formationType: Captured
         aphelion: 13,774,543 km<br />
@@ -92,15 +192,35 @@ planets:
         radius: 24,616.6 km<br/>(3.864 Yrths)
         surface_area: 7.615 × 10<sup>09</sup> km<sup>2</sup><br/>(14.929 Yrths)
         volume: 6.248 × 10<sup>13</sup> km<sup>3</sup><br/>(57.685 Yrths)
-        mass: 2.014 × 10<sup>26</sup> kg<br />(25.899755272344176 Yrths)
+        mass: 2.014 × 10<sup>26</sup> kg<br />(33.728 Yrths)
         density: 3.224 g/cm<sup>3</sup>
         surface_gravity: 22.155 m/s<sup>2</sup><br />(2.259 g<sub>0</sub>)
         escape_velocity: 33.049 km/s<br />(118,976 km/h)
         rotation_period: 31.294 d
         axial_tilt: 17.44°
         albedo: 0.30
-        temperature: 797 K<br />(524 °C)
-      - name: 0066 Ricksonniad I d
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I i
+        type: Icy
+        formationType: Impact formed
+        aphelion: 19,587,571 km<br />
+        perihelion: 16,124,996 km<br />
+        semi_major_axis: 17,856,284 km<br />
+        eccentricity: 0.097
+        orbital_period: 0.00 d<br />
+        inclination: 5.71°
+        radius: 22,145.3 km<br/>(3.476 Yrths)
+        surface_area: 6.163 × 10<sup>09</sup> km<sup>2</sup><br/>(12.082 Yrths)
+        volume: 4.549 × 10<sup>13</sup> km<sup>3</sup><br/>(41.997 Yrths)
+        mass: 7.310 × 10<sup>25</sup> kg<br />(12.241 Yrths)
+        density: 1.607 g/cm<sup>3</sup>
+        surface_gravity: 9.935 m/s<sup>2</sup><br />(1.013 g<sub>0</sub>)
+        escape_velocity: 20.992 km/s<br />(75,570 km/h)
+        rotation_period: 58.672 d
+        axial_tilt: 24.46°
+        albedo: 0.30
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I j
         type: Rocky
         formationType: Accreted
         aphelion: 22,452,789 km<br />
@@ -112,15 +232,15 @@ planets:
         radius: 39,064.8 km<br/>(6.132 Yrths)
         surface_area: 1.918 × 10<sup>10</sup> km<sup>2</sup><br/>(37.597 Yrths)
         volume: 2.497 × 10<sup>14</sup> km<sup>3</sup><br/>(230.534 Yrths)
-        mass: 8.668 × 10<sup>26</sup> kg<br />(25.899755272344176 Yrths)
+        mass: 8.668 × 10<sup>26</sup> kg<br />(145.152 Yrths)
         density: 3.471 g/cm<sup>3</sup>
         surface_gravity: 37.861 m/s<sup>2</sup><br />(3.861 g<sub>0</sub>)
         escape_velocity: 54.425 km/s<br />(195,929 km/h)
         rotation_period: 30.777 d
         axial_tilt: 16.67°
         albedo: 0.30
-        temperature: 628 K<br />(355 °C)
-      - name: 0066 Ricksonniad I e
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I k
         type: Ice/rock hybrid
         formationType: Impact formed
         aphelion: 27,441,132 km<br />
@@ -132,14 +252,34 @@ planets:
         radius: 35,760.0 km<br/>(5.613 Yrths)
         surface_area: 1.607 × 10<sup>10</sup> km<sup>2</sup><br/>(31.505 Yrths)
         volume: 1.915 × 10<sup>14</sup> km<sup>3</sup><br/>(176.836 Yrths)
-        mass: 3.962 × 10<sup>26</sup> kg<br />(25.899755272344176 Yrths)
+        mass: 3.962 × 10<sup>26</sup> kg<br />(66.338 Yrths)
         density: 2.068 g/cm<sup>3</sup>
         surface_gravity: 20.649 m/s<sup>2</sup><br />(2.106 g<sub>0</sub>)
         escape_velocity: 38.456 km/s<br />(138,440 km/h)
         rotation_period: 39.837 d
         axial_tilt: 18.93°
         albedo: 0.30
-        temperature: 571 K<br />(298 °C)
+        temperature: 324 K<br />(51 °C)
+      - name: 0066 Ricksonniad I l
+        type: Icy
+        formationType: Impact formed
+        aphelion: 43,456,670 km<br />
+        perihelion: 40,751,697 km<br />
+        semi_major_axis: 42,104,183 km<br />
+        eccentricity: 0.032
+        orbital_period: 0.00 d<br />
+        inclination: 0.04°
+        radius: 30,174.0 km<br/>(4.736 Yrths)
+        surface_area: 1.144 × 10<sup>10</sup> km<sup>2</sup><br/>(22.431 Yrths)
+        volume: 1.151 × 10<sup>14</sup> km<sup>3</sup><br/>(106.237 Yrths)
+        mass: 1.525 × 10<sup>26</sup> kg<br />(25.540 Yrths)
+        density: 1.325 g/cm<sup>3</sup>
+        surface_gravity: 11.166 m/s<sup>2</sup><br />(1.139 g<sub>0</sub>)
+        escape_velocity: 25.976 km/s<br />(93,514 km/h)
+        rotation_period: 43.162 d
+        axial_tilt: 16.92°
+        albedo: 0.30
+        temperature: 324 K<br />(51 °C)
   - name: 0066 Ricksonniad II
     type: Ice giant
     aphelion: 142,792,087 km<br />0.954 AU
@@ -151,14 +291,14 @@ planets:
     radius: 29,356.1 km<br/>(4.608 Yrths)
     surface_area: 1.083 × 10<sup>10</sup> km<sup>2</sup><br/>(21.231 Yrths)
     volume: 1.060 × 10<sup>14</sup> km<sup>3</sup><br/>(97.830 Yrths)
-    mass: 1.232 × 10<sup>26</sup> kg<br />(20.626266611211925 Yrths)
+    mass: 1.232 × 10<sup>26</sup> kg<br />(20.63 Yrths)
     density: 1.162 g/cm<sup>3</sup>
     surface_gravity: 9.527 m/s<sup>2</sup><br />(0.971 g<sub>0</sub>)
     escape_velocity: 23.667 km/s<br />(85,200 km/h)
     rotation_period: 0.575 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 417 K<br />(144 °C)
+    temperature: 395 K<br />(122 °C)
     composition:
       - 83.9283% hydrogen
       - 13.0599% helium
@@ -177,14 +317,14 @@ planets:
         radius: 14,364.9 km<br/>(2.255 Yrths)
         surface_area: 2.593 × 10<sup>09</sup> km<sup>2</sup><br/>(5.084 Yrths)
         volume: 1.242 × 10<sup>13</sup> km<sup>3</sup><br/>(11.463 Yrths)
-        mass: 2.679 × 10<sup>25</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 2.679 × 10<sup>25</sup> kg<br />(4.487 Yrths)
         density: 2.158 g/cm<sup>3</sup>
         surface_gravity: 8.655 m/s<sup>2</sup><br />(0.883 g<sub>0</sub>)
         escape_velocity: 15.779 km/s<br />(56,806 km/h)
         rotation_period: 38.936 d
         axial_tilt: 10.23°
         albedo: 0.30
-        temperature: 2079 K<br />(1806 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -197,14 +337,14 @@ planets:
         radius: 10,939.4 km<br/>(1.717 Yrths)
         surface_area: 1.504 × 10<sup>09</sup> km<sup>2</sup><br/>(2.948 Yrths)
         volume: 5.484 × 10<sup>12</sup> km<sup>3</sup><br/>(5.062 Yrths)
-        mass: 1.528 × 10<sup>25</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 1.528 × 10<sup>25</sup> kg<br />(2.558 Yrths)
         density: 2.786 g/cm<sup>3</sup>
         surface_gravity: 8.509 m/s<sup>2</sup><br />(0.868 g<sub>0</sub>)
         escape_velocity: 13.653 km/s<br />(49,152 km/h)
         rotation_period: 38.288 d
         axial_tilt: 21.67°
         albedo: 0.30
-        temperature: 1982 K<br />(1709 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II c
         type: Dwarf planet
         formationType: Accreted
@@ -217,14 +357,14 @@ planets:
         radius: 16,711.7 km<br/>(2.623 Yrths)
         surface_area: 3.510 × 10<sup>09</sup> km<sup>2</sup><br/>(6.881 Yrths)
         volume: 1.955 × 10<sup>13</sup> km<sup>3</sup><br/>(18.048 Yrths)
-        mass: 3.120 × 10<sup>25</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 3.120 × 10<sup>25</sup> kg<br />(5.225 Yrths)
         density: 1.596 g/cm<sup>3</sup>
         surface_gravity: 7.447 m/s<sup>2</sup><br />(0.759 g<sub>0</sub>)
         escape_velocity: 15.788 km/s<br />(56,835 km/h)
         rotation_period: 55.389 d
         axial_tilt: 14.77°
         albedo: 0.30
-        temperature: 1802 K<br />(1529 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -237,14 +377,14 @@ planets:
         radius: 10,717.9 km<br/>(1.682 Yrths)
         surface_area: 1.444 × 10<sup>09</sup> km<sup>2</sup><br/>(2.830 Yrths)
         volume: 5.157 × 10<sup>12</sup> km<sup>3</sup><br/>(4.761 Yrths)
-        mass: 1.288 × 10<sup>25</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 1.288 × 10<sup>25</sup> kg<br />(2.157 Yrths)
         density: 2.497 g/cm<sup>3</sup>
         surface_gravity: 7.473 m/s<sup>2</sup><br />(0.762 g<sub>0</sub>)
         escape_velocity: 12.665 km/s<br />(45,593 km/h)
         rotation_period: 41.101 d
         axial_tilt: 18.54°
         albedo: 0.30
-        temperature: 1718 K<br />(1445 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II e
         type: Icy
         formationType: Accreted
@@ -257,14 +397,14 @@ planets:
         radius: 10,350.9 km<br/>(1.625 Yrths)
         surface_area: 1.346 × 10<sup>09</sup> km<sup>2</sup><br/>(2.640 Yrths)
         volume: 4.645 × 10<sup>12</sup> km<sup>3</sup><br/>(4.289 Yrths)
-        mass: 3.252 × 10<sup>24</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 3.252 × 10<sup>24</sup> kg<br />(0.545 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 2.023 m/s<sup>2</sup><br />(0.206 g<sub>0</sub>)
         escape_velocity: 6.476 km/s<br />(23,313 km/h)
         rotation_period: 63.995 d
         axial_tilt: 15.38°
         albedo: 0.30
-        temperature: 1638 K<br />(1365 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -277,14 +417,14 @@ planets:
         radius: 9,348.2 km<br/>(1.467 Yrths)
         surface_area: 1.098 × 10<sup>09</sup> km<sup>2</sup><br/>(2.153 Yrths)
         volume: 3.422 × 10<sup>12</sup> km<sup>3</sup><br/>(3.159 Yrths)
-        mass: 6.687 × 10<sup>24</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 6.687 × 10<sup>24</sup> kg<br />(1.120 Yrths)
         density: 1.954 g/cm<sup>3</sup>
         surface_gravity: 5.100 m/s<sup>2</sup><br />(0.520 g<sub>0</sub>)
         escape_velocity: 9.772 km/s<br />(35,178 km/h)
         rotation_period: 45.327 d
         axial_tilt: 20.63°
         albedo: 0.30
-        temperature: 1562 K<br />(1289 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II g
         type: Dwarf planet
         formationType: Captured
@@ -297,14 +437,14 @@ planets:
         radius: 21,327.9 km<br/>(3.348 Yrths)
         surface_area: 5.716 × 10<sup>09</sup> km<sup>2</sup><br/>(11.207 Yrths)
         volume: 4.064 × 10<sup>13</sup> km<sup>3</sup><br/>(37.517 Yrths)
-        mass: 6.928 × 10<sup>25</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 6.928 × 10<sup>25</sup> kg<br />(11.601 Yrths)
         density: 1.705 g/cm<sup>3</sup>
         surface_gravity: 10.151 m/s<sup>2</sup><br />(1.035 g<sub>0</sub>)
         escape_velocity: 20.823 km/s<br />(74,964 km/h)
         rotation_period: 42.302 d
         axial_tilt: 28.60°
         albedo: 0.30
-        temperature: 1489 K<br />(1216 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II h
         type: Icy
         formationType: Captured
@@ -317,14 +457,14 @@ planets:
         radius: 15,636.7 km<br/>(2.454 Yrths)
         surface_area: 3.073 × 10<sup>09</sup> km<sup>2</sup><br/>(6.024 Yrths)
         volume: 1.601 × 10<sup>13</sup> km<sup>3</sup><br/>(14.785 Yrths)
-        mass: 2.916 × 10<sup>25</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 2.916 × 10<sup>25</sup> kg<br />(4.882 Yrths)
         density: 1.821 g/cm<sup>3</sup>
         surface_gravity: 7.948 m/s<sup>2</sup><br />(0.811 g<sub>0</sub>)
         escape_velocity: 15.777 km/s<br />(56,797 km/h)
         rotation_period: 65.358 d
         axial_tilt: 14.86°
         albedo: 0.30
-        temperature: 1420 K<br />(1147 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II i
         type: Dwarf planet
         formationType: Accreted
@@ -337,14 +477,14 @@ planets:
         radius: 24,786.6 km<br/>(3.891 Yrths)
         surface_area: 7.720 × 10<sup>09</sup> km<sup>2</sup><br/>(15.136 Yrths)
         volume: 6.379 × 10<sup>13</sup> km<sup>3</sup><br/>(58.888 Yrths)
-        mass: 1.383 × 10<sup>26</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 1.383 × 10<sup>26</sup> kg<br />(23.163 Yrths)
         density: 2.169 g/cm<sup>3</sup>
         surface_gravity: 15.007 m/s<sup>2</sup><br />(1.530 g<sub>0</sub>)
         escape_velocity: 27.294 km/s<br />(98,258 km/h)
         rotation_period: 43.948 d
         axial_tilt: 37.16°
         albedo: 0.30
-        temperature: 1354 K<br />(1081 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II j
         type: Icy
         formationType: Captured
@@ -357,14 +497,14 @@ planets:
         radius: 35,389.1 km<br/>(5.555 Yrths)
         surface_area: 1.574 × 10<sup>10</sup> km<sup>2</sup><br/>(30.855 Yrths)
         volume: 1.857 × 10<sup>14</sup> km<sup>3</sup><br/>(171.390 Yrths)
-        mass: 2.358 × 10<sup>26</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 2.358 × 10<sup>26</sup> kg<br />(39.491 Yrths)
         density: 1.270 g/cm<sup>3</sup>
         surface_gravity: 12.551 m/s<sup>2</sup><br />(1.280 g<sub>0</sub>)
         escape_velocity: 29.826 km/s<br />(107,372 km/h)
         rotation_period: 64.317 d
         axial_tilt: 15.92°
         albedo: 0.30
-        temperature: 1291 K<br />(1018 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0066 Ricksonniad II k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -377,14 +517,14 @@ planets:
         radius: 16,047.1 km<br/>(2.519 Yrths)
         surface_area: 3.236 × 10<sup>09</sup> km<sup>2</sup><br/>(6.344 Yrths)
         volume: 1.731 × 10<sup>13</sup> km<sup>3</sup><br/>(15.980 Yrths)
-        mass: 3.757 × 10<sup>25</sup> kg<br />(20.626266611211925 Yrths)
+        mass: 3.757 × 10<sup>25</sup> kg<br />(6.290 Yrths)
         density: 2.170 g/cm<sup>3</sup>
         surface_gravity: 9.723 m/s<sup>2</sup><br />(0.992 g<sub>0</sub>)
         escape_velocity: 17.677 km/s<br />(63,639 km/h)
         rotation_period: 35.275 d
         axial_tilt: 17.37°
         albedo: 0.30
-        temperature: 1231 K<br />(958 °C)
+        temperature: 246 K<br />(-27 °C)
   - name: 0066 Ricksonniad III
     type: Gas dwarf
     aphelion: 258,666,553 km<br />1.729 AU
@@ -396,14 +536,14 @@ planets:
     radius: 4,383.2 km<br/>(0.688 Yrths)
     surface_area: 2.414 × 10<sup>08</sup> km<sup>2</sup><br/>(0.473 Yrths)
     volume: 3.527 × 10<sup>11</sup> km<sup>3</sup><br/>(0.326 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.693 g/cm<sup>3</sup>
     surface_gravity: 2.072 m/s<sup>2</sup><br />(0.211 g<sub>0</sub>)
     escape_velocity: 4.265 km/s<br />(15,353 km/h)
     rotation_period: 1.313 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 247 K<br />(-26 °C)
+    temperature: 221 K<br />(-52 °C)
     composition:
       - 93.0572% hydrogen
       - 6.1435% helium
@@ -422,14 +562,14 @@ planets:
         radius: 511.1 km<br/>(0.080 Yrths)
         surface_area: 3.282 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.592 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 7.298 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 7.298 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.305 g/cm<sup>3</sup>
         surface_gravity: 0.186 m/s<sup>2</sup><br />(0.019 g<sub>0</sub>)
         escape_velocity: 0.437 km/s<br />(1,572 km/h)
         rotation_period: 48.390 d
         axial_tilt: 15.12°
         albedo: 0.30
-        temperature: 3833 K<br />(3560 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0066 Ricksonniad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -442,14 +582,14 @@ planets:
         radius: 431.5 km<br/>(0.068 Yrths)
         surface_area: 2.340 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.366 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.681 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.681 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.985 g/cm<sup>3</sup>
         surface_gravity: 0.239 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.455 km/s<br />(1,637 km/h)
         rotation_period: 39.758 d
         axial_tilt: 22.33°
         albedo: 0.30
-        temperature: 3485 K<br />(3212 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0066 Ricksonniad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -462,14 +602,14 @@ planets:
         radius: 812.3 km<br/>(0.128 Yrths)
         surface_area: 8.292 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.245 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.679 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.679 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.084 g/cm<sup>3</sup>
         surface_gravity: 0.473 m/s<sup>2</sup><br />(0.048 g<sub>0</sub>)
         escape_velocity: 0.877 km/s<br />(3,157 km/h)
         rotation_period: 56.177 d
         axial_tilt: 20.48°
         albedo: 0.30
-        temperature: 3323 K<br />(3049 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 0066 Ricksonniad III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -482,14 +622,14 @@ planets:
         radius: 407.2 km<br/>(0.064 Yrths)
         surface_area: 2.084 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.829 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.406 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.406 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.265 g/cm<sup>3</sup>
         surface_gravity: 0.257 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.458 km/s<br />(1,650 km/h)
         rotation_period: 40.238 d
         axial_tilt: 24.29°
         albedo: 0.30
-        temperature: 3168 K<br />(2895 °C)
+        temperature: 187 K<br />(-86 °C)
   - name: 0066 Ricksonniad IV
     type: Terrestrial
     aphelion: 427,551,314 km<br />2.858 AU
@@ -501,14 +641,14 @@ planets:
     radius: 3,719.3 km<br/>(0.584 Yrths)
     surface_area: 1.738 × 10<sup>08</sup> km<sup>2</sup><br/>(0.341 Yrths)
     volume: 2.155 × 10<sup>11</sup> km<sup>3</sup><br/>(0.199 Yrths)
-    mass: 1.222 × 10<sup>24</sup> kg<br />(0.2046006906145291 Yrths)
+    mass: 1.222 × 10<sup>24</sup> kg<br />(0.20 Yrths)
     density: 5.669 g/cm<sup>3</sup>
     surface_gravity: 5.887 m/s<sup>2</sup><br />(0.600 g<sub>0</sub>)
     escape_velocity: 6.622 km/s<br />(23,840 km/h)
     rotation_period: 1.671 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 158 K<br />(-115 °C)
+    temperature: 206 K<br />(-67 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 68.9577% methane
@@ -527,14 +667,14 @@ planets:
         radius: 1,186.0 km<br/>(0.186 Yrths)
         surface_area: 1.768 × 10<sup>07</sup> km<sup>2</sup><br/>(0.035 Yrths)
         volume: 6.988 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 7.313 × 10<sup>21</sup> kg<br />(0.2046006906145291 Yrths)
+        mass: 7.313 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.046 g/cm<sup>3</sup>
         surface_gravity: 0.347 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.907 km/s<br />(3,266 km/h)
         rotation_period: 93.641 d
         axial_tilt: 21.23°
         albedo: 0.30
-        temperature: 2696 K<br />(2423 °C)
+        temperature: 142 K<br />(-131 °C)
   - name: 0066 Ricksonniad V
     type: Ice giant
     aphelion: 728,011,688 km<br />4.866 AU
@@ -546,14 +686,14 @@ planets:
     radius: 25,085.8 km<br/>(3.937 Yrths)
     surface_area: 7.908 × 10<sup>09</sup> km<sup>2</sup><br/>(15.504 Yrths)
     volume: 6.613 × 10<sup>13</sup> km<sup>3</sup><br/>(61.046 Yrths)
-    mass: 9.698 × 10<sup>25</sup> kg<br />(16.238341503314054 Yrths)
+    mass: 9.698 × 10<sup>25</sup> kg<br />(16.24 Yrths)
     density: 1.467 g/cm<sup>3</sup>
     surface_gravity: 10.271 m/s<sup>2</sup><br />(1.047 g<sub>0</sub>)
     escape_velocity: 22.716 km/s<br />(81,778 km/h)
     rotation_period: 0.378 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 191 K<br />(-82 °C)
+    temperature: 172 K<br />(-101 °C)
     composition:
       - 80.8141% hydrogen
       - 17.5056% helium
@@ -571,14 +711,14 @@ planets:
         radius: 12,460.1 km<br/>(1.956 Yrths)
         surface_area: 1.951 × 10<sup>09</sup> km<sup>2</sup><br/>(3.825 Yrths)
         volume: 8.103 × 10<sup>12</sup> km<sup>3</sup><br/>(7.481 Yrths)
-        mass: 1.696 × 10<sup>25</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 1.696 × 10<sup>25</sup> kg<br />(2.840 Yrths)
         density: 2.093 g/cm<sup>3</sup>
         surface_gravity: 7.280 m/s<sup>2</sup><br />(0.742 g<sub>0</sub>)
         escape_velocity: 13.479 km/s<br />(48,523 km/h)
         rotation_period: 52.639 d
         axial_tilt: 14.72°
         albedo: 0.30
-        temperature: 948 K<br />(675 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -591,14 +731,14 @@ planets:
         radius: 9,548.1 km<br/>(1.499 Yrths)
         surface_area: 1.146 × 10<sup>09</sup> km<sup>2</sup><br/>(2.246 Yrths)
         volume: 3.646 × 10<sup>12</sup> km<sup>3</sup><br/>(3.366 Yrths)
-        mass: 6.757 × 10<sup>24</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 6.757 × 10<sup>24</sup> kg<br />(1.131 Yrths)
         density: 1.853 g/cm<sup>3</sup>
         surface_gravity: 4.940 m/s<sup>2</sup><br />(0.504 g<sub>0</sub>)
         escape_velocity: 9.720 km/s<br />(34,990 km/h)
         rotation_period: 67.098 d
         axial_tilt: 25.94°
         albedo: 0.30
-        temperature: 904 K<br />(631 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -611,14 +751,14 @@ planets:
         radius: 23,662.5 km<br/>(3.714 Yrths)
         surface_area: 7.036 × 10<sup>09</sup> km<sup>2</sup><br/>(13.795 Yrths)
         volume: 5.550 × 10<sup>13</sup> km<sup>3</sup><br/>(51.234 Yrths)
-        mass: 1.066 × 10<sup>26</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 1.066 × 10<sup>26</sup> kg<br />(17.854 Yrths)
         density: 1.921 g/cm<sup>3</sup>
         surface_gravity: 12.692 m/s<sup>2</sup><br />(1.294 g<sub>0</sub>)
         escape_velocity: 24.525 km/s<br />(88,291 km/h)
         rotation_period: 59.592 d
         axial_tilt: 19.24°
         albedo: 0.30
-        temperature: 862 K<br />(589 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V d
         type: Icy
         formationType: Accreted
@@ -631,14 +771,14 @@ planets:
         radius: 28,357.1 km<br/>(4.451 Yrths)
         surface_area: 1.010 × 10<sup>10</sup> km<sup>2</sup><br/>(19.811 Yrths)
         volume: 9.552 × 10<sup>13</sup> km<sup>3</sup><br/>(88.178 Yrths)
-        mass: 1.011 × 10<sup>26</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 1.011 × 10<sup>26</sup> kg<br />(16.922 Yrths)
         density: 1.058 g/cm<sup>3</sup>
         surface_gravity: 8.377 m/s<sup>2</sup><br />(0.854 g<sub>0</sub>)
         escape_velocity: 21.811 km/s<br />(78,520 km/h)
         rotation_period: 75.574 d
         axial_tilt: 21.69°
         albedo: 0.30
-        temperature: 822 K<br />(549 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -651,14 +791,14 @@ planets:
         radius: 10,873.1 km<br/>(1.707 Yrths)
         surface_area: 1.486 × 10<sup>09</sup> km<sup>2</sup><br/>(2.913 Yrths)
         volume: 5.384 × 10<sup>12</sup> km<sup>3</sup><br/>(4.971 Yrths)
-        mass: 1.238 × 10<sup>25</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 1.238 × 10<sup>25</sup> kg<br />(2.073 Yrths)
         density: 2.299 g/cm<sup>3</sup>
         surface_gravity: 6.980 m/s<sup>2</sup><br />(0.712 g<sub>0</sub>)
         escape_velocity: 12.328 km/s<br />(44,381 km/h)
         rotation_period: 53.255 d
         axial_tilt: 14.15°
         albedo: 0.30
-        temperature: 783 K<br />(510 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V f
         type: Icy
         formationType: Captured
@@ -671,14 +811,14 @@ planets:
         radius: 24,712.2 km<br/>(3.879 Yrths)
         surface_area: 7.674 × 10<sup>09</sup> km<sup>2</sup><br/>(15.046 Yrths)
         volume: 6.322 × 10<sup>13</sup> km<sup>3</sup><br/>(58.360 Yrths)
-        mass: 9.082 × 10<sup>25</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 9.082 × 10<sup>25</sup> kg<br />(15.207 Yrths)
         density: 1.437 g/cm<sup>3</sup>
         surface_gravity: 9.912 m/s<sup>2</sup><br />(1.011 g<sub>0</sub>)
         escape_velocity: 22.149 km/s<br />(79,735 km/h)
         rotation_period: 45.645 d
         axial_tilt: 14.46°
         albedo: 0.30
-        temperature: 712 K<br />(439 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V g
         type: Icy
         formationType: Accreted
@@ -691,14 +831,14 @@ planets:
         radius: 20,520.6 km<br/>(3.221 Yrths)
         surface_area: 5.292 × 10<sup>09</sup> km<sup>2</sup><br/>(10.374 Yrths)
         volume: 3.620 × 10<sup>13</sup> km<sup>3</sup><br/>(33.415 Yrths)
-        mass: 6.109 × 10<sup>25</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 6.109 × 10<sup>25</sup> kg<br />(10.229 Yrths)
         density: 1.688 g/cm<sup>3</sup>
         surface_gravity: 9.670 m/s<sup>2</sup><br />(0.986 g<sub>0</sub>)
         escape_velocity: 19.935 km/s<br />(71,765 km/h)
         rotation_period: 44.334 d
         axial_tilt: 11.61°
         albedo: 0.30
-        temperature: 679 K<br />(406 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V h
         type: Asteroid
         formationType: Captured
@@ -711,14 +851,14 @@ planets:
         radius: 12,548.5 km<br/>(1.970 Yrths)
         surface_area: 1.979 × 10<sup>09</sup> km<sup>2</sup><br/>(3.879 Yrths)
         volume: 8.277 × 10<sup>12</sup> km<sup>3</sup><br/>(7.641 Yrths)
-        mass: 2.204 × 10<sup>25</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 2.204 × 10<sup>25</sup> kg<br />(3.690 Yrths)
         density: 2.662 g/cm<sup>3</sup>
         surface_gravity: 9.327 m/s<sup>2</sup><br />(0.951 g<sub>0</sub>)
         escape_velocity: 15.310 km/s<br />(55,117 km/h)
         rotation_period: 45.882 d
         axial_tilt: 16.77°
         albedo: 0.30
-        temperature: 647 K<br />(374 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V i
         type: Icy
         formationType: Impact formed
@@ -731,14 +871,14 @@ planets:
         radius: 17,238.6 km<br/>(2.706 Yrths)
         surface_area: 3.734 × 10<sup>09</sup> km<sup>2</sup><br/>(7.321 Yrths)
         volume: 2.146 × 10<sup>13</sup> km<sup>3</sup><br/>(19.810 Yrths)
-        mass: 2.737 × 10<sup>25</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 2.737 × 10<sup>25</sup> kg<br />(4.584 Yrths)
         density: 1.276 g/cm<sup>3</sup>
         surface_gravity: 6.140 m/s<sup>2</sup><br />(0.626 g<sub>0</sub>)
         escape_velocity: 14.559 km/s<br />(52,414 km/h)
         rotation_period: 77.714 d
         axial_tilt: 21.29°
         albedo: 0.30
-        temperature: 617 K<br />(344 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V j
         type: Icy
         formationType: Captured
@@ -751,14 +891,14 @@ planets:
         radius: 17,317.4 km<br/>(2.718 Yrths)
         surface_area: 3.769 × 10<sup>09</sup> km<sup>2</sup><br/>(7.388 Yrths)
         volume: 2.175 × 10<sup>13</sup> km<sup>3</sup><br/>(20.083 Yrths)
-        mass: 2.371 × 10<sup>25</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 2.371 × 10<sup>25</sup> kg<br />(3.969 Yrths)
         density: 1.090 g/cm<sup>3</sup>
         surface_gravity: 5.269 m/s<sup>2</sup><br />(0.537 g<sub>0</sub>)
         escape_velocity: 13.518 km/s<br />(48,663 km/h)
         rotation_period: 78.320 d
         axial_tilt: 11.87°
         albedo: 0.30
-        temperature: 589 K<br />(315 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V k
         type: Icy
         formationType: Impact formed
@@ -771,14 +911,14 @@ planets:
         radius: 25,701.0 km<br/>(4.034 Yrths)
         surface_area: 8.301 × 10<sup>09</sup> km<sup>2</sup><br/>(16.274 Yrths)
         volume: 7.111 × 10<sup>13</sup> km<sup>3</sup><br/>(65.649 Yrths)
-        mass: 1.218 × 10<sup>26</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 1.218 × 10<sup>26</sup> kg<br />(20.398 Yrths)
         density: 1.713 g/cm<sup>3</sup>
         surface_gravity: 12.292 m/s<sup>2</sup><br />(1.253 g<sub>0</sub>)
         escape_velocity: 25.154 km/s<br />(90,553 km/h)
         rotation_period: 73.767 d
         axial_tilt: 17.95°
         albedo: 0.30
-        temperature: 561 K<br />(288 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0066 Ricksonniad V l
         type: Rocky
         formationType: Accreted
@@ -791,12 +931,12 @@ planets:
         radius: 21,686.2 km<br/>(3.404 Yrths)
         surface_area: 5.910 × 10<sup>09</sup> km<sup>2</sup><br/>(11.587 Yrths)
         volume: 4.272 × 10<sup>13</sup> km<sup>3</sup><br/>(39.439 Yrths)
-        mass: 1.361 × 10<sup>26</sup> kg<br />(16.238341503314054 Yrths)
+        mass: 1.361 × 10<sup>26</sup> kg<br />(22.791 Yrths)
         density: 3.186 g/cm<sup>3</sup>
         surface_gravity: 19.290 m/s<sup>2</sup><br />(1.967 g<sub>0</sub>)
         escape_velocity: 28.945 km/s<br />(104,201 km/h)
         rotation_period: 46.261 d
         axial_tilt: 21.08°
         albedo: 0.30
-        temperature: 535 K<br />(262 °C)
+        temperature: 108 K<br />(-165 °C)
 ---

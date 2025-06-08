@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3553 Arkothiad is a star in the constellation Arkoth
+      3553 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 305.46 ly
 apparent_magnitude: 17.38
 absolute_magnitude: 12.52

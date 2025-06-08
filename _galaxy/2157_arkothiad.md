@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2157 Arkothiad is a star in the constellation Arkoth
+      2157 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 341.27 ly
 apparent_magnitude: 9.17
 absolute_magnitude: 4.07
@@ -31,14 +31,14 @@ planets:
     radius: 3,779.7 km<br/>(0.593 Yrths)
     surface_area: 1.795 × 10<sup>08</sup> km<sup>2</sup><br/>(0.352 Yrths)
     volume: 2.262 × 10<sup>11</sup> km<sup>3</sup><br/>(0.209 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.640 g/cm<sup>3</sup>
     surface_gravity: 2.786 m/s<sup>2</sup><br />(0.284 g<sub>0</sub>)
     escape_velocity: 4.592 km/s<br />(16,533 km/h)
     rotation_period: 1.421 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 451 K<br />(178 °C)
+    temperature: 397 K<br />(124 °C)
     composition:
       - 84.2829% hydrogen
       - 15.4009% helium
@@ -57,14 +57,14 @@ planets:
         radius: 216.2 km<br/>(0.034 Yrths)
         surface_area: 5.874 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 4.233 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.839 × 10<sup>19</sup> kg<br />(0.1 Yrths)
+        mass: 6.839 × 10<sup>19</sup> kg<br />(0.000 Yrths)
         density: 1.616 g/cm<sup>3</sup>
         surface_gravity: 0.098 m/s<sup>2</sup><br />(0.010 g<sub>0</sub>)
         escape_velocity: 0.205 km/s<br />(740 km/h)
         rotation_period: 54.950 d
         axial_tilt: 20.66°
         albedo: 0.30
-        temperature: 7129 K<br />(6856 °C)
+        temperature: 325 K<br />(51 °C)
       - name: 2157 Arkothiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 643.2 km<br/>(0.101 Yrths)
         surface_area: 5.198 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.114 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.316 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.316 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.079 g/cm<sup>3</sup>
         surface_gravity: 0.373 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.693 km/s<br />(2,496 km/h)
         rotation_period: 61.857 d
         axial_tilt: 22.17°
         albedo: 0.30
-        temperature: 6798 K<br />(6524 °C)
+        temperature: 325 K<br />(51 °C)
       - name: 2157 Arkothiad I c
         type: Asteroid
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 520.1 km<br/>(0.082 Yrths)
         surface_area: 3.399 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 5.894 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.526 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.526 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.589 g/cm<sup>3</sup>
         surface_gravity: 0.376 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.626 km/s<br />(2,253 km/h)
         rotation_period: 32.155 d
         axial_tilt: 23.88°
         albedo: 0.30
-        temperature: 6481 K<br />(6208 °C)
+        temperature: 325 K<br />(51 °C)
       - name: 2157 Arkothiad I d
         type: Rocky
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 258.7 km<br/>(0.041 Yrths)
         surface_area: 8.412 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 7.254 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.340 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.340 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.226 g/cm<sup>3</sup>
         surface_gravity: 0.233 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.347 km/s<br />(1,251 km/h)
         rotation_period: 43.391 d
         axial_tilt: 16.54°
         albedo: 0.30
-        temperature: 6180 K<br />(5906 °C)
+        temperature: 325 K<br />(51 °C)
   - name: 2157 Arkothiad II
     type: Gas dwarf
     aphelion: 222,218,017 km<br />1.485 AU
@@ -136,14 +136,14 @@ planets:
     radius: 15,069.4 km<br/>(2.365 Yrths)
     surface_area: 2.854 × 10<sup>09</sup> km<sup>2</sup><br/>(5.595 Yrths)
     volume: 1.433 × 10<sup>13</sup> km<sup>3</sup><br/>(13.233 Yrths)
-    mass: 3.788 × 10<sup>25</sup> kg<br />(6.342273307843093 Yrths)
+    mass: 3.788 × 10<sup>25</sup> kg<br />(6.34 Yrths)
     density: 2.642 g/cm<sup>3</sup>
     surface_gravity: 11.117 m/s<sup>2</sup><br />(1.134 g<sub>0</sub>)
     escape_velocity: 18.317 km/s<br />(65,941 km/h)
     rotation_period: 0.524 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 398 K<br />(125 °C)
+    temperature: 357 K<br />(84 °C)
     composition:
       - 81.0884% hydrogen
       - 17.2946% helium
@@ -162,14 +162,14 @@ planets:
         radius: 17,777.0 km<br/>(2.790 Yrths)
         surface_area: 3.971 × 10<sup>09</sup> km<sup>2</sup><br/>(7.786 Yrths)
         volume: 2.353 × 10<sup>13</sup> km<sup>3</sup><br/>(21.725 Yrths)
-        mass: 3.121 × 10<sup>25</sup> kg<br />(6.342273307843093 Yrths)
+        mass: 3.121 × 10<sup>25</sup> kg<br />(5.226 Yrths)
         density: 1.326 g/cm<sup>3</sup>
         surface_gravity: 6.582 m/s<sup>2</sup><br />(0.671 g<sub>0</sub>)
         escape_velocity: 15.308 km/s<br />(55,108 km/h)
         rotation_period: 52.637 d
         axial_tilt: 16.20°
         albedo: 0.30
-        temperature: 2723 K<br />(2450 °C)
+        temperature: 248 K<br />(-26 °C)
       - name: 2157 Arkothiad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -182,14 +182,14 @@ planets:
         radius: 5,531.6 km<br/>(0.868 Yrths)
         surface_area: 3.845 × 10<sup>08</sup> km<sup>2</sup><br/>(0.754 Yrths)
         volume: 7.090 × 10<sup>11</sup> km<sup>3</sup><br/>(0.655 Yrths)
-        mass: 1.882 × 10<sup>24</sup> kg<br />(6.342273307843093 Yrths)
+        mass: 1.882 × 10<sup>24</sup> kg<br />(0.315 Yrths)
         density: 2.654 g/cm<sup>3</sup>
         surface_gravity: 4.099 m/s<sup>2</sup><br />(0.418 g<sub>0</sub>)
         escape_velocity: 6.739 km/s<br />(24,259 km/h)
         rotation_period: 32.502 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 2597 K<br />(2323 °C)
+        temperature: 248 K<br />(-26 °C)
       - name: 2157 Arkothiad II c
         type: Icy
         formationType: Captured
@@ -202,14 +202,14 @@ planets:
         radius: 9,217.3 km<br/>(1.447 Yrths)
         surface_area: 1.068 × 10<sup>09</sup> km<sup>2</sup><br/>(2.093 Yrths)
         volume: 3.280 × 10<sup>12</sup> km<sup>3</sup><br/>(3.028 Yrths)
-        mass: 4.614 × 10<sup>24</sup> kg<br />(6.342273307843093 Yrths)
+        mass: 4.614 × 10<sup>24</sup> kg<br />(0.773 Yrths)
         density: 1.407 g/cm<sup>3</sup>
         surface_gravity: 3.620 m/s<sup>2</sup><br />(0.369 g<sub>0</sub>)
         escape_velocity: 8.174 km/s<br />(29,427 km/h)
         rotation_period: 64.241 d
         axial_tilt: 17.70°
         albedo: 0.30
-        temperature: 2361 K<br />(2087 °C)
+        temperature: 248 K<br />(-26 °C)
       - name: 2157 Arkothiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -222,14 +222,14 @@ planets:
         radius: 4,507.0 km<br/>(0.707 Yrths)
         surface_area: 2.553 × 10<sup>08</sup> km<sup>2</sup><br/>(0.500 Yrths)
         volume: 3.835 × 10<sup>11</sup> km<sup>3</sup><br/>(0.354 Yrths)
-        mass: 7.264 × 10<sup>23</sup> kg<br />(6.342273307843093 Yrths)
+        mass: 7.264 × 10<sup>23</sup> kg<br />(0.122 Yrths)
         density: 1.894 g/cm<sup>3</sup>
         surface_gravity: 2.384 m/s<sup>2</sup><br />(0.243 g<sub>0</sub>)
         escape_velocity: 4.638 km/s<br />(16,698 km/h)
         rotation_period: 53.836 d
         axial_tilt: 10.11°
         albedo: 0.30
-        temperature: 2251 K<br />(1978 °C)
+        temperature: 248 K<br />(-26 °C)
   - name: 2157 Arkothiad III
     type: Gas giant
     aphelion: 375,693,714 km<br />2.511 AU
@@ -241,7 +241,7 @@ planets:
     radius: 242.8 km<br/>(0.038 Yrths)
     surface_area: 7.408 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.996 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.333 × 10<sup>27</sup> kg<br />(390.7117866108734 Yrths)
+    mass: 2.333 × 10<sup>27</sup> kg<br />(390.71 Yrths)
     density: 38914525.564 g/cm<sup>3</sup>
     surface_gravity: 2638001.816 m/s<sup>2</sup><br />(269001.322 g<sub>0</sub>)
     escape_velocity: 1132.600 km/s<br />(4,077,361 km/h)
@@ -262,14 +262,14 @@ planets:
         radius: 380,815.8 km<br/>(59.773 Yrths)
         surface_area: 1.822 × 10<sup>12</sup> km<sup>2</sup><br/>(3572.850 Yrths)
         volume: 2.313 × 10<sup>17</sup> km<sup>3</sup><br/>(213561.140 Yrths)
-        mass: 5.531 × 10<sup>29</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 5.531 × 10<sup>29</sup> kg<br />(92618.073 Yrths)
         density: 2.391 g/cm<sup>3</sup>
         surface_gravity: 254.215 m/s<sup>2</sup><br />(25.923 g<sub>0</sub>)
         escape_velocity: 440.320 km/s<br />(1,585,151 km/h)
         rotation_period: 44.953 d
         axial_tilt: 22.17°
         albedo: 0.30
-        temperature: 823 K<br />(550 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III b
         type: Asteroid
         formationType: Captured
@@ -282,14 +282,14 @@ planets:
         radius: 238,437.6 km<br/>(37.425 Yrths)
         surface_area: 7.144 × 10<sup>11</sup> km<sup>2</sup><br/>(1400.665 Yrths)
         volume: 5.678 × 10<sup>16</sup> km<sup>3</sup><br/>(52420.509 Yrths)
-        mass: 1.102 × 10<sup>29</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 1.102 × 10<sup>29</sup> kg<br />(18457.913 Yrths)
         density: 1.941 g/cm<sup>3</sup>
         surface_gravity: 129.232 m/s<sup>2</sup><br />(13.178 g<sub>0</sub>)
         escape_velocity: 248.417 km/s<br />(894,302 km/h)
         rotation_period: 70.573 d
         axial_tilt: 23.77°
         albedo: 0.30
-        temperature: 785 K<br />(512 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III c
         type: Icy
         formationType: Accreted
@@ -302,14 +302,14 @@ planets:
         radius: 337,980.8 km<br/>(53.050 Yrths)
         surface_area: 1.435 × 10<sup>12</sup> km<sup>2</sup><br/>(2814.291 Yrths)
         volume: 1.617 × 10<sup>17</sup> km<sup>3</sup><br/>(149297.799 Yrths)
-        mass: 1.558 × 10<sup>29</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 1.558 × 10<sup>29</sup> kg<br />(26094.836 Yrths)
         density: 0.964 g/cm<sup>3</sup>
         surface_gravity: 90.930 m/s<sup>2</sup><br />(9.272 g<sub>0</sub>)
         escape_velocity: 248.090 km/s<br />(893,123 km/h)
         rotation_period: 51.951 d
         axial_tilt: 24.16°
         albedo: 0.30
-        temperature: 680 K<br />(407 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III d
         type: Dwarf planet
         formationType: Accreted
@@ -322,14 +322,14 @@ planets:
         radius: 252,053.5 km<br/>(39.563 Yrths)
         surface_area: 7.984 × 10<sup>11</sup> km<sup>2</sup><br/>(1565.201 Yrths)
         volume: 6.708 × 10<sup>16</sup> km<sup>3</sup><br/>(61923.457 Yrths)
-        mass: 9.587 × 10<sup>28</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 9.587 × 10<sup>28</sup> kg<br />(16052.624 Yrths)
         density: 1.429 g/cm<sup>3</sup>
         surface_gravity: 100.577 m/s<sup>2</sup><br />(10.256 g<sub>0</sub>)
         escape_velocity: 225.322 km/s<br />(811,161 km/h)
         rotation_period: 76.959 d
         axial_tilt: 33.74°
         albedo: 0.30
-        temperature: 649 K<br />(375 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III e
         type: Dwarf planet
         formationType: Captured
@@ -342,14 +342,14 @@ planets:
         radius: 238,529.3 km<br/>(37.440 Yrths)
         surface_area: 7.150 × 10<sup>11</sup> km<sup>2</sup><br/>(1401.743 Yrths)
         volume: 5.685 × 10<sup>16</sup> km<sup>3</sup><br/>(52481.053 Yrths)
-        mass: 8.103 × 10<sup>28</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 8.103 × 10<sup>28</sup> kg<br />(13568.583 Yrths)
         density: 1.425 g/cm<sup>3</sup>
         surface_gravity: 94.926 m/s<sup>2</sup><br />(9.680 g<sub>0</sub>)
         escape_velocity: 212.948 km/s<br />(766,614 km/h)
         rotation_period: 76.742 d
         axial_tilt: 27.08°
         albedo: 0.30
-        temperature: 590 K<br />(317 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -362,14 +362,14 @@ planets:
         radius: 232,019.9 km<br/>(36.418 Yrths)
         surface_area: 6.765 × 10<sup>11</sup> km<sup>2</sup><br/>(1326.280 Yrths)
         volume: 5.232 × 10<sup>16</sup> km<sup>3</sup><br/>(48300.651 Yrths)
-        mass: 1.023 × 10<sup>29</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 1.023 × 10<sup>29</sup> kg<br />(17132.174 Yrths)
         density: 1.956 g/cm<sup>3</sup>
         surface_gravity: 126.677 m/s<sup>2</sup><br />(12.917 g<sub>0</sub>)
         escape_velocity: 242.617 km/s<br />(873,421 km/h)
         rotation_period: 48.718 d
         axial_tilt: 14.08°
         albedo: 0.30
-        temperature: 303 K<br />(29 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III g
         type: Icy
         formationType: Accreted
@@ -382,14 +382,14 @@ planets:
         radius: 278,667.2 km<br/>(43.740 Yrths)
         surface_area: 9.758 × 10<sup>11</sup> km<sup>2</sup><br/>(1913.183 Yrths)
         volume: 9.065 × 10<sup>16</sup> km<sup>3</sup><br/>(83682.512 Yrths)
-        mass: 8.205 × 10<sup>28</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 8.205 × 10<sup>28</sup> kg<br />(13739.466 Yrths)
         density: 0.905 g/cm<sup>3</sup>
         surface_gravity: 70.426 m/s<sup>2</sup><br />(7.181 g<sub>0</sub>)
         escape_velocity: 198.253 km/s<br />(713,711 km/h)
         rotation_period: 62.210 d
         axial_tilt: 15.45°
         albedo: 0.30
-        temperature: 238 K<br />(-35 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III h
         type: Dwarf planet
         formationType: Captured
@@ -402,14 +402,14 @@ planets:
         radius: 211,892.5 km<br/>(33.259 Yrths)
         surface_area: 5.642 × 10<sup>11</sup> km<sup>2</sup><br/>(1106.154 Yrths)
         volume: 3.985 × 10<sup>16</sup> km<sup>3</sup><br/>(36789.482 Yrths)
-        mass: 8.315 × 10<sup>28</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 8.315 × 10<sup>28</sup> kg<br />(13923.450 Yrths)
         density: 2.087 g/cm<sup>3</sup>
         surface_gravity: 123.439 m/s<sup>2</sup><br />(12.587 g<sub>0</sub>)
         escape_velocity: 228.872 km/s<br />(823,941 km/h)
         rotation_period: 61.876 d
         axial_tilt: 14.67°
         albedo: 0.30
-        temperature: 227 K<br />(-46 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III i
         type: Icy
         formationType: Captured
@@ -422,14 +422,14 @@ planets:
         radius: 219,521.2 km<br/>(34.456 Yrths)
         surface_area: 6.056 × 10<sup>11</sup> km<sup>2</sup><br/>(1187.238 Yrths)
         volume: 4.431 × 10<sup>16</sup> km<sup>3</sup><br/>(40907.862 Yrths)
-        mass: 7.388 × 10<sup>28</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 7.388 × 10<sup>28</sup> kg<br />(12371.341 Yrths)
         density: 1.667 g/cm<sup>3</sup>
         surface_gravity: 102.188 m/s<sup>2</sup><br />(10.420 g<sub>0</sub>)
         escape_velocity: 211.957 km/s<br />(763,045 km/h)
         rotation_period: 69.297 d
         axial_tilt: 6.19°
         albedo: 0.30
-        temperature: 179 K<br />(-94 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III j
         type: Asteroid
         formationType: Captured
@@ -442,14 +442,14 @@ planets:
         radius: 217,436.5 km<br/>(34.129 Yrths)
         surface_area: 5.941 × 10<sup>11</sup> km<sup>2</sup><br/>(1164.796 Yrths)
         volume: 4.306 × 10<sup>16</sup> km<sup>3</sup><br/>(39753.440 Yrths)
-        mass: 1.043 × 10<sup>29</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 1.043 × 10<sup>29</sup> kg<br />(17459.247 Yrths)
         density: 2.421 g/cm<sup>3</sup>
         surface_gravity: 146.993 m/s<sup>2</sup><br />(14.989 g<sub>0</sub>)
         escape_velocity: 253.002 km/s<br />(910,808 km/h)
         rotation_period: 50.794 d
         axial_tilt: 33.06°
         albedo: 0.30
-        temperature: 155 K<br />(-118 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 2157 Arkothiad III k
         type: Icy
         formationType: Captured
@@ -462,12 +462,12 @@ planets:
         radius: 318,447.2 km<br/>(49.984 Yrths)
         surface_area: 1.274 × 10<sup>12</sup> km<sup>2</sup><br/>(2498.387 Yrths)
         volume: 1.353 × 10<sup>17</sup> km<sup>3</sup><br/>(124879.056 Yrths)
-        mass: 1.489 × 10<sup>29</sup> kg<br />(390.7117866108734 Yrths)
+        mass: 1.489 × 10<sup>29</sup> kg<br />(24934.034 Yrths)
         density: 1.101 g/cm<sup>3</sup>
         surface_gravity: 97.871 m/s<sup>2</sup><br />(9.980 g<sub>0</sub>)
         escape_velocity: 249.836 km/s<br />(899,410 km/h)
         rotation_period: 78.528 d
         axial_tilt: 7.75°
         albedo: 0.30
-        temperature: 148 K<br />(-125 °C)
+        temperature: 189 K<br />(-84 °C)
 ---

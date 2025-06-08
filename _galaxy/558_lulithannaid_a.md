@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      558 Lulithannaid A is a star in the constellation Lulithan
+      558 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 340.82 ly
 apparent_magnitude: 7.09
 absolute_magnitude: 1.99

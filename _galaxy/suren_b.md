@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Suren B is a star in the constellation Tanas
+      Suren B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 495.58 ly
 apparent_magnitude: 2.83
 absolute_magnitude: -3.08

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      γ Derriathiad B is a star in the constellation Derriath
+      γ Derriathiad B is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 283.14 ly
 apparent_magnitude: 10.90
 absolute_magnitude: 6.21

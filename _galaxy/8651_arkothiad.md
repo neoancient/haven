@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8651 Arkothiad is a star in the constellation Arkoth
+      8651 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 371.41 ly
 apparent_magnitude: 10.27
 absolute_magnitude: 4.98

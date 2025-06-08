@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0041 Kinanniad B is a star in the constellation Kinan
+      0041 Kinanniad B is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 392.50 ly
 apparent_magnitude: 10.83
 absolute_magnitude: 5.43

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2089 Tanashad A is a star in the constellation Tanas
+      2089 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 222.42 ly
 apparent_magnitude: 7.96
 absolute_magnitude: 3.79

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5430 Tanashad A is a star in the constellation Tanas
+      5430 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 213.47 ly
 apparent_magnitude: 6.88
 absolute_magnitude: 2.80

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9 Nurranpugiad is a star in the constellation Nurranpug
+      9 Nurranpugiad is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 187.34 ly
 apparent_magnitude: 8.58
 absolute_magnitude: 4.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      81 Bairiad A is a star in the constellation Bair
+      81 Bairiad A is a star in the constellation <a href="bair.html">Bair</a>
 distance: 313.98 ly
 apparent_magnitude: 6.74
 absolute_magnitude: 1.82

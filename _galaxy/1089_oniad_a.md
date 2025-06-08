@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1089 Oniad A is a star in the constellation Oni
+      1089 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 631.04 ly
 apparent_magnitude: 7.29
 absolute_magnitude: 0.86

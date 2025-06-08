@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      21836 Tanashad A is a star in the constellation Tanas
+      21836 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 443.17 ly
 apparent_magnitude: 7.97
 absolute_magnitude: 2.30

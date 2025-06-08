@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1870 Anilliad A is a star in the constellation Anil
+      1870 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 411.42 ly
 apparent_magnitude: 10.32
 absolute_magnitude: 4.81

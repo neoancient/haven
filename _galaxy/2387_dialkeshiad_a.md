@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2387 Dialkeshiad A is a star in the constellation Dialkes
+      2387 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 459.37 ly
 apparent_magnitude: 8.22
 absolute_magnitude: 2.48

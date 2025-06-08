@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      706 Orshenniad is a star in the constellation Orshen
+      706 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 402.37 ly
 apparent_magnitude: 10.29
 absolute_magnitude: 4.83

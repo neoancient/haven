@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1171 Ratharshinniad is a star in the constellation Ratharshin
+      1171 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 890.94 ly
 apparent_magnitude: 11.98
 absolute_magnitude: 4.80

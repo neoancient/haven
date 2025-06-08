@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11708 Narashiad A is a star in the constellation Naras
+      11708 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 449.18 ly
 apparent_magnitude: 7.87
 absolute_magnitude: 2.18

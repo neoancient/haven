@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      872 Shanniashiad is a star in the constellation Shannias
+      872 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 374.78 ly
 apparent_magnitude: 11.80
 absolute_magnitude: 6.50

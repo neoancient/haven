@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8526 Arkothiad is a star in the constellation Arkoth
+      8526 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 451.77 ly
 apparent_magnitude: 10.31
 absolute_magnitude: 4.60

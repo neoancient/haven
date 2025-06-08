@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2495 Narashiad is a star in the constellation Naras
+      2495 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 494.51 ly
 apparent_magnitude: 11.69
 absolute_magnitude: 5.79

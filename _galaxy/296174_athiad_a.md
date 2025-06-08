@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      296174 Athiad A is a star in the constellation Ath
+      296174 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 578.45 ly
 apparent_magnitude: 6.64
 absolute_magnitude: 0.40

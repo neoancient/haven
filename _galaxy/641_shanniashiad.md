@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      641 Shanniashiad is a star in the constellation Shannias
+      641 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 492.04 ly
 apparent_magnitude: 10.97
 absolute_magnitude: 5.08

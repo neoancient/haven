@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      981 Lulithannaid A is a star in the constellation Lulithan
+      981 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 602.30 ly
 apparent_magnitude: 6.53
 absolute_magnitude: 0.20

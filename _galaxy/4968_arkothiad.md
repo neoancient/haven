@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4968 Arkothiad is a star in the constellation Arkoth
+      4968 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 235.88 ly
 apparent_magnitude: 6.67
 absolute_magnitude: 2.38
@@ -31,14 +31,14 @@ planets:
     radius: 223.0 km<br/>(0.035 Yrths)
     surface_area: 6.251 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.647 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.636 × 10<sup>27</sup> kg<br />(273.9000291372666 Yrths)
+    mass: 1.636 × 10<sup>27</sup> kg<br />(273.90 Yrths)
     density: 35196104.218 g/cm<sup>3</sup>
     surface_gravity: 2191671.779 m/s<sup>2</sup><br />(223488.325 g<sub>0</sub>)
     escape_velocity: 989.431 km/s<br />(3,561,953 km/h)
     rotation_period: 0.238 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1582 K<br />(1308 °C)
+    temperature: 1597 K<br />(1324 °C)
     composition:
       - 82.6242% hydrogen
       - 9.5687% helium
@@ -59,14 +59,14 @@ planets:
         radius: 135,736.5 km<br/>(21.305 Yrths)
         surface_area: 2.315 × 10<sup>11</sup> km<sup>2</sup><br/>(453.919 Yrths)
         volume: 1.048 × 10<sup>16</sup> km<sup>3</sup><br/>(9670.900 Yrths)
-        mass: 2.543 × 10<sup>28</sup> kg<br />(273.9000291372666 Yrths)
+        mass: 2.543 × 10<sup>28</sup> kg<br />(4258.861 Yrths)
         density: 2.428 g/cm<sup>3</sup>
         surface_gravity: 92.010 m/s<sup>2</sup><br />(9.382 g<sub>0</sub>)
         escape_velocity: 158.153 km/s<br />(569,349 km/h)
         rotation_period: 49.900 d
         axial_tilt: 17.59°
         albedo: 0.30
-        temperature: 2198 K<br />(1925 °C)
+        temperature: 381 K<br />(108 °C)
       - name: 4968 Arkothiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 186,039.5 km<br/>(29.201 Yrths)
         surface_area: 4.349 × 10<sup>11</sup> km<sup>2</sup><br/>(852.697 Yrths)
         volume: 2.697 × 10<sup>16</sup> km<sup>3</sup><br/>(24899.604 Yrths)
-        mass: 6.065 × 10<sup>28</sup> kg<br />(273.9000291372666 Yrths)
+        mass: 6.065 × 10<sup>28</sup> kg<br />(10156.509 Yrths)
         density: 2.249 g/cm<sup>3</sup>
         surface_gravity: 116.807 m/s<sup>2</sup><br />(11.911 g<sub>0</sub>)
         escape_velocity: 208.616 km/s<br />(751,017 km/h)
         rotation_period: 50.694 d
         axial_tilt: 24.51°
         albedo: 0.30
-        temperature: 1816 K<br />(1543 °C)
+        temperature: 381 K<br />(108 °C)
       - name: 4968 Arkothiad I c
         type: Rocky
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 115,279.9 km<br/>(18.094 Yrths)
         surface_area: 1.670 × 10<sup>11</sup> km<sup>2</sup><br/>(327.410 Yrths)
         volume: 6.417 × 10<sup>15</sup> km<sup>3</sup><br/>(5924.312 Yrths)
-        mass: 2.028 × 10<sup>28</sup> kg<br />(273.9000291372666 Yrths)
+        mass: 2.028 × 10<sup>28</sup> kg<br />(3396.394 Yrths)
         density: 3.161 g/cm<sup>3</sup>
         surface_gravity: 101.729 m/s<sup>2</sup><br />(10.374 g<sub>0</sub>)
         escape_velocity: 153.253 km/s<br />(551,712 km/h)
         rotation_period: 43.494 d
         axial_tilt: 22.05°
         albedo: 0.30
-        temperature: 1301 K<br />(1028 °C)
+        temperature: 381 K<br />(108 °C)
       - name: 4968 Arkothiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -119,14 +119,14 @@ planets:
         radius: 119,143.3 km<br/>(18.701 Yrths)
         surface_area: 1.784 × 10<sup>11</sup> km<sup>2</sup><br/>(349.723 Yrths)
         volume: 7.084 × 10<sup>15</sup> km<sup>3</sup><br/>(6540.130 Yrths)
-        mass: 1.545 × 10<sup>28</sup> kg<br />(273.9000291372666 Yrths)
+        mass: 1.545 × 10<sup>28</sup> kg<br />(2586.533 Yrths)
         density: 2.180 g/cm<sup>3</sup>
         surface_gravity: 72.529 m/s<sup>2</sup><br />(7.396 g<sub>0</sub>)
         escape_velocity: 131.553 km/s<br />(473,592 km/h)
         rotation_period: 47.908 d
         axial_tilt: 22.66°
         albedo: 0.30
-        temperature: 700 K<br />(427 °C)
+        temperature: 381 K<br />(108 °C)
       - name: 4968 Arkothiad I e
         type: Icy
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 161,772.9 km<br/>(25.392 Yrths)
         surface_area: 3.289 × 10<sup>11</sup> km<sup>2</sup><br/>(644.757 Yrths)
         volume: 1.773 × 10<sup>16</sup> km<sup>3</sup><br/>(16371.720 Yrths)
-        mass: 2.090 × 10<sup>28</sup> kg<br />(273.9000291372666 Yrths)
+        mass: 2.090 × 10<sup>28</sup> kg<br />(3498.997 Yrths)
         density: 1.178 g/cm<sup>3</sup>
         surface_gravity: 53.219 m/s<sup>2</sup><br />(5.427 g<sub>0</sub>)
         escape_velocity: 131.310 km/s<br />(472,715 km/h)
         rotation_period: 55.349 d
         axial_tilt: 22.87°
         albedo: 0.30
-        temperature: 24 K<br />(-249 °C)
+        temperature: 381 K<br />(108 °C)
   - name: 4968 Arkothiad II
     type: Large terrestrial
     aphelion: 406,620,453 km<br />2.718 AU
@@ -158,14 +158,14 @@ planets:
     radius: 9,142.1 km<br/>(1.435 Yrths)
     surface_area: 1.050 × 10<sup>09</sup> km<sup>2</sup><br/>(2.059 Yrths)
     volume: 3.201 × 10<sup>12</sup> km<sup>3</sup><br/>(2.955 Yrths)
-    mass: 1.967 × 10<sup>25</sup> kg<br />(3.293611916285569 Yrths)
+    mass: 1.967 × 10<sup>25</sup> kg<br />(3.29 Yrths)
     density: 6.146 g/cm<sup>3</sup>
     surface_gravity: 15.686 m/s<sup>2</sup><br />(1.600 g<sub>0</sub>)
     escape_velocity: 16.947 km/s<br />(61,009 km/h)
     rotation_period: 0.671 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 420 K<br />(147 °C)
+    temperature: 466 K<br />(193 °C)
     surface_pressure: 2,905 kPa<br />(29 atm)
     composition:
       - 83.6878% nitrogen
@@ -186,14 +186,14 @@ planets:
         radius: 7,849.9 km<br/>(1.232 Yrths)
         surface_area: 7.743 × 10<sup>08</sup> km<sup>2</sup><br/>(1.518 Yrths)
         volume: 2.026 × 10<sup>12</sup> km<sup>3</sup><br/>(1.871 Yrths)
-        mass: 5.447 × 10<sup>24</sup> kg<br />(3.293611916285569 Yrths)
+        mass: 5.447 × 10<sup>24</sup> kg<br />(0.912 Yrths)
         density: 2.689 g/cm<sup>3</sup>
         surface_gravity: 5.892 m/s<sup>2</sup><br />(0.601 g<sub>0</sub>)
         escape_velocity: 9.625 km/s<br />(34,649 km/h)
         rotation_period: 42.952 d
         axial_tilt: 13.79°
         albedo: 0.30
-        temperature: 3611 K<br />(3338 °C)
+        temperature: 277 K<br />(4 °C)
       - name: 4968 Arkothiad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -206,14 +206,14 @@ planets:
         radius: 2,177.4 km<br/>(0.342 Yrths)
         surface_area: 5.958 × 10<sup>07</sup> km<sup>2</sup><br/>(0.117 Yrths)
         volume: 4.324 × 10<sup>10</sup> km<sup>3</sup><br/>(0.040 Yrths)
-        mass: 8.252 × 10<sup>22</sup> kg<br />(3.293611916285569 Yrths)
+        mass: 8.252 × 10<sup>22</sup> kg<br />(0.014 Yrths)
         density: 1.909 g/cm<sup>3</sup>
         surface_gravity: 1.160 m/s<sup>2</sup><br />(0.118 g<sub>0</sub>)
         escape_velocity: 2.249 km/s<br />(8,097 km/h)
         rotation_period: 52.442 d
         axial_tilt: 18.53°
         albedo: 0.30
-        temperature: 3443 K<br />(3170 °C)
+        temperature: 277 K<br />(4 °C)
   - name: 4968 Arkothiad III
     type: Gas giant
     aphelion: 972,401,294 km<br />6.500 AU
@@ -225,7 +225,7 @@ planets:
     radius: 232.4 km<br/>(0.036 Yrths)
     surface_area: 6.786 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.256 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.918 × 10<sup>27</sup> kg<br />(321.1762556893693 Yrths)
+    mass: 1.918 × 10<sup>27</sup> kg<br />(321.18 Yrths)
     density: 36490834.797 g/cm<sup>3</sup>
     surface_gravity: 2367475.184 m/s<sup>2</sup><br />(241415.283 g<sub>0</sub>)
     escape_velocity: 1049.666 km/s<br />(3,778,797 km/h)
@@ -246,14 +246,14 @@ planets:
         radius: 192,596.8 km<br/>(30.230 Yrths)
         surface_area: 4.661 × 10<sup>11</sup> km<sup>2</sup><br/>(913.867 Yrths)
         volume: 2.993 × 10<sup>16</sup> km<sup>3</sup><br/>(27626.413 Yrths)
-        mass: 2.410 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 2.410 × 10<sup>28</sup> kg<br />(4036.120 Yrths)
         density: 0.805 g/cm<sup>3</sup>
         surface_gravity: 43.311 m/s<sup>2</sup><br />(4.417 g<sub>0</sub>)
         escape_velocity: 129.251 km/s<br />(465,305 km/h)
         rotation_period: 57.767 d
         axial_tilt: 13.44°
         albedo: 0.30
-        temperature: 851 K<br />(578 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -266,14 +266,14 @@ planets:
         radius: 171,838.4 km<br/>(26.972 Yrths)
         surface_area: 3.711 × 10<sup>11</sup> km<sup>2</sup><br/>(727.487 Yrths)
         volume: 2.125 × 10<sup>16</sup> km<sup>3</sup><br/>(19621.752 Yrths)
-        mass: 4.921 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 4.921 × 10<sup>28</sup> kg<br />(8239.696 Yrths)
         density: 2.315 g/cm<sup>3</sup>
         surface_gravity: 111.073 m/s<sup>2</sup><br />(11.326 g<sub>0</sub>)
         escape_velocity: 195.512 km/s<br />(703,843 km/h)
         rotation_period: 64.556 d
         axial_tilt: 15.60°
         albedo: 0.30
-        temperature: 703 K<br />(430 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -286,14 +286,14 @@ planets:
         radius: 198,413.6 km<br/>(31.143 Yrths)
         surface_area: 4.947 × 10<sup>11</sup> km<sup>2</sup><br/>(969.901 Yrths)
         volume: 3.272 × 10<sup>16</sup> km<sup>3</sup><br/>(30205.860 Yrths)
-        mass: 6.198 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 6.198 × 10<sup>28</sup> kg<br />(10377.696 Yrths)
         density: 1.894 g/cm<sup>3</sup>
         surface_gravity: 104.929 m/s<sup>2</sup><br />(10.700 g<sub>0</sub>)
         escape_velocity: 204.194 km/s<br />(735,098 km/h)
         rotation_period: 36.196 d
         axial_tilt: 10.70°
         albedo: 0.30
-        temperature: 554 K<br />(281 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III d
         type: Icy
         formationType: Accreted
@@ -306,14 +306,14 @@ planets:
         radius: 155,148.1 km<br/>(24.352 Yrths)
         surface_area: 3.025 × 10<sup>11</sup> km<sup>2</sup><br/>(593.031 Yrths)
         volume: 1.564 × 10<sup>16</sup> km<sup>3</sup><br/>(14441.640 Yrths)
-        mass: 1.911 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 1.911 × 10<sup>28</sup> kg<br />(3199.706 Yrths)
         density: 1.222 g/cm<sup>3</sup>
         surface_gravity: 52.912 m/s<sup>2</sup><br />(5.396 g<sub>0</sub>)
         escape_velocity: 128.221 km/s<br />(461,596 km/h)
         rotation_period: 45.316 d
         axial_tilt: 15.93°
         albedo: 0.30
-        temperature: 397 K<br />(124 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III e
         type: Rocky
         formationType: Accreted
@@ -326,14 +326,14 @@ planets:
         radius: 142,566.2 km<br/>(22.377 Yrths)
         surface_area: 2.554 × 10<sup>11</sup> km<sup>2</sup><br/>(500.747 Yrths)
         volume: 1.214 × 10<sup>16</sup> km<sup>3</sup><br/>(11205.392 Yrths)
-        mass: 3.009 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 3.009 × 10<sup>28</sup> kg<br />(5038.205 Yrths)
         density: 2.479 g/cm<sup>3</sup>
         surface_gravity: 98.668 m/s<sup>2</sup><br />(10.061 g<sub>0</sub>)
         escape_velocity: 167.845 km/s<br />(604,241 km/h)
         rotation_period: 35.335 d
         axial_tilt: 10.55°
         albedo: 0.30
-        temperature: 284 K<br />(11 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III f
         type: Dwarf planet
         formationType: Accreted
@@ -346,14 +346,14 @@ planets:
         radius: 113,773.4 km<br/>(17.858 Yrths)
         surface_area: 1.627 × 10<sup>11</sup> km<sup>2</sup><br/>(318.909 Yrths)
         volume: 6.169 × 10<sup>15</sup> km<sup>3</sup><br/>(5695.073 Yrths)
-        mass: 1.548 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 1.548 × 10<sup>28</sup> kg<br />(2592.245 Yrths)
         density: 2.509 g/cm<sup>3</sup>
         surface_gravity: 79.713 m/s<sup>2</sup><br />(8.128 g<sub>0</sub>)
         escape_velocity: 134.771 km/s<br />(485,174 km/h)
         rotation_period: 52.921 d
         axial_tilt: 29.17°
         albedo: 0.30
-        temperature: 271 K<br />(-2 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III g
         type: Rocky
         formationType: Captured
@@ -366,14 +366,14 @@ planets:
         radius: 182,212.9 km<br/>(28.600 Yrths)
         surface_area: 4.172 × 10<sup>11</sup> km<sup>2</sup><br/>(817.981 Yrths)
         volume: 2.534 × 10<sup>16</sup> km<sup>3</sup><br/>(23394.555 Yrths)
-        mass: 6.584 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 6.584 × 10<sup>28</sup> kg<br />(11025.032 Yrths)
         density: 2.598 g/cm<sup>3</sup>
         surface_gravity: 132.177 m/s<sup>2</sup><br />(13.478 g<sub>0</sub>)
         escape_velocity: 219.623 km/s<br />(790,643 km/h)
         rotation_period: 32.815 d
         axial_tilt: 13.20°
         albedo: 0.30
-        temperature: 258 K<br />(-15 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III h
         type: Icy
         formationType: Captured
@@ -386,14 +386,14 @@ planets:
         radius: 134,400.4 km<br/>(21.096 Yrths)
         surface_area: 2.270 × 10<sup>11</sup> km<sup>2</sup><br/>(445.027 Yrths)
         volume: 1.017 × 10<sup>16</sup> km<sup>3</sup><br/>(9388.134 Yrths)
-        mass: 1.365 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 1.365 × 10<sup>28</sup> kg<br />(2285.451 Yrths)
         density: 1.342 g/cm<sup>3</sup>
         surface_gravity: 50.362 m/s<sup>2</sup><br />(5.136 g<sub>0</sub>)
         escape_velocity: 116.430 km/s<br />(419,147 km/h)
         rotation_period: 83.454 d
         axial_tilt: 6.55°
         albedo: 0.30
-        temperature: 246 K<br />(-27 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III i
         type: Icy
         formationType: Captured
@@ -406,14 +406,14 @@ planets:
         radius: 174,467.9 km<br/>(27.385 Yrths)
         surface_area: 3.825 × 10<sup>11</sup> km<sup>2</sup><br/>(749.921 Yrths)
         volume: 2.225 × 10<sup>16</sup> km<sup>3</sup><br/>(20536.368 Yrths)
-        mass: 1.604 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 1.604 × 10<sup>28</sup> kg<br />(2685.791 Yrths)
         density: 0.721 g/cm<sup>3</sup>
         surface_gravity: 35.122 m/s<sup>2</sup><br />(3.581 g<sub>0</sub>)
         escape_velocity: 110.779 km/s<br />(398,803 km/h)
         rotation_period: 60.880 d
         axial_tilt: 10.54°
         albedo: 0.30
-        temperature: 235 K<br />(-38 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -426,14 +426,14 @@ planets:
         radius: 115,302.2 km<br/>(18.098 Yrths)
         surface_area: 1.671 × 10<sup>11</sup> km<sup>2</sup><br/>(327.537 Yrths)
         volume: 6.421 × 10<sup>15</sup> km<sup>3</sup><br/>(5927.746 Yrths)
-        mass: 1.730 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 1.730 × 10<sup>28</sup> kg<br />(2896.941 Yrths)
         density: 2.694 g/cm<sup>3</sup>
         surface_gravity: 86.736 m/s<sup>2</sup><br />(8.845 g<sub>0</sub>)
         escape_velocity: 141.524 km/s<br />(509,485 km/h)
         rotation_period: 35.803 d
         axial_tilt: 7.83°
         albedo: 0.30
-        temperature: 194 K<br />(-79 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -446,14 +446,14 @@ planets:
         radius: 123,631.3 km<br/>(19.405 Yrths)
         surface_area: 1.921 × 10<sup>11</sup> km<sup>2</sup><br/>(376.567 Yrths)
         volume: 7.915 × 10<sup>15</sup> km<sup>3</sup><br/>(7307.401 Yrths)
-        mass: 1.752 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 1.752 × 10<sup>28</sup> kg<br />(2934.467 Yrths)
         density: 2.214 g/cm<sup>3</sup>
         surface_gravity: 76.420 m/s<sup>2</sup><br />(7.793 g<sub>0</sub>)
         escape_velocity: 137.556 km/s<br />(495,200 km/h)
         rotation_period: 38.941 d
         axial_tilt: 17.61°
         albedo: 0.30
-        temperature: 153 K<br />(-120 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4968 Arkothiad III l
         type: Ice/rock hybrid
         formationType: Captured
@@ -466,12 +466,12 @@ planets:
         radius: 135,893.8 km<br/>(21.330 Yrths)
         surface_area: 2.321 × 10<sup>11</sup> km<sup>2</sup><br/>(454.971 Yrths)
         volume: 1.051 × 10<sup>16</sup> km<sup>3</sup><br/>(9704.569 Yrths)
-        mass: 2.084 × 10<sup>28</sup> kg<br />(321.1762556893693 Yrths)
+        mass: 2.084 × 10<sup>28</sup> kg<br />(3490.034 Yrths)
         density: 1.983 g/cm<sup>3</sup>
         surface_gravity: 75.226 m/s<sup>2</sup><br />(7.671 g<sub>0</sub>)
         escape_velocity: 143.085 km/s<br />(515,104 km/h)
         rotation_period: 38.191 d
         axial_tilt: 10.24°
         albedo: 0.30
-        temperature: 146 K<br />(-127 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

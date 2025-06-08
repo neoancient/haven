@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11257 Arkothiad is a star in the constellation Arkoth
+      11257 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 428.65 ly
 apparent_magnitude: 13.26
 absolute_magnitude: 7.67

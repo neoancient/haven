@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Chaigei C is a star in the constellation Atchian
+      Chaigei C is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 2729.99 ly
 apparent_magnitude: 6.63
 absolute_magnitude: -2.98

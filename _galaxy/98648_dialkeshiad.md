@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      98648 Dialkeshiad is a star in the constellation Dialkes
+      98648 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 642.69 ly
 apparent_magnitude: 14.56
 absolute_magnitude: 8.09

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0010 Pokiad B is a star in the constellation Poke
+      0010 Pokiad B is a star in the constellation <a href="poke.html">Poke</a>
 distance: 80.64 ly
 apparent_magnitude: 7.59
 absolute_magnitude: 5.62

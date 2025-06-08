@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0109 Nuaniad B is a star in the constellation Nuani
+      0109 Nuaniad B is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 298.37 ly
 apparent_magnitude: 9.33
 absolute_magnitude: 4.53

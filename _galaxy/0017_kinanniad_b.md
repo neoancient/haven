@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0017 Kinanniad B is a star in the constellation Kinan
+      0017 Kinanniad B is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 1916.57 ly
 apparent_magnitude: 16.15
 absolute_magnitude: 7.30

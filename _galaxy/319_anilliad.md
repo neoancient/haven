@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      319 Anilliad is a star in the constellation Anil
+      319 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 588.99 ly
 apparent_magnitude: 12.25
 absolute_magnitude: 5.97

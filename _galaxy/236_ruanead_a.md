@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      236 Ruanead A is a star in the constellation Ruane
+      236 Ruanead A is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 326.19 ly
 apparent_magnitude: 7.49
 absolute_magnitude: 2.49

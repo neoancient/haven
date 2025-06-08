@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2664 Narashiad A is a star in the constellation Naras
+      2664 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 466.87 ly
 apparent_magnitude: 8.17
 absolute_magnitude: 2.39

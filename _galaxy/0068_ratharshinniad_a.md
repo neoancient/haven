@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0068 Ratharshinniad A is a star in the constellation Ratharshin
+      0068 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1460.20 ly
 apparent_magnitude: 5.64
 absolute_magnitude: -2.62

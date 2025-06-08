@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      270 Oniad is a star in the constellation Oni
+      270 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1035.09 ly
 apparent_magnitude: 12.35
 absolute_magnitude: 4.84

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      764 Erikkiad is a star in the constellation Erik
+      764 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 231.41 ly
 apparent_magnitude: 9.88
 absolute_magnitude: 5.62

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6462 Arkothiad A is a star in the constellation Arkoth
+      6462 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 236.83 ly
 apparent_magnitude: 11.00
 absolute_magnitude: 6.69

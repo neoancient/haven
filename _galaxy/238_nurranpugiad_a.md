@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      238 Nurranpugiad A is a star in the constellation Nurranpug
+      238 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 478.46 ly
 apparent_magnitude: 7.60
 absolute_magnitude: 1.77

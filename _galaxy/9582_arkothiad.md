@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9582 Arkothiad is a star in the constellation Arkoth
+      9582 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 367.19 ly
 apparent_magnitude: 11.30
 absolute_magnitude: 6.04

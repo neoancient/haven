@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5355 Dialkeshiad is a star in the constellation Dialkes
+      5355 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 307.31 ly
 apparent_magnitude: 18.31
 absolute_magnitude: 13.44

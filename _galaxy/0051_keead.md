@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Keead is a star in the constellation Kee
+      0051 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 214.75 ly
 apparent_magnitude: 6.21
 absolute_magnitude: 2.11
@@ -31,7 +31,7 @@ planets:
     radius: 218.8 km<br/>(0.034 Yrths)
     surface_area: 6.014 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.385 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.642 × 10<sup>27</sup> kg<br />(274.9490610008626 Yrths)
+    mass: 1.642 × 10<sup>27</sup> kg<br />(274.95 Yrths)
     density: 37445202.920 g/cm<sup>3</sup>
     surface_gravity: 2286984.907 m/s<sup>2</sup><br />(233207.559 g<sub>0</sub>)
     escape_velocity: 1000.974 km/s<br />(3,603,505 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 123,135.4 km<br/>(19.327 Yrths)
         surface_area: 1.905 × 10<sup>11</sup> km<sup>2</sup><br/>(373.552 Yrths)
         volume: 7.821 × 10<sup>15</sup> km<sup>3</sup><br/>(7219.810 Yrths)
-        mass: 2.443 × 10<sup>28</sup> kg<br />(274.9490610008626 Yrths)
+        mass: 2.443 × 10<sup>28</sup> kg<br />(4090.889 Yrths)
         density: 3.124 g/cm<sup>3</sup>
         surface_gravity: 107.396 m/s<sup>2</sup><br />(10.951 g<sub>0</sub>)
         escape_velocity: 162.740 km/s<br />(585,865 km/h)
         rotation_period: 36.054 d
         axial_tilt: 20.23°
         albedo: 0.30
-        temperature: 1340 K<br />(1066 °C)
+        temperature: 306 K<br />(33 °C)
       - name: 0051 Keead I b
         type: Icy
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 193,923.4 km<br/>(30.438 Yrths)
         surface_area: 4.726 × 10<sup>11</sup> km<sup>2</sup><br/>(926.500 Yrths)
         volume: 3.055 × 10<sup>16</sup> km<sup>3</sup><br/>(28201.215 Yrths)
-        mass: 3.779 × 10<sup>28</sup> kg<br />(274.9490610008626 Yrths)
+        mass: 3.779 × 10<sup>28</sup> kg<br />(6327.425 Yrths)
         density: 1.237 g/cm<sup>3</sup>
         surface_gravity: 66.973 m/s<sup>2</sup><br />(6.829 g<sub>0</sub>)
         escape_velocity: 161.278 km/s<br />(580,602 km/h)
         rotation_period: 75.581 d
         axial_tilt: 23.66°
         albedo: 0.30
-        temperature: 1107 K<br />(834 °C)
+        temperature: 306 K<br />(33 °C)
       - name: 0051 Keead I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -92,14 +92,14 @@ planets:
         radius: 145,444.2 km<br/>(22.829 Yrths)
         surface_area: 2.658 × 10<sup>11</sup> km<sup>2</sup><br/>(521.168 Yrths)
         volume: 1.289 × 10<sup>16</sup> km<sup>3</sup><br/>(11897.786 Yrths)
-        mass: 2.062 × 10<sup>28</sup> kg<br />(274.9490610008626 Yrths)
+        mass: 2.062 × 10<sup>28</sup> kg<br />(3452.850 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 64.971 m/s<sup>2</sup><br />(6.625 g<sub>0</sub>)
         escape_velocity: 137.568 km/s<br />(495,246 km/h)
         rotation_period: 57.331 d
         axial_tilt: 15.52°
         albedo: 0.30
-        temperature: 872 K<br />(599 °C)
+        temperature: 306 K<br />(33 °C)
       - name: 0051 Keead I d
         type: Asteroid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 138,557.2 km<br/>(21.748 Yrths)
         surface_area: 2.413 × 10<sup>11</sup> km<sup>2</sup><br/>(472.980 Yrths)
         volume: 1.114 × 10<sup>16</sup> km<sup>3</sup><br/>(10286.421 Yrths)
-        mass: 3.267 × 10<sup>28</sup> kg<br />(274.9490610008626 Yrths)
+        mass: 3.267 × 10<sup>28</sup> kg<br />(5471.104 Yrths)
         density: 2.932 g/cm<sup>3</sup>
         surface_gravity: 113.437 m/s<sup>2</sup><br />(11.567 g<sub>0</sub>)
         escape_velocity: 177.419 km/s<br />(638,709 km/h)
         rotation_period: 38.860 d
         axial_tilt: 39.58°
         albedo: 0.30
-        temperature: 832 K<br />(559 °C)
+        temperature: 306 K<br />(33 °C)
       - name: 0051 Keead I e
         type: Icy
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 185,298.4 km<br/>(29.085 Yrths)
         surface_area: 4.315 × 10<sup>11</sup> km<sup>2</sup><br/>(845.918 Yrths)
         volume: 2.665 × 10<sup>16</sup> km<sup>3</sup><br/>(24603.241 Yrths)
-        mass: 3.787 × 10<sup>28</sup> kg<br />(274.9490610008626 Yrths)
+        mass: 3.787 × 10<sup>28</sup> kg<br />(6341.078 Yrths)
         density: 1.421 g/cm<sup>3</sup>
         surface_gravity: 73.512 m/s<sup>2</sup><br />(7.496 g<sub>0</sub>)
         escape_velocity: 165.167 km/s<br />(594,601 km/h)
         rotation_period: 46.993 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 793 K<br />(520 °C)
+        temperature: 306 K<br />(33 °C)
       - name: 0051 Keead I f
         type: Icy
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 223,871.7 km<br/>(35.139 Yrths)
         surface_area: 6.298 × 10<sup>11</sup> km<sup>2</sup><br/>(1234.762 Yrths)
         volume: 4.700 × 10<sup>16</sup> km<sup>3</sup><br/>(43388.535 Yrths)
-        mass: 6.240 × 10<sup>28</sup> kg<br />(274.9490610008626 Yrths)
+        mass: 6.240 × 10<sup>28</sup> kg<br />(10449.332 Yrths)
         density: 1.328 g/cm<sup>3</sup>
         surface_gravity: 82.990 m/s<sup>2</sup><br />(8.463 g<sub>0</sub>)
         escape_velocity: 192.896 km/s<br />(694,424 km/h)
         rotation_period: 49.814 d
         axial_tilt: 17.09°
         albedo: 0.30
-        temperature: 353 K<br />(80 °C)
+        temperature: 306 K<br />(33 °C)
       - name: 0051 Keead I g
         type: Icy
         formationType: Accreted
@@ -172,12 +172,12 @@ planets:
         radius: 172,819.4 km<br/>(27.126 Yrths)
         surface_area: 3.753 × 10<sup>11</sup> km<sup>2</sup><br/>(735.817 Yrths)
         volume: 2.162 × 10<sup>16</sup> km<sup>3</sup><br/>(19959.747 Yrths)
-        mass: 2.496 × 10<sup>28</sup> kg<br />(274.9490610008626 Yrths)
+        mass: 2.496 × 10<sup>28</sup> kg<br />(4179.819 Yrths)
         density: 1.155 g/cm<sup>3</sup>
         surface_gravity: 55.707 m/s<sup>2</sup><br />(5.681 g<sub>0</sub>)
         escape_velocity: 138.855 km/s<br />(499,876 km/h)
         rotation_period: 54.339 d
         axial_tilt: 20.52°
         albedo: 0.30
-        temperature: 165 K<br />(-109 °C)
+        temperature: 306 K<br />(33 °C)
 ---

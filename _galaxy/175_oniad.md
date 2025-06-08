@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      175 Oniad is a star in the constellation Oni
+      175 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1017.57 ly
 apparent_magnitude: 12.31
 absolute_magnitude: 4.84

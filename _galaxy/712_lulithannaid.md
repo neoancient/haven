@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      712 Lulithannaid is a star in the constellation Lulithan
+      712 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 1058.22 ly
 apparent_magnitude: 16.99
 absolute_magnitude: 9.43

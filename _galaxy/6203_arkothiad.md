@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6203 Arkothiad is a star in the constellation Arkoth
+      6203 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 646.18 ly
 apparent_magnitude: 11.18
 absolute_magnitude: 4.70

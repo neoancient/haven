@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4626 Anilliad is a star in the constellation Anil
+      4626 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 379.42 ly
 apparent_magnitude: 11.02
 absolute_magnitude: 5.69
@@ -31,7 +31,7 @@ planets:
     radius: 5,526.5 km<br/>(0.867 Yrths)
     surface_area: 3.838 × 10<sup>08</sup> km<sup>2</sup><br/>(0.752 Yrths)
     volume: 7.070 × 10<sup>11</sup> km<sup>3</sup><br/>(0.653 Yrths)
-    mass: 9.027 × 10<sup>24</sup> kg<br />(1.5115504642892132 Yrths)
+    mass: 9.027 × 10<sup>24</sup> kg<br />(1.51 Yrths)
     density: 12.768 g/cm<sup>3</sup>
     surface_gravity: 19.700 m/s<sup>2</sup><br />(2.009 g<sub>0</sub>)
     escape_velocity: 14.766 km/s<br />(53,158 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 3,780.2 km<br/>(0.593 Yrths)
         surface_area: 1.796 × 10<sup>08</sup> km<sup>2</sup><br/>(0.352 Yrths)
         volume: 2.263 × 10<sup>11</sup> km<sup>3</sup><br/>(0.209 Yrths)
-        mass: 5.045 × 10<sup>23</sup> kg<br />(1.5115504642892132 Yrths)
+        mass: 5.045 × 10<sup>23</sup> kg<br />(0.084 Yrths)
         density: 2.230 g/cm<sup>3</sup>
         surface_gravity: 2.353 m/s<sup>2</sup><br />(0.240 g<sub>0</sub>)
         escape_velocity: 4.221 km/s<br />(15,195 km/h)
         rotation_period: 39.574 d
         axial_tilt: 19.82°
         albedo: 0.30
-        temperature: 4267 K<br />(3994 °C)
+        temperature: 332 K<br />(59 °C)
   - name: 4626 Anilliad II
     type: Terrestrial
     aphelion: 103,484,745 km<br />0.692 AU
@@ -71,14 +71,14 @@ planets:
     radius: 5,760.4 km<br/>(0.904 Yrths)
     surface_area: 4.170 × 10<sup>08</sup> km<sup>2</sup><br/>(0.818 Yrths)
     volume: 8.007 × 10<sup>11</sup> km<sup>3</sup><br/>(0.739 Yrths)
-    mass: 4.950 × 10<sup>24</sup> kg<br />(0.8288308301047022 Yrths)
+    mass: 4.950 × 10<sup>24</sup> kg<br />(0.83 Yrths)
     density: 6.182 g/cm<sup>3</sup>
     surface_gravity: 9.942 m/s<sup>2</sup><br />(1.014 g<sub>0</sub>)
     escape_velocity: 10.710 km/s<br />(38,556 km/h)
     rotation_period: 2.216 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 334 K<br />(60 °C)
+    temperature: 737 K<br />(464 °C)
     surface_pressure: 21 kPa<br />(0 atm)
     composition:
       - 54.2628% carbon dioxide
@@ -98,14 +98,14 @@ planets:
         radius: 1,870.6 km<br/>(0.294 Yrths)
         surface_area: 4.397 × 10<sup>07</sup> km<sup>2</sup><br/>(0.086 Yrths)
         volume: 2.742 × 10<sup>10</sup> km<sup>3</sup><br/>(0.025 Yrths)
-        mass: 9.825 × 10<sup>22</sup> kg<br />(0.8288308301047022 Yrths)
+        mass: 9.825 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 3.583 g/cm<sup>3</sup>
         surface_gravity: 1.871 m/s<sup>2</sup><br />(0.191 g<sub>0</sub>)
         escape_velocity: 2.648 km/s<br />(9,532 km/h)
         rotation_period: 48.263 d
         axial_tilt: 21.62°
         albedo: 0.30
-        temperature: 4318 K<br />(4045 °C)
+        temperature: 257 K<br />(-16 °C)
   - name: 4626 Anilliad III
     type: Gas giant
     aphelion: 171,767,683 km<br />1.148 AU
@@ -117,7 +117,7 @@ planets:
     radius: 199.2 km<br/>(0.031 Yrths)
     surface_area: 4.984 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.309 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.089 × 10<sup>27</sup> kg<br />(182.2896298402044 Yrths)
+    mass: 1.089 × 10<sup>27</sup> kg<br />(182.29 Yrths)
     density: 32901168.360 g/cm<sup>3</sup>
     surface_gravity: 1829405.417 m/s<sup>2</sup><br />(186547.436 g<sub>0</sub>)
     escape_velocity: 854.204 km/s<br />(3,075,136 km/h)
@@ -138,14 +138,14 @@ planets:
         radius: 113,044.4 km<br/>(17.744 Yrths)
         surface_area: 1.606 × 10<sup>11</sup> km<sup>2</sup><br/>(314.835 Yrths)
         volume: 6.051 × 10<sup>15</sup> km<sup>3</sup><br/>(5586.305 Yrths)
-        mass: 2.148 × 10<sup>28</sup> kg<br />(182.2896298402044 Yrths)
+        mass: 2.148 × 10<sup>28</sup> kg<br />(3597.461 Yrths)
         density: 3.550 g/cm<sup>3</sup>
         surface_gravity: 112.056 m/s<sup>2</sup><br />(11.426 g<sub>0</sub>)
         escape_velocity: 159.276 km/s<br />(573,395 km/h)
         rotation_period: 33.878 d
         axial_tilt: 10.37°
         albedo: 0.30
-        temperature: 908 K<br />(635 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 4626 Anilliad III b
         type: Rocky
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 107,238.6 km<br/>(16.832 Yrths)
         surface_area: 1.445 × 10<sup>11</sup> km<sup>2</sup><br/>(283.327 Yrths)
         volume: 5.166 × 10<sup>15</sup> km<sup>3</sup><br/>(4769.040 Yrths)
-        mass: 1.845 × 10<sup>28</sup> kg<br />(182.2896298402044 Yrths)
+        mass: 1.845 × 10<sup>28</sup> kg<br />(3088.884 Yrths)
         density: 3.571 g/cm<sup>3</sup>
         surface_gravity: 106.914 m/s<sup>2</sup><br />(10.902 g<sub>0</sub>)
         escape_velocity: 151.532 km/s<br />(545,513 km/h)
         rotation_period: 39.421 d
         axial_tilt: 9.79°
         albedo: 0.30
-        temperature: 750 K<br />(477 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 4626 Anilliad III c
         type: Icy
         formationType: Impact formed
@@ -178,14 +178,14 @@ planets:
         radius: 115,887.2 km<br/>(18.190 Yrths)
         surface_area: 1.688 × 10<sup>11</sup> km<sup>2</sup><br/>(330.869 Yrths)
         volume: 6.519 × 10<sup>15</sup> km<sup>3</sup><br/>(6018.441 Yrths)
-        mass: 1.239 × 10<sup>28</sup> kg<br />(182.2896298402044 Yrths)
+        mass: 1.239 × 10<sup>28</sup> kg<br />(2074.098 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 61.474 m/s<sup>2</sup><br />(6.269 g<sub>0</sub>)
         escape_velocity: 119.447 km/s<br />(430,009 km/h)
         rotation_period: 51.292 d
         axial_tilt: 21.71°
         albedo: 0.30
-        temperature: 424 K<br />(150 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 4626 Anilliad III d
         type: Icy
         formationType: Accreted
@@ -198,14 +198,14 @@ planets:
         radius: 134,292.8 km<br/>(21.079 Yrths)
         surface_area: 2.266 × 10<sup>11</sup> km<sup>2</sup><br/>(444.314 Yrths)
         volume: 1.014 × 10<sup>16</sup> km<sup>3</sup><br/>(9365.602 Yrths)
-        mass: 1.348 × 10<sup>28</sup> kg<br />(182.2896298402044 Yrths)
+        mass: 1.348 × 10<sup>28</sup> kg<br />(2257.230 Yrths)
         density: 1.329 g/cm<sup>3</sup>
         surface_gravity: 49.820 m/s<sup>2</sup><br />(5.080 g<sub>0</sub>)
         escape_velocity: 115.755 km/s<br />(416,718 km/h)
         rotation_period: 56.995 d
         axial_tilt: 23.15°
         albedo: 0.30
-        temperature: 367 K<br />(94 °C)
+        temperature: 199 K<br />(-74 °C)
       - name: 4626 Anilliad III e
         type: Asteroid
         formationType: Captured
@@ -218,14 +218,14 @@ planets:
         radius: 152,932.2 km<br/>(24.004 Yrths)
         surface_area: 2.939 × 10<sup>11</sup> km<sup>2</sup><br/>(576.213 Yrths)
         volume: 1.498 × 10<sup>16</sup> km<sup>3</sup><br/>(13831.657 Yrths)
-        mass: 5.105 × 10<sup>28</sup> kg<br />(182.2896298402044 Yrths)
+        mass: 5.105 × 10<sup>28</sup> kg<br />(8547.757 Yrths)
         density: 3.407 g/cm<sup>3</sup>
         surface_gravity: 145.476 m/s<sup>2</sup><br />(14.834 g<sub>0</sub>)
         escape_velocity: 211.084 km/s<br />(759,901 km/h)
         rotation_period: 36.467 d
         axial_tilt: 24.44°
         albedo: 0.30
-        temperature: 303 K<br />(30 °C)
+        temperature: 199 K<br />(-74 °C)
   - name: 4626 Anilliad IV
     type: Gas dwarf
     aphelion: 292,479,134 km<br />1.955 AU
@@ -237,14 +237,14 @@ planets:
     radius: 20,330.1 km<br/>(3.191 Yrths)
     surface_area: 5.194 × 10<sup>09</sup> km<sup>2</sup><br/>(10.183 Yrths)
     volume: 3.520 × 10<sup>13</sup> km<sup>3</sup><br/>(32.493 Yrths)
-    mass: 8.166 × 10<sup>25</sup> kg<br />(13.673943966458442 Yrths)
+    mass: 8.166 × 10<sup>25</sup> kg<br />(13.67 Yrths)
     density: 2.320 g/cm<sup>3</sup>
     surface_gravity: 13.169 m/s<sup>2</sup><br />(1.343 g<sub>0</sub>)
     escape_velocity: 23.156 km/s<br />(83,360 km/h)
     rotation_period: 0.594 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 211 K<br />(-62 °C)
+    temperature: 200 K<br />(-73 °C)
     composition:
       - 75.6907% hydrogen
       - 18.6515% helium
@@ -263,14 +263,14 @@ planets:
         radius: 9,889.8 km<br/>(1.552 Yrths)
         surface_area: 1.229 × 10<sup>09</sup> km<sup>2</sup><br/>(2.410 Yrths)
         volume: 4.052 × 10<sup>12</sup> km<sup>3</sup><br/>(3.741 Yrths)
-        mass: 7.327 × 10<sup>24</sup> kg<br />(13.673943966458442 Yrths)
+        mass: 7.327 × 10<sup>24</sup> kg<br />(1.227 Yrths)
         density: 1.808 g/cm<sup>3</sup>
         surface_gravity: 4.993 m/s<sup>2</sup><br />(0.509 g<sub>0</sub>)
         escape_velocity: 9.944 km/s<br />(35,800 km/h)
         rotation_period: 64.225 d
         axial_tilt: 14.65°
         albedo: 0.30
-        temperature: 1318 K<br />(1045 °C)
+        temperature: 154 K<br />(-119 °C)
       - name: 4626 Anilliad IV b
         type: Icy
         formationType: Captured
@@ -283,14 +283,14 @@ planets:
         radius: 14,192.1 km<br/>(2.228 Yrths)
         surface_area: 2.531 × 10<sup>09</sup> km<sup>2</sup><br/>(4.962 Yrths)
         volume: 1.197 × 10<sup>13</sup> km<sup>3</sup><br/>(11.054 Yrths)
-        mass: 1.849 × 10<sup>25</sup> kg<br />(13.673943966458442 Yrths)
+        mass: 1.849 × 10<sup>25</sup> kg<br />(3.096 Yrths)
         density: 1.544 g/cm<sup>3</sup>
         surface_gravity: 6.119 m/s<sup>2</sup><br />(0.624 g<sub>0</sub>)
         escape_velocity: 13.187 km/s<br />(47,475 km/h)
         rotation_period: 54.502 d
         axial_tilt: 27.08°
         albedo: 0.30
-        temperature: 1256 K<br />(983 °C)
+        temperature: 154 K<br />(-119 °C)
       - name: 4626 Anilliad IV c
         type: Rocky
         formationType: Accreted
@@ -303,14 +303,14 @@ planets:
         radius: 23,305.7 km<br/>(3.658 Yrths)
         surface_area: 6.826 × 10<sup>09</sup> km<sup>2</sup><br/>(13.382 Yrths)
         volume: 5.302 × 10<sup>13</sup> km<sup>3</sup><br/>(48.951 Yrths)
-        mass: 1.764 × 10<sup>26</sup> kg<br />(13.673943966458442 Yrths)
+        mass: 1.764 × 10<sup>26</sup> kg<br />(29.537 Yrths)
         density: 3.327 g/cm<sup>3</sup>
         surface_gravity: 21.646 m/s<sup>2</sup><br />(2.207 g<sub>0</sub>)
         escape_velocity: 31.785 km/s<br />(114,428 km/h)
         rotation_period: 31.133 d
         axial_tilt: 16.38°
         albedo: 0.30
-        temperature: 1198 K<br />(925 °C)
+        temperature: 154 K<br />(-119 °C)
       - name: 4626 Anilliad IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 16,094.4 km<br/>(2.526 Yrths)
         surface_area: 3.255 × 10<sup>09</sup> km<sup>2</sup><br/>(6.382 Yrths)
         volume: 1.746 × 10<sup>13</sup> km<sup>3</sup><br/>(16.121 Yrths)
-        mass: 4.214 × 10<sup>25</sup> kg<br />(13.673943966458442 Yrths)
+        mass: 4.214 × 10<sup>25</sup> kg<br />(7.057 Yrths)
         density: 2.413 g/cm<sup>3</sup>
         surface_gravity: 10.844 m/s<sup>2</sup><br />(1.106 g<sub>0</sub>)
         escape_velocity: 18.696 km/s<br />(67,304 km/h)
         rotation_period: 62.950 d
         axial_tilt: 20.02°
         albedo: 0.30
-        temperature: 1142 K<br />(869 °C)
+        temperature: 154 K<br />(-119 °C)
       - name: 4626 Anilliad IV e
         type: Rocky
         formationType: Accreted
@@ -343,14 +343,14 @@ planets:
         radius: 12,208.7 km<br/>(1.916 Yrths)
         surface_area: 1.873 × 10<sup>09</sup> km<sup>2</sup><br/>(3.672 Yrths)
         volume: 7.622 × 10<sup>12</sup> km<sup>3</sup><br/>(7.037 Yrths)
-        mass: 2.299 × 10<sup>25</sup> kg<br />(13.673943966458442 Yrths)
+        mass: 2.299 × 10<sup>25</sup> kg<br />(3.849 Yrths)
         density: 3.016 g/cm<sup>3</sup>
         surface_gravity: 10.279 m/s<sup>2</sup><br />(1.048 g<sub>0</sub>)
         escape_velocity: 15.854 km/s<br />(57,073 km/h)
         rotation_period: 29.409 d
         axial_tilt: 13.92°
         albedo: 0.30
-        temperature: 1089 K<br />(816 °C)
+        temperature: 154 K<br />(-119 °C)
   - name: 4626 Anilliad V
     type: Gas dwarf
     aphelion: 478,056,856 km<br />3.196 AU
@@ -362,14 +362,14 @@ planets:
     radius: 10,492.1 km<br/>(1.647 Yrths)
     surface_area: 1.383 × 10<sup>09</sup> km<sup>2</sup><br/>(2.712 Yrths)
     volume: 4.838 × 10<sup>12</sup> km<sup>3</sup><br/>(4.467 Yrths)
-    mass: 1.167 × 10<sup>25</sup> kg<br />(1.9549023959993364 Yrths)
+    mass: 1.167 × 10<sup>25</sup> kg<br />(1.95 Yrths)
     density: 2.413 g/cm<sup>3</sup>
     surface_gravity: 7.069 m/s<sup>2</sup><br />(0.721 g<sub>0</sub>)
     escape_velocity: 12.187 km/s<br />(43,874 km/h)
     rotation_period: 0.719 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 172 K<br />(-101 °C)
+    temperature: 152 K<br />(-121 °C)
     composition:
       - 90.3086% hydrogen
       - 8.9906% helium
@@ -388,14 +388,14 @@ planets:
         radius: 3,768.9 km<br/>(0.592 Yrths)
         surface_area: 1.785 × 10<sup>08</sup> km<sup>2</sup><br/>(0.350 Yrths)
         volume: 2.242 × 10<sup>11</sup> km<sup>3</sup><br/>(0.207 Yrths)
-        mass: 4.368 × 10<sup>23</sup> kg<br />(1.9549023959993364 Yrths)
+        mass: 4.368 × 10<sup>23</sup> kg<br />(0.073 Yrths)
         density: 1.948 g/cm<sup>3</sup>
         surface_gravity: 2.050 m/s<sup>2</sup><br />(0.209 g<sub>0</sub>)
         escape_velocity: 3.933 km/s<br />(14,160 km/h)
         rotation_period: 43.501 d
         axial_tilt: 23.06°
         albedo: 0.30
-        temperature: 1473 K<br />(1200 °C)
+        temperature: 120 K<br />(-154 °C)
       - name: 4626 Anilliad V b
         type: Ice/rock hybrid
         formationType: Captured
@@ -408,14 +408,14 @@ planets:
         radius: 7,223.0 km<br/>(1.134 Yrths)
         surface_area: 6.556 × 10<sup>08</sup> km<sup>2</sup><br/>(1.285 Yrths)
         volume: 1.579 × 10<sup>12</sup> km<sup>3</sup><br/>(1.457 Yrths)
-        mass: 4.420 × 10<sup>24</sup> kg<br />(1.9549023959993364 Yrths)
+        mass: 4.420 × 10<sup>24</sup> kg<br />(0.740 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 5.647 m/s<sup>2</sup><br />(0.576 g<sub>0</sub>)
         escape_velocity: 9.038 km/s<br />(32,536 km/h)
         rotation_period: 44.375 d
         axial_tilt: 26.61°
         albedo: 0.30
-        temperature: 1405 K<br />(1131 °C)
+        temperature: 120 K<br />(-154 °C)
       - name: 4626 Anilliad V c
         type: Icy
         formationType: Captured
@@ -428,14 +428,14 @@ planets:
         radius: 3,682.7 km<br/>(0.578 Yrths)
         surface_area: 1.704 × 10<sup>08</sup> km<sup>2</sup><br/>(0.334 Yrths)
         volume: 2.092 × 10<sup>11</sup> km<sup>3</sup><br/>(0.193 Yrths)
-        mass: 3.292 × 10<sup>23</sup> kg<br />(1.9549023959993364 Yrths)
+        mass: 3.292 × 10<sup>23</sup> kg<br />(0.055 Yrths)
         density: 1.574 g/cm<sup>3</sup>
         surface_gravity: 1.618 m/s<sup>2</sup><br />(0.165 g<sub>0</sub>)
         escape_velocity: 3.454 km/s<br />(12,436 km/h)
         rotation_period: 49.194 d
         axial_tilt: 6.37°
         albedo: 0.30
-        temperature: 1277 K<br />(1004 °C)
+        temperature: 120 K<br />(-154 °C)
       - name: 4626 Anilliad V d
         type: Icy
         formationType: Impact formed
@@ -448,14 +448,14 @@ planets:
         radius: 3,686.3 km<br/>(0.579 Yrths)
         surface_area: 1.708 × 10<sup>08</sup> km<sup>2</sup><br/>(0.335 Yrths)
         volume: 2.098 × 10<sup>11</sup> km<sup>3</sup><br/>(0.194 Yrths)
-        mass: 3.408 × 10<sup>23</sup> kg<br />(1.9549023959993364 Yrths)
+        mass: 3.408 × 10<sup>23</sup> kg<br />(0.057 Yrths)
         density: 1.624 g/cm<sup>3</sup>
         surface_gravity: 1.671 m/s<sup>2</sup><br />(0.170 g<sub>0</sub>)
         escape_velocity: 3.513 km/s<br />(12,646 km/h)
         rotation_period: 52.208 d
         axial_tilt: 27.64°
         albedo: 0.30
-        temperature: 1218 K<br />(944 °C)
+        temperature: 120 K<br />(-154 °C)
   - name: 4626 Anilliad VI
     type: Ice giant
     aphelion: 794,118,267 km<br />5.308 AU
@@ -467,14 +467,14 @@ planets:
     radius: 23,764.9 km<br/>(3.730 Yrths)
     surface_area: 7.097 × 10<sup>09</sup> km<sup>2</sup><br/>(13.914 Yrths)
     volume: 5.622 × 10<sup>13</sup> km<sup>3</sup><br/>(51.902 Yrths)
-    mass: 9.905 × 10<sup>25</sup> kg<br />(16.58521855229686 Yrths)
+    mass: 9.905 × 10<sup>25</sup> kg<br />(16.59 Yrths)
     density: 1.762 g/cm<sup>3</sup>
     surface_gravity: 11.689 m/s<sup>2</sup><br />(1.192 g<sub>0</sub>)
     escape_velocity: 23.587 km/s<br />(84,913 km/h)
     rotation_period: 0.435 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 164 K<br />(-109 °C)
+    temperature: 147 K<br />(-126 °C)
     composition:
       - 78.5212% hydrogen
       - 21.4788% helium
@@ -491,14 +491,14 @@ planets:
         radius: 19,888.8 km<br/>(3.122 Yrths)
         surface_area: 4.971 × 10<sup>09</sup> km<sup>2</sup><br/>(9.745 Yrths)
         volume: 3.295 × 10<sup>13</sup> km<sup>3</sup><br/>(30.423 Yrths)
-        mass: 5.510 × 10<sup>25</sup> kg<br />(16.58521855229686 Yrths)
+        mass: 5.510 × 10<sup>25</sup> kg<br />(9.226 Yrths)
         density: 1.672 g/cm<sup>3</sup>
         surface_gravity: 9.284 m/s<sup>2</sup><br />(0.947 g<sub>0</sub>)
         escape_velocity: 19.230 km/s<br />(69,228 km/h)
         rotation_period: 68.102 d
         axial_tilt: 17.54°
         albedo: 0.30
-        temperature: 799 K<br />(526 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 4626 Anilliad VI b
         type: Icy
         formationType: Captured
@@ -511,14 +511,14 @@ planets:
         radius: 15,426.7 km<br/>(2.421 Yrths)
         surface_area: 2.991 × 10<sup>09</sup> km<sup>2</sup><br/>(5.863 Yrths)
         volume: 1.538 × 10<sup>13</sup> km<sup>3</sup><br/>(14.197 Yrths)
-        mass: 2.210 × 10<sup>25</sup> kg<br />(16.58521855229686 Yrths)
+        mass: 2.210 × 10<sup>25</sup> kg<br />(3.700 Yrths)
         density: 1.437 g/cm<sup>3</sup>
         surface_gravity: 6.189 m/s<sup>2</sup><br />(0.631 g<sub>0</sub>)
         escape_velocity: 13.828 km/s<br />(49,779 km/h)
         rotation_period: 52.771 d
         axial_tilt: 24.40°
         albedo: 0.30
-        temperature: 762 K<br />(489 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 4626 Anilliad VI c
         type: Icy
         formationType: Captured
@@ -531,14 +531,14 @@ planets:
         radius: 19,879.1 km<br/>(3.120 Yrths)
         surface_area: 4.966 × 10<sup>09</sup> km<sup>2</sup><br/>(9.736 Yrths)
         volume: 3.291 × 10<sup>13</sup> km<sup>3</sup><br/>(30.378 Yrths)
-        mass: 4.805 × 10<sup>25</sup> kg<br />(16.58521855229686 Yrths)
+        mass: 4.805 × 10<sup>25</sup> kg<br />(8.045 Yrths)
         density: 1.460 g/cm<sup>3</sup>
         surface_gravity: 8.104 m/s<sup>2</sup><br />(0.826 g<sub>0</sub>)
         escape_velocity: 17.962 km/s<br />(64,663 km/h)
         rotation_period: 68.974 d
         axial_tilt: 28.84°
         albedo: 0.30
-        temperature: 726 K<br />(453 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 4626 Anilliad VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -551,14 +551,14 @@ planets:
         radius: 15,044.4 km<br/>(2.361 Yrths)
         surface_area: 2.844 × 10<sup>09</sup> km<sup>2</sup><br/>(5.576 Yrths)
         volume: 1.426 × 10<sup>13</sup> km<sup>3</sup><br/>(13.167 Yrths)
-        mass: 2.817 × 10<sup>25</sup> kg<br />(16.58521855229686 Yrths)
+        mass: 2.817 × 10<sup>25</sup> kg<br />(4.717 Yrths)
         density: 1.975 g/cm<sup>3</sup>
         surface_gravity: 8.295 m/s<sup>2</sup><br />(0.846 g<sub>0</sub>)
         escape_velocity: 15.809 km/s<br />(56,913 km/h)
         rotation_period: 57.823 d
         axial_tilt: 17.93°
         albedo: 0.30
-        temperature: 693 K<br />(419 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 4626 Anilliad VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -571,14 +571,14 @@ planets:
         radius: 15,633.5 km<br/>(2.454 Yrths)
         surface_area: 3.071 × 10<sup>09</sup> km<sup>2</sup><br/>(6.021 Yrths)
         volume: 1.600 × 10<sup>13</sup> km<sup>3</sup><br/>(14.776 Yrths)
-        mass: 3.957 × 10<sup>25</sup> kg<br />(16.58521855229686 Yrths)
+        mass: 3.957 × 10<sup>25</sup> kg<br />(6.626 Yrths)
         density: 2.472 g/cm<sup>3</sup>
         surface_gravity: 10.791 m/s<sup>2</sup><br />(1.100 g<sub>0</sub>)
         escape_velocity: 18.381 km/s<br />(66,172 km/h)
         rotation_period: 32.809 d
         axial_tilt: 15.56°
         albedo: 0.30
-        temperature: 660 K<br />(387 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 4626 Anilliad VI f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -591,14 +591,14 @@ planets:
         radius: 17,705.0 km<br/>(2.779 Yrths)
         surface_area: 3.939 × 10<sup>09</sup> km<sup>2</sup><br/>(7.723 Yrths)
         volume: 2.325 × 10<sup>13</sup> km<sup>3</sup><br/>(21.462 Yrths)
-        mass: 5.828 × 10<sup>25</sup> kg<br />(16.58521855229686 Yrths)
+        mass: 5.828 × 10<sup>25</sup> kg<br />(9.758 Yrths)
         density: 2.507 g/cm<sup>3</sup>
         surface_gravity: 12.391 m/s<sup>2</sup><br />(1.264 g<sub>0</sub>)
         escape_velocity: 20.961 km/s<br />(75,460 km/h)
         rotation_period: 46.625 d
         axial_tilt: 14.98°
         albedo: 0.30
-        temperature: 630 K<br />(357 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 4626 Anilliad VI g
         type: Ice/rock hybrid
         formationType: Captured
@@ -611,14 +611,14 @@ planets:
         radius: 20,888.9 km<br/>(3.279 Yrths)
         surface_area: 5.483 × 10<sup>09</sup> km<sup>2</sup><br/>(10.750 Yrths)
         volume: 3.818 × 10<sup>13</sup> km<sup>3</sup><br/>(35.247 Yrths)
-        mass: 9.397 × 10<sup>25</sup> kg<br />(16.58521855229686 Yrths)
+        mass: 9.397 × 10<sup>25</sup> kg<br />(15.735 Yrths)
         density: 2.461 g/cm<sup>3</sup>
         surface_gravity: 14.354 m/s<sup>2</sup><br />(1.464 g<sub>0</sub>)
         escape_velocity: 24.505 km/s<br />(88,217 km/h)
         rotation_period: 54.463 d
         axial_tilt: 15.56°
         albedo: 0.30
-        temperature: 572 K<br />(299 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 4626 Anilliad VI h
         type: Icy
         formationType: Captured
@@ -631,14 +631,14 @@ planets:
         radius: 27,703.5 km<br/>(4.348 Yrths)
         surface_area: 9.645 × 10<sup>09</sup> km<sup>2</sup><br/>(18.908 Yrths)
         volume: 8.906 × 10<sup>13</sup> km<sup>3</sup><br/>(82.221 Yrths)
-        mass: 1.259 × 10<sup>26</sup> kg<br />(16.58521855229686 Yrths)
+        mass: 1.259 × 10<sup>26</sup> kg<br />(21.081 Yrths)
         density: 1.414 g/cm<sup>3</sup>
         surface_gravity: 10.933 m/s<sup>2</sup><br />(1.115 g<sub>0</sub>)
         escape_velocity: 24.629 km/s<br />(88,665 km/h)
         rotation_period: 65.185 d
         axial_tilt: 13.42°
         albedo: 0.30
-        temperature: 520 K<br />(247 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 4626 Anilliad VI i
         type: Ice/rock hybrid
         formationType: Captured
@@ -651,12 +651,12 @@ planets:
         radius: 15,091.8 km<br/>(2.369 Yrths)
         surface_area: 2.862 × 10<sup>09</sup> km<sup>2</sup><br/>(5.611 Yrths)
         volume: 1.440 × 10<sup>13</sup> km<sup>3</sup><br/>(13.292 Yrths)
-        mass: 2.405 × 10<sup>25</sup> kg<br />(16.58521855229686 Yrths)
+        mass: 2.405 × 10<sup>25</sup> kg<br />(4.028 Yrths)
         density: 1.671 g/cm<sup>3</sup>
         surface_gravity: 7.039 m/s<sup>2</sup><br />(0.718 g<sub>0</sub>)
         escape_velocity: 14.586 km/s<br />(52,509 km/h)
         rotation_period: 67.097 d
         axial_tilt: 22.24°
         albedo: 0.30
-        temperature: 496 K<br />(223 °C)
+        temperature: 93 K<br />(-180 °C)
 ---

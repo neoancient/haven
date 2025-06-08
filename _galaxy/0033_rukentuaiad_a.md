@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0033 Rukentuaiad A is a star in the constellation Rukentua
+      0033 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 201.98 ly
 apparent_magnitude: 5.09
 absolute_magnitude: 1.13

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3071 Saithiad is a star in the constellation Saith
+      3071 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1201.28 ly
 apparent_magnitude: 12.42
 absolute_magnitude: 4.59

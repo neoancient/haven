@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8352 Arkothiad is a star in the constellation Arkoth
+      8352 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 281.82 ly
 apparent_magnitude: 11.21
 absolute_magnitude: 6.52
@@ -31,14 +31,14 @@ planets:
     radius: 8,014.8 km<br/>(1.258 Yrths)
     surface_area: 8.072 × 10<sup>08</sup> km<sup>2</sup><br/>(1.583 Yrths)
     volume: 2.157 × 10<sup>12</sup> km<sup>3</sup><br/>(1.991 Yrths)
-    mass: 1.634 × 10<sup>25</sup> kg<br />(2.7364649598338664 Yrths)
+    mass: 1.634 × 10<sup>25</sup> kg<br />(2.74 Yrths)
     density: 7.578 g/cm<sup>3</sup>
     surface_gravity: 16.957 m/s<sup>2</sup><br />(1.729 g<sub>0</sub>)
     escape_velocity: 16.498 km/s<br />(59,392 km/h)
     rotation_period: 1.463 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 512 K<br />(238 °C)
+    temperature: 1405 K<br />(1132 °C)
     surface_pressure: 158 kPa<br />(2 atm)
     composition:
       - 95.4794% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 6,589.7 km<br/>(1.034 Yrths)
         surface_area: 5.457 × 10<sup>08</sup> km<sup>2</sup><br/>(1.070 Yrths)
         volume: 1.199 × 10<sup>12</sup> km<sup>3</sup><br/>(1.107 Yrths)
-        mass: 3.175 × 10<sup>24</sup> kg<br />(2.7364649598338664 Yrths)
+        mass: 3.175 × 10<sup>24</sup> kg<br />(0.532 Yrths)
         density: 2.649 g/cm<sup>3</sup>
         surface_gravity: 4.873 m/s<sup>2</sup><br />(0.497 g<sub>0</sub>)
         escape_velocity: 8.020 km/s<br />(28,871 km/h)
         rotation_period: 35.291 d
         axial_tilt: 9.93°
         albedo: 0.30
-        temperature: 4822 K<br />(4549 °C)
+        temperature: 318 K<br />(45 °C)
   - name: 8352 Arkothiad II
     type: Terrestrial
     aphelion: 80,149,296 km<br />0.536 AU
@@ -77,14 +77,14 @@ planets:
     radius: 6,080.9 km<br/>(0.954 Yrths)
     surface_area: 4.647 × 10<sup>08</sup> km<sup>2</sup><br/>(0.911 Yrths)
     volume: 9.419 × 10<sup>11</sup> km<sup>3</sup><br/>(0.870 Yrths)
-    mass: 4.291 × 10<sup>24</sup> kg<br />(0.7184953106158191 Yrths)
+    mass: 4.291 × 10<sup>24</sup> kg<br />(0.72 Yrths)
     density: 4.556 g/cm<sup>3</sup>
     surface_gravity: 7.734 m/s<sup>2</sup><br />(0.789 g<sub>0</sub>)
     escape_velocity: 9.705 km/s<br />(34,939 km/h)
     rotation_period: 2.183 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 342 K<br />(69 °C)
+    temperature: 953 K<br />(680 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 82.7667% carbon dioxide
@@ -101,7 +101,7 @@ planets:
     radius: 4,791.8 km<br/>(0.752 Yrths)
     surface_area: 2.885 × 10<sup>08</sup> km<sup>2</sup><br/>(0.566 Yrths)
     volume: 4.609 × 10<sup>11</sup> km<sup>3</sup><br/>(0.425 Yrths)
-    mass: 2.515 × 10<sup>24</sup> kg<br />(0.421126464654716 Yrths)
+    mass: 2.515 × 10<sup>24</sup> kg<br />(0.42 Yrths)
     density: 5.457 g/cm<sup>3</sup>
     surface_gravity: 7.300 m/s<sup>2</sup><br />(0.744 g<sub>0</sub>)
     escape_velocity: 8.370 km/s<br />(30,133 km/h)
@@ -120,14 +120,14 @@ planets:
     radius: 8,723.8 km<br/>(1.369 Yrths)
     surface_area: 9.564 × 10<sup>08</sup> km<sup>2</sup><br/>(1.875 Yrths)
     volume: 2.781 × 10<sup>12</sup> km<sup>3</sup><br/>(2.567 Yrths)
-    mass: 2.065 × 10<sup>25</sup> kg<br />(3.457114683792606 Yrths)
+    mass: 2.065 × 10<sup>25</sup> kg<br />(3.46 Yrths)
     density: 7.424 g/cm<sup>3</sup>
     surface_gravity: 18.081 m/s<sup>2</sup><br />(1.844 g<sub>0</sub>)
     escape_velocity: 17.774 km/s<br />(63,986 km/h)
     rotation_period: 0.866 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 201 K<br />(-72 °C)
+    temperature: 237 K<br />(-36 °C)
     surface_pressure: 158 kPa<br />(2 atm)
     composition:
       - 82.5471% methane
@@ -146,14 +146,14 @@ planets:
         radius: 3,659.7 km<br/>(0.574 Yrths)
         surface_area: 1.683 × 10<sup>08</sup> km<sup>2</sup><br/>(0.330 Yrths)
         volume: 2.053 × 10<sup>11</sup> km<sup>3</sup><br/>(0.190 Yrths)
-        mass: 5.901 × 10<sup>23</sup> kg<br />(3.457114683792606 Yrths)
+        mass: 5.901 × 10<sup>23</sup> kg<br />(0.099 Yrths)
         density: 2.874 g/cm<sup>3</sup>
         surface_gravity: 2.937 m/s<sup>2</sup><br />(0.299 g<sub>0</sub>)
         escape_velocity: 4.639 km/s<br />(16,701 km/h)
         rotation_period: 31.500 d
         axial_tilt: 14.49°
         albedo: 0.30
-        temperature: 1820 K<br />(1547 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 8352 Arkothiad IV b
         type: Asteroid
         formationType: Captured
@@ -166,14 +166,14 @@ planets:
         radius: 4,591.1 km<br/>(0.721 Yrths)
         surface_area: 2.649 × 10<sup>08</sup> km<sup>2</sup><br/>(0.519 Yrths)
         volume: 4.054 × 10<sup>11</sup> km<sup>3</sup><br/>(0.374 Yrths)
-        mass: 7.870 × 10<sup>23</sup> kg<br />(3.457114683792606 Yrths)
+        mass: 7.870 × 10<sup>23</sup> kg<br />(0.132 Yrths)
         density: 1.941 g/cm<sup>3</sup>
         surface_gravity: 2.489 m/s<sup>2</sup><br />(0.254 g<sub>0</sub>)
         escape_velocity: 4.783 km/s<br />(17,220 km/h)
         rotation_period: 38.195 d
         axial_tilt: 52.10°
         albedo: 0.30
-        temperature: 1735 K<br />(1462 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 8352 Arkothiad IV c
         type: Icy
         formationType: Captured
@@ -186,14 +186,14 @@ planets:
         radius: 9,854.5 km<br/>(1.547 Yrths)
         surface_area: 1.220 × 10<sup>09</sup> km<sup>2</sup><br/>(2.392 Yrths)
         volume: 4.009 × 10<sup>12</sup> km<sup>3</sup><br/>(3.701 Yrths)
-        mass: 5.475 × 10<sup>24</sup> kg<br />(3.457114683792606 Yrths)
+        mass: 5.475 × 10<sup>24</sup> kg<br />(0.917 Yrths)
         density: 1.366 g/cm<sup>3</sup>
         surface_gravity: 3.758 m/s<sup>2</sup><br />(0.383 g<sub>0</sub>)
         escape_velocity: 8.612 km/s<br />(31,002 km/h)
         rotation_period: 61.583 d
         axial_tilt: 10.81°
         albedo: 0.30
-        temperature: 1654 K<br />(1381 °C)
+        temperature: 158 K<br />(-115 °C)
   - name: 8352 Arkothiad V
     type: Large terrestrial
     aphelion: 327,438,089 km<br />2.189 AU
@@ -205,14 +205,14 @@ planets:
     radius: 9,204.6 km<br/>(1.445 Yrths)
     surface_area: 1.065 × 10<sup>09</sup> km<sup>2</sup><br/>(2.087 Yrths)
     volume: 3.267 × 10<sup>12</sup> km<sup>3</sup><br/>(3.016 Yrths)
-    mass: 2.253 × 10<sup>25</sup> kg<br />(3.7726516061853306 Yrths)
+    mass: 2.253 × 10<sup>25</sup> kg<br />(3.77 Yrths)
     density: 6.897 g/cm<sup>3</sup>
     surface_gravity: 17.724 m/s<sup>2</sup><br />(1.807 g<sub>0</sub>)
     escape_velocity: 18.076 km/s<br />(65,073 km/h)
     rotation_period: 0.764 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 157 K<br />(-116 °C)
+    temperature: 173 K<br />(-101 °C)
     surface_pressure: 155 kPa<br />(2 atm)
     composition:
       - 97.4566% ammonia
@@ -230,14 +230,14 @@ planets:
         radius: 13,673.2 km<br/>(2.146 Yrths)
         surface_area: 2.349 × 10<sup>09</sup> km<sup>2</sup><br/>(4.606 Yrths)
         volume: 1.071 × 10<sup>13</sup> km<sup>3</sup><br/>(9.885 Yrths)
-        mass: 1.024 × 10<sup>25</sup> kg<br />(3.7726516061853306 Yrths)
+        mass: 1.024 × 10<sup>25</sup> kg<br />(1.715 Yrths)
         density: 0.957 g/cm<sup>3</sup>
         surface_gravity: 3.652 m/s<sup>2</sup><br />(0.372 g<sub>0</sub>)
         escape_velocity: 10.000 km/s<br />(36,000 km/h)
         rotation_period: 65.744 d
         axial_tilt: 19.01°
         albedo: 0.30
-        temperature: 1404 K<br />(1131 °C)
+        temperature: 125 K<br />(-148 °C)
   - name: 8352 Arkothiad VI
     type: Gas giant
     aphelion: 503,849,090 km<br />3.368 AU
@@ -249,7 +249,7 @@ planets:
     radius: 207.7 km<br/>(0.033 Yrths)
     surface_area: 5.423 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.755 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.183 × 10<sup>27</sup> kg<br />(198.16243178108587 Yrths)
+    mass: 1.183 × 10<sup>27</sup> kg<br />(198.16 Yrths)
     density: 31514948.790 g/cm<sup>3</sup>
     surface_gravity: 1827819.351 m/s<sup>2</sup><br />(186385.703 g<sub>0</sub>)
     escape_velocity: 872.032 km/s<br />(3,139,315 km/h)
@@ -270,14 +270,14 @@ planets:
         radius: 169,607.4 km<br/>(26.622 Yrths)
         surface_area: 3.615 × 10<sup>11</sup> km<sup>2</sup><br/>(708.720 Yrths)
         volume: 2.044 × 10<sup>16</sup> km<sup>3</sup><br/>(18867.388 Yrths)
-        mass: 2.774 × 10<sup>28</sup> kg<br />(198.16243178108587 Yrths)
+        mass: 2.774 × 10<sup>28</sup> kg<br />(4645.324 Yrths)
         density: 1.357 g/cm<sup>3</sup>
         surface_gravity: 64.278 m/s<sup>2</sup><br />(6.555 g<sub>0</sub>)
         escape_velocity: 147.762 km/s<br />(531,944 km/h)
         rotation_period: 65.460 d
         axial_tilt: 15.33°
         albedo: 0.30
-        temperature: 399 K<br />(126 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 8352 Arkothiad VI b
         type: Rocky
         formationType: Accreted
@@ -290,14 +290,14 @@ planets:
         radius: 149,628.1 km<br/>(23.486 Yrths)
         surface_area: 2.813 × 10<sup>11</sup> km<sup>2</sup><br/>(551.583 Yrths)
         volume: 1.403 × 10<sup>16</sup> km<sup>3</sup><br/>(12954.373 Yrths)
-        mass: 3.663 × 10<sup>28</sup> kg<br />(198.16243178108587 Yrths)
+        mass: 3.663 × 10<sup>28</sup> kg<br />(6133.785 Yrths)
         density: 2.610 g/cm<sup>3</sup>
         surface_gravity: 109.053 m/s<sup>2</sup><br />(11.120 g<sub>0</sub>)
         escape_velocity: 180.774 km/s<br />(650,786 km/h)
         rotation_period: 51.632 d
         axial_tilt: 14.59°
         albedo: 0.30
-        temperature: 248 K<br />(-25 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 8352 Arkothiad VI c
         type: Rocky
         formationType: Accreted
@@ -310,14 +310,14 @@ planets:
         radius: 188,649.3 km<br/>(29.611 Yrths)
         surface_area: 4.472 × 10<sup>11</sup> km<sup>2</sup><br/>(876.789 Yrths)
         volume: 2.812 × 10<sup>16</sup> km<sup>3</sup><br/>(25962.285 Yrths)
-        mass: 7.796 × 10<sup>28</sup> kg<br />(198.16243178108587 Yrths)
+        mass: 7.796 × 10<sup>28</sup> kg<br />(13053.963 Yrths)
         density: 2.772 g/cm<sup>3</sup>
         surface_gravity: 146.005 m/s<sup>2</sup><br />(14.888 g<sub>0</sub>)
         escape_velocity: 234.867 km/s<br />(845,520 km/h)
         rotation_period: 34.584 d
         axial_tilt: 14.75°
         albedo: 0.30
-        temperature: 225 K<br />(-48 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 8352 Arkothiad VI d
         type: Icy
         formationType: Accreted
@@ -330,14 +330,14 @@ planets:
         radius: 144,217.1 km<br/>(22.636 Yrths)
         surface_area: 2.614 × 10<sup>11</sup> km<sup>2</sup><br/>(512.411 Yrths)
         volume: 1.256 × 10<sup>16</sup> km<sup>3</sup><br/>(11599.183 Yrths)
-        mass: 1.752 × 10<sup>28</sup> kg<br />(198.16243178108587 Yrths)
+        mass: 1.752 × 10<sup>28</sup> kg<br />(2934.259 Yrths)
         density: 1.395 g/cm<sup>3</sup>
         surface_gravity: 56.157 m/s<sup>2</sup><br />(5.726 g<sub>0</sub>)
         escape_velocity: 127.356 km/s<br />(458,481 km/h)
         rotation_period: 43.142 d
         axial_tilt: 24.44°
         albedo: 0.30
-        temperature: 205 K<br />(-68 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 8352 Arkothiad VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -350,14 +350,14 @@ planets:
         radius: 142,759.3 km<br/>(22.408 Yrths)
         surface_area: 2.561 × 10<sup>11</sup> km<sup>2</sup><br/>(502.104 Yrths)
         volume: 1.219 × 10<sup>16</sup> km<sup>3</sup><br/>(11250.987 Yrths)
-        mass: 2.573 × 10<sup>28</sup> kg<br />(198.16243178108587 Yrths)
+        mass: 2.573 × 10<sup>28</sup> kg<br />(4308.030 Yrths)
         density: 2.111 g/cm<sup>3</sup>
         surface_gravity: 84.141 m/s<sup>2</sup><br />(8.580 g<sub>0</sub>)
         escape_velocity: 155.101 km/s<br />(558,364 km/h)
         rotation_period: 37.444 d
         axial_tilt: 24.91°
         albedo: 0.30
-        temperature: 161 K<br />(-112 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 8352 Arkothiad VI f
         type: Rocky
         formationType: Captured
@@ -370,14 +370,14 @@ planets:
         radius: 121,903.6 km<br/>(19.134 Yrths)
         surface_area: 1.867 × 10<sup>11</sup> km<sup>2</sup><br/>(366.115 Yrths)
         volume: 7.588 × 10<sup>15</sup> km<sup>3</sup><br/>(7005.307 Yrths)
-        mass: 2.031 × 10<sup>28</sup> kg<br />(198.16243178108587 Yrths)
+        mass: 2.031 × 10<sup>28</sup> kg<br />(3400.807 Yrths)
         density: 2.676 g/cm<sup>3</sup>
         surface_gravity: 91.093 m/s<sup>2</sup><br />(9.289 g<sub>0</sub>)
         escape_velocity: 149.128 km/s<br />(536,862 km/h)
         rotation_period: 34.040 d
         axial_tilt: 8.43°
         albedo: 0.30
-        temperature: 105 K<br />(-168 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 8352 Arkothiad VI g
         type: Icy
         formationType: Captured
@@ -390,14 +390,14 @@ planets:
         radius: 172,805.2 km<br/>(27.124 Yrths)
         surface_area: 3.753 × 10<sup>11</sup> km<sup>2</sup><br/>(735.696 Yrths)
         volume: 2.162 × 10<sup>16</sup> km<sup>3</sup><br/>(19954.797 Yrths)
-        mass: 2.132 × 10<sup>28</sup> kg<br />(198.16243178108587 Yrths)
+        mass: 2.132 × 10<sup>28</sup> kg<br />(3570.436 Yrths)
         density: 0.986 g/cm<sup>3</sup>
         surface_gravity: 47.593 m/s<sup>2</sup><br />(4.853 g<sub>0</sub>)
         escape_velocity: 128.339 km/s<br />(462,022 km/h)
         rotation_period: 62.847 d
         axial_tilt: 9.82°
         albedo: 0.30
-        temperature: 49 K<br />(-224 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 8352 Arkothiad VI h
         type: Rocky
         formationType: Accreted
@@ -410,12 +410,12 @@ planets:
         radius: 126,754.7 km<br/>(19.896 Yrths)
         surface_area: 2.019 × 10<sup>11</sup> km<sup>2</sup><br/>(395.834 Yrths)
         volume: 8.531 × 10<sup>15</sup> km<sup>3</sup><br/>(7875.341 Yrths)
-        mass: 2.329 × 10<sup>28</sup> kg<br />(198.16243178108587 Yrths)
+        mass: 2.329 × 10<sup>28</sup> kg<br />(3900.177 Yrths)
         density: 2.730 g/cm<sup>3</sup>
         surface_gravity: 96.626 m/s<sup>2</sup><br />(9.853 g<sub>0</sub>)
         escape_velocity: 156.617 km/s<br />(563,820 km/h)
         rotation_period: 34.011 d
         axial_tilt: 20.17°
         albedo: 0.30
-        temperature: 34 K<br />(-240 °C)
+        temperature: 99 K<br />(-174 °C)
 ---

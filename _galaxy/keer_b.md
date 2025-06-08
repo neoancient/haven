@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Keer B is a star in the constellation Niunio
+      Keer B is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 686.87 ly
 apparent_magnitude: 7.33
 absolute_magnitude: 0.71

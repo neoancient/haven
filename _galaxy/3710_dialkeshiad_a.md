@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3710 Dialkeshiad A is a star in the constellation Dialkes
+      3710 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 195.67 ly
 apparent_magnitude: 9.58
 absolute_magnitude: 5.69

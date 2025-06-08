@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Kenmulliad B is a star in the constellation Kenmul
+      ν Kenmulliad B is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 335.08 ly
 apparent_magnitude: 11.20
 absolute_magnitude: 6.14

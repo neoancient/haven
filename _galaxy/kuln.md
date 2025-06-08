@@ -679,7 +679,7 @@ stars:
     absolute_magnitude: 1.32
     distance: 352.62
     spectral_class: A9III + F7V
-  - name: 
+  - name:
     designation: <a href="455_kulniad.html">455 Kulniad</a>
     ra: 5<sup>h</sup> 58<sup>m</sup> 19.20<sup>s</sup>
     dec: -22° 45' 36.00"
@@ -687,28 +687,28 @@ stars:
     absolute_magnitude: 4.91
     distance: 124.74
     spectral_class: F4V
+  - name:
+    designation: <a href="5888_kulniad.html">5888 Kulniad</a>
+    ra: 5<sup>h</sup> 49<sup>m</sup> 12.00<sup>s</sup>
+    dec: -21° 30' 0.00"
+    apparent_magnitude: 9.00
+    absolute_magnitude: 3.90
+    distance: 341.59
+    spectral_class: G8III
+  - name:
+    designation: <a href="4110_kulniad.html">4110 Kulniad</a>
+    ra: 5<sup>h</sup> 41<sup>m</sup> 14.40<sup>s</sup>
+    dec: -14° 43' 12.00"
+    apparent_magnitude: 10.11
+    absolute_magnitude: 5.17
+    distance: 317.46
+    spectral_class: F7V
   - name: <a href="velka’s_rest.html">Velka’s Rest</a>
     designation: 1016 Kulniad
     ra: 6<sup>h</sup> 05<sup>m</sup> 48.00<sup>s</sup>
     dec: -26° 22' 12.00"
-    apparent_magnitude: 8.41
-    absolute_magnitude: 4.88
+    apparent_magnitude: 11.64
+    absolute_magnitude: 8.12
     distance: 165.12
-    spectral_class: G0V
-  - name: 
-    designation: <a href="4110_kulniad.html">4110 Kulniad</a>
-    ra: 5<sup>h</sup> 41<sup>m</sup> 14.40<sup>s</sup>
-    dec: -14° 43' 12.00"
-    apparent_magnitude: 9.42
-    absolute_magnitude: 4.48
-    distance: 317.46
-    spectral_class: F4V
-  - name: 
-    designation: <a href="5888_kulniad.html">5888 Kulniad</a>
-    ra: 5<sup>h</sup> 49<sup>m</sup> 12.00<sup>s</sup>
-    dec: -21° 30' 0.00"
-    apparent_magnitude: 9.68
-    absolute_magnitude: 4.58
-    distance: 341.59
-    spectral_class: F4V
+    spectral_class: K9V
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2041 Lunaiad is a star in the constellation Luna
+      2041 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 382.72 ly
 apparent_magnitude: 11.13
 absolute_magnitude: 5.79

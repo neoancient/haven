@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3864 Arkothiad is a star in the constellation Arkoth
+      3864 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 547.29 ly
 apparent_magnitude: 13.97
 absolute_magnitude: 7.85

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      540 Geardiad is a star in the constellation Geard
+      540 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 453.89 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 4.79

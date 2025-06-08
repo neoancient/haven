@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4195 Keead is a star in the constellation Kee
+      4195 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 472.23 ly
 apparent_magnitude: 10.82
 absolute_magnitude: 5.02

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7481 Tanashad is a star in the constellation Tanas
+      7481 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 385.33 ly
 apparent_magnitude: 7.08
 absolute_magnitude: 1.72
@@ -31,14 +31,14 @@ planets:
     radius: 12,677.9 km<br/>(1.990 Yrths)
     surface_area: 2.020 × 10<sup>09</sup> km<sup>2</sup><br/>(3.960 Yrths)
     volume: 8.536 × 10<sup>12</sup> km<sup>3</sup><br/>(7.880 Yrths)
-    mass: 2.301 × 10<sup>25</sup> kg<br />(3.853577348175546 Yrths)
+    mass: 2.301 × 10<sup>25</sup> kg<br />(3.85 Yrths)
     density: 2.696 g/cm<sup>3</sup>
     surface_gravity: 9.543 m/s<sup>2</sup><br />(0.973 g<sub>0</sub>)
     escape_velocity: 15.566 km/s<br />(56,039 km/h)
     rotation_period: 0.569 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 611 K<br />(338 °C)
+    temperature: 571 K<br />(298 °C)
     composition:
       - 82.9820% hydrogen
       - 14.5276% helium
@@ -58,14 +58,14 @@ planets:
         radius: 4,838.7 km<br/>(0.759 Yrths)
         surface_area: 2.942 × 10<sup>08</sup> km<sup>2</sup><br/>(0.577 Yrths)
         volume: 4.745 × 10<sup>11</sup> km<sup>3</sup><br/>(0.438 Yrths)
-        mass: 1.708 × 10<sup>24</sup> kg<br />(3.853577348175546 Yrths)
+        mass: 1.708 × 10<sup>24</sup> kg<br />(0.286 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 4.863 m/s<sup>2</sup><br />(0.496 g<sub>0</sub>)
         escape_velocity: 6.865 km/s<br />(24,714 km/h)
         rotation_period: 32.244 d
         axial_tilt: 13.83°
         albedo: 0.30
-        temperature: 5054 K<br />(4781 °C)
+        temperature: 399 K<br />(125 °C)
       - name: 7481 Tanashad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 6,356.4 km<br/>(0.998 Yrths)
         surface_area: 5.077 × 10<sup>08</sup> km<sup>2</sup><br/>(0.995 Yrths)
         volume: 1.076 × 10<sup>12</sup> km<sup>3</sup><br/>(0.993 Yrths)
-        mass: 2.211 × 10<sup>24</sup> kg<br />(3.853577348175546 Yrths)
+        mass: 2.211 × 10<sup>24</sup> kg<br />(0.370 Yrths)
         density: 2.056 g/cm<sup>3</sup>
         surface_gravity: 3.648 m/s<sup>2</sup><br />(0.372 g<sub>0</sub>)
         escape_velocity: 6.815 km/s<br />(24,533 km/h)
         rotation_period: 42.203 d
         axial_tilt: 14.65°
         albedo: 0.30
-        temperature: 4819 K<br />(4546 °C)
+        temperature: 399 K<br />(125 °C)
       - name: 7481 Tanashad I c
         type: Dwarf planet
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 4,695.9 km<br/>(0.737 Yrths)
         surface_area: 2.771 × 10<sup>08</sup> km<sup>2</sup><br/>(0.543 Yrths)
         volume: 4.337 × 10<sup>11</sup> km<sup>3</sup><br/>(0.400 Yrths)
-        mass: 6.749 × 10<sup>23</sup> kg<br />(3.853577348175546 Yrths)
+        mass: 6.749 × 10<sup>23</sup> kg<br />(0.113 Yrths)
         density: 1.556 g/cm<sup>3</sup>
         surface_gravity: 2.040 m/s<sup>2</sup><br />(0.208 g<sub>0</sub>)
         escape_velocity: 4.380 km/s<br />(15,768 km/h)
         rotation_period: 66.144 d
         axial_tilt: 34.09°
         albedo: 0.30
-        temperature: 4381 K<br />(4108 °C)
+        temperature: 399 K<br />(125 °C)
       - name: 7481 Tanashad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 9,415.6 km<br/>(1.478 Yrths)
         surface_area: 1.114 × 10<sup>09</sup> km<sup>2</sup><br/>(2.184 Yrths)
         volume: 3.497 × 10<sup>12</sup> km<sup>3</sup><br/>(3.228 Yrths)
-        mass: 6.890 × 10<sup>24</sup> kg<br />(3.853577348175546 Yrths)
+        mass: 6.890 × 10<sup>24</sup> kg<br />(1.154 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 5.180 m/s<sup>2</sup><br />(0.528 g<sub>0</sub>)
         escape_velocity: 9.884 km/s<br />(35,581 km/h)
         rotation_period: 37.318 d
         axial_tilt: 7.77°
         albedo: 0.30
-        temperature: 4177 K<br />(3904 °C)
+        temperature: 399 K<br />(125 °C)
   - name: 7481 Tanashad II
     type: Ice giant
     aphelion: 754,523,247 km<br />5.044 AU
@@ -137,14 +137,14 @@ planets:
     radius: 31,082.5 km<br/>(4.879 Yrths)
     surface_area: 1.214 × 10<sup>10</sup> km<sup>2</sup><br/>(23.802 Yrths)
     volume: 1.258 × 10<sup>14</sup> km<sup>3</sup><br/>(116.125 Yrths)
-    mass: 1.393 × 10<sup>26</sup> kg<br />(23.32529741507554 Yrths)
+    mass: 1.393 × 10<sup>26</sup> kg<br />(23.33 Yrths)
     density: 1.107 g/cm<sup>3</sup>
     surface_gravity: 9.610 m/s<sup>2</sup><br />(0.980 g<sub>0</sub>)
     escape_velocity: 24.459 km/s<br />(88,051 km/h)
     rotation_period: 0.353 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 588 K<br />(315 °C)
+    temperature: 545 K<br />(272 °C)
     composition:
       - 59.9781% hydrogen
       - 36.9843% helium
@@ -163,14 +163,14 @@ planets:
         radius: 39,041.0 km<br/>(6.128 Yrths)
         surface_area: 1.915 × 10<sup>10</sup> km<sup>2</sup><br/>(37.551 Yrths)
         volume: 2.493 × 10<sup>14</sup> km<sup>3</sup><br/>(230.112 Yrths)
-        mass: 5.597 × 10<sup>26</sup> kg<br />(23.32529741507554 Yrths)
+        mass: 5.597 × 10<sup>26</sup> kg<br />(93.721 Yrths)
         density: 2.245 g/cm<sup>3</sup>
         surface_gravity: 24.476 m/s<sup>2</sup><br />(2.496 g<sub>0</sub>)
         escape_velocity: 43.746 km/s<br />(157,485 km/h)
         rotation_period: 33.480 d
         axial_tilt: 20.73°
         albedo: 0.30
-        temperature: 2545 K<br />(2272 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 7481 Tanashad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -183,14 +183,14 @@ planets:
         radius: 16,240.5 km<br/>(2.549 Yrths)
         surface_area: 3.314 × 10<sup>09</sup> km<sup>2</sup><br/>(6.498 Yrths)
         volume: 1.794 × 10<sup>13</sup> km<sup>3</sup><br/>(16.564 Yrths)
-        mass: 4.431 × 10<sup>25</sup> kg<br />(23.32529741507554 Yrths)
+        mass: 4.431 × 10<sup>25</sup> kg<br />(7.420 Yrths)
         density: 2.470 g/cm<sup>3</sup>
         surface_gravity: 11.198 m/s<sup>2</sup><br />(1.142 g<sub>0</sub>)
         escape_velocity: 19.084 km/s<br />(68,703 km/h)
         rotation_period: 38.113 d
         axial_tilt: 25.38°
         albedo: 0.30
-        temperature: 2427 K<br />(2153 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 7481 Tanashad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -203,14 +203,14 @@ planets:
         radius: 13,939.4 km<br/>(2.188 Yrths)
         surface_area: 2.442 × 10<sup>09</sup> km<sup>2</sup><br/>(4.787 Yrths)
         volume: 1.135 × 10<sup>13</sup> km<sup>3</sup><br/>(10.474 Yrths)
-        mass: 2.819 × 10<sup>25</sup> kg<br />(23.32529741507554 Yrths)
+        mass: 2.819 × 10<sup>25</sup> kg<br />(4.720 Yrths)
         density: 2.484 g/cm<sup>3</sup>
         surface_gravity: 9.669 m/s<sup>2</sup><br />(0.986 g<sub>0</sub>)
         escape_velocity: 16.429 km/s<br />(59,145 km/h)
         rotation_period: 47.266 d
         axial_tilt: 9.85°
         albedo: 0.30
-        temperature: 2314 K<br />(2040 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 7481 Tanashad II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -223,14 +223,14 @@ planets:
         radius: 13,882.8 km<br/>(2.179 Yrths)
         surface_area: 2.422 × 10<sup>09</sup> km<sup>2</sup><br/>(4.748 Yrths)
         volume: 1.121 × 10<sup>13</sup> km<sup>3</sup><br/>(10.347 Yrths)
-        mass: 2.461 × 10<sup>25</sup> kg<br />(23.32529741507554 Yrths)
+        mass: 2.461 × 10<sup>25</sup> kg<br />(4.120 Yrths)
         density: 2.195 g/cm<sup>3</sup>
         surface_gravity: 8.509 m/s<sup>2</sup><br />(0.868 g<sub>0</sub>)
         escape_velocity: 15.381 km/s<br />(55,373 km/h)
         rotation_period: 49.822 d
         axial_tilt: 23.80°
         albedo: 0.30
-        temperature: 2103 K<br />(1830 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 7481 Tanashad II e
         type: Asteroid
         formationType: Captured
@@ -243,14 +243,14 @@ planets:
         radius: 34,291.6 km<br/>(5.382 Yrths)
         surface_area: 1.478 × 10<sup>10</sup> km<sup>2</sup><br/>(28.971 Yrths)
         volume: 1.689 × 10<sup>14</sup> km<sup>3</sup><br/>(155.934 Yrths)
-        mass: 4.873 × 10<sup>26</sup> kg<br />(23.32529741507554 Yrths)
+        mass: 4.873 × 10<sup>26</sup> kg<br />(81.605 Yrths)
         density: 2.885 g/cm<sup>3</sup>
         surface_gravity: 27.623 m/s<sup>2</sup><br />(2.817 g<sub>0</sub>)
         escape_velocity: 43.555 km/s<br />(156,799 km/h)
         rotation_period: 53.182 d
         axial_tilt: 38.17°
         albedo: 0.30
-        temperature: 2005 K<br />(1732 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 7481 Tanashad II f
         type: Rocky
         formationType: Accreted
@@ -263,14 +263,14 @@ planets:
         radius: 14,721.5 km<br/>(2.311 Yrths)
         surface_area: 2.723 × 10<sup>09</sup> km<sup>2</sup><br/>(5.339 Yrths)
         volume: 1.336 × 10<sup>13</sup> km<sup>3</sup><br/>(12.338 Yrths)
-        mass: 4.020 × 10<sup>25</sup> kg<br />(23.32529741507554 Yrths)
+        mass: 4.020 × 10<sup>25</sup> kg<br />(6.731 Yrths)
         density: 3.008 g/cm<sup>3</sup>
         surface_gravity: 12.363 m/s<sup>2</sup><br />(1.261 g<sub>0</sub>)
         escape_velocity: 19.092 km/s<br />(68,731 km/h)
         rotation_period: 42.947 d
         axial_tilt: 17.08°
         albedo: 0.30
-        temperature: 1912 K<br />(1639 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 7481 Tanashad II g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -283,14 +283,14 @@ planets:
         radius: 22,091.4 km<br/>(3.467 Yrths)
         surface_area: 6.133 × 10<sup>09</sup> km<sup>2</sup><br/>(12.023 Yrths)
         volume: 4.516 × 10<sup>13</sup> km<sup>3</sup><br/>(41.691 Yrths)
-        mass: 1.018 × 10<sup>26</sup> kg<br />(23.32529741507554 Yrths)
+        mass: 1.018 × 10<sup>26</sup> kg<br />(17.050 Yrths)
         density: 2.255 g/cm<sup>3</sup>
         surface_gravity: 13.907 m/s<sup>2</sup><br />(1.418 g<sub>0</sub>)
         escape_velocity: 24.805 km/s<br />(89,297 km/h)
         rotation_period: 59.598 d
         axial_tilt: 22.48°
         albedo: 0.30
-        temperature: 1823 K<br />(1550 °C)
+        temperature: 284 K<br />(11 °C)
   - name: 7481 Tanashad III
     type: Terrestrial
     aphelion: 1,176,459,282 km<br />7.864 AU
@@ -302,14 +302,14 @@ planets:
     radius: 7,923.6 km<br/>(1.244 Yrths)
     surface_area: 7.890 × 10<sup>08</sup> km<sup>2</sup><br/>(1.547 Yrths)
     volume: 2.084 × 10<sup>12</sup> km<sup>3</sup><br/>(1.924 Yrths)
-    mass: 1.114 × 10<sup>25</sup> kg<br />(1.8657001384709155 Yrths)
+    mass: 1.114 × 10<sup>25</sup> kg<br />(1.87 Yrths)
     density: 5.347 g/cm<sup>3</sup>
     surface_gravity: 11.829 m/s<sup>2</sup><br />(1.206 g<sub>0</sub>)
     escape_velocity: 13.701 km/s<br />(49,322 km/h)
     rotation_period: 0.833 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 263 K<br />(-10 °C)
+    temperature: 333 K<br />(60 °C)
     surface_pressure: 145 kPa<br />(1 atm)
     composition:
       - 82.0155% nitrogen
@@ -328,14 +328,14 @@ planets:
         radius: 4,236.2 km<br/>(0.665 Yrths)
         surface_area: 2.255 × 10<sup>08</sup> km<sup>2</sup><br/>(0.442 Yrths)
         volume: 3.184 × 10<sup>11</sup> km<sup>3</sup><br/>(0.294 Yrths)
-        mass: 8.905 × 10<sup>23</sup> kg<br />(1.8657001384709155 Yrths)
+        mass: 8.905 × 10<sup>23</sup> kg<br />(0.149 Yrths)
         density: 2.796 g/cm<sup>3</sup>
         surface_gravity: 3.307 m/s<sup>2</sup><br />(0.337 g<sub>0</sub>)
         escape_velocity: 5.297 km/s<br />(19,070 km/h)
         rotation_period: 30.092 d
         axial_tilt: 21.85°
         albedo: 0.30
-        temperature: 3034 K<br />(2761 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 7481 Tanashad IV
     type: Ice giant
     aphelion: 2,240,434,214 km<br />14.976 AU
@@ -347,14 +347,14 @@ planets:
     radius: 31,002.3 km<br/>(4.866 Yrths)
     surface_area: 1.208 × 10<sup>10</sup> km<sup>2</sup><br/>(23.680 Yrths)
     volume: 1.248 × 10<sup>14</sup> km<sup>3</sup><br/>(115.229 Yrths)
-    mass: 1.616 × 10<sup>26</sup> kg<br />(27.05847243572324 Yrths)
+    mass: 1.616 × 10<sup>26</sup> kg<br />(27.06 Yrths)
     density: 1.295 g/cm<sup>3</sup>
     surface_gravity: 11.206 m/s<sup>2</sup><br />(1.143 g<sub>0</sub>)
     escape_velocity: 26.377 km/s<br />(94,959 km/h)
     rotation_period: 0.313 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 299 K<br />(26 °C)
+    temperature: 275 K<br />(2 °C)
     composition:
       - 90.8935% hydrogen
       - 7.2241% helium
@@ -374,14 +374,14 @@ planets:
         radius: 29,570.6 km<br/>(4.641 Yrths)
         surface_area: 1.099 × 10<sup>10</sup> km<sup>2</sup><br/>(21.543 Yrths)
         volume: 1.083 × 10<sup>14</sup> km<sup>3</sup><br/>(99.990 Yrths)
-        mass: 1.443 × 10<sup>26</sup> kg<br />(27.05847243572324 Yrths)
+        mass: 1.443 × 10<sup>26</sup> kg<br />(24.163 Yrths)
         density: 1.332 g/cm<sup>3</sup>
         surface_gravity: 10.999 m/s<sup>2</sup><br />(1.122 g<sub>0</sub>)
         escape_velocity: 25.522 km/s<br />(91,880 km/h)
         rotation_period: 43.779 d
         axial_tilt: 14.47°
         albedo: 0.30
-        temperature: 1314 K<br />(1041 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 7481 Tanashad IV b
         type: Icy
         formationType: Accreted
@@ -394,14 +394,14 @@ planets:
         radius: 49,415.3 km<br/>(7.756 Yrths)
         surface_area: 3.069 × 10<sup>10</sup> km<sup>2</sup><br/>(60.160 Yrths)
         volume: 5.054 × 10<sup>14</sup> km<sup>3</sup><br/>(466.619 Yrths)
-        mass: 5.476 × 10<sup>26</sup> kg<br />(27.05847243572324 Yrths)
+        mass: 5.476 × 10<sup>26</sup> kg<br />(91.700 Yrths)
         density: 1.083 g/cm<sup>3</sup>
         surface_gravity: 14.948 m/s<sup>2</sup><br />(1.524 g<sub>0</sub>)
         escape_velocity: 38.462 km/s<br />(138,463 km/h)
         rotation_period: 49.853 d
         axial_tilt: 22.02°
         albedo: 0.30
-        temperature: 1195 K<br />(922 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 7481 Tanashad IV c
         type: Rocky
         formationType: Accreted
@@ -414,14 +414,14 @@ planets:
         radius: 26,198.7 km<br/>(4.112 Yrths)
         surface_area: 8.625 × 10<sup>09</sup> km<sup>2</sup><br/>(16.910 Yrths)
         volume: 7.532 × 10<sup>13</sup> km<sup>3</sup><br/>(69.537 Yrths)
-        mass: 2.309 × 10<sup>26</sup> kg<br />(27.05847243572324 Yrths)
+        mass: 2.309 × 10<sup>26</sup> kg<br />(38.671 Yrths)
         density: 3.066 g/cm<sup>3</sup>
         surface_gravity: 22.426 m/s<sup>2</sup><br />(2.287 g<sub>0</sub>)
         escape_velocity: 34.303 km/s<br />(123,490 km/h)
         rotation_period: 29.886 d
         axial_tilt: 9.81°
         albedo: 0.30
-        temperature: 1139 K<br />(866 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 7481 Tanashad IV d
         type: Icy
         formationType: Accreted
@@ -434,14 +434,14 @@ planets:
         radius: 27,497.5 km<br/>(4.316 Yrths)
         surface_area: 9.502 × 10<sup>09</sup> km<sup>2</sup><br/>(18.628 Yrths)
         volume: 8.709 × 10<sup>13</sup> km<sup>3</sup><br/>(80.400 Yrths)
-        mass: 1.355 × 10<sup>26</sup> kg<br />(27.05847243572324 Yrths)
+        mass: 1.355 × 10<sup>26</sup> kg<br />(22.685 Yrths)
         density: 1.556 g/cm<sup>3</sup>
         surface_gravity: 11.942 m/s<sup>2</sup><br />(1.218 g<sub>0</sub>)
         escape_velocity: 25.645 km/s<br />(92,322 km/h)
         rotation_period: 76.681 d
         axial_tilt: 15.12°
         albedo: 0.30
-        temperature: 1036 K<br />(762 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 7481 Tanashad IV e
         type: Rocky
         formationType: Impact formed
@@ -454,14 +454,14 @@ planets:
         radius: 30,327.5 km<br/>(4.760 Yrths)
         surface_area: 1.156 × 10<sup>10</sup> km<sup>2</sup><br/>(22.660 Yrths)
         volume: 1.168 × 10<sup>14</sup> km<sup>3</sup><br/>(107.866 Yrths)
-        mass: 3.475 × 10<sup>26</sup> kg<br />(27.05847243572324 Yrths)
+        mass: 3.475 × 10<sup>26</sup> kg<br />(58.180 Yrths)
         density: 2.974 g/cm<sup>3</sup>
         surface_gravity: 25.179 m/s<sup>2</sup><br />(2.568 g<sub>0</sub>)
         escape_velocity: 39.106 km/s<br />(140,783 km/h)
         rotation_period: 38.307 d
         axial_tilt: 16.53°
         albedo: 0.30
-        temperature: 941 K<br />(668 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 7481 Tanashad IV f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -474,14 +474,14 @@ planets:
         radius: 25,839.8 km<br/>(4.056 Yrths)
         surface_area: 8.390 × 10<sup>09</sup> km<sup>2</sup><br/>(16.450 Yrths)
         volume: 7.227 × 10<sup>13</sup> km<sup>3</sup><br/>(66.718 Yrths)
-        mass: 1.450 × 10<sup>26</sup> kg<br />(27.05847243572324 Yrths)
+        mass: 1.450 × 10<sup>26</sup> kg<br />(24.275 Yrths)
         density: 2.006 g/cm<sup>3</sup>
         surface_gravity: 14.472 m/s<sup>2</sup><br />(1.476 g<sub>0</sub>)
         escape_velocity: 27.366 km/s<br />(98,518 km/h)
         rotation_period: 65.346 d
         axial_tilt: 11.04°
         albedo: 0.30
-        temperature: 898 K<br />(625 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 7481 Tanashad IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -494,14 +494,14 @@ planets:
         radius: 45,978.7 km<br/>(7.217 Yrths)
         surface_area: 2.657 × 10<sup>10</sup> km<sup>2</sup><br/>(52.083 Yrths)
         volume: 4.072 × 10<sup>14</sup> km<sup>3</sup><br/>(375.878 Yrths)
-        mass: 9.961 × 10<sup>26</sup> kg<br />(27.05847243572324 Yrths)
+        mass: 9.961 × 10<sup>26</sup> kg<br />(166.796 Yrths)
         density: 2.447 g/cm<sup>3</sup>
         surface_gravity: 31.406 m/s<sup>2</sup><br />(3.202 g<sub>0</sub>)
         escape_velocity: 53.776 km/s<br />(193,595 km/h)
         rotation_period: 33.178 d
         axial_tilt: 18.00°
         albedo: 0.30
-        temperature: 856 K<br />(583 °C)
+        temperature: 144 K<br />(-129 °C)
   - name: 7481 Tanashad V
     type: Gas giant
     aphelion: 4,987,999,052 km<br />33.342 AU
@@ -513,7 +513,7 @@ planets:
     radius: 209.6 km<br/>(0.033 Yrths)
     surface_area: 5.520 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.856 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.229 × 10<sup>27</sup> kg<br />(205.79267907765077 Yrths)
+    mass: 1.229 × 10<sup>27</sup> kg<br />(205.79 Yrths)
     density: 31871971.906 g/cm<sup>3</sup>
     surface_gravity: 1864937.817 m/s<sup>2</sup><br />(190170.733 g<sub>0</sub>)
     escape_velocity: 884.743 km/s<br />(3,185,076 km/h)
@@ -534,14 +534,14 @@ planets:
         radius: 165,953.3 km<br/>(26.048 Yrths)
         surface_area: 3.461 × 10<sup>11</sup> km<sup>2</sup><br/>(678.511 Yrths)
         volume: 1.914 × 10<sup>16</sup> km<sup>3</sup><br/>(17674.011 Yrths)
-        mass: 2.673 × 10<sup>28</sup> kg<br />(205.79267907765077 Yrths)
+        mass: 2.673 × 10<sup>28</sup> kg<br />(4476.479 Yrths)
         density: 1.396 g/cm<sup>3</sup>
         surface_gravity: 64.699 m/s<sup>2</sup><br />(6.598 g<sub>0</sub>)
         escape_velocity: 146.640 km/s<br />(527,905 km/h)
         rotation_period: 64.478 d
         axial_tilt: 19.00°
         albedo: 0.30
-        temperature: 666 K<br />(393 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 7481 Tanashad V b
         type: Rocky
         formationType: Accreted
@@ -554,14 +554,14 @@ planets:
         radius: 106,695.5 km<br/>(16.747 Yrths)
         surface_area: 1.431 × 10<sup>11</sup> km<sup>2</sup><br/>(280.464 Yrths)
         volume: 5.088 × 10<sup>15</sup> km<sup>3</sup><br/>(4696.940 Yrths)
-        mass: 1.832 × 10<sup>28</sup> kg<br />(205.79267907765077 Yrths)
+        mass: 1.832 × 10<sup>28</sup> kg<br />(3066.968 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 107.239 m/s<sup>2</sup><br />(10.935 g<sub>0</sub>)
         escape_velocity: 151.377 km/s<br />(544,957 km/h)
         rotation_period: 26.511 d
         axial_tilt: 10.99°
         albedo: 0.30
-        temperature: 525 K<br />(252 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 7481 Tanashad V c
         type: Icy
         formationType: Captured
@@ -574,14 +574,14 @@ planets:
         radius: 207,892.3 km<br/>(32.631 Yrths)
         surface_area: 5.431 × 10<sup>11</sup> km<sup>2</sup><br/>(1064.784 Yrths)
         volume: 3.764 × 10<sup>16</sup> km<sup>3</sup><br/>(34744.983 Yrths)
-        mass: 5.167 × 10<sup>28</sup> kg<br />(205.79267907765077 Yrths)
+        mass: 5.167 × 10<sup>28</sup> kg<br />(8651.426 Yrths)
         density: 1.373 g/cm<sup>3</sup>
         surface_gravity: 79.680 m/s<sup>2</sup><br />(8.125 g<sub>0</sub>)
         escape_velocity: 182.139 km/s<br />(655,700 km/h)
         rotation_period: 52.096 d
         axial_tilt: 21.10°
         albedo: 0.30
-        temperature: 501 K<br />(227 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 7481 Tanashad V d
         type: Icy
         formationType: Captured
@@ -594,14 +594,14 @@ planets:
         radius: 173,062.7 km<br/>(27.164 Yrths)
         surface_area: 3.764 × 10<sup>11</sup> km<sup>2</sup><br/>(737.890 Yrths)
         volume: 2.171 × 10<sup>16</sup> km<sup>3</sup><br/>(20044.160 Yrths)
-        mass: 3.046 × 10<sup>28</sup> kg<br />(205.79267907765077 Yrths)
+        mass: 3.046 × 10<sup>28</sup> kg<br />(5100.775 Yrths)
         density: 1.403 g/cm<sup>3</sup>
         surface_gravity: 67.790 m/s<sup>2</sup><br />(6.913 g<sub>0</sub>)
         escape_velocity: 153.283 km/s<br />(551,819 km/h)
         rotation_period: 74.245 d
         axial_tilt: 20.83°
         albedo: 0.30
-        temperature: 359 K<br />(85 °C)
+        temperature: 102 K<br />(-171 °C)
       - name: 7481 Tanashad V e
         type: Ice/rock hybrid
         formationType: Captured
@@ -614,12 +614,12 @@ planets:
         radius: 124,841.2 km<br/>(19.595 Yrths)
         surface_area: 1.959 × 10<sup>11</sup> km<sup>2</sup><br/>(383.973 Yrths)
         volume: 8.150 × 10<sup>15</sup> km<sup>3</sup><br/>(7524.034 Yrths)
-        mass: 1.859 × 10<sup>28</sup> kg<br />(205.79267907765077 Yrths)
+        mass: 1.859 × 10<sup>28</sup> kg<br />(3112.314 Yrths)
         density: 2.281 g/cm<sup>3</sup>
         surface_gravity: 79.488 m/s<sup>2</sup><br />(8.106 g<sub>0</sub>)
         escape_velocity: 140.974 km/s<br />(507,508 km/h)
         rotation_period: 59.092 d
         axial_tilt: 31.66°
         albedo: 0.30
-        temperature: 283 K<br />(9 °C)
+        temperature: 102 K<br />(-171 °C)
 ---

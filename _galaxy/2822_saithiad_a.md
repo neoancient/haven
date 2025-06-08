@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2822 Saithiad A is a star in the constellation Saith
+      2822 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 352.40 ly
 apparent_magnitude: 9.57
 absolute_magnitude: 4.40

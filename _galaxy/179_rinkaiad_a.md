@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      179 Rinkaiad A is a star in the constellation Rinka
+      179 Rinkaiad A is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 772.34 ly
 apparent_magnitude: 6.73
 absolute_magnitude: -0.14

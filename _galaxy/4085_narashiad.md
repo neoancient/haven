@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4085 Narashiad is a star in the constellation Naras
+      4085 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 537.30 ly
 apparent_magnitude: 11.43
 absolute_magnitude: 5.35

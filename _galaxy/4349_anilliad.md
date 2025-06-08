@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4349 Anilliad is a star in the constellation Anil
+      4349 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 546.08 ly
 apparent_magnitude: 11.20
 absolute_magnitude: 5.08

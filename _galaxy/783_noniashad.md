@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      783 Noniashad is a star in the constellation Nonias
+      783 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 448.32 ly
 apparent_magnitude: 13.36
 absolute_magnitude: 7.67

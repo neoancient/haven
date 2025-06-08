@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nyulan B is a star in the constellation Kuln
+      Nyulan B is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 737.67 ly
 apparent_magnitude: 4.92
 absolute_magnitude: -1.85

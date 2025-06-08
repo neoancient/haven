@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1036 Shanniashiad is a star in the constellation Shannias
+      1036 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 448.49 ly
 apparent_magnitude: 10.40
 absolute_magnitude: 4.71

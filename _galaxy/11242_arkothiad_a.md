@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11242 Arkothiad A is a star in the constellation Arkoth
+      11242 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 305.99 ly
 apparent_magnitude: 11.11
 absolute_magnitude: 6.25

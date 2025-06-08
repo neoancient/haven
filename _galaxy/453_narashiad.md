@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      453 Narashiad is a star in the constellation Naras
+      453 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 408.16 ly
 apparent_magnitude: 13.15
 absolute_magnitude: 7.67

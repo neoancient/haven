@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0088 Switheriad is a star in the constellation Swither
+      0088 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 218.71 ly
 apparent_magnitude: 6.41
 absolute_magnitude: 2.28
@@ -31,14 +31,14 @@ planets:
     radius: 3,286.6 km<br/>(0.516 Yrths)
     surface_area: 1.357 × 10<sup>08</sup> km<sup>2</sup><br/>(0.266 Yrths)
     volume: 1.487 × 10<sup>11</sup> km<sup>3</sup><br/>(0.137 Yrths)
-    mass: 8.060 × 10<sup>23</sup> kg<br />(0.1349632522990344 Yrths)
+    mass: 8.060 × 10<sup>23</sup> kg<br />(0.13 Yrths)
     density: 5.420 g/cm<sup>3</sup>
     surface_gravity: 4.973 m/s<sup>2</sup><br />(0.507 g<sub>0</sub>)
     escape_velocity: 5.722 km/s<br />(20,597 km/h)
     rotation_period: 1.996 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 425 K<br />(152 °C)
+    temperature: 461 K<br />(188 °C)
     surface_pressure: 20 kPa<br />(0 atm)
     composition:
       - 91.5836% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 435.5 km<br/>(0.068 Yrths)
         surface_area: 2.383 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.460 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 8.325 × 10<sup>20</sup> kg<br />(0.1349632522990344 Yrths)
+        mass: 8.325 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.406 g/cm<sup>3</sup>
         surface_gravity: 0.293 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.505 km/s<br />(1,819 km/h)
         rotation_period: 40.180 d
         axial_tilt: 44.19°
         albedo: 0.30
-        temperature: 8373 K<br />(8100 °C)
+        temperature: 384 K<br />(111 °C)
       - name: 0088 Switheriad I b
         type: Rocky
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 447.6 km<br/>(0.070 Yrths)
         surface_area: 2.518 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.756 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.287 × 10<sup>21</sup> kg<br />(0.1349632522990344 Yrths)
+        mass: 1.287 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.427 g/cm<sup>3</sup>
         surface_gravity: 0.428 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 0.620 km/s<br />(2,230 km/h)
         rotation_period: 32.203 d
         axial_tilt: 9.96°
         albedo: 0.30
-        temperature: 7983 K<br />(7710 °C)
+        temperature: 384 K<br />(111 °C)
   - name: 0088 Switheriad II
     type: Terrestrial
     aphelion: 421,117,690 km<br />2.815 AU
@@ -96,14 +96,14 @@ planets:
     radius: 7,010.2 km<br/>(1.100 Yrths)
     surface_area: 6.175 × 10<sup>08</sup> km<sup>2</sup><br/>(1.211 Yrths)
     volume: 1.443 × 10<sup>12</sup> km<sup>3</sup><br/>(1.332 Yrths)
-    mass: 6.900 × 10<sup>24</sup> kg<br />(1.1553997646731413 Yrths)
+    mass: 6.900 × 10<sup>24</sup> kg<br />(1.16 Yrths)
     density: 4.782 g/cm<sup>3</sup>
     surface_gravity: 9.359 m/s<sup>2</sup><br />(0.954 g<sub>0</sub>)
     escape_velocity: 11.462 km/s<br />(41,265 km/h)
     rotation_period: 0.984 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 404 K<br />(131 °C)
+    temperature: 833 K<br />(559 °C)
     surface_pressure: 134 kPa<br />(1 atm)
     composition:
       - 51.9544% carbon dioxide
@@ -124,14 +124,14 @@ planets:
         radius: 3,300.2 km<br/>(0.518 Yrths)
         surface_area: 1.369 × 10<sup>08</sup> km<sup>2</sup><br/>(0.268 Yrths)
         volume: 1.506 × 10<sup>11</sup> km<sup>3</sup><br/>(0.139 Yrths)
-        mass: 1.947 × 10<sup>23</sup> kg<br />(1.1553997646731413 Yrths)
+        mass: 1.947 × 10<sup>23</sup> kg<br />(0.033 Yrths)
         density: 1.293 g/cm<sup>3</sup>
         surface_gravity: 1.192 m/s<sup>2</sup><br />(0.121 g<sub>0</sub>)
         escape_velocity: 2.806 km/s<br />(10,103 km/h)
         rotation_period: 66.443 d
         axial_tilt: 22.14°
         albedo: 0.30
-        temperature: 4951 K<br />(4678 °C)
+        temperature: 279 K<br />(6 °C)
       - name: 0088 Switheriad II b
         type: Icy
         formationType: Captured
@@ -144,12 +144,12 @@ planets:
         radius: 3,320.4 km<br/>(0.521 Yrths)
         surface_area: 1.385 × 10<sup>08</sup> km<sup>2</sup><br/>(0.272 Yrths)
         volume: 1.533 × 10<sup>11</sup> km<sup>3</sup><br/>(0.142 Yrths)
-        mass: 2.254 × 10<sup>23</sup> kg<br />(1.1553997646731413 Yrths)
+        mass: 2.254 × 10<sup>23</sup> kg<br />(0.038 Yrths)
         density: 1.470 g/cm<sup>3</sup>
         surface_gravity: 1.363 m/s<sup>2</sup><br />(0.139 g<sub>0</sub>)
         escape_velocity: 3.010 km/s<br />(10,836 km/h)
         rotation_period: 74.948 d
         axial_tilt: 10.77°
         albedo: 0.30
-        temperature: 4721 K<br />(4447 °C)
+        temperature: 279 K<br />(6 °C)
 ---

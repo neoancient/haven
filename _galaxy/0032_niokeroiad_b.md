@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0032 Niokeroiad B is a star in the constellation Niokero
+      0032 Niokeroiad B is a star in the constellation <a href="niokero.html">Niokero</a>
 distance: 349.13 ly
 apparent_magnitude: 13.96
 absolute_magnitude: 8.82

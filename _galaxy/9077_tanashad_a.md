@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9077 Tanashad A is a star in the constellation Tanas
+      9077 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 591.56 ly
 apparent_magnitude: 8.01
 absolute_magnitude: 1.71

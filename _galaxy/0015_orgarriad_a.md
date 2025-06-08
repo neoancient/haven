@@ -6,7 +6,7 @@ faction: Freehold Confederation
 sections:
   - title:
     content: >-
-      0015 Orgarriad A is a star in the constellation Orgar
+      0015 Orgarriad A is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 373.10 ly
 apparent_magnitude: 7.50
 absolute_magnitude: 2.20

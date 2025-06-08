@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      804 Ratharshinniad is a star in the constellation Ratharshin
+      804 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 956.02 ly
 apparent_magnitude: 12.13
 absolute_magnitude: 4.80

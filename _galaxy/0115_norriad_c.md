@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0115 Norriad C is a star in the constellation Nor
+      0115 Norriad C is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1515.64 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 2.42
@@ -31,14 +31,14 @@ planets:
     radius: 160.3 km<br/>(0.025 Yrths)
     surface_area: 3.229 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.726 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.915 × 10<sup>26</sup> kg<br />(65.55437427389802 Yrths)
+    mass: 3.915 × 10<sup>26</sup> kg<br />(65.55 Yrths)
     density: 22685460.509 g/cm<sup>3</sup>
     surface_gravity: 1015345.974 m/s<sup>2</sup><br />(103536.475 g<sub>0</sub>)
     escape_velocity: 570.950 km/s<br />(2,055,418 km/h)
     rotation_period: 0.274 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1586 K<br />(1312 °C)
+    temperature: 1527 K<br />(1254 °C)
     composition:
       - 88.3207% hydrogen
       - 5.6102% helium
@@ -59,14 +59,14 @@ planets:
         radius: 75,089.5 km<br/>(11.786 Yrths)
         surface_area: 7.085 × 10<sup>10</sup> km<sup>2</sup><br/>(138.913 Yrths)
         volume: 1.773 × 10<sup>15</sup> km<sup>3</sup><br/>(1637.250 Yrths)
-        mass: 2.477 × 10<sup>27</sup> kg<br />(65.55437427389802 Yrths)
+        mass: 2.477 × 10<sup>27</sup> kg<br />(414.787 Yrths)
         density: 1.397 g/cm<sup>3</sup>
         surface_gravity: 29.282 m/s<sup>2</sup><br />(2.986 g<sub>0</sub>)
         escape_velocity: 66.359 km/s<br />(238,893 km/h)
         rotation_period: 52.612 d
         axial_tilt: 13.48°
         albedo: 0.30
-        temperature: 2645 K<br />(2372 °C)
+        temperature: 380 K<br />(107 °C)
       - name: 0115 Norriad C I b
         type: Icy
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 62,333.6 km<br/>(9.784 Yrths)
         surface_area: 4.883 × 10<sup>10</sup> km<sup>2</sup><br/>(95.726 Yrths)
         volume: 1.015 × 10<sup>15</sup> km<sup>3</sup><br/>(936.578 Yrths)
-        mass: 1.928 × 10<sup>27</sup> kg<br />(65.55437427389802 Yrths)
+        mass: 1.928 × 10<sup>27</sup> kg<br />(322.767 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 33.066 m/s<sup>2</sup><br />(3.372 g<sub>0</sub>)
         escape_velocity: 64.248 km/s<br />(231,294 km/h)
         rotation_period: 38.579 d
         axial_tilt: 20.67°
         albedo: 0.30
-        temperature: 1643 K<br />(1369 °C)
+        temperature: 380 K<br />(107 °C)
       - name: 0115 Norriad C I c
         type: Icy
         formationType: Accreted
@@ -99,14 +99,14 @@ planets:
         radius: 71,101.5 km<br/>(11.160 Yrths)
         surface_area: 6.353 × 10<sup>10</sup> km<sup>2</sup><br/>(124.550 Yrths)
         volume: 1.506 × 10<sup>15</sup> km<sup>3</sup><br/>(1389.995 Yrths)
-        mass: 1.658 × 10<sup>27</sup> kg<br />(65.55437427389802 Yrths)
+        mass: 1.658 × 10<sup>27</sup> kg<br />(277.615 Yrths)
         density: 1.101 g/cm<sup>3</sup>
         surface_gravity: 21.859 m/s<sup>2</sup><br />(2.229 g<sub>0</sub>)
         escape_velocity: 55.790 km/s<br />(200,846 km/h)
         rotation_period: 54.385 d
         axial_tilt: 12.67°
         albedo: 0.30
-        temperature: 1122 K<br />(849 °C)
+        temperature: 380 K<br />(107 °C)
       - name: 0115 Norriad C I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -119,14 +119,14 @@ planets:
         radius: 64,630.1 km<br/>(10.144 Yrths)
         surface_area: 5.249 × 10<sup>10</sup> km<sup>2</sup><br/>(102.909 Yrths)
         volume: 1.131 × 10<sup>15</sup> km<sup>3</sup><br/>(1043.953 Yrths)
-        mass: 2.421 × 10<sup>27</sup> kg<br />(65.55437427389802 Yrths)
+        mass: 2.421 × 10<sup>27</sup> kg<br />(405.359 Yrths)
         density: 2.141 g/cm<sup>3</sup>
         surface_gravity: 38.628 m/s<sup>2</sup><br />(3.939 g<sub>0</sub>)
         escape_velocity: 70.710 km/s<br />(254,556 km/h)
         rotation_period: 41.123 d
         axial_tilt: 22.84°
         albedo: 0.30
-        temperature: 843 K<br />(570 °C)
+        temperature: 380 K<br />(107 °C)
       - name: 0115 Norriad C I e
         type: Asteroid
         formationType: Captured
@@ -139,14 +139,14 @@ planets:
         radius: 70,971.5 km<br/>(11.140 Yrths)
         surface_area: 6.330 × 10<sup>10</sup> km<sup>2</sup><br/>(124.095 Yrths)
         volume: 1.497 × 10<sup>15</sup> km<sup>3</sup><br/>(1382.385 Yrths)
-        mass: 3.395 × 10<sup>27</sup> kg<br />(65.55437427389802 Yrths)
+        mass: 3.395 × 10<sup>27</sup> kg<br />(568.486 Yrths)
         density: 2.267 g/cm<sup>3</sup>
         surface_gravity: 44.925 m/s<sup>2</sup><br />(4.581 g<sub>0</sub>)
         escape_velocity: 79.909 km/s<br />(287,672 km/h)
         rotation_period: 35.131 d
         axial_tilt: 60.48°
         albedo: 0.30
-        temperature: 731 K<br />(457 °C)
+        temperature: 380 K<br />(107 °C)
       - name: 0115 Norriad C I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -159,14 +159,14 @@ planets:
         radius: 78,190.0 km<br/>(12.273 Yrths)
         surface_area: 7.683 × 10<sup>10</sup> km<sup>2</sup><br/>(150.622 Yrths)
         volume: 2.002 × 10<sup>15</sup> km<sup>3</sup><br/>(1848.552 Yrths)
-        mass: 4.945 × 10<sup>27</sup> kg<br />(65.55437427389802 Yrths)
+        mass: 4.945 × 10<sup>27</sup> kg<br />(828.030 Yrths)
         density: 2.470 g/cm<sup>3</sup>
         surface_gravity: 53.911 m/s<sup>2</sup><br />(5.497 g<sub>0</sub>)
         escape_velocity: 91.881 km/s<br />(330,771 km/h)
         rotation_period: 32.997 d
         axial_tilt: 19.78°
         albedo: 0.30
-        temperature: 633 K<br />(360 °C)
+        temperature: 380 K<br />(107 °C)
       - name: 0115 Norriad C I g
         type: Rocky
         formationType: Captured
@@ -179,14 +179,14 @@ planets:
         radius: 52,143.3 km<br/>(8.184 Yrths)
         surface_area: 3.417 × 10<sup>10</sup> km<sup>2</sup><br/>(66.986 Yrths)
         volume: 5.939 × 10<sup>14</sup> km<sup>3</sup><br/>(548.242 Yrths)
-        mass: 1.866 × 10<sup>27</sup> kg<br />(65.55437427389802 Yrths)
+        mass: 1.866 × 10<sup>27</sup> kg<br />(312.439 Yrths)
         density: 3.142 g/cm<sup>3</sup>
         surface_gravity: 45.741 m/s<sup>2</sup><br />(4.664 g<sub>0</sub>)
         escape_velocity: 69.113 km/s<br />(248,808 km/h)
         rotation_period: 51.131 d
         axial_tilt: 13.32°
         albedo: 0.30
-        temperature: 576 K<br />(303 °C)
+        temperature: 380 K<br />(107 °C)
       - name: 0115 Norriad C I h
         type: Rocky
         formationType: Captured
@@ -199,14 +199,14 @@ planets:
         radius: 54,190.7 km<br/>(8.506 Yrths)
         surface_area: 3.690 × 10<sup>10</sup> km<sup>2</sup><br/>(72.349 Yrths)
         volume: 6.666 × 10<sup>14</sup> km<sup>3</sup><br/>(615.393 Yrths)
-        mass: 2.179 × 10<sup>27</sup> kg<br />(65.55437427389802 Yrths)
+        mass: 2.179 × 10<sup>27</sup> kg<br />(364.949 Yrths)
         density: 3.270 g/cm<sup>3</sup>
         surface_gravity: 49.467 m/s<sup>2</sup><br />(5.044 g<sub>0</sub>)
         escape_velocity: 73.271 km/s<br />(263,775 km/h)
         rotation_period: 48.031 d
         axial_tilt: 23.39°
         albedo: 0.30
-        temperature: 476 K<br />(203 °C)
+        temperature: 380 K<br />(107 °C)
       - name: 0115 Norriad C I i
         type: Icy
         formationType: Captured
@@ -219,14 +219,14 @@ planets:
         radius: 75,403.2 km<br/>(11.835 Yrths)
         surface_area: 7.145 × 10<sup>10</sup> km<sup>2</sup><br/>(140.076 Yrths)
         volume: 1.796 × 10<sup>15</sup> km<sup>3</sup><br/>(1657.855 Yrths)
-        mass: 1.716 × 10<sup>27</sup> kg<br />(65.55437427389802 Yrths)
+        mass: 1.716 × 10<sup>27</sup> kg<br />(287.353 Yrths)
         density: 0.956 g/cm<sup>3</sup>
         surface_gravity: 20.117 m/s<sup>2</sup><br />(2.051 g<sub>0</sub>)
         escape_velocity: 55.118 km/s<br />(198,424 km/h)
         rotation_period: 100.933 d
         axial_tilt: 15.31°
         albedo: 0.30
-        temperature: 454 K<br />(180 °C)
+        temperature: 380 K<br />(107 °C)
   - name: 0115 Norriad C II
     type: Large terrestrial
     aphelion: 416,849,184 km<br />2.786 AU
@@ -238,15 +238,15 @@ planets:
     radius: 11,978.4 km<br/>(1.880 Yrths)
     surface_area: 1.803 × 10<sup>09</sup> km<sup>2</sup><br/>(3.535 Yrths)
     volume: 7.199 × 10<sup>12</sup> km<sup>3</sup><br/>(6.646 Yrths)
-    mass: 4.654 × 10<sup>25</sup> kg<br />(7.793249562418583 Yrths)
+    mass: 4.654 × 10<sup>25</sup> kg<br />(7.79 Yrths)
     density: 6.465 g/cm<sup>3</sup>
     surface_gravity: 21.620 m/s<sup>2</sup><br />(2.205 g<sub>0</sub>)
     escape_velocity: 22.774 km/s<br />(81,986 km/h)
     rotation_period: 0.510 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 512 K<br />(239 °C)
-    surface_pressure: 6,211 kPa<br />(61 atm)
+    temperature: 1138 K<br />(865 °C)
+    surface_pressure: 6,211 kPa<br />(62 atm)
     composition:
       - 58.8550% carbon dioxide
       - 33.5178% ammonia
@@ -266,14 +266,14 @@ planets:
         radius: 7,131.6 km<br/>(1.119 Yrths)
         surface_area: 6.391 × 10<sup>08</sup> km<sup>2</sup><br/>(1.253 Yrths)
         volume: 1.519 × 10<sup>12</sup> km<sup>3</sup><br/>(1.403 Yrths)
-        mass: 2.984 × 10<sup>24</sup> kg<br />(7.793249562418583 Yrths)
+        mass: 2.984 × 10<sup>24</sup> kg<br />(0.500 Yrths)
         density: 1.964 g/cm<sup>3</sup>
         surface_gravity: 3.911 m/s<sup>2</sup><br />(0.399 g<sub>0</sub>)
         escape_velocity: 7.474 km/s<br />(26,907 km/h)
         rotation_period: 59.686 d
         axial_tilt: 17.09°
         albedo: 0.30
-        temperature: 3651 K<br />(3378 °C)
+        temperature: 277 K<br />(4 °C)
       - name: 0115 Norriad C II b
         type: Rocky
         formationType: Impact formed
@@ -286,14 +286,14 @@ planets:
         radius: 9,341.2 km<br/>(1.466 Yrths)
         surface_area: 1.097 × 10<sup>09</sup> km<sup>2</sup><br/>(2.150 Yrths)
         volume: 3.414 × 10<sup>12</sup> km<sup>3</sup><br/>(3.152 Yrths)
-        mass: 1.005 × 10<sup>25</sup> kg<br />(7.793249562418583 Yrths)
+        mass: 1.005 × 10<sup>25</sup> kg<br />(1.683 Yrths)
         density: 2.944 g/cm<sup>3</sup>
         surface_gravity: 7.677 m/s<sup>2</sup><br />(0.783 g<sub>0</sub>)
         escape_velocity: 11.984 km/s<br />(43,142 km/h)
         rotation_period: 34.267 d
         axial_tilt: 15.93°
         albedo: 0.30
-        temperature: 3481 K<br />(3208 °C)
+        temperature: 277 K<br />(4 °C)
       - name: 0115 Norriad C II c
         type: Asteroid
         formationType: Captured
@@ -306,12 +306,12 @@ planets:
         radius: 8,042.0 km<br/>(1.262 Yrths)
         surface_area: 8.127 × 10<sup>08</sup> km<sup>2</sup><br/>(1.593 Yrths)
         volume: 2.179 × 10<sup>12</sup> km<sup>3</sup><br/>(2.011 Yrths)
-        mass: 4.364 × 10<sup>24</sup> kg<br />(7.793249562418583 Yrths)
+        mass: 4.364 × 10<sup>24</sup> kg<br />(0.731 Yrths)
         density: 2.003 g/cm<sup>3</sup>
         surface_gravity: 4.497 m/s<sup>2</sup><br />(0.459 g<sub>0</sub>)
         escape_velocity: 8.511 km/s<br />(30,639 km/h)
         rotation_period: 54.360 d
         axial_tilt: 27.00°
         albedo: 0.30
-        temperature: 3319 K<br />(3046 °C)
+        temperature: 277 K<br />(4 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Narth A is a star in the constellation Reg
+      Narth A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 326.82 ly
 apparent_magnitude: 2.21
 absolute_magnitude: -2.79

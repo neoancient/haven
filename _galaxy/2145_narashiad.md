@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2145 Narashiad is a star in the constellation Naras
+      2145 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 487.41 ly
 apparent_magnitude: 11.38
 absolute_magnitude: 5.51

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      643 Morrishothiad A is a star in the constellation Morrishoth
+      643 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 168.53 ly
 apparent_magnitude: 8.24
 absolute_magnitude: 4.67

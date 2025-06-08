@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Athiad E is a star in the constellation Ath
+      0015 Athiad E is a star in the constellation <a href="ath.html">Ath</a>
 distance: 107.69 ly
 apparent_magnitude: 8.93
 absolute_magnitude: 6.34

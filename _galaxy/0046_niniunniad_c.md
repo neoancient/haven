@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0046 Niniunniad C is a star in the constellation Niniun
+      0046 Niniunniad C is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 407.78 ly
 apparent_magnitude: 14.30
 absolute_magnitude: 8.82

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10015 Dialkeshiad is a star in the constellation Dialkes
+      10015 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 379.87 ly
 apparent_magnitude: 10.06
 absolute_magnitude: 4.73

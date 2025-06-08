@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0239 Rukentuaiad B is a star in the constellation Rukentua
+      0239 Rukentuaiad B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 81.62 ly
 apparent_magnitude: 18.33
 absolute_magnitude: 16.34

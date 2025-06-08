@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2143 Arkothiad is a star in the constellation Arkoth
+      2143 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 343.89 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 5.65

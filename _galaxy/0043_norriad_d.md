@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0043 Norriad D is a star in the constellation Nor
+      0043 Norriad D is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1946.61 ly
 apparent_magnitude: 16.97
 absolute_magnitude: 8.09

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3941 Shanniashiad is a star in the constellation Shannias
+      3941 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 717.87 ly
 apparent_magnitude: 12.32
 absolute_magnitude: 5.61

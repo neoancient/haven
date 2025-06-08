@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      535 Lunaiad is a star in the constellation Luna
+      535 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 486.99 ly
 apparent_magnitude: 12.14
 absolute_magnitude: 6.27

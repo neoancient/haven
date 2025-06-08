@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0285 Tanashad A is a star in the constellation Tanas
+      0285 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1531.52 ly
 apparent_magnitude: 5.99
 absolute_magnitude: -2.37

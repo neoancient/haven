@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      924 Keead is a star in the constellation Kee
+      924 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 632.15 ly
 apparent_magnitude: 10.25
 absolute_magnitude: 3.81

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0079 Norriad is a star in the constellation Nor
+      0079 Norriad is a star in the constellation <a href="nor.html">Nor</a>
 distance: 783.69 ly
 apparent_magnitude: 6.28
 absolute_magnitude: -0.63
@@ -31,14 +31,14 @@ planets:
     radius: 16,016.5 km<br/>(2.514 Yrths)
     surface_area: 3.224 × 10<sup>09</sup> km<sup>2</sup><br/>(6.320 Yrths)
     volume: 1.721 × 10<sup>13</sup> km<sup>3</sup><br/>(15.888 Yrths)
-    mass: 4.582 × 10<sup>25</sup> kg<br />(7.672690118480286 Yrths)
+    mass: 4.582 × 10<sup>25</sup> kg<br />(7.67 Yrths)
     density: 2.662 g/cm<sup>3</sup>
     surface_gravity: 11.906 m/s<sup>2</sup><br />(1.214 g<sub>0</sub>)
     escape_velocity: 19.542 km/s<br />(70,351 km/h)
     rotation_period: 0.443 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 1499 K<br />(1226 °C)
+    temperature: 1346 K<br />(1073 °C)
     composition:
       - 90.1360% hydrogen
       - 5.5882% helium
@@ -57,14 +57,14 @@ planets:
         radius: 12,307.8 km<br/>(1.932 Yrths)
         surface_area: 1.904 × 10<sup>09</sup> km<sup>2</sup><br/>(3.732 Yrths)
         volume: 7.810 × 10<sup>12</sup> km<sup>3</sup><br/>(7.210 Yrths)
-        mass: 2.178 × 10<sup>25</sup> kg<br />(7.672690118480286 Yrths)
+        mass: 2.178 × 10<sup>25</sup> kg<br />(3.646 Yrths)
         density: 2.788 g/cm<sup>3</sup>
         surface_gravity: 9.582 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
         escape_velocity: 15.368 km/s<br />(55,325 km/h)
         rotation_period: 35.921 d
         axial_tilt: 11.87°
         albedo: 0.30
-        temperature: 11346 K<br />(11073 °C)
+        temperature: 985 K<br />(712 °C)
       - name: 0079 Norriad I b
         type: Asteroid
         formationType: Captured
@@ -77,12 +77,12 @@ planets:
         radius: 13,546.8 km<br/>(2.126 Yrths)
         surface_area: 2.306 × 10<sup>09</sup> km<sup>2</sup><br/>(4.521 Yrths)
         volume: 1.041 × 10<sup>13</sup> km<sup>3</sup><br/>(9.614 Yrths)
-        mass: 2.656 × 10<sup>25</sup> kg<br />(7.672690118480286 Yrths)
+        mass: 2.656 × 10<sup>25</sup> kg<br />(4.447 Yrths)
         density: 2.550 g/cm<sup>3</sup>
         surface_gravity: 9.646 m/s<sup>2</sup><br />(0.984 g<sub>0</sub>)
         escape_velocity: 16.177 km/s<br />(58,237 km/h)
         rotation_period: 48.574 d
         axial_tilt: 42.66°
         albedo: 0.30
-        temperature: 10818 K<br />(10545 °C)
+        temperature: 985 K<br />(712 °C)
 ---

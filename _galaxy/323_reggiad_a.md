@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      323 Reggiad A is a star in the constellation Reg
+      323 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 702.82 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 0.87

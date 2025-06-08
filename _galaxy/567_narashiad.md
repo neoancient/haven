@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      567 Narashiad is a star in the constellation Naras
+      567 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 371.38 ly
 apparent_magnitude: 9.99
 absolute_magnitude: 4.70

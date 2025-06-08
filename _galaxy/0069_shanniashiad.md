@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0069 Shanniashiad is a star in the constellation Shannias
+      0069 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 273.88 ly
 apparent_magnitude: 6.37
 absolute_magnitude: 1.75
@@ -31,14 +31,14 @@ planets:
     radius: 7,429.5 km<br/>(1.166 Yrths)
     surface_area: 6.936 × 10<sup>08</sup> km<sup>2</sup><br/>(1.360 Yrths)
     volume: 1.718 × 10<sup>12</sup> km<sup>3</sup><br/>(1.586 Yrths)
-    mass: 8.579 × 10<sup>24</sup> kg<br />(1.4364887983275052 Yrths)
+    mass: 8.579 × 10<sup>24</sup> kg<br />(1.44 Yrths)
     density: 4.994 g/cm<sup>3</sup>
     surface_gravity: 10.359 m/s<sup>2</sup><br />(1.056 g<sub>0</sub>)
     escape_velocity: 12.415 km/s<br />(44,694 km/h)
     rotation_period: 0.965 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 372 K<br />(99 °C)
+    temperature: 458 K<br />(185 °C)
     surface_pressure: 58 kPa<br />(1 atm)
     composition:
       - 88.7936% methane
@@ -56,14 +56,14 @@ planets:
         radius: 2,102.6 km<br/>(0.330 Yrths)
         surface_area: 5.555 × 10<sup>07</sup> km<sup>2</sup><br/>(0.109 Yrths)
         volume: 3.893 × 10<sup>10</sup> km<sup>3</sup><br/>(0.036 Yrths)
-        mass: 7.713 × 10<sup>22</sup> kg<br />(1.4364887983275052 Yrths)
+        mass: 7.713 × 10<sup>22</sup> kg<br />(0.013 Yrths)
         density: 1.981 g/cm<sup>3</sup>
         surface_gravity: 1.163 m/s<sup>2</sup><br />(0.119 g<sub>0</sub>)
         escape_velocity: 2.213 km/s<br />(7,966 km/h)
         rotation_period: 47.766 d
         axial_tilt: 18.02°
         albedo: 0.30
-        temperature: 4503 K<br />(4230 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 0069 Shanniashiad I b
         type: Icy
         formationType: Captured
@@ -76,12 +76,12 @@ planets:
         radius: 3,229.2 km<br/>(0.507 Yrths)
         surface_area: 1.310 × 10<sup>08</sup> km<sup>2</sup><br/>(0.257 Yrths)
         volume: 1.411 × 10<sup>11</sup> km<sup>3</sup><br/>(0.130 Yrths)
-        mass: 1.758 × 10<sup>23</sup> kg<br />(1.4364887983275052 Yrths)
+        mass: 1.758 × 10<sup>23</sup> kg<br />(0.029 Yrths)
         density: 1.246 g/cm<sup>3</sup>
         surface_gravity: 1.124 m/s<sup>2</sup><br />(0.115 g<sub>0</sub>)
         escape_velocity: 2.696 km/s<br />(9,705 km/h)
         rotation_period: 81.773 d
         axial_tilt: 13.61°
         albedo: 0.30
-        temperature: 4294 K<br />(4020 °C)
+        temperature: 305 K<br />(32 °C)
 ---

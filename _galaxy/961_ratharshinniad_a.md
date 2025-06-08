@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      961 Ratharshinniad A is a star in the constellation Ratharshin
+      961 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1040.36 ly
 apparent_magnitude: 7.11
 absolute_magnitude: -0.41

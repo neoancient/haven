@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1374 Saithiad is a star in the constellation Saith
+      1374 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1122.77 ly
 apparent_magnitude: 14.04
 absolute_magnitude: 6.35

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      721 Anilliad A is a star in the constellation Anil
+      721 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 517.31 ly
 apparent_magnitude: 8.85
 absolute_magnitude: 2.85

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      65962 Dialkeshiad A is a star in the constellation Dialkes
+      65962 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 543.01 ly
 apparent_magnitude: 7.95
 absolute_magnitude: 1.84

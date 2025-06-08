@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3811 Anilliad A is a star in the constellation Anil
+      3811 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 323.25 ly
 apparent_magnitude: 9.95
 absolute_magnitude: 4.97

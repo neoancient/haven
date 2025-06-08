@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10628 Arkothiad A is a star in the constellation Arkoth
+      10628 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 232.65 ly
 apparent_magnitude: 8.54
 absolute_magnitude: 4.28

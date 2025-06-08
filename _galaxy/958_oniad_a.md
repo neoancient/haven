@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      958 Oniad A is a star in the constellation Oni
+      958 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 310.26 ly
 apparent_magnitude: 9.56
 absolute_magnitude: 4.67

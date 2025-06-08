@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5512 Athiad A is a star in the constellation Ath
+      5512 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 207.20 ly
 apparent_magnitude: 10.04
 absolute_magnitude: 6.02

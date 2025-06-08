@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6906 Shanniashiad A is a star in the constellation Shannias
+      6906 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 371.46 ly
 apparent_magnitude: 7.24
 absolute_magnitude: 1.96

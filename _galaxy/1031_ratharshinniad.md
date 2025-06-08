@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1031 Ratharshinniad is a star in the constellation Ratharshin
+      1031 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 504.67 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 4.74

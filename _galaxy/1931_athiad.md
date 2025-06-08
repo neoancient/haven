@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1931 Athiad is a star in the constellation Ath
+      1931 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 450.72 ly
 apparent_magnitude: 10.44
 absolute_magnitude: 4.74

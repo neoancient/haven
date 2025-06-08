@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Regiad Arnshi is a star in the constellation Reg
+      Regiad Arnshi is a star in the constellation <a href="reg.html">Reg</a>
 distance: 3060.08 ly
 apparent_magnitude: 1.83
 absolute_magnitude: -8.03

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4370 Geardiad is a star in the constellation Geard
+      4370 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 329.92 ly
 apparent_magnitude: 10.33
 absolute_magnitude: 5.31

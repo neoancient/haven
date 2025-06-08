@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      291 Tanashad A is a star in the constellation Tanas
+      291 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 176.09 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 3.87

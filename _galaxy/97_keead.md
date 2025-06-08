@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      97 Keead is a star in the constellation Kee
+      97 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 317.23 ly
 apparent_magnitude: 12.08
 absolute_magnitude: 7.14

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3733 Dialkeshiad A is a star in the constellation Dialkes
+      3733 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 434.43 ly
 apparent_magnitude: 7.74
 absolute_magnitude: 2.11

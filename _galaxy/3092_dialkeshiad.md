@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3092 Dialkeshiad is a star in the constellation Dialkes
+      3092 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 276.72 ly
 apparent_magnitude: 19.08
 absolute_magnitude: 14.43

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0007 Naddiad B is a star in the constellation Naddi
+      0007 Naddiad B is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 444.02 ly
 apparent_magnitude: 11.09
 absolute_magnitude: 5.42

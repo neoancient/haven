@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Naddiad A is a star in the constellation Naddi
+      0051 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 1211.41 ly
 apparent_magnitude: 4.96
 absolute_magnitude: -2.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1104 Oniad is a star in the constellation Oni
+      1104 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 733.19 ly
 apparent_magnitude: 11.42
 absolute_magnitude: 4.66

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Fay A is a star in the constellation Irsa
+      Fay A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 2411.58 ly
 apparent_magnitude: 3.03
 absolute_magnitude: -6.31

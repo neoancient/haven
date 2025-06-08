@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3518 Athiad A is a star in the constellation Ath
+      3518 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1385.97 ly
 apparent_magnitude: 6.70
 absolute_magnitude: -1.44

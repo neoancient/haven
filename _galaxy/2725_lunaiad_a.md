@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2725 Lunaiad A is a star in the constellation Luna
+      2725 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 390.81 ly
 apparent_magnitude: 8.42
 absolute_magnitude: 3.03

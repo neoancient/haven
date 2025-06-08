@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5538 Narashiad is a star in the constellation Naras
+      5538 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 132.48 ly
 apparent_magnitude: 17.48
 absolute_magnitude: 14.43

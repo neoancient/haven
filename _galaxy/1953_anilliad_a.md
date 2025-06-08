@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1953 Anilliad A is a star in the constellation Anil
+      1953 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 449.67 ly
 apparent_magnitude: 11.07
 absolute_magnitude: 5.38

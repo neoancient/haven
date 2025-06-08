@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2547 Noniashad is a star in the constellation Nonias
+      2547 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 398.79 ly
 apparent_magnitude: 7.13
 absolute_magnitude: 1.70
@@ -31,14 +31,14 @@ planets:
     radius: 201.8 km<br/>(0.032 Yrths)
     surface_area: 5.118 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.443 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.050 × 10<sup>27</sup> kg<br />(175.78720337588894 Yrths)
+    mass: 1.050 × 10<sup>27</sup> kg<br />(175.79 Yrths)
     density: 30492979.261 g/cm<sup>3</sup>
     surface_gravity: 1718082.775 m/s<sup>2</sup><br />(175195.686 g<sub>0</sub>)
     escape_velocity: 833.300 km/s<br />(2,999,882 km/h)
     rotation_period: 0.248 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1723 K<br />(1450 °C)
+    temperature: 1947 K<br />(1674 °C)
     composition:
       - 89.6477% hydrogen
       - 7.9227% water vapor
@@ -58,14 +58,14 @@ planets:
         radius: 172,979.7 km<br/>(27.151 Yrths)
         surface_area: 3.760 × 10<sup>11</sup> km<sup>2</sup><br/>(737.182 Yrths)
         volume: 2.168 × 10<sup>16</sup> km<sup>3</sup><br/>(20015.315 Yrths)
-        mass: 1.618 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 1.618 × 10<sup>28</sup> kg<br />(2710.117 Yrths)
         density: 0.747 g/cm<sup>3</sup>
         surface_gravity: 36.052 m/s<sup>2</sup><br />(3.676 g<sub>0</sub>)
         escape_velocity: 111.757 km/s<br />(402,325 km/h)
         rotation_period: 60.034 d
         axial_tilt: 18.33°
         albedo: 0.30
-        temperature: 2579 K<br />(2306 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 2547 Noniashad I b
         type: Icy
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 123,313.0 km<br/>(19.355 Yrths)
         surface_area: 1.911 × 10<sup>11</sup> km<sup>2</sup><br/>(374.630 Yrths)
         volume: 7.854 × 10<sup>15</sup> km<sup>3</sup><br/>(7251.100 Yrths)
-        mass: 1.082 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 1.082 × 10<sup>28</sup> kg<br />(1810.957 Yrths)
         density: 1.377 g/cm<sup>3</sup>
         surface_gravity: 47.405 m/s<sup>2</sup><br />(4.834 g<sub>0</sub>)
         escape_velocity: 108.200 km/s<br />(389,520 km/h)
         rotation_period: 66.161 d
         axial_tilt: 19.67°
         albedo: 0.30
-        temperature: 2459 K<br />(2186 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 2547 Noniashad I c
         type: Icy
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 127,688.9 km<br/>(20.042 Yrths)
         surface_area: 2.049 × 10<sup>11</sup> km<sup>2</sup><br/>(401.690 Yrths)
         volume: 8.721 × 10<sup>15</sup> km<sup>3</sup><br/>(8050.764 Yrths)
-        mass: 1.216 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 1.216 × 10<sup>28</sup> kg<br />(2036.655 Yrths)
         density: 1.395 g/cm<sup>3</sup>
         surface_gravity: 49.722 m/s<sup>2</sup><br />(5.070 g<sub>0</sub>)
         escape_velocity: 112.761 km/s<br />(405,940 km/h)
         rotation_period: 56.591 d
         axial_tilt: 15.16°
         albedo: 0.30
-        temperature: 2345 K<br />(2071 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 2547 Noniashad I d
         type: Asteroid
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 151,966.9 km<br/>(23.853 Yrths)
         surface_area: 2.902 × 10<sup>11</sup> km<sup>2</sup><br/>(568.962 Yrths)
         volume: 1.470 × 10<sup>16</sup> km<sup>3</sup><br/>(13571.397 Yrths)
-        mass: 3.734 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 3.734 × 10<sup>28</sup> kg<br />(6252.245 Yrths)
         density: 2.540 g/cm<sup>3</sup>
         surface_gravity: 107.764 m/s<sup>2</sup><br />(10.989 g<sub>0</sub>)
         escape_velocity: 181.101 km/s<br />(651,964 km/h)
         rotation_period: 39.702 d
         axial_tilt: 33.34°
         albedo: 0.30
-        temperature: 2235 K<br />(1962 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 2547 Noniashad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -138,14 +138,14 @@ planets:
         radius: 105,470.9 km<br/>(16.555 Yrths)
         surface_area: 1.398 × 10<sup>11</sup> km<sup>2</sup><br/>(274.063 Yrths)
         volume: 4.915 × 10<sup>15</sup> km<sup>3</sup><br/>(4537.066 Yrths)
-        mass: 1.106 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 1.106 × 10<sup>28</sup> kg<br />(1852.710 Yrths)
         density: 2.251 g/cm<sup>3</sup>
         surface_gravity: 66.295 m/s<sup>2</sup><br />(6.760 g<sub>0</sub>)
         escape_velocity: 118.336 km/s<br />(426,008 km/h)
         rotation_period: 37.890 d
         axial_tilt: 25.87°
         albedo: 0.30
-        temperature: 1680 K<br />(1406 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 2547 Noniashad I f
         type: Icy
         formationType: Captured
@@ -158,14 +158,14 @@ planets:
         radius: 124,353.6 km<br/>(19.519 Yrths)
         surface_area: 1.943 × 10<sup>11</sup> km<sup>2</sup><br/>(380.979 Yrths)
         volume: 8.055 × 10<sup>15</sup> km<sup>3</sup><br/>(7436.219 Yrths)
-        mass: 1.373 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 1.373 × 10<sup>28</sup> kg<br />(2298.756 Yrths)
         density: 1.704 g/cm<sup>3</sup>
         surface_gravity: 59.171 m/s<sup>2</sup><br />(6.034 g<sub>0</sub>)
         escape_velocity: 121.393 km/s<br />(437,016 km/h)
         rotation_period: 40.444 d
         axial_tilt: 17.12°
         albedo: 0.30
-        temperature: 1601 K<br />(1328 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 2547 Noniashad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -178,14 +178,14 @@ planets:
         radius: 137,527.7 km<br/>(21.587 Yrths)
         surface_area: 2.377 × 10<sup>11</sup> km<sup>2</sup><br/>(465.978 Yrths)
         volume: 1.090 × 10<sup>16</sup> km<sup>3</sup><br/>(10058.829 Yrths)
-        mass: 2.228 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 2.228 × 10<sup>28</sup> kg<br />(3730.302 Yrths)
         density: 2.045 g/cm<sup>3</sup>
         surface_gravity: 78.505 m/s<sup>2</sup><br />(8.005 g<sub>0</sub>)
         escape_velocity: 147.047 km/s<br />(529,367 km/h)
         rotation_period: 44.633 d
         axial_tilt: 27.94°
         albedo: 0.30
-        temperature: 617 K<br />(344 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 2547 Noniashad I h
         type: Dwarf planet
         formationType: Impact formed
@@ -198,14 +198,14 @@ planets:
         radius: 154,471.0 km<br/>(24.246 Yrths)
         surface_area: 2.998 × 10<sup>11</sup> km<sup>2</sup><br/>(587.866 Yrths)
         volume: 1.544 × 10<sup>16</sup> km<sup>3</sup><br/>(14253.374 Yrths)
-        mass: 2.742 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 2.742 × 10<sup>28</sup> kg<br />(4591.420 Yrths)
         density: 1.776 g/cm<sup>3</sup>
         surface_gravity: 76.593 m/s<sup>2</sup><br />(7.810 g<sub>0</sub>)
         escape_velocity: 153.932 km/s<br />(554,154 km/h)
         rotation_period: 39.147 d
         axial_tilt: 34.90°
         albedo: 0.30
-        temperature: 589 K<br />(316 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 2547 Noniashad I i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -218,14 +218,14 @@ planets:
         radius: 121,588.2 km<br/>(19.085 Yrths)
         surface_area: 1.858 × 10<sup>11</sup> km<sup>2</sup><br/>(364.223 Yrths)
         volume: 7.529 × 10<sup>15</sup> km<sup>3</sup><br/>(6951.066 Yrths)
-        mass: 1.627 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 1.627 × 10<sup>28</sup> kg<br />(2725.206 Yrths)
         density: 2.162 g/cm<sup>3</sup>
         surface_gravity: 73.376 m/s<sup>2</sup><br />(7.482 g<sub>0</sub>)
         escape_velocity: 133.669 km/s<br />(481,210 km/h)
         rotation_period: 61.794 d
         axial_tilt: 12.46°
         albedo: 0.30
-        temperature: 561 K<br />(288 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 2547 Noniashad I j
         type: Ice/rock hybrid
         formationType: Captured
@@ -238,14 +238,14 @@ planets:
         radius: 104,566.1 km<br/>(16.413 Yrths)
         surface_area: 1.374 × 10<sup>11</sup> km<sup>2</sup><br/>(269.381 Yrths)
         volume: 4.789 × 10<sup>15</sup> km<sup>3</sup><br/>(4421.300 Yrths)
-        mass: 1.091 × 10<sup>28</sup> kg<br />(175.78720337588894 Yrths)
+        mass: 1.091 × 10<sup>28</sup> kg<br />(1827.352 Yrths)
         density: 2.279 g/cm<sup>3</sup>
         surface_gravity: 66.524 m/s<sup>2</sup><br />(6.784 g<sub>0</sub>)
         escape_velocity: 118.030 km/s<br />(424,909 km/h)
         rotation_period: 34.134 d
         axial_tilt: 15.99°
         albedo: 0.30
-        temperature: 535 K<br />(262 °C)
+        temperature: 399 K<br />(126 °C)
   - name: 2547 Noniashad II
     type: Gas giant
     aphelion: 640,402,675 km<br />4.281 AU
@@ -257,14 +257,14 @@ planets:
     radius: 222.7 km<br/>(0.035 Yrths)
     surface_area: 6.234 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.628 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.597 × 10<sup>27</sup> kg<br />(267.42882455367555 Yrths)
+    mass: 1.597 × 10<sup>27</sup> kg<br />(267.43 Yrths)
     density: 34510678.391 g/cm<sup>3</sup>
     surface_gravity: 2145952.783 m/s<sup>2</sup><br />(218826.285 g<sub>0</sub>)
     escape_velocity: 978.365 km/s<br />(3,522,114 km/h)
     rotation_period: 0.238 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1214 K<br />(941 °C)
+    temperature: 1186 K<br />(913 °C)
     composition:
       - 75.8570% hydrogen
       - 16.6383% helium
@@ -283,14 +283,14 @@ planets:
         radius: 105,193.9 km<br/>(16.511 Yrths)
         surface_area: 1.391 × 10<sup>11</sup> km<sup>2</sup><br/>(272.625 Yrths)
         volume: 4.876 × 10<sup>15</sup> km<sup>3</sup><br/>(4501.409 Yrths)
-        mass: 8.016 × 10<sup>27</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 8.016 × 10<sup>27</sup> kg<br />(1342.276 Yrths)
         density: 1.644 g/cm<sup>3</sup>
         surface_gravity: 48.283 m/s<sup>2</sup><br />(4.924 g<sub>0</sub>)
         escape_velocity: 100.856 km/s<br />(363,083 km/h)
         rotation_period: 68.379 d
         axial_tilt: 29.88°
         albedo: 0.30
-        temperature: 1777 K<br />(1504 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2547 Noniashad II b
         type: Icy
         formationType: Impact formed
@@ -303,14 +303,14 @@ planets:
         radius: 132,322.1 km<br/>(20.769 Yrths)
         surface_area: 2.200 × 10<sup>11</sup> km<sup>2</sup><br/>(431.370 Yrths)
         volume: 9.705 × 10<sup>15</sup> km<sup>3</sup><br/>(8959.312 Yrths)
-        mass: 6.793 × 10<sup>27</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 6.793 × 10<sup>27</sup> kg<br />(1137.534 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 25.860 m/s<sup>2</sup><br />(2.637 g<sub>0</sub>)
         escape_velocity: 82.783 km/s<br />(298,021 km/h)
         rotation_period: 106.637 d
         axial_tilt: 23.60°
         albedo: 0.30
-        temperature: 1694 K<br />(1421 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2547 Noniashad II c
         type: Icy
         formationType: Accreted
@@ -323,14 +323,14 @@ planets:
         radius: 188,569.8 km<br/>(29.598 Yrths)
         surface_area: 4.468 × 10<sup>11</sup> km<sup>2</sup><br/>(876.050 Yrths)
         volume: 2.809 × 10<sup>16</sup> km<sup>3</sup><br/>(25929.461 Yrths)
-        mass: 4.036 × 10<sup>28</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 4.036 × 10<sup>28</sup> kg<br />(6757.637 Yrths)
         density: 1.437 g/cm<sup>3</sup>
         surface_gravity: 75.646 m/s<sup>2</sup><br />(7.714 g<sub>0</sub>)
         escape_velocity: 169.020 km/s<br />(608,473 km/h)
         rotation_period: 42.282 d
         axial_tilt: 10.98°
         albedo: 0.30
-        temperature: 1615 K<br />(1342 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2547 Noniashad II d
         type: Rocky
         formationType: Captured
@@ -343,14 +343,14 @@ planets:
         radius: 92,864.1 km<br/>(14.576 Yrths)
         surface_area: 1.084 × 10<sup>11</sup> km<sup>2</sup><br/>(212.462 Yrths)
         volume: 3.355 × 10<sup>15</sup> km<sup>3</sup><br/>(3096.856 Yrths)
-        mass: 9.476 × 10<sup>27</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 9.476 × 10<sup>27</sup> kg<br />(1586.723 Yrths)
         density: 2.825 g/cm<sup>3</sup>
         surface_gravity: 73.239 m/s<sup>2</sup><br />(7.468 g<sub>0</sub>)
         escape_velocity: 116.709 km/s<br />(420,152 km/h)
         rotation_period: 40.595 d
         axial_tilt: 19.27°
         albedo: 0.30
-        temperature: 1468 K<br />(1195 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2547 Noniashad II e
         type: Icy
         formationType: Captured
@@ -363,14 +363,14 @@ planets:
         radius: 333,106.1 km<br/>(52.285 Yrths)
         surface_area: 1.394 × 10<sup>12</sup> km<sup>2</sup><br/>(2733.694 Yrths)
         volume: 1.548 × 10<sup>17</sup> km<sup>3</sup><br/>(142930.479 Yrths)
-        mass: 2.249 × 10<sup>29</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 2.249 × 10<sup>29</sup> kg<br />(37652.312 Yrths)
         density: 1.452 g/cm<sup>3</sup>
         surface_gravity: 135.071 m/s<sup>2</sup><br />(13.773 g<sub>0</sub>)
         escape_velocity: 300.180 km/s<br />(1,080,649 km/h)
         rotation_period: 43.010 d
         axial_tilt: 19.80°
         albedo: 0.30
-        temperature: 1400 K<br />(1127 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2547 Noniashad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -383,14 +383,14 @@ planets:
         radius: 128,017.9 km<br/>(20.094 Yrths)
         surface_area: 2.059 × 10<sup>11</sup> km<sup>2</sup><br/>(403.762 Yrths)
         volume: 8.788 × 10<sup>15</sup> km<sup>3</sup><br/>(8113.137 Yrths)
-        mass: 1.947 × 10<sup>28</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 1.947 × 10<sup>28</sup> kg<br />(3259.673 Yrths)
         density: 2.215 g/cm<sup>3</sup>
         surface_gravity: 79.172 m/s<sup>2</sup><br />(8.073 g<sub>0</sub>)
         escape_velocity: 142.472 km/s<br />(512,899 km/h)
         rotation_period: 34.227 d
         axial_tilt: 23.48°
         albedo: 0.30
-        temperature: 1335 K<br />(1062 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2547 Noniashad II g
         type: Dwarf planet
         formationType: Accreted
@@ -403,15 +403,35 @@ planets:
         radius: 147,464.5 km<br/>(23.146 Yrths)
         surface_area: 2.733 × 10<sup>11</sup> km<sup>2</sup><br/>(535.747 Yrths)
         volume: 1.343 × 10<sup>16</sup> km<sup>3</sup><br/>(12400.515 Yrths)
-        mass: 1.612 × 10<sup>28</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 1.612 × 10<sup>28</sup> kg<br />(2699.060 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 49.405 m/s<sup>2</sup><br />(5.038 g<sub>0</sub>)
         escape_velocity: 120.793 km/s<br />(434,853 km/h)
         rotation_period: 72.794 d
         axial_tilt: 27.47°
         albedo: 0.30
-        temperature: 1273 K<br />(1000 °C)
+        temperature: 284 K<br />(11 °C)
       - name: 2547 Noniashad II h
+        type: Icy
+        formationType: Accreted
+        aphelion: 31,364,714 km<br />
+        perihelion: 29,504,910 km<br />
+        semi_major_axis: 30,434,812 km<br />
+        eccentricity: 0.031
+        orbital_period: 0.03 d<br />
+        inclination: 3.04°
+        radius: 33,056.4 km<br/>(5.189 Yrths)
+        surface_area: 1.373 × 10<sup>10</sup> km<sup>2</sup><br/>(26.921 Yrths)
+        volume: 1.513 × 10<sup>14</sup> km<sup>3</sup><br/>(139.684 Yrths)
+        mass: 1.747 × 10<sup>26</sup> kg<br />(29.251 Yrths)
+        density: 1.155 g/cm<sup>3</sup>
+        surface_gravity: 10.655 m/s<sup>2</sup><br />(1.087 g<sub>0</sub>)
+        escape_velocity: 26.560 km/s<br />(95,615 km/h)
+        rotation_period: 52.969 d
+        axial_tilt: 9.59°
+        albedo: 0.30
+        temperature: 284 K<br />(11 °C)
+      - name: 2547 Noniashad II i
         type: Asteroid
         formationType: Captured
         aphelion: 38,421,063 km<br />
@@ -423,15 +443,15 @@ planets:
         radius: 108,155.8 km<br/>(16.976 Yrths)
         surface_area: 1.470 × 10<sup>11</sup> km<sup>2</sup><br/>(288.194 Yrths)
         volume: 5.300 × 10<sup>15</sup> km<sup>3</sup><br/>(4892.451 Yrths)
-        mass: 1.316 × 10<sup>28</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 1.316 × 10<sup>28</sup> kg<br />(2203.722 Yrths)
         density: 2.483 g/cm<sup>3</sup>
         surface_gravity: 74.988 m/s<sup>2</sup><br />(7.647 g<sub>0</sub>)
         escape_velocity: 127.447 km/s<br />(458,811 km/h)
         rotation_period: 41.982 d
         axial_tilt: 16.14°
         albedo: 0.30
-        temperature: 1103 K<br />(830 °C)
-      - name: 2547 Noniashad II i
+        temperature: 284 K<br />(11 °C)
+      - name: 2547 Noniashad II j
         type: Icy
         formationType: Accreted
         aphelion: 56,950,321 km<br />
@@ -443,15 +463,15 @@ planets:
         radius: 133,038.1 km<br/>(20.882 Yrths)
         surface_area: 2.224 × 10<sup>11</sup> km<sup>2</sup><br/>(436.051 Yrths)
         volume: 9.863 × 10<sup>15</sup> km<sup>3</sup><br/>(9105.532 Yrths)
-        mass: 1.362 × 10<sup>28</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 1.362 × 10<sup>28</sup> kg<br />(2280.383 Yrths)
         density: 1.381 g/cm<sup>3</sup>
         surface_gravity: 51.285 m/s<sup>2</sup><br />(5.230 g<sub>0</sub>)
         escape_velocity: 116.894 km/s<br />(420,820 km/h)
         rotation_period: 78.132 d
         axial_tilt: 15.36°
         albedo: 0.30
-        temperature: 912 K<br />(639 °C)
-      - name: 2547 Noniashad II j
+        temperature: 284 K<br />(11 °C)
+      - name: 2547 Noniashad II k
         type: Ice/rock hybrid
         formationType: Impact formed
         aphelion: 100,022,796 km<br />
@@ -463,15 +483,15 @@ planets:
         radius: 131,765.5 km<br/>(20.682 Yrths)
         surface_area: 2.182 × 10<sup>11</sup> km<sup>2</sup><br/>(427.748 Yrths)
         volume: 9.583 × 10<sup>15</sup> km<sup>3</sup><br/>(8846.720 Yrths)
-        mass: 1.786 × 10<sup>28</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 1.786 × 10<sup>28</sup> kg<br />(2991.048 Yrths)
         density: 1.864 g/cm<sup>3</sup>
         surface_gravity: 68.573 m/s<sup>2</sup><br />(6.993 g<sub>0</sub>)
         escape_velocity: 134.521 km/s<br />(484,274 km/h)
         rotation_period: 58.438 d
         axial_tilt: 15.75°
         albedo: 0.30
-        temperature: 753 K<br />(480 °C)
-      - name: 2547 Noniashad II k
+        temperature: 284 K<br />(11 °C)
+      - name: 2547 Noniashad II l
         type: Icy
         formationType: Captured
         aphelion: 97,423,707 km<br />
@@ -483,12 +503,12 @@ planets:
         radius: 113,544.0 km<br/>(17.822 Yrths)
         surface_area: 1.620 × 10<sup>11</sup> km<sup>2</sup><br/>(317.624 Yrths)
         volume: 6.132 × 10<sup>15</sup> km<sup>3</sup><br/>(5660.689 Yrths)
-        mass: 9.891 × 10<sup>27</sup> kg<br />(267.42882455367555 Yrths)
+        mass: 9.891 × 10<sup>27</sup> kg<br />(1656.159 Yrths)
         density: 1.613 g/cm<sup>3</sup>
         surface_gravity: 51.134 m/s<sup>2</sup><br />(5.214 g<sub>0</sub>)
         escape_velocity: 107.832 km/s<br />(388,194 km/h)
         rotation_period: 51.441 d
         axial_tilt: 24.25°
         albedo: 0.30
-        temperature: 718 K<br />(445 °C)
+        temperature: 284 K<br />(11 °C)
 ---

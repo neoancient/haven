@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0113 Nuaniad A is a star in the constellation Nuani
+      0113 Nuaniad A is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 238.78 ly
 apparent_magnitude: 6.44
 absolute_magnitude: 2.11

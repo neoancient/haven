@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Ailnishi B is a star in the constellation Nishi
+      Ailnishi B is a star in the constellation <a href="nishi.html">Nishi</a>
 distance: 56.02 ly
 apparent_magnitude: 11.31
 absolute_magnitude: 10.13

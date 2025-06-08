@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ω Noniashad is a star in the constellation Nonias
+      ω Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 544.53 ly
 apparent_magnitude: 6.28
 absolute_magnitude: 0.17
@@ -31,14 +31,14 @@ planets:
     radius: 10,400.0 km<br/>(1.632 Yrths)
     surface_area: 1.359 × 10<sup>09</sup> km<sup>2</sup><br/>(2.665 Yrths)
     volume: 4.712 × 10<sup>12</sup> km<sup>3</sup><br/>(4.350 Yrths)
-    mass: 2.790 × 10<sup>25</sup> kg<br />(4.671194061263921 Yrths)
+    mass: 2.790 × 10<sup>25</sup> kg<br />(4.67 Yrths)
     density: 5.920 g/cm<sup>3</sup>
     surface_gravity: 17.191 m/s<sup>2</sup><br />(1.753 g<sub>0</sub>)
     escape_velocity: 18.922 km/s<br />(68,120 km/h)
     rotation_period: 0.636 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 568 K<br />(294 °C)
+    temperature: 848 K<br />(574 °C)
     surface_pressure: 1,640 kPa<br />(16 atm)
     composition:
       - 79.0821% methane
@@ -59,12 +59,12 @@ planets:
         radius: 7,565.9 km<br/>(1.188 Yrths)
         surface_area: 7.193 × 10<sup>08</sup> km<sup>2</sup><br/>(1.410 Yrths)
         volume: 1.814 × 10<sup>12</sup> km<sup>3</sup><br/>(1.675 Yrths)
-        mass: 5.295 × 10<sup>24</sup> kg<br />(4.671194061263921 Yrths)
+        mass: 5.295 × 10<sup>24</sup> kg<br />(0.887 Yrths)
         density: 2.919 g/cm<sup>3</sup>
         surface_gravity: 6.166 m/s<sup>2</sup><br />(0.629 g<sub>0</sub>)
         escape_velocity: 9.666 km/s<br />(34,797 km/h)
         rotation_period: 36.065 d
         axial_tilt: 23.95°
         albedo: 0.30
-        temperature: 5054 K<br />(4781 °C)
+        temperature: 368 K<br />(95 °C)
 ---

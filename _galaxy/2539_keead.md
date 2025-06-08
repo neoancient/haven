@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2539 Keead is a star in the constellation Kee
+      2539 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 453.27 ly
 apparent_magnitude: 12.18
 absolute_magnitude: 6.47

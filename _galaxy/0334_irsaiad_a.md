@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0334 Irsaiad A is a star in the constellation Irsa
+      0334 Irsaiad A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 1505.82 ly
 apparent_magnitude: 6.12
 absolute_magnitude: -2.20

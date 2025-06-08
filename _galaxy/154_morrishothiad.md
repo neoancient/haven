@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      154 Morrishothiad is a star in the constellation Morrishoth
+      154 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 695.33 ly
 apparent_magnitude: 11.37
 absolute_magnitude: 4.72

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2720 Lunaiad is a star in the constellation Luna
+      2720 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 432.70 ly
 apparent_magnitude: 10.58
 absolute_magnitude: 4.96

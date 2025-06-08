@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5170 Tanashad is a star in the constellation Tanas
+      5170 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 336.15 ly
 apparent_magnitude: 10.03
 absolute_magnitude: 4.96

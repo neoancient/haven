@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      786 Noniashad is a star in the constellation Nonias
+      786 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 644.07 ly
 apparent_magnitude: 12.11
 absolute_magnitude: 5.63

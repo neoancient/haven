@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      κ Lelniad B is a star in the constellation Leln
+      κ Lelniad B is a star in the constellation <a href="leln.html">Leln</a>
 distance: 2558.23 ly
 apparent_magnitude: 4.97
 absolute_magnitude: -4.50

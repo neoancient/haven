@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      199 Tanashad is a star in the constellation Tanas
+      199 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 239.94 ly
 apparent_magnitude: 10.19
 absolute_magnitude: 5.86

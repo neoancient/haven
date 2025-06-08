@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1606 Lunaiad A is a star in the constellation Luna
+      1606 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 215.15 ly
 apparent_magnitude: 7.25
 absolute_magnitude: 3.16

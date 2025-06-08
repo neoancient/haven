@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1345 Lunaiad A is a star in the constellation Luna
+      1345 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 821.25 ly
 apparent_magnitude: 7.24
 absolute_magnitude: 0.23

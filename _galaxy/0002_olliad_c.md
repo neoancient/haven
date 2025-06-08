@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Olliad C is a star in the constellation Ol
+      0002 Olliad C is a star in the constellation <a href="ol.html">Ol</a>
 distance: 232.37 ly
 apparent_magnitude: 10.13
 absolute_magnitude: 5.87
@@ -31,14 +31,14 @@ planets:
     radius: 7,870.4 km<br/>(1.235 Yrths)
     surface_area: 7.784 × 10<sup>08</sup> km<sup>2</sup><br/>(1.526 Yrths)
     volume: 2.042 × 10<sup>12</sup> km<sup>3</sup><br/>(1.885 Yrths)
-    mass: 1.157 × 10<sup>25</sup> kg<br />(1.9367717715564658 Yrths)
+    mass: 1.157 × 10<sup>25</sup> kg<br />(1.94 Yrths)
     density: 5.664 g/cm<sup>3</sup>
     surface_gravity: 12.446 m/s<sup>2</sup><br />(1.269 g<sub>0</sub>)
     escape_velocity: 14.006 km/s<br />(50,422 km/h)
     rotation_period: 1.100 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 313 K<br />(40 °C)
+    temperature: 418 K<br />(145 °C)
     surface_pressure: 128 kPa<br />(1 atm)
     composition:
       - 80.2569% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 2,188.5 km<br/>(0.344 Yrths)
         surface_area: 6.019 × 10<sup>07</sup> km<sup>2</sup><br/>(0.118 Yrths)
         volume: 4.391 × 10<sup>10</sup> km<sup>3</sup><br/>(0.041 Yrths)
-        mass: 1.504 × 10<sup>23</sup> kg<br />(1.9367717715564658 Yrths)
+        mass: 1.504 × 10<sup>23</sup> kg<br />(0.025 Yrths)
         density: 3.425 g/cm<sup>3</sup>
         surface_gravity: 2.093 m/s<sup>2</sup><br />(0.213 g<sub>0</sub>)
         escape_velocity: 3.029 km/s<br />(10,904 km/h)
         rotation_period: 44.261 d
         axial_tilt: 18.84°
         albedo: 0.30
-        temperature: 3365 K<br />(3092 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0002 Olliad C I b
         type: Dwarf planet
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 3,880.8 km<br/>(0.609 Yrths)
         surface_area: 1.893 × 10<sup>08</sup> km<sup>2</sup><br/>(0.371 Yrths)
         volume: 2.448 × 10<sup>11</sup> km<sup>3</sup><br/>(0.226 Yrths)
-        mass: 4.406 × 10<sup>23</sup> kg<br />(1.9367717715564658 Yrths)
+        mass: 4.406 × 10<sup>23</sup> kg<br />(0.074 Yrths)
         density: 1.800 g/cm<sup>3</sup>
         surface_gravity: 1.950 m/s<sup>2</sup><br />(0.199 g<sub>0</sub>)
         escape_velocity: 3.893 km/s<br />(14,014 km/h)
         rotation_period: 45.828 d
         axial_tilt: 39.03°
         albedo: 0.30
-        temperature: 3209 K<br />(2935 °C)
+        temperature: 245 K<br />(-28 °C)
       - name: 0002 Olliad C I c
         type: Rocky
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 4,004.0 km<br/>(0.628 Yrths)
         surface_area: 2.015 × 10<sup>08</sup> km<sup>2</sup><br/>(0.395 Yrths)
         volume: 2.689 × 10<sup>11</sup> km<sup>3</sup><br/>(0.248 Yrths)
-        mass: 7.307 × 10<sup>23</sup> kg<br />(1.9367717715564658 Yrths)
+        mass: 7.307 × 10<sup>23</sup> kg<br />(0.122 Yrths)
         density: 2.717 g/cm<sup>3</sup>
         surface_gravity: 3.038 m/s<sup>2</sup><br />(0.310 g<sub>0</sub>)
         escape_velocity: 4.935 km/s<br />(17,768 km/h)
         rotation_period: 42.440 d
         axial_tilt: 19.30°
         albedo: 0.30
-        temperature: 3059 K<br />(2786 °C)
+        temperature: 245 K<br />(-28 °C)
   - name: 0002 Olliad C II
     type: Large terrestrial
     aphelion: 334,323,007 km<br />2.235 AU
@@ -116,14 +116,14 @@ planets:
     radius: 11,109.6 km<br/>(1.744 Yrths)
     surface_area: 1.551 × 10<sup>09</sup> km<sup>2</sup><br/>(3.041 Yrths)
     volume: 5.744 × 10<sup>12</sup> km<sup>3</sup><br/>(5.302 Yrths)
-    mass: 3.479 × 10<sup>25</sup> kg<br />(5.826096930879022 Yrths)
+    mass: 3.479 × 10<sup>25</sup> kg<br />(5.83 Yrths)
     density: 6.058 g/cm<sup>3</sup>
     surface_gravity: 18.790 m/s<sup>2</sup><br />(1.916 g<sub>0</sub>)
     escape_velocity: 20.446 km/s<br />(73,607 km/h)
     rotation_period: 0.723 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 222 K<br />(-52 °C)
+    temperature: 281 K<br />(8 °C)
     surface_pressure: 54 kPa<br />(1 atm)
     composition:
       - 94.5923% methane
@@ -143,14 +143,14 @@ planets:
         radius: 4,083.2 km<br/>(0.641 Yrths)
         surface_area: 2.095 × 10<sup>08</sup> km<sup>2</sup><br/>(0.411 Yrths)
         volume: 2.852 × 10<sup>11</sup> km<sup>3</sup><br/>(0.263 Yrths)
-        mass: 8.016 × 10<sup>23</sup> kg<br />(5.826096930879022 Yrths)
+        mass: 8.016 × 10<sup>23</sup> kg<br />(0.134 Yrths)
         density: 2.811 g/cm<sup>3</sup>
         surface_gravity: 3.205 m/s<sup>2</sup><br />(0.327 g<sub>0</sub>)
         escape_velocity: 5.119 km/s<br />(18,429 km/h)
         rotation_period: 31.151 d
         axial_tilt: 60.68°
         albedo: 0.30
-        temperature: 2093 K<br />(1820 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: 0002 Olliad C II b
         type: Rocky
         formationType: Captured
@@ -163,14 +163,14 @@ planets:
         radius: 6,129.0 km<br/>(0.962 Yrths)
         surface_area: 4.720 × 10<sup>08</sup> km<sup>2</sup><br/>(0.925 Yrths)
         volume: 9.644 × 10<sup>11</sup> km<sup>3</sup><br/>(0.890 Yrths)
-        mass: 2.559 × 10<sup>24</sup> kg<br />(5.826096930879022 Yrths)
+        mass: 2.559 × 10<sup>24</sup> kg<br />(0.428 Yrths)
         density: 2.653 g/cm<sup>3</sup>
         surface_gravity: 4.541 m/s<sup>2</sup><br />(0.463 g<sub>0</sub>)
         escape_velocity: 7.465 km/s<br />(26,876 km/h)
         rotation_period: 53.893 d
         axial_tilt: 16.21°
         albedo: 0.30
-        temperature: 1996 K<br />(1722 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: 0002 Olliad C II c
         type: Asteroid
         formationType: Captured
@@ -183,12 +183,12 @@ planets:
         radius: 11,865.9 km<br/>(1.862 Yrths)
         surface_area: 1.769 × 10<sup>09</sup> km<sup>2</sup><br/>(3.469 Yrths)
         volume: 6.998 × 10<sup>12</sup> km<sup>3</sup><br/>(6.461 Yrths)
-        mass: 1.363 × 10<sup>25</sup> kg<br />(5.826096930879022 Yrths)
+        mass: 1.363 × 10<sup>25</sup> kg<br />(2.282 Yrths)
         density: 1.948 g/cm<sup>3</sup>
         surface_gravity: 6.452 m/s<sup>2</sup><br />(0.658 g<sub>0</sub>)
         escape_velocity: 12.383 km/s<br />(44,577 km/h)
         rotation_period: 55.480 d
         axial_tilt: 16.52°
         albedo: 0.30
-        temperature: 1903 K<br />(1630 °C)
+        temperature: 185 K<br />(-88 °C)
 ---

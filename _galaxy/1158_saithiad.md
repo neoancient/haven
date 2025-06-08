@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1158 Saithiad is a star in the constellation Saith
+      1158 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1094.29 ly
 apparent_magnitude: 13.98
 absolute_magnitude: 6.35

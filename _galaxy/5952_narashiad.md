@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5952 Narashiad is a star in the constellation Naras
+      5952 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 197.84 ly
 apparent_magnitude: 8.66
 absolute_magnitude: 4.75

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      947 Athiad A is a star in the constellation Ath
+      947 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 341.17 ly
 apparent_magnitude: 11.39
 absolute_magnitude: 6.29

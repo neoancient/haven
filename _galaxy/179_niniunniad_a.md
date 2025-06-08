@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      179 Niniunniad A is a star in the constellation Niniun
+      179 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 302.29 ly
 apparent_magnitude: 7.72
 absolute_magnitude: 2.88

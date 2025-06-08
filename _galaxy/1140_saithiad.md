@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1140 Saithiad is a star in the constellation Saith
+      1140 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 854.46 ly
 apparent_magnitude: 11.28
 absolute_magnitude: 4.19

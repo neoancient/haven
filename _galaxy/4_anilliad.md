@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4 Anilliad is a star in the constellation Anil
+      4 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 156.07 ly
 apparent_magnitude: 8.80
 absolute_magnitude: 5.40

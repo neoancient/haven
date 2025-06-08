@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10919 Dialkeshiad is a star in the constellation Dialkes
+      10919 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 128.60 ly
 apparent_magnitude: 10.82
 absolute_magnitude: 7.84
@@ -31,14 +31,14 @@ planets:
     radius: 5,485.3 km<br/>(0.861 Yrths)
     surface_area: 3.781 × 10<sup>08</sup> km<sup>2</sup><br/>(0.741 Yrths)
     volume: 6.914 × 10<sup>11</sup> km<sup>3</sup><br/>(0.638 Yrths)
-    mass: 4.381 × 10<sup>24</sup> kg<br />(0.7336607761678606 Yrths)
+    mass: 4.381 × 10<sup>24</sup> kg<br />(0.73 Yrths)
     density: 6.337 g/cm<sup>3</sup>
     surface_gravity: 9.706 m/s<sup>2</sup><br />(0.990 g<sub>0</sub>)
     escape_velocity: 10.326 km/s<br />(37,173 km/h)
     rotation_period: 4.076 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 355 K<br />(82 °C)
+    temperature: 463 K<br />(190 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 81.7039% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 1,581.2 km<br/>(0.248 Yrths)
         surface_area: 3.142 × 10<sup>07</sup> km<sup>2</sup><br/>(0.062 Yrths)
         volume: 1.656 × 10<sup>10</sup> km<sup>3</sup><br/>(0.015 Yrths)
-        mass: 5.102 × 10<sup>22</sup> kg<br />(0.7336607761678606 Yrths)
+        mass: 5.102 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 3.081 g/cm<sup>3</sup>
         surface_gravity: 1.360 m/s<sup>2</sup><br />(0.139 g<sub>0</sub>)
         escape_velocity: 2.075 km/s<br />(7,471 km/h)
         rotation_period: 34.801 d
         axial_tilt: 11.33°
         albedo: 0.30
-        temperature: 4566 K<br />(4293 °C)
+        temperature: 320 K<br />(46 °C)
   - name: 10919 Dialkeshiad II
     type: Ice giant
     aphelion: 53,103,771 km<br />0.355 AU
@@ -76,14 +76,14 @@ planets:
     radius: 13,996.4 km<br/>(2.197 Yrths)
     surface_area: 2.462 × 10<sup>09</sup> km<sup>2</sup><br/>(4.826 Yrths)
     volume: 1.149 × 10<sup>13</sup> km<sup>3</sup><br/>(10.603 Yrths)
-    mass: 1.468 × 10<sup>25</sup> kg<br />(2.4587734665397334 Yrths)
+    mass: 1.468 × 10<sup>25</sup> kg<br />(2.46 Yrths)
     density: 1.279 g/cm<sup>3</sup>
     surface_gravity: 4.996 m/s<sup>2</sup><br />(0.509 g<sub>0</sub>)
     escape_velocity: 11.834 km/s<br />(42,602 km/h)
     rotation_period: 1.393 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 467 K<br />(194 °C)
+    temperature: 429 K<br />(156 °C)
     composition:
       - 78.3434% hydrogen
       - 19.7580% helium
@@ -102,14 +102,14 @@ planets:
         radius: 7,954.5 km<br/>(1.249 Yrths)
         surface_area: 7.951 × 10<sup>08</sup> km<sup>2</sup><br/>(1.559 Yrths)
         volume: 2.108 × 10<sup>12</sup> km<sup>3</sup><br/>(1.946 Yrths)
-        mass: 2.604 × 10<sup>24</sup> kg<br />(2.4587734665397334 Yrths)
+        mass: 2.604 × 10<sup>24</sup> kg<br />(0.436 Yrths)
         density: 1.235 g/cm<sup>3</sup>
         surface_gravity: 2.743 m/s<sup>2</sup><br />(0.280 g<sub>0</sub>)
         escape_velocity: 6.610 km/s<br />(23,796 km/h)
         rotation_period: 52.379 d
         axial_tilt: 22.19°
         albedo: 0.30
-        temperature: 2905 K<br />(2632 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 10919 Dialkeshiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -122,14 +122,14 @@ planets:
         radius: 6,259.4 km<br/>(0.982 Yrths)
         surface_area: 4.924 × 10<sup>08</sup> km<sup>2</sup><br/>(0.965 Yrths)
         volume: 1.027 × 10<sup>12</sup> km<sup>3</sup><br/>(0.948 Yrths)
-        mass: 2.375 × 10<sup>24</sup> kg<br />(2.4587734665397334 Yrths)
+        mass: 2.375 × 10<sup>24</sup> kg<br />(0.398 Yrths)
         density: 2.312 g/cm<sup>3</sup>
         surface_gravity: 4.040 m/s<sup>2</sup><br />(0.412 g<sub>0</sub>)
         escape_velocity: 7.117 km/s<br />(25,621 km/h)
         rotation_period: 38.918 d
         axial_tilt: 14.00°
         albedo: 0.30
-        temperature: 2770 K<br />(2497 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 10919 Dialkeshiad II c
         type: Icy
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 8,242.5 km<br/>(1.294 Yrths)
         surface_area: 8.537 × 10<sup>08</sup> km<sup>2</sup><br/>(1.674 Yrths)
         volume: 2.346 × 10<sup>12</sup> km<sup>3</sup><br/>(2.165 Yrths)
-        mass: 3.638 × 10<sup>24</sup> kg<br />(2.4587734665397334 Yrths)
+        mass: 3.638 × 10<sup>24</sup> kg<br />(0.609 Yrths)
         density: 1.551 g/cm<sup>3</sup>
         surface_gravity: 3.569 m/s<sup>2</sup><br />(0.364 g<sub>0</sub>)
         escape_velocity: 7.676 km/s<br />(27,632 km/h)
         rotation_period: 39.957 d
         axial_tilt: 7.85°
         albedo: 0.30
-        temperature: 2518 K<br />(2245 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 10919 Dialkeshiad II d
         type: Icy
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 5,789.1 km<br/>(0.909 Yrths)
         surface_area: 4.212 × 10<sup>08</sup> km<sup>2</sup><br/>(0.826 Yrths)
         volume: 8.127 × 10<sup>11</sup> km<sup>3</sup><br/>(0.750 Yrths)
-        mass: 1.398 × 10<sup>24</sup> kg<br />(2.4587734665397334 Yrths)
+        mass: 1.398 × 10<sup>24</sup> kg<br />(0.234 Yrths)
         density: 1.720 g/cm<sup>3</sup>
         surface_gravity: 2.779 m/s<sup>2</sup><br />(0.283 g<sub>0</sub>)
         escape_velocity: 5.677 km/s<br />(20,436 km/h)
         rotation_period: 55.332 d
         axial_tilt: 20.24°
         albedo: 0.30
-        temperature: 2401 K<br />(2128 °C)
+        temperature: 259 K<br />(-14 °C)
       - name: 10919 Dialkeshiad II e
         type: Icy
         formationType: Captured
@@ -182,14 +182,14 @@ planets:
         radius: 7,041.9 km<br/>(1.105 Yrths)
         surface_area: 6.232 × 10<sup>08</sup> km<sup>2</sup><br/>(1.222 Yrths)
         volume: 1.463 × 10<sup>12</sup> km<sup>3</sup><br/>(1.350 Yrths)
-        mass: 1.960 × 10<sup>24</sup> kg<br />(2.4587734665397334 Yrths)
+        mass: 1.960 × 10<sup>24</sup> kg<br />(0.328 Yrths)
         density: 1.340 g/cm<sup>3</sup>
         surface_gravity: 2.635 m/s<sup>2</sup><br />(0.269 g<sub>0</sub>)
         escape_velocity: 6.096 km/s<br />(21,944 km/h)
         rotation_period: 55.921 d
         axial_tilt: 14.13°
         albedo: 0.30
-        temperature: 2289 K<br />(2016 °C)
+        temperature: 259 K<br />(-14 °C)
   - name: 10919 Dialkeshiad III
     type: Terrestrial
     aphelion: 81,060,541 km<br />0.542 AU
@@ -201,14 +201,14 @@ planets:
     radius: 6,781.3 km<br/>(1.064 Yrths)
     surface_area: 5.779 × 10<sup>08</sup> km<sup>2</sup><br/>(1.133 Yrths)
     volume: 1.306 × 10<sup>12</sup> km<sup>3</sup><br/>(1.206 Yrths)
-    mass: 6.361 × 10<sup>24</sup> kg<br />(1.0651986039315433 Yrths)
+    mass: 6.361 × 10<sup>24</sup> kg<br />(1.07 Yrths)
     density: 4.870 g/cm<sup>3</sup>
     surface_gravity: 9.220 m/s<sup>2</sup><br />(0.940 g<sub>0</sub>)
     escape_velocity: 11.190 km/s<br />(40,285 km/h)
     rotation_period: 1.801 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 261 K<br />(-12 °C)
+    temperature: 558 K<br />(285 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 45.6131% carbon dioxide
@@ -227,14 +227,14 @@ planets:
         radius: 2,234.4 km<br/>(0.351 Yrths)
         surface_area: 6.274 × 10<sup>07</sup> km<sup>2</sup><br/>(0.123 Yrths)
         volume: 4.673 × 10<sup>10</sup> km<sup>3</sup><br/>(0.043 Yrths)
-        mass: 9.952 × 10<sup>22</sup> kg<br />(1.0651986039315433 Yrths)
+        mass: 9.952 × 10<sup>22</sup> kg<br />(0.017 Yrths)
         density: 2.130 g/cm<sup>3</sup>
         surface_gravity: 1.329 m/s<sup>2</sup><br />(0.135 g<sub>0</sub>)
         escape_velocity: 2.438 km/s<br />(8,778 km/h)
         rotation_period: 54.838 d
         axial_tilt: 14.06°
         albedo: 0.30
-        temperature: 3139 K<br />(2866 °C)
+        temperature: 210 K<br />(-64 °C)
   - name: 10919 Dialkeshiad IV
     type: Large terrestrial
     aphelion: 124,755,438 km<br />0.834 AU
@@ -246,14 +246,14 @@ planets:
     radius: 9,777.9 km<br/>(1.535 Yrths)
     surface_area: 1.201 × 10<sup>09</sup> km<sup>2</sup><br/>(2.355 Yrths)
     volume: 3.916 × 10<sup>12</sup> km<sup>3</sup><br/>(3.615 Yrths)
-    mass: 2.525 × 10<sup>25</sup> kg<br />(4.228613687190202 Yrths)
+    mass: 2.525 × 10<sup>25</sup> kg<br />(4.23 Yrths)
     density: 6.449 g/cm<sup>3</sup>
     surface_gravity: 17.605 m/s<sup>2</sup><br />(1.795 g<sub>0</sub>)
     escape_velocity: 18.568 km/s<br />(66,843 km/h)
     rotation_period: 0.908 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 213 K<br />(-60 °C)
+    temperature: 208 K<br />(-65 °C)
     surface_pressure: 189 kPa<br />(2 atm)
     composition:
       - 70.0256% nitrogen
@@ -273,14 +273,14 @@ planets:
         radius: 8,075.1 km<br/>(1.267 Yrths)
         surface_area: 8.194 × 10<sup>08</sup> km<sup>2</sup><br/>(1.607 Yrths)
         volume: 2.206 × 10<sup>12</sup> km<sup>3</sup><br/>(2.036 Yrths)
-        mass: 4.387 × 10<sup>24</sup> kg<br />(4.228613687190202 Yrths)
+        mass: 4.387 × 10<sup>24</sup> kg<br />(0.735 Yrths)
         density: 1.989 g/cm<sup>3</sup>
         surface_gravity: 4.484 m/s<sup>2</sup><br />(0.457 g<sub>0</sub>)
         escape_velocity: 8.515 km/s<br />(30,655 km/h)
         rotation_period: 57.731 d
         axial_tilt: 20.69°
         albedo: 0.30
-        temperature: 1761 K<br />(1488 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: 10919 Dialkeshiad IV b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -293,14 +293,14 @@ planets:
         radius: 8,259.6 km<br/>(1.296 Yrths)
         surface_area: 8.573 × 10<sup>08</sup> km<sup>2</sup><br/>(1.681 Yrths)
         volume: 2.360 × 10<sup>12</sup> km<sup>3</sup><br/>(2.179 Yrths)
-        mass: 4.517 × 10<sup>24</sup> kg<br />(4.228613687190202 Yrths)
+        mass: 4.517 × 10<sup>24</sup> kg<br />(0.756 Yrths)
         density: 1.914 g/cm<sup>3</sup>
         surface_gravity: 4.414 m/s<sup>2</sup><br />(0.450 g<sub>0</sub>)
         escape_velocity: 8.544 km/s<br />(30,760 km/h)
         rotation_period: 40.493 d
         axial_tilt: 22.78°
         albedo: 0.30
-        temperature: 1679 K<br />(1406 °C)
+        temperature: 170 K<br />(-103 °C)
   - name: 10919 Dialkeshiad V
     type: Terrestrial
     aphelion: 186,145,017 km<br />1.244 AU
@@ -312,14 +312,14 @@ planets:
     radius: 6,355.2 km<br/>(0.998 Yrths)
     surface_area: 5.075 × 10<sup>08</sup> km<sup>2</sup><br/>(0.995 Yrths)
     volume: 1.075 × 10<sup>12</sup> km<sup>3</sup><br/>(0.993 Yrths)
-    mass: 4.664 × 10<sup>24</sup> kg<br />(0.7809716159092093 Yrths)
+    mass: 4.664 × 10<sup>24</sup> kg<br />(0.78 Yrths)
     density: 4.338 g/cm<sup>3</sup>
     surface_gravity: 7.697 m/s<sup>2</sup><br />(0.785 g<sub>0</sub>)
     escape_velocity: 9.898 km/s<br />(35,631 km/h)
     rotation_period: 1.292 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 155 K<br />(-118 °C)
+    temperature: 181 K<br />(-92 °C)
     surface_pressure: 19 kPa<br />(0 atm)
     composition:
       - 54.1718% methane
@@ -338,14 +338,14 @@ planets:
         radius: 1,416.8 km<br/>(0.222 Yrths)
         surface_area: 2.522 × 10<sup>07</sup> km<sup>2</sup><br/>(0.049 Yrths)
         volume: 1.191 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 2.916 × 10<sup>22</sup> kg<br />(0.7809716159092093 Yrths)
+        mass: 2.916 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.448 g/cm<sup>3</sup>
         surface_gravity: 0.968 m/s<sup>2</sup><br />(0.099 g<sub>0</sub>)
         escape_velocity: 1.657 km/s<br />(5,967 km/h)
         rotation_period: 40.745 d
         axial_tilt: 59.45°
         albedo: 0.30
-        temperature: 1919 K<br />(1646 °C)
+        temperature: 138 K<br />(-136 °C)
       - name: 10919 Dialkeshiad V b
         type: Rocky
         formationType: Captured
@@ -358,14 +358,14 @@ planets:
         radius: 1,867.5 km<br/>(0.293 Yrths)
         surface_area: 4.383 × 10<sup>07</sup> km<sup>2</sup><br/>(0.086 Yrths)
         volume: 2.728 × 10<sup>10</sup> km<sup>3</sup><br/>(0.025 Yrths)
-        mass: 7.422 × 10<sup>22</sup> kg<br />(0.7809716159092093 Yrths)
+        mass: 7.422 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 2.720 g/cm<sup>3</sup>
         surface_gravity: 1.418 m/s<sup>2</sup><br />(0.145 g<sub>0</sub>)
         escape_velocity: 2.303 km/s<br />(8,292 km/h)
         rotation_period: 52.297 d
         axial_tilt: 13.05°
         albedo: 0.30
-        temperature: 1830 K<br />(1557 °C)
+        temperature: 138 K<br />(-136 °C)
   - name: 10919 Dialkeshiad VI
     type: Terrestrial
     aphelion: 287,042,868 km<br />1.919 AU
@@ -377,14 +377,14 @@ planets:
     radius: 6,527.1 km<br/>(1.024 Yrths)
     surface_area: 5.354 × 10<sup>08</sup> km<sup>2</sup><br/>(1.050 Yrths)
     volume: 1.165 × 10<sup>12</sup> km<sup>3</sup><br/>(1.075 Yrths)
-    mass: 5.347 × 10<sup>24</sup> kg<br />(0.8953482333854255 Yrths)
+    mass: 5.347 × 10<sup>24</sup> kg<br />(0.90 Yrths)
     density: 4.591 g/cm<sup>3</sup>
     surface_gravity: 8.366 m/s<sup>2</sup><br />(0.853 g<sub>0</sub>)
     escape_velocity: 10.457 km/s<br />(37,646 km/h)
     rotation_period: 1.127 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 125 K<br />(-148 °C)
+    temperature: 115 K<br />(-158 °C)
     surface_pressure: 31 kPa<br />(0 atm)
     composition:
       - 95.0725% nitrogen
@@ -403,14 +403,14 @@ planets:
         radius: 2,100.5 km<br/>(0.330 Yrths)
         surface_area: 5.544 × 10<sup>07</sup> km<sup>2</sup><br/>(0.109 Yrths)
         volume: 3.882 × 10<sup>10</sup> km<sup>3</sup><br/>(0.036 Yrths)
-        mass: 1.173 × 10<sup>23</sup> kg<br />(0.8953482333854255 Yrths)
+        mass: 1.173 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 3.022 g/cm<sup>3</sup>
         surface_gravity: 1.772 m/s<sup>2</sup><br />(0.181 g<sub>0</sub>)
         escape_velocity: 2.730 km/s<br />(9,829 km/h)
         rotation_period: 35.390 d
         axial_tilt: 23.43°
         albedo: 0.30
-        temperature: 1478 K<br />(1205 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 10919 Dialkeshiad VI b
         type: Asteroid
         formationType: Captured
@@ -423,12 +423,12 @@ planets:
         radius: 2,477.2 km<br/>(0.389 Yrths)
         surface_area: 7.712 × 10<sup>07</sup> km<sup>2</sup><br/>(0.151 Yrths)
         volume: 6.368 × 10<sup>10</sup> km<sup>3</sup><br/>(0.059 Yrths)
-        mass: 1.691 × 10<sup>23</sup> kg<br />(0.8953482333854255 Yrths)
+        mass: 1.691 × 10<sup>23</sup> kg<br />(0.028 Yrths)
         density: 2.656 g/cm<sup>3</sup>
         surface_gravity: 1.837 m/s<sup>2</sup><br />(0.187 g<sub>0</sub>)
         escape_velocity: 3.019 km/s<br />(10,868 km/h)
         rotation_period: 46.029 d
         axial_tilt: 43.85°
         albedo: 0.30
-        temperature: 1409 K<br />(1136 °C)
+        temperature: 111 K<br />(-162 °C)
 ---

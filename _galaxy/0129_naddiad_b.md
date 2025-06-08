@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0129 Naddiad B is a star in the constellation Naddi
+      0129 Naddiad B is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 388.50 ly
 apparent_magnitude: 10.35
 absolute_magnitude: 4.97

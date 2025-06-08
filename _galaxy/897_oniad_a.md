@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      897 Oniad A is a star in the constellation Oni
+      897 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 728.63 ly
 apparent_magnitude: 7.45
 absolute_magnitude: 0.70

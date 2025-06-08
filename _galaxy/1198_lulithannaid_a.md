@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1198 Lulithannaid A is a star in the constellation Lulithan
+      1198 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 389.40 ly
 apparent_magnitude: 8.04
 absolute_magnitude: 2.65

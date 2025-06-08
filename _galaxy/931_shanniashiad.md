@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      931 Shanniashiad is a star in the constellation Shannias
+      931 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 761.64 ly
 apparent_magnitude: 11.70
 absolute_magnitude: 4.86

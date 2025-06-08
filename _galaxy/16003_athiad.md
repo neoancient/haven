@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16003 Athiad is a star in the constellation Ath
+      16003 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 812.15 ly
 apparent_magnitude: 11.68
 absolute_magnitude: 4.70

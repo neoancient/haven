@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3081 Oniad is a star in the constellation Oni
+      3081 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 240.41 ly
 apparent_magnitude: 10.64
 absolute_magnitude: 6.30

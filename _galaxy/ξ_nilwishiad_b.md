@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ξ Nilwishiad B is a star in the constellation Nilwish
+      ξ Nilwishiad B is a star in the constellation <a href="nilwish.html">Nilwish</a>
 distance: 166.24 ly
 apparent_magnitude: 8.67
 absolute_magnitude: 5.13

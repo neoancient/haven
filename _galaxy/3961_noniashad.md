@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3961 Noniashad is a star in the constellation Nonias
+      3961 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 398.49 ly
 apparent_magnitude: 9.87
 absolute_magnitude: 4.43

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tave C is a star in the constellation Saith
+      Tave C is a star in the constellation <a href="saith.html">Saith</a>
 distance: 674.61 ly
 apparent_magnitude: 11.23
 absolute_magnitude: 4.65

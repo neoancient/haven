@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2881 Shanniashiad A is a star in the constellation Shannias
+      2881 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 329.98 ly
 apparent_magnitude: 7.21
 absolute_magnitude: 2.18

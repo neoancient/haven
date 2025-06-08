@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      162 Erikkiad is a star in the constellation Erik
+      162 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1072.26 ly
 apparent_magnitude: 6.71
 absolute_magnitude: -0.87
@@ -31,14 +31,14 @@ planets:
     radius: 220.3 km<br/>(0.035 Yrths)
     surface_area: 6.101 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.481 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.548 × 10<sup>27</sup> kg<br />(259.21109017362824 Yrths)
+    mass: 1.548 × 10<sup>27</sup> kg<br />(259.21 Yrths)
     density: 34545335.197 g/cm<sup>3</sup>
     surface_gravity: 2125164.534 m/s<sup>2</sup><br />(216706.473 g<sub>0</sub>)
     escape_velocity: 968.401 km/s<br />(3,486,244 km/h)
     rotation_period: 0.239 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1730 K<br />(1457 °C)
+    temperature: 1652 K<br />(1379 °C)
     composition:
       - 78.3917% hydrogen
       - 17.2899% helium
@@ -57,14 +57,14 @@ planets:
         radius: 202,217.2 km<br/>(31.740 Yrths)
         surface_area: 5.139 × 10<sup>11</sup> km<sup>2</sup><br/>(1007.444 Yrths)
         volume: 3.464 × 10<sup>16</sup> km<sup>3</sup><br/>(31976.535 Yrths)
-        mass: 8.458 × 10<sup>28</sup> kg<br />(259.21109017362824 Yrths)
+        mass: 8.458 × 10<sup>28</sup> kg<br />(14162.753 Yrths)
         density: 2.442 g/cm<sup>3</sup>
         surface_gravity: 137.863 m/s<sup>2</sup><br />(14.058 g<sub>0</sub>)
         escape_velocity: 236.288 km/s<br />(850,639 km/h)
         rotation_period: 34.307 d
         axial_tilt: 33.01°
         albedo: 0.30
-        temperature: 2505 K<br />(2232 °C)
+        temperature: 405 K<br />(131 °C)
       - name: 162 Erikkiad I b
         type: Asteroid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 151,318.7 km<br/>(23.751 Yrths)
         surface_area: 2.877 × 10<sup>11</sup> km<sup>2</sup><br/>(564.118 Yrths)
         volume: 1.451 × 10<sup>16</sup> km<sup>3</sup><br/>(13398.456 Yrths)
-        mass: 4.272 × 10<sup>28</sup> kg<br />(259.21109017362824 Yrths)
+        mass: 4.272 × 10<sup>28</sup> kg<br />(7152.892 Yrths)
         density: 2.943 g/cm<sup>3</sup>
         surface_gravity: 124.346 m/s<sup>2</sup><br />(12.680 g<sub>0</sub>)
         escape_velocity: 194.121 km/s<br />(698,835 km/h)
         rotation_period: 48.487 d
         axial_tilt: 15.98°
         albedo: 0.30
-        temperature: 2070 K<br />(1797 °C)
+        temperature: 405 K<br />(131 °C)
       - name: 162 Erikkiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 157,086.9 km<br/>(24.657 Yrths)
         surface_area: 3.101 × 10<sup>11</sup> km<sup>2</sup><br/>(607.945 Yrths)
         volume: 1.624 × 10<sup>16</sup> km<sup>3</sup><br/>(14989.832 Yrths)
-        mass: 3.175 × 10<sup>28</sup> kg<br />(259.21109017362824 Yrths)
+        mass: 3.175 × 10<sup>28</sup> kg<br />(5316.076 Yrths)
         density: 1.955 g/cm<sup>3</sup>
         surface_gravity: 85.753 m/s<sup>2</sup><br />(8.744 g<sub>0</sub>)
         escape_velocity: 164.249 km/s<br />(591,297 km/h)
         rotation_period: 63.289 d
         axial_tilt: 25.17°
         albedo: 0.30
-        temperature: 1285 K<br />(1012 °C)
+        temperature: 405 K<br />(131 °C)
       - name: 162 Erikkiad I d
         type: Icy
         formationType: Accreted
@@ -117,14 +117,14 @@ planets:
         radius: 424,327.6 km<br/>(66.603 Yrths)
         surface_area: 2.263 × 10<sup>12</sup> km<sup>2</sup><br/>(4435.957 Yrths)
         volume: 3.200 × 10<sup>17</sup> km<sup>3</sup><br/>(295447.981 Yrths)
-        mass: 2.641 × 10<sup>29</sup> kg<br />(259.21109017362824 Yrths)
+        mass: 2.641 × 10<sup>29</sup> kg<br />(44218.084 Yrths)
         density: 0.825 g/cm<sup>3</sup>
         surface_gravity: 97.754 m/s<sup>2</sup><br />(9.968 g<sub>0</sub>)
         escape_velocity: 288.222 km/s<br />(1,037,599 km/h)
         rotation_period: 80.298 d
         axial_tilt: 26.95°
         albedo: 0.30
-        temperature: 966 K<br />(693 °C)
+        temperature: 405 K<br />(131 °C)
       - name: 162 Erikkiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 160,671.9 km<br/>(25.219 Yrths)
         surface_area: 3.244 × 10<sup>11</sup> km<sup>2</sup><br/>(636.011 Yrths)
         volume: 1.737 × 10<sup>16</sup> km<sup>3</sup><br/>(16039.721 Yrths)
-        mass: 3.652 × 10<sup>28</sup> kg<br />(259.21109017362824 Yrths)
+        mass: 3.652 × 10<sup>28</sup> kg<br />(6114.483 Yrths)
         density: 2.102 g/cm<sup>3</sup>
         surface_gravity: 94.279 m/s<sup>2</sup><br />(9.614 g<sub>0</sub>)
         escape_velocity: 174.176 km/s<br />(627,033 km/h)
         rotation_period: 58.353 d
         axial_tilt: 14.54°
         albedo: 0.30
-        temperature: 430 K<br />(156 °C)
+        temperature: 405 K<br />(131 °C)
       - name: 162 Erikkiad I f
         type: Rocky
         formationType: Impact formed
@@ -157,14 +157,14 @@ planets:
         radius: 145,111.0 km<br/>(22.777 Yrths)
         surface_area: 2.646 × 10<sup>11</sup> km<sup>2</sup><br/>(518.782 Yrths)
         volume: 1.280 × 10<sup>16</sup> km<sup>3</sup><br/>(11816.200 Yrths)
-        mass: 3.950 × 10<sup>28</sup> kg<br />(259.21109017362824 Yrths)
+        mass: 3.950 × 10<sup>28</sup> kg<br />(6614.966 Yrths)
         density: 3.086 g/cm<sup>3</sup>
         surface_gravity: 125.044 m/s<sup>2</sup><br />(12.751 g<sub>0</sub>)
         escape_velocity: 190.630 km/s<br />(686,268 km/h)
         rotation_period: 31.255 d
         axial_tilt: 16.44°
         albedo: 0.30
-        temperature: 410 K<br />(136 °C)
+        temperature: 405 K<br />(131 °C)
   - name: 162 Erikkiad II
     type: Gas giant
     aphelion: 2,879,565,348 km<br />19.248 AU
@@ -176,14 +176,14 @@ planets:
     radius: 236.0 km<br/>(0.037 Yrths)
     surface_area: 6.996 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.502 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.052 × 10<sup>27</sup> kg<br />(343.6662883620935 Yrths)
+    mass: 2.052 × 10<sup>27</sup> kg<br />(343.67 Yrths)
     density: 37299196.354 g/cm<sup>3</sup>
     surface_gravity: 2457123.883 m/s<sup>2</sup><br />(250556.906 g<sub>0</sub>)
     escape_velocity: 1077.543 km/s<br />(3,879,156 km/h)
     rotation_period: 0.232 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1147 K<br />(873 °C)
+    temperature: 1102 K<br />(829 °C)
     composition:
       - 65.8883% hydrogen
       - 32.4169% helium
@@ -201,14 +201,14 @@ planets:
         radius: 129,630.9 km<br/>(20.347 Yrths)
         surface_area: 2.112 × 10<sup>11</sup> km<sup>2</sup><br/>(414.002 Yrths)
         volume: 9.125 × 10<sup>15</sup> km<sup>3</sup><br/>(8423.701 Yrths)
-        mass: 2.545 × 10<sup>28</sup> kg<br />(343.6662883620935 Yrths)
+        mass: 2.545 × 10<sup>28</sup> kg<br />(4261.600 Yrths)
         density: 2.789 g/cm<sup>3</sup>
         surface_gravity: 100.947 m/s<sup>2</sup><br />(10.294 g<sub>0</sub>)
         escape_velocity: 161.886 km/s<br />(582,790 km/h)
         rotation_period: 40.352 d
         axial_tilt: 31.65°
         albedo: 0.30
-        temperature: 1629 K<br />(1356 °C)
+        temperature: 276 K<br />(2 °C)
       - name: 162 Erikkiad II b
         type: Asteroid
         formationType: Captured
@@ -221,14 +221,14 @@ planets:
         radius: 165,943.1 km<br/>(26.047 Yrths)
         surface_area: 3.460 × 10<sup>11</sup> km<sup>2</sup><br/>(678.427 Yrths)
         volume: 1.914 × 10<sup>16</sup> km<sup>3</sup><br/>(17670.739 Yrths)
-        mass: 6.888 × 10<sup>28</sup> kg<br />(343.6662883620935 Yrths)
+        mass: 6.888 × 10<sup>28</sup> kg<br />(11533.621 Yrths)
         density: 3.598 g/cm<sup>3</sup>
         surface_gravity: 166.718 m/s<sup>2</sup><br />(17.001 g<sub>0</sub>)
         escape_velocity: 235.386 km/s<br />(847,390 km/h)
         rotation_period: 48.491 d
         axial_tilt: 55.66°
         albedo: 0.30
-        temperature: 1113 K<br />(840 °C)
+        temperature: 276 K<br />(2 °C)
       - name: 162 Erikkiad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -241,14 +241,14 @@ planets:
         radius: 178,470.1 km<br/>(28.013 Yrths)
         surface_area: 4.003 × 10<sup>11</sup> km<sup>2</sup><br/>(784.722 Yrths)
         volume: 2.381 × 10<sup>16</sup> km<sup>3</sup><br/>(21982.341 Yrths)
-        mass: 4.797 × 10<sup>28</sup> kg<br />(343.6662883620935 Yrths)
+        mass: 4.797 × 10<sup>28</sup> kg<br />(8032.132 Yrths)
         density: 2.014 g/cm<sup>3</sup>
         surface_gravity: 100.377 m/s<sup>2</sup><br />(10.236 g<sub>0</sub>)
         escape_velocity: 189.413 km/s<br />(681,888 km/h)
         rotation_period: 47.630 d
         axial_tilt: 23.00°
         albedo: 0.30
-        temperature: 1012 K<br />(739 °C)
+        temperature: 276 K<br />(2 °C)
       - name: 162 Erikkiad II d
         type: Icy
         formationType: Captured
@@ -261,14 +261,14 @@ planets:
         radius: 265,024.3 km<br/>(41.599 Yrths)
         surface_area: 8.826 × 10<sup>11</sup> km<sup>2</sup><br/>(1730.438 Yrths)
         volume: 7.797 × 10<sup>16</sup> km<sup>3</sup><br/>(71983.686 Yrths)
-        mass: 5.817 × 10<sup>28</sup> kg<br />(343.6662883620935 Yrths)
+        mass: 5.817 × 10<sup>28</sup> kg<br />(9740.976 Yrths)
         density: 0.746 g/cm<sup>3</sup>
         surface_gravity: 55.204 m/s<sup>2</sup><br />(5.629 g<sub>0</sub>)
         escape_velocity: 171.173 km/s<br />(616,224 km/h)
         rotation_period: 66.117 d
         axial_tilt: 15.62°
         albedo: 0.30
-        temperature: 836 K<br />(563 °C)
+        temperature: 276 K<br />(2 °C)
       - name: 162 Erikkiad II e
         type: Icy
         formationType: Captured
@@ -281,14 +281,14 @@ planets:
         radius: 147,098.2 km<br/>(23.089 Yrths)
         surface_area: 2.719 × 10<sup>11</sup> km<sup>2</sup><br/>(533.089 Yrths)
         volume: 1.333 × 10<sup>16</sup> km<sup>3</sup><br/>(12308.327 Yrths)
-        mass: 1.942 × 10<sup>28</sup> kg<br />(343.6662883620935 Yrths)
+        mass: 1.942 × 10<sup>28</sup> kg<br />(3251.129 Yrths)
         density: 1.456 g/cm<sup>3</sup>
         surface_gravity: 59.807 m/s<sup>2</sup><br />(6.099 g<sub>0</sub>)
         escape_velocity: 132.737 km/s<br />(477,852 km/h)
         rotation_period: 78.830 d
         axial_tilt: 11.84°
         albedo: 0.30
-        temperature: 599 K<br />(326 °C)
+        temperature: 276 K<br />(2 °C)
       - name: 162 Erikkiad II f
         type: Icy
         formationType: Impact formed
@@ -301,14 +301,14 @@ planets:
         radius: 134,411.1 km<br/>(21.097 Yrths)
         surface_area: 2.270 × 10<sup>11</sup> km<sup>2</sup><br/>(445.098 Yrths)
         volume: 1.017 × 10<sup>16</sup> km<sup>3</sup><br/>(9390.375 Yrths)
-        mass: 1.933 × 10<sup>28</sup> kg<br />(343.6662883620935 Yrths)
+        mass: 1.933 × 10<sup>28</sup> kg<br />(3236.146 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 71.301 m/s<sup>2</sup><br />(7.271 g<sub>0</sub>)
         escape_velocity: 138.540 km/s<br />(498,743 km/h)
         rotation_period: 65.381 d
         axial_tilt: 10.32°
         albedo: 0.30
-        temperature: 571 K<br />(298 °C)
+        temperature: 276 K<br />(2 °C)
       - name: 162 Erikkiad II g
         type: Icy
         formationType: Captured
@@ -321,14 +321,14 @@ planets:
         radius: 231,346.8 km<br/>(36.312 Yrths)
         surface_area: 6.726 × 10<sup>11</sup> km<sup>2</sup><br/>(1318.596 Yrths)
         volume: 5.187 × 10<sup>16</sup> km<sup>3</sup><br/>(47881.463 Yrths)
-        mass: 5.726 × 10<sup>28</sup> kg<br />(343.6662883620935 Yrths)
+        mass: 5.726 × 10<sup>28</sup> kg<br />(9587.580 Yrths)
         density: 1.104 g/cm<sup>3</sup>
         surface_gravity: 71.305 m/s<sup>2</sup><br />(7.271 g<sub>0</sub>)
         escape_velocity: 181.761 km/s<br />(654,339 km/h)
         rotation_period: 58.632 d
         axial_tilt: 22.42°
         albedo: 0.30
-        temperature: 519 K<br />(246 °C)
+        temperature: 276 K<br />(2 °C)
       - name: 162 Erikkiad II h
         type: Icy
         formationType: Accreted
@@ -341,14 +341,14 @@ planets:
         radius: 148,439.7 km<br/>(23.299 Yrths)
         surface_area: 2.769 × 10<sup>11</sup> km<sup>2</sup><br/>(542.857 Yrths)
         volume: 1.370 × 10<sup>16</sup> km<sup>3</sup><br/>(12648.169 Yrths)
-        mass: 2.310 × 10<sup>28</sup> kg<br />(343.6662883620935 Yrths)
+        mass: 2.310 × 10<sup>28</sup> kg<br />(3868.172 Yrths)
         density: 1.686 g/cm<sup>3</sup>
         surface_gravity: 69.878 m/s<sup>2</sup><br />(7.126 g<sub>0</sub>)
         escape_velocity: 144.130 km/s<br />(518,869 km/h)
         rotation_period: 40.601 d
         axial_tilt: 16.24°
         albedo: 0.30
-        temperature: 372 K<br />(99 °C)
+        temperature: 276 K<br />(2 °C)
       - name: 162 Erikkiad II i
         type: Icy
         formationType: Accreted
@@ -361,12 +361,12 @@ planets:
         radius: 144,730.5 km<br/>(22.717 Yrths)
         surface_area: 2.632 × 10<sup>11</sup> km<sup>2</sup><br/>(516.065 Yrths)
         volume: 1.270 × 10<sup>16</sup> km<sup>3</sup><br/>(11723.496 Yrths)
-        mass: 2.184 × 10<sup>28</sup> kg<br />(343.6662883620935 Yrths)
+        mass: 2.184 × 10<sup>28</sup> kg<br />(3656.675 Yrths)
         density: 1.720 g/cm<sup>3</sup>
         surface_gravity: 69.487 m/s<sup>2</sup><br />(7.086 g<sub>0</sub>)
         escape_velocity: 141.919 km/s<br />(510,909 km/h)
         rotation_period: 71.392 d
         axial_tilt: 20.91°
         albedo: 0.30
-        temperature: 200 K<br />(-73 °C)
+        temperature: 276 K<br />(2 °C)
 ---

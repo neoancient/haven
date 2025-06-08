@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      110 Oniad A is a star in the constellation Oni
+      110 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 819.11 ly
 apparent_magnitude: 6.92
 absolute_magnitude: -0.08

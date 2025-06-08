@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      642 Shanniashiad A is a star in the constellation Shannias
+      642 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1239.69 ly
 apparent_magnitude: 6.76
 absolute_magnitude: -1.13

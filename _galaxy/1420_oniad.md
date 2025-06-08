@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1420 Oniad is a star in the constellation Oni
+      1420 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 842.69 ly
 apparent_magnitude: 16.69
 absolute_magnitude: 9.63

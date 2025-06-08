@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6341 Anilliad is a star in the constellation Anil
+      6341 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 186.71 ly
 apparent_magnitude: 10.03
 absolute_magnitude: 6.24
@@ -31,14 +31,14 @@ planets:
     radius: 6,151.9 km<br/>(0.966 Yrths)
     surface_area: 4.756 × 10<sup>08</sup> km<sup>2</sup><br/>(0.932 Yrths)
     volume: 9.753 × 10<sup>11</sup> km<sup>3</sup><br/>(0.900 Yrths)
-    mass: 7.100 × 10<sup>24</sup> kg<br />(1.1888567328099953 Yrths)
+    mass: 7.100 × 10<sup>24</sup> kg<br />(1.19 Yrths)
     density: 7.280 g/cm<sup>3</sup>
     surface_gravity: 12.504 m/s<sup>2</sup><br />(1.275 g<sub>0</sub>)
     escape_velocity: 12.412 km/s<br />(44,683 km/h)
     rotation_period: 1.547 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 527 K<br />(254 °C)
+    temperature: 1454 K<br />(1181 °C)
     surface_pressure: 238 kPa<br />(2 atm)
     composition:
       - 97.3389% carbon dioxide

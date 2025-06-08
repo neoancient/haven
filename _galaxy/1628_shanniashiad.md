@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1628 Shanniashiad is a star in the constellation Shannias
+      1628 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 560.83 ly
 apparent_magnitude: 12.01
 absolute_magnitude: 5.83

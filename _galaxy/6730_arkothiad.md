@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6730 Arkothiad is a star in the constellation Arkoth
+      6730 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 540.63 ly
 apparent_magnitude: 11.28
 absolute_magnitude: 5.18

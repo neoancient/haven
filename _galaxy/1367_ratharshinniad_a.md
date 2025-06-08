@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1367 Ratharshinniad A is a star in the constellation Ratharshin
+      1367 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 934.85 ly
 apparent_magnitude: 6.88
 absolute_magnitude: -0.41

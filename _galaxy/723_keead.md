@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      723 Keead is a star in the constellation Kee
+      723 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1203.32 ly
 apparent_magnitude: 17.27
 absolute_magnitude: 9.43

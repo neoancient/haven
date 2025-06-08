@@ -6,7 +6,7 @@ faction: Freehold Confederation
 sections:
   - title:
     content: >-
-      0043 Kinanniad is a star in the constellation Kinan
+      0043 Kinanniad is a star in the constellation <a href="kinan.html">Kinan</a>
 distance: 225.35 ly
 apparent_magnitude: 5.86
 absolute_magnitude: 1.66
@@ -31,14 +31,14 @@ planets:
     radius: 25,925.7 km<br/>(4.069 Yrths)
     surface_area: 8.446 × 10<sup>09</sup> km<sup>2</sup><br/>(16.559 Yrths)
     volume: 7.299 × 10<sup>13</sup> km<sup>3</sup><br/>(67.386 Yrths)
-    mass: 1.047 × 10<sup>26</sup> kg<br />(17.530644558257684 Yrths)
+    mass: 1.047 × 10<sup>26</sup> kg<br />(17.53 Yrths)
     density: 1.434 g/cm<sup>3</sup>
     surface_gravity: 10.382 m/s<sup>2</sup><br />(1.059 g<sub>0</sub>)
     escape_velocity: 23.217 km/s<br />(83,582 km/h)
     rotation_period: 0.337 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 817 K<br />(544 °C)
+    temperature: 790 K<br />(517 °C)
     composition:
       - 64.4437% hydrogen
       - 28.9931% helium
@@ -59,14 +59,14 @@ planets:
         radius: 27,022.9 km<br/>(4.242 Yrths)
         surface_area: 9.176 × 10<sup>09</sup> km<sup>2</sup><br/>(17.991 Yrths)
         volume: 8.266 × 10<sup>13</sup> km<sup>3</sup><br/>(76.309 Yrths)
-        mass: 2.025 × 10<sup>26</sup> kg<br />(17.530644558257684 Yrths)
+        mass: 2.025 × 10<sup>26</sup> kg<br />(33.912 Yrths)
         density: 2.450 g/cm<sup>3</sup>
         surface_gravity: 18.485 m/s<sup>2</sup><br />(1.885 g<sub>0</sub>)
         escape_velocity: 31.629 km/s<br />(113,865 km/h)
         rotation_period: 40.496 d
         axial_tilt: 19.44°
         albedo: 0.30
-        temperature: 3939 K<br />(3665 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 0043 Kinanniad I b
         type: Rocky
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 19,207.4 km<br/>(3.015 Yrths)
         surface_area: 4.636 × 10<sup>09</sup> km<sup>2</sup><br/>(9.089 Yrths)
         volume: 2.968 × 10<sup>13</sup> km<sup>3</sup><br/>(27.402 Yrths)
-        mass: 8.784 × 10<sup>25</sup> kg<br />(17.530644558257684 Yrths)
+        mass: 8.784 × 10<sup>25</sup> kg<br />(14.708 Yrths)
         density: 2.959 g/cm<sup>3</sup>
         surface_gravity: 15.869 m/s<sup>2</sup><br />(1.618 g<sub>0</sub>)
         escape_velocity: 24.707 km/s<br />(88,946 km/h)
         rotation_period: 35.528 d
         axial_tilt: 15.51°
         albedo: 0.30
-        temperature: 3581 K<br />(3307 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 0043 Kinanniad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 27,894.2 km<br/>(4.378 Yrths)
         surface_area: 9.778 × 10<sup>09</sup> km<sup>2</sup><br/>(19.170 Yrths)
         volume: 9.091 × 10<sup>13</sup> km<sup>3</sup><br/>(83.931 Yrths)
-        mass: 1.807 × 10<sup>26</sup> kg<br />(17.530644558257684 Yrths)
+        mass: 1.807 × 10<sup>26</sup> kg<br />(30.256 Yrths)
         density: 1.987 g/cm<sup>3</sup>
         surface_gravity: 15.478 m/s<sup>2</sup><br />(1.578 g<sub>0</sub>)
         escape_velocity: 29.405 km/s<br />(105,859 km/h)
         rotation_period: 63.739 d
         axial_tilt: 26.52°
         albedo: 0.30
-        temperature: 3414 K<br />(3141 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 0043 Kinanniad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -119,14 +119,14 @@ planets:
         radius: 25,988.3 km<br/>(4.079 Yrths)
         surface_area: 8.487 × 10<sup>09</sup> km<sup>2</sup><br/>(16.640 Yrths)
         volume: 7.352 × 10<sup>13</sup> km<sup>3</sup><br/>(67.875 Yrths)
-        mass: 1.686 × 10<sup>26</sup> kg<br />(17.530644558257684 Yrths)
+        mass: 1.686 × 10<sup>26</sup> kg<br />(28.239 Yrths)
         density: 2.294 g/cm<sup>3</sup>
         surface_gravity: 16.643 m/s<sup>2</sup><br />(1.697 g<sub>0</sub>)
         escape_velocity: 29.432 km/s<br />(105,954 km/h)
         rotation_period: 46.095 d
         axial_tilt: 19.12°
         albedo: 0.30
-        temperature: 3255 K<br />(2982 °C)
+        temperature: 399 K<br />(126 °C)
       - name: 0043 Kinanniad I e
         type: Rocky
         formationType: Accreted
@@ -139,12 +139,12 @@ planets:
         radius: 31,292.0 km<br/>(4.912 Yrths)
         surface_area: 1.230 × 10<sup>10</sup> km<sup>2</sup><br/>(24.124 Yrths)
         volume: 1.283 × 10<sup>14</sup> km<sup>3</sup><br/>(118.489 Yrths)
-        mass: 3.722 × 10<sup>26</sup> kg<br />(17.530644558257684 Yrths)
+        mass: 3.722 × 10<sup>26</sup> kg<br />(62.321 Yrths)
         density: 2.900 g/cm<sup>3</sup>
         surface_gravity: 25.334 m/s<sup>2</sup><br />(2.583 g<sub>0</sub>)
         escape_velocity: 39.845 km/s<br />(143,443 km/h)
         rotation_period: 52.815 d
         axial_tilt: 23.79°
         albedo: 0.30
-        temperature: 3104 K<br />(2830 °C)
+        temperature: 399 K<br />(126 °C)
 ---

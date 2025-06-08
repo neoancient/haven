@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      683 Keead A is a star in the constellation Kee
+      683 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 629.23 ly
 apparent_magnitude: 6.56
 absolute_magnitude: 0.13

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3412 Anilliad is a star in the constellation Anil
+      3412 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 947.97 ly
 apparent_magnitude: 7.04
 absolute_magnitude: -0.27
@@ -31,14 +31,14 @@ planets:
     radius: 32,306.1 km<br/>(5.071 Yrths)
     surface_area: 1.312 × 10<sup>10</sup> km<sup>2</sup><br/>(25.713 Yrths)
     volume: 1.412 × 10<sup>14</sup> km<sup>3</sup><br/>(130.386 Yrths)
-    mass: 2.599 × 10<sup>26</sup> kg<br />(43.517190192068895 Yrths)
+    mass: 2.599 × 10<sup>26</sup> kg<br />(43.52 Yrths)
     density: 1.840 g/cm<sup>3</sup>
     surface_gravity: 16.597 m/s<sup>2</sup><br />(1.692 g<sub>0</sub>)
     escape_velocity: 32.769 km/s<br />(117,969 km/h)
     rotation_period: 0.334 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 813 K<br />(540 °C)
+    temperature: 746 K<br />(473 °C)
     composition:
       - 50.7448% hydrogen
       - 47.5963% helium
@@ -56,14 +56,14 @@ planets:
         radius: 23,303.0 km<br/>(3.658 Yrths)
         surface_area: 6.824 × 10<sup>09</sup> km<sup>2</sup><br/>(13.378 Yrths)
         volume: 5.301 × 10<sup>13</sup> km<sup>3</sup><br/>(48.934 Yrths)
-        mass: 1.331 × 10<sup>26</sup> kg<br />(43.517190192068895 Yrths)
+        mass: 1.331 × 10<sup>26</sup> kg<br />(22.285 Yrths)
         density: 2.511 g/cm<sup>3</sup>
         surface_gravity: 16.335 m/s<sup>2</sup><br />(1.666 g<sub>0</sub>)
         escape_velocity: 27.611 km/s<br />(99,399 km/h)
         rotation_period: 31.714 d
         axial_tilt: 15.56°
         albedo: 0.30
-        temperature: 3379 K<br />(3106 °C)
+        temperature: 383 K<br />(109 °C)
       - name: 3412 Anilliad I b
         type: Dwarf planet
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 48,144.1 km<br/>(7.557 Yrths)
         surface_area: 2.913 × 10<sup>10</sup> km<sup>2</sup><br/>(57.105 Yrths)
         volume: 4.674 × 10<sup>14</sup> km<sup>3</sup><br/>(431.527 Yrths)
-        mass: 6.231 × 10<sup>26</sup> kg<br />(43.517190192068895 Yrths)
+        mass: 6.231 × 10<sup>26</sup> kg<br />(104.344 Yrths)
         density: 1.333 g/cm<sup>3</sup>
         surface_gravity: 17.919 m/s<sup>2</sup><br />(1.827 g<sub>0</sub>)
         escape_velocity: 41.566 km/s<br />(149,638 km/h)
         rotation_period: 55.376 d
         axial_tilt: 19.89°
         albedo: 0.30
-        temperature: 3222 K<br />(2949 °C)
+        temperature: 383 K<br />(109 °C)
       - name: 3412 Anilliad I c
         type: Icy
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 34,038.0 km<br/>(5.343 Yrths)
         surface_area: 1.456 × 10<sup>10</sup> km<sup>2</sup><br/>(28.544 Yrths)
         volume: 1.652 × 10<sup>14</sup> km<sup>3</sup><br/>(152.500 Yrths)
-        mass: 1.667 × 10<sup>26</sup> kg<br />(43.517190192068895 Yrths)
+        mass: 1.667 × 10<sup>26</sup> kg<br />(27.918 Yrths)
         density: 1.009 g/cm<sup>3</sup>
         surface_gravity: 9.592 m/s<sup>2</sup><br />(0.978 g<sub>0</sub>)
         escape_velocity: 25.570 km/s<br />(92,053 km/h)
         rotation_period: 54.025 d
         axial_tilt: 15.34°
         albedo: 0.30
-        temperature: 2929 K<br />(2656 °C)
+        temperature: 383 K<br />(109 °C)
       - name: 3412 Anilliad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 24,164.1 km<br/>(3.793 Yrths)
         surface_area: 7.338 × 10<sup>09</sup> km<sup>2</sup><br/>(14.386 Yrths)
         volume: 5.910 × 10<sup>13</sup> km<sup>3</sup><br/>(54.562 Yrths)
-        mass: 1.325 × 10<sup>26</sup> kg<br />(43.517190192068895 Yrths)
+        mass: 1.325 × 10<sup>26</sup> kg<br />(22.192 Yrths)
         density: 2.242 g/cm<sup>3</sup>
         surface_gravity: 15.128 m/s<sup>2</sup><br />(1.543 g<sub>0</sub>)
         escape_velocity: 27.058 km/s<br />(97,408 km/h)
         rotation_period: 50.512 d
         axial_tilt: 24.20°
         albedo: 0.30
-        temperature: 2793 K<br />(2520 °C)
+        temperature: 383 K<br />(109 °C)
       - name: 3412 Anilliad I e
         type: Icy
         formationType: Accreted
@@ -136,14 +136,14 @@ planets:
         radius: 32,978.1 km<br/>(5.176 Yrths)
         surface_area: 1.367 × 10<sup>10</sup> km<sup>2</sup><br/>(26.794 Yrths)
         volume: 1.502 × 10<sup>14</sup> km<sup>3</sup><br/>(138.693 Yrths)
-        mass: 2.140 × 10<sup>26</sup> kg<br />(43.517190192068895 Yrths)
+        mass: 2.140 × 10<sup>26</sup> kg<br />(35.833 Yrths)
         density: 1.424 g/cm<sup>3</sup>
         surface_gravity: 13.115 m/s<sup>2</sup><br />(1.337 g<sub>0</sub>)
         escape_velocity: 29.431 km/s<br />(105,952 km/h)
         rotation_period: 52.884 d
         axial_tilt: 5.62°
         albedo: 0.30
-        temperature: 2663 K<br />(2390 °C)
+        temperature: 383 K<br />(109 °C)
       - name: 3412 Anilliad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -156,14 +156,14 @@ planets:
         radius: 48,119.9 km<br/>(7.553 Yrths)
         surface_area: 2.910 × 10<sup>10</sup> km<sup>2</sup><br/>(57.047 Yrths)
         volume: 4.667 × 10<sup>14</sup> km<sup>3</sup><br/>(430.874 Yrths)
-        mass: 9.478 × 10<sup>26</sup> kg<br />(43.517190192068895 Yrths)
+        mass: 9.478 × 10<sup>26</sup> kg<br />(158.709 Yrths)
         density: 2.031 g/cm<sup>3</sup>
         surface_gravity: 27.283 m/s<sup>2</sup><br />(2.782 g<sub>0</sub>)
         escape_velocity: 51.276 km/s<br />(184,594 km/h)
         rotation_period: 39.164 d
         axial_tilt: 21.01°
         albedo: 0.30
-        temperature: 2539 K<br />(2266 °C)
+        temperature: 383 K<br />(109 °C)
       - name: 3412 Anilliad I g
         type: Icy
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 24,303.8 km<br/>(3.815 Yrths)
         surface_area: 7.423 × 10<sup>09</sup> km<sup>2</sup><br/>(14.552 Yrths)
         volume: 6.013 × 10<sup>13</sup> km<sup>3</sup><br/>(55.514 Yrths)
-        mass: 9.045 × 10<sup>25</sup> kg<br />(43.517190192068895 Yrths)
+        mass: 9.045 × 10<sup>25</sup> kg<br />(15.146 Yrths)
         density: 1.504 g/cm<sup>3</sup>
         surface_gravity: 10.207 m/s<sup>2</sup><br />(1.041 g<sub>0</sub>)
         escape_velocity: 22.289 km/s<br />(80,241 km/h)
         rotation_period: 42.498 d
         axial_tilt: 19.82°
         albedo: 0.30
-        temperature: 2421 K<br />(2148 °C)
+        temperature: 383 K<br />(109 °C)
       - name: 3412 Anilliad I h
         type: Icy
         formationType: Captured
@@ -196,14 +196,14 @@ planets:
         radius: 73,408.4 km<br/>(11.522 Yrths)
         surface_area: 6.772 × 10<sup>10</sup> km<sup>2</sup><br/>(132.763 Yrths)
         volume: 1.657 × 10<sup>15</sup> km<sup>3</sup><br/>(1529.732 Yrths)
-        mass: 1.757 × 10<sup>27</sup> kg<br />(43.517190192068895 Yrths)
+        mass: 1.757 × 10<sup>27</sup> kg<br />(294.223 Yrths)
         density: 1.060 g/cm<sup>3</sup>
         surface_gravity: 21.733 m/s<sup>2</sup><br />(2.216 g<sub>0</sub>)
         escape_velocity: 56.525 km/s<br />(203,491 km/h)
         rotation_period: 54.463 d
         axial_tilt: 19.82°
         albedo: 0.30
-        temperature: 2308 K<br />(2035 °C)
+        temperature: 383 K<br />(109 °C)
   - name: 3412 Anilliad II
     type: Ice giant
     aphelion: 1,386,184,090 km<br />9.266 AU
@@ -215,14 +215,14 @@ planets:
     radius: 40,013.5 km<br/>(6.281 Yrths)
     surface_area: 2.012 × 10<sup>10</sup> km<sup>2</sup><br/>(39.446 Yrths)
     volume: 2.684 × 10<sup>14</sup> km<sup>3</sup><br/>(247.741 Yrths)
-    mass: 2.807 × 10<sup>26</sup> kg<br />(46.99652016956394 Yrths)
+    mass: 2.807 × 10<sup>26</sup> kg<br />(47.00 Yrths)
     density: 1.046 g/cm<sup>3</sup>
     surface_gravity: 11.684 m/s<sup>2</sup><br />(1.191 g<sub>0</sub>)
     escape_velocity: 30.599 km/s<br />(110,156 km/h)
     rotation_period: 0.303 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 554 K<br />(281 °C)
+    temperature: 512 K<br />(239 °C)
     composition:
       - 75.8403% hydrogen
       - 19.2731% helium
@@ -240,14 +240,14 @@ planets:
         radius: 34,928.3 km<br/>(5.482 Yrths)
         surface_area: 1.533 × 10<sup>10</sup> km<sup>2</sup><br/>(30.057 Yrths)
         volume: 1.785 × 10<sup>14</sup> km<sup>3</sup><br/>(164.783 Yrths)
-        mass: 3.655 × 10<sup>26</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 3.655 × 10<sup>26</sup> kg<br />(61.208 Yrths)
         density: 2.048 g/cm<sup>3</sup>
         surface_gravity: 19.971 m/s<sup>2</sup><br />(2.036 g<sub>0</sub>)
         escape_velocity: 37.376 km/s<br />(134,554 km/h)
         rotation_period: 42.627 d
         axial_tilt: 21.46°
         albedo: 0.30
-        temperature: 2331 K<br />(2058 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 3412 Anilliad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -260,14 +260,14 @@ planets:
         radius: 65,709.9 km<br/>(10.314 Yrths)
         surface_area: 5.426 × 10<sup>10</sup> km<sup>2</sup><br/>(106.377 Yrths)
         volume: 1.188 × 10<sup>15</sup> km<sup>3</sup><br/>(1097.157 Yrths)
-        mass: 2.050 × 10<sup>27</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 2.050 × 10<sup>27</sup> kg<br />(343.352 Yrths)
         density: 1.725 g/cm<sup>3</sup>
         surface_gravity: 31.653 m/s<sup>2</sup><br />(3.228 g<sub>0</sub>)
         escape_velocity: 64.540 km/s<br />(232,346 km/h)
         rotation_period: 52.885 d
         axial_tilt: 22.52°
         albedo: 0.30
-        temperature: 2223 K<br />(1950 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 3412 Anilliad II c
         type: Icy
         formationType: Accreted
@@ -280,14 +280,14 @@ planets:
         radius: 65,133.3 km<br/>(10.223 Yrths)
         surface_area: 5.331 × 10<sup>10</sup> km<sup>2</sup><br/>(104.518 Yrths)
         volume: 1.157 × 10<sup>15</sup> km<sup>3</sup><br/>(1068.531 Yrths)
-        mass: 1.758 × 10<sup>27</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 1.758 × 10<sup>27</sup> kg<br />(294.388 Yrths)
         density: 1.519 g/cm<sup>3</sup>
         surface_gravity: 27.622 m/s<sup>2</sup><br />(2.817 g<sub>0</sub>)
         escape_velocity: 60.026 km/s<br />(216,092 km/h)
         rotation_period: 60.087 d
         axial_tilt: 23.48°
         albedo: 0.30
-        temperature: 2120 K<br />(1846 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 3412 Anilliad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -300,14 +300,14 @@ planets:
         radius: 48,904.5 km<br/>(7.676 Yrths)
         surface_area: 3.005 × 10<sup>10</sup> km<sup>2</sup><br/>(58.923 Yrths)
         volume: 4.899 × 10<sup>14</sup> km<sup>3</sup><br/>(452.298 Yrths)
-        mass: 1.237 × 10<sup>27</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 1.237 × 10<sup>27</sup> kg<br />(207.059 Yrths)
         density: 2.524 g/cm<sup>3</sup>
         surface_gravity: 34.461 m/s<sup>2</sup><br />(3.514 g<sub>0</sub>)
         escape_velocity: 58.097 km/s<br />(209,147 km/h)
         rotation_period: 34.567 d
         axial_tilt: 11.90°
         albedo: 0.30
-        temperature: 2021 K<br />(1748 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 3412 Anilliad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -320,14 +320,14 @@ planets:
         radius: 34,262.5 km<br/>(5.378 Yrths)
         surface_area: 1.475 × 10<sup>10</sup> km<sup>2</sup><br/>(28.922 Yrths)
         volume: 1.685 × 10<sup>14</sup> km<sup>3</sup><br/>(155.537 Yrths)
-        mass: 3.261 × 10<sup>26</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 3.261 × 10<sup>26</sup> kg<br />(54.603 Yrths)
         density: 1.935 g/cm<sup>3</sup>
         surface_gravity: 18.515 m/s<sup>2</sup><br />(1.888 g<sub>0</sub>)
         escape_velocity: 35.643 km/s<br />(128,316 km/h)
         rotation_period: 41.515 d
         axial_tilt: 22.06°
         albedo: 0.30
-        temperature: 1927 K<br />(1654 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 3412 Anilliad II f
         type: Icy
         formationType: Captured
@@ -340,14 +340,14 @@ planets:
         radius: 46,726.3 km<br/>(7.334 Yrths)
         surface_area: 2.744 × 10<sup>10</sup> km<sup>2</sup><br/>(53.791 Yrths)
         volume: 4.273 × 10<sup>14</sup> km<sup>3</sup><br/>(394.512 Yrths)
-        mass: 5.667 × 10<sup>26</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 5.667 × 10<sup>26</sup> kg<br />(94.898 Yrths)
         density: 1.326 g/cm<sup>3</sup>
         surface_gravity: 17.301 m/s<sup>2</sup><br />(1.764 g<sub>0</sub>)
         escape_velocity: 40.237 km/s<br />(144,854 km/h)
         rotation_period: 64.008 d
         axial_tilt: 14.77°
         albedo: 0.30
-        temperature: 1752 K<br />(1479 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 3412 Anilliad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -360,14 +360,14 @@ planets:
         radius: 31,641.2 km<br/>(4.966 Yrths)
         surface_area: 1.258 × 10<sup>10</sup> km<sup>2</sup><br/>(24.666 Yrths)
         volume: 1.327 × 10<sup>14</sup> km<sup>3</sup><br/>(122.500 Yrths)
-        mass: 3.248 × 10<sup>26</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 3.248 × 10<sup>26</sup> kg<br />(54.380 Yrths)
         density: 2.447 g/cm<sup>3</sup>
         surface_gravity: 21.621 m/s<sup>2</sup><br />(2.205 g<sub>0</sub>)
         escape_velocity: 37.015 km/s<br />(133,252 km/h)
         rotation_period: 59.308 d
         axial_tilt: 17.98°
         albedo: 0.30
-        temperature: 1670 K<br />(1397 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 3412 Anilliad II h
         type: Icy
         formationType: Accreted
@@ -380,14 +380,14 @@ planets:
         radius: 30,401.6 km<br/>(4.772 Yrths)
         surface_area: 1.161 × 10<sup>10</sup> km<sup>2</sup><br/>(22.771 Yrths)
         volume: 1.177 × 10<sup>14</sup> km<sup>3</sup><br/>(108.659 Yrths)
-        mass: 2.152 × 10<sup>26</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 2.152 × 10<sup>26</sup> kg<br />(36.037 Yrths)
         density: 1.828 g/cm<sup>3</sup>
         surface_gravity: 15.520 m/s<sup>2</sup><br />(1.583 g<sub>0</sub>)
         escape_velocity: 30.740 km/s<br />(110,664 km/h)
         rotation_period: 38.356 d
         axial_tilt: 18.36°
         albedo: 0.30
-        temperature: 1592 K<br />(1319 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 3412 Anilliad II i
         type: Asteroid
         formationType: Captured
@@ -400,14 +400,14 @@ planets:
         radius: 26,869.4 km<br/>(4.217 Yrths)
         surface_area: 9.072 × 10<sup>09</sup> km<sup>2</sup><br/>(17.787 Yrths)
         volume: 8.126 × 10<sup>13</sup> km<sup>3</sup><br/>(75.015 Yrths)
-        mass: 2.793 × 10<sup>26</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 2.793 × 10<sup>26</sup> kg<br />(46.766 Yrths)
         density: 3.437 g/cm<sup>3</sup>
         surface_gravity: 25.784 m/s<sup>2</sup><br />(2.629 g<sub>0</sub>)
         escape_velocity: 37.249 km/s<br />(134,096 km/h)
         rotation_period: 27.010 d
         axial_tilt: 43.18°
         albedo: 0.30
-        temperature: 1518 K<br />(1245 °C)
+        temperature: 267 K<br />(-6 °C)
       - name: 3412 Anilliad II j
         type: Icy
         formationType: Accreted
@@ -420,14 +420,14 @@ planets:
         radius: 62,740.0 km<br/>(9.848 Yrths)
         surface_area: 4.947 × 10<sup>10</sup> km<sup>2</sup><br/>(96.978 Yrths)
         volume: 1.034 × 10<sup>15</sup> km<sup>3</sup><br/>(955.018 Yrths)
-        mass: 8.404 × 10<sup>26</sup> kg<br />(46.99652016956394 Yrths)
+        mass: 8.404 × 10<sup>26</sup> kg<br />(140.730 Yrths)
         density: 0.812 g/cm<sup>3</sup>
         surface_gravity: 14.231 m/s<sup>2</sup><br />(1.451 g<sub>0</sub>)
         escape_velocity: 42.286 km/s<br />(152,230 km/h)
         rotation_period: 71.692 d
         axial_tilt: 11.82°
         albedo: 0.30
-        temperature: 1448 K<br />(1175 °C)
+        temperature: 267 K<br />(-6 °C)
   - name: 3412 Anilliad III
     type: Ice giant
     aphelion: 2,943,401,630 km<br />19.675 AU
@@ -439,14 +439,14 @@ planets:
     radius: 22,602.1 km<br/>(3.548 Yrths)
     surface_area: 6.420 × 10<sup>09</sup> km<sup>2</sup><br/>(12.586 Yrths)
     volume: 4.837 × 10<sup>13</sup> km<sup>3</sup><br/>(44.650 Yrths)
-    mass: 7.378 × 10<sup>25</sup> kg<br />(12.354436502943148 Yrths)
+    mass: 7.378 × 10<sup>25</sup> kg<br />(12.35 Yrths)
     density: 1.525 g/cm<sup>3</sup>
     surface_gravity: 9.626 m/s<sup>2</sup><br />(0.982 g<sub>0</sub>)
     escape_velocity: 20.874 km/s<br />(75,148 km/h)
     rotation_period: 0.354 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 392 K<br />(119 °C)
+    temperature: 362 K<br />(89 °C)
     composition:
       - 65.8751% hydrogen
       - 23.6094% helium
@@ -467,14 +467,14 @@ planets:
         radius: 24,714.1 km<br/>(3.879 Yrths)
         surface_area: 7.675 × 10<sup>09</sup> km<sup>2</sup><br/>(15.048 Yrths)
         volume: 6.323 × 10<sup>13</sup> km<sup>3</sup><br/>(58.373 Yrths)
-        mass: 1.276 × 10<sup>26</sup> kg<br />(12.354436502943148 Yrths)
+        mass: 1.276 × 10<sup>26</sup> kg<br />(21.359 Yrths)
         density: 2.017 g/cm<sup>3</sup>
         surface_gravity: 13.920 m/s<sup>2</sup><br />(1.419 g<sub>0</sub>)
         escape_velocity: 26.248 km/s<br />(94,493 km/h)
         rotation_period: 46.386 d
         axial_tilt: 17.55°
         albedo: 0.30
-        temperature: 2034 K<br />(1761 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 3412 Anilliad III b
         type: Dwarf planet
         formationType: Accreted
@@ -487,14 +487,14 @@ planets:
         radius: 10,472.5 km<br/>(1.644 Yrths)
         surface_area: 1.378 × 10<sup>09</sup> km<sup>2</sup><br/>(2.702 Yrths)
         volume: 4.811 × 10<sup>12</sup> km<sup>3</sup><br/>(4.442 Yrths)
-        mass: 8.251 × 10<sup>24</sup> kg<br />(12.354436502943148 Yrths)
+        mass: 8.251 × 10<sup>24</sup> kg<br />(1.382 Yrths)
         density: 1.715 g/cm<sup>3</sup>
         surface_gravity: 5.015 m/s<sup>2</sup><br />(0.511 g<sub>0</sub>)
         escape_velocity: 10.255 km/s<br />(36,919 km/h)
         rotation_period: 41.813 d
         axial_tilt: 35.00°
         albedo: 0.30
-        temperature: 1763 K<br />(1490 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 3412 Anilliad III c
         type: Icy
         formationType: Accreted
@@ -507,14 +507,14 @@ planets:
         radius: 11,502.5 km<br/>(1.805 Yrths)
         surface_area: 1.663 × 10<sup>09</sup> km<sup>2</sup><br/>(3.260 Yrths)
         volume: 6.375 × 10<sup>12</sup> km<sup>3</sup><br/>(5.885 Yrths)
-        mass: 7.562 × 10<sup>24</sup> kg<br />(12.354436502943148 Yrths)
+        mass: 7.562 × 10<sup>24</sup> kg<br />(1.266 Yrths)
         density: 1.186 g/cm<sup>3</sup>
         surface_gravity: 3.810 m/s<sup>2</sup><br />(0.388 g<sub>0</sub>)
         escape_velocity: 9.368 km/s<br />(33,725 km/h)
         rotation_period: 63.499 d
         axial_tilt: 11.56°
         albedo: 0.30
-        temperature: 1603 K<br />(1329 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 3412 Anilliad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -527,14 +527,14 @@ planets:
         radius: 15,193.1 km<br/>(2.385 Yrths)
         surface_area: 2.901 × 10<sup>09</sup> km<sup>2</sup><br/>(5.687 Yrths)
         volume: 1.469 × 10<sup>13</sup> km<sup>3</sup><br/>(13.562 Yrths)
-        mass: 3.198 × 10<sup>25</sup> kg<br />(12.354436502943148 Yrths)
+        mass: 3.198 × 10<sup>25</sup> kg<br />(5.356 Yrths)
         density: 2.177 g/cm<sup>3</sup>
         surface_gravity: 9.236 m/s<sup>2</sup><br />(0.942 g<sub>0</sub>)
         escape_velocity: 16.763 km/s<br />(60,348 km/h)
         rotation_period: 42.945 d
         axial_tilt: 23.19°
         albedo: 0.30
-        temperature: 1324 K<br />(1051 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 3412 Anilliad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -547,14 +547,14 @@ planets:
         radius: 10,433.4 km<br/>(1.638 Yrths)
         surface_area: 1.368 × 10<sup>09</sup> km<sup>2</sup><br/>(2.682 Yrths)
         volume: 4.757 × 10<sup>12</sup> km<sup>3</sup><br/>(4.392 Yrths)
-        mass: 9.578 × 10<sup>24</sup> kg<br />(12.354436502943148 Yrths)
+        mass: 9.578 × 10<sup>24</sup> kg<br />(1.604 Yrths)
         density: 2.013 g/cm<sup>3</sup>
         surface_gravity: 5.865 m/s<sup>2</sup><br />(0.598 g<sub>0</sub>)
         escape_velocity: 11.070 km/s<br />(39,851 km/h)
         rotation_period: 41.774 d
         axial_tilt: 27.00°
         albedo: 0.30
-        temperature: 1263 K<br />(990 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 3412 Anilliad III f
         type: Icy
         formationType: Captured
@@ -567,14 +567,14 @@ planets:
         radius: 13,098.1 km<br/>(2.056 Yrths)
         surface_area: 2.156 × 10<sup>09</sup> km<sup>2</sup><br/>(4.227 Yrths)
         volume: 9.413 × 10<sup>12</sup> km<sup>3</sup><br/>(8.690 Yrths)
-        mass: 1.187 × 10<sup>25</sup> kg<br />(12.354436502943148 Yrths)
+        mass: 1.187 × 10<sup>25</sup> kg<br />(1.987 Yrths)
         density: 1.261 g/cm<sup>3</sup>
         surface_gravity: 4.610 m/s<sup>2</sup><br />(0.470 g<sub>0</sub>)
         escape_velocity: 10.997 km/s<br />(39,588 km/h)
         rotation_period: 55.572 d
         axial_tilt: 16.69°
         albedo: 0.30
-        temperature: 1204 K<br />(931 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 3412 Anilliad III g
         type: Icy
         formationType: Captured
@@ -587,14 +587,14 @@ planets:
         radius: 17,537.6 km<br/>(2.753 Yrths)
         surface_area: 3.865 × 10<sup>09</sup> km<sup>2</sup><br/>(7.577 Yrths)
         volume: 2.259 × 10<sup>13</sup> km<sup>3</sup><br/>(20.859 Yrths)
-        mass: 2.865 × 10<sup>25</sup> kg<br />(12.354436502943148 Yrths)
+        mass: 2.865 × 10<sup>25</sup> kg<br />(4.797 Yrths)
         density: 1.268 g/cm<sup>3</sup>
         surface_gravity: 6.208 m/s<sup>2</sup><br />(0.633 g<sub>0</sub>)
         escape_velocity: 14.766 km/s<br />(53,159 km/h)
         rotation_period: 49.949 d
         axial_tilt: 17.21°
         albedo: 0.30
-        temperature: 1095 K<br />(821 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 3412 Anilliad III h
         type: Icy
         formationType: Captured
@@ -607,14 +607,14 @@ planets:
         radius: 17,258.8 km<br/>(2.709 Yrths)
         surface_area: 3.743 × 10<sup>09</sup> km<sup>2</sup><br/>(7.338 Yrths)
         volume: 2.153 × 10<sup>13</sup> km<sup>3</sup><br/>(19.880 Yrths)
-        mass: 1.507 × 10<sup>25</sup> kg<br />(12.354436502943148 Yrths)
+        mass: 1.507 × 10<sup>25</sup> kg<br />(2.524 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 3.373 m/s<sup>2</sup><br />(0.344 g<sub>0</sub>)
         escape_velocity: 10.797 km/s<br />(38,871 km/h)
         rotation_period: 69.059 d
         axial_tilt: 15.98°
         albedo: 0.30
-        temperature: 1044 K<br />(770 °C)
+        temperature: 187 K<br />(-87 °C)
       - name: 3412 Anilliad III i
         type: Ice/rock hybrid
         formationType: Captured
@@ -627,12 +627,12 @@ planets:
         radius: 10,319.2 km<br/>(1.620 Yrths)
         surface_area: 1.338 × 10<sup>09</sup> km<sup>2</sup><br/>(2.623 Yrths)
         volume: 4.603 × 10<sup>12</sup> km<sup>3</sup><br/>(4.249 Yrths)
-        mass: 8.762 × 10<sup>24</sup> kg<br />(12.354436502943148 Yrths)
+        mass: 8.762 × 10<sup>24</sup> kg<br />(1.467 Yrths)
         density: 1.904 g/cm<sup>3</sup>
         surface_gravity: 5.485 m/s<sup>2</sup><br />(0.559 g<sub>0</sub>)
         escape_velocity: 10.646 km/s<br />(38,327 km/h)
         rotation_period: 55.132 d
         axial_tilt: 30.20°
         albedo: 0.30
-        temperature: 995 K<br />(722 °C)
+        temperature: 187 K<br />(-87 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7508 Arkothiad A is a star in the constellation Arkoth
+      7508 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 792.13 ly
 apparent_magnitude: 6.63
 absolute_magnitude: -0.30

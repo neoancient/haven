@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5767 Tanashad is a star in the constellation Tanas
+      5767 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 333.06 ly
 apparent_magnitude: 9.89
 absolute_magnitude: 4.85

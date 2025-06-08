@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Eshtiad is a star in the constellation Eshti
+      ψ Eshtiad is a star in the constellation <a href="eshti.html">Eshti</a>
 distance: 245.84 ly
 apparent_magnitude: 6.20
 absolute_magnitude: 1.82
@@ -31,14 +31,14 @@ planets:
     radius: 6,077.5 km<br/>(0.954 Yrths)
     surface_area: 4.642 × 10<sup>08</sup> km<sup>2</sup><br/>(0.910 Yrths)
     volume: 9.403 × 10<sup>11</sup> km<sup>3</sup><br/>(0.868 Yrths)
-    mass: 5.070 × 10<sup>24</sup> kg<br />(0.8489414069173294 Yrths)
+    mass: 5.070 × 10<sup>24</sup> kg<br />(0.85 Yrths)
     density: 5.392 g/cm<sup>3</sup>
     surface_gravity: 9.149 m/s<sup>2</sup><br />(0.933 g<sub>0</sub>)
     escape_velocity: 10.552 km/s<br />(37,989 km/h)
     rotation_period: 1.094 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 521 K<br />(248 °C)
+    temperature: 777 K<br />(503 °C)
     surface_pressure: 107 kPa<br />(1 atm)
     composition:
       - 71.9602% nitrogen
@@ -57,12 +57,12 @@ planets:
         radius: 1,987.7 km<br/>(0.312 Yrths)
         surface_area: 4.965 × 10<sup>07</sup> km<sup>2</sup><br/>(0.097 Yrths)
         volume: 3.290 × 10<sup>10</sup> km<sup>3</sup><br/>(0.030 Yrths)
-        mass: 8.546 × 10<sup>22</sup> kg<br />(0.8489414069173294 Yrths)
+        mass: 8.546 × 10<sup>22</sup> kg<br />(0.014 Yrths)
         density: 2.598 g/cm<sup>3</sup>
         surface_gravity: 1.442 m/s<sup>2</sup><br />(0.147 g<sub>0</sub>)
         escape_velocity: 2.396 km/s<br />(8,624 km/h)
         rotation_period: 35.142 d
         axial_tilt: 24.05°
         albedo: 0.30
-        temperature: 6942 K<br />(6669 °C)
+        temperature: 396 K<br />(123 °C)
 ---

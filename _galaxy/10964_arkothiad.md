@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10964 Arkothiad is a star in the constellation Arkoth
+      10964 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 494.65 ly
 apparent_magnitude: 10.56
 absolute_magnitude: 4.65

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Tanashad C is a star in the constellation Tanas
+      σ Tanashad C is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1612.83 ly
 apparent_magnitude: 16.47
 absolute_magnitude: 8.00
@@ -31,14 +31,14 @@ planets:
     radius: 4,516.9 km<br/>(0.709 Yrths)
     surface_area: 2.564 × 10<sup>08</sup> km<sup>2</sup><br/>(0.503 Yrths)
     volume: 3.860 × 10<sup>11</sup> km<sup>3</sup><br/>(0.356 Yrths)
-    mass: 3.131 × 10<sup>24</sup> kg<br />(0.5242177117211734 Yrths)
+    mass: 3.131 × 10<sup>24</sup> kg<br />(0.52 Yrths)
     density: 8.110 g/cm<sup>3</sup>
     surface_gravity: 10.227 m/s<sup>2</sup><br />(1.043 g<sub>0</sub>)
     escape_velocity: 9.619 km/s<br />(34,627 km/h)
     rotation_period: 3.216 d
     axial_tilt: 34.41°
     albedo: 0.35
-    temperature: 463 K<br />(190 °C)
+    temperature: 1001 K<br />(728 °C)
     surface_pressure: 138 kPa<br />(1 atm)
     composition:
       - 55.7209% carbon dioxide

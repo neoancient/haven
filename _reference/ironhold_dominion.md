@@ -29,6 +29,6 @@ sections:
     content: |-
       - [Mechalon Prime](/haven/galaxy/mechalon_prime.html)
       - [Crucible](/haven/galaxy/crucible.html)
-      - [Hexis-9](/haven/galaxy/hexis-9.html)
+      - [Hexis-2](/haven/galaxy/hexis-2.html)
       - [Omega Redoubt](/haven/galaxy/omega_redoubt.html)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      φ Niniunniad A is a star in the constellation Niniun
+      φ Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 581.51 ly
 apparent_magnitude: 3.98
 absolute_magnitude: -2.28

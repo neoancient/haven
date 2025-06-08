@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13122 Noniashad is a star in the constellation Nonias
+      13122 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 469.34 ly
 apparent_magnitude: 10.71
 absolute_magnitude: 4.92

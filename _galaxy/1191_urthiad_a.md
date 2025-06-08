@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1191 Urthiad A is a star in the constellation Urth
+      1191 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 230.39 ly
 apparent_magnitude: 7.27
 absolute_magnitude: 3.02

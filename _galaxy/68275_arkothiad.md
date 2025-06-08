@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      68275 Arkothiad is a star in the constellation Arkoth
+      68275 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 488.95 ly
 apparent_magnitude: 10.53
 absolute_magnitude: 4.65

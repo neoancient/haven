@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7123 Arkothiad is a star in the constellation Arkoth
+      7123 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 280.99 ly
 apparent_magnitude: 19.11
 absolute_magnitude: 14.43

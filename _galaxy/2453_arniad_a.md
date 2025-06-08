@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2453 Arniad A is a star in the constellation Arni
+      2453 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 274.57 ly
 apparent_magnitude: 7.14
 absolute_magnitude: 2.51

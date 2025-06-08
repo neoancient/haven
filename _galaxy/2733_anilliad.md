@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2733 Anilliad is a star in the constellation Anil
+      2733 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 592.62 ly
 apparent_magnitude: 12.09
 absolute_magnitude: 5.79

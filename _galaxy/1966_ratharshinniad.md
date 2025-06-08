@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1966 Ratharshinniad is a star in the constellation Ratharshin
+      1966 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 211.57 ly
 apparent_magnitude: 12.53
 absolute_magnitude: 8.47

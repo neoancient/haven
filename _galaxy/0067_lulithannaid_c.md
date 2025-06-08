@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0067 Lulithannaid C is a star in the constellation Lulithan
+      0067 Lulithannaid C is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 122.97 ly
 apparent_magnitude: 7.94
 absolute_magnitude: 5.06
@@ -31,14 +31,14 @@ planets:
     radius: 29,492.2 km<br/>(4.629 Yrths)
     surface_area: 1.093 × 10<sup>10</sup> km<sup>2</sup><br/>(21.429 Yrths)
     volume: 1.075 × 10<sup>14</sup> km<sup>3</sup><br/>(99.197 Yrths)
-    mass: 1.514 × 10<sup>26</sup> kg<br />(25.349784337187607 Yrths)
+    mass: 1.514 × 10<sup>26</sup> kg<br />(25.35 Yrths)
     density: 1.409 g/cm<sup>3</sup>
     surface_gravity: 11.601 m/s<sup>2</sup><br />(1.183 g<sub>0</sub>)
     escape_velocity: 26.176 km/s<br />(94,235 km/h)
     rotation_period: 0.812 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 552 K<br />(279 °C)
+    temperature: 500 K<br />(227 °C)
     composition:
       - 80.5318% hydrogen
       - 14.5756% helium
@@ -57,14 +57,14 @@ planets:
         radius: 27,060.9 km<br/>(4.248 Yrths)
         surface_area: 9.202 × 10<sup>09</sup> km<sup>2</sup><br/>(18.041 Yrths)
         volume: 8.301 × 10<sup>13</sup> km<sup>3</sup><br/>(76.631 Yrths)
-        mass: 1.898 × 10<sup>26</sup> kg<br />(25.349784337187607 Yrths)
+        mass: 1.898 × 10<sup>26</sup> kg<br />(31.787 Yrths)
         density: 2.287 g/cm<sup>3</sup>
         surface_gravity: 17.278 m/s<sup>2</sup><br />(1.762 g<sub>0</sub>)
         escape_velocity: 30.601 km/s<br />(110,162 km/h)
         rotation_period: 33.887 d
         axial_tilt: 28.00°
         albedo: 0.30
-        temperature: 2505 K<br />(2232 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 0067 Lulithannaid C I b
         type: Asteroid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 23,109.7 km<br/>(3.627 Yrths)
         surface_area: 6.711 × 10<sup>09</sup> km<sup>2</sup><br/>(13.157 Yrths)
         volume: 5.170 × 10<sup>13</sup> km<sup>3</sup><br/>(47.726 Yrths)
-        mass: 8.310 × 10<sup>25</sup> kg<br />(25.349784337187607 Yrths)
+        mass: 8.310 × 10<sup>25</sup> kg<br />(13.915 Yrths)
         density: 1.607 g/cm<sup>3</sup>
         surface_gravity: 10.371 m/s<sup>2</sup><br />(1.058 g<sub>0</sub>)
         escape_velocity: 21.909 km/s<br />(78,872 km/h)
         rotation_period: 57.447 d
         axial_tilt: 34.77°
         albedo: 0.30
-        temperature: 2277 K<br />(2004 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 0067 Lulithannaid C I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -97,14 +97,14 @@ planets:
         radius: 22,330.1 km<br/>(3.505 Yrths)
         surface_area: 6.266 × 10<sup>09</sup> km<sup>2</sup><br/>(12.285 Yrths)
         volume: 4.664 × 10<sup>13</sup> km<sup>3</sup><br/>(43.058 Yrths)
-        mass: 9.191 × 10<sup>25</sup> kg<br />(25.349784337187607 Yrths)
+        mass: 9.191 × 10<sup>25</sup> kg<br />(15.391 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 12.286 m/s<sup>2</sup><br />(1.253 g<sub>0</sub>)
         escape_velocity: 23.440 km/s<br />(84,385 km/h)
         rotation_period: 59.693 d
         axial_tilt: 22.20°
         albedo: 0.30
-        temperature: 2171 K<br />(1898 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 0067 Lulithannaid C I d
         type: Rocky
         formationType: Impact formed
@@ -117,14 +117,14 @@ planets:
         radius: 29,200.9 km<br/>(4.583 Yrths)
         surface_area: 1.072 × 10<sup>10</sup> km<sup>2</sup><br/>(21.008 Yrths)
         volume: 1.043 × 10<sup>14</sup> km<sup>3</sup><br/>(96.287 Yrths)
-        mass: 3.253 × 10<sup>26</sup> kg<br />(25.349784337187607 Yrths)
+        mass: 3.253 × 10<sup>26</sup> kg<br />(54.474 Yrths)
         density: 3.119 g/cm<sup>3</sup>
         surface_gravity: 25.429 m/s<sup>2</sup><br />(2.593 g<sub>0</sub>)
         escape_velocity: 38.563 km/s<br />(138,828 km/h)
         rotation_period: 31.939 d
         axial_tilt: 8.85°
         albedo: 0.30
-        temperature: 2070 K<br />(1797 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 0067 Lulithannaid C I e
         type: Asteroid
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 19,755.4 km<br/>(3.101 Yrths)
         surface_area: 4.904 × 10<sup>09</sup> km<sup>2</sup><br/>(9.615 Yrths)
         volume: 3.230 × 10<sup>13</sup> km<sup>3</sup><br/>(29.815 Yrths)
-        mass: 8.113 × 10<sup>25</sup> kg<br />(25.349784337187607 Yrths)
+        mass: 8.113 × 10<sup>25</sup> kg<br />(13.585 Yrths)
         density: 2.512 g/cm<sup>3</sup>
         surface_gravity: 13.856 m/s<sup>2</sup><br />(1.413 g<sub>0</sub>)
         escape_velocity: 23.414 km/s<br />(84,289 km/h)
         rotation_period: 34.843 d
         axial_tilt: 28.08°
         albedo: 0.30
-        temperature: 1974 K<br />(1701 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 0067 Lulithannaid C I f
         type: Icy
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 46,704.1 km<br/>(7.331 Yrths)
         surface_area: 2.741 × 10<sup>10</sup> km<sup>2</sup><br/>(53.740 Yrths)
         volume: 4.267 × 10<sup>14</sup> km<sup>3</sup><br/>(393.952 Yrths)
-        mass: 4.989 × 10<sup>26</sup> kg<br />(25.349784337187607 Yrths)
+        mass: 4.989 × 10<sup>26</sup> kg<br />(83.539 Yrths)
         density: 1.169 g/cm<sup>3</sup>
         surface_gravity: 15.245 m/s<sup>2</sup><br />(1.555 g<sub>0</sub>)
         escape_velocity: 37.761 km/s<br />(135,940 km/h)
         rotation_period: 60.463 d
         axial_tilt: 21.22°
         albedo: 0.30
-        temperature: 1882 K<br />(1609 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 0067 Lulithannaid C I g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -177,14 +177,14 @@ planets:
         radius: 20,378.7 km<br/>(3.199 Yrths)
         surface_area: 5.219 × 10<sup>09</sup> km<sup>2</sup><br/>(10.231 Yrths)
         volume: 3.545 × 10<sup>13</sup> km<sup>3</sup><br/>(32.727 Yrths)
-        mass: 8.110 × 10<sup>25</sup> kg<br />(25.349784337187607 Yrths)
+        mass: 8.110 × 10<sup>25</sup> kg<br />(13.580 Yrths)
         density: 2.288 g/cm<sup>3</sup>
         surface_gravity: 13.016 m/s<sup>2</sup><br />(1.327 g<sub>0</sub>)
         escape_velocity: 23.048 km/s<br />(82,974 km/h)
         rotation_period: 42.983 d
         axial_tilt: 21.89°
         albedo: 0.30
-        temperature: 1795 K<br />(1521 °C)
+        temperature: 322 K<br />(49 °C)
       - name: 0067 Lulithannaid C I h
         type: Icy
         formationType: Accreted
@@ -197,14 +197,14 @@ planets:
         radius: 40,000.6 km<br/>(6.279 Yrths)
         surface_area: 2.011 × 10<sup>10</sup> km<sup>2</sup><br/>(39.420 Yrths)
         volume: 2.681 × 10<sup>14</sup> km<sup>3</sup><br/>(247.502 Yrths)
-        mass: 3.771 × 10<sup>26</sup> kg<br />(25.349784337187607 Yrths)
+        mass: 3.771 × 10<sup>26</sup> kg<br />(63.137 Yrths)
         density: 1.406 g/cm<sup>3</sup>
         surface_gravity: 15.707 m/s<sup>2</sup><br />(1.602 g<sub>0</sub>)
         escape_velocity: 35.472 km/s<br />(127,700 km/h)
         rotation_period: 43.495 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 1711 K<br />(1438 °C)
+        temperature: 322 K<br />(49 °C)
   - name: 0067 Lulithannaid C II
     type: Large terrestrial
     aphelion: 155,207,366 km<br />1.037 AU
@@ -216,14 +216,14 @@ planets:
     radius: 8,087.4 km<br/>(1.269 Yrths)
     surface_area: 8.219 × 10<sup>08</sup> km<sup>2</sup><br/>(1.611 Yrths)
     volume: 2.216 × 10<sup>12</sup> km<sup>3</sup><br/>(2.046 Yrths)
-    mass: 1.652 × 10<sup>25</sup> kg<br />(2.7656063515346636 Yrths)
+    mass: 1.652 × 10<sup>25</sup> kg<br />(2.77 Yrths)
     density: 7.454 g/cm<sup>3</sup>
     surface_gravity: 16.831 m/s<sup>2</sup><br />(1.716 g<sub>0</sub>)
     escape_velocity: 16.511 km/s<br />(59,439 km/h)
     rotation_period: 1.023 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 302 K<br />(29 °C)
+    temperature: 345 K<br />(72 °C)
     surface_pressure: 121 kPa<br />(1 atm)
     composition:
       - 81.5236% nitrogen
@@ -244,14 +244,14 @@ planets:
         radius: 4,945.2 km<br/>(0.776 Yrths)
         surface_area: 3.073 × 10<sup>08</sup> km<sup>2</sup><br/>(0.603 Yrths)
         volume: 5.066 × 10<sup>11</sup> km<sup>3</sup><br/>(0.468 Yrths)
-        mass: 8.460 × 10<sup>23</sup> kg<br />(2.7656063515346636 Yrths)
+        mass: 8.460 × 10<sup>23</sup> kg<br />(0.142 Yrths)
         density: 1.670 g/cm<sup>3</sup>
         surface_gravity: 2.306 m/s<sup>2</sup><br />(0.235 g<sub>0</sub>)
         escape_velocity: 4.779 km/s<br />(17,204 km/h)
         rotation_period: 75.617 d
         axial_tilt: 13.48°
         albedo: 0.30
-        temperature: 2966 K<br />(2693 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0067 Lulithannaid C II b
         type: Rocky
         formationType: Accreted
@@ -264,14 +264,14 @@ planets:
         radius: 5,410.3 km<br/>(0.849 Yrths)
         surface_area: 3.678 × 10<sup>08</sup> km<sup>2</sup><br/>(0.721 Yrths)
         volume: 6.634 × 10<sup>11</sup> km<sup>3</sup><br/>(0.612 Yrths)
-        mass: 1.641 × 10<sup>24</sup> kg<br />(2.7656063515346636 Yrths)
+        mass: 1.641 × 10<sup>24</sup> kg<br />(0.275 Yrths)
         density: 2.473 g/cm<sup>3</sup>
         surface_gravity: 3.736 m/s<sup>2</sup><br />(0.381 g<sub>0</sub>)
         escape_velocity: 6.362 km/s<br />(22,904 km/h)
         rotation_period: 49.942 d
         axial_tilt: 15.99°
         albedo: 0.30
-        temperature: 2828 K<br />(2555 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0067 Lulithannaid C II c
         type: Rocky
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 3,296.0 km<br/>(0.517 Yrths)
         surface_area: 1.365 × 10<sup>08</sup> km<sup>2</sup><br/>(0.268 Yrths)
         volume: 1.500 × 10<sup>11</sup> km<sup>3</sup><br/>(0.138 Yrths)
-        mass: 5.399 × 10<sup>23</sup> kg<br />(2.7656063515346636 Yrths)
+        mass: 5.399 × 10<sup>23</sup> kg<br />(0.090 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 3.313 m/s<sup>2</sup><br />(0.338 g<sub>0</sub>)
         escape_velocity: 4.676 km/s<br />(16,835 km/h)
         rotation_period: 37.121 d
         axial_tilt: 16.32°
         albedo: 0.30
-        temperature: 2696 K<br />(2423 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 0067 Lulithannaid C II d
         type: Rocky
         formationType: Accreted
@@ -304,14 +304,14 @@ planets:
         radius: 3,542.2 km<br/>(0.556 Yrths)
         surface_area: 1.577 × 10<sup>08</sup> km<sup>2</sup><br/>(0.309 Yrths)
         volume: 1.862 × 10<sup>11</sup> km<sup>3</sup><br/>(0.172 Yrths)
-        mass: 5.746 × 10<sup>23</sup> kg<br />(2.7656063515346636 Yrths)
+        mass: 5.746 × 10<sup>23</sup> kg<br />(0.096 Yrths)
         density: 3.086 g/cm<sup>3</sup>
         surface_gravity: 3.052 m/s<sup>2</sup><br />(0.311 g<sub>0</sub>)
         escape_velocity: 4.653 km/s<br />(16,751 km/h)
         rotation_period: 45.643 d
         axial_tilt: 14.80°
         albedo: 0.30
-        temperature: 2571 K<br />(2298 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: 0067 Lulithannaid C III
     type: Gas dwarf
     aphelion: 272,128,825 km<br />1.819 AU
@@ -323,14 +323,14 @@ planets:
     radius: 19,109.0 km<br/>(2.999 Yrths)
     surface_area: 4.589 × 10<sup>09</sup> km<sup>2</sup><br/>(8.996 Yrths)
     volume: 2.923 × 10<sup>13</sup> km<sup>3</sup><br/>(26.983 Yrths)
-    mass: 6.286 × 10<sup>25</sup> kg<br />(10.52524545170747 Yrths)
+    mass: 6.286 × 10<sup>25</sup> kg<br />(10.53 Yrths)
     density: 2.151 g/cm<sup>3</sup>
     surface_gravity: 11.473 m/s<sup>2</sup><br />(1.170 g<sub>0</sub>)
     escape_velocity: 20.954 km/s<br />(75,436 km/h)
     rotation_period: 0.547 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 249 K<br />(-24 °C)
+    temperature: 233 K<br />(-40 °C)
     composition:
       - 78.7516% hydrogen
       - 18.1935% helium
@@ -350,14 +350,14 @@ planets:
         radius: 16,834.0 km<br/>(2.642 Yrths)
         surface_area: 3.561 × 10<sup>09</sup> km<sup>2</sup><br/>(6.982 Yrths)
         volume: 1.998 × 10<sup>13</sup> km<sup>3</sup><br/>(18.448 Yrths)
-        mass: 5.080 × 10<sup>25</sup> kg<br />(10.52524545170747 Yrths)
+        mass: 5.080 × 10<sup>25</sup> kg<br />(8.506 Yrths)
         density: 2.542 g/cm<sup>3</sup>
         surface_gravity: 11.948 m/s<sup>2</sup><br />(1.218 g<sub>0</sub>)
         escape_velocity: 20.070 km/s<br />(72,253 km/h)
         rotation_period: 37.544 d
         axial_tilt: 8.78°
         albedo: 0.30
-        temperature: 1660 K<br />(1386 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0067 Lulithannaid C III b
         type: Icy
         formationType: Captured
@@ -370,14 +370,14 @@ planets:
         radius: 13,651.8 km<br/>(2.143 Yrths)
         surface_area: 2.342 × 10<sup>09</sup> km<sup>2</sup><br/>(4.592 Yrths)
         volume: 1.066 × 10<sup>13</sup> km<sup>3</sup><br/>(9.839 Yrths)
-        mass: 1.427 × 10<sup>25</sup> kg<br />(10.52524545170747 Yrths)
+        mass: 1.427 × 10<sup>25</sup> kg<br />(2.390 Yrths)
         density: 1.339 g/cm<sup>3</sup>
         surface_gravity: 5.104 m/s<sup>2</sup><br />(0.520 g<sub>0</sub>)
         escape_velocity: 11.813 km/s<br />(42,527 km/h)
         rotation_period: 72.596 d
         axial_tilt: 14.47°
         albedo: 0.30
-        temperature: 1582 K<br />(1309 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0067 Lulithannaid C III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -390,14 +390,14 @@ planets:
         radius: 12,953.8 km<br/>(2.033 Yrths)
         surface_area: 2.109 × 10<sup>09</sup> km<sup>2</sup><br/>(4.134 Yrths)
         volume: 9.105 × 10<sup>12</sup> km<sup>3</sup><br/>(8.406 Yrths)
-        mass: 2.231 × 10<sup>25</sup> kg<br />(10.52524545170747 Yrths)
+        mass: 2.231 × 10<sup>25</sup> kg<br />(3.736 Yrths)
         density: 2.451 g/cm<sup>3</sup>
         surface_gravity: 8.863 m/s<sup>2</sup><br />(0.904 g<sub>0</sub>)
         escape_velocity: 15.164 km/s<br />(54,589 km/h)
         rotation_period: 39.308 d
         axial_tilt: 14.79°
         albedo: 0.30
-        temperature: 1509 K<br />(1236 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0067 Lulithannaid C III d
         type: Icy
         formationType: Captured
@@ -410,14 +410,14 @@ planets:
         radius: 24,577.9 km<br/>(3.858 Yrths)
         surface_area: 7.591 × 10<sup>09</sup> km<sup>2</sup><br/>(14.882 Yrths)
         volume: 6.219 × 10<sup>13</sup> km<sup>3</sup><br/>(57.413 Yrths)
-        mass: 6.632 × 10<sup>25</sup> kg<br />(10.52524545170747 Yrths)
+        mass: 6.632 × 10<sup>25</sup> kg<br />(11.105 Yrths)
         density: 1.066 g/cm<sup>3</sup>
         surface_gravity: 7.317 m/s<sup>2</sup><br />(0.746 g<sub>0</sub>)
         escape_velocity: 18.978 km/s<br />(68,322 km/h)
         rotation_period: 61.191 d
         axial_tilt: 7.55°
         albedo: 0.30
-        temperature: 1438 K<br />(1165 °C)
+        temperature: 184 K<br />(-89 °C)
   - name: 0067 Lulithannaid C IV
     type: Terrestrial
     aphelion: 598,605,312 km<br />4.001 AU
@@ -429,7 +429,7 @@ planets:
     radius: 3,187.1 km<br/>(0.500 Yrths)
     surface_area: 1.276 × 10<sup>08</sup> km<sup>2</sup><br/>(0.250 Yrths)
     volume: 1.356 × 10<sup>11</sup> km<sup>3</sup><br/>(0.125 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.404 g/cm<sup>3</sup>
     surface_gravity: 3.919 m/s<sup>2</sup><br />(0.400 g<sub>0</sub>)
     escape_velocity: 5.001 km/s<br />(18,005 km/h)
@@ -450,14 +450,14 @@ planets:
         radius: 502.0 km<br/>(0.079 Yrths)
         surface_area: 3.167 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.299 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.309 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.309 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.469 g/cm<sup>3</sup>
         surface_gravity: 0.346 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.590 km/s<br />(2,124 km/h)
         rotation_period: 37.720 d
         axial_tilt: 13.62°
         albedo: 0.30
-        temperature: 2842 K<br />(2569 °C)
+        temperature: 139 K<br />(-134 °C)
       - name: 0067 Lulithannaid C IV b
         type: Asteroid
         formationType: Captured
@@ -470,14 +470,14 @@ planets:
         radius: 444.3 km<br/>(0.070 Yrths)
         surface_area: 2.481 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.674 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.082 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.082 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.946 g/cm<sup>3</sup>
         surface_gravity: 0.365 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.570 km/s<br />(2,053 km/h)
         rotation_period: 34.739 d
         axial_tilt: 45.12°
         albedo: 0.30
-        temperature: 2710 K<br />(2437 °C)
+        temperature: 139 K<br />(-134 °C)
   - name: 0067 Lulithannaid C V
     type: Gas giant
     aphelion: 1,031,611,304 km<br />6.896 AU
@@ -489,7 +489,7 @@ planets:
     radius: 190.4 km<br/>(0.030 Yrths)
     surface_area: 4.555 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.890 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.157 × 10<sup>26</sup> kg<br />(136.5864439449978 Yrths)
+    mass: 8.157 × 10<sup>26</sup> kg<br />(136.59 Yrths)
     density: 28221117.766 g/cm<sup>3</sup>
     surface_gravity: 1500031.685 m/s<sup>2</sup><br />(152960.663 g<sub>0</sub>)
     escape_velocity: 756.259 km/s<br />(2,722,534 km/h)
@@ -510,14 +510,14 @@ planets:
         radius: 101,042.4 km<br/>(15.860 Yrths)
         surface_area: 1.283 × 10<sup>11</sup> km<sup>2</sup><br/>(251.531 Yrths)
         volume: 4.321 × 10<sup>15</sup> km<sup>3</sup><br/>(3989.222 Yrths)
-        mass: 7.829 × 10<sup>27</sup> kg<br />(136.5864439449978 Yrths)
+        mass: 7.829 × 10<sup>27</sup> kg<br />(1311.005 Yrths)
         density: 1.812 g/cm<sup>3</sup>
         surface_gravity: 51.113 m/s<sup>2</sup><br />(5.212 g<sub>0</sub>)
         escape_velocity: 101.702 km/s<br />(366,126 km/h)
         rotation_period: 46.233 d
         axial_tilt: 15.19°
         albedo: 0.30
-        temperature: 559 K<br />(285 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0067 Lulithannaid C V b
         type: Icy
         formationType: Accreted
@@ -530,14 +530,14 @@ planets:
         radius: 101,825.2 km<br/>(15.983 Yrths)
         surface_area: 1.303 × 10<sup>11</sup> km<sup>2</sup><br/>(255.444 Yrths)
         volume: 4.422 × 10<sup>15</sup> km<sup>3</sup><br/>(4082.658 Yrths)
-        mass: 5.888 × 10<sup>27</sup> kg<br />(136.5864439449978 Yrths)
+        mass: 5.888 × 10<sup>27</sup> kg<br />(985.986 Yrths)
         density: 1.331 g/cm<sup>3</sup>
         surface_gravity: 37.853 m/s<sup>2</sup><br />(3.860 g<sub>0</sub>)
         escape_velocity: 87.859 km/s<br />(316,292 km/h)
         rotation_period: 45.329 d
         axial_tilt: 19.55°
         albedo: 0.30
-        temperature: 533 K<br />(259 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0067 Lulithannaid C V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -550,14 +550,14 @@ planets:
         radius: 86,558.2 km<br/>(13.586 Yrths)
         surface_area: 9.415 × 10<sup>10</sup> km<sup>2</sup><br/>(184.587 Yrths)
         volume: 2.717 × 10<sup>15</sup> km<sup>3</sup><br/>(2507.853 Yrths)
-        mass: 6.198 × 10<sup>27</sup> kg<br />(136.5864439449978 Yrths)
+        mass: 6.198 × 10<sup>27</sup> kg<br />(1037.888 Yrths)
         density: 2.282 g/cm<sup>3</sup>
         surface_gravity: 55.140 m/s<sup>2</sup><br />(5.623 g<sub>0</sub>)
         escape_velocity: 97.768 km/s<br />(351,967 km/h)
         rotation_period: 37.842 d
         axial_tilt: 18.37°
         albedo: 0.30
-        temperature: 301 K<br />(27 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0067 Lulithannaid C V d
         type: Icy
         formationType: Captured
@@ -570,14 +570,14 @@ planets:
         radius: 120,849.6 km<br/>(18.969 Yrths)
         surface_area: 1.835 × 10<sup>11</sup> km<sup>2</sup><br/>(359.812 Yrths)
         volume: 7.393 × 10<sup>15</sup> km<sup>3</sup><br/>(6825.163 Yrths)
-        mass: 9.644 × 10<sup>27</sup> kg<br />(136.5864439449978 Yrths)
+        mass: 9.644 × 10<sup>27</sup> kg<br />(1614.952 Yrths)
         density: 1.305 g/cm<sup>3</sup>
         surface_gravity: 44.015 m/s<sup>2</sup><br />(4.488 g<sub>0</sub>)
         escape_velocity: 103.213 km/s<br />(371,567 km/h)
         rotation_period: 45.487 d
         axial_tilt: 21.32°
         albedo: 0.30
-        temperature: 248 K<br />(-25 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0067 Lulithannaid C V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -590,14 +590,14 @@ planets:
         radius: 114,225.8 km<br/>(17.929 Yrths)
         surface_area: 1.640 × 10<sup>11</sup> km<sup>2</sup><br/>(321.450 Yrths)
         volume: 6.243 × 10<sup>15</sup> km<sup>3</sup><br/>(5763.275 Yrths)
-        mass: 1.173 × 10<sup>28</sup> kg<br />(136.5864439449978 Yrths)
+        mass: 1.173 × 10<sup>28</sup> kg<br />(1964.253 Yrths)
         density: 1.879 g/cm<sup>3</sup>
         surface_gravity: 59.925 m/s<sup>2</sup><br />(6.111 g<sub>0</sub>)
         escape_velocity: 117.083 km/s<br />(421,499 km/h)
         rotation_period: 64.621 d
         axial_tilt: 14.14°
         albedo: 0.30
-        temperature: 72 K<br />(-201 °C)
+        temperature: 105 K<br />(-168 °C)
   - name: 0067 Lulithannaid C VI
     type: Gas giant
     aphelion: 1,613,903,558 km<br />10.788 AU
@@ -609,7 +609,7 @@ planets:
     radius: 202.4 km<br/>(0.032 Yrths)
     surface_area: 5.149 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.474 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.059 × 10<sup>27</sup> kg<br />(177.3520091825543 Yrths)
+    mass: 1.059 × 10<sup>27</sup> kg<br />(177.35 Yrths)
     density: 30489385.371 g/cm<sup>3</sup>
     surface_gravity: 1723030.281 m/s<sup>2</sup><br />(175700.191 g<sub>0</sub>)
     escape_velocity: 835.749 km/s<br />(3,008,698 km/h)
@@ -630,14 +630,14 @@ planets:
         radius: 121,470.3 km<br/>(19.066 Yrths)
         surface_area: 1.854 × 10<sup>11</sup> km<sup>2</sup><br/>(363.517 Yrths)
         volume: 7.508 × 10<sup>15</sup> km<sup>3</sup><br/>(6930.865 Yrths)
-        mass: 2.185 × 10<sup>28</sup> kg<br />(177.3520091825543 Yrths)
+        mass: 2.185 × 10<sup>28</sup> kg<br />(3659.435 Yrths)
         density: 2.911 g/cm<sup>3</sup>
         surface_gravity: 98.721 m/s<sup>2</sup><br />(10.067 g<sub>0</sub>)
         escape_velocity: 154.971 km/s<br />(557,895 km/h)
         rotation_period: 40.646 d
         axial_tilt: 6.54°
         albedo: 0.30
-        temperature: 289 K<br />(16 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 0067 Lulithannaid C VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -650,14 +650,14 @@ planets:
         radius: 99,343.6 km<br/>(15.593 Yrths)
         surface_area: 1.240 × 10<sup>11</sup> km<sup>2</sup><br/>(243.145 Yrths)
         volume: 4.107 × 10<sup>15</sup> km<sup>3</sup><br/>(3791.377 Yrths)
-        mass: 1.063 × 10<sup>28</sup> kg<br />(177.3520091825543 Yrths)
+        mass: 1.063 × 10<sup>28</sup> kg<br />(1780.255 Yrths)
         density: 2.589 g/cm<sup>3</sup>
         surface_gravity: 71.802 m/s<sup>2</sup><br />(7.322 g<sub>0</sub>)
         escape_velocity: 119.522 km/s<br />(430,280 km/h)
         rotation_period: 46.556 d
         axial_tilt: 29.57°
         albedo: 0.30
-        temperature: 228 K<br />(-45 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 0067 Lulithannaid C VI c
         type: Ice/rock hybrid
         formationType: Captured
@@ -670,14 +670,14 @@ planets:
         radius: 115,869.0 km<br/>(18.187 Yrths)
         surface_area: 1.687 × 10<sup>11</sup> km<sup>2</sup><br/>(330.765 Yrths)
         volume: 6.516 × 10<sup>15</sup> km<sup>3</sup><br/>(6015.597 Yrths)
-        mass: 1.231 × 10<sup>28</sup> kg<br />(177.3520091825543 Yrths)
+        mass: 1.231 × 10<sup>28</sup> kg<br />(2061.483 Yrths)
         density: 1.889 g/cm<sup>3</sup>
         surface_gravity: 61.120 m/s<sup>2</sup><br />(6.232 g<sub>0</sub>)
         escape_velocity: 119.092 km/s<br />(428,733 km/h)
         rotation_period: 37.472 d
         axial_tilt: 15.19°
         albedo: 0.30
-        temperature: 217 K<br />(-56 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 0067 Lulithannaid C VI d
         type: Icy
         formationType: Accreted
@@ -690,14 +690,14 @@ planets:
         radius: 134,666.5 km<br/>(21.137 Yrths)
         surface_area: 2.279 × 10<sup>11</sup> km<sup>2</sup><br/>(446.791 Yrths)
         volume: 1.023 × 10<sup>16</sup> km<sup>3</sup><br/>(9444.006 Yrths)
-        mass: 1.041 × 10<sup>28</sup> kg<br />(177.3520091825543 Yrths)
+        mass: 1.041 × 10<sup>28</sup> kg<br />(1743.640 Yrths)
         density: 1.018 g/cm<sup>3</sup>
         surface_gravity: 38.271 m/s<sup>2</sup><br />(3.903 g<sub>0</sub>)
         escape_velocity: 101.596 km/s<br />(365,745 km/h)
         rotation_period: 64.800 d
         axial_tilt: 18.06°
         albedo: 0.30
-        temperature: 84 K<br />(-189 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 0067 Lulithannaid C VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -710,14 +710,14 @@ planets:
         radius: 128,940.4 km<br/>(20.239 Yrths)
         surface_area: 2.089 × 10<sup>11</sup> km<sup>2</sup><br/>(409.602 Yrths)
         volume: 8.980 × 10<sup>15</sup> km<sup>3</sup><br/>(8289.797 Yrths)
-        mass: 2.098 × 10<sup>28</sup> kg<br />(177.3520091825543 Yrths)
+        mass: 2.098 × 10<sup>28</sup> kg<br />(3513.088 Yrths)
         density: 2.336 g/cm<sup>3</sup>
         surface_gravity: 84.110 m/s<sup>2</sup><br />(8.577 g<sub>0</sub>)
         escape_velocity: 147.376 km/s<br />(530,555 km/h)
         rotation_period: 63.139 d
         axial_tilt: 28.00°
         albedo: 0.30
-        temperature: 63 K<br />(-210 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 0067 Lulithannaid C VI f
         type: Icy
         formationType: Impact formed
@@ -730,14 +730,14 @@ planets:
         radius: 146,761.9 km<br/>(23.036 Yrths)
         surface_area: 2.707 × 10<sup>11</sup> km<sup>2</sup><br/>(530.654 Yrths)
         volume: 1.324 × 10<sup>16</sup> km<sup>3</sup><br/>(12224.116 Yrths)
-        mass: 1.295 × 10<sup>28</sup> kg<br />(177.3520091825543 Yrths)
+        mass: 1.295 × 10<sup>28</sup> kg<br />(2168.706 Yrths)
         density: 0.978 g/cm<sup>3</sup>
         surface_gravity: 40.078 m/s<sup>2</sup><br />(4.087 g<sub>0</sub>)
         escape_velocity: 108.535 km/s<br />(390,727 km/h)
         rotation_period: 62.575 d
         axial_tilt: 16.61°
         albedo: 0.30
-        temperature: 60 K<br />(-213 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 0067 Lulithannaid C VI g
         type: Asteroid
         formationType: Captured
@@ -750,14 +750,14 @@ planets:
         radius: 115,541.0 km<br/>(18.135 Yrths)
         surface_area: 1.678 × 10<sup>11</sup> km<sup>2</sup><br/>(328.895 Yrths)
         volume: 6.461 × 10<sup>15</sup> km<sup>3</sup><br/>(5964.657 Yrths)
-        mass: 1.005 × 10<sup>28</sup> kg<br />(177.3520091825543 Yrths)
+        mass: 1.005 × 10<sup>28</sup> kg<br />(1682.107 Yrths)
         density: 1.555 g/cm<sup>3</sup>
         surface_gravity: 50.155 m/s<sup>2</sup><br />(5.114 g<sub>0</sub>)
         escape_velocity: 107.730 km/s<br />(387,828 km/h)
         rotation_period: 59.286 d
         axial_tilt: 44.67°
         albedo: 0.30
-        temperature: 36 K<br />(-238 °C)
+        temperature: 79 K<br />(-194 °C)
       - name: 0067 Lulithannaid C VI h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -770,14 +770,14 @@ planets:
         radius: 114,537.8 km<br/>(17.978 Yrths)
         surface_area: 1.649 × 10<sup>11</sup> km<sup>2</sup><br/>(323.208 Yrths)
         volume: 6.294 × 10<sup>15</sup> km<sup>3</sup><br/>(5810.636 Yrths)
-        mass: 1.387 × 10<sup>28</sup> kg<br />(177.3520091825543 Yrths)
+        mass: 1.387 × 10<sup>28</sup> kg<br />(2322.735 Yrths)
         density: 2.204 g/cm<sup>3</sup>
         surface_gravity: 70.475 m/s<sup>2</sup><br />(7.186 g<sub>0</sub>)
         escape_velocity: 127.146 km/s<br />(457,726 km/h)
         rotation_period: 66.292 d
         axial_tilt: 22.89°
         albedo: 0.30
-        temperature: 28 K<br />(-245 °C)
+        temperature: 79 K<br />(-194 °C)
   - name: 0067 Lulithannaid C VII
     type: Gas giant
     aphelion: 2,882,567,403 km<br />19.268 AU
@@ -789,7 +789,7 @@ planets:
     radius: 155.9 km<br/>(0.024 Yrths)
     surface_area: 3.052 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.586 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.453 × 10<sup>26</sup> kg<br />(57.82014924764944 Yrths)
+    mass: 3.453 × 10<sup>26</sup> kg<br />(57.82 Yrths)
     density: 21775793.055 g/cm<sup>3</sup>
     surface_gravity: 947525.302 m/s<sup>2</sup><br />(96620.691 g<sub>0</sub>)
     escape_velocity: 543.828 km/s<br />(1,957,780 km/h)
@@ -810,14 +810,14 @@ planets:
         radius: 68,808.1 km<br/>(10.800 Yrths)
         surface_area: 5.950 × 10<sup>10</sup> km<sup>2</sup><br/>(116.644 Yrths)
         volume: 1.365 × 10<sup>15</sup> km<sup>3</sup><br/>(1259.785 Yrths)
-        mass: 1.788 × 10<sup>27</sup> kg<br />(57.82014924764944 Yrths)
+        mass: 1.788 × 10<sup>27</sup> kg<br />(299.336 Yrths)
         density: 1.310 g/cm<sup>3</sup>
         surface_gravity: 25.166 m/s<sup>2</sup><br />(2.566 g<sub>0</sub>)
         escape_velocity: 58.889 km/s<br />(212,002 km/h)
         rotation_period: 47.840 d
         axial_tilt: 18.20°
         albedo: 0.30
-        temperature: 304 K<br />(31 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0067 Lulithannaid C VII b
         type: Dwarf planet
         formationType: Accreted
@@ -830,14 +830,14 @@ planets:
         radius: 71,274.8 km<br/>(11.187 Yrths)
         surface_area: 6.384 × 10<sup>10</sup> km<sup>2</sup><br/>(125.158 Yrths)
         volume: 1.517 × 10<sup>15</sup> km<sup>3</sup><br/>(1400.185 Yrths)
-        mass: 2.677 × 10<sup>27</sup> kg<br />(57.82014924764944 Yrths)
+        mass: 2.677 × 10<sup>27</sup> kg<br />(448.284 Yrths)
         density: 1.765 g/cm<sup>3</sup>
         surface_gravity: 35.125 m/s<sup>2</sup><br />(3.582 g<sub>0</sub>)
         escape_velocity: 70.809 km/s<br />(254,911 km/h)
         rotation_period: 51.828 d
         axial_tilt: 40.19°
         albedo: 0.30
-        temperature: 263 K<br />(-10 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0067 Lulithannaid C VII c
         type: Asteroid
         formationType: Captured
@@ -850,14 +850,14 @@ planets:
         radius: 73,905.7 km<br/>(11.600 Yrths)
         surface_area: 6.864 × 10<sup>10</sup> km<sup>2</sup><br/>(134.568 Yrths)
         volume: 1.691 × 10<sup>15</sup> km<sup>3</sup><br/>(1561.029 Yrths)
-        mass: 3.431 × 10<sup>27</sup> kg<br />(57.82014924764944 Yrths)
+        mass: 3.431 × 10<sup>27</sup> kg<br />(574.506 Yrths)
         density: 2.029 g/cm<sup>3</sup>
         surface_gravity: 41.867 m/s<sup>2</sup><br />(4.269 g<sub>0</sub>)
         escape_velocity: 78.720 km/s<br />(283,393 km/h)
         rotation_period: 68.040 d
         axial_tilt: 15.09°
         albedo: 0.30
-        temperature: 228 K<br />(-45 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0067 Lulithannaid C VII d
         type: Icy
         formationType: Captured
@@ -870,14 +870,14 @@ planets:
         radius: 71,339.9 km<br/>(11.198 Yrths)
         surface_area: 6.395 × 10<sup>10</sup> km<sup>2</sup><br/>(125.386 Yrths)
         volume: 1.521 × 10<sup>15</sup> km<sup>3</sup><br/>(1404.022 Yrths)
-        mass: 1.534 × 10<sup>27</sup> kg<br />(57.82014924764944 Yrths)
+        mass: 1.534 × 10<sup>27</sup> kg<br />(256.805 Yrths)
         density: 1.008 g/cm<sup>3</sup>
         surface_gravity: 20.085 m/s<sup>2</sup><br />(2.048 g<sub>0</sub>)
         escape_velocity: 53.569 km/s<br />(192,848 km/h)
         rotation_period: 54.804 d
         axial_tilt: 27.32°
         albedo: 0.30
-        temperature: 149 K<br />(-124 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0067 Lulithannaid C VII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -890,14 +890,14 @@ planets:
         radius: 54,263.4 km<br/>(8.517 Yrths)
         surface_area: 3.700 × 10<sup>10</sup> km<sup>2</sup><br/>(72.543 Yrths)
         volume: 6.693 × 10<sup>14</sup> km<sup>3</sup><br/>(617.871 Yrths)
-        mass: 1.662 × 10<sup>27</sup> kg<br />(57.82014924764944 Yrths)
+        mass: 1.662 × 10<sup>27</sup> kg<br />(278.248 Yrths)
         density: 2.483 g/cm<sup>3</sup>
         surface_gravity: 37.614 m/s<sup>2</sup><br />(3.836 g<sub>0</sub>)
         escape_velocity: 63.935 km/s<br />(230,167 km/h)
         rotation_period: 46.970 d
         axial_tilt: 25.59°
         albedo: 0.30
-        temperature: 123 K<br />(-150 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0067 Lulithannaid C VII f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -910,14 +910,14 @@ planets:
         radius: 60,353.1 km<br/>(9.473 Yrths)
         surface_area: 4.577 × 10<sup>10</sup> km<sup>2</sup><br/>(89.740 Yrths)
         volume: 9.208 × 10<sup>14</sup> km<sup>3</sup><br/>(850.113 Yrths)
-        mass: 2.144 × 10<sup>27</sup> kg<br />(57.82014924764944 Yrths)
+        mass: 2.144 × 10<sup>27</sup> kg<br />(358.947 Yrths)
         density: 2.328 g/cm<sup>3</sup>
         surface_gravity: 39.225 m/s<sup>2</sup><br />(4.000 g<sub>0</sub>)
         escape_velocity: 68.856 km/s<br />(247,882 km/h)
         rotation_period: 34.011 d
         axial_tilt: 23.60°
         albedo: 0.30
-        temperature: 106 K<br />(-167 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0067 Lulithannaid C VII g
         type: Icy
         formationType: Accreted
@@ -930,14 +930,14 @@ planets:
         radius: 82,801.1 km<br/>(12.997 Yrths)
         surface_area: 8.616 × 10<sup>10</sup> km<sup>2</sup><br/>(168.910 Yrths)
         volume: 2.378 × 10<sup>15</sup> km<sup>3</sup><br/>(2195.254 Yrths)
-        mass: 1.665 × 10<sup>27</sup> kg<br />(57.82014924764944 Yrths)
+        mass: 1.665 × 10<sup>27</sup> kg<br />(278.724 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 16.182 m/s<sup>2</sup><br />(1.650 g<sub>0</sub>)
         escape_velocity: 51.802 km/s<br />(186,487 km/h)
         rotation_period: 70.072 d
         axial_tilt: 11.67°
         albedo: 0.30
-        temperature: 92 K<br />(-181 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0067 Lulithannaid C VII h
         type: Ice/rock hybrid
         formationType: Captured
@@ -950,14 +950,14 @@ planets:
         radius: 73,956.0 km<br/>(11.608 Yrths)
         surface_area: 6.873 × 10<sup>10</sup> km<sup>2</sup><br/>(134.751 Yrths)
         volume: 1.694 × 10<sup>15</sup> km<sup>3</sup><br/>(1564.219 Yrths)
-        mass: 4.032 × 10<sup>27</sup> kg<br />(57.82014924764944 Yrths)
+        mass: 4.032 × 10<sup>27</sup> kg<br />(675.214 Yrths)
         density: 2.380 g/cm<sup>3</sup>
         surface_gravity: 49.139 m/s<sup>2</sup><br />(5.011 g<sub>0</sub>)
         escape_velocity: 85.312 km/s<br />(307,124 km/h)
         rotation_period: 56.420 d
         axial_tilt: 16.97°
         albedo: 0.30
-        temperature: 84 K<br />(-189 °C)
+        temperature: 60 K<br />(-213 °C)
       - name: 0067 Lulithannaid C VII i
         type: Icy
         formationType: Accreted
@@ -970,14 +970,14 @@ planets:
         radius: 72,017.2 km<br/>(11.304 Yrths)
         surface_area: 6.518 × 10<sup>10</sup> km<sup>2</sup><br/>(127.778 Yrths)
         volume: 1.565 × 10<sup>15</sup> km<sup>3</sup><br/>(1444.395 Yrths)
-        mass: 1.850 × 10<sup>27</sup> kg<br />(57.82014924764944 Yrths)
+        mass: 1.850 × 10<sup>27</sup> kg<br />(309.779 Yrths)
         density: 1.182 g/cm<sup>3</sup>
         surface_gravity: 23.775 m/s<sup>2</sup><br />(2.424 g<sub>0</sub>)
         escape_velocity: 58.558 km/s<br />(210,808 km/h)
         rotation_period: 73.772 d
         axial_tilt: 22.81°
         albedo: 0.30
-        temperature: 76 K<br />(-197 °C)
+        temperature: 60 K<br />(-213 °C)
   - name: 0067 Lulithannaid C VIII
     type: Gas giant
     aphelion: 4,749,946,125 km<br />31.751 AU
@@ -989,7 +989,7 @@ planets:
     radius: 132.5 km<br/>(0.021 Yrths)
     surface_area: 2.205 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 9.733 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.719 × 10<sup>26</sup> kg<br />(28.7863661257832 Yrths)
+    mass: 1.719 × 10<sup>26</sup> kg<br />(28.79 Yrths)
     density: 17662748.026 g/cm<sup>3</sup>
     surface_gravity: 653154.951 m/s<sup>2</sup><br />(66603.269 g<sub>0</sub>)
     escape_velocity: 416.241 km/s<br />(1,498,467 km/h)
@@ -1010,14 +1010,14 @@ planets:
         radius: 39,669.1 km<br/>(6.227 Yrths)
         surface_area: 1.977 × 10<sup>10</sup> km<sup>2</sup><br/>(38.769 Yrths)
         volume: 2.615 × 10<sup>14</sup> km<sup>3</sup><br/>(241.398 Yrths)
-        mass: 3.656 × 10<sup>26</sup> kg<br />(28.7863661257832 Yrths)
+        mass: 3.656 × 10<sup>26</sup> kg<br />(61.221 Yrths)
         density: 1.398 g/cm<sup>3</sup>
         surface_gravity: 15.486 m/s<sup>2</sup><br />(1.579 g<sub>0</sub>)
         escape_velocity: 35.075 km/s<br />(126,271 km/h)
         rotation_period: 47.159 d
         axial_tilt: 11.07°
         albedo: 0.30
-        temperature: 213 K<br />(-60 °C)
+        temperature: 45 K<br />(-228 °C)
       - name: 0067 Lulithannaid C VIII b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1030,14 +1030,14 @@ planets:
         radius: 29,890.0 km<br/>(4.692 Yrths)
         surface_area: 1.123 × 10<sup>10</sup> km<sup>2</sup><br/>(22.011 Yrths)
         volume: 1.119 × 10<sup>14</sup> km<sup>3</sup><br/>(103.265 Yrths)
-        mass: 2.605 × 10<sup>26</sup> kg<br />(28.7863661257832 Yrths)
+        mass: 2.605 × 10<sup>26</sup> kg<br />(43.623 Yrths)
         density: 2.329 g/cm<sup>3</sup>
         surface_gravity: 19.436 m/s<sup>2</sup><br />(1.982 g<sub>0</sub>)
         escape_velocity: 34.109 km/s<br />(122,793 km/h)
         rotation_period: 60.634 d
         axial_tilt: 22.53°
         albedo: 0.30
-        temperature: 99 K<br />(-174 °C)
+        temperature: 45 K<br />(-228 °C)
       - name: 0067 Lulithannaid C VIII c
         type: Rocky
         formationType: Accreted
@@ -1050,14 +1050,14 @@ planets:
         radius: 29,440.3 km<br/>(4.621 Yrths)
         surface_area: 1.089 × 10<sup>10</sup> km<sup>2</sup><br/>(21.353 Yrths)
         volume: 1.069 × 10<sup>14</sup> km<sup>3</sup><br/>(98.674 Yrths)
-        mass: 2.949 × 10<sup>26</sup> kg<br />(28.7863661257832 Yrths)
+        mass: 2.949 × 10<sup>26</sup> kg<br />(49.389 Yrths)
         density: 2.760 g/cm<sup>3</sup>
         surface_gravity: 22.682 m/s<sup>2</sup><br />(2.313 g<sub>0</sub>)
         escape_velocity: 36.570 km/s<br />(131,651 km/h)
         rotation_period: 53.250 d
         axial_tilt: 20.86°
         albedo: 0.30
-        temperature: 95 K<br />(-178 °C)
+        temperature: 45 K<br />(-228 °C)
       - name: 0067 Lulithannaid C VIII d
         type: Rocky
         formationType: Accreted
@@ -1070,14 +1070,14 @@ planets:
         radius: 41,592.1 km<br/>(6.528 Yrths)
         surface_area: 2.174 × 10<sup>10</sup> km<sup>2</sup><br/>(42.619 Yrths)
         volume: 3.014 × 10<sup>14</sup> km<sup>3</sup><br/>(278.234 Yrths)
-        mass: 8.445 × 10<sup>26</sup> kg<br />(28.7863661257832 Yrths)
+        mass: 8.445 × 10<sup>26</sup> kg<br />(141.412 Yrths)
         density: 2.802 g/cm<sup>3</sup>
         surface_gravity: 32.539 m/s<sup>2</sup><br />(3.318 g<sub>0</sub>)
         escape_velocity: 52.061 km/s<br />(187,421 km/h)
         rotation_period: 50.205 d
         axial_tilt: 11.46°
         albedo: 0.30
-        temperature: 68 K<br />(-205 °C)
+        temperature: 45 K<br />(-228 °C)
       - name: 0067 Lulithannaid C VIII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1090,14 +1090,14 @@ planets:
         radius: 37,777.6 km<br/>(5.930 Yrths)
         surface_area: 1.793 × 10<sup>10</sup> km<sup>2</sup><br/>(35.160 Yrths)
         volume: 2.258 × 10<sup>14</sup> km<sup>3</sup><br/>(208.487 Yrths)
-        mass: 4.968 × 10<sup>26</sup> kg<br />(28.7863661257832 Yrths)
+        mass: 4.968 × 10<sup>26</sup> kg<br />(83.182 Yrths)
         density: 2.200 g/cm<sup>3</sup>
         surface_gravity: 23.200 m/s<sup>2</sup><br />(2.366 g<sub>0</sub>)
         escape_velocity: 41.896 km/s<br />(150,826 km/h)
         rotation_period: 38.091 d
         axial_tilt: 22.64°
         albedo: 0.30
-        temperature: 38 K<br />(-235 °C)
+        temperature: 45 K<br />(-228 °C)
       - name: 0067 Lulithannaid C VIII f
         type: Icy
         formationType: Accreted
@@ -1110,14 +1110,14 @@ planets:
         radius: 36,402.0 km<br/>(5.714 Yrths)
         surface_area: 1.665 × 10<sup>10</sup> km<sup>2</sup><br/>(32.646 Yrths)
         volume: 2.021 × 10<sup>14</sup> km<sup>3</sup><br/>(186.532 Yrths)
-        mass: 2.594 × 10<sup>26</sup> kg<br />(28.7863661257832 Yrths)
+        mass: 2.594 × 10<sup>26</sup> kg<br />(43.443 Yrths)
         density: 1.284 g/cm<sup>3</sup>
         surface_gravity: 13.050 m/s<sup>2</sup><br />(1.331 g<sub>0</sub>)
         escape_velocity: 30.844 km/s<br />(111,039 km/h)
         rotation_period: 61.179 d
         axial_tilt: 22.74°
         albedo: 0.30
-        temperature: 24 K<br />(-249 °C)
+        temperature: 45 K<br />(-228 °C)
       - name: 0067 Lulithannaid C VIII g
         type: Icy
         formationType: Captured
@@ -1130,14 +1130,14 @@ planets:
         radius: 40,148.1 km<br/>(6.302 Yrths)
         surface_area: 2.026 × 10<sup>10</sup> km<sup>2</sup><br/>(39.711 Yrths)
         volume: 2.711 × 10<sup>14</sup> km<sup>3</sup><br/>(250.248 Yrths)
-        mass: 3.788 × 10<sup>26</sup> kg<br />(28.7863661257832 Yrths)
+        mass: 3.788 × 10<sup>26</sup> kg<br />(63.431 Yrths)
         density: 1.397 g/cm<sup>3</sup>
         surface_gravity: 15.664 m/s<sup>2</sup><br />(1.597 g<sub>0</sub>)
         escape_velocity: 35.489 km/s<br />(127,761 km/h)
         rotation_period: 70.247 d
         axial_tilt: 23.59°
         albedo: 0.30
-        temperature: 22 K<br />(-252 °C)
+        temperature: 45 K<br />(-228 °C)
       - name: 0067 Lulithannaid C VIII h
         type: Rocky
         formationType: Accreted
@@ -1150,14 +1150,14 @@ planets:
         radius: 28,559.0 km<br/>(4.483 Yrths)
         surface_area: 1.025 × 10<sup>10</sup> km<sup>2</sup><br/>(20.094 Yrths)
         volume: 9.757 × 10<sup>13</sup> km<sup>3</sup><br/>(90.076 Yrths)
-        mass: 2.961 × 10<sup>26</sup> kg<br />(28.7863661257832 Yrths)
+        mass: 2.961 × 10<sup>26</sup> kg<br />(49.584 Yrths)
         density: 3.035 g/cm<sup>3</sup>
         surface_gravity: 24.199 m/s<sup>2</sup><br />(2.468 g<sub>0</sub>)
         escape_velocity: 37.203 km/s<br />(133,931 km/h)
         rotation_period: 41.541 d
         axial_tilt: 13.51°
         albedo: 0.30
-        temperature: 11 K<br />(-263 °C)
+        temperature: 45 K<br />(-228 °C)
   - name: 0067 Lulithannaid C IX
     type: Ice giant
     aphelion: 8,956,371,092 km<br />59.869 AU
@@ -1169,14 +1169,14 @@ planets:
     radius: 29,458.3 km<br/>(4.624 Yrths)
     surface_area: 1.090 × 10<sup>10</sup> km<sup>2</sup><br/>(21.380 Yrths)
     volume: 1.071 × 10<sup>14</sup> km<sup>3</sup><br/>(98.855 Yrths)
-    mass: 1.386 × 10<sup>26</sup> kg<br />(23.2128199374364 Yrths)
+    mass: 1.386 × 10<sup>26</sup> kg<br />(23.21 Yrths)
     density: 1.295 g/cm<sup>3</sup>
     surface_gravity: 10.648 m/s<sup>2</sup><br />(1.086 g<sub>0</sub>)
     escape_velocity: 25.063 km/s<br />(90,228 km/h)
     rotation_period: 0.316 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 62 K<br />(-211 °C)
+    temperature: 57 K<br />(-216 °C)
     composition:
       - 95.3377% hydrogen
       - 4.6623% methane
@@ -1193,14 +1193,14 @@ planets:
         radius: 32,764.2 km<br/>(5.143 Yrths)
         surface_area: 1.349 × 10<sup>10</sup> km<sup>2</sup><br/>(26.447 Yrths)
         volume: 1.473 × 10<sup>14</sup> km<sup>3</sup><br/>(136.012 Yrths)
-        mass: 2.080 × 10<sup>26</sup> kg<br />(23.2128199374364 Yrths)
+        mass: 2.080 × 10<sup>26</sup> kg<br />(34.829 Yrths)
         density: 1.412 g/cm<sup>3</sup>
         surface_gravity: 12.914 m/s<sup>2</sup><br />(1.317 g<sub>0</sub>)
         escape_velocity: 29.110 km/s<br />(104,797 km/h)
         rotation_period: 62.258 d
         axial_tilt: 18.88°
         albedo: 0.30
-        temperature: 282 K<br />(9 °C)
+        temperature: 34 K<br />(-239 °C)
       - name: 0067 Lulithannaid C IX b
         type: Icy
         formationType: Accreted
@@ -1213,14 +1213,14 @@ planets:
         radius: 30,334.2 km<br/>(4.761 Yrths)
         surface_area: 1.156 × 10<sup>10</sup> km<sup>2</sup><br/>(22.670 Yrths)
         volume: 1.169 × 10<sup>14</sup> km<sup>3</sup><br/>(107.938 Yrths)
-        mass: 1.495 × 10<sup>26</sup> kg<br />(23.2128199374364 Yrths)
+        mass: 1.495 × 10<sup>26</sup> kg<br />(25.040 Yrths)
         density: 1.279 g/cm<sup>3</sup>
         surface_gravity: 10.832 m/s<sup>2</sup><br />(1.105 g<sub>0</sub>)
         escape_velocity: 25.652 km/s<br />(92,348 km/h)
         rotation_period: 81.463 d
         axial_tilt: 19.85°
         albedo: 0.30
-        temperature: 269 K<br />(-4 °C)
+        temperature: 34 K<br />(-239 °C)
       - name: 0067 Lulithannaid C IX c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1233,14 +1233,14 @@ planets:
         radius: 26,579.9 km<br/>(4.172 Yrths)
         surface_area: 8.878 × 10<sup>09</sup> km<sup>2</sup><br/>(17.406 Yrths)
         volume: 7.866 × 10<sup>13</sup> km<sup>3</sup><br/>(72.617 Yrths)
-        mass: 1.755 × 10<sup>26</sup> kg<br />(23.2128199374364 Yrths)
+        mass: 1.755 × 10<sup>26</sup> kg<br />(29.388 Yrths)
         density: 2.231 g/cm<sup>3</sup>
         surface_gravity: 16.557 m/s<sup>2</sup><br />(1.688 g<sub>0</sub>)
         escape_velocity: 29.688 km/s<br />(106,877 km/h)
         rotation_period: 33.980 d
         axial_tilt: 21.49°
         albedo: 0.30
-        temperature: 257 K<br />(-17 °C)
+        temperature: 34 K<br />(-239 °C)
       - name: 0067 Lulithannaid C IX d
         type: Icy
         formationType: Captured
@@ -1253,14 +1253,14 @@ planets:
         radius: 23,172.4 km<br/>(3.637 Yrths)
         surface_area: 6.748 × 10<sup>09</sup> km<sup>2</sup><br/>(13.229 Yrths)
         volume: 5.212 × 10<sup>13</sup> km<sup>3</sup><br/>(48.116 Yrths)
-        mass: 8.684 × 10<sup>25</sup> kg<br />(23.2128199374364 Yrths)
+        mass: 8.684 × 10<sup>25</sup> kg<br />(14.540 Yrths)
         density: 1.666 g/cm<sup>3</sup>
         surface_gravity: 10.779 m/s<sup>2</sup><br />(1.099 g<sub>0</sub>)
         escape_velocity: 22.366 km/s<br />(80,516 km/h)
         rotation_period: 66.785 d
         axial_tilt: 21.46°
         albedo: 0.30
-        temperature: 245 K<br />(-28 °C)
+        temperature: 34 K<br />(-239 °C)
       - name: 0067 Lulithannaid C IX e
         type: Ice/rock hybrid
         formationType: Captured
@@ -1273,14 +1273,14 @@ planets:
         radius: 30,046.9 km<br/>(4.716 Yrths)
         surface_area: 1.135 × 10<sup>10</sup> km<sup>2</sup><br/>(22.243 Yrths)
         volume: 1.136 × 10<sup>14</sup> km<sup>3</sup><br/>(104.901 Yrths)
-        mass: 2.240 × 10<sup>26</sup> kg<br />(23.2128199374364 Yrths)
+        mass: 2.240 × 10<sup>26</sup> kg<br />(37.508 Yrths)
         density: 1.971 g/cm<sup>3</sup>
         surface_gravity: 16.537 m/s<sup>2</sup><br />(1.686 g<sub>0</sub>)
         escape_velocity: 31.546 km/s<br />(113,565 km/h)
         rotation_period: 41.382 d
         axial_tilt: 12.38°
         albedo: 0.30
-        temperature: 202 K<br />(-71 °C)
+        temperature: 34 K<br />(-239 °C)
       - name: 0067 Lulithannaid C IX f
         type: Dwarf planet
         formationType: Captured
@@ -1293,14 +1293,14 @@ planets:
         radius: 34,030.2 km<br/>(5.341 Yrths)
         surface_area: 1.455 × 10<sup>10</sup> km<sup>2</sup><br/>(28.531 Yrths)
         volume: 1.651 × 10<sup>14</sup> km<sup>3</sup><br/>(152.395 Yrths)
-        mass: 3.742 × 10<sup>26</sup> kg<br />(23.2128199374364 Yrths)
+        mass: 3.742 × 10<sup>26</sup> kg<br />(62.667 Yrths)
         density: 2.267 g/cm<sup>3</sup>
         surface_gravity: 21.540 m/s<sup>2</sup><br />(2.196 g<sub>0</sub>)
         escape_velocity: 38.315 km/s<br />(137,933 km/h)
         rotation_period: 36.264 d
         axial_tilt: 16.23°
         albedo: 0.30
-        temperature: 184 K<br />(-89 °C)
+        temperature: 34 K<br />(-239 °C)
       - name: 0067 Lulithannaid C IX g
         type: Icy
         formationType: Accreted
@@ -1313,14 +1313,14 @@ planets:
         radius: 29,498.9 km<br/>(4.630 Yrths)
         surface_area: 1.094 × 10<sup>10</sup> km<sup>2</sup><br/>(21.439 Yrths)
         volume: 1.075 × 10<sup>14</sup> km<sup>3</sup><br/>(99.265 Yrths)
-        mass: 1.438 × 10<sup>26</sup> kg<br />(23.2128199374364 Yrths)
+        mass: 1.438 × 10<sup>26</sup> kg<br />(24.078 Yrths)
         density: 1.337 g/cm<sup>3</sup>
         surface_gravity: 11.014 m/s<sup>2</sup><br />(1.123 g<sub>0</sub>)
         escape_velocity: 25.508 km/s<br />(91,830 km/h)
         rotation_period: 44.947 d
         axial_tilt: 15.03°
         albedo: 0.30
-        temperature: 159 K<br />(-114 °C)
+        temperature: 34 K<br />(-239 °C)
       - name: 0067 Lulithannaid C IX h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1333,14 +1333,14 @@ planets:
         radius: 26,677.0 km<br/>(4.187 Yrths)
         surface_area: 8.943 × 10<sup>09</sup> km<sup>2</sup><br/>(17.533 Yrths)
         volume: 7.952 × 10<sup>13</sup> km<sup>3</sup><br/>(73.416 Yrths)
-        mass: 1.571 × 10<sup>26</sup> kg<br />(23.2128199374364 Yrths)
+        mass: 1.571 × 10<sup>26</sup> kg<br />(26.307 Yrths)
         density: 1.976 g/cm<sup>3</sup>
         surface_gravity: 14.714 m/s<sup>2</sup><br />(1.500 g<sub>0</sub>)
         escape_velocity: 28.038 km/s<br />(100,936 km/h)
         rotation_period: 37.985 d
         axial_tilt: 12.97°
         albedo: 0.30
-        temperature: 132 K<br />(-141 °C)
+        temperature: 34 K<br />(-239 °C)
   - name: 0067 Lulithannaid C X
     type: Gas giant
     aphelion: 13,861,494,816 km<br />92.657 AU
@@ -1352,7 +1352,7 @@ planets:
     radius: 180.8 km<br/>(0.028 Yrths)
     surface_area: 4.106 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.474 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.517 × 10<sup>26</sup> kg<br />(109.12893838671222 Yrths)
+    mass: 6.517 × 10<sup>26</sup> kg<br />(109.13 Yrths)
     density: 26342895.038 g/cm<sup>3</sup>
     surface_gravity: 1329446.108 m/s<sup>2</sup><br />(135565.775 g<sub>0</sub>)
     escape_velocity: 693.740 km/s<br />(2,497,462 km/h)
@@ -1373,14 +1373,14 @@ planets:
         radius: 115,052.6 km<br/>(18.059 Yrths)
         surface_area: 1.663 × 10<sup>11</sup> km<sup>2</sup><br/>(326.120 Yrths)
         volume: 6.379 × 10<sup>15</sup> km<sup>3</sup><br/>(5889.338 Yrths)
-        mass: 7.783 × 10<sup>27</sup> kg<br />(109.12893838671222 Yrths)
+        mass: 7.783 × 10<sup>27</sup> kg<br />(1303.245 Yrths)
         density: 1.220 g/cm<sup>3</sup>
         surface_gravity: 39.189 m/s<sup>2</sup><br />(3.996 g<sub>0</sub>)
         escape_velocity: 95.026 km/s<br />(342,094 km/h)
         rotation_period: 53.413 d
         axial_tilt: 23.22°
         albedo: 0.30
-        temperature: 164 K<br />(-109 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 0067 Lulithannaid C X b
         type: Icy
         formationType: Accreted
@@ -1393,14 +1393,14 @@ planets:
         radius: 128,315.7 km<br/>(20.141 Yrths)
         surface_area: 2.069 × 10<sup>11</sup> km<sup>2</sup><br/>(405.644 Yrths)
         volume: 8.850 × 10<sup>15</sup> km<sup>3</sup><br/>(8169.903 Yrths)
-        mass: 1.338 × 10<sup>28</sup> kg<br />(109.12893838671222 Yrths)
+        mass: 1.338 × 10<sup>28</sup> kg<br />(2240.521 Yrths)
         density: 1.512 g/cm<sup>3</sup>
         surface_gravity: 54.166 m/s<sup>2</sup><br />(5.523 g<sub>0</sub>)
         escape_velocity: 117.981 km/s<br />(424,732 km/h)
         rotation_period: 66.049 d
         axial_tilt: 19.74°
         albedo: 0.30
-        temperature: 112 K<br />(-161 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 0067 Lulithannaid C X c
         type: Icy
         formationType: Captured
@@ -1413,14 +1413,14 @@ planets:
         radius: 120,441.2 km<br/>(18.905 Yrths)
         surface_area: 1.823 × 10<sup>11</sup> km<sup>2</sup><br/>(357.384 Yrths)
         volume: 7.318 × 10<sup>15</sup> km<sup>3</sup><br/>(6756.194 Yrths)
-        mass: 1.257 × 10<sup>28</sup> kg<br />(109.12893838671222 Yrths)
+        mass: 1.257 × 10<sup>28</sup> kg<br />(2104.582 Yrths)
         density: 1.717 g/cm<sup>3</sup>
         surface_gravity: 57.750 m/s<sup>2</sup><br />(5.889 g<sub>0</sub>)
         escape_velocity: 118.025 km/s<br />(424,889 km/h)
         rotation_period: 63.486 d
         axial_tilt: 18.93°
         albedo: 0.30
-        temperature: 39 K<br />(-234 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 0067 Lulithannaid C X d
         type: Asteroid
         formationType: Captured
@@ -1433,14 +1433,14 @@ planets:
         radius: 98,891.8 km<br/>(15.522 Yrths)
         surface_area: 1.229 × 10<sup>11</sup> km<sup>2</sup><br/>(240.938 Yrths)
         volume: 4.051 × 10<sup>15</sup> km<sup>3</sup><br/>(3739.886 Yrths)
-        mass: 1.181 × 10<sup>28</sup> kg<br />(109.12893838671222 Yrths)
+        mass: 1.181 × 10<sup>28</sup> kg<br />(1977.461 Yrths)
         density: 2.915 g/cm<sup>3</sup>
         surface_gravity: 80.486 m/s<sup>2</sup><br />(8.207 g<sub>0</sub>)
         escape_velocity: 126.256 km/s<br />(454,521 km/h)
         rotation_period: 30.325 d
         axial_tilt: 13.04°
         albedo: 0.30
-        temperature: 33 K<br />(-241 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 0067 Lulithannaid C X e
         type: Ice/rock hybrid
         formationType: Captured
@@ -1453,14 +1453,14 @@ planets:
         radius: 99,079.7 km<br/>(15.552 Yrths)
         surface_area: 1.234 × 10<sup>11</sup> km<sup>2</sup><br/>(241.855 Yrths)
         volume: 4.074 × 10<sup>15</sup> km<sup>3</sup><br/>(3761.244 Yrths)
-        mass: 6.715 × 10<sup>27</sup> kg<br />(109.12893838671222 Yrths)
+        mass: 6.715 × 10<sup>27</sup> kg<br />(1124.431 Yrths)
         density: 1.648 g/cm<sup>3</sup>
         surface_gravity: 45.593 m/s<sup>2</sup><br />(4.649 g<sub>0</sub>)
         escape_velocity: 95.116 km/s<br />(342,416 km/h)
         rotation_period: 49.208 d
         axial_tilt: 29.23°
         albedo: 0.30
-        temperature: 28 K<br />(-245 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 0067 Lulithannaid C X f
         type: Asteroid
         formationType: Captured
@@ -1473,14 +1473,14 @@ planets:
         radius: 74,194.8 km<br/>(11.646 Yrths)
         surface_area: 6.918 × 10<sup>10</sup> km<sup>2</sup><br/>(135.623 Yrths)
         volume: 1.711 × 10<sup>15</sup> km<sup>3</sup><br/>(1579.421 Yrths)
-        mass: 4.359 × 10<sup>27</sup> kg<br />(109.12893838671222 Yrths)
+        mass: 4.359 × 10<sup>27</sup> kg<br />(729.969 Yrths)
         density: 2.548 g/cm<sup>3</sup>
         surface_gravity: 52.783 m/s<sup>2</sup><br />(5.382 g<sub>0</sub>)
         escape_velocity: 88.561 km/s<br />(318,820 km/h)
         rotation_period: 33.046 d
         axial_tilt: 43.20°
         albedo: 0.30
-        temperature: 20 K<br />(-253 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 0067 Lulithannaid C X g
         type: Rocky
         formationType: Captured
@@ -1493,14 +1493,14 @@ planets:
         radius: 79,208.0 km<br/>(12.433 Yrths)
         surface_area: 7.884 × 10<sup>10</sup> km<sup>2</sup><br/>(154.569 Yrths)
         volume: 2.082 × 10<sup>15</sup> km<sup>3</sup><br/>(1921.698 Yrths)
-        mass: 6.166 × 10<sup>27</sup> kg<br />(109.12893838671222 Yrths)
+        mass: 6.166 × 10<sup>27</sup> kg<br />(1032.406 Yrths)
         density: 2.962 g/cm<sup>3</sup>
         surface_gravity: 65.501 m/s<sup>2</sup><br />(6.679 g<sub>0</sub>)
         escape_velocity: 101.934 km/s<br />(366,962 km/h)
         rotation_period: 32.979 d
         axial_tilt: 15.98°
         albedo: 0.30
-        temperature: 11 K<br />(-262 °C)
+        temperature: 26 K<br />(-247 °C)
       - name: 0067 Lulithannaid C X h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1513,14 +1513,14 @@ planets:
         radius: 85,836.8 km<br/>(13.473 Yrths)
         surface_area: 9.259 × 10<sup>10</sup> km<sup>2</sup><br/>(181.523 Yrths)
         volume: 2.649 × 10<sup>15</sup> km<sup>3</sup><br/>(2445.669 Yrths)
-        mass: 5.721 × 10<sup>27</sup> kg<br />(109.12893838671222 Yrths)
+        mass: 5.721 × 10<sup>27</sup> kg<br />(958.020 Yrths)
         density: 2.160 g/cm<sup>3</sup>
         surface_gravity: 51.756 m/s<sup>2</sup><br />(5.278 g<sub>0</sub>)
         escape_velocity: 94.325 km/s<br />(339,571 km/h)
         rotation_period: 45.378 d
         axial_tilt: 10.05°
         albedo: 0.30
-        temperature: 6 K<br />(-267 °C)
+        temperature: 26 K<br />(-247 °C)
   - name: 0067 Lulithannaid C XI
     type: Ice giant
     aphelion: 26,166,093,785 km<br />174.907 AU
@@ -1532,14 +1532,14 @@ planets:
     radius: 15,856.9 km<br/>(2.489 Yrths)
     surface_area: 3.160 × 10<sup>09</sup> km<sup>2</sup><br/>(6.195 Yrths)
     volume: 1.670 × 10<sup>13</sup> km<sup>3</sup><br/>(15.418 Yrths)
-    mass: 2.714 × 10<sup>25</sup> kg<br />(4.545000518436035 Yrths)
+    mass: 2.714 × 10<sup>25</sup> kg<br />(4.55 Yrths)
     density: 1.625 g/cm<sup>3</sup>
     surface_gravity: 7.195 m/s<sup>2</sup><br />(0.734 g<sub>0</sub>)
     escape_velocity: 15.116 km/s<br />(54,418 km/h)
     rotation_period: 0.400 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 39 K<br />(-235 °C)
+    temperature: 35 K<br />(-238 °C)
     composition:
       - 82.4143% hydrogen
       - 15.7764% helium
@@ -1557,14 +1557,14 @@ planets:
         radius: 5,448.8 km<br/>(0.855 Yrths)
         surface_area: 3.731 × 10<sup>08</sup> km<sup>2</sup><br/>(0.731 Yrths)
         volume: 6.776 × 10<sup>11</sup> km<sup>3</sup><br/>(0.626 Yrths)
-        mass: 8.587 × 10<sup>23</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 8.587 × 10<sup>23</sup> kg<br />(0.144 Yrths)
         density: 1.267 g/cm<sup>3</sup>
         surface_gravity: 1.928 m/s<sup>2</sup><br />(0.197 g<sub>0</sub>)
         escape_velocity: 4.586 km/s<br />(16,511 km/h)
         rotation_period: 60.260 d
         axial_tilt: 18.28°
         albedo: 0.30
-        temperature: 211 K<br />(-62 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI b
         type: Icy
         formationType: Accreted
@@ -1577,14 +1577,14 @@ planets:
         radius: 18,893.0 km<br/>(2.965 Yrths)
         surface_area: 4.486 × 10<sup>09</sup> km<sup>2</sup><br/>(8.794 Yrths)
         volume: 2.825 × 10<sup>13</sup> km<sup>3</sup><br/>(26.078 Yrths)
-        mass: 2.069 × 10<sup>25</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 2.069 × 10<sup>25</sup> kg<br />(3.465 Yrths)
         density: 0.732 g/cm<sup>3</sup>
         surface_gravity: 3.864 m/s<sup>2</sup><br />(0.394 g<sub>0</sub>)
         escape_velocity: 12.091 km/s<br />(43,528 km/h)
         rotation_period: 103.226 d
         axial_tilt: 15.42°
         albedo: 0.30
-        temperature: 201 K<br />(-72 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI c
         type: Ice/rock hybrid
         formationType: Captured
@@ -1597,14 +1597,14 @@ planets:
         radius: 10,079.0 km<br/>(1.582 Yrths)
         surface_area: 1.277 × 10<sup>09</sup> km<sup>2</sup><br/>(2.503 Yrths)
         volume: 4.289 × 10<sup>12</sup> km<sup>3</sup><br/>(3.959 Yrths)
-        mass: 1.059 × 10<sup>25</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 1.059 × 10<sup>25</sup> kg<br />(1.773 Yrths)
         density: 2.469 g/cm<sup>3</sup>
         surface_gravity: 6.948 m/s<sup>2</sup><br />(0.709 g<sub>0</sub>)
         escape_velocity: 11.843 km/s<br />(42,635 km/h)
         rotation_period: 59.803 d
         axial_tilt: 19.39°
         albedo: 0.30
-        temperature: 192 K<br />(-81 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI d
         type: Icy
         formationType: Accreted
@@ -1617,14 +1617,14 @@ planets:
         radius: 3,923.8 km<br/>(0.616 Yrths)
         surface_area: 1.935 × 10<sup>08</sup> km<sup>2</sup><br/>(0.379 Yrths)
         volume: 2.531 × 10<sup>11</sup> km<sup>3</sup><br/>(0.234 Yrths)
-        mass: 4.808 × 10<sup>23</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 4.808 × 10<sup>23</sup> kg<br />(0.081 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 2.081 m/s<sup>2</sup><br />(0.212 g<sub>0</sub>)
         escape_velocity: 4.044 km/s<br />(14,560 km/h)
         rotation_period: 36.973 d
         axial_tilt: 6.93°
         albedo: 0.30
-        temperature: 183 K<br />(-90 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI e
         type: Icy
         formationType: Captured
@@ -1637,14 +1637,14 @@ planets:
         radius: 9,162.7 km<br/>(1.438 Yrths)
         surface_area: 1.055 × 10<sup>09</sup> km<sup>2</sup><br/>(2.068 Yrths)
         volume: 3.222 × 10<sup>12</sup> km<sup>3</sup><br/>(2.975 Yrths)
-        mass: 4.150 × 10<sup>24</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 4.150 × 10<sup>24</sup> kg<br />(0.695 Yrths)
         density: 1.288 g/cm<sup>3</sup>
         surface_gravity: 3.294 m/s<sup>2</sup><br />(0.336 g<sub>0</sub>)
         escape_velocity: 7.775 km/s<br />(27,990 km/h)
         rotation_period: 54.181 d
         axial_tilt: 12.63°
         albedo: 0.30
-        temperature: 174 K<br />(-99 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1657,14 +1657,14 @@ planets:
         radius: 3,181.8 km<br/>(0.499 Yrths)
         surface_area: 1.272 × 10<sup>08</sup> km<sup>2</sup><br/>(0.249 Yrths)
         volume: 1.349 × 10<sup>11</sup> km<sup>3</sup><br/>(0.125 Yrths)
-        mass: 3.585 × 10<sup>23</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 3.585 × 10<sup>23</sup> kg<br />(0.060 Yrths)
         density: 2.657 g/cm<sup>3</sup>
         surface_gravity: 2.360 m/s<sup>2</sup><br />(0.241 g<sub>0</sub>)
         escape_velocity: 3.878 km/s<br />(13,961 km/h)
         rotation_period: 45.631 d
         axial_tilt: 18.52°
         albedo: 0.30
-        temperature: 166 K<br />(-107 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI g
         type: Icy
         formationType: Accreted
@@ -1677,14 +1677,14 @@ planets:
         radius: 8,213.6 km<br/>(1.289 Yrths)
         surface_area: 8.478 × 10<sup>08</sup> km<sup>2</sup><br/>(1.662 Yrths)
         volume: 2.321 × 10<sup>12</sup> km<sup>3</sup><br/>(2.143 Yrths)
-        mass: 2.979 × 10<sup>24</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 2.979 × 10<sup>24</sup> kg<br />(0.499 Yrths)
         density: 1.284 g/cm<sup>3</sup>
         surface_gravity: 2.943 m/s<sup>2</sup><br />(0.300 g<sub>0</sub>)
         escape_velocity: 6.958 km/s<br />(25,050 km/h)
         rotation_period: 61.103 d
         axial_tilt: 18.16°
         albedo: 0.30
-        temperature: 158 K<br />(-115 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI h
         type: Dwarf planet
         formationType: Accreted
@@ -1697,14 +1697,14 @@ planets:
         radius: 5,838.1 km<br/>(0.916 Yrths)
         surface_area: 4.283 × 10<sup>08</sup> km<sup>2</sup><br/>(0.840 Yrths)
         volume: 8.335 × 10<sup>11</sup> km<sup>3</sup><br/>(0.769 Yrths)
-        mass: 2.334 × 10<sup>24</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 2.334 × 10<sup>24</sup> kg<br />(0.391 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 4.564 m/s<sup>2</sup><br />(0.465 g<sub>0</sub>)
         escape_velocity: 7.305 km/s<br />(26,298 km/h)
         rotation_period: 37.668 d
         axial_tilt: 19.58°
         albedo: 0.30
-        temperature: 151 K<br />(-122 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI i
         type: Asteroid
         formationType: Captured
@@ -1717,14 +1717,14 @@ planets:
         radius: 5,645.1 km<br/>(0.886 Yrths)
         surface_area: 4.004 × 10<sup>08</sup> km<sup>2</sup><br/>(0.785 Yrths)
         volume: 7.535 × 10<sup>11</sup> km<sup>3</sup><br/>(0.696 Yrths)
-        mass: 2.766 × 10<sup>24</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 2.766 × 10<sup>24</sup> kg<br />(0.463 Yrths)
         density: 3.671 g/cm<sup>3</sup>
         surface_gravity: 5.785 m/s<sup>2</sup><br />(0.590 g<sub>0</sub>)
         escape_velocity: 8.087 km/s<br />(29,114 km/h)
         rotation_period: 26.799 d
         axial_tilt: 26.56°
         albedo: 0.30
-        temperature: 144 K<br />(-129 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI j
         type: Ice/rock hybrid
         formationType: Captured
@@ -1737,14 +1737,14 @@ planets:
         radius: 5,844.7 km<br/>(0.917 Yrths)
         surface_area: 4.293 × 10<sup>08</sup> km<sup>2</sup><br/>(0.842 Yrths)
         volume: 8.363 × 10<sup>11</sup> km<sup>3</sup><br/>(0.772 Yrths)
-        mass: 1.517 × 10<sup>24</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 1.517 × 10<sup>24</sup> kg<br />(0.254 Yrths)
         density: 1.813 g/cm<sup>3</sup>
         surface_gravity: 2.959 m/s<sup>2</sup><br />(0.302 g<sub>0</sub>)
         escape_velocity: 5.885 km/s<br />(21,187 km/h)
         rotation_period: 65.027 d
         axial_tilt: 11.65°
         albedo: 0.30
-        temperature: 131 K<br />(-142 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1757,14 +1757,14 @@ planets:
         radius: 8,432.5 km<br/>(1.324 Yrths)
         surface_area: 8.936 × 10<sup>08</sup> km<sup>2</sup><br/>(1.752 Yrths)
         volume: 2.512 × 10<sup>12</sup> km<sup>3</sup><br/>(2.319 Yrths)
-        mass: 5.252 × 10<sup>24</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 5.252 × 10<sup>24</sup> kg<br />(0.879 Yrths)
         density: 2.091 g/cm<sup>3</sup>
         surface_gravity: 4.923 m/s<sup>2</sup><br />(0.502 g<sub>0</sub>)
         escape_velocity: 9.118 km/s<br />(32,825 km/h)
         rotation_period: 53.485 d
         axial_tilt: 15.52°
         albedo: 0.30
-        temperature: 125 K<br />(-148 °C)
+        temperature: 19 K<br />(-254 °C)
       - name: 0067 Lulithannaid C XI l
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1777,12 +1777,12 @@ planets:
         radius: 13,296.6 km<br/>(2.087 Yrths)
         surface_area: 2.222 × 10<sup>09</sup> km<sup>2</sup><br/>(4.356 Yrths)
         volume: 9.847 × 10<sup>12</sup> km<sup>3</sup><br/>(9.091 Yrths)
-        mass: 2.310 × 10<sup>25</sup> kg<br />(4.545000518436035 Yrths)
+        mass: 2.310 × 10<sup>25</sup> kg<br />(3.868 Yrths)
         density: 2.346 g/cm<sup>3</sup>
         surface_gravity: 8.709 m/s<sup>2</sup><br />(0.888 g<sub>0</sub>)
         escape_velocity: 15.228 km/s<br />(54,822 km/h)
         rotation_period: 58.912 d
         axial_tilt: 22.88°
         albedo: 0.30
-        temperature: 119 K<br />(-154 °C)
+        temperature: 19 K<br />(-254 °C)
 ---

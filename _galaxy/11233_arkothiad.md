@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11233 Arkothiad is a star in the constellation Arkoth
+      11233 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 326.62 ly
 apparent_magnitude: 8.95
 absolute_magnitude: 3.94
@@ -31,14 +31,14 @@ planets:
     radius: 7,586.1 km<br/>(1.191 Yrths)
     surface_area: 7.232 × 10<sup>08</sup> km<sup>2</sup><br/>(1.418 Yrths)
     volume: 1.829 × 10<sup>12</sup> km<sup>3</sup><br/>(1.688 Yrths)
-    mass: 9.919 × 10<sup>24</sup> kg<br />(1.6609574242609009 Yrths)
+    mass: 9.919 × 10<sup>24</sup> kg<br />(1.66 Yrths)
     density: 5.424 g/cm<sup>3</sup>
     surface_gravity: 11.488 m/s<sup>2</sup><br />(1.171 g<sub>0</sub>)
     escape_velocity: 13.211 km/s<br />(47,561 km/h)
     rotation_period: 0.948 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 418 K<br />(144 °C)
+    temperature: 474 K<br />(200 °C)
     surface_pressure: 126 kPa<br />(1 atm)
     composition:
       - 89.5859% nitrogen
@@ -54,14 +54,14 @@ planets:
     radius: 27,953.0 km<br/>(4.388 Yrths)
     surface_area: 9.819 × 10<sup>09</sup> km<sup>2</sup><br/>(19.250 Yrths)
     volume: 9.149 × 10<sup>13</sup> km<sup>3</sup><br/>(84.462 Yrths)
-    mass: 1.334 × 10<sup>26</sup> kg<br />(22.3352573939954 Yrths)
+    mass: 1.334 × 10<sup>26</sup> kg<br />(22.34 Yrths)
     density: 1.458 g/cm<sup>3</sup>
     surface_gravity: 11.378 m/s<sup>2</sup><br />(1.160 g<sub>0</sub>)
     escape_velocity: 25.238 km/s<br />(90,858 km/h)
     rotation_period: 0.358 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 517 K<br />(244 °C)
+    temperature: 473 K<br />(200 °C)
     composition:
       - 89.8258% hydrogen
       - 5.3493% helium
@@ -82,14 +82,14 @@ planets:
         radius: 17,136.4 km<br/>(2.690 Yrths)
         surface_area: 3.690 × 10<sup>09</sup> km<sup>2</sup><br/>(7.235 Yrths)
         volume: 2.108 × 10<sup>13</sup> km<sup>3</sup><br/>(19.460 Yrths)
-        mass: 6.920 × 10<sup>25</sup> kg<br />(22.3352573939954 Yrths)
+        mass: 6.920 × 10<sup>25</sup> kg<br />(11.587 Yrths)
         density: 3.283 g/cm<sup>3</sup>
         surface_gravity: 15.706 m/s<sup>2</sup><br />(1.602 g<sub>0</sub>)
         escape_velocity: 23.217 km/s<br />(83,579 km/h)
         rotation_period: 32.317 d
         axial_tilt: 18.91°
         albedo: 0.30
-        temperature: 2237 K<br />(1964 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 11233 Arkothiad II b
         type: Asteroid
         formationType: Captured
@@ -102,14 +102,14 @@ planets:
         radius: 34,489.0 km<br/>(5.413 Yrths)
         surface_area: 1.495 × 10<sup>10</sup> km<sup>2</sup><br/>(29.305 Yrths)
         volume: 1.718 × 10<sup>14</sup> km<sup>3</sup><br/>(158.643 Yrths)
-        mass: 2.779 × 10<sup>26</sup> kg<br />(22.3352573939954 Yrths)
+        mass: 2.779 × 10<sup>26</sup> kg<br />(46.530 Yrths)
         density: 1.617 g/cm<sup>3</sup>
         surface_gravity: 15.571 m/s<sup>2</sup><br />(1.588 g<sub>0</sub>)
         escape_velocity: 32.795 km/s<br />(118,061 km/h)
         rotation_period: 46.875 d
         axial_tilt: 33.71°
         albedo: 0.30
-        temperature: 2133 K<br />(1860 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 11233 Arkothiad II c
         type: Rocky
         formationType: Accreted
@@ -122,14 +122,14 @@ planets:
         radius: 41,003.6 km<br/>(6.436 Yrths)
         surface_area: 2.113 × 10<sup>10</sup> km<sup>2</sup><br/>(41.422 Yrths)
         volume: 2.888 × 10<sup>14</sup> km<sup>3</sup><br/>(266.589 Yrths)
-        mass: 8.864 × 10<sup>26</sup> kg<br />(22.3352573939954 Yrths)
+        mass: 8.864 × 10<sup>26</sup> kg<br />(148.426 Yrths)
         density: 3.070 g/cm<sup>3</sup>
         surface_gravity: 35.140 m/s<sup>2</sup><br />(3.583 g<sub>0</sub>)
         escape_velocity: 53.718 km/s<br />(193,386 km/h)
         rotation_period: 53.635 d
         axial_tilt: 18.38°
         albedo: 0.30
-        temperature: 2034 K<br />(1761 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 11233 Arkothiad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 16,929.3 km<br/>(2.657 Yrths)
         surface_area: 3.602 × 10<sup>09</sup> km<sup>2</sup><br/>(7.061 Yrths)
         volume: 2.032 × 10<sup>13</sup> km<sup>3</sup><br/>(18.763 Yrths)
-        mass: 4.881 × 10<sup>25</sup> kg<br />(22.3352573939954 Yrths)
+        mass: 4.881 × 10<sup>25</sup> kg<br />(8.174 Yrths)
         density: 2.402 g/cm<sup>3</sup>
         surface_gravity: 11.352 m/s<sup>2</sup><br />(1.158 g<sub>0</sub>)
         escape_velocity: 19.619 km/s<br />(70,627 km/h)
         rotation_period: 54.973 d
         axial_tilt: 18.72°
         albedo: 0.30
-        temperature: 1849 K<br />(1576 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 11233 Arkothiad II e
         type: Asteroid
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 18,208.0 km<br/>(2.858 Yrths)
         surface_area: 4.166 × 10<sup>09</sup> km<sup>2</sup><br/>(8.168 Yrths)
         volume: 2.529 × 10<sup>13</sup> km<sup>3</sup><br/>(23.343 Yrths)
-        mass: 7.877 × 10<sup>25</sup> kg<br />(22.3352573939954 Yrths)
+        mass: 7.877 × 10<sup>25</sup> kg<br />(13.189 Yrths)
         density: 3.115 g/cm<sup>3</sup>
         surface_gravity: 15.835 m/s<sup>2</sup><br />(1.615 g<sub>0</sub>)
         escape_velocity: 24.030 km/s<br />(86,508 km/h)
         rotation_period: 29.642 d
         axial_tilt: 38.51°
         albedo: 0.30
-        temperature: 1763 K<br />(1490 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 11233 Arkothiad II f
         type: Icy
         formationType: Captured
@@ -182,12 +182,12 @@ planets:
         radius: 35,856.5 km<br/>(5.628 Yrths)
         surface_area: 1.616 × 10<sup>10</sup> km<sup>2</sup><br/>(31.675 Yrths)
         volume: 1.931 × 10<sup>14</sup> km<sup>3</sup><br/>(178.271 Yrths)
-        mass: 3.605 × 10<sup>26</sup> kg<br />(22.3352573939954 Yrths)
+        mass: 3.605 × 10<sup>26</sup> kg<br />(60.361 Yrths)
         density: 1.867 g/cm<sup>3</sup>
         surface_gravity: 18.688 m/s<sup>2</sup><br />(1.906 g<sub>0</sub>)
         escape_velocity: 36.633 km/s<br />(131,879 km/h)
         rotation_period: 63.451 d
         axial_tilt: 8.99°
         albedo: 0.30
-        temperature: 1681 K<br />(1408 °C)
+        temperature: 250 K<br />(-23 °C)
 ---

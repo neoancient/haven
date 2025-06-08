@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      407 Rinkaiad is a star in the constellation Rinka
+      407 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 759.10 ly
 apparent_magnitude: 11.69
 absolute_magnitude: 4.86

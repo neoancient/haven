@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3392 Shanniashiad is a star in the constellation Shannias
+      3392 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 125.57 ly
 apparent_magnitude: 8.57
 absolute_magnitude: 5.64
@@ -31,14 +31,14 @@ planets:
     radius: 9,286.2 km<br/>(1.458 Yrths)
     surface_area: 1.084 × 10<sup>09</sup> km<sup>2</sup><br/>(2.125 Yrths)
     volume: 3.354 × 10<sup>12</sup> km<sup>3</sup><br/>(3.097 Yrths)
-    mass: 2.295 × 10<sup>25</sup> kg<br />(3.8433207997924144 Yrths)
+    mass: 2.295 × 10<sup>25</sup> kg<br />(3.84 Yrths)
     density: 6.843 g/cm<sup>3</sup>
     surface_gravity: 17.740 m/s<sup>2</sup><br />(1.809 g<sub>0</sub>)
     escape_velocity: 18.164 km/s<br />(65,390 km/h)
     rotation_period: 0.946 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 396 K<br />(123 °C)
+    temperature: 463 K<br />(190 °C)
     surface_pressure: 125 kPa<br />(1 atm)
     composition:
       - 88.1695% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 3,392.1 km<br/>(0.532 Yrths)
         surface_area: 1.446 × 10<sup>08</sup> km<sup>2</sup><br/>(0.283 Yrths)
         volume: 1.635 × 10<sup>11</sup> km<sup>3</sup><br/>(0.151 Yrths)
-        mass: 4.418 × 10<sup>23</sup> kg<br />(3.8433207997924144 Yrths)
+        mass: 4.418 × 10<sup>23</sup> kg<br />(0.074 Yrths)
         density: 2.702 g/cm<sup>3</sup>
         surface_gravity: 2.559 m/s<sup>2</sup><br />(0.261 g<sub>0</sub>)
         escape_velocity: 4.170 km/s<br />(15,010 km/h)
         rotation_period: 31.981 d
         axial_tilt: 22.30°
         albedo: 0.30
-        temperature: 3583 K<br />(3310 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 3392 Shanniashiad I b
         type: Rocky
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 3,751.8 km<br/>(0.589 Yrths)
         surface_area: 1.769 × 10<sup>08</sup> km<sup>2</sup><br/>(0.347 Yrths)
         volume: 2.212 × 10<sup>11</sup> km<sup>3</sup><br/>(0.204 Yrths)
-        mass: 6.789 × 10<sup>23</sup> kg<br />(3.8433207997924144 Yrths)
+        mass: 6.789 × 10<sup>23</sup> kg<br />(0.114 Yrths)
         density: 3.069 g/cm<sup>3</sup>
         surface_gravity: 3.215 m/s<sup>2</sup><br />(0.328 g<sub>0</sub>)
         escape_velocity: 4.915 km/s<br />(17,693 km/h)
         rotation_period: 36.609 d
         axial_tilt: 11.66°
         albedo: 0.30
-        temperature: 3416 K<br />(3143 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 3392 Shanniashiad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 4,928.6 km<br/>(0.774 Yrths)
         surface_area: 3.053 × 10<sup>08</sup> km<sup>2</sup><br/>(0.598 Yrths)
         volume: 5.015 × 10<sup>11</sup> km<sup>3</sup><br/>(0.463 Yrths)
-        mass: 1.392 × 10<sup>24</sup> kg<br />(3.8433207997924144 Yrths)
+        mass: 1.392 × 10<sup>24</sup> kg<br />(0.233 Yrths)
         density: 2.776 g/cm<sup>3</sup>
         surface_gravity: 3.819 m/s<sup>2</sup><br />(0.389 g<sub>0</sub>)
         escape_velocity: 6.140 km/s<br />(22,104 km/h)
         rotation_period: 51.405 d
         axial_tilt: 28.73°
         albedo: 0.30
-        temperature: 3257 K<br />(2984 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 3392 Shanniashiad II
     type: Gas giant
     aphelion: 124,710,123 km<br />0.834 AU
@@ -115,7 +115,7 @@ planets:
     radius: 200.2 km<br/>(0.031 Yrths)
     surface_area: 5.038 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.362 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.016 × 10<sup>27</sup> kg<br />(170.04566521521178 Yrths)
+    mass: 1.016 × 10<sup>27</sup> kg<br />(170.05 Yrths)
     density: 30202984.290 g/cm<sup>3</sup>
     surface_gravity: 1688379.948 m/s<sup>2</sup><br />(172166.841 g<sub>0</sub>)
     escape_velocity: 822.816 km/s<br />(2,962,138 km/h)
@@ -136,14 +136,14 @@ planets:
         radius: 131,942.7 km<br/>(20.710 Yrths)
         surface_area: 2.188 × 10<sup>11</sup> km<sup>2</sup><br/>(428.900 Yrths)
         volume: 9.622 × 10<sup>15</sup> km<sup>3</sup><br/>(8882.463 Yrths)
-        mass: 2.270 × 10<sup>28</sup> kg<br />(170.04566521521178 Yrths)
+        mass: 2.270 × 10<sup>28</sup> kg<br />(3800.927 Yrths)
         density: 2.359 g/cm<sup>3</sup>
         surface_gravity: 86.907 m/s<sup>2</sup><br />(8.862 g<sub>0</sub>)
         escape_velocity: 151.541 km/s<br />(545,547 km/h)
         rotation_period: 45.800 d
         axial_tilt: 19.90°
         albedo: 0.30
-        temperature: 1408 K<br />(1135 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 3392 Shanniashiad II b
         type: Asteroid
         formationType: Captured
@@ -156,14 +156,14 @@ planets:
         radius: 132,156.1 km<br/>(20.743 Yrths)
         surface_area: 2.195 × 10<sup>11</sup> km<sup>2</sup><br/>(430.288 Yrths)
         volume: 9.668 × 10<sup>15</sup> km<sup>3</sup><br/>(8925.628 Yrths)
-        mass: 3.577 × 10<sup>28</sup> kg<br />(170.04566521521178 Yrths)
+        mass: 3.577 × 10<sup>28</sup> kg<br />(5990.073 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 136.519 m/s<sup>2</sup><br />(13.921 g<sub>0</sub>)
         escape_velocity: 190.086 km/s<br />(684,310 km/h)
         rotation_period: 28.930 d
         axial_tilt: 40.78°
         albedo: 0.30
-        temperature: 1280 K<br />(1007 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 3392 Shanniashiad II c
         type: Icy
         formationType: Impact formed
@@ -176,14 +176,14 @@ planets:
         radius: 194,427.8 km<br/>(30.518 Yrths)
         surface_area: 4.750 × 10<sup>11</sup> km<sup>2</sup><br/>(931.326 Yrths)
         volume: 3.079 × 10<sup>16</sup> km<sup>3</sup><br/>(28421.844 Yrths)
-        mass: 4.782 × 10<sup>28</sup> kg<br />(170.04566521521178 Yrths)
+        mass: 4.782 × 10<sup>28</sup> kg<br />(8007.675 Yrths)
         density: 1.553 g/cm<sup>3</sup>
         surface_gravity: 84.319 m/s<sup>2</sup><br />(8.598 g<sub>0</sub>)
         escape_velocity: 181.197 km/s<br />(652,310 km/h)
         rotation_period: 47.019 d
         axial_tilt: 19.66°
         albedo: 0.30
-        temperature: 795 K<br />(522 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 3392 Shanniashiad II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -196,14 +196,14 @@ planets:
         radius: 129,427.6 km<br/>(20.315 Yrths)
         surface_area: 2.105 × 10<sup>11</sup> km<sup>2</sup><br/>(412.704 Yrths)
         volume: 9.082 × 10<sup>15</sup> km<sup>3</sup><br/>(8384.132 Yrths)
-        mass: 1.847 × 10<sup>28</sup> kg<br />(170.04566521521178 Yrths)
+        mass: 1.847 × 10<sup>28</sup> kg<br />(3092.916 Yrths)
         density: 2.034 g/cm<sup>3</sup>
         surface_gravity: 73.494 m/s<sup>2</sup><br />(7.494 g<sub>0</sub>)
         escape_velocity: 138.022 km/s<br />(496,879 km/h)
         rotation_period: 41.409 d
         axial_tilt: 17.97°
         albedo: 0.30
-        temperature: 428 K<br />(155 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 3392 Shanniashiad II e
         type: Asteroid
         formationType: Captured
@@ -216,14 +216,14 @@ planets:
         radius: 121,060.4 km<br/>(19.002 Yrths)
         surface_area: 1.842 × 10<sup>11</sup> km<sup>2</sup><br/>(361.068 Yrths)
         volume: 7.432 × 10<sup>15</sup> km<sup>3</sup><br/>(6860.941 Yrths)
-        mass: 2.480 × 10<sup>28</sup> kg<br />(170.04566521521178 Yrths)
+        mass: 2.480 × 10<sup>28</sup> kg<br />(4153.184 Yrths)
         density: 3.337 g/cm<sup>3</sup>
         surface_gravity: 112.801 m/s<sup>2</sup><br />(11.502 g<sub>0</sub>)
         escape_velocity: 165.374 km/s<br />(595,346 km/h)
         rotation_period: 43.126 d
         axial_tilt: 14.30°
         albedo: 0.30
-        temperature: 389 K<br />(116 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 3392 Shanniashiad II f
         type: Icy
         formationType: Accreted
@@ -236,14 +236,14 @@ planets:
         radius: 179,175.0 km<br/>(28.124 Yrths)
         surface_area: 4.034 × 10<sup>11</sup> km<sup>2</sup><br/>(790.933 Yrths)
         volume: 2.409 × 10<sup>16</sup> km<sup>3</sup><br/>(22243.827 Yrths)
-        mass: 2.495 × 10<sup>28</sup> kg<br />(170.04566521521178 Yrths)
+        mass: 2.495 × 10<sup>28</sup> kg<br />(4177.973 Yrths)
         density: 1.036 g/cm<sup>3</sup>
         surface_gravity: 51.802 m/s<sup>2</sup><br />(5.282 g<sub>0</sub>)
         escape_velocity: 136.340 km/s<br />(490,822 km/h)
         rotation_period: 82.682 d
         axial_tilt: 17.75°
         albedo: 0.30
-        temperature: 354 K<br />(80 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: 3392 Shanniashiad II g
         type: Asteroid
         formationType: Captured
@@ -256,14 +256,14 @@ planets:
         radius: 111,361.6 km<br/>(17.479 Yrths)
         surface_area: 1.558 × 10<sup>11</sup> km<sup>2</sup><br/>(305.531 Yrths)
         volume: 5.785 × 10<sup>15</sup> km<sup>3</sup><br/>(5340.521 Yrths)
-        mass: 2.134 × 10<sup>28</sup> kg<br />(170.04566521521178 Yrths)
+        mass: 2.134 × 10<sup>28</sup> kg<br />(3574.122 Yrths)
         density: 3.690 g/cm<sup>3</sup>
         surface_gravity: 114.719 m/s<sup>2</sup><br />(11.698 g<sub>0</sub>)
         escape_velocity: 159.954 km/s<br />(575,834 km/h)
         rotation_period: 25.777 d
         axial_tilt: 33.56°
         albedo: 0.30
-        temperature: 200 K<br />(-74 °C)
+        temperature: 243 K<br />(-30 °C)
   - name: 3392 Shanniashiad III
     type: Gas giant
     aphelion: 211,458,224 km<br />1.413 AU
@@ -275,7 +275,7 @@ planets:
     radius: 223.3 km<br/>(0.035 Yrths)
     surface_area: 6.268 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.666 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.616 × 10<sup>27</sup> kg<br />(270.5815431910642 Yrths)
+    mass: 1.616 × 10<sup>27</sup> kg<br />(270.58 Yrths)
     density: 34631314.392 g/cm<sup>3</sup>
     surface_gravity: 2159370.343 m/s<sup>2</sup><br />(220194.495 g<sub>0</sub>)
     escape_velocity: 982.766 km/s<br />(3,537,958 km/h)
@@ -296,14 +296,14 @@ planets:
         radius: 163,016.5 km<br/>(25.587 Yrths)
         surface_area: 3.339 × 10<sup>11</sup> km<sup>2</sup><br/>(654.708 Yrths)
         volume: 1.815 × 10<sup>16</sup> km<sup>3</sup><br/>(16752.195 Yrths)
-        mass: 3.409 × 10<sup>28</sup> kg<br />(270.5815431910642 Yrths)
+        mass: 3.409 × 10<sup>28</sup> kg<br />(5708.491 Yrths)
         density: 1.879 g/cm<sup>3</sup>
         surface_gravity: 85.506 m/s<sup>2</sup><br />(8.719 g<sub>0</sub>)
         escape_velocity: 167.079 km/s<br />(601,486 km/h)
         rotation_period: 65.352 d
         axial_tilt: 25.05°
         albedo: 0.30
-        temperature: 954 K<br />(681 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 3392 Shanniashiad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -316,14 +316,14 @@ planets:
         radius: 197,079.2 km<br/>(30.934 Yrths)
         surface_area: 4.881 × 10<sup>11</sup> km<sup>2</sup><br/>(956.899 Yrths)
         volume: 3.206 × 10<sup>16</sup> km<sup>3</sup><br/>(29600.528 Yrths)
-        mass: 7.796 × 10<sup>28</sup> kg<br />(270.5815431910642 Yrths)
+        mass: 7.796 × 10<sup>28</sup> kg<br />(13054.249 Yrths)
         density: 2.431 g/cm<sup>3</sup>
         surface_gravity: 133.785 m/s<sup>2</sup><br />(13.642 g<sub>0</sub>)
         escape_velocity: 229.791 km/s<br />(827,248 km/h)
         rotation_period: 42.772 d
         axial_tilt: 19.11°
         albedo: 0.30
-        temperature: 514 K<br />(240 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 3392 Shanniashiad III c
         type: Icy
         formationType: Impact formed
@@ -336,14 +336,14 @@ planets:
         radius: 155,611.8 km<br/>(24.425 Yrths)
         surface_area: 3.043 × 10<sup>11</sup> km<sup>2</sup><br/>(596.581 Yrths)
         volume: 1.578 × 10<sup>16</sup> km<sup>3</sup><br/>(14571.511 Yrths)
-        mass: 2.999 × 10<sup>28</sup> kg<br />(270.5815431910642 Yrths)
+        mass: 2.999 × 10<sup>28</sup> kg<br />(5021.689 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 82.547 m/s<sup>2</sup><br />(8.417 g<sub>0</sub>)
         escape_velocity: 160.392 km/s<br />(577,410 km/h)
         rotation_period: 57.794 d
         axial_tilt: 19.90°
         albedo: 0.30
-        temperature: 467 K<br />(194 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 3392 Shanniashiad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -356,14 +356,14 @@ planets:
         radius: 145,409.1 km<br/>(22.824 Yrths)
         surface_area: 2.657 × 10<sup>11</sup> km<sup>2</sup><br/>(520.916 Yrths)
         volume: 1.288 × 10<sup>16</sup> km<sup>3</sup><br/>(11889.185 Yrths)
-        mass: 3.400 × 10<sup>28</sup> kg<br />(270.5815431910642 Yrths)
+        mass: 3.400 × 10<sup>28</sup> kg<br />(5693.640 Yrths)
         density: 2.640 g/cm<sup>3</sup>
         surface_gravity: 107.187 m/s<sup>2</sup><br />(10.930 g<sub>0</sub>)
         escape_velocity: 176.676 km/s<br />(636,033 km/h)
         rotation_period: 50.423 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 304 K<br />(31 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 3392 Shanniashiad III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -376,14 +376,14 @@ planets:
         radius: 156,129.0 km<br/>(24.506 Yrths)
         surface_area: 3.063 × 10<sup>11</sup> km<sup>2</sup><br/>(600.554 Yrths)
         volume: 1.594 × 10<sup>16</sup> km<sup>3</sup><br/>(14717.283 Yrths)
-        mass: 4.460 × 10<sup>28</sup> kg<br />(270.5815431910642 Yrths)
+        mass: 4.460 × 10<sup>28</sup> kg<br />(7468.090 Yrths)
         density: 2.798 g/cm<sup>3</sup>
         surface_gravity: 121.949 m/s<sup>2</sup><br />(12.435 g<sub>0</sub>)
         escape_velocity: 195.272 km/s<br />(702,981 km/h)
         rotation_period: 33.505 d
         axial_tilt: 10.51°
         albedo: 0.30
-        temperature: 218 K<br />(-55 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 3392 Shanniashiad III f
         type: Icy
         formationType: Accreted
@@ -396,14 +396,14 @@ planets:
         radius: 185,311.6 km<br/>(29.087 Yrths)
         surface_area: 4.315 × 10<sup>11</sup> km<sup>2</sup><br/>(846.038 Yrths)
         volume: 2.666 × 10<sup>16</sup> km<sup>3</sup><br/>(24608.488 Yrths)
-        mass: 3.847 × 10<sup>28</sup> kg<br />(270.5815431910642 Yrths)
+        mass: 3.847 × 10<sup>28</sup> kg<br />(6442.093 Yrths)
         density: 1.443 g/cm<sup>3</sup>
         surface_gravity: 74.672 m/s<sup>2</sup><br />(7.614 g<sub>0</sub>)
         escape_velocity: 166.472 km/s<br />(599,297 km/h)
         rotation_period: 47.122 d
         axial_tilt: 22.02°
         albedo: 0.30
-        temperature: 142 K<br />(-131 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 3392 Shanniashiad III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -416,14 +416,14 @@ planets:
         radius: 164,391.7 km<br/>(25.803 Yrths)
         surface_area: 3.396 × 10<sup>11</sup> km<sup>2</sup><br/>(665.801 Yrths)
         volume: 1.861 × 10<sup>16</sup> km<sup>3</sup><br/>(17179.735 Yrths)
-        mass: 4.972 × 10<sup>28</sup> kg<br />(270.5815431910642 Yrths)
+        mass: 4.972 × 10<sup>28</sup> kg<br />(8325.800 Yrths)
         density: 2.672 g/cm<sup>3</sup>
         surface_gravity: 122.632 m/s<sup>2</sup><br />(12.505 g<sub>0</sub>)
         escape_velocity: 200.933 km/s<br />(723,358 km/h)
         rotation_period: 40.704 d
         axial_tilt: 28.46°
         albedo: 0.30
-        temperature: 117 K<br />(-156 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 3392 Shanniashiad III h
         type: Icy
         formationType: Accreted
@@ -436,14 +436,14 @@ planets:
         radius: 215,473.5 km<br/>(33.821 Yrths)
         surface_area: 5.834 × 10<sup>11</sup> km<sup>2</sup><br/>(1143.859 Yrths)
         volume: 4.191 × 10<sup>16</sup> km<sup>3</sup><br/>(38686.439 Yrths)
-        mass: 5.283 × 10<sup>28</sup> kg<br />(270.5815431910642 Yrths)
+        mass: 5.283 × 10<sup>28</sup> kg<br />(8846.677 Yrths)
         density: 1.261 g/cm<sup>3</sup>
         surface_gravity: 75.845 m/s<sup>2</sup><br />(7.734 g<sub>0</sub>)
         escape_velocity: 180.913 km/s<br />(651,289 km/h)
         rotation_period: 50.802 d
         axial_tilt: 12.86°
         albedo: 0.30
-        temperature: 107 K<br />(-167 °C)
+        temperature: 187 K<br />(-86 °C)
   - name: 3392 Shanniashiad IV
     type: Large terrestrial
     aphelion: 358,548,122 km<br />2.397 AU
@@ -455,14 +455,14 @@ planets:
     radius: 6,364.0 km<br/>(0.999 Yrths)
     surface_area: 5.089 × 10<sup>08</sup> km<sup>2</sup><br/>(0.998 Yrths)
     volume: 1.080 × 10<sup>12</sup> km<sup>3</sup><br/>(0.997 Yrths)
-    mass: 6.941 × 10<sup>24</sup> kg<br />(1.1622470706441126 Yrths)
+    mass: 6.941 × 10<sup>24</sup> kg<br />(1.16 Yrths)
     density: 6.429 g/cm<sup>3</sup>
     surface_gravity: 11.423 m/s<sup>2</sup><br />(1.165 g<sub>0</sub>)
     escape_velocity: 12.066 km/s<br />(43,437 km/h)
     rotation_period: 0.920 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 187 K<br />(-86 °C)
+    temperature: 176 K<br />(-97 °C)
     surface_pressure: 362 kPa<br />(4 atm)
     composition:
       - 65.6250% nitrogen
@@ -481,14 +481,14 @@ planets:
         radius: 941.3 km<br/>(0.148 Yrths)
         surface_area: 1.113 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.493 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 1.169 × 10<sup>22</sup> kg<br />(1.1622470706441126 Yrths)
+        mass: 1.169 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 3.345 g/cm<sup>3</sup>
         surface_gravity: 0.879 m/s<sup>2</sup><br />(0.090 g<sub>0</sub>)
         escape_velocity: 1.287 km/s<br />(4,635 km/h)
         rotation_period: 27.479 d
         axial_tilt: 22.55°
         albedo: 0.30
-        temperature: 1926 K<br />(1653 °C)
+        temperature: 144 K<br />(-130 °C)
       - name: 3392 Shanniashiad IV b
         type: Icy
         formationType: Impact formed
@@ -501,14 +501,14 @@ planets:
         radius: 1,528.7 km<br/>(0.240 Yrths)
         surface_area: 2.937 × 10<sup>07</sup> km<sup>2</sup><br/>(0.058 Yrths)
         volume: 1.496 × 10<sup>10</sup> km<sup>3</sup><br/>(0.014 Yrths)
-        mass: 2.491 × 10<sup>22</sup> kg<br />(1.1622470706441126 Yrths)
+        mass: 2.491 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 1.665 g/cm<sup>3</sup>
         surface_gravity: 0.710 m/s<sup>2</sup><br />(0.072 g<sub>0</sub>)
         escape_velocity: 1.475 km/s<br />(5,309 km/h)
         rotation_period: 61.278 d
         axial_tilt: 9.13°
         albedo: 0.30
-        temperature: 1836 K<br />(1563 °C)
+        temperature: 144 K<br />(-130 °C)
       - name: 3392 Shanniashiad IV c
         type: Rocky
         formationType: Captured
@@ -521,14 +521,14 @@ planets:
         radius: 2,682.0 km<br/>(0.421 Yrths)
         surface_area: 9.039 × 10<sup>07</sup> km<sup>2</sup><br/>(0.177 Yrths)
         volume: 8.081 × 10<sup>10</sup> km<sup>3</sup><br/>(0.075 Yrths)
-        mass: 2.261 × 10<sup>23</sup> kg<br />(1.1622470706441126 Yrths)
+        mass: 2.261 × 10<sup>23</sup> kg<br />(0.038 Yrths)
         density: 2.798 g/cm<sup>3</sup>
         surface_gravity: 2.095 m/s<sup>2</sup><br />(0.214 g<sub>0</sub>)
         escape_velocity: 3.355 km/s<br />(12,077 km/h)
         rotation_period: 47.962 d
         axial_tilt: 9.12°
         albedo: 0.30
-        temperature: 1751 K<br />(1478 °C)
+        temperature: 144 K<br />(-130 °C)
       - name: 3392 Shanniashiad IV d
         type: Rocky
         formationType: Accreted
@@ -541,14 +541,14 @@ planets:
         radius: 1,950.7 km<br/>(0.306 Yrths)
         surface_area: 4.782 × 10<sup>07</sup> km<sup>2</sup><br/>(0.094 Yrths)
         volume: 3.109 × 10<sup>10</sup> km<sup>3</sup><br/>(0.029 Yrths)
-        mass: 9.234 × 10<sup>22</sup> kg<br />(1.1622470706441126 Yrths)
+        mass: 9.234 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 2.970 g/cm<sup>3</sup>
         surface_gravity: 1.617 m/s<sup>2</sup><br />(0.165 g<sub>0</sub>)
         escape_velocity: 2.514 km/s<br />(9,049 km/h)
         rotation_period: 37.861 d
         axial_tilt: 6.91°
         albedo: 0.30
-        temperature: 1670 K<br />(1396 °C)
+        temperature: 144 K<br />(-130 °C)
   - name: 3392 Shanniashiad V
     type: Large terrestrial
     aphelion: 607,953,446 km<br />4.064 AU
@@ -560,14 +560,14 @@ planets:
     radius: 2,748.9 km<br/>(0.431 Yrths)
     surface_area: 9.496 × 10<sup>07</sup> km<sup>2</sup><br/>(0.186 Yrths)
     volume: 8.701 × 10<sup>10</sup> km<sup>3</sup><br/>(0.080 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.864 g/cm<sup>3</sup>
     surface_gravity: 5.268 m/s<sup>2</sup><br />(0.537 g<sub>0</sub>)
     escape_velocity: 5.385 km/s<br />(19,387 km/h)
     rotation_period: 1.613 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 136 K<br />(-137 °C)
+    temperature: 119 K<br />(-154 °C)
     surface_pressure: 189 kPa<br />(2 atm)
     composition:
       - 97.9754% nitrogen
@@ -586,14 +586,14 @@ planets:
         radius: 717.1 km<br/>(0.113 Yrths)
         surface_area: 6.462 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.545 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.729 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.729 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.766 g/cm<sup>3</sup>
         surface_gravity: 0.354 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.713 km/s<br />(2,566 km/h)
         rotation_period: 50.857 d
         axial_tilt: 21.40°
         albedo: 0.30
-        temperature: 2205 K<br />(1932 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 3392 Shanniashiad V b
         type: Rocky
         formationType: Accreted
@@ -606,14 +606,14 @@ planets:
         radius: 434.2 km<br/>(0.068 Yrths)
         surface_area: 2.369 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 3.429 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 9.320 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 9.320 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.718 g/cm<sup>3</sup>
         surface_gravity: 0.330 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.535 km/s<br />(1,927 km/h)
         rotation_period: 31.936 d
         axial_tilt: 8.77°
         albedo: 0.30
-        temperature: 2102 K<br />(1829 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 3392 Shanniashiad V c
         type: Asteroid
         formationType: Captured
@@ -626,14 +626,14 @@ planets:
         radius: 195.0 km<br/>(0.031 Yrths)
         surface_area: 4.778 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 3.106 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 8.419 × 10<sup>19</sup> kg<br />(0.1 Yrths)
+        mass: 8.419 × 10<sup>19</sup> kg<br />(0.000 Yrths)
         density: 2.710 g/cm<sup>3</sup>
         surface_gravity: 0.148 m/s<sup>2</sup><br />(0.015 g<sub>0</sub>)
         escape_velocity: 0.240 km/s<br />(864 km/h)
         rotation_period: 53.280 d
         axial_tilt: 21.78°
         albedo: 0.30
-        temperature: 2004 K<br />(1731 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 3392 Shanniashiad V d
         type: Rocky
         formationType: Impact formed
@@ -646,12 +646,12 @@ planets:
         radius: 660.0 km<br/>(0.104 Yrths)
         surface_area: 5.473 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.204 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.536 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.536 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.937 g/cm<sup>3</sup>
         surface_gravity: 0.541 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 0.846 km/s<br />(3,044 km/h)
         rotation_period: 42.737 d
         axial_tilt: 11.35°
         albedo: 0.30
-        temperature: 1911 K<br />(1638 °C)
+        temperature: 110 K<br />(-163 °C)
 ---

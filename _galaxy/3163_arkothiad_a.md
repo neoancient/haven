@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3163 Arkothiad A is a star in the constellation Arkoth
+      3163 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 957.68 ly
 apparent_magnitude: 6.89
 absolute_magnitude: -0.45

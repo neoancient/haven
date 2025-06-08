@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Orra A is a star in the constellation Emnia
+      Orra A is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 304.94 ly
 apparent_magnitude: 2.89
 absolute_magnitude: -1.96

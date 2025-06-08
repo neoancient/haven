@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9438 Tanashad is a star in the constellation Tanas
+      9438 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 840.60 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 4.34

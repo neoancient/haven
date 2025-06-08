@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1735 Shanniashiad is a star in the constellation Shannias
+      1735 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 812.74 ly
 apparent_magnitude: 11.84
 absolute_magnitude: 4.86

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1505 Arkothiad is a star in the constellation Arkoth
+      1505 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1387.90 ly
 apparent_magnitude: 17.95
 absolute_magnitude: 9.81

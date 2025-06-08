@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1653 Shanniashiad is a star in the constellation Shannias
+      1653 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1040.67 ly
 apparent_magnitude: 17.53
 absolute_magnitude: 10.01

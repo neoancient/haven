@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1840 Dialkeshiad A is a star in the constellation Dialkes
+      1840 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 433.77 ly
 apparent_magnitude: 8.51
 absolute_magnitude: 2.90

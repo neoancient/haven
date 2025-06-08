@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      685 Ratharshinniad A is a star in the constellation Ratharshin
+      685 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 227.07 ly
 apparent_magnitude: 9.35
 absolute_magnitude: 5.13

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4822 Tanashad A is a star in the constellation Tanas
+      4822 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 517.82 ly
 apparent_magnitude: 6.75
 absolute_magnitude: 0.74

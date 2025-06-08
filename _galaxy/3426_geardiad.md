@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3426 Geardiad is a star in the constellation Geard
+      3426 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 481.94 ly
 apparent_magnitude: 10.58
 absolute_magnitude: 4.74

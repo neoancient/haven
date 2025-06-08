@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rishot Sho C is a star in the constellation Rishauth
+      Rishot Sho C is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 208.96 ly
 apparent_magnitude: 9.77
 absolute_magnitude: 5.74

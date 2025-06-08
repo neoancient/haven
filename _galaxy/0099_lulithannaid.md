@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0099 Lulithannaid is a star in the constellation Lulithan
+      0099 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 254.46 ly
 apparent_magnitude: 6.03
 absolute_magnitude: 1.57
@@ -31,14 +31,14 @@ planets:
     radius: 10,504.9 km<br/>(1.649 Yrths)
     surface_area: 1.387 × 10<sup>09</sup> km<sup>2</sup><br/>(2.719 Yrths)
     volume: 4.856 × 10<sup>12</sup> km<sup>3</sup><br/>(4.483 Yrths)
-    mass: 3.474 × 10<sup>25</sup> kg<br />(5.817597893761979 Yrths)
+    mass: 3.474 × 10<sup>25</sup> kg<br />(5.82 Yrths)
     density: 7.155 g/cm<sup>3</sup>
     surface_gravity: 20.984 m/s<sup>2</sup><br />(2.140 g<sub>0</sub>)
     escape_velocity: 21.011 km/s<br />(75,641 km/h)
     rotation_period: 0.634 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 946 K<br />(673 °C)
+    temperature: 2619 K<br />(2346 °C)
     surface_pressure: 4,946 kPa<br />(49 atm)
     composition:
       - 95.8458% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 8,531.6 km<br/>(1.339 Yrths)
         surface_area: 9.147 × 10<sup>08</sup> km<sup>2</sup><br/>(1.793 Yrths)
         volume: 2.601 × 10<sup>12</sup> km<sup>3</sup><br/>(2.401 Yrths)
-        mass: 3.138 × 10<sup>24</sup> kg<br />(5.817597893761979 Yrths)
+        mass: 3.138 × 10<sup>24</sup> kg<br />(0.526 Yrths)
         density: 1.206 g/cm<sup>3</sup>
         surface_gravity: 2.874 m/s<sup>2</sup><br />(0.293 g<sub>0</sub>)
         escape_velocity: 7.007 km/s<br />(25,226 km/h)
         rotation_period: 63.950 d
         axial_tilt: 16.21°
         albedo: 0.30
-        temperature: 7097 K<br />(6824 °C)
+        temperature: 476 K<br />(202 °C)
       - name: 0099 Lulithannaid I b
         type: Rocky
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 11,006.0 km<br/>(1.728 Yrths)
         surface_area: 1.522 × 10<sup>09</sup> km<sup>2</sup><br/>(2.984 Yrths)
         volume: 5.584 × 10<sup>12</sup> km<sup>3</sup><br/>(5.155 Yrths)
-        mass: 1.449 × 10<sup>25</sup> kg<br />(5.817597893761979 Yrths)
+        mass: 1.449 × 10<sup>25</sup> kg<br />(2.427 Yrths)
         density: 2.595 g/cm<sup>3</sup>
         surface_gravity: 7.974 m/s<sup>2</sup><br />(0.813 g<sub>0</sub>)
         escape_velocity: 13.257 km/s<br />(47,727 km/h)
         rotation_period: 40.046 d
         axial_tilt: 7.27°
         albedo: 0.30
-        temperature: 6766 K<br />(6493 °C)
+        temperature: 476 K<br />(202 °C)
   - name: 0099 Lulithannaid II
     type: Gas dwarf
     aphelion: 414,535,026 km<br />2.771 AU
@@ -96,14 +96,14 @@ planets:
     radius: 3,858.6 km<br/>(0.606 Yrths)
     surface_area: 1.871 × 10<sup>08</sup> km<sup>2</sup><br/>(0.367 Yrths)
     volume: 2.406 × 10<sup>11</sup> km<sup>3</sup><br/>(0.222 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 2.482 g/cm<sup>3</sup>
     surface_gravity: 2.673 m/s<sup>2</sup><br />(0.273 g<sub>0</sub>)
     escape_velocity: 4.545 km/s<br />(16,363 km/h)
     rotation_period: 1.087 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 478 K<br />(205 °C)
+    temperature: 417 K<br />(144 °C)
     composition:
       - 77.3185% hydrogen
       - 22.4117% helium
@@ -121,14 +121,14 @@ planets:
         radius: 662.2 km<br/>(0.104 Yrths)
         surface_area: 5.510 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.216 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.216 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.216 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.822 g/cm<sup>3</sup>
         surface_gravity: 0.337 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.668 km/s<br />(2,406 km/h)
         rotation_period: 56.673 d
         axial_tilt: 7.26°
         albedo: 0.30
-        temperature: 7866 K<br />(7593 °C)
+        temperature: 353 K<br />(80 °C)
       - name: 0099 Lulithannaid II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -141,14 +141,14 @@ planets:
         radius: 505.7 km<br/>(0.079 Yrths)
         surface_area: 3.213 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.416 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.148 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.148 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.120 g/cm<sup>3</sup>
         surface_gravity: 0.299 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.551 km/s<br />(1,982 km/h)
         rotation_period: 40.394 d
         axial_tilt: 16.60°
         albedo: 0.30
-        temperature: 7500 K<br />(7227 °C)
+        temperature: 353 K<br />(80 °C)
       - name: 0099 Lulithannaid II c
         type: Icy
         formationType: Accreted
@@ -161,14 +161,14 @@ planets:
         radius: 1,059.2 km<br/>(0.166 Yrths)
         surface_area: 1.410 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 4.978 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 6.397 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.397 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.285 g/cm<sup>3</sup>
         surface_gravity: 0.380 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.898 km/s<br />(3,232 km/h)
         rotation_period: 79.550 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 7151 K<br />(6878 °C)
+        temperature: 353 K<br />(80 °C)
       - name: 0099 Lulithannaid II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -181,14 +181,14 @@ planets:
         radius: 263.5 km<br/>(0.041 Yrths)
         surface_area: 8.727 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 7.666 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.147 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.147 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 0.206 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.330 km/s<br />(1,187 km/h)
         rotation_period: 31.185 d
         axial_tilt: 25.33°
         albedo: 0.30
-        temperature: 6818 K<br />(6545 °C)
+        temperature: 353 K<br />(80 °C)
   - name: 0099 Lulithannaid III
     type: Gas dwarf
     aphelion: 704,282,920 km<br />4.708 AU
@@ -200,14 +200,14 @@ planets:
     radius: 4,581.4 km<br/>(0.719 Yrths)
     surface_area: 2.638 × 10<sup>08</sup> km<sup>2</sup><br/>(0.517 Yrths)
     volume: 4.028 × 10<sup>11</sup> km<sup>3</sup><br/>(0.372 Yrths)
-    mass: 1.118 × 10<sup>24</sup> kg<br />(0.18717960014708404 Yrths)
+    mass: 1.118 × 10<sup>24</sup> kg<br />(0.19 Yrths)
     density: 2.775 g/cm<sup>3</sup>
     surface_gravity: 3.550 m/s<sup>2</sup><br />(0.362 g<sub>0</sub>)
     escape_velocity: 5.707 km/s<br />(20,545 km/h)
     rotation_period: 0.910 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 372 K<br />(99 °C)
+    temperature: 327 K<br />(54 °C)
     composition:
       - 86.6135% hydrogen
       - 13.1778% helium
@@ -225,14 +225,14 @@ planets:
         radius: 1,466.8 km<br/>(0.230 Yrths)
         surface_area: 2.704 × 10<sup>07</sup> km<sup>2</sup><br/>(0.053 Yrths)
         volume: 1.322 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 1.251 × 10<sup>22</sup> kg<br />(0.18717960014708404 Yrths)
+        mass: 1.251 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 0.946 g/cm<sup>3</sup>
         surface_gravity: 0.388 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 1.067 km/s<br />(3,841 km/h)
         rotation_period: 76.749 d
         axial_tilt: 20.79°
         albedo: 0.30
-        temperature: 5257 K<br />(4984 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0099 Lulithannaid III b
         type: Icy
         formationType: Impact formed
@@ -245,14 +245,14 @@ planets:
         radius: 1,332.6 km<br/>(0.209 Yrths)
         surface_area: 2.232 × 10<sup>07</sup> km<sup>2</sup><br/>(0.044 Yrths)
         volume: 9.913 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 1.109 × 10<sup>22</sup> kg<br />(0.18717960014708404 Yrths)
+        mass: 1.109 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.119 g/cm<sup>3</sup>
         surface_gravity: 0.416 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 1.054 km/s<br />(3,794 km/h)
         rotation_period: 47.559 d
         axial_tilt: 17.93°
         albedo: 0.30
-        temperature: 5012 K<br />(4739 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0099 Lulithannaid III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -265,14 +265,14 @@ planets:
         radius: 904.0 km<br/>(0.142 Yrths)
         surface_area: 1.027 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.095 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.611 × 10<sup>21</sup> kg<br />(0.18717960014708404 Yrths)
+        mass: 6.611 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.136 g/cm<sup>3</sup>
         surface_gravity: 0.539 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 0.988 km/s<br />(3,557 km/h)
         rotation_period: 34.898 d
         axial_tilt: 28.08°
         albedo: 0.30
-        temperature: 4779 K<br />(4506 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0099 Lulithannaid III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -285,12 +285,12 @@ planets:
         radius: 1,026.4 km<br/>(0.161 Yrths)
         surface_area: 1.324 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.530 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 9.085 × 10<sup>21</sup> kg<br />(0.18717960014708404 Yrths)
+        mass: 9.085 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.006 g/cm<sup>3</sup>
         surface_gravity: 0.575 m/s<sup>2</sup><br />(0.059 g<sub>0</sub>)
         escape_velocity: 1.087 km/s<br />(3,913 km/h)
         rotation_period: 37.022 d
         axial_tilt: 14.32°
         albedo: 0.30
-        temperature: 4344 K<br />(4071 °C)
+        temperature: 262 K<br />(-11 °C)
 ---

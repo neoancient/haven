@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0048 Emniaiad C is a star in the constellation Emnia
+      0048 Emniaiad C is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 338.10 ly
 apparent_magnitude: 8.29
 absolute_magnitude: 3.21

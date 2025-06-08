@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0055 Mioruaniad A is a star in the constellation Mioruane
+      0055 Mioruaniad A is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 450.19 ly
 apparent_magnitude: 6.65
 absolute_magnitude: 0.95

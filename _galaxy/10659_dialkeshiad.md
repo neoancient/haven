@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10659 Dialkeshiad is a star in the constellation Dialkes
+      10659 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 180.82 ly
 apparent_magnitude: 8.47
 absolute_magnitude: 4.75

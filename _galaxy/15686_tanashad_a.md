@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      15686 Tanashad A is a star in the constellation Tanas
+      15686 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 392.98 ly
 apparent_magnitude: 8.78
 absolute_magnitude: 3.38

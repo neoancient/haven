@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2097 Anilliad is a star in the constellation Anil
+      2097 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 593.98 ly
 apparent_magnitude: 11.22
 absolute_magnitude: 4.92

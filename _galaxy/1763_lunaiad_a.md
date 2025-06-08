@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1763 Lunaiad A is a star in the constellation Luna
+      1763 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 194.22 ly
 apparent_magnitude: 8.16
 absolute_magnitude: 4.28

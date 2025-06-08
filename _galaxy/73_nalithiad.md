@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      73 Nalithiad is a star in the constellation Nalith
+      73 Nalithiad is a star in the constellation <a href="nalith.html">Nalith</a>
 distance: 958.87 ly
 apparent_magnitude: 9.20
 absolute_magnitude: 1.86

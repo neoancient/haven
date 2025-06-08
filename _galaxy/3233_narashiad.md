@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3233 Narashiad is a star in the constellation Naras
+      3233 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 284.32 ly
 apparent_magnitude: 11.07
 absolute_magnitude: 6.37

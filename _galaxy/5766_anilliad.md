@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5766 Anilliad is a star in the constellation Anil
+      5766 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 381.85 ly
 apparent_magnitude: 11.37
 absolute_magnitude: 6.02

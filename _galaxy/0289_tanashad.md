@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0289 Tanashad is a star in the constellation Tanas
+      0289 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 27.07 ly
 apparent_magnitude: 5.69
 absolute_magnitude: 6.09
@@ -31,14 +31,14 @@ planets:
     radius: 32,879.0 km<br/>(5.161 Yrths)
     surface_area: 1.358 × 10<sup>10</sup> km<sup>2</sup><br/>(26.633 Yrths)
     volume: 1.489 × 10<sup>14</sup> km<sup>3</sup><br/>(137.446 Yrths)
-    mass: 2.015 × 10<sup>26</sup> kg<br />(33.735234117889064 Yrths)
+    mass: 2.015 × 10<sup>26</sup> kg<br />(33.74 Yrths)
     density: 1.353 g/cm<sup>3</sup>
     surface_gravity: 12.422 m/s<sup>2</sup><br />(1.267 g<sub>0</sub>)
     escape_velocity: 28.600 km/s<br />(102,959 km/h)
     rotation_period: 0.832 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 414 K<br />(141 °C)
+    temperature: 368 K<br />(95 °C)
     composition:
       - 68.5838% helium
       - 31.4162% hydrogen
@@ -55,14 +55,14 @@ planets:
         radius: 52,542.8 km<br/>(8.247 Yrths)
         surface_area: 3.469 × 10<sup>10</sup> km<sup>2</sup><br/>(68.016 Yrths)
         volume: 6.076 × 10<sup>14</sup> km<sup>3</sup><br/>(560.942 Yrths)
-        mass: 5.491 × 10<sup>26</sup> kg<br />(33.735234117889064 Yrths)
+        mass: 5.491 × 10<sup>26</sup> kg<br />(91.950 Yrths)
         density: 0.904 g/cm<sup>3</sup>
         surface_gravity: 13.257 m/s<sup>2</sup><br />(1.352 g<sub>0</sub>)
         escape_velocity: 37.350 km/s<br />(134,462 km/h)
         rotation_period: 76.814 d
         axial_tilt: 18.03°
         albedo: 0.30
-        temperature: 1984 K<br />(1711 °C)
+        temperature: 252 K<br />(-22 °C)
       - name: 0289 Tanashad I b
         type: Asteroid
         formationType: Captured
@@ -75,14 +75,14 @@ planets:
         radius: 29,248.2 km<br/>(4.591 Yrths)
         surface_area: 1.075 × 10<sup>10</sup> km<sup>2</sup><br/>(21.076 Yrths)
         volume: 1.048 × 10<sup>14</sup> km<sup>3</sup><br/>(96.756 Yrths)
-        mass: 2.903 × 10<sup>26</sup> kg<br />(33.735234117889064 Yrths)
+        mass: 2.903 × 10<sup>26</sup> kg<br />(48.608 Yrths)
         density: 2.770 g/cm<sup>3</sup>
         surface_gravity: 22.618 m/s<sup>2</sup><br />(2.306 g<sub>0</sub>)
         escape_velocity: 36.399 km/s<br />(131,035 km/h)
         rotation_period: 48.453 d
         axial_tilt: 52.09°
         albedo: 0.30
-        temperature: 1564 K<br />(1291 °C)
+        temperature: 252 K<br />(-22 °C)
       - name: 0289 Tanashad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -95,14 +95,14 @@ planets:
         radius: 20,246.5 km<br/>(3.178 Yrths)
         surface_area: 5.151 × 10<sup>09</sup> km<sup>2</sup><br/>(10.099 Yrths)
         volume: 3.476 × 10<sup>13</sup> km<sup>3</sup><br/>(32.094 Yrths)
-        mass: 9.360 × 10<sup>25</sup> kg<br />(33.735234117889064 Yrths)
+        mass: 9.360 × 10<sup>25</sup> kg<br />(15.674 Yrths)
         density: 2.692 g/cm<sup>3</sup>
         surface_gravity: 15.220 m/s<sup>2</sup><br />(1.552 g<sub>0</sub>)
         escape_velocity: 24.842 km/s<br />(89,432 km/h)
         rotation_period: 31.799 d
         axial_tilt: 13.91°
         albedo: 0.30
-        temperature: 1491 K<br />(1218 °C)
+        temperature: 252 K<br />(-22 °C)
       - name: 0289 Tanashad I d
         type: Rocky
         formationType: Accreted
@@ -115,14 +115,14 @@ planets:
         radius: 24,764.5 km<br/>(3.887 Yrths)
         surface_area: 7.707 × 10<sup>09</sup> km<sup>2</sup><br/>(15.109 Yrths)
         volume: 6.362 × 10<sup>13</sup> km<sup>3</sup><br/>(58.731 Yrths)
-        mass: 2.146 × 10<sup>26</sup> kg<br />(33.735234117889064 Yrths)
+        mass: 2.146 × 10<sup>26</sup> kg<br />(35.939 Yrths)
         density: 3.374 g/cm<sup>3</sup>
         surface_gravity: 23.326 m/s<sup>2</sup><br />(2.379 g<sub>0</sub>)
         escape_velocity: 34.013 km/s<br />(122,446 km/h)
         rotation_period: 42.092 d
         axial_tilt: 14.76°
         albedo: 0.30
-        temperature: 1422 K<br />(1148 °C)
+        temperature: 252 K<br />(-22 °C)
       - name: 0289 Tanashad I e
         type: Icy
         formationType: Accreted
@@ -135,14 +135,14 @@ planets:
         radius: 22,213.4 km<br/>(3.487 Yrths)
         surface_area: 6.201 × 10<sup>09</sup> km<sup>2</sup><br/>(12.157 Yrths)
         volume: 4.591 × 10<sup>13</sup> km<sup>3</sup><br/>(42.386 Yrths)
-        mass: 6.653 × 10<sup>25</sup> kg<br />(33.735234117889064 Yrths)
+        mass: 6.653 × 10<sup>25</sup> kg<br />(11.140 Yrths)
         density: 1.449 g/cm<sup>3</sup>
         surface_gravity: 8.986 m/s<sup>2</sup><br />(0.916 g<sub>0</sub>)
         escape_velocity: 19.994 km/s<br />(71,979 km/h)
         rotation_period: 45.255 d
         axial_tilt: 22.78°
         albedo: 0.30
-        temperature: 1355 K<br />(1082 °C)
+        temperature: 252 K<br />(-22 °C)
       - name: 0289 Tanashad I f
         type: Icy
         formationType: Captured
@@ -155,14 +155,14 @@ planets:
         radius: 25,475.4 km<br/>(3.999 Yrths)
         surface_area: 8.156 × 10<sup>09</sup> km<sup>2</sup><br/>(15.989 Yrths)
         volume: 6.926 × 10<sup>13</sup> km<sup>3</sup><br/>(63.935 Yrths)
-        mass: 1.185 × 10<sup>26</sup> kg<br />(33.735234117889064 Yrths)
+        mass: 1.185 × 10<sup>26</sup> kg<br />(19.848 Yrths)
         density: 1.712 g/cm<sup>3</sup>
         surface_gravity: 12.174 m/s<sup>2</sup><br />(1.241 g<sub>0</sub>)
         escape_velocity: 24.922 km/s<br />(89,719 km/h)
         rotation_period: 61.196 d
         axial_tilt: 18.59°
         albedo: 0.30
-        temperature: 1232 K<br />(959 °C)
+        temperature: 252 K<br />(-22 °C)
       - name: 0289 Tanashad I g
         type: Rocky
         formationType: Captured
@@ -175,14 +175,14 @@ planets:
         radius: 18,310.8 km<br/>(2.874 Yrths)
         surface_area: 4.213 × 10<sup>09</sup> km<sup>2</sup><br/>(8.260 Yrths)
         volume: 2.572 × 10<sup>13</sup> km<sup>3</sup><br/>(23.741 Yrths)
-        mass: 7.657 × 10<sup>25</sup> kg<br />(33.735234117889064 Yrths)
+        mass: 7.657 × 10<sup>25</sup> kg<br />(12.822 Yrths)
         density: 2.978 g/cm<sup>3</sup>
         surface_gravity: 15.222 m/s<sup>2</sup><br />(1.552 g<sub>0</sub>)
         escape_velocity: 23.627 km/s<br />(85,056 km/h)
         rotation_period: 29.640 d
         axial_tilt: 13.24°
         albedo: 0.30
-        temperature: 1175 K<br />(902 °C)
+        temperature: 252 K<br />(-22 °C)
       - name: 0289 Tanashad I h
         type: Asteroid
         formationType: Captured
@@ -195,14 +195,14 @@ planets:
         radius: 25,306.2 km<br/>(3.972 Yrths)
         surface_area: 8.048 × 10<sup>09</sup> km<sup>2</sup><br/>(15.777 Yrths)
         volume: 6.788 × 10<sup>13</sup> km<sup>3</sup><br/>(62.670 Yrths)
-        mass: 1.708 × 10<sup>26</sup> kg<br />(33.735234117889064 Yrths)
+        mass: 1.708 × 10<sup>26</sup> kg<br />(28.602 Yrths)
         density: 2.516 g/cm<sup>3</sup>
         surface_gravity: 17.778 m/s<sup>2</sup><br />(1.813 g<sub>0</sub>)
         escape_velocity: 30.016 km/s<br />(108,059 km/h)
         rotation_period: 54.201 d
         axial_tilt: 19.75°
         albedo: 0.30
-        temperature: 1068 K<br />(795 °C)
+        temperature: 252 K<br />(-22 °C)
       - name: 0289 Tanashad I i
         type: Ice/rock hybrid
         formationType: Captured
@@ -215,14 +215,14 @@ planets:
         radius: 21,360.5 km<br/>(3.353 Yrths)
         surface_area: 5.734 × 10<sup>09</sup> km<sup>2</sup><br/>(11.241 Yrths)
         volume: 4.082 × 10<sup>13</sup> km<sup>3</sup><br/>(37.689 Yrths)
-        mass: 6.532 × 10<sup>25</sup> kg<br />(33.735234117889064 Yrths)
+        mass: 6.532 × 10<sup>25</sup> kg<br />(10.938 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 9.542 m/s<sup>2</sup><br />(0.973 g<sub>0</sub>)
         escape_velocity: 20.204 km/s<br />(72,734 km/h)
         rotation_period: 47.742 d
         axial_tilt: 9.87°
         albedo: 0.30
-        temperature: 971 K<br />(698 °C)
+        temperature: 252 K<br />(-22 °C)
   - name: 0289 Tanashad II
     type: Ice giant
     aphelion: 274,280,817 km<br />1.833 AU
@@ -234,14 +234,14 @@ planets:
     radius: 16,780.2 km<br/>(2.634 Yrths)
     surface_area: 3.538 × 10<sup>09</sup> km<sup>2</sup><br/>(6.937 Yrths)
     volume: 1.979 × 10<sup>13</sup> km<sup>3</sup><br/>(18.271 Yrths)
-    mass: 2.962 × 10<sup>25</sup> kg<br />(4.96050138697276 Yrths)
+    mass: 2.962 × 10<sup>25</sup> kg<br />(4.96 Yrths)
     density: 1.497 g/cm<sup>3</sup>
     surface_gravity: 7.012 m/s<sup>2</sup><br />(0.715 g<sub>0</sub>)
     escape_velocity: 15.351 km/s<br />(55,264 km/h)
     rotation_period: 0.848 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 343 K<br />(70 °C)
+    temperature: 341 K<br />(68 °C)
     composition:
       - 88.4905% hydrogen
       - 7.5509% helium
@@ -259,14 +259,14 @@ planets:
         radius: 5,130.4 km<br/>(0.805 Yrths)
         surface_area: 3.308 × 10<sup>08</sup> km<sup>2</sup><br/>(0.648 Yrths)
         volume: 5.656 × 10<sup>11</sup> km<sup>3</sup><br/>(0.522 Yrths)
-        mass: 1.286 × 10<sup>24</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 1.286 × 10<sup>24</sup> kg<br />(0.215 Yrths)
         density: 2.273 g/cm<sup>3</sup>
         surface_gravity: 3.255 m/s<sup>2</sup><br />(0.332 g<sub>0</sub>)
         escape_velocity: 5.783 km/s<br />(20,820 km/h)
         rotation_period: 58.404 d
         axial_tilt: 21.41°
         albedo: 0.30
-        temperature: 2099 K<br />(1826 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -279,14 +279,14 @@ planets:
         radius: 5,476.0 km<br/>(0.860 Yrths)
         surface_area: 3.768 × 10<sup>08</sup> km<sup>2</sup><br/>(0.739 Yrths)
         volume: 6.878 × 10<sup>11</sup> km<sup>3</sup><br/>(0.635 Yrths)
-        mass: 1.578 × 10<sup>24</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 1.578 × 10<sup>24</sup> kg<br />(0.264 Yrths)
         density: 2.294 g/cm<sup>3</sup>
         surface_gravity: 3.508 m/s<sup>2</sup><br />(0.358 g<sub>0</sub>)
         escape_velocity: 6.202 km/s<br />(22,328 km/h)
         rotation_period: 41.415 d
         axial_tilt: 17.72°
         albedo: 0.30
-        temperature: 1909 K<br />(1635 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -299,14 +299,14 @@ planets:
         radius: 8,895.6 km<br/>(1.396 Yrths)
         surface_area: 9.944 × 10<sup>08</sup> km<sup>2</sup><br/>(1.950 Yrths)
         volume: 2.949 × 10<sup>12</sup> km<sup>3</sup><br/>(2.722 Yrths)
-        mass: 6.949 × 10<sup>24</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 6.949 × 10<sup>24</sup> kg<br />(1.164 Yrths)
         density: 2.357 g/cm<sup>3</sup>
         surface_gravity: 5.854 m/s<sup>2</sup><br />(0.597 g<sub>0</sub>)
         escape_velocity: 10.212 km/s<br />(36,763 km/h)
         rotation_period: 39.830 d
         axial_tilt: 24.34°
         albedo: 0.30
-        temperature: 1820 K<br />(1547 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -319,14 +319,14 @@ planets:
         radius: 10,416.2 km<br/>(1.635 Yrths)
         surface_area: 1.363 × 10<sup>09</sup> km<sup>2</sup><br/>(2.673 Yrths)
         volume: 4.734 × 10<sup>12</sup> km<sup>3</sup><br/>(4.370 Yrths)
-        mass: 1.019 × 10<sup>25</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 1.019 × 10<sup>25</sup> kg<br />(1.706 Yrths)
         density: 2.152 g/cm<sup>3</sup>
         surface_gravity: 6.260 m/s<sup>2</sup><br />(0.638 g<sub>0</sub>)
         escape_velocity: 11.427 km/s<br />(41,138 km/h)
         rotation_period: 58.446 d
         axial_tilt: 12.12°
         albedo: 0.30
-        temperature: 1735 K<br />(1462 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II e
         type: Asteroid
         formationType: Captured
@@ -339,14 +339,14 @@ planets:
         radius: 8,001.5 km<br/>(1.256 Yrths)
         surface_area: 8.045 × 10<sup>08</sup> km<sup>2</sup><br/>(1.577 Yrths)
         volume: 2.146 × 10<sup>12</sup> km<sup>3</sup><br/>(1.981 Yrths)
-        mass: 3.687 × 10<sup>24</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 3.687 × 10<sup>24</sup> kg<br />(0.617 Yrths)
         density: 1.718 g/cm<sup>3</sup>
         surface_gravity: 3.839 m/s<sup>2</sup><br />(0.391 g<sub>0</sub>)
         escape_velocity: 7.843 km/s<br />(28,235 km/h)
         rotation_period: 47.843 d
         axial_tilt: 37.67°
         albedo: 0.30
-        temperature: 1654 K<br />(1381 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II f
         type: Icy
         formationType: Captured
@@ -359,14 +359,14 @@ planets:
         radius: 7,278.4 km<br/>(1.142 Yrths)
         surface_area: 6.657 × 10<sup>08</sup> km<sup>2</sup><br/>(1.305 Yrths)
         volume: 1.615 × 10<sup>12</sup> km<sup>3</sup><br/>(1.491 Yrths)
-        mass: 2.931 × 10<sup>24</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 2.931 × 10<sup>24</sup> kg<br />(0.491 Yrths)
         density: 1.815 g/cm<sup>3</sup>
         surface_gravity: 3.688 m/s<sup>2</sup><br />(0.376 g<sub>0</sub>)
         escape_velocity: 7.332 km/s<br />(26,395 km/h)
         rotation_period: 61.656 d
         axial_tilt: 17.22°
         albedo: 0.30
-        temperature: 1504 K<br />(1231 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II g
         type: Ice/rock hybrid
         formationType: Captured
@@ -379,14 +379,14 @@ planets:
         radius: 8,554.3 km<br/>(1.343 Yrths)
         surface_area: 9.196 × 10<sup>08</sup> km<sup>2</sup><br/>(1.803 Yrths)
         volume: 2.622 × 10<sup>12</sup> km<sup>3</sup><br/>(2.421 Yrths)
-        mass: 6.048 × 10<sup>24</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 6.048 × 10<sup>24</sup> kg<br />(1.013 Yrths)
         density: 2.306 g/cm<sup>3</sup>
         surface_gravity: 5.509 m/s<sup>2</sup><br />(0.562 g<sub>0</sub>)
         escape_velocity: 9.714 km/s<br />(34,972 km/h)
         rotation_period: 61.898 d
         axial_tilt: 23.80°
         albedo: 0.30
-        temperature: 1434 K<br />(1161 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -399,14 +399,14 @@ planets:
         radius: 7,055.3 km<br/>(1.107 Yrths)
         surface_area: 6.255 × 10<sup>08</sup> km<sup>2</sup><br/>(1.226 Yrths)
         volume: 1.471 × 10<sup>12</sup> km<sup>3</sup><br/>(1.358 Yrths)
-        mass: 2.383 × 10<sup>24</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 2.383 × 10<sup>24</sup> kg<br />(0.399 Yrths)
         density: 1.620 g/cm<sup>3</sup>
         surface_gravity: 3.190 m/s<sup>2</sup><br />(0.325 g<sub>0</sub>)
         escape_velocity: 6.714 km/s<br />(24,171 km/h)
         rotation_period: 73.632 d
         axial_tilt: 14.62°
         albedo: 0.30
-        temperature: 1367 K<br />(1094 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II i
         type: Dwarf planet
         formationType: Captured
@@ -419,14 +419,14 @@ planets:
         radius: 4,854.3 km<br/>(0.762 Yrths)
         surface_area: 2.961 × 10<sup>08</sup> km<sup>2</sup><br/>(0.581 Yrths)
         volume: 4.792 × 10<sup>11</sup> km<sup>3</sup><br/>(0.442 Yrths)
-        mass: 1.057 × 10<sup>24</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 1.057 × 10<sup>24</sup> kg<br />(0.177 Yrths)
         density: 2.205 g/cm<sup>3</sup>
         surface_gravity: 2.988 m/s<sup>2</sup><br />(0.305 g<sub>0</sub>)
         escape_velocity: 5.390 km/s<br />(19,404 km/h)
         rotation_period: 43.704 d
         axial_tilt: 36.30°
         albedo: 0.30
-        temperature: 1304 K<br />(1030 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II j
         type: Icy
         formationType: Accreted
@@ -439,14 +439,14 @@ planets:
         radius: 13,104.4 km<br/>(2.057 Yrths)
         surface_area: 2.158 × 10<sup>09</sup> km<sup>2</sup><br/>(4.231 Yrths)
         volume: 9.426 × 10<sup>12</sup> km<sup>3</sup><br/>(8.702 Yrths)
-        mass: 1.536 × 10<sup>25</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 1.536 × 10<sup>25</sup> kg<br />(2.572 Yrths)
         density: 1.630 g/cm<sup>3</sup>
         surface_gravity: 5.962 m/s<sup>2</sup><br />(0.608 g<sub>0</sub>)
         escape_velocity: 12.509 km/s<br />(45,032 km/h)
         rotation_period: 45.771 d
         axial_tilt: 14.62°
         albedo: 0.30
-        temperature: 1243 K<br />(970 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0289 Tanashad II k
         type: Icy
         formationType: Captured
@@ -459,14 +459,14 @@ planets:
         radius: 8,249.0 km<br/>(1.295 Yrths)
         surface_area: 8.551 × 10<sup>08</sup> km<sup>2</sup><br/>(1.676 Yrths)
         volume: 2.351 × 10<sup>12</sup> km<sup>3</sup><br/>(2.171 Yrths)
-        mass: 3.779 × 10<sup>24</sup> kg<br />(4.96050138697276 Yrths)
+        mass: 3.779 × 10<sup>24</sup> kg<br />(0.633 Yrths)
         density: 1.607 g/cm<sup>3</sup>
         surface_gravity: 3.701 m/s<sup>2</sup><br />(0.377 g<sub>0</sub>)
         escape_velocity: 7.820 km/s<br />(28,151 km/h)
         rotation_period: 41.586 d
         axial_tilt: 22.98°
         albedo: 0.30
-        temperature: 1130 K<br />(857 °C)
+        temperature: 192 K<br />(-81 °C)
   - name: 0289 Tanashad III
     type: Large terrestrial
     aphelion: 469,868,945 km<br />3.141 AU
@@ -478,14 +478,14 @@ planets:
     radius: 10,930.2 km<br/>(1.716 Yrths)
     surface_area: 1.501 × 10<sup>09</sup> km<sup>2</sup><br/>(2.943 Yrths)
     volume: 5.470 × 10<sup>12</sup> km<sup>3</sup><br/>(5.050 Yrths)
-    mass: 3.486 × 10<sup>25</sup> kg<br />(5.83780267316462 Yrths)
+    mass: 3.486 × 10<sup>25</sup> kg<br />(5.84 Yrths)
     density: 6.374 g/cm<sup>3</sup>
     surface_gravity: 19.450 m/s<sup>2</sup><br />(1.983 g<sub>0</sub>)
     escape_velocity: 20.634 km/s<br />(74,283 km/h)
     rotation_period: 0.796 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 239 K<br />(-35 °C)
+    temperature: 658 K<br />(385 °C)
     surface_pressure: 177 kPa<br />(2 atm)
     composition:
       - 96.4020% carbon dioxide
@@ -503,14 +503,14 @@ planets:
         radius: 7,340.0 km<br/>(1.152 Yrths)
         surface_area: 6.770 × 10<sup>08</sup> km<sup>2</sup><br/>(1.327 Yrths)
         volume: 1.656 × 10<sup>12</sup> km<sup>3</sup><br/>(1.529 Yrths)
-        mass: 2.514 × 10<sup>24</sup> kg<br />(5.83780267316462 Yrths)
+        mass: 2.514 × 10<sup>24</sup> kg<br />(0.421 Yrths)
         density: 1.518 g/cm<sup>3</sup>
         surface_gravity: 3.110 m/s<sup>2</sup><br />(0.317 g<sub>0</sub>)
         escape_velocity: 6.761 km/s<br />(24,340 km/h)
         rotation_period: 64.361 d
         axial_tilt: 27.81°
         albedo: 0.30
-        temperature: 2047 K<br />(1774 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0289 Tanashad III b
         type: Icy
         formationType: Accreted
@@ -523,14 +523,14 @@ planets:
         radius: 2,587.5 km<br/>(0.406 Yrths)
         surface_area: 8.413 × 10<sup>07</sup> km<sup>2</sup><br/>(0.165 Yrths)
         volume: 7.256 × 10<sup>10</sup> km<sup>3</sup><br/>(0.067 Yrths)
-        mass: 1.215 × 10<sup>23</sup> kg<br />(5.83780267316462 Yrths)
+        mass: 1.215 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 1.675 g/cm<sup>3</sup>
         surface_gravity: 1.210 m/s<sup>2</sup><br />(0.123 g<sub>0</sub>)
         escape_velocity: 2.504 km/s<br />(9,014 km/h)
         rotation_period: 42.140 d
         axial_tilt: 18.27°
         albedo: 0.30
-        temperature: 1952 K<br />(1679 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0289 Tanashad III c
         type: Asteroid
         formationType: Captured
@@ -543,14 +543,14 @@ planets:
         radius: 3,770.6 km<br/>(0.592 Yrths)
         surface_area: 1.787 × 10<sup>08</sup> km<sup>2</sup><br/>(0.350 Yrths)
         volume: 2.246 × 10<sup>11</sup> km<sup>3</sup><br/>(0.207 Yrths)
-        mass: 5.369 × 10<sup>23</sup> kg<br />(5.83780267316462 Yrths)
+        mass: 5.369 × 10<sup>23</sup> kg<br />(0.090 Yrths)
         density: 2.391 g/cm<sup>3</sup>
         surface_gravity: 2.517 m/s<sup>2</sup><br />(0.257 g<sub>0</sub>)
         escape_velocity: 4.360 km/s<br />(15,696 km/h)
         rotation_period: 45.744 d
         axial_tilt: 13.94°
         albedo: 0.30
-        temperature: 1861 K<br />(1588 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0289 Tanashad III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -563,12 +563,12 @@ planets:
         radius: 11,386.3 km<br/>(1.787 Yrths)
         surface_area: 1.629 × 10<sup>09</sup> km<sup>2</sup><br/>(3.194 Yrths)
         volume: 6.184 × 10<sup>12</sup> km<sup>3</sup><br/>(5.709 Yrths)
-        mass: 1.265 × 10<sup>25</sup> kg<br />(5.83780267316462 Yrths)
+        mass: 1.265 × 10<sup>25</sup> kg<br />(2.118 Yrths)
         density: 2.046 g/cm<sup>3</sup>
         surface_gravity: 6.504 m/s<sup>2</sup><br />(0.663 g<sub>0</sub>)
         escape_velocity: 12.178 km/s<br />(43,842 km/h)
         rotation_period: 59.768 d
         axial_tilt: 27.88°
         albedo: 0.30
-        temperature: 1775 K<br />(1501 °C)
+        temperature: 147 K<br />(-126 °C)
 ---

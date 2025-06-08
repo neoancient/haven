@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5628 Dialkeshiad A is a star in the constellation Dialkes
+      5628 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 338.17 ly
 apparent_magnitude: 10.50
 absolute_magnitude: 5.42

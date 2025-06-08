@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      χ Kenmulliad D is a star in the constellation Kenmul
+      χ Kenmulliad D is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 1281.30 ly
 apparent_magnitude: 12.76
 absolute_magnitude: 4.78

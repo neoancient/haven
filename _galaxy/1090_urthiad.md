@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1090 Urthiad is a star in the constellation Urth
+      1090 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 304.59 ly
 apparent_magnitude: 9.88
 absolute_magnitude: 5.03

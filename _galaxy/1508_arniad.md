@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1508 Arniad is a star in the constellation Arni
+      1508 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 824.35 ly
 apparent_magnitude: 11.52
 absolute_magnitude: 4.50

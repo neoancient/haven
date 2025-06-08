@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3729 Tanashad A is a star in the constellation Tanas
+      3729 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 496.61 ly
 apparent_magnitude: 7.63
 absolute_magnitude: 1.71

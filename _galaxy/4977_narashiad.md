@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4977 Narashiad is a star in the constellation Naras
+      4977 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 367.74 ly
 apparent_magnitude: 10.55
 absolute_magnitude: 5.29

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4983 Narashiad is a star in the constellation Naras
+      4983 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 353.45 ly
 apparent_magnitude: 9.92
 absolute_magnitude: 4.75

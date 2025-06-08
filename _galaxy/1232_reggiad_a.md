@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1232 Reggiad A is a star in the constellation Reg
+      1232 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 347.13 ly
 apparent_magnitude: 10.25
 absolute_magnitude: 5.11

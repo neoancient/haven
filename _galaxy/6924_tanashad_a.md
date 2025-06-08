@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6924 Tanashad A is a star in the constellation Tanas
+      6924 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 585.99 ly
 apparent_magnitude: 7.09
 absolute_magnitude: 0.82

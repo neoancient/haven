@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1932 Lunaiad is a star in the constellation Luna
+      1932 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 577.26 ly
 apparent_magnitude: 11.10
 absolute_magnitude: 4.86

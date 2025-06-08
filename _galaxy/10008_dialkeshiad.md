@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10008 Dialkeshiad is a star in the constellation Dialkes
+      10008 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 366.73 ly
 apparent_magnitude: 7.34
 absolute_magnitude: 2.09
@@ -31,14 +31,14 @@ planets:
     radius: 16,298.9 km<br/>(2.558 Yrths)
     surface_area: 3.338 × 10<sup>09</sup> km<sup>2</sup><br/>(6.545 Yrths)
     volume: 1.814 × 10<sup>13</sup> km<sup>3</sup><br/>(16.744 Yrths)
-    mass: 2.898 × 10<sup>25</sup> kg<br />(4.852194225873304 Yrths)
+    mass: 2.898 × 10<sup>25</sup> kg<br />(4.85 Yrths)
     density: 1.598 g/cm<sup>3</sup>
     surface_gravity: 7.270 m/s<sup>2</sup><br />(0.741 g<sub>0</sub>)
     escape_velocity: 15.405 km/s<br />(55,459 km/h)
     rotation_period: 0.480 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 590 K<br />(317 °C)
+    temperature: 522 K<br />(249 °C)
     composition:
       - 69.1020% hydrogen
       - 29.1017% helium
@@ -56,14 +56,14 @@ planets:
         radius: 3,325.0 km<br/>(0.522 Yrths)
         surface_area: 1.389 × 10<sup>08</sup> km<sup>2</sup><br/>(0.272 Yrths)
         volume: 1.540 × 10<sup>11</sup> km<sup>3</sup><br/>(0.142 Yrths)
-        mass: 2.564 × 10<sup>23</sup> kg<br />(4.852194225873304 Yrths)
+        mass: 2.564 × 10<sup>23</sup> kg<br />(0.043 Yrths)
         density: 1.665 g/cm<sup>3</sup>
         surface_gravity: 1.546 m/s<sup>2</sup><br />(0.158 g<sub>0</sub>)
         escape_velocity: 3.208 km/s<br />(11,550 km/h)
         rotation_period: 38.594 d
         axial_tilt: 7.72°
         albedo: 0.30
-        temperature: 4656 K<br />(4383 °C)
+        temperature: 389 K<br />(116 °C)
       - name: 10008 Dialkeshiad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 5,950.3 km<br/>(0.934 Yrths)
         surface_area: 4.449 × 10<sup>08</sup> km<sup>2</sup><br/>(0.872 Yrths)
         volume: 8.825 × 10<sup>11</sup> km<sup>3</sup><br/>(0.815 Yrths)
-        mass: 2.471 × 10<sup>24</sup> kg<br />(4.852194225873304 Yrths)
+        mass: 2.471 × 10<sup>24</sup> kg<br />(0.414 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 4.652 m/s<sup>2</sup><br />(0.474 g<sub>0</sub>)
         escape_velocity: 7.445 km/s<br />(26,803 km/h)
         rotation_period: 48.398 d
         axial_tilt: 11.18°
         albedo: 0.30
-        temperature: 4439 K<br />(4166 °C)
+        temperature: 389 K<br />(116 °C)
       - name: 10008 Dialkeshiad I c
         type: Icy
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 11,923.5 km<br/>(1.872 Yrths)
         surface_area: 1.787 × 10<sup>09</sup> km<sup>2</sup><br/>(3.503 Yrths)
         volume: 7.101 × 10<sup>12</sup> km<sup>3</sup><br/>(6.555 Yrths)
-        mass: 5.225 × 10<sup>24</sup> kg<br />(4.852194225873304 Yrths)
+        mass: 5.225 × 10<sup>24</sup> kg<br />(0.875 Yrths)
         density: 0.736 g/cm<sup>3</sup>
         surface_gravity: 2.450 m/s<sup>2</sup><br />(0.250 g<sub>0</sub>)
         escape_velocity: 7.648 km/s<br />(27,534 km/h)
         rotation_period: 93.097 d
         axial_tilt: 18.80°
         albedo: 0.30
-        temperature: 4233 K<br />(3960 °C)
+        temperature: 389 K<br />(116 °C)
       - name: 10008 Dialkeshiad I d
         type: Icy
         formationType: Impact formed
@@ -116,14 +116,14 @@ planets:
         radius: 14,291.2 km<br/>(2.243 Yrths)
         surface_area: 2.567 × 10<sup>09</sup> km<sup>2</sup><br/>(5.032 Yrths)
         volume: 1.223 × 10<sup>13</sup> km<sup>3</sup><br/>(11.287 Yrths)
-        mass: 1.360 × 10<sup>25</sup> kg<br />(4.852194225873304 Yrths)
+        mass: 1.360 × 10<sup>25</sup> kg<br />(2.278 Yrths)
         density: 1.112 g/cm<sup>3</sup>
         surface_gravity: 4.439 m/s<sup>2</sup><br />(0.453 g<sub>0</sub>)
         escape_velocity: 11.271 km/s<br />(40,577 km/h)
         rotation_period: 84.713 d
         axial_tilt: 15.37°
         albedo: 0.30
-        temperature: 4036 K<br />(3763 °C)
+        temperature: 389 K<br />(116 °C)
   - name: 10008 Dialkeshiad II
     type: Terrestrial
     aphelion: 516,518,355 km<br />3.453 AU
@@ -135,7 +135,7 @@ planets:
     radius: 6,587.0 km<br/>(1.034 Yrths)
     surface_area: 5.452 × 10<sup>08</sup> km<sup>2</sup><br/>(1.069 Yrths)
     volume: 1.197 × 10<sup>12</sup> km<sup>3</sup><br/>(1.105 Yrths)
-    mass: 6.178 × 10<sup>24</sup> kg<br />(1.034547519277142 Yrths)
+    mass: 6.178 × 10<sup>24</sup> kg<br />(1.03 Yrths)
     density: 5.161 g/cm<sup>3</sup>
     surface_gravity: 9.491 m/s<sup>2</sup><br />(0.968 g<sub>0</sub>)
     escape_velocity: 11.190 km/s<br />(40,282 km/h)
@@ -156,14 +156,14 @@ planets:
         radius: 3,335.2 km<br/>(0.524 Yrths)
         surface_area: 1.398 × 10<sup>08</sup> km<sup>2</sup><br/>(0.274 Yrths)
         volume: 1.554 × 10<sup>11</sup> km<sup>3</sup><br/>(0.143 Yrths)
-        mass: 3.891 × 10<sup>23</sup> kg<br />(1.034547519277142 Yrths)
+        mass: 3.891 × 10<sup>23</sup> kg<br />(0.065 Yrths)
         density: 2.503 g/cm<sup>3</sup>
         surface_gravity: 2.331 m/s<sup>2</sup><br />(0.238 g<sub>0</sub>)
         escape_velocity: 3.946 km/s<br />(14,206 km/h)
         rotation_period: 51.052 d
         axial_tilt: 31.15°
         albedo: 0.30
-        temperature: 4344 K<br />(4071 °C)
+        temperature: 281 K<br />(8 °C)
   - name: 10008 Dialkeshiad III
     type: Large terrestrial
     aphelion: 927,334,265 km<br />6.199 AU
@@ -175,14 +175,14 @@ planets:
     radius: 8,492.3 km<br/>(1.333 Yrths)
     surface_area: 9.063 × 10<sup>08</sup> km<sup>2</sup><br/>(1.777 Yrths)
     volume: 2.565 × 10<sup>12</sup> km<sup>3</sup><br/>(2.368 Yrths)
-    mass: 1.925 × 10<sup>25</sup> kg<br />(3.2234855493180494 Yrths)
+    mass: 1.925 × 10<sup>25</sup> kg<br />(3.22 Yrths)
     density: 7.504 g/cm<sup>3</sup>
     surface_gravity: 17.791 m/s<sup>2</sup><br />(1.814 g<sub>0</sub>)
     escape_velocity: 17.395 km/s<br />(62,623 km/h)
     rotation_period: 0.630 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 305 K<br />(32 °C)
+    temperature: 272 K<br />(-2 °C)
     surface_pressure: 4,622 kPa<br />(46 atm)
     composition:
       - 93.0701% nitrogen
@@ -203,12 +203,12 @@ planets:
         radius: 8,267.5 km<br/>(1.298 Yrths)
         surface_area: 8.589 × 10<sup>08</sup> km<sup>2</sup><br/>(1.684 Yrths)
         volume: 2.367 × 10<sup>12</sup> km<sup>3</sup><br/>(2.185 Yrths)
-        mass: 6.040 × 10<sup>24</sup> kg<br />(3.2234855493180494 Yrths)
+        mass: 6.040 × 10<sup>24</sup> kg<br />(1.011 Yrths)
         density: 2.552 g/cm<sup>3</sup>
         surface_gravity: 5.890 m/s<sup>2</sup><br />(0.601 g<sub>0</sub>)
         escape_velocity: 9.875 km/s<br />(35,550 km/h)
         rotation_period: 42.880 d
         axial_tilt: 27.92°
         albedo: 0.30
-        temperature: 2598 K<br />(2325 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

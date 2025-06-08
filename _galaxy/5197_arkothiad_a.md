@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5197 Arkothiad A is a star in the constellation Arkoth
+      5197 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 385.53 ly
 apparent_magnitude: 8.27
 absolute_magnitude: 2.91

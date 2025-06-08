@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      983 Arniad A is a star in the constellation Arni
+      983 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1050.37 ly
 apparent_magnitude: 6.65
 absolute_magnitude: -0.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1977 Ratharshinniad is a star in the constellation Ratharshin
+      1977 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 105.33 ly
 apparent_magnitude: 7.03
 absolute_magnitude: 4.49
@@ -31,14 +31,14 @@ planets:
     radius: 21,084.5 km<br/>(3.309 Yrths)
     surface_area: 5.586 × 10<sup>09</sup> km<sup>2</sup><br/>(10.952 Yrths)
     volume: 3.926 × 10<sup>13</sup> km<sup>3</sup><br/>(36.246 Yrths)
-    mass: 8.857 × 10<sup>25</sup> kg<br />(14.83132196955116 Yrths)
+    mass: 8.857 × 10<sup>25</sup> kg<br />(14.83 Yrths)
     density: 2.256 g/cm<sup>3</sup>
     surface_gravity: 13.280 m/s<sup>2</sup><br />(1.354 g<sub>0</sub>)
     escape_velocity: 23.680 km/s<br />(85,249 km/h)
     rotation_period: 0.607 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 338 K<br />(65 °C)
+    temperature: 298 K<br />(25 °C)
     composition:
       - 72.7009% hydrogen
       - 24.8083% helium
@@ -58,14 +58,14 @@ planets:
         radius: 9,193.0 km<br/>(1.443 Yrths)
         surface_area: 1.062 × 10<sup>09</sup> km<sup>2</sup><br/>(2.082 Yrths)
         volume: 3.254 × 10<sup>12</sup> km<sup>3</sup><br/>(3.004 Yrths)
-        mass: 9.733 × 10<sup>24</sup> kg<br />(14.83132196955116 Yrths)
+        mass: 9.733 × 10<sup>24</sup> kg<br />(1.630 Yrths)
         density: 2.991 g/cm<sup>3</sup>
         surface_gravity: 7.676 m/s<sup>2</sup><br />(0.783 g<sub>0</sub>)
         escape_velocity: 11.888 km/s<br />(42,797 km/h)
         rotation_period: 34.326 d
         axial_tilt: 23.00°
         albedo: 0.30
-        temperature: 2225 K<br />(1952 °C)
+        temperature: 234 K<br />(-39 °C)
       - name: 1977 Ratharshinniad I b
         type: Icy
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 12,917.9 km<br/>(2.028 Yrths)
         surface_area: 2.097 × 10<sup>09</sup> km<sup>2</sup><br/>(4.111 Yrths)
         volume: 9.029 × 10<sup>12</sup> km<sup>3</sup><br/>(8.336 Yrths)
-        mass: 1.233 × 10<sup>25</sup> kg<br />(14.83132196955116 Yrths)
+        mass: 1.233 × 10<sup>25</sup> kg<br />(2.064 Yrths)
         density: 1.365 g/cm<sup>3</sup>
         surface_gravity: 4.924 m/s<sup>2</sup><br />(0.502 g<sub>0</sub>)
         escape_velocity: 11.287 km/s<br />(40,633 km/h)
         rotation_period: 43.503 d
         axial_tilt: 20.46°
         albedo: 0.30
-        temperature: 2121 K<br />(1848 °C)
+        temperature: 234 K<br />(-39 °C)
       - name: 1977 Ratharshinniad I c
         type: Rocky
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 16,518.4 km<br/>(2.593 Yrths)
         surface_area: 3.429 × 10<sup>09</sup> km<sup>2</sup><br/>(6.722 Yrths)
         volume: 1.888 × 10<sup>13</sup> km<sup>3</sup><br/>(17.429 Yrths)
-        mass: 5.903 × 10<sup>25</sup> kg<br />(14.83132196955116 Yrths)
+        mass: 5.903 × 10<sup>25</sup> kg<br />(9.884 Yrths)
         density: 3.126 g/cm<sup>3</sup>
         surface_gravity: 14.419 m/s<sup>2</sup><br />(1.470 g<sub>0</sub>)
         escape_velocity: 21.840 km/s<br />(78,625 km/h)
         rotation_period: 38.327 d
         axial_tilt: 11.05°
         albedo: 0.30
-        temperature: 2022 K<br />(1749 °C)
+        temperature: 234 K<br />(-39 °C)
       - name: 1977 Ratharshinniad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -118,14 +118,14 @@ planets:
         radius: 17,146.5 km<br/>(2.691 Yrths)
         surface_area: 3.695 × 10<sup>09</sup> km<sup>2</sup><br/>(7.243 Yrths)
         volume: 2.112 × 10<sup>13</sup> km<sup>3</sup><br/>(19.494 Yrths)
-        mass: 3.915 × 10<sup>25</sup> kg<br />(14.83132196955116 Yrths)
+        mass: 3.915 × 10<sup>25</sup> kg<br />(6.556 Yrths)
         density: 1.854 g/cm<sup>3</sup>
         surface_gravity: 8.876 m/s<sup>2</sup><br />(0.905 g<sub>0</sub>)
         escape_velocity: 17.458 km/s<br />(62,849 km/h)
         rotation_period: 57.096 d
         axial_tilt: 17.08°
         albedo: 0.30
-        temperature: 1928 K<br />(1655 °C)
+        temperature: 234 K<br />(-39 °C)
       - name: 1977 Ratharshinniad I e
         type: Rocky
         formationType: Impact formed
@@ -138,14 +138,14 @@ planets:
         radius: 20,910.2 km<br/>(3.282 Yrths)
         surface_area: 5.494 × 10<sup>09</sup> km<sup>2</sup><br/>(10.772 Yrths)
         volume: 3.830 × 10<sup>13</sup> km<sup>3</sup><br/>(35.355 Yrths)
-        mass: 1.159 × 10<sup>26</sup> kg<br />(14.83132196955116 Yrths)
+        mass: 1.159 × 10<sup>26</sup> kg<br />(19.405 Yrths)
         density: 3.026 g/cm<sup>3</sup>
         surface_gravity: 17.666 m/s<sup>2</sup><br />(1.801 g<sub>0</sub>)
         escape_velocity: 27.199 km/s<br />(97,918 km/h)
         rotation_period: 33.058 d
         axial_tilt: 20.41°
         albedo: 0.30
-        temperature: 1839 K<br />(1565 °C)
+        temperature: 234 K<br />(-39 °C)
   - name: 1977 Ratharshinniad II
     type: Gas giant
     aphelion: 410,097,896 km<br />2.741 AU
@@ -157,7 +157,7 @@ planets:
     radius: 193.7 km<br/>(0.030 Yrths)
     surface_area: 4.713 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.042 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.084 × 10<sup>26</sup> kg<br />(152.106412506833 Yrths)
+    mass: 9.084 × 10<sup>26</sup> kg<br />(152.11 Yrths)
     density: 29858508.352 g/cm<sup>3</sup>
     surface_gravity: 1614394.511 m/s<sup>2</sup><br />(164622.426 g<sub>0</sub>)
     escape_velocity: 791.285 km/s<br />(2,848,627 km/h)
@@ -178,14 +178,14 @@ planets:
         radius: 171,238.2 km<br/>(26.878 Yrths)
         surface_area: 3.685 × 10<sup>11</sup> km<sup>2</sup><br/>(722.414 Yrths)
         volume: 2.103 × 10<sup>16</sup> km<sup>3</sup><br/>(19416.870 Yrths)
-        mass: 1.894 × 10<sup>28</sup> kg<br />(152.106412506833 Yrths)
+        mass: 1.894 × 10<sup>28</sup> kg<br />(3170.912 Yrths)
         density: 0.900 g/cm<sup>3</sup>
         surface_gravity: 43.045 m/s<sup>2</sup><br />(4.389 g<sub>0</sub>)
         escape_velocity: 121.498 km/s<br />(437,393 km/h)
         rotation_period: 84.551 d
         axial_tilt: 8.78°
         albedo: 0.30
-        temperature: 1003 K<br />(730 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 1977 Ratharshinniad II b
         type: Icy
         formationType: Accreted
@@ -198,14 +198,14 @@ planets:
         radius: 155,003.9 km<br/>(24.330 Yrths)
         surface_area: 3.019 × 10<sup>11</sup> km<sup>2</sup><br/>(591.930 Yrths)
         volume: 1.560 × 10<sup>16</sup> km<sup>3</sup><br/>(14401.411 Yrths)
-        mass: 2.100 × 10<sup>28</sup> kg<br />(152.106412506833 Yrths)
+        mass: 2.100 × 10<sup>28</sup> kg<br />(3517.113 Yrths)
         density: 1.346 g/cm<sup>3</sup>
         surface_gravity: 58.269 m/s<sup>2</sup><br />(5.942 g<sub>0</sub>)
         escape_velocity: 134.493 km/s<br />(484,175 km/h)
         rotation_period: 73.304 d
         axial_tilt: 15.30°
         albedo: 0.30
-        temperature: 956 K<br />(683 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 1977 Ratharshinniad II c
         type: Icy
         formationType: Accreted
@@ -218,14 +218,14 @@ planets:
         radius: 191,121.8 km<br/>(29.999 Yrths)
         surface_area: 4.590 × 10<sup>11</sup> km<sup>2</sup><br/>(899.923 Yrths)
         volume: 2.924 × 10<sup>16</sup> km<sup>3</sup><br/>(26996.543 Yrths)
-        mass: 3.918 × 10<sup>28</sup> kg<br />(152.106412506833 Yrths)
+        mass: 3.918 × 10<sup>28</sup> kg<br />(6560.356 Yrths)
         density: 1.340 g/cm<sup>3</sup>
         surface_gravity: 71.490 m/s<sup>2</sup><br />(7.290 g<sub>0</sub>)
         escape_velocity: 165.419 km/s<br />(595,510 km/h)
         rotation_period: 52.245 d
         axial_tilt: 17.13°
         albedo: 0.30
-        temperature: 912 K<br />(639 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 1977 Ratharshinniad II d
         type: Asteroid
         formationType: Captured
@@ -238,14 +238,14 @@ planets:
         radius: 134,680.8 km<br/>(21.140 Yrths)
         surface_area: 2.279 × 10<sup>11</sup> km<sup>2</sup><br/>(446.885 Yrths)
         volume: 1.023 × 10<sup>16</sup> km<sup>3</sup><br/>(9447.000 Yrths)
-        mass: 1.736 × 10<sup>28</sup> kg<br />(152.106412506833 Yrths)
+        mass: 1.736 × 10<sup>28</sup> kg<br />(2907.477 Yrths)
         density: 1.697 g/cm<sup>3</sup>
         surface_gravity: 63.803 m/s<sup>2</sup><br />(6.506 g<sub>0</sub>)
         escape_velocity: 131.185 km/s<br />(472,265 km/h)
         rotation_period: 42.096 d
         axial_tilt: 18.36°
         albedo: 0.30
-        temperature: 653 K<br />(380 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 1977 Ratharshinniad II e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -258,14 +258,14 @@ planets:
         radius: 130,049.8 km<br/>(20.413 Yrths)
         surface_area: 2.125 × 10<sup>11</sup> km<sup>2</sup><br/>(416.682 Yrths)
         volume: 9.213 × 10<sup>15</sup> km<sup>3</sup><br/>(8505.632 Yrths)
-        mass: 2.138 × 10<sup>28</sup> kg<br />(152.106412506833 Yrths)
+        mass: 2.138 × 10<sup>28</sup> kg<br />(3580.332 Yrths)
         density: 2.321 g/cm<sup>3</sup>
         surface_gravity: 84.264 m/s<sup>2</sup><br />(8.592 g<sub>0</sub>)
         escape_velocity: 148.144 km/s<br />(533,319 km/h)
         rotation_period: 33.795 d
         axial_tilt: 27.31°
         albedo: 0.30
-        temperature: 566 K<br />(293 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 1977 Ratharshinniad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -278,14 +278,14 @@ planets:
         radius: 125,275.5 km<br/>(19.663 Yrths)
         surface_area: 1.972 × 10<sup>11</sup> km<sup>2</sup><br/>(386.649 Yrths)
         volume: 8.235 × 10<sup>15</sup> km<sup>3</sup><br/>(7602.832 Yrths)
-        mass: 1.351 × 10<sup>28</sup> kg<br />(152.106412506833 Yrths)
+        mass: 1.351 × 10<sup>28</sup> kg<br />(2261.387 Yrths)
         density: 1.640 g/cm<sup>3</sup>
         surface_gravity: 57.356 m/s<sup>2</sup><br />(5.849 g<sub>0</sub>)
         escape_velocity: 119.959 km/s<br />(431,852 km/h)
         rotation_period: 69.909 d
         axial_tilt: 17.33°
         albedo: 0.30
-        temperature: 468 K<br />(195 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 1977 Ratharshinniad II g
         type: Asteroid
         formationType: Captured
@@ -298,14 +298,14 @@ planets:
         radius: 134,666.2 km<br/>(21.137 Yrths)
         surface_area: 2.279 × 10<sup>11</sup> km<sup>2</sup><br/>(446.789 Yrths)
         volume: 1.023 × 10<sup>16</sup> km<sup>3</sup><br/>(9443.935 Yrths)
-        mass: 2.055 × 10<sup>28</sup> kg<br />(152.106412506833 Yrths)
+        mass: 2.055 × 10<sup>28</sup> kg<br />(3440.556 Yrths)
         density: 2.009 g/cm<sup>3</sup>
         surface_gravity: 75.517 m/s<sup>2</sup><br />(7.701 g<sub>0</sub>)
         escape_velocity: 142.713 km/s<br />(513,766 km/h)
         rotation_period: 43.865 d
         axial_tilt: 54.27°
         albedo: 0.30
-        temperature: 425 K<br />(152 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 1977 Ratharshinniad II h
         type: Icy
         formationType: Impact formed
@@ -318,14 +318,14 @@ planets:
         radius: 168,003.3 km<br/>(26.370 Yrths)
         surface_area: 3.547 × 10<sup>11</sup> km<sup>2</sup><br/>(695.377 Yrths)
         volume: 1.986 × 10<sup>16</sup> km<sup>3</sup><br/>(18337.099 Yrths)
-        mass: 1.798 × 10<sup>28</sup> kg<br />(152.106412506833 Yrths)
+        mass: 1.798 × 10<sup>28</sup> kg<br />(3010.522 Yrths)
         density: 0.905 g/cm<sup>3</sup>
         surface_gravity: 42.456 m/s<sup>2</sup><br />(4.329 g<sub>0</sub>)
         escape_velocity: 119.520 km/s<br />(430,271 km/h)
         rotation_period: 52.563 d
         axial_tilt: 18.48°
         albedo: 0.30
-        temperature: 406 K<br />(132 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 1977 Ratharshinniad II i
         type: Dwarf planet
         formationType: Accreted
@@ -338,14 +338,14 @@ planets:
         radius: 120,535.6 km<br/>(18.919 Yrths)
         surface_area: 1.826 × 10<sup>11</sup> km<sup>2</sup><br/>(357.944 Yrths)
         volume: 7.336 × 10<sup>15</sup> km<sup>3</sup><br/>(6772.093 Yrths)
-        mass: 1.170 × 10<sup>28</sup> kg<br />(152.106412506833 Yrths)
+        mass: 1.170 × 10<sup>28</sup> kg<br />(1959.189 Yrths)
         density: 1.595 g/cm<sup>3</sup>
         surface_gravity: 53.676 m/s<sup>2</sup><br />(5.473 g<sub>0</sub>)
         escape_velocity: 113.830 km/s<br />(409,790 km/h)
         rotation_period: 41.294 d
         axial_tilt: 31.70°
         albedo: 0.30
-        temperature: 352 K<br />(78 °C)
+        temperature: 171 K<br />(-102 °C)
   - name: 1977 Ratharshinniad III
     type: Terrestrial
     aphelion: 759,841,527 km<br />5.079 AU
@@ -357,14 +357,14 @@ planets:
     radius: 6,954.0 km<br/>(1.092 Yrths)
     surface_area: 6.077 × 10<sup>08</sup> km<sup>2</sup><br/>(1.191 Yrths)
     volume: 1.409 × 10<sup>12</sup> km<sup>3</sup><br/>(1.300 Yrths)
-    mass: 8.132 × 10<sup>24</sup> kg<br />(1.3617428667615477 Yrths)
+    mass: 8.132 × 10<sup>24</sup> kg<br />(1.36 Yrths)
     density: 5.773 g/cm<sup>3</sup>
     surface_gravity: 11.209 m/s<sup>2</sup><br />(1.143 g<sub>0</sub>)
     escape_velocity: 12.494 km/s<br />(44,979 km/h)
     rotation_period: 0.935 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 190 K<br />(-83 °C)
+    temperature: 514 K<br />(241 °C)
     surface_pressure: 66 kPa<br />(1 atm)
     composition:
       - 87.1575% carbon dioxide
@@ -383,14 +383,14 @@ planets:
         radius: 4,002.3 km<br/>(0.628 Yrths)
         surface_area: 2.013 × 10<sup>08</sup> km<sup>2</sup><br/>(0.395 Yrths)
         volume: 2.685 × 10<sup>11</sup> km<sup>3</sup><br/>(0.248 Yrths)
-        mass: 3.024 × 10<sup>23</sup> kg<br />(1.3617428667615477 Yrths)
+        mass: 3.024 × 10<sup>23</sup> kg<br />(0.051 Yrths)
         density: 1.126 g/cm<sup>3</sup>
         surface_gravity: 1.258 m/s<sup>2</sup><br />(0.128 g<sub>0</sub>)
         escape_velocity: 3.176 km/s<br />(11,433 km/h)
         rotation_period: 51.757 d
         axial_tilt: 13.18°
         albedo: 0.30
-        temperature: 2290 K<br />(2017 °C)
+        temperature: 125 K<br />(-148 °C)
   - name: 1977 Ratharshinniad IV
     type: Gas giant
     aphelion: 1,411,455,605 km<br />9.435 AU
@@ -402,7 +402,7 @@ planets:
     radius: 204.0 km<br/>(0.032 Yrths)
     surface_area: 5.230 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.556 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.100 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+    mass: 1.100 × 10<sup>27</sup> kg<br />(184.27 Yrths)
     density: 30945646.467 g/cm<sup>3</sup>
     surface_gravity: 1762514.603 m/s<sup>2</sup><br />(179726.472 g<sub>0</sub>)
     escape_velocity: 848.575 km/s<br />(3,054,871 km/h)
@@ -423,14 +423,14 @@ planets:
         radius: 86,567.9 km<br/>(13.588 Yrths)
         surface_area: 9.417 × 10<sup>10</sup> km<sup>2</sup><br/>(184.628 Yrths)
         volume: 2.717 × 10<sup>15</sup> km<sup>3</sup><br/>(2508.693 Yrths)
-        mass: 4.665 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 4.665 × 10<sup>27</sup> kg<br />(781.191 Yrths)
         density: 1.717 g/cm<sup>3</sup>
         surface_gravity: 41.493 m/s<sup>2</sup><br />(4.231 g<sub>0</sub>)
         escape_velocity: 84.816 km/s<br />(305,338 km/h)
         rotation_period: 40.415 d
         axial_tilt: 22.90°
         albedo: 0.30
-        temperature: 545 K<br />(272 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV b
         type: Asteroid
         formationType: Captured
@@ -443,14 +443,14 @@ planets:
         radius: 77,585.4 km<br/>(12.178 Yrths)
         surface_area: 7.564 × 10<sup>10</sup> km<sup>2</sup><br/>(148.301 Yrths)
         volume: 1.956 × 10<sup>15</sup> km<sup>3</sup><br/>(1805.994 Yrths)
-        mass: 4.199 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 4.199 × 10<sup>27</sup> kg<br />(703.086 Yrths)
         density: 2.146 g/cm<sup>3</sup>
         surface_gravity: 46.493 m/s<sup>2</sup><br />(4.741 g<sub>0</sub>)
         escape_velocity: 84.995 km/s<br />(305,981 km/h)
         rotation_period: 52.194 d
         axial_tilt: 22.11°
         albedo: 0.30
-        temperature: 495 K<br />(222 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -463,14 +463,14 @@ planets:
         radius: 82,508.0 km<br/>(12.951 Yrths)
         surface_area: 8.555 × 10<sup>10</sup> km<sup>2</sup><br/>(167.717 Yrths)
         volume: 2.353 × 10<sup>15</sup> km<sup>3</sup><br/>(2172.028 Yrths)
-        mass: 6.141 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 6.141 × 10<sup>27</sup> kg<br />(1028.381 Yrths)
         density: 2.610 g/cm<sup>3</sup>
         surface_gravity: 60.131 m/s<sup>2</sup><br />(6.132 g<sub>0</sub>)
         escape_velocity: 99.680 km/s<br />(358,847 km/h)
         rotation_period: 48.016 d
         axial_tilt: 8.11°
         albedo: 0.30
-        temperature: 390 K<br />(117 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -483,14 +483,14 @@ planets:
         radius: 91,674.5 km<br/>(14.389 Yrths)
         surface_area: 1.056 × 10<sup>11</sup> km<sup>2</sup><br/>(207.053 Yrths)
         volume: 3.227 × 10<sup>15</sup> km<sup>3</sup><br/>(2979.359 Yrths)
-        mass: 6.730 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 6.730 × 10<sup>27</sup> kg<br />(1126.886 Yrths)
         density: 2.085 g/cm<sup>3</sup>
         surface_gravity: 53.373 m/s<sup>2</sup><br />(5.442 g<sub>0</sub>)
         escape_velocity: 98.991 km/s<br />(356,366 km/h)
         rotation_period: 35.371 d
         axial_tilt: 28.82°
         albedo: 0.30
-        temperature: 338 K<br />(65 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV e
         type: Icy
         formationType: Captured
@@ -503,14 +503,14 @@ planets:
         radius: 98,011.2 km<br/>(15.384 Yrths)
         surface_area: 1.207 × 10<sup>11</sup> km<sup>2</sup><br/>(236.666 Yrths)
         volume: 3.944 × 10<sup>15</sup> km<sup>3</sup><br/>(3640.857 Yrths)
-        mass: 5.452 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 5.452 × 10<sup>27</sup> kg<br />(913.001 Yrths)
         density: 1.383 g/cm<sup>3</sup>
         surface_gravity: 37.832 m/s<sup>2</sup><br />(3.858 g<sub>0</sub>)
         escape_velocity: 86.174 km/s<br />(310,226 km/h)
         rotation_period: 47.771 d
         axial_tilt: 19.00°
         albedo: 0.30
-        temperature: 279 K<br />(6 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV f
         type: Icy
         formationType: Accreted
@@ -523,14 +523,14 @@ planets:
         radius: 107,378.4 km<br/>(16.854 Yrths)
         surface_area: 1.449 × 10<sup>11</sup> km<sup>2</sup><br/>(284.066 Yrths)
         volume: 5.186 × 10<sup>15</sup> km<sup>3</sup><br/>(4787.711 Yrths)
-        mass: 7.790 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 7.790 × 10<sup>27</sup> kg<br />(1304.419 Yrths)
         density: 1.502 g/cm<sup>3</sup>
         surface_gravity: 45.032 m/s<sup>2</sup><br />(4.592 g<sub>0</sub>)
         escape_velocity: 98.407 km/s<br />(354,267 km/h)
         rotation_period: 45.767 d
         axial_tilt: 13.15°
         albedo: 0.30
-        temperature: 231 K<br />(-42 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV g
         type: Icy
         formationType: Accreted
@@ -543,14 +543,14 @@ planets:
         radius: 107,358.4 km<br/>(16.851 Yrths)
         surface_area: 1.448 × 10<sup>11</sup> km<sup>2</sup><br/>(283.960 Yrths)
         volume: 5.183 × 10<sup>15</sup> km<sup>3</sup><br/>(4785.043 Yrths)
-        mass: 4.689 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 4.689 × 10<sup>27</sup> kg<br />(785.169 Yrths)
         density: 0.905 g/cm<sup>3</sup>
         surface_gravity: 27.116 m/s<sup>2</sup><br />(2.765 g<sub>0</sub>)
         escape_velocity: 76.356 km/s<br />(274,880 km/h)
         rotation_period: 96.843 d
         axial_tilt: 11.96°
         albedo: 0.30
-        temperature: 200 K<br />(-73 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV h
         type: Ice/rock hybrid
         formationType: Captured
@@ -563,14 +563,14 @@ planets:
         radius: 90,367.2 km<br/>(14.184 Yrths)
         surface_area: 1.026 × 10<sup>11</sup> km<sup>2</sup><br/>(201.190 Yrths)
         volume: 3.091 × 10<sup>15</sup> km<sup>3</sup><br/>(2853.710 Yrths)
-        mass: 8.068 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 8.068 × 10<sup>27</sup> kg<br />(1351.010 Yrths)
         density: 2.610 g/cm<sup>3</sup>
         surface_gravity: 65.853 m/s<sup>2</sup><br />(6.715 g<sub>0</sub>)
         escape_velocity: 109.170 km/s<br />(393,010 km/h)
         rotation_period: 43.448 d
         axial_tilt: 21.62°
         albedo: 0.30
-        temperature: 103 K<br />(-170 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -583,14 +583,14 @@ planets:
         radius: 80,285.2 km<br/>(12.602 Yrths)
         surface_area: 8.100 × 10<sup>10</sup> km<sup>2</sup><br/>(158.802 Yrths)
         volume: 2.168 × 10<sup>15</sup> km<sup>3</sup><br/>(2001.168 Yrths)
-        mass: 4.990 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 4.990 × 10<sup>27</sup> kg<br />(835.539 Yrths)
         density: 2.302 g/cm<sup>3</sup>
         surface_gravity: 51.598 m/s<sup>2</sup><br />(5.262 g<sub>0</sub>)
         escape_velocity: 91.084 km/s<br />(327,903 km/h)
         rotation_period: 45.132 d
         axial_tilt: 21.72°
         albedo: 0.30
-        temperature: 53 K<br />(-220 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV j
         type: Icy
         formationType: Accreted
@@ -603,14 +603,14 @@ planets:
         radius: 99,143.0 km<br/>(15.562 Yrths)
         surface_area: 1.235 × 10<sup>11</sup> km<sup>2</sup><br/>(242.164 Yrths)
         volume: 4.082 × 10<sup>15</sup> km<sup>3</sup><br/>(3768.455 Yrths)
-        mass: 5.593 × 10<sup>27</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 5.593 × 10<sup>27</sup> kg<br />(936.513 Yrths)
         density: 1.370 g/cm<sup>3</sup>
         surface_gravity: 37.925 m/s<sup>2</sup><br />(3.867 g<sub>0</sub>)
         escape_velocity: 86.777 km/s<br />(312,397 km/h)
         rotation_period: 56.867 d
         axial_tilt: 15.05°
         albedo: 0.30
-        temperature: 44 K<br />(-230 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV k
         type: Dwarf planet
         formationType: Captured
@@ -623,14 +623,14 @@ planets:
         radius: 187,713.2 km<br/>(29.464 Yrths)
         surface_area: 4.428 × 10<sup>11</sup> km<sup>2</sup><br/>(868.109 Yrths)
         volume: 2.771 × 10<sup>16</sup> km<sup>3</sup><br/>(25577.690 Yrths)
-        mass: 4.094 × 10<sup>28</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 4.094 × 10<sup>28</sup> kg<br />(6854.663 Yrths)
         density: 1.478 g/cm<sup>3</sup>
         surface_gravity: 77.434 m/s<sup>2</sup><br />(7.896 g<sub>0</sub>)
         escape_velocity: 170.617 km/s<br />(614,223 km/h)
         rotation_period: 56.922 d
         axial_tilt: 28.40°
         albedo: 0.30
-        temperature: 42 K<br />(-232 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 1977 Ratharshinniad IV l
         type: Icy
         formationType: Captured
@@ -643,12 +643,12 @@ planets:
         radius: 148,726.2 km<br/>(23.344 Yrths)
         surface_area: 2.780 × 10<sup>11</sup> km<sup>2</sup><br/>(544.954 Yrths)
         volume: 1.378 × 10<sup>16</sup> km<sup>3</sup><br/>(12721.538 Yrths)
-        mass: 1.938 × 10<sup>28</sup> kg<br />(184.26963476479528 Yrths)
+        mass: 1.938 × 10<sup>28</sup> kg<br />(3244.558 Yrths)
         density: 1.406 g/cm<sup>3</sup>
         surface_gravity: 58.387 m/s<sup>2</sup><br />(5.954 g<sub>0</sub>)
         escape_velocity: 131.875 km/s<br />(474,749 km/h)
         rotation_period: 52.160 d
         axial_tilt: 23.20°
         albedo: 0.30
-        temperature: 40 K<br />(-234 °C)
+        temperature: 92 K<br />(-182 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2567 Narashiad is a star in the constellation Naras
+      2567 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 440.66 ly
 apparent_magnitude: 10.57
 absolute_magnitude: 4.92

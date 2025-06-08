@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1681 Arkothiad A is a star in the constellation Arkoth
+      1681 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 425.46 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 5.49

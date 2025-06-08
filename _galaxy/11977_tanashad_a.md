@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11977 Tanashad A is a star in the constellation Tanas
+      11977 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 270.82 ly
 apparent_magnitude: 9.00
 absolute_magnitude: 4.40

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      201 Ratharshinniad is a star in the constellation Ratharshin
+      201 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 377.09 ly
 apparent_magnitude: 10.02
 absolute_magnitude: 4.70

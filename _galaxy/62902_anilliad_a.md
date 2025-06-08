@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      62902 Anilliad A is a star in the constellation Anil
+      62902 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 772.16 ly
 apparent_magnitude: 7.79
 absolute_magnitude: 0.92

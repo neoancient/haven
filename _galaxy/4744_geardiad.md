@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4744 Geardiad is a star in the constellation Geard
+      4744 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 495.58 ly
 apparent_magnitude: 8.63
 absolute_magnitude: 2.72

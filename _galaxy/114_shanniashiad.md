@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      114 Shanniashiad is a star in the constellation Shannias
+      114 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 420.18 ly
 apparent_magnitude: 12.00
 absolute_magnitude: 6.45

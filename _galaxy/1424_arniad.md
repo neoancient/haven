@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1424 Arniad is a star in the constellation Arni
+      1424 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 571.76 ly
 apparent_magnitude: 11.50
 absolute_magnitude: 5.28

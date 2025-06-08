@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      η Arniad A is a star in the constellation Arni
+      η Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1570.61 ly
 apparent_magnitude: 5.28
 absolute_magnitude: -3.13

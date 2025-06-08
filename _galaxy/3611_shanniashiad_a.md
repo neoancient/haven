@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3611 Shanniashiad A is a star in the constellation Shannias
+      3611 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 187.94 ly
 apparent_magnitude: 10.05
 absolute_magnitude: 6.25

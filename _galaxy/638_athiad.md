@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      638 Athiad is a star in the constellation Ath
+      638 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 229.77 ly
 apparent_magnitude: 9.64
 absolute_magnitude: 5.40

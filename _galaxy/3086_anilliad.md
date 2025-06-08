@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3086 Anilliad is a star in the constellation Anil
+      3086 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 623.76 ly
 apparent_magnitude: 7.99
 absolute_magnitude: 1.58

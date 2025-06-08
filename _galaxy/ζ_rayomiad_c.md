@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ζ Rayomiad C is a star in the constellation Rayom
+      ζ Rayomiad C is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 675.43 ly
 apparent_magnitude: 15.35
 absolute_magnitude: 8.77

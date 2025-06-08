@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1790 Tanashad is a star in the constellation Tanas
+      1790 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 379.86 ly
 apparent_magnitude: 17.85
 absolute_magnitude: 12.52

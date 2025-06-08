@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9222 Dialkeshiad A is a star in the constellation Dialkes
+      9222 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 407.48 ly
 apparent_magnitude: 7.55
 absolute_magnitude: 2.06

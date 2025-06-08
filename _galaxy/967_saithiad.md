@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      967 Saithiad is a star in the constellation Saith
+      967 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 346.50 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 4.85

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      56 Naddiad A is a star in the constellation Naddi
+      56 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 356.47 ly
 apparent_magnitude: 8.10
 absolute_magnitude: 2.91

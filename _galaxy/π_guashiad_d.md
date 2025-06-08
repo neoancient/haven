@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      π Guashiad D is a star in the constellation Guashi
+      π Guashiad D is a star in the constellation <a href="guashi.html">Guashi</a>
 distance: 579.90 ly
 apparent_magnitude: 12.10
 absolute_magnitude: 5.85

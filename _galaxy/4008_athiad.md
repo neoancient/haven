@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4008 Athiad is a star in the constellation Ath
+      4008 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 304.53 ly
 apparent_magnitude: 16.41
 absolute_magnitude: 11.56

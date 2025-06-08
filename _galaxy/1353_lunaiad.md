@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1353 Lunaiad is a star in the constellation Luna
+      1353 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 974.92 ly
 apparent_magnitude: 6.93
 absolute_magnitude: -0.45
@@ -31,14 +31,14 @@ planets:
     radius: 20,128.6 km<br/>(3.159 Yrths)
     surface_area: 5.091 × 10<sup>09</sup> km<sup>2</sup><br/>(9.982 Yrths)
     volume: 3.416 × 10<sup>13</sup> km<sup>3</sup><br/>(31.537 Yrths)
-    mass: 1.021 × 10<sup>26</sup> kg<br />(17.09029272216704 Yrths)
+    mass: 1.021 × 10<sup>26</sup> kg<br />(17.09 Yrths)
     density: 2.988 g/cm<sup>3</sup>
     surface_gravity: 16.790 m/s<sup>2</sup><br />(1.712 g<sub>0</sub>)
     escape_velocity: 26.016 km/s<br />(93,659 km/h)
     rotation_period: 0.417 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 1001 K<br />(728 °C)
+    temperature: 928 K<br />(655 °C)
     composition:
       - 70.7195% hydrogen
       - 17.3991% helium
@@ -58,14 +58,14 @@ planets:
         radius: 30,576.9 km<br/>(4.799 Yrths)
         surface_area: 1.175 × 10<sup>10</sup> km<sup>2</sup><br/>(23.034 Yrths)
         volume: 1.197 × 10<sup>14</sup> km<sup>3</sup><br/>(110.549 Yrths)
-        mass: 3.023 × 10<sup>26</sup> kg<br />(17.09029272216704 Yrths)
+        mass: 3.023 × 10<sup>26</sup> kg<br />(50.612 Yrths)
         density: 2.524 g/cm<sup>3</sup>
         surface_gravity: 21.548 m/s<sup>2</sup><br />(2.197 g<sub>0</sub>)
         escape_velocity: 36.325 km/s<br />(130,771 km/h)
         rotation_period: 36.951 d
         axial_tilt: 17.71°
         albedo: 0.30
-        temperature: 5858 K<br />(5585 °C)
+        temperature: 595 K<br />(322 °C)
       - name: 1353 Lunaiad I b
         type: Icy
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 27,721.6 km<br/>(4.351 Yrths)
         surface_area: 9.657 × 10<sup>09</sup> km<sup>2</sup><br/>(18.933 Yrths)
         volume: 8.924 × 10<sup>13</sup> km<sup>3</sup><br/>(82.382 Yrths)
-        mass: 8.411 × 10<sup>25</sup> kg<br />(17.09029272216704 Yrths)
+        mass: 8.411 × 10<sup>25</sup> kg<br />(14.084 Yrths)
         density: 0.943 g/cm<sup>3</sup>
         surface_gravity: 7.295 m/s<sup>2</sup><br />(0.744 g<sub>0</sub>)
         escape_velocity: 20.125 km/s<br />(72,449 km/h)
         rotation_period: 74.935 d
         axial_tilt: 13.50°
         albedo: 0.30
-        temperature: 5585 K<br />(5312 °C)
+        temperature: 595 K<br />(322 °C)
       - name: 1353 Lunaiad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 6,757.3 km<br/>(1.061 Yrths)
         surface_area: 5.738 × 10<sup>08</sup> km<sup>2</sup><br/>(1.125 Yrths)
         volume: 1.292 × 10<sup>12</sup> km<sup>3</sup><br/>(1.193 Yrths)
-        mass: 3.116 × 10<sup>24</sup> kg<br />(17.09029272216704 Yrths)
+        mass: 3.116 × 10<sup>24</sup> kg<br />(0.522 Yrths)
         density: 2.411 g/cm<sup>3</sup>
         surface_gravity: 4.548 m/s<sup>2</sup><br />(0.464 g<sub>0</sub>)
         escape_velocity: 7.845 km/s<br />(28,242 km/h)
         rotation_period: 47.336 d
         axial_tilt: 26.36°
         albedo: 0.30
-        temperature: 5325 K<br />(5052 °C)
+        temperature: 595 K<br />(322 °C)
       - name: 1353 Lunaiad I d
         type: Icy
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 17,165.1 km<br/>(2.694 Yrths)
         surface_area: 3.703 × 10<sup>09</sup> km<sup>2</sup><br/>(7.259 Yrths)
         volume: 2.118 × 10<sup>13</sup> km<sup>3</sup><br/>(19.558 Yrths)
-        mass: 3.257 × 10<sup>25</sup> kg<br />(17.09029272216704 Yrths)
+        mass: 3.257 × 10<sup>25</sup> kg<br />(5.454 Yrths)
         density: 1.537 g/cm<sup>3</sup>
         surface_gravity: 7.368 m/s<sup>2</sup><br />(0.751 g<sub>0</sub>)
         escape_velocity: 15.915 km/s<br />(57,294 km/h)
         rotation_period: 59.337 d
         axial_tilt: 15.57°
         albedo: 0.30
-        temperature: 5078 K<br />(4804 °C)
+        temperature: 595 K<br />(322 °C)
   - name: 1353 Lunaiad II
     type: Gas giant
     aphelion: 713,601,294 km<br />4.770 AU
@@ -137,14 +137,14 @@ planets:
     radius: 128.6 km<br/>(0.020 Yrths)
     surface_area: 2.077 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 8.903 × 10<sup>06</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.528 × 10<sup>26</sup> kg<br />(25.57776069439362 Yrths)
+    mass: 1.528 × 10<sup>26</sup> kg<br />(25.58 Yrths)
     density: 17156431.361 g/cm<sup>3</sup>
     surface_gravity: 615867.430 m/s<sup>2</sup><br />(62801.000 g<sub>0</sub>)
     escape_velocity: 398.227 km/s<br />(1,433,619 km/h)
     rotation_period: 0.301 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1713 K<br />(1439 °C)
+    temperature: 1670 K<br />(1397 °C)
     composition:
       - 73.7128% hydrogen
       - 20.5405% helium
@@ -166,14 +166,14 @@ planets:
         radius: 34,865.4 km<br/>(5.473 Yrths)
         surface_area: 1.528 × 10<sup>10</sup> km<sup>2</sup><br/>(29.948 Yrths)
         volume: 1.775 × 10<sup>14</sup> km<sup>3</sup><br/>(163.894 Yrths)
-        mass: 2.215 × 10<sup>26</sup> kg<br />(25.57776069439362 Yrths)
+        mass: 2.215 × 10<sup>26</sup> kg<br />(37.095 Yrths)
         density: 1.248 g/cm<sup>3</sup>
         surface_gravity: 12.147 m/s<sup>2</sup><br />(1.239 g<sub>0</sub>)
         escape_velocity: 29.123 km/s<br />(104,843 km/h)
         rotation_period: 48.202 d
         axial_tilt: 22.03°
         albedo: 0.30
-        temperature: 3469 K<br />(3196 °C)
+        temperature: 414 K<br />(141 °C)
       - name: 1353 Lunaiad II b
         type: Icy
         formationType: Captured
@@ -186,14 +186,14 @@ planets:
         radius: 38,474.8 km<br/>(6.039 Yrths)
         surface_area: 1.860 × 10<sup>10</sup> km<sup>2</sup><br/>(36.470 Yrths)
         volume: 2.386 × 10<sup>14</sup> km<sup>3</sup><br/>(220.245 Yrths)
-        mass: 2.542 × 10<sup>26</sup> kg<br />(25.57776069439362 Yrths)
+        mass: 2.542 × 10<sup>26</sup> kg<br />(42.565 Yrths)
         density: 1.066 g/cm<sup>3</sup>
         surface_gravity: 11.446 m/s<sup>2</sup><br />(1.167 g<sub>0</sub>)
         escape_velocity: 29.697 km/s<br />(106,911 km/h)
         rotation_period: 55.415 d
         axial_tilt: 22.56°
         albedo: 0.30
-        temperature: 2054 K<br />(1781 °C)
+        temperature: 414 K<br />(141 °C)
       - name: 1353 Lunaiad II c
         type: Asteroid
         formationType: Captured
@@ -206,14 +206,14 @@ planets:
         radius: 59,048.0 km<br/>(9.268 Yrths)
         surface_area: 4.381 × 10<sup>10</sup> km<sup>2</sup><br/>(85.900 Yrths)
         volume: 8.624 × 10<sup>14</sup> km<sup>3</sup><br/>(796.147 Yrths)
-        mass: 1.846 × 10<sup>27</sup> kg<br />(25.57776069439362 Yrths)
+        mass: 1.846 × 10<sup>27</sup> kg<br />(309.170 Yrths)
         density: 2.141 g/cm<sup>3</sup>
         surface_gravity: 35.296 m/s<sup>2</sup><br />(3.599 g<sub>0</sub>)
         escape_velocity: 64.606 km/s<br />(232,582 km/h)
         rotation_period: 54.662 d
         axial_tilt: 42.57°
         albedo: 0.30
-        temperature: 1105 K<br />(832 °C)
+        temperature: 414 K<br />(141 °C)
       - name: 1353 Lunaiad II d
         type: Rocky
         formationType: Accreted
@@ -226,14 +226,14 @@ planets:
         radius: 26,166.5 km<br/>(4.107 Yrths)
         surface_area: 8.604 × 10<sup>09</sup> km<sup>2</sup><br/>(16.868 Yrths)
         volume: 7.505 × 10<sup>13</sup> km<sup>3</sup><br/>(69.281 Yrths)
-        mass: 2.157 × 10<sup>26</sup> kg<br />(25.57776069439362 Yrths)
+        mass: 2.157 × 10<sup>26</sup> kg<br />(36.114 Yrths)
         density: 2.874 g/cm<sup>3</sup>
         surface_gravity: 20.995 m/s<sup>2</sup><br />(2.141 g<sub>0</sub>)
         escape_velocity: 33.170 km/s<br />(119,411 km/h)
         rotation_period: 31.931 d
         axial_tilt: 15.37°
         albedo: 0.30
-        temperature: 1005 K<br />(732 °C)
+        temperature: 414 K<br />(141 °C)
       - name: 1353 Lunaiad II e
         type: Icy
         formationType: Accreted
@@ -246,12 +246,12 @@ planets:
         radius: 50,344.4 km<br/>(7.902 Yrths)
         surface_area: 3.185 × 10<sup>10</sup> km<sup>2</sup><br/>(62.444 Yrths)
         volume: 5.345 × 10<sup>14</sup> km<sup>3</sup><br/>(493.436 Yrths)
-        mass: 5.941 × 10<sup>26</sup> kg<br />(25.57776069439362 Yrths)
+        mass: 5.941 × 10<sup>26</sup> kg<br />(99.488 Yrths)
         density: 1.112 g/cm<sup>3</sup>
         surface_gravity: 15.624 m/s<sup>2</sup><br />(1.593 g<sub>0</sub>)
         escape_velocity: 39.691 km/s<br />(142,886 km/h)
         rotation_period: 50.526 d
         axial_tilt: 17.32°
         albedo: 0.30
-        temperature: 516 K<br />(242 °C)
+        temperature: 414 K<br />(141 °C)
 ---

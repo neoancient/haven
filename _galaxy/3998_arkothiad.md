@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3998 Arkothiad is a star in the constellation Arkoth
+      3998 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 478.87 ly
 apparent_magnitude: 10.60
 absolute_magnitude: 4.76

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3271 Narashiad A is a star in the constellation Naras
+      3271 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 575.37 ly
 apparent_magnitude: 7.38
 absolute_magnitude: 1.15

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1273 Geardiad is a star in the constellation Geard
+      1273 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 412.53 ly
 apparent_magnitude: 10.32
 absolute_magnitude: 4.81

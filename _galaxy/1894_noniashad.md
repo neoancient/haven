@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1894 Noniashad is a star in the constellation Nonias
+      1894 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 496.28 ly
 apparent_magnitude: 9.83
 absolute_magnitude: 3.92

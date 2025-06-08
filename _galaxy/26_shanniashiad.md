@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      26 Shanniashiad is a star in the constellation Shannias
+      26 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 122.03 ly
 apparent_magnitude: 8.79
 absolute_magnitude: 5.92

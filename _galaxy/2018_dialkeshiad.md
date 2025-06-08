@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2018 Dialkeshiad is a star in the constellation Dialkes
+      2018 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 634.01 ly
 apparent_magnitude: 11.47
 absolute_magnitude: 5.03

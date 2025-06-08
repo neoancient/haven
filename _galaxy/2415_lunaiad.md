@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2415 Lunaiad is a star in the constellation Luna
+      2415 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 328.15 ly
 apparent_magnitude: 11.20
 absolute_magnitude: 6.19

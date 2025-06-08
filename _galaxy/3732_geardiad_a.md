@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3732 Geardiad A is a star in the constellation Geard
+      3732 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 512.05 ly
 apparent_magnitude: 8.47
 absolute_magnitude: 2.49

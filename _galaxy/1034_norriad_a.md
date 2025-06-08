@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1034 Norriad A is a star in the constellation Nor
+      1034 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 544.88 ly
 apparent_magnitude: 7.94
 absolute_magnitude: 1.82

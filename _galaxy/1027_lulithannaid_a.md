@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1027 Lulithannaid A is a star in the constellation Lulithan
+      1027 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 376.87 ly
 apparent_magnitude: 7.19
 absolute_magnitude: 1.87

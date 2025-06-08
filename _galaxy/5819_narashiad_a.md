@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5819 Narashiad A is a star in the constellation Naras
+      5819 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 352.85 ly
 apparent_magnitude: 7.41
 absolute_magnitude: 2.24

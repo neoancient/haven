@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      77 Reggiad is a star in the constellation Reg
+      77 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 389.44 ly
 apparent_magnitude: 15.37
 absolute_magnitude: 9.98

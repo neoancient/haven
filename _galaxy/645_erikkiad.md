@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      645 Erikkiad is a star in the constellation Erik
+      645 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1002.38 ly
 apparent_magnitude: 17.06
 absolute_magnitude: 9.63

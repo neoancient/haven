@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Irsaiad A is a star in the constellation Irsa
+      ψ Irsaiad A is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 278.95 ly
 apparent_magnitude: 4.38
 absolute_magnitude: -0.28

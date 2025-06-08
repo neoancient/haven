@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0033 Kulniad A is a star in the constellation Kuln
+      0033 Kulniad A is a star in the constellation <a href="kuln.html">Kuln</a>
 distance: 183.59 ly
 apparent_magnitude: 6.04
 absolute_magnitude: 2.29

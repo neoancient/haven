@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      879 Geardiad is a star in the constellation Geard
+      879 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 549.78 ly
 apparent_magnitude: 7.91
 absolute_magnitude: 1.77

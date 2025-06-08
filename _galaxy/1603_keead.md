@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1603 Keead is a star in the constellation Kee
+      1603 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 339.82 ly
 apparent_magnitude: 7.54
 absolute_magnitude: 2.45
@@ -31,14 +31,14 @@ planets:
     radius: 199.8 km<br/>(0.031 Yrths)
     surface_area: 5.018 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.343 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.017 × 10<sup>27</sup> kg<br />(170.28780950722754 Yrths)
+    mass: 1.017 × 10<sup>27</sup> kg<br />(170.29 Yrths)
     density: 30421375.021 g/cm<sup>3</sup>
     surface_gravity: 1697313.917 m/s<sup>2</sup><br />(173077.852 g<sub>0</sub>)
     escape_velocity: 824.195 km/s<br />(2,967,104 km/h)
     rotation_period: 0.249 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1593 K<br />(1319 °C)
+    temperature: 1576 K<br />(1303 °C)
     composition:
       - 78.7608% hydrogen
       - 17.2490% helium
@@ -58,14 +58,14 @@ planets:
         radius: 114,046.6 km<br/>(17.901 Yrths)
         surface_area: 1.634 × 10<sup>11</sup> km<sup>2</sup><br/>(320.442 Yrths)
         volume: 6.213 × 10<sup>15</sup> km<sup>3</sup><br/>(5736.201 Yrths)
-        mass: 9.369 × 10<sup>27</sup> kg<br />(170.28780950722754 Yrths)
+        mass: 9.369 × 10<sup>27</sup> kg<br />(1568.780 Yrths)
         density: 1.508 g/cm<sup>3</sup>
         surface_gravity: 48.010 m/s<sup>2</sup><br />(4.896 g<sub>0</sub>)
         escape_velocity: 104.717 km/s<br />(376,982 km/h)
         rotation_period: 66.670 d
         axial_tilt: 18.48°
         albedo: 0.30
-        temperature: 1404 K<br />(1131 °C)
+        temperature: 380 K<br />(106 °C)
       - name: 1603 Keead I b
         type: Icy
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 162,415.0 km<br/>(25.493 Yrths)
         surface_area: 3.315 × 10<sup>11</sup> km<sup>2</sup><br/>(649.886 Yrths)
         volume: 1.795 × 10<sup>16</sup> km<sup>3</sup><br/>(16567.447 Yrths)
-        mass: 2.152 × 10<sup>28</sup> kg<br />(170.28780950722754 Yrths)
+        mass: 2.152 × 10<sup>28</sup> kg<br />(3602.988 Yrths)
         density: 1.199 g/cm<sup>3</sup>
         surface_gravity: 54.368 m/s<sup>2</sup><br />(5.544 g<sub>0</sub>)
         escape_velocity: 132.983 km/s<br />(478,739 km/h)
         rotation_period: 75.749 d
         axial_tilt: 14.14°
         albedo: 0.30
-        temperature: 1160 K<br />(887 °C)
+        temperature: 380 K<br />(106 °C)
       - name: 1603 Keead I c
         type: Icy
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 175,090.1 km<br/>(27.482 Yrths)
         surface_area: 3.852 × 10<sup>11</sup> km<sup>2</sup><br/>(755.280 Yrths)
         volume: 2.248 × 10<sup>16</sup> km<sup>3</sup><br/>(20756.868 Yrths)
-        mass: 2.206 × 10<sup>28</sup> kg<br />(170.28780950722754 Yrths)
+        mass: 2.206 × 10<sup>28</sup> kg<br />(3693.868 Yrths)
         density: 0.981 g/cm<sup>3</sup>
         surface_gravity: 47.962 m/s<sup>2</sup><br />(4.891 g<sub>0</sub>)
         escape_velocity: 129.684 km/s<br />(466,864 km/h)
         rotation_period: 66.511 d
         axial_tilt: 24.52°
         albedo: 0.30
-        temperature: 872 K<br />(599 °C)
+        temperature: 380 K<br />(106 °C)
       - name: 1603 Keead I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 110,285.4 km<br/>(17.311 Yrths)
         surface_area: 1.528 × 10<sup>11</sup> km<sup>2</sup><br/>(299.654 Yrths)
         volume: 5.619 × 10<sup>15</sup> km<sup>3</sup><br/>(5187.175 Yrths)
-        mass: 1.180 × 10<sup>28</sup> kg<br />(170.28780950722754 Yrths)
+        mass: 1.180 × 10<sup>28</sup> kg<br />(1975.543 Yrths)
         density: 2.100 g/cm<sup>3</sup>
         surface_gravity: 64.653 m/s<sup>2</sup><br />(6.593 g<sub>0</sub>)
         escape_velocity: 119.498 km/s<br />(430,194 km/h)
         rotation_period: 50.640 d
         axial_tilt: 10.18°
         albedo: 0.30
-        temperature: 793 K<br />(519 °C)
+        temperature: 380 K<br />(106 °C)
       - name: 1603 Keead I e
         type: Icy
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 191,679.1 km<br/>(30.086 Yrths)
         surface_area: 4.617 × 10<sup>11</sup> km<sup>2</sup><br/>(905.178 Yrths)
         volume: 2.950 × 10<sup>16</sup> km<sup>3</sup><br/>(27233.357 Yrths)
-        mass: 2.288 × 10<sup>28</sup> kg<br />(170.28780950722754 Yrths)
+        mass: 2.288 × 10<sup>28</sup> kg<br />(3831.831 Yrths)
         density: 0.776 g/cm<sup>3</sup>
         surface_gravity: 41.514 m/s<sup>2</sup><br />(4.233 g<sub>0</sub>)
         escape_velocity: 126.239 km/s<br />(454,460 km/h)
         rotation_period: 89.345 d
         axial_tilt: 12.38°
         albedo: 0.30
-        temperature: 516 K<br />(243 °C)
+        temperature: 380 K<br />(106 °C)
       - name: 1603 Keead I f
         type: Icy
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 135,025.4 km<br/>(21.194 Yrths)
         surface_area: 2.291 × 10<sup>11</sup> km<sup>2</sup><br/>(449.175 Yrths)
         volume: 1.031 × 10<sup>16</sup> km<sup>3</sup><br/>(9519.699 Yrths)
-        mass: 1.342 × 10<sup>28</sup> kg<br />(170.28780950722754 Yrths)
+        mass: 1.342 × 10<sup>28</sup> kg<br />(2247.853 Yrths)
         density: 1.302 g/cm<sup>3</sup>
         surface_gravity: 49.076 m/s<sup>2</sup><br />(5.004 g<sub>0</sub>)
         escape_velocity: 115.200 km/s<br />(414,722 km/h)
         rotation_period: 46.111 d
         axial_tilt: 11.19°
         albedo: 0.30
-        temperature: 469 K<br />(196 °C)
+        temperature: 380 K<br />(106 °C)
       - name: 1603 Keead I g
         type: Icy
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 126,844.7 km<br/>(19.910 Yrths)
         surface_area: 2.022 × 10<sup>11</sup> km<sup>2</sup><br/>(396.396 Yrths)
         volume: 8.549 × 10<sup>15</sup> km<sup>3</sup><br/>(7892.131 Yrths)
-        mass: 1.045 × 10<sup>28</sup> kg<br />(170.28780950722754 Yrths)
+        mass: 1.045 × 10<sup>28</sup> kg<br />(1750.473 Yrths)
         density: 1.223 g/cm<sup>3</sup>
         surface_gravity: 43.306 m/s<sup>2</sup><br />(4.416 g<sub>0</sub>)
         escape_velocity: 104.886 km/s<br />(377,591 km/h)
         rotation_period: 58.759 d
         axial_tilt: 9.13°
         albedo: 0.30
-        temperature: 447 K<br />(174 °C)
+        temperature: 380 K<br />(106 °C)
       - name: 1603 Keead I h
         type: Rocky
         formationType: Impact formed
@@ -198,14 +198,14 @@ planets:
         radius: 125,521.7 km<br/>(19.702 Yrths)
         surface_area: 1.980 × 10<sup>11</sup> km<sup>2</sup><br/>(388.171 Yrths)
         volume: 8.284 × 10<sup>15</sup> km<sup>3</sup><br/>(7647.753 Yrths)
-        mass: 2.430 × 10<sup>28</sup> kg<br />(170.28780950722754 Yrths)
+        mass: 2.430 × 10<sup>28</sup> kg<br />(4068.682 Yrths)
         density: 2.933 g/cm<sup>3</sup>
         surface_gravity: 102.790 m/s<sup>2</sup><br />(10.482 g<sub>0</sub>)
         escape_velocity: 160.748 km/s<br />(578,692 km/h)
         rotation_period: 52.549 d
         axial_tilt: 21.43°
         albedo: 0.30
-        temperature: 388 K<br />(115 °C)
+        temperature: 380 K<br />(106 °C)
       - name: 1603 Keead I i
         type: Icy
         formationType: Captured
@@ -218,14 +218,14 @@ planets:
         radius: 139,528.1 km<br/>(21.900 Yrths)
         surface_area: 2.446 × 10<sup>11</sup> km<sup>2</sup><br/>(479.632 Yrths)
         volume: 1.138 × 10<sup>16</sup> km<sup>3</sup><br/>(10504.172 Yrths)
-        mass: 1.056 × 10<sup>28</sup> kg<br />(170.28780950722754 Yrths)
+        mass: 1.056 × 10<sup>28</sup> kg<br />(1767.856 Yrths)
         density: 0.928 g/cm<sup>3</sup>
         surface_gravity: 36.146 m/s<sup>2</sup><br />(3.686 g<sub>0</sub>)
         escape_velocity: 100.501 km/s<br />(361,804 km/h)
         rotation_period: 100.250 d
         axial_tilt: 20.17°
         albedo: 0.30
-        temperature: 291 K<br />(18 °C)
+        temperature: 380 K<br />(106 °C)
   - name: 1603 Keead II
     type: Terrestrial
     aphelion: 462,624,486 km<br />3.092 AU
@@ -237,14 +237,14 @@ planets:
     radius: 6,733.6 km<br/>(1.057 Yrths)
     surface_area: 5.698 × 10<sup>08</sup> km<sup>2</sup><br/>(1.117 Yrths)
     volume: 1.279 × 10<sup>12</sup> km<sup>3</sup><br/>(1.181 Yrths)
-    mass: 6.384 × 10<sup>24</sup> kg<br />(1.0689345368482328 Yrths)
+    mass: 6.384 × 10<sup>24</sup> kg<br />(1.07 Yrths)
     density: 4.992 g/cm<sup>3</sup>
     surface_gravity: 9.384 m/s<sup>2</sup><br />(0.957 g<sub>0</sub>)
     escape_velocity: 11.249 km/s<br />(40,498 km/h)
     rotation_period: 0.996 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 335 K<br />(62 °C)
+    temperature: 303 K<br />(30 °C)
     surface_pressure: 98 kPa<br />(1 atm)
     composition:
       - 91.0734% nitrogen
@@ -265,14 +265,14 @@ planets:
         radius: 2,591.3 km<br/>(0.407 Yrths)
         surface_area: 8.438 × 10<sup>07</sup> km<sup>2</sup><br/>(0.165 Yrths)
         volume: 7.288 × 10<sup>10</sup> km<sup>3</sup><br/>(0.067 Yrths)
-        mass: 1.607 × 10<sup>23</sup> kg<br />(1.0689345368482328 Yrths)
+        mass: 1.607 × 10<sup>23</sup> kg<br />(0.027 Yrths)
         density: 2.205 g/cm<sup>3</sup>
         surface_gravity: 1.595 m/s<sup>2</sup><br />(0.163 g<sub>0</sub>)
         escape_velocity: 2.877 km/s<br />(10,358 km/h)
         rotation_period: 37.350 d
         axial_tilt: 29.50°
         albedo: 0.30
-        temperature: 4221 K<br />(3948 °C)
+        temperature: 277 K<br />(4 °C)
   - name: 1603 Keead III
     type: Large terrestrial
     aphelion: 951,646,449 km<br />6.361 AU
@@ -284,15 +284,15 @@ planets:
     radius: 8,716.9 km<br/>(1.368 Yrths)
     surface_area: 9.548 × 10<sup>08</sup> km<sup>2</sup><br/>(1.872 Yrths)
     volume: 2.774 × 10<sup>12</sup> km<sup>3</sup><br/>(2.561 Yrths)
-    mass: 1.679 × 10<sup>25</sup> kg<br />(2.810921662272326 Yrths)
+    mass: 1.679 × 10<sup>25</sup> kg<br />(2.81 Yrths)
     density: 6.051 g/cm<sup>3</sup>
     surface_gravity: 14.725 m/s<sup>2</sup><br />(1.502 g<sub>0</sub>)
     escape_velocity: 16.033 km/s<br />(57,720 km/h)
     rotation_period: 0.666 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 368 K<br />(95 °C)
-    surface_pressure: 3,074 kPa<br />(30 atm)
+    temperature: 872 K<br />(599 °C)
+    surface_pressure: 3,074 kPa<br />(31 atm)
     composition:
       - 71.3145% carbon dioxide
       - 21.1604% nitrogen
@@ -313,14 +313,14 @@ planets:
         radius: 8,544.6 km<br/>(1.341 Yrths)
         surface_area: 9.175 × 10<sup>08</sup> km<sup>2</sup><br/>(1.799 Yrths)
         volume: 2.613 × 10<sup>12</sup> km<sup>3</sup><br/>(2.412 Yrths)
-        mass: 3.353 × 10<sup>24</sup> kg<br />(2.810921662272326 Yrths)
+        mass: 3.353 × 10<sup>24</sup> kg<br />(0.562 Yrths)
         density: 1.283 g/cm<sup>3</sup>
         surface_gravity: 3.061 m/s<sup>2</sup><br />(0.312 g<sub>0</sub>)
         escape_velocity: 7.238 km/s<br />(26,057 km/h)
         rotation_period: 49.240 d
         axial_tilt: 11.44°
         albedo: 0.30
-        temperature: 3234 K<br />(2961 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1603 Keead III b
         type: Rocky
         formationType: Captured
@@ -333,14 +333,14 @@ planets:
         radius: 3,116.3 km<br/>(0.489 Yrths)
         surface_area: 1.220 × 10<sup>08</sup> km<sup>2</sup><br/>(0.239 Yrths)
         volume: 1.268 × 10<sup>11</sup> km<sup>3</sup><br/>(0.117 Yrths)
-        mass: 4.054 × 10<sup>23</sup> kg<br />(2.810921662272326 Yrths)
+        mass: 4.054 × 10<sup>23</sup> kg<br />(0.068 Yrths)
         density: 3.198 g/cm<sup>3</sup>
         surface_gravity: 2.782 m/s<sup>2</sup><br />(0.284 g<sub>0</sub>)
         escape_velocity: 4.167 km/s<br />(15,002 km/h)
         rotation_period: 51.994 d
         axial_tilt: 15.27°
         albedo: 0.30
-        temperature: 3084 K<br />(2811 °C)
+        temperature: 202 K<br />(-71 °C)
   - name: 1603 Keead IV
     type: Gas giant
     aphelion: 1,604,990,588 km<br />10.729 AU
@@ -352,14 +352,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.697 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 548 K<br />(275 °C)
+    temperature: 532 K<br />(259 °C)
     composition:
       - 80.4360% hydrogen
       - 13.7519% helium
@@ -380,14 +380,14 @@ planets:
         radius: 949.5 km<br/>(0.149 Yrths)
         surface_area: 1.133 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.586 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 1.032 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.032 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.879 g/cm<sup>3</sup>
         surface_gravity: 0.763 m/s<sup>2</sup><br />(0.078 g<sub>0</sub>)
         escape_velocity: 1.205 km/s<br />(4,337 km/h)
         rotation_period: 34.456 d
         axial_tilt: 40.16°
         albedo: 0.30
-        temperature: 3331 K<br />(3058 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 1603 Keead IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -400,14 +400,14 @@ planets:
         radius: 1,073.0 km<br/>(0.168 Yrths)
         surface_area: 1.447 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 5.175 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 8.456 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 8.456 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.634 g/cm<sup>3</sup>
         surface_gravity: 0.490 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
         escape_velocity: 1.026 km/s<br />(3,692 km/h)
         rotation_period: 48.415 d
         axial_tilt: 27.64°
         albedo: 0.30
-        temperature: 1709 K<br />(1436 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 1603 Keead IV c
         type: Dwarf planet
         formationType: Accreted
@@ -420,14 +420,14 @@ planets:
         radius: 966.2 km<br/>(0.152 Yrths)
         surface_area: 1.173 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.778 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.963 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.963 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.843 g/cm<sup>3</sup>
         surface_gravity: 0.497 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 0.981 km/s<br />(3,531 km/h)
         rotation_period: 39.869 d
         axial_tilt: 29.90°
         albedo: 0.30
-        temperature: 1630 K<br />(1357 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 1603 Keead IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -440,14 +440,14 @@ planets:
         radius: 991.2 km<br/>(0.156 Yrths)
         surface_area: 1.235 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 4.080 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.009 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.009 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.473 g/cm<sup>3</sup>
         surface_gravity: 0.684 m/s<sup>2</sup><br />(0.070 g<sub>0</sub>)
         escape_velocity: 1.166 km/s<br />(4,196 km/h)
         rotation_period: 34.972 d
         axial_tilt: 9.03°
         albedo: 0.30
-        temperature: 1482 K<br />(1209 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 1603 Keead IV e
         type: Icy
         formationType: Impact formed
@@ -460,12 +460,12 @@ planets:
         radius: 977.1 km<br/>(0.153 Yrths)
         surface_area: 1.200 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 3.908 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 6.438 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.438 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.647 g/cm<sup>3</sup>
         surface_gravity: 0.449 m/s<sup>2</sup><br />(0.046 g<sub>0</sub>)
         escape_velocity: 0.938 km/s<br />(3,376 km/h)
         rotation_period: 61.415 d
         axial_tilt: 14.64°
         albedo: 0.30
-        temperature: 545 K<br />(272 °C)
+        temperature: 147 K<br />(-126 °C)
 ---

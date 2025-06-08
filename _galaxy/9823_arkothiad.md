@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9823 Arkothiad is a star in the constellation Arkoth
+      9823 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 673.80 ly
 apparent_magnitude: 7.31
 absolute_magnitude: 0.74

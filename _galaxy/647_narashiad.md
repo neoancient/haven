@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      647 Narashiad is a star in the constellation Naras
+      647 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 388.60 ly
 apparent_magnitude: 9.95
 absolute_magnitude: 4.56

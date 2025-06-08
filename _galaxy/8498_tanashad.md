@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8498 Tanashad is a star in the constellation Tanas
+      8498 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 423.09 ly
 apparent_magnitude: 7.61
 absolute_magnitude: 2.05
@@ -31,14 +31,14 @@ planets:
     radius: 7,683.2 km<br/>(1.206 Yrths)
     surface_area: 7.418 × 10<sup>08</sup> km<sup>2</sup><br/>(1.454 Yrths)
     volume: 1.900 × 10<sup>12</sup> km<sup>3</sup><br/>(1.754 Yrths)
-    mass: 1.004 × 10<sup>25</sup> kg<br />(1.6815310224763382 Yrths)
+    mass: 1.004 × 10<sup>25</sup> kg<br />(1.68 Yrths)
     density: 5.286 g/cm<sup>3</sup>
     surface_gravity: 11.339 m/s<sup>2</sup><br />(1.156 g<sub>0</sub>)
     escape_velocity: 13.209 km/s<br />(47,551 km/h)
     rotation_period: 0.979 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 378 K<br />(105 °C)
+    temperature: 495 K<br />(222 °C)
     surface_pressure: 61 kPa<br />(1 atm)
     composition:
       - 78.8055% nitrogen
@@ -57,7 +57,7 @@ planets:
     radius: 11,046.9 km<br/>(1.734 Yrths)
     surface_area: 1.534 × 10<sup>09</sup> km<sup>2</sup><br/>(3.007 Yrths)
     volume: 5.647 × 10<sup>12</sup> km<sup>3</sup><br/>(5.213 Yrths)
-    mass: 4.095 × 10<sup>25</sup> kg<br />(6.856858764803049 Yrths)
+    mass: 4.095 × 10<sup>25</sup> kg<br />(6.86 Yrths)
     density: 7.252 g/cm<sup>3</sup>
     surface_gravity: 22.366 m/s<sup>2</sup><br />(2.281 g<sub>0</sub>)
     escape_velocity: 22.244 km/s<br />(80,080 km/h)
@@ -78,14 +78,14 @@ planets:
         radius: 10,634.9 km<br/>(1.669 Yrths)
         surface_area: 1.421 × 10<sup>09</sup> km<sup>2</sup><br/>(2.786 Yrths)
         volume: 5.038 × 10<sup>12</sup> km<sup>3</sup><br/>(4.651 Yrths)
-        mass: 1.546 × 10<sup>25</sup> kg<br />(6.856858764803049 Yrths)
+        mass: 1.546 × 10<sup>25</sup> kg<br />(2.590 Yrths)
         density: 3.069 g/cm<sup>3</sup>
         surface_gravity: 9.114 m/s<sup>2</sup><br />(0.929 g<sub>0</sub>)
         escape_velocity: 13.932 km/s<br />(50,157 km/h)
         rotation_period: 41.814 d
         axial_tilt: 20.90°
         albedo: 0.30
-        temperature: 2532 K<br />(2259 °C)
+        temperature: 219 K<br />(-54 °C)
       - name: 8498 Tanashad II b
         type: Rocky
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 7,859.3 km<br/>(1.234 Yrths)
         surface_area: 7.762 × 10<sup>08</sup> km<sup>2</sup><br/>(1.522 Yrths)
         volume: 2.033 × 10<sup>12</sup> km<sup>3</sup><br/>(1.877 Yrths)
-        mass: 6.492 × 10<sup>24</sup> kg<br />(6.856858764803049 Yrths)
+        mass: 6.492 × 10<sup>24</sup> kg<br />(1.087 Yrths)
         density: 3.192 g/cm<sup>3</sup>
         surface_gravity: 7.005 m/s<sup>2</sup><br />(0.714 g<sub>0</sub>)
         escape_velocity: 10.500 km/s<br />(37,801 km/h)
         rotation_period: 29.394 d
         axial_tilt: 22.23°
         albedo: 0.30
-        temperature: 2414 K<br />(2141 °C)
+        temperature: 219 K<br />(-54 °C)
   - name: 8498 Tanashad III
     type: Gas giant
     aphelion: 1,572,193,900 km<br />10.509 AU
@@ -117,7 +117,7 @@ planets:
     radius: 197.3 km<br/>(0.031 Yrths)
     surface_area: 4.892 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.218 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.681 × 10<sup>26</sup> kg<br />(162.10834133809743 Yrths)
+    mass: 9.681 × 10<sup>26</sup> kg<br />(162.11 Yrths)
     density: 30086830.348 g/cm<sup>3</sup>
     surface_gravity: 1657427.364 m/s<sup>2</sup><br />(169010.555 g<sub>0</sub>)
     escape_velocity: 809.289 km/s<br />(2,913,441 km/h)
@@ -138,14 +138,14 @@ planets:
         radius: 161,272.9 km<br/>(25.314 Yrths)
         surface_area: 3.268 × 10<sup>11</sup> km<sup>2</sup><br/>(640.778 Yrths)
         volume: 1.757 × 10<sup>16</sup> km<sup>3</sup><br/>(16220.384 Yrths)
-        mass: 5.233 × 10<sup>28</sup> kg<br />(162.10834133809743 Yrths)
+        mass: 5.233 × 10<sup>28</sup> kg<br />(8763.266 Yrths)
         density: 2.979 g/cm<sup>3</sup>
         surface_gravity: 134.116 m/s<sup>2</sup><br />(13.676 g<sub>0</sub>)
         escape_velocity: 208.128 km/s<br />(749,260 km/h)
         rotation_period: 38.467 d
         axial_tilt: 7.76°
         albedo: 0.30
-        temperature: 732 K<br />(458 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 8498 Tanashad III b
         type: Icy
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 129,593.7 km<br/>(20.341 Yrths)
         surface_area: 2.110 × 10<sup>11</sup> km<sup>2</sup><br/>(413.764 Yrths)
         volume: 9.117 × 10<sup>15</sup> km<sup>3</sup><br/>(8416.443 Yrths)
-        mass: 1.732 × 10<sup>28</sup> kg<br />(162.10834133809743 Yrths)
+        mass: 1.732 × 10<sup>28</sup> kg<br />(2900.506 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 68.745 m/s<sup>2</sup><br />(7.010 g<sub>0</sub>)
         escape_velocity: 133.574 km/s<br />(480,867 km/h)
         rotation_period: 50.713 d
         axial_tilt: 18.86°
         albedo: 0.30
-        temperature: 605 K<br />(331 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 8498 Tanashad III c
         type: Rocky
         formationType: Accreted
@@ -178,14 +178,14 @@ planets:
         radius: 186,480.4 km<br/>(29.270 Yrths)
         surface_area: 4.370 × 10<sup>11</sup> km<sup>2</sup><br/>(856.744 Yrths)
         volume: 2.716 × 10<sup>16</sup> km<sup>3</sup><br/>(25077.054 Yrths)
-        mass: 6.519 × 10<sup>28</sup> kg<br />(162.10834133809743 Yrths)
+        mass: 6.519 × 10<sup>28</sup> kg<br />(10916.399 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 124.954 m/s<sup>2</sup><br />(12.742 g<sub>0</sub>)
         escape_velocity: 216.023 km/s<br />(777,684 km/h)
         rotation_period: 58.913 d
         axial_tilt: 22.81°
         albedo: 0.30
-        temperature: 576 K<br />(303 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 8498 Tanashad III d
         type: Asteroid
         formationType: Captured
@@ -198,14 +198,14 @@ planets:
         radius: 110,387.8 km<br/>(17.327 Yrths)
         surface_area: 1.531 × 10<sup>11</sup> km<sup>2</sup><br/>(300.211 Yrths)
         volume: 5.634 × 10<sup>15</sup> km<sup>3</sup><br/>(5201.640 Yrths)
-        mass: 1.283 × 10<sup>28</sup> kg<br />(162.10834133809743 Yrths)
+        mass: 1.283 × 10<sup>28</sup> kg<br />(2147.821 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 70.160 m/s<sup>2</sup><br />(7.154 g<sub>0</sub>)
         escape_velocity: 124.542 km/s<br />(448,352 km/h)
         rotation_period: 41.477 d
         axial_tilt: 19.02°
         albedo: 0.30
-        temperature: 256 K<br />(-17 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 8498 Tanashad III e
         type: Icy
         formationType: Accreted
@@ -218,14 +218,14 @@ planets:
         radius: 146,368.5 km<br/>(22.974 Yrths)
         surface_area: 2.692 × 10<sup>11</sup> km<sup>2</sup><br/>(527.813 Yrths)
         volume: 1.314 × 10<sup>16</sup> km<sup>3</sup><br/>(12126.073 Yrths)
-        mass: 1.664 × 10<sup>28</sup> kg<br />(162.10834133809743 Yrths)
+        mass: 1.664 × 10<sup>28</sup> kg<br />(2786.566 Yrths)
         density: 1.267 g/cm<sup>3</sup>
         surface_gravity: 51.774 m/s<sup>2</sup><br />(5.279 g<sub>0</sub>)
         escape_velocity: 123.194 km/s<br />(443,497 km/h)
         rotation_period: 50.993 d
         axial_tilt: 13.07°
         albedo: 0.30
-        temperature: 132 K<br />(-142 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 8498 Tanashad III f
         type: Icy
         formationType: Accreted
@@ -238,14 +238,14 @@ planets:
         radius: 146,068.0 km<br/>(22.927 Yrths)
         surface_area: 2.681 × 10<sup>11</sup> km<sup>2</sup><br/>(525.648 Yrths)
         volume: 1.305 × 10<sup>16</sup> km<sup>3</sup><br/>(12051.525 Yrths)
-        mass: 1.522 × 10<sup>28</sup> kg<br />(162.10834133809743 Yrths)
+        mass: 1.522 × 10<sup>28</sup> kg<br />(2548.514 Yrths)
         density: 1.166 g/cm<sup>3</sup>
         surface_gravity: 47.546 m/s<sup>2</sup><br />(4.848 g<sub>0</sub>)
         escape_velocity: 117.935 km/s<br />(424,567 km/h)
         rotation_period: 87.104 d
         axial_tilt: 17.26°
         albedo: 0.30
-        temperature: 114 K<br />(-159 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 8498 Tanashad III g
         type: Icy
         formationType: Captured
@@ -258,14 +258,14 @@ planets:
         radius: 145,591.0 km<br/>(22.852 Yrths)
         surface_area: 2.664 × 10<sup>11</sup> km<sup>2</sup><br/>(522.220 Yrths)
         volume: 1.293 × 10<sup>16</sup> km<sup>3</sup><br/>(11933.856 Yrths)
-        mass: 1.243 × 10<sup>28</sup> kg<br />(162.10834133809743 Yrths)
+        mass: 1.243 × 10<sup>28</sup> kg<br />(2082.064 Yrths)
         density: 0.962 g/cm<sup>3</sup>
         surface_gravity: 39.099 m/s<sup>2</sup><br />(3.987 g<sub>0</sub>)
         escape_velocity: 106.772 km/s<br />(384,379 km/h)
         rotation_period: 63.254 d
         axial_tilt: 20.64°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 157 K<br />(-116 °C)
       - name: 8498 Tanashad III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -278,14 +278,14 @@ planets:
         radius: 139,885.0 km<br/>(21.957 Yrths)
         surface_area: 2.459 × 10<sup>11</sup> km<sup>2</sup><br/>(482.089 Yrths)
         volume: 1.147 × 10<sup>16</sup> km<sup>3</sup><br/>(10585.000 Yrths)
-        mass: 2.378 × 10<sup>28</sup> kg<br />(162.10834133809743 Yrths)
+        mass: 2.378 × 10<sup>28</sup> kg<br />(3982.458 Yrths)
         density: 2.074 g/cm<sup>3</sup>
         surface_gravity: 81.011 m/s<sup>2</sup><br />(8.261 g<sub>0</sub>)
         escape_velocity: 150.650 km/s<br />(542,338 km/h)
         rotation_period: 43.296 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 104 K<br />(-169 °C)
+        temperature: 157 K<br />(-116 °C)
   - name: 8498 Tanashad IV
     type: Gas giant
     aphelion: 2,928,261,719 km<br />19.574 AU
@@ -297,7 +297,7 @@ planets:
     radius: 217.6 km<br/>(0.034 Yrths)
     surface_area: 5.948 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.314 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.453 × 10<sup>27</sup> kg<br />(243.30049180236063 Yrths)
+    mass: 1.453 × 10<sup>27</sup> kg<br />(243.30 Yrths)
     density: 33680475.620 g/cm<sup>3</sup>
     surface_gravity: 2045886.635 m/s<sup>2</sup><br />(208622.377 g<sub>0</sub>)
     escape_velocity: 944.169 km/s<br />(3,399,010 km/h)
@@ -318,14 +318,14 @@ planets:
         radius: 158,998.6 km<br/>(24.957 Yrths)
         surface_area: 3.177 × 10<sup>11</sup> km<sup>2</sup><br/>(622.833 Yrths)
         volume: 1.684 × 10<sup>16</sup> km<sup>3</sup><br/>(15543.807 Yrths)
-        mass: 4.074 × 10<sup>28</sup> kg<br />(243.30049180236063 Yrths)
+        mass: 4.074 × 10<sup>28</sup> kg<br />(6821.988 Yrths)
         density: 2.420 g/cm<sup>3</sup>
         surface_gravity: 107.414 m/s<sup>2</sup><br />(10.953 g<sub>0</sub>)
         escape_velocity: 184.942 km/s<br />(665,793 km/h)
         rotation_period: 35.233 d
         axial_tilt: 25.28°
         albedo: 0.30
-        temperature: 684 K<br />(411 °C)
+        temperature: 113 K<br />(-160 °C)
       - name: 8498 Tanashad IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -338,14 +338,14 @@ planets:
         radius: 241,111.8 km<br/>(37.845 Yrths)
         surface_area: 7.305 × 10<sup>11</sup> km<sup>2</sup><br/>(1432.259 Yrths)
         volume: 5.871 × 10<sup>16</sup> km<sup>3</sup><br/>(54204.154 Yrths)
-        mass: 1.146 × 10<sup>29</sup> kg<br />(243.30049180236063 Yrths)
+        mass: 1.146 × 10<sup>29</sup> kg<br />(19192.864 Yrths)
         density: 1.952 g/cm<sup>3</sup>
         surface_gravity: 131.413 m/s<sup>2</sup><br />(13.400 g<sub>0</sub>)
         escape_velocity: 251.906 km/s<br />(906,861 km/h)
         rotation_period: 39.983 d
         axial_tilt: 15.20°
         albedo: 0.30
-        temperature: 593 K<br />(320 °C)
+        temperature: 113 K<br />(-160 °C)
       - name: 8498 Tanashad IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -358,14 +358,14 @@ planets:
         radius: 180,698.6 km<br/>(28.363 Yrths)
         surface_area: 4.103 × 10<sup>11</sup> km<sup>2</sup><br/>(804.441 Yrths)
         volume: 2.471 × 10<sup>16</sup> km<sup>3</sup><br/>(22816.104 Yrths)
-        mass: 4.885 × 10<sup>28</sup> kg<br />(243.30049180236063 Yrths)
+        mass: 4.885 × 10<sup>28</sup> kg<br />(8179.095 Yrths)
         density: 1.976 g/cm<sup>3</sup>
         surface_gravity: 99.708 m/s<sup>2</sup><br />(10.167 g<sub>0</sub>)
         escape_velocity: 189.956 km/s<br />(683,842 km/h)
         rotation_period: 45.049 d
         axial_tilt: 25.34°
         albedo: 0.30
-        temperature: 514 K<br />(241 °C)
+        temperature: 113 K<br />(-160 °C)
       - name: 8498 Tanashad IV d
         type: Dwarf planet
         formationType: Captured
@@ -378,14 +378,14 @@ planets:
         radius: 222,541.7 km<br/>(34.930 Yrths)
         surface_area: 6.223 × 10<sup>11</sup> km<sup>2</sup><br/>(1220.134 Yrths)
         volume: 4.617 × 10<sup>16</sup> km<sup>3</sup><br/>(42619.799 Yrths)
-        mass: 7.647 × 10<sup>28</sup> kg<br />(243.30049180236063 Yrths)
+        mass: 7.647 × 10<sup>28</sup> kg<br />(12804.518 Yrths)
         density: 1.656 g/cm<sup>3</sup>
         surface_gravity: 102.914 m/s<sup>2</sup><br />(10.494 g<sub>0</sub>)
         escape_velocity: 214.168 km/s<br />(771,003 km/h)
         rotation_period: 61.392 d
         axial_tilt: 35.10°
         albedo: 0.30
-        temperature: 445 K<br />(172 °C)
+        temperature: 113 K<br />(-160 °C)
       - name: 8498 Tanashad IV e
         type: Rocky
         formationType: Accreted
@@ -398,35 +398,15 @@ planets:
         radius: 154,098.6 km<br/>(24.187 Yrths)
         surface_area: 2.984 × 10<sup>11</sup> km<sup>2</sup><br/>(585.035 Yrths)
         volume: 1.533 × 10<sup>16</sup> km<sup>3</sup><br/>(14150.537 Yrths)
-        mass: 4.577 × 10<sup>28</sup> kg<br />(243.30049180236063 Yrths)
+        mass: 4.577 × 10<sup>28</sup> kg<br />(7664.535 Yrths)
         density: 2.986 g/cm<sup>3</sup>
         surface_gravity: 128.477 m/s<sup>2</sup><br />(13.101 g<sub>0</sub>)
         escape_velocity: 199.123 km/s<br />(716,843 km/h)
         rotation_period: 34.016 d
         axial_tilt: 8.26°
         albedo: 0.30
-        temperature: 368 K<br />(95 °C)
+        temperature: 113 K<br />(-160 °C)
       - name: 8498 Tanashad IV f
-        type: Ice/rock hybrid
-        formationType: Accreted
-        aphelion: 497,766,431 km<br />
-        perihelion: 340,011,821 km<br />
-        semi_major_axis: 418,889,126 km<br />
-        eccentricity: 0.188
-        orbital_period: 0.30 d<br />
-        inclination: 2.96°
-        radius: 17,944.1 km<br/>(2.817 Yrths)
-        surface_area: 4.046 × 10<sup>09</sup> km<sup>2</sup><br/>(7.933 Yrths)
-        volume: 2.420 × 10<sup>13</sup> km<sup>3</sup><br/>(22.343 Yrths)
-        mass: 4.923 × 10<sup>25</sup> kg<br />(243.30049180236063 Yrths)
-        density: 2.034 g/cm<sup>3</sup>
-        surface_gravity: 10.192 m/s<sup>2</sup><br />(1.039 g<sub>0</sub>)
-        escape_velocity: 19.138 km/s<br />(68,896 km/h)
-        rotation_period: 40.152 d
-        axial_tilt: 27.32°
-        albedo: 0.30
-        temperature: 290 K<br />(17 °C)
-      - name: 8498 Tanashad IV g
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 1,291,283,375 km<br />
@@ -438,15 +418,15 @@ planets:
         radius: 161,369.5 km<br/>(25.329 Yrths)
         surface_area: 3.272 × 10<sup>11</sup> km<sup>2</sup><br/>(641.545 Yrths)
         volume: 1.760 × 10<sup>16</sup> km<sup>3</sup><br/>(16249.543 Yrths)
-        mass: 4.084 × 10<sup>28</sup> kg<br />(243.30049180236063 Yrths)
+        mass: 4.084 × 10<sup>28</sup> kg<br />(6839.068 Yrths)
         density: 2.320 g/cm<sup>3</sup>
         surface_gravity: 104.542 m/s<sup>2</sup><br />(10.660 g<sub>0</sub>)
         escape_velocity: 183.808 km/s<br />(661,711 km/h)
         rotation_period: 50.764 d
         axial_tilt: 32.76°
         albedo: 0.30
-        temperature: 172 K<br />(-101 °C)
-      - name: 8498 Tanashad IV h
+        temperature: 113 K<br />(-160 °C)
+      - name: 8498 Tanashad IV g
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 2,130,515,271 km<br />
@@ -458,14 +438,14 @@ planets:
         radius: 170,379.6 km<br/>(26.743 Yrths)
         surface_area: 3.648 × 10<sup>11</sup> km<sup>2</sup><br/>(715.188 Yrths)
         volume: 2.072 × 10<sup>16</sup> km<sup>3</sup><br/>(19126.271 Yrths)
-        mass: 3.822 × 10<sup>28</sup> kg<br />(243.30049180236063 Yrths)
+        mass: 3.822 × 10<sup>28</sup> kg<br />(6400.297 Yrths)
         density: 1.845 g/cm<sup>3</sup>
         surface_gravity: 87.761 m/s<sup>2</sup><br />(8.949 g<sub>0</sub>)
         escape_velocity: 173.049 km/s<br />(622,976 km/h)
         rotation_period: 55.786 d
         axial_tilt: 14.09°
         albedo: 0.30
-        temperature: 135 K<br />(-138 °C)
+        temperature: 113 K<br />(-160 °C)
   - name: 8498 Tanashad V
     type: Gas giant
     aphelion: 6,093,030,038 km<br />40.729 AU
@@ -477,7 +457,7 @@ planets:
     radius: 237.4 km<br/>(0.037 Yrths)
     surface_area: 7.084 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.607 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.103 × 10<sup>27</sup> kg<br />(352.16309597457865 Yrths)
+    mass: 2.103 × 10<sup>27</sup> kg<br />(352.16 Yrths)
     density: 37508660.671 g/cm<sup>3</sup>
     surface_gravity: 2486474.893 m/s<sup>2</sup><br />(253549.876 g<sub>0</sub>)
     escape_velocity: 1087.366 km/s<br />(3,914,518 km/h)
@@ -498,14 +478,14 @@ planets:
         radius: 228,155.9 km<br/>(35.812 Yrths)
         surface_area: 6.541 × 10<sup>11</sup> km<sup>2</sup><br/>(1282.472 Yrths)
         volume: 4.975 × 10<sup>16</sup> km<sup>3</sup><br/>(45927.422 Yrths)
-        mass: 1.121 × 10<sup>29</sup> kg<br />(352.16309597457865 Yrths)
+        mass: 1.121 × 10<sup>29</sup> kg<br />(18778.477 Yrths)
         density: 2.254 g/cm<sup>3</sup>
         surface_gravity: 143.593 m/s<sup>2</sup><br />(14.642 g<sub>0</sub>)
         escape_velocity: 256.149 km/s<br />(922,135 km/h)
         rotation_period: 55.218 d
         axial_tilt: 9.61°
         albedo: 0.30
-        temperature: 440 K<br />(166 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 8498 Tanashad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -518,14 +498,14 @@ planets:
         radius: 197,475.5 km<br/>(30.996 Yrths)
         surface_area: 4.900 × 10<sup>11</sup> km<sup>2</sup><br/>(960.751 Yrths)
         volume: 3.226 × 10<sup>16</sup> km<sup>3</sup><br/>(29779.445 Yrths)
-        mass: 5.534 × 10<sup>28</sup> kg<br />(352.16309597457865 Yrths)
+        mass: 5.534 × 10<sup>28</sup> kg<br />(9267.211 Yrths)
         density: 1.716 g/cm<sup>3</sup>
         surface_gravity: 94.593 m/s<sup>2</sup><br />(9.646 g<sub>0</sub>)
         escape_velocity: 193.417 km/s<br />(696,303 km/h)
         rotation_period: 52.650 d
         axial_tilt: 24.72°
         albedo: 0.30
-        temperature: 300 K<br />(27 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 8498 Tanashad V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -538,14 +518,14 @@ planets:
         radius: 203,479.0 km<br/>(31.938 Yrths)
         surface_area: 5.203 × 10<sup>11</sup> km<sup>2</sup><br/>(1020.056 Yrths)
         volume: 3.529 × 10<sup>16</sup> km<sup>3</sup><br/>(32578.866 Yrths)
-        mass: 6.493 × 10<sup>28</sup> kg<br />(352.16309597457865 Yrths)
+        mass: 6.493 × 10<sup>28</sup> kg<br />(10872.843 Yrths)
         density: 1.840 g/cm<sup>3</sup>
         surface_gravity: 104.530 m/s<sup>2</sup><br />(10.659 g<sub>0</sub>)
         escape_velocity: 206.390 km/s<br />(743,005 km/h)
         rotation_period: 46.072 d
         axial_tilt: 11.14°
         albedo: 0.30
-        temperature: 286 K<br />(13 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 8498 Tanashad V d
         type: Icy
         formationType: Accreted
@@ -558,14 +538,14 @@ planets:
         radius: 245,213.8 km<br/>(38.489 Yrths)
         surface_area: 7.556 × 10<sup>11</sup> km<sup>2</sup><br/>(1481.407 Yrths)
         volume: 6.176 × 10<sup>16</sup> km<sup>3</sup><br/>(57017.972 Yrths)
-        mass: 6.340 × 10<sup>28</sup> kg<br />(352.16309597457865 Yrths)
+        mass: 6.340 × 10<sup>28</sup> kg<br />(10616.555 Yrths)
         density: 1.027 g/cm<sup>3</sup>
         surface_gravity: 70.280 m/s<sup>2</sup><br />(7.167 g<sub>0</sub>)
         escape_velocity: 185.779 km/s<br />(668,805 km/h)
         rotation_period: 51.287 d
         axial_tilt: 17.04°
         albedo: 0.30
-        temperature: 127 K<br />(-146 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 8498 Tanashad V e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -578,14 +558,14 @@ planets:
         radius: 189,205.0 km<br/>(29.698 Yrths)
         surface_area: 4.499 × 10<sup>11</sup> km<sup>2</sup><br/>(881.962 Yrths)
         volume: 2.837 × 10<sup>16</sup> km<sup>3</sup><br/>(26192.382 Yrths)
-        mass: 5.280 × 10<sup>28</sup> kg<br />(352.16309597457865 Yrths)
+        mass: 5.280 × 10<sup>28</sup> kg<br />(8841.665 Yrths)
         density: 1.861 g/cm<sup>3</sup>
         surface_gravity: 98.312 m/s<sup>2</sup><br />(10.025 g<sub>0</sub>)
         escape_velocity: 193.009 km/s<br />(694,834 km/h)
         rotation_period: 43.442 d
         axial_tilt: 12.13°
         albedo: 0.30
-        temperature: 105 K<br />(-168 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 8498 Tanashad V f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -598,14 +578,14 @@ planets:
         radius: 201,264.2 km<br/>(31.591 Yrths)
         surface_area: 5.090 × 10<sup>11</sup> km<sup>2</sup><br/>(997.971 Yrths)
         volume: 3.415 × 10<sup>16</sup> km<sup>3</sup><br/>(31526.596 Yrths)
-        mass: 9.562 × 10<sup>28</sup> kg<br />(352.16309597457865 Yrths)
+        mass: 9.562 × 10<sup>28</sup> kg<br />(16011.305 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 157.336 m/s<sup>2</sup><br />(16.044 g<sub>0</sub>)
         escape_velocity: 251.830 km/s<br />(906,589 km/h)
         rotation_period: 35.009 d
         axial_tilt: 20.80°
         albedo: 0.30
-        temperature: 72 K<br />(-201 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 8498 Tanashad V g
         type: Icy
         formationType: Impact formed
@@ -618,14 +598,14 @@ planets:
         radius: 223,334.6 km<br/>(35.055 Yrths)
         surface_area: 6.268 × 10<sup>11</sup> km<sup>2</sup><br/>(1228.845 Yrths)
         volume: 4.666 × 10<sup>16</sup> km<sup>3</sup><br/>(43076.996 Yrths)
-        mass: 5.372 × 10<sup>28</sup> kg<br />(352.16309597457865 Yrths)
+        mass: 5.372 × 10<sup>28</sup> kg<br />(8995.955 Yrths)
         density: 1.151 g/cm<sup>3</sup>
         surface_gravity: 71.791 m/s<sup>2</sup><br />(7.321 g<sub>0</sub>)
         escape_velocity: 179.194 km/s<br />(645,098 km/h)
         rotation_period: 47.462 d
         axial_tilt: 23.48°
         albedo: 0.30
-        temperature: 51 K<br />(-222 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 8498 Tanashad V h
         type: Icy
         formationType: Accreted
@@ -638,12 +618,12 @@ planets:
         radius: 240,802.2 km<br/>(37.797 Yrths)
         surface_area: 7.287 × 10<sup>11</sup> km<sup>2</sup><br/>(1428.584 Yrths)
         volume: 5.849 × 10<sup>16</sup> km<sup>3</sup><br/>(53995.637 Yrths)
-        mass: 6.748 × 10<sup>28</sup> kg<br />(352.16309597457865 Yrths)
+        mass: 6.748 × 10<sup>28</sup> kg<br />(11300.012 Yrths)
         density: 1.154 g/cm<sup>3</sup>
         surface_gravity: 77.570 m/s<sup>2</sup><br />(7.910 g<sub>0</sub>)
         escape_velocity: 193.414 km/s<br />(696,289 km/h)
         rotation_period: 76.613 d
         axial_tilt: 25.36°
         albedo: 0.30
-        temperature: 39 K<br />(-234 °C)
+        temperature: 81 K<br />(-192 °C)
 ---

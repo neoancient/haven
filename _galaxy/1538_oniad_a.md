@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1538 Oniad A is a star in the constellation Oni
+      1538 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 992.30 ly
 apparent_magnitude: 6.64
 absolute_magnitude: -0.77

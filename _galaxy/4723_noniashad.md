@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4723 Noniashad is a star in the constellation Nonias
+      4723 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 199.21 ly
 apparent_magnitude: 6.93
 absolute_magnitude: 3.00
@@ -31,14 +31,14 @@ planets:
     radius: 8,718.9 km<br/>(1.369 Yrths)
     surface_area: 9.553 × 10<sup>08</sup> km<sup>2</sup><br/>(1.873 Yrths)
     volume: 2.776 × 10<sup>12</sup> km<sup>3</sup><br/>(2.563 Yrths)
-    mass: 1.896 × 10<sup>25</sup> kg<br />(3.17482030794655 Yrths)
+    mass: 1.896 × 10<sup>25</sup> kg<br />(3.17 Yrths)
     density: 6.829 g/cm<sup>3</sup>
     surface_gravity: 16.624 m/s<sup>2</sup><br />(1.695 g<sub>0</sub>)
     escape_velocity: 17.037 km/s<br />(61,335 km/h)
     rotation_period: 0.725 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 538 K<br />(265 °C)
+    temperature: 585 K<br />(312 °C)
     surface_pressure: 2,190 kPa<br />(22 atm)
     composition:
       - 85.5630% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 4,997.5 km<br/>(0.784 Yrths)
         surface_area: 3.138 × 10<sup>08</sup> km<sup>2</sup><br/>(0.615 Yrths)
         volume: 5.228 × 10<sup>11</sup> km<sup>3</sup><br/>(0.483 Yrths)
-        mass: 1.115 × 10<sup>24</sup> kg<br />(3.17482030794655 Yrths)
+        mass: 1.115 × 10<sup>24</sup> kg<br />(0.187 Yrths)
         density: 2.133 g/cm<sup>3</sup>
         surface_gravity: 2.976 m/s<sup>2</sup><br />(0.304 g<sub>0</sub>)
         escape_velocity: 5.458 km/s<br />(19,649 km/h)
         rotation_period: 53.009 d
         axial_tilt: 17.13°
         albedo: 0.30
-        temperature: 4664 K<br />(4391 °C)
+        temperature: 363 K<br />(90 °C)
       - name: 4723 Noniashad I b
         type: Rocky
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 3,920.1 km<br/>(0.615 Yrths)
         surface_area: 1.931 × 10<sup>08</sup> km<sup>2</sup><br/>(0.379 Yrths)
         volume: 2.523 × 10<sup>11</sup> km<sup>3</sup><br/>(0.233 Yrths)
-        mass: 7.969 × 10<sup>23</sup> kg<br />(3.17482030794655 Yrths)
+        mass: 7.969 × 10<sup>23</sup> kg<br />(0.133 Yrths)
         density: 3.158 g/cm<sup>3</sup>
         surface_gravity: 3.457 m/s<sup>2</sup><br />(0.352 g<sub>0</sub>)
         escape_velocity: 5.209 km/s<br />(18,753 km/h)
         rotation_period: 29.326 d
         axial_tilt: 18.22°
         albedo: 0.30
-        temperature: 4447 K<br />(4174 °C)
+        temperature: 363 K<br />(90 °C)
       - name: 4723 Noniashad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -99,14 +99,14 @@ planets:
         radius: 4,964.6 km<br/>(0.779 Yrths)
         surface_area: 3.097 × 10<sup>08</sup> km<sup>2</sup><br/>(0.607 Yrths)
         volume: 5.126 × 10<sup>11</sup> km<sup>3</sup><br/>(0.473 Yrths)
-        mass: 1.386 × 10<sup>24</sup> kg<br />(3.17482030794655 Yrths)
+        mass: 1.386 × 10<sup>24</sup> kg<br />(0.232 Yrths)
         density: 2.705 g/cm<sup>3</sup>
         surface_gravity: 3.749 m/s<sup>2</sup><br />(0.382 g<sub>0</sub>)
         escape_velocity: 6.106 km/s<br />(21,980 km/h)
         rotation_period: 31.973 d
         axial_tilt: 14.26°
         albedo: 0.30
-        temperature: 4240 K<br />(3967 °C)
+        temperature: 363 K<br />(90 °C)
   - name: 4723 Noniashad II
     type: Ice giant
     aphelion: 315,152,176 km<br />2.107 AU
@@ -118,14 +118,14 @@ planets:
     radius: 28,169.1 km<br/>(4.421 Yrths)
     surface_area: 9.971 × 10<sup>09</sup> km<sup>2</sup><br/>(19.549 Yrths)
     volume: 9.363 × 10<sup>13</sup> km<sup>3</sup><br/>(86.436 Yrths)
-    mass: 1.019 × 10<sup>26</sup> kg<br />(17.058862429623353 Yrths)
+    mass: 1.019 × 10<sup>26</sup> kg<br />(17.06 Yrths)
     density: 1.088 g/cm<sup>3</sup>
     surface_gravity: 8.557 m/s<sup>2</sup><br />(0.873 g<sub>0</sub>)
     escape_velocity: 21.972 km/s<br />(79,099 km/h)
     rotation_period: 0.373 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 542 K<br />(268 °C)
+    temperature: 492 K<br />(219 °C)
     composition:
       - 87.5370% hydrogen
       - 11.5441% helium
@@ -143,14 +143,14 @@ planets:
         radius: 13,126.0 km<br/>(2.060 Yrths)
         surface_area: 2.165 × 10<sup>09</sup> km<sup>2</sup><br/>(4.245 Yrths)
         volume: 9.473 × 10<sup>12</sup> km<sup>3</sup><br/>(8.745 Yrths)
-        mass: 1.553 × 10<sup>25</sup> kg<br />(17.058862429623353 Yrths)
+        mass: 1.553 × 10<sup>25</sup> kg<br />(2.601 Yrths)
         density: 1.640 g/cm<sup>3</sup>
         surface_gravity: 6.009 m/s<sup>2</sup><br />(0.613 g<sub>0</sub>)
         escape_velocity: 12.569 km/s<br />(45,247 km/h)
         rotation_period: 59.582 d
         axial_tilt: 13.54°
         albedo: 0.30
-        temperature: 2542 K<br />(2269 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 4723 Noniashad II b
         type: Dwarf planet
         formationType: Captured
@@ -163,14 +163,14 @@ planets:
         radius: 13,237.8 km<br/>(2.078 Yrths)
         surface_area: 2.202 × 10<sup>09</sup> km<sup>2</sup><br/>(4.317 Yrths)
         volume: 9.717 × 10<sup>12</sup> km<sup>3</sup><br/>(8.971 Yrths)
-        mass: 1.829 × 10<sup>25</sup> kg<br />(17.058862429623353 Yrths)
+        mass: 1.829 × 10<sup>25</sup> kg<br />(3.063 Yrths)
         density: 1.882 g/cm<sup>3</sup>
         surface_gravity: 6.957 m/s<sup>2</sup><br />(0.709 g<sub>0</sub>)
         escape_velocity: 13.581 km/s<br />(48,890 km/h)
         rotation_period: 48.343 d
         axial_tilt: 13.24°
         albedo: 0.30
-        temperature: 2311 K<br />(2038 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 4723 Noniashad II c
         type: Icy
         formationType: Captured
@@ -183,14 +183,14 @@ planets:
         radius: 25,338.0 km<br/>(3.977 Yrths)
         surface_area: 8.068 × 10<sup>09</sup> km<sup>2</sup><br/>(15.817 Yrths)
         volume: 6.814 × 10<sup>13</sup> km<sup>3</sup><br/>(62.907 Yrths)
-        mass: 7.954 × 10<sup>25</sup> kg<br />(17.058862429623353 Yrths)
+        mass: 7.954 × 10<sup>25</sup> kg<br />(13.319 Yrths)
         density: 1.167 g/cm<sup>3</sup>
         surface_gravity: 8.258 m/s<sup>2</sup><br />(0.842 g<sub>0</sub>)
         escape_velocity: 20.471 km/s<br />(73,694 km/h)
         rotation_period: 54.559 d
         axial_tilt: 22.69°
         albedo: 0.30
-        temperature: 2101 K<br />(1827 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 4723 Noniashad II d
         type: Icy
         formationType: Accreted
@@ -203,14 +203,14 @@ planets:
         radius: 15,807.5 km<br/>(2.481 Yrths)
         surface_area: 3.140 × 10<sup>09</sup> km<sup>2</sup><br/>(6.156 Yrths)
         volume: 1.655 × 10<sup>13</sup> km<sup>3</sup><br/>(15.274 Yrths)
-        mass: 2.354 × 10<sup>25</sup> kg<br />(17.058862429623353 Yrths)
+        mass: 2.354 × 10<sup>25</sup> kg<br />(3.941 Yrths)
         density: 1.423 g/cm<sup>3</sup>
         surface_gravity: 6.278 m/s<sup>2</sup><br />(0.640 g<sub>0</sub>)
         escape_velocity: 14.098 km/s<br />(50,752 km/h)
         rotation_period: 44.304 d
         axial_tilt: 23.71°
         albedo: 0.30
-        temperature: 1910 K<br />(1636 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 4723 Noniashad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -223,14 +223,14 @@ planets:
         radius: 31,010.0 km<br/>(4.867 Yrths)
         surface_area: 1.208 × 10<sup>10</sup> km<sup>2</sup><br/>(23.691 Yrths)
         volume: 1.249 × 10<sup>14</sup> km<sup>3</sup><br/>(115.314 Yrths)
-        mass: 2.730 × 10<sup>26</sup> kg<br />(17.058862429623353 Yrths)
+        mass: 2.730 × 10<sup>26</sup> kg<br />(45.717 Yrths)
         density: 2.186 g/cm<sup>3</sup>
         surface_gravity: 18.924 m/s<sup>2</sup><br />(1.930 g<sub>0</sub>)
         escape_velocity: 34.282 km/s<br />(123,414 km/h)
         rotation_period: 54.830 d
         axial_tilt: 18.30°
         albedo: 0.30
-        temperature: 1821 K<br />(1548 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 4723 Noniashad II f
         type: Icy
         formationType: Accreted
@@ -243,14 +243,14 @@ planets:
         radius: 33,642.5 km<br/>(5.281 Yrths)
         surface_area: 1.422 × 10<sup>10</sup> km<sup>2</sup><br/>(27.884 Yrths)
         volume: 1.595 × 10<sup>14</sup> km<sup>3</sup><br/>(147.245 Yrths)
-        mass: 2.344 × 10<sup>26</sup> kg<br />(17.058862429623353 Yrths)
+        mass: 2.344 × 10<sup>26</sup> kg<br />(39.255 Yrths)
         density: 1.470 g/cm<sup>3</sup>
         surface_gravity: 13.806 m/s<sup>2</sup><br />(1.408 g<sub>0</sub>)
         escape_velocity: 30.499 km/s<br />(109,796 km/h)
         rotation_period: 62.297 d
         axial_tilt: 21.20°
         albedo: 0.30
-        temperature: 1736 K<br />(1463 °C)
+        temperature: 269 K<br />(-4 °C)
   - name: 4723 Noniashad III
     type: Large terrestrial
     aphelion: 624,024,398 km<br />4.171 AU
@@ -262,14 +262,14 @@ planets:
     radius: 2,790.5 km<br/>(0.438 Yrths)
     surface_area: 9.785 × 10<sup>07</sup> km<sup>2</sup><br/>(0.192 Yrths)
     volume: 9.102 × 10<sup>10</sup> km<sup>3</sup><br/>(0.084 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.561 g/cm<sup>3</sup>
     surface_gravity: 5.112 m/s<sup>2</sup><br />(0.521 g<sub>0</sub>)
     escape_velocity: 5.345 km/s<br />(19,241 km/h)
     rotation_period: 1.558 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 255 K<br />(-18 °C)
+    temperature: 271 K<br />(-2 °C)
     surface_pressure: 211 kPa<br />(2 atm)
     composition:
       - 86.0175% ammonia
@@ -287,14 +287,14 @@ planets:
         radius: 402.9 km<br/>(0.063 Yrths)
         surface_area: 2.040 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.739 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 8.037 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 8.037 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.935 g/cm<sup>3</sup>
         surface_gravity: 0.330 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.516 km/s<br />(1,858 km/h)
         rotation_period: 44.130 d
         axial_tilt: 33.73°
         albedo: 0.30
-        temperature: 4553 K<br />(4280 °C)
+        temperature: 200 K<br />(-74 °C)
       - name: 4723 Noniashad III b
         type: Icy
         formationType: Accreted
@@ -307,14 +307,14 @@ planets:
         radius: 1,034.1 km<br/>(0.162 Yrths)
         surface_area: 1.344 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.632 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 5.759 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.759 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.244 g/cm<sup>3</sup>
         surface_gravity: 0.359 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.862 km/s<br />(3,104 km/h)
         rotation_period: 79.300 d
         axial_tilt: 20.46°
         albedo: 0.30
-        temperature: 4341 K<br />(4068 °C)
+        temperature: 200 K<br />(-74 °C)
   - name: 4723 Noniashad IV
     type: Ice giant
     aphelion: 1,190,232,435 km<br />7.956 AU
@@ -326,14 +326,14 @@ planets:
     radius: 33,882.3 km<br/>(5.318 Yrths)
     surface_area: 1.443 × 10<sup>10</sup> km<sup>2</sup><br/>(28.283 Yrths)
     volume: 1.629 × 10<sup>14</sup> km<sup>3</sup><br/>(150.417 Yrths)
-    mass: 2.182 × 10<sup>26</sup> kg<br />(36.53099224705317 Yrths)
+    mass: 2.182 × 10<sup>26</sup> kg<br />(36.53 Yrths)
     density: 1.339 g/cm<sup>3</sup>
     surface_gravity: 12.666 m/s<sup>2</sup><br />(1.292 g<sub>0</sub>)
     escape_velocity: 29.317 km/s<br />(105,542 km/h)
     rotation_period: 0.302 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 307 K<br />(34 °C)
+    temperature: 282 K<br />(9 °C)
     composition:
       - 90.7991% hydrogen
       - 7.2350% helium
@@ -353,14 +353,14 @@ planets:
         radius: 34,052.8 km<br/>(5.345 Yrths)
         surface_area: 1.457 × 10<sup>10</sup> km<sup>2</sup><br/>(28.569 Yrths)
         volume: 1.654 × 10<sup>14</sup> km<sup>3</sup><br/>(152.699 Yrths)
-        mass: 2.286 × 10<sup>26</sup> kg<br />(36.53099224705317 Yrths)
+        mass: 2.286 × 10<sup>26</sup> kg<br />(38.284 Yrths)
         density: 1.382 g/cm<sup>3</sup>
         surface_gravity: 13.141 m/s<sup>2</sup><br />(1.340 g<sub>0</sub>)
         escape_velocity: 29.937 km/s<br />(107,773 km/h)
         rotation_period: 43.575 d
         axial_tilt: 19.59°
         albedo: 0.30
-        temperature: 1232 K<br />(959 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 4723 Noniashad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -373,14 +373,14 @@ planets:
         radius: 45,696.2 km<br/>(7.173 Yrths)
         surface_area: 2.624 × 10<sup>10</sup> km<sup>2</sup><br/>(51.445 Yrths)
         volume: 3.997 × 10<sup>14</sup> km<sup>3</sup><br/>(368.993 Yrths)
-        mass: 7.674 × 10<sup>26</sup> kg<br />(36.53099224705317 Yrths)
+        mass: 7.674 × 10<sup>26</sup> kg<br />(128.504 Yrths)
         density: 1.920 g/cm<sup>3</sup>
         surface_gravity: 24.496 m/s<sup>2</sup><br />(2.498 g<sub>0</sub>)
         escape_velocity: 47.347 km/s<br />(170,450 km/h)
         rotation_period: 41.699 d
         axial_tilt: 12.02°
         albedo: 0.30
-        temperature: 1175 K<br />(902 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 4723 Noniashad IV c
         type: Icy
         formationType: Captured
@@ -393,14 +393,14 @@ planets:
         radius: 70,469.2 km<br/>(11.061 Yrths)
         surface_area: 6.240 × 10<sup>10</sup> km<sup>2</sup><br/>(122.344 Yrths)
         volume: 1.466 × 10<sup>15</sup> km<sup>3</sup><br/>(1353.240 Yrths)
-        mass: 1.561 × 10<sup>27</sup> kg<br />(36.53099224705317 Yrths)
+        mass: 1.561 × 10<sup>27</sup> kg<br />(261.415 Yrths)
         density: 1.065 g/cm<sup>3</sup>
         surface_gravity: 20.954 m/s<sup>2</sup><br />(2.137 g<sub>0</sub>)
         escape_velocity: 54.381 km/s<br />(195,770 km/h)
         rotation_period: 58.983 d
         axial_tilt: 17.04°
         albedo: 0.30
-        temperature: 1120 K<br />(847 °C)
+        temperature: 148 K<br />(-125 °C)
       - name: 4723 Noniashad IV d
         type: Dwarf planet
         formationType: Captured
@@ -413,14 +413,14 @@ planets:
         radius: 39,220.8 km<br/>(6.156 Yrths)
         surface_area: 1.933 × 10<sup>10</sup> km<sup>2</sup><br/>(37.898 Yrths)
         volume: 2.527 × 10<sup>14</sup> km<sup>3</sup><br/>(233.307 Yrths)
-        mass: 3.736 × 10<sup>26</sup> kg<br />(36.53099224705317 Yrths)
+        mass: 3.736 × 10<sup>26</sup> kg<br />(62.565 Yrths)
         density: 1.478 g/cm<sup>3</sup>
         surface_gravity: 16.190 m/s<sup>2</sup><br />(1.651 g<sub>0</sub>)
         escape_velocity: 35.660 km/s<br />(128,377 km/h)
         rotation_period: 74.796 d
         axial_tilt: 38.76°
         albedo: 0.30
-        temperature: 1018 K<br />(745 °C)
+        temperature: 148 K<br />(-125 °C)
   - name: 4723 Noniashad V
     type: Large terrestrial
     aphelion: 2,029,309,964 km<br />13.565 AU
@@ -432,15 +432,15 @@ planets:
     radius: 12,904.8 km<br/>(2.026 Yrths)
     surface_area: 2.093 × 10<sup>09</sup> km<sup>2</sup><br/>(4.103 Yrths)
     volume: 9.002 × 10<sup>12</sup> km<sup>3</sup><br/>(8.311 Yrths)
-    mass: 5.204 × 10<sup>25</sup> kg<br />(8.714212019894592 Yrths)
+    mass: 5.204 × 10<sup>25</sup> kg<br />(8.71 Yrths)
     density: 5.781 g/cm<sup>3</sup>
     surface_gravity: 20.829 m/s<sup>2</sup><br />(2.124 g<sub>0</sub>)
     escape_velocity: 23.201 km/s<br />(83,525 km/h)
     rotation_period: 0.493 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 180 K<br />(-93 °C)
-    surface_pressure: 4,884 kPa<br />(48 atm)
+    temperature: 268 K<br />(-5 °C)
+    surface_pressure: 4,884 kPa<br />(49 atm)
     composition:
       - 81.4619% methane
       - 13.5727% carbon dioxide
@@ -459,14 +459,14 @@ planets:
         radius: 5,883.5 km<br/>(0.923 Yrths)
         surface_area: 4.350 × 10<sup>08</sup> km<sup>2</sup><br/>(0.853 Yrths)
         volume: 8.531 × 10<sup>11</sup> km<sup>3</sup><br/>(0.788 Yrths)
-        mass: 8.680 × 10<sup>23</sup> kg<br />(8.714212019894592 Yrths)
+        mass: 8.680 × 10<sup>23</sup> kg<br />(0.145 Yrths)
         density: 1.017 g/cm<sup>3</sup>
         surface_gravity: 1.671 m/s<sup>2</sup><br />(0.170 g<sub>0</sub>)
         escape_velocity: 4.438 km/s<br />(15,975 km/h)
         rotation_period: 53.161 d
         axial_tilt: 22.13°
         albedo: 0.30
-        temperature: 1259 K<br />(986 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 4723 Noniashad V b
         type: Icy
         formationType: Captured
@@ -479,14 +479,14 @@ planets:
         radius: 13,696.7 km<br/>(2.150 Yrths)
         surface_area: 2.357 × 10<sup>09</sup> km<sup>2</sup><br/>(4.622 Yrths)
         volume: 1.076 × 10<sup>13</sup> km<sup>3</sup><br/>(9.936 Yrths)
-        mass: 1.757 × 10<sup>25</sup> kg<br />(8.714212019894592 Yrths)
+        mass: 1.757 × 10<sup>25</sup> kg<br />(2.941 Yrths)
         density: 1.632 g/cm<sup>3</sup>
         surface_gravity: 6.241 m/s<sup>2</sup><br />(0.636 g<sub>0</sub>)
         escape_velocity: 13.084 km/s<br />(47,103 km/h)
         rotation_period: 50.696 d
         axial_tilt: 17.50°
         albedo: 0.30
-        temperature: 1200 K<br />(927 °C)
+        temperature: 110 K<br />(-163 °C)
   - name: 4723 Noniashad VI
     type: Gas dwarf
     aphelion: 3,446,377,642 km<br />23.037 AU
@@ -498,14 +498,14 @@ planets:
     radius: 16,875.7 km<br/>(2.649 Yrths)
     surface_area: 3.579 × 10<sup>09</sup> km<sup>2</sup><br/>(7.016 Yrths)
     volume: 2.013 × 10<sup>13</sup> km<sup>3</sup><br/>(18.585 Yrths)
-    mass: 4.195 × 10<sup>25</sup> kg<br />(7.02472373555699 Yrths)
+    mass: 4.195 × 10<sup>25</sup> kg<br />(7.02 Yrths)
     density: 2.084 g/cm<sup>3</sup>
     surface_gravity: 9.818 m/s<sup>2</sup><br />(1.001 g<sub>0</sub>)
     escape_velocity: 18.216 km/s<br />(65,579 km/h)
     rotation_period: 0.424 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 130 K<br />(-143 °C)
+    temperature: 118 K<br />(-155 °C)
     composition:
       - 86.3361% hydrogen
       - 9.8904% helium
@@ -525,14 +525,14 @@ planets:
         radius: 19,847.6 km<br/>(3.115 Yrths)
         surface_area: 4.950 × 10<sup>09</sup> km<sup>2</sup><br/>(9.705 Yrths)
         volume: 3.275 × 10<sup>13</sup> km<sup>3</sup><br/>(30.234 Yrths)
-        mass: 4.882 × 10<sup>25</sup> kg<br />(7.02472373555699 Yrths)
+        mass: 4.882 × 10<sup>25</sup> kg<br />(8.176 Yrths)
         density: 1.491 g/cm<sup>3</sup>
         surface_gravity: 8.261 m/s<sup>2</sup><br />(0.842 g<sub>0</sub>)
         escape_velocity: 18.121 km/s<br />(65,235 km/h)
         rotation_period: 49.033 d
         axial_tilt: 13.37°
         albedo: 0.30
-        temperature: 892 K<br />(619 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 4723 Noniashad VI b
         type: Icy
         formationType: Captured
@@ -545,14 +545,14 @@ planets:
         radius: 9,053.4 km<br/>(1.421 Yrths)
         surface_area: 1.030 × 10<sup>09</sup> km<sup>2</sup><br/>(2.019 Yrths)
         volume: 3.108 × 10<sup>12</sup> km<sup>3</sup><br/>(2.870 Yrths)
-        mass: 3.221 × 10<sup>24</sup> kg<br />(7.02472373555699 Yrths)
+        mass: 3.221 × 10<sup>24</sup> kg<br />(0.539 Yrths)
         density: 1.036 g/cm<sup>3</sup>
         surface_gravity: 2.619 m/s<sup>2</sup><br />(0.267 g<sub>0</sub>)
         escape_velocity: 6.891 km/s<br />(24,808 km/h)
         rotation_period: 48.742 d
         axial_tilt: 14.81°
         albedo: 0.30
-        temperature: 851 K<br />(578 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 4723 Noniashad VI c
         type: Ice/rock hybrid
         formationType: Captured
@@ -565,14 +565,14 @@ planets:
         radius: 2,417.5 km<br/>(0.379 Yrths)
         surface_area: 7.344 × 10<sup>07</sup> km<sup>2</sup><br/>(0.144 Yrths)
         volume: 5.918 × 10<sup>10</sup> km<sup>3</sup><br/>(0.055 Yrths)
-        mass: 1.631 × 10<sup>23</sup> kg<br />(7.02472373555699 Yrths)
+        mass: 1.631 × 10<sup>23</sup> kg<br />(0.027 Yrths)
         density: 2.756 g/cm<sup>3</sup>
         surface_gravity: 1.860 m/s<sup>2</sup><br />(0.190 g<sub>0</sub>)
         escape_velocity: 3.001 km/s<br />(10,804 km/h)
         rotation_period: 46.207 d
         axial_tilt: 12.27°
         albedo: 0.30
-        temperature: 811 K<br />(538 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 4723 Noniashad VI d
         type: Icy
         formationType: Captured
@@ -585,12 +585,12 @@ planets:
         radius: 3,824.0 km<br/>(0.600 Yrths)
         surface_area: 1.838 × 10<sup>08</sup> km<sup>2</sup><br/>(0.360 Yrths)
         volume: 2.342 × 10<sup>11</sup> km<sup>3</sup><br/>(0.216 Yrths)
-        mass: 2.267 × 10<sup>23</sup> kg<br />(7.02472373555699 Yrths)
+        mass: 2.267 × 10<sup>23</sup> kg<br />(0.038 Yrths)
         density: 0.968 g/cm<sup>3</sup>
         surface_gravity: 1.033 m/s<sup>2</sup><br />(0.105 g<sub>0</sub>)
         escape_velocity: 2.813 km/s<br />(10,126 km/h)
         rotation_period: 50.873 d
         axial_tilt: 16.71°
         albedo: 0.30
-        temperature: 774 K<br />(500 °C)
+        temperature: 81 K<br />(-192 °C)
 ---

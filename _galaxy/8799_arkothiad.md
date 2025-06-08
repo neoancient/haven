@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8799 Arkothiad is a star in the constellation Arkoth
+      8799 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 598.48 ly
 apparent_magnitude: 11.64
 absolute_magnitude: 5.32

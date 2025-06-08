@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Derriathiad is a star in the constellation Derriath
+      0024 Derriathiad is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 36.65 ly
 apparent_magnitude: 6.15
 absolute_magnitude: 5.90
@@ -31,14 +31,14 @@ planets:
     radius: 6,537.0 km<br/>(1.026 Yrths)
     surface_area: 5.370 × 10<sup>08</sup> km<sup>2</sup><br/>(1.053 Yrths)
     volume: 1.170 × 10<sup>12</sup> km<sup>3</sup><br/>(1.080 Yrths)
-    mass: 6.722 × 10<sup>24</sup> kg<br />(1.125665160380565 Yrths)
+    mass: 6.722 × 10<sup>24</sup> kg<br />(1.13 Yrths)
     density: 5.745 g/cm<sup>3</sup>
     surface_gravity: 10.485 m/s<sup>2</sup><br />(1.069 g<sub>0</sub>)
     escape_velocity: 11.716 km/s<br />(42,179 km/h)
     rotation_period: 1.732 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 366 K<br />(93 °C)
+    temperature: 378 K<br />(105 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 89.2845% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 2,613.6 km<br/>(0.410 Yrths)
         surface_area: 8.584 × 10<sup>07</sup> km<sup>2</sup><br/>(0.168 Yrths)
         volume: 7.479 × 10<sup>10</sup> km<sup>3</sup><br/>(0.069 Yrths)
-        mass: 2.460 × 10<sup>23</sup> kg<br />(1.125665160380565 Yrths)
+        mass: 2.460 × 10<sup>23</sup> kg<br />(0.041 Yrths)
         density: 3.290 g/cm<sup>3</sup>
         surface_gravity: 2.401 m/s<sup>2</sup><br />(0.245 g<sub>0</sub>)
         escape_velocity: 3.545 km/s<br />(12,761 km/h)
         rotation_period: 27.320 d
         axial_tilt: 17.11°
         albedo: 0.30
-        temperature: 4559 K<br />(4286 °C)
+        temperature: 336 K<br />(63 °C)
   - name: 0024 Derriathiad II
     type: Gas dwarf
     aphelion: 91,486,993 km<br />0.612 AU
@@ -77,14 +77,14 @@ planets:
     radius: 13,567.7 km<br/>(2.130 Yrths)
     surface_area: 2.313 × 10<sup>09</sup> km<sup>2</sup><br/>(4.535 Yrths)
     volume: 1.046 × 10<sup>13</sup> km<sup>3</sup><br/>(9.658 Yrths)
-    mass: 1.963 × 10<sup>25</sup> kg<br />(3.2863003688298793 Yrths)
+    mass: 1.963 × 10<sup>25</sup> kg<br />(3.29 Yrths)
     density: 1.876 g/cm<sup>3</sup>
     surface_gravity: 7.106 m/s<sup>2</sup><br />(0.725 g<sub>0</sub>)
     escape_velocity: 13.896 km/s<br />(50,024 km/h)
     rotation_period: 0.805 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 355 K<br />(82 °C)
+    temperature: 312 K<br />(39 °C)
     composition:
       - 95.1458% hydrogen
       - 3.2476% helium
@@ -103,14 +103,14 @@ planets:
         radius: 8,824.1 km<br/>(1.385 Yrths)
         surface_area: 9.785 × 10<sup>08</sup> km<sup>2</sup><br/>(1.918 Yrths)
         volume: 2.878 × 10<sup>12</sup> km<sup>3</sup><br/>(2.657 Yrths)
-        mass: 5.200 × 10<sup>24</sup> kg<br />(3.2863003688298793 Yrths)
+        mass: 5.200 × 10<sup>24</sup> kg<br />(0.871 Yrths)
         density: 1.807 g/cm<sup>3</sup>
         surface_gravity: 4.451 m/s<sup>2</sup><br />(0.454 g<sub>0</sub>)
         escape_velocity: 8.869 km/s<br />(31,928 km/h)
         rotation_period: 49.216 d
         axial_tilt: 24.28°
         albedo: 0.30
-        temperature: 2944 K<br />(2671 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0024 Derriathiad II b
         type: Icy
         formationType: Captured
@@ -123,14 +123,14 @@ planets:
         radius: 5,753.0 km<br/>(0.903 Yrths)
         surface_area: 4.159 × 10<sup>08</sup> km<sup>2</sup><br/>(0.815 Yrths)
         volume: 7.976 × 10<sup>11</sup> km<sup>3</sup><br/>(0.736 Yrths)
-        mass: 1.092 × 10<sup>24</sup> kg<br />(3.2863003688298793 Yrths)
+        mass: 1.092 × 10<sup>24</sup> kg<br />(0.183 Yrths)
         density: 1.369 g/cm<sup>3</sup>
         surface_gravity: 2.199 m/s<sup>2</sup><br />(0.224 g<sub>0</sub>)
         escape_velocity: 5.033 km/s<br />(18,119 km/h)
         rotation_period: 68.324 d
         axial_tilt: 16.56°
         albedo: 0.30
-        temperature: 2807 K<br />(2534 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0024 Derriathiad II c
         type: Icy
         formationType: Captured
@@ -143,14 +143,14 @@ planets:
         radius: 7,290.3 km<br/>(1.144 Yrths)
         surface_area: 6.679 × 10<sup>08</sup> km<sup>2</sup><br/>(1.309 Yrths)
         volume: 1.623 × 10<sup>12</sup> km<sup>3</sup><br/>(1.498 Yrths)
-        mass: 2.139 × 10<sup>24</sup> kg<br />(3.2863003688298793 Yrths)
+        mass: 2.139 × 10<sup>24</sup> kg<br />(0.358 Yrths)
         density: 1.318 g/cm<sup>3</sup>
         surface_gravity: 2.683 m/s<sup>2</sup><br />(0.274 g<sub>0</sub>)
         escape_velocity: 6.259 km/s<br />(22,531 km/h)
         rotation_period: 50.695 d
         axial_tilt: 9.95°
         albedo: 0.30
-        temperature: 2677 K<br />(2403 °C)
+        temperature: 262 K<br />(-11 °C)
       - name: 0024 Derriathiad II d
         type: Icy
         formationType: Captured
@@ -163,14 +163,14 @@ planets:
         radius: 3,403.6 km<br/>(0.534 Yrths)
         surface_area: 1.456 × 10<sup>08</sup> km<sup>2</sup><br/>(0.285 Yrths)
         volume: 1.652 × 10<sup>11</sup> km<sup>3</sup><br/>(0.152 Yrths)
-        mass: 2.492 × 10<sup>23</sup> kg<br />(3.2863003688298793 Yrths)
+        mass: 2.492 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 1.509 g/cm<sup>3</sup>
         surface_gravity: 1.434 m/s<sup>2</sup><br />(0.146 g<sub>0</sub>)
         escape_velocity: 3.126 km/s<br />(11,255 km/h)
         rotation_period: 43.216 d
         axial_tilt: 19.36°
         albedo: 0.30
-        temperature: 2552 K<br />(2279 °C)
+        temperature: 262 K<br />(-11 °C)
   - name: 0024 Derriathiad III
     type: Terrestrial
     aphelion: 164,061,944 km<br />1.097 AU
@@ -182,14 +182,14 @@ planets:
     radius: 6,134.6 km<br/>(0.963 Yrths)
     surface_area: 4.729 × 10<sup>08</sup> km<sup>2</sup><br/>(0.927 Yrths)
     volume: 9.670 × 10<sup>11</sup> km<sup>3</sup><br/>(0.893 Yrths)
-    mass: 4.949 × 10<sup>24</sup> kg<br />(0.8287666796343373 Yrths)
+    mass: 4.949 × 10<sup>24</sup> kg<br />(0.83 Yrths)
     density: 5.118 g/cm<sup>3</sup>
     surface_gravity: 8.766 m/s<sup>2</sup><br />(0.894 g<sub>0</sub>)
     escape_velocity: 10.378 km/s<br />(37,360 km/h)
     rotation_period: 1.209 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 232 K<br />(-41 °C)
+    temperature: 278 K<br />(5 °C)
     surface_pressure: 22 kPa<br />(0 atm)
     composition:
       - 88.5786% nitrogen
@@ -209,14 +209,14 @@ planets:
         radius: 2,490.9 km<br/>(0.391 Yrths)
         surface_area: 7.797 × 10<sup>07</sup> km<sup>2</sup><br/>(0.153 Yrths)
         volume: 6.474 × 10<sup>10</sup> km<sup>3</sup><br/>(0.060 Yrths)
-        mass: 1.929 × 10<sup>23</sup> kg<br />(0.8287666796343373 Yrths)
+        mass: 1.929 × 10<sup>23</sup> kg<br />(0.032 Yrths)
         density: 2.979 g/cm<sup>3</sup>
         surface_gravity: 2.072 m/s<sup>2</sup><br />(0.211 g<sub>0</sub>)
         escape_velocity: 3.215 km/s<br />(11,573 km/h)
         rotation_period: 33.743 d
         axial_tilt: 23.96°
         albedo: 0.30
-        temperature: 2980 K<br />(2707 °C)
+        temperature: 204 K<br />(-69 °C)
       - name: 0024 Derriathiad III b
         type: Dwarf planet
         formationType: Accreted
@@ -229,14 +229,14 @@ planets:
         radius: 1,306.0 km<br/>(0.205 Yrths)
         surface_area: 2.143 × 10<sup>07</sup> km<sup>2</sup><br/>(0.042 Yrths)
         volume: 9.331 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 2.000 × 10<sup>22</sup> kg<br />(0.8287666796343373 Yrths)
+        mass: 2.000 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.144 g/cm<sup>3</sup>
         surface_gravity: 0.782 m/s<sup>2</sup><br />(0.080 g<sub>0</sub>)
         escape_velocity: 1.430 km/s<br />(5,147 km/h)
         rotation_period: 40.052 d
         axial_tilt: 23.02°
         albedo: 0.30
-        temperature: 2841 K<br />(2568 °C)
+        temperature: 204 K<br />(-69 °C)
       - name: 0024 Derriathiad III c
         type: Icy
         formationType: Captured
@@ -249,14 +249,14 @@ planets:
         radius: 1,173.8 km<br/>(0.184 Yrths)
         surface_area: 1.731 × 10<sup>07</sup> km<sup>2</sup><br/>(0.034 Yrths)
         volume: 6.774 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.030 × 10<sup>22</sup> kg<br />(0.8287666796343373 Yrths)
+        mass: 1.030 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.521 g/cm<sup>3</sup>
         surface_gravity: 0.498 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 1.082 km/s<br />(3,896 km/h)
         rotation_period: 40.681 d
         axial_tilt: 21.85°
         albedo: 0.30
-        temperature: 2709 K<br />(2436 °C)
+        temperature: 204 K<br />(-69 °C)
   - name: 0024 Derriathiad IV
     type: Ice giant
     aphelion: 246,338,411 km<br />1.647 AU
@@ -268,14 +268,14 @@ planets:
     radius: 21,850.2 km<br/>(3.430 Yrths)
     surface_area: 6.000 × 10<sup>09</sup> km<sup>2</sup><br/>(11.762 Yrths)
     volume: 4.370 × 10<sup>13</sup> km<sup>3</sup><br/>(40.341 Yrths)
-    mass: 5.479 × 10<sup>25</sup> kg<br />(9.174846519530231 Yrths)
+    mass: 5.479 × 10<sup>25</sup> kg<br />(9.17 Yrths)
     density: 1.254 g/cm<sup>3</sup>
     surface_gravity: 7.649 m/s<sup>2</sup><br />(0.780 g<sub>0</sub>)
     escape_velocity: 18.296 km/s<br />(65,865 km/h)
     rotation_period: 0.453 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 286 K<br />(12 °C)
+    temperature: 260 K<br />(-13 °C)
     composition:
       - 68.7322% hydrogen
       - 29.9504% helium
@@ -294,14 +294,14 @@ planets:
         radius: 10,541.2 km<br/>(1.655 Yrths)
         surface_area: 1.396 × 10<sup>09</sup> km<sup>2</sup><br/>(2.738 Yrths)
         volume: 4.906 × 10<sup>12</sup> km<sup>3</sup><br/>(4.529 Yrths)
-        mass: 1.131 × 10<sup>25</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 1.131 × 10<sup>25</sup> kg<br />(1.894 Yrths)
         density: 2.306 g/cm<sup>3</sup>
         surface_gravity: 6.786 m/s<sup>2</sup><br />(0.692 g<sub>0</sub>)
         escape_velocity: 11.969 km/s<br />(43,090 km/h)
         rotation_period: 44.251 d
         axial_tilt: 18.37°
         albedo: 0.30
-        temperature: 1512 K<br />(1239 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0024 Derriathiad IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -314,14 +314,14 @@ planets:
         radius: 11,243.2 km<br/>(1.765 Yrths)
         surface_area: 1.589 × 10<sup>09</sup> km<sup>2</sup><br/>(3.114 Yrths)
         volume: 5.953 × 10<sup>12</sup> km<sup>3</sup><br/>(5.496 Yrths)
-        mass: 1.487 × 10<sup>25</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 1.487 × 10<sup>25</sup> kg<br />(2.490 Yrths)
         density: 2.498 g/cm<sup>3</sup>
         surface_gravity: 7.842 m/s<sup>2</sup><br />(0.800 g<sub>0</sub>)
         escape_velocity: 13.288 km/s<br />(47,838 km/h)
         rotation_period: 58.745 d
         axial_tilt: 17.45°
         albedo: 0.30
-        temperature: 1441 K<br />(1168 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0024 Derriathiad IV c
         type: Asteroid
         formationType: Captured
@@ -334,14 +334,14 @@ planets:
         radius: 14,204.7 km<br/>(2.230 Yrths)
         surface_area: 2.536 × 10<sup>09</sup> km<sup>2</sup><br/>(4.971 Yrths)
         volume: 1.201 × 10<sup>13</sup> km<sup>3</sup><br/>(11.083 Yrths)
-        mass: 3.868 × 10<sup>25</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 3.868 × 10<sup>25</sup> kg<br />(6.477 Yrths)
         density: 3.222 g/cm<sup>3</sup>
         surface_gravity: 12.778 m/s<sup>2</sup><br />(1.303 g<sub>0</sub>)
         escape_velocity: 19.066 km/s<br />(68,638 km/h)
         rotation_period: 28.713 d
         axial_tilt: 34.93°
         albedo: 0.30
-        temperature: 1374 K<br />(1101 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0024 Derriathiad IV d
         type: Icy
         formationType: Accreted
@@ -354,14 +354,14 @@ planets:
         radius: 11,013.1 km<br/>(1.729 Yrths)
         surface_area: 1.524 × 10<sup>09</sup> km<sup>2</sup><br/>(2.988 Yrths)
         volume: 5.595 × 10<sup>12</sup> km<sup>3</sup><br/>(5.165 Yrths)
-        mass: 7.595 × 10<sup>24</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 7.595 × 10<sup>24</sup> kg<br />(1.272 Yrths)
         density: 1.357 g/cm<sup>3</sup>
         surface_gravity: 4.174 m/s<sup>2</sup><br />(0.426 g<sub>0</sub>)
         escape_velocity: 9.594 km/s<br />(34,540 km/h)
         rotation_period: 54.274 d
         axial_tilt: 9.98°
         albedo: 0.30
-        temperature: 1310 K<br />(1037 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0024 Derriathiad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -374,14 +374,14 @@ planets:
         radius: 11,628.9 km<br/>(1.825 Yrths)
         surface_area: 1.699 × 10<sup>09</sup> km<sup>2</sup><br/>(3.332 Yrths)
         volume: 6.587 × 10<sup>12</sup> km<sup>3</sup><br/>(6.081 Yrths)
-        mass: 1.478 × 10<sup>25</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 1.478 × 10<sup>25</sup> kg<br />(2.476 Yrths)
         density: 2.244 g/cm<sup>3</sup>
         surface_gravity: 7.287 m/s<sup>2</sup><br />(0.743 g<sub>0</sub>)
         escape_velocity: 13.027 km/s<br />(46,898 km/h)
         rotation_period: 42.010 d
         axial_tilt: 16.40°
         albedo: 0.30
-        temperature: 1249 K<br />(976 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0024 Derriathiad IV f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -394,14 +394,14 @@ planets:
         radius: 4,954.4 km<br/>(0.778 Yrths)
         surface_area: 3.085 × 10<sup>08</sup> km<sup>2</sup><br/>(0.605 Yrths)
         volume: 5.094 × 10<sup>11</sup> km<sup>3</sup><br/>(0.470 Yrths)
-        mass: 1.294 × 10<sup>24</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 1.294 × 10<sup>24</sup> kg<br />(0.217 Yrths)
         density: 2.540 g/cm<sup>3</sup>
         surface_gravity: 3.514 m/s<sup>2</sup><br />(0.358 g<sub>0</sub>)
         escape_velocity: 5.905 km/s<br />(21,258 km/h)
         rotation_period: 31.635 d
         axial_tilt: 22.52°
         albedo: 0.30
-        temperature: 1191 K<br />(918 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0024 Derriathiad IV g
         type: Icy
         formationType: Captured
@@ -414,14 +414,14 @@ planets:
         radius: 10,362.9 km<br/>(1.627 Yrths)
         surface_area: 1.349 × 10<sup>09</sup> km<sup>2</sup><br/>(2.646 Yrths)
         volume: 4.662 × 10<sup>12</sup> km<sup>3</sup><br/>(4.303 Yrths)
-        mass: 3.596 × 10<sup>24</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 3.596 × 10<sup>24</sup> kg<br />(0.602 Yrths)
         density: 0.771 g/cm<sup>3</sup>
         surface_gravity: 2.232 m/s<sup>2</sup><br />(0.228 g<sub>0</sub>)
         escape_velocity: 6.806 km/s<br />(24,502 km/h)
         rotation_period: 69.199 d
         axial_tilt: 20.64°
         albedo: 0.30
-        temperature: 1136 K<br />(863 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0024 Derriathiad IV h
         type: Rocky
         formationType: Accreted
@@ -434,14 +434,14 @@ planets:
         radius: 16,053.5 km<br/>(2.520 Yrths)
         surface_area: 3.239 × 10<sup>09</sup> km<sup>2</sup><br/>(6.349 Yrths)
         volume: 1.733 × 10<sup>13</sup> km<sup>3</sup><br/>(15.999 Yrths)
-        mass: 5.423 × 10<sup>25</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 5.423 × 10<sup>25</sup> kg<br />(9.081 Yrths)
         density: 3.130 g/cm<sup>3</sup>
         surface_gravity: 14.027 m/s<sup>2</sup><br />(1.430 g<sub>0</sub>)
         escape_velocity: 21.236 km/s<br />(76,449 km/h)
         rotation_period: 35.912 d
         axial_tilt: 21.42°
         albedo: 0.30
-        temperature: 1033 K<br />(759 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0024 Derriathiad IV i
         type: Icy
         formationType: Captured
@@ -454,14 +454,14 @@ planets:
         radius: 18,958.5 km<br/>(2.976 Yrths)
         surface_area: 4.517 × 10<sup>09</sup> km<sup>2</sup><br/>(8.855 Yrths)
         volume: 2.854 × 10<sup>13</sup> km<sup>3</sup><br/>(26.351 Yrths)
-        mass: 4.672 × 10<sup>25</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 4.672 × 10<sup>25</sup> kg<br />(7.823 Yrths)
         density: 1.637 g/cm<sup>3</sup>
         surface_gravity: 8.664 m/s<sup>2</sup><br />(0.883 g<sub>0</sub>)
         escape_velocity: 18.137 km/s<br />(65,293 km/h)
         rotation_period: 72.069 d
         axial_tilt: 16.34°
         albedo: 0.30
-        temperature: 985 K<br />(711 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0024 Derriathiad IV j
         type: Icy
         formationType: Accreted
@@ -474,14 +474,14 @@ planets:
         radius: 7,741.9 km<br/>(1.215 Yrths)
         surface_area: 7.532 × 10<sup>08</sup> km<sup>2</sup><br/>(1.477 Yrths)
         volume: 1.944 × 10<sup>12</sup> km<sup>3</sup><br/>(1.794 Yrths)
-        mass: 3.693 × 10<sup>24</sup> kg<br />(9.174846519530231 Yrths)
+        mass: 3.693 × 10<sup>24</sup> kg<br />(0.618 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 4.107 m/s<sup>2</sup><br />(0.419 g<sub>0</sub>)
         escape_velocity: 7.980 km/s<br />(28,727 km/h)
         rotation_period: 52.903 d
         axial_tilt: 15.04°
         albedo: 0.30
-        temperature: 939 K<br />(666 °C)
+        temperature: 159 K<br />(-114 °C)
   - name: 0024 Derriathiad V
     type: Terrestrial
     aphelion: 442,618,293 km<br />2.959 AU
@@ -493,7 +493,7 @@ planets:
     radius: 5,971.4 km<br/>(0.937 Yrths)
     surface_area: 4.481 × 10<sup>08</sup> km<sup>2</sup><br/>(0.878 Yrths)
     volume: 8.919 × 10<sup>11</sup> km<sup>3</sup><br/>(0.823 Yrths)
-    mass: 4.887 × 10<sup>24</sup> kg<br />(0.8183511143076061 Yrths)
+    mass: 4.887 × 10<sup>24</sup> kg<br />(0.82 Yrths)
     density: 5.480 g/cm<sup>3</sup>
     surface_gravity: 9.135 m/s<sup>2</sup><br />(0.932 g<sub>0</sub>)
     escape_velocity: 10.452 km/s<br />(37,628 km/h)
@@ -514,14 +514,14 @@ planets:
         radius: 2,093.4 km<br/>(0.329 Yrths)
         surface_area: 5.507 × 10<sup>07</sup> km<sup>2</sup><br/>(0.108 Yrths)
         volume: 3.843 × 10<sup>10</sup> km<sup>3</sup><br/>(0.035 Yrths)
-        mass: 8.746 × 10<sup>22</sup> kg<br />(0.8183511143076061 Yrths)
+        mass: 8.746 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 1.330 m/s<sup>2</sup><br />(0.136 g<sub>0</sub>)
         escape_velocity: 2.362 km/s<br />(8,502 km/h)
         rotation_period: 36.087 d
         axial_tilt: 14.15°
         albedo: 0.30
-        temperature: 1762 K<br />(1489 °C)
+        temperature: 124 K<br />(-149 °C)
       - name: 0024 Derriathiad V b
         type: Icy
         formationType: Captured
@@ -534,14 +534,14 @@ planets:
         radius: 3,111.8 km<br/>(0.488 Yrths)
         surface_area: 1.217 × 10<sup>08</sup> km<sup>2</sup><br/>(0.239 Yrths)
         volume: 1.262 × 10<sup>11</sup> km<sup>3</sup><br/>(0.117 Yrths)
-        mass: 1.387 × 10<sup>23</sup> kg<br />(0.8183511143076061 Yrths)
+        mass: 1.387 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 1.099 g/cm<sup>3</sup>
         surface_gravity: 0.954 m/s<sup>2</sup><br />(0.097 g<sub>0</sub>)
         escape_velocity: 2.439 km/s<br />(8,780 km/h)
         rotation_period: 52.142 d
         axial_tilt: 21.15°
         albedo: 0.30
-        temperature: 1680 K<br />(1407 °C)
+        temperature: 124 K<br />(-149 °C)
   - name: 0024 Derriathiad VI
     type: Gas giant
     aphelion: 679,604,460 km<br />4.543 AU
@@ -553,7 +553,7 @@ planets:
     radius: 141.4 km<br/>(0.022 Yrths)
     surface_area: 2.514 × 10<sup>05</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.185 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.280 × 10<sup>26</sup> kg<br />(38.17695149753585 Yrths)
+    mass: 2.280 × 10<sup>26</sup> kg<br />(38.18 Yrths)
     density: 19239351.914 g/cm<sup>3</sup>
     surface_gravity: 759700.596 m/s<sup>2</sup><br />(77467.901 g<sub>0</sub>)
     escape_velocity: 463.879 km/s<br />(1,669,964 km/h)
@@ -574,14 +574,14 @@ planets:
         radius: 64,409.9 km<br/>(10.110 Yrths)
         surface_area: 5.213 × 10<sup>10</sup> km<sup>2</sup><br/>(102.209 Yrths)
         volume: 1.119 × 10<sup>15</sup> km<sup>3</sup><br/>(1033.319 Yrths)
-        mass: 1.312 × 10<sup>27</sup> kg<br />(38.17695149753585 Yrths)
+        mass: 1.312 × 10<sup>27</sup> kg<br />(219.618 Yrths)
         density: 1.172 g/cm<sup>3</sup>
         surface_gravity: 21.072 m/s<sup>2</sup><br />(2.149 g<sub>0</sub>)
         escape_velocity: 52.136 km/s<br />(187,688 km/h)
         rotation_period: 80.440 d
         axial_tilt: 17.27°
         albedo: 0.30
-        temperature: 599 K<br />(326 °C)
+        temperature: 97 K<br />(-176 °C)
       - name: 0024 Derriathiad VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -594,14 +594,14 @@ planets:
         radius: 53,106.4 km<br/>(8.336 Yrths)
         surface_area: 3.544 × 10<sup>10</sup> km<sup>2</sup><br/>(69.483 Yrths)
         volume: 6.274 × 10<sup>14</sup> km<sup>3</sup><br/>(579.185 Yrths)
-        mass: 1.534 × 10<sup>27</sup> kg<br />(38.17695149753585 Yrths)
+        mass: 1.534 × 10<sup>27</sup> kg<br />(256.879 Yrths)
         density: 2.445 g/cm<sup>3</sup>
         surface_gravity: 36.255 m/s<sup>2</sup><br />(3.697 g<sub>0</sub>)
         escape_velocity: 62.097 km/s<br />(223,548 km/h)
         rotation_period: 37.014 d
         axial_tilt: 20.35°
         albedo: 0.30
-        temperature: 571 K<br />(298 °C)
+        temperature: 97 K<br />(-176 °C)
       - name: 0024 Derriathiad VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -614,14 +614,14 @@ planets:
         radius: 54,637.7 km<br/>(8.576 Yrths)
         surface_area: 3.751 × 10<sup>10</sup> km<sup>2</sup><br/>(73.548 Yrths)
         volume: 6.832 × 10<sup>14</sup> km<sup>3</sup><br/>(630.745 Yrths)
-        mass: 1.368 × 10<sup>27</sup> kg<br />(38.17695149753585 Yrths)
+        mass: 1.368 × 10<sup>27</sup> kg<br />(229.035 Yrths)
         density: 2.002 g/cm<sup>3</sup>
         surface_gravity: 30.539 m/s<sup>2</sup><br />(3.114 g<sub>0</sub>)
         escape_velocity: 57.807 km/s<br />(208,106 km/h)
         rotation_period: 47.121 d
         axial_tilt: 25.88°
         albedo: 0.30
-        temperature: 390 K<br />(117 °C)
+        temperature: 97 K<br />(-176 °C)
       - name: 0024 Derriathiad VI d
         type: Rocky
         formationType: Impact formed
@@ -634,14 +634,14 @@ planets:
         radius: 57,168.6 km<br/>(8.973 Yrths)
         surface_area: 4.107 × 10<sup>10</sup> km<sup>2</sup><br/>(80.519 Yrths)
         volume: 7.826 × 10<sup>14</sup> km<sup>3</sup><br/>(722.522 Yrths)
-        mass: 2.000 × 10<sup>27</sup> kg<br />(38.17695149753585 Yrths)
+        mass: 2.000 × 10<sup>27</sup> kg<br />(334.950 Yrths)
         density: 2.556 g/cm<sup>3</sup>
         surface_gravity: 40.794 m/s<sup>2</sup><br />(4.160 g<sub>0</sub>)
         escape_velocity: 68.342 km/s<br />(246,032 km/h)
         rotation_period: 33.635 d
         axial_tilt: 18.08°
         albedo: 0.30
-        temperature: 355 K<br />(81 °C)
+        temperature: 97 K<br />(-176 °C)
       - name: 0024 Derriathiad VI e
         type: Icy
         formationType: Accreted
@@ -654,14 +654,14 @@ planets:
         radius: 69,676.8 km<br/>(10.937 Yrths)
         surface_area: 6.101 × 10<sup>10</sup> km<sup>2</sup><br/>(119.608 Yrths)
         volume: 1.417 × 10<sup>15</sup> km<sup>3</sup><br/>(1308.104 Yrths)
-        mass: 1.605 × 10<sup>27</sup> kg<br />(38.17695149753585 Yrths)
+        mass: 1.605 × 10<sup>27</sup> kg<br />(268.690 Yrths)
         density: 1.132 g/cm<sup>3</sup>
         surface_gravity: 22.030 m/s<sup>2</sup><br />(2.246 g<sub>0</sub>)
         escape_velocity: 55.445 km/s<br />(199,601 km/h)
         rotation_period: 48.726 d
         axial_tilt: 11.59°
         albedo: 0.30
-        temperature: 254 K<br />(-19 °C)
+        temperature: 97 K<br />(-176 °C)
       - name: 0024 Derriathiad VI f
         type: Dwarf planet
         formationType: Captured
@@ -674,14 +674,14 @@ planets:
         radius: 72,233.5 km<br/>(11.338 Yrths)
         surface_area: 6.557 × 10<sup>10</sup> km<sup>2</sup><br/>(128.547 Yrths)
         volume: 1.579 × 10<sup>15</sup> km<sup>3</sup><br/>(1457.450 Yrths)
-        mass: 2.937 × 10<sup>27</sup> kg<br />(38.17695149753585 Yrths)
+        mass: 2.937 × 10<sup>27</sup> kg<br />(491.822 Yrths)
         density: 1.860 g/cm<sup>3</sup>
         surface_gravity: 37.520 m/s<sup>2</sup><br />(3.826 g<sub>0</sub>)
         escape_velocity: 73.674 km/s<br />(265,225 km/h)
         rotation_period: 37.171 d
         axial_tilt: 47.94°
         albedo: 0.30
-        temperature: 191 K<br />(-82 °C)
+        temperature: 97 K<br />(-176 °C)
       - name: 0024 Derriathiad VI g
         type: Ice/rock hybrid
         formationType: Captured
@@ -694,14 +694,14 @@ planets:
         radius: 46,947.1 km<br/>(7.369 Yrths)
         surface_area: 2.770 × 10<sup>10</sup> km<sup>2</sup><br/>(54.300 Yrths)
         volume: 4.334 × 10<sup>14</sup> km<sup>3</sup><br/>(400.132 Yrths)
-        mass: 1.066 × 10<sup>27</sup> kg<br />(38.17695149753585 Yrths)
+        mass: 1.066 × 10<sup>27</sup> kg<br />(178.425 Yrths)
         density: 2.458 g/cm<sup>3</sup>
         surface_gravity: 32.224 m/s<sup>2</sup><br />(3.286 g<sub>0</sub>)
         escape_velocity: 55.043 km/s<br />(198,155 km/h)
         rotation_period: 56.021 d
         axial_tilt: 18.23°
         albedo: 0.30
-        temperature: 108 K<br />(-165 °C)
+        temperature: 97 K<br />(-176 °C)
       - name: 0024 Derriathiad VI h
         type: Icy
         formationType: Captured
@@ -714,14 +714,14 @@ planets:
         radius: 64,011.7 km<br/>(10.047 Yrths)
         surface_area: 5.149 × 10<sup>10</sup> km<sup>2</sup><br/>(100.949 Yrths)
         volume: 1.099 × 10<sup>15</sup> km<sup>3</sup><br/>(1014.273 Yrths)
-        mass: 1.085 × 10<sup>27</sup> kg<br />(38.17695149753585 Yrths)
+        mass: 1.085 × 10<sup>27</sup> kg<br />(181.726 Yrths)
         density: 0.988 g/cm<sup>3</sup>
         surface_gravity: 17.654 m/s<sup>2</sup><br />(1.800 g<sub>0</sub>)
         escape_velocity: 47.573 km/s<br />(171,261 km/h)
         rotation_period: 72.073 d
         axial_tilt: 21.32°
         albedo: 0.30
-        temperature: 103 K<br />(-170 °C)
+        temperature: 97 K<br />(-176 °C)
   - name: 0024 Derriathiad VII
     type: Large terrestrial
     aphelion: 1,109,466,047 km<br />7.416 AU
@@ -733,14 +733,14 @@ planets:
     radius: 10,174.5 km<br/>(1.597 Yrths)
     surface_area: 1.301 × 10<sup>09</sup> km<sup>2</sup><br/>(2.550 Yrths)
     volume: 4.412 × 10<sup>12</sup> km<sup>3</sup><br/>(4.073 Yrths)
-    mass: 2.908 × 10<sup>25</sup> kg<br />(4.869423563195798 Yrths)
+    mass: 2.908 × 10<sup>25</sup> kg<br />(4.87 Yrths)
     density: 6.591 g/cm<sup>3</sup>
     surface_gravity: 18.724 m/s<sup>2</sup><br />(1.909 g<sub>0</sub>)
     escape_velocity: 19.533 km/s<br />(70,317 km/h)
     rotation_period: 0.581 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 98 K<br />(-175 °C)
+    temperature: 91 K<br />(-182 °C)
     surface_pressure: 312 kPa<br />(3 atm)
     composition:
       - 68.5461% nitrogen
@@ -758,14 +758,14 @@ planets:
         radius: 2,553.7 km<br/>(0.401 Yrths)
         surface_area: 8.195 × 10<sup>07</sup> km<sup>2</sup><br/>(0.161 Yrths)
         volume: 6.976 × 10<sup>10</sup> km<sup>3</sup><br/>(0.064 Yrths)
-        mass: 1.983 × 10<sup>23</sup> kg<br />(4.869423563195798 Yrths)
+        mass: 1.983 × 10<sup>23</sup> kg<br />(0.033 Yrths)
         density: 2.843 g/cm<sup>3</sup>
         surface_gravity: 2.027 m/s<sup>2</sup><br />(0.207 g<sub>0</sub>)
         escape_velocity: 3.219 km/s<br />(11,590 km/h)
         rotation_period: 57.294 d
         axial_tilt: 11.80°
         albedo: 0.30
-        temperature: 804 K<br />(531 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0024 Derriathiad VII b
         type: Rocky
         formationType: Captured
@@ -778,14 +778,14 @@ planets:
         radius: 9,182.2 km<br/>(1.441 Yrths)
         surface_area: 1.060 × 10<sup>09</sup> km<sup>2</sup><br/>(2.077 Yrths)
         volume: 3.243 × 10<sup>12</sup> km<sup>3</sup><br/>(2.994 Yrths)
-        mass: 1.094 × 10<sup>25</sup> kg<br />(4.869423563195798 Yrths)
+        mass: 1.094 × 10<sup>25</sup> kg<br />(1.833 Yrths)
         density: 3.375 g/cm<sup>3</sup>
         surface_gravity: 8.652 m/s<sup>2</sup><br />(0.882 g<sub>0</sub>)
         escape_velocity: 12.614 km/s<br />(45,409 km/h)
         rotation_period: 36.289 d
         axial_tilt: 18.80°
         albedo: 0.30
-        temperature: 767 K<br />(494 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 0024 Derriathiad VII c
         type: Rocky
         formationType: Captured
@@ -798,12 +798,12 @@ planets:
         radius: 2,522.6 km<br/>(0.396 Yrths)
         surface_area: 7.996 × 10<sup>07</sup> km<sup>2</sup><br/>(0.157 Yrths)
         volume: 6.724 × 10<sup>10</sup> km<sup>3</sup><br/>(0.062 Yrths)
-        mass: 2.114 × 10<sup>23</sup> kg<br />(4.869423563195798 Yrths)
+        mass: 2.114 × 10<sup>23</sup> kg<br />(0.035 Yrths)
         density: 3.144 g/cm<sup>3</sup>
         surface_gravity: 2.214 m/s<sup>2</sup><br />(0.226 g<sub>0</sub>)
         escape_velocity: 3.345 km/s<br />(12,041 km/h)
         rotation_period: 45.789 d
         axial_tilt: 9.96°
         albedo: 0.30
-        temperature: 731 K<br />(458 °C)
+        temperature: 76 K<br />(-197 °C)
 ---

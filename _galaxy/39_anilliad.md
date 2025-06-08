@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      39 Anilliad is a star in the constellation Anil
+      39 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 237.73 ly
 apparent_magnitude: 10.62
 absolute_magnitude: 6.31

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0006 Niokeroiad C is a star in the constellation Niokero
+      0006 Niokeroiad C is a star in the constellation <a href="niokero.html">Niokero</a>
 distance: 3252.24 ly
 apparent_magnitude: 7.62
 absolute_magnitude: -2.37

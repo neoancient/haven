@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1843 Saithiad is a star in the constellation Saith
+      1843 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 968.83 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 3.61

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2515 Tanashad is a star in the constellation Tanas
+      2515 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 429.34 ly
 apparent_magnitude: 10.31
 absolute_magnitude: 4.71

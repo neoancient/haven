@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6303 Anilliad is a star in the constellation Anil
+      6303 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 196.05 ly
 apparent_magnitude: 18.46
 absolute_magnitude: 14.57

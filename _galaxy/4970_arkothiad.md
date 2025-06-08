@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4970 Arkothiad is a star in the constellation Arkoth
+      4970 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 236.39 ly
 apparent_magnitude: 8.14
 absolute_magnitude: 3.84

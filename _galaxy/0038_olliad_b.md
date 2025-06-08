@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0038 Olliad B is a star in the constellation Ol
+      0038 Olliad B is a star in the constellation <a href="ol.html">Ol</a>
 distance: 99.97 ly
 apparent_magnitude: 11.60
 absolute_magnitude: 9.17

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      γ Derriathiad A is a star in the constellation Derriath
+      γ Derriathiad A is a star in the constellation <a href="derriath.html">Derriath</a>
 distance: 283.14 ly
 apparent_magnitude: 3.27
 absolute_magnitude: -1.42

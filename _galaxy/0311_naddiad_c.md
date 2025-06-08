@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0311 Naddiad C is a star in the constellation Naddi
+      0311 Naddiad C is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 205.50 ly
 apparent_magnitude: 9.23
 absolute_magnitude: 5.23
@@ -31,7 +31,7 @@ planets:
     radius: 173.4 km<br/>(0.027 Yrths)
     surface_area: 3.779 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.185 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.405 × 10<sup>26</sup> kg<br />(107.24789909353079 Yrths)
+    mass: 6.405 × 10<sup>26</sup> kg<br />(107.25 Yrths)
     density: 29315978.252 g/cm<sup>3</sup>
     surface_gravity: 1419430.995 m/s<sup>2</sup><br />(144741.680 g<sub>0</sub>)
     escape_velocity: 702.133 km/s<br />(2,527,680 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 118,719.0 km<br/>(18.634 Yrths)
         surface_area: 1.771 × 10<sup>11</sup> km<sup>2</sup><br/>(347.237 Yrths)
         volume: 7.009 × 10<sup>15</sup> km<sup>3</sup><br/>(6470.509 Yrths)
-        mass: 6.767 × 10<sup>27</sup> kg<br />(107.24789909353079 Yrths)
+        mass: 6.767 × 10<sup>27</sup> kg<br />(1133.080 Yrths)
         density: 0.965 g/cm<sup>3</sup>
         surface_gravity: 32.000 m/s<sup>2</sup><br />(3.263 g<sub>0</sub>)
         escape_velocity: 87.226 km/s<br />(314,015 km/h)
         rotation_period: 66.377 d
         axial_tilt: 13.47°
         albedo: 0.30
-        temperature: 1708 K<br />(1435 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0311 Naddiad C I b
         type: Icy
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 171,681.2 km<br/>(26.947 Yrths)
         surface_area: 3.704 × 10<sup>11</sup> km<sup>2</sup><br/>(726.157 Yrths)
         volume: 2.120 × 10<sup>16</sup> km<sup>3</sup><br/>(19567.956 Yrths)
-        mass: 2.907 × 10<sup>28</sup> kg<br />(107.24789909353079 Yrths)
+        mass: 2.907 × 10<sup>28</sup> kg<br />(4867.409 Yrths)
         density: 1.371 g/cm<sup>3</sup>
         surface_gravity: 65.734 m/s<sup>2</sup><br />(6.703 g<sub>0</sub>)
         escape_velocity: 150.337 km/s<br />(541,212 km/h)
         rotation_period: 70.292 d
         axial_tilt: 14.11°
         albedo: 0.30
-        temperature: 1628 K<br />(1355 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0311 Naddiad C I c
         type: Dwarf planet
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 84,703.5 km<br/>(13.295 Yrths)
         surface_area: 9.016 × 10<sup>10</sup> km<sup>2</sup><br/>(176.761 Yrths)
         volume: 2.546 × 10<sup>15</sup> km<sup>3</sup><br/>(2350.070 Yrths)
-        mass: 4.749 × 10<sup>27</sup> kg<br />(107.24789909353079 Yrths)
+        mass: 4.749 × 10<sup>27</sup> kg<br />(795.271 Yrths)
         density: 1.866 g/cm<sup>3</sup>
         surface_gravity: 44.121 m/s<sup>2</sup><br />(4.499 g<sub>0</sub>)
         escape_velocity: 86.514 km/s<br />(311,449 km/h)
         rotation_period: 51.200 d
         axial_tilt: 34.13°
         albedo: 0.30
-        temperature: 1112 K<br />(839 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0311 Naddiad C I d
         type: Icy
         formationType: Impact formed
@@ -112,14 +112,14 @@ planets:
         radius: 126,007.3 km<br/>(19.778 Yrths)
         surface_area: 1.995 × 10<sup>11</sup> km<sup>2</sup><br/>(391.180 Yrths)
         volume: 8.381 × 10<sup>15</sup> km<sup>3</sup><br/>(7736.854 Yrths)
-        mass: 8.623 × 10<sup>27</sup> kg<br />(107.24789909353079 Yrths)
+        mass: 8.623 × 10<sup>27</sup> kg<br />(1443.847 Yrths)
         density: 1.029 g/cm<sup>3</sup>
         surface_gravity: 36.196 m/s<sup>2</sup><br />(3.691 g<sub>0</sub>)
         escape_velocity: 95.574 km/s<br />(344,067 km/h)
         rotation_period: 58.598 d
         axial_tilt: 14.67°
         albedo: 0.30
-        temperature: 919 K<br />(646 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0311 Naddiad C I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 122,828.6 km<br/>(19.279 Yrths)
         surface_area: 1.896 × 10<sup>11</sup> km<sup>2</sup><br/>(371.692 Yrths)
         volume: 7.762 × 10<sup>15</sup> km<sup>3</sup><br/>(7165.976 Yrths)
-        mass: 1.495 × 10<sup>28</sup> kg<br />(107.24789909353079 Yrths)
+        mass: 1.495 × 10<sup>28</sup> kg<br />(2504.024 Yrths)
         density: 1.927 g/cm<sup>3</sup>
         surface_gravity: 66.066 m/s<sup>2</sup><br />(6.737 g<sub>0</sub>)
         escape_velocity: 127.482 km/s<br />(458,934 km/h)
         rotation_period: 49.464 d
         axial_tilt: 22.43°
         albedo: 0.30
-        temperature: 628 K<br />(355 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0311 Naddiad C I f
         type: Icy
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 104,083.9 km<br/>(16.337 Yrths)
         surface_area: 1.361 × 10<sup>11</sup> km<sup>2</sup><br/>(266.902 Yrths)
         volume: 4.723 × 10<sup>15</sup> km<sup>3</sup><br/>(4360.419 Yrths)
-        mass: 8.624 × 10<sup>27</sup> kg<br />(107.24789909353079 Yrths)
+        mass: 8.624 × 10<sup>27</sup> kg<br />(1444.029 Yrths)
         density: 1.826 g/cm<sup>3</sup>
         surface_gravity: 53.057 m/s<sup>2</sup><br />(5.410 g<sub>0</sub>)
         escape_velocity: 105.166 km/s<br />(378,596 km/h)
         rotation_period: 42.327 d
         axial_tilt: 23.19°
         albedo: 0.30
-        temperature: 495 K<br />(222 °C)
+        temperature: 324 K<br />(51 °C)
       - name: 0311 Naddiad C I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -172,14 +172,14 @@ planets:
         radius: 75,676.1 km<br/>(11.878 Yrths)
         surface_area: 7.197 × 10<sup>10</sup> km<sup>2</sup><br/>(141.092 Yrths)
         volume: 1.815 × 10<sup>15</sup> km<sup>3</sup><br/>(1675.918 Yrths)
-        mass: 3.880 × 10<sup>27</sup> kg<br />(107.24789909353079 Yrths)
+        mass: 3.880 × 10<sup>27</sup> kg<br />(649.752 Yrths)
         density: 2.137 g/cm<sup>3</sup>
         surface_gravity: 45.161 m/s<sup>2</sup><br />(4.605 g<sub>0</sub>)
         escape_velocity: 82.732 km/s<br />(297,834 km/h)
         rotation_period: 38.847 d
         axial_tilt: 17.98°
         albedo: 0.30
-        temperature: 307 K<br />(34 °C)
+        temperature: 324 K<br />(51 °C)
   - name: 0311 Naddiad C II
     type: Gas giant
     aphelion: 173,650,566 km<br />1.161 AU
@@ -191,14 +191,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.717 g/cm<sup>3</sup>
     surface_gravity: 31873.849 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 710 K<br />(437 °C)
+    temperature: 662 K<br />(389 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -214,14 +214,14 @@ planets:
         radius: 1,066.2 km<br/>(0.167 Yrths)
         surface_area: 1.428 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 5.077 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.422 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.422 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 0.833 m/s<sup>2</sup><br />(0.085 g<sub>0</sub>)
         escape_velocity: 1.334 km/s<br />(4,803 km/h)
         rotation_period: 33.514 d
         axial_tilt: 15.26°
         albedo: 0.30
-        temperature: 3961 K<br />(3688 °C)
+        temperature: 247 K<br />(-27 °C)
       - name: 0311 Naddiad C II b
         type: Icy
         formationType: Accreted
@@ -234,14 +234,14 @@ planets:
         radius: 984.0 km<br/>(0.154 Yrths)
         surface_area: 1.217 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 3.991 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.045 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.045 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.014 g/cm<sup>3</sup>
         surface_gravity: 0.278 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.741 km/s<br />(2,667 km/h)
         rotation_period: 55.057 d
         axial_tilt: 16.28°
         albedo: 0.30
-        temperature: 2705 K<br />(2432 °C)
+        temperature: 247 K<br />(-27 °C)
       - name: 0311 Naddiad C II c
         type: Rocky
         formationType: Impact formed
@@ -254,14 +254,14 @@ planets:
         radius: 664.2 km<br/>(0.104 Yrths)
         surface_area: 5.543 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.227 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.570 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.570 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.909 g/cm<sup>3</sup>
         surface_gravity: 0.539 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 0.847 km/s<br />(3,050 km/h)
         rotation_period: 37.513 d
         axial_tilt: 6.42°
         albedo: 0.30
-        temperature: 2580 K<br />(2306 °C)
+        temperature: 247 K<br />(-27 °C)
       - name: 0311 Naddiad C II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -274,14 +274,14 @@ planets:
         radius: 653.7 km<br/>(0.103 Yrths)
         surface_area: 5.371 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.170 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.020 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.020 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.581 g/cm<sup>3</sup>
         surface_gravity: 0.471 m/s<sup>2</sup><br />(0.048 g<sub>0</sub>)
         escape_velocity: 0.785 km/s<br />(2,827 km/h)
         rotation_period: 38.178 d
         axial_tilt: 29.92°
         albedo: 0.30
-        temperature: 2236 K<br />(1963 °C)
+        temperature: 247 K<br />(-27 °C)
       - name: 0311 Naddiad C II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -294,14 +294,14 @@ planets:
         radius: 669.5 km<br/>(0.105 Yrths)
         surface_area: 5.632 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.257 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.887 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.887 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.297 g/cm<sup>3</sup>
         surface_gravity: 0.429 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 0.759 km/s<br />(2,731 km/h)
         rotation_period: 47.731 d
         axial_tilt: 25.87°
         albedo: 0.30
-        temperature: 1848 K<br />(1575 °C)
+        temperature: 247 K<br />(-27 °C)
       - name: 0311 Naddiad C II f
         type: Icy
         formationType: Impact formed
@@ -314,14 +314,14 @@ planets:
         radius: 796.9 km<br/>(0.125 Yrths)
         surface_area: 7.981 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.120 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.092 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.092 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.458 g/cm<sup>3</sup>
         surface_gravity: 0.325 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.720 km/s<br />(2,591 km/h)
         rotation_period: 41.682 d
         axial_tilt: 21.57°
         albedo: 0.30
-        temperature: 1456 K<br />(1183 °C)
+        temperature: 247 K<br />(-27 °C)
       - name: 0311 Naddiad C II g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -334,14 +334,14 @@ planets:
         radius: 638.8 km<br/>(0.100 Yrths)
         surface_area: 5.128 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.092 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.056 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.056 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.799 g/cm<sup>3</sup>
         surface_gravity: 0.499 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 0.799 km/s<br />(2,877 km/h)
         rotation_period: 31.652 d
         axial_tilt: 10.65°
         albedo: 0.30
-        temperature: 822 K<br />(549 °C)
+        temperature: 247 K<br />(-27 °C)
       - name: 0311 Naddiad C II h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -354,14 +354,14 @@ planets:
         radius: 821.2 km<br/>(0.129 Yrths)
         surface_area: 8.473 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.319 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.364 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.364 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.882 g/cm<sup>3</sup>
         surface_gravity: 0.431 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 0.842 km/s<br />(3,032 km/h)
         rotation_period: 43.824 d
         axial_tilt: 17.56°
         albedo: 0.30
-        temperature: 535 K<br />(262 °C)
+        temperature: 247 K<br />(-27 °C)
       - name: 0311 Naddiad C II i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -374,14 +374,14 @@ planets:
         radius: 945.7 km<br/>(0.148 Yrths)
         surface_area: 1.124 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.542 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.883 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.883 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.943 g/cm<sup>3</sup>
         surface_gravity: 0.513 m/s<sup>2</sup><br />(0.052 g<sub>0</sub>)
         escape_velocity: 0.986 km/s<br />(3,549 km/h)
         rotation_period: 52.056 d
         axial_tilt: 12.37°
         albedo: 0.30
-        temperature: 464 K<br />(191 °C)
+        temperature: 247 K<br />(-27 °C)
       - name: 0311 Naddiad C II j
         type: Dwarf planet
         formationType: Accreted
@@ -394,14 +394,14 @@ planets:
         radius: 917.5 km<br/>(0.144 Yrths)
         surface_area: 1.058 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.235 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.882 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.882 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 0.307 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.752 km/s<br />(2,706 km/h)
         rotation_period: 45.635 d
         axial_tilt: 32.79°
         albedo: 0.30
-        temperature: 262 K<br />(-11 °C)
+        temperature: 247 K<br />(-27 °C)
   - name: 0311 Naddiad C III
     type: Gas giant
     aphelion: 297,936,002 km<br />1.992 AU
@@ -413,7 +413,7 @@ planets:
     radius: 201.9 km<br/>(0.032 Yrths)
     surface_area: 5.121 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.446 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.064 × 10<sup>27</sup> kg<br />(178.17898109707122 Yrths)
+    mass: 1.064 × 10<sup>27</sup> kg<br />(178.18 Yrths)
     density: 30882567.805 g/cm<sup>3</sup>
     surface_gravity: 1740508.647 m/s<sup>2</sup><br />(177482.489 g<sub>0</sub>)
     escape_velocity: 838.836 km/s<br />(3,019,809 km/h)
@@ -434,14 +434,14 @@ planets:
         radius: 143,162.9 km<br/>(22.471 Yrths)
         surface_area: 2.576 × 10<sup>11</sup> km<sup>2</sup><br/>(504.947 Yrths)
         volume: 1.229 × 10<sup>16</sup> km<sup>3</sup><br/>(11346.675 Yrths)
-        mass: 1.742 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 1.742 × 10<sup>28</sup> kg<br />(2916.581 Yrths)
         density: 1.417 g/cm<sup>3</sup>
         surface_gravity: 56.643 m/s<sup>2</sup><br />(5.776 g<sub>0</sub>)
         escape_velocity: 127.438 km/s<br />(458,777 km/h)
         rotation_period: 67.417 d
         axial_tilt: 19.71°
         albedo: 0.30
-        temperature: 1098 K<br />(825 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III b
         type: Icy
         formationType: Accreted
@@ -454,14 +454,14 @@ planets:
         radius: 147,652.5 km<br/>(23.176 Yrths)
         surface_area: 2.740 × 10<sup>11</sup> km<sup>2</sup><br/>(537.114 Yrths)
         volume: 1.348 × 10<sup>16</sup> km<sup>3</sup><br/>(12447.989 Yrths)
-        mass: 1.518 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 1.518 × 10<sup>28</sup> kg<br />(2541.504 Yrths)
         density: 1.126 g/cm<sup>3</sup>
         surface_gravity: 46.403 m/s<sup>2</sup><br />(4.732 g<sub>0</sub>)
         escape_velocity: 117.139 km/s<br />(421,702 km/h)
         rotation_period: 63.575 d
         axial_tilt: 6.44°
         albedo: 0.30
-        temperature: 715 K<br />(442 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -474,14 +474,14 @@ planets:
         radius: 123,967.7 km<br/>(19.458 Yrths)
         surface_area: 1.931 × 10<sup>11</sup> km<sup>2</sup><br/>(378.618 Yrths)
         volume: 7.980 × 10<sup>15</sup> km<sup>3</sup><br/>(7367.197 Yrths)
-        mass: 1.653 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 1.653 × 10<sup>28</sup> kg<br />(2768.079 Yrths)
         density: 2.071 g/cm<sup>3</sup>
         surface_gravity: 71.696 m/s<sup>2</sup><br />(7.311 g<sub>0</sub>)
         escape_velocity: 133.418 km/s<br />(480,303 km/h)
         rotation_period: 46.655 d
         axial_tilt: 20.15°
         albedo: 0.30
-        temperature: 488 K<br />(215 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III d
         type: Rocky
         formationType: Impact formed
@@ -494,14 +494,14 @@ planets:
         radius: 107,694.6 km<br/>(16.904 Yrths)
         surface_area: 1.457 × 10<sup>11</sup> km<sup>2</sup><br/>(285.741 Yrths)
         volume: 5.232 × 10<sup>15</sup> km<sup>3</sup><br/>(4830.134 Yrths)
-        mass: 1.567 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 1.567 × 10<sup>28</sup> kg<br />(2623.867 Yrths)
         density: 2.995 g/cm<sup>3</sup>
         surface_gravity: 90.051 m/s<sup>2</sup><br />(9.183 g<sub>0</sub>)
         escape_velocity: 139.364 km/s<br />(501,712 km/h)
         rotation_period: 36.264 d
         axial_tilt: 11.36°
         albedo: 0.30
-        temperature: 404 K<br />(130 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -514,14 +514,14 @@ planets:
         radius: 131,988.6 km<br/>(20.717 Yrths)
         surface_area: 2.189 × 10<sup>11</sup> km<sup>2</sup><br/>(429.198 Yrths)
         volume: 9.632 × 10<sup>15</sup> km<sup>3</sup><br/>(8891.730 Yrths)
-        mass: 2.110 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 2.110 × 10<sup>28</sup> kg<br />(3533.917 Yrths)
         density: 2.191 g/cm<sup>3</sup>
         surface_gravity: 80.746 m/s<sup>2</sup><br />(8.234 g<sub>0</sub>)
         escape_velocity: 146.096 km/s<br />(525,945 km/h)
         rotation_period: 47.831 d
         axial_tilt: 23.58°
         albedo: 0.30
-        temperature: 367 K<br />(94 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III f
         type: Rocky
         formationType: Accreted
@@ -534,14 +534,14 @@ planets:
         radius: 108,442.7 km<br/>(17.021 Yrths)
         surface_area: 1.478 × 10<sup>11</sup> km<sup>2</sup><br/>(289.725 Yrths)
         volume: 5.342 × 10<sup>15</sup> km<sup>3</sup><br/>(4931.495 Yrths)
-        mass: 1.494 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 1.494 × 10<sup>28</sup> kg<br />(2501.684 Yrths)
         density: 2.797 g/cm<sup>3</sup>
         surface_gravity: 84.677 m/s<sup>2</sup><br />(8.635 g<sub>0</sub>)
         escape_velocity: 135.611 km/s<br />(488,198 km/h)
         rotation_period: 30.117 d
         axial_tilt: 19.60°
         albedo: 0.30
-        temperature: 333 K<br />(60 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III g
         type: Rocky
         formationType: Impact formed
@@ -554,14 +554,14 @@ planets:
         radius: 99,945.6 km<br/>(15.688 Yrths)
         surface_area: 1.255 × 10<sup>11</sup> km<sup>2</sup><br/>(246.100 Yrths)
         volume: 4.182 × 10<sup>15</sup> km<sup>3</sup><br/>(3860.723 Yrths)
-        mass: 1.506 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 1.506 × 10<sup>28</sup> kg<br />(2520.942 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 100.455 m/s<sup>2</sup><br />(10.244 g<sub>0</sub>)
         escape_velocity: 141.800 km/s<br />(510,481 km/h)
         rotation_period: 37.894 d
         axial_tilt: 17.69°
         albedo: 0.30
-        temperature: 318 K<br />(45 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -574,14 +574,14 @@ planets:
         radius: 147,566.9 km<br/>(23.162 Yrths)
         surface_area: 2.736 × 10<sup>11</sup> km<sup>2</sup><br/>(536.491 Yrths)
         volume: 1.346 × 10<sup>16</sup> km<sup>3</sup><br/>(12426.367 Yrths)
-        mass: 3.704 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 3.704 × 10<sup>28</sup> kg<br />(6202.307 Yrths)
         density: 2.752 g/cm<sup>3</sup>
         surface_gravity: 113.373 m/s<sup>2</sup><br />(11.561 g<sub>0</sub>)
         escape_velocity: 183.046 km/s<br />(658,965 km/h)
         rotation_period: 36.567 d
         axial_tilt: 20.17°
         albedo: 0.30
-        temperature: 217 K<br />(-56 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -594,14 +594,14 @@ planets:
         radius: 111,087.3 km<br/>(17.436 Yrths)
         surface_area: 1.551 × 10<sup>11</sup> km<sup>2</sup><br/>(304.028 Yrths)
         volume: 5.742 × 10<sup>15</sup> km<sup>3</sup><br/>(5301.149 Yrths)
-        mass: 1.513 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 1.513 × 10<sup>28</sup> kg<br />(2532.868 Yrths)
         density: 2.634 g/cm<sup>3</sup>
         surface_gravity: 81.700 m/s<sup>2</sup><br />(8.331 g<sub>0</sub>)
         escape_velocity: 134.819 km/s<br />(485,349 km/h)
         rotation_period: 33.226 d
         axial_tilt: 18.51°
         albedo: 0.30
-        temperature: 148 K<br />(-125 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III j
         type: Icy
         formationType: Captured
@@ -614,14 +614,14 @@ planets:
         radius: 134,429.0 km<br/>(21.100 Yrths)
         surface_area: 2.271 × 10<sup>11</sup> km<sup>2</sup><br/>(445.216 Yrths)
         volume: 1.018 × 10<sup>16</sup> km<sup>3</sup><br/>(9394.121 Yrths)
-        mass: 1.646 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 1.646 × 10<sup>28</sup> kg<br />(2755.668 Yrths)
         density: 1.617 g/cm<sup>3</sup>
         surface_gravity: 60.698 m/s<sup>2</sup><br />(6.190 g<sub>0</sub>)
         escape_velocity: 127.834 km/s<br />(460,201 km/h)
         rotation_period: 40.893 d
         axial_tilt: 12.08°
         albedo: 0.30
-        temperature: 106 K<br />(-167 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -634,14 +634,14 @@ planets:
         radius: 148,495.6 km<br/>(23.308 Yrths)
         surface_area: 2.771 × 10<sup>11</sup> km<sup>2</sup><br/>(543.265 Yrths)
         volume: 1.372 × 10<sup>16</sup> km<sup>3</sup><br/>(12662.449 Yrths)
-        mass: 3.708 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 3.708 × 10<sup>28</sup> kg<br />(6208.592 Yrths)
         density: 2.703 g/cm<sup>3</sup>
         surface_gravity: 112.073 m/s<sup>2</sup><br />(11.428 g<sub>0</sub>)
         escape_velocity: 182.565 km/s<br />(657,234 km/h)
         rotation_period: 51.290 d
         axial_tilt: 19.18°
         albedo: 0.30
-        temperature: 101 K<br />(-172 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 0311 Naddiad C III l
         type: Ice/rock hybrid
         formationType: Captured
@@ -654,14 +654,14 @@ planets:
         radius: 184,719.8 km<br/>(28.994 Yrths)
         surface_area: 4.288 × 10<sup>11</sup> km<sup>2</sup><br/>(840.643 Yrths)
         volume: 2.640 × 10<sup>16</sup> km<sup>3</sup><br/>(24373.479 Yrths)
-        mass: 7.392 × 10<sup>28</sup> kg<br />(178.17898109707122 Yrths)
+        mass: 7.392 × 10<sup>28</sup> kg<br />(12378.476 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 144.403 m/s<sup>2</sup><br />(14.725 g<sub>0</sub>)
         escape_velocity: 231.129 km/s<br />(832,065 km/h)
         rotation_period: 29.957 d
         axial_tilt: 32.17°
         albedo: 0.30
-        temperature: 97 K<br />(-177 °C)
+        temperature: 188 K<br />(-86 °C)
   - name: 0311 Naddiad C IV
     type: Large terrestrial
     aphelion: 451,019,758 km<br />3.015 AU
@@ -673,14 +673,14 @@ planets:
     radius: 8,753.6 km<br/>(1.374 Yrths)
     surface_area: 9.629 × 10<sup>08</sup> km<sup>2</sup><br/>(1.888 Yrths)
     volume: 2.810 × 10<sup>12</sup> km<sup>3</sup><br/>(2.594 Yrths)
-    mass: 1.847 × 10<sup>25</sup> kg<br />(3.092669440781945 Yrths)
+    mass: 1.847 × 10<sup>25</sup> kg<br />(3.09 Yrths)
     density: 6.574 g/cm<sup>3</sup>
     surface_gravity: 16.065 m/s<sup>2</sup><br />(1.638 g<sub>0</sub>)
     escape_velocity: 16.782 km/s<br />(60,416 km/h)
     rotation_period: 0.731 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 183 K<br />(-90 °C)
+    temperature: 215 K<br />(-58 °C)
     surface_pressure: 185 kPa<br />(2 atm)
     composition:
       - 75.0135% methane
@@ -702,14 +702,14 @@ planets:
         radius: 8,450.9 km<br/>(1.326 Yrths)
         surface_area: 8.975 × 10<sup>08</sup> km<sup>2</sup><br/>(1.760 Yrths)
         volume: 2.528 × 10<sup>12</sup> km<sup>3</sup><br/>(2.334 Yrths)
-        mass: 6.605 × 10<sup>24</sup> kg<br />(3.092669440781945 Yrths)
+        mass: 6.605 × 10<sup>24</sup> kg<br />(1.106 Yrths)
         density: 2.613 g/cm<sup>3</sup>
         surface_gravity: 6.164 m/s<sup>2</sup><br />(0.629 g<sub>0</sub>)
         escape_velocity: 10.214 km/s<br />(36,771 km/h)
         rotation_period: 45.667 d
         axial_tilt: 17.72°
         albedo: 0.30
-        temperature: 1707 K<br />(1434 °C)
+        temperature: 143 K<br />(-131 °C)
   - name: 0311 Naddiad C V
     type: Gas giant
     aphelion: 910,011,195 km<br />6.083 AU
@@ -721,7 +721,7 @@ planets:
     radius: 234.3 km<br/>(0.037 Yrths)
     surface_area: 6.901 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.390 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.986 × 10<sup>27</sup> kg<br />(332.6000245970936 Yrths)
+    mass: 1.986 × 10<sup>27</sup> kg<br />(332.60 Yrths)
     density: 36849449.482 g/cm<sup>3</sup>
     surface_gravity: 2410885.145 m/s<sup>2</sup><br />(245841.867 g<sub>0</sub>)
     escape_velocity: 1063.698 km/s<br />(3,829,314 km/h)
@@ -742,14 +742,14 @@ planets:
         radius: 171,432.3 km<br/>(26.908 Yrths)
         surface_area: 3.693 × 10<sup>11</sup> km<sup>2</sup><br/>(724.052 Yrths)
         volume: 2.110 × 10<sup>16</sup> km<sup>3</sup><br/>(19482.964 Yrths)
-        mass: 2.187 × 10<sup>28</sup> kg<br />(332.6000245970936 Yrths)
+        mass: 2.187 × 10<sup>28</sup> kg<br />(3661.494 Yrths)
         density: 1.036 g/cm<sup>3</sup>
         surface_gravity: 49.592 m/s<sup>2</sup><br />(5.057 g<sub>0</sub>)
         escape_velocity: 130.485 km/s<br />(469,746 km/h)
         rotation_period: 55.828 d
         axial_tilt: 20.57°
         albedo: 0.30
-        temperature: 254 K<br />(-19 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0311 Naddiad C V b
         type: Icy
         formationType: Accreted
@@ -762,14 +762,14 @@ planets:
         radius: 147,966.8 km<br/>(23.225 Yrths)
         surface_area: 2.751 × 10<sup>11</sup> km<sup>2</sup><br/>(539.403 Yrths)
         volume: 1.357 × 10<sup>16</sup> km<sup>3</sup><br/>(12527.661 Yrths)
-        mass: 2.578 × 10<sup>28</sup> kg<br />(332.6000245970936 Yrths)
+        mass: 2.578 × 10<sup>28</sup> kg<br />(4317.330 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 78.491 m/s<sup>2</sup><br />(8.004 g<sub>0</sub>)
         escape_velocity: 152.512 km/s<br />(549,042 km/h)
         rotation_period: 45.311 d
         axial_tilt: 13.52°
         albedo: 0.30
-        temperature: 210 K<br />(-63 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0311 Naddiad C V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -782,14 +782,14 @@ planets:
         radius: 159,451.7 km<br/>(25.028 Yrths)
         surface_area: 3.195 × 10<sup>11</sup> km<sup>2</sup><br/>(626.387 Yrths)
         volume: 1.698 × 10<sup>16</sup> km<sup>3</sup><br/>(15677.055 Yrths)
-        mass: 3.789 × 10<sup>28</sup> kg<br />(332.6000245970936 Yrths)
+        mass: 3.789 × 10<sup>28</sup> kg<br />(6344.116 Yrths)
         density: 2.231 g/cm<sup>3</sup>
         surface_gravity: 99.323 m/s<sup>2</sup><br />(10.128 g<sub>0</sub>)
         escape_velocity: 178.094 km/s<br />(641,138 km/h)
         rotation_period: 34.943 d
         axial_tilt: 18.22°
         albedo: 0.30
-        temperature: 94 K<br />(-180 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0311 Naddiad C V d
         type: Asteroid
         formationType: Captured
@@ -802,14 +802,14 @@ planets:
         radius: 137,449.8 km<br/>(21.574 Yrths)
         surface_area: 2.374 × 10<sup>11</sup> km<sup>2</sup><br/>(465.450 Yrths)
         volume: 1.088 × 10<sup>16</sup> km<sup>3</sup><br/>(10041.747 Yrths)
-        mass: 2.198 × 10<sup>28</sup> kg<br />(332.6000245970936 Yrths)
+        mass: 2.198 × 10<sup>28</sup> kg<br />(3681.130 Yrths)
         density: 2.021 g/cm<sup>3</sup>
         surface_gravity: 77.558 m/s<sup>2</sup><br />(7.909 g<sub>0</sub>)
         escape_velocity: 146.116 km/s<br />(526,016 km/h)
         rotation_period: 56.955 d
         axial_tilt: 22.91°
         albedo: 0.30
-        temperature: 81 K<br />(-192 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0311 Naddiad C V e
         type: Icy
         formationType: Impact formed
@@ -822,14 +822,14 @@ planets:
         radius: 207,545.5 km<br/>(32.577 Yrths)
         surface_area: 5.413 × 10<sup>11</sup> km<sup>2</sup><br/>(1061.235 Yrths)
         volume: 3.745 × 10<sup>16</sup> km<sup>3</sup><br/>(34571.415 Yrths)
-        mass: 3.663 × 10<sup>28</sup> kg<br />(332.6000245970936 Yrths)
+        mass: 3.663 × 10<sup>28</sup> kg<br />(6132.799 Yrths)
         density: 0.978 g/cm<sup>3</sup>
         surface_gravity: 56.672 m/s<sup>2</sup><br />(5.779 g<sub>0</sub>)
         escape_velocity: 153.480 km/s<br />(552,526 km/h)
         rotation_period: 98.162 d
         axial_tilt: 8.20°
         albedo: 0.30
-        temperature: 46 K<br />(-227 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0311 Naddiad C V f
         type: Icy
         formationType: Impact formed
@@ -842,14 +842,14 @@ planets:
         radius: 216,167.0 km<br/>(33.930 Yrths)
         surface_area: 5.872 × 10<sup>11</sup> km<sup>2</sup><br/>(1151.234 Yrths)
         volume: 4.231 × 10<sup>16</sup> km<sup>3</sup><br/>(39061.204 Yrths)
-        mass: 4.517 × 10<sup>28</sup> kg<br />(332.6000245970936 Yrths)
+        mass: 4.517 × 10<sup>28</sup> kg<br />(7563.890 Yrths)
         density: 1.068 g/cm<sup>3</sup>
         surface_gravity: 64.432 m/s<sup>2</sup><br />(6.570 g<sub>0</sub>)
         escape_velocity: 167.015 km/s<br />(601,254 km/h)
         rotation_period: 78.221 d
         axial_tilt: 24.84°
         albedo: 0.30
-        temperature: 36 K<br />(-237 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 0311 Naddiad C V g
         type: Icy
         formationType: Captured
@@ -862,14 +862,14 @@ planets:
         radius: 161,897.1 km<br/>(25.412 Yrths)
         surface_area: 3.294 × 10<sup>11</sup> km<sup>2</sup><br/>(645.748 Yrths)
         volume: 1.777 × 10<sup>16</sup> km<sup>3</sup><br/>(16409.478 Yrths)
-        mass: 2.278 × 10<sup>28</sup> kg<br />(332.6000245970936 Yrths)
+        mass: 2.278 × 10<sup>28</sup> kg<br />(3813.688 Yrths)
         density: 1.281 g/cm<sup>3</sup>
         surface_gravity: 57.917 m/s<sup>2</sup><br />(5.906 g<sub>0</sub>)
         escape_velocity: 137.035 km/s<br />(493,325 km/h)
         rotation_period: 63.532 d
         axial_tilt: 17.49°
         albedo: 0.30
-        temperature: 31 K<br />(-242 °C)
+        temperature: 108 K<br />(-165 °C)
   - name: 0311 Naddiad C VI
     type: Gas giant
     aphelion: 1,439,610,463 km<br />9.623 AU
@@ -881,7 +881,7 @@ planets:
     radius: 205.3 km<br/>(0.032 Yrths)
     surface_area: 5.296 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.624 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.125 × 10<sup>27</sup> kg<br />(188.3943287672484 Yrths)
+    mass: 1.125 × 10<sup>27</sup> kg<br />(188.39 Yrths)
     density: 31044994.915 g/cm<sup>3</sup>
     surface_gravity: 1779366.581 m/s<sup>2</sup><br />(181444.895 g<sub>0</sub>)
     escape_velocity: 855.317 km/s<br />(3,079,141 km/h)
@@ -902,14 +902,14 @@ planets:
         radius: 122,962.6 km<br/>(19.300 Yrths)
         surface_area: 1.900 × 10<sup>11</sup> km<sup>2</sup><br/>(372.504 Yrths)
         volume: 7.788 × 10<sup>15</sup> km<sup>3</sup><br/>(7189.467 Yrths)
-        mass: 7.286 × 10<sup>27</sup> kg<br />(188.3943287672484 Yrths)
+        mass: 7.286 × 10<sup>27</sup> kg<br />(1220.083 Yrths)
         density: 0.936 g/cm<sup>3</sup>
         surface_gravity: 32.120 m/s<sup>2</sup><br />(3.275 g<sub>0</sub>)
         escape_velocity: 88.938 km/s<br />(320,176 km/h)
         rotation_period: 60.136 d
         axial_tilt: 16.59°
         albedo: 0.30
-        temperature: 435 K<br />(161 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0311 Naddiad C VI b
         type: Icy
         formationType: Accreted
@@ -922,14 +922,14 @@ planets:
         radius: 150,071.3 km<br/>(23.555 Yrths)
         surface_area: 2.830 × 10<sup>11</sup> km<sup>2</sup><br/>(554.856 Yrths)
         volume: 1.416 × 10<sup>16</sup> km<sup>3</sup><br/>(13069.836 Yrths)
-        mass: 1.266 × 10<sup>28</sup> kg<br />(188.3943287672484 Yrths)
+        mass: 1.266 × 10<sup>28</sup> kg<br />(2120.237 Yrths)
         density: 0.894 g/cm<sup>3</sup>
         surface_gravity: 37.474 m/s<sup>2</sup><br />(3.821 g<sub>0</sub>)
         escape_velocity: 106.126 km/s<br />(382,053 km/h)
         rotation_period: 61.997 d
         axial_tilt: 19.29°
         albedo: 0.30
-        temperature: 223 K<br />(-50 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0311 Naddiad C VI c
         type: Icy
         formationType: Accreted
@@ -942,14 +942,14 @@ planets:
         radius: 102,289.5 km<br/>(16.055 Yrths)
         surface_area: 1.315 × 10<sup>11</sup> km<sup>2</sup><br/>(257.779 Yrths)
         volume: 4.483 × 10<sup>15</sup> km<sup>3</sup><br/>(4138.766 Yrths)
-        mass: 7.710 × 10<sup>27</sup> kg<br />(188.3943287672484 Yrths)
+        mass: 7.710 × 10<sup>27</sup> kg<br />(1291.050 Yrths)
         density: 1.720 g/cm<sup>3</sup>
         surface_gravity: 49.115 m/s<sup>2</sup><br />(5.008 g<sub>0</sub>)
         escape_velocity: 100.308 km/s<br />(361,107 km/h)
         rotation_period: 66.034 d
         axial_tilt: 6.06°
         albedo: 0.30
-        temperature: 203 K<br />(-70 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0311 Naddiad C VI d
         type: Icy
         formationType: Accreted
@@ -962,14 +962,14 @@ planets:
         radius: 138,602.3 km<br/>(21.755 Yrths)
         surface_area: 2.414 × 10<sup>11</sup> km<sup>2</sup><br/>(473.288 Yrths)
         volume: 1.115 × 10<sup>16</sup> km<sup>3</sup><br/>(10296.482 Yrths)
-        mass: 1.184 × 10<sup>28</sup> kg<br />(188.3943287672484 Yrths)
+        mass: 1.184 × 10<sup>28</sup> kg<br />(1982.627 Yrths)
         density: 1.062 g/cm<sup>3</sup>
         surface_gravity: 41.081 m/s<sup>2</sup><br />(4.189 g<sub>0</sub>)
         escape_velocity: 106.786 km/s<br />(384,428 km/h)
         rotation_period: 63.548 d
         axial_tilt: 23.67°
         albedo: 0.30
-        temperature: 152 K<br />(-121 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0311 Naddiad C VI e
         type: Icy
         formationType: Accreted
@@ -982,14 +982,14 @@ planets:
         radius: 131,242.1 km<br/>(20.600 Yrths)
         surface_area: 2.164 × 10<sup>11</sup> km<sup>2</sup><br/>(424.357 Yrths)
         volume: 9.469 × 10<sup>15</sup> km<sup>3</sup><br/>(8741.715 Yrths)
-        mass: 1.201 × 10<sup>28</sup> kg<br />(188.3943287672484 Yrths)
+        mass: 1.201 × 10<sup>28</sup> kg<br />(2010.793 Yrths)
         density: 1.268 g/cm<sup>3</sup>
         surface_gravity: 46.468 m/s<sup>2</sup><br />(4.738 g<sub>0</sub>)
         escape_velocity: 110.516 km/s<br />(397,857 km/h)
         rotation_period: 49.502 d
         axial_tilt: 19.73°
         albedo: 0.30
-        temperature: 126 K<br />(-147 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0311 Naddiad C VI f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1002,14 +1002,14 @@ planets:
         radius: 90,853.9 km<br/>(14.261 Yrths)
         surface_area: 1.037 × 10<sup>11</sup> km<sup>2</sup><br/>(203.363 Yrths)
         volume: 3.141 × 10<sup>15</sup> km<sup>3</sup><br/>(2900.065 Yrths)
-        mass: 7.869 × 10<sup>27</sup> kg<br />(188.3943287672484 Yrths)
+        mass: 7.869 × 10<sup>27</sup> kg<br />(1317.722 Yrths)
         density: 2.505 g/cm<sup>3</sup>
         surface_gravity: 63.544 m/s<sup>2</sup><br />(6.480 g<sub>0</sub>)
         escape_velocity: 107.527 km/s<br />(387,097 km/h)
         rotation_period: 42.272 d
         axial_tilt: 9.89°
         albedo: 0.30
-        temperature: 120 K<br />(-153 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0311 Naddiad C VI g
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1022,12 +1022,12 @@ planets:
         radius: 109,635.3 km<br/>(17.208 Yrths)
         surface_area: 1.510 × 10<sup>11</sup> km<sup>2</sup><br/>(296.132 Yrths)
         volume: 5.520 × 10<sup>15</sup> km<sup>3</sup><br/>(5095.985 Yrths)
-        mass: 1.217 × 10<sup>28</sup> kg<br />(188.3943287672484 Yrths)
+        mass: 1.217 × 10<sup>28</sup> kg<br />(2038.604 Yrths)
         density: 2.206 g/cm<sup>3</sup>
         surface_gravity: 67.510 m/s<sup>2</sup><br />(6.884 g<sub>0</sub>)
         escape_velocity: 121.750 km/s<br />(438,300 km/h)
         rotation_period: 38.742 d
         axial_tilt: 19.28°
         albedo: 0.30
-        temperature: 75 K<br />(-199 °C)
+        temperature: 82 K<br />(-191 °C)
 ---

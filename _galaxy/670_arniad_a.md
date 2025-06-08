@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      670 Arniad A is a star in the constellation Arni
+      670 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 371.56 ly
 apparent_magnitude: 8.31
 absolute_magnitude: 3.03

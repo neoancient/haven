@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1299 Lulithannaid is a star in the constellation Lulithan
+      1299 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 390.12 ly
 apparent_magnitude: 13.29
 absolute_magnitude: 7.90

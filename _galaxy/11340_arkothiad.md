@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11340 Arkothiad is a star in the constellation Arkoth
+      11340 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 342.90 ly
 apparent_magnitude: 8.93
 absolute_magnitude: 3.82
@@ -31,14 +31,14 @@ planets:
     radius: 9,753.3 km<br/>(1.531 Yrths)
     surface_area: 1.195 × 10<sup>09</sup> km<sup>2</sup><br/>(2.344 Yrths)
     volume: 3.886 × 10<sup>12</sup> km<sup>3</sup><br/>(3.588 Yrths)
-    mass: 2.765 × 10<sup>25</sup> kg<br />(4.629809242218681 Yrths)
+    mass: 2.765 × 10<sup>25</sup> kg<br />(4.63 Yrths)
     density: 7.114 g/cm<sup>3</sup>
     surface_gravity: 19.373 m/s<sup>2</sup><br />(1.975 g<sub>0</sub>)
     escape_velocity: 19.453 km/s<br />(70,030 km/h)
     rotation_period: 0.685 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 502 K<br />(228 °C)
+    temperature: 494 K<br />(221 °C)
     surface_pressure: 3,545 kPa<br />(35 atm)
     composition:
       - 70.0340% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 5,844.0 km<br/>(0.917 Yrths)
         surface_area: 4.292 × 10<sup>08</sup> km<sup>2</sup><br/>(0.841 Yrths)
         volume: 8.360 × 10<sup>11</sup> km<sup>3</sup><br/>(0.772 Yrths)
-        mass: 1.961 × 10<sup>24</sup> kg<br />(4.629809242218681 Yrths)
+        mass: 1.961 × 10<sup>24</sup> kg<br />(0.328 Yrths)
         density: 2.345 g/cm<sup>3</sup>
         surface_gravity: 3.827 m/s<sup>2</sup><br />(0.390 g<sub>0</sub>)
         escape_velocity: 6.692 km/s<br />(24,093 km/h)
         rotation_period: 57.854 d
         axial_tilt: 17.11°
         albedo: 0.30
-        temperature: 3929 K<br />(3656 °C)
+        temperature: 333 K<br />(60 °C)
       - name: 11340 Arkothiad I b
         type: Rocky
         formationType: Captured
@@ -76,12 +76,12 @@ planets:
         radius: 5,705.6 km<br/>(0.896 Yrths)
         surface_area: 4.091 × 10<sup>08</sup> km<sup>2</sup><br/>(0.802 Yrths)
         volume: 7.780 × 10<sup>11</sup> km<sup>3</sup><br/>(0.718 Yrths)
-        mass: 2.558 × 10<sup>24</sup> kg<br />(4.629809242218681 Yrths)
+        mass: 2.558 × 10<sup>24</sup> kg<br />(0.428 Yrths)
         density: 3.287 g/cm<sup>3</sup>
         surface_gravity: 5.237 m/s<sup>2</sup><br />(0.534 g<sub>0</sub>)
         escape_velocity: 7.735 km/s<br />(27,848 km/h)
         rotation_period: 31.810 d
         axial_tilt: 23.49°
         albedo: 0.30
-        temperature: 3746 K<br />(3473 °C)
+        temperature: 333 K<br />(60 °C)
 ---

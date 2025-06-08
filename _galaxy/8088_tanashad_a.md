@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8088 Tanashad A is a star in the constellation Tanas
+      8088 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 451.55 ly
 apparent_magnitude: 7.37
 absolute_magnitude: 1.66

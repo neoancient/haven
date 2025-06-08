@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Ratharshinniad A is a star in the constellation Ratharshin
+      θ Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1105.11 ly
 apparent_magnitude: 5.17
 absolute_magnitude: -2.48

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10820 Dialkeshiad is a star in the constellation Dialkes
+      10820 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 222.60 ly
 apparent_magnitude: 10.54
 absolute_magnitude: 6.37

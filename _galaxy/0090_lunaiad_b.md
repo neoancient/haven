@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0090 Lunaiad B is a star in the constellation Luna
+      0090 Lunaiad B is a star in the constellation <a href="luna.html">Luna</a>
 distance: 408.55 ly
 apparent_magnitude: 11.40
 absolute_magnitude: 5.91

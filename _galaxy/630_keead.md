@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      630 Keead is a star in the constellation Kee
+      630 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1180.35 ly
 apparent_magnitude: 17.22
 absolute_magnitude: 9.43

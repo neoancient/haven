@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0065 Bethuiad C is a star in the constellation Bethu
+      0065 Bethuiad C is a star in the constellation <a href="bethu.html">Bethu</a>
 distance: 4308.96 ly
 apparent_magnitude: 6.40
 absolute_magnitude: -4.20
@@ -31,14 +31,14 @@ planets:
     radius: 38,967.0 km<br/>(6.116 Yrths)
     surface_area: 1.908 × 10<sup>10</sup> km<sup>2</sup><br/>(37.409 Yrths)
     volume: 2.478 × 10<sup>14</sup> km<sup>3</sup><br/>(228.807 Yrths)
-    mass: 3.238 × 10<sup>26</sup> kg<br />(54.221631851838865 Yrths)
+    mass: 3.238 × 10<sup>26</sup> kg<br />(54.22 Yrths)
     density: 1.307 g/cm<sup>3</sup>
     surface_gravity: 14.214 m/s<sup>2</sup><br />(1.449 g<sub>0</sub>)
     escape_velocity: 33.305 km/s<br />(119,900 km/h)
     rotation_period: 0.275 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 1190 K<br />(916 °C)
+    temperature: 1087 K<br />(814 °C)
     composition:
       - 90.3287% hydrogen
       - 7.6859% helium
@@ -59,14 +59,14 @@ planets:
         radius: 44,945.7 km<br/>(7.055 Yrths)
         surface_area: 2.539 × 10<sup>10</sup> km<sup>2</sup><br/>(49.769 Yrths)
         volume: 3.803 × 10<sup>14</sup> km<sup>3</sup><br/>(351.108 Yrths)
-        mass: 5.352 × 10<sup>26</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 5.352 × 10<sup>26</sup> kg<br />(89.620 Yrths)
         density: 1.407 g/cm<sup>3</sup>
         surface_gravity: 17.659 m/s<sup>2</sup><br />(1.801 g<sub>0</sub>)
         escape_velocity: 39.869 km/s<br />(143,529 km/h)
         rotation_period: 62.407 d
         axial_tilt: 7.40°
         albedo: 0.30
-        temperature: 4624 K<br />(4351 °C)
+        temperature: 586 K<br />(313 °C)
       - name: 0065 Bethuiad C I b
         type: Icy
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 31,619.7 km<br/>(4.963 Yrths)
         surface_area: 1.256 × 10<sup>10</sup> km<sup>2</sup><br/>(24.632 Yrths)
         volume: 1.324 × 10<sup>14</sup> km<sup>3</sup><br/>(122.250 Yrths)
-        mass: 2.331 × 10<sup>26</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 2.331 × 10<sup>26</sup> kg<br />(39.027 Yrths)
         density: 1.760 g/cm<sup>3</sup>
         surface_gravity: 15.538 m/s<sup>2</sup><br />(1.584 g<sub>0</sub>)
         escape_velocity: 31.368 km/s<br />(112,923 km/h)
         rotation_period: 41.670 d
         axial_tilt: 15.72°
         albedo: 0.30
-        temperature: 4409 K<br />(4136 °C)
+        temperature: 586 K<br />(313 °C)
       - name: 0065 Bethuiad C I c
         type: Icy
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 28,370.6 km<br/>(4.453 Yrths)
         surface_area: 1.011 × 10<sup>10</sup> km<sup>2</sup><br/>(19.830 Yrths)
         volume: 9.565 × 10<sup>13</sup> km<sup>3</sup><br/>(88.304 Yrths)
-        mass: 1.351 × 10<sup>26</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 1.351 × 10<sup>26</sup> kg<br />(22.620 Yrths)
         density: 1.412 g/cm<sup>3</sup>
         surface_gravity: 11.186 m/s<sup>2</sup><br />(1.141 g<sub>0</sub>)
         escape_velocity: 25.211 km/s<br />(90,759 km/h)
         rotation_period: 54.456 d
         axial_tilt: 14.74°
         albedo: 0.30
-        temperature: 4204 K<br />(3930 °C)
+        temperature: 586 K<br />(313 °C)
       - name: 0065 Bethuiad C I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -119,14 +119,14 @@ planets:
         radius: 34,998.8 km<br/>(5.493 Yrths)
         surface_area: 1.539 × 10<sup>10</sup> km<sup>2</sup><br/>(30.178 Yrths)
         volume: 1.796 × 10<sup>14</sup> km<sup>3</sup><br/>(165.782 Yrths)
-        mass: 3.142 × 10<sup>26</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 3.142 × 10<sup>26</sup> kg<br />(52.610 Yrths)
         density: 1.750 g/cm<sup>3</sup>
         surface_gravity: 17.096 m/s<sup>2</sup><br />(1.743 g<sub>0</sub>)
         escape_velocity: 34.617 km/s<br />(124,620 km/h)
         rotation_period: 49.517 d
         axial_tilt: 24.35°
         albedo: 0.30
-        temperature: 3821 K<br />(3548 °C)
+        temperature: 586 K<br />(313 °C)
       - name: 0065 Bethuiad C I e
         type: Icy
         formationType: Captured
@@ -139,14 +139,14 @@ planets:
         radius: 46,317.2 km<br/>(7.270 Yrths)
         surface_area: 2.696 × 10<sup>10</sup> km<sup>2</sup><br/>(52.853 Yrths)
         volume: 4.162 × 10<sup>14</sup> km<sup>3</sup><br/>(384.241 Yrths)
-        mass: 2.913 × 10<sup>26</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 2.913 × 10<sup>26</sup> kg<br />(48.786 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 9.052 m/s<sup>2</sup><br />(0.923 g<sub>0</sub>)
         escape_velocity: 28.977 km/s<br />(104,317 km/h)
         rotation_period: 103.817 d
         axial_tilt: 26.44°
         albedo: 0.30
-        temperature: 3644 K<br />(3370 °C)
+        temperature: 586 K<br />(313 °C)
       - name: 0065 Bethuiad C I f
         type: Ice/rock hybrid
         formationType: Captured
@@ -159,14 +159,14 @@ planets:
         radius: 58,451.3 km<br/>(9.175 Yrths)
         surface_area: 4.293 × 10<sup>10</sup> km<sup>2</sup><br/>(84.173 Yrths)
         volume: 8.365 × 10<sup>14</sup> km<sup>3</sup><br/>(772.253 Yrths)
-        mass: 1.617 × 10<sup>27</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 1.617 × 10<sup>27</sup> kg<br />(270.817 Yrths)
         density: 1.933 g/cm<sup>3</sup>
         surface_gravity: 31.552 m/s<sup>2</sup><br />(3.217 g<sub>0</sub>)
         escape_velocity: 60.774 km/s<br />(218,787 km/h)
         rotation_period: 38.603 d
         axial_tilt: 28.36°
         albedo: 0.30
-        temperature: 3474 K<br />(3201 °C)
+        temperature: 586 K<br />(313 °C)
       - name: 0065 Bethuiad C I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -179,14 +179,14 @@ planets:
         radius: 61,615.0 km<br/>(9.671 Yrths)
         surface_area: 4.771 × 10<sup>10</sup> km<sup>2</sup><br/>(93.532 Yrths)
         volume: 9.798 × 10<sup>14</sup> km<sup>3</sup><br/>(904.560 Yrths)
-        mass: 1.568 × 10<sup>27</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 1.568 × 10<sup>27</sup> kg<br />(262.512 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 27.524 m/s<sup>2</sup><br />(2.807 g<sub>0</sub>)
         escape_velocity: 58.279 km/s<br />(209,803 km/h)
         rotation_period: 55.243 d
         axial_tilt: 27.72°
         albedo: 0.30
-        temperature: 3312 K<br />(3039 °C)
+        temperature: 586 K<br />(313 °C)
       - name: 0065 Bethuiad C I h
         type: Ice/rock hybrid
         formationType: Captured
@@ -199,14 +199,14 @@ planets:
         radius: 32,047.4 km<br/>(5.030 Yrths)
         surface_area: 1.291 × 10<sup>10</sup> km<sup>2</sup><br/>(25.303 Yrths)
         volume: 1.379 × 10<sup>14</sup> km<sup>3</sup><br/>(127.279 Yrths)
-        mass: 3.633 × 10<sup>26</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 3.633 × 10<sup>26</sup> kg<br />(60.831 Yrths)
         density: 2.635 g/cm<sup>3</sup>
         surface_gravity: 23.576 m/s<sup>2</sup><br />(2.404 g<sub>0</sub>)
         escape_velocity: 38.900 km/s<br />(140,039 km/h)
         rotation_period: 30.922 d
         axial_tilt: 24.81°
         albedo: 0.30
-        temperature: 3158 K<br />(2885 °C)
+        temperature: 586 K<br />(313 °C)
       - name: 0065 Bethuiad C I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -219,14 +219,14 @@ planets:
         radius: 37,636.3 km<br/>(5.907 Yrths)
         surface_area: 1.780 × 10<sup>10</sup> km<sup>2</sup><br/>(34.898 Yrths)
         volume: 2.233 × 10<sup>14</sup> km<sup>3</sup><br/>(206.157 Yrths)
-        mass: 4.638 × 10<sup>26</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 4.638 × 10<sup>26</sup> kg<br />(77.655 Yrths)
         density: 2.077 g/cm<sup>3</sup>
         surface_gravity: 21.822 m/s<sup>2</sup><br />(2.225 g<sub>0</sub>)
         escape_velocity: 40.556 km/s<br />(146,003 km/h)
         rotation_period: 39.481 d
         axial_tilt: 9.72°
         albedo: 0.30
-        temperature: 3011 K<br />(2738 °C)
+        temperature: 586 K<br />(313 °C)
       - name: 0065 Bethuiad C I j
         type: Asteroid
         formationType: Captured
@@ -239,14 +239,14 @@ planets:
         radius: 48,928.3 km<br/>(7.680 Yrths)
         surface_area: 3.008 × 10<sup>10</sup> km<sup>2</sup><br/>(58.980 Yrths)
         volume: 4.906 × 10<sup>14</sup> km<sup>3</sup><br/>(452.957 Yrths)
-        mass: 9.947 × 10<sup>26</sup> kg<br />(54.221631851838865 Yrths)
+        mass: 9.947 × 10<sup>26</sup> kg<br />(166.558 Yrths)
         density: 2.027 g/cm<sup>3</sup>
         surface_gravity: 27.694 m/s<sup>2</sup><br />(2.824 g<sub>0</sub>)
         escape_velocity: 52.093 km/s<br />(187,535 km/h)
         rotation_period: 42.609 d
         axial_tilt: 25.64°
         albedo: 0.30
-        temperature: 2737 K<br />(2464 °C)
+        temperature: 586 K<br />(313 °C)
   - name: 0065 Bethuiad C II
     type: Ice giant
     aphelion: 7,275,874,965 km<br />48.636 AU
@@ -258,14 +258,14 @@ planets:
     radius: 43,935.8 km<br/>(6.896 Yrths)
     surface_area: 2.426 × 10<sup>10</sup> km<sup>2</sup><br/>(47.558 Yrths)
     volume: 3.553 × 10<sup>14</sup> km<sup>3</sup><br/>(327.970 Yrths)
-    mass: 5.105 × 10<sup>26</sup> kg<br />(85.47605741043495 Yrths)
+    mass: 5.105 × 10<sup>26</sup> kg<br />(85.48 Yrths)
     density: 1.437 g/cm<sup>3</sup>
     surface_gravity: 17.626 m/s<sup>2</sup><br />(1.797 g<sub>0</sub>)
     escape_velocity: 39.381 km/s<br />(141,773 km/h)
     rotation_period: 0.257 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 802 K<br />(529 °C)
+    temperature: 738 K<br />(465 °C)
     composition:
       - 84.3941% hydrogen
       - 13.0005% helium
@@ -283,14 +283,14 @@ planets:
         radius: 80,341.6 km<br/>(12.611 Yrths)
         surface_area: 8.111 × 10<sup>10</sup> km<sup>2</sup><br/>(159.025 Yrths)
         volume: 2.172 × 10<sup>15</sup> km<sup>3</sup><br/>(2005.392 Yrths)
-        mass: 4.127 × 10<sup>27</sup> kg<br />(85.47605741043495 Yrths)
+        mass: 4.127 × 10<sup>27</sup> kg<br />(691.106 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 42.619 m/s<sup>2</sup><br />(4.346 g<sub>0</sub>)
         escape_velocity: 82.809 km/s<br />(298,114 km/h)
         rotation_period: 59.174 d
         axial_tilt: 22.62°
         albedo: 0.30
-        temperature: 2758 K<br />(2485 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 0065 Bethuiad C II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -303,14 +303,14 @@ planets:
         radius: 36,227.7 km<br/>(5.686 Yrths)
         surface_area: 1.649 × 10<sup>10</sup> km<sup>2</sup><br/>(32.335 Yrths)
         volume: 1.992 × 10<sup>14</sup> km<sup>3</sup><br/>(183.866 Yrths)
-        mass: 3.978 × 10<sup>26</sup> kg<br />(85.47605741043495 Yrths)
+        mass: 3.978 × 10<sup>26</sup> kg<br />(66.603 Yrths)
         density: 1.997 g/cm<sup>3</sup>
         surface_gravity: 20.200 m/s<sup>2</sup><br />(2.060 g<sub>0</sub>)
         escape_velocity: 38.283 km/s<br />(137,818 km/h)
         rotation_period: 64.462 d
         axial_tilt: 21.34°
         albedo: 0.30
-        temperature: 2630 K<br />(2357 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 0065 Bethuiad C II c
         type: Dwarf planet
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 29,927.2 km<br/>(4.697 Yrths)
         surface_area: 1.125 × 10<sup>10</sup> km<sup>2</sup><br/>(22.066 Yrths)
         volume: 1.123 × 10<sup>14</sup> km<sup>3</sup><br/>(103.652 Yrths)
-        mass: 2.641 × 10<sup>26</sup> kg<br />(85.47605741043495 Yrths)
+        mass: 2.641 × 10<sup>26</sup> kg<br />(44.231 Yrths)
         density: 2.353 g/cm<sup>3</sup>
         surface_gravity: 19.658 m/s<sup>2</sup><br />(2.005 g<sub>0</sub>)
         escape_velocity: 34.325 km/s<br />(123,569 km/h)
         rotation_period: 32.580 d
         axial_tilt: 35.73°
         albedo: 0.30
-        temperature: 2507 K<br />(2234 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 0065 Bethuiad C II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -343,14 +343,14 @@ planets:
         radius: 63,364.9 km<br/>(9.946 Yrths)
         surface_area: 5.046 × 10<sup>10</sup> km<sup>2</sup><br/>(98.920 Yrths)
         volume: 1.066 × 10<sup>15</sup> km<sup>3</sup><br/>(983.838 Yrths)
-        mass: 2.289 × 10<sup>27</sup> kg<br />(85.47605741043495 Yrths)
+        mass: 2.289 × 10<sup>27</sup> kg<br />(383.355 Yrths)
         density: 2.148 g/cm<sup>3</sup>
         surface_gravity: 38.005 m/s<sup>2</sup><br />(3.875 g<sub>0</sub>)
         escape_velocity: 69.447 km/s<br />(250,010 km/h)
         rotation_period: 37.559 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 2279 K<br />(2006 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 0065 Bethuiad C II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -363,14 +363,14 @@ planets:
         radius: 70,904.1 km<br/>(11.129 Yrths)
         surface_area: 6.318 × 10<sup>10</sup> km<sup>2</sup><br/>(123.859 Yrths)
         volume: 1.493 × 10<sup>15</sup> km<sup>3</sup><br/>(1378.449 Yrths)
-        mass: 2.816 × 10<sup>27</sup> kg<br />(85.47605741043495 Yrths)
+        mass: 2.816 × 10<sup>27</sup> kg<br />(471.597 Yrths)
         density: 1.886 g/cm<sup>3</sup>
         surface_gravity: 37.339 m/s<sup>2</sup><br />(3.808 g<sub>0</sub>)
         escape_velocity: 72.816 km/s<br />(262,138 km/h)
         rotation_period: 63.019 d
         axial_tilt: 23.88°
         albedo: 0.30
-        temperature: 2173 K<br />(1900 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 0065 Bethuiad C II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -383,14 +383,14 @@ planets:
         radius: 38,753.0 km<br/>(6.083 Yrths)
         surface_area: 1.887 × 10<sup>10</sup> km<sup>2</sup><br/>(37.000 Yrths)
         volume: 2.438 × 10<sup>14</sup> km<sup>3</sup><br/>(225.058 Yrths)
-        mass: 4.613 × 10<sup>26</sup> kg<br />(85.47605741043495 Yrths)
+        mass: 4.613 × 10<sup>26</sup> kg<br />(77.246 Yrths)
         density: 1.892 g/cm<sup>3</sup>
         surface_gravity: 20.474 m/s<sup>2</sup><br />(2.088 g<sub>0</sub>)
         escape_velocity: 39.862 km/s<br />(143,504 km/h)
         rotation_period: 54.466 d
         axial_tilt: 19.15°
         albedo: 0.30
-        temperature: 2072 K<br />(1799 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 0065 Bethuiad C II g
         type: Icy
         formationType: Captured
@@ -403,14 +403,14 @@ planets:
         radius: 102,187.4 km<br/>(16.039 Yrths)
         surface_area: 1.312 × 10<sup>11</sup> km<sup>2</sup><br/>(257.264 Yrths)
         volume: 4.470 × 10<sup>15</sup> km<sup>3</sup><br/>(4126.382 Yrths)
-        mass: 7.252 × 10<sup>27</sup> kg<br />(85.47605741043495 Yrths)
+        mass: 7.252 × 10<sup>27</sup> kg<br />(1214.390 Yrths)
         density: 1.623 g/cm<sup>3</sup>
         surface_gravity: 46.291 m/s<sup>2</sup><br />(4.720 g<sub>0</sub>)
         escape_velocity: 97.333 km/s<br />(350,397 km/h)
         rotation_period: 77.044 d
         axial_tilt: 15.71°
         albedo: 0.30
-        temperature: 1976 K<br />(1703 °C)
+        temperature: 377 K<br />(104 °C)
       - name: 0065 Bethuiad C II h
         type: Icy
         formationType: Captured
@@ -423,12 +423,12 @@ planets:
         radius: 40,251.4 km<br/>(6.318 Yrths)
         surface_area: 2.036 × 10<sup>10</sup> km<sup>2</sup><br/>(39.916 Yrths)
         volume: 2.732 × 10<sup>14</sup> km<sup>3</sup><br/>(252.186 Yrths)
-        mass: 3.456 × 10<sup>26</sup> kg<br />(85.47605741043495 Yrths)
+        mass: 3.456 × 10<sup>26</sup> kg<br />(57.872 Yrths)
         density: 1.265 g/cm<sup>3</sup>
         surface_gravity: 14.218 m/s<sup>2</sup><br />(1.450 g<sub>0</sub>)
         escape_velocity: 33.855 km/s<br />(121,878 km/h)
         rotation_period: 84.327 d
         axial_tilt: 6.07°
         albedo: 0.30
-        temperature: 1884 K<br />(1611 °C)
+        temperature: 377 K<br />(104 °C)
 ---

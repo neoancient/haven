@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      19209 Dialkeshiad is a star in the constellation Dialkes
+      19209 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 661.98 ly
 apparent_magnitude: 11.71
 absolute_magnitude: 5.17

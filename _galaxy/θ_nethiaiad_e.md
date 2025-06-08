@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Nethiaiad E is a star in the constellation Nethiai
+      θ Nethiaiad E is a star in the constellation <a href="nethiai.html">Nethiai</a>
 distance: 357.10 ly
 apparent_magnitude: 6.78
 absolute_magnitude: 1.59

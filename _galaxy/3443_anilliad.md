@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3443 Anilliad is a star in the constellation Anil
+      3443 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 384.37 ly
 apparent_magnitude: 10.97
 absolute_magnitude: 5.62

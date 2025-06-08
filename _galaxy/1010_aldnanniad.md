@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1010 Aldnanniad is a star in the constellation Aldnan
+      1010 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 267.75 ly
 apparent_magnitude: 12.47
 absolute_magnitude: 7.90

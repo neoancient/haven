@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3171 Tanashad is a star in the constellation Tanas
+      3171 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 193.94 ly
 apparent_magnitude: 9.87
 absolute_magnitude: 6.00

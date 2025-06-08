@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2112 Kenmulliad is a star in the constellation Kenmul
+      2112 Kenmulliad is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 600.49 ly
 apparent_magnitude: 11.27
 absolute_magnitude: 4.95

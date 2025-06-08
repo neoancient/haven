@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0333 Tanashad B is a star in the constellation Tanas
+      0333 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 834.04 ly
 apparent_magnitude: 11.99
 absolute_magnitude: 4.95

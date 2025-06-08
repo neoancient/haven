@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1664 Athiad A is a star in the constellation Ath
+      1664 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 459.93 ly
 apparent_magnitude: 7.52
 absolute_magnitude: 1.77

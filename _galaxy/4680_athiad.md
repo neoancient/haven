@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4680 Athiad is a star in the constellation Ath
+      4680 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 1124.36 ly
 apparent_magnitude: 12.90
 absolute_magnitude: 5.21

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3739 Narashiad is a star in the constellation Naras
+      3739 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 361.72 ly
 apparent_magnitude: 7.53
 absolute_magnitude: 2.31
@@ -31,14 +31,14 @@ planets:
     radius: 3,259.3 km<br/>(0.512 Yrths)
     surface_area: 1.335 × 10<sup>08</sup> km<sup>2</sup><br/>(0.262 Yrths)
     volume: 1.450 × 10<sup>11</sup> km<sup>3</sup><br/>(0.134 Yrths)
-    mass: 7.208 × 10<sup>23</sup> kg<br />(0.12069767231815529 Yrths)
+    mass: 7.208 × 10<sup>23</sup> kg<br />(0.12 Yrths)
     density: 4.970 g/cm<sup>3</sup>
     surface_gravity: 4.523 m/s<sup>2</sup><br />(0.461 g<sub>0</sub>)
     escape_velocity: 5.433 km/s<br />(19,560 km/h)
     rotation_period: 2.028 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 338 K<br />(65 °C)
+    temperature: 451 K<br />(178 °C)
     surface_pressure: 8 kPa<br />(0 atm)
     composition:
       - 82.3552% methane
@@ -58,14 +58,14 @@ planets:
         radius: 719.8 km<br/>(0.113 Yrths)
         surface_area: 6.510 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.562 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 5.258 × 10<sup>21</sup> kg<br />(0.12069767231815529 Yrths)
+        mass: 5.258 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.366 g/cm<sup>3</sup>
         surface_gravity: 0.677 m/s<sup>2</sup><br />(0.069 g<sub>0</sub>)
         escape_velocity: 0.988 km/s<br />(3,555 km/h)
         rotation_period: 29.995 d
         axial_tilt: 51.43°
         albedo: 0.30
-        temperature: 6752 K<br />(6479 °C)
+        temperature: 307 K<br />(34 °C)
   - name: 3739 Narashiad II
     type: Large terrestrial
     aphelion: 666,713,326 km<br />4.457 AU
@@ -77,14 +77,14 @@ planets:
     radius: 12,281.4 km<br/>(1.928 Yrths)
     surface_area: 1.895 × 10<sup>09</sup> km<sup>2</sup><br/>(3.716 Yrths)
     volume: 7.759 × 10<sup>12</sup> km<sup>3</sup><br/>(7.163 Yrths)
-    mass: 4.952 × 10<sup>25</sup> kg<br />(8.292627466713682 Yrths)
+    mass: 4.952 × 10<sup>25</sup> kg<br />(8.29 Yrths)
     density: 6.382 g/cm<sup>3</sup>
     surface_gravity: 21.884 m/s<sup>2</sup><br />(2.232 g<sub>0</sub>)
     escape_velocity: 23.201 km/s<br />(83,522 km/h)
     rotation_period: 0.560 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 316 K<br />(43 °C)
+    temperature: 331 K<br />(58 °C)
     surface_pressure: 1,167 kPa<br />(12 atm)
     composition:
       - 71.0745% ammonia
@@ -105,14 +105,14 @@ planets:
         radius: 11,797.0 km<br/>(1.852 Yrths)
         surface_area: 1.749 × 10<sup>09</sup> km<sup>2</sup><br/>(3.429 Yrths)
         volume: 6.877 × 10<sup>12</sup> km<sup>3</sup><br/>(6.349 Yrths)
-        mass: 2.253 × 10<sup>25</sup> kg<br />(8.292627466713682 Yrths)
+        mass: 2.253 × 10<sup>25</sup> kg<br />(3.773 Yrths)
         density: 3.276 g/cm<sup>3</sup>
         surface_gravity: 10.791 m/s<sup>2</sup><br />(1.100 g<sub>0</sub>)
         escape_velocity: 15.967 km/s<br />(57,481 km/h)
         rotation_period: 27.831 d
         axial_tilt: 5.94°
         albedo: 0.30
-        temperature: 2362 K<br />(2089 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 3739 Narashiad II b
         type: Rocky
         formationType: Captured
@@ -125,12 +125,12 @@ planets:
         radius: 5,805.6 km<br/>(0.911 Yrths)
         surface_area: 4.235 × 10<sup>08</sup> km<sup>2</sup><br/>(0.830 Yrths)
         volume: 8.196 × 10<sup>11</sup> km<sup>3</sup><br/>(0.757 Yrths)
-        mass: 2.240 × 10<sup>24</sup> kg<br />(8.292627466713682 Yrths)
+        mass: 2.240 × 10<sup>24</sup> kg<br />(0.375 Yrths)
         density: 2.733 g/cm<sup>3</sup>
         surface_gravity: 4.429 m/s<sup>2</sup><br />(0.452 g<sub>0</sub>)
         escape_velocity: 7.176 km/s<br />(25,835 km/h)
         rotation_period: 33.136 d
         axial_tilt: 19.53°
         albedo: 0.30
-        temperature: 2252 K<br />(1979 °C)
+        temperature: 222 K<br />(-51 °C)
 ---

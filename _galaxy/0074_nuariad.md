@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0074 Nuariad is a star in the constellation Nuari
+      0074 Nuariad is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 67.15 ly
 apparent_magnitude: 6.50
 absolute_magnitude: 4.93
@@ -31,14 +31,14 @@ planets:
     radius: 25,390.8 km<br/>(3.985 Yrths)
     surface_area: 8.101 × 10<sup>09</sup> km<sup>2</sup><br/>(15.883 Yrths)
     volume: 6.857 × 10<sup>13</sup> km<sup>3</sup><br/>(63.300 Yrths)
-    mass: 8.817 × 10<sup>25</sup> kg<br />(14.763398809211 Yrths)
+    mass: 8.817 × 10<sup>25</sup> kg<br />(14.76 Yrths)
     density: 1.286 g/cm<sup>3</sup>
     surface_gravity: 9.115 m/s<sup>2</sup><br />(0.929 g<sub>0</sub>)
     escape_velocity: 21.529 km/s<br />(77,506 km/h)
     rotation_period: 0.777 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 401 K<br />(127 °C)
+    temperature: 358 K<br />(85 °C)
     composition:
       - 81.0690% hydrogen
       - 17.2539% helium
@@ -56,14 +56,14 @@ planets:
         radius: 13,569.2 km<br/>(2.130 Yrths)
         surface_area: 2.314 × 10<sup>09</sup> km<sup>2</sup><br/>(4.536 Yrths)
         volume: 1.047 × 10<sup>13</sup> km<sup>3</sup><br/>(9.661 Yrths)
-        mass: 2.535 × 10<sup>25</sup> kg<br />(14.763398809211 Yrths)
+        mass: 2.535 × 10<sup>25</sup> kg<br />(4.245 Yrths)
         density: 2.422 g/cm<sup>3</sup>
         surface_gravity: 9.177 m/s<sup>2</sup><br />(0.936 g<sub>0</sub>)
         escape_velocity: 15.792 km/s<br />(56,853 km/h)
         rotation_period: 36.300 d
         axial_tilt: 26.56°
         albedo: 0.30
-        temperature: 2266 K<br />(1993 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 0074 Nuariad I b
         type: Icy
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 18,479.7 km<br/>(2.901 Yrths)
         surface_area: 4.291 × 10<sup>09</sup> km<sup>2</sup><br/>(8.413 Yrths)
         volume: 2.643 × 10<sup>13</sup> km<sup>3</sup><br/>(24.404 Yrths)
-        mass: 3.541 × 10<sup>25</sup> kg<br />(14.763398809211 Yrths)
+        mass: 3.541 × 10<sup>25</sup> kg<br />(5.929 Yrths)
         density: 1.339 g/cm<sup>3</sup>
         surface_gravity: 6.911 m/s<sup>2</sup><br />(0.705 g<sub>0</sub>)
         escape_velocity: 15.993 km/s<br />(57,574 km/h)
         rotation_period: 46.957 d
         axial_tilt: 16.63°
         albedo: 0.30
-        temperature: 2060 K<br />(1787 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 0074 Nuariad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 17,061.3 km<br/>(2.678 Yrths)
         surface_area: 3.658 × 10<sup>09</sup> km<sup>2</sup><br/>(7.172 Yrths)
         volume: 2.080 × 10<sup>13</sup> km<sup>3</sup><br/>(19.205 Yrths)
-        mass: 5.143 × 10<sup>25</sup> kg<br />(14.763398809211 Yrths)
+        mass: 5.143 × 10<sup>25</sup> kg<br />(8.612 Yrths)
         density: 2.472 g/cm<sup>3</sup>
         surface_gravity: 11.776 m/s<sup>2</sup><br />(1.201 g<sub>0</sub>)
         escape_velocity: 20.060 km/s<br />(72,215 km/h)
         rotation_period: 46.251 d
         axial_tilt: 18.75°
         albedo: 0.30
-        temperature: 1964 K<br />(1691 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 0074 Nuariad I d
         type: Icy
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 11,075.4 km<br/>(1.738 Yrths)
         surface_area: 1.541 × 10<sup>09</sup> km<sup>2</sup><br/>(3.022 Yrths)
         volume: 5.691 × 10<sup>12</sup> km<sup>3</sup><br/>(5.254 Yrths)
-        mass: 1.007 × 10<sup>25</sup> kg<br />(14.763398809211 Yrths)
+        mass: 1.007 × 10<sup>25</sup> kg<br />(1.686 Yrths)
         density: 1.769 g/cm<sup>3</sup>
         surface_gravity: 5.470 m/s<sup>2</sup><br />(0.558 g<sub>0</sub>)
         escape_velocity: 11.015 km/s<br />(39,655 km/h)
         rotation_period: 44.571 d
         axial_tilt: 7.86°
         albedo: 0.30
-        temperature: 1873 K<br />(1599 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 0074 Nuariad I e
         type: Rocky
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 17,794.2 km<br/>(2.793 Yrths)
         surface_area: 3.979 × 10<sup>09</sup> km<sup>2</sup><br/>(7.801 Yrths)
         volume: 2.360 × 10<sup>13</sup> km<sup>3</sup><br/>(21.788 Yrths)
-        mass: 6.642 × 10<sup>25</sup> kg<br />(14.763398809211 Yrths)
+        mass: 6.642 × 10<sup>25</sup> kg<br />(11.122 Yrths)
         density: 2.814 g/cm<sup>3</sup>
         surface_gravity: 13.982 m/s<sup>2</sup><br />(1.426 g<sub>0</sub>)
         escape_velocity: 22.322 km/s<br />(80,360 km/h)
         rotation_period: 30.583 d
         axial_tilt: 9.43°
         albedo: 0.30
-        temperature: 1702 K<br />(1429 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 0074 Nuariad I f
         type: Icy
         formationType: Impact formed
@@ -156,14 +156,14 @@ planets:
         radius: 14,826.2 km<br/>(2.327 Yrths)
         surface_area: 2.762 × 10<sup>09</sup> km<sup>2</sup><br/>(5.416 Yrths)
         volume: 1.365 × 10<sup>13</sup> km<sup>3</sup><br/>(12.603 Yrths)
-        mass: 2.163 × 10<sup>25</sup> kg<br />(14.763398809211 Yrths)
+        mass: 2.163 × 10<sup>25</sup> kg<br />(3.622 Yrths)
         density: 1.585 g/cm<sup>3</sup>
         surface_gravity: 6.559 m/s<sup>2</sup><br />(0.669 g<sub>0</sub>)
         escape_velocity: 13.956 km/s<br />(50,241 km/h)
         rotation_period: 43.965 d
         axial_tilt: 9.98°
         albedo: 0.30
-        temperature: 1476 K<br />(1202 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 0074 Nuariad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 10,959.3 km<br/>(1.720 Yrths)
         surface_area: 1.509 × 10<sup>09</sup> km<sup>2</sup><br/>(2.959 Yrths)
         volume: 5.514 × 10<sup>12</sup> km<sup>3</sup><br/>(5.090 Yrths)
-        mass: 1.380 × 10<sup>25</sup> kg<br />(14.763398809211 Yrths)
+        mass: 1.380 × 10<sup>25</sup> kg<br />(2.310 Yrths)
         density: 2.503 g/cm<sup>3</sup>
         surface_gravity: 7.657 m/s<sup>2</sup><br />(0.781 g<sub>0</sub>)
         escape_velocity: 12.964 km/s<br />(46,670 km/h)
         rotation_period: 53.667 d
         axial_tilt: 20.25°
         albedo: 0.30
-        temperature: 1341 K<br />(1068 °C)
+        temperature: 233 K<br />(-40 °C)
       - name: 0074 Nuariad I h
         type: Ice/rock hybrid
         formationType: Captured
@@ -196,12 +196,12 @@ planets:
         radius: 11,247.6 km<br/>(1.765 Yrths)
         surface_area: 1.590 × 10<sup>09</sup> km<sup>2</sup><br/>(3.117 Yrths)
         volume: 5.960 × 10<sup>12</sup> km<sup>3</sup><br/>(5.502 Yrths)
-        mass: 1.482 × 10<sup>25</sup> kg<br />(14.763398809211 Yrths)
+        mass: 1.482 × 10<sup>25</sup> kg<br />(2.481 Yrths)
         density: 2.486 g/cm<sup>3</sup>
         surface_gravity: 7.806 m/s<sup>2</sup><br />(0.796 g<sub>0</sub>)
         escape_velocity: 13.261 km/s<br />(47,738 km/h)
         rotation_period: 39.389 d
         axial_tilt: 24.03°
         albedo: 0.30
-        temperature: 1220 K<br />(946 °C)
+        temperature: 233 K<br />(-40 °C)
 ---

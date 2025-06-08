@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0038 Olliad A is a star in the constellation Ol
+      0038 Olliad A is a star in the constellation <a href="ol.html">Ol</a>
 distance: 99.97 ly
 apparent_magnitude: 6.44
 absolute_magnitude: 4.01

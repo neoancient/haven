@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10965 Arkothiad A is a star in the constellation Arkoth
+      10965 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 570.75 ly
 apparent_magnitude: 7.42
 absolute_magnitude: 1.20

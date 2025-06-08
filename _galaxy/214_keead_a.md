@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      214 Keead A is a star in the constellation Kee
+      214 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 434.50 ly
 apparent_magnitude: 7.39
 absolute_magnitude: 1.77

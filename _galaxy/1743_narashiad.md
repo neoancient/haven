@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1743 Narashiad is a star in the constellation Naras
+      1743 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 1017.66 ly
 apparent_magnitude: 16.65
 absolute_magnitude: 9.18

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4501 Tanashad is a star in the constellation Tanas
+      4501 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 304.03 ly
 apparent_magnitude: 10.24
 absolute_magnitude: 5.39

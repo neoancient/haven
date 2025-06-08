@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      494 Anilliad is a star in the constellation Anil
+      494 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 377.35 ly
 apparent_magnitude: 18.15
 absolute_magnitude: 12.83

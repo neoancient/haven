@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7626 Dialkeshiad is a star in the constellation Dialkes
+      7626 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 682.24 ly
 apparent_magnitude: 16.04
 absolute_magnitude: 9.43

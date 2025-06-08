@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      15 Tanashad is a star in the constellation Tanas
+      15 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 143.80 ly
 apparent_magnitude: 8.47
 absolute_magnitude: 5.25

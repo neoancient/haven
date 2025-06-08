@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3645 Anilliad is a star in the constellation Anil
+      3645 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 381.46 ly
 apparent_magnitude: 9.90
 absolute_magnitude: 4.56

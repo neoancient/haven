@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      20424 Tanashad is a star in the constellation Tanas
+      20424 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 367.54 ly
 apparent_magnitude: 11.46
 absolute_magnitude: 6.20

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0006 Niokeroiad D is a star in the constellation Niokero
+      0006 Niokeroiad D is a star in the constellation <a href="niokero.html">Niokero</a>
 distance: 3252.24 ly
 apparent_magnitude: 7.05
 absolute_magnitude: -2.94
@@ -31,14 +31,14 @@ planets:
     radius: 232.6 km<br/>(0.037 Yrths)
     surface_area: 6.799 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.271 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.929 × 10<sup>27</sup> kg<br />(322.97209584259224 Yrths)
+    mass: 1.929 × 10<sup>27</sup> kg<br />(322.97 Yrths)
     density: 36590176.313 g/cm<sup>3</sup>
     surface_gravity: 2376182.326 m/s<sup>2</sup><br />(242303.164 g<sub>0</sub>)
     escape_velocity: 1052.095 km/s<br />(3,787,542 km/h)
     rotation_period: 0.234 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 6716 K<br />(6443 °C)
+    temperature: 6880 K<br />(6606 °C)
     composition:
       - 71.9802% hydrogen
       - 25.1634% helium
@@ -57,14 +57,14 @@ planets:
         radius: 129,263.8 km<br/>(20.289 Yrths)
         surface_area: 2.100 × 10<sup>11</sup> km<sup>2</sup><br/>(411.660 Yrths)
         volume: 9.047 × 10<sup>15</sup> km<sup>3</sup><br/>(8352.344 Yrths)
-        mass: 2.475 × 10<sup>28</sup> kg<br />(322.97209584259224 Yrths)
+        mass: 2.475 × 10<sup>28</sup> kg<br />(4144.475 Yrths)
         density: 2.736 g/cm<sup>3</sup>
         surface_gravity: 98.730 m/s<sup>2</sup><br />(10.068 g<sub>0</sub>)
         escape_velocity: 159.873 km/s<br />(575,541 km/h)
         rotation_period: 53.304 d
         axial_tilt: 17.92°
         albedo: 0.30
-        temperature: 6445 K<br />(6172 °C)
+        temperature: 1583 K<br />(1310 °C)
       - name: 0006 Niokeroiad D I b
         type: Icy
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 137,631.0 km<br/>(21.603 Yrths)
         surface_area: 2.380 × 10<sup>11</sup> km<sup>2</sup><br/>(466.678 Yrths)
         volume: 1.092 × 10<sup>16</sup> km<sup>3</sup><br/>(10081.521 Yrths)
-        mass: 1.860 × 10<sup>28</sup> kg<br />(322.97209584259224 Yrths)
+        mass: 1.860 × 10<sup>28</sup> kg<br />(3114.569 Yrths)
         density: 1.703 g/cm<sup>3</sup>
         surface_gravity: 65.449 m/s<sup>2</sup><br />(6.674 g<sub>0</sub>)
         escape_velocity: 134.313 km/s<br />(483,527 km/h)
         rotation_period: 40.249 d
         axial_tilt: 22.26°
         albedo: 0.30
-        temperature: 5326 K<br />(5053 °C)
+        temperature: 1583 K<br />(1310 °C)
       - name: 0006 Niokeroiad D I c
         type: Icy
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 167,600.0 km<br/>(26.307 Yrths)
         surface_area: 3.530 × 10<sup>11</sup> km<sup>2</sup><br/>(692.042 Yrths)
         volume: 1.972 × 10<sup>16</sup> km<sup>3</sup><br/>(18205.350 Yrths)
-        mass: 2.875 × 10<sup>28</sup> kg<br />(322.97209584259224 Yrths)
+        mass: 2.875 × 10<sup>28</sup> kg<br />(4814.386 Yrths)
         density: 1.458 g/cm<sup>3</sup>
         surface_gravity: 68.223 m/s<sup>2</sup><br />(6.957 g<sub>0</sub>)
         escape_velocity: 151.325 km/s<br />(544,771 km/h)
         rotation_period: 53.165 d
         axial_tilt: 21.08°
         albedo: 0.30
-        temperature: 2733 K<br />(2460 °C)
+        temperature: 1583 K<br />(1310 °C)
       - name: 0006 Niokeroiad D I d
         type: Icy
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 260,638.3 km<br/>(40.910 Yrths)
         surface_area: 8.537 × 10<sup>11</sup> km<sup>2</sup><br/>(1673.637 Yrths)
         volume: 7.417 × 10<sup>16</sup> km<sup>3</sup><br/>(68468.683 Yrths)
-        mass: 1.132 × 10<sup>29</sup> kg<br />(322.97209584259224 Yrths)
+        mass: 1.132 × 10<sup>29</sup> kg<br />(18952.135 Yrths)
         density: 1.526 g/cm<sup>3</sup>
         surface_gravity: 111.050 m/s<sup>2</sup><br />(11.324 g<sub>0</sub>)
         escape_velocity: 240.762 km/s<br />(866,743 km/h)
         rotation_period: 44.861 d
         axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 2606 K<br />(2333 °C)
+        temperature: 1583 K<br />(1310 °C)
       - name: 0006 Niokeroiad D I e
         type: Icy
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 151,249.4 km<br/>(23.740 Yrths)
         surface_area: 2.875 × 10<sup>11</sup> km<sup>2</sup><br/>(563.602 Yrths)
         volume: 1.449 × 10<sup>16</sup> km<sup>3</sup><br/>(13380.076 Yrths)
-        mass: 2.667 × 10<sup>28</sup> kg<br />(322.97209584259224 Yrths)
+        mass: 2.667 × 10<sup>28</sup> kg<br />(4465.944 Yrths)
         density: 1.840 g/cm<sup>3</sup>
         surface_gravity: 77.707 m/s<sup>2</sup><br />(7.924 g<sub>0</sub>)
         escape_velocity: 153.422 km/s<br />(552,319 km/h)
         rotation_period: 37.851 d
         axial_tilt: 14.38°
         albedo: 0.30
-        temperature: 1697 K<br />(1424 °C)
+        temperature: 1583 K<br />(1310 °C)
       - name: 0006 Niokeroiad D I f
         type: Icy
         formationType: Impact formed
@@ -157,14 +157,14 @@ planets:
         radius: 190,721.6 km<br/>(29.936 Yrths)
         surface_area: 4.571 × 10<sup>11</sup> km<sup>2</sup><br/>(896.158 Yrths)
         volume: 2.906 × 10<sup>16</sup> km<sup>3</sup><br/>(26827.297 Yrths)
-        mass: 3.154 × 10<sup>28</sup> kg<br />(322.97209584259224 Yrths)
+        mass: 3.154 × 10<sup>28</sup> kg<br />(5280.917 Yrths)
         density: 1.085 g/cm<sup>3</sup>
         surface_gravity: 57.789 m/s<sup>2</sup><br />(5.893 g<sub>0</sub>)
         escape_velocity: 148.570 km/s<br />(534,854 km/h)
         rotation_period: 60.691 d
         axial_tilt: 16.58°
         albedo: 0.30
-        temperature: 1216 K<br />(943 °C)
+        temperature: 1583 K<br />(1310 °C)
       - name: 0006 Niokeroiad D I g
         type: Dwarf planet
         formationType: Accreted
@@ -177,12 +177,12 @@ planets:
         radius: 147,797.5 km<br/>(23.198 Yrths)
         surface_area: 2.745 × 10<sup>11</sup> km<sup>2</sup><br/>(538.170 Yrths)
         volume: 1.352 × 10<sup>16</sup> km<sup>3</sup><br/>(12484.720 Yrths)
-        mass: 2.374 × 10<sup>28</sup> kg<br />(322.97209584259224 Yrths)
+        mass: 2.374 × 10<sup>28</sup> kg<br />(3975.495 Yrths)
         density: 1.756 g/cm<sup>3</sup>
         surface_gravity: 72.442 m/s<sup>2</sup><br />(7.387 g<sub>0</sub>)
         escape_velocity: 146.433 km/s<br />(527,160 km/h)
         rotation_period: 46.662 d
         axial_tilt: 28.38°
         albedo: 0.30
-        temperature: 913 K<br />(640 °C)
+        temperature: 1583 K<br />(1310 °C)
 ---

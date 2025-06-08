@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0260 Tanashad is a star in the constellation Tanas
+      0260 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 112.36 ly
 apparent_magnitude: 6.33
 absolute_magnitude: 3.65
@@ -31,7 +31,7 @@ planets:
     radius: 223.9 km<br/>(0.035 Yrths)
     surface_area: 6.297 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.699 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.635 × 10<sup>27</sup> kg<br />(273.78369231138214 Yrths)
+    mass: 1.635 × 10<sup>27</sup> kg<br />(273.78 Yrths)
     density: 34796135.126 g/cm<sup>3</sup>
     surface_gravity: 2174728.055 m/s<sup>2</sup><br />(221760.546 g<sub>0</sub>)
     escape_velocity: 987.409 km/s<br />(3,554,671 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 161,132.2 km<br/>(25.292 Yrths)
         surface_area: 3.263 × 10<sup>11</sup> km<sup>2</sup><br/>(639.660 Yrths)
         volume: 1.752 × 10<sup>16</sup> km<sup>3</sup><br/>(16177.973 Yrths)
-        mass: 2.301 × 10<sup>28</sup> kg<br />(273.78369231138214 Yrths)
+        mass: 2.301 × 10<sup>28</sup> kg<br />(3852.836 Yrths)
         density: 1.313 g/cm<sup>3</sup>
         surface_gravity: 59.068 m/s<sup>2</sup><br />(6.023 g<sub>0</sub>)
         escape_velocity: 138.063 km/s<br />(497,026 km/h)
         rotation_period: 80.890 d
         axial_tilt: 7.74°
         albedo: 0.30
-        temperature: 1016 K<br />(743 °C)
+        temperature: 222 K<br />(-52 °C)
       - name: 0260 Tanashad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 139,067.4 km<br/>(21.828 Yrths)
         surface_area: 2.430 × 10<sup>11</sup> km<sup>2</sup><br/>(476.470 Yrths)
         volume: 1.127 × 10<sup>16</sup> km<sup>3</sup><br/>(10400.468 Yrths)
-        mass: 3.013 × 10<sup>28</sup> kg<br />(273.78369231138214 Yrths)
+        mass: 3.013 × 10<sup>28</sup> kg<br />(5044.908 Yrths)
         density: 2.674 g/cm<sup>3</sup>
         surface_gravity: 103.834 m/s<sup>2</sup><br />(10.588 g<sub>0</sub>)
         escape_velocity: 170.056 km/s<br />(612,201 km/h)
         rotation_period: 53.929 d
         axial_tilt: 18.39°
         albedo: 0.30
-        temperature: 309 K<br />(36 °C)
+        temperature: 222 K<br />(-52 °C)
       - name: 0260 Tanashad I c
         type: Dwarf planet
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 140,569.5 km<br/>(22.064 Yrths)
         surface_area: 2.483 × 10<sup>11</sup> km<sup>2</sup><br/>(486.819 Yrths)
         volume: 1.163 × 10<sup>16</sup> km<sup>3</sup><br/>(10741.147 Yrths)
-        mass: 2.457 × 10<sup>28</sup> kg<br />(273.78369231138214 Yrths)
+        mass: 2.457 × 10<sup>28</sup> kg<br />(4114.120 Yrths)
         density: 2.112 g/cm<sup>3</sup>
         surface_gravity: 82.876 m/s<sup>2</sup><br />(8.451 g<sub>0</sub>)
         escape_velocity: 152.746 km/s<br />(549,887 km/h)
         rotation_period: 40.675 d
         axial_tilt: 30.32°
         albedo: 0.30
-        temperature: 174 K<br />(-99 °C)
+        temperature: 222 K<br />(-52 °C)
       - name: 0260 Tanashad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 143,965.7 km<br/>(22.597 Yrths)
         surface_area: 2.605 × 10<sup>11</sup> km<sup>2</sup><br/>(510.626 Yrths)
         volume: 1.250 × 10<sup>16</sup> km<sup>3</sup><br/>(11538.639 Yrths)
-        mass: 3.048 × 10<sup>28</sup> kg<br />(273.78369231138214 Yrths)
+        mass: 3.048 × 10<sup>28</sup> kg<br />(5104.436 Yrths)
         density: 2.439 g/cm<sup>3</sup>
         surface_gravity: 98.031 m/s<sup>2</sup><br />(9.996 g<sub>0</sub>)
         escape_velocity: 168.121 km/s<br />(605,236 km/h)
         rotation_period: 58.619 d
         axial_tilt: 14.70°
         albedo: 0.30
-        temperature: 56 K<br />(-218 °C)
+        temperature: 222 K<br />(-52 °C)
       - name: 0260 Tanashad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 134,171.1 km<br/>(21.060 Yrths)
         surface_area: 2.262 × 10<sup>11</sup> km<sup>2</sup><br/>(443.509 Yrths)
         volume: 1.012 × 10<sup>16</sup> km<sup>3</sup><br/>(9340.150 Yrths)
-        mass: 2.506 × 10<sup>28</sup> kg<br />(273.78369231138214 Yrths)
+        mass: 2.506 × 10<sup>28</sup> kg<br />(4195.637 Yrths)
         density: 2.477 g/cm<sup>3</sup>
         surface_gravity: 92.772 m/s<sup>2</sup><br />(9.460 g<sub>0</sub>)
         escape_velocity: 157.887 km/s<br />(568,394 km/h)
         rotation_period: 38.233 d
         axial_tilt: 21.76°
         albedo: 0.30
-        temperature: 53 K<br />(-220 °C)
+        temperature: 222 K<br />(-52 °C)
   - name: 0260 Tanashad II
     type: Terrestrial
     aphelion: 811,141,088 km<br />5.422 AU
@@ -151,14 +151,14 @@ planets:
     radius: 4,250.2 km<br/>(0.667 Yrths)
     surface_area: 2.270 × 10<sup>08</sup> km<sup>2</sup><br/>(0.445 Yrths)
     volume: 3.216 × 10<sup>11</sup> km<sup>3</sup><br/>(0.297 Yrths)
-    mass: 1.560 × 10<sup>24</sup> kg<br />(0.2611636234037465 Yrths)
+    mass: 1.560 × 10<sup>24</sup> kg<br />(0.26 Yrths)
     density: 4.850 g/cm<sup>3</sup>
     surface_gravity: 5.755 m/s<sup>2</sup><br />(0.587 g<sub>0</sub>)
     escape_velocity: 6.999 km/s<br />(25,196 km/h)
     rotation_period: 1.533 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 174 K<br />(-99 °C)
+    temperature: 219 K<br />(-54 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 94.7427% ammonia
@@ -178,14 +178,14 @@ planets:
         radius: 617.9 km<br/>(0.097 Yrths)
         surface_area: 4.797 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 9.881 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.322 × 10<sup>21</sup> kg<br />(0.2611636234037465 Yrths)
+        mass: 2.322 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.350 g/cm<sup>3</sup>
         surface_gravity: 0.405 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.708 km/s<br />(2,550 km/h)
         rotation_period: 37.196 d
         axial_tilt: 9.85°
         albedo: 0.30
-        temperature: 2898 K<br />(2625 °C)
+        temperature: 158 K<br />(-115 °C)
       - name: 0260 Tanashad II b
         type: Rocky
         formationType: Impact formed
@@ -198,14 +198,14 @@ planets:
         radius: 1,237.3 km<br/>(0.194 Yrths)
         surface_area: 1.924 × 10<sup>07</sup> km<sup>2</sup><br/>(0.038 Yrths)
         volume: 7.935 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 2.251 × 10<sup>22</sup> kg<br />(0.2611636234037465 Yrths)
+        mass: 2.251 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.837 g/cm<sup>3</sup>
         surface_gravity: 0.980 m/s<sup>2</sup><br />(0.100 g<sub>0</sub>)
         escape_velocity: 1.558 km/s<br />(5,611 km/h)
         rotation_period: 36.208 d
         axial_tilt: 9.15°
         albedo: 0.30
-        temperature: 2764 K<br />(2490 °C)
+        temperature: 158 K<br />(-115 °C)
   - name: 0260 Tanashad III
     type: Gas dwarf
     aphelion: 1,605,653,256 km<br />10.733 AU
@@ -217,14 +217,14 @@ planets:
     radius: 30,430.3 km<br/>(4.776 Yrths)
     surface_area: 1.164 × 10<sup>10</sup> km<sup>2</sup><br/>(22.814 Yrths)
     volume: 1.180 × 10<sup>14</sup> km<sup>3</sup><br/>(108.967 Yrths)
-    mass: 1.992 × 10<sup>26</sup> kg<br />(33.36001462310093 Yrths)
+    mass: 1.992 × 10<sup>26</sup> kg<br />(33.36 Yrths)
     density: 1.688 g/cm<sup>3</sup>
     surface_gravity: 14.340 m/s<sup>2</sup><br />(1.462 g<sub>0</sub>)
     escape_velocity: 29.562 km/s<br />(106,424 km/h)
     rotation_period: 0.326 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 141 K<br />(-132 °C)
+    temperature: 122 K<br />(-151 °C)
     composition:
       - 85.8236% hydrogen
       - 14.1764% helium
@@ -241,14 +241,14 @@ planets:
         radius: 37,221.1 km<br/>(5.842 Yrths)
         surface_area: 1.741 × 10<sup>10</sup> km<sup>2</sup><br/>(34.132 Yrths)
         volume: 2.160 × 10<sup>14</sup> km<sup>3</sup><br/>(199.409 Yrths)
-        mass: 3.623 × 10<sup>26</sup> kg<br />(33.36001462310093 Yrths)
+        mass: 3.623 × 10<sup>26</sup> kg<br />(60.664 Yrths)
         density: 1.677 g/cm<sup>3</sup>
         surface_gravity: 17.430 m/s<sup>2</sup><br />(1.777 g<sub>0</sub>)
         escape_velocity: 36.045 km/s<br />(129,763 km/h)
         rotation_period: 43.542 d
         axial_tilt: 14.91°
         albedo: 0.30
-        temperature: 887 K<br />(614 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0260 Tanashad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -261,14 +261,14 @@ planets:
         radius: 27,526.4 km<br/>(4.321 Yrths)
         surface_area: 9.522 × 10<sup>09</sup> km<sup>2</sup><br/>(18.667 Yrths)
         volume: 8.737 × 10<sup>13</sup> km<sup>3</sup><br/>(80.654 Yrths)
-        mass: 1.731 × 10<sup>26</sup> kg<br />(33.36001462310093 Yrths)
+        mass: 1.731 × 10<sup>26</sup> kg<br />(28.991 Yrths)
         density: 1.982 g/cm<sup>3</sup>
         surface_gravity: 15.230 m/s<sup>2</sup><br />(1.553 g<sub>0</sub>)
         escape_velocity: 28.976 km/s<br />(104,313 km/h)
         rotation_period: 51.065 d
         axial_tilt: 32.08°
         albedo: 0.30
-        temperature: 846 K<br />(572 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0260 Tanashad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -281,14 +281,14 @@ planets:
         radius: 45,768.1 km<br/>(7.184 Yrths)
         surface_area: 2.632 × 10<sup>10</sup> km<sup>2</sup><br/>(51.607 Yrths)
         volume: 4.016 × 10<sup>14</sup> km<sup>3</sup><br/>(370.738 Yrths)
-        mass: 8.731 × 10<sup>26</sup> kg<br />(33.36001462310093 Yrths)
+        mass: 8.731 × 10<sup>26</sup> kg<br />(146.204 Yrths)
         density: 2.174 g/cm<sup>3</sup>
         surface_gravity: 27.782 m/s<sup>2</sup><br />(2.833 g<sub>0</sub>)
         escape_velocity: 50.463 km/s<br />(181,668 km/h)
         rotation_period: 37.621 d
         axial_tilt: 21.74°
         albedo: 0.30
-        temperature: 806 K<br />(533 °C)
+        temperature: 112 K<br />(-161 °C)
       - name: 0260 Tanashad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -301,12 +301,12 @@ planets:
         radius: 28,338.6 km<br/>(4.448 Yrths)
         surface_area: 1.009 × 10<sup>10</sup> km<sup>2</sup><br/>(19.785 Yrths)
         volume: 9.533 × 10<sup>13</sup> km<sup>3</sup><br/>(88.006 Yrths)
-        mass: 2.124 × 10<sup>26</sup> kg<br />(33.36001462310093 Yrths)
+        mass: 2.124 × 10<sup>26</sup> kg<br />(35.562 Yrths)
         density: 2.228 g/cm<sup>3</sup>
         surface_gravity: 17.626 m/s<sup>2</sup><br />(1.797 g<sub>0</sub>)
         escape_velocity: 31.629 km/s<br />(113,863 km/h)
         rotation_period: 48.129 d
         axial_tilt: 20.46°
         albedo: 0.30
-        temperature: 769 K<br />(496 °C)
+        temperature: 112 K<br />(-161 °C)
 ---

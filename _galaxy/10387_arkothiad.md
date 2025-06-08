@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10387 Arkothiad is a star in the constellation Arkoth
+      10387 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 375.42 ly
 apparent_magnitude: 10.60
 absolute_magnitude: 5.30

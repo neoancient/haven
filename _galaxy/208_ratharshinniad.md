@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      208 Ratharshinniad is a star in the constellation Ratharshin
+      208 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 282.62 ly
 apparent_magnitude: 11.11
 absolute_magnitude: 6.43

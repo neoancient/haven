@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6540 Dialkeshiad is a star in the constellation Dialkes
+      6540 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 385.46 ly
 apparent_magnitude: 10.11
 absolute_magnitude: 4.75

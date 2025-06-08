@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0070 Emniaiad B is a star in the constellation Emnia
+      0070 Emniaiad B is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 196.12 ly
 apparent_magnitude: 9.18
 absolute_magnitude: 5.28

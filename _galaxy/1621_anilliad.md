@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1621 Anilliad is a star in the constellation Anil
+      1621 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 403.70 ly
 apparent_magnitude: 17.51
 absolute_magnitude: 12.05

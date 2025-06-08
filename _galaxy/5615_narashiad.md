@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5615 Narashiad is a star in the constellation Naras
+      5615 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 332.03 ly
 apparent_magnitude: 10.56
 absolute_magnitude: 5.52

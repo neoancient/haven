@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1042 Oniad is a star in the constellation Oni
+      1042 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 507.05 ly
 apparent_magnitude: 11.58
 absolute_magnitude: 5.62

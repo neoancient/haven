@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Arunai C is a star in the constellation Esunrain
+      Arunai C is a star in the constellation <a href="esunrain.html">Esunrain</a>
 distance: 312.23 ly
 apparent_magnitude: 9.59
 absolute_magnitude: 4.69

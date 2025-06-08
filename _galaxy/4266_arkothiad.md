@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4266 Arkothiad is a star in the constellation Arkoth
+      4266 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 447.69 ly
 apparent_magnitude: 11.89
 absolute_magnitude: 6.20

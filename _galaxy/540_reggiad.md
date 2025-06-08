@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      540 Reggiad is a star in the constellation Reg
+      540 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 697.19 ly
 apparent_magnitude: 11.43
 absolute_magnitude: 4.78

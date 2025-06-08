@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      226 Niniunniad A is a star in the constellation Niniun
+      226 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 195.53 ly
 apparent_magnitude: 10.58
 absolute_magnitude: 6.69

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1790 Noniashad is a star in the constellation Nonias
+      1790 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 363.43 ly
 apparent_magnitude: 10.22
 absolute_magnitude: 4.99

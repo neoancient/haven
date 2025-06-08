@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0199 Reggiad is a star in the constellation Reg
+      0199 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 1149.59 ly
 apparent_magnitude: 6.41
 absolute_magnitude: -1.32
@@ -31,14 +31,14 @@ planets:
     radius: 5,930.1 km<br/>(0.931 Yrths)
     surface_area: 4.419 × 10<sup>08</sup> km<sup>2</sup><br/>(0.866 Yrths)
     volume: 8.735 × 10<sup>11</sup> km<sup>3</sup><br/>(0.806 Yrths)
-    mass: 4.634 × 10<sup>24</sup> kg<br />(0.775966501280998 Yrths)
+    mass: 4.634 × 10<sup>24</sup> kg<br />(0.78 Yrths)
     density: 5.305 g/cm<sup>3</sup>
     surface_gravity: 8.783 m/s<sup>2</sup><br />(0.896 g<sub>0</sub>)
     escape_velocity: 10.213 km/s<br />(36,768 km/h)
     rotation_period: 1.086 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 500 K<br />(227 °C)
+    temperature: 703 K<br />(430 °C)
     surface_pressure: 31 kPa<br />(0 atm)
     composition:
       - 91.6527% methane

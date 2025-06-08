@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4723 Dialkeshiad A is a star in the constellation Dialkes
+      4723 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 302.69 ly
 apparent_magnitude: 11.09
 absolute_magnitude: 6.25

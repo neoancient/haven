@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4063 Narashiad is a star in the constellation Naras
+      4063 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 279.07 ly
 apparent_magnitude: 9.54
 absolute_magnitude: 4.88
@@ -31,14 +31,14 @@ planets:
     radius: 6,596.4 km<br/>(1.035 Yrths)
     surface_area: 5.468 × 10<sup>08</sup> km<sup>2</sup><br/>(1.072 Yrths)
     volume: 1.202 × 10<sup>12</sup> km<sup>3</sup><br/>(1.110 Yrths)
-    mass: 6.735 × 10<sup>24</sup> kg<br />(1.1277994767957658 Yrths)
+    mass: 6.735 × 10<sup>24</sup> kg<br />(1.13 Yrths)
     density: 5.602 g/cm<sup>3</sup>
     surface_gravity: 10.317 m/s<sup>2</sup><br />(1.052 g<sub>0</sub>)
     escape_velocity: 11.675 km/s<br />(42,028 km/h)
     rotation_period: 1.592 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 416 K<br />(143 °C)
+    temperature: 991 K<br />(718 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 56.6504% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 2,534.8 km<br/>(0.398 Yrths)
         surface_area: 8.074 × 10<sup>07</sup> km<sup>2</sup><br/>(0.158 Yrths)
         volume: 6.822 × 10<sup>10</sup> km<sup>3</sup><br/>(0.063 Yrths)
-        mass: 2.432 × 10<sup>23</sup> kg<br />(1.1277994767957658 Yrths)
+        mass: 2.432 × 10<sup>23</sup> kg<br />(0.041 Yrths)
         density: 3.564 g/cm<sup>3</sup>
         surface_gravity: 2.522 m/s<sup>2</sup><br />(0.257 g<sub>0</sub>)
         escape_velocity: 3.578 km/s<br />(12,882 km/h)
         rotation_period: 30.378 d
         axial_tilt: 21.82°
         albedo: 0.30
-        temperature: 5322 K<br />(5048 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 4063 Narashiad I b
         type: Rocky
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 2,183.0 km<br/>(0.343 Yrths)
         surface_area: 5.989 × 10<sup>07</sup> km<sup>2</sup><br/>(0.117 Yrths)
         volume: 4.358 × 10<sup>10</sup> km<sup>3</sup><br/>(0.040 Yrths)
-        mass: 1.177 × 10<sup>23</sup> kg<br />(1.1277994767957658 Yrths)
+        mass: 1.177 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 2.702 g/cm<sup>3</sup>
         surface_gravity: 1.647 m/s<sup>2</sup><br />(0.168 g<sub>0</sub>)
         escape_velocity: 2.683 km/s<br />(9,659 km/h)
         rotation_period: 42.621 d
         axial_tilt: 10.78°
         albedo: 0.30
-        temperature: 5074 K<br />(4801 °C)
+        temperature: 320 K<br />(47 °C)
   - name: 4063 Narashiad II
     type: Terrestrial
     aphelion: 177,032,509 km<br />1.183 AU
@@ -97,14 +97,14 @@ planets:
     radius: 7,378.3 km<br/>(1.158 Yrths)
     surface_area: 6.841 × 10<sup>08</sup> km<sup>2</sup><br/>(1.341 Yrths)
     volume: 1.682 × 10<sup>12</sup> km<sup>3</sup><br/>(1.553 Yrths)
-    mass: 6.895 × 10<sup>24</sup> kg<br />(1.154481267692457 Yrths)
+    mass: 6.895 × 10<sup>24</sup> kg<br />(1.15 Yrths)
     density: 4.098 g/cm<sup>3</sup>
     surface_gravity: 8.441 m/s<sup>2</sup><br />(0.861 g<sub>0</sub>)
     escape_velocity: 11.168 km/s<br />(40,206 km/h)
     rotation_period: 1.191 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 261 K<br />(-12 °C)
+    temperature: 305 K<br />(32 °C)
     surface_pressure: 10 kPa<br />(0 atm)
     composition:
       - 58.8236% nitrogen
@@ -125,14 +125,14 @@ planets:
         radius: 2,737.9 km<br/>(0.430 Yrths)
         surface_area: 9.420 × 10<sup>07</sup> km<sup>2</sup><br/>(0.185 Yrths)
         volume: 8.597 × 10<sup>10</sup> km<sup>3</sup><br/>(0.079 Yrths)
-        mass: 3.071 × 10<sup>23</sup> kg<br />(1.154481267692457 Yrths)
+        mass: 3.071 × 10<sup>23</sup> kg<br />(0.051 Yrths)
         density: 3.573 g/cm<sup>3</sup>
         surface_gravity: 2.731 m/s<sup>2</sup><br />(0.278 g<sub>0</sub>)
         escape_velocity: 3.870 km/s<br />(13,931 km/h)
         rotation_period: 26.461 d
         axial_tilt: 56.29°
         albedo: 0.30
-        temperature: 3373 K<br />(3100 °C)
+        temperature: 240 K<br />(-33 °C)
   - name: 4063 Narashiad III
     type: Terrestrial
     aphelion: 333,939,621 km<br />2.232 AU
@@ -144,14 +144,14 @@ planets:
     radius: 6,669.4 km<br/>(1.047 Yrths)
     surface_area: 5.590 × 10<sup>08</sup> km<sup>2</sup><br/>(1.096 Yrths)
     volume: 1.243 × 10<sup>12</sup> km<sup>3</sup><br/>(1.147 Yrths)
-    mass: 6.217 × 10<sup>24</sup> kg<br />(1.0410454434333578 Yrths)
+    mass: 6.217 × 10<sup>24</sup> kg<br />(1.04 Yrths)
     density: 5.003 g/cm<sup>3</sup>
     surface_gravity: 9.316 m/s<sup>2</sup><br />(0.950 g<sub>0</sub>)
     escape_velocity: 11.155 km/s<br />(40,158 km/h)
     rotation_period: 1.070 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 203 K<br />(-70 °C)
+    temperature: 247 K<br />(-26 °C)
     surface_pressure: 17 kPa<br />(0 atm)
     composition:
       - 83.7364% nitrogen
@@ -172,14 +172,14 @@ planets:
         radius: 1,851.4 km<br/>(0.291 Yrths)
         surface_area: 4.307 × 10<sup>07</sup> km<sup>2</sup><br/>(0.084 Yrths)
         volume: 2.658 × 10<sup>10</sup> km<sup>3</sup><br/>(0.025 Yrths)
-        mass: 6.379 × 10<sup>22</sup> kg<br />(1.0410454434333578 Yrths)
+        mass: 6.379 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 1.241 m/s<sup>2</sup><br />(0.126 g<sub>0</sub>)
         escape_velocity: 2.145 km/s<br />(7,721 km/h)
         rotation_period: 41.228 d
         axial_tilt: 9.31°
         albedo: 0.30
-        temperature: 2606 K<br />(2333 °C)
+        temperature: 180 K<br />(-93 °C)
       - name: 4063 Narashiad III b
         type: Rocky
         formationType: Impact formed
@@ -192,14 +192,14 @@ planets:
         radius: 2,521.5 km<br/>(0.396 Yrths)
         surface_area: 7.990 × 10<sup>07</sup> km<sup>2</sup><br/>(0.157 Yrths)
         volume: 6.716 × 10<sup>10</sup> km<sup>3</sup><br/>(0.062 Yrths)
-        mass: 1.809 × 10<sup>23</sup> kg<br />(1.0410454434333578 Yrths)
+        mass: 1.809 × 10<sup>23</sup> kg<br />(0.030 Yrths)
         density: 2.694 g/cm<sup>3</sup>
         surface_gravity: 1.897 m/s<sup>2</sup><br />(0.193 g<sub>0</sub>)
         escape_velocity: 3.095 km/s<br />(11,141 km/h)
         rotation_period: 36.593 d
         axial_tilt: 15.32°
         albedo: 0.30
-        temperature: 2485 K<br />(2212 °C)
+        temperature: 180 K<br />(-93 °C)
   - name: 4063 Narashiad IV
     type: Gas giant
     aphelion: 581,394,968 km<br />3.886 AU
@@ -211,7 +211,7 @@ planets:
     radius: 215.3 km<br/>(0.034 Yrths)
     surface_area: 5.826 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.181 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.385 × 10<sup>27</sup> kg<br />(231.89095773234004 Yrths)
+    mass: 1.385 × 10<sup>27</sup> kg<br />(231.89 Yrths)
     density: 33119064.236 g/cm<sup>3</sup>
     surface_gravity: 1990956.336 m/s<sup>2</sup><br />(203021.046 g<sub>0</sub>)
     escape_velocity: 926.574 km/s<br />(3,335,667 km/h)
@@ -232,14 +232,14 @@ planets:
         radius: 158,450.5 km<br/>(24.871 Yrths)
         surface_area: 3.155 × 10<sup>11</sup> km<sup>2</sup><br/>(618.546 Yrths)
         volume: 1.666 × 10<sup>16</sup> km<sup>3</sup><br/>(15383.614 Yrths)
-        mass: 3.090 × 10<sup>28</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 3.090 × 10<sup>28</sup> kg<br />(5174.177 Yrths)
         density: 1.854 g/cm<sup>3</sup>
         surface_gravity: 82.033 m/s<sup>2</sup><br />(8.365 g<sub>0</sub>)
         escape_velocity: 161.344 km/s<br />(580,837 km/h)
         rotation_period: 39.619 d
         axial_tilt: 27.99°
         albedo: 0.30
-        temperature: 767 K<br />(494 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV b
         type: Rocky
         formationType: Captured
@@ -252,14 +252,14 @@ planets:
         radius: 96,920.9 km<br/>(15.213 Yrths)
         surface_area: 1.180 × 10<sup>11</sup> km<sup>2</sup><br/>(231.430 Yrths)
         volume: 3.814 × 10<sup>15</sup> km<sup>3</sup><br/>(3520.705 Yrths)
-        mass: 1.288 × 10<sup>28</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 1.288 × 10<sup>28</sup> kg<br />(2156.017 Yrths)
         density: 3.376 g/cm<sup>3</sup>
         surface_gravity: 91.359 m/s<sup>2</sup><br />(9.316 g<sub>0</sub>)
         escape_velocity: 133.167 km/s<br />(479,400 km/h)
         rotation_period: 47.150 d
         axial_tilt: 16.02°
         albedo: 0.30
-        temperature: 698 K<br />(424 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV c
         type: Icy
         formationType: Captured
@@ -272,14 +272,14 @@ planets:
         radius: 176,601.7 km<br/>(27.720 Yrths)
         surface_area: 3.919 × 10<sup>11</sup> km<sup>2</sup><br/>(768.377 Yrths)
         volume: 2.307 × 10<sup>16</sup> km<sup>3</sup><br/>(21299.134 Yrths)
-        mass: 2.267 × 10<sup>28</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 2.267 × 10<sup>28</sup> kg<br />(3796.163 Yrths)
         density: 0.983 g/cm<sup>3</sup>
         surface_gravity: 48.450 m/s<sup>2</sup><br />(4.940 g<sub>0</sub>)
         escape_velocity: 130.904 km/s<br />(471,254 km/h)
         rotation_period: 54.800 d
         axial_tilt: 14.00°
         albedo: 0.30
-        temperature: 524 K<br />(251 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -292,14 +292,14 @@ planets:
         radius: 132,318.4 km<br/>(20.769 Yrths)
         surface_area: 2.200 × 10<sup>11</sup> km<sup>2</sup><br/>(431.345 Yrths)
         volume: 9.704 × 10<sup>15</sup> km<sup>3</sup><br/>(8958.546 Yrths)
-        mass: 2.100 × 10<sup>28</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 2.100 × 10<sup>28</sup> kg<br />(3515.711 Yrths)
         density: 2.164 g/cm<sup>3</sup>
         surface_gravity: 79.930 m/s<sup>2</sup><br />(8.151 g<sub>0</sub>)
         escape_velocity: 145.537 km/s<br />(523,934 km/h)
         rotation_period: 43.045 d
         axial_tilt: 25.64°
         albedo: 0.30
-        temperature: 500 K<br />(227 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV e
         type: Icy
         formationType: Accreted
@@ -312,14 +312,14 @@ planets:
         radius: 148,239.2 km<br/>(23.268 Yrths)
         surface_area: 2.761 × 10<sup>11</sup> km<sup>2</sup><br/>(541.391 Yrths)
         volume: 1.365 × 10<sup>16</sup> km<sup>3</sup><br/>(12596.979 Yrths)
-        mass: 1.766 × 10<sup>28</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 1.766 × 10<sup>28</sup> kg<br />(2956.594 Yrths)
         density: 1.294 g/cm<sup>3</sup>
         surface_gravity: 53.555 m/s<sup>2</sup><br />(5.461 g<sub>0</sub>)
         escape_velocity: 126.093 km/s<br />(453,936 km/h)
         rotation_period: 56.711 d
         axial_tilt: 19.47°
         albedo: 0.30
-        temperature: 212 K<br />(-61 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV f
         type: Ice/rock hybrid
         formationType: Captured
@@ -332,14 +332,14 @@ planets:
         radius: 103,828.9 km<br/>(16.297 Yrths)
         surface_area: 1.355 × 10<sup>11</sup> km<sup>2</sup><br/>(265.596 Yrths)
         volume: 4.689 × 10<sup>15</sup> km<sup>3</sup><br/>(4328.451 Yrths)
-        mass: 1.169 × 10<sup>28</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 1.169 × 10<sup>28</sup> kg<br />(1957.270 Yrths)
         density: 2.493 g/cm<sup>3</sup>
         surface_gravity: 72.269 m/s<sup>2</sup><br />(7.369 g<sub>0</sub>)
         escape_velocity: 122.587 km/s<br />(441,313 km/h)
         rotation_period: 35.814 d
         axial_tilt: 18.29°
         albedo: 0.30
-        temperature: 125 K<br />(-148 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV g
         type: Rocky
         formationType: Accreted
@@ -352,14 +352,14 @@ planets:
         radius: 91,841.5 km<br/>(14.416 Yrths)
         surface_area: 1.060 × 10<sup>11</sup> km<sup>2</sup><br/>(207.808 Yrths)
         volume: 3.245 × 10<sup>15</sup> km<sup>3</sup><br/>(2995.675 Yrths)
-        mass: 9.328 × 10<sup>27</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 9.328 × 10<sup>27</sup> kg<br />(1562.014 Yrths)
         density: 2.875 g/cm<sup>3</sup>
         surface_gravity: 73.713 m/s<sup>2</sup><br />(7.517 g<sub>0</sub>)
         escape_velocity: 116.440 km/s<br />(419,183 km/h)
         rotation_period: 30.225 d
         axial_tilt: 22.44°
         albedo: 0.30
-        temperature: 114 K<br />(-159 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV h
         type: Icy
         formationType: Captured
@@ -372,14 +372,14 @@ planets:
         radius: 130,190.4 km<br/>(20.435 Yrths)
         surface_area: 2.130 × 10<sup>11</sup> km<sup>2</sup><br/>(417.583 Yrths)
         volume: 9.243 × 10<sup>15</sup> km<sup>3</sup><br/>(8533.252 Yrths)
-        mass: 9.266 × 10<sup>27</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 9.266 × 10<sup>27</sup> kg<br />(1551.504 Yrths)
         density: 1.002 g/cm<sup>3</sup>
         surface_gravity: 36.436 m/s<sup>2</sup><br />(3.715 g<sub>0</sub>)
         escape_velocity: 97.469 km/s<br />(350,887 km/h)
         rotation_period: 51.109 d
         axial_tilt: 23.32°
         albedo: 0.30
-        temperature: 90 K<br />(-183 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV i
         type: Asteroid
         formationType: Captured
@@ -392,14 +392,14 @@ planets:
         radius: 120,995.8 km<br/>(18.992 Yrths)
         surface_area: 1.840 × 10<sup>11</sup> km<sup>2</sup><br/>(360.683 Yrths)
         volume: 7.420 × 10<sup>15</sup> km<sup>3</sup><br/>(6849.962 Yrths)
-        mass: 9.646 × 10<sup>27</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 9.646 × 10<sup>27</sup> kg<br />(1615.188 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 43.916 m/s<sup>2</sup><br />(4.478 g<sub>0</sub>)
         escape_velocity: 103.158 km/s<br />(371,370 km/h)
         rotation_period: 46.324 d
         axial_tilt: 34.97°
         albedo: 0.30
-        temperature: 74 K<br />(-199 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV j
         type: Icy
         formationType: Captured
@@ -412,14 +412,14 @@ planets:
         radius: 114,077.2 km<br/>(17.906 Yrths)
         surface_area: 1.635 × 10<sup>11</sup> km<sup>2</sup><br/>(320.614 Yrths)
         volume: 6.218 × 10<sup>15</sup> km<sup>3</sup><br/>(5740.812 Yrths)
-        mass: 9.425 × 10<sup>27</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 9.425 × 10<sup>27</sup> kg<br />(1578.268 Yrths)
         density: 1.516 g/cm<sup>3</sup>
         surface_gravity: 48.275 m/s<sup>2</sup><br />(4.923 g<sub>0</sub>)
         escape_velocity: 105.019 km/s<br />(378,069 km/h)
         rotation_period: 40.758 d
         axial_tilt: 23.51°
         albedo: 0.30
-        temperature: 56 K<br />(-217 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -432,14 +432,14 @@ planets:
         radius: 103,463.6 km<br/>(16.240 Yrths)
         surface_area: 1.345 × 10<sup>11</sup> km<sup>2</sup><br/>(263.730 Yrths)
         volume: 4.639 × 10<sup>15</sup> km<sup>3</sup><br/>(4282.922 Yrths)
-        mass: 1.071 × 10<sup>28</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 1.071 × 10<sup>28</sup> kg<br />(1794.029 Yrths)
         density: 2.309 g/cm<sup>3</sup>
         surface_gravity: 66.710 m/s<sup>2</sup><br />(6.803 g<sub>0</sub>)
         escape_velocity: 117.571 km/s<br />(423,254 km/h)
         rotation_period: 58.477 d
         axial_tilt: 18.60°
         albedo: 0.30
-        temperature: 35 K<br />(-239 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 4063 Narashiad IV l
         type: Icy
         formationType: Accreted
@@ -452,14 +452,14 @@ planets:
         radius: 142,193.9 km<br/>(22.319 Yrths)
         surface_area: 2.541 × 10<sup>11</sup> km<sup>2</sup><br/>(498.135 Yrths)
         volume: 1.204 × 10<sup>16</sup> km<sup>3</sup><br/>(11117.832 Yrths)
-        mass: 1.005 × 10<sup>28</sup> kg<br />(231.89095773234004 Yrths)
+        mass: 1.005 × 10<sup>28</sup> kg<br />(1682.038 Yrths)
         density: 0.834 g/cm<sup>3</sup>
         surface_gravity: 33.114 m/s<sup>2</sup><br />(3.377 g<sub>0</sub>)
         escape_velocity: 97.108 km/s<br />(349,589 km/h)
         rotation_period: 86.865 d
         axial_tilt: 16.37°
         albedo: 0.30
-        temperature: 30 K<br />(-243 °C)
+        temperature: 135 K<br />(-138 °C)
   - name: 4063 Narashiad V
     type: Large terrestrial
     aphelion: 958,579,441 km<br />6.408 AU
@@ -471,14 +471,14 @@ planets:
     radius: 6,720.7 km<br/>(1.055 Yrths)
     surface_area: 5.676 × 10<sup>08</sup> km<sup>2</sup><br/>(1.113 Yrths)
     volume: 1.272 × 10<sup>12</sup> km<sup>3</sup><br/>(1.174 Yrths)
-    mass: 8.874 × 10<sup>24</sup> kg<br />(1.4860056145390796 Yrths)
+    mass: 8.874 × 10<sup>24</sup> kg<br />(1.49 Yrths)
     density: 6.979 g/cm<sup>3</sup>
     surface_gravity: 13.096 m/s<sup>2</sup><br />(1.335 g<sub>0</sub>)
     escape_velocity: 13.276 km/s<br />(47,795 km/h)
     rotation_period: 0.822 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 138 K<br />(-135 °C)
+    temperature: 190 K<br />(-83 °C)
     surface_pressure: 294 kPa<br />(3 atm)
     composition:
       - 91.2293% methane
@@ -498,14 +498,14 @@ planets:
         radius: 4,692.0 km<br/>(0.736 Yrths)
         surface_area: 2.766 × 10<sup>08</sup> km<sup>2</sup><br/>(0.542 Yrths)
         volume: 4.327 × 10<sup>11</sup> km<sup>3</sup><br/>(0.399 Yrths)
-        mass: 5.304 × 10<sup>23</sup> kg<br />(1.4860056145390796 Yrths)
+        mass: 5.304 × 10<sup>23</sup> kg<br />(0.089 Yrths)
         density: 1.226 g/cm<sup>3</sup>
         surface_gravity: 1.606 m/s<sup>2</sup><br />(0.164 g<sub>0</sub>)
         escape_velocity: 3.885 km/s<br />(13,985 km/h)
         rotation_period: 47.022 d
         axial_tilt: 20.90°
         albedo: 0.30
-        temperature: 1431 K<br />(1158 °C)
+        temperature: 102 K<br />(-172 °C)
       - name: 4063 Narashiad V b
         type: Icy
         formationType: Accreted
@@ -518,14 +518,14 @@ planets:
         radius: 5,469.0 km<br/>(0.858 Yrths)
         surface_area: 3.759 × 10<sup>08</sup> km<sup>2</sup><br/>(0.737 Yrths)
         volume: 6.852 × 10<sup>11</sup> km<sup>3</sup><br/>(0.633 Yrths)
-        mass: 1.078 × 10<sup>24</sup> kg<br />(1.4860056145390796 Yrths)
+        mass: 1.078 × 10<sup>24</sup> kg<br />(0.180 Yrths)
         density: 1.573 g/cm<sup>3</sup>
         surface_gravity: 2.402 m/s<sup>2</sup><br />(0.245 g<sub>0</sub>)
         escape_velocity: 5.129 km/s<br />(18,463 km/h)
         rotation_period: 57.271 d
         axial_tilt: 15.09°
         albedo: 0.30
-        temperature: 1365 K<br />(1091 °C)
+        temperature: 102 K<br />(-172 °C)
   - name: 4063 Narashiad VI
     type: Large terrestrial
     aphelion: 1,702,668,953 km<br />11.381 AU
@@ -537,14 +537,14 @@ planets:
     radius: 9,079.1 km<br/>(1.425 Yrths)
     surface_area: 1.036 × 10<sup>09</sup> km<sup>2</sup><br/>(2.031 Yrths)
     volume: 3.135 × 10<sup>12</sup> km<sup>3</sup><br/>(2.894 Yrths)
-    mass: 2.195 × 10<sup>25</sup> kg<br />(3.675431793094527 Yrths)
+    mass: 2.195 × 10<sup>25</sup> kg<br />(3.68 Yrths)
     density: 7.002 g/cm<sup>3</sup>
     surface_gravity: 17.748 m/s<sup>2</sup><br />(1.810 g<sub>0</sub>)
     escape_velocity: 17.964 km/s<br />(64,671 km/h)
     rotation_period: 0.633 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 103 K<br />(-170 °C)
+    temperature: 151 K<br />(-122 °C)
     surface_pressure: 234 kPa<br />(2 atm)
     composition:
       - 83.8402% methane
@@ -565,14 +565,14 @@ planets:
         radius: 10,361.7 km<br/>(1.626 Yrths)
         surface_area: 1.349 × 10<sup>09</sup> km<sup>2</sup><br/>(2.645 Yrths)
         volume: 4.660 × 10<sup>12</sup> km<sup>3</sup><br/>(4.302 Yrths)
-        mass: 7.929 × 10<sup>24</sup> kg<br />(3.675431793094527 Yrths)
+        mass: 7.929 × 10<sup>24</sup> kg<br />(1.328 Yrths)
         density: 1.702 g/cm<sup>3</sup>
         surface_gravity: 4.922 m/s<sup>2</sup><br />(0.502 g<sub>0</sub>)
         escape_velocity: 10.107 km/s<br />(36,384 km/h)
         rotation_period: 64.681 d
         axial_tilt: 31.39°
         albedo: 0.30
-        temperature: 934 K<br />(660 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 4063 Narashiad VI b
         type: Rocky
         formationType: Accreted
@@ -585,14 +585,14 @@ planets:
         radius: 2,829.9 km<br/>(0.444 Yrths)
         surface_area: 1.006 × 10<sup>08</sup> km<sup>2</sup><br/>(0.197 Yrths)
         volume: 9.493 × 10<sup>10</sup> km<sup>3</sup><br/>(0.088 Yrths)
-        mass: 2.846 × 10<sup>23</sup> kg<br />(3.675431793094527 Yrths)
+        mass: 2.846 × 10<sup>23</sup> kg<br />(0.048 Yrths)
         density: 2.998 g/cm<sup>3</sup>
         surface_gravity: 2.369 m/s<sup>2</sup><br />(0.242 g<sub>0</sub>)
         escape_velocity: 3.664 km/s<br />(13,190 km/h)
         rotation_period: 42.837 d
         axial_tilt: 21.55°
         albedo: 0.30
-        temperature: 890 K<br />(617 °C)
+        temperature: 76 K<br />(-197 °C)
       - name: 4063 Narashiad VI c
         type: Rocky
         formationType: Captured
@@ -605,14 +605,14 @@ planets:
         radius: 5,080.6 km<br/>(0.797 Yrths)
         surface_area: 3.244 × 10<sup>08</sup> km<sup>2</sup><br/>(0.636 Yrths)
         volume: 5.493 × 10<sup>11</sup> km<sup>3</sup><br/>(0.507 Yrths)
-        mass: 1.624 × 10<sup>24</sup> kg<br />(3.675431793094527 Yrths)
+        mass: 1.624 × 10<sup>24</sup> kg<br />(0.272 Yrths)
         density: 2.957 g/cm<sup>3</sup>
         surface_gravity: 4.194 m/s<sup>2</sup><br />(0.428 g<sub>0</sub>)
         escape_velocity: 6.532 km/s<br />(23,517 km/h)
         rotation_period: 56.497 d
         axial_tilt: 16.32°
         albedo: 0.30
-        temperature: 849 K<br />(576 °C)
+        temperature: 76 K<br />(-197 °C)
   - name: 4063 Narashiad VII
     type: Ice giant
     aphelion: 3,312,089,969 km<br />22.140 AU
@@ -624,14 +624,14 @@ planets:
     radius: 8,567.8 km<br/>(1.345 Yrths)
     surface_area: 9.225 × 10<sup>08</sup> km<sup>2</sup><br/>(1.809 Yrths)
     volume: 2.635 × 10<sup>12</sup> km<sup>3</sup><br/>(2.432 Yrths)
-    mass: 2.897 × 10<sup>24</sup> kg<br />(0.4851695620031912 Yrths)
+    mass: 2.897 × 10<sup>24</sup> kg<br />(0.49 Yrths)
     density: 1.100 g/cm<sup>3</sup>
     surface_gravity: 2.631 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
     escape_velocity: 6.719 km/s<br />(24,188 km/h)
     rotation_period: 0.575 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 105 K<br />(-168 °C)
+    temperature: 94 K<br />(-179 °C)
     composition:
       - 88.1302% hydrogen
       - 11.5409% helium
@@ -651,14 +651,14 @@ planets:
         radius: 1,254.1 km<br/>(0.197 Yrths)
         surface_area: 1.976 × 10<sup>07</sup> km<sup>2</sup><br/>(0.039 Yrths)
         volume: 8.261 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 1.719 × 10<sup>22</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 1.719 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.081 g/cm<sup>3</sup>
         surface_gravity: 0.728 m/s<sup>2</sup><br />(0.074 g<sub>0</sub>)
         escape_velocity: 1.353 km/s<br />(4,869 km/h)
         rotation_period: 42.464 d
         axial_tilt: 5.96°
         albedo: 0.30
-        temperature: 906 K<br />(633 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -671,14 +671,14 @@ planets:
         radius: 1,402.6 km<br/>(0.220 Yrths)
         surface_area: 2.472 × 10<sup>07</sup> km<sup>2</sup><br/>(0.048 Yrths)
         volume: 1.156 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 2.071 × 10<sup>22</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 2.071 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.792 g/cm<sup>3</sup>
         surface_gravity: 0.702 m/s<sup>2</sup><br />(0.072 g<sub>0</sub>)
         escape_velocity: 1.404 km/s<br />(5,054 km/h)
         rotation_period: 47.935 d
         axial_tilt: 15.70°
         albedo: 0.30
-        temperature: 864 K<br />(591 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -691,14 +691,14 @@ planets:
         radius: 1,001.8 km<br/>(0.157 Yrths)
         surface_area: 1.261 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.212 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.135 × 10<sup>22</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 1.135 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.695 g/cm<sup>3</sup>
         surface_gravity: 0.754 m/s<sup>2</sup><br />(0.077 g<sub>0</sub>)
         escape_velocity: 1.230 km/s<br />(4,428 km/h)
         rotation_period: 33.495 d
         axial_tilt: 22.10°
         albedo: 0.30
-        temperature: 824 K<br />(551 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -711,14 +711,14 @@ planets:
         radius: 1,064.5 km<br/>(0.167 Yrths)
         surface_area: 1.424 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 5.052 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.100 × 10<sup>22</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 1.100 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.178 g/cm<sup>3</sup>
         surface_gravity: 0.647 m/s<sup>2</sup><br />(0.066 g<sub>0</sub>)
         escape_velocity: 1.175 km/s<br />(4,229 km/h)
         rotation_period: 42.306 d
         axial_tilt: 24.95°
         albedo: 0.30
-        temperature: 749 K<br />(476 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII e
         type: Asteroid
         formationType: Captured
@@ -731,14 +731,14 @@ planets:
         radius: 1,029.7 km<br/>(0.162 Yrths)
         surface_area: 1.332 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.573 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 9.721 × 10<sup>21</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 9.721 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.126 g/cm<sup>3</sup>
         surface_gravity: 0.611 m/s<sup>2</sup><br />(0.062 g<sub>0</sub>)
         escape_velocity: 1.123 km/s<br />(4,041 km/h)
         rotation_period: 42.652 d
         axial_tilt: 35.84°
         albedo: 0.30
-        temperature: 714 K<br />(441 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -751,14 +751,14 @@ planets:
         radius: 1,470.7 km<br/>(0.231 Yrths)
         surface_area: 2.718 × 10<sup>07</sup> km<sup>2</sup><br/>(0.053 Yrths)
         volume: 1.333 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 2.293 × 10<sup>22</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 2.293 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 1.721 g/cm<sup>3</sup>
         surface_gravity: 0.706 m/s<sup>2</sup><br />(0.072 g<sub>0</sub>)
         escape_velocity: 1.443 km/s<br />(5,193 km/h)
         rotation_period: 67.397 d
         axial_tilt: 10.35°
         albedo: 0.30
-        temperature: 681 K<br />(408 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII g
         type: Icy
         formationType: Impact formed
@@ -771,14 +771,14 @@ planets:
         radius: 1,509.3 km<br/>(0.237 Yrths)
         surface_area: 2.863 × 10<sup>07</sup> km<sup>2</sup><br/>(0.056 Yrths)
         volume: 1.440 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 1.118 × 10<sup>22</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 1.118 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 0.777 g/cm<sup>3</sup>
         surface_gravity: 0.327 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.995 km/s<br />(3,581 km/h)
         rotation_period: 77.416 d
         axial_tilt: 18.68°
         albedo: 0.30
-        temperature: 649 K<br />(376 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -791,14 +791,14 @@ planets:
         radius: 2,534.0 km<br/>(0.398 Yrths)
         surface_area: 8.069 × 10<sup>07</sup> km<sup>2</sup><br/>(0.158 Yrths)
         volume: 6.815 × 10<sup>10</sup> km<sup>3</sup><br/>(0.063 Yrths)
-        mass: 1.090 × 10<sup>23</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 1.090 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 1.132 m/s<sup>2</sup><br />(0.115 g<sub>0</sub>)
         escape_velocity: 2.397 km/s<br />(8,628 km/h)
         rotation_period: 45.949 d
         axial_tilt: 15.52°
         albedo: 0.30
-        temperature: 619 K<br />(346 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII i
         type: Icy
         formationType: Impact formed
@@ -811,14 +811,14 @@ planets:
         radius: 1,922.0 km<br/>(0.302 Yrths)
         surface_area: 4.642 × 10<sup>07</sup> km<sup>2</sup><br/>(0.091 Yrths)
         volume: 2.974 × 10<sup>10</sup> km<sup>3</sup><br/>(0.027 Yrths)
-        mass: 3.224 × 10<sup>22</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 3.224 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 1.084 g/cm<sup>3</sup>
         surface_gravity: 0.582 m/s<sup>2</sup><br />(0.059 g<sub>0</sub>)
         escape_velocity: 1.496 km/s<br />(5,387 km/h)
         rotation_period: 72.980 d
         axial_tilt: 21.96°
         albedo: 0.30
-        temperature: 590 K<br />(317 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII j
         type: Icy
         formationType: Accreted
@@ -831,14 +831,14 @@ planets:
         radius: 1,855.6 km<br/>(0.291 Yrths)
         surface_area: 4.327 × 10<sup>07</sup> km<sup>2</sup><br/>(0.085 Yrths)
         volume: 2.676 × 10<sup>10</sup> km<sup>3</sup><br/>(0.025 Yrths)
-        mass: 2.984 × 10<sup>22</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 2.984 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 1.115 g/cm<sup>3</sup>
         surface_gravity: 0.578 m/s<sup>2</sup><br />(0.059 g<sub>0</sub>)
         escape_velocity: 1.465 km/s<br />(5,275 km/h)
         rotation_period: 48.747 d
         axial_tilt: 18.17°
         albedo: 0.30
-        temperature: 563 K<br />(290 °C)
+        temperature: 57 K<br />(-216 °C)
       - name: 4063 Narashiad VII k
         type: Asteroid
         formationType: Captured
@@ -851,14 +851,14 @@ planets:
         radius: 914.9 km<br/>(0.144 Yrths)
         surface_area: 1.052 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.208 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 9.018 × 10<sup>21</sup> kg<br />(0.4851695620031912 Yrths)
+        mass: 9.018 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.811 g/cm<sup>3</sup>
         surface_gravity: 0.718 m/s<sup>2</sup><br />(0.073 g<sub>0</sub>)
         escape_velocity: 1.147 km/s<br />(4,129 km/h)
         rotation_period: 32.843 d
         axial_tilt: 8.40°
         albedo: 0.30
-        temperature: 537 K<br />(263 °C)
+        temperature: 57 K<br />(-216 °C)
   - name: 4063 Narashiad VIII
     type: Gas giant
     aphelion: 5,608,961,852 km<br />37.493 AU
@@ -870,7 +870,7 @@ planets:
     radius: 143.9 km<br/>(0.023 Yrths)
     surface_area: 2.604 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.249 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.456 × 10<sup>26</sup> kg<br />(41.12440964145558 Yrths)
+    mass: 2.456 × 10<sup>26</sup> kg<br />(41.12 Yrths)
     density: 19657179.945 g/cm<sup>3</sup>
     surface_gravity: 790003.703 m/s<sup>2</sup><br />(80557.958 g<sub>0</sub>)
     escape_velocity: 477.228 km/s<br />(1,718,021 km/h)
@@ -891,14 +891,14 @@ planets:
         radius: 79,733.1 km<br/>(12.515 Yrths)
         surface_area: 7.989 × 10<sup>10</sup> km<sup>2</sup><br/>(156.625 Yrths)
         volume: 2.123 × 10<sup>15</sup> km<sup>3</sup><br/>(1960.168 Yrths)
-        mass: 2.199 × 10<sup>27</sup> kg<br />(41.12440964145558 Yrths)
+        mass: 2.199 × 10<sup>27</sup> kg<br />(368.257 Yrths)
         density: 1.036 g/cm<sup>3</sup>
         surface_gravity: 23.057 m/s<sup>2</sup><br />(2.351 g<sub>0</sub>)
         escape_velocity: 60.678 km/s<br />(218,442 km/h)
         rotation_period: 49.189 d
         axial_tilt: 12.75°
         albedo: 0.30
-        temperature: 324 K<br />(51 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 4063 Narashiad VIII b
         type: Ice/rock hybrid
         formationType: Captured
@@ -911,14 +911,14 @@ planets:
         radius: 47,785.3 km<br/>(7.500 Yrths)
         surface_area: 2.869 × 10<sup>10</sup> km<sup>2</sup><br/>(56.257 Yrths)
         volume: 4.571 × 10<sup>14</sup> km<sup>3</sup><br/>(421.948 Yrths)
-        mass: 1.280 × 10<sup>27</sup> kg<br />(41.12440964145558 Yrths)
+        mass: 1.280 × 10<sup>27</sup> kg<br />(214.293 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 37.356 m/s<sup>2</sup><br />(3.809 g<sub>0</sub>)
         escape_velocity: 59.791 km/s<br />(215,247 km/h)
         rotation_period: 57.515 d
         axial_tilt: 24.03°
         albedo: 0.30
-        temperature: 51 K<br />(-223 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 4063 Narashiad VIII c
         type: Ice/rock hybrid
         formationType: Captured
@@ -931,14 +931,14 @@ planets:
         radius: 65,717.2 km<br/>(10.315 Yrths)
         surface_area: 5.427 × 10<sup>10</sup> km<sup>2</sup><br/>(106.400 Yrths)
         volume: 1.189 × 10<sup>15</sup> km<sup>3</sup><br/>(1097.523 Yrths)
-        mass: 3.157 × 10<sup>27</sup> kg<br />(41.12440964145558 Yrths)
+        mass: 3.157 × 10<sup>27</sup> kg<br />(528.582 Yrths)
         density: 2.655 g/cm<sup>3</sup>
         surface_gravity: 48.718 m/s<sup>2</sup><br />(4.968 g<sub>0</sub>)
         escape_velocity: 80.075 km/s<br />(288,268 km/h)
         rotation_period: 35.136 d
         axial_tilt: 7.91°
         albedo: 0.30
-        temperature: 48 K<br />(-225 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 4063 Narashiad VIII d
         type: Icy
         formationType: Impact formed
@@ -951,14 +951,14 @@ planets:
         radius: 78,637.1 km<br/>(12.343 Yrths)
         surface_area: 7.771 × 10<sup>10</sup> km<sup>2</sup><br/>(152.349 Yrths)
         volume: 2.037 × 10<sup>15</sup> km<sup>3</sup><br/>(1880.438 Yrths)
-        mass: 3.307 × 10<sup>27</sup> kg<br />(41.12440964145558 Yrths)
+        mass: 3.307 × 10<sup>27</sup> kg<br />(553.734 Yrths)
         density: 1.623 g/cm<sup>3</sup>
         surface_gravity: 35.644 m/s<sup>2</sup><br />(3.635 g<sub>0</sub>)
         escape_velocity: 74.923 km/s<br />(269,722 km/h)
         rotation_period: 71.735 d
         axial_tilt: 18.35°
         albedo: 0.30
-        temperature: 35 K<br />(-239 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 4063 Narashiad VIII e
         type: Icy
         formationType: Accreted
@@ -971,14 +971,14 @@ planets:
         radius: 67,840.9 km<br/>(10.648 Yrths)
         surface_area: 5.784 × 10<sup>10</sup> km<sup>2</sup><br/>(113.388 Yrths)
         volume: 1.308 × 10<sup>15</sup> km<sup>3</sup><br/>(1207.403 Yrths)
-        mass: 1.608 × 10<sup>27</sup> kg<br />(41.12440964145558 Yrths)
+        mass: 1.608 × 10<sup>27</sup> kg<br />(269.174 Yrths)
         density: 1.229 g/cm<sup>3</sup>
         surface_gravity: 23.280 m/s<sup>2</sup><br />(2.374 g<sub>0</sub>)
         escape_velocity: 56.240 km/s<br />(202,465 km/h)
         rotation_period: 52.258 d
         axial_tilt: 24.75°
         albedo: 0.30
-        temperature: 30 K<br />(-243 °C)
+        temperature: 43 K<br />(-230 °C)
       - name: 4063 Narashiad VIII f
         type: Rocky
         formationType: Impact formed
@@ -991,12 +991,12 @@ planets:
         radius: 51,921.4 km<br/>(8.150 Yrths)
         surface_area: 3.388 × 10<sup>10</sup> km<sup>2</sup><br/>(66.417 Yrths)
         volume: 5.863 × 10<sup>14</sup> km<sup>3</sup><br/>(541.272 Yrths)
-        mass: 1.739 × 10<sup>27</sup> kg<br />(41.12440964145558 Yrths)
+        mass: 1.739 × 10<sup>27</sup> kg<br />(291.242 Yrths)
         density: 2.967 g/cm<sup>3</sup>
         surface_gravity: 43.003 m/s<sup>2</sup><br />(4.385 g<sub>0</sub>)
         escape_velocity: 66.870 km/s<br />(240,732 km/h)
         rotation_period: 28.931 d
         axial_tilt: 18.17°
         albedo: 0.30
-        temperature: 21 K<br />(-252 °C)
+        temperature: 43 K<br />(-230 °C)
 ---

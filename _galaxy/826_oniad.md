@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      826 Oniad is a star in the constellation Oni
+      826 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 699.92 ly
 apparent_magnitude: 11.88
 absolute_magnitude: 5.23

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2251 Noniashad is a star in the constellation Nonias
+      2251 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 551.04 ly
 apparent_magnitude: 11.14
 absolute_magnitude: 5.01

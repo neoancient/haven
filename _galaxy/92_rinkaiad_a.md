@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      92 Rinkaiad A is a star in the constellation Rinka
+      92 Rinkaiad A is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 202.87 ly
 apparent_magnitude: 9.54
 absolute_magnitude: 5.57

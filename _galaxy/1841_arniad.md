@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1841 Arniad is a star in the constellation Arni
+      1841 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 405.92 ly
 apparent_magnitude: 11.33
 absolute_magnitude: 5.86

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6986 Tanashad is a star in the constellation Tanas
+      6986 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 498.04 ly
 apparent_magnitude: 13.77
 absolute_magnitude: 7.85

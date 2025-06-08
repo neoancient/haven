@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1411 Orshenniad A is a star in the constellation Orshen
+      1411 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 211.91 ly
 apparent_magnitude: 8.91
 absolute_magnitude: 4.84

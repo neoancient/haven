@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      501 Tanashad is a star in the constellation Tanas
+      501 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 226.52 ly
 apparent_magnitude: 9.23
 absolute_magnitude: 5.02

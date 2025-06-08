@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      491 Geardiad is a star in the constellation Geard
+      491 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 362.30 ly
 apparent_magnitude: 12.36
 absolute_magnitude: 7.14

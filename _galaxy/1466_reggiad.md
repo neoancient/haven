@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1466 Reggiad is a star in the constellation Reg
+      1466 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 331.29 ly
 apparent_magnitude: 11.74
 absolute_magnitude: 6.71

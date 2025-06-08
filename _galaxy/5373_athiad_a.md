@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5373 Athiad A is a star in the constellation Ath
+      5373 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 330.25 ly
 apparent_magnitude: 7.09
 absolute_magnitude: 2.06

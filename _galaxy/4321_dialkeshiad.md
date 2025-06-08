@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4321 Dialkeshiad is a star in the constellation Dialkes
+      4321 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 310.60 ly
 apparent_magnitude: 14.76
 absolute_magnitude: 9.86

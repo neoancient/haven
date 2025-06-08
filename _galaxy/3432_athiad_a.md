@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3432 Athiad A is a star in the constellation Ath
+      3432 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 474.10 ly
 apparent_magnitude: 7.97
 absolute_magnitude: 2.16

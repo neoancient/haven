@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      240 Lunaiad is a star in the constellation Luna
+      240 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 714.31 ly
 apparent_magnitude: 11.34
 absolute_magnitude: 4.64

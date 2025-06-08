@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10397 Tanashad is a star in the constellation Tanas
+      10397 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 494.12 ly
 apparent_magnitude: 15.34
 absolute_magnitude: 9.43

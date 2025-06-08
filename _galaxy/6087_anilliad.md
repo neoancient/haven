@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6087 Anilliad is a star in the constellation Anil
+      6087 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 216.90 ly
 apparent_magnitude: 10.61
 absolute_magnitude: 6.50

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3645 Lunaiad is a star in the constellation Luna
+      3645 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 97.83 ly
 apparent_magnitude: 18.79
 absolute_magnitude: 16.41

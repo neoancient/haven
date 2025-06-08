@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3331 Shanniashiad is a star in the constellation Shannias
+      3331 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 345.10 ly
 apparent_magnitude: 9.93
 absolute_magnitude: 4.81

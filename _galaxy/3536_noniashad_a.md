@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3536 Noniashad A is a star in the constellation Nonias
+      3536 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 792.94 ly
 apparent_magnitude: 6.74
 absolute_magnitude: -0.19

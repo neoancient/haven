@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0033 Nishiad B is a star in the constellation Nishi
+      0033 Nishiad B is a star in the constellation <a href="nishi.html">Nishi</a>
 distance: 1152.13 ly
 apparent_magnitude: 12.43
 absolute_magnitude: 4.69

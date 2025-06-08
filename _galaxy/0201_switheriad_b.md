@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0201 Switheriad B is a star in the constellation Swither
+      0201 Switheriad B is a star in the constellation <a href="swither.html">Swither</a>
 distance: 187.60 ly
 apparent_magnitude: 8.82
 absolute_magnitude: 5.02

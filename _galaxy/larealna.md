@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Larealna is a star in the constellation Shy
+      Larealna is a star in the constellation <a href="shy.html">Shy</a>
 distance: 1405.77 ly
 apparent_magnitude: 2.98
 absolute_magnitude: -5.19

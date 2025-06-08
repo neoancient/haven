@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1768 Keead is a star in the constellation Kee
+      1768 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 423.51 ly
 apparent_magnitude: 10.35
 absolute_magnitude: 4.79

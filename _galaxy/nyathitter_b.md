@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nyathitter B is a star in the constellation Reg
+      Nyathitter B is a star in the constellation <a href="reg.html">Reg</a>
 distance: 1494.58 ly
 apparent_magnitude: 5.83
 absolute_magnitude: -2.48

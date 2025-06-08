@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3207 Shanniashiad is a star in the constellation Shannias
+      3207 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 280.44 ly
 apparent_magnitude: 10.12
 absolute_magnitude: 5.45

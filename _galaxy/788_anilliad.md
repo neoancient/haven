@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      788 Anilliad is a star in the constellation Anil
+      788 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 486.51 ly
 apparent_magnitude: 11.49
 absolute_magnitude: 5.62

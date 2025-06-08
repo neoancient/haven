@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      815 Athiad A is a star in the constellation Ath
+      815 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 601.48 ly
 apparent_magnitude: 7.51
 absolute_magnitude: 1.18

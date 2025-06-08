@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16865 Narashiad is a star in the constellation Naras
+      16865 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 450.26 ly
 apparent_magnitude: 11.05
 absolute_magnitude: 5.35

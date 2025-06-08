@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0040 Norriad A is a star in the constellation Nor
+      0040 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 1524.93 ly
 apparent_magnitude: 6.46
 absolute_magnitude: -1.89

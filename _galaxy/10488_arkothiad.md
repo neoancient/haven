@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10488 Arkothiad is a star in the constellation Arkoth
+      10488 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 248.80 ly
 apparent_magnitude: 9.37
 absolute_magnitude: 4.96

@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0043 Pelnemenniad is a star in the constellation Pelnemen
+      0043 Pelnemenniad is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 127.70 ly
 apparent_magnitude: 6.04
 absolute_magnitude: 3.08
@@ -31,14 +31,14 @@ planets:
     radius: 4,987.2 km<br/>(0.783 Yrths)
     surface_area: 3.125 × 10<sup>08</sup> km<sup>2</sup><br/>(0.613 Yrths)
     volume: 5.196 × 10<sup>11</sup> km<sup>3</sup><br/>(0.480 Yrths)
-    mass: 2.403 × 10<sup>24</sup> kg<br />(0.40245975667382544 Yrths)
+    mass: 2.403 × 10<sup>24</sup> kg<br />(0.40 Yrths)
     density: 4.626 g/cm<sup>3</sup>
     surface_gravity: 6.441 m/s<sup>2</sup><br />(0.657 g<sub>0</sub>)
     escape_velocity: 8.021 km/s<br />(28,875 km/h)
     rotation_period: 1.480 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 266 K<br />(-7 °C)
+    temperature: 346 K<br />(73 °C)
     surface_pressure: 6 kPa<br />(0 atm)
     composition:
       - 95.4144% ammonia
@@ -58,14 +58,14 @@ planets:
         radius: 1,143.7 km<br/>(0.180 Yrths)
         surface_area: 1.644 × 10<sup>07</sup> km<sup>2</sup><br/>(0.032 Yrths)
         volume: 6.266 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.869 × 10<sup>22</sup> kg<br />(0.40245975667382544 Yrths)
+        mass: 1.869 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 2.983 g/cm<sup>3</sup>
         surface_gravity: 0.953 m/s<sup>2</sup><br />(0.097 g<sub>0</sub>)
         escape_velocity: 1.477 km/s<br />(5,318 km/h)
         rotation_period: 37.813 d
         axial_tilt: 9.99°
         albedo: 0.30
-        temperature: 5422 K<br />(5149 °C)
+        temperature: 246 K<br />(-27 °C)
       - name: 0043 Pelnemenniad I b
         type: Asteroid
         formationType: Captured
@@ -78,12 +78,12 @@ planets:
         radius: 481.7 km<br/>(0.076 Yrths)
         surface_area: 2.915 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 4.681 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 9.546 × 10<sup>20</sup> kg<br />(0.40245975667382544 Yrths)
+        mass: 9.546 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.040 g/cm<sup>3</sup>
         surface_gravity: 0.274 m/s<sup>2</sup><br />(0.028 g<sub>0</sub>)
         escape_velocity: 0.514 km/s<br />(1,852 km/h)
         rotation_period: 52.250 d
         axial_tilt: 42.36°
         albedo: 0.30
-        temperature: 5169 K<br />(4896 °C)
+        temperature: 246 K<br />(-27 °C)
 ---

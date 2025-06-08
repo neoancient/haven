@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1027 Lunaiad is a star in the constellation Luna
+      1027 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 341.37 ly
 apparent_magnitude: 6.87
 absolute_magnitude: 1.77
@@ -31,14 +31,14 @@ planets:
     radius: 3,047.5 km<br/>(0.478 Yrths)
     surface_area: 1.167 × 10<sup>08</sup> km<sup>2</sup><br/>(0.229 Yrths)
     volume: 1.186 × 10<sup>11</sup> km<sup>3</sup><br/>(0.109 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.037 g/cm<sup>3</sup>
     surface_gravity: 4.286 m/s<sup>2</sup><br />(0.437 g<sub>0</sub>)
     escape_velocity: 5.115 km/s<br />(18,412 km/h)
     rotation_period: 2.032 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 443 K<br />(169 °C)
+    temperature: 592 K<br />(319 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 95.4298% methane
@@ -58,14 +58,14 @@ planets:
         radius: 563.1 km<br/>(0.088 Yrths)
         surface_area: 3.984 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 7.479 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.481 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.481 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.318 g/cm<sup>3</sup>
         surface_gravity: 0.522 m/s<sup>2</sup><br />(0.053 g<sub>0</sub>)
         escape_velocity: 0.767 km/s<br />(2,761 km/h)
         rotation_period: 29.944 d
         axial_tilt: 10.98°
         albedo: 0.30
-        temperature: 9624 K<br />(9351 °C)
+        temperature: 397 K<br />(124 °C)
   - name: 1027 Lunaiad II
     type: Gas giant
     aphelion: 541,824,266 km<br />3.622 AU
@@ -77,14 +77,14 @@ planets:
     radius: 237.1 km<br/>(0.037 Yrths)
     surface_area: 7.065 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.584 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.089 × 10<sup>27</sup> kg<br />(349.78098072936075 Yrths)
+    mass: 2.089 × 10<sup>27</sup> kg<br />(349.78 Yrths)
     density: 37410164.396 g/cm<sup>3</sup>
     surface_gravity: 2476510.844 m/s<sup>2</sup><br />(252533.826 g<sub>0</sub>)
     escape_velocity: 1084.433 km/s<br />(3,903,960 km/h)
     rotation_period: 0.232 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1198 K<br />(924 °C)
+    temperature: 1149 K<br />(876 °C)
     composition:
       - 83.8395% hydrogen
       - 14.2796% helium
@@ -102,14 +102,14 @@ planets:
         radius: 181,008.4 km<br/>(28.411 Yrths)
         surface_area: 4.117 × 10<sup>11</sup> km<sup>2</sup><br/>(807.202 Yrths)
         volume: 2.484 × 10<sup>16</sup> km<sup>3</sup><br/>(22933.662 Yrths)
-        mass: 4.531 × 10<sup>28</sup> kg<br />(349.78098072936075 Yrths)
+        mass: 4.531 × 10<sup>28</sup> kg<br />(7587.144 Yrths)
         density: 1.824 g/cm<sup>3</sup>
         surface_gravity: 92.176 m/s<sup>2</sup><br />(9.399 g<sub>0</sub>)
         escape_velocity: 182.796 km/s<br />(658,067 km/h)
         rotation_period: 68.332 d
         axial_tilt: 26.11°
         albedo: 0.30
-        temperature: 1391 K<br />(1118 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 1027 Lunaiad II b
         type: Icy
         formationType: Accreted
@@ -122,14 +122,14 @@ planets:
         radius: 172,971.6 km<br/>(27.150 Yrths)
         surface_area: 3.760 × 10<sup>11</sup> km<sup>2</sup><br/>(737.114 Yrths)
         volume: 2.168 × 10<sup>16</sup> km<sup>3</sup><br/>(20012.516 Yrths)
-        mass: 2.741 × 10<sup>28</sup> kg<br />(349.78098072936075 Yrths)
+        mass: 2.741 × 10<sup>28</sup> kg<br />(4589.634 Yrths)
         density: 1.264 g/cm<sup>3</sup>
         surface_gravity: 61.061 m/s<sup>2</sup><br />(6.226 g<sub>0</sub>)
         escape_velocity: 145.439 km/s<br />(523,579 km/h)
         rotation_period: 77.278 d
         axial_tilt: 14.21°
         albedo: 0.30
-        temperature: 1265 K<br />(991 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 1027 Lunaiad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -142,14 +142,14 @@ planets:
         radius: 178,112.8 km<br/>(27.957 Yrths)
         surface_area: 3.987 × 10<sup>11</sup> km<sup>2</sup><br/>(781.583 Yrths)
         volume: 2.367 × 10<sup>16</sup> km<sup>3</sup><br/>(21850.544 Yrths)
-        mass: 5.520 × 10<sup>28</sup> kg<br />(349.78098072936075 Yrths)
+        mass: 5.520 × 10<sup>28</sup> kg<br />(9243.402 Yrths)
         density: 2.332 g/cm<sup>3</sup>
         surface_gravity: 115.979 m/s<sup>2</sup><br />(11.827 g<sub>0</sub>)
         escape_velocity: 203.398 km/s<br />(732,232 km/h)
         rotation_period: 59.705 d
         axial_tilt: 6.97°
         albedo: 0.30
-        temperature: 864 K<br />(591 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 1027 Lunaiad II d
         type: Icy
         formationType: Accreted
@@ -162,14 +162,14 @@ planets:
         radius: 227,169.3 km<br/>(35.657 Yrths)
         surface_area: 6.485 × 10<sup>11</sup> km<sup>2</sup><br/>(1271.405 Yrths)
         volume: 4.911 × 10<sup>16</sup> km<sup>3</sup><br/>(45334.206 Yrths)
-        mass: 5.473 × 10<sup>28</sup> kg<br />(349.78098072936075 Yrths)
+        mass: 5.473 × 10<sup>28</sup> kg<br />(9164.432 Yrths)
         density: 1.115 g/cm<sup>3</sup>
         surface_gravity: 70.687 m/s<sup>2</sup><br />(7.208 g<sub>0</sub>)
         escape_velocity: 179.331 km/s<br />(645,592 km/h)
         rotation_period: 90.960 d
         axial_tilt: 10.01°
         albedo: 0.30
-        temperature: 714 K<br />(441 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 1027 Lunaiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -182,14 +182,14 @@ planets:
         radius: 149,773.4 km<br/>(23.509 Yrths)
         surface_area: 2.819 × 10<sup>11</sup> km<sup>2</sup><br/>(552.655 Yrths)
         volume: 1.407 × 10<sup>16</sup> km<sup>3</sup><br/>(12992.165 Yrths)
-        mass: 3.939 × 10<sup>28</sup> kg<br />(349.78098072936075 Yrths)
+        mass: 3.939 × 10<sup>28</sup> kg<br />(6595.935 Yrths)
         density: 2.799 g/cm<sup>3</sup>
         surface_gravity: 117.042 m/s<sup>2</sup><br />(11.935 g<sub>0</sub>)
         escape_velocity: 187.369 km/s<br />(674,530 km/h)
         rotation_period: 32.107 d
         axial_tilt: 15.49°
         albedo: 0.30
-        temperature: 423 K<br />(149 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 1027 Lunaiad II f
         type: Dwarf planet
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 154,555.7 km<br/>(24.259 Yrths)
         surface_area: 3.002 × 10<sup>11</sup> km<sup>2</sup><br/>(588.511 Yrths)
         volume: 1.546 × 10<sup>16</sup> km<sup>3</sup><br/>(14276.835 Yrths)
-        mass: 2.649 × 10<sup>28</sup> kg<br />(349.78098072936075 Yrths)
+        mass: 2.649 × 10<sup>28</sup> kg<br />(4435.496 Yrths)
         density: 1.713 g/cm<sup>3</sup>
         surface_gravity: 73.911 m/s<sup>2</sup><br />(7.537 g<sub>0</sub>)
         escape_velocity: 151.254 km/s<br />(544,514 km/h)
         rotation_period: 43.677 d
         axial_tilt: 27.84°
         albedo: 0.30
-        temperature: 275 K<br />(2 °C)
+        temperature: 283 K<br />(10 °C)
       - name: 1027 Lunaiad II g
         type: Rocky
         formationType: Accreted
@@ -222,14 +222,14 @@ planets:
         radius: 140,282.1 km<br/>(22.019 Yrths)
         surface_area: 2.473 × 10<sup>11</sup> km<sup>2</sup><br/>(484.830 Yrths)
         volume: 1.156 × 10<sup>16</sup> km<sup>3</sup><br/>(10675.399 Yrths)
-        mass: 2.775 × 10<sup>28</sup> kg<br />(349.78098072936075 Yrths)
+        mass: 2.775 × 10<sup>28</sup> kg<br />(4647.153 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 93.998 m/s<sup>2</sup><br />(9.585 g<sub>0</sub>)
         escape_velocity: 162.506 km/s<br />(585,023 km/h)
         rotation_period: 37.453 d
         axial_tilt: 18.20°
         albedo: 0.30
-        temperature: 227 K<br />(-46 °C)
+        temperature: 283 K<br />(10 °C)
   - name: 1027 Lunaiad III
     type: Gas giant
     aphelion: 1,393,626,353 km<br />9.316 AU
@@ -241,14 +241,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.516 g/cm<sup>3</sup>
     surface_gravity: 31873.847 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 743 K<br />(470 °C)
+    temperature: 716 K<br />(443 °C)
     composition:
       - 89.8201% hydrogen
       - 5.1530% ammonia
@@ -269,14 +269,14 @@ planets:
         radius: 923.9 km<br/>(0.145 Yrths)
         surface_area: 1.073 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.304 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.260 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.260 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.289 g/cm<sup>3</sup>
         surface_gravity: 0.333 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.784 km/s<br />(2,824 km/h)
         rotation_period: 83.505 d
         axial_tilt: 10.93°
         albedo: 0.30
-        temperature: 4686 K<br />(4412 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III b
         type: Icy
         formationType: Accreted
@@ -289,14 +289,14 @@ planets:
         radius: 866.2 km<br/>(0.136 Yrths)
         surface_area: 9.428 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.722 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.198 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.198 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.175 g/cm<sup>3</sup>
         surface_gravity: 0.284 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.702 km/s<br />(2,527 km/h)
         rotation_period: 68.753 d
         axial_tilt: 23.16°
         albedo: 0.30
-        temperature: 3357 K<br />(3083 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III c
         type: Icy
         formationType: Impact formed
@@ -309,14 +309,14 @@ planets:
         radius: 841.5 km<br/>(0.132 Yrths)
         surface_area: 8.898 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.496 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.084 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.084 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.236 g/cm<sup>3</sup>
         surface_gravity: 0.290 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.699 km/s<br />(2,518 km/h)
         rotation_period: 62.606 d
         axial_tilt: 10.51°
         albedo: 0.30
-        temperature: 3051 K<br />(2778 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III d
         type: Icy
         formationType: Accreted
@@ -329,14 +329,14 @@ planets:
         radius: 1,319.3 km<br/>(0.207 Yrths)
         surface_area: 2.187 × 10<sup>07</sup> km<sup>2</sup><br/>(0.043 Yrths)
         volume: 9.618 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 1.257 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.257 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.307 g/cm<sup>3</sup>
         surface_gravity: 0.481 m/s<sup>2</sup><br />(0.049 g<sub>0</sub>)
         escape_velocity: 1.128 km/s<br />(4,060 km/h)
         rotation_period: 61.481 d
         axial_tilt: 13.51°
         albedo: 0.30
-        temperature: 2909 K<br />(2636 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III e
         type: Icy
         formationType: Accreted
@@ -349,14 +349,14 @@ planets:
         radius: 878.1 km<br/>(0.138 Yrths)
         surface_area: 9.690 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.836 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.919 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.919 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.382 g/cm<sup>3</sup>
         surface_gravity: 0.339 m/s<sup>2</sup><br />(0.035 g<sub>0</sub>)
         escape_velocity: 0.772 km/s<br />(2,779 km/h)
         rotation_period: 44.620 d
         axial_tilt: 10.15°
         albedo: 0.30
-        temperature: 2774 K<br />(2501 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III f
         type: Dwarf planet
         formationType: Accreted
@@ -369,14 +369,14 @@ planets:
         radius: 763.7 km<br/>(0.120 Yrths)
         surface_area: 7.328 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.865 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.239 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.239 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 0.256 m/s<sup>2</sup><br />(0.026 g<sub>0</sub>)
         escape_velocity: 0.626 km/s<br />(2,252 km/h)
         rotation_period: 84.404 d
         axial_tilt: 17.40°
         albedo: 0.30
-        temperature: 2084 K<br />(1811 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III g
         type: Dwarf planet
         formationType: Impact formed
@@ -389,14 +389,14 @@ planets:
         radius: 857.8 km<br/>(0.135 Yrths)
         surface_area: 9.247 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.644 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.201 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.201 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.589 g/cm<sup>3</sup>
         surface_gravity: 0.381 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.809 km/s<br />(2,911 km/h)
         rotation_period: 53.190 d
         axial_tilt: 13.13°
         albedo: 0.30
-        temperature: 1020 K<br />(747 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III h
         type: Icy
         formationType: Impact formed
@@ -409,14 +409,14 @@ planets:
         radius: 819.5 km<br/>(0.129 Yrths)
         surface_area: 8.440 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.306 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.180 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.180 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.379 g/cm<sup>3</sup>
         surface_gravity: 0.316 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.720 km/s<br />(2,591 km/h)
         rotation_period: 53.238 d
         axial_tilt: 14.96°
         albedo: 0.30
-        temperature: 804 K<br />(530 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III i
         type: Icy
         formationType: Impact formed
@@ -429,14 +429,14 @@ planets:
         radius: 1,027.7 km<br/>(0.161 Yrths)
         surface_area: 1.327 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.547 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 3.183 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.183 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.201 m/s<sup>2</sup><br />(0.020 g<sub>0</sub>)
         escape_velocity: 0.643 km/s<br />(2,315 km/h)
         rotation_period: 69.267 d
         axial_tilt: 16.92°
         albedo: 0.30
-        temperature: 633 K<br />(360 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -449,14 +449,14 @@ planets:
         radius: 1,077.0 km<br/>(0.169 Yrths)
         surface_area: 1.458 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.233 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.067 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.067 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.039 g/cm<sup>3</sup>
         surface_gravity: 0.613 m/s<sup>2</sup><br />(0.063 g<sub>0</sub>)
         escape_velocity: 1.150 km/s<br />(4,140 km/h)
         rotation_period: 63.890 d
         axial_tilt: 19.54°
         albedo: 0.30
-        temperature: 549 K<br />(276 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III k
         type: Icy
         formationType: Impact formed
@@ -469,14 +469,14 @@ planets:
         radius: 749.2 km<br/>(0.118 Yrths)
         surface_area: 7.053 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.761 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.764 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.764 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.569 g/cm<sup>3</sup>
         surface_gravity: 0.328 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.702 km/s<br />(2,526 km/h)
         rotation_period: 58.167 d
         axial_tilt: 21.15°
         albedo: 0.30
-        temperature: 523 K<br />(250 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 1027 Lunaiad III l
         type: Icy
         formationType: Accreted
@@ -489,12 +489,12 @@ planets:
         radius: 810.4 km<br/>(0.127 Yrths)
         surface_area: 8.252 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.229 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 2.816 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.816 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.263 g/cm<sup>3</sup>
         surface_gravity: 0.286 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.681 km/s<br />(2,452 km/h)
         rotation_period: 58.841 d
         axial_tilt: 18.22°
         albedo: 0.30
-        temperature: 412 K<br />(139 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

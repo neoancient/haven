@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      20297 Dialkeshiad is a star in the constellation Dialkes
+      20297 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 270.96 ly
 apparent_magnitude: 11.36
 absolute_magnitude: 6.76

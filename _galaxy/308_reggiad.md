@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      308 Reggiad is a star in the constellation Reg
+      308 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 584.00 ly
 apparent_magnitude: 11.13
 absolute_magnitude: 4.86

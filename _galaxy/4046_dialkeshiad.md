@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4046 Dialkeshiad is a star in the constellation Dialkes
+      4046 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 364.76 ly
 apparent_magnitude: 12.38
 absolute_magnitude: 7.14

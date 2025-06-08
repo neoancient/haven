@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1537 Switheriad is a star in the constellation Swither
+      1537 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 305.44 ly
 apparent_magnitude: 9.94
 absolute_magnitude: 5.08

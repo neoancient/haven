@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11395 Arkothiad is a star in the constellation Arkoth
+      11395 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 370.29 ly
 apparent_magnitude: 11.20
 absolute_magnitude: 5.92

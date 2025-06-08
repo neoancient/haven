@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2425 Saithiad A is a star in the constellation Saith
+      2425 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1042.71 ly
 apparent_magnitude: 6.80
 absolute_magnitude: -0.72

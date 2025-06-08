@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      263 Ratharshinniad A is a star in the constellation Ratharshin
+      263 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 954.09 ly
 apparent_magnitude: 6.92
 absolute_magnitude: -0.41

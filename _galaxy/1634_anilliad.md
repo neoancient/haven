@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1634 Anilliad is a star in the constellation Anil
+      1634 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 991.98 ly
 apparent_magnitude: 12.57
 absolute_magnitude: 5.15

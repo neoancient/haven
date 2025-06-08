@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      587 Ratharshinniad is a star in the constellation Ratharshin
+      587 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 403.19 ly
 apparent_magnitude: 10.44
 absolute_magnitude: 4.98

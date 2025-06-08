@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1905 Lunaiad is a star in the constellation Luna
+      1905 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 205.79 ly
 apparent_magnitude: 9.92
 absolute_magnitude: 5.92

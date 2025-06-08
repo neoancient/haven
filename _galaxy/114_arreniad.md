@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      114 Arreniad is a star in the constellation Arren
+      114 Arreniad is a star in the constellation <a href="arren.html">Arren</a>
 distance: 116.92 ly
 apparent_magnitude: 8.17
 absolute_magnitude: 5.40

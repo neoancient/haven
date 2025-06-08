@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2362 Geardiad is a star in the constellation Geard
+      2362 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 310.53 ly
 apparent_magnitude: 20.41
 absolute_magnitude: 15.52

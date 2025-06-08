@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8950 Dialkeshiad is a star in the constellation Dialkes
+      8950 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 608.33 ly
 apparent_magnitude: 11.67
 absolute_magnitude: 5.32

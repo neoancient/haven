@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3208 Anilliad is a star in the constellation Anil
+      3208 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 253.11 ly
 apparent_magnitude: 17.89
 absolute_magnitude: 13.44

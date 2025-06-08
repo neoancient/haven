@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3836 Tanashad A is a star in the constellation Tanas
+      3836 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 221.41 ly
 apparent_magnitude: 7.07
 absolute_magnitude: 2.91

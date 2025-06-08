@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0043 Lunaiad B is a star in the constellation Luna
+      0043 Lunaiad B is a star in the constellation <a href="luna.html">Luna</a>
 distance: 905.38 ly
 apparent_magnitude: 9.10
 absolute_magnitude: 1.89

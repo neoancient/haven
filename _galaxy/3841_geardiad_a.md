@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3841 Geardiad A is a star in the constellation Geard
+      3841 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 536.45 ly
 apparent_magnitude: 8.73
 absolute_magnitude: 2.65

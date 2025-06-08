@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      887 Arkothiad is a star in the constellation Arkoth
+      887 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 282.17 ly
 apparent_magnitude: 19.25
 absolute_magnitude: 14.57

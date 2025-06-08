@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9952 Arkothiad is a star in the constellation Arkoth
+      9952 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 198.19 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 6.71

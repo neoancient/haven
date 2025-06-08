@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      204 Kenmulliad A is a star in the constellation Kenmul
+      204 Kenmulliad A is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 235.62 ly
 apparent_magnitude: 9.10
 absolute_magnitude: 4.81

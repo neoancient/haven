@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3705 Arkothiad A is a star in the constellation Arkoth
+      3705 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 776.43 ly
 apparent_magnitude: 6.58
 absolute_magnitude: -0.30

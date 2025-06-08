@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9184 Dialkeshiad is a star in the constellation Dialkes
+      9184 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 376.06 ly
 apparent_magnitude: 11.55
 absolute_magnitude: 6.24

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      18075 Shanniashiad is a star in the constellation Shannias
+      18075 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 476.15 ly
 apparent_magnitude: 10.74
 absolute_magnitude: 4.92

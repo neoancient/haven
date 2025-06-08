@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2552 Lunaiad A is a star in the constellation Luna
+      2552 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 897.74 ly
 apparent_magnitude: 7.43
 absolute_magnitude: 0.23

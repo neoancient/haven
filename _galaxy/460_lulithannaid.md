@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      460 Lulithannaid is a star in the constellation Lulithan
+      460 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 1155.27 ly
 apparent_magnitude: 17.18
 absolute_magnitude: 9.43

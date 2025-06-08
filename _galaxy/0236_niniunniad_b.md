@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0236 Niniunniad B is a star in the constellation Niniun
+      0236 Niniunniad B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 475.30 ly
 apparent_magnitude: 11.08
 absolute_magnitude: 5.26

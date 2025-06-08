@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0049 Niniunniad B is a star in the constellation Niniun
+      0049 Niniunniad B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 638.73 ly
 apparent_magnitude: 12.64
 absolute_magnitude: 6.18

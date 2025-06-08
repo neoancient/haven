@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0166 Enlinniad B is a star in the constellation Enlin
+      0166 Enlinniad B is a star in the constellation <a href="enlin.html">Enlin</a>
 distance: 158.32 ly
 apparent_magnitude: 11.15
 absolute_magnitude: 7.72

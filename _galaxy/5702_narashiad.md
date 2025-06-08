@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5702 Narashiad is a star in the constellation Naras
+      5702 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 332.42 ly
 apparent_magnitude: 9.80
 absolute_magnitude: 4.76

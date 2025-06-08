@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ν Kenmulliad C is a star in the constellation Kenmul
+      ν Kenmulliad C is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 335.08 ly
 apparent_magnitude: 10.10
 absolute_magnitude: 5.04
@@ -31,7 +31,7 @@ planets:
     radius: 201.6 km<br/>(0.032 Yrths)
     surface_area: 5.110 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.434 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.110 × 10<sup>27</sup> kg<br />(185.79721774823412 Yrths)
+    mass: 1.110 × 10<sup>27</sup> kg<br />(185.80 Yrths)
     density: 32308190.854 g/cm<sup>3</sup>
     surface_gravity: 1818876.678 m/s<sup>2</sup><br />(185473.804 g<sub>0</sub>)
     escape_velocity: 857.047 km/s<br />(3,085,368 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 145,852.1 km<br/>(22.893 Yrths)
         surface_area: 2.673 × 10<sup>11</sup> km<sup>2</sup><br/>(524.095 Yrths)
         volume: 1.300 × 10<sup>16</sup> km<sup>3</sup><br/>(11998.180 Yrths)
-        mass: 1.541 × 10<sup>28</sup> kg<br />(185.79721774823412 Yrths)
+        mass: 1.541 × 10<sup>28</sup> kg<br />(2580.774 Yrths)
         density: 1.186 g/cm<sup>3</sup>
         surface_gravity: 48.290 m/s<sup>2</sup><br />(4.924 g<sub>0</sub>)
         escape_velocity: 118.767 km/s<br />(427,562 km/h)
         rotation_period: 48.842 d
         axial_tilt: 21.08°
         albedo: 0.30
-        temperature: 1886 K<br />(1613 °C)
+        temperature: 322 K<br />(49 °C)
       - name: ν Kenmulliad C I b
         type: Rocky
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 111,382.4 km<br/>(17.483 Yrths)
         surface_area: 1.559 × 10<sup>11</sup> km<sup>2</sup><br/>(305.645 Yrths)
         volume: 5.788 × 10<sup>15</sup> km<sup>3</sup><br/>(5343.514 Yrths)
-        mass: 1.572 × 10<sup>28</sup> kg<br />(185.79721774823412 Yrths)
+        mass: 1.572 × 10<sup>28</sup> kg<br />(2632.384 Yrths)
         density: 2.716 g/cm<sup>3</sup>
         surface_gravity: 84.460 m/s<sup>2</sup><br />(8.613 g<sub>0</sub>)
         escape_velocity: 137.260 km/s<br />(494,136 km/h)
         rotation_period: 56.202 d
         axial_tilt: 20.02°
         albedo: 0.30
-        temperature: 1798 K<br />(1525 °C)
+        temperature: 322 K<br />(49 °C)
       - name: ν Kenmulliad C I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 121,172.2 km<br/>(19.019 Yrths)
         surface_area: 1.845 × 10<sup>11</sup> km<sup>2</sup><br/>(361.735 Yrths)
         volume: 7.452 × 10<sup>15</sup> km<sup>3</sup><br/>(6879.965 Yrths)
-        mass: 1.630 × 10<sup>28</sup> kg<br />(185.79721774823412 Yrths)
+        mass: 1.630 × 10<sup>28</sup> kg<br />(2728.995 Yrths)
         density: 2.187 g/cm<sup>3</sup>
         surface_gravity: 73.983 m/s<sup>2</sup><br />(7.544 g<sub>0</sub>)
         escape_velocity: 133.992 km/s<br />(482,370 km/h)
         rotation_period: 39.356 d
         axial_tilt: 29.46°
         albedo: 0.30
-        temperature: 1417 K<br />(1144 °C)
+        temperature: 322 K<br />(49 °C)
       - name: ν Kenmulliad C I d
         type: Icy
         formationType: Impact formed
@@ -112,14 +112,14 @@ planets:
         radius: 165,298.3 km<br/>(25.945 Yrths)
         surface_area: 3.434 × 10<sup>11</sup> km<sup>2</sup><br/>(673.165 Yrths)
         volume: 1.892 × 10<sup>16</sup> km<sup>3</sup><br/>(17465.547 Yrths)
-        mass: 2.834 × 10<sup>28</sup> kg<br />(185.79721774823412 Yrths)
+        mass: 2.834 × 10<sup>28</sup> kg<br />(4746.158 Yrths)
         density: 1.498 g/cm<sup>3</sup>
         surface_gravity: 69.142 m/s<sup>2</sup><br />(7.051 g<sub>0</sub>)
         escape_velocity: 151.292 km/s<br />(544,650 km/h)
         rotation_period: 53.624 d
         axial_tilt: 20.34°
         albedo: 0.30
-        temperature: 1171 K<br />(898 °C)
+        temperature: 322 K<br />(49 °C)
       - name: ν Kenmulliad C I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -132,14 +132,14 @@ planets:
         radius: 165,559.3 km<br/>(25.986 Yrths)
         surface_area: 3.444 × 10<sup>11</sup> km<sup>2</sup><br/>(675.293 Yrths)
         volume: 1.901 × 10<sup>16</sup> km<sup>3</sup><br/>(17548.427 Yrths)
-        mass: 4.362 × 10<sup>28</sup> kg<br />(185.79721774823412 Yrths)
+        mass: 4.362 × 10<sup>28</sup> kg<br />(7304.709 Yrths)
         density: 2.295 g/cm<sup>3</sup>
         surface_gravity: 106.079 m/s<sup>2</sup><br />(10.817 g<sub>0</sub>)
         escape_velocity: 187.544 km/s<br />(675,157 km/h)
         rotation_period: 34.317 d
         axial_tilt: 23.65°
         albedo: 0.30
-        temperature: 800 K<br />(527 °C)
+        temperature: 322 K<br />(49 °C)
       - name: ν Kenmulliad C I f
         type: Ice/rock hybrid
         formationType: Captured
@@ -152,14 +152,14 @@ planets:
         radius: 137,407.4 km<br/>(21.568 Yrths)
         surface_area: 2.373 × 10<sup>11</sup> km<sup>2</sup><br/>(465.163 Yrths)
         volume: 1.087 × 10<sup>16</sup> km<sup>3</sup><br/>(10032.454 Yrths)
-        mass: 2.028 × 10<sup>28</sup> kg<br />(185.79721774823412 Yrths)
+        mass: 2.028 × 10<sup>28</sup> kg<br />(3396.090 Yrths)
         density: 1.866 g/cm<sup>3</sup>
         surface_gravity: 71.597 m/s<sup>2</sup><br />(7.301 g<sub>0</sub>)
         escape_velocity: 140.366 km/s<br />(505,318 km/h)
         rotation_period: 57.732 d
         axial_tilt: 32.46°
         albedo: 0.30
-        temperature: 391 K<br />(118 °C)
+        temperature: 322 K<br />(49 °C)
       - name: ν Kenmulliad C I g
         type: Icy
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 183,248.0 km<br/>(28.763 Yrths)
         surface_area: 4.220 × 10<sup>11</sup> km<sup>2</sup><br/>(827.300 Yrths)
         volume: 2.578 × 10<sup>16</sup> km<sup>3</sup><br/>(23795.489 Yrths)
-        mass: 4.253 × 10<sup>28</sup> kg<br />(185.79721774823412 Yrths)
+        mass: 4.253 × 10<sup>28</sup> kg<br />(7120.816 Yrths)
         density: 1.650 g/cm<sup>3</sup>
         surface_gravity: 84.409 m/s<sup>2</sup><br />(8.607 g<sub>0</sub>)
         escape_velocity: 176.004 km/s<br />(633,615 km/h)
         rotation_period: 52.705 d
         axial_tilt: 17.05°
         albedo: 0.30
-        temperature: 323 K<br />(50 °C)
+        temperature: 322 K<br />(49 °C)
   - name: ν Kenmulliad C II
     type: Large terrestrial
     aphelion: 161,886,247 km<br />1.082 AU
@@ -191,14 +191,14 @@ planets:
     radius: 11,384.1 km<br/>(1.787 Yrths)
     surface_area: 1.629 × 10<sup>09</sup> km<sup>2</sup><br/>(3.193 Yrths)
     volume: 6.180 × 10<sup>12</sup> km<sup>3</sup><br/>(5.705 Yrths)
-    mass: 4.701 × 10<sup>25</sup> kg<br />(7.872114825019671 Yrths)
+    mass: 4.701 × 10<sup>25</sup> kg<br />(7.87 Yrths)
     density: 7.607 g/cm<sup>3</sup>
     surface_gravity: 24.179 m/s<sup>2</sup><br />(2.466 g<sub>0</sub>)
     escape_velocity: 23.479 km/s<br />(84,524 km/h)
     rotation_period: 0.606 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 300 K<br />(27 °C)
+    temperature: 325 K<br />(52 °C)
     surface_pressure: 135 kPa<br />(1 atm)
     composition:
       - 69.5251% nitrogen
@@ -217,14 +217,14 @@ planets:
         radius: 9,514.4 km<br/>(1.493 Yrths)
         surface_area: 1.138 × 10<sup>09</sup> km<sup>2</sup><br/>(2.230 Yrths)
         volume: 3.608 × 10<sup>12</sup> km<sup>3</sup><br/>(3.331 Yrths)
-        mass: 1.173 × 10<sup>25</sup> kg<br />(7.872114825019671 Yrths)
+        mass: 1.173 × 10<sup>25</sup> kg<br />(1.965 Yrths)
         density: 3.253 g/cm<sup>3</sup>
         surface_gravity: 8.640 m/s<sup>2</sup><br />(0.881 g<sub>0</sub>)
         escape_velocity: 12.831 km/s<br />(46,192 km/h)
         rotation_period: 43.671 d
         axial_tilt: 8.92°
         albedo: 0.30
-        temperature: 2459 K<br />(2186 °C)
+        temperature: 243 K<br />(-30 °C)
       - name: ν Kenmulliad C II b
         type: Rocky
         formationType: Accreted
@@ -237,12 +237,12 @@ planets:
         radius: 9,674.0 km<br/>(1.518 Yrths)
         surface_area: 1.176 × 10<sup>09</sup> km<sup>2</sup><br/>(2.306 Yrths)
         volume: 3.792 × 10<sup>12</sup> km<sup>3</sup><br/>(3.501 Yrths)
-        mass: 1.365 × 10<sup>25</sup> kg<br />(7.872114825019671 Yrths)
+        mass: 1.365 × 10<sup>25</sup> kg<br />(2.286 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 9.723 m/s<sup>2</sup><br />(0.991 g<sub>0</sub>)
         escape_velocity: 13.725 km/s<br />(49,411 km/h)
         rotation_period: 44.426 d
         axial_tilt: 9.04°
         albedo: 0.30
-        temperature: 2345 K<br />(2072 °C)
+        temperature: 243 K<br />(-30 °C)
 ---

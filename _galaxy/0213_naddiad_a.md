@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0213 Naddiad A is a star in the constellation Naddi
+      0213 Naddiad A is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 999.67 ly
 apparent_magnitude: 6.26
 absolute_magnitude: -1.17

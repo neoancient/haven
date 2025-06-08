@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2133 Oniad is a star in the constellation Oni
+      2133 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 929.01 ly
 apparent_magnitude: 9.62
 absolute_magnitude: 2.34

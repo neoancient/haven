@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3753 Arkothiad is a star in the constellation Arkoth
+      3753 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 372.35 ly
 apparent_magnitude: 8.39
 absolute_magnitude: 3.10
@@ -31,14 +31,14 @@ planets:
     radius: 6,773.8 km<br/>(1.063 Yrths)
     surface_area: 5.766 × 10<sup>08</sup> km<sup>2</sup><br/>(1.130 Yrths)
     volume: 1.302 × 10<sup>12</sup> km<sup>3</sup><br/>(1.202 Yrths)
-    mass: 7.646 × 10<sup>24</sup> kg<br />(1.2802279541039026 Yrths)
+    mass: 7.646 × 10<sup>24</sup> kg<br />(1.28 Yrths)
     density: 5.873 g/cm<sup>3</sup>
     surface_gravity: 11.106 m/s<sup>2</sup><br />(1.133 g<sub>0</sub>)
     escape_velocity: 12.275 km/s<br />(44,188 km/h)
     rotation_period: 1.084 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 438 K<br />(165 °C)
+    temperature: 415 K<br />(142 °C)
     surface_pressure: 105 kPa<br />(1 atm)
     composition:
       - 91.2474% nitrogen

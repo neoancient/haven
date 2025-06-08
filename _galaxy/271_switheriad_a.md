@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      271 Switheriad A is a star in the constellation Swither
+      271 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 164.11 ly
 apparent_magnitude: 8.32
 absolute_magnitude: 4.81

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3306 Oniad A is a star in the constellation Oni
+      3306 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 343.81 ly
 apparent_magnitude: 7.01
 absolute_magnitude: 1.89

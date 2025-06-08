@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0016 Naddiad B is a star in the constellation Naddi
+      0016 Naddiad B is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 310.74 ly
 apparent_magnitude: 10.05
 absolute_magnitude: 5.15

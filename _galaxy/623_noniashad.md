@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      623 Noniashad is a star in the constellation Nonias
+      623 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 1158.30 ly
 apparent_magnitude: 13.30
 absolute_magnitude: 5.55

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      993 Reggiad is a star in the constellation Reg
+      993 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 781.86 ly
 apparent_magnitude: 11.68
 absolute_magnitude: 4.78

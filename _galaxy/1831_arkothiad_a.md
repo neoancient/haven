@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1831 Arkothiad A is a star in the constellation Arkoth
+      1831 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1409.75 ly
 apparent_magnitude: 6.74
 absolute_magnitude: -1.44

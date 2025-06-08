@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1934 Lunaiad A is a star in the constellation Luna
+      1934 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 618.03 ly
 apparent_magnitude: 6.91
 absolute_magnitude: 0.52

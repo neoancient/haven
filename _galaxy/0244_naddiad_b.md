@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0244 Naddiad B is a star in the constellation Naddi
+      0244 Naddiad B is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 295.87 ly
 apparent_magnitude: 9.45
 absolute_magnitude: 4.67

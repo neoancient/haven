@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      σ Mioruaniad B is a star in the constellation Mioruane
+      σ Mioruaniad B is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 452.61 ly
 apparent_magnitude: 13.72
 absolute_magnitude: 8.01

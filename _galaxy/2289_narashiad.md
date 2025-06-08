@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2289 Narashiad is a star in the constellation Naras
+      2289 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 457.12 ly
 apparent_magnitude: 10.65
 absolute_magnitude: 4.92

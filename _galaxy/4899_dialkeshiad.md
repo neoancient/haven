@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4899 Dialkeshiad is a star in the constellation Dialkes
+      4899 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 320.55 ly
 apparent_magnitude: 14.83
 absolute_magnitude: 9.86

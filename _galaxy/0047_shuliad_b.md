@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0047 Shuliad B is a star in the constellation Shuli
+      0047 Shuliad B is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 851.45 ly
 apparent_magnitude: 12.96
 absolute_magnitude: 5.88

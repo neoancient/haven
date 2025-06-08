@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0084 Norriad A is a star in the constellation Nor
+      0084 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 609.07 ly
 apparent_magnitude: 5.77
 absolute_magnitude: -0.58

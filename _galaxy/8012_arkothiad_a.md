@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8012 Arkothiad A is a star in the constellation Arkoth
+      8012 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 535.87 ly
 apparent_magnitude: 7.08
 absolute_magnitude: 1.00

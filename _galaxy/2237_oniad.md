@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2237 Oniad is a star in the constellation Oni
+      2237 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 961.97 ly
 apparent_magnitude: 9.69
 absolute_magnitude: 2.34

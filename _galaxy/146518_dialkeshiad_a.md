@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      146518 Dialkeshiad A is a star in the constellation Dialkes
+      146518 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 583.93 ly
 apparent_magnitude: 7.27
 absolute_magnitude: 1.00

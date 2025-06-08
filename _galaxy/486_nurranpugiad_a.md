@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      486 Nurranpugiad A is a star in the constellation Nurranpug
+      486 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 617.66 ly
 apparent_magnitude: 8.17
 absolute_magnitude: 1.78

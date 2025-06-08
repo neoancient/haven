@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      90426 Geardiad is a star in the constellation Geard
+      90426 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 296.25 ly
 apparent_magnitude: 9.46
 absolute_magnitude: 4.67

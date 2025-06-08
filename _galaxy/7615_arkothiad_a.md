@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7615 Arkothiad A is a star in the constellation Arkoth
+      7615 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 304.57 ly
 apparent_magnitude: 10.88
 absolute_magnitude: 6.02

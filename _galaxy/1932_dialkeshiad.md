@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1932 Dialkeshiad is a star in the constellation Dialkes
+      1932 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 569.98 ly
 apparent_magnitude: 11.16
 absolute_magnitude: 4.95

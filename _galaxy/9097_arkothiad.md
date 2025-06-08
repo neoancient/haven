@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9097 Arkothiad is a star in the constellation Arkoth
+      9097 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 366.22 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 5.74

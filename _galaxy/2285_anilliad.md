@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2285 Anilliad is a star in the constellation Anil
+      2285 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 614.99 ly
 apparent_magnitude: 11.99
 absolute_magnitude: 5.62

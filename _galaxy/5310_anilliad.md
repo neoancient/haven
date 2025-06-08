@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5310 Anilliad is a star in the constellation Anil
+      5310 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 512.01 ly
 apparent_magnitude: 10.96
 absolute_magnitude: 4.98

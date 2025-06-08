@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      915 Dialkeshiad is a star in the constellation Dialkes
+      915 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 353.71 ly
 apparent_magnitude: 10.16
 absolute_magnitude: 4.98

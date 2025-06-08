@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      510 Erikkiad is a star in the constellation Erik
+      510 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 889.22 ly
 apparent_magnitude: 16.80
 absolute_magnitude: 9.63

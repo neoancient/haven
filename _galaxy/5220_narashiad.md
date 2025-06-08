@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5220 Narashiad is a star in the constellation Naras
+      5220 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 653.58 ly
 apparent_magnitude: 8.64
 absolute_magnitude: 2.13

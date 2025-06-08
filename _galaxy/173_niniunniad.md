@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      173 Niniunniad is a star in the constellation Niniun
+      173 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 345.83 ly
 apparent_magnitude: 11.55
 absolute_magnitude: 6.43

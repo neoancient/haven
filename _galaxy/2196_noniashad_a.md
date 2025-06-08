@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2196 Noniashad A is a star in the constellation Nonias
+      2196 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 755.14 ly
 apparent_magnitude: 7.18
 absolute_magnitude: 0.36

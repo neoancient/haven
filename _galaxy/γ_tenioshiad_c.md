@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      γ Tenioshiad C is a star in the constellation Tenios
+      γ Tenioshiad C is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 312.08 ly
 apparent_magnitude: 10.94
 absolute_magnitude: 6.04

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2369 Keead is a star in the constellation Kee
+      2369 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 519.48 ly
 apparent_magnitude: 11.28
 absolute_magnitude: 5.27

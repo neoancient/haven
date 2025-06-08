@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      833 Anilliad is a star in the constellation Anil
+      833 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 645.12 ly
 apparent_magnitude: 14.87
 absolute_magnitude: 8.38

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      903 Arniad is a star in the constellation Arni
+      903 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1025.60 ly
 apparent_magnitude: 16.99
 absolute_magnitude: 9.50

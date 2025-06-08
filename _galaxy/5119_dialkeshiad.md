@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5119 Dialkeshiad is a star in the constellation Dialkes
+      5119 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 349.15 ly
 apparent_magnitude: 10.89
 absolute_magnitude: 5.74

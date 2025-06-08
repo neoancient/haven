@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16185 Tanashad is a star in the constellation Tanas
+      16185 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 521.57 ly
 apparent_magnitude: 11.75
 absolute_magnitude: 5.73

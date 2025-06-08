@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11025 Tanashad is a star in the constellation Tanas
+      11025 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 156.96 ly
 apparent_magnitude: 16.86
 absolute_magnitude: 13.44

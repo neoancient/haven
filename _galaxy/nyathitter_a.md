@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nyathitter A is a star in the constellation Reg
+      Nyathitter A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 1494.58 ly
 apparent_magnitude: 1.99
 absolute_magnitude: -6.31

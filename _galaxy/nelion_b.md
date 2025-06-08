@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Nelion B is a star in the constellation Erkidern
+      Nelion B is a star in the constellation <a href="erkidern.html">Erkidern</a>
 distance: 88.53 ly
 apparent_magnitude: 5.65
 absolute_magnitude: 3.48

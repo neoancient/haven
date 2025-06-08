@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4088 Anilliad A is a star in the constellation Anil
+      4088 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 402.48 ly
 apparent_magnitude: 8.84
 absolute_magnitude: 3.38

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0036 Kerriad C is a star in the constellation Kerr
+      0036 Kerriad C is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 233.42 ly
 apparent_magnitude: 8.86
 absolute_magnitude: 4.59
@@ -31,7 +31,7 @@ planets:
     radius: 7,912.9 km<br/>(1.242 Yrths)
     surface_area: 7.868 × 10<sup>08</sup> km<sup>2</sup><br/>(1.543 Yrths)
     volume: 2.075 × 10<sup>12</sup> km<sup>3</sup><br/>(1.916 Yrths)
-    mass: 9.133 × 10<sup>24</sup> kg<br />(1.529259028787995 Yrths)
+    mass: 9.133 × 10<sup>24</sup> kg<br />(1.53 Yrths)
     density: 4.400 g/cm<sup>3</sup>
     surface_gravity: 9.722 m/s<sup>2</sup><br />(0.991 g<sub>0</sub>)
     escape_velocity: 12.412 km/s<br />(44,684 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 2,263.1 km<br/>(0.355 Yrths)
         surface_area: 6.436 × 10<sup>07</sup> km<sup>2</sup><br/>(0.126 Yrths)
         volume: 4.855 × 10<sup>10</sup> km<sup>3</sup><br/>(0.045 Yrths)
-        mass: 1.468 × 10<sup>23</sup> kg<br />(1.529259028787995 Yrths)
+        mass: 1.468 × 10<sup>23</sup> kg<br />(0.025 Yrths)
         density: 3.024 g/cm<sup>3</sup>
         surface_gravity: 1.911 m/s<sup>2</sup><br />(0.195 g<sub>0</sub>)
         escape_velocity: 2.943 km/s<br />(10,595 km/h)
         rotation_period: 30.854 d
         axial_tilt: 41.39°
         albedo: 0.30
-        temperature: 2955 K<br />(2682 °C)
+        temperature: 232 K<br />(-41 °C)
       - name: 0036 Kerriad C I b
         type: Rocky
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 3,816.0 km<br/>(0.599 Yrths)
         surface_area: 1.830 × 10<sup>08</sup> km<sup>2</sup><br/>(0.359 Yrths)
         volume: 2.328 × 10<sup>11</sup> km<sup>3</sup><br/>(0.215 Yrths)
-        mass: 6.857 × 10<sup>23</sup> kg<br />(1.529259028787995 Yrths)
+        mass: 6.857 × 10<sup>23</sup> kg<br />(0.115 Yrths)
         density: 2.946 g/cm<sup>3</sup>
         surface_gravity: 3.139 m/s<sup>2</sup><br />(0.320 g<sub>0</sub>)
         escape_velocity: 4.898 km/s<br />(17,631 km/h)
         rotation_period: 36.901 d
         axial_tilt: 23.14°
         albedo: 0.30
-        temperature: 2817 K<br />(2544 °C)
+        temperature: 232 K<br />(-41 °C)
   - name: 0036 Kerriad C II
     type: Large terrestrial
     aphelion: 492,013,973 km<br />3.289 AU
@@ -91,14 +91,14 @@ planets:
     radius: 2,836.4 km<br/>(0.445 Yrths)
     surface_area: 1.011 × 10<sup>08</sup> km<sup>2</sup><br/>(0.198 Yrths)
     volume: 9.558 × 10<sup>10</sup> km<sup>3</sup><br/>(0.088 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.248 g/cm<sup>3</sup>
     surface_gravity: 4.948 m/s<sup>2</sup><br />(0.505 g<sub>0</sub>)
     escape_velocity: 5.301 km/s<br />(19,085 km/h)
     rotation_period: 2.201 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 209 K<br />(-64 °C)
+    temperature: 262 K<br />(-11 °C)
     surface_pressure: 76 kPa<br />(1 atm)
     composition:
       - 94.9547% methane
@@ -118,14 +118,14 @@ planets:
         radius: 668.1 km<br/>(0.105 Yrths)
         surface_area: 5.609 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.249 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.895 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.895 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.517 g/cm<sup>3</sup>
         surface_gravity: 0.283 m/s<sup>2</sup><br />(0.029 g<sub>0</sub>)
         escape_velocity: 0.615 km/s<br />(2,215 km/h)
         rotation_period: 75.345 d
         axial_tilt: 16.78°
         albedo: 0.30
-        temperature: 3603 K<br />(3330 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 0036 Kerriad C II b
         type: Rocky
         formationType: Impact formed
@@ -138,14 +138,14 @@ planets:
         radius: 347.1 km<br/>(0.054 Yrths)
         surface_area: 1.514 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.751 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.294 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.294 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.023 g/cm<sup>3</sup>
         surface_gravity: 0.293 m/s<sup>2</sup><br />(0.030 g<sub>0</sub>)
         escape_velocity: 0.451 km/s<br />(1,624 km/h)
         rotation_period: 29.810 d
         axial_tilt: 17.90°
         albedo: 0.30
-        temperature: 3435 K<br />(3162 °C)
+        temperature: 171 K<br />(-102 °C)
   - name: 0036 Kerriad C III
     type: Terrestrial
     aphelion: 905,498,653 km<br />6.053 AU
@@ -157,14 +157,14 @@ planets:
     radius: 6,014.5 km<br/>(0.944 Yrths)
     surface_area: 4.546 × 10<sup>08</sup> km<sup>2</sup><br/>(0.891 Yrths)
     volume: 9.114 × 10<sup>11</sup> km<sup>3</sup><br/>(0.841 Yrths)
-    mass: 5.201 × 10<sup>24</sup> kg<br />(0.870885270587348 Yrths)
+    mass: 5.201 × 10<sup>24</sup> kg<br />(0.87 Yrths)
     density: 5.707 g/cm<sup>3</sup>
     surface_gravity: 9.583 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
     escape_velocity: 10.744 km/s<br />(38,678 km/h)
     rotation_period: 1.075 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 143 K<br />(-130 °C)
+    temperature: 180 K<br />(-94 °C)
     surface_pressure: 16 kPa<br />(0 atm)
     composition:
       - 79.0380% methane
@@ -185,14 +185,14 @@ planets:
         radius: 2,995.7 km<br/>(0.470 Yrths)
         surface_area: 1.128 × 10<sup>08</sup> km<sup>2</sup><br/>(0.221 Yrths)
         volume: 1.126 × 10<sup>11</sup> km<sup>3</sup><br/>(0.104 Yrths)
-        mass: 1.685 × 10<sup>23</sup> kg<br />(0.870885270587348 Yrths)
+        mass: 1.685 × 10<sup>23</sup> kg<br />(0.028 Yrths)
         density: 1.496 g/cm<sup>3</sup>
         surface_gravity: 1.251 m/s<sup>2</sup><br />(0.128 g<sub>0</sub>)
         escape_velocity: 2.740 km/s<br />(9,864 km/h)
         rotation_period: 57.476 d
         axial_tilt: 21.80°
         albedo: 0.30
-        temperature: 1839 K<br />(1566 °C)
+        temperature: 126 K<br />(-147 °C)
   - name: 0036 Kerriad C IV
     type: Large terrestrial
     aphelion: 1,656,670,038 km<br />11.074 AU
@@ -204,14 +204,14 @@ planets:
     radius: 9,242.7 km<br/>(1.451 Yrths)
     surface_area: 1.074 × 10<sup>09</sup> km<sup>2</sup><br/>(2.105 Yrths)
     volume: 3.307 × 10<sup>12</sup> km<sup>3</sup><br/>(3.053 Yrths)
-    mass: 2.275 × 10<sup>25</sup> kg<br />(3.8086276611825287 Yrths)
+    mass: 2.275 × 10<sup>25</sup> kg<br />(3.81 Yrths)
     density: 6.877 g/cm<sup>3</sup>
     surface_gravity: 17.746 m/s<sup>2</sup><br />(1.810 g<sub>0</sub>)
     escape_velocity: 18.124 km/s<br />(65,248 km/h)
     rotation_period: 0.695 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 123 K<br />(-150 °C)
+    temperature: 134 K<br />(-139 °C)
     surface_pressure: 317 kPa<br />(3 atm)
     composition:
       - 82.3629% nitrogen
@@ -232,14 +232,14 @@ planets:
         radius: 3,345.0 km<br/>(0.525 Yrths)
         surface_area: 1.406 × 10<sup>08</sup> km<sup>2</sup><br/>(0.276 Yrths)
         volume: 1.568 × 10<sup>11</sup> km<sup>3</sup><br/>(0.145 Yrths)
-        mass: 5.272 × 10<sup>23</sup> kg<br />(3.8086276611825287 Yrths)
+        mass: 5.272 × 10<sup>23</sup> kg<br />(0.088 Yrths)
         density: 3.363 g/cm<sup>3</sup>
         surface_gravity: 3.141 m/s<sup>2</sup><br />(0.320 g<sub>0</sub>)
         escape_velocity: 4.587 km/s<br />(16,512 km/h)
         rotation_period: 39.770 d
         axial_tilt: 22.70°
         albedo: 0.30
-        temperature: 1051 K<br />(778 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 0036 Kerriad C IV b
         type: Asteroid
         formationType: Captured
@@ -252,14 +252,14 @@ planets:
         radius: 5,309.6 km<br/>(0.833 Yrths)
         surface_area: 3.543 × 10<sup>08</sup> km<sup>2</sup><br/>(0.695 Yrths)
         volume: 6.270 × 10<sup>11</sup> km<sup>3</sup><br/>(0.579 Yrths)
-        mass: 1.297 × 10<sup>24</sup> kg<br />(3.8086276611825287 Yrths)
+        mass: 1.297 × 10<sup>24</sup> kg<br />(0.217 Yrths)
         density: 2.069 g/cm<sup>3</sup>
         surface_gravity: 3.067 m/s<sup>2</sup><br />(0.313 g<sub>0</sub>)
         escape_velocity: 5.711 km/s<br />(20,559 km/h)
         rotation_period: 50.798 d
         axial_tilt: 20.15°
         albedo: 0.30
-        temperature: 1002 K<br />(729 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 0036 Kerriad C IV c
         type: Rocky
         formationType: Captured
@@ -272,12 +272,12 @@ planets:
         radius: 5,967.8 km<br/>(0.937 Yrths)
         surface_area: 4.475 × 10<sup>08</sup> km<sup>2</sup><br/>(0.877 Yrths)
         volume: 8.903 × 10<sup>11</sup> km<sup>3</sup><br/>(0.822 Yrths)
-        mass: 2.395 × 10<sup>24</sup> kg<br />(3.8086276611825287 Yrths)
+        mass: 2.395 × 10<sup>24</sup> kg<br />(0.401 Yrths)
         density: 2.690 g/cm<sup>3</sup>
         surface_gravity: 4.482 m/s<sup>2</sup><br />(0.457 g<sub>0</sub>)
         escape_velocity: 7.319 km/s<br />(26,349 km/h)
         rotation_period: 31.505 d
         axial_tilt: 19.57°
         albedo: 0.30
-        temperature: 955 K<br />(682 °C)
+        temperature: 93 K<br />(-180 °C)
 ---

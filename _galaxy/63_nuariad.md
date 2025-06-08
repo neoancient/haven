@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      63 Nuariad is a star in the constellation Nuari
+      63 Nuariad is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 335.47 ly
 apparent_magnitude: 6.80
 absolute_magnitude: 1.74
@@ -31,15 +31,15 @@ planets:
     radius: 12,286.8 km<br/>(1.929 Yrths)
     surface_area: 1.897 × 10<sup>09</sup> km<sup>2</sup><br/>(3.719 Yrths)
     volume: 7.770 × 10<sup>12</sup> km<sup>3</sup><br/>(7.173 Yrths)
-    mass: 5.544 × 10<sup>25</sup> kg<br />(9.28303781363668 Yrths)
+    mass: 5.544 × 10<sup>25</sup> kg<br />(9.28 Yrths)
     density: 7.135 g/cm<sup>3</sup>
     surface_gravity: 24.477 m/s<sup>2</sup><br />(2.496 g<sub>0</sub>)
     escape_velocity: 24.542 km/s<br />(88,350 km/h)
     rotation_period: 0.543 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 446 K<br />(173 °C)
-    surface_pressure: 1,858 kPa<br />(18 atm)
+    temperature: 470 K<br />(197 °C)
+    surface_pressure: 1,858 kPa<br />(19 atm)
     composition:
       - 79.0778% ammonia
       - 19.3271% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 10,870.9 km<br/>(1.706 Yrths)
         surface_area: 1.485 × 10<sup>09</sup> km<sup>2</sup><br/>(2.911 Yrths)
         volume: 5.381 × 10<sup>12</sup> km<sup>3</sup><br/>(4.968 Yrths)
-        mass: 1.435 × 10<sup>25</sup> kg<br />(9.28303781363668 Yrths)
+        mass: 1.435 × 10<sup>25</sup> kg<br />(2.402 Yrths)
         density: 2.666 g/cm<sup>3</sup>
         surface_gravity: 8.092 m/s<sup>2</sup><br />(0.825 g<sub>0</sub>)
         escape_velocity: 13.273 km/s<br />(47,782 km/h)
         rotation_period: 46.525 d
         axial_tilt: 9.06°
         albedo: 0.30
-        temperature: 3239 K<br />(2966 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 63 Nuariad I b
         type: Icy
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 6,390.6 km<br/>(1.003 Yrths)
         surface_area: 5.132 × 10<sup>08</sup> km<sup>2</sup><br/>(1.006 Yrths)
         volume: 1.093 × 10<sup>12</sup> km<sup>3</sup><br/>(1.009 Yrths)
-        mass: 1.234 × 10<sup>24</sup> kg<br />(9.28303781363668 Yrths)
+        mass: 1.234 × 10<sup>24</sup> kg<br />(0.207 Yrths)
         density: 1.129 g/cm<sup>3</sup>
         surface_gravity: 2.014 m/s<sup>2</sup><br />(0.205 g<sub>0</sub>)
         escape_velocity: 5.077 km/s<br />(18,276 km/h)
         rotation_period: 75.176 d
         axial_tilt: 28.62°
         albedo: 0.30
-        temperature: 3089 K<br />(2815 °C)
+        temperature: 305 K<br />(32 °C)
       - name: 63 Nuariad I c
         type: Icy
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 10,017.1 km<br/>(1.572 Yrths)
         surface_area: 1.261 × 10<sup>09</sup> km<sup>2</sup><br/>(2.472 Yrths)
         volume: 4.210 × 10<sup>12</sup> km<sup>3</sup><br/>(3.887 Yrths)
-        mass: 5.294 × 10<sup>24</sup> kg<br />(9.28303781363668 Yrths)
+        mass: 5.294 × 10<sup>24</sup> kg<br />(0.887 Yrths)
         density: 1.257 g/cm<sup>3</sup>
         surface_gravity: 3.517 m/s<sup>2</sup><br />(0.359 g<sub>0</sub>)
         escape_velocity: 8.399 km/s<br />(30,238 km/h)
         rotation_period: 44.817 d
         axial_tilt: 14.40°
         albedo: 0.30
-        temperature: 2945 K<br />(2672 °C)
+        temperature: 305 K<br />(32 °C)
   - name: 63 Nuariad II
     type: Gas giant
     aphelion: 942,465,616 km<br />6.300 AU
@@ -117,7 +117,7 @@ planets:
     radius: 172.3 km<br/>(0.027 Yrths)
     surface_area: 3.732 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.144 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.383 × 10<sup>26</sup> kg<br />(90.13057329866757 Yrths)
+    mass: 5.383 × 10<sup>26</sup> kg<br />(90.13 Yrths)
     density: 25107434.454 g/cm<sup>3</sup>
     surface_gravity: 1208019.734 m/s<sup>2</sup><br />(123183.731 g<sub>0</sub>)
     escape_velocity: 645.699 km/s<br />(2,324,518 km/h)
@@ -138,14 +138,14 @@ planets:
         radius: 83,950.4 km<br/>(13.177 Yrths)
         surface_area: 8.856 × 10<sup>10</sup> km<sup>2</sup><br/>(173.632 Yrths)
         volume: 2.478 × 10<sup>15</sup> km<sup>3</sup><br/>(2287.946 Yrths)
-        mass: 3.929 × 10<sup>27</sup> kg<br />(90.13057329866757 Yrths)
+        mass: 3.929 × 10<sup>27</sup> kg<br />(657.836 Yrths)
         density: 1.585 g/cm<sup>3</sup>
         surface_gravity: 37.154 m/s<sup>2</sup><br />(3.789 g<sub>0</sub>)
         escape_velocity: 79.036 km/s<br />(284,530 km/h)
         rotation_period: 55.021 d
         axial_tilt: 14.73°
         albedo: 0.30
-        temperature: 996 K<br />(723 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 63 Nuariad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 76,639.8 km<br/>(12.029 Yrths)
         surface_area: 7.381 × 10<sup>10</sup> km<sup>2</sup><br/>(144.708 Yrths)
         volume: 1.886 × 10<sup>15</sup> km<sup>3</sup><br/>(1740.763 Yrths)
-        mass: 4.143 × 10<sup>27</sup> kg<br />(90.13057329866757 Yrths)
+        mass: 4.143 × 10<sup>27</sup> kg<br />(693.697 Yrths)
         density: 2.197 g/cm<sup>3</sup>
         surface_gravity: 47.011 m/s<sup>2</sup><br />(4.794 g<sub>0</sub>)
         escape_velocity: 84.945 km/s<br />(305,800 km/h)
         rotation_period: 52.801 d
         axial_tilt: 17.75°
         albedo: 0.30
-        temperature: 619 K<br />(345 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 63 Nuariad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 80,624.4 km<br/>(12.655 Yrths)
         surface_area: 8.169 × 10<sup>10</sup> km<sup>2</sup><br/>(160.146 Yrths)
         volume: 2.195 × 10<sup>15</sup> km<sup>3</sup><br/>(2026.637 Yrths)
-        mass: 4.508 × 10<sup>27</sup> kg<br />(90.13057329866757 Yrths)
+        mass: 4.508 × 10<sup>27</sup> kg<br />(754.912 Yrths)
         density: 2.054 g/cm<sup>3</sup>
         surface_gravity: 46.227 m/s<sup>2</sup><br />(4.714 g<sub>0</sub>)
         escape_velocity: 86.396 km/s<br />(311,025 km/h)
         rotation_period: 49.303 d
         axial_tilt: 14.76°
         albedo: 0.30
-        temperature: 423 K<br />(149 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 63 Nuariad II d
         type: Rocky
         formationType: Captured
@@ -198,14 +198,14 @@ planets:
         radius: 69,641.5 km<br/>(10.931 Yrths)
         surface_area: 6.095 × 10<sup>10</sup> km<sup>2</sup><br/>(119.487 Yrths)
         volume: 1.415 × 10<sup>15</sup> km<sup>3</sup><br/>(1306.113 Yrths)
-        mass: 4.586 × 10<sup>27</sup> kg<br />(90.13057329866757 Yrths)
+        mass: 4.586 × 10<sup>27</sup> kg<br />(767.905 Yrths)
         density: 3.241 g/cm<sup>3</sup>
         surface_gravity: 63.024 m/s<sup>2</sup><br />(6.427 g<sub>0</sub>)
         escape_velocity: 93.756 km/s<br />(337,521 km/h)
         rotation_period: 37.101 d
         axial_tilt: 22.33°
         albedo: 0.30
-        temperature: 384 K<br />(111 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 63 Nuariad II e
         type: Icy
         formationType: Accreted
@@ -218,14 +218,14 @@ planets:
         radius: 89,126.3 km<br/>(13.989 Yrths)
         surface_area: 9.982 × 10<sup>10</sup> km<sup>2</sup><br/>(195.703 Yrths)
         volume: 2.966 × 10<sup>15</sup> km<sup>3</sup><br/>(2737.758 Yrths)
-        mass: 3.763 × 10<sup>27</sup> kg<br />(90.13057329866757 Yrths)
+        mass: 3.763 × 10<sup>27</sup> kg<br />(630.055 Yrths)
         density: 1.269 g/cm<sup>3</sup>
         surface_gravity: 31.572 m/s<sup>2</sup><br />(3.219 g<sub>0</sub>)
         escape_velocity: 75.070 km/s<br />(270,250 km/h)
         rotation_period: 61.391 d
         axial_tilt: 17.06°
         albedo: 0.30
-        temperature: 250 K<br />(-23 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 63 Nuariad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -238,14 +238,14 @@ planets:
         radius: 78,825.6 km<br/>(12.373 Yrths)
         surface_area: 7.808 × 10<sup>10</sup> km<sup>2</sup><br/>(153.080 Yrths)
         volume: 2.052 × 10<sup>15</sup> km<sup>3</sup><br/>(1893.998 Yrths)
-        mass: 4.315 × 10<sup>27</sup> kg<br />(90.13057329866757 Yrths)
+        mass: 4.315 × 10<sup>27</sup> kg<br />(722.480 Yrths)
         density: 2.103 g/cm<sup>3</sup>
         surface_gravity: 46.284 m/s<sup>2</sup><br />(4.720 g<sub>0</sub>)
         escape_velocity: 85.479 km/s<br />(307,723 km/h)
         rotation_period: 47.839 d
         axial_tilt: 20.44°
         albedo: 0.30
-        temperature: 188 K<br />(-85 °C)
+        temperature: 216 K<br />(-57 °C)
       - name: 63 Nuariad II g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -258,14 +258,14 @@ planets:
         radius: 84,569.1 km<br/>(13.274 Yrths)
         surface_area: 8.987 × 10<sup>10</sup> km<sup>2</sup><br/>(176.201 Yrths)
         volume: 2.534 × 10<sup>15</sup> km<sup>3</sup><br/>(2338.903 Yrths)
-        mass: 4.935 × 10<sup>27</sup> kg<br />(90.13057329866757 Yrths)
+        mass: 4.935 × 10<sup>27</sup> kg<br />(826.386 Yrths)
         density: 1.948 g/cm<sup>3</sup>
         surface_gravity: 45.993 m/s<sup>2</sup><br />(4.690 g<sub>0</sub>)
         escape_velocity: 88.260 km/s<br />(317,736 km/h)
         rotation_period: 69.896 d
         axial_tilt: 10.15°
         albedo: 0.30
-        temperature: 171 K<br />(-102 °C)
+        temperature: 216 K<br />(-57 °C)
   - name: 63 Nuariad III
     type: Ice giant
     aphelion: 2,009,194,578 km<br />13.430 AU
@@ -277,14 +277,14 @@ planets:
     radius: 27,549.5 km<br/>(4.324 Yrths)
     surface_area: 9.538 × 10<sup>09</sup> km<sup>2</sup><br/>(18.699 Yrths)
     volume: 8.759 × 10<sup>13</sup> km<sup>3</sup><br/>(80.857 Yrths)
-    mass: 1.307 × 10<sup>26</sup> kg<br />(21.883830397214165 Yrths)
+    mass: 1.307 × 10<sup>26</sup> kg<br />(21.88 Yrths)
     density: 1.492 g/cm<sup>3</sup>
     surface_gravity: 11.477 m/s<sup>2</sup><br />(1.170 g<sub>0</sub>)
     escape_velocity: 25.164 km/s<br />(90,591 km/h)
     rotation_period: 0.327 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 302 K<br />(29 °C)
+    temperature: 275 K<br />(1 °C)
     composition:
       - 83.7284% hydrogen
       - 10.5630% helium
@@ -303,14 +303,14 @@ planets:
         radius: 16,535.7 km<br/>(2.595 Yrths)
         surface_area: 3.436 × 10<sup>09</sup> km<sup>2</sup><br/>(6.736 Yrths)
         volume: 1.894 × 10<sup>13</sup> km<sup>3</sup><br/>(17.484 Yrths)
-        mass: 3.221 × 10<sup>25</sup> kg<br />(21.883830397214165 Yrths)
+        mass: 3.221 × 10<sup>25</sup> kg<br />(5.394 Yrths)
         density: 1.701 g/cm<sup>3</sup>
         surface_gravity: 7.852 m/s<sup>2</sup><br />(0.801 g<sub>0</sub>)
         escape_velocity: 16.126 km/s<br />(58,053 km/h)
         rotation_period: 55.120 d
         axial_tilt: 24.78°
         albedo: 0.30
-        temperature: 1369 K<br />(1096 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 63 Nuariad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 16,133.6 km<br/>(2.532 Yrths)
         surface_area: 3.271 × 10<sup>09</sup> km<sup>2</sup><br/>(6.413 Yrths)
         volume: 1.759 × 10<sup>13</sup> km<sup>3</sup><br/>(16.239 Yrths)
-        mass: 3.917 × 10<sup>25</sup> kg<br />(21.883830397214165 Yrths)
+        mass: 3.917 × 10<sup>25</sup> kg<br />(6.558 Yrths)
         density: 2.227 g/cm<sup>3</sup>
         surface_gravity: 10.029 m/s<sup>2</sup><br />(1.023 g<sub>0</sub>)
         escape_velocity: 18.002 km/s<br />(64,806 km/h)
         rotation_period: 37.200 d
         axial_tilt: 17.15°
         albedo: 0.30
-        temperature: 1306 K<br />(1032 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 63 Nuariad III c
         type: Icy
         formationType: Accreted
@@ -343,14 +343,14 @@ planets:
         radius: 38,137.6 km<br/>(5.986 Yrths)
         surface_area: 1.828 × 10<sup>10</sup> km<sup>2</sup><br/>(35.834 Yrths)
         volume: 2.324 × 10<sup>14</sup> km<sup>3</sup><br/>(214.505 Yrths)
-        mass: 3.363 × 10<sup>26</sup> kg<br />(21.883830397214165 Yrths)
+        mass: 3.363 × 10<sup>26</sup> kg<br />(56.314 Yrths)
         density: 1.447 g/cm<sup>3</sup>
         surface_gravity: 15.411 m/s<sup>2</sup><br />(1.572 g<sub>0</sub>)
         escape_velocity: 34.309 km/s<br />(123,513 km/h)
         rotation_period: 64.646 d
         axial_tilt: 20.30°
         albedo: 0.30
-        temperature: 1245 K<br />(972 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 63 Nuariad III d
         type: Dwarf planet
         formationType: Accreted
@@ -363,14 +363,14 @@ planets:
         radius: 18,846.9 km<br/>(2.958 Yrths)
         surface_area: 4.464 × 10<sup>09</sup> km<sup>2</sup><br/>(8.751 Yrths)
         volume: 2.804 × 10<sup>13</sup> km<sup>3</sup><br/>(25.888 Yrths)
-        mass: 4.676 × 10<sup>25</sup> kg<br />(21.883830397214165 Yrths)
+        mass: 4.676 × 10<sup>25</sup> kg<br />(7.830 Yrths)
         density: 1.668 g/cm<sup>3</sup>
         surface_gravity: 8.774 m/s<sup>2</sup><br />(0.895 g<sub>0</sub>)
         escape_velocity: 18.199 km/s<br />(65,515 km/h)
         rotation_period: 52.342 d
         axial_tilt: 13.53°
         albedo: 0.30
-        temperature: 1132 K<br />(858 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 63 Nuariad III e
         type: Icy
         formationType: Accreted
@@ -383,14 +383,14 @@ planets:
         radius: 18,111.7 km<br/>(2.843 Yrths)
         surface_area: 4.122 × 10<sup>09</sup> km<sup>2</sup><br/>(8.082 Yrths)
         volume: 2.489 × 10<sup>13</sup> km<sup>3</sup><br/>(22.975 Yrths)
-        mass: 2.450 × 10<sup>25</sup> kg<br />(21.883830397214165 Yrths)
+        mass: 2.450 × 10<sup>25</sup> kg<br />(4.103 Yrths)
         density: 0.985 g/cm<sup>3</sup>
         surface_gravity: 4.979 m/s<sup>2</sup><br />(0.508 g<sub>0</sub>)
         escape_velocity: 13.439 km/s<br />(48,379 km/h)
         rotation_period: 83.330 d
         axial_tilt: 10.92°
         albedo: 0.30
-        temperature: 1079 K<br />(806 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 63 Nuariad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -403,14 +403,14 @@ planets:
         radius: 17,560.5 km<br/>(2.756 Yrths)
         surface_area: 3.875 × 10<sup>09</sup> km<sup>2</sup><br/>(7.597 Yrths)
         volume: 2.268 × 10<sup>13</sup> km<sup>3</sup><br/>(20.941 Yrths)
-        mass: 5.565 × 10<sup>25</sup> kg<br />(21.883830397214165 Yrths)
+        mass: 5.565 × 10<sup>25</sup> kg<br />(9.319 Yrths)
         density: 2.454 g/cm<sup>3</sup>
         surface_gravity: 12.029 m/s<sup>2</sup><br />(1.227 g<sub>0</sub>)
         escape_velocity: 20.568 km/s<br />(74,046 km/h)
         rotation_period: 38.307 d
         axial_tilt: 23.49°
         albedo: 0.30
-        temperature: 981 K<br />(708 °C)
+        temperature: 152 K<br />(-121 °C)
       - name: 63 Nuariad III g
         type: Dwarf planet
         formationType: Accreted
@@ -423,14 +423,14 @@ planets:
         radius: 17,755.7 km<br/>(2.787 Yrths)
         surface_area: 3.962 × 10<sup>09</sup> km<sup>2</sup><br/>(7.767 Yrths)
         volume: 2.345 × 10<sup>13</sup> km<sup>3</sup><br/>(21.646 Yrths)
-        mass: 2.958 × 10<sup>25</sup> kg<br />(21.883830397214165 Yrths)
+        mass: 2.958 × 10<sup>25</sup> kg<br />(4.953 Yrths)
         density: 1.261 g/cm<sup>3</sup>
         surface_gravity: 6.253 m/s<sup>2</sup><br />(0.638 g<sub>0</sub>)
         escape_velocity: 14.912 km/s<br />(53,683 km/h)
         rotation_period: 50.189 d
         axial_tilt: 36.16°
         albedo: 0.30
-        temperature: 935 K<br />(662 °C)
+        temperature: 152 K<br />(-121 °C)
   - name: 63 Nuariad IV
     type: Large terrestrial
     aphelion: 4,168,089,547 km<br />27.862 AU
@@ -442,14 +442,14 @@ planets:
     radius: 10,255.3 km<br/>(1.610 Yrths)
     surface_area: 1.322 × 10<sup>09</sup> km<sup>2</sup><br/>(2.591 Yrths)
     volume: 4.518 × 10<sup>12</sup> km<sup>3</sup><br/>(4.171 Yrths)
-    mass: 3.058 × 10<sup>25</sup> kg<br />(5.119755164806875 Yrths)
+    mass: 3.058 × 10<sup>25</sup> kg<br />(5.12 Yrths)
     density: 6.768 g/cm<sup>3</sup>
     surface_gravity: 19.377 m/s<sup>2</sup><br />(1.976 g<sub>0</sub>)
     escape_velocity: 19.949 km/s<br />(71,818 km/h)
     rotation_period: 0.564 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 153 K<br />(-120 °C)
+    temperature: 182 K<br />(-92 °C)
     surface_pressure: 810 kPa<br />(8 atm)
     composition:
       - 83.8031% methane
@@ -469,14 +469,14 @@ planets:
         radius: 7,068.0 km<br/>(1.109 Yrths)
         surface_area: 6.278 × 10<sup>08</sup> km<sup>2</sup><br/>(1.231 Yrths)
         volume: 1.479 × 10<sup>12</sup> km<sup>3</sup><br/>(1.365 Yrths)
-        mass: 4.847 × 10<sup>24</sup> kg<br />(5.119755164806875 Yrths)
+        mass: 4.847 × 10<sup>24</sup> kg<br />(0.812 Yrths)
         density: 3.277 g/cm<sup>3</sup>
         surface_gravity: 6.468 m/s<sup>2</sup><br />(0.660 g<sub>0</sub>)
         escape_velocity: 9.568 km/s<br />(34,445 km/h)
         rotation_period: 47.692 d
         axial_tilt: 7.90°
         albedo: 0.30
-        temperature: 1287 K<br />(1014 °C)
+        temperature: 108 K<br />(-165 °C)
       - name: 63 Nuariad IV b
         type: Dwarf planet
         formationType: Accreted
@@ -489,12 +489,12 @@ planets:
         radius: 11,195.8 km<br/>(1.757 Yrths)
         surface_area: 1.575 × 10<sup>09</sup> km<sup>2</sup><br/>(3.088 Yrths)
         volume: 5.878 × 10<sup>12</sup> km<sup>3</sup><br/>(5.427 Yrths)
-        mass: 1.011 × 10<sup>25</sup> kg<br />(5.119755164806875 Yrths)
+        mass: 1.011 × 10<sup>25</sup> kg<br />(1.693 Yrths)
         density: 1.720 g/cm<sup>3</sup>
         surface_gravity: 5.376 m/s<sup>2</sup><br />(0.548 g<sub>0</sub>)
         escape_velocity: 10.979 km/s<br />(39,523 km/h)
         rotation_period: 43.319 d
         axial_tilt: 20.83°
         albedo: 0.30
-        temperature: 1227 K<br />(954 °C)
+        temperature: 108 K<br />(-165 °C)
 ---

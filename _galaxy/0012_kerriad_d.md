@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0012 Kerriad D is a star in the constellation Kerr
+      0012 Kerriad D is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 2411.71 ly
 apparent_magnitude: 8.81
 absolute_magnitude: -0.54

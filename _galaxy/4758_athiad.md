@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4758 Athiad is a star in the constellation Ath
+      4758 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 406.08 ly
 apparent_magnitude: 11.71
 absolute_magnitude: 6.24
@@ -31,14 +31,14 @@ planets:
     radius: 9,483.5 km<br/>(1.489 Yrths)
     surface_area: 1.130 × 10<sup>09</sup> km<sup>2</sup><br/>(2.216 Yrths)
     volume: 3.573 × 10<sup>12</sup> km<sup>3</sup><br/>(3.298 Yrths)
-    mass: 2.705 × 10<sup>25</sup> kg<br />(4.528674126705859 Yrths)
+    mass: 2.705 × 10<sup>25</sup> kg<br />(4.53 Yrths)
     density: 7.570 g/cm<sup>3</sup>
     surface_gravity: 20.043 m/s<sup>2</sup><br />(2.044 g<sub>0</sub>)
     escape_velocity: 19.511 km/s<br />(70,239 km/h)
     rotation_period: 1.044 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 481 K<br />(208 °C)
+    temperature: 1151 K<br />(877 °C)
     surface_pressure: 157 kPa<br />(2 atm)
     composition:
       - 70.0058% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 6,379.8 km<br/>(1.001 Yrths)
         surface_area: 5.115 × 10<sup>08</sup> km<sup>2</sup><br/>(1.003 Yrths)
         volume: 1.088 × 10<sup>12</sup> km<sup>3</sup><br/>(1.004 Yrths)
-        mass: 3.620 × 10<sup>24</sup> kg<br />(4.528674126705859 Yrths)
+        mass: 3.620 × 10<sup>24</sup> kg<br />(0.606 Yrths)
         density: 3.328 g/cm<sup>3</sup>
         surface_gravity: 5.928 m/s<sup>2</sup><br />(0.604 g<sub>0</sub>)
         escape_velocity: 8.703 km/s<br />(31,331 km/h)
         rotation_period: 40.116 d
         axial_tilt: 7.90°
         albedo: 0.30
-        temperature: 4098 K<br />(3825 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 4758 Athiad I b
         type: Rocky
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 7,962.7 km<br/>(1.250 Yrths)
         surface_area: 7.968 × 10<sup>08</sup> km<sup>2</sup><br/>(1.562 Yrths)
         volume: 2.115 × 10<sup>12</sup> km<sup>3</sup><br/>(1.952 Yrths)
-        mass: 5.956 × 10<sup>24</sup> kg<br />(4.528674126705859 Yrths)
+        mass: 5.956 × 10<sup>24</sup> kg<br />(0.997 Yrths)
         density: 2.816 g/cm<sup>3</sup>
         surface_gravity: 6.261 m/s<sup>2</sup><br />(0.638 g<sub>0</sub>)
         escape_velocity: 9.992 km/s<br />(35,973 km/h)
         rotation_period: 58.996 d
         axial_tilt: 20.23°
         albedo: 0.30
-        temperature: 3907 K<br />(3634 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 4758 Athiad II
     type: Terrestrial
     aphelion: 98,695,339 km<br />0.660 AU
@@ -96,14 +96,14 @@ planets:
     radius: 7,127.7 km<br/>(1.119 Yrths)
     surface_area: 6.384 × 10<sup>08</sup> km<sup>2</sup><br/>(1.252 Yrths)
     volume: 1.517 × 10<sup>12</sup> km<sup>3</sup><br/>(1.400 Yrths)
-    mass: 7.153 × 10<sup>24</sup> kg<br />(1.1976867056130185 Yrths)
+    mass: 7.153 × 10<sup>24</sup> kg<br />(1.20 Yrths)
     density: 4.715 g/cm<sup>3</sup>
     surface_gravity: 9.384 m/s<sup>2</sup><br />(0.957 g<sub>0</sub>)
     escape_velocity: 11.574 km/s<br />(41,665 km/h)
     rotation_period: 1.421 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 365 K<br />(92 °C)
+    temperature: 1085 K<br />(812 °C)
     surface_pressure: 25 kPa<br />(0 atm)
     composition:
       - 100.0000% carbon dioxide
@@ -120,14 +120,14 @@ planets:
         radius: 2,846.7 km<br/>(0.447 Yrths)
         surface_area: 1.018 × 10<sup>08</sup> km<sup>2</sup><br/>(0.200 Yrths)
         volume: 9.663 × 10<sup>10</sup> km<sup>3</sup><br/>(0.089 Yrths)
-        mass: 3.575 × 10<sup>23</sup> kg<br />(1.1976867056130185 Yrths)
+        mass: 3.575 × 10<sup>23</sup> kg<br />(0.060 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 2.941 m/s<sup>2</sup><br />(0.300 g<sub>0</sub>)
         escape_velocity: 4.095 km/s<br />(14,740 km/h)
         rotation_period: 43.556 d
         axial_tilt: 46.63°
         albedo: 0.30
-        temperature: 4274 K<br />(4001 °C)
+        temperature: 248 K<br />(-26 °C)
   - name: 4758 Athiad III
     type: Ice giant
     aphelion: 172,889,864 km<br />1.156 AU
@@ -139,14 +139,14 @@ planets:
     radius: 22,231.5 km<br/>(3.489 Yrths)
     surface_area: 6.211 × 10<sup>09</sup> km<sup>2</sup><br/>(12.177 Yrths)
     volume: 4.603 × 10<sup>13</sup> km<sup>3</sup><br/>(42.490 Yrths)
-    mass: 7.426 × 10<sup>25</sup> kg<br />(12.43444678882893 Yrths)
+    mass: 7.426 × 10<sup>25</sup> kg<br />(12.43 Yrths)
     density: 1.613 g/cm<sup>3</sup>
     surface_gravity: 10.014 m/s<sup>2</sup><br />(1.021 g<sub>0</sub>)
     escape_velocity: 21.116 km/s<br />(76,017 km/h)
     rotation_period: 0.575 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 353 K<br />(80 °C)
+    temperature: 394 K<br />(121 °C)
     composition:
       - 60.2360% hydrogen
       - 24.4216% helium
@@ -165,14 +165,14 @@ planets:
         radius: 15,073.7 km<br/>(2.366 Yrths)
         surface_area: 2.855 × 10<sup>09</sup> km<sup>2</sup><br/>(5.598 Yrths)
         volume: 1.435 × 10<sup>13</sup> km<sup>3</sup><br/>(13.244 Yrths)
-        mass: 1.233 × 10<sup>25</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 1.233 × 10<sup>25</sup> kg<br />(2.064 Yrths)
         density: 0.859 g/cm<sup>3</sup>
         surface_gravity: 3.616 m/s<sup>2</sup><br />(0.369 g<sub>0</sub>)
         escape_velocity: 10.448 km/s<br />(37,614 km/h)
         rotation_period: 90.943 d
         axial_tilt: 22.66°
         albedo: 0.30
-        temperature: 1727 K<br />(1454 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 4758 Athiad III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -185,14 +185,14 @@ planets:
         radius: 20,960.9 km<br/>(3.290 Yrths)
         surface_area: 5.521 × 10<sup>09</sup> km<sup>2</sup><br/>(10.824 Yrths)
         volume: 3.858 × 10<sup>13</sup> km<sup>3</sup><br/>(35.613 Yrths)
-        mass: 1.071 × 10<sup>26</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 1.071 × 10<sup>26</sup> kg<br />(17.932 Yrths)
         density: 2.776 g/cm<sup>3</sup>
         surface_gravity: 16.246 m/s<sup>2</sup><br />(1.657 g<sub>0</sub>)
         escape_velocity: 26.115 km/s<br />(94,013 km/h)
         rotation_period: 38.878 d
         axial_tilt: 8.28°
         albedo: 0.30
-        temperature: 1497 K<br />(1224 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 4758 Athiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -205,14 +205,14 @@ planets:
         radius: 12,280.4 km<br/>(1.928 Yrths)
         surface_area: 1.895 × 10<sup>09</sup> km<sup>2</sup><br/>(3.715 Yrths)
         volume: 7.758 × 10<sup>12</sup> km<sup>3</sup><br/>(7.162 Yrths)
-        mass: 1.468 × 10<sup>25</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 1.468 × 10<sup>25</sup> kg<br />(2.459 Yrths)
         density: 1.893 g/cm<sup>3</sup>
         surface_gravity: 6.490 m/s<sup>2</sup><br />(0.662 g<sub>0</sub>)
         escape_velocity: 12.634 km/s<br />(45,482 km/h)
         rotation_period: 45.259 d
         axial_tilt: 14.09°
         albedo: 0.30
-        temperature: 1298 K<br />(1024 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 4758 Athiad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -225,14 +225,14 @@ planets:
         radius: 12,383.5 km<br/>(1.944 Yrths)
         surface_area: 1.927 × 10<sup>09</sup> km<sup>2</sup><br/>(3.778 Yrths)
         volume: 7.955 × 10<sup>12</sup> km<sup>3</sup><br/>(7.344 Yrths)
-        mass: 1.939 × 10<sup>25</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 1.939 × 10<sup>25</sup> kg<br />(3.246 Yrths)
         density: 2.437 g/cm<sup>3</sup>
         surface_gravity: 8.426 m/s<sup>2</sup><br />(0.859 g<sub>0</sub>)
         escape_velocity: 14.456 km/s<br />(52,042 km/h)
         rotation_period: 59.502 d
         axial_tilt: 27.66°
         albedo: 0.30
-        temperature: 1237 K<br />(964 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 4758 Athiad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -245,14 +245,14 @@ planets:
         radius: 11,714.7 km<br/>(1.839 Yrths)
         surface_area: 1.725 × 10<sup>09</sup> km<sup>2</sup><br/>(3.381 Yrths)
         volume: 6.734 × 10<sup>12</sup> km<sup>3</sup><br/>(6.217 Yrths)
-        mass: 1.529 × 10<sup>25</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 1.529 × 10<sup>25</sup> kg<br />(2.560 Yrths)
         density: 2.271 g/cm<sup>3</sup>
         surface_gravity: 7.426 m/s<sup>2</sup><br />(0.757 g<sub>0</sub>)
         escape_velocity: 13.200 km/s<br />(47,519 km/h)
         rotation_period: 53.885 d
         axial_tilt: 31.92°
         albedo: 0.30
-        temperature: 1125 K<br />(852 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 4758 Athiad III f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -265,14 +265,14 @@ planets:
         radius: 9,725.1 km<br/>(1.526 Yrths)
         surface_area: 1.188 × 10<sup>09</sup> km<sup>2</sup><br/>(2.330 Yrths)
         volume: 3.853 × 10<sup>12</sup> km<sup>3</sup><br/>(3.557 Yrths)
-        mass: 8.625 × 10<sup>24</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 8.625 × 10<sup>24</sup> kg<br />(1.444 Yrths)
         density: 2.239 g/cm<sup>3</sup>
         surface_gravity: 6.078 m/s<sup>2</sup><br />(0.620 g<sub>0</sub>)
         escape_velocity: 10.880 km/s<br />(39,169 km/h)
         rotation_period: 42.072 d
         axial_tilt: 34.41°
         albedo: 0.30
-        temperature: 1022 K<br />(749 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 4758 Athiad III g
         type: Icy
         formationType: Impact formed
@@ -285,14 +285,14 @@ planets:
         radius: 12,168.7 km<br/>(1.910 Yrths)
         surface_area: 1.861 × 10<sup>09</sup> km<sup>2</sup><br/>(3.648 Yrths)
         volume: 7.548 × 10<sup>12</sup> km<sup>3</sup><br/>(6.968 Yrths)
-        mass: 9.748 × 10<sup>24</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 9.748 × 10<sup>24</sup> kg<br />(1.632 Yrths)
         density: 1.291 g/cm<sup>3</sup>
         surface_gravity: 4.388 m/s<sup>2</sup><br />(0.447 g<sub>0</sub>)
         escape_velocity: 10.341 km/s<br />(37,226 km/h)
         rotation_period: 62.210 d
         axial_tilt: 8.31°
         albedo: 0.30
-        temperature: 975 K<br />(702 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 4758 Athiad III h
         type: Asteroid
         formationType: Captured
@@ -305,14 +305,14 @@ planets:
         radius: 11,565.9 km<br/>(1.815 Yrths)
         surface_area: 1.681 × 10<sup>09</sup> km<sup>2</sup><br/>(3.296 Yrths)
         volume: 6.481 × 10<sup>12</sup> km<sup>3</sup><br/>(5.983 Yrths)
-        mass: 2.285 × 10<sup>25</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 2.285 × 10<sup>25</sup> kg<br />(3.826 Yrths)
         density: 3.526 g/cm<sup>3</sup>
         surface_gravity: 11.386 m/s<sup>2</sup><br />(1.161 g<sub>0</sub>)
         escape_velocity: 16.240 km/s<br />(58,463 km/h)
         rotation_period: 34.223 d
         axial_tilt: 33.48°
         albedo: 0.30
-        temperature: 930 K<br />(656 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 4758 Athiad III i
         type: Icy
         formationType: Accreted
@@ -325,14 +325,14 @@ planets:
         radius: 11,865.0 km<br/>(1.862 Yrths)
         surface_area: 1.769 × 10<sup>09</sup> km<sup>2</sup><br/>(3.468 Yrths)
         volume: 6.997 × 10<sup>12</sup> km<sup>3</sup><br/>(6.459 Yrths)
-        mass: 8.863 × 10<sup>24</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 8.863 × 10<sup>24</sup> kg<br />(1.484 Yrths)
         density: 1.267 g/cm<sup>3</sup>
         surface_gravity: 4.196 m/s<sup>2</sup><br />(0.428 g<sub>0</sub>)
         escape_velocity: 9.985 km/s<br />(35,948 km/h)
         rotation_period: 70.180 d
         axial_tilt: 15.78°
         albedo: 0.30
-        temperature: 886 K<br />(613 °C)
+        temperature: 193 K<br />(-80 °C)
       - name: 4758 Athiad III j
         type: Icy
         formationType: Impact formed
@@ -345,14 +345,14 @@ planets:
         radius: 13,040.2 km<br/>(2.047 Yrths)
         surface_area: 2.137 × 10<sup>09</sup> km<sup>2</sup><br/>(4.189 Yrths)
         volume: 9.288 × 10<sup>12</sup> km<sup>3</sup><br/>(8.575 Yrths)
-        mass: 6.502 × 10<sup>24</sup> kg<br />(12.43444678882893 Yrths)
+        mass: 6.502 × 10<sup>24</sup> kg<br />(1.089 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 2.549 m/s<sup>2</sup><br />(0.260 g<sub>0</sub>)
         escape_velocity: 8.158 km/s<br />(29,370 km/h)
         rotation_period: 117.415 d
         axial_tilt: 17.91°
         albedo: 0.30
-        temperature: 845 K<br />(572 °C)
+        temperature: 193 K<br />(-80 °C)
   - name: 4758 Athiad IV
     type: Large terrestrial
     aphelion: 271,688,373 km<br />1.816 AU
@@ -364,14 +364,14 @@ planets:
     radius: 6,441.6 km<br/>(1.011 Yrths)
     surface_area: 5.214 × 10<sup>08</sup> km<sup>2</sup><br/>(1.022 Yrths)
     volume: 1.120 × 10<sup>12</sup> km<sup>3</sup><br/>(1.034 Yrths)
-    mass: 7.775 × 10<sup>24</sup> kg<br />(1.3018492414860967 Yrths)
+    mass: 7.775 × 10<sup>24</sup> kg<br />(1.30 Yrths)
     density: 6.944 g/cm<sup>3</sup>
     surface_gravity: 12.489 m/s<sup>2</sup><br />(1.273 g<sub>0</sub>)
     escape_velocity: 12.693 km/s<br />(45,695 km/h)
     rotation_period: 0.964 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 242 K<br />(-32 °C)
+    temperature: 575 K<br />(302 °C)
     surface_pressure: 423 kPa<br />(4 atm)
     composition:
       - 65.7459% carbon dioxide
@@ -390,14 +390,14 @@ planets:
         radius: 2,786.9 km<br/>(0.437 Yrths)
         surface_area: 9.760 × 10<sup>07</sup> km<sup>2</sup><br/>(0.191 Yrths)
         volume: 9.067 × 10<sup>10</sup> km<sup>3</sup><br/>(0.084 Yrths)
-        mass: 2.459 × 10<sup>23</sup> kg<br />(1.3018492414860967 Yrths)
+        mass: 2.459 × 10<sup>23</sup> kg<br />(0.041 Yrths)
         density: 2.712 g/cm<sup>3</sup>
         surface_gravity: 2.110 m/s<sup>2</sup><br />(0.215 g<sub>0</sub>)
         escape_velocity: 3.432 km/s<br />(12,354 km/h)
         rotation_period: 47.276 d
         axial_tilt: 27.40°
         albedo: 0.30
-        temperature: 2374 K<br />(2101 °C)
+        temperature: 151 K<br />(-123 °C)
       - name: 4758 Athiad IV b
         type: Rocky
         formationType: Impact formed
@@ -410,14 +410,14 @@ planets:
         radius: 2,709.7 km<br/>(0.425 Yrths)
         surface_area: 9.227 × 10<sup>07</sup> km<sup>2</sup><br/>(0.181 Yrths)
         volume: 8.334 × 10<sup>10</sup> km<sup>3</sup><br/>(0.077 Yrths)
-        mass: 2.869 × 10<sup>23</sup> kg<br />(1.3018492414860967 Yrths)
+        mass: 2.869 × 10<sup>23</sup> kg<br />(0.048 Yrths)
         density: 3.443 g/cm<sup>3</sup>
         surface_gravity: 2.605 m/s<sup>2</sup><br />(0.266 g<sub>0</sub>)
         escape_velocity: 3.760 km/s<br />(13,535 km/h)
         rotation_period: 29.841 d
         axial_tilt: 8.74°
         albedo: 0.30
-        temperature: 2263 K<br />(1990 °C)
+        temperature: 151 K<br />(-123 °C)
       - name: 4758 Athiad IV c
         type: Icy
         formationType: Captured
@@ -430,14 +430,14 @@ planets:
         radius: 4,279.9 km<br/>(0.672 Yrths)
         surface_area: 2.302 × 10<sup>08</sup> km<sup>2</sup><br/>(0.451 Yrths)
         volume: 3.284 × 10<sup>11</sup> km<sup>3</sup><br/>(0.303 Yrths)
-        mass: 3.585 × 10<sup>23</sup> kg<br />(1.3018492414860967 Yrths)
+        mass: 3.585 × 10<sup>23</sup> kg<br />(0.060 Yrths)
         density: 1.092 g/cm<sup>3</sup>
         surface_gravity: 1.305 m/s<sup>2</sup><br />(0.133 g<sub>0</sub>)
         escape_velocity: 3.344 km/s<br />(12,038 km/h)
         rotation_period: 82.639 d
         axial_tilt: 13.08°
         albedo: 0.30
-        temperature: 2158 K<br />(1885 °C)
+        temperature: 151 K<br />(-123 °C)
   - name: 4758 Athiad V
     type: Terrestrial
     aphelion: 443,475,193 km<br />2.964 AU
@@ -449,14 +449,14 @@ planets:
     radius: 5,967.6 km<br/>(0.937 Yrths)
     surface_area: 4.475 × 10<sup>08</sup> km<sup>2</sup><br/>(0.877 Yrths)
     volume: 8.902 × 10<sup>11</sup> km<sup>3</sup><br/>(0.822 Yrths)
-    mass: 4.217 × 10<sup>24</sup> kg<br />(0.7061093172027978 Yrths)
+    mass: 4.217 × 10<sup>24</sup> kg<br />(0.71 Yrths)
     density: 4.737 g/cm<sup>3</sup>
     surface_gravity: 7.892 m/s<sup>2</sup><br />(0.805 g<sub>0</sub>)
     escape_velocity: 9.712 km/s<br />(34,964 km/h)
     rotation_period: 1.145 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 159 K<br />(-114 °C)
+    temperature: 361 K<br />(88 °C)
     surface_pressure: 34 kPa<br />(0 atm)
     composition:
       - 57.9273% carbon dioxide
@@ -476,14 +476,14 @@ planets:
         radius: 1,588.8 km<br/>(0.249 Yrths)
         surface_area: 3.172 × 10<sup>07</sup> km<sup>2</sup><br/>(0.062 Yrths)
         volume: 1.680 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
-        mass: 5.493 × 10<sup>22</sup> kg<br />(0.7061093172027978 Yrths)
+        mass: 5.493 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 3.270 g/cm<sup>3</sup>
         surface_gravity: 1.450 m/s<sup>2</sup><br />(0.148 g<sub>0</sub>)
         escape_velocity: 2.148 km/s<br />(7,734 km/h)
         rotation_period: 29.530 d
         axial_tilt: 20.49°
         albedo: 0.30
-        temperature: 1996 K<br />(1723 °C)
+        temperature: 117 K<br />(-156 °C)
       - name: 4758 Athiad V b
         type: Icy
         formationType: Impact formed
@@ -496,14 +496,14 @@ planets:
         radius: 948.0 km<br/>(0.149 Yrths)
         surface_area: 1.129 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.568 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 5.448 × 10<sup>21</sup> kg<br />(0.7061093172027978 Yrths)
+        mass: 5.448 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.527 g/cm<sup>3</sup>
         surface_gravity: 0.404 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.876 km/s<br />(3,153 km/h)
         rotation_period: 66.774 d
         axial_tilt: 14.53°
         albedo: 0.30
-        temperature: 1903 K<br />(1630 °C)
+        temperature: 117 K<br />(-156 °C)
   - name: 4758 Athiad VI
     type: Gas giant
     aphelion: 746,223,890 km<br />4.988 AU
@@ -515,7 +515,7 @@ planets:
     radius: 179.9 km<br/>(0.028 Yrths)
     surface_area: 4.068 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.440 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.390 × 10<sup>26</sup> kg<br />(106.99293551065013 Yrths)
+    mass: 6.390 × 10<sup>26</sup> kg<br />(106.99 Yrths)
     density: 26189630.465 g/cm<sup>3</sup>
     surface_gravity: 1315587.406 m/s<sup>2</sup><br />(134152.581 g<sub>0</sub>)
     escape_velocity: 688.514 km/s<br />(2,478,649 km/h)
@@ -536,14 +536,14 @@ planets:
         radius: 94,094.6 km<br/>(14.769 Yrths)
         surface_area: 1.113 × 10<sup>11</sup> km<sup>2</sup><br/>(218.129 Yrths)
         volume: 3.490 × 10<sup>15</sup> km<sup>3</sup><br/>(3221.594 Yrths)
-        mass: 5.804 × 10<sup>27</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 5.804 × 10<sup>27</sup> kg<br />(971.816 Yrths)
         density: 1.663 g/cm<sup>3</sup>
         surface_gravity: 43.691 m/s<sup>2</sup><br />(4.455 g<sub>0</sub>)
         escape_velocity: 90.738 km/s<br />(326,655 km/h)
         rotation_period: 40.702 d
         axial_tilt: 23.26°
         albedo: 0.30
-        temperature: 562 K<br />(289 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 4758 Athiad VI b
         type: Ice/rock hybrid
         formationType: Captured
@@ -556,14 +556,14 @@ planets:
         radius: 164,804.3 km<br/>(25.868 Yrths)
         surface_area: 3.413 × 10<sup>11</sup> km<sup>2</sup><br/>(669.147 Yrths)
         volume: 1.875 × 10<sup>16</sup> km<sup>3</sup><br/>(17309.422 Yrths)
-        mass: 3.813 × 10<sup>28</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 3.813 × 10<sup>28</sup> kg<br />(6384.464 Yrths)
         density: 2.034 g/cm<sup>3</sup>
         surface_gravity: 93.567 m/s<sup>2</sup><br />(9.541 g<sub>0</sub>)
         escape_velocity: 175.734 km/s<br />(632,642 km/h)
         rotation_period: 46.736 d
         axial_tilt: 27.77°
         albedo: 0.30
-        temperature: 511 K<br />(238 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 4758 Athiad VI c
         type: Icy
         formationType: Accreted
@@ -576,14 +576,14 @@ planets:
         radius: 149,374.5 km<br/>(23.446 Yrths)
         surface_area: 2.804 × 10<sup>11</sup> km<sup>2</sup><br/>(549.715 Yrths)
         volume: 1.396 × 10<sup>16</sup> km<sup>3</sup><br/>(12888.619 Yrths)
-        mass: 1.094 × 10<sup>28</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 1.094 × 10<sup>28</sup> kg<br />(1831.287 Yrths)
         density: 0.783 g/cm<sup>3</sup>
         surface_gravity: 32.669 m/s<sup>2</sup><br />(3.331 g<sub>0</sub>)
         escape_velocity: 98.859 km/s<br />(355,894 km/h)
         rotation_period: 61.209 d
         axial_tilt: 11.75°
         albedo: 0.30
-        temperature: 402 K<br />(129 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 4758 Athiad VI d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -596,14 +596,14 @@ planets:
         radius: 121,307.2 km<br/>(19.041 Yrths)
         surface_area: 1.849 × 10<sup>11</sup> km<sup>2</sup><br/>(362.542 Yrths)
         volume: 7.477 × 10<sup>15</sup> km<sup>3</sup><br/>(6902.980 Yrths)
-        mass: 1.423 × 10<sup>28</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 1.423 × 10<sup>28</sup> kg<br />(2382.353 Yrths)
         density: 1.903 g/cm<sup>3</sup>
         surface_gravity: 64.442 m/s<sup>2</sup><br />(6.571 g<sub>0</sub>)
         escape_velocity: 125.123 km/s<br />(450,443 km/h)
         rotation_period: 60.761 d
         axial_tilt: 15.17°
         albedo: 0.30
-        temperature: 366 K<br />(93 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 4758 Athiad VI e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -616,14 +616,14 @@ planets:
         radius: 153,603.0 km<br/>(24.110 Yrths)
         surface_area: 2.965 × 10<sup>11</sup> km<sup>2</sup><br/>(581.278 Yrths)
         volume: 1.518 × 10<sup>16</sup> km<sup>3</sup><br/>(14014.459 Yrths)
-        mass: 2.429 × 10<sup>28</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 2.429 × 10<sup>28</sup> kg<br />(4067.129 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 68.616 m/s<sup>2</sup><br />(6.997 g<sub>0</sub>)
         escape_velocity: 145.285 km/s<br />(523,027 km/h)
         rotation_period: 59.039 d
         axial_tilt: 32.76°
         albedo: 0.30
-        temperature: 333 K<br />(59 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 4758 Athiad VI f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -636,14 +636,14 @@ planets:
         radius: 91,371.4 km<br/>(14.342 Yrths)
         surface_area: 1.049 × 10<sup>11</sup> km<sup>2</sup><br/>(205.686 Yrths)
         volume: 3.195 × 10<sup>15</sup> km<sup>3</sup><br/>(2949.908 Yrths)
-        mass: 8.586 × 10<sup>27</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 8.586 × 10<sup>27</sup> kg<br />(1437.637 Yrths)
         density: 2.687 g/cm<sup>3</sup>
         surface_gravity: 68.543 m/s<sup>2</sup><br />(6.989 g<sub>0</sub>)
         escape_velocity: 111.995 km/s<br />(403,181 km/h)
         rotation_period: 33.451 d
         axial_tilt: 11.65°
         albedo: 0.30
-        temperature: 288 K<br />(15 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 4758 Athiad VI g
         type: Icy
         formationType: Captured
@@ -656,14 +656,14 @@ planets:
         radius: 118,894.5 km<br/>(18.662 Yrths)
         surface_area: 1.776 × 10<sup>11</sup> km<sup>2</sup><br/>(348.264 Yrths)
         volume: 7.040 × 10<sup>15</sup> km<sup>3</sup><br/>(6499.246 Yrths)
-        mass: 8.858 × 10<sup>27</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 8.858 × 10<sup>27</sup> kg<br />(1483.272 Yrths)
         density: 1.258 g/cm<sup>3</sup>
         surface_gravity: 41.767 m/s<sup>2</sup><br />(4.259 g<sub>0</sub>)
         escape_velocity: 99.726 km/s<br />(359,013 km/h)
         rotation_period: 70.932 d
         axial_tilt: 13.06°
         albedo: 0.30
-        temperature: 275 K<br />(2 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 4758 Athiad VI h
         type: Icy
         formationType: Accreted
@@ -676,14 +676,14 @@ planets:
         radius: 109,886.2 km<br/>(17.248 Yrths)
         surface_area: 1.517 × 10<sup>11</sup> km<sup>2</sup><br/>(297.489 Yrths)
         volume: 5.558 × 10<sup>15</sup> km<sup>3</sup><br/>(5131.048 Yrths)
-        mass: 7.600 × 10<sup>27</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 7.600 × 10<sup>27</sup> kg<br />(1272.541 Yrths)
         density: 1.367 g/cm<sup>3</sup>
         surface_gravity: 41.949 m/s<sup>2</sup><br />(4.278 g<sub>0</sub>)
         escape_velocity: 96.082 km/s<br />(345,895 km/h)
         rotation_period: 71.646 d
         axial_tilt: 9.46°
         albedo: 0.30
-        temperature: 217 K<br />(-57 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 4758 Athiad VI i
         type: Icy
         formationType: Accreted
@@ -696,14 +696,14 @@ planets:
         radius: 102,765.8 km<br/>(16.130 Yrths)
         surface_area: 1.327 × 10<sup>11</sup> km<sup>2</sup><br/>(260.185 Yrths)
         volume: 4.546 × 10<sup>15</sup> km<sup>3</sup><br/>(4196.840 Yrths)
-        mass: 5.976 × 10<sup>27</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 5.976 × 10<sup>27</sup> kg<br />(1000.674 Yrths)
         density: 1.315 g/cm<sup>3</sup>
         surface_gravity: 37.717 m/s<sup>2</sup><br />(3.846 g<sub>0</sub>)
         escape_velocity: 88.105 km/s<br />(317,178 km/h)
         rotation_period: 77.002 d
         axial_tilt: 24.07°
         albedo: 0.30
-        temperature: 197 K<br />(-76 °C)
+        temperature: 92 K<br />(-182 °C)
       - name: 4758 Athiad VI j
         type: Icy
         formationType: Accreted
@@ -716,12 +716,12 @@ planets:
         radius: 146,445.9 km<br/>(22.986 Yrths)
         surface_area: 2.695 × 10<sup>11</sup> km<sup>2</sup><br/>(528.372 Yrths)
         volume: 1.316 × 10<sup>16</sup> km<sup>3</sup><br/>(12145.328 Yrths)
-        mass: 1.720 × 10<sup>28</sup> kg<br />(106.99293551065013 Yrths)
+        mass: 1.720 × 10<sup>28</sup> kg<br />(2880.831 Yrths)
         density: 1.308 g/cm<sup>3</sup>
         surface_gravity: 53.469 m/s<sup>2</sup><br />(5.452 g<sub>0</sub>)
         escape_velocity: 125.227 km/s<br />(450,817 km/h)
         rotation_period: 63.416 d
         axial_tilt: 10.80°
         albedo: 0.30
-        temperature: 188 K<br />(-85 °C)
+        temperature: 92 K<br />(-182 °C)
 ---

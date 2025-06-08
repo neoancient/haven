@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8119 Athiad A is a star in the constellation Ath
+      8119 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 540.12 ly
 apparent_magnitude: 8.24
 absolute_magnitude: 2.14

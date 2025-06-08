@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1358 Keead is a star in the constellation Kee
+      1358 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 336.24 ly
 apparent_magnitude: 12.28
 absolute_magnitude: 7.21

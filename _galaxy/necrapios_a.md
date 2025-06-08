@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Necrapios A is a star in the constellation Nurranpug
+      Necrapios A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 267.47 ly
 apparent_magnitude: 2.89
 absolute_magnitude: -1.68

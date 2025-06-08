@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7851 Arkothiad is a star in the constellation Arkoth
+      7851 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 287.45 ly
 apparent_magnitude: 18.17
 absolute_magnitude: 13.44

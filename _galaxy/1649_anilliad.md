@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1649 Anilliad is a star in the constellation Anil
+      1649 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 261.43 ly
 apparent_magnitude: 9.02
 absolute_magnitude: 4.50

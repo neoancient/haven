@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2855 Geardiad A is a star in the constellation Geard
+      2855 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 340.45 ly
 apparent_magnitude: 9.90
 absolute_magnitude: 4.81

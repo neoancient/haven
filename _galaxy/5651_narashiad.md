@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5651 Narashiad is a star in the constellation Naras
+      5651 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 538.42 ly
 apparent_magnitude: 11.26
 absolute_magnitude: 5.17

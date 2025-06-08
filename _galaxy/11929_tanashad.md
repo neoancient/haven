@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11929 Tanashad is a star in the constellation Tanas
+      11929 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 187.10 ly
 apparent_magnitude: 10.22
 absolute_magnitude: 6.43

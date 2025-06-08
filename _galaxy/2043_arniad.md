@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2043 Arniad is a star in the constellation Arni
+      2043 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 335.45 ly
 apparent_magnitude: 8.87
 absolute_magnitude: 3.81
@@ -31,14 +31,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.745 g/cm<sup>3</sup>
     surface_gravity: 31873.849 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 1227 K<br />(954 °C)
+    temperature: 1245 K<br />(972 °C)
     composition:
       - 63.8781% hydrogen
       - 23.2482% helium
@@ -59,14 +59,14 @@ planets:
         radius: 1,192.1 km<br/>(0.187 Yrths)
         surface_area: 1.786 × 10<sup>07</sup> km<sup>2</sup><br/>(0.035 Yrths)
         volume: 7.096 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 7.688 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.688 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.083 g/cm<sup>3</sup>
         surface_gravity: 0.361 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.928 km/s<br />(3,340 km/h)
         rotation_period: 63.435 d
         axial_tilt: 19.33°
         albedo: 0.30
-        temperature: 7065 K<br />(6792 °C)
+        temperature: 334 K<br />(61 °C)
       - name: 2043 Arniad I b
         type: Rocky
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 684.6 km<br/>(0.107 Yrths)
         surface_area: 5.889 × 10<sup>06</sup> km<sup>2</sup><br/>(0.012 Yrths)
         volume: 1.344 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.501 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.501 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.605 g/cm<sup>3</sup>
         surface_gravity: 0.498 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 0.826 km/s<br />(2,974 km/h)
         rotation_period: 34.531 d
         axial_tilt: 15.73°
         albedo: 0.30
-        temperature: 5839 K<br />(5565 °C)
+        temperature: 334 K<br />(61 °C)
       - name: 2043 Arniad I c
         type: Icy
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 1,264.2 km<br/>(0.198 Yrths)
         surface_area: 2.008 × 10<sup>07</sup> km<sup>2</sup><br/>(0.039 Yrths)
         volume: 8.464 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 1.392 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.392 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.645 g/cm<sup>3</sup>
         surface_gravity: 0.581 m/s<sup>2</sup><br />(0.059 g<sub>0</sub>)
         escape_velocity: 1.212 km/s<br />(4,365 km/h)
         rotation_period: 58.507 d
         axial_tilt: 20.07°
         albedo: 0.30
-        temperature: 5567 K<br />(5294 °C)
+        temperature: 334 K<br />(61 °C)
       - name: 2043 Arniad I d
         type: Icy
         formationType: Accreted
@@ -119,14 +119,14 @@ planets:
         radius: 752.5 km<br/>(0.118 Yrths)
         surface_area: 7.116 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.785 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.255 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.255 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.824 g/cm<sup>3</sup>
         surface_gravity: 0.383 m/s<sup>2</sup><br />(0.039 g<sub>0</sub>)
         escape_velocity: 0.760 km/s<br />(2,736 km/h)
         rotation_period: 64.389 d
         axial_tilt: 10.97°
         albedo: 0.30
-        temperature: 3296 K<br />(3023 °C)
+        temperature: 334 K<br />(61 °C)
       - name: 2043 Arniad I e
         type: Icy
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 889.3 km<br/>(0.140 Yrths)
         surface_area: 9.939 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.946 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.428 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.428 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.503 g/cm<sup>3</sup>
         surface_gravity: 0.373 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.815 km/s<br />(2,935 km/h)
         rotation_period: 62.192 d
         axial_tilt: 16.42°
         albedo: 0.30
-        temperature: 2146 K<br />(1873 °C)
+        temperature: 334 K<br />(61 °C)
       - name: 2043 Arniad I f
         type: Icy
         formationType: Accreted
@@ -159,14 +159,14 @@ planets:
         radius: 867.0 km<br/>(0.136 Yrths)
         surface_area: 9.447 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.730 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 3.503 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.503 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.283 g/cm<sup>3</sup>
         surface_gravity: 0.311 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.734 km/s<br />(2,644 km/h)
         rotation_period: 60.922 d
         axial_tilt: 18.12°
         albedo: 0.30
-        temperature: 1951 K<br />(1678 °C)
+        temperature: 334 K<br />(61 °C)
   - name: 2043 Arniad II
     type: Terrestrial
     aphelion: 235,504,564 km<br />1.574 AU
@@ -178,14 +178,14 @@ planets:
     radius: 7,472.2 km<br/>(1.173 Yrths)
     surface_area: 7.016 × 10<sup>08</sup> km<sup>2</sup><br/>(1.376 Yrths)
     volume: 1.748 × 10<sup>12</sup> km<sup>3</sup><br/>(1.613 Yrths)
-    mass: 7.713 × 10<sup>24</sup> kg<br />(1.2915042277894944 Yrths)
+    mass: 7.713 × 10<sup>24</sup> kg<br />(1.29 Yrths)
     density: 4.414 g/cm<sup>3</sup>
     surface_gravity: 9.207 m/s<sup>2</sup><br />(0.939 g<sub>0</sub>)
     escape_velocity: 11.738 km/s<br />(42,258 km/h)
     rotation_period: 0.979 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 302 K<br />(29 °C)
+    temperature: 327 K<br />(54 °C)
     surface_pressure: 65 kPa<br />(1 atm)
     composition:
       - 89.3370% nitrogen
@@ -206,14 +206,14 @@ planets:
         radius: 3,723.8 km<br/>(0.584 Yrths)
         surface_area: 1.743 × 10<sup>08</sup> km<sup>2</sup><br/>(0.342 Yrths)
         volume: 2.163 × 10<sup>11</sup> km<sup>3</sup><br/>(0.200 Yrths)
-        mass: 5.865 × 10<sup>23</sup> kg<br />(1.2915042277894944 Yrths)
+        mass: 5.865 × 10<sup>23</sup> kg<br />(0.098 Yrths)
         density: 2.712 g/cm<sup>3</sup>
         surface_gravity: 2.819 m/s<sup>2</sup><br />(0.287 g<sub>0</sub>)
         escape_velocity: 4.585 km/s<br />(16,507 km/h)
         rotation_period: 41.510 d
         axial_tilt: 22.56°
         albedo: 0.30
-        temperature: 3698 K<br />(3425 °C)
+        temperature: 253 K<br />(-20 °C)
   - name: 2043 Arniad III
     type: Gas giant
     aphelion: 409,720,299 km<br />2.739 AU
@@ -225,7 +225,7 @@ planets:
     radius: 197.2 km<br/>(0.031 Yrths)
     surface_area: 4.886 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.211 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.532 × 10<sup>26</sup> kg<br />(159.61233778587854 Yrths)
+    mass: 9.532 × 10<sup>26</sup> kg<br />(159.61 Yrths)
     density: 29685076.713 g/cm<sup>3</sup>
     surface_gravity: 1634165.468 m/s<sup>2</sup><br />(166638.502 g<sub>0</sub>)
     escape_velocity: 803.312 km/s<br />(2,891,924 km/h)
@@ -246,14 +246,14 @@ planets:
         radius: 93,305.8 km<br/>(14.645 Yrths)
         surface_area: 1.094 × 10<sup>11</sup> km<sup>2</sup><br/>(214.488 Yrths)
         volume: 3.403 × 10<sup>15</sup> km<sup>3</sup><br/>(3141.254 Yrths)
-        mass: 7.465 × 10<sup>27</sup> kg<br />(159.61233778587854 Yrths)
+        mass: 7.465 × 10<sup>27</sup> kg<br />(1249.961 Yrths)
         density: 2.194 g/cm<sup>3</sup>
         surface_gravity: 57.150 m/s<sup>2</sup><br />(5.828 g<sub>0</sub>)
         escape_velocity: 103.341 km/s<br />(372,027 km/h)
         rotation_period: 48.336 d
         axial_tilt: 27.51°
         albedo: 0.30
-        temperature: 550 K<br />(277 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 2043 Arniad III b
         type: Icy
         formationType: Captured
@@ -266,14 +266,14 @@ planets:
         radius: 119,647.9 km<br/>(18.780 Yrths)
         surface_area: 1.799 × 10<sup>11</sup> km<sup>2</sup><br/>(352.691 Yrths)
         volume: 7.175 × 10<sup>15</sup> km<sup>3</sup><br/>(6623.571 Yrths)
-        mass: 6.384 × 10<sup>27</sup> kg<br />(159.61233778587854 Yrths)
+        mass: 6.384 × 10<sup>27</sup> kg<br />(1069.025 Yrths)
         density: 0.890 g/cm<sup>3</sup>
         surface_gravity: 29.724 m/s<sup>2</sup><br />(3.031 g<sub>0</sub>)
         escape_velocity: 84.395 km/s<br />(303,824 km/h)
         rotation_period: 55.763 d
         axial_tilt: 19.36°
         albedo: 0.30
-        temperature: 524 K<br />(251 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 2043 Arniad III c
         type: Icy
         formationType: Accreted
@@ -286,14 +286,14 @@ planets:
         radius: 101,553.5 km<br/>(15.940 Yrths)
         surface_area: 1.296 × 10<sup>11</sup> km<sup>2</sup><br/>(254.082 Yrths)
         volume: 4.387 × 10<sup>15</sup> km<sup>3</sup><br/>(4050.059 Yrths)
-        mass: 6.893 × 10<sup>27</sup> kg<br />(159.61233778587854 Yrths)
+        mass: 6.893 × 10<sup>27</sup> kg<br />(1154.185 Yrths)
         density: 1.571 g/cm<sup>3</sup>
         surface_gravity: 44.547 m/s<sup>2</sup><br />(4.543 g<sub>0</sub>)
         escape_velocity: 95.185 km/s<br />(342,666 km/h)
         rotation_period: 41.798 d
         axial_tilt: 10.16°
         albedo: 0.30
-        temperature: 477 K<br />(203 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 2043 Arniad III d
         type: Icy
         formationType: Accreted
@@ -306,14 +306,14 @@ planets:
         radius: 114,418.5 km<br/>(17.959 Yrths)
         surface_area: 1.645 × 10<sup>11</sup> km<sup>2</sup><br/>(322.535 Yrths)
         volume: 6.274 × 10<sup>15</sup> km<sup>3</sup><br/>(5792.500 Yrths)
-        mass: 5.435 × 10<sup>27</sup> kg<br />(159.61233778587854 Yrths)
+        mass: 5.435 × 10<sup>27</sup> kg<br />(910.057 Yrths)
         density: 0.866 g/cm<sup>3</sup>
         surface_gravity: 27.670 m/s<sup>2</sup><br />(2.822 g<sub>0</sub>)
         escape_velocity: 79.628 km/s<br />(286,660 km/h)
         rotation_period: 78.031 d
         axial_tilt: 20.80°
         albedo: 0.30
-        temperature: 375 K<br />(102 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 2043 Arniad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -326,14 +326,14 @@ planets:
         radius: 84,039.7 km<br/>(13.191 Yrths)
         surface_area: 8.875 × 10<sup>10</sup> km<sup>2</sup><br/>(174.002 Yrths)
         volume: 2.486 × 10<sup>15</sup> km<sup>3</sup><br/>(2295.257 Yrths)
-        mass: 5.692 × 10<sup>27</sup> kg<br />(159.61233778587854 Yrths)
+        mass: 5.692 × 10<sup>27</sup> kg<br />(953.167 Yrths)
         density: 2.290 g/cm<sup>3</sup>
         surface_gravity: 53.720 m/s<sup>2</sup><br />(5.478 g<sub>0</sub>)
         escape_velocity: 95.087 km/s<br />(342,312 km/h)
         rotation_period: 41.709 d
         axial_tilt: 9.85°
         albedo: 0.30
-        temperature: 296 K<br />(23 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 2043 Arniad III f
         type: Icy
         formationType: Accreted
@@ -346,14 +346,14 @@ planets:
         radius: 93,688.1 km<br/>(14.705 Yrths)
         surface_area: 1.103 × 10<sup>11</sup> km<sup>2</sup><br/>(216.249 Yrths)
         volume: 3.445 × 10<sup>15</sup> km<sup>3</sup><br/>(3180.029 Yrths)
-        mass: 5.279 × 10<sup>27</sup> kg<br />(159.61233778587854 Yrths)
+        mass: 5.279 × 10<sup>27</sup> kg<br />(883.910 Yrths)
         density: 1.532 g/cm<sup>3</sup>
         surface_gravity: 40.084 m/s<sup>2</sup><br />(4.087 g<sub>0</sub>)
         escape_velocity: 86.724 km/s<br />(312,207 km/h)
         rotation_period: 70.539 d
         axial_tilt: 23.30°
         albedo: 0.30
-        temperature: 159 K<br />(-114 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 2043 Arniad III g
         type: Icy
         formationType: Accreted
@@ -366,14 +366,14 @@ planets:
         radius: 102,823.2 km<br/>(16.139 Yrths)
         surface_area: 1.329 × 10<sup>11</sup> km<sup>2</sup><br/>(260.475 Yrths)
         volume: 4.554 × 10<sup>15</sup> km<sup>3</sup><br/>(4203.877 Yrths)
-        mass: 6.658 × 10<sup>27</sup> kg<br />(159.61233778587854 Yrths)
+        mass: 6.658 × 10<sup>27</sup> kg<br />(1114.819 Yrths)
         density: 1.462 g/cm<sup>3</sup>
         surface_gravity: 41.972 m/s<sup>2</sup><br />(4.280 g<sub>0</sub>)
         escape_velocity: 92.968 km/s<br />(334,686 km/h)
         rotation_period: 49.460 d
         axial_tilt: 25.28°
         albedo: 0.30
-        temperature: 94 K<br />(-179 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 2043 Arniad III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -386,14 +386,14 @@ planets:
         radius: 100,636.6 km<br/>(15.796 Yrths)
         surface_area: 1.273 × 10<sup>11</sup> km<sup>2</sup><br/>(249.515 Yrths)
         volume: 4.269 × 10<sup>15</sup> km<sup>3</sup><br/>(3941.351 Yrths)
-        mass: 7.692 × 10<sup>27</sup> kg<br />(159.61233778587854 Yrths)
+        mass: 7.692 × 10<sup>27</sup> kg<br />(1287.944 Yrths)
         density: 1.802 g/cm<sup>3</sup>
         surface_gravity: 50.620 m/s<sup>2</sup><br />(5.162 g<sub>0</sub>)
         escape_velocity: 101.006 km/s<br />(363,623 km/h)
         rotation_period: 42.061 d
         axial_tilt: 21.91°
         albedo: 0.30
-        temperature: 90 K<br />(-183 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 2043 Arniad III i
         type: Icy
         formationType: Impact formed
@@ -406,12 +406,12 @@ planets:
         radius: 204,661.4 km<br/>(32.124 Yrths)
         surface_area: 5.264 × 10<sup>11</sup> km<sup>2</sup><br/>(1031.946 Yrths)
         volume: 3.591 × 10<sup>16</sup> km<sup>3</sup><br/>(33150.136 Yrths)
-        mass: 3.706 × 10<sup>28</sup> kg<br />(159.61233778587854 Yrths)
+        mass: 3.706 × 10<sup>28</sup> kg<br />(6205.100 Yrths)
         density: 1.032 g/cm<sup>3</sup>
         surface_gravity: 58.967 m/s<sup>2</sup><br />(6.013 g<sub>0</sub>)
         escape_velocity: 155.466 km/s<br />(559,676 km/h)
         rotation_period: 90.802 d
         axial_tilt: 25.17°
         albedo: 0.30
-        temperature: 71 K<br />(-202 °C)
+        temperature: 192 K<br />(-81 °C)
 ---

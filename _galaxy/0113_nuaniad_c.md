@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0113 Nuaniad C is a star in the constellation Nuani
+      0113 Nuaniad C is a star in the constellation <a href="nuani.html">Nuani</a>
 distance: 238.78 ly
 apparent_magnitude: 9.76
 absolute_magnitude: 5.43
@@ -31,14 +31,14 @@ planets:
     radius: 5,639.3 km<br/>(0.885 Yrths)
     surface_area: 3.996 × 10<sup>08</sup> km<sup>2</sup><br/>(0.783 Yrths)
     volume: 7.512 × 10<sup>11</sup> km<sup>3</sup><br/>(0.693 Yrths)
-    mass: 6.602 × 10<sup>24</sup> kg<br />(1.1055308460136608 Yrths)
+    mass: 6.602 × 10<sup>24</sup> kg<br />(1.11 Yrths)
     density: 8.789 g/cm<sup>3</sup>
     surface_gravity: 13.838 m/s<sup>2</sup><br />(1.411 g<sub>0</sub>)
     escape_velocity: 12.501 km/s<br />(45,004 km/h)
     rotation_period: 1.764 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 546 K<br />(273 °C)
+    temperature: 1503 K<br />(1229 °C)
     surface_pressure: 268 kPa<br />(3 atm)
     composition:
       - 96.5805% carbon dioxide
@@ -55,7 +55,7 @@ planets:
     radius: 191.5 km<br/>(0.030 Yrths)
     surface_area: 4.607 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.940 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 9.441 × 10<sup>26</sup> kg<br />(158.08173113276314 Yrths)
+    mass: 9.441 × 10<sup>26</sup> kg<br />(158.08 Yrths)
     density: 32106967.807 g/cm<sup>3</sup>
     surface_gravity: 1716360.516 m/s<sup>2</sup><br />(175020.065 g<sub>0</sub>)
     escape_velocity: 811.272 km/s<br />(2,920,578 km/h)
@@ -76,14 +76,14 @@ planets:
         radius: 107,203.0 km<br/>(16.827 Yrths)
         surface_area: 1.444 × 10<sup>11</sup> km<sup>2</sup><br/>(283.138 Yrths)
         volume: 5.161 × 10<sup>15</sup> km<sup>3</sup><br/>(4764.285 Yrths)
-        mass: 9.805 × 10<sup>27</sup> kg<br />(158.08173113276314 Yrths)
+        mass: 9.805 × 10<sup>27</sup> kg<br />(1641.886 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 56.868 m/s<sup>2</sup><br />(5.799 g<sub>0</sub>)
         escape_velocity: 110.496 km/s<br />(397,785 km/h)
         rotation_period: 63.043 d
         axial_tilt: 19.15°
         albedo: 0.30
-        temperature: 1490 K<br />(1217 °C)
+        temperature: 251 K<br />(-23 °C)
       - name: 0113 Nuaniad C II b
         type: Icy
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 115,675.0 km<br/>(18.156 Yrths)
         surface_area: 1.681 × 10<sup>11</sup> km<sup>2</sup><br/>(329.658 Yrths)
         volume: 6.483 × 10<sup>15</sup> km<sup>3</sup><br/>(5985.437 Yrths)
-        mass: 8.044 × 10<sup>27</sup> kg<br />(158.08173113276314 Yrths)
+        mass: 8.044 × 10<sup>27</sup> kg<br />(1346.925 Yrths)
         density: 1.241 g/cm<sup>3</sup>
         surface_gravity: 40.068 m/s<sup>2</sup><br />(4.086 g<sub>0</sub>)
         escape_velocity: 96.345 km/s<br />(346,842 km/h)
         rotation_period: 56.851 d
         axial_tilt: 6.78°
         albedo: 0.30
-        temperature: 1068 K<br />(794 °C)
+        temperature: 251 K<br />(-23 °C)
       - name: 0113 Nuaniad C II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 255,840.7 km<br/>(40.157 Yrths)
         surface_area: 8.225 × 10<sup>11</sup> km<sup>2</sup><br/>(1612.590 Yrths)
         volume: 7.015 × 10<sup>16</sup> km<sup>3</sup><br/>(64756.896 Yrths)
-        mass: 1.461 × 10<sup>29</sup> kg<br />(158.08173113276314 Yrths)
+        mass: 1.461 × 10<sup>29</sup> kg<br />(24457.401 Yrths)
         density: 2.082 g/cm<sup>3</sup>
         surface_gravity: 148.733 m/s<sup>2</sup><br />(15.167 g<sub>0</sub>)
         escape_velocity: 276.057 km/s<br />(993,804 km/h)
         rotation_period: 43.689 d
         axial_tilt: 21.44°
         albedo: 0.30
-        temperature: 1018 K<br />(745 °C)
+        temperature: 251 K<br />(-23 °C)
       - name: 0113 Nuaniad C II d
         type: Rocky
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 133,253.4 km<br/>(20.916 Yrths)
         surface_area: 2.231 × 10<sup>11</sup> km<sup>2</sup><br/>(437.463 Yrths)
         volume: 9.911 × 10<sup>15</sup> km<sup>3</sup><br/>(9149.804 Yrths)
-        mass: 3.210 × 10<sup>28</sup> kg<br />(158.08173113276314 Yrths)
+        mass: 3.210 × 10<sup>28</sup> kg<br />(5374.259 Yrths)
         density: 3.238 g/cm<sup>3</sup>
         surface_gravity: 120.475 m/s<sup>2</sup><br />(12.285 g<sub>0</sub>)
         escape_velocity: 179.307 km/s<br />(645,506 km/h)
         rotation_period: 39.576 d
         axial_tilt: 10.24°
         albedo: 0.30
-        temperature: 971 K<br />(697 °C)
+        temperature: 251 K<br />(-23 °C)
       - name: 0113 Nuaniad C II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -156,14 +156,14 @@ planets:
         radius: 139,431.1 km<br/>(21.885 Yrths)
         surface_area: 2.443 × 10<sup>11</sup> km<sup>2</sup><br/>(478.965 Yrths)
         volume: 1.135 × 10<sup>16</sup> km<sup>3</sup><br/>(10482.288 Yrths)
-        mass: 2.818 × 10<sup>28</sup> kg<br />(158.08173113276314 Yrths)
+        mass: 2.818 × 10<sup>28</sup> kg<br />(4718.366 Yrths)
         density: 2.482 g/cm<sup>3</sup>
         surface_gravity: 96.607 m/s<sup>2</sup><br />(9.851 g<sub>0</sub>)
         escape_velocity: 164.246 km/s<br />(591,284 km/h)
         rotation_period: 59.788 d
         axial_tilt: 15.21°
         albedo: 0.30
-        temperature: 882 K<br />(609 °C)
+        temperature: 251 K<br />(-23 °C)
       - name: 0113 Nuaniad C II f
         type: Icy
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 117,903.8 km<br/>(18.506 Yrths)
         surface_area: 1.747 × 10<sup>11</sup> km<sup>2</sup><br/>(342.484 Yrths)
         volume: 6.865 × 10<sup>15</sup> km<sup>3</sup><br/>(6338.124 Yrths)
-        mass: 7.348 × 10<sup>27</sup> kg<br />(158.08173113276314 Yrths)
+        mass: 7.348 × 10<sup>27</sup> kg<br />(1230.429 Yrths)
         density: 1.070 g/cm<sup>3</sup>
         surface_gravity: 35.232 m/s<sup>2</sup><br />(3.593 g<sub>0</sub>)
         escape_velocity: 91.210 km/s<br />(328,356 km/h)
         rotation_period: 66.549 d
         axial_tilt: 20.33°
         albedo: 0.30
-        temperature: 729 K<br />(456 °C)
+        temperature: 251 K<br />(-23 °C)
       - name: 0113 Nuaniad C II g
         type: Icy
         formationType: Accreted
@@ -196,14 +196,14 @@ planets:
         radius: 109,045.9 km<br/>(17.116 Yrths)
         surface_area: 1.494 × 10<sup>11</sup> km<sup>2</sup><br/>(292.957 Yrths)
         volume: 5.431 × 10<sup>15</sup> km<sup>3</sup><br/>(5014.244 Yrths)
-        mass: 7.748 × 10<sup>27</sup> kg<br />(158.08173113276314 Yrths)
+        mass: 7.748 × 10<sup>27</sup> kg<br />(1297.470 Yrths)
         density: 1.427 g/cm<sup>3</sup>
         surface_gravity: 43.432 m/s<sup>2</sup><br />(4.429 g<sub>0</sub>)
         escape_velocity: 97.392 km/s<br />(350,610 km/h)
         rotation_period: 72.694 d
         axial_tilt: 12.74°
         albedo: 0.30
-        temperature: 663 K<br />(390 °C)
+        temperature: 251 K<br />(-23 °C)
   - name: 0113 Nuaniad C III
     type: Large terrestrial
     aphelion: 239,617,419 km<br />1.602 AU
@@ -215,7 +215,7 @@ planets:
     radius: 6,553.1 km<br/>(1.029 Yrths)
     surface_area: 5.396 × 10<sup>08</sup> km<sup>2</sup><br/>(1.058 Yrths)
     volume: 1.179 × 10<sup>12</sup> km<sup>3</sup><br/>(1.088 Yrths)
-    mass: 7.773 × 10<sup>24</sup> kg<br />(1.3015219843478263 Yrths)
+    mass: 7.773 × 10<sup>24</sup> kg<br />(1.30 Yrths)
     density: 6.594 g/cm<sup>3</sup>
     surface_gravity: 12.064 m/s<sup>2</sup><br />(1.230 g<sub>0</sub>)
     escape_velocity: 12.583 km/s<br />(45,298 km/h)
@@ -241,14 +241,14 @@ planets:
         radius: 2,865.3 km<br/>(0.450 Yrths)
         surface_area: 1.032 × 10<sup>08</sup> km<sup>2</sup><br/>(0.202 Yrths)
         volume: 9.854 × 10<sup>10</sup> km<sup>3</sup><br/>(0.091 Yrths)
-        mass: 2.614 × 10<sup>23</sup> kg<br />(1.3015219843478263 Yrths)
+        mass: 2.614 × 10<sup>23</sup> kg<br />(0.044 Yrths)
         density: 2.653 g/cm<sup>3</sup>
         surface_gravity: 2.122 m/s<sup>2</sup><br />(0.216 g<sub>0</sub>)
         escape_velocity: 3.490 km/s<br />(12,564 km/h)
         rotation_period: 55.586 d
         axial_tilt: 19.26°
         albedo: 0.30
-        temperature: 2564 K<br />(2291 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0113 Nuaniad C III b
         type: Rocky
         formationType: Captured
@@ -261,14 +261,14 @@ planets:
         radius: 2,679.0 km<br/>(0.420 Yrths)
         surface_area: 9.019 × 10<sup>07</sup> km<sup>2</sup><br/>(0.177 Yrths)
         volume: 8.054 × 10<sup>10</sup> km<sup>3</sup><br/>(0.074 Yrths)
-        mass: 2.260 × 10<sup>23</sup> kg<br />(1.3015219843478263 Yrths)
+        mass: 2.260 × 10<sup>23</sup> kg<br />(0.038 Yrths)
         density: 2.806 g/cm<sup>3</sup>
         surface_gravity: 2.098 m/s<sup>2</sup><br />(0.214 g<sub>0</sub>)
         escape_velocity: 3.355 km/s<br />(12,080 km/h)
         rotation_period: 32.965 d
         axial_tilt: 12.78°
         albedo: 0.30
-        temperature: 2445 K<br />(2172 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0113 Nuaniad C III c
         type: Icy
         formationType: Captured
@@ -281,14 +281,14 @@ planets:
         radius: 1,475.2 km<br/>(0.232 Yrths)
         surface_area: 2.735 × 10<sup>07</sup> km<sup>2</sup><br/>(0.054 Yrths)
         volume: 1.345 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 2.535 × 10<sup>22</sup> kg<br />(1.3015219843478263 Yrths)
+        mass: 2.535 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 1.885 g/cm<sup>3</sup>
         surface_gravity: 0.776 m/s<sup>2</sup><br />(0.079 g<sub>0</sub>)
         escape_velocity: 1.514 km/s<br />(5,452 km/h)
         rotation_period: 54.898 d
         axial_tilt: 11.81°
         albedo: 0.30
-        temperature: 2331 K<br />(2058 °C)
+        temperature: 192 K<br />(-81 °C)
   - name: 0113 Nuaniad C IV
     type: Gas dwarf
     aphelion: 373,154,456 km<br />2.494 AU
@@ -300,14 +300,14 @@ planets:
     radius: 13,057.0 km<br/>(2.049 Yrths)
     surface_area: 2.142 × 10<sup>09</sup> km<sup>2</sup><br/>(4.200 Yrths)
     volume: 9.324 × 10<sup>12</sup> km<sup>3</sup><br/>(8.608 Yrths)
-    mass: 2.145 × 10<sup>25</sup> kg<br />(3.5914330180448917 Yrths)
+    mass: 2.145 × 10<sup>25</sup> kg<br />(3.59 Yrths)
     density: 2.300 g/cm<sup>3</sup>
     surface_gravity: 8.385 m/s<sup>2</sup><br />(0.855 g<sub>0</sub>)
     escape_velocity: 14.808 km/s<br />(53,308 km/h)
     rotation_period: 0.637 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 201 K<br />(-73 °C)
+    temperature: 175 K<br />(-98 °C)
     composition:
       - 77.6761% hydrogen
       - 22.1102% helium
@@ -325,14 +325,14 @@ planets:
         radius: 5,124.4 km<br/>(0.804 Yrths)
         surface_area: 3.300 × 10<sup>08</sup> km<sup>2</sup><br/>(0.647 Yrths)
         volume: 5.637 × 10<sup>11</sup> km<sup>3</sup><br/>(0.520 Yrths)
-        mass: 5.050 × 10<sup>23</sup> kg<br />(3.5914330180448917 Yrths)
+        mass: 5.050 × 10<sup>23</sup> kg<br />(0.085 Yrths)
         density: 0.896 g/cm<sup>3</sup>
         surface_gravity: 1.282 m/s<sup>2</sup><br />(0.131 g<sub>0</sub>)
         escape_velocity: 3.627 km/s<br />(13,056 km/h)
         rotation_period: 52.770 d
         axial_tilt: 27.07°
         albedo: 0.30
-        temperature: 1567 K<br />(1294 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0113 Nuaniad C IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -345,14 +345,14 @@ planets:
         radius: 3,889.0 km<br/>(0.610 Yrths)
         surface_area: 1.901 × 10<sup>08</sup> km<sup>2</sup><br/>(0.373 Yrths)
         volume: 2.464 × 10<sup>11</sup> km<sup>3</sup><br/>(0.227 Yrths)
-        mass: 5.501 × 10<sup>23</sup> kg<br />(3.5914330180448917 Yrths)
+        mass: 5.501 × 10<sup>23</sup> kg<br />(0.092 Yrths)
         density: 2.233 g/cm<sup>3</sup>
         surface_gravity: 2.424 m/s<sup>2</sup><br />(0.247 g<sub>0</sub>)
         escape_velocity: 4.345 km/s<br />(15,643 km/h)
         rotation_period: 53.062 d
         axial_tilt: 31.23°
         albedo: 0.30
-        temperature: 1494 K<br />(1221 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0113 Nuaniad C IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -365,14 +365,14 @@ planets:
         radius: 3,741.5 km<br/>(0.587 Yrths)
         surface_area: 1.759 × 10<sup>08</sup> km<sup>2</sup><br/>(0.345 Yrths)
         volume: 2.194 × 10<sup>11</sup> km<sup>3</sup><br/>(0.203 Yrths)
-        mass: 5.069 × 10<sup>23</sup> kg<br />(3.5914330180448917 Yrths)
+        mass: 5.069 × 10<sup>23</sup> kg<br />(0.085 Yrths)
         density: 2.310 g/cm<sup>3</sup>
         surface_gravity: 2.413 m/s<sup>2</sup><br />(0.246 g<sub>0</sub>)
         escape_velocity: 4.253 km/s<br />(15,309 km/h)
         rotation_period: 55.664 d
         axial_tilt: 26.04°
         albedo: 0.30
-        temperature: 1358 K<br />(1085 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0113 Nuaniad C IV d
         type: Ice/rock hybrid
         formationType: Captured
@@ -385,14 +385,14 @@ planets:
         radius: 6,448.1 km<br/>(1.012 Yrths)
         surface_area: 5.225 × 10<sup>08</sup> km<sup>2</sup><br/>(1.024 Yrths)
         volume: 1.123 × 10<sup>12</sup> km<sup>3</sup><br/>(1.037 Yrths)
-        mass: 2.690 × 10<sup>24</sup> kg<br />(3.5914330180448917 Yrths)
+        mass: 2.690 × 10<sup>24</sup> kg<br />(0.450 Yrths)
         density: 2.396 g/cm<sup>3</sup>
         surface_gravity: 4.313 m/s<sup>2</sup><br />(0.440 g<sub>0</sub>)
         escape_velocity: 7.463 km/s<br />(26,866 km/h)
         rotation_period: 63.440 d
         axial_tilt: 26.81°
         albedo: 0.30
-        temperature: 1295 K<br />(1022 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0113 Nuaniad C IV e
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -405,14 +405,14 @@ planets:
         radius: 5,389.7 km<br/>(0.846 Yrths)
         surface_area: 3.650 × 10<sup>08</sup> km<sup>2</sup><br/>(0.716 Yrths)
         volume: 6.558 × 10<sup>11</sup> km<sup>3</sup><br/>(0.605 Yrths)
-        mass: 1.107 × 10<sup>24</sup> kg<br />(3.5914330180448917 Yrths)
+        mass: 1.107 × 10<sup>24</sup> kg<br />(0.185 Yrths)
         density: 1.688 g/cm<sup>3</sup>
         surface_gravity: 2.541 m/s<sup>2</sup><br />(0.259 g<sub>0</sub>)
         escape_velocity: 5.237 km/s<br />(18,852 km/h)
         rotation_period: 62.928 d
         axial_tilt: 17.35°
         albedo: 0.30
-        temperature: 1235 K<br />(962 °C)
+        temperature: 147 K<br />(-126 °C)
   - name: 0113 Nuaniad C V
     type: Gas giant
     aphelion: 624,078,835 km<br />4.172 AU
@@ -424,7 +424,7 @@ planets:
     radius: 227.5 km<br/>(0.036 Yrths)
     surface_area: 6.506 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.935 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.756 × 10<sup>27</sup> kg<br />(294.0435567240184 Yrths)
+    mass: 1.756 × 10<sup>27</sup> kg<br />(294.04 Yrths)
     density: 35586004.147 g/cm<sup>3</sup>
     surface_gravity: 2260676.735 m/s<sup>2</sup><br />(230524.872 g<sub>0</sub>)
     escape_velocity: 1014.977 km/s<br />(3,653,918 km/h)
@@ -445,14 +445,14 @@ planets:
         radius: 222,886.8 km<br/>(34.985 Yrths)
         surface_area: 6.243 × 10<sup>11</sup> km<sup>2</sup><br/>(1223.922 Yrths)
         volume: 4.638 × 10<sup>16</sup> km<sup>3</sup><br/>(42818.403 Yrths)
-        mass: 7.421 × 10<sup>28</sup> kg<br />(294.0435567240184 Yrths)
+        mass: 7.421 × 10<sup>28</sup> kg<br />(12426.307 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 99.566 m/s<sup>2</sup><br />(10.153 g<sub>0</sub>)
         escape_velocity: 210.817 km/s<br />(758,943 km/h)
         rotation_period: 55.347 d
         axial_tilt: 25.44°
         albedo: 0.30
-        temperature: 269 K<br />(-4 °C)
+        temperature: 113 K<br />(-160 °C)
       - name: 0113 Nuaniad C V b
         type: Icy
         formationType: Captured
@@ -465,14 +465,14 @@ planets:
         radius: 248,477.7 km<br/>(39.001 Yrths)
         surface_area: 7.759 × 10<sup>11</sup> km<sup>2</sup><br/>(1521.106 Yrths)
         volume: 6.426 × 10<sup>16</sup> km<sup>3</sup><br/>(59325.212 Yrths)
-        mass: 6.575 × 10<sup>28</sup> kg<br />(294.0435567240184 Yrths)
+        mass: 6.575 × 10<sup>28</sup> kg<br />(11009.425 Yrths)
         density: 1.023 g/cm<sup>3</sup>
         surface_gravity: 70.978 m/s<sup>2</sup><br />(7.238 g<sub>0</sub>)
         escape_velocity: 187.939 km/s<br />(676,580 km/h)
         rotation_period: 74.989 d
         axial_tilt: 15.12°
         albedo: 0.30
-        temperature: 120 K<br />(-154 °C)
+        temperature: 113 K<br />(-160 °C)
       - name: 0113 Nuaniad C V c
         type: Icy
         formationType: Accreted
@@ -485,14 +485,14 @@ planets:
         radius: 220,701.7 km<br/>(34.642 Yrths)
         surface_area: 6.121 × 10<sup>11</sup> km<sup>2</sup><br/>(1200.041 Yrths)
         volume: 4.503 × 10<sup>16</sup> km<sup>3</sup><br/>(41571.352 Yrths)
-        mass: 5.475 × 10<sup>28</sup> kg<br />(294.0435567240184 Yrths)
+        mass: 5.475 × 10<sup>28</sup> kg<br />(9167.461 Yrths)
         density: 1.216 g/cm<sup>3</sup>
         surface_gravity: 74.916 m/s<sup>2</sup><br />(7.639 g<sub>0</sub>)
         escape_velocity: 181.970 km/s<br />(655,091 km/h)
         rotation_period: 82.960 d
         axial_tilt: 10.31°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 113 K<br />(-160 °C)
       - name: 0113 Nuaniad C V d
         type: Ice/rock hybrid
         formationType: Captured
@@ -505,14 +505,14 @@ planets:
         radius: 189,338.4 km<br/>(29.719 Yrths)
         surface_area: 4.505 × 10<sup>11</sup> km<sup>2</sup><br/>(883.206 Yrths)
         volume: 2.843 × 10<sup>16</sup> km<sup>3</sup><br/>(26247.825 Yrths)
-        mass: 7.138 × 10<sup>28</sup> kg<br />(294.0435567240184 Yrths)
+        mass: 7.138 × 10<sup>28</sup> kg<br />(11952.346 Yrths)
         density: 2.511 g/cm<sup>3</sup>
         surface_gravity: 132.712 m/s<sup>2</sup><br />(13.533 g<sub>0</sub>)
         escape_velocity: 224.329 km/s<br />(807,584 km/h)
         rotation_period: 46.970 d
         axial_tilt: 16.28°
         albedo: 0.30
-        temperature: 51 K<br />(-222 °C)
+        temperature: 113 K<br />(-160 °C)
       - name: 0113 Nuaniad C V e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -525,14 +525,14 @@ planets:
         radius: 191,880.8 km<br/>(30.118 Yrths)
         surface_area: 4.627 × 10<sup>11</sup> km<sup>2</sup><br/>(907.085 Yrths)
         volume: 2.959 × 10<sup>16</sup> km<sup>3</sup><br/>(27319.441 Yrths)
-        mass: 5.013 × 10<sup>28</sup> kg<br />(294.0435567240184 Yrths)
+        mass: 5.013 × 10<sup>28</sup> kg<br />(8394.902 Yrths)
         density: 1.694 g/cm<sup>3</sup>
         surface_gravity: 90.759 m/s<sup>2</sup><br />(9.255 g<sub>0</sub>)
         escape_velocity: 186.754 km/s<br />(672,314 km/h)
         rotation_period: 64.290 d
         axial_tilt: 10.77°
         albedo: 0.30
-        temperature: 46 K<br />(-227 °C)
+        temperature: 113 K<br />(-160 °C)
   - name: 0113 Nuaniad C VI
     type: Ice giant
     aphelion: 1,135,428,228 km<br />7.590 AU
@@ -544,14 +544,14 @@ planets:
     radius: 24,848.2 km<br/>(3.900 Yrths)
     surface_area: 7.759 × 10<sup>09</sup> km<sup>2</sup><br/>(15.212 Yrths)
     volume: 6.427 × 10<sup>13</sup> km<sup>3</sup><br/>(59.329 Yrths)
-    mass: 1.090 × 10<sup>26</sup> kg<br />(18.258515142661377 Yrths)
+    mass: 1.090 × 10<sup>26</sup> kg<br />(18.26 Yrths)
     density: 1.697 g/cm<sup>3</sup>
     surface_gravity: 11.771 m/s<sup>2</sup><br />(1.200 g<sub>0</sub>)
     escape_velocity: 24.203 km/s<br />(87,129 km/h)
     rotation_period: 0.377 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 159 K<br />(-114 °C)
+    temperature: 143 K<br />(-130 °C)
     composition:
       - 67.2416% hydrogen
       - 23.3031% helium
@@ -569,14 +569,14 @@ planets:
         radius: 21,816.4 km<br/>(3.424 Yrths)
         surface_area: 5.981 × 10<sup>09</sup> km<sup>2</sup><br/>(11.726 Yrths)
         volume: 4.349 × 10<sup>13</sup> km<sup>3</sup><br/>(40.154 Yrths)
-        mass: 5.478 × 10<sup>25</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 5.478 × 10<sup>25</sup> kg<br />(9.173 Yrths)
         density: 1.259 g/cm<sup>3</sup>
         surface_gravity: 7.671 m/s<sup>2</sup><br />(0.782 g<sub>0</sub>)
         escape_velocity: 18.308 km/s<br />(65,908 km/h)
         rotation_period: 55.364 d
         axial_tilt: 20.07°
         albedo: 0.30
-        temperature: 736 K<br />(462 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI b
         type: Asteroid
         formationType: Captured
@@ -589,14 +589,14 @@ planets:
         radius: 23,708.4 km<br/>(3.721 Yrths)
         surface_area: 7.063 × 10<sup>09</sup> km<sup>2</sup><br/>(13.848 Yrths)
         volume: 5.582 × 10<sup>13</sup> km<sup>3</sup><br/>(51.533 Yrths)
-        mass: 1.136 × 10<sup>26</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 1.136 × 10<sup>26</sup> kg<br />(19.030 Yrths)
         density: 2.036 g/cm<sup>3</sup>
         surface_gravity: 13.476 m/s<sup>2</sup><br />(1.374 g<sub>0</sub>)
         escape_velocity: 25.296 km/s<br />(91,064 km/h)
         rotation_period: 35.713 d
         axial_tilt: 45.02°
         albedo: 0.30
-        temperature: 701 K<br />(428 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI c
         type: Icy
         formationType: Captured
@@ -609,14 +609,14 @@ planets:
         radius: 13,205.8 km<br/>(2.073 Yrths)
         surface_area: 2.191 × 10<sup>09</sup> km<sup>2</sup><br/>(4.297 Yrths)
         volume: 9.647 × 10<sup>12</sup> km<sup>3</sup><br/>(8.906 Yrths)
-        mass: 1.242 × 10<sup>25</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 1.242 × 10<sup>25</sup> kg<br />(2.079 Yrths)
         density: 1.287 g/cm<sup>3</sup>
         surface_gravity: 4.745 m/s<sup>2</sup><br />(0.484 g<sub>0</sub>)
         escape_velocity: 11.203 km/s<br />(40,330 km/h)
         rotation_period: 70.877 d
         axial_tilt: 17.37°
         albedo: 0.30
-        temperature: 669 K<br />(396 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -629,14 +629,14 @@ planets:
         radius: 16,610.0 km<br/>(2.607 Yrths)
         surface_area: 3.467 × 10<sup>09</sup> km<sup>2</sup><br/>(6.797 Yrths)
         volume: 1.920 × 10<sup>13</sup> km<sup>3</sup><br/>(17.721 Yrths)
-        mass: 4.662 × 10<sup>25</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 4.662 × 10<sup>25</sup> kg<br />(7.807 Yrths)
         density: 2.429 g/cm<sup>3</sup>
         surface_gravity: 11.264 m/s<sup>2</sup><br />(1.149 g<sub>0</sub>)
         escape_velocity: 19.357 km/s<br />(69,685 km/h)
         rotation_period: 49.315 d
         axial_tilt: 23.66°
         albedo: 0.30
-        temperature: 638 K<br />(364 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI e
         type: Icy
         formationType: Accreted
@@ -649,14 +649,14 @@ planets:
         radius: 14,018.2 km<br/>(2.200 Yrths)
         surface_area: 2.469 × 10<sup>09</sup> km<sup>2</sup><br/>(4.841 Yrths)
         volume: 1.154 × 10<sup>13</sup> km<sup>3</sup><br/>(10.652 Yrths)
-        mass: 1.813 × 10<sup>25</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 1.813 × 10<sup>25</sup> kg<br />(3.036 Yrths)
         density: 1.571 g/cm<sup>3</sup>
         surface_gravity: 6.149 m/s<sup>2</sup><br />(0.627 g<sub>0</sub>)
         escape_velocity: 13.139 km/s<br />(47,301 km/h)
         rotation_period: 60.626 d
         axial_tilt: 10.37°
         albedo: 0.30
-        temperature: 608 K<br />(335 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -669,14 +669,14 @@ planets:
         radius: 14,418.2 km<br/>(2.263 Yrths)
         surface_area: 2.612 × 10<sup>09</sup> km<sup>2</sup><br/>(5.122 Yrths)
         volume: 1.256 × 10<sup>13</sup> km<sup>3</sup><br/>(11.591 Yrths)
-        mass: 2.857 × 10<sup>25</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 2.857 × 10<sup>25</sup> kg<br />(4.784 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 9.160 m/s<sup>2</sup><br />(0.934 g<sub>0</sub>)
         escape_velocity: 16.264 km/s<br />(58,550 km/h)
         rotation_period: 60.962 d
         axial_tilt: 15.76°
         albedo: 0.30
-        temperature: 580 K<br />(307 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI g
         type: Icy
         formationType: Captured
@@ -689,14 +689,14 @@ planets:
         radius: 13,959.1 km<br/>(2.191 Yrths)
         surface_area: 2.449 × 10<sup>09</sup> km<sup>2</sup><br/>(4.801 Yrths)
         volume: 1.139 × 10<sup>13</sup> km<sup>3</sup><br/>(10.518 Yrths)
-        mass: 1.886 × 10<sup>25</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 1.886 × 10<sup>25</sup> kg<br />(3.158 Yrths)
         density: 1.655 g/cm<sup>3</sup>
         surface_gravity: 6.450 m/s<sup>2</sup><br />(0.658 g<sub>0</sub>)
         escape_velocity: 13.429 km/s<br />(48,343 km/h)
         rotation_period: 39.036 d
         axial_tilt: 14.11°
         albedo: 0.30
-        temperature: 553 K<br />(280 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI h
         type: Ice/rock hybrid
         formationType: Captured
@@ -709,14 +709,14 @@ planets:
         radius: 16,079.5 km<br/>(2.524 Yrths)
         surface_area: 3.249 × 10<sup>09</sup> km<sup>2</sup><br/>(6.370 Yrths)
         volume: 1.741 × 10<sup>13</sup> km<sup>3</sup><br/>(16.076 Yrths)
-        mass: 3.767 × 10<sup>25</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 3.767 × 10<sup>25</sup> kg<br />(6.308 Yrths)
         density: 2.163 g/cm<sup>3</sup>
         surface_gravity: 9.712 m/s<sup>2</sup><br />(0.990 g<sub>0</sub>)
         escape_velocity: 17.685 km/s<br />(63,664 km/h)
         rotation_period: 35.106 d
         axial_tilt: 19.53°
         albedo: 0.30
-        temperature: 527 K<br />(254 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI i
         type: Icy
         formationType: Impact formed
@@ -729,14 +729,14 @@ planets:
         radius: 33,476.5 km<br/>(5.255 Yrths)
         surface_area: 1.408 × 10<sup>10</sup> km<sup>2</sup><br/>(27.610 Yrths)
         volume: 1.571 × 10<sup>14</sup> km<sup>3</sup><br/>(145.077 Yrths)
-        mass: 1.871 × 10<sup>26</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 1.871 × 10<sup>26</sup> kg<br />(31.324 Yrths)
         density: 1.190 g/cm<sup>3</sup>
         surface_gravity: 11.126 m/s<sup>2</sup><br />(1.135 g<sub>0</sub>)
         escape_velocity: 27.312 km/s<br />(98,322 km/h)
         rotation_period: 66.134 d
         axial_tilt: 16.04°
         albedo: 0.30
-        temperature: 502 K<br />(229 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI j
         type: Ice/rock hybrid
         formationType: Captured
@@ -749,14 +749,14 @@ planets:
         radius: 13,717.7 km<br/>(2.153 Yrths)
         surface_area: 2.365 × 10<sup>09</sup> km<sup>2</sup><br/>(4.636 Yrths)
         volume: 1.081 × 10<sup>13</sup> km<sup>3</sup><br/>(9.982 Yrths)
-        mass: 2.161 × 10<sup>25</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 2.161 × 10<sup>25</sup> kg<br />(3.618 Yrths)
         density: 1.998 g/cm<sup>3</sup>
         surface_gravity: 7.654 m/s<sup>2</sup><br />(0.780 g<sub>0</sub>)
         escape_velocity: 14.501 km/s<br />(52,203 km/h)
         rotation_period: 61.653 d
         axial_tilt: 33.89°
         albedo: 0.30
-        temperature: 415 K<br />(142 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0113 Nuaniad C VI k
         type: Icy
         formationType: Impact formed
@@ -769,14 +769,14 @@ planets:
         radius: 16,067.0 km<br/>(2.522 Yrths)
         surface_area: 3.244 × 10<sup>09</sup> km<sup>2</sup><br/>(6.360 Yrths)
         volume: 1.737 × 10<sup>13</sup> km<sup>3</sup><br/>(16.039 Yrths)
-        mass: 2.178 × 10<sup>25</sup> kg<br />(18.258515142661377 Yrths)
+        mass: 2.178 × 10<sup>25</sup> kg<br />(3.648 Yrths)
         density: 1.254 g/cm<sup>3</sup>
         surface_gravity: 5.624 m/s<sup>2</sup><br />(0.574 g<sub>0</sub>)
         escape_velocity: 13.453 km/s<br />(48,430 km/h)
         rotation_period: 47.201 d
         axial_tilt: 12.08°
         albedo: 0.30
-        temperature: 396 K<br />(123 °C)
+        temperature: 86 K<br />(-187 °C)
   - name: 0113 Nuaniad C VII
     type: Terrestrial
     aphelion: 1,812,403,410 km<br />12.115 AU
@@ -788,14 +788,14 @@ planets:
     radius: 6,124.4 km<br/>(0.961 Yrths)
     surface_area: 4.713 × 10<sup>08</sup> km<sup>2</sup><br/>(0.924 Yrths)
     volume: 9.622 × 10<sup>11</sup> km<sup>3</sup><br/>(0.888 Yrths)
-    mass: 5.774 × 10<sup>24</sup> kg<br />(0.9668330808087784 Yrths)
+    mass: 5.774 × 10<sup>24</sup> kg<br />(0.97 Yrths)
     density: 6.001 g/cm<sup>3</sup>
     surface_gravity: 10.260 m/s<sup>2</sup><br />(1.046 g<sub>0</sub>)
     escape_velocity: 11.218 km/s<br />(40,385 km/h)
     rotation_period: 1.014 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 80 K<br />(-193 °C)
+    temperature: 117 K<br />(-156 °C)
     surface_pressure: 36 kPa<br />(0 atm)
     composition:
       - 89.1242% methane
@@ -817,14 +817,14 @@ planets:
         radius: 1,432.4 km<br/>(0.225 Yrths)
         surface_area: 2.578 × 10<sup>07</sup> km<sup>2</sup><br/>(0.051 Yrths)
         volume: 1.231 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 3.358 × 10<sup>22</sup> kg<br />(0.9668330808087784 Yrths)
+        mass: 3.358 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 2.727 g/cm<sup>3</sup>
         surface_gravity: 1.091 m/s<sup>2</sup><br />(0.111 g<sub>0</sub>)
         escape_velocity: 1.769 km/s<br />(6,368 km/h)
         rotation_period: 34.661 d
         axial_tilt: 11.20°
         albedo: 0.30
-        temperature: 986 K<br />(713 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0113 Nuaniad C VII b
         type: Icy
         formationType: Captured
@@ -837,14 +837,14 @@ planets:
         radius: 3,069.1 km<br/>(0.482 Yrths)
         surface_area: 1.184 × 10<sup>08</sup> km<sup>2</sup><br/>(0.232 Yrths)
         volume: 1.211 × 10<sup>11</sup> km<sup>3</sup><br/>(0.112 Yrths)
-        mass: 1.938 × 10<sup>23</sup> kg<br />(0.9668330808087784 Yrths)
+        mass: 1.938 × 10<sup>23</sup> kg<br />(0.032 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 1.371 m/s<sup>2</sup><br />(0.140 g<sub>0</sub>)
         escape_velocity: 2.903 km/s<br />(10,451 km/h)
         rotation_period: 62.502 d
         axial_tilt: 23.73°
         albedo: 0.30
-        temperature: 940 K<br />(667 °C)
+        temperature: 66 K<br />(-207 °C)
   - name: 0113 Nuaniad C VIII
     type: Ice giant
     aphelion: 3,038,088,071 km<br />20.308 AU
@@ -856,14 +856,14 @@ planets:
     radius: 29,953.5 km<br/>(4.702 Yrths)
     surface_area: 1.127 × 10<sup>10</sup> km<sup>2</sup><br/>(22.104 Yrths)
     volume: 1.126 × 10<sup>14</sup> km<sup>3</sup><br/>(103.925 Yrths)
-    mass: 1.538 × 10<sup>26</sup> kg<br />(25.75145440869932 Yrths)
+    mass: 1.538 × 10<sup>26</sup> kg<br />(25.75 Yrths)
     density: 1.366 g/cm<sup>3</sup>
     surface_gravity: 11.425 m/s<sup>2</sup><br />(1.165 g<sub>0</sub>)
     escape_velocity: 26.179 km/s<br />(94,245 km/h)
     rotation_period: 0.322 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 90 K<br />(-183 °C)
+    temperature: 80 K<br />(-193 °C)
     composition:
       - 81.8586% hydrogen
       - 18.1414% helium
@@ -880,14 +880,14 @@ planets:
         radius: 23,450.4 km<br/>(3.681 Yrths)
         surface_area: 6.911 × 10<sup>09</sup> km<sup>2</sup><br/>(13.548 Yrths)
         volume: 5.402 × 10<sup>13</sup> km<sup>3</sup><br/>(49.869 Yrths)
-        mass: 8.031 × 10<sup>25</sup> kg<br />(25.75145440869932 Yrths)
+        mass: 8.031 × 10<sup>25</sup> kg<br />(13.448 Yrths)
         density: 1.487 g/cm<sup>3</sup>
         surface_gravity: 9.734 m/s<sup>2</sup><br />(0.993 g<sub>0</sub>)
         escape_velocity: 21.381 km/s<br />(76,972 km/h)
         rotation_period: 73.904 d
         axial_tilt: 9.25°
         albedo: 0.30
-        temperature: 389 K<br />(116 °C)
+        temperature: 51 K<br />(-222 °C)
       - name: 0113 Nuaniad C VIII b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -900,14 +900,14 @@ planets:
         radius: 38,487.5 km<br/>(6.041 Yrths)
         surface_area: 1.861 × 10<sup>10</sup> km<sup>2</sup><br/>(36.494 Yrths)
         volume: 2.388 × 10<sup>14</sup> km<sup>3</sup><br/>(220.463 Yrths)
-        mass: 3.821 × 10<sup>26</sup> kg<br />(25.75145440869932 Yrths)
+        mass: 3.821 × 10<sup>26</sup> kg<br />(63.980 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 17.193 m/s<sup>2</sup><br />(1.753 g<sub>0</sub>)
         escape_velocity: 36.403 km/s<br />(131,052 km/h)
         rotation_period: 55.826 d
         axial_tilt: 29.12°
         albedo: 0.30
-        temperature: 353 K<br />(80 °C)
+        temperature: 51 K<br />(-222 °C)
       - name: 0113 Nuaniad C VIII c
         type: Icy
         formationType: Captured
@@ -920,14 +920,14 @@ planets:
         radius: 40,917.1 km<br/>(6.422 Yrths)
         surface_area: 2.104 × 10<sup>10</sup> km<sup>2</sup><br/>(41.247 Yrths)
         volume: 2.869 × 10<sup>14</sup> km<sup>3</sup><br/>(264.905 Yrths)
-        mass: 4.113 × 10<sup>26</sup> kg<br />(25.75145440869932 Yrths)
+        mass: 4.113 × 10<sup>26</sup> kg<br />(68.873 Yrths)
         density: 1.433 g/cm<sup>3</sup>
         surface_gravity: 16.375 m/s<sup>2</sup><br />(1.670 g<sub>0</sub>)
         escape_velocity: 36.631 km/s<br />(131,872 km/h)
         rotation_period: 43.895 d
         axial_tilt: 21.68°
         albedo: 0.30
-        temperature: 321 K<br />(48 °C)
+        temperature: 51 K<br />(-222 °C)
       - name: 0113 Nuaniad C VIII d
         type: Ice/rock hybrid
         formationType: Captured
@@ -940,14 +940,14 @@ planets:
         radius: 30,390.4 km<br/>(4.770 Yrths)
         surface_area: 1.161 × 10<sup>10</sup> km<sup>2</sup><br/>(22.754 Yrths)
         volume: 1.176 × 10<sup>14</sup> km<sup>3</sup><br/>(108.539 Yrths)
-        mass: 2.312 × 10<sup>26</sup> kg<br />(25.75145440869932 Yrths)
+        mass: 2.312 × 10<sup>26</sup> kg<br />(38.710 Yrths)
         density: 1.966 g/cm<sup>3</sup>
         surface_gravity: 16.683 m/s<sup>2</sup><br />(1.701 g<sub>0</sub>)
         escape_velocity: 31.866 km/s<br />(114,716 km/h)
         rotation_period: 59.360 d
         axial_tilt: 17.95°
         albedo: 0.30
-        temperature: 265 K<br />(-8 °C)
+        temperature: 51 K<br />(-222 °C)
       - name: 0113 Nuaniad C VIII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -960,14 +960,14 @@ planets:
         radius: 16,982.8 km<br/>(2.666 Yrths)
         surface_area: 3.624 × 10<sup>09</sup> km<sup>2</sup><br/>(7.106 Yrths)
         volume: 2.052 × 10<sup>13</sup> km<sup>3</sup><br/>(18.941 Yrths)
-        mass: 5.573 × 10<sup>25</sup> kg<br />(25.75145440869932 Yrths)
+        mass: 5.573 × 10<sup>25</sup> kg<br />(9.332 Yrths)
         density: 2.716 g/cm<sup>3</sup>
         surface_gravity: 12.879 m/s<sup>2</sup><br />(1.313 g<sub>0</sub>)
         escape_velocity: 20.930 km/s<br />(75,346 km/h)
         rotation_period: 51.614 d
         axial_tilt: 24.17°
         albedo: 0.30
-        temperature: 241 K<br />(-32 °C)
+        temperature: 51 K<br />(-222 °C)
       - name: 0113 Nuaniad C VIII f
         type: Ice/rock hybrid
         formationType: Captured
@@ -980,14 +980,14 @@ planets:
         radius: 16,175.3 km<br/>(2.539 Yrths)
         surface_area: 3.288 × 10<sup>09</sup> km<sup>2</sup><br/>(6.446 Yrths)
         volume: 1.773 × 10<sup>13</sup> km<sup>3</sup><br/>(16.366 Yrths)
-        mass: 4.470 × 10<sup>25</sup> kg<br />(25.75145440869932 Yrths)
+        mass: 4.470 × 10<sup>25</sup> kg<br />(7.485 Yrths)
         density: 2.521 g/cm<sup>3</sup>
         surface_gravity: 11.387 m/s<sup>2</sup><br />(1.161 g<sub>0</sub>)
         escape_velocity: 19.206 km/s<br />(69,142 km/h)
         rotation_period: 60.623 d
         axial_tilt: 21.21°
         albedo: 0.30
-        temperature: 230 K<br />(-43 °C)
+        temperature: 51 K<br />(-222 °C)
       - name: 0113 Nuaniad C VIII g
         type: Icy
         formationType: Impact formed
@@ -1000,14 +1000,14 @@ planets:
         radius: 29,845.6 km<br/>(4.685 Yrths)
         surface_area: 1.119 × 10<sup>10</sup> km<sup>2</sup><br/>(21.946 Yrths)
         volume: 1.114 × 10<sup>14</sup> km<sup>3</sup><br/>(102.806 Yrths)
-        mass: 1.207 × 10<sup>26</sup> kg<br />(25.75145440869932 Yrths)
+        mass: 1.207 × 10<sup>26</sup> kg<br />(20.209 Yrths)
         density: 1.084 g/cm<sup>3</sup>
         surface_gravity: 9.031 m/s<sup>2</sup><br />(0.921 g<sub>0</sub>)
         escape_velocity: 23.233 km/s<br />(83,639 km/h)
         rotation_period: 65.050 d
         axial_tilt: 11.91°
         albedo: 0.30
-        temperature: 209 K<br />(-64 °C)
+        temperature: 51 K<br />(-222 °C)
   - name: 0113 Nuaniad C IX
     type: Gas giant
     aphelion: 5,176,467,327 km<br />34.602 AU
@@ -1019,7 +1019,7 @@ planets:
     radius: 238.8 km<br/>(0.037 Yrths)
     surface_area: 7.168 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.706 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.151 × 10<sup>27</sup> kg<br />(360.12467584792887 Yrths)
+    mass: 2.151 × 10<sup>27</sup> kg<br />(360.12 Yrths)
     density: 37690828.781 g/cm<sup>3</sup>
     surface_gravity: 2513177.585 m/s<sup>2</sup><br />(256272.793 g<sub>0</sub>)
     escape_velocity: 1096.384 km/s<br />(3,946,983 km/h)
@@ -1040,14 +1040,14 @@ planets:
         radius: 304,766.0 km<br/>(47.836 Yrths)
         surface_area: 1.167 × 10<sup>12</sup> km<sup>2</sup><br/>(2288.325 Yrths)
         volume: 1.186 × 10<sup>17</sup> km<sup>3</sup><br/>(109465.339 Yrths)
-        mass: 1.194 × 10<sup>29</sup> kg<br />(360.12467584792887 Yrths)
+        mass: 1.194 × 10<sup>29</sup> kg<br />(19996.273 Yrths)
         density: 1.007 g/cm<sup>3</sup>
         surface_gravity: 85.694 m/s<sup>2</sup><br />(8.738 g<sub>0</sub>)
         escape_velocity: 228.702 km/s<br />(823,325 km/h)
         rotation_period: 50.222 d
         axial_tilt: 17.74°
         albedo: 0.30
-        temperature: 144 K<br />(-129 °C)
+        temperature: 39 K<br />(-234 °C)
       - name: 0113 Nuaniad C IX b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1060,14 +1060,14 @@ planets:
         radius: 175,639.5 km<br/>(27.569 Yrths)
         surface_area: 3.877 × 10<sup>11</sup> km<sup>2</sup><br/>(760.027 Yrths)
         volume: 2.270 × 10<sup>16</sup> km<sup>3</sup><br/>(20952.875 Yrths)
-        mass: 4.967 × 10<sup>28</sup> kg<br />(360.12467584792887 Yrths)
+        mass: 4.967 × 10<sup>28</sup> kg<br />(8317.658 Yrths)
         density: 2.189 g/cm<sup>3</sup>
         surface_gravity: 107.323 m/s<sup>2</sup><br />(10.944 g<sub>0</sub>)
         escape_velocity: 194.297 km/s<br />(699,471 km/h)
         rotation_period: 64.111 d
         axial_tilt: 16.07°
         albedo: 0.30
-        temperature: 125 K<br />(-148 °C)
+        temperature: 39 K<br />(-234 °C)
       - name: 0113 Nuaniad C IX c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1080,14 +1080,14 @@ planets:
         radius: 225,754.0 km<br/>(35.435 Yrths)
         surface_area: 6.404 × 10<sup>11</sup> km<sup>2</sup><br/>(1255.612 Yrths)
         volume: 4.819 × 10<sup>16</sup> km<sup>3</sup><br/>(44492.143 Yrths)
-        mass: 1.002 × 10<sup>29</sup> kg<br />(360.12467584792887 Yrths)
+        mass: 1.002 × 10<sup>29</sup> kg<br />(16781.391 Yrths)
         density: 2.079 g/cm<sup>3</sup>
         surface_gravity: 131.067 m/s<sup>2</sup><br />(13.365 g<sub>0</sub>)
         escape_velocity: 243.430 km/s<br />(876,348 km/h)
         rotation_period: 47.829 d
         axial_tilt: 13.96°
         albedo: 0.30
-        temperature: 114 K<br />(-160 °C)
+        temperature: 39 K<br />(-234 °C)
       - name: 0113 Nuaniad C IX d
         type: Icy
         formationType: Captured
@@ -1100,14 +1100,14 @@ planets:
         radius: 322,734.4 km<br/>(50.657 Yrths)
         surface_area: 1.309 × 10<sup>12</sup> km<sup>2</sup><br/>(2566.110 Yrths)
         volume: 1.408 × 10<sup>17</sup> km<sup>3</sup><br/>(129990.920 Yrths)
-        mass: 1.668 × 10<sup>29</sup> kg<br />(360.12467584792887 Yrths)
+        mass: 1.668 × 10<sup>29</sup> kg<br />(27931.272 Yrths)
         density: 1.185 g/cm<sup>3</sup>
         surface_gravity: 106.742 m/s<sup>2</sup><br />(10.885 g<sub>0</sub>)
         escape_velocity: 262.664 km/s<br />(945,590 km/h)
         rotation_period: 81.545 d
         axial_tilt: 13.76°
         albedo: 0.30
-        temperature: 61 K<br />(-212 °C)
+        temperature: 39 K<br />(-234 °C)
       - name: 0113 Nuaniad C IX e
         type: Icy
         formationType: Accreted
@@ -1120,14 +1120,14 @@ planets:
         radius: 222,502.4 km<br/>(34.924 Yrths)
         surface_area: 6.221 × 10<sup>11</sup> km<sup>2</sup><br/>(1219.703 Yrths)
         volume: 4.614 × 10<sup>16</sup> km<sup>3</sup><br/>(42597.211 Yrths)
-        mass: 5.958 × 10<sup>28</sup> kg<br />(360.12467584792887 Yrths)
+        mass: 5.958 × 10<sup>28</sup> kg<br />(9975.773 Yrths)
         density: 1.291 g/cm<sup>3</sup>
         surface_gravity: 80.207 m/s<sup>2</sup><br />(8.179 g<sub>0</sub>)
         escape_velocity: 189.053 km/s<br />(680,591 km/h)
         rotation_period: 70.607 d
         axial_tilt: 25.01°
         albedo: 0.30
-        temperature: 56 K<br />(-218 °C)
+        temperature: 39 K<br />(-234 °C)
       - name: 0113 Nuaniad C IX f
         type: Ice/rock hybrid
         formationType: Captured
@@ -1140,14 +1140,14 @@ planets:
         radius: 174,254.0 km<br/>(27.351 Yrths)
         surface_area: 3.816 × 10<sup>11</sup> km<sup>2</sup><br/>(748.083 Yrths)
         volume: 2.216 × 10<sup>16</sup> km<sup>3</sup><br/>(20460.917 Yrths)
-        mass: 4.801 × 10<sup>28</sup> kg<br />(360.12467584792887 Yrths)
+        mass: 4.801 × 10<sup>28</sup> kg<br />(8039.577 Yrths)
         density: 2.166 g/cm<sup>3</sup>
         surface_gravity: 105.391 m/s<sup>2</sup><br />(10.747 g<sub>0</sub>)
         escape_velocity: 191.780 km/s<br />(690,408 km/h)
         rotation_period: 43.414 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 22 K<br />(-251 °C)
+        temperature: 39 K<br />(-234 °C)
   - name: 0113 Nuaniad C X
     type: Ice giant
     aphelion: 9,986,394,347 km<br />66.754 AU
@@ -1159,14 +1159,14 @@ planets:
     radius: 26,870.6 km<br/>(4.218 Yrths)
     surface_area: 9.073 × 10<sup>09</sup> km<sup>2</sup><br/>(17.789 Yrths)
     volume: 8.127 × 10<sup>13</sup> km<sup>3</sup><br/>(75.026 Yrths)
-    mass: 1.483 × 10<sup>26</sup> kg<br />(24.832652037765886 Yrths)
+    mass: 1.483 × 10<sup>26</sup> kg<br />(24.83 Yrths)
     density: 1.825 g/cm<sup>3</sup>
     surface_gravity: 13.690 m/s<sup>2</sup><br />(1.396 g<sub>0</sub>)
     escape_velocity: 27.143 km/s<br />(97,713 km/h)
     rotation_period: 0.313 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 54 K<br />(-219 °C)
+    temperature: 49 K<br />(-224 °C)
     composition:
       - 83.9690% hydrogen
       - 16.0310% helium
@@ -1183,14 +1183,14 @@ planets:
         radius: 16,262.1 km<br/>(2.553 Yrths)
         surface_area: 3.323 × 10<sup>09</sup> km<sup>2</sup><br/>(6.515 Yrths)
         volume: 1.801 × 10<sup>13</sup> km<sup>3</sup><br/>(16.631 Yrths)
-        mass: 4.607 × 10<sup>25</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 4.607 × 10<sup>25</sup> kg<br />(7.714 Yrths)
         density: 2.557 g/cm<sup>3</sup>
         surface_gravity: 11.611 m/s<sup>2</sup><br />(1.184 g<sub>0</sub>)
         escape_velocity: 19.446 km/s<br />(70,005 km/h)
         rotation_period: 38.734 d
         axial_tilt: 15.33°
         albedo: 0.30
-        temperature: 241 K<br />(-32 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X b
         type: Icy
         formationType: Captured
@@ -1203,14 +1203,14 @@ planets:
         radius: 20,631.7 km<br/>(3.238 Yrths)
         surface_area: 5.349 × 10<sup>09</sup> km<sup>2</sup><br/>(10.487 Yrths)
         volume: 3.679 × 10<sup>13</sup> km<sup>3</sup><br/>(33.961 Yrths)
-        mass: 2.902 × 10<sup>25</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 2.902 × 10<sup>25</sup> kg<br />(4.859 Yrths)
         density: 0.789 g/cm<sup>3</sup>
         surface_gravity: 4.543 m/s<sup>2</sup><br />(0.463 g<sub>0</sub>)
         escape_velocity: 13.702 km/s<br />(49,326 km/h)
         rotation_period: 65.775 d
         axial_tilt: 25.39°
         albedo: 0.30
-        temperature: 209 K<br />(-64 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1223,14 +1223,14 @@ planets:
         radius: 12,377.4 km<br/>(1.943 Yrths)
         surface_area: 1.925 × 10<sup>09</sup> km<sup>2</sup><br/>(3.774 Yrths)
         volume: 7.943 × 10<sup>12</sup> km<sup>3</sup><br/>(7.333 Yrths)
-        mass: 1.730 × 10<sup>25</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 1.730 × 10<sup>25</sup> kg<br />(2.897 Yrths)
         density: 2.178 g/cm<sup>3</sup>
         surface_gravity: 7.526 m/s<sup>2</sup><br />(0.767 g<sub>0</sub>)
         escape_velocity: 13.659 km/s<br />(49,171 km/h)
         rotation_period: 40.650 d
         axial_tilt: 17.29°
         albedo: 0.30
-        temperature: 199 K<br />(-74 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X d
         type: Asteroid
         formationType: Captured
@@ -1243,14 +1243,14 @@ planets:
         radius: 38,012.8 km<br/>(5.967 Yrths)
         surface_area: 1.816 × 10<sup>10</sup> km<sup>2</sup><br/>(35.600 Yrths)
         volume: 2.301 × 10<sup>14</sup> km<sup>3</sup><br/>(212.406 Yrths)
-        mass: 5.044 × 10<sup>26</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 5.044 × 10<sup>26</sup> kg<br />(84.458 Yrths)
         density: 2.192 g/cm<sup>3</sup>
         surface_gravity: 23.266 m/s<sup>2</sup><br />(2.372 g<sub>0</sub>)
         escape_velocity: 42.086 km/s<br />(151,508 km/h)
         rotation_period: 57.926 d
         axial_tilt: 51.35°
         albedo: 0.30
-        temperature: 190 K<br />(-83 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X e
         type: Icy
         formationType: Accreted
@@ -1263,14 +1263,14 @@ planets:
         radius: 56,963.4 km<br/>(8.941 Yrths)
         surface_area: 4.078 × 10<sup>10</sup> km<sup>2</sup><br/>(79.942 Yrths)
         volume: 7.742 × 10<sup>14</sup> km<sup>3</sup><br/>(714.768 Yrths)
-        mass: 6.245 × 10<sup>26</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 6.245 × 10<sup>26</sup> kg<br />(104.571 Yrths)
         density: 0.807 g/cm<sup>3</sup>
         surface_gravity: 12.828 m/s<sup>2</sup><br />(1.308 g<sub>0</sub>)
         escape_velocity: 38.255 km/s<br />(137,717 km/h)
         rotation_period: 62.080 d
         axial_tilt: 26.02°
         albedo: 0.30
-        temperature: 181 K<br />(-92 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X f
         type: Icy
         formationType: Captured
@@ -1283,14 +1283,14 @@ planets:
         radius: 18,933.9 km<br/>(2.972 Yrths)
         surface_area: 4.505 × 10<sup>09</sup> km<sup>2</sup><br/>(8.832 Yrths)
         volume: 2.843 × 10<sup>13</sup> km<sup>3</sup><br/>(26.248 Yrths)
-        mass: 5.274 × 10<sup>25</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 5.274 × 10<sup>25</sup> kg<br />(8.832 Yrths)
         density: 1.855 g/cm<sup>3</sup>
         surface_gravity: 9.806 m/s<sup>2</sup><br />(1.000 g<sub>0</sub>)
         escape_velocity: 19.283 km/s<br />(69,420 km/h)
         rotation_period: 38.698 d
         axial_tilt: 12.75°
         albedo: 0.30
-        temperature: 172 K<br />(-101 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1303,14 +1303,14 @@ planets:
         radius: 12,185.6 km<br/>(1.913 Yrths)
         surface_area: 1.866 × 10<sup>09</sup> km<sup>2</sup><br/>(3.658 Yrths)
         volume: 7.579 × 10<sup>12</sup> km<sup>3</sup><br/>(6.997 Yrths)
-        mass: 1.759 × 10<sup>25</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 1.759 × 10<sup>25</sup> kg<br />(2.946 Yrths)
         density: 2.321 g/cm<sup>3</sup>
         surface_gravity: 7.897 m/s<sup>2</sup><br />(0.805 g<sub>0</sub>)
         escape_velocity: 13.883 km/s<br />(49,978 km/h)
         rotation_period: 52.500 d
         axial_tilt: 26.55°
         albedo: 0.30
-        temperature: 164 K<br />(-109 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X h
         type: Icy
         formationType: Captured
@@ -1323,14 +1323,14 @@ planets:
         radius: 20,974.4 km<br/>(3.292 Yrths)
         surface_area: 5.528 × 10<sup>09</sup> km<sup>2</sup><br/>(10.838 Yrths)
         volume: 3.865 × 10<sup>13</sup> km<sup>3</sup><br/>(35.682 Yrths)
-        mass: 4.349 × 10<sup>25</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 4.349 × 10<sup>25</sup> kg<br />(7.282 Yrths)
         density: 1.125 g/cm<sup>3</sup>
         surface_gravity: 6.589 m/s<sup>2</sup><br />(0.672 g<sub>0</sub>)
         escape_velocity: 16.637 km/s<br />(59,893 km/h)
         rotation_period: 61.376 d
         axial_tilt: 8.58°
         albedo: 0.30
-        temperature: 157 K<br />(-116 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1343,14 +1343,14 @@ planets:
         radius: 17,480.5 km<br/>(2.744 Yrths)
         surface_area: 3.840 × 10<sup>09</sup> km<sup>2</sup><br/>(7.528 Yrths)
         volume: 2.237 × 10<sup>13</sup> km<sup>3</sup><br/>(20.656 Yrths)
-        mass: 5.257 × 10<sup>25</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 5.257 × 10<sup>25</sup> kg<br />(8.802 Yrths)
         density: 2.349 g/cm<sup>3</sup>
         surface_gravity: 11.466 m/s<sup>2</sup><br />(1.169 g<sub>0</sub>)
         escape_velocity: 20.036 km/s<br />(72,128 km/h)
         rotation_period: 35.015 d
         axial_tilt: 26.33°
         albedo: 0.30
-        temperature: 149 K<br />(-124 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1363,14 +1363,14 @@ planets:
         radius: 21,073.4 km<br/>(3.308 Yrths)
         surface_area: 5.581 × 10<sup>09</sup> km<sup>2</sup><br/>(10.941 Yrths)
         volume: 3.920 × 10<sup>13</sup> km<sup>3</sup><br/>(36.189 Yrths)
-        mass: 7.518 × 10<sup>25</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 7.518 × 10<sup>25</sup> kg<br />(12.589 Yrths)
         density: 1.918 g/cm<sup>3</sup>
         surface_gravity: 11.284 m/s<sup>2</sup><br />(1.151 g<sub>0</sub>)
         escape_velocity: 21.823 km/s<br />(78,562 km/h)
         rotation_period: 59.317 d
         axial_tilt: 16.83°
         albedo: 0.30
-        temperature: 143 K<br />(-131 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1383,14 +1383,14 @@ planets:
         radius: 15,661.0 km<br/>(2.458 Yrths)
         surface_area: 3.082 × 10<sup>09</sup> km<sup>2</sup><br/>(6.043 Yrths)
         volume: 1.609 × 10<sup>13</sup> km<sup>3</sup><br/>(14.854 Yrths)
-        mass: 3.073 × 10<sup>25</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 3.073 × 10<sup>25</sup> kg<br />(5.145 Yrths)
         density: 1.910 g/cm<sup>3</sup>
         surface_gravity: 8.350 m/s<sup>2</sup><br />(0.851 g<sub>0</sub>)
         escape_velocity: 16.183 km/s<br />(58,260 km/h)
         rotation_period: 68.786 d
         axial_tilt: 20.01°
         albedo: 0.30
-        temperature: 136 K<br />(-137 °C)
+        temperature: 30 K<br />(-243 °C)
       - name: 0113 Nuaniad C X l
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1403,12 +1403,12 @@ planets:
         radius: 23,214.9 km<br/>(3.644 Yrths)
         surface_area: 6.772 × 10<sup>09</sup> km<sup>2</sup><br/>(13.278 Yrths)
         volume: 5.241 × 10<sup>13</sup> km<sup>3</sup><br/>(48.381 Yrths)
-        mass: 1.013 × 10<sup>26</sup> kg<br />(24.832652037765886 Yrths)
+        mass: 1.013 × 10<sup>26</sup> kg<br />(16.967 Yrths)
         density: 1.934 g/cm<sup>3</sup>
         surface_gravity: 12.532 m/s<sup>2</sup><br />(1.278 g<sub>0</sub>)
         escape_velocity: 24.138 km/s<br />(86,897 km/h)
         rotation_period: 41.700 d
         axial_tilt: 13.88°
         albedo: 0.30
-        temperature: 130 K<br />(-144 °C)
+        temperature: 30 K<br />(-243 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2798 Narashiad is a star in the constellation Naras
+      2798 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 534.38 ly
 apparent_magnitude: 11.58
 absolute_magnitude: 5.51

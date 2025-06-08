@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      152 Keead is a star in the constellation Kee
+      152 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1043.13 ly
 apparent_magnitude: 12.65
 absolute_magnitude: 5.12

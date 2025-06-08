@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1551 Geardiad is a star in the constellation Geard
+      1551 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 291.76 ly
 apparent_magnitude: 10.41
 absolute_magnitude: 5.65

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5703 Arkothiad is a star in the constellation Arkoth
+      5703 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1000.23 ly
 apparent_magnitude: 12.59
 absolute_magnitude: 5.15

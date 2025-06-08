@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3032 Arkothiad is a star in the constellation Arkoth
+      3032 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 446.36 ly
 apparent_magnitude: 8.26
 absolute_magnitude: 2.58

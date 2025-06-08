@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0034 Niokeroiad A is a star in the constellation Niokero
+      0034 Niokeroiad A is a star in the constellation <a href="niokero.html">Niokero</a>
 distance: 126.41 ly
 apparent_magnitude: 8.08
 absolute_magnitude: 5.14

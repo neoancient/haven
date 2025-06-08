@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8168 Dialkeshiad A is a star in the constellation Dialkes
+      8168 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 565.00 ly
 apparent_magnitude: 8.27
 absolute_magnitude: 2.08

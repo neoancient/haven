@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0013 Nwaliad D is a star in the constellation Nwal
+      0013 Nwaliad D is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 188.41 ly
 apparent_magnitude: 9.08
 absolute_magnitude: 5.27
@@ -31,7 +31,7 @@ planets:
     radius: 5,848.4 km<br/>(0.918 Yrths)
     surface_area: 4.298 × 10<sup>08</sup> km<sup>2</sup><br/>(0.843 Yrths)
     volume: 8.379 × 10<sup>11</sup> km<sup>3</sup><br/>(0.774 Yrths)
-    mass: 5.123 × 10<sup>24</sup> kg<br />(0.8578016918293866 Yrths)
+    mass: 5.123 × 10<sup>24</sup> kg<br />(0.86 Yrths)
     density: 6.114 g/cm<sup>3</sup>
     surface_gravity: 9.983 m/s<sup>2</sup><br />(1.018 g<sub>0</sub>)
     escape_velocity: 10.813 km/s<br />(38,927 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 1,588.0 km<br/>(0.249 Yrths)
         surface_area: 3.169 × 10<sup>07</sup> km<sup>2</sup><br/>(0.062 Yrths)
         volume: 1.677 × 10<sup>10</sup> km<sup>3</sup><br/>(0.015 Yrths)
-        mass: 4.702 × 10<sup>22</sup> kg<br />(0.8578016918293866 Yrths)
+        mass: 4.702 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 2.803 g/cm<sup>3</sup>
         surface_gravity: 1.243 m/s<sup>2</sup><br />(0.127 g<sub>0</sub>)
         escape_velocity: 1.988 km/s<br />(7,157 km/h)
         rotation_period: 31.915 d
         axial_tilt: 13.76°
         albedo: 0.30
-        temperature: 4195 K<br />(3922 °C)
+        temperature: 288 K<br />(15 °C)
       - name: 0013 Nwaliad D I b
         type: Rocky
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 1,361.8 km<br/>(0.214 Yrths)
         surface_area: 2.330 × 10<sup>07</sup> km<sup>2</sup><br/>(0.046 Yrths)
         volume: 1.058 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 3.238 × 10<sup>22</sup> kg<br />(0.8578016918293866 Yrths)
+        mass: 3.238 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 3.061 g/cm<sup>3</sup>
         surface_gravity: 1.164 m/s<sup>2</sup><br />(0.119 g<sub>0</sub>)
         escape_velocity: 1.782 km/s<br />(6,414 km/h)
         rotation_period: 51.455 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 4000 K<br />(3727 °C)
+        temperature: 288 K<br />(15 °C)
   - name: 0013 Nwaliad D II
     type: Gas dwarf
     aphelion: 164,336,440 km<br />1.099 AU
@@ -91,14 +91,14 @@ planets:
     radius: 17,927.6 km<br/>(2.814 Yrths)
     surface_area: 4.039 × 10<sup>09</sup> km<sup>2</sup><br/>(7.918 Yrths)
     volume: 2.414 × 10<sup>13</sup> km<sup>3</sup><br/>(22.282 Yrths)
-    mass: 6.469 × 10<sup>25</sup> kg<br />(10.832521777066582 Yrths)
+    mass: 6.469 × 10<sup>25</sup> kg<br />(10.83 Yrths)
     density: 2.680 g/cm<sup>3</sup>
     surface_gravity: 13.416 m/s<sup>2</sup><br />(1.368 g<sub>0</sub>)
     escape_velocity: 21.947 km/s<br />(79,010 km/h)
     rotation_period: 0.543 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 334 K<br />(61 °C)
+    temperature: 304 K<br />(31 °C)
     composition:
       - 83.0097% hydrogen
       - 14.6406% helium
@@ -117,14 +117,14 @@ planets:
         radius: 15,120.4 km<br/>(2.373 Yrths)
         surface_area: 2.873 × 10<sup>09</sup> km<sup>2</sup><br/>(5.633 Yrths)
         volume: 1.448 × 10<sup>13</sup> km<sup>3</sup><br/>(13.368 Yrths)
-        mass: 2.904 × 10<sup>25</sup> kg<br />(10.832521777066582 Yrths)
+        mass: 2.904 × 10<sup>25</sup> kg<br />(4.863 Yrths)
         density: 2.006 g/cm<sup>3</sup>
         surface_gravity: 8.467 m/s<sup>2</sup><br />(0.863 g<sub>0</sub>)
         escape_velocity: 16.013 km/s<br />(57,645 km/h)
         rotation_period: 63.919 d
         axial_tilt: 25.31°
         albedo: 0.30
-        temperature: 2139 K<br />(1866 °C)
+        temperature: 224 K<br />(-49 °C)
       - name: 0013 Nwaliad D II b
         type: Rocky
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 19,625.0 km<br/>(3.080 Yrths)
         surface_area: 4.840 × 10<sup>09</sup> km<sup>2</sup><br/>(9.489 Yrths)
         volume: 3.166 × 10<sup>13</sup> km<sup>3</sup><br/>(29.229 Yrths)
-        mass: 9.455 × 10<sup>25</sup> kg<br />(10.832521777066582 Yrths)
+        mass: 9.455 × 10<sup>25</sup> kg<br />(15.832 Yrths)
         density: 2.986 g/cm<sup>3</sup>
         surface_gravity: 16.363 m/s<sup>2</sup><br />(1.669 g<sub>0</sub>)
         escape_velocity: 25.360 km/s<br />(91,295 km/h)
         rotation_period: 50.344 d
         axial_tilt: 22.89°
         albedo: 0.30
-        temperature: 2039 K<br />(1766 °C)
+        temperature: 224 K<br />(-49 °C)
       - name: 0013 Nwaliad D II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -157,14 +157,14 @@ planets:
         radius: 5,899.7 km<br/>(0.926 Yrths)
         surface_area: 4.374 × 10<sup>08</sup> km<sup>2</sup><br/>(0.858 Yrths)
         volume: 8.602 × 10<sup>11</sup> km<sup>3</sup><br/>(0.794 Yrths)
-        mass: 2.408 × 10<sup>24</sup> kg<br />(10.832521777066582 Yrths)
+        mass: 2.408 × 10<sup>24</sup> kg<br />(0.403 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 4.612 m/s<sup>2</sup><br />(0.470 g<sub>0</sub>)
         escape_velocity: 7.382 km/s<br />(26,575 km/h)
         rotation_period: 43.341 d
         axial_tilt: 19.81°
         albedo: 0.30
-        temperature: 1945 K<br />(1671 °C)
+        temperature: 224 K<br />(-49 °C)
       - name: 0013 Nwaliad D II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -177,14 +177,14 @@ planets:
         radius: 10,622.9 km<br/>(1.667 Yrths)
         surface_area: 1.418 × 10<sup>09</sup> km<sup>2</sup><br/>(2.780 Yrths)
         volume: 5.021 × 10<sup>12</sup> km<sup>3</sup><br/>(4.636 Yrths)
-        mass: 8.501 × 10<sup>24</sup> kg<br />(10.832521777066582 Yrths)
+        mass: 8.501 × 10<sup>24</sup> kg<br />(1.423 Yrths)
         density: 1.693 g/cm<sup>3</sup>
         surface_gravity: 5.021 m/s<sup>2</sup><br />(0.512 g<sub>0</sub>)
         escape_velocity: 10.336 km/s<br />(37,208 km/h)
         rotation_period: 65.915 d
         axial_tilt: 26.20°
         albedo: 0.30
-        temperature: 1854 K<br />(1581 °C)
+        temperature: 224 K<br />(-49 °C)
   - name: 0013 Nwaliad D III
     type: Terrestrial
     aphelion: 296,380,124 km<br />1.981 AU
@@ -196,14 +196,14 @@ planets:
     radius: 5,651.0 km<br/>(0.887 Yrths)
     surface_area: 4.013 × 10<sup>08</sup> km<sup>2</sup><br/>(0.787 Yrths)
     volume: 7.559 × 10<sup>11</sup> km<sup>3</sup><br/>(0.698 Yrths)
-    mass: 3.354 × 10<sup>24</sup> kg<br />(0.5616618435294986 Yrths)
+    mass: 3.354 × 10<sup>24</sup> kg<br />(0.56 Yrths)
     density: 4.437 g/cm<sup>3</sup>
     surface_gravity: 7.001 m/s<sup>2</sup><br />(0.714 g<sub>0</sub>)
     escape_velocity: 8.901 km/s<br />(32,045 km/h)
     rotation_period: 1.266 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 199 K<br />(-74 °C)
+    temperature: 224 K<br />(-49 °C)
     surface_pressure: 28 kPa<br />(0 atm)
     composition:
       - 90.3921% nitrogen
@@ -223,14 +223,14 @@ planets:
         radius: 2,084.7 km<br/>(0.327 Yrths)
         surface_area: 5.461 × 10<sup>07</sup> km<sup>2</sup><br/>(0.107 Yrths)
         volume: 3.795 × 10<sup>10</sup> km<sup>3</sup><br/>(0.035 Yrths)
-        mass: 6.074 × 10<sup>22</sup> kg<br />(0.5616618435294986 Yrths)
+        mass: 6.074 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 1.601 g/cm<sup>3</sup>
         surface_gravity: 0.932 m/s<sup>2</sup><br />(0.095 g<sub>0</sub>)
         escape_velocity: 1.972 km/s<br />(7,100 km/h)
         rotation_period: 40.677 d
         axial_tilt: 8.20°
         albedo: 0.30
-        temperature: 2792 K<br />(2519 °C)
+        temperature: 174 K<br />(-99 °C)
   - name: 0013 Nwaliad D IV
     type: Gas dwarf
     aphelion: 466,460,668 km<br />3.118 AU
@@ -242,14 +242,14 @@ planets:
     radius: 23,039.3 km<br/>(3.616 Yrths)
     surface_area: 6.670 × 10<sup>09</sup> km<sup>2</sup><br/>(13.077 Yrths)
     volume: 5.123 × 10<sup>13</sup> km<sup>3</sup><br/>(47.292 Yrths)
-    mass: 1.049 × 10<sup>26</sup> kg<br />(17.573206535663452 Yrths)
+    mass: 1.049 × 10<sup>26</sup> kg<br />(17.57 Yrths)
     density: 2.049 g/cm<sup>3</sup>
     surface_gravity: 13.178 m/s<sup>2</sup><br />(1.344 g<sub>0</sub>)
     escape_velocity: 24.659 km/s<br />(88,771 km/h)
     rotation_period: 0.388 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 200 K<br />(-73 °C)
+    temperature: 187 K<br />(-86 °C)
     composition:
       - 48.4113% hydrogen
       - 35.3080% helium
@@ -267,14 +267,14 @@ planets:
         radius: 25,504.2 km<br/>(4.003 Yrths)
         surface_area: 8.174 × 10<sup>09</sup> km<sup>2</sup><br/>(16.025 Yrths)
         volume: 6.949 × 10<sup>13</sup> km<sup>3</sup><br/>(64.153 Yrths)
-        mass: 8.752 × 10<sup>25</sup> kg<br />(17.573206535663452 Yrths)
+        mass: 8.752 × 10<sup>25</sup> kg<br />(14.655 Yrths)
         density: 1.259 g/cm<sup>3</sup>
         surface_gravity: 8.968 m/s<sup>2</sup><br />(0.914 g<sub>0</sub>)
         escape_velocity: 21.402 km/s<br />(77,048 km/h)
         rotation_period: 76.482 d
         axial_tilt: 20.07°
         albedo: 0.30
-        temperature: 1199 K<br />(926 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 0013 Nwaliad D IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -287,14 +287,14 @@ planets:
         radius: 17,976.3 km<br/>(2.822 Yrths)
         surface_area: 4.061 × 10<sup>09</sup> km<sup>2</sup><br/>(7.961 Yrths)
         volume: 2.433 × 10<sup>13</sup> km<sup>3</sup><br/>(22.463 Yrths)
-        mass: 6.212 × 10<sup>25</sup> kg<br />(17.573206535663452 Yrths)
+        mass: 6.212 × 10<sup>25</sup> kg<br />(10.402 Yrths)
         density: 2.553 g/cm<sup>3</sup>
         surface_gravity: 12.813 m/s<sup>2</sup><br />(1.307 g<sub>0</sub>)
         escape_velocity: 21.478 km/s<br />(77,319 km/h)
         rotation_period: 44.316 d
         axial_tilt: 14.95°
         albedo: 0.30
-        temperature: 1143 K<br />(870 °C)
+        temperature: 135 K<br />(-138 °C)
   - name: 0013 Nwaliad D V
     type: Large terrestrial
     aphelion: 817,919,285 km<br />5.467 AU
@@ -306,14 +306,14 @@ planets:
     radius: 10,362.7 km<br/>(1.627 Yrths)
     surface_area: 1.349 × 10<sup>09</sup> km<sup>2</sup><br/>(2.646 Yrths)
     volume: 4.661 × 10<sup>12</sup> km<sup>3</sup><br/>(4.303 Yrths)
-    mass: 3.076 × 10<sup>25</sup> kg<br />(5.15087551241427 Yrths)
+    mass: 3.076 × 10<sup>25</sup> kg<br />(5.15 Yrths)
     density: 6.599 g/cm<sup>3</sup>
     surface_gravity: 19.093 m/s<sup>2</sup><br />(1.947 g<sub>0</sub>)
     escape_velocity: 19.906 km/s<br />(71,661 km/h)
     rotation_period: 0.593 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 149 K<br />(-125 °C)
+    temperature: 241 K<br />(-32 °C)
     surface_pressure: 303 kPa<br />(3 atm)
     composition:
       - 76.9149% methane
@@ -332,14 +332,14 @@ planets:
         radius: 6,925.1 km<br/>(1.087 Yrths)
         surface_area: 6.026 × 10<sup>08</sup> km<sup>2</sup><br/>(1.182 Yrths)
         volume: 1.391 × 10<sup>12</sup> km<sup>3</sup><br/>(1.284 Yrths)
-        mass: 4.277 × 10<sup>24</sup> kg<br />(5.15087551241427 Yrths)
+        mass: 4.277 × 10<sup>24</sup> kg<br />(0.716 Yrths)
         density: 3.074 g/cm<sup>3</sup>
         surface_gravity: 5.944 m/s<sup>2</sup><br />(0.606 g<sub>0</sub>)
         escape_velocity: 9.079 km/s<br />(32,686 km/h)
         rotation_period: 50.013 d
         axial_tilt: 6.88°
         albedo: 0.30
-        temperature: 1259 K<br />(986 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0013 Nwaliad D V b
         type: Rocky
         formationType: Accreted
@@ -352,14 +352,14 @@ planets:
         radius: 5,263.9 km<br/>(0.826 Yrths)
         surface_area: 3.482 × 10<sup>08</sup> km<sup>2</sup><br/>(0.683 Yrths)
         volume: 6.110 × 10<sup>11</sup> km<sup>3</sup><br/>(0.564 Yrths)
-        mass: 2.164 × 10<sup>24</sup> kg<br />(5.15087551241427 Yrths)
+        mass: 2.164 × 10<sup>24</sup> kg<br />(0.362 Yrths)
         density: 3.541 g/cm<sup>3</sup>
         surface_gravity: 5.204 m/s<sup>2</sup><br />(0.531 g<sub>0</sub>)
         escape_velocity: 7.407 km/s<br />(26,666 km/h)
         rotation_period: 36.900 d
         axial_tilt: 16.40°
         albedo: 0.30
-        temperature: 1201 K<br />(927 °C)
+        temperature: 105 K<br />(-168 °C)
   - name: 0013 Nwaliad D VI
     type: Gas giant
     aphelion: 1,328,914,706 km<br />8.883 AU
@@ -371,7 +371,7 @@ planets:
     radius: 194.5 km<br/>(0.031 Yrths)
     surface_area: 4.756 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.084 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.954 × 10<sup>26</sup> kg<br />(149.93025584118902 Yrths)
+    mass: 8.954 × 10<sup>26</sup> kg<br />(149.93 Yrths)
     density: 29029983.690 g/cm<sup>3</sup>
     surface_gravity: 1576797.954 m/s<sup>2</sup><br />(160788.644 g<sub>0</sub>)
     escape_velocity: 783.809 km/s<br />(2,821,712 km/h)
@@ -392,14 +392,14 @@ planets:
         radius: 134,499.2 km<br/>(21.111 Yrths)
         surface_area: 2.273 × 10<sup>11</sup> km<sup>2</sup><br/>(445.681 Yrths)
         volume: 1.019 × 10<sup>16</sup> km<sup>3</sup><br/>(9408.853 Yrths)
-        mass: 3.292 × 10<sup>28</sup> kg<br />(149.93025584118902 Yrths)
+        mass: 3.292 × 10<sup>28</sup> kg<br />(5512.430 Yrths)
         density: 3.230 g/cm<sup>3</sup>
         surface_gravity: 121.294 m/s<sup>2</sup><br />(12.369 g<sub>0</sub>)
         escape_velocity: 180.755 km/s<br />(650,717 km/h)
         rotation_period: 37.576 d
         axial_tilt: 14.33°
         albedo: 0.30
-        temperature: 503 K<br />(230 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0013 Nwaliad D VI b
         type: Icy
         formationType: Accreted
@@ -412,14 +412,14 @@ planets:
         radius: 142,527.7 km<br/>(22.371 Yrths)
         surface_area: 2.553 × 10<sup>11</sup> km<sup>2</sup><br/>(500.476 Yrths)
         volume: 1.213 × 10<sup>16</sup> km<sup>3</sup><br/>(11196.310 Yrths)
-        mass: 2.109 × 10<sup>28</sup> kg<br />(149.93025584118902 Yrths)
+        mass: 2.109 × 10<sup>28</sup> kg<br />(3532.266 Yrths)
         density: 1.739 g/cm<sup>3</sup>
         surface_gravity: 69.214 m/s<sup>2</sup><br />(7.058 g<sub>0</sub>)
         escape_velocity: 140.558 km/s<br />(506,008 km/h)
         rotation_period: 57.880 d
         axial_tilt: 14.87°
         albedo: 0.30
-        temperature: 344 K<br />(71 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0013 Nwaliad D VI c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -432,14 +432,14 @@ planets:
         radius: 146,526.7 km<br/>(22.999 Yrths)
         surface_area: 2.698 × 10<sup>11</sup> km<sup>2</sup><br/>(528.954 Yrths)
         volume: 1.318 × 10<sup>16</sup> km<sup>3</sup><br/>(12165.423 Yrths)
-        mass: 2.956 × 10<sup>28</sup> kg<br />(149.93025584118902 Yrths)
+        mass: 2.956 × 10<sup>28</sup> kg<br />(4949.570 Yrths)
         density: 2.243 g/cm<sup>3</sup>
         surface_gravity: 91.764 m/s<sup>2</sup><br />(9.357 g<sub>0</sub>)
         escape_velocity: 164.098 km/s<br />(590,753 km/h)
         rotation_period: 37.486 d
         axial_tilt: 22.20°
         albedo: 0.30
-        temperature: 126 K<br />(-147 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0013 Nwaliad D VI d
         type: Dwarf planet
         formationType: Accreted
@@ -452,14 +452,14 @@ planets:
         radius: 129,687.4 km<br/>(20.356 Yrths)
         surface_area: 2.114 × 10<sup>11</sup> km<sup>2</sup><br/>(414.363 Yrths)
         volume: 9.137 × 10<sup>15</sup> km<sup>3</sup><br/>(8434.727 Yrths)
-        mass: 1.699 × 10<sup>28</sup> kg<br />(149.93025584118902 Yrths)
+        mass: 1.699 × 10<sup>28</sup> kg<br />(2845.036 Yrths)
         density: 1.860 g/cm<sup>3</sup>
         surface_gravity: 67.333 m/s<sup>2</sup><br />(6.866 g<sub>0</sub>)
         escape_velocity: 132.243 km/s<br />(476,075 km/h)
         rotation_period: 46.589 d
         axial_tilt: 13.50°
         albedo: 0.30
-        temperature: 42 K<br />(-231 °C)
+        temperature: 82 K<br />(-191 °C)
       - name: 0013 Nwaliad D VI e
         type: Ice/rock hybrid
         formationType: Captured
@@ -472,14 +472,14 @@ planets:
         radius: 122,698.2 km<br/>(19.259 Yrths)
         surface_area: 1.892 × 10<sup>11</sup> km<sup>2</sup><br/>(370.904 Yrths)
         volume: 7.738 × 10<sup>15</sup> km<sup>3</sup><br/>(7143.184 Yrths)
-        mass: 1.715 × 10<sup>28</sup> kg<br />(149.93025584118902 Yrths)
+        mass: 1.715 × 10<sup>28</sup> kg<br />(2871.895 Yrths)
         density: 2.217 g/cm<sup>3</sup>
         surface_gravity: 75.933 m/s<sup>2</sup><br />(7.743 g<sub>0</sub>)
         escape_velocity: 136.598 km/s<br />(491,751 km/h)
         rotation_period: 55.851 d
         axial_tilt: 19.15°
         albedo: 0.30
-        temperature: 35 K<br />(-238 °C)
+        temperature: 82 K<br />(-191 °C)
   - name: 0013 Nwaliad D VII
     type: Gas giant
     aphelion: 2,041,715,912 km<br />13.648 AU
@@ -491,7 +491,7 @@ planets:
     radius: 206.3 km<br/>(0.032 Yrths)
     surface_area: 5.348 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.678 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.150 × 10<sup>27</sup> kg<br />(192.51318151663972 Yrths)
+    mass: 1.150 × 10<sup>27</sup> kg<br />(192.51 Yrths)
     density: 31260300.236 g/cm<sup>3</sup>
     surface_gravity: 1800517.498 m/s<sup>2</sup><br />(183601.688 g<sub>0</sub>)
     escape_velocity: 862.498 km/s<br />(3,104,994 km/h)
@@ -501,26 +501,6 @@ planets:
     temperature: 61 K<br />(-212 °C)
     moons:
       - name: 0013 Nwaliad D VII a
-        type: Icy
-        formationType: Captured
-        aphelion: 94,722,951 km<br />
-        perihelion: 93,440,062 km<br />
-        semi_major_axis: 94,081,506 km<br />
-        eccentricity: 0.007
-        orbital_period: 0.21 d<br />
-        inclination: 1.96°
-        radius: 39,695.9 km<br/>(6.231 Yrths)
-        surface_area: 1.980 × 10<sup>10</sup> km<sup>2</sup><br/>(38.822 Yrths)
-        volume: 2.620 × 10<sup>14</sup> km<sup>3</sup><br/>(241.888 Yrths)
-        mass: 2.409 × 10<sup>26</sup> kg<br />(192.51318151663972 Yrths)
-        density: 0.919 g/cm<sup>3</sup>
-        surface_gravity: 10.189 m/s<sup>2</sup><br />(1.039 g<sub>0</sub>)
-        escape_velocity: 28.460 km/s<br />(102,457 km/h)
-        rotation_period: 55.748 d
-        axial_tilt: 14.99°
-        albedo: 0.30
-        temperature: 296 K<br />(23 °C)
-      - name: 0013 Nwaliad D VII b
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 104,892,392 km<br />
@@ -532,15 +512,15 @@ planets:
         radius: 134,648.2 km<br/>(21.135 Yrths)
         surface_area: 2.278 × 10<sup>11</sup> km<sup>2</sup><br/>(446.669 Yrths)
         volume: 1.023 × 10<sup>16</sup> km<sup>3</sup><br/>(9440.153 Yrths)
-        mass: 2.841 × 10<sup>28</sup> kg<br />(192.51318151663972 Yrths)
+        mass: 2.841 × 10<sup>28</sup> kg<br />(4757.490 Yrths)
         density: 2.778 g/cm<sup>3</sup>
         surface_gravity: 104.451 m/s<sup>2</sup><br />(10.651 g<sub>0</sub>)
         escape_velocity: 167.829 km/s<br />(604,184 km/h)
         rotation_period: 30.914 d
         axial_tilt: 16.51°
         albedo: 0.30
-        temperature: 282 K<br />(9 °C)
-      - name: 0013 Nwaliad D VII c
+        temperature: 63 K<br />(-210 °C)
+      - name: 0013 Nwaliad D VII b
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 267,667,203 km<br />
@@ -552,15 +532,15 @@ planets:
         radius: 212,470.7 km<br/>(33.350 Yrths)
         surface_area: 5.673 × 10<sup>11</sup> km<sup>2</sup><br/>(1112.200 Yrths)
         volume: 4.018 × 10<sup>16</sup> km<sup>3</sup><br/>(37091.513 Yrths)
-        mass: 7.887 × 10<sup>28</sup> kg<br />(192.51318151663972 Yrths)
+        mass: 7.887 × 10<sup>28</sup> kg<br />(13206.729 Yrths)
         density: 1.963 g/cm<sup>3</sup>
         surface_gravity: 116.448 m/s<sup>2</sup><br />(11.874 g<sub>0</sub>)
         escape_velocity: 222.600 km/s<br />(801,361 km/h)
         rotation_period: 63.398 d
         axial_tilt: 26.34°
         albedo: 0.30
-        temperature: 193 K<br />(-81 °C)
-      - name: 0013 Nwaliad D VII d
+        temperature: 63 K<br />(-210 °C)
+      - name: 0013 Nwaliad D VII c
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 505,593,971 km<br />
@@ -572,15 +552,15 @@ planets:
         radius: 145,482.7 km<br/>(22.835 Yrths)
         surface_area: 2.660 × 10<sup>11</sup> km<sup>2</sup><br/>(521.444 Yrths)
         volume: 1.290 × 10<sup>16</sup> km<sup>3</sup><br/>(11907.236 Yrths)
-        mass: 2.867 × 10<sup>28</sup> kg<br />(192.51318151663972 Yrths)
+        mass: 2.867 × 10<sup>28</sup> kg<br />(4801.171 Yrths)
         density: 2.223 g/cm<sup>3</sup>
         surface_gravity: 90.294 m/s<sup>2</sup><br />(9.207 g<sub>0</sub>)
         escape_velocity: 162.198 km/s<br />(583,913 km/h)
         rotation_period: 41.114 d
         axial_tilt: 24.98°
         albedo: 0.30
-        temperature: 132 K<br />(-142 °C)
-      - name: 0013 Nwaliad D VII e
+        temperature: 63 K<br />(-210 °C)
+      - name: 0013 Nwaliad D VII d
         type: Ice/rock hybrid
         formationType: Captured
         aphelion: 1,078,606,135 km<br />
@@ -592,15 +572,15 @@ planets:
         radius: 129,870.0 km<br/>(20.385 Yrths)
         surface_area: 2.119 × 10<sup>11</sup> km<sup>2</sup><br/>(415.530 Yrths)
         volume: 9.175 × 10<sup>15</sup> km<sup>3</sup><br/>(8470.391 Yrths)
-        mass: 2.070 × 10<sup>28</sup> kg<br />(192.51318151663972 Yrths)
+        mass: 2.070 × 10<sup>28</sup> kg<br />(3466.157 Yrths)
         density: 2.256 g/cm<sup>3</sup>
         surface_gravity: 81.803 m/s<sup>2</sup><br />(8.342 g<sub>0</sub>)
         escape_velocity: 145.864 km/s<br />(525,110 km/h)
         rotation_period: 49.097 d
         axial_tilt: 14.75°
         albedo: 0.30
-        temperature: 90 K<br />(-183 °C)
-      - name: 0013 Nwaliad D VII f
+        temperature: 63 K<br />(-210 °C)
+      - name: 0013 Nwaliad D VII e
         type: Rocky
         formationType: Accreted
         aphelion: 10,207,699,726 km<br />
@@ -612,12 +592,12 @@ planets:
         radius: 159,731.2 km<br/>(25.072 Yrths)
         surface_area: 3.206 × 10<sup>11</sup> km<sup>2</sup><br/>(628.585 Yrths)
         volume: 1.707 × 10<sup>16</sup> km<sup>3</sup><br/>(15759.642 Yrths)
-        mass: 4.625 × 10<sup>28</sup> kg<br />(192.51318151663972 Yrths)
+        mass: 4.625 × 10<sup>28</sup> kg<br />(7743.695 Yrths)
         density: 2.709 g/cm<sup>3</sup>
         surface_gravity: 120.811 m/s<sup>2</sup><br />(12.319 g<sub>0</sub>)
         escape_velocity: 196.588 km/s<br />(707,717 km/h)
         rotation_period: 42.388 d
         axial_tilt: 13.59°
         albedo: 0.30
-        temperature: 29 K<br />(-245 °C)
+        temperature: 63 K<br />(-210 °C)
 ---

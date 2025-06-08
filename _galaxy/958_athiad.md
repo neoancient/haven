@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      958 Athiad is a star in the constellation Ath
+      958 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 300.73 ly
 apparent_magnitude: 10.07
 absolute_magnitude: 5.25

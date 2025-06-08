@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      635 Reggiad A is a star in the constellation Reg
+      635 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 269.29 ly
 apparent_magnitude: 6.96
 absolute_magnitude: 2.37

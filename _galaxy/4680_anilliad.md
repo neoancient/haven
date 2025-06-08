@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4680 Anilliad is a star in the constellation Anil
+      4680 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 490.45 ly
 apparent_magnitude: 10.59
 absolute_magnitude: 4.70

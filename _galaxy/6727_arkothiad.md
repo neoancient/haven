@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6727 Arkothiad is a star in the constellation Arkoth
+      6727 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 326.65 ly
 apparent_magnitude: 8.20
 absolute_magnitude: 3.20
@@ -31,14 +31,14 @@ planets:
     radius: 2,862.5 km<br/>(0.449 Yrths)
     surface_area: 1.030 × 10<sup>08</sup> km<sup>2</sup><br/>(0.202 Yrths)
     volume: 9.825 × 10<sup>10</sup> km<sup>3</sup><br/>(0.091 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.079 g/cm<sup>3</sup>
     surface_gravity: 4.858 m/s<sup>2</sup><br />(0.495 g<sub>0</sub>)
     escape_velocity: 5.277 km/s<br />(18,998 km/h)
     rotation_period: 1.753 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 466 K<br />(193 °C)
+    temperature: 489 K<br />(216 °C)
     surface_pressure: 310 kPa<br />(3 atm)
     composition:
       - 88.2197% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 180.0 km<br/>(0.028 Yrths)
         surface_area: 4.071 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 2.442 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 6.240 × 10<sup>19</sup> kg<br />(0.1 Yrths)
+        mass: 6.240 × 10<sup>19</sup> kg<br />(0.000 Yrths)
         density: 2.555 g/cm<sup>3</sup>
         surface_gravity: 0.128 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.215 km/s<br />(774 km/h)
         rotation_period: 60.329 d
         axial_tilt: 56.37°
         albedo: 0.30
-        temperature: 8087 K<br />(7814 °C)
+        temperature: 356 K<br />(83 °C)
       - name: 6727 Arkothiad I b
         type: Rocky
         formationType: Impact formed
@@ -78,12 +78,12 @@ planets:
         radius: 597.4 km<br/>(0.094 Yrths)
         surface_area: 4.484 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.929 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 2.143 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 2.143 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 0.400 m/s<sup>2</sup><br />(0.041 g<sub>0</sub>)
         escape_velocity: 0.692 km/s<br />(2,491 km/h)
         rotation_period: 36.799 d
         axial_tilt: 14.21°
         albedo: 0.30
-        temperature: 7711 K<br />(7438 °C)
+        temperature: 356 K<br />(83 °C)
 ---

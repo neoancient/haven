@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0169 Switheriad A is a star in the constellation Swither
+      0169 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 278.73 ly
 apparent_magnitude: 5.84
 absolute_magnitude: 1.18

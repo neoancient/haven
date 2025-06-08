@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1982 Arkothiad is a star in the constellation Arkoth
+      1982 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 345.94 ly
 apparent_magnitude: 12.19
 absolute_magnitude: 7.06

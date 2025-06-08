@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1022 Reggiad is a star in the constellation Reg
+      1022 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 371.80 ly
 apparent_magnitude: 10.65
 absolute_magnitude: 5.37

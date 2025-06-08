@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2096 Keead is a star in the constellation Kee
+      2096 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 355.87 ly
 apparent_magnitude: 10.00
 absolute_magnitude: 4.81

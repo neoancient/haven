@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      918 Noniashad is a star in the constellation Nonias
+      918 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 474.74 ly
 apparent_magnitude: 12.96
 absolute_magnitude: 7.14

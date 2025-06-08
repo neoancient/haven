@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8816 Dialkeshiad is a star in the constellation Dialkes
+      8816 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 410.26 ly
 apparent_magnitude: 8.10
 absolute_magnitude: 2.60
@@ -31,7 +31,7 @@ planets:
     radius: 4,759.3 km<br/>(0.747 Yrths)
     surface_area: 2.846 × 10<sup>08</sup> km<sup>2</sup><br/>(0.558 Yrths)
     volume: 4.516 × 10<sup>11</sup> km<sup>3</sup><br/>(0.417 Yrths)
-    mass: 2.557 × 10<sup>24</sup> kg<br />(0.42810579628807693 Yrths)
+    mass: 2.557 × 10<sup>24</sup> kg<br />(0.43 Yrths)
     density: 5.662 g/cm<sup>3</sup>
     surface_gravity: 7.523 m/s<sup>2</sup><br />(0.767 g<sub>0</sub>)
     escape_velocity: 8.468 km/s<br />(30,485 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 1,953.0 km<br/>(0.307 Yrths)
         surface_area: 4.793 × 10<sup>07</sup> km<sup>2</sup><br/>(0.094 Yrths)
         volume: 3.120 × 10<sup>10</sup> km<sup>3</sup><br/>(0.029 Yrths)
-        mass: 2.533 × 10<sup>22</sup> kg<br />(0.42810579628807693 Yrths)
+        mass: 2.533 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 0.812 g/cm<sup>3</sup>
         surface_gravity: 0.443 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 1.316 km/s<br />(4,737 km/h)
         rotation_period: 57.171 d
         axial_tilt: 20.44°
         albedo: 0.30
-        temperature: 4198 K<br />(3925 °C)
+        temperature: 263 K<br />(-10 °C)
       - name: 8816 Dialkeshiad I b
         type: Rocky
         formationType: Impact formed
@@ -72,12 +72,12 @@ planets:
         radius: 1,074.1 km<br/>(0.169 Yrths)
         surface_area: 1.450 × 10<sup>07</sup> km<sup>2</sup><br/>(0.028 Yrths)
         volume: 5.191 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.625 × 10<sup>22</sup> kg<br />(0.42810579628807693 Yrths)
+        mass: 1.625 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 3.131 g/cm<sup>3</sup>
         surface_gravity: 0.939 m/s<sup>2</sup><br />(0.096 g<sub>0</sub>)
         escape_velocity: 1.421 km/s<br />(5,116 km/h)
         rotation_period: 28.350 d
         axial_tilt: 24.60°
         albedo: 0.30
-        temperature: 4003 K<br />(3730 °C)
+        temperature: 263 K<br />(-10 °C)
 ---

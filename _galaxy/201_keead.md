@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      201 Keead is a star in the constellation Kee
+      201 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 522.83 ly
 apparent_magnitude: 7.80
 absolute_magnitude: 1.77

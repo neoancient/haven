@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2265 Lunaiad is a star in the constellation Luna
+      2265 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 2075.37 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 1.61

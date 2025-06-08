@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0145 Geardiad is a star in the constellation Geard
+      0145 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 2454.93 ly
 apparent_magnitude: 6.13
 absolute_magnitude: -3.26
@@ -31,14 +31,14 @@ planets:
     radius: 3,282.7 km<br/>(0.515 Yrths)
     surface_area: 1.354 × 10<sup>08</sup> km<sup>2</sup><br/>(0.265 Yrths)
     volume: 1.482 × 10<sup>11</sup> km<sup>3</sup><br/>(0.137 Yrths)
-    mass: 7.609 × 10<sup>23</sup> kg<br />(0.12741096677781225 Yrths)
+    mass: 7.609 × 10<sup>23</sup> kg<br />(0.13 Yrths)
     density: 5.135 g/cm<sup>3</sup>
     surface_gravity: 4.706 m/s<sup>2</sup><br />(0.480 g<sub>0</sub>)
     escape_velocity: 5.562 km/s<br />(20,025 km/h)
     rotation_period: 1.890 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 1839 K<br />(1566 °C)
+    temperature: 2505 K<br />(2232 °C)
     surface_pressure: 2 kPa<br />(0 atm)
     composition:
       - 88.5171% methane
@@ -57,12 +57,12 @@ planets:
         radius: 631.3 km<br/>(0.099 Yrths)
         surface_area: 5.008 × 10<sup>06</sup> km<sup>2</sup><br/>(0.010 Yrths)
         volume: 1.054 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.719 × 10<sup>21</sup> kg<br />(0.12741096677781225 Yrths)
+        mass: 3.719 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.528 g/cm<sup>3</sup>
         surface_gravity: 0.622 m/s<sup>2</sup><br />(0.063 g<sub>0</sub>)
         escape_velocity: 0.887 km/s<br />(3,192 km/h)
         rotation_period: 35.851 d
         axial_tilt: 57.99°
         albedo: 0.30
-        temperature: 49246 K<br />(48973 °C)
+        temperature: 1733 K<br />(1460 °C)
 ---

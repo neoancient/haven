@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Chaigei D is a star in the constellation Atchian
+      Chaigei D is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 2729.99 ly
 apparent_magnitude: 4.46
 absolute_magnitude: -5.15

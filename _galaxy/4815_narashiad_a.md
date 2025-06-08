@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4815 Narashiad A is a star in the constellation Naras
+      4815 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 630.70 ly
 apparent_magnitude: 7.58
 absolute_magnitude: 1.15

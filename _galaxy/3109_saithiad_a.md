@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3109 Saithiad A is a star in the constellation Saith
+      3109 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 279.00 ly
 apparent_magnitude: 8.24
 absolute_magnitude: 3.58

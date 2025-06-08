@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7308 Tanashad is a star in the constellation Tanas
+      7308 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 423.67 ly
 apparent_magnitude: 10.17
 absolute_magnitude: 4.60

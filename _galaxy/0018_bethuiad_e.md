@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0018 Bethuiad E is a star in the constellation Bethu
+      0018 Bethuiad E is a star in the constellation <a href="bethu.html">Bethu</a>
 distance: 1634.03 ly
 apparent_magnitude: 11.29
 absolute_magnitude: 2.79

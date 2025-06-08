@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8444 Dialkeshiad is a star in the constellation Dialkes
+      8444 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 533.40 ly
 apparent_magnitude: 8.20
 absolute_magnitude: 2.13

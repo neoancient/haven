@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1342 Switheriad A is a star in the constellation Swither
+      1342 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 624.42 ly
 apparent_magnitude: 7.42
 absolute_magnitude: 1.01

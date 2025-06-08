@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5414 Athiad is a star in the constellation Ath
+      5414 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 435.26 ly
 apparent_magnitude: 7.18
 absolute_magnitude: 1.55
@@ -31,14 +31,14 @@ planets:
     radius: 215.8 km<br/>(0.034 Yrths)
     surface_area: 5.853 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.210 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.426 × 10<sup>27</sup> kg<br />(238.85736732817298 Yrths)
+    mass: 1.426 × 10<sup>27</sup> kg<br />(238.86 Yrths)
     density: 33878938.177 g/cm<sup>3</sup>
     surface_gravity: 2041336.025 m/s<sup>2</sup><br />(208158.344 g<sub>0</sub>)
     escape_velocity: 939.306 km/s<br />(3,381,501 km/h)
     rotation_period: 0.241 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1303 K<br />(1029 °C)
+    temperature: 1293 K<br />(1020 °C)
     composition:
       - 89.2594% helium
       - 9.1387% methane
@@ -56,14 +56,14 @@ planets:
         radius: 169,670.7 km<br/>(26.632 Yrths)
         surface_area: 3.618 × 10<sup>11</sup> km<sup>2</sup><br/>(709.248 Yrths)
         volume: 2.046 × 10<sup>16</sup> km<sup>3</sup><br/>(18888.497 Yrths)
-        mass: 3.158 × 10<sup>28</sup> kg<br />(238.85736732817298 Yrths)
+        mass: 3.158 × 10<sup>28</sup> kg<br />(5288.247 Yrths)
         density: 1.544 g/cm<sup>3</sup>
         surface_gravity: 73.120 m/s<sup>2</sup><br />(7.456 g<sub>0</sub>)
         escape_velocity: 157.627 km/s<br />(567,457 km/h)
         rotation_period: 71.737 d
         axial_tilt: 13.38°
         albedo: 0.30
-        temperature: 2003 K<br />(1730 °C)
+        temperature: 312 K<br />(39 °C)
       - name: 5414 Athiad I b
         type: Dwarf planet
         formationType: Accreted
@@ -76,14 +76,14 @@ planets:
         radius: 162,979.0 km<br/>(25.581 Yrths)
         surface_area: 3.338 × 10<sup>11</sup> km<sup>2</sup><br/>(654.407 Yrths)
         volume: 1.813 × 10<sup>16</sup> km<sup>3</sup><br/>(16740.650 Yrths)
-        mass: 4.050 × 10<sup>28</sup> kg<br />(238.85736732817298 Yrths)
+        mass: 4.050 × 10<sup>28</sup> kg<br />(6781.995 Yrths)
         density: 2.234 g/cm<sup>3</sup>
         surface_gravity: 101.632 m/s<sup>2</sup><br />(10.364 g<sub>0</sub>)
         escape_velocity: 182.134 km/s<br />(655,682 km/h)
         rotation_period: 41.266 d
         axial_tilt: 11.54°
         albedo: 0.30
-        temperature: 1910 K<br />(1637 °C)
+        temperature: 312 K<br />(39 °C)
       - name: 5414 Athiad I c
         type: Icy
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 178,910.6 km<br/>(28.082 Yrths)
         surface_area: 4.022 × 10<sup>11</sup> km<sup>2</sup><br/>(788.601 Yrths)
         volume: 2.399 × 10<sup>16</sup> km<sup>3</sup><br/>(22145.514 Yrths)
-        mass: 3.527 × 10<sup>28</sup> kg<br />(238.85736732817298 Yrths)
+        mass: 3.527 × 10<sup>28</sup> kg<br />(5906.443 Yrths)
         density: 1.470 g/cm<sup>3</sup>
         surface_gravity: 73.450 m/s<sup>2</sup><br />(7.490 g<sub>0</sub>)
         escape_velocity: 162.227 km/s<br />(584,017 km/h)
         rotation_period: 44.957 d
         axial_tilt: 22.62°
         albedo: 0.30
-        temperature: 1736 K<br />(1463 °C)
+        temperature: 312 K<br />(39 °C)
       - name: 5414 Athiad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 166,421.1 km<br/>(26.122 Yrths)
         surface_area: 3.480 × 10<sup>11</sup> km<sup>2</sup><br/>(682.342 Yrths)
         volume: 1.931 × 10<sup>16</sup> km<sup>3</sup><br/>(17823.899 Yrths)
-        mass: 3.520 × 10<sup>28</sup> kg<br />(238.85736732817298 Yrths)
+        mass: 3.520 × 10<sup>28</sup> kg<br />(5894.132 Yrths)
         density: 1.823 g/cm<sup>3</sup>
         surface_gravity: 84.711 m/s<sup>2</sup><br />(8.638 g<sub>0</sub>)
         escape_velocity: 168.029 km/s<br />(604,903 km/h)
         rotation_period: 66.749 d
         axial_tilt: 19.09°
         albedo: 0.30
-        temperature: 1579 K<br />(1305 °C)
+        temperature: 312 K<br />(39 °C)
       - name: 5414 Athiad I e
         type: Icy
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 208,779.3 km<br/>(32.770 Yrths)
         surface_area: 5.478 × 10<sup>11</sup> km<sup>2</sup><br/>(1073.890 Yrths)
         volume: 3.812 × 10<sup>16</sup> km<sup>3</sup><br/>(35191.664 Yrths)
-        mass: 4.002 × 10<sup>28</sup> kg<br />(238.85736732817298 Yrths)
+        mass: 4.002 × 10<sup>28</sup> kg<br />(6701.757 Yrths)
         density: 1.050 g/cm<sup>3</sup>
         surface_gravity: 61.200 m/s<sup>2</sup><br />(6.241 g<sub>0</sub>)
         escape_velocity: 159.966 km/s<br />(575,878 km/h)
         rotation_period: 59.915 d
         axial_tilt: 24.59°
         albedo: 0.30
-        temperature: 1505 K<br />(1232 °C)
+        temperature: 312 K<br />(39 °C)
       - name: 5414 Athiad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -156,14 +156,14 @@ planets:
         radius: 152,539.7 km<br/>(23.943 Yrths)
         surface_area: 2.924 × 10<sup>11</sup> km<sup>2</sup><br/>(573.259 Yrths)
         volume: 1.487 × 10<sup>16</sup> km<sup>3</sup><br/>(13725.425 Yrths)
-        mass: 3.266 × 10<sup>28</sup> kg<br />(238.85736732817298 Yrths)
+        mass: 3.266 × 10<sup>28</sup> kg<br />(5469.318 Yrths)
         density: 2.197 g/cm<sup>3</sup>
         surface_gravity: 93.563 m/s<sup>2</sup><br />(9.541 g<sub>0</sub>)
         escape_velocity: 169.065 km/s<br />(608,633 km/h)
         rotation_period: 53.051 d
         axial_tilt: 27.22°
         albedo: 0.30
-        temperature: 810 K<br />(537 °C)
+        temperature: 312 K<br />(39 °C)
       - name: 5414 Athiad I g
         type: Icy
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 326,363.5 km<br/>(51.226 Yrths)
         surface_area: 1.338 × 10<sup>12</sup> km<sup>2</sup><br/>(2624.145 Yrths)
         volume: 1.456 × 10<sup>17</sup> km<sup>3</sup><br/>(134425.532 Yrths)
-        mass: 1.836 × 10<sup>29</sup> kg<br />(238.85736732817298 Yrths)
+        mass: 1.836 × 10<sup>29</sup> kg<br />(30740.228 Yrths)
         density: 1.261 g/cm<sup>3</sup>
         surface_gravity: 114.879 m/s<sup>2</sup><br />(11.714 g<sub>0</sub>)
         escape_velocity: 274.019 km/s<br />(986,468 km/h)
         rotation_period: 48.857 d
         axial_tilt: 16.68°
         albedo: 0.30
-        temperature: 772 K<br />(499 °C)
+        temperature: 312 K<br />(39 °C)
       - name: 5414 Athiad I h
         type: Ice/rock hybrid
         formationType: Captured
@@ -196,12 +196,12 @@ planets:
         radius: 176,767.2 km<br/>(27.746 Yrths)
         surface_area: 3.927 × 10<sup>11</sup> km<sup>2</sup><br/>(769.818 Yrths)
         volume: 2.314 × 10<sup>16</sup> km<sup>3</sup><br/>(21359.073 Yrths)
-        mass: 4.915 × 10<sup>28</sup> kg<br />(238.85736732817298 Yrths)
+        mass: 4.915 × 10<sup>28</sup> kg<br />(8230.091 Yrths)
         density: 2.124 g/cm<sup>3</sup>
         surface_gravity: 104.842 m/s<sup>2</sup><br />(10.691 g<sub>0</sub>)
         escape_velocity: 192.655 km/s<br />(693,556 km/h)
         rotation_period: 37.754 d
         axial_tilt: 17.44°
         albedo: 0.30
-        temperature: 669 K<br />(396 °C)
+        temperature: 312 K<br />(39 °C)
 ---

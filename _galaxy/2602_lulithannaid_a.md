@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2602 Lulithannaid A is a star in the constellation Lulithan
+      2602 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 657.14 ly
 apparent_magnitude: 6.72
 absolute_magnitude: 0.20

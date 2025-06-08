@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8062 Dialkeshiad is a star in the constellation Dialkes
+      8062 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 443.70 ly
 apparent_magnitude: 11.71
 absolute_magnitude: 6.04

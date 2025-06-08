@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0254 Rukentuaiad A is a star in the constellation Rukentua
+      0254 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 106.59 ly
 apparent_magnitude: 7.45
 absolute_magnitude: 4.88

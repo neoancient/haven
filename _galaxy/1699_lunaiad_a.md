@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1699 Lunaiad A is a star in the constellation Luna
+      1699 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 343.32 ly
 apparent_magnitude: 7.77
 absolute_magnitude: 2.65

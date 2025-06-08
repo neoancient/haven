@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5469 Anilliad is a star in the constellation Anil
+      5469 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 633.70 ly
 apparent_magnitude: 14.83
 absolute_magnitude: 8.38

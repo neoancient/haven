@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1931 Noniashad A is a star in the constellation Nonias
+      1931 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 661.41 ly
 apparent_magnitude: 7.19
 absolute_magnitude: 0.66

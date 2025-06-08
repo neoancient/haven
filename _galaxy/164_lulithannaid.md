@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      164 Lulithannaid is a star in the constellation Lulithan
+      164 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 382.00 ly
 apparent_magnitude: 9.70
 absolute_magnitude: 4.35

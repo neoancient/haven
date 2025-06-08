@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      857 Urthiad is a star in the constellation Urth
+      857 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 696.57 ly
 apparent_magnitude: 17.62
 absolute_magnitude: 10.97

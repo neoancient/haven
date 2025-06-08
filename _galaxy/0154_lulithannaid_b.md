@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0154 Lulithannaid B is a star in the constellation Lulithan
+      0154 Lulithannaid B is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 1679.75 ly
 apparent_magnitude: 17.43
 absolute_magnitude: 8.87

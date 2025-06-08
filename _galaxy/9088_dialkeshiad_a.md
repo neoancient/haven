@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9088 Dialkeshiad A is a star in the constellation Dialkes
+      9088 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 370.45 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 5.49

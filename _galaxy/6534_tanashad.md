@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6534 Tanashad is a star in the constellation Tanas
+      6534 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 696.04 ly
 apparent_magnitude: 11.93
 absolute_magnitude: 5.29

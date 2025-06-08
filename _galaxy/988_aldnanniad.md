@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      988 Aldnanniad is a star in the constellation Aldnan
+      988 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 426.88 ly
 apparent_magnitude: 13.67
 absolute_magnitude: 8.09

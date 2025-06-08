@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3335 Geardiad A is a star in the constellation Geard
+      3335 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 631.85 ly
 apparent_magnitude: 6.95
 absolute_magnitude: 0.52

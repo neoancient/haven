@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1627 Aldnanniad A is a star in the constellation Aldnan
+      1627 Aldnanniad A is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 387.07 ly
 apparent_magnitude: 7.44
 absolute_magnitude: 2.07

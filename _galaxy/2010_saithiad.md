@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2010 Saithiad is a star in the constellation Saith
+      2010 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 2105.87 ly
 apparent_magnitude: 17.99
 absolute_magnitude: 8.94

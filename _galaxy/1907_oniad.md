@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1907 Oniad is a star in the constellation Oni
+      1907 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 998.24 ly
 apparent_magnitude: 12.27
 absolute_magnitude: 4.84

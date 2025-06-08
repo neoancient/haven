@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4264 Narashiad is a star in the constellation Naras
+      4264 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 394.44 ly
 apparent_magnitude: 13.08
 absolute_magnitude: 7.67

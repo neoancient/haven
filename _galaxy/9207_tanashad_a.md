@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9207 Tanashad A is a star in the constellation Tanas
+      9207 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 314.43 ly
 apparent_magnitude: 7.50
 absolute_magnitude: 2.58

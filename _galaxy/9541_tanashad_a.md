@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9541 Tanashad A is a star in the constellation Tanas
+      9541 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 905.52 ly
 apparent_magnitude: 7.14
 absolute_magnitude: -0.08

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Urnshish A is a star in the constellation Shannias
+      Urnshish A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 272.61 ly
 apparent_magnitude: 1.62
 absolute_magnitude: -2.99

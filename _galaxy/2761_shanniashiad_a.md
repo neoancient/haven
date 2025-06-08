@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2761 Shanniashiad A is a star in the constellation Shannias
+      2761 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 568.57 ly
 apparent_magnitude: 7.22
 absolute_magnitude: 1.01

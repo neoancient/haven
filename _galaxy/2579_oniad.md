@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2579 Oniad is a star in the constellation Oni
+      2579 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 536.74 ly
 apparent_magnitude: 11.28
 absolute_magnitude: 5.20

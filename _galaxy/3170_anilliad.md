@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3170 Anilliad is a star in the constellation Anil
+      3170 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 608.60 ly
 apparent_magnitude: 12.05
 absolute_magnitude: 5.70

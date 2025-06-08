@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Leranishi is a star in the constellation Nishi
+      Leranishi is a star in the constellation <a href="nishi.html">Nishi</a>
 distance: 102.18 ly
 apparent_magnitude: 2.07
 absolute_magnitude: -0.41

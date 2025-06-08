@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1336 Shanniashiad is a star in the constellation Shannias
+      1336 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 366.13 ly
 apparent_magnitude: 11.49
 absolute_magnitude: 6.24

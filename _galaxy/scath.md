@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Scath is a star in the constellation Emnia
+      Scath is a star in the constellation <a href="emnia.html">Emnia</a>
 distance: 857.52 ly
 apparent_magnitude: 1.16
 absolute_magnitude: -5.94

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0041 Saithiad E is a star in the constellation Saith
+      0041 Saithiad E is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1097.41 ly
 apparent_magnitude: 12.62
 absolute_magnitude: 4.99

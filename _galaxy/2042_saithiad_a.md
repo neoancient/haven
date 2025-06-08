@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2042 Saithiad A is a star in the constellation Saith
+      2042 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 675.86 ly
 apparent_magnitude: 6.76
 absolute_magnitude: 0.18

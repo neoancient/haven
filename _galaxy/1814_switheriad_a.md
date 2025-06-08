@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1814 Switheriad A is a star in the constellation Swither
+      1814 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 443.41 ly
 apparent_magnitude: 7.33
 absolute_magnitude: 1.66

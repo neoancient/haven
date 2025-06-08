@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3761 Athiad A is a star in the constellation Ath
+      3761 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 269.33 ly
 apparent_magnitude: 10.88
 absolute_magnitude: 6.29

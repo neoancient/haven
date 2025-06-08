@@ -96,7 +96,7 @@ stars:
     distance: 233.18
     spectral_class: G9II
   - name:
-    designation: 5223 Noniashad
+    designation: <a href="5223_noniashad.html">5223 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 25.77<sup>s</sup>
     dec: -46° 07' 36.29"
     apparent_magnitude: 3.92
@@ -104,7 +104,7 @@ stars:
     distance: 116.55
     spectral_class: A9V
   - name:
-    designation: 908 Noniashad
+    designation: <a href="908_noniashad.html">908 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 29.02<sup>s</sup>
     dec: -59° 40' 19.36"
     apparent_magnitude: 3.92
@@ -112,7 +112,7 @@ stars:
     distance: 292.97
     spectral_class: G5V + K6V + F9III
   - name:
-    designation: 1958 Noniashad
+    designation: <a href="1958_noniashad.html">1958 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 8.25<sup>s</sup>
     dec: -58° 38' 47.14"
     apparent_magnitude: 3.94
@@ -120,7 +120,7 @@ stars:
     distance: 247.02
     spectral_class: F6III
   - name:
-    designation: 4688 Noniashad
+    designation: <a href="4688_noniashad.html">4688 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 9.42<sup>s</sup>
     dec: -53° 46' 9.45"
     apparent_magnitude: 4.11
@@ -152,7 +152,7 @@ stars:
     distance: 58.32
     spectral_class: K6III
   - name:
-    designation: 713 Noniashad
+    designation: <a href="713_noniashad.html">713 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 23.03<sup>s</sup>
     dec: -68° 29' 51.51"
     apparent_magnitude: 4.16
@@ -160,7 +160,7 @@ stars:
     distance: 245.76
     spectral_class: A5V
   - name:
-    designation: 1561 Noniashad
+    designation: <a href="1561_noniashad.html">1561 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 9.56<sup>s</sup>
     dec: -53° 15' 32.09"
     apparent_magnitude: 4.19
@@ -168,7 +168,7 @@ stars:
     distance: 117.81
     spectral_class: A9V
   - name:
-    designation: 3 Noniashad
+    designation: <a href="3_noniashad.html">3 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 15.51<sup>s</sup>
     dec: -67° 06' 17.32"
     apparent_magnitude: 4.21
@@ -192,7 +192,7 @@ stars:
     distance: 339.96
     spectral_class: K1II
   - name:
-    designation: 4729 Noniashad
+    designation: <a href="4729_noniashad.html">4729 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 2.89<sup>s</sup>
     dec: -55° 29' 29.30"
     apparent_magnitude: 4.29
@@ -256,7 +256,7 @@ stars:
     distance: 270.89
     spectral_class: F9III
   - name:
-    designation: 715 Noniashad
+    designation: <a href="715_noniashad.html">715 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 39.56<sup>s</sup>
     dec: -62° 54' 16.91"
     apparent_magnitude: 4.34
@@ -264,7 +264,7 @@ stars:
     distance: 241.64
     spectral_class: K7III + G3V + G8V + A8V
   - name:
-    designation: 3399 Noniashad
+    designation: <a href="3399_noniashad.html">3399 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 45.29<sup>s</sup>
     dec: -57° 13' 49.72"
     apparent_magnitude: 4.36
@@ -288,7 +288,7 @@ stars:
     distance: 351.52
     spectral_class: K1II
   - name:
-    designation: 2093 Noniashad
+    designation: <a href="2093_noniashad.html">2093 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 25.92<sup>s</sup>
     dec: -51° 15' 8.37"
     apparent_magnitude: 4.40
@@ -352,7 +352,7 @@ stars:
     distance: 191.93
     spectral_class: A9V
   - name:
-    designation: 4678 Noniashad
+    designation: <a href="4678_noniashad.html">4678 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 48.08<sup>s</sup>
     dec: -60° 48' 33.80"
     apparent_magnitude: 4.51
@@ -360,7 +360,7 @@ stars:
     distance: 80.95
     spectral_class: G9V
   - name:
-    designation: 2362 Noniashad
+    designation: <a href="2362_noniashad.html">2362 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 30.27<sup>s</sup>
     dec: -47° 43' 27.99"
     apparent_magnitude: 4.52
@@ -440,7 +440,7 @@ stars:
     distance: 152.09
     spectral_class: DB + G6III
   - name:
-    designation: 190 Noniashad
+    designation: <a href="190_noniashad.html">190 Noniashad</a>
     ra: 17<sup>h</sup> 20<sup>m</sup> 54.46<sup>s</sup>
     dec: -59° 01' 58.98"
     apparent_magnitude: 4.59
@@ -536,7 +536,7 @@ stars:
     distance: 190.00
     spectral_class: A9V
   - name:
-    designation: 2228 Noniashad
+    designation: <a href="2228_noniashad.html">2228 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 0.53<sup>s</sup>
     dec: -48° 43' 25.10"
     apparent_magnitude: 4.70
@@ -552,7 +552,7 @@ stars:
     distance: 228.47
     spectral_class: G1III
   - name:
-    designation: 5271 Noniashad
+    designation: <a href="5271_noniashad.html">5271 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 45.11<sup>s</sup>
     dec: -53° 03' 44.61"
     apparent_magnitude: 4.71
@@ -592,7 +592,7 @@ stars:
     distance: 215.25
     spectral_class: G7III
   - name:
-    designation: 3696 Noniashad
+    designation: <a href="3696_noniashad.html">3696 Noniashad</a>
     ra: 17<sup>h</sup> 43<sup>m</sup> 48.60<sup>s</sup>
     dec: -62° 57' 55.67"
     apparent_magnitude: 4.78
@@ -640,7 +640,7 @@ stars:
     distance: 211.05
     spectral_class: A8V
   - name:
-    designation: 37 Noniashad
+    designation: <a href="37_noniashad.html">37 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 43.51<sup>s</sup>
     dec: -57° 14' 53.66"
     apparent_magnitude: 4.82
@@ -656,7 +656,7 @@ stars:
     distance: 92.61
     spectral_class: K7III
   - name:
-    designation: 9 Noniashad
+    designation: <a href="9_noniashad.html">9 Noniashad</a>
     ra: 17<sup>h</sup> 49<sup>m</sup> 54.90<sup>s</sup>
     dec: -48° 47' 53.09"
     apparent_magnitude: 4.85
@@ -704,7 +704,7 @@ stars:
     distance: 301.96
     spectral_class: A7III + A1V
   - name:
-    designation: 909 Noniashad
+    designation: <a href="909_noniashad.html">909 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 43.47<sup>s</sup>
     dec: -60° 37' 28.90"
     apparent_magnitude: 4.90
@@ -752,7 +752,7 @@ stars:
     distance: 266.05
     spectral_class: A6V
   - name:
-    designation: 610 Noniashad
+    designation: <a href="610_noniashad.html">610 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 49.29<sup>s</sup>
     dec: -62° 00' 30.04"
     apparent_magnitude: 4.93
@@ -768,7 +768,7 @@ stars:
     distance: 200.46
     spectral_class: A9V
   - name:
-    designation: 39 Noniashad
+    designation: <a href="39_noniashad.html">39 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 54.23<sup>s</sup>
     dec: -57° 25' 56.23"
     apparent_magnitude: 4.93
@@ -832,7 +832,7 @@ stars:
     distance: 227.71
     spectral_class: K4II
   - name:
-    designation: ρ Noniashad
+    designation: <a href="ρ_noniashad.html">ρ Noniashad</a>
     ra: 17<sup>h</sup> 19<sup>m</sup> 57.04<sup>s</sup>
     dec: -52° 56' 51.98"
     apparent_magnitude: 4.97
@@ -872,7 +872,7 @@ stars:
     distance: 199.57
     spectral_class: A6V
   - name:
-    designation: 5226 Noniashad
+    designation: <a href="5226_noniashad.html">5226 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 32.55<sup>s</sup>
     dec: -50° 34' 54.21"
     apparent_magnitude: 5.02
@@ -880,7 +880,7 @@ stars:
     distance: 112.80
     spectral_class: G0V
   - name:
-    designation: 5225 Noniashad
+    designation: <a href="5225_noniashad.html">5225 Noniashad</a>
     ra: 17<sup>h</sup> 19<sup>m</sup> 18.06<sup>s</sup>
     dec: -60° 29' 53.78"
     apparent_magnitude: 5.04
@@ -912,7 +912,7 @@ stars:
     distance: 305.22
     spectral_class: F7III
   - name:
-    designation: 35 Noniashad
+    designation: <a href="35_noniashad.html">35 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 3.53<sup>s</sup>
     dec: -52° 00' 3.65"
     apparent_magnitude: 5.06
@@ -952,7 +952,7 @@ stars:
     distance: 251.79
     spectral_class: A9V
   - name:
-    designation: 5451 Noniashad
+    designation: <a href="5451_noniashad.html">5451 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 58.72<sup>s</sup>
     dec: -52° 15' 57.63"
     apparent_magnitude: 5.09
@@ -992,7 +992,7 @@ stars:
     distance: 153.73
     spectral_class: F5IV
   - name:
-    designation: 5244 Noniashad
+    designation: <a href="5244_noniashad.html">5244 Noniashad</a>
     ra: 17<sup>h</sup> 39<sup>m</sup> 29.81<sup>s</sup>
     dec: -67° 46' 19.37"
     apparent_magnitude: 5.12
@@ -1056,7 +1056,7 @@ stars:
     distance: 189.94
     spectral_class: K2III
   - name:
-    designation: θ Noniashad
+    designation: <a href="θ_noniashad.html">θ Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 7.91<sup>s</sup>
     dec: -67° 59' 7.98"
     apparent_magnitude: 5.16
@@ -1088,7 +1088,7 @@ stars:
     distance: 207.42
     spectral_class: F1V
   - name:
-    designation: 4696 Noniashad
+    designation: <a href="4696_noniashad.html">4696 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 31.08<sup>s</sup>
     dec: -54° 56' 12.58"
     apparent_magnitude: 5.17
@@ -1248,7 +1248,7 @@ stars:
     distance: 243.15
     spectral_class: K2III
   - name:
-    designation: μ Noniashad
+    designation: <a href="μ_noniashad.html">μ Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 44.29<sup>s</sup>
     dec: -61° 02' 12.41"
     apparent_magnitude: 5.25
@@ -1288,7 +1288,7 @@ stars:
     distance: 491.00
     spectral_class: A7III
   - name:
-    designation: 4853 Noniashad
+    designation: <a href="4853_noniashad.html">4853 Noniashad</a>
     ra: 17<sup>h</sup> 35<sup>m</sup> 35.63<sup>s</sup>
     dec: -58° 08' 49.06"
     apparent_magnitude: 5.28
@@ -1328,7 +1328,7 @@ stars:
     distance: 258.93
     spectral_class: F7III
   - name:
-    designation: 4969 Noniashad
+    designation: <a href="4969_noniashad.html">4969 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 50.00<sup>s</sup>
     dec: -65° 24' 50.40"
     apparent_magnitude: 5.29
@@ -1336,7 +1336,7 @@ stars:
     distance: 199.90
     spectral_class: G6III
   - name:
-    designation: 5222 Noniashad
+    designation: <a href="5222_noniashad.html">5222 Noniashad</a>
     ra: 17<sup>h</sup> 12<sup>m</sup> 34.26<sup>s</sup>
     dec: -47° 39' 5.54"
     apparent_magnitude: 5.30
@@ -1360,7 +1360,7 @@ stars:
     distance: 212.39
     spectral_class: K7II
   - name:
-    designation: 44 Noniashad
+    designation: <a href="44_noniashad.html">44 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 33.22<sup>s</sup>
     dec: -51° 19' 56.21"
     apparent_magnitude: 5.31
@@ -1408,7 +1408,7 @@ stars:
     distance: 220.60
     spectral_class: K7II
   - name:
-    designation: υ Noniashad
+    designation: <a href="υ_noniashad.html">υ Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 13.88<sup>s</sup>
     dec: -48° 36' 45.25"
     apparent_magnitude: 5.33
@@ -1424,7 +1424,7 @@ stars:
     distance: 235.82
     spectral_class: G6V + G9III
   - name:
-    designation: 729 Noniashad
+    designation: <a href="729_noniashad.html">729 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 9.28<sup>s</sup>
     dec: -63° 36' 30.00"
     apparent_magnitude: 5.34
@@ -1504,7 +1504,7 @@ stars:
     distance: 251.84
     spectral_class: A2V + A1V
   - name:
-    designation: 5246 Noniashad
+    designation: <a href="5246_noniashad.html">5246 Noniashad</a>
     ra: 17<sup>h</sup> 17<sup>m</sup> 48.78<sup>s</sup>
     dec: -64° 26' 2.92"
     apparent_magnitude: 5.39
@@ -1560,7 +1560,7 @@ stars:
     distance: 290.20
     spectral_class: F7III
   - name:
-    designation: 5270 Noniashad
+    designation: <a href="5270_noniashad.html">5270 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 2.88<sup>s</sup>
     dec: -55° 59' 32.81"
     apparent_magnitude: 5.42
@@ -1656,7 +1656,7 @@ stars:
     distance: 310.13
     spectral_class: K2III
   - name:
-    designation: 5227 Noniashad
+    designation: <a href="5227_noniashad.html">5227 Noniashad</a>
     ra: 17<sup>h</sup> 33<sup>m</sup> 11.55<sup>s</sup>
     dec: -49° 18' 12.35"
     apparent_magnitude: 5.48
@@ -1688,7 +1688,7 @@ stars:
     distance: 217.50
     spectral_class: A5V
   - name:
-    designation: 4912 Noniashad
+    designation: <a href="4912_noniashad.html">4912 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 36.00<sup>s</sup>
     dec: -51° 56' 19.60"
     apparent_magnitude: 5.50
@@ -1744,7 +1744,7 @@ stars:
     distance: 242.93
     spectral_class: G6V + G9III
   - name:
-    designation: 5475 Noniashad
+    designation: <a href="5475_noniashad.html">5475 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 46.94<sup>s</sup>
     dec: -61° 07' 59.70"
     apparent_magnitude: 5.53
@@ -1776,7 +1776,7 @@ stars:
     distance: 358.37
     spectral_class: A8III + G1V
   - name:
-    designation: 109 Noniashad
+    designation: <a href="109_noniashad.html">109 Noniashad</a>
     ra: 17<sup>h</sup> 24<sup>m</sup> 3.70<sup>s</sup>
     dec: -50° 55' 55.86"
     apparent_magnitude: 5.55
@@ -1784,7 +1784,7 @@ stars:
     distance: 345.25
     spectral_class: F9V + F5V + F4V + A8IV
   - name:
-    designation: 52 Noniashad
+    designation: <a href="52_noniashad.html">52 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 37.53<sup>s</sup>
     dec: -49° 07' 38.63"
     apparent_magnitude: 5.55
@@ -1792,7 +1792,7 @@ stars:
     distance: 246.61
     spectral_class: G5V
   - name:
-    designation: 5221 Noniashad
+    designation: <a href="5221_noniashad.html">5221 Noniashad</a>
     ra: 17<sup>h</sup> 51<sup>m</sup> 41.22<sup>s</sup>
     dec: -53° 09' 3.45"
     apparent_magnitude: 5.56
@@ -1928,7 +1928,7 @@ stars:
     distance: 182.56
     spectral_class: K1III
   - name:
-    designation: 1444 Noniashad
+    designation: <a href="1444_noniashad.html">1444 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 16.68<sup>s</sup>
     dec: -50° 46' 14.01"
     apparent_magnitude: 5.60
@@ -1968,7 +1968,7 @@ stars:
     distance: 369.86
     spectral_class: F7III
   - name:
-    designation: 730 Noniashad
+    designation: <a href="730_noniashad.html">730 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 48.64<sup>s</sup>
     dec: -64° 05' 49.78"
     apparent_magnitude: 5.62
@@ -2040,7 +2040,7 @@ stars:
     distance: 223.94
     spectral_class: F8III
   - name:
-    designation: 4312 Noniashad
+    designation: <a href="4312_noniashad.html">4312 Noniashad</a>
     ra: 17<sup>h</sup> 34<sup>m</sup> 49.64<sup>s</sup>
     dec: -62° 59' 0.63"
     apparent_magnitude: 5.63
@@ -2056,7 +2056,7 @@ stars:
     distance: 418.50
     spectral_class: F9V + A7V
   - name:
-    designation: 666 Noniashad
+    designation: <a href="666_noniashad.html">666 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 23.55<sup>s</sup>
     dec: -58° 24' 56.93"
     apparent_magnitude: 5.65
@@ -2072,7 +2072,7 @@ stars:
     distance: 266.73
     spectral_class: A4V
   - name:
-    designation: 4346 Noniashad
+    designation: <a href="4346_noniashad.html">4346 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 34.92<sup>s</sup>
     dec: -55° 24' 56.86"
     apparent_magnitude: 5.65
@@ -2080,7 +2080,7 @@ stars:
     distance: 448.75
     spectral_class: F6III
   - name:
-    designation: 4730 Noniashad
+    designation: <a href="4730_noniashad.html">4730 Noniashad</a>
     ra: 17<sup>h</sup> 48<sup>m</sup> 23.40<sup>s</sup>
     dec: -49° 22' 53.46"
     apparent_magnitude: 5.65
@@ -2088,7 +2088,7 @@ stars:
     distance: 70.49
     spectral_class: K7V
   - name:
-    designation: 5242 Noniashad
+    designation: <a href="5242_noniashad.html">5242 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 25.62<sup>s</sup>
     dec: -60° 16' 25.24"
     apparent_magnitude: 5.65
@@ -2208,7 +2208,7 @@ stars:
     distance: 483.47
     spectral_class: A8III
   - name:
-    designation: 521 Noniashad
+    designation: <a href="521_noniashad.html">521 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 17.01<sup>s</sup>
     dec: -53° 18' 49.38"
     apparent_magnitude: 5.72
@@ -2224,7 +2224,7 @@ stars:
     distance: 464.83
     spectral_class: F5V + A9III
   - name:
-    designation: 5177 Noniashad
+    designation: <a href="5177_noniashad.html">5177 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 47.09<sup>s</sup>
     dec: -58° 38' 22.21"
     apparent_magnitude: 5.73
@@ -2248,7 +2248,7 @@ stars:
     distance: 165.17
     spectral_class: A4V
   - name:
-    designation: 3796 Noniashad
+    designation: <a href="3796_noniashad.html">3796 Noniashad</a>
     ra: 17<sup>h</sup> 36<sup>m</sup> 15.96<sup>s</sup>
     dec: -57° 59' 29.97"
     apparent_magnitude: 5.74
@@ -2264,7 +2264,7 @@ stars:
     distance: 447.01
     spectral_class: G2V + A4V
   - name:
-    designation: 725 Noniashad
+    designation: <a href="725_noniashad.html">725 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 48.87<sup>s</sup>
     dec: -66° 39' 37.79"
     apparent_magnitude: 5.74
@@ -2288,7 +2288,7 @@ stars:
     distance: 451.77
     spectral_class: G3V + A5V
   - name:
-    designation: 54 Noniashad
+    designation: <a href="54_noniashad.html">54 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 51.37<sup>s</sup>
     dec: -52° 44' 41.88"
     apparent_magnitude: 5.75
@@ -2312,7 +2312,7 @@ stars:
     distance: 389.96
     spectral_class: F6V + F2III
   - name:
-    designation: 1325 Noniashad
+    designation: <a href="1325_noniashad.html">1325 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 57.79<sup>s</sup>
     dec: -58° 37' 25.96"
     apparent_magnitude: 5.75
@@ -2352,7 +2352,7 @@ stars:
     distance: 118.56
     spectral_class: G9III
   - name:
-    designation: 28 Noniashad
+    designation: <a href="28_noniashad.html">28 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 51.80<sup>s</sup>
     dec: -55° 23' 32.92"
     apparent_magnitude: 5.76
@@ -2376,7 +2376,7 @@ stars:
     distance: 319.46
     spectral_class: K8II
   - name:
-    designation: 5001 Noniashad
+    designation: <a href="5001_noniashad.html">5001 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 3.04<sup>s</sup>
     dec: -65° 46' 25.03"
     apparent_magnitude: 5.77
@@ -2408,7 +2408,7 @@ stars:
     distance: 381.02
     spectral_class: G7V + A9V
   - name:
-    designation: 5580 Noniashad
+    designation: <a href="5580_noniashad.html">5580 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 40.27<sup>s</sup>
     dec: -50° 16' 35.43"
     apparent_magnitude: 5.77
@@ -2456,7 +2456,7 @@ stars:
     distance: 429.19
     spectral_class: F9V + A7V
   - name:
-    designation: 4511 Noniashad
+    designation: <a href="4511_noniashad.html">4511 Noniashad</a>
     ra: 17<sup>h</sup> 55<sup>m</sup> 0.91<sup>s</sup>
     dec: -46° 44' 49.07"
     apparent_magnitude: 5.78
@@ -2464,7 +2464,7 @@ stars:
     distance: 393.17
     spectral_class: F9V + F9V + A6V
   - name:
-    designation: 31 Noniashad
+    designation: <a href="31_noniashad.html">31 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 44.56<sup>s</sup>
     dec: -49° 04' 14.05"
     apparent_magnitude: 5.78
@@ -2520,7 +2520,7 @@ stars:
     distance: 419.57
     spectral_class: A4V
   - name:
-    designation: 4508 Noniashad
+    designation: <a href="4508_noniashad.html">4508 Noniashad</a>
     ra: 17<sup>h</sup> 45<sup>m</sup> 59.78<sup>s</sup>
     dec: -56° 33' 1.61"
     apparent_magnitude: 5.79
@@ -2536,7 +2536,7 @@ stars:
     distance: 207.66
     spectral_class: A9III + DA
   - name:
-    designation: 1058 Noniashad
+    designation: <a href="1058_noniashad.html">1058 Noniashad</a>
     ra: 17<sup>h</sup> 54<sup>m</sup> 43.39<sup>s</sup>
     dec: -57° 22' 28.80"
     apparent_magnitude: 5.79
@@ -2552,7 +2552,7 @@ stars:
     distance: 421.94
     spectral_class: A6IV
   - name:
-    designation: 3834 Noniashad
+    designation: <a href="3834_noniashad.html">3834 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 30.04<sup>s</sup>
     dec: -49° 34' 49.20"
     apparent_magnitude: 5.80
@@ -2576,7 +2576,7 @@ stars:
     distance: 524.48
     spectral_class: A8III
   - name:
-    designation: 3436 Noniashad
+    designation: <a href="3436_noniashad.html">3436 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 48.11<sup>s</sup>
     dec: -52° 22' 2.36"
     apparent_magnitude: 5.80
@@ -2600,7 +2600,7 @@ stars:
     distance: 208.43
     spectral_class: G4III
   - name:
-    designation: 536 Noniashad
+    designation: <a href="536_noniashad.html">536 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 0.43<sup>s</sup>
     dec: -49° 08' 8.02"
     apparent_magnitude: 5.81
@@ -2632,7 +2632,7 @@ stars:
     distance: 458.34
     spectral_class: F3V + DA + A9III
   - name:
-    designation: 5495 Noniashad
+    designation: <a href="5495_noniashad.html">5495 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 35.27<sup>s</sup>
     dec: -60° 51' 22.65"
     apparent_magnitude: 5.82
@@ -2648,7 +2648,7 @@ stars:
     distance: 75.90
     spectral_class: M9II
   - name:
-    designation: 5245 Noniashad
+    designation: <a href="5245_noniashad.html">5245 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 1.39<sup>s</sup>
     dec: -56° 52' 26.08"
     apparent_magnitude: 5.83
@@ -2656,7 +2656,7 @@ stars:
     distance: 147.46
     spectral_class: K8III
   - name:
-    designation: 5092 Noniashad
+    designation: <a href="5092_noniashad.html">5092 Noniashad</a>
     ra: 17<sup>h</sup> 43<sup>m</sup> 56.23<sup>s</sup>
     dec: -65° 08' 42.54"
     apparent_magnitude: 5.83
@@ -2664,7 +2664,7 @@ stars:
     distance: 164.97
     spectral_class: K6III
   - name:
-    designation: 4352 Noniashad
+    designation: <a href="4352_noniashad.html">4352 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 23.00<sup>s</sup>
     dec: -53° 50' 46.31"
     apparent_magnitude: 5.83
@@ -2696,7 +2696,7 @@ stars:
     distance: 202.20
     spectral_class: G6IV
   - name:
-    designation: 5362 Noniashad
+    designation: <a href="5362_noniashad.html">5362 Noniashad</a>
     ra: 17<sup>h</sup> 59<sup>m</sup> 22.80<sup>s</sup>
     dec: -65° 45' 53.84"
     apparent_magnitude: 5.84
@@ -2704,7 +2704,7 @@ stars:
     distance: 212.75
     spectral_class: A7V
   - name:
-    designation: 965 Noniashad
+    designation: <a href="965_noniashad.html">965 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 23.74<sup>s</sup>
     dec: -56° 30' 22.54"
     apparent_magnitude: 5.84
@@ -2752,7 +2752,7 @@ stars:
     distance: 331.00
     spectral_class: F7III
   - name:
-    designation: 1128 Noniashad
+    designation: <a href="1128_noniashad.html">1128 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 10.87<sup>s</sup>
     dec: -49° 26' 22.11"
     apparent_magnitude: 5.86
@@ -2760,7 +2760,7 @@ stars:
     distance: 465.69
     spectral_class: F6III
   - name:
-    designation: 4928 Noniashad
+    designation: <a href="4928_noniashad.html">4928 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 48.92<sup>s</sup>
     dec: -68° 19' 49.44"
     apparent_magnitude: 5.87
@@ -2768,7 +2768,7 @@ stars:
     distance: 121.72
     spectral_class: G9III
   - name:
-    designation: 33 Noniashad
+    designation: <a href="33_noniashad.html">33 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 25.71<sup>s</sup>
     dec: -54° 38' 53.54"
     apparent_magnitude: 5.87
@@ -2776,7 +2776,7 @@ stars:
     distance: 248.43
     spectral_class: G2V
   - name:
-    designation: 4699 Noniashad
+    designation: <a href="4699_noniashad.html">4699 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 45.16<sup>s</sup>
     dec: -48° 35' 37.91"
     apparent_magnitude: 5.87
@@ -2824,7 +2824,7 @@ stars:
     distance: 385.15
     spectral_class: F6V + F2III
   - name:
-    designation: 3463 Noniashad
+    designation: <a href="3463_noniashad.html">3463 Noniashad</a>
     ra: 17<sup>h</sup> 38<sup>m</sup> 7.87<sup>s</sup>
     dec: -46° 25' 31.88"
     apparent_magnitude: 5.91
@@ -2840,7 +2840,7 @@ stars:
     distance: 445.92
     spectral_class: A4V + A8V
   - name:
-    designation: 5458 Noniashad
+    designation: <a href="5458_noniashad.html">5458 Noniashad</a>
     ra: 17<sup>h</sup> 56<sup>m</sup> 4.02<sup>s</sup>
     dec: -55° 32' 7.80"
     apparent_magnitude: 5.92
@@ -2864,7 +2864,7 @@ stars:
     distance: 232.74
     spectral_class: F3V + K6III
   - name:
-    designation: 3959 Noniashad
+    designation: <a href="3959_noniashad.html">3959 Noniashad</a>
     ra: 17<sup>h</sup> 40<sup>m</sup> 8.01<sup>s</sup>
     dec: -50° 37' 52.41"
     apparent_magnitude: 5.92
@@ -2888,7 +2888,7 @@ stars:
     distance: 450.04
     spectral_class: A4V
   - name:
-    designation: 4788 Noniashad
+    designation: <a href="4788_noniashad.html">4788 Noniashad</a>
     ra: 17<sup>h</sup> 10<sup>m</sup> 8.11<sup>s</sup>
     dec: -47° 50' 42.27"
     apparent_magnitude: 5.92
@@ -2920,7 +2920,7 @@ stars:
     distance: 358.73
     spectral_class: G1III
   - name:
-    designation: 4871 Noniashad
+    designation: <a href="4871_noniashad.html">4871 Noniashad</a>
     ra: 17<sup>h</sup> 35<sup>m</sup> 58.54<sup>s</sup>
     dec: -52° 48' 53.30"
     apparent_magnitude: 5.94
@@ -2936,7 +2936,7 @@ stars:
     distance: 359.69
     spectral_class: G1III
   - name:
-    designation: 3225 Noniashad
+    designation: <a href="3225_noniashad.html">3225 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 51.91<sup>s</sup>
     dec: -47° 56' 52.63"
     apparent_magnitude: 5.94
@@ -2984,7 +2984,7 @@ stars:
     distance: 226.69
     spectral_class: A3V + F5V
   - name:
-    designation: 3838 Noniashad
+    designation: <a href="3838_noniashad.html">3838 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 38.36<sup>s</sup>
     dec: -46° 49' 6.98"
     apparent_magnitude: 5.95
@@ -3040,7 +3040,7 @@ stars:
     distance: 185.33
     spectral_class: G1V
   - name:
-    designation: 5382 Noniashad
+    designation: <a href="5382_noniashad.html">5382 Noniashad</a>
     ra: 17<sup>h</sup> 56<sup>m</sup> 58.82<sup>s</sup>
     dec: -61° 36' 56.34"
     apparent_magnitude: 5.97
@@ -3088,7 +3088,7 @@ stars:
     distance: 168.40
     spectral_class: DQ + F7V
   - name:
-    designation: 1036 Noniashad
+    designation: <a href="1036_noniashad.html">1036 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 38.73<sup>s</sup>
     dec: -61° 42' 55.32"
     apparent_magnitude: 5.97
@@ -3104,7 +3104,7 @@ stars:
     distance: 371.06
     spectral_class: A2V
   - name:
-    designation: 4700 Noniashad
+    designation: <a href="4700_noniashad.html">4700 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 5.03<sup>s</sup>
     dec: -46° 57' 59.25"
     apparent_magnitude: 5.98
@@ -3128,7 +3128,7 @@ stars:
     distance: 416.90
     spectral_class: A4V
   - name:
-    designation: 4687 Noniashad
+    designation: <a href="4687_noniashad.html">4687 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 54.58<sup>s</sup>
     dec: -50° 02' 38.87"
     apparent_magnitude: 5.98
@@ -3136,7 +3136,7 @@ stars:
     distance: 82.91
     spectral_class: M2V
   - name:
-    designation: 0031 Noniashad
+    designation: <a href="0031_noniashad.html">0031 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 28.31<sup>s</sup>
     dec: -47° 14' 20.85"
     apparent_magnitude: 5.98
@@ -3192,7 +3192,7 @@ stars:
     distance: 427.75
     spectral_class: A5V
   - name:
-    designation: 1322 Noniashad
+    designation: <a href="1322_noniashad.html">1322 Noniashad</a>
     ra: 17<sup>h</sup> 58<sup>m</sup> 47.05<sup>s</sup>
     dec: -50° 31' 48.49"
     apparent_magnitude: 6.00
@@ -3256,7 +3256,7 @@ stars:
     distance: 698.29
     spectral_class: A4III
   - name:
-    designation: 5578 Noniashad
+    designation: <a href="5578_noniashad.html">5578 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 23.51<sup>s</sup>
     dec: -50° 13' 18.56"
     apparent_magnitude: 6.01
@@ -3280,7 +3280,7 @@ stars:
     distance: 473.96
     spectral_class: A4V
   - name:
-    designation: 1136 Noniashad
+    designation: <a href="1136_noniashad.html">1136 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 39.33<sup>s</sup>
     dec: -46° 40' 36.17"
     apparent_magnitude: 6.01
@@ -3288,7 +3288,7 @@ stars:
     distance: 415.49
     spectral_class: A6V
   - name:
-    designation: 42 Noniashad
+    designation: <a href="42_noniashad.html">42 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 41.21<sup>s</sup>
     dec: -48° 32' 20.44"
     apparent_magnitude: 6.02
@@ -3304,7 +3304,7 @@ stars:
     distance: 800.64
     spectral_class: A4III
   - name:
-    designation: 5175 Noniashad
+    designation: <a href="5175_noniashad.html">5175 Noniashad</a>
     ra: 17<sup>h</sup> 40<sup>m</sup> 15.08<sup>s</sup>
     dec: -58° 20' 53.08"
     apparent_magnitude: 6.02
@@ -3328,7 +3328,7 @@ stars:
     distance: 374.04
     spectral_class: M8Ib
   - name:
-    designation: 0010 Noniashad
+    designation: <a href="0010_noniashad.html">0010 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 45.67<sup>s</sup>
     dec: -61° 49' 44.23"
     apparent_magnitude: 6.02
@@ -3512,7 +3512,7 @@ stars:
     distance: 164.60
     spectral_class: G4III
   - name:
-    designation: 4663 Noniashad
+    designation: <a href="4663_noniashad.html">4663 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 25.05<sup>s</sup>
     dec: -56° 44' 44.22"
     apparent_magnitude: 6.07
@@ -3536,7 +3536,7 @@ stars:
     distance: 429.41
     spectral_class: G9III + A4V
   - name:
-    designation: 43 Noniashad
+    designation: <a href="43_noniashad.html">43 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 53.85<sup>s</sup>
     dec: -49° 32' 24.54"
     apparent_magnitude: 6.07
@@ -3544,7 +3544,7 @@ stars:
     distance: 257.53
     spectral_class: G6V
   - name:
-    designation: 4884 Noniashad
+    designation: <a href="4884_noniashad.html">4884 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 31.80<sup>s</sup>
     dec: -57° 31' 1.39"
     apparent_magnitude: 6.08
@@ -3624,7 +3624,7 @@ stars:
     distance: 140.78
     spectral_class: G1V
   - name:
-    designation: 3955 Noniashad
+    designation: <a href="3955_noniashad.html">3955 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 17.93<sup>s</sup>
     dec: -59° 15' 57.50"
     apparent_magnitude: 6.09
@@ -3648,7 +3648,7 @@ stars:
     distance: 408.42
     spectral_class: A7V
   - name:
-    designation: 4852 Noniashad
+    designation: <a href="4852_noniashad.html">4852 Noniashad</a>
     ra: 17<sup>h</sup> 40<sup>m</sup> 54.45<sup>s</sup>
     dec: -53° 31' 24.26"
     apparent_magnitude: 6.09
@@ -3664,7 +3664,7 @@ stars:
     distance: 185.93
     spectral_class: DQ + F4V
   - name:
-    designation: 4680 Noniashad
+    designation: <a href="4680_noniashad.html">4680 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 11.48<sup>s</sup>
     dec: -49° 56' 30.46"
     apparent_magnitude: 6.09
@@ -3744,7 +3744,7 @@ stars:
     distance: 356.31
     spectral_class: F1III
   - name:
-    designation: 4599 Noniashad
+    designation: <a href="4599_noniashad.html">4599 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 4.44<sup>s</sup>
     dec: -46° 56' 24.06"
     apparent_magnitude: 6.11
@@ -3752,7 +3752,7 @@ stars:
     distance: 356.19
     spectral_class: A5V
   - name:
-    designation: 5180 Noniashad
+    designation: <a href="5180_noniashad.html">5180 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 18.90<sup>s</sup>
     dec: -51° 09' 31.79"
     apparent_magnitude: 6.11
@@ -3768,7 +3768,7 @@ stars:
     distance: 406.93
     spectral_class: M9V + F6V
   - name:
-    designation: 5107 Noniashad
+    designation: <a href="5107_noniashad.html">5107 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 11.20<sup>s</sup>
     dec: -58° 16' 26.35"
     apparent_magnitude: 6.12
@@ -3816,7 +3816,7 @@ stars:
     distance: 369.54
     spectral_class: A2V
   - name:
-    designation: 5378 Noniashad
+    designation: <a href="5378_noniashad.html">5378 Noniashad</a>
     ra: 17<sup>h</sup> 39<sup>m</sup> 44.79<sup>s</sup>
     dec: -62° 24' 27.64"
     apparent_magnitude: 6.12
@@ -3824,7 +3824,7 @@ stars:
     distance: 248.63
     spectral_class: A6V
   - name:
-    designation: 1315 Noniashad
+    designation: <a href="1315_noniashad.html">1315 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 20.49<sup>s</sup>
     dec: -58° 31' 41.25"
     apparent_magnitude: 6.12
@@ -3840,7 +3840,7 @@ stars:
     distance: 423.15
     spectral_class: A5V
   - name:
-    designation: 2366 Noniashad
+    designation: <a href="2366_noniashad.html">2366 Noniashad</a>
     ra: 17<sup>h</sup> 32<sup>m</sup> 41.68<sup>s</sup>
     dec: -47° 24' 42.55"
     apparent_magnitude: 6.13
@@ -3912,7 +3912,7 @@ stars:
     distance: 349.59
     spectral_class: G6V + K6V + F5V
   - name:
-    designation: 5178 Noniashad
+    designation: <a href="5178_noniashad.html">5178 Noniashad</a>
     ra: 17<sup>h</sup> 31<sup>m</sup> 43.71<sup>s</sup>
     dec: -55° 11' 32.77"
     apparent_magnitude: 6.15
@@ -3920,7 +3920,7 @@ stars:
     distance: 179.86
     spectral_class: F3V
   - name:
-    designation: 5550 Noniashad
+    designation: <a href="5550_noniashad.html">5550 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 14.43<sup>s</sup>
     dec: -60° 05' 48.89"
     apparent_magnitude: 6.15
@@ -3944,7 +3944,7 @@ stars:
     distance: 812.56
     spectral_class: A5III
   - name:
-    designation: 4676 Noniashad
+    designation: <a href="4676_noniashad.html">4676 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 48.17<sup>s</sup>
     dec: -61° 40' 22.66"
     apparent_magnitude: 6.16
@@ -3984,7 +3984,7 @@ stars:
     distance: 431.34
     spectral_class: A4V
   - name:
-    designation: 5093 Noniashad
+    designation: <a href="5093_noniashad.html">5093 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 53.86<sup>s</sup>
     dec: -65° 30' 19.48"
     apparent_magnitude: 6.17
@@ -4016,7 +4016,7 @@ stars:
     distance: 426.16
     spectral_class: F6III
   - name:
-    designation: 4710 Noniashad
+    designation: <a href="4710_noniashad.html">4710 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 28.03<sup>s</sup>
     dec: -48° 37' 2.82"
     apparent_magnitude: 6.18
@@ -4056,7 +4056,7 @@ stars:
     distance: 387.53
     spectral_class: F1III
   - name:
-    designation: 4203 Noniashad
+    designation: <a href="4203_noniashad.html">4203 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 35.67<sup>s</sup>
     dec: -60° 27' 52.89"
     apparent_magnitude: 6.19
@@ -4072,7 +4072,7 @@ stars:
     distance: 286.45
     spectral_class: F3V + K6III
   - name:
-    designation: 3962 Noniashad
+    designation: <a href="3962_noniashad.html">3962 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 43.56<sup>s</sup>
     dec: -57° 42' 38.98"
     apparent_magnitude: 6.19
@@ -4112,7 +4112,7 @@ stars:
     distance: 223.00
     spectral_class: G6III
   - name:
-    designation: 4982 Noniashad
+    designation: <a href="4982_noniashad.html">4982 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 42.72<sup>s</sup>
     dec: -58° 13' 52.79"
     apparent_magnitude: 6.20
@@ -4160,7 +4160,7 @@ stars:
     distance: 200.68
     spectral_class: G4V + F2V
   - name:
-    designation: 0018 Noniashad
+    designation: <a href="0018_noniashad.html">0018 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 34.53<sup>s</sup>
     dec: -53° 39' 30.23"
     apparent_magnitude: 6.21
@@ -4200,7 +4200,7 @@ stars:
     distance: 433.41
     spectral_class: A5V
   - name:
-    designation: 1326 Noniashad
+    designation: <a href="1326_noniashad.html">1326 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 36.76<sup>s</sup>
     dec: -57° 02' 27.55"
     apparent_magnitude: 6.23
@@ -4216,7 +4216,7 @@ stars:
     distance: 373.30
     spectral_class: F1III
   - name:
-    designation: 1041 Noniashad
+    designation: <a href="1041_noniashad.html">1041 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 47.65<sup>s</sup>
     dec: -61° 45' 16.65"
     apparent_magnitude: 6.23
@@ -4232,7 +4232,7 @@ stars:
     distance: 390.04
     spectral_class: F4V + A4V
   - name:
-    designation: 4298 Noniashad
+    designation: <a href="4298_noniashad.html">4298 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 12.56<sup>s</sup>
     dec: -60° 45' 33.09"
     apparent_magnitude: 6.24
@@ -4272,7 +4272,7 @@ stars:
     distance: 427.01
     spectral_class: A8III
   - name:
-    designation: 4916 Noniashad
+    designation: <a href="4916_noniashad.html">4916 Noniashad</a>
     ra: 17<sup>h</sup> 45<sup>m</sup> 19.29<sup>s</sup>
     dec: -63° 05' 26.35"
     apparent_magnitude: 6.25
@@ -4352,7 +4352,7 @@ stars:
     distance: 186.20
     spectral_class: M8Iab
   - name:
-    designation: 5559 Noniashad
+    designation: <a href="5559_noniashad.html">5559 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 8.90<sup>s</sup>
     dec: -50° 31' 58.20"
     apparent_magnitude: 6.26
@@ -4376,7 +4376,7 @@ stars:
     distance: 201.84
     spectral_class: A9V
   - name:
-    designation: 4677 Noniashad
+    designation: <a href="4677_noniashad.html">4677 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 53.20<sup>s</sup>
     dec: -62° 04' 26.99"
     apparent_magnitude: 6.27
@@ -4440,7 +4440,7 @@ stars:
     distance: 425.24
     spectral_class: A9III
   - name:
-    designation: 3428 Noniashad
+    designation: <a href="3428_noniashad.html">3428 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 15.68<sup>s</sup>
     dec: -52° 09' 41.53"
     apparent_magnitude: 6.28
@@ -4472,7 +4472,7 @@ stars:
     distance: 492.18
     spectral_class: A5IV
   - name:
-    designation: ω Noniashad
+    designation: <a href="ω_noniashad.html">ω Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 1.46<sup>s</sup>
     dec: -68° 38' 16.52"
     apparent_magnitude: 6.28
@@ -4656,7 +4656,7 @@ stars:
     distance: 129.66
     spectral_class: M9III + G3V
   - name:
-    designation: 4336 Noniashad
+    designation: <a href="4336_noniashad.html">4336 Noniashad</a>
     ra: 17<sup>h</sup> 59<sup>m</sup> 1.33<sup>s</sup>
     dec: -53° 35' 8.68"
     apparent_magnitude: 6.32
@@ -4664,7 +4664,7 @@ stars:
     distance: 486.21
     spectral_class: A1V
   - name:
-    designation: 4751 Noniashad
+    designation: <a href="4751_noniashad.html">4751 Noniashad</a>
     ra: 17<sup>h</sup> 20<sup>m</sup> 16.80<sup>s</sup>
     dec: -51° 31' 33.60"
     apparent_magnitude: 6.33
@@ -4720,7 +4720,7 @@ stars:
     distance: 412.31
     spectral_class: A6V
   - name:
-    designation: 3698 Noniashad
+    designation: <a href="3698_noniashad.html">3698 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 23.78<sup>s</sup>
     dec: -55° 33' 55.55"
     apparent_magnitude: 6.34
@@ -4728,7 +4728,7 @@ stars:
     distance: 474.49
     spectral_class: A1V
   - name:
-    designation: 5460 Noniashad
+    designation: <a href="5460_noniashad.html">5460 Noniashad</a>
     ra: 17<sup>h</sup> 33<sup>m</sup> 39.29<sup>s</sup>
     dec: -48° 02' 15.54"
     apparent_magnitude: 6.34
@@ -4752,7 +4752,7 @@ stars:
     distance: 158.94
     spectral_class: K7II
   - name:
-    designation: 4785 Noniashad
+    designation: <a href="4785_noniashad.html">4785 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 18.04<sup>s</sup>
     dec: -47° 50' 1.19"
     apparent_magnitude: 6.34
@@ -4776,7 +4776,7 @@ stars:
     distance: 617.14
     spectral_class: M1Ib
   - name:
-    designation: 3784 Noniashad
+    designation: <a href="3784_noniashad.html">3784 Noniashad</a>
     ra: 17<sup>h</sup> 17<sup>m</sup> 27.79<sup>s</sup>
     dec: -56° 33' 51.55"
     apparent_magnitude: 6.34
@@ -4792,7 +4792,7 @@ stars:
     distance: 417.70
     spectral_class: G2III
   - name:
-    designation: 1114 Noniashad
+    designation: <a href="1114_noniashad.html">1114 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 57.33<sup>s</sup>
     dec: -57° 53' 40.49"
     apparent_magnitude: 6.34
@@ -4864,7 +4864,7 @@ stars:
     distance: 548.77
     spectral_class: K8Ib
   - name:
-    designation: 1330 Noniashad
+    designation: <a href="1330_noniashad.html">1330 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 29.13<sup>s</sup>
     dec: -55° 27' 50.81"
     apparent_magnitude: 6.36
@@ -4880,7 +4880,7 @@ stars:
     distance: 202.33
     spectral_class: K9II
   - name:
-    designation: 4697 Noniashad
+    designation: <a href="4697_noniashad.html">4697 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 35.66<sup>s</sup>
     dec: -47° 00' 12.53"
     apparent_magnitude: 6.36
@@ -4896,7 +4896,7 @@ stars:
     distance: 349.37
     spectral_class: F6IV
   - name:
-    designation: 1097 Noniashad
+    designation: <a href="1097_noniashad.html">1097 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 14.51<sup>s</sup>
     dec: -58° 35' 16.05"
     apparent_magnitude: 6.37
@@ -4912,7 +4912,7 @@ stars:
     distance: 524.08
     spectral_class: A7III + K4III
   - name:
-    designation: 914 Noniashad
+    designation: <a href="914_noniashad.html">914 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 0.17<sup>s</sup>
     dec: -55° 06' 15.12"
     apparent_magnitude: 6.37
@@ -4920,7 +4920,7 @@ stars:
     distance: 493.27
     spectral_class: A1V
   - name:
-    designation: 4593 Noniashad
+    designation: <a href="4593_noniashad.html">4593 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 26.42<sup>s</sup>
     dec: -56° 02' 2.39"
     apparent_magnitude: 6.37
@@ -4944,7 +4944,7 @@ stars:
     distance: 301.29
     spectral_class: A1V + K8III + K4III
   - name:
-    designation: 4429 Noniashad
+    designation: <a href="4429_noniashad.html">4429 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 19.05<sup>s</sup>
     dec: -49° 03' 20.11"
     apparent_magnitude: 6.37
@@ -4992,7 +4992,7 @@ stars:
     distance: 454.75
     spectral_class: A9V + K8III + A5V
   - name:
-    designation: 4108 Noniashad
+    designation: <a href="4108_noniashad.html">4108 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 17.58<sup>s</sup>
     dec: -67° 36' 31.41"
     apparent_magnitude: 6.38
@@ -5000,7 +5000,7 @@ stars:
     distance: 440.83
     spectral_class: A5V
   - name:
-    designation: 4592 Noniashad
+    designation: <a href="4592_noniashad.html">4592 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 20.04<sup>s</sup>
     dec: -53° 47' 51.90"
     apparent_magnitude: 6.39
@@ -5016,7 +5016,7 @@ stars:
     distance: 374.07
     spectral_class: F3V + F8III
   - name:
-    designation: 4314 Noniashad
+    designation: <a href="4314_noniashad.html">4314 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 58.38<sup>s</sup>
     dec: -63° 10' 32.11"
     apparent_magnitude: 6.39
@@ -5032,7 +5032,7 @@ stars:
     distance: 445.54
     spectral_class: G6V + A3V
   - name:
-    designation: 4317 Noniashad
+    designation: <a href="4317_noniashad.html">4317 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 11.24<sup>s</sup>
     dec: -59° 31' 15.85"
     apparent_magnitude: 6.39
@@ -5072,7 +5072,7 @@ stars:
     distance: 144.42
     spectral_class: A8V
   - name:
-    designation: 2251 Noniashad
+    designation: <a href="2251_noniashad.html">2251 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 36.62<sup>s</sup>
     dec: -64° 23' 45.80"
     apparent_magnitude: 6.40
@@ -5120,7 +5120,7 @@ stars:
     distance: 528.16
     spectral_class: F3III
   - name:
-    designation: 4595 Noniashad
+    designation: <a href="4595_noniashad.html">4595 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 41.22<sup>s</sup>
     dec: -54° 08' 21.99"
     apparent_magnitude: 6.40
@@ -5136,7 +5136,7 @@ stars:
     distance: 479.66
     spectral_class: M6Iab
   - name:
-    designation: 0037 Noniashad
+    designation: <a href="0037_noniashad.html">0037 Noniashad</a>
     ra: 17<sup>h</sup> 48<sup>m</sup> 26.05<sup>s</sup>
     dec: -48° 48' 49.03"
     apparent_magnitude: 6.41
@@ -5208,7 +5208,7 @@ stars:
     distance: 435.84
     spectral_class: G9V + A4V
   - name:
-    designation: 3961 Noniashad
+    designation: <a href="3961_noniashad.html">3961 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 40.12<sup>s</sup>
     dec: -50° 51' 7.03"
     apparent_magnitude: 6.43
@@ -5240,7 +5240,7 @@ stars:
     distance: 382.97
     spectral_class: M9III + G3V
   - name:
-    designation: 1022 Noniashad
+    designation: <a href="1022_noniashad.html">1022 Noniashad</a>
     ra: 16<sup>h</sup> 56<sup>m</sup> 6.45<sup>s</sup>
     dec: -55° 21' 36.03"
     apparent_magnitude: 6.43
@@ -5248,7 +5248,7 @@ stars:
     distance: 432.85
     spectral_class: G2V + F4V + G7V + A6V
   - name:
-    designation: 3297 Noniashad
+    designation: <a href="3297_noniashad.html">3297 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 25.40<sup>s</sup>
     dec: -60° 53' 11.13"
     apparent_magnitude: 6.44
@@ -5280,7 +5280,7 @@ stars:
     distance: 305.56
     spectral_class: F2V + A3V
   - name:
-    designation: 4732 Noniashad
+    designation: <a href="4732_noniashad.html">4732 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 37.03<sup>s</sup>
     dec: -49° 28' 31.82"
     apparent_magnitude: 6.44
@@ -5368,7 +5368,7 @@ stars:
     distance: 317.23
     spectral_class: G5II
   - name:
-    designation: 4332 Noniashad
+    designation: <a href="4332_noniashad.html">4332 Noniashad</a>
     ra: 17<sup>h</sup> 24<sup>m</sup> 57.05<sup>s</sup>
     dec: -57° 16' 19.49"
     apparent_magnitude: 6.45
@@ -5440,7 +5440,7 @@ stars:
     distance: 384.07
     spectral_class: G6V + A9V
   - name:
-    designation: 3572 Noniashad
+    designation: <a href="3572_noniashad.html">3572 Noniashad</a>
     ra: 17<sup>h</sup> 39<sup>m</sup> 36.78<sup>s</sup>
     dec: -63° 39' 6.82"
     apparent_magnitude: 6.46
@@ -5496,7 +5496,7 @@ stars:
     distance: 196.40
     spectral_class: G6V + A9V
   - name:
-    designation: 5483 Noniashad
+    designation: <a href="5483_noniashad.html">5483 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 8.48<sup>s</sup>
     dec: -52° 25' 30.14"
     apparent_magnitude: 6.47
@@ -5520,7 +5520,7 @@ stars:
     distance: 531.59
     spectral_class: DA + F1II
   - name:
-    designation: 4783 Noniashad
+    designation: <a href="4783_noniashad.html">4783 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 1.17<sup>s</sup>
     dec: -47° 54' 22.45"
     apparent_magnitude: 6.47
@@ -5584,7 +5584,7 @@ stars:
     distance: 567.59
     spectral_class: A4IV
   - name:
-    designation: 3798 Noniashad
+    designation: <a href="3798_noniashad.html">3798 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 5.58<sup>s</sup>
     dec: -57° 45' 38.12"
     apparent_magnitude: 6.48
@@ -5616,7 +5616,7 @@ stars:
     distance: 399.55
     spectral_class: K8III + K7II
   - name:
-    designation: 1089 Noniashad
+    designation: <a href="1089_noniashad.html">1089 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 45.13<sup>s</sup>
     dec: -58° 30' 25.47"
     apparent_magnitude: 6.48
@@ -5664,7 +5664,7 @@ stars:
     distance: 931.69
     spectral_class: A5III
   - name:
-    designation: 3824 Noniashad
+    designation: <a href="3824_noniashad.html">3824 Noniashad</a>
     ra: 17<sup>h</sup> 50<sup>m</sup> 54.38<sup>s</sup>
     dec: -48° 21' 29.33"
     apparent_magnitude: 6.49
@@ -5672,7 +5672,7 @@ stars:
     distance: 485.21
     spectral_class: A1V
   - name:
-    designation: 4422 Noniashad
+    designation: <a href="4422_noniashad.html">4422 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 43.68<sup>s</sup>
     dec: -55° 51' 39.95"
     apparent_magnitude: 6.49
@@ -5680,7 +5680,7 @@ stars:
     distance: 439.11
     spectral_class: M9Iab
   - name:
-    designation: 5106 Noniashad
+    designation: <a href="5106_noniashad.html">5106 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 37.93<sup>s</sup>
     dec: -58° 33' 55.78"
     apparent_magnitude: 6.49
@@ -5728,7 +5728,7 @@ stars:
     distance: 209.89
     spectral_class: K8II
   - name:
-    designation: 4523 Noniashad
+    designation: <a href="4523_noniashad.html">4523 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 34.83<sup>s</sup>
     dec: -62° 30' 47.81"
     apparent_magnitude: 6.50
@@ -5744,7 +5744,7 @@ stars:
     distance: 389.16
     spectral_class: A9V
   - name:
-    designation: 2895 Noniashad
+    designation: <a href="2895_noniashad.html">2895 Noniashad</a>
     ra: 17<sup>h</sup> 28<sup>m</sup> 24.01<sup>s</sup>
     dec: -55° 44' 5.00"
     apparent_magnitude: 6.50
@@ -5792,7 +5792,7 @@ stars:
     distance: 98.73
     spectral_class: M5III
   - name:
-    designation: 4917 Noniashad
+    designation: <a href="4917_noniashad.html">4917 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 59.59<sup>s</sup>
     dec: -51° 02' 59.91"
     apparent_magnitude: 6.50
@@ -5816,7 +5816,7 @@ stars:
     distance: 522.84
     spectral_class: B9V + A5V
   - name:
-    designation: 3802 Noniashad
+    designation: <a href="3802_noniashad.html">3802 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 34.78<sup>s</sup>
     dec: -53° 50' 56.48"
     apparent_magnitude: 6.51
@@ -5880,7 +5880,7 @@ stars:
     distance: 510.98
     spectral_class: A8III
   - name:
-    designation: 5113 Noniashad
+    designation: <a href="5113_noniashad.html">5113 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 19.74<sup>s</sup>
     dec: -57° 07' 11.59"
     apparent_magnitude: 6.52
@@ -5888,7 +5888,7 @@ stars:
     distance: 194.34
     spectral_class: G6V + K9V + DA + Magnetar + K7III
   - name:
-    designation: 1067 Noniashad
+    designation: <a href="1067_noniashad.html">1067 Noniashad</a>
     ra: 17<sup>h</sup> 19<sup>m</sup> 13.53<sup>s</sup>
     dec: -57° 07' 58.15"
     apparent_magnitude: 6.52
@@ -5928,7 +5928,7 @@ stars:
     distance: 409.64
     spectral_class: F8II
   - name:
-    designation: 731 Noniashad
+    designation: <a href="731_noniashad.html">731 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 35.10<sup>s</sup>
     dec: -62° 11' 29.80"
     apparent_magnitude: 6.53
@@ -5976,7 +5976,7 @@ stars:
     distance: 304.17
     spectral_class: G6V + A9V
   - name:
-    designation: 5116 Noniashad
+    designation: <a href="5116_noniashad.html">5116 Noniashad</a>
     ra: 16<sup>h</sup> 59<sup>m</sup> 17.50<sup>s</sup>
     dec: -51° 32' 30.57"
     apparent_magnitude: 6.53
@@ -6016,7 +6016,7 @@ stars:
     distance: 314.49
     spectral_class: K8III + K7II
   - name:
-    designation: 3440 Noniashad
+    designation: <a href="3440_noniashad.html">3440 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 29.21<sup>s</sup>
     dec: -51° 26' 38.19"
     apparent_magnitude: 6.54
@@ -6040,7 +6040,7 @@ stars:
     distance: 415.04
     spectral_class: G2V + G6V
   - name:
-    designation: 3086 Noniashad
+    designation: <a href="3086_noniashad.html">3086 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 23.81<sup>s</sup>
     dec: -57° 26' 39.99"
     apparent_magnitude: 6.54
@@ -6144,7 +6144,7 @@ stars:
     distance: 408.47
     spectral_class: A9V
   - name:
-    designation: 5404 Noniashad
+    designation: <a href="5404_noniashad.html">5404 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 59.24<sup>s</sup>
     dec: -56° 44' 59.00"
     apparent_magnitude: 6.55
@@ -6176,7 +6176,7 @@ stars:
     distance: 430.01
     spectral_class: K4V + F9III
   - name:
-    designation: 84 Noniashad
+    designation: <a href="84_noniashad.html">84 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 1.50<sup>s</sup>
     dec: -52° 04' 10.40"
     apparent_magnitude: 6.56
@@ -6272,7 +6272,7 @@ stars:
     distance: 481.48
     spectral_class: M6Iab
   - name:
-    designation: 1073 Noniashad
+    designation: <a href="1073_noniashad.html">1073 Noniashad</a>
     ra: 17<sup>h</sup> 41<sup>m</sup> 41.07<sup>s</sup>
     dec: -53° 27' 52.01"
     apparent_magnitude: 6.57
@@ -6288,7 +6288,7 @@ stars:
     distance: 485.63
     spectral_class: F8V + A1V
   - name:
-    designation: 4694 Noniashad
+    designation: <a href="4694_noniashad.html">4694 Noniashad</a>
     ra: 17<sup>h</sup> 51<sup>m</sup> 28.57<sup>s</sup>
     dec: -46° 52' 8.26"
     apparent_magnitude: 6.57
@@ -6312,7 +6312,7 @@ stars:
     distance: 483.54
     spectral_class: G5V + A4V
   - name:
-    designation: 4693 Noniashad
+    designation: <a href="4693_noniashad.html">4693 Noniashad</a>
     ra: 17<sup>h</sup> 47<sup>m</sup> 43.84<sup>s</sup>
     dec: -52° 21' 40.40"
     apparent_magnitude: 6.58
@@ -6384,7 +6384,7 @@ stars:
     distance: 392.67
     spectral_class: K8III + K7II
   - name:
-    designation: 3859 Noniashad
+    designation: <a href="3859_noniashad.html">3859 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 51.57<sup>s</sup>
     dec: -56° 10' 47.32"
     apparent_magnitude: 6.58
@@ -6416,7 +6416,7 @@ stars:
     distance: 411.04
     spectral_class: A9III
   - name:
-    designation: 4410 Noniashad
+    designation: <a href="4410_noniashad.html">4410 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 32.21<sup>s</sup>
     dec: -56° 29' 41.86"
     apparent_magnitude: 6.59
@@ -6424,7 +6424,7 @@ stars:
     distance: 455.07
     spectral_class: A6V
   - name:
-    designation: 1131 Noniashad
+    designation: <a href="1131_noniashad.html">1131 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 19.65<sup>s</sup>
     dec: -55° 25' 38.30"
     apparent_magnitude: 6.59
@@ -6528,7 +6528,7 @@ stars:
     distance: 434.19
     spectral_class: K7II
   - name:
-    designation: 5558 Noniashad
+    designation: <a href="5558_noniashad.html">5558 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 40.82<sup>s</sup>
     dec: -50° 54' 20.51"
     apparent_magnitude: 6.61
@@ -6544,7 +6544,7 @@ stars:
     distance: 568.28
     spectral_class: F2III
   - name:
-    designation: 1176 Noniashad
+    designation: <a href="1176_noniashad.html">1176 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 48.36<sup>s</sup>
     dec: -55° 37' 56.26"
     apparent_magnitude: 6.61
@@ -6576,7 +6576,7 @@ stars:
     distance: 462.37
     spectral_class: K4V + F0IV
   - name:
-    designation: 3818 Noniashad
+    designation: <a href="3818_noniashad.html">3818 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 45.78<sup>s</sup>
     dec: -52° 08' 8.79"
     apparent_magnitude: 6.61
@@ -6584,7 +6584,7 @@ stars:
     distance: 474.87
     spectral_class: F7V + G8V + A4V
   - name:
-    designation: 5240 Noniashad
+    designation: <a href="5240_noniashad.html">5240 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 1.10<sup>s</sup>
     dec: -62° 32' 58.66"
     apparent_magnitude: 6.61
@@ -6680,7 +6680,7 @@ stars:
     distance: 409.74
     spectral_class: A8V
   - name:
-    designation: 3892 Noniashad
+    designation: <a href="3892_noniashad.html">3892 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 58.89<sup>s</sup>
     dec: -49° 51' 9.27"
     apparent_magnitude: 6.63
@@ -6744,7 +6744,7 @@ stars:
     distance: 443.08
     spectral_class: G9V + A4V
   - name:
-    designation: 5145 Noniashad
+    designation: <a href="5145_noniashad.html">5145 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 35.60<sup>s</sup>
     dec: -50° 09' 26.55"
     apparent_magnitude: 6.64
@@ -6816,7 +6816,7 @@ stars:
     distance: 259.79
     spectral_class: DB + K1IV
   - name:
-    designation: 4671 Noniashad
+    designation: <a href="4671_noniashad.html">4671 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 34.89<sup>s</sup>
     dec: -50° 36' 29.84"
     apparent_magnitude: 6.65
@@ -6832,7 +6832,7 @@ stars:
     distance: 416.78
     spectral_class: A7V
   - name:
-    designation: 98 Noniashad
+    designation: <a href="98_noniashad.html">98 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 27.22<sup>s</sup>
     dec: -51° 19' 33.82"
     apparent_magnitude: 6.65
@@ -6840,7 +6840,7 @@ stars:
     distance: 317.23
     spectral_class: G6V
   - name:
-    designation: 4770 Noniashad
+    designation: <a href="4770_noniashad.html">4770 Noniashad</a>
     ra: 17<sup>h</sup> 11<sup>m</sup> 24.48<sup>s</sup>
     dec: -50° 02' 13.06"
     apparent_magnitude: 6.65
@@ -6856,7 +6856,7 @@ stars:
     distance: 266.03
     spectral_class: K4V + A9V
   - name:
-    designation: 3229 Noniashad
+    designation: <a href="3229_noniashad.html">3229 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 26.85<sup>s</sup>
     dec: -46° 22' 6.65"
     apparent_magnitude: 6.65
@@ -6904,7 +6904,7 @@ stars:
     distance: 242.84
     spectral_class: A7V
   - name:
-    designation: 749 Noniashad
+    designation: <a href="749_noniashad.html">749 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 44.80<sup>s</sup>
     dec: -60° 12' 50.64"
     apparent_magnitude: 6.65
@@ -7024,7 +7024,7 @@ stars:
     distance: 423.72
     spectral_class: G3V + F6V
   - name:
-    designation: 3979 Noniashad
+    designation: <a href="3979_noniashad.html">3979 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 35.82<sup>s</sup>
     dec: -58° 07' 16.40"
     apparent_magnitude: 6.67
@@ -7040,7 +7040,7 @@ stars:
     distance: 428.29
     spectral_class: K4II
   - name:
-    designation: 5561 Noniashad
+    designation: <a href="5561_noniashad.html">5561 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 11.19<sup>s</sup>
     dec: -48° 58' 41.47"
     apparent_magnitude: 6.67
@@ -7048,7 +7048,7 @@ stars:
     distance: 151.27
     spectral_class: G6V + K9V + DA + Magnetar + K7III
   - name:
-    designation: 5401 Noniashad
+    designation: <a href="5401_noniashad.html">5401 Noniashad</a>
     ra: 17<sup>h</sup> 34<sup>m</sup> 0.43<sup>s</sup>
     dec: -51° 29' 13.91"
     apparent_magnitude: 6.67
@@ -7056,7 +7056,7 @@ stars:
     distance: 300.27
     spectral_class: A5V
   - name:
-    designation: 3801 Noniashad
+    designation: <a href="3801_noniashad.html">3801 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 12.01<sup>s</sup>
     dec: -59° 01' 22.31"
     apparent_magnitude: 6.67
@@ -7080,7 +7080,7 @@ stars:
     distance: 348.50
     spectral_class: K4V + F9III
   - name:
-    designation: 3586 Noniashad
+    designation: <a href="3586_noniashad.html">3586 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 28.04<sup>s</sup>
     dec: -61° 56' 13.54"
     apparent_magnitude: 6.67
@@ -7104,7 +7104,7 @@ stars:
     distance: 411.51
     spectral_class: F6V
   - name:
-    designation: 1095 Noniashad
+    designation: <a href="1095_noniashad.html">1095 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 10.71<sup>s</sup>
     dec: -51° 53' 34.74"
     apparent_magnitude: 6.68
@@ -7128,7 +7128,7 @@ stars:
     distance: 515.74
     spectral_class: G0II
   - name:
-    designation: 1348 Noniashad
+    designation: <a href="1348_noniashad.html">1348 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 16.25<sup>s</sup>
     dec: -57° 36' 26.83"
     apparent_magnitude: 6.68
@@ -7136,7 +7136,7 @@ stars:
     distance: 522.04
     spectral_class: A0V
   - name:
-    designation: 1220 Noniashad
+    designation: <a href="1220_noniashad.html">1220 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 19.19<sup>s</sup>
     dec: -49° 35' 50.10"
     apparent_magnitude: 6.68
@@ -7168,7 +7168,7 @@ stars:
     distance: 202.53
     spectral_class: K7II
   - name:
-    designation: 1066 Noniashad
+    designation: <a href="1066_noniashad.html">1066 Noniashad</a>
     ra: 17<sup>h</sup> 54<sup>m</sup> 34.02<sup>s</sup>
     dec: -51° 55' 47.11"
     apparent_magnitude: 6.69
@@ -7240,7 +7240,7 @@ stars:
     distance: 398.68
     spectral_class: K8III
   - name:
-    designation: 1071 Noniashad
+    designation: <a href="1071_noniashad.html">1071 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 43.26<sup>s</sup>
     dec: -58° 19' 59.62"
     apparent_magnitude: 6.70
@@ -7256,7 +7256,7 @@ stars:
     distance: 237.61
     spectral_class: F9III
   - name:
-    designation: 751 Noniashad
+    designation: <a href="751_noniashad.html">751 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 17.80<sup>s</sup>
     dec: -61° 06' 13.02"
     apparent_magnitude: 6.70
@@ -7280,7 +7280,7 @@ stars:
     distance: 583.82
     spectral_class: F5V + A9II
   - name:
-    designation: 4080 Noniashad
+    designation: <a href="4080_noniashad.html">4080 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 9.69<sup>s</sup>
     dec: -68° 23' 50.64"
     apparent_magnitude: 6.70
@@ -7424,7 +7424,7 @@ stars:
     distance: 531.59
     spectral_class: K7V + F6II
   - name:
-    designation: 4115 Noniashad
+    designation: <a href="4115_noniashad.html">4115 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 51.98<sup>s</sup>
     dec: -62° 02' 8.06"
     apparent_magnitude: 6.73
@@ -7456,7 +7456,7 @@ stars:
     distance: 420.48
     spectral_class: M8V + M4V + F1V + DZ + G3V
   - name:
-    designation: 3880 Noniashad
+    designation: <a href="3880_noniashad.html">3880 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 5.32<sup>s</sup>
     dec: -50° 47' 36.82"
     apparent_magnitude: 6.73
@@ -7520,7 +7520,7 @@ stars:
     distance: 252.55
     spectral_class: G6V + A8V
   - name:
-    designation: 5440 Noniashad
+    designation: <a href="5440_noniashad.html">5440 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 57.26<sup>s</sup>
     dec: -53° 11' 20.01"
     apparent_magnitude: 6.74
@@ -7544,7 +7544,7 @@ stars:
     distance: 520.56
     spectral_class: G0II
   - name:
-    designation: 4063 Noniashad
+    designation: <a href="4063_noniashad.html">4063 Noniashad</a>
     ra: 17<sup>h</sup> 10<sup>m</sup> 56.68<sup>s</sup>
     dec: -67° 53' 36.18"
     apparent_magnitude: 6.75
@@ -7640,7 +7640,7 @@ stars:
     distance: 3,085.71
     spectral_class: A5III + B5V + DB + K7Ib
   - name:
-    designation: 3544 Noniashad
+    designation: <a href="3544_noniashad.html">3544 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 18.78<sup>s</sup>
     dec: -63° 24' 10.86"
     apparent_magnitude: 6.75
@@ -7656,7 +7656,7 @@ stars:
     distance: 339.65
     spectral_class: A9V + K8III + A5V
   - name:
-    designation: 3701 Noniashad
+    designation: <a href="3701_noniashad.html">3701 Noniashad</a>
     ra: 18<sup>h</sup> 00<sup>m</sup> 14.50<sup>s</sup>
     dec: -54° 00' 39.47"
     apparent_magnitude: 6.75
@@ -7792,7 +7792,7 @@ stars:
     distance: 474.74
     spectral_class: A7IV
   - name:
-    designation: 5104 Noniashad
+    designation: <a href="5104_noniashad.html">5104 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 4.48<sup>s</sup>
     dec: -58° 24' 17.61"
     apparent_magnitude: 6.77
@@ -7816,7 +7816,7 @@ stars:
     distance: 378.26
     spectral_class: A8III
   - name:
-    designation: 5322 Noniashad
+    designation: <a href="5322_noniashad.html">5322 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 19.35<sup>s</sup>
     dec: -47° 52' 57.81"
     apparent_magnitude: 6.77
@@ -7856,7 +7856,7 @@ stars:
     distance: 505.39
     spectral_class: A2V
   - name:
-    designation: 1113 Noniashad
+    designation: <a href="1113_noniashad.html">1113 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 9.20<sup>s</sup>
     dec: -57° 43' 2.51"
     apparent_magnitude: 6.77
@@ -7888,7 +7888,7 @@ stars:
     distance: 490.36
     spectral_class: A2V
   - name:
-    designation: 675 Noniashad
+    designation: <a href="675_noniashad.html">675 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 17.71<sup>s</sup>
     dec: -62° 31' 52.77"
     apparent_magnitude: 6.77
@@ -7960,7 +7960,7 @@ stars:
     distance: 283.24
     spectral_class: G6V + A5V
   - name:
-    designation: 1206 Noniashad
+    designation: <a href="1206_noniashad.html">1206 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 3.34<sup>s</sup>
     dec: -50° 29' 33.56"
     apparent_magnitude: 6.78
@@ -8128,7 +8128,7 @@ stars:
     distance: 202.75
     spectral_class: F9V + G2V
   - name:
-    designation: 5437 Noniashad
+    designation: <a href="5437_noniashad.html">5437 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 22.50<sup>s</sup>
     dec: -54° 38' 44.34"
     apparent_magnitude: 6.80
@@ -8208,7 +8208,7 @@ stars:
     distance: 168.11
     spectral_class: K1V + F4V
   - name:
-    designation: 686 Noniashad
+    designation: <a href="686_noniashad.html">686 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 29.88<sup>s</sup>
     dec: -60° 12' 28.62"
     apparent_magnitude: 6.80
@@ -8256,7 +8256,7 @@ stars:
     distance: 489.81
     spectral_class: G1V + A6V
   - name:
-    designation: 958 Noniashad
+    designation: <a href="958_noniashad.html">958 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 44.37<sup>s</sup>
     dec: -54° 59' 4.13"
     apparent_magnitude: 6.81
@@ -8272,7 +8272,7 @@ stars:
     distance: 2,008.34
     spectral_class: K7III + B7V
   - name:
-    designation: 5230 Noniashad
+    designation: <a href="5230_noniashad.html">5230 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 49.01<sup>s</sup>
     dec: -57° 48' 50.64"
     apparent_magnitude: 6.81
@@ -8288,7 +8288,7 @@ stars:
     distance: 448.76
     spectral_class: A6V
   - name:
-    designation: 3404 Noniashad
+    designation: <a href="3404_noniashad.html">3404 Noniashad</a>
     ra: 17<sup>h</sup> 40<sup>m</sup> 26.23<sup>s</sup>
     dec: -48° 33' 18.88"
     apparent_magnitude: 6.81
@@ -8296,7 +8296,7 @@ stars:
     distance: 449.91
     spectral_class: F2III
   - name:
-    designation: 3266 Noniashad
+    designation: <a href="3266_noniashad.html">3266 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 32.25<sup>s</sup>
     dec: -61° 58' 12.32"
     apparent_magnitude: 6.81
@@ -8376,7 +8376,7 @@ stars:
     distance: 524.67
     spectral_class: A2V
   - name:
-    designation: 122 Noniashad
+    designation: <a href="122_noniashad.html">122 Noniashad</a>
     ra: 17<sup>h</sup> 53<sup>m</sup> 40.94<sup>s</sup>
     dec: -60° 52' 2.41"
     apparent_magnitude: 6.82
@@ -8432,7 +8432,7 @@ stars:
     distance: 505.57
     spectral_class: M8III + A2V
   - name:
-    designation: 1001 Noniashad
+    designation: <a href="1001_noniashad.html">1001 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 55.07<sup>s</sup>
     dec: -57° 20' 5.36"
     apparent_magnitude: 6.83
@@ -8456,7 +8456,7 @@ stars:
     distance: 478.96
     spectral_class: F8III
   - name:
-    designation: 2023 Noniashad
+    designation: <a href="2023_noniashad.html">2023 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 27.58<sup>s</sup>
     dec: -65° 53' 4.33"
     apparent_magnitude: 6.83
@@ -8504,7 +8504,7 @@ stars:
     distance: 591.87
     spectral_class: F5V + A9II
   - name:
-    designation: 5099 Noniashad
+    designation: <a href="5099_noniashad.html">5099 Noniashad</a>
     ra: 17<sup>h</sup> 41<sup>m</sup> 29.66<sup>s</sup>
     dec: -57° 58' 22.80"
     apparent_magnitude: 6.83
@@ -8536,7 +8536,7 @@ stars:
     distance: 480.60
     spectral_class: G2V + A3V
   - name:
-    designation: 3527 Noniashad
+    designation: <a href="3527_noniashad.html">3527 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 53.32<sup>s</sup>
     dec: -64° 23' 2.18"
     apparent_magnitude: 6.83
@@ -8576,7 +8576,7 @@ stars:
     distance: 2,016.47
     spectral_class: K7III + B7V
   - name:
-    designation: 4888 Noniashad
+    designation: <a href="4888_noniashad.html">4888 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 34.79<sup>s</sup>
     dec: -48° 57' 29.47"
     apparent_magnitude: 6.84
@@ -8584,7 +8584,7 @@ stars:
     distance: 244.68
     spectral_class: G3III
   - name:
-    designation: 3305 Noniashad
+    designation: <a href="3305_noniashad.html">3305 Noniashad</a>
     ra: 17<sup>h</sup> 17<sup>m</sup> 19.96<sup>s</sup>
     dec: -54° 58' 50.55"
     apparent_magnitude: 6.84
@@ -8632,7 +8632,7 @@ stars:
     distance: 494.91
     spectral_class: A2V
   - name:
-    designation: 4721 Noniashad
+    designation: <a href="4721_noniashad.html">4721 Noniashad</a>
     ra: 17<sup>h</sup> 11<sup>m</sup> 55.05<sup>s</sup>
     dec: -51° 09' 32.19"
     apparent_magnitude: 6.84
@@ -8768,7 +8768,7 @@ stars:
     distance: 336.10
     spectral_class: F8V + A9V
   - name:
-    designation: 5133 Noniashad
+    designation: <a href="5133_noniashad.html">5133 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 1.78<sup>s</sup>
     dec: -55° 02' 7.88"
     apparent_magnitude: 6.85
@@ -8808,7 +8808,7 @@ stars:
     distance: 312.53
     spectral_class: A7V + A7V
   - name:
-    designation: 2867 Noniashad
+    designation: <a href="2867_noniashad.html">2867 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 32.34<sup>s</sup>
     dec: -57° 35' 18.34"
     apparent_magnitude: 6.86
@@ -8824,7 +8824,7 @@ stars:
     distance: 431.21
     spectral_class: K6II
   - name:
-    designation: 3580 Noniashad
+    designation: <a href="3580_noniashad.html">3580 Noniashad</a>
     ra: 17<sup>h</sup> 32<sup>m</sup> 18.83<sup>s</sup>
     dec: -58° 21' 48.28"
     apparent_magnitude: 6.86
@@ -8872,7 +8872,7 @@ stars:
     distance: 425.77
     spectral_class: A8III
   - name:
-    designation: 4425 Noniashad
+    designation: <a href="4425_noniashad.html">4425 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 54.90<sup>s</sup>
     dec: -51° 23' 14.98"
     apparent_magnitude: 6.86
@@ -8920,7 +8920,7 @@ stars:
     distance: 403.09
     spectral_class: K1V + F4V
   - name:
-    designation: 3059 Noniashad
+    designation: <a href="3059_noniashad.html">3059 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 17.79<sup>s</sup>
     dec: -54° 29' 24.89"
     apparent_magnitude: 6.87
@@ -8936,7 +8936,7 @@ stars:
     distance: 403.27
     spectral_class: K1V + F4V
   - name:
-    designation: 4772 Noniashad
+    designation: <a href="4772_noniashad.html">4772 Noniashad</a>
     ra: 17<sup>h</sup> 15<sup>m</sup> 32.48<sup>s</sup>
     dec: -50° 40' 49.37"
     apparent_magnitude: 6.87
@@ -8992,7 +8992,7 @@ stars:
     distance: 2,030.22
     spectral_class: K7III + B7V
   - name:
-    designation: 5129 Noniashad
+    designation: <a href="5129_noniashad.html">5129 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 1.24<sup>s</sup>
     dec: -57° 20' 3.18"
     apparent_magnitude: 6.87
@@ -9000,7 +9000,7 @@ stars:
     distance: 201.95
     spectral_class: F5V
   - name:
-    designation: 1202 Noniashad
+    designation: <a href="1202_noniashad.html">1202 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 54.71<sup>s</sup>
     dec: -55° 14' 29.39"
     apparent_magnitude: 6.87
@@ -9032,7 +9032,7 @@ stars:
     distance: 513.76
     spectral_class: A2V
   - name:
-    designation: 1839 Noniashad
+    designation: <a href="1839_noniashad.html">1839 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 1.21<sup>s</sup>
     dec: -68° 53' 54.05"
     apparent_magnitude: 6.88
@@ -9040,7 +9040,7 @@ stars:
     distance: 454.57
     spectral_class: G7V + DQ + F5II
   - name:
-    designation: 434 Noniashad
+    designation: <a href="434_noniashad.html">434 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 12.33<sup>s</sup>
     dec: -46° 08' 15.52"
     apparent_magnitude: 6.88
@@ -9048,7 +9048,7 @@ stars:
     distance: 528.96
     spectral_class: F2III
   - name:
-    designation: 1764 Noniashad
+    designation: <a href="1764_noniashad.html">1764 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 32.45<sup>s</sup>
     dec: -66° 29' 39.41"
     apparent_magnitude: 6.88
@@ -9096,7 +9096,7 @@ stars:
     distance: 498.87
     spectral_class: F8III
   - name:
-    designation: 5600 Noniashad
+    designation: <a href="5600_noniashad.html">5600 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 51.68<sup>s</sup>
     dec: -51° 57' 54.99"
     apparent_magnitude: 6.89
@@ -9112,7 +9112,7 @@ stars:
     distance: 271.75
     spectral_class: K7V + A5V
   - name:
-    designation: 133 Noniashad
+    designation: <a href="133_noniashad.html">133 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 47.26<sup>s</sup>
     dec: -46° 27' 35.77"
     apparent_magnitude: 6.89
@@ -9136,7 +9136,7 @@ stars:
     distance: 395.15
     spectral_class: F9III
   - name:
-    designation: 134 Noniashad
+    designation: <a href="134_noniashad.html">134 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 54.85<sup>s</sup>
     dec: -55° 52' 48.42"
     apparent_magnitude: 6.89
@@ -9144,7 +9144,7 @@ stars:
     distance: 438.56
     spectral_class: G2V + G3V + A3V
   - name:
-    designation: 2372 Noniashad
+    designation: <a href="2372_noniashad.html">2372 Noniashad</a>
     ra: 17<sup>h</sup> 54<sup>m</sup> 10.27<sup>s</sup>
     dec: -68° 32' 35.73"
     apparent_magnitude: 6.89
@@ -9184,7 +9184,7 @@ stars:
     distance: 512.01
     spectral_class: B9V + A8V
   - name:
-    designation: 135 Noniashad
+    designation: <a href="135_noniashad.html">135 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 2.58<sup>s</sup>
     dec: -54° 20' 50.22"
     apparent_magnitude: 6.90
@@ -9232,7 +9232,7 @@ stars:
     distance: 450.40
     spectral_class: K6II
   - name:
-    designation: 5126 Noniashad
+    designation: <a href="5126_noniashad.html">5126 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 54.69<sup>s</sup>
     dec: -52° 46' 43.73"
     apparent_magnitude: 6.90
@@ -9240,7 +9240,7 @@ stars:
     distance: 226.22
     spectral_class: A8V
   - name:
-    designation: 136 Noniashad
+    designation: <a href="136_noniashad.html">136 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 19.78<sup>s</sup>
     dec: -54° 58' 13.22"
     apparent_magnitude: 6.90
@@ -9248,7 +9248,7 @@ stars:
     distance: 1,351.12
     spectral_class: A1III
   - name:
-    designation: 4755 Noniashad
+    designation: <a href="4755_noniashad.html">4755 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 33.98<sup>s</sup>
     dec: -50° 05' 54.46"
     apparent_magnitude: 6.90
@@ -9272,7 +9272,7 @@ stars:
     distance: 425.70
     spectral_class: G9III
   - name:
-    designation: 630 Noniashad
+    designation: <a href="630_noniashad.html">630 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 15.51<sup>s</sup>
     dec: -62° 53' 31.84"
     apparent_magnitude: 6.90
@@ -9296,7 +9296,7 @@ stars:
     distance: 326.19
     spectral_class: K1V + F4V
   - name:
-    designation: 3301 Noniashad
+    designation: <a href="3301_noniashad.html">3301 Noniashad</a>
     ra: 17<sup>h</sup> 52<sup>m</sup> 2.96<sup>s</sup>
     dec: -54° 21' 26.93"
     apparent_magnitude: 6.90
@@ -9304,7 +9304,7 @@ stars:
     distance: 442.74
     spectral_class: A1V
   - name:
-    designation: 5284 Noniashad
+    designation: <a href="5284_noniashad.html">5284 Noniashad</a>
     ra: 17<sup>h</sup> 55<sup>m</sup> 10.48<sup>s</sup>
     dec: -51° 51' 26.91"
     apparent_magnitude: 6.90
@@ -9368,7 +9368,7 @@ stars:
     distance: 401.94
     spectral_class: A3V
   - name:
-    designation: 3576 Noniashad
+    designation: <a href="3576_noniashad.html">3576 Noniashad</a>
     ra: 17<sup>h</sup> 58<sup>m</sup> 4.97<sup>s</sup>
     dec: -57° 34' 32.00"
     apparent_magnitude: 6.91
@@ -9376,7 +9376,7 @@ stars:
     distance: 514.95
     spectral_class: A1V
   - name:
-    designation: 138 Noniashad
+    designation: <a href="138_noniashad.html">138 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 18.26<sup>s</sup>
     dec: -46° 52' 15.04"
     apparent_magnitude: 6.91
@@ -9400,7 +9400,7 @@ stars:
     distance: 129.85
     spectral_class: K9V + F6V
   - name:
-    designation: 5438 Noniashad
+    designation: <a href="5438_noniashad.html">5438 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 6.14<sup>s</sup>
     dec: -47° 02' 56.80"
     apparent_magnitude: 6.92
@@ -9408,7 +9408,7 @@ stars:
     distance: 390.06
     spectral_class: A2V
   - name:
-    designation: 3045 Noniashad
+    designation: <a href="3045_noniashad.html">3045 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 34.09<sup>s</sup>
     dec: -58° 42' 18.28"
     apparent_magnitude: 6.92
@@ -9448,7 +9448,7 @@ stars:
     distance: 1,503.36
     spectral_class: A4II
   - name:
-    designation: 2514 Noniashad
+    designation: <a href="2514_noniashad.html">2514 Noniashad</a>
     ra: 16<sup>h</sup> 59<sup>m</sup> 46.67<sup>s</sup>
     dec: -55° 42' 51.07"
     apparent_magnitude: 6.92
@@ -9472,7 +9472,7 @@ stars:
     distance: 360.73
     spectral_class: K6III + A3V
   - name:
-    designation: 4942 Noniashad
+    designation: <a href="4942_noniashad.html">4942 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 25.18<sup>s</sup>
     dec: -57° 46' 44.52"
     apparent_magnitude: 6.93
@@ -9504,7 +9504,7 @@ stars:
     distance: 305.89
     spectral_class: G1III
   - name:
-    designation: 1222 Noniashad
+    designation: <a href="1222_noniashad.html">1222 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 12.32<sup>s</sup>
     dec: -54° 21' 54.52"
     apparent_magnitude: 6.94
@@ -9544,7 +9544,7 @@ stars:
     distance: 167.31
     spectral_class: G4V + F3V
   - name:
-    designation: 143 Noniashad
+    designation: <a href="143_noniashad.html">143 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 47.23<sup>s</sup>
     dec: -47° 32' 43.53"
     apparent_magnitude: 6.94
@@ -9568,7 +9568,7 @@ stars:
     distance: 641.97
     spectral_class: F7V + K4III + B9V
   - name:
-    designation: 2887 Noniashad
+    designation: <a href="2887_noniashad.html">2887 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 27.10<sup>s</sup>
     dec: -48° 13' 0.69"
     apparent_magnitude: 6.94
@@ -9576,7 +9576,7 @@ stars:
     distance: 1,668.40
     spectral_class: G8Ib
   - name:
-    designation: 5554 Noniashad
+    designation: <a href="5554_noniashad.html">5554 Noniashad</a>
     ra: 17<sup>h</sup> 47<sup>m</sup> 15.34<sup>s</sup>
     dec: -51° 03' 56.72"
     apparent_magnitude: 6.94
@@ -9616,7 +9616,7 @@ stars:
     distance: 120.35
     spectral_class: G1V
   - name:
-    designation: 4489 Noniashad
+    designation: <a href="4489_noniashad.html">4489 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 25.88<sup>s</sup>
     dec: -52° 13' 17.78"
     apparent_magnitude: 6.94
@@ -9640,7 +9640,7 @@ stars:
     distance: 521.69
     spectral_class: G8V + A2V
   - name:
-    designation: 746 Noniashad
+    designation: <a href="746_noniashad.html">746 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 35.93<sup>s</sup>
     dec: -57° 17' 58.23"
     apparent_magnitude: 6.94
@@ -9664,7 +9664,7 @@ stars:
     distance: 567.53
     spectral_class: A7III
   - name:
-    designation: 4999 Noniashad
+    designation: <a href="4999_noniashad.html">4999 Noniashad</a>
     ra: 17<sup>h</sup> 11<sup>m</sup> 11.52<sup>s</sup>
     dec: -61° 47' 5.88"
     apparent_magnitude: 6.95
@@ -9704,7 +9704,7 @@ stars:
     distance: 423.66
     spectral_class: M2III + K8II
   - name:
-    designation: 2902 Noniashad
+    designation: <a href="2902_noniashad.html">2902 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 14.92<sup>s</sup>
     dec: -50° 17' 16.11"
     apparent_magnitude: 6.95
@@ -9768,7 +9768,7 @@ stars:
     distance: 622.66
     spectral_class: A8III
   - name:
-    designation: 1658 Noniashad
+    designation: <a href="1658_noniashad.html">1658 Noniashad</a>
     ra: 17<sup>h</sup> 11<sup>m</sup> 34.98<sup>s</sup>
     dec: -54° 03' 23.01"
     apparent_magnitude: 6.96
@@ -9800,7 +9800,7 @@ stars:
     distance: 572.08
     spectral_class: A9III
   - name:
-    designation: 377 Noniashad
+    designation: <a href="377_noniashad.html">377 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 17.04<sup>s</sup>
     dec: -62° 25' 21.75"
     apparent_magnitude: 6.96
@@ -9832,7 +9832,7 @@ stars:
     distance: 431.28
     spectral_class: A2V
   - name:
-    designation: 5112 Noniashad
+    designation: <a href="5112_noniashad.html">5112 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 24.09<sup>s</sup>
     dec: -56° 45' 20.02"
     apparent_magnitude: 6.97
@@ -9840,7 +9840,7 @@ stars:
     distance: 196.53
     spectral_class: G2V
   - name:
-    designation: 5556 Noniashad
+    designation: <a href="5556_noniashad.html">5556 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 13.38<sup>s</sup>
     dec: -51° 23' 9.57"
     apparent_magnitude: 6.97
@@ -9856,7 +9856,7 @@ stars:
     distance: 391.43
     spectral_class: G8II
   - name:
-    designation: 4768 Noniashad
+    designation: <a href="4768_noniashad.html">4768 Noniashad</a>
     ra: 17<sup>h</sup> 10<sup>m</sup> 24.07<sup>s</sup>
     dec: -47° 17' 6.36"
     apparent_magnitude: 6.97
@@ -9896,7 +9896,7 @@ stars:
     distance: 143.33
     spectral_class: K8III
   - name:
-    designation: 4381 Noniashad
+    designation: <a href="4381_noniashad.html">4381 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 18.48<sup>s</sup>
     dec: -55° 21' 49.70"
     apparent_magnitude: 6.97
@@ -9936,7 +9936,7 @@ stars:
     distance: 458.92
     spectral_class: A7V
   - name:
-    designation: 2089 Noniashad
+    designation: <a href="2089_noniashad.html">2089 Noniashad</a>
     ra: 17<sup>h</sup> 11<sup>m</sup> 24.49<sup>s</sup>
     dec: -49° 23' 39.73"
     apparent_magnitude: 6.97
@@ -10008,7 +10008,7 @@ stars:
     distance: 3,233.68
     spectral_class: A5III + B5V + DB + K7Ib
   - name:
-    designation: 2650 Noniashad
+    designation: <a href="2650_noniashad.html">2650 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 44.83<sup>s</sup>
     dec: -56° 07' 23.37"
     apparent_magnitude: 6.98
@@ -10048,7 +10048,7 @@ stars:
     distance: 519.57
     spectral_class: G6V + A3V
   - name:
-    designation: 3093 Noniashad
+    designation: <a href="3093_noniashad.html">3093 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 12.02<sup>s</sup>
     dec: -51° 56' 10.02"
     apparent_magnitude: 6.98
@@ -10144,7 +10144,7 @@ stars:
     distance: 294.04
     spectral_class: F8III
   - name:
-    designation: 153 Noniashad
+    designation: <a href="153_noniashad.html">153 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 6.81<sup>s</sup>
     dec: -53° 10' 11.53"
     apparent_magnitude: 6.98
@@ -10168,7 +10168,7 @@ stars:
     distance: 210.48
     spectral_class: A7V
   - name:
-    designation: 3072 Noniashad
+    designation: <a href="3072_noniashad.html">3072 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 18.23<sup>s</sup>
     dec: -49° 14' 38.83"
     apparent_magnitude: 6.99
@@ -10200,7 +10200,7 @@ stars:
     distance: 383.60
     spectral_class: G0V + A3V
   - name:
-    designation: 2800 Noniashad
+    designation: <a href="2800_noniashad.html">2800 Noniashad</a>
     ra: 17<sup>h</sup> 15<sup>m</sup> 31.29<sup>s</sup>
     dec: -55° 50' 27.78"
     apparent_magnitude: 6.99
@@ -10224,7 +10224,7 @@ stars:
     distance: 390.03
     spectral_class: A2V
   - name:
-    designation: 3289 Noniashad
+    designation: <a href="3289_noniashad.html">3289 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 22.48<sup>s</sup>
     dec: -50° 12' 48.84"
     apparent_magnitude: 6.99
@@ -10240,7 +10240,7 @@ stars:
     distance: 480.62
     spectral_class: A5V
   - name:
-    designation: 4703 Noniashad
+    designation: <a href="4703_noniashad.html">4703 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 40.36<sup>s</sup>
     dec: -46° 32' 23.44"
     apparent_magnitude: 6.99
@@ -10280,7 +10280,7 @@ stars:
     distance: 407.13
     spectral_class: K1V + F5III
   - name:
-    designation: 778 Noniashad
+    designation: <a href="778_noniashad.html">778 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 38.24<sup>s</sup>
     dec: -67° 55' 33.30"
     apparent_magnitude: 7.00
@@ -10352,7 +10352,7 @@ stars:
     distance: 470.52
     spectral_class: G2V + A5V
   - name:
-    designation: 4334 Noniashad
+    designation: <a href="4334_noniashad.html">4334 Noniashad</a>
     ra: 17<sup>h</sup> 47<sup>m</sup> 9.52<sup>s</sup>
     dec: -53° 49' 56.45"
     apparent_magnitude: 7.00
@@ -10408,7 +10408,7 @@ stars:
     distance: 3,252.86
     spectral_class: A5III + B5V + DB + K7Ib
   - name:
-    designation: 4743 Noniashad
+    designation: <a href="4743_noniashad.html">4743 Noniashad</a>
     ra: 17<sup>h</sup> 35<sup>m</sup> 10.75<sup>s</sup>
     dec: -49° 54' 36.31"
     apparent_magnitude: 7.01
@@ -10456,7 +10456,7 @@ stars:
     distance: 531.30
     spectral_class: A1V
   - name:
-    designation: 742 Noniashad
+    designation: <a href="742_noniashad.html">742 Noniashad</a>
     ra: 17<sup>h</sup> 41<sup>m</sup> 5.17<sup>s</sup>
     dec: -56° 47' 1.78"
     apparent_magnitude: 7.01
@@ -10464,7 +10464,7 @@ stars:
     distance: 536.50
     spectral_class: A1V
   - name:
-    designation: 3287 Noniashad
+    designation: <a href="3287_noniashad.html">3287 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 55.14<sup>s</sup>
     dec: -49° 07' 15.08"
     apparent_magnitude: 7.01
@@ -10520,7 +10520,7 @@ stars:
     distance: 401.97
     spectral_class: G8V + A8V + F2V + G2V + A7V
   - name:
-    designation: 4947 Noniashad
+    designation: <a href="4947_noniashad.html">4947 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 55.16<sup>s</sup>
     dec: -59° 10' 2.34"
     apparent_magnitude: 7.01
@@ -10536,7 +10536,7 @@ stars:
     distance: 493.63
     spectral_class: B9V
   - name:
-    designation: 3599 Noniashad
+    designation: <a href="3599_noniashad.html">3599 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 22.63<sup>s</sup>
     dec: -68° 52' 17.05"
     apparent_magnitude: 7.02
@@ -10544,7 +10544,7 @@ stars:
     distance: 483.42
     spectral_class: G1V + F8V + A6V
   - name:
-    designation: 4541 Noniashad
+    designation: <a href="4541_noniashad.html">4541 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 9.17<sup>s</sup>
     dec: -49° 39' 54.63"
     apparent_magnitude: 7.02
@@ -10552,7 +10552,7 @@ stars:
     distance: 670.19
     spectral_class: A9III
   - name:
-    designation: 162 Noniashad
+    designation: <a href="162_noniashad.html">162 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 46.90<sup>s</sup>
     dec: -56° 13' 46.04"
     apparent_magnitude: 7.02
@@ -10560,7 +10560,7 @@ stars:
     distance: 1,386.30
     spectral_class: A1III
   - name:
-    designation: 161 Noniashad
+    designation: <a href="161_noniashad.html">161 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 49.32<sup>s</sup>
     dec: -55° 07' 12.32"
     apparent_magnitude: 7.03
@@ -10576,7 +10576,7 @@ stars:
     distance: 475.31
     spectral_class: A4V
   - name:
-    designation: 4622 Noniashad
+    designation: <a href="4622_noniashad.html">4622 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 0.09<sup>s</sup>
     dec: -48° 40' 51.33"
     apparent_magnitude: 7.03
@@ -10640,7 +10640,7 @@ stars:
     distance: 315.69
     spectral_class: K1V + A4V
   - name:
-    designation: 2584 Noniashad
+    designation: <a href="2584_noniashad.html">2584 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 14.43<sup>s</sup>
     dec: -47° 20' 24.21"
     apparent_magnitude: 7.03
@@ -10648,7 +10648,7 @@ stars:
     distance: 264.83
     spectral_class: G1V
   - name:
-    designation: 4859 Noniashad
+    designation: <a href="4859_noniashad.html">4859 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 2.07<sup>s</sup>
     dec: -51° 01' 23.56"
     apparent_magnitude: 7.03
@@ -10656,7 +10656,7 @@ stars:
     distance: 293.31
     spectral_class: A4V
   - name:
-    designation: 2024 Noniashad
+    designation: <a href="2024_noniashad.html">2024 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 12.05<sup>s</sup>
     dec: -50° 20' 12.17"
     apparent_magnitude: 7.04
@@ -10672,7 +10672,7 @@ stars:
     distance: 1,538.67
     spectral_class: A4II
   - name:
-    designation: 2900 Noniashad
+    designation: <a href="2900_noniashad.html">2900 Noniashad</a>
     ra: 17<sup>h</sup> 56<sup>m</sup> 16.18<sup>s</sup>
     dec: -49° 43' 23.92"
     apparent_magnitude: 7.04
@@ -10744,7 +10744,7 @@ stars:
     distance: 500.08
     spectral_class: K1II
   - name:
-    designation: 5434 Noniashad
+    designation: <a href="5434_noniashad.html">5434 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 34.02<sup>s</sup>
     dec: -48° 51' 43.56"
     apparent_magnitude: 7.05
@@ -10760,7 +10760,7 @@ stars:
     distance: 475.02
     spectral_class: G6V + A5V
   - name:
-    designation: 2944 Noniashad
+    designation: <a href="2944_noniashad.html">2944 Noniashad</a>
     ra: 17<sup>h</sup> 28<sup>m</sup> 2.34<sup>s</sup>
     dec: -57° 06' 21.07"
     apparent_magnitude: 7.05
@@ -10808,7 +10808,7 @@ stars:
     distance: 545.27
     spectral_class: M7III + A1V + F0III
   - name:
-    designation: 167 Noniashad
+    designation: <a href="167_noniashad.html">167 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 12.69<sup>s</sup>
     dec: -47° 21' 17.58"
     apparent_magnitude: 7.05
@@ -10832,7 +10832,7 @@ stars:
     distance: 324.58
     spectral_class: K5III
   - name:
-    designation: 1626 Noniashad
+    designation: <a href="1626_noniashad.html">1626 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 25.52<sup>s</sup>
     dec: -50° 16' 6.69"
     apparent_magnitude: 7.05
@@ -10872,7 +10872,7 @@ stars:
     distance: 535.77
     spectral_class: G8V + A0V
   - name:
-    designation: 168 Noniashad
+    designation: <a href="168_noniashad.html">168 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 4.73<sup>s</sup>
     dec: -47° 08' 53.35"
     apparent_magnitude: 7.06
@@ -10888,7 +10888,7 @@ stars:
     distance: 2,109.14
     spectral_class: K7III + B7V
   - name:
-    designation: 613 Noniashad
+    designation: <a href="613_noniashad.html">613 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 39.82<sup>s</sup>
     dec: -59° 35' 25.58"
     apparent_magnitude: 7.06
@@ -10968,7 +10968,7 @@ stars:
     distance: 1,546.74
     spectral_class: A4II
   - name:
-    designation: 178 Noniashad
+    designation: <a href="178_noniashad.html">178 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 42.04<sup>s</sup>
     dec: -56° 58' 34.41"
     apparent_magnitude: 7.06
@@ -10992,7 +10992,7 @@ stars:
     distance: 437.18
     spectral_class: F9V + F8V
   - name:
-    designation: 3090 Noniashad
+    designation: <a href="3090_noniashad.html">3090 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 51.58<sup>s</sup>
     dec: -51° 52' 19.05"
     apparent_magnitude: 7.06
@@ -11008,7 +11008,7 @@ stars:
     distance: 494.34
     spectral_class: A4V
   - name:
-    designation: 2274 Noniashad
+    designation: <a href="2274_noniashad.html">2274 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 32.83<sup>s</sup>
     dec: -69° 07' 28.89"
     apparent_magnitude: 7.07
@@ -11032,7 +11032,7 @@ stars:
     distance: 463.19
     spectral_class: A5V
   - name:
-    designation: 1800 Noniashad
+    designation: <a href="1800_noniashad.html">1800 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 44.64<sup>s</sup>
     dec: -53° 45' 31.72"
     apparent_magnitude: 7.07
@@ -11064,7 +11064,7 @@ stars:
     distance: 526.70
     spectral_class: A7III
   - name:
-    designation: 4470 Noniashad
+    designation: <a href="4470_noniashad.html">4470 Noniashad</a>
     ra: 17<sup>h</sup> 10<sup>m</sup> 9.17<sup>s</sup>
     dec: -47° 20' 24.24"
     apparent_magnitude: 7.07
@@ -11096,7 +11096,7 @@ stars:
     distance: 301.97
     spectral_class: A2V
   - name:
-    designation: 5335 Noniashad
+    designation: <a href="5335_noniashad.html">5335 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 31.48<sup>s</sup>
     dec: -68° 35' 30.70"
     apparent_magnitude: 7.08
@@ -11104,7 +11104,7 @@ stars:
     distance: 277.34
     spectral_class: A6V
   - name:
-    designation: 5564 Noniashad
+    designation: <a href="5564_noniashad.html">5564 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 10.68<sup>s</sup>
     dec: -49° 42' 50.61"
     apparent_magnitude: 7.08
@@ -11200,7 +11200,7 @@ stars:
     distance: 396.68
     spectral_class: G2V + A5V
   - name:
-    designation: 1905 Noniashad
+    designation: <a href="1905_noniashad.html">1905 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 30.55<sup>s</sup>
     dec: -53° 28' 18.01"
     apparent_magnitude: 7.09
@@ -11360,7 +11360,7 @@ stars:
     distance: 1,164.48
     spectral_class: A4III
   - name:
-    designation: 2162 Noniashad
+    designation: <a href="2162_noniashad.html">2162 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 34.35<sup>s</sup>
     dec: -48° 13' 33.16"
     apparent_magnitude: 7.11
@@ -11376,7 +11376,7 @@ stars:
     distance: 1,163.69
     spectral_class: Magnetar + B9III
   - name:
-    designation: 3068 Noniashad
+    designation: <a href="3068_noniashad.html">3068 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 28.65<sup>s</sup>
     dec: -47° 34' 14.37"
     apparent_magnitude: 7.11
@@ -11400,7 +11400,7 @@ stars:
     distance: 470.95
     spectral_class: A9IV
   - name:
-    designation: 3337 Noniashad
+    designation: <a href="3337_noniashad.html">3337 Noniashad</a>
     ra: 17<sup>h</sup> 28<sup>m</sup> 26.00<sup>s</sup>
     dec: -58° 23' 6.06"
     apparent_magnitude: 7.11
@@ -11424,7 +11424,7 @@ stars:
     distance: 1,242.26
     spectral_class: G9III + M7III + K4II + B9III
   - name:
-    designation: 3138 Noniashad
+    designation: <a href="3138_noniashad.html">3138 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 28.21<sup>s</sup>
     dec: -57° 32' 11.13"
     apparent_magnitude: 7.11
@@ -11504,7 +11504,7 @@ stars:
     distance: 241.40
     spectral_class: A8V
   - name:
-    designation: 1479 Noniashad
+    designation: <a href="1479_noniashad.html">1479 Noniashad</a>
     ra: 17<sup>h</sup> 17<sup>m</sup> 57.30<sup>s</sup>
     dec: -68° 55' 59.69"
     apparent_magnitude: 7.12
@@ -11520,7 +11520,7 @@ stars:
     distance: 385.51
     spectral_class: M9Iab
   - name:
-    designation: 4089 Noniashad
+    designation: <a href="4089_noniashad.html">4089 Noniashad</a>
     ra: 17<sup>h</sup> 27<sup>m</sup> 34.93<sup>s</sup>
     dec: -53° 28' 21.52"
     apparent_magnitude: 7.12
@@ -11552,7 +11552,7 @@ stars:
     distance: 1,562.62
     spectral_class: A4II
   - name:
-    designation: 4932 Noniashad
+    designation: <a href="4932_noniashad.html">4932 Noniashad</a>
     ra: 17<sup>h</sup> 28<sup>m</sup> 21.85<sup>s</sup>
     dec: -47° 41' 25.69"
     apparent_magnitude: 7.12
@@ -11608,7 +11608,7 @@ stars:
     distance: 505.03
     spectral_class: G4V + A5V
   - name:
-    designation: 913 Noniashad
+    designation: <a href="913_noniashad.html">913 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 6.70<sup>s</sup>
     dec: -58° 00' 43.64"
     apparent_magnitude: 7.12
@@ -11616,7 +11616,7 @@ stars:
     distance: 440.32
     spectral_class: F0V
   - name:
-    designation: 5560 Noniashad
+    designation: <a href="5560_noniashad.html">5560 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 47.41<sup>s</sup>
     dec: -48° 33' 11.61"
     apparent_magnitude: 7.12
@@ -11680,7 +11680,7 @@ stars:
     distance: 483.19
     spectral_class: A5V
   - name:
-    designation: 4881 Noniashad
+    designation: <a href="4881_noniashad.html">4881 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 23.23<sup>s</sup>
     dec: -52° 06' 3.90"
     apparent_magnitude: 7.13
@@ -11688,7 +11688,7 @@ stars:
     distance: 253.29
     spectral_class: G2V + G4V + A9V
   - name:
-    designation: 186 Noniashad
+    designation: <a href="186_noniashad.html">186 Noniashad</a>
     ra: 17<sup>h</sup> 54<sup>m</sup> 50.68<sup>s</sup>
     dec: -57° 36' 20.21"
     apparent_magnitude: 7.13
@@ -11728,7 +11728,7 @@ stars:
     distance: 318.52
     spectral_class: A7V
   - name:
-    designation: 5238 Noniashad
+    designation: <a href="5238_noniashad.html">5238 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 14.37<sup>s</sup>
     dec: -49° 47' 13.27"
     apparent_magnitude: 7.13
@@ -11752,7 +11752,7 @@ stars:
     distance: 1,117.31
     spectral_class: M2III + A5III
   - name:
-    designation: 5215 Noniashad
+    designation: <a href="5215_noniashad.html">5215 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 30.95<sup>s</sup>
     dec: -51° 19' 8.88"
     apparent_magnitude: 7.13
@@ -11776,7 +11776,7 @@ stars:
     distance: 482.24
     spectral_class: G6II
   - name:
-    designation: 5494 Noniashad
+    designation: <a href="5494_noniashad.html">5494 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 12.75<sup>s</sup>
     dec: -56° 15' 11.73"
     apparent_magnitude: 7.13
@@ -11896,7 +11896,7 @@ stars:
     distance: 375.99
     spectral_class: A2V
   - name:
-    designation: 379 Noniashad
+    designation: <a href="379_noniashad.html">379 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 49.20<sup>s</sup>
     dec: -65° 20' 47.44"
     apparent_magnitude: 7.14
@@ -12024,7 +12024,7 @@ stars:
     distance: 1,123.32
     spectral_class: A3III
   - name:
-    designation: 3942 Noniashad
+    designation: <a href="3942_noniashad.html">3942 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 36.53<sup>s</sup>
     dec: -46° 50' 59.27"
     apparent_magnitude: 7.15
@@ -12032,7 +12032,7 @@ stars:
     distance: 528.29
     spectral_class: A5V + F4V + A4V
   - name:
-    designation: 192 Noniashad
+    designation: <a href="192_noniashad.html">192 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 27.48<sup>s</sup>
     dec: -46° 31' 49.45"
     apparent_magnitude: 7.15
@@ -12096,7 +12096,7 @@ stars:
     distance: 567.63
     spectral_class: A2V + F7III
   - name:
-    designation: 3862 Noniashad
+    designation: <a href="3862_noniashad.html">3862 Noniashad</a>
     ra: 17<sup>h</sup> 12<sup>m</sup> 0.97<sup>s</sup>
     dec: -50° 16' 9.00"
     apparent_magnitude: 7.15
@@ -12192,7 +12192,7 @@ stars:
     distance: 838.21
     spectral_class: M5Iab
   - name:
-    designation: 4926 Noniashad
+    designation: <a href="4926_noniashad.html">4926 Noniashad</a>
     ra: 17<sup>h</sup> 59<sup>m</sup> 12.78<sup>s</sup>
     dec: -61° 01' 27.00"
     apparent_magnitude: 7.16
@@ -12288,7 +12288,7 @@ stars:
     distance: 317.52
     spectral_class: A5V
   - name:
-    designation: 197 Noniashad
+    designation: <a href="197_noniashad.html">197 Noniashad</a>
     ra: 17<sup>h</sup> 34<sup>m</sup> 12.74<sup>s</sup>
     dec: -55° 21' 3.57"
     apparent_magnitude: 7.17
@@ -12352,7 +12352,7 @@ stars:
     distance: 269.88
     spectral_class: K7II
   - name:
-    designation: 1490 Noniashad
+    designation: <a href="1490_noniashad.html">1490 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 31.00<sup>s</sup>
     dec: -68° 27' 1.87"
     apparent_magnitude: 7.17
@@ -12360,7 +12360,7 @@ stars:
     distance: 978.17
     spectral_class: F0V + K5III + A1IV
   - name:
-    designation: 2057 Noniashad
+    designation: <a href="2057_noniashad.html">2057 Noniashad</a>
     ra: 17<sup>h</sup> 02<sup>m</sup> 52.61<sup>s</sup>
     dec: -53° 40' 21.82"
     apparent_magnitude: 7.17
@@ -12376,7 +12376,7 @@ stars:
     distance: 473.53
     spectral_class: F3III
   - name:
-    designation: 2224 Noniashad
+    designation: <a href="2224_noniashad.html">2224 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 16.71<sup>s</sup>
     dec: -48° 08' 33.01"
     apparent_magnitude: 7.18
@@ -12424,7 +12424,7 @@ stars:
     distance: 324.95
     spectral_class: M4III + A4V
   - name:
-    designation: 5052 Noniashad
+    designation: <a href="5052_noniashad.html">5052 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 16.58<sup>s</sup>
     dec: -59° 03' 48.70"
     apparent_magnitude: 7.18
@@ -12440,7 +12440,7 @@ stars:
     distance: 395.12
     spectral_class: A2V
   - name:
-    designation: 5330 Noniashad
+    designation: <a href="5330_noniashad.html">5330 Noniashad</a>
     ra: 17<sup>h</sup> 41<sup>m</sup> 40.72<sup>s</sup>
     dec: -51° 26' 5.43"
     apparent_magnitude: 7.18
@@ -12448,7 +12448,7 @@ stars:
     distance: 543.08
     spectral_class: F2III
   - name:
-    designation: 4067 Noniashad
+    designation: <a href="4067_noniashad.html">4067 Noniashad</a>
     ra: 17<sup>h</sup> 59<sup>m</sup> 58.01<sup>s</sup>
     dec: -58° 21' 56.33"
     apparent_magnitude: 7.18
@@ -12472,7 +12472,7 @@ stars:
     distance: 373.49
     spectral_class: A7IV
   - name:
-    designation: 3702 Noniashad
+    designation: <a href="3702_noniashad.html">3702 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 27.96<sup>s</sup>
     dec: -56° 19' 0.91"
     apparent_magnitude: 7.18
@@ -12536,7 +12536,7 @@ stars:
     distance: 1,028.58
     spectral_class: A2III
   - name:
-    designation: 2175 Noniashad
+    designation: <a href="2175_noniashad.html">2175 Noniashad</a>
     ra: 17<sup>h</sup> 36<sup>m</sup> 44.42<sup>s</sup>
     dec: -54° 31' 36.03"
     apparent_magnitude: 7.18
@@ -12560,7 +12560,7 @@ stars:
     distance: 337.88
     spectral_class: G1III
   - name:
-    designation: 1652 Noniashad
+    designation: <a href="1652_noniashad.html">1652 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 50.33<sup>s</sup>
     dec: -47° 46' 10.34"
     apparent_magnitude: 7.19
@@ -12608,7 +12608,7 @@ stars:
     distance: 1,582.94
     spectral_class: A4II
   - name:
-    designation: 4590 Noniashad
+    designation: <a href="4590_noniashad.html">4590 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 13.94<sup>s</sup>
     dec: -49° 43' 9.44"
     apparent_magnitude: 7.19
@@ -12632,7 +12632,7 @@ stars:
     distance: 533.00
     spectral_class: A9III
   - name:
-    designation: 4931 Noniashad
+    designation: <a href="4931_noniashad.html">4931 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 34.08<sup>s</sup>
     dec: -61° 27' 39.72"
     apparent_magnitude: 7.19
@@ -12648,7 +12648,7 @@ stars:
     distance: 488.75
     spectral_class: G1V + A4V
   - name:
-    designation: 5598 Noniashad
+    designation: <a href="5598_noniashad.html">5598 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 50.97<sup>s</sup>
     dec: -48° 54' 57.75"
     apparent_magnitude: 7.19
@@ -12672,7 +12672,7 @@ stars:
     distance: 668.85
     spectral_class: A4IV
   - name:
-    designation: 4399 Noniashad
+    designation: <a href="4399_noniashad.html">4399 Noniashad</a>
     ra: 16<sup>h</sup> 56<sup>m</sup> 50.94<sup>s</sup>
     dec: -54° 49' 42.23"
     apparent_magnitude: 7.19
@@ -12688,7 +12688,7 @@ stars:
     distance: 1,252.55
     spectral_class: A3III
   - name:
-    designation: 2052 Noniashad
+    designation: <a href="2052_noniashad.html">2052 Noniashad</a>
     ra: 17<sup>h</sup> 53<sup>m</sup> 29.47<sup>s</sup>
     dec: -48° 37' 46.71"
     apparent_magnitude: 7.19
@@ -12704,7 +12704,7 @@ stars:
     distance: 447.16
     spectral_class: A9V
   - name:
-    designation: 4984 Noniashad
+    designation: <a href="4984_noniashad.html">4984 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 48.45<sup>s</sup>
     dec: -61° 45' 12.45"
     apparent_magnitude: 7.19
@@ -12800,7 +12800,7 @@ stars:
     distance: 959.31
     spectral_class: K7III + A7II
   - name:
-    designation: 4142 Noniashad
+    designation: <a href="4142_noniashad.html">4142 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 59.64<sup>s</sup>
     dec: -67° 31' 34.02"
     apparent_magnitude: 7.20
@@ -12872,7 +12872,7 @@ stars:
     distance: 461.43
     spectral_class: A7V
   - name:
-    designation: 918 Noniashad
+    designation: <a href="918_noniashad.html">918 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 58.36<sup>s</sup>
     dec: -55° 48' 36.49"
     apparent_magnitude: 7.20
@@ -12880,7 +12880,7 @@ stars:
     distance: 474.74
     spectral_class: G9V + K7III + K5V + A9V
   - name:
-    designation: 207 Noniashad
+    designation: <a href="207_noniashad.html">207 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 41.44<sup>s</sup>
     dec: -53° 58' 57.56"
     apparent_magnitude: 7.21
@@ -12928,7 +12928,7 @@ stars:
     distance: 695.41
     spectral_class: M6III + A5III
   - name:
-    designation: 3820 Noniashad
+    designation: <a href="3820_noniashad.html">3820 Noniashad</a>
     ra: 17<sup>h</sup> 40<sup>m</sup> 54.59<sup>s</sup>
     dec: -49° 16' 12.46"
     apparent_magnitude: 7.21
@@ -12936,7 +12936,7 @@ stars:
     distance: 559.46
     spectral_class: A9III
   - name:
-    designation: 4930 Noniashad
+    designation: <a href="4930_noniashad.html">4930 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 41.18<sup>s</sup>
     dec: -66° 33' 35.55"
     apparent_magnitude: 7.21
@@ -13008,7 +13008,7 @@ stars:
     distance: 956.05
     spectral_class: K8III + A4III
   - name:
-    designation: 5140 Noniashad
+    designation: <a href="5140_noniashad.html">5140 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 7.09<sup>s</sup>
     dec: -49° 57' 24.18"
     apparent_magnitude: 7.21
@@ -13080,7 +13080,7 @@ stars:
     distance: 1,175.60
     spectral_class: K7III + B9III
   - name:
-    designation: 3560 Noniashad
+    designation: <a href="3560_noniashad.html">3560 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 15.47<sup>s</sup>
     dec: -51° 50' 18.97"
     apparent_magnitude: 7.22
@@ -13104,7 +13104,7 @@ stars:
     distance: 1,138.87
     spectral_class: A3III
   - name:
-    designation: 4101 Noniashad
+    designation: <a href="4101_noniashad.html">4101 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 54.96<sup>s</sup>
     dec: -53° 20' 11.25"
     apparent_magnitude: 7.22
@@ -13168,7 +13168,7 @@ stars:
     distance: 493.27
     spectral_class: K4II
   - name:
-    designation: 1294 Noniashad
+    designation: <a href="1294_noniashad.html">1294 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 33.81<sup>s</sup>
     dec: -46° 43' 19.34"
     apparent_magnitude: 7.23
@@ -13176,7 +13176,7 @@ stars:
     distance: 548.38
     spectral_class: A5V + F4V + A4V
   - name:
-    designation: 214 Noniashad
+    designation: <a href="214_noniashad.html">214 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 4.71<sup>s</sup>
     dec: -55° 27' 3.88"
     apparent_magnitude: 7.23
@@ -13208,7 +13208,7 @@ stars:
     distance: 1,104.89
     spectral_class: K7III + A4III
   - name:
-    designation: 1178 Noniashad
+    designation: <a href="1178_noniashad.html">1178 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 59.75<sup>s</sup>
     dec: -50° 06' 46.39"
     apparent_magnitude: 7.23
@@ -13288,7 +13288,7 @@ stars:
     distance: 193.39
     spectral_class: K8V + DO + G2III
   - name:
-    designation: 216 Noniashad
+    designation: <a href="216_noniashad.html">216 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 34.54<sup>s</sup>
     dec: -58° 04' 48.07"
     apparent_magnitude: 7.24
@@ -13400,7 +13400,7 @@ stars:
     distance: 371.28
     spectral_class: M8III + A7V
   - name:
-    designation: 218 Noniashad
+    designation: <a href="218_noniashad.html">218 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 15.94<sup>s</sup>
     dec: -68° 56' 26.58"
     apparent_magnitude: 7.24
@@ -13424,7 +13424,7 @@ stars:
     distance: 674.01
     spectral_class: G2II
   - name:
-    designation: 4880 Noniashad
+    designation: <a href="4880_noniashad.html">4880 Noniashad</a>
     ra: 17<sup>h</sup> 40<sup>m</sup> 46.96<sup>s</sup>
     dec: -55° 43' 35.63"
     apparent_magnitude: 7.25
@@ -13432,7 +13432,7 @@ stars:
     distance: 261.36
     spectral_class: K3II
   - name:
-    designation: 285 Noniashad
+    designation: <a href="285_noniashad.html">285 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 48.01<sup>s</sup>
     dec: -49° 30' 44.26"
     apparent_magnitude: 7.25
@@ -13472,7 +13472,7 @@ stars:
     distance: 1,039.53
     spectral_class: A2III
   - name:
-    designation: 5420 Noniashad
+    designation: <a href="5420_noniashad.html">5420 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 48.11<sup>s</sup>
     dec: -68° 55' 41.04"
     apparent_magnitude: 7.25
@@ -13504,7 +13504,7 @@ stars:
     distance: 653.61
     spectral_class: F3II
   - name:
-    designation: 1599 Noniashad
+    designation: <a href="1599_noniashad.html">1599 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 37.45<sup>s</sup>
     dec: -66° 59' 57.39"
     apparent_magnitude: 7.25
@@ -13560,7 +13560,7 @@ stars:
     distance: 960.76
     spectral_class: M6III + A3III
   - name:
-    designation: 3552 Noniashad
+    designation: <a href="3552_noniashad.html">3552 Noniashad</a>
     ra: 17<sup>h</sup> 20<sup>m</sup> 33.41<sup>s</sup>
     dec: -51° 25' 47.92"
     apparent_magnitude: 7.26
@@ -13568,7 +13568,7 @@ stars:
     distance: 828.05
     spectral_class: M1III + F7V + A1V + K8III + A7III
   - name:
-    designation: 2750 Noniashad
+    designation: <a href="2750_noniashad.html">2750 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 54.60<sup>s</sup>
     dec: -46° 08' 49.17"
     apparent_magnitude: 7.26
@@ -13648,7 +13648,7 @@ stars:
     distance: 513.49
     spectral_class: F8V + A5V
   - name:
-    designation: 3316 Noniashad
+    designation: <a href="3316_noniashad.html">3316 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 16.98<sup>s</sup>
     dec: -66° 46' 11.28"
     apparent_magnitude: 7.26
@@ -13688,7 +13688,7 @@ stars:
     distance: 591.26
     spectral_class: F5II
   - name:
-    designation: 4328 Noniashad
+    designation: <a href="4328_noniashad.html">4328 Noniashad</a>
     ra: 17<sup>h</sup> 36<sup>m</sup> 54.36<sup>s</sup>
     dec: -47° 10' 11.07"
     apparent_magnitude: 7.26
@@ -13696,7 +13696,7 @@ stars:
     distance: 966.82
     spectral_class: A5III
   - name:
-    designation: 224 Noniashad
+    designation: <a href="224_noniashad.html">224 Noniashad</a>
     ra: 17<sup>h</sup> 56<sup>m</sup> 29.25<sup>s</sup>
     dec: -62° 02' 57.25"
     apparent_magnitude: 7.26
@@ -13776,7 +13776,7 @@ stars:
     distance: 640.39
     spectral_class: A4IV
   - name:
-    designation: 4053 Noniashad
+    designation: <a href="4053_noniashad.html">4053 Noniashad</a>
     ra: 17<sup>h</sup> 54<sup>m</sup> 53.00<sup>s</sup>
     dec: -62° 33' 57.45"
     apparent_magnitude: 7.27
@@ -13864,7 +13864,7 @@ stars:
     distance: 927.13
     spectral_class: A4III
   - name:
-    designation: 1298 Noniashad
+    designation: <a href="1298_noniashad.html">1298 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 29.99<sup>s</sup>
     dec: -46° 50' 34.37"
     apparent_magnitude: 7.28
@@ -13944,7 +13944,7 @@ stars:
     distance: 1,175.78
     spectral_class: K7III + B9III
   - name:
-    designation: 4698 Noniashad
+    designation: <a href="4698_noniashad.html">4698 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 25.76<sup>s</sup>
     dec: -47° 17' 54.89"
     apparent_magnitude: 7.28
@@ -14032,7 +14032,7 @@ stars:
     distance: 298.06
     spectral_class: A4V
   - name:
-    designation: 705 Noniashad
+    designation: <a href="705_noniashad.html">705 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 12.33<sup>s</sup>
     dec: -51° 44' 43.75"
     apparent_magnitude: 7.29
@@ -14136,7 +14136,7 @@ stars:
     distance: 395.60
     spectral_class: G8II
   - name:
-    designation: 235 Noniashad
+    designation: <a href="235_noniashad.html">235 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 58.13<sup>s</sup>
     dec: -60° 13' 9.66"
     apparent_magnitude: 7.29
@@ -14160,7 +14160,7 @@ stars:
     distance: 199.11
     spectral_class: F7V
   - name:
-    designation: 1400 Noniashad
+    designation: <a href="1400_noniashad.html">1400 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 29.13<sup>s</sup>
     dec: -53° 36' 3.14"
     apparent_magnitude: 7.29
@@ -14248,7 +14248,7 @@ stars:
     distance: 699.34
     spectral_class: A5III
   - name:
-    designation: 5233 Noniashad
+    designation: <a href="5233_noniashad.html">5233 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 45.96<sup>s</sup>
     dec: -47° 45' 45.88"
     apparent_magnitude: 7.30
@@ -14264,7 +14264,7 @@ stars:
     distance: 506.67
     spectral_class: A8V + F5V + K8III + G5V + A8V
   - name:
-    designation: 993 Noniashad
+    designation: <a href="993_noniashad.html">993 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 28.08<sup>s</sup>
     dec: -60° 16' 8.11"
     apparent_magnitude: 7.30
@@ -14272,7 +14272,7 @@ stars:
     distance: 533.18
     spectral_class: G9V + K8V + DA + G8II
   - name:
-    designation: 4071 Noniashad
+    designation: <a href="4071_noniashad.html">4071 Noniashad</a>
     ra: 17<sup>h</sup> 40<sup>m</sup> 57.06<sup>s</sup>
     dec: -50° 52' 4.33"
     apparent_magnitude: 7.30
@@ -14440,7 +14440,7 @@ stars:
     distance: 409.07
     spectral_class: F5III
   - name:
-    designation: 2751 Noniashad
+    designation: <a href="2751_noniashad.html">2751 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 40.74<sup>s</sup>
     dec: -62° 09' 33.06"
     apparent_magnitude: 7.31
@@ -14488,7 +14488,7 @@ stars:
     distance: 1,281.77
     spectral_class: A1III
   - name:
-    designation: 4490 Noniashad
+    designation: <a href="4490_noniashad.html">4490 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 57.87<sup>s</sup>
     dec: -49° 56' 45.72"
     apparent_magnitude: 7.31
@@ -14504,7 +14504,7 @@ stars:
     distance: 405.18
     spectral_class: M9III + A1V
   - name:
-    designation: 1096 Noniashad
+    designation: <a href="1096_noniashad.html">1096 Noniashad</a>
     ra: 17<sup>h</sup> 54<sup>m</sup> 43.09<sup>s</sup>
     dec: -49° 16' 47.74"
     apparent_magnitude: 7.32
@@ -14536,7 +14536,7 @@ stars:
     distance: 405.35
     spectral_class: G1V + A4V
   - name:
-    designation: 241 Noniashad
+    designation: <a href="241_noniashad.html">241 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 43.35<sup>s</sup>
     dec: -56° 37' 13.54"
     apparent_magnitude: 7.32
@@ -14616,7 +14616,7 @@ stars:
     distance: 192.96
     spectral_class: K1II
   - name:
-    designation: 242 Noniashad
+    designation: <a href="242_noniashad.html">242 Noniashad</a>
     ra: 17<sup>h</sup> 32<sup>m</sup> 28.08<sup>s</sup>
     dec: -55° 36' 47.84"
     apparent_magnitude: 7.32
@@ -14632,7 +14632,7 @@ stars:
     distance: 1,285.47
     spectral_class: A1III
   - name:
-    designation: 4935 Noniashad
+    designation: <a href="4935_noniashad.html">4935 Noniashad</a>
     ra: 17<sup>h</sup> 54<sup>m</sup> 17.44<sup>s</sup>
     dec: -51° 56' 22.58"
     apparent_magnitude: 7.32
@@ -14664,7 +14664,7 @@ stars:
     distance: 1,285.66
     spectral_class: A1III
   - name:
-    designation: 243 Noniashad
+    designation: <a href="243_noniashad.html">243 Noniashad</a>
     ra: 17<sup>h</sup> 35<sup>m</sup> 2.73<sup>s</sup>
     dec: -61° 02' 59.87"
     apparent_magnitude: 7.32
@@ -14680,7 +14680,7 @@ stars:
     distance: 514.99
     spectral_class: G3III + A7V
   - name:
-    designation: 2923 Noniashad
+    designation: <a href="2923_noniashad.html">2923 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 10.72<sup>s</sup>
     dec: -64° 46' 12.31"
     apparent_magnitude: 7.32
@@ -14696,7 +14696,7 @@ stars:
     distance: 979.75
     spectral_class: K7III + A7II
   - name:
-    designation: 2915 Noniashad
+    designation: <a href="2915_noniashad.html">2915 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 41.78<sup>s</sup>
     dec: -61° 05' 23.44"
     apparent_magnitude: 7.32
@@ -14808,7 +14808,7 @@ stars:
     distance: 601.67
     spectral_class: A7III
   - name:
-    designation: 3628 Noniashad
+    designation: <a href="3628_noniashad.html">3628 Noniashad</a>
     ra: 17<sup>h</sup> 24<sup>m</sup> 47.56<sup>s</sup>
     dec: -63° 31' 23.55"
     apparent_magnitude: 7.33
@@ -14936,7 +14936,7 @@ stars:
     distance: 476.17
     spectral_class: G9V + A6V
   - name:
-    designation: 3111 Noniashad
+    designation: <a href="3111_noniashad.html">3111 Noniashad</a>
     ra: 16<sup>h</sup> 59<sup>m</sup> 23.32<sup>s</sup>
     dec: -63° 54' 50.54"
     apparent_magnitude: 7.34
@@ -15088,7 +15088,7 @@ stars:
     distance: 542.68
     spectral_class: K8III + B9V
   - name:
-    designation: 255 Noniashad
+    designation: <a href="255_noniashad.html">255 Noniashad</a>
     ra: 17<sup>h</sup> 52<sup>m</sup> 55.57<sup>s</sup>
     dec: -57° 15' 17.87"
     apparent_magnitude: 7.35
@@ -15136,7 +15136,7 @@ stars:
     distance: 201.79
     spectral_class: K1II
   - name:
-    designation: 1720 Noniashad
+    designation: <a href="1720_noniashad.html">1720 Noniashad</a>
     ra: 17<sup>h</sup> 02<sup>m</sup> 45.15<sup>s</sup>
     dec: -67° 56' 5.57"
     apparent_magnitude: 7.35
@@ -15144,7 +15144,7 @@ stars:
     distance: 787.82
     spectral_class: F8V + K7III + A6III
   - name:
-    designation: 403 Noniashad
+    designation: <a href="403_noniashad.html">403 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 35.32<sup>s</sup>
     dec: -56° 45' 56.23"
     apparent_magnitude: 7.35
@@ -15160,7 +15160,7 @@ stars:
     distance: 1,386.33
     spectral_class: M0III + A1III
   - name:
-    designation: 840 Noniashad
+    designation: <a href="840_noniashad.html">840 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 39.83<sup>s</sup>
     dec: -62° 44' 22.31"
     apparent_magnitude: 7.35
@@ -15200,7 +15200,7 @@ stars:
     distance: 517.24
     spectral_class: M3III + A9II
   - name:
-    designation: 2779 Noniashad
+    designation: <a href="2779_noniashad.html">2779 Noniashad</a>
     ra: 17<sup>h</sup> 31<sup>m</sup> 5.05<sup>s</sup>
     dec: -59° 55' 40.80"
     apparent_magnitude: 7.36
@@ -15232,7 +15232,7 @@ stars:
     distance: 474.36
     spectral_class: F7III + A2V
   - name:
-    designation: 3116 Noniashad
+    designation: <a href="3116_noniashad.html">3116 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 9.92<sup>s</sup>
     dec: -67° 24' 33.12"
     apparent_magnitude: 7.36
@@ -15240,7 +15240,7 @@ stars:
     distance: 357.20
     spectral_class: A8V
   - name:
-    designation: 1730 Noniashad
+    designation: <a href="1730_noniashad.html">1730 Noniashad</a>
     ra: 17<sup>h</sup> 17<sup>m</sup> 48.38<sup>s</sup>
     dec: -67° 43' 29.39"
     apparent_magnitude: 7.36
@@ -15264,7 +15264,7 @@ stars:
     distance: 517.15
     spectral_class: F5II
   - name:
-    designation: 4580 Noniashad
+    designation: <a href="4580_noniashad.html">4580 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 55.21<sup>s</sup>
     dec: -51° 09' 44.62"
     apparent_magnitude: 7.36
@@ -15304,7 +15304,7 @@ stars:
     distance: 1,417.68
     spectral_class: A1III
   - name:
-    designation: 4575 Noniashad
+    designation: <a href="4575_noniashad.html">4575 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 35.27<sup>s</sup>
     dec: -52° 00' 30.85"
     apparent_magnitude: 7.36
@@ -15320,7 +15320,7 @@ stars:
     distance: 1,141.37
     spectral_class: A3III
   - name:
-    designation: 1254 Noniashad
+    designation: <a href="1254_noniashad.html">1254 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 32.24<sup>s</sup>
     dec: -55° 53' 0.64"
     apparent_magnitude: 7.37
@@ -15344,7 +15344,7 @@ stars:
     distance: 1,216.69
     spectral_class: A4III
   - name:
-    designation: 4137 Noniashad
+    designation: <a href="4137_noniashad.html">4137 Noniashad</a>
     ra: 17<sup>h</sup> 33<sup>m</sup> 54.09<sup>s</sup>
     dec: -60° 28' 10.71"
     apparent_magnitude: 7.37
@@ -15424,7 +15424,7 @@ stars:
     distance: 308.61
     spectral_class: A9V
   - name:
-    designation: 1790 Noniashad
+    designation: <a href="1790_noniashad.html">1790 Noniashad</a>
     ra: 17<sup>h</sup> 50<sup>m</sup> 17.36<sup>s</sup>
     dec: -49° 54' 48.56"
     apparent_magnitude: 7.37
@@ -15440,7 +15440,7 @@ stars:
     distance: 304.76
     spectral_class: K3II
   - name:
-    designation: 1849 Noniashad
+    designation: <a href="1849_noniashad.html">1849 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 5.80<sup>s</sup>
     dec: -65° 04' 15.59"
     apparent_magnitude: 7.37
@@ -15472,7 +15472,7 @@ stars:
     distance: 1,294.78
     spectral_class: A3III
   - name:
-    designation: 3623 Noniashad
+    designation: <a href="3623_noniashad.html">3623 Noniashad</a>
     ra: 17<sup>h</sup> 32<sup>m</sup> 1.88<sup>s</sup>
     dec: -59° 18' 6.40"
     apparent_magnitude: 7.37
@@ -15504,7 +15504,7 @@ stars:
     distance: 332.70
     spectral_class: K1II
   - name:
-    designation: 4845 Noniashad
+    designation: <a href="4845_noniashad.html">4845 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 34.12<sup>s</sup>
     dec: -52° 50' 50.73"
     apparent_magnitude: 7.37
@@ -15528,7 +15528,7 @@ stars:
     distance: 1,640.60
     spectral_class: A4II
   - name:
-    designation: 283 Noniashad
+    designation: <a href="283_noniashad.html">283 Noniashad</a>
     ra: 18<sup>h</sup> 00<sup>m</sup> 1.14<sup>s</sup>
     dec: -48° 37' 5.87"
     apparent_magnitude: 7.37
@@ -15600,7 +15600,7 @@ stars:
     distance: 1,301.44
     spectral_class: A3III
   - name:
-    designation: 1888 Noniashad
+    designation: <a href="1888_noniashad.html">1888 Noniashad</a>
     ra: 17<sup>h</sup> 32<sup>m</sup> 16.48<sup>s</sup>
     dec: -62° 40' 54.70"
     apparent_magnitude: 7.38
@@ -15680,7 +15680,7 @@ stars:
     distance: 551.11
     spectral_class: M2III + A0V
   - name:
-    designation: 2561 Noniashad
+    designation: <a href="2561_noniashad.html">2561 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 30.96<sup>s</sup>
     dec: -46° 39' 18.60"
     apparent_magnitude: 7.38
@@ -15760,7 +15760,7 @@ stars:
     distance: 860.41
     spectral_class: A5III
   - name:
-    designation: 3271 Noniashad
+    designation: <a href="3271_noniashad.html">3271 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 12.09<sup>s</sup>
     dec: -50° 17' 27.23"
     apparent_magnitude: 7.38
@@ -15824,7 +15824,7 @@ stars:
     distance: 290.62
     spectral_class: G9III
   - name:
-    designation: 2297 Noniashad
+    designation: <a href="2297_noniashad.html">2297 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 29.27<sup>s</sup>
     dec: -48° 39' 4.48"
     apparent_magnitude: 7.39
@@ -15848,7 +15848,7 @@ stars:
     distance: 499.04
     spectral_class: F2V + A6V
   - name:
-    designation: 392 Noniashad
+    designation: <a href="392_noniashad.html">392 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 57.61<sup>s</sup>
     dec: -58° 02' 56.11"
     apparent_magnitude: 7.39
@@ -15976,7 +15976,7 @@ stars:
     distance: 518.18
     spectral_class: G7V + A9IV
   - name:
-    designation: 3874 Noniashad
+    designation: <a href="3874_noniashad.html">3874 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 28.57<sup>s</sup>
     dec: -49° 46' 31.54"
     apparent_magnitude: 7.39
@@ -16088,7 +16088,7 @@ stars:
     distance: 262.66
     spectral_class: G9V + A6V
   - name:
-    designation: 4900 Noniashad
+    designation: <a href="4900_noniashad.html">4900 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 12.00<sup>s</sup>
     dec: -55° 34' 31.45"
     apparent_magnitude: 7.40
@@ -16168,7 +16168,7 @@ stars:
     distance: 1,000.16
     spectral_class: K6Ib
   - name:
-    designation: 3532 Noniashad
+    designation: <a href="3532_noniashad.html">3532 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 58.41<sup>s</sup>
     dec: -54° 40' 8.21"
     apparent_magnitude: 7.41
@@ -16264,7 +16264,7 @@ stars:
     distance: 854.56
     spectral_class: K6III + A2IV
   - name:
-    designation: 275 Noniashad
+    designation: <a href="275_noniashad.html">275 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 25.83<sup>s</sup>
     dec: -51° 44' 34.22"
     apparent_magnitude: 7.41
@@ -16352,7 +16352,7 @@ stars:
     distance: 1,023.80
     spectral_class: K8III + A4III
   - name:
-    designation: 694 Noniashad
+    designation: <a href="694_noniashad.html">694 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 7.61<sup>s</sup>
     dec: -51° 04' 7.55"
     apparent_magnitude: 7.42
@@ -16392,7 +16392,7 @@ stars:
     distance: 650.26
     spectral_class: K3III + F1V + F3V + A8III
   - name:
-    designation: 3494 Noniashad
+    designation: <a href="3494_noniashad.html">3494 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 29.42<sup>s</sup>
     dec: -55° 47' 45.76"
     apparent_magnitude: 7.42
@@ -16424,7 +16424,7 @@ stars:
     distance: 1,073.49
     spectral_class: A2III
   - name:
-    designation: 1635 Noniashad
+    designation: <a href="1635_noniashad.html">1635 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 5.15<sup>s</sup>
     dec: -65° 01' 43.46"
     apparent_magnitude: 7.42
@@ -16440,7 +16440,7 @@ stars:
     distance: 897.28
     spectral_class: M5Iab
   - name:
-    designation: 281 Noniashad
+    designation: <a href="281_noniashad.html">281 Noniashad</a>
     ra: 17<sup>h</sup> 39<sup>m</sup> 14.22<sup>s</sup>
     dec: -54° 41' 8.88"
     apparent_magnitude: 7.42
@@ -16480,7 +16480,7 @@ stars:
     distance: 902.26
     spectral_class: F9V + A7II
   - name:
-    designation: 2772 Noniashad
+    designation: <a href="2772_noniashad.html">2772 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 0.89<sup>s</sup>
     dec: -56° 16' 24.16"
     apparent_magnitude: 7.42
@@ -16568,7 +16568,7 @@ stars:
     distance: 966.15
     spectral_class: A6III
   - name:
-    designation: 5134 Noniashad
+    designation: <a href="5134_noniashad.html">5134 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 44.65<sup>s</sup>
     dec: -52° 20' 0.26"
     apparent_magnitude: 7.43
@@ -16632,7 +16632,7 @@ stars:
     distance: 536.19
     spectral_class: A3V
   - name:
-    designation: 4626 Noniashad
+    designation: <a href="4626_noniashad.html">4626 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 16.29<sup>s</sup>
     dec: -48° 06' 44.76"
     apparent_magnitude: 7.43
@@ -16648,7 +16648,7 @@ stars:
     distance: 1,312.26
     spectral_class: A3III
   - name:
-    designation: 4442 Noniashad
+    designation: <a href="4442_noniashad.html">4442 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 43.68<sup>s</sup>
     dec: -47° 11' 37.02"
     apparent_magnitude: 7.43
@@ -16672,7 +16672,7 @@ stars:
     distance: 1,317.03
     spectral_class: A1III
   - name:
-    designation: 5277 Noniashad
+    designation: <a href="5277_noniashad.html">5277 Noniashad</a>
     ra: 17<sup>h</sup> 52<sup>m</sup> 1.80<sup>s</sup>
     dec: -46° 59' 50.64"
     apparent_magnitude: 7.44
@@ -16688,7 +16688,7 @@ stars:
     distance: 436.96
     spectral_class: G1V + A4V
   - name:
-    designation: 5488 Noniashad
+    designation: <a href="5488_noniashad.html">5488 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 58.29<sup>s</sup>
     dec: -56° 24' 6.12"
     apparent_magnitude: 7.44
@@ -16744,7 +16744,7 @@ stars:
     distance: 378.57
     spectral_class: G0V + A3V
   - name:
-    designation: 582 Noniashad
+    designation: <a href="582_noniashad.html">582 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 13.02<sup>s</sup>
     dec: -55° 19' 19.87"
     apparent_magnitude: 7.44
@@ -16888,7 +16888,7 @@ stars:
     distance: 324.31
     spectral_class: G7III
   - name:
-    designation: 5347 Noniashad
+    designation: <a href="5347_noniashad.html">5347 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 15.59<sup>s</sup>
     dec: -65° 41' 13.48"
     apparent_magnitude: 7.45
@@ -16896,7 +16896,7 @@ stars:
     distance: 314.93
     spectral_class: K8III + G8V + G7V + A6V
   - name:
-    designation: 2476 Noniashad
+    designation: <a href="2476_noniashad.html">2476 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 6.55<sup>s</sup>
     dec: -65° 04' 18.59"
     apparent_magnitude: 7.45
@@ -16928,7 +16928,7 @@ stars:
     distance: 278.43
     spectral_class: K3II
   - name:
-    designation: 928 Noniashad
+    designation: <a href="928_noniashad.html">928 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 35.33<sup>s</sup>
     dec: -55° 48' 21.53"
     apparent_magnitude: 7.45
@@ -16944,7 +16944,7 @@ stars:
     distance: 1,150.24
     spectral_class: K7III + A4III
   - name:
-    designation: 3515 Noniashad
+    designation: <a href="3515_noniashad.html">3515 Noniashad</a>
     ra: 17<sup>h</sup> 55<sup>m</sup> 31.06<sup>s</sup>
     dec: -58° 39' 43.50"
     apparent_magnitude: 7.46
@@ -17008,7 +17008,7 @@ stars:
     distance: 208.77
     spectral_class: A7V
   - name:
-    designation: 4683 Noniashad
+    designation: <a href="4683_noniashad.html">4683 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 52.89<sup>s</sup>
     dec: -56° 10' 36.36"
     apparent_magnitude: 7.46
@@ -17064,7 +17064,7 @@ stars:
     distance: 1,318.39
     spectral_class: A3III
   - name:
-    designation: 4934 Noniashad
+    designation: <a href="4934_noniashad.html">4934 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 3.59<sup>s</sup>
     dec: -48° 10' 53.20"
     apparent_magnitude: 7.46
@@ -17088,7 +17088,7 @@ stars:
     distance: 538.21
     spectral_class: G7V + A9IV
   - name:
-    designation: 832 Noniashad
+    designation: <a href="832_noniashad.html">832 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 30.83<sup>s</sup>
     dec: -58° 56' 33.25"
     apparent_magnitude: 7.46
@@ -17128,7 +17128,7 @@ stars:
     distance: 1,080.15
     spectral_class: A2III
   - name:
-    designation: 1549 Noniashad
+    designation: <a href="1549_noniashad.html">1549 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 48.79<sup>s</sup>
     dec: -53° 46' 37.33"
     apparent_magnitude: 7.47
@@ -17168,7 +17168,7 @@ stars:
     distance: 400.05
     spectral_class: A6V
   - name:
-    designation: 1199 Noniashad
+    designation: <a href="1199_noniashad.html">1199 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 23.99<sup>s</sup>
     dec: -49° 35' 5.05"
     apparent_magnitude: 7.47
@@ -17176,7 +17176,7 @@ stars:
     distance: 542.49
     spectral_class: A2V
   - name:
-    designation: 4933 Noniashad
+    designation: <a href="4933_noniashad.html">4933 Noniashad</a>
     ra: 18<sup>h</sup> 00<sup>m</sup> 9.65<sup>s</sup>
     dec: -48° 57' 56.68"
     apparent_magnitude: 7.47
@@ -17264,7 +17264,7 @@ stars:
     distance: 502.64
     spectral_class: F5II
   - name:
-    designation: 4447 Noniashad
+    designation: <a href="4447_noniashad.html">4447 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 52.57<sup>s</sup>
     dec: -60° 42' 26.11"
     apparent_magnitude: 7.47
@@ -17280,7 +17280,7 @@ stars:
     distance: 424.40
     spectral_class: G3V + A5V
   - name:
-    designation: 378 Noniashad
+    designation: <a href="378_noniashad.html">378 Noniashad</a>
     ra: 16<sup>h</sup> 56<sup>m</sup> 5.92<sup>s</sup>
     dec: -63° 15' 3.59"
     apparent_magnitude: 7.47
@@ -17320,7 +17320,7 @@ stars:
     distance: 368.94
     spectral_class: A2V
   - name:
-    designation: 2611 Noniashad
+    designation: <a href="2611_noniashad.html">2611 Noniashad</a>
     ra: 17<sup>h</sup> 24<sup>m</sup> 38.79<sup>s</sup>
     dec: -66° 44' 15.57"
     apparent_magnitude: 7.47
@@ -17328,7 +17328,7 @@ stars:
     distance: 306.37
     spectral_class: F3V + M9V + G2V + M7V + F4V
   - name:
-    designation: 2703 Noniashad
+    designation: <a href="2703_noniashad.html">2703 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 38.00<sup>s</sup>
     dec: -47° 49' 22.71"
     apparent_magnitude: 7.47
@@ -17392,7 +17392,7 @@ stars:
     distance: 979.47
     spectral_class: A6III
   - name:
-    designation: 2256 Noniashad
+    designation: <a href="2256_noniashad.html">2256 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 16.89<sup>s</sup>
     dec: -61° 27' 38.87"
     apparent_magnitude: 7.48
@@ -17400,7 +17400,7 @@ stars:
     distance: 676.88
     spectral_class: F4V + K6III + A7III
   - name:
-    designation: 5039 Noniashad
+    designation: <a href="5039_noniashad.html">5039 Noniashad</a>
     ra: 17<sup>h</sup> 32<sup>m</sup> 33.36<sup>s</sup>
     dec: -49° 31' 25.24"
     apparent_magnitude: 7.48
@@ -17408,7 +17408,7 @@ stars:
     distance: 405.11
     spectral_class: A1V
   - name:
-    designation: 4727 Noniashad
+    designation: <a href="4727_noniashad.html">4727 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 47.13<sup>s</sup>
     dec: -56° 31' 14.39"
     apparent_magnitude: 7.48
@@ -17440,7 +17440,7 @@ stars:
     distance: 277.39
     spectral_class: K7II
   - name:
-    designation: 1988 Noniashad
+    designation: <a href="1988_noniashad.html">1988 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 39.25<sup>s</sup>
     dec: -66° 11' 48.60"
     apparent_magnitude: 7.48
@@ -17472,7 +17472,7 @@ stars:
     distance: 315.90
     spectral_class: A6V
   - name:
-    designation: 1842 Noniashad
+    designation: <a href="1842_noniashad.html">1842 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 5.95<sup>s</sup>
     dec: -61° 35' 29.86"
     apparent_magnitude: 7.48
@@ -17488,7 +17488,7 @@ stars:
     distance: 916.27
     spectral_class: G7V + A0IV
   - name:
-    designation: 1974 Noniashad
+    designation: <a href="1974_noniashad.html">1974 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 44.72<sup>s</sup>
     dec: -65° 55' 50.57"
     apparent_magnitude: 7.48
@@ -17600,7 +17600,7 @@ stars:
     distance: 898.26
     spectral_class: A3IV
   - name:
-    designation: 3536 Noniashad
+    designation: <a href="3536_noniashad.html">3536 Noniashad</a>
     ra: 17<sup>h</sup> 34<sup>m</sup> 48.26<sup>s</sup>
     dec: -47° 23' 40.46"
     apparent_magnitude: 7.49
@@ -17608,7 +17608,7 @@ stars:
     distance: 792.94
     spectral_class: M9III + K8III + A6V + A6III
   - name:
-    designation: 4752 Noniashad
+    designation: <a href="4752_noniashad.html">4752 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 6.39<sup>s</sup>
     dec: -52° 30' 58.41"
     apparent_magnitude: 7.49
@@ -17736,7 +17736,7 @@ stars:
     distance: 573.57
     spectral_class: M2III + A0V
   - name:
-    designation: 310 Noniashad
+    designation: <a href="310_noniashad.html">310 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 46.49<sup>s</sup>
     dec: -47° 26' 40.35"
     apparent_magnitude: 7.50
@@ -17776,7 +17776,7 @@ stars:
     distance: 691.44
     spectral_class: M3III + A6III
   - name:
-    designation: 4204 Noniashad
+    designation: <a href="4204_noniashad.html">4204 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 18.51<sup>s</sup>
     dec: -57° 34' 50.27"
     apparent_magnitude: 7.50
@@ -17808,7 +17808,7 @@ stars:
     distance: 519.98
     spectral_class: F1V + A4V
   - name:
-    designation: 1992 Noniashad
+    designation: <a href="1992_noniashad.html">1992 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 49.42<sup>s</sup>
     dec: -53° 21' 16.06"
     apparent_magnitude: 7.50
@@ -17840,7 +17840,7 @@ stars:
     distance: 356.97
     spectral_class: F6V + A3V
   - name:
-    designation: 3015 Noniashad
+    designation: <a href="3015_noniashad.html">3015 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 36.11<sup>s</sup>
     dec: -46° 26' 34.40"
     apparent_magnitude: 7.50
@@ -17904,7 +17904,7 @@ stars:
     distance: 1,024.73
     spectral_class: K8III + A4III
   - name:
-    designation: 1494 Noniashad
+    designation: <a href="1494_noniashad.html">1494 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 47.57<sup>s</sup>
     dec: -58° 08' 17.06"
     apparent_magnitude: 7.51
@@ -17984,7 +17984,7 @@ stars:
     distance: 572.14
     spectral_class: M9Ia
   - name:
-    designation: 317 Noniashad
+    designation: <a href="317_noniashad.html">317 Noniashad</a>
     ra: 17<sup>h</sup> 33<sup>m</sup> 27.24<sup>s</sup>
     dec: -55° 23' 54.43"
     apparent_magnitude: 7.51
@@ -18104,7 +18104,7 @@ stars:
     distance: 1,677.02
     spectral_class: M8III + A1III
   - name:
-    designation: 784 Noniashad
+    designation: <a href="784_noniashad.html">784 Noniashad</a>
     ra: 17<sup>h</sup> 45<sup>m</sup> 58.46<sup>s</sup>
     dec: -68° 29' 37.96"
     apparent_magnitude: 7.52
@@ -18112,7 +18112,7 @@ stars:
     distance: 495.05
     spectral_class: G5V + K1V + K4V + F2IV
   - name:
-    designation: 2161 Noniashad
+    designation: <a href="2161_noniashad.html">2161 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 57.78<sup>s</sup>
     dec: -46° 35' 51.14"
     apparent_magnitude: 7.52
@@ -18264,7 +18264,7 @@ stars:
     distance: 307.37
     spectral_class: K7II
   - name:
-    designation: 4364 Noniashad
+    designation: <a href="4364_noniashad.html">4364 Noniashad</a>
     ra: 17<sup>h</sup> 27<sup>m</sup> 9.61<sup>s</sup>
     dec: -54° 15' 32.72"
     apparent_magnitude: 7.53
@@ -18512,7 +18512,7 @@ stars:
     distance: 582.42
     spectral_class: F9V + F8II
   - name:
-    designation: 3022 Noniashad
+    designation: <a href="3022_noniashad.html">3022 Noniashad</a>
     ra: 17<sup>h</sup> 45<sup>m</sup> 48.64<sup>s</sup>
     dec: -46° 18' 36.52"
     apparent_magnitude: 7.54
@@ -18544,7 +18544,7 @@ stars:
     distance: 918.28
     spectral_class: A6II
   - name:
-    designation: 2164 Noniashad
+    designation: <a href="2164_noniashad.html">2164 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 23.60<sup>s</sup>
     dec: -49° 48' 7.18"
     apparent_magnitude: 7.54
@@ -18600,7 +18600,7 @@ stars:
     distance: 519.52
     spectral_class: A5V
   - name:
-    designation: 3341 Noniashad
+    designation: <a href="3341_noniashad.html">3341 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 2.68<sup>s</sup>
     dec: -60° 18' 55.98"
     apparent_magnitude: 7.54
@@ -18640,7 +18640,7 @@ stars:
     distance: 463.26
     spectral_class: A3V
   - name:
-    designation: 358 Noniashad
+    designation: <a href="358_noniashad.html">358 Noniashad</a>
     ra: 17<sup>h</sup> 19<sup>m</sup> 49.54<sup>s</sup>
     dec: -52° 00' 29.61"
     apparent_magnitude: 7.55
@@ -18664,7 +18664,7 @@ stars:
     distance: 506.72
     spectral_class: G6II
   - name:
-    designation: 380 Noniashad
+    designation: <a href="380_noniashad.html">380 Noniashad</a>
     ra: 17<sup>h</sup> 17<sup>m</sup> 38.73<sup>s</sup>
     dec: -65° 08' 57.96"
     apparent_magnitude: 7.55
@@ -18696,7 +18696,7 @@ stars:
     distance: 534.18
     spectral_class: F1V + A3V
   - name:
-    designation: 335 Noniashad
+    designation: <a href="335_noniashad.html">335 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 44.01<sup>s</sup>
     dec: -68° 06' 45.06"
     apparent_magnitude: 7.55
@@ -18768,7 +18768,7 @@ stars:
     distance: 538.83
     spectral_class: A8III
   - name:
-    designation: 334 Noniashad
+    designation: <a href="334_noniashad.html">334 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 12.59<sup>s</sup>
     dec: -68° 16' 44.43"
     apparent_magnitude: 7.55
@@ -18856,7 +18856,7 @@ stars:
     distance: 915.15
     spectral_class: A6III
   - name:
-    designation: 2139 Noniashad
+    designation: <a href="2139_noniashad.html">2139 Noniashad</a>
     ra: 18<sup>h</sup> 00<sup>m</sup> 20.86<sup>s</sup>
     dec: -65° 41' 5.85"
     apparent_magnitude: 7.56
@@ -18872,7 +18872,7 @@ stars:
     distance: 1,335.37
     spectral_class: A3III
   - name:
-    designation: 2410 Noniashad
+    designation: <a href="2410_noniashad.html">2410 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 15.31<sup>s</sup>
     dec: -46° 59' 34.32"
     apparent_magnitude: 7.56
@@ -18888,7 +18888,7 @@ stars:
     distance: 610.42
     spectral_class: F5II
   - name:
-    designation: 341 Noniashad
+    designation: <a href="341_noniashad.html">341 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 55.07<sup>s</sup>
     dec: -63° 20' 45.03"
     apparent_magnitude: 7.56
@@ -18896,7 +18896,7 @@ stars:
     distance: 406.05
     spectral_class: K0V + G1V + G5V + A9V
   - name:
-    designation: 359 Noniashad
+    designation: <a href="359_noniashad.html">359 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 24.82<sup>s</sup>
     dec: -48° 07' 29.00"
     apparent_magnitude: 7.56
@@ -18976,7 +18976,7 @@ stars:
     distance: 944.36
     spectral_class: A2IV
   - name:
-    designation: 347 Noniashad
+    designation: <a href="347_noniashad.html">347 Noniashad</a>
     ra: 17<sup>h</sup> 15<sup>m</sup> 20.87<sup>s</sup>
     dec: -57° 04' 50.35"
     apparent_magnitude: 7.56
@@ -19008,7 +19008,7 @@ stars:
     distance: 1,468.58
     spectral_class: A2III
   - name:
-    designation: 3477 Noniashad
+    designation: <a href="3477_noniashad.html">3477 Noniashad</a>
     ra: 17<sup>h</sup> 59<sup>m</sup> 50.75<sup>s</sup>
     dec: -50° 33' 54.31"
     apparent_magnitude: 7.56
@@ -19024,7 +19024,7 @@ stars:
     distance: 1,121.10
     spectral_class: M0Ib
   - name:
-    designation: 3258 Noniashad
+    designation: <a href="3258_noniashad.html">3258 Noniashad</a>
     ra: 17<sup>h</sup> 41<sup>m</sup> 2.96<sup>s</sup>
     dec: -54° 44' 26.34"
     apparent_magnitude: 7.56
@@ -19112,7 +19112,7 @@ stars:
     distance: 164.74
     spectral_class: F7V
   - name:
-    designation: 3425 Noniashad
+    designation: <a href="3425_noniashad.html">3425 Noniashad</a>
     ra: 17<sup>h</sup> 17<sup>m</sup> 27.65<sup>s</sup>
     dec: -49° 41' 43.69"
     apparent_magnitude: 7.57
@@ -19144,7 +19144,7 @@ stars:
     distance: 806.22
     spectral_class: F3V + A1IV
   - name:
-    designation: 4829 Noniashad
+    designation: <a href="4829_noniashad.html">4829 Noniashad</a>
     ra: 17<sup>h</sup> 59<sup>m</sup> 47.71<sup>s</sup>
     dec: -46° 37' 54.24"
     apparent_magnitude: 7.57
@@ -19240,7 +19240,7 @@ stars:
     distance: 631.16
     spectral_class: A8III
   - name:
-    designation: 1597 Noniashad
+    designation: <a href="1597_noniashad.html">1597 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 25.64<sup>s</sup>
     dec: -66° 05' 31.08"
     apparent_magnitude: 7.58
@@ -19264,7 +19264,7 @@ stars:
     distance: 1,349.05
     spectral_class: A1III
   - name:
-    designation: 1489 Noniashad
+    designation: <a href="1489_noniashad.html">1489 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 6.51<sup>s</sup>
     dec: -59° 33' 11.73"
     apparent_magnitude: 7.58
@@ -19288,7 +19288,7 @@ stars:
     distance: 1,204.73
     spectral_class: K5Ib
   - name:
-    designation: 3217 Noniashad
+    designation: <a href="3217_noniashad.html">3217 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 23.83<sup>s</sup>
     dec: -48° 12' 20.24"
     apparent_magnitude: 7.58
@@ -19464,7 +19464,7 @@ stars:
     distance: 795.84
     spectral_class: A7III
   - name:
-    designation: 4793 Noniashad
+    designation: <a href="4793_noniashad.html">4793 Noniashad</a>
     ra: 17<sup>h</sup> 50<sup>m</sup> 10.94<sup>s</sup>
     dec: -48° 35' 30.44"
     apparent_magnitude: 7.59
@@ -19496,7 +19496,7 @@ stars:
     distance: 1,014.35
     spectral_class: A0V + A5V + A4III
   - name:
-    designation: 4006 Noniashad
+    designation: <a href="4006_noniashad.html">4006 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 3.82<sup>s</sup>
     dec: -56° 26' 46.95"
     apparent_magnitude: 7.59
@@ -19520,7 +19520,7 @@ stars:
     distance: 1,697.59
     spectral_class: M8III + A1III
   - name:
-    designation: 3051 Noniashad
+    designation: <a href="3051_noniashad.html">3051 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 28.95<sup>s</sup>
     dec: -47° 24' 39.14"
     apparent_magnitude: 7.59
@@ -19568,7 +19568,7 @@ stars:
     distance: 604.68
     spectral_class: F8II
   - name:
-    designation: 2099 Noniashad
+    designation: <a href="2099_noniashad.html">2099 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 35.64<sup>s</sup>
     dec: -66° 06' 49.83"
     apparent_magnitude: 7.60
@@ -19576,7 +19576,7 @@ stars:
     distance: 1,062.41
     spectral_class: F0V + K5III + A1IV
   - name:
-    designation: 355 Noniashad
+    designation: <a href="355_noniashad.html">355 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 13.24<sup>s</sup>
     dec: -68° 27' 31.30"
     apparent_magnitude: 7.60
@@ -19584,7 +19584,7 @@ stars:
     distance: 821.83
     spectral_class: F8V + K7III + A6III
   - name:
-    designation: 1642 Noniashad
+    designation: <a href="1642_noniashad.html">1642 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 22.11<sup>s</sup>
     dec: -61° 20' 45.22"
     apparent_magnitude: 7.60
@@ -19600,7 +19600,7 @@ stars:
     distance: 1,035.70
     spectral_class: A6II
   - name:
-    designation: 5031 Noniashad
+    designation: <a href="5031_noniashad.html">5031 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 19.73<sup>s</sup>
     dec: -57° 27' 8.13"
     apparent_magnitude: 7.60
@@ -19632,7 +19632,7 @@ stars:
     distance: 531.51
     spectral_class: F4V + A4V
   - name:
-    designation: 2030 Noniashad
+    designation: <a href="2030_noniashad.html">2030 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 7.98<sup>s</sup>
     dec: -62° 13' 43.61"
     apparent_magnitude: 7.60
@@ -19800,7 +19800,7 @@ stars:
     distance: 800.26
     spectral_class: F9V + F9V + A9II
   - name:
-    designation: 1894 Noniashad
+    designation: <a href="1894_noniashad.html">1894 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 21.44<sup>s</sup>
     dec: -59° 44' 27.77"
     apparent_magnitude: 7.61
@@ -19848,7 +19848,7 @@ stars:
     distance: 249.41
     spectral_class: G6V + A5V
   - name:
-    designation: 1374 Noniashad
+    designation: <a href="1374_noniashad.html">1374 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 36.70<sup>s</sup>
     dec: -55° 57' 59.73"
     apparent_magnitude: 7.61
@@ -19864,7 +19864,7 @@ stars:
     distance: 457.40
     spectral_class: A9III
   - name:
-    designation: 4211 Noniashad
+    designation: <a href="4211_noniashad.html">4211 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 4.88<sup>s</sup>
     dec: -52° 53' 1.57"
     apparent_magnitude: 7.61
@@ -19904,7 +19904,7 @@ stars:
     distance: 514.16
     spectral_class: G9V + A4V
   - name:
-    designation: 4758 Noniashad
+    designation: <a href="4758_noniashad.html">4758 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 22.28<sup>s</sup>
     dec: -51° 26' 26.03"
     apparent_magnitude: 7.62
@@ -19928,7 +19928,7 @@ stars:
     distance: 481.69
     spectral_class: A7V
   - name:
-    designation: 1456 Noniashad
+    designation: <a href="1456_noniashad.html">1456 Noniashad</a>
     ra: 16<sup>h</sup> 59<sup>m</sup> 1.98<sup>s</sup>
     dec: -49° 48' 6.21"
     apparent_magnitude: 7.62
@@ -19944,7 +19944,7 @@ stars:
     distance: 236.24
     spectral_class: K7V + A9V
   - name:
-    designation: 4709 Noniashad
+    designation: <a href="4709_noniashad.html">4709 Noniashad</a>
     ra: 16<sup>h</sup> 59<sup>m</sup> 49.94<sup>s</sup>
     dec: -47° 50' 10.76"
     apparent_magnitude: 7.62
@@ -20136,7 +20136,7 @@ stars:
     distance: 1,182.03
     spectral_class: K7III + A4III
   - name:
-    designation: 372 Noniashad
+    designation: <a href="372_noniashad.html">372 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 58.20<sup>s</sup>
     dec: -50° 15' 5.93"
     apparent_magnitude: 7.63
@@ -20160,7 +20160,7 @@ stars:
     distance: 605.49
     spectral_class: K6III + A7III
   - name:
-    designation: 374 Noniashad
+    designation: <a href="374_noniashad.html">374 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 9.47<sup>s</sup>
     dec: -46° 15' 9.72"
     apparent_magnitude: 7.63
@@ -20200,7 +20200,7 @@ stars:
     distance: 1,007.28
     spectral_class: A6III
   - name:
-    designation: 3002 Noniashad
+    designation: <a href="3002_noniashad.html">3002 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 33.25<sup>s</sup>
     dec: -48° 25' 20.66"
     apparent_magnitude: 7.63
@@ -20320,7 +20320,7 @@ stars:
     distance: 612.36
     spectral_class: F7II
   - name:
-    designation: 4754 Noniashad
+    designation: <a href="4754_noniashad.html">4754 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 35.36<sup>s</sup>
     dec: -50° 26' 33.50"
     apparent_magnitude: 7.64
@@ -20336,7 +20336,7 @@ stars:
     distance: 1,242.38
     spectral_class: K5Ib
   - name:
-    designation: 2630 Noniashad
+    designation: <a href="2630_noniashad.html">2630 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 12.26<sup>s</sup>
     dec: -60° 40' 38.51"
     apparent_magnitude: 7.64
@@ -20352,7 +20352,7 @@ stars:
     distance: 1,008.15
     spectral_class: A0IV
   - name:
-    designation: 4970 Noniashad
+    designation: <a href="4970_noniashad.html">4970 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 39.46<sup>s</sup>
     dec: -60° 24' 32.59"
     apparent_magnitude: 7.64
@@ -20440,7 +20440,7 @@ stars:
     distance: 314.32
     spectral_class: K9III + A7V
   - name:
-    designation: 2051 Noniashad
+    designation: <a href="2051_noniashad.html">2051 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 50.39<sup>s</sup>
     dec: -46° 51' 47.01"
     apparent_magnitude: 7.65
@@ -20472,7 +20472,7 @@ stars:
     distance: 529.61
     spectral_class: A3V
   - name:
-    designation: 5248 Noniashad
+    designation: <a href="5248_noniashad.html">5248 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 21.54<sup>s</sup>
     dec: -47° 07' 36.69"
     apparent_magnitude: 7.65
@@ -20488,7 +20488,7 @@ stars:
     distance: 785.87
     spectral_class: A3IV
   - name:
-    designation: 1653 Noniashad
+    designation: <a href="1653_noniashad.html">1653 Noniashad</a>
     ra: 17<sup>h</sup> 39<sup>m</sup> 0.77<sup>s</sup>
     dec: -49° 50' 9.43"
     apparent_magnitude: 7.65
@@ -20496,7 +20496,7 @@ stars:
     distance: 333.83
     spectral_class: K0V + G1V + G5V + A9V
   - name:
-    designation: 1980 Noniashad
+    designation: <a href="1980_noniashad.html">1980 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 7.44<sup>s</sup>
     dec: -64° 23' 16.82"
     apparent_magnitude: 7.65
@@ -20672,7 +20672,7 @@ stars:
     distance: 1,253.86
     spectral_class: A2III
   - name:
-    designation: 1737 Noniashad
+    designation: <a href="1737_noniashad.html">1737 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 20.99<sup>s</sup>
     dec: -56° 51' 35.99"
     apparent_magnitude: 7.65
@@ -20680,7 +20680,7 @@ stars:
     distance: 442.61
     spectral_class: G5V + K1III + G7V + A6IV
   - name:
-    designation: 2497 Noniashad
+    designation: <a href="2497_noniashad.html">2497 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 51.58<sup>s</sup>
     dec: -58° 45' 13.17"
     apparent_magnitude: 7.65
@@ -20896,7 +20896,7 @@ stars:
     distance: 419.56
     spectral_class: G1V + A4V
   - name:
-    designation: 4837 Noniashad
+    designation: <a href="4837_noniashad.html">4837 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 14.37<sup>s</sup>
     dec: -65° 27' 44.99"
     apparent_magnitude: 7.66
@@ -21160,7 +21160,7 @@ stars:
     distance: 1,285.98
     spectral_class: M8III + A4III
   - name:
-    designation: 3910 Noniashad
+    designation: <a href="3910_noniashad.html">3910 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 27.18<sup>s</sup>
     dec: -56° 19' 18.22"
     apparent_magnitude: 7.68
@@ -21168,7 +21168,7 @@ stars:
     distance: 524.54
     spectral_class: A2V
   - name:
-    designation: 2460 Noniashad
+    designation: <a href="2460_noniashad.html">2460 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 6.93<sup>s</sup>
     dec: -53° 04' 3.49"
     apparent_magnitude: 7.68
@@ -21192,7 +21192,7 @@ stars:
     distance: 1,191.56
     spectral_class: K7III + A4III
   - name:
-    designation: 658 Noniashad
+    designation: <a href="658_noniashad.html">658 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 24.47<sup>s</sup>
     dec: -47° 28' 15.12"
     apparent_magnitude: 7.68
@@ -21576,7 +21576,7 @@ stars:
     distance: 595.95
     spectral_class: A8V + A1V
   - name:
-    designation: 4771 Noniashad
+    designation: <a href="4771_noniashad.html">4771 Noniashad</a>
     ra: 17<sup>h</sup> 51<sup>m</sup> 16.96<sup>s</sup>
     dec: -52° 04' 2.00"
     apparent_magnitude: 7.70
@@ -21600,7 +21600,7 @@ stars:
     distance: 561.59
     spectral_class: A9V + M8III + A8II
   - name:
-    designation: 4091 Noniashad
+    designation: <a href="4091_noniashad.html">4091 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 40.28<sup>s</sup>
     dec: -48° 49' 18.49"
     apparent_magnitude: 7.70
@@ -21616,7 +21616,7 @@ stars:
     distance: 817.88
     spectral_class: A3IV
   - name:
-    designation: 3143 Noniashad
+    designation: <a href="3143_noniashad.html">3143 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 53.72<sup>s</sup>
     dec: -57° 10' 31.69"
     apparent_magnitude: 7.70
@@ -21640,7 +21640,7 @@ stars:
     distance: 1,073.85
     spectral_class: F6V + A2V + A2IV
   - name:
-    designation: 1248 Noniashad
+    designation: <a href="1248_noniashad.html">1248 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 51.72<sup>s</sup>
     dec: -55° 52' 42.85"
     apparent_magnitude: 7.70
@@ -21768,7 +21768,7 @@ stars:
     distance: 282.12
     spectral_class: A7V
   - name:
-    designation: 2950 Noniashad
+    designation: <a href="2950_noniashad.html">2950 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 34.87<sup>s</sup>
     dec: -53° 46' 57.15"
     apparent_magnitude: 7.71
@@ -21800,7 +21800,7 @@ stars:
     distance: 991.97
     spectral_class: M0III + A6III
   - name:
-    designation: 1998 Noniashad
+    designation: <a href="1998_noniashad.html">1998 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 33.74<sup>s</sup>
     dec: -52° 14' 50.43"
     apparent_magnitude: 7.71
@@ -21968,7 +21968,7 @@ stars:
     distance: 380.48
     spectral_class: DO + F0V
   - name:
-    designation: 3699 Noniashad
+    designation: <a href="3699_noniashad.html">3699 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 31.71<sup>s</sup>
     dec: -52° 58' 13.07"
     apparent_magnitude: 7.72
@@ -22016,7 +22016,7 @@ stars:
     distance: 892.57
     spectral_class: B9IV
   - name:
-    designation: 4167 Noniashad
+    designation: <a href="4167_noniashad.html">4167 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 18.53<sup>s</sup>
     dec: -68° 53' 37.48"
     apparent_magnitude: 7.72
@@ -22048,7 +22048,7 @@ stars:
     distance: 442.22
     spectral_class: G7V + A9IV
   - name:
-    designation: 3320 Noniashad
+    designation: <a href="3320_noniashad.html">3320 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 16.09<sup>s</sup>
     dec: -67° 41' 36.07"
     apparent_magnitude: 7.72
@@ -22072,7 +22072,7 @@ stars:
     distance: 994.91
     spectral_class: A4III
   - name:
-    designation: 1725 Noniashad
+    designation: <a href="1725_noniashad.html">1725 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 4.44<sup>s</sup>
     dec: -67° 45' 5.34"
     apparent_magnitude: 7.72
@@ -22080,7 +22080,7 @@ stars:
     distance: 437.92
     spectral_class: G8V + G4III + DA + F9III
   - name:
-    designation: 606 Noniashad
+    designation: <a href="606_noniashad.html">606 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 43.50<sup>s</sup>
     dec: -62° 08' 49.18"
     apparent_magnitude: 7.72
@@ -22112,7 +22112,7 @@ stars:
     distance: 519.29
     spectral_class: F3III
   - name:
-    designation: 5036 Noniashad
+    designation: <a href="5036_noniashad.html">5036 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 23.99<sup>s</sup>
     dec: -53° 31' 34.33"
     apparent_magnitude: 7.73
@@ -22296,7 +22296,7 @@ stars:
     distance: 445.16
     spectral_class: A8IV
   - name:
-    designation: 3201 Noniashad
+    designation: <a href="3201_noniashad.html">3201 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 29.84<sup>s</sup>
     dec: -50° 06' 47.42"
     apparent_magnitude: 7.73
@@ -22328,7 +22328,7 @@ stars:
     distance: 594.82
     spectral_class: F9V + A7IV
   - name:
-    designation: 3408 Noniashad
+    designation: <a href="3408_noniashad.html">3408 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 33.01<sup>s</sup>
     dec: -51° 41' 15.63"
     apparent_magnitude: 7.73
@@ -22360,7 +22360,7 @@ stars:
     distance: 869.72
     spectral_class: A2IV
   - name:
-    designation: 1512 Noniashad
+    designation: <a href="1512_noniashad.html">1512 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 55.48<sup>s</sup>
     dec: -68° 34' 44.67"
     apparent_magnitude: 7.74
@@ -22416,7 +22416,7 @@ stars:
     distance: 803.06
     spectral_class: F1V + F1V + A8III
   - name:
-    designation: 4949 Noniashad
+    designation: <a href="4949_noniashad.html">4949 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 37.50<sup>s</sup>
     dec: -50° 24' 46.24"
     apparent_magnitude: 7.74
@@ -22424,7 +22424,7 @@ stars:
     distance: 274.62
     spectral_class: G5V + G3V + A4V
   - name:
-    designation: 3849 Noniashad
+    designation: <a href="3849_noniashad.html">3849 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 53.68<sup>s</sup>
     dec: -49° 33' 39.59"
     apparent_magnitude: 7.74
@@ -22608,7 +22608,7 @@ stars:
     distance: 709.70
     spectral_class: A8III
   - name:
-    designation: 4757 Noniashad
+    designation: <a href="4757_noniashad.html">4757 Noniashad</a>
     ra: 17<sup>h</sup> 32<sup>m</sup> 15.44<sup>s</sup>
     dec: -48° 57' 24.76"
     apparent_magnitude: 7.75
@@ -22680,7 +22680,7 @@ stars:
     distance: 367.70
     spectral_class: F9III
   - name:
-    designation: 457 Noniashad
+    designation: <a href="457_noniashad.html">457 Noniashad</a>
     ra: 17<sup>h</sup> 43<sup>m</sup> 53.29<sup>s</sup>
     dec: -59° 19' 41.42"
     apparent_magnitude: 7.75
@@ -22808,7 +22808,7 @@ stars:
     distance: 480.81
     spectral_class: A7V
   - name:
-    designation: 4220 Noniashad
+    designation: <a href="4220_noniashad.html">4220 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 32.68<sup>s</sup>
     dec: -53° 46' 58.86"
     apparent_magnitude: 7.76
@@ -22816,7 +22816,7 @@ stars:
     distance: 766.19
     spectral_class: A1IV
   - name:
-    designation: 2863 Noniashad
+    designation: <a href="2863_noniashad.html">2863 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 17.30<sup>s</sup>
     dec: -47° 57' 31.16"
     apparent_magnitude: 7.76
@@ -22824,7 +22824,7 @@ stars:
     distance: 442.50
     spectral_class: A2V
   - name:
-    designation: 444 Noniashad
+    designation: <a href="444_noniashad.html">444 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 13.90<sup>s</sup>
     dec: -60° 27' 37.30"
     apparent_magnitude: 7.76
@@ -22848,7 +22848,7 @@ stars:
     distance: 906.79
     spectral_class: B9IV
   - name:
-    designation: 5081 Noniashad
+    designation: <a href="5081_noniashad.html">5081 Noniashad</a>
     ra: 17<sup>h</sup> 33<sup>m</sup> 10.22<sup>s</sup>
     dec: -53° 43' 36.51"
     apparent_magnitude: 7.76
@@ -22912,7 +22912,7 @@ stars:
     distance: 817.00
     spectral_class: A7III
   - name:
-    designation: 4287 Noniashad
+    designation: <a href="4287_noniashad.html">4287 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 23.03<sup>s</sup>
     dec: -57° 28' 57.30"
     apparent_magnitude: 7.76
@@ -23008,7 +23008,7 @@ stars:
     distance: 609.41
     spectral_class: M6III + G1V + M5III + M8III + A9III
   - name:
-    designation: 448 Noniashad
+    designation: <a href="448_noniashad.html">448 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 33.40<sup>s</sup>
     dec: -57° 45' 9.92"
     apparent_magnitude: 7.76
@@ -23016,7 +23016,7 @@ stars:
     distance: 362.02
     spectral_class: G5V + K1V + K4V + F2IV
   - name:
-    designation: 4725 Noniashad
+    designation: <a href="4725_noniashad.html">4725 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 2.57<sup>s</sup>
     dec: -56° 09' 50.45"
     apparent_magnitude: 7.76
@@ -23168,7 +23168,7 @@ stars:
     distance: 567.73
     spectral_class: F7V + A9III
   - name:
-    designation: 3036 Noniashad
+    designation: <a href="3036_noniashad.html">3036 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 46.56<sup>s</sup>
     dec: -51° 42' 41.16"
     apparent_magnitude: 7.77
@@ -23232,7 +23232,7 @@ stars:
     distance: 387.52
     spectral_class: K1II
   - name:
-    designation: 2922 Noniashad
+    designation: <a href="2922_noniashad.html">2922 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 15.00<sup>s</sup>
     dec: -62° 08' 11.32"
     apparent_magnitude: 7.77
@@ -23240,7 +23240,7 @@ stars:
     distance: 373.48
     spectral_class: G5V + K1V + K4V + F2IV
   - name:
-    designation: 3965 Noniashad
+    designation: <a href="3965_noniashad.html">3965 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 48.45<sup>s</sup>
     dec: -57° 49' 42.14"
     apparent_magnitude: 7.77
@@ -23256,7 +23256,7 @@ stars:
     distance: 531.72
     spectral_class: M5Ib
   - name:
-    designation: 5309 Noniashad
+    designation: <a href="5309_noniashad.html">5309 Noniashad</a>
     ra: 17<sup>h</sup> 55<sup>m</sup> 25.01<sup>s</sup>
     dec: -50° 13' 2.37"
     apparent_magnitude: 7.77
@@ -23280,7 +23280,7 @@ stars:
     distance: 896.96
     spectral_class: A4III
   - name:
-    designation: 5213 Noniashad
+    designation: <a href="5213_noniashad.html">5213 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 55.73<sup>s</sup>
     dec: -49° 01' 26.91"
     apparent_magnitude: 7.77
@@ -23288,7 +23288,7 @@ stars:
     distance: 254.16
     spectral_class: G5V + G2V + A9V
   - name:
-    designation: 4576 Noniashad
+    designation: <a href="4576_noniashad.html">4576 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 55.28<sup>s</sup>
     dec: -47° 15' 33.32"
     apparent_magnitude: 7.77
@@ -23296,7 +23296,7 @@ stars:
     distance: 596.09
     spectral_class: A2V
   - name:
-    designation: 915 Noniashad
+    designation: <a href="915_noniashad.html">915 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 37.76<sup>s</sup>
     dec: -52° 38' 25.79"
     apparent_magnitude: 7.77
@@ -23368,7 +23368,7 @@ stars:
     distance: 344.21
     spectral_class: G4III
   - name:
-    designation: 5272 Noniashad
+    designation: <a href="5272_noniashad.html">5272 Noniashad</a>
     ra: 17<sup>h</sup> 27<sup>m</sup> 49.20<sup>s</sup>
     dec: -53° 05' 18.75"
     apparent_magnitude: 7.78
@@ -23416,7 +23416,7 @@ stars:
     distance: 547.81
     spectral_class: K4III + A6V
   - name:
-    designation: 4765 Noniashad
+    designation: <a href="4765_noniashad.html">4765 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 14.64<sup>s</sup>
     dec: -48° 33' 43.48"
     apparent_magnitude: 7.78
@@ -23536,7 +23536,7 @@ stars:
     distance: 1,042.76
     spectral_class: A4V + A7V + A4III
   - name:
-    designation: 2924 Noniashad
+    designation: <a href="2924_noniashad.html">2924 Noniashad</a>
     ra: 17<sup>h</sup> 31<sup>m</sup> 40.79<sup>s</sup>
     dec: -64° 31' 48.57"
     apparent_magnitude: 7.78
@@ -23576,7 +23576,7 @@ stars:
     distance: 424.83
     spectral_class: G1II
   - name:
-    designation: 464 Noniashad
+    designation: <a href="464_noniashad.html">464 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 24.95<sup>s</sup>
     dec: -53° 38' 48.19"
     apparent_magnitude: 7.79
@@ -23584,7 +23584,7 @@ stars:
     distance: 654.69
     spectral_class: A7III
   - name:
-    designation: 1334 Noniashad
+    designation: <a href="1334_noniashad.html">1334 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 24.63<sup>s</sup>
     dec: -57° 19' 29.83"
     apparent_magnitude: 7.79
@@ -23592,7 +23592,7 @@ stars:
     distance: 521.32
     spectral_class: A6V
   - name:
-    designation: 2592 Noniashad
+    designation: <a href="2592_noniashad.html">2592 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 23.62<sup>s</sup>
     dec: -54° 01' 22.98"
     apparent_magnitude: 7.79
@@ -23608,7 +23608,7 @@ stars:
     distance: 392.09
     spectral_class: A5V
   - name:
-    designation: 461 Noniashad
+    designation: <a href="461_noniashad.html">461 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 16.27<sup>s</sup>
     dec: -60° 28' 56.30"
     apparent_magnitude: 7.79
@@ -23744,7 +23744,7 @@ stars:
     distance: 897.08
     spectral_class: A6III
   - name:
-    designation: 2945 Noniashad
+    designation: <a href="2945_noniashad.html">2945 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 28.31<sup>s</sup>
     dec: -57° 40' 54.83"
     apparent_magnitude: 7.79
@@ -23800,7 +23800,7 @@ stars:
     distance: 668.51
     spectral_class: M9Ia
   - name:
-    designation: 2147 Noniashad
+    designation: <a href="2147_noniashad.html">2147 Noniashad</a>
     ra: 17<sup>h</sup> 36<sup>m</sup> 26.55<sup>s</sup>
     dec: -62° 38' 58.80"
     apparent_magnitude: 7.80
@@ -23816,7 +23816,7 @@ stars:
     distance: 696.11
     spectral_class: A6III
   - name:
-    designation: 1663 Noniashad
+    designation: <a href="1663_noniashad.html">1663 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 15.30<sup>s</sup>
     dec: -57° 06' 3.78"
     apparent_magnitude: 7.80
@@ -23824,7 +23824,7 @@ stars:
     distance: 626.04
     spectral_class: F3V + G4V + A4IV
   - name:
-    designation: 467 Noniashad
+    designation: <a href="467_noniashad.html">467 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 30.44<sup>s</sup>
     dec: -56° 27' 35.03"
     apparent_magnitude: 7.80
@@ -23832,7 +23832,7 @@ stars:
     distance: 317.87
     spectral_class: K0V + G1V + G5V + A9V
   - name:
-    designation: 3115 Noniashad
+    designation: <a href="3115_noniashad.html">3115 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 37.67<sup>s</sup>
     dec: -64° 48' 43.46"
     apparent_magnitude: 7.80
@@ -23880,7 +23880,7 @@ stars:
     distance: 126.29
     spectral_class: G5V + K0V
   - name:
-    designation: 3033 Noniashad
+    designation: <a href="3033_noniashad.html">3033 Noniashad</a>
     ra: 17<sup>h</sup> 56<sup>m</sup> 5.71<sup>s</sup>
     dec: -58° 25' 47.57"
     apparent_magnitude: 7.80
@@ -23928,7 +23928,7 @@ stars:
     distance: 1,252.69
     spectral_class: M2III + A5III
   - name:
-    designation: 470 Noniashad
+    designation: <a href="470_noniashad.html">470 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 45.10<sup>s</sup>
     dec: -48° 36' 34.34"
     apparent_magnitude: 7.80
@@ -24072,7 +24072,7 @@ stars:
     distance: 1,374.74
     spectral_class: A1III
   - name:
-    designation: 475 Noniashad
+    designation: <a href="475_noniashad.html">475 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 4.26<sup>s</sup>
     dec: -58° 54' 40.52"
     apparent_magnitude: 7.81
@@ -24112,7 +24112,7 @@ stars:
     distance: 491.51
     spectral_class: M2III + A1V
   - name:
-    designation: 476 Noniashad
+    designation: <a href="476_noniashad.html">476 Noniashad</a>
     ra: 17<sup>h</sup> 52<sup>m</sup> 32.37<sup>s</sup>
     dec: -54° 21' 5.66"
     apparent_magnitude: 7.81
@@ -24160,7 +24160,7 @@ stars:
     distance: 585.81
     spectral_class: F3III
   - name:
-    designation: 4746 Noniashad
+    designation: <a href="4746_noniashad.html">4746 Noniashad</a>
     ra: 17<sup>h</sup> 20<sup>m</sup> 28.54<sup>s</sup>
     dec: -55° 07' 23.73"
     apparent_magnitude: 7.81
@@ -24248,7 +24248,7 @@ stars:
     distance: 527.06
     spectral_class: G4V + A4V
   - name:
-    designation: 5182 Noniashad
+    designation: <a href="5182_noniashad.html">5182 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 36.15<sup>s</sup>
     dec: -60° 29' 12.57"
     apparent_magnitude: 7.82
@@ -24336,7 +24336,7 @@ stars:
     distance: 992.64
     spectral_class: G7V + A0IV
   - name:
-    designation: 2731 Noniashad
+    designation: <a href="2731_noniashad.html">2731 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 42.11<sup>s</sup>
     dec: -52° 08' 34.55"
     apparent_magnitude: 7.82
@@ -24368,7 +24368,7 @@ stars:
     distance: 481.10
     spectral_class: K2III + M6V + G5V + DZ + F3V
   - name:
-    designation: 765 Noniashad
+    designation: <a href="765_noniashad.html">765 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 55.83<sup>s</sup>
     dec: -68° 20' 47.77"
     apparent_magnitude: 7.83
@@ -24376,7 +24376,7 @@ stars:
     distance: 517.93
     spectral_class: A5V
   - name:
-    designation: 3405 Noniashad
+    designation: <a href="3405_noniashad.html">3405 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 2.90<sup>s</sup>
     dec: -46° 43' 51.83"
     apparent_magnitude: 7.83
@@ -24424,7 +24424,7 @@ stars:
     distance: 340.46
     spectral_class: A3V
   - name:
-    designation: 3117 Noniashad
+    designation: <a href="3117_noniashad.html">3117 Noniashad</a>
     ra: 17<sup>h</sup> 53<sup>m</sup> 44.80<sup>s</sup>
     dec: -66° 50' 31.21"
     apparent_magnitude: 7.83
@@ -24432,7 +24432,7 @@ stars:
     distance: 389.42
     spectral_class: K0V + G1V + G5V + A9V
   - name:
-    designation: 564 Noniashad
+    designation: <a href="564_noniashad.html">564 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 58.89<sup>s</sup>
     dec: -51° 42' 2.81"
     apparent_magnitude: 7.83
@@ -24464,7 +24464,7 @@ stars:
     distance: 535.52
     spectral_class: A5V
   - name:
-    designation: 5033 Noniashad
+    designation: <a href="5033_noniashad.html">5033 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 0.27<sup>s</sup>
     dec: -48° 45' 50.90"
     apparent_magnitude: 7.83
@@ -24520,7 +24520,7 @@ stars:
     distance: 1,159.64
     spectral_class: A2III
   - name:
-    designation: 5524 Noniashad
+    designation: <a href="5524_noniashad.html">5524 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 52.56<sup>s</sup>
     dec: -46° 57' 24.56"
     apparent_magnitude: 7.83
@@ -24592,7 +24592,7 @@ stars:
     distance: 696.29
     spectral_class: K3III + A7III
   - name:
-    designation: 1150 Noniashad
+    designation: <a href="1150_noniashad.html">1150 Noniashad</a>
     ra: 17<sup>h</sup> 34<sup>m</sup> 56.46<sup>s</sup>
     dec: -49° 29' 8.39"
     apparent_magnitude: 7.84
@@ -24640,7 +24640,7 @@ stars:
     distance: 388.19
     spectral_class: A9V
   - name:
-    designation: 5522 Noniashad
+    designation: <a href="5522_noniashad.html">5522 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 1.32<sup>s</sup>
     dec: -51° 11' 40.49"
     apparent_magnitude: 7.84
@@ -24680,7 +24680,7 @@ stars:
     distance: 929.98
     spectral_class: K6III + A2IV
   - name:
-    designation: 5207 Noniashad
+    designation: <a href="5207_noniashad.html">5207 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 45.96<sup>s</sup>
     dec: -46° 45' 17.16"
     apparent_magnitude: 7.84
@@ -24704,7 +24704,7 @@ stars:
     distance: 829.57
     spectral_class: A6III
   - name:
-    designation: 5572 Noniashad
+    designation: <a href="5572_noniashad.html">5572 Noniashad</a>
     ra: 16<sup>h</sup> 56<sup>m</sup> 4.75<sup>s</sup>
     dec: -48° 38' 18.02"
     apparent_magnitude: 7.84
@@ -24736,7 +24736,7 @@ stars:
     distance: 566.13
     spectral_class: A2V
   - name:
-    designation: 2780 Noniashad
+    designation: <a href="2780_noniashad.html">2780 Noniashad</a>
     ra: 17<sup>h</sup> 54<sup>m</sup> 25.28<sup>s</sup>
     dec: -60° 08' 49.40"
     apparent_magnitude: 7.84
@@ -24776,7 +24776,7 @@ stars:
     distance: 828.27
     spectral_class: A7III
   - name:
-    designation: 501 Noniashad
+    designation: <a href="501_noniashad.html">501 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 15.66<sup>s</sup>
     dec: -51° 46' 33.37"
     apparent_magnitude: 7.84
@@ -24784,7 +24784,7 @@ stars:
     distance: 925.80
     spectral_class: A7III
   - name:
-    designation: 4459 Noniashad
+    designation: <a href="4459_noniashad.html">4459 Noniashad</a>
     ra: 17<sup>h</sup> 49<sup>m</sup> 35.20<sup>s</sup>
     dec: -51° 03' 59.83"
     apparent_magnitude: 7.84
@@ -24808,7 +24808,7 @@ stars:
     distance: 262.87
     spectral_class: M8III + A6V
   - name:
-    designation: 500 Noniashad
+    designation: <a href="500_noniashad.html">500 Noniashad</a>
     ra: 17<sup>h</sup> 20<sup>m</sup> 31.46<sup>s</sup>
     dec: -53° 08' 46.90"
     apparent_magnitude: 7.84
@@ -24832,7 +24832,7 @@ stars:
     distance: 418.15
     spectral_class: M7III + A1V + F0III
   - name:
-    designation: 4231 Noniashad
+    designation: <a href="4231_noniashad.html">4231 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 51.24<sup>s</sup>
     dec: -56° 03' 44.55"
     apparent_magnitude: 7.84
@@ -24864,7 +24864,7 @@ stars:
     distance: 648.71
     spectral_class: F2III
   - name:
-    designation: 2331 Noniashad
+    designation: <a href="2331_noniashad.html">2331 Noniashad</a>
     ra: 17<sup>h</sup> 39<sup>m</sup> 40.22<sup>s</sup>
     dec: -58° 21' 41.85"
     apparent_magnitude: 7.85
@@ -24960,7 +24960,7 @@ stars:
     distance: 768.43
     spectral_class: A7III
   - name:
-    designation: 5571 Noniashad
+    designation: <a href="5571_noniashad.html">5571 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 16.54<sup>s</sup>
     dec: -49° 18' 0.47"
     apparent_magnitude: 7.85
@@ -25072,7 +25072,7 @@ stars:
     distance: 346.46
     spectral_class: F7III
   - name:
-    designation: 3706 Noniashad
+    designation: <a href="3706_noniashad.html">3706 Noniashad</a>
     ra: 17<sup>h</sup> 24<sup>m</sup> 30.96<sup>s</sup>
     dec: -48° 44' 40.05"
     apparent_magnitude: 7.85
@@ -25144,7 +25144,7 @@ stars:
     distance: 521.76
     spectral_class: G4II
   - name:
-    designation: 1679 Noniashad
+    designation: <a href="1679_noniashad.html">1679 Noniashad</a>
     ra: 17<sup>h</sup> 58<sup>m</sup> 32.26<sup>s</sup>
     dec: -56° 02' 12.89"
     apparent_magnitude: 7.86
@@ -25240,7 +25240,7 @@ stars:
     distance: 831.13
     spectral_class: A6III
   - name:
-    designation: 4474 Noniashad
+    designation: <a href="4474_noniashad.html">4474 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 13.27<sup>s</sup>
     dec: -52° 25' 53.00"
     apparent_magnitude: 7.86
@@ -25248,7 +25248,7 @@ stars:
     distance: 613.73
     spectral_class: G6II
   - name:
-    designation: 1703 Noniashad
+    designation: <a href="1703_noniashad.html">1703 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 36.88<sup>s</sup>
     dec: -49° 23' 17.64"
     apparent_magnitude: 7.86
@@ -25288,7 +25288,7 @@ stars:
     distance: 560.87
     spectral_class: F6III
   - name:
-    designation: 2777 Noniashad
+    designation: <a href="2777_noniashad.html">2777 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 36.98<sup>s</sup>
     dec: -57° 26' 3.75"
     apparent_magnitude: 7.86
@@ -25344,7 +25344,7 @@ stars:
     distance: 706.46
     spectral_class: A6III
   - name:
-    designation: 3591 Noniashad
+    designation: <a href="3591_noniashad.html">3591 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 21.80<sup>s</sup>
     dec: -69° 11' 13.15"
     apparent_magnitude: 7.86
@@ -25360,7 +25360,7 @@ stars:
     distance: 303.43
     spectral_class: F8V + A5V
   - name:
-    designation: 2026 Noniashad
+    designation: <a href="2026_noniashad.html">2026 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 43.35<sup>s</sup>
     dec: -46° 46' 6.81"
     apparent_magnitude: 7.87
@@ -25392,7 +25392,7 @@ stars:
     distance: 292.44
     spectral_class: A5V
   - name:
-    designation: 515 Noniashad
+    designation: <a href="515_noniashad.html">515 Noniashad</a>
     ra: 17<sup>h</sup> 15<sup>m</sup> 14.90<sup>s</sup>
     dec: -50° 15' 29.85"
     apparent_magnitude: 7.87
@@ -25576,7 +25576,7 @@ stars:
     distance: 1,414.53
     spectral_class: A3III
   - name:
-    designation: 866 Noniashad
+    designation: <a href="866_noniashad.html">866 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 27.54<sup>s</sup>
     dec: -64° 41' 21.17"
     apparent_magnitude: 7.88
@@ -25648,7 +25648,7 @@ stars:
     distance: 714.04
     spectral_class: A8III
   - name:
-    designation: 1560 Noniashad
+    designation: <a href="1560_noniashad.html">1560 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 47.55<sup>s</sup>
     dec: -49° 12' 10.68"
     apparent_magnitude: 7.88
@@ -25656,7 +25656,7 @@ stars:
     distance: 593.44
     spectral_class: A7III
   - name:
-    designation: 1741 Noniashad
+    designation: <a href="1741_noniashad.html">1741 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 54.99<sup>s</sup>
     dec: -56° 34' 5.85"
     apparent_magnitude: 7.88
@@ -25728,7 +25728,7 @@ stars:
     distance: 1,044.82
     spectral_class: A5III
   - name:
-    designation: 4291 Noniashad
+    designation: <a href="4291_noniashad.html">4291 Noniashad</a>
     ra: 17<sup>h</sup> 28<sup>m</sup> 42.61<sup>s</sup>
     dec: -54° 23' 10.28"
     apparent_magnitude: 7.88
@@ -25840,7 +25840,7 @@ stars:
     distance: 1,094.52
     spectral_class: A7II
   - name:
-    designation: 531 Noniashad
+    designation: <a href="531_noniashad.html">531 Noniashad</a>
     ra: 17<sup>h</sup> 58<sup>m</sup> 36.60<sup>s</sup>
     dec: -51° 29' 22.32"
     apparent_magnitude: 7.89
@@ -25896,7 +25896,7 @@ stars:
     distance: 344.26
     spectral_class: F1V + A4V
   - name:
-    designation: 2723 Noniashad
+    designation: <a href="2723_noniashad.html">2723 Noniashad</a>
     ra: 17<sup>h</sup> 41<sup>m</sup> 24.25<sup>s</sup>
     dec: -53° 03' 9.90"
     apparent_magnitude: 7.89
@@ -25920,7 +25920,7 @@ stars:
     distance: 1,081.70
     spectral_class: K6Ib
   - name:
-    designation: 3657 Noniashad
+    designation: <a href="3657_noniashad.html">3657 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 42.64<sup>s</sup>
     dec: -65° 22' 43.15"
     apparent_magnitude: 7.89
@@ -25944,7 +25944,7 @@ stars:
     distance: 1,156.66
     spectral_class: A2III
   - name:
-    designation: 1567 Noniashad
+    designation: <a href="1567_noniashad.html">1567 Noniashad</a>
     ra: 17<sup>h</sup> 39<sup>m</sup> 16.19<sup>s</sup>
     dec: -54° 56' 47.80"
     apparent_magnitude: 7.89
@@ -26024,7 +26024,7 @@ stars:
     distance: 418.92
     spectral_class: A4V
   - name:
-    designation: 2765 Noniashad
+    designation: <a href="2765_noniashad.html">2765 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 0.45<sup>s</sup>
     dec: -66° 17' 46.62"
     apparent_magnitude: 7.90
@@ -26032,7 +26032,7 @@ stars:
     distance: 481.93
     spectral_class: F9V + F4V + A9V + A1V
   - name:
-    designation: 5237 Noniashad
+    designation: <a href="5237_noniashad.html">5237 Noniashad</a>
     ra: 17<sup>h</sup> 20<sup>m</sup> 58.10<sup>s</sup>
     dec: -54° 37' 47.49"
     apparent_magnitude: 7.90
@@ -26088,7 +26088,7 @@ stars:
     distance: 668.24
     spectral_class: M0III + F1III
   - name:
-    designation: 2433 Noniashad
+    designation: <a href="2433_noniashad.html">2433 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 36.08<sup>s</sup>
     dec: -59° 09' 38.60"
     apparent_magnitude: 7.90
@@ -26152,7 +26152,7 @@ stars:
     distance: 268.25
     spectral_class: A5V
   - name:
-    designation: 1758 Noniashad
+    designation: <a href="1758_noniashad.html">1758 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 52.96<sup>s</sup>
     dec: -69° 17' 17.35"
     apparent_magnitude: 7.90
@@ -26176,7 +26176,7 @@ stars:
     distance: 322.75
     spectral_class: F4V + A4V
   - name:
-    designation: 541 Noniashad
+    designation: <a href="541_noniashad.html">541 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 13.01<sup>s</sup>
     dec: -46° 58' 54.73"
     apparent_magnitude: 7.90
@@ -26224,7 +26224,7 @@ stars:
     distance: 309.57
     spectral_class: F1III
   - name:
-    designation: 543 Noniashad
+    designation: <a href="543_noniashad.html">543 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 51.59<sup>s</sup>
     dec: -67° 39' 18.79"
     apparent_magnitude: 7.90
@@ -26264,7 +26264,7 @@ stars:
     distance: 629.25
     spectral_class: F9V + A9III
   - name:
-    designation: 2177 Noniashad
+    designation: <a href="2177_noniashad.html">2177 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 37.66<sup>s</sup>
     dec: -46° 10' 18.07"
     apparent_magnitude: 7.91
@@ -26320,7 +26320,7 @@ stars:
     distance: 848.37
     spectral_class: DQ + F9II
   - name:
-    designation: 1499 Noniashad
+    designation: <a href="1499_noniashad.html">1499 Noniashad</a>
     ra: 17<sup>h</sup> 55<sup>m</sup> 5.54<sup>s</sup>
     dec: -58° 05' 31.67"
     apparent_magnitude: 7.91
@@ -26328,7 +26328,7 @@ stars:
     distance: 319.18
     spectral_class: G8V + G6V + A9V
   - name:
-    designation: 548 Noniashad
+    designation: <a href="548_noniashad.html">548 Noniashad</a>
     ra: 17<sup>h</sup> 48<sup>m</sup> 53.26<sup>s</sup>
     dec: -59° 01' 30.64"
     apparent_magnitude: 7.91
@@ -26400,7 +26400,7 @@ stars:
     distance: 680.98
     spectral_class: F5V + A3IV
   - name:
-    designation: 4572 Noniashad
+    designation: <a href="4572_noniashad.html">4572 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 18.47<sup>s</sup>
     dec: -48° 29' 9.31"
     apparent_magnitude: 7.91
@@ -26456,7 +26456,7 @@ stars:
     distance: 295.19
     spectral_class: A4V
   - name:
-    designation: 2239 Noniashad
+    designation: <a href="2239_noniashad.html">2239 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 44.47<sup>s</sup>
     dec: -64° 58' 30.19"
     apparent_magnitude: 7.92
@@ -26496,7 +26496,7 @@ stars:
     distance: 582.90
     spectral_class: K9III + A0V
   - name:
-    designation: 5476 Noniashad
+    designation: <a href="5476_noniashad.html">5476 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 14.96<sup>s</sup>
     dec: -55° 23' 32.87"
     apparent_magnitude: 7.92
@@ -26520,7 +26520,7 @@ stars:
     distance: 493.55
     spectral_class: A1V + A3V
   - name:
-    designation: 3921 Noniashad
+    designation: <a href="3921_noniashad.html">3921 Noniashad</a>
     ra: 17<sup>h</sup> 45<sup>m</sup> 24.61<sup>s</sup>
     dec: -48° 38' 20.22"
     apparent_magnitude: 7.92
@@ -26536,7 +26536,7 @@ stars:
     distance: 829.77
     spectral_class: A3IV
   - name:
-    designation: 555 Noniashad
+    designation: <a href="555_noniashad.html">555 Noniashad</a>
     ra: 17<sup>h</sup> 52<sup>m</sup> 41.72<sup>s</sup>
     dec: -53° 02' 53.26"
     apparent_magnitude: 7.92
@@ -26544,7 +26544,7 @@ stars:
     distance: 472.28
     spectral_class: F6V + F9V + F3V + A1V
   - name:
-    designation: 554 Noniashad
+    designation: <a href="554_noniashad.html">554 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 34.80<sup>s</sup>
     dec: -55° 27' 47.99"
     apparent_magnitude: 7.92
@@ -26784,7 +26784,7 @@ stars:
     distance: 597.38
     spectral_class: F3V + A0V
   - name:
-    designation: 3774 Noniashad
+    designation: <a href="3774_noniashad.html">3774 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 43.71<sup>s</sup>
     dec: -52° 12' 22.22"
     apparent_magnitude: 7.93
@@ -26848,7 +26848,7 @@ stars:
     distance: 406.08
     spectral_class: A9III
   - name:
-    designation: 1729 Noniashad
+    designation: <a href="1729_noniashad.html">1729 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 24.21<sup>s</sup>
     dec: -58° 33' 40.97"
     apparent_magnitude: 7.94
@@ -26856,7 +26856,7 @@ stars:
     distance: 617.92
     spectral_class: G5V + G7V + A4IV
   - name:
-    designation: 4911 Noniashad
+    designation: <a href="4911_noniashad.html">4911 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 6.32<sup>s</sup>
     dec: -47° 40' 36.73"
     apparent_magnitude: 7.94
@@ -26864,7 +26864,7 @@ stars:
     distance: 625.36
     spectral_class: A4IV
   - name:
-    designation: 5053 Noniashad
+    designation: <a href="5053_noniashad.html">5053 Noniashad</a>
     ra: 17<sup>h</sup> 49<sup>m</sup> 28.42<sup>s</sup>
     dec: -47° 02' 17.81"
     apparent_magnitude: 7.94
@@ -26896,7 +26896,7 @@ stars:
     distance: 1,090.32
     spectral_class: A5V + A3III
   - name:
-    designation: 4242 Noniashad
+    designation: <a href="4242_noniashad.html">4242 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 23.59<sup>s</sup>
     dec: -47° 22' 20.52"
     apparent_magnitude: 7.94
@@ -27000,7 +27000,7 @@ stars:
     distance: 437.56
     spectral_class: F3III
   - name:
-    designation: 4951 Noniashad
+    designation: <a href="4951_noniashad.html">4951 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 57.49<sup>s</sup>
     dec: -47° 01' 16.66"
     apparent_magnitude: 7.94
@@ -27016,7 +27016,7 @@ stars:
     distance: 587.72
     spectral_class: M3III + A9II
   - name:
-    designation: 4811 Noniashad
+    designation: <a href="4811_noniashad.html">4811 Noniashad</a>
     ra: 17<sup>h</sup> 53<sup>m</sup> 54.56<sup>s</sup>
     dec: -58° 47' 49.34"
     apparent_magnitude: 7.94
@@ -27208,7 +27208,7 @@ stars:
     distance: 526.19
     spectral_class: G4II
   - name:
-    designation: 2454 Noniashad
+    designation: <a href="2454_noniashad.html">2454 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 0.95<sup>s</sup>
     dec: -52° 48' 35.87"
     apparent_magnitude: 7.95
@@ -27280,7 +27280,7 @@ stars:
     distance: 896.30
     spectral_class: A2IV
   - name:
-    designation: 1592 Noniashad
+    designation: <a href="1592_noniashad.html">1592 Noniashad</a>
     ra: 17<sup>h</sup> 32<sup>m</sup> 56.93<sup>s</sup>
     dec: -47° 11' 29.41"
     apparent_magnitude: 7.95
@@ -27304,7 +27304,7 @@ stars:
     distance: 506.29
     spectral_class: A9III
   - name:
-    designation: 702 Noniashad
+    designation: <a href="702_noniashad.html">702 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 58.50<sup>s</sup>
     dec: -54° 16' 0.16"
     apparent_magnitude: 7.96
@@ -27384,7 +27384,7 @@ stars:
     distance: 896.75
     spectral_class: A2IV
   - name:
-    designation: 2806 Noniashad
+    designation: <a href="2806_noniashad.html">2806 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 28.66<sup>s</sup>
     dec: -47° 59' 50.51"
     apparent_magnitude: 7.96
@@ -27496,7 +27496,7 @@ stars:
     distance: 457.88
     spectral_class: A9III
   - name:
-    designation: 593 Noniashad
+    designation: <a href="593_noniashad.html">593 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 12.01<sup>s</sup>
     dec: -62° 42' 21.51"
     apparent_magnitude: 7.97
@@ -27536,7 +27536,7 @@ stars:
     distance: 613.51
     spectral_class: M9III + A7III
   - name:
-    designation: 2526 Noniashad
+    designation: <a href="2526_noniashad.html">2526 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 6.62<sup>s</sup>
     dec: -63° 38' 36.64"
     apparent_magnitude: 7.97
@@ -27624,7 +27624,7 @@ stars:
     distance: 851.34
     spectral_class: A6III
   - name:
-    designation: 1912 Noniashad
+    designation: <a href="1912_noniashad.html">1912 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 11.88<sup>s</sup>
     dec: -54° 04' 22.62"
     apparent_magnitude: 7.97
@@ -27728,7 +27728,7 @@ stars:
     distance: 572.53
     spectral_class: F7V + F5V + A8III
   - name:
-    designation: 5154 Noniashad
+    designation: <a href="5154_noniashad.html">5154 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 32.50<sup>s</sup>
     dec: -53° 57' 53.19"
     apparent_magnitude: 7.98
@@ -27824,7 +27824,7 @@ stars:
     distance: 539.13
     spectral_class: A9IV
   - name:
-    designation: 1670 Noniashad
+    designation: <a href="1670_noniashad.html">1670 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 31.39<sup>s</sup>
     dec: -52° 08' 41.33"
     apparent_magnitude: 7.98
@@ -27920,7 +27920,7 @@ stars:
     distance: 482.18
     spectral_class: G6II
   - name:
-    designation: 2579 Noniashad
+    designation: <a href="2579_noniashad.html">2579 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 6.39<sup>s</sup>
     dec: -54° 15' 8.11"
     apparent_magnitude: 7.99
@@ -27952,7 +27952,7 @@ stars:
     distance: 510.80
     spectral_class: A2V
   - name:
-    designation: 1666 Noniashad
+    designation: <a href="1666_noniashad.html">1666 Noniashad</a>
     ra: 17<sup>h</sup> 12<sup>m</sup> 15.56<sup>s</sup>
     dec: -59° 54' 1.76"
     apparent_magnitude: 7.99
@@ -28000,7 +28000,7 @@ stars:
     distance: 814.57
     spectral_class: A4IV
   - name:
-    designation: 616 Noniashad
+    designation: <a href="616_noniashad.html">616 Noniashad</a>
     ra: 17<sup>h</sup> 59<sup>m</sup> 39.49<sup>s</sup>
     dec: -50° 47' 43.98"
     apparent_magnitude: 7.99
@@ -28024,7 +28024,7 @@ stars:
     distance: 707.51
     spectral_class: A8III
   - name:
-    designation: 615 Noniashad
+    designation: <a href="615_noniashad.html">615 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 56.34<sup>s</sup>
     dec: -47° 46' 59.63"
     apparent_magnitude: 7.99
@@ -28160,7 +28160,7 @@ stars:
     distance: 624.54
     spectral_class: M7Iab
   - name:
-    designation: 931 Noniashad
+    designation: <a href="931_noniashad.html">931 Noniashad</a>
     ra: 17<sup>h</sup> 35<sup>m</sup> 48.42<sup>s</sup>
     dec: -48° 43' 32.23"
     apparent_magnitude: 8.00
@@ -28168,7 +28168,7 @@ stars:
     distance: 665.78
     spectral_class: G1V + G9V + F2III
   - name:
-    designation: 5236 Noniashad
+    designation: <a href="5236_noniashad.html">5236 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 8.20<sup>s</sup>
     dec: -57° 37' 21.08"
     apparent_magnitude: 8.00
@@ -28184,7 +28184,7 @@ stars:
     distance: 1,079.79
     spectral_class: A0IV
   - name:
-    designation: 4750 Noniashad
+    designation: <a href="4750_noniashad.html">4750 Noniashad</a>
     ra: 17<sup>h</sup> 31<sup>m</sup> 42.56<sup>s</sup>
     dec: -53° 22' 15.46"
     apparent_magnitude: 8.00
@@ -28200,7 +28200,7 @@ stars:
     distance: 556.35
     spectral_class: F5III
   - name:
-    designation: 623 Noniashad
+    designation: <a href="623_noniashad.html">623 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 11.89<sup>s</sup>
     dec: -48° 36' 33.35"
     apparent_magnitude: 8.00
@@ -28216,7 +28216,7 @@ stars:
     distance: 539.87
     spectral_class: K4III + A6V
   - name:
-    designation: 1550 Noniashad
+    designation: <a href="1550_noniashad.html">1550 Noniashad</a>
     ra: 17<sup>h</sup> 19<sup>m</sup> 34.37<sup>s</sup>
     dec: -54° 03' 48.10"
     apparent_magnitude: 8.00
@@ -28248,7 +28248,7 @@ stars:
     distance: 673.49
     spectral_class: F7V + A5III
   - name:
-    designation: 4961 Noniashad
+    designation: <a href="4961_noniashad.html">4961 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 26.35<sup>s</sup>
     dec: -52° 45' 54.01"
     apparent_magnitude: 8.01
@@ -28384,7 +28384,7 @@ stars:
     distance: 596.63
     spectral_class: F5III
   - name:
-    designation: 5042 Noniashad
+    designation: <a href="5042_noniashad.html">5042 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 12.15<sup>s</sup>
     dec: -53° 29' 45.95"
     apparent_magnitude: 8.01
@@ -28480,7 +28480,7 @@ stars:
     distance: 518.46
     spectral_class: A8III
   - name:
-    designation: 634 Noniashad
+    designation: <a href="634_noniashad.html">634 Noniashad</a>
     ra: 17<sup>h</sup> 56<sup>m</sup> 15.28<sup>s</sup>
     dec: -54° 45' 36.55"
     apparent_magnitude: 8.02
@@ -28568,7 +28568,7 @@ stars:
     distance: 745.58
     spectral_class: M3III + A6III
   - name:
-    designation: 638 Noniashad
+    designation: <a href="638_noniashad.html">638 Noniashad</a>
     ra: 16<sup>h</sup> 56<sup>m</sup> 0.74<sup>s</sup>
     dec: -52° 48' 11.66"
     apparent_magnitude: 8.02
@@ -28600,7 +28600,7 @@ stars:
     distance: 834.14
     spectral_class: A3IV
   - name:
-    designation: 3716 Noniashad
+    designation: <a href="3716_noniashad.html">3716 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 25.02<sup>s</sup>
     dec: -50° 16' 59.84"
     apparent_magnitude: 8.02
@@ -28704,7 +28704,7 @@ stars:
     distance: 466.82
     spectral_class: G1II
   - name:
-    designation: 4902 Noniashad
+    designation: <a href="4902_noniashad.html">4902 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 1.22<sup>s</sup>
     dec: -56° 06' 16.08"
     apparent_magnitude: 8.03
@@ -28816,7 +28816,7 @@ stars:
     distance: 632.96
     spectral_class: F3III
   - name:
-    designation: 2261 Noniashad
+    designation: <a href="2261_noniashad.html">2261 Noniashad</a>
     ra: 17<sup>h</sup> 55<sup>m</sup> 45.17<sup>s</sup>
     dec: -67° 55' 24.72"
     apparent_magnitude: 8.03
@@ -28928,7 +28928,7 @@ stars:
     distance: 994.52
     spectral_class: A5III
   - name:
-    designation: 5471 Noniashad
+    designation: <a href="5471_noniashad.html">5471 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 42.68<sup>s</sup>
     dec: -46° 22' 2.59"
     apparent_magnitude: 8.04
@@ -28952,7 +28952,7 @@ stars:
     distance: 681.15
     spectral_class: A9III
   - name:
-    designation: 2536 Noniashad
+    designation: <a href="2536_noniashad.html">2536 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 15.61<sup>s</sup>
     dec: -58° 44' 31.73"
     apparent_magnitude: 8.04
@@ -29144,7 +29144,7 @@ stars:
     distance: 476.32
     spectral_class: F3III
   - name:
-    designation: 1735 Noniashad
+    designation: <a href="1735_noniashad.html">1735 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 35.64<sup>s</sup>
     dec: -49° 23' 12.42"
     apparent_magnitude: 8.05
@@ -29216,7 +29216,7 @@ stars:
     distance: 335.95
     spectral_class: F9III
   - name:
-    designation: 670 Noniashad
+    designation: <a href="670_noniashad.html">670 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 0.98<sup>s</sup>
     dec: -62° 49' 59.56"
     apparent_magnitude: 8.06
@@ -29272,7 +29272,7 @@ stars:
     distance: 575.54
     spectral_class: DZ + A2V
   - name:
-    designation: 2634 Noniashad
+    designation: <a href="2634_noniashad.html">2634 Noniashad</a>
     ra: 17<sup>h</sup> 59<sup>m</sup> 52.02<sup>s</sup>
     dec: -61° 36' 19.03"
     apparent_magnitude: 8.06
@@ -29312,7 +29312,7 @@ stars:
     distance: 570.40
     spectral_class: A2V
   - name:
-    designation: 4781 Noniashad
+    designation: <a href="4781_noniashad.html">4781 Noniashad</a>
     ra: 17<sup>h</sup> 34<sup>m</sup> 8.56<sup>s</sup>
     dec: -49° 32' 3.85"
     apparent_magnitude: 8.06
@@ -29344,7 +29344,7 @@ stars:
     distance: 574.21
     spectral_class: F0V + G2V + K9III + F6V + A4V
   - name:
-    designation: 1263 Noniashad
+    designation: <a href="1263_noniashad.html">1263 Noniashad</a>
     ra: 17<sup>h</sup> 52<sup>m</sup> 36.72<sup>s</sup>
     dec: -48° 40' 10.71"
     apparent_magnitude: 8.06
@@ -29376,7 +29376,7 @@ stars:
     distance: 281.51
     spectral_class: A7V
   - name:
-    designation: 4684 Noniashad
+    designation: <a href="4684_noniashad.html">4684 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 52.51<sup>s</sup>
     dec: -59° 28' 1.54"
     apparent_magnitude: 8.06
@@ -29384,7 +29384,7 @@ stars:
     distance: 124.82
     spectral_class: G8V
   - name:
-    designation: 2500 Noniashad
+    designation: <a href="2500_noniashad.html">2500 Noniashad</a>
     ra: 17<sup>h</sup> 56<sup>m</sup> 12.66<sup>s</sup>
     dec: -59° 49' 1.92"
     apparent_magnitude: 8.06
@@ -29392,7 +29392,7 @@ stars:
     distance: 326.20
     spectral_class: G5V + K1V + K4V + F2IV
   - name:
-    designation: 1949 Noniashad
+    designation: <a href="1949_noniashad.html">1949 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 6.86<sup>s</sup>
     dec: -47° 38' 42.50"
     apparent_magnitude: 8.06
@@ -29432,7 +29432,7 @@ stars:
     distance: 393.06
     spectral_class: K3V + A8V
   - name:
-    designation: 3724 Noniashad
+    designation: <a href="3724_noniashad.html">3724 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 13.69<sup>s</sup>
     dec: -51° 27' 23.21"
     apparent_magnitude: 8.07
@@ -29440,7 +29440,7 @@ stars:
     distance: 550.37
     spectral_class: A3V
   - name:
-    designation: 3769 Noniashad
+    designation: <a href="3769_noniashad.html">3769 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 31.75<sup>s</sup>
     dec: -53° 29' 45.10"
     apparent_magnitude: 8.07
@@ -29448,7 +29448,7 @@ stars:
     distance: 617.17
     spectral_class: K4III + A6V + F4III
   - name:
-    designation: 1926 Noniashad
+    designation: <a href="1926_noniashad.html">1926 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 51.05<sup>s</sup>
     dec: -53° 45' 59.80"
     apparent_magnitude: 8.07
@@ -29464,7 +29464,7 @@ stars:
     distance: 726.27
     spectral_class: A6III
   - name:
-    designation: 989 Noniashad
+    designation: <a href="989_noniashad.html">989 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 35.69<sup>s</sup>
     dec: -56° 17' 49.42"
     apparent_magnitude: 8.07
@@ -29472,7 +29472,7 @@ stars:
     distance: 543.82
     spectral_class: G6II
   - name:
-    designation: 1809 Noniashad
+    designation: <a href="1809_noniashad.html">1809 Noniashad</a>
     ra: 17<sup>h</sup> 43<sup>m</sup> 52.63<sup>s</sup>
     dec: -58° 51' 39.62"
     apparent_magnitude: 8.07
@@ -29536,7 +29536,7 @@ stars:
     distance: 513.11
     spectral_class: A8III
   - name:
-    designation: 1015 Noniashad
+    designation: <a href="1015_noniashad.html">1015 Noniashad</a>
     ra: 17<sup>h</sup> 33<sup>m</sup> 10.48<sup>s</sup>
     dec: -52° 06' 6.08"
     apparent_magnitude: 8.07
@@ -29584,7 +29584,7 @@ stars:
     distance: 426.93
     spectral_class: F9V + A4V
   - name:
-    designation: 2552 Noniashad
+    designation: <a href="2552_noniashad.html">2552 Noniashad</a>
     ra: 17<sup>h</sup> 45<sup>m</sup> 36.70<sup>s</sup>
     dec: -52° 00' 13.86"
     apparent_magnitude: 8.07
@@ -29792,7 +29792,7 @@ stars:
     distance: 674.63
     spectral_class: A2V + DB + F0III
   - name:
-    designation: 693 Noniashad
+    designation: <a href="693_noniashad.html">693 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 0.90<sup>s</sup>
     dec: -49° 01' 58.54"
     apparent_magnitude: 8.08
@@ -29896,7 +29896,7 @@ stars:
     distance: 360.60
     spectral_class: A8V
   - name:
-    designation: 2357 Noniashad
+    designation: <a href="2357_noniashad.html">2357 Noniashad</a>
     ra: 17<sup>h</sup> 24<sup>m</sup> 21.22<sup>s</sup>
     dec: -68° 54' 14.04"
     apparent_magnitude: 8.09
@@ -29912,7 +29912,7 @@ stars:
     distance: 821.70
     spectral_class: M6Iab
   - name:
-    designation: 1987 Noniashad
+    designation: <a href="1987_noniashad.html">1987 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 19.71<sup>s</sup>
     dec: -56° 01' 14.28"
     apparent_magnitude: 8.09
@@ -29936,7 +29936,7 @@ stars:
     distance: 638.43
     spectral_class: A1V + G5V + A9V
   - name:
-    designation: 4801 Noniashad
+    designation: <a href="4801_noniashad.html">4801 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 7.16<sup>s</sup>
     dec: -63° 59' 26.95"
     apparent_magnitude: 8.09
@@ -30096,7 +30096,7 @@ stars:
     distance: 371.80
     spectral_class: A4V
   - name:
-    designation: 2530 Noniashad
+    designation: <a href="2530_noniashad.html">2530 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 55.90<sup>s</sup>
     dec: -65° 16' 53.83"
     apparent_magnitude: 8.10
@@ -30112,7 +30112,7 @@ stars:
     distance: 637.02
     spectral_class: A6III
   - name:
-    designation: 4555 Noniashad
+    designation: <a href="4555_noniashad.html">4555 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 25.37<sup>s</sup>
     dec: -55° 14' 37.92"
     apparent_magnitude: 8.10
@@ -30128,7 +30128,7 @@ stars:
     distance: 349.03
     spectral_class: K9III + F0III
   - name:
-    designation: 708 Noniashad
+    designation: <a href="708_noniashad.html">708 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 49.66<sup>s</sup>
     dec: -61° 11' 11.45"
     apparent_magnitude: 8.10
@@ -30168,7 +30168,7 @@ stars:
     distance: 325.21
     spectral_class: A9V
   - name:
-    designation: 1693 Noniashad
+    designation: <a href="1693_noniashad.html">1693 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 22.80<sup>s</sup>
     dec: -48° 10' 34.17"
     apparent_magnitude: 8.10
@@ -30176,7 +30176,7 @@ stars:
     distance: 434.77
     spectral_class: F6V + F9V + F3V + A1V
   - name:
-    designation: 709 Noniashad
+    designation: <a href="709_noniashad.html">709 Noniashad</a>
     ra: 17<sup>h</sup> 51<sup>m</sup> 48.42<sup>s</sup>
     dec: -60° 11' 33.33"
     apparent_magnitude: 8.10
@@ -30248,7 +30248,7 @@ stars:
     distance: 342.47
     spectral_class: G1V + A5V
   - name:
-    designation: 1493 Noniashad
+    designation: <a href="1493_noniashad.html">1493 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 2.39<sup>s</sup>
     dec: -50° 22' 6.46"
     apparent_magnitude: 8.10
@@ -30272,7 +30272,7 @@ stars:
     distance: 617.25
     spectral_class: A9V + F3V + A0V
   - name:
-    designation: 3075 Noniashad
+    designation: <a href="3075_noniashad.html">3075 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 13.54<sup>s</sup>
     dec: -55° 51' 2.90"
     apparent_magnitude: 8.10
@@ -30320,7 +30320,7 @@ stars:
     distance: 639.19
     spectral_class: A3IV
   - name:
-    designation: 717 Noniashad
+    designation: <a href="717_noniashad.html">717 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 20.51<sup>s</sup>
     dec: -50° 55' 31.20"
     apparent_magnitude: 8.10
@@ -30344,7 +30344,7 @@ stars:
     distance: 838.37
     spectral_class: A3IV
   - name:
-    designation: 718 Noniashad
+    designation: <a href="718_noniashad.html">718 Noniashad</a>
     ra: 17<sup>h</sup> 58<sup>m</sup> 6.78<sup>s</sup>
     dec: -54° 16' 31.53"
     apparent_magnitude: 8.11
@@ -30448,7 +30448,7 @@ stars:
     distance: 944.81
     spectral_class: B9IV
   - name:
-    designation: 723 Noniashad
+    designation: <a href="723_noniashad.html">723 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 5.59<sup>s</sup>
     dec: -60° 20' 47.56"
     apparent_magnitude: 8.11
@@ -30456,7 +30456,7 @@ stars:
     distance: 534.96
     spectral_class: F5III
   - name:
-    designation: 1685 Noniashad
+    designation: <a href="1685_noniashad.html">1685 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 13.17<sup>s</sup>
     dec: -51° 16' 33.26"
     apparent_magnitude: 8.11
@@ -30504,7 +30504,7 @@ stars:
     distance: 650.13
     spectral_class: F7V + A6IV
   - name:
-    designation: 3932 Noniashad
+    designation: <a href="3932_noniashad.html">3932 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 24.06<sup>s</sup>
     dec: -47° 52' 16.52"
     apparent_magnitude: 8.11
@@ -30512,7 +30512,7 @@ stars:
     distance: 610.76
     spectral_class: G6II
   - name:
-    designation: 1771 Noniashad
+    designation: <a href="1771_noniashad.html">1771 Noniashad</a>
     ra: 17<sup>h</sup> 27<sup>m</sup> 27.80<sup>s</sup>
     dec: -51° 04' 4.20"
     apparent_magnitude: 8.11
@@ -30648,7 +30648,7 @@ stars:
     distance: 708.12
     spectral_class: F7V + A4IV
   - name:
-    designation: 734 Noniashad
+    designation: <a href="734_noniashad.html">734 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 9.56<sup>s</sup>
     dec: -53° 19' 53.00"
     apparent_magnitude: 8.12
@@ -30704,7 +30704,7 @@ stars:
     distance: 551.14
     spectral_class: K1II
   - name:
-    designation: 4536 Noniashad
+    designation: <a href="4536_noniashad.html">4536 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 15.02<sup>s</sup>
     dec: -60° 02' 7.50"
     apparent_magnitude: 8.12
@@ -30720,7 +30720,7 @@ stars:
     distance: 478.45
     spectral_class: G1II
   - name:
-    designation: 2654 Noniashad
+    designation: <a href="2654_noniashad.html">2654 Noniashad</a>
     ra: 17<sup>h</sup> 43<sup>m</sup> 16.71<sup>s</sup>
     dec: -52° 59' 35.99"
     apparent_magnitude: 8.13
@@ -30728,7 +30728,7 @@ stars:
     distance: 367.21
     spectral_class: A5V
   - name:
-    designation: 3291 Noniashad
+    designation: <a href="3291_noniashad.html">3291 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 21.30<sup>s</sup>
     dec: -57° 16' 46.30"
     apparent_magnitude: 8.13
@@ -30896,7 +30896,7 @@ stars:
     distance: 251.44
     spectral_class: G7III + A9V
   - name:
-    designation: 5281 Noniashad
+    designation: <a href="5281_noniashad.html">5281 Noniashad</a>
     ra: 17<sup>h</sup> 34<sup>m</sup> 47.92<sup>s</sup>
     dec: -63° 48' 32.17"
     apparent_magnitude: 8.14
@@ -30936,7 +30936,7 @@ stars:
     distance: 735.00
     spectral_class: A7III
   - name:
-    designation: 5634 Noniashad
+    designation: <a href="5634_noniashad.html">5634 Noniashad</a>
     ra: 17<sup>h</sup> 19<sup>m</sup> 29.46<sup>s</sup>
     dec: -58° 59' 37.87"
     apparent_magnitude: 8.14
@@ -30952,7 +30952,7 @@ stars:
     distance: 706.54
     spectral_class: A6III
   - name:
-    designation: 5529 Noniashad
+    designation: <a href="5529_noniashad.html">5529 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 51.60<sup>s</sup>
     dec: -46° 50' 41.64"
     apparent_magnitude: 8.14
@@ -30960,7 +30960,7 @@ stars:
     distance: 222.75
     spectral_class: F3IV
   - name:
-    designation: 1473 Noniashad
+    designation: <a href="1473_noniashad.html">1473 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 1.03<sup>s</sup>
     dec: -51° 05' 20.85"
     apparent_magnitude: 8.14
@@ -30968,7 +30968,7 @@ stars:
     distance: 354.65
     spectral_class: A4V
   - name:
-    designation: 793 Noniashad
+    designation: <a href="793_noniashad.html">793 Noniashad</a>
     ra: 17<sup>h</sup> 27<sup>m</sup> 26.83<sup>s</sup>
     dec: -65° 32' 24.08"
     apparent_magnitude: 8.14
@@ -31008,7 +31008,7 @@ stars:
     distance: 285.25
     spectral_class: F7III
   - name:
-    designation: 2555 Noniashad
+    designation: <a href="2555_noniashad.html">2555 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 43.70<sup>s</sup>
     dec: -49° 12' 29.55"
     apparent_magnitude: 8.14
@@ -31016,7 +31016,7 @@ stars:
     distance: 668.37
     spectral_class: F0V + F1V + M9III + K9III + A8III
   - name:
-    designation: 5151 Noniashad
+    designation: <a href="5151_noniashad.html">5151 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 37.25<sup>s</sup>
     dec: -54° 06' 14.22"
     apparent_magnitude: 8.14
@@ -31064,7 +31064,7 @@ stars:
     distance: 624.24
     spectral_class: A6III
   - name:
-    designation: 3604 Noniashad
+    designation: <a href="3604_noniashad.html">3604 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 13.00<sup>s</sup>
     dec: -66° 19' 54.25"
     apparent_magnitude: 8.14
@@ -31096,7 +31096,7 @@ stars:
     distance: 315.51
     spectral_class: K8V + A7V
   - name:
-    designation: 4635 Noniashad
+    designation: <a href="4635_noniashad.html">4635 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 59.01<sup>s</sup>
     dec: -58° 26' 9.08"
     apparent_magnitude: 8.14
@@ -31232,7 +31232,7 @@ stars:
     distance: 209.62
     spectral_class: G8III
   - name:
-    designation: 962 Noniashad
+    designation: <a href="962_noniashad.html">962 Noniashad</a>
     ra: 17<sup>h</sup> 17<sup>m</sup> 0.68<sup>s</sup>
     dec: -51° 14' 4.67"
     apparent_magnitude: 8.15
@@ -31240,7 +31240,7 @@ stars:
     distance: 570.42
     spectral_class: A3V
   - name:
-    designation: 4250 Noniashad
+    designation: <a href="4250_noniashad.html">4250 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 40.71<sup>s</sup>
     dec: -56° 24' 36.90"
     apparent_magnitude: 8.15
@@ -31360,7 +31360,7 @@ stars:
     distance: 545.81
     spectral_class: A3V
   - name:
-    designation: 2816 Noniashad
+    designation: <a href="2816_noniashad.html">2816 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 47.14<sup>s</sup>
     dec: -62° 17' 45.41"
     apparent_magnitude: 8.16
@@ -31384,7 +31384,7 @@ stars:
     distance: 725.32
     spectral_class: A6III
   - name:
-    designation: 769 Noniashad
+    designation: <a href="769_noniashad.html">769 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 36.91<sup>s</sup>
     dec: -61° 56' 2.61"
     apparent_magnitude: 8.16
@@ -31392,7 +31392,7 @@ stars:
     distance: 353.26
     spectral_class: G8V + G6V + A9V
   - name:
-    designation: 771 Noniashad
+    designation: <a href="771_noniashad.html">771 Noniashad</a>
     ra: 16<sup>h</sup> 59<sup>m</sup> 34.95<sup>s</sup>
     dec: -62° 03' 22.95"
     apparent_magnitude: 8.16
@@ -31416,7 +31416,7 @@ stars:
     distance: 631.05
     spectral_class: A6IV
   - name:
-    designation: 773 Noniashad
+    designation: <a href="773_noniashad.html">773 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 11.80<sup>s</sup>
     dec: -68° 55' 13.42"
     apparent_magnitude: 8.16
@@ -31448,7 +31448,7 @@ stars:
     distance: 637.54
     spectral_class: M6III + G1V + M5III + M8III + A9III
   - name:
-    designation: 5278 Noniashad
+    designation: <a href="5278_noniashad.html">5278 Noniashad</a>
     ra: 17<sup>h</sup> 53<sup>m</sup> 2.31<sup>s</sup>
     dec: -59° 28' 13.46"
     apparent_magnitude: 8.16
@@ -31464,7 +31464,7 @@ stars:
     distance: 622.22
     spectral_class: M9III + A7III
   - name:
-    designation: 776 Noniashad
+    designation: <a href="776_noniashad.html">776 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 18.41<sup>s</sup>
     dec: -51° 06' 34.44"
     apparent_magnitude: 8.16
@@ -31520,7 +31520,7 @@ stars:
     distance: 504.83
     spectral_class: G1II
   - name:
-    designation: 4279 Noniashad
+    designation: <a href="4279_noniashad.html">4279 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 45.93<sup>s</sup>
     dec: -61° 59' 38.70"
     apparent_magnitude: 8.17
@@ -31552,7 +31552,7 @@ stars:
     distance: 1,022.11
     spectral_class: A6III
   - name:
-    designation: 782 Noniashad
+    designation: <a href="782_noniashad.html">782 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 21.27<sup>s</sup>
     dec: -58° 08' 57.47"
     apparent_magnitude: 8.17
@@ -31560,7 +31560,7 @@ stars:
     distance: 423.62
     spectral_class: A5V
   - name:
-    designation: 783 Noniashad
+    designation: <a href="783_noniashad.html">783 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 46.69<sup>s</sup>
     dec: -46° 37' 32.02"
     apparent_magnitude: 8.17
@@ -31568,7 +31568,7 @@ stars:
     distance: 448.32
     spectral_class: G9V + K8V + DA + G8II
   - name:
-    designation: 1915 Noniashad
+    designation: <a href="1915_noniashad.html">1915 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 33.16<sup>s</sup>
     dec: -57° 19' 20.59"
     apparent_magnitude: 8.17
@@ -31576,7 +31576,7 @@ stars:
     distance: 762.14
     spectral_class: A6III
   - name:
-    designation: 1557 Noniashad
+    designation: <a href="1557_noniashad.html">1557 Noniashad</a>
     ra: 17<sup>h</sup> 36<sup>m</sup> 49.06<sup>s</sup>
     dec: -50° 51' 2.15"
     apparent_magnitude: 8.17
@@ -31600,7 +31600,7 @@ stars:
     distance: 543.13
     spectral_class: A5V
   - name:
-    designation: 786 Noniashad
+    designation: <a href="786_noniashad.html">786 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 39.82<sup>s</sup>
     dec: -61° 44' 18.54"
     apparent_magnitude: 8.17
@@ -31616,7 +31616,7 @@ stars:
     distance: 561.40
     spectral_class: G1V + A5IV
   - name:
-    designation: 4907 Noniashad
+    designation: <a href="4907_noniashad.html">4907 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 13.28<sup>s</sup>
     dec: -50° 48' 40.73"
     apparent_magnitude: 8.17
@@ -31728,7 +31728,7 @@ stars:
     distance: 576.26
     spectral_class: F6III
   - name:
-    designation: 5595 Noniashad
+    designation: <a href="5595_noniashad.html">5595 Noniashad</a>
     ra: 17<sup>h</sup> 02<sup>m</sup> 34.25<sup>s</sup>
     dec: -48° 26' 8.55"
     apparent_magnitude: 8.18
@@ -31784,7 +31784,7 @@ stars:
     distance: 378.66
     spectral_class: F0V + G2V + K9III + F6V + A4V
   - name:
-    designation: 2519 Noniashad
+    designation: <a href="2519_noniashad.html">2519 Noniashad</a>
     ra: 17<sup>h</sup> 36<sup>m</sup> 16.00<sup>s</sup>
     dec: -50° 29' 38.25"
     apparent_magnitude: 8.18
@@ -31864,7 +31864,7 @@ stars:
     distance: 517.34
     spectral_class: A1V + G5V + A9V
   - name:
-    designation: 997 Noniashad
+    designation: <a href="997_noniashad.html">997 Noniashad</a>
     ra: 16<sup>h</sup> 56<sup>m</sup> 4.54<sup>s</sup>
     dec: -53° 11' 45.27"
     apparent_magnitude: 8.19
@@ -31888,7 +31888,7 @@ stars:
     distance: 309.85
     spectral_class: A9V
   - name:
-    designation: 2975 Noniashad
+    designation: <a href="2975_noniashad.html">2975 Noniashad</a>
     ra: 17<sup>h</sup> 53<sup>m</sup> 9.31<sup>s</sup>
     dec: -62° 00' 8.01"
     apparent_magnitude: 8.19
@@ -31936,7 +31936,7 @@ stars:
     distance: 551.96
     spectral_class: A9IV
   - name:
-    designation: 3738 Noniashad
+    designation: <a href="3738_noniashad.html">3738 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 39.95<sup>s</sup>
     dec: -54° 07' 26.21"
     apparent_magnitude: 8.19
@@ -31944,7 +31944,7 @@ stars:
     distance: 1,083.71
     spectral_class: A4III
   - name:
-    designation: 2667 Noniashad
+    designation: <a href="2667_noniashad.html">2667 Noniashad</a>
     ra: 17<sup>h</sup> 24<sup>m</sup> 56.44<sup>s</sup>
     dec: -64° 30' 5.52"
     apparent_magnitude: 8.19
@@ -32040,7 +32040,7 @@ stars:
     distance: 644.23
     spectral_class: A6IV
   - name:
-    designation: 811 Noniashad
+    designation: <a href="811_noniashad.html">811 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 22.03<sup>s</sup>
     dec: -56° 57' 2.34"
     apparent_magnitude: 8.19
@@ -32048,7 +32048,7 @@ stars:
     distance: 432.90
     spectral_class: A6V
   - name:
-    designation: 810 Noniashad
+    designation: <a href="810_noniashad.html">810 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 7.36<sup>s</sup>
     dec: -49° 29' 4.50"
     apparent_magnitude: 8.19
@@ -32064,7 +32064,7 @@ stars:
     distance: 544.68
     spectral_class: F5V + A4V
   - name:
-    designation: 1812 Noniashad
+    designation: <a href="1812_noniashad.html">1812 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 31.63<sup>s</sup>
     dec: -61° 10' 50.26"
     apparent_magnitude: 8.20
@@ -32096,7 +32096,7 @@ stars:
     distance: 575.92
     spectral_class: A2V
   - name:
-    designation: 815 Noniashad
+    designation: <a href="815_noniashad.html">815 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 36.33<sup>s</sup>
     dec: -47° 30' 0.32"
     apparent_magnitude: 8.20
@@ -32560,7 +32560,7 @@ stars:
     distance: 366.45
     spectral_class: A2V
   - name:
-    designation: 5252 Noniashad
+    designation: <a href="5252_noniashad.html">5252 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 52.73<sup>s</sup>
     dec: -55° 26' 33.48"
     apparent_magnitude: 8.22
@@ -32568,7 +32568,7 @@ stars:
     distance: 366.54
     spectral_class: G2V + G5V + A4V
   - name:
-    designation: 1920 Noniashad
+    designation: <a href="1920_noniashad.html">1920 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 1.27<sup>s</sup>
     dec: -49° 18' 35.68"
     apparent_magnitude: 8.22
@@ -32576,7 +32576,7 @@ stars:
     distance: 723.28
     spectral_class: G9V + G9V + A3IV
   - name:
-    designation: 5203 Noniashad
+    designation: <a href="5203_noniashad.html">5203 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 52.06<sup>s</sup>
     dec: -54° 01' 42.04"
     apparent_magnitude: 8.22
@@ -32584,7 +32584,7 @@ stars:
     distance: 295.30
     spectral_class: A6V
   - name:
-    designation: 845 Noniashad
+    designation: <a href="845_noniashad.html">845 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 7.43<sup>s</sup>
     dec: -52° 52' 31.82"
     apparent_magnitude: 8.22
@@ -32616,7 +32616,7 @@ stars:
     distance: 670.79
     spectral_class: A3IV
   - name:
-    designation: 4762 Noniashad
+    designation: <a href="4762_noniashad.html">4762 Noniashad</a>
     ra: 17<sup>h</sup> 10<sup>m</sup> 12.91<sup>s</sup>
     dec: -49° 16' 42.34"
     apparent_magnitude: 8.23
@@ -32632,7 +32632,7 @@ stars:
     distance: 316.74
     spectral_class: G6V + A4V
   - name:
-    designation: 2675 Noniashad
+    designation: <a href="2675_noniashad.html">2675 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 30.57<sup>s</sup>
     dec: -59° 43' 49.68"
     apparent_magnitude: 8.23
@@ -32648,7 +32648,7 @@ stars:
     distance: 443.94
     spectral_class: G4II
   - name:
-    designation: 4715 Noniashad
+    designation: <a href="4715_noniashad.html">4715 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 8.66<sup>s</sup>
     dec: -57° 06' 38.28"
     apparent_magnitude: 8.23
@@ -32752,7 +32752,7 @@ stars:
     distance: 713.46
     spectral_class: A8III
   - name:
-    designation: 2689 Noniashad
+    designation: <a href="2689_noniashad.html">2689 Noniashad</a>
     ra: 17<sup>h</sup> 49<sup>m</sup> 15.18<sup>s</sup>
     dec: -53° 20' 28.10"
     apparent_magnitude: 8.23
@@ -32760,7 +32760,7 @@ stars:
     distance: 645.76
     spectral_class: A6III
   - name:
-    designation: 857 Noniashad
+    designation: <a href="857_noniashad.html">857 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 24.78<sup>s</sup>
     dec: -53° 12' 1.36"
     apparent_magnitude: 8.24
@@ -32800,7 +32800,7 @@ stars:
     distance: 746.59
     spectral_class: A5IV
   - name:
-    designation: 2823 Noniashad
+    designation: <a href="2823_noniashad.html">2823 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 57.27<sup>s</sup>
     dec: -57° 29' 46.01"
     apparent_magnitude: 8.24
@@ -32808,7 +32808,7 @@ stars:
     distance: 702.33
     spectral_class: G9V + G9V + A3IV
   - name:
-    designation: 1814 Noniashad
+    designation: <a href="1814_noniashad.html">1814 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 18.03<sup>s</sup>
     dec: -54° 14' 14.73"
     apparent_magnitude: 8.24
@@ -32832,7 +32832,7 @@ stars:
     distance: 455.56
     spectral_class: G1II
   - name:
-    designation: 1281 Noniashad
+    designation: <a href="1281_noniashad.html">1281 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 16.11<sup>s</sup>
     dec: -47° 46' 56.06"
     apparent_magnitude: 8.24
@@ -32848,7 +32848,7 @@ stars:
     distance: 714.11
     spectral_class: A9V + M8III + A8II
   - name:
-    designation: 2066 Noniashad
+    designation: <a href="2066_noniashad.html">2066 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 6.12<sup>s</sup>
     dec: -56° 33' 27.82"
     apparent_magnitude: 8.24
@@ -33096,7 +33096,7 @@ stars:
     distance: 756.82
     spectral_class: A6III
   - name:
-    designation: 1943 Noniashad
+    designation: <a href="1943_noniashad.html">1943 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 34.79<sup>s</sup>
     dec: -47° 18' 17.93"
     apparent_magnitude: 8.25
@@ -33200,7 +33200,7 @@ stars:
     distance: 453.26
     spectral_class: G3II
   - name:
-    designation: 2819 Noniashad
+    designation: <a href="2819_noniashad.html">2819 Noniashad</a>
     ra: 17<sup>h</sup> 12<sup>m</sup> 16.96<sup>s</sup>
     dec: -64° 07' 54.05"
     apparent_magnitude: 8.26
@@ -33216,7 +33216,7 @@ stars:
     distance: 1,006.36
     spectral_class: B9IV
   - name:
-    designation: 3100 Noniashad
+    designation: <a href="3100_noniashad.html">3100 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 59.15<sup>s</sup>
     dec: -64° 30' 8.88"
     apparent_magnitude: 8.26
@@ -33248,7 +33248,7 @@ stars:
     distance: 709.20
     spectral_class: A9V + A6IV
   - name:
-    designation: 887 Noniashad
+    designation: <a href="887_noniashad.html">887 Noniashad</a>
     ra: 17<sup>h</sup> 33<sup>m</sup> 2.98<sup>s</sup>
     dec: -63° 37' 24.20"
     apparent_magnitude: 8.26
@@ -33288,7 +33288,7 @@ stars:
     distance: 577.73
     spectral_class: G1V + A5IV
   - name:
-    designation: 2841 Noniashad
+    designation: <a href="2841_noniashad.html">2841 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 35.04<sup>s</sup>
     dec: -50° 37' 11.38"
     apparent_magnitude: 8.26
@@ -33328,7 +33328,7 @@ stars:
     distance: 361.53
     spectral_class: A6V
   - name:
-    designation: 2670 Noniashad
+    designation: <a href="2670_noniashad.html">2670 Noniashad</a>
     ra: 17<sup>h</sup> 28<sup>m</sup> 21.93<sup>s</sup>
     dec: -65° 57' 45.80"
     apparent_magnitude: 8.26
@@ -33336,7 +33336,7 @@ stars:
     distance: 743.01
     spectral_class: A6III
   - name:
-    designation: 956 Noniashad
+    designation: <a href="956_noniashad.html">956 Noniashad</a>
     ra: 16<sup>h</sup> 56<sup>m</sup> 17.06<sup>s</sup>
     dec: -50° 07' 10.41"
     apparent_magnitude: 8.26
@@ -33352,7 +33352,7 @@ stars:
     distance: 592.68
     spectral_class: F5III
   - name:
-    designation: 893 Noniashad
+    designation: <a href="893_noniashad.html">893 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 45.54<sup>s</sup>
     dec: -50° 28' 33.38"
     apparent_magnitude: 8.26
@@ -33472,7 +33472,7 @@ stars:
     distance: 860.51
     spectral_class: K6III + A5III
   - name:
-    designation: 899 Noniashad
+    designation: <a href="899_noniashad.html">899 Noniashad</a>
     ra: 17<sup>h</sup> 12<sup>m</sup> 12.30<sup>s</sup>
     dec: -57° 02' 24.18"
     apparent_magnitude: 8.27
@@ -33480,7 +33480,7 @@ stars:
     distance: 703.63
     spectral_class: G9V + G9V + A3IV
   - name:
-    designation: 5582 Noniashad
+    designation: <a href="5582_noniashad.html">5582 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 14.95<sup>s</sup>
     dec: -55° 34' 31.64"
     apparent_magnitude: 8.27
@@ -33560,7 +33560,7 @@ stars:
     distance: 844.06
     spectral_class: A3IV
   - name:
-    designation: 4720 Noniashad
+    designation: <a href="4720_noniashad.html">4720 Noniashad</a>
     ra: 17<sup>h</sup> 12<sup>m</sup> 2.35<sup>s</sup>
     dec: -51° 20' 25.44"
     apparent_magnitude: 8.28
@@ -33592,7 +33592,7 @@ stars:
     distance: 1,040.35
     spectral_class: F9V + A7II
   - name:
-    designation: 2692 Noniashad
+    designation: <a href="2692_noniashad.html">2692 Noniashad</a>
     ra: 17<sup>h</sup> 49<sup>m</sup> 1.56<sup>s</sup>
     dec: -50° 38' 5.65"
     apparent_magnitude: 8.28
@@ -33640,7 +33640,7 @@ stars:
     distance: 413.00
     spectral_class: B9V
   - name:
-    designation: 911 Noniashad
+    designation: <a href="911_noniashad.html">911 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 9.45<sup>s</sup>
     dec: -52° 31' 44.44"
     apparent_magnitude: 8.28
@@ -33784,7 +33784,7 @@ stars:
     distance: 744.10
     spectral_class: K5III + DO + A8III
   - name:
-    designation: 924 Noniashad
+    designation: <a href="924_noniashad.html">924 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 12.10<sup>s</sup>
     dec: -62° 22' 50.33"
     apparent_magnitude: 8.29
@@ -33928,7 +33928,7 @@ stars:
     distance: 638.65
     spectral_class: F4III
   - name:
-    designation: 5640 Noniashad
+    designation: <a href="5640_noniashad.html">5640 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 31.68<sup>s</sup>
     dec: -48° 55' 52.65"
     apparent_magnitude: 8.30
@@ -33936,7 +33936,7 @@ stars:
     distance: 681.33
     spectral_class: A6III
   - name:
-    designation: 938 Noniashad
+    designation: <a href="938_noniashad.html">938 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 14.31<sup>s</sup>
     dec: -59° 58' 0.36"
     apparent_magnitude: 8.30
@@ -33992,7 +33992,7 @@ stars:
     distance: 445.54
     spectral_class: F8V + A5V
   - name:
-    designation: 2753 Noniashad
+    designation: <a href="2753_noniashad.html">2753 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 57.92<sup>s</sup>
     dec: -57° 20' 26.45"
     apparent_magnitude: 8.30
@@ -34032,7 +34032,7 @@ stars:
     distance: 562.49
     spectral_class: G2V + A5V
   - name:
-    designation: 3371 Noniashad
+    designation: <a href="3371_noniashad.html">3371 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 45.13<sup>s</sup>
     dec: -62° 48' 53.38"
     apparent_magnitude: 8.31
@@ -34096,7 +34096,7 @@ stars:
     distance: 367.72
     spectral_class: A5V
   - name:
-    designation: 4731 Noniashad
+    designation: <a href="4731_noniashad.html">4731 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 30.42<sup>s</sup>
     dec: -47° 44' 0.07"
     apparent_magnitude: 8.31
@@ -34224,7 +34224,7 @@ stars:
     distance: 959.32
     spectral_class: A5III
   - name:
-    designation: 2842 Noniashad
+    designation: <a href="2842_noniashad.html">2842 Noniashad</a>
     ra: 17<sup>h</sup> 55<sup>m</sup> 32.89<sup>s</sup>
     dec: -56° 54' 28.91"
     apparent_magnitude: 8.32
@@ -34272,7 +34272,7 @@ stars:
     distance: 588.44
     spectral_class: F4V + A8III
   - name:
-    designation: 2845 Noniashad
+    designation: <a href="2845_noniashad.html">2845 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 56.76<sup>s</sup>
     dec: -47° 48' 14.52"
     apparent_magnitude: 8.32
@@ -34304,7 +34304,7 @@ stars:
     distance: 640.01
     spectral_class: F3III
   - name:
-    designation: 5541 Noniashad
+    designation: <a href="5541_noniashad.html">5541 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 53.34<sup>s</sup>
     dec: -50° 08' 7.39"
     apparent_magnitude: 8.32
@@ -34344,7 +34344,7 @@ stars:
     distance: 336.54
     spectral_class: DQ + A7V
   - name:
-    designation: 5581 Noniashad
+    designation: <a href="5581_noniashad.html">5581 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 30.93<sup>s</sup>
     dec: -51° 54' 1.59"
     apparent_magnitude: 8.32
@@ -34464,7 +34464,7 @@ stars:
     distance: 272.65
     spectral_class: A5V
   - name:
-    designation: 4745 Noniashad
+    designation: <a href="4745_noniashad.html">4745 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 1.76<sup>s</sup>
     dec: -54° 58' 40.63"
     apparent_magnitude: 8.33
@@ -34528,7 +34528,7 @@ stars:
     distance: 412.57
     spectral_class: A7V
   - name:
-    designation: 983 Noniashad
+    designation: <a href="983_noniashad.html">983 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 12.88<sup>s</sup>
     dec: -50° 52' 15.38"
     apparent_magnitude: 8.33
@@ -34552,7 +34552,7 @@ stars:
     distance: 508.12
     spectral_class: A8III
   - name:
-    designation: 2206 Noniashad
+    designation: <a href="2206_noniashad.html">2206 Noniashad</a>
     ra: 17<sup>h</sup> 41<sup>m</sup> 25.14<sup>s</sup>
     dec: -55° 41' 3.79"
     apparent_magnitude: 8.33
@@ -34712,7 +34712,7 @@ stars:
     distance: 475.47
     spectral_class: F9V + A4V
   - name:
-    designation: 4181 Noniashad
+    designation: <a href="4181_noniashad.html">4181 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 18.21<sup>s</sup>
     dec: -64° 41' 30.57"
     apparent_magnitude: 8.35
@@ -34720,7 +34720,7 @@ stars:
     distance: 593.62
     spectral_class: F6V + A9V + G9III + A3V
   - name:
-    designation: 5641 Noniashad
+    designation: <a href="5641_noniashad.html">5641 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 17.30<sup>s</sup>
     dec: -55° 23' 11.93"
     apparent_magnitude: 8.35
@@ -34776,7 +34776,7 @@ stars:
     distance: 208.43
     spectral_class: A9V
   - name:
-    designation: 1004 Noniashad
+    designation: <a href="1004_noniashad.html">1004 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 22.36<sup>s</sup>
     dec: -53° 56' 22.38"
     apparent_magnitude: 8.35
@@ -34784,7 +34784,7 @@ stars:
     distance: 1,102.68
     spectral_class: A4III
   - name:
-    designation: 4805 Noniashad
+    designation: <a href="4805_noniashad.html">4805 Noniashad</a>
     ra: 17<sup>h</sup> 28<sup>m</sup> 49.65<sup>s</sup>
     dec: -56° 44' 43.71"
     apparent_magnitude: 8.35
@@ -34832,7 +34832,7 @@ stars:
     distance: 719.65
     spectral_class: F9V + A8III
   - name:
-    designation: 1008 Noniashad
+    designation: <a href="1008_noniashad.html">1008 Noniashad</a>
     ra: 17<sup>h</sup> 10<sup>m</sup> 36.41<sup>s</sup>
     dec: -56° 28' 55.80"
     apparent_magnitude: 8.35
@@ -34928,7 +34928,7 @@ stars:
     distance: 566.60
     spectral_class: A3V
   - name:
-    designation: 4747 Noniashad
+    designation: <a href="4747_noniashad.html">4747 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 55.39<sup>s</sup>
     dec: -57° 02' 54.23"
     apparent_magnitude: 8.36
@@ -34944,7 +34944,7 @@ stars:
     distance: 720.98
     spectral_class: A7III
   - name:
-    designation: 1017 Noniashad
+    designation: <a href="1017_noniashad.html">1017 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 37.81<sup>s</sup>
     dec: -60° 48' 24.40"
     apparent_magnitude: 8.36
@@ -34984,7 +34984,7 @@ stars:
     distance: 600.53
     spectral_class: A7IV
   - name:
-    designation: 1931 Noniashad
+    designation: <a href="1931_noniashad.html">1931 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 4.49<sup>s</sup>
     dec: -48° 10' 42.78"
     apparent_magnitude: 8.36
@@ -35040,7 +35040,7 @@ stars:
     distance: 559.71
     spectral_class: A5V
   - name:
-    designation: 1025 Noniashad
+    designation: <a href="1025_noniashad.html">1025 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 53.86<sup>s</sup>
     dec: -57° 39' 0.81"
     apparent_magnitude: 8.36
@@ -35048,7 +35048,7 @@ stars:
     distance: 716.40
     spectral_class: G9V + G9V + A3IV
   - name:
-    designation: 4011 Noniashad
+    designation: <a href="4011_noniashad.html">4011 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 55.85<sup>s</sup>
     dec: -51° 00' 36.41"
     apparent_magnitude: 8.36
@@ -35088,7 +35088,7 @@ stars:
     distance: 701.38
     spectral_class: G1V + A3IV
   - name:
-    designation: 1029 Noniashad
+    designation: <a href="1029_noniashad.html">1029 Noniashad</a>
     ra: 17<sup>h</sup> 25<sup>m</sup> 45.46<sup>s</sup>
     dec: -61° 37' 59.24"
     apparent_magnitude: 8.37
@@ -35136,7 +35136,7 @@ stars:
     distance: 735.67
     spectral_class: A6III
   - name:
-    designation: 2069 Noniashad
+    designation: <a href="2069_noniashad.html">2069 Noniashad</a>
     ra: 17<sup>h</sup> 31<sup>m</sup> 9.05<sup>s</sup>
     dec: -59° 13' 21.97"
     apparent_magnitude: 8.37
@@ -35144,7 +35144,7 @@ stars:
     distance: 779.73
     spectral_class: A6III
   - name:
-    designation: 4029 Noniashad
+    designation: <a href="4029_noniashad.html">4029 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 53.18<sup>s</sup>
     dec: -50° 20' 53.54"
     apparent_magnitude: 8.37
@@ -35160,7 +35160,7 @@ stars:
     distance: 496.03
     spectral_class: F7V + F5V + A8III
   - name:
-    designation: 3362 Noniashad
+    designation: <a href="3362_noniashad.html">3362 Noniashad</a>
     ra: 17<sup>h</sup> 56<sup>m</sup> 58.31<sup>s</sup>
     dec: -64° 31' 44.15"
     apparent_magnitude: 8.37
@@ -35176,7 +35176,7 @@ stars:
     distance: 698.11
     spectral_class: DO + F4III
   - name:
-    designation: 3760 Noniashad
+    designation: <a href="3760_noniashad.html">3760 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 13.43<sup>s</sup>
     dec: -57° 25' 26.41"
     apparent_magnitude: 8.37
@@ -35192,7 +35192,7 @@ stars:
     distance: 887.87
     spectral_class: A3IV
   - name:
-    designation: 1037 Noniashad
+    designation: <a href="1037_noniashad.html">1037 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 35.95<sup>s</sup>
     dec: -64° 11' 10.61"
     apparent_magnitude: 8.37
@@ -35224,7 +35224,7 @@ stars:
     distance: 1,094.58
     spectral_class: A2IV
   - name:
-    designation: 4682 Noniashad
+    designation: <a href="4682_noniashad.html">4682 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 54.65<sup>s</sup>
     dec: -63° 07' 48.75"
     apparent_magnitude: 8.38
@@ -35256,7 +35256,7 @@ stars:
     distance: 222.74
     spectral_class: M1III + A8V
   - name:
-    designation: 2989 Noniashad
+    designation: <a href="2989_noniashad.html">2989 Noniashad</a>
     ra: 17<sup>h</sup> 21<sup>m</sup> 7.44<sup>s</sup>
     dec: -53° 45' 26.49"
     apparent_magnitude: 8.38
@@ -35336,7 +35336,7 @@ stars:
     distance: 774.04
     spectral_class: A6III
   - name:
-    designation: 1051 Noniashad
+    designation: <a href="1051_noniashad.html">1051 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 23.93<sup>s</sup>
     dec: -48° 04' 1.93"
     apparent_magnitude: 8.38
@@ -35344,7 +35344,7 @@ stars:
     distance: 702.41
     spectral_class: F0V + F1V + M9III + K9III + A8III
   - name:
-    designation: 2188 Noniashad
+    designation: <a href="2188_noniashad.html">2188 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 17.69<sup>s</sup>
     dec: -56° 32' 45.28"
     apparent_magnitude: 8.38
@@ -35352,7 +35352,7 @@ stars:
     distance: 693.51
     spectral_class: F3V + G4V + A4IV
   - name:
-    designation: 4760 Noniashad
+    designation: <a href="4760_noniashad.html">4760 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 42.63<sup>s</sup>
     dec: -48° 02' 23.38"
     apparent_magnitude: 8.38
@@ -35360,7 +35360,7 @@ stars:
     distance: 142.67
     spectral_class: A9V
   - name:
-    designation: 2464 Noniashad
+    designation: <a href="2464_noniashad.html">2464 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 34.35<sup>s</sup>
     dec: -65° 27' 44.78"
     apparent_magnitude: 8.38
@@ -35376,7 +35376,7 @@ stars:
     distance: 712.80
     spectral_class: M9Ia
   - name:
-    designation: 3991 Noniashad
+    designation: <a href="3991_noniashad.html">3991 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 37.23<sup>s</sup>
     dec: -56° 10' 48.95"
     apparent_magnitude: 8.39
@@ -35560,7 +35560,7 @@ stars:
     distance: 736.07
     spectral_class: A7III
   - name:
-    designation: 1074 Noniashad
+    designation: <a href="1074_noniashad.html">1074 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 21.00<sup>s</sup>
     dec: -57° 06' 12.02"
     apparent_magnitude: 8.40
@@ -35584,7 +35584,7 @@ stars:
     distance: 935.76
     spectral_class: A6III
   - name:
-    designation: 1075 Noniashad
+    designation: <a href="1075_noniashad.html">1075 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 55.51<sup>s</sup>
     dec: -50° 19' 42.43"
     apparent_magnitude: 8.40
@@ -35656,7 +35656,7 @@ stars:
     distance: 360.37
     spectral_class: F1III
   - name:
-    designation: 2997 Noniashad
+    designation: <a href="2997_noniashad.html">2997 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 39.57<sup>s</sup>
     dec: -51° 02' 1.97"
     apparent_magnitude: 8.40
@@ -35880,7 +35880,7 @@ stars:
     distance: 779.84
     spectral_class: A6III
   - name:
-    designation: 4685 Noniashad
+    designation: <a href="4685_noniashad.html">4685 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 39.36<sup>s</sup>
     dec: -64° 05' 41.48"
     apparent_magnitude: 8.42
@@ -35992,7 +35992,7 @@ stars:
     distance: 556.62
     spectral_class: A5IV
   - name:
-    designation: 1119 Noniashad
+    designation: <a href="1119_noniashad.html">1119 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 25.49<sup>s</sup>
     dec: -57° 00' 14.37"
     apparent_magnitude: 8.43
@@ -36080,7 +36080,7 @@ stars:
     distance: 376.85
     spectral_class: M8III + A6V
   - name:
-    designation: 2599 Noniashad
+    designation: <a href="2599_noniashad.html">2599 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 44.06<sup>s</sup>
     dec: -66° 56' 57.73"
     apparent_magnitude: 8.43
@@ -36264,7 +36264,7 @@ stars:
     distance: 950.47
     spectral_class: A2IV
   - name:
-    designation: 5628 Noniashad
+    designation: <a href="5628_noniashad.html">5628 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 23.85<sup>s</sup>
     dec: -62° 44' 33.57"
     apparent_magnitude: 8.44
@@ -36360,7 +36360,7 @@ stars:
     distance: 661.92
     spectral_class: F6II
   - name:
-    designation: 1151 Noniashad
+    designation: <a href="1151_noniashad.html">1151 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 60.00<sup>s</sup>
     dec: -47° 38' 2.84"
     apparent_magnitude: 8.45
@@ -36424,7 +36424,7 @@ stars:
     distance: 607.53
     spectral_class: B9V
   - name:
-    designation: 4904 Noniashad
+    designation: <a href="4904_noniashad.html">4904 Noniashad</a>
     ra: 17<sup>h</sup> 35<sup>m</sup> 56.68<sup>s</sup>
     dec: -47° 14' 50.97"
     apparent_magnitude: 8.45
@@ -36576,7 +36576,7 @@ stars:
     distance: 282.76
     spectral_class: G9III
   - name:
-    designation: 1563 Noniashad
+    designation: <a href="1563_noniashad.html">1563 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 28.26<sup>s</sup>
     dec: -48° 39' 19.37"
     apparent_magnitude: 8.46
@@ -36584,7 +36584,7 @@ stars:
     distance: 394.66
     spectral_class: A1V
   - name:
-    designation: 3323 Noniashad
+    designation: <a href="3323_noniashad.html">3323 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 4.13<sup>s</sup>
     dec: -63° 58' 45.51"
     apparent_magnitude: 8.46
@@ -36728,7 +36728,7 @@ stars:
     distance: 566.82
     spectral_class: K9III + A8III
   - name:
-    designation: 2074 Noniashad
+    designation: <a href="2074_noniashad.html">2074 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 17.95<sup>s</sup>
     dec: -52° 00' 42.35"
     apparent_magnitude: 8.47
@@ -36736,7 +36736,7 @@ stars:
     distance: 739.86
     spectral_class: G9V + G9V + A3IV
   - name:
-    designation: 1190 Noniashad
+    designation: <a href="1190_noniashad.html">1190 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 49.45<sup>s</sup>
     dec: -48° 34' 46.33"
     apparent_magnitude: 8.47
@@ -36792,7 +36792,7 @@ stars:
     distance: 614.29
     spectral_class: F3II
   - name:
-    designation: 3391 Noniashad
+    designation: <a href="3391_noniashad.html">3391 Noniashad</a>
     ra: 17<sup>h</sup> 32<sup>m</sup> 12.31<sup>s</sup>
     dec: -55° 05' 37.75"
     apparent_magnitude: 8.48
@@ -36840,7 +36840,7 @@ stars:
     distance: 1,011.96
     spectral_class: K6III + A2IV
   - name:
-    designation: 3381 Noniashad
+    designation: <a href="3381_noniashad.html">3381 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 6.35<sup>s</sup>
     dec: -57° 42' 49.07"
     apparent_magnitude: 8.48
@@ -36880,7 +36880,7 @@ stars:
     distance: 498.36
     spectral_class: A9V + F5III
   - name:
-    designation: 4813 Noniashad
+    designation: <a href="4813_noniashad.html">4813 Noniashad</a>
     ra: 17<sup>h</sup> 54<sup>m</sup> 50.07<sup>s</sup>
     dec: -52° 54' 39.06"
     apparent_magnitude: 8.48
@@ -36904,7 +36904,7 @@ stars:
     distance: 628.13
     spectral_class: A4V + F9V + A1V
   - name:
-    designation: 1209 Noniashad
+    designation: <a href="1209_noniashad.html">1209 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 40.03<sup>s</sup>
     dec: -53° 19' 14.93"
     apparent_magnitude: 8.48
@@ -36936,7 +36936,7 @@ stars:
     distance: 238.39
     spectral_class: M8III + A6V
   - name:
-    designation: 4993 Noniashad
+    designation: <a href="4993_noniashad.html">4993 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 21.11<sup>s</sup>
     dec: -51° 12' 2.17"
     apparent_magnitude: 8.48
@@ -36944,7 +36944,7 @@ stars:
     distance: 320.42
     spectral_class: K8III + G8V + G7V + A6V
   - name:
-    designation: 3479 Noniashad
+    designation: <a href="3479_noniashad.html">3479 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 15.90<sup>s</sup>
     dec: -51° 53' 25.14"
     apparent_magnitude: 8.48
@@ -37024,7 +37024,7 @@ stars:
     distance: 449.90
     spectral_class: A9III
   - name:
-    designation: 1377 Noniashad
+    designation: <a href="1377_noniashad.html">1377 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 16.71<sup>s</sup>
     dec: -50° 48' 37.24"
     apparent_magnitude: 8.49
@@ -37040,7 +37040,7 @@ stars:
     distance: 605.57
     spectral_class: A9III
   - name:
-    designation: 5181 Noniashad
+    designation: <a href="5181_noniashad.html">5181 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 36.28<sup>s</sup>
     dec: -56° 26' 30.00"
     apparent_magnitude: 8.49
@@ -37048,7 +37048,7 @@ stars:
     distance: 310.87
     spectral_class: A6V
   - name:
-    designation: 1360 Noniashad
+    designation: <a href="1360_noniashad.html">1360 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 27.10<sup>s</sup>
     dec: -55° 48' 9.14"
     apparent_magnitude: 8.49
@@ -37056,7 +37056,7 @@ stars:
     distance: 613.89
     spectral_class: A1V
   - name:
-    designation: 2961 Noniashad
+    designation: <a href="2961_noniashad.html">2961 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 29.37<sup>s</sup>
     dec: -64° 37' 10.17"
     apparent_magnitude: 8.49
@@ -37088,7 +37088,7 @@ stars:
     distance: 716.34
     spectral_class: F7V + A4IV
   - name:
-    designation: 2991 Noniashad
+    designation: <a href="2991_noniashad.html">2991 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 59.31<sup>s</sup>
     dec: -59° 33' 34.66"
     apparent_magnitude: 8.49
@@ -37112,7 +37112,7 @@ stars:
     distance: 747.80
     spectral_class: F7V + A5III
   - name:
-    designation: 4734 Noniashad
+    designation: <a href="4734_noniashad.html">4734 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 10.10<sup>s</sup>
     dec: -66° 30' 46.43"
     apparent_magnitude: 8.49
@@ -37128,7 +37128,7 @@ stars:
     distance: 422.72
     spectral_class: A0V
   - name:
-    designation: 4909 Noniashad
+    designation: <a href="4909_noniashad.html">4909 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 21.34<sup>s</sup>
     dec: -48° 29' 11.29"
     apparent_magnitude: 8.49
@@ -37224,7 +37224,7 @@ stars:
     distance: 663.22
     spectral_class: M9Ia
   - name:
-    designation: 3762 Noniashad
+    designation: <a href="3762_noniashad.html">3762 Noniashad</a>
     ra: 16<sup>h</sup> 42<sup>m</sup> 22.11<sup>s</sup>
     dec: -58° 22' 13.96"
     apparent_magnitude: 8.50
@@ -37248,7 +37248,7 @@ stars:
     distance: 751.10
     spectral_class: K5III + DO + A8III
   - name:
-    designation: 3175 Noniashad
+    designation: <a href="3175_noniashad.html">3175 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 3.80<sup>s</sup>
     dec: -60° 10' 16.81"
     apparent_magnitude: 8.50
@@ -37296,7 +37296,7 @@ stars:
     distance: 450.37
     spectral_class: G6V + A4V
   - name:
-    designation: 1810 Noniashad
+    designation: <a href="1810_noniashad.html">1810 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 1.98<sup>s</sup>
     dec: -47° 51' 4.28"
     apparent_magnitude: 8.50
@@ -37312,7 +37312,7 @@ stars:
     distance: 719.70
     spectral_class: K2III + A8III
   - name:
-    designation: 2970 Noniashad
+    designation: <a href="2970_noniashad.html">2970 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 36.32<sup>s</sup>
     dec: -59° 57' 40.28"
     apparent_magnitude: 8.50
@@ -37392,7 +37392,7 @@ stars:
     distance: 254.47
     spectral_class: F0V + A6V
   - name:
-    designation: 2714 Noniashad
+    designation: <a href="2714_noniashad.html">2714 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 16.90<sup>s</sup>
     dec: -46° 33' 19.22"
     apparent_magnitude: 8.51
@@ -37440,7 +37440,7 @@ stars:
     distance: 460.76
     spectral_class: B9V + A6V
   - name:
-    designation: 2191 Noniashad
+    designation: <a href="2191_noniashad.html">2191 Noniashad</a>
     ra: 16<sup>h</sup> 59<sup>m</sup> 47.06<sup>s</sup>
     dec: -59° 13' 50.90"
     apparent_magnitude: 8.51
@@ -37608,7 +37608,7 @@ stars:
     distance: 625.56
     spectral_class: K5V + G7II
   - name:
-    designation: 4831 Noniashad
+    designation: <a href="4831_noniashad.html">4831 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 46.62<sup>s</sup>
     dec: -47° 40' 39.48"
     apparent_magnitude: 8.52
@@ -37616,7 +37616,7 @@ stars:
     distance: 376.53
     spectral_class: F6V + M1III + G1V + A3V
   - name:
-    designation: 1265 Noniashad
+    designation: <a href="1265_noniashad.html">1265 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 36.83<sup>s</sup>
     dec: -50° 38' 36.97"
     apparent_magnitude: 8.52
@@ -37680,7 +37680,7 @@ stars:
     distance: 420.88
     spectral_class: F1II
   - name:
-    designation: 2965 Noniashad
+    designation: <a href="2965_noniashad.html">2965 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 39.38<sup>s</sup>
     dec: -66° 02' 42.83"
     apparent_magnitude: 8.53
@@ -37688,7 +37688,7 @@ stars:
     distance: 775.66
     spectral_class: A6III
   - name:
-    designation: 1823 Noniashad
+    designation: <a href="1823_noniashad.html">1823 Noniashad</a>
     ra: 17<sup>h</sup> 53<sup>m</sup> 51.32<sup>s</sup>
     dec: -47° 16' 43.13"
     apparent_magnitude: 8.53
@@ -37816,7 +37816,7 @@ stars:
     distance: 607.70
     spectral_class: A9III
   - name:
-    designation: 1300 Noniashad
+    designation: <a href="1300_noniashad.html">1300 Noniashad</a>
     ra: 17<sup>h</sup> 02<sup>m</sup> 40.14<sup>s</sup>
     dec: -51° 11' 9.33"
     apparent_magnitude: 8.54
@@ -37848,7 +37848,7 @@ stars:
     distance: 499.56
     spectral_class: A6V + A4V
   - name:
-    designation: 5069 Noniashad
+    designation: <a href="5069_noniashad.html">5069 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 37.47<sup>s</sup>
     dec: -58° 01' 20.27"
     apparent_magnitude: 8.54
@@ -37952,7 +37952,7 @@ stars:
     distance: 438.68
     spectral_class: F4V + A1V
   - name:
-    designation: 4168 Noniashad
+    designation: <a href="4168_noniashad.html">4168 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 4.37<sup>s</sup>
     dec: -69° 02' 20.57"
     apparent_magnitude: 8.55
@@ -37976,7 +37976,7 @@ stars:
     distance: 407.46
     spectral_class: G6V + A4V
   - name:
-    designation: 4822 Noniashad
+    designation: <a href="4822_noniashad.html">4822 Noniashad</a>
     ra: 17<sup>h</sup> 41<sup>m</sup> 12.50<sup>s</sup>
     dec: -58° 21' 52.54"
     apparent_magnitude: 8.55
@@ -38008,7 +38008,7 @@ stars:
     distance: 464.95
     spectral_class: DZ + A2V
   - name:
-    designation: 1323 Noniashad
+    designation: <a href="1323_noniashad.html">1323 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 14.69<sup>s</sup>
     dec: -49° 37' 38.32"
     apparent_magnitude: 8.55
@@ -38064,7 +38064,7 @@ stars:
     distance: 401.91
     spectral_class: A9III
   - name:
-    designation: 3191 Noniashad
+    designation: <a href="3191_noniashad.html">3191 Noniashad</a>
     ra: 17<sup>h</sup> 36<sup>m</sup> 2.10<sup>s</sup>
     dec: -53° 10' 47.02"
     apparent_magnitude: 8.55
@@ -38136,7 +38136,7 @@ stars:
     distance: 568.14
     spectral_class: A9II
   - name:
-    designation: 3182 Noniashad
+    designation: <a href="3182_noniashad.html">3182 Noniashad</a>
     ra: 17<sup>h</sup> 34<sup>m</sup> 11.13<sup>s</sup>
     dec: -55° 47' 23.36"
     apparent_magnitude: 8.56
@@ -38160,7 +38160,7 @@ stars:
     distance: 514.44
     spectral_class: A9V + F5III
   - name:
-    designation: 5282 Noniashad
+    designation: <a href="5282_noniashad.html">5282 Noniashad</a>
     ra: 17<sup>h</sup> 51<sup>m</sup> 42.33<sup>s</sup>
     dec: -57° 59' 57.01"
     apparent_magnitude: 8.56
@@ -38176,7 +38176,7 @@ stars:
     distance: 281.38
     spectral_class: G5III
   - name:
-    designation: 2478 Noniashad
+    designation: <a href="2478_noniashad.html">2478 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 31.23<sup>s</sup>
     dec: -59° 46' 25.46"
     apparent_magnitude: 8.56
@@ -38192,7 +38192,7 @@ stars:
     distance: 521.56
     spectral_class: K6III + B9V
   - name:
-    designation: 1821 Noniashad
+    designation: <a href="1821_noniashad.html">1821 Noniashad</a>
     ra: 17<sup>h</sup> 14<sup>m</sup> 42.29<sup>s</sup>
     dec: -46° 58' 29.54"
     apparent_magnitude: 8.56
@@ -38264,7 +38264,7 @@ stars:
     distance: 678.79
     spectral_class: A5IV
   - name:
-    designation: 2614 Noniashad
+    designation: <a href="2614_noniashad.html">2614 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 31.83<sup>s</sup>
     dec: -61° 34' 49.59"
     apparent_magnitude: 8.57
@@ -38400,7 +38400,7 @@ stars:
     distance: 449.10
     spectral_class: A5V
   - name:
-    designation: 2927 Noniashad
+    designation: <a href="2927_noniashad.html">2927 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 1.25<sup>s</sup>
     dec: -58° 38' 8.78"
     apparent_magnitude: 8.58
@@ -38488,7 +38488,7 @@ stars:
     distance: 713.06
     spectral_class: F3III
   - name:
-    designation: 1399 Noniashad
+    designation: <a href="1399_noniashad.html">1399 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 21.30<sup>s</sup>
     dec: -57° 56' 16.37"
     apparent_magnitude: 8.59
@@ -38504,7 +38504,7 @@ stars:
     distance: 443.94
     spectral_class: F1III
   - name:
-    designation: 5510 Noniashad
+    designation: <a href="5510_noniashad.html">5510 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 33.19<sup>s</sup>
     dec: -59° 17' 25.09"
     apparent_magnitude: 8.59
@@ -38536,7 +38536,7 @@ stars:
     distance: 690.94
     spectral_class: A6IV
   - name:
-    designation: 1410 Noniashad
+    designation: <a href="1410_noniashad.html">1410 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 5.98<sup>s</sup>
     dec: -59° 03' 59.66"
     apparent_magnitude: 8.59
@@ -38568,7 +38568,7 @@ stars:
     distance: 568.90
     spectral_class: G2V + A4V
   - name:
-    designation: 1412 Noniashad
+    designation: <a href="1412_noniashad.html">1412 Noniashad</a>
     ra: 16<sup>h</sup> 46<sup>m</sup> 15.08<sup>s</sup>
     dec: -54° 31' 21.40"
     apparent_magnitude: 8.60
@@ -38696,7 +38696,7 @@ stars:
     distance: 805.51
     spectral_class: A8II
   - name:
-    designation: 1424 Noniashad
+    designation: <a href="1424_noniashad.html">1424 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 56.65<sup>s</sup>
     dec: -50° 44' 17.27"
     apparent_magnitude: 8.60
@@ -38720,7 +38720,7 @@ stars:
     distance: 549.10
     spectral_class: A9II
   - name:
-    designation: 3485 Noniashad
+    designation: <a href="3485_noniashad.html">3485 Noniashad</a>
     ra: 16<sup>h</sup> 59<sup>m</sup> 23.42<sup>s</sup>
     dec: -46° 26' 33.40"
     apparent_magnitude: 8.61
@@ -38736,7 +38736,7 @@ stars:
     distance: 618.75
     spectral_class: F3II
   - name:
-    designation: 4258 Noniashad
+    designation: <a href="4258_noniashad.html">4258 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 43.15<sup>s</sup>
     dec: -58° 50' 24.02"
     apparent_magnitude: 8.61
@@ -38776,7 +38776,7 @@ stars:
     distance: 959.09
     spectral_class: A7III
   - name:
-    designation: 1438 Noniashad
+    designation: <a href="1438_noniashad.html">1438 Noniashad</a>
     ra: 17<sup>h</sup> 43<sup>m</sup> 16.00<sup>s</sup>
     dec: -50° 34' 22.88"
     apparent_magnitude: 8.61
@@ -38832,7 +38832,7 @@ stars:
     distance: 396.47
     spectral_class: A5V
   - name:
-    designation: 2196 Noniashad
+    designation: <a href="2196_noniashad.html">2196 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 5.85<sup>s</sup>
     dec: -52° 02' 5.37"
     apparent_magnitude: 8.61
@@ -38856,7 +38856,7 @@ stars:
     distance: 719.99
     spectral_class: M5III + A8III
   - name:
-    designation: 4705 Noniashad
+    designation: <a href="4705_noniashad.html">4705 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 21.65<sup>s</sup>
     dec: -48° 56' 2.35"
     apparent_magnitude: 8.61
@@ -38888,7 +38888,7 @@ stars:
     distance: 925.33
     spectral_class: A8III
   - name:
-    designation: 3667 Noniashad
+    designation: <a href="3667_noniashad.html">3667 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 52.31<sup>s</sup>
     dec: -61° 05' 23.12"
     apparent_magnitude: 8.62
@@ -39008,7 +39008,7 @@ stars:
     distance: 631.55
     spectral_class: F5III
   - name:
-    designation: 3122 Noniashad
+    designation: <a href="3122_noniashad.html">3122 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 56.52<sup>s</sup>
     dec: -61° 18' 42.24"
     apparent_magnitude: 8.62
@@ -39096,7 +39096,7 @@ stars:
     distance: 617.14
     spectral_class: G1V + A6IV
   - name:
-    designation: 2835 Noniashad
+    designation: <a href="2835_noniashad.html">2835 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 4.75<sup>s</sup>
     dec: -52° 52' 33.92"
     apparent_magnitude: 8.63
@@ -39136,7 +39136,7 @@ stars:
     distance: 610.83
     spectral_class: A5IV
   - name:
-    designation: 1488 Noniashad
+    designation: <a href="1488_noniashad.html">1488 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 57.52<sup>s</sup>
     dec: -55° 45' 51.45"
     apparent_magnitude: 8.63
@@ -39176,7 +39176,7 @@ stars:
     distance: 511.43
     spectral_class: A7IV
   - name:
-    designation: 1496 Noniashad
+    designation: <a href="1496_noniashad.html">1496 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 56.89<sup>s</sup>
     dec: -54° 17' 58.08"
     apparent_magnitude: 8.64
@@ -39256,7 +39256,7 @@ stars:
     distance: 419.16
     spectral_class: A2V
   - name:
-    designation: 4723 Noniashad
+    designation: <a href="4723_noniashad.html">4723 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 47.46<sup>s</sup>
     dec: -64° 13' 46.40"
     apparent_magnitude: 8.64
@@ -39272,7 +39272,7 @@ stars:
     distance: 602.45
     spectral_class: F6III
   - name:
-    designation: 1514 Noniashad
+    designation: <a href="1514_noniashad.html">1514 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 20.17<sup>s</sup>
     dec: -49° 57' 59.24"
     apparent_magnitude: 8.65
@@ -39312,7 +39312,7 @@ stars:
     distance: 466.07
     spectral_class: G9V + A2V
   - name:
-    designation: 4706 Noniashad
+    designation: <a href="4706_noniashad.html">4706 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 28.62<sup>s</sup>
     dec: -46° 23' 53.38"
     apparent_magnitude: 8.65
@@ -39320,7 +39320,7 @@ stars:
     distance: 225.04
     spectral_class: F7III
   - name:
-    designation: 5076 Noniashad
+    designation: <a href="5076_noniashad.html">5076 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 30.61<sup>s</sup>
     dec: -54° 47' 28.63"
     apparent_magnitude: 8.65
@@ -39344,7 +39344,7 @@ stars:
     distance: 535.24
     spectral_class: A6V + A9III
   - name:
-    designation: 4036 Noniashad
+    designation: <a href="4036_noniashad.html">4036 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 21.76<sup>s</sup>
     dec: -51° 39' 55.52"
     apparent_magnitude: 8.65
@@ -39360,7 +39360,7 @@ stars:
     distance: 719.09
     spectral_class: A6III
   - name:
-    designation: 1524 Noniashad
+    designation: <a href="1524_noniashad.html">1524 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 31.78<sup>s</sup>
     dec: -60° 33' 33.01"
     apparent_magnitude: 8.65
@@ -39376,7 +39376,7 @@ stars:
     distance: 672.37
     spectral_class: G2V + F7III
   - name:
-    designation: 1576 Noniashad
+    designation: <a href="1576_noniashad.html">1576 Noniashad</a>
     ra: 17<sup>h</sup> 43<sup>m</sup> 45.26<sup>s</sup>
     dec: -48° 03' 6.59"
     apparent_magnitude: 8.65
@@ -39496,7 +39496,7 @@ stars:
     distance: 791.66
     spectral_class: G5V + A4IV
   - name:
-    designation: 4105 Noniashad
+    designation: <a href="4105_noniashad.html">4105 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 34.92<sup>s</sup>
     dec: -61° 18' 34.04"
     apparent_magnitude: 8.66
@@ -39536,7 +39536,7 @@ stars:
     distance: 690.80
     spectral_class: F2V + A8III
   - name:
-    designation: 3013 Noniashad
+    designation: <a href="3013_noniashad.html">3013 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 50.37<sup>s</sup>
     dec: -47° 22' 17.64"
     apparent_magnitude: 8.67
@@ -39560,7 +39560,7 @@ stars:
     distance: 771.34
     spectral_class: K8III + A6V + F0III
   - name:
-    designation: 5287 Noniashad
+    designation: <a href="5287_noniashad.html">5287 Noniashad</a>
     ra: 17<sup>h</sup> 18<sup>m</sup> 3.38<sup>s</sup>
     dec: -57° 46' 30.41"
     apparent_magnitude: 8.67
@@ -39584,7 +39584,7 @@ stars:
     distance: 551.88
     spectral_class: K5V + G7II
   - name:
-    designation: 3384 Noniashad
+    designation: <a href="3384_noniashad.html">3384 Noniashad</a>
     ra: 17<sup>h</sup> 50<sup>m</sup> 32.34<sup>s</sup>
     dec: -62° 56' 3.62"
     apparent_magnitude: 8.67
@@ -39632,7 +39632,7 @@ stars:
     distance: 616.53
     spectral_class: F4V + A8III
   - name:
-    designation: 3565 Noniashad
+    designation: <a href="3565_noniashad.html">3565 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 45.52<sup>s</sup>
     dec: -59° 10' 52.39"
     apparent_magnitude: 8.67
@@ -39720,7 +39720,7 @@ stars:
     distance: 436.55
     spectral_class: F1III
   - name:
-    designation: 5315 Noniashad
+    designation: <a href="5315_noniashad.html">5315 Noniashad</a>
     ra: 17<sup>h</sup> 59<sup>m</sup> 14.86<sup>s</sup>
     dec: -47° 01' 22.68"
     apparent_magnitude: 8.68
@@ -39792,7 +39792,7 @@ stars:
     distance: 479.09
     spectral_class: A9V + F5III
   - name:
-    designation: 2203 Noniashad
+    designation: <a href="2203_noniashad.html">2203 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 41.67<sup>s</sup>
     dec: -49° 50' 3.51"
     apparent_magnitude: 8.69
@@ -39872,7 +39872,7 @@ stars:
     distance: 612.92
     spectral_class: A9III
   - name:
-    designation: 1675 Noniashad
+    designation: <a href="1675_noniashad.html">1675 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 43.31<sup>s</sup>
     dec: -49° 38' 46.02"
     apparent_magnitude: 8.69
@@ -39880,7 +39880,7 @@ stars:
     distance: 416.59
     spectral_class: A4V
   - name:
-    designation: 2213 Noniashad
+    designation: <a href="2213_noniashad.html">2213 Noniashad</a>
     ra: 17<sup>h</sup> 27<sup>m</sup> 11.04<sup>s</sup>
     dec: -51° 07' 4.20"
     apparent_magnitude: 8.69
@@ -40104,7 +40104,7 @@ stars:
     distance: 614.88
     spectral_class: A2V
   - name:
-    designation: 1659 Noniashad
+    designation: <a href="1659_noniashad.html">1659 Noniashad</a>
     ra: 16<sup>h</sup> 29<sup>m</sup> 39.47<sup>s</sup>
     dec: -55° 45' 8.29"
     apparent_magnitude: 8.71
@@ -40112,7 +40112,7 @@ stars:
     distance: 1,048.58
     spectral_class: A7III
   - name:
-    designation: 3185 Noniashad
+    designation: <a href="3185_noniashad.html">3185 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 55.15<sup>s</sup>
     dec: -61° 09' 18.73"
     apparent_magnitude: 8.71
@@ -40128,7 +40128,7 @@ stars:
     distance: 343.48
     spectral_class: G6II
   - name:
-    designation: 4726 Noniashad
+    designation: <a href="4726_noniashad.html">4726 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 57.31<sup>s</sup>
     dec: -61° 15' 13.01"
     apparent_magnitude: 8.72
@@ -40184,7 +40184,7 @@ stars:
     distance: 647.06
     spectral_class: F4V + A8III
   - name:
-    designation: 1683 Noniashad
+    designation: <a href="1683_noniashad.html">1683 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 40.98<sup>s</sup>
     dec: -51° 34' 31.97"
     apparent_magnitude: 8.72
@@ -40240,7 +40240,7 @@ stars:
     distance: 389.50
     spectral_class: F1V + A3V
   - name:
-    designation: 3424 Noniashad
+    designation: <a href="3424_noniashad.html">3424 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 36.82<sup>s</sup>
     dec: -52° 00' 20.27"
     apparent_magnitude: 8.73
@@ -40272,7 +40272,7 @@ stars:
     distance: 328.08
     spectral_class: G7III + A9V
   - name:
-    designation: 1705 Noniashad
+    designation: <a href="1705_noniashad.html">1705 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 43.02<sup>s</sup>
     dec: -60° 23' 50.02"
     apparent_magnitude: 8.73
@@ -40296,7 +40296,7 @@ stars:
     distance: 659.96
     spectral_class: DA + F3III
   - name:
-    designation: 3163 Noniashad
+    designation: <a href="3163_noniashad.html">3163 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 29.39<sup>s</sup>
     dec: -61° 32' 17.64"
     apparent_magnitude: 8.73
@@ -40312,7 +40312,7 @@ stars:
     distance: 266.89
     spectral_class: A7V
   - name:
-    designation: 3160 Noniashad
+    designation: <a href="3160_noniashad.html">3160 Noniashad</a>
     ra: 17<sup>h</sup> 10<sup>m</sup> 33.79<sup>s</sup>
     dec: -67° 13' 28.44"
     apparent_magnitude: 8.74
@@ -40408,7 +40408,7 @@ stars:
     distance: 229.64
     spectral_class: DQ + A7V
   - name:
-    designation: 2785 Noniashad
+    designation: <a href="2785_noniashad.html">2785 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 57.12<sup>s</sup>
     dec: -54° 09' 9.75"
     apparent_magnitude: 8.74
@@ -40432,7 +40432,7 @@ stars:
     distance: 662.26
     spectral_class: A3V + F4V + A0V
   - name:
-    designation: 1733 Noniashad
+    designation: <a href="1733_noniashad.html">1733 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 46.85<sup>s</sup>
     dec: -65° 43' 50.11"
     apparent_magnitude: 8.74
@@ -40464,7 +40464,7 @@ stars:
     distance: 229.86
     spectral_class: F0V + A6V
   - name:
-    designation: 2211 Noniashad
+    designation: <a href="2211_noniashad.html">2211 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 55.69<sup>s</sup>
     dec: -46° 43' 12.07"
     apparent_magnitude: 8.75
@@ -40512,7 +40512,7 @@ stars:
     distance: 290.82
     spectral_class: G7II
   - name:
-    designation: 2077 Noniashad
+    designation: <a href="2077_noniashad.html">2077 Noniashad</a>
     ra: 17<sup>h</sup> 11<sup>m</sup> 35.74<sup>s</sup>
     dec: -49° 45' 10.33"
     apparent_magnitude: 8.75
@@ -40536,7 +40536,7 @@ stars:
     distance: 295.36
     spectral_class: A8V
   - name:
-    designation: 3247 Noniashad
+    designation: <a href="3247_noniashad.html">3247 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 15.63<sup>s</sup>
     dec: -48° 49' 44.68"
     apparent_magnitude: 8.75
@@ -40568,7 +40568,7 @@ stars:
     distance: 611.95
     spectral_class: G1V + A5IV
   - name:
-    designation: 1756 Noniashad
+    designation: <a href="1756_noniashad.html">1756 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 56.79<sup>s</sup>
     dec: -63° 53' 33.49"
     apparent_magnitude: 8.75
@@ -40616,7 +40616,7 @@ stars:
     distance: 611.90
     spectral_class: DQ + A9III
   - name:
-    designation: 2330 Noniashad
+    designation: <a href="2330_noniashad.html">2330 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 2.05<sup>s</sup>
     dec: -54° 50' 38.10"
     apparent_magnitude: 8.76
@@ -40640,7 +40640,7 @@ stars:
     distance: 580.88
     spectral_class: G4V + F0III
   - name:
-    designation: 1775 Noniashad
+    designation: <a href="1775_noniashad.html">1775 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 33.58<sup>s</sup>
     dec: -62° 13' 37.76"
     apparent_magnitude: 8.76
@@ -40720,7 +40720,7 @@ stars:
     distance: 857.55
     spectral_class: M4III + F9II
   - name:
-    designation: 5268 Noniashad
+    designation: <a href="5268_noniashad.html">5268 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 33.46<sup>s</sup>
     dec: -50° 18' 50.47"
     apparent_magnitude: 8.77
@@ -40728,7 +40728,7 @@ stars:
     distance: 296.94
     spectral_class: G7V + F4V + A5V
   - name:
-    designation: 4695 Noniashad
+    designation: <a href="4695_noniashad.html">4695 Noniashad</a>
     ra: 17<sup>h</sup> 35<sup>m</sup> 40.92<sup>s</sup>
     dec: -48° 53' 26.39"
     apparent_magnitude: 8.77
@@ -40776,7 +40776,7 @@ stars:
     distance: 441.05
     spectral_class: K6III + B9V
   - name:
-    designation: 1798 Noniashad
+    designation: <a href="1798_noniashad.html">1798 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 59.26<sup>s</sup>
     dec: -65° 20' 45.56"
     apparent_magnitude: 8.77
@@ -40808,7 +40808,7 @@ stars:
     distance: 629.98
     spectral_class: F4V + A8III
   - name:
-    designation: 3658 Noniashad
+    designation: <a href="3658_noniashad.html">3658 Noniashad</a>
     ra: 17<sup>h</sup> 11<sup>m</sup> 7.60<sup>s</sup>
     dec: -65° 48' 2.14"
     apparent_magnitude: 8.77
@@ -40824,7 +40824,7 @@ stars:
     distance: 425.69
     spectral_class: A8IV
   - name:
-    designation: 3357 Noniashad
+    designation: <a href="3357_noniashad.html">3357 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 18.04<sup>s</sup>
     dec: -63° 09' 54.58"
     apparent_magnitude: 8.77
@@ -40856,7 +40856,7 @@ stars:
     distance: 522.58
     spectral_class: A8III
   - name:
-    designation: 1817 Noniashad
+    designation: <a href="1817_noniashad.html">1817 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 36.55<sup>s</sup>
     dec: -55° 05' 12.03"
     apparent_magnitude: 8.78
@@ -40888,7 +40888,7 @@ stars:
     distance: 583.27
     spectral_class: K9III + F0III
   - name:
-    designation: 2313 Noniashad
+    designation: <a href="2313_noniashad.html">2313 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 36.21<sup>s</sup>
     dec: -55° 26' 53.98"
     apparent_magnitude: 8.78
@@ -40904,7 +40904,7 @@ stars:
     distance: 775.69
     spectral_class: K8Ib
   - name:
-    designation: 4191 Noniashad
+    designation: <a href="4191_noniashad.html">4191 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 16.72<sup>s</sup>
     dec: -60° 27' 21.66"
     apparent_magnitude: 8.78
@@ -40912,7 +40912,7 @@ stars:
     distance: 809.71
     spectral_class: F0V + F1V + M9III + K9III + A8III
   - name:
-    designation: 3158 Noniashad
+    designation: <a href="3158_noniashad.html">3158 Noniashad</a>
     ra: 17<sup>h</sup> 05<sup>m</sup> 36.99<sup>s</sup>
     dec: -66° 03' 38.55"
     apparent_magnitude: 8.78
@@ -40936,7 +40936,7 @@ stars:
     distance: 616.47
     spectral_class: K5V + G7II
   - name:
-    designation: 1832 Noniashad
+    designation: <a href="1832_noniashad.html">1832 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 4.81<sup>s</sup>
     dec: -48° 34' 8.60"
     apparent_magnitude: 8.78
@@ -40992,7 +40992,7 @@ stars:
     distance: 953.25
     spectral_class: A6III
   - name:
-    designation: 1845 Noniashad
+    designation: <a href="1845_noniashad.html">1845 Noniashad</a>
     ra: 16<sup>h</sup> 34<sup>m</sup> 46.75<sup>s</sup>
     dec: -63° 14' 49.03"
     apparent_magnitude: 8.79
@@ -41032,7 +41032,7 @@ stars:
     distance: 769.58
     spectral_class: K8Ib
   - name:
-    designation: 1852 Noniashad
+    designation: <a href="1852_noniashad.html">1852 Noniashad</a>
     ra: 17<sup>h</sup> 49<sup>m</sup> 5.27<sup>s</sup>
     dec: -55° 24' 37.81"
     apparent_magnitude: 8.79
@@ -41064,7 +41064,7 @@ stars:
     distance: 344.29
     spectral_class: A6V
   - name:
-    designation: 4179 Noniashad
+    designation: <a href="4179_noniashad.html">4179 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 38.07<sup>s</sup>
     dec: -62° 50' 6.96"
     apparent_magnitude: 8.79
@@ -41136,7 +41136,7 @@ stars:
     distance: 753.83
     spectral_class: A3IV
   - name:
-    designation: 1874 Noniashad
+    designation: <a href="1874_noniashad.html">1874 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 16.68<sup>s</sup>
     dec: -46° 25' 43.32"
     apparent_magnitude: 8.80
@@ -41152,7 +41152,7 @@ stars:
     distance: 1,041.62
     spectral_class: A4III
   - name:
-    designation: 1881 Noniashad
+    designation: <a href="1881_noniashad.html">1881 Noniashad</a>
     ra: 17<sup>h</sup> 27<sup>m</sup> 18.72<sup>s</sup>
     dec: -65° 05' 54.16"
     apparent_magnitude: 8.80
@@ -41200,7 +41200,7 @@ stars:
     distance: 759.89
     spectral_class: F5V + A3IV
   - name:
-    designation: 1898 Noniashad
+    designation: <a href="1898_noniashad.html">1898 Noniashad</a>
     ra: 17<sup>h</sup> 40<sup>m</sup> 59.02<sup>s</sup>
     dec: -62° 13' 28.93"
     apparent_magnitude: 8.81
@@ -41232,7 +41232,7 @@ stars:
     distance: 487.77
     spectral_class: K6III + B9V
   - name:
-    designation: 2432 Noniashad
+    designation: <a href="2432_noniashad.html">2432 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 39.69<sup>s</sup>
     dec: -55° 36' 39.46"
     apparent_magnitude: 8.82
@@ -41240,7 +41240,7 @@ stars:
     distance: 935.05
     spectral_class: A2IV
   - name:
-    designation: 3216 Noniashad
+    designation: <a href="3216_noniashad.html">3216 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 4.83<sup>s</sup>
     dec: -49° 49' 42.45"
     apparent_magnitude: 8.82
@@ -41288,7 +41288,7 @@ stars:
     distance: 583.45
     spectral_class: A8III
   - name:
-    designation: 3355 Noniashad
+    designation: <a href="3355_noniashad.html">3355 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 30.71<sup>s</sup>
     dec: -68° 36' 12.46"
     apparent_magnitude: 8.82
@@ -41416,7 +41416,7 @@ stars:
     distance: 482.02
     spectral_class: K3III + A4V
   - name:
-    designation: 1957 Noniashad
+    designation: <a href="1957_noniashad.html">1957 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 43.70<sup>s</sup>
     dec: -52° 07' 20.69"
     apparent_magnitude: 8.83
@@ -41616,7 +41616,7 @@ stars:
     distance: 580.72
     spectral_class: A6V + F6III
   - name:
-    designation: 2000 Noniashad
+    designation: <a href="2000_noniashad.html">2000 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 37.21<sup>s</sup>
     dec: -58° 54' 52.24"
     apparent_magnitude: 8.85
@@ -41672,7 +41672,7 @@ stars:
     distance: 429.66
     spectral_class: F8V + DC + F5III
   - name:
-    designation: 5305 Noniashad
+    designation: <a href="5305_noniashad.html">5305 Noniashad</a>
     ra: 17<sup>h</sup> 37<sup>m</sup> 57.95<sup>s</sup>
     dec: -59° 04' 4.23"
     apparent_magnitude: 8.86
@@ -41752,7 +41752,7 @@ stars:
     distance: 752.98
     spectral_class: A7III
   - name:
-    designation: 2047 Noniashad
+    designation: <a href="2047_noniashad.html">2047 Noniashad</a>
     ra: 17<sup>h</sup> 12<sup>m</sup> 50.99<sup>s</sup>
     dec: -68° 00' 1.45"
     apparent_magnitude: 8.86
@@ -41776,7 +41776,7 @@ stars:
     distance: 691.20
     spectral_class: A3IV
   - name:
-    designation: 3353 Noniashad
+    designation: <a href="3353_noniashad.html">3353 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 40.30<sup>s</sup>
     dec: -67° 40' 25.32"
     apparent_magnitude: 8.87
@@ -41968,7 +41968,7 @@ stars:
     distance: 502.02
     spectral_class: F7V + F5V + A8III
   - name:
-    designation: 2121 Noniashad
+    designation: <a href="2121_noniashad.html">2121 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 1.06<sup>s</sup>
     dec: -57° 56' 7.69"
     apparent_magnitude: 8.89
@@ -42056,7 +42056,7 @@ stars:
     distance: 642.51
     spectral_class: F2III
   - name:
-    designation: 2547 Noniashad
+    designation: <a href="2547_noniashad.html">2547 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 32.00<sup>s</sup>
     dec: -54° 57' 26.92"
     apparent_magnitude: 8.90
@@ -42080,7 +42080,7 @@ stars:
     distance: 811.84
     spectral_class: F3II
   - name:
-    designation: 3646 Noniashad
+    designation: <a href="3646_noniashad.html">3646 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 23.02<sup>s</sup>
     dec: -68° 47' 3.68"
     apparent_magnitude: 8.90
@@ -42128,7 +42128,7 @@ stars:
     distance: 381.51
     spectral_class: A5V
   - name:
-    designation: 2176 Noniashad
+    designation: <a href="2176_noniashad.html">2176 Noniashad</a>
     ra: 17<sup>h</sup> 15<sup>m</sup> 38.05<sup>s</sup>
     dec: -46° 42' 1.63"
     apparent_magnitude: 8.91
@@ -42416,7 +42416,7 @@ stars:
     distance: 597.27
     spectral_class: A3V
   - name:
-    designation: 2283 Noniashad
+    designation: <a href="2283_noniashad.html">2283 Noniashad</a>
     ra: 17<sup>h</sup> 31<sup>m</sup> 30.03<sup>s</sup>
     dec: -53° 26' 42.52"
     apparent_magnitude: 8.94
@@ -42432,7 +42432,7 @@ stars:
     distance: 471.00
     spectral_class: A4V
   - name:
-    designation: 2285 Noniashad
+    designation: <a href="2285_noniashad.html">2285 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 6.11<sup>s</sup>
     dec: -55° 17' 20.60"
     apparent_magnitude: 8.94
@@ -42456,7 +42456,7 @@ stars:
     distance: 690.72
     spectral_class: M9III + A7III
   - name:
-    designation: 3492 Noniashad
+    designation: <a href="3492_noniashad.html">3492 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 25.70<sup>s</sup>
     dec: -47° 40' 44.14"
     apparent_magnitude: 8.95
@@ -42480,7 +42480,7 @@ stars:
     distance: 651.48
     spectral_class: A3V + F4V + A0V
   - name:
-    designation: 2316 Noniashad
+    designation: <a href="2316_noniashad.html">2316 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 37.75<sup>s</sup>
     dec: -58° 07' 38.39"
     apparent_magnitude: 8.95
@@ -42504,7 +42504,7 @@ stars:
     distance: 591.37
     spectral_class: G4V + F0III
   - name:
-    designation: 4818 Noniashad
+    designation: <a href="4818_noniashad.html">4818 Noniashad</a>
     ra: 16<sup>h</sup> 40<sup>m</sup> 41.79<sup>s</sup>
     dec: -52° 55' 10.95"
     apparent_magnitude: 8.96
@@ -42600,7 +42600,7 @@ stars:
     distance: 759.73
     spectral_class: A5IV
   - name:
-    designation: 3383 Noniashad
+    designation: <a href="3383_noniashad.html">3383 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 36.74<sup>s</sup>
     dec: -57° 49' 21.89"
     apparent_magnitude: 8.97
@@ -42608,7 +42608,7 @@ stars:
     distance: 507.56
     spectral_class: F6V + A9V + G9III + A3V
   - name:
-    designation: 3678 Noniashad
+    designation: <a href="3678_noniashad.html">3678 Noniashad</a>
     ra: 17<sup>h</sup> 42<sup>m</sup> 14.73<sup>s</sup>
     dec: -57° 44' 12.31"
     apparent_magnitude: 8.98
@@ -42624,7 +42624,7 @@ stars:
     distance: 681.25
     spectral_class: A1V + A3V
   - name:
-    designation: 3743 Noniashad
+    designation: <a href="3743_noniashad.html">3743 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 10.68<sup>s</sup>
     dec: -55° 32' 16.28"
     apparent_magnitude: 8.98
@@ -42632,7 +42632,7 @@ stars:
     distance: 718.64
     spectral_class: A9III
   - name:
-    designation: 2395 Noniashad
+    designation: <a href="2395_noniashad.html">2395 Noniashad</a>
     ra: 17<sup>h</sup> 44<sup>m</sup> 1.77<sup>s</sup>
     dec: -62° 36' 25.53"
     apparent_magnitude: 8.98
@@ -42672,7 +42672,7 @@ stars:
     distance: 520.34
     spectral_class: F2II
   - name:
-    designation: 2504 Noniashad
+    designation: <a href="2504_noniashad.html">2504 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 14.22<sup>s</sup>
     dec: -56° 17' 22.74"
     apparent_magnitude: 8.98
@@ -42680,7 +42680,7 @@ stars:
     distance: 386.88
     spectral_class: F5III
   - name:
-    designation: 2685 Noniashad
+    designation: <a href="2685_noniashad.html">2685 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 8.58<sup>s</sup>
     dec: -56° 53' 10.64"
     apparent_magnitude: 8.99
@@ -42704,7 +42704,7 @@ stars:
     distance: 670.00
     spectral_class: F4V + A8III
   - name:
-    designation: 2439 Noniashad
+    designation: <a href="2439_noniashad.html">2439 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 24.55<sup>s</sup>
     dec: -51° 21' 41.13"
     apparent_magnitude: 8.99
@@ -42728,7 +42728,7 @@ stars:
     distance: 685.79
     spectral_class: M3Ib
   - name:
-    designation: 4159 Noniashad
+    designation: <a href="4159_noniashad.html">4159 Noniashad</a>
     ra: 18<sup>h</sup> 00<sup>m</sup> 29.97<sup>s</sup>
     dec: -67° 45' 18.26"
     apparent_magnitude: 8.99
@@ -42744,7 +42744,7 @@ stars:
     distance: 619.30
     spectral_class: A5IV
   - name:
-    designation: 2440 Noniashad
+    designation: <a href="2440_noniashad.html">2440 Noniashad</a>
     ra: 17<sup>h</sup> 38<sup>m</sup> 32.04<sup>s</sup>
     dec: -53° 21' 14.15"
     apparent_magnitude: 8.99
@@ -42760,7 +42760,7 @@ stars:
     distance: 440.09
     spectral_class: F1II
   - name:
-    designation: 2445 Noniashad
+    designation: <a href="2445_noniashad.html">2445 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 38.59<sup>s</sup>
     dec: -55° 20' 26.38"
     apparent_magnitude: 8.99
@@ -43008,7 +43008,7 @@ stars:
     distance: 593.90
     spectral_class: F5V + A9III
   - name:
-    designation: 3665 Noniashad
+    designation: <a href="3665_noniashad.html">3665 Noniashad</a>
     ra: 17<sup>h</sup> 38<sup>m</sup> 50.12<sup>s</sup>
     dec: -60° 06' 3.37"
     apparent_magnitude: 9.02
@@ -43016,7 +43016,7 @@ stars:
     distance: 770.02
     spectral_class: A6III
   - name:
-    designation: 3373 Noniashad
+    designation: <a href="3373_noniashad.html">3373 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 44.76<sup>s</sup>
     dec: -63° 37' 35.30"
     apparent_magnitude: 9.02
@@ -43032,7 +43032,7 @@ stars:
     distance: 674.74
     spectral_class: F1III
   - name:
-    designation: 4284 Noniashad
+    designation: <a href="4284_noniashad.html">4284 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 56.04<sup>s</sup>
     dec: -58° 12' 29.39"
     apparent_magnitude: 9.02
@@ -43120,7 +43120,7 @@ stars:
     distance: 657.15
     spectral_class: F5V + A9III
   - name:
-    designation: 2638 Noniashad
+    designation: <a href="2638_noniashad.html">2638 Noniashad</a>
     ra: 17<sup>h</sup> 30<sup>m</sup> 37.20<sup>s</sup>
     dec: -58° 07' 33.48"
     apparent_magnitude: 9.03
@@ -43176,7 +43176,7 @@ stars:
     distance: 659.65
     spectral_class: A6III
   - name:
-    designation: 2617 Noniashad
+    designation: <a href="2617_noniashad.html">2617 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 27.17<sup>s</sup>
     dec: -51° 18' 58.14"
     apparent_magnitude: 9.04
@@ -43192,7 +43192,7 @@ stars:
     distance: 504.89
     spectral_class: F7V + A1V
   - name:
-    designation: 2624 Noniashad
+    designation: <a href="2624_noniashad.html">2624 Noniashad</a>
     ra: 17<sup>h</sup> 57<sup>m</sup> 42.81<sup>s</sup>
     dec: -49° 34' 8.04"
     apparent_magnitude: 9.04
@@ -43208,7 +43208,7 @@ stars:
     distance: 822.77
     spectral_class: F5V + A3IV
   - name:
-    designation: 2633 Noniashad
+    designation: <a href="2633_noniashad.html">2633 Noniashad</a>
     ra: 17<sup>h</sup> 07<sup>m</sup> 9.65<sup>s</sup>
     dec: -50° 16' 41.19"
     apparent_magnitude: 9.05
@@ -43264,7 +43264,7 @@ stars:
     distance: 573.66
     spectral_class: A6V + A9III
   - name:
-    designation: 2985 Noniashad
+    designation: <a href="2985_noniashad.html">2985 Noniashad</a>
     ra: 16<sup>h</sup> 52<sup>m</sup> 59.15<sup>s</sup>
     dec: -58° 54' 19.67"
     apparent_magnitude: 9.06
@@ -43280,7 +43280,7 @@ stars:
     distance: 508.91
     spectral_class: A2V
   - name:
-    designation: 3213 Noniashad
+    designation: <a href="3213_noniashad.html">3213 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 26.64<sup>s</sup>
     dec: -51° 55' 33.18"
     apparent_magnitude: 9.06
@@ -43296,7 +43296,7 @@ stars:
     distance: 534.96
     spectral_class: K5V + G7II
   - name:
-    designation: 2836 Noniashad
+    designation: <a href="2836_noniashad.html">2836 Noniashad</a>
     ra: 17<sup>h</sup> 04<sup>m</sup> 0.72<sup>s</sup>
     dec: -55° 02' 35.16"
     apparent_magnitude: 9.06
@@ -43328,7 +43328,7 @@ stars:
     distance: 835.58
     spectral_class: F5V + A3IV
   - name:
-    designation: 2699 Noniashad
+    designation: <a href="2699_noniashad.html">2699 Noniashad</a>
     ra: 17<sup>h</sup> 20<sup>m</sup> 43.61<sup>s</sup>
     dec: -62° 49' 19.48"
     apparent_magnitude: 9.06
@@ -43392,7 +43392,7 @@ stars:
     distance: 710.08
     spectral_class: G1V + A6IV
   - name:
-    designation: 2745 Noniashad
+    designation: <a href="2745_noniashad.html">2745 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 46.50<sup>s</sup>
     dec: -58° 52' 27.22"
     apparent_magnitude: 9.08
@@ -43448,7 +43448,7 @@ stars:
     distance: 823.69
     spectral_class: F5V + A3IV
   - name:
-    designation: 2781 Noniashad
+    designation: <a href="2781_noniashad.html">2781 Noniashad</a>
     ra: 17<sup>h</sup> 58<sup>m</sup> 58.31<sup>s</sup>
     dec: -51° 59' 9.13"
     apparent_magnitude: 9.09
@@ -43472,7 +43472,7 @@ stars:
     distance: 445.63
     spectral_class: K3III + A4V
   - name:
-    designation: 2796 Noniashad
+    designation: <a href="2796_noniashad.html">2796 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 36.76<sup>s</sup>
     dec: -62° 15' 43.72"
     apparent_magnitude: 9.09
@@ -43488,7 +43488,7 @@ stars:
     distance: 597.32
     spectral_class: A5IV
   - name:
-    designation: 2802 Noniashad
+    designation: <a href="2802_noniashad.html">2802 Noniashad</a>
     ra: 17<sup>h</sup> 26<sup>m</sup> 14.75<sup>s</sup>
     dec: -56° 54' 0.53"
     apparent_magnitude: 9.09
@@ -43552,7 +43552,7 @@ stars:
     distance: 599.77
     spectral_class: K9III + A8III
   - name:
-    designation: 4182 Noniashad
+    designation: <a href="4182_noniashad.html">4182 Noniashad</a>
     ra: 17<sup>h</sup> 55<sup>m</sup> 37.57<sup>s</sup>
     dec: -67° 08' 26.56"
     apparent_magnitude: 9.10
@@ -43616,7 +43616,7 @@ stars:
     distance: 665.95
     spectral_class: F3II
   - name:
-    designation: 2896 Noniashad
+    designation: <a href="2896_noniashad.html">2896 Noniashad</a>
     ra: 17<sup>h</sup> 43<sup>m</sup> 28.70<sup>s</sup>
     dec: -50° 11' 26.50"
     apparent_magnitude: 9.12
@@ -43632,7 +43632,7 @@ stars:
     distance: 798.43
     spectral_class: F2II
   - name:
-    designation: 2910 Noniashad
+    designation: <a href="2910_noniashad.html">2910 Noniashad</a>
     ra: 17<sup>h</sup> 19<sup>m</sup> 22.73<sup>s</sup>
     dec: -53° 16' 9.55"
     apparent_magnitude: 9.12
@@ -43712,7 +43712,7 @@ stars:
     distance: 547.73
     spectral_class: F7V + A1V
   - name:
-    designation: 2964 Noniashad
+    designation: <a href="2964_noniashad.html">2964 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 13.48<sup>s</sup>
     dec: -48° 16' 37.63"
     apparent_magnitude: 9.13
@@ -43768,7 +43768,7 @@ stars:
     distance: 466.66
     spectral_class: K1V + DB + F9II
   - name:
-    designation: 3023 Noniashad
+    designation: <a href="3023_noniashad.html">3023 Noniashad</a>
     ra: 17<sup>h</sup> 16<sup>m</sup> 48.00<sup>s</sup>
     dec: -55° 39' 34.79"
     apparent_magnitude: 9.15
@@ -43776,7 +43776,7 @@ stars:
     distance: 772.68
     spectral_class: A6III
   - name:
-    designation: 3024 Noniashad
+    designation: <a href="3024_noniashad.html">3024 Noniashad</a>
     ra: 16<sup>h</sup> 38<sup>m</sup> 1.78<sup>s</sup>
     dec: -50° 35' 7.32"
     apparent_magnitude: 9.15
@@ -43792,7 +43792,7 @@ stars:
     distance: 641.50
     spectral_class: F5III
   - name:
-    designation: 3032 Noniashad
+    designation: <a href="3032_noniashad.html">3032 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 21.20<sup>s</sup>
     dec: -47° 32' 2.71"
     apparent_magnitude: 9.15
@@ -43808,7 +43808,7 @@ stars:
     distance: 556.94
     spectral_class: M3Ib
   - name:
-    designation: 3038 Noniashad
+    designation: <a href="3038_noniashad.html">3038 Noniashad</a>
     ra: 17<sup>h</sup> 15<sup>m</sup> 9.76<sup>s</sup>
     dec: -51° 38' 45.24"
     apparent_magnitude: 9.15
@@ -43840,7 +43840,7 @@ stars:
     distance: 644.51
     spectral_class: F7V + A1V
   - name:
-    designation: 3050 Noniashad
+    designation: <a href="3050_noniashad.html">3050 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 45.84<sup>s</sup>
     dec: -58° 47' 53.92"
     apparent_magnitude: 9.15
@@ -43848,7 +43848,7 @@ stars:
     distance: 445.25
     spectral_class: A4V
   - name:
-    designation: 3052 Noniashad
+    designation: <a href="3052_noniashad.html">3052 Noniashad</a>
     ra: 17<sup>h</sup> 11<sup>m</sup> 43.26<sup>s</sup>
     dec: -49° 11' 52.36"
     apparent_magnitude: 9.15
@@ -43896,7 +43896,7 @@ stars:
     distance: 547.82
     spectral_class: F5III
   - name:
-    designation: 5297 Noniashad
+    designation: <a href="5297_noniashad.html">5297 Noniashad</a>
     ra: 16<sup>h</sup> 54<sup>m</sup> 2.53<sup>s</sup>
     dec: -54° 09' 42.28"
     apparent_magnitude: 9.16
@@ -44176,7 +44176,7 @@ stars:
     distance: 519.85
     spectral_class: F7V + A1V
   - name:
-    designation: 3365 Noniashad
+    designation: <a href="3365_noniashad.html">3365 Noniashad</a>
     ra: 17<sup>h</sup> 08<sup>m</sup> 4.36<sup>s</sup>
     dec: -61° 15' 9.95"
     apparent_magnitude: 9.22
@@ -44184,7 +44184,7 @@ stars:
     distance: 509.48
     spectral_class: F5V + F6V + F7V + A3V
   - name:
-    designation: 5015 Noniashad
+    designation: <a href="5015_noniashad.html">5015 Noniashad</a>
     ra: 17<sup>h</sup> 01<sup>m</sup> 51.41<sup>s</sup>
     dec: -62° 04' 14.93"
     apparent_magnitude: 9.23
@@ -44200,7 +44200,7 @@ stars:
     distance: 423.46
     spectral_class: K3III + A4V
   - name:
-    designation: 3375 Noniashad
+    designation: <a href="3375_noniashad.html">3375 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 27.96<sup>s</sup>
     dec: -58° 35' 20.82"
     apparent_magnitude: 9.23
@@ -44248,7 +44248,7 @@ stars:
     distance: 475.18
     spectral_class: F5V + A2V
   - name:
-    designation: 3443 Noniashad
+    designation: <a href="3443_noniashad.html">3443 Noniashad</a>
     ra: 17<sup>h</sup> 52<sup>m</sup> 11.43<sup>s</sup>
     dec: -57° 24' 26.21"
     apparent_magnitude: 9.24
@@ -44312,7 +44312,7 @@ stars:
     distance: 164.04
     spectral_class: A9V
   - name:
-    designation: 3500 Noniashad
+    designation: <a href="3500_noniashad.html">3500 Noniashad</a>
     ra: 16<sup>h</sup> 41<sup>m</sup> 3.71<sup>s</sup>
     dec: -47° 40' 9.95"
     apparent_magnitude: 9.25
@@ -44320,7 +44320,7 @@ stars:
     distance: 487.64
     spectral_class: F1II
   - name:
-    designation: 3766 Noniashad
+    designation: <a href="3766_noniashad.html">3766 Noniashad</a>
     ra: 17<sup>h</sup> 03<sup>m</sup> 50.40<sup>s</sup>
     dec: -55° 13' 47.43"
     apparent_magnitude: 9.25
@@ -44384,7 +44384,7 @@ stars:
     distance: 539.32
     spectral_class: A0V
   - name:
-    designation: 3578 Noniashad
+    designation: <a href="3578_noniashad.html">3578 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 33.34<sup>s</sup>
     dec: -55° 13' 42.62"
     apparent_magnitude: 9.27
@@ -44392,7 +44392,7 @@ stars:
     distance: 737.27
     spectral_class: A9III
   - name:
-    designation: 3589 Noniashad
+    designation: <a href="3589_noniashad.html">3589 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 20.38<sup>s</sup>
     dec: -62° 20' 41.22"
     apparent_magnitude: 9.27
@@ -44440,7 +44440,7 @@ stars:
     distance: 408.84
     spectral_class: A7IV
   - name:
-    designation: 3649 Noniashad
+    designation: <a href="3649_noniashad.html">3649 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 33.25<sup>s</sup>
     dec: -66° 59' 15.32"
     apparent_magnitude: 9.28
@@ -44488,7 +44488,7 @@ stars:
     distance: 567.48
     spectral_class: A6V + A9III
   - name:
-    designation: 3682 Noniashad
+    designation: <a href="3682_noniashad.html">3682 Noniashad</a>
     ra: 16<sup>h</sup> 37<sup>m</sup> 58.46<sup>s</sup>
     dec: -55° 04' 25.89"
     apparent_magnitude: 9.29
@@ -44504,7 +44504,7 @@ stars:
     distance: 754.29
     spectral_class: A3V + A8III
   - name:
-    designation: 3691 Noniashad
+    designation: <a href="3691_noniashad.html">3691 Noniashad</a>
     ra: 17<sup>h</sup> 35<sup>m</sup> 34.34<sup>s</sup>
     dec: -60° 37' 15.91"
     apparent_magnitude: 9.29
@@ -44512,7 +44512,7 @@ stars:
     distance: 758.97
     spectral_class: F4V + M9III + F5V + F2III
   - name:
-    designation: 3707 Noniashad
+    designation: <a href="3707_noniashad.html">3707 Noniashad</a>
     ra: 17<sup>h</sup> 31<sup>m</sup> 15.28<sup>s</sup>
     dec: -54° 24' 22.28"
     apparent_magnitude: 9.29
@@ -44520,7 +44520,7 @@ stars:
     distance: 470.60
     spectral_class: F5V + F6V + F7V + A3V
   - name:
-    designation: 3708 Noniashad
+    designation: <a href="3708_noniashad.html">3708 Noniashad</a>
     ra: 17<sup>h</sup> 58<sup>m</sup> 12.90<sup>s</sup>
     dec: -64° 35' 37.57"
     apparent_magnitude: 9.30
@@ -44576,7 +44576,7 @@ stars:
     distance: 600.06
     spectral_class: M3Ib
   - name:
-    designation: 3776 Noniashad
+    designation: <a href="3776_noniashad.html">3776 Noniashad</a>
     ra: 17<sup>h</sup> 38<sup>m</sup> 42.51<sup>s</sup>
     dec: -59° 04' 47.75"
     apparent_magnitude: 9.31
@@ -44624,7 +44624,7 @@ stars:
     distance: 367.19
     spectral_class: G8V + K5III + A7V
   - name:
-    designation: 3810 Noniashad
+    designation: <a href="3810_noniashad.html">3810 Noniashad</a>
     ra: 17<sup>h</sup> 22<sup>m</sup> 5.64<sup>s</sup>
     dec: -57° 50' 8.89"
     apparent_magnitude: 9.31
@@ -44640,7 +44640,7 @@ stars:
     distance: 222.05
     spectral_class: G7II
   - name:
-    designation: 3832 Noniashad
+    designation: <a href="3832_noniashad.html">3832 Noniashad</a>
     ra: 17<sup>h</sup> 49<sup>m</sup> 33.90<sup>s</sup>
     dec: -59° 40' 49.29"
     apparent_magnitude: 9.32
@@ -44648,7 +44648,7 @@ stars:
     distance: 789.29
     spectral_class: A6III
   - name:
-    designation: 3861 Noniashad
+    designation: <a href="3861_noniashad.html">3861 Noniashad</a>
     ra: 17<sup>h</sup> 29<sup>m</sup> 56.83<sup>s</sup>
     dec: -58° 28' 6.30"
     apparent_magnitude: 9.32
@@ -44656,7 +44656,7 @@ stars:
     distance: 461.47
     spectral_class: F5V + F6V + F7V + A3V
   - name:
-    designation: 3872 Noniashad
+    designation: <a href="3872_noniashad.html">3872 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 42.74<sup>s</sup>
     dec: -55° 31' 31.77"
     apparent_magnitude: 9.33
@@ -44728,7 +44728,7 @@ stars:
     distance: 581.73
     spectral_class: A9II
   - name:
-    designation: 4716 Noniashad
+    designation: <a href="4716_noniashad.html">4716 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 15.06<sup>s</sup>
     dec: -54° 48' 58.64"
     apparent_magnitude: 9.34
@@ -44736,7 +44736,7 @@ stars:
     distance: 139.76
     spectral_class: G7V
   - name:
-    designation: 3950 Noniashad
+    designation: <a href="3950_noniashad.html">3950 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 57.63<sup>s</sup>
     dec: -50° 28' 14.90"
     apparent_magnitude: 9.34
@@ -44800,7 +44800,7 @@ stars:
     distance: 639.68
     spectral_class: A9III
   - name:
-    designation: 4266 Noniashad
+    designation: <a href="4266_noniashad.html">4266 Noniashad</a>
     ra: 16<sup>h</sup> 32<sup>m</sup> 58.07<sup>s</sup>
     dec: -62° 00' 45.54"
     apparent_magnitude: 9.35
@@ -44864,7 +44864,7 @@ stars:
     distance: 502.10
     spectral_class: K5V + G7II
   - name:
-    designation: 4112 Noniashad
+    designation: <a href="4112_noniashad.html">4112 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 50.70<sup>s</sup>
     dec: -56° 05' 17.56"
     apparent_magnitude: 9.37
@@ -44976,7 +44976,7 @@ stars:
     distance: 562.30
     spectral_class: A9II
   - name:
-    designation: 4226 Noniashad
+    designation: <a href="4226_noniashad.html">4226 Noniashad</a>
     ra: 16<sup>h</sup> 51<sup>m</sup> 36.10<sup>s</sup>
     dec: -64° 38' 3.79"
     apparent_magnitude: 9.39
@@ -45008,7 +45008,7 @@ stars:
     distance: 702.07
     spectral_class: F7II
   - name:
-    designation: 4276 Noniashad
+    designation: <a href="4276_noniashad.html">4276 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 44.85<sup>s</sup>
     dec: -60° 38' 41.59"
     apparent_magnitude: 9.40
@@ -45048,7 +45048,7 @@ stars:
     distance: 699.37
     spectral_class: A9III
   - name:
-    designation: 4307 Noniashad
+    designation: <a href="4307_noniashad.html">4307 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 59.72<sup>s</sup>
     dec: -48° 19' 30.20"
     apparent_magnitude: 9.40
@@ -45096,7 +45096,7 @@ stars:
     distance: 670.47
     spectral_class: F2II
   - name:
-    designation: 4395 Noniashad
+    designation: <a href="4395_noniashad.html">4395 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 11.68<sup>s</sup>
     dec: -57° 23' 8.27"
     apparent_magnitude: 9.42
@@ -45232,7 +45232,7 @@ stars:
     distance: 472.17
     spectral_class: A2V
   - name:
-    designation: 4692 Noniashad
+    designation: <a href="4692_noniashad.html">4692 Noniashad</a>
     ra: 16<sup>h</sup> 44<sup>m</sup> 13.72<sup>s</sup>
     dec: -50° 19' 30.64"
     apparent_magnitude: 9.47
@@ -45384,7 +45384,7 @@ stars:
     distance: 615.03
     spectral_class: A9II
   - name:
-    designation: 4988 Noniashad
+    designation: <a href="4988_noniashad.html">4988 Noniashad</a>
     ra: 16<sup>h</sup> 56<sup>m</sup> 33.97<sup>s</sup>
     dec: -66° 11' 0.54"
     apparent_magnitude: 9.51
@@ -45416,7 +45416,7 @@ stars:
     distance: 508.46
     spectral_class: A2V
   - name:
-    designation: 5077 Noniashad
+    designation: <a href="5077_noniashad.html">5077 Noniashad</a>
     ra: 16<sup>h</sup> 33<sup>m</sup> 33.03<sup>s</sup>
     dec: -54° 33' 11.87"
     apparent_magnitude: 9.52
@@ -45472,7 +45472,7 @@ stars:
     distance: 542.41
     spectral_class: A2V
   - name:
-    designation: 5195 Noniashad
+    designation: <a href="5195_noniashad.html">5195 Noniashad</a>
     ra: 17<sup>h</sup> 13<sup>m</sup> 12.44<sup>s</sup>
     dec: -54° 58' 2.63"
     apparent_magnitude: 9.54
@@ -45496,7 +45496,7 @@ stars:
     distance: 549.32
     spectral_class: F4III
   - name:
-    designation: 5210 Noniashad
+    designation: <a href="5210_noniashad.html">5210 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 17.31<sup>s</sup>
     dec: -46° 52' 6.65"
     apparent_magnitude: 9.54
@@ -45504,7 +45504,7 @@ stars:
     distance: 511.51
     spectral_class: A8III
   - name:
-    designation: 5253 Noniashad
+    designation: <a href="5253_noniashad.html">5253 Noniashad</a>
     ra: 17<sup>h</sup> 45<sup>m</sup> 7.44<sup>s</sup>
     dec: -49° 04' 56.46"
     apparent_magnitude: 9.55
@@ -45608,7 +45608,7 @@ stars:
     distance: 518.46
     spectral_class: A2V
   - name:
-    designation: 5441 Noniashad
+    designation: <a href="5441_noniashad.html">5441 Noniashad</a>
     ra: 17<sup>h</sup> 46<sup>m</sup> 37.62<sup>s</sup>
     dec: -56° 01' 9.04"
     apparent_magnitude: 9.57
@@ -45624,7 +45624,7 @@ stars:
     distance: 726.91
     spectral_class: A9V + A8III
   - name:
-    designation: 5449 Noniashad
+    designation: <a href="5449_noniashad.html">5449 Noniashad</a>
     ra: 16<sup>h</sup> 45<sup>m</sup> 4.21<sup>s</sup>
     dec: -48° 56' 25.49"
     apparent_magnitude: 9.57
@@ -45632,7 +45632,7 @@ stars:
     distance: 439.25
     spectral_class: F6V + A9V + G9III + A3V
   - name:
-    designation: 5459 Noniashad
+    designation: <a href="5459_noniashad.html">5459 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 48.96<sup>s</sup>
     dec: -53° 32' 32.18"
     apparent_magnitude: 9.58
@@ -45640,7 +45640,7 @@ stars:
     distance: 416.96
     spectral_class: F4V + G2V + A5V
   - name:
-    designation: 5463 Noniashad
+    designation: <a href="5463_noniashad.html">5463 Noniashad</a>
     ra: 17<sup>h</sup> 17<sup>m</sup> 0.70<sup>s</sup>
     dec: -62° 07' 20.17"
     apparent_magnitude: 9.58
@@ -45656,7 +45656,7 @@ stars:
     distance: 486.58
     spectral_class: F9V + A2V
   - name:
-    designation: 5518 Noniashad
+    designation: <a href="5518_noniashad.html">5518 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 17.70<sup>s</sup>
     dec: -53° 09' 13.19"
     apparent_magnitude: 9.58
@@ -45720,7 +45720,7 @@ stars:
     distance: 145.93
     spectral_class: M1V + F9V
   - name:
-    designation: 5762 Noniashad
+    designation: <a href="5762_noniashad.html">5762 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 51.23<sup>s</sup>
     dec: -64° 57' 50.16"
     apparent_magnitude: 9.61
@@ -45752,7 +45752,7 @@ stars:
     distance: 447.58
     spectral_class: F7V + A2V
   - name:
-    designation: 5817 Noniashad
+    designation: <a href="5817_noniashad.html">5817 Noniashad</a>
     ra: 16<sup>h</sup> 53<sup>m</sup> 11.73<sup>s</sup>
     dec: -67° 11' 40.83"
     apparent_magnitude: 9.62
@@ -45792,7 +45792,7 @@ stars:
     distance: 853.63
     spectral_class: K8Ib
   - name:
-    designation: 6082 Noniashad
+    designation: <a href="6082_noniashad.html">6082 Noniashad</a>
     ra: 16<sup>h</sup> 43<sup>m</sup> 54.73<sup>s</sup>
     dec: -60° 53' 21.00"
     apparent_magnitude: 9.65
@@ -45880,7 +45880,7 @@ stars:
     distance: 448.24
     spectral_class: F1III
   - name:
-    designation: 6550 Noniashad
+    designation: <a href="6550_noniashad.html">6550 Noniashad</a>
     ra: 16<sup>h</sup> 58<sup>m</sup> 6.84<sup>s</sup>
     dec: -64° 48' 23.73"
     apparent_magnitude: 9.71
@@ -45984,7 +45984,7 @@ stars:
     distance: 639.11
     spectral_class: A5IV
   - name:
-    designation: 6844 Noniashad
+    designation: <a href="6844_noniashad.html">6844 Noniashad</a>
     ra: 16<sup>h</sup> 57<sup>m</sup> 45.69<sup>s</sup>
     dec: -55° 39' 23.94"
     apparent_magnitude: 9.74
@@ -45992,7 +45992,7 @@ stars:
     distance: 145.92
     spectral_class: G3V
   - name:
-    designation: 6920 Noniashad
+    designation: <a href="6920_noniashad.html">6920 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 51.87<sup>s</sup>
     dec: -51° 10' 20.46"
     apparent_magnitude: 9.75
@@ -46032,7 +46032,7 @@ stars:
     distance: 345.44
     spectral_class: A4V
   - name:
-    designation: 7087 Noniashad
+    designation: <a href="7087_noniashad.html">7087 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 47.28<sup>s</sup>
     dec: -58° 37' 17.94"
     apparent_magnitude: 9.76
@@ -46136,7 +46136,7 @@ stars:
     distance: 742.15
     spectral_class: F4V + A8III
   - name:
-    designation: 7618 Noniashad
+    designation: <a href="7618_noniashad.html">7618 Noniashad</a>
     ra: 16<sup>h</sup> 36<sup>m</sup> 37.72<sup>s</sup>
     dec: -48° 56' 49.01"
     apparent_magnitude: 9.82
@@ -46256,7 +46256,7 @@ stars:
     distance: 790.71
     spectral_class: A6IV
   - name:
-    designation: 8575 Noniashad
+    designation: <a href="8575_noniashad.html">8575 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 19.79<sup>s</sup>
     dec: -50° 25' 38.50"
     apparent_magnitude: 9.90
@@ -46280,7 +46280,7 @@ stars:
     distance: 526.01
     spectral_class: A9III
   - name:
-    designation: 8804 Noniashad
+    designation: <a href="8804_noniashad.html">8804 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 12.89<sup>s</sup>
     dec: -68° 51' 56.69"
     apparent_magnitude: 9.92
@@ -46296,7 +46296,7 @@ stars:
     distance: 871.94
     spectral_class: M9II + A6III
   - name:
-    designation: 8918 Noniashad
+    designation: <a href="8918_noniashad.html">8918 Noniashad</a>
     ra: 16<sup>h</sup> 49<sup>m</sup> 6.05<sup>s</sup>
     dec: -58° 12' 44.76"
     apparent_magnitude: 9.93
@@ -46312,7 +46312,7 @@ stars:
     distance: 887.58
     spectral_class: A6III
   - name:
-    designation: 9057 Noniashad
+    designation: <a href="9057_noniashad.html">9057 Noniashad</a>
     ra: 17<sup>h</sup> 23<sup>m</sup> 15.96<sup>s</sup>
     dec: -68° 59' 57.74"
     apparent_magnitude: 9.94
@@ -46344,7 +46344,7 @@ stars:
     distance: 519.77
     spectral_class: F9V + A2V
   - name:
-    designation: 9379 Noniashad
+    designation: <a href="9379_noniashad.html">9379 Noniashad</a>
     ra: 16<sup>h</sup> 48<sup>m</sup> 24.66<sup>s</sup>
     dec: -46° 19' 9.93"
     apparent_magnitude: 9.97
@@ -46376,7 +46376,7 @@ stars:
     distance: 313.67
     spectral_class: G0III
   - name:
-    designation: 9443 Noniashad
+    designation: <a href="9443_noniashad.html">9443 Noniashad</a>
     ra: 16<sup>h</sup> 31<sup>m</sup> 7.59<sup>s</sup>
     dec: -58° 19' 16.34"
     apparent_magnitude: 9.97
@@ -46384,7 +46384,7 @@ stars:
     distance: 409.66
     spectral_class: F4V + G2V + A5V
   - name:
-    designation: 9556 Noniashad
+    designation: <a href="9556_noniashad.html">9556 Noniashad</a>
     ra: 17<sup>h</sup> 38<sup>m</sup> 47.89<sup>s</sup>
     dec: -58° 43' 29.02"
     apparent_magnitude: 9.98
@@ -46400,7 +46400,7 @@ stars:
     distance: 208.69
     spectral_class: A8V
   - name:
-    designation: 9651 Noniashad
+    designation: <a href="9651_noniashad.html">9651 Noniashad</a>
     ra: 17<sup>h</sup> 00<sup>m</sup> 59.84<sup>s</sup>
     dec: -47° 50' 14.26"
     apparent_magnitude: 9.99
@@ -46448,7 +46448,7 @@ stars:
     distance: 528.96
     spectral_class: A2V
   - name:
-    designation: 10250 Noniashad
+    designation: <a href="10250_noniashad.html">10250 Noniashad</a>
     ra: 17<sup>h</sup> 06<sup>m</sup> 54.60<sup>s</sup>
     dec: -49° 16' 4.86"
     apparent_magnitude: 10.03
@@ -46496,7 +46496,7 @@ stars:
     distance: 356.39
     spectral_class: A9IV
   - name:
-    designation: 11138 Noniashad
+    designation: <a href="11138_noniashad.html">11138 Noniashad</a>
     ra: 17<sup>h</sup> 09<sup>m</sup> 37.25<sup>s</sup>
     dec: -64° 20' 43.30"
     apparent_magnitude: 10.09
@@ -46544,7 +46544,7 @@ stars:
     distance: 472.12
     spectral_class: F9V + A2V
   - name:
-    designation: 11878 Noniashad
+    designation: <a href="11878_noniashad.html">11878 Noniashad</a>
     ra: 16<sup>h</sup> 35<sup>m</sup> 35.28<sup>s</sup>
     dec: -56° 33' 48.22"
     apparent_magnitude: 10.14
@@ -46560,7 +46560,7 @@ stars:
     distance: 438.01
     spectral_class: G9V + A4V
   - name:
-    designation: 13122 Noniashad
+    designation: <a href="13122_noniashad.html">13122 Noniashad</a>
     ra: 16<sup>h</sup> 30<sup>m</sup> 11.63<sup>s</sup>
     dec: -49° 22' 37.64"
     apparent_magnitude: 10.21
@@ -46640,7 +46640,7 @@ stars:
     distance: 539.41
     spectral_class: A2V
   - name:
-    designation: 14967 Noniashad
+    designation: <a href="14967_noniashad.html">14967 Noniashad</a>
     ra: 17<sup>h</sup> 20<sup>m</sup> 14.53<sup>s</sup>
     dec: -68° 16' 3.65"
     apparent_magnitude: 10.31
@@ -46672,7 +46672,7 @@ stars:
     distance: 621.74
     spectral_class: M3Ib
   - name:
-    designation: 15582 Noniashad
+    designation: <a href="15582_noniashad.html">15582 Noniashad</a>
     ra: 16<sup>h</sup> 47<sup>m</sup> 31.67<sup>s</sup>
     dec: -51° 44' 53.49"
     apparent_magnitude: 10.33
@@ -46704,7 +46704,7 @@ stars:
     distance: 786.88
     spectral_class: F3V + A7III
   - name:
-    designation: 16554 Noniashad
+    designation: <a href="16554_noniashad.html">16554 Noniashad</a>
     ra: 16<sup>h</sup> 55<sup>m</sup> 8.59<sup>s</sup>
     dec: -46° 07' 24.83"
     apparent_magnitude: 10.38
@@ -46720,7 +46720,7 @@ stars:
     distance: 197.01
     spectral_class: A8V
   - name:
-    designation: 16822 Noniashad
+    designation: <a href="16822_noniashad.html">16822 Noniashad</a>
     ra: 16<sup>h</sup> 39<sup>m</sup> 46.98<sup>s</sup>
     dec: -47° 04' 37.17"
     apparent_magnitude: 10.39
@@ -46896,7 +46896,7 @@ stars:
     distance: 555.99
     spectral_class: A2V
   - name:
-    designation: 76231 Noniashad
+    designation: <a href="76231_noniashad.html">76231 Noniashad</a>
     ra: 16<sup>h</sup> 50<sup>m</sup> 35.83<sup>s</sup>
     dec: -47° 23' 2.87"
     apparent_magnitude: 11.48

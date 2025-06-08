@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4191 Geardiad is a star in the constellation Geard
+      4191 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 296.02 ly
 apparent_magnitude: 11.93
 absolute_magnitude: 7.14

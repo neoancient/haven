@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4865 Athiad is a star in the constellation Ath
+      4865 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 575.34 ly
 apparent_magnitude: 11.68
 absolute_magnitude: 5.45

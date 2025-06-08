@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0014 Tenioshiad is a star in the constellation Tenios
+      0014 Tenioshiad is a star in the constellation <a href="tenios.html">Tenios</a>
 distance: 1004.09 ly
 apparent_magnitude: 6.12
 absolute_magnitude: -1.32
@@ -31,14 +31,14 @@ planets:
     radius: 22,486.4 km<br/>(3.530 Yrths)
     surface_area: 6.354 × 10<sup>09</sup> km<sup>2</sup><br/>(12.457 Yrths)
     volume: 4.763 × 10<sup>13</sup> km<sup>3</sup><br/>(43.968 Yrths)
-    mass: 6.523 × 10<sup>25</sup> kg<br />(10.922399366654641 Yrths)
+    mass: 6.523 × 10<sup>25</sup> kg<br />(10.92 Yrths)
     density: 1.370 g/cm<sup>3</sup>
     surface_gravity: 8.598 m/s<sup>2</sup><br />(0.877 g<sub>0</sub>)
     escape_velocity: 19.678 km/s<br />(70,840 km/h)
     rotation_period: 0.359 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 1203 K<br />(930 °C)
+    temperature: 1107 K<br />(834 °C)
     composition:
       - 48.5243% hydrogen
       - 46.7702% helium
@@ -58,14 +58,14 @@ planets:
         radius: 22,660.5 km<br/>(3.557 Yrths)
         surface_area: 6.453 × 10<sup>09</sup> km<sup>2</sup><br/>(12.651 Yrths)
         volume: 4.874 × 10<sup>13</sup> km<sup>3</sup><br/>(44.997 Yrths)
-        mass: 3.933 × 10<sup>25</sup> kg<br />(10.922399366654641 Yrths)
+        mass: 3.933 × 10<sup>25</sup> kg<br />(6.586 Yrths)
         density: 0.807 g/cm<sup>3</sup>
         surface_gravity: 5.105 m/s<sup>2</sup><br />(0.521 g<sub>0</sub>)
         escape_velocity: 15.222 km/s<br />(54,798 km/h)
         rotation_period: 77.249 d
         axial_tilt: 16.46°
         albedo: 0.30
-        temperature: 7377 K<br />(7104 °C)
+        temperature: 594 K<br />(321 °C)
       - name: 0014 Tenioshiad I b
         type: Icy
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 28,958.8 km<br/>(4.545 Yrths)
         surface_area: 1.054 × 10<sup>10</sup> km<sup>2</sup><br/>(20.661 Yrths)
         volume: 1.017 × 10<sup>14</sup> km<sup>3</sup><br/>(93.912 Yrths)
-        mass: 1.147 × 10<sup>26</sup> kg<br />(10.922399366654641 Yrths)
+        mass: 1.147 × 10<sup>26</sup> kg<br />(19.206 Yrths)
         density: 1.128 g/cm<sup>3</sup>
         surface_gravity: 9.116 m/s<sup>2</sup><br />(0.930 g<sub>0</sub>)
         escape_velocity: 22.994 km/s<br />(82,777 km/h)
         rotation_period: 64.080 d
         axial_tilt: 18.95°
         albedo: 0.30
-        temperature: 6706 K<br />(6433 °C)
+        temperature: 594 K<br />(321 °C)
       - name: 0014 Tenioshiad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 13,669.1 km<br/>(2.146 Yrths)
         surface_area: 2.348 × 10<sup>09</sup> km<sup>2</sup><br/>(4.603 Yrths)
         volume: 1.070 × 10<sup>13</sup> km<sup>3</sup><br/>(9.876 Yrths)
-        mass: 2.869 × 10<sup>25</sup> kg<br />(10.922399366654641 Yrths)
+        mass: 2.869 × 10<sup>25</sup> kg<br />(4.805 Yrths)
         density: 2.682 g/cm<sup>3</sup>
         surface_gravity: 10.236 m/s<sup>2</sup><br />(1.044 g<sub>0</sub>)
         escape_velocity: 16.739 km/s<br />(60,262 km/h)
         rotation_period: 58.693 d
         axial_tilt: 22.14°
         albedo: 0.30
-        temperature: 6394 K<br />(6121 °C)
+        temperature: 594 K<br />(321 °C)
       - name: 0014 Tenioshiad I d
         type: Dwarf planet
         formationType: Accreted
@@ -118,12 +118,12 @@ planets:
         radius: 33,234.0 km<br/>(5.216 Yrths)
         surface_area: 1.388 × 10<sup>10</sup> km<sup>2</sup><br/>(27.211 Yrths)
         volume: 1.538 × 10<sup>14</sup> km<sup>3</sup><br/>(141.947 Yrths)
-        mass: 2.280 × 10<sup>26</sup> kg<br />(10.922399366654641 Yrths)
+        mass: 2.280 × 10<sup>26</sup> kg<br />(38.180 Yrths)
         density: 1.483 g/cm<sup>3</sup>
         surface_gravity: 13.760 m/s<sup>2</sup><br />(1.403 g<sub>0</sub>)
         escape_velocity: 30.263 km/s<br />(108,945 km/h)
         rotation_period: 48.259 d
         axial_tilt: 28.60°
         albedo: 0.30
-        temperature: 6096 K<br />(5823 °C)
+        temperature: 594 K<br />(321 °C)
 ---

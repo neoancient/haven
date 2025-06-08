@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4406 Arkothiad is a star in the constellation Arkoth
+      4406 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 360.83 ly
 apparent_magnitude: 17.74
 absolute_magnitude: 12.52

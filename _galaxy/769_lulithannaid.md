@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      769 Lulithannaid is a star in the constellation Lulithan
+      769 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 1232.76 ly
 apparent_magnitude: 17.32
 absolute_magnitude: 9.43

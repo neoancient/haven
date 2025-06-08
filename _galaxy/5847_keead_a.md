@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5847 Keead A is a star in the constellation Kee
+      5847 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 305.40 ly
 apparent_magnitude: 8.18
 absolute_magnitude: 3.32

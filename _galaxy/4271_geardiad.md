@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4271 Geardiad is a star in the constellation Geard
+      4271 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 380.72 ly
 apparent_magnitude: 13.24
 absolute_magnitude: 7.90

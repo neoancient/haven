@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3305 Noniashad is a star in the constellation Nonias
+      3305 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 399.51 ly
 apparent_magnitude: 10.52
 absolute_magnitude: 5.08

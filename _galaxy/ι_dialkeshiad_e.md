@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ι Dialkeshiad E is a star in the constellation Dialkes
+      ι Dialkeshiad E is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 723.09 ly
 apparent_magnitude: 9.15
 absolute_magnitude: 2.42

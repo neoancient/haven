@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3506 Narashiad is a star in the constellation Naras
+      3506 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 281.10 ly
 apparent_magnitude: 10.72
 absolute_magnitude: 6.04

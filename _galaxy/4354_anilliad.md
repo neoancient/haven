@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4354 Anilliad is a star in the constellation Anil
+      4354 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 543.78 ly
 apparent_magnitude: 8.85
 absolute_magnitude: 2.74

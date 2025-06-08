@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1688 Lulithannaid is a star in the constellation Lulithan
+      1688 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 623.77 ly
 apparent_magnitude: 11.43
 absolute_magnitude: 5.03

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3446 Saithiad is a star in the constellation Saith
+      3446 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 356.24 ly
 apparent_magnitude: 11.96
 absolute_magnitude: 6.76

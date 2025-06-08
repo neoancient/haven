@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      48 Aldnanniad A is a star in the constellation Aldnan
+      48 Aldnanniad A is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 416.83 ly
 apparent_magnitude: 8.41
 absolute_magnitude: 2.88

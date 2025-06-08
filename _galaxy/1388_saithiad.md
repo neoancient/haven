@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1388 Saithiad is a star in the constellation Saith
+      1388 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 679.06 ly
 apparent_magnitude: 11.79
 absolute_magnitude: 5.20

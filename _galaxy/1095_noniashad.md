@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1095 Noniashad is a star in the constellation Nonias
+      1095 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 495.27 ly
 apparent_magnitude: 12.14
 absolute_magnitude: 6.24

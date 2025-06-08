@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10297 Athiad A is a star in the constellation Ath
+      10297 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 530.82 ly
 apparent_magnitude: 8.19
 absolute_magnitude: 2.13

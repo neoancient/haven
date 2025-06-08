@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12137 Tanashad is a star in the constellation Tanas
+      12137 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 242.84 ly
 apparent_magnitude: 9.25
 absolute_magnitude: 4.89

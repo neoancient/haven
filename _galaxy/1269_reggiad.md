@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1269 Reggiad is a star in the constellation Reg
+      1269 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 328.02 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 6.31

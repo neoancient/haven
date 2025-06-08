@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      39 Tanashad is a star in the constellation Tanas
+      39 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 170.72 ly
 apparent_magnitude: 8.49
 absolute_magnitude: 4.89

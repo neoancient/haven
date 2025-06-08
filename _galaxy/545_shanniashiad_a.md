@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      545 Shanniashiad A is a star in the constellation Shannias
+      545 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1192.28 ly
 apparent_magnitude: 6.68
 absolute_magnitude: -1.13

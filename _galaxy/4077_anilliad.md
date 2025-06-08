@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4077 Anilliad is a star in the constellation Anil
+      4077 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 581.41 ly
 apparent_magnitude: 8.27
 absolute_magnitude: 2.02

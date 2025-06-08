@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      654 Ratharshinniad is a star in the constellation Ratharshin
+      654 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 237.81 ly
 apparent_magnitude: 11.15
 absolute_magnitude: 6.83

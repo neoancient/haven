@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2089 Ratharshinniad is a star in the constellation Ratharshin
+      2089 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 203.47 ly
 apparent_magnitude: 8.93
 absolute_magnitude: 4.96

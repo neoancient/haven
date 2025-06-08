@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0107 Ruanead D is a star in the constellation Ruane
+      0107 Ruanead D is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 4815.39 ly
 apparent_magnitude: 11.32
 absolute_magnitude: 0.48

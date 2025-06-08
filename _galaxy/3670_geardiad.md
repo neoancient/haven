@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3670 Geardiad is a star in the constellation Geard
+      3670 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 306.07 ly
 apparent_magnitude: 17.95
 absolute_magnitude: 13.09

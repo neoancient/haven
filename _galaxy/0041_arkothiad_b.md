@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0041 Arkothiad B is a star in the constellation Arkoth
+      0041 Arkothiad B is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 560.99 ly
 apparent_magnitude: 11.11
 absolute_magnitude: 4.93

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1170 Arkothiad A is a star in the constellation Arkoth
+      1170 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 783.91 ly
 apparent_magnitude: 6.60
 absolute_magnitude: -0.30

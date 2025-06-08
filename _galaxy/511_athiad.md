@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      511 Athiad is a star in the constellation Ath
+      511 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 222.46 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 6.46

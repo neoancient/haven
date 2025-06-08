@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3979 Athiad is a star in the constellation Ath
+      3979 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 294.26 ly
 apparent_magnitude: 13.32
 absolute_magnitude: 8.54
@@ -31,14 +31,14 @@ planets:
     radius: 4,459.7 km<br/>(0.700 Yrths)
     surface_area: 2.499 × 10<sup>08</sup> km<sup>2</sup><br/>(0.490 Yrths)
     volume: 3.715 × 10<sup>11</sup> km<sup>3</sup><br/>(0.343 Yrths)
-    mass: 3.532 × 10<sup>24</sup> kg<br />(0.5913560916355631 Yrths)
+    mass: 3.532 × 10<sup>24</sup> kg<br />(0.59 Yrths)
     density: 9.505 g/cm<sup>3</sup>
     surface_gravity: 11.835 m/s<sup>2</sup><br />(1.207 g<sub>0</sub>)
     escape_velocity: 10.281 km/s<br />(37,013 km/h)
     rotation_period: 9.493 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 471 K<br />(197 °C)
+    temperature: 1301 K<br />(1028 °C)
     surface_pressure: 35 kPa<br />(0 atm)
     composition:
       - 89.2740% carbon dioxide
@@ -54,14 +54,14 @@ planets:
     radius: 28,227.4 km<br/>(4.431 Yrths)
     surface_area: 1.001 × 10<sup>10</sup> km<sup>2</sup><br/>(19.630 Yrths)
     volume: 9.421 × 10<sup>13</sup> km<sup>3</sup><br/>(86.974 Yrths)
-    mass: 1.449 × 10<sup>26</sup> kg<br />(24.27155813947239 Yrths)
+    mass: 1.449 × 10<sup>26</sup> kg<br />(24.27 Yrths)
     density: 1.539 g/cm<sup>3</sup>
     surface_gravity: 12.125 m/s<sup>2</sup><br />(1.236 g<sub>0</sub>)
     escape_velocity: 26.181 km/s<br />(94,253 km/h)
     rotation_period: 1.918 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 435 K<br />(162 °C)
+    temperature: 386 K<br />(113 °C)
     composition:
       - 75.4675% hydrogen
       - 24.5325% helium
@@ -78,14 +78,14 @@ planets:
         radius: 7,912.2 km<br/>(1.242 Yrths)
         surface_area: 7.867 × 10<sup>08</sup> km<sup>2</sup><br/>(1.542 Yrths)
         volume: 2.075 × 10<sup>12</sup> km<sup>3</sup><br/>(1.915 Yrths)
-        mass: 7.068 × 10<sup>24</sup> kg<br />(24.27155813947239 Yrths)
+        mass: 7.068 × 10<sup>24</sup> kg<br />(1.184 Yrths)
         density: 3.407 g/cm<sup>3</sup>
         surface_gravity: 7.525 m/s<sup>2</sup><br />(0.767 g<sub>0</sub>)
         escape_velocity: 10.920 km/s<br />(39,312 km/h)
         rotation_period: 39.019 d
         axial_tilt: 12.47°
         albedo: 0.30
-        temperature: 2028 K<br />(1755 °C)
+        temperature: 265 K<br />(-8 °C)
       - name: 3979 Athiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 15,567.1 km<br/>(2.443 Yrths)
         surface_area: 3.045 × 10<sup>09</sup> km<sup>2</sup><br/>(5.970 Yrths)
         volume: 1.580 × 10<sup>13</sup> km<sup>3</sup><br/>(14.588 Yrths)
-        mass: 3.483 × 10<sup>25</sup> kg<br />(24.27155813947239 Yrths)
+        mass: 3.483 × 10<sup>25</sup> kg<br />(5.832 Yrths)
         density: 2.204 g/cm<sup>3</sup>
         surface_gravity: 9.579 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
         escape_velocity: 17.281 km/s<br />(62,211 km/h)
         rotation_period: 66.189 d
         axial_tilt: 23.68°
         albedo: 0.30
-        temperature: 1934 K<br />(1660 °C)
+        temperature: 265 K<br />(-8 °C)
       - name: 3979 Athiad II c
         type: Rocky
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 14,639.7 km<br/>(2.298 Yrths)
         surface_area: 2.693 × 10<sup>09</sup> km<sup>2</sup><br/>(5.280 Yrths)
         volume: 1.314 × 10<sup>13</sup> km<sup>3</sup><br/>(12.133 Yrths)
-        mass: 3.561 × 10<sup>25</sup> kg<br />(24.27155813947239 Yrths)
+        mass: 3.561 × 10<sup>25</sup> kg<br />(5.962 Yrths)
         density: 2.709 g/cm<sup>3</sup>
         surface_gravity: 11.073 m/s<sup>2</sup><br />(1.129 g<sub>0</sub>)
         escape_velocity: 18.018 km/s<br />(64,865 km/h)
         rotation_period: 41.509 d
         axial_tilt: 10.68°
         albedo: 0.30
-        temperature: 1758 K<br />(1485 °C)
+        temperature: 265 K<br />(-8 °C)
       - name: 3979 Athiad II d
         type: Asteroid
         formationType: Captured
@@ -138,14 +138,14 @@ planets:
         radius: 7,420.7 km<br/>(1.165 Yrths)
         surface_area: 6.920 × 10<sup>08</sup> km<sup>2</sup><br/>(1.357 Yrths)
         volume: 1.712 × 10<sup>12</sup> km<sup>3</sup><br/>(1.580 Yrths)
-        mass: 4.253 × 10<sup>24</sup> kg<br />(24.27155813947239 Yrths)
+        mass: 4.253 × 10<sup>24</sup> kg<br />(0.712 Yrths)
         density: 2.485 g/cm<sup>3</sup>
         surface_gravity: 5.148 m/s<sup>2</sup><br />(0.525 g<sub>0</sub>)
         escape_velocity: 8.747 km/s<br />(31,489 km/h)
         rotation_period: 42.100 d
         axial_tilt: 52.37°
         albedo: 0.30
-        temperature: 1676 K<br />(1403 °C)
+        temperature: 265 K<br />(-8 °C)
       - name: 3979 Athiad II e
         type: Dwarf planet
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 27,523.6 km<br/>(4.320 Yrths)
         surface_area: 9.520 × 10<sup>09</sup> km<sup>2</sup><br/>(18.664 Yrths)
         volume: 8.734 × 10<sup>13</sup> km<sup>3</sup><br/>(80.630 Yrths)
-        mass: 1.876 × 10<sup>26</sup> kg<br />(24.27155813947239 Yrths)
+        mass: 1.876 × 10<sup>26</sup> kg<br />(31.420 Yrths)
         density: 2.148 g/cm<sup>3</sup>
         surface_gravity: 16.510 m/s<sup>2</sup><br />(1.684 g<sub>0</sub>)
         escape_velocity: 30.167 km/s<br />(108,601 km/h)
         rotation_period: 61.673 d
         axial_tilt: 27.46°
         albedo: 0.30
-        temperature: 1598 K<br />(1325 °C)
+        temperature: 265 K<br />(-8 °C)
       - name: 3979 Athiad II f
         type: Icy
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 14,537.0 km<br/>(2.282 Yrths)
         surface_area: 2.656 × 10<sup>09</sup> km<sup>2</sup><br/>(5.206 Yrths)
         volume: 1.287 × 10<sup>13</sup> km<sup>3</sup><br/>(11.880 Yrths)
-        mass: 1.781 × 10<sup>25</sup> kg<br />(24.27155813947239 Yrths)
+        mass: 1.781 × 10<sup>25</sup> kg<br />(2.982 Yrths)
         density: 1.384 g/cm<sup>3</sup>
         surface_gravity: 5.616 m/s<sup>2</sup><br />(0.573 g<sub>0</sub>)
         escape_velocity: 12.787 km/s<br />(46,033 km/h)
         rotation_period: 79.391 d
         axial_tilt: 16.17°
         albedo: 0.30
-        temperature: 1524 K<br />(1251 °C)
+        temperature: 265 K<br />(-8 °C)
       - name: 3979 Athiad II g
         type: Rocky
         formationType: Captured
@@ -198,14 +198,14 @@ planets:
         radius: 27,023.3 km<br/>(4.242 Yrths)
         surface_area: 9.177 × 10<sup>09</sup> km<sup>2</sup><br/>(17.991 Yrths)
         volume: 8.266 × 10<sup>13</sup> km<sup>3</sup><br/>(76.312 Yrths)
-        mass: 2.720 × 10<sup>26</sup> kg<br />(24.27155813947239 Yrths)
+        mass: 2.720 × 10<sup>26</sup> kg<br />(45.553 Yrths)
         density: 3.291 g/cm<sup>3</sup>
         surface_gravity: 24.830 m/s<sup>2</sup><br />(2.532 g<sub>0</sub>)
         escape_velocity: 36.658 km/s<br />(131,968 km/h)
         rotation_period: 36.037 d
         axial_tilt: 14.38°
         albedo: 0.30
-        temperature: 1453 K<br />(1180 °C)
+        temperature: 265 K<br />(-8 °C)
   - name: 3979 Athiad III
     type: Terrestrial
     aphelion: 52,552,840 km<br />0.351 AU
@@ -217,14 +217,14 @@ planets:
     radius: 5,949.2 km<br/>(0.934 Yrths)
     surface_area: 4.448 × 10<sup>08</sup> km<sup>2</sup><br/>(0.872 Yrths)
     volume: 8.820 × 10<sup>11</sup> km<sup>3</sup><br/>(0.814 Yrths)
-    mass: 4.505 × 10<sup>24</sup> kg<br />(0.754387010435188 Yrths)
+    mass: 4.505 × 10<sup>24</sup> kg<br />(0.75 Yrths)
     density: 5.108 g/cm<sup>3</sup>
     surface_gravity: 8.484 m/s<sup>2</sup><br />(0.865 g<sub>0</sub>)
     escape_velocity: 10.054 km/s<br />(36,195 km/h)
     rotation_period: 4.221 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 238 K<br />(-35 °C)
+    temperature: 244 K<br />(-29 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 94.7809% nitrogen
@@ -243,14 +243,14 @@ planets:
         radius: 1,616.8 km<br/>(0.254 Yrths)
         surface_area: 3.285 × 10<sup>07</sup> km<sup>2</sup><br/>(0.064 Yrths)
         volume: 1.770 × 10<sup>10</sup> km<sup>3</sup><br/>(0.016 Yrths)
-        mass: 5.628 × 10<sup>22</sup> kg<br />(0.754387010435188 Yrths)
+        mass: 5.628 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 3.179 g/cm<sup>3</sup>
         surface_gravity: 1.435 m/s<sup>2</sup><br />(0.146 g<sub>0</sub>)
         escape_velocity: 2.156 km/s<br />(7,760 km/h)
         rotation_period: 36.943 d
         axial_tilt: 14.88°
         albedo: 0.30
-        temperature: 3018 K<br />(2745 °C)
+        temperature: 219 K<br />(-54 °C)
   - name: 3979 Athiad IV
     type: Terrestrial
     aphelion: 77,221,997 km<br />0.516 AU
@@ -262,7 +262,7 @@ planets:
     radius: 5,579.2 km<br/>(0.876 Yrths)
     surface_area: 3.912 × 10<sup>08</sup> km<sup>2</sup><br/>(0.767 Yrths)
     volume: 7.275 × 10<sup>11</sup> km<sup>3</sup><br/>(0.672 Yrths)
-    mass: 4.080 × 10<sup>24</sup> kg<br />(0.6832074397553599 Yrths)
+    mass: 4.080 × 10<sup>24</sup> kg<br />(0.68 Yrths)
     density: 5.609 g/cm<sup>3</sup>
     surface_gravity: 8.737 m/s<sup>2</sup><br />(0.891 g<sub>0</sub>)
     escape_velocity: 9.880 km/s<br />(35,569 km/h)
@@ -283,14 +283,14 @@ planets:
         radius: 1,927.7 km<br/>(0.303 Yrths)
         surface_area: 4.670 × 10<sup>07</sup> km<sup>2</sup><br/>(0.092 Yrths)
         volume: 3.001 × 10<sup>10</sup> km<sup>3</sup><br/>(0.028 Yrths)
-        mass: 8.259 × 10<sup>22</sup> kg<br />(0.6832074397553599 Yrths)
+        mass: 8.259 × 10<sup>22</sup> kg<br />(0.014 Yrths)
         density: 2.752 g/cm<sup>3</sup>
         surface_gravity: 1.481 m/s<sup>2</sup><br />(0.151 g<sub>0</sub>)
         escape_velocity: 2.391 km/s<br />(8,609 km/h)
         rotation_period: 59.547 d
         axial_tilt: 63.43°
         albedo: 0.30
-        temperature: 2509 K<br />(2236 °C)
+        temperature: 181 K<br />(-92 °C)
   - name: 3979 Athiad V
     type: Terrestrial
     aphelion: 112,964,449 km<br />0.755 AU
@@ -302,14 +302,14 @@ planets:
     radius: 4,973.4 km<br/>(0.781 Yrths)
     surface_area: 3.108 × 10<sup>08</sup> km<sup>2</sup><br/>(0.609 Yrths)
     volume: 5.153 × 10<sup>11</sup> km<sup>3</sup><br/>(0.476 Yrths)
-    mass: 2.708 × 10<sup>24</sup> kg<br />(0.45343324890755127 Yrths)
+    mass: 2.708 × 10<sup>24</sup> kg<br />(0.45 Yrths)
     density: 5.255 g/cm<sup>3</sup>
     surface_gravity: 7.297 m/s<sup>2</sup><br />(0.744 g<sub>0</sub>)
     escape_velocity: 8.525 km/s<br />(30,691 km/h)
     rotation_period: 2.550 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 167 K<br />(-106 °C)
+    temperature: 179 K<br />(-94 °C)
     surface_pressure: 20 kPa<br />(0 atm)
     composition:
       - 68.2931% nitrogen
@@ -331,14 +331,14 @@ planets:
         radius: 2,010.2 km<br/>(0.316 Yrths)
         surface_area: 5.078 × 10<sup>07</sup> km<sup>2</sup><br/>(0.100 Yrths)
         volume: 3.403 × 10<sup>10</sup> km<sup>3</sup><br/>(0.031 Yrths)
-        mass: 5.200 × 10<sup>22</sup> kg<br />(0.45343324890755127 Yrths)
+        mass: 5.200 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 1.528 g/cm<sup>3</sup>
         surface_gravity: 0.858 m/s<sup>2</sup><br />(0.087 g<sub>0</sub>)
         escape_velocity: 1.858 km/s<br />(6,690 km/h)
         rotation_period: 40.997 d
         axial_tilt: 12.72°
         albedo: 0.30
-        temperature: 2258 K<br />(1985 °C)
+        temperature: 150 K<br />(-124 °C)
   - name: 3979 Athiad VI
     type: Terrestrial
     aphelion: 166,157,728 km<br />1.111 AU
@@ -350,14 +350,14 @@ planets:
     radius: 5,074.0 km<br/>(0.796 Yrths)
     surface_area: 3.235 × 10<sup>08</sup> km<sup>2</sup><br/>(0.634 Yrths)
     volume: 5.472 × 10<sup>11</sup> km<sup>3</sup><br/>(0.505 Yrths)
-    mass: 2.784 × 10<sup>24</sup> kg<br />(0.46625255711288865 Yrths)
+    mass: 2.784 × 10<sup>24</sup> kg<br />(0.47 Yrths)
     density: 5.089 g/cm<sup>3</sup>
     surface_gravity: 7.209 m/s<sup>2</sup><br />(0.735 g<sub>0</sub>)
     escape_velocity: 8.559 km/s<br />(30,812 km/h)
     rotation_period: 1.955 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 134 K<br />(-139 °C)
+    temperature: 136 K<br />(-138 °C)
     surface_pressure: 15 kPa<br />(0 atm)
     composition:
       - 97.4013% nitrogen
@@ -375,12 +375,12 @@ planets:
         radius: 1,537.3 km<br/>(0.241 Yrths)
         surface_area: 2.970 × 10<sup>07</sup> km<sup>2</sup><br/>(0.058 Yrths)
         volume: 1.522 × 10<sup>10</sup> km<sup>3</sup><br/>(0.014 Yrths)
-        mass: 3.165 × 10<sup>22</sup> kg<br />(0.46625255711288865 Yrths)
+        mass: 3.165 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.080 g/cm<sup>3</sup>
         surface_gravity: 0.893 m/s<sup>2</sup><br />(0.091 g<sub>0</sub>)
         escape_velocity: 1.658 km/s<br />(5,968 km/h)
         rotation_period: 38.080 d
         axial_tilt: 35.20°
         albedo: 0.30
-        temperature: 1832 K<br />(1559 °C)
+        temperature: 124 K<br />(-150 °C)
 ---

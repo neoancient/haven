@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1794 Arniad is a star in the constellation Arni
+      1794 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 520.09 ly
 apparent_magnitude: 10.75
 absolute_magnitude: 4.74

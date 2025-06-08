@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7799 Tanashad is a star in the constellation Tanas
+      7799 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 166.70 ly
 apparent_magnitude: 7.93
 absolute_magnitude: 4.39

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      252 Ruanead A is a star in the constellation Ruane
+      252 Ruanead A is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 298.35 ly
 apparent_magnitude: 6.99
 absolute_magnitude: 2.18

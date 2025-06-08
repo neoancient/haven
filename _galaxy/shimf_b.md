@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Shimf B is a star in the constellation Nignus
+      Shimf B is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 5353.26 ly
 apparent_magnitude: 3.43
 absolute_magnitude: -7.65

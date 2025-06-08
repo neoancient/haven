@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      381 Reggiad A is a star in the constellation Reg
+      381 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 729.85 ly
 apparent_magnitude: 7.62
 absolute_magnitude: 0.87

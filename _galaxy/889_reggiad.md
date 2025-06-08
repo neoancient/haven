@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      889 Reggiad is a star in the constellation Reg
+      889 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 560.49 ly
 apparent_magnitude: 10.62
 absolute_magnitude: 4.45

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10699 Lulithannaid A is a star in the constellation Lulithan
+      10699 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 296.12 ly
 apparent_magnitude: 8.11
 absolute_magnitude: 3.32

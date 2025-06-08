@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      339 Lulithannaid is a star in the constellation Lulithan
+      339 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 658.63 ly
 apparent_magnitude: 7.20
 absolute_magnitude: 0.67

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ε Niunioiad A is a star in the constellation Niunio
+      ε Niunioiad A is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 145.30 ly
 apparent_magnitude: 3.49
 absolute_magnitude: 0.24

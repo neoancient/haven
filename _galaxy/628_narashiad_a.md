@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      628 Narashiad A is a star in the constellation Naras
+      628 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 411.41 ly
 apparent_magnitude: 8.16
 absolute_magnitude: 2.66

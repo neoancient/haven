@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      860 Keead A is a star in the constellation Kee
+      860 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1220.83 ly
 apparent_magnitude: 6.92
 absolute_magnitude: -0.94

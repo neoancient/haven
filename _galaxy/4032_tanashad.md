@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4032 Tanashad is a star in the constellation Tanas
+      4032 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 526.15 ly
 apparent_magnitude: 11.29
 absolute_magnitude: 5.25

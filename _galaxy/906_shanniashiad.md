@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      906 Shanniashiad is a star in the constellation Shannias
+      906 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 696.53 ly
 apparent_magnitude: 11.67
 absolute_magnitude: 5.03

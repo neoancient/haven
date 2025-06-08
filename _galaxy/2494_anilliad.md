@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2494 Anilliad is a star in the constellation Anil
+      2494 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 946.27 ly
 apparent_magnitude: 9.66
 absolute_magnitude: 2.34

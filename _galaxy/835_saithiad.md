@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      835 Saithiad is a star in the constellation Saith
+      835 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 282.93 ly
 apparent_magnitude: 10.43
 absolute_magnitude: 5.74

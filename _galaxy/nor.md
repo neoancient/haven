@@ -2239,12 +2239,12 @@ stars:
     absolute_magnitude: 3.00
     distance: 578.56
     spectral_class: K2V + F4III
-  - name: 
+  - name:
     designation: <a href="8005_norriad.html">8005 Norriad</a>
     ra: 8<sup>h</sup> 31<sup>m</sup> 60.00<sup>s</sup>
     dec: -45° 30' 0.00"
-    apparent_magnitude: 9.47
-    absolute_magnitude: 5.41
+    apparent_magnitude: 10.03
+    absolute_magnitude: 5.98
     distance: 210.78
-    spectral_class: G0V
+    spectral_class: G6V
 ---

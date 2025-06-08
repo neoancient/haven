@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      0025 Pelnemenniad is a star in the constellation Pelnemen
+      0025 Pelnemenniad is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 129.82 ly
 apparent_magnitude: 5.92
 absolute_magnitude: 2.92
@@ -31,14 +31,14 @@ planets:
     radius: 3,154.3 km<br/>(0.495 Yrths)
     surface_area: 1.250 × 10<sup>08</sup> km<sup>2</sup><br/>(0.245 Yrths)
     volume: 1.315 × 10<sup>11</sup> km<sup>3</sup><br/>(0.121 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 4.543 g/cm<sup>3</sup>
     surface_gravity: 4.001 m/s<sup>2</sup><br />(0.408 g<sub>0</sub>)
     escape_velocity: 5.027 km/s<br />(18,098 km/h)
     rotation_period: 2.083 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 410 K<br />(137 °C)
+    temperature: 534 K<br />(261 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 83.3151% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 668.5 km<br/>(0.105 Yrths)
         surface_area: 5.615 × 10<sup>06</sup> km<sup>2</sup><br/>(0.011 Yrths)
         volume: 1.251 × 10<sup>09</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 3.085 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.085 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.466 g/cm<sup>3</sup>
         surface_gravity: 0.460 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 0.785 km/s<br />(2,826 km/h)
         rotation_period: 33.858 d
         axial_tilt: 37.11°
         albedo: 0.30
-        temperature: 8526 K<br />(8253 °C)
+        temperature: 366 K<br />(93 °C)
       - name: 0025 Pelnemenniad I b
         type: Rocky
         formationType: Impact formed
@@ -77,14 +77,14 @@ planets:
         radius: 210.7 km<br/>(0.033 Yrths)
         surface_area: 5.579 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 3.919 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.136 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.136 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.898 g/cm<sup>3</sup>
         surface_gravity: 0.170 m/s<sup>2</sup><br />(0.017 g<sub>0</sub>)
         escape_velocity: 0.268 km/s<br />(966 km/h)
         rotation_period: 33.250 d
         axial_tilt: 16.65°
         albedo: 0.30
-        temperature: 8130 K<br />(7856 °C)
+        temperature: 366 K<br />(93 °C)
   - name: 0025 Pelnemenniad II
     type: Terrestrial
     aphelion: 367,292,981 km<br />2.455 AU
@@ -96,14 +96,14 @@ planets:
     radius: 7,572.9 km<br/>(1.189 Yrths)
     surface_area: 7.207 × 10<sup>08</sup> km<sup>2</sup><br/>(1.413 Yrths)
     volume: 1.819 × 10<sup>12</sup> km<sup>3</sup><br/>(1.679 Yrths)
-    mass: 9.819 × 10<sup>24</sup> kg<br />(1.6442022828480425 Yrths)
+    mass: 9.819 × 10<sup>24</sup> kg<br />(1.64 Yrths)
     density: 5.398 g/cm<sup>3</sup>
     surface_gravity: 11.412 m/s<sup>2</sup><br />(1.164 g<sub>0</sub>)
     escape_velocity: 13.156 km/s<br />(47,362 km/h)
     rotation_period: 0.873 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 330 K<br />(57 °C)
+    temperature: 357 K<br />(84 °C)
     surface_pressure: 79 kPa<br />(1 atm)
     composition:
       - 85.5225% ammonia
@@ -122,14 +122,14 @@ planets:
         radius: 4,583.3 km<br/>(0.719 Yrths)
         surface_area: 2.640 × 10<sup>08</sup> km<sup>2</sup><br/>(0.518 Yrths)
         volume: 4.033 × 10<sup>11</sup> km<sup>3</sup><br/>(0.372 Yrths)
-        mass: 6.118 × 10<sup>23</sup> kg<br />(1.6442022828480425 Yrths)
+        mass: 6.118 × 10<sup>23</sup> kg<br />(0.102 Yrths)
         density: 1.517 g/cm<sup>3</sup>
         surface_gravity: 1.941 m/s<sup>2</sup><br />(0.198 g<sub>0</sub>)
         escape_velocity: 4.221 km/s<br />(15,196 km/h)
         rotation_period: 43.791 d
         axial_tilt: 13.25°
         albedo: 0.30
-        temperature: 3883 K<br />(3610 °C)
+        temperature: 271 K<br />(-3 °C)
   - name: 0025 Pelnemenniad III
     type: Terrestrial
     aphelion: 598,820,211 km<br />4.003 AU
@@ -141,14 +141,14 @@ planets:
     radius: 7,475.4 km<br/>(1.173 Yrths)
     surface_area: 7.022 × 10<sup>08</sup> km<sup>2</sup><br/>(1.377 Yrths)
     volume: 1.750 × 10<sup>12</sup> km<sup>3</sup><br/>(1.615 Yrths)
-    mass: 8.628 × 10<sup>24</sup> kg<br />(1.444799011079517 Yrths)
+    mass: 8.628 × 10<sup>24</sup> kg<br />(1.44 Yrths)
     density: 4.931 g/cm<sup>3</sup>
     surface_gravity: 10.291 m/s<sup>2</sup><br />(1.049 g<sub>0</sub>)
     escape_velocity: 12.413 km/s<br />(44,685 km/h)
     rotation_period: 0.899 d
     axial_tilt: 19.39°
     albedo: 0.30
-    temperature: 243 K<br />(-30 °C)
+    temperature: 273 K<br />(-0 °C)
     surface_pressure: 69 kPa<br />(1 atm)
     composition:
       - 97.0317% ammonia

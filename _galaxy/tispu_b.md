@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tispu B is a star in the constellation Shannias
+      Tispu B is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 374.61 ly
 apparent_magnitude: 9.70
 absolute_magnitude: 4.40

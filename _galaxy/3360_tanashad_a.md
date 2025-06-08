@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3360 Tanashad A is a star in the constellation Tanas
+      3360 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 547.83 ly
 apparent_magnitude: 6.95
 absolute_magnitude: 0.82

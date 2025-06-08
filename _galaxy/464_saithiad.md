@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      464 Saithiad is a star in the constellation Saith
+      464 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 344.34 ly
 apparent_magnitude: 10.51
 absolute_magnitude: 5.39

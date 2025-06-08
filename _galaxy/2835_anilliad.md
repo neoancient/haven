@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2835 Anilliad is a star in the constellation Anil
+      2835 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 1145.22 ly
 apparent_magnitude: 12.57
 absolute_magnitude: 4.84

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0063 Arkothiad B is a star in the constellation Arkoth
+      0063 Arkothiad B is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 488.26 ly
 apparent_magnitude: 11.85
 absolute_magnitude: 5.97

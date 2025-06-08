@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1807 Anilliad is a star in the constellation Anil
+      1807 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 470.36 ly
 apparent_magnitude: 10.24
 absolute_magnitude: 4.45

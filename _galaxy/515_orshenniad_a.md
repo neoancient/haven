@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      515 Orshenniad A is a star in the constellation Orshen
+      515 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 678.39 ly
 apparent_magnitude: 6.70
 absolute_magnitude: 0.11

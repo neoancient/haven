@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1009 Lunaiad A is a star in the constellation Luna
+      1009 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 409.79 ly
 apparent_magnitude: 8.16
 absolute_magnitude: 2.66

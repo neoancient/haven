@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9447 Arkothiad A is a star in the constellation Arkoth
+      9447 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 621.66 ly
 apparent_magnitude: 8.15
 absolute_magnitude: 1.75

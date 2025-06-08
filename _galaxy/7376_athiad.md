@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7376 Athiad is a star in the constellation Ath
+      7376 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 481.31 ly
 apparent_magnitude: 10.29
 absolute_magnitude: 4.45

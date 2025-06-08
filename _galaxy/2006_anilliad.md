@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2006 Anilliad is a star in the constellation Anil
+      2006 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 382.36 ly
 apparent_magnitude: 9.79
 absolute_magnitude: 4.45

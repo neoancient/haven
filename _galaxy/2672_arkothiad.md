@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2672 Arkothiad is a star in the constellation Arkoth
+      2672 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 401.76 ly
 apparent_magnitude: 11.10
 absolute_magnitude: 5.65

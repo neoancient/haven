@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1551 Saithiad is a star in the constellation Saith
+      1551 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 294.71 ly
 apparent_magnitude: 9.73
 absolute_magnitude: 4.95

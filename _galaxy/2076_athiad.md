@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2076 Athiad is a star in the constellation Ath
+      2076 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 577.81 ly
 apparent_magnitude: 11.52
 absolute_magnitude: 5.28

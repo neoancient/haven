@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1627 Oniad is a star in the constellation Oni
+      1627 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 1008.65 ly
 apparent_magnitude: 14.99
 absolute_magnitude: 7.54

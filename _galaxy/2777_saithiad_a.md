@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2777 Saithiad A is a star in the constellation Saith
+      2777 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 218.63 ly
 apparent_magnitude: 8.63
 absolute_magnitude: 4.50

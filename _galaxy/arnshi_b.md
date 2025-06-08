@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Arnshi B is a star in the constellation Niunio
+      Arnshi B is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 271.53 ly
 apparent_magnitude: 12.63
 absolute_magnitude: 8.03

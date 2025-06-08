@@ -24,5 +24,5 @@ planet:
   rotation_period: 58.646 d
   axial_tilt: 0.03°
   albedo: 0.12
-  temperature: 436 K<br />(163 °C)
+  temperature: 459 K<br />(186 °C)
 ---

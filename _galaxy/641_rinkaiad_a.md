@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      641 Rinkaiad A is a star in the constellation Rinka
+      641 Rinkaiad A is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 531.05 ly
 apparent_magnitude: 7.41
 absolute_magnitude: 1.36

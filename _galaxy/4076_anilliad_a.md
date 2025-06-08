@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4076 Anilliad A is a star in the constellation Anil
+      4076 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 576.69 ly
 apparent_magnitude: 7.44
 absolute_magnitude: 1.20

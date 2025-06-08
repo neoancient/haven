@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      801 Shyad A is a star in the constellation Shy
+      801 Shyad A is a star in the constellation <a href="shy.html">Shy</a>
 distance: 670.40 ly
 apparent_magnitude: 7.57
 absolute_magnitude: 1.01

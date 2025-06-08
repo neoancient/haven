@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      32166 Dialkeshiad A is a star in the constellation Dialkes
+      32166 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 475.67 ly
 apparent_magnitude: 7.70
 absolute_magnitude: 1.88

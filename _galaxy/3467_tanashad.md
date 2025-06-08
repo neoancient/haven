@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3467 Tanashad is a star in the constellation Tanas
+      3467 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 194.26 ly
 apparent_magnitude: 7.32
 absolute_magnitude: 3.44
@@ -31,14 +31,14 @@ planets:
     radius: 4,601.4 km<br/>(0.722 Yrths)
     surface_area: 2.661 × 10<sup>08</sup> km<sup>2</sup><br/>(0.522 Yrths)
     volume: 4.081 × 10<sup>11</sup> km<sup>3</sup><br/>(0.377 Yrths)
-    mass: 2.018 × 10<sup>24</sup> kg<br />(0.3378585339701507 Yrths)
+    mass: 2.018 × 10<sup>24</sup> kg<br />(0.34 Yrths)
     density: 4.944 g/cm<sup>3</sup>
     surface_gravity: 6.352 m/s<sup>2</sup><br />(0.648 g<sub>0</sub>)
     escape_velocity: 7.651 km/s<br />(27,543 km/h)
     rotation_period: 1.522 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 401 K<br />(128 °C)
+    temperature: 530 K<br />(257 °C)
     surface_pressure: 22 kPa<br />(0 atm)
     composition:
       - 99.3597% methane
@@ -56,14 +56,14 @@ planets:
         radius: 1,763.7 km<br/>(0.277 Yrths)
         surface_area: 3.909 × 10<sup>07</sup> km<sup>2</sup><br/>(0.077 Yrths)
         volume: 2.298 × 10<sup>10</sup> km<sup>3</sup><br/>(0.021 Yrths)
-        mass: 2.029 × 10<sup>22</sup> kg<br />(0.3378585339701507 Yrths)
+        mass: 2.029 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 0.883 g/cm<sup>3</sup>
         surface_gravity: 0.435 m/s<sup>2</sup><br />(0.044 g<sub>0</sub>)
         escape_velocity: 1.239 km/s<br />(4,462 km/h)
         rotation_period: 56.486 d
         axial_tilt: 17.95°
         albedo: 0.30
-        temperature: 6578 K<br />(6305 °C)
+        temperature: 347 K<br />(74 °C)
   - name: 3467 Tanashad II
     type: Gas giant
     aphelion: 282,759,640 km<br />1.890 AU
@@ -75,14 +75,14 @@ planets:
     radius: 186.8 km<br/>(0.029 Yrths)
     surface_area: 4.383 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.729 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 7.576 × 10<sup>26</sup> kg<br />(126.8507371600742 Yrths)
+    mass: 7.576 × 10<sup>26</sup> kg<br />(126.85 Yrths)
     density: 27762287.970 g/cm<sup>3</sup>
     surface_gravity: 1447603.399 m/s<sup>2</sup><br />(147614.466 g<sub>0</sub>)
     escape_velocity: 735.833 km/s<br />(2,649,000 km/h)
     rotation_period: 0.257 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1030 K<br />(756 °C)
+    temperature: 1049 K<br />(776 °C)
     composition:
       - 67.5272% hydrogen
       - 26.0047% helium
@@ -101,14 +101,14 @@ planets:
         radius: 104,741.5 km<br/>(16.440 Yrths)
         surface_area: 1.379 × 10<sup>11</sup> km<sup>2</sup><br/>(270.285 Yrths)
         volume: 4.813 × 10<sup>15</sup> km<sup>3</sup><br/>(4443.590 Yrths)
-        mass: 7.721 × 10<sup>27</sup> kg<br />(126.8507371600742 Yrths)
+        mass: 7.721 × 10<sup>27</sup> kg<br />(1292.906 Yrths)
         density: 1.604 g/cm<sup>3</sup>
         surface_gravity: 46.910 m/s<sup>2</sup><br />(4.783 g<sub>0</sub>)
         escape_velocity: 99.198 km/s<br />(357,112 km/h)
         rotation_period: 73.954 d
         axial_tilt: 8.51°
         albedo: 0.30
-        temperature: 1760 K<br />(1487 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 3467 Tanashad II b
         type: Asteroid
         formationType: Captured
@@ -121,14 +121,14 @@ planets:
         radius: 116,550.2 km<br/>(18.294 Yrths)
         surface_area: 1.707 × 10<sup>11</sup> km<sup>2</sup><br/>(334.666 Yrths)
         volume: 6.632 × 10<sup>15</sup> km<sup>3</sup><br/>(6122.329 Yrths)
-        mass: 1.801 × 10<sup>28</sup> kg<br />(126.8507371600742 Yrths)
+        mass: 1.801 × 10<sup>28</sup> kg<br />(3016.360 Yrths)
         density: 2.716 g/cm<sup>3</sup>
         surface_gravity: 88.388 m/s<sup>2</sup><br />(9.013 g<sub>0</sub>)
         escape_velocity: 143.636 km/s<br />(517,089 km/h)
         rotation_period: 54.437 d
         axial_tilt: 24.88°
         albedo: 0.30
-        temperature: 1202 K<br />(929 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 3467 Tanashad II c
         type: Icy
         formationType: Accreted
@@ -141,14 +141,14 @@ planets:
         radius: 115,038.7 km<br/>(18.057 Yrths)
         surface_area: 1.663 × 10<sup>11</sup> km<sup>2</sup><br/>(326.041 Yrths)
         volume: 6.377 × 10<sup>15</sup> km<sup>3</sup><br/>(5887.197 Yrths)
-        mass: 5.481 × 10<sup>27</sup> kg<br />(126.8507371600742 Yrths)
+        mass: 5.481 × 10<sup>27</sup> kg<br />(917.834 Yrths)
         density: 0.860 g/cm<sup>3</sup>
         surface_gravity: 27.607 m/s<sup>2</sup><br />(2.815 g<sub>0</sub>)
         escape_velocity: 79.751 km/s<br />(287,105 km/h)
         rotation_period: 88.019 d
         axial_tilt: 23.56°
         albedo: 0.30
-        temperature: 1146 K<br />(873 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 3467 Tanashad II d
         type: Icy
         formationType: Impact formed
@@ -161,14 +161,14 @@ planets:
         radius: 128,232.4 km<br/>(20.128 Yrths)
         surface_area: 2.066 × 10<sup>11</sup> km<sup>2</sup><br/>(405.117 Yrths)
         volume: 8.832 × 10<sup>15</sup> km<sup>3</sup><br/>(8153.989 Yrths)
-        mass: 1.177 × 10<sup>28</sup> kg<br />(126.8507371600742 Yrths)
+        mass: 1.177 × 10<sup>28</sup> kg<br />(1970.900 Yrths)
         density: 1.333 g/cm<sup>3</sup>
         surface_gravity: 47.710 m/s<sup>2</sup><br />(4.865 g<sub>0</sub>)
         escape_velocity: 110.691 km/s<br />(398,487 km/h)
         rotation_period: 61.156 d
         axial_tilt: 23.34°
         albedo: 0.30
-        temperature: 561 K<br />(288 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 3467 Tanashad II e
         type: Icy
         formationType: Captured
@@ -181,14 +181,14 @@ planets:
         radius: 111,517.6 km<br/>(17.504 Yrths)
         surface_area: 1.563 × 10<sup>11</sup> km<sup>2</sup><br/>(306.388 Yrths)
         volume: 5.809 × 10<sup>15</sup> km<sup>3</sup><br/>(5362.989 Yrths)
-        mass: 5.779 × 10<sup>27</sup> kg<br />(126.8507371600742 Yrths)
+        mass: 5.779 × 10<sup>27</sup> kg<br />(967.753 Yrths)
         density: 0.995 g/cm<sup>3</sup>
         surface_gravity: 30.975 m/s<sup>2</sup><br />(3.159 g<sub>0</sub>)
         escape_velocity: 83.174 km/s<br />(299,427 km/h)
         rotation_period: 54.970 d
         axial_tilt: 24.73°
         albedo: 0.30
-        temperature: 535 K<br />(261 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 3467 Tanashad II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -201,12 +201,12 @@ planets:
         radius: 100,383.0 km<br/>(15.756 Yrths)
         surface_area: 1.266 × 10<sup>11</sup> km<sup>2</sup><br/>(248.259 Yrths)
         volume: 4.237 × 10<sup>15</sup> km<sup>3</sup><br/>(3911.627 Yrths)
-        mass: 7.124 × 10<sup>27</sup> kg<br />(126.8507371600742 Yrths)
+        mass: 7.124 × 10<sup>27</sup> kg<br />(1192.926 Yrths)
         density: 1.681 g/cm<sup>3</sup>
         surface_gravity: 47.123 m/s<sup>2</sup><br />(4.805 g<sub>0</sub>)
         escape_velocity: 97.332 km/s<br />(350,394 km/h)
         rotation_period: 38.234 d
         axial_tilt: 19.17°
         albedo: 0.30
-        temperature: 197 K<br />(-77 °C)
+        temperature: 261 K<br />(-12 °C)
 ---

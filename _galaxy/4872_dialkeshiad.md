@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4872 Dialkeshiad is a star in the constellation Dialkes
+      4872 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 557.44 ly
 apparent_magnitude: 14.25
 absolute_magnitude: 8.09

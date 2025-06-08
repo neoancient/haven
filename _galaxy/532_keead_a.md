@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      532 Keead A is a star in the constellation Kee
+      532 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 611.53 ly
 apparent_magnitude: 8.14
 absolute_magnitude: 1.78

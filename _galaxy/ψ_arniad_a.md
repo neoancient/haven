@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Arniad A is a star in the constellation Arni
+      ψ Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 985.94 ly
 apparent_magnitude: 5.54
 absolute_magnitude: -1.86

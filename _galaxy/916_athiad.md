@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      916 Athiad is a star in the constellation Ath
+      916 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 471.08 ly
 apparent_magnitude: 10.58
 absolute_magnitude: 4.78

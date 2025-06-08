@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1379 Dialkeshiad is a star in the constellation Dialkes
+      1379 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 317.27 ly
 apparent_magnitude: 20.46
 absolute_magnitude: 15.52

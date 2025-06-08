@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      652 Lulithannaid A is a star in the constellation Lulithan
+      652 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 1111.08 ly
 apparent_magnitude: 6.78
 absolute_magnitude: -0.89

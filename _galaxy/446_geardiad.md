@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      446 Geardiad is a star in the constellation Geard
+      446 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 357.83 ly
 apparent_magnitude: 11.44
 absolute_magnitude: 6.24

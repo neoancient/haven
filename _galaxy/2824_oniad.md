@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2824 Oniad is a star in the constellation Oni
+      2824 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 561.63 ly
 apparent_magnitude: 11.09
 absolute_magnitude: 4.91

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2068 Saithiad is a star in the constellation Saith
+      2068 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 265.28 ly
 apparent_magnitude: 9.94
 absolute_magnitude: 5.39

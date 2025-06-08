@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1023 Arniad A is a star in the constellation Arni
+      1023 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 286.65 ly
 apparent_magnitude: 7.37
 absolute_magnitude: 2.65

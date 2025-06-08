@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      42619 Narashiad is a star in the constellation Naras
+      42619 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 467.14 ly
 apparent_magnitude: 7.89
 absolute_magnitude: 2.11
@@ -31,14 +31,14 @@ planets:
     radius: 6,052.0 km<br/>(0.950 Yrths)
     surface_area: 4.603 × 10<sup>08</sup> km<sup>2</sup><br/>(0.902 Yrths)
     volume: 9.285 × 10<sup>11</sup> km<sup>3</sup><br/>(0.857 Yrths)
-    mass: 4.352 × 10<sup>24</sup> kg<br />(0.7287942765521395 Yrths)
+    mass: 4.352 × 10<sup>24</sup> kg<br />(0.73 Yrths)
     density: 4.688 g/cm<sup>3</sup>
     surface_gravity: 7.920 m/s<sup>2</sup><br />(0.808 g<sub>0</sub>)
     escape_velocity: 9.798 km/s<br />(35,272 km/h)
     rotation_period: 1.121 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 580 K<br />(307 °C)
+    temperature: 1526 K<br />(1253 °C)
     surface_pressure: 62 kPa<br />(1 atm)
     composition:
       - 81.1884% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 2,092.4 km<br/>(0.328 Yrths)
         surface_area: 5.502 × 10<sup>07</sup> km<sup>2</sup><br/>(0.108 Yrths)
         volume: 3.837 × 10<sup>10</sup> km<sup>3</sup><br/>(0.035 Yrths)
-        mass: 1.216 × 10<sup>23</sup> kg<br />(0.7287942765521395 Yrths)
+        mass: 1.216 × 10<sup>23</sup> kg<br />(0.020 Yrths)
         density: 3.169 g/cm<sup>3</sup>
         surface_gravity: 1.852 m/s<sup>2</sup><br />(0.189 g<sub>0</sub>)
         escape_velocity: 2.785 km/s<br />(10,028 km/h)
         rotation_period: 33.735 d
         axial_tilt: 15.55°
         albedo: 0.30
-        temperature: 8100 K<br />(7827 °C)
+        temperature: 389 K<br />(116 °C)
   - name: 42619 Narashiad II
     type: Gas giant
     aphelion: 526,120,523 km<br />3.517 AU
@@ -77,14 +77,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.229 g/cm<sup>3</sup>
     surface_gravity: 31873.845 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1017 K<br />(744 °C)
+    temperature: 977 K<br />(704 °C)
     composition:
       - 79.5376% hydrogen
       - 17.9532% helium
@@ -103,14 +103,14 @@ planets:
         radius: 875.1 km<br/>(0.137 Yrths)
         surface_area: 9.624 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.807 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.492 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.492 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.391 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.828 km/s<br />(2,980 km/h)
         rotation_period: 41.778 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 6121 K<br />(5848 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 42619 Narashiad II b
         type: Icy
         formationType: Impact formed
@@ -123,14 +123,14 @@ planets:
         radius: 1,049.0 km<br/>(0.165 Yrths)
         surface_area: 1.383 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.835 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 5.100 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.100 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.055 g/cm<sup>3</sup>
         surface_gravity: 0.309 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.806 km/s<br />(2,900 km/h)
         rotation_period: 56.255 d
         axial_tilt: 17.85°
         albedo: 0.30
-        temperature: 4385 K<br />(4111 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 42619 Narashiad II c
         type: Icy
         formationType: Accreted
@@ -143,14 +143,14 @@ planets:
         radius: 930.8 km<br/>(0.146 Yrths)
         surface_area: 1.089 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.378 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.619 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.619 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.367 g/cm<sup>3</sup>
         surface_gravity: 0.355 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.814 km/s<br />(2,930 km/h)
         rotation_period: 49.148 d
         axial_tilt: 28.58°
         albedo: 0.30
-        temperature: 2596 K<br />(2323 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 42619 Narashiad II d
         type: Icy
         formationType: Impact formed
@@ -163,14 +163,14 @@ planets:
         radius: 1,046.0 km<br/>(0.164 Yrths)
         surface_area: 1.375 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.794 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 5.306 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.306 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.107 g/cm<sup>3</sup>
         surface_gravity: 0.323 m/s<sup>2</sup><br />(0.033 g<sub>0</sub>)
         escape_velocity: 0.823 km/s<br />(2,962 km/h)
         rotation_period: 76.691 d
         axial_tilt: 16.27°
         albedo: 0.30
-        temperature: 1950 K<br />(1677 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 42619 Narashiad II e
         type: Asteroid
         formationType: Captured
@@ -183,14 +183,14 @@ planets:
         radius: 1,422.3 km<br/>(0.223 Yrths)
         surface_area: 2.542 × 10<sup>07</sup> km<sup>2</sup><br/>(0.050 Yrths)
         volume: 1.205 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 2.658 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 2.658 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.206 g/cm<sup>3</sup>
         surface_gravity: 0.876 m/s<sup>2</sup><br />(0.089 g<sub>0</sub>)
         escape_velocity: 1.580 km/s<br />(5,686 km/h)
         rotation_period: 53.710 d
         axial_tilt: 8.21°
         albedo: 0.30
-        temperature: 1859 K<br />(1586 °C)
+        temperature: 280 K<br />(7 °C)
       - name: 42619 Narashiad II f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -203,14 +203,14 @@ planets:
         radius: 1,050.2 km<br/>(0.165 Yrths)
         surface_area: 1.386 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.852 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.298 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.298 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.675 g/cm<sup>3</sup>
         surface_gravity: 0.784 m/s<sup>2</sup><br />(0.080 g<sub>0</sub>)
         escape_velocity: 1.284 km/s<br />(4,624 km/h)
         rotation_period: 51.209 d
         axial_tilt: 17.00°
         albedo: 0.30
-        temperature: 954 K<br />(681 °C)
+        temperature: 280 K<br />(7 °C)
   - name: 42619 Narashiad III
     type: Gas giant
     aphelion: 1,046,442,356 km<br />6.995 AU
@@ -222,14 +222,14 @@ planets:
     radius: 221.3 km<br/>(0.035 Yrths)
     surface_area: 6.152 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.537 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.551 × 10<sup>27</sup> kg<br />(259.75330070771605 Yrths)
+    mass: 1.551 × 10<sup>27</sup> kg<br />(259.75 Yrths)
     density: 34187886.668 g/cm<sup>3</sup>
     surface_gravity: 2111949.947 m/s<sup>2</sup><br />(215358.960 g<sub>0</sub>)
     escape_velocity: 967.398 km/s<br />(3,482,631 km/h)
     rotation_period: 0.239 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 872 K<br />(598 °C)
+    temperature: 880 K<br />(607 °C)
     composition:
       - 59.8306% hydrogen
       - 32.0901% helium
@@ -248,14 +248,14 @@ planets:
         radius: 218,789.6 km<br/>(34.341 Yrths)
         surface_area: 6.015 × 10<sup>11</sup> km<sup>2</sup><br/>(1179.338 Yrths)
         volume: 4.387 × 10<sup>16</sup> km<sup>3</sup><br/>(40500.219 Yrths)
-        mass: 5.572 × 10<sup>28</sup> kg<br />(259.75330070771605 Yrths)
+        mass: 5.572 × 10<sup>28</sup> kg<br />(9330.173 Yrths)
         density: 1.270 g/cm<sup>3</sup>
         surface_gravity: 77.584 m/s<sup>2</sup><br />(7.911 g<sub>0</sub>)
         escape_velocity: 184.378 km/s<br />(663,761 km/h)
         rotation_period: 72.273 d
         axial_tilt: 5.90°
         albedo: 0.30
-        temperature: 674 K<br />(401 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 42619 Narashiad III b
         type: Icy
         formationType: Accreted
@@ -268,14 +268,14 @@ planets:
         radius: 166,066.5 km<br/>(26.066 Yrths)
         surface_area: 3.466 × 10<sup>11</sup> km<sup>2</sup><br/>(679.437 Yrths)
         volume: 1.918 × 10<sup>16</sup> km<sup>3</sup><br/>(17710.197 Yrths)
-        mass: 2.834 × 10<sup>28</sup> kg<br />(259.75330070771605 Yrths)
+        mass: 2.834 × 10<sup>28</sup> kg<br />(4744.679 Yrths)
         density: 1.477 g/cm<sup>3</sup>
         surface_gravity: 68.482 m/s<sup>2</sup><br />(6.983 g<sub>0</sub>)
         escape_velocity: 150.918 km/s<br />(543,304 km/h)
         rotation_period: 41.586 d
         axial_tilt: 25.16°
         albedo: 0.30
-        temperature: 460 K<br />(187 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 42619 Narashiad III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -288,14 +288,14 @@ planets:
         radius: 220,966.0 km<br/>(34.683 Yrths)
         surface_area: 6.136 × 10<sup>11</sup> km<sup>2</sup><br/>(1202.917 Yrths)
         volume: 4.519 × 10<sup>16</sup> km<sup>3</sup><br/>(41720.869 Yrths)
-        mass: 9.114 × 10<sup>28</sup> kg<br />(259.75330070771605 Yrths)
+        mass: 9.114 × 10<sup>28</sup> kg<br />(15261.017 Yrths)
         density: 2.017 g/cm<sup>3</sup>
         surface_gravity: 124.414 m/s<sup>2</sup><br />(12.687 g<sub>0</sub>)
         escape_velocity: 234.643 km/s<br />(844,713 km/h)
         rotation_period: 38.281 d
         axial_tilt: 24.87°
         albedo: 0.30
-        temperature: 399 K<br />(126 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 42619 Narashiad III d
         type: Icy
         formationType: Accreted
@@ -308,14 +308,14 @@ planets:
         radius: 186,379.3 km<br/>(29.254 Yrths)
         surface_area: 4.365 × 10<sup>11</sup> km<sup>2</sup><br/>(855.815 Yrths)
         volume: 2.712 × 10<sup>16</sup> km<sup>3</sup><br/>(25036.285 Yrths)
-        mass: 3.892 × 10<sup>28</sup> kg<br />(259.75330070771605 Yrths)
+        mass: 3.892 × 10<sup>28</sup> kg<br />(6517.246 Yrths)
         density: 1.435 g/cm<sup>3</sup>
         surface_gravity: 74.680 m/s<sup>2</sup><br />(7.615 g<sub>0</sub>)
         escape_velocity: 166.959 km/s<br />(601,054 km/h)
         rotation_period: 42.715 d
         axial_tilt: 14.28°
         albedo: 0.30
-        temperature: 205 K<br />(-68 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 42619 Narashiad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -328,14 +328,14 @@ planets:
         radius: 173,941.3 km<br/>(27.302 Yrths)
         surface_area: 3.802 × 10<sup>11</sup> km<sup>2</sup><br/>(745.401 Yrths)
         volume: 2.204 × 10<sup>16</sup> km<sup>3</sup><br/>(20350.972 Yrths)
-        mass: 5.275 × 10<sup>28</sup> kg<br />(259.75330070771605 Yrths)
+        mass: 5.275 × 10<sup>28</sup> kg<br />(8832.463 Yrths)
         density: 2.393 g/cm<sup>3</sup>
         surface_gravity: 116.202 m/s<sup>2</sup><br />(11.849 g<sub>0</sub>)
         escape_velocity: 201.195 km/s<br />(724,302 km/h)
         rotation_period: 33.491 d
         axial_tilt: 25.50°
         albedo: 0.30
-        temperature: 195 K<br />(-78 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 42619 Narashiad III f
         type: Icy
         formationType: Captured
@@ -348,14 +348,14 @@ planets:
         radius: 162,730.6 km<br/>(25.542 Yrths)
         surface_area: 3.328 × 10<sup>11</sup> km<sup>2</sup><br/>(652.414 Yrths)
         volume: 1.805 × 10<sup>16</sup> km<sup>3</sup><br/>(16664.201 Yrths)
-        mass: 2.845 × 10<sup>28</sup> kg<br />(259.75330070771605 Yrths)
+        mass: 2.845 × 10<sup>28</sup> kg<br />(4763.637 Yrths)
         density: 1.576 g/cm<sup>3</sup>
         surface_gravity: 71.604 m/s<sup>2</sup><br />(7.302 g<sub>0</sub>)
         escape_velocity: 152.761 km/s<br />(549,940 km/h)
         rotation_period: 47.977 d
         axial_tilt: 23.42°
         albedo: 0.30
-        temperature: 169 K<br />(-104 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 42619 Narashiad III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -368,12 +368,12 @@ planets:
         radius: 182,310.9 km<br/>(28.616 Yrths)
         surface_area: 4.177 × 10<sup>11</sup> km<sup>2</sup><br/>(818.861 Yrths)
         volume: 2.538 × 10<sup>16</sup> km<sup>3</sup><br/>(23432.324 Yrths)
-        mass: 5.641 × 10<sup>28</sup> kg<br />(259.75330070771605 Yrths)
+        mass: 5.641 × 10<sup>28</sup> kg<br />(9445.320 Yrths)
         density: 2.222 g/cm<sup>3</sup>
         surface_gravity: 113.117 m/s<sup>2</sup><br />(11.535 g<sub>0</sub>)
         escape_velocity: 203.226 km/s<br />(731,614 km/h)
         rotation_period: 43.783 d
         axial_tilt: 8.88°
         albedo: 0.30
-        temperature: 140 K<br />(-133 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

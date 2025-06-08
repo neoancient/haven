@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3508 Oniad is a star in the constellation Oni
+      3508 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 273.46 ly
 apparent_magnitude: 9.18
 absolute_magnitude: 4.56

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      14458 Shanniashiad is a star in the constellation Shannias
+      14458 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 214.36 ly
 apparent_magnitude: 10.85
 absolute_magnitude: 6.76

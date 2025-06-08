@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4608 Shanniashiad A is a star in the constellation Shannias
+      4608 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 165.01 ly
 apparent_magnitude: 7.80
 absolute_magnitude: 4.28

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2374 Arkothiad is a star in the constellation Arkoth
+      2374 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 426.53 ly
 apparent_magnitude: 12.01
 absolute_magnitude: 6.43

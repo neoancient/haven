@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10610 Dialkeshiad is a star in the constellation Dialkes
+      10610 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 285.39 ly
 apparent_magnitude: 10.04
 absolute_magnitude: 5.33

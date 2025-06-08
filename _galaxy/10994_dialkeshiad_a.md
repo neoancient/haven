@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10994 Dialkeshiad A is a star in the constellation Dialkes
+      10994 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 178.07 ly
 apparent_magnitude: 9.94
 absolute_magnitude: 6.25

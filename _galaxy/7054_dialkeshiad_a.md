@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7054 Dialkeshiad A is a star in the constellation Dialkes
+      7054 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 651.53 ly
 apparent_magnitude: 7.86
 absolute_magnitude: 1.36

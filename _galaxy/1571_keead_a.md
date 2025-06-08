@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1571 Keead A is a star in the constellation Kee
+      1571 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 402.76 ly
 apparent_magnitude: 6.55
 absolute_magnitude: 1.09

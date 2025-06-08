@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8933 Arkothiad is a star in the constellation Arkoth
+      8933 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 500.23 ly
 apparent_magnitude: 11.38
 absolute_magnitude: 5.45

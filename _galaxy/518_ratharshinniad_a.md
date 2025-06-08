@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      518 Ratharshinniad A is a star in the constellation Ratharshin
+      518 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 482.16 ly
 apparent_magnitude: 7.96
 absolute_magnitude: 2.11

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5071 Arkothiad A is a star in the constellation Arkoth
+      5071 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 507.33 ly
 apparent_magnitude: 8.69
 absolute_magnitude: 2.73

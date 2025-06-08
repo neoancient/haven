@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2619 Lunaiad is a star in the constellation Luna
+      2619 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 555.50 ly
 apparent_magnitude: 7.27
 absolute_magnitude: 1.11
@@ -31,14 +31,14 @@ planets:
     radius: 8,735.6 km<br/>(1.371 Yrths)
     surface_area: 9.589 × 10<sup>08</sup> km<sup>2</sup><br/>(1.880 Yrths)
     volume: 2.792 × 10<sup>12</sup> km<sup>3</sup><br/>(2.578 Yrths)
-    mass: 1.963 × 10<sup>25</sup> kg<br />(3.2876132312030206 Yrths)
+    mass: 1.963 × 10<sup>25</sup> kg<br />(3.29 Yrths)
     density: 7.031 g/cm<sup>3</sup>
     surface_gravity: 17.149 m/s<sup>2</sup><br />(1.749 g<sub>0</sub>)
     escape_velocity: 17.321 km/s<br />(62,355 km/h)
     rotation_period: 0.680 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 478 K<br />(205 °C)
+    temperature: 570 K<br />(297 °C)
     surface_pressure: 1,175 kPa<br />(12 atm)
     composition:
       - 87.9735% methane
@@ -58,14 +58,14 @@ planets:
         radius: 4,486.6 km<br/>(0.704 Yrths)
         surface_area: 2.530 × 10<sup>08</sup> km<sup>2</sup><br/>(0.496 Yrths)
         volume: 3.783 × 10<sup>11</sup> km<sup>3</sup><br/>(0.349 Yrths)
-        mass: 5.353 × 10<sup>23</sup> kg<br />(3.2876132312030206 Yrths)
+        mass: 5.353 × 10<sup>23</sup> kg<br />(0.090 Yrths)
         density: 1.415 g/cm<sup>3</sup>
         surface_gravity: 1.772 m/s<sup>2</sup><br />(0.181 g<sub>0</sub>)
         escape_velocity: 3.991 km/s<br />(14,367 km/h)
         rotation_period: 77.557 d
         axial_tilt: 15.96°
         albedo: 0.30
-        temperature: 4514 K<br />(4241 °C)
+        temperature: 329 K<br />(56 °C)
       - name: 2619 Lunaiad I b
         type: Dwarf planet
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 4,753.4 km<br/>(0.746 Yrths)
         surface_area: 2.839 × 10<sup>08</sup> km<sup>2</sup><br/>(0.557 Yrths)
         volume: 4.499 × 10<sup>11</sup> km<sup>3</sup><br/>(0.415 Yrths)
-        mass: 8.920 × 10<sup>23</sup> kg<br />(3.2876132312030206 Yrths)
+        mass: 8.920 × 10<sup>23</sup> kg<br />(0.149 Yrths)
         density: 1.983 g/cm<sup>3</sup>
         surface_gravity: 2.631 m/s<sup>2</sup><br />(0.268 g<sub>0</sub>)
         escape_velocity: 5.005 km/s<br />(18,017 km/h)
         rotation_period: 47.675 d
         axial_tilt: 35.28°
         albedo: 0.30
-        temperature: 4304 K<br />(4031 °C)
+        temperature: 329 K<br />(56 °C)
       - name: 2619 Lunaiad I c
         type: Rocky
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 6,335.9 km<br/>(0.994 Yrths)
         surface_area: 5.045 × 10<sup>08</sup> km<sup>2</sup><br/>(0.989 Yrths)
         volume: 1.065 × 10<sup>12</sup> km<sup>3</sup><br/>(0.984 Yrths)
-        mass: 3.574 × 10<sup>24</sup> kg<br />(3.2876132312030206 Yrths)
+        mass: 3.574 × 10<sup>24</sup> kg<br />(0.598 Yrths)
         density: 3.354 g/cm<sup>3</sup>
         surface_gravity: 5.933 m/s<sup>2</sup><br />(0.605 g<sub>0</sub>)
         escape_velocity: 8.677 km/s<br />(31,237 km/h)
         rotation_period: 36.383 d
         axial_tilt: 12.09°
         albedo: 0.30
-        temperature: 4103 K<br />(3830 °C)
+        temperature: 329 K<br />(56 °C)
   - name: 2619 Lunaiad II
     type: Ice giant
     aphelion: 885,485,627 km<br />5.919 AU
@@ -117,14 +117,14 @@ planets:
     radius: 36,211.1 km<br/>(5.684 Yrths)
     surface_area: 1.648 × 10<sup>10</sup> km<sup>2</sup><br/>(32.305 Yrths)
     volume: 1.989 × 10<sup>14</sup> km<sup>3</sup><br/>(183.613 Yrths)
-    mass: 3.413 × 10<sup>26</sup> kg<br />(57.153895244912356 Yrths)
+    mass: 3.413 × 10<sup>26</sup> kg<br />(57.15 Yrths)
     density: 1.716 g/cm<sup>3</sup>
     surface_gravity: 17.350 m/s<sup>2</sup><br />(1.769 g<sub>0</sub>)
     escape_velocity: 35.472 km/s<br />(127,697 km/h)
     rotation_period: 0.290 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 510 K<br />(237 °C)
+    temperature: 466 K<br />(193 °C)
     composition:
       - 66.8497% hydrogen
       - 32.5421% helium
@@ -142,14 +142,14 @@ planets:
         radius: 27,757.4 km<br/>(4.357 Yrths)
         surface_area: 9.682 × 10<sup>09</sup> km<sup>2</sup><br/>(18.982 Yrths)
         volume: 8.958 × 10<sup>13</sup> km<sup>3</sup><br/>(82.701 Yrths)
-        mass: 2.578 × 10<sup>26</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 2.578 × 10<sup>26</sup> kg<br />(43.176 Yrths)
         density: 2.878 g/cm<sup>3</sup>
         surface_gravity: 22.306 m/s<sup>2</sup><br />(2.275 g<sub>0</sub>)
         escape_velocity: 35.213 km/s<br />(126,768 km/h)
         rotation_period: 38.372 d
         axial_tilt: 18.71°
         albedo: 0.30
-        temperature: 1953 K<br />(1680 °C)
+        temperature: 240 K<br />(-34 °C)
       - name: 2619 Lunaiad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -162,14 +162,14 @@ planets:
         radius: 37,848.7 km<br/>(5.941 Yrths)
         surface_area: 1.800 × 10<sup>10</sup> km<sup>2</sup><br/>(35.293 Yrths)
         volume: 2.271 × 10<sup>14</sup> km<sup>3</sup><br/>(209.668 Yrths)
-        mass: 5.046 × 10<sup>26</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 5.046 × 10<sup>26</sup> kg<br />(84.499 Yrths)
         density: 2.222 g/cm<sup>3</sup>
         surface_gravity: 23.479 m/s<sup>2</sup><br />(2.394 g<sub>0</sub>)
         escape_velocity: 42.187 km/s<br />(151,873 km/h)
         rotation_period: 43.680 d
         axial_tilt: 18.62°
         albedo: 0.30
-        temperature: 1862 K<br />(1589 °C)
+        temperature: 240 K<br />(-34 °C)
       - name: 2619 Lunaiad II c
         type: Icy
         formationType: Captured
@@ -182,14 +182,14 @@ planets:
         radius: 82,626.7 km<br/>(12.969 Yrths)
         surface_area: 8.579 × 10<sup>10</sup> km<sup>2</sup><br/>(168.200 Yrths)
         volume: 2.363 × 10<sup>15</sup> km<sup>3</sup><br/>(2181.414 Yrths)
-        mass: 2.905 × 10<sup>27</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 2.905 × 10<sup>27</sup> kg<br />(486.475 Yrths)
         density: 1.230 g/cm<sup>3</sup>
         surface_gravity: 28.363 m/s<sup>2</sup><br />(2.892 g<sub>0</sub>)
         escape_velocity: 68.509 km/s<br />(246,633 km/h)
         rotation_period: 79.119 d
         axial_tilt: 20.63°
         albedo: 0.30
-        temperature: 1776 K<br />(1503 °C)
+        temperature: 240 K<br />(-34 °C)
       - name: 2619 Lunaiad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -202,14 +202,14 @@ planets:
         radius: 35,012.2 km<br/>(5.496 Yrths)
         surface_area: 1.540 × 10<sup>10</sup> km<sup>2</sup><br/>(30.201 Yrths)
         volume: 1.798 × 10<sup>14</sup> km<sup>3</sup><br/>(165.972 Yrths)
-        mass: 3.399 × 10<sup>26</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 3.399 × 10<sup>26</sup> kg<br />(56.914 Yrths)
         density: 1.891 g/cm<sup>3</sup>
         surface_gravity: 18.481 m/s<sup>2</sup><br />(1.884 g<sub>0</sub>)
         escape_velocity: 35.998 km/s<br />(129,593 km/h)
         rotation_period: 40.399 d
         axial_tilt: 26.87°
         albedo: 0.30
-        temperature: 1693 K<br />(1420 °C)
+        temperature: 240 K<br />(-34 °C)
       - name: 2619 Lunaiad II e
         type: Icy
         formationType: Captured
@@ -222,14 +222,14 @@ planets:
         radius: 42,268.6 km<br/>(6.635 Yrths)
         surface_area: 2.245 × 10<sup>10</sup> km<sup>2</sup><br/>(44.017 Yrths)
         volume: 3.163 × 10<sup>14</sup> km<sup>3</sup><br/>(292.033 Yrths)
-        mass: 3.905 × 10<sup>26</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 3.905 × 10<sup>26</sup> kg<br />(65.380 Yrths)
         density: 1.234 g/cm<sup>3</sup>
         surface_gravity: 14.566 m/s<sup>2</sup><br />(1.485 g<sub>0</sub>)
         escape_velocity: 35.115 km/s<br />(126,414 km/h)
         rotation_period: 72.313 d
         axial_tilt: 22.92°
         albedo: 0.30
-        temperature: 1614 K<br />(1341 °C)
+        temperature: 240 K<br />(-34 °C)
       - name: 2619 Lunaiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -242,14 +242,14 @@ planets:
         radius: 33,404.0 km<br/>(5.243 Yrths)
         surface_area: 1.402 × 10<sup>10</sup> km<sup>2</sup><br/>(27.490 Yrths)
         volume: 1.561 × 10<sup>14</sup> km<sup>3</sup><br/>(144.136 Yrths)
-        mass: 2.967 × 10<sup>26</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 2.967 × 10<sup>26</sup> kg<br />(49.689 Yrths)
         density: 1.901 g/cm<sup>3</sup>
         surface_gravity: 17.726 m/s<sup>2</sup><br />(1.808 g<sub>0</sub>)
         escape_velocity: 34.436 km/s<br />(123,969 km/h)
         rotation_period: 46.499 d
         axial_tilt: 18.30°
         albedo: 0.30
-        temperature: 1539 K<br />(1266 °C)
+        temperature: 240 K<br />(-34 °C)
       - name: 2619 Lunaiad II g
         type: Icy
         formationType: Captured
@@ -262,14 +262,14 @@ planets:
         radius: 60,094.7 km<br/>(9.433 Yrths)
         surface_area: 4.538 × 10<sup>10</sup> km<sup>2</sup><br/>(88.973 Yrths)
         volume: 9.091 × 10<sup>14</sup> km<sup>3</sup><br/>(839.239 Yrths)
-        mass: 7.078 × 10<sup>26</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 7.078 × 10<sup>26</sup> kg<br />(118.518 Yrths)
         density: 0.779 g/cm<sup>3</sup>
         surface_gravity: 13.063 m/s<sup>2</sup><br />(1.332 g<sub>0</sub>)
         escape_velocity: 39.651 km/s<br />(142,743 km/h)
         rotation_period: 70.333 d
         axial_tilt: 23.05°
         albedo: 0.30
-        temperature: 1399 K<br />(1126 °C)
+        temperature: 240 K<br />(-34 °C)
       - name: 2619 Lunaiad II h
         type: Icy
         formationType: Captured
@@ -282,14 +282,14 @@ planets:
         radius: 79,408.5 km<br/>(12.464 Yrths)
         surface_area: 7.924 × 10<sup>10</sup> km<sup>2</sup><br/>(155.353 Yrths)
         volume: 2.097 × 10<sup>15</sup> km<sup>3</sup><br/>(1936.321 Yrths)
-        mass: 1.685 × 10<sup>27</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 1.685 × 10<sup>27</sup> kg<br />(282.209 Yrths)
         density: 0.804 g/cm<sup>3</sup>
         surface_gravity: 17.814 m/s<sup>2</sup><br />(1.817 g<sub>0</sub>)
         escape_velocity: 53.227 km/s<br />(191,616 km/h)
         rotation_period: 56.779 d
         axial_tilt: 9.76°
         albedo: 0.30
-        temperature: 1334 K<br />(1061 °C)
+        temperature: 240 K<br />(-34 °C)
       - name: 2619 Lunaiad II i
         type: Icy
         formationType: Accreted
@@ -302,14 +302,14 @@ planets:
         radius: 49,887.1 km<br/>(7.830 Yrths)
         surface_area: 3.127 × 10<sup>10</sup> km<sup>2</sup><br/>(61.314 Yrths)
         volume: 5.201 × 10<sup>14</sup> km<sup>3</sup><br/>(480.112 Yrths)
-        mass: 4.437 × 10<sup>26</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 4.437 × 10<sup>26</sup> kg<br />(74.290 Yrths)
         density: 0.853 g/cm<sup>3</sup>
         surface_gravity: 11.882 m/s<sup>2</sup><br />(1.212 g<sub>0</sub>)
         escape_velocity: 34.455 km/s<br />(124,037 km/h)
         rotation_period: 87.044 d
         axial_tilt: 20.19°
         albedo: 0.30
-        temperature: 1272 K<br />(999 °C)
+        temperature: 240 K<br />(-34 °C)
       - name: 2619 Lunaiad II j
         type: Asteroid
         formationType: Captured
@@ -322,12 +322,12 @@ planets:
         radius: 39,303.6 km<br/>(6.169 Yrths)
         surface_area: 1.941 × 10<sup>10</sup> km<sup>2</sup><br/>(38.058 Yrths)
         volume: 2.543 × 10<sup>14</sup> km<sup>3</sup><br/>(234.787 Yrths)
-        mass: 5.598 × 10<sup>26</sup> kg<br />(57.153895244912356 Yrths)
+        mass: 5.598 × 10<sup>26</sup> kg<br />(93.740 Yrths)
         density: 2.201 g/cm<sup>3</sup>
         surface_gravity: 24.154 m/s<sup>2</sup><br />(2.463 g<sub>0</sub>)
         escape_velocity: 43.604 km/s<br />(156,974 km/h)
         rotation_period: 57.767 d
         axial_tilt: 58.72°
         albedo: 0.30
-        temperature: 1213 K<br />(940 °C)
+        temperature: 240 K<br />(-34 °C)
 ---

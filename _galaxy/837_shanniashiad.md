@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      837 Shanniashiad is a star in the constellation Shannias
+      837 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1049.99 ly
 apparent_magnitude: 13.09
 absolute_magnitude: 5.55

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      198 Switheriad is a star in the constellation Swither
+      198 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 333.78 ly
 apparent_magnitude: 10.32
 absolute_magnitude: 5.27

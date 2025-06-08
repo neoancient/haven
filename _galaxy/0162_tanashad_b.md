@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0162 Tanashad B is a star in the constellation Tanas
+      0162 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 1892.93 ly
 apparent_magnitude: 7.76
 absolute_magnitude: -1.06

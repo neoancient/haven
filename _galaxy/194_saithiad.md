@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      194 Saithiad is a star in the constellation Saith
+      194 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 2095.89 ly
 apparent_magnitude: 17.98
 absolute_magnitude: 8.94

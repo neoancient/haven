@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7498 Niniunniad is a star in the constellation Niniun
+      7498 Niniunniad is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 385.36 ly
 apparent_magnitude: 10.07
 absolute_magnitude: 4.71

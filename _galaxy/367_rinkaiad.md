@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      367 Rinkaiad is a star in the constellation Rinka
+      367 Rinkaiad is a star in the constellation <a href="rinka.html">Rinka</a>
 distance: 742.44 ly
 apparent_magnitude: 11.64
 absolute_magnitude: 4.86

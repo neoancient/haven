@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2766 Anilliad is a star in the constellation Anil
+      2766 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 819.97 ly
 apparent_magnitude: 13.01
 absolute_magnitude: 6.01

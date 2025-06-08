@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Sairapios A is a star in the constellation Keln
+      Sairapios A is a star in the constellation <a href="keln.html">Keln</a>
 distance: 398.88 ly
 apparent_magnitude: 2.43
 absolute_magnitude: -3.01

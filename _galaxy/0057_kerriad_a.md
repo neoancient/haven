@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0057 Kerriad A is a star in the constellation Kerr
+      0057 Kerriad A is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 246.59 ly
 apparent_magnitude: 6.53
 absolute_magnitude: 2.13

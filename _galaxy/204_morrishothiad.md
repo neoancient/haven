@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      204 Morrishothiad is a star in the constellation Morrishoth
+      204 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 518.16 ly
 apparent_magnitude: 11.34
 absolute_magnitude: 5.34

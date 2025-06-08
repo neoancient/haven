@@ -6,7 +6,7 @@ faction: Gilded Consortium
 sections:
   - title:
     content: >-
-      0022 Kerriad B is a star in the constellation Kerr
+      0022 Kerriad B is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 292.63 ly
 apparent_magnitude: 10.76
 absolute_magnitude: 5.99

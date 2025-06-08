@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Shimf A is a star in the constellation Nignus
+      Shimf A is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 5353.26 ly
 apparent_magnitude: 5.30
 absolute_magnitude: -5.78

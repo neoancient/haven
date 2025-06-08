@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1685 Arniad is a star in the constellation Arni
+      1685 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1116.68 ly
 apparent_magnitude: 17.17
 absolute_magnitude: 9.50

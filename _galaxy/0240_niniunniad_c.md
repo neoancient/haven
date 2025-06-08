@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0240 Niniunniad C is a star in the constellation Niniun
+      0240 Niniunniad C is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 416.66 ly
 apparent_magnitude: 14.15
 absolute_magnitude: 8.62
@@ -31,7 +31,7 @@ planets:
     radius: 3,767.7 km<br/>(0.591 Yrths)
     surface_area: 1.784 × 10<sup>08</sup> km<sup>2</sup><br/>(0.350 Yrths)
     volume: 2.240 × 10<sup>11</sup> km<sup>3</sup><br/>(0.207 Yrths)
-    mass: 6.424 × 10<sup>25</sup> kg<br />(10.756549723377269 Yrths)
+    mass: 6.424 × 10<sup>25</sup> kg<br />(10.76 Yrths)
     density: 286.729 g/cm<sup>3</sup>
     surface_gravity: 301.616 m/s<sup>2</sup><br />(30.756 g<sub>0</sub>)
     escape_velocity: 47.706 km/s<br />(171,743 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 5,970.8 km<br/>(0.937 Yrths)
         surface_area: 4.480 × 10<sup>08</sup> km<sup>2</sup><br/>(0.878 Yrths)
         volume: 8.917 × 10<sup>11</sup> km<sup>3</sup><br/>(0.823 Yrths)
-        mass: 1.694 × 10<sup>24</sup> kg<br />(10.756549723377269 Yrths)
+        mass: 1.694 × 10<sup>24</sup> kg<br />(0.284 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 3.167 m/s<sup>2</sup><br />(0.323 g<sub>0</sub>)
         escape_velocity: 6.154 km/s<br />(22,155 km/h)
         rotation_period: 46.279 d
         axial_tilt: 15.49°
         albedo: 0.30
-        temperature: 3489 K<br />(3216 °C)
+        temperature: 342 K<br />(69 °C)
       - name: 0240 Niniunniad C I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 21,694.7 km<br/>(3.405 Yrths)
         surface_area: 5.914 × 10<sup>09</sup> km<sup>2</sup><br/>(11.596 Yrths)
         volume: 4.277 × 10<sup>13</sup> km<sup>3</sup><br/>(39.485 Yrths)
-        mass: 8.720 × 10<sup>25</sup> kg<br />(10.756549723377269 Yrths)
+        mass: 8.720 × 10<sup>25</sup> kg<br />(14.601 Yrths)
         density: 2.039 g/cm<sup>3</sup>
         surface_gravity: 12.348 m/s<sup>2</sup><br />(1.259 g<sub>0</sub>)
         escape_velocity: 23.163 km/s<br />(83,386 km/h)
         rotation_period: 44.910 d
         axial_tilt: 24.83°
         albedo: 0.30
-        temperature: 3327 K<br />(3054 °C)
+        temperature: 342 K<br />(69 °C)
   - name: 0240 Niniunniad C II
     type: Large terrestrial
     aphelion: 75,361,942 km<br />0.504 AU
@@ -91,14 +91,14 @@ planets:
     radius: 2,891.3 km<br/>(0.454 Yrths)
     surface_area: 1.050 × 10<sup>08</sup> km<sup>2</sup><br/>(0.206 Yrths)
     volume: 1.012 × 10<sup>11</sup> km<sup>3</sup><br/>(0.093 Yrths)
-    mass: 1.999 × 10<sup>25</sup> kg<br />(3.346933218557671 Yrths)
+    mass: 1.999 × 10<sup>25</sup> kg<br />(3.35 Yrths)
     density: 197.426 g/cm<sup>3</sup>
     surface_gravity: 159.368 m/s<sup>2</sup><br />(16.251 g<sub>0</sub>)
     escape_velocity: 30.378 km/s<br />(109,360 km/h)
     rotation_period: 1.284 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 480 K<br />(206 °C)
+    temperature: 1338 K<br />(1065 °C)
     surface_pressure: 1,086 kPa<br />(11 atm)
     composition:
       - 100.0000% carbon dioxide
@@ -115,14 +115,14 @@ planets:
         radius: 3,992.0 km<br/>(0.627 Yrths)
         surface_area: 2.003 × 10<sup>08</sup> km<sup>2</sup><br/>(0.393 Yrths)
         volume: 2.665 × 10<sup>11</sup> km<sup>3</sup><br/>(0.246 Yrths)
-        mass: 3.198 × 10<sup>23</sup> kg<br />(3.346933218557671 Yrths)
+        mass: 3.198 × 10<sup>23</sup> kg<br />(0.054 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 1.338 m/s<sup>2</sup><br />(0.136 g<sub>0</sub>)
         escape_velocity: 3.270 km/s<br />(11,772 km/h)
         rotation_period: 79.927 d
         axial_tilt: 12.70°
         albedo: 0.30
-        temperature: 4304 K<br />(4031 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 0240 Niniunniad C II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -135,14 +135,14 @@ planets:
         radius: 1,368.3 km<br/>(0.215 Yrths)
         surface_area: 2.353 × 10<sup>07</sup> km<sup>2</sup><br/>(0.046 Yrths)
         volume: 1.073 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 2.711 × 10<sup>22</sup> kg<br />(3.346933218557671 Yrths)
+        mass: 2.711 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.527 g/cm<sup>3</sup>
         surface_gravity: 0.965 m/s<sup>2</sup><br />(0.098 g<sub>0</sub>)
         escape_velocity: 1.626 km/s<br />(5,855 km/h)
         rotation_period: 42.489 d
         axial_tilt: 16.83°
         albedo: 0.30
-        temperature: 4104 K<br />(3831 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 0240 Niniunniad C II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -155,14 +155,14 @@ planets:
         radius: 3,305.9 km<br/>(0.519 Yrths)
         surface_area: 1.373 × 10<sup>08</sup> km<sup>2</sup><br/>(0.269 Yrths)
         volume: 1.513 × 10<sup>11</sup> km<sup>3</sup><br/>(0.140 Yrths)
-        mass: 3.271 × 10<sup>23</sup> kg<br />(3.346933218557671 Yrths)
+        mass: 3.271 × 10<sup>23</sup> kg<br />(0.055 Yrths)
         density: 2.161 g/cm<sup>3</sup>
         surface_gravity: 1.995 m/s<sup>2</sup><br />(0.203 g<sub>0</sub>)
         escape_velocity: 3.634 km/s<br />(13,084 km/h)
         rotation_period: 34.949 d
         axial_tilt: 17.76°
         albedo: 0.30
-        temperature: 3913 K<br />(3640 °C)
+        temperature: 261 K<br />(-12 °C)
       - name: 0240 Niniunniad C II d
         type: Icy
         formationType: Accreted
@@ -175,12 +175,12 @@ planets:
         radius: 8,759.2 km<br/>(1.375 Yrths)
         surface_area: 9.641 × 10<sup>08</sup> km<sup>2</sup><br/>(1.890 Yrths)
         volume: 2.815 × 10<sup>12</sup> km<sup>3</sup><br/>(2.599 Yrths)
-        mass: 5.009 × 10<sup>24</sup> kg<br />(3.346933218557671 Yrths)
+        mass: 5.009 × 10<sup>24</sup> kg<br />(0.839 Yrths)
         density: 1.779 g/cm<sup>3</sup>
         surface_gravity: 4.351 m/s<sup>2</sup><br />(0.444 g<sub>0</sub>)
         escape_velocity: 8.737 km/s<br />(31,452 km/h)
         rotation_period: 38.019 d
         axial_tilt: 21.47°
         albedo: 0.30
-        temperature: 3731 K<br />(3458 °C)
+        temperature: 261 K<br />(-12 °C)
 ---

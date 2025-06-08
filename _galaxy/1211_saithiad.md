@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1211 Saithiad is a star in the constellation Saith
+      1211 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 962.86 ly
 apparent_magnitude: 10.97
 absolute_magnitude: 3.61

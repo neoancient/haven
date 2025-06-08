@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0049 Naddiad is a star in the constellation Naddi
+      0049 Naddiad is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 30.09 ly
 apparent_magnitude: 5.24
 absolute_magnitude: 5.42
@@ -31,14 +31,14 @@ planets:
     radius: 7,382.2 km<br/>(1.159 Yrths)
     surface_area: 6.848 × 10<sup>08</sup> km<sup>2</sup><br/>(1.343 Yrths)
     volume: 1.685 × 10<sup>12</sup> km<sup>3</sup><br/>(1.556 Yrths)
-    mass: 8.824 × 10<sup>24</sup> kg<br />(1.477504995927821 Yrths)
+    mass: 8.824 × 10<sup>24</sup> kg<br />(1.48 Yrths)
     density: 5.236 g/cm<sup>3</sup>
     surface_gravity: 10.792 m/s<sup>2</sup><br />(1.100 g<sub>0</sub>)
     escape_velocity: 12.631 km/s<br />(45,473 km/h)
     rotation_period: 1.146 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 264 K<br />(-9 °C)
+    temperature: 319 K<br />(46 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 83.5124% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 2,660.1 km<br/>(0.418 Yrths)
         surface_area: 8.892 × 10<sup>07</sup> km<sup>2</sup><br/>(0.174 Yrths)
         volume: 7.885 × 10<sup>10</sup> km<sup>3</sup><br/>(0.073 Yrths)
-        mass: 2.537 × 10<sup>23</sup> kg<br />(1.477504995927821 Yrths)
+        mass: 2.537 × 10<sup>23</sup> kg<br />(0.042 Yrths)
         density: 3.217 g/cm<sup>3</sup>
         surface_gravity: 2.389 m/s<sup>2</sup><br />(0.244 g<sub>0</sub>)
         escape_velocity: 3.568 km/s<br />(12,844 km/h)
         rotation_period: 27.940 d
         axial_tilt: 18.43°
         albedo: 0.30
-        temperature: 3395 K<br />(3122 °C)
+        temperature: 239 K<br />(-34 °C)
   - name: 0049 Naddiad II
     type: Large terrestrial
     aphelion: 396,960,961 km<br />2.653 AU
@@ -76,14 +76,14 @@ planets:
     radius: 4,463.3 km<br/>(0.701 Yrths)
     surface_area: 2.503 × 10<sup>08</sup> km<sup>2</sup><br/>(0.491 Yrths)
     volume: 3.724 × 10<sup>11</sup> km<sup>3</sup><br/>(0.344 Yrths)
-    mass: 2.434 × 10<sup>24</sup> kg<br />(0.40754100885450917 Yrths)
+    mass: 2.434 × 10<sup>24</sup> kg<br />(0.41 Yrths)
     density: 6.535 g/cm<sup>3</sup>
     surface_gravity: 8.143 m/s<sup>2</sup><br />(0.830 g<sub>0</sub>)
     escape_velocity: 8.532 km/s<br />(30,714 km/h)
     rotation_period: 1.432 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 224 K<br />(-49 °C)
+    temperature: 236 K<br />(-37 °C)
     surface_pressure: 161 kPa<br />(2 atm)
     composition:
       - 76.1959% ammonia
@@ -103,14 +103,14 @@ planets:
         radius: 1,899.0 km<br/>(0.298 Yrths)
         surface_area: 4.532 × 10<sup>07</sup> km<sup>2</sup><br/>(0.089 Yrths)
         volume: 2.869 × 10<sup>10</sup> km<sup>3</sup><br/>(0.026 Yrths)
-        mass: 8.258 × 10<sup>22</sup> kg<br />(0.40754100885450917 Yrths)
+        mass: 8.258 × 10<sup>22</sup> kg<br />(0.014 Yrths)
         density: 2.879 g/cm<sup>3</sup>
         surface_gravity: 1.526 m/s<sup>2</sup><br />(0.156 g<sub>0</sub>)
         escape_velocity: 2.409 km/s<br />(8,674 km/h)
         rotation_period: 31.202 d
         axial_tilt: 46.21°
         albedo: 0.30
-        temperature: 3125 K<br />(2852 °C)
+        temperature: 179 K<br />(-94 °C)
       - name: 0049 Naddiad II b
         type: Dwarf planet
         formationType: Captured
@@ -123,14 +123,14 @@ planets:
         radius: 820.1 km<br/>(0.129 Yrths)
         surface_area: 8.453 × 10<sup>06</sup> km<sup>2</sup><br/>(0.017 Yrths)
         volume: 2.311 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.909 × 10<sup>21</sup> kg<br />(0.40754100885450917 Yrths)
+        mass: 4.909 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.124 g/cm<sup>3</sup>
         surface_gravity: 0.486 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
         escape_velocity: 0.894 km/s<br />(3,218 km/h)
         rotation_period: 50.036 d
         axial_tilt: 17.75°
         albedo: 0.30
-        temperature: 2979 K<br />(2706 °C)
+        temperature: 179 K<br />(-94 °C)
       - name: 0049 Naddiad II c
         type: Rocky
         formationType: Captured
@@ -143,12 +143,12 @@ planets:
         radius: 879.2 km<br/>(0.138 Yrths)
         surface_area: 9.714 × 10<sup>06</sup> km<sup>2</sup><br/>(0.019 Yrths)
         volume: 2.847 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 9.601 × 10<sup>21</sup> kg<br />(0.40754100885450917 Yrths)
+        mass: 9.601 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 3.373 g/cm<sup>3</sup>
         surface_gravity: 0.828 m/s<sup>2</sup><br />(0.084 g<sub>0</sub>)
         escape_velocity: 1.207 km/s<br />(4,347 km/h)
         rotation_period: 28.803 d
         axial_tilt: 8.06°
         albedo: 0.30
-        temperature: 2841 K<br />(2567 °C)
+        temperature: 179 K<br />(-94 °C)
 ---

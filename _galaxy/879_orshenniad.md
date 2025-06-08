@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      879 Orshenniad is a star in the constellation Orshen
+      879 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 340.76 ly
 apparent_magnitude: 9.93
 absolute_magnitude: 4.83

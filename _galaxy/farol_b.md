@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Farol B is a star in the constellation Niunio
+      Farol B is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 82.59 ly
 apparent_magnitude: 7.44
 absolute_magnitude: 5.42

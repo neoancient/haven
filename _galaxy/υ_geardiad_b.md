@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      υ Geardiad B is a star in the constellation Geard
+      υ Geardiad B is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1531.22 ly
 apparent_magnitude: 17.67
 absolute_magnitude: 9.31

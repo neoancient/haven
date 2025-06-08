@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      804 Shanniashiad A is a star in the constellation Shannias
+      804 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1257.38 ly
 apparent_magnitude: 6.80
 absolute_magnitude: -1.13

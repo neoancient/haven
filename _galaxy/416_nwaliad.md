@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      416 Nwaliad is a star in the constellation Nwal
+      416 Nwaliad is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 1026.88 ly
 apparent_magnitude: 17.50
 absolute_magnitude: 10.01

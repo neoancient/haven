@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0089 Niunioiad B is a star in the constellation Niunio
+      0089 Niunioiad B is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 198.57 ly
 apparent_magnitude: 9.17
 absolute_magnitude: 5.25

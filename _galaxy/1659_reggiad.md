@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1659 Reggiad is a star in the constellation Reg
+      1659 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 136.89 ly
 apparent_magnitude: 9.43
 absolute_magnitude: 6.31

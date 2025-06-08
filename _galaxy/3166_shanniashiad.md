@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3166 Shanniashiad is a star in the constellation Shannias
+      3166 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 468.76 ly
 apparent_magnitude: 11.14
 absolute_magnitude: 5.35

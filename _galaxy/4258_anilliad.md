@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4258 Anilliad is a star in the constellation Anil
+      4258 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 200.46 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 7.04

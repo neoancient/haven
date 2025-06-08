@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2118 Lunaiad is a star in the constellation Luna
+      2118 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 226.05 ly
 apparent_magnitude: 10.12
 absolute_magnitude: 5.92

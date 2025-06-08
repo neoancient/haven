@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1384 Keead A is a star in the constellation Kee
+      1384 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1139.03 ly
 apparent_magnitude: 6.79
 absolute_magnitude: -0.93

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      80876 Shanniashiad is a star in the constellation Shannias
+      80876 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 557.37 ly
 apparent_magnitude: 8.91
 absolute_magnitude: 2.74

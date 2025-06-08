@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0029 Orshenniad is a star in the constellation Orshen
+      0029 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 92.00 ly
 apparent_magnitude: 6.18
 absolute_magnitude: 3.93
@@ -31,7 +31,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.498 g/cm<sup>3</sup>
     surface_gravity: 31873.847 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 1,439.5 km<br/>(0.226 Yrths)
         surface_area: 2.604 × 10<sup>07</sup> km<sup>2</sup><br/>(0.051 Yrths)
         volume: 1.249 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 1.493 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.493 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.195 g/cm<sup>3</sup>
         surface_gravity: 0.480 m/s<sup>2</sup><br />(0.049 g<sub>0</sub>)
         escape_velocity: 1.177 km/s<br />(4,236 km/h)
         rotation_period: 47.896 d
         axial_tilt: 20.25°
         albedo: 0.30
-        temperature: 6554 K<br />(6281 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -72,14 +72,14 @@ planets:
         radius: 803.4 km<br/>(0.126 Yrths)
         surface_area: 8.112 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.172 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.026 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.026 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.853 g/cm<sup>3</sup>
         surface_gravity: 0.416 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 0.818 km/s<br />(2,944 km/h)
         rotation_period: 40.294 d
         axial_tilt: 21.85°
         albedo: 0.30
-        temperature: 3528 K<br />(3254 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 764.5 km<br/>(0.120 Yrths)
         surface_area: 7.344 × 10<sup>06</sup> km<sup>2</sup><br/>(0.014 Yrths)
         volume: 1.872 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 3.834 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 3.834 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.049 g/cm<sup>3</sup>
         surface_gravity: 0.437 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 0.818 km/s<br />(2,946 km/h)
         rotation_period: 40.772 d
         axial_tilt: 24.24°
         albedo: 0.30
-        temperature: 3207 K<br />(2934 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -112,14 +112,14 @@ planets:
         radius: 803.9 km<br/>(0.126 Yrths)
         surface_area: 8.120 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.176 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 4.468 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.468 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.053 g/cm<sup>3</sup>
         surface_gravity: 0.461 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 0.861 km/s<br />(3,101 km/h)
         rotation_period: 56.351 d
         axial_tilt: 17.20°
         albedo: 0.30
-        temperature: 3058 K<br />(2784 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I e
         type: Asteroid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 922.6 km<br/>(0.145 Yrths)
         surface_area: 1.070 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.290 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 7.292 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.292 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.216 g/cm<sup>3</sup>
         surface_gravity: 0.571 m/s<sup>2</sup><br />(0.058 g<sub>0</sub>)
         escape_velocity: 1.027 km/s<br />(3,698 km/h)
         rotation_period: 33.519 d
         axial_tilt: 34.35°
         albedo: 0.30
-        temperature: 2190 K<br />(1917 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I f
         type: Icy
         formationType: Accreted
@@ -152,14 +152,14 @@ planets:
         radius: 1,176.8 km<br/>(0.185 Yrths)
         surface_area: 1.740 × 10<sup>07</sup> km<sup>2</sup><br/>(0.034 Yrths)
         volume: 6.827 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 7.357 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.357 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.078 g/cm<sup>3</sup>
         surface_gravity: 0.354 m/s<sup>2</sup><br />(0.036 g<sub>0</sub>)
         escape_velocity: 0.914 km/s<br />(3,289 km/h)
         rotation_period: 94.337 d
         axial_tilt: 19.71°
         albedo: 0.30
-        temperature: 1991 K<br />(1718 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I g
         type: Icy
         formationType: Accreted
@@ -172,14 +172,14 @@ planets:
         radius: 1,018.5 km<br/>(0.160 Yrths)
         surface_area: 1.304 × 10<sup>07</sup> km<sup>2</sup><br/>(0.026 Yrths)
         volume: 4.426 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 5.868 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.868 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.326 g/cm<sup>3</sup>
         surface_gravity: 0.377 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.877 km/s<br />(3,157 km/h)
         rotation_period: 52.393 d
         axial_tilt: 14.35°
         albedo: 0.30
-        temperature: 1426 K<br />(1153 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I h
         type: Icy
         formationType: Impact formed
@@ -192,14 +192,14 @@ planets:
         radius: 936.0 km<br/>(0.147 Yrths)
         surface_area: 1.101 × 10<sup>07</sup> km<sup>2</sup><br/>(0.022 Yrths)
         volume: 3.434 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 4.371 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 4.371 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.273 g/cm<sup>3</sup>
         surface_gravity: 0.333 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.790 km/s<br />(2,843 km/h)
         rotation_period: 52.548 d
         axial_tilt: 24.63°
         albedo: 0.30
-        temperature: 768 K<br />(495 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I i
         type: Icy
         formationType: Impact formed
@@ -212,14 +212,14 @@ planets:
         radius: 1,182.9 km<br/>(0.186 Yrths)
         surface_area: 1.758 × 10<sup>07</sup> km<sup>2</sup><br/>(0.034 Yrths)
         volume: 6.933 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 9.292 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.292 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 1.340 g/cm<sup>3</sup>
         surface_gravity: 0.443 m/s<sup>2</sup><br />(0.045 g<sub>0</sub>)
         escape_velocity: 1.024 km/s<br />(3,686 km/h)
         rotation_period: 58.552 d
         axial_tilt: 9.15°
         albedo: 0.30
-        temperature: 732 K<br />(459 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I j
         type: Icy
         formationType: Impact formed
@@ -232,14 +232,14 @@ planets:
         radius: 1,368.0 km<br/>(0.215 Yrths)
         surface_area: 2.352 × 10<sup>07</sup> km<sup>2</sup><br/>(0.046 Yrths)
         volume: 1.072 × 10<sup>10</sup> km<sup>3</sup><br/>(0.010 Yrths)
-        mass: 7.506 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.506 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.267 m/s<sup>2</sup><br />(0.027 g<sub>0</sub>)
         escape_velocity: 0.856 km/s<br />(3,081 km/h)
         rotation_period: 66.711 d
         axial_tilt: 26.77°
         albedo: 0.30
-        temperature: 524 K<br />(251 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -252,14 +252,14 @@ planets:
         radius: 905.5 km<br/>(0.142 Yrths)
         surface_area: 1.030 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.110 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.557 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.557 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.109 g/cm<sup>3</sup>
         surface_gravity: 0.533 m/s<sup>2</sup><br />(0.054 g<sub>0</sub>)
         escape_velocity: 0.983 km/s<br />(3,540 km/h)
         rotation_period: 42.688 d
         axial_tilt: 8.14°
         albedo: 0.30
-        temperature: 394 K<br />(121 °C)
+        temperature: 255 K<br />(-18 °C)
       - name: 0029 Orshenniad I l
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -272,14 +272,14 @@ planets:
         radius: 900.8 km<br/>(0.141 Yrths)
         surface_area: 1.020 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
         volume: 3.062 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 5.772 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.772 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.885 g/cm<sup>3</sup>
         surface_gravity: 0.474 m/s<sup>2</sup><br />(0.048 g<sub>0</sub>)
         escape_velocity: 0.925 km/s<br />(3,329 km/h)
         rotation_period: 53.757 d
         axial_tilt: 15.64°
         albedo: 0.30
-        temperature: 326 K<br />(52 °C)
+        temperature: 255 K<br />(-18 °C)
   - name: 0029 Orshenniad II
     type: Large terrestrial
     aphelion: 737,899,841 km<br />4.932 AU
@@ -291,14 +291,14 @@ planets:
     radius: 12,710.6 km<br/>(1.995 Yrths)
     surface_area: 2.030 × 10<sup>09</sup> km<sup>2</sup><br/>(3.980 Yrths)
     volume: 8.602 × 10<sup>12</sup> km<sup>3</sup><br/>(7.941 Yrths)
-    mass: 5.800 × 10<sup>25</sup> kg<br />(9.712015562706767 Yrths)
+    mass: 5.800 × 10<sup>25</sup> kg<br />(9.71 Yrths)
     density: 6.743 g/cm<sup>3</sup>
     surface_gravity: 23.928 m/s<sup>2</sup><br />(2.440 g<sub>0</sub>)
     escape_velocity: 24.680 km/s<br />(88,849 km/h)
     rotation_period: 0.738 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 226 K<br />(-47 °C)
+    temperature: 325 K<br />(52 °C)
     surface_pressure: 52 kPa<br />(1 atm)
     composition:
       - 83.5424% ammonia
@@ -317,14 +317,14 @@ planets:
         radius: 6,482.0 km<br/>(1.017 Yrths)
         surface_area: 5.280 × 10<sup>08</sup> km<sup>2</sup><br/>(1.035 Yrths)
         volume: 1.141 × 10<sup>12</sup> km<sup>3</sup><br/>(1.053 Yrths)
-        mass: 1.620 × 10<sup>24</sup> kg<br />(9.712015562706767 Yrths)
+        mass: 1.620 × 10<sup>24</sup> kg<br />(0.271 Yrths)
         density: 1.420 g/cm<sup>3</sup>
         surface_gravity: 2.569 m/s<sup>2</sup><br />(0.262 g<sub>0</sub>)
         escape_velocity: 5.775 km/s<br />(20,792 km/h)
         rotation_period: 65.185 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 2388 K<br />(2115 °C)
+        temperature: 186 K<br />(-88 °C)
       - name: 0029 Orshenniad II b
         type: Asteroid
         formationType: Captured
@@ -337,14 +337,14 @@ planets:
         radius: 14,136.4 km<br/>(2.219 Yrths)
         surface_area: 2.511 × 10<sup>09</sup> km<sup>2</sup><br/>(4.923 Yrths)
         volume: 1.183 × 10<sup>13</sup> km<sup>3</sup><br/>(10.924 Yrths)
-        mass: 2.872 × 10<sup>25</sup> kg<br />(9.712015562706767 Yrths)
+        mass: 2.872 × 10<sup>25</sup> kg<br />(4.810 Yrths)
         density: 2.427 g/cm<sup>3</sup>
         surface_gravity: 9.580 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
         escape_velocity: 16.469 km/s<br />(59,289 km/h)
         rotation_period: 58.450 d
         axial_tilt: 25.07°
         albedo: 0.30
-        temperature: 2277 K<br />(2004 °C)
+        temperature: 186 K<br />(-88 °C)
       - name: 0029 Orshenniad II c
         type: Icy
         formationType: Accreted
@@ -357,12 +357,12 @@ planets:
         radius: 8,095.4 km<br/>(1.271 Yrths)
         surface_area: 8.235 × 10<sup>08</sup> km<sup>2</sup><br/>(1.615 Yrths)
         volume: 2.222 × 10<sup>12</sup> km<sup>3</sup><br/>(2.052 Yrths)
-        mass: 3.560 × 10<sup>24</sup> kg<br />(9.712015562706767 Yrths)
+        mass: 3.560 × 10<sup>24</sup> kg<br />(0.596 Yrths)
         density: 1.602 g/cm<sup>3</sup>
         surface_gravity: 3.620 m/s<sup>2</sup><br />(0.369 g<sub>0</sub>)
         escape_velocity: 7.661 km/s<br />(27,580 km/h)
         rotation_period: 50.265 d
         axial_tilt: 26.16°
         albedo: 0.30
-        temperature: 2171 K<br />(1898 °C)
+        temperature: 186 K<br />(-88 °C)
 ---

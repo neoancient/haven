@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      12046 Dialkeshiad A is a star in the constellation Dialkes
+      12046 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 401.06 ly
 apparent_magnitude: 7.54
 absolute_magnitude: 2.09

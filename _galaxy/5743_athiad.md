@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5743 Athiad is a star in the constellation Ath
+      5743 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 139.42 ly
 apparent_magnitude: 14.72
 absolute_magnitude: 11.56

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0124 Niniunniad B is a star in the constellation Niniun
+      0124 Niniunniad B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 1471.84 ly
 apparent_magnitude: 17.90
 absolute_magnitude: 9.63

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0100 Niniunniad A is a star in the constellation Niniun
+      0100 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 510.78 ly
 apparent_magnitude: 6.40
 absolute_magnitude: 0.42

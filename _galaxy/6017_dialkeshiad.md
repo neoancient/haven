@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6017 Dialkeshiad is a star in the constellation Dialkes
+      6017 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 398.89 ly
 apparent_magnitude: 11.11
 absolute_magnitude: 5.67

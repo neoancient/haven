@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11017 Arkothiad is a star in the constellation Arkoth
+      11017 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 330.00 ly
 apparent_magnitude: 11.74
 absolute_magnitude: 6.71

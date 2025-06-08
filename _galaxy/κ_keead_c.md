@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      κ Keead C is a star in the constellation Kee
+      κ Keead C is a star in the constellation <a href="kee.html">Kee</a>
 distance: 841.51 ly
 apparent_magnitude: 15.21
 absolute_magnitude: 8.15
@@ -31,14 +31,14 @@ planets:
     radius: 3,083.2 km<br/>(0.484 Yrths)
     surface_area: 1.195 × 10<sup>08</sup> km<sup>2</sup><br/>(0.234 Yrths)
     volume: 1.228 × 10<sup>11</sup> km<sup>3</sup><br/>(0.113 Yrths)
-    mass: 2.168 × 10<sup>24</sup> kg<br />(0.3630317288741478 Yrths)
+    mass: 2.168 × 10<sup>24</sup> kg<br />(0.36 Yrths)
     density: 17.660 g/cm<sup>3</sup>
     surface_gravity: 15.201 m/s<sup>2</sup><br />(1.550 g<sub>0</sub>)
     escape_velocity: 9.688 km/s<br />(34,878 km/h)
     rotation_period: 5.331 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 393 K<br />(120 °C)
+    temperature: 442 K<br />(169 °C)
     surface_pressure: 21 kPa<br />(0 atm)
     composition:
       - 90.8671% nitrogen
@@ -58,12 +58,12 @@ planets:
         radius: 1,139.8 km<br/>(0.179 Yrths)
         surface_area: 1.633 × 10<sup>07</sup> km<sup>2</sup><br/>(0.032 Yrths)
         volume: 6.203 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 1.951 × 10<sup>22</sup> kg<br />(0.3630317288741478 Yrths)
+        mass: 1.951 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 3.146 g/cm<sup>3</sup>
         surface_gravity: 1.001 m/s<sup>2</sup><br />(0.102 g<sub>0</sub>)
         escape_velocity: 1.512 km/s<br />(5,442 km/h)
         rotation_period: 30.037 d
         axial_tilt: 12.29°
         albedo: 0.30
-        temperature: 6543 K<br />(6270 °C)
+        temperature: 349 K<br />(76 °C)
 ---

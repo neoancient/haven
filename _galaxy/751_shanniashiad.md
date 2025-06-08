@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      751 Shanniashiad is a star in the constellation Shannias
+      751 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 433.53 ly
 apparent_magnitude: 11.85
 absolute_magnitude: 6.24

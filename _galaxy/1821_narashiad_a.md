@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1821 Narashiad A is a star in the constellation Naras
+      1821 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 611.42 ly
 apparent_magnitude: 7.51
 absolute_magnitude: 1.15

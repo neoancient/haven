@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      410 Saithiad is a star in the constellation Saith
+      410 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1158.43 ly
 apparent_magnitude: 14.10
 absolute_magnitude: 6.35

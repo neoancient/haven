@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0022 Reggiad C is a star in the constellation Reg
+      0022 Reggiad C is a star in the constellation <a href="reg.html">Reg</a>
 distance: 19790.03 ly
 apparent_magnitude: 10.96
 absolute_magnitude: -2.96

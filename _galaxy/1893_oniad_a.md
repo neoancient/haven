@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1893 Oniad A is a star in the constellation Oni
+      1893 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 437.17 ly
 apparent_magnitude: 7.01
 absolute_magnitude: 1.37

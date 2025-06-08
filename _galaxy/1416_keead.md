@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1416 Keead is a star in the constellation Kee
+      1416 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 434.58 ly
 apparent_magnitude: 10.74
 absolute_magnitude: 5.11

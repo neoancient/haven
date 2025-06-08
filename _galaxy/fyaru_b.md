@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Fyaru B is a star in the constellation Kerr
+      Fyaru B is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 687.49 ly
 apparent_magnitude: 1.45
 absolute_magnitude: -5.17

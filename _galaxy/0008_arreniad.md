@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0008 Arreniad is a star in the constellation Arren
+      0008 Arreniad is a star in the constellation <a href="arren.html">Arren</a>
 distance: 3564.06 ly
 apparent_magnitude: 6.07
 absolute_magnitude: -4.12
@@ -31,14 +31,14 @@ planets:
     radius: 39,395.6 km<br/>(6.184 Yrths)
     surface_area: 1.950 × 10<sup>10</sup> km<sup>2</sup><br/>(38.237 Yrths)
     volume: 2.561 × 10<sup>14</sup> km<sup>3</sup><br/>(236.440 Yrths)
-    mass: 3.100 × 10<sup>26</sup> kg<br />(51.908789736800095 Yrths)
+    mass: 3.100 × 10<sup>26</sup> kg<br />(51.91 Yrths)
     density: 1.210 g/cm<sup>3</sup>
     surface_gravity: 13.313 m/s<sup>2</sup><br />(1.358 g<sub>0</sub>)
     escape_velocity: 32.410 km/s<br />(116,675 km/h)
     rotation_period: 0.277 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 1427 K<br />(1154 °C)
+    temperature: 1330 K<br />(1057 °C)
     composition:
       - 74.9545% hydrogen
       - 18.9468% helium
@@ -59,14 +59,14 @@ planets:
         radius: 27,951.9 km<br/>(4.387 Yrths)
         surface_area: 9.818 × 10<sup>09</sup> km<sup>2</sup><br/>(19.249 Yrths)
         volume: 9.148 × 10<sup>13</sup> km<sup>3</sup><br/>(84.452 Yrths)
-        mass: 6.404 × 10<sup>25</sup> kg<br />(51.908789736800095 Yrths)
+        mass: 6.404 × 10<sup>25</sup> kg<br />(10.723 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 5.463 m/s<sup>2</sup><br />(0.557 g<sub>0</sub>)
         escape_velocity: 17.487 km/s<br />(62,954 km/h)
         rotation_period: 62.141 d
         axial_tilt: 15.71°
         albedo: 0.30
-        temperature: 4998 K<br />(4724 °C)
+        temperature: 678 K<br />(405 °C)
       - name: 0008 Arreniad I b
         type: Icy
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 23,755.5 km<br/>(3.729 Yrths)
         surface_area: 7.092 × 10<sup>09</sup> km<sup>2</sup><br/>(13.903 Yrths)
         volume: 5.615 × 10<sup>13</sup> km<sup>3</sup><br/>(51.841 Yrths)
-        mass: 7.754 × 10<sup>25</sup> kg<br />(51.908789736800095 Yrths)
+        mass: 7.754 × 10<sup>25</sup> kg<br />(12.984 Yrths)
         density: 1.381 g/cm<sup>3</sup>
         surface_gravity: 9.158 m/s<sup>2</sup><br />(0.934 g<sub>0</sub>)
         escape_velocity: 20.874 km/s<br />(75,145 km/h)
         rotation_period: 61.568 d
         axial_tilt: 9.65°
         albedo: 0.30
-        temperature: 4765 K<br />(4492 °C)
+        temperature: 678 K<br />(405 °C)
       - name: 0008 Arreniad I c
         type: Icy
         formationType: Accreted
@@ -99,14 +99,14 @@ planets:
         radius: 61,550.1 km<br/>(9.661 Yrths)
         surface_area: 4.761 × 10<sup>10</sup> km<sup>2</sup><br/>(93.334 Yrths)
         volume: 9.767 × 10<sup>14</sup> km<sup>3</sup><br/>(901.702 Yrths)
-        mass: 1.618 × 10<sup>27</sup> kg<br />(51.908789736800095 Yrths)
+        mass: 1.618 × 10<sup>27</sup> kg<br />(270.863 Yrths)
         density: 1.656 g/cm<sup>3</sup>
         surface_gravity: 28.460 m/s<sup>2</sup><br />(2.902 g<sub>0</sub>)
         escape_velocity: 59.230 km/s<br />(213,226 km/h)
         rotation_period: 52.528 d
         axial_tilt: 16.69°
         albedo: 0.30
-        temperature: 4543 K<br />(4270 °C)
+        temperature: 678 K<br />(405 °C)
       - name: 0008 Arreniad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -119,14 +119,14 @@ planets:
         radius: 42,926.1 km<br/>(6.738 Yrths)
         surface_area: 2.316 × 10<sup>10</sup> km<sup>2</sup><br/>(45.397 Yrths)
         volume: 3.313 × 10<sup>14</sup> km<sup>3</sup><br/>(305.872 Yrths)
-        mass: 6.792 × 10<sup>26</sup> kg<br />(51.908789736800095 Yrths)
+        mass: 6.792 × 10<sup>26</sup> kg<br />(113.725 Yrths)
         density: 2.050 g/cm<sup>3</sup>
         surface_gravity: 24.567 m/s<sup>2</sup><br />(2.505 g<sub>0</sub>)
         escape_velocity: 45.956 km/s<br />(165,443 km/h)
         rotation_period: 47.531 d
         axial_tilt: 28.91°
         albedo: 0.30
-        temperature: 4332 K<br />(4059 °C)
+        temperature: 678 K<br />(405 °C)
       - name: 0008 Arreniad I e
         type: Asteroid
         formationType: Captured
@@ -139,14 +139,14 @@ planets:
         radius: 39,011.6 km<br/>(6.123 Yrths)
         surface_area: 1.912 × 10<sup>10</sup> km<sup>2</sup><br/>(37.495 Yrths)
         volume: 2.487 × 10<sup>14</sup> km<sup>3</sup><br/>(229.593 Yrths)
-        mass: 7.057 × 10<sup>26</sup> kg<br />(51.908789736800095 Yrths)
+        mass: 7.057 × 10<sup>26</sup> kg<br />(118.163 Yrths)
         density: 2.837 g/cm<sup>3</sup>
         surface_gravity: 30.905 m/s<sup>2</sup><br />(3.151 g<sub>0</sub>)
         escape_velocity: 49.139 km/s<br />(176,899 km/h)
         rotation_period: 43.362 d
         axial_tilt: 47.19°
         albedo: 0.30
-        temperature: 3938 K<br />(3665 °C)
+        temperature: 678 K<br />(405 °C)
       - name: 0008 Arreniad I f
         type: Icy
         formationType: Accreted
@@ -159,14 +159,14 @@ planets:
         radius: 26,994.0 km<br/>(4.237 Yrths)
         surface_area: 9.157 × 10<sup>09</sup> km<sup>2</sup><br/>(17.952 Yrths)
         volume: 8.239 × 10<sup>13</sup> km<sup>3</sup><br/>(76.064 Yrths)
-        mass: 8.909 × 10<sup>25</sup> kg<br />(51.908789736800095 Yrths)
+        mass: 8.909 × 10<sup>25</sup> kg<br />(14.918 Yrths)
         density: 1.081 g/cm<sup>3</sup>
         surface_gravity: 8.149 m/s<sup>2</sup><br />(0.831 g<sub>0</sub>)
         escape_velocity: 20.990 km/s<br />(75,562 km/h)
         rotation_period: 74.529 d
         axial_tilt: 6.13°
         albedo: 0.30
-        temperature: 3755 K<br />(3482 °C)
+        temperature: 678 K<br />(405 °C)
   - name: 0008 Arreniad II
     type: Gas giant
     aphelion: 5,461,835,175 km<br />36.510 AU
@@ -178,14 +178,14 @@ planets:
     radius: 240.4 km<br/>(0.038 Yrths)
     surface_area: 7.265 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.823 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.214 × 10<sup>27</sup> kg<br />(370.70072945173126 Yrths)
+    mass: 2.214 × 10<sup>27</sup> kg<br />(370.70 Yrths)
     density: 38018172.600 g/cm<sup>3</sup>
     surface_gravity: 2552213.872 m/s<sup>2</sup><br />(260253.386 g<sub>0</sub>)
     escape_velocity: 1108.610 km/s<br />(3,990,997 km/h)
     rotation_period: 0.231 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1888 K<br />(1615 °C)
+    temperature: 1809 K<br />(1536 °C)
     composition:
       - 78.7775% hydrogen
       - 19.9138% helium
@@ -203,14 +203,14 @@ planets:
         radius: 192,456.2 km<br/>(30.208 Yrths)
         surface_area: 4.655 × 10<sup>11</sup> km<sup>2</sup><br/>(912.533 Yrths)
         volume: 2.986 × 10<sup>16</sup> km<sup>3</sup><br/>(27565.949 Yrths)
-        mass: 5.454 × 10<sup>28</sup> kg<br />(370.70072945173126 Yrths)
+        mass: 5.454 × 10<sup>28</sup> kg<br />(9132.651 Yrths)
         density: 1.827 g/cm<sup>3</sup>
         surface_gravity: 98.145 m/s<sup>2</sup><br />(10.008 g<sub>0</sub>)
         escape_velocity: 194.496 km/s<br />(700,185 km/h)
         rotation_period: 71.168 d
         axial_tilt: 30.54°
         albedo: 0.30
-        temperature: 2028 K<br />(1754 °C)
+        temperature: 441 K<br />(168 °C)
       - name: 0008 Arreniad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -223,14 +223,14 @@ planets:
         radius: 199,177.2 km<br/>(31.263 Yrths)
         surface_area: 4.985 × 10<sup>11</sup> km<sup>2</sup><br/>(977.381 Yrths)
         volume: 3.310 × 10<sup>16</sup> km<sup>3</sup><br/>(30555.948 Yrths)
-        mass: 6.773 × 10<sup>28</sup> kg<br />(370.70072945173126 Yrths)
+        mass: 6.773 × 10<sup>28</sup> kg<br />(11341.276 Yrths)
         density: 2.046 g/cm<sup>3</sup>
         surface_gravity: 113.794 m/s<sup>2</sup><br />(11.604 g<sub>0</sub>)
         escape_velocity: 213.054 km/s<br />(766,993 km/h)
         rotation_period: 68.710 d
         axial_tilt: 23.69°
         albedo: 0.30
-        temperature: 1320 K<br />(1047 °C)
+        temperature: 441 K<br />(168 °C)
       - name: 0008 Arreniad II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -243,14 +243,14 @@ planets:
         radius: 183,187.9 km<br/>(28.753 Yrths)
         surface_area: 4.217 × 10<sup>11</sup> km<sup>2</sup><br/>(826.758 Yrths)
         volume: 2.575 × 10<sup>16</sup> km<sup>3</sup><br/>(23772.087 Yrths)
-        mass: 5.684 × 10<sup>28</sup> kg<br />(370.70072945173126 Yrths)
+        mass: 5.684 × 10<sup>28</sup> kg<br />(9518.032 Yrths)
         density: 2.207 g/cm<sup>3</sup>
         surface_gravity: 112.899 m/s<sup>2</sup><br />(11.512 g<sub>0</sub>)
         escape_velocity: 203.518 km/s<br />(732,665 km/h)
         rotation_period: 55.255 d
         axial_tilt: 27.48°
         albedo: 0.30
-        temperature: 1091 K<br />(818 °C)
+        temperature: 441 K<br />(168 °C)
       - name: 0008 Arreniad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -263,14 +263,14 @@ planets:
         radius: 202,467.6 km<br/>(31.780 Yrths)
         surface_area: 5.151 × 10<sup>11</sup> km<sup>2</sup><br/>(1009.941 Yrths)
         volume: 3.477 × 10<sup>16</sup> km<sup>3</sup><br/>(32095.466 Yrths)
-        mass: 8.900 × 10<sup>28</sup> kg<br />(370.70072945173126 Yrths)
+        mass: 8.900 × 10<sup>28</sup> kg<br />(14902.057 Yrths)
         density: 2.560 g/cm<sup>3</sup>
         surface_gravity: 144.701 m/s<sup>2</sup><br />(14.755 g<sub>0</sub>)
         escape_velocity: 242.227 km/s<br />(872,018 km/h)
         rotation_period: 31.220 d
         axial_tilt: 20.79°
         albedo: 0.30
-        temperature: 301 K<br />(28 °C)
+        temperature: 441 K<br />(168 °C)
       - name: 0008 Arreniad II e
         type: Rocky
         formationType: Captured
@@ -283,14 +283,14 @@ planets:
         radius: 191,001.6 km<br/>(29.980 Yrths)
         surface_area: 4.584 × 10<sup>11</sup> km<sup>2</sup><br/>(898.791 Yrths)
         volume: 2.919 × 10<sup>16</sup> km<sup>3</sup><br/>(26945.623 Yrths)
-        mass: 8.154 × 10<sup>28</sup> kg<br />(370.70072945173126 Yrths)
+        mass: 8.154 × 10<sup>28</sup> kg<br />(13654.357 Yrths)
         density: 2.794 g/cm<sup>3</sup>
         surface_gravity: 148.982 m/s<sup>2</sup><br />(15.192 g<sub>0</sub>)
         escape_velocity: 238.723 km/s<br />(859,404 km/h)
         rotation_period: 33.675 d
         axial_tilt: 14.90°
         albedo: 0.30
-        temperature: 122 K<br />(-151 °C)
+        temperature: 441 K<br />(168 °C)
   - name: 0008 Arreniad III
     type: Gas dwarf
     aphelion: 7,586,524,601 km<br />50.712 AU
@@ -302,14 +302,14 @@ planets:
     radius: 18,925.2 km<br/>(2.971 Yrths)
     surface_area: 4.501 × 10<sup>09</sup> km<sup>2</sup><br/>(8.824 Yrths)
     volume: 2.839 × 10<sup>13</sup> km<sup>3</sup><br/>(26.212 Yrths)
-    mass: 7.301 × 10<sup>25</sup> kg<br />(12.224733558240553 Yrths)
+    mass: 7.301 × 10<sup>25</sup> kg<br />(12.22 Yrths)
     density: 2.571 g/cm<sup>3</sup>
     surface_gravity: 13.586 m/s<sup>2</sup><br />(1.385 g<sub>0</sub>)
     escape_velocity: 22.692 km/s<br />(81,692 km/h)
     rotation_period: 0.379 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 464 K<br />(191 °C)
+    temperature: 416 K<br />(143 °C)
     composition:
       - 78.5512% hydrogen
       - 20.4101% helium
@@ -327,14 +327,14 @@ planets:
         radius: 12,882.6 km<br/>(2.022 Yrths)
         surface_area: 2.086 × 10<sup>09</sup> km<sup>2</sup><br/>(4.089 Yrths)
         volume: 8.956 × 10<sup>12</sup> km<sup>3</sup><br/>(8.268 Yrths)
-        mass: 2.039 × 10<sup>25</sup> kg<br />(12.224733558240553 Yrths)
+        mass: 2.039 × 10<sup>25</sup> kg<br />(3.415 Yrths)
         density: 2.277 g/cm<sup>3</sup>
         surface_gravity: 8.189 m/s<sup>2</sup><br />(0.835 g<sub>0</sub>)
         escape_velocity: 14.536 km/s<br />(52,329 km/h)
         rotation_period: 36.251 d
         axial_tilt: 21.91°
         albedo: 0.30
-        temperature: 2820 K<br />(2547 °C)
+        temperature: 287 K<br />(14 °C)
       - name: 0008 Arreniad III b
         type: Icy
         formationType: Captured
@@ -347,14 +347,14 @@ planets:
         radius: 19,581.1 km<br/>(3.073 Yrths)
         surface_area: 4.818 × 10<sup>09</sup> km<sup>2</sup><br/>(9.446 Yrths)
         volume: 3.145 × 10<sup>13</sup> km<sup>3</sup><br/>(29.033 Yrths)
-        mass: 3.587 × 10<sup>25</sup> kg<br />(12.224733558240553 Yrths)
+        mass: 3.587 × 10<sup>25</sup> kg<br />(6.007 Yrths)
         density: 1.141 g/cm<sup>3</sup>
         surface_gravity: 6.236 m/s<sup>2</sup><br />(0.636 g<sub>0</sub>)
         escape_velocity: 15.638 km/s<br />(56,298 km/h)
         rotation_period: 54.475 d
         axial_tilt: 20.43°
         albedo: 0.30
-        temperature: 2689 K<br />(2416 °C)
+        temperature: 287 K<br />(14 °C)
       - name: 0008 Arreniad III c
         type: Icy
         formationType: Captured
@@ -367,14 +367,14 @@ planets:
         radius: 27,609.4 km<br/>(4.334 Yrths)
         surface_area: 9.579 × 10<sup>09</sup> km<sup>2</sup><br/>(18.780 Yrths)
         volume: 8.816 × 10<sup>13</sup> km<sup>3</sup><br/>(81.386 Yrths)
-        mass: 1.036 × 10<sup>26</sup> kg<br />(12.224733558240553 Yrths)
+        mass: 1.036 × 10<sup>26</sup> kg<br />(17.344 Yrths)
         density: 1.175 g/cm<sup>3</sup>
         surface_gravity: 9.057 m/s<sup>2</sup><br />(0.924 g<sub>0</sub>)
         escape_velocity: 22.378 km/s<br />(80,561 km/h)
         rotation_period: 49.013 d
         axial_tilt: 22.80°
         albedo: 0.30
-        temperature: 2564 K<br />(2291 °C)
+        temperature: 287 K<br />(14 °C)
       - name: 0008 Arreniad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -387,12 +387,12 @@ planets:
         radius: 18,818.5 km<br/>(2.954 Yrths)
         surface_area: 4.450 × 10<sup>09</sup> km<sup>2</sup><br/>(8.725 Yrths)
         volume: 2.792 × 10<sup>13</sup> km<sup>3</sup><br/>(25.771 Yrths)
-        mass: 5.782 × 10<sup>25</sup> kg<br />(12.224733558240553 Yrths)
+        mass: 5.782 × 10<sup>25</sup> kg<br />(9.682 Yrths)
         density: 2.071 g/cm<sup>3</sup>
         surface_gravity: 10.883 m/s<sup>2</sup><br />(1.110 g<sub>0</sub>)
         escape_velocity: 20.252 km/s<br />(72,908 km/h)
         rotation_period: 45.349 d
         axial_tilt: 22.58°
         albedo: 0.30
-        temperature: 2444 K<br />(2171 °C)
+        temperature: 287 K<br />(14 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2497 Dialkeshiad A is a star in the constellation Dialkes
+      2497 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 641.26 ly
 apparent_magnitude: 6.98
 absolute_magnitude: 0.51

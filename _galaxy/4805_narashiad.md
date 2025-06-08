@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4805 Narashiad is a star in the constellation Naras
+      4805 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 897.08 ly
 apparent_magnitude: 12.35
 absolute_magnitude: 5.15

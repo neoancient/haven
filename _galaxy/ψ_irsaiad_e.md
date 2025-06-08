@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ψ Irsaiad E is a star in the constellation Irsa
+      ψ Irsaiad E is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 278.95 ly
 apparent_magnitude: 8.37
 absolute_magnitude: 3.70

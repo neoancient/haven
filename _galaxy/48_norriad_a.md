@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      48 Norriad A is a star in the constellation Nor
+      48 Norriad A is a star in the constellation <a href="nor.html">Nor</a>
 distance: 272.67 ly
 apparent_magnitude: 9.28
 absolute_magnitude: 4.67

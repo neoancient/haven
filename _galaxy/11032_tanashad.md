@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11032 Tanashad is a star in the constellation Tanas
+      11032 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 160.95 ly
 apparent_magnitude: 18.04
 absolute_magnitude: 14.57

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      β Rashalthiad is a star in the constellation Rashalth
+      β Rashalthiad is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 325.54 ly
 apparent_magnitude: 4.52
 absolute_magnitude: -0.48
@@ -31,14 +31,14 @@ planets:
     radius: 7,818.3 km<br/>(1.227 Yrths)
     surface_area: 7.681 × 10<sup>08</sup> km<sup>2</sup><br/>(1.506 Yrths)
     volume: 2.002 × 10<sup>12</sup> km<sup>3</sup><br/>(1.848 Yrths)
-    mass: 9.588 × 10<sup>24</sup> kg<br />(1.6054221087984444 Yrths)
+    mass: 9.588 × 10<sup>24</sup> kg<br />(1.61 Yrths)
     density: 4.789 g/cm<sup>3</sup>
     surface_gravity: 10.454 m/s<sup>2</sup><br />(1.066 g<sub>0</sub>)
     escape_velocity: 12.794 km/s<br />(46,060 km/h)
     rotation_period: 0.877 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 469 K<br />(196 °C)
+    temperature: 568 K<br />(295 °C)
     surface_pressure: 46 kPa<br />(0 atm)
     composition:
       - 79.8797% methane
@@ -59,14 +59,14 @@ planets:
         radius: 2,021.3 km<br/>(0.317 Yrths)
         surface_area: 5.134 × 10<sup>07</sup> km<sup>2</sup><br/>(0.101 Yrths)
         volume: 3.459 × 10<sup>10</sup> km<sup>3</sup><br/>(0.032 Yrths)
-        mass: 9.733 × 10<sup>22</sup> kg<br />(1.6054221087984444 Yrths)
+        mass: 9.733 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 2.814 g/cm<sup>3</sup>
         surface_gravity: 1.588 m/s<sup>2</sup><br />(0.162 g<sub>0</sub>)
         escape_velocity: 2.535 km/s<br />(9,127 km/h)
         rotation_period: 40.146 d
         axial_tilt: 7.77°
         albedo: 0.30
-        temperature: 6323 K<br />(6049 °C)
+        temperature: 392 K<br />(119 °C)
       - name: β Rashalthiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 3,626.7 km<br/>(0.569 Yrths)
         surface_area: 1.653 × 10<sup>08</sup> km<sup>2</sup><br/>(0.324 Yrths)
         volume: 1.998 × 10<sup>11</sup> km<sup>3</sup><br/>(0.184 Yrths)
-        mass: 4.072 × 10<sup>23</sup> kg<br />(1.6054221087984444 Yrths)
+        mass: 4.072 × 10<sup>23</sup> kg<br />(0.068 Yrths)
         density: 2.038 g/cm<sup>3</sup>
         surface_gravity: 2.063 m/s<sup>2</sup><br />(0.210 g<sub>0</sub>)
         escape_velocity: 3.871 km/s<br />(13,936 km/h)
         rotation_period: 66.782 d
         axial_tilt: 21.50°
         albedo: 0.30
-        temperature: 6028 K<br />(5755 °C)
+        temperature: 392 K<br />(119 °C)
   - name: β Rashalthiad II
     type: Large terrestrial
     aphelion: 2,230,404,839 km<br />14.909 AU
@@ -98,15 +98,15 @@ planets:
     radius: 11,276.6 km<br/>(1.770 Yrths)
     surface_area: 1.598 × 10<sup>09</sup> km<sup>2</sup><br/>(3.133 Yrths)
     volume: 6.006 × 10<sup>12</sup> km<sup>3</sup><br/>(5.545 Yrths)
-    mass: 3.973 × 10<sup>25</sup> kg<br />(6.652819095957181 Yrths)
+    mass: 3.973 × 10<sup>25</sup> kg<br />(6.65 Yrths)
     density: 6.615 g/cm<sup>3</sup>
     surface_gravity: 20.825 m/s<sup>2</sup><br />(2.124 g<sub>0</sub>)
     escape_velocity: 21.687 km/s<br />(78,072 km/h)
     rotation_period: 0.539 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 420 K<br />(147 °C)
-    surface_pressure: 3,595 kPa<br />(35 atm)
+    temperature: 503 K<br />(230 °C)
+    surface_pressure: 3,595 kPa<br />(36 atm)
     composition:
       - 86.0957% methane
       - 9.2195% nitrogen
@@ -127,14 +127,14 @@ planets:
         radius: 10,321.4 km<br/>(1.620 Yrths)
         surface_area: 1.339 × 10<sup>09</sup> km<sup>2</sup><br/>(2.625 Yrths)
         volume: 4.606 × 10<sup>12</sup> km<sup>3</sup><br/>(4.252 Yrths)
-        mass: 1.409 × 10<sup>25</sup> kg<br />(6.652819095957181 Yrths)
+        mass: 1.409 × 10<sup>25</sup> kg<br />(2.359 Yrths)
         density: 3.059 g/cm<sup>3</sup>
         surface_gravity: 8.814 m/s<sup>2</sup><br />(0.899 g<sub>0</sub>)
         escape_velocity: 13.498 km/s<br />(48,593 km/h)
         rotation_period: 28.638 d
         axial_tilt: 18.92°
         albedo: 0.30
-        temperature: 3461 K<br />(3188 °C)
+        temperature: 271 K<br />(-2 °C)
       - name: β Rashalthiad II b
         type: Icy
         formationType: Captured
@@ -147,12 +147,12 @@ planets:
         radius: 15,304.2 km<br/>(2.402 Yrths)
         surface_area: 2.943 × 10<sup>09</sup> km<sup>2</sup><br/>(5.770 Yrths)
         volume: 1.501 × 10<sup>13</sup> km<sup>3</sup><br/>(13.861 Yrths)
-        mass: 1.814 × 10<sup>25</sup> kg<br />(6.652819095957181 Yrths)
+        mass: 1.814 × 10<sup>25</sup> kg<br />(3.038 Yrths)
         density: 1.208 g/cm<sup>3</sup>
         surface_gravity: 5.163 m/s<sup>2</sup><br />(0.527 g<sub>0</sub>)
         escape_velocity: 12.580 km/s<br />(45,288 km/h)
         rotation_period: 78.525 d
         axial_tilt: 7.35°
         albedo: 0.30
-        temperature: 3300 K<br />(3027 °C)
+        temperature: 271 K<br />(-2 °C)
 ---

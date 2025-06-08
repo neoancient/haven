@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11 Ruanead is a star in the constellation Ruane
+      11 Ruanead is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 306.31 ly
 apparent_magnitude: 10.23
 absolute_magnitude: 5.37

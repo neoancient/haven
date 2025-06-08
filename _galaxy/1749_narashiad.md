@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1749 Narashiad is a star in the constellation Naras
+      1749 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 544.44 ly
 apparent_magnitude: 10.90
 absolute_magnitude: 4.78

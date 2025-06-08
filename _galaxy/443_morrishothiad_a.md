@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      443 Morrishothiad A is a star in the constellation Morrishoth
+      443 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 359.62 ly
 apparent_magnitude: 6.85
 absolute_magnitude: 1.64

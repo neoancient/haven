@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9867 Tanashad is a star in the constellation Tanas
+      9867 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 422.90 ly
 apparent_magnitude: 9.43
 absolute_magnitude: 3.87

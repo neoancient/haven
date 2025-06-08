@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0055 Lunaiad D is a star in the constellation Luna
+      0055 Lunaiad D is a star in the constellation <a href="luna.html">Luna</a>
 distance: 389.07 ly
 apparent_magnitude: 14.18
 absolute_magnitude: 8.80
@@ -31,14 +31,14 @@ planets:
     radius: 2,780.7 km<br/>(0.436 Yrths)
     surface_area: 9.717 × 10<sup>07</sup> km<sup>2</sup><br/>(0.190 Yrths)
     volume: 9.006 × 10<sup>10</sup> km<sup>3</sup><br/>(0.083 Yrths)
-    mass: 2.175 × 10<sup>25</sup> kg<br />(3.6425830798152252 Yrths)
+    mass: 2.175 × 10<sup>25</sup> kg<br />(3.64 Yrths)
     density: 241.541 g/cm<sup>3</sup>
     surface_gravity: 187.519 m/s<sup>2</sup><br />(19.122 g<sub>0</sub>)
     escape_velocity: 32.315 km/s<br />(116,335 km/h)
     rotation_period: 1.560 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 595 K<br />(322 °C)
+    temperature: 1530 K<br />(1257 °C)
     surface_pressure: 641 kPa<br />(6 atm)
     composition:
       - 83.2772% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 6,529.0 km<br/>(1.025 Yrths)
         surface_area: 5.357 × 10<sup>08</sup> km<sup>2</sup><br/>(1.050 Yrths)
         volume: 1.166 × 10<sup>12</sup> km<sup>3</sup><br/>(1.076 Yrths)
-        mass: 2.977 × 10<sup>24</sup> kg<br />(3.6425830798152252 Yrths)
+        mass: 2.977 × 10<sup>24</sup> kg<br />(0.499 Yrths)
         density: 2.554 g/cm<sup>3</sup>
         surface_gravity: 4.655 m/s<sup>2</sup><br />(0.475 g<sub>0</sub>)
         escape_velocity: 7.802 km/s<br />(28,088 km/h)
         rotation_period: 44.270 d
         axial_tilt: 27.58°
         albedo: 0.30
-        temperature: 5394 K<br />(5121 °C)
+        temperature: 347 K<br />(73 °C)
       - name: 0055 Lunaiad D I b
         type: Rocky
         formationType: Captured
@@ -76,12 +76,12 @@ planets:
         radius: 5,309.6 km<br/>(0.833 Yrths)
         surface_area: 3.543 × 10<sup>08</sup> km<sup>2</sup><br/>(0.695 Yrths)
         volume: 6.270 × 10<sup>11</sup> km<sup>3</sup><br/>(0.579 Yrths)
-        mass: 2.080 × 10<sup>24</sup> kg<br />(3.6425830798152252 Yrths)
+        mass: 2.080 × 10<sup>24</sup> kg<br />(0.348 Yrths)
         density: 3.317 g/cm<sup>3</sup>
         surface_gravity: 4.917 m/s<sup>2</sup><br />(0.501 g<sub>0</sub>)
         escape_velocity: 7.231 km/s<br />(26,031 km/h)
         rotation_period: 38.770 d
         axial_tilt: 8.25°
         albedo: 0.30
-        temperature: 5143 K<br />(4870 °C)
+        temperature: 347 K<br />(73 °C)
 ---

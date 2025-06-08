@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1037 Orshenniad is a star in the constellation Orshen
+      1037 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 1512.89 ly
 apparent_magnitude: 6.73
 absolute_magnitude: -1.60
@@ -31,14 +31,14 @@ planets:
     radius: 37,735.9 km<br/>(5.923 Yrths)
     surface_area: 1.789 × 10<sup>10</sup> km<sup>2</sup><br/>(35.083 Yrths)
     volume: 2.251 × 10<sup>14</sup> km<sup>3</sup><br/>(207.798 Yrths)
-    mass: 2.892 × 10<sup>26</sup> kg<br />(48.42820282135433 Yrths)
+    mass: 2.892 × 10<sup>26</sup> kg<br />(48.43 Yrths)
     density: 1.285 g/cm<sup>3</sup>
     surface_gravity: 13.537 m/s<sup>2</sup><br />(1.380 g<sub>0</sub>)
     escape_velocity: 31.985 km/s<br />(115,147 km/h)
     rotation_period: 0.305 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 892 K<br />(619 °C)
+    temperature: 856 K<br />(582 °C)
     composition:
       - 85.7827% hydrogen
       - 11.0227% methane
@@ -58,14 +58,14 @@ planets:
         radius: 23,327.4 km<br/>(3.662 Yrths)
         surface_area: 6.838 × 10<sup>09</sup> km<sup>2</sup><br/>(13.407 Yrths)
         volume: 5.317 × 10<sup>13</sup> km<sup>3</sup><br/>(49.088 Yrths)
-        mass: 1.351 × 10<sup>26</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 1.351 × 10<sup>26</sup> kg<br />(22.629 Yrths)
         density: 2.542 g/cm<sup>3</sup>
         surface_gravity: 16.552 m/s<sup>2</sup><br />(1.688 g<sub>0</sub>)
         escape_velocity: 27.808 km/s<br />(100,110 km/h)
         rotation_period: 59.120 d
         axial_tilt: 22.51°
         albedo: 0.30
-        temperature: 4121 K<br />(3848 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 25,188.5 km<br/>(3.954 Yrths)
         surface_area: 7.973 × 10<sup>09</sup> km<sup>2</sup><br/>(15.631 Yrths)
         volume: 6.694 × 10<sup>13</sup> km<sup>3</sup><br/>(61.800 Yrths)
-        mass: 1.464 × 10<sup>26</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 1.464 × 10<sup>26</sup> kg<br />(24.516 Yrths)
         density: 2.187 g/cm<sup>3</sup>
         surface_gravity: 15.381 m/s<sup>2</sup><br />(1.568 g<sub>0</sub>)
         escape_velocity: 27.855 km/s<br />(100,276 km/h)
         rotation_period: 42.931 d
         axial_tilt: 27.16°
         albedo: 0.30
-        temperature: 3929 K<br />(3656 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I c
         type: Asteroid
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 19,294.1 km<br/>(3.028 Yrths)
         surface_area: 4.678 × 10<sup>09</sup> km<sup>2</sup><br/>(9.171 Yrths)
         volume: 3.009 × 10<sup>13</sup> km<sup>3</sup><br/>(27.775 Yrths)
-        mass: 1.017 × 10<sup>26</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 1.017 × 10<sup>26</sup> kg<br />(17.031 Yrths)
         density: 3.381 g/cm<sup>3</sup>
         surface_gravity: 18.210 m/s<sup>2</sup><br />(1.857 g<sub>0</sub>)
         escape_velocity: 26.527 km/s<br />(95,496 km/h)
         rotation_period: 31.051 d
         axial_tilt: 14.74°
         albedo: 0.30
-        temperature: 3572 K<br />(3299 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I d
         type: Icy
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 23,132.8 km<br/>(3.631 Yrths)
         surface_area: 6.725 × 10<sup>09</sup> km<sup>2</sup><br/>(13.184 Yrths)
         volume: 5.185 × 10<sup>13</sup> km<sup>3</sup><br/>(47.870 Yrths)
-        mass: 7.328 × 10<sup>25</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 7.328 × 10<sup>25</sup> kg<br />(12.270 Yrths)
         density: 1.413 g/cm<sup>3</sup>
         surface_gravity: 9.127 m/s<sup>2</sup><br />(0.931 g<sub>0</sub>)
         escape_velocity: 20.563 km/s<br />(74,028 km/h)
         rotation_period: 53.925 d
         axial_tilt: 9.87°
         albedo: 0.30
-        temperature: 3406 K<br />(3132 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I e
         type: Icy
         formationType: Accreted
@@ -138,14 +138,14 @@ planets:
         radius: 22,012.6 km<br/>(3.455 Yrths)
         surface_area: 6.089 × 10<sup>09</sup> km<sup>2</sup><br/>(11.938 Yrths)
         volume: 4.468 × 10<sup>13</sup> km<sup>3</sup><br/>(41.247 Yrths)
-        mass: 5.821 × 10<sup>25</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 5.821 × 10<sup>25</sup> kg<br />(9.746 Yrths)
         density: 1.303 g/cm<sup>3</sup>
         surface_gravity: 8.006 m/s<sup>2</sup><br />(0.816 g<sub>0</sub>)
         escape_velocity: 18.787 km/s<br />(67,634 km/h)
         rotation_period: 51.992 d
         axial_tilt: 17.55°
         albedo: 0.30
-        temperature: 3247 K<br />(2974 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -158,14 +158,14 @@ planets:
         radius: 36,196.0 km<br/>(5.681 Yrths)
         surface_area: 1.646 × 10<sup>10</sup> km<sup>2</sup><br/>(32.278 Yrths)
         volume: 1.986 × 10<sup>14</sup> km<sup>3</sup><br/>(183.383 Yrths)
-        mass: 4.911 × 10<sup>26</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 4.911 × 10<sup>26</sup> kg<br />(82.231 Yrths)
         density: 2.472 g/cm<sup>3</sup>
         surface_gravity: 24.983 m/s<sup>2</sup><br />(2.548 g<sub>0</sub>)
         escape_velocity: 42.556 km/s<br />(153,203 km/h)
         rotation_period: 48.268 d
         axial_tilt: 16.41°
         albedo: 0.30
-        temperature: 3096 K<br />(2823 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I g
         type: Icy
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 82,040.9 km<br/>(12.877 Yrths)
         surface_area: 8.458 × 10<sup>10</sup> km<sup>2</sup><br/>(165.823 Yrths)
         volume: 2.313 × 10<sup>15</sup> km<sup>3</sup><br/>(2135.344 Yrths)
-        mass: 1.815 × 10<sup>27</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 1.815 × 10<sup>27</sup> kg<br />(303.927 Yrths)
         density: 0.785 g/cm<sup>3</sup>
         surface_gravity: 17.974 m/s<sup>2</sup><br />(1.833 g<sub>0</sub>)
         escape_velocity: 54.343 km/s<br />(195,636 km/h)
         rotation_period: 75.652 d
         axial_tilt: 14.96°
         albedo: 0.30
-        temperature: 2952 K<br />(2679 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I h
         type: Dwarf planet
         formationType: Captured
@@ -198,14 +198,14 @@ planets:
         radius: 54,462.7 km<br/>(8.549 Yrths)
         surface_area: 3.727 × 10<sup>10</sup> km<sup>2</sup><br/>(73.077 Yrths)
         volume: 6.767 × 10<sup>14</sup> km<sup>3</sup><br/>(624.705 Yrths)
-        mass: 1.060 × 10<sup>27</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 1.060 × 10<sup>27</sup> kg<br />(177.540 Yrths)
         density: 1.567 g/cm<sup>3</sup>
         surface_gravity: 23.825 m/s<sup>2</sup><br />(2.429 g<sub>0</sub>)
         escape_velocity: 50.977 km/s<br />(183,518 km/h)
         rotation_period: 40.197 d
         axial_tilt: 11.41°
         albedo: 0.30
-        temperature: 2815 K<br />(2541 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I i
         type: Asteroid
         formationType: Captured
@@ -218,14 +218,14 @@ planets:
         radius: 22,227.4 km<br/>(3.489 Yrths)
         surface_area: 6.209 × 10<sup>09</sup> km<sup>2</sup><br/>(12.172 Yrths)
         volume: 4.600 × 10<sup>13</sup> km<sup>3</sup><br/>(42.466 Yrths)
-        mass: 1.376 × 10<sup>26</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 1.376 × 10<sup>26</sup> kg<br />(23.043 Yrths)
         density: 2.992 g/cm<sup>3</sup>
         surface_gravity: 18.565 m/s<sup>2</sup><br />(1.893 g<sub>0</sub>)
         escape_velocity: 28.748 km/s<br />(103,492 km/h)
         rotation_period: 50.986 d
         axial_tilt: 25.27°
         albedo: 0.30
-        temperature: 2684 K<br />(2410 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -238,14 +238,14 @@ planets:
         radius: 42,343.8 km<br/>(6.646 Yrths)
         surface_area: 2.253 × 10<sup>10</sup> km<sup>2</sup><br/>(44.174 Yrths)
         volume: 3.180 × 10<sup>14</sup> km<sup>3</sup><br/>(293.593 Yrths)
-        mass: 7.251 × 10<sup>26</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 7.251 × 10<sup>26</sup> kg<br />(121.408 Yrths)
         density: 2.280 g/cm<sup>3</sup>
         surface_gravity: 26.953 m/s<sup>2</sup><br />(2.748 g<sub>0</sub>)
         escape_velocity: 47.809 km/s<br />(172,111 km/h)
         rotation_period: 58.620 d
         axial_tilt: 18.94°
         albedo: 0.30
-        temperature: 2440 K<br />(2166 °C)
+        temperature: 425 K<br />(152 °C)
       - name: 1037 Orshenniad I k
         type: Asteroid
         formationType: Captured
@@ -258,14 +258,14 @@ planets:
         radius: 22,217.4 km<br/>(3.487 Yrths)
         surface_area: 6.203 × 10<sup>09</sup> km<sup>2</sup><br/>(12.161 Yrths)
         volume: 4.594 × 10<sup>13</sup> km<sup>3</sup><br/>(42.409 Yrths)
-        mass: 1.046 × 10<sup>26</sup> kg<br />(48.42820282135433 Yrths)
+        mass: 1.046 × 10<sup>26</sup> kg<br />(17.511 Yrths)
         density: 2.276 g/cm<sup>3</sup>
         surface_gravity: 14.121 m/s<sup>2</sup><br />(1.440 g<sub>0</sub>)
         escape_velocity: 25.066 km/s<br />(90,238 km/h)
         rotation_period: 40.373 d
         axial_tilt: 56.61°
         albedo: 0.30
-        temperature: 2326 K<br />(2053 °C)
+        temperature: 425 K<br />(152 °C)
   - name: 1037 Orshenniad II
     type: Ice giant
     aphelion: 4,584,535,363 km<br />30.645 AU
@@ -277,14 +277,14 @@ planets:
     radius: 31,676.0 km<br/>(4.972 Yrths)
     surface_area: 1.261 × 10<sup>10</sup> km<sup>2</sup><br/>(24.720 Yrths)
     volume: 1.331 × 10<sup>14</sup> km<sup>3</sup><br/>(122.904 Yrths)
-    mass: 1.934 × 10<sup>26</sup> kg<br />(32.37956280306885 Yrths)
+    mass: 1.934 × 10<sup>26</sup> kg<br />(32.38 Yrths)
     density: 1.452 g/cm<sup>3</sup>
     surface_gravity: 12.845 m/s<sup>2</sup><br />(1.310 g<sub>0</sub>)
     escape_velocity: 28.546 km/s<br />(102,766 km/h)
     rotation_period: 0.307 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 608 K<br />(335 °C)
+    temperature: 588 K<br />(314 °C)
     composition:
       - 43.9459% hydrogen
       - 43.4018% helium
@@ -304,14 +304,14 @@ planets:
         radius: 22,009.0 km<br/>(3.455 Yrths)
         surface_area: 6.087 × 10<sup>09</sup> km<sup>2</sup><br/>(11.934 Yrths)
         volume: 4.466 × 10<sup>13</sup> km<sup>3</sup><br/>(41.226 Yrths)
-        mass: 7.145 × 10<sup>25</sup> kg<br />(32.37956280306885 Yrths)
+        mass: 7.145 × 10<sup>25</sup> kg<br />(11.964 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 9.832 m/s<sup>2</sup><br />(1.003 g<sub>0</sub>)
         escape_velocity: 20.817 km/s<br />(74,942 km/h)
         rotation_period: 41.347 d
         axial_tilt: 16.59°
         albedo: 0.30
-        temperature: 2777 K<br />(2503 °C)
+        temperature: 281 K<br />(7 °C)
       - name: 1037 Orshenniad II b
         type: Icy
         formationType: Impact formed
@@ -324,14 +324,14 @@ planets:
         radius: 14,272.0 km<br/>(2.240 Yrths)
         surface_area: 2.560 × 10<sup>09</sup> km<sup>2</sup><br/>(5.018 Yrths)
         volume: 1.218 × 10<sup>13</sup> km<sup>3</sup><br/>(11.242 Yrths)
-        mass: 1.743 × 10<sup>25</sup> kg<br />(32.37956280306885 Yrths)
+        mass: 1.743 × 10<sup>25</sup> kg<br />(2.919 Yrths)
         density: 1.431 g/cm<sup>3</sup>
         surface_gravity: 5.703 m/s<sup>2</sup><br />(0.582 g<sub>0</sub>)
         escape_velocity: 12.768 km/s<br />(45,964 km/h)
         rotation_period: 54.299 d
         axial_tilt: 27.40°
         albedo: 0.30
-        temperature: 2647 K<br />(2374 °C)
+        temperature: 281 K<br />(7 °C)
       - name: 1037 Orshenniad II c
         type: Ice/rock hybrid
         formationType: Captured
@@ -344,14 +344,14 @@ planets:
         radius: 23,103.3 km<br/>(3.626 Yrths)
         surface_area: 6.707 × 10<sup>09</sup> km<sup>2</sup><br/>(13.150 Yrths)
         volume: 5.165 × 10<sup>13</sup> km<sup>3</sup><br/>(47.687 Yrths)
-        mass: 1.010 × 10<sup>26</sup> kg<br />(32.37956280306885 Yrths)
+        mass: 1.010 × 10<sup>26</sup> kg<br />(16.907 Yrths)
         density: 1.955 g/cm<sup>3</sup>
         surface_gravity: 12.609 m/s<sup>2</sup><br />(1.286 g<sub>0</sub>)
         escape_velocity: 24.153 km/s<br />(86,952 km/h)
         rotation_period: 51.604 d
         axial_tilt: 25.23°
         albedo: 0.30
-        temperature: 2524 K<br />(2251 °C)
+        temperature: 281 K<br />(7 °C)
       - name: 1037 Orshenniad II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -364,15 +364,35 @@ planets:
         radius: 14,144.1 km<br/>(2.220 Yrths)
         surface_area: 2.514 × 10<sup>09</sup> km<sup>2</sup><br/>(4.929 Yrths)
         volume: 1.185 × 10<sup>13</sup> km<sup>3</sup><br/>(10.942 Yrths)
-        mass: 2.655 × 10<sup>25</sup> kg<br />(32.37956280306885 Yrths)
+        mass: 2.655 × 10<sup>25</sup> kg<br />(4.445 Yrths)
         density: 2.240 g/cm<sup>3</sup>
         surface_gravity: 8.844 m/s<sup>2</sup><br />(0.902 g<sub>0</sub>)
         escape_velocity: 15.828 km/s<br />(56,981 km/h)
         rotation_period: 46.980 d
         axial_tilt: 17.68°
         albedo: 0.30
-        temperature: 2407 K<br />(2134 °C)
+        temperature: 281 K<br />(7 °C)
       - name: 1037 Orshenniad II e
+        type: Icy
+        formationType: Captured
+        aphelion: 42,111,290 km<br />
+        perihelion: 39,621,180 km<br />
+        semi_major_axis: 40,866,235 km<br />
+        eccentricity: 0.030
+        orbital_period: 0.79 d<br />
+        inclination: 6.80°
+        radius: 10,283.0 km<br/>(1.614 Yrths)
+        surface_area: 1.329 × 10<sup>09</sup> km<sup>2</sup><br/>(2.605 Yrths)
+        volume: 4.555 × 10<sup>12</sup> km<sup>3</sup><br/>(4.205 Yrths)
+        mass: 7.419 × 10<sup>24</sup> kg<br />(1.242 Yrths)
+        density: 1.629 g/cm<sup>3</sup>
+        surface_gravity: 4.676 m/s<sup>2</sup><br />(0.477 g<sub>0</sub>)
+        escape_velocity: 9.814 km/s<br />(35,329 km/h)
+        rotation_period: 39.650 d
+        axial_tilt: 25.23°
+        albedo: 0.30
+        temperature: 281 K<br />(7 °C)
+      - name: 1037 Orshenniad II f
         type: Icy
         formationType: Captured
         aphelion: 47,544,754 km<br />
@@ -384,15 +404,15 @@ planets:
         radius: 53,387.3 km<br/>(8.380 Yrths)
         surface_area: 3.582 × 10<sup>10</sup> km<sup>2</sup><br/>(70.220 Yrths)
         volume: 6.374 × 10<sup>14</sup> km<sup>3</sup><br/>(588.427 Yrths)
-        mass: 6.277 × 10<sup>26</sup> kg<br />(32.37956280306885 Yrths)
+        mass: 6.277 × 10<sup>26</sup> kg<br />(105.114 Yrths)
         density: 0.985 g/cm<sup>3</sup>
         surface_gravity: 14.680 m/s<sup>2</sup><br />(1.497 g<sub>0</sub>)
         escape_velocity: 39.618 km/s<br />(142,624 km/h)
         rotation_period: 59.906 d
         axial_tilt: 11.34°
         albedo: 0.30
-        temperature: 2188 K<br />(1915 °C)
-      - name: 1037 Orshenniad II f
+        temperature: 281 K<br />(7 °C)
+      - name: 1037 Orshenniad II g
         type: Dwarf planet
         formationType: Accreted
         aphelion: 54,011,540 km<br />
@@ -404,14 +424,14 @@ planets:
         radius: 48,038.7 km<br/>(7.540 Yrths)
         surface_area: 2.900 × 10<sup>10</sup> km<sup>2</sup><br/>(56.855 Yrths)
         volume: 4.644 × 10<sup>14</sup> km<sup>3</sup><br/>(428.698 Yrths)
-        mass: 5.572 × 10<sup>26</sup> kg<br />(32.37956280306885 Yrths)
+        mass: 5.572 × 10<sup>26</sup> kg<br />(93.309 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 16.094 m/s<sup>2</sup><br />(1.641 g<sub>0</sub>)
         escape_velocity: 39.350 km/s<br />(141,660 km/h)
         rotation_period: 53.598 d
         axial_tilt: 43.73°
         albedo: 0.30
-        temperature: 2086 K<br />(1813 °C)
+        temperature: 281 K<br />(7 °C)
   - name: 1037 Orshenniad III
     type: Ice giant
     aphelion: 10,517,837,532 km<br />70.306 AU
@@ -423,14 +443,14 @@ planets:
     radius: 38,167.9 km<br/>(5.991 Yrths)
     surface_area: 1.831 × 10<sup>10</sup> km<sup>2</sup><br/>(35.891 Yrths)
     volume: 2.329 × 10<sup>14</sup> km<sup>3</sup><br/>(215.016 Yrths)
-    mass: 2.983 × 10<sup>26</sup> kg<br />(49.953500527934715 Yrths)
+    mass: 2.983 × 10<sup>26</sup> kg<br />(49.95 Yrths)
     density: 1.281 g/cm<sup>3</sup>
     surface_gravity: 13.649 m/s<sup>2</sup><br />(1.392 g<sub>0</sub>)
     escape_velocity: 32.301 km/s<br />(116,282 km/h)
     rotation_period: 0.282 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 399 K<br />(126 °C)
+    temperature: 372 K<br />(99 °C)
     composition:
       - 73.1353% hydrogen
       - 21.5236% helium
@@ -452,14 +472,14 @@ planets:
         radius: 67,482.6 km<br/>(10.592 Yrths)
         surface_area: 5.723 × 10<sup>10</sup> km<sup>2</sup><br/>(112.194 Yrths)
         volume: 1.287 × 10<sup>15</sup> km<sup>3</sup><br/>(1188.375 Yrths)
-        mass: 1.528 × 10<sup>27</sup> kg<br />(49.953500527934715 Yrths)
+        mass: 1.528 × 10<sup>27</sup> kg<br />(255.805 Yrths)
         density: 1.187 g/cm<sup>3</sup>
         surface_gravity: 22.359 m/s<sup>2</sup><br />(2.280 g<sub>0</sub>)
         escape_velocity: 54.971 km/s<br />(197,897 km/h)
         rotation_period: 54.111 d
         axial_tilt: 8.77°
         albedo: 0.30
-        temperature: 1782 K<br />(1509 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: 1037 Orshenniad III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -472,14 +492,14 @@ planets:
         radius: 46,513.9 km<br/>(7.301 Yrths)
         surface_area: 2.719 × 10<sup>10</sup> km<sup>2</sup><br/>(53.303 Yrths)
         volume: 4.215 × 10<sup>14</sup> km<sup>3</sup><br/>(389.158 Yrths)
-        mass: 7.568 × 10<sup>26</sup> kg<br />(49.953500527934715 Yrths)
+        mass: 7.568 × 10<sup>26</sup> kg<br />(126.727 Yrths)
         density: 1.795 g/cm<sup>3</sup>
         surface_gravity: 23.315 m/s<sup>2</sup><br />(2.377 g<sub>0</sub>)
         escape_velocity: 46.604 km/s<br />(167,773 km/h)
         rotation_period: 41.402 d
         axial_tilt: 18.39°
         albedo: 0.30
-        temperature: 1699 K<br />(1426 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: 1037 Orshenniad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -492,14 +512,14 @@ planets:
         radius: 47,985.8 km<br/>(7.532 Yrths)
         surface_area: 2.894 × 10<sup>10</sup> km<sup>2</sup><br/>(56.730 Yrths)
         volume: 4.628 × 10<sup>14</sup> km<sup>3</sup><br/>(427.282 Yrths)
-        mass: 1.240 × 10<sup>27</sup> kg<br />(49.953500527934715 Yrths)
+        mass: 1.240 × 10<sup>27</sup> kg<br />(207.673 Yrths)
         density: 2.680 g/cm<sup>3</sup>
         surface_gravity: 35.900 m/s<sup>2</sup><br />(3.661 g<sub>0</sub>)
         escape_velocity: 58.737 km/s<br />(211,453 km/h)
         rotation_period: 37.783 d
         axial_tilt: 30.84°
         albedo: 0.30
-        temperature: 1620 K<br />(1347 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: 1037 Orshenniad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -512,14 +532,14 @@ planets:
         radius: 44,584.8 km<br/>(6.998 Yrths)
         surface_area: 2.498 × 10<sup>10</sup> km<sup>2</sup><br/>(48.973 Yrths)
         volume: 3.712 × 10<sup>14</sup> km<sup>3</sup><br/>(342.718 Yrths)
-        mass: 7.619 × 10<sup>26</sup> kg<br />(49.953500527934715 Yrths)
+        mass: 7.619 × 10<sup>26</sup> kg<br />(127.577 Yrths)
         density: 2.052 g/cm<sup>3</sup>
         surface_gravity: 25.547 m/s<sup>2</sup><br />(2.605 g<sub>0</sub>)
         escape_velocity: 47.761 km/s<br />(171,938 km/h)
         rotation_period: 57.977 d
         axial_tilt: 23.75°
         albedo: 0.30
-        temperature: 1545 K<br />(1271 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: 1037 Orshenniad III e
         type: Asteroid
         formationType: Captured
@@ -532,14 +552,14 @@ planets:
         radius: 66,330.6 km<br/>(10.411 Yrths)
         surface_area: 5.529 × 10<sup>10</sup> km<sup>2</sup><br/>(108.396 Yrths)
         volume: 1.222 × 10<sup>15</sup> km<sup>3</sup><br/>(1128.548 Yrths)
-        mass: 3.435 × 10<sup>27</sup> kg<br />(49.953500527934715 Yrths)
+        mass: 3.435 × 10<sup>27</sup> kg<br />(575.184 Yrths)
         density: 2.810 g/cm<sup>3</sup>
         surface_gravity: 52.037 m/s<sup>2</sup><br />(5.306 g<sub>0</sub>)
         escape_velocity: 83.143 km/s<br />(299,314 km/h)
         rotation_period: 46.956 d
         axial_tilt: 29.50°
         albedo: 0.30
-        temperature: 1473 K<br />(1200 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: 1037 Orshenniad III f
         type: Asteroid
         formationType: Captured
@@ -552,14 +572,14 @@ planets:
         radius: 46,135.4 km<br/>(7.241 Yrths)
         surface_area: 2.675 × 10<sup>10</sup> km<sup>2</sup><br/>(52.439 Yrths)
         volume: 4.113 × 10<sup>14</sup> km<sup>3</sup><br/>(379.735 Yrths)
-        mass: 5.347 × 10<sup>26</sup> kg<br />(49.953500527934715 Yrths)
+        mass: 5.347 × 10<sup>26</sup> kg<br />(89.540 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 16.745 m/s<sup>2</sup><br />(1.708 g<sub>0</sub>)
         escape_velocity: 39.334 km/s<br />(141,603 km/h)
         rotation_period: 71.281 d
         axial_tilt: 31.05°
         albedo: 0.30
-        temperature: 1339 K<br />(1066 °C)
+        temperature: 185 K<br />(-88 °C)
       - name: 1037 Orshenniad III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -572,14 +592,14 @@ planets:
         radius: 37,619.9 km<br/>(5.905 Yrths)
         surface_area: 1.778 × 10<sup>10</sup> km<sup>2</sup><br/>(34.868 Yrths)
         volume: 2.230 × 10<sup>14</sup> km<sup>3</sup><br/>(205.888 Yrths)
-        mass: 5.197 × 10<sup>26</sup> kg<br />(49.953500527934715 Yrths)
+        mass: 5.197 × 10<sup>26</sup> kg<br />(87.026 Yrths)
         density: 2.330 g/cm<sup>3</sup>
         surface_gravity: 24.477 m/s<sup>2</sup><br />(2.496 g<sub>0</sub>)
         escape_velocity: 42.943 km/s<br />(154,596 km/h)
         rotation_period: 35.018 d
         axial_tilt: 33.50°
         albedo: 0.30
-        temperature: 1277 K<br />(1003 °C)
+        temperature: 185 K<br />(-88 °C)
   - name: 1037 Orshenniad IV
     type: Gas giant
     aphelion: 21,741,132,477 km<br />145.328 AU
@@ -591,14 +611,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.337 g/cm<sup>3</sup>
     surface_gravity: 31873.846 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 457 K<br />(184 °C)
+    temperature: 441 K<br />(168 °C)
     composition:
       - 74.4754% hydrogen
       - 18.6760% helium
@@ -616,14 +636,14 @@ planets:
         radius: 980.9 km<br/>(0.154 Yrths)
         surface_area: 1.209 × 10<sup>07</sup> km<sup>2</sup><br/>(0.024 Yrths)
         volume: 3.954 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 9.776 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.776 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 2.472 g/cm<sup>3</sup>
         surface_gravity: 0.677 m/s<sup>2</sup><br />(0.069 g<sub>0</sub>)
         escape_velocity: 1.153 km/s<br />(4,152 km/h)
         rotation_period: 40.128 d
         axial_tilt: 17.48°
         albedo: 0.30
-        temperature: 3160 K<br />(2887 °C)
+        temperature: 122 K<br />(-151 °C)
       - name: 1037 Orshenniad IV b
         type: Icy
         formationType: Impact formed
@@ -636,14 +656,14 @@ planets:
         radius: 1,220.0 km<br/>(0.191 Yrths)
         surface_area: 1.870 × 10<sup>07</sup> km<sup>2</sup><br/>(0.037 Yrths)
         volume: 7.605 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.422 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.422 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.870 g/cm<sup>3</sup>
         surface_gravity: 0.637 m/s<sup>2</sup><br />(0.065 g<sub>0</sub>)
         escape_velocity: 1.247 km/s<br />(4,491 km/h)
         rotation_period: 62.933 d
         axial_tilt: 16.70°
         albedo: 0.30
-        temperature: 3013 K<br />(2740 °C)
+        temperature: 122 K<br />(-151 °C)
       - name: 1037 Orshenniad IV c
         type: Icy
         formationType: Impact formed
@@ -656,14 +676,14 @@ planets:
         radius: 1,727.2 km<br/>(0.271 Yrths)
         surface_area: 3.749 × 10<sup>07</sup> km<sup>2</sup><br/>(0.073 Yrths)
         volume: 2.158 × 10<sup>10</sup> km<sup>3</sup><br/>(0.020 Yrths)
-        mass: 3.537 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 3.537 × 10<sup>22</sup> kg<br />(0.006 Yrths)
         density: 1.639 g/cm<sup>3</sup>
         surface_gravity: 0.790 m/s<sup>2</sup><br />(0.081 g<sub>0</sub>)
         escape_velocity: 1.653 km/s<br />(5,952 km/h)
         rotation_period: 68.810 d
         axial_tilt: 21.75°
         albedo: 0.30
-        temperature: 2490 K<br />(2217 °C)
+        temperature: 122 K<br />(-151 °C)
       - name: 1037 Orshenniad IV d
         type: Asteroid
         formationType: Captured
@@ -676,14 +696,14 @@ planets:
         radius: 1,300.1 km<br/>(0.204 Yrths)
         surface_area: 2.124 × 10<sup>07</sup> km<sup>2</sup><br/>(0.042 Yrths)
         volume: 9.205 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 2.443 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 2.443 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.654 g/cm<sup>3</sup>
         surface_gravity: 0.963 m/s<sup>2</sup><br />(0.098 g<sub>0</sub>)
         escape_velocity: 1.584 km/s<br />(5,701 km/h)
         rotation_period: 38.859 d
         axial_tilt: 20.98°
         albedo: 0.30
-        temperature: 1871 K<br />(1598 °C)
+        temperature: 122 K<br />(-151 °C)
       - name: 1037 Orshenniad IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -696,14 +716,14 @@ planets:
         radius: 1,053.5 km<br/>(0.165 Yrths)
         surface_area: 1.395 × 10<sup>07</sup> km<sup>2</sup><br/>(0.027 Yrths)
         volume: 4.898 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 9.242 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.242 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 1.887 g/cm<sup>3</sup>
         surface_gravity: 0.555 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 1.082 km/s<br />(3,896 km/h)
         rotation_period: 45.480 d
         axial_tilt: 17.96°
         albedo: 0.30
-        temperature: 1474 K<br />(1201 °C)
+        temperature: 122 K<br />(-151 °C)
   - name: 1037 Orshenniad V
     type: Ice giant
     aphelion: 48,318,143,486 km<br />322.982 AU
@@ -715,14 +735,14 @@ planets:
     radius: 35,584.0 km<br/>(5.585 Yrths)
     surface_area: 1.591 × 10<sup>10</sup> km<sup>2</sup><br/>(31.196 Yrths)
     volume: 1.887 × 10<sup>14</sup> km<sup>3</sup><br/>(174.237 Yrths)
-    mass: 2.845 × 10<sup>26</sup> kg<br />(47.631551382549276 Yrths)
+    mass: 2.845 × 10<sup>26</sup> kg<br />(47.63 Yrths)
     density: 1.507 g/cm<sup>3</sup>
     surface_gravity: 14.973 m/s<sup>2</sup><br />(1.527 g<sub>0</sub>)
     escape_velocity: 32.666 km/s<br />(117,598 km/h)
     rotation_period: 0.281 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 179 K<br />(-95 °C)
+    temperature: 166 K<br />(-107 °C)
     composition:
       - 73.7933% hydrogen
       - 22.7937% helium
@@ -740,14 +760,14 @@ planets:
         radius: 45,894.8 km<br/>(7.204 Yrths)
         surface_area: 2.647 × 10<sup>10</sup> km<sup>2</sup><br/>(51.893 Yrths)
         volume: 4.049 × 10<sup>14</sup> km<sup>3</sup><br/>(373.825 Yrths)
-        mass: 9.934 × 10<sup>26</sup> kg<br />(47.631551382549276 Yrths)
+        mass: 9.934 × 10<sup>26</sup> kg<br />(166.346 Yrths)
         density: 2.453 g/cm<sup>3</sup>
         surface_gravity: 31.435 m/s<sup>2</sup><br />(3.206 g<sub>0</sub>)
         escape_velocity: 53.753 km/s<br />(193,510 km/h)
         rotation_period: 43.633 d
         axial_tilt: 27.63°
         albedo: 0.30
-        temperature: 783 K<br />(510 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 1037 Orshenniad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -760,14 +780,14 @@ planets:
         radius: 52,117.0 km<br/>(8.180 Yrths)
         surface_area: 3.413 × 10<sup>10</sup> km<sup>2</sup><br/>(66.918 Yrths)
         volume: 5.930 × 10<sup>14</sup> km<sup>3</sup><br/>(547.414 Yrths)
-        mass: 1.437 × 10<sup>27</sup> kg<br />(47.631551382549276 Yrths)
+        mass: 1.437 × 10<sup>27</sup> kg<br />(240.653 Yrths)
         density: 2.424 g/cm<sup>3</sup>
         surface_gravity: 35.267 m/s<sup>2</sup><br />(3.596 g<sub>0</sub>)
         escape_velocity: 60.671 km/s<br />(218,417 km/h)
         rotation_period: 51.918 d
         axial_tilt: 23.32°
         albedo: 0.30
-        temperature: 747 K<br />(473 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 1037 Orshenniad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -780,14 +800,14 @@ planets:
         radius: 27,367.5 km<br/>(4.296 Yrths)
         surface_area: 9.412 × 10<sup>09</sup> km<sup>2</sup><br/>(18.453 Yrths)
         volume: 8.586 × 10<sup>13</sup> km<sup>3</sup><br/>(79.266 Yrths)
-        mass: 1.728 × 10<sup>26</sup> kg<br />(47.631551382549276 Yrths)
+        mass: 1.728 × 10<sup>26</sup> kg<br />(28.940 Yrths)
         density: 2.013 g/cm<sup>3</sup>
         surface_gravity: 15.380 m/s<sup>2</sup><br />(1.568 g<sub>0</sub>)
         escape_velocity: 29.034 km/s<br />(104,522 km/h)
         rotation_period: 51.080 d
         axial_tilt: 21.66°
         albedo: 0.30
-        temperature: 712 K<br />(439 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 1037 Orshenniad V d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -800,12 +820,12 @@ planets:
         radius: 31,847.4 km<br/>(4.999 Yrths)
         surface_area: 1.275 × 10<sup>10</sup> km<sup>2</sup><br/>(24.988 Yrths)
         volume: 1.353 × 10<sup>14</sup> km<sup>3</sup><br/>(124.910 Yrths)
-        mass: 3.362 × 10<sup>26</sup> kg<br />(47.631551382549276 Yrths)
+        mass: 3.362 × 10<sup>26</sup> kg<br />(56.299 Yrths)
         density: 2.485 g/cm<sup>3</sup>
         surface_gravity: 22.095 m/s<sup>2</sup><br />(2.253 g<sub>0</sub>)
         escape_velocity: 37.540 km/s<br />(135,143 km/h)
         rotation_period: 33.259 d
         axial_tilt: 16.74°
         albedo: 0.30
-        temperature: 679 K<br />(406 °C)
+        temperature: 81 K<br />(-192 °C)
 ---

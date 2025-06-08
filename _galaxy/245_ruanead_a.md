@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      245 Ruanead A is a star in the constellation Ruane
+      245 Ruanead A is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 294.45 ly
 apparent_magnitude: 7.12
 absolute_magnitude: 2.34

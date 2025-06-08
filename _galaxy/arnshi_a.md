@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Arnshi A is a star in the constellation Niunio
+      Arnshi A is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 271.53 ly
 apparent_magnitude: 2.04
 absolute_magnitude: -2.56

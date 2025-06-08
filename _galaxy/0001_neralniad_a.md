@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0001 Neralniad A is a star in the constellation Neraln
+      0001 Neralniad A is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 444.09 ly
 apparent_magnitude: 5.12
 absolute_magnitude: -0.55

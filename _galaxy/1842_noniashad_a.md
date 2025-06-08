@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1842 Noniashad A is a star in the constellation Nonias
+      1842 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 449.20 ly
 apparent_magnitude: 8.10
 absolute_magnitude: 2.40

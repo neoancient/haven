@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0136 Geardiad B is a star in the constellation Geard
+      0136 Geardiad B is a star in the constellation <a href="geard.html">Geard</a>
 distance: 173.98 ly
 apparent_magnitude: 8.08
 absolute_magnitude: 4.44

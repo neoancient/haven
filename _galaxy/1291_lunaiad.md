@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1291 Lunaiad is a star in the constellation Luna
+      1291 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 789.44 ly
 apparent_magnitude: 11.56
 absolute_magnitude: 4.64

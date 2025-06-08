@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      934 Narashiad is a star in the constellation Naras
+      934 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 410.10 ly
 apparent_magnitude: 10.46
 absolute_magnitude: 4.96

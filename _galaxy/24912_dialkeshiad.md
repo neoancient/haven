@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      24912 Dialkeshiad is a star in the constellation Dialkes
+      24912 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 572.03 ly
 apparent_magnitude: 11.39
 absolute_magnitude: 5.17

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5150 Dialkeshiad A is a star in the constellation Dialkes
+      5150 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 757.61 ly
 apparent_magnitude: 6.64
 absolute_magnitude: -0.19

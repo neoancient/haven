@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      187 Ratharshinniad is a star in the constellation Ratharshin
+      187 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 338.70 ly
 apparent_magnitude: 11.51
 absolute_magnitude: 6.43

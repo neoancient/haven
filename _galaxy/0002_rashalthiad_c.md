@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Rashalthiad C is a star in the constellation Rashalth
+      0002 Rashalthiad C is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 221.70 ly
 apparent_magnitude: 9.58
 absolute_magnitude: 5.42
@@ -31,14 +31,14 @@ planets:
     radius: 8,461.6 km<br/>(1.328 Yrths)
     surface_area: 8.997 × 10<sup>08</sup> km<sup>2</sup><br/>(1.764 Yrths)
     volume: 2.538 × 10<sup>12</sup> km<sup>3</sup><br/>(2.343 Yrths)
-    mass: 2.676 × 10<sup>25</sup> kg<br />(4.480335955067844 Yrths)
+    mass: 2.676 × 10<sup>25</sup> kg<br />(4.48 Yrths)
     density: 10.543 g/cm<sup>3</sup>
     surface_gravity: 24.908 m/s<sup>2</sup><br />(2.540 g<sub>0</sub>)
     escape_velocity: 20.545 km/s<br />(73,962 km/h)
     rotation_period: 1.352 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 497 K<br />(224 °C)
+    temperature: 1169 K<br />(896 °C)
     surface_pressure: 176 kPa<br />(2 atm)
     composition:
       - 70.5661% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 5,695.3 km<br/>(0.894 Yrths)
         surface_area: 4.076 × 10<sup>08</sup> km<sup>2</sup><br/>(0.799 Yrths)
         volume: 7.738 × 10<sup>11</sup> km<sup>3</sup><br/>(0.714 Yrths)
-        mass: 2.156 × 10<sup>24</sup> kg<br />(4.480335955067844 Yrths)
+        mass: 2.156 × 10<sup>24</sup> kg<br />(0.361 Yrths)
         density: 2.786 g/cm<sup>3</sup>
         surface_gravity: 4.430 m/s<sup>2</sup><br />(0.452 g<sub>0</sub>)
         escape_velocity: 7.108 km/s<br />(25,589 km/h)
         rotation_period: 41.210 d
         axial_tilt: 20.27°
         albedo: 0.30
-        temperature: 4357 K<br />(4084 °C)
+        temperature: 327 K<br />(54 °C)
       - name: 0002 Rashalthiad C I b
         type: Rocky
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 4,880.6 km<br/>(0.766 Yrths)
         surface_area: 2.993 × 10<sup>08</sup> km<sup>2</sup><br/>(0.587 Yrths)
         volume: 4.870 × 10<sup>11</sup> km<sup>3</sup><br/>(0.450 Yrths)
-        mass: 1.250 × 10<sup>24</sup> kg<br />(4.480335955067844 Yrths)
+        mass: 1.250 × 10<sup>24</sup> kg<br />(0.209 Yrths)
         density: 2.568 g/cm<sup>3</sup>
         surface_gravity: 3.499 m/s<sup>2</sup><br />(0.357 g<sub>0</sub>)
         escape_velocity: 5.848 km/s<br />(21,054 km/h)
         rotation_period: 60.666 d
         axial_tilt: 21.19°
         albedo: 0.30
-        temperature: 4155 K<br />(3882 °C)
+        temperature: 327 K<br />(54 °C)
   - name: 0002 Rashalthiad C II
     type: Large terrestrial
     aphelion: 124,653,785 km<br />0.833 AU
@@ -97,14 +97,14 @@ planets:
     radius: 2,748.2 km<br/>(0.431 Yrths)
     surface_area: 9.491 × 10<sup>07</sup> km<sup>2</sup><br/>(0.186 Yrths)
     volume: 8.695 × 10<sup>10</sup> km<sup>3</sup><br/>(0.080 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 6.869 g/cm<sup>3</sup>
     surface_gravity: 5.270 m/s<sup>2</sup><br />(0.537 g<sub>0</sub>)
     escape_velocity: 5.386 km/s<br />(19,389 km/h)
     rotation_period: 2.843 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 307 K<br />(34 °C)
+    temperature: 266 K<br />(-7 °C)
     surface_pressure: 163 kPa<br />(2 atm)
     composition:
       - 99.3917% nitrogen
@@ -122,14 +122,14 @@ planets:
         radius: 505.8 km<br/>(0.079 Yrths)
         surface_area: 3.215 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.422 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.804 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.804 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.327 g/cm<sup>3</sup>
         surface_gravity: 0.470 m/s<sup>2</sup><br />(0.048 g<sub>0</sub>)
         escape_velocity: 0.690 km/s<br />(2,484 km/h)
         rotation_period: 31.037 d
         axial_tilt: 11.01°
         albedo: 0.30
-        temperature: 5094 K<br />(4821 °C)
+        temperature: 250 K<br />(-23 °C)
       - name: 0002 Rashalthiad C II b
         type: Rocky
         formationType: Captured
@@ -142,14 +142,14 @@ planets:
         radius: 269.0 km<br/>(0.042 Yrths)
         surface_area: 9.096 × 10<sup>05</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 8.157 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.568 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.568 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 3.148 g/cm<sup>3</sup>
         surface_gravity: 0.236 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.357 km/s<br />(1,285 km/h)
         rotation_period: 37.013 d
         axial_tilt: 20.66°
         albedo: 0.30
-        temperature: 4857 K<br />(4584 °C)
+        temperature: 250 K<br />(-23 °C)
   - name: 0002 Rashalthiad C III
     type: Gas dwarf
     aphelion: 218,487,915 km<br />1.460 AU
@@ -161,14 +161,14 @@ planets:
     radius: 17,099.7 km<br/>(2.684 Yrths)
     surface_area: 3.674 × 10<sup>09</sup> km<sup>2</sup><br/>(7.204 Yrths)
     volume: 2.094 × 10<sup>13</sup> km<sup>3</sup><br/>(19.335 Yrths)
-    mass: 3.932 × 10<sup>25</sup> kg<br />(6.58482712785488 Yrths)
+    mass: 3.932 × 10<sup>25</sup> kg<br />(6.58 Yrths)
     density: 1.878 g/cm<sup>3</sup>
     surface_gravity: 8.964 m/s<sup>2</sup><br />(0.914 g<sub>0</sub>)
     escape_velocity: 17.521 km/s<br />(63,075 km/h)
     rotation_period: 0.743 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 264 K<br />(-9 °C)
+    temperature: 241 K<br />(-32 °C)
     composition:
       - 78.1494% hydrogen
       - 19.0781% helium
@@ -187,14 +187,14 @@ planets:
         radius: 12,309.6 km<br/>(1.932 Yrths)
         surface_area: 1.904 × 10<sup>09</sup> km<sup>2</sup><br/>(3.733 Yrths)
         volume: 7.813 × 10<sup>12</sup> km<sup>3</sup><br/>(7.213 Yrths)
-        mass: 1.734 × 10<sup>25</sup> kg<br />(6.58482712785488 Yrths)
+        mass: 1.734 × 10<sup>25</sup> kg<br />(2.903 Yrths)
         density: 2.219 g/cm<sup>3</sup>
         surface_gravity: 7.625 m/s<sup>2</sup><br />(0.778 g<sub>0</sub>)
         escape_velocity: 13.711 km/s<br />(49,359 km/h)
         rotation_period: 61.224 d
         axial_tilt: 26.46°
         albedo: 0.30
-        temperature: 1861 K<br />(1588 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0002 Rashalthiad C III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -207,14 +207,14 @@ planets:
         radius: 8,064.9 km<br/>(1.266 Yrths)
         surface_area: 8.174 × 10<sup>08</sup> km<sup>2</sup><br/>(1.602 Yrths)
         volume: 2.197 × 10<sup>12</sup> km<sup>3</sup><br/>(2.029 Yrths)
-        mass: 5.258 × 10<sup>24</sup> kg<br />(6.58482712785488 Yrths)
+        mass: 5.258 × 10<sup>24</sup> kg<br />(0.880 Yrths)
         density: 2.393 g/cm<sup>3</sup>
         surface_gravity: 5.388 m/s<sup>2</sup><br />(0.549 g<sub>0</sub>)
         escape_velocity: 9.329 km/s<br />(33,584 km/h)
         rotation_period: 61.690 d
         axial_tilt: 23.51°
         albedo: 0.30
-        temperature: 1774 K<br />(1501 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0002 Rashalthiad C III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -227,14 +227,14 @@ planets:
         radius: 7,835.7 km<br/>(1.230 Yrths)
         surface_area: 7.716 × 10<sup>08</sup> km<sup>2</sup><br/>(1.513 Yrths)
         volume: 2.015 × 10<sup>12</sup> km<sup>3</sup><br/>(1.860 Yrths)
-        mass: 4.380 × 10<sup>24</sup> kg<br />(6.58482712785488 Yrths)
+        mass: 4.380 × 10<sup>24</sup> kg<br />(0.733 Yrths)
         density: 2.173 g/cm<sup>3</sup>
         surface_gravity: 4.754 m/s<sup>2</sup><br />(0.485 g<sub>0</sub>)
         escape_velocity: 8.638 km/s<br />(31,096 km/h)
         rotation_period: 34.551 d
         axial_tilt: 31.83°
         albedo: 0.30
-        temperature: 1692 K<br />(1419 °C)
+        temperature: 192 K<br />(-81 °C)
       - name: 0002 Rashalthiad C III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -247,14 +247,14 @@ planets:
         radius: 8,011.4 km<br/>(1.257 Yrths)
         surface_area: 8.065 × 10<sup>08</sup> km<sup>2</sup><br/>(1.581 Yrths)
         volume: 2.154 × 10<sup>12</sup> km<sup>3</sup><br/>(1.988 Yrths)
-        mass: 3.899 × 10<sup>24</sup> kg<br />(6.58482712785488 Yrths)
+        mass: 3.899 × 10<sup>24</sup> kg<br />(0.653 Yrths)
         density: 1.810 g/cm<sup>3</sup>
         surface_gravity: 4.049 m/s<sup>2</sup><br />(0.413 g<sub>0</sub>)
         escape_velocity: 8.060 km/s<br />(29,017 km/h)
         rotation_period: 57.991 d
         axial_tilt: 21.59°
         albedo: 0.30
-        temperature: 1613 K<br />(1340 °C)
+        temperature: 192 K<br />(-81 °C)
   - name: 0002 Rashalthiad C IV
     type: Gas giant
     aphelion: 362,239,701 km<br />2.421 AU
@@ -266,7 +266,7 @@ planets:
     radius: 181.6 km<br/>(0.028 Yrths)
     surface_area: 4.143 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.507 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 6.759 × 10<sup>26</sup> kg<br />(113.17749447270205 Yrths)
+    mass: 6.759 × 10<sup>26</sup> kg<br />(113.18 Yrths)
     density: 26955479.771 g/cm<sup>3</sup>
     surface_gravity: 1366469.141 m/s<sup>2</sup><br />(139341.074 g<sub>0</sub>)
     escape_velocity: 704.910 km/s<br />(2,537,677 km/h)
@@ -287,14 +287,14 @@ planets:
         radius: 72,350.1 km<br/>(11.356 Yrths)
         surface_area: 6.578 × 10<sup>10</sup> km<sup>2</sup><br/>(128.963 Yrths)
         volume: 1.586 × 10<sup>15</sup> km<sup>3</sup><br/>(1464.521 Yrths)
-        mass: 2.442 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 2.442 × 10<sup>27</sup> kg<br />(408.938 Yrths)
         density: 1.539 g/cm<sup>3</sup>
         surface_gravity: 31.097 m/s<sup>2</sup><br />(3.171 g<sub>0</sub>)
         escape_velocity: 67.125 km/s<br />(241,652 km/h)
         rotation_period: 62.503 d
         axial_tilt: 21.45°
         albedo: 0.30
-        temperature: 765 K<br />(492 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0002 Rashalthiad C IV b
         type: Icy
         formationType: Impact formed
@@ -307,14 +307,14 @@ planets:
         radius: 105,374.0 km<br/>(16.540 Yrths)
         surface_area: 1.395 × 10<sup>11</sup> km<sup>2</sup><br/>(273.560 Yrths)
         volume: 4.901 × 10<sup>15</sup> km<sup>3</sup><br/>(4524.576 Yrths)
-        mass: 5.393 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 5.393 × 10<sup>27</sup> kg<br />(902.976 Yrths)
         density: 1.100 g/cm<sup>3</sup>
         surface_gravity: 32.370 m/s<sup>2</sup><br />(3.301 g<sub>0</sub>)
         escape_velocity: 82.651 km/s<br />(297,544 km/h)
         rotation_period: 61.525 d
         axial_tilt: 17.67°
         albedo: 0.30
-        temperature: 696 K<br />(422 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0002 Rashalthiad C IV c
         type: Icy
         formationType: Accreted
@@ -327,14 +327,14 @@ planets:
         radius: 111,184.2 km<br/>(17.452 Yrths)
         surface_area: 1.553 × 10<sup>11</sup> km<sup>2</sup><br/>(304.558 Yrths)
         volume: 5.757 × 10<sup>15</sup> km<sup>3</sup><br/>(5315.033 Yrths)
-        mass: 8.312 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 8.312 × 10<sup>27</sup> kg<br />(1391.857 Yrths)
         density: 1.444 g/cm<sup>3</sup>
         surface_gravity: 44.817 m/s<sup>2</sup><br />(4.570 g<sub>0</sub>)
         escape_velocity: 99.897 km/s<br />(359,630 km/h)
         rotation_period: 44.010 d
         axial_tilt: 21.38°
         albedo: 0.30
-        temperature: 523 K<br />(249 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0002 Rashalthiad C IV d
         type: Asteroid
         formationType: Captured
@@ -347,14 +347,14 @@ planets:
         radius: 68,331.7 km<br/>(10.725 Yrths)
         surface_area: 5.868 × 10<sup>10</sup> km<sup>2</sup><br/>(115.035 Yrths)
         volume: 1.336 × 10<sup>15</sup> km<sup>3</sup><br/>(1233.798 Yrths)
-        mass: 3.922 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 3.922 × 10<sup>27</sup> kg<br />(656.800 Yrths)
         density: 2.935 g/cm<sup>3</sup>
         surface_gravity: 55.992 m/s<sup>2</sup><br />(5.710 g<sub>0</sub>)
         escape_velocity: 87.535 km/s<br />(315,127 km/h)
         rotation_period: 34.104 d
         axial_tilt: 46.78°
         albedo: 0.30
-        temperature: 432 K<br />(159 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0002 Rashalthiad C IV e
         type: Ice/rock hybrid
         formationType: Captured
@@ -367,14 +367,14 @@ planets:
         radius: 88,072.8 km<br/>(13.824 Yrths)
         surface_area: 9.748 × 10<sup>10</sup> km<sup>2</sup><br/>(191.103 Yrths)
         volume: 2.862 × 10<sup>15</sup> km<sup>3</sup><br/>(2641.817 Yrths)
-        mass: 4.716 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 4.716 × 10<sup>27</sup> kg<br />(789.656 Yrths)
         density: 1.648 g/cm<sup>3</sup>
         surface_gravity: 40.522 m/s<sup>2</sup><br />(4.132 g<sub>0</sub>)
         escape_velocity: 84.543 km/s<br />(304,354 km/h)
         rotation_period: 42.252 d
         axial_tilt: 25.35°
         albedo: 0.30
-        temperature: 374 K<br />(101 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0002 Rashalthiad C IV f
         type: Asteroid
         formationType: Captured
@@ -387,14 +387,14 @@ planets:
         radius: 78,231.0 km<br/>(12.279 Yrths)
         surface_area: 7.691 × 10<sup>10</sup> km<sup>2</sup><br/>(150.780 Yrths)
         volume: 2.006 × 10<sup>15</sup> km<sup>3</sup><br/>(1851.459 Yrths)
-        mass: 4.936 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 4.936 × 10<sup>27</sup> kg<br />(826.468 Yrths)
         density: 2.461 g/cm<sup>3</sup>
         surface_gravity: 53.753 m/s<sup>2</sup><br />(5.481 g<sub>0</sub>)
         escape_velocity: 91.770 km/s<br />(330,372 km/h)
         rotation_period: 31.845 d
         axial_tilt: 19.27°
         albedo: 0.30
-        temperature: 357 K<br />(84 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0002 Rashalthiad C IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -407,14 +407,14 @@ planets:
         radius: 63,707.8 km<br/>(10.000 Yrths)
         surface_area: 5.100 × 10<sup>10</sup> km<sup>2</sup><br/>(99.993 Yrths)
         volume: 1.083 × 10<sup>15</sup> km<sup>3</sup><br/>(999.895 Yrths)
-        mass: 2.010 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 2.010 × 10<sup>27</sup> kg<br />(336.541 Yrths)
         density: 1.856 g/cm<sup>3</sup>
         surface_gravity: 33.006 m/s<sup>2</sup><br />(3.366 g<sub>0</sub>)
         escape_velocity: 64.893 km/s<br />(233,616 km/h)
         rotation_period: 40.803 d
         axial_tilt: 17.90°
         albedo: 0.30
-        temperature: 232 K<br />(-41 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0002 Rashalthiad C IV h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -427,14 +427,14 @@ planets:
         radius: 75,624.9 km<br/>(11.870 Yrths)
         surface_area: 7.187 × 10<sup>10</sup> km<sup>2</sup><br/>(140.901 Yrths)
         volume: 1.812 × 10<sup>15</sup> km<sup>3</sup><br/>(1672.522 Yrths)
-        mass: 4.474 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 4.474 × 10<sup>27</sup> kg<br />(749.154 Yrths)
         density: 2.469 g/cm<sup>3</sup>
         surface_gravity: 52.141 m/s<sup>2</sup><br />(5.317 g<sub>0</sub>)
         escape_velocity: 88.865 km/s<br />(319,914 km/h)
         rotation_period: 37.505 d
         axial_tilt: 15.85°
         albedo: 0.30
-        temperature: 166 K<br />(-107 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0002 Rashalthiad C IV i
         type: Icy
         formationType: Captured
@@ -447,14 +447,14 @@ planets:
         radius: 93,291.3 km<br/>(14.643 Yrths)
         surface_area: 1.094 × 10<sup>11</sup> km<sup>2</sup><br/>(214.421 Yrths)
         volume: 3.401 × 10<sup>15</sup> km<sup>3</sup><br/>(3139.787 Yrths)
-        mass: 3.177 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 3.177 × 10<sup>27</sup> kg<br />(531.960 Yrths)
         density: 0.934 g/cm<sup>3</sup>
         surface_gravity: 24.329 m/s<sup>2</sup><br />(2.481 g<sub>0</sub>)
         escape_velocity: 67.421 km/s<br />(242,716 km/h)
         rotation_period: 69.880 d
         axial_tilt: 20.09°
         albedo: 0.30
-        temperature: 159 K<br />(-114 °C)
+        temperature: 147 K<br />(-126 °C)
       - name: 0002 Rashalthiad C IV j
         type: Ice/rock hybrid
         formationType: Captured
@@ -467,14 +467,14 @@ planets:
         radius: 82,767.0 km<br/>(12.991 Yrths)
         surface_area: 8.608 × 10<sup>10</sup> km<sup>2</sup><br/>(168.771 Yrths)
         volume: 2.375 × 10<sup>15</sup> km<sup>3</sup><br/>(2192.543 Yrths)
-        mass: 5.196 × 10<sup>27</sup> kg<br />(113.17749447270205 Yrths)
+        mass: 5.196 × 10<sup>27</sup> kg<br />(870.090 Yrths)
         density: 2.188 g/cm<sup>3</sup>
         surface_gravity: 50.558 m/s<sup>2</sup><br />(5.155 g<sub>0</sub>)
         escape_velocity: 91.544 km/s<br />(329,560 km/h)
         rotation_period: 60.461 d
         axial_tilt: 27.85°
         albedo: 0.30
-        temperature: 151 K<br />(-122 °C)
+        temperature: 147 K<br />(-126 °C)
   - name: 0002 Rashalthiad C V
     type: Gas giant
     aphelion: 649,066,855 km<br />4.339 AU
@@ -486,7 +486,7 @@ planets:
     radius: 212.4 km<br/>(0.033 Yrths)
     surface_area: 5.667 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.011 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.307 × 10<sup>27</sup> kg<br />(218.93419339064187 Yrths)
+    mass: 1.307 × 10<sup>27</sup> kg<br />(218.93 Yrths)
     density: 32596367.797 g/cm<sup>3</sup>
     surface_gravity: 1932557.528 m/s<sup>2</sup><br />(197066.024 g<sub>0</sub>)
     escape_velocity: 906.578 km/s<br />(3,263,682 km/h)
@@ -507,14 +507,14 @@ planets:
         radius: 129,456.6 km<br/>(20.320 Yrths)
         surface_area: 2.106 × 10<sup>11</sup> km<sup>2</sup><br/>(412.889 Yrths)
         volume: 9.088 × 10<sup>15</sup> km<sup>3</sup><br/>(8389.760 Yrths)
-        mass: 1.282 × 10<sup>28</sup> kg<br />(218.93419339064187 Yrths)
+        mass: 1.282 × 10<sup>28</sup> kg<br />(2146.038 Yrths)
         density: 1.410 g/cm<sup>3</sup>
         surface_gravity: 50.971 m/s<sup>2</sup><br />(5.198 g<sub>0</sub>)
         escape_velocity: 114.957 km/s<br />(413,844 km/h)
         rotation_period: 57.678 d
         axial_tilt: 15.36°
         albedo: 0.30
-        temperature: 635 K<br />(362 °C)
+        temperature: 113 K<br />(-161 °C)
       - name: 0002 Rashalthiad C V b
         type: Dwarf planet
         formationType: Accreted
@@ -527,14 +527,14 @@ planets:
         radius: 107,102.3 km<br/>(16.811 Yrths)
         surface_area: 1.441 × 10<sup>11</sup> km<sup>2</sup><br/>(282.607 Yrths)
         volume: 5.146 × 10<sup>15</sup> km<sup>3</sup><br/>(4750.872 Yrths)
-        mass: 1.040 × 10<sup>28</sup> kg<br />(218.93419339064187 Yrths)
+        mass: 1.040 × 10<sup>28</sup> kg<br />(1741.251 Yrths)
         density: 2.021 g/cm<sup>3</sup>
         surface_gravity: 60.423 m/s<sup>2</sup><br />(6.161 g<sub>0</sub>)
         escape_velocity: 113.844 km/s<br />(409,837 km/h)
         rotation_period: 38.498 d
         axial_tilt: 24.41°
         albedo: 0.30
-        temperature: 326 K<br />(53 °C)
+        temperature: 113 K<br />(-161 °C)
       - name: 0002 Rashalthiad C V c
         type: Icy
         formationType: Accreted
@@ -547,14 +547,14 @@ planets:
         radius: 127,228.1 km<br/>(19.970 Yrths)
         surface_area: 2.034 × 10<sup>11</sup> km<sup>2</sup><br/>(398.796 Yrths)
         volume: 8.627 × 10<sup>15</sup> km<sup>3</sup><br/>(7963.913 Yrths)
-        mass: 1.281 × 10<sup>28</sup> kg<br />(218.93419339064187 Yrths)
+        mass: 1.281 × 10<sup>28</sup> kg<br />(2145.598 Yrths)
         density: 1.485 g/cm<sup>3</sup>
         surface_gravity: 52.762 m/s<sup>2</sup><br />(5.380 g<sub>0</sub>)
         escape_velocity: 115.947 km/s<br />(417,410 km/h)
         rotation_period: 49.050 d
         axial_tilt: 26.52°
         albedo: 0.30
-        temperature: 283 K<br />(9 °C)
+        temperature: 113 K<br />(-161 °C)
       - name: 0002 Rashalthiad C V d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -567,14 +567,14 @@ planets:
         radius: 113,996.1 km<br/>(17.893 Yrths)
         surface_area: 1.633 × 10<sup>11</sup> km<sup>2</sup><br/>(320.158 Yrths)
         volume: 6.205 × 10<sup>15</sup> km<sup>3</sup><br/>(5728.579 Yrths)
-        mass: 1.311 × 10<sup>28</sup> kg<br />(218.93419339064187 Yrths)
+        mass: 1.311 × 10<sup>28</sup> kg<br />(2195.553 Yrths)
         density: 2.113 g/cm<sup>3</sup>
         surface_gravity: 67.251 m/s<sup>2</sup><br />(6.858 g<sub>0</sub>)
         escape_velocity: 123.910 km/s<br />(446,074 km/h)
         rotation_period: 56.915 d
         axial_tilt: 30.29°
         albedo: 0.30
-        temperature: 184 K<br />(-89 °C)
+        temperature: 113 K<br />(-161 °C)
       - name: 0002 Rashalthiad C V e
         type: Ice/rock hybrid
         formationType: Captured
@@ -587,14 +587,14 @@ planets:
         radius: 151,729.7 km<br/>(23.816 Yrths)
         surface_area: 2.893 × 10<sup>11</sup> km<sup>2</sup><br/>(567.187 Yrths)
         volume: 1.463 × 10<sup>16</sup> km<sup>3</sup><br/>(13507.945 Yrths)
-        mass: 2.440 × 10<sup>28</sup> kg<br />(218.93419339064187 Yrths)
+        mass: 2.440 × 10<sup>28</sup> kg<br />(4085.670 Yrths)
         density: 1.668 g/cm<sup>3</sup>
         surface_gravity: 70.641 m/s<sup>2</sup><br />(7.203 g<sub>0</sub>)
         escape_velocity: 146.512 km/s<br />(527,444 km/h)
         rotation_period: 43.044 d
         axial_tilt: 18.64°
         albedo: 0.30
-        temperature: 152 K<br />(-121 °C)
+        temperature: 113 K<br />(-161 °C)
       - name: 0002 Rashalthiad C V f
         type: Icy
         formationType: Accreted
@@ -607,14 +607,14 @@ planets:
         radius: 140,517.4 km<br/>(22.056 Yrths)
         surface_area: 2.481 × 10<sup>11</sup> km<sup>2</sup><br/>(486.458 Yrths)
         volume: 1.162 × 10<sup>16</sup> km<sup>3</sup><br/>(10729.205 Yrths)
-        mass: 1.732 × 10<sup>28</sup> kg<br />(218.93419339064187 Yrths)
+        mass: 1.732 × 10<sup>28</sup> kg<br />(2899.963 Yrths)
         density: 1.490 g/cm<sup>3</sup>
         surface_gravity: 58.461 m/s<sup>2</sup><br />(5.961 g<sub>0</sub>)
         escape_velocity: 128.265 km/s<br />(461,755 km/h)
         rotation_period: 48.467 d
         axial_tilt: 19.28°
         albedo: 0.30
-        temperature: 120 K<br />(-153 °C)
+        temperature: 113 K<br />(-161 °C)
       - name: 0002 Rashalthiad C V g
         type: Icy
         formationType: Captured
@@ -627,14 +627,14 @@ planets:
         radius: 164,222.2 km<br/>(25.777 Yrths)
         surface_area: 3.389 × 10<sup>11</sup> km<sup>2</sup><br/>(664.429 Yrths)
         volume: 1.855 × 10<sup>16</sup> km<sup>3</sup><br/>(17126.672 Yrths)
-        mass: 1.945 × 10<sup>28</sup> kg<br />(218.93419339064187 Yrths)
+        mass: 1.945 × 10<sup>28</sup> kg<br />(3256.704 Yrths)
         density: 1.048 g/cm<sup>3</sup>
         surface_gravity: 48.067 m/s<sup>2</sup><br />(4.902 g<sub>0</sub>)
         escape_velocity: 125.733 km/s<br />(452,641 km/h)
         rotation_period: 53.945 d
         axial_tilt: 16.24°
         albedo: 0.30
-        temperature: 94 K<br />(-179 °C)
+        temperature: 113 K<br />(-161 °C)
       - name: 0002 Rashalthiad C V h
         type: Icy
         formationType: Accreted
@@ -647,14 +647,14 @@ planets:
         radius: 129,416.6 km<br/>(20.313 Yrths)
         surface_area: 2.105 × 10<sup>11</sup> km<sup>2</sup><br/>(412.634 Yrths)
         volume: 9.079 × 10<sup>15</sup> km<sup>3</sup><br/>(8381.986 Yrths)
-        mass: 9.451 × 10<sup>27</sup> kg<br />(218.93419339064187 Yrths)
+        mass: 9.451 × 10<sup>27</sup> kg<br />(1582.536 Yrths)
         density: 1.041 g/cm<sup>3</sup>
         surface_gravity: 37.611 m/s<sup>2</sup><br />(3.835 g<sub>0</sub>)
         escape_velocity: 98.732 km/s<br />(355,437 km/h)
         rotation_period: 48.596 d
         axial_tilt: 15.49°
         albedo: 0.30
-        temperature: 38 K<br />(-235 °C)
+        temperature: 113 K<br />(-161 °C)
   - name: 0002 Rashalthiad C VI
     type: Gas dwarf
     aphelion: 1,052,656,371 km<br />7.036 AU
@@ -666,14 +666,14 @@ planets:
     radius: 18,653.3 km<br/>(2.928 Yrths)
     surface_area: 4.372 × 10<sup>09</sup> km<sup>2</sup><br/>(8.572 Yrths)
     volume: 2.719 × 10<sup>13</sup> km<sup>3</sup><br/>(25.098 Yrths)
-    mass: 6.228 × 10<sup>25</sup> kg<br />(10.429162477960245 Yrths)
+    mass: 6.228 × 10<sup>25</sup> kg<br />(10.43 Yrths)
     density: 2.291 g/cm<sup>3</sup>
     surface_gravity: 11.931 m/s<sup>2</sup><br />(1.217 g<sub>0</sub>)
     escape_velocity: 21.112 km/s<br />(76,002 km/h)
     rotation_period: 0.425 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 118 K<br />(-155 °C)
+    temperature: 104 K<br />(-169 °C)
     composition:
       - 80.5109% hydrogen
       - 16.3138% helium
@@ -692,14 +692,14 @@ planets:
         radius: 13,720.0 km<br/>(2.154 Yrths)
         surface_area: 2.365 × 10<sup>09</sup> km<sup>2</sup><br/>(4.638 Yrths)
         volume: 1.082 × 10<sup>13</sup> km<sup>3</sup><br/>(9.987 Yrths)
-        mass: 1.157 × 10<sup>25</sup> kg<br />(10.429162477960245 Yrths)
+        mass: 1.157 × 10<sup>25</sup> kg<br />(1.937 Yrths)
         density: 1.069 g/cm<sup>3</sup>
         surface_gravity: 4.096 m/s<sup>2</sup><br />(0.418 g<sub>0</sub>)
         escape_velocity: 10.609 km/s<br />(38,193 km/h)
         rotation_period: 57.252 d
         axial_tilt: 24.57°
         albedo: 0.30
-        temperature: 808 K<br />(535 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0002 Rashalthiad C VI b
         type: Icy
         formationType: Captured
@@ -712,14 +712,14 @@ planets:
         radius: 14,184.0 km<br/>(2.226 Yrths)
         surface_area: 2.528 × 10<sup>09</sup> km<sup>2</sup><br/>(4.957 Yrths)
         volume: 1.195 × 10<sup>13</sup> km<sup>3</sup><br/>(11.035 Yrths)
-        mass: 8.757 × 10<sup>24</sup> kg<br />(10.429162477960245 Yrths)
+        mass: 8.757 × 10<sup>24</sup> kg<br />(1.466 Yrths)
         density: 0.733 g/cm<sup>3</sup>
         surface_gravity: 2.901 m/s<sup>2</sup><br />(0.296 g<sub>0</sub>)
         escape_velocity: 9.078 km/s<br />(32,681 km/h)
         rotation_period: 70.737 d
         axial_tilt: 12.63°
         albedo: 0.30
-        temperature: 771 K<br />(498 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0002 Rashalthiad C VI c
         type: Icy
         formationType: Captured
@@ -732,14 +732,14 @@ planets:
         radius: 26,745.8 km<br/>(4.198 Yrths)
         surface_area: 8.989 × 10<sup>09</sup> km<sup>2</sup><br/>(17.624 Yrths)
         volume: 8.014 × 10<sup>13</sup> km<sup>3</sup><br/>(73.985 Yrths)
-        mass: 8.201 × 10<sup>25</sup> kg<br />(10.429162477960245 Yrths)
+        mass: 8.201 × 10<sup>25</sup> kg<br />(13.732 Yrths)
         density: 1.023 g/cm<sup>3</sup>
         surface_gravity: 7.641 m/s<sup>2</sup><br />(0.779 g<sub>0</sub>)
         escape_velocity: 20.231 km/s<br />(72,832 km/h)
         rotation_period: 50.131 d
         axial_tilt: 10.15°
         albedo: 0.30
-        temperature: 735 K<br />(462 °C)
+        temperature: 86 K<br />(-187 °C)
       - name: 0002 Rashalthiad C VI d
         type: Asteroid
         formationType: Captured
@@ -752,14 +752,14 @@ planets:
         radius: 14,508.4 km<br/>(2.277 Yrths)
         surface_area: 2.645 × 10<sup>09</sup> km<sup>2</sup><br/>(5.186 Yrths)
         volume: 1.279 × 10<sup>13</sup> km<sup>3</sup><br/>(11.810 Yrths)
-        mass: 2.789 × 10<sup>25</sup> kg<br />(10.429162477960245 Yrths)
+        mass: 2.789 × 10<sup>25</sup> kg<br />(4.670 Yrths)
         density: 2.180 g/cm<sup>3</sup>
         surface_gravity: 8.830 m/s<sup>2</sup><br />(0.900 g<sub>0</sub>)
         escape_velocity: 16.018 km/s<br />(57,665 km/h)
         rotation_period: 33.538 d
         axial_tilt: 27.36°
         albedo: 0.30
-        temperature: 701 K<br />(427 °C)
+        temperature: 86 K<br />(-187 °C)
   - name: 0002 Rashalthiad C VII
     type: Gas giant
     aphelion: 1,926,643,611 km<br />12.879 AU
@@ -771,7 +771,7 @@ planets:
     radius: 209.5 km<br/>(0.033 Yrths)
     surface_area: 5.517 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.853 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.228 × 10<sup>27</sup> kg<br />(205.63813635847367 Yrths)
+    mass: 1.228 × 10<sup>27</sup> kg<br />(205.64 Yrths)
     density: 31872965.613 g/cm<sup>3</sup>
     surface_gravity: 1864509.620 m/s<sup>2</sup><br />(190127.069 g<sub>0</sub>)
     escape_velocity: 884.527 km/s<br />(3,184,295 km/h)
@@ -792,14 +792,14 @@ planets:
         radius: 169,802.6 km<br/>(26.652 Yrths)
         surface_area: 3.623 × 10<sup>11</sup> km<sup>2</sup><br/>(710.352 Yrths)
         volume: 2.051 × 10<sup>16</sup> km<sup>3</sup><br/>(18932.599 Yrths)
-        mass: 2.636 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 2.636 × 10<sup>28</sup> kg<br />(4413.102 Yrths)
         density: 1.285 g/cm<sup>3</sup>
         surface_gravity: 60.924 m/s<sup>2</sup><br />(6.213 g<sub>0</sub>)
         escape_velocity: 143.939 km/s<br />(518,179 km/h)
         rotation_period: 48.091 d
         axial_tilt: 19.44°
         albedo: 0.30
-        temperature: 311 K<br />(38 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII b
         type: Icy
         formationType: Accreted
@@ -812,14 +812,14 @@ planets:
         radius: 183,642.1 km<br/>(28.825 Yrths)
         surface_area: 4.238 × 10<sup>11</sup> km<sup>2</sup><br/>(830.863 Yrths)
         volume: 2.594 × 10<sup>16</sup> km<sup>3</sup><br/>(23949.369 Yrths)
-        mass: 2.435 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 2.435 × 10<sup>28</sup> kg<br />(4077.314 Yrths)
         density: 0.939 g/cm<sup>3</sup>
         surface_gravity: 48.124 m/s<sup>2</sup><br />(4.907 g<sub>0</sub>)
         escape_velocity: 133.039 km/s<br />(478,940 km/h)
         rotation_period: 56.595 d
         axial_tilt: 20.17°
         albedo: 0.30
-        temperature: 297 K<br />(24 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII c
         type: Icy
         formationType: Captured
@@ -832,14 +832,14 @@ planets:
         radius: 259,748.6 km<br/>(40.770 Yrths)
         surface_area: 8.478 × 10<sup>11</sup> km<sup>2</sup><br/>(1662.230 Yrths)
         volume: 7.341 × 10<sup>16</sup> km<sup>3</sup><br/>(67769.890 Yrths)
-        mass: 9.953 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 9.953 × 10<sup>28</sup> kg<br />(16665.982 Yrths)
         density: 1.356 g/cm<sup>3</sup>
         surface_gravity: 98.324 m/s<sup>2</sup><br />(10.026 g<sub>0</sub>)
         escape_velocity: 226.160 km/s<br />(814,178 km/h)
         rotation_period: 45.792 d
         axial_tilt: 18.06°
         albedo: 0.30
-        temperature: 257 K<br />(-16 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII d
         type: Dwarf planet
         formationType: Accreted
@@ -852,14 +852,14 @@ planets:
         radius: 179,037.6 km<br/>(28.102 Yrths)
         surface_area: 4.028 × 10<sup>11</sup> km<sup>2</sup><br/>(789.721 Yrths)
         volume: 2.404 × 10<sup>16</sup> km<sup>3</sup><br/>(22192.704 Yrths)
-        mass: 4.793 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 4.793 × 10<sup>28</sup> kg<br />(8025.130 Yrths)
         density: 1.994 g/cm<sup>3</sup>
         surface_gravity: 99.655 m/s<sup>2</sup><br />(10.162 g<sub>0</sub>)
         escape_velocity: 189.030 km/s<br />(680,509 km/h)
         rotation_period: 36.930 d
         axial_tilt: 36.93°
         albedo: 0.30
-        temperature: 234 K<br />(-39 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -872,14 +872,14 @@ planets:
         radius: 154,710.0 km<br/>(24.283 Yrths)
         surface_area: 3.008 × 10<sup>11</sup> km<sup>2</sup><br/>(589.687 Yrths)
         volume: 1.551 × 10<sup>16</sup> km<sup>3</sup><br/>(14319.660 Yrths)
-        mass: 3.037 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 3.037 × 10<sup>28</sup> kg<br />(5085.541 Yrths)
         density: 1.958 g/cm<sup>3</sup>
         surface_gravity: 84.574 m/s<sup>2</sup><br />(8.624 g<sub>0</sub>)
         escape_velocity: 161.878 km/s<br />(582,760 km/h)
         rotation_period: 40.714 d
         axial_tilt: 27.09°
         albedo: 0.30
-        temperature: 176 K<br />(-98 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII f
         type: Rocky
         formationType: Captured
@@ -892,14 +892,14 @@ planets:
         radius: 113,148.9 km<br/>(17.760 Yrths)
         surface_area: 1.609 × 10<sup>11</sup> km<sup>2</sup><br/>(315.417 Yrths)
         volume: 6.068 × 10<sup>15</sup> km<sup>3</sup><br/>(5601.801 Yrths)
-        mass: 1.931 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 1.931 × 10<sup>28</sup> kg<br />(3232.948 Yrths)
         density: 3.182 g/cm<sup>3</sup>
         surface_gravity: 100.516 m/s<sup>2</sup><br />(10.250 g<sub>0</sub>)
         escape_velocity: 150.922 km/s<br />(543,319 km/h)
         rotation_period: 28.339 d
         axial_tilt: 22.10°
         albedo: 0.30
-        temperature: 152 K<br />(-121 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII g
         type: Icy
         formationType: Accreted
@@ -912,14 +912,14 @@ planets:
         radius: 153,128.0 km<br/>(24.035 Yrths)
         surface_area: 2.947 × 10<sup>11</sup> km<sup>2</sup><br/>(577.689 Yrths)
         volume: 1.504 × 10<sup>16</sup> km<sup>3</sup><br/>(13884.841 Yrths)
-        mass: 2.132 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 2.132 × 10<sup>28</sup> kg<br />(3570.098 Yrths)
         density: 1.418 g/cm<sup>3</sup>
         surface_gravity: 60.605 m/s<sup>2</sup><br />(6.180 g<sub>0</sub>)
         escape_velocity: 136.330 km/s<br />(490,787 km/h)
         rotation_period: 42.085 d
         axial_tilt: 22.15°
         albedo: 0.30
-        temperature: 145 K<br />(-128 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII h
         type: Icy
         formationType: Impact formed
@@ -932,14 +932,14 @@ planets:
         radius: 184,855.0 km<br/>(29.015 Yrths)
         surface_area: 4.294 × 10<sup>11</sup> km<sup>2</sup><br/>(841.875 Yrths)
         volume: 2.646 × 10<sup>16</sup> km<sup>3</sup><br/>(24427.056 Yrths)
-        mass: 3.516 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 3.516 × 10<sup>28</sup> kg<br />(5887.830 Yrths)
         density: 1.329 g/cm<sup>3</sup>
         surface_gravity: 68.585 m/s<sup>2</sup><br />(6.994 g<sub>0</sub>)
         escape_velocity: 159.345 km/s<br />(573,644 km/h)
         rotation_period: 51.695 d
         axial_tilt: 17.22°
         albedo: 0.30
-        temperature: 138 K<br />(-135 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII i
         type: Ice/rock hybrid
         formationType: Captured
@@ -952,14 +952,14 @@ planets:
         radius: 176,899.2 km<br/>(27.766 Yrths)
         surface_area: 3.932 × 10<sup>11</sup> km<sup>2</sup><br/>(770.968 Yrths)
         volume: 2.319 × 10<sup>16</sup> km<sup>3</sup><br/>(21406.953 Yrths)
-        mass: 4.231 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 4.231 × 10<sup>28</sup> kg<br />(7084.819 Yrths)
         density: 1.825 g/cm<sup>3</sup>
         surface_gravity: 90.118 m/s<sup>2</sup><br />(9.190 g<sub>0</sub>)
         escape_velocity: 178.681 km/s<br />(643,253 km/h)
         rotation_period: 67.799 d
         axial_tilt: 27.50°
         albedo: 0.30
-        temperature: 126 K<br />(-147 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII j
         type: Rocky
         formationType: Accreted
@@ -972,14 +972,14 @@ planets:
         radius: 175,760.1 km<br/>(27.588 Yrths)
         surface_area: 3.882 × 10<sup>11</sup> km<sup>2</sup><br/>(761.071 Yrths)
         volume: 2.274 × 10<sup>16</sup> km<sup>3</sup><br/>(20996.062 Yrths)
-        mass: 6.261 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 6.261 × 10<sup>28</sup> kg<br />(10484.613 Yrths)
         density: 2.753 g/cm<sup>3</sup>
         surface_gravity: 135.098 m/s<sup>2</sup><br />(13.776 g<sub>0</sub>)
         escape_velocity: 218.069 km/s<br />(785,048 km/h)
         rotation_period: 43.952 d
         axial_tilt: 14.30°
         albedo: 0.30
-        temperature: 120 K<br />(-153 °C)
+        temperature: 66 K<br />(-207 °C)
       - name: 0002 Rashalthiad C VII k
         type: Icy
         formationType: Impact formed
@@ -992,14 +992,14 @@ planets:
         radius: 148,025.8 km<br/>(23.234 Yrths)
         surface_area: 2.753 × 10<sup>11</sup> km<sup>2</sup><br/>(539.833 Yrths)
         volume: 1.359 × 10<sup>16</sup> km<sup>3</sup><br/>(12542.660 Yrths)
-        mass: 1.722 × 10<sup>28</sup> kg<br />(205.63813635847367 Yrths)
+        mass: 1.722 × 10<sup>28</sup> kg<br />(2884.157 Yrths)
         density: 1.268 g/cm<sup>3</sup>
         surface_gravity: 52.394 m/s<sup>2</sup><br />(5.343 g<sub>0</sub>)
         escape_velocity: 124.629 km/s<br />(448,664 km/h)
         rotation_period: 60.826 d
         axial_tilt: 16.83°
         albedo: 0.30
-        temperature: 114 K<br />(-159 °C)
+        temperature: 66 K<br />(-207 °C)
   - name: 0002 Rashalthiad C VIII
     type: Ice giant
     aphelion: 3,460,045,272 km<br />23.129 AU
@@ -1011,14 +1011,14 @@ planets:
     radius: 4,335.2 km<br/>(0.680 Yrths)
     surface_area: 2.362 × 10<sup>08</sup> km<sup>2</sup><br/>(0.463 Yrths)
     volume: 3.413 × 10<sup>11</sup> km<sup>3</sup><br/>(0.315 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 1.750 g/cm<sup>3</sup>
     surface_gravity: 2.118 m/s<sup>2</sup><br />(0.216 g<sub>0</sub>)
     escape_velocity: 4.288 km/s<br />(15,437 km/h)
     rotation_period: 0.748 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 95 K<br />(-178 °C)
+    temperature: 85 K<br />(-188 °C)
     composition:
       - 64.1850% hydrogen
       - 35.5916% helium
@@ -1036,14 +1036,14 @@ planets:
         radius: 588.2 km<br/>(0.092 Yrths)
         surface_area: 4.347 × 10<sup>06</sup> km<sup>2</sup><br/>(0.009 Yrths)
         volume: 8.523 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.220 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.220 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.431 g/cm<sup>3</sup>
         surface_gravity: 0.235 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.526 km/s<br />(1,894 km/h)
         rotation_period: 42.212 d
         axial_tilt: 24.41°
         albedo: 0.30
-        temperature: 1028 K<br />(755 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII b
         type: Icy
         formationType: Impact formed
@@ -1056,14 +1056,14 @@ planets:
         radius: 336.1 km<br/>(0.053 Yrths)
         surface_area: 1.420 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.591 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.114 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.114 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.066 m/s<sup>2</sup><br />(0.007 g<sub>0</sub>)
         escape_velocity: 0.210 km/s<br />(757 km/h)
         rotation_period: 72.576 d
         axial_tilt: 25.10°
         albedo: 0.30
-        temperature: 935 K<br />(662 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII c
         type: Dwarf planet
         formationType: Accreted
@@ -1076,14 +1076,14 @@ planets:
         radius: 367.3 km<br/>(0.058 Yrths)
         surface_area: 1.695 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 2.076 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.517 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 2.517 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.213 g/cm<sup>3</sup>
         surface_gravity: 0.124 m/s<sup>2</sup><br />(0.013 g<sub>0</sub>)
         escape_velocity: 0.302 km/s<br />(1,089 km/h)
         rotation_period: 51.273 d
         axial_tilt: 17.24°
         albedo: 0.30
-        temperature: 891 K<br />(618 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII d
         type: Icy
         formationType: Accreted
@@ -1096,14 +1096,14 @@ planets:
         radius: 526.6 km<br/>(0.083 Yrths)
         surface_area: 3.485 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.117 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 6.141 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 6.141 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.004 g/cm<sup>3</sup>
         surface_gravity: 0.148 m/s<sup>2</sup><br />(0.015 g<sub>0</sub>)
         escape_velocity: 0.395 km/s<br />(1,420 km/h)
         rotation_period: 63.318 d
         axial_tilt: 29.54°
         albedo: 0.30
-        temperature: 850 K<br />(577 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1116,14 +1116,14 @@ planets:
         radius: 408.7 km<br/>(0.064 Yrths)
         surface_area: 2.099 × 10<sup>06</sup> km<sup>2</sup><br/>(0.004 Yrths)
         volume: 2.859 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 5.863 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 5.863 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.051 g/cm<sup>3</sup>
         surface_gravity: 0.234 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.438 km/s<br />(1,575 km/h)
         rotation_period: 40.086 d
         axial_tilt: 11.34°
         albedo: 0.30
-        temperature: 810 K<br />(537 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1136,14 +1136,14 @@ planets:
         radius: 577.9 km<br/>(0.091 Yrths)
         surface_area: 4.197 × 10<sup>06</sup> km<sup>2</sup><br/>(0.008 Yrths)
         volume: 8.085 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.811 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.811 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.240 g/cm<sup>3</sup>
         surface_gravity: 0.361 m/s<sup>2</sup><br />(0.037 g<sub>0</sub>)
         escape_velocity: 0.647 km/s<br />(2,328 km/h)
         rotation_period: 45.524 d
         axial_tilt: 24.26°
         albedo: 0.30
-        temperature: 773 K<br />(500 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII g
         type: Icy
         formationType: Impact formed
@@ -1156,14 +1156,14 @@ planets:
         radius: 731.5 km<br/>(0.115 Yrths)
         surface_area: 6.725 × 10<sup>06</sup> km<sup>2</sup><br/>(0.013 Yrths)
         volume: 1.640 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 1.908 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 1.908 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 1.163 g/cm<sup>3</sup>
         surface_gravity: 0.238 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.590 km/s<br />(2,124 km/h)
         rotation_period: 51.120 d
         axial_tilt: 15.24°
         albedo: 0.30
-        temperature: 737 K<br />(464 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1176,14 +1176,14 @@ planets:
         radius: 774.4 km<br/>(0.122 Yrths)
         surface_area: 7.536 × 10<sup>06</sup> km<sup>2</sup><br/>(0.015 Yrths)
         volume: 1.945 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.014 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.014 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.578 g/cm<sup>3</sup>
         surface_gravity: 0.557 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 0.930 km/s<br />(3,347 km/h)
         rotation_period: 36.748 d
         axial_tilt: 27.16°
         albedo: 0.30
-        temperature: 702 K<br />(429 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII i
         type: Icy
         formationType: Accreted
@@ -1196,14 +1196,14 @@ planets:
         radius: 183.5 km<br/>(0.029 Yrths)
         surface_area: 4.230 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 2.587 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.625 × 10<sup>19</sup> kg<br />(0.1 Yrths)
+        mass: 4.625 × 10<sup>19</sup> kg<br />(0.000 Yrths)
         density: 1.788 g/cm<sup>3</sup>
         surface_gravity: 0.092 m/s<sup>2</sup><br />(0.009 g<sub>0</sub>)
         escape_velocity: 0.183 km/s<br />(660 km/h)
         rotation_period: 70.119 d
         axial_tilt: 17.82°
         albedo: 0.30
-        temperature: 670 K<br />(397 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1216,14 +1216,14 @@ planets:
         radius: 239.7 km<br/>(0.038 Yrths)
         surface_area: 7.223 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
         volume: 5.772 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.028 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 1.028 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 1.780 g/cm<sup>3</sup>
         surface_gravity: 0.119 m/s<sup>2</sup><br />(0.012 g<sub>0</sub>)
         escape_velocity: 0.239 km/s<br />(861 km/h)
         rotation_period: 39.199 d
         axial_tilt: 19.92°
         albedo: 0.30
-        temperature: 639 K<br />(365 °C)
+        temperature: 51 K<br />(-223 °C)
       - name: 0002 Rashalthiad C VIII k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1236,14 +1236,14 @@ planets:
         radius: 360.9 km<br/>(0.057 Yrths)
         surface_area: 1.636 × 10<sup>06</sup> km<sup>2</sup><br/>(0.003 Yrths)
         volume: 1.968 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 4.626 × 10<sup>20</sup> kg<br />(0.1 Yrths)
+        mass: 4.626 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.350 g/cm<sup>3</sup>
         surface_gravity: 0.237 m/s<sup>2</sup><br />(0.024 g<sub>0</sub>)
         escape_velocity: 0.414 km/s<br />(1,489 km/h)
         rotation_period: 43.510 d
         axial_tilt: 29.01°
         albedo: 0.30
-        temperature: 609 K<br />(336 °C)
+        temperature: 51 K<br />(-223 °C)
   - name: 0002 Rashalthiad C IX
     type: Gas giant
     aphelion: 5,221,856,230 km<br />34.905 AU
@@ -1255,7 +1255,7 @@ planets:
     radius: 174.5 km<br/>(0.027 Yrths)
     surface_area: 3.825 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.224 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.598 × 10<sup>26</sup> kg<br />(93.74010959953168 Yrths)
+    mass: 5.598 × 10<sup>26</sup> kg<br />(93.74 Yrths)
     density: 25169920.175 g/cm<sup>3</sup>
     surface_gravity: 1225965.184 m/s<sup>2</sup><br />(125013.658 g<sub>0</sub>)
     escape_velocity: 654.477 km/s<br />(2,356,119 km/h)
@@ -1276,14 +1276,14 @@ planets:
         radius: 95,806.0 km<br/>(15.038 Yrths)
         surface_area: 1.153 × 10<sup>11</sup> km<sup>2</sup><br/>(226.136 Yrths)
         volume: 3.684 × 10<sup>15</sup> km<sup>3</sup><br/>(3400.594 Yrths)
-        mass: 1.203 × 10<sup>28</sup> kg<br />(93.74010959953168 Yrths)
+        mass: 1.203 × 10<sup>28</sup> kg<br />(2014.711 Yrths)
         density: 3.266 g/cm<sup>3</sup>
         surface_gravity: 87.370 m/s<sup>2</sup><br />(8.909 g<sub>0</sub>)
         escape_velocity: 129.476 km/s<br />(466,112 km/h)
         rotation_period: 30.308 d
         axial_tilt: 15.73°
         albedo: 0.30
-        temperature: 102 K<br />(-171 °C)
+        temperature: 39 K<br />(-234 °C)
       - name: 0002 Rashalthiad C IX b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1296,14 +1296,14 @@ planets:
         radius: 96,496.4 km<br/>(15.146 Yrths)
         surface_area: 1.170 × 10<sup>11</sup> km<sup>2</sup><br/>(229.407 Yrths)
         volume: 3.764 × 10<sup>15</sup> km<sup>3</sup><br/>(3474.645 Yrths)
-        mass: 7.624 × 10<sup>27</sup> kg<br />(93.74010959953168 Yrths)
+        mass: 7.624 × 10<sup>27</sup> kg<br />(1276.667 Yrths)
         density: 2.026 g/cm<sup>3</sup>
         surface_gravity: 54.575 m/s<sup>2</sup><br />(5.565 g<sub>0</sub>)
         escape_velocity: 102.698 km/s<br />(369,712 km/h)
         rotation_period: 49.972 d
         axial_tilt: 32.51°
         albedo: 0.30
-        temperature: 76 K<br />(-197 °C)
+        temperature: 39 K<br />(-234 °C)
       - name: 0002 Rashalthiad C IX c
         type: Icy
         formationType: Accreted
@@ -1316,14 +1316,14 @@ planets:
         radius: 96,731.4 km<br/>(15.183 Yrths)
         surface_area: 1.176 × 10<sup>11</sup> km<sup>2</sup><br/>(230.526 Yrths)
         volume: 3.791 × 10<sup>15</sup> km<sup>3</sup><br/>(3500.090 Yrths)
-        mass: 6.756 × 10<sup>27</sup> kg<br />(93.74010959953168 Yrths)
+        mass: 6.756 × 10<sup>27</sup> kg<br />(1131.327 Yrths)
         density: 1.782 g/cm<sup>3</sup>
         surface_gravity: 48.127 m/s<sup>2</sup><br />(4.908 g<sub>0</sub>)
         escape_velocity: 96.558 km/s<br />(347,609 km/h)
         rotation_period: 46.904 d
         axial_tilt: 10.46°
         albedo: 0.30
-        temperature: 70 K<br />(-204 °C)
+        temperature: 39 K<br />(-234 °C)
       - name: 0002 Rashalthiad C IX d
         type: Icy
         formationType: Captured
@@ -1336,14 +1336,14 @@ planets:
         radius: 114,612.6 km<br/>(17.990 Yrths)
         surface_area: 1.651 × 10<sup>11</sup> km<sup>2</sup><br/>(323.630 Yrths)
         volume: 6.306 × 10<sup>15</sup> km<sup>3</sup><br/>(5822.021 Yrths)
-        mass: 6.720 × 10<sup>27</sup> kg<br />(93.74010959953168 Yrths)
+        mass: 6.720 × 10<sup>27</sup> kg<br />(1125.332 Yrths)
         density: 1.066 g/cm<sup>3</sup>
         surface_gravity: 34.100 m/s<sup>2</sup><br />(3.477 g<sub>0</sub>)
         escape_velocity: 88.471 km/s<br />(318,496 km/h)
         rotation_period: 53.235 d
         axial_tilt: 22.91°
         albedo: 0.30
-        temperature: 28 K<br />(-245 °C)
+        temperature: 39 K<br />(-234 °C)
       - name: 0002 Rashalthiad C IX e
         type: Icy
         formationType: Captured
@@ -1356,12 +1356,12 @@ planets:
         radius: 98,121.8 km<br/>(15.401 Yrths)
         surface_area: 1.210 × 10<sup>11</sup> km<sup>2</sup><br/>(237.201 Yrths)
         volume: 3.957 × 10<sup>15</sup> km<sup>3</sup><br/>(3653.203 Yrths)
-        mass: 5.389 × 10<sup>27</sup> kg<br />(93.74010959953168 Yrths)
+        mass: 5.389 × 10<sup>27</sup> kg<br />(902.299 Yrths)
         density: 1.362 g/cm<sup>3</sup>
         surface_gravity: 37.304 m/s<sup>2</sup><br />(3.804 g<sub>0</sub>)
         escape_velocity: 85.619 km/s<br />(308,229 km/h)
         rotation_period: 69.589 d
         axial_tilt: 7.12°
         albedo: 0.30
-        temperature: 14 K<br />(-259 °C)
+        temperature: 39 K<br />(-234 °C)
 ---

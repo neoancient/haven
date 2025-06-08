@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11188 Arkothiad is a star in the constellation Arkoth
+      11188 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 458.43 ly
 apparent_magnitude: 11.56
 absolute_magnitude: 5.82

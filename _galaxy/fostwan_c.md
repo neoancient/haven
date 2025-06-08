@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Fostwan C is a star in the constellation Tanosherna
+      Fostwan C is a star in the constellation <a href="tanosherna.html">Tanosherna</a>
 distance: 1500.80 ly
 apparent_magnitude: 2.47
 absolute_magnitude: -5.84

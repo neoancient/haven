@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4155 Dialkeshiad is a star in the constellation Dialkes
+      4155 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 278.91 ly
 apparent_magnitude: 10.35
 absolute_magnitude: 5.68
@@ -31,14 +31,14 @@ planets:
     radius: 7,516.8 km<br/>(1.180 Yrths)
     surface_area: 7.100 × 10<sup>08</sup> km<sup>2</sup><br/>(1.392 Yrths)
     volume: 1.779 × 10<sup>12</sup> km<sup>3</sup><br/>(1.642 Yrths)
-    mass: 1.041 × 10<sup>25</sup> kg<br />(1.743739235359755 Yrths)
+    mass: 1.041 × 10<sup>25</sup> kg<br />(1.74 Yrths)
     density: 5.853 g/cm<sup>3</sup>
     surface_gravity: 12.284 m/s<sup>2</sup><br />(1.253 g<sub>0</sub>)
     escape_velocity: 13.599 km/s<br />(48,956 km/h)
     rotation_period: 2.566 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 339 K<br />(65 °C)
+    temperature: 323 K<br />(50 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 98.8716% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 3,542.2 km<br/>(0.556 Yrths)
         surface_area: 1.577 × 10<sup>08</sup> km<sup>2</sup><br/>(0.309 Yrths)
         volume: 1.862 × 10<sup>11</sup> km<sup>3</sup><br/>(0.172 Yrths)
-        mass: 5.675 × 10<sup>23</sup> kg<br />(1.743739235359755 Yrths)
+        mass: 5.675 × 10<sup>23</sup> kg<br />(0.095 Yrths)
         density: 3.048 g/cm<sup>3</sup>
         surface_gravity: 3.015 m/s<sup>2</sup><br />(0.307 g<sub>0</sub>)
         escape_velocity: 4.625 km/s<br />(16,648 km/h)
         rotation_period: 42.929 d
         axial_tilt: 10.74°
         albedo: 0.30
-        temperature: 3987 K<br />(3714 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 4155 Dialkeshiad I b
         type: Rocky
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 1,181.8 km<br/>(0.185 Yrths)
         surface_area: 1.755 × 10<sup>07</sup> km<sup>2</sup><br/>(0.034 Yrths)
         volume: 6.913 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 2.489 × 10<sup>22</sup> kg<br />(1.743739235359755 Yrths)
+        mass: 2.489 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 1.188 m/s<sup>2</sup><br />(0.121 g<sub>0</sub>)
         escape_velocity: 1.677 km/s<br />(6,036 km/h)
         rotation_period: 37.622 d
         axial_tilt: 20.04°
         albedo: 0.30
-        temperature: 3802 K<br />(3529 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 4155 Dialkeshiad II
     type: Terrestrial
     aphelion: 122,624,637 km<br />0.820 AU
@@ -95,14 +95,14 @@ planets:
     radius: 4,976.6 km<br/>(0.781 Yrths)
     surface_area: 3.112 × 10<sup>08</sup> km<sup>2</sup><br/>(0.610 Yrths)
     volume: 5.163 × 10<sup>11</sup> km<sup>3</sup><br/>(0.477 Yrths)
-    mass: 2.423 × 10<sup>24</sup> kg<br />(0.4056557651960991 Yrths)
+    mass: 2.423 × 10<sup>24</sup> kg<br />(0.41 Yrths)
     density: 4.692 g/cm<sup>3</sup>
     surface_gravity: 6.520 m/s<sup>2</sup><br />(0.665 g<sub>0</sub>)
     escape_velocity: 8.061 km/s<br />(29,020 km/h)
     rotation_period: 2.578 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 266 K<br />(-7 °C)
+    temperature: 342 K<br />(69 °C)
     surface_pressure: 9 kPa<br />(0 atm)
     composition:
       - 79.4143% nitrogen
@@ -123,14 +123,14 @@ planets:
         radius: 548.5 km<br/>(0.086 Yrths)
         surface_area: 3.781 × 10<sup>06</sup> km<sup>2</sup><br/>(0.007 Yrths)
         volume: 6.913 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.420 × 10<sup>21</sup> kg<br />(0.4056557651960991 Yrths)
+        mass: 1.420 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.055 g/cm<sup>3</sup>
         surface_gravity: 0.315 m/s<sup>2</sup><br />(0.032 g<sub>0</sub>)
         escape_velocity: 0.588 km/s<br />(2,117 km/h)
         rotation_period: 49.840 d
         axial_tilt: 13.35°
         albedo: 0.30
-        temperature: 4031 K<br />(3758 °C)
+        temperature: 244 K<br />(-29 °C)
       - name: 4155 Dialkeshiad II b
         type: Rocky
         formationType: Captured
@@ -143,14 +143,14 @@ planets:
         radius: 1,417.1 km<br/>(0.222 Yrths)
         surface_area: 2.524 × 10<sup>07</sup> km<sup>2</sup><br/>(0.049 Yrths)
         volume: 1.192 × 10<sup>10</sup> km<sup>3</sup><br/>(0.011 Yrths)
-        mass: 2.861 × 10<sup>22</sup> kg<br />(0.4056557651960991 Yrths)
+        mass: 2.861 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 0.950 m/s<sup>2</sup><br />(0.097 g<sub>0</sub>)
         escape_velocity: 1.642 km/s<br />(5,910 km/h)
         rotation_period: 58.836 d
         axial_tilt: 21.92°
         albedo: 0.30
-        temperature: 3844 K<br />(3571 °C)
+        temperature: 244 K<br />(-29 °C)
   - name: 4155 Dialkeshiad III
     type: Large terrestrial
     aphelion: 207,769,563 km<br />1.389 AU
@@ -162,14 +162,14 @@ planets:
     radius: 9,525.7 km<br/>(1.495 Yrths)
     surface_area: 1.140 × 10<sup>09</sup> km<sup>2</sup><br/>(2.236 Yrths)
     volume: 3.621 × 10<sup>12</sup> km<sup>3</sup><br/>(3.342 Yrths)
-    mass: 2.715 × 10<sup>25</sup> kg<br />(4.546747547871518 Yrths)
+    mass: 2.715 × 10<sup>25</sup> kg<br />(4.55 Yrths)
     density: 7.500 g/cm<sup>3</sup>
     surface_gravity: 19.945 m/s<sup>2</sup><br />(2.034 g<sub>0</sub>)
     escape_velocity: 19.507 km/s<br />(70,223 km/h)
     rotation_period: 1.042 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 243 K<br />(-30 °C)
+    temperature: 308 K<br />(35 °C)
     surface_pressure: 179 kPa<br />(2 atm)
     composition:
       - 83.7939% nitrogen
@@ -187,14 +187,14 @@ planets:
         radius: 1,091.0 km<br/>(0.171 Yrths)
         surface_area: 1.496 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.439 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 1.045 × 10<sup>22</sup> kg<br />(4.546747547871518 Yrths)
+        mass: 1.045 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.921 g/cm<sup>3</sup>
         surface_gravity: 0.585 m/s<sup>2</sup><br />(0.060 g<sub>0</sub>)
         escape_velocity: 1.131 km/s<br />(4,070 km/h)
         rotation_period: 45.660 d
         axial_tilt: 19.20°
         albedo: 0.30
-        temperature: 2116 K<br />(1843 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 4155 Dialkeshiad III b
         type: Rocky
         formationType: Impact formed
@@ -207,14 +207,14 @@ planets:
         radius: 8,002.1 km<br/>(1.256 Yrths)
         surface_area: 8.047 × 10<sup>08</sup> km<sup>2</sup><br/>(1.578 Yrths)
         volume: 2.146 × 10<sup>12</sup> km<sup>3</sup><br/>(1.981 Yrths)
-        mass: 6.037 × 10<sup>24</sup> kg<br />(4.546747547871518 Yrths)
+        mass: 6.037 × 10<sup>24</sup> kg<br />(1.011 Yrths)
         density: 2.813 g/cm<sup>3</sup>
         surface_gravity: 6.284 m/s<sup>2</sup><br />(0.641 g<sub>0</sub>)
         escape_velocity: 10.035 km/s<br />(36,127 km/h)
         rotation_period: 41.660 d
         axial_tilt: 8.93°
         albedo: 0.30
-        temperature: 2018 K<br />(1745 °C)
+        temperature: 188 K<br />(-86 °C)
       - name: 4155 Dialkeshiad III c
         type: Rocky
         formationType: Impact formed
@@ -227,14 +227,14 @@ planets:
         radius: 2,953.8 km<br/>(0.464 Yrths)
         surface_area: 1.096 × 10<sup>08</sup> km<sup>2</sup><br/>(0.215 Yrths)
         volume: 1.079 × 10<sup>11</sup> km<sup>3</sup><br/>(0.100 Yrths)
-        mass: 3.679 × 10<sup>23</sup> kg<br />(4.546747547871518 Yrths)
+        mass: 3.679 × 10<sup>23</sup> kg<br />(0.062 Yrths)
         density: 3.408 g/cm<sup>3</sup>
         surface_gravity: 2.810 m/s<sup>2</sup><br />(0.287 g<sub>0</sub>)
         escape_velocity: 4.077 km/s<br />(14,678 km/h)
         rotation_period: 43.220 d
         axial_tilt: 17.68°
         albedo: 0.30
-        temperature: 1924 K<br />(1651 °C)
+        temperature: 188 K<br />(-86 °C)
   - name: 4155 Dialkeshiad IV
     type: Gas dwarf
     aphelion: 349,238,435 km<br />2.334 AU
@@ -246,14 +246,14 @@ planets:
     radius: 15,886.7 km<br/>(2.494 Yrths)
     surface_area: 3.172 × 10<sup>09</sup> km<sup>2</sup><br/>(6.218 Yrths)
     volume: 1.680 × 10<sup>13</sup> km<sup>3</sup><br/>(15.505 Yrths)
-    mass: 3.727 × 10<sup>25</sup> kg<br />(6.240920483985969 Yrths)
+    mass: 3.727 × 10<sup>25</sup> kg<br />(6.24 Yrths)
     density: 2.219 g/cm<sup>3</sup>
     surface_gravity: 9.843 m/s<sup>2</sup><br />(1.004 g<sub>0</sub>)
     escape_velocity: 17.696 km/s<br />(63,707 km/h)
     rotation_period: 0.669 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 199 K<br />(-74 °C)
+    temperature: 175 K<br />(-98 °C)
     composition:
       - 77.7537% hydrogen
       - 19.5703% helium
@@ -275,14 +275,14 @@ planets:
         radius: 9,096.9 km<br/>(1.428 Yrths)
         surface_area: 1.040 × 10<sup>09</sup> km<sup>2</sup><br/>(2.039 Yrths)
         volume: 3.153 × 10<sup>12</sup> km<sup>3</sup><br/>(2.911 Yrths)
-        mass: 5.764 × 10<sup>24</sup> kg<br />(6.240920483985969 Yrths)
+        mass: 5.764 × 10<sup>24</sup> kg<br />(0.965 Yrths)
         density: 1.828 g/cm<sup>3</sup>
         surface_gravity: 4.642 m/s<sup>2</sup><br />(0.473 g<sub>0</sub>)
         escape_velocity: 9.196 km/s<br />(33,107 km/h)
         rotation_period: 37.248 d
         axial_tilt: 16.95°
         albedo: 0.30
-        temperature: 1467 K<br />(1194 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 4155 Dialkeshiad IV b
         type: Icy
         formationType: Accreted
@@ -295,14 +295,14 @@ planets:
         radius: 13,580.3 km<br/>(2.132 Yrths)
         surface_area: 2.318 × 10<sup>09</sup> km<sup>2</sup><br/>(4.544 Yrths)
         volume: 1.049 × 10<sup>13</sup> km<sup>3</sup><br/>(9.685 Yrths)
-        mass: 7.409 × 10<sup>24</sup> kg<br />(6.240920483985969 Yrths)
+        mass: 7.409 × 10<sup>24</sup> kg<br />(1.241 Yrths)
         density: 0.706 g/cm<sup>3</sup>
         surface_gravity: 2.678 m/s<sup>2</sup><br />(0.273 g<sub>0</sub>)
         escape_velocity: 8.534 km/s<br />(30,721 km/h)
         rotation_period: 62.119 d
         axial_tilt: 24.67°
         albedo: 0.30
-        temperature: 1399 K<br />(1125 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 4155 Dialkeshiad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -315,14 +315,14 @@ planets:
         radius: 3,171.5 km<br/>(0.498 Yrths)
         surface_area: 1.264 × 10<sup>08</sup> km<sup>2</sup><br/>(0.248 Yrths)
         volume: 1.336 × 10<sup>11</sup> km<sup>3</sup><br/>(0.123 Yrths)
-        mass: 2.773 × 10<sup>23</sup> kg<br />(6.240920483985969 Yrths)
+        mass: 2.773 × 10<sup>23</sup> kg<br />(0.046 Yrths)
         density: 2.075 g/cm<sup>3</sup>
         surface_gravity: 1.838 m/s<sup>2</sup><br />(0.187 g<sub>0</sub>)
         escape_velocity: 3.416 km/s<br />(12,299 km/h)
         rotation_period: 35.620 d
         axial_tilt: 28.52°
         albedo: 0.30
-        temperature: 1333 K<br />(1060 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 4155 Dialkeshiad IV d
         type: Icy
         formationType: Captured
@@ -335,14 +335,14 @@ planets:
         radius: 5,141.4 km<br/>(0.807 Yrths)
         surface_area: 3.322 × 10<sup>08</sup> km<sup>2</sup><br/>(0.651 Yrths)
         volume: 5.693 × 10<sup>11</sup> km<sup>3</sup><br/>(0.526 Yrths)
-        mass: 7.767 × 10<sup>23</sup> kg<br />(6.240920483985969 Yrths)
+        mass: 7.767 × 10<sup>23</sup> kg<br />(0.130 Yrths)
         density: 1.364 g/cm<sup>3</sup>
         surface_gravity: 1.959 m/s<sup>2</sup><br />(0.200 g<sub>0</sub>)
         escape_velocity: 4.491 km/s<br />(16,167 km/h)
         rotation_period: 58.934 d
         axial_tilt: 10.03°
         albedo: 0.30
-        temperature: 1212 K<br />(939 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 4155 Dialkeshiad IV e
         type: Asteroid
         formationType: Captured
@@ -355,14 +355,14 @@ planets:
         radius: 7,057.0 km<br/>(1.108 Yrths)
         surface_area: 6.258 × 10<sup>08</sup> km<sup>2</sup><br/>(1.227 Yrths)
         volume: 1.472 × 10<sup>12</sup> km<sup>3</sup><br/>(1.359 Yrths)
-        mass: 3.832 × 10<sup>24</sup> kg<br />(6.240920483985969 Yrths)
+        mass: 3.832 × 10<sup>24</sup> kg<br />(0.642 Yrths)
         density: 2.603 g/cm<sup>3</sup>
         surface_gravity: 5.128 m/s<sup>2</sup><br />(0.523 g<sub>0</sub>)
         escape_velocity: 8.513 km/s<br />(30,648 km/h)
         rotation_period: 30.708 d
         axial_tilt: 53.78°
         albedo: 0.30
-        temperature: 1156 K<br />(883 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 4155 Dialkeshiad IV f
         type: Ice/rock hybrid
         formationType: Captured
@@ -375,14 +375,14 @@ planets:
         radius: 3,708.6 km<br/>(0.582 Yrths)
         surface_area: 1.728 × 10<sup>08</sup> km<sup>2</sup><br/>(0.339 Yrths)
         volume: 2.137 × 10<sup>11</sup> km<sup>3</sup><br/>(0.197 Yrths)
-        mass: 4.814 × 10<sup>23</sup> kg<br />(6.240920483985969 Yrths)
+        mass: 4.814 × 10<sup>23</sup> kg<br />(0.081 Yrths)
         density: 2.253 g/cm<sup>3</sup>
         surface_gravity: 2.333 m/s<sup>2</sup><br />(0.238 g<sub>0</sub>)
         escape_velocity: 4.163 km/s<br />(14,986 km/h)
         rotation_period: 34.857 d
         axial_tilt: 17.83°
         albedo: 0.30
-        temperature: 1051 K<br />(778 °C)
+        temperature: 144 K<br />(-129 °C)
   - name: 4155 Dialkeshiad V
     type: Ice giant
     aphelion: 591,188,804 km<br />3.952 AU
@@ -394,14 +394,14 @@ planets:
     radius: 26,257.2 km<br/>(4.121 Yrths)
     surface_area: 8.664 × 10<sup>09</sup> km<sup>2</sup><br/>(16.986 Yrths)
     volume: 7.583 × 10<sup>13</sup> km<sup>3</sup><br/>(70.004 Yrths)
-    mass: 8.879 × 10<sup>25</sup> kg<br />(14.867865185064126 Yrths)
+    mass: 8.879 × 10<sup>25</sup> kg<br />(14.87 Yrths)
     density: 1.171 g/cm<sup>3</sup>
     surface_gravity: 8.584 m/s<sup>2</sup><br />(0.875 g<sub>0</sub>)
     escape_velocity: 21.246 km/s<br />(76,486 km/h)
     rotation_period: 0.504 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 194 K<br />(-79 °C)
+    temperature: 175 K<br />(-98 °C)
     composition:
       - 58.5173% hydrogen
       - 38.7247% helium
@@ -420,14 +420,14 @@ planets:
         radius: 33,985.7 km<br/>(5.334 Yrths)
         surface_area: 1.451 × 10<sup>10</sup> km<sup>2</sup><br/>(28.456 Yrths)
         volume: 1.644 × 10<sup>14</sup> km<sup>3</sup><br/>(151.799 Yrths)
-        mass: 2.663 × 10<sup>26</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 2.663 × 10<sup>26</sup> kg<br />(44.585 Yrths)
         density: 1.619 g/cm<sup>3</sup>
         surface_gravity: 15.365 m/s<sup>2</sup><br />(1.567 g<sub>0</sub>)
         escape_velocity: 32.339 km/s<br />(116,420 km/h)
         rotation_period: 71.469 d
         axial_tilt: 9.24°
         albedo: 0.30
-        temperature: 976 K<br />(703 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 4155 Dialkeshiad V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -440,14 +440,14 @@ planets:
         radius: 12,713.3 km<br/>(1.995 Yrths)
         surface_area: 2.031 × 10<sup>09</sup> km<sup>2</sup><br/>(3.982 Yrths)
         volume: 8.607 × 10<sup>12</sup> km<sup>3</sup><br/>(7.946 Yrths)
-        mass: 1.377 × 10<sup>25</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 1.377 × 10<sup>25</sup> kg<br />(2.306 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 5.679 m/s<sup>2</sup><br />(0.579 g<sub>0</sub>)
         escape_velocity: 12.025 km/s<br />(43,290 km/h)
         rotation_period: 70.851 d
         axial_tilt: 24.56°
         albedo: 0.30
-        temperature: 931 K<br />(658 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 4155 Dialkeshiad V c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -460,14 +460,14 @@ planets:
         radius: 14,362.2 km<br/>(2.254 Yrths)
         surface_area: 2.592 × 10<sup>09</sup> km<sup>2</sup><br/>(5.082 Yrths)
         volume: 1.241 × 10<sup>13</sup> km<sup>3</sup><br/>(11.456 Yrths)
-        mass: 2.742 × 10<sup>25</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 2.742 × 10<sup>25</sup> kg<br />(4.592 Yrths)
         density: 2.210 g/cm<sup>3</sup>
         surface_gravity: 8.862 m/s<sup>2</sup><br />(0.904 g<sub>0</sub>)
         escape_velocity: 15.965 km/s<br />(57,475 km/h)
         rotation_period: 34.903 d
         axial_tilt: 7.77°
         albedo: 0.30
-        temperature: 887 K<br />(614 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 4155 Dialkeshiad V d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -480,14 +480,14 @@ planets:
         radius: 14,136.4 km<br/>(2.219 Yrths)
         surface_area: 2.511 × 10<sup>09</sup> km<sup>2</sup><br/>(4.923 Yrths)
         volume: 1.183 × 10<sup>13</sup> km<sup>3</sup><br/>(10.924 Yrths)
-        mass: 2.266 × 10<sup>25</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 2.266 × 10<sup>25</sup> kg<br />(3.795 Yrths)
         density: 1.915 g/cm<sup>3</sup>
         surface_gravity: 7.559 m/s<sup>2</sup><br />(0.771 g<sub>0</sub>)
         escape_velocity: 14.629 km/s<br />(52,664 km/h)
         rotation_period: 47.328 d
         axial_tilt: 28.68°
         albedo: 0.30
-        temperature: 846 K<br />(573 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 4155 Dialkeshiad V e
         type: Icy
         formationType: Accreted
@@ -500,14 +500,14 @@ planets:
         radius: 12,787.9 km<br/>(2.007 Yrths)
         surface_area: 2.055 × 10<sup>09</sup> km<sup>2</sup><br/>(4.029 Yrths)
         volume: 8.760 × 10<sup>12</sup> km<sup>3</sup><br/>(8.087 Yrths)
-        mass: 1.122 × 10<sup>25</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 1.122 × 10<sup>25</sup> kg<br />(1.879 Yrths)
         density: 1.281 g/cm<sup>3</sup>
         surface_gravity: 4.573 m/s<sup>2</sup><br />(0.466 g<sub>0</sub>)
         escape_velocity: 10.822 km/s<br />(38,959 km/h)
         rotation_period: 56.442 d
         axial_tilt: 5.33°
         albedo: 0.30
-        temperature: 769 K<br />(496 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 4155 Dialkeshiad V f
         type: Rocky
         formationType: Accreted
@@ -520,14 +520,14 @@ planets:
         radius: 11,395.5 km<br/>(1.789 Yrths)
         surface_area: 1.632 × 10<sup>09</sup> km<sup>2</sup><br/>(3.199 Yrths)
         volume: 6.199 × 10<sup>12</sup> km<sup>3</sup><br/>(5.722 Yrths)
-        mass: 1.768 × 10<sup>25</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 1.768 × 10<sup>25</sup> kg<br />(2.961 Yrths)
         density: 2.852 g/cm<sup>3</sup>
         surface_gravity: 9.075 m/s<sup>2</sup><br />(0.925 g<sub>0</sub>)
         escape_velocity: 14.392 km/s<br />(51,810 km/h)
         rotation_period: 50.806 d
         axial_tilt: 17.53°
         albedo: 0.30
-        temperature: 733 K<br />(460 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 4155 Dialkeshiad V g
         type: Icy
         formationType: Accreted
@@ -540,14 +540,14 @@ planets:
         radius: 14,091.8 km<br/>(2.212 Yrths)
         surface_area: 2.495 × 10<sup>09</sup> km<sup>2</sup><br/>(4.892 Yrths)
         volume: 1.172 × 10<sup>13</sup> km<sup>3</sup><br/>(10.821 Yrths)
-        mass: 2.227 × 10<sup>25</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 2.227 × 10<sup>25</sup> kg<br />(3.729 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 7.475 m/s<sup>2</sup><br />(0.762 g<sub>0</sub>)
         escape_velocity: 14.525 km/s<br />(52,289 km/h)
         rotation_period: 39.796 d
         axial_tilt: 12.24°
         albedo: 0.30
-        temperature: 636 K<br />(363 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 4155 Dialkeshiad V h
         type: Icy
         formationType: Accreted
@@ -560,14 +560,14 @@ planets:
         radius: 28,031.0 km<br/>(4.400 Yrths)
         surface_area: 9.874 × 10<sup>09</sup> km<sup>2</sup><br/>(19.358 Yrths)
         volume: 9.226 × 10<sup>13</sup> km<sup>3</sup><br/>(85.171 Yrths)
-        mass: 1.305 × 10<sup>26</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 1.305 × 10<sup>26</sup> kg<br />(21.859 Yrths)
         density: 1.415 g/cm<sup>3</sup>
         surface_gravity: 11.074 m/s<sup>2</sup><br />(1.129 g<sub>0</sub>)
         escape_velocity: 24.933 km/s<br />(89,759 km/h)
         rotation_period: 62.553 d
         axial_tilt: 21.38°
         albedo: 0.30
-        temperature: 578 K<br />(305 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 4155 Dialkeshiad V i
         type: Dwarf planet
         formationType: Impact formed
@@ -580,14 +580,14 @@ planets:
         radius: 17,898.4 km<br/>(2.809 Yrths)
         surface_area: 4.026 × 10<sup>09</sup> km<sup>2</sup><br/>(7.892 Yrths)
         volume: 2.402 × 10<sup>13</sup> km<sup>3</sup><br/>(22.173 Yrths)
-        mass: 3.378 × 10<sup>25</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 3.378 × 10<sup>25</sup> kg<br />(5.656 Yrths)
         density: 1.406 g/cm<sup>3</sup>
         surface_gravity: 7.028 m/s<sup>2</sup><br />(0.717 g<sub>0</sub>)
         escape_velocity: 15.872 km/s<br />(57,140 km/h)
         rotation_period: 59.217 d
         axial_tilt: 20.44°
         albedo: 0.30
-        temperature: 551 K<br />(278 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 4155 Dialkeshiad V j
         type: Ice/rock hybrid
         formationType: Captured
@@ -600,12 +600,12 @@ planets:
         radius: 12,763.9 km<br/>(2.003 Yrths)
         surface_area: 2.047 × 10<sup>09</sup> km<sup>2</sup><br/>(4.014 Yrths)
         volume: 8.710 × 10<sup>12</sup> km<sup>3</sup><br/>(8.041 Yrths)
-        mass: 2.189 × 10<sup>25</sup> kg<br />(14.867865185064126 Yrths)
+        mass: 2.189 × 10<sup>25</sup> kg<br />(3.666 Yrths)
         density: 2.514 g/cm<sup>3</sup>
         surface_gravity: 8.957 m/s<sup>2</sup><br />(0.913 g<sub>0</sub>)
         escape_velocity: 15.132 km/s<br />(54,474 km/h)
         rotation_period: 34.101 d
         axial_tilt: 28.68°
         albedo: 0.30
-        temperature: 525 K<br />(252 °C)
+        temperature: 111 K<br />(-162 °C)
 ---

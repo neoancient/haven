@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8373 Arkothiad A is a star in the constellation Arkoth
+      8373 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 368.66 ly
 apparent_magnitude: 8.96
 absolute_magnitude: 3.70

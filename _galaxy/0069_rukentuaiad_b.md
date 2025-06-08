@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0069 Rukentuaiad B is a star in the constellation Rukentua
+      0069 Rukentuaiad B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 200.41 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 6.04

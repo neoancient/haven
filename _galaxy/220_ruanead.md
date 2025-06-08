@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      220 Ruanead is a star in the constellation Ruane
+      220 Ruanead is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 472.66 ly
 apparent_magnitude: 15.79
 absolute_magnitude: 9.98

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2804 Narashiad is a star in the constellation Naras
+      2804 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 453.54 ly
 apparent_magnitude: 13.38
 absolute_magnitude: 7.67

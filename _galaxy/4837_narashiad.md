@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4837 Narashiad is a star in the constellation Naras
+      4837 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 433.56 ly
 apparent_magnitude: 11.29
 absolute_magnitude: 5.67

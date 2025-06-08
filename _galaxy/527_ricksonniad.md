@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      527 Ricksonniad is a star in the constellation Rickson
+      527 Ricksonniad is a star in the constellation <a href="rickson.html">Rickson</a>
 distance: 548.99 ly
 apparent_magnitude: 11.08
 absolute_magnitude: 4.95

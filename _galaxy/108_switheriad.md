@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      108 Switheriad is a star in the constellation Swither
+      108 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 225.52 ly
 apparent_magnitude: 11.04
 absolute_magnitude: 6.84

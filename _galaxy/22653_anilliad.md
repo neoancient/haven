@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      22653 Anilliad is a star in the constellation Anil
+      22653 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 755.37 ly
 apparent_magnitude: 12.79
 absolute_magnitude: 5.97

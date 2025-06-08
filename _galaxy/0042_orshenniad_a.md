@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0042 Orshenniad A is a star in the constellation Orshen
+      0042 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 248.50 ly
 apparent_magnitude: 6.46
 absolute_magnitude: 2.05

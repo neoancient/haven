@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      404 Saithiad is a star in the constellation Saith
+      404 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 2132.05 ly
 apparent_magnitude: 18.02
 absolute_magnitude: 8.94

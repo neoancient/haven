@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      531 Arkothiad is a star in the constellation Arkoth
+      531 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 298.28 ly
 apparent_magnitude: 9.34
 absolute_magnitude: 4.53
@@ -31,14 +31,14 @@ planets:
     radius: 6,683.6 km<br/>(1.049 Yrths)
     surface_area: 5.613 × 10<sup>08</sup> km<sup>2</sup><br/>(1.101 Yrths)
     volume: 1.251 × 10<sup>12</sup> km<sup>3</sup><br/>(1.155 Yrths)
-    mass: 8.092 × 10<sup>24</sup> kg<br />(1.3550129640933524 Yrths)
+    mass: 8.092 × 10<sup>24</sup> kg<br />(1.36 Yrths)
     density: 6.471 g/cm<sup>3</sup>
     surface_gravity: 12.074 m/s<sup>2</sup><br />(1.231 g<sub>0</sub>)
     escape_velocity: 12.713 km/s<br />(45,766 km/h)
     rotation_period: 1.007 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 383 K<br />(110 °C)
+    temperature: 818 K<br />(545 °C)
     surface_pressure: 943 kPa<br />(9 atm)
     composition:
       - 49.7299% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 4,657.4 km<br/>(0.731 Yrths)
         surface_area: 2.726 × 10<sup>08</sup> km<sup>2</sup><br/>(0.534 Yrths)
         volume: 4.232 × 10<sup>11</sup> km<sup>3</sup><br/>(0.391 Yrths)
-        mass: 1.232 × 10<sup>24</sup> kg<br />(1.3550129640933524 Yrths)
+        mass: 1.232 × 10<sup>24</sup> kg<br />(0.206 Yrths)
         density: 2.910 g/cm<sup>3</sup>
         surface_gravity: 3.784 m/s<sup>2</sup><br />(0.386 g<sub>0</sub>)
         escape_velocity: 5.941 km/s<br />(21,388 km/h)
         rotation_period: 48.931 d
         axial_tilt: 18.24°
         albedo: 0.30
-        temperature: 3947 K<br />(3674 °C)
+        temperature: 236 K<br />(-37 °C)
   - name: 531 Arkothiad II
     type: Ice giant
     aphelion: 400,586,523 km<br />2.678 AU
@@ -77,14 +77,14 @@ planets:
     radius: 23,535.7 km<br/>(3.694 Yrths)
     surface_area: 6.961 × 10<sup>09</sup> km<sup>2</sup><br/>(13.647 Yrths)
     volume: 5.461 × 10<sup>13</sup> km<sup>3</sup><br/>(50.415 Yrths)
-    mass: 8.029 × 10<sup>25</sup> kg<br />(13.444358011454076 Yrths)
+    mass: 8.029 × 10<sup>25</sup> kg<br />(13.44 Yrths)
     density: 1.470 g/cm<sup>3</sup>
     surface_gravity: 9.661 m/s<sup>2</sup><br />(0.985 g<sub>0</sub>)
     escape_velocity: 21.339 km/s<br />(76,822 km/h)
     rotation_period: 0.427 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 323 K<br />(50 °C)
+    temperature: 294 K<br />(21 °C)
     composition:
       - 87.2966% hydrogen
       - 10.3600% helium
@@ -104,14 +104,14 @@ planets:
         radius: 18,669.4 km<br/>(2.930 Yrths)
         surface_area: 4.380 × 10<sup>09</sup> km<sup>2</sup><br/>(8.587 Yrths)
         volume: 2.726 × 10<sup>13</sup> km<sup>3</sup><br/>(25.163 Yrths)
-        mass: 4.647 × 10<sup>25</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 4.647 × 10<sup>25</sup> kg<br />(7.781 Yrths)
         density: 1.705 g/cm<sup>3</sup>
         surface_gravity: 8.886 m/s<sup>2</sup><br />(0.906 g<sub>0</sub>)
         escape_velocity: 18.228 km/s<br />(65,620 km/h)
         rotation_period: 41.911 d
         axial_tilt: 10.88°
         albedo: 0.30
-        temperature: 1665 K<br />(1391 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II b
         type: Dwarf planet
         formationType: Accreted
@@ -124,14 +124,14 @@ planets:
         radius: 9,512.8 km<br/>(1.493 Yrths)
         surface_area: 1.137 × 10<sup>09</sup> km<sup>2</sup><br/>(2.229 Yrths)
         volume: 3.606 × 10<sup>12</sup> km<sup>3</sup><br/>(3.329 Yrths)
-        mass: 6.225 × 10<sup>24</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 6.225 × 10<sup>24</sup> kg<br />(1.042 Yrths)
         density: 1.726 g/cm<sup>3</sup>
         surface_gravity: 4.585 m/s<sup>2</sup><br />(0.468 g<sub>0</sub>)
         escape_velocity: 9.346 km/s<br />(33,646 km/h)
         rotation_period: 72.127 d
         axial_tilt: 40.53°
         albedo: 0.30
-        temperature: 1587 K<br />(1314 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II c
         type: Asteroid
         formationType: Captured
@@ -144,14 +144,14 @@ planets:
         radius: 12,464.5 km<br/>(1.956 Yrths)
         surface_area: 1.952 × 10<sup>09</sup> km<sup>2</sup><br/>(3.828 Yrths)
         volume: 8.112 × 10<sup>12</sup> km<sup>3</sup><br/>(7.489 Yrths)
-        mass: 1.862 × 10<sup>25</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 1.862 × 10<sup>25</sup> kg<br />(3.118 Yrths)
         density: 2.295 g/cm<sup>3</sup>
         surface_gravity: 7.988 m/s<sup>2</sup><br />(0.815 g<sub>0</sub>)
         escape_velocity: 14.121 km/s<br />(50,836 km/h)
         rotation_period: 36.418 d
         axial_tilt: 22.32°
         albedo: 0.30
-        temperature: 1513 K<br />(1240 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II d
         type: Icy
         formationType: Captured
@@ -164,14 +164,14 @@ planets:
         radius: 18,394.8 km<br/>(2.887 Yrths)
         surface_area: 4.252 × 10<sup>09</sup> km<sup>2</sup><br/>(8.336 Yrths)
         volume: 2.607 × 10<sup>13</sup> km<sup>3</sup><br/>(24.069 Yrths)
-        mass: 4.043 × 10<sup>25</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 4.043 × 10<sup>25</sup> kg<br />(6.770 Yrths)
         density: 1.551 g/cm<sup>3</sup>
         surface_gravity: 7.964 m/s<sup>2</sup><br />(0.812 g<sub>0</sub>)
         escape_velocity: 17.129 km/s<br />(61,664 km/h)
         rotation_period: 43.772 d
         axial_tilt: 16.37°
         albedo: 0.30
-        temperature: 1443 K<br />(1170 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -184,14 +184,14 @@ planets:
         radius: 8,759.9 km<br/>(1.375 Yrths)
         surface_area: 9.643 × 10<sup>08</sup> km<sup>2</sup><br/>(1.891 Yrths)
         volume: 2.816 × 10<sup>12</sup> km<sup>3</sup><br/>(2.599 Yrths)
-        mass: 7.011 × 10<sup>24</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 7.011 × 10<sup>24</sup> kg<br />(1.174 Yrths)
         density: 2.490 g/cm<sup>3</sup>
         surface_gravity: 6.090 m/s<sup>2</sup><br />(0.621 g<sub>0</sub>)
         escape_velocity: 10.336 km/s<br />(37,210 km/h)
         rotation_period: 42.784 d
         axial_tilt: 18.15°
         albedo: 0.30
-        temperature: 1312 K<br />(1039 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -204,14 +204,14 @@ planets:
         radius: 18,781.4 km<br/>(2.948 Yrths)
         surface_area: 4.433 × 10<sup>09</sup> km<sup>2</sup><br/>(8.690 Yrths)
         volume: 2.775 × 10<sup>13</sup> km<sup>3</sup><br/>(25.619 Yrths)
-        mass: 7.148 × 10<sup>25</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 7.148 × 10<sup>25</sup> kg<br />(11.969 Yrths)
         density: 2.576 g/cm<sup>3</sup>
         surface_gravity: 13.506 m/s<sup>2</sup><br />(1.377 g<sub>0</sub>)
         escape_velocity: 22.539 km/s<br />(81,142 km/h)
         rotation_period: 37.518 d
         axial_tilt: 32.62°
         albedo: 0.30
-        temperature: 1251 K<br />(977 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II g
         type: Asteroid
         formationType: Captured
@@ -224,14 +224,14 @@ planets:
         radius: 21,121.7 km<br/>(3.315 Yrths)
         surface_area: 5.606 × 10<sup>09</sup> km<sup>2</sup><br/>(10.991 Yrths)
         volume: 3.947 × 10<sup>13</sup> km<sup>3</sup><br/>(36.439 Yrths)
-        mass: 6.431 × 10<sup>25</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 6.431 × 10<sup>25</sup> kg<br />(10.769 Yrths)
         density: 1.629 g/cm<sup>3</sup>
         surface_gravity: 9.608 m/s<sup>2</sup><br />(0.980 g<sub>0</sub>)
         escape_velocity: 20.160 km/s<br />(72,577 km/h)
         rotation_period: 49.652 d
         axial_tilt: 36.30°
         albedo: 0.30
-        temperature: 1137 K<br />(864 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II h
         type: Asteroid
         formationType: Captured
@@ -244,14 +244,14 @@ planets:
         radius: 23,090.7 km<br/>(3.624 Yrths)
         surface_area: 6.700 × 10<sup>09</sup> km<sup>2</sup><br/>(13.136 Yrths)
         volume: 5.157 × 10<sup>13</sup> km<sup>3</sup><br/>(47.609 Yrths)
-        mass: 1.442 × 10<sup>26</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 1.442 × 10<sup>26</sup> kg<br />(24.150 Yrths)
         density: 2.797 g/cm<sup>3</sup>
         surface_gravity: 18.029 m/s<sup>2</sup><br />(1.838 g<sub>0</sub>)
         escape_velocity: 28.875 km/s<br />(103,949 km/h)
         rotation_period: 47.974 d
         axial_tilt: 50.13°
         albedo: 0.30
-        temperature: 1084 K<br />(811 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -264,14 +264,14 @@ planets:
         radius: 7,251.2 km<br/>(1.138 Yrths)
         surface_area: 6.607 × 10<sup>08</sup> km<sup>2</sup><br/>(1.295 Yrths)
         volume: 1.597 × 10<sup>12</sup> km<sup>3</sup><br/>(1.474 Yrths)
-        mass: 2.555 × 10<sup>24</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 2.555 × 10<sup>24</sup> kg<br />(0.428 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 3.239 m/s<sup>2</sup><br />(0.330 g<sub>0</sub>)
         escape_velocity: 6.859 km/s<br />(24,691 km/h)
         rotation_period: 43.510 d
         axial_tilt: 20.18°
         albedo: 0.30
-        temperature: 1034 K<br />(760 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II j
         type: Icy
         formationType: Impact formed
@@ -284,14 +284,14 @@ planets:
         radius: 18,040.6 km<br/>(2.832 Yrths)
         surface_area: 4.090 × 10<sup>09</sup> km<sup>2</sup><br/>(8.018 Yrths)
         volume: 2.459 × 10<sup>13</sup> km<sup>3</sup><br/>(22.705 Yrths)
-        mass: 2.212 × 10<sup>25</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 2.212 × 10<sup>25</sup> kg<br />(3.705 Yrths)
         density: 0.900 g/cm<sup>3</sup>
         surface_gravity: 4.531 m/s<sup>2</sup><br />(0.462 g<sub>0</sub>)
         escape_velocity: 12.795 km/s<br />(46,061 km/h)
         rotation_period: 61.698 d
         axial_tilt: 13.33°
         albedo: 0.30
-        temperature: 985 K<br />(712 °C)
+        temperature: 173 K<br />(-100 °C)
       - name: 531 Arkothiad II k
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -304,14 +304,14 @@ planets:
         radius: 30,083.0 km<br/>(4.722 Yrths)
         surface_area: 1.137 × 10<sup>10</sup> km<sup>2</sup><br/>(22.296 Yrths)
         volume: 1.140 × 10<sup>14</sup> km<sup>3</sup><br/>(105.279 Yrths)
-        mass: 2.311 × 10<sup>26</sup> kg<br />(13.444358011454076 Yrths)
+        mass: 2.311 × 10<sup>26</sup> kg<br />(38.691 Yrths)
         density: 2.026 g/cm<sup>3</sup>
         surface_gravity: 17.018 m/s<sup>2</sup><br />(1.735 g<sub>0</sub>)
         escape_velocity: 32.020 km/s<br />(115,272 km/h)
         rotation_period: 49.772 d
         axial_tilt: 26.62°
         albedo: 0.30
-        temperature: 940 K<br />(666 °C)
+        temperature: 173 K<br />(-100 °C)
   - name: 531 Arkothiad III
     type: Terrestrial
     aphelion: 731,124,299 km<br />4.887 AU
@@ -323,7 +323,7 @@ planets:
     radius: 6,406.1 km<br/>(1.006 Yrths)
     surface_area: 5.157 × 10<sup>08</sup> km<sup>2</sup><br/>(1.011 Yrths)
     volume: 1.101 × 10<sup>12</sup> km<sup>3</sup><br/>(1.017 Yrths)
-    mass: 5.316 × 10<sup>24</sup> kg<br />(0.8902196876568315 Yrths)
+    mass: 5.316 × 10<sup>24</sup> kg<br />(0.89 Yrths)
     density: 4.828 g/cm<sup>3</sup>
     surface_gravity: 8.635 m/s<sup>2</sup><br />(0.880 g<sub>0</sub>)
     escape_velocity: 10.525 km/s<br />(37,891 km/h)
@@ -344,14 +344,14 @@ planets:
         radius: 2,184.5 km<br/>(0.343 Yrths)
         surface_area: 5.997 × 10<sup>07</sup> km<sup>2</sup><br/>(0.118 Yrths)
         volume: 4.367 × 10<sup>10</sup> km<sup>3</sup><br/>(0.040 Yrths)
-        mass: 6.987 × 10<sup>22</sup> kg<br />(0.8902196876568315 Yrths)
+        mass: 6.987 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 0.976 m/s<sup>2</sup><br />(0.100 g<sub>0</sub>)
         escape_velocity: 2.066 km/s<br />(7,438 km/h)
         rotation_period: 53.201 d
         axial_tilt: 25.37°
         albedo: 0.30
-        temperature: 1917 K<br />(1644 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 531 Arkothiad III b
         type: Icy
         formationType: Captured
@@ -364,14 +364,14 @@ planets:
         radius: 2,181.3 km<br/>(0.342 Yrths)
         surface_area: 5.979 × 10<sup>07</sup> km<sup>2</sup><br/>(0.117 Yrths)
         volume: 4.348 × 10<sup>10</sup> km<sup>3</sup><br/>(0.040 Yrths)
-        mass: 3.043 × 10<sup>22</sup> kg<br />(0.8902196876568315 Yrths)
+        mass: 3.043 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 0.426 m/s<sup>2</sup><br />(0.043 g<sub>0</sub>)
         escape_velocity: 1.365 km/s<br />(4,913 km/h)
         rotation_period: 116.547 d
         axial_tilt: 14.94°
         albedo: 0.30
-        temperature: 1828 K<br />(1555 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 531 Arkothiad III c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -384,14 +384,14 @@ planets:
         radius: 2,065.5 km<br/>(0.324 Yrths)
         surface_area: 5.361 × 10<sup>07</sup> km<sup>2</sup><br/>(0.105 Yrths)
         volume: 3.691 × 10<sup>10</sup> km<sup>3</sup><br/>(0.034 Yrths)
-        mass: 9.012 × 10<sup>22</sup> kg<br />(0.8902196876568315 Yrths)
+        mass: 9.012 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 2.442 g/cm<sup>3</sup>
         surface_gravity: 1.408 m/s<sup>2</sup><br />(0.144 g<sub>0</sub>)
         escape_velocity: 2.413 km/s<br />(8,688 km/h)
         rotation_period: 46.923 d
         axial_tilt: 28.67°
         albedo: 0.30
-        temperature: 1743 K<br />(1469 °C)
+        temperature: 127 K<br />(-146 °C)
   - name: 531 Arkothiad IV
     type: Gas giant
     aphelion: 1,434,299,308 km<br />9.588 AU
@@ -403,7 +403,7 @@ planets:
     radius: 220.9 km<br/>(0.035 Yrths)
     surface_area: 6.133 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.516 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.544 × 10<sup>27</sup> kg<br />(258.53640233964757 Yrths)
+    mass: 1.544 × 10<sup>27</sup> kg<br />(258.54 Yrths)
     density: 34189498.352 g/cm<sup>3</sup>
     surface_gravity: 2108713.016 m/s<sup>2</sup><br />(215028.885 g<sub>0</sub>)
     escape_velocity: 965.892 km/s<br />(3,477,211 km/h)
@@ -424,14 +424,14 @@ planets:
         radius: 207,094.9 km<br/>(32.506 Yrths)
         surface_area: 5.390 × 10<sup>11</sup> km<sup>2</sup><br/>(1056.632 Yrths)
         volume: 3.720 × 10<sup>16</sup> km<sup>3</sup><br/>(34346.741 Yrths)
-        mass: 4.700 × 10<sup>28</sup> kg<br />(258.53640233964757 Yrths)
+        mass: 4.700 × 10<sup>28</sup> kg<br />(7869.698 Yrths)
         density: 1.263 g/cm<sup>3</sup>
         surface_gravity: 73.039 m/s<sup>2</sup><br />(7.448 g<sub>0</sub>)
         escape_velocity: 174.049 km/s<br />(626,577 km/h)
         rotation_period: 46.482 d
         axial_tilt: 13.35°
         albedo: 0.30
-        temperature: 546 K<br />(273 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 531 Arkothiad IV b
         type: Rocky
         formationType: Accreted
@@ -444,14 +444,14 @@ planets:
         radius: 174,034.2 km<br/>(27.317 Yrths)
         surface_area: 3.806 × 10<sup>11</sup> km<sup>2</sup><br/>(746.198 Yrths)
         volume: 2.208 × 10<sup>16</sup> km<sup>3</sup><br/>(20383.593 Yrths)
-        mass: 6.682 × 10<sup>28</sup> kg<br />(258.53640233964757 Yrths)
+        mass: 6.682 × 10<sup>28</sup> kg<br />(11189.402 Yrths)
         density: 3.026 g/cm<sup>3</sup>
         surface_gravity: 147.053 m/s<sup>2</sup><br />(14.995 g<sub>0</sub>)
         escape_velocity: 226.393 km/s<br />(815,017 km/h)
         rotation_period: 33.656 d
         axial_tilt: 10.57°
         albedo: 0.30
-        temperature: 496 K<br />(223 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 531 Arkothiad IV c
         type: Asteroid
         formationType: Captured
@@ -464,14 +464,14 @@ planets:
         radius: 135,284.6 km<br/>(21.234 Yrths)
         surface_area: 2.300 × 10<sup>11</sup> km<sup>2</sup><br/>(450.901 Yrths)
         volume: 1.037 × 10<sup>16</sup> km<sup>3</sup><br/>(9574.637 Yrths)
-        mass: 3.837 × 10<sup>28</sup> kg<br />(258.53640233964757 Yrths)
+        mass: 3.837 × 10<sup>28</sup> kg<br />(6425.630 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 139.751 m/s<sup>2</sup><br />(14.251 g<sub>0</sub>)
         escape_velocity: 194.586 km/s<br />(700,509 km/h)
         rotation_period: 49.445 d
         axial_tilt: 27.76°
         albedo: 0.30
-        temperature: 308 K<br />(35 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 531 Arkothiad IV d
         type: Icy
         formationType: Accreted
@@ -484,14 +484,14 @@ planets:
         radius: 242,242.2 km<br/>(38.023 Yrths)
         surface_area: 7.374 × 10<sup>11</sup> km<sup>2</sup><br/>(1445.721 Yrths)
         volume: 5.954 × 10<sup>16</sup> km<sup>3</sup><br/>(54970.122 Yrths)
-        mass: 7.893 × 10<sup>28</sup> kg<br />(258.53640233964757 Yrths)
+        mass: 7.893 × 10<sup>28</sup> kg<br />(13216.162 Yrths)
         density: 1.326 g/cm<sup>3</sup>
         surface_gravity: 89.648 m/s<sup>2</sup><br />(9.142 g<sub>0</sub>)
         escape_velocity: 208.548 km/s<br />(750,772 km/h)
         rotation_period: 52.655 d
         axial_tilt: 22.00°
         albedo: 0.30
-        temperature: 255 K<br />(-18 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 531 Arkothiad IV e
         type: Asteroid
         formationType: Captured
@@ -504,14 +504,14 @@ planets:
         radius: 154,154.8 km<br/>(24.196 Yrths)
         surface_area: 2.986 × 10<sup>11</sup> km<sup>2</sup><br/>(585.462 Yrths)
         volume: 1.534 × 10<sup>16</sup> km<sup>3</sup><br/>(14166.043 Yrths)
-        mass: 3.256 × 10<sup>28</sup> kg<br />(258.53640233964757 Yrths)
+        mass: 3.256 × 10<sup>28</sup> kg<br />(5451.465 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 91.313 m/s<sup>2</sup><br />(9.311 g<sub>0</sub>)
         escape_velocity: 167.902 km/s<br />(604,447 km/h)
         rotation_period: 46.871 d
         axial_tilt: 47.08°
         albedo: 0.30
-        temperature: 221 K<br />(-52 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 531 Arkothiad IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -524,14 +524,14 @@ planets:
         radius: 141,918.9 km<br/>(22.276 Yrths)
         surface_area: 2.531 × 10<sup>11</sup> km<sup>2</sup><br/>(496.210 Yrths)
         volume: 1.197 × 10<sup>16</sup> km<sup>3</sup><br/>(11053.449 Yrths)
-        mass: 3.107 × 10<sup>28</sup> kg<br />(258.53640233964757 Yrths)
+        mass: 3.107 × 10<sup>28</sup> kg<br />(5201.881 Yrths)
         density: 2.595 g/cm<sup>3</sup>
         surface_gravity: 102.805 m/s<sup>2</sup><br />(10.483 g<sub>0</sub>)
         escape_velocity: 170.938 km/s<br />(615,376 km/h)
         rotation_period: 42.632 d
         axial_tilt: 23.17°
         albedo: 0.30
-        temperature: 211 K<br />(-63 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 531 Arkothiad IV g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -544,14 +544,14 @@ planets:
         radius: 159,555.4 km<br/>(25.044 Yrths)
         surface_area: 3.199 × 10<sup>11</sup> km<sup>2</sup><br/>(627.202 Yrths)
         volume: 1.701 × 10<sup>16</sup> km<sup>3</sup><br/>(15707.653 Yrths)
-        mass: 3.544 × 10<sup>28</sup> kg<br />(258.53640233964757 Yrths)
+        mass: 3.544 × 10<sup>28</sup> kg<br />(5934.849 Yrths)
         density: 2.083 g/cm<sup>3</sup>
         surface_gravity: 92.795 m/s<sup>2</sup><br />(9.462 g<sub>0</sub>)
         escape_velocity: 172.198 km/s<br />(619,911 km/h)
         rotation_period: 40.602 d
         axial_tilt: 19.56°
         albedo: 0.30
-        temperature: 183 K<br />(-91 °C)
+        temperature: 93 K<br />(-180 °C)
       - name: 531 Arkothiad IV h
         type: Icy
         formationType: Captured
@@ -564,14 +564,14 @@ planets:
         radius: 289,456.9 km<br/>(45.434 Yrths)
         surface_area: 1.053 × 10<sup>12</sup> km<sup>2</sup><br/>(2064.204 Yrths)
         volume: 1.016 × 10<sup>17</sup> km<sup>3</sup><br/>(93784.040 Yrths)
-        mass: 1.079 × 10<sup>29</sup> kg<br />(258.53640233964757 Yrths)
+        mass: 1.079 × 10<sup>29</sup> kg<br />(18062.942 Yrths)
         density: 1.062 g/cm<sup>3</sup>
         surface_gravity: 85.814 m/s<sup>2</sup><br />(8.751 g<sub>0</sub>)
         escape_velocity: 223.039 km/s<br />(802,939 km/h)
         rotation_period: 84.407 d
         axial_tilt: 10.38°
         albedo: 0.30
-        temperature: 174 K<br />(-99 °C)
+        temperature: 93 K<br />(-180 °C)
   - name: 531 Arkothiad V
     type: Ice giant
     aphelion: 2,426,275,235 km<br />16.218 AU
@@ -583,14 +583,14 @@ planets:
     radius: 19,495.1 km<br/>(3.060 Yrths)
     surface_area: 4.776 × 10<sup>09</sup> km<sup>2</sup><br/>(9.363 Yrths)
     volume: 3.104 × 10<sup>13</sup> km<sup>3</sup><br/>(28.652 Yrths)
-    mass: 5.014 × 10<sup>25</sup> kg<br />(8.395930162569732 Yrths)
+    mass: 5.014 × 10<sup>25</sup> kg<br />(8.40 Yrths)
     density: 1.616 g/cm<sup>3</sup>
     surface_gravity: 8.793 m/s<sup>2</sup><br />(0.897 g<sub>0</sub>)
     escape_velocity: 18.529 km/s<br />(66,704 km/h)
     rotation_period: 0.375 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 127 K<br />(-146 °C)
+    temperature: 115 K<br />(-159 °C)
     composition:
       - 82.7653% hydrogen
       - 16.5686% helium
@@ -608,14 +608,14 @@ planets:
         radius: 5,400.3 km<br/>(0.848 Yrths)
         surface_area: 3.665 × 10<sup>08</sup> km<sup>2</sup><br/>(0.718 Yrths)
         volume: 6.597 × 10<sup>11</sup> km<sup>3</sup><br/>(0.609 Yrths)
-        mass: 1.154 × 10<sup>24</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 1.154 × 10<sup>24</sup> kg<br />(0.193 Yrths)
         density: 1.749 g/cm<sup>3</sup>
         surface_gravity: 2.637 m/s<sup>2</sup><br />(0.269 g<sub>0</sub>)
         escape_velocity: 5.341 km/s<br />(19,226 km/h)
         rotation_period: 43.788 d
         axial_tilt: 37.43°
         albedo: 0.30
-        temperature: 709 K<br />(436 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V b
         type: Icy
         formationType: Captured
@@ -628,14 +628,14 @@ planets:
         radius: 10,293.1 km<br/>(1.616 Yrths)
         surface_area: 1.331 × 10<sup>09</sup> km<sup>2</sup><br/>(2.610 Yrths)
         volume: 4.568 × 10<sup>12</sup> km<sup>3</sup><br/>(4.217 Yrths)
-        mass: 5.971 × 10<sup>24</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 5.971 × 10<sup>24</sup> kg<br />(1.000 Yrths)
         density: 1.307 g/cm<sup>3</sup>
         surface_gravity: 3.757 m/s<sup>2</sup><br />(0.383 g<sub>0</sub>)
         escape_velocity: 8.800 km/s<br />(31,680 km/h)
         rotation_period: 49.237 d
         axial_tilt: 14.24°
         albedo: 0.30
-        temperature: 676 K<br />(403 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -648,14 +648,14 @@ planets:
         radius: 7,633.4 km<br/>(1.198 Yrths)
         surface_area: 7.322 × 10<sup>08</sup> km<sup>2</sup><br/>(1.436 Yrths)
         volume: 1.863 × 10<sup>12</sup> km<sup>3</sup><br/>(1.720 Yrths)
-        mass: 3.816 × 10<sup>24</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 3.816 × 10<sup>24</sup> kg<br />(0.639 Yrths)
         density: 2.048 g/cm<sup>3</sup>
         surface_gravity: 4.365 m/s<sup>2</sup><br />(0.445 g<sub>0</sub>)
         escape_velocity: 8.169 km/s<br />(29,409 km/h)
         rotation_period: 53.990 d
         axial_tilt: 30.37°
         albedo: 0.30
-        temperature: 615 K<br />(341 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V d
         type: Asteroid
         formationType: Captured
@@ -668,14 +668,14 @@ planets:
         radius: 9,786.9 km<br/>(1.536 Yrths)
         surface_area: 1.204 × 10<sup>09</sup> km<sup>2</sup><br/>(2.360 Yrths)
         volume: 3.927 × 10<sup>12</sup> km<sup>3</sup><br/>(3.625 Yrths)
-        mass: 1.083 × 10<sup>25</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 1.083 × 10<sup>25</sup> kg<br />(1.813 Yrths)
         density: 2.757 g/cm<sup>3</sup>
         surface_gravity: 7.533 m/s<sup>2</sup><br />(0.768 g<sub>0</sub>)
         escape_velocity: 12.151 km/s<br />(43,745 km/h)
         rotation_period: 30.787 d
         axial_tilt: 40.72°
         albedo: 0.30
-        temperature: 586 K<br />(313 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V e
         type: Icy
         formationType: Impact formed
@@ -688,14 +688,14 @@ planets:
         radius: 12,157.1 km<br/>(1.908 Yrths)
         surface_area: 1.857 × 10<sup>09</sup> km<sup>2</sup><br/>(3.641 Yrths)
         volume: 7.526 × 10<sup>12</sup> km<sup>3</sup><br/>(6.948 Yrths)
-        mass: 5.268 × 10<sup>24</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 5.268 × 10<sup>24</sup> kg<br />(0.882 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 2.376 m/s<sup>2</sup><br />(0.242 g<sub>0</sub>)
         escape_velocity: 7.606 km/s<br />(27,381 km/h)
         rotation_period: 74.928 d
         axial_tilt: 19.67°
         albedo: 0.30
-        temperature: 559 K<br />(286 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V f
         type: Ice/rock hybrid
         formationType: Captured
@@ -708,14 +708,14 @@ planets:
         radius: 5,540.1 km<br/>(0.870 Yrths)
         surface_area: 3.857 × 10<sup>08</sup> km<sup>2</sup><br/>(0.756 Yrths)
         volume: 7.123 × 10<sup>11</sup> km<sup>3</sup><br/>(0.658 Yrths)
-        mass: 1.645 × 10<sup>24</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 1.645 × 10<sup>24</sup> kg<br />(0.275 Yrths)
         density: 2.309 g/cm<sup>3</sup>
         surface_gravity: 3.572 m/s<sup>2</sup><br />(0.364 g<sub>0</sub>)
         escape_velocity: 6.295 km/s<br />(22,663 km/h)
         rotation_period: 49.605 d
         axial_tilt: 22.90°
         albedo: 0.30
-        temperature: 533 K<br />(260 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V g
         type: Ice/rock hybrid
         formationType: Captured
@@ -728,14 +728,14 @@ planets:
         radius: 8,019.8 km<br/>(1.259 Yrths)
         surface_area: 8.082 × 10<sup>08</sup> km<sup>2</sup><br/>(1.585 Yrths)
         volume: 2.161 × 10<sup>12</sup> km<sup>3</sup><br/>(1.995 Yrths)
-        mass: 3.961 × 10<sup>24</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 3.961 × 10<sup>24</sup> kg<br />(0.663 Yrths)
         density: 1.833 g/cm<sup>3</sup>
         surface_gravity: 4.104 m/s<sup>2</sup><br />(0.419 g<sub>0</sub>)
         escape_velocity: 8.119 km/s<br />(29,230 km/h)
         rotation_period: 39.141 d
         axial_tilt: 22.43°
         albedo: 0.30
-        temperature: 508 K<br />(235 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V h
         type: Icy
         formationType: Accreted
@@ -748,14 +748,14 @@ planets:
         radius: 23,719.3 km<br/>(3.723 Yrths)
         surface_area: 7.070 × 10<sup>09</sup> km<sup>2</sup><br/>(13.861 Yrths)
         volume: 5.590 × 10<sup>13</sup> km<sup>3</sup><br/>(51.604 Yrths)
-        mass: 6.273 × 10<sup>25</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 6.273 × 10<sup>25</sup> kg<br />(10.505 Yrths)
         density: 1.122 g/cm<sup>3</sup>
         surface_gravity: 7.432 m/s<sup>2</sup><br />(0.758 g<sub>0</sub>)
         escape_velocity: 18.789 km/s<br />(67,642 km/h)
         rotation_period: 92.749 d
         axial_tilt: 23.90°
         albedo: 0.30
-        temperature: 484 K<br />(211 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -768,14 +768,14 @@ planets:
         radius: 4,773.7 km<br/>(0.749 Yrths)
         surface_area: 2.864 × 10<sup>08</sup> km<sup>2</sup><br/>(0.561 Yrths)
         volume: 4.557 × 10<sup>11</sup> km<sup>3</sup><br/>(0.421 Yrths)
-        mass: 8.785 × 10<sup>23</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 8.785 × 10<sup>23</sup> kg<br />(0.147 Yrths)
         density: 1.928 g/cm<sup>3</sup>
         surface_gravity: 2.570 m/s<sup>2</sup><br />(0.262 g<sub>0</sub>)
         escape_velocity: 4.956 km/s<br />(17,843 km/h)
         rotation_period: 52.252 d
         axial_tilt: 14.68°
         albedo: 0.30
-        temperature: 462 K<br />(189 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -788,14 +788,14 @@ planets:
         radius: 7,204.1 km<br/>(1.131 Yrths)
         surface_area: 6.522 × 10<sup>08</sup> km<sup>2</sup><br/>(1.279 Yrths)
         volume: 1.566 × 10<sup>12</sup> km<sup>3</sup><br/>(1.446 Yrths)
-        mass: 3.676 × 10<sup>24</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 3.676 × 10<sup>24</sup> kg<br />(0.615 Yrths)
         density: 2.347 g/cm<sup>3</sup>
         surface_gravity: 4.721 m/s<sup>2</sup><br />(0.481 g<sub>0</sub>)
         escape_velocity: 8.253 km/s<br />(29,710 km/h)
         rotation_period: 47.322 d
         axial_tilt: 25.78°
         albedo: 0.30
-        temperature: 440 K<br />(167 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V k
         type: Ice/rock hybrid
         formationType: Captured
@@ -808,14 +808,14 @@ planets:
         radius: 10,125.9 km<br/>(1.589 Yrths)
         surface_area: 1.288 × 10<sup>09</sup> km<sup>2</sup><br/>(2.526 Yrths)
         volume: 4.349 × 10<sup>12</sup> km<sup>3</sup><br/>(4.015 Yrths)
-        mass: 8.743 × 10<sup>24</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 8.743 × 10<sup>24</sup> kg<br />(1.464 Yrths)
         density: 2.010 g/cm<sup>3</sup>
         surface_gravity: 5.683 m/s<sup>2</sup><br />(0.580 g<sub>0</sub>)
         escape_velocity: 10.735 km/s<br />(38,648 km/h)
         rotation_period: 60.123 d
         axial_tilt: 18.78°
         albedo: 0.30
-        temperature: 420 K<br />(147 °C)
+        temperature: 68 K<br />(-205 °C)
       - name: 531 Arkothiad V l
         type: Ice/rock hybrid
         formationType: Accreted
@@ -828,12 +828,12 @@ planets:
         radius: 7,128.9 km<br/>(1.119 Yrths)
         surface_area: 6.386 × 10<sup>08</sup> km<sup>2</sup><br/>(1.252 Yrths)
         volume: 1.518 × 10<sup>12</sup> km<sup>3</sup><br/>(1.401 Yrths)
-        mass: 3.324 × 10<sup>24</sup> kg<br />(8.395930162569732 Yrths)
+        mass: 3.324 × 10<sup>24</sup> kg<br />(0.557 Yrths)
         density: 2.190 g/cm<sup>3</sup>
         surface_gravity: 4.359 m/s<sup>2</sup><br />(0.444 g<sub>0</sub>)
         escape_velocity: 7.889 km/s<br />(28,399 km/h)
         rotation_period: 46.437 d
         axial_tilt: 21.49°
         albedo: 0.30
-        temperature: 400 K<br />(127 °C)
+        temperature: 68 K<br />(-205 °C)
 ---

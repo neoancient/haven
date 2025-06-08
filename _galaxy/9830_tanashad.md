@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9830 Tanashad is a star in the constellation Tanas
+      9830 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 430.32 ly
 apparent_magnitude: 10.56
 absolute_magnitude: 4.96

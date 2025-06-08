@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6 Arkothiad is a star in the constellation Arkoth
+      6 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 128.67 ly
 apparent_magnitude: 8.38
 absolute_magnitude: 5.40

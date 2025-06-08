@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3443 Noniashad A is a star in the constellation Nonias
+      3443 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 823.35 ly
 apparent_magnitude: 7.62
 absolute_magnitude: 0.61

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1046 Switheriad A is a star in the constellation Swither
+      1046 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 149.31 ly
 apparent_magnitude: 8.19
 absolute_magnitude: 4.89

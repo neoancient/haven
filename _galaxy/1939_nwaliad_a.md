@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1939 Nwaliad A is a star in the constellation Nwal
+      1939 Nwaliad A is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 431.06 ly
 apparent_magnitude: 7.48
 absolute_magnitude: 1.88

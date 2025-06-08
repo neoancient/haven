@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      229 Lulithannaid is a star in the constellation Lulithan
+      229 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 318.55 ly
 apparent_magnitude: 9.38
 absolute_magnitude: 4.43

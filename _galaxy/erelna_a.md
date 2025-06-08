@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Erelna A is a star in the constellation Shannias
+      Erelna A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1399.94 ly
 apparent_magnitude: 2.45
 absolute_magnitude: -5.72

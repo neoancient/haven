@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      611 Morrishothiad A is a star in the constellation Morrishoth
+      611 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 217.25 ly
 apparent_magnitude: 9.33
 absolute_magnitude: 5.21

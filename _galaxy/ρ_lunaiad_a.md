@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ρ Lunaiad A is a star in the constellation Luna
+      ρ Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 461.18 ly
 apparent_magnitude: 5.21
 absolute_magnitude: -0.54

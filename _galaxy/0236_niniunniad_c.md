@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0236 Niniunniad C is a star in the constellation Niniun
+      0236 Niniunniad C is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 475.30 ly
 apparent_magnitude: 10.09
 absolute_magnitude: 4.27
@@ -31,14 +31,14 @@ planets:
     radius: 6,160.0 km<br/>(0.967 Yrths)
     surface_area: 4.768 × 10<sup>08</sup> km<sup>2</sup><br/>(0.935 Yrths)
     volume: 9.791 × 10<sup>11</sup> km<sup>3</sup><br/>(0.904 Yrths)
-    mass: 6.282 × 10<sup>24</sup> kg<br />(1.0519252333708882 Yrths)
+    mass: 6.282 × 10<sup>24</sup> kg<br />(1.05 Yrths)
     density: 6.416 g/cm<sup>3</sup>
     surface_gravity: 11.035 m/s<sup>2</sup><br />(1.125 g<sub>0</sub>)
     escape_velocity: 11.668 km/s<br />(42,003 km/h)
     rotation_period: 1.111 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 291 K<br />(18 °C)
+    temperature: 397 K<br />(124 °C)
     surface_pressure: 124 kPa<br />(1 atm)
     composition:
       - 88.4289% methane
@@ -59,14 +59,14 @@ planets:
         radius: 4,346.8 km<br/>(0.682 Yrths)
         surface_area: 2.374 × 10<sup>08</sup> km<sup>2</sup><br/>(0.466 Yrths)
         volume: 3.440 × 10<sup>11</sup> km<sup>3</sup><br/>(0.318 Yrths)
-        mass: 3.977 × 10<sup>23</sup> kg<br />(1.0519252333708882 Yrths)
+        mass: 3.977 × 10<sup>23</sup> kg<br />(0.067 Yrths)
         density: 1.156 g/cm<sup>3</sup>
         surface_gravity: 1.403 m/s<sup>2</sup><br />(0.143 g<sub>0</sub>)
         escape_velocity: 3.495 km/s<br />(12,581 km/h)
         rotation_period: 59.724 d
         axial_tilt: 27.65°
         albedo: 0.30
-        temperature: 3802 K<br />(3529 °C)
+        temperature: 227 K<br />(-46 °C)
   - name: 0236 Niniunniad C II
     type: Large terrestrial
     aphelion: 656,197,464 km<br />4.386 AU
@@ -78,15 +78,15 @@ planets:
     radius: 8,320.7 km<br/>(1.306 Yrths)
     surface_area: 8.700 × 10<sup>08</sup> km<sup>2</sup><br/>(1.706 Yrths)
     volume: 2.413 × 10<sup>12</sup> km<sup>3</sup><br/>(2.228 Yrths)
-    mass: 1.671 × 10<sup>25</sup> kg<br />(2.79876755914386 Yrths)
+    mass: 1.671 × 10<sup>25</sup> kg<br />(2.80 Yrths)
     density: 6.927 g/cm<sup>3</sup>
     surface_gravity: 16.091 m/s<sup>2</sup><br />(1.641 g<sub>0</sub>)
     escape_velocity: 16.375 km/s<br />(58,950 km/h)
     rotation_period: 0.772 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 206 K<br />(-67 °C)
-    surface_pressure: 151 kPa<br />(1 atm)
+    temperature: 214 K<br />(-59 °C)
+    surface_pressure: 151 kPa<br />(2 atm)
     composition:
       - 70.2740% ammonia
       - 28.5964% nitrogen
@@ -104,14 +104,14 @@ planets:
         radius: 3,586.1 km<br/>(0.563 Yrths)
         surface_area: 1.616 × 10<sup>08</sup> km<sup>2</sup><br/>(0.317 Yrths)
         volume: 1.932 × 10<sup>11</sup> km<sup>3</sup><br/>(0.178 Yrths)
-        mass: 2.637 × 10<sup>23</sup> kg<br />(2.79876755914386 Yrths)
+        mass: 2.637 × 10<sup>23</sup> kg<br />(0.044 Yrths)
         density: 1.365 g/cm<sup>3</sup>
         surface_gravity: 1.367 m/s<sup>2</sup><br />(0.139 g<sub>0</sub>)
         escape_velocity: 3.133 km/s<br />(11,280 km/h)
         rotation_period: 59.971 d
         axial_tilt: 17.05°
         albedo: 0.30
-        temperature: 2254 K<br />(1980 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0236 Niniunniad C II b
         type: Rocky
         formationType: Captured
@@ -124,14 +124,14 @@ planets:
         radius: 6,423.3 km<br/>(1.008 Yrths)
         surface_area: 5.185 × 10<sup>08</sup> km<sup>2</sup><br/>(1.016 Yrths)
         volume: 1.110 × 10<sup>12</sup> km<sup>3</sup><br/>(1.025 Yrths)
-        mass: 3.447 × 10<sup>24</sup> kg<br />(2.79876755914386 Yrths)
+        mass: 3.447 × 10<sup>24</sup> kg<br />(0.577 Yrths)
         density: 3.105 g/cm<sup>3</sup>
         surface_gravity: 5.569 m/s<sup>2</sup><br />(0.568 g<sub>0</sub>)
         escape_velocity: 8.464 km/s<br />(30,469 km/h)
         rotation_period: 42.445 d
         axial_tilt: 14.43°
         albedo: 0.30
-        temperature: 2149 K<br />(1876 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0236 Niniunniad C II c
         type: Rocky
         formationType: Captured
@@ -144,14 +144,14 @@ planets:
         radius: 3,263.6 km<br/>(0.512 Yrths)
         surface_area: 1.338 × 10<sup>08</sup> km<sup>2</sup><br/>(0.262 Yrths)
         volume: 1.456 × 10<sup>11</sup> km<sup>3</sup><br/>(0.134 Yrths)
-        mass: 4.229 × 10<sup>23</sup> kg<br />(2.79876755914386 Yrths)
+        mass: 4.229 × 10<sup>23</sup> kg<br />(0.071 Yrths)
         density: 2.904 g/cm<sup>3</sup>
         surface_gravity: 2.646 m/s<sup>2</sup><br />(0.270 g<sub>0</sub>)
         escape_velocity: 4.159 km/s<br />(14,972 km/h)
         rotation_period: 49.497 d
         axial_tilt: 15.55°
         albedo: 0.30
-        temperature: 2049 K<br />(1776 °C)
+        temperature: 165 K<br />(-108 °C)
   - name: 0236 Niniunniad C III
     type: Gas dwarf
     aphelion: 1,162,297,798 km<br />7.769 AU
@@ -163,14 +163,14 @@ planets:
     radius: 21,002.9 km<br/>(3.297 Yrths)
     surface_area: 5.543 × 10<sup>09</sup> km<sup>2</sup><br/>(10.868 Yrths)
     volume: 3.881 × 10<sup>13</sup> km<sup>3</sup><br/>(35.827 Yrths)
-    mass: 1.004 × 10<sup>26</sup> kg<br />(16.811064220701883 Yrths)
+    mass: 1.004 × 10<sup>26</sup> kg<br />(16.81 Yrths)
     density: 2.587 g/cm<sup>3</sup>
     surface_gravity: 15.170 m/s<sup>2</sup><br />(1.547 g<sub>0</sub>)
     escape_velocity: 25.260 km/s<br />(90,937 km/h)
     rotation_period: 0.375 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 161 K<br />(-112 °C)
+    temperature: 141 K<br />(-132 °C)
     composition:
       - 88.5873% hydrogen
       - 10.0247% helium
@@ -188,14 +188,14 @@ planets:
         radius: 14,679.6 km<br/>(2.304 Yrths)
         surface_area: 2.708 × 10<sup>09</sup> km<sup>2</sup><br/>(5.309 Yrths)
         volume: 1.325 × 10<sup>13</sup> km<sup>3</sup><br/>(12.233 Yrths)
-        mass: 2.952 × 10<sup>25</sup> kg<br />(16.811064220701883 Yrths)
+        mass: 2.952 × 10<sup>25</sup> kg<br />(4.943 Yrths)
         density: 2.228 g/cm<sup>3</sup>
         surface_gravity: 9.130 m/s<sup>2</sup><br />(0.931 g<sub>0</sub>)
         escape_velocity: 16.383 km/s<br />(58,979 km/h)
         rotation_period: 58.358 d
         axial_tilt: 12.32°
         albedo: 0.30
-        temperature: 1188 K<br />(915 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 0236 Niniunniad C III b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -208,14 +208,14 @@ planets:
         radius: 9,780.2 km<br/>(1.535 Yrths)
         surface_area: 1.202 × 10<sup>09</sup> km<sup>2</sup><br/>(2.357 Yrths)
         volume: 3.919 × 10<sup>12</sup> km<sup>3</sup><br/>(3.618 Yrths)
-        mass: 8.225 × 10<sup>24</sup> kg<br />(16.811064220701883 Yrths)
+        mass: 8.225 × 10<sup>24</sup> kg<br />(1.377 Yrths)
         density: 2.099 g/cm<sup>3</sup>
         surface_gravity: 5.732 m/s<sup>2</sup><br />(0.584 g<sub>0</sub>)
         escape_velocity: 10.595 km/s<br />(38,144 km/h)
         rotation_period: 53.999 d
         axial_tilt: 19.83°
         albedo: 0.30
-        temperature: 1132 K<br />(859 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 0236 Niniunniad C III c
         type: Ice/rock hybrid
         formationType: Captured
@@ -228,14 +228,14 @@ planets:
         radius: 13,495.5 km<br/>(2.118 Yrths)
         surface_area: 2.289 × 10<sup>09</sup> km<sup>2</sup><br/>(4.487 Yrths)
         volume: 1.030 × 10<sup>13</sup> km<sup>3</sup><br/>(9.505 Yrths)
-        mass: 2.379 × 10<sup>25</sup> kg<br />(16.811064220701883 Yrths)
+        mass: 2.379 × 10<sup>25</sup> kg<br />(3.983 Yrths)
         density: 2.311 g/cm<sup>3</sup>
         surface_gravity: 8.706 m/s<sup>2</sup><br />(0.888 g<sub>0</sub>)
         escape_velocity: 15.340 km/s<br />(55,223 km/h)
         rotation_period: 37.670 d
         axial_tilt: 16.72°
         albedo: 0.30
-        temperature: 1030 K<br />(756 °C)
+        temperature: 120 K<br />(-153 °C)
       - name: 0236 Niniunniad C III d
         type: Asteroid
         formationType: Captured
@@ -248,14 +248,14 @@ planets:
         radius: 18,182.2 km<br/>(2.854 Yrths)
         surface_area: 4.154 × 10<sup>09</sup> km<sup>2</sup><br/>(8.145 Yrths)
         volume: 2.518 × 10<sup>13</sup> km<sup>3</sup><br/>(23.244 Yrths)
-        mass: 7.345 × 10<sup>25</sup> kg<br />(16.811064220701883 Yrths)
+        mass: 7.345 × 10<sup>25</sup> kg<br />(12.298 Yrths)
         density: 2.917 g/cm<sup>3</sup>
         surface_gravity: 14.808 m/s<sup>2</sup><br />(1.510 g<sub>0</sub>)
         escape_velocity: 23.221 km/s<br />(83,595 km/h)
         rotation_period: 38.185 d
         axial_tilt: 15.66°
         albedo: 0.30
-        temperature: 982 K<br />(708 °C)
+        temperature: 120 K<br />(-153 °C)
   - name: 0236 Niniunniad C IV
     type: Terrestrial
     aphelion: 2,336,983,935 km<br />15.622 AU
@@ -267,14 +267,14 @@ planets:
     radius: 7,322.0 km<br/>(1.149 Yrths)
     surface_area: 6.737 × 10<sup>08</sup> km<sup>2</sup><br/>(1.321 Yrths)
     volume: 1.644 × 10<sup>12</sup> km<sup>3</sup><br/>(1.518 Yrths)
-    mass: 7.162 × 10<sup>24</sup> kg<br />(1.1993018852341284 Yrths)
+    mass: 7.162 × 10<sup>24</sup> kg<br />(1.20 Yrths)
     density: 4.356 g/cm<sup>3</sup>
     surface_gravity: 8.904 m/s<sup>2</sup><br />(0.908 g<sub>0</sub>)
     escape_velocity: 11.427 km/s<br />(41,137 km/h)
     rotation_period: 0.949 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 98 K<br />(-175 °C)
+    temperature: 110 K<br />(-163 °C)
     surface_pressure: 23 kPa<br />(0 atm)
     composition:
       - 86.5491% nitrogen
@@ -293,7 +293,7 @@ planets:
     radius: 206.0 km<br/>(0.032 Yrths)
     surface_area: 5.332 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.661 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.141 × 10<sup>27</sup> kg<br />(191.02165406314109 Yrths)
+    mass: 1.141 × 10<sup>27</sup> kg<br />(191.02 Yrths)
     density: 31160713.468 g/cm<sup>3</sup>
     surface_gravity: 1792039.404 m/s<sup>2</sup><br />(182737.163 g<sub>0</sub>)
     escape_velocity: 859.808 km/s<br />(3,095,308 km/h)
@@ -314,14 +314,14 @@ planets:
         radius: 232,042.3 km<br/>(36.422 Yrths)
         surface_area: 6.766 × 10<sup>11</sup> km<sup>2</sup><br/>(1326.537 Yrths)
         volume: 5.233 × 10<sup>16</sup> km<sup>3</sup><br/>(48314.649 Yrths)
-        mass: 3.663 × 10<sup>28</sup> kg<br />(191.02165406314109 Yrths)
+        mass: 3.663 × 10<sup>28</sup> kg<br />(6134.349 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 45.349 m/s<sup>2</sup><br />(4.624 g<sub>0</sub>)
         escape_velocity: 145.171 km/s<br />(522,614 km/h)
         rotation_period: 110.287 d
         axial_tilt: 15.75°
         albedo: 0.30
-        temperature: 380 K<br />(107 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 0236 Niniunniad C V b
         type: Icy
         formationType: Accreted
@@ -334,14 +334,14 @@ planets:
         radius: 208,053.9 km<br/>(32.656 Yrths)
         surface_area: 5.440 × 10<sup>11</sup> km<sup>2</sup><br/>(1066.440 Yrths)
         volume: 3.772 × 10<sup>16</sup> km<sup>3</sup><br/>(34826.098 Yrths)
-        mass: 3.066 × 10<sup>28</sup> kg<br />(191.02165406314109 Yrths)
+        mass: 3.066 × 10<sup>28</sup> kg<br />(5134.572 Yrths)
         density: 0.813 g/cm<sup>3</sup>
         surface_gravity: 47.216 m/s<sup>2</sup><br />(4.815 g<sub>0</sub>)
         escape_velocity: 140.263 km/s<br />(504,945 km/h)
         rotation_period: 84.547 d
         axial_tilt: 9.09°
         albedo: 0.30
-        temperature: 314 K<br />(41 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 0236 Niniunniad C V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -354,14 +354,14 @@ planets:
         radius: 179,840.2 km<br/>(28.228 Yrths)
         surface_area: 4.064 × 10<sup>11</sup> km<sup>2</sup><br/>(796.816 Yrths)
         volume: 2.436 × 10<sup>16</sup> km<sup>3</sup><br/>(22492.477 Yrths)
-        mass: 4.401 × 10<sup>28</sup> kg<br />(191.02165406314109 Yrths)
+        mass: 4.401 × 10<sup>28</sup> kg<br />(7368.740 Yrths)
         density: 1.806 g/cm<sup>3</sup>
         surface_gravity: 90.689 m/s<sup>2</sup><br />(9.248 g<sub>0</sub>)
         escape_velocity: 180.730 km/s<br />(650,629 km/h)
         rotation_period: 73.327 d
         axial_tilt: 7.39°
         albedo: 0.30
-        temperature: 248 K<br />(-25 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 0236 Niniunniad C V d
         type: Asteroid
         formationType: Captured
@@ -374,14 +374,14 @@ planets:
         radius: 126,819.9 km<br/>(19.906 Yrths)
         surface_area: 2.021 × 10<sup>11</sup> km<sup>2</sup><br/>(396.241 Yrths)
         volume: 8.544 × 10<sup>15</sup> km<sup>3</sup><br/>(7887.504 Yrths)
-        mass: 2.290 × 10<sup>28</sup> kg<br />(191.02165406314109 Yrths)
+        mass: 2.290 × 10<sup>28</sup> kg<br />(3834.375 Yrths)
         density: 2.680 g/cm<sup>3</sup>
         surface_gravity: 94.898 m/s<sup>2</sup><br />(9.677 g<sub>0</sub>)
         escape_velocity: 155.250 km/s<br />(558,900 km/h)
         rotation_period: 30.585 d
         axial_tilt: 49.82°
         albedo: 0.30
-        temperature: 110 K<br />(-163 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 0236 Niniunniad C V e
         type: Icy
         formationType: Accreted
@@ -394,14 +394,14 @@ planets:
         radius: 198,515.3 km<br/>(31.159 Yrths)
         surface_area: 4.952 × 10<sup>11</sup> km<sup>2</sup><br/>(970.896 Yrths)
         volume: 3.277 × 10<sup>16</sup> km<sup>3</sup><br/>(30252.347 Yrths)
-        mass: 4.316 × 10<sup>28</sup> kg<br />(191.02165406314109 Yrths)
+        mass: 4.316 × 10<sup>28</sup> kg<br />(7227.058 Yrths)
         density: 1.317 g/cm<sup>3</sup>
         surface_gravity: 72.998 m/s<sup>2</sup><br />(7.444 g<sub>0</sub>)
         escape_velocity: 170.358 km/s<br />(613,287 km/h)
         rotation_period: 54.326 d
         axial_tilt: 22.64°
         albedo: 0.30
-        temperature: 59 K<br />(-214 °C)
+        temperature: 63 K<br />(-210 °C)
       - name: 0236 Niniunniad C V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -414,12 +414,12 @@ planets:
         radius: 128,058.1 km<br/>(20.100 Yrths)
         surface_area: 2.061 × 10<sup>11</sup> km<sup>2</sup><br/>(404.016 Yrths)
         volume: 8.797 × 10<sup>15</sup> km<sup>3</sup><br/>(8120.796 Yrths)
-        mass: 2.237 × 10<sup>28</sup> kg<br />(191.02165406314109 Yrths)
+        mass: 2.237 × 10<sup>28</sup> kg<br />(3745.870 Yrths)
         density: 2.543 g/cm<sup>3</sup>
         surface_gravity: 90.923 m/s<sup>2</sup><br />(9.272 g<sub>0</sub>)
         escape_velocity: 152.704 km/s<br />(549,735 km/h)
         rotation_period: 37.196 d
         axial_tilt: 11.14°
         albedo: 0.30
-        temperature: 51 K<br />(-222 °C)
+        temperature: 63 K<br />(-210 °C)
 ---

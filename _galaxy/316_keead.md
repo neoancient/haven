@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      316 Keead is a star in the constellation Kee
+      316 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 373.30 ly
 apparent_magnitude: 10.12
 absolute_magnitude: 4.83

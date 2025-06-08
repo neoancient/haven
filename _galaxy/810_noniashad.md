@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      810 Noniashad is a star in the constellation Nonias
+      810 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 467.91 ly
 apparent_magnitude: 10.49
 absolute_magnitude: 4.71

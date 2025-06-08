@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6815 Arkothiad A is a star in the constellation Arkoth
+      6815 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1333.82 ly
 apparent_magnitude: 6.62
 absolute_magnitude: -1.44

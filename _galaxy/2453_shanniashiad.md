@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2453 Shanniashiad is a star in the constellation Shannias
+      2453 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 471.16 ly
 apparent_magnitude: 13.70
 absolute_magnitude: 7.90

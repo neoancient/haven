@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1784 Arkothiad A is a star in the constellation Arkoth
+      1784 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 918.94 ly
 apparent_magnitude: 7.17
 absolute_magnitude: -0.08

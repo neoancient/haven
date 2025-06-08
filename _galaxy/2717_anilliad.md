@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2717 Anilliad is a star in the constellation Anil
+      2717 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 550.77 ly
 apparent_magnitude: 9.15
 absolute_magnitude: 3.01

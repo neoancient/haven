@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2112 Arniad A is a star in the constellation Arni
+      2112 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 1205.51 ly
 apparent_magnitude: 6.94
 absolute_magnitude: -0.89

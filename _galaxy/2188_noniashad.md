@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2188 Noniashad is a star in the constellation Nonias
+      2188 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 693.51 ly
 apparent_magnitude: 12.27
 absolute_magnitude: 5.63

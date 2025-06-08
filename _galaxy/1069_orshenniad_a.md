@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1069 Orshenniad A is a star in the constellation Orshen
+      1069 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 650.17 ly
 apparent_magnitude: 6.90
 absolute_magnitude: 0.41

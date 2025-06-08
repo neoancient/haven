@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0047 Niunioiad A is a star in the constellation Niunio
+      0047 Niunioiad A is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 865.63 ly
 apparent_magnitude: 8.16
 absolute_magnitude: 1.04

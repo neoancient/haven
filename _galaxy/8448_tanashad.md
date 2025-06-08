@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8448 Tanashad is a star in the constellation Tanas
+      8448 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 197.72 ly
 apparent_magnitude: 17.00
 absolute_magnitude: 13.09

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Fatas B is a star in the constellation Luna
+      Fatas B is a star in the constellation <a href="luna.html">Luna</a>
 distance: 1663.46 ly
 apparent_magnitude: 5.22
 absolute_magnitude: -3.32

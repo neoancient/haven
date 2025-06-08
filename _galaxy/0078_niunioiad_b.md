@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0078 Niunioiad B is a star in the constellation Niunio
+      0078 Niunioiad B is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 210.85 ly
 apparent_magnitude: 9.40
 absolute_magnitude: 5.35

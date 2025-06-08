@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0283 Irsaiad B is a star in the constellation Irsa
+      0283 Irsaiad B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 260.75 ly
 apparent_magnitude: 9.51
 absolute_magnitude: 5.00

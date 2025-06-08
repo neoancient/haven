@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      867 Dialkeshiad is a star in the constellation Dialkes
+      867 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 604.48 ly
 apparent_magnitude: 11.36
 absolute_magnitude: 5.03

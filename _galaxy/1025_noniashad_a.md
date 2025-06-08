@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1025 Noniashad A is a star in the constellation Nonias
+      1025 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 716.40 ly
 apparent_magnitude: 7.07
 absolute_magnitude: 0.36

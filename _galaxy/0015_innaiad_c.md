@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Innaiad C is a star in the constellation Inna
+      0015 Innaiad C is a star in the constellation <a href="inna.html">Inna</a>
 distance: 46.02 ly
 apparent_magnitude: 8.42
 absolute_magnitude: 7.67
@@ -31,14 +31,14 @@ planets:
     radius: 5,159.3 km<br/>(0.810 Yrths)
     surface_area: 3.345 × 10<sup>08</sup> km<sup>2</sup><br/>(0.656 Yrths)
     volume: 5.753 × 10<sup>11</sup> km<sup>3</sup><br/>(0.531 Yrths)
-    mass: 4.302 × 10<sup>24</sup> kg<br />(0.7202999172238926 Yrths)
+    mass: 4.302 × 10<sup>24</sup> kg<br />(0.72 Yrths)
     density: 7.478 g/cm<sup>3</sup>
     surface_gravity: 10.771 m/s<sup>2</sup><br />(1.098 g<sub>0</sub>)
     escape_velocity: 10.550 km/s<br />(37,979 km/h)
     rotation_period: 5.805 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 337 K<br />(64 °C)
+    temperature: 322 K<br />(49 °C)
     surface_pressure: 9 kPa<br />(0 atm)
     composition:
       - 100.0000% nitrogen
@@ -55,14 +55,14 @@ planets:
         radius: 2,107.0 km<br/>(0.331 Yrths)
         surface_area: 5.579 × 10<sup>07</sup> km<sup>2</sup><br/>(0.109 Yrths)
         volume: 3.918 × 10<sup>10</sup> km<sup>3</sup><br/>(0.036 Yrths)
-        mass: 9.501 × 10<sup>22</sup> kg<br />(0.7202999172238926 Yrths)
+        mass: 9.501 × 10<sup>22</sup> kg<br />(0.016 Yrths)
         density: 2.425 g/cm<sup>3</sup>
         surface_gravity: 1.426 m/s<sup>2</sup><br />(0.145 g<sub>0</sub>)
         escape_velocity: 2.453 km/s<br />(8,832 km/h)
         rotation_period: 44.731 d
         axial_tilt: 28.51°
         albedo: 0.30
-        temperature: 4399 K<br />(4126 °C)
+        temperature: 319 K<br />(46 °C)
   - name: 0015 Innaiad C II
     type: Terrestrial
     aphelion: 54,636,525 km<br />0.365 AU
@@ -74,7 +74,7 @@ planets:
     radius: 5,737.7 km<br/>(0.901 Yrths)
     surface_area: 4.137 × 10<sup>08</sup> km<sup>2</sup><br/>(0.811 Yrths)
     volume: 7.912 × 10<sup>11</sup> km<sup>3</sup><br/>(0.730 Yrths)
-    mass: 4.065 × 10<sup>24</sup> kg<br />(0.6806538290727016 Yrths)
+    mass: 4.065 × 10<sup>24</sup> kg<br />(0.68 Yrths)
     density: 5.137 g/cm<sup>3</sup>
     surface_gravity: 8.230 m/s<sup>2</sup><br />(0.839 g<sub>0</sub>)
     escape_velocity: 9.725 km/s<br />(35,009 km/h)
@@ -95,14 +95,14 @@ planets:
         radius: 1,625.6 km<br/>(0.255 Yrths)
         surface_area: 3.321 × 10<sup>07</sup> km<sup>2</sup><br/>(0.065 Yrths)
         volume: 1.799 × 10<sup>10</sup> km<sup>3</sup><br/>(0.017 Yrths)
-        mass: 5.598 × 10<sup>22</sup> kg<br />(0.6806538290727016 Yrths)
+        mass: 5.598 × 10<sup>22</sup> kg<br />(0.009 Yrths)
         density: 3.111 g/cm<sup>3</sup>
         surface_gravity: 1.412 m/s<sup>2</sup><br />(0.144 g<sub>0</sub>)
         escape_velocity: 2.144 km/s<br />(7,718 km/h)
         rotation_period: 47.205 d
         axial_tilt: 12.37°
         albedo: 0.30
-        temperature: 3588 K<br />(3315 °C)
+        temperature: 258 K<br />(-15 °C)
   - name: 0015 Innaiad C III
     type: Large terrestrial
     aphelion: 84,022,276 km<br />0.562 AU
@@ -114,14 +114,14 @@ planets:
     radius: 9,350.5 km<br/>(1.468 Yrths)
     surface_area: 1.099 × 10<sup>09</sup> km<sup>2</sup><br/>(2.154 Yrths)
     volume: 3.424 × 10<sup>12</sup> km<sup>3</sup><br/>(3.161 Yrths)
-    mass: 2.166 × 10<sup>25</sup> kg<br />(3.6264643768481584 Yrths)
+    mass: 2.166 × 10<sup>25</sup> kg<br />(3.63 Yrths)
     density: 6.324 g/cm<sup>3</sup>
     surface_gravity: 16.510 m/s<sup>2</sup><br />(1.684 g<sub>0</sub>)
     escape_velocity: 17.583 km/s<br />(63,300 km/h)
     rotation_period: 1.445 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 255 K<br />(-18 °C)
+    temperature: 247 K<br />(-26 °C)
     surface_pressure: 130 kPa<br />(1 atm)
     composition:
       - 79.3428% nitrogen
@@ -141,14 +141,14 @@ planets:
         radius: 4,668.2 km<br/>(0.733 Yrths)
         surface_area: 2.738 × 10<sup>08</sup> km<sup>2</sup><br/>(0.537 Yrths)
         volume: 4.261 × 10<sup>11</sup> km<sup>3</sup><br/>(0.393 Yrths)
-        mass: 9.647 × 10<sup>23</sup> kg<br />(3.6264643768481584 Yrths)
+        mass: 9.647 × 10<sup>23</sup> kg<br />(0.162 Yrths)
         density: 2.264 g/cm<sup>3</sup>
         surface_gravity: 2.951 m/s<sup>2</sup><br />(0.301 g<sub>0</sub>)
         escape_velocity: 5.252 km/s<br />(18,908 km/h)
         rotation_period: 43.177 d
         axial_tilt: 27.77°
         albedo: 0.30
-        temperature: 2221 K<br />(1948 °C)
+        temperature: 208 K<br />(-65 °C)
       - name: 0015 Innaiad C III b
         type: Rocky
         formationType: Captured
@@ -161,14 +161,14 @@ planets:
         radius: 4,761.2 km<br/>(0.747 Yrths)
         surface_area: 2.849 × 10<sup>08</sup> km<sup>2</sup><br/>(0.559 Yrths)
         volume: 4.521 × 10<sup>11</sup> km<sup>3</sup><br/>(0.417 Yrths)
-        mass: 1.392 × 10<sup>24</sup> kg<br />(3.6264643768481584 Yrths)
+        mass: 1.392 × 10<sup>24</sup> kg<br />(0.233 Yrths)
         density: 3.079 g/cm<sup>3</sup>
         surface_gravity: 4.093 m/s<sup>2</sup><br />(0.417 g<sub>0</sub>)
         escape_velocity: 6.248 km/s<br />(22,491 km/h)
         rotation_period: 28.584 d
         axial_tilt: 15.74°
         albedo: 0.30
-        temperature: 2118 K<br />(1845 °C)
+        temperature: 208 K<br />(-65 °C)
   - name: 0015 Innaiad C IV
     type: Terrestrial
     aphelion: 128,062,788 km<br />0.856 AU
@@ -180,14 +180,14 @@ planets:
     radius: 4,737.6 km<br/>(0.744 Yrths)
     surface_area: 2.821 × 10<sup>08</sup> km<sup>2</sup><br/>(0.553 Yrths)
     volume: 4.454 × 10<sup>11</sup> km<sup>3</sup><br/>(0.411 Yrths)
-    mass: 1.940 × 10<sup>24</sup> kg<br />(0.3249220118618605 Yrths)
+    mass: 1.940 × 10<sup>24</sup> kg<br />(0.32 Yrths)
     density: 4.356 g/cm<sup>3</sup>
     surface_gravity: 5.762 m/s<sup>2</sup><br />(0.588 g<sub>0</sub>)
     escape_velocity: 7.394 km/s<br />(26,619 km/h)
     rotation_period: 2.451 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 210 K<br />(-63 °C)
+    temperature: 411 K<br />(138 °C)
     surface_pressure: 22 kPa<br />(0 atm)
     composition:
       - 53.6711% ammonia
@@ -208,14 +208,14 @@ planets:
         radius: 2,141.2 km<br/>(0.336 Yrths)
         surface_area: 5.761 × 10<sup>07</sup> km<sup>2</sup><br/>(0.113 Yrths)
         volume: 4.112 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 3.198 × 10<sup>22</sup> kg<br />(0.3249220118618605 Yrths)
+        mass: 3.198 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 0.778 g/cm<sup>3</sup>
         surface_gravity: 0.465 m/s<sup>2</sup><br />(0.047 g<sub>0</sub>)
         escape_velocity: 1.412 km/s<br />(5,083 km/h)
         rotation_period: 63.670 d
         axial_tilt: 20.91°
         albedo: 0.30
-        temperature: 3003 K<br />(2730 °C)
+        temperature: 168 K<br />(-105 °C)
   - name: 0015 Innaiad C V
     type: Terrestrial
     aphelion: 196,232,183 km<br />1.312 AU
@@ -227,14 +227,14 @@ planets:
     radius: 3,966.3 km<br/>(0.623 Yrths)
     surface_area: 1.977 × 10<sup>08</sup> km<sup>2</sup><br/>(0.388 Yrths)
     volume: 2.614 × 10<sup>11</sup> km<sup>3</sup><br/>(0.241 Yrths)
-    mass: 1.286 × 10<sup>24</sup> kg<br />(0.21529063448611563 Yrths)
+    mass: 1.286 × 10<sup>24</sup> kg<br />(0.22 Yrths)
     density: 4.919 g/cm<sup>3</sup>
     surface_gravity: 5.447 m/s<sup>2</sup><br />(0.555 g<sub>0</sub>)
     escape_velocity: 6.578 km/s<br />(23,681 km/h)
     rotation_period: 2.172 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 149 K<br />(-124 °C)
+    temperature: 147 K<br />(-126 °C)
     surface_pressure: 19 kPa<br />(0 atm)
     composition:
       - 94.2293% nitrogen
@@ -253,14 +253,14 @@ planets:
         radius: 283.7 km<br/>(0.045 Yrths)
         surface_area: 1.011 × 10<sup>06</sup> km<sup>2</sup><br/>(0.002 Yrths)
         volume: 9.560 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 2.518 × 10<sup>20</sup> kg<br />(0.21529063448611563 Yrths)
+        mass: 2.518 × 10<sup>20</sup> kg<br />(0.000 Yrths)
         density: 2.634 g/cm<sup>3</sup>
         surface_gravity: 0.209 m/s<sup>2</sup><br />(0.021 g<sub>0</sub>)
         escape_velocity: 0.344 km/s<br />(1,239 km/h)
         rotation_period: 38.545 d
         axial_tilt: 15.98°
         albedo: 0.30
-        temperature: 2306 K<br />(2033 °C)
+        temperature: 136 K<br />(-137 °C)
       - name: 0015 Innaiad C V b
         type: Icy
         formationType: Impact formed
@@ -273,14 +273,14 @@ planets:
         radius: 1,192.1 km<br/>(0.187 Yrths)
         surface_area: 1.786 × 10<sup>07</sup> km<sup>2</sup><br/>(0.035 Yrths)
         volume: 7.095 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.011 × 10<sup>22</sup> kg<br />(0.21529063448611563 Yrths)
+        mass: 1.011 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.426 g/cm<sup>3</sup>
         surface_gravity: 0.474 m/s<sup>2</sup><br />(0.048 g<sub>0</sub>)
         escape_velocity: 1.064 km/s<br />(3,831 km/h)
         rotation_period: 48.467 d
         axial_tilt: 15.60°
         albedo: 0.30
-        temperature: 2199 K<br />(1925 °C)
+        temperature: 136 K<br />(-137 °C)
   - name: 0015 Innaiad C VI
     type: Terrestrial
     aphelion: 300,688,985 km<br />2.010 AU
@@ -292,14 +292,14 @@ planets:
     radius: 6,592.8 km<br/>(1.035 Yrths)
     surface_area: 5.462 × 10<sup>08</sup> km<sup>2</sup><br/>(1.071 Yrths)
     volume: 1.200 × 10<sup>12</sup> km<sup>3</sup><br/>(1.108 Yrths)
-    mass: 5.286 × 10<sup>24</sup> kg<br />(0.8851772708473965 Yrths)
+    mass: 5.286 × 10<sup>24</sup> kg<br />(0.89 Yrths)
     density: 4.404 g/cm<sup>3</sup>
     surface_gravity: 8.106 m/s<sup>2</sup><br />(0.827 g<sub>0</sub>)
     escape_velocity: 10.346 km/s<br />(37,244 km/h)
     rotation_period: 1.216 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 123 K<br />(-151 °C)
+    temperature: 157 K<br />(-116 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 83.2890% methane
@@ -318,14 +318,14 @@ planets:
         radius: 510.2 km<br/>(0.080 Yrths)
         surface_area: 3.271 × 10<sup>06</sup> km<sup>2</sup><br/>(0.006 Yrths)
         volume: 5.563 × 10<sup>08</sup> km<sup>3</sup><br/>(0.001 Yrths)
-        mass: 1.917 × 10<sup>21</sup> kg<br />(0.8851772708473965 Yrths)
+        mass: 1.917 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 3.446 g/cm<sup>3</sup>
         surface_gravity: 0.491 m/s<sup>2</sup><br />(0.050 g<sub>0</sub>)
         escape_velocity: 0.708 km/s<br />(2,550 km/h)
         rotation_period: 29.963 d
         axial_tilt: 49.67°
         albedo: 0.30
-        temperature: 1524 K<br />(1251 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0015 Innaiad C VI b
         type: Icy
         formationType: Captured
@@ -338,14 +338,14 @@ planets:
         radius: 3,299.1 km<br/>(0.518 Yrths)
         surface_area: 1.368 × 10<sup>08</sup> km<sup>2</sup><br/>(0.268 Yrths)
         volume: 1.504 × 10<sup>11</sup> km<sup>3</sup><br/>(0.139 Yrths)
-        mass: 2.333 × 10<sup>23</sup> kg<br />(0.8851772708473965 Yrths)
+        mass: 2.333 × 10<sup>23</sup> kg<br />(0.039 Yrths)
         density: 1.551 g/cm<sup>3</sup>
         surface_gravity: 1.429 m/s<sup>2</sup><br />(0.146 g<sub>0</sub>)
         escape_velocity: 3.073 km/s<br />(11,061 km/h)
         rotation_period: 56.755 d
         axial_tilt: 10.64°
         albedo: 0.30
-        temperature: 1453 K<br />(1180 °C)
+        temperature: 110 K<br />(-163 °C)
       - name: 0015 Innaiad C VI c
         type: Asteroid
         formationType: Captured
@@ -358,12 +358,12 @@ planets:
         radius: 1,784.8 km<br/>(0.280 Yrths)
         surface_area: 4.003 × 10<sup>07</sup> km<sup>2</sup><br/>(0.078 Yrths)
         volume: 2.382 × 10<sup>10</sup> km<sup>3</sup><br/>(0.022 Yrths)
-        mass: 4.596 × 10<sup>22</sup> kg<br />(0.8851772708473965 Yrths)
+        mass: 4.596 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 1.930 g/cm<sup>3</sup>
         surface_gravity: 0.962 m/s<sup>2</sup><br />(0.098 g<sub>0</sub>)
         escape_velocity: 1.854 km/s<br />(6,674 km/h)
         rotation_period: 65.641 d
         axial_tilt: 12.23°
         albedo: 0.30
-        temperature: 1385 K<br />(1112 °C)
+        temperature: 110 K<br />(-163 °C)
 ---

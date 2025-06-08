@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11354 Arkothiad A is a star in the constellation Arkoth
+      11354 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 507.59 ly
 apparent_magnitude: 7.84
 absolute_magnitude: 1.88

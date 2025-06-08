@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2066 Noniashad A is a star in the constellation Nonias
+      2066 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 677.55 ly
 apparent_magnitude: 7.02
 absolute_magnitude: 0.43

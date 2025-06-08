@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2160 Saithiad A is a star in the constellation Saith
+      2160 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 668.61 ly
 apparent_magnitude: 6.74
 absolute_magnitude: 0.18

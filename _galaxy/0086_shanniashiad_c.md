@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0086 Shanniashiad C is a star in the constellation Shannias
+      0086 Shanniashiad C is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 292.67 ly
 apparent_magnitude: 10.12
 absolute_magnitude: 5.35
@@ -31,14 +31,14 @@ planets:
     radius: 8,626.2 km<br/>(1.354 Yrths)
     surface_area: 9.351 × 10<sup>08</sup> km<sup>2</sup><br/>(1.833 Yrths)
     volume: 2.689 × 10<sup>12</sup> km<sup>3</sup><br/>(2.482 Yrths)
-    mass: 2.127 × 10<sup>25</sup> kg<br />(3.5610259739064145 Yrths)
+    mass: 2.127 × 10<sup>25</sup> kg<br />(3.56 Yrths)
     density: 7.910 g/cm<sup>3</sup>
     surface_gravity: 19.049 m/s<sup>2</sup><br />(1.942 g<sub>0</sub>)
     escape_velocity: 18.141 km/s<br />(65,307 km/h)
     rotation_period: 1.149 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 402 K<br />(129 °C)
+    temperature: 391 K<br />(118 °C)
     surface_pressure: 589 kPa<br />(6 atm)
     composition:
       - 54.7711% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 4,119.0 km<br/>(0.647 Yrths)
         surface_area: 2.132 × 10<sup>08</sup> km<sup>2</sup><br/>(0.418 Yrths)
         volume: 2.927 × 10<sup>11</sup> km<sup>3</sup><br/>(0.270 Yrths)
-        mass: 7.562 × 10<sup>23</sup> kg<br />(3.5610259739064145 Yrths)
+        mass: 7.562 × 10<sup>23</sup> kg<br />(0.127 Yrths)
         density: 2.583 g/cm<sup>3</sup>
         surface_gravity: 2.971 m/s<sup>2</sup><br />(0.303 g<sub>0</sub>)
         escape_velocity: 4.950 km/s<br />(17,822 km/h)
         rotation_period: 33.438 d
         axial_tilt: 8.09°
         albedo: 0.30
-        temperature: 3459 K<br />(3186 °C)
+        temperature: 298 K<br />(25 °C)
       - name: 0086 Shanniashiad C I b
         type: Rocky
         formationType: Accreted
@@ -79,14 +79,14 @@ planets:
         radius: 6,455.5 km<br/>(1.013 Yrths)
         surface_area: 5.237 × 10<sup>08</sup> km<sup>2</sup><br/>(1.027 Yrths)
         volume: 1.127 × 10<sup>12</sup> km<sup>3</sup><br/>(1.040 Yrths)
-        mass: 2.983 × 10<sup>24</sup> kg<br />(3.5610259739064145 Yrths)
+        mass: 2.983 × 10<sup>24</sup> kg<br />(0.499 Yrths)
         density: 2.647 g/cm<sup>3</sup>
         surface_gravity: 4.770 m/s<sup>2</sup><br />(0.486 g<sub>0</sub>)
         escape_velocity: 7.853 km/s<br />(28,272 km/h)
         rotation_period: 43.809 d
         axial_tilt: 20.56°
         albedo: 0.30
-        temperature: 3298 K<br />(3025 °C)
+        temperature: 298 K<br />(25 °C)
   - name: 0086 Shanniashiad C II
     type: Large terrestrial
     aphelion: 149,306,423 km<br />0.998 AU
@@ -98,14 +98,14 @@ planets:
     radius: 10,500.2 km<br/>(1.648 Yrths)
     surface_area: 1.386 × 10<sup>09</sup> km<sup>2</sup><br/>(2.716 Yrths)
     volume: 4.849 × 10<sup>12</sup> km<sup>3</sup><br/>(4.477 Yrths)
-    mass: 3.560 × 10<sup>25</sup> kg<br />(5.960409265355975 Yrths)
+    mass: 3.560 × 10<sup>25</sup> kg<br />(5.96 Yrths)
     density: 7.340 g/cm<sup>3</sup>
     surface_gravity: 21.519 m/s<sup>2</sup><br />(2.194 g<sub>0</sub>)
     escape_velocity: 21.272 km/s<br />(76,581 km/h)
     rotation_period: 0.858 d
     axial_tilt: 90.00°
     albedo: 0.35
-    temperature: 399 K<br />(126 °C)
+    temperature: 1090 K<br />(817 °C)
     surface_pressure: 429 kPa<br />(4 atm)
     composition:
       - 94.0414% carbon dioxide
@@ -123,14 +123,14 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.600 g/cm<sup>3</sup>
     surface_gravity: 31873.848 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
     rotation_period: 0.525 d
     axial_tilt: 90.00°
     albedo: 0.40
-    temperature: 550 K<br />(277 °C)
+    temperature: 515 K<br />(242 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -146,14 +146,14 @@ planets:
         radius: 917.4 km<br/>(0.144 Yrths)
         surface_area: 1.058 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.234 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 7.326 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 7.326 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.265 g/cm<sup>3</sup>
         surface_gravity: 0.580 m/s<sup>2</sup><br />(0.059 g<sub>0</sub>)
         escape_velocity: 1.032 km/s<br />(3,717 km/h)
         rotation_period: 54.225 d
         axial_tilt: 15.91°
         albedo: 0.30
-        temperature: 2846 K<br />(2573 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 0086 Shanniashiad C III b
         type: Rocky
         formationType: Impact formed
@@ -166,14 +166,14 @@ planets:
         radius: 851.9 km<br/>(0.134 Yrths)
         surface_area: 9.119 × 10<sup>06</sup> km<sup>2</sup><br/>(0.018 Yrths)
         volume: 2.589 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 8.448 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 8.448 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.263 g/cm<sup>3</sup>
         surface_gravity: 0.776 m/s<sup>2</sup><br />(0.079 g<sub>0</sub>)
         escape_velocity: 1.151 km/s<br />(4,142 km/h)
         rotation_period: 53.075 d
         axial_tilt: 20.45°
         albedo: 0.30
-        temperature: 2713 K<br />(2440 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 0086 Shanniashiad C III c
         type: Icy
         formationType: Impact formed
@@ -186,14 +186,14 @@ planets:
         radius: 1,190.6 km<br/>(0.187 Yrths)
         surface_area: 1.781 × 10<sup>07</sup> km<sup>2</sup><br/>(0.035 Yrths)
         volume: 7.069 × 10<sup>09</sup> km<sup>3</sup><br/>(0.007 Yrths)
-        mass: 1.153 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.153 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.631 g/cm<sup>3</sup>
         surface_gravity: 0.542 m/s<sup>2</sup><br />(0.055 g<sub>0</sub>)
         escape_velocity: 1.137 km/s<br />(4,093 km/h)
         rotation_period: 39.160 d
         axial_tilt: 16.86°
         albedo: 0.30
-        temperature: 1460 K<br />(1187 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 0086 Shanniashiad C III d
         type: Icy
         formationType: Accreted
@@ -206,14 +206,14 @@ planets:
         radius: 1,016.4 km<br/>(0.160 Yrths)
         surface_area: 1.298 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.399 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 6.155 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.155 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.399 g/cm<sup>3</sup>
         surface_gravity: 0.397 m/s<sup>2</sup><br />(0.040 g<sub>0</sub>)
         escape_velocity: 0.899 km/s<br />(3,237 km/h)
         rotation_period: 47.625 d
         axial_tilt: 8.47°
         albedo: 0.30
-        temperature: 1392 K<br />(1119 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 0086 Shanniashiad C III e
         type: Icy
         formationType: Accreted
@@ -226,14 +226,14 @@ planets:
         radius: 1,133.7 km<br/>(0.178 Yrths)
         surface_area: 1.615 × 10<sup>07</sup> km<sup>2</sup><br/>(0.032 Yrths)
         volume: 6.103 × 10<sup>09</sup> km<sup>3</sup><br/>(0.006 Yrths)
-        mass: 9.645 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 9.645 × 10<sup>21</sup> kg<br />(0.002 Yrths)
         density: 1.580 g/cm<sup>3</sup>
         surface_gravity: 0.500 m/s<sup>2</sup><br />(0.051 g<sub>0</sub>)
         escape_velocity: 1.066 km/s<br />(3,836 km/h)
         rotation_period: 42.017 d
         axial_tilt: 16.42°
         albedo: 0.30
-        temperature: 1207 K<br />(934 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 0086 Shanniashiad C III f
         type: Rocky
         formationType: Impact formed
@@ -246,14 +246,14 @@ planets:
         radius: 1,009.7 km<br/>(0.158 Yrths)
         surface_area: 1.281 × 10<sup>07</sup> km<sup>2</sup><br/>(0.025 Yrths)
         volume: 4.312 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 1.035 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.035 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 0.677 m/s<sup>2</sup><br />(0.069 g<sub>0</sub>)
         escape_velocity: 1.170 km/s<br />(4,211 km/h)
         rotation_period: 54.692 d
         axial_tilt: 7.95°
         albedo: 0.30
-        temperature: 997 K<br />(724 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 0086 Shanniashiad C III g
         type: Icy
         formationType: Accreted
@@ -266,14 +266,14 @@ planets:
         radius: 1,534.5 km<br/>(0.241 Yrths)
         surface_area: 2.959 × 10<sup>07</sup> km<sup>2</sup><br/>(0.058 Yrths)
         volume: 1.514 × 10<sup>10</sup> km<sup>3</sup><br/>(0.014 Yrths)
-        mass: 1.439 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.439 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 0.951 g/cm<sup>3</sup>
         surface_gravity: 0.407 m/s<sup>2</sup><br />(0.042 g<sub>0</sub>)
         escape_velocity: 1.119 km/s<br />(4,028 km/h)
         rotation_period: 72.342 d
         axial_tilt: 24.40°
         albedo: 0.30
-        temperature: 749 K<br />(476 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 0086 Shanniashiad C III h
         type: Rocky
         formationType: Impact formed
@@ -286,14 +286,14 @@ planets:
         radius: 804.2 km<br/>(0.126 Yrths)
         surface_area: 8.128 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.179 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 6.874 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.874 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 3.155 g/cm<sup>3</sup>
         surface_gravity: 0.708 m/s<sup>2</sup><br />(0.072 g<sub>0</sub>)
         escape_velocity: 1.068 km/s<br />(3,845 km/h)
         rotation_period: 31.578 d
         axial_tilt: 19.73°
         albedo: 0.30
-        temperature: 714 K<br />(441 °C)
+        temperature: 182 K<br />(-91 °C)
       - name: 0086 Shanniashiad C III i
         type: Dwarf planet
         formationType: Impact formed
@@ -306,12 +306,12 @@ planets:
         radius: 925.2 km<br/>(0.145 Yrths)
         surface_area: 1.076 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.317 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 6.996 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 6.996 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.109 g/cm<sup>3</sup>
         surface_gravity: 0.545 m/s<sup>2</sup><br />(0.056 g<sub>0</sub>)
         escape_velocity: 1.005 km/s<br />(3,617 km/h)
         rotation_period: 59.435 d
         axial_tilt: 26.04°
         albedo: 0.30
-        temperature: 537 K<br />(264 °C)
+        temperature: 182 K<br />(-91 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Irnto is a star in the constellation Ishgak
+      Irnto is a star in the constellation <a href="ishgak.html">Ishgak</a>
 distance: 157.33 ly
 apparent_magnitude: 3.00
 absolute_magnitude: -0.42

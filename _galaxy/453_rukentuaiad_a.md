@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      453 Rukentuaiad A is a star in the constellation Rukentua
+      453 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 960.10 ly
 apparent_magnitude: 7.19
 absolute_magnitude: -0.16

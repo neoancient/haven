@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7844 Anilliad is a star in the constellation Anil
+      7844 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 489.48 ly
 apparent_magnitude: 11.67
 absolute_magnitude: 5.79

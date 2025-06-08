@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3212 Shanniashiad A is a star in the constellation Shannias
+      3212 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 392.79 ly
 apparent_magnitude: 7.98
 absolute_magnitude: 2.58

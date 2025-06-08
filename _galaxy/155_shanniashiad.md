@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      155 Shanniashiad is a star in the constellation Shannias
+      155 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 313.04 ly
 apparent_magnitude: 9.26
 absolute_magnitude: 4.35

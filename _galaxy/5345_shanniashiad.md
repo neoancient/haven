@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5345 Shanniashiad is a star in the constellation Shannias
+      5345 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 454.89 ly
 apparent_magnitude: 10.70
 absolute_magnitude: 4.98

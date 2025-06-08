@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      39 Lulithannaid A is a star in the constellation Lulithan
+      39 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 335.84 ly
 apparent_magnitude: 7.06
 absolute_magnitude: 1.99

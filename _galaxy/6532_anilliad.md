@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6532 Anilliad is a star in the constellation Anil
+      6532 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 178.82 ly
 apparent_magnitude: 9.43
 absolute_magnitude: 5.74

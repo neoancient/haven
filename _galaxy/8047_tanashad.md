@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8047 Tanashad is a star in the constellation Tanas
+      8047 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 237.22 ly
 apparent_magnitude: 9.20
 absolute_magnitude: 4.89

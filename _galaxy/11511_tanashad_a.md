@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11511 Tanashad A is a star in the constellation Tanas
+      11511 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 250.32 ly
 apparent_magnitude: 9.47
 absolute_magnitude: 5.04

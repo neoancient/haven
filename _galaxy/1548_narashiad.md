@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1548 Narashiad is a star in the constellation Naras
+      1548 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 450.09 ly
 apparent_magnitude: 11.11
 absolute_magnitude: 5.41

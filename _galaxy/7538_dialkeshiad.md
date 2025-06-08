@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7538 Dialkeshiad is a star in the constellation Dialkes
+      7538 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 464.05 ly
 apparent_magnitude: 11.69
 absolute_magnitude: 5.92

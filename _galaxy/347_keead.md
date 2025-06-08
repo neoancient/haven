@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      347 Keead is a star in the constellation Kee
+      347 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 896.83 ly
 apparent_magnitude: 6.87
 absolute_magnitude: -0.32
@@ -31,14 +31,14 @@ planets:
     radius: 13,400.7 km<br/>(2.103 Yrths)
     surface_area: 2.257 × 10<sup>09</sup> km<sup>2</sup><br/>(4.424 Yrths)
     volume: 1.008 × 10<sup>13</sup> km<sup>3</sup><br/>(9.306 Yrths)
-    mass: 7.480 × 10<sup>25</sup> kg<br />(12.524429168587698 Yrths)
+    mass: 7.480 × 10<sup>25</sup> kg<br />(12.52 Yrths)
     density: 7.420 g/cm<sup>3</sup>
     surface_gravity: 27.761 m/s<sup>2</sup><br />(2.831 g<sub>0</sub>)
     escape_velocity: 27.296 km/s<br />(98,264 km/h)
     rotation_period: 0.484 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 606 K<br />(333 °C)
+    temperature: 747 K<br />(474 °C)
     surface_pressure: 3,937 kPa<br />(39 atm)
     composition:
       - 88.0968% methane
@@ -57,14 +57,14 @@ planets:
         radius: 29,337.8 km<br/>(4.605 Yrths)
         surface_area: 1.082 × 10<sup>10</sup> km<sup>2</sup><br/>(21.205 Yrths)
         volume: 1.058 × 10<sup>14</sup> km<sup>3</sup><br/>(97.648 Yrths)
-        mass: 1.142 × 10<sup>26</sup> kg<br />(12.524429168587698 Yrths)
+        mass: 1.142 × 10<sup>26</sup> kg<br />(19.127 Yrths)
         density: 1.080 g/cm<sup>3</sup>
         surface_gravity: 8.846 m/s<sup>2</sup><br />(0.902 g<sub>0</sub>)
         escape_velocity: 22.798 km/s<br />(82,071 km/h)
         rotation_period: 60.472 d
         axial_tilt: 29.12°
         albedo: 0.30
-        temperature: 4442 K<br />(4169 °C)
+        temperature: 387 K<br />(114 °C)
   - name: 347 Keead II
     type: Gas dwarf
     aphelion: 1,505,319,223 km<br />10.062 AU
@@ -76,14 +76,14 @@ planets:
     radius: 24,984.7 km<br/>(3.922 Yrths)
     surface_area: 7.844 × 10<sup>09</sup> km<sup>2</sup><br/>(15.379 Yrths)
     volume: 6.533 × 10<sup>13</sup> km<sup>3</sup><br/>(60.311 Yrths)
-    mass: 1.650 × 10<sup>26</sup> kg<br />(27.632423731437243 Yrths)
+    mass: 1.650 × 10<sup>26</sup> kg<br />(27.63 Yrths)
     density: 2.526 g/cm<sup>3</sup>
     surface_gravity: 17.620 m/s<sup>2</sup><br />(1.797 g<sub>0</sub>)
     escape_velocity: 29.693 km/s<br />(106,894 km/h)
     rotation_period: 0.328 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 458 K<br />(185 °C)
+    temperature: 420 K<br />(147 °C)
     composition:
       - 93.8750% hydrogen
       - 2.7027% phosphine
@@ -103,14 +103,14 @@ planets:
         radius: 13,452.3 km<br/>(2.111 Yrths)
         surface_area: 2.274 × 10<sup>09</sup> km<sup>2</sup><br/>(4.458 Yrths)
         volume: 1.020 × 10<sup>13</sup> km<sup>3</sup><br/>(9.414 Yrths)
-        mass: 1.937 × 10<sup>25</sup> kg<br />(27.632423731437243 Yrths)
+        mass: 1.937 × 10<sup>25</sup> kg<br />(3.244 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 7.136 m/s<sup>2</sup><br />(0.728 g<sub>0</sub>)
         escape_velocity: 13.866 km/s<br />(49,916 km/h)
         rotation_period: 51.140 d
         axial_tilt: 9.04°
         albedo: 0.30
-        temperature: 2586 K<br />(2313 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 347 Keead II b
         type: Dwarf planet
         formationType: Captured
@@ -123,14 +123,14 @@ planets:
         radius: 20,960.0 km<br/>(3.290 Yrths)
         surface_area: 5.521 × 10<sup>09</sup> km<sup>2</sup><br/>(10.824 Yrths)
         volume: 3.857 × 10<sup>13</sup> km<sup>3</sup><br/>(35.608 Yrths)
-        mass: 8.176 × 10<sup>25</sup> kg<br />(27.632423731437243 Yrths)
+        mass: 8.176 × 10<sup>25</sup> kg<br />(13.690 Yrths)
         density: 2.120 g/cm<sup>3</sup>
         surface_gravity: 12.404 m/s<sup>2</sup><br />(1.265 g<sub>0</sub>)
         escape_velocity: 22.818 km/s<br />(82,146 km/h)
         rotation_period: 37.207 d
         axial_tilt: 23.03°
         albedo: 0.30
-        temperature: 2466 K<br />(2193 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 347 Keead II c
         type: Icy
         formationType: Captured
@@ -143,14 +143,14 @@ planets:
         radius: 35,357.4 km<br/>(5.550 Yrths)
         surface_area: 1.571 × 10<sup>10</sup> km<sup>2</sup><br/>(30.800 Yrths)
         volume: 1.852 × 10<sup>14</sup> km<sup>3</sup><br/>(170.931 Yrths)
-        mass: 1.909 × 10<sup>26</sup> kg<br />(27.632423731437243 Yrths)
+        mass: 1.909 × 10<sup>26</sup> kg<br />(31.962 Yrths)
         density: 1.031 g/cm<sup>3</sup>
         surface_gravity: 10.177 m/s<sup>2</sup><br />(1.038 g<sub>0</sub>)
         escape_velocity: 26.844 km/s<br />(96,639 km/h)
         rotation_period: 93.546 d
         axial_tilt: 27.45°
         albedo: 0.30
-        temperature: 2351 K<br />(2078 °C)
+        temperature: 269 K<br />(-4 °C)
       - name: 347 Keead II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -163,14 +163,14 @@ planets:
         radius: 22,269.6 km<br/>(3.495 Yrths)
         surface_area: 6.232 × 10<sup>09</sup> km<sup>2</sup><br/>(12.218 Yrths)
         volume: 4.626 × 10<sup>13</sup> km<sup>3</sup><br/>(42.709 Yrths)
-        mass: 7.870 × 10<sup>25</sup> kg<br />(27.632423731437243 Yrths)
+        mass: 7.870 × 10<sup>25</sup> kg<br />(13.178 Yrths)
         density: 1.701 g/cm<sup>3</sup>
         surface_gravity: 10.577 m/s<sup>2</sup><br />(1.079 g<sub>0</sub>)
         escape_velocity: 21.719 km/s<br />(78,189 km/h)
         rotation_period: 50.041 d
         axial_tilt: 10.28°
         albedo: 0.30
-        temperature: 2242 K<br />(1968 °C)
+        temperature: 269 K<br />(-4 °C)
   - name: 347 Keead III
     type: Ice giant
     aphelion: 3,233,530,629 km<br />21.615 AU
@@ -182,14 +182,14 @@ planets:
     radius: 36,095.4 km<br/>(5.666 Yrths)
     surface_area: 1.637 × 10<sup>10</sup> km<sup>2</sup><br/>(32.099 Yrths)
     volume: 1.970 × 10<sup>14</sup> km<sup>3</sup><br/>(181.859 Yrths)
-    mass: 2.590 × 10<sup>26</sup> kg<br />(43.36091612863426 Yrths)
+    mass: 2.590 × 10<sup>26</sup> kg<br />(43.36 Yrths)
     density: 1.315 g/cm<sup>3</sup>
     surface_gravity: 13.247 m/s<sup>2</sup><br />(1.351 g<sub>0</sub>)
     escape_velocity: 30.946 km/s<br />(111,405 km/h)
     rotation_period: 0.290 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 393 K<br />(120 °C)
+    temperature: 369 K<br />(96 °C)
     composition:
       - 82.2017% hydrogen
       - 11.4319% helium
@@ -208,14 +208,14 @@ planets:
         radius: 58,241.1 km<br/>(9.142 Yrths)
         surface_area: 4.263 × 10<sup>10</sup> km<sup>2</sup><br/>(83.569 Yrths)
         volume: 8.275 × 10<sup>14</sup> km<sup>3</sup><br/>(763.953 Yrths)
-        mass: 1.572 × 10<sup>27</sup> kg<br />(43.36091612863426 Yrths)
+        mass: 1.572 × 10<sup>27</sup> kg<br />(263.276 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 30.895 m/s<sup>2</sup><br />(3.150 g<sub>0</sub>)
         escape_velocity: 60.030 km/s<br />(216,108 km/h)
         rotation_period: 49.070 d
         axial_tilt: 20.98°
         albedo: 0.30
-        temperature: 1668 K<br />(1395 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 347 Keead III b
         type: Icy
         formationType: Captured
@@ -228,14 +228,14 @@ planets:
         radius: 47,185.1 km<br/>(7.406 Yrths)
         surface_area: 2.798 × 10<sup>10</sup> km<sup>2</sup><br/>(54.852 Yrths)
         volume: 4.401 × 10<sup>14</sup> km<sup>3</sup><br/>(406.248 Yrths)
-        mass: 4.618 × 10<sup>26</sup> kg<br />(43.36091612863426 Yrths)
+        mass: 4.618 × 10<sup>26</sup> kg<br />(77.329 Yrths)
         density: 1.049 g/cm<sup>3</sup>
         surface_gravity: 13.825 m/s<sup>2</sup><br />(1.410 g<sub>0</sub>)
         escape_velocity: 36.145 km/s<br />(130,121 km/h)
         rotation_period: 82.879 d
         axial_tilt: 8.67°
         albedo: 0.30
-        temperature: 1590 K<br />(1317 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 347 Keead III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -248,14 +248,14 @@ planets:
         radius: 53,201.3 km<br/>(8.351 Yrths)
         surface_area: 3.557 × 10<sup>10</sup> km<sup>2</sup><br/>(69.732 Yrths)
         volume: 6.307 × 10<sup>14</sup> km<sup>3</sup><br/>(582.297 Yrths)
-        mass: 1.147 × 10<sup>27</sup> kg<br />(43.36091612863426 Yrths)
+        mass: 1.147 × 10<sup>27</sup> kg<br />(192.135 Yrths)
         density: 1.819 g/cm<sup>3</sup>
         surface_gravity: 27.021 m/s<sup>2</sup><br />(2.755 g<sub>0</sub>)
         escape_velocity: 53.656 km/s<br />(193,163 km/h)
         rotation_period: 47.766 d
         axial_tilt: 26.34°
         albedo: 0.30
-        temperature: 1516 K<br />(1243 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 347 Keead III d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -268,14 +268,14 @@ planets:
         radius: 37,738.5 km<br/>(5.923 Yrths)
         surface_area: 1.790 × 10<sup>10</sup> km<sup>2</sup><br/>(35.088 Yrths)
         volume: 2.251 × 10<sup>14</sup> km<sup>3</sup><br/>(207.841 Yrths)
-        mass: 6.022 × 10<sup>26</sup> kg<br />(43.36091612863426 Yrths)
+        mass: 6.022 × 10<sup>26</sup> kg<br />(100.836 Yrths)
         density: 2.675 g/cm<sup>3</sup>
         surface_gravity: 28.183 m/s<sup>2</sup><br />(2.874 g<sub>0</sub>)
         escape_velocity: 46.152 km/s<br />(166,148 km/h)
         rotation_period: 40.951 d
         axial_tilt: 20.55°
         albedo: 0.30
-        temperature: 1378 K<br />(1105 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 347 Keead III e
         type: Dwarf planet
         formationType: Accreted
@@ -288,14 +288,14 @@ planets:
         radius: 37,488.6 km<br/>(5.884 Yrths)
         surface_area: 1.766 × 10<sup>10</sup> km<sup>2</sup><br/>(34.624 Yrths)
         volume: 2.207 × 10<sup>14</sup> km<sup>3</sup><br/>(203.739 Yrths)
-        mass: 3.805 × 10<sup>26</sup> kg<br />(43.36091612863426 Yrths)
+        mass: 3.805 × 10<sup>26</sup> kg<br />(63.718 Yrths)
         density: 1.724 g/cm<sup>3</sup>
         surface_gravity: 18.047 m/s<sup>2</sup><br />(1.840 g<sub>0</sub>)
         escape_velocity: 36.809 km/s<br />(132,514 km/h)
         rotation_period: 58.742 d
         axial_tilt: 18.89°
         albedo: 0.30
-        temperature: 1253 K<br />(980 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 347 Keead III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -308,14 +308,14 @@ planets:
         radius: 56,877.9 km<br/>(8.928 Yrths)
         surface_area: 4.065 × 10<sup>10</sup> km<sup>2</sup><br/>(79.702 Yrths)
         volume: 7.708 × 10<sup>14</sup> km<sup>3</sup><br/>(711.554 Yrths)
-        mass: 1.700 × 10<sup>27</sup> kg<br />(43.36091612863426 Yrths)
+        mass: 1.700 × 10<sup>27</sup> kg<br />(284.722 Yrths)
         density: 2.206 g/cm<sup>3</sup>
         surface_gravity: 35.032 m/s<sup>2</sup><br />(3.572 g<sub>0</sub>)
         escape_velocity: 63.171 km/s<br />(227,415 km/h)
         rotation_period: 50.760 d
         axial_tilt: 17.15°
         albedo: 0.30
-        temperature: 1195 K<br />(922 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 347 Keead III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -328,14 +328,14 @@ planets:
         radius: 30,190.5 km<br/>(4.739 Yrths)
         surface_area: 1.145 × 10<sup>10</sup> km<sup>2</sup><br/>(22.456 Yrths)
         volume: 1.153 × 10<sup>14</sup> km<sup>3</sup><br/>(106.411 Yrths)
-        mass: 2.914 × 10<sup>26</sup> kg<br />(43.36091612863426 Yrths)
+        mass: 2.914 × 10<sup>26</sup> kg<br />(48.787 Yrths)
         density: 2.528 g/cm<sup>3</sup>
         surface_gravity: 21.306 m/s<sup>2</sup><br />(2.173 g<sub>0</sub>)
         escape_velocity: 35.892 km/s<br />(129,210 km/h)
         rotation_period: 55.104 d
         axial_tilt: 20.10°
         albedo: 0.30
-        temperature: 1139 K<br />(866 °C)
+        temperature: 187 K<br />(-86 °C)
       - name: 347 Keead III h
         type: Ice/rock hybrid
         formationType: Captured
@@ -348,12 +348,12 @@ planets:
         radius: 38,304.2 km<br/>(6.012 Yrths)
         surface_area: 1.844 × 10<sup>10</sup> km<sup>2</sup><br/>(36.147 Yrths)
         volume: 2.354 × 10<sup>14</sup> km<sup>3</sup><br/>(217.328 Yrths)
-        mass: 4.709 × 10<sup>26</sup> kg<br />(43.36091612863426 Yrths)
+        mass: 4.709 × 10<sup>26</sup> kg<br />(78.858 Yrths)
         density: 2.001 g/cm<sup>3</sup>
         surface_gravity: 21.394 m/s<sup>2</sup><br />(2.182 g<sub>0</sub>)
         escape_velocity: 40.511 km/s<br />(145,841 km/h)
         rotation_period: 35.510 d
         axial_tilt: 28.63°
         albedo: 0.30
-        temperature: 1086 K<br />(813 °C)
+        temperature: 187 K<br />(-86 °C)
 ---

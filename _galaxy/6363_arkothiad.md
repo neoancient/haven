@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6363 Arkothiad is a star in the constellation Arkoth
+      6363 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 603.82 ly
 apparent_magnitude: 11.66
 absolute_magnitude: 5.32

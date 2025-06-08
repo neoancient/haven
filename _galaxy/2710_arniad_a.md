@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2710 Arniad A is a star in the constellation Arni
+      2710 Arniad A is a star in the constellation <a href="arni.html">Arni</a>
 distance: 154.19 ly
 apparent_magnitude: 9.67
 absolute_magnitude: 6.29

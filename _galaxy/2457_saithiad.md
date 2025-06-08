@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2457 Saithiad is a star in the constellation Saith
+      2457 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 941.90 ly
 apparent_magnitude: 11.49
 absolute_magnitude: 4.19

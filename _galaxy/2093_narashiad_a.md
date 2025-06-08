@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2093 Narashiad A is a star in the constellation Naras
+      2093 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 488.69 ly
 apparent_magnitude: 7.99
 absolute_magnitude: 2.11

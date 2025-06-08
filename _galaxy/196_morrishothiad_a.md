@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      196 Morrishothiad A is a star in the constellation Morrishoth
+      196 Morrishothiad A is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 449.37 ly
 apparent_magnitude: 7.42
 absolute_magnitude: 1.73

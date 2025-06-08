@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      355 Aldnanniad is a star in the constellation Aldnan
+      355 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 391.68 ly
 apparent_magnitude: 10.23
 absolute_magnitude: 4.83

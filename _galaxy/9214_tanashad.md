@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9214 Tanashad is a star in the constellation Tanas
+      9214 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 294.56 ly
 apparent_magnitude: 11.10
 absolute_magnitude: 6.32

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      χ Nwaliad is a star in the constellation Nwal
+      χ Nwaliad is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 20.77 ly
 apparent_magnitude: 4.96
 absolute_magnitude: 5.94
@@ -31,14 +31,14 @@ planets:
     radius: 6,350.2 km<br/>(0.997 Yrths)
     surface_area: 5.067 × 10<sup>08</sup> km<sup>2</sup><br/>(0.993 Yrths)
     volume: 1.073 × 10<sup>12</sup> km<sup>3</sup><br/>(0.990 Yrths)
-    mass: 1.517 × 10<sup>25</sup> kg<br />(2.5400620753313228 Yrths)
+    mass: 1.517 × 10<sup>25</sup> kg<br />(2.54 Yrths)
     density: 14.142 g/cm<sup>3</sup>
     surface_gravity: 25.073 m/s<sup>2</sup><br />(2.557 g<sub>0</sub>)
     escape_velocity: 17.857 km/s<br />(64,285 km/h)
     rotation_period: 1.680 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 425 K<br />(152 °C)
+    temperature: 393 K<br />(120 °C)
     surface_pressure: 236 kPa<br />(2 atm)
     composition:
       - 78.2760% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 5,712.3 km<br/>(0.897 Yrths)
         surface_area: 4.100 × 10<sup>08</sup> km<sup>2</sup><br/>(0.804 Yrths)
         volume: 7.808 × 10<sup>11</sup> km<sup>3</sup><br/>(0.721 Yrths)
-        mass: 2.756 × 10<sup>24</sup> kg<br />(2.5400620753313228 Yrths)
+        mass: 2.756 × 10<sup>24</sup> kg<br />(0.462 Yrths)
         density: 3.530 g/cm<sup>3</sup>
         surface_gravity: 5.630 m/s<sup>2</sup><br />(0.574 g<sub>0</sub>)
         escape_velocity: 8.025 km/s<br />(28,891 km/h)
         rotation_period: 29.483 d
         axial_tilt: 11.82°
         albedo: 0.30
-        temperature: 3966 K<br />(3692 °C)
+        temperature: 336 K<br />(63 °C)
   - name: χ Nwaliad II
     type: Terrestrial
     aphelion: 91,792,500 km<br />0.614 AU
@@ -77,14 +77,14 @@ planets:
     radius: 2,978.0 km<br/>(0.467 Yrths)
     surface_area: 1.114 × 10<sup>08</sup> km<sup>2</sup><br/>(0.218 Yrths)
     volume: 1.106 × 10<sup>11</sup> km<sup>3</sup><br/>(0.102 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 5.398 g/cm<sup>3</sup>
     surface_gravity: 4.488 m/s<sup>2</sup><br />(0.458 g<sub>0</sub>)
     escape_velocity: 5.174 km/s<br />(18,626 km/h)
     rotation_period: 4.117 d
     axial_tilt: 90.00°
     albedo: 0.30
-    temperature: 281 K<br />(8 °C)
+    temperature: 324 K<br />(51 °C)
     surface_pressure: 7 kPa<br />(0 atm)
     composition:
       - 92.2731% nitrogen
@@ -101,7 +101,7 @@ planets:
     radius: 6,451.8 km<br/>(1.013 Yrths)
     surface_area: 5.231 × 10<sup>08</sup> km<sup>2</sup><br/>(1.026 Yrths)
     volume: 1.125 × 10<sup>12</sup> km<sup>3</sup><br/>(1.039 Yrths)
-    mass: 7.233 × 10<sup>24</sup> kg<br />(1.2112159406989012 Yrths)
+    mass: 7.233 × 10<sup>24</sup> kg<br />(1.21 Yrths)
     density: 6.430 g/cm<sup>3</sup>
     surface_gravity: 11.582 m/s<sup>2</sup><br />(1.181 g<sub>0</sub>)
     escape_velocity: 12.233 km/s<br />(44,040 km/h)
@@ -122,14 +122,14 @@ planets:
         radius: 3,296.7 km<br/>(0.517 Yrths)
         surface_area: 1.366 × 10<sup>08</sup> km<sup>2</sup><br/>(0.268 Yrths)
         volume: 1.501 × 10<sup>11</sup> km<sup>3</sup><br/>(0.139 Yrths)
-        mass: 3.345 × 10<sup>23</sup> kg<br />(1.2112159406989012 Yrths)
+        mass: 3.345 × 10<sup>23</sup> kg<br />(0.056 Yrths)
         density: 2.229 g/cm<sup>3</sup>
         surface_gravity: 2.051 m/s<sup>2</sup><br />(0.209 g<sub>0</sub>)
         escape_velocity: 3.680 km/s<br />(13,249 km/h)
         rotation_period: 43.235 d
         axial_tilt: 12.11°
         albedo: 0.30
-        temperature: 2714 K<br />(2441 °C)
+        temperature: 205 K<br />(-68 °C)
   - name: χ Nwaliad IV
     type: Gas giant
     aphelion: 258,159,225 km<br />1.726 AU
@@ -141,7 +141,7 @@ planets:
     radius: 35.3 km<br/>(0.006 Yrths)
     surface_area: 1.569 × 10<sup>04</sup> km<sup>2</sup><br/>(0.000 Yrths)
     volume: 1.849 × 10<sup>05</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.972 × 10<sup>23</sup> kg<br />(0.1 Yrths)
+    mass: 5.972 × 10<sup>23</sup> kg<br />(0.10 Yrths)
     density: 3230569.142 g/cm<sup>3</sup>
     surface_gravity: 31873.845 m/s<sup>2</sup><br />(3250.228 g<sub>0</sub>)
     escape_velocity: 47.495 km/s<br />(170,984 km/h)
@@ -162,14 +162,14 @@ planets:
         radius: 1,483.3 km<br/>(0.233 Yrths)
         surface_area: 2.765 × 10<sup>07</sup> km<sup>2</sup><br/>(0.054 Yrths)
         volume: 1.367 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 1.830 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.830 × 10<sup>22</sup> kg<br />(0.003 Yrths)
         density: 1.339 g/cm<sup>3</sup>
         surface_gravity: 0.554 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 1.283 km/s<br />(4,620 km/h)
         rotation_period: 61.341 d
         axial_tilt: 12.17°
         albedo: 0.30
-        temperature: 2784 K<br />(2511 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: χ Nwaliad IV b
         type: Icy
         formationType: Accreted
@@ -182,14 +182,14 @@ planets:
         radius: 1,083.3 km<br/>(0.170 Yrths)
         surface_area: 1.475 × 10<sup>07</sup> km<sup>2</sup><br/>(0.029 Yrths)
         volume: 5.325 × 10<sup>09</sup> km<sup>3</sup><br/>(0.005 Yrths)
-        mass: 5.372 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.372 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.009 g/cm<sup>3</sup>
         surface_gravity: 0.305 m/s<sup>2</sup><br />(0.031 g<sub>0</sub>)
         escape_velocity: 0.814 km/s<br />(2,929 km/h)
         rotation_period: 95.487 d
         axial_tilt: 21.29°
         albedo: 0.30
-        temperature: 1994 K<br />(1721 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: χ Nwaliad IV c
         type: Icy
         formationType: Impact formed
@@ -202,14 +202,14 @@ planets:
         radius: 1,319.9 km<br/>(0.207 Yrths)
         surface_area: 2.189 × 10<sup>07</sup> km<sup>2</sup><br/>(0.043 Yrths)
         volume: 9.633 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 1.458 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 1.458 × 10<sup>22</sup> kg<br />(0.002 Yrths)
         density: 1.514 g/cm<sup>3</sup>
         surface_gravity: 0.558 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 1.214 km/s<br />(4,371 km/h)
         rotation_period: 67.611 d
         axial_tilt: 16.68°
         albedo: 0.30
-        temperature: 1648 K<br />(1375 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: χ Nwaliad IV d
         type: Dwarf planet
         formationType: Impact formed
@@ -222,14 +222,14 @@ planets:
         radius: 815.9 km<br/>(0.128 Yrths)
         surface_area: 8.365 × 10<sup>06</sup> km<sup>2</sup><br/>(0.016 Yrths)
         volume: 2.275 × 10<sup>09</sup> km<sup>3</sup><br/>(0.002 Yrths)
-        mass: 5.912 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 5.912 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.599 g/cm<sup>3</sup>
         surface_gravity: 0.592 m/s<sup>2</sup><br />(0.060 g<sub>0</sub>)
         escape_velocity: 0.983 km/s<br />(3,540 km/h)
         rotation_period: 38.995 d
         axial_tilt: 24.78°
         albedo: 0.30
-        temperature: 1238 K<br />(965 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: χ Nwaliad IV e
         type: Icy
         formationType: Impact formed
@@ -242,14 +242,14 @@ planets:
         radius: 1,513.5 km<br/>(0.238 Yrths)
         surface_area: 2.878 × 10<sup>07</sup> km<sup>2</sup><br/>(0.056 Yrths)
         volume: 1.452 × 10<sup>10</sup> km<sup>3</sup><br/>(0.013 Yrths)
-        mass: 2.286 × 10<sup>22</sup> kg<br />(0.1 Yrths)
+        mass: 2.286 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 1.574 g/cm<sup>3</sup>
         surface_gravity: 0.665 m/s<sup>2</sup><br />(0.068 g<sub>0</sub>)
         escape_velocity: 1.420 km/s<br />(5,111 km/h)
         rotation_period: 39.771 d
         axial_tilt: 19.30°
         albedo: 0.30
-        temperature: 930 K<br />(657 °C)
+        temperature: 160 K<br />(-113 °C)
       - name: χ Nwaliad IV f
         type: Rocky
         formationType: Impact formed
@@ -262,12 +262,12 @@ planets:
         radius: 913.0 km<br/>(0.143 Yrths)
         surface_area: 1.047 × 10<sup>07</sup> km<sup>2</sup><br/>(0.021 Yrths)
         volume: 3.188 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
-        mass: 8.957 × 10<sup>21</sup> kg<br />(0.1 Yrths)
+        mass: 8.957 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 2.810 g/cm<sup>3</sup>
         surface_gravity: 0.716 m/s<sup>2</sup><br />(0.073 g<sub>0</sub>)
         escape_velocity: 1.144 km/s<br />(4,120 km/h)
         rotation_period: 32.896 d
         axial_tilt: 21.69°
         albedo: 0.30
-        temperature: 455 K<br />(182 °C)
+        temperature: 160 K<br />(-113 °C)
 ---

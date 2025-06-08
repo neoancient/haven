@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1737 Shanniashiad A is a star in the constellation Shannias
+      1737 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 1008.57 ly
 apparent_magnitude: 6.92
 absolute_magnitude: -0.53

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8224 Dialkeshiad is a star in the constellation Dialkes
+      8224 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 393.94 ly
 apparent_magnitude: 11.43
 absolute_magnitude: 6.02

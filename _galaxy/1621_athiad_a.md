@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1621 Athiad A is a star in the constellation Ath
+      1621 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 731.52 ly
 apparent_magnitude: 6.76
 absolute_magnitude: 0.01

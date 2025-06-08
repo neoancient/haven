@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      683 Arkothiad is a star in the constellation Arkoth
+      683 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 836.80 ly
 apparent_magnitude: 12.20
 absolute_magnitude: 5.15

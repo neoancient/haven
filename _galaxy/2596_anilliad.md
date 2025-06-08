@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2596 Anilliad is a star in the constellation Anil
+      2596 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 486.10 ly
 apparent_magnitude: 8.88
 absolute_magnitude: 3.01

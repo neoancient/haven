@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      251 Rukentuaiad A is a star in the constellation Rukentua
+      251 Rukentuaiad A is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 308.73 ly
 apparent_magnitude: 8.36
 absolute_magnitude: 3.48

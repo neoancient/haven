@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2102 Arkothiad A is a star in the constellation Arkoth
+      2102 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 344.98 ly
 apparent_magnitude: 7.78
 absolute_magnitude: 2.66

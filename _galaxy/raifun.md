@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Raifun is a star in the constellation Arkoth
+      Raifun is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 2539.10 ly
 apparent_magnitude: 3.37
 absolute_magnitude: -6.09

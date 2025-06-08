@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1382 Reggiad is a star in the constellation Reg
+      1382 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 297.23 ly
 apparent_magnitude: 21.20
 absolute_magnitude: 16.41

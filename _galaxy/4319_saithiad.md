@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4319 Saithiad is a star in the constellation Saith
+      4319 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 204.20 ly
 apparent_magnitude: 16.50
 absolute_magnitude: 12.52

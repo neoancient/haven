@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      655 Shanniashiad A is a star in the constellation Shannias
+      655 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 513.54 ly
 apparent_magnitude: 8.05
 absolute_magnitude: 2.06

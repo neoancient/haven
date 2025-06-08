@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1277 Keead is a star in the constellation Kee
+      1277 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 603.52 ly
 apparent_magnitude: 11.28
 absolute_magnitude: 4.95

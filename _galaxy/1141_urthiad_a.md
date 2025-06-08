@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1141 Urthiad A is a star in the constellation Urth
+      1141 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 296.69 ly
 apparent_magnitude: 9.10
 absolute_magnitude: 4.31

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0037 Geardiad B is a star in the constellation Geard
+      0037 Geardiad B is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1362.32 ly
 apparent_magnitude: 11.06
 absolute_magnitude: 2.96

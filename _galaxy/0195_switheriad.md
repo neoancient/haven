@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0195 Switheriad is a star in the constellation Swither
+      0195 Switheriad is a star in the constellation <a href="swither.html">Swither</a>
 distance: 37.35 ly
 apparent_magnitude: 6.07
 absolute_magnitude: 5.77
@@ -31,14 +31,14 @@ planets:
     radius: 6,585.6 km<br/>(1.034 Yrths)
     surface_area: 5.450 × 10<sup>08</sup> km<sup>2</sup><br/>(1.068 Yrths)
     volume: 1.196 × 10<sup>12</sup> km<sup>3</sup><br/>(1.104 Yrths)
-    mass: 6.531 × 10<sup>24</sup> kg<br />(1.093642637441657 Yrths)
+    mass: 6.531 × 10<sup>24</sup> kg<br />(1.09 Yrths)
     density: 5.459 g/cm<sup>3</sup>
     surface_gravity: 10.037 m/s<sup>2</sup><br />(1.024 g<sub>0</sub>)
     escape_velocity: 11.506 km/s<br />(41,421 km/h)
     rotation_period: 2.811 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 336 K<br />(63 °C)
+    temperature: 330 K<br />(57 °C)
     surface_pressure: 9 kPa<br />(0 atm)
     composition:
       - 94.3287% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 2,513.5 km<br/>(0.395 Yrths)
         surface_area: 7.939 × 10<sup>07</sup> km<sup>2</sup><br/>(0.156 Yrths)
         volume: 6.652 × 10<sup>10</sup> km<sup>3</sup><br/>(0.061 Yrths)
-        mass: 1.863 × 10<sup>23</sup> kg<br />(1.093642637441657 Yrths)
+        mass: 1.863 × 10<sup>23</sup> kg<br />(0.031 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 1.965 m/s<sup>2</sup><br />(0.200 g<sub>0</sub>)
         escape_velocity: 3.145 km/s<br />(11,322 km/h)
         rotation_period: 47.185 d
         axial_tilt: 23.94°
         albedo: 0.30
-        temperature: 4243 K<br />(3969 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 0195 Switheriad II
     type: Terrestrial
     aphelion: 121,570,598 km<br />0.813 AU
@@ -75,14 +75,14 @@ planets:
     radius: 6,139.2 km<br/>(0.964 Yrths)
     surface_area: 4.736 × 10<sup>08</sup> km<sup>2</sup><br/>(0.929 Yrths)
     volume: 9.692 × 10<sup>11</sup> km<sup>3</sup><br/>(0.895 Yrths)
-    mass: 5.438 × 10<sup>24</sup> kg<br />(0.9105498093111746 Yrths)
+    mass: 5.438 × 10<sup>24</sup> kg<br />(0.91 Yrths)
     density: 5.611 g/cm<sup>3</sup>
     surface_gravity: 9.617 m/s<sup>2</sup><br />(0.981 g<sub>0</sub>)
     escape_velocity: 10.874 km/s<br />(39,145 km/h)
     rotation_period: 1.944 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 273 K<br />(-0 °C)
+    temperature: 360 K<br />(87 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 83.2540% nitrogen
@@ -102,14 +102,14 @@ planets:
         radius: 3,891.3 km<br/>(0.611 Yrths)
         surface_area: 1.903 × 10<sup>08</sup> km<sup>2</sup><br/>(0.373 Yrths)
         volume: 2.468 × 10<sup>11</sup> km<sup>3</sup><br/>(0.228 Yrths)
-        mass: 2.428 × 10<sup>23</sup> kg<br />(0.9105498093111746 Yrths)
+        mass: 2.428 × 10<sup>23</sup> kg<br />(0.041 Yrths)
         density: 0.984 g/cm<sup>3</sup>
         surface_gravity: 1.069 m/s<sup>2</sup><br />(0.109 g<sub>0</sub>)
         escape_velocity: 2.886 km/s<br />(10,390 km/h)
         rotation_period: 76.696 d
         axial_tilt: 18.11°
         albedo: 0.30
-        temperature: 3486 K<br />(3213 °C)
+        temperature: 244 K<br />(-29 °C)
   - name: 0195 Switheriad III
     type: Gas dwarf
     aphelion: 204,649,796 km<br />1.368 AU
@@ -121,14 +121,14 @@ planets:
     radius: 15,018.5 km<br/>(2.357 Yrths)
     surface_area: 2.834 × 10<sup>09</sup> km<sup>2</sup><br/>(5.557 Yrths)
     volume: 1.419 × 10<sup>13</sup> km<sup>3</sup><br/>(13.100 Yrths)
-    mass: 3.763 × 10<sup>25</sup> kg<br />(6.300759449406699 Yrths)
+    mass: 3.763 × 10<sup>25</sup> kg<br />(6.30 Yrths)
     density: 2.652 g/cm<sup>3</sup>
     surface_gravity: 11.119 m/s<sup>2</sup><br />(1.134 g<sub>0</sub>)
     escape_velocity: 18.288 km/s<br />(65,836 km/h)
     rotation_period: 0.840 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 247 K<br />(-27 °C)
+    temperature: 220 K<br />(-53 °C)
     composition:
       - 88.1492% hydrogen
       - 11.2511% helium
@@ -146,14 +146,14 @@ planets:
         radius: 16,469.3 km<br/>(2.585 Yrths)
         surface_area: 3.408 × 10<sup>09</sup> km<sup>2</sup><br/>(6.682 Yrths)
         volume: 1.871 × 10<sup>13</sup> km<sup>3</sup><br/>(17.274 Yrths)
-        mass: 1.964 × 10<sup>25</sup> kg<br />(6.300759449406699 Yrths)
+        mass: 1.964 × 10<sup>25</sup> kg<br />(3.288 Yrths)
         density: 1.049 g/cm<sup>3</sup>
         surface_gravity: 4.826 m/s<sup>2</sup><br />(0.492 g<sub>0</sub>)
         escape_velocity: 12.616 km/s<br />(45,417 km/h)
         rotation_period: 82.997 d
         axial_tilt: 15.35°
         albedo: 0.30
-        temperature: 1871 K<br />(1598 °C)
+        temperature: 188 K<br />(-85 °C)
       - name: 0195 Switheriad III b
         type: Rocky
         formationType: Impact formed
@@ -166,14 +166,14 @@ planets:
         radius: 10,558.7 km<br/>(1.657 Yrths)
         surface_area: 1.401 × 10<sup>09</sup> km<sup>2</sup><br/>(2.747 Yrths)
         volume: 4.931 × 10<sup>12</sup> km<sup>3</sup><br/>(4.552 Yrths)
-        mass: 1.533 × 10<sup>25</sup> kg<br />(6.300759449406699 Yrths)
+        mass: 1.533 × 10<sup>25</sup> kg<br />(2.566 Yrths)
         density: 3.108 g/cm<sup>3</sup>
         surface_gravity: 9.162 m/s<sup>2</sup><br />(0.934 g<sub>0</sub>)
         escape_velocity: 13.919 km/s<br />(50,110 km/h)
         rotation_period: 45.875 d
         axial_tilt: 21.65°
         albedo: 0.30
-        temperature: 1784 K<br />(1511 °C)
+        temperature: 188 K<br />(-85 °C)
       - name: 0195 Switheriad III c
         type: Dwarf planet
         formationType: Accreted
@@ -186,14 +186,14 @@ planets:
         radius: 7,859.5 km<br/>(1.234 Yrths)
         surface_area: 7.763 × 10<sup>08</sup> km<sup>2</sup><br/>(1.522 Yrths)
         volume: 2.034 × 10<sup>12</sup> km<sup>3</sup><br/>(1.877 Yrths)
-        mass: 4.091 × 10<sup>24</sup> kg<br />(6.300759449406699 Yrths)
+        mass: 4.091 × 10<sup>24</sup> kg<br />(0.685 Yrths)
         density: 2.012 g/cm<sup>3</sup>
         surface_gravity: 4.414 m/s<sup>2</sup><br />(0.450 g<sub>0</sub>)
         escape_velocity: 8.335 km/s<br />(30,007 km/h)
         rotation_period: 38.011 d
         axial_tilt: 39.10°
         albedo: 0.30
-        temperature: 1701 K<br />(1428 °C)
+        temperature: 188 K<br />(-85 °C)
   - name: 0195 Switheriad IV
     type: Large terrestrial
     aphelion: 348,183,824 km<br />2.327 AU
@@ -205,14 +205,14 @@ planets:
     radius: 10,213.9 km<br/>(1.603 Yrths)
     surface_area: 1.311 × 10<sup>09</sup> km<sup>2</sup><br/>(2.570 Yrths)
     volume: 4.463 × 10<sup>12</sup> km<sup>3</sup><br/>(4.121 Yrths)
-    mass: 3.296 × 10<sup>25</sup> kg<br />(5.5191977332508735 Yrths)
+    mass: 3.296 × 10<sup>25</sup> kg<br />(5.52 Yrths)
     density: 7.385 g/cm<sup>3</sup>
     surface_gravity: 21.058 m/s<sup>2</sup><br />(2.147 g<sub>0</sub>)
     escape_velocity: 20.755 km/s<br />(74,717 km/h)
     rotation_period: 0.815 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 185 K<br />(-88 °C)
+    temperature: 211 K<br />(-62 °C)
     surface_pressure: 193 kPa<br />(2 atm)
     composition:
       - 85.8638% nitrogen
@@ -231,14 +231,14 @@ planets:
         radius: 6,487.3 km<br/>(1.018 Yrths)
         surface_area: 5.288 × 10<sup>08</sup> km<sup>2</sup><br/>(1.037 Yrths)
         volume: 1.144 × 10<sup>12</sup> km<sup>3</sup><br/>(1.056 Yrths)
-        mass: 1.830 × 10<sup>24</sup> kg<br />(5.5191977332508735 Yrths)
+        mass: 1.830 × 10<sup>24</sup> kg<br />(0.306 Yrths)
         density: 1.601 g/cm<sup>3</sup>
         surface_gravity: 2.899 m/s<sup>2</sup><br />(0.296 g<sub>0</sub>)
         escape_velocity: 6.137 km/s<br />(22,093 km/h)
         rotation_period: 70.558 d
         axial_tilt: 15.71°
         albedo: 0.30
-        temperature: 1524 K<br />(1251 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 0195 Switheriad IV b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -251,14 +251,14 @@ planets:
         radius: 10,215.0 km<br/>(1.603 Yrths)
         surface_area: 1.311 × 10<sup>09</sup> km<sup>2</sup><br/>(2.571 Yrths)
         volume: 4.465 × 10<sup>12</sup> km<sup>3</sup><br/>(4.122 Yrths)
-        mass: 1.047 × 10<sup>25</sup> kg<br />(5.5191977332508735 Yrths)
+        mass: 1.047 × 10<sup>25</sup> kg<br />(1.753 Yrths)
         density: 2.345 g/cm<sup>3</sup>
         surface_gravity: 6.687 m/s<sup>2</sup><br />(0.682 g<sub>0</sub>)
         escape_velocity: 11.696 km/s<br />(42,106 km/h)
         rotation_period: 63.119 d
         axial_tilt: 10.93°
         albedo: 0.30
-        temperature: 1453 K<br />(1180 °C)
+        temperature: 144 K<br />(-129 °C)
       - name: 0195 Switheriad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -271,12 +271,12 @@ planets:
         radius: 7,281.6 km<br/>(1.143 Yrths)
         surface_area: 6.663 × 10<sup>08</sup> km<sup>2</sup><br/>(1.306 Yrths)
         volume: 1.617 × 10<sup>12</sup> km<sup>3</sup><br/>(1.493 Yrths)
-        mass: 3.561 × 10<sup>24</sup> kg<br />(5.5191977332508735 Yrths)
+        mass: 3.561 × 10<sup>24</sup> kg<br />(0.596 Yrths)
         density: 2.202 g/cm<sup>3</sup>
         surface_gravity: 4.476 m/s<sup>2</sup><br />(0.456 g<sub>0</sub>)
         escape_velocity: 8.079 km/s<br />(29,086 km/h)
         rotation_period: 63.549 d
         axial_tilt: 8.05°
         albedo: 0.30
-        temperature: 1385 K<br />(1112 °C)
+        temperature: 144 K<br />(-129 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1030 Anilliad is a star in the constellation Anil
+      1030 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 623.06 ly
 apparent_magnitude: 9.15
 absolute_magnitude: 2.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3630 Anilliad A is a star in the constellation Anil
+      3630 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 395.65 ly
 apparent_magnitude: 8.80
 absolute_magnitude: 3.38

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4155 Narashiad is a star in the constellation Naras
+      4155 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 278.54 ly
 apparent_magnitude: 11.50
 absolute_magnitude: 6.84

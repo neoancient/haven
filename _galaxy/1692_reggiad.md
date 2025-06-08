@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1692 Reggiad is a star in the constellation Reg
+      1692 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 110.04 ly
 apparent_magnitude: 8.96
 absolute_magnitude: 6.32

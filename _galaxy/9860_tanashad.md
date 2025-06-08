@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9860 Tanashad is a star in the constellation Tanas
+      9860 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 364.10 ly
 apparent_magnitude: 11.95
 absolute_magnitude: 6.71

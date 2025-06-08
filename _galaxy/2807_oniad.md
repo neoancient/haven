@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2807 Oniad is a star in the constellation Oni
+      2807 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 447.76 ly
 apparent_magnitude: 18.52
 absolute_magnitude: 12.83

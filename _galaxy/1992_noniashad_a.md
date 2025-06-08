@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1992 Noniashad A is a star in the constellation Nonias
+      1992 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 473.90 ly
 apparent_magnitude: 7.18
 absolute_magnitude: 1.37

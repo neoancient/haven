@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2768 Tanashad is a star in the constellation Tanas
+      2768 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 169.40 ly
 apparent_magnitude: 10.41
 absolute_magnitude: 6.83

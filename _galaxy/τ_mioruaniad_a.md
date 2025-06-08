@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Mioruaniad A is a star in the constellation Mioruane
+      τ Mioruaniad A is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 628.05 ly
 apparent_magnitude: 5.74
 absolute_magnitude: -0.68

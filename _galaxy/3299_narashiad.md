@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3299 Narashiad is a star in the constellation Naras
+      3299 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 376.26 ly
 apparent_magnitude: 10.98
 absolute_magnitude: 5.67

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0096 Shuliad D is a star in the constellation Shuli
+      0096 Shuliad D is a star in the constellation <a href="shuli.html">Shuli</a>
 distance: 1012.67 ly
 apparent_magnitude: 12.56
 absolute_magnitude: 5.10

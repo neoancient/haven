@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1965 Lulithannaid is a star in the constellation Lulithan
+      1965 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 582.99 ly
 apparent_magnitude: 11.53
 absolute_magnitude: 5.27

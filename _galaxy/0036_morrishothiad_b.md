@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0036 Morrishothiad B is a star in the constellation Morrishoth
+      0036 Morrishothiad B is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 8204.55 ly
 apparent_magnitude: 8.55
 absolute_magnitude: -3.46

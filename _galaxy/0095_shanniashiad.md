@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0095 Shanniashiad is a star in the constellation Shannias
+      0095 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 3017.30 ly
 apparent_magnitude: 5.69
 absolute_magnitude: -4.14
@@ -31,14 +31,14 @@ planets:
     radius: 13,863.1 km<br/>(2.176 Yrths)
     surface_area: 2.415 × 10<sup>09</sup> km<sup>2</sup><br/>(4.735 Yrths)
     volume: 1.116 × 10<sup>13</sup> km<sup>3</sup><br/>(10.303 Yrths)
-    mass: 7.847 × 10<sup>25</sup> kg<br />(13.139621653640823 Yrths)
+    mass: 7.847 × 10<sup>25</sup> kg<br />(13.14 Yrths)
     density: 7.031 g/cm<sup>3</sup>
     surface_gravity: 27.214 m/s<sup>2</sup><br />(2.775 g<sub>0</sub>)
     escape_velocity: 27.488 km/s<br />(98,956 km/h)
     rotation_period: 0.438 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 1316 K<br />(1043 °C)
+    temperature: 3563 K<br />(3290 °C)
     surface_pressure: 3,700 kPa<br />(37 atm)
     composition:
       - 91.8625% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 21,045.4 km<br/>(3.303 Yrths)
         surface_area: 5.566 × 10<sup>09</sup> km<sup>2</sup><br/>(10.912 Yrths)
         volume: 3.904 × 10<sup>13</sup> km<sup>3</sup><br/>(36.045 Yrths)
-        mass: 4.560 × 10<sup>25</sup> kg<br />(13.139621653640823 Yrths)
+        mass: 4.560 × 10<sup>25</sup> kg<br />(7.636 Yrths)
         density: 1.168 g/cm<sup>3</sup>
         surface_gravity: 6.863 m/s<sup>2</sup><br />(0.700 g<sub>0</sub>)
         escape_velocity: 17.007 km/s<br />(61,226 km/h)
         rotation_period: 62.167 d
         axial_tilt: 28.01°
         albedo: 0.30
-        temperature: 8606 K<br />(8333 °C)
+        temperature: 678 K<br />(405 °C)
       - name: 0095 Shanniashiad I b
         type: Rocky
         formationType: Captured
@@ -78,14 +78,14 @@ planets:
         radius: 18,170.2 km<br/>(2.852 Yrths)
         surface_area: 4.149 × 10<sup>09</sup> km<sup>2</sup><br/>(8.134 Yrths)
         volume: 2.513 × 10<sup>13</sup> km<sup>3</sup><br/>(23.198 Yrths)
-        mass: 7.186 × 10<sup>25</sup> kg<br />(13.139621653640823 Yrths)
+        mass: 7.186 × 10<sup>25</sup> kg<br />(12.032 Yrths)
         density: 2.860 g/cm<sup>3</sup>
         surface_gravity: 14.506 m/s<sup>2</sup><br />(1.479 g<sub>0</sub>)
         escape_velocity: 22.976 km/s<br />(82,712 km/h)
         rotation_period: 36.536 d
         axial_tilt: 17.30°
         albedo: 0.30
-        temperature: 8205 K<br />(7932 °C)
+        temperature: 678 K<br />(405 °C)
       - name: 0095 Shanniashiad I c
         type: Icy
         formationType: Impact formed
@@ -98,12 +98,12 @@ planets:
         radius: 10,291.1 km<br/>(1.615 Yrths)
         surface_area: 1.331 × 10<sup>09</sup> km<sup>2</sup><br/>(2.609 Yrths)
         volume: 4.565 × 10<sup>12</sup> km<sup>3</sup><br/>(4.215 Yrths)
-        mass: 8.274 × 10<sup>24</sup> kg<br />(13.139621653640823 Yrths)
+        mass: 8.274 × 10<sup>24</sup> kg<br />(1.385 Yrths)
         density: 1.812 g/cm<sup>3</sup>
         surface_gravity: 5.207 m/s<sup>2</sup><br />(0.531 g<sub>0</sub>)
         escape_velocity: 10.359 km/s<br />(37,294 km/h)
         rotation_period: 60.723 d
         axial_tilt: 18.57°
         albedo: 0.30
-        temperature: 7824 K<br />(7550 °C)
+        temperature: 678 K<br />(405 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      313 Urthiad A is a star in the constellation Urth
+      313 Urthiad A is a star in the constellation <a href="urth.html">Urth</a>
 distance: 386.49 ly
 apparent_magnitude: 6.75
 absolute_magnitude: 1.38

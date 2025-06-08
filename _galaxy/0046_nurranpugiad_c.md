@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0046 Nurranpugiad C is a star in the constellation Nurranpug
+      0046 Nurranpugiad C is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 327.57 ly
 apparent_magnitude: 9.50
 absolute_magnitude: 4.49
@@ -31,14 +31,14 @@ planets:
     radius: 10,561.6 km<br/>(1.658 Yrths)
     surface_area: 1.402 × 10<sup>09</sup> km<sup>2</sup><br/>(2.748 Yrths)
     volume: 4.935 × 10<sup>12</sup> km<sup>3</sup><br/>(4.556 Yrths)
-    mass: 3.294 × 10<sup>25</sup> kg<br />(5.516144005287436 Yrths)
+    mass: 3.294 × 10<sup>25</sup> kg<br />(5.52 Yrths)
     density: 6.675 g/cm<sup>3</sup>
     surface_gravity: 19.684 m/s<sup>2</sup><br />(2.007 g<sub>0</sub>)
     escape_velocity: 20.405 km/s<br />(73,457 km/h)
     rotation_period: 0.800 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 416 K<br />(143 °C)
+    temperature: 1129 K<br />(856 °C)
     surface_pressure: 802 kPa<br />(8 atm)
     composition:
       - 94.8854% carbon dioxide
@@ -57,14 +57,14 @@ planets:
         radius: 11,944.0 km<br/>(1.875 Yrths)
         surface_area: 1.793 × 10<sup>09</sup> km<sup>2</sup><br/>(3.515 Yrths)
         volume: 7.137 × 10<sup>12</sup> km<sup>3</sup><br/>(6.589 Yrths)
-        mass: 2.020 × 10<sup>25</sup> kg<br />(5.516144005287436 Yrths)
+        mass: 2.020 × 10<sup>25</sup> kg<br />(3.383 Yrths)
         density: 2.831 g/cm<sup>3</sup>
         surface_gravity: 9.440 m/s<sup>2</sup><br />(0.963 g<sub>0</sub>)
         escape_velocity: 15.027 km/s<br />(54,096 km/h)
         rotation_period: 29.644 d
         axial_tilt: 12.83°
         albedo: 0.30
-        temperature: 3417 K<br />(3144 °C)
+        temperature: 234 K<br />(-39 °C)
       - name: 0046 Nurranpugiad C I b
         type: Rocky
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 4,038.2 km<br/>(0.634 Yrths)
         surface_area: 2.049 × 10<sup>08</sup> km<sup>2</sup><br/>(0.402 Yrths)
         volume: 2.758 × 10<sup>11</sup> km<sup>3</sup><br/>(0.255 Yrths)
-        mass: 8.757 × 10<sup>23</sup> kg<br />(5.516144005287436 Yrths)
+        mass: 8.757 × 10<sup>23</sup> kg<br />(0.147 Yrths)
         density: 3.175 g/cm<sup>3</sup>
         surface_gravity: 3.579 m/s<sup>2</sup><br />(0.365 g<sub>0</sub>)
         escape_velocity: 5.380 km/s<br />(19,369 km/h)
         rotation_period: 38.297 d
         axial_tilt: 12.85°
         albedo: 0.30
-        temperature: 3258 K<br />(2985 °C)
+        temperature: 234 K<br />(-39 °C)
   - name: 0046 Nurranpugiad C II
     type: Gas dwarf
     aphelion: 407,424,749 km<br />2.723 AU
@@ -96,14 +96,14 @@ planets:
     radius: 17,967.6 km<br/>(2.820 Yrths)
     surface_area: 4.057 × 10<sup>09</sup> km<sup>2</sup><br/>(7.954 Yrths)
     volume: 2.430 × 10<sup>13</sup> km<sup>3</sup><br/>(22.431 Yrths)
-    mass: 5.244 × 10<sup>25</sup> kg<br />(8.781526927050722 Yrths)
+    mass: 5.244 × 10<sup>25</sup> kg<br />(8.78 Yrths)
     density: 2.158 g/cm<sup>3</sup>
     surface_gravity: 10.827 m/s<sup>2</sup><br />(1.104 g<sub>0</sub>)
     escape_velocity: 19.739 km/s<br />(71,059 km/h)
     rotation_period: 0.506 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 253 K<br />(-21 °C)
+    temperature: 228 K<br />(-45 °C)
     composition:
       - 82.2733% hydrogen
       - 6.0945% helium
@@ -125,14 +125,14 @@ planets:
         radius: 8,257.7 km<br/>(1.296 Yrths)
         surface_area: 8.569 × 10<sup>08</sup> km<sup>2</sup><br/>(1.680 Yrths)
         volume: 2.359 × 10<sup>12</sup> km<sup>3</sup><br/>(2.178 Yrths)
-        mass: 4.623 × 10<sup>24</sup> kg<br />(8.781526927050722 Yrths)
+        mass: 4.623 × 10<sup>24</sup> kg<br />(0.774 Yrths)
         density: 1.960 g/cm<sup>3</sup>
         surface_gravity: 4.519 m/s<sup>2</sup><br />(0.461 g<sub>0</sub>)
         escape_velocity: 8.645 km/s<br />(31,121 km/h)
         rotation_period: 36.580 d
         axial_tilt: 26.49°
         albedo: 0.30
-        temperature: 1764 K<br />(1491 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 0046 Nurranpugiad C II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -145,14 +145,14 @@ planets:
         radius: 10,700.6 km<br/>(1.680 Yrths)
         surface_area: 1.439 × 10<sup>09</sup> km<sup>2</sup><br/>(2.821 Yrths)
         volume: 5.132 × 10<sup>12</sup> km<sup>3</sup><br/>(4.738 Yrths)
-        mass: 8.977 × 10<sup>24</sup> kg<br />(8.781526927050722 Yrths)
+        mass: 8.977 × 10<sup>24</sup> kg<br />(1.503 Yrths)
         density: 1.749 g/cm<sup>3</sup>
         surface_gravity: 5.225 m/s<sup>2</sup><br />(0.533 g<sub>0</sub>)
         escape_velocity: 10.582 km/s<br />(38,095 km/h)
         rotation_period: 37.559 d
         axial_tilt: 11.06°
         albedo: 0.30
-        temperature: 1682 K<br />(1409 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 0046 Nurranpugiad C II c
         type: Dwarf planet
         formationType: Captured
@@ -165,14 +165,14 @@ planets:
         radius: 7,264.3 km<br/>(1.140 Yrths)
         surface_area: 6.631 × 10<sup>08</sup> km<sup>2</sup><br/>(1.300 Yrths)
         volume: 1.606 × 10<sup>12</sup> km<sup>3</sup><br/>(1.482 Yrths)
-        mass: 2.655 × 10<sup>24</sup> kg<br />(8.781526927050722 Yrths)
+        mass: 2.655 × 10<sup>24</sup> kg<br />(0.445 Yrths)
         density: 1.653 g/cm<sup>3</sup>
         surface_gravity: 3.353 m/s<sup>2</sup><br />(0.342 g<sub>0</sub>)
         escape_velocity: 6.985 km/s<br />(25,145 km/h)
         rotation_period: 62.493 d
         axial_tilt: 12.27°
         albedo: 0.30
-        temperature: 1604 K<br />(1331 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 0046 Nurranpugiad C II d
         type: Ice/rock hybrid
         formationType: Captured
@@ -185,14 +185,14 @@ planets:
         radius: 7,892.8 km<br/>(1.239 Yrths)
         surface_area: 7.828 × 10<sup>08</sup> km<sup>2</sup><br/>(1.535 Yrths)
         volume: 2.060 × 10<sup>12</sup> km<sup>3</sup><br/>(1.901 Yrths)
-        mass: 3.966 × 10<sup>24</sup> kg<br />(8.781526927050722 Yrths)
+        mass: 3.966 × 10<sup>24</sup> kg<br />(0.664 Yrths)
         density: 1.926 g/cm<sup>3</sup>
         surface_gravity: 4.244 m/s<sup>2</sup><br />(0.433 g<sub>0</sub>)
         escape_velocity: 8.190 km/s<br />(29,485 km/h)
         rotation_period: 60.554 d
         axial_tilt: 28.63°
         albedo: 0.30
-        temperature: 1458 K<br />(1185 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 0046 Nurranpugiad C II e
         type: Rocky
         formationType: Captured
@@ -205,14 +205,14 @@ planets:
         radius: 6,225.6 km<br/>(0.977 Yrths)
         surface_area: 4.871 × 10<sup>08</sup> km<sup>2</sup><br/>(0.955 Yrths)
         volume: 1.011 × 10<sup>12</sup> km<sup>3</sup><br/>(0.933 Yrths)
-        mass: 3.195 × 10<sup>24</sup> kg<br />(8.781526927050722 Yrths)
+        mass: 3.195 × 10<sup>24</sup> kg<br />(0.535 Yrths)
         density: 3.161 g/cm<sup>3</sup>
         surface_gravity: 5.495 m/s<sup>2</sup><br />(0.560 g<sub>0</sub>)
         escape_velocity: 8.277 km/s<br />(29,797 km/h)
         rotation_period: 28.367 d
         axial_tilt: 17.52°
         albedo: 0.30
-        temperature: 1390 K<br />(1117 °C)
+        temperature: 171 K<br />(-102 °C)
       - name: 0046 Nurranpugiad C II f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -225,14 +225,14 @@ planets:
         radius: 11,274.6 km<br/>(1.770 Yrths)
         surface_area: 1.597 × 10<sup>09</sup> km<sup>2</sup><br/>(3.132 Yrths)
         volume: 6.003 × 10<sup>12</sup> km<sup>3</sup><br/>(5.542 Yrths)
-        mass: 1.210 × 10<sup>25</sup> kg<br />(8.781526927050722 Yrths)
+        mass: 1.210 × 10<sup>25</sup> kg<br />(2.026 Yrths)
         density: 2.015 g/cm<sup>3</sup>
         surface_gravity: 6.343 m/s<sup>2</sup><br />(0.647 g<sub>0</sub>)
         escape_velocity: 11.968 km/s<br />(43,083 km/h)
         rotation_period: 36.947 d
         axial_tilt: 19.59°
         albedo: 0.30
-        temperature: 1325 K<br />(1052 °C)
+        temperature: 171 K<br />(-102 °C)
   - name: 0046 Nurranpugiad C III
     type: Terrestrial
     aphelion: 749,770,899 km<br />5.012 AU
@@ -244,14 +244,14 @@ planets:
     radius: 3,557.8 km<br/>(0.558 Yrths)
     surface_area: 1.591 × 10<sup>08</sup> km<sup>2</sup><br/>(0.312 Yrths)
     volume: 1.886 × 10<sup>11</sup> km<sup>3</sup><br/>(0.174 Yrths)
-    mass: 9.285 × 10<sup>23</sup> kg<br />(0.1554732327410399 Yrths)
+    mass: 9.285 × 10<sup>23</sup> kg<br />(0.16 Yrths)
     density: 4.922 g/cm<sup>3</sup>
     surface_gravity: 4.889 m/s<sup>2</sup><br />(0.499 g<sub>0</sub>)
     escape_velocity: 5.902 km/s<br />(21,248 km/h)
     rotation_period: 1.784 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 140 K<br />(-133 °C)
+    temperature: 184 K<br />(-89 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 89.9158% methane
@@ -272,14 +272,14 @@ planets:
         radius: 968.8 km<br/>(0.152 Yrths)
         surface_area: 1.179 × 10<sup>07</sup> km<sup>2</sup><br/>(0.023 Yrths)
         volume: 3.809 × 10<sup>09</sup> km<sup>3</sup><br/>(0.004 Yrths)
-        mass: 4.712 × 10<sup>21</sup> kg<br />(0.1554732327410399 Yrths)
+        mass: 4.712 × 10<sup>21</sup> kg<br />(0.001 Yrths)
         density: 1.237 g/cm<sup>3</sup>
         surface_gravity: 0.335 m/s<sup>2</sup><br />(0.034 g<sub>0</sub>)
         escape_velocity: 0.806 km/s<br />(2,901 km/h)
         rotation_period: 56.523 d
         axial_tilt: 6.48°
         albedo: 0.30
-        temperature: 2634 K<br />(2361 °C)
+        temperature: 125 K<br />(-148 °C)
       - name: 0046 Nurranpugiad C III b
         type: Rocky
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 470.3 km<br/>(0.074 Yrths)
         surface_area: 2.779 × 10<sup>06</sup> km<sup>2</sup><br/>(0.005 Yrths)
         volume: 4.357 × 10<sup>08</sup> km<sup>3</sup><br/>(0.000 Yrths)
-        mass: 1.229 × 10<sup>21</sup> kg<br />(0.1554732327410399 Yrths)
+        mass: 1.229 × 10<sup>21</sup> kg<br />(0.000 Yrths)
         density: 2.822 g/cm<sup>3</sup>
         surface_gravity: 0.370 m/s<sup>2</sup><br />(0.038 g<sub>0</sub>)
         escape_velocity: 0.591 km/s<br />(2,127 km/h)
         rotation_period: 34.624 d
         axial_tilt: 19.97°
         albedo: 0.30
-        temperature: 2512 K<br />(2239 °C)
+        temperature: 125 K<br />(-148 °C)
   - name: 0046 Nurranpugiad C IV
     type: Gas giant
     aphelion: 1,391,916,417 km<br />9.304 AU
@@ -311,7 +311,7 @@ planets:
     radius: 189.6 km<br/>(0.030 Yrths)
     surface_area: 4.515 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.853 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 8.025 × 10<sup>26</sup> kg<br />(134.38066233354493 Yrths)
+    mass: 8.025 × 10<sup>26</sup> kg<br />(134.38 Yrths)
     density: 28128632.621 g/cm<sup>3</sup>
     surface_gravity: 1488651.704 m/s<sup>2</sup><br />(151800.228 g<sub>0</sub>)
     escape_velocity: 751.755 km/s<br />(2,706,318 km/h)
@@ -332,14 +332,14 @@ planets:
         radius: 126,260.8 km<br/>(19.818 Yrths)
         surface_area: 2.003 × 10<sup>11</sup> km<sup>2</sup><br/>(392.755 Yrths)
         volume: 8.431 × 10<sup>15</sup> km<sup>3</sup><br/>(7783.633 Yrths)
-        mass: 2.281 × 10<sup>28</sup> kg<br />(134.38066233354493 Yrths)
+        mass: 2.281 × 10<sup>28</sup> kg<br />(3819.308 Yrths)
         density: 2.705 g/cm<sup>3</sup>
         surface_gravity: 95.364 m/s<sup>2</sup><br />(9.724 g<sub>0</sub>)
         escape_velocity: 155.287 km/s<br />(559,034 km/h)
         rotation_period: 33.876 d
         axial_tilt: 10.34°
         albedo: 0.30
-        temperature: 596 K<br />(323 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 0046 Nurranpugiad C IV b
         type: Asteroid
         formationType: Captured
@@ -352,14 +352,14 @@ planets:
         radius: 102,064.5 km<br/>(16.020 Yrths)
         surface_area: 1.309 × 10<sup>11</sup> km<sup>2</sup><br/>(256.646 Yrths)
         volume: 4.454 × 10<sup>15</sup> km<sup>3</sup><br/>(4111.510 Yrths)
-        mass: 1.300 × 10<sup>28</sup> kg<br />(134.38066233354493 Yrths)
+        mass: 1.300 × 10<sup>28</sup> kg<br />(2177.400 Yrths)
         density: 2.920 g/cm<sup>3</sup>
         surface_gravity: 83.200 m/s<sup>2</sup><br />(8.484 g<sub>0</sub>)
         escape_velocity: 130.410 km/s<br />(469,475 km/h)
         rotation_period: 30.394 d
         axial_tilt: 12.89°
         albedo: 0.30
-        temperature: 517 K<br />(244 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 0046 Nurranpugiad C IV c
         type: Dwarf planet
         formationType: Captured
@@ -372,14 +372,14 @@ planets:
         radius: 132,745.5 km<br/>(20.836 Yrths)
         surface_area: 2.214 × 10<sup>11</sup> km<sup>2</sup><br/>(434.134 Yrths)
         volume: 9.798 × 10<sup>15</sup> km<sup>3</sup><br/>(9045.574 Yrths)
-        mass: 1.176 × 10<sup>28</sup> kg<br />(134.38066233354493 Yrths)
+        mass: 1.176 × 10<sup>28</sup> kg<br />(1968.834 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 44.474 m/s<sup>2</sup><br />(4.535 g<sub>0</sub>)
         escape_velocity: 108.736 km/s<br />(391,449 km/h)
         rotation_period: 67.768 d
         axial_tilt: 19.99°
         albedo: 0.30
-        temperature: 407 K<br />(134 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 0046 Nurranpugiad C IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -392,14 +392,14 @@ planets:
         radius: 109,669.2 km<br/>(17.214 Yrths)
         surface_area: 1.511 × 10<sup>11</sup> km<sup>2</sup><br/>(296.315 Yrths)
         volume: 5.525 × 10<sup>15</sup> km<sup>3</sup><br/>(5100.713 Yrths)
-        mass: 1.092 × 10<sup>28</sup> kg<br />(134.38066233354493 Yrths)
+        mass: 1.092 × 10<sup>28</sup> kg<br />(1828.800 Yrths)
         density: 1.977 g/cm<sup>3</sup>
         surface_gravity: 60.525 m/s<sup>2</sup><br />(6.172 g<sub>0</sub>)
         escape_velocity: 115.297 km/s<br />(415,070 km/h)
         rotation_period: 61.507 d
         axial_tilt: 18.29°
         albedo: 0.30
-        temperature: 321 K<br />(48 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: 0046 Nurranpugiad C IV e
         type: Dwarf planet
         formationType: Captured
@@ -412,14 +412,14 @@ planets:
         radius: 121,503.3 km<br/>(19.071 Yrths)
         surface_area: 1.855 × 10<sup>11</sup> km<sup>2</sup><br/>(363.715 Yrths)
         volume: 7.514 × 10<sup>15</sup> km<sup>3</sup><br/>(6936.511 Yrths)
-        mass: 1.233 × 10<sup>28</sup> kg<br />(134.38066233354493 Yrths)
+        mass: 1.233 × 10<sup>28</sup> kg<br />(2064.077 Yrths)
         density: 1.641 g/cm<sup>3</sup>
         surface_gravity: 55.653 m/s<sup>2</sup><br />(5.675 g<sub>0</sub>)
         escape_velocity: 116.372 km/s<br />(418,937 km/h)
         rotation_period: 49.219 d
         axial_tilt: 42.44°
         albedo: 0.30
-        temperature: 136 K<br />(-137 °C)
+        temperature: 91 K<br />(-182 °C)
   - name: 0046 Nurranpugiad C V
     type: Gas dwarf
     aphelion: 2,752,972,021 km<br />18.402 AU
@@ -431,14 +431,14 @@ planets:
     radius: 18,157.3 km<br/>(2.850 Yrths)
     surface_area: 4.143 × 10<sup>09</sup> km<sup>2</sup><br/>(8.122 Yrths)
     volume: 2.507 × 10<sup>13</sup> km<sup>3</sup><br/>(23.149 Yrths)
-    mass: 6.235 × 10<sup>25</sup> kg<br />(10.440137409328866 Yrths)
+    mass: 6.235 × 10<sup>25</sup> kg<br />(10.44 Yrths)
     density: 2.486 g/cm<sup>3</sup>
     surface_gravity: 12.605 m/s<sup>2</sup><br />(1.285 g<sub>0</sub>)
     escape_velocity: 21.409 km/s<br />(77,074 km/h)
     rotation_period: 0.397 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 100 K<br />(-173 °C)
+    temperature: 90 K<br />(-183 °C)
     composition:
       - 91.9358% hydrogen
       - 3.5755% helium
@@ -457,14 +457,14 @@ planets:
         radius: 15,545.9 km<br/>(2.440 Yrths)
         surface_area: 3.037 × 10<sup>09</sup> km<sup>2</sup><br/>(5.954 Yrths)
         volume: 1.574 × 10<sup>13</sup> km<sup>3</sup><br/>(14.529 Yrths)
-        mass: 4.255 × 10<sup>25</sup> kg<br />(10.440137409328866 Yrths)
+        mass: 4.255 × 10<sup>25</sup> kg<br />(7.125 Yrths)
         density: 2.704 g/cm<sup>3</sup>
         surface_gravity: 11.735 m/s<sup>2</sup><br />(1.197 g<sub>0</sub>)
         escape_velocity: 19.114 km/s<br />(68,811 km/h)
         rotation_period: 31.969 d
         axial_tilt: 28.70°
         albedo: 0.30
-        temperature: 672 K<br />(399 °C)
+        temperature: 67 K<br />(-207 °C)
       - name: 0046 Nurranpugiad C V b
         type: Dwarf planet
         formationType: Captured
@@ -477,14 +477,14 @@ planets:
         radius: 17,283.3 km<br/>(2.713 Yrths)
         surface_area: 3.754 × 10<sup>09</sup> km<sup>2</sup><br/>(7.359 Yrths)
         volume: 2.163 × 10<sup>13</sup> km<sup>3</sup><br/>(19.964 Yrths)
-        mass: 4.077 × 10<sup>25</sup> kg<br />(10.440137409328866 Yrths)
+        mass: 4.077 × 10<sup>25</sup> kg<br />(6.827 Yrths)
         density: 1.885 g/cm<sup>3</sup>
         surface_gravity: 9.097 m/s<sup>2</sup><br />(0.928 g<sub>0</sub>)
         escape_velocity: 17.745 km/s<br />(63,883 km/h)
         rotation_period: 39.893 d
         axial_tilt: 8.70°
         albedo: 0.30
-        temperature: 641 K<br />(368 °C)
+        temperature: 67 K<br />(-207 °C)
       - name: 0046 Nurranpugiad C V c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -497,14 +497,14 @@ planets:
         radius: 5,604.2 km<br/>(0.880 Yrths)
         surface_area: 3.947 × 10<sup>08</sup> km<sup>2</sup><br/>(0.774 Yrths)
         volume: 7.373 × 10<sup>11</sup> km<sup>3</sup><br/>(0.681 Yrths)
-        mass: 1.482 × 10<sup>24</sup> kg<br />(10.440137409328866 Yrths)
+        mass: 1.482 × 10<sup>24</sup> kg<br />(0.248 Yrths)
         density: 2.011 g/cm<sup>3</sup>
         surface_gravity: 3.146 m/s<sup>2</sup><br />(0.321 g<sub>0</sub>)
         escape_velocity: 5.942 km/s<br />(21,392 km/h)
         rotation_period: 62.218 d
         axial_tilt: 24.64°
         albedo: 0.30
-        temperature: 611 K<br />(338 °C)
+        temperature: 67 K<br />(-207 °C)
   - name: 0046 Nurranpugiad C VI
     type: Ice giant
     aphelion: 4,908,303,115 km<br />32.810 AU
@@ -516,14 +516,14 @@ planets:
     radius: 31,079.6 km<br/>(4.878 Yrths)
     surface_area: 1.214 × 10<sup>10</sup> km<sup>2</sup><br/>(23.798 Yrths)
     volume: 1.258 × 10<sup>14</sup> km<sup>3</sup><br/>(116.092 Yrths)
-    mass: 1.652 × 10<sup>26</sup> kg<br />(27.668243491066992 Yrths)
+    mass: 1.652 × 10<sup>26</sup> kg<br />(27.67 Yrths)
     density: 1.314 g/cm<sup>3</sup>
     surface_gravity: 11.402 m/s<sup>2</sup><br />(1.163 g<sub>0</sub>)
     escape_velocity: 26.640 km/s<br />(95,903 km/h)
     rotation_period: 0.311 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 88 K<br />(-185 °C)
+    temperature: 80 K<br />(-193 °C)
     composition:
       - 94.8184% hydrogen
       - 2.8485% helium
@@ -541,14 +541,14 @@ planets:
         radius: 68,893.7 km<br/>(10.814 Yrths)
         surface_area: 5.964 × 10<sup>10</sup> km<sup>2</sup><br/>(116.935 Yrths)
         volume: 1.370 × 10<sup>15</sup> km<sup>3</sup><br/>(1264.492 Yrths)
-        mass: 1.566 × 10<sup>27</sup> kg<br />(27.668243491066992 Yrths)
+        mass: 1.566 × 10<sup>27</sup> kg<br />(262.257 Yrths)
         density: 1.143 g/cm<sup>3</sup>
         surface_gravity: 21.994 m/s<sup>2</sup><br />(2.243 g<sub>0</sub>)
         escape_velocity: 55.087 km/s<br />(198,314 km/h)
         rotation_period: 88.689 d
         axial_tilt: 21.18°
         albedo: 0.30
-        temperature: 415 K<br />(142 °C)
+        temperature: 49 K<br />(-224 °C)
       - name: 0046 Nurranpugiad C VI b
         type: Icy
         formationType: Accreted
@@ -561,14 +561,14 @@ planets:
         radius: 26,876.1 km<br/>(4.218 Yrths)
         surface_area: 9.077 × 10<sup>09</sup> km<sup>2</sup><br/>(17.796 Yrths)
         volume: 8.132 × 10<sup>13</sup> km<sup>3</sup><br/>(75.071 Yrths)
-        mass: 1.279 × 10<sup>26</sup> kg<br />(27.668243491066992 Yrths)
+        mass: 1.279 × 10<sup>26</sup> kg<br />(21.414 Yrths)
         density: 1.573 g/cm<sup>3</sup>
         surface_gravity: 11.801 m/s<sup>2</sup><br />(1.203 g<sub>0</sub>)
         escape_velocity: 25.203 km/s<br />(90,729 km/h)
         rotation_period: 44.370 d
         axial_tilt: 26.44°
         albedo: 0.30
-        temperature: 377 K<br />(104 °C)
+        temperature: 49 K<br />(-224 °C)
       - name: 0046 Nurranpugiad C VI c
         type: Icy
         formationType: Accreted
@@ -581,14 +581,14 @@ planets:
         radius: 32,042.0 km<br/>(5.029 Yrths)
         surface_area: 1.290 × 10<sup>10</sup> km<sup>2</sup><br/>(25.294 Yrths)
         volume: 1.378 × 10<sup>14</sup> km<sup>3</sup><br/>(127.214 Yrths)
-        mass: 1.588 × 10<sup>26</sup> kg<br />(27.668243491066992 Yrths)
+        mass: 1.588 × 10<sup>26</sup> kg<br />(26.583 Yrths)
         density: 1.152 g/cm<sup>3</sup>
         surface_gravity: 10.306 m/s<sup>2</sup><br />(1.051 g<sub>0</sub>)
         escape_velocity: 25.717 km/s<br />(92,580 km/h)
         rotation_period: 67.037 d
         axial_tilt: 8.53°
         albedo: 0.30
-        temperature: 359 K<br />(86 °C)
+        temperature: 49 K<br />(-224 °C)
       - name: 0046 Nurranpugiad C VI d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -601,14 +601,14 @@ planets:
         radius: 33,273.1 km<br/>(5.223 Yrths)
         surface_area: 1.391 × 10<sup>10</sup> km<sup>2</sup><br/>(27.275 Yrths)
         volume: 1.543 × 10<sup>14</sup> km<sup>3</sup><br/>(142.449 Yrths)
-        mass: 2.729 × 10<sup>26</sup> kg<br />(27.668243491066992 Yrths)
+        mass: 2.729 × 10<sup>26</sup> kg<br />(45.688 Yrths)
         density: 1.768 g/cm<sup>3</sup>
         surface_gravity: 16.427 m/s<sup>2</sup><br />(1.675 g<sub>0</sub>)
         escape_velocity: 33.085 km/s<br />(119,107 km/h)
         rotation_period: 39.351 d
         axial_tilt: 16.53°
         albedo: 0.30
-        temperature: 343 K<br />(70 °C)
+        temperature: 49 K<br />(-224 °C)
       - name: 0046 Nurranpugiad C VI e
         type: Ice/rock hybrid
         formationType: Captured
@@ -621,14 +621,14 @@ planets:
         radius: 34,220.8 km<br/>(5.371 Yrths)
         surface_area: 1.472 × 10<sup>10</sup> km<sup>2</sup><br/>(28.851 Yrths)
         volume: 1.679 × 10<sup>14</sup> km<sup>3</sup><br/>(154.970 Yrths)
-        mass: 3.583 × 10<sup>26</sup> kg<br />(27.668243491066992 Yrths)
+        mass: 3.583 × 10<sup>26</sup> kg<br />(59.997 Yrths)
         density: 2.134 g/cm<sup>3</sup>
         surface_gravity: 20.393 m/s<sup>2</sup><br />(2.080 g<sub>0</sub>)
         escape_velocity: 37.385 km/s<br />(134,586 km/h)
         rotation_period: 34.205 d
         axial_tilt: 13.73°
         albedo: 0.30
-        temperature: 312 K<br />(38 °C)
+        temperature: 49 K<br />(-224 °C)
       - name: 0046 Nurranpugiad C VI f
         type: Icy
         formationType: Accreted
@@ -641,12 +641,12 @@ planets:
         radius: 36,947.2 km<br/>(5.799 Yrths)
         surface_area: 1.715 × 10<sup>10</sup> km<sup>2</sup><br/>(33.632 Yrths)
         volume: 2.113 × 10<sup>14</sup> km<sup>3</sup><br/>(195.039 Yrths)
-        mass: 2.144 × 10<sup>26</sup> kg<br />(27.668243491066992 Yrths)
+        mass: 2.144 × 10<sup>26</sup> kg<br />(35.909 Yrths)
         density: 1.015 g/cm<sup>3</sup>
         surface_gravity: 10.471 m/s<sup>2</sup><br />(1.068 g<sub>0</sub>)
         escape_velocity: 27.835 km/s<br />(100,206 km/h)
         rotation_period: 55.938 d
         axial_tilt: 20.91°
         albedo: 0.30
-        temperature: 297 K<br />(24 °C)
+        temperature: 49 K<br />(-224 °C)
 ---

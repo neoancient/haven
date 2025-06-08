@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      574 Anilliad is a star in the constellation Anil
+      574 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 469.09 ly
 apparent_magnitude: 8.07
 absolute_magnitude: 2.28
@@ -31,7 +31,7 @@ planets:
     radius: 173.4 km<br/>(0.027 Yrths)
     surface_area: 3.777 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.183 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.959 × 10<sup>26</sup> kg<br />(99.7878858131486 Yrths)
+    mass: 5.959 × 10<sup>26</sup> kg<br />(99.79 Yrths)
     density: 27299707.048 g/cm<sup>3</sup>
     surface_gravity: 1321436.680 m/s<sup>2</sup><br />(134749.041 g<sub>0</sub>)
     escape_velocity: 677.368 km/s<br />(2,438,526 km/h)
@@ -52,15 +52,55 @@ planets:
         radius: 58,658.5 km<br/>(9.207 Yrths)
         surface_area: 4.324 × 10<sup>10</sup> km<sup>2</sup><br/>(84.771 Yrths)
         volume: 8.454 × 10<sup>14</sup> km<sup>3</sup><br/>(780.495 Yrths)
-        mass: 2.458 × 10<sup>27</sup> kg<br />(99.7878858131486 Yrths)
+        mass: 2.458 × 10<sup>27</sup> kg<br />(411.660 Yrths)
         density: 2.908 g/cm<sup>3</sup>
         surface_gravity: 47.623 m/s<sup>2</sup><br />(4.856 g<sub>0</sub>)
         escape_velocity: 74.797 km/s<br />(269,268 km/h)
         rotation_period: 30.312 d
         axial_tilt: 19.84°
         albedo: 0.30
-        temperature: 1373 K<br />(1099 °C)
+        temperature: 307 K<br />(34 °C)
       - name: 574 Anilliad I b
+        type: Icy
+        formationType: Impact formed
+        aphelion: 24,874,495 km<br />
+        perihelion: 20,503,304 km<br />
+        semi_major_axis: 22,688,899 km<br />
+        eccentricity: 0.096
+        orbital_period: 0.02 d<br />
+        inclination: 4.42°
+        radius: 21,404.4 km<br/>(3.360 Yrths)
+        surface_area: 5.757 × 10<sup>09</sup> km<sup>2</sup><br/>(11.287 Yrths)
+        volume: 4.108 × 10<sup>13</sup> km<sup>3</sup><br/>(37.921 Yrths)
+        mass: 6.856 × 10<sup>25</sup> kg<br />(11.480 Yrths)
+        density: 1.669 g/cm<sup>3</sup>
+        surface_gravity: 9.974 m/s<sup>2</sup><br />(1.017 g<sub>0</sub>)
+        escape_velocity: 20.678 km/s<br />(74,440 km/h)
+        rotation_period: 38.903 d
+        axial_tilt: 12.69°
+        albedo: 0.30
+        temperature: 307 K<br />(34 °C)
+      - name: 574 Anilliad I c
+        type: Icy
+        formationType: Impact formed
+        aphelion: 47,370,339 km<br />
+        perihelion: 33,019,200 km<br />
+        semi_major_axis: 40,194,769 km<br />
+        eccentricity: 0.179
+        orbital_period: 0.02 d<br />
+        inclination: 17.99°
+        radius: 28,042.5 km<br/>(4.402 Yrths)
+        surface_area: 9.882 × 10<sup>09</sup> km<sup>2</sup><br/>(19.374 Yrths)
+        volume: 9.237 × 10<sup>13</sup> km<sup>3</sup><br/>(85.276 Yrths)
+        mass: 1.055 × 10<sup>26</sup> kg<br />(17.667 Yrths)
+        density: 1.142 g/cm<sup>3</sup>
+        surface_gravity: 8.942 m/s<sup>2</sup><br />(0.912 g<sub>0</sub>)
+        escape_velocity: 22.410 km/s<br />(80,676 km/h)
+        rotation_period: 67.809 d
+        axial_tilt: 8.27°
+        albedo: 0.30
+        temperature: 307 K<br />(34 °C)
+      - name: 574 Anilliad I d
         type: Rocky
         formationType: Accreted
         aphelion: 75,591,924 km<br />
@@ -72,15 +112,15 @@ planets:
         radius: 61,163.5 km<br/>(9.600 Yrths)
         surface_area: 4.701 × 10<sup>10</sup> km<sup>2</sup><br/>(92.166 Yrths)
         volume: 9.584 × 10<sup>14</sup> km<sup>3</sup><br/>(884.820 Yrths)
-        mass: 2.874 × 10<sup>27</sup> kg<br />(99.7878858131486 Yrths)
+        mass: 2.874 × 10<sup>27</sup> kg<br />(481.187 Yrths)
         density: 2.998 g/cm<sup>3</sup>
         surface_gravity: 51.199 m/s<sup>2</sup><br />(5.221 g<sub>0</sub>)
         escape_velocity: 79.193 km/s<br />(285,096 km/h)
         rotation_period: 34.007 d
         axial_tilt: 22.41°
         albedo: 0.30
-        temperature: 672 K<br />(398 °C)
-      - name: 574 Anilliad I c
+        temperature: 307 K<br />(34 °C)
+      - name: 574 Anilliad I e
         type: Icy
         formationType: Accreted
         aphelion: 132,540,486 km<br />
@@ -92,15 +132,15 @@ planets:
         radius: 78,298.4 km<br/>(12.290 Yrths)
         surface_area: 7.704 × 10<sup>10</sup> km<sup>2</sup><br/>(151.040 Yrths)
         volume: 2.011 × 10<sup>15</sup> km<sup>3</sup><br/>(1856.247 Yrths)
-        mass: 2.636 × 10<sup>27</sup> kg<br />(99.7878858131486 Yrths)
+        mass: 2.636 × 10<sup>27</sup> kg<br />(441.400 Yrths)
         density: 1.311 g/cm<sup>3</sup>
         surface_gravity: 28.659 m/s<sup>2</sup><br />(2.922 g<sub>0</sub>)
         escape_velocity: 67.037 km/s<br />(241,335 km/h)
         rotation_period: 72.964 d
         axial_tilt: 19.01°
         albedo: 0.30
-        temperature: 529 K<br />(256 °C)
-      - name: 574 Anilliad I d
+        temperature: 307 K<br />(34 °C)
+      - name: 574 Anilliad I f
         type: Icy
         formationType: Accreted
         aphelion: 173,368,435 km<br />
@@ -112,15 +152,35 @@ planets:
         radius: 107,572.9 km<br/>(16.885 Yrths)
         surface_area: 1.454 × 10<sup>11</sup> km<sup>2</sup><br/>(285.096 Yrths)
         volume: 5.214 × 10<sup>15</sup> km<sup>3</sup><br/>(4813.773 Yrths)
-        mass: 7.475 × 10<sup>27</sup> kg<br />(99.7878858131486 Yrths)
+        mass: 7.475 × 10<sup>27</sup> kg<br />(1251.651 Yrths)
         density: 1.434 g/cm<sup>3</sup>
         surface_gravity: 43.054 m/s<sup>2</sup><br />(4.390 g<sub>0</sub>)
         escape_velocity: 96.309 km/s<br />(346,713 km/h)
         rotation_period: 41.661 d
         axial_tilt: 12.81°
         albedo: 0.30
-        temperature: 437 K<br />(164 °C)
-      - name: 574 Anilliad I e
+        temperature: 307 K<br />(34 °C)
+      - name: 574 Anilliad I g
+        type: Icy
+        formationType: Captured
+        aphelion: 293,334,102 km<br />
+        perihelion: 153,625,085 km<br />
+        semi_major_axis: 223,479,594 km<br />
+        eccentricity: 0.313
+        orbital_period: 0.02 d<br />
+        inclination: 24.30°
+        radius: 35,642.6 km<br/>(5.595 Yrths)
+        surface_area: 1.596 × 10<sup>10</sup> km<sup>2</sup><br/>(31.298 Yrths)
+        volume: 1.897 × 10<sup>14</sup> km<sup>3</sup><br/>(175.099 Yrths)
+        mass: 1.980 × 10<sup>26</sup> kg<br />(33.148 Yrths)
+        density: 1.044 g/cm<sup>3</sup>
+        surface_gravity: 10.386 m/s<sup>2</sup><br />(1.059 g<sub>0</sub>)
+        escape_velocity: 27.228 km/s<br />(98,022 km/h)
+        rotation_period: 94.048 d
+        axial_tilt: 23.22°
+        albedo: 0.30
+        temperature: 307 K<br />(34 °C)
+      - name: 574 Anilliad I h
         type: Asteroid
         formationType: Captured
         aphelion: 253,110,085 km<br />
@@ -132,14 +192,34 @@ planets:
         radius: 66,171.4 km<br/>(10.386 Yrths)
         surface_area: 5.502 × 10<sup>10</sup> km<sup>2</sup><br/>(107.876 Yrths)
         volume: 1.214 × 10<sup>15</sup> km<sup>3</sup><br/>(1120.440 Yrths)
-        mass: 3.482 × 10<sup>27</sup> kg<br />(99.7878858131486 Yrths)
+        mass: 3.482 × 10<sup>27</sup> kg<br />(582.980 Yrths)
         density: 2.869 g/cm<sup>3</sup>
         surface_gravity: 52.997 m/s<sup>2</sup><br />(5.404 g<sub>0</sub>)
         escape_velocity: 83.805 km/s<br />(301,698 km/h)
         rotation_period: 30.017 d
         axial_tilt: 41.83°
         albedo: 0.30
-        temperature: 361 K<br />(88 °C)
+        temperature: 307 K<br />(34 °C)
+      - name: 574 Anilliad I i
+        type: Icy
+        formationType: Captured
+        aphelion: 278,857,590 km<br />
+        perihelion: 261,963,027 km<br />
+        semi_major_axis: 270,410,308 km<br />
+        eccentricity: 0.031
+        orbital_period: 0.02 d<br />
+        inclination: 2.38°
+        radius: 35,902.6 km<br/>(5.635 Yrths)
+        surface_area: 1.620 × 10<sup>10</sup> km<sup>2</sup><br/>(31.757 Yrths)
+        volume: 1.938 × 10<sup>14</sup> km<sup>3</sup><br/>(178.959 Yrths)
+        mass: 2.073 × 10<sup>26</sup> kg<br />(34.707 Yrths)
+        density: 1.069 g/cm<sup>3</sup>
+        surface_gravity: 10.718 m/s<sup>2</sup><br />(1.093 g<sub>0</sub>)
+        escape_velocity: 27.760 km/s<br />(99,937 km/h)
+        rotation_period: 83.500 d
+        axial_tilt: 19.65°
+        albedo: 0.30
+        temperature: 307 K<br />(34 °C)
   - name: 574 Anilliad II
     type: Ice giant
     aphelion: 653,102,367 km<br />4.366 AU
@@ -151,14 +231,14 @@ planets:
     radius: 30,761.9 km<br/>(4.828 Yrths)
     surface_area: 1.189 × 10<sup>10</sup> km<sup>2</sup><br/>(23.314 Yrths)
     volume: 1.219 × 10<sup>14</sup> km<sup>3</sup><br/>(112.568 Yrths)
-    mass: 1.847 × 10<sup>26</sup> kg<br />(30.928670522497317 Yrths)
+    mass: 1.847 × 10<sup>26</sup> kg<br />(30.93 Yrths)
     density: 1.515 g/cm<sup>3</sup>
     surface_gravity: 13.010 m/s<sup>2</sup><br />(1.327 g<sub>0</sub>)
     escape_velocity: 28.311 km/s<br />(101,919 km/h)
     rotation_period: 0.356 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 444 K<br />(171 °C)
+    temperature: 406 K<br />(133 °C)
     composition:
       - 60.1622% hydrogen
       - 36.5330% helium
@@ -176,14 +256,14 @@ planets:
         radius: 35,514.0 km<br/>(5.574 Yrths)
         surface_area: 1.585 × 10<sup>10</sup> km<sup>2</sup><br/>(31.073 Yrths)
         volume: 1.876 × 10<sup>14</sup> km<sup>3</sup><br/>(173.212 Yrths)
-        mass: 1.474 × 10<sup>26</sup> kg<br />(30.928670522497317 Yrths)
+        mass: 1.474 × 10<sup>26</sup> kg<br />(24.675 Yrths)
         density: 0.785 g/cm<sup>3</sup>
         surface_gravity: 7.788 m/s<sup>2</sup><br />(0.794 g<sub>0</sub>)
         escape_velocity: 23.535 km/s<br />(84,725 km/h)
         rotation_period: 71.484 d
         axial_tilt: 15.17°
         albedo: 0.30
-        temperature: 1684 K<br />(1411 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 574 Anilliad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -196,14 +276,14 @@ planets:
         radius: 29,045.3 km<br/>(4.559 Yrths)
         surface_area: 1.060 × 10<sup>10</sup> km<sup>2</sup><br/>(20.784 Yrths)
         volume: 1.026 × 10<sup>14</sup> km<sup>3</sup><br/>(94.756 Yrths)
-        mass: 2.405 × 10<sup>26</sup> kg<br />(30.928670522497317 Yrths)
+        mass: 2.405 × 10<sup>26</sup> kg<br />(40.278 Yrths)
         density: 2.344 g/cm<sup>3</sup>
         surface_gravity: 19.004 m/s<sup>2</sup><br />(1.938 g<sub>0</sub>)
         escape_velocity: 33.249 km/s<br />(119,695 km/h)
         rotation_period: 52.447 d
         axial_tilt: 18.58°
         albedo: 0.30
-        temperature: 1606 K<br />(1333 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 574 Anilliad II c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -216,14 +296,14 @@ planets:
         radius: 35,732.6 km<br/>(5.609 Yrths)
         surface_area: 1.604 × 10<sup>10</sup> km<sup>2</sup><br/>(31.457 Yrths)
         volume: 1.911 × 10<sup>14</sup> km<sup>3</sup><br/>(176.430 Yrths)
-        mass: 4.181 × 10<sup>26</sup> kg<br />(30.928670522497317 Yrths)
+        mass: 4.181 × 10<sup>26</sup> kg<br />(70.015 Yrths)
         density: 2.188 g/cm<sup>3</sup>
         surface_gravity: 21.827 m/s<sup>2</sup><br />(2.226 g<sub>0</sub>)
         escape_velocity: 39.522 km/s<br />(142,280 km/h)
         rotation_period: 47.224 d
         axial_tilt: 13.98°
         albedo: 0.30
-        temperature: 1327 K<br />(1054 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 574 Anilliad II d
         type: Icy
         formationType: Captured
@@ -236,14 +316,14 @@ planets:
         radius: 42,335.5 km<br/>(6.645 Yrths)
         surface_area: 2.252 × 10<sup>10</sup> km<sup>2</sup><br/>(44.156 Yrths)
         volume: 3.178 × 10<sup>14</sup> km<sup>3</sup><br/>(293.421 Yrths)
-        mass: 5.416 × 10<sup>26</sup> kg<br />(30.928670522497317 Yrths)
+        mass: 5.416 × 10<sup>26</sup> kg<br />(90.688 Yrths)
         density: 1.704 g/cm<sup>3</sup>
         surface_gravity: 20.141 m/s<sup>2</sup><br />(2.054 g<sub>0</sub>)
         escape_velocity: 41.324 km/s<br />(148,766 km/h)
         rotation_period: 47.983 d
         axial_tilt: 14.44°
         albedo: 0.30
-        temperature: 1265 K<br />(992 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 574 Anilliad II e
         type: Icy
         formationType: Impact formed
@@ -256,12 +336,12 @@ planets:
         radius: 35,686.9 km<br/>(5.601 Yrths)
         surface_area: 1.600 × 10<sup>10</sup> km<sup>2</sup><br/>(31.376 Yrths)
         volume: 1.904 × 10<sup>14</sup> km<sup>3</sup><br/>(175.754 Yrths)
-        mass: 3.230 × 10<sup>26</sup> kg<br />(30.928670522497317 Yrths)
+        mass: 3.230 × 10<sup>26</sup> kg<br />(54.081 Yrths)
         density: 1.696 g/cm<sup>3</sup>
         surface_gravity: 16.903 m/s<sup>2</sup><br />(1.724 g<sub>0</sub>)
         escape_velocity: 34.757 km/s<br />(125,126 km/h)
         rotation_period: 69.648 d
         axial_tilt: 14.82°
         albedo: 0.30
-        temperature: 1097 K<br />(824 °C)
+        temperature: 222 K<br />(-51 °C)
 ---

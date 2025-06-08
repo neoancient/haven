@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3111 Noniashad is a star in the constellation Nonias
+      3111 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 396.68 ly
 apparent_magnitude: 10.41
 absolute_magnitude: 4.99

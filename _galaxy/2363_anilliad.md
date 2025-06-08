@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2363 Anilliad is a star in the constellation Anil
+      2363 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 929.66 ly
 apparent_magnitude: 9.62
 absolute_magnitude: 2.34

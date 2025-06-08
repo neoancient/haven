@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1330 Orshenniad A is a star in the constellation Orshen
+      1330 Orshenniad A is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 258.40 ly
 apparent_magnitude: 9.34
 absolute_magnitude: 4.84

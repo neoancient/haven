@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0020 Ononniad is a star in the constellation Onon
+      0020 Ononniad is a star in the constellation <a href="onon.html">Onon</a>
 distance: 181.22 ly
 apparent_magnitude: 6.50
 absolute_magnitude: 2.77
@@ -31,14 +31,14 @@ planets:
     radius: 15,998.2 km<br/>(2.511 Yrths)
     surface_area: 3.216 × 10<sup>09</sup> km<sup>2</sup><br/>(6.306 Yrths)
     volume: 1.715 × 10<sup>13</sup> km<sup>3</sup><br/>(15.834 Yrths)
-    mass: 3.638 × 10<sup>25</sup> kg<br />(6.091546700137464 Yrths)
+    mass: 3.638 × 10<sup>25</sup> kg<br />(6.09 Yrths)
     density: 2.121 g/cm<sup>3</sup>
     surface_gravity: 9.474 m/s<sup>2</sup><br />(0.966 g<sub>0</sub>)
     escape_velocity: 17.422 km/s<br />(62,720 km/h)
     rotation_period: 0.511 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 584 K<br />(311 °C)
+    temperature: 559 K<br />(285 °C)
     composition:
       - 74.5799% hydrogen
       - 21.2985% helium
@@ -59,14 +59,14 @@ planets:
         radius: 7,699.3 km<br/>(1.208 Yrths)
         surface_area: 7.449 × 10<sup>08</sup> km<sup>2</sup><br/>(1.460 Yrths)
         volume: 1.912 × 10<sup>12</sup> km<sup>3</sup><br/>(1.765 Yrths)
-        mass: 4.314 × 10<sup>24</sup> kg<br />(6.091546700137464 Yrths)
+        mass: 4.314 × 10<sup>24</sup> kg<br />(0.722 Yrths)
         density: 2.256 g/cm<sup>3</sup>
         surface_gravity: 4.851 m/s<sup>2</sup><br />(0.495 g<sub>0</sub>)
         escape_velocity: 8.648 km/s<br />(31,134 km/h)
         rotation_period: 54.831 d
         axial_tilt: 29.86°
         albedo: 0.30
-        temperature: 4179 K<br />(3906 °C)
+        temperature: 369 K<br />(96 °C)
       - name: 0020 Ononniad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 8,723.8 km<br/>(1.369 Yrths)
         surface_area: 9.564 × 10<sup>08</sup> km<sup>2</sup><br/>(1.875 Yrths)
         volume: 2.781 × 10<sup>12</sup> km<sup>3</sup><br/>(2.567 Yrths)
-        mass: 6.176 × 10<sup>24</sup> kg<br />(6.091546700137464 Yrths)
+        mass: 6.176 × 10<sup>24</sup> kg<br />(1.034 Yrths)
         density: 2.221 g/cm<sup>3</sup>
         surface_gravity: 5.409 m/s<sup>2</sup><br />(0.552 g<sub>0</sub>)
         escape_velocity: 9.721 km/s<br />(34,996 km/h)
         rotation_period: 40.473 d
         axial_tilt: 19.17°
         albedo: 0.30
-        temperature: 3984 K<br />(3711 °C)
+        temperature: 369 K<br />(96 °C)
       - name: 0020 Ononniad I c
         type: Icy
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 7,067.7 km<br/>(1.109 Yrths)
         surface_area: 6.277 × 10<sup>08</sup> km<sup>2</sup><br/>(1.231 Yrths)
         volume: 1.479 × 10<sup>12</sup> km<sup>3</sup><br/>(1.365 Yrths)
-        mass: 1.849 × 10<sup>24</sup> kg<br />(6.091546700137464 Yrths)
+        mass: 1.849 × 10<sup>24</sup> kg<br />(0.310 Yrths)
         density: 1.250 g/cm<sup>3</sup>
         surface_gravity: 2.467 m/s<sup>2</sup><br />(0.252 g<sub>0</sub>)
         escape_velocity: 5.909 km/s<br />(21,273 km/h)
         rotation_period: 50.630 d
         axial_tilt: 20.11°
         albedo: 0.30
-        temperature: 3799 K<br />(3526 °C)
+        temperature: 369 K<br />(96 °C)
       - name: 0020 Ononniad I d
         type: Asteroid
         formationType: Captured
@@ -119,14 +119,14 @@ planets:
         radius: 6,786.2 km<br/>(1.065 Yrths)
         surface_area: 5.787 × 10<sup>08</sup> km<sup>2</sup><br/>(1.135 Yrths)
         volume: 1.309 × 10<sup>12</sup> km<sup>3</sup><br/>(1.209 Yrths)
-        mass: 4.474 × 10<sup>24</sup> kg<br />(6.091546700137464 Yrths)
+        mass: 4.474 × 10<sup>24</sup> kg<br />(0.749 Yrths)
         density: 3.418 g/cm<sup>3</sup>
         surface_gravity: 6.476 m/s<sup>2</sup><br />(0.660 g<sub>0</sub>)
         escape_velocity: 9.381 km/s<br />(33,773 km/h)
         rotation_period: 43.764 d
         axial_tilt: 43.10°
         albedo: 0.30
-        temperature: 3622 K<br />(3349 °C)
+        temperature: 369 K<br />(96 °C)
   - name: 0020 Ononniad II
     type: Terrestrial
     aphelion: 355,956,349 km<br />2.379 AU
@@ -138,14 +138,14 @@ planets:
     radius: 6,296.8 km<br/>(0.988 Yrths)
     surface_area: 4.982 × 10<sup>08</sup> km<sup>2</sup><br/>(0.977 Yrths)
     volume: 1.046 × 10<sup>12</sup> km<sup>3</sup><br/>(0.965 Yrths)
-    mass: 4.688 × 10<sup>24</sup> kg<br />(0.78504672702878 Yrths)
+    mass: 4.688 × 10<sup>24</sup> kg<br />(0.79 Yrths)
     density: 4.483 g/cm<sup>3</sup>
     surface_gravity: 7.881 m/s<sup>2</sup><br />(0.804 g<sub>0</sub>)
     escape_velocity: 9.969 km/s<br />(35,890 km/h)
     rotation_period: 1.098 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 383 K<br />(110 °C)
+    temperature: 804 K<br />(531 °C)
     surface_pressure: 81 kPa<br />(1 atm)
     composition:
       - 53.0979% carbon dioxide
@@ -167,14 +167,14 @@ planets:
         radius: 2,444.1 km<br/>(0.384 Yrths)
         surface_area: 7.506 × 10<sup>07</sup> km<sup>2</sup><br/>(0.147 Yrths)
         volume: 6.115 × 10<sup>10</sup> km<sup>3</sup><br/>(0.056 Yrths)
-        mass: 1.815 × 10<sup>23</sup> kg<br />(0.78504672702878 Yrths)
+        mass: 1.815 × 10<sup>23</sup> kg<br />(0.030 Yrths)
         density: 2.969 g/cm<sup>3</sup>
         surface_gravity: 2.026 m/s<sup>2</sup><br />(0.207 g<sub>0</sub>)
         escape_velocity: 3.149 km/s<br />(11,336 km/h)
         rotation_period: 39.905 d
         axial_tilt: 17.33°
         albedo: 0.30
-        temperature: 5096 K<br />(4823 °C)
+        temperature: 272 K<br />(-1 °C)
   - name: 0020 Ononniad III
     type: Gas giant
     aphelion: 629,521,817 km<br />4.208 AU
@@ -186,14 +186,14 @@ planets:
     radius: 243.4 km<br/>(0.038 Yrths)
     surface_area: 7.444 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 6.040 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.339 × 10<sup>27</sup> kg<br />(391.70993433355716 Yrths)
+    mass: 2.339 × 10<sup>27</sup> kg<br />(391.71 Yrths)
     density: 38733201.506 g/cm<sup>3</sup>
     surface_gravity: 2632038.382 m/s<sup>2</sup><br />(268393.221 g<sub>0</sub>)
     escape_velocity: 1132.682 km/s<br />(4,077,655 km/h)
     rotation_period: 0.229 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 733 K<br />(460 °C)
+    temperature: 695 K<br />(421 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -209,14 +209,14 @@ planets:
         radius: 233,016.5 km<br/>(36.575 Yrths)
         surface_area: 6.823 × 10<sup>11</sup> km<sup>2</sup><br/>(1337.698 Yrths)
         volume: 5.300 × 10<sup>16</sup> km<sup>3</sup><br/>(48925.695 Yrths)
-        mass: 7.476 × 10<sup>28</sup> kg<br />(391.70993433355716 Yrths)
+        mass: 7.476 × 10<sup>28</sup> kg<br />(12517.855 Yrths)
         density: 1.411 g/cm<sup>3</sup>
         surface_gravity: 91.768 m/s<sup>2</sup><br />(9.358 g<sub>0</sub>)
         escape_velocity: 206.942 km/s<br />(744,993 km/h)
         rotation_period: 43.742 d
         axial_tilt: 19.15°
         albedo: 0.30
-        temperature: 890 K<br />(617 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 0020 Ononniad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -229,14 +229,14 @@ planets:
         radius: 214,533.6 km<br/>(33.673 Yrths)
         surface_area: 5.784 × 10<sup>11</sup> km<sup>2</sup><br/>(1133.902 Yrths)
         volume: 4.136 × 10<sup>16</sup> km<sup>3</sup><br/>(38182.397 Yrths)
-        mass: 7.930 × 10<sup>28</sup> kg<br />(391.70993433355716 Yrths)
+        mass: 7.930 × 10<sup>28</sup> kg<br />(13278.008 Yrths)
         density: 1.917 g/cm<sup>3</sup>
         surface_gravity: 114.836 m/s<sup>2</sup><br />(11.710 g<sub>0</sub>)
         escape_velocity: 222.125 km/s<br />(799,648 km/h)
         rotation_period: 57.140 d
         axial_tilt: 27.65°
         albedo: 0.30
-        temperature: 527 K<br />(254 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 0020 Ononniad III c
         type: Icy
         formationType: Accreted
@@ -249,14 +249,14 @@ planets:
         radius: 261,475.1 km<br/>(41.041 Yrths)
         surface_area: 8.592 × 10<sup>11</sup> km<sup>2</sup><br/>(1684.401 Yrths)
         volume: 7.488 × 10<sup>16</sup> km<sup>3</sup><br/>(69130.296 Yrths)
-        mass: 1.200 × 10<sup>29</sup> kg<br />(391.70993433355716 Yrths)
+        mass: 1.200 × 10<sup>29</sup> kg<br />(20089.089 Yrths)
         density: 1.602 g/cm<sup>3</sup>
         surface_gravity: 116.959 m/s<sup>2</sup><br />(11.927 g<sub>0</sub>)
         escape_velocity: 247.481 km/s<br />(890,933 km/h)
         rotation_period: 67.930 d
         axial_tilt: 6.05°
         albedo: 0.30
-        temperature: 415 K<br />(142 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 0020 Ononniad III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -269,14 +269,14 @@ planets:
         radius: 180,912.2 km<br/>(28.396 Yrths)
         surface_area: 4.113 × 10<sup>11</sup> km<sup>2</sup><br/>(806.345 Yrths)
         volume: 2.480 × 10<sup>16</sup> km<sup>3</sup><br/>(22897.127 Yrths)
-        mass: 6.158 × 10<sup>28</sup> kg<br />(391.70993433355716 Yrths)
+        mass: 6.158 × 10<sup>28</sup> kg<br />(10312.189 Yrths)
         density: 2.483 g/cm<sup>3</sup>
         surface_gravity: 125.415 m/s<sup>2</sup><br />(12.789 g<sub>0</sub>)
         escape_velocity: 213.167 km/s<br />(767,400 km/h)
         rotation_period: 34.247 d
         axial_tilt: 23.00°
         albedo: 0.30
-        temperature: 185 K<br />(-88 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 0020 Ononniad III e
         type: Icy
         formationType: Impact formed
@@ -289,12 +289,12 @@ planets:
         radius: 272,634.9 km<br/>(42.793 Yrths)
         surface_area: 9.341 × 10<sup>11</sup> km<sup>2</sup><br/>(1831.251 Yrths)
         volume: 8.489 × 10<sup>16</sup> km<sup>3</sup><br/>(78364.930 Yrths)
-        mass: 5.942 × 10<sup>28</sup> kg<br />(391.70993433355716 Yrths)
+        mass: 5.942 × 10<sup>28</sup> kg<br />(9949.733 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 53.282 m/s<sup>2</sup><br />(5.433 g<sub>0</sub>)
         escape_velocity: 170.566 km/s<br />(614,038 km/h)
         rotation_period: 83.542 d
         axial_tilt: 20.54°
         albedo: 0.30
-        temperature: 176 K<br />(-97 °C)
+        temperature: 201 K<br />(-72 °C)
 ---

@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      ξ Olliad is a star in the constellation Ol
+      ξ Olliad is a star in the constellation <a href="ol.html">Ol</a>
 distance: 145.26 ly
 apparent_magnitude: 5.05
 absolute_magnitude: 1.81
@@ -31,15 +31,15 @@ planets:
     radius: 8,040.1 km<br/>(1.262 Yrths)
     surface_area: 8.123 × 10<sup>08</sup> km<sup>2</sup><br/>(1.593 Yrths)
     volume: 2.177 × 10<sup>12</sup> km<sup>3</sup><br/>(2.010 Yrths)
-    mass: 1.769 × 10<sup>25</sup> kg<br />(2.9628979336557872 Yrths)
+    mass: 1.769 × 10<sup>25</sup> kg<br />(2.96 Yrths)
     density: 8.128 g/cm<sup>3</sup>
     surface_gravity: 18.245 m/s<sup>2</sup><br />(1.860 g<sub>0</sub>)
     escape_velocity: 17.140 km/s<br />(61,703 km/h)
     rotation_period: 0.886 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 532 K<br />(259 °C)
-    surface_pressure: 2,171 kPa<br />(21 atm)
+    temperature: 1152 K<br />(879 °C)
+    surface_pressure: 2,171 kPa<br />(22 atm)
     composition:
       - 59.8394% carbon dioxide
       - 34.6598% nitrogen
@@ -59,14 +59,14 @@ planets:
         radius: 11,222.7 km<br/>(1.762 Yrths)
         surface_area: 1.583 × 10<sup>09</sup> km<sup>2</sup><br/>(3.103 Yrths)
         volume: 5.921 × 10<sup>12</sup> km<sup>3</sup><br/>(5.466 Yrths)
-        mass: 5.819 × 10<sup>24</sup> kg<br />(2.9628979336557872 Yrths)
+        mass: 5.819 × 10<sup>24</sup> kg<br />(0.974 Yrths)
         density: 0.983 g/cm<sup>3</sup>
         surface_gravity: 3.079 m/s<sup>2</sup><br />(0.314 g<sub>0</sub>)
         escape_velocity: 8.319 km/s<br />(29,949 km/h)
         rotation_period: 65.829 d
         axial_tilt: 13.37°
         albedo: 0.30
-        temperature: 4612 K<br />(4339 °C)
+        temperature: 305 K<br />(32 °C)
   - name: ξ Olliad II
     type: Ice giant
     aphelion: 870,200,885 km<br />5.817 AU
@@ -78,14 +78,14 @@ planets:
     radius: 33,965.7 km<br/>(5.331 Yrths)
     surface_area: 1.450 × 10<sup>10</sup> km<sup>2</sup><br/>(28.423 Yrths)
     volume: 1.641 × 10<sup>14</sup> km<sup>3</sup><br/>(151.530 Yrths)
-    mass: 2.636 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+    mass: 2.636 × 10<sup>26</sup> kg<br />(44.14 Yrths)
     density: 1.606 g/cm<sup>3</sup>
     surface_gravity: 15.228 m/s<sup>2</sup><br />(1.553 g<sub>0</sub>)
     escape_velocity: 32.185 km/s<br />(115,865 km/h)
     rotation_period: 0.362 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 413 K<br />(140 °C)
+    temperature: 375 K<br />(102 °C)
     composition:
       - 76.2080% hydrogen
       - 21.4221% helium
@@ -103,14 +103,14 @@ planets:
         radius: 23,054.8 km<br/>(3.619 Yrths)
         surface_area: 6.679 × 10<sup>09</sup> km<sup>2</sup><br/>(13.095 Yrths)
         volume: 5.133 × 10<sup>13</sup> km<sup>3</sup><br/>(47.387 Yrths)
-        mass: 1.352 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 1.352 × 10<sup>26</sup> kg<br />(22.647 Yrths)
         density: 2.635 g/cm<sup>3</sup>
         surface_gravity: 16.960 m/s<sup>2</sup><br />(1.729 g<sub>0</sub>)
         escape_velocity: 27.984 km/s<br />(100,741 km/h)
         rotation_period: 35.449 d
         axial_tilt: 27.82°
         albedo: 0.30
-        temperature: 1727 K<br />(1454 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -123,14 +123,14 @@ planets:
         radius: 42,091.6 km<br/>(6.607 Yrths)
         surface_area: 2.226 × 10<sup>10</sup> km<sup>2</sup><br/>(43.649 Yrths)
         volume: 3.124 × 10<sup>14</sup> km<sup>3</sup><br/>(288.378 Yrths)
-        mass: 4.998 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 4.998 × 10<sup>26</sup> kg<br />(83.690 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 18.803 m/s<sup>2</sup><br />(1.917 g<sub>0</sub>)
         escape_velocity: 39.812 km/s<br />(143,324 km/h)
         rotation_period: 66.441 d
         axial_tilt: 22.88°
         albedo: 0.30
-        temperature: 1647 K<br />(1374 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II c
         type: Icy
         formationType: Captured
@@ -143,14 +143,14 @@ planets:
         radius: 54,895.3 km<br/>(8.616 Yrths)
         surface_area: 3.787 × 10<sup>10</sup> km<sup>2</sup><br/>(74.243 Yrths)
         volume: 6.929 × 10<sup>14</sup> km<sup>3</sup><br/>(639.708 Yrths)
-        mass: 6.040 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 6.040 × 10<sup>26</sup> kg<br />(101.143 Yrths)
         density: 0.872 g/cm<sup>3</sup>
         surface_gravity: 13.360 m/s<sup>2</sup><br />(1.362 g<sub>0</sub>)
         escape_velocity: 38.325 km/s<br />(137,969 km/h)
         rotation_period: 77.422 d
         axial_tilt: 16.53°
         albedo: 0.30
-        temperature: 1497 K<br />(1224 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -163,14 +163,14 @@ planets:
         radius: 34,765.4 km<br/>(5.457 Yrths)
         surface_area: 1.519 × 10<sup>10</sup> km<sup>2</sup><br/>(29.777 Yrths)
         volume: 1.760 × 10<sup>14</sup> km<sup>3</sup><br/>(162.487 Yrths)
-        mass: 4.087 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 4.087 × 10<sup>26</sup> kg<br />(68.438 Yrths)
         density: 2.322 g/cm<sup>3</sup>
         surface_gravity: 22.539 m/s<sup>2</sup><br />(2.298 g<sub>0</sub>)
         escape_velocity: 39.614 km/s<br />(142,611 km/h)
         rotation_period: 45.031 d
         axial_tilt: 8.45°
         albedo: 0.30
-        temperature: 1427 K<br />(1154 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -183,14 +183,14 @@ planets:
         radius: 40,817.2 km<br/>(6.407 Yrths)
         surface_area: 2.094 × 10<sup>10</sup> km<sup>2</sup><br/>(41.046 Yrths)
         volume: 2.849 × 10<sup>14</sup> km<sup>3</sup><br/>(262.971 Yrths)
-        mass: 6.182 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 6.182 × 10<sup>26</sup> kg<br />(103.522 Yrths)
         density: 2.170 g/cm<sup>3</sup>
         surface_gravity: 24.733 m/s<sup>2</sup><br />(2.522 g<sub>0</sub>)
         escape_velocity: 44.965 km/s<br />(161,873 km/h)
         rotation_period: 47.957 d
         axial_tilt: 9.22°
         albedo: 0.30
-        temperature: 1361 K<br />(1088 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II f
         type: Ice/rock hybrid
         formationType: Captured
@@ -203,14 +203,14 @@ planets:
         radius: 30,133.2 km<br/>(4.730 Yrths)
         surface_area: 1.141 × 10<sup>10</sup> km<sup>2</sup><br/>(22.371 Yrths)
         volume: 1.146 × 10<sup>14</sup> km<sup>3</sup><br/>(105.807 Yrths)
-        mass: 2.009 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 2.009 × 10<sup>26</sup> kg<br />(33.639 Yrths)
         density: 1.753 g/cm<sup>3</sup>
         surface_gravity: 14.746 m/s<sup>2</sup><br />(1.504 g<sub>0</sub>)
         escape_velocity: 29.831 km/s<br />(107,393 km/h)
         rotation_period: 39.148 d
         axial_tilt: 9.86°
         albedo: 0.30
-        temperature: 1298 K<br />(1024 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II g
         type: Asteroid
         formationType: Captured
@@ -223,14 +223,14 @@ planets:
         radius: 57,055.4 km<br/>(8.955 Yrths)
         surface_area: 4.091 × 10<sup>10</sup> km<sup>2</sup><br/>(80.201 Yrths)
         volume: 7.780 × 10<sup>14</sup> km<sup>3</sup><br/>(718.236 Yrths)
-        mass: 1.422 × 10<sup>27</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 1.422 × 10<sup>27</sup> kg<br />(238.150 Yrths)
         density: 1.828 g/cm<sup>3</sup>
         surface_gravity: 29.120 m/s<sup>2</sup><br />(2.969 g<sub>0</sub>)
         escape_velocity: 57.684 km/s<br />(207,662 km/h)
         rotation_period: 50.737 d
         axial_tilt: 8.88°
         albedo: 0.30
-        temperature: 1180 K<br />(906 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II h
         type: Ice/rock hybrid
         formationType: Captured
@@ -243,14 +243,14 @@ planets:
         radius: 38,289.1 km<br/>(6.010 Yrths)
         surface_area: 1.842 × 10<sup>10</sup> km<sup>2</sup><br/>(36.119 Yrths)
         volume: 2.351 × 10<sup>14</sup> km<sup>3</sup><br/>(217.072 Yrths)
-        mass: 4.989 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 4.989 × 10<sup>26</sup> kg<br />(83.547 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 22.684 m/s<sup>2</sup><br />(2.313 g<sub>0</sub>)
         escape_velocity: 41.707 km/s<br />(150,144 km/h)
         rotation_period: 34.331 d
         axial_tilt: 30.54°
         albedo: 0.30
-        temperature: 1125 K<br />(852 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II i
         type: Icy
         formationType: Accreted
@@ -263,14 +263,14 @@ planets:
         radius: 24,750.3 km<br/>(3.885 Yrths)
         surface_area: 7.698 × 10<sup>09</sup> km<sup>2</sup><br/>(15.092 Yrths)
         volume: 6.351 × 10<sup>13</sup> km<sup>3</sup><br/>(58.630 Yrths)
-        mass: 1.122 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 1.122 × 10<sup>26</sup> kg<br />(18.780 Yrths)
         density: 1.766 g/cm<sup>3</sup>
         surface_gravity: 12.203 m/s<sup>2</sup><br />(1.244 g<sub>0</sub>)
         escape_velocity: 24.595 km/s<br />(88,540 km/h)
         rotation_period: 45.121 d
         axial_tilt: 8.87°
         albedo: 0.30
-        temperature: 1072 K<br />(799 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II j
         type: Icy
         formationType: Accreted
@@ -283,14 +283,14 @@ planets:
         radius: 21,786.2 km<br/>(3.420 Yrths)
         surface_area: 5.964 × 10<sup>09</sup> km<sup>2</sup><br/>(11.694 Yrths)
         volume: 4.331 × 10<sup>13</sup> km<sup>3</sup><br/>(39.987 Yrths)
-        mass: 6.046 × 10<sup>25</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 6.046 × 10<sup>25</sup> kg<br />(10.124 Yrths)
         density: 1.396 g/cm<sup>3</sup>
         surface_gravity: 8.490 m/s<sup>2</sup><br />(0.866 g<sub>0</sub>)
         escape_velocity: 19.247 km/s<br />(69,288 km/h)
         rotation_period: 68.064 d
         axial_tilt: 25.53°
         albedo: 0.30
-        temperature: 1022 K<br />(749 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II k
         type: Ice/rock hybrid
         formationType: Captured
@@ -303,14 +303,14 @@ planets:
         radius: 29,371.3 km<br/>(4.610 Yrths)
         surface_area: 1.084 × 10<sup>10</sup> km<sup>2</sup><br/>(21.254 Yrths)
         volume: 1.061 × 10<sup>14</sup> km<sup>3</sup><br/>(97.982 Yrths)
-        mass: 2.731 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 2.731 × 10<sup>26</sup> kg<br />(45.722 Yrths)
         density: 2.573 g/cm<sup>3</sup>
         surface_gravity: 21.097 m/s<sup>2</sup><br />(2.151 g<sub>0</sub>)
         escape_velocity: 35.227 km/s<br />(126,818 km/h)
         rotation_period: 48.903 d
         axial_tilt: 10.71°
         albedo: 0.30
-        temperature: 930 K<br />(656 °C)
+        temperature: 217 K<br />(-57 °C)
       - name: ξ Olliad II l
         type: Icy
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 37,305.3 km<br/>(5.855 Yrths)
         surface_area: 1.749 × 10<sup>10</sup> km<sup>2</sup><br/>(34.287 Yrths)
         volume: 2.175 × 10<sup>14</sup> km<sup>3</sup><br/>(200.766 Yrths)
-        mass: 3.330 × 10<sup>26</sup> kg<br />(44.13536460056047 Yrths)
+        mass: 3.330 × 10<sup>26</sup> kg<br />(55.760 Yrths)
         density: 1.531 g/cm<sup>3</sup>
         surface_gravity: 15.948 m/s<sup>2</sup><br />(1.626 g<sub>0</sub>)
         escape_velocity: 34.519 km/s<br />(124,267 km/h)
         rotation_period: 43.654 d
         axial_tilt: 19.52°
         albedo: 0.30
-        temperature: 886 K<br />(613 °C)
+        temperature: 217 K<br />(-57 °C)
   - name: ξ Olliad III
     type: Large terrestrial
     aphelion: 1,758,876,500 km<br />11.757 AU
@@ -342,14 +342,14 @@ planets:
     radius: 8,778.0 km<br/>(1.378 Yrths)
     surface_area: 9.683 × 10<sup>08</sup> km<sup>2</sup><br/>(1.898 Yrths)
     volume: 2.833 × 10<sup>12</sup> km<sup>3</sup><br/>(2.616 Yrths)
-    mass: 1.850 × 10<sup>25</sup> kg<br />(3.0977630511190117 Yrths)
+    mass: 1.850 × 10<sup>25</sup> kg<br />(3.10 Yrths)
     density: 6.530 g/cm<sup>3</sup>
     surface_gravity: 16.003 m/s<sup>2</sup><br />(1.632 g<sub>0</sub>)
     escape_velocity: 16.773 km/s<br />(60,382 km/h)
     rotation_period: 0.699 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 273 K<br />(-0 °C)
+    temperature: 735 K<br />(462 °C)
     surface_pressure: 804 kPa<br />(8 atm)
     composition:
       - 92.4527% carbon dioxide
@@ -368,14 +368,14 @@ planets:
         radius: 7,597.6 km<br/>(1.193 Yrths)
         surface_area: 7.254 × 10<sup>08</sup> km<sup>2</sup><br/>(1.422 Yrths)
         volume: 1.837 × 10<sup>12</sup> km<sup>3</sup><br/>(1.696 Yrths)
-        mass: 3.695 × 10<sup>24</sup> kg<br />(3.0977630511190117 Yrths)
+        mass: 3.695 × 10<sup>24</sup> kg<br />(0.619 Yrths)
         density: 2.011 g/cm<sup>3</sup>
         surface_gravity: 4.267 m/s<sup>2</sup><br />(0.435 g<sub>0</sub>)
         escape_velocity: 8.057 km/s<br />(29,007 km/h)
         rotation_period: 39.536 d
         axial_tilt: 13.53°
         albedo: 0.30
-        temperature: 2495 K<br />(2222 °C)
+        temperature: 154 K<br />(-119 °C)
       - name: ξ Olliad III b
         type: Dwarf planet
         formationType: Captured
@@ -388,14 +388,14 @@ planets:
         radius: 2,674.6 km<br/>(0.420 Yrths)
         surface_area: 8.989 × 10<sup>07</sup> km<sup>2</sup><br/>(0.176 Yrths)
         volume: 8.014 × 10<sup>10</sup> km<sup>3</sup><br/>(0.074 Yrths)
-        mass: 2.066 × 10<sup>23</sup> kg<br />(3.0977630511190117 Yrths)
+        mass: 2.066 × 10<sup>23</sup> kg<br />(0.035 Yrths)
         density: 2.578 g/cm<sup>3</sup>
         surface_gravity: 1.925 m/s<sup>2</sup><br />(0.196 g<sub>0</sub>)
         escape_velocity: 3.211 km/s<br />(11,560 km/h)
         rotation_period: 38.551 d
         axial_tilt: 33.98°
         albedo: 0.30
-        temperature: 2379 K<br />(2106 °C)
+        temperature: 154 K<br />(-119 °C)
   - name: ξ Olliad IV
     type: Ice giant
     aphelion: 3,400,704,131 km<br />22.732 AU
@@ -407,14 +407,14 @@ planets:
     radius: 37,880.0 km<br/>(5.946 Yrths)
     surface_area: 1.803 × 10<sup>10</sup> km<sup>2</sup><br/>(35.351 Yrths)
     volume: 2.277 × 10<sup>14</sup> km<sup>3</sup><br/>(210.187 Yrths)
-    mass: 2.718 × 10<sup>26</sup> kg<br />(45.51694512367153 Yrths)
+    mass: 2.718 × 10<sup>26</sup> kg<br />(45.52 Yrths)
     density: 1.194 g/cm<sup>3</sup>
     surface_gravity: 12.627 m/s<sup>2</sup><br />(1.288 g<sub>0</sub>)
     escape_velocity: 30.950 km/s<br />(111,420 km/h)
     rotation_period: 0.299 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 193 K<br />(-80 °C)
+    temperature: 174 K<br />(-99 °C)
     composition:
       - 67.2930% hydrogen
       - 31.1148% helium
@@ -432,14 +432,14 @@ planets:
         radius: 54,054.9 km<br/>(8.485 Yrths)
         surface_area: 3.672 × 10<sup>10</sup> km<sup>2</sup><br/>(71.987 Yrths)
         volume: 6.616 × 10<sup>14</sup> km<sup>3</sup><br/>(610.777 Yrths)
-        mass: 8.619 × 10<sup>26</sup> kg<br />(45.51694512367153 Yrths)
+        mass: 8.619 × 10<sup>26</sup> kg<br />(144.331 Yrths)
         density: 1.303 g/cm<sup>3</sup>
         surface_gravity: 19.662 m/s<sup>2</sup><br />(2.005 g<sub>0</sub>)
         escape_velocity: 46.136 km/s<br />(166,090 km/h)
         rotation_period: 63.064 d
         axial_tilt: 23.66°
         albedo: 0.30
-        temperature: 714 K<br />(441 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: ξ Olliad IV b
         type: Rocky
         formationType: Accreted
@@ -452,14 +452,14 @@ planets:
         radius: 54,399.3 km<br/>(8.539 Yrths)
         surface_area: 3.719 × 10<sup>10</sup> km<sup>2</sup><br/>(72.907 Yrths)
         volume: 6.743 × 10<sup>14</sup> km<sup>3</sup><br/>(622.526 Yrths)
-        mass: 1.905 × 10<sup>27</sup> kg<br />(45.51694512367153 Yrths)
+        mass: 1.905 × 10<sup>27</sup> kg<br />(318.928 Yrths)
         density: 2.825 g/cm<sup>3</sup>
         surface_gravity: 42.899 m/s<sup>2</sup><br />(4.374 g<sub>0</sub>)
         escape_velocity: 68.364 km/s<br />(246,111 km/h)
         rotation_period: 56.205 d
         axial_tilt: 17.68°
         albedo: 0.30
-        temperature: 650 K<br />(376 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: ξ Olliad IV c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -472,14 +472,14 @@ planets:
         radius: 33,398.6 km<br/>(5.242 Yrths)
         surface_area: 1.402 × 10<sup>10</sup> km<sup>2</sup><br/>(27.482 Yrths)
         volume: 1.561 × 10<sup>14</sup> km<sup>3</sup><br/>(144.067 Yrths)
-        mass: 3.670 × 10<sup>26</sup> kg<br />(45.51694512367153 Yrths)
+        mass: 3.670 × 10<sup>26</sup> kg<br />(61.458 Yrths)
         density: 2.352 g/cm<sup>3</sup>
         surface_gravity: 21.931 m/s<sup>2</sup><br />(2.236 g<sub>0</sub>)
         escape_velocity: 38.300 km/s<br />(137,882 km/h)
         rotation_period: 47.642 d
         axial_tilt: 18.16°
         albedo: 0.30
-        temperature: 563 K<br />(290 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: ξ Olliad IV d
         type: Icy
         formationType: Captured
@@ -492,14 +492,14 @@ planets:
         radius: 54,396.0 km<br/>(8.538 Yrths)
         surface_area: 3.718 × 10<sup>10</sup> km<sup>2</sup><br/>(72.898 Yrths)
         volume: 6.742 × 10<sup>14</sup> km<sup>3</sup><br/>(622.411 Yrths)
-        mass: 8.671 × 10<sup>26</sup> kg<br />(45.51694512367153 Yrths)
+        mass: 8.671 × 10<sup>26</sup> kg<br />(145.200 Yrths)
         density: 1.286 g/cm<sup>3</sup>
         surface_gravity: 19.533 m/s<sup>2</sup><br />(1.992 g<sub>0</sub>)
         escape_velocity: 46.129 km/s<br />(166,066 km/h)
         rotation_period: 52.386 d
         axial_tilt: 10.24°
         albedo: 0.30
-        temperature: 537 K<br />(264 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: ξ Olliad IV e
         type: Ice/rock hybrid
         formationType: Captured
@@ -512,14 +512,14 @@ planets:
         radius: 36,462.7 km<br/>(5.723 Yrths)
         surface_area: 1.671 × 10<sup>10</sup> km<sup>2</sup><br/>(32.755 Yrths)
         volume: 2.031 × 10<sup>14</sup> km<sup>3</sup><br/>(187.467 Yrths)
-        mass: 4.169 × 10<sup>26</sup> kg<br />(45.51694512367153 Yrths)
+        mass: 4.169 × 10<sup>26</sup> kg<br />(69.817 Yrths)
         density: 2.053 g/cm<sup>3</sup>
         surface_gravity: 20.903 m/s<sup>2</sup><br />(2.131 g<sub>0</sub>)
         escape_velocity: 39.069 km/s<br />(140,649 km/h)
         rotation_period: 38.706 d
         axial_tilt: 15.55°
         albedo: 0.30
-        temperature: 512 K<br />(239 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: ξ Olliad IV f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -532,12 +532,12 @@ planets:
         radius: 47,594.0 km<br/>(7.470 Yrths)
         surface_area: 2.847 × 10<sup>10</sup> km<sup>2</sup><br/>(55.807 Yrths)
         volume: 4.516 × 10<sup>14</sup> km<sup>3</sup><br/>(416.903 Yrths)
-        mass: 9.288 × 10<sup>26</sup> kg<br />(45.51694512367153 Yrths)
+        mass: 9.288 × 10<sup>26</sup> kg<br />(155.527 Yrths)
         density: 2.057 g/cm<sup>3</sup>
         surface_gravity: 27.330 m/s<sup>2</sup><br />(2.787 g<sub>0</sub>)
         escape_velocity: 51.039 km/s<br />(183,741 km/h)
         rotation_period: 41.890 d
         axial_tilt: 28.33°
         albedo: 0.30
-        temperature: 488 K<br />(215 °C)
+        temperature: 109 K<br />(-164 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      18673 Shanniashiad A is a star in the constellation Shannias
+      18673 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 563.25 ly
 apparent_magnitude: 7.40
 absolute_magnitude: 1.22

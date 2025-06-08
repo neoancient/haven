@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3251 Anilliad is a star in the constellation Anil
+      3251 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 632.19 ly
 apparent_magnitude: 8.02
 absolute_magnitude: 1.58

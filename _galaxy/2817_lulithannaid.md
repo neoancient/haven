@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2817 Lulithannaid is a star in the constellation Lulithan
+      2817 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 439.76 ly
 apparent_magnitude: 10.68
 absolute_magnitude: 5.03

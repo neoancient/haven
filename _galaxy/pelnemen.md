@@ -975,12 +975,12 @@ stars:
     absolute_magnitude: 1.44
     distance: 334.93
     spectral_class: A2V + K9III + M8III + F5V
-  - name: 
+  - name:
     designation: <a href="5457_pelnemenniad.html">5457 Pelnemenniad</a>
     ra: 3<sup>h</sup> 41<sup>m</sup> 55.20<sup>s</sup>
     dec: 24° 10' 12.00"
-    apparent_magnitude: 9.22
-    absolute_magnitude: 4.87
+    apparent_magnitude: 12.62
+    absolute_magnitude: 8.27
     distance: 241.98
-    spectral_class: G6V
+    spectral_class: K9V
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4939 Tanashad is a star in the constellation Tanas
+      4939 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 389.35 ly
 apparent_magnitude: 10.09
 absolute_magnitude: 4.71

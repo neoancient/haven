@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      18543 Tanashad is a star in the constellation Tanas
+      18543 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 535.26 ly
 apparent_magnitude: 11.77
 absolute_magnitude: 5.70

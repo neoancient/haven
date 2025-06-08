@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1887 Saithiad is a star in the constellation Saith
+      1887 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 1108.49 ly
 apparent_magnitude: 14.01
 absolute_magnitude: 6.35

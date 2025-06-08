@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4341 Dialkeshiad A is a star in the constellation Dialkes
+      4341 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 556.10 ly
 apparent_magnitude: 7.91
 absolute_magnitude: 1.75

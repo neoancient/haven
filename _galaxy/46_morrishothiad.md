@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      46 Morrishothiad is a star in the constellation Morrishoth
+      46 Morrishothiad is a star in the constellation <a href="morrishoth.html">Morrishoth</a>
 distance: 458.41 ly
 apparent_magnitude: 11.41
 absolute_magnitude: 5.67

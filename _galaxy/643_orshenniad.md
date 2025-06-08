@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      643 Orshenniad is a star in the constellation Orshen
+      643 Orshenniad is a star in the constellation <a href="orshen.html">Orshen</a>
 distance: 588.32 ly
 apparent_magnitude: 10.20
 absolute_magnitude: 3.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3465 Dialkeshiad is a star in the constellation Dialkes
+      3465 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 505.99 ly
 apparent_magnitude: 8.70
 absolute_magnitude: 2.74

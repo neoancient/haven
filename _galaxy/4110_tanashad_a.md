@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4110 Tanashad A is a star in the constellation Tanas
+      4110 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 501.63 ly
 apparent_magnitude: 7.65
 absolute_magnitude: 1.71

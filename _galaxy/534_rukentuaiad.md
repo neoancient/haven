@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      534 Rukentuaiad is a star in the constellation Rukentua
+      534 Rukentuaiad is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 983.83 ly
 apparent_magnitude: 9.36
 absolute_magnitude: 1.96

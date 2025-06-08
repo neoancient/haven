@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0041 Niniunniad B is a star in the constellation Niniun
+      0041 Niniunniad B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 247.23 ly
 apparent_magnitude: 8.79
 absolute_magnitude: 4.39

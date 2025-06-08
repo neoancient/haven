@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Mirshil is a star in the constellation Kee
+      Mirshil is a star in the constellation <a href="kee.html">Kee</a>
 distance: 298.59 ly
 apparent_magnitude: 4.26
 absolute_magnitude: -0.55
@@ -31,14 +31,14 @@ planets:
     radius: 211.9 km<br/>(0.033 Yrths)
     surface_area: 5.645 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.988 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.316 × 10<sup>27</sup> kg<br />(220.39998725840587 Yrths)
+    mass: 1.316 × 10<sup>27</sup> kg<br />(220.40 Yrths)
     density: 33006047.829 g/cm<sup>3</sup>
     surface_gravity: 1953055.706 m/s<sup>2</sup><br />(199156.257 g<sub>0</sub>)
     escape_velocity: 910.490 km/s<br />(3,277,765 km/h)
     rotation_period: 0.243 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 2578 K<br />(2305 °C)
+    temperature: 2464 K<br />(2191 °C)
     composition:
       - 81.2024% hydrogen
       - 15.6649% helium
@@ -57,14 +57,14 @@ planets:
         radius: 215,317.6 km<br/>(33.797 Yrths)
         surface_area: 5.826 × 10<sup>11</sup> km<sup>2</sup><br/>(1142.205 Yrths)
         volume: 4.181 × 10<sup>16</sup> km<sup>3</sup><br/>(38602.544 Yrths)
-        mass: 6.784 × 10<sup>28</sup> kg<br />(220.39998725840587 Yrths)
+        mass: 6.784 × 10<sup>28</sup> kg<br />(11359.814 Yrths)
         density: 1.622 g/cm<sup>3</sup>
         surface_gravity: 97.532 m/s<sup>2</sup><br />(9.946 g<sub>0</sub>)
         escape_velocity: 205.080 km/s<br />(738,288 km/h)
         rotation_period: 66.132 d
         axial_tilt: 15.08°
         albedo: 0.30
-        temperature: 3852 K<br />(3578 °C)
+        temperature: 600 K<br />(327 °C)
       - name: Mirshil I b
         type: Icy
         formationType: Accreted
@@ -77,14 +77,14 @@ planets:
         radius: 193,996.4 km<br/>(30.450 Yrths)
         surface_area: 4.729 × 10<sup>11</sup> km<sup>2</sup><br/>(927.198 Yrths)
         volume: 3.058 × 10<sup>16</sup> km<sup>3</sup><br/>(28233.090 Yrths)
-        mass: 3.458 × 10<sup>28</sup> kg<br />(220.39998725840587 Yrths)
+        mass: 3.458 × 10<sup>28</sup> kg<br />(5791.148 Yrths)
         density: 1.131 g/cm<sup>3</sup>
         surface_gravity: 61.251 m/s<sup>2</sup><br />(6.246 g<sub>0</sub>)
         escape_velocity: 154.264 km/s<br />(555,349 km/h)
         rotation_period: 78.596 d
         axial_tilt: 17.38°
         albedo: 0.30
-        temperature: 3672 K<br />(3399 °C)
+        temperature: 600 K<br />(327 °C)
       - name: Mirshil I c
         type: Rocky
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 181,764.8 km<br/>(28.530 Yrths)
         surface_area: 4.152 × 10<sup>11</sup> km<sup>2</sup><br/>(813.963 Yrths)
         volume: 2.515 × 10<sup>16</sup> km<sup>3</sup><br/>(23222.387 Yrths)
-        mass: 7.694 × 10<sup>28</sup> kg<br />(220.39998725840587 Yrths)
+        mass: 7.694 × 10<sup>28</sup> kg<br />(12883.937 Yrths)
         density: 3.059 g/cm<sup>3</sup>
         surface_gravity: 155.226 m/s<sup>2</sup><br />(15.829 g<sub>0</sub>)
         escape_velocity: 237.710 km/s<br />(855,755 km/h)
         rotation_period: 41.469 d
         axial_tilt: 17.67°
         albedo: 0.30
-        temperature: 3035 K<br />(2762 °C)
+        temperature: 600 K<br />(327 °C)
       - name: Mirshil I d
         type: Asteroid
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 167,668.6 km<br/>(26.317 Yrths)
         surface_area: 3.533 × 10<sup>11</sup> km<sup>2</sup><br/>(692.609 Yrths)
         volume: 1.974 × 10<sup>16</sup> km<sup>3</sup><br/>(18227.729 Yrths)
-        mass: 3.426 × 10<sup>28</sup> kg<br />(220.39998725840587 Yrths)
+        mass: 3.426 × 10<sup>28</sup> kg<br />(5737.496 Yrths)
         density: 1.735 g/cm<sup>3</sup>
         surface_gravity: 81.237 m/s<sup>2</sup><br />(8.284 g<sub>0</sub>)
         escape_velocity: 165.163 km/s<br />(594,587 km/h)
         rotation_period: 38.286 d
         axial_tilt: 12.01°
         albedo: 0.30
-        temperature: 2392 K<br />(2118 °C)
+        temperature: 600 K<br />(327 °C)
       - name: Mirshil I e
         type: Icy
         formationType: Impact formed
@@ -137,14 +137,14 @@ planets:
         radius: 214,957.4 km<br/>(33.740 Yrths)
         surface_area: 5.807 × 10<sup>11</sup> km<sup>2</sup><br/>(1138.386 Yrths)
         volume: 4.161 × 10<sup>16</sup> km<sup>3</sup><br/>(38409.109 Yrths)
-        mass: 7.372 × 10<sup>28</sup> kg<br />(220.39998725840587 Yrths)
+        mass: 7.372 × 10<sup>28</sup> kg<br />(12343.585 Yrths)
         density: 1.772 g/cm<sup>3</sup>
         surface_gravity: 106.334 m/s<sup>2</sup><br />(10.843 g<sub>0</sub>)
         escape_velocity: 213.955 km/s<br />(770,238 km/h)
         rotation_period: 45.201 d
         axial_tilt: 15.86°
         albedo: 0.30
-        temperature: 2280 K<br />(2007 °C)
+        temperature: 600 K<br />(327 °C)
       - name: Mirshil I f
         type: Dwarf planet
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 193,052.0 km<br/>(30.302 Yrths)
         surface_area: 4.683 × 10<sup>11</sup> km<sup>2</sup><br/>(918.192 Yrths)
         volume: 3.014 × 10<sup>16</sup> km<sup>3</sup><br/>(27822.764 Yrths)
-        mass: 3.617 × 10<sup>28</sup> kg<br />(220.39998725840587 Yrths)
+        mass: 3.617 × 10<sup>28</sup> kg<br />(6055.822 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 64.679 m/s<sup>2</sup><br />(6.595 g<sub>0</sub>)
         escape_velocity: 158.135 km/s<br />(569,285 km/h)
         rotation_period: 64.744 d
         axial_tilt: 33.51°
         albedo: 0.30
-        temperature: 1633 K<br />(1360 °C)
+        temperature: 600 K<br />(327 °C)
   - name: Mirshil II
     type: Large terrestrial
     aphelion: 1,260,941,550 km<br />8.429 AU
@@ -176,14 +176,14 @@ planets:
     radius: 8,473.7 km<br/>(1.330 Yrths)
     surface_area: 9.023 × 10<sup>08</sup> km<sup>2</sup><br/>(1.769 Yrths)
     volume: 2.549 × 10<sup>12</sup> km<sup>3</sup><br/>(2.353 Yrths)
-    mass: 1.823 × 10<sup>25</sup> kg<br />(3.051803880857212 Yrths)
+    mass: 1.823 × 10<sup>25</sup> kg<br />(3.05 Yrths)
     density: 7.151 g/cm<sup>3</sup>
     surface_gravity: 16.918 m/s<sup>2</sup><br />(1.725 g<sub>0</sub>)
     escape_velocity: 16.944 km/s<br />(60,999 km/h)
     rotation_period: 0.678 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 649 K<br />(376 °C)
+    temperature: 1001 K<br />(727 °C)
     surface_pressure: 1,796 kPa<br />(18 atm)
     composition:
       - 67.0756% ammonia
@@ -206,14 +206,14 @@ planets:
         radius: 6,228.3 km<br/>(0.978 Yrths)
         surface_area: 4.875 × 10<sup>08</sup> km<sup>2</sup><br/>(0.956 Yrths)
         volume: 1.012 × 10<sup>12</sup> km<sup>3</sup><br/>(0.934 Yrths)
-        mass: 2.261 × 10<sup>24</sup> kg<br />(3.051803880857212 Yrths)
+        mass: 2.261 × 10<sup>24</sup> kg<br />(0.379 Yrths)
         density: 2.234 g/cm<sup>3</sup>
         surface_gravity: 3.884 m/s<sup>2</sup><br />(0.396 g<sub>0</sub>)
         escape_velocity: 6.961 km/s<br />(25,059 km/h)
         rotation_period: 33.506 d
         axial_tilt: 20.96°
         albedo: 0.30
-        temperature: 5969 K<br />(5696 °C)
+        temperature: 416 K<br />(143 °C)
   - name: Mirshil III
     type: Gas giant
     aphelion: 2,335,754,502 km<br />15.613 AU
@@ -225,14 +225,14 @@ planets:
     radius: 150.7 km<br/>(0.024 Yrths)
     surface_area: 2.855 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.434 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.998 × 10<sup>26</sup> kg<br />(50.20036382960849 Yrths)
+    mass: 2.998 × 10<sup>26</sup> kg<br />(50.20 Yrths)
     density: 20902224.939 g/cm<sup>3</sup>
     surface_gravity: 879587.520 m/s<sup>2</sup><br />(89692.966 g<sub>0</sub>)
     escape_velocity: 515.276 km/s<br />(1,854,995 km/h)
     rotation_period: 0.282 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1188 K<br />(915 °C)
+    temperature: 1140 K<br />(867 °C)
     composition:
       - 77.3340% hydrogen
       - 18.9003% helium
@@ -253,14 +253,14 @@ planets:
         radius: 90,312.1 km<br/>(14.176 Yrths)
         surface_area: 1.025 × 10<sup>11</sup> km<sup>2</sup><br/>(200.945 Yrths)
         volume: 3.086 × 10<sup>15</sup> km<sup>3</sup><br/>(2848.496 Yrths)
-        mass: 3.551 × 10<sup>27</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 3.551 × 10<sup>27</sup> kg<br />(594.576 Yrths)
         density: 1.151 g/cm<sup>3</sup>
         surface_gravity: 29.017 m/s<sup>2</sup><br />(2.959 g<sub>0</sub>)
         escape_velocity: 72.445 km/s<br />(260,802 km/h)
         rotation_period: 80.791 d
         axial_tilt: 8.80°
         albedo: 0.30
-        temperature: 2371 K<br />(2098 °C)
+        temperature: 288 K<br />(15 °C)
       - name: Mirshil III b
         type: Icy
         formationType: Captured
@@ -273,14 +273,14 @@ planets:
         radius: 59,003.5 km<br/>(9.261 Yrths)
         surface_area: 4.375 × 10<sup>10</sup> km<sup>2</sup><br/>(85.771 Yrths)
         volume: 8.604 × 10<sup>14</sup> km<sup>3</sup><br/>(794.347 Yrths)
-        mass: 1.115 × 10<sup>27</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 1.115 × 10<sup>27</sup> kg<br />(186.769 Yrths)
         density: 1.296 g/cm<sup>3</sup>
         surface_gravity: 21.354 m/s<sup>2</sup><br />(2.178 g<sub>0</sub>)
         escape_velocity: 50.233 km/s<br />(180,840 km/h)
         rotation_period: 67.850 d
         axial_tilt: 22.57°
         albedo: 0.30
-        temperature: 2156 K<br />(1883 °C)
+        temperature: 288 K<br />(15 °C)
       - name: Mirshil III c
         type: Icy
         formationType: Captured
@@ -293,14 +293,14 @@ planets:
         radius: 62,432.4 km<br/>(9.799 Yrths)
         surface_area: 4.898 × 10<sup>10</sup> km<sup>2</sup><br/>(96.030 Yrths)
         volume: 1.019 × 10<sup>15</sup> km<sup>3</sup><br/>(941.039 Yrths)
-        mass: 1.085 × 10<sup>27</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 1.085 × 10<sup>27</sup> kg<br />(181.700 Yrths)
         density: 1.065 g/cm<sup>3</sup>
         surface_gravity: 18.555 m/s<sup>2</sup><br />(1.892 g<sub>0</sub>)
         escape_velocity: 48.167 km/s<br />(173,402 km/h)
         rotation_period: 89.227 d
         axial_tilt: 15.51°
         albedo: 0.30
-        temperature: 2056 K<br />(1782 °C)
+        temperature: 288 K<br />(15 °C)
       - name: Mirshil III d
         type: Asteroid
         formationType: Captured
@@ -313,14 +313,14 @@ planets:
         radius: 58,166.6 km<br/>(9.130 Yrths)
         surface_area: 4.252 × 10<sup>10</sup> km<sup>2</sup><br/>(83.355 Yrths)
         volume: 8.243 × 10<sup>14</sup> km<sup>3</sup><br/>(761.025 Yrths)
-        mass: 1.326 × 10<sup>27</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 1.326 × 10<sup>27</sup> kg<br />(222.091 Yrths)
         density: 1.609 g/cm<sup>3</sup>
         surface_gravity: 26.129 m/s<sup>2</sup><br />(2.664 g<sub>0</sub>)
         escape_velocity: 55.170 km/s<br />(198,614 km/h)
         rotation_period: 41.780 d
         axial_tilt: 57.41°
         albedo: 0.30
-        temperature: 1960 K<br />(1687 °C)
+        temperature: 288 K<br />(15 °C)
       - name: Mirshil III e
         type: Icy
         formationType: Accreted
@@ -333,14 +333,14 @@ planets:
         radius: 95,731.3 km<br/>(15.026 Yrths)
         surface_area: 1.152 × 10<sup>11</sup> km<sup>2</sup><br/>(225.784 Yrths)
         volume: 3.675 × 10<sup>15</sup> km<sup>3</sup><br/>(3392.648 Yrths)
-        mass: 4.944 × 10<sup>27</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 4.944 × 10<sup>27</sup> kg<br />(827.909 Yrths)
         density: 1.345 g/cm<sup>3</sup>
         surface_gravity: 35.959 m/s<sup>2</sup><br />(3.667 g<sub>0</sub>)
         escape_velocity: 83.031 km/s<br />(298,913 km/h)
         rotation_period: 81.455 d
         axial_tilt: 18.72°
         albedo: 0.30
-        temperature: 1869 K<br />(1596 °C)
+        temperature: 288 K<br />(15 °C)
       - name: Mirshil III f
         type: Icy
         formationType: Accreted
@@ -353,14 +353,14 @@ planets:
         radius: 73,306.4 km<br/>(11.506 Yrths)
         surface_area: 6.753 × 10<sup>10</sup> km<sup>2</sup><br/>(132.394 Yrths)
         volume: 1.650 × 10<sup>15</sup> km<sup>3</sup><br/>(1523.361 Yrths)
-        mass: 1.155 × 10<sup>27</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 1.155 × 10<sup>27</sup> kg<br />(193.416 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 14.327 m/s<sup>2</sup><br />(1.461 g<sub>0</sub>)
         escape_velocity: 45.862 km/s<br />(165,103 km/h)
         rotation_period: 76.561 d
         axial_tilt: 13.77°
         albedo: 0.30
-        temperature: 1782 K<br />(1509 °C)
+        temperature: 288 K<br />(15 °C)
       - name: Mirshil III g
         type: Icy
         formationType: Impact formed
@@ -373,14 +373,14 @@ planets:
         radius: 61,436.0 km<br/>(9.643 Yrths)
         surface_area: 4.743 × 10<sup>10</sup> km<sup>2</sup><br/>(92.989 Yrths)
         volume: 9.713 × 10<sup>14</sup> km<sup>3</sup><br/>(896.697 Yrths)
-        mass: 1.376 × 10<sup>27</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 1.376 × 10<sup>27</sup> kg<br />(230.388 Yrths)
         density: 1.417 g/cm<sup>3</sup>
         surface_gravity: 24.297 m/s<sup>2</sup><br />(2.478 g<sub>0</sub>)
         escape_velocity: 54.676 km/s<br />(196,833 km/h)
         rotation_period: 59.196 d
         axial_tilt: 15.90°
         albedo: 0.30
-        temperature: 1699 K<br />(1426 °C)
+        temperature: 288 K<br />(15 °C)
       - name: Mirshil III h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -393,14 +393,14 @@ planets:
         radius: 47,502.9 km<br/>(7.456 Yrths)
         surface_area: 2.836 × 10<sup>10</sup> km<sup>2</sup><br/>(55.594 Yrths)
         volume: 4.490 × 10<sup>14</sup> km<sup>3</sup><br/>(414.511 Yrths)
-        mass: 9.745 × 10<sup>26</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 9.745 × 10<sup>26</sup> kg<br />(163.178 Yrths)
         density: 2.170 g/cm<sup>3</sup>
         surface_gravity: 28.784 m/s<sup>2</sup><br />(2.935 g<sub>0</sub>)
         escape_velocity: 52.330 km/s<br />(188,387 km/h)
         rotation_period: 59.919 d
         axial_tilt: 22.41°
         albedo: 0.30
-        temperature: 1472 K<br />(1199 °C)
+        temperature: 288 K<br />(15 °C)
       - name: Mirshil III i
         type: Icy
         formationType: Accreted
@@ -413,14 +413,14 @@ planets:
         radius: 94,861.8 km<br/>(14.890 Yrths)
         surface_area: 1.131 × 10<sup>11</sup> km<sup>2</sup><br/>(221.701 Yrths)
         volume: 3.576 × 10<sup>15</sup> km<sup>3</sup><br/>(3301.040 Yrths)
-        mass: 3.640 × 10<sup>27</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 3.640 × 10<sup>27</sup> kg<br />(609.584 Yrths)
         density: 1.018 g/cm<sup>3</sup>
         surface_gravity: 26.964 m/s<sup>2</sup><br />(2.750 g<sub>0</sub>)
         escape_velocity: 71.573 km/s<br />(257,663 km/h)
         rotation_period: 63.108 d
         axial_tilt: 14.19°
         albedo: 0.30
-        temperature: 1404 K<br />(1131 °C)
+        temperature: 288 K<br />(15 °C)
       - name: Mirshil III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -433,14 +433,14 @@ planets:
         radius: 68,458.6 km<br/>(10.745 Yrths)
         surface_area: 5.889 × 10<sup>10</sup> km<sup>2</sup><br/>(115.463 Yrths)
         volume: 1.344 × 10<sup>15</sup> km<sup>3</sup><br/>(1240.685 Yrths)
-        mass: 2.565 × 10<sup>27</sup> kg<br />(50.20036382960849 Yrths)
+        mass: 2.565 × 10<sup>27</sup> kg<br />(429.513 Yrths)
         density: 1.909 g/cm<sup>3</sup>
         surface_gravity: 36.480 m/s<sup>2</sup><br />(3.720 g<sub>0</sub>)
         escape_velocity: 70.722 km/s<br />(254,598 km/h)
         rotation_period: 39.483 d
         axial_tilt: 16.96°
         albedo: 0.30
-        temperature: 1276 K<br />(1003 °C)
+        temperature: 288 K<br />(15 °C)
   - name: Mirshil IV
     type: Gas giant
     aphelion: 3,209,839,157 km<br />21.456 AU
@@ -452,14 +452,14 @@ planets:
     radius: 240.2 km<br/>(0.038 Yrths)
     surface_area: 7.251 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.806 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 2.206 × 10<sup>27</sup> kg<br />(369.4252260502649 Yrths)
+    mass: 2.206 × 10<sup>27</sup> kg<br />(369.43 Yrths)
     density: 37998876.152 g/cm<sup>3</sup>
     surface_gravity: 2548420.617 m/s<sup>2</sup><br />(259866.582 g<sub>0</sub>)
     escape_velocity: 1107.244 km/s<br />(3,986,077 km/h)
     rotation_period: 0.231 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 820 K<br />(546 °C)
+    temperature: 782 K<br />(509 °C)
     composition:
       - 79.5016% hydrogen
       - 20.1023% helium
@@ -477,14 +477,14 @@ planets:
         radius: 203,720.0 km<br/>(31.976 Yrths)
         surface_area: 5.215 × 10<sup>11</sup> km<sup>2</sup><br/>(1022.473 Yrths)
         volume: 3.542 × 10<sup>16</sup> km<sup>3</sup><br/>(32694.748 Yrths)
-        mass: 1.056 × 10<sup>29</sup> kg<br />(369.4252260502649 Yrths)
+        mass: 1.056 × 10<sup>29</sup> kg<br />(17674.379 Yrths)
         density: 2.980 g/cm<sup>3</sup>
         surface_gravity: 169.517 m/s<sup>2</sup><br />(17.286 g<sub>0</sub>)
         escape_velocity: 262.986 km/s<br />(946,750 km/h)
         rotation_period: 42.534 d
         axial_tilt: 17.12°
         albedo: 0.30
-        temperature: 1178 K<br />(905 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: Mirshil IV b
         type: Icy
         formationType: Captured
@@ -497,14 +497,14 @@ planets:
         radius: 251,261.7 km<br/>(39.438 Yrths)
         surface_area: 7.933 × 10<sup>11</sup> km<sup>2</sup><br/>(1555.383 Yrths)
         volume: 6.645 × 10<sup>16</sup> km<sup>3</sup><br/>(61341.745 Yrths)
-        mass: 8.727 × 10<sup>28</sup> kg<br />(369.4252260502649 Yrths)
+        mass: 8.727 × 10<sup>28</sup> kg<br />(14614.006 Yrths)
         density: 1.313 g/cm<sup>3</sup>
         surface_gravity: 92.141 m/s<sup>2</sup><br />(9.396 g<sub>0</sub>)
         escape_velocity: 215.327 km/s<br />(775,179 km/h)
         rotation_period: 44.381 d
         axial_tilt: 16.76°
         albedo: 0.30
-        temperature: 929 K<br />(655 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: Mirshil IV c
         type: Icy
         formationType: Accreted
@@ -517,14 +517,14 @@ planets:
         radius: 360,926.6 km<br/>(56.651 Yrths)
         surface_area: 1.637 × 10<sup>12</sup> km<sup>2</sup><br/>(3209.391 Yrths)
         volume: 1.969 × 10<sup>17</sup> km<sup>3</sup><br/>(181816.754 Yrths)
-        mass: 3.195 × 10<sup>29</sup> kg<br />(369.4252260502649 Yrths)
+        mass: 3.195 × 10<sup>29</sup> kg<br />(53507.649 Yrths)
         density: 1.623 g/cm<sup>3</sup>
         surface_gravity: 163.499 m/s<sup>2</sup><br />(16.672 g<sub>0</sub>)
         escape_velocity: 343.777 km/s<br />(1,237,596 km/h)
         rotation_period: 49.942 d
         axial_tilt: 21.09°
         albedo: 0.30
-        temperature: 844 K<br />(571 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: Mirshil IV d
         type: Icy
         formationType: Captured
@@ -537,14 +537,14 @@ planets:
         radius: 397,245.8 km<br/>(62.352 Yrths)
         surface_area: 1.983 × 10<sup>12</sup> km<sup>2</sup><br/>(3887.795 Yrths)
         volume: 2.626 × 10<sup>17</sup> km<sup>3</sup><br/>(242412.479 Yrths)
-        mass: 3.935 × 10<sup>29</sup> kg<br />(369.4252260502649 Yrths)
+        mass: 3.935 × 10<sup>29</sup> kg<br />(65898.944 Yrths)
         density: 1.499 g/cm<sup>3</sup>
         surface_gravity: 166.225 m/s<sup>2</sup><br />(16.950 g<sub>0</sub>)
         escape_velocity: 363.653 km/s<br />(1,309,151 km/h)
         rotation_period: 42.651 d
         axial_tilt: 9.82°
         albedo: 0.30
-        temperature: 698 K<br />(424 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: Mirshil IV e
         type: Icy
         formationType: Accreted
@@ -557,14 +557,14 @@ planets:
         radius: 429,159.4 km<br/>(67.361 Yrths)
         surface_area: 2.314 × 10<sup>12</sup> km<sup>2</sup><br/>(4537.557 Yrths)
         volume: 3.311 × 10<sup>17</sup> km<sup>3</sup><br/>(305656.141 Yrths)
-        mass: 3.595 × 10<sup>29</sup> kg<br />(369.4252260502649 Yrths)
+        mass: 3.595 × 10<sup>29</sup> kg<br />(60202.954 Yrths)
         density: 1.086 g/cm<sup>3</sup>
         surface_gravity: 130.112 m/s<sup>2</sup><br />(13.268 g<sub>0</sub>)
         escape_velocity: 334.409 km/s<br />(1,203,871 km/h)
         rotation_period: 86.646 d
         axial_tilt: 19.52°
         albedo: 0.30
-        temperature: 634 K<br />(361 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: Mirshil IV f
         type: Ice/rock hybrid
         formationType: Captured
@@ -577,14 +577,14 @@ planets:
         radius: 301,831.5 km<br/>(47.376 Yrths)
         surface_area: 1.145 × 10<sup>12</sup> km<sup>2</sup><br/>(2244.471 Yrths)
         volume: 1.152 × 10<sup>17</sup> km<sup>3</sup><br/>(106333.706 Yrths)
-        mass: 2.392 × 10<sup>29</sup> kg<br />(369.4252260502649 Yrths)
+        mass: 2.392 × 10<sup>29</sup> kg<br />(40051.069 Yrths)
         density: 2.077 g/cm<sup>3</sup>
         surface_gravity: 174.993 m/s<sup>2</sup><br />(17.844 g<sub>0</sub>)
         escape_velocity: 325.239 km/s<br />(1,170,860 km/h)
         rotation_period: 46.603 d
         axial_tilt: 20.51°
         albedo: 0.30
-        temperature: 524 K<br />(251 °C)
+        temperature: 200 K<br />(-73 °C)
       - name: Mirshil IV g
         type: Icy
         formationType: Accreted
@@ -597,14 +597,14 @@ planets:
         radius: 297,203.3 km<br/>(46.649 Yrths)
         surface_area: 1.110 × 10<sup>12</sup> km<sup>2</sup><br/>(2176.166 Yrths)
         volume: 1.100 × 10<sup>17</sup> km<sup>3</sup><br/>(101516.822 Yrths)
-        mass: 9.979 × 10<sup>28</sup> kg<br />(369.4252260502649 Yrths)
+        mass: 9.979 × 10<sup>28</sup> kg<br />(16710.411 Yrths)
         density: 0.908 g/cm<sup>3</sup>
         surface_gravity: 75.304 m/s<sup>2</sup><br />(7.679 g<sub>0</sub>)
         escape_velocity: 211.712 km/s<br />(762,162 km/h)
         rotation_period: 65.840 d
         axial_tilt: 21.45°
         albedo: 0.30
-        temperature: 476 K<br />(203 °C)
+        temperature: 200 K<br />(-73 °C)
   - name: Mirshil V
     type: Gas giant
     aphelion: 11,345,275,269 km<br />75.837 AU
@@ -616,14 +616,14 @@ planets:
     radius: 213.0 km<br/>(0.033 Yrths)
     surface_area: 5.701 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.048 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.317 × 10<sup>27</sup> kg<br />(220.57568001106736 Yrths)
+    mass: 1.317 × 10<sup>27</sup> kg<br />(220.58 Yrths)
     density: 32540503.343 g/cm<sup>3</sup>
     surface_gravity: 1935161.191 m/s<sup>2</sup><br />(197331.524 g<sub>0</sub>)
     escape_velocity: 908.579 km/s<br />(3,270,883 km/h)
     rotation_period: 0.243 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 550 K<br />(277 °C)
+    temperature: 532 K<br />(259 °C)
     composition:
       - 73.5524% hydrogen
       - 22.1988% helium
@@ -641,14 +641,14 @@ planets:
         radius: 107,342.0 km<br/>(16.849 Yrths)
         surface_area: 1.448 × 10<sup>11</sup> km<sup>2</sup><br/>(283.873 Yrths)
         volume: 5.181 × 10<sup>15</sup> km<sup>3</sup><br/>(4782.845 Yrths)
-        mass: 1.533 × 10<sup>28</sup> kg<br />(220.57568001106736 Yrths)
+        mass: 1.533 × 10<sup>28</sup> kg<br />(2566.435 Yrths)
         density: 2.958 g/cm<sup>3</sup>
         surface_gravity: 88.660 m/s<sup>2</sup><br />(9.041 g<sub>0</sub>)
         escape_velocity: 138.057 km/s<br />(497,005 km/h)
         rotation_period: 31.760 d
         axial_tilt: 18.63°
         albedo: 0.30
-        temperature: 737 K<br />(464 °C)
+        temperature: 139 K<br />(-135 °C)
       - name: Mirshil V b
         type: Icy
         formationType: Accreted
@@ -661,14 +661,14 @@ planets:
         radius: 140,118.4 km<br/>(21.993 Yrths)
         surface_area: 2.467 × 10<sup>11</sup> km<sup>2</sup><br/>(483.699 Yrths)
         volume: 1.152 × 10<sup>16</sup> km<sup>3</sup><br/>(10638.073 Yrths)
-        mass: 1.439 × 10<sup>28</sup> kg<br />(220.57568001106736 Yrths)
+        mass: 1.439 × 10<sup>28</sup> kg<br />(2410.237 Yrths)
         density: 1.249 g/cm<sup>3</sup>
         surface_gravity: 48.866 m/s<sup>2</sup><br />(4.983 g<sub>0</sub>)
         escape_velocity: 117.101 km/s<br />(421,563 km/h)
         rotation_period: 55.926 d
         axial_tilt: 19.40°
         albedo: 0.30
-        temperature: 639 K<br />(366 °C)
+        temperature: 139 K<br />(-135 °C)
       - name: Mirshil V c
         type: Icy
         formationType: Accreted
@@ -681,14 +681,14 @@ planets:
         radius: 172,418.0 km<br/>(27.063 Yrths)
         surface_area: 3.736 × 10<sup>11</sup> km<sup>2</sup><br/>(732.402 Yrths)
         volume: 2.147 × 10<sup>16</sup> km<sup>3</sup><br/>(19820.962 Yrths)
-        mass: 1.892 × 10<sup>28</sup> kg<br />(220.57568001106736 Yrths)
+        mass: 1.892 × 10<sup>28</sup> kg<br />(3168.460 Yrths)
         density: 0.881 g/cm<sup>3</sup>
         surface_gravity: 42.425 m/s<sup>2</sup><br />(4.326 g<sub>0</sub>)
         escape_velocity: 121.035 km/s<br />(435,726 km/h)
         rotation_period: 71.420 d
         axial_tilt: 20.48°
         albedo: 0.30
-        temperature: 609 K<br />(336 °C)
+        temperature: 139 K<br />(-135 °C)
       - name: Mirshil V d
         type: Asteroid
         formationType: Captured
@@ -701,14 +701,14 @@ planets:
         radius: 126,126.1 km<br/>(19.797 Yrths)
         surface_area: 1.999 × 10<sup>11</sup> km<sup>2</sup><br/>(391.918 Yrths)
         volume: 8.404 × 10<sup>15</sup> km<sup>3</sup><br/>(7758.759 Yrths)
-        mass: 1.619 × 10<sup>28</sup> kg<br />(220.57568001106736 Yrths)
+        mass: 1.619 × 10<sup>28</sup> kg<br />(2710.369 Yrths)
         density: 1.926 g/cm<sup>3</sup>
         surface_gravity: 67.819 m/s<sup>2</sup><br />(6.916 g<sub>0</sub>)
         escape_velocity: 130.885 km/s<br />(471,186 km/h)
         rotation_period: 42.268 d
         axial_tilt: 37.43°
         albedo: 0.30
-        temperature: 298 K<br />(25 °C)
+        temperature: 139 K<br />(-135 °C)
       - name: Mirshil V e
         type: Icy
         formationType: Captured
@@ -721,14 +721,14 @@ planets:
         radius: 141,514.5 km<br/>(22.212 Yrths)
         surface_area: 2.517 × 10<sup>11</sup> km<sup>2</sup><br/>(493.386 Yrths)
         volume: 1.187 × 10<sup>16</sup> km<sup>3</sup><br/>(10959.222 Yrths)
-        mass: 1.840 × 10<sup>28</sup> kg<br />(220.57568001106736 Yrths)
+        mass: 1.840 × 10<sup>28</sup> kg<br />(3081.399 Yrths)
         density: 1.550 g/cm<sup>3</sup>
         surface_gravity: 61.247 m/s<sup>2</sup><br />(6.245 g<sub>0</sub>)
         escape_velocity: 131.750 km/s<br />(474,301 km/h)
         rotation_period: 66.230 d
         axial_tilt: 7.14°
         albedo: 0.30
-        temperature: 204 K<br />(-70 °C)
+        temperature: 139 K<br />(-135 °C)
       - name: Mirshil V f
         type: Icy
         formationType: Captured
@@ -741,12 +741,12 @@ planets:
         radius: 150,703.9 km<br/>(23.655 Yrths)
         surface_area: 2.854 × 10<sup>11</sup> km<sup>2</sup><br/>(559.544 Yrths)
         volume: 1.434 × 10<sup>16</sup> km<sup>3</sup><br/>(13235.822 Yrths)
-        mass: 1.584 × 10<sup>28</sup> kg<br />(220.57568001106736 Yrths)
+        mass: 1.584 × 10<sup>28</sup> kg<br />(2652.574 Yrths)
         density: 1.105 g/cm<sup>3</sup>
         surface_gravity: 46.489 m/s<sup>2</sup><br />(4.741 g<sub>0</sub>)
         escape_velocity: 118.454 km/s<br />(426,434 km/h)
         rotation_period: 55.658 d
         axial_tilt: 21.79°
         albedo: 0.30
-        temperature: 176 K<br />(-97 °C)
+        temperature: 139 K<br />(-135 °C)
 ---

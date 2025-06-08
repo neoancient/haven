@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      13124 Narashiad is a star in the constellation Naras
+      13124 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 547.65 ly
 apparent_magnitude: 11.21
 absolute_magnitude: 5.08

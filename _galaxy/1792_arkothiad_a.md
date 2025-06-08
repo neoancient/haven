@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1792 Arkothiad A is a star in the constellation Arkoth
+      1792 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 482.22 ly
 apparent_magnitude: 6.72
 absolute_magnitude: 0.87

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      τ Olliad B is a star in the constellation Ol
+      τ Olliad B is a star in the constellation <a href="ol.html">Ol</a>
 distance: 283.18 ly
 apparent_magnitude: 9.57
 absolute_magnitude: 4.87

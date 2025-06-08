@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7071 Dialkeshiad A is a star in the constellation Dialkes
+      7071 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 672.74 ly
 apparent_magnitude: 7.52
 absolute_magnitude: 0.95

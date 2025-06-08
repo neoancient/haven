@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6018 Dialkeshiad is a star in the constellation Dialkes
+      6018 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 348.48 ly
 apparent_magnitude: 11.85
 absolute_magnitude: 6.71

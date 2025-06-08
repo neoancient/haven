@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2317 Dialkeshiad is a star in the constellation Dialkes
+      2317 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 614.45 ly
 apparent_magnitude: 14.38
 absolute_magnitude: 8.01

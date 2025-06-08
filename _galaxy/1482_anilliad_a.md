@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1482 Anilliad A is a star in the constellation Anil
+      1482 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 453.08 ly
 apparent_magnitude: 11.72
 absolute_magnitude: 6.00

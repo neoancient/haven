@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2774 Anilliad A is a star in the constellation Anil
+      2774 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 475.86 ly
 apparent_magnitude: 7.89
 absolute_magnitude: 2.07

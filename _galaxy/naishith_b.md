@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Naishith B is a star in the constellation Irsa
+      Naishith B is a star in the constellation <a href="irsa.html">Irsa</a>
 distance: 1148.62 ly
 apparent_magnitude: 4.91
 absolute_magnitude: -2.82

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3462 Anilliad is a star in the constellation Anil
+      3462 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 340.00 ly
 apparent_magnitude: 17.92
 absolute_magnitude: 12.83

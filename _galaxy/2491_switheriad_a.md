@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2491 Switheriad A is a star in the constellation Swither
+      2491 Switheriad A is a star in the constellation <a href="swither.html">Swither</a>
 distance: 154.76 ly
 apparent_magnitude: 8.65
 absolute_magnitude: 5.27

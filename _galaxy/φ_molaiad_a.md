@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      φ Molaiad A is a star in the constellation Mola
+      φ Molaiad A is a star in the constellation <a href="mola.html">Mola</a>
 distance: 354.79 ly
 apparent_magnitude: 6.49
 absolute_magnitude: 1.31

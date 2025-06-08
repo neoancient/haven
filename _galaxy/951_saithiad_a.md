@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      951 Saithiad A is a star in the constellation Saith
+      951 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 398.85 ly
 apparent_magnitude: 7.37
 absolute_magnitude: 1.93

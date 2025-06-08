@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      772 Ratharshinniad is a star in the constellation Ratharshin
+      772 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 463.56 ly
 apparent_magnitude: 8.55
 absolute_magnitude: 2.78

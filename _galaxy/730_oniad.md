@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      730 Oniad is a star in the constellation Oni
+      730 Oniad is a star in the constellation <a href="oni.html">Oni</a>
 distance: 259.76 ly
 apparent_magnitude: 8.35
 absolute_magnitude: 3.84

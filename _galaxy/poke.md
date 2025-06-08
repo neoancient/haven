@@ -7,7 +7,7 @@ sections:
   - content: >-
       Poke is a constellation representing a Cat.
 stars:
-  - name:
+  - name: <a href="turiorshen.html">Turiorshen</a>
     designation: α Pokiad
     ra: 19<sup>h</sup> 25<sup>m</sup> 44.14<sup>s</sup>
     dec: 9° 40' 43.54"
@@ -192,7 +192,7 @@ stars:
     distance: 31.25
     spectral_class: G3V + DQ
   - name:
-    designation: σ Pokiad
+    designation: <a href="σ_pokiad.html">σ Pokiad</a>
     ra: 19<sup>h</sup> 23<sup>m</sup> 16.58<sup>s</sup>
     dec: -2° 00' 4.49"
     apparent_magnitude: 5.47
@@ -208,7 +208,7 @@ stars:
     distance: 803.20
     spectral_class: A7II
   - name:
-    designation: 0026 Pokiad
+    designation: <a href="0026_pokiad.html">0026 Pokiad</a>
     ra: 19<sup>h</sup> 25<sup>m</sup> 45.61<sup>s</sup>
     dec: 2° 55' 5.35"
     apparent_magnitude: 5.61
@@ -224,7 +224,7 @@ stars:
     distance: 489.37
     spectral_class: A2IV + G1V
   - name:
-    designation: 0027 Pokiad
+    designation: <a href="0027_pokiad.html">0027 Pokiad</a>
     ra: 19<sup>h</sup> 24<sup>m</sup> 40.75<sup>s</sup>
     dec: 3° 56' 4.46"
     apparent_magnitude: 5.68
@@ -248,7 +248,7 @@ stars:
     distance: 181.89
     spectral_class: A4V + F8V
   - name:
-    designation: 0004 Pokiad
+    designation: <a href="0004_pokiad.html">0004 Pokiad</a>
     ra: 19<sup>h</sup> 17<sup>m</sup> 54.94<sup>s</sup>
     dec: -7° 00' 1.76"
     apparent_magnitude: 5.91
@@ -256,7 +256,7 @@ stars:
     distance: 54.24
     spectral_class: F9V
   - name:
-    designation: 0005 Pokiad
+    designation: <a href="0005_pokiad.html">0005 Pokiad</a>
     ra: 19<sup>h</sup> 14<sup>m</sup> 49.14<sup>s</sup>
     dec: -8° 45' 4.11"
     apparent_magnitude: 5.92
@@ -272,7 +272,7 @@ stars:
     distance: 138.85
     spectral_class: A6V
   - name:
-    designation: 0018 Pokiad
+    designation: <a href="0018_pokiad.html">0018 Pokiad</a>
     ra: 19<sup>h</sup> 22<sup>m</sup> 41.91<sup>s</sup>
     dec: 1° 02' 36.39"
     apparent_magnitude: 5.93
@@ -328,7 +328,7 @@ stars:
     distance: 247.02
     spectral_class: A1V
   - name:
-    designation: 0010 Pokiad
+    designation: <a href="0010_pokiad.html">0010 Pokiad</a>
     ra: 19<sup>h</sup> 26<sup>m</sup> 44.47<sup>s</sup>
     dec: -11° 05' 15.85"
     apparent_magnitude: 6.05
@@ -344,7 +344,7 @@ stars:
     distance: 579.55
     spectral_class: A5III
   - name:
-    designation: 0012 Pokiad
+    designation: <a href="0012_pokiad.html">0012 Pokiad</a>
     ra: 19<sup>h</sup> 12<sup>m</sup> 19.48<sup>s</sup>
     dec: 0° 19' 2.71"
     apparent_magnitude: 6.07
@@ -360,7 +360,7 @@ stars:
     distance: 752.30
     spectral_class: A5III
   - name:
-    designation: 0009 Pokiad
+    designation: <a href="0009_pokiad.html">0009 Pokiad</a>
     ra: 20<sup>h</sup> 18<sup>m</sup> 3.38<sup>s</sup>
     dec: -8° 11' 28.55"
     apparent_magnitude: 6.14
@@ -424,7 +424,7 @@ stars:
     distance: 166.24
     spectral_class: F5V + A7V + DB
   - name:
-    designation: 0042 Pokiad
+    designation: <a href="0042_pokiad.html">0042 Pokiad</a>
     ra: 20<sup>h</sup> 03<sup>m</sup> 21.90<sup>s</sup>
     dec: 12° 14' 26.45"
     apparent_magnitude: 6.30
@@ -448,7 +448,7 @@ stars:
     distance: 390.54
     spectral_class: A5IV + G5V + F8V
   - name:
-    designation: 0002 Pokiad
+    designation: <a href="0002_pokiad.html">0002 Pokiad</a>
     ra: 19<sup>h</sup> 10<sup>m</sup> 9.36<sup>s</sup>
     dec: -9° 05' 6.27"
     apparent_magnitude: 6.33
@@ -480,7 +480,7 @@ stars:
     distance: 283.57
     spectral_class: A9III
   - name:
-    designation: 0037 Pokiad
+    designation: <a href="0037_pokiad.html">0037 Pokiad</a>
     ra: 19<sup>h</sup> 43<sup>m</sup> 23.22<sup>s</sup>
     dec: 13° 07' 58.86"
     apparent_magnitude: 6.42
@@ -520,7 +520,7 @@ stars:
     distance: 329.04
     spectral_class: A8IV + M0III
   - name:
-    designation: 0024 Pokiad
+    designation: <a href="0024_pokiad.html">0024 Pokiad</a>
     ra: 19<sup>h</sup> 20<sup>m</sup> 53.16<sup>s</sup>
     dec: 1° 43' 30.46"
     apparent_magnitude: 6.46
@@ -528,7 +528,7 @@ stars:
     distance: 634.81
     spectral_class: M8Ia
   - name:
-    designation: 0007 Pokiad
+    designation: <a href="0007_pokiad.html">0007 Pokiad</a>
     ra: 19<sup>h</sup> 04<sup>m</sup> 47.80<sup>s</sup>
     dec: -9° 28' 46.61"
     apparent_magnitude: 6.47
@@ -536,7 +536,7 @@ stars:
     distance: 555.41
     spectral_class: A4IV
   - name:
-    designation: 0019 Pokiad
+    designation: <a href="0019_pokiad.html">0019 Pokiad</a>
     ra: 19<sup>h</sup> 30<sup>m</sup> 56.12<sup>s</sup>
     dec: 0° 11' 19.12"
     apparent_magnitude: 6.49

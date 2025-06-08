@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      114 Reggiad is a star in the constellation Reg
+      114 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 449.54 ly
 apparent_magnitude: 15.68
 absolute_magnitude: 9.98

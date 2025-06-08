@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11612 Dialkeshiad is a star in the constellation Dialkes
+      11612 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 277.28 ly
 apparent_magnitude: 10.23
 absolute_magnitude: 5.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      349 Reggiad is a star in the constellation Reg
+      349 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 2021.24 ly
 apparent_magnitude: 10.57
 absolute_magnitude: 1.61

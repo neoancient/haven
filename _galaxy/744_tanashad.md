@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      744 Tanashad is a star in the constellation Tanas
+      744 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 872.81 ly
 apparent_magnitude: 6.62
 absolute_magnitude: -0.52
@@ -31,15 +31,15 @@ planets:
     radius: 11,807.3 km<br/>(1.853 Yrths)
     surface_area: 1.752 × 10<sup>09</sup> km<sup>2</sup><br/>(3.435 Yrths)
     volume: 6.895 × 10<sup>12</sup> km<sup>3</sup><br/>(6.365 Yrths)
-    mass: 4.591 × 10<sup>25</sup> kg<br />(7.6878936329702965 Yrths)
+    mass: 4.591 × 10<sup>25</sup> kg<br />(7.69 Yrths)
     density: 6.659 g/cm<sup>3</sup>
     surface_gravity: 21.950 m/s<sup>2</sup><br />(2.238 g<sub>0</sub>)
     escape_velocity: 22.783 km/s<br />(82,018 km/h)
     rotation_period: 0.533 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 602 K<br />(329 °C)
-    surface_pressure: 4,179 kPa<br />(41 atm)
+    temperature: 650 K<br />(376 °C)
+    surface_pressure: 4,179 kPa<br />(42 atm)
     composition:
       - 85.2577% nitrogen
       - 7.2145% carbon dioxide
@@ -61,14 +61,14 @@ planets:
         radius: 10,070.0 km<br/>(1.581 Yrths)
         surface_area: 1.274 × 10<sup>09</sup> km<sup>2</sup><br/>(2.498 Yrths)
         volume: 4.277 × 10<sup>12</sup> km<sup>3</sup><br/>(3.949 Yrths)
-        mass: 1.137 × 10<sup>25</sup> kg<br />(7.6878936329702965 Yrths)
+        mass: 1.137 × 10<sup>25</sup> kg<br />(1.904 Yrths)
         density: 2.659 g/cm<sup>3</sup>
         surface_gravity: 7.475 m/s<sup>2</sup><br />(0.762 g<sub>0</sub>)
         escape_velocity: 12.278 km/s<br />(44,202 km/h)
         rotation_period: 56.578 d
         axial_tilt: 11.49°
         albedo: 0.30
-        temperature: 4798 K<br />(4525 °C)
+        temperature: 391 K<br />(118 °C)
       - name: 744 Tanashad I b
         type: Icy
         formationType: Impact formed
@@ -81,12 +81,12 @@ planets:
         radius: 8,277.1 km<br/>(1.299 Yrths)
         surface_area: 8.609 × 10<sup>08</sup> km<sup>2</sup><br/>(1.688 Yrths)
         volume: 2.375 × 10<sup>12</sup> km<sup>3</sup><br/>(2.193 Yrths)
-        mass: 2.974 × 10<sup>24</sup> kg<br />(7.6878936329702965 Yrths)
+        mass: 2.974 × 10<sup>24</sup> kg<br />(0.498 Yrths)
         density: 1.252 g/cm<sup>3</sup>
         surface_gravity: 2.893 m/s<sup>2</sup><br />(0.295 g<sub>0</sub>)
         escape_velocity: 6.926 km/s<br />(24,932 km/h)
         rotation_period: 51.425 d
         axial_tilt: 24.76°
         albedo: 0.30
-        temperature: 4575 K<br />(4302 °C)
+        temperature: 391 K<br />(118 °C)
 ---

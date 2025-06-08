@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1040 Lulithannaid is a star in the constellation Lulithan
+      1040 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 304.24 ly
 apparent_magnitude: 14.66
 absolute_magnitude: 9.81

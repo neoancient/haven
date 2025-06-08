@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Ratharshinniad C is a star in the constellation Ratharshin
+      θ Ratharshinniad C is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1105.11 ly
 apparent_magnitude: 12.54
 absolute_magnitude: 4.89
@@ -31,7 +31,7 @@ planets:
     radius: 166.0 km<br/>(0.026 Yrths)
     surface_area: 3.463 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.916 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 4.573 × 10<sup>26</sup> kg<br />(76.5798605941601 Yrths)
+    mass: 4.573 × 10<sup>26</sup> kg<br />(76.58 Yrths)
     density: 23867444.314 g/cm<sup>3</sup>
     surface_gravity: 1106175.143 m/s<sup>2</sup><br />(112798.473 g<sub>0</sub>)
     escape_velocity: 606.427 km/s<br />(2,183,137 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 105,904.2 km<br/>(16.623 Yrths)
         surface_area: 1.409 × 10<sup>11</sup> km<sup>2</sup><br/>(276.319 Yrths)
         volume: 4.975 × 10<sup>15</sup> km<sup>3</sup><br/>(4593.217 Yrths)
-        mass: 5.122 × 10<sup>27</sup> kg<br />(76.5798605941601 Yrths)
+        mass: 5.122 × 10<sup>27</sup> kg<br />(857.715 Yrths)
         density: 1.030 g/cm<sup>3</sup>
         surface_gravity: 30.441 m/s<sup>2</sup><br />(3.104 g<sub>0</sub>)
         escape_velocity: 80.351 km/s<br />(289,265 km/h)
         rotation_period: 64.505 d
         axial_tilt: 15.76°
         albedo: 0.30
-        temperature: 981 K<br />(708 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: θ Ratharshinniad C I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -72,14 +72,14 @@ planets:
         radius: 66,102.4 km<br/>(10.376 Yrths)
         surface_area: 5.491 × 10<sup>10</sup> km<sup>2</sup><br/>(107.651 Yrths)
         volume: 1.210 × 10<sup>15</sup> km<sup>3</sup><br/>(1116.939 Yrths)
-        mass: 2.879 × 10<sup>27</sup> kg<br />(76.5798605941601 Yrths)
+        mass: 2.879 × 10<sup>27</sup> kg<br />(482.014 Yrths)
         density: 2.379 g/cm<sup>3</sup>
         surface_gravity: 43.910 m/s<sup>2</sup><br />(4.478 g<sub>0</sub>)
         escape_velocity: 76.243 km/s<br />(274,474 km/h)
         rotation_period: 46.171 d
         axial_tilt: 21.45°
         albedo: 0.30
-        temperature: 737 K<br />(464 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: θ Ratharshinniad C I c
         type: Asteroid
         formationType: Captured
@@ -92,14 +92,14 @@ planets:
         radius: 99,756.4 km<br/>(15.658 Yrths)
         surface_area: 1.251 × 10<sup>11</sup> km<sup>2</sup><br/>(245.169 Yrths)
         volume: 4.158 × 10<sup>15</sup> km<sup>3</sup><br/>(3838.835 Yrths)
-        mass: 6.104 × 10<sup>27</sup> kg<br />(76.5798605941601 Yrths)
+        mass: 6.104 × 10<sup>27</sup> kg<br />(1022.047 Yrths)
         density: 1.468 g/cm<sup>3</sup>
         surface_gravity: 40.881 m/s<sup>2</sup><br />(4.169 g<sub>0</sub>)
         escape_velocity: 90.374 km/s<br />(325,346 km/h)
         rotation_period: 46.902 d
         axial_tilt: 18.13°
         albedo: 0.30
-        temperature: 416 K<br />(143 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: θ Ratharshinniad C I d
         type: Dwarf planet
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 107,900.2 km<br/>(16.936 Yrths)
         surface_area: 1.463 × 10<sup>11</sup> km<sup>2</sup><br/>(286.833 Yrths)
         volume: 5.262 × 10<sup>15</sup> km<sup>3</sup><br/>(4857.842 Yrths)
-        mass: 7.101 × 10<sup>27</sup> kg<br />(76.5798605941601 Yrths)
+        mass: 7.101 × 10<sup>27</sup> kg<br />(1189.033 Yrths)
         density: 1.349 g/cm<sup>3</sup>
         surface_gravity: 40.652 m/s<sup>2</sup><br />(4.145 g<sub>0</sub>)
         escape_velocity: 93.727 km/s<br />(337,416 km/h)
         rotation_period: 48.813 d
         axial_tilt: 17.86°
         albedo: 0.30
-        temperature: 224 K<br />(-49 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: θ Ratharshinniad C I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 74,302.7 km<br/>(11.663 Yrths)
         surface_area: 6.938 × 10<sup>10</sup> km<sup>2</sup><br/>(136.017 Yrths)
         volume: 1.718 × 10<sup>15</sup> km<sup>3</sup><br/>(1586.322 Yrths)
-        mass: 3.143 × 10<sup>27</sup> kg<br />(76.5798605941601 Yrths)
+        mass: 3.143 × 10<sup>27</sup> kg<br />(526.280 Yrths)
         density: 1.829 g/cm<sup>3</sup>
         surface_gravity: 37.944 m/s<sup>2</sup><br />(3.869 g<sub>0</sub>)
         escape_velocity: 75.142 km/s<br />(270,512 km/h)
         rotation_period: 61.809 d
         axial_tilt: 31.25°
         albedo: 0.30
-        temperature: 194 K<br />(-79 °C)
+        temperature: 228 K<br />(-45 °C)
       - name: θ Ratharshinniad C I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -152,12 +152,12 @@ planets:
         radius: 86,682.8 km<br/>(13.606 Yrths)
         surface_area: 9.442 × 10<sup>10</sup> km<sup>2</sup><br/>(185.119 Yrths)
         volume: 2.728 × 10<sup>15</sup> km<sup>3</sup><br/>(2518.695 Yrths)
-        mass: 4.805 × 10<sup>27</sup> kg<br />(76.5798605941601 Yrths)
+        mass: 4.805 × 10<sup>27</sup> kg<br />(804.646 Yrths)
         density: 1.761 g/cm<sup>3</sup>
         surface_gravity: 42.626 m/s<sup>2</sup><br />(4.347 g<sub>0</sub>)
         escape_velocity: 86.023 km/s<br />(309,682 km/h)
         rotation_period: 41.212 d
         axial_tilt: 22.93°
         albedo: 0.30
-        temperature: 95 K<br />(-178 °C)
+        temperature: 228 K<br />(-45 °C)
 ---

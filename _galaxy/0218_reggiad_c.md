@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0218 Reggiad C is a star in the constellation Reg
+      0218 Reggiad C is a star in the constellation <a href="reg.html">Reg</a>
 distance: 9636.01 ly
 apparent_magnitude: 16.94
 absolute_magnitude: 4.59

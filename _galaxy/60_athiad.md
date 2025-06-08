@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      60 Athiad is a star in the constellation Ath
+      60 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 222.73 ly
 apparent_magnitude: 10.17
 absolute_magnitude: 6.00

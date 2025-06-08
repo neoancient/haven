@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      28347 Geardiad is a star in the constellation Geard
+      28347 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 614.14 ly
 apparent_magnitude: 8.50
 absolute_magnitude: 2.13

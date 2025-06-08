@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2506 Tanashad is a star in the constellation Tanas
+      2506 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 881.89 ly
 apparent_magnitude: 12.54
 absolute_magnitude: 5.38

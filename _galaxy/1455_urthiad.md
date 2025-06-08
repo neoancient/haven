@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1455 Urthiad is a star in the constellation Urth
+      1455 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 212.78 ly
 apparent_magnitude: 18.64
 absolute_magnitude: 14.57

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4704 Arkothiad is a star in the constellation Arkoth
+      4704 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 513.59 ly
 apparent_magnitude: 12.19
 absolute_magnitude: 6.20

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1086 Keead is a star in the constellation Kee
+      1086 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 557.64 ly
 apparent_magnitude: 11.16
 absolute_magnitude: 5.00

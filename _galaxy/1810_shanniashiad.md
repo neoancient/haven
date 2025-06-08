@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1810 Shanniashiad is a star in the constellation Shannias
+      1810 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 574.35 ly
 apparent_magnitude: 12.06
 absolute_magnitude: 5.83

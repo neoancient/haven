@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0015 Nwaliad A is a star in the constellation Nwal
+      0015 Nwaliad A is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 1129.02 ly
 apparent_magnitude: 7.03
 absolute_magnitude: -0.67

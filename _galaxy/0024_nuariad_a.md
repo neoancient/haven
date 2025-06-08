@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0024 Nuariad A is a star in the constellation Nuari
+      0024 Nuariad A is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 231.49 ly
 apparent_magnitude: 6.24
 absolute_magnitude: 1.98

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9301 Tanashad is a star in the constellation Tanas
+      9301 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 301.39 ly
 apparent_magnitude: 11.14
 absolute_magnitude: 6.31

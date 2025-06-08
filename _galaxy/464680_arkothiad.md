@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      464680 Arkothiad is a star in the constellation Arkoth
+      464680 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 497.75 ly
 apparent_magnitude: 11.24
 absolute_magnitude: 5.32

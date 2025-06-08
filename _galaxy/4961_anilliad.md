@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4961 Anilliad is a star in the constellation Anil
+      4961 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 593.62 ly
 apparent_magnitude: 11.22
 absolute_magnitude: 4.92

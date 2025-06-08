@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10392 Arkothiad is a star in the constellation Arkoth
+      10392 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 277.60 ly
 apparent_magnitude: 11.15
 absolute_magnitude: 6.50

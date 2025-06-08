@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10921 Athiad is a star in the constellation Ath
+      10921 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 523.65 ly
 apparent_magnitude: 8.60
 absolute_magnitude: 2.58

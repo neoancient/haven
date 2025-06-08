@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      926 Keead is a star in the constellation Kee
+      926 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 561.57 ly
 apparent_magnitude: 11.18
 absolute_magnitude: 5.00

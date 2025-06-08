@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      15143 Athiad A is a star in the constellation Ath
+      15143 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 454.47 ly
 apparent_magnitude: 7.85
 absolute_magnitude: 2.13

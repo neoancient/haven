@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0042 Niniunniad B is a star in the constellation Niniun
+      0042 Niniunniad B is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 253.99 ly
 apparent_magnitude: 10.39
 absolute_magnitude: 5.93

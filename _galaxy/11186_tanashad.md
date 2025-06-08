@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11186 Tanashad is a star in the constellation Tanas
+      11186 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 183.65 ly
 apparent_magnitude: 16.59
 absolute_magnitude: 12.83

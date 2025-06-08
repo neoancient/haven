@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      856 Dialkeshiad is a star in the constellation Dialkes
+      856 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 301.03 ly
 apparent_magnitude: 10.48
 absolute_magnitude: 5.65

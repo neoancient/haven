@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3698 Narashiad A is a star in the constellation Naras
+      3698 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 308.46 ly
 apparent_magnitude: 10.88
 absolute_magnitude: 6.00

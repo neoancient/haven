@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8701 Tanashad is a star in the constellation Tanas
+      8701 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 237.85 ly
 apparent_magnitude: 6.99
 absolute_magnitude: 2.68
@@ -31,14 +31,14 @@ planets:
     radius: 18,155.0 km<br/>(2.850 Yrths)
     surface_area: 4.142 × 10<sup>09</sup> km<sup>2</sup><br/>(8.120 Yrths)
     volume: 2.507 × 10<sup>13</sup> km<sup>3</sup><br/>(23.140 Yrths)
-    mass: 3.474 × 10<sup>25</sup> kg<br />(5.816374091818332 Yrths)
+    mass: 3.474 × 10<sup>25</sup> kg<br />(5.82 Yrths)
     density: 1.386 g/cm<sup>3</sup>
     surface_gravity: 7.024 m/s<sup>2</sup><br />(0.716 g<sub>0</sub>)
     escape_velocity: 15.981 km/s<br />(57,532 km/h)
     rotation_period: 0.423 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 741 K<br />(468 °C)
+    temperature: 759 K<br />(486 °C)
     composition:
       - 56.4220% hydrogen
       - 36.8973% helium
@@ -59,14 +59,14 @@ planets:
         radius: 13,736.3 km<br/>(2.156 Yrths)
         surface_area: 2.371 × 10<sup>09</sup> km<sup>2</sup><br/>(4.649 Yrths)
         volume: 1.086 × 10<sup>13</sup> km<sup>3</sup><br/>(10.023 Yrths)
-        mass: 1.520 × 10<sup>25</sup> kg<br />(5.816374091818332 Yrths)
+        mass: 1.520 × 10<sup>25</sup> kg<br />(2.546 Yrths)
         density: 1.400 g/cm<sup>3</sup>
         surface_gravity: 5.371 m/s<sup>2</sup><br />(0.548 g<sub>0</sub>)
         escape_velocity: 12.155 km/s<br />(43,758 km/h)
         rotation_period: 66.459 d
         axial_tilt: 13.20°
         albedo: 0.30
-        temperature: 4085 K<br />(3811 °C)
+        temperature: 372 K<br />(99 °C)
       - name: 8701 Tanashad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 9,980.3 km<br/>(1.567 Yrths)
         surface_area: 1.252 × 10<sup>09</sup> km<sup>2</sup><br/>(2.454 Yrths)
         volume: 4.164 × 10<sup>12</sup> km<sup>3</sup><br/>(3.844 Yrths)
-        mass: 1.063 × 10<sup>25</sup> kg<br />(5.816374091818332 Yrths)
+        mass: 1.063 × 10<sup>25</sup> kg<br />(1.779 Yrths)
         density: 2.552 g/cm<sup>3</sup>
         surface_gravity: 7.111 m/s<sup>2</sup><br />(0.725 g<sub>0</sub>)
         escape_velocity: 11.922 km/s<br />(42,918 km/h)
         rotation_period: 50.417 d
         axial_tilt: 28.60°
         albedo: 0.30
-        temperature: 3895 K<br />(3621 °C)
+        temperature: 372 K<br />(99 °C)
       - name: 8701 Tanashad I c
         type: Icy
         formationType: Impact formed
@@ -99,14 +99,14 @@ planets:
         radius: 17,608.5 km<br/>(2.764 Yrths)
         surface_area: 3.896 × 10<sup>09</sup> km<sup>2</sup><br/>(7.639 Yrths)
         volume: 2.287 × 10<sup>13</sup> km<sup>3</sup><br/>(21.113 Yrths)
-        mass: 2.857 × 10<sup>25</sup> kg<br />(5.816374091818332 Yrths)
+        mass: 2.857 × 10<sup>25</sup> kg<br />(4.785 Yrths)
         density: 1.249 g/cm<sup>3</sup>
         surface_gravity: 6.142 m/s<sup>2</sup><br />(0.626 g<sub>0</sub>)
         escape_velocity: 14.718 km/s<br />(52,983 km/h)
         rotation_period: 44.567 d
         axial_tilt: 16.86°
         albedo: 0.30
-        temperature: 3713 K<br />(3440 °C)
+        temperature: 372 K<br />(99 °C)
       - name: 8701 Tanashad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -119,14 +119,14 @@ planets:
         radius: 12,218.7 km<br/>(1.918 Yrths)
         surface_area: 1.876 × 10<sup>09</sup> km<sup>2</sup><br/>(3.678 Yrths)
         volume: 7.641 × 10<sup>12</sup> km<sup>3</sup><br/>(7.054 Yrths)
-        mass: 1.381 × 10<sup>25</sup> kg<br />(5.816374091818332 Yrths)
+        mass: 1.381 × 10<sup>25</sup> kg<br />(2.313 Yrths)
         density: 1.808 g/cm<sup>3</sup>
         surface_gravity: 6.167 m/s<sup>2</sup><br />(0.629 g<sub>0</sub>)
         escape_velocity: 12.284 km/s<br />(44,224 km/h)
         rotation_period: 56.031 d
         axial_tilt: 30.38°
         albedo: 0.30
-        temperature: 3540 K<br />(3267 °C)
+        temperature: 372 K<br />(99 °C)
       - name: 8701 Tanashad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -139,14 +139,14 @@ planets:
         radius: 14,041.6 km<br/>(2.204 Yrths)
         surface_area: 2.478 × 10<sup>09</sup> km<sup>2</sup><br/>(4.858 Yrths)
         volume: 1.160 × 10<sup>13</sup> km<sup>3</sup><br/>(10.706 Yrths)
-        mass: 2.120 × 10<sup>25</sup> kg<br />(5.816374091818332 Yrths)
+        mass: 2.120 × 10<sup>25</sup> kg<br />(3.550 Yrths)
         density: 1.828 g/cm<sup>3</sup>
         surface_gravity: 7.167 m/s<sup>2</sup><br />(0.731 g<sub>0</sub>)
         escape_velocity: 14.197 km/s<br />(51,108 km/h)
         rotation_period: 40.876 d
         axial_tilt: 27.91°
         albedo: 0.30
-        temperature: 3376 K<br />(3103 °C)
+        temperature: 372 K<br />(99 °C)
       - name: 8701 Tanashad I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -159,14 +159,14 @@ planets:
         radius: 12,097.1 km<br/>(1.899 Yrths)
         surface_area: 1.839 × 10<sup>09</sup> km<sup>2</sup><br/>(3.605 Yrths)
         volume: 7.415 × 10<sup>12</sup> km<sup>3</sup><br/>(6.846 Yrths)
-        mass: 2.040 × 10<sup>25</sup> kg<br />(5.816374091818332 Yrths)
+        mass: 2.040 × 10<sup>25</sup> kg<br />(3.415 Yrths)
         density: 2.750 g/cm<sup>3</sup>
         surface_gravity: 9.289 m/s<sup>2</sup><br />(0.947 g<sub>0</sub>)
         escape_velocity: 15.002 km/s<br />(54,007 km/h)
         rotation_period: 36.015 d
         axial_tilt: 27.58°
         albedo: 0.30
-        temperature: 3069 K<br />(2796 °C)
+        temperature: 372 K<br />(99 °C)
   - name: 8701 Tanashad II
     type: Terrestrial
     aphelion: 354,145,220 km<br />2.367 AU
@@ -178,14 +178,14 @@ planets:
     radius: 6,235.0 km<br/>(0.979 Yrths)
     surface_area: 4.885 × 10<sup>08</sup> km<sup>2</sup><br/>(0.958 Yrths)
     volume: 1.015 × 10<sup>12</sup> km<sup>3</sup><br/>(0.937 Yrths)
-    mass: 5.419 × 10<sup>24</sup> kg<br />(0.9074006310445295 Yrths)
+    mass: 5.419 × 10<sup>24</sup> kg<br />(0.91 Yrths)
     density: 5.337 g/cm<sup>3</sup>
     surface_gravity: 9.291 m/s<sup>2</sup><br />(0.947 g<sub>0</sub>)
     escape_velocity: 10.771 km/s<br />(38,776 km/h)
     rotation_period: 1.039 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 331 K<br />(58 °C)
+    temperature: 415 K<br />(142 °C)
     surface_pressure: 51 kPa<br />(1 atm)
     composition:
       - 81.5021% methane
@@ -206,14 +206,14 @@ planets:
         radius: 2,005.5 km<br/>(0.315 Yrths)
         surface_area: 5.054 × 10<sup>07</sup> km<sup>2</sup><br/>(0.099 Yrths)
         volume: 3.379 × 10<sup>10</sup> km<sup>3</sup><br/>(0.031 Yrths)
-        mass: 1.103 × 10<sup>23</sup> kg<br />(0.9074006310445295 Yrths)
+        mass: 1.103 × 10<sup>23</sup> kg<br />(0.018 Yrths)
         density: 3.264 g/cm<sup>3</sup>
         surface_gravity: 1.828 m/s<sup>2</sup><br />(0.186 g<sub>0</sub>)
         escape_velocity: 2.709 km/s<br />(9,754 km/h)
         rotation_period: 29.058 d
         axial_tilt: 16.05°
         albedo: 0.30
-        temperature: 4440 K<br />(4167 °C)
+        temperature: 274 K<br />(0 °C)
   - name: 8701 Tanashad III
     type: Gas dwarf
     aphelion: 787,392,710 km<br />5.263 AU
@@ -225,14 +225,14 @@ planets:
     radius: 19,720.1 km<br/>(3.095 Yrths)
     surface_area: 4.887 × 10<sup>09</sup> km<sup>2</sup><br/>(9.581 Yrths)
     volume: 3.212 × 10<sup>13</sup> km<sup>3</sup><br/>(29.655 Yrths)
-    mass: 7.859 × 10<sup>25</sup> kg<br />(13.159474759373312 Yrths)
+    mass: 7.859 × 10<sup>25</sup> kg<br />(13.16 Yrths)
     density: 2.446 g/cm<sup>3</sup>
     surface_gravity: 13.470 m/s<sup>2</sup><br />(1.374 g<sub>0</sub>)
     escape_velocity: 23.064 km/s<br />(83,032 km/h)
     rotation_period: 0.378 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 347 K<br />(74 °C)
+    temperature: 320 K<br />(47 °C)
     composition:
       - 53.4431% helium
       - 37.8828% hydrogen
@@ -253,14 +253,14 @@ planets:
         radius: 16,036.4 km<br/>(2.517 Yrths)
         surface_area: 3.232 × 10<sup>09</sup> km<sup>2</sup><br/>(6.336 Yrths)
         volume: 1.727 × 10<sup>13</sup> km<sup>3</sup><br/>(15.948 Yrths)
-        mass: 2.725 × 10<sup>25</sup> kg<br />(13.159474759373312 Yrths)
+        mass: 2.725 × 10<sup>25</sup> kg<br />(4.562 Yrths)
         density: 1.577 g/cm<sup>3</sup>
         surface_gravity: 7.062 m/s<sup>2</sup><br />(0.720 g<sub>0</sub>)
         escape_velocity: 15.060 km/s<br />(54,215 km/h)
         rotation_period: 48.206 d
         axial_tilt: 18.63°
         albedo: 0.30
-        temperature: 2003 K<br />(1730 °C)
+        temperature: 201 K<br />(-72 °C)
       - name: 8701 Tanashad III b
         type: Icy
         formationType: Impact formed
@@ -273,12 +273,12 @@ planets:
         radius: 32,738.5 km<br/>(5.139 Yrths)
         surface_area: 1.347 × 10<sup>10</sup> km<sup>2</sup><br/>(26.406 Yrths)
         volume: 1.470 × 10<sup>14</sup> km<sup>3</sup><br/>(135.692 Yrths)
-        mass: 1.945 × 10<sup>26</sup> kg<br />(13.159474759373312 Yrths)
+        mass: 1.945 × 10<sup>26</sup> kg<br />(32.568 Yrths)
         density: 1.323 g/cm<sup>3</sup>
         surface_gravity: 12.095 m/s<sup>2</sup><br />(1.233 g<sub>0</sub>)
         escape_velocity: 28.161 km/s<br />(101,379 km/h)
         rotation_period: 44.655 d
         axial_tilt: 15.01°
         albedo: 0.30
-        temperature: 1910 K<br />(1637 °C)
+        temperature: 201 K<br />(-72 °C)
 ---

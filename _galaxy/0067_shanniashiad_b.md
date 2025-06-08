@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0067 Shanniashiad B is a star in the constellation Shannias
+      0067 Shanniashiad B is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 385.33 ly
 apparent_magnitude: 11.85
 absolute_magnitude: 6.49

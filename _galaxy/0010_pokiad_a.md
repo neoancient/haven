@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0010 Pokiad A is a star in the constellation Poke
+      0010 Pokiad A is a star in the constellation <a href="poke.html">Poke</a>
 distance: 80.64 ly
 apparent_magnitude: 6.84
 absolute_magnitude: 4.87

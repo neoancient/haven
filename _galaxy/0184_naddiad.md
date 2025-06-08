@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0184 Naddiad is a star in the constellation Naddi
+      0184 Naddiad is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 3059.44 ly
 apparent_magnitude: 6.49
 absolute_magnitude: -3.37
@@ -31,14 +31,14 @@ planets:
     radius: 5,208.7 km<br/>(0.818 Yrths)
     surface_area: 3.409 × 10<sup>08</sup> km<sup>2</sup><br/>(0.668 Yrths)
     volume: 5.919 × 10<sup>11</sup> km<sup>3</sup><br/>(0.546 Yrths)
-    mass: 3.558 × 10<sup>24</sup> kg<br />(0.5958486432766944 Yrths)
+    mass: 3.558 × 10<sup>24</sup> kg<br />(0.60 Yrths)
     density: 6.011 g/cm<sup>3</sup>
     surface_gravity: 8.742 m/s<sup>2</sup><br />(0.891 g<sub>0</sub>)
     escape_velocity: 9.549 km/s<br />(34,378 km/h)
     rotation_period: 1.174 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 1862 K<br />(1589 °C)
+    temperature: 2429 K<br />(2155 °C)
     surface_pressure: 7 kPa<br />(0 atm)
     composition:
       - 79.9783% methane
@@ -58,14 +58,14 @@ planets:
         radius: 1,576.2 km<br/>(0.247 Yrths)
         surface_area: 3.122 × 10<sup>07</sup> km<sup>2</sup><br/>(0.061 Yrths)
         volume: 1.640 × 10<sup>10</sup> km<sup>3</sup><br/>(0.015 Yrths)
-        mass: 4.250 × 10<sup>22</sup> kg<br />(0.5958486432766944 Yrths)
+        mass: 4.250 × 10<sup>22</sup> kg<br />(0.007 Yrths)
         density: 2.591 g/cm<sup>3</sup>
         surface_gravity: 1.140 m/s<sup>2</sup><br />(0.116 g<sub>0</sub>)
         escape_velocity: 1.897 km/s<br />(6,830 km/h)
         rotation_period: 32.592 d
         axial_tilt: 20.81°
         albedo: 0.30
-        temperature: 36973 K<br />(36700 °C)
+        temperature: 1710 K<br />(1437 °C)
   - name: 0184 Naddiad II
     type: Large terrestrial
     aphelion: 622,704,481 km<br />4.162 AU
@@ -77,14 +77,14 @@ planets:
     radius: 9,473.0 km<br/>(1.487 Yrths)
     surface_area: 1.128 × 10<sup>09</sup> km<sup>2</sup><br/>(2.211 Yrths)
     volume: 3.561 × 10<sup>12</sup> km<sup>3</sup><br/>(3.287 Yrths)
-    mass: 2.521 × 10<sup>25</sup> kg<br />(4.220905080111854 Yrths)
+    mass: 2.521 × 10<sup>25</sup> kg<br />(4.22 Yrths)
     density: 7.079 g/cm<sup>3</sup>
     surface_gravity: 18.722 m/s<sup>2</sup><br />(1.909 g<sub>0</sub>)
     escape_velocity: 18.847 km/s<br />(67,848 km/h)
     rotation_period: 0.586 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 1660 K<br />(1387 °C)
+    temperature: 1928 K<br />(1655 °C)
     surface_pressure: 613 kPa<br />(6 atm)
     composition:
       - 69.1561% methane
@@ -106,12 +106,12 @@ planets:
         radius: 8,756.9 km<br/>(1.374 Yrths)
         surface_area: 9.636 × 10<sup>08</sup> km<sup>2</sup><br/>(1.889 Yrths)
         volume: 2.813 × 10<sup>12</sup> km<sup>3</sup><br/>(2.597 Yrths)
-        mass: 7.660 × 10<sup>24</sup> kg<br />(4.220905080111854 Yrths)
+        mass: 7.660 × 10<sup>24</sup> kg<br />(1.283 Yrths)
         density: 2.723 g/cm<sup>3</sup>
         surface_gravity: 6.658 m/s<sup>2</sup><br />(0.679 g<sub>0</sub>)
         escape_velocity: 10.806 km/s<br />(38,901 km/h)
         rotation_period: 35.204 d
         axial_tilt: 21.12°
         albedo: 0.30
-        temperature: 18647 K<br />(18374 °C)
+        temperature: 1194 K<br />(921 °C)
 ---

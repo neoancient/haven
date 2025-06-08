@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10425 Narashiad is a star in the constellation Naras
+      10425 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 488.29 ly
 apparent_magnitude: 11.39
 absolute_magnitude: 5.51

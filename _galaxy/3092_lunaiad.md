@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3092 Lunaiad is a star in the constellation Luna
+      3092 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 856.66 ly
 apparent_magnitude: 11.60
 absolute_magnitude: 4.50

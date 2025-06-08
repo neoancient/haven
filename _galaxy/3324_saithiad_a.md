@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3324 Saithiad A is a star in the constellation Saith
+      3324 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 694.69 ly
 apparent_magnitude: 7.19
 absolute_magnitude: 0.55

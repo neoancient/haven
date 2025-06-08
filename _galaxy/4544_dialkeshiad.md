@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4544 Dialkeshiad is a star in the constellation Dialkes
+      4544 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 381.91 ly
 apparent_magnitude: 9.21
 absolute_magnitude: 3.87

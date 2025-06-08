@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1531 Arniad is a star in the constellation Arni
+      1531 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 162.56 ly
 apparent_magnitude: 7.33
 absolute_magnitude: 3.84

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7711 Narashiad A is a star in the constellation Naras
+      7711 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 769.11 ly
 apparent_magnitude: 9.09
 absolute_magnitude: 2.22

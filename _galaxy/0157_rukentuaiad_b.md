@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0157 Rukentuaiad B is a star in the constellation Rukentua
+      0157 Rukentuaiad B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 508.14 ly
 apparent_magnitude: 15.65
 absolute_magnitude: 9.69

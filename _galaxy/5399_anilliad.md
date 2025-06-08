@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5399 Anilliad is a star in the constellation Anil
+      5399 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 474.29 ly
 apparent_magnitude: 10.38
 absolute_magnitude: 4.56

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      862 Athiad is a star in the constellation Ath
+      862 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 438.09 ly
 apparent_magnitude: 18.16
 absolute_magnitude: 12.52

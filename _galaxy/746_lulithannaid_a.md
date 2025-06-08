@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      746 Lulithannaid A is a star in the constellation Lulithan
+      746 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 814.60 ly
 apparent_magnitude: 6.63
 absolute_magnitude: -0.35

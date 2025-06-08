@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      209 Naddiad is a star in the constellation Naddi
+      209 Naddiad is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 347.94 ly
 apparent_magnitude: 11.97
 absolute_magnitude: 6.83

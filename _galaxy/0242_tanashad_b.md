@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0242 Tanashad B is a star in the constellation Tanas
+      0242 Tanashad B is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 2573.90 ly
 apparent_magnitude: 9.91
 absolute_magnitude: 0.43

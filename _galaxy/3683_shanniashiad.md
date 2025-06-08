@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3683 Shanniashiad is a star in the constellation Shannias
+      3683 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 493.99 ly
 apparent_magnitude: 10.66
 absolute_magnitude: 4.76

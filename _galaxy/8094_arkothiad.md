@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8094 Arkothiad is a star in the constellation Arkoth
+      8094 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 271.80 ly
 apparent_magnitude: 14.93
 absolute_magnitude: 10.33
@@ -31,14 +31,14 @@ planets:
     radius: 2,900.4 km<br/>(0.455 Yrths)
     surface_area: 1.057 × 10<sup>08</sup> km<sup>2</sup><br/>(0.207 Yrths)
     volume: 1.022 × 10<sup>11</sup> km<sup>3</sup><br/>(0.094 Yrths)
-    mass: 4.779 × 10<sup>24</sup> kg<br />(0.8003174304793502 Yrths)
+    mass: 4.779 × 10<sup>24</sup> kg<br />(0.80 Yrths)
     density: 46.763 g/cm<sup>3</sup>
     surface_gravity: 37.868 m/s<sup>2</sup><br />(3.861 g<sub>0</sub>)
     escape_velocity: 14.831 km/s<br />(53,392 km/h)
     rotation_period: 5.712 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 379 K<br />(106 °C)
+    temperature: 859 K<br />(586 °C)
     surface_pressure: 127 kPa<br />(1 atm)
     composition:
       - 65.2661% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 1,707.0 km<br/>(0.268 Yrths)
         surface_area: 3.661 × 10<sup>07</sup> km<sup>2</sup><br/>(0.072 Yrths)
         volume: 2.083 × 10<sup>10</sup> km<sup>3</sup><br/>(0.019 Yrths)
-        mass: 6.181 × 10<sup>22</sup> kg<br />(0.8003174304793502 Yrths)
+        mass: 6.181 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.967 g/cm<sup>3</sup>
         surface_gravity: 1.414 m/s<sup>2</sup><br />(0.144 g<sub>0</sub>)
         escape_velocity: 2.199 km/s<br />(7,915 km/h)
         rotation_period: 52.868 d
         axial_tilt: 13.39°
         albedo: 0.30
-        temperature: 3759 K<br />(3485 °C)
+        temperature: 254 K<br />(-19 °C)
   - name: 8094 Arkothiad II
     type: Terrestrial
     aphelion: 40,482,425 km<br />0.271 AU
@@ -75,14 +75,14 @@ planets:
     radius: 3,099.4 km<br/>(0.486 Yrths)
     surface_area: 1.207 × 10<sup>08</sup> km<sup>2</sup><br/>(0.237 Yrths)
     volume: 1.247 × 10<sup>11</sup> km<sup>3</sup><br/>(0.115 Yrths)
-    mass: 5.241 × 10<sup>24</sup> kg<br />(0.8776552775429193 Yrths)
+    mass: 5.241 × 10<sup>24</sup> kg<br />(0.88 Yrths)
     density: 42.026 g/cm<sup>3</sup>
     surface_gravity: 36.367 m/s<sup>2</sup><br />(3.708 g<sub>0</sub>)
     escape_velocity: 15.025 km/s<br />(54,088 km/h)
     rotation_period: 3.786 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 264 K<br />(-9 °C)
+    temperature: 363 K<br />(90 °C)
     surface_pressure: 81 kPa<br />(1 atm)
     composition:
       - 79.9513% nitrogen
@@ -100,14 +100,14 @@ planets:
         radius: 1,549.0 km<br/>(0.243 Yrths)
         surface_area: 3.015 × 10<sup>07</sup> km<sup>2</sup><br/>(0.059 Yrths)
         volume: 1.557 × 10<sup>10</sup> km<sup>3</sup><br/>(0.014 Yrths)
-        mass: 4.990 × 10<sup>22</sup> kg<br />(0.8776552775429193 Yrths)
+        mass: 4.990 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 3.205 g/cm<sup>3</sup>
         surface_gravity: 1.386 m/s<sup>2</sup><br />(0.141 g<sub>0</sub>)
         escape_velocity: 2.074 km/s<br />(7,465 km/h)
         rotation_period: 45.339 d
         axial_tilt: 16.65°
         albedo: 0.30
-        temperature: 2652 K<br />(2379 °C)
+        temperature: 208 K<br />(-65 °C)
   - name: 8094 Arkothiad III
     type: Terrestrial
     aphelion: 61,089,499 km<br />0.408 AU
@@ -119,14 +119,14 @@ planets:
     radius: 2,969.3 km<br/>(0.466 Yrths)
     surface_area: 1.108 × 10<sup>08</sup> km<sup>2</sup><br/>(0.217 Yrths)
     volume: 1.097 × 10<sup>11</sup> km<sup>3</sup><br/>(0.101 Yrths)
-    mass: 2.747 × 10<sup>24</sup> kg<br />(0.459998359523931 Yrths)
+    mass: 2.747 × 10<sup>24</sup> kg<br />(0.46 Yrths)
     density: 25.051 g/cm<sup>3</sup>
     surface_gravity: 20.768 m/s<sup>2</sup><br />(2.118 g<sub>0</sub>)
     escape_velocity: 11.113 km/s<br />(40,007 km/h)
     rotation_period: 3.207 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 236 K<br />(-37 °C)
+    temperature: 492 K<br />(219 °C)
     surface_pressure: 72 kPa<br />(1 atm)
     composition:
       - 49.8352% carbon dioxide
@@ -146,14 +146,14 @@ planets:
         radius: 1,297.9 km<br/>(0.204 Yrths)
         surface_area: 2.117 × 10<sup>07</sup> km<sup>2</sup><br/>(0.042 Yrths)
         volume: 9.159 × 10<sup>09</sup> km<sup>3</sup><br/>(0.008 Yrths)
-        mass: 2.198 × 10<sup>22</sup> kg<br />(0.459998359523931 Yrths)
+        mass: 2.198 × 10<sup>22</sup> kg<br />(0.004 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 0.870 m/s<sup>2</sup><br />(0.089 g<sub>0</sub>)
         escape_velocity: 1.504 km/s<br />(5,413 km/h)
         rotation_period: 37.978 d
         axial_tilt: 18.30°
         albedo: 0.30
-        temperature: 2663 K<br />(2389 °C)
+        temperature: 170 K<br />(-103 °C)
       - name: 8094 Arkothiad III b
         type: Rocky
         formationType: Captured
@@ -166,14 +166,14 @@ planets:
         radius: 1,301.7 km<br/>(0.204 Yrths)
         surface_area: 2.129 × 10<sup>07</sup> km<sup>2</sup><br/>(0.042 Yrths)
         volume: 9.239 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 2.763 × 10<sup>22</sup> kg<br />(0.459998359523931 Yrths)
+        mass: 2.763 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.991 g/cm<sup>3</sup>
         surface_gravity: 1.087 m/s<sup>2</sup><br />(0.111 g<sub>0</sub>)
         escape_velocity: 1.683 km/s<br />(6,060 km/h)
         rotation_period: 38.512 d
         axial_tilt: 16.15°
         albedo: 0.30
-        temperature: 2539 K<br />(2266 °C)
+        temperature: 170 K<br />(-103 °C)
   - name: 8094 Arkothiad IV
     type: Large terrestrial
     aphelion: 90,765,856 km<br />0.607 AU
@@ -185,14 +185,14 @@ planets:
     radius: 6,410.4 km<br/>(1.006 Yrths)
     surface_area: 5.164 × 10<sup>08</sup> km<sup>2</sup><br/>(1.012 Yrths)
     volume: 1.103 × 10<sup>12</sup> km<sup>3</sup><br/>(1.019 Yrths)
-    mass: 1.513 × 10<sup>25</sup> kg<br />(2.5332703725887185 Yrths)
+    mass: 1.513 × 10<sup>25</sup> kg<br />(2.53 Yrths)
     density: 13.710 g/cm<sup>3</sup>
     surface_gravity: 24.538 m/s<sup>2</sup><br />(2.502 g<sub>0</sub>)
     escape_velocity: 17.749 km/s<br />(63,897 km/h)
     rotation_period: 1.279 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 214 K<br />(-59 °C)
+    temperature: 447 K<br />(174 °C)
     surface_pressure: 418 kPa<br />(4 atm)
     composition:
       - 49.0599% carbon dioxide
@@ -211,14 +211,14 @@ planets:
         radius: 4,914.7 km<br/>(0.771 Yrths)
         surface_area: 3.035 × 10<sup>08</sup> km<sup>2</sup><br/>(0.595 Yrths)
         volume: 4.972 × 10<sup>11</sup> km<sup>3</sup><br/>(0.459 Yrths)
-        mass: 1.105 × 10<sup>24</sup> kg<br />(2.5332703725887185 Yrths)
+        mass: 1.105 × 10<sup>24</sup> kg<br />(0.185 Yrths)
         density: 2.223 g/cm<sup>3</sup>
         surface_gravity: 3.050 m/s<sup>2</sup><br />(0.311 g<sub>0</sub>)
         escape_velocity: 5.479 km/s<br />(19,725 km/h)
         rotation_period: 33.743 d
         axial_tilt: 27.38°
         albedo: 0.30
-        temperature: 1651 K<br />(1378 °C)
+        temperature: 139 K<br />(-135 °C)
       - name: 8094 Arkothiad IV b
         type: Asteroid
         formationType: Captured
@@ -231,12 +231,12 @@ planets:
         radius: 5,329.1 km<br/>(0.836 Yrths)
         surface_area: 3.569 × 10<sup>08</sup> km<sup>2</sup><br/>(0.700 Yrths)
         volume: 6.339 × 10<sup>11</sup> km<sup>3</sup><br/>(0.585 Yrths)
-        mass: 1.343 × 10<sup>24</sup> kg<br />(2.5332703725887185 Yrths)
+        mass: 1.343 × 10<sup>24</sup> kg<br />(0.225 Yrths)
         density: 2.119 g/cm<sup>3</sup>
         surface_gravity: 3.153 m/s<sup>2</sup><br />(0.321 g<sub>0</sub>)
         escape_velocity: 5.801 km/s<br />(20,882 km/h)
         rotation_period: 34.588 d
         axial_tilt: 18.58°
         albedo: 0.30
-        temperature: 1575 K<br />(1301 °C)
+        temperature: 139 K<br />(-135 °C)
 ---

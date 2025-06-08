@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3788 Saithiad is a star in the constellation Saith
+      3788 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 151.17 ly
 apparent_magnitude: 9.65
 absolute_magnitude: 6.32

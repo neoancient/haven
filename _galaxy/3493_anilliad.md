@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3493 Anilliad is a star in the constellation Anil
+      3493 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 443.15 ly
 apparent_magnitude: 10.65
 absolute_magnitude: 4.98

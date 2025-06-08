@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Aldnanniad C is a star in the constellation Aldnan
+      0005 Aldnanniad C is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 149.14 ly
 apparent_magnitude: 12.52
 absolute_magnitude: 9.21
@@ -31,14 +31,14 @@ planets:
     radius: 2,701.6 km<br/>(0.424 Yrths)
     surface_area: 9.172 × 10<sup>07</sup> km<sup>2</sup><br/>(0.180 Yrths)
     volume: 8.260 × 10<sup>10</sup> km<sup>3</sup><br/>(0.076 Yrths)
-    mass: 2.200 × 10<sup>25</sup> kg<br />(3.6841325885385174 Yrths)
+    mass: 2.200 × 10<sup>25</sup> kg<br />(3.68 Yrths)
     density: 266.376 g/cm<sup>3</sup>
     surface_gravity: 200.920 m/s<sup>2</sup><br />(20.488 g<sub>0</sub>)
     escape_velocity: 32.971 km/s<br />(118,696 km/h)
     rotation_period: 2.134 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 568 K<br />(295 °C)
+    temperature: 1329 K<br />(1056 °C)
     surface_pressure: 773 kPa<br />(8 atm)
     composition:
       - 66.2013% carbon dioxide
@@ -56,14 +56,14 @@ planets:
         radius: 4,370.4 km<br/>(0.686 Yrths)
         surface_area: 2.400 × 10<sup>08</sup> km<sup>2</sup><br/>(0.471 Yrths)
         volume: 3.497 × 10<sup>11</sup> km<sup>3</sup><br/>(0.323 Yrths)
-        mass: 1.128 × 10<sup>24</sup> kg<br />(3.6841325885385174 Yrths)
+        mass: 1.128 × 10<sup>24</sup> kg<br />(0.189 Yrths)
         density: 3.227 g/cm<sup>3</sup>
         surface_gravity: 3.938 m/s<sup>2</sup><br />(0.402 g<sub>0</sub>)
         escape_velocity: 5.871 km/s<br />(21,135 km/h)
         rotation_period: 29.344 d
         axial_tilt: 31.14°
         albedo: 0.30
-        temperature: 5040 K<br />(4767 °C)
+        temperature: 340 K<br />(67 °C)
       - name: 0005 Aldnanniad C I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 5,950.5 km<br/>(0.934 Yrths)
         surface_area: 4.450 × 10<sup>08</sup> km<sup>2</sup><br/>(0.872 Yrths)
         volume: 8.826 × 10<sup>11</sup> km<sup>3</sup><br/>(0.815 Yrths)
-        mass: 2.065 × 10<sup>24</sup> kg<br />(3.6841325885385174 Yrths)
+        mass: 2.065 × 10<sup>24</sup> kg<br />(0.346 Yrths)
         density: 2.340 g/cm<sup>3</sup>
         surface_gravity: 3.887 m/s<sup>2</sup><br />(0.396 g<sub>0</sub>)
         escape_velocity: 6.806 km/s<br />(24,502 km/h)
         rotation_period: 34.388 d
         axial_tilt: 27.06°
         albedo: 0.30
-        temperature: 4805 K<br />(4532 °C)
+        temperature: 340 K<br />(67 °C)
   - name: 0005 Aldnanniad C II
     type: Large terrestrial
     aphelion: 71,501,422 km<br />0.478 AU
@@ -95,14 +95,14 @@ planets:
     radius: 2,760.9 km<br/>(0.433 Yrths)
     surface_area: 9.579 × 10<sup>07</sup> km<sup>2</sup><br/>(0.188 Yrths)
     volume: 8.815 × 10<sup>10</sup> km<sup>3</sup><br/>(0.081 Yrths)
-    mass: 1.679 × 10<sup>25</sup> kg<br />(2.8121062541133215 Yrths)
+    mass: 1.679 × 10<sup>25</sup> kg<br />(2.81 Yrths)
     density: 190.509 g/cm<sup>3</sup>
     surface_gravity: 146.848 m/s<sup>2</sup><br />(14.974 g<sub>0</sub>)
     escape_velocity: 28.495 km/s<br />(102,582 km/h)
     rotation_period: 1.798 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 467 K<br />(194 °C)
+    temperature: 1183 K<br />(910 °C)
     surface_pressure: 1,506 kPa<br />(15 atm)
     composition:
       - 80.9200% carbon dioxide
@@ -120,14 +120,14 @@ planets:
         radius: 6,127.7 km<br/>(0.962 Yrths)
         surface_area: 4.718 × 10<sup>08</sup> km<sup>2</sup><br/>(0.925 Yrths)
         volume: 9.638 × 10<sup>11</sup> km<sup>3</sup><br/>(0.890 Yrths)
-        mass: 2.045 × 10<sup>24</sup> kg<br />(2.8121062541133215 Yrths)
+        mass: 2.045 × 10<sup>24</sup> kg<br />(0.342 Yrths)
         density: 2.122 g/cm<sup>3</sup>
         surface_gravity: 3.630 m/s<sup>2</sup><br />(0.370 g<sub>0</sub>)
         escape_velocity: 6.674 km/s<br />(24,028 km/h)
         rotation_period: 59.374 d
         axial_tilt: 13.79°
         albedo: 0.30
-        temperature: 4162 K<br />(3889 °C)
+        temperature: 260 K<br />(-13 °C)
       - name: 0005 Aldnanniad C II b
         type: Rocky
         formationType: Captured
@@ -140,12 +140,12 @@ planets:
         radius: 4,380.8 km<br/>(0.688 Yrths)
         surface_area: 2.412 × 10<sup>08</sup> km<sup>2</sup><br/>(0.473 Yrths)
         volume: 3.522 × 10<sup>11</sup> km<sup>3</sup><br/>(0.325 Yrths)
-        mass: 1.268 × 10<sup>24</sup> kg<br />(2.8121062541133215 Yrths)
+        mass: 1.268 × 10<sup>24</sup> kg<br />(0.212 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 4.403 m/s<sup>2</sup><br />(0.449 g<sub>0</sub>)
         escape_velocity: 6.215 km/s<br />(22,375 km/h)
         rotation_period: 46.924 d
         axial_tilt: 14.62°
         albedo: 0.30
-        temperature: 3968 K<br />(3695 °C)
+        temperature: 260 K<br />(-13 °C)
 ---

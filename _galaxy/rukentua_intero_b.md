@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rukentua Intero B is a star in the constellation Rukentua
+      Rukentua Intero B is a star in the constellation <a href="rukentua.html">Rukentua</a>
 distance: 4677.12 ly
 apparent_magnitude: 1.87
 absolute_magnitude: -8.92

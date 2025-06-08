@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      241 Nwaliad A is a star in the constellation Nwal
+      241 Nwaliad A is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 955.73 ly
 apparent_magnitude: 6.86
 absolute_magnitude: -0.48

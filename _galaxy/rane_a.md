@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Rane A is a star in the constellation Pelnemen
+      Rane A is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 270.18 ly
 apparent_magnitude: 1.65
 absolute_magnitude: -2.94

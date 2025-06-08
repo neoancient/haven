@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1545 Narashiad is a star in the constellation Naras
+      1545 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 359.34 ly
 apparent_magnitude: 8.86
 absolute_magnitude: 3.65
@@ -31,14 +31,14 @@ planets:
     radius: 24,514.3 km<br/>(3.848 Yrths)
     surface_area: 7.552 × 10<sup>09</sup> km<sup>2</sup><br/>(14.806 Yrths)
     volume: 6.171 × 10<sup>13</sup> km<sup>3</sup><br/>(56.969 Yrths)
-    mass: 8.468 × 10<sup>25</sup> kg<br />(14.179001032680754 Yrths)
+    mass: 8.468 × 10<sup>25</sup> kg<br />(14.18 Yrths)
     density: 1.372 g/cm<sup>3</sup>
     surface_gravity: 9.392 m/s<sup>2</sup><br />(0.958 g<sub>0</sub>)
     escape_velocity: 21.473 km/s<br />(77,302 km/h)
     rotation_period: 0.486 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 676 K<br />(402 °C)
+    temperature: 621 K<br />(348 °C)
     composition:
       - 95.2745% hydrogen
       - 4.2660% helium
@@ -56,14 +56,14 @@ planets:
         radius: 8,635.9 km<br/>(1.355 Yrths)
         surface_area: 9.372 × 10<sup>08</sup> km<sup>2</sup><br/>(1.837 Yrths)
         volume: 2.698 × 10<sup>12</sup> km<sup>3</sup><br/>(2.491 Yrths)
-        mass: 6.181 × 10<sup>24</sup> kg<br />(14.179001032680754 Yrths)
+        mass: 6.181 × 10<sup>24</sup> kg<br />(1.035 Yrths)
         density: 2.291 g/cm<sup>3</sup>
         surface_gravity: 5.524 m/s<sup>2</sup><br />(0.563 g<sub>0</sub>)
         escape_velocity: 9.774 km/s<br />(35,188 km/h)
         rotation_period: 46.432 d
         axial_tilt: 16.51°
         albedo: 0.30
-        temperature: 3137 K<br />(2864 °C)
+        temperature: 340 K<br />(67 °C)
       - name: 1545 Narashiad I b
         type: Asteroid
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 8,430.7 km<br/>(1.323 Yrths)
         surface_area: 8.932 × 10<sup>08</sup> km<sup>2</sup><br/>(1.751 Yrths)
         volume: 2.510 × 10<sup>12</sup> km<sup>3</sup><br/>(2.317 Yrths)
-        mass: 8.123 × 10<sup>24</sup> kg<br />(14.179001032680754 Yrths)
+        mass: 8.123 × 10<sup>24</sup> kg<br />(1.360 Yrths)
         density: 3.236 g/cm<sup>3</sup>
         surface_gravity: 7.617 m/s<sup>2</sup><br />(0.777 g<sub>0</sub>)
         escape_velocity: 11.341 km/s<br />(40,827 km/h)
         rotation_period: 39.046 d
         axial_tilt: 30.71°
         albedo: 0.30
-        temperature: 2991 K<br />(2718 °C)
+        temperature: 340 K<br />(67 °C)
       - name: 1545 Narashiad I c
         type: Rocky
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 8,866.3 km<br/>(1.392 Yrths)
         surface_area: 9.878 × 10<sup>08</sup> km<sup>2</sup><br/>(1.937 Yrths)
         volume: 2.920 × 10<sup>12</sup> km<sup>3</sup><br/>(2.695 Yrths)
-        mass: 8.816 × 10<sup>24</sup> kg<br />(14.179001032680754 Yrths)
+        mass: 8.816 × 10<sup>24</sup> kg<br />(1.476 Yrths)
         density: 3.020 g/cm<sup>3</sup>
         surface_gravity: 7.475 m/s<sup>2</sup><br />(0.762 g<sub>0</sub>)
         escape_velocity: 11.521 km/s<br />(41,475 km/h)
         rotation_period: 32.051 d
         axial_tilt: 9.51°
         albedo: 0.30
-        temperature: 2852 K<br />(2579 °C)
+        temperature: 340 K<br />(67 °C)
       - name: 1545 Narashiad I d
         type: Icy
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 11,116.8 km<br/>(1.745 Yrths)
         surface_area: 1.553 × 10<sup>09</sup> km<sup>2</sup><br/>(3.045 Yrths)
         volume: 5.755 × 10<sup>12</sup> km<sup>3</sup><br/>(5.313 Yrths)
-        mass: 7.403 × 10<sup>24</sup> kg<br />(14.179001032680754 Yrths)
+        mass: 7.403 × 10<sup>24</sup> kg<br />(1.240 Yrths)
         density: 1.286 g/cm<sup>3</sup>
         surface_gravity: 3.993 m/s<sup>2</sup><br />(0.407 g<sub>0</sub>)
         escape_velocity: 9.428 km/s<br />(33,942 km/h)
         rotation_period: 46.990 d
         axial_tilt: 25.72°
         albedo: 0.30
-        temperature: 2720 K<br />(2446 °C)
+        temperature: 340 K<br />(67 °C)
       - name: 1545 Narashiad I e
         type: Icy
         formationType: Impact formed
@@ -136,14 +136,14 @@ planets:
         radius: 19,795.7 km<br/>(3.107 Yrths)
         surface_area: 4.924 × 10<sup>09</sup> km<sup>2</sup><br/>(9.654 Yrths)
         volume: 3.249 × 10<sup>13</sup> km<sup>3</sup><br/>(29.998 Yrths)
-        mass: 4.542 × 10<sup>25</sup> kg<br />(14.179001032680754 Yrths)
+        mass: 4.542 × 10<sup>25</sup> kg<br />(7.606 Yrths)
         density: 1.398 g/cm<sup>3</sup>
         surface_gravity: 7.726 m/s<sup>2</sup><br />(0.788 g<sub>0</sub>)
         escape_velocity: 17.501 km/s<br />(63,005 km/h)
         rotation_period: 73.337 d
         axial_tilt: 22.95°
         albedo: 0.30
-        temperature: 2593 K<br />(2320 °C)
+        temperature: 340 K<br />(67 °C)
       - name: 1545 Narashiad I f
         type: Icy
         formationType: Accreted
@@ -156,14 +156,14 @@ planets:
         radius: 27,261.3 km<br/>(4.279 Yrths)
         surface_area: 9.339 × 10<sup>09</sup> km<sup>2</sup><br/>(18.310 Yrths)
         volume: 8.486 × 10<sup>13</sup> km<sup>3</sup><br/>(78.346 Yrths)
-        mass: 1.253 × 10<sup>26</sup> kg<br />(14.179001032680754 Yrths)
+        mass: 1.253 × 10<sup>26</sup> kg<br />(20.989 Yrths)
         density: 1.477 g/cm<sup>3</sup>
         surface_gravity: 11.242 m/s<sup>2</sup><br />(1.146 g<sub>0</sub>)
         escape_velocity: 24.774 km/s<br />(89,186 km/h)
         rotation_period: 53.945 d
         axial_tilt: 18.82°
         albedo: 0.30
-        temperature: 2357 K<br />(2084 °C)
+        temperature: 340 K<br />(67 °C)
   - name: 1545 Narashiad II
     type: Terrestrial
     aphelion: 253,488,799 km<br />1.694 AU
@@ -175,14 +175,14 @@ planets:
     radius: 8,193.8 km<br/>(1.286 Yrths)
     surface_area: 8.437 × 10<sup>08</sup> km<sup>2</sup><br/>(1.654 Yrths)
     volume: 2.304 × 10<sup>12</sup> km<sup>3</sup><br/>(2.127 Yrths)
-    mass: 1.394 × 10<sup>25</sup> kg<br />(2.3340672047138256 Yrths)
+    mass: 1.394 × 10<sup>25</sup> kg<br />(2.33 Yrths)
     density: 6.049 g/cm<sup>3</sup>
     surface_gravity: 13.838 m/s<sup>2</sup><br />(1.411 g<sub>0</sub>)
     escape_velocity: 15.069 km/s<br />(54,249 km/h)
     rotation_period: 0.822 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 329 K<br />(56 °C)
+    temperature: 383 K<br />(110 °C)
     surface_pressure: 144 kPa<br />(1 atm)
     composition:
       - 49.0829% methane
@@ -204,14 +204,14 @@ planets:
         radius: 3,572.6 km<br/>(0.561 Yrths)
         surface_area: 1.604 × 10<sup>08</sup> km<sup>2</sup><br/>(0.314 Yrths)
         volume: 1.910 × 10<sup>11</sup> km<sup>3</sup><br/>(0.176 Yrths)
-        mass: 4.778 × 10<sup>23</sup> kg<br />(2.3340672047138256 Yrths)
+        mass: 4.778 × 10<sup>23</sup> kg<br />(0.080 Yrths)
         density: 2.501 g/cm<sup>3</sup>
         surface_gravity: 2.495 m/s<sup>2</sup><br />(0.254 g<sub>0</sub>)
         escape_velocity: 4.225 km/s<br />(15,211 km/h)
         rotation_period: 33.769 d
         axial_tilt: 17.48°
         albedo: 0.30
-        temperature: 3466 K<br />(3193 °C)
+        temperature: 257 K<br />(-16 °C)
       - name: 1545 Narashiad II b
         type: Rocky
         formationType: Impact formed
@@ -224,12 +224,12 @@ planets:
         radius: 2,361.9 km<br/>(0.371 Yrths)
         surface_area: 7.011 × 10<sup>07</sup> km<sup>2</sup><br/>(0.137 Yrths)
         volume: 5.520 × 10<sup>10</sup> km<sup>3</sup><br/>(0.051 Yrths)
-        mass: 1.646 × 10<sup>23</sup> kg<br />(2.3340672047138256 Yrths)
+        mass: 1.646 × 10<sup>23</sup> kg<br />(0.028 Yrths)
         density: 2.982 g/cm<sup>3</sup>
         surface_gravity: 1.966 m/s<sup>2</sup><br />(0.200 g<sub>0</sub>)
         escape_velocity: 3.050 km/s<br />(10,979 km/h)
         rotation_period: 33.189 d
         axial_tilt: 13.87°
         albedo: 0.30
-        temperature: 3305 K<br />(3032 °C)
+        temperature: 257 K<br />(-16 °C)
 ---

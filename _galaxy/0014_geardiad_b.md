@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0014 Geardiad B is a star in the constellation Geard
+      0014 Geardiad B is a star in the constellation <a href="geard.html">Geard</a>
 distance: 315.94 ly
 apparent_magnitude: 10.56
 absolute_magnitude: 5.63

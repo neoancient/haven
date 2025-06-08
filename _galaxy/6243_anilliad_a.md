@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6243 Anilliad A is a star in the constellation Anil
+      6243 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 268.99 ly
 apparent_magnitude: 9.39
 absolute_magnitude: 4.81

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0056 Ratharshinniad C is a star in the constellation Ratharshin
+      0056 Ratharshinniad C is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 195.24 ly
 apparent_magnitude: 8.31
 absolute_magnitude: 4.42
@@ -31,14 +31,14 @@ planets:
     radius: 220.8 km<br/>(0.035 Yrths)
     surface_area: 6.124 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.506 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.600 × 10<sup>27</sup> kg<br />(267.9312676478289 Yrths)
+    mass: 1.600 × 10<sup>27</sup> kg<br />(267.93 Yrths)
     density: 35507366.831 g/cm<sup>3</sup>
     surface_gravity: 2188442.818 m/s<sup>2</sup><br />(223159.062 g<sub>0</sub>)
     escape_velocity: 983.634 km/s<br />(3,541,082 km/h)
     rotation_period: 0.238 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1151 K<br />(878 °C)
+    temperature: 1091 K<br />(818 °C)
     composition:
       - 100.0000% hydrogen
     moons:
@@ -54,14 +54,14 @@ planets:
         radius: 129,027.3 km<br/>(20.252 Yrths)
         surface_area: 2.092 × 10<sup>11</sup> km<sup>2</sup><br/>(410.155 Yrths)
         volume: 8.998 × 10<sup>15</sup> km<sup>3</sup><br/>(8306.581 Yrths)
-        mass: 1.338 × 10<sup>28</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 1.338 × 10<sup>28</sup> kg<br />(2240.355 Yrths)
         density: 1.487 g/cm<sup>3</sup>
         surface_gravity: 53.566 m/s<sup>2</sup><br />(5.462 g<sub>0</sub>)
         escape_velocity: 117.651 km/s<br />(423,543 km/h)
         rotation_period: 49.938 d
         axial_tilt: 16.01°
         albedo: 0.30
-        temperature: 1665 K<br />(1392 °C)
+        temperature: 312 K<br />(38 °C)
       - name: 0056 Ratharshinniad C I b
         type: Icy
         formationType: Accreted
@@ -74,14 +74,14 @@ planets:
         radius: 150,202.4 km<br/>(23.576 Yrths)
         surface_area: 2.835 × 10<sup>11</sup> km<sup>2</sup><br/>(555.826 Yrths)
         volume: 1.419 × 10<sup>16</sup> km<sup>3</sup><br/>(13104.123 Yrths)
-        mass: 1.723 × 10<sup>28</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 1.723 × 10<sup>28</sup> kg<br />(2884.476 Yrths)
         density: 1.214 g/cm<sup>3</sup>
         surface_gravity: 50.892 m/s<sup>2</sup><br />(5.190 g<sub>0</sub>)
         escape_velocity: 123.729 km/s<br />(445,426 km/h)
         rotation_period: 72.383 d
         axial_tilt: 17.46°
         albedo: 0.30
-        temperature: 1587 K<br />(1314 °C)
+        temperature: 312 K<br />(38 °C)
       - name: 0056 Ratharshinniad C I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -94,14 +94,14 @@ planets:
         radius: 109,489.7 km<br/>(17.186 Yrths)
         surface_area: 1.506 × 10<sup>11</sup> km<sup>2</sup><br/>(295.346 Yrths)
         volume: 5.498 × 10<sup>15</sup> km<sup>3</sup><br/>(5075.708 Yrths)
-        mass: 1.299 × 10<sup>28</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 1.299 × 10<sup>28</sup> kg<br />(2175.964 Yrths)
         density: 2.364 g/cm<sup>3</sup>
         surface_gravity: 72.251 m/s<sup>2</sup><br />(7.368 g<sub>0</sub>)
         escape_velocity: 125.869 km/s<br />(453,127 km/h)
         rotation_period: 38.425 d
         axial_tilt: 16.21°
         albedo: 0.30
-        temperature: 1443 K<br />(1170 °C)
+        temperature: 312 K<br />(38 °C)
       - name: 0056 Ratharshinniad C I d
         type: Icy
         formationType: Accreted
@@ -114,14 +114,14 @@ planets:
         radius: 122,344.7 km<br/>(19.203 Yrths)
         surface_area: 1.881 × 10<sup>11</sup> km<sup>2</sup><br/>(368.770 Yrths)
         volume: 7.671 × 10<sup>15</sup> km<sup>3</sup><br/>(7081.628 Yrths)
-        mass: 1.396 × 10<sup>28</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 1.396 × 10<sup>28</sup> kg<br />(2338.247 Yrths)
         density: 1.820 g/cm<sup>3</sup>
         surface_gravity: 62.181 m/s<sup>2</sup><br />(6.341 g<sub>0</sub>)
         escape_velocity: 123.433 km/s<br />(444,358 km/h)
         rotation_period: 47.465 d
         axial_tilt: 22.99°
         albedo: 0.30
-        temperature: 706 K<br />(433 °C)
+        temperature: 312 K<br />(38 °C)
       - name: 0056 Ratharshinniad C I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -134,14 +134,14 @@ planets:
         radius: 117,642.0 km<br/>(18.465 Yrths)
         surface_area: 1.739 × 10<sup>11</sup> km<sup>2</sup><br/>(340.965 Yrths)
         volume: 6.820 × 10<sup>15</sup> km<sup>3</sup><br/>(6295.987 Yrths)
-        mass: 1.803 × 10<sup>28</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 1.803 × 10<sup>28</sup> kg<br />(3018.719 Yrths)
         density: 2.643 g/cm<sup>3</sup>
         surface_gravity: 86.823 m/s<sup>2</sup><br />(8.853 g<sub>0</sub>)
         escape_velocity: 143.024 km/s<br />(514,885 km/h)
         rotation_period: 39.287 d
         axial_tilt: 24.56°
         albedo: 0.30
-        temperature: 612 K<br />(339 °C)
+        temperature: 312 K<br />(38 °C)
       - name: 0056 Ratharshinniad C I f
         type: Icy
         formationType: Impact formed
@@ -154,14 +154,14 @@ planets:
         radius: 205,411.7 km<br/>(32.242 Yrths)
         surface_area: 5.302 × 10<sup>11</sup> km<sup>2</sup><br/>(1039.525 Yrths)
         volume: 3.630 × 10<sup>16</sup> km<sup>3</sup><br/>(33516.022 Yrths)
-        mass: 6.078 × 10<sup>28</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 6.078 × 10<sup>28</sup> kg<br />(10176.875 Yrths)
         density: 1.674 g/cm<sup>3</sup>
         surface_gravity: 96.006 m/s<sup>2</sup><br />(9.790 g<sub>0</sub>)
         escape_velocity: 198.734 km/s<br />(715,443 km/h)
         rotation_period: 41.195 d
         axial_tilt: 9.61°
         albedo: 0.30
-        temperature: 299 K<br />(26 °C)
+        temperature: 312 K<br />(38 °C)
       - name: 0056 Ratharshinniad C I g
         type: Icy
         formationType: Accreted
@@ -174,14 +174,14 @@ planets:
         radius: 120,380.9 km<br/>(18.895 Yrths)
         surface_area: 1.821 × 10<sup>11</sup> km<sup>2</sup><br/>(357.026 Yrths)
         volume: 7.307 × 10<sup>15</sup> km<sup>3</sup><br/>(6746.052 Yrths)
-        mass: 1.357 × 10<sup>28</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 1.357 × 10<sup>28</sup> kg<br />(2272.497 Yrths)
         density: 1.857 g/cm<sup>3</sup>
         surface_gravity: 62.420 m/s<sup>2</sup><br />(6.365 g<sub>0</sub>)
         escape_velocity: 122.673 km/s<br />(441,625 km/h)
         rotation_period: 63.850 d
         axial_tilt: 7.19°
         albedo: 0.30
-        temperature: 260 K<br />(-14 °C)
+        temperature: 312 K<br />(38 °C)
       - name: 0056 Ratharshinniad C I h
         type: Icy
         formationType: Accreted
@@ -194,14 +194,14 @@ planets:
         radius: 128,857.2 km<br/>(20.226 Yrths)
         surface_area: 2.087 × 10<sup>11</sup> km<sup>2</sup><br/>(409.074 Yrths)
         volume: 8.962 × 10<sup>15</sup> km<sup>3</sup><br/>(8273.768 Yrths)
-        mass: 1.353 × 10<sup>28</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 1.353 × 10<sup>28</sup> kg<br />(2266.216 Yrths)
         density: 1.510 g/cm<sup>3</sup>
         surface_gravity: 54.328 m/s<sup>2</sup><br />(5.540 g<sub>0</sub>)
         escape_velocity: 118.406 km/s<br />(426,262 km/h)
         rotation_period: 42.797 d
         axial_tilt: 14.92°
         albedo: 0.30
-        temperature: 236 K<br />(-37 °C)
+        temperature: 312 K<br />(38 °C)
       - name: 0056 Ratharshinniad C I i
         type: Icy
         formationType: Accreted
@@ -214,14 +214,14 @@ planets:
         radius: 168,503.7 km<br/>(26.449 Yrths)
         surface_area: 3.568 × 10<sup>11</sup> km<sup>2</sup><br/>(699.526 Yrths)
         volume: 2.004 × 10<sup>16</sup> km<sup>3</sup><br/>(18501.447 Yrths)
-        mass: 2.326 × 10<sup>28</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 2.326 × 10<sup>28</sup> kg<br />(3894.597 Yrths)
         density: 1.161 g/cm<sup>3</sup>
         surface_gravity: 54.598 m/s<sup>2</sup><br />(5.567 g<sub>0</sub>)
         escape_velocity: 135.739 km/s<br />(488,660 km/h)
         rotation_period: 50.449 d
         axial_tilt: 16.74°
         albedo: 0.30
-        temperature: 169 K<br />(-104 °C)
+        temperature: 312 K<br />(38 °C)
       - name: 0056 Ratharshinniad C I j
         type: Icy
         formationType: Captured
@@ -234,14 +234,14 @@ planets:
         radius: 348,656.2 km<br/>(54.726 Yrths)
         surface_area: 1.528 × 10<sup>12</sup> km<sup>2</sup><br/>(2994.882 Yrths)
         volume: 1.775 × 10<sup>17</sup> km<sup>3</sup><br/>(163896.432 Yrths)
-        mass: 2.109 × 10<sup>29</sup> kg<br />(267.9312676478289 Yrths)
+        mass: 2.109 × 10<sup>29</sup> kg<br />(35311.033 Yrths)
         density: 1.188 g/cm<sup>3</sup>
         surface_gravity: 115.625 m/s<sup>2</sup><br />(11.790 g<sub>0</sub>)
         escape_velocity: 284.141 km/s<br />(1,022,908 km/h)
         rotation_period: 69.879 d
         axial_tilt: 19.65°
         albedo: 0.30
-        temperature: 133 K<br />(-140 °C)
+        temperature: 312 K<br />(38 °C)
   - name: 0056 Ratharshinniad C II
     type: Gas dwarf
     aphelion: 213,856,390 km<br />1.430 AU
@@ -253,14 +253,14 @@ planets:
     radius: 20,768.8 km<br/>(3.260 Yrths)
     surface_area: 5.420 × 10<sup>09</sup> km<sup>2</sup><br/>(10.627 Yrths)
     volume: 3.753 × 10<sup>13</sup> km<sup>3</sup><br/>(34.643 Yrths)
-    mass: 8.990 × 10<sup>25</sup> kg<br />(15.053522229025381 Yrths)
+    mass: 8.990 × 10<sup>25</sup> kg<br />(15.05 Yrths)
     density: 2.396 g/cm<sup>3</sup>
     surface_gravity: 13.892 m/s<sup>2</sup><br />(1.417 g<sub>0</sub>)
     escape_velocity: 24.038 km/s<br />(86,535 km/h)
     rotation_period: 0.424 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 393 K<br />(120 °C)
+    temperature: 380 K<br />(106 °C)
     composition:
       - 71.0330% hydrogen
       - 26.3030% helium
@@ -278,14 +278,14 @@ planets:
         radius: 22,209.6 km<br/>(3.486 Yrths)
         surface_area: 6.199 × 10<sup>09</sup> km<sup>2</sup><br/>(12.153 Yrths)
         volume: 4.589 × 10<sup>13</sup> km<sup>3</sup><br/>(42.364 Yrths)
-        mass: 4.711 × 10<sup>25</sup> kg<br />(15.053522229025381 Yrths)
+        mass: 4.711 × 10<sup>25</sup> kg<br />(7.888 Yrths)
         density: 1.027 g/cm<sup>3</sup>
         surface_gravity: 6.365 m/s<sup>2</sup><br />(0.649 g<sub>0</sub>)
         escape_velocity: 16.827 km/s<br />(60,576 km/h)
         rotation_period: 82.883 d
         axial_tilt: 22.03°
         albedo: 0.30
-        temperature: 2283 K<br />(2010 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 0056 Ratharshinniad C II b
         type: Asteroid
         formationType: Captured
@@ -298,14 +298,14 @@ planets:
         radius: 8,694.2 km<br/>(1.365 Yrths)
         surface_area: 9.499 × 10<sup>08</sup> km<sup>2</sup><br/>(1.862 Yrths)
         volume: 2.753 × 10<sup>12</sup> km<sup>3</sup><br/>(2.541 Yrths)
-        mass: 1.019 × 10<sup>25</sup> kg<br />(15.053522229025381 Yrths)
+        mass: 1.019 × 10<sup>25</sup> kg<br />(1.706 Yrths)
         density: 3.700 g/cm<sup>3</sup>
         surface_gravity: 8.981 m/s<sup>2</sup><br />(0.916 g<sub>0</sub>)
         escape_velocity: 12.505 km/s<br />(45,019 km/h)
         rotation_period: 46.827 d
         axial_tilt: 38.85°
         albedo: 0.30
-        temperature: 2076 K<br />(1802 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 0056 Ratharshinniad C II c
         type: Icy
         formationType: Captured
@@ -318,14 +318,14 @@ planets:
         radius: 27,656.3 km<br/>(4.341 Yrths)
         surface_area: 9.612 × 10<sup>09</sup> km<sup>2</sup><br/>(18.844 Yrths)
         volume: 8.861 × 10<sup>13</sup> km<sup>3</sup><br/>(81.801 Yrths)
-        mass: 7.876 × 10<sup>25</sup> kg<br />(15.053522229025381 Yrths)
+        mass: 7.876 × 10<sup>25</sup> kg<br />(13.189 Yrths)
         density: 0.889 g/cm<sup>3</sup>
         surface_gravity: 6.864 m/s<sup>2</sup><br />(0.700 g<sub>0</sub>)
         escape_velocity: 19.498 km/s<br />(70,192 km/h)
         rotation_period: 89.467 d
         axial_tilt: 13.48°
         albedo: 0.30
-        temperature: 1979 K<br />(1706 °C)
+        temperature: 239 K<br />(-34 °C)
       - name: 0056 Ratharshinniad C II d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -338,14 +338,14 @@ planets:
         radius: 12,975.7 km<br/>(2.037 Yrths)
         surface_area: 2.116 × 10<sup>09</sup> km<sup>2</sup><br/>(4.148 Yrths)
         volume: 9.151 × 10<sup>12</sup> km<sup>3</sup><br/>(8.448 Yrths)
-        mass: 2.251 × 10<sup>25</sup> kg<br />(15.053522229025381 Yrths)
+        mass: 2.251 × 10<sup>25</sup> kg<br />(3.770 Yrths)
         density: 2.460 g/cm<sup>3</sup>
         surface_gravity: 8.912 m/s<sup>2</sup><br />(0.909 g<sub>0</sub>)
         escape_velocity: 15.218 km/s<br />(54,785 km/h)
         rotation_period: 35.912 d
         axial_tilt: 7.34°
         albedo: 0.30
-        temperature: 1887 K<br />(1614 °C)
+        temperature: 239 K<br />(-34 °C)
   - name: 0056 Ratharshinniad C III
     type: Gas giant
     aphelion: 394,239,217 km<br />2.635 AU
@@ -357,7 +357,7 @@ planets:
     radius: 170.1 km<br/>(0.027 Yrths)
     surface_area: 3.637 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.063 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.069 × 10<sup>26</sup> kg<br />(84.88720713143827 Yrths)
+    mass: 5.069 × 10<sup>26</sup> kg<br />(84.89 Yrths)
     density: 24575595.019 g/cm<sup>3</sup>
     surface_gravity: 1167343.140 m/s<sup>2</sup><br />(119035.873 g<sub>0</sub>)
     escape_velocity: 630.673 km/s<br />(2,270,421 km/h)
@@ -378,14 +378,14 @@ planets:
         radius: 160,089.2 km<br/>(25.128 Yrths)
         surface_area: 3.221 × 10<sup>11</sup> km<sup>2</sup><br/>(631.406 Yrths)
         volume: 1.719 × 10<sup>16</sup> km<sup>3</sup><br/>(15865.834 Yrths)
-        mass: 1.203 × 10<sup>28</sup> kg<br />(84.88720713143827 Yrths)
+        mass: 1.203 × 10<sup>28</sup> kg<br />(2014.432 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 31.287 m/s<sup>2</sup><br />(3.190 g<sub>0</sub>)
         escape_velocity: 100.155 km/s<br />(360,558 km/h)
         rotation_period: 66.020 d
         axial_tilt: 20.74°
         albedo: 0.30
-        temperature: 895 K<br />(622 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0056 Ratharshinniad C III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -398,14 +398,14 @@ planets:
         radius: 86,209.0 km<br/>(13.531 Yrths)
         surface_area: 9.339 × 10<sup>10</sup> km<sup>2</sup><br/>(183.101 Yrths)
         volume: 2.684 × 10<sup>15</sup> km<sup>3</sup><br/>(2477.621 Yrths)
-        mass: 5.898 × 10<sup>27</sup> kg<br />(84.88720713143827 Yrths)
+        mass: 5.898 × 10<sup>27</sup> kg<br />(987.646 Yrths)
         density: 2.198 g/cm<sup>3</sup>
         surface_gravity: 52.897 m/s<sup>2</sup><br />(5.394 g<sub>0</sub>)
         escape_velocity: 95.566 km/s<br />(344,037 km/h)
         rotation_period: 46.179 d
         axial_tilt: 21.80°
         albedo: 0.30
-        temperature: 853 K<br />(580 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0056 Ratharshinniad C III c
         type: Icy
         formationType: Captured
@@ -418,14 +418,14 @@ planets:
         radius: 117,189.3 km<br/>(18.394 Yrths)
         surface_area: 1.726 × 10<sup>11</sup> km<sup>2</sup><br/>(338.346 Yrths)
         volume: 6.741 × 10<sup>15</sup> km<sup>3</sup><br/>(6223.589 Yrths)
-        mass: 4.719 × 10<sup>27</sup> kg<br />(84.88720713143827 Yrths)
+        mass: 4.719 × 10<sup>27</sup> kg<br />(790.188 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 22.903 m/s<sup>2</sup><br />(2.335 g<sub>0</sub>)
         escape_velocity: 73.316 km/s<br />(263,938 km/h)
         rotation_period: 79.309 d
         axial_tilt: 16.72°
         albedo: 0.30
-        temperature: 705 K<br />(432 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0056 Ratharshinniad C III d
         type: Icy
         formationType: Accreted
@@ -438,14 +438,14 @@ planets:
         radius: 120,892.6 km<br/>(18.975 Yrths)
         surface_area: 1.837 × 10<sup>11</sup> km<sup>2</sup><br/>(360.068 Yrths)
         volume: 7.401 × 10<sup>15</sup> km<sup>3</sup><br/>(6832.442 Yrths)
-        mass: 9.025 × 10<sup>27</sup> kg<br />(84.88720713143827 Yrths)
+        mass: 9.025 × 10<sup>27</sup> kg<br />(1511.224 Yrths)
         density: 1.219 g/cm<sup>3</sup>
         surface_gravity: 41.159 m/s<sup>2</sup><br />(4.197 g<sub>0</sub>)
         escape_velocity: 99.826 km/s<br />(359,373 km/h)
         rotation_period: 50.958 d
         axial_tilt: 23.97°
         albedo: 0.30
-        temperature: 672 K<br />(399 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0056 Ratharshinniad C III e
         type: Icy
         formationType: Accreted
@@ -458,14 +458,14 @@ planets:
         radius: 92,704.3 km<br/>(14.551 Yrths)
         surface_area: 1.080 × 10<sup>11</sup> km<sup>2</sup><br/>(211.731 Yrths)
         volume: 3.337 × 10<sup>15</sup> km<sup>3</sup><br/>(3080.891 Yrths)
-        mass: 6.196 × 10<sup>27</sup> kg<br />(84.88720713143827 Yrths)
+        mass: 6.196 × 10<sup>27</sup> kg<br />(1037.519 Yrths)
         density: 1.857 g/cm<sup>3</sup>
         surface_gravity: 48.054 m/s<sup>2</sup><br />(4.900 g<sub>0</sub>)
         escape_velocity: 94.455 km/s<br />(340,039 km/h)
         rotation_period: 55.865 d
         axial_tilt: 19.57°
         albedo: 0.30
-        temperature: 438 K<br />(165 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0056 Ratharshinniad C III f
         type: Icy
         formationType: Accreted
@@ -478,14 +478,14 @@ planets:
         radius: 109,605.5 km<br/>(17.204 Yrths)
         surface_area: 1.510 × 10<sup>11</sup> km<sup>2</sup><br/>(295.971 Yrths)
         volume: 5.516 × 10<sup>15</sup> km<sup>3</sup><br/>(5091.838 Yrths)
-        mass: 7.318 × 10<sup>27</sup> kg<br />(84.88720713143827 Yrths)
+        mass: 7.318 × 10<sup>27</sup> kg<br />(1225.318 Yrths)
         density: 1.327 g/cm<sup>3</sup>
         surface_gravity: 40.599 m/s<sup>2</sup><br />(4.140 g<sub>0</sub>)
         escape_velocity: 94.403 km/s<br />(339,851 km/h)
         rotation_period: 62.242 d
         axial_tilt: 14.08°
         albedo: 0.30
-        temperature: 379 K<br />(106 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0056 Ratharshinniad C III g
         type: Ice/rock hybrid
         formationType: Captured
@@ -498,14 +498,14 @@ planets:
         radius: 107,901.0 km<br/>(16.936 Yrths)
         surface_area: 1.463 × 10<sup>11</sup> km<sup>2</sup><br/>(286.837 Yrths)
         volume: 5.262 × 10<sup>15</sup> km<sup>3</sup><br/>(4857.950 Yrths)
-        mass: 1.177 × 10<sup>28</sup> kg<br />(84.88720713143827 Yrths)
+        mass: 1.177 × 10<sup>28</sup> kg<br />(1970.133 Yrths)
         density: 2.236 g/cm<sup>3</sup>
         surface_gravity: 67.357 m/s<sup>2</sup><br />(6.868 g<sub>0</sub>)
         escape_velocity: 120.646 km/s<br />(434,326 km/h)
         rotation_period: 33.445 d
         axial_tilt: 12.86°
         albedo: 0.30
-        temperature: 345 K<br />(72 °C)
+        temperature: 184 K<br />(-89 °C)
       - name: 0056 Ratharshinniad C III h
         type: Icy
         formationType: Accreted
@@ -518,14 +518,14 @@ planets:
         radius: 104,822.6 km<br/>(16.453 Yrths)
         surface_area: 1.381 × 10<sup>11</sup> km<sup>2</sup><br/>(270.704 Yrths)
         volume: 4.825 × 10<sup>15</sup> km<sup>3</sup><br/>(4453.913 Yrths)
-        mass: 8.190 × 10<sup>27</sup> kg<br />(84.88720713143827 Yrths)
+        mass: 8.190 × 10<sup>27</sup> kg<br />(1371.371 Yrths)
         density: 1.698 g/cm<sup>3</sup>
         surface_gravity: 49.680 m/s<sup>2</sup><br />(5.066 g<sub>0</sub>)
         escape_velocity: 102.124 km/s<br />(367,646 km/h)
         rotation_period: 41.271 d
         axial_tilt: 24.49°
         albedo: 0.30
-        temperature: 329 K<br />(56 °C)
+        temperature: 184 K<br />(-89 °C)
   - name: 0056 Ratharshinniad C IV
     type: Gas giant
     aphelion: 694,112,043 km<br />4.640 AU
@@ -537,7 +537,7 @@ planets:
     radius: 222.5 km<br/>(0.035 Yrths)
     surface_area: 6.219 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.611 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.592 × 10<sup>27</sup> kg<br />(266.65523556456 Yrths)
+    mass: 1.592 × 10<sup>27</sup> kg<br />(266.66 Yrths)
     density: 34532632.613 g/cm<sup>3</sup>
     surface_gravity: 2144790.726 m/s<sup>2</sup><br />(218707.788 g<sub>0</sub>)
     escape_velocity: 977.524 km/s<br />(3,519,087 km/h)
@@ -558,14 +558,14 @@ planets:
         radius: 118,758.7 km<br/>(18.641 Yrths)
         surface_area: 1.772 × 10<sup>11</sup> km<sup>2</sup><br/>(347.469 Yrths)
         volume: 7.016 × 10<sup>15</sup> km<sup>3</sup><br/>(6476.992 Yrths)
-        mass: 1.750 × 10<sup>28</sup> kg<br />(266.65523556456 Yrths)
+        mass: 1.750 × 10<sup>28</sup> kg<br />(2929.902 Yrths)
         density: 2.494 g/cm<sup>3</sup>
         surface_gravity: 82.691 m/s<sup>2</sup><br />(8.432 g<sub>0</sub>)
         escape_velocity: 140.240 km/s<br />(504,864 km/h)
         rotation_period: 45.798 d
         axial_tilt: 15.20°
         albedo: 0.30
-        temperature: 793 K<br />(520 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 0056 Ratharshinniad C IV b
         type: Icy
         formationType: Captured
@@ -578,14 +578,14 @@ planets:
         radius: 140,819.7 km<br/>(22.103 Yrths)
         surface_area: 2.492 × 10<sup>11</sup> km<sup>2</sup><br/>(488.553 Yrths)
         volume: 1.170 × 10<sup>16</sup> km<sup>3</sup><br/>(10798.603 Yrths)
-        mass: 1.874 × 10<sup>28</sup> kg<br />(266.65523556456 Yrths)
+        mass: 1.874 × 10<sup>28</sup> kg<br />(3137.478 Yrths)
         density: 1.602 g/cm<sup>3</sup>
         surface_gravity: 62.978 m/s<sup>2</sup><br />(6.422 g<sub>0</sub>)
         escape_velocity: 133.271 km/s<br />(479,776 km/h)
         rotation_period: 40.978 d
         axial_tilt: 17.61°
         albedo: 0.30
-        temperature: 292 K<br />(18 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 0056 Ratharshinniad C IV c
         type: Asteroid
         formationType: Captured
@@ -598,14 +598,14 @@ planets:
         radius: 147,696.7 km<br/>(23.183 Yrths)
         surface_area: 2.741 × 10<sup>11</sup> km<sup>2</sup><br/>(537.435 Yrths)
         volume: 1.350 × 10<sup>16</sup> km<sup>3</sup><br/>(12459.178 Yrths)
-        mass: 3.242 × 10<sup>28</sup> kg<br />(266.65523556456 Yrths)
+        mass: 3.242 × 10<sup>28</sup> kg<br />(5428.365 Yrths)
         density: 2.402 g/cm<sup>3</sup>
         surface_gravity: 99.052 m/s<sup>2</sup><br />(10.100 g<sub>0</sub>)
         escape_velocity: 171.170 km/s<br />(616,211 km/h)
         rotation_period: 43.261 d
         axial_tilt: 20.55°
         albedo: 0.30
-        temperature: 253 K<br />(-20 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 0056 Ratharshinniad C IV d
         type: Icy
         formationType: Captured
@@ -618,14 +618,14 @@ planets:
         radius: 201,964.4 km<br/>(31.701 Yrths)
         surface_area: 5.126 × 10<sup>11</sup> km<sup>2</sup><br/>(1004.927 Yrths)
         volume: 3.451 × 10<sup>16</sup> km<sup>3</sup><br/>(31856.760 Yrths)
-        mass: 3.023 × 10<sup>28</sup> kg<br />(266.65523556456 Yrths)
+        mass: 3.023 × 10<sup>28</sup> kg<br />(5062.180 Yrths)
         density: 0.876 g/cm<sup>3</sup>
         surface_gravity: 49.400 m/s<sup>2</sup><br />(5.037 g<sub>0</sub>)
         escape_velocity: 141.354 km/s<br />(508,876 km/h)
         rotation_period: 79.940 d
         axial_tilt: 15.75°
         albedo: 0.30
-        temperature: 150 K<br />(-124 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 0056 Ratharshinniad C IV e
         type: Ice/rock hybrid
         formationType: Captured
@@ -638,14 +638,14 @@ planets:
         radius: 141,594.1 km<br/>(22.225 Yrths)
         surface_area: 2.519 × 10<sup>11</sup> km<sup>2</sup><br/>(493.941 Yrths)
         volume: 1.189 × 10<sup>16</sup> km<sup>3</sup><br/>(10977.727 Yrths)
-        mass: 2.635 × 10<sup>28</sup> kg<br />(266.65523556456 Yrths)
+        mass: 2.635 × 10<sup>28</sup> kg<br />(4411.509 Yrths)
         density: 2.216 g/cm<sup>3</sup>
         surface_gravity: 87.586 m/s<sup>2</sup><br />(8.931 g<sub>0</sub>)
         escape_velocity: 157.597 km/s<br />(567,350 km/h)
         rotation_period: 46.061 d
         axial_tilt: 5.93°
         albedo: 0.30
-        temperature: 130 K<br />(-143 °C)
+        temperature: 141 K<br />(-132 °C)
       - name: 0056 Ratharshinniad C IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -658,14 +658,14 @@ planets:
         radius: 143,184.0 km<br/>(22.474 Yrths)
         surface_area: 2.576 × 10<sup>11</sup> km<sup>2</sup><br/>(505.096 Yrths)
         volume: 1.230 × 10<sup>16</sup> km<sup>3</sup><br/>(11351.699 Yrths)
-        mass: 2.662 × 10<sup>28</sup> kg<br />(266.65523556456 Yrths)
+        mass: 2.662 × 10<sup>28</sup> kg<br />(4457.530 Yrths)
         density: 2.165 g/cm<sup>3</sup>
         surface_gravity: 86.545 m/s<sup>2</sup><br />(8.825 g<sub>0</sub>)
         escape_velocity: 157.535 km/s<br />(567,127 km/h)
         rotation_period: 40.597 d
         axial_tilt: 17.40°
         albedo: 0.30
-        temperature: 107 K<br />(-166 °C)
+        temperature: 141 K<br />(-132 °C)
   - name: 0056 Ratharshinniad C V
     type: Gas giant
     aphelion: 1,125,305,024 km<br />7.522 AU
@@ -677,7 +677,7 @@ planets:
     radius: 202.9 km<br/>(0.032 Yrths)
     surface_area: 5.175 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.501 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.072 × 10<sup>27</sup> kg<br />(179.5064404008073 Yrths)
+    mass: 1.072 × 10<sup>27</sup> kg<br />(179.51 Yrths)
     density: 30621870.454 g/cm<sup>3</sup>
     surface_gravity: 1734987.090 m/s<sup>2</sup><br />(176919.446 g<sub>0</sub>)
     escape_velocity: 839.726 km/s<br />(3,023,015 km/h)
@@ -698,14 +698,14 @@ planets:
         radius: 106,838.2 km<br/>(16.769 Yrths)
         surface_area: 1.434 × 10<sup>11</sup> km<sup>2</sup><br/>(281.214 Yrths)
         volume: 5.108 × 10<sup>15</sup> km<sup>3</sup><br/>(4715.811 Yrths)
-        mass: 7.629 × 10<sup>27</sup> kg<br />(179.5064404008073 Yrths)
+        mass: 7.629 × 10<sup>27</sup> kg<br />(1277.519 Yrths)
         density: 1.494 g/cm<sup>3</sup>
         surface_gravity: 44.550 m/s<sup>2</sup><br />(4.543 g<sub>0</sub>)
         escape_velocity: 97.633 km/s<br />(351,480 km/h)
         rotation_period: 53.301 d
         axial_tilt: 18.33°
         albedo: 0.30
-        temperature: 621 K<br />(348 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0056 Ratharshinniad C V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -718,14 +718,14 @@ planets:
         radius: 101,012.1 km<br/>(15.855 Yrths)
         surface_area: 1.282 × 10<sup>11</sup> km<sup>2</sup><br/>(251.380 Yrths)
         volume: 4.317 × 10<sup>15</sup> km<sup>3</sup><br/>(3985.630 Yrths)
-        mass: 9.555 × 10<sup>27</sup> kg<br />(179.5064404008073 Yrths)
+        mass: 9.555 × 10<sup>27</sup> kg<br />(1599.895 Yrths)
         density: 2.213 g/cm<sup>3</sup>
         surface_gravity: 62.414 m/s<sup>2</sup><br />(6.364 g<sub>0</sub>)
         escape_velocity: 112.367 km/s<br />(404,519 km/h)
         rotation_period: 41.057 d
         axial_tilt: 16.31°
         albedo: 0.30
-        temperature: 592 K<br />(319 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0056 Ratharshinniad C V c
         type: Icy
         formationType: Accreted
@@ -738,14 +738,14 @@ planets:
         radius: 115,739.9 km<br/>(18.167 Yrths)
         surface_area: 1.683 × 10<sup>11</sup> km<sup>2</sup><br/>(330.028 Yrths)
         volume: 6.494 × 10<sup>15</sup> km<sup>3</sup><br/>(5995.522 Yrths)
-        mass: 8.854 × 10<sup>27</sup> kg<br />(179.5064404008073 Yrths)
+        mass: 8.854 × 10<sup>27</sup> kg<br />(1482.516 Yrths)
         density: 1.363 g/cm<sup>3</sup>
         surface_gravity: 44.052 m/s<sup>2</sup><br />(4.492 g<sub>0</sub>)
         escape_velocity: 101.050 km/s<br />(363,780 km/h)
         rotation_period: 74.658 d
         axial_tilt: 10.41°
         albedo: 0.30
-        temperature: 385 K<br />(112 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0056 Ratharshinniad C V d
         type: Asteroid
         formationType: Captured
@@ -758,14 +758,14 @@ planets:
         radius: 199,882.9 km<br/>(31.374 Yrths)
         surface_area: 5.021 × 10<sup>11</sup> km<sup>2</sup><br/>(984.319 Yrths)
         volume: 3.345 × 10<sup>16</sup> km<sup>3</sup><br/>(30881.901 Yrths)
-        mass: 9.571 × 10<sup>28</sup> kg<br />(179.5064404008073 Yrths)
+        mass: 9.571 × 10<sup>28</sup> kg<br />(16027.216 Yrths)
         density: 2.861 g/cm<sup>3</sup>
         surface_gravity: 159.677 m/s<sup>2</sup><br />(16.283 g<sub>0</sub>)
         escape_velocity: 252.824 km/s<br />(910,168 km/h)
         rotation_period: 32.876 d
         axial_tilt: 15.66°
         albedo: 0.30
-        temperature: 319 K<br />(45 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0056 Ratharshinniad C V e
         type: Icy
         formationType: Accreted
@@ -778,14 +778,14 @@ planets:
         radius: 119,292.2 km<br/>(18.724 Yrths)
         surface_area: 1.788 × 10<sup>11</sup> km<sup>2</sup><br/>(350.598 Yrths)
         volume: 7.111 × 10<sup>15</sup> km<sup>3</sup><br/>(6564.679 Yrths)
-        mass: 1.149 × 10<sup>28</sup> kg<br />(179.5064404008073 Yrths)
+        mass: 1.149 × 10<sup>28</sup> kg<br />(1923.692 Yrths)
         density: 1.616 g/cm<sup>3</sup>
         surface_gravity: 53.808 m/s<sup>2</sup><br />(5.487 g<sub>0</sub>)
         escape_velocity: 113.381 km/s<br />(408,171 km/h)
         rotation_period: 51.885 d
         axial_tilt: 24.07°
         albedo: 0.30
-        temperature: 304 K<br />(31 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0056 Ratharshinniad C V f
         type: Icy
         formationType: Impact formed
@@ -798,14 +798,14 @@ planets:
         radius: 132,907.5 km<br/>(20.861 Yrths)
         surface_area: 2.220 × 10<sup>11</sup> km<sup>2</sup><br/>(435.195 Yrths)
         volume: 9.834 × 10<sup>15</sup> km<sup>3</sup><br/>(9078.752 Yrths)
-        mass: 1.029 × 10<sup>28</sup> kg<br />(179.5064404008073 Yrths)
+        mass: 1.029 × 10<sup>28</sup> kg<br />(1723.165 Yrths)
         density: 1.046 g/cm<sup>3</sup>
         surface_gravity: 38.830 m/s<sup>2</sup><br />(3.960 g<sub>0</sub>)
         escape_velocity: 101.664 km/s<br />(365,990 km/h)
         rotation_period: 90.556 d
         axial_tilt: 16.53°
         albedo: 0.30
-        temperature: 239 K<br />(-34 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0056 Ratharshinniad C V g
         type: Icy
         formationType: Captured
@@ -818,14 +818,14 @@ planets:
         radius: 120,932.7 km<br/>(18.982 Yrths)
         surface_area: 1.838 × 10<sup>11</sup> km<sup>2</sup><br/>(360.307 Yrths)
         volume: 7.408 × 10<sup>15</sup> km<sup>3</sup><br/>(6839.257 Yrths)
-        mass: 8.450 × 10<sup>27</sup> kg<br />(179.5064404008073 Yrths)
+        mass: 8.450 × 10<sup>27</sup> kg<br />(1414.907 Yrths)
         density: 1.141 g/cm<sup>3</sup>
         surface_gravity: 38.510 m/s<sup>2</sup><br />(3.927 g<sub>0</sub>)
         escape_velocity: 96.576 km/s<br />(347,674 km/h)
         rotation_period: 76.287 d
         axial_tilt: 11.51°
         albedo: 0.30
-        temperature: 218 K<br />(-56 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0056 Ratharshinniad C V h
         type: Rocky
         formationType: Impact formed
@@ -838,14 +838,14 @@ planets:
         radius: 98,674.9 km<br/>(15.488 Yrths)
         surface_area: 1.224 × 10<sup>11</sup> km<sup>2</sup><br/>(239.882 Yrths)
         volume: 4.024 × 10<sup>15</sup> km<sup>3</sup><br/>(3715.332 Yrths)
-        mass: 9.659 × 10<sup>27</sup> kg<br />(179.5064404008073 Yrths)
+        mass: 9.659 × 10<sup>27</sup> kg<br />(1617.337 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 66.118 m/s<sup>2</sup><br />(6.742 g<sub>0</sub>)
         escape_velocity: 114.307 km/s<br />(411,507 km/h)
         rotation_period: 55.771 d
         axial_tilt: 11.80°
         albedo: 0.30
-        temperature: 189 K<br />(-85 °C)
+        temperature: 109 K<br />(-164 °C)
       - name: 0056 Ratharshinniad C V i
         type: Icy
         formationType: Captured
@@ -858,12 +858,12 @@ planets:
         radius: 119,637.1 km<br/>(18.778 Yrths)
         surface_area: 1.799 × 10<sup>11</sup> km<sup>2</sup><br/>(352.628 Yrths)
         volume: 7.173 × 10<sup>15</sup> km<sup>3</sup><br/>(6621.781 Yrths)
-        mass: 9.391 × 10<sup>27</sup> kg<br />(179.5064404008073 Yrths)
+        mass: 9.391 × 10<sup>27</sup> kg<br />(1572.445 Yrths)
         density: 1.309 g/cm<sup>3</sup>
         surface_gravity: 43.730 m/s<sup>2</sup><br />(4.459 g<sub>0</sub>)
         escape_velocity: 102.361 km/s<br />(368,498 km/h)
         rotation_period: 54.562 d
         axial_tilt: 18.67°
         albedo: 0.30
-        temperature: 92 K<br />(-181 °C)
+        temperature: 109 K<br />(-164 °C)
 ---

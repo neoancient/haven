@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8526 Niniunniad A is a star in the constellation Niniun
+      8526 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 408.69 ly
 apparent_magnitude: 7.46
 absolute_magnitude: 1.97

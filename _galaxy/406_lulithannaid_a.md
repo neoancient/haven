@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      406 Lulithannaid A is a star in the constellation Lulithan
+      406 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 396.62 ly
 apparent_magnitude: 7.54
 absolute_magnitude: 2.11

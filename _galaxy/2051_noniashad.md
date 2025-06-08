@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2051 Noniashad is a star in the constellation Nonias
+      2051 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 391.53 ly
 apparent_magnitude: 11.89
 absolute_magnitude: 6.50

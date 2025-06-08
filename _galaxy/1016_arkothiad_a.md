@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1016 Arkothiad A is a star in the constellation Arkoth
+      1016 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 349.84 ly
 apparent_magnitude: 8.27
 absolute_magnitude: 3.11

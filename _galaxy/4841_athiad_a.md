@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4841 Athiad A is a star in the constellation Ath
+      4841 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 529.04 ly
 apparent_magnitude: 7.71
 absolute_magnitude: 1.66

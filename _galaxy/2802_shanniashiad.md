@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2802 Shanniashiad is a star in the constellation Shannias
+      2802 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 903.28 ly
 apparent_magnitude: 17.22
 absolute_magnitude: 10.01

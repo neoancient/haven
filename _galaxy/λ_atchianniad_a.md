@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      λ Atchianniad A is a star in the constellation Atchian
+      λ Atchianniad A is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 667.68 ly
 apparent_magnitude: 4.18
 absolute_magnitude: -2.37

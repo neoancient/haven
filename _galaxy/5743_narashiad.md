@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5743 Narashiad is a star in the constellation Naras
+      5743 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 501.51 ly
 apparent_magnitude: 14.02
 absolute_magnitude: 8.09

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9790 Tanashad A is a star in the constellation Tanas
+      9790 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 474.66 ly
 apparent_magnitude: 9.19
 absolute_magnitude: 3.38

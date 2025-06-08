@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1100 Athiad is a star in the constellation Ath
+      1100 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 558.42 ly
 apparent_magnitude: 11.18
 absolute_magnitude: 5.01

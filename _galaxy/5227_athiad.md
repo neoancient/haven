@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5227 Athiad is a star in the constellation Ath
+      5227 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 367.27 ly
 apparent_magnitude: 7.02
 absolute_magnitude: 1.77
@@ -31,14 +31,14 @@ planets:
     radius: 232.9 km<br/>(0.037 Yrths)
     surface_area: 6.817 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.293 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.977 × 10<sup>27</sup> kg<br />(330.96586239242424 Yrths)
+    mass: 1.977 × 10<sup>27</sup> kg<br />(330.97 Yrths)
     density: 37344445.826 g/cm<sup>3</sup>
     surface_gravity: 2428436.987 m/s<sup>2</sup><br />(247631.657 g<sub>0</sub>)
     escape_velocity: 1064.318 km/s<br />(3,831,544 km/h)
     rotation_period: 0.233 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1642 K<br />(1369 °C)
+    temperature: 1716 K<br />(1442 °C)
     composition:
       - 79.2858% hydrogen
       - 16.6006% helium
@@ -57,14 +57,14 @@ planets:
         radius: 181,913.0 km<br/>(28.553 Yrths)
         surface_area: 4.159 × 10<sup>11</sup> km<sup>2</sup><br/>(815.290 Yrths)
         volume: 2.522 × 10<sup>16</sup> km<sup>3</sup><br/>(23279.224 Yrths)
-        mass: 4.035 × 10<sup>28</sup> kg<br />(330.96586239242424 Yrths)
+        mass: 4.035 × 10<sup>28</sup> kg<br />(6755.852 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 81.262 m/s<sup>2</sup><br />(8.286 g<sub>0</sub>)
         escape_velocity: 172.062 km/s<br />(619,425 km/h)
         rotation_period: 63.898 d
         axial_tilt: 13.99°
         albedo: 0.30
-        temperature: 1559 K<br />(1286 °C)
+        temperature: 397 K<br />(124 °C)
       - name: 5227 Athiad I b
         type: Ice/rock hybrid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 184,214.1 km<br/>(28.914 Yrths)
         surface_area: 4.264 × 10<sup>11</sup> km<sup>2</sup><br/>(836.046 Yrths)
         volume: 2.619 × 10<sup>16</sup> km<sup>3</sup><br/>(24173.832 Yrths)
-        mass: 5.293 × 10<sup>28</sup> kg<br />(330.96586239242424 Yrths)
+        mass: 5.293 × 10<sup>28</sup> kg<br />(8863.037 Yrths)
         density: 2.021 g/cm<sup>3</sup>
         surface_gravity: 103.962 m/s<sup>2</sup><br />(10.601 g<sub>0</sub>)
         escape_velocity: 195.843 km/s<br />(705,034 km/h)
         rotation_period: 35.163 d
         axial_tilt: 12.35°
         albedo: 0.30
-        temperature: 693 K<br />(420 °C)
+        temperature: 397 K<br />(124 °C)
       - name: 5227 Athiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -97,14 +97,14 @@ planets:
         radius: 163,334.3 km<br/>(25.637 Yrths)
         surface_area: 3.352 × 10<sup>11</sup> km<sup>2</sup><br/>(657.264 Yrths)
         volume: 1.825 × 10<sup>16</sup> km<sup>3</sup><br/>(16850.381 Yrths)
-        mass: 4.158 × 10<sup>28</sup> kg<br />(330.96586239242424 Yrths)
+        mass: 4.158 × 10<sup>28</sup> kg<br />(6962.759 Yrths)
         density: 2.278 g/cm<sup>3</sup>
         surface_gravity: 103.887 m/s<sup>2</sup><br />(10.594 g<sub>0</sub>)
         escape_velocity: 184.344 km/s<br />(663,639 km/h)
         rotation_period: 59.893 d
         axial_tilt: 23.10°
         albedo: 0.30
-        temperature: 573 K<br />(300 °C)
+        temperature: 397 K<br />(124 °C)
       - name: 5227 Athiad I d
         type: Asteroid
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 153,413.7 km<br/>(24.080 Yrths)
         surface_area: 2.958 × 10<sup>11</sup> km<sup>2</sup><br/>(579.846 Yrths)
         volume: 1.512 × 10<sup>16</sup> km<sup>3</sup><br/>(13962.704 Yrths)
-        mass: 2.146 × 10<sup>28</sup> kg<br />(330.96586239242424 Yrths)
+        mass: 2.146 × 10<sup>28</sup> kg<br />(3593.362 Yrths)
         density: 1.419 g/cm<sup>3</sup>
         surface_gravity: 60.773 m/s<sup>2</sup><br />(6.197 g<sub>0</sub>)
         escape_velocity: 136.646 km/s<br />(491,925 km/h)
         rotation_period: 44.925 d
         axial_tilt: 49.12°
         albedo: 0.30
-        temperature: 373 K<br />(100 °C)
+        temperature: 397 K<br />(124 °C)
       - name: 5227 Athiad I e
         type: Rocky
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 156,161.2 km<br/>(24.511 Yrths)
         surface_area: 3.064 × 10<sup>11</sup> km<sup>2</sup><br/>(600.802 Yrths)
         volume: 1.595 × 10<sup>16</sup> km<sup>3</sup><br/>(14726.407 Yrths)
-        mass: 4.860 × 10<sup>28</sup> kg<br />(330.96586239242424 Yrths)
+        mass: 4.860 × 10<sup>28</sup> kg<br />(8137.613 Yrths)
         density: 3.047 g/cm<sup>3</sup>
         surface_gravity: 132.827 m/s<sup>2</sup><br />(13.545 g<sub>0</sub>)
         escape_velocity: 203.817 km/s<br />(733,740 km/h)
         rotation_period: 35.524 d
         axial_tilt: 10.17°
         albedo: 0.30
-        temperature: 323 K<br />(50 °C)
+        temperature: 397 K<br />(124 °C)
       - name: 5227 Athiad I f
         type: Icy
         formationType: Accreted
@@ -157,14 +157,14 @@ planets:
         radius: 185,696.9 km<br/>(29.147 Yrths)
         surface_area: 4.333 × 10<sup>11</sup> km<sup>2</sup><br/>(849.560 Yrths)
         volume: 2.682 × 10<sup>16</sup> km<sup>3</sup><br/>(24762.328 Yrths)
-        mass: 3.279 × 10<sup>28</sup> kg<br />(330.96586239242424 Yrths)
+        mass: 3.279 × 10<sup>28</sup> kg<br />(5491.076 Yrths)
         density: 1.223 g/cm<sup>3</sup>
         surface_gravity: 63.385 m/s<sup>2</sup><br />(6.463 g<sub>0</sub>)
         escape_velocity: 153.534 km/s<br />(552,722 km/h)
         rotation_period: 54.194 d
         axial_tilt: 19.33°
         albedo: 0.30
-        temperature: 166 K<br />(-107 °C)
+        temperature: 397 K<br />(124 °C)
   - name: 5227 Athiad II
     type: Large terrestrial
     aphelion: 604,611,296 km<br />4.042 AU
@@ -176,14 +176,14 @@ planets:
     radius: 11,020.3 km<br/>(1.730 Yrths)
     surface_area: 1.526 × 10<sup>09</sup> km<sup>2</sup><br/>(2.992 Yrths)
     volume: 5.606 × 10<sup>12</sup> km<sup>3</sup><br/>(5.176 Yrths)
-    mass: 3.969 × 10<sup>25</sup> kg<br />(6.646073233958292 Yrths)
+    mass: 3.969 × 10<sup>25</sup> kg<br />(6.65 Yrths)
     density: 7.080 g/cm<sup>3</sup>
     surface_gravity: 21.783 m/s<sup>2</sup><br />(2.221 g<sub>0</sub>)
     escape_velocity: 21.926 km/s<br />(78,934 km/h)
     rotation_period: 0.577 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 433 K<br />(160 °C)
+    temperature: 427 K<br />(154 °C)
     surface_pressure: 4,633 kPa<br />(46 atm)
     composition:
       - 63.9421% nitrogen
@@ -203,14 +203,14 @@ planets:
         radius: 12,905.6 km<br/>(2.026 Yrths)
         surface_area: 2.093 × 10<sup>09</sup> km<sup>2</sup><br/>(4.103 Yrths)
         volume: 9.004 × 10<sup>12</sup> km<sup>3</sup><br/>(8.312 Yrths)
-        mass: 3.215 × 10<sup>25</sup> kg<br />(6.646073233958292 Yrths)
+        mass: 3.215 × 10<sup>25</sup> kg<br />(5.383 Yrths)
         density: 3.570 g/cm<sup>3</sup>
         surface_gravity: 12.864 m/s<sup>2</sup><br />(1.312 g<sub>0</sub>)
         escape_velocity: 18.234 km/s<br />(65,644 km/h)
         rotation_period: 29.714 d
         axial_tilt: 28.43°
         albedo: 0.30
-        temperature: 3307 K<br />(3034 °C)
+        temperature: 283 K<br />(10 °C)
   - name: 5227 Athiad III
     type: Large terrestrial
     aphelion: 1,063,405,480 km<br />7.108 AU
@@ -222,15 +222,15 @@ planets:
     radius: 9,917.2 km<br/>(1.557 Yrths)
     surface_area: 1.236 × 10<sup>09</sup> km<sup>2</sup><br/>(2.423 Yrths)
     volume: 4.086 × 10<sup>12</sup> km<sup>3</sup><br/>(3.772 Yrths)
-    mass: 2.562 × 10<sup>25</sup> kg<br />(4.289646336127058 Yrths)
+    mass: 2.562 × 10<sup>25</sup> kg<br />(4.29 Yrths)
     density: 6.270 g/cm<sup>3</sup>
     surface_gravity: 17.361 m/s<sup>2</sup><br />(1.770 g<sub>0</sub>)
     escape_velocity: 18.569 km/s<br />(66,849 km/h)
     rotation_period: 0.613 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 304 K<br />(31 °C)
-    surface_pressure: 2,175 kPa<br />(21 atm)
+    temperature: 364 K<br />(91 °C)
+    surface_pressure: 2,175 kPa<br />(22 atm)
     composition:
       - 71.4855% methane
       - 26.2070% ammonia
@@ -248,12 +248,12 @@ planets:
         radius: 9,254.9 km<br/>(1.453 Yrths)
         surface_area: 1.076 × 10<sup>09</sup> km<sup>2</sup><br/>(2.110 Yrths)
         volume: 3.320 × 10<sup>12</sup> km<sup>3</sup><br/>(3.065 Yrths)
-        mass: 7.969 × 10<sup>24</sup> kg<br />(4.289646336127058 Yrths)
+        mass: 7.969 × 10<sup>24</sup> kg<br />(1.334 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 6.201 m/s<sup>2</sup><br />(0.632 g<sub>0</sub>)
         escape_velocity: 10.721 km/s<br />(38,596 km/h)
         rotation_period: 33.098 d
         axial_tilt: 16.50°
         albedo: 0.30
-        temperature: 2612 K<br />(2339 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

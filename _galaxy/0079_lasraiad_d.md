@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0079 Lasraiad D is a star in the constellation Lasra
+      0079 Lasraiad D is a star in the constellation <a href="lasra.html">Lasra</a>
 distance: 1220.27 ly
 apparent_magnitude: 12.56
 absolute_magnitude: 4.70
@@ -31,14 +31,14 @@ planets:
     radius: 8,177.4 km<br/>(1.284 Yrths)
     surface_area: 8.403 × 10<sup>08</sup> km<sup>2</sup><br/>(1.647 Yrths)
     volume: 2.291 × 10<sup>12</sup> km<sup>3</sup><br/>(2.115 Yrths)
-    mass: 1.521 × 10<sup>25</sup> kg<br />(2.5472727137925375 Yrths)
+    mass: 1.521 × 10<sup>25</sup> kg<br />(2.55 Yrths)
     density: 6.641 g/cm<sup>3</sup>
     surface_gravity: 15.163 m/s<sup>2</sup><br />(1.546 g<sub>0</sub>)
     escape_velocity: 15.758 km/s<br />(56,730 km/h)
     rotation_period: 1.287 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 280 K<br />(7 °C)
+    temperature: 355 K<br />(82 °C)
     surface_pressure: 83 kPa<br />(1 atm)
     composition:
       - 91.7991% ammonia
@@ -57,14 +57,14 @@ planets:
         radius: 4,752.6 km<br/>(0.746 Yrths)
         surface_area: 2.838 × 10<sup>08</sup> km<sup>2</sup><br/>(0.556 Yrths)
         volume: 4.496 × 10<sup>11</sup> km<sup>3</sup><br/>(0.415 Yrths)
-        mass: 8.178 × 10<sup>23</sup> kg<br />(2.5472727137925375 Yrths)
+        mass: 8.178 × 10<sup>23</sup> kg<br />(0.137 Yrths)
         density: 1.819 g/cm<sup>3</sup>
         surface_gravity: 2.413 m/s<sup>2</sup><br />(0.246 g<sub>0</sub>)
         escape_velocity: 4.793 km/s<br />(17,253 km/h)
         rotation_period: 65.238 d
         axial_tilt: 63.12°
         albedo: 0.30
-        temperature: 3240 K<br />(2967 °C)
+        temperature: 227 K<br />(-46 °C)
       - name: 0079 Lasraiad D I b
         type: Rocky
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 1,687.0 km<br/>(0.265 Yrths)
         surface_area: 3.576 × 10<sup>07</sup> km<sup>2</sup><br/>(0.070 Yrths)
         volume: 2.011 × 10<sup>10</sup> km<sup>3</sup><br/>(0.019 Yrths)
-        mass: 6.283 × 10<sup>22</sup> kg<br />(2.5472727137925375 Yrths)
+        mass: 6.283 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 3.124 g/cm<sup>3</sup>
         surface_gravity: 1.472 m/s<sup>2</sup><br />(0.150 g<sub>0</sub>)
         escape_velocity: 2.230 km/s<br />(8,027 km/h)
         rotation_period: 32.674 d
         axial_tilt: 17.31°
         albedo: 0.30
-        temperature: 3090 K<br />(2816 °C)
+        temperature: 227 K<br />(-46 °C)
       - name: 0079 Lasraiad D I c
         type: Rocky
         formationType: Impact formed
@@ -97,14 +97,14 @@ planets:
         radius: 5,272.1 km<br/>(0.828 Yrths)
         surface_area: 3.493 × 10<sup>08</sup> km<sup>2</sup><br/>(0.685 Yrths)
         volume: 6.138 × 10<sup>11</sup> km<sup>3</sup><br/>(0.567 Yrths)
-        mass: 1.908 × 10<sup>24</sup> kg<br />(2.5472727137925375 Yrths)
+        mass: 1.908 × 10<sup>24</sup> kg<br />(0.320 Yrths)
         density: 3.109 g/cm<sup>3</sup>
         surface_gravity: 4.576 m/s<sup>2</sup><br />(0.467 g<sub>0</sub>)
         escape_velocity: 6.951 km/s<br />(25,023 km/h)
         rotation_period: 28.919 d
         axial_tilt: 18.59°
         albedo: 0.30
-        temperature: 2946 K<br />(2673 °C)
+        temperature: 227 K<br />(-46 °C)
       - name: 0079 Lasraiad D I d
         type: Icy
         formationType: Captured
@@ -117,14 +117,14 @@ planets:
         radius: 8,630.3 km<br/>(1.355 Yrths)
         surface_area: 9.360 × 10<sup>08</sup> km<sup>2</sup><br/>(1.835 Yrths)
         volume: 2.693 × 10<sup>12</sup> km<sup>3</sup><br/>(2.486 Yrths)
-        mass: 1.885 × 10<sup>24</sup> kg<br />(2.5472727137925375 Yrths)
+        mass: 1.885 × 10<sup>24</sup> kg<br />(0.316 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 1.687 m/s<sup>2</sup><br />(0.172 g<sub>0</sub>)
         escape_velocity: 5.399 km/s<br />(19,437 km/h)
         rotation_period: 78.560 d
         axial_tilt: 18.24°
         albedo: 0.30
-        temperature: 2809 K<br />(2536 °C)
+        temperature: 227 K<br />(-46 °C)
   - name: 0079 Lasraiad D II
     type: Large terrestrial
     aphelion: 607,482,572 km<br />4.061 AU
@@ -136,14 +136,14 @@ planets:
     radius: 10,107.4 km<br/>(1.586 Yrths)
     surface_area: 1.284 × 10<sup>09</sup> km<sup>2</sup><br/>(2.517 Yrths)
     volume: 4.325 × 10<sup>12</sup> km<sup>3</sup><br/>(3.993 Yrths)
-    mass: 2.666 × 10<sup>25</sup> kg<br />(4.464198461382163 Yrths)
+    mass: 2.666 × 10<sup>25</sup> kg<br />(4.46 Yrths)
     density: 6.164 g/cm<sup>3</sup>
     surface_gravity: 17.394 m/s<sup>2</sup><br />(1.774 g<sub>0</sub>)
     escape_velocity: 18.764 km/s<br />(67,551 km/h)
     rotation_period: 0.904 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 203 K<br />(-70 °C)
+    temperature: 212 K<br />(-61 °C)
     surface_pressure: 124 kPa<br />(1 atm)
     composition:
       - 67.4679% ammonia
@@ -163,14 +163,14 @@ planets:
         radius: 5,206.4 km<br/>(0.817 Yrths)
         surface_area: 3.406 × 10<sup>08</sup> km<sup>2</sup><br/>(0.668 Yrths)
         volume: 5.912 × 10<sup>11</sup> km<sup>3</sup><br/>(0.546 Yrths)
-        mass: 1.266 × 10<sup>24</sup> kg<br />(4.464198461382163 Yrths)
+        mass: 1.266 × 10<sup>24</sup> kg<br />(0.212 Yrths)
         density: 2.141 g/cm<sup>3</sup>
         surface_gravity: 3.112 m/s<sup>2</sup><br />(0.317 g<sub>0</sub>)
         escape_velocity: 5.697 km/s<br />(20,508 km/h)
         rotation_period: 59.276 d
         axial_tilt: 23.58°
         albedo: 0.30
-        temperature: 2083 K<br />(1810 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0079 Lasraiad D II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -183,14 +183,14 @@ planets:
         radius: 10,962.0 km<br/>(1.721 Yrths)
         surface_area: 1.510 × 10<sup>09</sup> km<sup>2</sup><br/>(2.960 Yrths)
         volume: 5.518 × 10<sup>12</sup> km<sup>3</sup><br/>(5.094 Yrths)
-        mass: 1.293 × 10<sup>25</sup> kg<br />(4.464198461382163 Yrths)
+        mass: 1.293 × 10<sup>25</sup> kg<br />(2.164 Yrths)
         density: 2.343 g/cm<sup>3</sup>
         surface_gravity: 7.170 m/s<sup>2</sup><br />(0.731 g<sub>0</sub>)
         escape_velocity: 12.546 km/s<br />(45,166 km/h)
         rotation_period: 48.350 d
         axial_tilt: 28.16°
         albedo: 0.30
-        temperature: 1986 K<br />(1713 °C)
+        temperature: 165 K<br />(-108 °C)
       - name: 0079 Lasraiad D II c
         type: Rocky
         formationType: Captured
@@ -203,12 +203,12 @@ planets:
         radius: 3,027.8 km<br/>(0.475 Yrths)
         surface_area: 1.152 × 10<sup>08</sup> km<sup>2</sup><br/>(0.226 Yrths)
         volume: 1.163 × 10<sup>11</sup> km<sup>3</sup><br/>(0.107 Yrths)
-        mass: 3.181 × 10<sup>23</sup> kg<br />(4.464198461382163 Yrths)
+        mass: 3.181 × 10<sup>23</sup> kg<br />(0.053 Yrths)
         density: 2.736 g/cm<sup>3</sup>
         surface_gravity: 2.313 m/s<sup>2</sup><br />(0.236 g<sub>0</sub>)
         escape_velocity: 3.745 km/s<br />(13,482 km/h)
         rotation_period: 37.062 d
         axial_tilt: 10.19°
         albedo: 0.30
-        temperature: 1894 K<br />(1621 °C)
+        temperature: 165 K<br />(-108 °C)
 ---

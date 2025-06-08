@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1422 Lulithannaid is a star in the constellation Lulithan
+      1422 Lulithannaid is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 403.22 ly
 apparent_magnitude: 11.04
 absolute_magnitude: 5.58

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Chuike is a star in the constellation Arkoth
+      Chuike is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 28.16 ly
 apparent_magnitude: 2.30
 absolute_magnitude: 2.62

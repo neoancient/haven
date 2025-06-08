@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0097 Pelnemenniad A is a star in the constellation Pelnemen
+      0097 Pelnemenniad A is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 250.87 ly
 apparent_magnitude: 6.33
 absolute_magnitude: 1.90

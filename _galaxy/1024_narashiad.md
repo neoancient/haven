@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1024 Narashiad is a star in the constellation Naras
+      1024 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 402.43 ly
 apparent_magnitude: 9.32
 absolute_magnitude: 3.87

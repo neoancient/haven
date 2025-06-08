@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      533 Oniad A is a star in the constellation Oni
+      533 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 843.84 ly
 apparent_magnitude: 6.82
 absolute_magnitude: -0.24

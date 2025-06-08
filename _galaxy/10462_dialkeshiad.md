@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10462 Dialkeshiad is a star in the constellation Dialkes
+      10462 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 476.87 ly
 apparent_magnitude: 10.63
 absolute_magnitude: 4.81

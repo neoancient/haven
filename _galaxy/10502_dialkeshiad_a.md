@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10502 Dialkeshiad A is a star in the constellation Dialkes
+      10502 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 1093.23 ly
 apparent_magnitude: 6.74
 absolute_magnitude: -0.89

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      723 Reggiad is a star in the constellation Reg
+      723 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 310.02 ly
 apparent_magnitude: 9.85
 absolute_magnitude: 4.96

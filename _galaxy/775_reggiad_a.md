@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      775 Reggiad A is a star in the constellation Reg
+      775 Reggiad A is a star in the constellation <a href="reg.html">Reg</a>
 distance: 289.76 ly
 apparent_magnitude: 6.97
 absolute_magnitude: 2.22

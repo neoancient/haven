@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Batayolf A is a star in the constellation Luna
+      Batayolf A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 1896.89 ly
 apparent_magnitude: 2.72
 absolute_magnitude: -6.10

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6436 Dialkeshiad is a star in the constellation Dialkes
+      6436 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 482.68 ly
 apparent_magnitude: 11.30
 absolute_magnitude: 5.45

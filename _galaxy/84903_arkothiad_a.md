@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      84903 Arkothiad A is a star in the constellation Arkoth
+      84903 Arkothiad A is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 521.84 ly
 apparent_magnitude: 7.87
 absolute_magnitude: 1.84

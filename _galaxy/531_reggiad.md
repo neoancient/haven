@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      531 Reggiad is a star in the constellation Reg
+      531 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 767.13 ly
 apparent_magnitude: 9.64
 absolute_magnitude: 2.78

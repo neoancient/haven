@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Keer A is a star in the constellation Niunio
+      Keer A is a star in the constellation <a href="niunio.html">Niunio</a>
 distance: 686.87 ly
 apparent_magnitude: 3.49
 absolute_magnitude: -3.13

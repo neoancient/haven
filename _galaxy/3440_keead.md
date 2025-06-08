@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3440 Keead is a star in the constellation Kee
+      3440 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 495.22 ly
 apparent_magnitude: 10.92
 absolute_magnitude: 5.02

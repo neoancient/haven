@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3743 Saithiad is a star in the constellation Saith
+      3743 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 307.57 ly
 apparent_magnitude: 9.62
 absolute_magnitude: 4.75

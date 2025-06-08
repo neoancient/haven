@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0260 Naddiad D is a star in the constellation Naddi
+      0260 Naddiad D is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 767.04 ly
 apparent_magnitude: 8.68
 absolute_magnitude: 1.82

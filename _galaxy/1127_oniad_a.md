@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1127 Oniad A is a star in the constellation Oni
+      1127 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 318.58 ly
 apparent_magnitude: 9.98
 absolute_magnitude: 5.03

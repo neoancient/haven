@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3117 Tanashad A is a star in the constellation Tanas
+      3117 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 238.49 ly
 apparent_magnitude: 6.99
 absolute_magnitude: 2.66

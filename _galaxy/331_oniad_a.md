@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      331 Oniad A is a star in the constellation Oni
+      331 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 583.02 ly
 apparent_magnitude: 6.96
 absolute_magnitude: 0.70

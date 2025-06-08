@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2697 Athiad A is a star in the constellation Ath
+      2697 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 402.80 ly
 apparent_magnitude: 7.62
 absolute_magnitude: 2.16

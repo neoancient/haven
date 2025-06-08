@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2007 Athiad A is a star in the constellation Ath
+      2007 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 442.75 ly
 apparent_magnitude: 7.83
 absolute_magnitude: 2.16

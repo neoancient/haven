@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      923 Narashiad is a star in the constellation Naras
+      923 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 361.72 ly
 apparent_magnitude: 11.59
 absolute_magnitude: 6.37

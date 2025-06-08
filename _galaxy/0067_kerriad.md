@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0067 Kerriad is a star in the constellation Kerr
+      0067 Kerriad is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 38.22 ly
 apparent_magnitude: 6.35
 absolute_magnitude: 6.01
@@ -31,7 +31,7 @@ planets:
     radius: 5,354.8 km<br/>(0.840 Yrths)
     surface_area: 3.603 × 10<sup>08</sup> km<sup>2</sup><br/>(0.706 Yrths)
     volume: 6.432 × 10<sup>11</sup> km<sup>3</sup><br/>(0.594 Yrths)
-    mass: 6.974 × 10<sup>24</sup> kg<br />(1.1677012039126977 Yrths)
+    mass: 6.974 × 10<sup>24</sup> kg<br />(1.17 Yrths)
     density: 10.843 g/cm<sup>3</sup>
     surface_gravity: 16.210 m/s<sup>2</sup><br />(1.653 g<sub>0</sub>)
     escape_velocity: 13.185 km/s<br />(47,465 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 1,729.2 km<br/>(0.271 Yrths)
         surface_area: 3.757 × 10<sup>07</sup> km<sup>2</sup><br/>(0.074 Yrths)
         volume: 2.166 × 10<sup>10</sup> km<sup>3</sup><br/>(0.020 Yrths)
-        mass: 7.294 × 10<sup>22</sup> kg<br />(1.1677012039126977 Yrths)
+        mass: 7.294 × 10<sup>22</sup> kg<br />(0.012 Yrths)
         density: 3.368 g/cm<sup>3</sup>
         surface_gravity: 1.626 m/s<sup>2</sup><br />(0.166 g<sub>0</sub>)
         escape_velocity: 2.373 km/s<br />(8,542 km/h)
         rotation_period: 35.178 d
         axial_tilt: 7.15°
         albedo: 0.30
-        temperature: 4500 K<br />(4227 °C)
+        temperature: 338 K<br />(64 °C)
       - name: 0067 Kerriad I b
         type: Asteroid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 1,452.3 km<br/>(0.228 Yrths)
         surface_area: 2.651 × 10<sup>07</sup> km<sup>2</sup><br/>(0.052 Yrths)
         volume: 1.283 × 10<sup>10</sup> km<sup>3</sup><br/>(0.012 Yrths)
-        mass: 2.717 × 10<sup>22</sup> kg<br />(1.1677012039126977 Yrths)
+        mass: 2.717 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 2.117 g/cm<sup>3</sup>
         surface_gravity: 0.858 m/s<sup>2</sup><br />(0.088 g<sub>0</sub>)
         escape_velocity: 1.580 km/s<br />(5,689 km/h)
         rotation_period: 64.443 d
         axial_tilt: 30.78°
         albedo: 0.30
-        temperature: 4291 K<br />(4018 °C)
+        temperature: 338 K<br />(64 °C)
   - name: 0067 Kerriad II
     type: Large terrestrial
     aphelion: 86,109,320 km<br />0.576 AU
@@ -91,14 +91,14 @@ planets:
     radius: 10,072.0 km<br/>(1.581 Yrths)
     surface_area: 1.275 × 10<sup>09</sup> km<sup>2</sup><br/>(2.499 Yrths)
     volume: 4.280 × 10<sup>12</sup> km<sup>3</sup><br/>(3.951 Yrths)
-    mass: 3.022 × 10<sup>25</sup> kg<br />(5.060533296083948 Yrths)
+    mass: 3.022 × 10<sup>25</sup> kg<br />(5.06 Yrths)
     density: 7.061 g/cm<sup>3</sup>
     surface_gravity: 19.856 m/s<sup>2</sup><br />(2.025 g<sub>0</sub>)
     escape_velocity: 20.013 km/s<br />(72,048 km/h)
     rotation_period: 1.108 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 381 K<br />(108 °C)
+    temperature: 836 K<br />(563 °C)
     surface_pressure: 117 kPa<br />(1 atm)
     composition:
       - 58.3560% carbon dioxide
@@ -118,14 +118,14 @@ planets:
         radius: 4,071.6 km<br/>(0.639 Yrths)
         surface_area: 2.083 × 10<sup>08</sup> km<sup>2</sup><br/>(0.408 Yrths)
         volume: 2.827 × 10<sup>11</sup> km<sup>3</sup><br/>(0.261 Yrths)
-        mass: 8.524 × 10<sup>23</sup> kg<br />(5.060533296083948 Yrths)
+        mass: 8.524 × 10<sup>23</sup> kg<br />(0.143 Yrths)
         density: 3.015 g/cm<sup>3</sup>
         surface_gravity: 3.427 m/s<sup>2</sup><br />(0.349 g<sub>0</sub>)
         escape_velocity: 5.286 km/s<br />(19,031 km/h)
         rotation_period: 42.625 d
         axial_tilt: 15.20°
         albedo: 0.30
-        temperature: 3317 K<br />(3043 °C)
+        temperature: 264 K<br />(-9 °C)
       - name: 0067 Kerriad II b
         type: Rocky
         formationType: Captured
@@ -138,14 +138,14 @@ planets:
         radius: 9,798.1 km<br/>(1.538 Yrths)
         surface_area: 1.206 × 10<sup>09</sup> km<sup>2</sup><br/>(2.365 Yrths)
         volume: 3.940 × 10<sup>12</sup> km<sup>3</sup><br/>(3.638 Yrths)
-        mass: 1.191 × 10<sup>25</sup> kg<br />(5.060533296083948 Yrths)
+        mass: 1.191 × 10<sup>25</sup> kg<br />(1.994 Yrths)
         density: 3.022 g/cm<sup>3</sup>
         surface_gravity: 8.266 m/s<sup>2</sup><br />(0.843 g<sub>0</sub>)
         escape_velocity: 12.736 km/s<br />(45,850 km/h)
         rotation_period: 40.270 d
         axial_tilt: 9.18°
         albedo: 0.30
-        temperature: 3162 K<br />(2889 °C)
+        temperature: 264 K<br />(-9 °C)
   - name: 0067 Kerriad III
     type: Large terrestrial
     aphelion: 153,188,713 km<br />1.024 AU
@@ -157,14 +157,14 @@ planets:
     radius: 6,818.1 km<br/>(1.070 Yrths)
     surface_area: 5.842 × 10<sup>08</sup> km<sup>2</sup><br/>(1.145 Yrths)
     volume: 1.328 × 10<sup>12</sup> km<sup>3</sup><br/>(1.226 Yrths)
-    mass: 1.037 × 10<sup>25</sup> kg<br />(1.7363824998237651 Yrths)
+    mass: 1.037 × 10<sup>25</sup> kg<br />(1.74 Yrths)
     density: 7.811 g/cm<sup>3</sup>
     surface_gravity: 14.868 m/s<sup>2</sup><br />(1.516 g<sub>0</sub>)
     escape_velocity: 14.249 km/s<br />(51,295 km/h)
     rotation_period: 1.220 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 261 K<br />(-12 °C)
+    temperature: 260 K<br />(-13 °C)
     surface_pressure: 224 kPa<br />(2 atm)
     composition:
       - 88.1632% nitrogen
@@ -184,14 +184,14 @@ planets:
         radius: 3,467.5 km<br/>(0.544 Yrths)
         surface_area: 1.511 × 10<sup>08</sup> km<sup>2</sup><br/>(0.296 Yrths)
         volume: 1.746 × 10<sup>11</sup> km<sup>3</sup><br/>(0.161 Yrths)
-        mass: 4.946 × 10<sup>23</sup> kg<br />(1.7363824998237651 Yrths)
+        mass: 4.946 × 10<sup>23</sup> kg<br />(0.083 Yrths)
         density: 2.832 g/cm<sup>3</sup>
         surface_gravity: 2.742 m/s<sup>2</sup><br />(0.280 g<sub>0</sub>)
         escape_velocity: 4.363 km/s<br />(15,708 km/h)
         rotation_period: 34.326 d
         axial_tilt: 16.28°
         albedo: 0.30
-        temperature: 2607 K<br />(2334 °C)
+        temperature: 207 K<br />(-66 °C)
       - name: 0067 Kerriad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -204,14 +204,14 @@ planets:
         radius: 2,514.8 km<br/>(0.395 Yrths)
         surface_area: 7.947 × 10<sup>07</sup> km<sup>2</sup><br/>(0.156 Yrths)
         volume: 6.662 × 10<sup>10</sup> km<sup>3</sup><br/>(0.062 Yrths)
-        mass: 1.478 × 10<sup>23</sup> kg<br />(1.7363824998237651 Yrths)
+        mass: 1.478 × 10<sup>23</sup> kg<br />(0.025 Yrths)
         density: 2.219 g/cm<sup>3</sup>
         surface_gravity: 1.558 m/s<sup>2</sup><br />(0.159 g<sub>0</sub>)
         escape_velocity: 2.801 km/s<br />(10,084 km/h)
         rotation_period: 36.840 d
         axial_tilt: 12.57°
         albedo: 0.30
-        temperature: 2486 K<br />(2213 °C)
+        temperature: 207 K<br />(-66 °C)
   - name: 0067 Kerriad IV
     type: Ice giant
     aphelion: 240,873,333 km<br />1.610 AU
@@ -223,14 +223,14 @@ planets:
     radius: 24,793.2 km<br/>(3.892 Yrths)
     surface_area: 7.725 × 10<sup>09</sup> km<sup>2</sup><br/>(15.144 Yrths)
     volume: 6.384 × 10<sup>13</sup> km<sup>3</sup><br/>(58.935 Yrths)
-    mass: 9.485 × 10<sup>25</sup> kg<br />(15.881680598259416 Yrths)
+    mass: 9.485 × 10<sup>25</sup> kg<br />(15.88 Yrths)
     density: 1.486 g/cm<sup>3</sup>
     surface_gravity: 10.284 m/s<sup>2</sup><br />(1.049 g<sub>0</sub>)
     escape_velocity: 22.597 km/s<br />(81,351 km/h)
     rotation_period: 0.585 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 282 K<br />(9 °C)
+    temperature: 264 K<br />(-9 °C)
     composition:
       - 81.6523% hydrogen
       - 17.1502% helium
@@ -248,14 +248,14 @@ planets:
         radius: 27,731.5 km<br/>(4.353 Yrths)
         surface_area: 9.664 × 10<sup>09</sup> km<sup>2</sup><br/>(18.947 Yrths)
         volume: 8.933 × 10<sup>13</sup> km<sup>3</sup><br/>(82.470 Yrths)
-        mass: 1.419 × 10<sup>26</sup> kg<br />(15.881680598259416 Yrths)
+        mass: 1.419 × 10<sup>26</sup> kg<br />(23.764 Yrths)
         density: 1.589 g/cm<sup>3</sup>
         surface_gravity: 12.300 m/s<sup>2</sup><br />(1.254 g<sub>0</sub>)
         escape_velocity: 26.137 km/s<br />(94,093 km/h)
         rotation_period: 39.572 d
         axial_tilt: 21.13°
         albedo: 0.30
-        temperature: 1400 K<br />(1127 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0067 Kerriad IV b
         type: Rocky
         formationType: Impact formed
@@ -268,14 +268,14 @@ planets:
         radius: 12,198.2 km<br/>(1.915 Yrths)
         surface_area: 1.870 × 10<sup>09</sup> km<sup>2</sup><br/>(3.666 Yrths)
         volume: 7.603 × 10<sup>12</sup> km<sup>3</sup><br/>(7.019 Yrths)
-        mass: 2.439 × 10<sup>25</sup> kg<br />(15.881680598259416 Yrths)
+        mass: 2.439 × 10<sup>25</sup> kg<br />(4.085 Yrths)
         density: 3.208 g/cm<sup>3</sup>
         surface_gravity: 10.927 m/s<sup>2</sup><br />(1.114 g<sub>0</sub>)
         escape_velocity: 16.338 km/s<br />(58,817 km/h)
         rotation_period: 41.413 d
         axial_tilt: 18.53°
         albedo: 0.30
-        temperature: 1273 K<br />(1000 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0067 Kerriad IV c
         type: Rocky
         formationType: Accreted
@@ -288,14 +288,14 @@ planets:
         radius: 12,378.7 km<br/>(1.943 Yrths)
         surface_area: 1.926 × 10<sup>09</sup> km<sup>2</sup><br/>(3.775 Yrths)
         volume: 7.945 × 10<sup>12</sup> km<sup>3</sup><br/>(7.335 Yrths)
-        mass: 2.408 × 10<sup>25</sup> kg<br />(15.881680598259416 Yrths)
+        mass: 2.408 × 10<sup>25</sup> kg<br />(4.032 Yrths)
         density: 3.031 g/cm<sup>3</sup>
         surface_gravity: 10.474 m/s<sup>2</sup><br />(1.068 g<sub>0</sub>)
         escape_velocity: 16.114 km/s<br />(58,011 km/h)
         rotation_period: 30.973 d
         axial_tilt: 12.77°
         albedo: 0.30
-        temperature: 1213 K<br />(940 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0067 Kerriad IV d
         type: Icy
         formationType: Accreted
@@ -308,14 +308,14 @@ planets:
         radius: 19,992.9 km<br/>(3.138 Yrths)
         surface_area: 5.023 × 10<sup>09</sup> km<sup>2</sup><br/>(9.848 Yrths)
         volume: 3.347 × 10<sup>13</sup> km<sup>3</sup><br/>(30.903 Yrths)
-        mass: 3.481 × 10<sup>25</sup> kg<br />(15.881680598259416 Yrths)
+        mass: 3.481 × 10<sup>25</sup> kg<br />(5.829 Yrths)
         density: 1.040 g/cm<sup>3</sup>
         surface_gravity: 5.804 m/s<sup>2</sup><br />(0.592 g<sub>0</sub>)
         escape_velocity: 15.245 km/s<br />(54,882 km/h)
         rotation_period: 66.888 d
         axial_tilt: 25.39°
         albedo: 0.30
-        temperature: 1157 K<br />(884 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0067 Kerriad IV e
         type: Icy
         formationType: Captured
@@ -328,14 +328,14 @@ planets:
         radius: 17,360.0 km<br/>(2.725 Yrths)
         surface_area: 3.787 × 10<sup>09</sup> km<sup>2</sup><br/>(7.425 Yrths)
         volume: 2.191 × 10<sup>13</sup> km<sup>3</sup><br/>(20.231 Yrths)
-        mass: 3.099 × 10<sup>25</sup> kg<br />(15.881680598259416 Yrths)
+        mass: 3.099 × 10<sup>25</sup> kg<br />(5.190 Yrths)
         density: 1.414 g/cm<sup>3</sup>
         surface_gravity: 6.855 m/s<sup>2</sup><br />(0.699 g<sub>0</sub>)
         escape_velocity: 15.438 km/s<br />(55,576 km/h)
         rotation_period: 61.693 d
         axial_tilt: 21.74°
         albedo: 0.30
-        temperature: 1103 K<br />(830 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0067 Kerriad IV f
         type: Icy
         formationType: Captured
@@ -348,14 +348,14 @@ planets:
         radius: 30,731.3 km<br/>(4.824 Yrths)
         surface_area: 1.187 × 10<sup>10</sup> km<sup>2</sup><br/>(23.267 Yrths)
         volume: 1.216 × 10<sup>14</sup> km<sup>3</sup><br/>(112.233 Yrths)
-        mass: 1.106 × 10<sup>26</sup> kg<br />(15.881680598259416 Yrths)
+        mass: 1.106 × 10<sup>26</sup> kg<br />(18.523 Yrths)
         density: 0.910 g/cm<sup>3</sup>
         surface_gravity: 7.807 m/s<sup>2</sup><br />(0.796 g<sub>0</sub>)
         escape_velocity: 21.920 km/s<br />(78,913 km/h)
         rotation_period: 54.322 d
         axial_tilt: 18.40°
         albedo: 0.30
-        temperature: 912 K<br />(639 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0067 Kerriad IV g
         type: Icy
         formationType: Accreted
@@ -368,14 +368,14 @@ planets:
         radius: 16,918.9 km<br/>(2.656 Yrths)
         surface_area: 3.597 × 10<sup>09</sup> km<sup>2</sup><br/>(7.052 Yrths)
         volume: 2.029 × 10<sup>13</sup> km<sup>3</sup><br/>(18.728 Yrths)
-        mass: 2.486 × 10<sup>25</sup> kg<br />(15.881680598259416 Yrths)
+        mass: 2.486 × 10<sup>25</sup> kg<br />(4.162 Yrths)
         density: 1.225 g/cm<sup>3</sup>
         surface_gravity: 5.787 m/s<sup>2</sup><br />(0.590 g<sub>0</sub>)
         escape_velocity: 14.004 km/s<br />(50,413 km/h)
         rotation_period: 85.373 d
         axial_tilt: 15.49°
         albedo: 0.30
-        temperature: 829 K<br />(556 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0067 Kerriad IV h
         type: Ice/rock hybrid
         formationType: Captured
@@ -388,14 +388,14 @@ planets:
         radius: 13,164.5 km<br/>(2.066 Yrths)
         surface_area: 2.178 × 10<sup>09</sup> km<sup>2</sup><br/>(4.270 Yrths)
         volume: 9.557 × 10<sup>12</sup> km<sup>3</sup><br/>(8.823 Yrths)
-        mass: 2.676 × 10<sup>25</sup> kg<br />(15.881680598259416 Yrths)
+        mass: 2.676 × 10<sup>25</sup> kg<br />(4.481 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 10.291 m/s<sup>2</sup><br />(1.049 g<sub>0</sub>)
         escape_velocity: 16.472 km/s<br />(59,299 km/h)
         rotation_period: 51.654 d
         axial_tilt: 18.08°
         albedo: 0.30
-        temperature: 790 K<br />(517 °C)
+        temperature: 162 K<br />(-111 °C)
       - name: 0067 Kerriad IV i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -408,14 +408,14 @@ planets:
         radius: 18,371.4 km<br/>(2.884 Yrths)
         surface_area: 4.241 × 10<sup>09</sup> km<sup>2</sup><br/>(8.315 Yrths)
         volume: 2.597 × 10<sup>13</sup> km<sup>3</sup><br/>(23.977 Yrths)
-        mass: 6.450 × 10<sup>25</sup> kg<br />(15.881680598259416 Yrths)
+        mass: 6.450 × 10<sup>25</sup> kg<br />(10.800 Yrths)
         density: 2.483 g/cm<sup>3</sup>
         surface_gravity: 12.737 m/s<sup>2</sup><br />(1.299 g<sub>0</sub>)
         escape_velocity: 21.648 km/s<br />(77,932 km/h)
         rotation_period: 55.345 d
         axial_tilt: 18.56°
         albedo: 0.30
-        temperature: 718 K<br />(445 °C)
+        temperature: 162 K<br />(-111 °C)
   - name: 0067 Kerriad V
     type: Ice giant
     aphelion: 386,790,019 km<br />2.585 AU
@@ -427,14 +427,14 @@ planets:
     radius: 16,000.4 km<br/>(2.511 Yrths)
     surface_area: 3.217 × 10<sup>09</sup> km<sup>2</sup><br/>(6.307 Yrths)
     volume: 1.716 × 10<sup>13</sup> km<sup>3</sup><br/>(15.841 Yrths)
-    mass: 2.771 × 10<sup>25</sup> kg<br />(4.640103722835382 Yrths)
+    mass: 2.771 × 10<sup>25</sup> kg<br />(4.64 Yrths)
     density: 1.615 g/cm<sup>3</sup>
     surface_gravity: 7.214 m/s<sup>2</sup><br />(0.736 g<sub>0</sub>)
     escape_velocity: 15.205 km/s<br />(54,737 km/h)
     rotation_period: 0.587 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 232 K<br />(-42 °C)
+    temperature: 209 K<br />(-64 °C)
     composition:
       - 81.6393% hydrogen
       - 16.6603% helium
@@ -452,14 +452,14 @@ planets:
         radius: 13,648.0 km<br/>(2.142 Yrths)
         surface_area: 2.341 × 10<sup>09</sup> km<sup>2</sup><br/>(4.589 Yrths)
         volume: 1.065 × 10<sup>13</sup> km<sup>3</sup><br/>(9.831 Yrths)
-        mass: 2.057 × 10<sup>25</sup> kg<br />(4.640103722835382 Yrths)
+        mass: 2.057 × 10<sup>25</sup> kg<br />(3.444 Yrths)
         density: 1.932 g/cm<sup>3</sup>
         surface_gravity: 7.361 m/s<sup>2</sup><br />(0.751 g<sub>0</sub>)
         escape_velocity: 14.184 km/s<br />(51,063 km/h)
         rotation_period: 41.883 d
         axial_tilt: 31.35°
         albedo: 0.30
-        temperature: 1344 K<br />(1071 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0067 Kerriad V b
         type: Dwarf planet
         formationType: Impact formed
@@ -472,14 +472,14 @@ planets:
         radius: 4,171.1 km<br/>(0.655 Yrths)
         surface_area: 2.186 × 10<sup>08</sup> km<sup>2</sup><br/>(0.429 Yrths)
         volume: 3.040 × 10<sup>11</sup> km<sup>3</sup><br/>(0.281 Yrths)
-        mass: 6.638 × 10<sup>23</sup> kg<br />(4.640103722835382 Yrths)
+        mass: 6.638 × 10<sup>23</sup> kg<br />(0.111 Yrths)
         density: 2.184 g/cm<sup>3</sup>
         surface_gravity: 2.543 m/s<sup>2</sup><br />(0.259 g<sub>0</sub>)
         escape_velocity: 4.609 km/s<br />(16,592 km/h)
         rotation_period: 44.393 d
         axial_tilt: 25.34°
         albedo: 0.30
-        temperature: 1281 K<br />(1008 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0067 Kerriad V c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -492,14 +492,14 @@ planets:
         radius: 10,097.9 km<br/>(1.585 Yrths)
         surface_area: 1.281 × 10<sup>09</sup> km<sup>2</sup><br/>(2.512 Yrths)
         volume: 4.313 × 10<sup>12</sup> km<sup>3</sup><br/>(3.982 Yrths)
-        mass: 8.885 × 10<sup>24</sup> kg<br />(4.640103722835382 Yrths)
+        mass: 8.885 × 10<sup>24</sup> kg<br />(1.488 Yrths)
         density: 2.060 g/cm<sup>3</sup>
         surface_gravity: 5.808 m/s<sup>2</sup><br />(0.592 g<sub>0</sub>)
         escape_velocity: 10.838 km/s<br />(39,016 km/h)
         rotation_period: 35.918 d
         axial_tilt: 17.34°
         albedo: 0.30
-        temperature: 1222 K<br />(949 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0067 Kerriad V d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -512,14 +512,14 @@ planets:
         radius: 5,866.4 km<br/>(0.921 Yrths)
         surface_area: 4.325 × 10<sup>08</sup> km<sup>2</sup><br/>(0.848 Yrths)
         volume: 8.457 × 10<sup>11</sup> km<sup>3</sup><br/>(0.781 Yrths)
-        mass: 1.601 × 10<sup>24</sup> kg<br />(4.640103722835382 Yrths)
+        mass: 1.601 × 10<sup>24</sup> kg<br />(0.268 Yrths)
         density: 1.893 g/cm<sup>3</sup>
         surface_gravity: 3.101 m/s<sup>2</sup><br />(0.316 g<sub>0</sub>)
         escape_velocity: 6.036 km/s<br />(21,731 km/h)
         rotation_period: 36.176 d
         axial_tilt: 32.82°
         albedo: 0.30
-        temperature: 1165 K<br />(892 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0067 Kerriad V e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -532,14 +532,14 @@ planets:
         radius: 5,178.2 km<br/>(0.813 Yrths)
         surface_area: 3.370 × 10<sup>08</sup> km<sup>2</sup><br/>(0.661 Yrths)
         volume: 5.816 × 10<sup>11</sup> km<sup>3</sup><br/>(0.537 Yrths)
-        mass: 1.394 × 10<sup>24</sup> kg<br />(4.640103722835382 Yrths)
+        mass: 1.394 × 10<sup>24</sup> kg<br />(0.233 Yrths)
         density: 2.396 g/cm<sup>3</sup>
         surface_gravity: 3.464 m/s<sup>2</sup><br />(0.353 g<sub>0</sub>)
         escape_velocity: 5.994 km/s<br />(21,578 km/h)
         rotation_period: 57.417 d
         axial_tilt: 20.81°
         albedo: 0.30
-        temperature: 1111 K<br />(837 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0067 Kerriad V f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -552,14 +552,14 @@ planets:
         radius: 11,316.4 km<br/>(1.776 Yrths)
         surface_area: 1.609 × 10<sup>09</sup> km<sup>2</sup><br/>(3.155 Yrths)
         volume: 6.070 × 10<sup>12</sup> km<sup>3</sup><br/>(5.604 Yrths)
-        mass: 1.306 × 10<sup>25</sup> kg<br />(4.640103722835382 Yrths)
+        mass: 1.306 × 10<sup>25</sup> kg<br />(2.186 Yrths)
         density: 2.151 g/cm<sup>3</sup>
         surface_gravity: 6.796 m/s<sup>2</sup><br />(0.693 g<sub>0</sub>)
         escape_velocity: 12.410 km/s<br />(44,677 km/h)
         rotation_period: 55.220 d
         axial_tilt: 23.82°
         albedo: 0.30
-        temperature: 1059 K<br />(786 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0067 Kerriad V g
         type: Icy
         formationType: Impact formed
@@ -572,14 +572,14 @@ planets:
         radius: 8,749.9 km<br/>(1.373 Yrths)
         surface_area: 9.621 × 10<sup>08</sup> km<sup>2</sup><br/>(1.886 Yrths)
         volume: 2.806 × 10<sup>12</sup> km<sup>3</sup><br/>(2.590 Yrths)
-        mass: 4.059 × 10<sup>24</sup> kg<br />(4.640103722835382 Yrths)
+        mass: 4.059 × 10<sup>24</sup> kg<br />(0.680 Yrths)
         density: 1.446 g/cm<sup>3</sup>
         surface_gravity: 3.533 m/s<sup>2</sup><br />(0.360 g<sub>0</sub>)
         escape_velocity: 7.869 km/s<br />(28,327 km/h)
         rotation_period: 51.698 d
         axial_tilt: 21.26°
         albedo: 0.30
-        temperature: 1010 K<br />(737 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0067 Kerriad V h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -592,14 +592,14 @@ planets:
         radius: 9,437.6 km<br/>(1.481 Yrths)
         surface_area: 1.119 × 10<sup>09</sup> km<sup>2</sup><br/>(2.194 Yrths)
         volume: 3.521 × 10<sup>12</sup> km<sup>3</sup><br/>(3.251 Yrths)
-        mass: 7.835 × 10<sup>24</sup> kg<br />(4.640103722835382 Yrths)
+        mass: 7.835 × 10<sup>24</sup> kg<br />(1.312 Yrths)
         density: 2.225 g/cm<sup>3</sup>
         surface_gravity: 5.863 m/s<sup>2</sup><br />(0.598 g<sub>0</sub>)
         escape_velocity: 10.527 km/s<br />(37,898 km/h)
         rotation_period: 55.493 d
         axial_tilt: 14.58°
         albedo: 0.30
-        temperature: 963 K<br />(690 °C)
+        temperature: 127 K<br />(-146 °C)
       - name: 0067 Kerriad V i
         type: Icy
         formationType: Accreted
@@ -612,14 +612,14 @@ planets:
         radius: 6,291.0 km<br/>(0.987 Yrths)
         surface_area: 4.973 × 10<sup>08</sup> km<sup>2</sup><br/>(0.975 Yrths)
         volume: 1.043 × 10<sup>12</sup> km<sup>3</sup><br/>(0.963 Yrths)
-        mass: 9.002 × 10<sup>23</sup> kg<br />(4.640103722835382 Yrths)
+        mass: 9.002 × 10<sup>23</sup> kg<br />(0.151 Yrths)
         density: 0.863 g/cm<sup>3</sup>
         surface_gravity: 1.516 m/s<sup>2</sup><br />(0.155 g<sub>0</sub>)
         escape_velocity: 4.370 km/s<br />(15,734 km/h)
         rotation_period: 83.638 d
         axial_tilt: 10.35°
         albedo: 0.30
-        temperature: 875 K<br />(602 °C)
+        temperature: 127 K<br />(-146 °C)
   - name: 0067 Kerriad VI
     type: Gas giant
     aphelion: 614,976,751 km<br />4.111 AU
@@ -631,7 +631,7 @@ planets:
     radius: 221.1 km<br/>(0.035 Yrths)
     surface_area: 6.143 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.528 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.553 × 10<sup>27</sup> kg<br />(260.02240402035244 Yrths)
+    mass: 1.553 × 10<sup>27</sup> kg<br />(260.02 Yrths)
     density: 34295246.440 g/cm<sup>3</sup>
     surface_gravity: 2117099.653 m/s<sup>2</sup><br />(215884.084 g<sub>0</sub>)
     escape_velocity: 968.237 km/s<br />(3,485,654 km/h)
@@ -652,14 +652,14 @@ planets:
         radius: 152,090.8 km<br/>(23.872 Yrths)
         surface_area: 2.907 × 10<sup>11</sup> km<sup>2</sup><br/>(569.890 Yrths)
         volume: 1.474 × 10<sup>16</sup> km<sup>3</sup><br/>(13604.612 Yrths)
-        mass: 3.158 × 10<sup>28</sup> kg<br />(260.02240402035244 Yrths)
+        mass: 3.158 × 10<sup>28</sup> kg<br />(5287.952 Yrths)
         density: 2.143 g/cm<sup>3</sup>
         surface_gravity: 90.995 m/s<sup>2</sup><br />(9.279 g<sub>0</sub>)
         escape_velocity: 166.483 km/s<br />(599,339 km/h)
         rotation_period: 53.639 d
         axial_tilt: 22.21°
         albedo: 0.30
-        temperature: 466 K<br />(193 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 0067 Kerriad VI b
         type: Rocky
         formationType: Accreted
@@ -672,14 +672,14 @@ planets:
         radius: 139,471.5 km<br/>(21.892 Yrths)
         surface_area: 2.444 × 10<sup>11</sup> km<sup>2</sup><br/>(479.243 Yrths)
         volume: 1.136 × 10<sup>16</sup> km<sup>3</sup><br/>(10491.407 Yrths)
-        mass: 3.213 × 10<sup>28</sup> kg<br />(260.02240402035244 Yrths)
+        mass: 3.213 × 10<sup>28</sup> kg<br />(5380.544 Yrths)
         density: 2.827 g/cm<sup>3</sup>
         surface_gravity: 110.101 m/s<sup>2</sup><br />(11.227 g<sub>0</sub>)
         escape_velocity: 175.367 km/s<br />(631,322 km/h)
         rotation_period: 50.171 d
         axial_tilt: 6.23°
         albedo: 0.30
-        temperature: 444 K<br />(171 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 0067 Kerriad VI c
         type: Icy
         formationType: Captured
@@ -692,14 +692,14 @@ planets:
         radius: 170,906.2 km<br/>(26.826 Yrths)
         surface_area: 3.671 × 10<sup>11</sup> km<sup>2</sup><br/>(719.616 Yrths)
         volume: 2.091 × 10<sup>16</sup> km<sup>3</sup><br/>(19304.158 Yrths)
-        mass: 3.294 × 10<sup>28</sup> kg<br />(260.02240402035244 Yrths)
+        mass: 3.294 × 10<sup>28</sup> kg<br />(5516.226 Yrths)
         density: 1.575 g/cm<sup>3</sup>
         surface_gravity: 75.173 m/s<sup>2</sup><br />(7.666 g<sub>0</sub>)
         escape_velocity: 160.406 km/s<br />(577,461 km/h)
         rotation_period: 42.018 d
         axial_tilt: 16.44°
         albedo: 0.30
-        temperature: 263 K<br />(-10 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 0067 Kerriad VI d
         type: Icy
         formationType: Accreted
@@ -712,14 +712,14 @@ planets:
         radius: 252,456.5 km<br/>(39.626 Yrths)
         surface_area: 8.009 × 10<sup>11</sup> km<sup>2</sup><br/>(1570.210 Yrths)
         volume: 6.740 × 10<sup>16</sup> km<sup>3</sup><br/>(62220.945 Yrths)
-        mass: 4.718 × 10<sup>28</sup> kg<br />(260.02240402035244 Yrths)
+        mass: 4.718 × 10<sup>28</sup> kg<br />(7899.985 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 49.339 m/s<sup>2</sup><br />(5.031 g<sub>0</sub>)
         escape_velocity: 157.942 km/s<br />(568,591 km/h)
         rotation_period: 67.319 d
         axial_tilt: 25.21°
         albedo: 0.30
-        temperature: 251 K<br />(-22 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 0067 Kerriad VI e
         type: Asteroid
         formationType: Captured
@@ -732,14 +732,14 @@ planets:
         radius: 238,154.6 km<br/>(37.381 Yrths)
         surface_area: 7.127 × 10<sup>11</sup> km<sup>2</sup><br/>(1397.342 Yrths)
         volume: 5.658 × 10<sup>16</sup> km<sup>3</sup><br/>(52234.078 Yrths)
-        mass: 1.274 × 10<sup>29</sup> kg<br />(260.02240402035244 Yrths)
+        mass: 1.274 × 10<sup>29</sup> kg<br />(21331.150 Yrths)
         density: 2.251 g/cm<sup>3</sup>
         surface_gravity: 149.704 m/s<sup>2</sup><br />(15.266 g<sub>0</sub>)
         escape_velocity: 267.212 km/s<br />(961,962 km/h)
         rotation_period: 42.870 d
         axial_tilt: 59.44°
         albedo: 0.30
-        temperature: 207 K<br />(-66 °C)
+        temperature: 99 K<br />(-174 °C)
       - name: 0067 Kerriad VI f
         type: Rocky
         formationType: Accreted
@@ -752,14 +752,14 @@ planets:
         radius: 227,227.6 km<br/>(35.666 Yrths)
         surface_area: 6.488 × 10<sup>11</sup> km<sup>2</sup><br/>(1272.058 Yrths)
         volume: 4.914 × 10<sup>16</sup> km<sup>3</sup><br/>(45369.112 Yrths)
-        mass: 1.270 × 10<sup>29</sup> kg<br />(260.02240402035244 Yrths)
+        mass: 1.270 × 10<sup>29</sup> kg<br />(21260.269 Yrths)
         density: 2.584 g/cm<sup>3</sup>
         surface_gravity: 163.901 m/s<sup>2</sup><br />(16.713 g<sub>0</sub>)
         escape_velocity: 273.106 km/s<br />(983,182 km/h)
         rotation_period: 43.373 d
         axial_tilt: 18.53°
         albedo: 0.30
-        temperature: 156 K<br />(-117 °C)
+        temperature: 99 K<br />(-174 °C)
   - name: 0067 Kerriad VII
     type: Gas dwarf
     aphelion: 1,019,081,941 km<br />6.812 AU
@@ -771,14 +771,14 @@ planets:
     radius: 22,246.7 km<br/>(3.492 Yrths)
     surface_area: 6.219 × 10<sup>09</sup> km<sup>2</sup><br/>(12.193 Yrths)
     volume: 4.612 × 10<sup>13</sup> km<sup>3</sup><br/>(42.577 Yrths)
-    mass: 1.033 × 10<sup>26</sup> kg<br />(17.29749450684204 Yrths)
+    mass: 1.033 × 10<sup>26</sup> kg<br />(17.30 Yrths)
     density: 2.240 g/cm<sup>3</sup>
     surface_gravity: 13.912 m/s<sup>2</sup><br />(1.419 g<sub>0</sub>)
     escape_velocity: 24.896 km/s<br />(89,627 km/h)
     rotation_period: 0.379 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 107 K<br />(-166 °C)
+    temperature: 95 K<br />(-179 °C)
     composition:
       - 83.2716% hydrogen
       - 13.4099% helium
@@ -797,14 +797,14 @@ planets:
         radius: 14,403.9 km<br/>(2.261 Yrths)
         surface_area: 2.607 × 10<sup>09</sup> km<sup>2</sup><br/>(5.111 Yrths)
         volume: 1.252 × 10<sup>13</sup> km<sup>3</sup><br/>(11.556 Yrths)
-        mass: 1.868 × 10<sup>25</sup> kg<br />(17.29749450684204 Yrths)
+        mass: 1.868 × 10<sup>25</sup> kg<br />(3.128 Yrths)
         density: 1.492 g/cm<sup>3</sup>
         surface_gravity: 6.001 m/s<sup>2</sup><br />(0.612 g<sub>0</sub>)
         escape_velocity: 13.157 km/s<br />(47,366 km/h)
         rotation_period: 55.619 d
         axial_tilt: 12.66°
         albedo: 0.30
-        temperature: 631 K<br />(358 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0067 Kerriad VII b
         type: Icy
         formationType: Accreted
@@ -817,14 +817,14 @@ planets:
         radius: 15,994.8 km<br/>(2.511 Yrths)
         surface_area: 3.215 × 10<sup>09</sup> km<sup>2</sup><br/>(6.303 Yrths)
         volume: 1.714 × 10<sup>13</sup> km<sup>3</sup><br/>(15.824 Yrths)
-        mass: 2.104 × 10<sup>25</sup> kg<br />(17.29749450684204 Yrths)
+        mass: 2.104 × 10<sup>25</sup> kg<br />(3.523 Yrths)
         density: 1.228 g/cm<sup>3</sup>
         surface_gravity: 5.482 m/s<sup>2</sup><br />(0.559 g<sub>0</sub>)
         escape_velocity: 13.252 km/s<br />(47,706 km/h)
         rotation_period: 52.724 d
         axial_tilt: 19.96°
         albedo: 0.30
-        temperature: 601 K<br />(328 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0067 Kerriad VII c
         type: Icy
         formationType: Impact formed
@@ -837,14 +837,14 @@ planets:
         radius: 20,550.6 km<br/>(3.226 Yrths)
         surface_area: 5.307 × 10<sup>09</sup> km<sup>2</sup><br/>(10.405 Yrths)
         volume: 3.635 × 10<sup>13</sup> km<sup>3</sup><br/>(33.562 Yrths)
-        mass: 3.627 × 10<sup>25</sup> kg<br />(17.29749450684204 Yrths)
+        mass: 3.627 × 10<sup>25</sup> kg<br />(6.074 Yrths)
         density: 0.998 g/cm<sup>3</sup>
         surface_gravity: 5.725 m/s<sup>2</sup><br />(0.584 g<sub>0</sub>)
         escape_velocity: 15.349 km/s<br />(55,258 km/h)
         rotation_period: 88.675 d
         axial_tilt: 17.65°
         albedo: 0.30
-        temperature: 573 K<br />(300 °C)
+        temperature: 78 K<br />(-195 °C)
       - name: 0067 Kerriad VII d
         type: Icy
         formationType: Accreted
@@ -857,14 +857,14 @@ planets:
         radius: 26,366.6 km<br/>(4.139 Yrths)
         surface_area: 8.736 × 10<sup>09</sup> km<sup>2</sup><br/>(17.127 Yrths)
         volume: 7.678 × 10<sup>13</sup> km<sup>3</sup><br/>(70.882 Yrths)
-        mass: 6.649 × 10<sup>25</sup> kg<br />(17.29749450684204 Yrths)
+        mass: 6.649 × 10<sup>25</sup> kg<br />(11.133 Yrths)
         density: 0.866 g/cm<sup>3</sup>
         surface_gravity: 6.375 m/s<sup>2</sup><br />(0.650 g<sub>0</sub>)
         escape_velocity: 18.347 km/s<br />(66,049 km/h)
         rotation_period: 58.417 d
         axial_tilt: 18.72°
         albedo: 0.30
-        temperature: 547 K<br />(274 °C)
+        temperature: 78 K<br />(-195 °C)
   - name: 0067 Kerriad VIII
     type: Gas dwarf
     aphelion: 1,695,485,578 km<br />11.333 AU
@@ -876,14 +876,14 @@ planets:
     radius: 17,369.2 km<br/>(2.726 Yrths)
     surface_area: 3.791 × 10<sup>09</sup> km<sup>2</sup><br/>(7.433 Yrths)
     volume: 2.195 × 10<sup>13</sup> km<sup>3</sup><br/>(20.264 Yrths)
-    mass: 4.112 × 10<sup>25</sup> kg<br />(6.885528315276483 Yrths)
+    mass: 4.112 × 10<sup>25</sup> kg<br />(6.89 Yrths)
     density: 1.873 g/cm<sup>3</sup>
     surface_gravity: 9.085 m/s<sup>2</sup><br />(0.926 g<sub>0</sub>)
     escape_velocity: 17.777 km/s<br />(63,997 km/h)
     rotation_period: 0.440 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 88 K<br />(-185 °C)
+    temperature: 78 K<br />(-195 °C)
     composition:
       - 51.3914% helium
       - 46.3201% hydrogen
@@ -901,14 +901,14 @@ planets:
         radius: 9,946.0 km<br/>(1.561 Yrths)
         surface_area: 1.243 × 10<sup>09</sup> km<sup>2</sup><br/>(2.437 Yrths)
         volume: 4.121 × 10<sup>12</sup> km<sup>3</sup><br/>(3.805 Yrths)
-        mass: 6.217 × 10<sup>24</sup> kg<br />(6.885528315276483 Yrths)
+        mass: 6.217 × 10<sup>24</sup> kg<br />(1.041 Yrths)
         density: 1.509 g/cm<sup>3</sup>
         surface_gravity: 4.189 m/s<sup>2</sup><br />(0.427 g<sub>0</sub>)
         escape_velocity: 9.135 km/s<br />(32,885 km/h)
         rotation_period: 46.938 d
         axial_tilt: 18.85°
         albedo: 0.30
-        temperature: 603 K<br />(330 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 0067 Kerriad VIII b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -921,14 +921,14 @@ planets:
         radius: 9,923.1 km<br/>(1.558 Yrths)
         surface_area: 1.237 × 10<sup>09</sup> km<sup>2</sup><br/>(2.426 Yrths)
         volume: 4.093 × 10<sup>12</sup> km<sup>3</sup><br/>(3.778 Yrths)
-        mass: 9.191 × 10<sup>24</sup> kg<br />(6.885528315276483 Yrths)
+        mass: 9.191 × 10<sup>24</sup> kg<br />(1.539 Yrths)
         density: 2.246 g/cm<sup>3</sup>
         surface_gravity: 6.222 m/s<sup>2</sup><br />(0.634 g<sub>0</sub>)
         escape_velocity: 11.119 km/s<br />(40,030 km/h)
         rotation_period: 41.605 d
         axial_tilt: 9.38°
         albedo: 0.30
-        temperature: 575 K<br />(302 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 0067 Kerriad VIII c
         type: Rocky
         formationType: Impact formed
@@ -941,14 +941,14 @@ planets:
         radius: 7,333.1 km<br/>(1.151 Yrths)
         surface_area: 6.757 × 10<sup>08</sup> km<sup>2</sup><br/>(1.325 Yrths)
         volume: 1.652 × 10<sup>12</sup> km<sup>3</sup><br/>(1.525 Yrths)
-        mass: 5.305 × 10<sup>24</sup> kg<br />(6.885528315276483 Yrths)
+        mass: 5.305 × 10<sup>24</sup> kg<br />(0.888 Yrths)
         density: 3.211 g/cm<sup>3</sup>
         surface_gravity: 6.575 m/s<sup>2</sup><br />(0.670 g<sub>0</sub>)
         escape_velocity: 9.827 km/s<br />(35,376 km/h)
         rotation_period: 41.669 d
         axial_tilt: 20.11°
         albedo: 0.30
-        temperature: 548 K<br />(275 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 0067 Kerriad VIII d
         type: Rocky
         formationType: Accreted
@@ -961,14 +961,14 @@ planets:
         radius: 4,072.7 km<br/>(0.639 Yrths)
         surface_area: 2.084 × 10<sup>08</sup> km<sup>2</sup><br/>(0.409 Yrths)
         volume: 2.830 × 10<sup>11</sup> km<sup>3</sup><br/>(0.261 Yrths)
-        mass: 8.422 × 10<sup>23</sup> kg<br />(6.885528315276483 Yrths)
+        mass: 8.422 × 10<sup>23</sup> kg<br />(0.141 Yrths)
         density: 2.976 g/cm<sup>3</sup>
         surface_gravity: 3.384 m/s<sup>2</sup><br />(0.345 g<sub>0</sub>)
         escape_velocity: 5.254 km/s<br />(18,914 km/h)
         rotation_period: 30.293 d
         axial_tilt: 9.17°
         albedo: 0.30
-        temperature: 499 K<br />(225 °C)
+        temperature: 61 K<br />(-212 °C)
       - name: 0067 Kerriad VIII e
         type: Asteroid
         formationType: Captured
@@ -981,14 +981,14 @@ planets:
         radius: 15,532.5 km<br/>(2.438 Yrths)
         surface_area: 3.032 × 10<sup>09</sup> km<sup>2</sup><br/>(5.944 Yrths)
         volume: 1.570 × 10<sup>13</sup> km<sup>3</sup><br/>(14.491 Yrths)
-        mass: 3.155 × 10<sup>25</sup> kg<br />(6.885528315276483 Yrths)
+        mass: 3.155 × 10<sup>25</sup> kg<br />(5.282 Yrths)
         density: 2.010 g/cm<sup>3</sup>
         surface_gravity: 8.715 m/s<sup>2</sup><br />(0.889 g<sub>0</sub>)
         escape_velocity: 16.465 km/s<br />(59,275 km/h)
         rotation_period: 38.095 d
         axial_tilt: 35.56°
         albedo: 0.30
-        temperature: 475 K<br />(202 °C)
+        temperature: 61 K<br />(-212 °C)
   - name: 0067 Kerriad IX
     type: Gas giant
     aphelion: 2,711,407,696 km<br />18.124 AU
@@ -1000,7 +1000,7 @@ planets:
     radius: 206.5 km<br/>(0.032 Yrths)
     surface_area: 5.358 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 3.688 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.153 × 10<sup>27</sup> kg<br />(193.06885855338146 Yrths)
+    mass: 1.153 × 10<sup>27</sup> kg<br />(193.07 Yrths)
     density: 31265798.123 g/cm<sup>3</sup>
     surface_gravity: 1802459.500 m/s<sup>2</sup><br />(183799.718 g<sub>0</sub>)
     escape_velocity: 863.353 km/s<br />(3,108,070 km/h)
@@ -1021,14 +1021,14 @@ planets:
         radius: 176,100.4 km<br/>(27.641 Yrths)
         surface_area: 3.897 × 10<sup>11</sup> km<sup>2</sup><br/>(764.022 Yrths)
         volume: 2.288 × 10<sup>16</sup> km<sup>3</sup><br/>(21118.277 Yrths)
-        mass: 3.947 × 10<sup>28</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 3.947 × 10<sup>28</sup> kg<br />(6609.268 Yrths)
         density: 1.725 g/cm<sup>3</sup>
         surface_gravity: 84.834 m/s<sup>2</sup><br />(8.651 g<sub>0</sub>)
         escape_velocity: 172.971 km/s<br />(622,697 km/h)
         rotation_period: 41.726 d
         axial_tilt: 22.52°
         albedo: 0.30
-        temperature: 224 K<br />(-49 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: 0067 Kerriad IX b
         type: Icy
         formationType: Impact formed
@@ -1041,14 +1041,14 @@ planets:
         radius: 116,686.1 km<br/>(18.315 Yrths)
         surface_area: 1.711 × 10<sup>11</sup> km<sup>2</sup><br/>(335.446 Yrths)
         volume: 6.655 × 10<sup>15</sup> km<sup>3</sup><br/>(6143.762 Yrths)
-        mass: 8.485 × 10<sup>27</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 8.485 × 10<sup>27</sup> kg<br />(1420.719 Yrths)
         density: 1.275 g/cm<sup>3</sup>
         surface_gravity: 41.534 m/s<sup>2</sup><br />(4.235 g<sub>0</sub>)
         escape_velocity: 98.520 km/s<br />(354,670 km/h)
         rotation_period: 54.646 d
         axial_tilt: 20.53°
         albedo: 0.30
-        temperature: 213 K<br />(-60 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: 0067 Kerriad IX c
         type: Dwarf planet
         formationType: Captured
@@ -1061,14 +1061,14 @@ planets:
         radius: 96,570.0 km<br/>(15.158 Yrths)
         surface_area: 1.172 × 10<sup>11</sup> km<sup>2</sup><br/>(229.757 Yrths)
         volume: 3.772 × 10<sup>15</sup> km<sup>3</sup><br/>(3482.599 Yrths)
-        mass: 9.268 × 10<sup>27</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 9.268 × 10<sup>27</sup> kg<br />(1551.929 Yrths)
         density: 2.457 g/cm<sup>3</sup>
         surface_gravity: 66.241 m/s<sup>2</sup><br />(6.755 g<sub>0</sub>)
         escape_velocity: 113.186 km/s<br />(407,470 km/h)
         rotation_period: 35.941 d
         axial_tilt: 25.60°
         albedo: 0.30
-        temperature: 204 K<br />(-70 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: 0067 Kerriad IX d
         type: Ice/rock hybrid
         formationType: Captured
@@ -1081,14 +1081,14 @@ planets:
         radius: 114,397.4 km<br/>(17.956 Yrths)
         surface_area: 1.645 × 10<sup>11</sup> km<sup>2</sup><br/>(322.416 Yrths)
         volume: 6.271 × 10<sup>15</sup> km<sup>3</sup><br/>(5789.290 Yrths)
-        mass: 1.319 × 10<sup>28</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 1.319 × 10<sup>28</sup> kg<br />(2209.043 Yrths)
         density: 2.104 g/cm<sup>3</sup>
         surface_gravity: 67.191 m/s<sup>2</sup><br />(6.852 g<sub>0</sub>)
         escape_velocity: 124.071 km/s<br />(446,657 km/h)
         rotation_period: 38.706 d
         axial_tilt: 18.33°
         albedo: 0.30
-        temperature: 115 K<br />(-158 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: 0067 Kerriad IX e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -1101,14 +1101,14 @@ planets:
         radius: 91,827.1 km<br/>(14.413 Yrths)
         surface_area: 1.060 × 10<sup>11</sup> km<sup>2</sup><br/>(207.743 Yrths)
         volume: 3.243 × 10<sup>15</sup> km<sup>3</sup><br/>(2994.265 Yrths)
-        mass: 7.335 × 10<sup>27</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 7.335 × 10<sup>27</sup> kg<br />(1228.172 Yrths)
         density: 2.261 g/cm<sup>3</sup>
         surface_gravity: 57.977 m/s<sup>2</sup><br />(5.912 g<sub>0</sub>)
         escape_velocity: 103.258 km/s<br />(371,727 km/h)
         rotation_period: 33.203 d
         axial_tilt: 23.91°
         albedo: 0.30
-        temperature: 82 K<br />(-191 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: 0067 Kerriad IX f
         type: Icy
         formationType: Captured
@@ -1121,14 +1121,14 @@ planets:
         radius: 139,206.9 km<br/>(21.850 Yrths)
         surface_area: 2.435 × 10<sup>11</sup> km<sup>2</sup><br/>(477.427 Yrths)
         volume: 1.130 × 10<sup>16</sup> km<sup>3</sup><br/>(10431.813 Yrths)
-        mass: 1.440 × 10<sup>28</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 1.440 × 10<sup>28</sup> kg<br />(2411.234 Yrths)
         density: 1.274 g/cm<sup>3</sup>
         surface_gravity: 49.528 m/s<sup>2</sup><br />(5.050 g<sub>0</sub>)
         escape_velocity: 117.508 km/s<br />(423,028 km/h)
         rotation_period: 52.868 d
         axial_tilt: 15.11°
         albedo: 0.30
-        temperature: 65 K<br />(-208 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: 0067 Kerriad IX g
         type: Rocky
         formationType: Accreted
@@ -1141,14 +1141,14 @@ planets:
         radius: 94,562.6 km<br/>(14.843 Yrths)
         surface_area: 1.124 × 10<sup>11</sup> km<sup>2</sup><br/>(220.304 Yrths)
         volume: 3.542 × 10<sup>15</sup> km<sup>3</sup><br/>(3269.903 Yrths)
-        mass: 1.102 × 10<sup>28</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 1.102 × 10<sup>28</sup> kg<br />(1844.816 Yrths)
         density: 3.110 g/cm<sup>3</sup>
         surface_gravity: 82.120 m/s<sup>2</sup><br />(8.374 g<sub>0</sub>)
         escape_velocity: 124.708 km/s<br />(448,949 km/h)
         rotation_period: 35.022 d
         axial_tilt: 9.41°
         albedo: 0.30
-        temperature: 62 K<br />(-211 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: 0067 Kerriad IX h
         type: Icy
         formationType: Captured
@@ -1161,14 +1161,14 @@ planets:
         radius: 102,290.4 km<br/>(16.056 Yrths)
         surface_area: 1.315 × 10<sup>11</sup> km<sup>2</sup><br/>(257.783 Yrths)
         volume: 4.483 × 10<sup>15</sup> km<sup>3</sup><br/>(4138.875 Yrths)
-        mass: 5.939 × 10<sup>27</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 5.939 × 10<sup>27</sup> kg<br />(994.476 Yrths)
         density: 1.325 g/cm<sup>3</sup>
         surface_gravity: 37.832 m/s<sup>2</sup><br />(3.858 g<sub>0</sub>)
         escape_velocity: 88.035 km/s<br />(316,927 km/h)
         rotation_period: 61.388 d
         axial_tilt: 12.98°
         albedo: 0.30
-        temperature: 30 K<br />(-243 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: 0067 Kerriad IX i
         type: Ice/rock hybrid
         formationType: Captured
@@ -1181,14 +1181,14 @@ planets:
         radius: 93,424.7 km<br/>(14.664 Yrths)
         surface_area: 1.097 × 10<sup>11</sup> km<sup>2</sup><br/>(215.035 Yrths)
         volume: 3.416 × 10<sup>15</sup> km<sup>3</sup><br/>(3153.280 Yrths)
-        mass: 6.950 × 10<sup>27</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 6.950 × 10<sup>27</sup> kg<br />(1163.691 Yrths)
         density: 2.035 g/cm<sup>3</sup>
         surface_gravity: 53.070 m/s<sup>2</sup><br />(5.412 g<sub>0</sub>)
         escape_velocity: 99.647 km/s<br />(358,730 km/h)
         rotation_period: 46.570 d
         axial_tilt: 25.70°
         albedo: 0.30
-        temperature: 25 K<br />(-248 °C)
+        temperature: 48 K<br />(-226 °C)
       - name: 0067 Kerriad IX j
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -1201,12 +1201,12 @@ planets:
         radius: 105,466.3 km<br/>(16.554 Yrths)
         surface_area: 1.398 × 10<sup>11</sup> km<sup>2</sup><br/>(274.039 Yrths)
         volume: 4.914 × 10<sup>15</sup> km<sup>3</sup><br/>(4536.472 Yrths)
-        mass: 1.050 × 10<sup>28</sup> kg<br />(193.06885855338146 Yrths)
+        mass: 1.050 × 10<sup>28</sup> kg<br />(1757.843 Yrths)
         density: 2.136 g/cm<sup>3</sup>
         surface_gravity: 62.905 m/s<sup>2</sup><br />(6.415 g<sub>0</sub>)
         escape_velocity: 115.269 km/s<br />(414,967 km/h)
         rotation_period: 34.543 d
         axial_tilt: 22.29°
         albedo: 0.30
-        temperature: 23 K<br />(-250 °C)
+        temperature: 48 K<br />(-226 °C)
 ---

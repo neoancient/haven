@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10621 Tanashad is a star in the constellation Tanas
+      10621 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 289.42 ly
 apparent_magnitude: 14.55
 absolute_magnitude: 9.81

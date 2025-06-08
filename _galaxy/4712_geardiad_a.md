@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4712 Geardiad A is a star in the constellation Geard
+      4712 Geardiad A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 533.29 ly
 apparent_magnitude: 8.17
 absolute_magnitude: 2.10

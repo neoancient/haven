@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      699 Anilliad is a star in the constellation Anil
+      699 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 439.25 ly
 apparent_magnitude: 10.60
 absolute_magnitude: 4.96

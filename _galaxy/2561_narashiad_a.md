@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2561 Narashiad A is a star in the constellation Naras
+      2561 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 905.96 ly
 apparent_magnitude: 7.14
 absolute_magnitude: -0.08

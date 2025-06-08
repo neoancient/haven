@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      500 Arkothiad is a star in the constellation Arkoth
+      500 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 972.41 ly
 apparent_magnitude: 12.59
 absolute_magnitude: 5.21

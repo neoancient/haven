@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1642 Tanashad A is a star in the constellation Tanas
+      1642 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 290.58 ly
 apparent_magnitude: 7.33
 absolute_magnitude: 2.58

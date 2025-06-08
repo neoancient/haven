@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4155 Anilliad is a star in the constellation Anil
+      4155 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 431.94 ly
 apparent_magnitude: 10.24
 absolute_magnitude: 4.63

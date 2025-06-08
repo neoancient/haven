@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2633 Noniashad is a star in the constellation Nonias
+      2633 Noniashad is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 753.99 ly
 apparent_magnitude: 11.75
 absolute_magnitude: 4.93

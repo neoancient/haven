@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0005 Oniad C is a star in the constellation Oni
+      0005 Oniad C is a star in the constellation <a href="oni.html">Oni</a>
 distance: 507.05 ly
 apparent_magnitude: 11.22
 absolute_magnitude: 5.26
@@ -31,14 +31,14 @@ planets:
     radius: 6,307.6 km<br/>(0.990 Yrths)
     surface_area: 5.000 × 10<sup>08</sup> km<sup>2</sup><br/>(0.980 Yrths)
     volume: 1.051 × 10<sup>12</sup> km<sup>3</sup><br/>(0.970 Yrths)
-    mass: 5.665 × 10<sup>24</sup> kg<br />(0.9485358833377451 Yrths)
+    mass: 5.665 × 10<sup>24</sup> kg<br />(0.95 Yrths)
     density: 5.389 g/cm<sup>3</sup>
     surface_gravity: 9.490 m/s<sup>2</sup><br />(0.968 g<sub>0</sub>)
     escape_velocity: 10.949 km/s<br />(39,416 km/h)
     rotation_period: 1.467 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 379 K<br />(106 °C)
+    temperature: 809 K<br />(536 °C)
     surface_pressure: 31 kPa<br />(0 atm)
     composition:
       - 48.1909% methane
@@ -58,14 +58,14 @@ planets:
         radius: 2,746.3 km<br/>(0.431 Yrths)
         surface_area: 9.477 × 10<sup>07</sup> km<sup>2</sup><br/>(0.186 Yrths)
         volume: 8.676 × 10<sup>10</sup> km<sup>3</sup><br/>(0.080 Yrths)
-        mass: 2.185 × 10<sup>23</sup> kg<br />(0.9485358833377451 Yrths)
+        mass: 2.185 × 10<sup>23</sup> kg<br />(0.037 Yrths)
         density: 2.518 g/cm<sup>3</sup>
         surface_gravity: 1.931 m/s<sup>2</sup><br />(0.197 g<sub>0</sub>)
         escape_velocity: 3.259 km/s<br />(11,731 km/h)
         rotation_period: 46.828 d
         axial_tilt: 26.62°
         albedo: 0.30
-        temperature: 4876 K<br />(4603 °C)
+        temperature: 287 K<br />(14 °C)
   - name: 0005 Oniad C II
     type: Terrestrial
     aphelion: 168,752,943 km<br />1.128 AU
@@ -77,14 +77,14 @@ planets:
     radius: 5,479.5 km<br/>(0.860 Yrths)
     surface_area: 3.773 × 10<sup>08</sup> km<sup>2</sup><br/>(0.740 Yrths)
     volume: 6.891 × 10<sup>11</sup> km<sup>3</sup><br/>(0.636 Yrths)
-    mass: 3.437 × 10<sup>24</sup> kg<br />(0.575456714854804 Yrths)
+    mass: 3.437 × 10<sup>24</sup> kg<br />(0.58 Yrths)
     density: 4.987 g/cm<sup>3</sup>
     surface_gravity: 7.629 m/s<sup>2</sup><br />(0.778 g<sub>0</sub>)
     escape_velocity: 9.150 km/s<br />(32,939 km/h)
     rotation_period: 1.394 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 284 K<br />(11 °C)
+    temperature: 548 K<br />(274 °C)
     surface_pressure: 30 kPa<br />(0 atm)
     composition:
       - 64.0706% methane
@@ -104,14 +104,14 @@ planets:
         radius: 1,912.7 km<br/>(0.300 Yrths)
         surface_area: 4.597 × 10<sup>07</sup> km<sup>2</sup><br/>(0.090 Yrths)
         volume: 2.931 × 10<sup>10</sup> km<sup>3</sup><br/>(0.027 Yrths)
-        mass: 6.294 × 10<sup>22</sup> kg<br />(0.575456714854804 Yrths)
+        mass: 6.294 × 10<sup>22</sup> kg<br />(0.011 Yrths)
         density: 2.147 g/cm<sup>3</sup>
         surface_gravity: 1.147 m/s<sup>2</sup><br />(0.117 g<sub>0</sub>)
         escape_velocity: 2.096 km/s<br />(7,545 km/h)
         rotation_period: 45.083 d
         axial_tilt: 17.24°
         albedo: 0.30
-        temperature: 3977 K<br />(3704 °C)
+        temperature: 223 K<br />(-50 °C)
   - name: 0005 Oniad C III
     type: Gas giant
     aphelion: 294,775,561 km<br />1.970 AU
@@ -123,7 +123,7 @@ planets:
     radius: 227.1 km<br/>(0.036 Yrths)
     surface_area: 6.481 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.907 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.781 × 10<sup>27</sup> kg<br />(298.22257370289736 Yrths)
+    mass: 1.781 × 10<sup>27</sup> kg<br />(298.22 Yrths)
     density: 36298384.931 g/cm<sup>3</sup>
     surface_gravity: 2301548.504 m/s<sup>2</sup><br />(234692.632 g<sub>0</sub>)
     escape_velocity: 1023.137 km/s<br />(3,683,295 km/h)
@@ -144,14 +144,14 @@ planets:
         radius: 149,928.1 km<br/>(23.533 Yrths)
         surface_area: 2.825 × 10<sup>11</sup> km<sup>2</sup><br/>(553.797 Yrths)
         volume: 1.412 × 10<sup>16</sup> km<sup>3</sup><br/>(13032.448 Yrths)
-        mass: 4.049 × 10<sup>28</sup> kg<br />(298.22257370289736 Yrths)
+        mass: 4.049 × 10<sup>28</sup> kg<br />(6780.240 Yrths)
         density: 2.868 g/cm<sup>3</sup>
         surface_gravity: 120.065 m/s<sup>2</sup><br />(12.243 g<sub>0</sub>)
         escape_velocity: 189.871 km/s<br />(683,536 km/h)
         rotation_period: 40.920 d
         axial_tilt: 12.95°
         albedo: 0.30
-        temperature: 656 K<br />(383 °C)
+        temperature: 174 K<br />(-100 °C)
       - name: 0005 Oniad C III b
         type: Asteroid
         formationType: Captured
@@ -164,14 +164,14 @@ planets:
         radius: 149,656.9 km<br/>(23.490 Yrths)
         surface_area: 2.815 × 10<sup>11</sup> km<sup>2</sup><br/>(551.796 Yrths)
         volume: 1.404 × 10<sup>16</sup> km<sup>3</sup><br/>(12961.860 Yrths)
-        mass: 4.459 × 10<sup>28</sup> kg<br />(298.22257370289736 Yrths)
+        mass: 4.459 × 10<sup>28</sup> kg<br />(7465.967 Yrths)
         density: 3.176 g/cm<sup>3</sup>
         surface_gravity: 132.687 m/s<sup>2</sup><br />(13.530 g<sub>0</sub>)
         escape_velocity: 199.422 km/s<br />(717,918 km/h)
         rotation_period: 34.257 d
         axial_tilt: 31.41°
         albedo: 0.30
-        temperature: 569 K<br />(296 °C)
+        temperature: 174 K<br />(-100 °C)
       - name: 0005 Oniad C III c
         type: Icy
         formationType: Accreted
@@ -184,14 +184,14 @@ planets:
         radius: 246,696.7 km<br/>(38.722 Yrths)
         surface_area: 7.648 × 10<sup>11</sup> km<sup>2</sup><br/>(1499.379 Yrths)
         volume: 6.289 × 10<sup>16</sup> km<sup>3</sup><br/>(58058.695 Yrths)
-        mass: 8.310 × 10<sup>28</sup> kg<br />(298.22257370289736 Yrths)
+        mass: 8.310 × 10<sup>28</sup> kg<br />(13914.464 Yrths)
         density: 1.321 g/cm<sup>3</sup>
         surface_gravity: 91.007 m/s<sup>2</sup><br />(9.280 g<sub>0</sub>)
         escape_velocity: 212.046 km/s<br />(763,364 km/h)
         rotation_period: 56.735 d
         axial_tilt: 12.22°
         albedo: 0.30
-        temperature: 542 K<br />(269 °C)
+        temperature: 174 K<br />(-100 °C)
       - name: 0005 Oniad C III d
         type: Rocky
         formationType: Accreted
@@ -204,14 +204,14 @@ planets:
         radius: 140,418.8 km<br/>(22.040 Yrths)
         surface_area: 2.478 × 10<sup>11</sup> km<sup>2</sup><br/>(485.775 Yrths)
         volume: 1.160 × 10<sup>16</sup> km<sup>3</sup><br/>(10706.641 Yrths)
-        mass: 3.296 × 10<sup>28</sup> kg<br />(298.22257370289736 Yrths)
+        mass: 3.296 × 10<sup>28</sup> kg<br />(5518.535 Yrths)
         density: 2.842 g/cm<sup>3</sup>
         surface_gravity: 111.406 m/s<sup>2</sup><br />(11.360 g<sub>0</sub>)
         escape_velocity: 177.002 km/s<br />(637,205 km/h)
         rotation_period: 31.313 d
         axial_tilt: 8.89°
         albedo: 0.30
-        temperature: 427 K<br />(154 °C)
+        temperature: 174 K<br />(-100 °C)
       - name: 0005 Oniad C III e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -224,14 +224,14 @@ planets:
         radius: 232,461.1 km<br/>(36.487 Yrths)
         surface_area: 6.791 × 10<sup>11</sup> km<sup>2</sup><br/>(1331.329 Yrths)
         volume: 5.262 × 10<sup>16</sup> km<sup>3</sup><br/>(48576.693 Yrths)
-        mass: 1.047 × 10<sup>29</sup> kg<br />(298.22257370289736 Yrths)
+        mass: 1.047 × 10<sup>29</sup> kg<br />(17527.725 Yrths)
         density: 1.989 g/cm<sup>3</sup>
         surface_gravity: 129.110 m/s<sup>2</sup><br />(13.166 g<sub>0</sub>)
         escape_velocity: 245.169 km/s<br />(882,608 km/h)
         rotation_period: 40.062 d
         axial_tilt: 33.84°
         albedo: 0.30
-        temperature: 388 K<br />(115 °C)
+        temperature: 174 K<br />(-100 °C)
   - name: 0005 Oniad C IV
     type: Gas giant
     aphelion: 477,674,367 km<br />3.193 AU
@@ -243,7 +243,7 @@ planets:
     radius: 217.0 km<br/>(0.034 Yrths)
     surface_area: 5.919 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.282 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.445 × 10<sup>27</sup> kg<br />(241.99805747128985 Yrths)
+    mass: 1.445 × 10<sup>27</sup> kg<br />(242.00 Yrths)
     density: 33749836.323 g/cm<sup>3</sup>
     surface_gravity: 2045032.275 m/s<sup>2</sup><br />(208535.257 g<sub>0</sub>)
     escape_velocity: 942.805 km/s<br />(3,394,097 km/h)
@@ -264,14 +264,14 @@ planets:
         radius: 204,091.0 km<br/>(32.034 Yrths)
         surface_area: 5.234 × 10<sup>11</sup> km<sup>2</sup><br/>(1026.201 Yrths)
         volume: 3.561 × 10<sup>16</sup> km<sup>3</sup><br/>(32873.700 Yrths)
-        mass: 4.434 × 10<sup>28</sup> kg<br />(241.99805747128985 Yrths)
+        mass: 4.434 × 10<sup>28</sup> kg<br />(7425.306 Yrths)
         density: 1.245 g/cm<sup>3</sup>
         surface_gravity: 70.958 m/s<sup>2</sup><br />(7.236 g<sub>0</sub>)
         escape_velocity: 170.303 km/s<br />(613,092 km/h)
         rotation_period: 46.159 d
         axial_tilt: 17.63°
         albedo: 0.30
-        temperature: 639 K<br />(366 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 0005 Oniad C IV b
         type: Ice/rock hybrid
         formationType: Captured
@@ -284,14 +284,14 @@ planets:
         radius: 246,453.5 km<br/>(38.684 Yrths)
         surface_area: 7.633 × 10<sup>11</sup> km<sup>2</sup><br/>(1496.424 Yrths)
         volume: 6.270 × 10<sup>16</sup> km<sup>3</sup><br/>(57887.117 Yrths)
-        mass: 1.069 × 10<sup>29</sup> kg<br />(241.99805747128985 Yrths)
+        mass: 1.069 × 10<sup>29</sup> kg<br />(17900.011 Yrths)
         density: 1.705 g/cm<sup>3</sup>
         surface_gravity: 117.306 m/s<sup>2</sup><br />(11.962 g<sub>0</sub>)
         escape_velocity: 240.623 km/s<br />(866,242 km/h)
         rotation_period: 71.502 d
         axial_tilt: 17.09°
         albedo: 0.30
-        temperature: 581 K<br />(308 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 0005 Oniad C IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -304,14 +304,14 @@ planets:
         radius: 199,085.1 km<br/>(31.249 Yrths)
         surface_area: 4.981 × 10<sup>11</sup> km<sup>2</sup><br/>(976.477 Yrths)
         volume: 3.305 × 10<sup>16</sup> km<sup>3</sup><br/>(30513.583 Yrths)
-        mass: 5.897 × 10<sup>28</sup> kg<br />(241.99805747128985 Yrths)
+        mass: 5.897 × 10<sup>28</sup> kg<br />(9873.800 Yrths)
         density: 1.784 g/cm<sup>3</sup>
         surface_gravity: 99.161 m/s<sup>2</sup><br />(10.112 g<sub>0</sub>)
         escape_velocity: 198.839 km/s<br />(715,819 km/h)
         rotation_period: 74.031 d
         axial_tilt: 29.60°
         albedo: 0.30
-        temperature: 480 K<br />(207 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 0005 Oniad C IV d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -324,14 +324,14 @@ planets:
         radius: 226,198.3 km<br/>(35.504 Yrths)
         surface_area: 6.430 × 10<sup>11</sup> km<sup>2</sup><br/>(1260.560 Yrths)
         volume: 4.848 × 10<sup>16</sup> km<sup>3</sup><br/>(44755.401 Yrths)
-        mass: 9.916 × 10<sup>28</sup> kg<br />(241.99805747128985 Yrths)
+        mass: 9.916 × 10<sup>28</sup> kg<br />(16604.176 Yrths)
         density: 2.045 g/cm<sup>3</sup>
         surface_gravity: 129.174 m/s<sup>2</sup><br />(13.172 g<sub>0</sub>)
         escape_velocity: 241.903 km/s<br />(870,852 km/h)
         rotation_period: 59.734 d
         axial_tilt: 22.38°
         albedo: 0.30
-        temperature: 153 K<br />(-120 °C)
+        temperature: 135 K<br />(-138 °C)
       - name: 0005 Oniad C IV e
         type: Rocky
         formationType: Captured
@@ -344,14 +344,14 @@ planets:
         radius: 168,339.6 km<br/>(26.423 Yrths)
         surface_area: 3.561 × 10<sup>11</sup> km<sup>2</sup><br/>(698.164 Yrths)
         volume: 1.998 × 10<sup>16</sup> km<sup>3</sup><br/>(18447.426 Yrths)
-        mass: 6.492 × 10<sup>28</sup> kg<br />(241.99805747128985 Yrths)
+        mass: 6.492 × 10<sup>28</sup> kg<br />(10871.446 Yrths)
         density: 3.249 g/cm<sup>3</sup>
         surface_gravity: 152.704 m/s<sup>2</sup><br />(15.571 g<sub>0</sub>)
         escape_velocity: 226.897 km/s<br />(816,828 km/h)
         rotation_period: 44.204 d
         axial_tilt: 8.48°
         albedo: 0.30
-        temperature: 95 K<br />(-178 °C)
+        temperature: 135 K<br />(-138 °C)
   - name: 0005 Oniad C V
     type: Large terrestrial
     aphelion: 875,260,628 km<br />5.851 AU
@@ -363,14 +363,14 @@ planets:
     radius: 7,869.9 km<br/>(1.235 Yrths)
     surface_area: 7.783 × 10<sup>08</sup> km<sup>2</sup><br/>(1.526 Yrths)
     volume: 2.042 × 10<sup>12</sup> km<sup>3</sup><br/>(1.885 Yrths)
-    mass: 1.486 × 10<sup>25</sup> kg<br />(2.488601045209792 Yrths)
+    mass: 1.486 × 10<sup>25</sup> kg<br />(2.49 Yrths)
     density: 7.279 g/cm<sup>3</sup>
     surface_gravity: 15.994 m/s<sup>2</sup><br />(1.631 g<sub>0</sub>)
     escape_velocity: 15.877 km/s<br />(57,157 km/h)
     rotation_period: 0.714 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 167 K<br />(-106 °C)
+    temperature: 344 K<br />(71 °C)
     surface_pressure: 695 kPa<br />(7 atm)
     composition:
       - 54.9001% carbon dioxide
@@ -391,14 +391,14 @@ planets:
         radius: 6,234.5 km<br/>(0.979 Yrths)
         surface_area: 4.884 × 10<sup>08</sup> km<sup>2</sup><br/>(0.958 Yrths)
         volume: 1.015 × 10<sup>12</sup> km<sup>3</sup><br/>(0.937 Yrths)
-        mass: 2.582 × 10<sup>24</sup> kg<br />(2.488601045209792 Yrths)
+        mass: 2.582 × 10<sup>24</sup> kg<br />(0.432 Yrths)
         density: 2.543 g/cm<sup>3</sup>
         surface_gravity: 4.427 m/s<sup>2</sup><br />(0.451 g<sub>0</sub>)
         escape_velocity: 7.435 km/s<br />(26,765 km/h)
         rotation_period: 34.021 d
         axial_tilt: 13.51°
         albedo: 0.30
-        temperature: 1524 K<br />(1251 °C)
+        temperature: 105 K<br />(-168 °C)
       - name: 0005 Oniad C V b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -411,14 +411,14 @@ planets:
         radius: 4,349.1 km<br/>(0.683 Yrths)
         surface_area: 2.377 × 10<sup>08</sup> km<sup>2</sup><br/>(0.466 Yrths)
         volume: 3.446 × 10<sup>11</sup> km<sup>3</sup><br/>(0.318 Yrths)
-        mass: 5.521 × 10<sup>23</sup> kg<br />(2.488601045209792 Yrths)
+        mass: 5.521 × 10<sup>23</sup> kg<br />(0.092 Yrths)
         density: 1.602 g/cm<sup>3</sup>
         surface_gravity: 1.946 m/s<sup>2</sup><br />(0.198 g<sub>0</sub>)
         escape_velocity: 4.116 km/s<br />(14,819 km/h)
         rotation_period: 40.392 d
         axial_tilt: 19.80°
         albedo: 0.30
-        temperature: 1453 K<br />(1180 °C)
+        temperature: 105 K<br />(-168 °C)
   - name: 0005 Oniad C VI
     type: Gas giant
     aphelion: 1,243,635,558 km<br />8.313 AU
@@ -430,7 +430,7 @@ planets:
     radius: 212.8 km<br/>(0.033 Yrths)
     surface_area: 5.692 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.038 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.316 × 10<sup>27</sup> kg<br />(220.35955403931143 Yrths)
+    mass: 1.316 × 10<sup>27</sup> kg<br />(220.36 Yrths)
     density: 32588385.564 g/cm<sup>3</sup>
     surface_gravity: 1936426.206 m/s<sup>2</sup><br />(197460.520 g<sub>0</sub>)
     escape_velocity: 908.504 km/s<br />(3,270,616 km/h)
@@ -451,14 +451,14 @@ planets:
         radius: 136,108.3 km<br/>(21.364 Yrths)
         surface_area: 2.328 × 10<sup>11</sup> km<sup>2</sup><br/>(456.409 Yrths)
         volume: 1.056 × 10<sup>16</sup> km<sup>3</sup><br/>(9750.593 Yrths)
-        mass: 2.503 × 10<sup>28</sup> kg<br />(220.35955403931143 Yrths)
+        mass: 2.503 × 10<sup>28</sup> kg<br />(4191.500 Yrths)
         density: 2.370 g/cm<sup>3</sup>
         surface_gravity: 90.061 m/s<sup>2</sup><br />(9.184 g<sub>0</sub>)
         escape_velocity: 156.682 km/s<br />(564,057 km/h)
         rotation_period: 35.861 d
         axial_tilt: 50.84°
         albedo: 0.30
-        temperature: 392 K<br />(119 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 0005 Oniad C VI b
         type: Rocky
         formationType: Accreted
@@ -471,14 +471,14 @@ planets:
         radius: 113,892.8 km<br/>(17.877 Yrths)
         surface_area: 1.630 × 10<sup>11</sup> km<sup>2</sup><br/>(319.578 Yrths)
         volume: 6.188 × 10<sup>15</sup> km<sup>3</sup><br/>(5713.021 Yrths)
-        mass: 1.682 × 10<sup>28</sup> kg<br />(220.35955403931143 Yrths)
+        mass: 1.682 × 10<sup>28</sup> kg<br />(2817.200 Yrths)
         density: 2.719 g/cm<sup>3</sup>
         surface_gravity: 86.449 m/s<sup>2</sup><br />(8.815 g<sub>0</sub>)
         escape_velocity: 140.423 km/s<br />(505,523 km/h)
         rotation_period: 55.190 d
         axial_tilt: 12.25°
         albedo: 0.30
-        temperature: 232 K<br />(-41 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 0005 Oniad C VI c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -491,14 +491,14 @@ planets:
         radius: 182,879.0 km<br/>(28.705 Yrths)
         surface_area: 4.203 × 10<sup>11</sup> km<sup>2</sup><br/>(823.972 Yrths)
         volume: 2.562 × 10<sup>16</sup> km<sup>3</sup><br/>(23652.045 Yrths)
-        mass: 4.583 × 10<sup>28</sup> kg<br />(220.35955403931143 Yrths)
+        mass: 4.583 × 10<sup>28</sup> kg<br />(7673.661 Yrths)
         density: 1.789 g/cm<sup>3</sup>
         surface_gravity: 91.329 m/s<sup>2</sup><br />(9.313 g<sub>0</sub>)
         escape_velocity: 182.893 km/s<br />(658,415 km/h)
         rotation_period: 44.557 d
         axial_tilt: 17.61°
         albedo: 0.30
-        temperature: 144 K<br />(-129 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 0005 Oniad C VI d
         type: Ice/rock hybrid
         formationType: Captured
@@ -511,14 +511,14 @@ planets:
         radius: 99,850.8 km<br/>(15.673 Yrths)
         surface_area: 1.253 × 10<sup>11</sup> km<sup>2</sup><br/>(245.634 Yrths)
         volume: 4.170 × 10<sup>15</sup> km<sup>3</sup><br/>(3849.741 Yrths)
-        mass: 1.068 × 10<sup>28</sup> kg<br />(220.35955403931143 Yrths)
+        mass: 1.068 × 10<sup>28</sup> kg<br />(1789.145 Yrths)
         density: 2.562 g/cm<sup>3</sup>
         surface_gravity: 71.430 m/s<sup>2</sup><br />(7.284 g<sub>0</sub>)
         escape_velocity: 119.516 km/s<br />(430,256 km/h)
         rotation_period: 31.849 d
         axial_tilt: 16.58°
         albedo: 0.30
-        temperature: 131 K<br />(-142 °C)
+        temperature: 81 K<br />(-192 °C)
       - name: 0005 Oniad C VI e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -531,12 +531,12 @@ planets:
         radius: 210,630.7 km<br/>(33.061 Yrths)
         surface_area: 5.575 × 10<sup>11</sup> km<sup>2</sup><br/>(1093.020 Yrths)
         volume: 3.914 × 10<sup>16</sup> km<sup>3</sup><br/>(36136.184 Yrths)
-        mass: 9.092 × 10<sup>28</sup> kg<br />(220.35955403931143 Yrths)
+        mass: 9.092 × 10<sup>28</sup> kg<br />(15224.405 Yrths)
         density: 2.323 g/cm<sup>3</sup>
         surface_gravity: 136.594 m/s<sup>2</sup><br />(13.929 g<sub>0</sub>)
         escape_velocity: 240.042 km/s<br />(864,151 km/h)
         rotation_period: 63.953 d
         axial_tilt: 24.21°
         albedo: 0.30
-        temperature: 108 K<br />(-165 °C)
+        temperature: 81 K<br />(-192 °C)
 ---

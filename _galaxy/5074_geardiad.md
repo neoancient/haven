@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5074 Geardiad is a star in the constellation Geard
+      5074 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 360.85 ly
 apparent_magnitude: 9.96
 absolute_magnitude: 4.74

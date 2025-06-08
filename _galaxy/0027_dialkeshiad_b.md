@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0027 Dialkeshiad B is a star in the constellation Dialkes
+      0027 Dialkeshiad B is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 213.59 ly
 apparent_magnitude: 8.48
 absolute_magnitude: 4.40

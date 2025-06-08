@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0035 Nurranpugiad A is a star in the constellation Nurranpug
+      0035 Nurranpugiad A is a star in the constellation <a href="nurranpug.html">Nurranpug</a>
 distance: 165.93 ly
 apparent_magnitude: 6.20
 absolute_magnitude: 2.67

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Mioruaniad B is a star in the constellation Mioruane
+      0051 Mioruaniad B is a star in the constellation <a href="mioruane.html">Mioruane</a>
 distance: 374.61 ly
 apparent_magnitude: 9.92
 absolute_magnitude: 4.62

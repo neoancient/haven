@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ω Naddiad B is a star in the constellation Naddi
+      ω Naddiad B is a star in the constellation <a href="naddi.html">Naddi</a>
 distance: 540.07 ly
 apparent_magnitude: 7.81
 absolute_magnitude: 1.72

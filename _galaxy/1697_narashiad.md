@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1697 Narashiad is a star in the constellation Naras
+      1697 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 610.96 ly
 apparent_magnitude: 10.08
 absolute_magnitude: 3.72

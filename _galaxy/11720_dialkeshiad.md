@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      11720 Dialkeshiad is a star in the constellation Dialkes
+      11720 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 253.04 ly
 apparent_magnitude: 7.29
 absolute_magnitude: 2.85
@@ -31,14 +31,14 @@ planets:
     radius: 154.5 km<br/>(0.024 Yrths)
     surface_area: 3.000 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 1.545 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 3.335 × 10<sup>26</sup> kg<br />(55.84417868987141 Yrths)
+    mass: 3.335 × 10<sup>26</sup> kg<br />(55.84 Yrths)
     density: 21582840.287 g/cm<sup>3</sup>
     surface_gravity: 931065.269 m/s<sup>2</sup><br />(94942.235 g<sub>0</sub>)
     escape_velocity: 536.764 km/s<br />(1,932,350 km/h)
     rotation_period: 0.279 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 3490 K<br />(3217 °C)
+    temperature: 3458 K<br />(3185 °C)
     composition:
       - 80.6793% hydrogen
       - 11.1654% helium
@@ -59,14 +59,14 @@ planets:
         radius: 156,008.6 km<br/>(24.487 Yrths)
         surface_area: 3.058 × 10<sup>11</sup> km<sup>2</sup><br/>(599.628 Yrths)
         volume: 1.591 × 10<sup>16</sup> km<sup>3</sup><br/>(14683.260 Yrths)
-        mass: 1.113 × 10<sup>28</sup> kg<br />(55.84417868987141 Yrths)
+        mass: 1.113 × 10<sup>28</sup> kg<br />(1864.284 Yrths)
         density: 0.700 g/cm<sup>3</sup>
         surface_gravity: 30.490 m/s<sup>2</sup><br />(3.109 g<sub>0</sub>)
         escape_velocity: 97.602 km/s<br />(351,368 km/h)
         rotation_period: 103.941 d
         axial_tilt: 20.96°
         albedo: 0.30
-        temperature: 7976 K<br />(7703 °C)
+        temperature: 849 K<br />(576 °C)
       - name: 11720 Dialkeshiad I b
         type: Asteroid
         formationType: Captured
@@ -79,14 +79,14 @@ planets:
         radius: 110,832.4 km<br/>(17.396 Yrths)
         surface_area: 1.544 × 10<sup>11</sup> km<sup>2</sup><br/>(302.634 Yrths)
         volume: 5.703 × 10<sup>15</sup> km<sup>3</sup><br/>(5264.745 Yrths)
-        mass: 7.414 × 10<sup>27</sup> kg<br />(55.84417868987141 Yrths)
+        mass: 7.414 × 10<sup>27</sup> kg<br />(1241.402 Yrths)
         density: 1.300 g/cm<sup>3</sup>
         surface_gravity: 40.227 m/s<sup>2</sup><br />(4.102 g<sub>0</sub>)
         escape_velocity: 94.493 km/s<br />(340,176 km/h)
         rotation_period: 69.699 d
         axial_tilt: 41.48°
         albedo: 0.30
-        temperature: 5993 K<br />(5719 °C)
+        temperature: 849 K<br />(576 °C)
       - name: 11720 Dialkeshiad I c
         type: Ice/rock hybrid
         formationType: Captured
@@ -99,14 +99,14 @@ planets:
         radius: 58,269.0 km<br/>(9.146 Yrths)
         surface_area: 4.267 × 10<sup>10</sup> km<sup>2</sup><br/>(83.649 Yrths)
         volume: 8.287 × 10<sup>14</sup> km<sup>3</sup><br/>(765.049 Yrths)
-        mass: 1.611 × 10<sup>27</sup> kg<br />(55.84417868987141 Yrths)
+        mass: 1.611 × 10<sup>27</sup> kg<br />(269.682 Yrths)
         density: 1.943 g/cm<sup>3</sup>
         surface_gravity: 31.616 m/s<sup>2</sup><br />(3.224 g<sub>0</sub>)
         escape_velocity: 60.741 km/s<br />(218,669 km/h)
         rotation_period: 54.613 d
         axial_tilt: 26.59°
         albedo: 0.30
-        temperature: 4502 K<br />(4229 °C)
+        temperature: 849 K<br />(576 °C)
       - name: 11720 Dialkeshiad I d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -119,14 +119,14 @@ planets:
         radius: 57,414.9 km<br/>(9.012 Yrths)
         surface_area: 4.142 × 10<sup>10</sup> km<sup>2</sup><br/>(81.215 Yrths)
         volume: 7.928 × 10<sup>14</sup> km<sup>3</sup><br/>(731.898 Yrths)
-        mass: 1.708 × 10<sup>27</sup> kg<br />(55.84417868987141 Yrths)
+        mass: 1.708 × 10<sup>27</sup> kg<br />(286.046 Yrths)
         density: 2.155 g/cm<sup>3</sup>
         surface_gravity: 34.540 m/s<sup>2</sup><br />(3.522 g<sub>0</sub>)
         escape_velocity: 63.021 km/s<br />(226,875 km/h)
         rotation_period: 61.984 d
         axial_tilt: 19.33°
         albedo: 0.30
-        temperature: 2541 K<br />(2268 °C)
+        temperature: 849 K<br />(576 °C)
       - name: 11720 Dialkeshiad I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -139,14 +139,14 @@ planets:
         radius: 61,749.5 km<br/>(9.692 Yrths)
         surface_area: 4.792 × 10<sup>10</sup> km<sup>2</sup><br/>(93.940 Yrths)
         volume: 9.863 × 10<sup>14</sup> km<sup>3</sup><br/>(910.494 Yrths)
-        mass: 2.124 × 10<sup>27</sup> kg<br />(55.84417868987141 Yrths)
+        mass: 2.124 × 10<sup>27</sup> kg<br />(355.608 Yrths)
         density: 2.153 g/cm<sup>3</sup>
         surface_gravity: 37.123 m/s<sup>2</sup><br />(3.785 g<sub>0</sub>)
         escape_velocity: 67.756 km/s<br />(243,921 km/h)
         rotation_period: 46.184 d
         axial_tilt: 17.83°
         albedo: 0.30
-        temperature: 1130 K<br />(857 °C)
+        temperature: 849 K<br />(576 °C)
       - name: 11720 Dialkeshiad I f
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -159,12 +159,12 @@ planets:
         radius: 57,047.3 km<br/>(8.954 Yrths)
         surface_area: 4.090 × 10<sup>10</sup> km<sup>2</sup><br/>(80.178 Yrths)
         volume: 7.777 × 10<sup>14</sup> km<sup>3</sup><br/>(717.929 Yrths)
-        mass: 1.901 × 10<sup>27</sup> kg<br />(55.84417868987141 Yrths)
+        mass: 1.901 × 10<sup>27</sup> kg<br />(318.246 Yrths)
         density: 2.444 g/cm<sup>3</sup>
         surface_gravity: 38.925 m/s<sup>2</sup><br />(3.969 g<sub>0</sub>)
         escape_velocity: 66.687 km/s<br />(240,073 km/h)
         rotation_period: 34.885 d
         axial_tilt: 13.11°
         albedo: 0.30
-        temperature: 479 K<br />(206 °C)
+        temperature: 849 K<br />(576 °C)
 ---

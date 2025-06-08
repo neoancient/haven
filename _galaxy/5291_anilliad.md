@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5291 Anilliad is a star in the constellation Anil
+      5291 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 454.01 ly
 apparent_magnitude: 8.89
 absolute_magnitude: 3.17
@@ -31,14 +31,14 @@ planets:
     radius: 170.6 km<br/>(0.027 Yrths)
     surface_area: 3.658 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 2.080 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 5.203 × 10<sup>26</sup> kg<br />(87.11532550636147 Yrths)
+    mass: 5.203 × 10<sup>26</sup> kg<br />(87.12 Yrths)
     density: 25006391.945 g/cm<sup>3</sup>
     surface_gravity: 1191188.896 m/s<sup>2</sup><br />(121467.463 g<sub>0</sub>)
     escape_velocity: 637.988 km/s<br />(2,296,757 km/h)
     rotation_period: 0.267 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1489 K<br />(1216 °C)
+    temperature: 1722 K<br />(1449 °C)
     composition:
       - 51.8000% helium
       - 38.6354% hydrogen
@@ -58,14 +58,14 @@ planets:
         radius: 138,866.8 km<br/>(21.797 Yrths)
         surface_area: 2.423 × 10<sup>11</sup> km<sup>2</sup><br/>(475.096 Yrths)
         volume: 1.122 × 10<sup>16</sup> km<sup>3</sup><br/>(10355.539 Yrths)
-        mass: 2.529 × 10<sup>28</sup> kg<br />(87.11532550636147 Yrths)
+        mass: 2.529 × 10<sup>28</sup> kg<br />(4234.709 Yrths)
         density: 2.255 g/cm<sup>3</sup>
         surface_gravity: 87.410 m/s<sup>2</sup><br />(8.913 g<sub>0</sub>)
         escape_velocity: 155.916 km/s<br />(561,297 km/h)
         rotation_period: 33.073 d
         axial_tilt: 29.39°
         albedo: 0.30
-        temperature: 2487 K<br />(2214 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 5291 Anilliad I b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 75,876.1 km<br/>(11.910 Yrths)
         surface_area: 7.235 × 10<sup>10</sup> km<sup>2</sup><br/>(141.839 Yrths)
         volume: 1.830 × 10<sup>15</sup> km<sup>3</sup><br/>(1689.245 Yrths)
-        mass: 5.123 × 10<sup>27</sup> kg<br />(87.11532550636147 Yrths)
+        mass: 5.123 × 10<sup>27</sup> kg<br />(857.911 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 59.315 m/s<sup>2</sup><br />(6.048 g<sub>0</sub>)
         escape_velocity: 94.939 km/s<br />(341,782 km/h)
         rotation_period: 35.810 d
         axial_tilt: 16.36°
         albedo: 0.30
-        temperature: 2371 K<br />(2098 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 5291 Anilliad I c
         type: Rocky
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 74,522.0 km<br/>(11.697 Yrths)
         surface_area: 6.979 × 10<sup>10</sup> km<sup>2</sup><br/>(136.821 Yrths)
         volume: 1.734 × 10<sup>15</sup> km<sup>3</sup><br/>(1600.408 Yrths)
-        mass: 4.557 × 10<sup>27</sup> kg<br />(87.11532550636147 Yrths)
+        mass: 4.557 × 10<sup>27</sup> kg<br />(763.014 Yrths)
         density: 2.629 g/cm<sup>3</sup>
         surface_gravity: 54.689 m/s<sup>2</sup><br />(5.577 g<sub>0</sub>)
         escape_velocity: 90.345 km/s<br />(325,240 km/h)
         rotation_period: 57.996 d
         axial_tilt: 21.57°
         albedo: 0.30
-        temperature: 1960 K<br />(1686 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 5291 Anilliad I d
         type: Icy
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 107,063.5 km<br/>(16.805 Yrths)
         surface_area: 1.440 × 10<sup>11</sup> km<sup>2</sup><br/>(282.402 Yrths)
         volume: 5.141 × 10<sup>15</sup> km<sup>3</sup><br/>(4745.712 Yrths)
-        mass: 4.921 × 10<sup>27</sup> kg<br />(87.11532550636147 Yrths)
+        mass: 4.921 × 10<sup>27</sup> kg<br />(824.029 Yrths)
         density: 0.957 g/cm<sup>3</sup>
         surface_gravity: 28.615 m/s<sup>2</sup><br />(2.918 g<sub>0</sub>)
         escape_velocity: 78.330 km/s<br />(281,988 km/h)
         rotation_period: 69.127 d
         axial_tilt: 22.25°
         albedo: 0.30
-        temperature: 1698 K<br />(1425 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 5291 Anilliad I e
         type: Rocky
         formationType: Accreted
@@ -138,15 +138,35 @@ planets:
         radius: 87,043.8 km<br/>(13.662 Yrths)
         surface_area: 9.521 × 10<sup>10</sup> km<sup>2</sup><br/>(186.664 Yrths)
         volume: 2.762 × 10<sup>15</sup> km<sup>3</sup><br/>(2550.296 Yrths)
-        mass: 9.739 × 10<sup>27</sup> kg<br />(87.11532550636147 Yrths)
+        mass: 9.739 × 10<sup>27</sup> kg<br />(1630.794 Yrths)
         density: 3.525 g/cm<sup>3</sup>
         surface_gravity: 85.676 m/s<sup>2</sup><br />(8.737 g<sub>0</sub>)
         escape_velocity: 122.210 km/s<br />(439,958 km/h)
         rotation_period: 33.074 d
         axial_tilt: 15.84°
         albedo: 0.30
-        temperature: 1217 K<br />(944 °C)
+        temperature: 358 K<br />(85 °C)
       - name: 5291 Anilliad I f
+        type: Ice/rock hybrid
+        formationType: Accreted
+        aphelion: 21,739,304 km<br />
+        perihelion: 17,380,738 km<br />
+        semi_major_axis: 19,560,021 km<br />
+        eccentricity: 0.111
+        orbital_period: 0.01 d<br />
+        inclination: 2.64°
+        radius: 15,539.7 km<br/>(2.439 Yrths)
+        surface_area: 3.035 × 10<sup>09</sup> km<sup>2</sup><br/>(5.949 Yrths)
+        volume: 1.572 × 10<sup>13</sup> km<sup>3</sup><br/>(14.511 Yrths)
+        mass: 3.623 × 10<sup>25</sup> kg<br />(6.067 Yrths)
+        density: 2.305 g/cm<sup>3</sup>
+        surface_gravity: 10.000 m/s<sup>2</sup><br />(1.020 g<sub>0</sub>)
+        escape_velocity: 17.641 km/s<br />(63,509 km/h)
+        rotation_period: 48.713 d
+        axial_tilt: 23.27°
+        albedo: 0.30
+        temperature: 358 K<br />(85 °C)
+      - name: 5291 Anilliad I g
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 23,690,515 km<br />
@@ -158,15 +178,15 @@ planets:
         radius: 83,925.8 km<br/>(13.173 Yrths)
         surface_area: 8.851 × 10<sup>10</sup> km<sup>2</sup><br/>(173.531 Yrths)
         volume: 2.476 × 10<sup>15</sup> km<sup>3</sup><br/>(2285.935 Yrths)
-        mass: 6.000 × 10<sup>27</sup> kg<br />(87.11532550636147 Yrths)
+        mass: 6.000 × 10<sup>27</sup> kg<br />(1004.612 Yrths)
         density: 2.423 g/cm<sup>3</sup>
         surface_gravity: 56.773 m/s<sup>2</sup><br />(5.789 g<sub>0</sub>)
         escape_velocity: 97.685 km/s<br />(351,667 km/h)
         rotation_period: 47.097 d
         axial_tilt: 9.51°
         albedo: 0.30
-        temperature: 959 K<br />(686 °C)
-      - name: 5291 Anilliad I g
+        temperature: 358 K<br />(85 °C)
+      - name: 5291 Anilliad I h
         type: Icy
         formationType: Captured
         aphelion: 49,814,609 km<br />
@@ -178,15 +198,15 @@ planets:
         radius: 99,578.6 km<br/>(15.630 Yrths)
         surface_area: 1.246 × 10<sup>11</sup> km<sup>2</sup><br/>(244.296 Yrths)
         volume: 4.136 × 10<sup>15</sup> km<sup>3</sup><br/>(3818.350 Yrths)
-        mass: 7.687 × 10<sup>27</sup> kg<br />(87.11532550636147 Yrths)
+        mass: 7.687 × 10<sup>27</sup> kg<br />(1287.167 Yrths)
         density: 1.859 g/cm<sup>3</sup>
         surface_gravity: 51.670 m/s<sup>2</sup><br />(5.269 g<sub>0</sub>)
         escape_velocity: 101.511 km/s<br />(365,439 km/h)
         rotation_period: 51.697 d
         axial_tilt: 26.89°
         albedo: 0.30
-        temperature: 687 K<br />(414 °C)
-      - name: 5291 Anilliad I h
+        temperature: 358 K<br />(85 °C)
+      - name: 5291 Anilliad I i
         type: Rocky
         formationType: Captured
         aphelion: 59,054,407 km<br />
@@ -198,15 +218,15 @@ planets:
         radius: 67,563.8 km<br/>(10.605 Yrths)
         surface_area: 5.736 × 10<sup>10</sup> km<sup>2</sup><br/>(112.464 Yrths)
         volume: 1.292 × 10<sup>15</sup> km<sup>3</sup><br/>(1192.668 Yrths)
-        mass: 4.249 × 10<sup>27</sup> kg<br />(87.11532550636147 Yrths)
+        mass: 4.249 × 10<sup>27</sup> kg<br />(711.529 Yrths)
         density: 3.289 g/cm<sup>3</sup>
         surface_gravity: 62.044 m/s<sup>2</sup><br />(6.327 g<sub>0</sub>)
         escape_velocity: 91.626 km/s<br />(329,852 km/h)
         rotation_period: 37.589 d
         axial_tilt: 10.53°
         albedo: 0.30
-        temperature: 624 K<br />(351 °C)
-      - name: 5291 Anilliad I i
+        temperature: 358 K<br />(85 °C)
+      - name: 5291 Anilliad I j
         type: Ice/rock hybrid
         formationType: Accreted
         aphelion: 65,225,726 km<br />
@@ -218,14 +238,14 @@ planets:
         radius: 81,073.1 km<br/>(12.725 Yrths)
         surface_area: 8.260 × 10<sup>10</sup> km<sup>2</sup><br/>(161.934 Yrths)
         volume: 2.232 × 10<sup>15</sup> km<sup>3</sup><br/>(2060.665 Yrths)
-        mass: 4.355 × 10<sup>27</sup> kg<br />(87.11532550636147 Yrths)
+        mass: 4.355 × 10<sup>27</sup> kg<br />(729.198 Yrths)
         density: 1.951 g/cm<sup>3</sup>
         surface_gravity: 44.160 m/s<sup>2</sup><br />(4.503 g<sub>0</sub>)
         escape_velocity: 84.676 km/s<br />(304,835 km/h)
         rotation_period: 38.370 d
         axial_tilt: 13.20°
         albedo: 0.30
-        temperature: 595 K<br />(322 °C)
+        temperature: 358 K<br />(85 °C)
   - name: 5291 Anilliad II
     type: Large terrestrial
     aphelion: 322,692,986 km<br />2.157 AU
@@ -237,15 +257,15 @@ planets:
     radius: 12,119.9 km<br/>(1.902 Yrths)
     surface_area: 1.846 × 10<sup>09</sup> km<sup>2</sup><br/>(3.619 Yrths)
     volume: 7.457 × 10<sup>12</sup> km<sup>3</sup><br/>(6.884 Yrths)
-    mass: 4.779 × 10<sup>25</sup> kg<br />(8.002789342242709 Yrths)
+    mass: 4.779 × 10<sup>25</sup> kg<br />(8.00 Yrths)
     density: 6.409 g/cm<sup>3</sup>
     surface_gravity: 21.686 m/s<sup>2</sup><br />(2.211 g<sub>0</sub>)
     escape_velocity: 22.943 km/s<br />(82,595 km/h)
     rotation_period: 0.537 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 426 K<br />(153 °C)
-    surface_pressure: 4,592 kPa<br />(45 atm)
+    temperature: 586 K<br />(313 °C)
+    surface_pressure: 4,592 kPa<br />(46 atm)
     composition:
       - 76.0639% nitrogen
       - 17.9011% carbon dioxide
@@ -265,14 +285,14 @@ planets:
         radius: 9,213.2 km<br/>(1.446 Yrths)
         surface_area: 1.067 × 10<sup>09</sup> km<sup>2</sup><br/>(2.091 Yrths)
         volume: 3.276 × 10<sup>12</sup> km<sup>3</sup><br/>(3.024 Yrths)
-        mass: 1.023 × 10<sup>25</sup> kg<br />(8.002789342242709 Yrths)
+        mass: 1.023 × 10<sup>25</sup> kg<br />(1.713 Yrths)
         density: 3.123 g/cm<sup>3</sup>
         surface_gravity: 8.033 m/s<sup>2</sup><br />(0.819 g<sub>0</sub>)
         escape_velocity: 12.174 km/s<br />(43,827 km/h)
         rotation_period: 52.699 d
         axial_tilt: 9.01°
         albedo: 0.30
-        temperature: 3028 K<br />(2754 °C)
+        temperature: 266 K<br />(-7 °C)
       - name: 5291 Anilliad II b
         type: Rocky
         formationType: Impact formed
@@ -285,12 +305,12 @@ planets:
         radius: 7,484.9 km<br/>(1.175 Yrths)
         surface_area: 7.040 × 10<sup>08</sup> km<sup>2</sup><br/>(1.380 Yrths)
         volume: 1.756 × 10<sup>12</sup> km<sup>3</sup><br/>(1.622 Yrths)
-        mass: 5.083 × 10<sup>24</sup> kg<br />(8.002789342242709 Yrths)
+        mass: 5.083 × 10<sup>24</sup> kg<br />(0.851 Yrths)
         density: 2.894 g/cm<sup>3</sup>
         surface_gravity: 6.047 m/s<sup>2</sup><br />(0.617 g<sub>0</sub>)
         escape_velocity: 9.521 km/s<br />(34,275 km/h)
         rotation_period: 46.768 d
         axial_tilt: 13.96°
         albedo: 0.30
-        temperature: 2887 K<br />(2614 °C)
+        temperature: 266 K<br />(-7 °C)
 ---

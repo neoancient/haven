@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0034 Shanniashiad is a star in the constellation Shannias
+      0034 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 85.55 ly
 apparent_magnitude: 6.09
 absolute_magnitude: 3.99
@@ -31,14 +31,14 @@ planets:
     radius: 8,252.1 km<br/>(1.295 Yrths)
     surface_area: 8.557 × 10<sup>08</sup> km<sup>2</sup><br/>(1.678 Yrths)
     volume: 2.354 × 10<sup>12</sup> km<sup>3</sup><br/>(2.173 Yrths)
-    mass: 1.355 × 10<sup>25</sup> kg<br />(2.2696709375949773 Yrths)
+    mass: 1.355 × 10<sup>25</sup> kg<br />(2.27 Yrths)
     density: 5.758 g/cm<sup>3</sup>
     surface_gravity: 13.267 m/s<sup>2</sup><br />(1.353 g<sub>0</sub>)
     escape_velocity: 14.807 km/s<br />(53,307 km/h)
     rotation_period: 1.022 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 272 K<br />(-1 °C)
+    temperature: 266 K<br />(-7 °C)
     surface_pressure: 11 kPa<br />(0 atm)
     composition:
       - 92.4215% nitrogen
@@ -59,12 +59,12 @@ planets:
         radius: 5,557.2 km<br/>(0.872 Yrths)
         surface_area: 3.881 × 10<sup>08</sup> km<sup>2</sup><br/>(0.761 Yrths)
         volume: 7.189 × 10<sup>11</sup> km<sup>3</sup><br/>(0.664 Yrths)
-        mass: 9.884 × 10<sup>23</sup> kg<br />(2.2696709375949773 Yrths)
+        mass: 9.884 × 10<sup>23</sup> kg<br />(0.166 Yrths)
         density: 1.375 g/cm<sup>3</sup>
         surface_gravity: 2.133 m/s<sup>2</sup><br />(0.218 g<sub>0</sub>)
         escape_velocity: 4.873 km/s<br />(17,541 km/h)
         rotation_period: 56.206 d
         axial_tilt: 33.65°
         albedo: 0.30
-        temperature: 3905 K<br />(3632 °C)
+        temperature: 254 K<br />(-19 °C)
 ---

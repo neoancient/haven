@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0259 Niniunniad A is a star in the constellation Niniun
+      0259 Niniunniad A is a star in the constellation <a href="niniun.html">Niniun</a>
 distance: 379.98 ly
 apparent_magnitude: 6.49
 absolute_magnitude: 1.16

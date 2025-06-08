@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9365 Tanashad A is a star in the constellation Tanas
+      9365 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 444.58 ly
 apparent_magnitude: 9.05
 absolute_magnitude: 3.38

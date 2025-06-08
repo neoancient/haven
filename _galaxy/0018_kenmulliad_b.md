@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0018 Kenmulliad B is a star in the constellation Kenmul
+      0018 Kenmulliad B is a star in the constellation <a href="kenmul.html">Kenmul</a>
 distance: 213.38 ly
 apparent_magnitude: 10.37
 absolute_magnitude: 6.29

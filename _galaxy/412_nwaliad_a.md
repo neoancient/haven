@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      412 Nwaliad A is a star in the constellation Nwal
+      412 Nwaliad A is a star in the constellation <a href="nwal.html">Nwal</a>
 distance: 384.87 ly
 apparent_magnitude: 7.45
 absolute_magnitude: 2.09

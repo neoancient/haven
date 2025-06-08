@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10312 Arkothiad is a star in the constellation Arkoth
+      10312 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 229.69 ly
 apparent_magnitude: 10.66
 absolute_magnitude: 6.43

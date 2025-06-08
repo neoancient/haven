@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7260 Tanashad is a star in the constellation Tanas
+      7260 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 175.67 ly
 apparent_magnitude: 9.58
 absolute_magnitude: 5.92

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1960 Arkothiad is a star in the constellation Arkoth
+      1960 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 359.67 ly
 apparent_magnitude: 9.84
 absolute_magnitude: 4.63
@@ -31,7 +31,7 @@ planets:
     radius: 7,877.7 km<br/>(1.236 Yrths)
     surface_area: 7.798 × 10<sup>08</sup> km<sup>2</sup><br/>(1.529 Yrths)
     volume: 2.048 × 10<sup>12</sup> km<sup>3</sup><br/>(1.890 Yrths)
-    mass: 1.428 × 10<sup>25</sup> kg<br />(2.391648473901869 Yrths)
+    mass: 1.428 × 10<sup>25</sup> kg<br />(2.39 Yrths)
     density: 6.975 g/cm<sup>3</sup>
     surface_gravity: 15.340 m/s<sup>2</sup><br />(1.564 g<sub>0</sub>)
     escape_velocity: 15.557 km/s<br />(56,005 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 3,193.3 km<br/>(0.501 Yrths)
         surface_area: 1.281 × 10<sup>08</sup> km<sup>2</sup><br/>(0.251 Yrths)
         volume: 1.364 × 10<sup>11</sup> km<sup>3</sup><br/>(0.126 Yrths)
-        mass: 3.814 × 10<sup>23</sup> kg<br />(2.391648473901869 Yrths)
+        mass: 3.814 × 10<sup>23</sup> kg<br />(0.064 Yrths)
         density: 2.797 g/cm<sup>3</sup>
         surface_gravity: 2.493 m/s<sup>2</sup><br />(0.254 g<sub>0</sub>)
         escape_velocity: 3.993 km/s<br />(14,375 km/h)
         rotation_period: 38.931 d
         axial_tilt: 11.26°
         albedo: 0.30
-        temperature: 3060 K<br />(2787 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 1960 Arkothiad I b
         type: Rocky
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 5,081.3 km<br/>(0.798 Yrths)
         surface_area: 3.245 × 10<sup>08</sup> km<sup>2</sup><br/>(0.636 Yrths)
         volume: 5.496 × 10<sup>11</sup> km<sup>3</sup><br/>(0.507 Yrths)
-        mass: 1.866 × 10<sup>24</sup> kg<br />(2.391648473901869 Yrths)
+        mass: 1.866 × 10<sup>24</sup> kg<br />(0.313 Yrths)
         density: 3.396 g/cm<sup>3</sup>
         surface_gravity: 4.818 m/s<sup>2</sup><br />(0.491 g<sub>0</sub>)
         escape_velocity: 7.002 km/s<br />(25,208 km/h)
         rotation_period: 40.655 d
         axial_tilt: 21.36°
         albedo: 0.30
-        temperature: 2918 K<br />(2645 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 1960 Arkothiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -92,14 +92,14 @@ planets:
         radius: 4,715.9 km<br/>(0.740 Yrths)
         surface_area: 2.795 × 10<sup>08</sup> km<sup>2</sup><br/>(0.548 Yrths)
         volume: 4.393 × 10<sup>11</sup> km<sup>3</sup><br/>(0.406 Yrths)
-        mass: 1.003 × 10<sup>24</sup> kg<br />(2.391648473901869 Yrths)
+        mass: 1.003 × 10<sup>24</sup> kg<br />(0.168 Yrths)
         density: 2.283 g/cm<sup>3</sup>
         surface_gravity: 3.006 m/s<sup>2</sup><br />(0.307 g<sub>0</sub>)
         escape_velocity: 5.328 km/s<br />(19,181 km/h)
         rotation_period: 42.017 d
         axial_tilt: 19.78°
         albedo: 0.30
-        temperature: 2782 K<br />(2509 °C)
+        temperature: 240 K<br />(-33 °C)
   - name: 1960 Arkothiad II
     type: Large terrestrial
     aphelion: 350,800,381 km<br />2.345 AU
@@ -111,14 +111,14 @@ planets:
     radius: 11,146.3 km<br/>(1.750 Yrths)
     surface_area: 1.561 × 10<sup>09</sup> km<sup>2</sup><br/>(3.061 Yrths)
     volume: 5.801 × 10<sup>12</sup> km<sup>3</sup><br/>(5.355 Yrths)
-    mass: 3.523 × 10<sup>25</sup> kg<br />(5.89891880759072 Yrths)
+    mass: 3.523 × 10<sup>25</sup> kg<br />(5.90 Yrths)
     density: 6.073 g/cm<sup>3</sup>
     surface_gravity: 18.899 m/s<sup>2</sup><br />(1.927 g<sub>0</sub>)
     escape_velocity: 20.540 km/s<br />(73,944 km/h)
     rotation_period: 0.579 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 249 K<br />(-24 °C)
+    temperature: 313 K<br />(40 °C)
     surface_pressure: 611 kPa<br />(6 atm)
     composition:
       - 86.0308% ammonia
@@ -139,14 +139,14 @@ planets:
         radius: 4,888.3 km<br/>(0.767 Yrths)
         surface_area: 3.003 × 10<sup>08</sup> km<sup>2</sup><br/>(0.589 Yrths)
         volume: 4.893 × 10<sup>11</sup> km<sup>3</sup><br/>(0.452 Yrths)
-        mass: 1.467 × 10<sup>24</sup> kg<br />(5.89891880759072 Yrths)
+        mass: 1.467 × 10<sup>24</sup> kg<br />(0.246 Yrths)
         density: 2.997 g/cm<sup>3</sup>
         surface_gravity: 4.091 m/s<sup>2</sup><br />(0.417 g<sub>0</sub>)
         escape_velocity: 6.328 km/s<br />(22,782 km/h)
         rotation_period: 31.735 d
         axial_tilt: 24.00°
         albedo: 0.30
-        temperature: 2049 K<br />(1776 °C)
+        temperature: 177 K<br />(-96 °C)
       - name: 1960 Arkothiad II b
         type: Rocky
         formationType: Captured
@@ -159,14 +159,14 @@ planets:
         radius: 12,132.8 km<br/>(1.904 Yrths)
         surface_area: 1.850 × 10<sup>09</sup> km<sup>2</sup><br/>(3.627 Yrths)
         volume: 7.481 × 10<sup>12</sup> km<sup>3</sup><br/>(6.907 Yrths)
-        mass: 1.796 × 10<sup>25</sup> kg<br />(5.89891880759072 Yrths)
+        mass: 1.796 × 10<sup>25</sup> kg<br />(3.007 Yrths)
         density: 2.400 g/cm<sup>3</sup>
         surface_gravity: 8.130 m/s<sup>2</sup><br />(0.829 g<sub>0</sub>)
         escape_velocity: 14.055 km/s<br />(50,598 km/h)
         rotation_period: 56.477 d
         axial_tilt: 11.48°
         albedo: 0.30
-        temperature: 1954 K<br />(1681 °C)
+        temperature: 177 K<br />(-96 °C)
       - name: 1960 Arkothiad II c
         type: Icy
         formationType: Captured
@@ -179,14 +179,14 @@ planets:
         radius: 3,491.5 km<br/>(0.548 Yrths)
         surface_area: 1.532 × 10<sup>08</sup> km<sup>2</sup><br/>(0.300 Yrths)
         volume: 1.783 × 10<sup>11</sup> km<sup>3</sup><br/>(0.165 Yrths)
-        mass: 2.551 × 10<sup>23</sup> kg<br />(5.89891880759072 Yrths)
+        mass: 2.551 × 10<sup>23</sup> kg<br />(0.043 Yrths)
         density: 1.431 g/cm<sup>3</sup>
         surface_gravity: 1.395 m/s<sup>2</sup><br />(0.142 g<sub>0</sub>)
         escape_velocity: 3.123 km/s<br />(11,243 km/h)
         rotation_period: 49.485 d
         axial_tilt: 19.14°
         albedo: 0.30
-        temperature: 1863 K<br />(1590 °C)
+        temperature: 177 K<br />(-96 °C)
       - name: 1960 Arkothiad II d
         type: Asteroid
         formationType: Captured
@@ -199,14 +199,14 @@ planets:
         radius: 6,718.0 km<br/>(1.054 Yrths)
         surface_area: 5.671 × 10<sup>08</sup> km<sup>2</sup><br/>(1.112 Yrths)
         volume: 1.270 × 10<sup>12</sup> km<sup>3</sup><br/>(1.172 Yrths)
-        mass: 2.752 × 10<sup>24</sup> kg<br />(5.89891880759072 Yrths)
+        mass: 2.752 × 10<sup>24</sup> kg<br />(0.461 Yrths)
         density: 2.167 g/cm<sup>3</sup>
         surface_gravity: 4.064 m/s<sup>2</sup><br />(0.414 g<sub>0</sub>)
         escape_velocity: 7.394 km/s<br />(26,619 km/h)
         rotation_period: 41.689 d
         axial_tilt: 58.27°
         albedo: 0.30
-        temperature: 1776 K<br />(1503 °C)
+        temperature: 177 K<br />(-96 °C)
   - name: 1960 Arkothiad III
     type: Ice giant
     aphelion: 650,241,783 km<br />4.347 AU
@@ -218,14 +218,14 @@ planets:
     radius: 25,286.8 km<br/>(3.969 Yrths)
     surface_area: 8.035 × 10<sup>09</sup> km<sup>2</sup><br/>(15.753 Yrths)
     volume: 6.773 × 10<sup>13</sup> km<sup>3</sup><br/>(62.525 Yrths)
-    mass: 8.427 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+    mass: 8.427 × 10<sup>25</sup> kg<br />(14.11 Yrths)
     density: 1.244 g/cm<sup>3</sup>
     surface_gravity: 8.785 m/s<sup>2</sup><br />(0.896 g<sub>0</sub>)
     escape_velocity: 21.092 km/s<br />(75,932 km/h)
     rotation_period: 0.358 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 250 K<br />(-23 °C)
+    temperature: 228 K<br />(-45 °C)
     composition:
       - 69.9396% hydrogen
       - 27.8410% helium
@@ -243,14 +243,14 @@ planets:
         radius: 9,327.2 km<br/>(1.464 Yrths)
         surface_area: 1.093 × 10<sup>09</sup> km<sup>2</sup><br/>(2.143 Yrths)
         volume: 3.399 × 10<sup>12</sup> km<sup>3</sup><br/>(3.138 Yrths)
-        mass: 1.044 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 1.044 × 10<sup>25</sup> kg<br />(1.748 Yrths)
         density: 3.071 g/cm<sup>3</sup>
         surface_gravity: 7.997 m/s<sup>2</sup><br />(0.815 g<sub>0</sub>)
         escape_velocity: 12.222 km/s<br />(44,000 km/h)
         rotation_period: 39.974 d
         axial_tilt: 17.93°
         albedo: 0.30
-        temperature: 1244 K<br />(971 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III b
         type: Icy
         formationType: Accreted
@@ -263,14 +263,14 @@ planets:
         radius: 17,460.4 km<br/>(2.741 Yrths)
         surface_area: 3.831 × 10<sup>09</sup> km<sup>2</sup><br/>(7.511 Yrths)
         volume: 2.230 × 10<sup>13</sup> km<sup>3</sup><br/>(20.585 Yrths)
-        mass: 3.275 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 3.275 × 10<sup>25</sup> kg<br />(5.485 Yrths)
         density: 1.469 g/cm<sup>3</sup>
         surface_gravity: 7.161 m/s<sup>2</sup><br />(0.730 g<sub>0</sub>)
         escape_velocity: 15.824 km/s<br />(56,968 km/h)
         rotation_period: 47.836 d
         axial_tilt: 18.35°
         albedo: 0.30
-        temperature: 1186 K<br />(913 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III c
         type: Icy
         formationType: Accreted
@@ -283,14 +283,14 @@ planets:
         radius: 28,541.3 km<br/>(4.480 Yrths)
         surface_area: 1.024 × 10<sup>10</sup> km<sup>2</sup><br/>(20.069 Yrths)
         volume: 9.739 × 10<sup>13</sup> km<sup>3</sup><br/>(89.908 Yrths)
-        mass: 7.487 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 7.487 × 10<sup>25</sup> kg<br />(12.537 Yrths)
         density: 0.769 g/cm<sup>3</sup>
         surface_gravity: 6.126 m/s<sup>2</sup><br />(0.625 g<sub>0</sub>)
         escape_velocity: 18.713 km/s<br />(67,365 km/h)
         rotation_period: 61.586 d
         axial_tilt: 18.55°
         albedo: 0.30
-        temperature: 1131 K<br />(858 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III d
         type: Dwarf planet
         formationType: Impact formed
@@ -303,14 +303,14 @@ planets:
         radius: 12,993.4 km<br/>(2.039 Yrths)
         surface_area: 2.122 × 10<sup>09</sup> km<sup>2</sup><br/>(4.159 Yrths)
         volume: 9.189 × 10<sup>12</sup> km<sup>3</sup><br/>(8.483 Yrths)
-        mass: 1.760 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 1.760 × 10<sup>25</sup> kg<br />(2.948 Yrths)
         density: 1.916 g/cm<sup>3</sup>
         surface_gravity: 6.950 m/s<sup>2</sup><br />(0.709 g<sub>0</sub>)
         escape_velocity: 13.448 km/s<br />(48,413 km/h)
         rotation_period: 48.929 d
         axial_tilt: 28.08°
         albedo: 0.30
-        temperature: 1078 K<br />(805 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III e
         type: Icy
         formationType: Captured
@@ -323,14 +323,14 @@ planets:
         radius: 16,553.1 km<br/>(2.598 Yrths)
         surface_area: 3.443 × 10<sup>09</sup> km<sup>2</sup><br/>(6.751 Yrths)
         volume: 1.900 × 10<sup>13</sup> km<sup>3</sup><br/>(17.540 Yrths)
-        mass: 1.643 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 1.643 × 10<sup>25</sup> kg<br />(2.750 Yrths)
         density: 0.865 g/cm<sup>3</sup>
         surface_gravity: 3.996 m/s<sup>2</sup><br />(0.407 g<sub>0</sub>)
         escape_velocity: 11.509 km/s<br />(41,432 km/h)
         rotation_period: 93.200 d
         axial_tilt: 13.12°
         albedo: 0.30
-        temperature: 980 K<br />(707 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -343,14 +343,14 @@ planets:
         radius: 9,476.1 km<br/>(1.487 Yrths)
         surface_area: 1.128 × 10<sup>09</sup> km<sup>2</sup><br/>(2.212 Yrths)
         volume: 3.564 × 10<sup>12</sup> km<sup>3</sup><br/>(3.291 Yrths)
-        mass: 8.366 × 10<sup>24</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 8.366 × 10<sup>24</sup> kg<br />(1.401 Yrths)
         density: 2.347 g/cm<sup>3</sup>
         surface_gravity: 6.209 m/s<sup>2</sup><br />(0.633 g<sub>0</sub>)
         escape_velocity: 10.856 km/s<br />(39,080 km/h)
         rotation_period: 40.625 d
         axial_tilt: 14.06°
         albedo: 0.30
-        temperature: 891 K<br />(618 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -363,14 +363,14 @@ planets:
         radius: 33,458.9 km<br/>(5.252 Yrths)
         surface_area: 1.407 × 10<sup>10</sup> km<sup>2</sup><br/>(27.581 Yrths)
         volume: 1.569 × 10<sup>14</sup> km<sup>3</sup><br/>(144.848 Yrths)
-        mass: 3.165 × 10<sup>26</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 3.165 × 10<sup>26</sup> kg<br />(53.006 Yrths)
         density: 2.018 g/cm<sup>3</sup>
         surface_gravity: 18.847 m/s<sup>2</sup><br />(1.922 g<sub>0</sub>)
         escape_velocity: 35.537 km/s<br />(127,934 km/h)
         rotation_period: 56.060 d
         axial_tilt: 10.47°
         albedo: 0.30
-        temperature: 850 K<br />(576 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III h
         type: Icy
         formationType: Accreted
@@ -383,14 +383,14 @@ planets:
         radius: 22,771.2 km<br/>(3.574 Yrths)
         surface_area: 6.516 × 10<sup>09</sup> km<sup>2</sup><br/>(12.775 Yrths)
         volume: 4.946 × 10<sup>13</sup> km<sup>3</sup><br/>(45.660 Yrths)
-        mass: 4.531 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 4.531 × 10<sup>25</sup> kg<br />(7.587 Yrths)
         density: 0.916 g/cm<sup>3</sup>
         surface_gravity: 5.824 m/s<sup>2</sup><br />(0.594 g<sub>0</sub>)
         escape_velocity: 16.298 km/s<br />(58,672 km/h)
         rotation_period: 55.274 d
         axial_tilt: 19.87°
         albedo: 0.30
-        temperature: 810 K<br />(537 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -403,14 +403,14 @@ planets:
         radius: 10,590.9 km<br/>(1.662 Yrths)
         surface_area: 1.410 × 10<sup>09</sup> km<sup>2</sup><br/>(2.763 Yrths)
         volume: 4.976 × 10<sup>12</sup> km<sup>3</sup><br/>(4.594 Yrths)
-        mass: 1.203 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 1.203 × 10<sup>25</sup> kg<br />(2.015 Yrths)
         density: 2.418 g/cm<sup>3</sup>
         surface_gravity: 7.150 m/s<sup>2</sup><br />(0.729 g<sub>0</sub>)
         escape_velocity: 12.315 km/s<br />(44,334 km/h)
         rotation_period: 54.858 d
         axial_tilt: 12.51°
         albedo: 0.30
-        temperature: 772 K<br />(499 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III j
         type: Icy
         formationType: Captured
@@ -423,14 +423,14 @@ planets:
         radius: 25,444.6 km<br/>(3.994 Yrths)
         surface_area: 8.136 × 10<sup>09</sup> km<sup>2</sup><br/>(15.951 Yrths)
         volume: 6.900 × 10<sup>13</sup> km<sup>3</sup><br/>(63.704 Yrths)
-        mass: 8.183 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 8.183 × 10<sup>25</sup> kg<br />(13.703 Yrths)
         density: 1.186 g/cm<sup>3</sup>
         surface_gravity: 8.425 m/s<sup>2</sup><br />(0.859 g<sub>0</sub>)
         escape_velocity: 20.720 km/s<br />(74,591 km/h)
         rotation_period: 48.603 d
         axial_tilt: 22.61°
         albedo: 0.30
-        temperature: 736 K<br />(463 °C)
+        temperature: 131 K<br />(-142 °C)
       - name: 1960 Arkothiad III k
         type: Ice/rock hybrid
         formationType: Captured
@@ -443,12 +443,12 @@ planets:
         radius: 14,349.5 km<br/>(2.252 Yrths)
         surface_area: 2.588 × 10<sup>09</sup> km<sup>2</sup><br/>(5.073 Yrths)
         volume: 1.238 × 10<sup>13</sup> km<sup>3</sup><br/>(11.426 Yrths)
-        mass: 2.958 × 10<sup>25</sup> kg<br />(14.111668773526482 Yrths)
+        mass: 2.958 × 10<sup>25</sup> kg<br />(4.954 Yrths)
         density: 2.390 g/cm<sup>3</sup>
         surface_gravity: 9.576 m/s<sup>2</sup><br />(0.977 g<sub>0</sub>)
         escape_velocity: 16.589 km/s<br />(59,722 km/h)
         rotation_period: 37.159 d
         axial_tilt: 21.17°
         albedo: 0.30
-        temperature: 702 K<br />(429 °C)
+        temperature: 131 K<br />(-142 °C)
 ---

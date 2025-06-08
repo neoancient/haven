@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      353 Geardiad is a star in the constellation Geard
+      353 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 1179.88 ly
 apparent_magnitude: 17.22
 absolute_magnitude: 9.43

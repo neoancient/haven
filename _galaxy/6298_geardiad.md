@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6298 Geardiad is a star in the constellation Geard
+      6298 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 430.96 ly
 apparent_magnitude: 11.19
 absolute_magnitude: 5.58

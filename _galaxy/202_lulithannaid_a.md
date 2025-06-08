@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      202 Lulithannaid A is a star in the constellation Lulithan
+      202 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 303.24 ly
 apparent_magnitude: 8.32
 absolute_magnitude: 3.48

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8418 Arkothiad is a star in the constellation Arkoth
+      8418 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 350.85 ly
 apparent_magnitude: 11.58
 absolute_magnitude: 6.43

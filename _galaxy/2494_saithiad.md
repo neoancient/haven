@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2494 Saithiad is a star in the constellation Saith
+      2494 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 238.30 ly
 apparent_magnitude: 10.78
 absolute_magnitude: 6.46

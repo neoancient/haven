@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1710 Athiad A is a star in the constellation Ath
+      1710 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 539.05 ly
 apparent_magnitude: 6.79
 absolute_magnitude: 0.70

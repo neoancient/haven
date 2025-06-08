@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      8350 Tanashad A is a star in the constellation Tanas
+      8350 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 250.92 ly
 apparent_magnitude: 9.34
 absolute_magnitude: 4.91

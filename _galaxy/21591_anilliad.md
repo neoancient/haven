@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      21591 Anilliad is a star in the constellation Anil
+      21591 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 519.04 ly
 apparent_magnitude: 11.80
 absolute_magnitude: 5.79

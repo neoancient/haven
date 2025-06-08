@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9553 Dialkeshiad A is a star in the constellation Dialkes
+      9553 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 390.06 ly
 apparent_magnitude: 8.71
 absolute_magnitude: 3.32

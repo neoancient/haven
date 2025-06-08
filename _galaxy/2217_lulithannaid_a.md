@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2217 Lulithannaid A is a star in the constellation Lulithan
+      2217 Lulithannaid A is a star in the constellation <a href="lulithan.html">Lulithan</a>
 distance: 364.52 ly
 apparent_magnitude: 8.94
 absolute_magnitude: 3.70

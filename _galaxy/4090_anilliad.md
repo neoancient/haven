@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4090 Anilliad is a star in the constellation Anil
+      4090 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 476.01 ly
 apparent_magnitude: 7.74
 absolute_magnitude: 1.92
@@ -31,14 +31,14 @@ planets:
     radius: 21,511.2 km<br/>(3.376 Yrths)
     surface_area: 5.815 × 10<sup>09</sup> km<sup>2</sup><br/>(11.400 Yrths)
     volume: 4.170 × 10<sup>13</sup> km<sup>3</sup><br/>(38.492 Yrths)
-    mass: 9.386 × 10<sup>25</sup> kg<br />(15.715976959515498 Yrths)
+    mass: 9.386 × 10<sup>25</sup> kg<br />(15.72 Yrths)
     density: 2.251 g/cm<sup>3</sup>
     surface_gravity: 13.519 m/s<sup>2</sup><br />(1.379 g<sub>0</sub>)
     escape_velocity: 24.133 km/s<br />(86,880 km/h)
     rotation_period: 0.416 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 662 K<br />(389 °C)
+    temperature: 684 K<br />(410 °C)
     composition:
       - 57.9883% hydrogen
       - 35.0689% helium
@@ -58,14 +58,14 @@ planets:
         radius: 10,204.8 km<br/>(1.602 Yrths)
         surface_area: 1.309 × 10<sup>09</sup> km<sup>2</sup><br/>(2.566 Yrths)
         volume: 4.452 × 10<sup>12</sup> km<sup>3</sup><br/>(4.110 Yrths)
-        mass: 1.520 × 10<sup>25</sup> kg<br />(15.715976959515498 Yrths)
+        mass: 1.520 × 10<sup>25</sup> kg<br />(2.545 Yrths)
         density: 3.414 g/cm<sup>3</sup>
         surface_gravity: 9.726 m/s<sup>2</sup><br />(0.992 g<sub>0</sub>)
         escape_velocity: 14.099 km/s<br />(50,756 km/h)
         rotation_period: 32.996 d
         axial_tilt: 19.70°
         albedo: 0.30
-        temperature: 3955 K<br />(3681 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 4090 Anilliad I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 16,199.0 km<br/>(2.543 Yrths)
         surface_area: 3.298 × 10<sup>09</sup> km<sup>2</sup><br/>(6.465 Yrths)
         volume: 1.781 × 10<sup>13</sup> km<sup>3</sup><br/>(16.438 Yrths)
-        mass: 4.030 × 10<sup>25</sup> kg<br />(15.715976959515498 Yrths)
+        mass: 4.030 × 10<sup>25</sup> kg<br />(6.749 Yrths)
         density: 2.263 g/cm<sup>3</sup>
         surface_gravity: 10.237 m/s<sup>2</sup><br />(1.044 g<sub>0</sub>)
         escape_velocity: 18.224 km/s<br />(65,606 km/h)
         rotation_period: 47.265 d
         axial_tilt: 25.22°
         albedo: 0.30
-        temperature: 3771 K<br />(3497 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 4090 Anilliad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -98,14 +98,14 @@ planets:
         radius: 14,058.8 km<br/>(2.207 Yrths)
         surface_area: 2.484 × 10<sup>09</sup> km<sup>2</sup><br/>(4.869 Yrths)
         volume: 1.164 × 10<sup>13</sup> km<sup>3</sup><br/>(10.745 Yrths)
-        mass: 3.259 × 10<sup>25</sup> kg<br />(15.715976959515498 Yrths)
+        mass: 3.259 × 10<sup>25</sup> kg<br />(5.457 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 10.990 m/s<sup>2</sup><br />(1.121 g<sub>0</sub>)
         escape_velocity: 17.591 km/s<br />(63,327 km/h)
         rotation_period: 53.534 d
         axial_tilt: 20.39°
         albedo: 0.30
-        temperature: 3595 K<br />(3322 °C)
+        temperature: 394 K<br />(121 °C)
       - name: 4090 Anilliad I d
         type: Icy
         formationType: Impact formed
@@ -118,14 +118,14 @@ planets:
         radius: 26,158.2 km<br/>(4.106 Yrths)
         surface_area: 8.599 × 10<sup>09</sup> km<sup>2</sup><br/>(16.858 Yrths)
         volume: 7.497 × 10<sup>13</sup> km<sup>3</sup><br/>(69.215 Yrths)
-        mass: 1.002 × 10<sup>26</sup> kg<br />(15.715976959515498 Yrths)
+        mass: 1.002 × 10<sup>26</sup> kg<br />(16.783 Yrths)
         density: 1.337 g/cm<sup>3</sup>
         surface_gravity: 9.763 m/s<sup>2</sup><br />(0.996 g<sub>0</sub>)
         escape_velocity: 22.616 km/s<br />(81,417 km/h)
         rotation_period: 48.664 d
         axial_tilt: 15.04°
         albedo: 0.30
-        temperature: 3428 K<br />(3155 °C)
+        temperature: 394 K<br />(121 °C)
   - name: 4090 Anilliad II
     type: Gas giant
     aphelion: 498,317,708 km<br />3.331 AU
@@ -137,14 +137,14 @@ planets:
     radius: 232.3 km<br/>(0.036 Yrths)
     surface_area: 6.780 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 5.250 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.920 × 10<sup>27</sup> kg<br />(321.56032184451885 Yrths)
+    mass: 1.920 × 10<sup>27</sup> kg<br />(321.56 Yrths)
     density: 36579521.928 g/cm<sup>3</sup>
     surface_gravity: 2372254.401 m/s<sup>2</sup><br />(241902.627 g<sub>0</sub>)
     escape_velocity: 1050.509 km/s<br />(3,781,832 km/h)
     rotation_period: 0.234 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1172 K<br />(899 °C)
+    temperature: 1158 K<br />(885 °C)
     composition:
       - 51.4194% helium
       - 38.7400% hydrogen
@@ -165,14 +165,14 @@ planets:
         radius: 217,205.8 km<br/>(34.093 Yrths)
         surface_area: 5.929 × 10<sup>11</sup> km<sup>2</sup><br/>(1162.325 Yrths)
         volume: 4.292 × 10<sup>16</sup> km<sup>3</sup><br/>(39627.007 Yrths)
-        mass: 7.208 × 10<sup>28</sup> kg<br />(321.56032184451885 Yrths)
+        mass: 7.208 × 10<sup>28</sup> kg<br />(12069.064 Yrths)
         density: 1.679 g/cm<sup>3</sup>
         surface_gravity: 101.828 m/s<sup>2</sup><br />(10.384 g<sub>0</sub>)
         escape_velocity: 210.465 km/s<br />(757,672 km/h)
         rotation_period: 42.814 d
         axial_tilt: 8.75°
         albedo: 0.30
-        temperature: 654 K<br />(381 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 4090 Anilliad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -185,14 +185,14 @@ planets:
         radius: 229,878.9 km<br/>(36.082 Yrths)
         surface_area: 6.641 × 10<sup>11</sup> km<sup>2</sup><br/>(1301.917 Yrths)
         volume: 5.088 × 10<sup>16</sup> km<sup>3</sup><br/>(46975.859 Yrths)
-        mass: 1.205 × 10<sup>29</sup> kg<br />(321.56032184451885 Yrths)
+        mass: 1.205 × 10<sup>29</sup> kg<br />(20169.912 Yrths)
         density: 2.367 g/cm<sup>3</sup>
         surface_gravity: 151.929 m/s<sup>2</sup><br />(15.492 g<sub>0</sub>)
         escape_velocity: 264.472 km/s<br />(952,100 km/h)
         rotation_period: 43.176 d
         axial_tilt: 12.78°
         albedo: 0.30
-        temperature: 567 K<br />(294 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 4090 Anilliad II c
         type: Dwarf planet
         formationType: Impact formed
@@ -205,14 +205,14 @@ planets:
         radius: 343,402.5 km<br/>(53.901 Yrths)
         surface_area: 1.482 × 10<sup>12</sup> km<sup>2</sup><br/>(2905.304 Yrths)
         volume: 1.696 × 10<sup>17</sup> km<sup>3</sup><br/>(156598.434 Yrths)
-        mass: 3.411 × 10<sup>29</sup> kg<br />(321.56032184451885 Yrths)
+        mass: 3.411 × 10<sup>29</sup> kg<br />(57115.109 Yrths)
         density: 2.011 g/cm<sup>3</sup>
         surface_gravity: 192.788 m/s<sup>2</sup><br />(19.659 g<sub>0</sub>)
         escape_velocity: 364.126 km/s<br />(1,310,853 km/h)
         rotation_period: 35.747 d
         axial_tilt: 24.58°
         albedo: 0.30
-        temperature: 515 K<br />(242 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 4090 Anilliad II d
         type: Rocky
         formationType: Captured
@@ -225,14 +225,14 @@ planets:
         radius: 174,756.0 km<br/>(27.430 Yrths)
         surface_area: 3.838 × 10<sup>11</sup> km<sup>2</sup><br/>(752.400 Yrths)
         volume: 2.236 × 10<sup>16</sup> km<sup>3</sup><br/>(20638.273 Yrths)
-        mass: 6.760 × 10<sup>28</sup> kg<br />(321.56032184451885 Yrths)
+        mass: 6.760 × 10<sup>28</sup> kg<br />(11320.300 Yrths)
         density: 3.024 g/cm<sup>3</sup>
         surface_gravity: 147.547 m/s<sup>2</sup><br />(15.046 g<sub>0</sub>)
         escape_velocity: 227.243 km/s<br />(818,075 km/h)
         rotation_period: 35.451 d
         axial_tilt: 19.10°
         albedo: 0.30
-        temperature: 406 K<br />(133 °C)
+        temperature: 282 K<br />(9 °C)
       - name: 4090 Anilliad II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -245,14 +245,14 @@ planets:
         radius: 193,624.5 km<br/>(30.392 Yrths)
         surface_area: 4.711 × 10<sup>11</sup> km<sup>2</sup><br/>(923.645 Yrths)
         volume: 3.041 × 10<sup>16</sup> km<sup>3</sup><br/>(28071.000 Yrths)
-        mass: 5.248 × 10<sup>28</sup> kg<br />(321.56032184451885 Yrths)
+        mass: 5.248 × 10<sup>28</sup> kg<br />(8787.871 Yrths)
         density: 1.726 g/cm<sup>3</sup>
         surface_gravity: 93.304 m/s<sup>2</sup><br />(9.514 g<sub>0</sub>)
         escape_velocity: 190.213 km/s<br />(684,766 km/h)
         rotation_period: 64.763 d
         axial_tilt: 20.27°
         albedo: 0.30
-        temperature: 229 K<br />(-44 °C)
+        temperature: 282 K<br />(9 °C)
   - name: 4090 Anilliad III
     type: Gas dwarf
     aphelion: 969,879,965 km<br />6.483 AU
@@ -264,14 +264,14 @@ planets:
     radius: 20,700.9 km<br/>(3.249 Yrths)
     surface_area: 5.385 × 10<sup>09</sup> km<sup>2</sup><br/>(10.558 Yrths)
     volume: 3.716 × 10<sup>13</sup> km<sup>3</sup><br/>(34.304 Yrths)
-    mass: 9.560 × 10<sup>25</sup> kg<br />(16.007782251929452 Yrths)
+    mass: 9.560 × 10<sup>25</sup> kg<br />(16.01 Yrths)
     density: 2.573 g/cm<sup>3</sup>
     surface_gravity: 14.869 m/s<sup>2</sup><br />(1.516 g<sub>0</sub>)
     escape_velocity: 24.828 km/s<br />(89,382 km/h)
     rotation_period: 0.367 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 351 K<br />(78 °C)
+    temperature: 337 K<br />(64 °C)
     composition:
       - 59.7975% hydrogen
       - 25.1590% helium
@@ -293,14 +293,14 @@ planets:
         radius: 9,406.7 km<br/>(1.476 Yrths)
         surface_area: 1.112 × 10<sup>09</sup> km<sup>2</sup><br/>(2.180 Yrths)
         volume: 3.487 × 10<sup>12</sup> km<sup>3</sup><br/>(3.219 Yrths)
-        mass: 7.024 × 10<sup>24</sup> kg<br />(16.007782251929452 Yrths)
+        mass: 7.024 × 10<sup>24</sup> kg<br />(1.176 Yrths)
         density: 2.014 g/cm<sup>3</sup>
         surface_gravity: 5.291 m/s<sup>2</sup><br />(0.539 g<sub>0</sub>)
         escape_velocity: 9.983 km/s<br />(35,940 km/h)
         rotation_period: 64.309 d
         axial_tilt: 27.61°
         albedo: 0.30
-        temperature: 1926 K<br />(1653 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4090 Anilliad III b
         type: Asteroid
         formationType: Captured
@@ -313,14 +313,14 @@ planets:
         radius: 17,225.4 km<br/>(2.704 Yrths)
         surface_area: 3.729 × 10<sup>09</sup> km<sup>2</sup><br/>(7.310 Yrths)
         volume: 2.141 × 10<sup>13</sup> km<sup>3</sup><br/>(19.765 Yrths)
-        mass: 4.896 × 10<sup>25</sup> kg<br />(16.007782251929452 Yrths)
+        mass: 4.896 × 10<sup>25</sup> kg<br />(8.198 Yrths)
         density: 2.287 g/cm<sup>3</sup>
         surface_gravity: 10.997 m/s<sup>2</sup><br />(1.121 g<sub>0</sub>)
         escape_velocity: 19.478 km/s<br />(70,120 km/h)
         rotation_period: 59.019 d
         axial_tilt: 18.96°
         albedo: 0.30
-        temperature: 1837 K<br />(1564 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4090 Anilliad III c
         type: Icy
         formationType: Impact formed
@@ -333,14 +333,14 @@ planets:
         radius: 13,135.6 km<br/>(2.062 Yrths)
         surface_area: 2.168 × 10<sup>09</sup> km<sup>2</sup><br/>(4.251 Yrths)
         volume: 9.494 × 10<sup>12</sup> km<sup>3</sup><br/>(8.764 Yrths)
-        mass: 1.374 × 10<sup>25</sup> kg<br />(16.007782251929452 Yrths)
+        mass: 1.374 × 10<sup>25</sup> kg<br />(2.301 Yrths)
         density: 1.448 g/cm<sup>3</sup>
         surface_gravity: 5.309 m/s<sup>2</sup><br />(0.541 g<sub>0</sub>)
         escape_velocity: 11.818 km/s<br />(42,544 km/h)
         rotation_period: 43.876 d
         axial_tilt: 26.83°
         albedo: 0.30
-        temperature: 1751 K<br />(1478 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4090 Anilliad III d
         type: Ice/rock hybrid
         formationType: Captured
@@ -353,14 +353,14 @@ planets:
         radius: 17,598.4 km<br/>(2.762 Yrths)
         surface_area: 3.892 × 10<sup>09</sup> km<sup>2</sup><br/>(7.630 Yrths)
         volume: 2.283 × 10<sup>13</sup> km<sup>3</sup><br/>(21.076 Yrths)
-        mass: 3.729 × 10<sup>25</sup> kg<br />(16.007782251929452 Yrths)
+        mass: 3.729 × 10<sup>25</sup> kg<br />(6.244 Yrths)
         density: 1.633 g/cm<sup>3</sup>
         surface_gravity: 8.025 m/s<sup>2</sup><br />(0.818 g<sub>0</sub>)
         escape_velocity: 16.817 km/s<br />(60,542 km/h)
         rotation_period: 39.435 d
         axial_tilt: 25.68°
         albedo: 0.30
-        temperature: 1670 K<br />(1397 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4090 Anilliad III e
         type: Ice/rock hybrid
         formationType: Captured
@@ -373,14 +373,14 @@ planets:
         radius: 12,911.2 km<br/>(2.027 Yrths)
         surface_area: 2.095 × 10<sup>09</sup> km<sup>2</sup><br/>(4.107 Yrths)
         volume: 9.016 × 10<sup>12</sup> km<sup>3</sup><br/>(8.323 Yrths)
-        mass: 2.521 × 10<sup>25</sup> kg<br />(16.007782251929452 Yrths)
+        mass: 2.521 × 10<sup>25</sup> kg<br />(4.221 Yrths)
         density: 2.796 g/cm<sup>3</sup>
         surface_gravity: 10.079 m/s<sup>2</sup><br />(1.028 g<sub>0</sub>)
         escape_velocity: 16.144 km/s<br />(58,117 km/h)
         rotation_period: 44.595 d
         axial_tilt: 9.37°
         albedo: 0.30
-        temperature: 1592 K<br />(1319 °C)
+        temperature: 202 K<br />(-71 °C)
       - name: 4090 Anilliad III f
         type: Ice/rock hybrid
         formationType: Captured
@@ -393,12 +393,12 @@ planets:
         radius: 11,680.4 km<br/>(1.833 Yrths)
         surface_area: 1.714 × 10<sup>09</sup> km<sup>2</sup><br/>(3.361 Yrths)
         volume: 6.675 × 10<sup>12</sup> km<sup>3</sup><br/>(6.162 Yrths)
-        mass: 1.599 × 10<sup>25</sup> kg<br />(16.007782251929452 Yrths)
+        mass: 1.599 × 10<sup>25</sup> kg<br />(2.678 Yrths)
         density: 2.396 g/cm<sup>3</sup>
         surface_gravity: 7.812 m/s<sup>2</sup><br />(0.797 g<sub>0</sub>)
         escape_velocity: 13.519 km/s<br />(48,667 km/h)
         rotation_period: 38.005 d
         axial_tilt: 9.05°
         albedo: 0.30
-        temperature: 1518 K<br />(1245 °C)
+        temperature: 202 K<br />(-71 °C)
 ---

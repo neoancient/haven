@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Sheltha B is a star in the constellation Sheltua
+      Sheltha B is a star in the constellation <a href="sheltua.html">Sheltua</a>
 distance: 516.54 ly
 apparent_magnitude: 9.75
 absolute_magnitude: 3.75

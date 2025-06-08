@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      360 Lunaiad A is a star in the constellation Luna
+      360 Lunaiad A is a star in the constellation <a href="luna.html">Luna</a>
 distance: 704.99 ly
 apparent_magnitude: 6.91
 absolute_magnitude: 0.23

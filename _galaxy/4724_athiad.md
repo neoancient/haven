@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4724 Athiad is a star in the constellation Ath
+      4724 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 401.17 ly
 apparent_magnitude: 11.44
 absolute_magnitude: 5.99
@@ -31,14 +31,14 @@ planets:
     radius: 7,313.2 km<br/>(1.148 Yrths)
     surface_area: 6.721 × 10<sup>08</sup> km<sup>2</sup><br/>(1.318 Yrths)
     volume: 1.638 × 10<sup>12</sup> km<sup>3</sup><br/>(1.513 Yrths)
-    mass: 1.004 × 10<sup>25</sup> kg<br />(1.6814844530684685 Yrths)
+    mass: 1.004 × 10<sup>25</sup> kg<br />(1.68 Yrths)
     density: 6.129 g/cm<sup>3</sup>
     surface_gravity: 12.514 m/s<sup>2</sup><br />(1.276 g<sub>0</sub>)
     escape_velocity: 13.538 km/s<br />(48,738 km/h)
     rotation_period: 1.652 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 295 K<br />(22 °C)
+    temperature: 278 K<br />(5 °C)
     surface_pressure: 93 kPa<br />(1 atm)
     composition:
       - 86.0197% nitrogen
@@ -57,14 +57,14 @@ planets:
         radius: 5,120.2 km<br/>(0.804 Yrths)
         surface_area: 3.294 × 10<sup>08</sup> km<sup>2</sup><br/>(0.646 Yrths)
         volume: 5.623 × 10<sup>11</sup> km<sup>3</sup><br/>(0.519 Yrths)
-        mass: 1.453 × 10<sup>24</sup> kg<br />(1.6814844530684685 Yrths)
+        mass: 1.453 × 10<sup>24</sup> kg<br />(0.243 Yrths)
         density: 2.584 g/cm<sup>3</sup>
         surface_gravity: 3.694 m/s<sup>2</sup><br />(0.377 g<sub>0</sub>)
         escape_velocity: 6.154 km/s<br />(22,156 km/h)
         rotation_period: 48.754 d
         axial_tilt: 19.12°
         albedo: 0.30
-        temperature: 3279 K<br />(3006 °C)
+        temperature: 248 K<br />(-25 °C)
       - name: 4724 Athiad I b
         type: Asteroid
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 2,600.7 km<br/>(0.408 Yrths)
         surface_area: 8.499 × 10<sup>07</sup> km<sup>2</sup><br/>(0.167 Yrths)
         volume: 7.368 × 10<sup>10</sup> km<sup>3</sup><br/>(0.068 Yrths)
-        mass: 2.455 × 10<sup>23</sup> kg<br />(1.6814844530684685 Yrths)
+        mass: 2.455 × 10<sup>23</sup> kg<br />(0.041 Yrths)
         density: 3.332 g/cm<sup>3</sup>
         surface_gravity: 2.419 m/s<sup>2</sup><br />(0.247 g<sub>0</sub>)
         escape_velocity: 3.550 km/s<br />(12,778 km/h)
         rotation_period: 27.576 d
         axial_tilt: 32.74°
         albedo: 0.30
-        temperature: 3127 K<br />(2854 °C)
+        temperature: 248 K<br />(-25 °C)
   - name: 4724 Athiad II
     type: Ice giant
     aphelion: 296,646,213 km<br />1.983 AU
@@ -96,14 +96,14 @@ planets:
     radius: 34,602.3 km<br/>(5.431 Yrths)
     surface_area: 1.505 × 10<sup>10</sup> km<sup>2</sup><br/>(29.498 Yrths)
     volume: 1.735 × 10<sup>14</sup> km<sup>3</sup><br/>(160.211 Yrths)
-    mass: 2.445 × 10<sup>26</sup> kg<br />(40.93518103480249 Yrths)
+    mass: 2.445 × 10<sup>26</sup> kg<br />(40.94 Yrths)
     density: 1.409 g/cm<sup>3</sup>
     surface_gravity: 13.609 m/s<sup>2</sup><br />(1.388 g<sub>0</sub>)
     escape_velocity: 30.710 km/s<br />(110,554 km/h)
     rotation_period: 0.646 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 311 K<br />(38 °C)
+    temperature: 276 K<br />(3 °C)
     composition:
       - 86.5147% hydrogen
       - 13.4853% helium
@@ -120,14 +120,14 @@ planets:
         radius: 17,216.8 km<br/>(2.702 Yrths)
         surface_area: 3.725 × 10<sup>09</sup> km<sup>2</sup><br/>(7.303 Yrths)
         volume: 2.138 × 10<sup>13</sup> km<sup>3</sup><br/>(19.735 Yrths)
-        mass: 4.145 × 10<sup>25</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 4.145 × 10<sup>25</sup> kg<br />(6.941 Yrths)
         density: 1.939 g/cm<sup>3</sup>
         surface_gravity: 9.321 m/s<sup>2</sup><br />(0.950 g<sub>0</sub>)
         escape_velocity: 17.927 km/s<br />(64,537 km/h)
         rotation_period: 47.257 d
         axial_tilt: 7.73°
         albedo: 0.30
-        temperature: 1454 K<br />(1181 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -140,14 +140,14 @@ planets:
         radius: 17,988.2 km<br/>(2.823 Yrths)
         surface_area: 4.066 × 10<sup>09</sup> km<sup>2</sup><br/>(7.972 Yrths)
         volume: 2.438 × 10<sup>13</sup> km<sup>3</sup><br/>(22.508 Yrths)
-        mass: 5.115 × 10<sup>25</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 5.115 × 10<sup>25</sup> kg<br />(8.565 Yrths)
         density: 2.098 g/cm<sup>3</sup>
         surface_gravity: 10.536 m/s<sup>2</sup><br />(1.074 g<sub>0</sub>)
         escape_velocity: 19.483 km/s<br />(70,138 km/h)
         rotation_period: 40.327 d
         axial_tilt: 17.55°
         albedo: 0.30
-        temperature: 1386 K<br />(1113 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II c
         type: Icy
         formationType: Accreted
@@ -160,14 +160,14 @@ planets:
         radius: 36,959.6 km<br/>(5.801 Yrths)
         surface_area: 1.717 × 10<sup>10</sup> km<sup>2</sup><br/>(33.654 Yrths)
         volume: 2.115 × 10<sup>14</sup> km<sup>3</sup><br/>(195.235 Yrths)
-        mass: 2.859 × 10<sup>26</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 2.859 × 10<sup>26</sup> kg<br />(47.881 Yrths)
         density: 1.352 g/cm<sup>3</sup>
         surface_gravity: 13.952 m/s<sup>2</sup><br />(1.423 g<sub>0</sub>)
         escape_velocity: 32.136 km/s<br />(115,691 km/h)
         rotation_period: 66.863 d
         axial_tilt: 27.66°
         albedo: 0.30
-        temperature: 1322 K<br />(1049 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II d
         type: Icy
         formationType: Impact formed
@@ -180,14 +180,14 @@ planets:
         radius: 55,153.9 km<br/>(8.657 Yrths)
         surface_area: 3.823 × 10<sup>10</sup> km<sup>2</sup><br/>(74.944 Yrths)
         volume: 7.028 × 10<sup>14</sup> km<sup>3</sup><br/>(648.793 Yrths)
-        mass: 9.531 × 10<sup>26</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 9.531 × 10<sup>26</sup> kg<br />(159.589 Yrths)
         density: 1.356 g/cm<sup>3</sup>
         surface_gravity: 20.883 m/s<sup>2</sup><br />(2.129 g<sub>0</sub>)
         escape_velocity: 48.028 km/s<br />(172,899 km/h)
         rotation_period: 43.008 d
         axial_tilt: 16.57°
         albedo: 0.30
-        temperature: 1260 K<br />(987 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II e
         type: Rocky
         formationType: Accreted
@@ -200,14 +200,14 @@ planets:
         radius: 34,905.1 km<br/>(5.479 Yrths)
         surface_area: 1.531 × 10<sup>10</sup> km<sup>2</sup><br/>(30.017 Yrths)
         volume: 1.781 × 10<sup>14</sup> km<sup>3</sup><br/>(164.454 Yrths)
-        mass: 5.088 × 10<sup>26</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 5.088 × 10<sup>26</sup> kg<br />(85.204 Yrths)
         density: 2.856 g/cm<sup>3</sup>
         surface_gravity: 27.837 m/s<sup>2</sup><br />(2.839 g<sub>0</sub>)
         escape_velocity: 44.113 km/s<br />(158,806 km/h)
         rotation_period: 33.749 d
         axial_tilt: 22.06°
         albedo: 0.30
-        temperature: 1202 K<br />(929 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II f
         type: Asteroid
         formationType: Captured
@@ -220,14 +220,14 @@ planets:
         radius: 15,763.6 km<br/>(2.474 Yrths)
         surface_area: 3.123 × 10<sup>09</sup> km<sup>2</sup><br/>(6.122 Yrths)
         volume: 1.641 × 10<sup>13</sup> km<sup>3</sup><br/>(15.148 Yrths)
-        mass: 3.180 × 10<sup>25</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 3.180 × 10<sup>25</sup> kg<br />(5.325 Yrths)
         density: 1.938 g/cm<sup>3</sup>
         surface_gravity: 8.530 m/s<sup>2</sup><br />(0.870 g<sub>0</sub>)
         escape_velocity: 16.410 km/s<br />(59,076 km/h)
         rotation_period: 36.547 d
         axial_tilt: 14.23°
         albedo: 0.30
-        temperature: 1146 K<br />(873 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II g
         type: Icy
         formationType: Captured
@@ -240,14 +240,14 @@ planets:
         radius: 34,874.6 km<br/>(5.474 Yrths)
         surface_area: 1.528 × 10<sup>10</sup> km<sup>2</sup><br/>(29.964 Yrths)
         volume: 1.777 × 10<sup>14</sup> km<sup>3</sup><br/>(164.023 Yrths)
-        mass: 2.138 × 10<sup>26</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 2.138 × 10<sup>26</sup> kg<br />(35.805 Yrths)
         density: 1.204 g/cm<sup>3</sup>
         surface_gravity: 11.718 m/s<sup>2</sup><br />(1.195 g<sub>0</sub>)
         escape_velocity: 28.609 km/s<br />(102,991 km/h)
         rotation_period: 64.006 d
         axial_tilt: 14.31°
         albedo: 0.30
-        temperature: 1092 K<br />(819 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -260,14 +260,14 @@ planets:
         radius: 32,088.2 km<br/>(5.037 Yrths)
         surface_area: 1.294 × 10<sup>10</sup> km<sup>2</sup><br/>(25.367 Yrths)
         volume: 1.384 × 10<sup>14</sup> km<sup>3</sup><br/>(127.765 Yrths)
-        mass: 2.908 × 10<sup>26</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 2.908 × 10<sup>26</sup> kg<br />(48.689 Yrths)
         density: 2.101 g/cm<sup>3</sup>
         surface_gravity: 18.823 m/s<sup>2</sup><br />(1.919 g<sub>0</sub>)
         escape_velocity: 34.779 km/s<br />(125,206 km/h)
         rotation_period: 41.439 d
         axial_tilt: 16.26°
         albedo: 0.30
-        temperature: 1042 K<br />(768 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II i
         type: Dwarf planet
         formationType: Captured
@@ -280,14 +280,14 @@ planets:
         radius: 21,555.9 km<br/>(3.383 Yrths)
         surface_area: 5.839 × 10<sup>09</sup> km<sup>2</sup><br/>(11.448 Yrths)
         volume: 4.196 × 10<sup>13</sup> km<sup>3</sup><br/>(38.733 Yrths)
-        mass: 1.021 × 10<sup>26</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 1.021 × 10<sup>26</sup> kg<br />(17.094 Yrths)
         density: 2.433 g/cm<sup>3</sup>
         surface_gravity: 14.643 m/s<sup>2</sup><br />(1.493 g<sub>0</sub>)
         escape_velocity: 25.143 km/s<br />(90,514 km/h)
         rotation_period: 59.821 d
         axial_tilt: 27.07°
         albedo: 0.30
-        temperature: 993 K<br />(720 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II j
         type: Dwarf planet
         formationType: Impact formed
@@ -300,14 +300,14 @@ planets:
         radius: 23,445.7 km<br/>(3.680 Yrths)
         surface_area: 6.908 × 10<sup>09</sup> km<sup>2</sup><br/>(13.543 Yrths)
         volume: 5.399 × 10<sup>13</sup> km<sup>3</sup><br/>(49.839 Yrths)
-        mass: 1.193 × 10<sup>26</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 1.193 × 10<sup>26</sup> kg<br />(19.976 Yrths)
         density: 2.210 g/cm<sup>3</sup>
         surface_gravity: 14.465 m/s<sup>2</sup><br />(1.475 g<sub>0</sub>)
         escape_velocity: 26.061 km/s<br />(93,821 km/h)
         rotation_period: 46.750 d
         axial_tilt: 29.84°
         albedo: 0.30
-        temperature: 947 K<br />(674 °C)
+        temperature: 189 K<br />(-84 °C)
       - name: 4724 Athiad II k
         type: Dwarf planet
         formationType: Captured
@@ -320,12 +320,12 @@ planets:
         radius: 17,152.3 km<br/>(2.692 Yrths)
         surface_area: 3.697 × 10<sup>09</sup> km<sup>2</sup><br/>(7.248 Yrths)
         volume: 2.114 × 10<sup>13</sup> km<sup>3</sup><br/>(19.514 Yrths)
-        mass: 4.365 × 10<sup>25</sup> kg<br />(40.93518103480249 Yrths)
+        mass: 4.365 × 10<sup>25</sup> kg<br />(7.310 Yrths)
         density: 2.065 g/cm<sup>3</sup>
         surface_gravity: 9.890 m/s<sup>2</sup><br />(1.009 g<sub>0</sub>)
         escape_velocity: 18.432 km/s<br />(66,355 km/h)
         rotation_period: 52.898 d
         axial_tilt: 13.00°
         albedo: 0.30
-        temperature: 861 K<br />(588 °C)
+        temperature: 189 K<br />(-84 °C)
 ---

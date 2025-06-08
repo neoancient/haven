@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1079 Saithiad A is a star in the constellation Saith
+      1079 Saithiad A is a star in the constellation <a href="saith.html">Saith</a>
 distance: 926.24 ly
 apparent_magnitude: 6.54
 absolute_magnitude: -0.72

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      275 Erikkiad is a star in the constellation Erik
+      275 Erikkiad is a star in the constellation <a href="erik.html">Erik</a>
 distance: 1537.14 ly
 apparent_magnitude: 13.44
 absolute_magnitude: 5.08

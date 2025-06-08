@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6144 Dialkeshiad is a star in the constellation Dialkes
+      6144 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 408.15 ly
 apparent_magnitude: 12.63
 absolute_magnitude: 7.14

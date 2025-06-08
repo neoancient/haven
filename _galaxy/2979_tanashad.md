@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2979 Tanashad is a star in the constellation Tanas
+      2979 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 250.96 ly
 apparent_magnitude: 8.27
 absolute_magnitude: 3.84
@@ -31,14 +31,14 @@ planets:
     radius: 15,696.7 km<br/>(2.464 Yrths)
     surface_area: 3.096 × 10<sup>09</sup> km<sup>2</sup><br/>(6.070 Yrths)
     volume: 1.620 × 10<sup>13</sup> km<sup>3</sup><br/>(14.955 Yrths)
-    mass: 4.345 × 10<sup>25</sup> kg<br />(7.274946367713244 Yrths)
+    mass: 4.345 × 10<sup>25</sup> kg<br />(7.27 Yrths)
     density: 2.682 g/cm<sup>3</sup>
     surface_gravity: 11.753 m/s<sup>2</sup><br />(1.198 g<sub>0</sub>)
     escape_velocity: 19.222 km/s<br />(69,198 km/h)
     rotation_period: 0.468 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 524 K<br />(251 °C)
+    temperature: 467 K<br />(193 °C)
     composition:
       - 88.1181% hydrogen
       - 10.9145% helium
@@ -58,14 +58,14 @@ planets:
         radius: 15,424.3 km<br/>(2.421 Yrths)
         surface_area: 2.990 × 10<sup>09</sup> km<sup>2</sup><br/>(5.861 Yrths)
         volume: 1.537 × 10<sup>13</sup> km<sup>3</sup><br/>(14.190 Yrths)
-        mass: 1.557 × 10<sup>25</sup> kg<br />(7.274946367713244 Yrths)
+        mass: 1.557 × 10<sup>25</sup> kg<br />(2.606 Yrths)
         density: 1.013 g/cm<sup>3</sup>
         surface_gravity: 4.361 m/s<sup>2</sup><br />(0.445 g<sub>0</sub>)
         escape_velocity: 11.606 km/s<br />(41,783 km/h)
         rotation_period: 82.104 d
         axial_tilt: 22.69°
         albedo: 0.30
-        temperature: 3590 K<br />(3317 °C)
+        temperature: 333 K<br />(60 °C)
       - name: 2979 Tanashad I b
         type: Icy
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 12,093.9 km<br/>(1.898 Yrths)
         surface_area: 1.838 × 10<sup>09</sup> km<sup>2</sup><br/>(3.603 Yrths)
         volume: 7.409 × 10<sup>12</sup> km<sup>3</sup><br/>(6.840 Yrths)
-        mass: 1.164 × 10<sup>25</sup> kg<br />(7.274946367713244 Yrths)
+        mass: 1.164 × 10<sup>25</sup> kg<br />(1.949 Yrths)
         density: 1.571 g/cm<sup>3</sup>
         surface_gravity: 5.304 m/s<sup>2</sup><br />(0.541 g<sub>0</sub>)
         escape_velocity: 11.335 km/s<br />(40,805 km/h)
         rotation_period: 43.610 d
         axial_tilt: 17.48°
         albedo: 0.30
-        temperature: 3423 K<br />(3150 °C)
+        temperature: 333 K<br />(60 °C)
       - name: 2979 Tanashad I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -98,14 +98,14 @@ planets:
         radius: 5,741.7 km<br/>(0.901 Yrths)
         surface_area: 4.143 × 10<sup>08</sup> km<sup>2</sup><br/>(0.812 Yrths)
         volume: 7.929 × 10<sup>11</sup> km<sup>3</sup><br/>(0.732 Yrths)
-        mass: 2.220 × 10<sup>24</sup> kg<br />(7.274946367713244 Yrths)
+        mass: 2.220 × 10<sup>24</sup> kg<br />(0.372 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 4.489 m/s<sup>2</sup><br />(0.458 g<sub>0</sub>)
         escape_velocity: 7.184 km/s<br />(25,863 km/h)
         rotation_period: 44.505 d
         axial_tilt: 23.10°
         albedo: 0.30
-        temperature: 3263 K<br />(2990 °C)
+        temperature: 333 K<br />(60 °C)
       - name: 2979 Tanashad I d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -118,14 +118,14 @@ planets:
         radius: 6,855.5 km<br/>(1.076 Yrths)
         surface_area: 5.906 × 10<sup>08</sup> km<sup>2</sup><br/>(1.158 Yrths)
         volume: 1.350 × 10<sup>12</sup> km<sup>3</sup><br/>(1.246 Yrths)
-        mass: 3.212 × 10<sup>24</sup> kg<br />(7.274946367713244 Yrths)
+        mass: 3.212 × 10<sup>24</sup> kg<br />(0.538 Yrths)
         density: 2.380 g/cm<sup>3</sup>
         surface_gravity: 4.555 m/s<sup>2</sup><br />(0.465 g<sub>0</sub>)
         escape_velocity: 7.908 km/s<br />(28,470 km/h)
         rotation_period: 50.548 d
         axial_tilt: 29.19°
         albedo: 0.30
-        temperature: 2967 K<br />(2694 °C)
+        temperature: 333 K<br />(60 °C)
   - name: 2979 Tanashad II
     type: Terrestrial
     aphelion: 233,721,142 km<br />1.562 AU
@@ -137,14 +137,14 @@ planets:
     radius: 6,586.7 km<br/>(1.034 Yrths)
     surface_area: 5.452 × 10<sup>08</sup> km<sup>2</sup><br/>(1.069 Yrths)
     volume: 1.197 × 10<sup>12</sup> km<sup>3</sup><br/>(1.105 Yrths)
-    mass: 5.887 × 10<sup>24</sup> kg<br />(0.9857728696250961 Yrths)
+    mass: 5.887 × 10<sup>24</sup> kg<br />(0.99 Yrths)
     density: 4.918 g/cm<sup>3</sup>
     surface_gravity: 9.044 m/s<sup>2</sup><br />(0.922 g<sub>0</sub>)
     escape_velocity: 10.923 km/s<br />(39,322 km/h)
     rotation_period: 1.022 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 375 K<br />(102 °C)
+    temperature: 785 K<br />(512 °C)
     surface_pressure: 173 kPa<br />(2 atm)
     composition:
       - 52.3188% carbon dioxide
@@ -164,14 +164,14 @@ planets:
         radius: 2,429.8 km<br/>(0.381 Yrths)
         surface_area: 7.419 × 10<sup>07</sup> km<sup>2</sup><br/>(0.145 Yrths)
         volume: 6.009 × 10<sup>10</sup> km<sup>3</sup><br/>(0.055 Yrths)
-        mass: 1.633 × 10<sup>23</sup> kg<br />(0.9857728696250961 Yrths)
+        mass: 1.633 × 10<sup>23</sup> kg<br />(0.027 Yrths)
         density: 2.718 g/cm<sup>3</sup>
         surface_gravity: 1.844 m/s<sup>2</sup><br />(0.188 g<sub>0</sub>)
         escape_velocity: 2.996 km/s<br />(10,784 km/h)
         rotation_period: 49.548 d
         axial_tilt: 18.31°
         albedo: 0.30
-        temperature: 4506 K<br />(4233 °C)
+        temperature: 252 K<br />(-21 °C)
   - name: 2979 Tanashad III
     type: Large terrestrial
     aphelion: 428,270,704 km<br />2.863 AU
@@ -183,14 +183,14 @@ planets:
     radius: 8,572.5 km<br/>(1.346 Yrths)
     surface_area: 9.235 × 10<sup>08</sup> km<sup>2</sup><br/>(1.811 Yrths)
     volume: 2.639 × 10<sup>12</sup> km<sup>3</sup><br/>(2.436 Yrths)
-    mass: 1.667 × 10<sup>25</sup> kg<br />(2.7917824208919675 Yrths)
+    mass: 1.667 × 10<sup>25</sup> kg<br />(2.79 Yrths)
     density: 6.318 g/cm<sup>3</sup>
     surface_gravity: 15.122 m/s<sup>2</sup><br />(1.542 g<sub>0</sub>)
     escape_velocity: 16.113 km/s<br />(58,005 km/h)
     rotation_period: 0.661 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 295 K<br />(22 °C)
+    temperature: 401 K<br />(128 °C)
     surface_pressure: 2,214 kPa<br />(22 atm)
     composition:
       - 79.0861% ammonia
@@ -211,14 +211,14 @@ planets:
         radius: 3,548.5 km<br/>(0.557 Yrths)
         surface_area: 1.582 × 10<sup>08</sup> km<sup>2</sup><br/>(0.310 Yrths)
         volume: 1.872 × 10<sup>11</sup> km<sup>3</sup><br/>(0.173 Yrths)
-        mass: 5.436 × 10<sup>23</sup> kg<br />(2.7917824208919675 Yrths)
+        mass: 5.436 × 10<sup>23</sup> kg<br />(0.091 Yrths)
         density: 2.905 g/cm<sup>3</sup>
         surface_gravity: 2.878 m/s<sup>2</sup><br />(0.293 g<sub>0</sub>)
         escape_velocity: 4.522 km/s<br />(16,280 km/h)
         rotation_period: 29.257 d
         axial_tilt: 17.85°
         albedo: 0.30
-        temperature: 2586 K<br />(2313 °C)
+        temperature: 192 K<br />(-82 °C)
       - name: 2979 Tanashad III b
         type: Icy
         formationType: Captured
@@ -231,14 +231,14 @@ planets:
         radius: 10,599.8 km<br/>(1.664 Yrths)
         surface_area: 1.412 × 10<sup>09</sup> km<sup>2</sup><br/>(2.768 Yrths)
         volume: 4.989 × 10<sup>12</sup> km<sup>3</sup><br/>(4.605 Yrths)
-        mass: 4.251 × 10<sup>24</sup> kg<br />(2.7917824208919675 Yrths)
+        mass: 4.251 × 10<sup>24</sup> kg<br />(0.712 Yrths)
         density: 0.852 g/cm<sup>3</sup>
         surface_gravity: 2.522 m/s<sup>2</sup><br />(0.257 g<sub>0</sub>)
         escape_velocity: 7.316 km/s<br />(26,339 km/h)
         rotation_period: 61.682 d
         axial_tilt: 8.56°
         albedo: 0.30
-        temperature: 2466 K<br />(2193 °C)
+        temperature: 192 K<br />(-82 °C)
       - name: 2979 Tanashad III c
         type: Asteroid
         formationType: Captured
@@ -251,12 +251,12 @@ planets:
         radius: 2,132.6 km<br/>(0.335 Yrths)
         surface_area: 5.715 × 10<sup>07</sup> km<sup>2</sup><br/>(0.112 Yrths)
         volume: 4.063 × 10<sup>10</sup> km<sup>3</sup><br/>(0.038 Yrths)
-        mass: 1.364 × 10<sup>23</sup> kg<br />(2.7917824208919675 Yrths)
+        mass: 1.364 × 10<sup>23</sup> kg<br />(0.023 Yrths)
         density: 3.358 g/cm<sup>3</sup>
         surface_gravity: 1.999 m/s<sup>2</sup><br />(0.204 g<sub>0</sub>)
         escape_velocity: 2.922 km/s<br />(10,520 km/h)
         rotation_period: 34.407 d
         axial_tilt: 18.67°
         albedo: 0.30
-        temperature: 2351 K<br />(2078 °C)
+        temperature: 192 K<br />(-82 °C)
 ---

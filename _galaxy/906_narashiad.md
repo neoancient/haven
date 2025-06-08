@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      906 Narashiad is a star in the constellation Naras
+      906 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 396.83 ly
 apparent_magnitude: 13.09
 absolute_magnitude: 7.67

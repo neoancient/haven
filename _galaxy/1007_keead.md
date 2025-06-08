@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1007 Keead is a star in the constellation Kee
+      1007 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 389.68 ly
 apparent_magnitude: 10.97
 absolute_magnitude: 5.58

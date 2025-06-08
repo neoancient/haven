@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3410 Lunaiad is a star in the constellation Luna
+      3410 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 77.79 ly
 apparent_magnitude: 8.20
 absolute_magnitude: 6.31

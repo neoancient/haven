@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0044 Dialkeshiad B is a star in the constellation Dialkes
+      0044 Dialkeshiad B is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 216.48 ly
 apparent_magnitude: 6.80
 absolute_magnitude: 2.69

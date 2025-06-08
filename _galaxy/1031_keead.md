@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1031 Keead is a star in the constellation Kee
+      1031 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 209.26 ly
 apparent_magnitude: 8.53
 absolute_magnitude: 4.50

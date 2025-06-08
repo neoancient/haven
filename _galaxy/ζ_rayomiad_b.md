@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ζ Rayomiad B is a star in the constellation Rayom
+      ζ Rayomiad B is a star in the constellation <a href="rayom.html">Rayom</a>
 distance: 675.43 ly
 apparent_magnitude: 14.56
 absolute_magnitude: 7.98

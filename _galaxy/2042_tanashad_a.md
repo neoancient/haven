@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2042 Tanashad A is a star in the constellation Tanas
+      2042 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 191.61 ly
 apparent_magnitude: 9.02
 absolute_magnitude: 5.17

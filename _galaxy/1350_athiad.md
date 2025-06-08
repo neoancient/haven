@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1350 Athiad is a star in the constellation Ath
+      1350 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 453.65 ly
 apparent_magnitude: 18.24
 absolute_magnitude: 12.52

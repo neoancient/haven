@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2781 Anilliad is a star in the constellation Anil
+      2781 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 538.55 ly
 apparent_magnitude: 8.87
 absolute_magnitude: 2.78

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3574 Oniad A is a star in the constellation Oni
+      3574 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 199.43 ly
 apparent_magnitude: 9.20
 absolute_magnitude: 5.27

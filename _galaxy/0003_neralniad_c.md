@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0003 Neralniad C is a star in the constellation Neraln
+      0003 Neralniad C is a star in the constellation <a href="neraln.html">Neraln</a>
 distance: 1779.63 ly
 apparent_magnitude: 12.71
 absolute_magnitude: 4.02
@@ -31,14 +31,14 @@ planets:
     radius: 24,621.3 km<br/>(3.865 Yrths)
     surface_area: 7.618 × 10<sup>09</sup> km<sup>2</sup><br/>(14.935 Yrths)
     volume: 6.252 × 10<sup>13</sup> km<sup>3</sup><br/>(57.718 Yrths)
-    mass: 1.108 × 10<sup>26</sup> kg<br />(18.556115868643097 Yrths)
+    mass: 1.108 × 10<sup>26</sup> kg<br />(18.56 Yrths)
     density: 1.772 g/cm<sup>3</sup>
     surface_gravity: 12.184 m/s<sup>2</sup><br />(1.242 g<sub>0</sub>)
     escape_velocity: 24.511 km/s<br />(88,240 km/h)
     rotation_period: 0.433 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 293 K<br />(20 °C)
+    temperature: 267 K<br />(-6 °C)
     composition:
       - 63.2383% hydrogen
       - 24.2422% helium
@@ -57,14 +57,14 @@ planets:
         radius: 22,591.6 km<br/>(3.546 Yrths)
         surface_area: 6.414 × 10<sup>09</sup> km<sup>2</sup><br/>(12.574 Yrths)
         volume: 4.830 × 10<sup>13</sup> km<sup>3</sup><br/>(44.588 Yrths)
-        mass: 5.745 × 10<sup>25</sup> kg<br />(18.556115868643097 Yrths)
+        mass: 5.745 × 10<sup>25</sup> kg<br />(9.620 Yrths)
         density: 1.190 g/cm<sup>3</sup>
         surface_gravity: 7.503 m/s<sup>2</sup><br />(0.765 g<sub>0</sub>)
         escape_velocity: 18.425 km/s<br />(66,328 km/h)
         rotation_period: 77.933 d
         axial_tilt: 16.17°
         albedo: 0.30
-        temperature: 2272 K<br />(1999 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 0003 Neralniad C I b
         type: Icy
         formationType: Captured
@@ -77,14 +77,14 @@ planets:
         radius: 23,836.2 km<br/>(3.741 Yrths)
         surface_area: 7.140 × 10<sup>09</sup> km<sup>2</sup><br/>(13.998 Yrths)
         volume: 5.673 × 10<sup>13</sup> km<sup>3</sup><br/>(52.371 Yrths)
-        mass: 7.107 × 10<sup>25</sup> kg<br />(18.556115868643097 Yrths)
+        mass: 7.107 × 10<sup>25</sup> kg<br />(11.900 Yrths)
         density: 1.253 g/cm<sup>3</sup>
         surface_gravity: 8.337 m/s<sup>2</sup><br />(0.850 g<sub>0</sub>)
         escape_velocity: 19.950 km/s<br />(71,819 km/h)
         rotation_period: 46.694 d
         axial_tilt: 22.01°
         albedo: 0.30
-        temperature: 2166 K<br />(1893 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 0003 Neralniad C I c
         type: Icy
         formationType: Accreted
@@ -97,14 +97,14 @@ planets:
         radius: 23,786.5 km<br/>(3.734 Yrths)
         surface_area: 7.110 × 10<sup>09</sup> km<sup>2</sup><br/>(13.939 Yrths)
         volume: 5.637 × 10<sup>13</sup> km<sup>3</sup><br/>(52.044 Yrths)
-        mass: 7.178 × 10<sup>25</sup> kg<br />(18.556115868643097 Yrths)
+        mass: 7.178 × 10<sup>25</sup> kg<br />(12.019 Yrths)
         density: 1.273 g/cm<sup>3</sup>
         surface_gravity: 8.456 m/s<sup>2</sup><br />(0.862 g<sub>0</sub>)
         escape_velocity: 20.070 km/s<br />(72,253 km/h)
         rotation_period: 44.846 d
         axial_tilt: 15.52°
         albedo: 0.30
-        temperature: 2066 K<br />(1792 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 0003 Neralniad C I d
         type: Icy
         formationType: Impact formed
@@ -117,14 +117,14 @@ planets:
         radius: 31,917.7 km<br/>(5.010 Yrths)
         surface_area: 1.280 × 10<sup>10</sup> km<sup>2</sup><br/>(25.098 Yrths)
         volume: 1.362 × 10<sup>14</sup> km<sup>3</sup><br/>(125.739 Yrths)
-        mass: 2.153 × 10<sup>26</sup> kg<br />(18.556115868643097 Yrths)
+        mass: 2.153 × 10<sup>26</sup> kg<br />(36.054 Yrths)
         density: 1.581 g/cm<sup>3</sup>
         surface_gravity: 14.087 m/s<sup>2</sup><br />(1.437 g<sub>0</sub>)
         escape_velocity: 30.008 km/s<br />(108,030 km/h)
         rotation_period: 44.136 d
         axial_tilt: 10.85°
         albedo: 0.30
-        temperature: 1878 K<br />(1605 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 0003 Neralniad C I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -137,14 +137,14 @@ planets:
         radius: 11,813.8 km<br/>(1.854 Yrths)
         surface_area: 1.754 × 10<sup>09</sup> km<sup>2</sup><br/>(3.438 Yrths)
         volume: 6.906 × 10<sup>12</sup> km<sup>3</sup><br/>(6.376 Yrths)
-        mass: 1.393 × 10<sup>25</sup> kg<br />(18.556115868643097 Yrths)
+        mass: 1.393 × 10<sup>25</sup> kg<br />(2.333 Yrths)
         density: 2.017 g/cm<sup>3</sup>
         surface_gravity: 6.654 m/s<sup>2</sup><br />(0.678 g<sub>0</sub>)
         escape_velocity: 12.547 km/s<br />(45,168 km/h)
         rotation_period: 36.462 d
         axial_tilt: 32.42°
         albedo: 0.30
-        temperature: 1790 K<br />(1517 °C)
+        temperature: 222 K<br />(-51 °C)
       - name: 0003 Neralniad C I f
         type: Icy
         formationType: Impact formed
@@ -157,14 +157,14 @@ planets:
         radius: 15,302.5 km<br/>(2.402 Yrths)
         surface_area: 2.943 × 10<sup>09</sup> km<sup>2</sup><br/>(5.769 Yrths)
         volume: 1.501 × 10<sup>13</sup> km<sup>3</sup><br/>(13.857 Yrths)
-        mass: 1.832 × 10<sup>25</sup> kg<br />(18.556115868643097 Yrths)
+        mass: 1.832 × 10<sup>25</sup> kg<br />(3.067 Yrths)
         density: 1.220 g/cm<sup>3</sup>
         surface_gravity: 5.213 m/s<sup>2</sup><br />(0.532 g<sub>0</sub>)
         escape_velocity: 12.640 km/s<br />(45,503 km/h)
         rotation_period: 48.205 d
         axial_tilt: 15.33°
         albedo: 0.30
-        temperature: 1707 K<br />(1434 °C)
+        temperature: 222 K<br />(-51 °C)
   - name: 0003 Neralniad C II
     type: Ice giant
     aphelion: 775,805,877 km<br />5.186 AU
@@ -176,14 +176,14 @@ planets:
     radius: 29,142.0 km<br/>(4.574 Yrths)
     surface_area: 1.067 × 10<sup>10</sup> km<sup>2</sup><br/>(20.923 Yrths)
     volume: 1.037 × 10<sup>14</sup> km<sup>3</sup><br/>(95.706 Yrths)
-    mass: 1.377 × 10<sup>26</sup> kg<br />(23.06567685348604 Yrths)
+    mass: 1.377 × 10<sup>26</sup> kg<br />(23.07 Yrths)
     density: 1.329 g/cm<sup>3</sup>
     surface_gravity: 10.811 m/s<sup>2</sup><br />(1.102 g<sub>0</sub>)
     escape_velocity: 25.119 km/s<br />(90,428 km/h)
     rotation_period: 0.369 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 271 K<br />(-2 °C)
+    temperature: 242 K<br />(-32 °C)
     composition:
       - 79.0594% hydrogen
       - 20.9406% helium
@@ -200,14 +200,14 @@ planets:
         radius: 15,115.4 km<br/>(2.373 Yrths)
         surface_area: 2.871 × 10<sup>09</sup> km<sup>2</sup><br/>(5.629 Yrths)
         volume: 1.447 × 10<sup>13</sup> km<sup>3</sup><br/>(13.355 Yrths)
-        mass: 2.826 × 10<sup>25</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 2.826 × 10<sup>25</sup> kg<br />(4.732 Yrths)
         density: 1.953 g/cm<sup>3</sup>
         surface_gravity: 8.244 m/s<sup>2</sup><br />(0.841 g<sub>0</sub>)
         escape_velocity: 15.797 km/s<br />(56,871 km/h)
         rotation_period: 45.954 d
         axial_tilt: 23.19°
         albedo: 0.30
-        temperature: 1558 K<br />(1285 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0003 Neralniad C II b
         type: Icy
         formationType: Accreted
@@ -220,14 +220,14 @@ planets:
         radius: 30,487.4 km<br/>(4.785 Yrths)
         surface_area: 1.168 × 10<sup>10</sup> km<sup>2</sup><br/>(22.900 Yrths)
         volume: 1.187 × 10<sup>14</sup> km<sup>3</sup><br/>(109.582 Yrths)
-        mass: 1.831 × 10<sup>26</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 1.831 × 10<sup>26</sup> kg<br />(30.664 Yrths)
         density: 1.543 g/cm<sup>3</sup>
         surface_gravity: 13.132 m/s<sup>2</sup><br />(1.339 g<sub>0</sub>)
         escape_velocity: 28.316 km/s<br />(101,938 km/h)
         rotation_period: 66.202 d
         axial_tilt: 24.71°
         albedo: 0.30
-        temperature: 1486 K<br />(1212 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0003 Neralniad C II c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -240,14 +240,14 @@ planets:
         radius: 12,941.2 km<br/>(2.031 Yrths)
         surface_area: 2.105 × 10<sup>09</sup> km<sup>2</sup><br/>(4.126 Yrths)
         volume: 9.078 × 10<sup>12</sup> km<sup>3</sup><br/>(8.381 Yrths)
-        mass: 2.427 × 10<sup>25</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 2.427 × 10<sup>25</sup> kg<br />(4.064 Yrths)
         density: 2.673 g/cm<sup>3</sup>
         surface_gravity: 9.658 m/s<sup>2</sup><br />(0.985 g<sub>0</sub>)
         escape_velocity: 15.821 km/s<br />(56,957 km/h)
         rotation_period: 41.012 d
         axial_tilt: 28.80°
         albedo: 0.30
-        temperature: 1416 K<br />(1143 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0003 Neralniad C II d
         type: Icy
         formationType: Captured
@@ -260,14 +260,14 @@ planets:
         radius: 22,971.4 km<br/>(3.606 Yrths)
         surface_area: 6.631 × 10<sup>09</sup> km<sup>2</sup><br/>(13.000 Yrths)
         volume: 5.077 × 10<sup>13</sup> km<sup>3</sup><br/>(46.875 Yrths)
-        mass: 6.092 × 10<sup>25</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 6.092 × 10<sup>25</sup> kg<br />(10.200 Yrths)
         density: 1.200 g/cm<sup>3</sup>
         surface_gravity: 7.695 m/s<sup>2</sup><br />(0.785 g<sub>0</sub>)
         escape_velocity: 18.815 km/s<br />(67,732 km/h)
         rotation_period: 55.662 d
         axial_tilt: 23.39°
         albedo: 0.30
-        temperature: 1350 K<br />(1077 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0003 Neralniad C II e
         type: Icy
         formationType: Accreted
@@ -280,14 +280,14 @@ planets:
         radius: 17,849.7 km<br/>(2.802 Yrths)
         surface_area: 4.004 × 10<sup>09</sup> km<sup>2</sup><br/>(7.850 Yrths)
         volume: 2.382 × 10<sup>13</sup> km<sup>3</sup><br/>(21.992 Yrths)
-        mass: 2.033 × 10<sup>25</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 2.033 × 10<sup>25</sup> kg<br />(3.404 Yrths)
         density: 0.853 g/cm<sup>3</sup>
         surface_gravity: 4.253 m/s<sup>2</sup><br />(0.434 g<sub>0</sub>)
         escape_velocity: 12.330 km/s<br />(44,387 km/h)
         rotation_period: 72.046 d
         axial_tilt: 19.52°
         albedo: 0.30
-        temperature: 1288 K<br />(1014 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0003 Neralniad C II f
         type: Asteroid
         formationType: Captured
@@ -300,14 +300,14 @@ planets:
         radius: 16,993.0 km<br/>(2.667 Yrths)
         surface_area: 3.629 × 10<sup>09</sup> km<sup>2</sup><br/>(7.114 Yrths)
         volume: 2.055 × 10<sup>13</sup> km<sup>3</sup><br/>(18.975 Yrths)
-        mass: 4.895 × 10<sup>25</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 4.895 × 10<sup>25</sup> kg<br />(8.197 Yrths)
         density: 2.382 g/cm<sup>3</sup>
         surface_gravity: 11.299 m/s<sup>2</sup><br />(1.152 g<sub>0</sub>)
         escape_velocity: 19.609 km/s<br />(70,593 km/h)
         rotation_period: 55.926 d
         axial_tilt: 41.11°
         albedo: 0.30
-        temperature: 1228 K<br />(955 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0003 Neralniad C II g
         type: Icy
         formationType: Accreted
@@ -320,14 +320,14 @@ planets:
         radius: 19,134.2 km<br/>(3.003 Yrths)
         surface_area: 4.601 × 10<sup>09</sup> km<sup>2</sup><br/>(9.020 Yrths)
         volume: 2.934 × 10<sup>13</sup> km<sup>3</sup><br/>(27.090 Yrths)
-        mass: 4.307 × 10<sup>25</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 4.307 × 10<sup>25</sup> kg<br />(7.212 Yrths)
         density: 1.468 g/cm<sup>3</sup>
         surface_gravity: 7.841 m/s<sup>2</sup><br />(0.800 g<sub>0</sub>)
         escape_velocity: 17.335 km/s<br />(62,405 km/h)
         rotation_period: 62.298 d
         axial_tilt: 9.13°
         albedo: 0.30
-        temperature: 1116 K<br />(843 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0003 Neralniad C II h
         type: Ice/rock hybrid
         formationType: Accreted
@@ -340,14 +340,14 @@ planets:
         radius: 18,969.6 km<br/>(2.977 Yrths)
         surface_area: 4.522 × 10<sup>09</sup> km<sup>2</sup><br/>(8.865 Yrths)
         volume: 2.859 × 10<sup>13</sup> km<sup>3</sup><br/>(26.397 Yrths)
-        mass: 6.614 × 10<sup>25</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 6.614 × 10<sup>25</sup> kg<br />(11.075 Yrths)
         density: 2.313 g/cm<sup>3</sup>
         surface_gravity: 12.251 m/s<sup>2</sup><br />(1.249 g<sub>0</sub>)
         escape_velocity: 21.573 km/s<br />(77,664 km/h)
         rotation_period: 52.747 d
         axial_tilt: 20.10°
         albedo: 0.30
-        temperature: 1064 K<br />(791 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0003 Neralniad C II i
         type: Icy
         formationType: Accreted
@@ -360,14 +360,14 @@ planets:
         radius: 23,570.6 km<br/>(3.700 Yrths)
         surface_area: 6.982 × 10<sup>09</sup> km<sup>2</sup><br/>(13.688 Yrths)
         volume: 5.485 × 10<sup>13</sup> km<sup>3</sup><br/>(50.640 Yrths)
-        mass: 8.816 × 10<sup>25</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 8.816 × 10<sup>25</sup> kg<br />(14.763 Yrths)
         density: 1.607 g/cm<sup>3</sup>
         surface_gravity: 10.577 m/s<sup>2</sup><br />(1.079 g<sub>0</sub>)
         escape_velocity: 22.345 km/s<br />(80,441 km/h)
         rotation_period: 47.512 d
         axial_tilt: 19.07°
         albedo: 0.30
-        temperature: 1015 K<br />(741 °C)
+        temperature: 159 K<br />(-114 °C)
       - name: 0003 Neralniad C II j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -380,14 +380,14 @@ planets:
         radius: 18,890.8 km<br/>(2.965 Yrths)
         surface_area: 4.484 × 10<sup>09</sup> km<sup>2</sup><br/>(8.792 Yrths)
         volume: 2.824 × 10<sup>13</sup> km<sup>3</sup><br/>(26.069 Yrths)
-        mass: 7.025 × 10<sup>25</sup> kg<br />(23.06567685348604 Yrths)
+        mass: 7.025 × 10<sup>25</sup> kg<br />(11.763 Yrths)
         density: 2.488 g/cm<sup>3</sup>
         surface_gravity: 13.121 m/s<sup>2</sup><br />(1.338 g<sub>0</sub>)
         escape_velocity: 22.280 km/s<br />(80,208 km/h)
         rotation_period: 52.234 d
         axial_tilt: 13.42°
         albedo: 0.30
-        temperature: 967 K<br />(694 °C)
+        temperature: 159 K<br />(-114 °C)
   - name: 0003 Neralniad C III
     type: Large terrestrial
     aphelion: 1,556,706,834 km<br />10.406 AU
@@ -399,14 +399,14 @@ planets:
     radius: 13,001.8 km<br/>(2.041 Yrths)
     surface_area: 2.124 × 10<sup>09</sup> km<sup>2</sup><br/>(4.165 Yrths)
     volume: 9.207 × 10<sup>12</sup> km<sup>3</sup><br/>(8.499 Yrths)
-    mass: 5.707 × 10<sup>25</sup> kg<br />(9.556317491706892 Yrths)
+    mass: 5.707 × 10<sup>25</sup> kg<br />(9.56 Yrths)
     density: 6.199 g/cm<sup>3</sup>
     surface_gravity: 22.502 m/s<sup>2</sup><br />(2.295 g<sub>0</sub>)
     escape_velocity: 24.206 km/s<br />(87,141 km/h)
     rotation_period: 0.513 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 140 K<br />(-133 °C)
+    temperature: 192 K<br />(-81 °C)
     surface_pressure: 68 kPa<br />(1 atm)
     composition:
       - 88.3821% ammonia
@@ -424,14 +424,14 @@ planets:
         radius: 11,106.5 km<br/>(1.743 Yrths)
         surface_area: 1.550 × 10<sup>09</sup> km<sup>2</sup><br/>(3.039 Yrths)
         volume: 5.739 × 10<sup>12</sup> km<sup>3</sup><br/>(5.298 Yrths)
-        mass: 1.750 × 10<sup>25</sup> kg<br />(9.556317491706892 Yrths)
+        mass: 1.750 × 10<sup>25</sup> kg<br />(2.931 Yrths)
         density: 3.050 g/cm<sup>3</sup>
         surface_gravity: 9.457 m/s<sup>2</sup><br />(0.964 g<sub>0</sub>)
         escape_velocity: 14.503 km/s<br />(52,212 km/h)
         rotation_period: 43.751 d
         axial_tilt: 23.98°
         albedo: 0.30
-        temperature: 1374 K<br />(1101 °C)
+        temperature: 114 K<br />(-160 °C)
       - name: 0003 Neralniad C III b
         type: Rocky
         formationType: Impact formed
@@ -444,14 +444,14 @@ planets:
         radius: 9,713.7 km<br/>(1.525 Yrths)
         surface_area: 1.186 × 10<sup>09</sup> km<sup>2</sup><br/>(2.325 Yrths)
         volume: 3.839 × 10<sup>12</sup> km<sup>3</sup><br/>(3.544 Yrths)
-        mass: 1.338 × 10<sup>25</sup> kg<br />(9.556317491706892 Yrths)
+        mass: 1.338 × 10<sup>25</sup> kg<br />(2.240 Yrths)
         density: 3.485 g/cm<sup>3</sup>
         surface_gravity: 9.451 m/s<sup>2</sup><br />(0.964 g<sub>0</sub>)
         escape_velocity: 13.559 km/s<br />(48,813 km/h)
         rotation_period: 28.200 d
         axial_tilt: 8.05°
         albedo: 0.30
-        temperature: 1310 K<br />(1037 °C)
+        temperature: 114 K<br />(-160 °C)
       - name: 0003 Neralniad C III c
         type: Rocky
         formationType: Impact formed
@@ -464,12 +464,12 @@ planets:
         radius: 10,898.2 km<br/>(1.711 Yrths)
         surface_area: 1.493 × 10<sup>09</sup> km<sup>2</sup><br/>(2.926 Yrths)
         volume: 5.422 × 10<sup>12</sup> km<sup>3</sup><br/>(5.005 Yrths)
-        mass: 1.537 × 10<sup>25</sup> kg<br />(9.556317491706892 Yrths)
+        mass: 1.537 × 10<sup>25</sup> kg<br />(2.574 Yrths)
         density: 2.835 g/cm<sup>3</sup>
         surface_gravity: 8.627 m/s<sup>2</sup><br />(0.880 g<sub>0</sub>)
         escape_velocity: 13.722 km/s<br />(49,398 km/h)
         rotation_period: 40.189 d
         axial_tilt: 22.98°
         albedo: 0.30
-        temperature: 1249 K<br />(976 °C)
+        temperature: 114 K<br />(-160 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1314 Reggiad is a star in the constellation Reg
+      1314 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 376.07 ly
 apparent_magnitude: 17.83
 absolute_magnitude: 12.52

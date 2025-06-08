@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      687 Lunaiad is a star in the constellation Luna
+      687 Lunaiad is a star in the constellation <a href="luna.html">Luna</a>
 distance: 2051.81 ly
 apparent_magnitude: 10.61
 absolute_magnitude: 1.61

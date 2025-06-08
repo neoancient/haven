@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1552 Keead A is a star in the constellation Kee
+      1552 Keead A is a star in the constellation <a href="kee.html">Kee</a>
 distance: 366.56 ly
 apparent_magnitude: 7.36
 absolute_magnitude: 2.11

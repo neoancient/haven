@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5730 Narashiad is a star in the constellation Naras
+      5730 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 423.91 ly
 apparent_magnitude: 13.65
 absolute_magnitude: 8.09

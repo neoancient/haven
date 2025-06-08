@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3618 Anilliad A is a star in the constellation Anil
+      3618 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 421.20 ly
 apparent_magnitude: 8.29
 absolute_magnitude: 2.73

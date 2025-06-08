@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3920 Anilliad A is a star in the constellation Anil
+      3920 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 307.01 ly
 apparent_magnitude: 10.14
 absolute_magnitude: 5.27

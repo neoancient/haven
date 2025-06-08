@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0152 Atchianniad E is a star in the constellation Atchian
+      0152 Atchianniad E is a star in the constellation <a href="atchian.html">Atchian</a>
 distance: 330.33 ly
 apparent_magnitude: 12.10
 absolute_magnitude: 7.07

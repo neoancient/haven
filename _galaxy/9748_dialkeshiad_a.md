@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      9748 Dialkeshiad A is a star in the constellation Dialkes
+      9748 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 397.45 ly
 apparent_magnitude: 8.02
 absolute_magnitude: 2.59

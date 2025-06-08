@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0027 Saithiad B is a star in the constellation Saith
+      0027 Saithiad B is a star in the constellation <a href="saith.html">Saith</a>
 distance: 642.61 ly
 apparent_magnitude: 11.37
 absolute_magnitude: 4.90

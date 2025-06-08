@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      16038 Athiad A is a star in the constellation Ath
+      16038 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 539.98 ly
 apparent_magnitude: 8.53
 absolute_magnitude: 2.44

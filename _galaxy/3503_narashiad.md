@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3503 Narashiad is a star in the constellation Naras
+      3503 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 550.48 ly
 apparent_magnitude: 11.49
 absolute_magnitude: 5.35

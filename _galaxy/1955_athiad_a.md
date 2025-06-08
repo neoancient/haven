@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1955 Athiad A is a star in the constellation Ath
+      1955 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 497.23 ly
 apparent_magnitude: 8.08
 absolute_magnitude: 2.16

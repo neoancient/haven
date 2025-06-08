@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Renaldi A is a star in the constellation Geard
+      Renaldi A is a star in the constellation <a href="geard.html">Geard</a>
 distance: 370.41 ly
 apparent_magnitude: 2.74
 absolute_magnitude: -2.54

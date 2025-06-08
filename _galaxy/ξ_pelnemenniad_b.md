@@ -6,7 +6,7 @@ faction: Yrth Empire
 sections:
   - title:
     content: >-
-      ξ Pelnemenniad B is a star in the constellation Pelnemen
+      ξ Pelnemenniad B is a star in the constellation <a href="pelnemen.html">Pelnemen</a>
 distance: 138.01 ly
 apparent_magnitude: 8.72
 absolute_magnitude: 5.58

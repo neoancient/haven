@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1025 Shanniashiad A is a star in the constellation Shannias
+      1025 Shanniashiad A is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 795.19 ly
 apparent_magnitude: 6.76
 absolute_magnitude: -0.18

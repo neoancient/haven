@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4780 Tanashad is a star in the constellation Tanas
+      4780 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 205.76 ly
 apparent_magnitude: 9.74
 absolute_magnitude: 5.74

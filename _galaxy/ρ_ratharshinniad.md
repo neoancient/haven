@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ρ Ratharshinniad is a star in the constellation Ratharshin
+      ρ Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 1978.89 ly
 apparent_magnitude: 5.72
 absolute_magnitude: -3.19
@@ -31,14 +31,14 @@ planets:
     radius: 9,966.4 km<br/>(1.564 Yrths)
     surface_area: 1.248 × 10<sup>09</sup> km<sup>2</sup><br/>(2.447 Yrths)
     volume: 4.147 × 10<sup>12</sup> km<sup>3</sup><br/>(3.828 Yrths)
-    mass: 2.782 × 10<sup>25</sup> kg<br />(4.6584174874063935 Yrths)
+    mass: 2.782 × 10<sup>25</sup> kg<br />(4.66 Yrths)
     density: 6.709 g/cm<sup>3</sup>
     surface_gravity: 18.668 m/s<sup>2</sup><br />(1.904 g<sub>0</sub>)
     escape_velocity: 19.303 km/s<br />(69,491 km/h)
     rotation_period: 0.598 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 2317 K<br />(2044 °C)
+    temperature: 3333 K<br />(3060 °C)
     surface_pressure: 536 kPa<br />(5 atm)
     composition:
       - 74.0256% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 5,820.6 km<br/>(0.914 Yrths)
         surface_area: 4.257 × 10<sup>08</sup> km<sup>2</sup><br/>(0.835 Yrths)
         volume: 8.260 × 10<sup>11</sup> km<sup>3</sup><br/>(0.763 Yrths)
-        mass: 2.482 × 10<sup>24</sup> kg<br />(4.6584174874063935 Yrths)
+        mass: 2.482 × 10<sup>24</sup> kg<br />(0.416 Yrths)
         density: 3.005 g/cm<sup>3</sup>
         surface_gravity: 4.884 m/s<sup>2</sup><br />(0.498 g<sub>0</sub>)
         escape_velocity: 7.545 km/s<br />(27,163 km/h)
         rotation_period: 39.340 d
         axial_tilt: 23.02°
         albedo: 0.30
-        temperature: 24845 K<br />(24572 °C)
+        temperature: 1633 K<br />(1359 °C)
       - name: ρ Ratharshinniad I b
         type: Rocky
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 6,021.5 km<br/>(0.945 Yrths)
         surface_area: 4.556 × 10<sup>08</sup> km<sup>2</sup><br/>(0.893 Yrths)
         volume: 9.145 × 10<sup>11</sup> km<sup>3</sup><br/>(0.844 Yrths)
-        mass: 2.679 × 10<sup>24</sup> kg<br />(4.6584174874063935 Yrths)
+        mass: 2.679 × 10<sup>24</sup> kg<br />(0.449 Yrths)
         density: 2.929 g/cm<sup>3</sup>
         surface_gravity: 4.925 m/s<sup>2</sup><br />(0.502 g<sub>0</sub>)
         escape_velocity: 7.707 km/s<br />(27,744 km/h)
         rotation_period: 32.140 d
         axial_tilt: 22.44°
         albedo: 0.30
-        temperature: 23689 K<br />(23416 °C)
+        temperature: 1633 K<br />(1359 °C)
   - name: ρ Ratharshinniad II
     type: Terrestrial
     aphelion: 942,027,317 km<br />6.297 AU
@@ -97,14 +97,14 @@ planets:
     radius: 8,359.7 km<br/>(1.312 Yrths)
     surface_area: 8.782 × 10<sup>08</sup> km<sup>2</sup><br/>(1.722 Yrths)
     volume: 2.447 × 10<sup>12</sup> km<sup>3</sup><br/>(2.259 Yrths)
-    mass: 1.077 × 10<sup>25</sup> kg<br />(1.8028573592081134 Yrths)
+    mass: 1.077 × 10<sup>25</sup> kg<br />(1.80 Yrths)
     density: 4.400 g/cm<sup>3</sup>
     surface_gravity: 10.269 m/s<sup>2</sup><br />(1.047 g<sub>0</sub>)
     escape_velocity: 13.112 km/s<br />(47,203 km/h)
     rotation_period: 0.842 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 1293 K<br />(1020 °C)
+    temperature: 1701 K<br />(1428 °C)
     surface_pressure: 13 kPa<br />(0 atm)
     composition:
       - 79.7032% methane
@@ -123,12 +123,12 @@ planets:
         radius: 4,482.2 km<br/>(0.704 Yrths)
         surface_area: 2.525 × 10<sup>08</sup> km<sup>2</sup><br/>(0.495 Yrths)
         volume: 3.772 × 10<sup>11</sup> km<sup>3</sup><br/>(0.348 Yrths)
-        mass: 3.943 × 10<sup>23</sup> kg<br />(1.8028573592081134 Yrths)
+        mass: 3.943 × 10<sup>23</sup> kg<br />(0.066 Yrths)
         density: 1.045 g/cm<sup>3</sup>
         surface_gravity: 1.308 m/s<sup>2</sup><br />(0.133 g<sub>0</sub>)
         escape_velocity: 3.427 km/s<br />(12,337 km/h)
         rotation_period: 52.111 d
         axial_tilt: 15.37°
         albedo: 0.30
-        temperature: 20007 K<br />(19734 °C)
+        temperature: 1150 K<br />(877 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1105 Reggiad is a star in the constellation Reg
+      1105 Reggiad is a star in the constellation <a href="reg.html">Reg</a>
 distance: 371.22 ly
 apparent_magnitude: 11.48
 absolute_magnitude: 6.20

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1914 Narashiad is a star in the constellation Naras
+      1914 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 451.32 ly
 apparent_magnitude: 10.99
 absolute_magnitude: 5.29

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      846 Ratharshinniad is a star in the constellation Ratharshin
+      846 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 460.77 ly
 apparent_magnitude: 10.73
 absolute_magnitude: 4.98

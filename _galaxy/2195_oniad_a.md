@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2195 Oniad A is a star in the constellation Oni
+      2195 Oniad A is a star in the constellation <a href="oni.html">Oni</a>
 distance: 422.52 ly
 apparent_magnitude: 7.85
 absolute_magnitude: 2.29

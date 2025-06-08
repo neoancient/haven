@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2067 Arniad is a star in the constellation Arni
+      2067 Arniad is a star in the constellation <a href="arni.html">Arni</a>
 distance: 288.70 ly
 apparent_magnitude: 10.48
 absolute_magnitude: 5.74

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4859 Tanashad A is a star in the constellation Tanas
+      4859 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 442.75 ly
 apparent_magnitude: 6.87
 absolute_magnitude: 1.21

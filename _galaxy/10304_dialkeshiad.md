@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10304 Dialkeshiad is a star in the constellation Dialkes
+      10304 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 431.92 ly
 apparent_magnitude: 7.19
 absolute_magnitude: 1.58
@@ -31,14 +31,14 @@ planets:
     radius: 222.4 km<br/>(0.035 Yrths)
     surface_area: 6.215 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.607 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.608 × 10<sup>27</sup> kg<br />(269.3253023864958 Yrths)
+    mass: 1.608 × 10<sup>27</sup> kg<br />(269.33 Yrths)
     density: 34913950.431 g/cm<sup>3</sup>
     surface_gravity: 2167738.072 m/s<sup>2</sup><br />(221047.766 g<sub>0</sub>)
     escape_velocity: 982.573 km/s<br />(3,537,262 km/h)
     rotation_period: 0.238 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1688 K<br />(1415 °C)
+    temperature: 1744 K<br />(1471 °C)
     composition:
       - 76.7144% hydrogen
       - 19.3963% helium
@@ -58,14 +58,14 @@ planets:
         radius: 343,727.2 km<br/>(53.952 Yrths)
         surface_area: 1.485 × 10<sup>12</sup> km<sup>2</sup><br/>(2910.802 Yrths)
         volume: 1.701 × 10<sup>17</sup> km<sup>3</sup><br/>(157043.160 Yrths)
-        mass: 1.802 × 10<sup>29</sup> kg<br />(269.3253023864958 Yrths)
+        mass: 1.802 × 10<sup>29</sup> kg<br />(30174.414 Yrths)
         density: 1.059 g/cm<sup>3</sup>
         surface_gravity: 101.659 m/s<sup>2</sup><br />(10.366 g<sub>0</sub>)
         escape_velocity: 264.539 km/s<br />(952,341 km/h)
         rotation_period: 71.517 d
         axial_tilt: 8.78°
         albedo: 0.30
-        temperature: 1727 K<br />(1454 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 10304 Dialkeshiad I b
         type: Rocky
         formationType: Accreted
@@ -78,14 +78,14 @@ planets:
         radius: 168,430.5 km<br/>(26.437 Yrths)
         surface_area: 3.565 × 10<sup>11</sup> km<sup>2</sup><br/>(698.918 Yrths)
         volume: 2.001 × 10<sup>16</sup> km<sup>3</sup><br/>(18477.333 Yrths)
-        mass: 5.897 × 10<sup>28</sup> kg<br />(269.3253023864958 Yrths)
+        mass: 5.897 × 10<sup>28</sup> kg<br />(9873.746 Yrths)
         density: 2.946 g/cm<sup>3</sup>
         surface_gravity: 138.540 m/s<sup>2</sup><br />(14.127 g<sub>0</sub>)
         escape_velocity: 216.176 km/s<br />(778,235 km/h)
         rotation_period: 36.080 d
         axial_tilt: 14.41°
         albedo: 0.30
-        temperature: 1072 K<br />(799 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 10304 Dialkeshiad I c
         type: Rocky
         formationType: Captured
@@ -98,14 +98,14 @@ planets:
         radius: 151,201.1 km<br/>(23.733 Yrths)
         surface_area: 2.873 × 10<sup>11</sup> km<sup>2</sup><br/>(563.241 Yrths)
         volume: 1.448 × 10<sup>16</sup> km<sup>3</sup><br/>(13367.240 Yrths)
-        mass: 4.543 × 10<sup>28</sup> kg<br />(269.3253023864958 Yrths)
+        mass: 4.543 × 10<sup>28</sup> kg<br />(7606.733 Yrths)
         density: 3.137 g/cm<sup>3</sup>
         surface_gravity: 132.442 m/s<sup>2</sup><br />(13.505 g<sub>0</sub>)
         escape_velocity: 200.262 km/s<br />(720,945 km/h)
         rotation_period: 39.620 d
         axial_tilt: 12.12°
         albedo: 0.30
-        temperature: 929 K<br />(656 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 10304 Dialkeshiad I d
         type: Icy
         formationType: Captured
@@ -118,14 +118,14 @@ planets:
         radius: 228,470.9 km<br/>(35.861 Yrths)
         surface_area: 6.560 × 10<sup>11</sup> km<sup>2</sup><br/>(1286.017 Yrths)
         volume: 4.996 × 10<sup>16</sup> km<sup>3</sup><br/>(46117.966 Yrths)
-        mass: 6.934 × 10<sup>28</sup> kg<br />(269.3253023864958 Yrths)
+        mass: 6.934 × 10<sup>28</sup> kg<br />(11611.391 Yrths)
         density: 1.388 g/cm<sup>3</sup>
         surface_gravity: 88.544 m/s<sup>2</sup><br />(9.029 g<sub>0</sub>)
         escape_velocity: 201.282 km/s<br />(724,614 km/h)
         rotation_period: 44.967 d
         axial_tilt: 29.31°
         albedo: 0.30
-        temperature: 806 K<br />(532 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 10304 Dialkeshiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -138,14 +138,14 @@ planets:
         radius: 170,242.8 km<br/>(26.722 Yrths)
         surface_area: 3.642 × 10<sup>11</sup> km<sup>2</sup><br/>(714.040 Yrths)
         volume: 2.067 × 10<sup>16</sup> km<sup>3</sup><br/>(19080.229 Yrths)
-        mass: 5.607 × 10<sup>28</sup> kg<br />(269.3253023864958 Yrths)
+        mass: 5.607 × 10<sup>28</sup> kg<br />(9389.495 Yrths)
         density: 2.713 g/cm<sup>3</sup>
         surface_gravity: 128.956 m/s<sup>2</sup><br />(13.150 g<sub>0</sub>)
         escape_velocity: 209.684 km/s<br />(754,861 km/h)
         rotation_period: 41.228 d
         axial_tilt: 27.61°
         albedo: 0.30
-        temperature: 500 K<br />(227 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 10304 Dialkeshiad I f
         type: Icy
         formationType: Captured
@@ -158,14 +158,14 @@ planets:
         radius: 181,942.3 km<br/>(28.558 Yrths)
         surface_area: 4.160 × 10<sup>11</sup> km<sup>2</sup><br/>(815.553 Yrths)
         volume: 2.523 × 10<sup>16</sup> km<sup>3</sup><br/>(23290.488 Yrths)
-        mass: 4.338 × 10<sup>28</sup> kg<br />(269.3253023864958 Yrths)
+        mass: 4.338 × 10<sup>28</sup> kg<br />(7264.580 Yrths)
         density: 1.720 g/cm<sup>3</sup>
         surface_gravity: 87.353 m/s<sup>2</sup><br />(8.908 g<sub>0</sub>)
         escape_velocity: 178.409 km/s<br />(642,271 km/h)
         rotation_period: 54.513 d
         axial_tilt: 13.70°
         albedo: 0.30
-        temperature: 434 K<br />(160 °C)
+        temperature: 401 K<br />(128 °C)
       - name: 10304 Dialkeshiad I g
         type: Ice/rock hybrid
         formationType: Captured
@@ -178,14 +178,14 @@ planets:
         radius: 164,498.8 km<br/>(25.820 Yrths)
         surface_area: 3.400 × 10<sup>11</sup> km<sup>2</sup><br/>(666.669 Yrths)
         volume: 1.865 × 10<sup>16</sup> km<sup>3</sup><br/>(17213.354 Yrths)
-        mass: 4.483 × 10<sup>28</sup> kg<br />(269.3253023864958 Yrths)
+        mass: 4.483 × 10<sup>28</sup> kg<br />(7506.597 Yrths)
         density: 2.404 g/cm<sup>3</sup>
         surface_gravity: 110.421 m/s<sup>2</sup><br />(11.260 g<sub>0</sub>)
         escape_velocity: 190.730 km/s<br />(686,626 km/h)
         rotation_period: 48.194 d
         axial_tilt: 24.02°
         albedo: 0.30
-        temperature: 245 K<br />(-28 °C)
+        temperature: 401 K<br />(128 °C)
   - name: 10304 Dialkeshiad II
     type: Terrestrial
     aphelion: 581,811,625 km<br />3.889 AU
@@ -197,14 +197,14 @@ planets:
     radius: 4,901.9 km<br/>(0.769 Yrths)
     surface_area: 3.019 × 10<sup>08</sup> km<sup>2</sup><br/>(0.592 Yrths)
     volume: 4.934 × 10<sup>11</sup> km<sup>3</sup><br/>(0.455 Yrths)
-    mass: 2.366 × 10<sup>24</sup> kg<br />(0.3961689451683688 Yrths)
+    mass: 2.366 × 10<sup>24</sup> kg<br />(0.40 Yrths)
     density: 4.795 g/cm<sup>3</sup>
     surface_gravity: 6.563 m/s<sup>2</sup><br />(0.669 g<sub>0</sub>)
     escape_velocity: 8.027 km/s<br />(28,896 km/h)
     rotation_period: 1.338 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 332 K<br />(59 °C)
+    temperature: 458 K<br />(184 °C)
     surface_pressure: 23 kPa<br />(0 atm)
     composition:
       - 93.2315% methane
@@ -226,14 +226,14 @@ planets:
         radius: 1,756.3 km<br/>(0.276 Yrths)
         surface_area: 3.876 × 10<sup>07</sup> km<sup>2</sup><br/>(0.076 Yrths)
         volume: 2.269 × 10<sup>10</sup> km<sup>3</sup><br/>(0.021 Yrths)
-        mass: 5.713 × 10<sup>22</sup> kg<br />(0.3961689451683688 Yrths)
+        mass: 5.713 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.517 g/cm<sup>3</sup>
         surface_gravity: 1.234 m/s<sup>2</sup><br />(0.126 g<sub>0</sub>)
         escape_velocity: 2.084 km/s<br />(7,502 km/h)
         rotation_period: 39.389 d
         axial_tilt: 11.14°
         albedo: 0.30
-        temperature: 5597 K<br />(5324 °C)
+        temperature: 284 K<br />(11 °C)
   - name: 10304 Dialkeshiad III
     type: Ice giant
     aphelion: 1,181,127,768 km<br />7.895 AU
@@ -245,14 +245,14 @@ planets:
     radius: 31,902.0 km<br/>(5.007 Yrths)
     surface_area: 1.279 × 10<sup>10</sup> km<sup>2</sup><br/>(25.074 Yrths)
     volume: 1.360 × 10<sup>14</sup> km<sup>3</sup><br/>(125.554 Yrths)
-    mass: 2.038 × 10<sup>26</sup> kg<br />(34.13186315318126 Yrths)
+    mass: 2.038 × 10<sup>26</sup> kg<br />(34.13 Yrths)
     density: 1.499 g/cm<sup>3</sup>
     surface_gravity: 13.349 m/s<sup>2</sup><br />(1.361 g<sub>0</sub>)
     escape_velocity: 29.204 km/s<br />(105,136 km/h)
     rotation_period: 0.308 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 431 K<br />(158 °C)
+    temperature: 397 K<br />(124 °C)
     composition:
       - 71.9284% hydrogen
       - 25.7203% helium
@@ -272,14 +272,14 @@ planets:
         radius: 35,278.6 km<br/>(5.537 Yrths)
         surface_area: 1.564 × 10<sup>10</sup> km<sup>2</sup><br/>(30.662 Yrths)
         volume: 1.839 × 10<sup>14</sup> km<sup>3</sup><br/>(169.789 Yrths)
-        mass: 2.082 × 10<sup>26</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 2.082 × 10<sup>26</sup> kg<br />(34.855 Yrths)
         density: 1.132 g/cm<sup>3</sup>
         surface_gravity: 11.148 m/s<sup>2</sup><br />(1.137 g<sub>0</sub>)
         escape_velocity: 28.065 km/s<br />(101,032 km/h)
         rotation_period: 73.423 d
         axial_tilt: 22.09°
         albedo: 0.30
-        temperature: 1785 K<br />(1512 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III b
         type: Ice/rock hybrid
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 25,877.2 km<br/>(4.062 Yrths)
         surface_area: 8.415 × 10<sup>09</sup> km<sup>2</sup><br/>(16.498 Yrths)
         volume: 7.258 × 10<sup>13</sup> km<sup>3</sup><br/>(67.009 Yrths)
-        mass: 1.378 × 10<sup>26</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 1.378 × 10<sup>26</sup> kg<br />(23.072 Yrths)
         density: 1.898 g/cm<sup>3</sup>
         surface_gravity: 13.715 m/s<sup>2</sup><br />(1.399 g<sub>0</sub>)
         escape_velocity: 26.660 km/s<br />(95,976 km/h)
         rotation_period: 64.659 d
         axial_tilt: 18.53°
         albedo: 0.30
-        temperature: 1702 K<br />(1429 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -312,14 +312,14 @@ planets:
         radius: 22,131.2 km<br/>(3.474 Yrths)
         surface_area: 6.155 × 10<sup>09</sup> km<sup>2</sup><br/>(12.067 Yrths)
         volume: 4.540 × 10<sup>13</sup> km<sup>3</sup><br/>(41.917 Yrths)
-        mass: 9.117 × 10<sup>25</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 9.117 × 10<sup>25</sup> kg<br />(15.266 Yrths)
         density: 2.008 g/cm<sup>3</sup>
         surface_gravity: 12.406 m/s<sup>2</sup><br />(1.265 g<sub>0</sub>)
         escape_velocity: 23.449 km/s<br />(84,418 km/h)
         rotation_period: 41.492 d
         axial_tilt: 22.35°
         albedo: 0.30
-        temperature: 1623 K<br />(1350 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III d
         type: Icy
         formationType: Accreted
@@ -332,14 +332,14 @@ planets:
         radius: 60,307.6 km<br/>(9.466 Yrths)
         surface_area: 4.570 × 10<sup>10</sup> km<sup>2</sup><br/>(89.604 Yrths)
         volume: 9.188 × 10<sup>14</sup> km<sup>3</sup><br/>(848.189 Yrths)
-        mass: 9.368 × 10<sup>26</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 9.368 × 10<sup>26</sup> kg<br />(156.859 Yrths)
         density: 1.020 g/cm<sup>3</sup>
         surface_gravity: 17.167 m/s<sup>2</sup><br />(1.751 g<sub>0</sub>)
         escape_velocity: 45.535 km/s<br />(163,926 km/h)
         rotation_period: 58.986 d
         axial_tilt: 13.81°
         albedo: 0.30
-        temperature: 1547 K<br />(1274 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III e
         type: Icy
         formationType: Captured
@@ -352,14 +352,14 @@ planets:
         radius: 18,018.0 km<br/>(2.828 Yrths)
         surface_area: 4.080 × 10<sup>09</sup> km<sup>2</sup><br/>(7.998 Yrths)
         volume: 2.450 × 10<sup>13</sup> km<sup>3</sup><br/>(22.620 Yrths)
-        mass: 1.951 × 10<sup>25</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 1.951 × 10<sup>25</sup> kg<br />(3.267 Yrths)
         density: 0.796 g/cm<sup>3</sup>
         surface_gravity: 4.006 m/s<sup>2</sup><br />(0.408 g<sub>0</sub>)
         escape_velocity: 12.023 km/s<br />(43,283 km/h)
         rotation_period: 89.325 d
         axial_tilt: 9.64°
         albedo: 0.30
-        temperature: 1475 K<br />(1202 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III f
         type: Dwarf planet
         formationType: Accreted
@@ -372,14 +372,14 @@ planets:
         radius: 16,430.5 km<br/>(2.579 Yrths)
         surface_area: 3.392 × 10<sup>09</sup> km<sup>2</sup><br/>(6.651 Yrths)
         volume: 1.858 × 10<sup>13</sup> km<sup>3</sup><br/>(17.153 Yrths)
-        mass: 3.167 × 10<sup>25</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 3.167 × 10<sup>25</sup> kg<br />(5.302 Yrths)
         density: 1.704 g/cm<sup>3</sup>
         surface_gravity: 7.818 m/s<sup>2</sup><br />(0.797 g<sub>0</sub>)
         escape_velocity: 16.040 km/s<br />(57,742 km/h)
         rotation_period: 73.950 d
         axial_tilt: 18.63°
         albedo: 0.30
-        temperature: 1407 K<br />(1134 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -392,14 +392,14 @@ planets:
         radius: 23,881.4 km<br/>(3.748 Yrths)
         surface_area: 7.167 × 10<sup>09</sup> km<sup>2</sup><br/>(14.051 Yrths)
         volume: 5.705 × 10<sup>13</sup> km<sup>3</sup><br/>(52.669 Yrths)
-        mass: 1.114 × 10<sup>26</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 1.114 × 10<sup>26</sup> kg<br />(18.650 Yrths)
         density: 1.952 g/cm<sup>3</sup>
         surface_gravity: 13.016 m/s<sup>2</sup><br />(1.327 g<sub>0</sub>)
         escape_velocity: 24.951 km/s<br />(89,823 km/h)
         rotation_period: 55.507 d
         axial_tilt: 17.54°
         albedo: 0.30
-        temperature: 1341 K<br />(1068 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III h
         type: Icy
         formationType: Captured
@@ -412,14 +412,14 @@ planets:
         radius: 29,792.3 km<br/>(4.676 Yrths)
         surface_area: 1.115 × 10<sup>10</sup> km<sup>2</sup><br/>(21.867 Yrths)
         volume: 1.108 × 10<sup>14</sup> km<sup>3</sup><br/>(102.256 Yrths)
-        mass: 1.944 × 10<sup>26</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 1.944 × 10<sup>26</sup> kg<br />(32.560 Yrths)
         density: 1.755 g/cm<sup>3</sup>
         surface_gravity: 14.602 m/s<sup>2</sup><br />(1.489 g<sub>0</sub>)
         escape_velocity: 29.517 km/s<br />(106,260 km/h)
         rotation_period: 40.737 d
         axial_tilt: 11.66°
         albedo: 0.30
-        temperature: 1279 K<br />(1006 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -432,14 +432,14 @@ planets:
         radius: 22,889.2 km<br/>(3.593 Yrths)
         surface_area: 6.584 × 10<sup>09</sup> km<sup>2</sup><br/>(12.908 Yrths)
         volume: 5.023 × 10<sup>13</sup> km<sup>3</sup><br/>(46.374 Yrths)
-        mass: 1.252 × 10<sup>26</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 1.252 × 10<sup>26</sup> kg<br />(20.960 Yrths)
         density: 2.492 g/cm<sup>3</sup>
         surface_gravity: 15.925 m/s<sup>2</sup><br />(1.624 g<sub>0</sub>)
         escape_velocity: 27.018 km/s<br />(97,267 km/h)
         rotation_period: 39.043 d
         axial_tilt: 26.84°
         albedo: 0.30
-        temperature: 1163 K<br />(889 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -452,14 +452,14 @@ planets:
         radius: 26,974.0 km<br/>(4.234 Yrths)
         surface_area: 9.143 × 10<sup>09</sup> km<sup>2</sup><br/>(17.926 Yrths)
         volume: 8.221 × 10<sup>13</sup> km<sup>3</sup><br/>(75.895 Yrths)
-        mass: 2.076 × 10<sup>26</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 2.076 × 10<sup>26</sup> kg<br />(34.763 Yrths)
         density: 2.525 g/cm<sup>3</sup>
         surface_gravity: 19.018 m/s<sup>2</sup><br />(1.939 g<sub>0</sub>)
         escape_velocity: 32.053 km/s<br />(115,390 km/h)
         rotation_period: 44.879 d
         axial_tilt: 23.76°
         albedo: 0.30
-        temperature: 1108 K<br />(835 °C)
+        temperature: 202 K<br />(-72 °C)
       - name: 10304 Dialkeshiad III k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -472,12 +472,12 @@ planets:
         radius: 26,556.9 km<br/>(4.168 Yrths)
         surface_area: 8.863 × 10<sup>09</sup> km<sup>2</sup><br/>(17.376 Yrths)
         volume: 7.846 × 10<sup>13</sup> km<sup>3</sup><br/>(72.429 Yrths)
-        mass: 1.840 × 10<sup>26</sup> kg<br />(34.13186315318126 Yrths)
+        mass: 1.840 × 10<sup>26</sup> kg<br />(30.809 Yrths)
         density: 2.345 g/cm<sup>3</sup>
         surface_gravity: 17.388 m/s<sup>2</sup><br />(1.773 g<sub>0</sub>)
         escape_velocity: 30.411 km/s<br />(109,478 km/h)
         rotation_period: 49.897 d
         axial_tilt: 27.23°
         albedo: 0.30
-        temperature: 1057 K<br />(784 °C)
+        temperature: 202 K<br />(-72 °C)
 ---

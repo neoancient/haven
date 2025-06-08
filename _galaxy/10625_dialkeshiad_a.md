@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      10625 Dialkeshiad A is a star in the constellation Dialkes
+      10625 Dialkeshiad A is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 351.44 ly
 apparent_magnitude: 7.04
 absolute_magnitude: 1.88

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1049 Aldnanniad is a star in the constellation Aldnan
+      1049 Aldnanniad is a star in the constellation <a href="aldnan.html">Aldnan</a>
 distance: 451.40 ly
 apparent_magnitude: 11.33
 absolute_magnitude: 5.62

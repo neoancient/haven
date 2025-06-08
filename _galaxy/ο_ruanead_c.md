@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      ο Ruanead C is a star in the constellation Ruane
+      ο Ruanead C is a star in the constellation <a href="ruane.html">Ruane</a>
 distance: 2053.37 ly
 apparent_magnitude: 13.70
 absolute_magnitude: 4.70
@@ -31,7 +31,7 @@ planets:
     radius: 217.1 km<br/>(0.034 Yrths)
     surface_area: 5.923 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.287 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.435 × 10<sup>27</sup> kg<br />(240.26455256436813 Yrths)
+    mass: 1.435 × 10<sup>27</sup> kg<br />(240.26 Yrths)
     density: 33471468.506 g/cm<sup>3</sup>
     surface_gravity: 2028904.028 m/s<sup>2</sup><br />(206890.633 g<sub>0</sub>)
     escape_velocity: 939.251 km/s<br />(3,381,303 km/h)
@@ -52,14 +52,14 @@ planets:
         radius: 244,617.6 km<br/>(38.395 Yrths)
         surface_area: 7.519 × 10<sup>11</sup> km<sup>2</sup><br/>(1474.213 Yrths)
         volume: 6.131 × 10<sup>16</sup> km<sup>3</sup><br/>(56603.108 Yrths)
-        mass: 1.085 × 10<sup>29</sup> kg<br />(240.26455256436813 Yrths)
+        mass: 1.085 × 10<sup>29</sup> kg<br />(18168.855 Yrths)
         density: 1.770 g/cm<sup>3</sup>
         surface_gravity: 120.862 m/s<sup>2</sup><br />(12.324 g<sub>0</sub>)
         escape_velocity: 243.331 km/s<br />(875,992 km/h)
         rotation_period: 43.920 d
         axial_tilt: 18.73°
         albedo: 0.30
-        temperature: 978 K<br />(705 °C)
+        temperature: 230 K<br />(-43 °C)
       - name: ο Ruanead C I b
         type: Asteroid
         formationType: Captured
@@ -72,14 +72,14 @@ planets:
         radius: 167,815.3 km<br/>(26.340 Yrths)
         surface_area: 3.539 × 10<sup>11</sup> km<sup>2</sup><br/>(693.822 Yrths)
         volume: 1.980 × 10<sup>16</sup> km<sup>3</sup><br/>(18275.615 Yrths)
-        mass: 6.472 × 10<sup>28</sup> kg<br />(240.26455256436813 Yrths)
+        mass: 6.472 × 10<sup>28</sup> kg<br />(10836.881 Yrths)
         density: 3.269 g/cm<sup>3</sup>
         surface_gravity: 153.171 m/s<sup>2</sup><br />(15.619 g<sub>0</sub>)
         escape_velocity: 226.889 km/s<br />(816,802 km/h)
         rotation_period: 29.368 d
         axial_tilt: 18.63°
         albedo: 0.30
-        temperature: 701 K<br />(427 °C)
+        temperature: 230 K<br />(-43 °C)
       - name: ο Ruanead C I c
         type: Rocky
         formationType: Accreted
@@ -92,14 +92,14 @@ planets:
         radius: 173,339.3 km<br/>(27.208 Yrths)
         surface_area: 3.776 × 10<sup>11</sup> km<sup>2</sup><br/>(740.251 Yrths)
         volume: 2.182 × 10<sup>16</sup> km<sup>3</sup><br/>(20140.426 Yrths)
-        mass: 5.560 × 10<sup>28</sup> kg<br />(240.26455256436813 Yrths)
+        mass: 5.560 × 10<sup>28</sup> kg<br />(9309.562 Yrths)
         density: 2.548 g/cm<sup>3</sup>
         surface_gravity: 123.331 m/s<sup>2</sup><br />(12.576 g<sub>0</sub>)
         escape_velocity: 206.916 km/s<br />(744,897 km/h)
         rotation_period: 49.891 d
         axial_tilt: 10.92°
         albedo: 0.30
-        temperature: 579 K<br />(306 °C)
+        temperature: 230 K<br />(-43 °C)
       - name: ο Ruanead C I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -112,14 +112,14 @@ planets:
         radius: 215,312.7 km<br/>(33.796 Yrths)
         surface_area: 5.826 × 10<sup>11</sup> km<sup>2</sup><br/>(1142.153 Yrths)
         volume: 4.181 × 10<sup>16</sup> km<sup>3</sup><br/>(38599.905 Yrths)
-        mass: 1.065 × 10<sup>29</sup> kg<br />(240.26455256436813 Yrths)
+        mass: 1.065 × 10<sup>29</sup> kg<br />(17826.261 Yrths)
         density: 2.546 g/cm<sup>3</sup>
         surface_gravity: 153.058 m/s<sup>2</sup><br />(15.608 g<sub>0</sub>)
         escape_velocity: 256.905 km/s<br />(924,859 km/h)
         rotation_period: 46.881 d
         axial_tilt: 34.37°
         albedo: 0.30
-        temperature: 415 K<br />(142 °C)
+        temperature: 230 K<br />(-43 °C)
       - name: ο Ruanead C I e
         type: Rocky
         formationType: Captured
@@ -132,14 +132,14 @@ planets:
         radius: 176,345.3 km<br/>(27.679 Yrths)
         surface_area: 3.908 × 10<sup>11</sup> km<sup>2</sup><br/>(766.148 Yrths)
         volume: 2.297 × 10<sup>16</sup> km<sup>3</sup><br/>(21206.495 Yrths)
-        mass: 7.408 × 10<sup>28</sup> kg<br />(240.26455256436813 Yrths)
+        mass: 7.408 × 10<sup>28</sup> kg<br />(12403.869 Yrths)
         density: 3.225 g/cm<sup>3</sup>
         surface_gravity: 158.769 m/s<sup>2</sup><br />(16.190 g<sub>0</sub>)
         escape_velocity: 236.796 km/s<br />(852,466 km/h)
         rotation_period: 29.268 d
         axial_tilt: 17.91°
         albedo: 0.30
-        temperature: 343 K<br />(70 °C)
+        temperature: 230 K<br />(-43 °C)
   - name: ο Ruanead C II
     type: Large terrestrial
     aphelion: 529,174,634 km<br />3.537 AU
@@ -151,14 +151,14 @@ planets:
     radius: 10,305.9 km<br/>(1.618 Yrths)
     surface_area: 1.335 × 10<sup>09</sup> km<sup>2</sup><br/>(2.617 Yrths)
     volume: 4.585 × 10<sup>12</sup> km<sup>3</sup><br/>(4.233 Yrths)
-    mass: 2.670 × 10<sup>25</sup> kg<br />(4.470363799150739 Yrths)
+    mass: 2.670 × 10<sup>25</sup> kg<br />(4.47 Yrths)
     density: 5.823 g/cm<sup>3</sup>
     surface_gravity: 16.753 m/s<sup>2</sup><br />(1.708 g<sub>0</sub>)
     escape_velocity: 18.595 km/s<br />(66,943 km/h)
     rotation_period: 0.688 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 275 K<br />(1 °C)
+    temperature: 741 K<br />(468 °C)
     surface_pressure: 189 kPa<br />(2 atm)
     composition:
       - 92.5397% carbon dioxide
@@ -179,14 +179,14 @@ planets:
         radius: 9,520.4 km<br/>(1.494 Yrths)
         surface_area: 1.139 × 10<sup>09</sup> km<sup>2</sup><br/>(2.233 Yrths)
         volume: 3.615 × 10<sup>12</sup> km<sup>3</sup><br/>(3.337 Yrths)
-        mass: 8.888 × 10<sup>24</sup> kg<br />(4.470363799150739 Yrths)
+        mass: 8.888 × 10<sup>24</sup> kg<br />(1.488 Yrths)
         density: 2.459 g/cm<sup>3</sup>
         surface_gravity: 6.536 m/s<sup>2</sup><br />(0.667 g<sub>0</sub>)
         escape_velocity: 11.164 km/s<br />(40,189 km/h)
         rotation_period: 43.466 d
         axial_tilt: 17.03°
         albedo: 0.30
-        temperature: 2679 K<br />(2406 °C)
+        temperature: 169 K<br />(-104 °C)
       - name: ο Ruanead C II b
         type: Dwarf planet
         formationType: Captured
@@ -199,14 +199,14 @@ planets:
         radius: 8,539.8 km<br/>(1.340 Yrths)
         surface_area: 9.164 × 10<sup>08</sup> km<sup>2</sup><br/>(1.797 Yrths)
         volume: 2.609 × 10<sup>12</sup> km<sup>3</sup><br/>(2.408 Yrths)
-        mass: 5.185 × 10<sup>24</sup> kg<br />(4.470363799150739 Yrths)
+        mass: 5.185 × 10<sup>24</sup> kg<br />(0.868 Yrths)
         density: 1.987 g/cm<sup>3</sup>
         surface_gravity: 4.739 m/s<sup>2</sup><br />(0.483 g<sub>0</sub>)
         escape_velocity: 9.002 km/s<br />(32,409 km/h)
         rotation_period: 59.112 d
         axial_tilt: 27.06°
         albedo: 0.30
-        temperature: 2554 K<br />(2281 °C)
+        temperature: 169 K<br />(-104 °C)
   - name: ο Ruanead C III
     type: Terrestrial
     aphelion: 987,082,372 km<br />6.598 AU
@@ -218,14 +218,14 @@ planets:
     radius: 8,808.6 km<br/>(1.383 Yrths)
     surface_area: 9.750 × 10<sup>08</sup> km<sup>2</sup><br/>(1.912 Yrths)
     volume: 2.863 × 10<sup>12</sup> km<sup>3</sup><br/>(2.643 Yrths)
-    mass: 1.444 × 10<sup>25</sup> kg<br />(2.417197109494561 Yrths)
+    mass: 1.444 × 10<sup>25</sup> kg<br />(2.42 Yrths)
     density: 5.042 g/cm<sup>3</sup>
     surface_gravity: 12.400 m/s<sup>2</sup><br />(1.264 g<sub>0</sub>)
     escape_velocity: 14.790 km/s<br />(53,246 km/h)
     rotation_period: 0.776 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 139 K<br />(-134 °C)
+    temperature: 183 K<br />(-90 °C)
     surface_pressure: 12 kPa<br />(0 atm)
     composition:
       - 89.6249% methane
@@ -245,14 +245,14 @@ planets:
         radius: 2,525.8 km<br/>(0.396 Yrths)
         surface_area: 8.017 × 10<sup>07</sup> km<sup>2</sup><br/>(0.157 Yrths)
         volume: 6.750 × 10<sup>10</sup> km<sup>3</sup><br/>(0.062 Yrths)
-        mass: 2.222 × 10<sup>23</sup> kg<br />(2.417197109494561 Yrths)
+        mass: 2.222 × 10<sup>23</sup> kg<br />(0.037 Yrths)
         density: 3.292 g/cm<sup>3</sup>
         surface_gravity: 2.321 m/s<sup>2</sup><br />(0.237 g<sub>0</sub>)
         escape_velocity: 3.427 km/s<br />(12,336 km/h)
         rotation_period: 41.977 d
         axial_tilt: 21.70°
         albedo: 0.30
-        temperature: 1741 K<br />(1468 °C)
+        temperature: 124 K<br />(-149 °C)
       - name: ο Ruanead C III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -265,14 +265,14 @@ planets:
         radius: 4,370.5 km<br/>(0.686 Yrths)
         surface_area: 2.400 × 10<sup>08</sup> km<sup>2</sup><br/>(0.471 Yrths)
         volume: 3.497 × 10<sup>11</sup> km<sup>3</sup><br/>(0.323 Yrths)
-        mass: 7.038 × 10<sup>23</sup> kg<br />(2.417197109494561 Yrths)
+        mass: 7.038 × 10<sup>23</sup> kg<br />(0.118 Yrths)
         density: 2.013 g/cm<sup>3</sup>
         surface_gravity: 2.456 m/s<sup>2</sup><br />(0.250 g<sub>0</sub>)
         escape_velocity: 4.636 km/s<br />(16,691 km/h)
         rotation_period: 39.718 d
         axial_tilt: 20.02°
         albedo: 0.30
-        temperature: 1660 K<br />(1387 °C)
+        temperature: 124 K<br />(-149 °C)
   - name: ο Ruanead C IV
     type: Ice giant
     aphelion: 1,849,947,190 km<br />12.366 AU
@@ -284,14 +284,14 @@ planets:
     radius: 16,579.7 km<br/>(2.602 Yrths)
     surface_area: 3.454 × 10<sup>09</sup> km<sup>2</sup><br/>(6.772 Yrths)
     volume: 1.909 × 10<sup>13</sup> km<sup>3</sup><br/>(17.624 Yrths)
-    mass: 2.460 × 10<sup>25</sup> kg<br />(4.118422787633191 Yrths)
+    mass: 2.460 × 10<sup>25</sup> kg<br />(4.12 Yrths)
     density: 1.288 g/cm<sup>3</sup>
     surface_gravity: 5.964 m/s<sup>2</sup><br />(0.608 g<sub>0</sub>)
     escape_velocity: 14.072 km/s<br />(50,659 km/h)
     rotation_period: 0.432 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 171 K<br />(-103 °C)
+    temperature: 156 K<br />(-117 °C)
     composition:
       - 76.1827% hydrogen
       - 18.9017% helium
@@ -313,14 +313,14 @@ planets:
         radius: 4,064.8 km<br/>(0.638 Yrths)
         surface_area: 2.076 × 10<sup>08</sup> km<sup>2</sup><br/>(0.407 Yrths)
         volume: 2.813 × 10<sup>11</sup> km<sup>3</sup><br/>(0.260 Yrths)
-        mass: 6.933 × 10<sup>23</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 6.933 × 10<sup>23</sup> kg<br />(0.116 Yrths)
         density: 2.464 g/cm<sup>3</sup>
         surface_gravity: 2.797 m/s<sup>2</sup><br />(0.285 g<sub>0</sub>)
         escape_velocity: 4.772 km/s<br />(17,177 km/h)
         rotation_period: 34.157 d
         axial_tilt: 22.36°
         albedo: 0.30
-        temperature: 1120 K<br />(847 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -333,14 +333,14 @@ planets:
         radius: 12,265.6 km<br/>(1.925 Yrths)
         surface_area: 1.891 × 10<sup>09</sup> km<sup>2</sup><br/>(3.706 Yrths)
         volume: 7.729 × 10<sup>12</sup> km<sup>3</sup><br/>(7.136 Yrths)
-        mass: 1.860 × 10<sup>25</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 1.860 × 10<sup>25</sup> kg<br />(3.115 Yrths)
         density: 2.406 g/cm<sup>3</sup>
         surface_gravity: 8.241 m/s<sup>2</sup><br />(0.840 g<sub>0</sub>)
         escape_velocity: 14.228 km/s<br />(51,220 km/h)
         rotation_period: 56.863 d
         axial_tilt: 21.66°
         albedo: 0.30
-        temperature: 1018 K<br />(745 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV c
         type: Ice/rock hybrid
         formationType: Captured
@@ -353,14 +353,14 @@ planets:
         radius: 12,393.9 km<br/>(1.945 Yrths)
         surface_area: 1.930 × 10<sup>09</sup> km<sup>2</sup><br/>(3.784 Yrths)
         volume: 7.975 × 10<sup>12</sup> km<sup>3</sup><br/>(7.362 Yrths)
-        mass: 1.664 × 10<sup>25</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 1.664 × 10<sup>25</sup> kg<br />(2.787 Yrths)
         density: 2.087 g/cm<sup>3</sup>
         surface_gravity: 7.221 m/s<sup>2</sup><br />(0.736 g<sub>0</sub>)
         escape_velocity: 13.388 km/s<br />(48,198 km/h)
         rotation_period: 45.328 d
         axial_tilt: 20.05°
         albedo: 0.30
-        temperature: 971 K<br />(698 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV d
         type: Dwarf planet
         formationType: Captured
@@ -373,14 +373,14 @@ planets:
         radius: 7,197.2 km<br/>(1.130 Yrths)
         surface_area: 6.509 × 10<sup>08</sup> km<sup>2</sup><br/>(1.276 Yrths)
         volume: 1.562 × 10<sup>12</sup> km<sup>3</sup><br/>(1.442 Yrths)
-        mass: 3.668 × 10<sup>24</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 3.668 × 10<sup>24</sup> kg<br />(0.614 Yrths)
         density: 2.349 g/cm<sup>3</sup>
         surface_gravity: 4.720 m/s<sup>2</sup><br />(0.481 g<sub>0</sub>)
         escape_velocity: 8.249 km/s<br />(29,695 km/h)
         rotation_period: 37.918 d
         axial_tilt: 32.89°
         albedo: 0.30
-        temperature: 926 K<br />(652 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -393,14 +393,14 @@ planets:
         radius: 5,101.3 km<br/>(0.801 Yrths)
         surface_area: 3.270 × 10<sup>08</sup> km<sup>2</sup><br/>(0.641 Yrths)
         volume: 5.561 × 10<sup>11</sup> km<sup>3</sup><br/>(0.513 Yrths)
-        mass: 9.871 × 10<sup>23</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 9.871 × 10<sup>23</sup> kg<br />(0.165 Yrths)
         density: 1.775 g/cm<sup>3</sup>
         surface_gravity: 2.528 m/s<sup>2</sup><br />(0.258 g<sub>0</sub>)
         escape_velocity: 5.082 km/s<br />(18,296 km/h)
         rotation_period: 40.652 d
         axial_tilt: 7.68°
         albedo: 0.30
-        temperature: 882 K<br />(609 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -413,14 +413,14 @@ planets:
         radius: 4,966.1 km<br/>(0.779 Yrths)
         surface_area: 3.099 × 10<sup>08</sup> km<sup>2</sup><br/>(0.608 Yrths)
         volume: 5.130 × 10<sup>11</sup> km<sup>3</sup><br/>(0.474 Yrths)
-        mass: 1.282 × 10<sup>24</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 1.282 × 10<sup>24</sup> kg<br />(0.215 Yrths)
         density: 2.499 g/cm<sup>3</sup>
         surface_gravity: 3.465 m/s<sup>2</sup><br />(0.353 g<sub>0</sub>)
         escape_velocity: 5.871 km/s<br />(21,135 km/h)
         rotation_period: 38.954 d
         axial_tilt: 14.28°
         albedo: 0.30
-        temperature: 841 K<br />(568 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV g
         type: Icy
         formationType: Accreted
@@ -433,14 +433,14 @@ planets:
         radius: 5,391.7 km<br/>(0.846 Yrths)
         surface_area: 3.653 × 10<sup>08</sup> km<sup>2</sup><br/>(0.716 Yrths)
         volume: 6.566 × 10<sup>11</sup> km<sup>3</sup><br/>(0.606 Yrths)
-        mass: 1.131 × 10<sup>24</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 1.131 × 10<sup>24</sup> kg<br />(0.189 Yrths)
         density: 1.723 g/cm<sup>3</sup>
         surface_gravity: 2.593 m/s<sup>2</sup><br />(0.264 g<sub>0</sub>)
         escape_velocity: 5.292 km/s<br />(19,050 km/h)
         rotation_period: 59.572 d
         axial_tilt: 14.10°
         albedo: 0.30
-        temperature: 802 K<br />(529 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV h
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -453,14 +453,14 @@ planets:
         radius: 6,336.0 km<br/>(0.995 Yrths)
         surface_area: 5.045 × 10<sup>08</sup> km<sup>2</sup><br/>(0.989 Yrths)
         volume: 1.065 × 10<sup>12</sup> km<sup>3</sup><br/>(0.984 Yrths)
-        mass: 2.327 × 10<sup>24</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 2.327 × 10<sup>24</sup> kg<br />(0.390 Yrths)
         density: 2.184 g/cm<sup>3</sup>
         surface_gravity: 3.864 m/s<sup>2</sup><br />(0.394 g<sub>0</sub>)
         escape_velocity: 7.002 km/s<br />(25,207 km/h)
         rotation_period: 47.319 d
         axial_tilt: 17.53°
         albedo: 0.30
-        temperature: 765 K<br />(492 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV i
         type: Icy
         formationType: Accreted
@@ -473,14 +473,14 @@ planets:
         radius: 5,521.2 km<br/>(0.867 Yrths)
         surface_area: 3.831 × 10<sup>08</sup> km<sup>2</sup><br/>(0.751 Yrths)
         volume: 7.050 × 10<sup>11</sup> km<sup>3</sup><br/>(0.651 Yrths)
-        mass: 9.238 × 10<sup>23</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 9.238 × 10<sup>23</sup> kg<br />(0.155 Yrths)
         density: 1.310 g/cm<sup>3</sup>
         surface_gravity: 2.020 m/s<sup>2</sup><br />(0.206 g<sub>0</sub>)
         escape_velocity: 4.726 km/s<br />(17,013 km/h)
         rotation_period: 57.741 d
         axial_tilt: 15.85°
         albedo: 0.30
-        temperature: 729 K<br />(456 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -493,14 +493,14 @@ planets:
         radius: 4,152.8 km<br/>(0.652 Yrths)
         surface_area: 2.167 × 10<sup>08</sup> km<sup>2</sup><br/>(0.425 Yrths)
         volume: 3.000 × 10<sup>11</sup> km<sup>3</sup><br/>(0.277 Yrths)
-        mass: 5.513 × 10<sup>23</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 5.513 × 10<sup>23</sup> kg<br />(0.092 Yrths)
         density: 1.838 g/cm<sup>3</sup>
         surface_gravity: 2.131 m/s<sup>2</sup><br />(0.217 g<sub>0</sub>)
         escape_velocity: 4.210 km/s<br />(15,154 km/h)
         rotation_period: 54.055 d
         axial_tilt: 17.95°
         albedo: 0.30
-        temperature: 695 K<br />(422 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV k
         type: Icy
         formationType: Captured
@@ -513,14 +513,14 @@ planets:
         radius: 10,010.9 km<br/>(1.571 Yrths)
         surface_area: 1.259 × 10<sup>09</sup> km<sup>2</sup><br/>(2.469 Yrths)
         volume: 4.203 × 10<sup>12</sup> km<sup>3</sup><br/>(3.880 Yrths)
-        mass: 4.437 × 10<sup>24</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 4.437 × 10<sup>24</sup> kg<br />(0.743 Yrths)
         density: 1.056 g/cm<sup>3</sup>
         surface_gravity: 2.951 m/s<sup>2</sup><br />(0.301 g<sub>0</sub>)
         escape_velocity: 7.692 km/s<br />(27,692 km/h)
         rotation_period: 66.812 d
         axial_tilt: 11.03°
         albedo: 0.30
-        temperature: 663 K<br />(390 °C)
+        temperature: 91 K<br />(-182 °C)
       - name: ο Ruanead C IV l
         type: Icy
         formationType: Impact formed
@@ -533,14 +533,14 @@ planets:
         radius: 4,844.6 km<br/>(0.760 Yrths)
         surface_area: 2.949 × 10<sup>08</sup> km<sup>2</sup><br/>(0.578 Yrths)
         volume: 4.763 × 10<sup>11</sup> km<sup>3</sup><br/>(0.440 Yrths)
-        mass: 5.415 × 10<sup>23</sup> kg<br />(4.118422787633191 Yrths)
+        mass: 5.415 × 10<sup>23</sup> kg<br />(0.091 Yrths)
         density: 1.137 g/cm<sup>3</sup>
         surface_gravity: 1.538 m/s<sup>2</sup><br />(0.157 g<sub>0</sub>)
         escape_velocity: 3.862 km/s<br />(13,905 km/h)
         rotation_period: 79.833 d
         axial_tilt: 19.20°
         albedo: 0.30
-        temperature: 632 K<br />(359 °C)
+        temperature: 91 K<br />(-182 °C)
   - name: ο Ruanead C V
     type: Ice giant
     aphelion: 3,344,890,237 km<br />22.359 AU
@@ -552,14 +552,14 @@ planets:
     radius: 29,264.0 km<br/>(4.593 Yrths)
     surface_area: 1.076 × 10<sup>10</sup> km<sup>2</sup><br/>(21.099 Yrths)
     volume: 1.050 × 10<sup>14</sup> km<sup>3</sup><br/>(96.913 Yrths)
-    mass: 1.501 × 10<sup>26</sup> kg<br />(25.12896754032965 Yrths)
+    mass: 1.501 × 10<sup>26</sup> kg<br />(25.13 Yrths)
     density: 1.430 g/cm<sup>3</sup>
     surface_gravity: 11.680 m/s<sup>2</sup><br />(1.191 g<sub>0</sub>)
     escape_velocity: 26.164 km/s<br />(94,189 km/h)
     rotation_period: 0.318 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 121 K<br />(-152 °C)
+    temperature: 110 K<br />(-163 °C)
     composition:
       - 71.3643% hydrogen
       - 25.5066% helium
@@ -577,14 +577,14 @@ planets:
         radius: 24,435.5 km<br/>(3.835 Yrths)
         surface_area: 7.503 × 10<sup>09</sup> km<sup>2</sup><br/>(14.711 Yrths)
         volume: 6.112 × 10<sup>13</sup> km<sup>3</sup><br/>(56.421 Yrths)
-        mass: 1.358 × 10<sup>26</sup> kg<br />(25.12896754032965 Yrths)
+        mass: 1.358 × 10<sup>26</sup> kg<br />(22.740 Yrths)
         density: 2.222 g/cm<sup>3</sup>
         surface_gravity: 15.159 m/s<sup>2</sup><br />(1.546 g<sub>0</sub>)
         escape_velocity: 27.237 km/s<br />(98,053 km/h)
         rotation_period: 47.138 d
         axial_tilt: 23.46°
         albedo: 0.30
-        temperature: 580 K<br />(307 °C)
+        temperature: 67 K<br />(-206 °C)
       - name: ο Ruanead C V b
         type: Icy
         formationType: Accreted
@@ -597,14 +597,14 @@ planets:
         radius: 29,416.2 km<br/>(4.617 Yrths)
         surface_area: 1.087 × 10<sup>10</sup> km<sup>2</sup><br/>(21.319 Yrths)
         volume: 1.066 × 10<sup>14</sup> km<sup>3</sup><br/>(98.433 Yrths)
-        mass: 1.404 × 10<sup>26</sup> kg<br />(25.12896754032965 Yrths)
+        mass: 1.404 × 10<sup>26</sup> kg<br />(23.518 Yrths)
         density: 1.317 g/cm<sup>3</sup>
         surface_gravity: 10.818 m/s<sup>2</sup><br />(1.103 g<sub>0</sub>)
         escape_velocity: 25.246 km/s<br />(90,884 km/h)
         rotation_period: 56.086 d
         axial_tilt: 7.27°
         albedo: 0.30
-        temperature: 503 K<br />(230 °C)
+        temperature: 67 K<br />(-206 °C)
       - name: ο Ruanead C V c
         type: Ice/rock hybrid
         formationType: Captured
@@ -617,14 +617,14 @@ planets:
         radius: 26,083.3 km<br/>(4.094 Yrths)
         surface_area: 8.549 × 10<sup>09</sup> km<sup>2</sup><br/>(16.761 Yrths)
         volume: 7.433 × 10<sup>13</sup> km<sup>3</sup><br/>(68.622 Yrths)
-        mass: 1.893 × 10<sup>26</sup> kg<br />(25.12896754032965 Yrths)
+        mass: 1.893 × 10<sup>26</sup> kg<br />(31.691 Yrths)
         density: 2.546 g/cm<sup>3</sup>
         surface_gravity: 18.542 m/s<sup>2</sup><br />(1.891 g<sub>0</sub>)
         escape_velocity: 31.122 km/s<br />(112,038 km/h)
         rotation_period: 39.669 d
         axial_tilt: 28.75°
         albedo: 0.30
-        temperature: 480 K<br />(206 °C)
+        temperature: 67 K<br />(-206 °C)
       - name: ο Ruanead C V d
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -637,14 +637,14 @@ planets:
         radius: 23,869.7 km<br/>(3.747 Yrths)
         surface_area: 7.160 × 10<sup>09</sup> km<sup>2</sup><br/>(14.037 Yrths)
         volume: 5.697 × 10<sup>13</sup> km<sup>3</sup><br/>(52.592 Yrths)
-        mass: 1.161 × 10<sup>26</sup> kg<br />(25.12896754032965 Yrths)
+        mass: 1.161 × 10<sup>26</sup> kg<br />(19.441 Yrths)
         density: 2.038 g/cm<sup>3</sup>
         surface_gravity: 13.582 m/s<sup>2</sup><br />(1.385 g<sub>0</sub>)
         escape_velocity: 25.481 km/s<br />(91,731 km/h)
         rotation_period: 39.678 d
         axial_tilt: 23.55°
         albedo: 0.30
-        temperature: 457 K<br />(184 °C)
+        temperature: 67 K<br />(-206 °C)
       - name: ο Ruanead C V e
         type: Icy
         formationType: Captured
@@ -657,14 +657,14 @@ planets:
         radius: 28,941.3 km<br/>(4.543 Yrths)
         surface_area: 1.053 × 10<sup>10</sup> km<sup>2</sup><br/>(20.636 Yrths)
         volume: 1.015 × 10<sup>14</sup> km<sup>3</sup><br/>(93.741 Yrths)
-        mass: 1.423 × 10<sup>26</sup> kg<br />(25.12896754032965 Yrths)
+        mass: 1.423 × 10<sup>26</sup> kg<br />(23.833 Yrths)
         density: 1.402 g/cm<sup>3</sup>
         surface_gravity: 11.326 m/s<sup>2</sup><br />(1.155 g<sub>0</sub>)
         escape_velocity: 25.622 km/s<br />(92,238 km/h)
         rotation_period: 66.738 d
         axial_tilt: 25.36°
         albedo: 0.30
-        temperature: 416 K<br />(142 °C)
+        temperature: 67 K<br />(-206 °C)
       - name: ο Ruanead C V f
         type: Icy
         formationType: Accreted
@@ -677,14 +677,14 @@ planets:
         radius: 39,143.3 km<br/>(6.144 Yrths)
         surface_area: 1.925 × 10<sup>10</sup> km<sup>2</sup><br/>(37.749 Yrths)
         volume: 2.512 × 10<sup>14</sup> km<sup>3</sup><br/>(231.927 Yrths)
-        mass: 3.396 × 10<sup>26</sup> kg<br />(25.12896754032965 Yrths)
+        mass: 3.396 × 10<sup>26</sup> kg<br />(56.871 Yrths)
         density: 1.352 g/cm<sup>3</sup>
         surface_gravity: 14.774 m/s<sup>2</sup><br />(1.507 g<sub>0</sub>)
         escape_velocity: 34.032 km/s<br />(122,517 km/h)
         rotation_period: 77.647 d
         axial_tilt: 19.34°
         albedo: 0.30
-        temperature: 360 K<br />(87 °C)
+        temperature: 67 K<br />(-206 °C)
       - name: ο Ruanead C V g
         type: Dwarf planet
         formationType: Captured
@@ -697,14 +697,14 @@ planets:
         radius: 28,081.8 km<br/>(4.408 Yrths)
         surface_area: 9.910 × 10<sup>09</sup> km<sup>2</sup><br/>(19.428 Yrths)
         volume: 9.276 × 10<sup>13</sup> km<sup>3</sup><br/>(85.635 Yrths)
-        mass: 1.974 × 10<sup>26</sup> kg<br />(25.12896754032965 Yrths)
+        mass: 1.974 × 10<sup>26</sup> kg<br />(33.053 Yrths)
         density: 2.128 g/cm<sup>3</sup>
         surface_gravity: 16.684 m/s<sup>2</sup><br />(1.701 g<sub>0</sub>)
         escape_velocity: 30.632 km/s<br />(110,274 km/h)
         rotation_period: 34.022 d
         axial_tilt: 39.85°
         albedo: 0.30
-        temperature: 298 K<br />(25 °C)
+        temperature: 67 K<br />(-206 °C)
       - name: ο Ruanead C V h
         type: Asteroid
         formationType: Captured
@@ -717,12 +717,12 @@ planets:
         radius: 31,186.5 km<br/>(4.895 Yrths)
         surface_area: 1.222 × 10<sup>10</sup> km<sup>2</sup><br/>(23.962 Yrths)
         volume: 1.271 × 10<sup>14</sup> km<sup>3</sup><br/>(117.294 Yrths)
-        mass: 2.611 × 10<sup>26</sup> kg<br />(25.12896754032965 Yrths)
+        mass: 2.611 × 10<sup>26</sup> kg<br />(43.719 Yrths)
         density: 2.055 g/cm<sup>3</sup>
         surface_gravity: 17.893 m/s<sup>2</sup><br />(1.825 g<sub>0</sub>)
         escape_velocity: 33.430 km/s<br />(120,347 km/h)
         rotation_period: 35.486 d
         axial_tilt: 35.02°
         albedo: 0.30
-        temperature: 271 K<br />(-2 °C)
+        temperature: 67 K<br />(-206 °C)
 ---

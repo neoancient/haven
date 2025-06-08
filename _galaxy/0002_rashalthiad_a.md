@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0002 Rashalthiad A is a star in the constellation Rashalth
+      0002 Rashalthiad A is a star in the constellation <a href="rashalth.html">Rashalth</a>
 distance: 221.70 ly
 apparent_magnitude: 6.38
 absolute_magnitude: 2.22

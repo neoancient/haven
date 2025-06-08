@@ -8,50 +8,68 @@ sections:
     content: >-
       Tarvess is a terrestrial planet in the <a href="16841_naddiad.html">16841 Naddiad</a> system.
 planet:
-  aphelion: 92,246,264 km<br />0.617 AU
-  perihelion: 92,053,455 km<br />0.615 AU
-  semi_major_axis: 92,149,860 km<br />0.616 AU
-  eccentricity: 0.001
-  orbital_period: 212.37 d<br />0.581 y
-  inclination: 19.06°
-  radius: 6,406.0 km<br/>(1.005 Yrths)
-  surface_area: 5.157 × 10<sup>08</sup> km<sup>2</sup><br/>(1.011 Yrths)
-  volume: 1.101 × 10<sup>12</sup> km<sup>3</sup><br/>(1.017 Yrths)
-  mass: 5.858 × 10<sup>24</sup> kg<br />(0.98 Yrths)
-  density: 5.320 g/cm<sup>3</sup>
-  surface_gravity: 9.515 m/s<sup>2</sup><br />(0.970 g<sub>0</sub>)
-  escape_velocity: 11.048 km/s<br />(39,775 km/h)
-  rotation_period: 2.633 d
+  aphelion: 110,654,394 km<br />0.740 AU
+  perihelion: 107,245,472 km<br />0.717 AU
+  semi_major_axis: 108,949,933 km<br />0.728 AU
+  eccentricity: 0.016
+  orbital_period: 246.07 d<br />0.674 y
+  inclination: 80.05°
+  radius: 5,687.6 km<br/>(0.893 Yrths)
+  surface_area: 4.065 × 10<sup>08</sup> km<sup>2</sup><br/>(0.797 Yrths)
+  volume: 7.707 × 10<sup>11</sup> km<sup>3</sup><br/>(0.711 Yrths)
+  mass: 4.881 × 10<sup>24</sup> kg<br />(0.82 Yrths)
+  density: 6.334 g/cm<sup>3</sup>
+  surface_gravity: 10.058 m/s<sup>2</sup><br />(1.026 g<sub>0</sub>)
+  escape_velocity: 10.703 km/s<br />(38,532 km/h)
+  rotation_period: 1.896 d
   axial_tilt: 0.00°
   albedo: 0.30
-  temperature: 263 K<br />(-10 °C)
-  surface_pressure: 96 kPa<br />(1 atm)
+  temperature: 274 K<br />(1 °C)
+  surface_pressure: 124 kPa<br />(1 atm)
   composition:
-    - 79.9219% nitrogen
-    - 18.9291% oxygen
+    - 79.8226% nitrogen
+    - 18.9292% oxygen
     - 1.1284% argon
-    - 0.0200% carbon dioxide
-    - 0.0005% methane
-    - 0.0000% carbon monoxide
+    - 0.1197% carbon dioxide
   moons:
     - name: Tarvess a
-      type: Asteroid
-      formationType: Captured
-      aphelion: 523,179 km<br />
-      perihelion: 512,671 km<br />
-      semi_major_axis: 517,925 km<br />
-      eccentricity: 0.010
-      orbital_period: 0.03 d<br />
-      inclination: 0.00°
-      radius: 1,875.6 km<br/>(0.294 Yrths)
-      surface_area: 4.421 × 10<sup>07</sup> km<sup>2</sup><br/>(0.087 Yrths)
-      volume: 2.764 × 10<sup>10</sup> km<sup>3</sup><br/>(0.026 Yrths)
-      mass: 8.953 × 10<sup>22</sup> kg<br />(0.980920661037479 Yrths)
-      density: 3.240 g/cm<sup>3</sup>
-      surface_gravity: 1.696 m/s<sup>2</sup><br />(0.173 g<sub>0</sub>)
-      escape_velocity: 2.524 km/s<br />(9,087 km/h)
-      rotation_period: 45.968 d
-      axial_tilt: 14.46°
+      type: Ice/rock hybrid
+      formationType: Impact formed
+      aphelion: 563,625 km<br />
+      perihelion: 511,701 km<br />
+      semi_major_axis: 537,663 km<br />
+      eccentricity: 0.048
+      orbital_period: 0.04 d<br />
+      inclination: 3.61°
+      radius: 1,932.2 km<br/>(0.303 Yrths)
+      surface_area: 4.692 × 10<sup>07</sup> km<sup>2</sup><br/>(0.092 Yrths)
+      volume: 3.022 × 10<sup>10</sup> km<sup>3</sup><br/>(0.028 Yrths)
+      mass: 5.711 × 10<sup>22</sup> kg<br />(0.010 Yrths)
+      density: 1.890 g/cm<sup>3</sup>
+      surface_gravity: 1.020 m/s<sup>2</sup><br />(0.104 g<sub>0</sub>)
+      escape_velocity: 1.986 km/s<br />(7,151 km/h)
+      rotation_period: 58.662 d
+      axial_tilt: 26.01°
       albedo: 0.30
-      temperature: 3318 K<br />(3045 °C)
+      temperature: 255 K<br />(-18 °C)
+    - name: Tarvess b
+      type: Rocky
+      formationType: Impact formed
+      aphelion: 593,497 km<br />
+      perihelion: 589,362 km<br />
+      semi_major_axis: 591,429 km<br />
+      eccentricity: 0.003
+      orbital_period: 0.04 d<br />
+      inclination: 1.64°
+      radius: 896.1 km<br/>(0.141 Yrths)
+      surface_area: 1.009 × 10<sup>07</sup> km<sup>2</sup><br/>(0.020 Yrths)
+      volume: 3.014 × 10<sup>09</sup> km<sup>3</sup><br/>(0.003 Yrths)
+      mass: 8.862 × 10<sup>21</sup> kg<br />(0.001 Yrths)
+      density: 2.940 g/cm<sup>3</sup>
+      surface_gravity: 0.736 m/s<sup>2</sup><br />(0.075 g<sub>0</sub>)
+      escape_velocity: 1.149 km/s<br />(4,136 km/h)
+      rotation_period: 50.556 d
+      axial_tilt: 11.26°
+      albedo: 0.30
+      temperature: 255 K<br />(-18 °C)
 ---

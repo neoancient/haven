@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0042 Kelniad C is a star in the constellation Keln
+      0042 Kelniad C is a star in the constellation <a href="keln.html">Keln</a>
 distance: 165.42 ly
 apparent_magnitude: 8.38
 absolute_magnitude: 4.86
@@ -31,14 +31,14 @@ planets:
     radius: 16,334.6 km<br/>(2.564 Yrths)
     surface_area: 3.353 × 10<sup>09</sup> km<sup>2</sup><br/>(6.574 Yrths)
     volume: 1.826 × 10<sup>13</sup> km<sup>3</sup><br/>(16.854 Yrths)
-    mass: 4.578 × 10<sup>25</sup> kg<br />(7.666603339043968 Yrths)
+    mass: 4.578 × 10<sup>25</sup> kg<br />(7.67 Yrths)
     density: 2.508 g/cm<sup>3</sup>
     surface_gravity: 11.437 m/s<sup>2</sup><br />(1.166 g<sub>0</sub>)
     escape_velocity: 19.343 km/s<br />(69,635 km/h)
     rotation_period: 1.412 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 426 K<br />(153 °C)
+    temperature: 384 K<br />(111 °C)
     composition:
       - 81.0476% hydrogen
       - 17.7471% helium
@@ -56,14 +56,14 @@ planets:
         radius: 7,404.1 km<br/>(1.162 Yrths)
         surface_area: 6.889 × 10<sup>08</sup> km<sup>2</sup><br/>(1.351 Yrths)
         volume: 1.700 × 10<sup>12</sup> km<sup>3</sup><br/>(1.570 Yrths)
-        mass: 5.402 × 10<sup>24</sup> kg<br />(7.666603339043968 Yrths)
+        mass: 5.402 × 10<sup>24</sup> kg<br />(0.904 Yrths)
         density: 3.177 g/cm<sup>3</sup>
         surface_gravity: 6.567 m/s<sup>2</sup><br />(0.670 g<sub>0</sub>)
         escape_velocity: 9.868 km/s<br />(35,526 km/h)
         rotation_period: 43.979 d
         axial_tilt: 18.16°
         albedo: 0.30
-        temperature: 3069 K<br />(2796 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0042 Kelniad C I b
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 8,568.2 km<br/>(1.345 Yrths)
         surface_area: 9.226 × 10<sup>08</sup> km<sup>2</sup><br/>(1.809 Yrths)
         volume: 2.635 × 10<sup>12</sup> km<sup>3</sup><br/>(2.432 Yrths)
-        mass: 4.216 × 10<sup>24</sup> kg<br />(7.666603339043968 Yrths)
+        mass: 4.216 × 10<sup>24</sup> kg<br />(0.706 Yrths)
         density: 1.600 g/cm<sup>3</sup>
         surface_gravity: 3.827 m/s<sup>2</sup><br />(0.390 g<sub>0</sub>)
         escape_velocity: 8.104 km/s<br />(29,175 km/h)
         rotation_period: 75.399 d
         axial_tilt: 26.04°
         albedo: 0.30
-        temperature: 2926 K<br />(2653 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0042 Kelniad C I c
         type: Icy
         formationType: Captured
@@ -96,14 +96,14 @@ planets:
         radius: 8,608.6 km<br/>(1.351 Yrths)
         surface_area: 9.313 × 10<sup>08</sup> km<sup>2</sup><br/>(1.826 Yrths)
         volume: 2.672 × 10<sup>12</sup> km<sup>3</sup><br/>(2.467 Yrths)
-        mass: 3.431 × 10<sup>24</sup> kg<br />(7.666603339043968 Yrths)
+        mass: 3.431 × 10<sup>24</sup> kg<br />(0.575 Yrths)
         density: 1.284 g/cm<sup>3</sup>
         surface_gravity: 3.086 m/s<sup>2</sup><br />(0.315 g<sub>0</sub>)
         escape_velocity: 7.294 km/s<br />(26,258 km/h)
         rotation_period: 74.779 d
         axial_tilt: 15.99°
         albedo: 0.30
-        temperature: 2790 K<br />(2517 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0042 Kelniad C I d
         type: Icy
         formationType: Accreted
@@ -116,14 +116,14 @@ planets:
         radius: 7,666.0 km<br/>(1.203 Yrths)
         surface_area: 7.385 × 10<sup>08</sup> km<sup>2</sup><br/>(1.448 Yrths)
         volume: 1.887 × 10<sup>12</sup> km<sup>3</sup><br/>(1.742 Yrths)
-        mass: 2.554 × 10<sup>24</sup> kg<br />(7.666603339043968 Yrths)
+        mass: 2.554 × 10<sup>24</sup> kg<br />(0.428 Yrths)
         density: 1.354 g/cm<sup>3</sup>
         surface_gravity: 2.897 m/s<sup>2</sup><br />(0.295 g<sub>0</sub>)
         escape_velocity: 6.669 km/s<br />(24,009 km/h)
         rotation_period: 54.880 d
         axial_tilt: 7.54°
         albedo: 0.30
-        temperature: 2660 K<br />(2387 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0042 Kelniad C I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 6,472.9 km<br/>(1.016 Yrths)
         surface_area: 5.265 × 10<sup>08</sup> km<sup>2</sup><br/>(1.032 Yrths)
         volume: 1.136 × 10<sup>12</sup> km<sup>3</sup><br/>(1.049 Yrths)
-        mass: 2.571 × 10<sup>24</sup> kg<br />(7.666603339043968 Yrths)
+        mass: 2.571 × 10<sup>24</sup> kg<br />(0.431 Yrths)
         density: 2.263 g/cm<sup>3</sup>
         surface_gravity: 4.090 m/s<sup>2</sup><br />(0.417 g<sub>0</sub>)
         escape_velocity: 7.282 km/s<br />(26,214 km/h)
         rotation_period: 38.053 d
         axial_tilt: 13.30°
         albedo: 0.30
-        temperature: 2536 K<br />(2263 °C)
+        temperature: 320 K<br />(47 °C)
       - name: 0042 Kelniad C I f
         type: Icy
         formationType: Impact formed
@@ -156,14 +156,14 @@ planets:
         radius: 8,030.1 km<br/>(1.260 Yrths)
         surface_area: 8.103 × 10<sup>08</sup> km<sup>2</sup><br/>(1.589 Yrths)
         volume: 2.169 × 10<sup>12</sup> km<sup>3</sup><br/>(2.002 Yrths)
-        mass: 4.121 × 10<sup>24</sup> kg<br />(7.666603339043968 Yrths)
+        mass: 4.121 × 10<sup>24</sup> kg<br />(0.690 Yrths)
         density: 1.900 g/cm<sup>3</sup>
         surface_gravity: 4.260 m/s<sup>2</sup><br />(0.434 g<sub>0</sub>)
         escape_velocity: 8.277 km/s<br />(29,796 km/h)
         rotation_period: 52.559 d
         axial_tilt: 16.27°
         albedo: 0.30
-        temperature: 2418 K<br />(2145 °C)
+        temperature: 320 K<br />(47 °C)
   - name: 0042 Kelniad C II
     type: Gas dwarf
     aphelion: 175,045,606 km<br />1.170 AU
@@ -175,14 +175,14 @@ planets:
     radius: 17,030.3 km<br/>(2.673 Yrths)
     surface_area: 3.645 × 10<sup>09</sup> km<sup>2</sup><br/>(7.145 Yrths)
     volume: 2.069 × 10<sup>13</sup> km<sup>3</sup><br/>(19.100 Yrths)
-    mass: 4.330 × 10<sup>25</sup> kg<br />(7.251205300049215 Yrths)
+    mass: 4.330 × 10<sup>25</sup> kg<br />(7.25 Yrths)
     density: 2.093 g/cm<sup>3</sup>
     surface_gravity: 9.952 m/s<sup>2</sup><br />(1.015 g<sub>0</sub>)
     escape_velocity: 18.423 km/s<br />(66,325 km/h)
     rotation_period: 0.980 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 325 K<br />(52 °C)
+    temperature: 285 K<br />(12 °C)
     composition:
       - 63.0851% hydrogen
       - 34.0700% helium
@@ -201,14 +201,14 @@ planets:
         radius: 11,870.4 km<br/>(1.863 Yrths)
         surface_area: 1.771 × 10<sup>09</sup> km<sup>2</sup><br/>(3.471 Yrths)
         volume: 7.006 × 10<sup>12</sup> km<sup>3</sup><br/>(6.468 Yrths)
-        mass: 1.263 × 10<sup>25</sup> kg<br />(7.251205300049215 Yrths)
+        mass: 1.263 × 10<sup>25</sup> kg<br />(2.115 Yrths)
         density: 1.803 g/cm<sup>3</sup>
         surface_gravity: 5.976 m/s<sup>2</sup><br />(0.609 g<sub>0</sub>)
         escape_velocity: 11.919 km/s<br />(42,908 km/h)
         rotation_period: 37.615 d
         axial_tilt: 18.37°
         albedo: 0.30
-        temperature: 2427 K<br />(2153 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 0042 Kelniad C II b
         type: Icy
         formationType: Captured
@@ -221,14 +221,14 @@ planets:
         radius: 11,581.9 km<br/>(1.818 Yrths)
         surface_area: 1.686 × 10<sup>09</sup> km<sup>2</sup><br/>(3.305 Yrths)
         volume: 6.508 × 10<sup>12</sup> km<sup>3</sup><br/>(6.008 Yrths)
-        mass: 9.201 × 10<sup>24</sup> kg<br />(7.251205300049215 Yrths)
+        mass: 9.201 × 10<sup>24</sup> kg<br />(1.541 Yrths)
         density: 1.414 g/cm<sup>3</sup>
         surface_gravity: 4.572 m/s<sup>2</sup><br />(0.466 g<sub>0</sub>)
         escape_velocity: 10.298 km/s<br />(37,072 km/h)
         rotation_period: 44.727 d
         axial_tilt: 20.19°
         albedo: 0.30
-        temperature: 2314 K<br />(2041 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 0042 Kelniad C II c
         type: Dwarf planet
         formationType: Accreted
@@ -241,14 +241,14 @@ planets:
         radius: 12,905.5 km<br/>(2.026 Yrths)
         surface_area: 2.093 × 10<sup>09</sup> km<sup>2</sup><br/>(4.103 Yrths)
         volume: 9.004 × 10<sup>12</sup> km<sup>3</sup><br/>(8.312 Yrths)
-        mass: 1.488 × 10<sup>25</sup> kg<br />(7.251205300049215 Yrths)
+        mass: 1.488 × 10<sup>25</sup> kg<br />(2.492 Yrths)
         density: 1.653 g/cm<sup>3</sup>
         surface_gravity: 5.956 m/s<sup>2</sup><br />(0.607 g<sub>0</sub>)
         escape_velocity: 12.407 km/s<br />(44,666 km/h)
         rotation_period: 54.850 d
         axial_tilt: 21.58°
         albedo: 0.30
-        temperature: 2206 K<br />(1933 °C)
+        temperature: 240 K<br />(-33 °C)
       - name: 0042 Kelniad C II d
         type: Icy
         formationType: Captured
@@ -261,14 +261,14 @@ planets:
         radius: 13,167.9 km<br/>(2.067 Yrths)
         surface_area: 2.179 × 10<sup>09</sup> km<sup>2</sup><br/>(4.272 Yrths)
         volume: 9.564 × 10<sup>12</sup> km<sup>3</sup><br/>(8.829 Yrths)
-        mass: 1.316 × 10<sup>25</sup> kg<br />(7.251205300049215 Yrths)
+        mass: 1.316 × 10<sup>25</sup> kg<br />(2.204 Yrths)
         density: 1.376 g/cm<sup>3</sup>
         surface_gravity: 5.060 m/s<sup>2</sup><br />(0.516 g<sub>0</sub>)
         escape_velocity: 11.552 km/s<br />(41,587 km/h)
         rotation_period: 44.362 d
         axial_tilt: 14.32°
         albedo: 0.30
-        temperature: 2103 K<br />(1830 °C)
+        temperature: 240 K<br />(-33 °C)
   - name: 0042 Kelniad C III
     type: Gas giant
     aphelion: 323,298,583 km<br />2.161 AU
@@ -280,7 +280,7 @@ planets:
     radius: 217.3 km<br/>(0.034 Yrths)
     surface_area: 5.934 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.298 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.490 × 10<sup>27</sup> kg<br />(249.43340374019576 Yrths)
+    mass: 1.490 × 10<sup>27</sup> kg<br />(249.43 Yrths)
     density: 34660298.262 g/cm<sup>3</sup>
     surface_gravity: 2102752.513 m/s<sup>2</sup><br />(214421.083 g<sub>0</sub>)
     escape_velocity: 956.598 km/s<br />(3,443,753 km/h)
@@ -301,14 +301,14 @@ planets:
         radius: 151,429.3 km<br/>(23.769 Yrths)
         surface_area: 2.882 × 10<sup>11</sup> km<sup>2</sup><br/>(564.943 Yrths)
         volume: 1.455 × 10<sup>16</sup> km<sup>3</sup><br/>(13427.865 Yrths)
-        mass: 3.133 × 10<sup>28</sup> kg<br />(249.43340374019576 Yrths)
+        mass: 3.133 × 10<sup>28</sup> kg<br />(5245.473 Yrths)
         density: 2.154 g/cm<sup>3</sup>
         surface_gravity: 91.054 m/s<sup>2</sup><br />(9.285 g<sub>0</sub>)
         escape_velocity: 166.175 km/s<br />(598,229 km/h)
         rotation_period: 41.031 d
         axial_tilt: 17.20°
         albedo: 0.30
-        temperature: 1007 K<br />(734 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0042 Kelniad C III b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -321,14 +321,14 @@ planets:
         radius: 171,087.5 km<br/>(26.854 Yrths)
         surface_area: 3.678 × 10<sup>11</sup> km<sup>2</sup><br/>(721.143 Yrths)
         volume: 2.098 × 10<sup>16</sup> km<sup>3</sup><br/>(19365.631 Yrths)
-        mass: 4.062 × 10<sup>28</sup> kg<br />(249.43340374019576 Yrths)
+        mass: 4.062 × 10<sup>28</sup> kg<br />(6801.928 Yrths)
         density: 1.936 g/cm<sup>3</sup>
         surface_gravity: 92.498 m/s<sup>2</sup><br />(9.432 g<sub>0</sub>)
         escape_velocity: 178.027 km/s<br />(640,895 km/h)
         rotation_period: 36.751 d
         axial_tilt: 15.85°
         albedo: 0.30
-        temperature: 794 K<br />(521 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0042 Kelniad C III c
         type: Icy
         formationType: Captured
@@ -341,14 +341,14 @@ planets:
         radius: 185,521.0 km<br/>(29.120 Yrths)
         surface_area: 4.325 × 10<sup>11</sup> km<sup>2</sup><br/>(847.951 Yrths)
         volume: 2.675 × 10<sup>16</sup> km<sup>3</sup><br/>(24692.009 Yrths)
-        mass: 2.877 × 10<sup>28</sup> kg<br />(249.43340374019576 Yrths)
+        mass: 2.877 × 10<sup>28</sup> kg<br />(4817.504 Yrths)
         density: 1.076 g/cm<sup>3</sup>
         surface_gravity: 55.715 m/s<sup>2</sup><br />(5.681 g<sub>0</sub>)
         escape_velocity: 143.877 km/s<br />(517,958 km/h)
         rotation_period: 58.601 d
         axial_tilt: 8.63°
         albedo: 0.30
-        temperature: 199 K<br />(-74 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0042 Kelniad C III d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -361,14 +361,14 @@ planets:
         radius: 177,752.4 km<br/>(27.900 Yrths)
         surface_area: 3.970 × 10<sup>11</sup> km<sup>2</sup><br/>(778.423 Yrths)
         volume: 2.353 × 10<sup>16</sup> km<sup>3</sup><br/>(21718.195 Yrths)
-        mass: 4.672 × 10<sup>28</sup> kg<br />(249.43340374019576 Yrths)
+        mass: 4.672 × 10<sup>28</sup> kg<br />(7823.031 Yrths)
         density: 1.986 g/cm<sup>3</sup>
         surface_gravity: 98.555 m/s<sup>2</sup><br />(10.050 g<sub>0</sub>)
         escape_velocity: 187.309 km/s<br />(674,311 km/h)
         rotation_period: 56.503 d
         axial_tilt: 18.25°
         albedo: 0.30
-        temperature: 150 K<br />(-123 °C)
+        temperature: 180 K<br />(-94 °C)
       - name: 0042 Kelniad C III e
         type: Icy
         formationType: Captured
@@ -381,14 +381,14 @@ planets:
         radius: 182,444.8 km<br/>(28.637 Yrths)
         surface_area: 4.183 × 10<sup>11</sup> km<sup>2</sup><br/>(820.064 Yrths)
         volume: 2.544 × 10<sup>16</sup> km<sup>3</sup><br/>(23483.988 Yrths)
-        mass: 2.407 × 10<sup>28</sup> kg<br />(249.43340374019576 Yrths)
+        mass: 2.407 × 10<sup>28</sup> kg<br />(4030.342 Yrths)
         density: 0.946 g/cm<sup>3</sup>
         surface_gravity: 48.196 m/s<sup>2</sup><br />(4.915 g<sub>0</sub>)
         escape_velocity: 132.704 km/s<br />(477,733 km/h)
         rotation_period: 82.719 d
         axial_tilt: 22.76°
         albedo: 0.30
-        temperature: 102 K<br />(-171 °C)
+        temperature: 180 K<br />(-94 °C)
   - name: 0042 Kelniad C IV
     type: Terrestrial
     aphelion: 581,720,766 km<br />3.889 AU
@@ -400,14 +400,14 @@ planets:
     radius: 6,479.7 km<br/>(1.017 Yrths)
     surface_area: 5.276 × 10<sup>08</sup> km<sup>2</sup><br/>(1.034 Yrths)
     volume: 1.140 × 10<sup>12</sup> km<sup>3</sup><br/>(1.052 Yrths)
-    mass: 6.244 × 10<sup>24</sup> kg<br />(1.0454925398187271 Yrths)
+    mass: 6.244 × 10<sup>24</sup> kg<br />(1.05 Yrths)
     density: 5.479 g/cm<sup>3</sup>
     surface_gravity: 9.912 m/s<sup>2</sup><br />(1.011 g<sub>0</sub>)
     escape_velocity: 11.341 km/s<br />(40,829 km/h)
     rotation_period: 1.064 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 154 K<br />(-119 °C)
+    temperature: 225 K<br />(-48 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 91.6079% methane
@@ -429,14 +429,14 @@ planets:
         radius: 3,042.6 km<br/>(0.478 Yrths)
         surface_area: 1.163 × 10<sup>08</sup> km<sup>2</sup><br/>(0.228 Yrths)
         volume: 1.180 × 10<sup>11</sup> km<sup>3</sup><br/>(0.109 Yrths)
-        mass: 2.902 × 10<sup>23</sup> kg<br />(1.0454925398187271 Yrths)
+        mass: 2.902 × 10<sup>23</sup> kg<br />(0.049 Yrths)
         density: 2.460 g/cm<sup>3</sup>
         surface_gravity: 2.090 m/s<sup>2</sup><br />(0.213 g<sub>0</sub>)
         escape_velocity: 3.568 km/s<br />(12,846 km/h)
         rotation_period: 56.956 d
         axial_tilt: 14.56°
         albedo: 0.30
-        temperature: 2004 K<br />(1731 °C)
+        temperature: 135 K<br />(-139 °C)
   - name: 0042 Kelniad C V
     type: Gas giant
     aphelion: 1,002,066,233 km<br />6.698 AU
@@ -448,7 +448,7 @@ planets:
     radius: 213.3 km<br/>(0.033 Yrths)
     surface_area: 5.719 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.067 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.331 × 10<sup>27</sup> kg<br />(222.83642122586647 Yrths)
+    mass: 1.331 × 10<sup>27</sup> kg<br />(222.84 Yrths)
     density: 32719038.589 g/cm<sup>3</sup>
     surface_gravity: 1948845.932 m/s<sup>2</sup><br />(198726.979 g<sub>0</sub>)
     escape_velocity: 912.504 km/s<br />(3,285,014 km/h)
@@ -469,14 +469,14 @@ planets:
         radius: 262,937.5 km<br/>(41.271 Yrths)
         surface_area: 8.688 × 10<sup>11</sup> km<sup>2</sup><br/>(1703.295 Yrths)
         volume: 7.615 × 10<sup>16</sup> km<sup>3</sup><br/>(70296.699 Yrths)
-        mass: 7.297 × 10<sup>28</sup> kg<br />(222.83642122586647 Yrths)
+        mass: 7.297 × 10<sup>28</sup> kg<br />(12218.198 Yrths)
         density: 0.958 g/cm<sup>3</sup>
         surface_gravity: 70.346 m/s<sup>2</sup><br />(7.173 g<sub>0</sub>)
         escape_velocity: 192.466 km/s<br />(692,879 km/h)
         rotation_period: 51.890 d
         axial_tilt: 12.31°
         albedo: 0.30
-        temperature: 375 K<br />(102 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0042 Kelniad C V b
         type: Icy
         formationType: Impact formed
@@ -489,14 +489,14 @@ planets:
         radius: 106,747.9 km<br/>(16.755 Yrths)
         surface_area: 1.432 × 10<sup>11</sup> km<sup>2</sup><br/>(280.739 Yrths)
         volume: 5.095 × 10<sup>15</sup> km<sup>3</sup><br/>(4703.866 Yrths)
-        mass: 8.193 × 10<sup>27</sup> kg<br />(222.83642122586647 Yrths)
+        mass: 8.193 × 10<sup>27</sup> kg<br />(1371.873 Yrths)
         density: 1.608 g/cm<sup>3</sup>
         surface_gravity: 47.922 m/s<sup>2</sup><br />(4.887 g<sub>0</sub>)
         escape_velocity: 101.217 km/s<br />(364,383 km/h)
         rotation_period: 72.611 d
         axial_tilt: 18.44°
         albedo: 0.30
-        temperature: 296 K<br />(23 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0042 Kelniad C V c
         type: Icy
         formationType: Accreted
@@ -509,14 +509,14 @@ planets:
         radius: 173,229.1 km<br/>(27.190 Yrths)
         surface_area: 3.771 × 10<sup>11</sup> km<sup>2</sup><br/>(739.310 Yrths)
         volume: 2.177 × 10<sup>16</sup> km<sup>3</sup><br/>(20102.030 Yrths)
-        mass: 3.960 × 10<sup>28</sup> kg<br />(222.83642122586647 Yrths)
+        mass: 3.960 × 10<sup>28</sup> kg<br />(6631.160 Yrths)
         density: 1.819 g/cm<sup>3</sup>
         surface_gravity: 87.960 m/s<sup>2</sup><br />(8.969 g<sub>0</sub>)
         escape_velocity: 174.688 km/s<br />(628,875 km/h)
         rotation_period: 37.394 d
         axial_tilt: 27.45°
         albedo: 0.30
-        temperature: 212 K<br />(-61 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0042 Kelniad C V d
         type: Dwarf planet
         formationType: Captured
@@ -529,14 +529,14 @@ planets:
         radius: 155,602.8 km<br/>(24.424 Yrths)
         surface_area: 3.043 × 10<sup>11</sup> km<sup>2</sup><br/>(596.512 Yrths)
         volume: 1.578 × 10<sup>16</sup> km<sup>3</sup><br/>(14568.981 Yrths)
-        mass: 2.803 × 10<sup>28</sup> kg<br />(222.83642122586647 Yrths)
+        mass: 2.803 × 10<sup>28</sup> kg<br />(4693.500 Yrths)
         density: 1.776 g/cm<sup>3</sup>
         surface_gravity: 77.161 m/s<sup>2</sup><br />(7.868 g<sub>0</sub>)
         escape_velocity: 155.066 km/s<br />(558,239 km/h)
         rotation_period: 51.354 d
         axial_tilt: 23.62°
         albedo: 0.30
-        temperature: 184 K<br />(-90 °C)
+        temperature: 101 K<br />(-172 °C)
       - name: 0042 Kelniad C V e
         type: Asteroid
         formationType: Captured
@@ -549,12 +549,12 @@ planets:
         radius: 144,883.4 km<br/>(22.741 Yrths)
         surface_area: 2.638 × 10<sup>11</sup> km<sup>2</sup><br/>(517.157 Yrths)
         volume: 1.274 × 10<sup>16</sup> km<sup>3</sup><br/>(11760.698 Yrths)
-        mass: 2.529 × 10<sup>28</sup> kg<br />(222.83642122586647 Yrths)
+        mass: 2.529 × 10<sup>28</sup> kg<br />(4235.120 Yrths)
         density: 1.985 g/cm<sup>3</sup>
         surface_gravity: 80.309 m/s<sup>2</sup><br />(8.189 g<sub>0</sub>)
         escape_velocity: 152.652 km/s<br />(549,546 km/h)
         rotation_period: 56.285 d
         axial_tilt: 40.19°
         albedo: 0.30
-        temperature: 109 K<br />(-164 °C)
+        temperature: 101 K<br />(-172 °C)
 ---

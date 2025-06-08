@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7020 Dialkeshiad is a star in the constellation Dialkes
+      7020 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 403.70 ly
 apparent_magnitude: 12.30
 absolute_magnitude: 6.84

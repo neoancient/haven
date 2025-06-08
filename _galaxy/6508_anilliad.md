@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6508 Anilliad is a star in the constellation Anil
+      6508 Anilliad is a star in the constellation <a href="anil.html">Anil</a>
 distance: 274.47 ly
 apparent_magnitude: 9.46
 absolute_magnitude: 4.83

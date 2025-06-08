@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1440 Athiad is a star in the constellation Ath
+      1440 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 298.67 ly
 apparent_magnitude: 10.55
 absolute_magnitude: 5.74

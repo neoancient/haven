@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4067 Arkothiad is a star in the constellation Arkoth
+      4067 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 1280.26 ly
 apparent_magnitude: 12.64
 absolute_magnitude: 4.68

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      6062 Anilliad A is a star in the constellation Anil
+      6062 Anilliad A is a star in the constellation <a href="anil.html">Anil</a>
 distance: 64.06 ly
 apparent_magnitude: 7.76
 absolute_magnitude: 6.29

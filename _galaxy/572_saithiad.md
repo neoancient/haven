@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      572 Saithiad is a star in the constellation Saith
+      572 Saithiad is a star in the constellation <a href="saith.html">Saith</a>
 distance: 968.94 ly
 apparent_magnitude: 11.55
 absolute_magnitude: 4.19

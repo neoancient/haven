@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      832 Nuariad is a star in the constellation Nuari
+      832 Nuariad is a star in the constellation <a href="nuari.html">Nuari</a>
 distance: 294.54 ly
 apparent_magnitude: 9.61
 absolute_magnitude: 4.83

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      272 Keead is a star in the constellation Kee
+      272 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 599.57 ly
 apparent_magnitude: 6.87
 absolute_magnitude: 0.55
@@ -31,14 +31,14 @@ planets:
     radius: 36,557.9 km<br/>(5.738 Yrths)
     surface_area: 1.679 × 10<sup>10</sup> km<sup>2</sup><br/>(32.927 Yrths)
     volume: 2.047 × 10<sup>14</sup> km<sup>3</sup><br/>(188.939 Yrths)
-    mass: 2.471 × 10<sup>26</sup> kg<br />(41.37914476871465 Yrths)
+    mass: 2.471 × 10<sup>26</sup> kg<br />(41.38 Yrths)
     density: 1.207 g/cm<sup>3</sup>
     surface_gravity: 12.324 m/s<sup>2</sup><br />(1.257 g<sub>0</sub>)
     escape_velocity: 30.038 km/s<br />(108,138 km/h)
     rotation_period: 0.326 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 730 K<br />(457 °C)
+    temperature: 665 K<br />(392 °C)
     composition:
       - 78.3215% hydrogen
       - 19.0213% helium
@@ -56,14 +56,14 @@ planets:
         radius: 35,024.4 km<br/>(5.497 Yrths)
         surface_area: 1.542 × 10<sup>10</sup> km<sup>2</sup><br/>(30.222 Yrths)
         volume: 1.800 × 10<sup>14</sup> km<sup>3</sup><br/>(166.146 Yrths)
-        mass: 3.360 × 10<sup>26</sup> kg<br />(41.37914476871465 Yrths)
+        mass: 3.360 × 10<sup>26</sup> kg<br />(56.271 Yrths)
         density: 1.867 g/cm<sup>3</sup>
         surface_gravity: 18.259 m/s<sup>2</sup><br />(1.862 g<sub>0</sub>)
         escape_velocity: 35.788 km/s<br />(128,836 km/h)
         rotation_period: 61.332 d
         axial_tilt: 17.82°
         albedo: 0.30
-        temperature: 3064 K<br />(2791 °C)
+        temperature: 353 K<br />(80 °C)
       - name: 272 Keead I b
         type: Icy
         formationType: Impact formed
@@ -76,14 +76,14 @@ planets:
         radius: 39,390.5 km<br/>(6.183 Yrths)
         surface_area: 1.950 × 10<sup>10</sup> km<sup>2</sup><br/>(38.227 Yrths)
         volume: 2.560 × 10<sup>14</sup> km<sup>3</sup><br/>(236.347 Yrths)
-        mass: 3.995 × 10<sup>26</sup> kg<br />(41.37914476871465 Yrths)
+        mass: 3.995 × 10<sup>26</sup> kg<br />(66.892 Yrths)
         density: 1.560 g/cm<sup>3</sup>
         surface_gravity: 17.160 m/s<sup>2</sup><br />(1.750 g<sub>0</sub>)
         escape_velocity: 36.793 km/s<br />(132,456 km/h)
         rotation_period: 43.918 d
         axial_tilt: 11.87°
         albedo: 0.30
-        temperature: 2922 K<br />(2648 °C)
+        temperature: 353 K<br />(80 °C)
       - name: 272 Keead I c
         type: Ice/rock hybrid
         formationType: Accreted
@@ -96,14 +96,14 @@ planets:
         radius: 54,684.6 km<br/>(8.583 Yrths)
         surface_area: 3.758 × 10<sup>10</sup> km<sup>2</sup><br/>(73.674 Yrths)
         volume: 6.850 × 10<sup>14</sup> km<sup>3</sup><br/>(632.371 Yrths)
-        mass: 1.283 × 10<sup>27</sup> kg<br />(41.37914476871465 Yrths)
+        mass: 1.283 × 10<sup>27</sup> kg<br />(214.795 Yrths)
         density: 1.873 g/cm<sup>3</sup>
         surface_gravity: 28.591 m/s<sup>2</sup><br />(2.915 g<sub>0</sub>)
         escape_velocity: 55.957 km/s<br />(201,446 km/h)
         rotation_period: 46.062 d
         axial_tilt: 10.92°
         albedo: 0.30
-        temperature: 2786 K<br />(2512 °C)
+        temperature: 353 K<br />(80 °C)
       - name: 272 Keead I d
         type: Icy
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 33,180.3 km<br/>(5.208 Yrths)
         surface_area: 1.383 × 10<sup>10</sup> km<sup>2</sup><br/>(27.123 Yrths)
         volume: 1.530 × 10<sup>14</sup> km<sup>3</sup><br/>(141.259 Yrths)
-        mass: 1.656 × 10<sup>26</sup> kg<br />(41.37914476871465 Yrths)
+        mass: 1.656 × 10<sup>26</sup> kg<br />(27.724 Yrths)
         density: 1.082 g/cm<sup>3</sup>
         surface_gravity: 10.024 m/s<sup>2</sup><br />(1.022 g<sub>0</sub>)
         escape_velocity: 25.809 km/s<br />(92,911 km/h)
         rotation_period: 53.230 d
         axial_tilt: 17.88°
         albedo: 0.30
-        temperature: 2656 K<br />(2383 °C)
+        temperature: 353 K<br />(80 °C)
       - name: 272 Keead I e
         type: Ice/rock hybrid
         formationType: Accreted
@@ -136,35 +136,15 @@ planets:
         radius: 52,269.2 km<br/>(8.204 Yrths)
         surface_area: 3.433 × 10<sup>10</sup> km<sup>2</sup><br/>(67.310 Yrths)
         volume: 5.982 × 10<sup>14</sup> km<sup>3</sup><br/>(552.224 Yrths)
-        mass: 1.349 × 10<sup>27</sup> kg<br />(41.37914476871465 Yrths)
+        mass: 1.349 × 10<sup>27</sup> kg<br />(225.914 Yrths)
         density: 2.255 g/cm<sup>3</sup>
         surface_gravity: 32.914 m/s<sup>2</sup><br />(3.356 g<sub>0</sub>)
         escape_velocity: 58.698 km/s<br />(211,314 km/h)
         rotation_period: 33.420 d
         axial_tilt: 17.43°
         albedo: 0.30
-        temperature: 2532 K<br />(2259 °C)
+        temperature: 353 K<br />(80 °C)
       - name: 272 Keead I f
-        type: Dwarf planet
-        formationType: Accreted
-        aphelion: 12,452,879 km<br />
-        perihelion: 10,175,356 km<br />
-        semi_major_axis: 11,314,118 km<br />
-        eccentricity: 0.101
-        orbital_period: 0.06 d<br />
-        inclination: 3.54°
-        radius: 23,842.4 km<br/>(3.742 Yrths)
-        surface_area: 7.143 × 10<sup>09</sup> km<sup>2</sup><br/>(14.005 Yrths)
-        volume: 5.677 × 10<sup>13</sup> km<sup>3</sup><br/>(52.411 Yrths)
-        mass: 1.371 × 10<sup>26</sup> kg<br />(41.37914476871465 Yrths)
-        density: 2.414 g/cm<sup>3</sup>
-        surface_gravity: 16.069 m/s<sup>2</sup><br />(1.639 g<sub>0</sub>)
-        escape_velocity: 27.700 km/s<br />(99,721 km/h)
-        rotation_period: 37.370 d
-        axial_tilt: 28.17°
-        albedo: 0.30
-        temperature: 2414 K<br />(2141 °C)
-      - name: 272 Keead I g
         type: Rocky
         formationType: Accreted
         aphelion: 14,827,672 km<br />
@@ -176,15 +156,15 @@ planets:
         radius: 25,277.4 km<br/>(3.968 Yrths)
         surface_area: 8.029 × 10<sup>09</sup> km<sup>2</sup><br/>(15.742 Yrths)
         volume: 6.765 × 10<sup>13</sup> km<sup>3</sup><br/>(62.456 Yrths)
-        mass: 2.096 × 10<sup>26</sup> kg<br />(41.37914476871465 Yrths)
+        mass: 2.096 × 10<sup>26</sup> kg<br />(35.099 Yrths)
         density: 3.098 g/cm<sup>3</sup>
         surface_gravity: 21.866 m/s<sup>2</sup><br />(2.230 g<sub>0</sub>)
         escape_velocity: 33.270 km/s<br />(119,774 km/h)
         rotation_period: 29.536 d
         axial_tilt: 8.27°
         albedo: 0.30
-        temperature: 2195 K<br />(1922 °C)
-      - name: 272 Keead I h
+        temperature: 353 K<br />(80 °C)
+      - name: 272 Keead I g
         type: Icy
         formationType: Captured
         aphelion: 17,636,536 km<br />
@@ -196,14 +176,34 @@ planets:
         radius: 35,575.0 km<br/>(5.584 Yrths)
         surface_area: 1.590 × 10<sup>10</sup> km<sup>2</sup><br/>(31.180 Yrths)
         volume: 1.886 × 10<sup>14</sup> km<sup>3</sup><br/>(174.105 Yrths)
-        mass: 3.186 × 10<sup>26</sup> kg<br />(41.37914476871465 Yrths)
+        mass: 3.186 × 10<sup>26</sup> kg<br />(53.349 Yrths)
         density: 1.689 g/cm<sup>3</sup>
         surface_gravity: 16.779 m/s<sup>2</sup><br />(1.711 g<sub>0</sub>)
         escape_velocity: 34.575 km/s<br />(124,472 km/h)
         rotation_period: 38.221 d
         axial_tilt: 15.50°
         albedo: 0.30
-        temperature: 2093 K<br />(1820 °C)
+        temperature: 353 K<br />(80 °C)
+      - name: 272 Keead I h
+        type: Ice/rock hybrid
+        formationType: Impact formed
+        aphelion: 20,396,506 km<br />
+        perihelion: 16,046,493 km<br />
+        semi_major_axis: 18,221,499 km<br />
+        eccentricity: 0.119
+        orbital_period: 0.06 d<br />
+        inclination: 2.18°
+        radius: 22,636.8 km<br/>(3.553 Yrths)
+        surface_area: 6.439 × 10<sup>09</sup> km<sup>2</sup><br/>(12.625 Yrths)
+        volume: 4.859 × 10<sup>13</sup> km<sup>3</sup><br/>(44.856 Yrths)
+        mass: 7.888 × 10<sup>25</sup> kg<br />(13.208 Yrths)
+        density: 1.623 g/cm<sup>3</sup>
+        surface_gravity: 10.260 m/s<sup>2</sup><br />(1.046 g<sub>0</sub>)
+        escape_velocity: 21.567 km/s<br />(77,642 km/h)
+        rotation_period: 48.052 d
+        axial_tilt: 13.27°
+        albedo: 0.30
+        temperature: 353 K<br />(80 °C)
       - name: 272 Keead I i
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -216,14 +216,14 @@ planets:
         radius: 30,397.9 km<br/>(4.771 Yrths)
         surface_area: 1.161 × 10<sup>10</sup> km<sup>2</sup><br/>(22.765 Yrths)
         volume: 1.177 × 10<sup>14</sup> km<sup>3</sup><br/>(108.619 Yrths)
-        mass: 2.621 × 10<sup>26</sup> kg<br />(41.37914476871465 Yrths)
+        mass: 2.621 × 10<sup>26</sup> kg<br />(43.881 Yrths)
         density: 2.227 g/cm<sup>3</sup>
         surface_gravity: 18.903 m/s<sup>2</sup><br />(1.928 g<sub>0</sub>)
         escape_velocity: 33.923 km/s<br />(122,123 km/h)
         rotation_period: 46.726 d
         axial_tilt: 26.32°
         albedo: 0.30
-        temperature: 1730 K<br />(1456 °C)
+        temperature: 353 K<br />(80 °C)
       - name: 272 Keead I j
         type: Icy
         formationType: Accreted
@@ -236,14 +236,14 @@ planets:
         radius: 69,171.1 km<br/>(10.857 Yrths)
         surface_area: 6.013 × 10<sup>10</sup> km<sup>2</sup><br/>(117.878 Yrths)
         volume: 1.386 × 10<sup>15</sup> km<sup>3</sup><br/>(1279.825 Yrths)
-        mass: 1.389 × 10<sup>27</sup> kg<br />(41.37914476871465 Yrths)
+        mass: 1.389 × 10<sup>27</sup> kg<br />(232.533 Yrths)
         density: 1.002 g/cm<sup>3</sup>
         surface_gravity: 19.345 m/s<sup>2</sup><br />(1.973 g<sub>0</sub>)
         escape_velocity: 51.768 km/s<br />(186,363 km/h)
         rotation_period: 81.860 d
         axial_tilt: 20.51°
         albedo: 0.30
-        temperature: 1649 K<br />(1376 °C)
+        temperature: 353 K<br />(80 °C)
   - name: 272 Keead II
     type: Gas giant
     aphelion: 1,451,797,998 km<br />9.705 AU
@@ -255,14 +255,14 @@ planets:
     radius: 226.7 km<br/>(0.036 Yrths)
     surface_area: 6.456 × 10<sup>05</sup> km<sup>2</sup><br/>(0.001 Yrths)
     volume: 4.878 × 10<sup>07</sup> km<sup>3</sup><br/>(0.000 Yrths)
-    mass: 1.733 × 10<sup>27</sup> kg<br />(290.22834446711397 Yrths)
+    mass: 1.733 × 10<sup>27</sup> kg<br />(290.23 Yrths)
     density: 35533423.685 g/cm<sup>3</sup>
     surface_gravity: 2248638.991 m/s<sup>2</sup><br />(229297.364 g<sub>0</sub>)
     escape_velocity: 1010.319 km/s<br />(3,637,150 km/h)
     rotation_period: 0.236 d
     axial_tilt: 0.00°
     albedo: 0.40
-    temperature: 1024 K<br />(751 °C)
+    temperature: 987 K<br />(714 °C)
     composition:
       - 93.1254% hydrogen
       - 4.7678% helium
@@ -280,14 +280,14 @@ planets:
         radius: 253,505.0 km<br/>(39.790 Yrths)
         surface_area: 8.076 × 10<sup>11</sup> km<sup>2</sup><br/>(1583.280 Yrths)
         volume: 6.824 × 10<sup>16</sup> km<sup>3</sup><br/>(62999.434 Yrths)
-        mass: 1.657 × 10<sup>29</sup> kg<br />(290.22834446711397 Yrths)
+        mass: 1.657 × 10<sup>29</sup> kg<br />(27750.370 Yrths)
         density: 2.429 g/cm<sup>3</sup>
         surface_gravity: 171.883 m/s<sup>2</sup><br />(17.527 g<sub>0</sub>)
         escape_velocity: 295.406 km/s<br />(1,063,461 km/h)
         rotation_period: 40.001 d
         axial_tilt: 21.38°
         albedo: 0.30
-        temperature: 1514 K<br />(1241 °C)
+        temperature: 253 K<br />(-21 °C)
       - name: 272 Keead II b
         type: Icy
         formationType: Accreted
@@ -300,14 +300,14 @@ planets:
         radius: 281,276.0 km<br/>(44.149 Yrths)
         surface_area: 9.942 × 10<sup>11</sup> km<sup>2</sup><br/>(1949.172 Yrths)
         volume: 9.322 × 10<sup>16</sup> km<sup>3</sup><br/>(86054.849 Yrths)
-        mass: 7.542 × 10<sup>28</sup> kg<br />(290.22834446711397 Yrths)
+        mass: 7.542 × 10<sup>28</sup> kg<br />(12628.151 Yrths)
         density: 0.809 g/cm<sup>3</sup>
         surface_gravity: 63.535 m/s<sup>2</sup><br />(6.479 g<sub>0</sub>)
         escape_velocity: 189.183 km/s<br />(681,057 km/h)
         rotation_period: 58.653 d
         axial_tilt: 18.95°
         albedo: 0.30
-        temperature: 1084 K<br />(811 °C)
+        temperature: 253 K<br />(-21 °C)
       - name: 272 Keead II c
         type: Icy
         formationType: Impact formed
@@ -320,14 +320,14 @@ planets:
         radius: 284,453.3 km<br/>(44.648 Yrths)
         surface_area: 1.017 × 10<sup>12</sup> km<sup>2</sup><br/>(1993.457 Yrths)
         volume: 9.641 × 10<sup>16</sup> km<sup>3</sup><br/>(89004.128 Yrths)
-        mass: 1.059 × 10<sup>29</sup> kg<br />(290.22834446711397 Yrths)
+        mass: 1.059 × 10<sup>29</sup> kg<br />(17728.884 Yrths)
         density: 1.098 g/cm<sup>3</sup>
         surface_gravity: 87.216 m/s<sup>2</sup><br />(8.894 g<sub>0</sub>)
         escape_velocity: 222.901 km/s<br />(802,445 km/h)
         rotation_period: 87.789 d
         axial_tilt: 16.51°
         albedo: 0.30
-        temperature: 815 K<br />(542 °C)
+        temperature: 253 K<br />(-21 °C)
       - name: 272 Keead II d
         type: Ice/rock hybrid
         formationType: Accreted
@@ -340,14 +340,14 @@ planets:
         radius: 272,710.8 km<br/>(42.805 Yrths)
         surface_area: 9.346 × 10<sup>11</sup> km<sup>2</sup><br/>(1832.270 Yrths)
         volume: 8.496 × 10<sup>16</sup> km<sup>3</sup><br/>(78430.378 Yrths)
-        mass: 1.728 × 10<sup>29</sup> kg<br />(290.22834446711397 Yrths)
+        mass: 1.728 × 10<sup>29</sup> kg<br />(28943.104 Yrths)
         density: 2.035 g/cm<sup>3</sup>
         surface_gravity: 154.909 m/s<sup>2</sup><br />(15.796 g<sub>0</sub>)
         escape_velocity: 290.870 km/s<br />(1,047,132 km/h)
         rotation_period: 58.313 d
         axial_tilt: 18.29°
         albedo: 0.30
-        temperature: 642 K<br />(369 °C)
+        temperature: 253 K<br />(-21 °C)
       - name: 272 Keead II e
         type: Ice/rock hybrid
         formationType: Captured
@@ -360,14 +360,14 @@ planets:
         radius: 210,472.9 km<br/>(33.036 Yrths)
         surface_area: 5.567 × 10<sup>11</sup> km<sup>2</sup><br/>(1091.383 Yrths)
         volume: 3.906 × 10<sup>16</sup> km<sup>3</sup><br/>(36055.009 Yrths)
-        mass: 9.246 × 10<sup>28</sup> kg<br />(290.22834446711397 Yrths)
+        mass: 9.246 × 10<sup>28</sup> kg<br />(15482.376 Yrths)
         density: 2.367 g/cm<sup>3</sup>
         surface_gravity: 139.117 m/s<sup>2</sup><br />(14.186 g<sub>0</sub>)
         escape_velocity: 242.158 km/s<br />(871,768 km/h)
         rotation_period: 36.742 d
         axial_tilt: 27.76°
         albedo: 0.30
-        temperature: 506 K<br />(233 °C)
+        temperature: 253 K<br />(-21 °C)
       - name: 272 Keead II f
         type: Icy
         formationType: Impact formed
@@ -380,14 +380,14 @@ planets:
         radius: 247,168.3 km<br/>(38.796 Yrths)
         surface_area: 7.677 × 10<sup>11</sup> km<sup>2</sup><br/>(1505.117 Yrths)
         volume: 6.325 × 10<sup>16</sup> km<sup>3</sup><br/>(58392.276 Yrths)
-        mass: 7.570 × 10<sup>28</sup> kg<br />(290.22834446711397 Yrths)
+        mass: 7.570 × 10<sup>28</sup> kg<br />(12675.364 Yrths)
         density: 1.197 g/cm<sup>3</sup>
         surface_gravity: 82.587 m/s<sup>2</sup><br />(8.422 g<sub>0</sub>)
         escape_velocity: 202.191 km/s<br />(727,887 km/h)
         rotation_period: 83.441 d
         axial_tilt: 18.88°
         albedo: 0.30
-        temperature: 345 K<br />(72 °C)
+        temperature: 253 K<br />(-21 °C)
       - name: 272 Keead II g
         type: Rocky
         formationType: Accreted
@@ -400,12 +400,12 @@ planets:
         radius: 195,429.1 km<br/>(30.675 Yrths)
         surface_area: 4.799 × 10<sup>11</sup> km<sup>2</sup><br/>(940.943 Yrths)
         volume: 3.126 × 10<sup>16</sup> km<sup>3</sup><br/>(28863.245 Yrths)
-        mass: 9.855 × 10<sup>28</sup> kg<br />(290.22834446711397 Yrths)
+        mass: 9.855 × 10<sup>28</sup> kg<br />(16501.518 Yrths)
         density: 3.152 g/cm<sup>3</sup>
         surface_gravity: 171.981 m/s<sup>2</sup><br />(17.537 g<sub>0</sub>)
         escape_velocity: 259.445 km/s<br />(934,001 km/h)
         rotation_period: 32.534 d
         axial_tilt: 17.37°
         albedo: 0.30
-        temperature: 314 K<br />(41 °C)
+        temperature: 253 K<br />(-21 °C)
 ---

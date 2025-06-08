@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      146 Tanashad is a star in the constellation Tanas
+      146 Tanashad is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 167.74 ly
 apparent_magnitude: 19.96
 absolute_magnitude: 16.41

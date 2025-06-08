@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3428 Noniashad A is a star in the constellation Nonias
+      3428 Noniashad A is a star in the constellation <a href="nonias.html">Nonias</a>
 distance: 339.89 ly
 apparent_magnitude: 7.97
 absolute_magnitude: 2.88

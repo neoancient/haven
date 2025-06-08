@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      747 Ratharshinniad is a star in the constellation Ratharshin
+      747 Ratharshinniad is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 192.09 ly
 apparent_magnitude: 9.10
 absolute_magnitude: 5.25

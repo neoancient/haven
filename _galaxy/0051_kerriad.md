@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0051 Kerriad is a star in the constellation Kerr
+      0051 Kerriad is a star in the constellation <a href="kerr.html">Kerr</a>
 distance: 48.88 ly
 apparent_magnitude: 6.24
 absolute_magnitude: 5.36
@@ -31,14 +31,14 @@ planets:
     radius: 5,435.5 km<br/>(0.853 Yrths)
     surface_area: 3.713 × 10<sup>08</sup> km<sup>2</sup><br/>(0.728 Yrths)
     volume: 6.727 × 10<sup>11</sup> km<sup>3</sup><br/>(0.621 Yrths)
-    mass: 6.432 × 10<sup>24</sup> kg<br />(1.0770176364952586 Yrths)
+    mass: 6.432 × 10<sup>24</sup> kg<br />(1.08 Yrths)
     density: 9.562 g/cm<sup>3</sup>
     surface_gravity: 14.510 m/s<sup>2</sup><br />(1.480 g<sub>0</sub>)
     escape_velocity: 12.568 km/s<br />(45,245 km/h)
     rotation_period: 3.027 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 354 K<br />(81 °C)
+    temperature: 359 K<br />(86 °C)
     surface_pressure: 14 kPa<br />(0 atm)
     composition:
       - 70.5544% nitrogen
@@ -56,14 +56,14 @@ planets:
         radius: 2,456.4 km<br/>(0.386 Yrths)
         surface_area: 7.582 × 10<sup>07</sup> km<sup>2</sup><br/>(0.149 Yrths)
         volume: 6.208 × 10<sup>10</sup> km<sup>3</sup><br/>(0.057 Yrths)
-        mass: 1.738 × 10<sup>23</sup> kg<br />(1.0770176364952586 Yrths)
+        mass: 1.738 × 10<sup>23</sup> kg<br />(0.029 Yrths)
         density: 2.800 g/cm<sup>3</sup>
         surface_gravity: 1.920 m/s<sup>2</sup><br />(0.196 g<sub>0</sub>)
         escape_velocity: 3.073 km/s<br />(11,065 km/h)
         rotation_period: 57.625 d
         axial_tilt: 20.94°
         albedo: 0.30
-        temperature: 4616 K<br />(4343 °C)
+        temperature: 326 K<br />(53 °C)
   - name: 0051 Kerriad II
     type: Large terrestrial
     aphelion: 128,910,230 km<br />0.862 AU
@@ -75,14 +75,14 @@ planets:
     radius: 11,016.8 km<br/>(1.729 Yrths)
     surface_area: 1.525 × 10<sup>09</sup> km<sup>2</sup><br/>(2.990 Yrths)
     volume: 5.601 × 10<sup>12</sup> km<sup>3</sup><br/>(5.171 Yrths)
-    mass: 3.952 × 10<sup>25</sup> kg<br />(6.616747652668153 Yrths)
+    mass: 3.952 × 10<sup>25</sup> kg<br />(6.62 Yrths)
     density: 7.055 g/cm<sup>3</sup>
     surface_gravity: 21.700 m/s<sup>2</sup><br />(2.213 g<sub>0</sub>)
     escape_velocity: 21.881 km/s<br />(78,772 km/h)
     rotation_period: 1.184 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 315 K<br />(42 °C)
+    temperature: 398 K<br />(125 °C)
     surface_pressure: 119 kPa<br />(1 atm)
     composition:
       - 76.3188% nitrogen
@@ -101,14 +101,14 @@ planets:
         radius: 11,933.0 km<br/>(1.873 Yrths)
         surface_area: 1.789 × 10<sup>09</sup> km<sup>2</sup><br/>(3.508 Yrths)
         volume: 7.118 × 10<sup>12</sup> km<sup>3</sup><br/>(6.571 Yrths)
-        mass: 1.832 × 10<sup>25</sup> kg<br />(6.616747652668153 Yrths)
+        mass: 1.832 × 10<sup>25</sup> kg<br />(3.068 Yrths)
         density: 2.574 g/cm<sup>3</sup>
         surface_gravity: 8.575 m/s<sup>2</sup><br />(0.874 g<sub>0</sub>)
         escape_velocity: 14.315 km/s<br />(51,535 km/h)
         rotation_period: 35.170 d
         axial_tilt: 20.93°
         albedo: 0.30
-        temperature: 2719 K<br />(2446 °C)
+        temperature: 249 K<br />(-24 °C)
   - name: 0051 Kerriad III
     type: Large terrestrial
     aphelion: 220,949,068 km<br />1.477 AU
@@ -120,14 +120,14 @@ planets:
     radius: 9,298.9 km<br/>(1.460 Yrths)
     surface_area: 1.087 × 10<sup>09</sup> km<sup>2</sup><br/>(2.130 Yrths)
     volume: 3.368 × 10<sup>12</sup> km<sup>3</sup><br/>(3.109 Yrths)
-    mass: 2.544 × 10<sup>25</sup> kg<br />(4.2602827313707605 Yrths)
+    mass: 2.544 × 10<sup>25</sup> kg<br />(4.26 Yrths)
     density: 7.554 g/cm<sup>3</sup>
     surface_gravity: 19.612 m/s<sup>2</sup><br />(2.000 g<sub>0</sub>)
     escape_velocity: 19.111 km/s<br />(68,799 km/h)
     rotation_period: 1.077 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 289 K<br />(16 °C)
+    temperature: 676 K<br />(403 °C)
     surface_pressure: 195 kPa<br />(2 atm)
     composition:
       - 63.4009% carbon dioxide
@@ -147,14 +147,14 @@ planets:
         radius: 5,344.1 km<br/>(0.839 Yrths)
         surface_area: 3.589 × 10<sup>08</sup> km<sup>2</sup><br/>(0.704 Yrths)
         volume: 6.393 × 10<sup>11</sup> km<sup>3</sup><br/>(0.590 Yrths)
-        mass: 2.132 × 10<sup>24</sup> kg<br />(4.2602827313707605 Yrths)
+        mass: 2.132 × 10<sup>24</sup> kg<br />(0.357 Yrths)
         density: 3.334 g/cm<sup>3</sup>
         surface_gravity: 4.975 m/s<sup>2</sup><br />(0.507 g<sub>0</sub>)
         escape_velocity: 7.297 km/s<br />(26,269 km/h)
         rotation_period: 49.853 d
         axial_tilt: 13.56°
         albedo: 0.30
-        temperature: 2605 K<br />(2331 °C)
+        temperature: 191 K<br />(-83 °C)
       - name: 0051 Kerriad III b
         type: Asteroid
         formationType: Captured
@@ -167,14 +167,14 @@ planets:
         radius: 5,427.4 km<br/>(0.852 Yrths)
         surface_area: 3.702 × 10<sup>08</sup> km<sup>2</sup><br/>(0.726 Yrths)
         volume: 6.697 × 10<sup>11</sup> km<sup>3</sup><br/>(0.618 Yrths)
-        mass: 2.089 × 10<sup>24</sup> kg<br />(4.2602827313707605 Yrths)
+        mass: 2.089 × 10<sup>24</sup> kg<br />(0.350 Yrths)
         density: 3.119 g/cm<sup>3</sup>
         surface_gravity: 4.726 m/s<sup>2</sup><br />(0.482 g<sub>0</sub>)
         escape_velocity: 7.167 km/s<br />(25,802 km/h)
         rotation_period: 55.908 d
         axial_tilt: 20.16°
         albedo: 0.30
-        temperature: 2483 K<br />(2210 °C)
+        temperature: 191 K<br />(-83 °C)
   - name: 0051 Kerriad IV
     type: Terrestrial
     aphelion: 376,861,965 km<br />2.519 AU
@@ -186,7 +186,7 @@ planets:
     radius: 8,809.5 km<br/>(1.383 Yrths)
     surface_area: 9.752 × 10<sup>08</sup> km<sup>2</sup><br/>(1.912 Yrths)
     volume: 2.864 × 10<sup>12</sup> km<sup>3</sup><br/>(2.644 Yrths)
-    mass: 1.366 × 10<sup>25</sup> kg<br />(2.2876480642733 Yrths)
+    mass: 1.366 × 10<sup>25</sup> kg<br />(2.29 Yrths)
     density: 4.771 g/cm<sup>3</sup>
     surface_gravity: 11.733 m/s<sup>2</sup><br />(1.196 g<sub>0</sub>)
     escape_velocity: 14.388 km/s<br />(51,796 km/h)
@@ -207,14 +207,14 @@ planets:
         radius: 2,542.1 km<br/>(0.399 Yrths)
         surface_area: 8.121 × 10<sup>07</sup> km<sup>2</sup><br/>(0.159 Yrths)
         volume: 6.881 × 10<sup>10</sup> km<sup>3</sup><br/>(0.064 Yrths)
-        mass: 8.751 × 10<sup>22</sup> kg<br />(2.2876480642733 Yrths)
+        mass: 8.751 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 1.272 g/cm<sup>3</sup>
         surface_gravity: 0.903 m/s<sup>2</sup><br />(0.092 g<sub>0</sub>)
         escape_velocity: 2.144 km/s<br />(7,717 km/h)
         rotation_period: 71.599 d
         axial_tilt: 12.33°
         albedo: 0.30
-        temperature: 1803 K<br />(1529 °C)
+        temperature: 146 K<br />(-127 °C)
       - name: 0051 Kerriad IV b
         type: Asteroid
         formationType: Captured
@@ -227,14 +227,14 @@ planets:
         radius: 5,984.7 km<br/>(0.939 Yrths)
         surface_area: 4.501 × 10<sup>08</sup> km<sup>2</sup><br/>(0.882 Yrths)
         volume: 8.979 × 10<sup>11</sup> km<sup>3</sup><br/>(0.829 Yrths)
-        mass: 1.808 × 10<sup>24</sup> kg<br />(2.2876480642733 Yrths)
+        mass: 1.808 × 10<sup>24</sup> kg<br />(0.303 Yrths)
         density: 2.014 g/cm<sup>3</sup>
         surface_gravity: 3.365 m/s<sup>2</sup><br />(0.343 g<sub>0</sub>)
         escape_velocity: 6.351 km/s<br />(22,862 km/h)
         rotation_period: 42.526 d
         axial_tilt: 33.37°
         albedo: 0.30
-        temperature: 1719 K<br />(1445 °C)
+        temperature: 146 K<br />(-127 °C)
   - name: 0051 Kerriad V
     type: Large terrestrial
     aphelion: 644,982,196 km<br />4.311 AU
@@ -246,14 +246,14 @@ planets:
     radius: 8,571.4 km<br/>(1.345 Yrths)
     surface_area: 9.232 × 10<sup>08</sup> km<sup>2</sup><br/>(1.810 Yrths)
     volume: 2.638 × 10<sup>12</sup> km<sup>3</sup><br/>(2.435 Yrths)
-    mass: 1.611 × 10<sup>25</sup> kg<br />(2.6978024747576304 Yrths)
+    mass: 1.611 × 10<sup>25</sup> kg<br />(2.70 Yrths)
     density: 6.108 g/cm<sup>3</sup>
     surface_gravity: 14.616 m/s<sup>2</sup><br />(1.490 g<sub>0</sub>)
     escape_velocity: 15.840 km/s<br />(57,024 km/h)
     rotation_period: 0.881 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 141 K<br />(-132 °C)
+    temperature: 135 K<br />(-138 °C)
     surface_pressure: 222 kPa<br />(2 atm)
     composition:
       - 73.3616% nitrogen
@@ -272,14 +272,14 @@ planets:
         radius: 2,928.9 km<br/>(0.460 Yrths)
         surface_area: 1.078 × 10<sup>08</sup> km<sup>2</sup><br/>(0.211 Yrths)
         volume: 1.052 × 10<sup>11</sup> km<sup>3</sup><br/>(0.097 Yrths)
-        mass: 3.214 × 10<sup>23</sup> kg<br />(2.6978024747576304 Yrths)
+        mass: 3.214 × 10<sup>23</sup> kg<br />(0.054 Yrths)
         density: 3.054 g/cm<sup>3</sup>
         surface_gravity: 2.497 m/s<sup>2</sup><br />(0.255 g<sub>0</sub>)
         escape_velocity: 3.827 km/s<br />(13,778 km/h)
         rotation_period: 34.891 d
         axial_tilt: 7.24°
         albedo: 0.30
-        temperature: 1357 K<br />(1084 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 0051 Kerriad V b
         type: Icy
         formationType: Captured
@@ -292,14 +292,14 @@ planets:
         radius: 2,337.8 km<br/>(0.367 Yrths)
         surface_area: 6.868 × 10<sup>07</sup> km<sup>2</sup><br/>(0.135 Yrths)
         volume: 5.352 × 10<sup>10</sup> km<sup>3</sup><br/>(0.049 Yrths)
-        mass: 4.599 × 10<sup>22</sup> kg<br />(2.6978024747576304 Yrths)
+        mass: 4.599 × 10<sup>22</sup> kg<br />(0.008 Yrths)
         density: 0.859 g/cm<sup>3</sup>
         surface_gravity: 0.561 m/s<sup>2</sup><br />(0.057 g<sub>0</sub>)
         escape_velocity: 1.621 km/s<br />(5,834 km/h)
         rotation_period: 55.474 d
         axial_tilt: 19.11°
         albedo: 0.30
-        temperature: 1294 K<br />(1021 °C)
+        temperature: 111 K<br />(-162 °C)
       - name: 0051 Kerriad V c
         type: Rocky
         formationType: Captured
@@ -312,14 +312,14 @@ planets:
         radius: 6,845.7 km<br/>(1.075 Yrths)
         surface_area: 5.889 × 10<sup>08</sup> km<sup>2</sup><br/>(1.155 Yrths)
         volume: 1.344 × 10<sup>12</sup> km<sup>3</sup><br/>(1.241 Yrths)
-        mass: 3.786 × 10<sup>24</sup> kg<br />(2.6978024747576304 Yrths)
+        mass: 3.786 × 10<sup>24</sup> kg<br />(0.634 Yrths)
         density: 2.817 g/cm<sup>3</sup>
         surface_gravity: 5.385 m/s<sup>2</sup><br />(0.549 g<sub>0</sub>)
         escape_velocity: 8.592 km/s<br />(30,932 km/h)
         rotation_period: 52.890 d
         axial_tilt: 16.74°
         albedo: 0.30
-        temperature: 1234 K<br />(961 °C)
+        temperature: 111 K<br />(-162 °C)
   - name: 0051 Kerriad VI
     type: Gas dwarf
     aphelion: 1,106,021,852 km<br />7.393 AU
@@ -331,14 +331,14 @@ planets:
     radius: 9,822.4 km<br/>(1.542 Yrths)
     surface_area: 1.212 × 10<sup>09</sup> km<sup>2</sup><br/>(2.377 Yrths)
     volume: 3.970 × 10<sup>12</sup> km<sup>3</sup><br/>(3.665 Yrths)
-    mass: 6.900 × 10<sup>24</sup> kg<br />(1.1553210653073527 Yrths)
+    mass: 6.900 × 10<sup>24</sup> kg<br />(1.16 Yrths)
     density: 1.738 g/cm<sup>3</sup>
     surface_gravity: 4.767 m/s<sup>2</sup><br />(0.486 g<sub>0</sub>)
     escape_velocity: 9.683 km/s<br />(34,860 km/h)
     rotation_period: 0.684 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 124 K<br />(-150 °C)
+    temperature: 109 K<br />(-164 °C)
     composition:
       - 52.9196% hydrogen
       - 47.0804% helium
@@ -355,14 +355,14 @@ planets:
         radius: 3,648.4 km<br/>(0.573 Yrths)
         surface_area: 1.673 × 10<sup>08</sup> km<sup>2</sup><br/>(0.328 Yrths)
         volume: 2.034 × 10<sup>11</sup> km<sup>3</sup><br/>(0.188 Yrths)
-        mass: 3.747 × 10<sup>23</sup> kg<br />(1.1553210653073527 Yrths)
+        mass: 3.747 × 10<sup>23</sup> kg<br />(0.063 Yrths)
         density: 1.842 g/cm<sup>3</sup>
         surface_gravity: 1.876 m/s<sup>2</sup><br />(0.191 g<sub>0</sub>)
         escape_velocity: 3.703 km/s<br />(13,330 km/h)
         rotation_period: 68.519 d
         axial_tilt: 26.72°
         albedo: 0.30
-        temperature: 1180 K<br />(907 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0051 Kerriad VI b
         type: Ice/rock hybrid
         formationType: Accreted
@@ -375,14 +375,14 @@ planets:
         radius: 2,237.8 km<br/>(0.351 Yrths)
         surface_area: 6.293 × 10<sup>07</sup> km<sup>2</sup><br/>(0.123 Yrths)
         volume: 4.694 × 10<sup>10</sup> km<sup>3</sup><br/>(0.043 Yrths)
-        mass: 9.916 × 10<sup>22</sup> kg<br />(1.1553210653073527 Yrths)
+        mass: 9.916 × 10<sup>22</sup> kg<br />(0.017 Yrths)
         density: 2.113 g/cm<sup>3</sup>
         surface_gravity: 1.320 m/s<sup>2</sup><br />(0.135 g<sub>0</sub>)
         escape_velocity: 2.432 km/s<br />(8,755 km/h)
         rotation_period: 42.187 d
         axial_tilt: 18.14°
         albedo: 0.30
-        temperature: 1125 K<br />(852 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0051 Kerriad VI c
         type: Asteroid
         formationType: Captured
@@ -395,14 +395,14 @@ planets:
         radius: 2,880.1 km<br/>(0.452 Yrths)
         surface_area: 1.042 × 10<sup>08</sup> km<sup>2</sup><br/>(0.204 Yrths)
         volume: 1.001 × 10<sup>11</sup> km<sup>3</sup><br/>(0.092 Yrths)
-        mass: 2.233 × 10<sup>23</sup> kg<br />(1.1553210653073527 Yrths)
+        mass: 2.233 × 10<sup>23</sup> kg<br />(0.037 Yrths)
         density: 2.231 g/cm<sup>3</sup>
         surface_gravity: 1.794 m/s<sup>2</sup><br />(0.183 g<sub>0</sub>)
         escape_velocity: 3.217 km/s<br />(11,581 km/h)
         rotation_period: 34.601 d
         axial_tilt: 13.82°
         albedo: 0.30
-        temperature: 1073 K<br />(800 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0051 Kerriad VI d
         type: Icy
         formationType: Captured
@@ -415,14 +415,14 @@ planets:
         radius: 3,880.6 km<br/>(0.609 Yrths)
         surface_area: 1.892 × 10<sup>08</sup> km<sup>2</sup><br/>(0.371 Yrths)
         volume: 2.448 × 10<sup>11</sup> km<sup>3</sup><br/>(0.226 Yrths)
-        mass: 3.396 × 10<sup>23</sup> kg<br />(1.1553210653073527 Yrths)
+        mass: 3.396 × 10<sup>23</sup> kg<br />(0.057 Yrths)
         density: 1.387 g/cm<sup>3</sup>
         surface_gravity: 1.503 m/s<sup>2</sup><br />(0.153 g<sub>0</sub>)
         escape_velocity: 3.418 km/s<br />(12,304 km/h)
         rotation_period: 53.683 d
         axial_tilt: 22.56°
         albedo: 0.30
-        temperature: 1023 K<br />(750 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0051 Kerriad VI e
         type: Icy
         formationType: Accreted
@@ -435,14 +435,14 @@ planets:
         radius: 3,420.8 km<br/>(0.537 Yrths)
         surface_area: 1.471 × 10<sup>08</sup> km<sup>2</sup><br/>(0.288 Yrths)
         volume: 1.677 × 10<sup>11</sup> km<sup>3</sup><br/>(0.155 Yrths)
-        mass: 3.122 × 10<sup>23</sup> kg<br />(1.1553210653073527 Yrths)
+        mass: 3.122 × 10<sup>23</sup> kg<br />(0.052 Yrths)
         density: 1.862 g/cm<sup>3</sup>
         surface_gravity: 1.778 m/s<sup>2</sup><br />(0.181 g<sub>0</sub>)
         escape_velocity: 3.490 km/s<br />(12,566 km/h)
         rotation_period: 50.685 d
         axial_tilt: 18.57°
         albedo: 0.30
-        temperature: 975 K<br />(702 °C)
+        temperature: 85 K<br />(-188 °C)
       - name: 0051 Kerriad VI f
         type: Ice/rock hybrid
         formationType: Captured
@@ -455,12 +455,12 @@ planets:
         radius: 2,205.5 km<br/>(0.346 Yrths)
         surface_area: 6.113 × 10<sup>07</sup> km<sup>2</sup><br/>(0.120 Yrths)
         volume: 4.494 × 10<sup>10</sup> km<sup>3</sup><br/>(0.041 Yrths)
-        mass: 9.045 × 10<sup>22</sup> kg<br />(1.1553210653073527 Yrths)
+        mass: 9.045 × 10<sup>22</sup> kg<br />(0.015 Yrths)
         density: 2.013 g/cm<sup>3</sup>
         surface_gravity: 1.239 m/s<sup>2</sup><br />(0.126 g<sub>0</sub>)
         escape_velocity: 2.340 km/s<br />(8,423 km/h)
         rotation_period: 65.603 d
         axial_tilt: 16.58°
         albedo: 0.30
-        temperature: 887 K<br />(614 °C)
+        temperature: 85 K<br />(-188 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4652 Geardiad is a star in the constellation Geard
+      4652 Geardiad is a star in the constellation <a href="geard.html">Geard</a>
 distance: 333.48 ly
 apparent_magnitude: 9.78
 absolute_magnitude: 4.73

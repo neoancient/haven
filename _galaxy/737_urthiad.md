@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      737 Urthiad is a star in the constellation Urth
+      737 Urthiad is a star in the constellation <a href="urth.html">Urth</a>
 distance: 992.98 ly
 apparent_magnitude: 14.95
 absolute_magnitude: 7.54

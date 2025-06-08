@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5169 Shanniashiad is a star in the constellation Shannias
+      5169 Shanniashiad is a star in the constellation <a href="shannias.html">Shannias</a>
 distance: 605.94 ly
 apparent_magnitude: 12.18
 absolute_magnitude: 5.83

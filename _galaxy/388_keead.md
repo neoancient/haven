@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      388 Keead is a star in the constellation Kee
+      388 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 1055.52 ly
 apparent_magnitude: 12.67
 absolute_magnitude: 5.12

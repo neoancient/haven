@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      θ Orgarriad is a star in the constellation Orgar
+      θ Orgarriad is a star in the constellation <a href="orgar.html">Orgar</a>
 distance: 230.62 ly
 apparent_magnitude: 4.60
 absolute_magnitude: 0.35
@@ -31,14 +31,14 @@ planets:
     radius: 9,012.9 km<br/>(1.415 Yrths)
     surface_area: 1.021 × 10<sup>09</sup> km<sup>2</sup><br/>(2.001 Yrths)
     volume: 3.067 × 10<sup>12</sup> km<sup>3</sup><br/>(2.831 Yrths)
-    mass: 1.569 × 10<sup>25</sup> kg<br />(2.627811642544047 Yrths)
+    mass: 1.569 × 10<sup>25</sup> kg<br />(2.63 Yrths)
     density: 5.117 g/cm<sup>3</sup>
     surface_gravity: 12.877 m/s<sup>2</sup><br />(1.313 g<sub>0</sub>)
     escape_velocity: 15.246 km/s<br />(54,884 km/h)
     rotation_period: 0.789 d
     axial_tilt: 0.00°
     albedo: 0.30
-    temperature: 887 K<br />(614 °C)
+    temperature: 2369 K<br />(2096 °C)
     surface_pressure: 146 kPa<br />(1 atm)
     composition:
       - 88.9399% carbon dioxide
@@ -58,14 +58,14 @@ planets:
         radius: 5,620.8 km<br/>(0.882 Yrths)
         surface_area: 3.970 × 10<sup>08</sup> km<sup>2</sup><br/>(0.778 Yrths)
         volume: 7.438 × 10<sup>11</sup> km<sup>3</sup><br/>(0.687 Yrths)
-        mass: 1.850 × 10<sup>24</sup> kg<br />(2.627811642544047 Yrths)
+        mass: 1.850 × 10<sup>24</sup> kg<br />(0.310 Yrths)
         density: 2.487 g/cm<sup>3</sup>
         surface_gravity: 3.903 m/s<sup>2</sup><br />(0.398 g<sub>0</sub>)
         escape_velocity: 6.629 km/s<br />(23,863 km/h)
         rotation_period: 37.325 d
         axial_tilt: 33.74°
         albedo: 0.30
-        temperature: 9386 K<br />(9113 °C)
+        temperature: 552 K<br />(279 °C)
       - name: θ Orgarriad I b
         type: Icy
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 5,156.9 km<br/>(0.809 Yrths)
         surface_area: 3.342 × 10<sup>08</sup> km<sup>2</sup><br/>(0.655 Yrths)
         volume: 5.745 × 10<sup>11</sup> km<sup>3</sup><br/>(0.530 Yrths)
-        mass: 6.047 × 10<sup>23</sup> kg<br />(2.627811642544047 Yrths)
+        mass: 6.047 × 10<sup>23</sup> kg<br />(0.101 Yrths)
         density: 1.053 g/cm<sup>3</sup>
         surface_gravity: 1.516 m/s<sup>2</sup><br />(0.155 g<sub>0</sub>)
         escape_velocity: 3.956 km/s<br />(14,243 km/h)
         rotation_period: 49.633 d
         axial_tilt: 18.40°
         albedo: 0.30
-        temperature: 8949 K<br />(8676 °C)
+        temperature: 552 K<br />(279 °C)
   - name: θ Orgarriad II
     type: Gas dwarf
     aphelion: 517,038,535 km<br />3.456 AU
@@ -97,14 +97,14 @@ planets:
     radius: 18,931.0 km<br/>(2.971 Yrths)
     surface_area: 4.504 × 10<sup>09</sup> km<sup>2</sup><br/>(8.829 Yrths)
     volume: 2.842 × 10<sup>13</sup> km<sup>3</sup><br/>(26.236 Yrths)
-    mass: 7.060 × 10<sup>25</sup> kg<br />(11.822123451552814 Yrths)
+    mass: 7.060 × 10<sup>25</sup> kg<br />(11.82 Yrths)
     density: 2.484 g/cm<sup>3</sup>
     surface_gravity: 13.131 m/s<sup>2</sup><br />(1.339 g<sub>0</sub>)
     escape_velocity: 22.312 km/s<br />(80,323 km/h)
     rotation_period: 0.404 d
     axial_tilt: 0.00°
     albedo: 0.60
-    temperature: 651 K<br />(377 °C)
+    temperature: 604 K<br />(331 °C)
     composition:
       - 62.6542% hydrogen
       - 28.5200% helium
@@ -125,14 +125,14 @@ planets:
         radius: 11,913.6 km<br/>(1.870 Yrths)
         surface_area: 1.784 × 10<sup>09</sup> km<sup>2</sup><br/>(3.497 Yrths)
         volume: 7.083 × 10<sup>12</sup> km<sup>3</sup><br/>(6.539 Yrths)
-        mass: 2.158 × 10<sup>25</sup> kg<br />(11.822123451552814 Yrths)
+        mass: 2.158 × 10<sup>25</sup> kg<br />(3.613 Yrths)
         density: 3.046 g/cm<sup>3</sup>
         surface_gravity: 10.132 m/s<sup>2</sup><br />(1.033 g<sub>0</sub>)
         escape_velocity: 15.548 km/s<br />(55,974 km/h)
         rotation_period: 30.167 d
         axial_tilt: 53.53°
         albedo: 0.30
-        temperature: 4045 K<br />(3772 °C)
+        temperature: 395 K<br />(122 °C)
       - name: θ Orgarriad II b
         type: Ice/rock hybrid
         formationType: Captured
@@ -145,14 +145,14 @@ planets:
         radius: 9,492.1 km<br/>(1.490 Yrths)
         surface_area: 1.132 × 10<sup>09</sup> km<sup>2</sup><br/>(2.220 Yrths)
         volume: 3.582 × 10<sup>12</sup> km<sup>3</sup><br/>(3.307 Yrths)
-        mass: 7.141 × 10<sup>24</sup> kg<br />(11.822123451552814 Yrths)
+        mass: 7.141 × 10<sup>24</sup> kg<br />(1.196 Yrths)
         density: 1.993 g/cm<sup>3</sup>
         surface_gravity: 5.283 m/s<sup>2</sup><br />(0.539 g<sub>0</sub>)
         escape_velocity: 10.021 km/s<br />(36,077 km/h)
         rotation_period: 41.394 d
         axial_tilt: 19.65°
         albedo: 0.30
-        temperature: 3857 K<br />(3583 °C)
+        temperature: 395 K<br />(122 °C)
       - name: θ Orgarriad II c
         type: Icy
         formationType: Captured
@@ -165,14 +165,14 @@ planets:
         radius: 15,730.3 km<br/>(2.469 Yrths)
         surface_area: 3.109 × 10<sup>09</sup> km<sup>2</sup><br/>(6.096 Yrths)
         volume: 1.630 × 10<sup>13</sup> km<sup>3</sup><br/>(15.052 Yrths)
-        mass: 2.508 × 10<sup>25</sup> kg<br />(11.822123451552814 Yrths)
+        mass: 2.508 × 10<sup>25</sup> kg<br />(4.200 Yrths)
         density: 1.538 g/cm<sup>3</sup>
         surface_gravity: 6.757 m/s<sup>2</sup><br />(0.689 g<sub>0</sub>)
         escape_velocity: 14.590 km/s<br />(52,523 km/h)
         rotation_period: 43.934 d
         axial_tilt: 15.39°
         albedo: 0.30
-        temperature: 3677 K<br />(3404 °C)
+        temperature: 395 K<br />(122 °C)
       - name: θ Orgarriad II d
         type: Icy
         formationType: Captured
@@ -185,12 +185,12 @@ planets:
         radius: 25,514.7 km<br/>(4.005 Yrths)
         surface_area: 8.181 × 10<sup>09</sup> km<sup>2</sup><br/>(16.039 Yrths)
         volume: 6.958 × 10<sup>13</sup> km<sup>3</sup><br/>(64.232 Yrths)
-        mass: 1.072 × 10<sup>26</sup> kg<br />(11.822123451552814 Yrths)
+        mass: 1.072 × 10<sup>26</sup> kg<br />(17.943 Yrths)
         density: 1.540 g/cm<sup>3</sup>
         surface_gravity: 10.971 m/s<sup>2</sup><br />(1.119 g<sub>0</sub>)
         escape_velocity: 23.677 km/s<br />(85,238 km/h)
         rotation_period: 41.135 d
         axial_tilt: 6.89°
         albedo: 0.30
-        temperature: 3506 K<br />(3233 °C)
+        temperature: 395 K<br />(122 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      521 Arkothiad is a star in the constellation Arkoth
+      521 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 321.13 ly
 apparent_magnitude: 11.39
 absolute_magnitude: 6.43

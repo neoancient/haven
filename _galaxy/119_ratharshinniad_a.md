@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      119 Ratharshinniad A is a star in the constellation Ratharshin
+      119 Ratharshinniad A is a star in the constellation <a href="ratharshin.html">Ratharshin</a>
 distance: 436.98 ly
 apparent_magnitude: 7.30
 absolute_magnitude: 1.66

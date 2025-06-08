@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      3245 Athiad A is a star in the constellation Ath
+      3245 Athiad A is a star in the constellation <a href="ath.html">Ath</a>
 distance: 651.69 ly
 apparent_magnitude: 7.42
 absolute_magnitude: 0.92

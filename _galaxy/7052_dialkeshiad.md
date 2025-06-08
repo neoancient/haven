@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7052 Dialkeshiad is a star in the constellation Dialkes
+      7052 Dialkeshiad is a star in the constellation <a href="dialkes.html">Dialkes</a>
 distance: 413.01 ly
 apparent_magnitude: 12.58
 absolute_magnitude: 7.06

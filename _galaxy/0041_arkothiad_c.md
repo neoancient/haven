@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0041 Arkothiad C is a star in the constellation Arkoth
+      0041 Arkothiad C is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 560.99 ly
 apparent_magnitude: 12.09
 absolute_magnitude: 5.91

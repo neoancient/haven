@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      1035 Keead is a star in the constellation Kee
+      1035 Keead is a star in the constellation <a href="kee.html">Kee</a>
 distance: 463.19 ly
 apparent_magnitude: 11.03
 absolute_magnitude: 5.27

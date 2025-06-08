@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2049 Narashiad is a star in the constellation Naras
+      2049 Narashiad is a star in the constellation <a href="naras.html">Naras</a>
 distance: 653.61 ly
 apparent_magnitude: 11.68
 absolute_magnitude: 5.17

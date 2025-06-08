@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0038 Rishauthiad B is a star in the constellation Rishauth
+      0038 Rishauthiad B is a star in the constellation <a href="rishauth.html">Rishauth</a>
 distance: 211.78 ly
 apparent_magnitude: 9.54
 absolute_magnitude: 5.47

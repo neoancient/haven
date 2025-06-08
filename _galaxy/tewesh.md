@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      Tewesh is a star in the constellation Tyurniol
+      Tewesh is a star in the constellation <a href="tyurniol.html">Tyurniol</a>
 distance: 171.70 ly
 apparent_magnitude: 3.92
 absolute_magnitude: 0.31

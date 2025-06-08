@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      7726 Tanashad A is a star in the constellation Tanas
+      7726 Tanashad A is a star in the constellation <a href="tanas.html">Tanas</a>
 distance: 224.70 ly
 apparent_magnitude: 9.88
 absolute_magnitude: 5.69

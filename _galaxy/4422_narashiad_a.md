@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      4422 Narashiad A is a star in the constellation Naras
+      4422 Narashiad A is a star in the constellation <a href="naras.html">Naras</a>
 distance: 562.19 ly
 apparent_magnitude: 8.76
 absolute_magnitude: 2.58

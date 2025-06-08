@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      5252 Arkothiad is a star in the constellation Arkoth
+      5252 Arkothiad is a star in the constellation <a href="arkoth.html">Arkoth</a>
 distance: 372.44 ly
 apparent_magnitude: 11.70
 absolute_magnitude: 6.41
@@ -31,14 +31,14 @@ planets:
     radius: 7,530.2 km<br/>(1.182 Yrths)
     surface_area: 7.126 × 10<sup>08</sup> km<sup>2</sup><br/>(1.397 Yrths)
     volume: 1.789 × 10<sup>12</sup> km<sup>3</sup><br/>(1.651 Yrths)
-    mass: 1.249 × 10<sup>25</sup> kg<br />(2.092057565118171 Yrths)
+    mass: 1.249 × 10<sup>25</sup> kg<br />(2.09 Yrths)
     density: 6.985 g/cm<sup>3</sup>
     surface_gravity: 14.686 m/s<sup>2</sup><br />(1.498 g<sub>0</sub>)
     escape_velocity: 14.882 km/s<br />(53,575 km/h)
     rotation_period: 1.602 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 396 K<br />(123 °C)
+    temperature: 484 K<br />(211 °C)
     surface_pressure: 109 kPa<br />(1 atm)
     composition:
       - 77.7999% nitrogen
@@ -58,14 +58,14 @@ planets:
         radius: 1,791.5 km<br/>(0.281 Yrths)
         surface_area: 4.033 × 10<sup>07</sup> km<sup>2</sup><br/>(0.079 Yrths)
         volume: 2.409 × 10<sup>10</sup> km<sup>3</sup><br/>(0.022 Yrths)
-        mass: 6.203 × 10<sup>22</sup> kg<br />(2.092057565118171 Yrths)
+        mass: 6.203 × 10<sup>22</sup> kg<br />(0.010 Yrths)
         density: 2.576 g/cm<sup>3</sup>
         surface_gravity: 1.288 m/s<sup>2</sup><br />(0.131 g<sub>0</sub>)
         escape_velocity: 2.150 km/s<br />(7,740 km/h)
         rotation_period: 54.918 d
         axial_tilt: 23.40°
         albedo: 0.30
-        temperature: 3956 K<br />(3683 °C)
+        temperature: 317 K<br />(44 °C)
       - name: 5252 Arkothiad I b
         type: Rocky
         formationType: Impact formed
@@ -78,14 +78,14 @@ planets:
         radius: 3,490.0 km<br/>(0.548 Yrths)
         surface_area: 1.531 × 10<sup>08</sup> km<sup>2</sup><br/>(0.300 Yrths)
         volume: 1.781 × 10<sup>11</sup> km<sup>3</sup><br/>(0.164 Yrths)
-        mass: 6.410 × 10<sup>23</sup> kg<br />(2.092057565118171 Yrths)
+        mass: 6.410 × 10<sup>23</sup> kg<br />(0.107 Yrths)
         density: 3.600 g/cm<sup>3</sup>
         surface_gravity: 3.508 m/s<sup>2</sup><br />(0.358 g<sub>0</sub>)
         escape_velocity: 4.952 km/s<br />(17,826 km/h)
         rotation_period: 30.159 d
         axial_tilt: 8.41°
         albedo: 0.30
-        temperature: 3772 K<br />(3499 °C)
+        temperature: 317 K<br />(44 °C)
   - name: 5252 Arkothiad II
     type: Terrestrial
     aphelion: 107,234,933 km<br />0.717 AU
@@ -97,7 +97,7 @@ planets:
     radius: 6,540.6 km<br/>(1.027 Yrths)
     surface_area: 5.376 × 10<sup>08</sup> km<sup>2</sup><br/>(1.054 Yrths)
     volume: 1.172 × 10<sup>12</sup> km<sup>3</sup><br/>(1.082 Yrths)
-    mass: 5.111 × 10<sup>24</sup> kg<br />(0.8558990637037415 Yrths)
+    mass: 5.111 × 10<sup>24</sup> kg<br />(0.86 Yrths)
     density: 4.361 g/cm<sup>3</sup>
     surface_gravity: 7.964 m/s<sup>2</sup><br />(0.812 g<sub>0</sub>)
     escape_velocity: 10.214 km/s<br />(36,769 km/h)
@@ -118,14 +118,14 @@ planets:
         radius: 2,750.2 km<br/>(0.432 Yrths)
         surface_area: 9.505 × 10<sup>07</sup> km<sup>2</sup><br/>(0.186 Yrths)
         volume: 8.714 × 10<sup>10</sup> km<sup>3</sup><br/>(0.080 Yrths)
-        mass: 2.157 × 10<sup>23</sup> kg<br />(0.8558990637037415 Yrths)
+        mass: 2.157 × 10<sup>23</sup> kg<br />(0.036 Yrths)
         density: 2.476 g/cm<sup>3</sup>
         surface_gravity: 1.901 m/s<sup>2</sup><br />(0.194 g<sub>0</sub>)
         escape_velocity: 3.236 km/s<br />(11,648 km/h)
         rotation_period: 31.961 d
         axial_tilt: 10.00°
         albedo: 0.30
-        temperature: 3405 K<br />(3132 °C)
+        temperature: 246 K<br />(-27 °C)
   - name: 5252 Arkothiad III
     type: Large terrestrial
     aphelion: 180,962,561 km<br />1.210 AU
@@ -137,14 +137,14 @@ planets:
     radius: 7,787.0 km<br/>(1.222 Yrths)
     surface_area: 7.620 × 10<sup>08</sup> km<sup>2</sup><br/>(1.494 Yrths)
     volume: 1.978 × 10<sup>12</sup> km<sup>3</sup><br/>(1.826 Yrths)
-    mass: 1.449 × 10<sup>25</sup> kg<br />(2.4263286416510788 Yrths)
+    mass: 1.449 × 10<sup>25</sup> kg<br />(2.43 Yrths)
     density: 7.326 g/cm<sup>3</sup>
     surface_gravity: 15.927 m/s<sup>2</sup><br />(1.624 g<sub>0</sub>)
     escape_velocity: 15.760 km/s<br />(56,737 km/h)
     rotation_period: 1.071 d
     axial_tilt: 0.00°
     albedo: 0.35
-    temperature: 255 K<br />(-19 °C)
+    temperature: 323 K<br />(50 °C)
     surface_pressure: 264 kPa<br />(3 atm)
     composition:
       - 78.6219% nitrogen
@@ -164,14 +164,14 @@ planets:
         radius: 10,112.5 km<br/>(1.587 Yrths)
         surface_area: 1.285 × 10<sup>09</sup> km<sup>2</sup><br/>(2.519 Yrths)
         volume: 4.332 × 10<sup>12</sup> km<sup>3</sup><br/>(3.999 Yrths)
-        mass: 3.858 × 10<sup>24</sup> kg<br />(2.4263286416510788 Yrths)
+        mass: 3.858 × 10<sup>24</sup> kg<br />(0.646 Yrths)
         density: 0.891 g/cm<sup>3</sup>
         surface_gravity: 2.515 m/s<sup>2</sup><br />(0.256 g<sub>0</sub>)
         escape_velocity: 7.136 km/s<br />(25,690 km/h)
         rotation_period: 64.872 d
         axial_tilt: 13.72°
         albedo: 0.30
-        temperature: 2342 K<br />(2069 °C)
+        temperature: 191 K<br />(-82 °C)
       - name: 5252 Arkothiad III b
         type: Rocky
         formationType: Accreted
@@ -184,14 +184,14 @@ planets:
         radius: 1,323.6 km<br/>(0.208 Yrths)
         surface_area: 2.202 × 10<sup>07</sup> km<sup>2</sup><br/>(0.043 Yrths)
         volume: 9.714 × 10<sup>09</sup> km<sup>3</sup><br/>(0.009 Yrths)
-        mass: 3.047 × 10<sup>22</sup> kg<br />(2.4263286416510788 Yrths)
+        mass: 3.047 × 10<sup>22</sup> kg<br />(0.005 Yrths)
         density: 3.136 g/cm<sup>3</sup>
         surface_gravity: 1.159 m/s<sup>2</sup><br />(0.118 g<sub>0</sub>)
         escape_velocity: 1.753 km/s<br />(6,310 km/h)
         rotation_period: 44.052 d
         axial_tilt: 18.16°
         albedo: 0.30
-        temperature: 2233 K<br />(1960 °C)
+        temperature: 191 K<br />(-82 °C)
       - name: 5252 Arkothiad III c
         type: Icy
         formationType: Captured
@@ -204,12 +204,12 @@ planets:
         radius: 2,543.3 km<br/>(0.399 Yrths)
         surface_area: 8.129 × 10<sup>07</sup> km<sup>2</sup><br/>(0.159 Yrths)
         volume: 6.891 × 10<sup>10</sup> km<sup>3</sup><br/>(0.064 Yrths)
-        mass: 8.061 × 10<sup>22</sup> kg<br />(2.4263286416510788 Yrths)
+        mass: 8.061 × 10<sup>22</sup> kg<br />(0.013 Yrths)
         density: 1.170 g/cm<sup>3</sup>
         surface_gravity: 0.831 m/s<sup>2</sup><br />(0.085 g<sub>0</sub>)
         escape_velocity: 2.057 km/s<br />(7,405 km/h)
         rotation_period: 70.342 d
         axial_tilt: 21.62°
         albedo: 0.30
-        temperature: 2129 K<br />(1856 °C)
+        temperature: 191 K<br />(-82 °C)
 ---

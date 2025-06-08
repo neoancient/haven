@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      0018 Nignushiad is a star in the constellation Nignus
+      0018 Nignushiad is a star in the constellation <a href="nignus.html">Nignus</a>
 distance: 131.65 ly
 apparent_magnitude: 5.54
 absolute_magnitude: 2.51
@@ -31,14 +31,14 @@ planets:
     radius: 20,236.7 km<br/>(3.176 Yrths)
     surface_area: 5.146 × 10<sup>09</sup> km<sup>2</sup><br/>(10.089 Yrths)
     volume: 3.471 × 10<sup>13</sup> km<sup>3</sup><br/>(32.048 Yrths)
-    mass: 4.503 × 10<sup>25</sup> kg<br />(7.539396486918065 Yrths)
+    mass: 4.503 × 10<sup>25</sup> kg<br />(7.54 Yrths)
     density: 1.297 g/cm<sup>3</sup>
     surface_gravity: 7.328 m/s<sup>2</sup><br />(0.747 g<sub>0</sub>)
     escape_velocity: 17.234 km/s<br />(62,041 km/h)
     rotation_period: 0.556 d
     axial_tilt: 0.00°
     albedo: 0.50
-    temperature: 589 K<br />(316 °C)
+    temperature: 535 K<br />(262 °C)
     composition:
       - 65.9349% hydrogen
       - 33.3032% helium
@@ -56,14 +56,14 @@ planets:
         radius: 5,093.2 km<br/>(0.799 Yrths)
         surface_area: 3.260 × 10<sup>08</sup> km<sup>2</sup><br/>(0.639 Yrths)
         volume: 5.534 × 10<sup>11</sup> km<sup>3</sup><br/>(0.511 Yrths)
-        mass: 4.789 × 10<sup>23</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 4.789 × 10<sup>23</sup> kg<br />(0.080 Yrths)
         density: 0.865 g/cm<sup>3</sup>
         surface_gravity: 1.231 m/s<sup>2</sup><br />(0.125 g<sub>0</sub>)
         escape_velocity: 3.543 km/s<br />(12,754 km/h)
         rotation_period: 72.215 d
         axial_tilt: 14.16°
         albedo: 0.30
-        temperature: 3085 K<br />(2812 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I b
         type: Dwarf planet
         formationType: Captured
@@ -76,14 +76,14 @@ planets:
         radius: 8,683.4 km<br/>(1.363 Yrths)
         surface_area: 9.475 × 10<sup>08</sup> km<sup>2</sup><br/>(1.858 Yrths)
         volume: 2.743 × 10<sup>12</sup> km<sup>3</sup><br/>(2.532 Yrths)
-        mass: 4.776 × 10<sup>24</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 4.776 × 10<sup>24</sup> kg<br />(0.800 Yrths)
         density: 1.741 g/cm<sup>3</sup>
         surface_gravity: 4.222 m/s<sup>2</sup><br />(0.430 g<sub>0</sub>)
         escape_velocity: 8.568 km/s<br />(30,845 km/h)
         rotation_period: 52.617 d
         axial_tilt: 40.11°
         albedo: 0.30
-        temperature: 2942 K<br />(2669 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I c
         type: Ice/rock hybrid
         formationType: Impact formed
@@ -96,14 +96,14 @@ planets:
         radius: 3,362.7 km<br/>(0.528 Yrths)
         surface_area: 1.421 × 10<sup>08</sup> km<sup>2</sup><br/>(0.279 Yrths)
         volume: 1.593 × 10<sup>11</sup> km<sup>3</sup><br/>(0.147 Yrths)
-        mass: 3.800 × 10<sup>23</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 3.800 × 10<sup>23</sup> kg<br />(0.064 Yrths)
         density: 2.386 g/cm<sup>3</sup>
         surface_gravity: 2.240 m/s<sup>2</sup><br />(0.228 g<sub>0</sub>)
         escape_velocity: 3.884 km/s<br />(13,982 km/h)
         rotation_period: 38.397 d
         axial_tilt: 15.87°
         albedo: 0.30
-        temperature: 2805 K<br />(2532 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I d
         type: Ice/rock hybrid
         formationType: Captured
@@ -116,14 +116,14 @@ planets:
         radius: 10,950.6 km<br/>(1.719 Yrths)
         surface_area: 1.507 × 10<sup>09</sup> km<sup>2</sup><br/>(2.954 Yrths)
         volume: 5.501 × 10<sup>12</sup> km<sup>3</sup><br/>(5.078 Yrths)
-        mass: 1.159 × 10<sup>25</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 1.159 × 10<sup>25</sup> kg<br />(1.940 Yrths)
         density: 2.106 g/cm<sup>3</sup>
         surface_gravity: 6.440 m/s<sup>2</sup><br />(0.657 g<sub>0</sub>)
         escape_velocity: 11.884 km/s<br />(42,784 km/h)
         rotation_period: 61.676 d
         axial_tilt: 19.18°
         albedo: 0.30
-        temperature: 2674 K<br />(2401 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I e
         type: Ice/rock hybrid
         formationType: Captured
@@ -136,14 +136,14 @@ planets:
         radius: 18,103.3 km<br/>(2.842 Yrths)
         surface_area: 4.118 × 10<sup>09</sup> km<sup>2</sup><br/>(8.074 Yrths)
         volume: 2.485 × 10<sup>13</sup> km<sup>3</sup><br/>(22.943 Yrths)
-        mass: 4.753 × 10<sup>25</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 4.753 × 10<sup>25</sup> kg<br />(7.959 Yrths)
         density: 1.913 g/cm<sup>3</sup>
         surface_gravity: 9.667 m/s<sup>2</sup><br />(0.986 g<sub>0</sub>)
         escape_velocity: 18.721 km/s<br />(67,396 km/h)
         rotation_period: 69.519 d
         axial_tilt: 29.16°
         albedo: 0.30
-        temperature: 2550 K<br />(2277 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I f
         type: Ice/rock hybrid
         formationType: Accreted
@@ -156,14 +156,14 @@ planets:
         radius: 10,889.9 km<br/>(1.709 Yrths)
         surface_area: 1.490 × 10<sup>09</sup> km<sup>2</sup><br/>(2.922 Yrths)
         volume: 5.409 × 10<sup>12</sup> km<sup>3</sup><br/>(4.994 Yrths)
-        mass: 1.048 × 10<sup>25</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 1.048 × 10<sup>25</sup> kg<br />(1.755 Yrths)
         density: 1.938 g/cm<sup>3</sup>
         surface_gravity: 5.891 m/s<sup>2</sup><br />(0.601 g<sub>0</sub>)
         escape_velocity: 11.335 km/s<br />(40,806 km/h)
         rotation_period: 50.817 d
         axial_tilt: 29.16°
         albedo: 0.30
-        temperature: 2431 K<br />(2158 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I g
         type: Ice/rock hybrid
         formationType: Accreted
@@ -176,14 +176,14 @@ planets:
         radius: 4,175.4 km<br/>(0.655 Yrths)
         surface_area: 2.191 × 10<sup>08</sup> km<sup>2</sup><br/>(0.430 Yrths)
         volume: 3.049 × 10<sup>11</sup> km<sup>3</sup><br/>(0.281 Yrths)
-        mass: 6.802 × 10<sup>23</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 6.802 × 10<sup>23</sup> kg<br />(0.114 Yrths)
         density: 2.231 g/cm<sup>3</sup>
         surface_gravity: 2.600 m/s<sup>2</sup><br />(0.265 g<sub>0</sub>)
         escape_velocity: 4.663 km/s<br />(16,787 km/h)
         rotation_period: 41.449 d
         axial_tilt: 16.22°
         albedo: 0.30
-        temperature: 2318 K<br />(2045 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I h
         type: Icy
         formationType: Impact formed
@@ -196,14 +196,14 @@ planets:
         radius: 9,979.2 km<br/>(1.566 Yrths)
         surface_area: 1.251 × 10<sup>09</sup> km<sup>2</sup><br/>(2.453 Yrths)
         volume: 4.163 × 10<sup>12</sup> km<sup>3</sup><br/>(3.843 Yrths)
-        mass: 4.049 × 10<sup>24</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 4.049 × 10<sup>24</sup> kg<br />(0.678 Yrths)
         density: 0.973 g/cm<sup>3</sup>
         surface_gravity: 2.710 m/s<sup>2</sup><br />(0.276 g<sub>0</sub>)
         escape_velocity: 7.360 km/s<br />(26,494 km/h)
         rotation_period: 66.664 d
         axial_tilt: 6.50°
         albedo: 0.30
-        temperature: 2210 K<br />(1937 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I i
         type: Ice/rock hybrid
         formationType: Accreted
@@ -216,14 +216,14 @@ planets:
         radius: 5,545.8 km<br/>(0.870 Yrths)
         surface_area: 3.865 × 10<sup>08</sup> km<sup>2</sup><br/>(0.758 Yrths)
         volume: 7.145 × 10<sup>11</sup> km<sup>3</sup><br/>(0.660 Yrths)
-        mass: 1.929 × 10<sup>24</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 1.929 × 10<sup>24</sup> kg<br />(0.323 Yrths)
         density: 2.700 g/cm<sup>3</sup>
         surface_gravity: 4.180 m/s<sup>2</sup><br />(0.426 g<sub>0</sub>)
         escape_velocity: 6.814 km/s<br />(24,531 km/h)
         rotation_period: 57.476 d
         axial_tilt: 19.93°
         albedo: 0.30
-        temperature: 2107 K<br />(1834 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I j
         type: Ice/rock hybrid
         formationType: Accreted
@@ -236,14 +236,14 @@ planets:
         radius: 12,068.6 km<br/>(1.894 Yrths)
         surface_area: 1.830 × 10<sup>09</sup> km<sup>2</sup><br/>(3.588 Yrths)
         volume: 7.363 × 10<sup>12</sup> km<sup>3</sup><br/>(6.797 Yrths)
-        mass: 1.636 × 10<sup>25</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 1.636 × 10<sup>25</sup> kg<br />(2.740 Yrths)
         density: 2.222 g/cm<sup>3</sup>
         surface_gravity: 7.488 m/s<sup>2</sup><br />(0.764 g<sub>0</sub>)
         escape_velocity: 13.453 km/s<br />(48,431 km/h)
         rotation_period: 38.868 d
         axial_tilt: 19.82°
         albedo: 0.30
-        temperature: 2009 K<br />(1736 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I k
         type: Ice/rock hybrid
         formationType: Accreted
@@ -256,14 +256,14 @@ planets:
         radius: 20,201.0 km<br/>(3.171 Yrths)
         surface_area: 5.128 × 10<sup>09</sup> km<sup>2</sup><br/>(10.054 Yrths)
         volume: 3.453 × 10<sup>13</sup> km<sup>3</sup><br/>(31.879 Yrths)
-        mass: 6.700 × 10<sup>25</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 6.700 × 10<sup>25</sup> kg<br />(11.218 Yrths)
         density: 1.940 g/cm<sup>3</sup>
         surface_gravity: 10.942 m/s<sup>2</sup><br />(1.116 g<sub>0</sub>)
         escape_velocity: 21.040 km/s<br />(75,745 km/h)
         rotation_period: 70.152 d
         axial_tilt: 24.69°
         albedo: 0.30
-        temperature: 1916 K<br />(1643 °C)
+        temperature: 308 K<br />(35 °C)
       - name: 0018 Nignushiad I l
         type: Icy
         formationType: Accreted
@@ -276,12 +276,12 @@ planets:
         radius: 15,101.5 km<br/>(2.370 Yrths)
         surface_area: 2.866 × 10<sup>09</sup> km<sup>2</sup><br/>(5.619 Yrths)
         volume: 1.443 × 10<sup>13</sup> km<sup>3</sup><br/>(13.318 Yrths)
-        mass: 2.108 × 10<sup>25</sup> kg<br />(7.539396486918065 Yrths)
+        mass: 2.108 × 10<sup>25</sup> kg<br />(3.530 Yrths)
         density: 1.461 g/cm<sup>3</sup>
         surface_gravity: 6.162 m/s<sup>2</sup><br />(0.628 g<sub>0</sub>)
         escape_velocity: 13.651 km/s<br />(49,144 km/h)
         rotation_period: 79.382 d
         axial_tilt: 14.09°
         albedo: 0.30
-        temperature: 1827 K<br />(1553 °C)
+        temperature: 308 K<br />(35 °C)
 ---

@@ -6,7 +6,7 @@ faction: None
 sections:
   - title:
     content: >-
-      2481 Athiad is a star in the constellation Ath
+      2481 Athiad is a star in the constellation <a href="ath.html">Ath</a>
 distance: 692.66 ly
 apparent_magnitude: 11.91
 absolute_magnitude: 5.28
