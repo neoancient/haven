@@ -2,7 +2,7 @@
 layout: galaxy
 category: planet
 title: Mechalon Prime (Planet)
-faction: Ironclad Dominion
+faction: Ironhold Dominion
 surface: mechalon_prime.png
 aspects:
 sections:

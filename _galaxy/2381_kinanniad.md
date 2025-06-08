@@ -2,7 +2,7 @@
 layout: galaxy
 category: star
 title: 2381 Kinanniad (Star)
-faction: Ironclad Dominion
+faction: Ironhold Dominion
 sections:
   - title:
     content: >-

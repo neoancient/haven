@@ -2,7 +2,7 @@
 layout: galaxy
 category: star
 title: 6746 Atchianniad (Star)
-faction: Ironclad Dominion
+faction: Ironhold Dominion
 sections:
   - title:
     content: >-

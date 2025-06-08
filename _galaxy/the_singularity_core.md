@@ -2,7 +2,7 @@
 layout: galaxy
 category: planet
 title: The Singularity Core (Planet)
-faction: Ironclad Dominion
+faction: Ironhold Dominion
 sections:
   - title:
     content: >-

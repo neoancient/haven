@@ -2,7 +2,7 @@
 layout: galaxy
 category: planet
 title: Forgeheart (Planet)
-faction: Ironclad Dominion
+faction: Ironhold Dominion
 sections:
   - title:
     content: >-

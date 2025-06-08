@@ -2,7 +2,7 @@
 layout: galaxy
 category: planet
 title: Crucible (Planet)
-faction: Ironclad Dominion
+faction: Ironhold Dominion
 surface: crucible.png
 aspects:
 sections:
