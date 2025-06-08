@@ -2,7 +2,7 @@
 layout: galaxy
 category: planet
 title: Omega Redoubt (Planet)
-faction: Ironclad Dominion
+faction: Ironhold Dominion
 surface: omega_redoubt.png
 aspects:
 sections:
