@@ -3,6 +3,8 @@ layout: default
 permalink: /skills.html
 title: Skills
 ---
+# Skills
+
 Skills represents a character's competencies. Each skill has a ranking that indicates how good a character is at actions
 using that skill. Skills not appearing on the character sheet are understood to have a level of Mediocre (+0). Most people
 are Average (+1) or Fair (+2) at skills involved in their professions, with anything Good (+3) or higher being a mark
@@ -25,7 +27,7 @@ attempts to intimidate or bluff your way past someone.
 
 A **Defend** action is an attempt to fend off another character's **Attack** action.
 
-For more information on skills and actions, see [Playing the Game]({{ site.baseurl }}/playing_the_game.html)
+For more information on skills and actions, see [Actions and Conflict]({{ site.baseurl }}/actions_and_conflict.html).
 
 # Master Skill List
 
