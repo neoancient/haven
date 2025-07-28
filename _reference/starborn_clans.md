@@ -2,6 +2,7 @@
 layout: reference
 category: faction
 title: Starborn Clans
+illustration: starborn_clans.png
 aspects:
   - name: Might Makes Right
     known: true
