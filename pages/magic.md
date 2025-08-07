@@ -101,7 +101,9 @@ situations may break concentration or require a skill check to maintain it:
 The more advanced a piece of technology is, the more it depends on the laws of physics to behave in a predictable manner.
 When magic starts changing the way the laws of nature work, technology does not handle it well. The results can be anything
 from the power blinking on and off to showers of sparks and blown circuits. This can happen one of two ways: accidentally
-and deliberately.
+and deliberately. Except in extreme cases driven by the story, magical disruption only affects A-tech (electronics and later).
+The target difficulty can be modified for older/obsolete tech, which is less likely to be disrupted, or cutting-edge tech,
+which is harder to avoid disrupting. 
 ### Accidental Hexing
 Whether magic should affect nearby technology as an unintended side-effect depends mostly on what would be interesting. If
 neither result has any bearing on the story, it doesn't matter and can be narrated in whatever way makes sense. If having
@@ -120,18 +122,6 @@ or none. Stress can be reduced by taking a mild, moderate, or severe consequence
 of available consequences results in destruction of the target. It item that only takes stress is disabled, but the stress
 decreases by one every exchange (in the same way as the mana track) until it comes back online, It automatically loses all
 stress at the end of the scene.
-
-A Guide to Hexing Difficulty
-
-| Intentional    | Avoiding      | Tech Type                     |
-|----------------|---------------|-------------------------------|
-| Legendary (+8) | Terrible (-2) | Purely mechanical             |
-| Fantastic (+6) | Mediocre (0)  | Early industrial              |
-| Great (+4)     | Average (+1)  | Early electronics             |
-| Good (+3)      | Fair (+2)     | Legacy tech still in wide use |
-| Fair (+2)      | Good (+3)     | Most contemporary tech        |
-| Average (+1)   | Great (+4)    | Leading-edge innovations      |
-| Mediocre (+0)  | Superb (+5)   | Revolutionary prototype tech  |
 
 ### Species considerations
 Elves and Half-Elves that choose the Elven destiny have this effect on technology simply by being near it, regardless of
