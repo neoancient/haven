@@ -156,20 +156,74 @@ in one zone is usually Fair (+2), with each additional zone increasing the diffi
 ## Realms of Magic
 The way magic is conceptualized and categorized can vary with culture and magical tradition. What follows is suggested as
 a basic approach. Some magical traditions might include niche realms, such as chronomancy or blood magic, or organize magic
-differently.
+differently. Each realm of power gives some examples of how they can be used for various actions. Defensive magic requires
+preparation, which is done with a Create Advantage action rather than a Defend action. The defensive aspect created is then
+invoked on the Defense roll.
 
-- Divination: Gathering information
-- Elemental: Control of earth, air, fire, and water
-- Enchantment: Influence of minds, particularly emotions
-- Glyphs and Wards: Embedding magical power into objects
-- Illusion: Creating false sensory input
-- Mental: Cognitive influence - telepathy, memory
-- Movement: Telekinesis, spatial manipulation, astral travel
-- Nature: Flora, fauna, and natural environments
-- Necromancy: Life, death, and undeath
-- Summoning: Calling non-sentient beings, as well as magical entities. Also including binding and controlling.
-- Technomancy: Interfacing with or manipulating technology
-- Transformation: Changing the form or nature of beings or objects
+- **Abjuration:** Creating barriers and shields, dispelling magical effects, banishing supernatural creatures
+  - Overcome: dispel magical effect, neutralize curse
+  - Create Advantage: shield, sanctified ground
+  - Attack: banish creature (creates mental stress). The type of creature that can be banished depends on magical
+  tradition, but examples include extraplanar, undead, evil, and fey. 
+- **Divination:** Gathering information about the past or present. Divination involving more than a few seconds into the
+future is murky. Arcanists disagree about why, some saying that it is more dependable than not, others claiming that this
+is selection bias. One prevailing opinion is that knowing what would have happened changes the probability. Your mileage
+may vary. Divination works much like the **Investigate** skill, using a different mechanism.
+  - Overcome: locate a hidden person or object, learn past events
+  - Create Advantage: find useful information about someone, create a cover story
+- Elemental: Controlling primal matter and energy. Categorization of elements is dependent on culture and magical tradition. The classical
+elements in Tanrith society are earth, air, fire, and water. For the Cho Ji they are wood, fire, earth, metal, and water. The
+Elves of Ciniar they are earth, wood, light, water, air, and spirit. Dwarves often distinguish between water and ice, while
+Gnomes usually include electricity and force. Elemental matter that is conjured is unstable and dissolves and returns to
+its plane of origin when the scene ends, though side effects remain. For example, elemental fire can form a barrier wall
+and burn with no fuel, but can also ignite anything combustible that gets too close. At the end of the scene, the wall of
+fire is gone, but anything that it ignited continues to burn.
+  - Overcome: move something with a gust of wind, burn/melt/freeze a door
+  - Create Advantage: barrier of flame/ice/air, strong wind, strong/weak gravity
+  - Attack: bolt of fire/lightning/ice, crushing gravity, heat armor
+- **Enchantment:** Influencing minds, particularly emotions and mental state. Interacting with the intellect or conscious
+thought is the realm of **Mental** magic. Enchantment is used like the **Rapport** and **Provoke** skills. It can also be
+used to assess emotions like the **Empathy** skill.
+  - Overcome: get past a guard, earn someone's confidence, put someone to sleep
+  - Create Advantage: create an emotional state such as *Inspired* or *Anxious*, learn someone's fears or motivations
+  - Attack: direct mental attack on an opponent
+- **Glamor:** Creating sensory input. The sensory input is real, and can fool electronic sensors as well as
+organic beings. Static illusions do not require concentration, but if the illusion needs to move or
+otherwise change, the caster must maintain concentration for the effect to continue.
+  - Overcome: false credentials, mislead or hide from observers
+  - Create Advantage: invisibility, disguise, distract
+- **Mental:** Influencing memory and thought. Emotional affects use the realm of **Enchantment**.
+  - Overcome: read minds, alter/erase memories, communicate mind-to-mind
+  - Create Advantage: implant suggestion, disorient opponent 
+  - Attack direct mental attack on an opponent
+- **Movement:** Moving objects or self. This includes changing the speed of movement, but all movement has to be
+has to be contiguous. THere is no known move between non-connected points, also known as teleportation. Affecting
+speed allows movement through additional zones as sprinting, but does not give multiple actions during an exchange.
+  - Overcome: telekinesis, levitation, flying, moving into or out of astral space, sprinting
+  - Create Advantage: increased or decreased speed
+  - Attack: hurl objects at target, slam target into a wall
+- **Nature:** Affecting flora, fauna, and natural environments.
+  - Overcome: grow plants to cover tracks, summon animal for a mount, calm beast
+  - Create Advantage: assistance from woodland creatures, grow vines for climbing handholds, entangle opponents with plant growth
+- **Necromancy:** Caommanding life, death, and undeath
+  - Overcome: speak with the dead, animate zombie
+  - Create Advantage: cause opponents to feel their mortality, exert control of undead
+  - Attack: drain vitality
+- **Summoning:** Calling extra-planar and magical entities. Also including binding and controlling.
+  - Overcome: summon extra-planar being, bind creature to caster's will, negotiate for service
+  - Create Advantage: know weakness of summoned creature
+- **Technomancy:** Interfacing with or manipulating technology
+  - Overcome: access system, sabotage, control remotely
+  - Create Advantage: disrupt sensors, boost performance
+- **Transformation:** Changing the form or nature of beings or objects. The transformation mimics the generic form of
+the object, but not a specific instance. So you could transform a screwdriver into a key card, but not into the
+specific key card that would get you into the manager's office. The transformation does not last beyond the
+end of the scene, so creating forgeries of antiquities is not a very good racket, since you would not have
+time to make the getaway.
+  - Overcome: become a literal fly on the wall, change a tool into the one that's needed, shrink a captive to fit into
+  your pocket
+  - Create Advantage: turn the floor to mud, gain claws, make your skin as hard as durasteel
+
 
 ## Example of Magic Use
 ***
