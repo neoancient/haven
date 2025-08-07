@@ -161,7 +161,7 @@ is selection bias. One prevailing opinion is that knowing what would have happen
 may vary. Divination works much like the **Investigate** skill, using a different mechanism.
   - Overcome: locate a hidden person or object, learn past events
   - Create Advantage: find useful information about someone, create a cover story
-- Elemental: Controlling primal matter and energy. Categorization of elements is dependent on culture and magical tradition. The classical
+- **Elemental:** Controlling primal matter and energy. Categorization of elements is dependent on culture and magical tradition. The classical
 elements in Tanrith society are earth, air, fire, and water. For the Cho Ji they are wood, fire, earth, metal, and water. The
 Elves of Ciniar they are earth, wood, light, water, air, and spirit. Dwarves often distinguish between water and ice, while
 Gnomes usually include electricity and force. Elemental matter that is conjured is unstable and dissolves and returns to
@@ -253,7 +253,7 @@ becomes Fair (+2) because he is concentrating on multiple things. With a roll of
 Because of the importance of suppressing magic, Valen's next action is an all-out defense, taking +2 to **Discipline** checks
 to maintain concentration. Arakor then does something entirely unexpected -- he takes out a blaster pistol and shoots
 Valen. He has an unusually high **Shoot** skill for a wizard, at Good (+3). He rolls +0, for a total of 3 against Valen's
-**athletics** skill of Average (+1) and a roll of -1, for a total of three shifts. Wanting to make it count, Arakor, player
+**Athletics** skill of Average (+1) and a roll of -1, for a total of three shifts. Wanting to make it count, Arakor, player
 invokes his **Never Do What They Expect** aspect, for a total of five shifts. With only two boxes on his physical stress
 track, Valen is forced to take a moderate consequence (Bad Burn) to avoid being taken out, and more importantly, his concentration
 is broken. Arakor maintains his concentration against a total difficulty of Great (+4), rolls a 0 for a total of +5, and keeps
@@ -262,7 +262,7 @@ the illusions in place.
 The four marines fire at Arakor. Two of the blaster rifles fail to do anything, but will be operational again for the next
 exchange. The marines have a shoot skill of Great (+4). THe first rolls -2, for a total of 2. Arakor has an **Athletics**
 of Fair (+2). He rolls -1, for a total of 1. He uses one of his free invokes of *You Can't See Me* to raise his defense roll
-to 3, and the shot misses. The other marine rolls +4, for a total of 8. Arakor also rolls 4, for a total of 6. He uses a free
+to 3, and the shot misses. The other marine rolls +4, for a total of 8. Arakor also rolls +4, for a total of 6. He uses a free
 invoke of *I'm over here* to tie. The marine invokes his *Pharm-Enhanced Senses* aspect to succeed by 2. Arakor uses the
 remaining free invoke on *You Can't See Me*, glad that he opted to test his concentration for the extra aspect. The tie does
 no damage, and Arakor does not have to check to maintain concentration. The marine get the boost *I Heard Something Over There*.
@@ -275,9 +275,10 @@ chooses not to spend his only fate point to invoke another aspect, and marks the
 He now needs to make a **Discipline** check to maintain his concentration. He rolls poorly, a -2, for a total of +3, against
 a target of +3, for the stress taken, +2 for concentrating on an additional effect. The illusions fail, and everybody can
 see where he is standing. Valen also needs to make a **Discipline** check to see if he hexed any nearby tech with his fire
-spell. For standard tech the target is Good (+3), but his use of the second box on the mana track adds another +2 to the
-difficulty, for a total of +5. With a **Discipline** of Good (+3), he rolls a -1, for a total of +2, and fails. The lights
+spell. For standard tech the target is Fair (+2), but his use of the second box on the mana track adds another +2 to the
+difficulty, for a total of +4. With a **Discipline** of Good (+3), he rolls a -1, for a total of +2, and fails. The lights
 in the corridor go dark in a shower of sparks, and the marines once again lose the use of their blasters.
 
 Arakor manages to escape in the ensuing chaos.
+
 ***
