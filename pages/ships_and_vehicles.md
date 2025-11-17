@@ -85,7 +85,8 @@ in space, or one zone on the ground or in the atmosphere. They are effective aga
 difficulty penetrating the armor of larger capital ships.
 **Capital** weapons are only found on capital ships or fortified ground installations. Capital weapons have a range of
 one zone in space or two zones on the ground or in an atmosphere. Designed to handle the defenses of slower-moving capital
-ships, they have difficulty tracking smaller ships with greater speed and maneuverability.
+ships, they have difficulty tracking smaller ships with greater speed and maneuverability. If they do manage to hit, it can
+be devastating; capital weapons gain Weapon:2.
 
 Because ships have crew to handle multiple weapons installations, they can make multiple attacks during the same
 exchange. The number of attacks of each type is based on the ship's size class.
