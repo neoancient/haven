@@ -19,6 +19,10 @@ Example: A character with a **Pilot** skill of Great (+4) flying a clunky freigh
 would be treated as Good (+3). The same pilot in a starfighter with a **Pilot** skill of Fantastic (+6) would
 effectively be Superb (+5).
 
+### Knowledge
+**Knowledge** reflects the ship's computer systems. It can be used for such things as retrieving data from the Omni or
+decrypting a code.
+
 ### Mechanics
 **Mechanics** is used for repairing ship systems and making modifications. Ships can begin recovery from consequences
 with a successful mechanics check, but the length of repair is the same as what characters require to remove consequences.
@@ -37,10 +41,6 @@ track. A ship with Superb (+5) or higher **Physique** gets a 4-box stress track 
 ### Pilot
 **Pilot** reflects the ship's speed and maneuverability. It takes the place of Athletics, and can be used to sprint
 or to dodge incoming fire, or in a contest when attempting to flee or close with another ship.
-
-### Science
-**Science** reflects the ship's computer systems. It can be used for such things as retrieving data from the Omni or
-decrypting a code.
 
 ### Shoot
 **Shoot** reflects the fire control systems and is used to fire the ship's weapons. It is used for Attack actions. 

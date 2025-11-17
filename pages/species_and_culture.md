@@ -62,13 +62,13 @@ exist within the borders of the Yrth Empire without being bothered.
 
 | Subsituted Skill | Situation                                                                                                                                                     |
 |:-----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arcana           | When detecting magical energies                                                                                                                               |
 | Athletics        | Dodging or leaping gracefully in combat                                                                                                                       |
 | Fight            | Using a sword                                                                                                                                                 |
-| Lore             | When detecting magical energies                                                                                                                               |
+| Knowledge        | When recalling events of ancient history                                                                                                                      |
 | Mechanics        | Craft an item of art or beauty                                                                                                                                |
 | Notice           | When sensing danger or subtle environmental changes                                                                                                           |
 | Rapport          | Speaking to those who value art, tradition, or old ways - especially sylvan creatures                                                                         |
-| Science          | When recalling events of ancient history                                                                                                                      |
 | Shoot            | Using a bow                                                                                                                                                   |
 | Stealth          | In a forest                                                                                                                                                   |
 | Will             | Using magic to produce an enchantment, glamor, or affect growing things, even if you have no other magical ability. Each category requires a separate stunt.  |
@@ -87,9 +87,9 @@ outcast Gnomes leads most ship captains to prefer dealing with the occasional te
 
 | Subsituted Skill | Situation                                                                                                                    |
 |:-----------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| Arcana           | Dealing with magical principles that can be explained with engineering logic                                                 |
 | Empathy          | Trying to detect deception or manipulation by outsiders                                                                      |
 | Investigate      | Diagnosing mechanical problems, especially when the solution involves rerouting or reconfiguring                             |
-| Lore             | Dealing with magical principles that can be explained with engineering logic                                                 |
 | Mechanics        | Working with arcanomechanical devices                                                                                        |
 | Notice           | Spot mechanical irregularities or things that don't belong in a technological setup                                          |
 | Rapport          | Dealing with other Gnomes, especially to establish shared technical vocabulary or old in-jokes                               |
@@ -113,11 +113,11 @@ With Others_, as well as _Runs With Scissors_.
 
 | Subsituted Skill | Situation                                                                                                                    |
 |:-----------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| Arcana           | Identifying dangerous magical side effects, alchemical reactions, or improperly contained arcane energy                      |
 | Athletics        | Flee through chaotic environments of your own creation, such as collapsing scaffolds, exploding traps, or rolling barrels    |
 | Deceive          | Confusing, misleading, or baffling someone with your reasoning or plans                                                      |
 | Investigate      | Evaluating broken, half-finished, or nonsensical devices                                                                     |
 | Investigate      | Scouring someone else's workshop, lab, or gear, especially if trying to reverse-engineer, repurpose, or "borrow" their ideas |
-| Lore             | Identifying dangerous magical side effects, alchemical reactions, or improperly contained arcane energy                      |
 | Mechanics        | Working with unreliable, experimental, or jury-rigged technology                                                             |
 | Notice           | Spot gadgets, moving parts, glowing buttons, or objects clearly not designed to be pushed but still very tempting            |
 | Provoke          | Escalating chaos, drawing attention, or triggering a cascade of unintended effects                                           |
@@ -156,9 +156,9 @@ be very popular with Halflings of a certain stripe.
 | Burglary         | Picking pockets or snatching objects unnoticed                               |
 | Contacts         | Looking for a network of kin, neighbors, or acquaintances                    |
 | Deceive          | Making yourself seem nonthreatening, harmless, or beneath notice             |
+| Knowledge        | Recalling folk tales, herbal remedies, practical advice, or rural traditions |
 | Notice           | Domestic, social, or well-traveled environment                               |
 | Rapport          | Gain trust or put people at ease through a warm fire, food, or storytelling  |
-| Science          | Recalling folk tales, herbal remedies, practical advice, or rural traditions |
 | Shoot            | Using a thrown weapon or a sling                                             |
 | Stealth          | Urban, crowded, or social setting                                            |
 | Will             | Resisting coercion, intimidation, or mental pressure                         |
@@ -198,9 +198,9 @@ their own (with GM approval) if none of these quite fits.
 |:-----------------|:-------------------------------------------------------------|
 | Contacts         | Dealing with other scholars, researchers, or archivists      |
 | Investigate      | Analyzing technical documents or historical records          |
+| Knowledge        | Identifying technological phenomena                          |
 | Provoke          | Engaging in academic or ideological arguments                |
 | Rapport          | Explaining something in a teaching or instructive tone       |
-| Science          | Identifying technological phenomena                          |
 | Will             | Resist mental attacks by reasoning through them analytically |
 
 ## Bounty Hunter Background
@@ -209,8 +209,8 @@ their own (with GM approval) if none of these quite fits.
 |:-----------------|:--------------------------------------------------------------------------|
 | Fight            | Trying to incapacitate without killing                                    |
 | Investigate      | Tracking or profiling a target based on minimal clues                     |
+| Knowledge        | Dealing with bounty contracts, jurisdictional quirks, or authority limits |
 | Notice           | Scanning crowds or checking surveillance for a bounty                     |
-| Science          | Dealing with bounty contracts, jurisdictional quirks, or authority limits |
 | Provoke          | Intimidating someone by referencing your past captures                    |
 | Provoke          | Questioning or wearing down someone mentally during an arrest or standoff |
 
@@ -243,10 +243,10 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Subsituted Skill | Situation                                                              |
 |:-----------------|:-----------------------------------------------------------------------|
 | Mechanics        | Working with cybernetic implants                                       |
+| Knowledge        | Interpreting machine prophecies or Dominion symbols                    |
 | Notice           | Operating surveillance or sensor systems                               |
 | Provoke          | Deliver harsh, absolute decrees with robotic finality                  |
 | Rapport          | Inspiring fellow believers or proselytizing outsiders                  |
-| Science          | Interpreting machine prophecies or Dominion symbols                    |
 | Will             | Resisting emotional manipulation by invoking machine-correct reasoning |
 
 ## Industrial Background
@@ -313,8 +313,8 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Contacts         | Gathering information from dockworkers, smugglers, spacers, or pirates |
 | Discipline       | Remaining calm in decompression, hull breach, or life-support failure  |
 | Empathy          | Read mood shifts in small, isolated groups                             |
+| Knowledge        | Chart routes, avoid anomalies, or interpret star charts                |                                                                        
 | Mechanics        | Fixing life-critical shipboard systems                                 |
-| Science          | Chart routes, avoid anomalies, or interpret star charts                |                                                                        
 
 ## Starborn Clans Background
 See [faction description]({{ site.baseurl }}/reference/starborn_clans.html)
@@ -323,9 +323,9 @@ See [faction description]({{ site.baseurl }}/reference/starborn_clans.html)
 |:-----------------|:--------------------------------------------------------------|
 | Contacts         | Calling on blood ties or clan obligations                     |
 | Fight            | Dueling under clan traditions                                 |
+| Knowledge        | Interpreting clan crests, rituals, and warrior histories      |
 | Provoke          | Unnerve enemies with traditional chants                       |
 | Rapport          | Rallying allies with traditional chants                       |
-| Science          | Interpreting clan crests, rituals, and warrior histories      |
 | Will             | Resisting psychological pressure that contradicts clan values |
 
 

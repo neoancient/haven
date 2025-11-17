@@ -33,6 +33,7 @@ For more information on skills and actions, see [Actions and Conflict]({{ site.b
 
 | Skill       | Applications                                                         |
 |:------------|:---------------------------------------------------------------------|
+| Arcana      | Arcane research, magic ritual preparation, magical perception        |
 | Athletics   | Jumping, climbing, running, swimming, other physical activity, dodge |
 | Burglary    | Security systems, infiltration, casing, pickpocketing                |
 | Contacts    | Gathering information, knowing people, gathering rumors              |
@@ -42,7 +43,7 @@ For more information on skills and actions, see [Actions and Conflict]({{ site.b
 | Empathy     | Read people, assess ascpects, defense against deceit                 |
 | Fight       | Melee combat, brawling, martial arts, melee defense, tactics         |
 | Investigate | Research, surveillance, eavesdropping                                |
-| Lore        | Arcane research, magic ritual preparation, magical perception        |
+| Knowledge   | General knowledge not covered by another skill                       |
 | Mechanics   | Building, fixing, breaking                                           |
 | Notice      | Spot details                                                         |
 | Physique    | Brute force, lift, restrain target                                   |
@@ -50,12 +51,21 @@ For more information on skills and actions, see [Actions and Conflict]({{ site.b
 | Provoke     | Manipulate, incite, intimidate                                       |
 | Rapport     | Inspire, charm, gain confidence                                      |
 | Resources   | Buy things, lifestyle, bribery, assess value                         |
-| Science     | Physical sciences, social sciences, medical sciences                 |
 | Shoot       | Ranged weapons, weapon knowledge, tactics                            |
 | Stealth     | Hide, shadow, sneak, avoid detection                                 |
 | Will        | Mental fortitude, concentration                                      |
 
 # Skill Descriptions with Examples
+## Arcana
+The **Arcana** skill is about magical knowledge and awareness.
+- **Overcome**:
+  - Apply knowledge of magic
+  - Recognize the presence of active magic
+  - Detect residual magical energy
+  - Research a magic ritual
+- **Advantage:**
+  - Use knowledge of magic to add an aspect or story detail
+
 ## Athletics
 The **Athletics** skill involves physical activities requiring speed or agility. Feats of strength are covered by **Physique**.
 It covers movement outside a vehicle, including running, jumping, climbing, and swimming.
@@ -140,7 +150,7 @@ The **Discipline** skill is about self-control.
 - **Defend:**
     - Defend against **Provoke**
     - Defend against **Empathy** or **Rapport** when used to try to reveal a secret
-    - Defend against attempts to detect magic use with **Lore**
+    - Defend against attempts to detect magic use with **Arcana**
 
 ## Empathy
 The **Empathy** skill is about noticing mood bearing.
@@ -173,7 +183,7 @@ unarmed combat. For ranged combat, use **Shoot**.
 ## Investigate
 The **Investigate** skill is about gathering information through effort. For situational awareness and quick observations,
 use **Notice**. For gathering information through social networks, use **Contacts**. For gathering arcane knowledge,
-use **Lore**.
+use **Arcana**.
 - **Overcome**:
   - Research
   - Find a passage in a book
@@ -182,15 +192,14 @@ use **Lore**.
 - **Advantage:**
   - Discover a detail about something or someone, given enough time (very versatile)
 
-## Lore
-The **Lore** skill is about magical knowledge and awareness.
-- **Overcome**:
-  - Apply knowledge of magic
-  - Recognize the presence of active magic
-  - Detect residual magical energy
-  - Research a magic ritual
+## Knowledge
+The **Knowledge** skill represents knowledge and education. It deals with non-magical knowledge in general. For magical
+knowledge, use **Arcana**.
+- **Overcome:**
+  - Apply knowledge of physical science, social science, medicine, history _inter alia_ to get past an obstacle.
 - **Advantage:**
-  - Use knowledge of magic to add an aspect or story detail
+  - Use an area of knowledge to apply a story detail
+    **Special:** Knowledge is used to begin the healing process for physical consequences.
 
 ## Mechanics
 The **Mechanics** skill is about working with machinery — usually to fix it, but sometimes to build or damage it.
@@ -286,15 +295,6 @@ the bookkeeping.
   - Buy friends
   - Acquire the loyalty of someone on the inside
 
-## Science
-The **Science** skill represents knowledge and education. It is science in the broad sense of the word, dealing with
-non-magical knowledge in general. For magical knowledge, use **Lore**.
-- **Overcome:**
-  - Apply knowledge of physical science, social science, medicine, history _inter alia_ to get past an obstacle.
-- **Advantage:**
-  - Use an area of knowledge to apply a story detail
-**Special:** Science is used to begin the healing process for physical consequences.
-
 ## Shoot
 The **Shoot** skill is used to make attacks from up to two zones away. It includes attacks from thrown weapons, sling, bows,
 firearms, energy weapons, etc. For close-quarters combat, use **Fight**.
@@ -322,7 +322,7 @@ The **Stealth** skill is about avoiding detection.
 
 ## Will
 The **Will** skill is about mental strength. It is also used for creating a magical effect. It can be used for dealing
-with a mental task that is only a matter of time. If it takes more than mental brute force, use **Science**.
+with a mental task that is only a matter of time. If it takes more than mental brute force, use **Knowledge**.
 - **Overcome:**
   - Solve a puzzle requiring mental effort
   - Decipher a code

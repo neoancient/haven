@@ -27,12 +27,12 @@ it in place of anther skill.
 Examples:
 - **Astral Residue Scanner:** You can use **Investigate** to detect ships that recently dropped astral in the same system.
 - **Trigger Discipline:** You can use **Provoke** to inflict mental stress with a ranged weapon, assuming you don't shoot to kill.
-- **Gravity Tuner:** You have worked on gravity stones, and may use **Mechanics** instead of **Lore when restoring, disabling, or manipulating artificial gravity systems.
+- **Gravity Tuner:** You have worked on gravity stones, and may use **Mechanics** instead of **Arcana** when restoring, disabling, or manipulating artificial gravity systems.
 
 ### Add a Bonus to an Action
 These stunts add a bonus to a skill check under a specific set of conditions.
 Examples:
-- **Singularity Scholar:** Because of your extensive knowledge of the Singularity Gradient THeory, you gain +2 to **Science** when identifying anomalies or calculating travel times through the astral plane.
+- **Singularity Scholar:** Because of your extensive knowledge of the Singularity Gradient Theory, you gain +2 to **Knowledge** when identifying anomalies or calculating travel times through the astral plane.
 - **Spacewalker:** You have extensive experience with EV suits, and gain +2 to Athletics when when overcoming movement obstacles while in a space suit or on the outer hull of a ship.
 - **Dockmaster's Friend:** You tip generously and know the right people, and gain +2 to **Contacts** when arranging berths, bribes, or quick launches at starports.
 

@@ -76,7 +76,7 @@ _Having decided that **Empathy** is one of Annie's best skills, Emily proposes t
 stunt that lets her use **Culture** instead of **Empathy** to read a crowd to one that lets her use **Culture** instead
 of **Notice** to spot hidden caches or useful junk. The GM agrees._
 
-_Jim selects **Mechanics** at Great (+4), since that is the skill that will govern making explosives. He selects **Science**
+_Jim selects **Mechanics** at Great (+4), since that is the skill that will govern making explosives. He selects **Knowledge**
 at Good (+3), reasoning that Fizzbin should have a good understanding of chemistry, and takes **Culture** as his other skill
 at Good. At Fair (+2), he selects **Investigate**, **Notice**, and **Physique** (he thinks he may need the extra physical
 stress boxes). Looking at what Emily has left at Mediocre (+0) for Annie, he picks **Contacts**, **Shoot**, **Pilot**,
