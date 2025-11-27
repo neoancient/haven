@@ -83,13 +83,67 @@ stress boxes). Looking at what Emily has left at Mediocre (+0) for Annie, he pic
 and **Deceive** for his four skills at Average (+1)._
 
 # Stunts
-Under construction
+Characters start with three stunts. They can gain more stunts by spending one refresh for each additional stunt. At major
+milestones, characters receive an additional refresh which can be spent on a new stunt. See [Advancement]({{ site.baseurl }}/advancement.html)
+
+_**Example:** Emily knows that Annie will not be effective in a fight, and needs to survive in other ways. For her first
+stunt, Emily gives her an advantage in running away with **Quick Escape:** Gain +2 when using Athletics to overcome
+obstacles in chases or escapes. She could also use help acquiring supplies, so Emily adds **It Was Just Lying There:**
+Use Burglary instead of Investigate when searching for useful items in wreckage or abandoned places. While Annie can
+survive by running away, Emily also wants her to be able to stand up to bullies. For Annie's third stunt she suggests
+**Little Dog, Big Bark:** Once per scene, spend a Fate Point to create a surprise advantage against a larger or more powerful opponent.
+The GM likes the idea, but doesn't think spending a Fate Point is enough of a restriction, since it would normally get
+a +2 or a reroll on a skill check, and Emily wants it to work automatically. The GM suggests limiting it to once per
+scenario, and it can only be done at the beginning of the scene._
+
+_Jim devises the stunts **Gadgeteer:** Once per scene, produce a custom device that grants an advantage,
+**Gremlin’s Touch:** Spend a Fate Point to force a mechanical failure in a piece of technology within reach, and **Jury-Rigger:**
+Gain +2 when using Craft to fix or modify machines in the field. Again the GM thinks that an automatic advantage
+once per scene is beyond the normal scope of a stunt, and suggests changing it to once per session. Jim suggests instead
+that it provide a boost rather than a full aspect, and the GM agrees._
 
 # Stress Tracks
-Under construction
+Characters default to two boxes each on the physical and mental stress tracks. The **Physique** and **Will** skills can
+add additional boxes to the physical and mental stress tracks, respectively. A skill of Average (+1) or Fair (+2) adds
+one box. A skill of Good (+3) or higher adds an additional box. At Superb (+5), the character gains the ability to take
+an additional mild consequence, but this is normally not available to a starting character.
 
-# Extras
-Under construction
+_**Example:** Annie has a **Physique** skill of Mediocre (+0), and has only the two default boxes on her physical
+stress track. Her **Will** of Average (+1) gives her an additional mental stress box, for a total of three._
+
+_Fizzbin, on the other hand, has a **Physique** of Fair (+2) and a Will of Mediocre (+0), giving him an additonal
+box on his physical stress track, but no additional boxes on his mental stress track._
+
+# Magic and Extras
+Characters may spend refresh for extras, including magic. See [Magic]({{ site.baseurl }}/magic.html) and [Extras]({{ site.baseurl }}/extras.html).
+
+_**Example:** Emily considers having Annie inherit a special item from her father, but her concept of the character is
+someone who survives through lucky breaks. She wants Annie to have as many Fate Points as possible and does not spend any of
+her refresh for Extras._
+
+_Jim wants Fizzbin's engineering to have a magical element to it. He briefly considers giving Fizzbin **Elemental** magic,
+but decides that **Technomancy** fits better. This leaves Fizzbin with two refresh._
+
+# Completion
+Any decisions that have been deferred are made at this time. Starting characters have a refresh of three, less any
+they spent on additional stunts, magic, or extras.
+
+_**Example:** Emily has a better picture of Annie now, and assigns her three remaining aspects: **Fast Feet, Faster Fingers,**
+**Knows Every Alley and Hidden Hatch,** and **A Soft Spot for the Lost and Broken.** If she decides any do not quite fit,
+she can adjust them at minor milestones (usually the end of a session). Emily also records that Annie has three
+refresh, meaning that she will start every session with at least three Fate Points. Emily also fills in a description and
+some biographical details about Annie on the reverse of the character sheet, as well as noting her vibroknife in the
+inventory section._
+
+_Jim decides to use his last aspect on Fizzbin's relationship to Annie: Annie's Best Friend. He realizes that with
+a Mediocre (+0) **Will**, magic will be difficult. He decides to add an additional stunt: **Focus on the Boom:** +2 to Will
+when using Technomancy on an explosive device. With two refresh spent on magic (one realm and one stunt), Fizzbin gets
+one box on his mana track. This leaves Fizzbin with only one refresh. Jim will have to accept more compels to get Fate
+Points. The GM smiles._
+
+[Annie's Character Sheet]({{ site.baseurl }}/assets/docs/annie.pdf)<br />
+
+[Fizzbin's Character Sheet]({{ site.baseurl }}/assets/docs/fizzbin.pdf)
 
 # Approaches to Character Creation
 The steps given so far assume a traditional approach to creating a character, in which the beginning character details

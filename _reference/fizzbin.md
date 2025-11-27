@@ -15,7 +15,7 @@ aspects:
 stunts:
   - "Gadgeteer: Once per scene, produce a custom device that grants a temporary advantage."
   - "Gremlin’s Touch: Spend a Fate Point to force a mechanical failure in a piece of technology within reach."
-  - "Jury-Rigger: Gain +2 when using Craft to fix or modify machines in the field."
+  - "Jury-Rigger: Gain +2 when using Mechanics to fix or modify machines in the field."
 sections:
   - title: Appearance
     content: >-
@@ -26,6 +26,6 @@ sections:
   - title: Background
     content: >-
       Fizzbin is a brilliant, if erratic, inventor who grew up tinkering with discarded tech in Haven’s scrap yards. His
-      creations are often ingenious, though not always reliable. He makes a living repairing ships and hacking systems,
+      creations are often ingenious, though not always reliable. He makes a living repairing equipment and hacking systems,
       but he’s always chasing the next big idea—or the next explosion. He is seldom found very far from [Annie](annie.html).
 ---

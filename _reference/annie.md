@@ -7,7 +7,7 @@ illustration: annie.png
 aspects:
   - name: Clever Street Urchin with a Talent for Trouble
     known: true
-  - name: The Past Never Stays Buried
+  - name: My Father Is Coming Back Someday
   - name: Fast Feet, Faster Fingers
   - name: Knows Every Alley and Hidden Hatch
     known: true
@@ -16,7 +16,7 @@ aspects:
 stunts:
   - "Quick Escape: Gain +2 when using Athletics to overcome obstacles in chases or escapes."
   - "It Was Just Lying There: Use Burglary instead of Investigate when searching for useful items in wreckage or abandoned places."
-  - "Little Fish, Big Bite: Once per scene, spend a Fate Point to create a surprise advantage against a larger or more powerful opponent."
+  - "Little Dog, Big Bark: Once per session, spend a Fate Point at the beginning of a scene to create a surprise advantage against a larger or more powerful opponent."
 sections:
   - title: Appearance
     content: >-
