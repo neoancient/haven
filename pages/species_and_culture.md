@@ -282,6 +282,17 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Rapport          | Rally or inspire allies                                              |
 | Stealth          | Waiting in ambush, lying low in hostile terrain, or holding position |
 
+## Performer Background
+
+| Subsituted Skill | Situation                                                                                 |
+|:-----------------|:------------------------------------------------------------------------------------------|
+| Deceive          | Playing a role in disguise                                                                | 
+| Discipline       | Maintaining composure while handling an audience that is hostile, skeptical, or dangerous |
+| Empathy          | Reading subtle reactions of a crowd                                                       |
+| Investigate      | Gathering information from audiences, clients, or curious strangers                       |
+| Provoke          | Eliciting a reaction in an attentive crowd                                                |
+| Rapport          | Gaining trust or attention of crowds                                                      |
+
 ## Pirate Background
 
 | Subsituted Skill | Situation                                                              |
