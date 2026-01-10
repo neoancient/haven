@@ -1,17 +1,20 @@
 ---
 layout: reference
 category: person
-title: Matilda the Healer
+title: Matren Calder
 species: Human
-illustration: matilda_the_healer.png
+illustration: matren_calder.png
 aspects:
-  - name: Battlefield Healer with a Heart of Gold
-  - name: Haunted by What She Couldn’t Save
-  - name: Empathy in a Cold Galaxy
+  - name: Former Navy Medic
     known: true
-  - name: Mender of Flesh and Soul
-    known: true
-  - name: Secrets in the Blood
+  - name: There Are Some Orders I Can't Follow
+  - name: I Do What Is Necessary
+  - name: Always on Call
+  - name: Naval Discipline
+stunts:
+  - "Field Surgeon: Gain +2 to Knowledge to stabilize, treat, or diagnose injuries in field or emergency conditions."
+  - "Calm Under Fire: Gain +2 to Discipline when resisting panic or stress in dangerous situations."
+  - "Improvised Medical Fix: Use Knowledge instead of Mechanics when jury-rigging medical equipment or creating field medical tools."
 sections:
   - title: Appearance 
     content: >-
