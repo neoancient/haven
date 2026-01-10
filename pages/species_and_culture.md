@@ -278,7 +278,7 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 | Contacts         | Navigating military hierarchies                                      |
 | Fight            | Creating a tactical advantage                                        |
 | Notice           | Analyzing a battlefield or spotting weak points in enemy formations  |
-| Provoke          | Giving orders to subordinates to cowing civilians                    |
+| Provoke          | Giving orders to subordinates or cowing civilians                    |
 | Rapport          | Rally or inspire allies                                              |
 | Stealth          | Waiting in ambush, lying low in hostile terrain, or holding position |
 

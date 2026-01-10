@@ -161,6 +161,7 @@ The **Empathy** skill is about noticing mood bearing.
 - **Defend:**
   - Defend against **Deceive**
   - Defend against attempts to create social advantages with **Rapport**
+
 **Special:** Empathy is used to begin the healing process for mental consequences.
 
 ## Fight
@@ -199,7 +200,8 @@ knowledge, use **Arcana**.
   - Apply knowledge of physical science, social science, medicine, history _inter alia_ to get past an obstacle.
 - **Advantage:**
   - Use an area of knowledge to apply a story detail
-    **Special:** Knowledge is used to begin the healing process for physical consequences.
+
+**Special:** Knowledge is used to begin the healing process for physical consequences.
 
 ## Mechanics
 The **Mechanics** skill is about working with machinery — usually to fix it, but sometimes to build or damage it.
@@ -236,6 +238,7 @@ The **Physique** skill is about physical strength and endurance. For speed and a
   - Discover a physical impairment during a physical conflict (e.g. _Bum Leg_)
 - **Defend:**
   - Oppose someone else's movement
+
 **Special:** A Physique of Average (+1) or Fair (+2) gives an additional physical stress box. A Physique of Good (+3)
 or Great (+4) gives two additional physical stress boxes. A Physique of Superb (+5) or higher gies two additional
 physical stress boxes and an extra mild consequence slot, which can only be used for physical damage.
