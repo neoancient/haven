@@ -18,10 +18,10 @@ stunts:
 sections:
   - title: Appearance 
     content: >-
-      Clara has bright eyes and an inquisitive expression. She wears practical clothes for exploration, often carrying
+      Klara has bright eyes and an inquisitive expression. She wears practical clothes for exploration, often carrying
       a scanner and data pad.
   - title: Background
     content: >-
-      Driven by curiosity, Clara maps uncharted territories and studies anomalies, including astral phenomena. She
+      Driven by curiosity, Klara maps uncharted territories and studies anomalies, including astral phenomena. She
       hopes to make discoveries that will give Haven an edge—or keep it safe.
 ---

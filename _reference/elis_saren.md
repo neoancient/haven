@@ -16,7 +16,7 @@ stunts:
 sections:
   - title: Appearance 
     content: >-
-      Eliza has weathered skin and an intricate star map tattooed on her arm. She carries a sextant-like magical tool
+      Elis has weathered skin and an intricate star map tattooed on her arm. She carries a sextant-like magical tool
       for astral navigation.
   - title: Background
     content: >-
