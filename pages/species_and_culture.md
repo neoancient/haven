@@ -253,7 +253,7 @@ See [faction description]({{ site.baseurl }}/reference/ironhold_dominion.html)
 
 | Subsituted Skill | Situation                                                  |
 |:-----------------|:-----------------------------------------------------------|
-| Mechanics        | Wprking with industrial tools, machines, or vehicles       |
+| Mechanics        | Working with industrial tools, machines, or vehicles       |
 | Mechanics        | Jury-rigging equipment or maintaining heavy machinery      |
 | Notice           | Assess structural hazards or workplace environments        |
 | Rapport          | Interacting with laborers, engineers, or trade guilds      |
