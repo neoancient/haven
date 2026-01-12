@@ -18,10 +18,12 @@ stunts:
 sections:
   - title: Appearance 
     content: >-
-      Matren is a calm presence in the chaos of Haven. She wears a long coat reinforced for protection and carries a
-      satchel filled with medical tools and enchanted crystals for healing. Her soft voice belies the strength of her will.
+      A disciplined and calm former Yrth navy medic, Matren exudes quiet authority. She wears practical attire, often
+      with a satchel or kit ready for emergencies, and carries herself with a measured composure. Her eyes reflect
+      both experience and compassion.
   - title: Background
     content: >-
-      Once a field medic in the Empire’s navy, Matren deserted after refusing to follow orders that would sacrifice
-      innocent lives. Now, she serves the outcasts of Haven, providing care to those the galaxy has forgotten.
+      Matren served in the Yrth navy, but deserted when orders conflicted with her personal ethics. Now a healer on
+      Haven, she prioritizes the lives of those under her care, often putting herself at risk to save others. Her military
+      background provides structure and precision, but she has learned to improvise when standard procedures fall short.
 ---

@@ -18,10 +18,13 @@ stunts:
 sections:
   - title: Appearance 
     content: >-
-      Klara has bright eyes and an inquisitive expression. She wears practical clothes for exploration, often carrying
-      a scanner and data pad.
+      A spirited scholar-adventurer in her early 30s, Klara is always chasing the unknown. She carries a wealth of
+      obscure knowledge about lost colonies and distant worlds, and has a flair for dramatic discoveries. Her attire is
+      practical for travel but hints at a collector’s eye for unusual trinkets.
   - title: Background
     content: >-
-      Driven by curiosity, Klara maps uncharted territories and studies anomalies, including astral phenomena. She
-      hopes to make discoveries that will give Haven an edge—or keep it safe.
+      Born on a mid-sized colony world, Klara was fascinated by old star charts and lost settlements from a young age.
+      She travels not for wealth, but for the thrill of discovery and the preservation of history. Curiosity is both her
+      greatest asset and her greatest liability, often leading her into danger—but she always has a plan to get out,
+      usually involving clever improvisation or extensive knowledge of the universe's quirks.
 ---

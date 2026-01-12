@@ -16,10 +16,14 @@ stunts:
 sections:
   - title: Appearance 
     content: >-
-      Elis has weathered skin and an intricate star map tattooed on her arm. She carries a sextant-like magical tool
-      for astral navigation.
+      A quick-witted, confident pilot in her late 20s, Elis has a natural flair for navigating both ships and social
+      currents. Her appearance is practical yet stylish, with subtle nods to pirate culture. She carries a confident
+      smirk, a gleam of adventure in her eyes, and the unmistakable air of someone who thrives at the edge of danger.
   - title: Background
     content: >-
-      Eliza grew up among pirates, learning the trade routes and hidden paths of the astral plane. She’s an expert at
-      navigating astral drops, especially those requiring unconventional routes.
+      Raised among spacers and smugglers, Elis learned to pilot ships almost as soon as she could walk. She became a
+      skilled navigator and a cunning opportunist, always one step ahead of both authorities and rivals. While her
+      talents shine in astral navigation, she also thrives in planetary operations, using contacts and local knowledge
+      to get herself and her crew out of tight spots. Her reputation for clever maneuvering has earned her the respect
+      (and occasional envy) of the Freehold borderlands' shadowy circles.
 ---

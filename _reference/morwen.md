@@ -17,10 +17,14 @@ stunts:
 sections:
   - title: Appearance 
     content: >-
-      Madame Morwen wears flowing robes adorned with arcane symbols and carries a staff topped with a glowing crystal
-      orb. Her eyes shimmer faintly with magical energy, and she always seems to know more than she reveals.
+      A mysterious, reserved fortune-teller , Morwen wears flowing, layered garments and often keeps her distance in
+      social situations. Her sharp eyes seem to see more than she lets on, and there’s a quiet intensity about her
+      presence.
   - title: Background
     content: >-
-      Morwen is a powerful seer who operates on the edges of legality, using her magic to glimpse possible futures and
-      uncover secrets. She offers her services to pirates and smugglers for a price but has her own cryptic agenda.
+      Morwen's magical abilities manifested in adolescence, causing headaches, visions, and social strain. Misdiagnosed
+      as a mental illness, she endured years of suppression before her powers returned stronger than ever. Choosing a
+      life on the road, she became a professional seer, offering divinations while keeping her trust and friendships
+      limited. Though she seldom opens up, her uncanny insight into people and events makes her a powerful ally, and a
+      figure whose motives and thoughts are often unpredictable.
 ---

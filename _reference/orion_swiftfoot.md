@@ -18,12 +18,13 @@ stunts:
 sections:
   - title: Appearance
     content: >-
-      Orían has a roguish smile and tousled hair, wearing a patched flight jacket and carrying a customized blaster.
-      His boots always seem dusty, as if he’s just stepped off another wild adventure.
+      Charismatic, agile, and always ready with a grin, Oirían is the picture of a spacefaring rogue. His movements are
+      fluid, his attire is light and practical, and he radiates confidence born of countless daring escapades.
   - title: Background
     content: >-
-      Orían made his name running contraband through blockades and dodging patrols. He’s quick with a joke and quicker
-      with his reflexes, making him one of the best pilots in the Borderlands. Though he prefers to keep things
-      lighthearted, his past sometimes catches up with him.
-      <p>Orían is the captain of Vaelora, an old FT-55C class light freighter.
+      Born of Elven heritage but raised among humans, Oirían learned early how to navigate complex social and political
+      currents. He became a smuggler and pilot, guiding ships through astral space with skill and daring. While his luck
+      and cunning often get him out of trouble, he also invests in crew and cargo, maintaining his own FT-55C class
+      light freighter, the *Vaelora*, for both legal and illicit runs. Oirían thrives on improvisation, daring maneuvers,
+      and turning near-disasters into opportunities.
 ---

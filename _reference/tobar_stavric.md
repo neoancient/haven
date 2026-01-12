@@ -18,7 +18,8 @@ stunts:
 sections:
   - title: Appearance 
     content: >-
-      Tobar has scars and a no-nonsense demeanor. He wears heavy armor and carries a modified plasma rifle.
+      A tall, imposing former marine with disciplined posture, Tobar moves with purpose. His armor and equipment show
+      the wear of countless battles, and his presence alone tends to command respect or caution.
   - title: Background
     content: >-
       Once part of the Empire’s military, Tobar grew disillusioned and left to make his own way. He now offers his
