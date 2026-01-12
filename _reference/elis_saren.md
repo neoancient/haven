@@ -3,6 +3,7 @@ layout: reference
 category: person
 title: Elis Saren
 species: Human
+illustration: elis_saren.jpeg
 aspects:
   - name: Seasoned Pirate Navigator
   - name: Trusts Her Instincts Over Everyone Else
