@@ -1,9 +1,9 @@
 ---
 layout: reference
 category: person
-title: Marius Goldfinger
+title: Alric Gildmar
 species: Human
-illustration: marius_goldfinger.png
+illustration: alric_gildmar.png
 aspects:
   - name: Merchant of Fortune and Betrayal
   - name: A Deal Gone Sour
@@ -15,8 +15,8 @@ aspects:
 sections:
   - title: Appearance 
     content: >-
-      Marius dresses extravagantly, flaunting gold rings and chains. His smile is as polished as his appearance.
+      Alric dresses extravagantly, flaunting gold rings and chains. His smile is as polished as his appearance.
   - title: Background
     content: >-
-      Marius profits by trading goods, secrets, and favors. While he’s trusted enough to do business in Haven, few truly believe he has anyone’s back but his own.
+      Alric profits by trading goods, secrets, and favors. While he’s trusted enough to do business in Haven, few truly believe he has anyone’s back but his own.
 ---
