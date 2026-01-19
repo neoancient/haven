@@ -45,7 +45,7 @@
                     {% if section.title %}
                         <h3>{{ section.title }}</h3>
                     {% endif %}
-                    {{ section.content | markdownify }}
+                    {{ section.content | markdownify | replace: '!SITE_URL!', site.baseurl }}
                 {% endfor %}
                 {{ content }}
             </section>

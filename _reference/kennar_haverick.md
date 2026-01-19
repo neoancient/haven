@@ -23,7 +23,7 @@ sections:
       life around him.
   - title: Background
     content: >-
-      Kennar tends Haven’s largest hydroponic farm, blending technical mastery with a touch of nature magic. While
+      Kennar tends <a href="!SITE_URL!/reference/haverick_hydroponics.html">Haverick Hyroponics</a>, Haven’s largest hydroponic farm, blending technical mastery with a touch of nature magic. While
       everyone relies on him for crops and environmental control, few truly understand his quirky, sometimes
       unpredictable ways. His eccentric methods produce exceptional results, but occasionally his subtle magic works
       in ways he cannot predict. Kennar is deeply patient, methodical, and stubborn. He claims he speaks “fluent plant,”
