@@ -90,6 +90,8 @@
             <td class="infobox-label">Surface pressure</td>
             <td class="infobox-data">{{ include.planet.surface_pressure }}</td>
         </tr>
+        {% endif %}
+        {% if include.planet.composition.size > 0 %}
         <tr>
             <td class="infobox-label">Composition by volume</td>
             <td class="infobox-data">
